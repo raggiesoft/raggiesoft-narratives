@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "3ba9e8a52117c46b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b503c27df26c70b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87180c3f9ea1ae75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/rachel/b013/c001/p003.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "p003"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "843f706462dcb157",
+    "type": "split",
+    "children": [
+      {
+        "id": "374d6acb8d15596e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e890d18cc4e4511",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0dbad1aa655ee0d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "POV",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e64311f779867758",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cba520126038c5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "051d23f3c3382150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2346db223c4d1d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/rachel/b013/c001/p003.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for p003"
+            }
+          },
+          {
+            "id": "69b9b0d83e78f76d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books/rachel/b013/c001/p003.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from p003"
+            }
+          },
+          {
+            "id": "59a13e4c0f41a8cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3fe8e3cf5ed3ff2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0610b30dd0aaf0ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books/rachel/b013/c001/p003.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of p003"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "87180c3f9ea1ae75",
+  "lastOpenFiles": [
+    "scripts/publish_books.php",
+    "scripts/migrate_frontmatter.php",
+    "books/rachel/b013/c001/p005.md",
+    "books/rachel/b013/c002/p002.md",
+    "books/rachel/b014/c002/p001.md",
+    "books-ai-lump/rachel/002-book-2-the-saltwater-summer.md",
+    "books-ai-lump/rachel/006-book-6-atlanta-spring-trip.md",
+    "books-ai-lump/rachel/009-book-9-the-divorce-reprieve.md",
+    "books-ai-lump/rachel/013-book-13-michael-s-senior-year.md",
+    "books-ai-lump/rachel/014-book-14-delores.md",
+    "books-ai-lump/pebble-borrow/007-welcome-to-pebble-burrow.md",
+    "books-ai-lump/pebble-borrow/008-the-general-s-arrival.md",
+    "books-ai-lump/pebble-borrow/023-amanda-interviews-care-nurses.md",
+    "books-ai-lump/paige/002-book-the-blueprint.md",
+    "books-ai-lump/paige/003-book-a-new-beginning.md",
+    "books-ai-lump/nichole/001-book-elementary-school.md",
+    "books-ai-lump/pebble-borrow/002-book-2-the-motel-on-the-highway.md",
+    "books-ai-lump/nichole/002-book-middle-school.md",
+    "books-ai-lump/nichole/003-book-freshman-year.md",
+    "books-ai-lump/nichole/005-book-senior-year.md",
+    "books-ai-lump/nichole/006-book-college-tours.md",
+    "books-ai-lump/nichole/010-book-braxton-senior-year.md",
+    "books-ai-lump/nichole/011-book-bennett-dynamics.md",
+    "books-ai-lump/rachel/003-book-3-base-camp.md",
+    "books-ai-lump/nate/001-book-the-architecture-of-safe-spaces.md",
+    "books-ai-lump/nate/003-book-the-architecture-of-a-safe-space.md",
+    "books-ai-lump/nichole/008-book-braxton-freshman.md",
+    "books-ai-lump/samantha",
+    "books-ai-lump/rachel",
+    "books-ai-lump/pebble-borrow",
+    "books-ai-lump/paige",
+    "books-ai-lump/nichole",
+    "books-ai-lump/nate",
+    "books-ai-lump/mary-childhood",
+    "books-ai-lump/luna-leo",
+    "books-ai-lump/kelly",
+    "Untitled.canvas"
+  ]
+}
