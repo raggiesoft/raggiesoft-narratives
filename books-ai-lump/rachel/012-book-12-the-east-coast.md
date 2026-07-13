@@ -9,8 +9,6 @@ series: "The Rachel Narrative"
 
 ### Part 1: The First Class Algorithm – 6:00 AM
 
-(Note: The following section shifts the narrative perspective to Rachel’s point of view, focusing on her sensory experiences and internal processing.)
-
 The hydraulic brakes of the TAPS Route 194 bus exhaled a loud, sharp hiss, echoing violently against the concrete drop-off curb of the Seattle-Tacoma International Airport.
 
 I hated that sound. It was sudden and unpredictable, an acoustic spike that made the muscles in my neck completely lock up. But as the bus doors opened, spilling us out into the freezing, gray Pacific Northwest morning, I didn't cover my ears. I couldn't.
@@ -309,8 +307,6 @@ The algorithm was perfect. And every second that the massive engines pushed us f
 
 ### Part 6: The Prismatic Corridor – 4:30 PM (CST)
 
-(Rachel's POV)
-
 The transition from the insulated, premium sanctuary of the aircraft cabin to the massive, sprawling reality of the Chicago transit hub was a severe shock to my system.
 
 We retrieved Jessica's manual wheelchair on the jet bridge. She transferred back into her custom seat, instantly regaining her mobility and her armor. I took my position behind her, locking my hands onto the rubber push-handles.
@@ -397,8 +393,6 @@ But as the heavy, grounding pressure of Jessica's hand remained on my head, I kn
 
 ### Part 7: The System Crash – 4:45 PM (CST)
 
-(Rachel's POV)
-
 The elevator ascended, the heavy metal doors shielding me for a few desperate seconds from the flashing horror of the underground tunnel. My breathing was ragged, my hands shaking violently where they gripped Jessica's push-handles.
 
 I thought the worst was over. I thought returning to the main level would mean returning to the predictable, manageable friction of a standard airport.
@@ -440,8 +434,6 @@ Travelers walked past us, some staring, some intentionally looking away. Jessica
 I focused all of my remaining conscious energy on those words. *Virginia. Michael.* I kept my eyes squeezed shut, letting the tears soak into the fabric of my coat, and allowed the guttural rumble in my chest to slowly transition into a long, broken hum. I couldn't fix the environment, and Jessica couldn't stop the noise, but she was holding the line. We were going to sit right here on the floor of Concourse C until I could finally breathe again.
 
 ### Part 8: The Joyful Overload – 5:00 PM (CST)
-
-(Rachel's POV)
 
 The cold tile of the concourse floor was hard against my knees, but the steady, unyielding pressure of Jessica's hand on the back of my neck kept my system tethered to reality. Slowly, the ragged, guttural rumble in my chest quieted into a tired, rhythmic hum.
 
@@ -554,8 +546,6 @@ On this day!
 As the orchestra and guitar built to a massive, triumphant final chord, I pushed the heavy wheelchair forward, steering us seamlessly into the flow of the holiday crowd. The exhaustion and the trauma of the tunnel were completely overwritten by the math of the final leg. I was the engine. We were halfway there. And I was going home to my brother.
 
 ### Part 9: The Midwestern Sanctuary – 5:15 PM (CST)
-
-(Rachel's POV)
 
 The physical aftermath of a dual-system crash is a heavy, hollow exhaustion. My muscles felt like they were filled with wet sand, and my throat was raw from the vocalizations.
 

@@ -1,116 +1,105 @@
 <?php
-echo "Starting Frontmatter Migration...\n";
 
-$manifestFile = __DIR__ . '/katie.json';
-if (!file_exists($manifestFile)) {
-    die("Error: katie.json not found in " . __DIR__ . "\n");
+$booksDir = realpath(__DIR__ . '/../books');
+
+if (!$booksDir || !is_dir($booksDir)) {
+    die("Error: The directory ../books/ does not exist or cannot be resolved.\n");
 }
 
-$katie = json_decode(file_get_contents($manifestFile), true);
-if (json_last_error() !== JSON_ERROR_NONE) {
-    die("Error: Invalid JSON syntax in katie.json\n");
-}
+// 1. Recursively find all .md files
+$directoryIterator = new RecursiveDirectoryIterator($booksDir, RecursiveDirectoryIterator::SKIP_DOTS);
+$iterator = new RecursiveIteratorIterator($directoryIterator);
 
-// Ensure we are working with the new wrapped structure
-$books = isset($katie['books']) ? $katie['books'] : $katie;
-
-$processedCount = 0;
-
-foreach ($books as $book) {
-    echo "\nProcessing: {$book['book_title']}\n";
-    
-    foreach ($book['chapters'] as $chapter) {
-        // 1. PARSE THE CHAPTER DATE
-        $rawChapTitle = strip_tags($chapter['chap_title']); // Removes <sup> tags
-        $dateFormatted = "";
-        
-        // Match standard format: "Month DD, YYYY" or "Month DDth, YYYY"
-        if (preg_match('/([a-zA-Z]+)\s+(\d{1,2})(?:st|nd|rd|th)?,\s+(\d{4})/i', $rawChapTitle, $m)) {
-            $dateFormatted = date('Y-m-d', strtotime("{$m[1]} {$m[2]}, {$m[3]}"));
-        } 
-        // Match fallback format: "Month YYYY" (Missing Day)
-        elseif (preg_match('/([a-zA-Z]+)\s+(\d{4})/i', $rawChapTitle, $m)) {
-            $dateFormatted = date('Y-m', strtotime("{$m[1]} 1, {$m[2]}"));
-        }
-
-        foreach ($chapter['parts'] as $part) {
-            $filePath = __DIR__ . '/' . $part['file_path'];
-            
-            if (!file_exists($filePath)) {
-                echo "  [Skipping] File not found: {$part['file_path']}\n";
-                continue;
-            }
-
-            // 2. PARSE THE PART TITLE, TIME, AND TIMEZONE
-            $rawPartTitle = $part['part_title'];
-            
-            // Expected string: "Part X: Title Text – 5:05 PM to 6:00 PM (PST)"
-            // The regex splits at either an en-dash (–) or a standard hyphen (-)
-            if (preg_match('/^Part\s+\d+:\s+(.*?)\s+[–\-]\s+(.*)$/u', $rawPartTitle, $m)) {
-                $cleanTitle = trim($m[1]);
-                $timeSection = trim($m[2]);
-            } else {
-                // Fallback if the string formatting is unexpected
-                $cleanTitle = preg_replace('/^Part\s+\d+:\s+/', '', $rawPartTitle);
-                $timeSection = "";
-            }
-
-            // Extract and Normalize Timezone
-            $tz = "ET"; // Default
-            if (preg_match('/\(([A-Z]{3,4})\)/i', $timeSection, $tzMatch)) {
-                $rawTz = strtoupper($tzMatch[1]);
-                if (str_starts_with($rawTz, 'P')) $tz = 'PT';
-                elseif (str_starts_with($rawTz, 'C')) $tz = 'CT';
-                elseif (str_starts_with($rawTz, 'M')) $tz = 'MT';
-                elseif (str_starts_with($rawTz, 'E')) $tz = 'ET';
-                
-                // Remove timezone string from the time section to parse the time cleanly
-                $timeSection = trim(str_replace($tzMatch[0], '', $timeSection));
-            }
-
-            // Extract Start and End Times
-            $startTime = "";
-            $endTime = "";
-            
-            if (strpos(strtolower($timeSection), ' to ') !== false) {
-                $times = explode(' to ', strtolower($timeSection));
-                $startTime = date('H:i', strtotime(trim($times[0])));
-                $endTime = date('H:i', strtotime(trim($times[1])));
-            } elseif (!empty($timeSection)) {
-                $startTime = date('H:i', strtotime($timeSection));
-            }
-
-            // 3. BUILD THE YAML FRONTMATTER
-            $yaml = "---\n";
-            $yaml .= "title: \"{$cleanTitle}\"\n";
-            if ($dateFormatted) $yaml .= "date: {$dateFormatted}\n";
-            if ($startTime) $yaml .= "start_time: \"{$startTime}\"\n";
-            if ($endTime) $yaml .= "end_time: \"{$endTime}\"\n";
-            $yaml .= "timezone: \"{$tz}\"\n";
-            $yaml .= "pov: \"\"\n";
-            $yaml .= "---\n\n";
-
-            // 4. MODIFY THE MARKDOWN FILE
-            $markdown = file_get_contents($filePath);
-            
-            // Safety check: Don't double-inject if script is run twice
-            if (str_starts_with(trim($markdown), '---')) {
-                echo "  [Skipping] Frontmatter already exists: {$part['file_path']}\n";
-                continue;
-            }
-
-            // Regex to aggressively strip the # Heading at the top
-            // Looks for "# Part X:" and removes that entire line and any trailing blank lines
-            $markdown = preg_replace('/^#\s+Part\s+\d+:.*?(?:\r?\n)+/i', '', ltrim($markdown));
-
-            // Write the file back with the YAML prepend
-            file_put_contents($filePath, $yaml . $markdown);
-            
-            echo "  -> Injected Frontmatter: {$cleanTitle}\n";
-            $processedCount++;
-        }
+$files = [];
+foreach ($iterator as $fileInfo) {
+    if ($fileInfo->isFile() && strtolower($fileInfo->getExtension()) === 'md') {
+        $files[] = $fileInfo->getPathname();
     }
 }
 
-echo "\nMigration Complete! Processed {$processedCount} Markdown files.\n";
+if (empty($files)) {
+    die("No markdown files found recursively in {$booksDir}\n");
+}
+
+echo "Found " . count($files) . " markdown files. Processing...\n\n";
+
+foreach ($files as $file) {
+    $content = file_get_contents($file);
+    
+    // 2. Separate existing frontmatter from the body
+    $hasFrontmatter = preg_match('/^---\s*\n(.*?)\n---\s*\n(.*)$/s', $content, $matches);
+    
+    $existingFields = [];
+    $body = $content;
+
+    if ($hasFrontmatter) {
+        $frontmatterString = $matches[1];
+        $body = $matches[2];
+        
+        // Parse existing YAML into an associative array
+        $lines = explode("\n", trim($frontmatterString));
+        foreach ($lines as $line) {
+            if (preg_match('/^([a-zA-Z0-9_-]+)\s*:\s*(.*)$/', $line, $fieldMatches)) {
+                $existingFields[trim($fieldMatches[1])] = trim($fieldMatches[2]);
+            }
+        }
+    }
+
+    // 3. EXTRACT DATA USING YOUR REGEX
+    // Insert your existing regex logic here to parse the $body or basename($file).
+    $extractedTitle = ""; 
+    $extractedDate = "";  
+    $extractedTime = "";  
+    $extractedTz = "";    
+
+    /* 
+     * Example Regex implementation:
+     * if (preg_match('/# (.*)/', $body, $titleMatch)) { $extractedTitle = $titleMatch[1]; }
+     * if (preg_match('/Date: (.*)/', $body, $dateMatch)) { $extractedDate = $dateMatch[1]; }
+     */
+
+    // 4. Define the desired fields. Fallback to empty quotes "" if regex missed them.
+    $targetFields = [
+        'title'    => $extractedTitle !== "" ? '"' . addslashes($extractedTitle) . '"' : '""',
+        'date'     => $extractedDate !== "" ? '"' . $extractedDate . '"' : '""',
+        'time'     => $extractedTime !== "" ? '"' . $extractedTime . '"' : '""',
+        'timezone' => $extractedTz !== "" ? '"' . $extractedTz . '"' : '""'
+    ];
+
+    $requiresUpdate = false;
+    
+    // 5. Merge logic: Keep existing fields, append missing ones
+    foreach ($targetFields as $key => $value) {
+        if (!array_key_exists($key, $existingFields)) {
+            $existingFields[$key] = $value;
+            $requiresUpdate = true;
+        }
+    }
+
+    if (!$hasFrontmatter) {
+        $requiresUpdate = true;
+    }
+
+    // 6. Write back to the file if changes were made
+    if ($requiresUpdate) {
+        $newFrontmatter = "---\n";
+        foreach ($existingFields as $k => $v) {
+            $newFrontmatter .= "$k: $v\n";
+        }
+        $newFrontmatter .= "---\n";
+        
+        $newContent = $newFrontmatter . $body;
+        file_put_contents($file, $newContent);
+        
+        // Output clean relative path for terminal readability
+        $relativePath = str_replace($booksDir, '', $file);
+        echo "Updated: {$relativePath}\n";
+    } else {
+        $relativePath = str_replace($booksDir, '', $file);
+        echo "Skipped (Already complete): {$relativePath}\n";
+    }
+}
+
+echo "\nFrontmatter migration complete.\n";
+
 ?>
