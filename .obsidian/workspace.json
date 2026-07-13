@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b503c27df26c70b9",
+        "id": "fd86ee0dc574181c",
         "type": "tabs",
         "children": [
           {
-            "id": "87180c3f9ea1ae75",
+            "id": "36681a159b7c5ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/rachel/b013/c001/p003.md",
+                "file": "books/jack-sarah/b001/c001/p001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "p003"
+              "title": "p001"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/rachel/b013/c001/p003.md",
+                "file": "books/rachel/b015/c002/p002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for p003"
+              "title": "Backlinks for p002"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/rachel/b013/c001/p003.md",
+                "file": "books/rachel/b015/c002/p002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from p003"
+              "title": "Outgoing links from p002"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/rachel/b013/c001/p003.md",
+                "file": "books/rachel/b015/c002/p002.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of p003"
+              "title": "Outline of p002"
             }
           }
         ]
@@ -183,44 +183,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "87180c3f9ea1ae75",
+  "active": "36681a159b7c5ddd",
   "lastOpenFiles": [
+    "books/rachel/b007/c003/p001.md",
+    "books/rachel/b007/c002/p004.md",
+    "books/rachel/b006/c001/p001.md",
+    "books/rachel/b005/c005/p003.md",
+    "books/rachel/b005/c005/p005.md",
+    "books/rachel/b005/c005/p006.md",
+    "books/rachel/b005/c005/p008.md",
+    "books/rachel/b005/c005/p013.md",
+    "books/rachel/b005/c006/p001.md",
+    "books/rachel/b005/c006/p002.md",
+    "books/rachel/b005/c006/p003.md",
+    "books/rachel/b005/c004/p001.md",
+    "README.md",
+    "Untitled.canvas",
+    "lore/rachel/concepts/karate/proc-1995-pamyun-dossier.md",
+    "lore/rachel/concepts/karate/event-1995-09-the-lax-intercept.md",
+    "lore/rachel/concepts/karate/proc-emissary-crucible.md",
+    "lore/rachel/concepts/karate/rules/accom-grounding-exception.md",
+    "lore/rachel/concepts/karate/rules/rule-emissary-authority.md",
+    "lore/rachel/concepts/karate/rules",
+    "lore/rachel/concepts/karate/sys-succession-of-the-10th-dan.md",
+    "lore/rachel/concepts/karate/event-1988-hijacked-quarterly.md",
+    "lore/rachel/characters/karate/april.md",
+    "lore/rachel/concepts/karate/cred-sunhoe-sabomnim.md",
+    "lore/rachel/concepts/government/legal-diplomatic-immunity.md.md",
+    "lore/rachel/event-1995-08-17-the-assault.md.md",
+    "lore/rachel/concepts/government",
+    "lore/rachel/concepts/karate",
+    "lore/rachel/concepts",
+    "lore/rachel/characters/karate",
+    "lore/rachel/characters",
+    "lore/rachel/_old/rachel-lore.md",
+    "books/rachel/b013/c001/p001.md",
     "scripts/publish_books.php",
     "scripts/migrate_frontmatter.php",
-    "books/rachel/b013/c001/p005.md",
-    "books/rachel/b013/c002/p002.md",
-    "books/rachel/b014/c002/p001.md",
-    "books-ai-lump/rachel/002-book-2-the-saltwater-summer.md",
-    "books-ai-lump/rachel/006-book-6-atlanta-spring-trip.md",
-    "books-ai-lump/rachel/009-book-9-the-divorce-reprieve.md",
-    "books-ai-lump/rachel/013-book-13-michael-s-senior-year.md",
-    "books-ai-lump/rachel/014-book-14-delores.md",
-    "books-ai-lump/pebble-borrow/007-welcome-to-pebble-burrow.md",
-    "books-ai-lump/pebble-borrow/008-the-general-s-arrival.md",
-    "books-ai-lump/pebble-borrow/023-amanda-interviews-care-nurses.md",
-    "books-ai-lump/paige/002-book-the-blueprint.md",
-    "books-ai-lump/paige/003-book-a-new-beginning.md",
-    "books-ai-lump/nichole/001-book-elementary-school.md",
-    "books-ai-lump/pebble-borrow/002-book-2-the-motel-on-the-highway.md",
-    "books-ai-lump/nichole/002-book-middle-school.md",
-    "books-ai-lump/nichole/003-book-freshman-year.md",
-    "books-ai-lump/nichole/005-book-senior-year.md",
-    "books-ai-lump/nichole/006-book-college-tours.md",
-    "books-ai-lump/nichole/010-book-braxton-senior-year.md",
-    "books-ai-lump/nichole/011-book-bennett-dynamics.md",
-    "books-ai-lump/rachel/003-book-3-base-camp.md",
-    "books-ai-lump/nate/001-book-the-architecture-of-safe-spaces.md",
-    "books-ai-lump/nate/003-book-the-architecture-of-a-safe-space.md",
-    "books-ai-lump/nichole/008-book-braxton-freshman.md",
     "books-ai-lump/samantha",
-    "books-ai-lump/rachel",
-    "books-ai-lump/pebble-borrow",
-    "books-ai-lump/paige",
-    "books-ai-lump/nichole",
-    "books-ai-lump/nate",
-    "books-ai-lump/mary-childhood",
-    "books-ai-lump/luna-leo",
-    "books-ai-lump/kelly",
-    "Untitled.canvas"
+    "books-ai-lump/rachel"
   ]
 }
