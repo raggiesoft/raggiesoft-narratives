@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<route xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="route" type="routeType"/>
+    <xs:complexType name="routeType">
+      <xs:sequence>
+        <xs:element name="route_title" type="xs:string" nillable="true"/>
+        <xs:element name="route_description" type="xs:string" nillable="true"/>
+        <xs:element name="cover_note" type="xs:string" nillable="true"/>
+        <xs:element name="accessibility" type="xs:boolean" nillable="true"/>
+        <xs:element name="airport" type="xs:boolean" nillable="true"/>
+        <xs:element name="express" type="xs:boolean" nillable="true"/>
+        <xs:element name="ferry" type="xs:boolean" nillable="true"/>
+        <xs:element name="link" type="xs:boolean" nillable="true"/>
+        <xs:element name="streetcar" type="xs:boolean" nillable="true"/>
+        <xs:element name="nightowl" type="xs:boolean" nillable="true"/>
+        <xs:element name="sounder" type="xs:boolean" nillable="true"/>
+        <xs:element name="watertaxi" type="xs:boolean" nillable="true"/>
+        <xs:element name="schedules" type="schedulesType"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="schedulesType">
+      <xs:sequence>
+        <xs:element name="schedule" type="scheduleType" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="scheduleType">
+      <xs:sequence>
+        <xs:element name="header" type="xs:string" nillable="true"/>
+        <xs:element name="when" type="xs:string" nillable="true"/>
+        <xs:element name="direction" type="xs:string" nillable="true"/>
+        <xs:element name="to_route" type="xs:boolean" nillable="true"/>
+        <xs:element name="timetable" type="timetableType"/>
+        <xs:element name="footnotes" type="footnotesType"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="timetableType">
+      <xs:sequence>
+        <xs:element name="timepoints" type="timepointsType"/>
+        <xs:element name="trips" type="tripsType"/>
+      </xs:sequence>
+      <xs:attribute name="cols" type="xs:long"/>
+      <xs:attribute name="rows" type="xs:long"/>
+    </xs:complexType>
+    <xs:complexType name="timepointsType">
+      <xs:sequence>
+        <xs:element name="timepoint" type="timepointType" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="timepointType">
+      <xs:sequence>
+        <xs:element name="name" type="xs:string" nillable="true"/>
+        <xs:element name="neighborhood" type="xs:string" nillable="true"/>
+        <xs:element name="stop" type="xs:string" nillable="true"/>
+        <xs:element name="merge_with" type="xs:int" nillable="true"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="tripsType">
+      <xs:sequence>
+        <xs:element name="trip" type="tripType" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="tripType">
+      <xs:sequence>
+        <xs:element name="trip_number" type="xs:string" nillable="true"/>
+        <xs:element name="route" type="xs:string" nillable="true"/>
+        <xs:element name="to_route" type="xs:string" nillable="true"/>
+        <xs:element name="trip_notes" type="trip_notesType"/>
+        <xs:element name="departures" type="departuresType"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="trip_notesType">
+      <xs:sequence>
+        <xs:element name="trip_note_code" type="xs:string" maxOccurs="unbounded" nillable="true"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="departuresType">
+      <xs:sequence>
+        <xs:element name="departure" type="departureType" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="departureType">
+      <xs:sequence>
+        <xs:element name="departure_time" type="xs:string" nillable="true"/>
+        <xs:element name="notes" type="notesType"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="notesType">
+      <xs:sequence>
+        <xs:element name="marker" type="xs:string" maxOccurs="unbounded" nillable="true"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="footnotesType">
+      <xs:sequence>
+        <xs:element name="footnote" type="footnoteType" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="footnoteType">
+      <xs:sequence>
+        <xs:element name="marker" type="xs:string" nillable="true"/>
+        <xs:element name="text" type="xs:string" nillable="true"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:schema>
+  <route_title>*630</route_title>
+  <route_description>Mercer Island, First Hill, Downtown Seattle</route_description>
+  <cover_note xsi:nil="true"/>
+  <accessibility>true</accessibility>
+  <airport>false</airport>
+  <express>false</express>
+  <ferry>false</ferry>
+  <link>true</link>
+  <streetcar>true</streetcar>
+  <nightowl>false</nightowl>
+  <sounder>false</sounder>
+  <watertaxi>false</watertaxi>
+  <schedules>
+    <schedule>
+      <header>630</header>
+      <when>Weekday</when>
+      <direction>To Downtown Seattle</direction>
+      <to_route>false</to_route>
+      <timetable cols="5" rows="4">
+        <timepoints>
+          <timepoint>
+            <name>Mercer Village Shopping Center</name>
+            <neighborhood>South Mercer Island</neighborhood>
+            <stop>62370</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>NB Island Crest Way &amp; SE 46th St</name>
+            <neighborhood>Mercer Island</neighborhood>
+            <stop>63340</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>WB Mercer Island P&amp;R</name>
+            <neighborhood xsi:nil="true"/>
+            <stop>64140</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>Boren Ave &amp; Madison St</name>
+            <neighborhood>First Hill</neighborhood>
+            <stop>11035</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>SB 5th Ave S &amp; S Weller St</name>
+            <neighborhood>Chinatown/Int’l District</neighborhood>
+            <stop>844</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+        </timepoints>
+        <trips>
+          <trip>
+            <trip_number>1745</trip_number>
+            <route>630</route>
+            <to_route xsi:nil="true"/>
+            <trip_notes>
+              <trip_note_code xsi:nil="true"/>
+            </trip_notes>
+            <departures>
+              <departure>
+                <departure_time> 6:05</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 6:10</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 6:18</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 6:32</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 6:43</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+            </departures>
+          </trip>
+          <trip>
+            <trip_number>1747</trip_number>
+            <route>630</route>
+            <to_route xsi:nil="true"/>
+            <trip_notes>
+              <trip_note_code xsi:nil="true"/>
+            </trip_notes>
+            <departures>
+              <departure>
+                <departure_time> 6:45</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 6:50</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 6:58</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 7:12</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 7:23</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+            </departures>
+          </trip>
+          <trip>
+            <trip_number>1750</trip_number>
+            <route>630</route>
+            <to_route xsi:nil="true"/>
+            <trip_notes>
+              <trip_note_code xsi:nil="true"/>
+            </trip_notes>
+            <departures>
+              <departure>
+                <departure_time> 7:25</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 7:30</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 7:38</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 7:52</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 8:04</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+            </departures>
+          </trip>
+          <trip>
+            <trip_number>1752</trip_number>
+            <route>630</route>
+            <to_route xsi:nil="true"/>
+            <trip_notes>
+              <trip_note_code xsi:nil="true"/>
+            </trip_notes>
+            <departures>
+              <departure>
+                <departure_time> 8:05</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 8:10</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 8:19</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 8:35</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time> 8:47</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+            </departures>
+          </trip>
+        </trips>
+      </timetable>
+      <footnotes/>
+    </schedule>
+    <schedule>
+      <header>630</header>
+      <when>Weekday</when>
+      <direction>To Mercer Island</direction>
+      <to_route>false</to_route>
+      <timetable cols="6" rows="4">
+        <timepoints>
+          <timepoint>
+            <name>NB Boren Ave &amp; E Yesler Way</name>
+            <neighborhood>First Hill</neighborhood>
+            <stop>41902</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>Boren Ave &amp; Madison St</name>
+            <neighborhood>First Hill</neighborhood>
+            <stop>11035</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>SB 5th Ave S &amp; S Weller St</name>
+            <neighborhood>Chinatown/Int’l District</neighborhood>
+            <stop>844</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>EB Mercer Island P&amp;R</name>
+            <neighborhood xsi:nil="true"/>
+            <stop>64065</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>SB Island Crest Way &amp; SE 46th St</name>
+            <neighborhood>Mercer Island</neighborhood>
+            <stop>63560</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+          <timepoint>
+            <name>Mercer Village Shopping Center</name>
+            <neighborhood>South Mercer Island</neighborhood>
+            <stop>62370</stop>
+            <merge_with xsi:nil="true"/>
+          </timepoint>
+        </timepoints>
+        <trips>
+          <trip>
+            <trip_number>212</trip_number>
+            <route>630</route>
+            <to_route xsi:nil="true"/>
+            <trip_notes>
+              <trip_note_code xsi:nil="true"/>
+            </trip_notes>
+            <departures>
+              <departure>
+                <departure_time>16:05</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>16:08</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>16:18</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>16:34</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>16:44</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>16:49</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+            </departures>
+          </trip>
+          <trip>
+            <trip_number>213</trip_number>
+            <route>630</route>
+            <to_route xsi:nil="true"/>
+            <trip_notes>
+              <trip_note_code xsi:nil="true"/>
+            </trip_notes>
+            <departures>
+              <departure>
+                <departure_time>16:40</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>16:43</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>16:53</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>17:09</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>17:19</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>17:24</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+            </departures>
+          </trip>
+          <trip>
+            <trip_number>214</trip_number>
+            <route>630</route>
+            <to_route xsi:nil="true"/>
+            <trip_notes>
+              <trip_note_code xsi:nil="true"/>
+            </trip_notes>
+            <departures>
+              <departure>
+                <departure_time>17:15</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>17:18</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>17:28</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>17:45</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>17:55</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>18:00</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+            </departures>
+          </trip>
+          <trip>
+            <trip_number>215</trip_number>
+            <route>630</route>
+            <to_route xsi:nil="true"/>
+            <trip_notes>
+              <trip_note_code xsi:nil="true"/>
+            </trip_notes>
+            <departures>
+              <departure>
+                <departure_time>17:50</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>17:53</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>18:02</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>18:17</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>18:27</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+              <departure>
+                <departure_time>18:32</departure_time>
+                <notes>
+                  <marker xsi:nil="true"/>
+                </notes>
+              </departure>
+            </departures>
+          </trip>
+        </trips>
+      </timetable>
+      <footnotes/>
+    </schedule>
+  </schedules>
+</route>

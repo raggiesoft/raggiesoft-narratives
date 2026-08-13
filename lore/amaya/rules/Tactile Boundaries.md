@@ -15,7 +15,7 @@ While [[Justin Hayes]] is part of a closed intimacy pact with the women of the [
 Their physical relationship is intensely close, heavily tactile, and fiercely protective, but it is **strictly and permanently platonic**. Because both siblings have AuDHD and Justin has No Light Perception (NLP), their physical contact is utilitarian, grounding, and driven by accessibility and survival rather than romance.
 
 ## II. The "Guardrail" Sleep Protocol
-Within the Duplex (and later, the NRVRC suites), the standard sleep arrangement for the Core Trio is a shared bed. Justin sleeps perfectly in the center, flanked by Amaya on one side and Meredith on the other. While bed-sharing among adults is often socially coded as purely romantic, the trio's arrangement is built on strict accessibility requirements.
+Within the Duplex (and later, the NRVRC suites), the standard sleep arrangement for the Core Trio and [[Nichole Foster|Nikki]] is a shared bed. Justin sleeps perfectly in the center, flanked by Amaya and her cousin Nikki on one side and Meredith on the other. While bed-sharing among adults is often socially coded as purely romantic, the trio's arrangement is built on strict accessibility requirements.
 
 *   **The Tactile Logic:** Because Justin is totally blind, he lacks the visual spatial awareness required to know how close he is to the edge of a mattress while asleep or waking up. A massive mattress can feel like a spatial void, causing subconscious anxiety about spatial drift.
 *   **The Living Guardrails:** By placing Amaya and Meredith on either side of him, they act as living, tactile "guardrails." 

@@ -5,11 +5,9 @@ series: "aubrie"
 
 # Note to the AI
 
-## Chapter X: Homecoming Week
+## Homecoming Week
 
-### Part 11: The Fortress of Truth – 8:45 PM
-
-# Part 11: The Fortress of Truth – 8:45 PM
+### The Fortress of Truth
 
 The heavy click of the lock on the door of Room 214 sealed them inside their fortress. Jordan sat in his wheelchair, still trembling from the retreat. His gaze fell upon the door, and then the adjoining door to Room 216. He saw their triumphant, mocking decorations: BEAT NORFOLK! and the Crushed VDU Crown. It felt like a horrible lie, a monument to his own humiliation.
 

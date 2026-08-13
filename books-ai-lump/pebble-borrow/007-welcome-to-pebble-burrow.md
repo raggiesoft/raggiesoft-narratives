@@ -9,8 +9,6 @@ series: "pebble-borrow"
 
 ### The Apocalyptic Reality
 
-# The Apocalyptic Reality
-
 The triplets exchanged a confused look. Drake stepped forward, gesturing to the silent walls. "Was it a drill? The noise that stopped?"
 
 "Yes. A Mark IV Seismic Penetrator," Victor said, leaning forward and resting his elbows on his knees. "The previous CEO—the man who built this absurd mansion—scheduled a deep-earth penetration test for tomorrow. He assumed the mountain above us was a dead, solid block of basalt. A perfectly safe place to test military hardware."
@@ -28,8 +26,6 @@ Drake’s jaw dropped. He looked slowly down at the floor, as if expecting the c
 "We stopped it," Victor said firmly, making sure his nieces and nephew looked at him, not the floor. "The power is cut, the console is locked, and the drill is officially dead. You are entirely safe. But the sheer, monumental stupidity required to let it get this far..." His jaw tightened. "The man who ran this place didn't just embezzle funds for a bowling alley and a computer. He nearly wiped out the Eastern Seaboard out of pure negligence."
 
 ### The Burden of Ownership
-
-# The Burden of Ownership
 
 Amanda let out a shaky breath, stepping back to lean against the kitchen counter. "So... what now? Do we pack up and leave? Hand it over to the government?"
 

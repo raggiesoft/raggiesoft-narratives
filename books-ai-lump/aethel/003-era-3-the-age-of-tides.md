@@ -9,8 +9,6 @@ series: "aethel"
 
 ### Chapter 1: The Tide and the Torch
 
-# Chapter 1: The Tide and the Torch
-
 ## Part 1: The Blacksmith's Secret
 
 ##### Scene 1: The Iron Keel
@@ -535,8 +533,6 @@ They turned toward the Queen.
 
 ### Chapter 2: The Heart of the World
 
-# Chapter 2: The Heart of the World
-
 ## Part 1: The Veins of the Earth
 
 Theme: ocean-volcanic
@@ -927,8 +923,6 @@ He turned the boat South, following the fleeing shadow of the Queen, deeper into
 
 ### Chapter 3: The Weave of the Water
 
-# Chapter 3: The Weave of the Water
-
 ## Part 1: The Anchor of the Storm
 
 Theme: ocean-storm
@@ -1224,8 +1218,6 @@ Kaelan took the tiller. He looked at his sister.
 They raised the sail. Kaelan poured a steady stream of heat into the keel, and the boat surged forward, cutting through the waves, hunting the hunter who was running blindly toward her own destruction.
 
 ### Chapter 4: The Gyre
-
-# Chapter 4: The Gyre
 
 ## Part 1: The Calm Path
 
@@ -1649,8 +1641,6 @@ With a roar of displaced air, Horg’s boat shot upward, punching through the cl
 
 ### Chapter 1: The Silent Sector
 
-# Chapter 1: The Silent Sector
-
 ## Part 1: The Poisoned Chalice
 
 Theme: space-gloom
@@ -2043,8 +2033,6 @@ She turned back to the viewport, staring at the massive, fossilized Ribcage loom
 
 ### Chapter 2: The Ribcage of the Gods
 
-# Chapter 2: The Ribcage of the Gods
-
 ## Part 1: The Ossuary of Stars
 
 Theme: space-gloom
@@ -2224,8 +2212,6 @@ They walked through the ghost ship, crossing the gantry into the Star-Eater’s 
 They were walking into the mind of a god, and the only thing waiting for them was a woman who thought she could outsmart the universe.
 
 ### Chapter 3: The War for the Mind
-
-# Chapter 3: The War for the Mind
 
 ## Part 1: The Dynasty of Ruin
 
@@ -2789,8 +2775,6 @@ They walked out of the Memory Core, leaving the ghosts of the past behind, final
 
 ### Chapter 4: The Long Way Down
 
-# Chapter 4: The Long Way Down
-
 ## Part 1: The Departure
 
 Theme: space-wonder
@@ -3342,8 +3326,6 @@ The silence in the room wasn't empty. It was full of the fire's crackle, the win
 They stood there as the twin suns set, the heroes of the age, invisible and content, ready to do absolutely nothing for a very long time.
 
 ### Chapter 5: The Cottage
-
-# Chapter 5: The Cottage
 
 ## Part 1: The Stone Fence
 

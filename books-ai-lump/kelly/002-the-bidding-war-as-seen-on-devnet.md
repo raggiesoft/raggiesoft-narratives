@@ -9,8 +9,6 @@ series: "kelly"
 
 ### The Developer Community (The Narrators)
 
-# The Developer Community (The Narrators)
-
 - **cupertino_dev**: A developer from **MagnaByte** (Apple), providing the initial, firsthand account from inside the company.
 
 - **seattle_dev_guy / seattle174**: Developers from the Seattle area (likely from various companies) who are part of the broader tech community and have followed the Aurora Systems saga.
@@ -23,8 +21,6 @@ series: "kelly"
 
 ### The CEOs (The Bidders)
 
-# The CEOs (The Bidders)
-
 - **Insanely_Great**: **Stephen Marchand** (Steve Jobs), the CEO of **MagnaByte**. His username is his real-world catchphrase, and his posts reflect his focus on "A+ talent" and product passion.
 
 - **Toll_Bridge**: **William Keswick** (Bill Gates), the CEO of **Quantum**. His username is a reference to his powerful business model of owning the essential platform, and his posts reflect a focus on creating a stable, long-term "ecosystem" for talent.
@@ -35,11 +31,9 @@ series: "kelly"
 
 - **Beltway_Bandit**: The CEO of a large, stable defense or government contractor from the Northern Virginia area. His bid is focused on offering a secure, lifelong career with a clear path to seniority, tied to projects of "national security importance."
 
-## Chapter 6: Choosing a Future
+## Choosing a Future
 
-### Part 1: All the Offers on the Table 📂
-
-# Part 1: All the Offers on the Table 📂
+### All the Offers on the Table 📂
 
 (This is an outline that needs to be expanded)
 

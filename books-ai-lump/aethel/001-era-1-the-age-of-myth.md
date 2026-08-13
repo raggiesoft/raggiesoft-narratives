@@ -9,8 +9,6 @@ series: "aethel"
 
 ### Chapter 1: The Architect's Lesson
 
-# Chapter 1: The Architect's Lesson
-
 ## Part 1: The Tuning of the Flare
 
 Theme: divine-temple
@@ -272,8 +270,6 @@ It was the only blanket she ever needed.
 "Night, Moon," Solas replied, burying his face in her neck.
 
 ### Chapter 2: The Age of Twilight
-
-# Chapter 2: The Age of Twilight
 
 ## Part 1: The Scholar of the Twin Suns
 

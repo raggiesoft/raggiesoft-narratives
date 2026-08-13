@@ -9,8 +9,6 @@ series: "aethel"
 
 ### Chapter 1: The Art of Doing Nothing
 
-# Chapter 1: The Art of Doing Nothing
-
 ## Part 1: The Geometry of Sleep
 
 Theme: sunstead-peace
@@ -271,8 +269,6 @@ Kaelan closed his eyes, listening to the hum of the bees in the clover, unaware 
 
 ### Chapter 2: The Alarm Clock
 
-# Chapter 2: The Alarm Clock
-
 ## Part 1: The Interest Rate
 
 Theme: sunstead-peace-disrupted
@@ -500,8 +496,6 @@ He reached for his sword. It floated into his hand before he could grab it.
 "Magma," Kaelan confirmed. "We're going to the center of the Earth."
 
 ### Chapter 3: The Magnetic Highway
-
-# Chapter 3: The Magnetic Highway
 
 ## Part 1: The Land-Boat
 
@@ -1336,8 +1330,6 @@ He squeezed her, holding onto his payment plan like a lifeline. He wasn't the lo
 And as the red light pulsed outside, Kaelan slept without nightmares, anchored to the earth by the girl who refused to let him float away.
 
 ### Chapter 4: The Clockwork Ocean
-
-# Chapter 4: The Clockwork Ocean
 
 ## Part 1: The Rifled Barrel
 
@@ -2257,8 +2249,6 @@ The *Iron Keel* surged forward, surfing the magnetic lines home.
 
 ### Chapter 4: The Return Journey
 
-# Chapter 4: The Return Journey
-
 ## Part 1: The Itch
 
 Theme: adventure-travel
@@ -2561,8 +2551,6 @@ They lay there in the dim, quiet cottage, the "Go Away" sign standing guard outs
 
 ### Chapter 1: The Privacy of Stone
 
-# Chapter 1: The Privacy of Stone
-
 ## Part 1: The Hole Under the Floor
 
 Theme: sunstead-peace
@@ -2848,8 +2836,6 @@ They sat in the steam, looking up at the stars framed by the high stone walls. T
 Kaelan laughed, a low rumble in his chest. "Deal."
 
 ### Chapter 2: The Smoke and the Fire
-
-# Chapter 2: The Smoke and the Fire
 
 ## Part 1: The Funeral Crashers
 
@@ -3269,8 +3255,6 @@ They continued their bath, undisturbed by the world, protected by the very light
 
 ### Chapter 3: The Council of Neighbors
 
-# Chapter 3: The Council of Neighbors
-
 ## Part 1: The Reluctant Guests
 
 Theme: sunstead-politics
@@ -3476,8 +3460,6 @@ Here is Chapter 4: The King at the Gate.
 This chapter puts the new Council to the test and demonstrates exactly what happens when a conventional army tries to annex a town protected by two retired demigods.
 
 ### Chapter 4: The King at the Gate
-
-# Chapter 4: The King at the Gate
 
 ## Part 1: The Tax Collector with an Army
 
@@ -3700,8 +3682,6 @@ He unlatched their private gate. They stepped into the garden. The steam was sti
 They stripped off their dusty clothes and slid back into the water, while down in the valley, the broken army of the Gilded Plains limped home, carrying the terrifying news that Sunstead had no King, but it had something much, much worse.
 
 ### Chapter 5: The Demon and the Witch
-
-# Chapter 5: The Demon and the Witch
 
 ## Part 1: The Investigation
 
@@ -3999,8 +3979,6 @@ Let the world whisper. Let the Kings plot. The house knew the difference between
 
 ### Chapter 6: The Starlight Check-In
 
-# Chapter 6: The Starlight Check-In
-
 ## Part 1: The Shadow of the Archivist
 
 Theme: trauma-healing
@@ -4205,8 +4183,6 @@ They went inside and locked the world out, ready to sleep in their shared bed, j
 
 ### Prologue: The Silence Between Stars
 
-# Prologue: The Silence Between Stars
-
 Theme: cosmic-horror
 
 Location: The Void Beyond the Rim
@@ -4254,8 +4230,6 @@ He began to chant. It was a spell of dampening. A spell of cosmic mute.
 He didn't target the Earth. He targeted the Sky.
 
 ### Chapter 1: The Shadow at Noon
-
-# Chapter 1: The Shadow at Noon
 
 ## Part 1: The Cold Draft
 
@@ -4398,8 +4372,6 @@ The invasion had begun. But there were no soldiers to gravity-crush, and no swor
 And the only thing standing between Sunstead and absolute zero was the internal fire of the Twins.
 
 ### Chapter 2: The Needle and the Shroud
-
-# Chapter 2: The Needle and the Shroud
 
 ## Part 1: The Signal in the Water
 

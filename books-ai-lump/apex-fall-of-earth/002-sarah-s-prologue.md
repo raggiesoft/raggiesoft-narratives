@@ -5,11 +5,9 @@ series: "apex-fall-of-earth"
 
 # Sarah’s Prologue
 
-## Chapter 1: Sarah – The Promise
+## Sarah – The Promise
 
-### Part 1: First Flight – Mid-October 2044 (Days prior to arrival)
-
-# Part 1: First Flight – Mid-October 2044 (Days prior to arrival)
+### First Flight – Mid-October 2044 (Days prior to arrival)
 
 The Tri-Sector Interstellar Freight & Personnel terminal was the cleanest room Sarah Hayes had ever stood in.
 
@@ -49,9 +47,7 @@ The sub-light engines hummed to life, a gentle, barely noticeable vibration that
 
 Sarah rested her hands in her lap, her posture finally relaxing as the ship lifted off the tarmac, carrying her up through the atmosphere and into the quiet dark of space. She closed her eyes, a small, genuine smile touching her lips. She was safe. She was finally going to be part of something good.
 
-### Part 2: The Voyage – Mid-October 2044 (Interstellar transit)
-
-# Part 2: The Voyage – Mid-October 2044 (Interstellar transit)
+### The Voyage – Mid-October 2044 (Interstellar transit)
 
 The Tri-Sector Interstellar Freight & Personnel transport slipped through the void with barely a whisper.
 
@@ -89,9 +85,7 @@ Below her, suspended in the vast blackness of space, was the brilliant, swirling
 
 She pressed her hand against the cool glass, her heart fluttering with genuine, unadulterated excitement. She was a Field Safety Technician for the Helios Geoscience Institute, and her new life was about to begin.
 
-### Part 3: The Transfer – Thursday, October 20, 2044 – 08:00 (Local Spaceport Time)
-
-# Part 3: The Transfer – Thursday, October 20, 2044 – 08:00 (Local Spaceport Time)
+### The Transfer – Thursday, October 20, 2044 – 08:00 (Local Spaceport Time)
 
 The TSIFP transport glided into the docking cradle at the Las Vegas Interplanetary Spaceport with a gentle, barely perceptible shudder. The docking mechanisms locked into place with a muffled, hydraulic sigh, and the soft amber cabin lights shifted to a bright, welcoming white.
 
@@ -127,9 +121,7 @@ A few minutes later, the atmospheric thrusters engaged with a smooth, even hum. 
 
 Sarah leaned her head against the cool, vibration-free glass, looking down at the rugged, red-brown mountains and sweeping valleys. To her, it didn't look like a harsh, unforgiving wasteland. It looked like a pristine frontier of science and discovery. She folded her hands in her lap, her heart full of bright, optimistic anticipation as the Desert Star shuttle carried her deeper into the desert.
 
-### Part 4: The Handoff – Thursday, October 20, 2044 – 04:00 (NTTR Local Time)
-
-# Part 4: The Handoff – Thursday, October 20, 2044 – 04:00 (NTTR Local Time)
+### The Handoff – Thursday, October 20, 2044 – 04:00 (NTTR Local Time)
 
 The Desert Star atmospheric shuttle touched down with a gentle, controlled hiss of hydraulics, settling onto the tarmac with barely a bump. The ambient cabin music faded out, replaced by the soft chime of the seatbelt indicator turning off.
 
@@ -185,9 +177,7 @@ The heavy metal teeth of the turnstile clunked open.
 
 Sarah pushed through the cold steel gate, stepping into the long, windowless concrete corridor that led deeper into the facility. The polite, comfortable world of the Desert Star shuttle felt like it belonged to another universe. She tightened her grip on her bag, entirely alone, terrified, and utterly out of her depth in the dark.
 
-### Part 5: The Glitch – Thursday, October 20, 2044 – ~04:15 (Shift starts in exactly forty-five minutes)
-
-# Part 5: The Glitch – Thursday, October 20, 2044 – ~04:15 (Shift starts in exactly forty-five minutes)
+### The Glitch – Thursday, October 20, 2044 – ~04:15 (Shift starts in exactly forty-five minutes)
 
 The heavy steel gate of the security checkpoint slammed shut, sealing off the deafening roar of the intake bunker.
 
@@ -239,9 +229,7 @@ Sarah slung her duffel bag over her shoulder, her slate-blue uniform feeling lik
 
 She stepped out into the neon-lit corridor, entirely alone and utterly out of her depth, unaware that the massive, scarred veteran assigned to Shift 2 was already walking toward those exact same washrooms.
 
-### Part 6: The Washroom – Thursday, October 20, 2044 – ~04:30
-
-# Part 6: The Washroom – Thursday, October 20, 2044 – ~04:30
+### The Washroom – Thursday, October 20, 2044 – ~04:30
 
 Sarah dropped her canvas duffel bag on the floor next to Bunk 42-C, clutching her hygiene kit and a thin towel to her chest. She stepped back out into the narrow, 64-inch aisle of the barracks, her heart hammering against her ribs.
 
@@ -269,9 +257,7 @@ Taking a shaky breath, Sarah forced herself to move. She quickly stepped under t
 
 Ten minutes later, she was dressed back in her clean slate-blue Helios uniform, the bright fabric feeling less like a mark of prestige and more like a target. She stepped out of the humid washroom, clutching her damp towel, and followed the neon signs pointing toward the Mess Hall.
 
-### Part 7: The Divide – Thursday, October 20, 2044 – ~04:40
-
-# Part 7: The Divide – Thursday, October 20, 2044 – ~04:40
+### The Divide – Thursday, October 20, 2044 – ~04:40
 
 Sarah stepped out into the neon-lit corridor, clutching her damp towel, and was immediately swept up in a massive tide of Apex contractors heading toward the Sector 1 Mess Hall.
 
@@ -297,9 +283,7 @@ She forced herself to swallow two bites, knowing she would pass out if she didn'
 
 It was time to face whatever came next.
 
-### Part 8: The Checkpoint – Thursday, October 20, 2044 – ~04:50
-
-# Part 8: The Checkpoint – Thursday, October 20, 2044 – ~04:50
+### The Checkpoint – Thursday, October 20, 2044 – ~04:50
 
 Sarah tossed her empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
 

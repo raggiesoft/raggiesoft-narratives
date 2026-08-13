@@ -614,11 +614,11 @@ The city folded. Because of his ruthless standoff, Meridian City avoided the mul
 
 While these design choices are deeply rooted in the family's internal history, the construction year of **1974** serves as a deliberate nod to the golden age of skyscraper cinema.
 
-| Feature | The 1974 Reality | The Meta Connection |
-|----|----|----|
-| Corporate Entity | **Sterling Enterprises, LLC** | A direct structural mirror to *The Towering Inferno's* "Duncan Enterprises." |
-| Floor 135 | **The Pinnacle Promenade** | Named as an homage to the ill-fated "Promenade Room" atop the movie's Glass Tower. |
-| The infrastructure | Built by **Arthur Sterling** | A thematic inversion of the film's narrative—instead of cutting corners and compromising safety, Arthur over-engineered the tower's bones to protect his family. |
+| Feature            | The 1974 Reality              | The Meta Connection                                                                                                                                              |
+| ------------------ | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Corporate Entity   | **Sterling Enterprises, LLC** | A direct structural mirror to *The Towering Inferno's* "Duncan Enterprises."                                                                                     |
+| Floor 135          | **The Pinnacle Promenade**    | Named as an homage to the ill-fated "Promenade Room" atop the movie's Glass Tower.                                                                               |
+| The infrastructure | Built by **Arthur Sterling**  | A thematic inversion of the film's narrative—instead of cutting corners and compromising safety, Arthur over-engineered the tower's bones to protect his family. |
 
 # ⚙️ SYSTEM DIRECTIVE: CROWN POINT TOWER LORE KEY
 
@@ -918,7 +918,7 @@ Because The Prospector's Keep is situated in absolute isolation at a 7,000-foot 
 
 The technological synergy between the two families is seamless. While Abigail Sterling manages the sprawling Quantum OS 11 Enterprise infrastructure of the tower, she holds a deep, professional respect for the legacy engineering of the Vance-Whitaker pack.
 
-- **The Private Uplink:** Morgan Foster—the Keep's Lead Industrial Engineer—maintains a strictly partitioned, highly encrypted tunnel connecting the Keep’s subterranean Quantum OS 2003 Server directly to Victoria's terminal on Floor 42 of Sterling Plaza.
+- **The Private Uplink:** Morgan Foster—the Keep's Lead Industrial Engineer—maintains a strictly partitioned, highly encrypted tunnel connecting the Keep’s subterranean Quantum OS Server directly to Victoria's terminal on Floor 42 of Sterling Plaza.
 
 - **Zero-Trust Sovereignty:** Because Johnny Vance writes the custom intrusion detection scripts for the mountain's network, Abigail has entirely whitelisted the Vance-Whitaker IP addresses within the tower's firewalls, recognizing Johnny's architecture as a flawless, peer-level digital fortress.
 
@@ -1034,7 +1034,7 @@ When they boarded the Red Line train, the doors hissed shut, and they hurtled to
 
 As the train finally dipped underground and crossed into the city limits, an automated voice echoed through the car:
 
-*"Attention passengers. Due to scheduled weekend track maintenance, this train will terminate at the Westlake interchange. Passengers traveling to the Downtown Financial District or Sterling Plaza must transfer to the substitute shuttle buses at street level."*
+> *"Attention passengers. Due to scheduled weekend track maintenance, this train will terminate at the Westlake interchange. Passengers traveling to the Downtown Financial District or Sterling Plaza must transfer to the substitute shuttle buses at street level."*
 
 Ashley simply smiled. She guided them off the train a few miles short of their actual destination. They took the transit elevators up to the street, and Donald’s wheelchair rolled onto the ADA ramp of a heavy-duty city bus.
 
