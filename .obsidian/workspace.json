@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/apex-fall-of-earth/b003/c003/p009.md",
+                "file": "character-list/real/autistic-warning/Ouellette, Amy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "p009"
+              "title": "Ouellette, Amy"
+            }
+          },
+          {
+            "id": "40b8ed30a14fb416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "character-list/real/autistic-warning/Ouellette, Kristin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ouellette, Kristin"
+            }
+          },
+          {
+            "id": "b4a1c51f1be497a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "character-list/Non Verbal Communication Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Non Verbal Communication Template"
+            }
+          },
+          {
+            "id": "02ab2bb00ac31d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,8 +256,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "517b5224ae928ec5",
+  "active": "b4a1c51f1be497a1",
   "lastOpenFiles": [
+    "character-list/fictional/Pelletier, Elise.md",
+    "character-list/real/autistic-warning/Ouellette/Ouellette, Kristin.md",
+    "character-list/real/autistic-warning/Ouellette/Ouellette, Amy.md",
+    "character-list/real/autistic-warning/Ouellette/Ouellette Québécois Firewall.md",
+    "character-list/real/autistic-warning/Ouellette",
+    "character-list/Non Verbal Communication Template.md",
+    "character-list/real/autistic-warning/Ouellette, Amy.md",
+    "character-list/real/autistic-warning",
+    "character-list/real",
+    "character-list/fictional",
+    "character-list/real/autistic-warning/Ouellette, Kristin.md",
+    "Non Verbal.md",
+    "character-list",
+    "Untitled 1.md",
+    "How to Secure the Droplet.md",
+    "lore/casey/Quantum/The X9YVR Key Leak.md",
+    "books/apex-fall-of-earth/b003/c003/p009.md",
+    "lore/master-character-list",
     "rules/Content Generation Rules.md",
     "rules/master-copyright-document.md",
     "books/apex-fall-of-earth/b003/c003/p003.md",
@@ -231,28 +291,10 @@
     "README.md",
     "lore/astro-kids/The Divorce/The Parents Divorcing.md",
     "lore/astro-kids/Character Map.md",
-    "lore/astro-kids/Texas Tea (Oil)/Texas Tea.md",
-    "lore/astro-kids/Texas Tea (Oil)/SovTex Energy.md",
-    "lore/astro-kids/Cassini Center for Space Exploration/ASTI Accreditation.md",
-    "books-ai-lump/apex-fall-of-earth/008-the-growing-world.md",
-    "books-ai-lump/apex-fall-of-earth/007-the-fall-of-apex.md",
-    "lore/astro-kids/Texas Tea (Oil)/Road to the Texas Tea/How the Relatives Find Out.md",
-    "lore/astro-kids/Texas Tea (Oil)/Road to the Texas Tea/How Valerie Won.md",
-    "lore/astro-kids/The Divorce/The Indigent Disposition.md",
-    "lore/astro-kids/The Divorce/The Guardianship Binder and War Room.md",
-    "lore/astro-kids/The Divorce/The Death Notification.md",
-    "lore/astro-kids/The Divorce/The Guardianship Bluff.md",
-    "lore/astro-kids/The Divorce/The Calendar Wins.md",
     "lore/astro-kids/The Cabin/TTY",
     "lore/astro-kids/The Divorce",
     "lore/astro-kids/The Cabin/Seven Hills Public Library",
-    "lore/astro-kids/Texas Tea (Oil)/Road to the Texas Tea",
-    "lore/astro-kids/Finances",
-    "lore/astro-kids/Palo Alto Sanctuary",
-    "lore/astro-kids/School Life",
-    "lore/astro-kids/The Cabin",
     "Untitled.canvas",
-    "lore/astro-kids/Texas Tea (Oil)/DART",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Courtney Evans.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Danielle Morgan.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/flankers/Stephanie Reed.jpg",
