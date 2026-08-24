@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "517b5224ae928ec5",
+            "id": "ee3a3d03cbcab883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "character-list/real/autistic-warning/Ouellette, Amy.md",
+                "file": "lore/rescue-game/Rescue Game Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ouellette, Amy"
-            }
-          },
-          {
-            "id": "40b8ed30a14fb416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "character-list/real/autistic-warning/Ouellette, Kristin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ouellette, Kristin"
+              "title": "Rescue Game Proposal"
             }
           },
           {
@@ -69,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "David and Meredith.md",
+                "file": "lore/david-meredith/David and Meredith - AI Conversation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "David and Meredith"
+              "title": "David and Meredith - AI Conversation"
             }
           },
           {
@@ -92,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,11 +242,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e890d18cc4e4511",
+  "active": "ee3a3d03cbcab883",
   "lastOpenFiles": [
+    "Moon 1.md",
+    "lore/samantha/samantha-lore.md",
+    "lore/rescue-game/Rescue Game Proposal.md",
+    "lore/rescue-game/proposal/Scenario 1 - Up the Eastern Shore.md",
+    "lore/rescue-game/proposal",
+    "lore/rescue-game",
+    "How to Secure the Droplet.md",
+    "lore/david-meredith/David and Meredith - AI Conversation.md",
+    "rules/master-copyright-document.md",
+    "lore/david-meredith/characters/character-lore/2002 Incident with Kate.md",
+    "lore/david-meredith/characters/character-lore/2002 Incident With Tweaks.md",
+    "lore/david-meredith/characters/character-lore/Perception vs. Reality.md",
+    "lore/david-meredith/characters/Morgan.md",
+    "lore/david-meredith/characters/Meredith.md",
+    "lore/david-meredith/characters/character-lore/Fire and Ice.md",
+    "lore/david-meredith/characters/character-lore",
+    "lore/david-meredith/characters/Kate.md",
+    "lore/david-meredith/characters/David.md",
+    "lore/david-meredith/characters",
+    "lore/david-meredith",
     "Untitled.canvas",
     "character-list/real/autistic-warning/Ouellette/Ouellette Québécois Firewall.md",
-    "Moon 1.md",
     "books-ai-lump/luna-leo/010-delores.md",
     "character-list/Non Verbal Communication Template.md",
     "character-list/fictional/Pelletier, Elise.md",
@@ -274,26 +279,8 @@
     "character-list/real/autistic-warning/Ouellette, Kristin.md",
     "Non Verbal.md",
     "character-list",
-    "David and Meredith.md",
-    "How to Secure the Droplet.md",
     "lore/casey/Quantum/The X9YVR Key Leak.md",
     "books/apex-fall-of-earth/b003/c003/p009.md",
-    "lore/master-character-list",
-    "rules/Content Generation Rules.md",
-    "rules/master-copyright-document.md",
-    "books/apex-fall-of-earth/b003/c003/p003.md",
-    "rules",
-    "books/apex-fall-of-earth/b003/c003/p002.md",
-    "books/apex-fall-of-earth/b003/c003/p001.md",
-    "books/apex-fall-of-earth/b003/c002/p011.md",
-    "books/apex-fall-of-earth/b003/c002/p010.md",
-    "books/apex-fall-of-earth/b003/c002/p009.md",
-    "books/apex-fall-of-earth/b003/c002/p008.md",
-    "books/apex-fall-of-earth/b003/c002/p007.md",
-    "books/apex-fall-of-earth/b003/c002/p001.md",
-    "lore/astro-kids/The Cabin/TTY",
-    "lore/astro-kids/The Divorce",
-    "lore/astro-kids/The Cabin/Seven Hills Public Library",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Courtney Evans.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Danielle Morgan.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/flankers/Stephanie Reed.jpg",
