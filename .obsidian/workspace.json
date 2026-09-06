@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "City of Chesapeake Budget Analyst.md",
+                "file": "character-list/Non Verbal Communication Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "City of Chesapeake Budget Analyst"
+              "title": "Non Verbal Communication Template"
             }
           },
           {
@@ -242,10 +242,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee3a3d03cbcab883",
+  "active": "5e890d18cc4e4511",
   "lastOpenFiles": [
-    "lore/casey/Quantum/Corporate Jet.md",
+    "lore/shiloh/shiloh-family.md.sb-0519f57c-XUOoin",
+    "lore/shiloh/shiloh-family.md",
     "City of Chesapeake Budget Analyst.md",
+    "lore/shiloh",
+    "lore/casey/Quantum/Corporate Jet.md",
     "Song Ideas - Steel Horizon.md",
     "books/ashley-tower/b001/c001/p001.md",
     "books/rachel/b018/c004/p001.md",
@@ -268,8 +271,6 @@
     "books/rachel/b017/c001/p001.md",
     "books/rachel/b015/c003/p002.md",
     "books/rachel/b015/c003/p001.md",
-    "books/rachel/b015/c002/p005.md",
-    "books/rachel/b015/c002/p002.md",
     "lore/rescue-game/proposal",
     "lore/rescue-game",
     "lore/david-meredith/characters/character-lore",
@@ -280,7 +281,6 @@
     "character-list/real/autistic-warning",
     "character-list/real",
     "character-list/fictional",
-    "character-list",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Courtney Evans.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Danielle Morgan.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/flankers/Stephanie Reed.jpg",

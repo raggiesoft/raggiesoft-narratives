@@ -57,7 +57,7 @@ foreach ($jsonFiles as $jsonFile) {
                     // Clean Chapter Prefix (e.g., "Chapter 1:" or "Chapter X:")
                     $chapter['chap_title'] = trim(preg_replace('/^Chapter\s*[a-zA-Z0-9]*:\s*/i', '', $chapter['chap_title']));
                     
-                    // Extract Date from Chapter Title (e.g., " – Wednesday, August 20th, 2014")[cite: 6]
+                    // Extract Date from Chapter Title (e.g., " – Wednesday, August 20th, 2014")
                     if (preg_match('/^(.*?)\s*(?:–|-)\s*([A-Za-z]+,\s*[A-Za-z]+\s*\d+(?:st|nd|rd|th)?(?:,\s*\d{4}))$/', $chapter['chap_title'], $chapMatches)) {
                         $chapter['chap_title'] = trim($chapMatches[1]);
                         $chapterDate = parseExtractedDate($chapMatches[2]);
@@ -67,13 +67,13 @@ foreach ($jsonFiles as $jsonFile) {
                 if (isset($chapter['parts'])) {
                     foreach ($chapter['parts'] as &$part) {
                         if (isset($part['part_title'])) {
-                            // Clean Part Prefix (e.g., "Part 1:" or "Part X:")[cite: 6]
+                            // Clean Part Prefix (e.g., "Part 1:" or "Part X:")
                             $rawTitle = trim(preg_replace('/^Part\s*[a-zA-Z0-9]*:\s*/i', '', $part['part_title']));
                             
                             $startTime = '""';
                             $timezone = '""';
                             
-                            // Extract Time and Optional Timezone (e.g., " – 10:00 AM" or " – 7:00 PM (Newfoundland Daylight Time)")[cite: 6]
+                            // Extract Time and Optional Timezone (e.g., " – 10:00 AM" or " – 7:00 PM (Newfoundland Daylight Time)")
                             if (preg_match('/^(.*?)\s*(?:–|-)\s*(\d{1,2}:\d{2}\s*(?:AM|PM))(?:\s*\((.*?)\))?$/i', $rawTitle, $partMatches)) {
                                 $rawTitle = trim($partMatches[1]);
                                 
