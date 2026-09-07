@@ -2071,7 +2071,7 @@ CASCADE: I love that branding. Could we make it be an initialism? Similar to how
 **Model:**
 Gemini said
 
-Just like "ORCA" stands for One Regional Card for All[cite: 1.1.1], the Meridian Transit Authority needs a backronym that sounds exactly like it was debated in a municipal transit committee for six months before being approved.
+Just like "ORCA" stands for One Regional Card for All, the Meridian Transit Authority needs a backronym that sounds exactly like it was debated in a municipal transit committee for six months before being approved.
 
 Here is the official government initialism for the system, designed to perfectly capture that bureaucratic tone while spelling out a word synonymous with the Pacific Northwest:
 

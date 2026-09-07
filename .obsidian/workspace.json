@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "character-list/Non Verbal Communication Template.md",
+                "file": "rules/master-copyright-document.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Non Verbal Communication Template"
+              "title": "master-copyright-document"
             }
           },
           {
@@ -242,8 +242,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e890d18cc4e4511",
+  "active": "ee3a3d03cbcab883",
   "lastOpenFiles": [
+    "character-list/Non Verbal Communication Template.md",
     "lore/shiloh/shiloh-family.md.sb-0519f57c-XUOoin",
     "lore/shiloh/shiloh-family.md",
     "City of Chesapeake Budget Analyst.md",
@@ -280,7 +281,6 @@
     "character-list/real/autistic-warning/Ouellette",
     "character-list/real/autistic-warning",
     "character-list/real",
-    "character-list/fictional",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Courtney Evans.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Danielle Morgan.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/flankers/Stephanie Reed.jpg",

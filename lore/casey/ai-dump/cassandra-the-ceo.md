@@ -3061,7 +3061,7 @@ When Steven Ballantine officially announced his retirement in early 2014, there 
 │ • William Keswick & Steven Ballantine: Full, enthusiastic endorsement.  │
 │ • Board of Directors: Unanimous vote of confidence.                   │
 │ • Wall Street & Shareholders: Stock surges on the announcement.        │
-│ • Campus Employees: Celebrated from Building 33 to Building 35.[cite: 5, 6]   │
+│ • Campus Employees: Celebrated from Building 33 to Building 35.  │
 └────────────────────────────────────────────────────────────────────────┘
 
 The Handover Ceremony (February 2014)
