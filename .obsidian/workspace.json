@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/master-copyright-document.md",
+                "file": "Gastric Emptying Crisis.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "master-copyright-document"
+              "title": "Gastric Emptying Crisis"
+            }
+          },
+          {
+            "id": "af7f8bf327952f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,12 +256,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee3a3d03cbcab883",
+  "active": "af7f8bf327952f87",
   "lastOpenFiles": [
+    "Gastric Emptying Crisis.md",
+    "Untitled.md",
+    "Setting Up a Droplet.md",
+    "Untitled.canvas",
+    "README.md",
+    "How to Secure the Droplet.md",
+    "City of Chesapeake Budget Analyst.md",
+    "rules/master-copyright-document.md",
     "character-list/Non Verbal Communication Template.md",
     "lore/shiloh/shiloh-family.md.sb-0519f57c-XUOoin",
     "lore/shiloh/shiloh-family.md",
-    "City of Chesapeake Budget Analyst.md",
     "lore/shiloh",
     "lore/casey/Quantum/Corporate Jet.md",
     "Song Ideas - Steel Horizon.md",
@@ -266,18 +287,11 @@
     "books/rachel/b018/c001/p002.md",
     "books/rachel/b017/c001/p006.md",
     "books/rachel/b017/c001/p005.md",
-    "books/rachel/b017/c001/p004.md",
-    "books/rachel/b017/c001/p003.md",
-    "books/rachel/b017/c001/p002.md",
-    "books/rachel/b017/c001/p001.md",
-    "books/rachel/b015/c003/p002.md",
-    "books/rachel/b015/c003/p001.md",
     "lore/rescue-game/proposal",
     "lore/rescue-game",
     "lore/david-meredith/characters/character-lore",
     "lore/david-meredith/characters",
     "lore/david-meredith",
-    "Untitled.canvas",
     "character-list/real/autistic-warning/Ouellette",
     "character-list/real/autistic-warning",
     "character-list/real",
