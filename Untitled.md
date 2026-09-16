@@ -1,54 +1,88 @@
-# Harper: The Studio Engineer 🎧
+---
+type: character-profile
 
-> _"I live in the studio. I take raw master tapes and press them for the airwaves."_
+tags:
 
-## Overview
-
-Harper (v21.8.0) is the high-energy, modular Bash workhorse that automates the entire audio processing, archiving, and metadata pipeline for Engine Room Records. She transforms raw central vault `.wav` files into fully tagged, DistroKid-ready commercial releases while compiling chronological master discographies and tracking internal catalog IDs.
-
-## Key Features
-
-- **Multi-Tier Audio Pressing:** Parallelized `ffmpeg` generation of 128kbps Radio Edits, V0 Premium MP3s, Q9 OGGs, and Lossless FLACs.
+- character
     
-- **Master Discography Compiler:** Chronologically sorts albums by narrative year to bind artist lore, lyrics, and structural cues into a single master markdown file.
+- ccc-campus
     
-- **Dynamic Threading & iGPU Safety:** Automatically calculates logical CPU cores to maximize concurrent audio rendering without locking up shared integrated graphics.
+- honorary-flock
     
-- **Metadata & AI Compliance:** Deep-parses Schema.org JSON to generate DistroKid-ready DSP sheets and stamps universal AI-assisted production disclaimers across the catalog.
+- the-safe-variable
     
-- **Vault Archiving:** Decouples heavy standard and audiophile tiers into ultra-compressed 7-Zip archives (`.zip` and `.7z`).
+- husky-diplomat
     
-- **Art Upscaling:** Integrates Real-ESRGAN for automated 4K album art enhancement.
+- pelletier-twins character_names: ["Elise Pelletier", "Elodie Pelletier"] aliases: ["The Safe Variable (Elise)", "The Husky Diplomat (Elodie)"] creation_date: "1980" (Approximate) status: active
+    
+---
+# Elise and Elodie Pelletier
+
+## I. Core Demographics
+
+- **Identities:** Elise Pelletier (Right Side) & Elodie Pelletier (Left Side)
+    
+- **Physiology:** Dicephalic parapagus twins (Two distinct minds sharing a single physical chassis)
+    
+- **Gender:** Female
+    
+- **Heritage:** French-Canadian
+    
+- **Affiliation:** Charlottesville Community College (CCC)
+    
+- **Role:** Honorary Flock Members / Joint Emergency Proxies
     
 
-## Modular Architecture
+## II. Biological & Physical Reality
 
-Harper is split into focused modules for safe execution and easy maintenance. They are loaded dynamically by the main `harper.sh` script:
+While they occupy a single physical form, Elise and Elodie operate as two completely independent legal and psychological entities.
 
-Plaintext
-
-```
-/harper
-├── 01-init.sh             # Setup, hardware detection, dependencies
-├── 02-audio-engine.sh     # The parallelized ffmpeg worker function
-├── 03-album-processor.sh  # Chronological sorting and album routing
-├── 04-track-processor.sh  # JSON parsing, metadata, and lyrics
-├── 05-archiver.sh         # 7-Zip compression and Vault routing
-└── 06-finalize.sh         # Catalog indexing and cleanup
-```
-
-## Usage & Flags
-
-Execute Harper from the root workspace directory containing the `/harper` module folder. Ensure `ffmpeg`, `ffprobe`, `jq`, and `7z` (or `7zz`) are available in your environment.
-
-Bash
-
-```
-./harper.sh [FLAGS]
-```
-
-- `--rebuild` (or `-y`): Wipes the slate clean. Overwrites existing audio, archives, and master discography files from scratch.
+- **Skeletal Structure:** To accommodate two distinct spinal columns merging into a single pelvis, their shared shoulder girdle is slightly asymmetrical.
     
-- `--metadata`: Bypasses audio rendering and archiving to rapidly repack JSON updates, DSP sheets, and lyrics.
+- **Elodie's Tilt:** Elodie has the primary spinal curvature, meaning her neck and head rest at a permanent, outward tilt. This asymmetrical posture is her painless, physiological zero-state.
     
-- `--force-igpu`: Overrides the safety lock to allow full parallel audio processing on integrated graphics.
+- **Nutritional Logistics:** Because they have separate esophaguses and stomachs, they both need to eat to prevent localized hunger, even though they share a singular intestinal tract and bloodstream for nutrient absorption.
+    
+- **Coordinated Autonomy:** They possess two separate driver's licenses and must seamlessly negotiate their shared limbs to navigate their environment.
+    
+- **The Aesthetic:** Their wardrobe requires custom tailoring for two necklines. They heavily lean into a cozy, late-2000s campus aesthetic, utilizing soft earth tones, oversized knit cardigans, layered camisoles, corduroy pants, and canvas sneakers.
+    
+
+## III. The System Patch & Verbal Consensus
+
+For Matt's highly logical, systems-oriented brain, the twins serve as a flawlessly executed patch to overwrite corrupted memory sectors left behind by past silent departures.
+
+- **The Transparency Protocol:** To accommodate Matt's need for predictable inputs, Elise and Elodie utilize a strict "Verbal Consensus Protocol." Before taking physical action regarding Matt, they explicitly voice their agreement to one another, providing an auditory cue that a transition is happening.
+    
+- **Boundary Respect:** They completely understand the clinical hierarchy of the Kids House. When a clinical ADL transfer is required, they reach a rapid verbal consensus and step back in physical unison.
+    
+- **Grounding Energy:** Elise operates with a profoundly reassuring, safe baseline. Her warm eyes and gentle smile create a visual anchor devoid of performative ego or fragility.
+    
+
+## IV. Husky Diplomacy & Pack Integration
+
+The twins are permanently embedded in the "One of the Girls" protocol, seamlessly integrating into communal chaos alongside Rachel and Jessica.
+
+- **The Gymnastics Mat:** They are completely comfortable abandoning traditional furniture to jointly claim a spot on the heavy-duty foam gymnastic mat in the living room.
+    
+- **Pack Acceptance:** The dogs view both twins as authorized flock members. Kodiak uses their shared lower body as a secondary weighted blanket, draping his massive 75-pound frame across their legs.
+    
+- **Echo's Protocol:** Echo, the highly vocal siren, absolutely loves Elodie. Initially confused by Elodie's tilted head, Echo would mirror the posture in canine confusion. Now, she simply accepts it. Elodie routinely engages in mock-serious debates with the dog, using calm French-Canadian logic to counter Echo's deafening yodels.
+    
+
+## V. The Joint Emergency Proxy
+
+Elise and Elodie occupy a uniquely elevated tier of trust within the Miller and Brooks family ecosystem.
+
+- **The Outer Firewall:** They are the _only_ non-family females who have bypassed Sarah's zero-tolerance firewall.
+    
+- **Co-Proxy Override:** In the event of an absolute catastrophe, Sarah and Katrina implicitly trust the twins to make interim safety decisions for Matt. Because they are two distinct minds, this built-in consensus mechanism provides an unparalleled, secure fail-safe.
+## VI. Life Partners & The Commitment Ceremony
+
+Because Matt is legally incapacitated and unable to sign a marriage license, Elise and Elodie bypassed legal bureaucracy to become his permanent, chosen life partners.
+
+- **The Three-Ring Consensus:** To honor their distinct identities and unified devotion, they exchanged three rings during a formal commitment ceremony. Matt placed a ring on Elise's right hand and Elodie's left hand, while the twins coordinated their hands to slide a ring onto Matt's finger. These rings serve as a permanent, tangible data point of safety for Matt's autistic processing.
+    
+- **The Tactile First Dance:** During their banquet reception, their "first dance" bypassed traditional footwork to accommodate Matt's dyspraxia. Sitting at eye level with his manual wheelchair, they provided a sustained, rhythmic deep-pressure hug as they swayed, communicating their love entirely through his native tactile language.
+    
+- **The Inner Circle Firewall:** By choosing Matt, they structurally upgraded their status from emergency proxies to permanent fixtures. They are the _only_ non-family females to completely bypass Sarah's zero-tolerance firewall and be granted unrestricted inner-circle status.

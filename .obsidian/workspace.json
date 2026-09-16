@@ -57,7 +57,7 @@
               "state": {
                 "file": "Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Untitled"
@@ -258,6 +258,7 @@
   },
   "active": "af7f8bf327952f87",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Gastric Emptying Crisis.md",
     "Untitled.md",
     "Setting Up a Droplet.md",
@@ -286,7 +287,6 @@
     "books/rachel/b018/c002/p001.md",
     "books/rachel/b018/c001/p002.md",
     "books/rachel/b017/c001/p006.md",
-    "books/rachel/b017/c001/p005.md",
     "lore/rescue-game/proposal",
     "lore/rescue-game",
     "lore/david-meredith/characters/character-lore",
