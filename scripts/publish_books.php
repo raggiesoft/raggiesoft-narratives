@@ -169,6 +169,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         'slug' => $seriesSlug,
         'title' => $seriesTitle,
         'description' => $katie['series_description'] ?? '',
+        'image' => $katie['series_image'] ?? '',
         'folder' => $narrativeName
     ];
 }
