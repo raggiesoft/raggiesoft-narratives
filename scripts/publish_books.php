@@ -130,8 +130,8 @@ foreach ($narrativeDirs as $narrativeDir) {
     // The Series Overview Route
     $overviewUrl = "/raggiesoft-books/books/{$seriesSlug}";
     $routeData[$overviewUrl] = [
-        "view" => "pages/raggiesoft-books/books/overview",
-        "title" => "{$seriesTitle} - Library",
+        "view" => "pages/raggiesoft-books/books/series",
+        "title" => "{$seriesTitle}",
         "theme" => ""
     ];
 
