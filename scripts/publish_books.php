@@ -83,17 +83,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         continue;
     }
 
-    // --- STEP A: DESTRUCTIVE ASSET SYNC ---
-    $targetAssetDir = $assetDestDir . '/' . $seriesSlug;
     
-    if (is_dir($targetAssetDir)) {
-        echo "  [Assets] Wiping existing CDN directory: {$targetAssetDir}\n";
-        rrmdir($targetAssetDir);
-    }
-    
-    echo "  [Assets] Copying Markdown, cover art, and katie.json to CDN...\n";
-    rcopy($narrativeDir, $targetAssetDir);
-    echo "  [Assets] Sync complete.\n";
 
     // --- STEP B: PARSE MANIFEST FOR ROUTES ---
     $katie = json_decode(file_get_contents($manifestFile), true);
@@ -105,6 +95,18 @@ foreach ($narrativeDirs as $narrativeDir) {
     $seriesTitle = $katie['series_title'] ?? $narrativeName;
     $seriesSlug = slugify($seriesTitle);
     $books = $katie['books'] ?? $katie;
+
+    // --- STEP A: DESTRUCTIVE ASSET SYNC ---
+    $targetAssetDir = $assetDestDir . '/' . $seriesSlug;
+    
+    if (is_dir($targetAssetDir)) {
+        echo "  [Assets] Wiping existing CDN directory: {$targetAssetDir}\n";
+        rrmdir($targetAssetDir);
+    }
+    
+    echo "  [Assets] Copying Markdown, cover art, and katie.json to CDN...\n";
+    rcopy($narrativeDir, $targetAssetDir);
+    echo "  [Assets] Sync complete.\n";
 
     echo "  [Routes] Generating Stardust Engine Route JSON for '{$seriesTitle}'...\n";
 
