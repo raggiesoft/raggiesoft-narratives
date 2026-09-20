@@ -112,6 +112,7 @@ foreach ($narrativeDirs as $narrativeDir) {
 
     // Build the Route JSON Array
     $lastRouteUrl = null;
+    $firstRouteUrl = null;
     $routeData = [];
     
     // The Common Block
