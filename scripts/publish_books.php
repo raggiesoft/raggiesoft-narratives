@@ -163,9 +163,22 @@ foreach ($narrativeDirs as $narrativeDir) {
     );
     
     echo "  [Routes] Saved to: /data/routes/raggiesoft-books/{$seriesSlug}.json\n";
+    
+    // Add to Master Catalog
+    $masterCatalog[] = [
+        'slug' => $seriesSlug,
+        'title' => $seriesTitle,
+        'description' => $katie['series_description'] ?? '',
+        'folder' => $narrativeName
+    ];
 }
+
+// --- STEP D: WRITE MASTER CATALOG ---
+$catalogFile = $assetDestDir . '/catalog.json';
+file_put_contents($catalogFile, json_encode($masterCatalog, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
 echo "========================================================\n";
 echo "Publishing Complete! CDN updated and Stardust Routes mapped.\n";
+echo "Master Catalog saved to: catalog.json\n";
 echo "========================================================\n";
 ?>
