@@ -7,7 +7,7 @@ $serverRoot = dirname(__DIR__, 2); // Moves up twice to reach /raggiesoft-server
 
 $sourceBooksDir = $serverRoot . '/raggiesoft-narratives/books';
 $assetDestDir   = $serverRoot . '/raggiesoft-assets/raggiesoft-books/books';
-$routesDestDir  = $serverRoot . '/raggiesoft-hub/data/routes/raggiesoft-books';
+$routesDestDir  = $serverRoot . '/raggiesoft-hub/data/routes/raggiesoft-books/books';
 
 // Validate source
 if (!is_dir($sourceBooksDir)) {
@@ -176,7 +176,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         json_encode($routeData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
     );
     
-    echo "  [Routes] Saved to: /data/routes/raggiesoft-books/{$seriesSlug}.json\n";
+    echo "  [Routes] Saved to: /data/routes/raggiesoft-books/books/{$seriesSlug}.json\n";
     
     // Add to Master Catalog
     $masterCatalog[] = [
