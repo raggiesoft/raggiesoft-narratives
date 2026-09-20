@@ -92,7 +92,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         continue;
     }
 
-    $seriesTitle = $katie['series_title'] ?? $narrativeName;
+    $seriesTitle = !empty($katie['series_title']) ? $katie['series_title'] : $narrativeName;
     $seriesSlug = slugify($seriesTitle);
     $books = $katie['books'] ?? $katie;
 
@@ -111,6 +111,7 @@ foreach ($narrativeDirs as $narrativeDir) {
     echo "  [Routes] Generating Stardust Engine Route JSON for '{$seriesTitle}'...\n";
 
     // Build the Route JSON Array
+    $lastRouteUrl = null;
     $routeData = [];
     
     // The Common Block
@@ -149,7 +150,16 @@ foreach ($narrativeDirs as $narrativeDir) {
                     "title" => $cleanTitle,
                     "theme" => ""
                 ];
+                $lastRouteUrl = $routeUrl;
             }
+        }
+    }
+
+    // Connect interconnected series!
+    if (!empty($katie['next_series_url']) && isset($lastRouteUrl)) {
+        $routeData[$lastRouteUrl]['nextUrl'] = $katie['next_series_url'];
+        if (!empty($katie['next_series_text'])) {
+            $routeData[$lastRouteUrl]['nextText'] = $katie['next_series_text'];
         }
     }
 
