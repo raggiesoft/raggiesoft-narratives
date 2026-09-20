@@ -144,6 +144,9 @@ foreach ($narrativeDirs as $narrativeDir) {
                 
                 $routeUrl = "/raggiesoft-books/books/{$seriesSlug}/{$cleanPath}";
                 $cleanTitle = strip_tags($part['part_title']);
+                if ($firstRouteUrl === null) {
+                    $firstRouteUrl = $routeUrl;
+                }
                 
                 $routeData[$routeUrl] = [
                     "view" => "pages/raggiesoft-books/books/viewer",
@@ -180,6 +183,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         'title' => $seriesTitle,
         'description' => $katie['series_description'] ?? '',
         'image' => $katie['series_image'] ?? '',
+        'first_route' => $firstRouteUrl,
         'folder' => $narrativeName
     ];
 }

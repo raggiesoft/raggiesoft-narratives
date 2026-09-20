@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "books/crimson-node/b001/c002/p004.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "p004"
             }
           },
           {
@@ -258,9 +258,13 @@
   },
   "active": "af7f8bf327952f87",
   "lastOpenFiles": [
+    "books/crimson-node/b001/c002/p003.md",
+    "books/crimson-node/b001/c002/p002.md",
+    "books/crimson-node/b001/c002/p001.md",
+    "books/crimson-node/b001/c001/p001.md",
+    "Untitled.md",
     "Untitled 1.md",
     "Gastric Emptying Crisis.md",
-    "Untitled.md",
     "Setting Up a Droplet.md",
     "Untitled.canvas",
     "README.md",
@@ -283,10 +287,6 @@
     "books/rachel/b018/c002/p005.md",
     "books/rachel/b018/c002/p004.md",
     "books/rachel/b018/c002/p002.md",
-    "books/rachel/b018/c002/p003.md",
-    "books/rachel/b018/c002/p001.md",
-    "books/rachel/b018/c001/p002.md",
-    "books/rachel/b017/c001/p006.md",
     "lore/rescue-game/proposal",
     "lore/rescue-game",
     "lore/david-meredith/characters/character-lore",
