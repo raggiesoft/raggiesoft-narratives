@@ -84,7 +84,7 @@ foreach ($narrativeDirs as $narrativeDir) {
     }
 
     // --- STEP A: DESTRUCTIVE ASSET SYNC ---
-    $targetAssetDir = $assetDestDir . '/' . $narrativeName;
+    $targetAssetDir = $assetDestDir . '/' . $seriesSlug;
     
     if (is_dir($targetAssetDir)) {
         echo "  [Assets] Wiping existing CDN directory: {$targetAssetDir}\n";
@@ -116,6 +116,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         "site" => "raggiesoft-books",
         "theme" => "",
         "siteName" => $seriesTitle,
+        "isSequential" => true,
         "showSidebar" => true,
         "sidebar" => "raggiesoft-books/sidebar-book",
         "headerMenu" => "raggiesoft-books/header-books",
