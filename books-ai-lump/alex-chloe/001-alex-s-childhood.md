@@ -1,6 +1,6 @@
 ---
 title: "Alex’s Childhood"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Alex’s Childhood

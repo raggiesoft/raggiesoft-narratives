@@ -1,6 +1,6 @@
 ---
 title: "Life at Fairlawn"
-series: "jack-sarah"
+series: ""
 ---
 
 # Life at Fairlawn

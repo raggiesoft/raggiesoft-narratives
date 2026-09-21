@@ -1,6 +1,6 @@
 ---
 title: "Era 3: The Age of Tides"
-series: "aethel"
+series: "The Silver Gauntlet of Aethel"
 ---
 
 # Era 3: The Age of Tides

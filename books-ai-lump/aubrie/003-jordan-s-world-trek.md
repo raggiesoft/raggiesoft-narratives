@@ -1,6 +1,6 @@
 ---
 title: "Jordan's World Trek"
-series: "aubrie"
+series: ""
 ---
 
 # Jordan's World Trek

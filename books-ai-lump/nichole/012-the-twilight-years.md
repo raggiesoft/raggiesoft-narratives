@@ -1,6 +1,6 @@
 ---
 title: "The Twilight Years"
-series: "nichole"
+series: "Nichole"
 ---
 
 # The Twilight Years

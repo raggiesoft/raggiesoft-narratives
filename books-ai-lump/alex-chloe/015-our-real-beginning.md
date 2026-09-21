@@ -1,6 +1,6 @@
 ---
 title: "Our Real Beginning"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Our Real Beginning

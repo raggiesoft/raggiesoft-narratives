@@ -1,6 +1,6 @@
 ---
 title: "One Last Summer"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # One Last Summer

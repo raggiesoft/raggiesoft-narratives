@@ -1,6 +1,6 @@
 ---
 title: "Senior Year"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Senior Year

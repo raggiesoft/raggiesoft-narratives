@@ -1,6 +1,6 @@
 ---
 title: "The Commitment of Leo and Olivia"
-series: "luna-leo"
+series: ""
 ---
 
 # The Commitment of Leo and Olivia

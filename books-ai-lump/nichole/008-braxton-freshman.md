@@ -1,6 +1,6 @@
 ---
 title: "Braxton Freshman"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Braxton Freshman

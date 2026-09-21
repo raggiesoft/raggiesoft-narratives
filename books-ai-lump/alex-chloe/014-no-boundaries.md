@@ -1,6 +1,6 @@
 ---
 title: "No Boundaries"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # No Boundaries

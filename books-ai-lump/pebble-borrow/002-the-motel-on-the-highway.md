@@ -1,6 +1,6 @@
 ---
 title: "The Motel on the Highway"
-series: "pebble-borrow"
+series: ""
 ---
 
 # The Motel on the Highway

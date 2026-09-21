@@ -1,6 +1,6 @@
 ---
 title: "COVID"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # COVID

@@ -1,6 +1,6 @@
 ---
 title: "Leo is Home"
-series: "luna-leo"
+series: ""
 ---
 
 # Leo is Home

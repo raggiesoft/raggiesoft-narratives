@@ -1,6 +1,6 @@
 ---
 title: "The General's Arrival"
-series: "pebble-borrow"
+series: ""
 ---
 
 # The General's Arrival

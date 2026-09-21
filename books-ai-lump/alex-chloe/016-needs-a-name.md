@@ -1,6 +1,6 @@
 ---
 title: "Needs a Name"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Needs a Name

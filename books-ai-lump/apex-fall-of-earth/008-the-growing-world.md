@@ -1,6 +1,6 @@
 ---
 title: "The Growing World"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # The Growing World

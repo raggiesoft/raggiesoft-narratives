@@ -1,6 +1,6 @@
 ---
 title: "The Sanctuary"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # The Sanctuary

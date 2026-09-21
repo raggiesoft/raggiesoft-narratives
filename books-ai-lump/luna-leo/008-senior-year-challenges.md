@@ -1,6 +1,6 @@
 ---
 title: "Senior Year Challenges"
-series: "luna-leo"
+series: ""
 ---
 
 # Senior Year Challenges

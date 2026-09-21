@@ -1,6 +1,6 @@
 ---
 title: "Assault"
-series: "bob-emily"
+series: ""
 ---
 
 # Assault

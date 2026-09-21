@@ -1,6 +1,6 @@
 ---
 title: "Heart Attack"
-series: "jack-sarah"
+series: ""
 ---
 
 # Heart Attack

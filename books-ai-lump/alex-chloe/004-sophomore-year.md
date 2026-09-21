@@ -1,6 +1,6 @@
 ---
 title: "Sophomore Year"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Sophomore Year

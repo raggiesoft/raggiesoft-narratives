@@ -1,6 +1,6 @@
 ---
 title: "The First Generation"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # The First Generation

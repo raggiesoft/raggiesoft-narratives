@@ -1,6 +1,6 @@
 ---
 title: "A Dream Built"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # A Dream Built

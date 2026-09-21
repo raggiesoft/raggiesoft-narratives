@@ -1,6 +1,6 @@
 ---
 title: "Junior Year"
-series: "luna-leo"
+series: ""
 ---
 
 # Junior Year

@@ -1,6 +1,6 @@
 ---
 title: "The Eleventh Child, Off to College"
-series: "aubrie"
+series: ""
 ---
 
 # The Eleventh Child, Off to College

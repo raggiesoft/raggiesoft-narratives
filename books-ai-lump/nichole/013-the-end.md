@@ -1,6 +1,6 @@
 ---
 title: "The End"
-series: "nichole"
+series: "Nichole"
 ---
 
 # The End

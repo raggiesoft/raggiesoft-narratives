@@ -1,6 +1,6 @@
 ---
 title: "Chapter 4: Building the Foundation"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Chapter 4: Building the Foundation

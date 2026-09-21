@@ -1,6 +1,6 @@
 ---
 title: "Separate Coast, Separate Lives"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Separate Coast, Separate Lives

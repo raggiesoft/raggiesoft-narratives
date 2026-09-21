@@ -1,6 +1,6 @@
 ---
 title: "Wyatt’s Prologue"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # Wyatt’s Prologue

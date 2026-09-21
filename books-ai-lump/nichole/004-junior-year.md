@@ -1,6 +1,6 @@
 ---
 title: "Junior Year"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Junior Year

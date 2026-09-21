@@ -1,6 +1,6 @@
 ---
 title: "Sarah’s Prologue"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # Sarah’s Prologue

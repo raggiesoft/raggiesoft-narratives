@@ -1,6 +1,6 @@
 ---
 title: "Currents and Crosswinds"
-series: "jessica"
+series: "The Quantum Directive: Jessica's Cut"
 ---
 
 # Currents and Crosswinds

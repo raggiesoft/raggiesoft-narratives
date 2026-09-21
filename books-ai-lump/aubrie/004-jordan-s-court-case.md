@@ -1,6 +1,6 @@
 ---
 title: "Jordan's Court Case"
-series: "aubrie"
+series: ""
 ---
 
 # Jordan's Court Case

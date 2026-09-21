@@ -1,6 +1,6 @@
 ---
 title: "The Village of Genesis"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # The Village of Genesis

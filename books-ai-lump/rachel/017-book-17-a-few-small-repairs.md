@@ -2287,7 +2287,7 @@ By 7:00 AM, our bowls were in the sink, our heavy coats were on, and Rachel had 
 
 We walked out into the freezing, damp University Place morning, making the short walk to the transit stop on Bridgeport Way. The gray skies were holding off on the rain for now, leaving the air crisp and biting.
 
-At exactly 7:15 AM, the teal and yellow TAPS Route 2—the South 19th-Bridgeport line—hissed to a halt at the curb. The operator lowered the front suspension and deployed the ramp for Jessica. Rachel and I followed her aboard.
+At 7:15 AM, the teal and yellow TAPS Route 2—the South 19th-Bridgeport line—hissed to a halt at the curb. The operator lowered the front suspension and deployed the ramp for Jessica. Rachel and I followed her aboard.
 
 We took our seats, and I pressed my shoulder flush against Rachel's red polo shirt as the heavy diesel engine roared. The bus pulled away from the curb, carrying us straight toward the Lakewood Transit Center so my little sister could clock in for the weekend retail war.
 
@@ -2435,9 +2435,9 @@ Rachel laughed softly against my coat, her hand reaching up to pull the yellow s
 
 Because Jessica wasn't as intimately familiar with the specific quirks and stop geometries of the Pierce County local routes as Rachel was, my little sister took command of the disembarking protocol.
 
-"Wheelchair getting off!" Rachel called forward to the operator, her raspy voice projecting clearly over the rumble of the engine to ensure the driver had plenty of time to prep the hydraulic lift.
+"Wheelchair getting off!" Rachel called forward to the operator when she pulled the stop request cord, her raspy voice projecting clearly over the rumble of the engine to ensure the driver had plenty of time to prep the hydraulic lift.
 
-"Copy that," the driver called back.
+"Thank you," the driver called back.
 
 The heavy bus decelerated, kneeling to the wet curb right at the intersection of Bridgeport Way West and 67th Avenue West.
 
@@ -2450,12 +2450,6 @@ Looming over the massive parking lot was the brightly lit, sprawling facade of *
 "Alright," Jessica smiled, adjusting her coat and looking at the automatic glass doors of the superstore. "Let's go buy some breakfast and go bump into our favorite Sentinel."
 
 ### Part 5: The Grocery Side – 8:30 AM (PST)
-
-The TAPS Route 2 bus hissed to a stop at the curb. The automated voice chimed, "Bridgeport Way West & 67th Avenue West."
-
-"Wheelchair getting off!" Rachel called forward to the operator, her voice carrying easily over the idling engine.
-
-I stood up, keeping my hand securely linked with Rachel's, and walked forward to unhook Jessica's tie-downs. I piloted the wheelchair down the hydraulic ramp and onto the damp concrete sidewalk.
 
 Directly to our right, sprawling across a massive parking lot, was the brightly lit facade of *Franklin's Market*.
 
@@ -2606,27 +2600,17 @@ I knew the track. It was a heavy, dramatic 1980s pop-rock anthem that we had loa
 "The lyrics," Jessica sobbed, reciting the exact, soaring words that had broken her firewall.
 
 *I saw the shadow falling across your face*
-
 *A quiet surrender in a crowded place*
-
 *You wore a mask, but the edges were frayed*
-
 *Lost in the rules of a game that we played*
-
 *I should have reached out, I should have stood tall*
-
 *But I let the silence echo down the hall*
 
 *When the steel doors close and the platform clears*
-
 *You can hear the truth grinding in the gears*
-
 *Heed the warning hiding in his eyes*
-
 *Before the distance leaves your soul behind*
-
 *Trust the silence when he calls your name*
-
 *'Cause once it's gone, nothing stays the same*
 
 "It completely broke me," Jessica wept, clutching my shirt. "The song literally said, 'When the steel doors close and the platform clears.' I cried. Michael, I sat in that accessible bay and I cried all the way to Seattle King Street Station. I cried on the platform. And I cried all the way across the SR-520 bridge on the 545 express bus to work."
@@ -2647,7 +2631,7 @@ It took every ounce of strength I had to force the words past the heavy, iron va
 
 Rachel let out a horrified, muffled gasp into my shoulder. Jessica’s breathing stopped entirely.
 
-"It wasn't a bad breakup," I wept, spelling out the exact, horrifying legal reality. "It was RCW 9A.44.050. Rape in the second degree, committed by a person who knew the victim was physically helpless or mentally incapacitated. They both did it. And then, a few hours later, Aunt Lynne threw me out into the morning rain and left me for dead."
+"It wasn't a bad breakup," I wept, spelling out the exact, horrifying legal reality. "It was RCW 9A.44.050. Rape in the second degree, committed by a person who knew the victim was physically helpless or mentally incapacitated. They both did it. And then, a few hours later, Lynne threw me out into the morning rain and left me for dead."
 
 The living room fell into an absolute, deafening silence, broken only by my heavy, frantic sobbing.
 

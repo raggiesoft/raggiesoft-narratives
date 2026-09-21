@@ -1,6 +1,6 @@
 ---
 title: "The Fall of Apex"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # The Fall of Apex

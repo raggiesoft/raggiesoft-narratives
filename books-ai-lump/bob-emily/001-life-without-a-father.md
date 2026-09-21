@@ -1,6 +1,6 @@
 ---
 title: "Life Without a Father"
-series: "bob-emily"
+series: ""
 ---
 
 # Life Without a Father

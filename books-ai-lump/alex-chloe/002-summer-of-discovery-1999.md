@@ -1,6 +1,6 @@
 ---
 title: "Summer of Discovery 1999"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Summer of Discovery 1999

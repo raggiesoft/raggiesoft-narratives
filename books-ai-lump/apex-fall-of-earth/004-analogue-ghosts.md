@@ -1,6 +1,6 @@
 ---
 title: "Analogue Ghosts"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # Analogue Ghosts

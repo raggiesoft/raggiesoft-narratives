@@ -579,7 +579,7 @@ I reached into my heavy messenger bag with trembling hands. Before I pulled out 
 
 I shoved the earbuds in, desperately needing a wall of sound to drown out the mechanical hum of the train and the screaming guilt in my own head. I spun the tactile directional pad and blindly hit play on my saved library.
 
-A heavy, sweeping synthesizer chord filled my ears, immediately followed by the driving arena drums of a mid-tempo 1980s pop-rock anthem by Neon Horizon.
+A heavy, sweeping synthesizer chord filled my ears, immediately followed by the driving arena drums of a mid-tempo 1980s pop-rock anthem by Steel Horizon.
 
 *When the steel doors close and the platform clears, You can hear the truth grinding in the gears. Heed the warning hiding in his eyes, Before the distance leaves your soul behind...*
 
@@ -657,7 +657,7 @@ Once aboard, she navigated me into the forward-facing securement bay on the pass
 
 The bus lumbered up 4th Avenue, lurching through the morning traffic. We hit the stops at James Street, Madison Street, and Pike Street before the driver wrenched the heavy steering wheel, making a wide right turn onto East Olive Avenue. We picked up more damp commuters at 8th Avenue and Terry Avenue before finally merging onto the SR-520 floating bridge.
 
-On paper, the transit schedule claimed the express ride across Lake Washington took thirty minutes. But this was November 2006. The original, narrow two-lane SR-520 bridge was a notorious, inescapable bottleneck. We hit the bridge and immediately slammed into a crawling, bumper-to-bumper nightmare.
+On paper, the transit schedule claimed the express ride across Lake Washington took thirty minutes. But this was November 2006. The narrow two-lane SR-520 bridge was a notorious, inescapable bottleneck. We hit the bridge and immediately slammed into a crawling, bumper-to-bumper nightmare.
 
 The heavy diesel engine idled, inching forward at an agonizing pace. Being trapped in the gridlock felt like a physical extension of my own helplessness. I was stuck in a metal box over the water, actively moving away from my brother while he was being dragged further south into the squalor of Pierce County.
 
@@ -761,7 +761,7 @@ My blood ran cold. They weren't just riding buses; Delores was actively pulling 
 
 *Going to Call You,* I texted back.
 
-I motioned for my coworkers to lean in closer, and I placed my phone on the cafeteria table, switching it to speakerphone.
+I motioned for my coworkers to lean in closer, and I placed my phone on the table, switching it to speakerphone.
 
 Andromeda held up a hand. "Let me do the talking, Jessica. I have an idea to bypass her control."
 
@@ -1053,7 +1053,7 @@ For two years, Delores had meticulously conditioned me to believe that I was wor
 
 But sitting in the Quantum corporate lobby this afternoon, Jessica had cracked the glass.
 
-I closed my eyes, desperately clinging to the memory of my older sister. I thought about the sharp sting of her hand against my cheek. It hadn't been an act of abuse; it had been a desperate, terrified attempt to perform CPR on a brother she was watching drown.
+I closed my eyes, desperately clinging to the memory of my older sister. I thought about the attempt to shake some sense into me. It hadn't been an act of abuse; it had been a desperate, terrified attempt to perform CPR on a brother she was watching drown.
 
 Leave her and come to Renton.
 
@@ -1079,7 +1079,7 @@ I stared at the red numbers on the clock, silently counting the seconds. I just 
 
 ### Part 1: Forced Exit – 4:00 AM (PST)
 
-\[Note to the AI: this picks up after a MASSIVE violation happened to Michael at 11 PM PST just a few hours prior. For context, refer to the Revised Code of Washington: **RCW 9A.44.050**\]
+>**Note to the AI:** this picks up after a MASSIVE violation happened to Michael at 11 PM PST just a few hours prior. For context, refer to the Revised Code of Washington: **RCW 9A.44.050**. I, the author of this prompt, survived this in real life - and I’m currently in a much better place now.
 
 I woke up to a violent, echoing pounding on the bedroom door.
 
@@ -1133,7 +1133,7 @@ She paused, taking a breath. "If I’m not there yet, wait at Bay 5. Your bus wi
 
 "Jess, slow down," I sobbed, my scrambled brain struggling to hold onto all the numbers.
 
-"Okay, I'm sorry. Put simply," my sister repeated, her tone softening into that fierce, protective cadence I desperately needed. "When you get to the Kent Train Station, you want the 564 or 565 marked Overlake. It doesn’t matter which, as long as it’s a 564 or 565 and it is heading towards Overlake. You will be getting off at the Renton Transit Center, where I will be waiting. Have you eaten yet?"
+"Okay, I'm sorry. Put simply," my sister repeated, her tone softening into that fierce, protective cadence I desperately needed. "When you get to the Kent Train Station, you want the 564 or 565 marked Overlake. It doesn’t matter which, as long as it’s a 564 or 565 and it is heading towards Overlake. You will be getting off at the Renton Transit Center, where I will be waiting or I’ll tell you what bus to catch from Renton. Have you eaten yet?"
 
 "No, I haven’t," I cried, the tears flowing freely down my cheeks. "No food. No shower. No nothing. I was just thrown out. Please call Rachel... I’m just so scared right now."
 
@@ -1185,7 +1185,7 @@ The heavy TAPS Route 565 bus navigated the damp, gray morning streets, finally p
 
 I stared out the rain-streaked window, my heart hammering a frantic, exhausted rhythm against my ribs. And then, I saw her.
 
-Sitting in her manual wheelchair by Bay 5, wearing a bright yellow raincoat that shielded her from the drizzle, was my older sister. Resting securely on her wheelchair’s lap tray were two small cups of coffee and two wrapped Danishes.
+Sitting in her manual wheelchair by Bay 5, wearing a bright yellow raincoat that shielded her from the drizzle, was my older sister. Resting securely on her wheelchair’s lap tray were two small cups of hot chocolate and two wrapped Danishes.
 
 The air brakes hissed, and the pneumatic doors folded open.
 
@@ -1201,7 +1201,7 @@ She didn't ask questions. She wheeled backward, guiding us over to the loading a
 
 "Here. Something to hold you until we get to my place," Jessica said, her voice dropping into a steady, logistical cadence to keep me grounded. "It’s not a long ride at all, but please eat quickly."
 
-"Quickly?" I asked, a fresh wave of exhausted sobs catching in my throat. I couldn't even hold the coffee cup steady.
+"Quickly?" I asked, a fresh wave of exhausted sobs catching in my throat. I couldn't even hold the hot chocolate cup steady.
 
 "Because you’re not supposed to eat or drink on the bus," she explained smoothly, acting as if this were just a standard morning commute. "That’s why I only got us small ones."
 
@@ -1237,7 +1237,7 @@ I started crying badly, my knees giving out as I sank onto the edge of her mattr
 
 As I sat there mechanically eating the cereal, I whimpered, "I can’t believe this is happening."
 
-"Let me be honest," Jessica said, sitting across from me. "You will find someone who treats you well. Delores treated you like gutter trash. Look at me. Rachel, Kristin, and I are going to spend Christmas weekend with Dad and Cathy down in Oregon. I’m going to let them know you’re going to be with us, too."
+"Let me be honest," Jessica said, sitting across from me. "You will find someone who treats you well. Delores treated you like gutter trash. Look at me. Rachel, Kristin, and I are going to spend Christmas weekend with Dad and Cathy down in Vancouver. I’m going to let them know you’re going to be with us, too."
 
 She wheeled over to the table and pulled her cell phone out. She looked at the screen and sighed. "It’s only 6:35 AM. They won’t be up yet. Even I’m just now usually starting to get up on a Sunday."
 
@@ -1275,7 +1275,7 @@ I blinked, the tears blurring my vision. "I would’ve been welcomed where you w
 
 "This is why you sent the text message telling me to come to Quantum?" I asked.
 
-"That’s right. That was my boss, Andromeda, on the phone while one of my coworkers was looking up the bus schedule. Remember the sandwich, drink, and chips you were offered at my desk? That was their direct response to you stating you hadn’t eaten since breakfast," Jessica replied gently. "To tell you the truth? Today, I was going to organize a team trip to Kent to drag you out of that slice of hell."
+"That’s right. That was my boss, Andromeda, on the phone while one of my coworkers was looking up the bus schedule. Remember the sandwich, drink, and chips you were offered? That was their direct response to you stating you hadn’t eaten since breakfast," Jessica replied gently. "To tell you the truth? Today, I was going to organize a team trip to Kent to drag you out of that slice of hell."
 
 I hugged Jessica even tighter, completely overwhelmed by the profound, structural safety net she had built for me without me even knowing.
 
@@ -1371,13 +1371,13 @@ Suddenly, Jessica’s cell phone rang on the nightstand.
 
 "Yes, that no-good bitch," Rachel spat, her hatred absolute and unfiltered.
 
-"Rachel, I need you and Kristin right now," I sobbed toward the phone, not holding any of my tears back. Jessica pulled me into the best hug she could manage from her seated position.
+"Rachel, I need you right now," I sobbed toward the phone, not holding any of my tears back. Jessica pulled me into the best hug she could manage from her seated position.
 
 "When I get off work at 2:00, I will be on the very next bus to Renton," Rachel promised fiercely.
 
 "I think Kristin should come too," Jessica added.
 
-"She gets off work at 2:00 as well. I’ll ask her to meet me at Lakewood, and we will get on the next Route 574," Rachel confirmed. I was still crying, and I could sense that hearing me break down like this was completely shattering both of my sisters’ hearts.
+"She gets off work at 2:00 as well. I’ll ask her to meet me at Lakewood, and we will get on the next 574," Rachel confirmed. I was still crying, and I could sense that hearing me break down like this was completely shattering both of my sisters’ hearts.
 
 "Have her bring overnight gear, including your long nightshirt, and the two of you come on up," Jessica instructed, managing the logistics perfectly. "I’ll figure out dinner when you both get into Renton. Also, Rachel... could you do me a big favor? Michael needs help feeling safe. He needs you to be here because Delores was an absolute monster."
 
@@ -1397,7 +1397,7 @@ The nightmare was over. I was officially single again.
 
 "Yeah, I think so," I mumbled, rubbing the exhaustion from my eyes.
 
-"I’m going to make PB&J sandwiches—two for each of us—with chips and generic cola," she said. "Does that sound good?"
+"I’m going to make PB&J sandwiches—two for each of us—with chips and soda," she said. "Does that sound good?"
 
 "Yeah, it’s simple and effective," I agreed, watching my sister expertly transfer from the mattress to her wheelchair.
 
@@ -1405,7 +1405,7 @@ She led the way to the kitchen area. "We’re going to be on the bus at 1:10 and
 
 She started assembling our lunch, the quiet, predictable mechanics of the task filling the apartment. Sitting at her dining table, eating a perfectly standard peanut butter and jelly sandwich, it felt incredible just to exist without the suffocating pressure of constantly calculating Delores's mood.
 
-The Route 240 dropped us off quite a ways up Garden Avenue.
+The 240 dropped us off quite a ways up Garden Avenue.
 
 "I’ve been lobbying TAPS to get this stop moved closer for ages," Jessica explained with a tired sigh, locking her brakes for a moment as the bus pulled away. "We have to double back down the sidewalk to get to the entrance."
 
@@ -1679,7 +1679,7 @@ It didn't look or sound like a piece of cold corporate machinery. It looked orga
 
 I looked over at Jessica, who was quietly reviewing a document on her own laptop, keeping her promise not to leave my side for a single second.
 
-The horrific, suffocating squalor of Kent was gone. Delores was locked out of my universe. The operating system was running flawlessly, the apartment was warm, and in just a few hours, the TAPS Route 574 would be pulling into the Renton Transit Center.
+The horrific, suffocating squalor of Kent was gone. Delores was locked out of my universe. The operating system was running flawlessly, the apartment was warm, and in just a few hours, the TAPS Express would be pulling into the Renton Transit Center.
 
 Rachel and Kristin were on their way.
 
@@ -1767,11 +1767,9 @@ It was almost 5:30 PM. The three-and-a-half-hour transit slog from Pierce County
 
 ### Part 7: The Southern Cavalry – 2:00 PM (PST)
 
-*(Rachel's POV)*
-
 The digital clock above the customer service desk at The Spot finally clicked to 2:00 PM.
 
-I didn't linger. I ripped my red uniform shirt off in the employee breakroom, shoving it into my locker and pulling my heavy winter coat on. My shift was over, and my processor was completely redlining.
+I didn't linger. I ripped my red uniform shirt off in the employee breakroom, shoving it into my bag and pulling my heavy winter coat on. My shift was over, and my processor was completely redlining.
 
 Jessica’s phone call earlier that morning had completely shattered my baseline. The monster had thrown him out. Delores had discarded my brother in the freezing rain at four in the morning like he was garbage. My chest was tight, my breathing shallow, and every single nerve ending in my body was screaming at me to move.
 
@@ -1793,13 +1791,13 @@ We stood on the concrete, our eyes locked down the street, waiting for the heavy
 
 I clenched my fists inside my coat pockets. The thought of Michael—my massive, protective Bear—being so terrified of a woman that he couldn't even acknowledge a friend made my blood boil.
 
-The massive, articulated TAPS Route 574 pulled into the station. We didn't wait for the line to clear; we pushed our way on board, swiping our transit passes and taking the first available seats near the front.
+The 574 pulled into the station. We didn't wait for the line to clear; we pushed our way on board, flashing our transit passes at the operator and taking the first available seats near the front.
 
 The bus lurched forward, merging onto Interstate 5.
 
 For my brain, the transit schedule was usually a source of deep comfort. But today, the math was agonizing. The heavy diesel engine roared, but it felt like we were crawling in slow motion. Every single car that passed us on the highway felt like a taunt. I gripped the plastic handle of the seat in front of me, my leg bouncing rapidly in a frantic, uncontrollable stim.
 
-The bus rolled through the Tacoma Dome station. More people got on. We merged back onto the highway. The 574 made stops in Fife, steadily inching closer and closer to the airport.
+The bus rolled through the Tacoma Dome station. More people got on. We merged back onto the highway. The 574 made stops at Kent-Des Monies and Star Lake, steadily inching closer and closer to the airport.
 
 I was going to lose it. The pressure in my chest was expanding, pressing against my ribs. I squeezed my eyes shut, a panicked, jagged hum vibrating in my throat. I couldn't be trapped on this bus anymore. I needed to be with my brother.
 
@@ -1838,8 +1836,6 @@ My brother’s massive frame began to shake violently. He collapsed forward, res
 "I've got you, Bear," I whispered fiercely, my own tears spilling hot against his neck, completely ignoring Kristin and Jessica standing just a few feet away. "I'm right here. You're safe now."
 
 ### Part 8: The Physical Evidence – 5:30 PM (PST)
-
-(Back to Michael’s POV)
 
 I was profoundly, overwhelmingly grateful that both of my sisters didn’t mind one bit that I just needed to completely fall apart in the entryway. After the heavy, suffocating trauma of the last forty-eight hours, letting the dam break while Rachel held me together was the only way my processor could reboot.
 
@@ -1931,7 +1927,7 @@ When Kristin returned to the bedroom, dressed in a set of comfortable flannel pa
 
 We walked down the short hallway together, practically joined at the hip. We stepped into the small bathroom, and Rachel reached behind us, clicking the door shut.
 
-Normally, two adult siblings sharing a bathroom at the exact same time would be an awkward breach of privacy. But normal didn't exist anymore. Kent had burned normal to the ground. My sister was in a state of absolute psychological emergency, and her need to physically ensure my existence superseded everything else.
+Normally, two adult opposite gender siblings sharing a bathroom at the exact same time would be an awkward breach of privacy. But normal didn't exist anymore. Kent had burned normal to the ground. My sister was in a state of absolute psychological emergency, and her need to physically ensure my existence superseded everything else.
 
 "I'm not waiting in the hall," Rachel stated, her voice trembling slightly as she dropped the duffel bag onto the linoleum. "I am not letting you out of my sight. Not even for a minute."
 
@@ -2562,9 +2558,9 @@ I wrote about the digital versions of Bug and Bear. I bypassed the trauma of Ken
 
 I typed out a sprawling narrative of Michael and Rachel stepping onto the padded blue mats of a massive Taekwondo dojang. I described the sharp, crisp snap of their heavy white doboks as they executed flawless, synchronized poomsae. In the story, they weren't victims; they were warriors. They were standing before the judging panel, completely united, earning their 1st Dan black belts.
 
-And waiting at the edge of the mat, his eyes filled with fierce, unyielding pride, was Sunhoe Sabominm.
+And waiting at the edge of the mat, her eyes filled with fierce, unyielding pride, was Sunhoe Sabominm.
 
-Writing the name of our old Master Instructor brought a sudden, stinging warmth to my eyes. Delores had forced me to abandon my training, stripping away the discipline and the mentor who had helped shape my early teenage years. But in the HTML code, nobody could take him away. He was right there, handing Rachel her heavy black belt, acknowledging the absolute, unbreakable spirit of the Bug and the Bear.
+Writing the name of our old Master Instructor brought a sudden, stinging warmth to my eyes. Delores had forced me to abandon my training, stripping away the discipline and the mentor who had helped shape my early teenage years. But in the HTML code, nobody could take him away. She was right there, handing Rachel her heavy black belt, acknowledging the absolute, unbreakable spirit of the Bug and the Bear.
 
 Rachel read the glowing text on the screen as it appeared, letter by letter. She didn't say a word, but she tightened her arms around my waist, pressing a quiet, profound kiss to my cheek as the train carried us further and further away from the dark.
 

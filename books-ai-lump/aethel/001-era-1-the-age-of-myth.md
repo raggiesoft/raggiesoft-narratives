@@ -1,6 +1,6 @@
 ---
 title: "Era 1: The Age of Myth"
-series: "aethel"
+series: "The Silver Gauntlet of Aethel"
 ---
 
 # Era 1: The Age of Myth

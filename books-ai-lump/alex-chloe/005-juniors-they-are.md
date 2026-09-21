@@ -1,6 +1,6 @@
 ---
 title: "Juniors, They Are"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Juniors, They Are

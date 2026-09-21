@@ -1,6 +1,6 @@
 ---
 title: "The False Anchor"
-series: "paige"
+series: ""
 ---
 
 # The False Anchor

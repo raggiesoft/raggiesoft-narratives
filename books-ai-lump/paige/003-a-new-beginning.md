@@ -1,6 +1,6 @@
 ---
 title: "A New Beginning"
-series: "paige"
+series: ""
 ---
 
 # A New Beginning

@@ -1,6 +1,6 @@
 ---
 title: "Bob Healing"
-series: "bob-emily"
+series: ""
 ---
 
 # Bob Healing

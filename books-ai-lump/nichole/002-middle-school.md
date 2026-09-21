@@ -1,6 +1,6 @@
 ---
 title: "Middle School"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Middle School

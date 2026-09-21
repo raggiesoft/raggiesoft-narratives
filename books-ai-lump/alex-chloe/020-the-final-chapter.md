@@ -1,6 +1,6 @@
 ---
 title: "The Final Chapter"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # The Final Chapter

@@ -1,6 +1,6 @@
 ---
 title: "The Bidding War as seen on DevNet"
-series: "kelly"
+series: "The Quantum Directive: Kelly's Cut"
 ---
 
 # The Bidding War as seen on DevNet

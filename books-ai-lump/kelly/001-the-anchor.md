@@ -1,6 +1,6 @@
 ---
 title: "The Anchor"
-series: "kelly"
+series: "The Quantum Directive: Kelly's Cut"
 ---
 
 # The Anchor

@@ -1,6 +1,6 @@
 ---
 title: "Young Adults, New Worlds"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Young Adults, New Worlds

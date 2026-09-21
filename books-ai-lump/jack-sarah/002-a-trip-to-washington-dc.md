@@ -1,6 +1,6 @@
 ---
 title: "A Trip to Washington DC"
-series: "jack-sarah"
+series: ""
 ---
 
 # A Trip to Washington DC

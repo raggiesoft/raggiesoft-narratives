@@ -1,6 +1,6 @@
 ---
 title: "Braxton Junior Year"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Braxton Junior Year

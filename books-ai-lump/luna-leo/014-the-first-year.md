@@ -1,6 +1,6 @@
 ---
 title: "The First Year"
-series: "luna-leo"
+series: ""
 ---
 
 # The First Year

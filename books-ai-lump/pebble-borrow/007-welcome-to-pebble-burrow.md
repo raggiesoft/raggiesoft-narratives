@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Pebble Burrow"
-series: "pebble-borrow"
+series: ""
 ---
 
 # Welcome to Pebble Burrow

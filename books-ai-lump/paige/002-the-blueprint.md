@@ -1,6 +1,6 @@
 ---
 title: "The Blueprint"
-series: "paige"
+series: ""
 ---
 
 # The Blueprint

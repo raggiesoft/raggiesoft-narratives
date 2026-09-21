@@ -1,6 +1,6 @@
 ---
 title: "Fresh Meat"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Fresh Meat

@@ -1,6 +1,6 @@
 ---
 title: "Delores"
-series: "luna-leo"
+series: ""
 ---
 
 # Delores

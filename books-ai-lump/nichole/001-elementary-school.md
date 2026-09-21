@@ -1,6 +1,6 @@
 ---
 title: "Elementary School"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Elementary School

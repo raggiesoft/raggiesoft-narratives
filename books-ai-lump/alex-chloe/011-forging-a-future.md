@@ -1,6 +1,6 @@
 ---
 title: "Forging a Future"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Forging a Future

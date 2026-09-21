@@ -1,6 +1,6 @@
 ---
 title: "System Integration"
-series: "paige"
+series: ""
 ---
 
 # System Integration

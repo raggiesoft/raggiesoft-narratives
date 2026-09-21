@@ -1,6 +1,6 @@
 ---
 title: "Bennett Dynamics"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Bennett Dynamics

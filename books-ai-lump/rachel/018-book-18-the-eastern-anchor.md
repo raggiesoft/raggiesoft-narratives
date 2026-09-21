@@ -325,7 +325,7 @@ Rachel and I turned back toward the checkout lanes, our hands naturally finding 
 
 Mom’s eyes widened in genuine surprise. "April? How is she?"
 
-"She's great," Rachel answered, a huge, uncontainable smile spreading across her face. "She still runs her own academy. We're going to start training again. We're going to get our Midnight Blue belts."
+"She's great," Rachel answered, a huge, uncontainable smile spreading across her face. "She still runs her own academy. We're going to start training again. We're going to get our Black belts."
 
 Mom let out a soft, emotional gasp, covering her mouth with her hand. She knew exactly what that meant to us. It was the ultimate closure to a decade-old wound. "I am so incredibly happy for you both," she whispered.
 
@@ -609,7 +609,7 @@ Sitting on top of the pile were several heavy, blue vinyl kicking shields.
 
 I stopped. Rachel stopped right beside me, her eyes tracing the scuffed blue fabric. Instantly, the memory of our living room on Delaney Street flooded my mind—the two of us, ten and eight years old, taking turns bracing that exact type of pad against our stomachs while the other practiced their kicks.
 
-A heavy, suffocating ache bloomed in my chest. The phantom memory of Master Curtis's heel grinding into my soft tissue flared, a visceral reminder of our permanent, biological limits. My torn abdominal fascia had healed over with rigid scar tissue, and Rachel’s spleen remained irreversibly fragile. The concussive shockwave of holding one of those heavy blue pads, or the rotational torque required to strike it at full power, would cause a catastrophic, lethal rupture. We were permanently banned from impact.
+A heavy, suffocating ache bloomed in my chest. The phantom memory of Curtis's heel grinding into my soft tissue flared, a visceral reminder of our permanent, biological limits. My torn abdominal fascia had healed over with rigid scar tissue, and Rachel’s spleen remained irreversibly fragile. The concussive shockwave of holding one of those heavy blue pads, or the rotational torque required to strike it at full power, would cause a catastrophic, lethal rupture. We were permanently banned from impact.
 
 Rachel reached out, her fingers lightly brushing the vinyl, a deep sadness washing over her face. We had survived, but a piece of the art we loved had been permanently amputated.
 

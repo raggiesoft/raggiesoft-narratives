@@ -1,6 +1,6 @@
 ---
 title: "Canada Winter Games"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Canada Winter Games

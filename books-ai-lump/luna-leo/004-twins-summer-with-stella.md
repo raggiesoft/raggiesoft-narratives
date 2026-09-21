@@ -1,6 +1,6 @@
 ---
 title: "Twins Summer with Stella"
-series: "luna-leo"
+series: ""
 ---
 
 # Twins Summer with Stella

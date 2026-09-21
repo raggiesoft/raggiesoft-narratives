@@ -1,6 +1,6 @@
 ---
 title: "Amanda Interviews Care Nurses"
-series: "pebble-borrow"
+series: ""
 ---
 
 # Amanda Interviews Care Nurses

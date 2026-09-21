@@ -1,6 +1,6 @@
 ---
 title: "Braxton Senior Year"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Braxton Senior Year

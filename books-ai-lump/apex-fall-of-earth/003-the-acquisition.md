@@ -1,6 +1,6 @@
 ---
 title: "The Acquisition"
-series: "apex-fall-of-earth"
+series: ""
 ---
 
 # The Acquisition

@@ -1,6 +1,6 @@
 ---
 title: "The Long Quiet *(Working Title)*"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # The Long Quiet *(Working Title)*

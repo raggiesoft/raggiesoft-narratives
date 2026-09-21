@@ -1,6 +1,6 @@
 ---
 title: "Early Years"
-series: "luna-leo"
+series: ""
 ---
 
 # Early Years

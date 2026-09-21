@@ -1,6 +1,6 @@
 ---
 title: "College Tours"
-series: "nichole"
+series: "Nichole"
 ---
 
 # College Tours

@@ -1,6 +1,6 @@
 ---
 title: "Era 4: The Iron Heart"
-series: "aethel"
+series: "The Silver Gauntlet of Aethel"
 ---
 
 # Era 4: The Iron Heart

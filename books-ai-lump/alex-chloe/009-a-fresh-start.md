@@ -1,6 +1,6 @@
 ---
 title: "A Fresh Start"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # A Fresh Start

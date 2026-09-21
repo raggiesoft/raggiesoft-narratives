@@ -1,6 +1,6 @@
 ---
 title: "The Gap Year"
-series: "nichole"
+series: "Nichole"
 ---
 
 # The Gap Year

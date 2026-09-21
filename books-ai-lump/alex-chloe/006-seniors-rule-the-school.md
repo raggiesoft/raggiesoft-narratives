@@ -1,6 +1,6 @@
 ---
 title: "Seniors Rule the School"
-series: "alex-chloe"
+series: "Alex & Chloé"
 ---
 
 # Seniors Rule the School

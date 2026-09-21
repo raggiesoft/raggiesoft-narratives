@@ -1,6 +1,6 @@
 ---
 title: "Freshman Year"
-series: "nichole"
+series: "Nichole"
 ---
 
 # Freshman Year

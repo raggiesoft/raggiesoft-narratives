@@ -1,6 +1,6 @@
 ---
 title: "Note to the AI"
-series: "aubrie"
+series: ""
 ---
 
 # Note to the AI

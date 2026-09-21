@@ -1,6 +1,6 @@
 ---
 title: "Sophomore Year"
-series: "luna-leo"
+series: ""
 ---
 
 # Sophomore Year

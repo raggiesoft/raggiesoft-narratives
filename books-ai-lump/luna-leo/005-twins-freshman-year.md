@@ -1,6 +1,6 @@
 ---
 title: "Twins Freshman Year"
-series: "luna-leo"
+series: ""
 ---
 
 # Twins Freshman Year
