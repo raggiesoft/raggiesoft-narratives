@@ -118,12 +118,13 @@ foreach ($narrativeDirs as $narrativeDir) {
     // The Common Block
     $routeData['common'] = [
         "site" => "raggiesoft-books",
-        "theme" => "",
+        "theme" => "raggiesoft-books",
         "siteName" => "Ocean View Archives",
         "isSequential" => true,
+        "showSidebar" => true,
+        "sidebar" => "raggiesoft-books/sidebar-book",
         "headerMenu" => "raggiesoft-books/header-books",
         "footer" => "raggiesoft-books/footer-books",
-        "showSidebar" => false,
         "navbarBrandLogo" => "/raggiesoft-books/images/logos/oceanview-archives.svg",
         "navbarBrandText" => '<span class="ova-serif fw-bold" style="color: #E3B27C;">Ocean View Archives</span>',
         "navbarBrandLink" => "/raggiesoft-books"
@@ -134,7 +135,7 @@ foreach ($narrativeDirs as $narrativeDir) {
     $routeData[$overviewUrl] = [
         "view" => "pages/raggiesoft-books/books/series",
         "title" => "{$seriesTitle}",
-        "theme" => ""
+        "theme" => "raggiesoft-books"
     ];
 
     // Build individual Part Routes
@@ -154,7 +155,7 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $routeData[$routeUrl] = [
                     "view" => "pages/raggiesoft-books/books/viewer",
                     "title" => $cleanTitle,
-                    "theme" => ""
+                    "theme" => "raggiesoft-books"
                 ];
                 $lastRouteUrl = $routeUrl;
             }
