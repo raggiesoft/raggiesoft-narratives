@@ -1,7 +1,9 @@
 # Crimson Node Lore: The Senior Prom (May 1999)
 
 ## Context & The No Contact Order (Post-Columbine)
-Following the Omni-Q incident on Friday, April 30, 1999, Courtney Evans receives a school suspension and a strict Administrative No Contact Order is put in place between her and Matt Miller. Because the administration views the incident through the lens of Courtney crossing a severe boundary with a vulnerable, non-verbal student in a manual wheelchair, she is treated as a pariah.
+Following the initial Omni-Q incident on the evening of Friday, April 30, 1999, Courtney's mother is furious and grounds her for the weekend, as her family genuinely adored Matt. However, the situation escalates on Monday, May 3rd. Influenced by misguided friends, Courtney attempts to "apologize" to Matt by offering to let him have sex with her in a closet by the school stage. 
+
+This severe boundary violation with a vulnerable, non-verbal student in a manual wheelchair triggers an immediate administrative response. Courtney is pulled into Principal Bernard's office, sent to the In-School Suspension (ISS) trailer to await her mother, and given a 3-day Out of School Suspension (serving Tuesday through Thursday, returning Friday, May 7). A strict Administrative No Contact Order is put in place between her and Matt Miller. Courtney is officially treated as a pariah.
 
 Crucially, this takes place in May 1999—just weeks after the Columbine tragedy. The school district is in an unprecedented state of panic regarding campus safety and zero-tolerance policies. The administrative goal is solely to get all seniors across the graduation stage without incident or legal liability.
 
