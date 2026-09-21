@@ -1,16 +1,18 @@
 # Crimson Node Lore: The Senior Prom (May 1999)
 
-## Context & The No Contact Order
+## Context & The No Contact Order (Post-Columbine)
 Following the Omni-Q incident on Friday, April 30, 1999, Courtney Evans receives a school suspension and a strict Administrative No Contact Order is put in place between her and Matt Miller. Because the administration views the incident through the lens of Courtney crossing a severe boundary with a vulnerable, non-verbal student in a manual wheelchair, she is treated as a pariah.
+
+Crucially, this takes place in May 1999—just weeks after the Columbine tragedy. The school district is in an unprecedented state of panic regarding campus safety and zero-tolerance policies. The administrative goal is solely to get all seniors across the graduation stage without incident or legal liability.
 
 However, prior to the incident, Courtney had aggressively campaigned for her and Matt to be elected Prom King and Queen. The votes were already locked in.
 
 ## Matt's Perspective & The Meeting with Bernard
-Matt does not harbor the trauma or anger that the administration expects. He is innocent in his understanding of the situation. His sister, Sarah, attempted to explain to him what a "hookup" is, but it remains a confusing, abstract concept to him. He doesn't view Courtney as a villain; he just sees a disagreement that got out of hand.
+Matt does not harbor the trauma or anger that the administration expects. He is innocent in his understanding of the situation. His sister, Sarah, attempted to explain to him what a "hookup" is, but it remains a confusing, abstract concept to him. He doesn't view Courtney as a villain; he just sees a disagreement that got out of hand. Now that he's had time to think about it, he simply misses his friend.
 
 A few days before Prom, Matt (accompanied by Arthur Vance, his one-on-one aide who must be at his side at all times) wheels himself into Principal Bernard's office. Using his communication method, he asks for the No Contact Order to be lifted. He conveys a simple, earnest message: *"I miss my friend. Second chance."*
 
-Bernard is deeply moved by Matt's capacity for forgiveness. However, for legal and administrative liability, Bernard explains that his hands are tied—the order must remain in place through the end of the year.
+Bernard is deeply moved by Matt's capacity for forgiveness. However, for legal and administrative liability, Bernard explains that his hands are tied—the district has instituted strict zero-tolerance mandates in the wake of Columbine. The order must remain in place through the end of the year to shield the school from negligence claims, and only the superintendent (or a Joint Liability Release from both sets of parents) can override it.
 
 ## Courtney's Guilt
 Courtney returns from suspension crushed by guilt. She realizes how superficial and selfish her physical demands were, and how she threw away the most genuine connection she ever had. She hasn't sought out another boyfriend. Her family—especially her mother and her brothers, Ryan and Jason—genuinely adored Matt, compounding her regret.
