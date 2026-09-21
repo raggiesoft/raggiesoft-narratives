@@ -118,7 +118,7 @@ foreach ($narrativeDirs as $narrativeDir) {
     // The Common Block
     $routeData['common'] = [
         "site" => "raggiesoft-books",
-        "theme" => "",
+        "theme" => "raggiesoft-books",
         "siteName" => $seriesTitle,
         "isSequential" => true,
         "showSidebar" => true,
@@ -132,7 +132,7 @@ foreach ($narrativeDirs as $narrativeDir) {
     $routeData[$overviewUrl] = [
         "view" => "pages/raggiesoft-books/books/series",
         "title" => "{$seriesTitle}",
-        "theme" => ""
+        "theme" => "raggiesoft-books"
     ];
 
     // Build individual Part Routes
@@ -152,7 +152,7 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $routeData[$routeUrl] = [
                     "view" => "pages/raggiesoft-books/books/viewer",
                     "title" => $cleanTitle,
-                    "theme" => ""
+                    "theme" => "raggiesoft-books"
                 ];
                 $lastRouteUrl = $routeUrl;
             }
