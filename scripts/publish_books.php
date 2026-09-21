@@ -93,7 +93,7 @@ foreach ($narrativeDirs as $narrativeDir) {
     }
 
     $seriesTitle = !empty($katie['series_title']) ? $katie['series_title'] : $narrativeName;
-    $seriesSlug = slugify($seriesTitle);
+    $seriesSlug = !empty($katie['series_slug']) ? $katie['series_slug'] : $narrativeName;
     $books = $katie['books'] ?? $katie;
 
     // --- STEP A: DESTRUCTIVE ASSET SYNC ---
