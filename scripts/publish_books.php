@@ -119,12 +119,14 @@ foreach ($narrativeDirs as $narrativeDir) {
     $routeData['common'] = [
         "site" => "raggiesoft-books",
         "theme" => "raggiesoft-books",
-        "siteName" => $seriesTitle,
+        "siteName" => "Ocean View Archives",
         "isSequential" => true,
-        "showSidebar" => true,
-        "sidebar" => "raggiesoft-books/sidebar-book",
         "headerMenu" => "raggiesoft-books/header-books",
-        "footer" => "raggiesoft-books/footer-books"
+        "footer" => "raggiesoft-books/footer-books",
+        "showSidebar" => false,
+        "navbarBrandLogo" => "/raggiesoft-books/images/logos/oceanview-archives.svg",
+        "navbarBrandText" => '<span class="ova-serif fw-bold" style="color: #E3B27C;">Ocean View Archives</span>',
+        "navbarBrandLink" => "/raggiesoft-books"
     ];
 
     // The Series Overview Route
