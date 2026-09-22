@@ -523,7 +523,7 @@ What Delores *did* understand, however, was the permanence of the embroidery and
 
 For the first time since we had arrived in Washington, genuine fear flashed across Delores's face.
 
-![Delores reacts in terror to Jessica's embroidered Senior Technical Program Manager title](https://assets.raggiesoft.com/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg#fullwidth)
+![Delores reacts in terror to Jessica's embroidered Senior Technical Program Manager title]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg#fullwidth)
 
 She was suddenly acutely aware that she wasn't just dealing with a disabled older sister she could bully by forcing her up a steep flight of stairs. She was dealing with a high-level executive at a billion-dollar tech empire. The realization that Jessica possessed a level of financial and societal power that vastly eclipsed her own completely terrified Delores. She shrank back slightly into the sofa cushions, entirely silenced by a blue polo shirt.
 
@@ -1107,7 +1107,9 @@ Through the darkness, the headlights of a heavy TAPS commuter bus cut through th
 
 It was 5:05 AM. The heater on the bus was running, but I was still shaking. All I knew was my older sister’s cell phone number. I knew she lived somewhere in the Seattle area—specifically Renton—but I wasn’t sure exactly where her apartment was.
 
-I felt incredibly uncomfortable calling her at such a strange hour, but as the bus rattled down the dark street, the panic threatened to swallow me whole. I felt like I had no choice. I pulled out my silver flip phone and dialed her number.
+I felt incredibly uncomfortable calling her at such a strange hour, but as the bus rattled down the dark street, the panic threatened to swallow me whole. I felt like I had no choice. I pulled out my thick plastic Kallio 330 brick phone and dialed her number.
+
+![Michael frantically calling Jessica from a crowded Gillig Phantom bus in the early morning darkness]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg#fullwidth)
 
 I held the phone to my ear, listening to the dialing tone. *Please, Jess. Please pick up,* I thought to myself, desperately trying to hold back the hot tears stinging my eyes.
 
