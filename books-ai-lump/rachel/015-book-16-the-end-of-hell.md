@@ -1079,7 +1079,7 @@ I carefully uncurled my fingers, letting my hands rest flat against the mattress
 
 I stared at the red numbers on the clock, silently counting the seconds. I just had to hold the line for a few more hours. Tomorrow, I was getting my life back.
 
-\[Note to the AI: fade to black; RCW 9A.44.050 happens here; Chapter 3 picks up at 4 AM with the aftermath\] 
+\[Note to the AI: fade to black; RCW 9A.44.050 happens here; Chapter 3 picks up at 4 AM with the aftermath. ABSOLUTE DIRECTIVE: Do not generate images for this scene or the immediate trauma. Safety filters will and should block it.\] 
 
 ## Chapter 3: Morning Hell (Friday, November 17, 2006)
 
@@ -1201,9 +1201,11 @@ There was a decent-sized line of commuters trying, as I was, to exit the bus. Th
 
 The driver looked down at the wheelchair waiting on the curb. "My bus?" he asked over the intercom.
 
-"No thanks," Jess answered, her voice projecting clearly through the rain. I stumbled off the bottom step, completely ignoring the other commuters, and practically threw myself onto my knees on the wet pavement, wrapping my arms fiercely around her waist.
+"No thanks," Jess answered, her voice projecting clearly through the rain. I stumbled off the bottom step, completely ignoring the other commuters. My exhausted legs gave out, but before I could hit the wet pavement, Jessica was there. She had already swung her lap tray safely out to the side, reaching out and catching me mid-stumble, wrapping her arms fiercely around my waist.
 
-"Just picking up my brother," Jessica finished, resting her chin on the top of my head and holding me tight.
+"Just picking up my brother," Jessica finished, resting her chin on my shoulder and holding me tight as I leaned against her.
+
+![POV: Looking out from the stairs of the TAPS transit bus into the dark, rainy morning, Michael sees his sister Jessica waiting for him with hot food on the Renton Transit Center platform]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-renton-transfer.jpg#fullwidth)
 
 She didn't ask questions. She wheeled backward, guiding us over to the loading area for the local Route 105. She picked up the cup and the pastry from her tray and offered them to me.
 
