@@ -59,7 +59,7 @@ function rcopy($src, $dst) {
 
 // Helper function: Create URL Slugs
 function slugify($string) {
-    $slug = strtolower(trim(preg_replace('/[^A-Za-z0-9-]+/', '-', $string), '-'));
+    $slug = mb_strtolower(trim(preg_replace('/[^A-Za-z0-9-]+/u', '-', $string), '-'));
     return preg_replace('/-+/', '-', $slug);
 }
 
@@ -142,8 +142,8 @@ foreach ($narrativeDirs as $narrativeDir) {
     foreach ($books as $book) {
         foreach ($book['chapters'] as $chapter) {
             foreach ($chapter['parts'] as $part) {
-                $bookSlug = slugify($book['book_title'] ?? 'book');
-                $chapSlug = slugify($chapter['chap_title'] ?? 'chapter');
+                $bookSlug = slugify(strip_tags($book['book_title'] ?? 'book'));
+                $chapSlug = slugify(strip_tags($chapter['chap_title'] ?? 'chapter'));
                 $partSlug = slugify(strip_tags($part['part_title'] ?? 'part'));
                 
                 $routeUrl = "/raggiesoft-books/books/{$seriesSlug}/{$bookSlug}/{$chapSlug}/{$partSlug}";
