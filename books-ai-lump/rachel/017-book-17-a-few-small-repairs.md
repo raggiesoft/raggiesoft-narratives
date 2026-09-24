@@ -645,7 +645,6 @@ I looked out the window. Just the idea that my older sister was looking at real 
 
 It wasn't a long ride into Redmond. The bus pulled into the sprawling, impeccably manicured grounds of the Quantum corporate campus, dropping us off at the transit shelter right outside Jessica's office building.
 
-Jessica was already standing under the awning, wearing her corporate badge lanyard and a sharp blazer, waiting for us.
 Jessica was already waiting for us under the awning, sitting in her custom wheelchair, wearing her corporate badge lanyard over a casual, well-worn long-sleeve t-shirt and jeans.
 
 "Let’s open the new account first," Jessica said, her eyes flashing with pride as she noted the sheer relief radiating from my posture. "Then I will take you two to lunch."
@@ -654,7 +653,6 @@ Jessica was already waiting for us under the awning, sitting in her custom wheel
 
 Jessica didn't have to navigate a maze of city streets to find a bank. The Quantum campus was practically its own sovereign city, fully equipped to handle every logistical need of its tens of thousands of employees.
 
-She led us through the automatic glass doors of the adjacent building. The lobby was warm, modern, and buzzing with tech professionals. Nestled right in the center of the atrium was the Quantum Employees Federal Credit Union (QEFCU).
 She led us through the automatic glass doors of the adjacent building. The lobby was warm, modern, and buzzing with tech professionals. We bypassed the main tellers and were escorted into one of the sleek, private glass-walled offices of the Quantum Employees Federal Credit Union (QEFCU) reserved for senior personnel.
 
 "Jessica, how can we help you today?" a sharply dressed credit union employee asked from his desk as we approached.
@@ -673,7 +671,6 @@ Nigel was immediately ready for us. I took the heavy, padded chair across from h
 
 I froze. I had just instructed First Continental to mail away the entire remaining balance of the joint account. I didn't have five dollars to my name. I only had transit quarters.
 
-Before my processor could trigger a panic spiral, Jessica casually reached into her blazer pocket. She pulled out a crisp five-dollar bill and slid it across the mahogany desk.
 Before my processor could trigger a panic spiral, Jessica casually reached into the pocket of her jeans. She pulled out a crisp five-dollar bill and slid it across the mahogany desk.
 
 "I will sponsor his initial share," Jessica told Nigel effortlessly, completely absorbing the friction.
