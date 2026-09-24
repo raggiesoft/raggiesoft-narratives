@@ -541,6 +541,8 @@ With the outer perimeter secured by the two wrestlers, I immediately dropped to 
 
 I didn't try to pull her to her feet or ask her what was wrong. I just wrapped my arms around her and pulled her into a very, very tight bear hug. I locked my arms and squeezed, applying deep, heavy, crushing pressure to her torso and shoulders. It was the only thing that ever grounded her when she got like this—a physical anchor to keep her from floating away into the panic.
 
+![Sensory Meltdown Regulation]({{CDN}}/raggiesoft-books/images/scenes/sensory_meltdown_regulation.jpg)
+
 Jessica wheeled her chair in close, speaking in a low, rhythmic, familiar cadence about the train ride tomorrow, giving Rachel a steady voice to focus on. Kristin stood tall right behind us, shielding Rachel's back from the rest of the arena.
 
 I held her tightly against me, letting her squeeze the foam finger between us, until I felt her rapid breathing finally start to slow down. The frantic shaking in her hand gradually eased. After a couple of minutes, she wiped her eyes, looked up from the foam finger, and offered a massive, exhausted, but radiantly happy smile.
@@ -738,6 +740,8 @@ Suddenly, a heavy, distorted guitar riff shredded through the arena PA system, d
 The Rose City Center didn't just cheer. The building completely came unglued. The pop was so incredibly massive, so viscerally loud, that I actually felt the steel barricade rattle against my knees.
 
 Stepping out onto the entrance stage was Jaxson "The Outlaw" Vance.
+
+![Jaxson Vance]({{CDN}}/raggiesoft-books/images/characters/jaxson_vance/jaxson_vance.jpg)
 
 He didn't wear a shiny corporate suit or a flashy, sequined robe. He was wearing taped wrists, worn denim jeans, and a faded leather vest. He was the gritty, blue-collar soul of the AWE, and more importantly for tonight, he was born and raised just ten minutes down Highway 26 in Beaverton. This was his house.
 
@@ -1000,6 +1004,9 @@ Diego turned to the bewildered merchandise cashier, peeling a thick stack of bil
 Suddenly, the massive screen above the stage split perfectly in half.
 
 On the right side of the TitanTron, the pre-taped footage showed Diego happily tossing out free merchandise to our ecstatic group. But on the left side, a live camera fed in from the backstage area.
+
+![Sly Diego Chavez]({{CDN}}/raggiesoft-books/images/characters/diego_chavez/diego_chavez.jpg)
+![The Tycoon Preston Sinclair]({{CDN}}/raggiesoft-books/images/characters/preston_sinclair/preston_sinclair.jpg)
 
 Preston Sinclair was standing in front of a backstage monitor, watching the broadcast in real-time. His face was turning an apocalyptic, veins-popping shade of purple.
 
@@ -1431,6 +1438,8 @@ He raised the mic. His hands were visibly shaking.
 
 "You are out of control, Thorne!" Sterling yelled, his voice cracking violently as it echoed through the arena. "You have one chance to fix this! If you cost Team Sterling the match this Sunday... YOU ARE SUSPENDED INDEFINITELY!"
 
+![Marcus Sterling Ultimatum]({{CDN}}/raggiesoft-books/images/scenes/marcus_sterling_ultimatum.jpg)
+
 Thorne's eyes widened at the threat. He took a slow, menacing step toward the ramp as the crowd roared at the massive ultimatum.
 
 Sterling dropped the microphone, turned, and sprinted through the curtain, fleeing his own champion.
@@ -1452,6 +1461,8 @@ Just like that, the illusion evaporated. The war zone was gone, replaced by the 
 Down in the front row, our adrenaline was crashing hard. We had survived the gauntlet, but we couldn't leave just yet. AWE ringside seats aren't just tickets; they are heavy, padded souvenir folding chairs. But for safety reasons during the broadcast, they were heavily clipped and zip-tied together to prevent them from becoming projectiles. We waited patiently as the ringside technicians, armed with heavy wire cutters, moved down the row, unhooking our section.
 
 Once the chairs were finally free, I knelt down in front of Jessica. She wrapped her arms securely around my neck, and I hoisted her up into a piggy-back carry. The second her weight settled onto my shoulders, a sharp, white-hot spike of pain shot directly up my lower spine. My back was already completely wrecked from carrying her down the concrete at the start of the show, and the tight, unyielding spasticity in my legs was screaming in protest.
+
+![Piggy-back Carry]({{CDN}}/raggiesoft-books/images/scenes/michael_jessica_piggyback.jpg)
 
 I gritted my teeth, carefully walking her out of the tight seating row and lowering her gently into her own custom wheelchair parked nearby.
 
