@@ -142,11 +142,11 @@ foreach ($narrativeDirs as $narrativeDir) {
     foreach ($books as $book) {
         foreach ($book['chapters'] as $chapter) {
             foreach ($chapter['parts'] as $part) {
-                // Strip the .md extension for a clean URL
-                // e.g., b001/c001/p001.md -> b001/c001/p001
-                $cleanPath = preg_replace('/\.md$/i', '', $part['file_path']);
+                $bookSlug = slugify($book['book_title'] ?? 'book');
+                $chapSlug = slugify($chapter['chap_title'] ?? 'chapter');
+                $partSlug = slugify(strip_tags($part['part_title'] ?? 'part'));
                 
-                $routeUrl = "/raggiesoft-books/books/{$seriesSlug}/{$cleanPath}";
+                $routeUrl = "/raggiesoft-books/books/{$seriesSlug}/{$bookSlug}/{$chapSlug}/{$partSlug}";
                 $cleanTitle = strip_tags($part['part_title']);
                 if ($firstRouteUrl === null) {
                     $firstRouteUrl = $routeUrl;
@@ -155,7 +155,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $routeData[$routeUrl] = [
                     "view" => "pages/raggiesoft-books/books/viewer",
                     "title" => $cleanTitle,
-                    "theme" => "raggiesoft-books"
+                    "theme" => "raggiesoft-books",
+                    "filePath" => $part['file_path']
                 ];
                 $lastRouteUrl = $routeUrl;
             }
