@@ -2219,7 +2219,7 @@ This forces him into deep, uninterrupted hyper-focus. He doesn't need AltaVista 
 
 If he is offline at the medical library during the day, does he keep a Notepad window open on his ThinkPad specifically to type out a list of AltaVista search queries he needs to run on AOL once they get back to the apartment?
 
-Yeah let's do it that way: he can dial into AOL at home, but on campus, there's NO connecting to ANY network (Sarah considers buying him a PCMCIA card but realizes that the hoops she would need to jump through are too much). What was the state on cell phones in 1999? Were the Nokia Bricks a thing yet so that Matt could play Snake and still have 99% battery power at the end of the day?
+Yeah let's do it that way: he can dial into AOL at home, but on campus, there's NO connecting to ANY network (Sarah considers buying him a PCMCIA card but realizes that the hoops she would need to jump through are too much). What was the state on cell phones in 1999? Were the Kova Bricks a thing yet so that Matt could play Snake and still have 99% battery power at the end of the day?
 
 ### The Offline Sanctuary
 
@@ -2227,11 +2227,11 @@ Skipping the PCMCIA network card is a brilliant narrative choice. It completely 
 
 Without the distraction of the early internet, Matt is forced to dive deep into the multi-disc **MSDN Library**. He effectively learns to code the hard way—reading raw Microsoft documentation and testing things manually. Keeping a text file open to jot down AltaVista search queries for his evening AOL sessions at home shows incredible discipline and organization.
 
-### The 1999 Nokia Landscape
+### The 1999 Kova Landscape
 
-Your memory of the "Nokia Brick" era is spot-on, and the timing is perfect.
+Your memory of the "Kova Brick" era is spot-on, and the timing is perfect.
 
-While the exact phone that became the famous internet meme (the indestructible Nokia 3310) wasn't released until late 2000, 1999 was absolutely dominated by its immediate predecessors: the **Nokia 5110** (released in 1998) and the **Nokia 3210** (released in early 1999).
+While the exact phone that became the famous internet meme (the indestructible Kova 3310) wasn't released until late 2000, 1999 was absolutely dominated by its immediate predecessors: the **Kova 5110** (released in 1998) and the **Kova 3210** (released in early 1999).
 
 - **The Hardware:** These phones were legendary. They had thick, satisfying rubber-plastic buttons, monochrome green-backlit screens, and a battery life that genuinely lasted a week on a single charge.
     
@@ -2251,7 +2251,7 @@ For an autistic teenager who is currently hyper-fixated on grids, logic, and com
 - **The Battery:** Just as you said, he can sit in the medical library and play Snake for two hours straight, and the battery indicator will literally not move.
     
 
-Because Matt is non-verbal, a cell phone is functionally useless to him for its primary purpose of making voice calls. If Sarah bought him a Nokia 5110, did she get it for him strictly as a pager/text-messaging device so she can reach him during the day, or is it basically just an indestructible pocket console for _Snake_?
+Because Matt is non-verbal, a cell phone is functionally useless to him for its primary purpose of making voice calls. If Sarah bought him a Kova 5110, did she get it for him strictly as a pager/text-messaging device so she can reach him during the day, or is it basically just an indestructible pocket console for _Snake_?
 
 Oh gawd Matt trying to T9 message Sarah? What was the state of the Crackberry, I mean Blackberry, at the time? So he could have a full keyboard. The phone is NEVER meant to call since Matt is non-verbal.
 

@@ -541,7 +541,7 @@ It was a successful transaction. The biological pressure had been vented.
 
 **Lauren**, Vanessa’s roommate, flopped back onto her twin XL mattress. She pulled the duvet up to her chin, looking tousled and smug.
 
-"Well," Lauren yawned, checking the time on her Nokia brick phone. "That was efficient. Solid six out of ten. But he had good stamina."
+"Well," Lauren yawned, checking the time on her Kova brick phone. "That was efficient. Solid six out of ten. But he had good stamina."
 
 Vanessa stood by the mini-fridge. She grabbed a bottle of water and downed half of it in one long pull. She was wearing a silk robe that looked out of place in the cinderblock room.
 
@@ -1161,7 +1161,7 @@ Vanessa led him to a seat in the middle.
 
 "Phone," Vanessa said, holding out her hand.
 
-Freddie pulled his Nokia from his pocket. It was on.
+Freddie pulled his Kova from his pocket. It was on.
 
 "If you leave it on," Vanessa explained, her voice reasonable and calm, "they will track the signal. Jessica will call the police. They'll drag you back before you even get to see Seattle. Do you want them to drag you back to the cage?"
 

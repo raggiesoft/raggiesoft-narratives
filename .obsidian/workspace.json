@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "lore/rescue-game/proposal/Scenario 1 - Up the Eastern Shore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Scenario 1 - Up the Eastern Shore"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pathfinder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,44 +271,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e890d18cc4e4511",
+  "active": "93b7c306d8a7009a",
   "lastOpenFiles": [
+    "books/rachel/b015/c002/p006.md",
+    "books/rachel/b015/c007/p008.md",
+    "books/rachel/b015/c007/p007.md",
+    "books/rachel/b015/c007/p006.md",
+    "books/rachel/b015/c007/p005.md",
+    "books/rachel/b015/c007/p004.md",
+    "books/rachel/b015/c007/p002.md",
+    "books/rachel/b015/c007/p003.md",
+    "books/rachel/b015/c007/p001.md",
+    "books/rachel/b015/c007",
+    "books/rachel/b015/c006/p008.md",
+    "books/rachel/b015/c006/p005.md",
+    "books/rachel/b015/c006/p007.md",
+    "books/rachel/b015/c006/p006.md",
+    "books/rachel/b015/c006/p003.md",
+    "books/rachel/b015/c006/p004.md",
+    "books/rachel/b015/c006/p002.md",
+    "books/rachel/b015/c006/p001.md",
+    "books/rachel/b015/c006",
+    "universal-lore/pathfinder-norfolk-to-seattle-route.md",
+    "lore/rescue-game/Rescue Game Proposal.md",
+    "books/paige/b004/c005/p007.md",
+    "books/paige/b004/c003/p005.md",
+    "books/alex-chloe/b008/c005/p003.md",
+    "books-ai-lump/paige/004-the-false-anchor.md",
+    "lore/ruby-mountain/ruby-mountain-lore.md",
+    "Untitled 2.md",
     "books-ai-lump/meredith/001-book-4-the-vanguard.md",
     "books-ai-lump/meredith",
-    "books-ai-lump/casey/003-book-3-the-sovereign-ascension.md",
-    "books-ai-lump/casey/004-book-4-the-sovereign-autonomy.md",
-    "books-ai-lump/casey/001-book-1-the-sovereign-perimeter.md",
-    "books-ai-lump/casey/002-book-2-the-sovereign-empire.md",
     "books-ai-lump/casey",
-    "lore/rachel/rachel-lore.md",
     "books/meredith/katie.json",
-    "books/meredith/b001/c002/p002.md",
-    "books/meredith/b001/c002/p003.md",
-    "books/meredith/b001/c002/p001.md",
     "books/meredith/b001/c002",
-    "books/meredith/b001/c001/p015.md",
-    "books/meredith/b001/c001/p014.md",
-    "books/meredith/b001/c001/p011.md",
-    "books/meredith/b001/c001/p013.md",
-    "books/meredith/b001/c001/p012.md",
-    "books/meredith/b001/c001/p003.md",
-    "books/meredith/b001/c001/p005.md",
-    "books/meredith/b001/c001/p006.md",
-    "books/meredith/b001/c001/p010.md",
-    "books/meredith/b001/c001/p009.md",
-    "books/meredith/b001/c001/p008.md",
-    "books/meredith/b001/c001/p007.md",
-    "books/meredith/b001/c001/p004.md",
-    "books/meredith/b001/c001/p002.md",
-    "books/meredith/b001/c001/p001.md",
     "books/meredith/b001/c001",
     "books/meredith/temp_index.jsonl",
     "books/meredith/b001",
     "books/meredith",
-    "books/casey/temp_index.jsonl",
-    "lore/amaya/amaya-lore.md",
-    "books/casey/b004/c003/p004.md",
-    "books/casey/b004/c003",
     "Untitled.canvas",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Courtney Evans.jpg",
     "lore/amaya/characters/character-images/wall-of-twenty/front-shield/Danielle Morgan.jpg",
