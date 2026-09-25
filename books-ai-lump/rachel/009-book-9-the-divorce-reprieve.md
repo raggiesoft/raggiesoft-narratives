@@ -9,6 +9,8 @@ series: "The Rachel Narrative"
 
 ### Part 1: Vacation from Parents
 
+**Date:** 2001-08-17 at 10:30 ET
+
 The heavy trunk of the sedan slammed shut, the metallic thud echoing over the roar of jet engines at the Norfolk International Airport drop-off curb.
 
 "Now remember, you two," Mom said, pulling the handle of her rolling suitcase up. "No visitors. Except maybe your father, if he wants to stop by."
@@ -52,6 +54,8 @@ My sister pouted slightly, looking up at me. "How much did Mom give us?"
 I could almost see the math forming in her eyes, knowing that whatever number I said, it wasn't going to be enough to buy the absolute, unlimited freedom she was craving.
 
 ### Part 2: Afternoon at the Mall
+
+**Date:** 2001-08-17 at 13:00 ET
 
 The Emerald Creek Mall was a massive, sprawling brick fortress. On a Friday afternoon, it was already vibrating with a low-frequency hum of activity, but I knew the layout well enough to avoid the worst of the friction. Instead of fighting the traffic at the main department store entrances, I navigated the ring road all the way to the back perimeter, deliberately aiming for the hidden glass elevator that bypassed the main concourse and delivered you straight to the second-floor food court.
 
@@ -115,6 +119,8 @@ She tucked the photo strip carefully into her pocket, linked her arm back throug
 
 ### Part 3: Up All Night Party
 
+**Date:** 2001-08-17 at 20:00 ET
+
 By the time we got back to the quiet sanctuary of the Delaney Street house, the sun had set.
 
 Rachel dropped her shopping bags on the kitchen counter and looked at me, her eyes heavy but excited. "Could we sleep together on the sofa? I just want to continue being at your side. Today was wonderful."
@@ -177,6 +183,8 @@ I slid over and put my arm firmly around my kid sister, pulling her securely aga
 
 ### Part 1: The Elephant in the Room
 
+**Date:** 2001-08-18 at 08:30 ET
+
 I woke up to the heavy, rhythmic thumping of a dog’s tail hitting the side of the sofa bed.
 
 I opened my eyes slowly. The living room was dim, illuminated only by the thin slivers of morning sunlight cutting through the closed plastic blinds. Archie was sitting on the rug right next to my head, staring at me with his one milky blue eye, his tail beating a steady tempo against the upholstery. At the foot of the bed, Baby let out a long, rumbling snore, still completely dead to the world.
@@ -227,6 +235,8 @@ The outside world could have their parties and their complicated social expectat
 
 ### Part 2: The Morning Routine
 
+**Date:** 2001-08-18 at 09:00 ET
+
 As Rachel headed toward the kitchen, I stayed on the edge of the mattress for a moment, my bare feet resting on the cool living room carpet.
 
 Watching her walk away, my brain snagged on the other, darker layer of that invisible societal script we had just talked about. I knew exactly how the outside world operated. High school was a vicious, rumor-obsessed environment, and society at large was no better. The world looked at a teenage boy and a teenage girl—even siblings—left entirely alone in a house, sharing a single bed, and immediately tried to force a messy, complicated, and entirely gross narrative onto the situation. Neurotypical people seemed obsessed with the idea that proximity automatically meant inappropriate tension.
@@ -266,6 +276,8 @@ Rachel took a bite of her cereal, chewing slowly, her shoulder resting firmly ag
 Sitting there in the dim living room, completely insulated from the demands and expectations of the outside world, I realized I was genuinely happy. The divorce was still looming out there somewhere in the future, but right here, in this exact moment, everything was perfect.
 
 ### Part 3: The Cross-Country Bargain
+
+**Date:** 2001-08-18 at 13:00 ET
 
 The absolute peace of our Saturday lasted exactly until one o'clock in the afternoon.
 

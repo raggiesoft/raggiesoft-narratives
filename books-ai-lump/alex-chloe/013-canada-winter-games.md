@@ -35,6 +35,8 @@ Alex looked at Megan, and they exchanged a look of quiet, determined solidarity.
 
 ### Part 2: La Taverne des Voyageurs
 
+**Date:** 2026-07-13
+
 The atmosphere inside "La Taverne des Voyageurs" in downtown Montréal was a living thing—a roaring, pulsating beast of pure hockey fervor. The air was thick with the smell of beer and poutine, and every square inch of space was occupied by a passionate fan draped in the red and white of Canada.
 
 At a large corner booth—one of the best in the house, a reservation Uncle David had managed to snag—Chloé Miller was in her absolute element, screaming encouragement in flawless, rapid-fire Québécois French along with the rest of the bar.
@@ -109,6 +111,8 @@ For now, he just knew, with a certainty that settled deep in his soul, that his 
 
 ### Part 3: The Spoils of Victory
 
+**Date:** 2026-07-13
+
 The jubilant, singing crowd spilled out of "La Taverne des Voyageurs" and onto the streets of Montréal, which had erupted into a city-wide celebration. Amidst the sea of red and white, Alex Miller and Megan Carter were a conspicuous, newly-converted pair, their Canadian jerseys feeling heavy on their shoulders. Chloé, her arm linked happily through Alex's, was still buzzing with adrenaline.
 
 "You know, my loves," she said, leaning in with a teasing grin as they approached the family's van, "*le pari n'était pas juste pour le chandail.*" (The bet wasn't just for the jersey.)
@@ -181,6 +185,8 @@ Alex, flanked by his two favorite women in the whole wide world, a warm, safe, a
 
 ### Part 4: The Uniform of Defeat
 
+**Date:** 2026-07-13
+
 The morning after the Golden Goal, Alex Miller and Megan Carter woke in their Stanstead hotel room to the sight of two bright red piles of fleece and polyester lying on two chairs. Their sentences.
 
 With deep, theatrical sighs of condemned prisoners, they began the process of dressing. The slightly-too-large Canadian jerseys were first, followed by the ridiculously bright red fleece pants. They pulled on the maple leaf socks. The final piece for both was the red and white headwear.
@@ -217,6 +223,8 @@ LUCKY US, Alex's device deadpanned.
 
 ### Part 5: Opening a Cross-Border Life
 
+**Date:** 2026-07-13
+
 On the morning of their departure, after packing their bags, Chloé had one last practical matter to attend to. An hour later, the four of them—Alex, Chloé, Megan, and Uncle David—went into a downtown Stanstead branch of a large national bank. Alex and Megan, still in their full Canadian "uniforms of shame" sans toques, maneuvered inside.
 
 "*Bonjour,*" Chloé said to the representative, her Québécois French flawless. "*Mon mari, notre cousine, et moi, nous aimerions ouvrir un compte conjoint, s'il vous plaît.*" (Hello. My husband, his cousin, and I would like to open a joint account, please.)
@@ -248,6 +256,8 @@ Megan, who had been watching the entire process with a quiet, focused intensity,
 They left the bank, their mission accomplished. They were now an official, cross-border financial unit, armed with new information about their responsibilities, a major step in their adult lives that had been humorously conducted while two-thirds of their household were dressed as triumphant Canadian hockey fans.
 
 ### Part 6: The Preclearance Predicament
+
+**Date:** 2026-07-13
 
 After a final, tease-filled goodbye with the Leclercs, the three of them drove their rental van to Montréal-Trudeau International Airport (YUL) to begin their journey home. They returned the van and checked their luggage for their direct Gateway Airlines flight to Seattle.
 

@@ -9,6 +9,8 @@ series: ""
 
 ### Part 1: The Drive
 
+**Date:** 2014-08-20 at 10:00
+
 The journey began on a Wednesday in late August. The seven-hour drive from the flat, humid landscape of Hampton Roads to the rolling hills of the New River Valley was a tense affair. Aubrey sat silently in the passenger seat, watching the world change outside his window. Without corrective lenses, the passing scenery was a permanent, impressionistic blur of green and gray, forcing him to squint until a dull, familiar ache began to throb behind his eyes.
 
 Beside him, his mother, Aubrie Sinclair, filled the car with a steady stream of anxious instructions. Due to his untreated hearing impairment, her voice was often a muffled, droning cadence, though her sharp, reprimanding tone always managed to cut through the static.
@@ -33,6 +35,8 @@ When his mother pushed open the door to their room, Aubrey squinted through the 
 
 ### Part 2: The Shared Bed
 
+**Date:** 2014-08-20 at 21:00
+
 Aubrey lay stiffly on the very edge of his side of the bed that night. Without the aid of corrective lenses, the unfamiliar hotel room was a featureless, terrifying void, and the low, muffled hum of the air conditioner barely registered through his hearing impairment. What he could sense, with agonizing clarity, was his mother's breathing—a familiar, oppressive presence just inches away. He stared into the darkness, his body rigid with tension, counting the hours until Friday. Friday meant he would finally have his own bed in his own room.
 
 “Aubrey dear, come comfort your mother,” Aubrie murmured in the dark.
@@ -46,6 +50,8 @@ He hated it, a quiet, desperate revulsion that burned in his chest, but he put u
 ## Verification
 
 ### Part 1: The Poly Pass
+
+**Date:** 2014-08-21 at 11:00
 
 Thursday was spent on the bustling campus of Commonwealth Polytechnic Institute. The sheer volume of students moving around the wide brick walkways was overwhelming, their voices a muffled, chaotic drone against Aubrey's ears. Their first stop was the University Card Center to get his official student ID, known on campus as the Poly Pass.
 
@@ -66,6 +72,8 @@ It was a tiny, startling moment of pure, uncomplicated acceptance. Aubrey felt a
 A minute later, the card printer whirred to life, and the worker handed the fresh plastic card across the counter. Aubrey took it in his hands. He brought the card up inches from his nose, squinting hard at the glossy surface just to force the blurry shapes into focus. After a few seconds of intense concentration, the letters finally resolved. It was a plastic card with the name AUBREY JORDAN FULLER printed starkly beneath his nervous face.
 
 ### Part 2: Educational Accessibility
+
+**Date:** 2014-08-21 at 14:00
 
 Their next and final stop was the Office of Educational Accessibility, to verify that all his accommodations—both academic and residential—were in place.
 
@@ -113,6 +121,8 @@ With all the administrative tasks verified, they returned to the hotel for one f
 
 ### Part 1: Room 214
 
+**Date:** 2014-08-22 at 09:00
+
 After his mother, Aubrie, left with a final wave and a promise to call that evening, Aubrey Jordan Fuller found himself truly alone for the first time in his new dorm room. With his untreated hearing impairment, the quiet of the empty room was a muffled, heavy silence, but it was a welcome change from the earlier chaos of moving in. He took a long, steadying breath and began to take a proper inventory of the small space—his space.
 
 The room was tiny, clearly designed for two people but now cramped to fit three due to the university's housing crisis. He flipped the main switch, and a large fluorescent light recessed into the drop ceiling flickered on, bathing the painted cinderblock walls in a harsh, sterile glow. He immediately squinted; without corrective lenses, the abrupt, glaring light caused the sharp corners of the room to blur, sending a familiar, dull ache throbbing behind his eyes.
@@ -134,6 +144,8 @@ Both bed setups currently held nothing but bare, clinical mattresses, waiting fo
 He counted the rest of the furniture. Two desks, two dressers, and two nightstands. This confirmed the room's original two-person design. His future roommates, the ones assigned to the bunk beds where the push button was hidden, would have to share a desk and a dresser. This was it. College.
 
 ### Part 2: The Awkward Outlet
+
+**Date:** 2014-08-22 at 13:00
 
 He decided to set up his most important tool first: his laptop. He wheeled himself over to his desk, placed the heavy machine on it, and opened the lid. The battery icon blinked red, and a moment later, the screen went completely black. Dead.
 
@@ -177,6 +189,8 @@ Aubrey nodded, a wave of both relief and nervousness washing over him. One night
 
 ### Part 3: Stranded
 
+**Date:** 2014-08-22 at 14:00
+
 Isabel gave him a final wave and left. Aubrey looked around his room, which now felt much more functional and comfortable. He easily plugged his heavy laptop into the power strip on his desk and watched the dim screen spring to life.
 
 His original plan for the afternoon had been to venture outside, explore the sprawling campus, and learn exactly where his classes and the dining halls were located. However, as he wheeled toward the window and squinted through the glass, the clouds that had been gathering all morning finally opened up. A steady, pouring rain began to wash over the campus, thwarting his plans and trapping him inside.
@@ -197,6 +211,8 @@ Living on my own, he thought with a bitter pang of clarity. She had said it with
 
 ### Part 4: Bedtime
 
+**Date:** 2014-08-22 at 22:00
+
 As evening fell, the rain continued its soothing rhythm against the window. Aubrey felt a wave of exhaustion from the emotional and physical toll of the day. It was time for bed. He wheeled himself over to his dresser where Isabel had so neatly placed his clothes and pulled out a soft t-shirt and a pair of pajama pants. He looked at them, then down at the jeans and layered shirts he was still wearing.
 
 A familiar knot of anxiety tightened in his stomach. At home, his mother had always changed him; her assistance was a routine part of his day that she completely controlled. Here, alone, the simple act of changing clothes felt like an insurmountable mountain. He simply didn't know how to get himself changed. With a heavy sigh of resignation, he put the pajamas back in the drawer.
@@ -211,6 +227,8 @@ Tears welled in his eyes, blurring his already poor vision, and slipped silently
 
 ### Part 1: Morning Noise
 
+**Date:** 2014-08-23 at 08:00
+
 Aubrey woke up stiff and sore, the restrictive denim of his jeans clinging uncomfortably to his legs. He’d tossed and turned all night, his sleep shallow and plagued by a recurring sense of falling. Without corrective lenses, the ceiling above him was just a fuzzy, gray expanse, contributing to the dull ache already throbbing behind his eyes and the deep soreness in his back. He felt a profound exhaustion that had nothing to do with the physical effort of moving in. He was an adult on his own, just as his mother had said with that bright, brittle smile, and he was already failing.
 
 The fragile morning quiet was shattered by the official start of freshman move-in day. Because of his untreated hearing impairment, the cacophony of shouting, laughing, and the rolling of heavy carts in the hallway outside his door wasn't crisp; it was a wall of muffled, booming pressure. The noise was a persistent, grating hum that vibrated straight through the floorboards and up into his bones, putting his entire nervous system on edge.
@@ -222,6 +240,8 @@ He managed to transfer back into his wheelchair and tried to focus on arranging 
 Defeated, he transferred from his wheelchair back to his bed. Still fully clothed in yesterday's layers, he pulled the blanket up over his head, desperate for just a few minutes of quiet. The steady, grating hum of vibrations from the hallway eventually lulled him back into a fitful, uneasy sleep.
 
 ### Part 2: An Unlikely Welcome
+
+**Date:** 2014-08-23 at 10:30
 
 Around mid-morning, his door swung open. A young woman with her arms full of bags stopped short, seeing the room clearly already occupied, and a boy fast asleep in the single bed.
 
@@ -266,6 +286,8 @@ Madison nodded, pulling up a desk chair and sitting a few feet away, offering a 
 Before Aubrie could explain, two more girls, Hannah Parker and Lauren Barnes, appeared behind Zoë, their expressions ranging from curious to concerned. Zoë took one look at the door card for Room 214 and the exhausted boy in the wheelchair, and her face set with determination. "Okay, something's definitely wrong here. I'm going to get the RA".
 
 ### Part 3: The Hall Director
+
+**Date:** 2014-08-23 at 11:45
 
 Zoë, ever the pragmatist, slipped past the gathered girls and stepped into the chaotic hallway. It took her only a minute to locate a harried-looking young man with an "RA" lanyard directing a family with a rolling bin.
 
@@ -341,6 +363,8 @@ For the first time, a fragile, terrifying hope sparked in his chest. Maybe he wa
 
 ### Part 4: Making It Official
 
+**Date:** 2014-08-23 at 12:00
+
 It was Madison who brought up making the name change official right away. A few minutes later, Jordan, Aubrie, and Madison were sitting in the Resident Advisor's office down the hall. As Jordan wheeled up next to Aubrie, he nervously reached out and took her hand under the table. She responded instantly, holding his hand firmly in her lap—their first quiet, public declaration of their budding connection.
 
 Feeling braver with Aubrie's hand in his, Jordan used his free hand to flip open the lid of his heavy, battered laptop resting securely on his lap. The old machine, running Quantum OS 7 Home Basic, whirred loudly. He hunched close to the dim display, squinting hard as his fingers clumsily navigated the keyboard to type into his *SimpleSpeak* software. He hit the execute key.
@@ -383,6 +407,8 @@ In the hallway, a few freshmen and their parents, who had paused their unpacking
 
 ### Part 5: Logistics of a Co-Ed Suite
 
+**Date:** 2014-08-23 at 15:30
+
 The practicalities of their arrangement soon came to the forefront. It was Lauren who brought it up. "Okay, so... logistics," she said, gesturing between the two rooms and the single connecting toilet. "Six people, one toilet, and no privacy. Jordan, you were expecting guy roommates, and we were expecting another girl. How do we make this not... super awkward?"
 
 There was a beat of silence before Madison shrugged, a pragmatic look on her face. "Look, we're all adults. We have one toilet. The doors connect. There's no room to be shy. I say we just agree that what happens in the suite, stays in the suite. No need to hide, no need to turn away. There's literally no room for privacy, so let's not pretend there is."
@@ -418,6 +444,8 @@ The bystanders watched as Aubrie confidently took the handles of Jordan's wheelc
 In the bustling cafeteria, they found a large table and sat together, sharing stories about their hometowns and their anxieties about starting college. For the first time, Jordan didn't feel like an outsider; he felt like a friend.
 
 ### Part 6: The First Choice
+
+**Date:** 2014-08-23 at 16:15
 
 The university dining hall was a cavernous, bustling space filled with the chaotic energy of thousands of new freshmen. The noise and the smell of the food stations could easily be overwhelming, but for Jordan, anchored by the five women walking with him, it felt like an adventure.
 
@@ -475,6 +503,8 @@ His immediate, unquestioning acceptance was a breath of fresh air. The seven of 
 
 ### Part 7: The First Assist
 
+**Date:** 2014-08-23 at 17:30
+
 By the time dinner finished, the emotional and physical toll of the long, chaotic day had caught up with Jordan. His shoulders slumped, and he quietly admitted through his text-to-speech software that he was exhausted and just wanted to head back to the quiet of the dorm.
 
 The group moved as a unit back to Bennett Hall. As they reached the second floor, Mark paused outside the suite doors. With polite respect for their shared space, he looked at Jordan, Aubrie, and Madison.
@@ -527,6 +557,8 @@ Hannah just smiled warmly, watching Aubrie fret over the blanket. The entire roo
 
 ### Part 8: The Spare Hardware
 
+**Date:** 2014-08-23 at 17:45
+
 As the laughter from Aubrie's embarrassed flush began to settle, Zoë turned her analytical gaze toward Jordan's dead, bulky machine.
 
 "The data indicates your current hardware is entirely insufficient for continuous use," Zoë observed, her crisp British consonants cutting through the room's chatter. "A dead battery poses a critical communication failure. Fortunately, I have a logical solution. My family resides just down the road in Christiansburg. I have a spare, fully functional laptop at home."
@@ -573,6 +605,8 @@ Jordan stared at the man, his mind struggling to process the interaction. There 
 
 ### Part 9: The New Voice
 
+**Date:** 2014-08-23 at 18:15
+
 Zoë set the sleek Pinnacle Vanguard Pro down on Jordan's desk, right next to his old, battered machine.
 
 "Right, let's get you properly set up," Zoë said, her fingers flying across the keyboard as she opened a dark terminal window. "I am creating a dedicated user account for you. And I'm adding you to the sudoers file, granting you full sudo rights. You have root access. It is completely your machine now."
@@ -613,6 +647,8 @@ The entire room—Aubrie, Zoë, Lauren, Hannah, Mark, Madison, and Daniel—happ
 
 ### Part 10: The Antidote
 
+**Date:** 2014-08-23 at 18:30
+
 With the new laptop safely resting on Jordan's lap, Daniel checked his watch and gave a warm smile. "Right, I should be heading back," he said.
 
 "I'll escort you down to the lobby, Dad," Zoë offered, stepping toward the heavy wooden door. She looked back at Jordan. "I will return shortly to assist you with the rest of the operating system navigation, as you requested."
@@ -650,6 +686,8 @@ Aubrie and Madison exchanged a quiet, meaningful look over Jordan's head. They b
 As they sat with him, keeping the atmosphere light and comfortable, the two women quietly admitted something to themselves. They actually liked having Jordan in their room. It wasn't just because Aubrie was already developing a massive, undeniable crush on him. It was because, stripped of the panic and the fear, he was genuinely easy to get along with. He was a calming, gentle presence, and they were more than happy to share their space with him.
 
 ### Part 11: The Trust Fall
+
+**Date:** 2014-08-23 at 20:00
 
 It was 8:00 PM, and the steady drum of rain against the window made the small cinderblock room feel like a quiet, isolated cocoon. Jordan shifted uncomfortably in his wheelchair, a sudden, urgent pressure making him wince. He hurriedly pulled the Pinnacle Vanguard Pro onto his lap, his fingers finding the keys.
 
@@ -723,6 +761,8 @@ For the first time in his entire life, Jordan lay in the dark, surrounded by the
 
 ### Part 1: The Awakening
 
+**Date:** 2014-08-24 at 02:00
+
 Room 214 was vast, cold, and unnervingly quiet. The friendly clutter of his new life was gone. He saw his five suitemates—Aubrie, Madison, Zoë, Lauren, and Hannah—standing in the far corners of the room, their backs to him, their shoulders hunched together as they whispered.
 
 He tried to call out to them, to make any kind of sound, but his throat was locked, his voice yielding nothing but silence. He wheeled himself forward, but the floor felt like thick mud, each push of his wheels an exhausting, agonizing effort. As he got closer, their whispers grew, and he could finally make out their words.
@@ -773,6 +813,8 @@ Slowly, the last vestiges of the nightmare's terror receded, replaced by the ste
 
 ### Part 2: No Privacy
 
+**Date:** 2014-08-24 at 08:00
+
 Jordan’s first sensation upon waking on this Sunday morning was warmth. It was a deep, soothing heat that seemed to emanate from behind him, blanketing his entire body. For a moment, he was disoriented. He wasn’t stiff, he wasn’t alone, and the recurring nightmare of falling was absent, replaced by a profound sense of being anchored. He slowly became aware of an arm wrapped firmly but gently around his waist, and the soft, steady rhythm of breathing against his neck. The memories of the night flooded back—the nightmare, the whimpering, and then… Aubrie.
 
 He didn’t dare move. The hug she had given him yesterday during his meltdown… that was the first time anyone had ever hugged him. Ever. His mother’s touch was always devoid of affection. That hug had been a revelation, a powerful surge of security he’d never known. This, waking up wrapped in her arms, was an extension of that miracle.
@@ -818,6 +860,8 @@ Finally, Zoë, who had been observing with a small smile, stepped up. "My turn, 
 Five hugs. Five different girls. Each one a gift. As Madison took the handles of his chair to head for breakfast, Jordan felt an incredible lightness. He was surrounded by a fortress of friendship. In Room 214, a gentle, unspoken romantic tension was beginning to simmer between three roommates. And from Room 216, a wave of solid, unwavering platonic support. He was learning, for the first time, what it felt like to be wanted.
 
 ### Part 3: Worlds Aligned
+
+**Date:** 2014-08-24 at 09:30
 
 The university cafeteria doors opened promptly at 9:30 AM for Sunday breakfast. The space was a low hum of activity as the freshmen filed in. As the six of them found a large table by a window, the easy chatter of the group resumed. Jordan settled his wheelchair into the open space at the table. He was still waiting for the punchline, still half-expecting someone to laugh and tell him to leave, but as he watched them pull out chairs and comfortably make space for him, he was slowly starting to understand that maybe, just maybe, this suite family was not a cruel joke.
 
@@ -879,6 +923,8 @@ In that look, a universe of unspoken things was communicated. It was a silent ac
 
 ### Part 4: The Campus Topography
 
+**Date:** 2014-08-24 at 11:00
+
 After breakfast, the group decided to explore the campus together to locate their classroom buildings before Monday morning. As they left the dining hall and ventured further into the university grounds, the physical reality of the Commonwealth Polytechnic Institute began to assert itself. Blacksburg was situated in the mountains, and the campus pathways were carved into the rolling landscape, making it notoriously hilly.
 
 Aubrie naturally fell into place behind Jordan's wheelchair, her hands gripping the handles. The path toward the main academic quad started with a gentle slope, but it quickly steepened into a long, grueling incline.
@@ -902,6 +948,8 @@ Hannah gripped the handles. With her sturdy, capable build, she leaned into the 
 Jordan looked from Hannah's easy, effortless smile to Lauren's reassuring, gentle gaze. He didn't need his text-to-speech software to communicate his profound relief. The crushing weight of feeling like a physical burden lifted. He was learning the difficult topography of his new home, but more importantly, he was discovering that this new family had the strength to carry him over the steepest mountains without him ever having to ask.
 
 ### Part 5: A Different Kind of Constellation
+
+**Date:** 2014-08-24 at 13:00
 
 While Jordan remained in the quiet sanctuary of Room 214, carefully organizing his heavy astrophysics textbooks on his desk, the five women congregated next door in Room 216. The connecting bathroom doors were shut, giving them a rare moment of privacy.
 
@@ -942,6 +990,8 @@ Hannah, sitting beside Zoë, nodded in firm agreement. As the oldest of the grou
 A silent, powerful agreement bloomed in the cinderblock room. The traditional rules of dating and jealousy had been completely discarded, replaced by a unique, unbreakable pact of mutual respect and radical generosity. They were not rivals. They were a constellation, and their collective purpose was to illuminate his world and ensure he never had to brave the dark alone again.
 
 ### Part 6: The Safe Harbor\'s Perimeter
+
+**Date:** 2014-08-24 at 16:30
 
 By late afternoon, the golden hour light was beginning to filter through the single window of Room 214. Jordan had just finished neatly aligning his textbooks on his desk when a rhythmic knock sounded on the heavy wooden door.
 
@@ -1011,6 +1061,8 @@ As Aubrie took the handles of the wheelchair and pushed Jordan out into the hall
 
 ### Part 7: Newman Hall
 
+**Date:** 2014-08-24 at 17:15
+
 The walk to Newman Hall was infinitely easier with Mark leading the way. True to his word, he navigated the group along a winding, paved path that bypassed the steepest ridges of the campus, making the trip smooth and entirely manageable for Hannah and Lauren as they took turns pushing Jordan’s wheelchair.
 
 Newman Hall was the massive, sprawling student center at the heart of campus, serving as a hub for dining, student organizations, and a constant, chaotic flow of freshmen. The cafeteria inside was brightly lit and echoing with the sound of a thousand overlapping conversations.
@@ -1040,6 +1092,8 @@ Tom didn't miss a single beat. He let out a soft, dismissive chuckle, his eyes l
 "Her? Nobody, really," Tom said, his tone perfectly casual. He brushed a stray strand of hair behind Lauren's ear. "Just a former classmate from my hometown".
 
 ### Part 8: The Interception
+
+**Date:** 2014-08-24 at 17:25
 
 "Come on," Lauren said, grabbing Tom's hand. "You have to come meet my suitemates".
 
@@ -1088,6 +1142,8 @@ Mark didn't say a word to Lauren, not wanting to ruin her evening. He just set h
 ## First Days
 
 ### Part 1: Morning Divergence
+
+**Date:** 2014-08-25 at 07:30
 
 The sharp, mechanical buzz of a digital alarm clock shattered the quiet of Room 214.
 
@@ -1185,6 +1241,8 @@ Jordan felt a slow, genuine smile spread across his face. For the first time in 
 
 ### Part 2: Into the Stars
 
+**Date:** 2014-08-25 at 08:50
+
 Outside the glass doors of Newman Hall, the sprawling campus was alive with a nervous, electric energy. Thousands of freshmen were crisscrossing the paved walkways, hunting for their first lecture halls. The suite family naturally began to splinter toward their respective academic buildings.
 
 "Alright, duty calls," Madison sighed, adjusting the strap of her heavy backpack. She stepped forward and wrapped her arms around Jordan’s shoulders in a warm, lingering hug. "Have a great morning, J. See you this afternoon."
@@ -1275,6 +1333,8 @@ He had a schedule. He had a system. He knew he would see her on Mondays. Wednesd
 
 ### Part 3: The Ascent
 
+**Date:** 2014-08-25 at 10:15
+
 "It's a date," Aubrie had said brightly in the crowded hallway of the Science Complex. Then her eyes had gone wide as she realized the weight of her own words. "I mean... not a... you know. A literal date. Just... a lunch... with a time. I'll just see you then!"
 
 Flustered and blushing furiously, she had spun around to hurry off toward the math building. But after taking only two steps, she stopped. She turned back, marched right up to his wheelchair, leaned down, and quickly pressed her lips against his cheek.
@@ -1336,6 +1396,8 @@ But as he navigated toward the classroom door, a quiet, defiant thought blossome
 *Maybe,* he thought to himself, *I'll just get used to the hills.*
 
 ### Part 4: Western Civilization
+
+**Date:** 2014-08-25 at 10:30
 
 The classroom in Carter Hall was much smaller and older than the massive science amphitheater, smelling faintly of lemon polish and old paper. Jordan wheeled himself into a spot at the end of the front row just as the professor—a tall, older man with a neatly trimmed beard—walked in and set his leather briefcase on the desk.
 
@@ -1404,6 +1466,8 @@ As Jordan rolled out of Carter Hall and back into the bright Virginia sunshine, 
 And most importantly, it was almost noon. It was time to go meet Aubrie.
 
 ### Part 5: The Broken Elevator
+
+**Date:** 2014-08-25 at 12:00
 
 As Dr. Gable formally dismissed the class, Sarah slung her backpack over her shoulder and looked down at Jordan.
 
@@ -1485,6 +1549,8 @@ Jordan blinked, his breath hitching in his chest. It was only the second kiss of
 
 ### Part 6: The Taste of Freedom
 
+**Date:** 2014-08-25 at 12:15
+
 Aubrie stepped behind his wheelchair and pushed him toward the long, winding serving lines. The noise and smell of the food were overwhelming, a chaotic mix of sizzling grease, baking bread, and a hundred overlapping conversations.
 
 "Hey," Aubrie said, noticing him looking nervously at the stack of plastic trays. "It's a massive pain to try and balance a tray on your lap while rolling. Let me just grab yours for you. What do you want?"
@@ -1550,6 +1616,8 @@ Aubrie checked the clock on the dining hall wall. It was 12:45 PM.
 "Eat up, genius," she said gently, packing up her empty salad container. "You've got a one o'clock appointment with Ms. Higgins at Educational Accessibility. It's time to make sure every single professor treats you like Dr. Gable did."
 
 ### Part 7: The True Assessment
+
+**Date:** 2014-08-25 at 12:55
 
 Aubrie pushed Jordan’s wheelchair across the sunlit quad toward Miller Hall, the administrative heart of the campus. The building housed the Office of Educational Accessibility, and as they rolled through the heavy glass doors into the air-conditioned lobby, the reality of the clock finally caught up to them.
 
@@ -1673,6 +1741,8 @@ He grabbed the hand rims of his wheelchair and pushed out into the afternoon hea
 
 ### Part 8: Afternoon Anchors
 
+**Date:** 2014-08-25 at 14:00
+
 The afternoon sun was beating down on the brick walkways of CPI, but the steep inclines didn't seem nearly as daunting to Jordan anymore. Equipped with his new MagnaByte mPad, his FM receiver, and the stack of note-taker forms safely tucked into his backpack, he felt armed for the first time in his academic life.
 
 His 2:00 PM class was Introduction to Psychology, located in one of the newer, sprawling social science buildings near the center of campus. The building was fully accessible, meaning Jordan easily navigated the automatic doors and took the wide elevator up to the third floor.
@@ -1734,6 +1804,8 @@ He was sitting in a college classroom. He could see the notes. He could hear the
 His mother's weapon had been completely dismantled. The world wasn't a terrifying, isolating prison anymore. It was a wide-open universe, and his Constellation was shining brighter than he had ever thought possible.
 
 ### Part 9: Evening Data
+
+**Date:** 2014-08-25 at 20:00
 
 The first official day of classes had been a whirlwind. By eight o'clock that evening, the suite had gathered in Room 216 to decompress.
 
@@ -1820,6 +1892,8 @@ Lauren sat down on the edge of the bottom bunk, her shoulder pressing against Au
 Lauren looked back down at her dark phone resting on the desk. The contrast between the cold, toxic delusion of her boyfriend and the absolute, wholesome safety of Room 216 was jarring.
 
 ### Part 10: The Open Doors
+
+**Date:** 2014-08-25 at 21:15
 
 By quarter past nine, the comfortable exhaustion of the first day of classes had finally settled over the cramped room. It was time to break up the gathering so everyone could actually get some sleep.
 
@@ -1963,6 +2037,8 @@ Aubrie reached under the desk, gently placing her hand over his where it rested 
 
 ### Part 1: The Mega-Meetup
 
+**Date:** 2014-08-26 at 09:45
+
 The massive, stadium-style lecture hall in the College of Health Sciences was already buzzing with the low, chaotic energy of three hundred freshmen. The room was steeply tiered, built to accommodate massive general education requirements, with a wide, flat accessible row running straight across the middle tier.
 
 Aubrie pushed Jordan’s Vanguard Pro through the double doors, followed closely by Madison, Zoë, Lauren, Hannah, and Mark. They claimed a massive block of seating right in the center of the accessible row. Jordan parked his wheelchair at the end of the long desk, plugging his headphones into the FM receiver and setting up his new MagnaByte mPad next to his laptop.
@@ -2032,6 +2108,8 @@ He didn't know what any of these words meant. He didn't understand the diagrams.
 He looked down at his own hands, resting on the armrests of his wheelchair, a sudden, overwhelming wave of inadequacy washing over him. He wasn't just behind. He was entirely, fundamentally lost.
 
 ### Part 2: Office Hours
+
+**Date:** 2014-08-26 at 10:50
 
 At ten-fifty, the massive lecture hall erupted into the chaotic sounds of three hundred freshmen packing up their bags. As the crowd funneled up the tiered stairs toward the exits, Jordan’s group stayed exactly where they were.
 
@@ -2104,6 +2182,8 @@ Aubrie looked back down at Jordan, squeezing his shoulder.
 Dr. Evans smiled, completely unaware of the unconventional lengths the girls of Suite 214 were willing to go to for their friend. "You've got a great support system here, Jordan. I'll see you all on Thursday."
 
 ### Part 3: The Mega-Group Lunch
+
+**Date:** 2014-08-26 at 12:15
 
 By the time the massive ten-person entourage made it to Newman Commons, the lunchtime rush was in full swing. It took some serious maneuvering, but Mark and Sarah managed to push three rectangular tables together near the back windows, creating enough space for everyone, including a spot at the head of the table for Jordan’s wheelchair.
 
@@ -2187,6 +2267,8 @@ It was a tight, solid, profoundly grounding group hug. For Jordan, physical touc
 
 ### Part 4: An Unconventional Study Session
 
+**Date:** 2014-08-26 at 20:15
+
 That Tuesday evening, after their first full day of classes, the group was relaxing in the suite. The health class, however, was still heavily on Jordan's mind. He wheeled himself over to where the girls were gathered in Room 214, holding his *Dimensions of Human Sexuality* textbook and syllabus like a mysterious, terrifying map.
 
 He opened his Vanguard Pro laptop, the neon-green text glowing against the sleek interface as he typed a confession that mirrored what he had told Dr. Evans earlier that day.
@@ -2240,6 +2322,8 @@ Aubrie was on her feet in an instant, the protective peace of the study session 
 "What happened?"
 
 ### Part 5: The War Room
+
+**Date:** 2014-08-26 at 20:45
 
 The cramped space of Suite 214/216 was not designed to hold twelve highly emotional college students, but nobody cared about the tight squeeze.
 
@@ -2315,6 +2399,8 @@ She was safe.
 
 ### Part 1: The Canadian Wake-Up
 
+**Date:** 2014-08-27 at 07:00
+
 Jordan woke slowly, the dim morning light filtering through the single window of Room 214. The recurring, terrifying nightmare of falling was completely absent. Instead, he felt a deep, soothing warmth pressed against his side. He blinked, his poor vision struggling to focus, until the soft features and long, reddish-brown hair of the girl sleeping next to him resolved into shapes he recognized.
 
 It was Lauren. She was sleeping peacefully in his accessible single Twin XL bed, a physical manifestation of the promise they had made the night before.
@@ -2344,6 +2430,8 @@ He opened his eyes to see Aubrie walking toward them. Her face wasn't twisted in
 Aubrie caught Lauren's eye, and the two women shared a brilliant, silent smile. The constellation was working perfectly.
 
 ### Part 2: The Australian Voice
+
+**Date:** 2014-08-27 at 07:15
 
 The morning routine kicked into gear. With a gentle, clinical respect that continued to amaze him, Aubrie and Lauren helped Jordan navigate the difficult process of getting out of his pajamas and into his day clothes.
 
@@ -2390,6 +2478,8 @@ Jordan let out a massive, shaky breath of pure relief, a genuine smile finally m
 "She's right," Madison said, grabbing her backpack. "Let's go get some breakfast!"
 
 ### Part 3: Primary Care
+
+**Date:** 2014-08-27 at 15:30
 
 The CPI Student Health Center was a bustling, brightly lit clinic on the edge of the campus quad. Jordan sat in his wheelchair in the crowded waiting room, his sleek Vanguard Pro resting securely on his lap. He was vibrating with a nervous, hopeful energy. In his limited, highly sheltered understanding of how the world worked, he assumed this was a one-stop shop. He fully expected to walk through the clinic doors and roll back out an hour later wearing a pair of glasses and hearing aids.
 

@@ -9,6 +9,8 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Anchor's Rest
 
+**Date:** 2006-11-21 at 07:00 PT
+
 Waking up was not a slow, gradual process. It was a sudden, blinding spike of white-hot agony.
 
 I opened my eyes, staring up at the generic, textured ceiling of the Crown Regency hotel room. I tried to shift my weight on the queen-sized mattress, and my lower back immediately locked up in a violent, paralyzing spasm. The toll of piggy-backing Jessica down the concrete arena steps, completely absorbing the shock of the Cruiserweight barricade crash, and then hauling her back out of the Rose City Center had finally come due.
@@ -79,6 +81,8 @@ Just a few hundred yards away, the platforms of the Rose City Center CTS station
 
 ### Part 2: Crossing the Columbia River
 
+**Date:** 2006-11-21 at 08:30 PT
+
 The damp, biting cold of the Pacific Northwest morning did nothing to slow our momentum. We left the quiet warmth of the Crown Regency, walking the short distance to the Rose City Center CTS station. My lower back was a tight, throbbing knot of exhausted muscle from carrying Jessica the night before, but having Rachel physically tethered to my side, acting as a living crutch, made the pain manageable.
 
 We had a mission to execute, and Jessica had engineered the logistics flawlessly.
@@ -100,6 +104,8 @@ Dad was notorious for using cheap logistical complaints to avoid accountability.
 She had invited his girlfriend, Cathy. She had offered to pay the entire breakfast bill, and she even offered to hand him cash for the gas he used to drive the seven minutes down the road. She had systematically removed every single roadblock he could possibly use to justify abandoning us.
 
 ### Part 3: The Tactical Seating Chart
+
+**Date:** 2006-11-21 at 09:45 PT
 
 The Route 7 dropped us off at the Franklin's Hypermarket transit shelter. We walked across the wet asphalt to The Riverway Diner. The air inside smelled of strong coffee, frying bacon, and maple syrup.
 
@@ -132,6 +138,8 @@ The psychological warfare of the seating chart was brilliant. When Dad arrived, 
 I rested my hands on the laminated tabletop, feeling the steady pressure of Rachel leaning against my side. The trap was set, the perimeter was secured, and all we had to do now was wait for the bell above the diner door to ring.
 
 ### Part 4: The Pathetic Text
+
+**Date:** 2006-11-21 at 09:55 PT
 
 By 9:50 AM, the diner was buzzing with the loud, chaotic morning rush. The clatter of heavy ceramic plates, the hiss of the espresso machine, and the overlapping chatter of a dozen conversations filled the air.
 
@@ -211,6 +219,8 @@ Tom Ragsdale was officially cut out of the system, and breakfast was finally ser
 
 ### Part 5: The Financial Guillotine
 
+**Date:** 2006-11-21 at 10:15 PT
+
 The waitress arrived balancing a massive tray, completely oblivious to the shifting tectonic plates of our family dynamic. She slid a plate of golden Belgian waffles smothered in strawberries in front of Rachel, dropped a steaming lumberjack skillet in front of Kristin, and set my omelet down.
 
 The food smelled incredible, but the atmosphere at the table was sharp, tactical, and entirely focused on the boardroom execution of Tom Ragsdale.
@@ -275,6 +285,8 @@ I took a massive bite of my omelet. Sitting shoulder-to-shoulder with Rachel, pe
 
 ### Part 6: The 360 Area Code
 
+**Date:** 2006-11-21 at 10:45 PT
+
 The heavy, comforting atmosphere of our victory breakfast was settling over the booth when a sharp, sustained buzzing cut through the clatter of the diner.
 
 Jessica’s cell phone was vibrating aggressively against the laminated tabletop.
@@ -318,6 +330,8 @@ Rachel’s finger immediately clamped down on the power button of her device, ki
 "So," Jessica smiled, a fierce, protective light returning to her eyes as the waitress handed her back the receipt. "It is time for the next small repair. Drink your coffee, everyone. We are going shopping."
 
 ### Part 7: The Unified Grid
+
+**Date:** 2006-11-21 at 11:30 PT
 
 We bundled back up against the freezing, damp Pacific Northwest air, leaving The Riverway Diner and crossing the wet asphalt back to the transit shelter.
 
@@ -381,6 +395,8 @@ The bridge was burned. The lines were cut. The repairs were officially underway.
 
 ### Part 8: The Union Station Protocol
 
+**Date:** 2006-11-21 at 12:30 PT
+
 The heavy glass doors of the mall slid shut behind us, cutting off the chaotic, echoing noise of the holiday shoppers. We stepped back out into the freezing, damp Pacific Northwest afternoon, but the atmosphere within our pack felt lighter than it had in years.
 
 Deep in our pockets, our four new cell phones sat perfectly silent. The 425 area codes were a digital fortress. Tom Ragsdale could scream, panic, and dial his phone until his fingers bled, and absolutely none of it would reach us.
@@ -443,6 +459,8 @@ We sat together on the heavy wooden bench of Union Station, surrounded by the qu
 
 ### Part 1: The Transit Grid
 
+**Date:** 2006-11-22 at 00:00 ET
+
 Wednesday morning arrived with a violent, blustery vengeance. The Pacific Northwest skies had opened up, dropping a freezing, sideways rain over Renton that battered against the windows of Jessica’s one-bedroom apartment.
 
 But inside, the perimeter was warm, mobilized, and executing a highly coordinated tactical strike.
@@ -504,6 +522,8 @@ Kristin and I stepped off the bus onto the covered concrete platform of the Bell
 I took a deep breath, my hands resting in my jacket pockets, feeling the heavy roll of spare quarters pressing against my thigh. I was about to walk into a bank and permanently cut off Delores's access to my life. I was terrified, but standing next to Kristin, I knew my perimeter was absolutely secure.
 
 ### Part 2: The Sentinel's Shield
+
+**Date:** 2006-11-22 at 08:15 PT
 
 As the heavy diesel roar of the TAPS 565 faded into the drone of the morning traffic, Kristin and I stood together under the massive, sweeping concrete awnings of the transit island. The morning commuter rush was in full swing. Hundreds of tech workers and students carrying umbrellas hurried across the wet asphalt, funneling onto the dozen different TAPS buses idling in their respective bays.
 
@@ -589,6 +609,8 @@ We left the transit center behind, making the short walk up to Northeast 8th Str
 
 ### Part 3: The Financial Severance
 
+**Date:** 2006-11-22 at 08:55 PT
+
 We left the Bellevue Transit Center behind, walking quickly through the freezing rain up to Northeast 8th Street.
 
 Kristin didn't let go of my arm the entire walk. The adrenaline from the near-miss with Delores was still heavily spiking in my system, making my hands shake. But Kristin’s steady, unbothered presence kept my processor from slipping into a full-blown shutdown. We reached the glass doors of First Continental Bank at exactly five minutes to nine.
@@ -650,6 +672,8 @@ Jessica was already waiting for us under the awning, sitting in her custom wheel
 "Let’s open the new account first," Jessica said, her eyes flashing with pride as she noted the sheer relief radiating from my posture. "Then I will take you two to lunch."
 
 ### Part 4: The Corporate Armor
+
+**Date:** 2006-11-22 at 09:45 PT
 
 Jessica didn't have to navigate a maze of city streets to find a bank. The Quantum campus was practically its own sovereign city, fully equipped to handle every logistical need of its tens of thousands of employees.
 
@@ -809,6 +833,8 @@ I let out a shaky, amazed laugh, my chest feeling lighter than air.
 
 ### Part 5: Café 34 and The Code-Off
 
+**Date:** 2006-11-22 at 10:30 PT
+
 My physical body walked out of the Quantum credit union, but my brain was entirely left behind on Nigel’s desk.
 
 Fifty thousand dollars in a wealth management vault. Six thousand dollars in liquid cash. A brand-new digital perimeter.
@@ -900,6 +926,8 @@ But sitting here, surrounded by my sister's brilliant, welcoming coworkers, watc
 I wasn't broken. I had just been trapped in the wrong universe. And Jessica had finally brought me home.
 
 ### Part 6: The Crossway Matinee
+
+**Date:** 2006-11-22 at 13:15 PT
 
 We left Café 34 feeling completely different than when we had walked in. My chest felt lighter, the crushing weight of the East Coast officially severed by fifty-six thousand dollars and the welcoming cheers of the Quantum testing team.
 
@@ -993,6 +1021,8 @@ I wrapped my arm around Kristin’s waist, let out a long, shuddering exhale, an
 
 ### Part 7: The Digital Void & The Shrine
 
+**Date:** 2006-11-22 at 16:00 PT
+
 We met Jessica in the sprawling, glass-walled lobby of Quantum Building 35 just after four o'clock. She signed us in at the security kiosk, printing two fresh visitor badges before escorting us up to the third floor.
 
 Her office was a testament to her rank. It wasn't a standard cubicle; it was a private corner suite with massive monitors displaying real-time server loads for the Aegis Protocol matchmaking network.
@@ -1071,6 +1101,8 @@ I walked back to the sofa, sitting heavily next to Kristin, completely overwhelm
 
 ### Part 8: Bug and Bear
 
+**Date:** 2006-11-22 at 17:15 PT
+
 We walked out of Building 35 and made the short walk to the Overlake Transit Center.
 
 The damp evening chill was settling over the city. We boarded a blue-and-white TAPS 564 articulated bus bound for South Hill. Because it was the start of the Thanksgiving rush, the bus was packed. Kristin stood right behind my seat the entire ride down Interstate 405, acting as a physical buffer between me and the crowd.
@@ -1127,6 +1159,8 @@ My black-and-white brain instantly logged the parameter. No traps. No transactio
 
 ### Part 9: The Heavyweight Knockout Grill
 
+**Date:** 2006-11-22 at 18:45 PT
+
 We finally unlocked the door to Jessica’s apartment, stepping out of the freezing Washington rain and into the warm, brilliantly lit sanctuary.
 
 "Alright, everybody drop your bags," Jessica commanded, wheeling toward the kitchen. "It's Thanksgiving Eve. I am not making anyone cook a massive meal tonight. We are doing burgers."
@@ -1172,6 +1206,8 @@ I pulled Kristin into a deep, comfortable hug, burying my face in her shoulder. 
 The war was officially over.
 
 ### Part 10: The Sanctuary Bed
+
+**Date:** 2006-11-22 at 22:30 PT
 
 By the time we finished cleaning the Heavyweight Knockout Grill and putting away the leftovers, the exhaustion of the day had finally caught up to all of us. But we had a logistical bottleneck: Jessica’s Renton apartment was a one-bedroom.
 
@@ -1226,6 +1262,8 @@ I closed my eyes, anchored by Rachel on my left and Kristin on my right. The pro
 ## Chapter 3: The Sanctuary Holiday (Thursday, November 23, 2006)
 
 ### Part 1: The Sentinel Tether
+
+**Date:** 2006-11-23 at 10:00 PT
 
 I woke up on Thanksgiving morning to the smell of roasting poultry and the muffled, triumphant sound of a marching band pouring out of the television in the living room.
 
@@ -1321,6 +1359,8 @@ The bird was almost done, but I had already gotten exactly what I needed for Tha
 
 ### Part 2: The Sanctuary Feast
 
+**Date:** 2006-11-23 at 18:00 PT
+
 The romantic gravity on the sofa was eventually broken by the sharp, metallic beep of the oven timer in the kitchen.
 
 Kristin and I slowly untangled ourselves from the fleece blanket. My chest was still heaving, my heart hammering a joyous, frantic rhythm, but I felt lighter than I had in years. Kristin offered me a soft, brilliant smile, her hand lingering on my chest for one final, reassuring squeeze before we both stood up.
@@ -1401,6 +1441,8 @@ My processor logged the data point, and a profound sense of peace settled over m
 
 ### Part 3: The Sugar Crash & The Independent Perimeter
 
+**Date:** 2006-11-23 at 22:00 PT
+
 We didn’t move from the table for another hour. We just sat in the warm, ambient glow of the dining area, letting our bodies process the sheer volume of Thanksgiving dinner.
 
 Eventually, Rachel let out a long, dramatic sigh, pushing her empty plate forward an inch. "I think I need pie now."
@@ -1473,6 +1515,8 @@ With a soft click, the room faded to black.
 
 ### Part 1: The Afterglow and the Doorbuster Clock
 
+**Date:** 2006-11-24 at 05:30 PT
+
 I woke up in the dark, my internal clock violently pulling me out of sleep just before five-thirty in the morning.
 
 For the last two years, this exact time on the Friday after Thanksgiving meant being jolted awake by screaming. It meant being dragged out into the freezing East Coast weather to stand in chaotic, violent lines outside retail stores so Delores could extract high-value electronics and heavily discounted appliances using my credit.
@@ -1530,6 +1574,8 @@ Rachel nodded immediately, her grip on my arm tightening in absolute solidarity.
 "A tactical observation run," Jessica agreed, her smirk widening into a full, brilliant grin. "I love it. Let the early-morning brawls over cheap electronics finish up. We'll make some leftover turkey sandwiches for breakfast, let the sun come up, and then the West Coast Pack is deploying to the mall."
 
 ### Part 2: The Transit Deployment
+
+**Date:** 2006-11-24 at 08:00 PT
 
 The kitchen counter was completely covered in a chaotic, highly efficient assembly line.
 
@@ -1600,6 +1646,8 @@ I looked up. I let the noise of the holiday shoppers wash over me. The anxiety d
 I wasn't a hostage anymore. I was just a guy walking through *The Grand Marché* with the people he loved, holding his girlfriend's hand on Black Friday.
 
 ### Part 3: The Pine Street Skybridge
+
+**Date:** 2006-11-24 at 09:30 PT
 
 We stepped out of the historic, perfume-scented sanctuary of The Grand Marché and back into the biting cold of the Seattle morning. The massive holiday crowds were swirling around us on the sidewalks, the visual and auditory data threatening to overwhelm my processor. But my perimeter was absolutely locked.
 
@@ -1679,6 +1727,8 @@ At the head of the table, Jessica adjusted her dark glasses. She took in the new
 
 ### Part 4: The Holiday Windows
 
+**Date:** 2006-11-24 at 10:00 PT
+
 We pushed out through the heavy, revolving glass doors of the Pine Street Center, stepping back out into the biting Seattle morning. The wind whipping off Elliott Bay cut right through my heavy winter coat, carrying that distinct, damp chill that seemed to seep straight into my bones. Having spent my entire life in the humid coastal air of Virginia Beach, my body was entirely unprepared for the sheer, aggressive grayness of a Pacific Northwest winter.
 
 Directly across 4th Avenue loomed the massive, block-long stone fortress of the department store. High above the main entrance, suspended from the historic brickwork, was a brilliantly lit, four-story holiday star. But right above the heavy brass doors, bolted into the stone, was a shiny new corporate sign that read: *Hudson's*.
@@ -1716,6 +1766,8 @@ I looked down to my right. Kristin had stepped up right beside me, slipping her 
 "You'll get used to it," Jessica promised, rolling up next to us. She looked at the four of us huddled together against the stone facade of the department store, a fierce, satisfied smile touching the corners of her mouth. "Alright. We've seen the windows. We've survived the cold. Where to next, Michael? You're calling the shots today."
 
 ### Part 5: The Ride Free Area
+
+**Date:** 2006-11-24 at 10:30 PT
 
 Standing on the freezing pavement outside the historic stone facade of Hudson’s, the biting wind whipping off Elliott Bay finally pushed my thermal limits. The visual spectacle of the animatronic windows was incredible, but my body was still completely unacclimated to the damp, piercing chill of the Left Coast.
 
@@ -1831,6 +1883,8 @@ I looked back at the sepia-toned photograph of the timber lodge. The ghost of Ke
 
 ### Part 6: The Pocket Fortress
 
+**Date:** 2006-11-24 at 11:45 PT
+
 We pushed through the heavy glass doors of the Cadillac Hotel, leaving the warm, quiet exhibits of the Klondike museum behind us.
 
 The moment we stepped back onto the pavement of Second Avenue South, the freezing wind whipping off Elliott Bay hit us again. But the psychological atmosphere had completely shifted. We weren't just wandering through the cold to kill time anymore; we were armed with the historical blueprint of our future sanctuary.
@@ -1881,6 +1935,8 @@ I didn't have to calculate my survival anymore. I just sat in the pocket fortres
 
 ### Part 7: The Pioneer Deli and The Regional Route
 
+**Date:** 2006-11-24 at 12:15 PT
+
 The freezing mist from the man-made waterfall was a brilliant sensory reset, but after forty-five minutes of sitting still in the November air, the biting Pacific Northwest chill finally began to penetrate our heavy winter coats.
 
 Jessica checked her watch, unlocking the brakes on her wheelchair.
@@ -1926,6 +1982,8 @@ Rachel didn't even need to blink. The TAPS grid was permanently burned into her 
 "Flawless," Jessica praised, checking her watch. "The 594 runs every thirty minutes today. Finish your soup, pack. We are heading south."
 
 ### Part 8: The Pierce County Deployment
+
+**Date:** 2006-11-24 at 13:30 PT
 
 Twenty minutes later, we were back out on the freezing street, walking the two short, flat blocks from the deli to the surface transit stop at the 2nd Avenue Extension.
 
@@ -2003,6 +2061,8 @@ I stepped over the threshold, leaving the freezing dampness of University Place 
 
 ### Part 9: The Lakewood Fortress
 
+**Date:** 2006-11-24 at 14:45 PT
+
 I stepped over the threshold, leaving the freezing dampness of University Place behind, and walked into my little sister's sanctuary.
 
 The apartment was small, but it radiated an intense, perfectly curated warmth. The front door opened directly into a cozy, carpeted living room. A heavy, dark-blue sofa sat facing a modest CRT television, and a thick fleece blanket was neatly folded over the armrest. To the right, a narrow, galley-style kitchen was separated from the living room by a small breakfast bar with two wooden stools.
@@ -2056,6 +2116,8 @@ I looked at the narrow kitchen, the small television, and the woman leaning agai
 "I think," I said, walking over to accept the second glass of water from her hand, "that it's the safest building in the entire state."
 
 ### Part 10: The Southern Base Camp
+
+**Date:** 2006-11-24 at 20:00 PT
 
 The heavy, emotional exhaustion in the living room eventually gave way to the quiet, inevitable ticking of the clock.
 
@@ -2161,6 +2223,8 @@ I closed my eyes, the heavy exhaustion of the day finally pulling me under. I wa
 
 ### Part 1: The Choice
 
+**Date:** 2006-11-25 at 05:00 PT
+
 The digital alarm clock on the nightstand emitted a low, rhythmic beep, cutting through the heavy silence of the bedroom.
 
 Rachel’s hand shot out from under the weighted blanket, instantly silencing the alarm before the noise could disrupt the ambient peace of the apartment. She rolled onto her side, the deep, regulating pressure of her weight shifting against my ribs.
@@ -2249,6 +2313,8 @@ Rachel let out a long, happy sigh and stretched her arms over her head. She look
 
 ### Part 2: The Milk Rule
 
+**Date:** 2006-11-25 at 05:30 PT
+
 The ambient chill in the ground-floor apartment meant we had to move quickly. We stood in the center of the small bedroom and stripped out of our soft sleepwear.
 
 In the neurotypical world, a twenty-two-year-old brother and a twenty-year-old sister would demand closed doors and strict privacy. But the trauma of our past had entirely eradicated those boundaries. Modesty was a luxury for people who didn't rely on each other to survive. We didn't turn away. We maintained our visual tether, an unspoken, continuous validation that we were both real, present, and completely safe.
@@ -2304,6 +2370,8 @@ At 7:15 AM, the teal and yellow TAPS Route 2—the South 19th-Bridgeport line—
 We took our seats, and I pressed my shoulder flush against Rachel's red polo shirt as the heavy diesel engine roared. The bus pulled away from the curb, carrying us straight toward the Lakewood Transit Center so my little sister could clock in for the weekend retail war.
 
 ### Part 3: The Dead Grid
+
+**Date:** 2006-11-25 at 07:30 PT
 
 The teal and yellow TAPS Route 2 bus pulled away from the curb in University Place, its heavy diesel engine rumbling through the floorboards. As we accelerated down Bridgeport Way West, I looked out the rain-streaked window. To our left, the massive, brightly lit facade of *Franklin's Market* slid past. Kristin was already inside, establishing her own perimeter for her opening shift.
 
@@ -2403,6 +2471,8 @@ We had successfully pulled me out of the terrifying squalor of Kent. We had surv
 
 ### Part 4: The Northbound Route
 
+**Date:** 2006-11-25 at 08:00 PT
+
 We stood on the damp sidewalk outside the darkened, powerless facade of *The Spot*, watching a few of the confused, red-shirted employees slowly disperse toward their cars.
 
 "Well," Jessica smiled, adjusting her scarf and looking at the two of us. "The timeline is completely ours. What's the new transit math, Rachel?"
@@ -2462,6 +2532,8 @@ Looming over the massive parking lot was the brightly lit, sprawling facade of *
 "Alright," Jessica smiled, adjusting her coat and looking at the automatic glass doors of the superstore. "Let's go buy some breakfast and go bump into our favorite Sentinel."
 
 ### Part 5: The Grocery Side
+
+**Date:** 2006-11-25 at 08:30 PT
 
 Directly to our right, sprawling across a massive parking lot, was the brightly lit facade of *Franklin's Market*.
 
@@ -2528,6 +2600,8 @@ We pushed the heavy cart out the automatic doors and back into the damp, gray mo
 The morning panic of the power outage had completely vanished. We had groceries, we had a warm apartment waiting for us, and in just a few hours, the Sentinel would be officially off the clock, and the pack would be whole.
 
 ### Part 6: The Pantry Algorithm
+
+**Date:** 2006-11-25 at 10:00 PT
 
 We walked back into the ground-floor apartment at Chambers Creek Estates, our arms loaded with the heavy plastic grocery bags from Franklin's Market.
 

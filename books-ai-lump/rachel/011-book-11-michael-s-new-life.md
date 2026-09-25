@@ -9,6 +9,8 @@ series: "The Rachel Narrative"
 
 ### Part 1: Arrival at PDX
 
+**Date:** 2001-11-17 at 14:30 ET
+
 The cross-country flight from Virginia had been a grueling, anxiety-inducing marathon. Flying just two months after the airspace had been weaponized meant the entire atmosphere of commercial aviation was thick with a heavy, unspoken tension. I had spent the last seven hours rigidly gripping the armrests, my nervous system completely frayed.
 
 When I finally stepped off the jet bridge and walked down the sprawling, carpeted concourse of Portland International Airport, I was running on absolute fumes.
@@ -56,6 +58,8 @@ We reached the massive, rotating luggage carousel. The heavy buzzer sounded, and
 "That is my bag," I said, pointing as I stepped forward and pulled one of the heavy floral suitcases off of the belt. It was the exact same suitcase Dad had used to pack Rachel's life away two months ago, repurposed for my trip. I set it upright and gripped the handle. "Where to?"
 
 ### Part 2: The Columbia Transit Service
+
+**Date:** 2001-11-17 at 15:15 ET
 
 Rachel giggled, her dark eyes lighting up as she stepped fully into her element. The overwhelming stress of the last two months vanished, replaced by the rigid, predictable safety of a public transportation grid.
 
@@ -112,6 +116,8 @@ As the bus merged onto the interstate and rumbled over the massive steel bridge 
 The 4 bus dropped us off a block from the hotel. The rain was coming down harder now. Rachel grabbed my suitcase again, laughing as the cold wind whipped her hair across her face, while I pushed Jessica as fast as I could through the sliding glass doors of the hotel lobby. We were soaking wet, exhausted from travel, but our pack was finally back together.
 
 ### Part 3: Sibling Cuddles
+
+**Date:** 2001-11-17 at 17:00 ET
 
 We arrived in the room on the second floor, and Jessica swiped her keycard. The heavy hotel door clicked open, and we pushed inside, dragging the luggage out of the hallway.
 
@@ -179,6 +185,8 @@ We didn't say anything else. We didn't need to. We just pulled the heavy hotel b
 
 ### Part 1: Left Coast Time
 
+**Date:** 2001-11-18 at 07:00 ET
+
 Morning rolled around, the pale, gray light of the Pacific Northwest filtering through the gap in the heavy hotel curtains.
 
 I was the first to wake up. I lay perfectly still in the center of the massive king-sized bed, sandwiched between the grounding, rhythmic breathing of my two sisters. The emotional exhaustion of yesterday’s reunion had completely knocked us out, but my internal clock was violently clashing with the geography.
@@ -243,6 +251,8 @@ The adult world was messy and terrifying, but inside the rigid, mechanical routi
 
 ### Part 2: The Burger Arch
 
+**Date:** 2001-11-18 at 08:30 ET
+
 The ride to Franklin’s was uneventful, the heavy bus tires hissing over the wet pavement. Soon, we were dropped off at the massive transit shelter on the edge of the hypermarket's sprawling property.
 
 Through the rain-streaked windows, we were surprised to see our father already standing at the bus stop waiting. He was wearing a heavy jacket, his shoulders hunched against the damp chill, looking impatient.
@@ -294,6 +304,8 @@ He was acting like he was afraid of her.
 As Dad parked the car and killed the engine, the suffocating silence in the cabin made one thing perfectly clear: Jessica was holding a massive piece of leverage over his head, and breakfast was exactly where she planned to drop it.
 
 ### Part 3: The Hard Conversation
+
+**Date:** 2001-11-18 at 09:15 ET
 
 We carried our plastic trays to a booth in the far corner of the neon-lit dining room, away from the morning rush. The air smelled heavily of fryer grease and burnt coffee.
 
@@ -391,6 +403,8 @@ Jessica simply reached into her coat pocket, pulled out her Columbia Transit car
 
 ### Part 1: The Transit Protocol
 
+**Date:** 2001-11-18 at 10:00 ET
+
 The journey from the Vancouver fast-food parking lot to the center of Portland was a masterclass in Rachel’s transit hyper-fixation.
 
 Dad trudged behind us like a sullen, defeated teenager, his hands shoved deep into his jacket pockets. He had completely surrendered his parental authority to the laminated CTS Day Pass Rachel had handed him.
@@ -412,6 +426,8 @@ Twenty minutes later, the train slowed, curving onto a raised platform.
 "Rose City Center," Rachel announced, standing up and grabbing her coat. "Our stop."
 
 ### Part 2: The Largest Mall in Oregon
+
+**Date:** 2001-11-18 at 11:00 ET
 
 The train doors chimed open, dropping us off directly across the street from a massive, sprawling concrete and glass structure.
 
@@ -456,6 +472,8 @@ My two sisters, with Rachel eagerly taking the lead since she had mapped out the
 I was surprised at how much Jessica’s wheelchair could carry, balancing bags on the back handles and across her lap. We stuck mostly to clothes, books, and small things, constantly running the logistical calculations of what we could comfortably carry on the public transit ride back to Vancouver. Despite the heavy conversation at the railing, being surrounded by my sisters, following a structured shopping plan, felt like the most grounded I had been in months.
 
 ### Part 3: The Investment
+
+**Date:** 2001-11-18 at 12:30 ET
 
 We navigated away from the clothing retailers and the loud, echoing atrium of the ice rink, pushing through the heavy glass doors of a massive, two-story bookstore. The air inside smelled deeply of roasted coffee beans and fresh paper, a quiet, muffled sanctuary compared to the rest of Rose City Center.
 
@@ -502,6 +520,8 @@ As we walked, my analytical brain processed the interaction. I had spent my enti
 She was the ultimate anchor. And as Dad followed us to the register to watch his twenty-year-old daughter pay for his high school education, I knew he finally realized exactly who was in charge of the pack.
 
 ### Part 4: The Federal Way Proposal
+
+**Date:** 2001-11-18 at 16:00 ET
 
 We eventually arrived back at the hotel in Vancouver, soaked from the rain and exhausted from the massive logistical effort of the day. Jessica swiped her keycard, and the heavy door clicked open.
 
@@ -567,6 +587,8 @@ Rachel let out a long, shaky breath, her shoulders slumping as the heavy tension
 
 ### Part 1: The Quantum Shield
 
+**Date:** 2001-11-19 at 10:00 ET
+
 Jessica’s apartment in Federal Way was a revelation.
 
 It was on the ground floor of a modern, quiet complex, built with full ADA compliance. Inside, it was a perfectly orchestrated sanctuary of neurodivergent peace. The lighting was soft, the hum of the appliances was minimal, and the wide hallways meant Jessica could navigate effortlessly. Sitting on the living room rug, wrapped in a heavy fleece blanket, I watched my older sister operate not just as a college student, but as a completely independent, high-functioning adult.
@@ -604,6 +626,8 @@ Jessica's eyes scanned her laptop screen.
 She hit a key on her laptop, initiating the wire transfer that would fund the war.
 
 ### Part 2: The Status Quo
+
+**Date:** 2001-11-19 at 15:15 ET
 
 For twenty-nine agonizing hours, we lived in a state of suspended animation.
 
@@ -646,6 +670,8 @@ We were a thousand miles away from the courtroom, but the hammer had officially 
 ## Chapter 5: A New Tradition (Wednesday, November 21, 2001)
 
 ### Part 1: The Legal Stranger
+
+**Date:** 2001-11-21 at 10:00 ET
 
 The sanctuary of the Federal Way apartment held perfectly through the night. When Wednesday morning arrived—the day before Thanksgiving—the heavy, suffocating anxiety that had defined our lives for the last two months was completely gone.
 
@@ -699,6 +725,8 @@ She let out a long breath, shaking her head. She looked over at Rachel, who was 
 
 ### Part 2: The Aero-Transit Packet
 
+**Date:** 2001-11-21 at 11:15 ET
+
 The quiet hum of the apartment had barely resumed when the landline rang a second time. Rachel’s shoulders immediately hitched up toward her ears, her dark eyes flashing back to the plastic receiver on the wall.
 
 Jessica didn't hesitate. She rolled over and grabbed the phone, her posture still rigid from the fight with Cathy.
@@ -746,6 +774,8 @@ For the next two hours, the Federal Way apartment smelled of butter, flour, and 
 The physical repetition of working the dough with my hands was incredibly grounding. There were no lawyers, no screaming girlfriends, and no frantic airport terminals. There was just the quiet, methodical safety of the kitchen, the predictable hum of the refrigerator, and the absolute certainty that tomorrow, for the first time in our lives, our pack was going to celebrate a holiday exactly on our own terms.
 
 ### Part 3: The Apartment Confrontation
+
+**Date:** 2001-11-21 at 16:00 ET
 
 The cheap, second-floor unit at the Prairie View Apartments felt like a shrinking padded cell.
 
@@ -813,6 +843,8 @@ He was three thousand miles away from his real family, trapped on the second flo
 
 ### Part 4: The Assembly Line
 
+**Date:** 2001-11-21 at 18:00 ET
+
 By early evening, the pale, gray light of the Pacific Northwest had completely surrendered to the dark, and a steady, rhythmic rain was drumming against the apartment windows. Inside, however, the environment was completely insulated and warm.
 
 We had successfully transitioned the kitchen into a highly efficient, closed-loop assembly line.
@@ -844,6 +876,8 @@ I looked down the counter at my sisters. The emotional whiplash of the morning�
 In its place was a profound, unshakeable peace. We were chopping vegetables, tearing bread, and executing a simple holiday protocol, but it felt like a monumental victory. We had successfully defended our perimeter, and tomorrow, we were going to celebrate our pack exactly how we wanted to.
 
 ### Part 5: The Escrow Anchor
+
+**Date:** 2001-11-21 at 20:00 ET
 
 The kitchen assembly line was officially shut down for the night. The heavy glass bowl of compound butter and the foil-wrapped green bean casserole were securely staged in the refrigerator, and the apartment smelled faintly of rosemary, sage, and flour.
 
@@ -917,6 +951,8 @@ The pack wasn't broken. We were just expanding the perimeter.
 
 ### Part 6: The Regulated Sanctuary
 
+**Date:** 2001-11-21 at 22:00 ET
+
 The emotional high of the escrow reveal eventually gave way to the heavy, physical exhaustion of the day. The clock on the kitchen microwave clicked over to 10:00 PM. The rain was still falling steadily outside, but the Federal Way apartment was warm and perfectly still.
 
 Jessica carefully closed the manila folder and rested it on her lap, shifting the atmosphere in the room from the future back to the immediate present.
@@ -977,6 +1013,8 @@ I tightened my arms around them both, closing my eyes. The adult world, with its
 
 ### Part 1: The Hudson's Parade
 
+**Date:** 2001-11-22 at 09:00 ET
+
 The morning light filtering through the Federal Way apartment was soft and gray, but the atmosphere inside the bedroom was incredibly warm.
 
 I woke up exactly where I had fallen asleep: anchored in the center of the bed, perfectly wedged between my sisters. Jessica stretched on my left, letting out a quiet yawn, while Rachel shifted against my right ribs, her breathing steady and calm.
@@ -1018,6 +1056,8 @@ We sat there in the quiet living room, eating our Harvest Maize Grids in our sof
 There were no screaming parents. There were no court orders hanging over our heads. There was just the mechanical crunch of our cereal, the cheerful, orchestrated noise of the Hudson's Parade echoing from the TV speakers, and the absolute certainty that our pack was exactly where we were supposed to be.
 
 ### Part 2: The Thanksgiving Ultimatum
+
+**Date:** 2001-11-22 at 10:30 ET
 
 The shrill ring of the kitchen landline cut straight through the cheerful, brassy marching band music of the Hudson's Parade.
 
@@ -1063,6 +1103,8 @@ Rachel slowly lowered her spoon back into her cereal bowl. The panic in her eyes
 
 ### Part 3: The Signature Act
 
+**Date:** 2001-11-22 at 10:45 ET
+
 "No, Jess, you didn't miss Timothy Turkey," I said, pointing at the television screen with my spoon. "He hasn't come down the avenue yet."
 
 Jessica parked her wheelchair back in her spot next to the coffee table and picked up her bowl of Harvest Maize Grids. The tense, rigid posture she had held during the phone call completely melted away as she took a bite, her eyes locking back onto the screen.
@@ -1094,6 +1136,8 @@ As the dancers hit their final, flawless pose and the crowd on the television er
 Rachel pointed excitedly at the screen, letting out a soft, happy hum. We were exactly where we needed to be.
 
 ### Part 4: The Shape of Tradition
+
+**Date:** 2001-11-22 at 11:45 ET
 
 The final hour of the Hudson's Parade played out exactly as it always did, offering the profound, regulating comfort of a completely unchangeable routine.
 
@@ -1142,6 +1186,8 @@ Rachel let out a long, happy breath. She reached out and touched the cold metal 
 "Now," Jessica clapped her hands together. "If the Cranberry Committee is satisfied, who wants to help me carry this massive turkey to the oven?"
 
 ### Part 5: The Heavy Lifting
+
+**Date:** 2001-11-22 at 12:30 ET
 
 The oven preheat alarm beeped, a sharp, singular electronic tone that signaled the next phase of the timeline.
 
@@ -1194,6 +1240,8 @@ Rachel looked at the glowing green numbers counting down on the microwave, then 
 She turned around, walked directly into the living room, and booted up her Super Nova 16 console. The holiday was running flawlessly.
 
 ### Part 6: The 101% Secret
+
+**Date:** 2001-11-22 at 13:30 ET
 
 The apartment was filled with the heavy, savory aroma of roasting turkey, creating a thick blanket of sensory comfort over the living room. Jessica was sitting at the dining table with a thick university textbook spread open, enjoying the profound luxury of a quiet afternoon.
 
@@ -1267,6 +1315,8 @@ From the dining table, Jessica looked over the top of her textbook, watching us 
 
 ### Part 7: The Final Push
 
+**Date:** 2001-11-22 at 15:30 ET
+
 The microwave timer beeped from the kitchen, a sharp electronic tone that cut through the jungle music of the Super Nova 16.
 
 Jessica closed her heavy university textbook and pushed it toward the center of the dining table. "Alright, pack," she called out, wheeling herself toward the kitchen. "Pause the game. It's three-thirty. Time for the final push."
@@ -1329,6 +1379,8 @@ Rachel carefully carried the foil-covered dishes to the oven and placed them on 
 
 ### Part 1: The Reverse Route
 
+**Date:** 2001-11-25 at 08:00 ET
+
 The Thanksgiving reprieve was officially over.
 
 My duffel bag was packed and sitting by the front door of the Federal Way apartment. The emergency injunction had secured Rachel’s permanent residency in Washington, completely neutralizing Dad's custody, but the logistical reality of my own life still had to be addressed. I had a high school to get back to in Virginia Beach, and my non-refundable return flight was departing from Portland International Airport.
@@ -1352,6 +1404,8 @@ Rachel looked across the aisle at our older sister, who was reading a thick text
 "Every single day," I promised.
 
 ### Part 2: The Security Checkpoint
+
+**Date:** 2001-11-25 at 13:00 ET
 
 The ARTS train deposited us in Portland, and a quick connection on the local light rail brought us directly to the ticketing lobby of PDX.
 

@@ -9,6 +9,8 @@ series: "The Rachel Narrative"
 
 ### Part 1: The SME Directive
 
+**Date:** 2007-05-16 at 09:15 ET
+
 The heavy, reinforced oak door to Conference Room 4B lacked an automatic push-plate.
 
 I parked my manual wheelchair at a slight angle, gripped the brass handle, and used the momentum of my own tires rolling backward to wrench the heavy door open. It was exhausting, inefficient physics, but I had spent the last five months treating the crumbling infrastructure of NAVSTA Norfolk like a hostile operating system. I just routed around the damage.
@@ -77,6 +79,8 @@ It was time to buy some dirt.
 
 ### Part 1: The Twenty-First Milestone
 
+**Date:** 2007-05-25 at 18:30 ET
+
 In the neurotypical civilian world, turning twenty-one is a loud, chaotic, and culturally mandated rite of passage. The societal script dictates that you gather a massive group of people, descend upon crowded bars, and consume as much unpredictable, volatile alcohol as physically possible.
 
 For our pack, that script wasn't just unappealing; it was a terrifying sensory and psychological nightmare.
@@ -133,6 +137,8 @@ Rachel opened her eyes and looked around the booth. She looked at Ashley, her or
 
 ### Part 2: The Subprime Shield
 
+**Date:** 2007-05-25 at 20:15 ET
+
 By late May 2007, the national news was dominated by a single, terrifying headline: the subprime mortgage crisis.
 
 The housing market was beginning to bleed. Lenders were filing for bankruptcy, foreclosure signs were popping up like weeds across Virginia Beach, and a heavy, suffocating financial panic was settling over the civilian world. For the average family, the collapsing market was a nightmare.
@@ -168,6 +174,8 @@ The moment we made the turn, my internal geographical map redlined. The police w
 Before we hit the impending traffic jam at Green Meadows, I hit the turn signal and executed a sharp right turn onto the very next cross street: Moosewood Drive.
 
 ### Part 3: The Moosewood Anomaly
+
+**Date:** 2007-05-25 at 20:25 ET
 
 Moosewood Drive was a quiet, unassuming residential artery. The frantic, aggressive energy of the detoured traffic instantly vanished behind us. The street was lined with modest, suburban homes and mature pine trees, completely insulated from the roar of Independence Boulevard.
 
@@ -211,6 +219,8 @@ The heavy, profound realization of what she was proposing hit my chest. We weren
 
 ### Part 4: The Evasive Route
 
+**Date:** 2007-05-25 at 20:35 ET
+
 I pulled the van's gearshift back into drive, my processor completely electrified by the concept of the custom fortress.
 
 "Executing the reroute," I announced, pulling away from the rotting house and continuing down Moosewood Drive.
@@ -241,6 +251,8 @@ As we walked up the ADA-graded concrete path to our front door, Rachel laced her
 
 ### Part 1: The Route 36 Commute
 
+**Date:** 2007-05-29 at 06:40 ET
+
 The three-day Memorial Day weekend officially ended, and the civilian world was waking back up. But inside the Canadian Arch townhouse, the pack’s operational rhythm was already flawlessly clicking into gear.
 
 At 6:40 AM, Jessica rolled her manual wheelchair out the front door, the warm, humid Virginia morning air greeting her. She didn't need Michael to drive her, and she didn't need to fight the unpredictable morning traffic on Independence Boulevard. Her transit algorithm for Town Center days was just as meticulously mapped as her routes in the Pacific Northwest.
@@ -266,6 +278,8 @@ If she left the office on time tonight, she knew she could catch the 36 heading 
 But right now, she had a bank to dismantle.
 
 ### Part 2: The Corporate Guillotine
+
+**Date:** 2007-05-29 at 08:05 ET
 
 Jessica swiped her heavy-duty Quantum ID at the 21st-floor security vestibule. The frosted glass doors slid open, granting her access to Quantum East.
 
@@ -307,6 +321,8 @@ Now, the true architectural challenge began.
 
 ### Part 1: The Demolition Directive
 
+**Date:** 2007-06-15 at 07:45 ET
+
 The Virginia morning was already thick with the familiar, suffocating coastal humidity by the time I steered the heavy transit van onto Moosewood Drive.
 
 We didn't have to navigate any complex transit grids or fight the commuter rush on Independence Boulevard. The drive from the Canadian Arch townhouse to our newly acquired plot of land took exactly four minutes. I pulled the van flush against the curb, right across the street from the Silverleaf commuter lot, and put it in park.
@@ -337,6 +353,8 @@ She knew exactly what that machine was about to do, and the sheer, mathematical 
 
 ### Part 2: The Catharsis
 
+**Date:** 2007-06-15 at 08:05 ET
+
 The steel bucket of the excavator slammed into the front porch of the rotting house.
 
 The sound of the wood splintering and the drywall collapsing was violently loud. The machine chewed through the facade, ripping the roof down and tearing the living room completely open. A massive cloud of gray dust and debris billowed up into the humid air, drifting across the dead lawn.
@@ -366,6 +384,8 @@ She turned her wheelchair slightly, looking up at me, Rachel, Ashley, and Kristi
 "We break ground on the fortress next week," Jessica promised. "We're going home."
 
 ### Part 3: The Clinical Blueprint
+
+**Date:** 2007-06-15 at 13:00 ET
 
 We loaded back into the heavy transit van, leaving the dust of the demolished Moosewood house settling over the empty lot. The euphoric, concussive high of the morning was slowly fading, replaced by a quiet, heavy anticipation as I pulled the van out of the Silverleaf neighborhood.
 
@@ -444,6 +464,8 @@ My vision blurred. A tear spilled over my eyelid, tracking hot down my cheek and
 At 7:45 AM, we had torn down the rotting, structural failure of the Moosewood house. By 4:00 PM, we walked out of Suite 410, holding the clinical proof that our own internal architecture was completely, perfectly intact.
 
 ### Part 4: The Intact Architecture
+
+**Date:** 2007-06-15 at 16:45 ET
 
 The drive back from the clinic to the Canadian Arch townhouse was completely silent, but it wasn’t the tense, suffocating silence of a system lock. It was the heavy, profoundly exhausted quiet of a massive data transfer completing.
 

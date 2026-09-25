@@ -9,6 +9,8 @@ series: "The Rachel Narrative"
 
 ### Part 1: The First Class Algorithm
 
+**Date:** 2001-12-22 at 06:00 ET
+
 The hydraulic brakes of the TAPS Route 194 bus exhaled a loud, sharp hiss, echoing violently against the concrete drop-off curb of the Seattle-Tacoma International Airport.
 
 I hated that sound. It was sudden and unpredictable, an acoustic spike that made the muscles in my neck completely lock up. But as the bus doors opened, spilling us out into the freezing, gray Pacific Northwest morning, I didn't cover my ears. I couldn't.
@@ -70,6 +72,8 @@ I gripped the rubber handles of her wheelchair tighter. The noise of the Seattle
 I wasn't being dragged. I was the engine. And at the end of this algorithm, waiting for us on the other side of the country, was Michael.
 
 ### Part 2: The Priority Perimeter
+
+**Date:** 2001-12-22 at 06:45 ET
 
 The regular security line was a terrifying, winding labyrinth of exhausted, frustrated people. I ran the mathematical visual in my head. Based on the density of the crowd and the speed of the single metal detector, I calculated that the people at the very back of that line were going to be standing on the hard tile floor for at least four hours.
 
@@ -159,6 +163,8 @@ I pulled my knees up to my chest, letting out a long, vibrating hum of absolute 
 
 ### Part 3: The Four-Hour Buffer
 
+**Date:** 2001-12-22 at 07:00 ET
+
 The Meridian First Class Lounge was an entirely different biome.
 
 It didn't feel like an airport. The air smelled of dark roasted coffee and fresh citrus, completely masking the heavy, chemical scent of jet fuel that permeated the main concourse. The harsh, buzzing fluorescent lights had been replaced by warm, amber table lamps. But the most profound difference was the acoustic profile. The thick carpets and heavy velvet curtains absorbed the ambient noise, reducing the world to a soft, manageable murmur.
@@ -198,6 +204,8 @@ I built a second plate for Jessica, mirroring the exact same nutritional ratios,
 I sat down in my heavy leather chair, pulling my knees up and resting my plate safely on my lap. The food was warm and predictable. The leather chair wrapped around me like a protective shell. For the next three and a half hours, the universe was entirely contained within this quiet room. I ate my breakfast, booted up my laptop, and listened to the soft, rhythmic clinking of coffee cups.
 
 ### Part 4: The Aisle Transfer
+
+**Date:** 2001-12-22 at 10:45 ET
 
 The digital clock in the lower right corner of my laptop screen ticked over to 10:45.
 
@@ -250,6 +258,8 @@ I took the cold glass, wrapping both hands around it. The heavy, chaotic crowd o
 I looked out the thick plastic window at the gray Seattle sky. In just a few minutes, the engines would start. The trajectory was locked. We were going east. We were going to Michael.
 
 ### Part 5: The Cabin Sanctuary
+
+**Date:** 2001-12-22 at 11:45 ET
 
 The massive twin engines of the aircraft roared, pushing us back into our plush leather seats as we accelerated down the runway.
 
@@ -306,6 +316,8 @@ I ate my meal in complete silence, occasionally sipping my hot chocolate and loo
 The algorithm was perfect. And every second that the massive engines pushed us forward, we were getting closer to Michael.
 
 ### Part 6: The Prismatic Corridor
+
+**Date:** 2001-12-22 at 16:30 CT
 
 The transition from the insulated, premium sanctuary of the aircraft cabin to the massive, sprawling reality of the Chicago transit hub was a severe shock to my system.
 
@@ -393,6 +405,8 @@ But as the heavy, grounding pressure of Jessica's hand remained on my head, I kn
 
 ### Part 7: The System Crash
 
+**Date:** 2001-12-22 at 16:45 CT
+
 The elevator ascended, the heavy metal doors shielding me for a few desperate seconds from the flashing horror of the underground tunnel. My breathing was ragged, my hands shaking violently where they gripped Jessica's push-handles.
 
 I thought the worst was over. I thought returning to the main level would mean returning to the predictable, manageable friction of a standard airport.
@@ -434,6 +448,8 @@ Travelers walked past us, some staring, some intentionally looking away. Jessica
 I focused all of my remaining conscious energy on those words. *Virginia. Michael.* I kept my eyes squeezed shut, letting the tears soak into the fabric of my coat, and allowed the guttural rumble in my chest to slowly transition into a long, broken hum. I couldn't fix the environment, and Jessica couldn't stop the noise, but she was holding the line. We were going to sit right here on the floor of Concourse C until I could finally breathe again.
 
 ### Part 8: The Joyful Overload
+
+**Date:** 2001-12-22 at 17:00 CT
 
 The cold tile of the concourse floor was hard against my knees, but the steady, unyielding pressure of Jessica's hand on the back of my neck kept my system tethered to reality. Slowly, the ragged, guttural rumble in my chest quieted into a tired, rhythmic hum.
 
@@ -547,6 +563,8 @@ As the orchestra and guitar built to a massive, triumphant final chord, I pushed
 
 ### Part 9: The Midwestern Sanctuary
 
+**Date:** 2001-12-22 at 17:15 CT
+
 The physical aftermath of a dual-system crash is a heavy, hollow exhaustion. My muscles felt like they were filled with wet sand, and my throat was raw from the vocalizations.
 
 But as I pushed Jessica’s wheelchair down the crowded expanse of Concourse C, the suffocating terror of the Prismatic Corridor was gone, completely overwritten by the soaring, triumphant chords of The Arctic Symphony Project still echoing in my mind.
@@ -617,6 +635,8 @@ I nodded, my dark eyes locked onto the screen.
 
 ### Part 1: Sibling Reunification
 
+**Date:** 2001-12-22 at 21:30 ET
+
 The digital clock mounted high on the terminal wall flipped to 9:30 PM.
 
 I stood next to Mom just beyond the frosted glass boundary of the security checkpoint, my eyes locked relentlessly on the sterile corridor where the arriving passengers were trickling out. The ambient noise of the Norfolk airport was a low, steady hum, but inside my chest, my heart was hammering a frantic rhythm against my ribs.
@@ -678,6 +698,8 @@ Mom stepped in then, wrapping her arms around both of the girls in a tearful, de
 I kept my arm draped heavily over Rachel's shoulders, providing a continuous, grounding pressure as we fell into step behind Jessica's chair. The pack was officially reunited, and it was time to go to baggage claim.
 
 ### Part 2: The Sibling Perimeter
+
+**Date:** 2001-12-22 at 21:45 ET
 
 The adrenaline rush of the initial reunification was beginning to fade, leaving a quiet, bone-deep exhaustion in its wake. But as we turned away from the security checkpoint and joined the flow of arriving passengers heading toward baggage claim, Rachel didn’t let her guard down entirely.
 
@@ -774,6 +796,8 @@ Rachel let out a soft, happy sigh against my shoulder as the music played. The h
 We were finally, officially back together.
 
 ### Part 3: The Northern Star
+
+**Date:** 2001-12-22 at 22:45 ET
 
 The silver sedan pulled into the driveway of 1852 Delaney Street. Aunt Janet put the car in park, leaving the headlights illuminating the familiar, frost-covered front lawn.
 
@@ -880,6 +904,8 @@ Slowly, agonizingly, the adrenaline finally burned out of our systems. The heavy
 ## Chapter 3: The New Baseline (Sunday, December 23, 2001)
 
 ### Part 1: The Three-Hour Shift
+
+**Date:** 2001-12-23 at 08:30 ET
 
 The winter sunlight bleeding through the living room blinds was entirely too bright, but I didn't dare move a single muscle.
 

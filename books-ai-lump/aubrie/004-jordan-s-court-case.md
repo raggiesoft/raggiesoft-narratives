@@ -9,6 +9,8 @@ series: ""
 
 ### Part 1: The Final Briefing
 
+**Date:** 2015-08-18 at 09:00
+
 The small, windowless consultation room inside the Montgomery County Courthouse hummed with the steady drone of the central air conditioning. A year ago, the sterile white walls and the harsh fluorescent lighting would have sent Jordan Fuller into a spiraling sensory overload. He would have been hunched over, his hands clamped over his ears, trembling in a squeaking, hospital-issue transit chair while he waited for his mother to dictate his fate.
 
 Today, he sat perfectly upright, the hum of the AC filtered seamlessly by his highly calibrated hearing aids.
@@ -52,6 +54,8 @@ Ms. Caldwell stood up, smoothing out her blazer. She looked down at the young ma
 Jordan didn't hesitate. He sent the standby command to his terminal and gripped the joystick of his chair. With a quiet, powerful hum from the heavy-duty motors, he spun the chair toward the door, ready to face the woman who no longer owned him.
 
 ### Part 2: The Phalanx and The Gavel
+
+**Date:** 2015-08-18 at 09:30
 
 The heavy wooden double doors at the back of the courtroom swung open.
 
@@ -112,6 +116,8 @@ The color instantly drained from Mr. Davies' face. Aubrie Sinclair froze, her ti
 "The petitioner is attempting to strip my client of his civil liberties based on a climate that literally did not exist," Ms. Gable concluded cleanly. "We ask that the court hear the facts, review the evidence, and dismiss this fraudulent petition entirely."
 
 ### Part 3: The Evidentiary Phase
+
+**Date:** 2015-08-18 at 10:15
 
 The evidentiary phase proceeded not as a trial, but as a systematic dismantling.
 
@@ -193,6 +199,8 @@ She looked directly at Aubrie Sinclair, whose face had gone completely pale.
 
 ### Part 4: The Closing Argument
 
+**Date:** 2015-08-18 at 13:30
+
 By early afternoon, Aubrie Sinclair’s petition was entirely in tatters. The evidentiary phase had dismantled her claims piece by piece, but it was time for the final blow. Ms. Gable stood in the center of the courtroom to deliver her closing argument, seamlessly weaving the global itinerary into a single, undeniable decree of Jordan's capacity.
 
 "Your Honor," Ms. Gable began, her voice ringing with crisp, devastating precision. "The petitioner’s entire case rests on the sworn assertion that my client is a fragile, anti-social, cognitively impaired invalid. Let us examine that claim against the reality of his summer."
@@ -226,6 +234,8 @@ Ms. Gable stepped back, gesturing to the tanned, upright, razor-sharp young man 
 "But he is not dead, Your Honor. He is sitting right here. He is a Dean's List astrophysics scholar who conquered the Australian Outback and arrived ready to begin his Fall semester at CPI. The incapacitated boy in this petition is a fiction, invented by a woman who simply wants her prisoner back. We ask that this petition be dismissed with prejudice, and the petitioner be completely and permanently severed from his life."
 
 ### Part 5: The Gavel and The Handcuffs
+
+**Date:** 2015-08-18 at 14:15
 
 The heavy, suffocating silence in the courtroom was finally broken by the frantic rustle of Mr. Davies shoving papers into his briefcase. Recognizing that his entire case had just been exposed as a malicious fabrication, his survival instincts kicked in.
 

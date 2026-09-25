@@ -73,6 +73,8 @@ The Lynnwood Discovery and Care Center now had its unique identity. It wouldn't 
 
 ### Part 1: The Peace Arch Crossing
 
+**Date:** 2026-07-13
+
 The early Saturday morning air was cool and misty as the three of them loaded their weekend bags into their Holt Wayfarer. This trip felt different. Their last journey to Canada had been a high-stakes, emotional family affair. This trip was just for them. It was a weekend getaway, but it was also their first official research mission for the Lynnwood Discovery and Care Center.
 
 "Okay," Chloé said, checking a printout from the transit website as Megan took the driver's seat for the first leg. "To avoid the hassle of downtown Vancouver parking, we'll park at the Scott Road SkyLink Station Park & Ride in Surrey, just over the border. From there, the whole city is open to us."
@@ -94,6 +96,8 @@ The officer nodded, processing their documents. Alex, using his AAC device, adde
 After clearing customs, they drove the short distance to the park-and-ride, left their van, and walked to the elevated platform of the Scott Road SkyLink station. For the first time, they were about to explore the Canadian side of their Pacific Northwest home, not just as tourists, but as a three-person team of dreamers, gathering blueprints for their future. The sleek, automated SkyLink train pulled into the station, its doors hissing open, ready to carry them into the heart of the city.
 
 ### Part 2: The Peak of the City
+
+**Date:** 2026-07-13
 
 Sunday morning began with a smooth, practiced efficiency. The three of them checked out of their Surrey hotel, loaded their weekend bags into the van, and drove the short distance back to the Scott Road SkyLink Station. After parking their car for the day, they were back on the MVTA system, ready for a day focused on the mountains that form a majestic backdrop to the city.
 

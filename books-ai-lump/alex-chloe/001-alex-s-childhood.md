@@ -9,6 +9,8 @@ series: "Alex & Chloé"
 
 ### Part 1: The First Meeting
 
+**Date:** 1987-07-13
+
 The summer of 1987 was a time of immense change for the Miller and Carter families. James and Emily, with their two-year-old son, Alex, had just completed the long, exhausting move from Newport, Rhode Island, to a small second-floor apartment on Level Green Boulevard in Virginia Beach. The primary reason for the move was to be closer to Emily's sister, Karen, and the rest of the family.
 
 The first official family gathering took place at the Carter house. The home was a whirlwind of happy, chaotic energy. Jessica, the oldest cousin, was a loud, boisterous force of nature. Cassie, still a toddler herself, was a bit overwhelmed.

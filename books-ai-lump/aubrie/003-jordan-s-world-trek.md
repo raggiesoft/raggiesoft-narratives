@@ -9,6 +9,8 @@ series: ""
 
 ### Part 1: The Vanguard Awakes
 
+**Date:** 2015-05-23 at 05:00
+
 The sharp, digital chime of an alarm clock pierced the cool, quiet air of the Brooks family basement.
 
 Jordan opened his eyes, the absolute absence of his childhood nightmares still feeling like a daily miracle. He was sandwiched comfortably in the center of a mobile queen-sized bed, surrounded by the deep, rhythmic breathing of his pact. To his left, Aubrie was curled up against his side. To his right, Lauren’s auburn hair was splayed across his shoulder, her arm thrown protectively across his chest.
@@ -40,6 +42,8 @@ Megan lowered the hydraulic lift on the trailing van, allowing Jordan to smoothl
 The engines revved, and the two vans pulled out of the driveway, merging onto the northbound lanes of Interstate 81. They left the familiar rolling hills of Christiansburg behind, speeding toward Roanoke-Blacksburg Regional Airport. The world tour had officially begun.
 
 ### Part 2: Operation Yellow Ribbon
+
+**Date:** 2015-05-23 at 06:30
 
 Traffic on Interstate 81 was surprisingly sparse for a Saturday morning, allowing the two heavy passenger vans to make excellent time as they cruised north through the New River Valley. Inside the lead van, the atmosphere was a mix of early-morning grogginess and electric anticipation.
 
@@ -76,6 +80,8 @@ The group nodded, completely unfazed. They had studied the massive global itiner
 Jordan held Lauren's hand a little tighter. Armed with his Nexus card, his custom-built terminal, and an eighteen-person fortress of chosen family, he was finally ready to face the skies.
 
 ### Part 3: The Security Checkpoint
+
+**Date:** 2015-05-23 at 07:00
 
 As the eighteen members of the global roster moved toward the TSA security checkpoint, Daniel Brooks gently placed a hand on the back of Jordan’s heavy power chair, bringing him to a slow stop just before the queue. Lauren stayed firmly anchored by his side, her fingers still laced with his.
 
@@ -130,6 +136,8 @@ When he finally pulled back, a massive, genuine smile was plastered across his f
 With his right hand resting securely on the joystick, Jordan steered his heavy-duty chair down the concourse, holding Aubrie's hand the entire way. Surrounded by his chosen family, they headed toward the departure gate to board the Meridian Express flight to Washington Dulles.
 
 ### Part 4: The Ten-Thousand Foot Rule
+
+**Date:** 2015-05-23 at 07:30
 
 The boarding area at the Meridian Express gate was quiet, populated entirely by the eighteen members of the chosen family. Through the floor-to-ceiling glass windows, the small regional jet sat parked on the tarmac, its engines whining with a low, mechanical hum.
 
@@ -207,6 +215,8 @@ He took a long, refreshing sip of the cold juice, the sweet taste cutting right 
 
 ### Part 5: The International Threshold
 
+**Date:** 2015-05-23 at 08:30
+
 The descent into Washington Dulles International Airport was a jarring, physical reality check.
 
 As the Meridian Express regional jet pitched downward, the change in cabin air pressure pressed heavily against Jordan's eardrums. A few minutes later, the landing gear deployed with a heavy, mechanical *thud* that vibrated straight through the floorboards. When the wheels finally touched the tarmac, the twin engines roared to life with aggressive reverse thrust, shaking the entire cabin.
@@ -235,6 +245,8 @@ Jordan took a deep breath, processing her calm, practical explanation. He nodded
 
 ### Part 6: The IAD Layover Strategy
 
+**Date:** 2015-05-23 at 09:00
+
 To answer the massive logistical challenge of managing an eighteen-person family on an international layover, Daniel Brooks had mapped out the morning with military precision.
 
 "Our flight to Toronto Pearson does not board for another three hours," Daniel explained to the group as they waited for the cabin doors to open. "We are not going to sit at a noisy, crowded gate. Because we are all flying on First Class international tickets, we have complimentary access to the Meridian Premier Lounge in Concourse C."
@@ -258,6 +270,8 @@ Jordan looked at the massive international jets rolling past the lounge windows,
 The terrified, isolated boy from Virginia Beach was officially gone. The world traveler had arrived.
 
 ### Part 7: The Border Briefing
+
+**Date:** 2015-05-23 at 10:15
 
 The hum of the Meridian Premier Lounge was a soothing backdrop as the morning stretched on. Jordan sat comfortably in his power chair by the massive windows, watching the baggage carts zip across the tarmac. The anxiety that had gripped him earlier that morning had completely dissolved, replaced by a profound, grounding warmth.
 
@@ -294,6 +308,8 @@ Jordan slipped his mPhone back into his pocket and immediately reached out, slid
 As the departure screens in the lounge flashed, indicating that their mainline jet to Toronto was finally beginning its boarding process, Jordan felt a quiet, powerful surge of confidence. He was ready for Canada.
 
 ### Part 8: The Outback Lift
+
+**Date:** 2015-05-23 at 11:30
 
 After a final round of snacks and a highly coordinated trip to the Premier Lounge's accessible restrooms, Daniel Brooks gathered the group. It was time.
 
@@ -345,6 +361,8 @@ Jordan looked out the window as the massive jet engines began to whine. He didn'
 
 ### Part 9: The Price of Freedom
 
+**Date:** 2015-05-23 at 12:30
+
 As the mainline jet reached cruising altitude, the First Class cabin settled into a comfortable, luxurious hum. The flight attendants began their meal service, rolling the carts down the wide aisle of the two-by-two cabin configuration.
 
 When the cart reached their rows, the lead flight attendant offered a warm smile, but she didn't bother asking for drink orders. Daniel Brooks, managing the complex logistics of their eighteen-person roster, had already handled it. He had documented directly with the airline well in advance that the entire family—even the adults over twenty-one—would be declining alcohol. The flight attendants simply handed out premium hot meals, bottles of sparkling water, and fresh juices, allowing the group to eat in total peace.
@@ -376,6 +394,8 @@ He was completely, undeniably free. And the best part of it all was that back in
 Jordan smiled, his heart soaring lighter than the aircraft itself. Next stop: YYZ.
 
 ### Part 10: The Commonwealth Question
+
+**Date:** 2015-05-23 at 14:00
 
 When the mainline jet finally arrived at the gate at Toronto Pearson International Airport, the First Class cabin began to empty out. True to her word, Jessica Gallagher stood up from her seat in the third row, her imposing 6'3" frame easily navigating the cabin aisle.
 
@@ -427,6 +447,8 @@ Surrounded by his chosen family and officially on foreign soil for the very firs
 
 ### Part 11: The ePassport Bottleneck
 
+**Date:** 2015-05-23 at 14:45
+
 The Air Canada Maple Leaf Lounge in the domestic terminal was a quiet, sprawling sanctuary of polished wood and comfortable armchairs. The sixteen members of the Nexus group had easily secured a large corner section, indulging in the complimentary buffet and waiting for the final two members of their party.
 
 Jordan sat in his heavy-duty power chair by the window, his Vanguard Pro resting securely on his tray table. He tapped his fingers rhythmically against the edge of the plastic, a subtle self-soothing stim. He was watching the clock on his dark-themed NeoEdit terminal. It had been nearly forty-five minutes since they had separated at the customs hall.
@@ -472,6 +494,8 @@ He wasn't flying into a hostile void anymore. He was flying directly into the he
 Lauren smiled, interlacing her fingers with his as they approached the gate. It was time to finally show Jordan what true hospitality in the face of the unknown was all about.
 
 ### Part 12: The Yellow Ribbon Welcome
+
+**Date:** 2015-05-23 at 19:00 Newfoundland Daylight Time
 
 The boarding process for the final leg to Gander International Airport was flawlessly executed. True to her promise, Jessica Gallagher stepped in the moment they reached the aircraft door.
 
@@ -522,6 +546,8 @@ Jordan pressed his palms against his keyboard, his hands trembling slightly, but
 *I have never been welcomed anywhere in my life,* the bright neon-green text read, illuminating the space between them. *Thank you. Thank you for catching me.*
 
 ### Part 13: The Gander Lift
+
+**Date:** 2015-05-23 at 20:15 Newfoundland Daylight Time
 
 After the emotional welcome at the airport, the massive group of eighteen split into two convoys. Daniel Brooks, managing the primary logistics, guided the majority of the chosen family to a cozy, local hotel in the center of town.
 
@@ -580,6 +606,8 @@ For the very first time in his life, faced with a physical barrier that he could
 He reached out, pulling Lauren into a tight hug, the warmth of the Newfoundland home finally chasing away the last lingering shadows of Virginia.
 
 ### Part 14: The Room 214 Reunion
+
+**Date:** 2015-05-23 at 21:30 Newfoundland Daylight Time
 
 As the excitement of the arrival settled into a warm, comfortable evening, the practical realities of the night took over. With the house naturally lacking the wide, accessible architecture of their specialized apartment back at CPI, the pact simply adapted their routines without missing a single beat.
 

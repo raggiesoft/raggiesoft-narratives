@@ -9,6 +9,8 @@ series: "The Rachel Narrative"
 
 ### Part 1: Rachel's Fury
 
+**Date:** 2001-09-04 at 17:30 ET
+
 The two-week reprieve was officially over. Mom was back from her work trip, the house was no longer ours, and the terrifying reality of the legal separation had finally arrived at the front door.
 
 We were huddled together on the bottom mattress of the bunk bed in Rachel’s room, my arms locked tightly around her, when the shouting started downstairs. We had dragged the cordless phone upstairs with us, keeping Jessica on speakerphone, needing our older sister's presence to anchor us as the volume in the kitchen escalated.
@@ -107,6 +109,8 @@ I leaned forward, resting my elbows on my knees, and locked my eyes firmly with 
 
 ### Part 2: The Anchor
 
+**Date:** 2001-09-04 at 18:00 ET
+
 The bathroom was thick with warm, fragrant steam, turning the small, tiled space into an insulated, physical cocoon.
 
 Rachel was submerged up to her chin, entirely hidden beneath a thick, impenetrable mountain of white bubbles. Her wet, dark hair was plastered against her cheeks, and she was trembling so violently that the water around her rippled continuously, sending small clusters of foam sliding down the porcelain sides of the tub.
@@ -144,6 +148,8 @@ But more than the water, it was the unbroken eye contact that was regulating her
 We sat there in the steam for a long time. The only sounds were the slow, steady drip of the faucet and the quiet popping of the soap bubbles. The outside world, with its lawyers, its broken doorknobs, and its terrifying ultimatums, was completely locked out. As long as I was sitting right there, holding her gaze, she was perfectly, completely safe.
 
 ### Part 3: The Push-Button Lock
+
+**Date:** 2001-09-04 at 18:45 ET
 
 The bubbles eventually began to dissolve, and the heat of the water slowly bled out into the humid air of the bathroom.
 
@@ -203,6 +209,8 @@ We had survived the explosion, and we were safe behind the push-button lock. But
 
 ### Part 1: The Guidance Office
 
+**Date:** 2001-09-05 at 06:30 ET
+
 The loud, violent hiss of the school bus air brakes and the sharp smell of diesel exhaust usually signaled the start of our rigid daily routine.
 
 Normally, stepping off the bus at 6:25 AM meant walking into Northwood High School and heading straight for the cafeteria to sit in our specific, predictable corner until the first bell rang at 7:15 AM. But today, we completely bypassed the cafeteria. Rachel’s hand was gripping the fabric of my backpack strap so tightly her knuckles were white as we navigated the sparsely populated, echoing hallways toward the administrative wing.
@@ -255,6 +263,8 @@ Rachel spun around, grabbed my arm with bruising force, and practically dragged 
 
 ### Part 1: The Eerie Silence
 
+**Date:** 2001-09-11 at 16:00 ET
+
 The Delaney Street house was suffocatingly quiet.
 
 We had turned the television off the second we walked through the front door. The endless, repeating loop of the news footage, the scrolling red tickers, and the panicked voices of the anchors were producing a massive, overwhelming wave of sensory data that neither of our brains could process. The world outside was completely broken, and we needed to shrink our universe down to the absolute smallest possible perimeter just to survive it.
@@ -292,6 +302,8 @@ She didn't ask any more questions. The variables were too massive and too dark t
 I didn't let go. I sat there on the sofa bed, holding my little sister as tightly as my arms would allow, listening to the eerie, unnatural silence outside our windows. The court order was still hanging over our heads, and the world had permanently changed, but right here, in this exact moment, we were anchored together. And until the skies opened back up, that was the only thing that mattered.
 
 ### Part 2: The Wooden Barricade
+
+**Date:** 2001-09-11 at 17:30 ET
 
 The shadows in the living room were growing long, but neither Rachel nor I made a move to turn on the lamps. We stayed anchored to the center of the sofa bed, wrapped in the heavy, predictable silence of the grounded skies.
 
@@ -341,6 +353,8 @@ The world outside was a terrifying, unknown variable, and the court order was a 
 
 ### Part 3: The Second Barricade
 
+**Date:** 2001-09-11 at 18:30 ET
+
 After the sound of Dad’s truck completely faded away down Delaney Street, the downstairs sofa bed no longer felt secure. Dad had proven he could walk right up to the front door. We needed a harder boundary, a space where the perimeter was entirely under our control.
 
 Without a word, I stood up and pulled Rachel with me. We bypassed her bedroom entirely—the broken brass doorknob still lying exactly where it had fallen yesterday—and went straight into my room.
@@ -385,6 +399,8 @@ I leaned back against the headboard, keeping my arm firmly locked around Rachel'
 
 ### Part 4: System Shutdown
 
+**Date:** 2001-09-11 at 20:00 ET
+
 The silence in the house was absolute, broken only by the faint, rhythmic ticking of the analog clock on my nightstand.
 
 After the adrenaline of the shouting match completely burned out of my system, it left behind a massive, hollow crater of exhaustion. The sheer volume of catastrophic variables we had processed today—the planes on the television, the grounding of the skies, Dad’s fists on the front door, and the furious standoff with Mom in the hallway—was too much data for our brains to hold.
@@ -416,6 +432,8 @@ I squeezed her hand back, resting my forehead against her shoulder blade. Outsid
 ## Chapter 6: The Compromised Perimeter (Wednesday, September 12th, 2001)
 
 ### Part 1: The Broken Routine
+
+**Date:** 2001-09-12 at 05:45 ET
 
 The harsh, electronic beeping of my alarm clock shattered the heavy silence of the bedroom.
 
@@ -473,6 +491,8 @@ We were officially playing hooky. But as the sound of the bus faded away, leavin
 
 ### Part 2: The Afternoon Siege
 
+**Date:** 2001-09-12 at 11:30 ET
+
 The morning stretched out in an agonizing, slow-motion crawl.
 
 Without the rigid bells of the high school schedule to divide the hours, time felt heavy and formless. We stayed on my narrow twin bed, rationing the remaining fast food Mom had left on the kitchen table, which I had carefully retrieved during a frantic, silent dash downstairs. The cold french fries tasted like cardboard, but we needed the calories to keep our systems from completely crashing.
@@ -523,6 +543,8 @@ The push-button lock on my bedroom door suddenly felt incredibly fragile. The ai
 
 ### Part 1: The Bleeding Finances
 
+**Date:** 2001-09-17 at 14:15 ET
+
 The national airspace had technically reopened a few days ago, but the logistical reality was a complete, gridlocked nightmare. The news stations were showing endless footage of massive, chaotic lines at airport ticketing counters. The system was severely backlogged with tens of thousands of stranded passengers, and getting a new flight out of Norfolk International was mathematically impossible for anyone at the back of the line.
 
 We were sitting on the floor of my bedroom, a heavy textbook open between us, trying to maintain some semblance of a routine, when the cordless phone on my nightstand rang.
@@ -556,6 +578,8 @@ Rachel leaned forward, her face inches from the phone’s microphone. "I am not 
 "The court order says you get custody when you have *suitable housing*," Rachel fired back, weaponizing the exact legal phrasing he had used against us. "A single hotel room with two beds and one bathroom is not suitable housing. It doesn't give a fourteen-year-old teenage girl any privacy. It is temporary lodging. You don't have a house here. So, I am not going."
 
 ### Part 2: The Living Hell
+
+**Date:** 2001-09-17 at 14:30 ET
 
 Dead silence fell over the speakerphone.
 
@@ -601,6 +625,8 @@ We had successfully defended the perimeter again, using the adult world's rules 
 
 ### Part 1: The Bright Idea
 
+**Date:** 2001-09-20 at 08:00 ET
+
 The two floral-print suitcases sat by the front door like heavy, physical gravestones.
 
 The battle was officially over. The airspace was flowing again, the chaotic backlog of stranded passengers had finally cleared just enough for Dad to secure two seats out of Norfolk International, and the court order was absolute.
@@ -631,6 +657,8 @@ He turned his back, dragging the first suitcase out onto the concrete porch.
 
 ### Part 2: The Assumption
 
+**Date:** 2001-09-20 at 08:15 ET
+
 Mom walked out of the kitchen, clutching a crumpled tissue in her hand. Her eyes were red and swollen.
 
 She stood in the hallway, looking at Rachel, the agonizing reality of the legal document she had signed finally playing out in front of her. When they had sat in the lawyer’s office and agreed to the split custody, the fundamental assumption was that Dad would just rent an apartment across town. Everyone thought we would still be in the same city. No one, not Mom, not Jessica, and certainly not us, had ever suspected he would use the paperwork to run away to the Pacific Northwest with a woman he barely knew.
@@ -654,6 +682,8 @@ Everyone was crying. Mom was sobbing into her tissue. Jessica was weeping over t
 But I didn't cry. My brain had bypassed the emotion and locked entirely into survival mode. I walked down the final step, stepping directly between Rachel and our parents.
 
 ### Part 3: The Calling Cards
+
+**Date:** 2001-09-20 at 08:30 ET
 
 Mom reached into the pocket of her cardigan. She completely ignored Dad, stepping around me to press a thick, heavy stack of plastic cards into Rachel's trembling hands.
 

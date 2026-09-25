@@ -9,6 +9,8 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Friday Commute
 
+**Date:** 1999-05-14 at 15:40 ET
+
 The shrill dismissal bell of Morrison Middle School cut through the afternoon, immediately unleashing a chaotic tidal wave of teenagers into the hallways.
 
 Navigating the crowded corridors of a middle school was always a massive sensory hurdle, but the routine was mathematically locked in. I kept my head down, keeping my backpack tight against my shoulders, and wove my way straight to the designated extraction point: the middle entrance of the front lobby, right next to the main security desk.
@@ -75,6 +77,8 @@ We marched into the dining room, pulling our textbooks from our bags and claimin
 
 ### Part 2: The Homework Hurdle
 
+**Date:** 1999-05-14 at 17:15 ET
+
 The heavy front door clicked open, breaking the quiet, focused silence of the dining room.
 
 Mom and Dad walked in, shrugging off their jackets. The ambient tension of the house usually spiked with the unpredictability of the adults arriving, but tonight, the atmosphere remained remarkably light. Seeing Ashley sitting at the table with us was a guaranteed mood-stabilizer for our parents. They loved Ashley. To them, her presence meant we were behaving like "normal" teenagers having a standard Friday night sleepover.
@@ -116,6 +120,8 @@ Finally, I wrote the last answer down. I closed my heavy math textbook with a lo
 I leaned back in my chair, a massive wave of relief washing over me. The academic perimeter was officially secured. Our homework was finished, our bags were packed, and the entire weekend stretched out in front of us, completely free and clear for the Old World.
 
 ### Part 3: Deploying Base Camp
+
+**Date:** 1999-05-14 at 20:00 ET
 
 With the dining room table finally cleared of algebra worksheets and dinner plates, the kinetic energy of the house shifted completely toward the weekend. It was time to transform the living room.
 
@@ -168,6 +174,8 @@ I stared up at the shadowed ceiling, listening to the synchronized breathing of 
 ## Chapter 2: The Old World – Saturday, May 15, 1999
 
 ### Part 1: The Departure Protocol
+
+**Date:** 1999-05-15 at 06:30 ET
 
 The sun wasn't even fully above the tree line when the living room officially woke up, but Ashley was already vibrating at a completely unmanageable frequency.
 
@@ -233,6 +241,8 @@ I didn't even bother engaging. I just tightened my platonic grip on Ashley’s h
 
 ### Part 2: The Data Shift
 
+**Date:** 1999-05-15 at 07:30 ET
+
 We didn't have to wait long. A minute or two later, Bonnie walked out of the heavy double doors of the band room.
 
 "Reed," Bonnie said quietly, checking in with the chaperone holding the clipboard.
@@ -285,6 +295,8 @@ A moment later, the heavy folding doors hissed shut. The air brakes released wit
 
 ### Part 3: The Flash and the Photograph
 
+**Date:** 1999-05-15 at 08:00 ET
+
 The drive from Virginia Beach up Interstate 64 to James City County took exactly one hour. The yellow school bus rattled over the highway seams, the cabin thick with the smell of diesel exhaust, cheap teenage body spray, and the deafening roar of forty eighth-graders talking over each other.
 
 Trapped in the middle of the green vinyl bench seat, my processor was working in absolute overdrive trying to categorize the physical data happening on my right side.
@@ -318,6 +330,8 @@ It was a three-way cuddle, perfectly captured on film: one half rooted in surviv
 We rode the rest of the way to James City County just like that, anchored together until the towering, looping metal tracks of the Brewster Gardens rollercoasters finally appeared over the tree line.
 
 ### Part 4: The Sovereign Palace Theater
+
+**Date:** 1999-05-15 at 09:00 ET
 
 The heavy air brakes of the yellow school buses hissed loudly, signaling our arrival.
 
@@ -364,6 +378,8 @@ As we walked through the turnstiles, we spotted Sloane. He was strutting down th
 None of us liked him anyway. Our perimeter was closed, the toxic middle school energy was officially locked out, and the adrenaline of the Old World was waiting. Ashley grabbed my left arm, Bonnie stepped perfectly into the space on my right, and we headed straight for the rollercoasters.
 
 ### Part 5: The Loch Serpent
+
+**Date:** 1999-05-15 at 09:15 ET
 
 We bypassed the slower, scenic rides of the 'England' and 'Scotland' hamlets entirely, bee-lining straight for the towering yellow tracks of the park's most iconic coaster: *The Loch Serpent*.
 
@@ -429,6 +445,8 @@ Bonnie wasn't just a girl I had a crush on. She spoke the exact same hyper-fixat
 
 ### Part 6: The Iron Aeronaut
 
+**Date:** 1999-05-15 at 10:00 ET
+
 The morning sun was rapidly baking the asphalt, transforming the Virginia humidity into a thick, unseasonably sweltering sauna. We left the yellow tracks of *The Loch Serpent* behind and started the long trek down the steep, paved hill from the 'Heatherdowns' hamlet toward 'Hastings.'
 
 Halfway down the hill, we spotted Sloane. He was standing near a lemonade cart, puffing out his chest and desperately trying to impress a group of eighth-grade girls wearing band jackets from a different middle school. He was talking loudly, trying to project the aura of a rebellious tough guy, but the physics simply weren't on his side. Being an eighth grader trapped in a fifth-grader's physical stature made the entire display look ridiculous. The girls clearly saw through the act, completely ignoring him as they walked away to get their drinks.
@@ -480,6 +498,8 @@ The pre-show video played, explaining the lore of the steampunk flying ship, and
 The massive screen in front of us lit up, and the entire theater violently lurched upward as the hydraulic pistons engaged. The floor dropped out from under us, perfectly syncing with the footage of the flying ship diving off a cliff. We plummeted, soared, and banked hard to the left and right. Bonnie laughed out loud, her shoulder pressing heavily against mine every time the theater tilted, completely immersed in the chaotic, synchronized illusion of flight.
 
 ### Part 7: Heart Attack Hill
+
+**Date:** 1999-05-15 at 11:30 ET
 
 Stepping out of the heavily air-conditioned fortress of *The Iron Aeronaut* and back into the Virginia sun was like walking headfirst into a physical wall of heat. The humidity was suffocating, hanging in the air like a wet wool blanket.
 
@@ -549,6 +569,8 @@ I pressed my foot on the gas pedal, the car lurching forward onto the scenic tra
 
 ### Part 8: Josephine’s and the Ghost
 
+**Date:** 1999-05-15 at 12:30 ET
+
 The adrenaline from *The Aquitaine Motorway* began to fade the moment we parked the antique cars, rapidly replaced by the sheer physical exhaustion of navigating the Virginia heat. We needed a reset, and in the French section of Brewster Gardens, there was only one logical destination.
 
 "Josephine's," Ashley declared, pointing toward a beautiful, pastel-colored storefront. "It's time for the giant ice cream. We earned it after that hill."
@@ -608,6 +630,8 @@ Beneath the table, completely hidden from the rest of the parlor, she reached ou
 She kept her hand pressed firmly against my leg, actively reinforcing the perimeter, and quietly waited for the ghost to pass.
 
 ### Part 9: The Timber Mill Plunge
+
+**Date:** 1999-05-15 at 12:45 ET
 
 The heavy, grounding pressure of Bonnie’s hand on my knee was exactly the physical anchor my processor needed to reboot.
 
@@ -677,6 +701,8 @@ Ashley collected the glossy 4x6 print, carefully sliding it into the dry plastic
 
 ### Part 10: The Translation in the Grand Hall
 
+**Date:** 1999-05-15 at 13:30 ET
+
 We stepped out of the exit queue for *The Timber Mill Plunge*, our clothes dripping wet from the final drop, and immediately looked up.
 
 The sweltering, oppressive Virginia morning sun was gone. Over the last thirty minutes, the sky had bruised into a deep, heavy charcoal. The thick humidity had suddenly dropped by ten degrees, replaced by a sudden, cool breeze that carried the distinct, metallic scent of ozone.
@@ -744,6 +770,8 @@ This time, I didn't need to ask Ashley for a translation, and I didn't panic at 
 I just smiled, lightly tracing my thumb over her knuckles, and held her hand right back. The storm was raging outside, but inside the Grand Hall, my reality had completely shifted. We were officially a couple.
 
 ### Part 11: The Speed of Fright
+
+**Date:** 1999-05-15 at 14:30 ET
 
 The violent, torrential downpour outside the stained-glass windows of the *Bavarian Grand Hall* eventually exhausted itself, slowing to a light, misty drizzle. The live brass band finished their set, and the massive crowd of teenagers sheltering inside the dining hall began to slowly filter back out into the park.
 
@@ -815,6 +843,8 @@ As the floor of the station mechanically dropped away, leaving our feet dangling
 
 ### Part 12: The Siege Engine
 
+**Date:** 1999-05-15 at 15:15 ET
+
 We walked down the exit ramp of *The Shadow Wolf*, our legs slightly wobbly from the intense, swinging drops, but our adrenaline was absolutely peaking. The post-storm energy of the park was incredible. The oppressive humidity was completely gone, leaving behind a cool, vibrant spring afternoon.
 
 "Okay," I said, looking at the park map in my head. "We are officially out of Germany. Next stop is the Italian sector."
@@ -874,6 +904,8 @@ Sitting in the exact center of the bench, the math of my existence felt absolute
 The Base Camp perimeter hadn't been breached by romance. It had successfully expanded to protect it. For the first time in my life, the ghost of the Dojang was completely silent, drowned out entirely by the triumphant, deafening roar of *The Siege Engine*.
 
 ### Part 13: The Imperial Rapids
+
+**Date:** 1999-05-15 at 16:45 ET
 
 When we finally stumbled off *The Siege Engine*, our throats were completely raw from the screaming contest, but we were absolutely victorious.
 
@@ -963,6 +995,8 @@ I helped Bonnie unbuckle our shared seatbelt, and with Ashley stepping onto the 
 
 ### Part 14: The Sovereign Palace Theater
 
+**Date:** 1999-05-15 at 17:30 ET
+
 The walk away from *The Imperial Rapids* was soundtracked entirely by Bonnie's exaggerated, dramatic complaints.
 
 "I cannot believe I fell for that," Bonnie grumbled, crossing her soaking wet arms over her chest and glaring at the pavement. She was doing her absolute best to maintain a fierce, angry pout, but the corners of her mouth kept twitching. "I was literally doing the physics in my head, trying to figure out how they built a seventy-foot drop under the midway. You guys are evil."
@@ -1032,6 +1066,8 @@ Bonnie gave my waist one last, reassuring, deep-pressure squeeze before letting 
 I took a deep breath, manually forcing my tired legs to hold my own weight. I was freezing, my muscles ached, and my sneakers were completely waterlogged. But as I grabbed my own garment bag and headed toward the boys' locker room, I had never felt more secure. The perimeter was holding.
 
 ### Part 15: The Missing Variable
+
+**Date:** 1999-05-15 at 18:15 ET
 
 The backstage wings of the *Sovereign Palace Theater* were loud, cramped, and smelled heavily of brass polish and nervous middle schoolers. Through the heavy velvet curtains, the muffled, booming sounds of a different school’s marching band echoing through the main auditorium served as a constant reminder of the ticking clock.
 
@@ -1109,6 +1145,8 @@ I leaned back in my metal chair, grabbing my mallets from my stick bag. The Doja
 
 ### Part 16: The Flawless Equation
 
+**Date:** 1999-05-15 at 19:00 ET
+
 "Morrison Middle School, you are up! Go, go, go!" the stage manager barked, waving a glowing orange flashlight toward the wings.
 
 The heavy, black acoustic curtains were pulled back, revealing the massive, open-air stage of *The Sovereign Palace Theater*. Stepping out from the cramped backstage hallway and into the cool, post-storm evening air was a massive relief. The amphitheater was cavernous, its stone seating bowl completely packed with parents, tourists, and other middle school bands waiting their turn.
@@ -1169,6 +1207,8 @@ As the heavy velvet curtains closed behind us, cutting off the noise of the crow
 
 ### Part 17: The Mathematics of Victory
 
+**Date:** 1999-05-15 at 20:30 ET
+
 By the time the sun fully set and the massive amphitheater lights of *The Sovereign Palace Theater* flared to life, my internal processor was completely, blissfully offline.
 
 The adrenaline reserves that had carried me through the performance had entirely burned out, leaving behind a heavy, bone-deep exhaustion. The hundreds of middle schoolers who had performed throughout the day were now packed into the stone seating bowl of the theater, waiting for the judges to finalize the scores.
@@ -1228,6 +1268,8 @@ I let my head fall back onto Bonnie's shoulder, my eyes slipping closed as the c
 The Old World of middle school had been chaotic and exhausting, but as we sat in the cool Virginia night holding our Superior rating, the perimeter was entirely, permanently secure.
 
 ### Part 18: The Expansion of the Perimeter
+
+**Date:** 1999-05-15 at 22:00 ET
 
 The yellow school buses idled in the parking lot of *The Sovereign Palace Theater*, their heavy diesel engines vibrating against the cool night air. The post-competition adrenaline had completely vanished, leaving forty eighth-graders in a state of absolute, heavy exhaustion.
 
@@ -1327,6 +1369,8 @@ I squeezed Rachel's hand, a profound, overwhelming wave of relief washing over m
 
 ### Part 19: The Immutable Geometry
 
+**Date:** 1999-05-15 at 22:30 ET
+
 The final three blocks down Morrison Street and onto Delaney Street were a pure, agonizing test of endurance.
 
 My legs were practically dragging across the concrete, the residual muscle spasticity from my cerebral palsy flare-up making every single step feel like wading through wet cement. Ashley was walking on my left, matching my slow, exhausted pace perfectly, while Rachel kept her hand securely locked in my right hand, acting as a quiet, steady tether.
@@ -1394,6 +1438,8 @@ I closed my eyes, and the Old World faded away into the safety of the dark.
 ## Chapter 3: The Sunday Perimeter – Sunday, May 16, 1999
 
 ### Part 1: The Sleepover Calculation
+
+**Date:** 1999-05-16 at 07:15 ET
 
 The transition from deep, exhausted sleep back to consciousness was a slow, agonizingly stiff process.
 

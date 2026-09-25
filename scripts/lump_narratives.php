@@ -117,11 +117,41 @@ foreach ($narrativeDirs as $narrativeDir) {
                 
                 echo "      -> [Part] Appending: {$part['file_path']}\n";
                 
-                // Heading 3: The Part Name 
-                $masterContent .= "### " . strip_tags($part['part_title']) . "\n\n";
-                
                 // Ingest the individual part's markdown
                 $partContent = file_get_contents($filePath);
+                
+                // Extract YAML Frontmatter
+                $title = '';
+                $date = '';
+                $time = '';
+                $timezone = '';
+                
+                if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
+                    $frontmatter = $matches[1];
+                    if (preg_match('/^title:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $title = trim($m[1]);
+                    if (preg_match('/^date:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $date = trim($m[1]);
+                    if (preg_match('/^time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1]);
+                    if (empty($time) && preg_match('/^start_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1]);
+                    if (preg_match('/^timezone:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $timezone = trim($m[1]);
+                }
+                
+                // Single source of truth for Title
+                $partNum = $part['part_num'] ?? '';
+                $partTitleDisplay = $title ? "Part {$partNum}: {$title}" : strip_tags($part['part_title']);
+                
+                // Heading 3: The Part Name 
+                $masterContent .= "### " . $partTitleDisplay . "\n\n";
+                
+                if (!empty($date)) {
+                    $datetimeStr = "**Date:** " . $date;
+                    if (!empty($time)) {
+                        $datetimeStr .= " at " . $time;
+                    }
+                    if (!empty($timezone)) {
+                        $datetimeStr .= " " . $timezone;
+                    }
+                    $masterContent .= $datetimeStr . "\n\n";
+                }
                 
                 // Regex to strip the individual YAML Frontmatter block
                 $partContent = preg_replace('/^---[\s\S]*?---\s*/', '', ltrim($partContent));

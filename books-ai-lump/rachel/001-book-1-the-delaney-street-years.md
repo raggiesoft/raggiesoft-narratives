@@ -9,6 +9,8 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Sensory Avalanche
 
+**Date:** 1990-12 at 09:00 ET
+
 The house on Delaney Street vibrated with the frantic, overlapping energy of a Saturday morning cartoon. The bright, chaotic synthesizer intro of the *Puppet Pals* theme song played on a loop from the television, battling against the noise of the crowded room.
 
 Christmas meant the Virginia Beach house was suddenly overflowing with extended family. My cousin Janette, who was two years older than me, tried to organize the chaos. Her younger sisters, Maria—who was exactly my age—and Katherine, who was just three, tore across the carpet. With my older sister Jess and our toddler sister Rachel added to the mix, the living room felt less like a house and more like an active containment zone for little kids.
@@ -36,6 +38,8 @@ Maria dropped the Light-Blaster on the carpet and leaned over my shoulder to wat
 ## Chapter 2: The Lower Bunk (December 22nd, 1993)
 
 ### Part 1: Sanctuary
+
+**Date:** 1993-12-22 at 21:30 ET
 
 The Delaney Street house was not built to hold this much noise.
 
@@ -73,6 +77,8 @@ It was a perfectly symbiotic system. Her tight, silent hugs grounded the frantic
 
 ### Part 2: The New Arrangement
 
+**Date:** 1993-12-22 at 22:30 ET
+
 The logic the adults had tried to enforce earlier that evening was purely traditional: boys with boys, and girls with girls. Since all three bedrooms were grouped together on the second floor, the geographical math made sense to Mom and Dad. Joey was a boy, I was a boy, therefore Joey belonged in my room.
 
 The problem was that nobody had bothered to ask me.
@@ -104,6 +110,8 @@ I let my eyes drift shut. Let Joey have the room down the hall. I had found a ne
 ## Chapter 3: The Morning After (December 23rd, 1993)
 
 ### Part 1: The Discovery
+
+**Date:** 1993-12-23 at 07:00 ET
 
 Morning in the Delaney Street house began with the heavy, thudding footsteps of adults navigating the hallway.
 
@@ -147,6 +155,8 @@ I didn't say anything back, but I let out a long, shaking breath of relief. Jess
 
 ### Part 2: The Breakfast Table
 
+**Date:** 1993-12-23 at 09:00 ET
+
 By nine o'clock on the morning of December 23rd, the kitchen and dining room of the Delaney Street house had reached critical mass.
 
 Aunt Janet and Uncle Frank had just walked through the front door, bringing my cousins Maria, Katherine, and Janette with them. They were immediately followed by my maternal grandmother, Grandma Loretta. When you added them to Uncle Eddy, Aunt Chris, Dad’s mother Grandma Helen, Aunt Betsy, and Joey, the math was completely unmanageable. There were sixteen people crammed into a space designed for five, and every single one of them seemed to be talking at the exact same time.
@@ -182,6 +192,8 @@ Rachel didn't loosen her grip by a single millimeter, and I didn't sit up straig
 But Jessica did. And as long as Rachel kept squeezing my arm, we were going to survive the morning.
 
 ### Part 3: Emerald Creek Mall
+
+**Date:** 1993-12-23 at 13:00 ET
 
 Moving sixteen people from Delaney Street to Chesapeake was a logistical nightmare that required a caravan of four separate cars. When we finally pulled into the massive, sprawling parking lot of the Emerald Creek Mall, the sheer volume of vehicles made it clear that we were walking into a warzone. It was December 23rd. The entire city of Chesapeake was doing their last-minute holiday shopping.
 
@@ -229,6 +241,8 @@ We were still surrounded by the overwhelming noise, the bright lights, and the s
 
 ### Part 4: The Doll Aisle
 
+**Date:** 1993-12-23 at 13:15 ET
+
 The physical relief of walking away from the massive, disorganized family circle was immediate. As Jessica steered us down the wide concourse, the oppressive weight of Uncle Eddy’s booming voice and Dad’s strict traffic directions faded into the general, ambient roar of the mall.
 
 We stayed close to the storefronts, moving in a tight, three-person formation. Rachel still had my hand caught in a vice grip, her shoulder pressed firmly against my ribs, while Jessica walked just a half-step ahead of us, carving a path through the frantic crowds of last-minute shoppers.
@@ -263,6 +277,8 @@ We were surrounded by pink plastic and mall chaos, but for the first time all da
 
 ### Part 5: The Neon Quarter
 
+**Date:** 1993-12-23 at 13:45 ET
+
 The Emerald Creek Mall food court was a vast, echoing cavern of clattering plastic trays, scraping metal chairs, and the overwhelming smell of greasy fries and baked pretzels. It was the designated meeting point for the entire extended family, which meant it was the absolute last place we wanted to be.
 
 Jessica didn't even slow down as we approached the seating area. She steered us right past the rows of crowded tables, aiming for the far end of the food court near the heavy steel doors of the street elevator.
@@ -294,6 +310,8 @@ Rachel didn't speak, but she slowly reached her free hand out toward the glowing
 I wrapped my hand around the red plastic ball of the joystick. The bright, 8-bit maze lit up the screen in front of us. Behind me, the mall was a warzone of holiday stress, but right here, bathed in the warm glow of the cathode-ray tube, the universe made perfect, mathematical sense. Rachel’s hand hovered over the button, waiting for my signal. We were safe in the dark, letting the machines drown out the rest of the world.
 
 ### Part 6: Not Proper
+
+**Date:** 1993-12-23 at 14:30 ET
 
 The heavy brass tokens eventually ran out, and Jessica signaled that our time in the quiet, mechanical sanctuary of The Neon Quarter was over.
 
@@ -357,6 +375,8 @@ Jessica flashed me a subtle, triumphant smirk. The adults had tried to enforce t
 
 ### Part 7: The Bantam Workaround
 
+**Date:** 1993-12-23 at 15:15 ET
+
 The aftermath of Joey’s food court tantrum meant the massive family shopping trip was officially aborted. The logistics of getting sixteen people back to Delaney Street required splitting up again. Mom, Uncle Eddy, and Aunt Janet took the cousins and the grandmothers in the larger sedans, leaving Dad to transport me and my sisters in the truck.
 
 Dad’s truck was a dark red 1989 Izumi Bantam. It was a boxy, light-duty Japanese import with a manual stick shift and absolutely zero frills. The cab consisted of a single, narrow bench seat designed for two, maybe three, average-sized adults.
@@ -418,6 +438,8 @@ Dad gripped the steering wheel, his jaw clenched, staring straight ahead at the 
 We rode the rest of the way home squished together on the middle bench, completely safe, yelling our sanctioned bad words over the roar of the Izumi Bantam's engine.
 
 ### Part 8: The Father's Perspective
+
+**Date:** 1993-12-23 at 15:30 ET
 
 Dad kept his eyes locked on the road, his jaw tight as he steered the Izumi Bantam out of the sprawling mall parking lot, making a sharp right onto River Birch Run.
 

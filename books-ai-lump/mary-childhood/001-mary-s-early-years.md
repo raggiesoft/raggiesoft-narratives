@@ -9,6 +9,8 @@ series: ""
 
 ### Part 1: High Command
 
+**Date:** 2009-10-17 at 14:15
+
 The rain lashed heavily against the single-pane windows of their modest, cramped living room, but Mary barely heard the storm. The worn, braided rug stretching between the faded couch and the television stand had been completely transformed into an active, high-stakes battlefield.
 
 At seven years old, Mary sat cross-legged in the center of the rug, completely enveloped by the warm, safe presence of her two older brothers. The house was small, with low ceilings and creaky floorboards that stood in stark contrast to the sprawling, ostentatious McMansions going up in the wealthier suburbs, but to Mary, it was an absolute sanctuary.
