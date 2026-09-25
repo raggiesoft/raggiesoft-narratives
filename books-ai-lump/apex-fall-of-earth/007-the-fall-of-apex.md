@@ -7,7 +7,7 @@ series: ""
 
 ## Checkmate
 
-### The Sovereign’s Hubris – Tuesday, May 2, 2051 – 08:00 (Standard Galactic Time)
+### Part 1: The Sovereign’s Hubris – Tuesday, May 2, 2051 – 08:00 (Standard Galactic Time)
 
 High Director Kael was not a man who waited.
 
@@ -95,7 +95,7 @@ Down in the CIC, Wyatt set his coffee mug down. He wasn't a minimum-wage grunt a
 
 From deep within the hidden, fifty-meter-tall alien pine forests, ten blinding streaks of anti-matter tore upward into the sky, slamming directly into the exposed, completely undefended underbelly of Kael’s trapped empire.
 
-### The Geneva Standard – Tuesday, May 2, 2051 – 08:05 (Standard Galactic Time)
+### Part 2: The Geneva Standard – Tuesday, May 2, 2051 – 08:05 (Standard Galactic Time)
 
 The Combat Information Center was completely silent, save for the low, rhythmic thrum of the geothermal reactors feeding power to the defense grid.
 
@@ -187,7 +187,7 @@ She gave a single, firm nod. "Good rules. We follow them."
 
 The Sentinel drones were closing in on the crash site. The High Director of the Apex Megacorporation was about to wake up in a world where his imperial authority meant absolutely nothing, completely at the mercy of a moral code he didn't even know existed.
 
-### The Extraction – Tuesday, May 2, 2051 – 08:30 (Standard Galactic Time)
+### Part 3: The Extraction – Tuesday, May 2, 2051 – 08:30 (Standard Galactic Time)
 
 The northern temperate forest of Planet Eden was completely silent, save for the crackle of burning durasteel and the hiss of superheated coolant venting into the rich, damp soil.
 
@@ -249,7 +249,7 @@ Following the strict, unshakeable rules of the Administrator, the Sentinel drone
 
 High Director Kael had come to Planet Eden to conquer ghosts. Instead, he was being carried back to their bunker, fast asleep, about to wake up stripped of his empire and completely bound by an ancient Earth law he couldn't even comprehend.
 
-### The Laws of War – Tuesday, May 2, 2051 – 08:45 (Standard Galactic Time)
+### Part 4: The Laws of War – Tuesday, May 2, 2051 – 08:45 (Standard Galactic Time)
 
 While the automated Sentinel drones silently hauled the unconscious Sovereign of Acheron through the dense alien pine forest toward the Sub-Level 5 holding cells, Wyatt Colton was already back on the residential level, executing his most important duty of the morning.
 
@@ -341,7 +341,7 @@ Sarah’s face broke into a massive, brilliant smile. She reached out, gripping 
 
 The Vanguard was briefed. The moral high ground was completely secured. And Wyatt Colton was finally ready to walk down to Sub-Level 5 and introduce himself to the dictator who had accidentally handed him the greatest life in the universe.
 
-### The Interrogation – Tuesday, May 2, 2051 – 10:00 (Standard Galactic Time)
+### Part 5: The Interrogation – Tuesday, May 2, 2051 – 10:00 (Standard Galactic Time)
 
 The pneumatic elevator hummed a low, steady note as it carried Wyatt and Sarah Colton down to Sub-Level 5.
 
@@ -457,7 +457,7 @@ Kael stumbled backward, hitting the edge of his cot as his knees gave out.
 
 As the heavy blast doors slid shut, sealing the terrified dictator inside, Wyatt and Sarah turned away. The ghosts of the Nevada Test and Training Range were finally, permanently laid to rest. The Colton family didn't even have to lift a finger to watch the Apex empire fall.
 
-### The Handover – Friday, May 5, 2051 – 14:00 (Standard Galactic Time)
+### Part 6: The Handover – Friday, May 5, 2051 – 14:00 (Standard Galactic Time)
 
 Three days after the narrow-beam transmission pierced the vacuum of space, the sky above Planet Eden finally parted.
 
@@ -551,7 +551,7 @@ Sarah laughed, a bright, uninhibited sound that echoed freely across the empty p
 
 They turned their backs on the sky, walking hand-in-hand toward the camouflaged entrance of their mountain fortress. The universe was finally safe, and it was time to go back to being a family.
 
-### The Classified Intel – Friday, May 5, 2051 – 14:15
+### Part 7: The Classified Intel – Friday, May 5, 2051 – 14:15
 
 The heavy, brushed-steel blast doors of the primary hangar hissed shut, sealing the mountain fortress behind Wyatt and Sarah Colton.
 
@@ -633,7 +633,7 @@ Wyatt let out a booming, chest-deep laugh, pushing himself up off the floor. He 
 
 ## The Trial of the Century
 
-### The Government-in-Exile – Monday, September 18, 2051 – 09:00 (Standard Galactic Time)
+### Part 1: The Government-in-Exile – Monday, September 18, 2051 – 09:00 (Standard Galactic Time)
 
 The mahogany-paneled library of The Sanctuary was perfectly quiet, but the atmosphere was buzzing with an intense, electrified anticipation.
 
@@ -693,7 +693,7 @@ In the library on Planet Eden, Wyatt gave Sarah a firm, reassuring nod.
 
 "Aria," Wyatt commanded. "Drop the cloaking algorithm on the subspace tether. Put us in the room."
 
-### The Star Witnesses – Monday, September 18, 2051 – 09:30
+### Part 2: The Star Witnesses – Monday, September 18, 2051 – 09:30
 
 Inside the *UNS Citadel* courtroom, a brilliant column of blue quantum light erupted directly beside the Prosecutor’s podium.
 
@@ -775,7 +775,7 @@ Wyatt let out a deep, booming laugh, the heavy weight of the trial instantly eva
 
 Wyatt offered his hand to Sarah, pulling her up from the sofa. They walked out of the library, following their daughter down the hall. The universe outside their shield was rebuilding, but inside the mountain, the Colton family had work to do.
 
-### The Fab-Foundry Apprentice – Tuesday, September 19, 2051 – 10:00 (Standard Galactic Time)
+### Part 3: The Fab-Foundry Apprentice – Tuesday, September 19, 2051 – 10:00 (Standard Galactic Time)
 
 The heavy, brushed-steel doors of the pneumatic elevator hissed open, revealing the massive, cavernous expanse of the Fabrication Foundry.
 
@@ -861,7 +861,7 @@ The massive molecular 3D printers at the back of the foundry hummed to life, blu
 
 The Colton family stood together in the warm, ozone-scented air of the industrial shop, watching the machine work. The trial was over. The past was buried. And the family unit had never been stronger.
 
-### The Verdict and the Vault – Friday, January 12, 2052 – 09:00 (Standard Galactic Time)
+### Part 4: The Verdict and the Vault – Friday, January 12, 2052 – 09:00 (Standard Galactic Time)
 
 The sprawling, mahogany-paneled library of the estate was perfectly still, but the air above the massive holographic glass table was electric.
 
@@ -971,7 +971,7 @@ She was right. The Colton family wasn't just a household; it was the foundationa
 
 Sarah smiled, leaning her weight against his side as they watched their children play in the sunlight. The trial was over, the galaxy was locked out, and their beautiful, beautifully chaotic family was exactly where they were supposed to be.
 
-### The Sentinel Treaty – Monday, April 8, 2052 – 14:00 (Standard Galactic Time)
+### Part 5: The Sentinel Treaty – Monday, April 8, 2052 – 14:00 (Standard Galactic Time)
 
 The sprawling, sunlit living room of the mountain estate was a picture of absolute, unshakeable tranquility.
 
@@ -1059,7 +1059,7 @@ As the Vanguard disappeared down the hall, Wyatt wrapped his arms securely aroun
 
 ## The Architects of Eden
 
-### The Healing Room – Monday, May 20, 2052 – 14:00 (Standard Galactic Time)
+### Part 1: The Healing Room – Monday, May 20, 2052 – 14:00 (Standard Galactic Time)
 
 The automated medical bay on Sub-Level 1 was bathed in a warm, golden-amber light. The quiet, rhythmic strumming of acoustic guitar music played softly from the ceiling’s high-fidelity acoustic array.
 
@@ -1093,7 +1093,7 @@ Wyatt leaned over, burying his face in Sarah’s damp hair, his massive arms wra
 
 "Molly and Claire," Sarah smiled through her tears, kissing the top of Molly's dark, downy head, and then Claire's. "Welcome to Eden, girls."
 
-### The Diplomat's Detail – Thursday, May 23, 2052 – 09:30
+### Part 2: The Diplomat\'s Detail – Thursday, May 23, 2052 – 09:30
 
 Three days later, the residential living room was operating at peak morning efficiency.
 
@@ -1137,7 +1137,7 @@ Jack looked up at his parents, his hands held perfectly still by his two new sis
 
 "They're very safe, Jack," Wyatt smiled, leaning back into the sofa with a massive, swelling pride. "You're a great big brother."
 
-### The First Blueprint – Friday, May 24, 2052 – 20:00
+### Part 3: The First Blueprint – Friday, May 24, 2052 – 20:00
 
 The estate was beautifully quiet. The six children were finally asleep in the massive, sprawling nursery—the Vanguard tangled together on their floor-level Mega-Bed, and Jack sleeping deeply in his standard toddler bed, parked right next to the twin's shared bassinet.
 
@@ -1185,7 +1185,7 @@ Wyatt looked at the hologram, thinking of the long, terrifying journey that had 
 
 "Genesis," Wyatt rumbled, wrapping his arm securely around his wife. "We call it Genesis."
 
-### The History Lesson – Saturday, July 13, 2052 – 10:00 (Standard Galactic Time)
+### Part 4: The History Lesson – Saturday, July 13, 2052 – 10:00 (Standard Galactic Time)
 
 The sprawling, sage-green nursery on the residential level had naturally divided itself into two distinct, highly functional operational zones.
 

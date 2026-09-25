@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## Standing Tall
 
-### Delivery Day
+### Part 1: Delivery Day
 
 The air in Alex and Chloé's apartment across the street from CCHR was thick with an almost unbearable anticipation. It was a crisp autumn day, nearly a year after the family had made the decision to pursue new equipment for Alex. A year of specialists, evaluations, mountains of paperwork, and a grinding, persistent battle with the insurance company had all led to this moment. Today was Delivery Day.
 
@@ -47,7 +47,7 @@ When they pulled back, Alex didn't let go. He kept one arm around Megan's should
 
 He stood there, strong and tall, a fortress of love on either side of him, holding the two most important women in the entire world. From the sofa, their four parents watched, openly weeping with joy. This was it. This was the first moment of the rest of his new, unburdened life.
 
-### The First Morning
+### Part 2: The First Morning
 
 The morning after Delivery Day, Alex woke before the alarm, his mind buzzing with new possibilities. He looked around their small apartment, a space he had only ever been able to navigate, not truly interact with. He decided to do something he had never been able to do in his entire life: make a warm drink for his two favorite women.
 
@@ -85,7 +85,7 @@ For the next half-hour, their small kitchen was filled with the sounds and smell
 
 They ate at their small kitchen table, the stacks of slightly misshapen but delicious pancakes a testament to their morning's adventure. It was more than just breakfast. It was a new frontier. It was the first of a thousand small, wonderful, everyday moments of partnership that his new freedom had just unlocked. It was the first meal they had ever truly made together.
 
-### The First Movie Night
+### Part 3: The First Movie Night
 
 Sunday evening settled over their small apartment, a quiet, comfortable end to a revolutionary weekend. The excitement of Alex's new freedom still hummed in the air. After a simple dinner of leftovers, Alex wheeled over to the small shelf where they kept their modest collection of DVDs.
 
@@ -121,7 +121,7 @@ He finally hit "Play." The opening credits rolled, the sound from his new integr
 
 It was more than just a movie. It was a celebration. It was the simple, universal pleasure of sharing a story, made possible by a new piece of technology. But more than that, it was the quiet joy of being able to read the words on the screen, of drinking a glass of milk without fear, of being safe and comfortable in their very own home, surrounded by the two women who loved him more than anything. It was a simple pleasure, but for them, it was revolutionary.
 
-### A New Day on Campus
+### Part 4: A New Day on Campus
 
 The next morning, after a shared breakfast, their paths diverged for the first time since Delivery Day. Megan, ever the responsible professional, headed off to her in-office day at work. Alex and Chloé, meanwhile, walked across the street to the CCHR campus, the world feeling tangibly different. The crisp autumn air was the same, the familiar red brick of the academic buildings was unchanged, but Alex moved through it all with a new, quiet confidence. He was no longer just navigating the campus; he was an active participant in it, his new power chair gliding silently and effortlessly over the pavement.
 
@@ -157,7 +157,7 @@ They settled in, spreading their books and notes across the wide, sun-drenched t
 
 ## The Final Semester
 
-### The Power Couple of Campus
+### Part 1: The Power Couple of Campus
 
 The CCHR Virginia Beach campus in the spring of 2006 was Alex and Chloé's kingdom. Alex, now twenty, was a master of his "Quantum Glide" power chair, navigating the busy hallways of the Advanced Technology Center with an effortless confidence that turned heads. His new communicator was lightning-fast. Chloé was his equal partner, walking beside him, their rhythm perfectly in sync.
 
@@ -197,7 +197,7 @@ ONLY EVER YOURS.
 
 She smiled back, a private, perfect communication in their shared, quiet kingdom.
 
-### An Unwavering Bond
+### Part 2: An Unwavering Bond
 
 A few days later, the roles were reversed. It was a busy afternoon at the CCHR library, and Chloé was expertly managing a small crowd at the circulation desk. A tall, athletic-looking young man named Mark, who was in her World Literature class, approached the counter, looking flustered.
 
@@ -227,7 +227,7 @@ DON'T GET COCKY, MILLER. YOU'RE THE ONLY ONE ON THE TEAM.
 
 He looked up and met her gaze across the library. His synthesized voice wasn't needed. The look they shared was a private, perfect communication, a silent affirmation of a bond that was so complete, so absolute, that the rest of the world simply faded away.
 
-### A Healthy Friendship
+### Part 3: A Healthy Friendship
 
 The CCHR café in the Kempsville Building was packed with the lunchtime rush, a loud, chaotic, and happy hum of student life. Alex, Chloé, and Sarah Jenkins had managed to snag a corner booth, their trays laden with sandwiches and bottled sodas. The conversation was easy and animated, a comfortable mix of complaining about their shared statistics professor and making plans for the weekend.
 
@@ -253,7 +253,7 @@ Sarah watched them, her heart full. "You two are the real deal," she said softly
 
 The three of them resumed their conversation, paying Jessica and Mark no mind at all. They were in their own world, a strong, healthy, and happy triangle of friendship, completely unbothered by the gossip or judgment of those who couldn't possibly understand the depth of the trust they shared.
 
-### The Final Push
+### Part 4: The Final Push
 
 The final weeks of the spring semester were a blur of intense focus. The excitement of their NPU acceptance letters gave way to the demanding reality of their final capstone projects. Their apartment's second bedroom, now a fully functional three-person office, became their command center.
 
@@ -275,7 +275,7 @@ The professors were stunned. It was a working proof-of-concept that went far bey
 
 He and Chloé both received perfect scores on their final projects, not just for the quality of their work, but for the deep, personal passion that had so clearly fueled it. They weren't just finishing their degrees; they were announcing to the world who they were and what they were capable of. They were ready for the next stage.
 
-### Graduation Day
+### Part 5: Graduation Day
 
 The vast hall of the Tidewater Convention Center buzzed with the energy of a thousand futures about to begin. The air was thick with the scent of hairspray and nervous excitement, all set to the familiar, stately rhythm of "Pomp and Circumstance." For Alex and Chloé, seated amongst the sea of graduates in their identical blue caps and gowns, it was the triumphant culmination of two and a half years of relentless hard work.
 
@@ -309,7 +309,7 @@ They had done it. They had faced down trauma, navigated the challenges of colleg
 
 ## The Northern Road
 
-### The Launch
+### Part 1: The Launch
 
 The late July morning on Lisa Court was a study in organized chaos. The brand-new, accessible Holt Wayfarer minivan stood in the Miller driveway, its sliding door open like a welcoming mouth, ready to be filled. This wasn't the final move to Washington—that was still a month away—but the beginning of a final, grand adventure: a two-week "farewell tour" up the coast, culminating in Megan Carter's first-ever trip to Canada.
 
@@ -327,7 +327,7 @@ The goodbyes were a long, loving, and tearful affair.
 
 With a final round of hugs and promises to call, the three of them piled into the van. Chloé was behind the wheel, Megan was in the passenger seat, and Alex was in his secure, locked-down position in the middle, a perfect command center.
 
-### The Journey North
+### Part 2: The Journey North
 
 With a final check and a quiet "Here we go," Megan Carter pulled the van out of the driveway and onto the sleeping streets of Lisa Court. She took the first driving shift. Alex was in his secure, locked-down position in the middle, and Chloé was in the passenger seat, acting as co-pilot. They followed the familiar route from Woods Corner onto Centerville Turnpike, then to Indian River Road, its streetlights casting lonely pools of light in the darkness. Soon, they were merging onto I-64 West. The adventure had truly begun.
 
@@ -355,7 +355,7 @@ Megan took over, and they merged onto the wide, straight expanse of I-91 North. 
 
 A comfortable, anticipatory quiet settled over the group. They were tired, but the journey was almost over. Ahead of them lay the final few hours of driving through the beautiful landscapes of New England and, at the end of it, the unique world of the Vermont-Québec border.
 
-### Bienvenue au Québec (Welcome to Québec)
+### Part 3: Bienvenue au Québec (Welcome to Québec)
 
 The final leg of their journey north felt like a homecoming. As they drove up Interstate 91, the familiar, rolling green mountains of Vermont gave way to the distinct landscape of the Eastern Townships. Chloé, who had taken over driving for this final, symbolic leg, took the exit for Derby Line.
 
@@ -391,7 +391,7 @@ The officer, appreciating the gesture, continued in English. He asked a few stan
 
 The moment the gate lifted and their van rolled onto Canadian soil, a palpable sense of joy filled the vehicle. The arrival at the Leclerc house was a massive, joyous, and loud family reunion. Megan was immediately enveloped in a sea of warm, welcoming hugs and rapid-fire French. Alex and Chloé stayed by her side, acting as her proud, bilingual guides and translators. For Megan, it was a full, wonderful, and slightly overwhelming immersion into the heart of Chloé's world.
 
-### An Aunt's Welcome and a Modern Warning
+### Part 4: An Aunt\'s Welcome and a Modern Warning
 
 Chloé navigated the familiar streets of Stanstead, a fond smile on her face, and pulled the large Holt Wayfarer into her aunt and uncle's driveway. The front door of the cheerful house flew open and Geneviève Leclerc rushed out, her face beaming with pure delight.
 
@@ -421,7 +421,7 @@ Alex, who had been listening intently, typed a response. I REMEMBER, his synthes
 
 The new reality was set. Their visit, unlike the fluid, borderless adventure of their youth, would be confined to one country. But within that country, a week of new memories with family awaited them.
 
-### An Aunt's Advice and a New Itinerary
+### Part 5: An Aunt\'s Advice and a New Itinerary
 
 After the warm, welcoming hugs in the driveway, Aunt Geneviève ushered the three of them into her cozy kitchen, a space that smelled faintly of yeast and cinnamon. As she poured them tall glasses of cold lemonade, she settled at the table with them, her expression full of genuine happiness.
 
@@ -459,7 +459,7 @@ He leaned in, a conspiratorial twinkle in his eye. "Forget 'bonjour'. The most i
 
 The room erupted in laughter. Megan repeated the word, her pronunciation a little clumsy but full of genuine enthusiasm. Lesson One in Québécois French had officially begun.
 
-### A Sweet Discovery
+### Part 6: A Sweet Discovery
 
 After a wonderful breakfast, the three of them said a temporary goodbye to Aunt Geneviève. Back in their Holt Wayfarer, Chloé checked the time on her phone.
 
@@ -507,7 +507,7 @@ They bought a single bag of the Koko-Bons and sat on a nearby park bench. Chloé
 
 It was a small victory, but a deeply satisfying one. Alex finally got to taste a piece of Chloé's Canadian childhood, and Megan got her first real taste of Québec—both the language and the famously illegal chocolate.
 
-### A Walk Through a Changed Town
+### Part 7: A Walk Through a Changed Town
 
 After finishing their Koko-Bons on the park bench, a sense of satisfaction settled over the three of them.
 
@@ -553,7 +553,7 @@ The officer nodded, satisfied. The entire exchange was polite, professional, and
 
 They walked the final few feet and entered the quiet, familiar sanctuary of the library, the tension from the encounter slowly ebbing away. Megan just shook her head, a look of profound, new understanding in her eyes. The black line on the floor was still there, but the invisible line outside was now very, very real.
 
-### One Last Line to Cross
+### Part 8: One Last Line to Cross
 
 After spending a quiet, nostalgic hour in the library, wandering through the stacks and marveling at the black line that so neatly divided their two worlds, it was time to head to the hotel. The three of them exited the stately building back onto the American sidewalk of Caswell Avenue, blinking in the bright afternoon sun.
 
@@ -587,7 +587,7 @@ They walked the last few feet to their Holt Wayfarer, the interaction smooth and
 
 A wave of relief washed over the three of them. After a long day of driving and navigating the new realities of the border, they were finally here. They could unpack, unwind, and truly begin their triumphant return to Chloé's home.
 
-### A Homecoming of the Heart
+### Part 9: A Homecoming of the Heart
 
 The Stanstead hotel room was quiet, a peaceful haven after their long day of travel. The sun had set, and through the window, the familiar lights of Derby Line, Vermont, twinkled just across the invisible line. The three of them had unpacked their bags, the mundane task a comforting ritual.
 
@@ -619,7 +619,7 @@ Chloé laughed softly. "It's safe, Meg. Come on in."
 
 Megan entered, a can of soda in her hand, her expression one of easy, uncomplicated affection. The private, intimate moment was over, and their comfortable, three-person sanctuary was instantly restored. She helped Alex with his evening routine, and a little while later, the three of them were settled in their massive, comfortable king-sized bed. Alex was in the middle, Chloé on one side, Megan on the other, their easy, platonic intimacy a testament to the absolute, unconditional trust they all shared.
 
-### Navigating the City
+### Part 10: Navigating the City
 
 The morning of their first planned day trip to Montréal, Chloé was in her element, a large paper tourist map spread across the bed in their Stanstead hotel room. Megan, looking over her shoulder, pointed to the colorful, spidery lines of the subway system.
 
@@ -641,7 +641,7 @@ Their main destination was the magnificent, twin-towered facade of the Basilique
 
 They were immediately enveloped by a world of breathtaking beauty. The cavernous nave was bathed in a deep, ethereal blue light, reflecting off a ceiling dotted with countless golden stars. The logistical challenges of the city fell away, replaced by the shared, silent awe they felt looking up at the majestic altar. It was a powerful callback to their first visit here as teenagers, a quiet affirmation that while much in their lives had changed, the beauty of this place—and their shared appreciation for it—remained a constant.
 
-### Tensions at the Deli
+### Part 11: Tensions at the Deli
 
 Their second day trip to Montréal was dedicated to the classic tastes and sights. The morning was a triumphant success, from the view at Mount Royal to the fresh bagels from "La Flamme Ronde."
 
@@ -717,7 +717,7 @@ Utterly defeated and completely humiliated, she grabbed her purse and, without h
 
 The moment the door closed behind her, a spontaneous, warm, and deeply appreciative round of applause broke out in the deli, all of it directed at Alex, Chloé, and Megan's table. The waiter just grinned. "*Excellent choix,*" he said to Megan. (Excellent choice.)
 
-### A Quiet Day of Decompression
+### Part 12: A Quiet Day of Decompression
 
 The morning after their second trip to Montréal, a profound quiet settled in their Stanstead hotel room. The previous two days of city noise, bustling crowds, and the intense social energy of the deli had been wonderful, but for Alex, it had come at a cost. He woke feeling the familiar, lingering hum of a sensory and social hangover. He was quiet and withdrawn, the world feeling a little too loud, a little too bright.
 
@@ -749,7 +749,7 @@ OUR TRADITION? Alex's AAC device asked, though he already knew the answer.
 
 After paying for their items, they went directly to their favorite park bench. Chloé tore open the bag of the toy-free chocolate eggs. They sat together, the three of them, eating the creamy, hazelnut-filled chocolates, a familiar and cherished "Canada-only" treat. When they were finished, Chloé bunched up the empty wrapper and tossed it decisively into a nearby Canadian trash can, leaving no evidence to take back across the border. This was simply a small, sweet pleasure they enjoyed one last time before heading back to the United States.
 
-### A Family Farewell
+### Part 13: A Family Farewell
 
 That evening, the Leclerc house was filled with the warm, inviting aroma of a home-cooked meal. The three of them arrived for their farewell dinner, greeted at the door by the entire family. Seated in a comfortable armchair of honor was Chloé’s maternal grandmother, Mémère Madeleine.
 
@@ -783,7 +783,7 @@ YOUR GRANDMOTHER IS WONDERFUL, Alex typed into the quiet of the car.
 
 "She is," Chloé agreed, her voice a little thick with emotion. "She loved both of you." She glanced over at him, a playful smile returning. "Even if you are a Brawlers fan."
 
-### One Last Night in Canada
+### Part 14: One Last Night in Canada
 
 Back in their hotel room in Stanstead, a quiet, bittersweet intimacy settled over the three of them. The warmth and laughter of the farewell dinner with the Leclercs still lingered, mingling with the sad reality that their triumphant return to Canada was drawing to a close. They moved around the room in a comfortable silence, packing away the souvenirs they’d collected and the clothes they had worn, preparing for the journey home.
 
@@ -809,7 +809,7 @@ When she entered, the private, intimate moment was over, and their comfortable, 
 
 A few minutes later, all three of them, clean, comfortable, and deeply tired, were settled in their massive king-sized bed for the last time in Canada. Alex was in the middle, Chloé on one side, Megan on the other. They didn't speak, but their hands found each other in the dark. The day had been full, a perfect blend of family, nostalgia, and the quiet affirmation of their unique partnership. They fell asleep, ready for the final leg of their journey home.
 
-### Echoes on the Line
+### Part 15: Echoes on the Line
 
 The morning of their final full day began with a quick but heartfelt farewell breakfast at the Leclercs' house. The goodbyes were a long, emotional, and tearful affair, with promises to visit again soon. As they were leaving, Tante Geneviève pulled Megan aside for one last, rapid-fire French lesson, much to everyone's amusement.
 
@@ -833,7 +833,7 @@ They got back in the van, the brief, formal encounter a final reminder of the ne
 
 "You know," she said, a note of wistful nostalgia in her voice, "back in the old days, Newport was about as far south as you could go from Stanstead without needing to officially check in with anyone. It was like the edge of the 'one town.' Now, the edge is the door to your own house."
 
-### A Taste of Vermont
+### Part 16: A Taste of Vermont
 
 After their final, formal encounter with the border's new reality, the three of them left Derby Line behind, heading south toward Newport. The short drive was a journey back into a different part of Chloé's memory.
 
@@ -863,7 +863,7 @@ They took their creemees and went for a slow, peaceful stroll along the accessib
 
 It was a perfect, quiet afternoon, a moment of simple joy that stood in stark contrast to the complexities of the border they had just navigated. As the afternoon began to wane, they made their way back to the accessible van, the weariness of their long trip finally beginning to set in.
 
-### A New Dream on the Boardwalk
+### Part 17: A New Dream on the Boardwalk
 
 The late afternoon sun cast a golden glow over the Newport waterfront. The three of them sat together on a bench along the accessible boardwalk, the gentle lapping of Lake Memphremagog a peaceful soundtrack. They had finished their maple creemees, the sweet taste still lingering, a perfect end to their nostalgic tour.
 
@@ -901,7 +901,7 @@ The Lynnwood Discovery and Care Center. The name hung in the air, a perfect, hop
 
 They settled in for the last major drive of their vacation, leaving the border towns and their ghosts of the past behind them. The two-hour journey south on the interstate was quiet and reflective. The week had been a whirlwind of family, memories, and new realities. As they drove towards the setting sun, their hearts were full, carrying with them the sweet taste of a shared maple creemee and the quiet, triumphant birth of a dream they would build together.
 
-### The Long Road Home
+### Part 18: The Long Road Home
 
 The two-hour journey south from Newport to Burlington was quiet and reflective. The week had been a whirlwind of family, memories, and profound, life-altering realizations. As they drove towards the setting sun, they were tired, but their hearts were full, carrying with them the sweet taste of a shared maple creemee and the quiet, triumphant birth of a dream they would build together.
 
@@ -917,7 +917,7 @@ They had left Virginia as three young adults embarking on an exciting vacation. 
 
 ## The Last Summer in Virginia
 
-### Operation: Pacific Northwest
+### Part 1: Operation: Pacific Northwest
 
 The summer of 2006 was not a time for rest. For Alex, Chloé, and Megan, it was the launch sequence. Their small apartment, which had been a sanctuary of healing and study, was transformed into a bustling command center for "Operation: Pacific Northwest."
 
@@ -953,7 +953,7 @@ MEGAN. THAT'S... Alex began to type, his own fingers fumbling with the sheer, wo
 
 The room was buzzing with a new, supercharged energy. Their savings, their planning, their passion projects—it was all part of the same journey. They weren't just two best friends moving across the country anymore. They were a team of three, on the verge of a whole new, incredible adventure, together.
 
-### The Quantum Opportunity
+### Part 2: The Quantum Opportunity
 
 The week after the initial email from the Quantum recruiter was a whirlwind of nervous excitement. Megan’s first video interview was with a friendly, professional recruiter who was clearly impressed with her Magna Cum Laude degree and her articulate, confident demeanor. The call ended with a promising, "We'll be in touch very soon."
 
@@ -983,7 +983,7 @@ It was perfect. It was the Monday after the first week of NPU's fall quarter. It
 
 A whoop of pure, triumphant celebration erupted in their small apartment office. It wasn't just Megan's victory; it was theirs. The last, most important piece of their future had just clicked into place. The three musketeers weren't just moving to Washington. They were moving for a university, a career, and a whole new life, together.
 
-### The Great Commute Debate
+### Part 3: The Great Commute Debate
 
 With Megan's job at Quantum secured, the apartment hunt began in earnest. Their office was a command center, the wall covered with a massive, color-coded map of the greater Seattle area encompassing King, Snohomish, and Pierce counties. The three of them spent hours poring over transit schedules and apartment listings, their mission clear: find a home with the perfect, most efficient bus connection to the NPU campus.
 
@@ -1009,7 +1009,7 @@ He then cross-referenced it with their apartment listings. "And," Chloé added, 
 
 The decision was made. It was a perfect, data-driven conclusion. Snohomish County offered the ultimate trifecta: affordability, accessibility, and, most importantly, the fastest and most efficient commute. Their new home wouldn't just be in Washington. It would be in Lynnwood.
 
-### The Final Summit
+### Part 4: The Final Summit
 
 One Sunday afternoon in early August, the Millers' dining table was once again transformed into a command center. The mission: to finalize the most ambitious road trip of their lives. In two weeks, Alex, Chloé, and Megan would be driving across the country to their new home, and today was about logistics.
 
@@ -1037,7 +1037,7 @@ They worked for hours, a perfect, multi-generational team. James provided the ol
 
 By the end of the afternoon, they had a complete, detailed itinerary. The route was set. The hotels were booked. The plan was no longer a dream; it was a tangible, day-by-day reality. The last summer in Virginia was drawing to a close, and the great, wide-open road of their future was calling.
 
-### The Confirmation
+### Part 5: The Confirmation
 
 While the road trip itinerary was being finalized, the remote apartment hunt continued, a daily ritual of emails, phone calls, and video tours. After several near misses, Alex, with his meticulous research, found it: a listing for a modern, first-floor, two-bedroom unit in a complex called "Cedar Park," located in Lynnwood. On paper, it was perfect.
 
@@ -1073,7 +1073,7 @@ Alex wheeled his chair back from their desk, a look of profound, quiet triumph o
 
 The last, most important piece was in place. Their entire team had a home waiting for them.
 
-### The Last Swim
+### Part 6: The Last Swim
 
 One sun-drenched afternoon in the middle of August, with the date of their departure looming, the three of them made one last pilgrimage. They drove the Holt Wayfarer to the Fairlawn Recreation Center, the beloved, imperfect staple of their shared childhood. Megan wouldn't miss it for the world.
 
@@ -1115,7 +1115,7 @@ Alex gestured with his head down the hall. LET'S CHECK OUT THE ADULT LOUNGE, his
 
 A small smile touched Chloé's lips. He was right. This was a new frontier for them. They walked past the familiar, boisterous sounds of the Youth Lounge and into the quiet, more subdued atmosphere of the Adult Lounge. They found a comfortable spot, ready to wait out the storm, no longer children seeking refuge in the noisy arcade, but three adults, quietly and patiently weathering a storm, together.
 
-### Weathering the Storm
+### Part 7: Weathering the Storm
 
 They went through the routine of changing. Alex, with his newfound confidence, handled the men's locker room by himself, retrieving his main AAC device from his locker. He met Chloé and Megan in the hallway, and they helped him quickly towel-dry his hair as another flash of lightning lit the windows. They then headed down the massive concrete ramp to the first floor.
 

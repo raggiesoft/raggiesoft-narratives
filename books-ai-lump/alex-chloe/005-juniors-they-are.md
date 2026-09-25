@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## The Virtual Solution
 
-### A Compatibility Crisis
+### Part 1: A Compatibility Crisis
 
 The fall semester of their junior year presented a new and frustrating technical hurdle for Alex. The school district, in its slow but steady technological march, had mandated that certain AP-level science and language courses now required the use of specific educational software. The problem was, this software—like the "Quantum Calc Pro" for his AP Physics class and an older but essential "Voice Tutor" for French—was notoriously unstable on his modern, 32-bit Quantum OS XN Professional machine.
 
@@ -17,7 +17,7 @@ DAD, I HAVE A PROBLEM, his AAC device stated one evening. THE REQUIRED SCHOOL 
 
 He then explained his research. THERE'S A PROGRAM CALLED 'KINESIS VIRTUAL ENGINE.' IT LETS YOU BUILD A 'COMPUTER INSIDE A COMPUTER.' I COULD BUILD A PERFECT, STABLE QUANTUM OS 98 MACHINE INSIDE MY OS XN MACHINE. I COULD RUN ALL THE OLDER, INCOMPATIBLE SCHOOL SOFTWARE ON IT WITHOUT ANY PROBLEMS.
 
-### The Justification
+### Part 2: The Justification
 
 James Miller, recognizing both the legitimacy of the problem and the brilliance of his son's solution, knew exactly how to frame it for the insurance company. He drafted a formal letter, co-signed by Alex's AP Physics teacher, requesting a complete "Legacy Software Compatibility Package."
 
@@ -25,7 +25,7 @@ The letter was a masterpiece of "insurance-speak." It argued that, to access his
 
 The package was approved.
 
-### The Unboxing
+### Part 3: The Unboxing
 
 A few weeks later, a package arrived. Alex and Chloé gathered in his room, an air of Christmas morning excitement between them. Inside were not shiny new games, but relics. A shrink-wrapped box containing a stack of 1.44MB floppy disks for Q-DOS and Quantum OS for Workgroups 3.11, and a pristine, jewel-cased CD-ROM for Quantum OS 98 Second Edition.
 
@@ -35,7 +35,7 @@ Alex was in heaven. NO QUANTUM OS ME, he typed with profound, satisfied relief
 
 Chloé just laughed, shaking her head at his nerdy purism.
 
-### A Lesson in Virtualization
+### Part 4: A Lesson in Virtualization
 
 That Saturday became a masterclass. With Chloé watching, completely fascinated, Alex began the setup. "Okay," she said, pulling up a chair. "Explain this to me like I'm not a computer genius. What are you actually *doing*?"
 
@@ -51,7 +51,7 @@ They spent the rest of the afternoon installing the operating systems, Alex pati
 
 ## Spring Break
 
-### Parents Make Plans
+### Part 1: Parents Make Plans
 
 The comfortable chatter around the Miller's dining table, punctuated by the clink of forks against plates as they finished the last of Sophie's excellent lasagna, began to wane. James Miller cleared his throat, sharing a warm, almost conspiratorial look first with Emily, then across the table with Thomas and Sophie Mason. An air of gentle anticipation settled over the room.
 
@@ -133,7 +133,7 @@ Before sleep claimed them, or as they were just relaxing and winding down from t
 
 In these quiet moments of shared space and affection, quick, innocent, platonic pecks on the cheeks or even briefly on the lips would be a natural expression of their love and comfort with one another. These would be akin to the affectionate pecks family members might share – gestures of warmth, reassurance, and deep, uncomplicated affection. There was no romantic tension or awkwardness in these displays; it was simply Alex and Chloé, expressing their unique bond in a way that felt natural and safe to them.
 
-### The Handover
+### Part 2: The Handover
 
 The Saturday morning that marked the beginning of their junior year spring break was a flurry of activity on Lisa Court. Two sets of suitcases stood by the front door of the Miller house, and a palpable sense of travel excitement was in the air—but it wasn't coming from Alex and Chloé.
 
@@ -163,7 +163,7 @@ After a final round of hugs, the four of them piled into a single taxi van bound
 
 A profound, peaceful silence settled over Lisa Court. For the first time, they were truly on their own. No parents, no schedules, no expectations. Just two houses, a week of freedom, and the quiet, unspoken promise of a life they were getting to practice for the very first time.
 
-### A Quiet Domesticity
+### Part 3: A Quiet Domesticity
 
 The first full day of their independence, a bright and sunny Sunday, was dedicated to a grand culinary experiment. They decided to cook a real meal, a proper dinner, not just the simple sandwiches or frozen pizzas that had been their go-to snacks. The mission: Emily Miller's famous lasagna.
 
@@ -179,7 +179,7 @@ THIS IS A CINEMATIC MASTERPIECE, Alex typed with perfect seriousness after a par
 
 It was a simple, cozy day, but the fact that they could do it without interruption, in a quiet house that was entirely their own, made it feel special. They weren't just friends having a sleepover; they were partners, capable of building a life, solving problems, and navigating the world, together.
 
-### MEGAN!!!! (The Chaperone Arrives)
+### Part 4: MEGAN!!!! (The Chaperone Arrives)
 
 Wednesday afternoon brought the moment Alex had been most anticipating all week. Just as planned, Megan Carter's familiar Holt sedan pulled into the Miller driveway. She had come straight from her last class at VDU, a duffel bag and a stack of textbooks in her arms.
 
@@ -271,7 +271,7 @@ Love, Megan
 
 She hit send, a satisfied smile on her face. Her charges were safe. Her cousin was happy. Her part of the mission was a success.
 
-### The Departure and The Reflection
+### Part 5: The Departure and The Reflection
 
 Thursday morning arrived too quickly. The three of them gathered in the Millers' kitchen for breakfast, a meal Megan insisted on making for them before she had to leave. The air was filled with the comforting scent of pancakes and the easy, familiar chatter of people who are completely at home with one another.
 
@@ -295,7 +295,7 @@ Chloé, seeing the look on his face, came and sat on the arm of his wheelchair, 
 
 They sat there for a long time, just watching the empty street, the quiet of the house settling around them. Megan's visit, a wonderful and restorative interlude, was over. Now, it was just the two of them again, left alone with their thoughts and the dawning realization of what this week of "playing house" truly meant for their future.
 
-### The Return
+### Part 6: The Return
 
 Saturday afternoon arrived with a mixture of quiet melancholy and happy anticipation. The week of freedom was over. Alex and Chloé had spent the morning tidying both houses, a final act of responsibility before their parents returned. The silence that had felt so liberating a week ago now felt a little empty.
 

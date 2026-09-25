@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## A Vision Takes Shape
 
-### The Blueprint of Home
+### Part 1: The Blueprint of Home
 
 The aftermath of their winter trip to Quebec lingered in their Lynnwood apartment, not in the form of a humiliating Canadian hockey jersey (which had been ceremoniously folded and stored away), but in a renewed sense of purpose.
 
@@ -43,7 +43,7 @@ A slow, brilliant smile spread across Alex's face. A museum. An educational cent
 
 The Lynnwood Discovery and Care Center now had a clear, focused mission. It wouldn't just be a shelter; it would be a classroom, a place of learning and connection, rooted in the beauty of the Pacific Northwest. Their dream now had a solid foundation.
 
-### A Border of Our Own
+### Part 2: A Border of Our Own
 
 The decision to focus on the Pacific Northwest brought a new clarity to their brainstorming session. Chloé sat back down at the table, a thoughtful expression on her face as she looked at the newly circled "Pacific Northwest" section of their blueprint.
 
@@ -71,7 +71,7 @@ The Lynnwood Discovery and Care Center now had its unique identity. It wouldn't 
 
 ## The Northern Annex
 
-### The Peace Arch Crossing
+### Part 1: The Peace Arch Crossing
 
 The early Saturday morning air was cool and misty as the three of them loaded their weekend bags into their Holt Wayfarer. This trip felt different. Their last journey to Canada had been a high-stakes, emotional family affair. This trip was just for them. It was a weekend getaway, but it was also their first official research mission for the Lynnwood Discovery and Care Center.
 
@@ -93,7 +93,7 @@ The officer nodded, processing their documents. Alex, using his AAC device, adde
 
 After clearing customs, they drove the short distance to the park-and-ride, left their van, and walked to the elevated platform of the Scott Road SkyLink station. For the first time, they were about to explore the Canadian side of their Pacific Northwest home, not just as tourists, but as a three-person team of dreamers, gathering blueprints for their future. The sleek, automated SkyLink train pulled into the station, its doors hissing open, ready to carry them into the heart of the city.
 
-### The Peak of the City
+### Part 2: The Peak of the City
 
 Sunday morning began with a smooth, practiced efficiency. The three of them checked out of their Surrey hotel, loaded their weekend bags into the van, and drove the short distance back to the Scott Road SkyLink Station. After parking their car for the day, they were back on the MVTA system, ready for a day focused on the mountains that form a majestic backdrop to the city.
 

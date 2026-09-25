@@ -7,7 +7,7 @@ series: ""
 
 ## The Orientation
 
-### The 05:30 Alarm
+### Part 1: The 05:30 Alarm
 
 ## August 24, 2006 8 Ocean View Lane - The Twin Wing 05:30 AM
 
@@ -85,7 +85,7 @@ They finished their breakfast, grabbed their bags, and walked out the front door
 
 They headed down the wide, smooth sidewalk of Ocean View Lane, four students (and one grandmother waving from the porch) heading toward the sound of the train whistle.
 
-### The Rainy Day Express
+### Part 2: The Rainy Day Express
 
 ## August 28, 2006 Iron Point Station - Platform 06:10 AM
 
@@ -195,7 +195,7 @@ Leo sat alone in the hallway for a second. Then he turned his chair. He pushed h
 
 He rolled into the elevator, descended to the tunnel, and headed for the Engineering building. He was a Bull. And he was ready to work.
 
-### The Split Screen
+### Part 3: The Split Screen
 
 ## August 28, 2006 09:15 AM
 
@@ -377,7 +377,7 @@ Luna sat down. She packed the silver away. She caught the eye of the girl in the
 
 Luna smiled. The rumor was true. The Fortress had arrived.
 
-### The Vetting Process
+### Part 4: The Vetting Process
 
 ## August 30, 2006 The Foundry Dining Hall - The "Bull Pen" Table 12:10 PM
 
@@ -477,7 +477,7 @@ Olivia squeezed his hand, her ring clicking against his. She looked at Sarah and
 
 The Fortress had expanded. It hadn't let down the drawbridge; it had just issued two new visitor passes.
 
-### The Dialect Shock
+### Part 5: The Dialect Shock
 
 ## August 29, 2006 (Tuesday) Humanities Building - Room 204 02:00 PM
 
@@ -747,7 +747,7 @@ He tapped his **Quantum Communicator**.
 
 "Oh, hen," Elspeth laughed. "You're not ready for *that* lesson."
 
-### The Machine Shop (The M.U.L.E. Begins)
+### Part 6: The Machine Shop (The M.U.L.E. Begins)
 
 ## August 28, 2006 BSU Engineering Building - "The Sandbox" 02:00 PM
 
@@ -823,7 +823,7 @@ Leo rolled out of the shop. He checked his watch. 03:15 PM. Time to head to the 
 
 He felt lighter. He hadn't just designed a rack; he had found his cohort. And Olivia would approve.
 
-### The Audition
+### Part 7: The Audition
 
 ## August 28, 2006 Fine Arts Center - Rehearsal Hall A 04:00 PM
 
@@ -927,7 +927,7 @@ Dr. Sterling tapped the podium.
 
 Luna played the A-440. The orchestra tuned to her sound. She hadn't bought the seat; she had fought for it. And the Fortress held the high ground.
 
-### The Library Rendezvous
+### Part 8: The Library Rendezvous
 
 ## August 28, 2006 Fine Arts Center - The Music Library (Reading Room) 06:10 PM
 
@@ -1009,7 +1009,7 @@ The Fortress was working. It wasn't just a wall anymore; it was a hub.
 
 Stella went back to her C# code. The family was safe. The semester was launched.
 
-### The Safe Harbor
+### Part 9: The Safe Harbor
 
 ## August 28, 2006 Fine Arts Center - The Music Library 06:30 PM
 
@@ -1131,7 +1131,7 @@ Stella walked to the kitchen to start the kettle.
 
 Leo smiled. He parked his chair. He was home.
 
-### The Missing Frequency
+### Part 10: The Missing Frequency
 
 ## August 29, 2006 (Tuesday) Braxton Conservatory - Room 304 04:00 PM
 
@@ -1219,7 +1219,7 @@ Leo tapped the table. Ping. Ping.
 
 He could already hear it. The missing frequency was found.
 
-### The Glass Wall
+### Part 11: The Glass Wall
 
 ## Spring 2007 8 Ocean View Lane - The Twin Wing Friday, 11:30 PM
 
@@ -1391,7 +1391,7 @@ They ate in the quiet kitchen, four people bound by a love that didn't need sex 
 
 ## The Winter Concert
 
-### The Green Room
+### Part 1: The Green Room
 
 ## December 15, 2006 Fine Arts Center - Backstage 07:30 PM
 
@@ -1415,7 +1415,7 @@ Jenna patted Luna’s shoulder.
 
 Luna smiled. She wasn't fighting for the chair anymore. She was the chair.
 
-### The Accessible Box
+### Part 2: The Accessible Box
 
 ## 07:45 PM Fine Arts Center - Concert Hall Box 4 (House Right)
 
@@ -1449,7 +1449,7 @@ Leo watched the waveform on his laptop (he was recording the audio for analysis)
 
 "CALIBRATION COMPLETE," he typed.
 
-### The Vivaldi
+### Part 3: The Vivaldi
 
 ## 08:15 PM Program Item 3: Concerto No. 4 in F Minor, "Winter" Movement II: Largo Soloist: Luna Porter
 
@@ -1503,7 +1503,7 @@ Jenna leaned over. "Show off."
 
 "I learned from the best," Luna whispered back.
 
-### The Snow Convoy
+### Part 4: The Snow Convoy
 
 ## December 15, 2006 Fine Arts Center - Band Room 09:45 PM
 
@@ -1627,7 +1627,7 @@ He looked at Sarah and Amanda, who were looking around the massive, beautiful ho
 
 The Fortress was full. The snow was falling. And the fire was about to be lit.
 
-### The Sanctuary Protocol
+### Part 5: The Sanctuary Protocol
 
 ## December 15, 2006 8 Ocean View Lane - Living Room 11:00 PM
 
@@ -1741,7 +1741,7 @@ Leo rolled his chair closer. He put his hand on Sarah’s knee.
 
 "You're a ghost, Sarah," Stella said gently, tossing the tracking-enabled debit card into the fireplace. "Let him track that."
 
-### The Jurisdiction Trap
+### Part 6: The Jurisdiction Trap
 
 ## December 15, 2006 8 Ocean View Lane - Living Room 11:30 PM
 
@@ -1839,7 +1839,7 @@ She wasn't a fugitive anymore. She was a Defendant in a court that was already o
 
 "Let him come," Sarah whispered, wiping her eyes. "I'm not going back."
 
-### The Station Assault
+### Part 7: The Station Assault
 
 ## December 16, 2006 Iron Point Station - The Iron Kettle 09:30 AM
 
@@ -2069,7 +2069,7 @@ He tapped his Scribe one last time.
 
 They walked out of the shop, leaving the cold coffee and the half-eaten donuts behind, stepping into the crisp winter air as a family that had fought a war before 10:00 AM and won.
 
-### The Flight Risk
+### Part 8: The Flight Risk
 
 ## Monday, December 18, 2006 Iron County Superior Court - Oakhaven 09:00 AM
 
@@ -2167,7 +2167,7 @@ The doors swung shut. The State Prosecutor looked at his empty table, then at th
 
 "It certainly does," Judge Vance said, exhaling slowly. "Court is adjourned."
 
-### The Identity Crisis
+### Part 9: The Identity Crisis
 
 ##### December 18, 2006 Iron County Superior Court - Witness Room 10:30 AM
 
@@ -2235,7 +2235,7 @@ Then she looked at the Fortress crew. The people who had saved her.
 
 "Exactly," Stella said. "Let's go home. We have a guest room with your name on it. Whatever name that is."
 
-### The Identity Protocol
+### Part 10: The Identity Protocol
 
 ## December 18, 2006 Iron County Superior Court - Witness Room 10:45 AM
 
@@ -2339,7 +2339,7 @@ Maya smiled. It was a real smile.
 
 "Hello Leo," she said. "I like the new specs."
 
-### The Plastic Anchor
+### Part 11: The Plastic Anchor
 
 ## December 18, 2006 Rhode Island DMV - Oakhaven Branch 03:45 PM
 
@@ -2415,7 +2415,7 @@ Maya clutched the keys and the license. She had a name. She had a home. And she 
 
 "Clear," Maya agreed.
 
-### The Ghost Tax
+### Part 12: The Ghost Tax
 
 ## December 19, 2006 Coastal Insurance Agency - Oakhaven, RI 09:10 AM
 
@@ -2535,7 +2535,7 @@ She climbed into the driver's seat. She adjusted the mirror. She saw **Maya Port
 
 Maya turned the key. The V8 roared to life. She put it in gear and drove the Fortress out of the lot, leaving Sarah Halloway behind in the database of ghosts.
 
-### The Maiden Voyage
+### Part 13: The Maiden Voyage
 
 ## December 19, 2006 Coastal Insurance Agency - Parking Lot 09:30 AM
 

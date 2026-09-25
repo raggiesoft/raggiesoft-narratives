@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## A New Rhythm
 
-### The A/B Block
+### Part 1: The A/B Block
 
 The first day of their sophomore year at Northwood High felt both comfortingly familiar and strangely new. The hallways were the same, the faces were mostly the same, but the entire structure of their day had been upended. Northwood had switched to a 4-period A/B block schedule, a system of alternating "Purple" and "Gold" days that stretched each class into a long, ninety-minute block.
 
@@ -23,7 +23,7 @@ The third-period bell brought the most welcome change of the new schedule: a ful
 
 As they settled into their usual cafeteria table, the familiar, chaotic energy of the lunchroom felt a little less daunting than it had a year ago. They were no longer the wide-eyed freshmen, but established sophomores. They knew the rules, they knew the people, and they knew, with absolute certainty, to give Mrs. DeMarco a wide and respectful berth.
 
-### The Calendar Keeper
+### Part 2: The Calendar Keeper
 
 A few weeks into their sophomore year, the entire student body of Northwood High was still struggling to adapt to the new A/B block schedule. The alternating "Purple" and "Gold" days, combined with the weekly flip-flop of the rotation, had created a low-grade, school-wide state of confusion.
 
@@ -57,7 +57,7 @@ The three of them set off, the grateful ninth-grader walking beside them as Chlo
 
 ## The Longest Two Weeks
 
-### A Simple Cough
+### Part 1: A Simple Cough
 
 It started with a simple cough. A few weeks into their sophomore year, Alex developed what seemed like a standard autumn cold. It was a dry, persistent cough that he tried to ignore, a minor annoyance in the background of their busy school days.
 
@@ -71,7 +71,7 @@ But by the time the third-period bell rang for their Lunch/Study Hall block, he 
 
 Alex, feeling too tired to argue, simply nodded.
 
-### The Nurse's Verdict
+### Part 2: The Nurse\'s Verdict
 
 The Northwood High clinic was a small, quiet oasis of calm. Nurse Davison, a kind, no-nonsense woman with decades of experience, looked up from her paperwork as Alex and Chloé came in. It was their scheduled time to pick up their daily medications—a routine part of their day.
 
@@ -95,7 +95,7 @@ The word "hospital" landed with a heavy thud in the quiet room.
 
 "I'm calling 911, and then I'm calling your parents," Nurse Davison stated, her actions swift and decisive. "This is an emergency."
 
-### The Hospital
+### Part 3: The Hospital
 
 The next hour was a blur of controlled chaos. The wail of an ambulance, the arrival of paramedics who treated Alex with a calm professionalism, the call to his parents. James Miller and Thomas Mason arrived at the school in a single car, their faces pale with worry. They collected a shaken but resolute Chloé, and the three of them followed the ambulance to the Children's Hospital. En route, they picked up Emily and Sophie, and the five of them arrived at the emergency room, a united, terrified front.
 
@@ -113,7 +113,7 @@ She saw the pain and apology in Emily and James's eyes. They knew what this mean
 
 As his parents disappeared through the double doors, Chloé was left in the waiting room with her own parents, separated from Alex by a wall of hospital policy. For the first time since their friendship began, there was a crisis she couldn't help him face, a fear she couldn't soothe with a hug, a moment where being his best friend wasn't enough.
 
-### A Turn for the Worse
+### Part 4: A Turn for the Worse
 
 The first night was a long, tense vigil. James and Emily rotated in and out of Alex's room, their faces growing more worried with each update they gave to the Masons and a heartbroken Chloé in the waiting area.
 
@@ -133,7 +133,7 @@ The charge nurse looked from the parents' desperate faces to the pale, determine
 
 "Okay," she said, her voice quiet but firm. "One visitor. For fifteen minutes. She must be accompanied by one of you. And she does not leave his side. Let's see if it helps."
 
-### The Anchor
+### Part 5: The Anchor
 
 Walking through the double doors into the pediatric wing felt like stepping into another world. The air was sterile, filled with the quiet beeps and hums of medical equipment. Emily led Chloé to Alex's room.
 
@@ -157,7 +157,7 @@ He gave her hand a weak squeeze in return, his eyes now clear and focused on her
 
 As Chloé walked back out into the hallway, the charge nurse stopped her. "The doctor will want to hear about this," she said, a new level of respect in her voice. "Your fifteen minutes... might have just become a standing order."
 
-### Touch and Go
+### Part 6: Touch and Go
 
 Chloé's presence became a crucial, prescribed part of Alex's medical care. The hospital, recognizing the undeniable calming effect she had on his vital signs, bent their rules. She was allowed in for several short, quiet visits a day, always accompanied by one of his parents. But even her presence couldn't stop the progression of the illness.
 
@@ -169,7 +169,7 @@ The third night in the PICU was the worst. A doctor came out to the waiting room
 
 The words "critical condition" hung in the air, a terrifying, final pronouncement. Chloé felt the floor drop out from under her. She saw Emily Miller let out a choked sob, her body sagging against James. This was it. This was the moment she had been dreading. He was slipping away from them.
 
-### The Road Back
+### Part 7: The Road Back
 
 Through that long, dark night they waited, they clung to each other. And somehow, slowly, miraculously, Alex held on. By morning, the crisis had passed. His fever had broken, and his oxygen levels, while still dangerously low, had stabilized. He wasn't out of the woods, but he had turned a corner.
 
@@ -181,7 +181,7 @@ Those two weeks were a quiet, focused period of healing. Chloé's routine was re
 
 The weight on her was immense—the stress of her own schoolwork, the worry for Alex, and the responsibility of helping him catch up. But she never complained. Every small sign of his returning strength—the first time he was able to sit in his wheelchair for an hour, the first time he made one of his dry, witty jokes on his AAC—was a victory.
 
-### Alex’s Recovery
+### Part 8: Alex’s Recovery
 
 The two weeks following Alex's discharge from the hospital were a period of mandated, quiet quarantine. The doctors had been clear: after a serious bout of pneumonia, his immune system was compromised, and he needed to rest and recover at home, away from the germ-filled hallways of Northwood High.
 
@@ -195,7 +195,7 @@ Finally, after two long, quiet weeks at home, Alex was cleared to return to scho
 
 ## A New Normal
 
-### Re-establishing a Rhythm
+### Part 1: Re-establishing a Rhythm
 
 Returning to Northwood High after a month-long, life-threatening ordeal felt like stepping back into a world that had kept spinning while theirs had stopped. For Alex, the physical toll of the pneumonia was still evident. He was thinner, and his stamina was low; the long push from the drop-off to their first-period class left him more tired than it used to. For Chloé, the emotional weight of the past month had been immense, and seeing Alex back in their shared classes, safe and recovering, was a quiet, profound relief.
 
@@ -213,7 +213,7 @@ Alex was a diligent student, his mind as sharp as ever, but the physical fatigue
 
 Their partnership, always strong, had been forged into something even more resilient by the fire of his illness. Chloé was no longer just his best friend; she was his tireless advocate, his tutor, and his guardian, ensuring he didn't fall behind while his body healed. And for Alex, her unwavering presence was a constant, comforting reminder that he had faced the worst and had not been alone. Together, they were slowly, methodically, re-establishing their rhythm, one textbook and one shared, quiet study session at a time.
 
-### A New Low
+### Part 2: A New Low
 
 The first few weeks back at school were a slow, steady return to normalcy. But the visible reality of Alex's recent illness—his thinner frame, his occasional fatigue—did not go unnoticed by everyone.
 
@@ -245,7 +245,7 @@ Mrs. DeMarco gave them a small, almost imperceptible nod of support before resum
 
 ## The First Crack
 
-### The Blast Radius
+### Part 1: The Blast Radius
 
 It was a crisp Saturday afternoon in October of their sophomore year. The initial chaos of the new A/B block schedule had settled into a familiar rhythm. Alex and Chloé were in Alex's room, a comfortable fortress of shared interests. A complex model spaceship, a multi-week project, sat on a low table between them. Today was the day for the final, most delicate phase: applying the tiny, intricate decals.
 
@@ -273,7 +273,7 @@ A hurt, angry silence fell between them. Chloé slowly stood up, the tiny decal 
 
 Without another word, she turned and walked out of his room, leaving Alex alone with his model, his malfunctioning body, and the terrible, echoing silence of the words he had just unleashed.
 
-### The Cold War
+### Part 2: The Cold War
 
 The rest of the day was a misery of unspoken, icy tension. Chloé went to her own house, and for the first time in over a year, they spent a Saturday afternoon in separate homes. The silence was a crushing weight. She spent the entire time in her room, crying. Being away from Alex, especially after being so terrified of losing him in the hospital, felt fundamentally wrong, a violation of their natural state. But his words had cut her to the core.
 
@@ -285,7 +285,7 @@ They ate dinner in a tense silence with Alex's parents, who could clearly see th
 
 That night, for the first time, their shared bed was a cold and hostile territory. Chloé, her back to Alex, lay rigidly on the far edge of the mattress, her body a wall of hurt and anger. Alex lay on his own side, facing away, his body coiled with regret and a desperate, aching loneliness that was somehow a thousand times worse than the loneliness he had known before her. The space between them was a frozen, empty chasm. He wanted to reach out, to say he was sorry, but the words wouldn't come, his pride and his fear a gag in his throat. It was the most miserable, lonely night of their lives.
 
-### The Reconciliation
+### Part 3: The Reconciliation
 
 The morning after their fight was a landscape of quiet misery. After a tense, silent breakfast, Chloé retreated to the living room, staring blankly out the window. The pain of the disconnection was a physical ache in her chest.
 
@@ -319,7 +319,7 @@ WE'RE OKAY.
 
 She let out a final, watery laugh and pulled him into another hug, this one softer, a gentle reaffirmation. The storm had passed. The silence was broken. And in the quiet, tear-stained aftermath of their first real fight, their bond, having been tested by fire for the first time, had not only survived; it had been forged into something even stronger.
 
-### The Unbreakable Bond
+### Part 4: The Unbreakable Bond
 
 The raw emotion of their reconciliation left them both drained and a little shaky. They migrated from the living room to the comfortable, familiar space of the sofa, a silent, mutual need to be close, to reaffirm the bond that had been so terrifyingly threatened. They sat side-by-side, not speaking for a long time, the simple, profound comfort of their shared presence slowly mending the tear between them.
 
@@ -343,7 +343,7 @@ They sat like that for a long time, the quiet of the house settling around them.
 
 ## A Different Kind of Connection
 
-### The Lab Partner
+### Part 1: The Lab Partner
 
 It was a "Purple Day" in late October, a few weeks after Alex and Chloé had navigated their first major fight and reaffirmed their unbreakable bond. In their second-period Biology class, the teacher, Mrs. Davison, announced a new, month-long project on genetics that would require them to work with an assigned partner.
 
@@ -359,7 +359,7 @@ Alex, who was excellent at the logical puzzles of Punnett squares, offered a sma
 
 Over the next few weeks, they were a surprisingly good team. Hannah was patient, intelligent, and, most importantly, completely unfazed by his AAC device. She would ask him a question and then wait, quietly and respectfully, while he typed his answer. She was genuinely impressed by his quick, logical mind. For Alex, it was a new and pleasant experience to work with someone other than Chloé who treated him with such simple, uncomplicated respect.
 
-### The Study Session
+### Part 2: The Study Session
 
 A week before the project was due, Hannah approached Alex after class. "Hey, Alex," she began, a little nervously. "I was wondering... would you want to get together at the library after school sometime this week to go over our final presentation? I think we're in good shape, but I just want to make sure we're on the same page."
 
@@ -373,7 +373,7 @@ The study session with Hannah was productive. She was organized, and her notes w
 
 He found himself missing Chloé's easy presence, her intuitive understanding of him. He was glad when the study session was over.
 
-### The Invitation
+### Part 3: The Invitation
 
 Their project was a huge success. They got an A, and Mrs. Davison praised their teamwork in front of the class. Alex felt a quiet pride in their work.
 
@@ -387,7 +387,7 @@ Hannah's face fell slightly, a flicker of disappointment in her eyes. "Oh," she 
 
 The implication was clear: she was offering him something that Chloé, as "just a friend," couldn't.
 
-### The Answer
+### Part 4: The Answer
 
 Alex looked from Hannah's hopeful, well-intentioned face to Chloé's protective one. He knew Hannah wasn't being malicious. She was a nice person who simply didn't understand. And he knew, with a sudden, absolute clarity, that he had to be the one to answer.
 

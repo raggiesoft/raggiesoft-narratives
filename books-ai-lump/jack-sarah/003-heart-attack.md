@@ -7,7 +7,7 @@ series: ""
 
 ## Hospital Arrival
 
-### Arrival at the Emergency Room
+### Part 1: Arrival at the Emergency Room
 
 The ambulance dropped Jack off at the emergency department of Crossroads Memorial Hospital, and he was transferred to a hospital gurney. He was taken to a triage room where paramedics began explaining his condition to a nurse. It wasn’t too long before Sarah arrived, her face etched with worry. “Dad is on the way. How are you feeling?” she asked, her hand finding his.
 
@@ -69,7 +69,7 @@ Across the room, Jermaine watched the entire, ugly exchange, a cold fury settlin
 
 Delores was lucky, in that moment, that the family did not dismiss her. She was lucky that Jermaine chose to honor his son’s autonomy over his own powerful impulse to protect him.
 
-### Transfer to Main Hospital
+### Part 2: Transfer to Main Hospital
 
 The transport team arrived with a gurney, and the process of moving Jack from the oversized recliner began. As they prepared to wheel him out, Jack’s eyes found Sarah’s, a silent plea for stability in a world that was spinning out of control. He reached out his hand, not towards Delores, but directly and only to his sister.
 
@@ -85,7 +85,7 @@ As they continued, a new, uglier thought began to worm its way into Delores's mi
 
 Through fluorescent-lit corridors, past bustling nurses' stations, and into a large, echoing elevator, Jack never let go of Sarah’s hand. The simple, physical connection was the only thing keeping his rising panic at bay.
 
-### Rooming It at the Hospital
+### Part 3: Rooming It at the Hospital
 
 Jack was moved by stretcher from the emergency room to the main hospital where a bed was waiting for him. The plan was to do a few more tests to see how the hospital wanted to tackle the cause of this. Delores set herself up on the hospital sofa while Sarah stood at Jack’s side, her mission to comfort her frightened brother. Meanwhile, Delores sighed and checked her phone, functioning as if being in the hospital was an inconvenience to her plans for the day.
 
@@ -111,7 +111,7 @@ A few moments later, a stretcher was brought into the room. Jack was moved onto 
 
 The world became a series of unsettling moments. The doors swished open, and he was wheeled into a room that was dark and cold. Strange, large machines with blinking lights loomed in the corners. A person in scrubs moved him from the gurney to a narrow, hard table. They pulled his gown aside and squeezed a cold, thick goo onto his chest that made him flinch. The person then took a wand-like thing and began pressing it firmly against his skin, moving it around. On a monitor he could see out of the corner of his eye, blurry black-and-white shapes swirled like storm clouds or TV static. He had no idea what he was looking at. The person in scrubs would occasionally say, “Okay, hold your breath,” or “Now, turn onto your left side a little.” The silence was punctuated by the rhythmic beeping of a machine somewhere behind him. It felt like it took forever, and yet no time at all. Finally, the goo was wiped off his chest, and he was moved back to the gurney, feeling dazed and vulnerable. He was brought back to his room while the hospital made plans to have an operating room available for him the next day.
 
-### Back in the Room
+### Part 4: Back in the Room
 
 Back in the quiet of his new room on the cardiac floor, a nurse helped get Jack settled, explaining the various buttons on the bed and the call remote. "The sofa pulls out into a bed for one overnight guest," she mentioned kindly before leaving them to rest. "Just let us know if you need linens".
 
@@ -153,7 +153,7 @@ Jack nodded against his sister’s shoulder, the truth of his own feelings final
 
 With Delores gone and the truth settling in, it was time to get settled into this room, his new home for at least tonight, with the daunting reality of surgery scheduled for tomorrow.
 
-### A Quiet Vigil
+### Part 5: A Quiet Vigil
 
 The emotional storm of the afternoon settled into a quiet, anxious vigil. With Delores gone, the hospital room became a small sanctuary for the Bennett family. Sarah pulled the sofa out into its bed configuration, setting up her space for the night, while Jermaine sat in a chair by his son’s side.
 
@@ -175,7 +175,7 @@ As they were finishing, Sarah’s phone rang. It was Molly. Sarah answered, putt
 
 Jack leaned his head back against the pillow. The thought of seeing the rest of his family, of having his full support system around him, was a comfort. The room was quiet again, but now it was a quiet filled with anticipation for the arrival of the rest of their clan.
 
-### The Family Visit
+### Part 6: The Family Visit
 
 A quiet knock on the door heralded the arrival of the rest of the Bennett clan. Jermaine stepped out into the hall to greet his father, Sam, and his brother, Devin, while Molly and Clare slipped into the room to see Jack. Hospital policy only allowed two visitors at a time, and the family had a quiet, unspoken agreement: to keep Jack comfortable, one of them would always be Sarah, Molly, or Clare.
 
@@ -205,7 +205,7 @@ She took a deep breath. “They’re going to try a procedure called a balloon a
 
 A heavy silence fell over the room, the true gravity of Jack’s situation settled upon them. The stakes were incredibly high. Sarah instinctively reached out and took her brother’s hand again, her grip a silent promise of support in the face of the terrifying day that lay ahead.
 
-### The Night Before Surgery
+### Part 7: The Night Before Surgery
 
 As visiting hours began to wind down, the rest of the family said their loving but worried goodbyes. Grandpa Sam, Uncle Devin, Molly, and Clare each took a moment to squeeze Jack’s hand, offering words of love and encouragement before leaving the room to Jack, Sarah, and Jermaine.
 
@@ -233,7 +233,7 @@ With that final piece of business settled, Jermaine knew it was time to go. He l
 
 Sarah dimmed the main lights in the room, leaving only a soft glow from the lamp by her sofa-bed. She settled in for the night, her laptop open but untouched, her primary focus on the quiet, steady rhythm of her brother’s breathing as they waited for the dawn.
 
-### The Wait for Dawn
+### Part 8: The Wait for Dawn
 
 By 9:00 PM, a heavy exhaustion had settled over the hospital room. Jack, feeling the weight of the day and the dread of the morning to come, knew he needed to at least try to sleep.
 
@@ -257,7 +257,7 @@ The nurse finished, dimmed the lights, and left them in the quiet darkness once 
 
 ## The Day of Surgery
 
-### The Last Meal
+### Part 1: The Last Meal
 
 The first light of February 15th, 2007, filtered into the hospital room, grey and muted. Jack was already awake when a nurse brought in his breakfast tray. Sarah stirred on the sofa bed, awakened by the quiet sounds. In the chaos and terror of the past 24 hours—her brother having a heart attack, the tense confrontation with Delores, the sleepless night—she had completely forgotten what day it was.
 
@@ -303,7 +303,7 @@ The words hit her with the force of a physical blow. Her birthday. It was her 23
 
 He squeezed her hand, a silent thank you passing between them. The plan for Delores was set. Now, all that was left was to face the surgery.
 
-### The Journey to the OR
+### Part 2: The Journey to the OR
 
 The quiet of the morning was broken by a cheerful but firm knock. A hospital transporter entered the room with a gurney, the squeak of its wheels sharp in the tense silence. "Morning, Jack. Time to get you ready to go."
 
@@ -347,7 +347,7 @@ The beeping of the monitors seemed to grow distant.
 
 The edges of his vision softened, and the bright light dissolved into a peaceful, welcoming darkness.
 
-### A Failed Procedure
+### Part 3: A Failed Procedure
 
 The first thing Jack was aware of was a low, steady beeping and the murmur of serious voices. He was floating in a groggy, grey fog, unable to open his eyes.
 
@@ -385,7 +385,7 @@ The doctor left them to process the news. *Close to death.* The phrase echoed in
 
 She was there in an instant, wrapping her arms around him as best she could. The doctor's words crashed over her, and a new, horrifying realization twisted in her gut, sharp and agonizing. *He almost died. He almost died on my birthday.* The thought was a silent scream in her mind. Her birthday present, the one she had asked for just this morning—for him to be okay—had almost been snatched away in the most brutal way imaginable. The day of her birth would have become the day of his death. Her own tears finally fell, hot and heavy, a torrent of grief for a tragedy that had come terrifyingly close to being real. Jack held on to her as tightly as the medical equipment attached to him would allow, burying his face in her shoulder, the terrifying, abstract concept of his own mortality suddenly, horribly real.
 
-### A Veteran's Reassurance
+### Part 4: A Veteran\'s Reassurance
 
 Jack clung to his sister, the stark reality of his near-death experience washing over him in waves of terror. The world outside the circle of Sarah’s arms felt distant and muffled. She held him tightly, her own tears soaking the shoulder of his hospital gown, her mind reeling with the horrifying thought: *He almost died. He almost died on my birthday*. The thought was a silent, agonizing scream.
 
@@ -431,7 +431,7 @@ The brave faces Molly and Clare had put on for their cousin crumbled instantly. 
 
 Tears welled in Molly’s eyes, and Clare let out a small, choked sob. They each grabbed one of Jack’s hands, their earlier pretense of bravery replaced by a shared, empathetic sorrow. They didn’t offer empty platitudes or tell him it would be easy. They knew it wouldn’t be. Instead, their hugs and their tears conveyed a deeper, more powerful message: *We know how hard this is going to be. And we will be right here with you, every single step of the way.*
 
-### The Transfer
+### Part 5: The Transfer
 
 The call came the next morning: a bed had opened up at the Heart Hospital. The news was both a relief and a fresh wave of anxiety for the Bennett family, who had gathered again in Jack’s room.
 
@@ -455,7 +455,7 @@ They turned and walked towards their own cars, a small, determined convoy prepar
 
 ## Heart Hospital
 
-### Serious Health Discussion
+### Part 1: Serious Health Discussion
 
 The non-emergency ambulance dropped Jack off at the sprawling main Heart Hospital for the region. The transfer was a blur of new hallways and new faces, but it wasn’t too long after arriving in his new, private room that his father and sister were there with him again.
 
@@ -475,7 +475,7 @@ Jermaine let out a long breath, a look of profound relief on his face. “Son, I
 
 Jermaine’s expression hardened with protective resolve. “Consider it done, Jack. You don’t worry about her for one more second. You just focus on getting through tomorrow. I will handle Delores.”
 
-### Off to the Operating Room
+### Part 2: Off to the Operating Room
 
 The morning of the surgery was a quiet, tense vigil in Jack's hospital room. Jermaine, Sarah, Grandpa Sam, and Uncle Devin were all gathered, their conversation soft and subdued, trying to keep a brave face for Jack. The door opened, and Delores swept in, a look of practiced concern on her face.
 
@@ -589,7 +589,7 @@ A heavy, horrified silence fell over the waiting room as the full, ugly truth of
 
 The family sat together in the sterile waiting room, more united than ever. Their shared worry for Jack on the operating table was now fused with a grim, collective relief. He was free. He was safe. And they were all there to make sure he stayed that way.
 
-### Waking Up in the Intensive Care Unit
+### Part 3: Waking Up in the Intensive Care Unit
 
 A low, steady beeping was the first thing to pierce the grey fog in Jack’s mind. His throat was scratchy, his body felt impossibly heavy, and a dull, deep ache resonated in his chest. He was aware of a suffocating pressure on his face, a CPAP mask forcing air into his lungs with a rhythmic hiss that was alarmingly loud.
 
@@ -749,7 +749,7 @@ Jack held Sarah's hand during the entire transport to his recovery room, his gri
 
 ## The Road to Recovery
 
-### Rooming with Sarah in the Hospital
+### Part 1: Rooming with Sarah in the Hospital
 
 The journey from the beeping, sterile intensity of the ICU to the quiet of a private room on the cardiac recovery floor felt like traveling between two different worlds. Jack was transferred to his new room and was immensely glad to have his sister’s company. The new space was brighter, with a large window that looked out over a small courtyard. It felt like a step toward normalcy.
 
@@ -777,7 +777,7 @@ Just then, three familiar faces popped into the hospital room. “Molly! Clare! 
 
 “We can get that taken care of right now,” Jermaine said, placing a firm hand on his son’s shoulder. “I made my child a promise that he could come home whenever he wanted, and I am honoring my promise as soon as this hospital is ready to discharge you. You won't have to worry about her ever again.”
 
-### Bed Time with Sarah
+### Part 2: Bed Time with Sarah
 
 The hospital room was quiet now that their family had left for the night. Sarah began to arrange the pillows and blankets Jermaine had brought from home onto the pull-out sofa, the familiar patterns a small comfort in the sterile environment.
 
@@ -805,7 +805,7 @@ Just then, both of their phones buzzed with an identical, sharp alert tone. Ther
 
 ## A Blizzard Sanctuary
 
-### A Visitor in the Storm
+### Part 1: A Visitor in the Storm
 
 The first flakes of the impending blizzard had just begun to fall as **Mandy** rushed her grandmother into the emergency room at **Tidewater General**. After getting her grandmother settled, a process that took over an hour, Mandy looked out the window. The gentle flurry had transformed into a thick, swirling curtain of white. The roads were already disappearing.
 
@@ -833,7 +833,7 @@ As Mandy prepared to find a quiet corner of a waiting room to settle in for the 
 
 Mandy smiled, a true, honest smile. "Thanks, Sarah. I might just take you up on that." She gave them both a final wave and walked out, leaving the siblings to face the long, snowbound night ahead.
 
-### The First Night
+### Part 2: The First Night
 
 With the city alert confirming the impending blizzard, the hospital room became their sanctuary, a small island of warmth against the storm raging outside. For the next few days, this room would be as much Sarah’s home as it was Jack's. Sarah spoke briefly on the phone with their father, assuring him they were settled and safe before the roads became impassable.
 
@@ -859,7 +859,7 @@ The shared, gallows humor was a small comfort. This pattern repeated itself at 2
 
 Sarah managed a tired smile. “Always,” she replied. They were both annoyed, sleep-deprived, and on edge, but they were facing it together, side-by-side in their small, snowbound sanctuary.
 
-### The First Full Day
+### Part 3: The First Full Day
 
 The first full day of recovery was a lesson in humility. After their sleepless night, a cheerful day-shift nurse came in with Jack’s breakfast and a small paper cup of pills.
 
@@ -887,7 +887,7 @@ Sarah, who had discreetly focused on her laptop, glanced over. Seeing the relief
 
 Jack just nodded, too tired to speak. He had won his first, bizarre, and utterly undignified battle on the long road to recovery.
 
-### The First Walk
+### Part 4: The First Walk
 
 Later that afternoon, a nurse came into the room, her expression cheerful but determined. "Alright, Jack. Doctor's orders. Time to get you up and moving."
 
@@ -919,7 +919,7 @@ Back in bed, utterly spent, he looked at his sister.
 
 "You made it to the hallway, Jack," she said, her voice full of love and pride. "That was huge."
 
-### A Call Home
+### Part 5: A Call Home
 
 After resting for an hour, the exhaustion from his first walk began to recede, replaced by a quiet sense of accomplishment. Jack felt a deep longing to connect with the rest of his family, who he knew were anxiously waiting for updates at the new house, snowed in just like he and Sarah were at the hospital.
 
@@ -949,7 +949,7 @@ Jack, listening from his bed, felt a warm blush of happiness spread across his f
 
 The conversation continued for a few more minutes, filled with love and encouragement, a vital lifeline connecting their small hospital sanctuary to their snowbound family at home. When they finally hung up, Jack felt emotionally recharged, his spirit bolstered by the unwavering pride and love of his family.
 
-### The Anthem of Aethel 🎶
+### Part 6: The Anthem of Aethel 🎶
 
 The second full day of being snowbound in the **Tidewater General Heart Hospital** had settled into a quiet, monotonous rhythm. The blizzard still raged outside. True to her word, **Mandy** had returned, a welcome visitor bringing a deck of cards and stories from the hospital waiting room where she was camping out. The three of them were a small, comfortable island in the middle of the storm.
 
@@ -1045,7 +1045,7 @@ Jack nodded, a small, genuine smile on his face. "I'd like that," he whispered.
 
 Mandy gave Sarah a final, warm look of solidarity and slipped out of the room, leaving the two siblings in the quiet, peaceful aftermath of a storm that had been a long time coming.
 
-### The Rec Center Rallies
+### Part 7: The Rec Center Rallies
 
 The next day, the sun came out, making the thick blanket of snow outside Jack's window sparkle with a blinding intensity. The city was slowly starting to dig out, and the main roads were becoming passable again.
 
@@ -1069,7 +1069,7 @@ A wave of immense relief washed over Sarah. The logistical hurdle of work was go
 
 Kelly just gave her a supportive nod before saying her goodbyes. With the support of their work family confirmed, and the promise that Sarah could remain by his side, the path to recovery felt a little less daunting.
 
-### A Mentor's Visit
+### Part 8: A Mentor\'s Visit
 
 Later that afternoon, after the stream of well-wishers had slowed, Jack was resting, listening to the quiet murmur of the television Sarah had on. From the hallway, he could hear the approaching voices of another group of visitors. His head lifted from the pillow. Among the familiar tones, one voice stood out—a warm, booming baritone with a thick, unmistakable Sydney accent that Jack would recognize anywhere.
 
@@ -1089,7 +1089,7 @@ Anthony came to his bedside, clapping him gently on the shoulder. “Good to see
 
 Jack felt a wave of relief. Navigating city paperwork was a daunting task, and Anthony’s immediate offer to help was exactly the kind of proactive support he was known for. He was the first male authority figure Jack had ever felt he could truly look up to, and in this moment, his presence was an immense comfort.
 
-### An Unexpected Goodbye
+### Part 9: An Unexpected Goodbye
 
 Later that evening, there was another soft knock on Jack's hospital room door. A woman with a kind, no-nonsense air stepped in. It was Brandi, the building supervisor from the Bayside Recreation Center, one of the other city facilities where Jack had recently been covering shifts.
 
@@ -1115,7 +1115,7 @@ She smiled. "You too, Jack. You just focus on getting better."
 
 They chatted for a few more minutes, a comfortable and final conversation. As Brandi and Alexis left, Jack felt a sense of closure, happy to have had a chance to say a proper goodbye to a respected former boss.
 
-### A New Home
+### Part 10: A New Home
 
 The morning the doctors finally cleared Jack for discharge, the hospital room was filled with the bustling, happy energy of the entire Bennett clan. Sam, Jermaine, Devin, Molly, and Clare were all there, a formidable and loving force ready to bring him home.
 
@@ -1141,7 +1141,7 @@ Jack listened, completely overwhelmed. They hadn't just made a space for him; th
 
 ## Recovering from a Heart Attack
 
-### The New House
+### Part 1: The New House
 
 Jack’s first full day at home was a masterclass in quiet, coordinated care. The family had decided it was best for him to start his recovery on the living room sofa, which they had transformed into a comfortable nest of pillows and blankets. This way, he was at the center of their new home, a constant, visible part of the family's new rhythm.
 
@@ -1169,7 +1169,7 @@ Sarah was there in a second, her book left on the chair. “Of course. What do y
 
 With Sarah’s strong and steady help, Jack was able to shift his weight and find a more comfortable position. The maneuver was quiet, efficient, and full of a gentle understanding. He settled back into the pillows, the ache already subsiding. He was home. He was safe. And he was surrounded by a family that knew exactly how to care for him.
 
-### First Night at the House
+### Part 2: First Night at the House
 
 As evening fell, Molly and Clare returned from work, their cheerful energy lighting up the new house. After a quiet dinner, they helped Jack up from the living room sofa. But instead of guiding him to a small, separate bedroom, they walked him to the converted garage, their new, self-contained apartment: The Quad.
 
@@ -1215,7 +1215,7 @@ He shifted slightly, and she moved in behind him. With extreme care for his surg
 
 And in the circle of his sister’s arms, on a bed big enough for them all, feeling completely protected, the thoughts of Delores finally faded, held at bay by the unwavering barrier of his family’s love. He was home.
 
-### A Taste of Home
+### Part 3: A Taste of Home
 
 The next day, the house was a sanctuary of quiet care. With Sarah on leave and Molly and Clare happening to have the day off, all three of his favorite women were there to keep Jack company. Grandpa Sam, having declared himself the "day shift supervisor," sat in his armchair, a watchful and comforting presence.
 
@@ -1239,7 +1239,7 @@ Sam handed mugs to Sarah, Molly, and Clare. The four cousins/siblings held their
 
 The four of them shared a look, a silent toast. In that moment, the simple, sweet act of drinking hot chocolate together became an act of solidarity. They were reclaiming Jack’s comfort, erasing the memory of Delores’s impersonal and manipulative gesture with a taste of home, a flavor that was uniquely theirs. Jack took a deep, happy sip, the rich, sweet taste a confirmation that he was safe, loved, and finally free.
 
-### A Visit to a Second Home
+### Part 4: A Visit to a Second Home
 
 Later that day, a familiar restlessness began to stir in Jack. “I want to try walking again,” he announced to Sarah and Sam. “It’s bitterly cold outside, and the house isn’t big enough. I… I want to go to Fairlawn. See my people. Maybe walk the hallway there.”
 
@@ -1301,7 +1301,7 @@ Jack, with Sarah on one side and Sam on the other for support, walked over to th
 
 With a final wave, Jack and his family turned and walked towards the main entrance. He was exhausted, every muscle aching, but his heart felt lighter than it had in weeks. He had faced the place where his life had been turned upside down and had been met not with trauma, but with an overwhelming wave of love and support. As he stepped out into the crisp afternoon air, the day felt full of hope.
 
-### A Final Encounter
+### Part 5: A Final Encounter
 
 The very next day, Monday, Jack felt strong enough for another important outing. The visit to Fairlawn had bolstered his spirits, and he knew he had to take care of his college paperwork. He, Sarah, and Grandpa Sam drove to the Community College of Hampton Roads campus in Virginia Beach.
 
@@ -1329,7 +1329,7 @@ For the first time, she truly admitted defeat. In her mind, a switch flipped. *F
 
 Without another word, Delores turned on her heel and stormed away, finally and forever out of their lives. Jack watched her go, a profound sense of relief washing over him. He leaned a little more heavily on Sarah, and together, the three of them turned and walked into the administration building, leaving the past behind them.
 
-### Building a Sanctuary
+### Part 6: Building a Sanctuary
 
 The days following the final encounter with Delores were filled with a profound and healing peace. With the threat gone for good, the family could finally focus on the future they had planned. While Jermaine, Devin, and Sam handled the heavy lifting of moving furniture into the main house, the four cousins turned their attention to their own special project: transforming the converted garage into The Quad.
 
@@ -1351,7 +1351,7 @@ The three of them would climb onto the massive bed, carefully navigating around 
 
 He lay there on the bed, unable to lift a single box, yet feeling more a part of something than he ever had in his life. He watched his three most favorite women in the world bustle around him, their easy laughter and cheerful chatter filling the air. They weren't just unpacking boxes; they were building their fortress, their sanctuary, their future. And he was right in the very heart of it.
 
-### Room Service
+### Part 7: Room Service
 
 The afternoon sun began to cast long shadows across the newly arranged furniture in The Quad. Jack was still resting on the massive Alaskan King bed, a comfortable and contented project manager, while Sarah, Molly, and Clare put the final touches on their shared sanctuary. The room was no longer just a converted garage; it was a home, filled with their books, their posters, and the easy, happy energy of their shared presence.
 
@@ -1371,7 +1371,7 @@ Jack, who had been on strict doctor's orders for bed rest, knew he wasn't suppos
 
 A chorus of cheerful agreement went through the room. A little while later, the three men returned, their hands full of plates. They all gathered in The Quad, finding comfortable spots on the floor, on chairs, and on the edge of the massive bed. They ate together, a single, unified family sharing a simple, healthy meal. Jack looked around at his father, his uncle, his grandfather, and his three favorite women in the world, all of them eating the same food he was, not because they had to, but because he did. It was a small, quiet gesture, but it was everything. It was a taste of home, a taste of healing, and a taste of the unwavering, unconditional love that would see him through his recovery.
 
-### The First Tour
+### Part 8: The First Tour
 
 The next morning, the house was a little quieter. Jermaine, Devin, and Molly had all left for work, leaving Jack, Sarah, Clare, and Grandpa Sam to hold down the fort. After a quiet breakfast in The Quad, Jack felt a familiar restlessness stirring. The triumphant walk at Fairlawn a few days ago, fueled by the sheer joy of being in his second home, had felt like a massive victory. But the adrenaline had long since faded, leaving a deep, aching exhaustion in its place. He knew he had overdone it, and now he was paying the price.
 
@@ -1427,7 +1427,7 @@ Finally, they got him settled on the sofa. Sarah sat down first, and Jack lay do
 
 Jack didn't respond. He was already succumbing to a deep, bone-weary exhaustion, his world narrowed to the comforting weight of his head on his sister's lap, safe in the circle of his family's unwavering love.
 
-### A Cheesy Sanctuary
+### Part 9: A Cheesy Sanctuary
 
 The afternoon light began to fade, and the quiet of the house was broken by the sound of the front door opening. Molly was home from work. She walked into the living room to find Jack lying on the sofa, his head resting in Sarah’s lap, while Clare and Grandpa Sam sat quietly nearby.
 
@@ -1451,7 +1451,7 @@ The three girls exchanged a quick, puzzled look. Jack had never asked for captio
 
 "Snack time," Grandpa Sam announced from the doorway. He returned a moment later with a tray bearing four glasses of ice water and a large bowl of what was, he assured them, the "healthy kind" of popcorn. He settled into his armchair, a warm, contented smile on his face as he watched his four grandchildren, huddled together on the sofa, completely absorbed in the opening scene of their favorite movie. The world outside, with all its dangers and worries, could wait. For the next two hours, they were safe in their cheesy, 1980s sanctuary.
 
-### A Collector's Edition
+### Part 10: A Collector\'s Edition
 
 The familiar, cheesy score of **"The Silver Gauntlet of Aethel"** filled the living room, a comforting soundtrack to a quiet afternoon of recovery. **Jack**, still nestled on the sofa with his head in **Sarah’s** lap, was completely absorbed in the movie, a bowl of bland, heart-healthy popcorn resting on his stomach. The water in his glass was a constant, bland reminder of his new reality, but for now, it didn’t matter. He was home, he was safe, and he was with his favorite people.
 
@@ -1481,7 +1481,7 @@ Clare picked up the sticker sheet. "Okay, dibs on the Shadow Sorcerer!" she said
 
 "I call Kaelan," Jack said immediately. He carefully peeled the sticker of the film's hero from the sheet and, with a steady hand, placed it perfectly on the back of his laptop. Sarah smiled and peeled the sticker of the heroine, Kaela, placing it on her own laptop, a perfect mirror of her brother's choice. Molly, ever the analyst, chose the sticker of the wise old wizard, while Clare gleefully affixed the image of the main villain to her computer. It was a small ritual, but a deeply meaningful one, each of them claiming a piece of their shared fandom.
 
-### Dinner and Bonus Features
+### Part 11: Dinner and Bonus Features
 
 The familiar, cheesy score of **"The Silver Gauntlet of Aethel"** faded out, and the credits began to roll on the living room television. The four cousins, huddled together on the sofa, let out a collective, contented sigh.
 
@@ -1507,7 +1507,7 @@ After dinner, as he was handing his empty plate to his father, he made a quiet d
 
 Jermaine smiled, a look of profound, gentle understanding on his face. "Of course, son. You tried it, and that's all that matters. There are plenty of other healthy things we can make." He glanced at Sarah and Molly, a silent, knowing look passing between them. They were all thinking the same thing. Jack, even in his recovery and with his new, restricted diet, had politely eaten a meal he didn't particularly like without a single complaint. The contrast to **Delores**, who would have looked at the plate, declared it disgusting, and refused to even touch it, was a stark and powerful reminder of the kind, gentle, and respectful young man he was. It was a small moment, but it was a perfect encapsulation of why they all loved him so much.
 
-### A Sanctuary Decorated
+### Part 12: A Sanctuary Decorated
 
 After saying their goodnights to **Sam**, **Devin**, and **Jermaine**, the four cousins retreated to the quiet sanctuary of **The Quad**. The energy from their shared dinner and the excitement over the new bonus features DVD still lingered, a warm and happy buzz.
 
@@ -1529,7 +1529,7 @@ Soon, all four of them were in their pajamas, and one by one, they climbed into 
 
 Jack lay back against his pillows, a profound sense of peace and contentment washing over him. He was cocooned, physically and emotionally, by the three women he trusted more than anyone in the world. He was in a bed large enough for them all, in a room that was truly theirs, with the heroes of his favorite story watching over him from the wall. He was safe. The hugs he would get here were safe, not just for his healing chest, but for his healing heart. They were hugs from his family, not from a predator like Delores. He was finally, truly ready to rest.
 
-### The Biological Deadline
+### Part 13: The Biological Deadline
 
 The room was quiet, save for the hum of the mini-fridge and the soft, rhythmic breathing of the four cousins settled in the massive bed.
 
@@ -1615,7 +1615,7 @@ Jack lay back, feeling lighter than he had in months. The predator's logic had b
 
 ## The Long Road Ahead
 
-### The Windsor Woods Realization
+### Part 1: The Windsor Woods Realization
 
 The next day, the new Bennett family home was a little quieter. **Sarah**, with a mix of reluctance and professional duty, had gone back to work at **Fairlawn** for her first full day since Jack's surgery. **Jermaine**, **Devin**, and **Molly** were also at their jobs. This left **Clare**, who had the day off, and **Grandpa Sam** as Jack's primary support crew.
 
@@ -1643,7 +1643,7 @@ Jack knew he was right. This was the same feeling he'd had in Sarah's hospital r
 
 He sank onto a nearby bench, the strength gone from his legs, his heart pounding with a new kind of terror. This was the moment he had been dreading, the one his father and uncle had been planning for, but he had never imagined it would feel this sudden, this absolute. He looked at the long, gleaming hallway in front of him, a path he had intended to walk just moments ago. Now, the simple act felt impossible. He didn't know if this was a temporary, albeit unusually painful, setback, or something more permanent. All he knew was the profound, soul-deep sense of defeat and the terrifying uncertainty of what his own body would do next.
 
-### The Long Walk Home
+### Part 2: The Long Walk Home
 
 The front desk clerk at the gleaming Windsor Woods counter looked up, her professional smile faltering as she saw **Jack's** sudden distress. "Is everything alright over there?" she called out, her voice full of genuine concern. "Do you need any assistance?".
 
@@ -1667,7 +1667,7 @@ A friendly receptionist's voice filled the room. "Dr. Miller's office, this is S
 
 Jack took a shaky breath, his voice weak but clear. "Hi, Susan," he said. "This is Jack Bennett. I'm... I'm having a really severe flare-up of my CMT. I need to make an appointment to see the doctor as soon as possible."
 
-### The Sister-Shield
+### Part 3: The Sister-Shield
 
 The house was quiet for a long time after the call. **Jack**, utterly spent from the physical and emotional ordeal, dozed fitfully, his head still resting in **Clare's** lap on the sofa. **Grandpa Sam** sat in his armchair, the grim, worried look never leaving his face.
 
@@ -1681,7 +1681,7 @@ Molly's face was a mask of deep, empathetic pain. She looked down at her cousin,
 
 Gently, carefully, the two twins began to shift. They slid Jack's legs, mindful of his sternal precautions, until he was lying across both of their laps, his head now resting on Molly's thigh, his feet on Clare's. It was a silent, powerful gesture. They were sharing the burden, creating a broader, more stable foundation of support for him. They were a shield, a wall, and in that moment, they were letting him know, even in his sleep, that they would carry him through this new, frightening chapter of his life, together.
 
-### A New Kind of Housebound
+### Part 4: A New Kind of Housebound
 
 The days following the disastrous walk at Windsor Woods were a blur of quiet, difficult adjustments. The severe flare-up of **Jack's** Charcot-Marie-Tooth disease did not subside. His right foot remained a useless, heavy appendage, and the weakness in his legs was profound. The walker now sat untouched in a corner; it was no longer enough.
 
@@ -1725,7 +1725,7 @@ Jack looked at the nurse, then at his sister, and felt a fragile sliver of hope.
 
 ## A Quiet Refusal
 
-### The Midnight Showing
+### Part 1: The Midnight Showing
 
 The lobby of the movie theater on the evening of **March 30th, 2007**, was not packed, but it was buzzing with a palpable, electric energy. This wasn't a crowd for a normal blockbuster; this was a gathering of the faithful. It was the midnight premiere of the 20th-anniversary re-release of **"The Silver Gauntlet of Aethel,"** and only the most dedicated fans were in attendance.
 
@@ -1743,7 +1743,7 @@ They found their seats in the half-full theater, a perfect spot with a clear vie
 
 A collective, heartfelt cheer went up from the audience. Jack, Sarah, Molly, Clare, and Mandy all looked at each other, their faces illuminated by the glow of the screen, and grinned. They were home.
 
-### A Delayed Rejection
+### Part 2: A Delayed Rejection
 
 **Jack** listened as **Emily**, the kind patron from his high school days, finished her question.
 
@@ -1769,7 +1769,7 @@ Emily, a kind and perceptive person, took in the scene: Jack's obvious relief an
 
 And with that, she turned and walked away, leaving no drama, no guilt, no resentment in her wake, but leaving the door to a future date wide open. Jack watched her go, a profound, shuddering wave of relief washing over him, but it was now mixed with a fresh wave of anxiety. He had escaped the immediate moment, but he hadn't solved the problem. He looked over at Sarah, who was watching him with a slightly puzzled but supportive look, and felt an immense wave of love and gratitude. She had, without even knowing it, been his temporary shield once again.
 
-### A Protector's Concern
+### Part 3: A Protector\'s Concern
 
 The first-floor break room at Fairlawn was a quiet, familiar sanctuary. **Jack** and **Sarah** sat at one of the small, round tables, their packed lunches spread out before them. Jack, still buzzing with a mixture of relief and residual anxiety, poked at his sandwich without really seeing it. He had escaped the immediate, terrifying social trap, but he knew the problem hadn't been solved.
 

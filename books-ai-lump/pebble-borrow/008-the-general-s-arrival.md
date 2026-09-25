@@ -7,7 +7,7 @@ series: ""
 
 ## The Holy Grail of Geothermal Energy
 
-### 0700 Hours: The First Refusal
+### Part 1: 0700 Hours: The First Refusal
 
 Outside the reinforced steel gates of the Pebble Burrow Institute, the early morning Virginia fog still clung to the asphalt. General Peter Vance stood inside his mobile command center—a heavily armored, state-of-the-art communications truck parked just beyond the facility's property line.
 
@@ -58,7 +58,7 @@ It was the ultimate professional death sentence. A four-star general had just of
 
 ## 0830 Hours: The Four-Star Directive
 
-### The Net Closes
+### Part 1: The Net Closes
 
 Before Vance could even react to the message, the secondary monitors on the command console lit up. These were tied into the local Department of Transportation traffic cameras monitoring the Middletown exit of Interstate 66.
 
@@ -160,7 +160,7 @@ He stepped out onto the asphalt, raised his hands high in the air, and began wal
 
 ## 1015 Hours: The Commander-in-Chief
 
-### The Breach
+### Part 1: The Breach
 
 Vance was entirely, utterly alone.
 

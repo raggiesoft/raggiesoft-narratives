@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Foundation (Friday, March 30th, 2007)
 
-### Part 1: The Tarmac and the Tear – 10:15 PM (EST)
+### Part 1: The Tarmac and the Tear
 
 The heavy, mechanical thud of the landing gear deploying echoed through the cabin of the aircraft, followed minutes later by the jarring, high-speed screech of the tires hitting the tarmac at Norfolk International Airport.
 
@@ -51,7 +51,7 @@ Rachel turned her attention back to Mom, initiating a highly calculated logistic
 
 "Of course," Mom agreed softly, catching the exhaustion in our postures. "The spare room is set up."
 
-### Part 2: The Decoy Protocol – 11:30 PM (EST)
+### Part 2: The Decoy Protocol
 
 It was half-past eleven by the time we finally dragged our heavy suitcases through the front door of Mom’s house.
 
@@ -101,7 +101,7 @@ We pulled each other into a heavy, final hug, the agonizing stress of the last t
 
 ## Chapter 2: The Blueprint and the Sabomnim (Saturday, March 31st, 2007)
 
-### Part 1: The Transition Wake-Up – 9:00 AM
+### Part 1: The Transition Wake-Up
 
 Morning rolled around, the bright Virginia sun fighting its way through the guest room blinds. I blinked my eyes open, staring at the ceiling, my internal clock completely scrambled. Rachel and I were still hardwired to West Coast time.
 
@@ -133,7 +133,7 @@ Mom smiled, accepting the neurotypical geometry without question. Breakfast cons
 
 "It’s Saturday, and the sale of the century is in progress," I giggled, reaching down to pet Teddy as he nudged my knee, completely ready to start building our adult lives.
 
-### Part 2: The Adult Perimeter – 10:30 AM
+### Part 2: The Adult Perimeter
 
 Breakfast was finished, and Mom drove us to one of the massive, warehouse-style furniture showrooms on Virginia Beach Boulevard. The sheer scale of the store was a bit overwhelming, but moving as a unified pack kept our sensory gauges level.
 
@@ -229,7 +229,7 @@ We gathered up towels and organizers for the bathrooms before migrating to the h
 
 "The tactical decoy room," I grinned. "I love it."
 
-### Part 3: The Reunion at the Register – 1:00 PM
+### Part 3: The Reunion at the Register
 
 Mom was waiting for us with a cart full of cleaning supplies as we made our way to the checkout lanes.
 
@@ -293,7 +293,7 @@ April’s eyes lit up with a fierce, brilliant spark.
 
 Rachel reached over and grabbed my hand, squeezing it with bruising force. The trauma of the Dojang was permanently dead. We were going back to the mats, and we were finally going to finish what we started.
 
-### Part 4: The Alumni Roster – 1:15 PM
+### Part 4: The Alumni Roster
 
 I stared at April, completely overwhelmed by the reality that our journey wasn't over. Beside me, Rachel was practically vibrating, her dark bob bouncing slightly as she looked up at our former protector.
 
@@ -367,7 +367,7 @@ We pulled the blankets up, closed the distance, and wrapped our arms around each
 
 "Two days, Bear," Rachel echoed softly, her breathing slowing into the comfortable rhythm of absolute safety. "Air mattresses on Monday. And the Dojang on Friday."
 
-### Part 5: The Canadian Arch Perimeter – 4:00 PM
+### Part 5: The Canadian Arch Perimeter
 
 The heavy, suffocating exhaustion of the morning’s shopping marathon finally burned off after a deep, two-hour nap in the spare bedroom.
 
@@ -467,7 +467,7 @@ She looked at both of us, her gaze intense and focused.
 
 We sat in the quiet safety of April’s townhouse, the late afternoon sun casting long shadows across the carpet. The fear of the Dojang had been permanently locked away. We had our pack, we had our home, and we had our teacher back. As I looked around the mirror-image of our future living room, I knew the universe had finally aligned the math perfectly in our favor.
 
-### Part 6: The Woven Stripe – 6:00 PM
+### Part 6: The Woven Stripe
 
 The late afternoon sun dipped lower, casting long, comfortable shadows across April’s living room. The heavy, emotional exhaustion of the day was finally giving way to a quiet, profound contentment.
 
@@ -527,7 +527,7 @@ April stepped forward, resting a warm, anchoring hand on both of our shoulders. 
 
 Rachel reached over and grabbed my hand, squeezing it with bruising force. The trauma of the Dojang was permanently dead. We were going back to the mats, and we were finally going to finish what we started.
 
-### Part 7: The Sea of Truth – 6:45 PM
+### Part 7: The Sea of Truth
 
 The administrative office of the Lynnhaven Academy of Seondu was quiet and meticulously organized. We stood near April's polished desk, still wearing our sneakers. Here in the lobby and office areas, street shoes were perfectly acceptable, but we all knew the iron-clad rule: the absolute second we crossed the threshold into the Dojang itself, we would be barefoot out of respect for the sacred ground.
 
@@ -597,7 +597,7 @@ When we finally pulled apart, April stood up and gestured toward the door leadin
 
 "Now," April said, her eyes crinkling warmly behind her glasses. "Take your shoes and socks off. Let's go look at your new home."
 
-### Part 8: The Muscle Memory – 7:00 PM
+### Part 8: The Muscle Memory
 
 We kicked off our sneakers and peeled off our socks in the small, warmly lit lobby.
 
@@ -699,7 +699,7 @@ Rachel didn't say a word. She just stepped forward and wrapped her arms around A
 
 We broke the hug, waving goodbye as April walked up to her door. Mom's sedan was already pulling into the neighborhood to pick us up for the night. The weekend was officially underway, our air mattresses were waiting on Monday, and the Base Camp was finally, permanently secure.
 
-### Part 9: The Criollo Drive Ascent – 8:30 PM
+### Part 9: The Criollo Drive Ascent
 
 Mom’s sedan rolled to a stop alongside the curb of 3701 Canadian Arch just as April was turning to head back inside her unit. Mom rolled down the driver’s side window, leaning across the center console.
 
@@ -771,7 +771,7 @@ I rested my chin against her dark hair, my racing heart rate instantly decelerat
 
 ## Chapter 3: The Sunday Reset (Sunday, April 1st, 2007)
 
-### Part 1: The Three-Day Math – 10:00 AM
+### Part 1: The Three-Day Math
 
 The morning sun filtered through the plastic blinds of Mom’s house on Criollo Drive, casting bright, geometric slats of light across the carpet. Despite the undeniable visual proof that the day was well underway, my internal clock was completely, stubbornly unresponsive to the Virginia daylight.
 
@@ -809,7 +809,7 @@ Today was only day one. Our brains still fundamentally believed it was seven in 
 
 We were physically drained, and we were effectively grounded in the suburbs for the day, but as we stood there in the quiet safety of the locked bedroom, the math finally felt manageable.
 
-### Part 2: The Transit Trap – 11:30 AM
+### Part 2: The Transit Trap
 
 After pacing the room and letting the stiff, aching spasticity slowly bleed out of my calves, the logistical reality of the morning finally set in. We couldn't stay in our skin forever, no matter how safe and perfectly regulated the locked bedroom felt.
 
@@ -833,7 +833,7 @@ If Rachel and I wanted to go anywhere—to grab food, to see a movie, or just to
 
 Rachel hummed a soft, accepting note, her shoulders relaxing as she processed the timeline. With no transit options and zero desire to navigate the outside neurotypical world on a day dedicated to practical jokes, the agenda for our Sunday was officially set. There would be no unpredictable excursions and no sudden surprises. We were committing to a day of absolute, unmoving rest.
 
-### Part 3: The Blue Leather Anchor – 1:00 PM
+### Part 3: The Blue Leather Anchor
 
 We migrated into the living room, leaving the kitchen behind.
 
@@ -867,7 +867,7 @@ On the carpet nearby, Teddy let out a soft, contented sigh, his dull golden fur 
 
 The outside world could have their pranks, their schedules, and their high-definition screens. Wrapped in the heavy afghan, holding each other tightly and anchored to the blue leather sofa, we closed our eyes and let the three-day biological reset wash over us in total, perfectly regulated silence.
 
-### Part 4: The Evolution of the Anchor – 5:30 PM
+### Part 4: The Evolution of the Anchor
 
 We actually fell asleep. It wasn't just a brief, restorative rest; the heavy, biological toll of the time zone shift dragged us both down into a deep, motionless slumber.
 
@@ -903,7 +903,7 @@ We migrated together into the dining room, following the incredible smell of the
 
 ## Chapter 4: The Digital SOS (Monday, April 2nd, 2007)
 
-### Part 1: The Command Center – 2:00 PM
+### Part 1: The Command Center
 
 The heavy, brass keys to 3701 Canadian Arch finally sat heavy and real in my palm.
 
@@ -953,7 +953,7 @@ As I hit the save button, a small, bright orange envelope icon flashed in the to
 
 **\[1\] New Friend Request & Private Message.**
 
-### Part 2: The Passcode – 2:30 PM
+### Part 2: The Passcode
 
 I clicked the icon, my brain instantly shifting into its defensive, analytical mode.
 
@@ -1007,7 +1007,7 @@ I pushed my chair back and looked at Rachel. Her dark eyes were burning with a f
 
 "I'll go unlock the deadbolt," Rachel stated, her voice dropping into its most practical, combat-ready register. "You go set up the living room. She's coming home."
 
-### Part 3: The Blackwater Extraction – 2:45 PM
+### Part 3: The Blackwater Extraction
 
 My fingers hammered against the plastic keys of my desktop keyboard. The quiet hum of the Command Center was entirely shattered by the spike of adrenaline flooding my nervous system.
 
@@ -1077,7 +1077,7 @@ Rachel slid into the back seat, instantly claiming the enclosed, secure space di
 
 As we hit Buckner Boulevard and merged onto the main roads heading south toward the rural edge of the city, the silence in the car was heavy and entirely focused. We were thirty minutes away, and the Sentinel was standing on the wrong side of a locked gate, waiting for the pack to bring her home.
 
-### Part 4: The Evasive Route – 3:15 PM
+### Part 4: The Evasive Route
 
 The drive down into the deep, rural borderlands of Virginia Beach was an exercise in pure tension. Rachel and I sat shoulder-to-shoulder in the back seat of April’s little blue car, our hands locked together. April knew exactly what she was doing when she told us to both get in the back; we needed the unbroken, side-by-side physical contact to keep our neurodivergent systems regulated while rushing into an unknown, volatile environment.
 
@@ -1161,7 +1161,7 @@ I grabbed Ashley's duffel bag from the floorboards, and Rachel and I stepped out
 
 Jim nodded, keeping one arm securely around his daughter. We walked the few short steps to our front door. I unlocked it, and the entire group stepped over the threshold into 3701 Canadian Arch. The heavy brass deadbolt clicked shut behind us, and the hunt was officially over.
 
-### Part 5: The Paper Trail – 4:00 PM
+### Part 5: The Paper Trail
 
 With no sofas or dining room chairs yet assembled, the geometry of the conversation was incredibly grounded. We formed a loose circle sitting directly on the carpet in the center of the empty living room.
 
@@ -1229,7 +1229,7 @@ Rachel walked over to me, wrapping her arms around my waist and pressing her for
 
 The ghost of the Delaney Street pull-out couch was officially at peace. 3701 Canadian Arch was secure, and we were finally home.
 
-### Part 6: The 1802 Perimeter – 8:00 PM
+### Part 6: The 1802 Perimeter
 
 The headlights of the Raybourn minivan swept across the front windows of our dark townhouse a few hours later.
 
@@ -1297,7 +1297,7 @@ Ashley let out a long, deep exhale, the frantic, terrified tension bleeding out 
 
 The perimeter was completely sealed. Anchored in the center of her Pack, the Sentinel finally closed her eyes and went to sleep.
 
-### Part 7: The Legal Definition – 10:30 PM
+### Part 7: The Legal Definition
 
 The room was completely dark, save for the faint, orange glow of the streetlight filtering through the blinds of the 1802 Rich Court bedroom.
 
@@ -1363,7 +1363,7 @@ I didn't have to fight a losing battle, and I didn't have to carry the burden al
 
 I squeezed Rachel's hand back, accepting the anchor. I rested my chin gently against Ashley's hair, letting the combined weight of my biological sister and my Sentinel override the trauma, and finally allowed myself to try to fall sleep.
 
-### Part 8: The Weight of the Anchor – 10:32 PM
+### Part 8: The Weight of the Anchor
 
 I tried. I laid perfectly still, wrapped in the heavy, warm geometry of the pack, and desperately tried to let the exhaustion drag me into unconsciousness.
 
@@ -1411,7 +1411,7 @@ I would wake up to find my kid sister on top of me, protecting me.
 
 ## Chapter 5: The Fortress (Tuesday, April 3rd, 2007)
 
-### Part 1: The Lifelong Partner – 7:00 AM
+### Part 1: The Lifelong Partner
 
 My eyes blinked open slowly, my processor fighting through the heavy, lingering fog of exhaustion.
 
@@ -1471,7 +1471,7 @@ We opened our duffel bags on the floor. The three of us stood shoulder-to-should
 
 Once our armor was on, I grabbed my glasses and led the way to the bedroom door. We had a fortress to protect, and Ashley needed a lawyer immediately. We walked out into the hallway and headed downstairs to join Jim and Joan on the front lines.
 
-### Part 2: The Fault Line – 7:30 AM
+### Part 2: The Fault Line
 
 We walked down the carpeted stairs of 1802 Rich Court, moving as a single, unified block. The smell of freshly brewed coffee and the low, murmuring voices of Jim and Joan drifted out from the kitchen.
 
@@ -1511,7 +1511,7 @@ Jim nodded in absolute approval. He understood that while he was providing the l
 
 "Alright," Jim said, checking his watch. "Finish your breakfast. The five of us are heading downtown."
 
-### Part 3: The Shark of Downtown Norfolk – 8:45 AM
+### Part 3: The Shark of Downtown Norfolk
 
 The drive from Virginia Beach to Downtown Norfolk was quiet, but it was a completely different kind of silence than the terrified, evasive drive we had taken with Master April the day before. This was a tactical, focused silence. We were no longer running; we were moving into a fortified position to launch a counter-attack.
 
@@ -1573,7 +1573,7 @@ Ashley buried her face in my shoulder, her arms locked fiercely around Rachel's 
 
 Jim walked over, wrapping his massive arms around all three of us. The Raybourn-Ragsdale fortress was officially impenetrable. The shark had been unleashed, the legal trap had snapped shut, and the Sentinel was finally, permanently free.
 
-### Part 4: Shedding the Name – 11:00 AM
+### Part 4: Shedding the Name
 
 Joan navigated the Raybourn minivan out of the high-rise parking garage, merging seamlessly into the heavy, late-morning traffic of downtown Norfolk. The tense, coiled energy that had gripped us on the drive in had completely evaporated, replaced by a quiet, collective exhaustion.
 
@@ -1607,7 +1607,7 @@ Ashley let out a soft, watery laugh, recognizing the lyrical callback to *The St
 
 The rest of the drive back to 1802 Rich Court passed in a comfortable, healing silence. The legal machinery had been activated, the timeline was established, and the heavy, toxic label of her marriage was already marked for deletion. Ashley Elizabeth Raybourn was coming back online.
 
-### Part 5: The Dollar Lease – 12:30 PM
+### Part 5: The Dollar Lease
 
 Jim pulled the minivan back into the concrete driveway of 3701 Canadian Arch.
 
@@ -1661,7 +1661,7 @@ Rachel and I immediately stepped in, wrapping
 
 ## Chapter 6: The Deployment (Wednesday, April 4th, 2007)
 
-### Part 1: The West Coast Wake-Up – 6:30 A M (EST)
+### Part 1: The West Coast Wake-Up
 
 The temporary Queen-sized air mattress sat directly on the carpet of our empty master bedroom.
 

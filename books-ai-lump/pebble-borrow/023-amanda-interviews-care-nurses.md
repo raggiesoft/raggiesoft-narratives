@@ -7,7 +7,7 @@ series: ""
 
 ## The Verification
 
-### Call 1: The Surgeon
+### Part 1: Call 1: The Surgeon
 
 The first number belonged to Dr. Marcus Vance, Chief of Neuro-Trauma Surgery at Johns Hopkins. Amanda expected to be routed to a voicemail or brushed off by a receptionist, but when she stated she was calling regarding Benjamin Torres, she was patched through to the surgeon's office immediately.
 
@@ -17,7 +17,7 @@ The first number belonged to Dr. Marcus Vance, Chief of Neuro-Trauma Surgery at 
 
 Dr. Vance actually laughed. "Clinically? Ben is the only nurse on my floor who catches a vitals crash before the telemetry monitors do. He's hyper-vigilant. But if you want to know why you should hire him, it’s not just his charting. It’s his character. Last year, we had a nineteen-year-old kid wake up from a spinal fusion realizing he couldn't feel his legs. The kid was terrified, swinging wildly, completely inconsolable. Ben didn't sedate him. He just stood by the bed, held his hand, and talked him down for three hours straight after his shift had officially ended. Ben is a rock. You'd be incredibly lucky to have him."
 
-### Call 2: The Social Worker
+### Part 2: Call 2: The Social Worker
 
 Amanda carefully noted Dr. Vance's exact words on her legal pad before dialing the second number. It belonged to Elaine Croft, the Lead Clinical Social Worker for the Hopkins SCI (Spinal Cord Injury) unit.
 
@@ -27,7 +27,7 @@ Amanda carefully noted Dr. Vance's exact words on her legal pad before dialing t
 
 "Absolutely and unequivocally," Elaine replied instantly, her tone turning fiercely protective of the nurse. "In acute rehab, a lot of providers accidentally strip patients of their autonomy because it's 'faster' to just do things for them. Ben never does that. He treats every single patient—especially the young, vulnerable ones—with profound dignity. He asks permission before he touches them, he guards their privacy like a hawk, and he never infantilizes them. He is just a genuinely, deeply good human being, Miss Wilcox."
 
-### Call 3: The Director of Nursing
+### Part 3: Call 3: The Director of Nursing
 
 Amanda’s shoulders had finally dropped away from her ears. The knot of anxiety in her stomach was unraveling. She dialed the final number: Helen Ruiz, the Director of Critical Care Nursing at Johns Hopkins.
 
@@ -58,21 +58,21 @@ By the end of the second week, the roster was complete.
 
 ## The Fortress is Staffed
 
-### The Night Watch (The RNs)
+### Part 1: The Night Watch (The RNs)
 
 Amanda hired two hyper-vigilant Cardiac ICU veterans for the night shifts. They were the silent owls of the operation. They didn't need the warm bedside manner of the day shift; their only job was to sit in the dimly lit charting station, their eyes glued to the synchronized telemetry monitors, ready to push IV fluids the exact second Jessika, Drake, or Ashleigh’s dysautonomic heart rates fluttered in their sleep.
 
-### The Muscle (The CNAs)
+### Part 2: The Muscle (The CNAs)
 
 Amanda hired a rotation of highly experienced Certified Nursing Assistants. Paid the exact same \$100-an-hour flat rate as the RNs, these men and women were built like linebackers but possessed the gentlest hands in the industry. They treated Drake and Ashleigh with unparalleled reverence, acting as the physical anchors during the dangerous, highly coordinated pivot transfers to the titanium standing frames.
 
-### The Rebuilders (The PTA and OT)
+### Part 3: The Rebuilders (The PTA and OT)
 
 The Physical Therapist Assistant was a strict but deeply empathetic former military medic who knew exactly how to push Drake and Ashleigh's upper-body conditioning without triggering orthostatic hypotension.
 
 But the greatest victory was the Occupational Therapist. On her very first day, the OT watched Drake and Ashleigh holding onto each other to stave off a sensory overload panic attack. Instead of pathologizing it, the OT immediately wrote “Proprioceptive Deep Pressure Therapy - Patient Regulated” into their official medical charts, permanently, legally validating Amanda’s "Safe Person" dynamic.
 
-### The Shield (The Administration)
+### Part 4: The Shield (The Administration)
 
 Finally, Victor Thorne’s trust finalized the back-office hires. Operating out of a converted guest house near the estate's security gates, a ruthless former hospital compliance officer and a meticulous bookkeeper took over the business side of the PLLC. They managed the massive W-2 payrolls, maintained the DEA narcotic logs with terrifying precision, and ensured that Amanda never had to look at a spreadsheet.
 

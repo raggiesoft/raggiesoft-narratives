@@ -7,7 +7,7 @@ series: ""
 
 ## The Southern Hemisphere
 
-### The Final Briefing
+### Part 1: The Final Briefing
 
 The small, windowless consultation room inside the Montgomery County Courthouse hummed with the steady drone of the central air conditioning. A year ago, the sterile white walls and the harsh fluorescent lighting would have sent Jordan Fuller into a spiraling sensory overload. He would have been hunched over, his hands clamped over his ears, trembling in a squeaking, hospital-issue transit chair while he waited for his mother to dictate his fate.
 
@@ -51,7 +51,7 @@ Ms. Caldwell stood up, smoothing out her blazer. She looked down at the young ma
 
 Jordan didn't hesitate. He sent the standby command to his terminal and gripped the joystick of his chair. With a quiet, powerful hum from the heavy-duty motors, he spun the chair toward the door, ready to face the woman who no longer owned him.
 
-### The Phalanx and The Gavel
+### Part 2: The Phalanx and The Gavel
 
 The heavy wooden double doors at the back of the courtroom swung open.
 
@@ -111,7 +111,7 @@ The color instantly drained from Mr. Davies' face. Aubrie Sinclair froze, her ti
 
 "The petitioner is attempting to strip my client of his civil liberties based on a climate that literally did not exist," Ms. Gable concluded cleanly. "We ask that the court hear the facts, review the evidence, and dismiss this fraudulent petition entirely."
 
-### The Evidentiary Phase
+### Part 3: The Evidentiary Phase
 
 The evidentiary phase proceeded not as a trial, but as a systematic dismantling.
 
@@ -191,7 +191,7 @@ She looked directly at Aubrie Sinclair, whose face had gone completely pale.
 
 "The petitioner expects this court to believe that a young man who actively studies indigenous rights, enforces global cultural boundaries, and dictates his own survival itinerary in the deep bush is cognitively impaired. It is an insulting, baseless, and frankly embarrassing claim."
 
-### The Closing Argument
+### Part 4: The Closing Argument
 
 By early afternoon, Aubrie Sinclair’s petition was entirely in tatters. The evidentiary phase had dismantled her claims piece by piece, but it was time for the final blow. Ms. Gable stood in the center of the courtroom to deliver her closing argument, seamlessly weaving the global itinerary into a single, undeniable decree of Jordan's capacity.
 
@@ -225,7 +225,7 @@ Ms. Gable stepped back, gesturing to the tanned, upright, razor-sharp young man 
 
 "But he is not dead, Your Honor. He is sitting right here. He is a Dean's List astrophysics scholar who conquered the Australian Outback and arrived ready to begin his Fall semester at CPI. The incapacitated boy in this petition is a fiction, invented by a woman who simply wants her prisoner back. We ask that this petition be dismissed with prejudice, and the petitioner be completely and permanently severed from his life."
 
-### The Gavel and The Handcuffs
+### Part 5: The Gavel and The Handcuffs
 
 The heavy, suffocating silence in the courtroom was finally broken by the frantic rustle of Mr. Davies shoving papers into his briefcase. Recognizing that his entire case had just been exposed as a malicious fabrication, his survival instincts kicked in.
 

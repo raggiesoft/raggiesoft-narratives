@@ -7,7 +7,7 @@ series: ""
 
 ## The MagnaByte Opus Lifeline
 
-### Breakthrough for Leo
+### Part 1: Breakthrough for Leo
 
 Their first real breakthrough had come years earlier, around 1992, in the noisy computer lab of their elementary school, Willow Creek Elementary (Home of the Otters). Faced with rows of aging but functional MagnaByte Opus machines, seven-year-old Leo, previously struggling to express himself through laborious handwriting and lacking any other communication aids, discovered that resting his hands on the keyboard allowed him to painstakingly tap out words. For Luna, typing offered a clarity and flow that sometimes eluded her speech. This was their first taste of fluent written communication, a revelation after years of difficulty. The school recognized the significance of this discovery.
 
@@ -17,7 +17,7 @@ The importance of this specific tool became starkly clear during the twins' sixt
 
 Ms. Evans recognized that the MagnaByte Opus was not merely a computer preference for Luna and Leo; it was an essential accessibility tool integral to managing both technological and sensory-cognitive demands. She advocated passionately with the administration and the special education coordinator to ensure the machine was retrieved from the surplus pile. The school, acknowledging its critical impact on the twins' ability to function and complete assignments, officially assigned the MagnaByte Opus to them. This particular device accompanied them through their 6th, 7th, and 8th-grade years at Brandon Middle, serving as a vital resource even as newer technology became prevalent among other students. It enabled them to demonstrate their intelligence and engage more fully in their education. Stella, who shared their bedroom during her high school years until she graduated, observed their attachment to the machine and the school's commitment to providing it, in stark contrast to their parents' indifference. Although she noticed their preference for this computer, she did not understand its significance as an assistive tool until Ms. Evans explained it years later. This recognition left a lasting impression on her.
 
-### Student Training and Education Program
+### Part 2: Student Training and Education Program
 
 The presence of Officer Davis in their 5th-grade classroom at Willow Creek Elementary created a buzz of excitement that Mrs. Gable, their regular teacher, struggled to contain. Project S.T.E.P. day was always a bit different. Officer Davis, uniformed and smiling, stood near the front, beside a tall metal cart holding a television and video player – technology that still held a certain novelty in the classroom. Luna and Leo sat at their shared table near the back. Luna adjusted the ill-fitting, slightly oversized glasses perched on her nose – a relatively new addition this year after squinting at the microwave clock had revealed her nearsightedness. The world was somewhat clearer with them, but she still found herself squinting occasionally to see the board properly, and they constantly slid down her nose. Leo watched the officer with quiet intensity, while Luna fidgeted slightly, glancing between the officer, now clearly visible thanks to her glasses, and the intriguing TV cart.  
 
@@ -96,7 +96,7 @@ Hanging up the phone, Stella stared blankly at her textbooks. The call had chang
 
 ## The Pressure Sore
 
-### Stella to the Sore Rescue
+### Part 1: Stella to the Sore Rescue
 
 A few weeks after the pivotal call from Ms. Evans, Stella was visiting her parents' house on a Saturday afternoon. The air was stagnant, thick with the usual smell of stale beer and neglect. Luna was attempting homework at the kitchen table, while Leo was in his wheelchair in the cramped living room, listlessly watching whatever daytime television show was on. Stella went over to him. A loud burp echoed from the recliner. *Mother, that is disgusting, and you know it*, Stella thought to herself, seeing her mother down another can.
 
@@ -166,7 +166,7 @@ Inside the clean but cramped apartment, the twins felt the tension ease.
 
 Understanding, Stella agreed. Soon, all three were settled on the bed, drifting into an exhausted but peaceful sleep.
 
-### Sunday with Stella
+### Part 2: Sunday with Stella
 
 Sunday morning in the small apartment felt blessedly calm. After breakfast, Stella focused on Leo's bath.
 

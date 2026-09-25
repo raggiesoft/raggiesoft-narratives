@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## The Vow, Revisited
 
-### The Proposition
+### Part 1: The Proposition
 
 The three of them were settled in the living room for a quiet evening. Megan was curled up in an armchair, reading a book for her work's book club. Alex and Chloé were on the sofa, watching a movie, their bodies comfortably intertwined, a new and wonderful intimacy that had become as natural as breathing.
 
@@ -39,7 +39,7 @@ Megan let out a happy, tearful laugh. "Are you kidding me, cuz?" she said, her v
 
 The decision was made. In the quiet of their Lynnwood apartment, a new, joyful, and incredibly exciting plan had just been born. They were going home to get married. For real this time.
 
-### The Family Announcement
+### Part 2: The Family Announcement
 
 The following Saturday afternoon, their Lynnwood apartment was the command center for a massive, cross-border family summit. Alex, Chloé, and Megan were huddled together on the sofa, their MagnaByte laptop perched on a coffee table in front of them. On the screen, a mosaic of familiar, beloved faces smiled back at them from three different locations: the Miller living room in Virginia, the Carter household nearby, and the Leclerc kitchen in Stanstead.
 
@@ -67,7 +67,7 @@ A fresh wave of happy, tearful cheers erupted from the laptop speakers. The chap
 
 ## Operation: Stanstead Wedding
 
-### Boots on the Ground
+### Part 1: Boots on the Ground
 
 The week following their joyful announcement was a whirlwind of happy, chaotic, and completely overwhelming preliminary planning. The first official "Wedding Summit" took place on a Saturday morning, a massive, multi-window video call connecting the Lynnwood apartment to the Miller and Carter households in Virginia and the Leclerc kitchen in Stanstead.
 
@@ -105,7 +105,7 @@ YOUR AUNT, Alex's device finally voiced, a note of profound, almost terrified re
 
 Chloé and Megan looked at each other and burst into a shared, happy laugh. "You have no idea," Chloé said, a grin on her face. "Operation: Stanstead Wedding is officially underway.
 
-### The Attire
+### Part 2: The Attire
 
 With a venue in Stanstead now secured thanks to Aunt Geneviève's tireless "boots on the ground" reconnaissance, the next phase of planning began: the wedding attire. For an event this important, video calls and online shopping would not suffice. In a coordinated, cross-country effort, both sets of parents flew out to Seattle for a long weekend dedicated to a single, joyful mission.
 
@@ -139,7 +139,7 @@ They left the shop having commissioned a piece of clothing that wasn't just a su
 
 That evening, the entire family gathered back at the Lynnwood apartment for a celebratory dinner. No details about the dress or the suit were shared—those were to be a surprise for the big day. But the two separate, successful missions had filled the small apartment with a new, powerful sense of reality. The clothes were chosen. The wedding was no longer just a plan; it was a tangible, beautiful event, waiting for them, just across the border.
 
-### Writing the Vows
+### Part 3: Writing the Vows
 
 A few weeks after the joyful chaos of the family announcement, a quiet, more serious task remained. One evening, after a long day of work, Alex, Chloé, and Megan were settled in their shared office in the Lynnwood apartment. Megan was focused on a complex document for Quantum, a comfortable, quiet presence. Alex and Chloé, however, were facing a blank page. It was time to write their vows.
 
@@ -169,7 +169,7 @@ Chloé watched the words appear on his screen, and a fresh wave of tears streame
 
 He wasn't just answering a question anymore. He was writing his vows. And they were perfect.
 
-### The Vow Script
+### Part 4: The Vow Script
 
 The quiet, emotional work of writing their vows was complete. Chloé was still wiping a happy tear from her eye, her handwritten promises sitting on the desk in front of her. But Alex, his own profound, heartfelt words now saved in a document, didn't pause. He immediately opened a new application—a simple, powerful scripting editor—and began to code. He didn't want to waste a single moment.
 
@@ -193,7 +193,7 @@ Megan’s eyes filled with tears. She reached over and wrapped her cousin in a f
 
 Chloé, watching them, her own heart full to bursting, couldn't have agreed more.
 
-### The Birth of an Idea
+### Part 5: The Birth of an Idea
 
 The emotional high from his Vow Script still lingered in the small office. Chloé and Megan were still talking about it, their voices a happy, admiring hum. But Alex, while pleased with their reaction, was already bothered. He looked at the AutoHotkey script on his screen, a quiet, professional dissatisfaction settling in.
 
@@ -219,7 +219,7 @@ YES, he typed, a proud, happy smile on his face. I THINK I CAN DO IT. I CAN STAR
 
 Rome wasn't going to be built in a day, and he wasn't going to write a full AAC interface overnight. But as Chloé and Megan watched, completely captivated, he began to brainstorm, sketching out new, prototype functions in the old code. The wedding was in a few weeks. But in the quiet of their Lynnwood apartment, Alex Miller had just, with a single, brilliant spark of inspiration, laid the first cornerstone of his entire professional future.
 
-### A Prototype is Born
+### Part 6: A Prototype is Born
 
 The next day, the quiet, focused energy in their shared office was palpable. Alex was on a mission, completely consumed by the new, brilliant idea that had sparked the night before.
 
@@ -267,7 +267,7 @@ IT'S BETTER, he typed, a look of profound satisfaction on his face. BUT IT'S STI
 
 Chloé and Megan looked at each other, a shared, silent understanding passing between them. This wasn't just a passion project anymore. This was the beginning of his life's work.
 
-### A Brand is Born
+### Part 7: A Brand is Born
 
 The three of them were still buzzing with the success of Alex's prototype. He had built a working scripting engine for his AAC in less than a day. As Chloé and Megan went to start dinner, Alex remained at his desk, a new, more serious look of concentration on his face. The prototype worked, but it had a fundamental flaw, one that went beyond the code itself.
 
@@ -289,7 +289,7 @@ For the next few hours, he was a digital archeologist, meticulously and methodic
 
 He was not just renaming his project; he was rebuilding it from the ground up, transforming a brilliant student project into the first, foundational lines of code for his new company. He was no longer just Alex Miller, the student. He was Alex Miller, the founder and chief architect of Echo Bridge.
 
-### The Art Director
+### Part 8: The Art Director
 
 The three of them sat in their shared office, a quiet, profound sense of accomplishment in the air. The "Echo Bridge Axon" project now had a name, a brand, and a functional, elegant system. Alex turned his screen to show Chloé and Megan the simple but powerful logo he had designed in a basic graphics program: a stylized image of soundwaves forming a bridge.
 
@@ -317,7 +317,7 @@ She worked collaboratively, asking for their input at every step. I LIKE THAT FO
 
 By the end of the evening, they had it. It was still Alex's logo, his brilliant concept, but it had been transformed. It was now a clean, professional, and infinitely scalable piece of branding, ready for the world. It was the first official product of the Echo Bridge company, a perfect, three-person collaboration between the architect, the editor-in-chief, and the art director.
 
-### Boots on the Ground Report
+### Part 9: Boots on the Ground Report
 
 The weekend after the "Echo Bridge" project was born, it was time to get back to the other major item on their agenda: the wedding. A video call was scheduled for Saturday morning. On the screen from Stanstead were Aunt Geneviève and Uncle David, their faces beaming with a sense of mission accomplished.
 
@@ -347,7 +347,7 @@ YES, Alex typed. "Yes!" Chloé and Megan said in unison.
 
 The decision was made. Thanks to the tireless, loving work of their "boots on the ground" in Québec, they had found the perfect place to begin the rest of their lives.
 
-### The Point of No Return
+### Part 10: The Point of No Return
 
 The week after Geneviève's triumphant report was a flurry of logistical activity. The mission: to turn the plan into a series of non-refundable confirmations. The Lynnwood apartment was once again a command center, but this time, the energy was one of joyful, irreversible momentum.
 
@@ -379,7 +379,7 @@ The last summer in Virginia felt like a lifetime ago. They weren't just a group 
 
 ## The Homecoming
 
-### The Journey East
+### Part 1: The Journey East
 
 The journey to their own wedding began on a grey, drizzly Seattle morning. The Lynnwood apartment was quiet, their bags packed and waiting by the door. The three of them—Alex, Chloé, and Megan—took one last look around their shared home, a silent acknowledgment of the life they had built there, before heading to Seattle-Tacoma International Airport in their accessible Holt Wayfarer.
 
@@ -395,7 +395,7 @@ Their connection at Chicago's Midway Airport was a smooth, practiced affair, a t
 
 When they finally landed in Norfolk, late in the evening, they were tired, but a deep, happy contentment had settled over them. The first, longest leg of their journey was over. They had crossed the continent as a single, indivisible unit. They were back in Virginia, and the celebration was about to begin.
 
-### Welcome to the Virginia Base Camp
+### Part 2: Welcome to the Virginia Base Camp
 
 The moment they stepped into the arrivals area at Norfolk International Airport, they were enveloped in a wave of pure, chaotic joy. The entire Miller and Carter clan was there, a boisterous, loving crowd holding hand-drawn welcome signs. The reunion was a flurry of hugs and happy tears, a warm, wonderful welcome home after a long journey.
 
@@ -425,7 +425,7 @@ Later that night, after the guests had gone and the house was quiet, the sleepin
 
 Alex settled in the middle, and with a quiet, practiced intimacy, Chloé climbed in on one side, and Megan on the other. They were a fortress, a triple-thick wall of safety and love. And in the quiet darkness, flanked by the two most important people in his entire world, Alex finally, truly, felt like he was home.
 
-### A Day in the Virginia Base Camp
+### Part 3: A Day in the Virginia Base Camp
 
 The single full day they had in Virginia before the flight to Montréal was a masterclass in the Miller-Mason-Carter family's loving, practical efficiency. Lisa Court was transformed into a bustling, two-house command center for "Operation: Stanstead Wedding."
 
@@ -457,7 +457,7 @@ James Miller, standing by the grill, raised a bottle of beer in a toast. "To our
 
 A chorus of heartfelt cheers went up from the family. The preparations were complete. The team was assembled. The last quiet night in Virginia was upon them, and the great Canadian wedding adventure was just a sunrise away.
 
-### The Journey North
+### Part 4: The Journey North
 
 The morning of the flight to Canada was a masterclass in organized chaos. Two large shuttle vans ferried the entire "Team USA" contingent—the Millers, the Carters, and the "three musketeers"—to Norfolk International Airport. The journey from ORF to Montréal (YUL), with a smooth connection in Philadelphia (PHL), was long but filled with a happy, anticipatory energy.
 
@@ -491,7 +491,7 @@ In the quiet of the Leclerc house, the three of them found their familiar rhythm
 
 ## Le Grand Jour (The Big Day) (Saturday, October 9th, 2010)
 
-### Les Préparatifs (Getting Ready)
+### Part 1: Les Préparatifs (Getting Ready)
 
 The day of their wedding dawned bright and clear over the Eastern Townships, the surface of Lake Massawippi a glittering sheet of glass. At Le Manoir Hovey, the atmosphere was a quiet hum of joyful, nervous energy.
 
@@ -527,7 +527,7 @@ He looked at Megan, a quiet, desperate plea in his eyes. She understood instantl
 
 He held on for a long moment, drawing on her strength. He was terrified. But he was also ready.
 
-### La Cérémonie (The Ceremony)
+### Part 2: La Cérémonie (The Ceremony)
 
 The late afternoon sun cast a golden, shimmering light across Lake Massawippi. On the flagstone terrace of Le Manoir Hovey, guests were seated, a happy, bilingual murmur filling the air. At the front, under a simple, elegant floral arch, a secular celebrant stood smiling, ready to begin.
 
@@ -569,7 +569,7 @@ Chloé and Megan flanked him, one kneeling in front of him, the other sitting be
 
 He looked at them, at his wife and his Best Woman, his two anchors, and slowly, the storm began to subside. He had done it. He had faced his fears, he had made his promise, and he had done it all using a voice he had built with his own two hands. The ceremony was over. The party was about to begin. And he was ready.
 
-### La Réception (The Reception)
+### Part 3: La Réception (The Reception)
 
 The reception was delayed by fifteen minutes, a small pause that went unnoticed by the guests who were happily mingling and enjoying mocktails in the grand ballroom of Le Manoir Hovey. In the small, quiet "safe room" just off the main hall, the final aftershocks of Alex's emotional overload were subsiding.
 
@@ -595,7 +595,7 @@ Alex, Chloé, and Megan were at the center of it all, a happy, three-person unit
 
 The atmosphere was not one of two separate families tentatively meeting; it was one, big, loud, and incredibly happy family, celebrating a love story they had all helped to build. The party was in full swing, and it was perfect.
 
-### La Première Danse (The First Dance)
+### Part 4: La Première Danse (The First Dance)
 
 After the magnificent, bilingual feast, as the daylight outside began to soften into the warm glow of a Québec twilight, the band leader stepped up to the microphone.
 
@@ -619,7 +619,7 @@ From the tables surrounding the dance floor, their entire, united, cross-border 
 
 As the song came to a close, they just held each other for a long, timeless moment. It was more than a dance. It was a promise kept, a dream realized, and the first, perfect, beautiful moment of the rest of their lives.
 
-### Les Danses d'Honneur (The Dances of Honor)
+### Part 5: Les Danses d\'Honneur (The Dances of Honor)
 
 After the profound, emotional high point of their first dance, Alex and Chloé remained on the floor, hand in hand, as the Master of Ceremonies stepped back up to the microphone.
 
@@ -665,7 +665,7 @@ Inside the quiet, dimly lit safe room, the door closed, and the overwhelming noi
 
 Chloé and Megan were there, a fortress of unconditional love, one kneeling in front of him, the other sitting beside him, their hands a firm, grounding pressure on his knees and shoulders. They just held him, weathering the storm with him, until the last of the tremors subsided and the roaring in his head finally gave way to the quiet, steady sound of their love.
 
-### L'Unité Inséparable (The Unbreakable Unit)
+### Part 6: L\'Unité Inséparable (The Unbreakable Unit)
 
 Fifteen minutes later, the door to the small, quiet safe room opened. Alex emerged, Chloé on one side and Megan on the other, their presence a silent, unwavering fortress of support. He was calm, the last of the emotional storm having passed, leaving a profound sense of peace in its wake. He was ready to rejoin his own wedding.
 
@@ -683,7 +683,7 @@ They found the large, accessible family restroom, and the three of them went ins
 
 They returned to the party a few minutes later, their bond a quiet, powerful presence that everyone in the room could feel, even if they didn't fully understand it. As the night wound down, the three of them found their way back to the dance floor for the final, slow song. They came together for a final, three-person hug, a perfect, quiet moment that celebrated their unique, unbreakable, and now publicly declared family unit.
 
-### Les Discours (The Toasts)
+### Part 7: Les Discours (The Toasts)
 
 As the evening deepened and the dance floor pulsed with a happy, bilingual energy, the Master of Ceremonies once again took the stage, calling for everyone's attention. A hush fell over the ballroom as he announced, first in French and then in English, that it was time for the toasts.
 
@@ -709,7 +709,7 @@ This earned an even bigger, more appreciative laugh, especially from the family 
 
 She turned her gaze to the happy couple. "I have never seen two people who are a more perfect team. You are each other's quiet place, each other's strength, and each other's biggest fan." She then looked directly at Alex, her voice full of a deep, sisterly love. "Cuz, seeing you standing here today, so full of joy and confidence... it's one of the proudest moments of my life." She raised her glass high. "To the happy couple, and to the third musketeer who is so honored to be a part of their team. To Alex and Chloé!" The room erupted in a final, thunderous cheer.
 
-### La Coupe du Gâteau (The Cutting of the Cake)
+### Part 8: La Coupe du Gâteau (The Cutting of the Cake)
 
 After the last heartfelt toast, the Master of Ceremonies once again took the stage, his voice full of a warm, happy energy.
 
@@ -727,7 +727,7 @@ From their tables, the parents watched, their faces a mixture of pride and profo
 
 As the band struck up another lively tune and the catering staff began to serve the cake to the guests, Alex, Chloé, and Megan stood together by the table. The formalities were over. All that was left was to dance, to laugh, and to celebrate the beginning of the rest of their lives, surrounded by every single person they loved.
 
-### La Poutine Célébratoire (The Celebratory Poutine)
+### Part 9: La Poutine Célébratoire (The Celebratory Poutine)
 
 As the catering staff began to serve the beautiful, three-tiered wedding cake, Alex looked at Chloé and Megan, a look of profound, almost mischievous satisfaction on his face. He had enjoyed the cake, but it wasn't the meal he had truly been waiting for. He typed on his Quantum Design Studio, his voice clear and full of a quiet, triumphant demand.
 
@@ -763,7 +763,7 @@ The poutine bar was an instant, massive success. It was the final, perfect, and 
 
 As he ate, a memory surfaced, clear and sharp: sitting in the quiet of his room on Lisa Court, weak and frail, dreaming of this exact moment. This wasn't just a taste of Québec; it was the taste of victory. It was the final, delicious, and hard-won symbol of a long journey. He looked at Chloé, who was watching him with tears in her eyes. He looked at Megan, who just gave him a huge, proud grin. A look of pure, unadulterated joy spread across his face. He was home.
 
-### La Dernière Danse (The Last Dance)
+### Part 10: La Dernière Danse (The Last Dance)
 
 As the evening began to wind down, the dance floor a happy, chaotic mix of classic rock and Québécois folk tunes, the Master of Ceremonies stepped up to the microphone one last time. A hush fell over the ballroom as a new, different kind of music began. It wasn't a party anthem or a slow ballad. It was the powerful, soaring opening notes of "Mon Nord Constant (My Constant North)," the iconic, emotionally charged ballad by the legendary Québécoise singer Arielle Dubois.
 
@@ -785,7 +785,7 @@ From their tables, their four parents watched, their faces wet with tears, a loo
 
 As the final, soaring notes of the song faded into a respectful silence, the three of them did not immediately break apart. They just held on for a moment longer, a single, indivisible unit. The wedding was over. The party was ending. And the last ghost of Vera Kowalski had been officially, and permanently, exorcised. For Alex, Chloé, and Megan, in the quiet, shared space of that final embrace, the rest of their lives had just truly, and beautifully, begun.
 
-### La Fin de la Soirée (The End of the Night)
+### Part 11: La Fin de la Soirée (The End of the Night)
 
 As the final, slow song faded and the house lights of the ballroom came up, a profound sense of happy, bone-deep weariness settled over the wedding party. The reception was over. It had been a perfect, joyous, and emotionally overwhelming day.
 
@@ -811,7 +811,7 @@ Chloé climbed in on one side, and Megan on the other. It wasn't a pull-out sofa
 
 He was flanked, held, and protected by his two most favorite women in the world, in the heart of his new, extended family. Yes, a bet is a bet, and a toque is a toque, but in the quiet darkness of the Leclerc house, surrounded by love on all sides, Alex Miller was the luckiest man in the entire world, eh?
 
-### Bonus Scene: A View from Portsmouth
+### Part 12: Bonus Scene: A View from Portsmouth
 
 In a small, dimly lit apartment in Portsmouth, Virginia, the glow of a laptop screen cast long shadows on the wall. Vera Kowalski, now in her late thirties, sat hunched forward, a look of grim, obsessive focus on her face. She had found the link to the wedding livestream through a third-hand connection. She had been watching for hours, a sour knot of envy and impotent rage tightening in her gut.
 
@@ -847,7 +847,7 @@ She watched the three of them in their "unbreakable circle of love" and felt not
 
 ## A Day in the Townships
 
-### The Morning After
+### Part 1: The Morning After
 
 The morning after their wedding was a picture of quiet, blissful domesticity. The three of them woke up slowly, tangled together in the massive, comfortable king-sized bed at the Leclerc house, the morning sun streaming through the window. The house was already filled with the rich, comforting aroma of coffee and baking croissants.
 
@@ -869,7 +869,7 @@ I WANT TO SEE THE VIEW, his device voiced. THE ONE FROM THE PAINTING.
 
 The request was a simple, perfect one. The painting of Lake Memphremagog that had hung in their Virginia apartment for years was a window into Chloé's world. Now, for the first time, he wanted to see if it could be a window into his own, as well.
 
-### A Taste of the Townships
+### Part 2: A Taste of the Townships
 
 The entire extended family—the Leclercs, Alex, Chloé, and Megan—piled into two minivans for a scenic drive. Their first stop was a local *fromagerie*, a charming little shop famous for its fresh, squeaky cheese curds. They bought several bags, a perfect, authentic Québécois snack for their outing.
 
@@ -899,7 +899,7 @@ The entire Leclerc clan erupted in a chorus of good-natured, theatrical boos. Ch
 
 "It was an accident of geography!" she declared to the laughing crowd. "IT IS A TOQUE, YOU TWO UNCIVILIZED AMERICANS!"
 
-### The Promise to Return
+### Part 3: The Promise to Return
 
 The rest of their last day in the Eastern Townships was a peaceful, happy blur. They returned from their scenic lookout to the Leclerc house, the air filled with the rich, comforting aroma of a massive family dinner being prepared. The meal was a loud, joyous affair, a final, loving celebration before their departure.
 
@@ -927,7 +927,7 @@ Megan, on his other side, just squeezed his arm, her own heart full. "You know w
 
 The seed was planted. It wasn't a plan yet, not really. It was just a dream, a quiet "someday" whispered in the dark. But in that moment, in the heart of the Eastern Townships, the final, true destination of their long journey together had quietly, and unanimously, been decided.
 
-### The Honeymoon
+### Part 4: The Honeymoon
 
 The day after their beautiful wedding was a day of profound, quiet peace. The last of the out-of-town guests had departed, leaving the Leclerc house in a state of happy, contented exhaustion. The three of them—Alex, Chloé, and Megan—spent the day in a lazy, blissful blur, helping the Leclercs with the minor cleanup, looking through the first batch of digital photos from the wedding, and reliving their favorite moments.
 
@@ -949,7 +949,7 @@ Later, as they prepared for bed, the routine was the same as it had been the nig
 
 In the quiet darkness, Alex reached out his hands, finding Chloé's on one side and Megan's on the other. This was their honeymoon. Not a night of passion, but a night of profound, quiet, and complete contentment. It was the perfect, silent reaffirmation of the promise they had made to the world, and to each other: they were not just a couple. They were a team. A family. An unbreakable, three-person unit, now and for all the nights to come.
 
-### The Departure
+### Part 5: The Departure
 
 The next morning, the Leclerc house was a flurry of organized, bilingual chaos. The entire extended family was in motion, packing last-minute souvenirs, triple-checking passports, and loading luggage into the three rental minivans. The beautiful, dream-like wedding was over, and it was time to go home.
 

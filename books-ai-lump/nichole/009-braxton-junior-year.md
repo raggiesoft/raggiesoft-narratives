@@ -7,7 +7,7 @@ series: "Nichole"
 
 ## Concept: The Joint Defense
 
-### The Outcome
+### Part 1: The Outcome
 
 They spent Junior year living in the lab and the library.
 

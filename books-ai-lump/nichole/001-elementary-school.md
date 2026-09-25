@@ -7,7 +7,7 @@ series: "Nichole"
 
 ## The Newport Vacation
 
-### The Bachelor Pad (The Lab)
+### Part 1: The Bachelor Pad (The Lab)
 
 ## Date: Friday, July 15, 1994 Location: Uncle Mark’s Apartment, The Point, Newport, RI
 
@@ -59,7 +59,7 @@ Mark left the room to help Ellen with the cooler. Patrick and Nichole were left 
 
 He looked at Nichole. She was staring at the amber light of the radio. "This is gonna be a good trip," Patrick whispered.
 
-### The Night Watch
+### Part 2: The Night Watch
 
 ## Date: Friday, July 15, 1994 Time: 9:30 PM Location: The Cockpit (Uncle Mark’s Spare Room)
 
@@ -113,7 +113,7 @@ Nichole froze for a second. *Nikki.* Mom called her Nichole. Dad called her Nich
 
 They fell asleep like that—tangled together on the hard futon, listening to the rain and the fan, safe in the cockpit of the Bennett Machine.
 
-### The Pitch
+### Part 3: The Pitch
 
 ## Date: Saturday, July 16, 1994 Time: 7:30 AM Location: The Cockpit
 
@@ -173,7 +173,7 @@ Tom smiled, a look of nostalgia crossing his face. "Dip & Sip," Tom said. "I spe
 
 Patrick turned back to his drawing. He added a switch. Nichole stirred on the futon. She opened her eyes, blinking against the light. She saw Patrick at the desk. She saw the adults standing around him. She didn't know what was happening, but she saw Patrick smiling. She pulled the quilt up and smiled back. The Bennett Machine was already at work.
 
-### The Circuit Barn
+### Part 4: The Circuit Barn
 
 ## Date: Saturday, July 16, 1994 Time: 9:05 AM Location: Circuit Barn, Newport Mall (Connell Highway)
 
@@ -255,7 +255,7 @@ Mark put a hand on Patrick’s shoulder. "Let's go, Engineer. We've got a Vulcan
 
 As they walked out into the mall, the buzzer sounded again. Patrick clutched the bag to his chest. For the first time, he didn't feel like a kid with a disability. He felt like a maker.
 
-### The Island Tour
+### Part 5: The Island Tour
 
 ## Date: Saturday, July 16, 1994 Time: 9:30 AM – 11:15 AM Location: The Holt Workmaster, touring Newport
 
@@ -329,7 +329,7 @@ Mark pulled the truck to the curb. "Touchdown," Mark said. "Prepare for extracti
 
 Patrick looked at Nichole. She was clutching the Circuit Barn bag with one hand and smiling. She had survived the night. She had survived the ocean. And now, she had donuts. It was, objectively, the best day ever.
 
-### The Park Summit
+### Part 6: The Park Summit
 
 ## Date: Saturday, July 16, 1994 Time: 11:20 AM Location: Equity Park (Broadway, Newport)
 
@@ -389,7 +389,7 @@ Patrick sat on the grass, eating his donut and flipping through diagrams of robo
 
 She didn't miss the apartment on Pond Avenue. She didn't care about the stairs she couldn't climb. She had the donut. She had the book. She had the breeze. And she had her family, sitting in a circle around her, closing the loop.
 
-### The Quiet Convoy
+### Part 7: The Quiet Convoy
 
 ## Date: Saturday, July 16, 1994 Time: 12:30 PM Location: Newport Memorial Park, Middletown, RI
 
@@ -559,7 +559,7 @@ Mark grinned. He pointed to a large blue and white sign up ahead. A giant sculpt
 
 "Refueling station," Mark announced.
 
-### BayFront Creamery
+### Part 8: BayFront Creamery
 
 ## Date: Saturday, July 16, 1994 Time: 1:15 PM Location: BayFront Creamery, West Main Road, Middletown, RI
 
@@ -663,7 +663,7 @@ This was the vacation. The circuit board, the ocean, the stone, and the sugar. I
 
 She took another sip of the Colossal Cooler. It was awful big. And it was awful good.
 
-### The Bennett Beacon
+### Part 9: The Bennett Beacon
 
 ## Date: Saturday, July 16, 1994 Time: 2:30 PM Location: The Cockpit (Uncle Mark’s Apartment)
 
@@ -737,7 +737,7 @@ Ellen leaned down and kissed Nichole on the head, right as the red light pulsed.
 
 ## Project Alpha
 
-### Origin Story: Project Alpha
+### Part 1: Origin Story: Project Alpha
 
 ## Date: June 15, 1996 Age: 10 Years Old Location: The Garage / Kitchen, 1850 Delaney Street
 

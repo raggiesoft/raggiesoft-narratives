@@ -7,7 +7,7 @@ series: "Nichole"
 
 ## The Fleet Upgrade
 
-### The Dual-Grid Dilemma
+### Part 1: The Dual-Grid Dilemma
 
 ## Date: December 12, 2003 Time: 10:00 AM Location: The Old Transport Van (Route 114, Portsmouth, Rhode Island)
 
@@ -97,7 +97,7 @@ Patrick finished locking the brand-new tie-downs into the floor. He rested his h
 
 The Gap Year was proving to be exactly what they needed. They were upgrading every single piece of the machine.
 
-### The Medical Handover
+### Part 2: The Medical Handover
 
 ## Date: January 14, 2004 Time: 9:15 AM Location: Newport Hospital Outpatient Care Center, Newport, Rhode Island
 
@@ -317,7 +317,7 @@ Patrick steered the Titan AeroMotion toward the exit. He didn't ask what they ta
 
 He just pushed her out into the cold Rhode Island air, loaded her into the warm van, and drove them home.
 
-### The Christmas Compiler
+### Part 3: The Christmas Compiler
 
 ## Date: December 23, 2003 Time: 4:30 PM Location: The Bennett Wing, 95 West Main Road, Portsmouth, Rhode Island
 
@@ -381,7 +381,7 @@ She launched the new software. The heavy loading screen of *Quantum Studio 2003*
 
 "MERRY. CHRISTMAS. TO. US."
 
-### The Winter Test
+### Part 4: The Winter Test
 
 ## Date: December 24, 2003 Time: 7:00 PM Location: The Living Room, 95 West Main Road, Portsmouth, Rhode Island
 
@@ -489,7 +489,7 @@ Nichole reached down and placed her hand over his where it rested on her waist. 
 
 Nichole closed her eyes, the rhythmic thrum of the backup generator vibrating through the mattress, and fell into the deepest, safest sleep of her life.
 
-### The Grid Returns
+### Part 5: The Grid Returns
 
 ## Date: December 25, 2003 Time: 7:00 AM Location: The Bennett Wing, 95 West Main Road, Portsmouth, Rhode Island
 
@@ -567,7 +567,7 @@ She opened the text-to-speech module.
 
 Outside, the snow plows were finally clearing West Main Road. The grid was alive, the Fortress was warm, and 2004 was officially on the horizon.
 
-### The Long Goodbye
+### Part 6: The Long Goodbye
 
 ## Date: December 27, 2003 Time: 4:15 PM Location: The First Floor Guest Suite, 95 West Main Road, Portsmouth, Rhode Island
 
@@ -631,7 +631,7 @@ Patrick put his arm around Nichole’s shoulders. They sat there in the quiet ro
 
 They weren't children watching a tragedy. They were adults witnessing a completion.
 
-### The Silent Investor
+### Part 7: The Silent Investor
 
 ## Date: December 29, 2003 Time: 3:42 AM Location: The First Floor Guest Suite, 95 West Main Road, Portsmouth, Rhode Island
 
@@ -735,7 +735,7 @@ Nichole looked at the binder. She tapped her screen.
 
 "WE. WILL. MAKE. IT. WORTH. IT."
 
-### The Final Transfer
+### Part 8: The Final Transfer
 
 ## Date: January 3, 2004 Time: 11:00 AM Location: The Cemetery, Middletown, Rhode Island
 
@@ -803,7 +803,7 @@ The gap year had taken their grandmother, but she hadn't left them behind. She h
 
 ## The Commuter Protocol
 
-### The Intake
+### Part 1: The Intake
 
 ## Date: January 22, 2004 Time: 9:45 AM Location: Office of Access & Equity, BSU Student Union (Level C)
 
@@ -877,7 +877,7 @@ Sarah raised an eyebrow, impressed. "Sticking to the transit network? Brave choi
 
 "Smart choice," Patrick corrected. "Down here in the tunnels, it never snows."
 
-### The Application
+### Part 2: The Application
 
 ## Time: 11:15 AM Location: Office of Undergraduate Admissions, BSU
 
@@ -921,7 +921,7 @@ She tapped her screen. **"WE. ARE. READY."**
 
 "Yeah," Patrick said, squeezing her shoulder. "We're ready. Now all we have to do is wait for the mail."
 
-### The Hardship Loophole
+### Part 3: The Hardship Loophole
 
 ## Date: January 22, 2004 Time: 12:30 PM Location: The Bull Pen Cafeteria, BSU Student Union
 
@@ -1039,7 +1039,7 @@ Nichole tapped her screen, a proud smile lighting up her face. **"MY. MEDIC."**
 
 "I'll see you in the fall," Sarah said, waving them out. "And remind me never to play chess against either of you."
 
-### The Liability Lie
+### Part 4: The Liability Lie
 
 ## Date: January 22, 2004 Time: 1:00 PM Location: Office of Access & Equity, BSU Student Union
 
@@ -1123,7 +1123,7 @@ Nichole didn't look back. She looked forward, toward the subway station, toward 
 
 **"FORWARD,"** she tapped. **"THE. MACHINE. MOVES. FORWARD."**
 
-### The Bridge Fund
+### Part 5: The Bridge Fund
 
 ## Date: April 15, 2004 Time: 4:30 PM Location: The Kitchen, 95 West Main Road, Portsmouth, Rhode Island
 
@@ -1207,7 +1207,7 @@ She tapped her screen.
 
 "Done," Tom said, closing the ledger with a satisfying thud. "Tomorrow morning, we buy the Fortress."
 
-### The Foundry
+### Part 6: The Foundry
 
 ## Date: April 16, 2004 Time: 10:00 AM Location: The Bennett Machine Transit Grid (Portsmouth to Braxton)
 
@@ -1299,7 +1299,7 @@ Mr. Caldwell didn't even run the credit check. Cash of that magnitude erased all
 
 "Well," Mr. Caldwell smiled, pulling the lease agreement from his desk. "I believe your application is approved. Sign here, please."
 
-### The Early Deployment
+### Part 7: The Early Deployment
 
 ## Date: April 17, 2004 Time: 9:00 AM Location: The Loading Dock, The Foundry Lofts
 
@@ -1439,7 +1439,7 @@ Nichole reached up and patted her uncle's cheek. She clicked her mouse.
 
 "Exactly," Patrick grinned, looking around the lobby of their new building. "Now... we just have to figure out how to move all our stuff on the subway."
 
-### The Zero-Barrier Routine
+### Part 8: The Zero-Barrier Routine
 
 ## Date: April 17, 2004 Time: 9:30 PM Location: The Master Bath, Unit 404
 
@@ -1515,7 +1515,7 @@ For the first time, they didn't just sleep. They rested.
 
 ## Exploring Braxton
 
-### The Zero-Friction Protocol
+### Part 1: The Zero-Friction Protocol
 
 ## Date: April 18, 2004 Time: 8:30 AM Location: The Master Suite, Unit 404
 
@@ -1597,7 +1597,7 @@ Nichole spun her chair toward the door. The batteries on the Titan AeroMotion we
 
 "LAUNCH."
 
-### The River and the System
+### Part 2: The River and the System
 
 ## Date: April 18, 2004 Time: 10:45 AM Location: The Braxton Riverwalk (North End)
 
@@ -1673,7 +1673,7 @@ She tapped the table with her free hand, getting his attention. She swallowed an
 
 "Yeah, Nikki," Patrick smiled, wiping mustard off his lip. "We really do."
 
-### The Edge of the Grid
+### Part 3: The Edge of the Grid
 
 ## Date: April 18, 2004 Time: 12:15 PM Location: Narragansett Esplanade, Pier 2
 
@@ -1739,7 +1739,7 @@ They were going back to The Foundry. Back to the loft. Back to their space.
 
 For the first time in their lives, "going home" didn't mean going to their parents' house. It meant going to the place where they made the rules.
 
-### The Safe Harbor
+### Part 4: The Safe Harbor
 
 ## Date: April 18, 2004 Time: 1:00 PM Location: The Blue Line (Underground)
 
@@ -1897,7 +1897,7 @@ She let out a long, happy sigh, her entire body going limp in his arms. She was 
 
 And for the next four years, no one was ever going to tell them "no" again.
 
-### The Gen-Ed Pact
+### Part 5: The Gen-Ed Pact
 
 ## Date: April 18, 2004 Time: 5:15 PM Location: The Command Center, Unit 404
 
@@ -2069,7 +2069,7 @@ She was safe. She was secure. And she was home.
 
 ## The Sync
 
-### The War Room
+### Part 1: The War Room
 
 ## Date: May 15, 2004 Time: 8:55 AM Location: The Command Center, Unit 404
 
@@ -2323,7 +2323,7 @@ Patrick grinned, spinning his chair back to the monitors.
 
 ## The Fortress Test
 
-### The Severed Link
+### Part 1: The Severed Link
 
 ## Date: July 15, 2004 Time: 4:30 PM Location: The Living Room, Unit 404
 
@@ -2363,7 +2363,7 @@ He walked over to the sofa and sat down next to her.
 
 "We are officially an island, Nikki."
 
-### The Siege
+### Part 2: The Siege
 
 ## Time: 5:15 PM Location: The Kitchen
 
@@ -2393,7 +2393,7 @@ She reached for her mouse.
 
 "Exactly," Patrick grinned. "The wizard would be proud."
 
-### The Watch
+### Part 3: The Watch
 
 ## Time: 6:30 PM Location: The Living Room
 
@@ -2431,7 +2431,7 @@ Nichole snuggled into Patrick’s side, resting her head on his shoulder as the 
 
 "LET. IT. RAIN," she thought. "WE. ARE. IRONCLAD."
 
-### The All-Clear
+### Part 4: The All-Clear
 
 ## Date: July 16, 2004 Time: 11:45 PM Location: The Living Room, Unit 404
 
@@ -2475,7 +2475,7 @@ He held her for a long time, his chin resting on top of her head. It wasn't just
 
 Nichole squeezed him back, burying her face in his chest. They had survived a subtropical storm without a single phone call to Portsmouth for help.
 
-### The Blueprint
+### Part 5: The Blueprint
 
 ## Date: July 16, 2004 Time: 12:10 AM Location: The Master Bedroom
 
@@ -2511,7 +2511,7 @@ The storm outside had tested their physical fortress. The semester ahead would t
 
 But as Nichole drifted off to sleep, holding her brother's hand, she knew they would pass that test too. They were the Bennett Machine. And the Machine was waterproof.
 
-### The Biological Override
+### Part 6: The Biological Override
 
 ## Date: July 16, 2004 Time: 12:20 AM Location: The Master Bedroom
 
@@ -2543,7 +2543,7 @@ She let out a long, final sigh, her body completely limp and heavy in the safety
 
 The Machine is waterproof, she thought again. Inside and out.
 
-### The Sacred Trust
+### Part 7: The Sacred Trust
 
 ## Date: July 16, 2004 Time: 12:25 AM Location: The Master Bedroom
 

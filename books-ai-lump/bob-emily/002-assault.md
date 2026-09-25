@@ -7,7 +7,7 @@ series: ""
 
 ## The Locker
 
-### The Assault
+### Part 1: The Assault
 
 The legend of the "Emily Jenkins Rule" gave the cousins a wide berth of respect and safety in the crowded hallways of Bluewater High. Bullies and troublemakers, having heard the story of the girl who was stronger than half the football team, left them completely alone.
 
@@ -33,7 +33,7 @@ There was a final, agonizing cry from Bob, and then the locker door was slammed 
 
 Caleb stood there for a moment, his breath ragged, his heart pounding with a sick sense of victory. He hadn't just punished Bob; he had removed the obstacle. He turned and walked away laughing, ready to go find his "prize," leaving Bob broken and trapped in the dark.
 
-### The Discovery
+### Part 2: The Discovery
 
 The hallway was quiet, filled with the muffled sounds of teaching from behind closed classroom doors. Emily approached the locker she shared with Bob, a textbook held to her chest, a soft, happy hum in her throat as she thought about their plans for the weekend.
 
@@ -63,7 +63,7 @@ The chatter and laughter died in their immediate vicinity, replaced by gasps of 
 
 A teacher pushed through the gathering crowd, his face shifting from annoyance to pure shock in an instant. The alarm had finally been raised. But in the cold reality of the echoing hallway, hours of critical time had already been lost forever.
 
-### The Investigation
+### Part 3: The Investigation
 
 The quiet hum of the main office was a stark contrast to the violence that had unfolded in the hallway. Dr. Rachel Ragsdale sat at her desk, her expression a mask of cold, controlled fury. The school's guidance counselor, Mr. Henderson, sat opposite her, looking pale and shaken.
 
@@ -83,7 +83,7 @@ She picked up her desk phone, her movements sharp and deliberate. She pressed th
 
 She hung up the phone and looked at Mr. Henderson, her eyes like chips of ice. "I'm having him arrested. Today."
 
-### The Arrest
+### Part 4: The Arrest
 
 The air in Dr. Ragsdale’s office was thick with a tense, unnatural quiet. Dr. Ragsdale sat behind her desk, her posture rigid, her expression unreadable. In the two chairs opposite her sat Officer Miller, a veteran cop whose calm demeanor couldn't hide the weariness in his eyes, and Officer Davis, younger, sharper, and radiating a coiled energy. They were waiting.
 
@@ -123,7 +123,7 @@ Caleb stared at him, his mouth half-open, his mind unable to process the command
 
 As Officer Miller continued reading him his rights, the officers guided the now silent, trembling Caleb out of the office. The door clicked shut, leaving Dr. Ragsdale alone in the sudden, heavy silence. She took no satisfaction from the scene, only a deep, profound sorrow for the lives that had been shattered in her hallways that day.
 
-### The Perp Walk
+### Part 5: The Perp Walk
 
 The journey from Dr. Ragsdale’s office to the main entrance of the school was the longest walk of Caleb Anderson’s life. With his hands cuffed securely behind his back, he was led by Officer Miller and Officer Davis through the crowded lobby during the busiest part of a class change.
 
@@ -141,7 +141,7 @@ From her office window, Dr. Ragsdale watched the police car pull away, her expre
 
 ## The Hospital
 
-### The Long Wait
+### Part 1: The Long Wait
 
 The controlled chaos of the children's hospital emergency room swirled around them, but the Scott family was an island of tense, focused silence. Bob lay on a gurney in a curtained-off bay, his face pale with pain and shock, his mangled legs covered by a thin white sheet.
 
@@ -159,7 +159,7 @@ OMG Emily they just took Caleb Anderson out of the office in handcuffs
 
 A sliver of dark, terrible satisfaction passed between them just as two orderlies came through the curtain. "It's time," they said gently. After a final, tearful moment, Bob was wheeled away, leaving his family alone to begin the long, agonizing wait.
 
-### Emily Explains Everything
+### Part 2: Emily Explains Everything
 
 Hours later, in a sterile, quiet waiting room, the adrenaline had faded, leaving only the dull ache of fear and grief. Diane finally turned to her niece. "Emily, honey," she said softly, "Who is Caleb? Why would he do this to Bob?"
 
@@ -175,7 +175,7 @@ The message was clear. Apparently, Caleb didn't get the hint. He thought he coul
 
 Emily then pulled out her mPhone and showed both David and Diane the text message she had received earlier from her classmate about seeing Caleb being led away in handcuffs. They stared at the screen, finally understanding the full, bizarre, and tragic sequence of events that had led them to this waiting room.
 
-### Waking Up
+### Part 3: Waking Up
 
 The first thing Bob was aware of was a sound. A slow, steady, rhythmic beeping that seemed to come from everywhere and nowhere at once. It was a sound that was trying to tell him he was alive.
 
@@ -195,7 +195,7 @@ By that evening, a doctor came in after reviewing a series of charts. "He's stab
 
 The transfer was a disorienting journey in his hospital bed, the ceiling tiles sliding by overhead. The new room was quieter, the beeping less insistent. It felt less like a crisis and more like a long, quiet battle had just begun. Emily was there, her hand gripping his, her presence the only anchor in his strange new reality. He was out of immediate danger, but his long, painful road to recovery was only just beginning. As they settled him in, Emily leaned close. He looked at her and managed the faintest, weakest hum. *I'm here.* It was the most beautiful sound she had ever heard.
 
-### The Daily Vigil
+### Part 4: The Daily Vigil
 
 The days in the pediatric recovery room fell into a quiet, monotonous rhythm. David, having moved his entire work-from-home setup to the small hospital visitor's table, filled the daytime hours with the soft clicking of his keyboard. His steady, calm presence was a comfort, but Bob's days were largely spent watching the clock, his mind counting down the minutes until school let out.
 
@@ -213,7 +213,7 @@ As Emily settled into the recliner, David turned on the local news. They sat tog
 
 David and Emily exchanged a brief, worried glance. A bad snowstorm was no longer just an inconvenience; it was now a serious complication in their already complicated lives. But for now, they pushed the thought aside. Emily was here, and for the next few hours, their small family was whole again in the quiet of the hospital room.
 
-### The Storm Arrives
+### Part 5: The Storm Arrives
 
 The day started like any other in their new hospital routine. Emily caught the 2:45 PM Green Line bus, arrived at the hospital around 3:15 PM, and was escorted up to Bob's room by David. The weather reports had been consistent all day: a major snowstorm was coming, but it wasn't expected to arrive until well after midnight.
 
@@ -255,7 +255,7 @@ As the staff brought in extra blankets, Bob's excitement was impossible to hide.
 
 Emily heard it and responded with her own soft, sad hum. Bob desperately wanted her to be in the bed with him, to snuggle up like they always did. She wanted it too. But they both understood it wasn't safe for his legs while he recovered. He was happy she was here, but sad she couldn't be right *here*. David took the sofa by the window, and Emily settled into the recliner for the long night ahead.
 
-### The Longest Night
+### Part 6: The Longest Night
 
 At 7:00 PM, the daytime staff rotated out, replaced by the quiet, focused energy of the night shift. By 9:00 PM, the family had settled in for their first unexpected night together. David made his bed on the sofa by the window while Emily curled up in the recliner. The chair was closer to Bob's bed, but it still wasn't close enough for the deep, grounding comfort they craved. They both hated it, but they understood. Doctor's orders were doctor's orders.
 
@@ -277,7 +277,7 @@ As they were putting on their shoes, the local news was running a "Storm Watch" 
 
 They were officially trapped. David and Emily went down to the hospital cafeteria, got their breakfast to-go, and brought it back to the room. The three of them ate together, watching the blizzard rage outside the window, a tiny, resilient family in their own private snow globe.
 
-### Discharge Day
+### Part 7: Discharge Day
 
 The morning after the third snowed-in night was bright and clear. The main roads were finally passable, and the doctor officially signed Bob's discharge papers. After twelve long days, they were finally going home.
 
@@ -295,7 +295,7 @@ After David carefully helped Bob transfer from the wheelchair into the front pas
 
 As they pulled away from the hospital, a new chapter was beginning. They were going home, but they were leaving another piece of their old normal behind.
 
-### Chapter Notes: The Planetarium Promise
+### Part 8: Chapter Notes: The Planetarium Promise
 
 From the very first week of school in September, the highlight of Bob and Emily's academic year was a date circled on the Earth Science syllabus: the annual spring field trip. What made it special this year was the destination. Galax Community College, a 45-minute drive away, had just opened a brand-new, state-of-the-art planetarium the month before. The chance to see the stars in a new way became a beacon for the two astronomy-loving cousins. Their shared, excited chirps in the Heart-Hum whenever Mr. Shaneyfelt mentioned it were a constant, happy feature of his second-period class.
 

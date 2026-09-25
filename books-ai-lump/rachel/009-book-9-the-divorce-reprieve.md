@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Mall (Friday, August 17th, 2001)
 
-### Part 1: Vacation from Parents – 10:30 AM
+### Part 1: Vacation from Parents
 
 The heavy trunk of the sedan slammed shut, the metallic thud echoing over the roar of jet engines at the Norfolk International Airport drop-off curb.
 
@@ -51,7 +51,7 @@ My sister pouted slightly, looking up at me. "How much did Mom give us?"
 
 I could almost see the math forming in her eyes, knowing that whatever number I said, it wasn't going to be enough to buy the absolute, unlimited freedom she was craving.
 
-### Part 2: Afternoon at the Mall – 1:00 PM
+### Part 2: Afternoon at the Mall
 
 The Emerald Creek Mall was a massive, sprawling brick fortress. On a Friday afternoon, it was already vibrating with a low-frequency hum of activity, but I knew the layout well enough to avoid the worst of the friction. Instead of fighting the traffic at the main department store entrances, I navigated the ring road all the way to the back perimeter, deliberately aiming for the hidden glass elevator that bypassed the main concourse and delivered you straight to the second-floor food court.
 
@@ -113,7 +113,7 @@ We waited three minutes outside the curtain for the machine to spit out the stri
 
 She tucked the photo strip carefully into her pocket, linked her arm back through mine, and we walked out to the car.
 
-### Part 3: Up All Night Party – 8:00 PM
+### Part 3: Up All Night Party
 
 By the time we got back to the quiet sanctuary of the Delaney Street house, the sun had set.
 
@@ -175,7 +175,7 @@ I slid over and put my arm firmly around my kid sister, pulling her securely aga
 
 ## Chapter 2: The Teenage Script (Saturday, August 18th, 2001)
 
-### Part 1: The Elephant in the Room – 8:30 AM
+### Part 1: The Elephant in the Room
 
 I woke up to the heavy, rhythmic thumping of a dog’s tail hitting the side of the sofa bed.
 
@@ -225,7 +225,7 @@ She pushed the heavy blankets back and climbed off the mattress. Archie immediat
 
 The outside world could have their parties and their complicated social expectations. Inside the walls of the Delaney Street house, we were building our own rules.
 
-### Part 2: The Morning Routine – 9:00 AM
+### Part 2: The Morning Routine
 
 As Rachel headed toward the kitchen, I stayed on the edge of the mattress for a moment, my bare feet resting on the cool living room carpet.
 
@@ -265,7 +265,7 @@ Rachel took a bite of her cereal, chewing slowly, her shoulder resting firmly ag
 
 Sitting there in the dim living room, completely insulated from the demands and expectations of the outside world, I realized I was genuinely happy. The divorce was still looming out there somewhere in the future, but right here, in this exact moment, everything was perfect.
 
-### Part 3: The Cross-Country Bargain – 1:00 PM
+### Part 3: The Cross-Country Bargain
 
 The absolute peace of our Saturday lasted exactly until one o'clock in the afternoon.
 

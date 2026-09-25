@@ -7,7 +7,7 @@ series: ""
 
 ## A Fortress of Our Own
 
-### The Weapon
+### Part 1: The Weapon
 
 By the time Stella, Luna, Leo, and Olivia had settled into their new normal—a rhythm of college classes, quiet evenings, and the slow, steady healing from the ordeal with Delores—their grandparents, Arthur and Eleanor, had passed away peacefully, leaving the fortress four as the sole inheritors of their quiet wisdom and vast fortune. The house on Daniel Maloney Drive, once a sanctuary built by their grandparents' love, now belonged entirely to them. But with that inheritance came a new, more insidious kind of fear.
 
@@ -41,7 +41,7 @@ Olivia felt a jolt of ice-cold fear, because she knew Stella was right. She thou
 
 Olivia didn't hesitate for a second. She looked from Stella's determined, fearful face to the two innocent souls on the sofa, and her own resolve hardened into steel. "You're right," she said, her voice a low, fierce promise. "Let's build them a fortress no one can ever breach."
 
-### The Green and Gold
+### Part 2: The Green and Gold
 
 ## October 2005 CCHR - Virginia Beach Campus Gymnasium
 
@@ -223,7 +223,7 @@ As the Fortress rolled away, heading toward the exit, they didn't look back at t
 
 They had a target. Now, they just had to finish the semester and pack the car.
 
-### The Shibboleth
+### Part 3: The Shibboleth
 
 The Next Morning Braxton State University - The Fine Arts Center *Dean* Sterling’s Office
 
@@ -289,7 +289,7 @@ Sterling looked at the email address scrawled on the paper. She didn't put the n
 
 Dr. Aris walked out, whistling. He had secured a genius for his department, and he had handed the Music Dean a prodigy on a silver platter. It was a good day to be a Bull.
 
-### The Tape
+### Part 4: The Tape
 
 November 2005 1091 Daniel Maloney Drive - Living Room
 
@@ -331,7 +331,7 @@ Luna lowered the flute, letting out a long, shaky breath. "I didn't crash on the
 
 "It didn't just speak," Stella said, stopping the recording. "It sang. Dr. Aris is going to lose his mind."
 
-### The Verdict
+### Part 5: The Verdict
 
 Two Days Later Braxton State University - Dean Sterling’s Office
 
@@ -375,7 +375,7 @@ She pulled out a heavy, cream-colored sheet of stationery.
 
 "They better," Sterling muttered, already typing. "Because I just found my soloist for the Debussy cycle."
 
-### The Northward Compass
+### Part 6: The Northward Compass
 
 November 24, 2005 (Thanksgiving Day) 1091 Daniel Maloney Drive
 
@@ -471,7 +471,7 @@ He reached across the table and took Eleanor’s hand.
 
 Outside, the wind rattled the siding of the little house on Daniel Maloney Drive. It was a safe house, a good house. But as they ate their apple-cranberry pie, they all knew it was temporary. The compass had swung North, and they were ready to follow it.
 
-### The Long Twilight
+### Part 7: The Long Twilight
 
 November 24, 2005 (Thanksgiving Night) 1091 Daniel Maloney Drive
 
@@ -521,7 +521,7 @@ Stella looked at them. She saw the fragility in their frames—the way Arthur’
 
 ## The Reconnaissance
 
-### The Iron Link
+### Part 1: The Iron Link
 
 ## Section 1: December 27, 2005 ARTS Newport News Station (NPN) 05:45 AM
 
@@ -687,7 +687,7 @@ Leo tapped his Quantum Communicator.
 
 "You beat the machine," Stella noted, checking her watch. "Efficiency. I like it. Now let's go find our rooms.
 
-### The Hospitality Standard
+### Part 2: The Hospitality Standard
 
 ## 04:50 PM The University Inn - Lower Level Entrance
 
@@ -785,7 +785,7 @@ He tapped his screen.
 
 "Make it six bowls," Arthur said, moving toward his own room to freshen up. "We'll eat in here. A family dinner in the new world."
 
-### The Concourse Encounter
+### Part 3: The Concourse Encounter
 
 December 27, 2005 Narraganset Esplanade Station - The Concourse (Level 1) 05:30 PM
 
@@ -879,7 +879,7 @@ She spun the chair around. They raced back down the Concourse Tunnel, ignoring t
 
 They burst into the elevator, hitting the button for the lobby. They had come for a vacation. They were leaving with a career.
 
-### The Victory Lap & The Blueprint
+### Part 4: The Victory Lap & The Blueprint
 
 ## December 27, 2005 The University Inn - Room 101 05:45 PM
 
@@ -949,7 +949,7 @@ Leo looked up at them. He felt Luna’s heartbeat against his side. He smelled O
 
 He didn't need to type. He just closed his eyes and let the darkness take him, held tight in the center of the only geography that mattered.
 
-### The Subterranean City
+### Part 5: The Subterranean City
 
 ## December 28, 2005 - The University Inn - The Chancellor Dining Room 08:45 AM
 
@@ -1077,7 +1077,7 @@ The door to the inner office opened. Dean Elise Sterling stepped out. She saw Lu
 
 "Good," Sterling said, holding the door wide. "Come in. Let's hear what silver sounds like."
 
-### The Silver Standard
+### Part 6: The Silver Standard
 
 ## December 28, 2005 Fine Arts Center - Dean’s Office 10:05 AM
 
@@ -1187,7 +1187,7 @@ Luna hugged the flute to her chest. She looked at Arthur and Eleanor. Eleanor wa
 
 They had come to see if the city was right. The city had just answered back: *Yes.*
 
-### The Adrenaline Crash
+### Part 7: The Adrenaline Crash
 
 ## December 28, 2005 Fine Arts Center - Atrium 10:45 AM
 
@@ -1305,7 +1305,7 @@ She wasn't just better than them. She was the mercenary they would eventually ha
 
 "Yes," Olivia agreed, looking out the window as the train slowed. "And we're almost to the site. Get ready for the Stress Test."
 
-### The Foundation
+### Part 8: The Foundation
 
 ## 11:40 AM Iron Point Station - Parking Lot
 
@@ -1359,7 +1359,7 @@ Luna, awake now and bundled to the nose, looked at the empty lot. She hummed the
 
 They stood there for a moment longer, claiming the land with their eyes—four Porters and two Bennetts, planting a flag in the New England snow. They were frozen, tired, and windblown. But they were home.
 
-### The Last Train Out
+### Part 9: The Last Train Out
 
 ## December 28, 2005 Iron Point Station - Platform 12:35 PM
 
@@ -1443,7 +1443,7 @@ Stella smiled, pulling out her phone to call Barbara the real estate agent. "Yes
 
 They headed to the elevators, leaving the storm outside to rage against the walls of their new city.
 
-### The Pulse of the City
+### Part 10: The Pulse of the City
 
 ## December 28, 2005 Narraganset Esplanade Station - Level 0 (The Deep) 02:30 PM
 
@@ -1507,7 +1507,7 @@ He realized why he loved the BTA. It wasn't just because it was convenient. It w
 
 They ascended back to the surface, leaving the slow, steady heartbeat of the city to pump in the darkness below.
 
-### The Cash Hammer
+### Part 11: The Cash Hammer
 
 ## December 28, 2005 The University Inn - Room 101 03:00 PM
 
@@ -1587,7 +1587,7 @@ He tapped his Quantum Communicator.
 
 "Done," Stella grinned, picking up the hotel phone. "I think we can afford it."
 
-### The Paper Fortress
+### Part 12: The Paper Fortress
 
 ## December 28, 2005 The University Inn - Business Center 03:30 PM
 
@@ -1667,7 +1667,7 @@ Arthur stood up, patting her shoulder with a hand that trembled just slightly. "
 
 They left the business center, clutching the thermal paper like a treasure map. Outside, the storm raged, burying the city in white. But inside, they were warm, they were named, and they were home.
 
-### The Lobster Toast
+### Part 13: The Lobster Toast
 
 ## December 28, 2005 The University Inn - Room 101 (The Suite) 07:30 PM
 
@@ -1709,7 +1709,7 @@ Outside, the city of Braxton was shutting down, buried under two feet of snow. B
 
 ## The Big Dig
 
-### The Orange Army
+### Part 1: The Orange Army
 
 ## December 29, 2005 The University Inn - Room 101 07:00 AM
 
@@ -1789,7 +1789,7 @@ Leo’s eyes lit up. He grabbed his wheels.
 
 "Suit up," Stella commanded. "Light jackets only. It's seventy degrees underground."
 
-### The Subterranean City
+### Part 2: The Subterranean City
 
 December 29, 2005
 
@@ -1935,7 +1935,7 @@ Olivia took the handles of the manual chair. "I'm driving the rest of the way," 
 
 They turned back toward the hotel, leaving the depths of the Bull Run behind, knowing that the next time Leo entered these tunnels, he would be doing it under his own electric power.
 
-### The Quiet Harbor
+### Part 3: The Quiet Harbor
 
 December 29, 2005 Narraganset Esplanade Station - Concourse Level 10:45 AM
 
@@ -1987,7 +1987,7 @@ He tapped his Quantum Communicator.
 
 They sat there for a long time, sipping chocolate and watching the lonely Red Line train finally close its doors and slide into the dark tunnel, keeping the heartbeat of the city alive.
 
-### The Blue Line Run
+### Part 4: The Blue Line Run
 
 ## December 29, 2005 Narraganset Esplanade Station - Level 0 (The Deep) 11:10 AM
 
@@ -2081,7 +2081,7 @@ As they boarded the return train to Narraganset Esplanade, Leo looked back at th
 
 "We went for a ride," Luna corrected, leaning her head on his shoulder. "But yeah. We conquered it."
 
-### The Restoration
+### Part 5: The Restoration
 
 ## December 29, 2005 Narraganset Esplanade Station - Level 0 (The Deep) 12:30 PM
 
@@ -2151,7 +2151,7 @@ Leo closed his eyes. He listened to the faint hum of the hotel HVAC. He thought 
 
 He was tired. But he wasn't scared. For the first time in a long time, he knew exactly where he was going.
 
-### The Closing Table
+### Part 6: The Closing Table
 
 ## December 30, 2005 Iron Point Realty - Conference Room 10:00 AM
 
@@ -2279,7 +2279,7 @@ Leo rolled to the window and looked out at the street of Iron Point. It was no l
 
 "Yes you are, Leo Arthur," his grandfather said, closing his eyes for a moment of rest. "Yes you are."
 
-### The Final Look
+### Part 7: The Final Look
 
 ## December 30, 2005 Braxton Central Terminal - Level 1 (The Deep) 08:00 AM
 
@@ -2299,7 +2299,7 @@ The silver train glided in.
 
 This time, Arthur didn't walk to the Business Class table. He sank into the first available seat near the door. Eleanor sat beside him, covering him with a blanket. He slept for almost the entire 13-hour journey south, waking only when they crossed the Mason-Dixon line, offering a small, satisfied nod before drifting off again.
 
-### The Iron Record
+### Part 8: The Iron Record
 
 ## January 9, 2006 Iron Point Registry of Deeds – Iron Point, RI 11:45 AM
 
@@ -2370,7 +2370,7 @@ Leo’s voice came through the background, via his Communicator.
 
 "Fortress secure," Stella agreed. "Now I just have to go find a contractor who knows how to pour concrete in a nor'easter."
 
-### The Engine Stops
+### Part 9: The Engine Stops
 
 ## December 30, 2005 The University Inn - Room 103 03:00 AM
 
@@ -2434,7 +2434,7 @@ Leo rolled up to her. He placed his hand on her knee.
 
 "Grandma is coming," Eleanor agreed, covering his hand with hers. "I promised Arthur I'd keep an eye on you. And I never break a promise."
 
-### The Quiet Departure
+### Part 10: The Quiet Departure
 
 ## December 30, 2005 The University Inn - Front Desk 07:30 AM
 
@@ -2502,7 +2502,7 @@ They walked back to the suite. The sun was blazing outside, melting the snow on 
 
 Arthur Bennett had checked out. But he had left them the keys to the kingdom.
 
-### The Vessel
+### Part 11: The Vessel
 
 ## December 31, 2005 Braxton City - The Arts District 10:00 AM
 
@@ -2572,7 +2572,7 @@ Leo watched Stella secure the case. He knew what was inside. But looking at the 
 
 They walked out of the studio, carrying their patriarch into the winter sun, ready for the final ride south.
 
-### The Final Passenger
+### Part 12: The Final Passenger
 
 ## January 5, 2006 Braxton Central Terminal - Level 1 (The Deep) 08:00 AM
 
@@ -2676,7 +2676,7 @@ They drove out of the station, the headlights cutting through the Virginia night
 
 ## The Foundation
 
-### The Transfer of Power
+### Part 1: The Transfer of Power
 
 ## February 2, 2006 Law Office of Sarah Jenkins - Norfolk, VA 10:00 AM
 
@@ -2734,7 +2734,7 @@ Leo tapped his Quantum Communicator.
 
 "THEY ARE," Leo typed. "AND THE STATIONS HAVE ELEVATORS."
 
-### The War Room
+### Part 2: The War Room
 
 ## January 16, 2006 1091 Daniel Maloney Drive, Virginia Beach 10:00 AM
 
@@ -2818,7 +2818,7 @@ Leo watched Stella grab her keys. He looked at the urn on the shelf.
 
 "The General always has a plan," Olivia smiled. "Let's get to work."
 
-### The Permission Slip
+### Part 3: The Permission Slip
 
 ## February 10, 2006 Virginia Beach Circuit Court 09:00 AM
 
@@ -2848,7 +2848,7 @@ He handed the order to the clerk.
 
 "We have, Your Honor," Stella smiled. "Thank you."
 
-### The Heavy Lift
+### Part 4: The Heavy Lift
 
 ## July 25, 2006 1091 Daniel Maloney Drive The Last Week
 
@@ -2976,7 +2976,7 @@ Leo looked at the schedule. He tapped the entry for **04:45 AM**.
 
 "The earliest," Stella confirmed. "It gets us to the platform at 05:15 AM. Plenty of time to load. Get some sleep. We wake up in Virginia, but we sleep in Rhode Island."
 
-### The Final Crossing
+### Part 5: The Final Crossing
 
 ## July 26, 2006 Warwick Boulevard (US-60) - Southbound 05:10 AM
 
@@ -3058,7 +3058,7 @@ Leo looked at the station. It was ugly, industrial, and fenced in. But there was
 
 They walked toward the platform, leaving the hostile asphalt of Virginia behind for good.
 
-### The ARTS-Box
+### Part 6: The ARTS-Box
 
 ## July 26, 2006 ARTS Newport News Station (NPN) 05:25 AM
 
@@ -3138,7 +3138,7 @@ The train pulled out of the station, leaving the ARTS-Box, the humidity, and the
 
 ## The Exodus
 
-### The Landing
+### Part 1: The Landing
 
 ## July 26, 2006 Iron Point Station (ARTS Platform) 06:45 PM
 
@@ -3206,7 +3206,7 @@ He wasn't visiting anymore. He lived here.
 
 "They'll be here," Olivia promised, sitting beside him. "The Tank and the furniture. Until then... we have pancakes."
 
-### The Home Court
+### Part 2: The Home Court
 
 ## July 27, 2006 Iron Point Town Hall - Probate Court 09:00 AM
 
@@ -3294,7 +3294,7 @@ He tapped his Scribe.
 
 "The ultimate advantage," Olivia agreed. "Now, let's go check the tracking on the moving truck. I think our furniture is crossing the George Washington Bridge."
 
-### The Traffic Report
+### Part 3: The Traffic Report
 
 ## July 27, 2006 The Grey Gull Inn - Carriage House 12:30 PM
 
@@ -3336,7 +3336,7 @@ Leo nodded. He liked that plan. It was preparation. It was engineering.
 
 They walked back to **8 Ocean View Lane**, leaving the movers to fight the traffic while they prepared the ground for their arrival.
 
-### The Ghost Layout
+### Part 4: The Ghost Layout
 
 ## July 27, 2006 8 Ocean View Lane 01:00 PM
 
@@ -3492,7 +3492,7 @@ Leo looked at the spot marked **SOFA**. He imagined himself there, stomach-to-st
 
 They locked the door—their door—and walked back to the Inn, leaving the blue outlines of their future waiting for them in the quiet house.
 
-### The Capital Request
+### Part 5: The Capital Request
 
 ## July 27, 2006 The Grey Gull Inn - Dining Room 07:00 PM
 
@@ -3562,7 +3562,7 @@ Leo sat back, satisfied. He had his house, his train, his drums, and his tank.
 
 "Deal," Leo typed. *"I WILL ENGINEER THE COFFEE MILK."*
 
-### The Ghost in the Deed
+### Part 6: The Ghost in the Deed
 
 ## July 27, 2006 The Grey Gull Inn - Carriage House 09:30 PM
 
@@ -3666,7 +3666,7 @@ The room went quiet, save for the sound of four people breathing in sync. The gh
 
 "Okay," Olivia whispered, smoothing Luna’s hair. "The threat is gone. Let's get you guys under the covers. Real blankets. No ghosts allowed."
 
-### The Twin Frequency
+### Part 7: The Twin Frequency
 
 ## July 27, 2006 The Grey Gull Inn - Carriage House (Master Bedroom) 10:15 PM
 
@@ -3758,7 +3758,7 @@ Inside the room, the twins slept, locked together in a tangle of limbs and share
 
 They were safe. They were grounded. And tomorrow, the moving truck would arrive.
 
-### The Wall Test
+### Part 8: The Wall Test
 
 ## August 15, 2006 8 Ocean View Lane 11:00 AM
 
@@ -3816,7 +3816,7 @@ Leo let out a long breath. He squeezed Luna tighter.
 
 The wall had passed its first test. It had turned a potential APS investigation into a friendly neighborly visit. The Fortress was secure.
 
-### The Warning Signs
+### Part 9: The Warning Signs
 
 ## September 2006 8 Ocean View Lane - The Driveway Saturday Morning
 
@@ -3864,7 +3864,7 @@ Leo looked at the layers of defense.
 
 ## The Power Upgrade
 
-### The Ticket Kiosk
+### Part 1: The Ticket Kiosk
 
 ## July 28, 2006 Iron Point Station - Plaza Level 09:00 AM
 
@@ -3940,7 +3940,7 @@ Leo took his card. He looked at the map on the station wall. He traced the orang
 
 "Exactly," Stella said. "Now let's go use it. The 9:15 to **Braxton Central** is coming. We have a power chair to buy."
 
-### The Commute to Commerce
+### Part 2: The Commute to Commerce
 
 ## 09:15 AM South Shore Line - Inbound
 
@@ -3964,7 +3964,7 @@ The bus pulled in—a low-floor **Stalwart**. They boarded, tapping their fresh 
 
 Leo rolled into the securement bay. He looked out the window as the bus navigated the busy city streets. He wasn't just going to a store; he was going to get his legs.
 
-### The Showroom
+### Part 3: The Showroom
 
 ## 10:15 AM Metro Mobility - Main Street
 
@@ -4050,7 +4050,7 @@ Leo looked at her. He looked at the bus stop ahead. He looked at the city.
 
 They headed for the bus stop, Leo leading the way in his new chariot, leaving the manual chair behind to be delivered by the staff. He didn't need it anymore. He had the power.
 
-### The Blue Planet
+### Part 4: The Blue Planet
 
 ## July 28, 2006 BTA Route 4 - Westbound 10:45 AM
 
@@ -4220,7 +4220,7 @@ Leo watched the boat disappear around the point. He liked that his pass worked o
 
 "Aye aye, Captain," Arthur said, finishing his lobster roll. "Let's go find our sea legs."
 
-### The Crossing and the Calm
+### Part 5: The Crossing and the Calm
 
 ## July 28, 2006 BTA Ferry F2 - "The City Link" 01:30 PM
 
@@ -4338,7 +4338,7 @@ Eleanor looked at the photo of Arthur, then at the door where she could hear the
 
 Stella walked out of the room, leaving the ghost of Karen Porter packed away in the dark, while the rest of the family lived in the light.
 
-### The Shield
+### Part 6: The Shield
 
 ## July 28, 2006 8 Ocean View Lane - Living Room 04:00 PM
 
@@ -4414,7 +4414,7 @@ Luna loosened her grip. Olivia helped Leo sit up.
 
 "Safe," Stella promised, patting the stone partition that separated their world from the one that would never understand them. "Totally safe."
 
-### The Supply Run
+### Part 7: The Supply Run
 
 ## July 28, 2006 8 Ocean View Lane 05:00 PM
 
@@ -4462,7 +4462,7 @@ Leo didn't open his eyes. He just tapped his fingers against Luna’s side—a s
 
 For the next hour, the only sounds in the house were the hum of the refrigerator and the soft breathing of the Fortress, holding itself together while the world outside rushed by.
 
-### The Return of the Fleet
+### Part 8: The Return of the Fleet
 
 ## July 28, 2006 8 Ocean View Lane - Living Room 05:30 PM
 
@@ -4568,7 +4568,7 @@ It was their first meal in the Fortress. They weren't visitors anymore. They wer
 
 ## The Paper Trail
 
-### The Official Stamp
+### Part 1: The Official Stamp
 
 ## August 10, 2006 Rhode Island DMV - Oakhaven Branch 08:30 AM
 
@@ -4626,7 +4626,7 @@ He tapped his **MagnaByte Scribe**.
 
 *"SYSTEM UPDATE COMPLETE,"* he typed. *"VIRGINIA UNINSTALLED."*
 
-### The Eastern Townships Connection
+### Part 2: The Eastern Townships Connection
 
 ## August 22, 2006 Braxton State University - The Language Commons 11:00 AM
 
@@ -4730,7 +4730,7 @@ They walked out of the office, registered for a class Olivia could have taught, 
 
 "And citizenship," Olivia whispered to him, squeezing his shoulder. "Just in case."
 
-### The Principal Chair
+### Part 3: The Principal Chair
 
 ## August 22, 2006 Braxton Conservatory - Dean Sterling’s Office 01:00 PM
 
@@ -4840,7 +4840,7 @@ She looked at Leo.
 
 "It's a good view," Luna said. "Now let's go find Room 304. I want to test the lock."
 
-### The Lock Test
+### Part 4: The Lock Test
 
 ## August 22, 2006 Braxton Conservatory - 3rd Floor Hallway 01:15 PM
 
@@ -4896,7 +4896,7 @@ Leo looked at the reader. He understood the logic. It wasn't about exclusion; it
 
 They propped the door open (since the "visitors" couldn't unlock it) and walked into the silent, acoustically perfect room that belonged, legally and digitally, only to the twins.
 
-### The Master Schedule
+### Part 5: The Master Schedule
 
 ## August 22, 2006 Braxton State University - The Student Union 02:00 PM
 
@@ -4976,7 +4976,7 @@ Leo looked at the spreadsheet. It wasn't just a schedule; it was a battle plan. 
 
 They packed up and headed for the bookstore, a fully integrated academic unit ready to take on the semester.
 
-### The Bill
+### Part 6: The Bill
 
 ## August 22, 2006 Braxton State University - Office of the Bursar 03:00 PM
 
@@ -5050,7 +5050,7 @@ She checked her watch.
 
 Leo grinned. He liked the logic. They paid a fortune for the education, but the ride home—and the name on the ID—was theirs forever.
 
-### The Textbook Run
+### Part 7: The Textbook Run
 
 ## August 22, 2006 BSU Bookstore - Main Level 03:35 PM
 
@@ -5154,7 +5154,7 @@ The "First Year" hadn't even started yet, and he already had his first engineeri
 
 The train rattled on, carrying the students, the musician, the protector, and the engineer toward the home they had built. The semester was about to begin.
 
-### The Last Mile Problem
+### Part 8: The Last Mile Problem
 
 ## August 22, 2006 Iron Point Station - Platform 05:15 PM
 
@@ -5234,7 +5234,7 @@ Leo looked at his chair. It was a great machine, but it was incomplete. Tomorrow
 
 ## The Island Crossing
 
-### The Ferry and the Fortress
+### Part 1: The Ferry and the Fortress
 
 ## August 23, 2006 Iron Point Station - Platform 08:15 AM
 
@@ -5390,7 +5390,7 @@ They exited the restroom back into the lobby.
 
 "The team always works," Olivia said. "Now, let's go catch the **Route 67** bus. I believe there is a mansion with our name on it."
 
-### The Gilded Age Tour
+### Part 2: The Gilded Age Tour
 
 ## August 23, 2006 OSTA Route 67 - "The Mansion Loop" 09:45 AM
 
@@ -5484,7 +5484,7 @@ He preferred this to the mansion. The mansion was cold stone. This was warm food
 
 "It sure is," Stella smiled, wiping a bit of foam from her lip. "Now drink up. We have to catch the ferry back to the Fortress."
 
-### The Express Return
+### Part 3: The Express Return
 
 ## August 23, 2006 Bayview Creamery - West Main Road 12:30 PM
 
@@ -5568,7 +5568,7 @@ He tapped his Scribe.
 
 Leo rolled into the cool, quiet hallway of the house. He was ready. He had his chair, his pass, and his team.
 
-### The Calm Before the Herd
+### Part 4: The Calm Before the Herd
 
 ## August 23, 2006 8 Ocean View Lane - Living Room 06:00 PM
 
@@ -5642,7 +5642,7 @@ The Fortress was ready. They had the passes. They had the books. They had the sw
 
 "We sure are," Stella said, turning off the main light. "Rest up. Tomorrow we go to war with the Freshman Class."
 
-### The Clean Break
+### Part 5: The Clean Break
 
 ## August 23, 2006 8 Ocean View Lane - The Twin Wing 07:30 PM
 
@@ -5758,7 +5758,7 @@ Leo rolled up to her. He smelled the wool and the fire.
 
 "That's right," Eleanor said. "Clean slate. Now come here and tell me if this sleeve looks long enough for your arm."
 
-### The Night Watch
+### Part 6: The Night Watch
 
 ## August 23, 2006 8 Ocean View Lane - Eleanor’s Suite 09:30 PM
 

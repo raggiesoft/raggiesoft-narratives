@@ -7,7 +7,7 @@ series: ""
 
 ## Planetfall
 
-### Atmospheric Entry – Tuesday, November 1, 2044 – 10:00
+### Part 1: Atmospheric Entry – Tuesday, November 1, 2044 – 10:00
 
 The chaotic, overlapping screams of the backlogged radio intercepts slowly faded from their minds, replaced once again by the steady, localized hum of *The Nomad’s* idling fusion core.
 
@@ -101,7 +101,7 @@ Wyatt stood up from the captain's chair, offering her his hand.
 
 "Let's go open the front door."
 
-### The First Steps – Tuesday, November 1, 2044 – 10:15
+### Part 2: The First Steps – Tuesday, November 1, 2044 – 10:15
 
 Wyatt and Sarah didn't run to the airlock. They walked.
 
@@ -243,7 +243,7 @@ Sarah threw her arms around his neck, pulling him down into a fierce, passionate
 
 The nightmare of Earth was millions of miles away. They were the only two humans on a virgin planet, backed by a fully stocked, AI-controlled dreadnought, and they had the rest of their lives to turn this wildlife sanctuary into a home.
 
-### The Solar Bloom – Tuesday, November 1, 2044 – 10:30
+### Part 3: The Solar Bloom – Tuesday, November 1, 2044 – 10:30
 
 They walked away from the edge of the dark silicate plateau, following a gentle slope that led directly down into the river valley.
 
@@ -343,7 +343,7 @@ They were the very first pioneers of a brand new world, stepping into the warm a
 
 "I thought you'd never ask," Sarah laughed, taking his hand as they waded out of the river and walked up the mossy bank, ready to finally start building their future.
 
-### The Footprint – Sunday, May 7, 2045 – 15:15
+### Part 4: The Footprint – Sunday, May 7, 2045 – 15:15
 
 To build a house, they needed tools.
 
@@ -405,7 +405,7 @@ Wyatt set the mallet down and stepped over the string to join her. He wrapped hi
 
 They didn't have the timber yet. They didn't have the foundation poured. But standing barefoot inside that 12-by-8-meter grid of nylon string, they were already home.
 
-### The True Face of Apex – Tuesday, May 7, 2045 – 16:00 (Standard Galactic Time)
+### Part 5: The True Face of Apex – Tuesday, May 7, 2045 – 16:00 (Standard Galactic Time)
 
 Lightyears away from the warm, sunlit river valley of Exoplanet 4, the atmosphere was entirely devoid of life or warmth.
 
@@ -469,7 +469,7 @@ Wyatt and Sarah thought they had driven off the map. They thought they had faked
 
 The hunt for *The Nomad* had officially begun.
 
-### The Ghost Protocol – Tuesday, May 7, 2045 – 18:30
+### Part 6: The Ghost Protocol – Tuesday, May 7, 2045 – 18:30
 
 The golden hour had descended over the river valley, casting long, peaceful shadows across the vibrantly green forest canopy.
 
@@ -547,7 +547,7 @@ Apex was out there. The hunt was on. But they were dug in, they were armed with 
 
 "Let them look," Wyatt murmured, pulling her in for a tight, protective kiss. "We have a home to build."
 
-### The Canopy – Tuesday, May 7, 2045 – 19:00
+### Part 7: The Canopy – Tuesday, May 7, 2045 – 19:00
 
 The digital scrub had bought them anonymity on the galactic grid, but as Wyatt looked out the viewport of the tech room at the fading golden light of the evening, his mechanic’s pragmatism refused to let him relax.
 
@@ -623,7 +623,7 @@ Wyatt wrapped his arms around her from behind, resting his chin on her shoulder.
 
 "Let the Apex trackers sweep the quadrant," Wyatt whispered, his voice a steady, unbreakable anchor in the twilight. "They're looking for ghosts. And we don't live there anymore."
 
-### The Blind Sweep – Wednesday, May 8, 2045 – 14:00 (Standard Galactic Time)
+### Part 8: The Blind Sweep – Wednesday, May 8, 2045 – 14:00 (Standard Galactic Time)
 
 Back on the sovereign planet of Acheron, the cold, blue light of the central command spire offered no comfort.
 
@@ -677,7 +677,7 @@ The megacorporation had looked right at their sanctuary, and they had blinked.
 
 The hunt would continue, ravaging the outer arms of the galaxy, but Wyatt and Sarah had officially slipped through the cracks. They had bought the one thing Apex couldn't afford: time.
 
-### The Vow – Wednesday, May 8, 2045 – 15:24
+### Part 9: The Vow – Wednesday, May 8, 2045 – 15:24
 
 The afternoon sun filtered through the towering canopy of the alien pines, casting dappled, golden light across the forest floor.
 
@@ -735,7 +735,7 @@ Sarah smiled, a radiant, deeply peaceful expression that made the golden sunligh
 
 They sat on the warm stone for a long time, the ambient hum of the forest acting as a soothing balm to their scarred nerves. They had seen the absolute worst of what humanity was capable of, and they had barely survived it. But sitting barefoot by the river, holding hands in the quiet afternoon, they made a silent pact to only bring the very best of humanity to Exoplanet 4.
 
-### The Living Light – Wednesday, May 8, 2045 – 21:00
+### Part 10: The Living Light – Wednesday, May 8, 2045 – 21:00
 
 As the golden sun finally dipped below the horizon, the sky over Exoplanet 4 didn't simply fade to black. It transitioned into a breathtaking tapestry of deep indigo and violet, giving way to an impossibly dense, glittering expanse of uncharted stars.
 
@@ -785,7 +785,7 @@ They didn't rush back to the safety of *The Nomad*. They had no reason to. They 
 
 For the first time in their lives, they weren't surviving. They were exploring. And as they walked hand-in-hand through the living light of their new planet, they silently promised each other to savor absolutely every single moment of it.
 
-### Under the Stars – Wednesday, May 8, 2045 – 23:15
+### Part 11: Under the Stars – Wednesday, May 8, 2045 – 23:15
 
 The glowing, bioluminescent forest was entirely too beautiful to leave.
 
@@ -835,7 +835,7 @@ They lay there, entirely stripped of their corporate armor and their pasts, bath
 
 ## The First Morning
 
-### The River – Thursday, May 9, 2045 – 06:30
+### Part 1: The River – Thursday, May 9, 2045 – 06:30
 
 For the first time in their entire lives, Wyatt and Sarah were not woken up by the harsh, mechanical blare of a shift klaxon or the sudden, blinding flicker of overhead fluorescent tubes.
 
@@ -899,7 +899,7 @@ Sarah walked into the ship's compact galley, her bare feet padding softly agains
 
 As the meat hit the hot pan with a loud, satisfying sizzle, Wyatt leaned against the galley counter, crossing his arms and watching her cook. They were out of the woods, back inside a billionaire's dreadnought, but the profound, quiet peace of the morning hadn't faded at all.
 
-### The Nomad – Thursday, May 9, 2045 – 07:45
+### Part 2: The Nomad – Thursday, May 9, 2045 – 07:45
 
 The rich, savory smell of sizzling bacon and the warm, buttery aroma of rehydrated eggs completely filled the compact galley. It was a staggering upgrade from the bleak, synthetic nutrient-paste they had survived on inside the Apex staging facility.
 
@@ -953,7 +953,7 @@ A slow, deeply relaxed smile broke across Wyatt's face. He turned his hand over,
 
 Sarah beamed, letting out a happy sigh as she picked up her fork again. "Good. Because I have much better plans for that orange string grid we staked out yesterday."
 
-### The Blueprint – Thursday, May 9, 2045 – 08:00
+### Part 3: The Blueprint – Thursday, May 9, 2045 – 08:00
 
 Wyatt took the last bite of his bacon, leaning back in the heavy dining chair. The relief of not having to strip-mine the beautiful forest outside their window had settled deep into his chest. *The Nomad* was an indestructible, solar-powered fortress. It was a perfect home.
 
@@ -993,7 +993,7 @@ Wyatt set the clean skillet on the drying rack and turned around in her arms. He
 
 "Well, if we're going to spend the next four hours ripping up alien sod by hand, we're going to get filthy," Wyatt grinned, kissing the top of her head. "Let's go to the cargo bay and find some shovels."
 
-### The First Harvest – Thursday, May 9, 2045 – 08:30
+### Part 4: The First Harvest – Thursday, May 9, 2045 – 08:30
 
 Wyatt set the clean cast-iron skillet on the drying rack and turned to look at Sarah. He took in her fresh cotton t-shirt and clean denim shorts, and then looked down at his own clean clothes.
 
@@ -1055,7 +1055,7 @@ Wyatt tossed the spade aside with a tired grin. He reached out, grabbing her mud
 
 They didn't slow down when they hit the riverbank. They plunged directly into the crystal-clear, freezing water. The shock of the cold river felt absolutely divine against their overheated skin, instantly washing away the sweat, the ache of the morning's labor, and the dark soil of their brand new garden.
 
-### The Bait – Thursday, May 9, 2045 – 10:00 (Standard Galactic Time)
+### Part 5: The Bait – Thursday, May 9, 2045 – 10:00 (Standard Galactic Time)
 
 Lightyears away from the crystal-clear river and the warm, muddy banks of Exoplanet 4, High Director Kael was not enjoying the morning.
 
@@ -1105,7 +1105,7 @@ Kael looked back at the vast, empty projection of the galaxy. He didn't need to 
 
 "Set the trap, Commander. Let's see how much these pioneers really care about their family."
 
-### The Broken Snare – Thursday, May 9, 2045 – 11:30
+### Part 6: The Broken Snare – Thursday, May 9, 2045 – 11:30
 
 The crystal-clear water of the river had washed away the heavy, dark soil of their new garden, leaving Wyatt and Sarah refreshed, clean, and completely energized.
 
@@ -1177,7 +1177,7 @@ If they couldn't block it, they would just have to listen to it. But now, the co
 
 "Now," Sarah murmured, closing her eyes as she listened to the gentle hum of their untouchable fortress. "I believe we have a garden that needs watering."
 
-### The Eden Rule – Thursday, May 9, 2045 – 12:15
+### Part 7: The Eden Rule – Thursday, May 9, 2045 – 12:15
 
 They left the tech room and the looping, desperate threats of High Director Kael behind them. Stepping back out into the warm, **23.8°C** afternoon air, the contrast between the cold corporate machinery of their past and the vibrant, breathing reality of their present couldn't have been sharper.
 
@@ -1299,7 +1299,7 @@ Life on Exoplanet 4 was absolutely perfect.
 
 ## The High Ground
 
-### The Floodplain – Thursday, May 9, 2045 – 17:00
+### Part 1: The Floodplain – Thursday, May 9, 2045 – 17:00
 
 The peaceful, sun-drenched afternoon slowly gave way to a heavy, suffocating humidity.
 
@@ -1355,7 +1355,7 @@ Wyatt engaged the main thrusters, tearing *The Nomad* out of the massive alien p
 
 "Hold on, Mrs. Colton," Wyatt yelled over the roar of the engines and the pounding rain. "We're going to go see what a billionaire's backup plan looks like."
 
-### Dead Reckoning – Thursday, May 9, 2045 – 17:15
+### Part 2: Dead Reckoning – Thursday, May 9, 2045 – 17:15
 
 *The Nomad* tore upward through the massive alien canopy just as the sky completely unzipped.
 
@@ -1429,7 +1429,7 @@ A deep, hydraulic *thud* vibrated violently through the deck plates beneath thei
 
 Wyatt gritted his teeth, his eyes straining against the opaque gray void outside the viewport. "Brace for impact!"
 
-### The Mountain's Mouth – Thursday, May 9, 2045 – 17:22
+### Part 3: The Mountain\'s Mouth – Thursday, May 9, 2045 – 17:22
 
 The altimeter needle plummeted toward the zero-mark.
 
@@ -1485,7 +1485,7 @@ Wyatt unbuckled his harness and stood up, looking out at the incredibly vast, br
 
 "Well, Mrs. Colton," Wyatt smiled, looking toward the ladder that led down to the newly connected airlock. "The storm can't touch us, and the galaxy can't see us. Shall we go see what our new living room looks like?"
 
-### The Winter Window – Thursday, May 9, 2045 – 17:40
+### Part 4: The Winter Window – Thursday, May 9, 2045 – 17:40
 
 The heavy, weather-sealed airlock hissed, sliding open to reveal the interior of the docking umbilical. Wyatt and Sarah stepped through, the soles of their bare feet leaving damp prints on the pristine, heated deck plates.
 
@@ -1551,7 +1551,7 @@ Sarah beamed, her heart swelling with an overwhelming sense of hope. It wasn't j
 
 Wyatt kissed her back, pulling her tightly against his chest as the storm raged harmlessly against the camouflaged glass outside. The billionaire's empty sanctuary wasn't a tomb; it was a cradle. And by the time the planet's winter rolled around, they were going to fill it with life.
 
-### The Genesis Vault – Thursday, May 9, 2045 – 18:00
+### Part 5: The Genesis Vault – Thursday, May 9, 2045 – 18:00
 
 The excitement of their winter timeline hovered in the warm air of the luxurious living room, but as Sarah looked down the long, illuminated corridor of empty suites, her analytical mind began to run the long-term numbers.
 
@@ -1611,7 +1611,7 @@ They didn't have to choose between leaving the planet or letting their family tr
 
 "A whole new world," Sarah agreed, wrapping her arms around his neck, the future stretching out before them, flawless and infinite.
 
-### The Genesis Vault – Thursday, May 9, 2045 – 18:15
+### Part 6: The Genesis Vault – Thursday, May 9, 2045 – 18:15
 
 The sheer magnitude of the billionaire's backup plan completely shifted the atmosphere in the room. The fear of a genetic bottleneck was gone, replaced by a profound, almost overwhelming sense of responsibility.
 
@@ -1659,7 +1659,7 @@ Wyatt looked out over the sea of glowing cryogenic pillars. The incredible weigh
 
 "I agree," Sarah smiled, stepping back from the terminal. The holographic web of fifty thousand lives dissolved back into the console, waiting patiently for the day they would return. She reached out and took Wyatt's hand, her fingers intertwining with his. "Let's go build a world for them to wake up to."
 
-### The Master Kitchen – Thursday, May 9, 2045 – 18:30
+### Part 7: The Master Kitchen – Thursday, May 9, 2045 – 18:30
 
 The pneumatic elevator carried them swiftly up from the icy depths of the Genesis Vault, leaving the sleeping future of humanity safely secured in the bedrock.
 
@@ -1707,7 +1707,7 @@ Wyatt took a long drink from a glass of purified glacial water, leaning his elbo
 
 Sarah smiled, leaning over to rest her head against his shoulder as they ate. "It's the space, Wyatt. We finally have room to breathe."
 
-### The Curriculum – Thursday, May 9, 2045 – 19:15
+### Part 8: The Curriculum – Thursday, May 9, 2045 – 19:15
 
 The last bite of truffle pasta vanished, and Wyatt set their empty ceramic plates into the massive, automated sanitization basin built into the marble island.
 
@@ -1759,7 +1759,7 @@ Wyatt pulled his wife close, the gentle cascade of the indoor waterfall drowning
 
 "Advanced physics and network design," Wyatt murmured, leaning down to press a soft, lingering kiss against her lips. "I think the Coltons are going to be very busy."
 
-### The Saltwater Oasis – Thursday, May 9, 2045 – 19:30
+### Part 9: The Saltwater Oasis – Thursday, May 9, 2045 – 19:30
 
 Wyatt and Sarah waded deeper into the massive indoor pool, the steaming, crystal-clear water rising to their collarbones.
 
@@ -1871,7 +1871,7 @@ They were the Coltons. And tomorrow, their real life finally began.
 
 ## The Architects
 
-### The First Semester – Friday, May 10, 2045 – 08:00
+### Part 1: The First Semester – Friday, May 10, 2045 – 08:00
 
 The morning light filtering through the camouflaged hydro-glass of the master suite was a soft, bruised gray.
 
@@ -1927,7 +1927,7 @@ Wyatt looked over at his wife, completely bare, intensely focused, and ready to 
 
 "Same to you, Mr. Colton," Sarah smiled, already opening her first lecture. "Now hush. I have to figure out how to structure a server array."
 
-### The Debugger – Friday, May 10, 2045 – 11:30
+### Part 2: The Debugger – Friday, May 10, 2045 – 11:30
 
 For the next three hours, the only sounds in the sprawling mahogany library were the steady drumming of the rain against the glass, the soft hum of the holographic table, and the occasional frustrated sigh from one of the two completely nude students.
 
@@ -2001,7 +2001,7 @@ She let out a delighted laugh, leaning over to wrap her arms around Wyatt's neck
 
 "Not bad at all," Sarah agreed, resting her head against his chest.
 
-### The Earth Conservatory – Friday, May 10, 2045 – 12:15
+### Part 3: The Earth Conservatory – Friday, May 10, 2045 – 12:15
 
 Sarah hit the final execution command on the holographic table, completely dissolving the massive cascade of SQL code. Wyatt closed his digital scratchpad, the complex thermal dynamics of the repulsor-coil fading into the glass.
 
@@ -2083,7 +2083,7 @@ Wyatt kissed the top of her head, completely anchored by her presence in the mid
 
 "We'll show them everything," Wyatt promised. "But right now... I think it's time to go raid that massive pantry and make some lunch. We have a lot of studying left to do."
 
-### The Ark – Friday, May 10, 2045 – 12:30
+### Part 4: The Ark – Friday, May 10, 2045 – 12:30
 
 Sarah kept her hand pressed against the rough, textured bark of the massive White Oak. For a girl who had grown up in the failing, rust-choked agricultural colonies of the frontier, standing barefoot beneath a tree that had evolved millions of years ago on humanity's homeworld was a spiritual experience.
 
@@ -2141,7 +2141,7 @@ Wyatt smiled, his heart swelling with a profound, overwhelming sense of peace. H
 
 They sat by the reflecting pond for a long time, simply soaking in the absolute serenity of the Conservatory. It wasn't just a room; it was a promise that no matter what happened in the galaxy, the beauty of their origins would never be lost.
 
-### Comfort Food – Friday, May 10, 2045 – 13:00
+### Part 5: Comfort Food – Friday, May 10, 2045 – 13:00
 
 As if on cue, Wyatt’s stomach let out another long, echoing rumble that completely broke the profound silence of the Earth Conservatory.
 
@@ -2197,7 +2197,7 @@ She picked up her glass bottle of cola, holding it out toward him.
 
 Wyatt tapped his glass bottle gently against hers with a pleasant *clink*. "To comfort food. And to a very successful first day of college."
 
-### Hello World – Friday, May 10, 2045 – 13:45
+### Part 6: Hello World – Friday, May 10, 2045 – 13:45
 
 The ceramic bowls were rinsed and stacked neatly in the sink. With their stomachs comfortably full of macaroni and cheese, the immediate domestic necessity of the kitchen was over.
 
@@ -2293,7 +2293,7 @@ He looked from the impressive digital architecture back to the completely bare, 
 
 "They really didn't," Sarah smiled, leaning into his shoulder as she looked proudly at her rendered code. She was building the digital infrastructure for a brand new world, and she was only just getting started.
 
-### Biology 101 – Friday, May 10, 2045 – 14:15
+### Part 7: Biology 101 – Friday, May 10, 2045 – 14:15
 
 Sarah dismissed the holographic web browser with a swipe of her hand, the floating table of the Genesis Vault receding back into the glass terminal. The thrill of coding her first dynamic intranet page was settling, making room for the profound, human reality of what she had just been organizing.
 
@@ -2351,7 +2351,7 @@ Sarah looked at her hands, the sheer, staggering weight of their new reality set
 
 "Well," Sarah smiled, a profound sense of peace washing away the last remnants of the NTTR's trauma. "I guess that means we get to plan exactly what kind of neighborhood our kids are going to grow up in."
 
-### The Vitality Roster – Friday, May 10, 2045 – 14:30
+### Part 8: The Vitality Roster – Friday, May 10, 2045 – 14:30
 
 The revelation that their mountain fortress included a fully equipped obstetric suite completely changed the gravity of the afternoon.
 
@@ -2435,7 +2435,7 @@ It was a staggering amount of progress for a single day.
 
 As the pneumatic elevator carried them back up to the warmth of the living quarters, Wyatt pulled Sarah close, profoundly grateful for the genius of the billionaire who built this place, and even more grateful for the woman standing beside him.
 
-### The Facelift – Friday, May 10, 2045 – 15:00
+### Part 9: The Facelift – Friday, May 10, 2045 – 15:00
 
 The pneumatic elevator carried them swiftly away from the freezing, sterile blue light of the Genesis Vault and back up into the warm, flawless **21.6°C** climate of the main estate.
 
@@ -2491,7 +2491,7 @@ Wyatt handled the structural physics, ensuring the new aerodynamic curves wouldn
 
 They were erasing the last physical footprint of Apex Defense Solutions, molding their stolen ship into a permanent, undeniable symbol of their absolute freedom.
 
-### The First Generation – Friday, May 10, 2045 – 17:00
+### Part 10: The First Generation – Friday, May 10, 2045 – 17:00
 
 Wyatt finalized the aesthetic rendering of *The Nomad's* new outer hull, sending the sleek, aerodynamic blueprints directly to the automated Fabrication Foundry on Sub-Level 2. Deep beneath their feet, the massive 3D printers and robotic arms would spend the next several days quietly stripping the megacorporation's blocky armor from their ship and forging a brand new, untraceable silhouette.
 
@@ -2555,7 +2555,7 @@ Wyatt stared at her, completely floored by the elegant, deeply compassionate log
 
 They rested against the edge of the pool, completely at peace as the evening slowly settled over the mountain. The storm was finally ending, the Apex threat was blocked out, and the blueprint for the entire future of humanity was securely in their hands.
 
-### The First Landing – Friday, May 10, 2045 – 17:30
+### Part 11: The First Landing – Friday, May 10, 2045 – 17:30
 
 The warm saltwater of the indoor pool lapped gently against the smooth stone edge. Wyatt and Sarah rested their arms on the lip of the basin, completely bare, looking out through the massive hydro-glass window.
 
@@ -2613,7 +2613,7 @@ Wyatt wrapped his arms securely around her, pulling her back flush against his c
 
 Sarah rested her hands over his, listening to the soft, rhythmic drumming of the lingering rain against the hydro-glass, and let the absolute certainty of their future pull her to sleep.
 
-### The Parent Protocol – Friday, May 10, 2045 – 21:00
+### Part 12: The Parent Protocol – Friday, May 10, 2045 – 21:00
 
 The localized geothermal fireplace cast a warm, flickering amber glow across the sprawling expanse of the Alaskan King bed. Outside, the steady, rhythmic drumming of the rain against the camouflaged hydro-glass window provided a perfect, soothing lullaby.
 
@@ -2655,7 +2655,7 @@ Wyatt kissed the top of her head one last time, listening to the gentle rain, an
 
 ## The Pioneers
 
-### The Upgrade – Saturday, May 11, 2045 – 07:00
+### Part 1: The Upgrade – Saturday, May 11, 2045 – 07:00
 
 The soft, natural light of the morning slowly filtered through the massive, camouflaged hydro-glass window of the master suite. The violent super-cell storm had finally exhausted itself overnight, leaving behind a quiet, misty drizzle that painted the flooded valley below in muted shades of silver and gray.
 
@@ -2705,7 +2705,7 @@ Wyatt leaned down, pressing a soft, lingering kiss against her forehead.
 
 They lay perfectly still in the quiet warmth of the estate, completely shedding the last lingering ghosts of their corporate past, and simply enjoyed the absolute luxury of having nothing but time.
 
-### The Archives – Saturday, May 11, 2045 – 08:30
+### Part 2: The Archives – Saturday, May 11, 2045 – 08:30
 
 An hour later, the absolute luxury of the Alaskan King bed finally yielded to the practical reality of their empty stomachs.
 
@@ -2759,7 +2759,7 @@ Sarah laughed, cutting into her breakfast. The terrifying unknown of starting a 
 
 "Add it to our university queue," Sarah smiled, taking a bite of the sweet, buttery French toast. "Right after network architecture and repulsorlift physics."
 
-### The Husk – Saturday, May 11, 2045 – 09:15
+### Part 3: The Husk – Saturday, May 11, 2045 – 09:15
 
 The sprawling master kitchen was clean, the plates were loaded into the automated sanitization basin, and the comforting aroma of French toast was already fading into the ambient, filtered air of the estate.
 
@@ -2835,7 +2835,7 @@ Wyatt reached out, pulling Sarah firmly against his chest. He held her tight, an
 
 Earth was gone, left behind as a scorched, broken monument to corporate hubris. But here, millions of miles away, completely off the grid and entirely untouched by the horrors of the galaxy, the Coltons were already building a new one.
 
-### The Lost Time – Saturday, May 11, 2045 – 09:45
+### Part 4: The Lost Time – Saturday, May 11, 2045 – 09:45
 
 The heavy pneumatic elevator carried them swiftly away from the blinding plasma sparks and deafening industrial roar of the Fabrication Foundry. As the brushed-steel doors parted, depositing them back onto the main level, the quiet, pristine luxury of the mountain estate welcomed them back.
 
@@ -2907,7 +2907,7 @@ Wyatt looked back at the glowing blue timeline of human development floating abo
 
 "Load it up, Aria," Sarah smiled, settling comfortably back into Wyatt's side. "We have a lot to learn."
 
-### The Trade-Off – Saturday, May 11, 2045 – 10:15
+### Part 5: The Trade-Off – Saturday, May 11, 2045 – 10:15
 
 Two hours of intense, theoretical study was enough for one morning. Wyatt closed the holographic module on atmospheric fluid dynamics, and Sarah dismissed her network architecture text with a tired but satisfied sigh.
 
@@ -2987,7 +2987,7 @@ Wyatt kissed her back, his heavy arms holding her securely against the warm ston
 
 "Entirely ours," Sarah breathed, completely at peace with the present, and wildly excited for the future.
 
-### The Mapmakers – Saturday, May 11, 2045 – 10:30
+### Part 6: The Mapmakers – Saturday, May 11, 2045 – 10:30
 
 The heavy, rhythmic hum of the automated sanitization cycle vibrated faintly through the polished stone walls as Wyatt and Sarah walked away from the pneumatic chute.
 
@@ -3053,7 +3053,7 @@ They weren't just surviving anymore. They had officially named their home, layin
 
 "Planet Eden," Sarah whispered, closing her eyes and listening to the gentle crackle of the geothermal fire pit. "I think the kids are going to love it here."
 
-### The Six Moons – Saturday, May 11, 2045 – 10:45
+### Part 7: The Six Moons – Saturday, May 11, 2045 – 10:45
 
 The holographic projection of the newly named Helios System hovered beautifully above the heavy glass coffee table. In the center of the recessed living room, bathed in the warm, ambient light of the geothermal fire pit, Wyatt and Sarah sat completely bare, comfortably entwined on the plush sectional sofa.
 
@@ -3135,7 +3135,7 @@ Wyatt kissed her, a deep, slow, and profoundly loving seal on their new reality.
 
 "We did it," Wyatt murmured against her lips. "We really made it."
 
-### The Petrichor – Saturday, May 11, 2045 – 12:30
+### Part 8: The Petrichor – Saturday, May 11, 2045 – 12:30
 
 The relentless, oceanic drumming against the hydro-glass windows slowly began to soften.
 
@@ -3205,7 +3205,7 @@ They stood there for a long time, completely exposed to the elements, letting th
 
 Here, on the terrace of The Sanctuary, there was only the wind, the water, and each other.
 
-### The Runabout – Saturday, May 11, 2045 – 13:15
+### Part 9: The Runabout – Saturday, May 11, 2045 – 13:15
 
 The cool, rain-washed breeze sweeping across the observation terrace was incredibly refreshing, but the fresh air eventually did exactly what it always did: it made them hungry.
 
@@ -3273,7 +3273,7 @@ Sarah didn't hesitate. She climbed into the sleek cabin, dropping into the plush
 
 ## Planet Eden
 
-### The Maiden Voyage – Saturday, May 11, 2045 – 13:45
+### Part 1: The Maiden Voyage – Saturday, May 11, 2045 – 13:45
 
 Wyatt sat in the pilot’s seat of the sleek, silver runabout, his hands resting lightly on the incredibly streamlined digital control yoke. The leather was soft and pristine, the cabin smelling like fresh polymer and clean air.
 
@@ -3333,7 +3333,7 @@ The sun was slowly beginning its descent toward the western horizon, painting th
 
 "So, Mrs. Colton," Wyatt asked, glancing over at her as the runabout glided smoothly over the pristine landscape. "Where are we setting up camp tonight?"
 
-### The Alpine Meadow – Saturday, May 11, 2045 – 17:00
+### Part 2: The Alpine Meadow – Saturday, May 11, 2045 – 17:00
 
 "Take us to the mountains," Sarah decided, her eyes locked onto the jagged, towering peaks piercing the horizon. "I want to see the snow."
 
@@ -3397,7 +3397,7 @@ Wyatt pulled the heavy top layer of the deployment bag over their bare shoulders
 
 "Yeah, it is," Wyatt murmured, holding her tightly as the stars rotated above them. "And we have all the time in the world to explore it."
 
-### Anchor – Sunday, May 12, 2045 – 07:30
+### Part 3: Anchor – Sunday, May 12, 2045 – 07:30
 
 The first golden rays of Helios crested the jagged, snow-capped peaks, spilling down into the alpine meadow and washing over the heavy deployment sleeping bag.
 
@@ -3541,7 +3541,7 @@ I have this safely tucked away in my memory banks! We will let them enjoy their 
 
 Got it! I am locking that triplet pregnancy twist firmly into the master timeline. The fact that Apex Defense Solutions cheaped out on the Omni-Cycle blockers—treating medical care with the same ruthless, budget-cutting negligence as their barracks and rations—is incredibly fitting for the megacorporation. Wyatt and Sarah thinking they have a six-month buffer, only to discover they are already expecting three babies, is going to be a beautiful, joyous surprise.
 
-### The Lunar Bound – Sunday, May 12, 2045 – 08:00
+### Part 4: The Lunar Bound – Sunday, May 12, 2045 – 08:00
 
 Wyatt and Sarah stood on the pale, dusty surface of Anchor, staring up at the massive, swirling blue-and-green jewel of Planet Eden dominating the pitch-black sky.
 
@@ -3595,7 +3595,7 @@ They stood together on the edge of the crater, holding each other in the low gra
 
 They turned around, taking long, bounding, slow-motion leaps back across the gray plain toward the sleek silver teardrop waiting for them in the dust.
 
-### The Reading List – Sunday, May 12, 2045 – 10:30
+### Part 5: The Reading List – Sunday, May 12, 2045 – 10:30
 
 The sleek, silver runabout glided silently back into the cavernous, illuminated hangar of the mountain estate. Wyatt eased the throttles back, and the repulsorlifts set the ship gently down onto the polished stone floor.
 
@@ -3643,7 +3643,7 @@ They sat in the library for hours, completely immersed in the textbooks, making 
 
 They were entirely, blissfully unaware that deep inside Sarah's body, the rapid, miraculous spark of life had already taken hold. The S.H.O.P. Marine blockers had failed, and the clock wasn't set for next year.
 
-### The 2002 Fiction – Sunday, May 12, 2045 – 14:00
+### Part 6: The 2002 Fiction – Sunday, May 12, 2045 – 14:00
 
 The holographic glass table in the center of the library glowed with a soft, steady blue light, displaying a staggering array of human developmental charts.
 
@@ -3687,7 +3687,7 @@ Sarah looked at the glowing blue timeline of the first trimester floating above 
 
 They sat together in the quiet luxury of the estate, completely secure in their perfectly structured, meticulously planned timeline. For the first time in their lives, they had the ultimate luxury: time to just be together, and the absolute freedom to build their future exactly how they wanted it.
 
-### The Terrace Picnic – Sunday, May 12, 2045 – 15:30
+### Part 7: The Terrace Picnic – Sunday, May 12, 2045 – 15:30
 
 Wyatt waved his hand through the holographic projection of the neonatal charts, and the glowing blue light of the library table faded seamlessly back into the dark glass.
 
@@ -3743,7 +3743,7 @@ Wyatt leaned back against the plush cushions of the lounger, watching Sarah out 
 
 They were entirely secure in their fortress, completely confident in the timeline they had mapped out in the library, and utterly, blissfully content with the present moment. It was a perfect afternoon on Planet Eden.
 
-### The Gravity Tax – Sunday, May 12, 2045 – 16:15
+### Part 8: The Gravity Tax – Sunday, May 12, 2045 – 16:15
 
 The sun began its slow descent toward the western horizon, casting long, lazy shadows across the wet stone of the observation terrace.
 
@@ -3797,7 +3797,7 @@ Wyatt looked down at her. She was a pioneer who had lost her first crop to a flo
 
 "Alright, Mrs. Colton," Wyatt agreed, kissing her deeply. "Let's go commandeer a piece of the park. Lead the way."
 
-### Sowing the Seeds – Sunday, May 12, 2045 – 16:45
+### Part 9: Sowing the Seeds – Sunday, May 12, 2045 – 16:45
 
 The pneumatic elevator hummed softly as it carried them down to Sub-Level 1. When the brushed-steel doors parted, the transition was instantly intoxicating.
 
@@ -3863,7 +3863,7 @@ As Wyatt patted down the final row of dirt, the artificial sky above them began 
 
 They had lost the valley garden, but they had just successfully planted their very first crop inside an indestructible mountain.
 
-### The Architect – Sunday, May 12, 2045 – 17:45
+### Part 10: The Architect – Sunday, May 12, 2045 – 17:45
 
 The simulated golden hour in the Earth Conservatory had fully transitioned into a vibrant twilight. The massive micro-LED vaulted ceiling shifted seamlessly from a bright blue to a deep, bruised violet, matching the real-world evening settling over Exoplanet 4.
 
@@ -3983,7 +3983,7 @@ They had lost the valley garden to the flood, but they had just found something 
 
 They were going to be parents. And they were starting right now.
 
-### The Overcompensation – Sunday, May 12, 2045 – 18:00
+### Part 11: The Overcompensation – Sunday, May 12, 2045 – 18:00
 
 The simulated violet twilight of the Earth Conservatory wrapped around them, but the massive, vaulted room suddenly felt incredibly small and intimate.
 
@@ -4049,7 +4049,7 @@ They left the hand trowels and the forged steel spade resting in the dirt of the
 
 ## The Blueprint
 
-### Three Pulses – Sunday, May 12, 2045 – 18:15
+### Part 1: Three Pulses – Sunday, May 12, 2045 – 18:15
 
 The pneumatic elevator carried them swiftly away from the simulated twilight of the Earth Conservatory, dropping them smoothly to Sub-Level 1.
 
@@ -4199,7 +4199,7 @@ Here is how we will lock this unspoken, beautiful routine into their character p
 
 - **The Non-Verbal Language:** He doesn't have to cry out or find the words to say he is scared. The immediate, synchronized weight of his sisters pressing in against him tells him exactly what he needs to know: *We are here. We have you. You are safe.* I have this beautifully tender dynamic permanently locked into the lore bible. It is going to make those future nighttime scenes in the estate incredibly poignant.
 
-### The Multiplier – Sunday, May 12, 2045 – 18:25
+### Part 2: The Multiplier – Sunday, May 12, 2045 – 18:25
 
 The sterile, brilliant white light of the medical wing suddenly felt incredibly warm.
 
@@ -4249,7 +4249,7 @@ She took his hand, lacing her fingers securely through his.
 
 Wyatt nodded, completely anchored by her calm, radiant energy. As they stepped into the pneumatic elevator to head back up to the master suite, the sound of the three tiny, synchronized heartbeats faded behind them, permanently etched into both of their memories.
 
-### Tax Evasion and Timber – Sunday, May 12, 2045 – 18:45
+### Part 3: Tax Evasion and Timber – Sunday, May 12, 2045 – 18:45
 
 They left the sterile, brilliantly lit medical wing in a complete daze of absolute euphoria.
 
@@ -4335,7 +4335,7 @@ Just a few weeks ago, their biggest concern was surviving a twelve-hour shift wi
 
 "We are," Wyatt agreed, wrapping his arm around her. "But it's going to be the best kind of tired."
 
-### The 50,000 Crib Deficit – Sunday, May 12, 2045 – 23:45
+### Part 4: The 50,000 Crib Deficit – Sunday, May 12, 2045 – 23:45
 
 The noise was absolute, deafening chaos.
 
@@ -4431,7 +4431,7 @@ Wyatt turned her away from the terminal, keeping his arm securely around her sho
 
 The universe was safe. The vault was sleeping. And as the brushed-steel doors closed, carrying them back up to the warmth of their sanctuary, Wyatt finally felt ready to get some rest.
 
-### The Constitution – Monday, May 13, 2045 – 09:00
+### Part 5: The Constitution – Monday, May 13, 2045 – 09:00
 
 The morning sun filtered through the hydro-glass windows of the library, casting a warm, natural light over the rich mahogany panels. The torrential rain of the super-cell storm had completely passed, leaving behind a flawless, brilliant blue sky over the flooded valley.
 
@@ -4495,7 +4495,7 @@ They weren't just going to be parents. They were the founding mother and father 
 
 "We have the rest of the year to write the constitution," Sarah smiled, perfectly content in the quiet warmth of the library. "Aria, pull up the archives on early agrarian democracies. Let's see how our ancestors did it."
 
-### The Agrarian Model – Monday, May 13, 2045 – 09:30
+### Part 6: The Agrarian Model – Monday, May 13, 2045 – 09:30
 
 The holographic glass table in the center of the library rippled, the glowing blue data streams of modern macroeconomics dissolving into warm, golden-hued geographical projections.
 
@@ -4563,7 +4563,7 @@ Wyatt turned his head, his dark eyes locking onto his wife. He saw the exact sam
 
 They sat together in the warm, mahogany-paneled room, entirely bare to the world and entirely united. They had walked into the library as a mechanic and a farm girl trying to survive. They were walking out as the founding mother and father of humanity's second chance.
 
-### The Wardrobe – Sunday, June 4, 2045 – 09:00
+### Part 7: The Wardrobe – Sunday, June 4, 2045 – 09:00
 
 The transition from May into early June on Planet Eden was completely seamless. The heavy, torrential rains of the wet season had largely given way to bright, brilliantly clear mornings and warm, lazy afternoons.
 
@@ -4633,7 +4633,7 @@ Wyatt’s breath hitched slightly, his dark eyes softening with a profound, over
 
 Wyatt kissed her, a deep, lingering promise of the beautiful, chaotic future racing toward them. The timeline was accelerated, her body was changing rapidly, and they had an entire world to build, but standing there in the dressing room, everything was flawlessly on track.
 
-### The Toll of Three – Sunday, June 18, 2045 – 10:00
+### Part 8: The Toll of Three – Sunday, June 18, 2045 – 10:00
 
 The silver, teardrop-shaped atmospheric shuttle glided silently over the sprawling alien pine canopy, banking smoothly as it descended toward the river valley.
 
@@ -4705,7 +4705,7 @@ Wyatt kept one hand on the yoke, reaching out with the other to firmly grip Sara
 
 "Stay with me, Sarah," Wyatt urged, his eyes locked on the rapidly approaching, camouflaged rock face of The Sanctuary. "We're almost home."
 
-### The Remedy – Sunday, June 18, 2045 – 10:15
+### Part 9: The Remedy – Sunday, June 18, 2045 – 10:15
 
 The silver runabout shot through the camouflaged holographic rock face and slammed down onto the polished stone floor of the primary hangar.
 
@@ -4781,7 +4781,7 @@ The lingering nausea faded a little more, replaced by a profound, overwhelming s
 
 "Good," Wyatt smiled, leaning over to kiss her forehead. "Just sleep, Sarah. I'm right here."
 
-### The Chariot – Sunday, June 18, 2045 – 12:30
+### Part 10: The Chariot – Sunday, June 18, 2045 – 12:30
 
 The last drop of the clear, life-saving IV fluid finally emptied from the sterile bag.
 
@@ -4851,7 +4851,7 @@ Sarah looked up at him, entirely overwhelmed by his quiet, unwavering dedication
 
 "Anytime, Mrs. Colton," Wyatt replied, turning the chair smoothly back toward the hallway. "Now, let's roll you into the kitchen. I think the babies are demanding a grilled cheese sandwich."
 
-### The Craving – Sunday, June 18, 2045 – 13:00
+### Part 11: The Craving – Sunday, June 18, 2045 – 13:00
 
 The sleek, brushed-aluminum wheelchair glided silently over the polished stone floors, the frictionless bearings making the journey down the wide corridor entirely effortless.
 
@@ -4949,7 +4949,7 @@ The timeline had accelerated, but as she rubbed her hand over her expanding bell
 
 - It stands as a culinary symbol of the Colton family: a weird, beautiful mix of pragmatic survival (protein/meat) and the sweet, cultivated luxury of Planet Eden (the hydroponic fruit).
 
-### The Foundation – Sunday, June 18, 2045 – 14:00
+### Part 12: The Foundation – Sunday, June 18, 2045 – 14:00
 
 The frictionless glide of the brushed-aluminum wheelchair was completely silent as Wyatt pushed Sarah through the wide, open doorways of the estate's library.
 

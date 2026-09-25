@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Catalyst Notification (Friday, April 21st, 2000)
 
-### Part 1: The Desktop Under the Stairs – 4:00 PM
+### Part 1: The Desktop Under the Stairs
 
 The architectural layout of 1852 Delaney Street wasn't exactly designed with advanced computing in mind. To keep the heavy, beige plastic tower and the massive CRT monitor out of the main traffic flow, Dad had shoved the family computer desk into the awkward, sloping alcove directly underneath the wooden staircase.
 
@@ -63,7 +63,7 @@ Jessica pulled back from our hug, wiping her eyes, a brilliant, tear-stained gri
 
 "I think my official paperwork just arrived," Jessica said, reaching for her push-rims. "Let's go open it."
 
-### Part 2: The Quantum Packet – 4:10 PM
+### Part 2: The Quantum Packet
 
 The heavy, black Quantum box sat on the concrete of the front porch, daring us to open it.
 
@@ -145,7 +145,7 @@ The victory celebration was officially suspended. Jessica didn't wait for Dad to
 
 "The deadline to secure fall housing is in two weeks," Jessica commanded, wheeling toward the computer desk under the stairs. "I have to call their disability services office right now. I need an accessible perimeter, and I need to start fighting their bureaucracy today."
 
-### Part 3: The Long-Distance Loophole – 4:30 PM
+### Part 3: The Long-Distance Loophole
 
 The dining room was rapidly deteriorating into a battlefield. Dad’s booming complaints about plane tickets and oversized baggage fees were escalating, completely drowning out Mom’s fierce attempts to defend the magnitude of the moment.
 
@@ -219,7 +219,7 @@ She hung up the phone. In the dining room, Dad was still loudly complaining to M
 
 "I've got my room," she whispered to us. "Now we just have to get me there."
 
-### Part 4: The Vanguard – 4:45 PM
+### Part 4: The Vanguard
 
 "Thank you so much for your help," Jessica said warmly into the receiver. "I'll see you in the fall."
 
@@ -257,7 +257,7 @@ The tight, vibrating knot of anxiety that had been forming in my chest the secon
 
 Mom looked back over at the computer desk. "You are the vanguard of this family, Jess. We're going to make sure your launchpad is absolutely perfect. The whole pack is going to Seattle."
 
-### Part 5: The Mirror – 4:50 PM
+### Part 5: The Mirror
 
 "The whole pack is going to Seattle."
 
@@ -321,7 +321,7 @@ He didn't say another word. He just turned around, walked back into the kitchen,
 
 ## Chapter 2: Arrival at the Hotel (Thursday, May 4th, 2000)
 
-### Part 1: The Wheelchair Lift – 4:00 PM
+### Part 1: The Wheelchair Lift
 
 After hours of highway driving, our charter bus finally pulled into the parking lot of a high-end hotel near the ATL airport.
 
@@ -353,7 +353,7 @@ Mr. Panoff and the bus operator cleared it, and carefully, Brandon and the other
 
 "I missed sitting next to you," I said honestly.
 
-### Part 2: The Cafeteria Serenade – 6:30 PM
+### Part 2: The Cafeteria Serenade
 
 The logistics of getting off the motorcoach were just as grueling as getting on. Because the heavy metal wheelchair lift was still completely jammed, Brandon and the athletic guys from the drumline had to carefully carry Jessica down the narrow rubber stairs while the bus operator pulled her manual chair out of the luggage compartment underneath.
 
@@ -411,7 +411,7 @@ She wanted to get into the deep end of that pool, let the water hold her weight,
 
 And as the bus pulled into the hotel parking lot, we both desperately believed that Dad was going to be standing at the edge of the pool to watch her do it.
 
-### Part 3: The Lido Deck – 8:00 PM
+### Part 3: The Lido Deck
 
 After a long, uneventful dinner at the massive cafeteria, we finally made it back to the Atlanta hotel. Jessica looked at me, the cold determination returning.
 
@@ -561,7 +561,7 @@ I helped her transfer into the bed, and out of sheer habit and the desperate nee
 
 ## Chapter 3: The Roanoke Rapids Collapse (Saturday, October 28, 2000)
 
-### Part 1: The Crown Burger Trigger – 8:30 PM
+### Part 1: The Crown Burger Trigger
 
 The chaotic, post-competition adrenaline was finally wearing off, replaced by the deep, heavy exhaustion of a high school band trip. The marching band had completely taken over the *Crown Burger* located right at the edge of the hotel parking lot in Roanoke Rapids. The dining room was a loud, greasy sea of teenagers in half-unzipped uniform jackets eating fries and completely ignoring the curfew looming over their heads.
 

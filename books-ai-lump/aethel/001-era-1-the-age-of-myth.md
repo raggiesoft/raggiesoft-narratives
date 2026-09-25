@@ -7,7 +7,7 @@ series: "The Silver Gauntlet of Aethel"
 
 ## Book I: The Silver Sun
 
-### Chapter 1: The Architect's Lesson
+### Part 1: Chapter 1: The Architect\'s Lesson
 
 ## Part 1: The Tuning of the Flare
 
@@ -269,7 +269,7 @@ It was the only blanket she ever needed.
 
 "Night, Moon," Solas replied, burying his face in her neck.
 
-### Chapter 2: The Age of Twilight
+### Part 2: Chapter 2: The Age of Twilight
 
 ## Part 1: The Scholar of the Twin Suns
 

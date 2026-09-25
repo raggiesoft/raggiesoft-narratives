@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: Rachel’s First Band Camp (Monday, August 13th, 2001)
 
-### Part 1: Awakening My Sister – 6:00 AM
+### Part 1: Awakening My Sister
 
 The harsh, electronic blare of the alarm clock on the coffee table severed the quiet of the morning like a physical strike. Beside me on the pull-out mattress of the sofa bed, Rachel jolted awake with a sharp gasp, the heavy blankets tangling around our legs. It was 6:00 AM, the official start of my Junior year marching band season, and more importantly, Rachel's very first day as a Freshman in the pit ensemble.
 
@@ -47,7 +47,7 @@ By 7:15 AM, we had strapped our canvas backpacks on and wheeled our bikes out of
 
 We rode the two miles to Northwood High School in comfortable silence, the rhythmic clicking of our bicycle chains serving as our metronome.
 
-### Part 2: The Sentinel and the Ghost – 7:45 AM
+### Part 2: The Sentinel and the Ghost
 
 We chained our bikes to the racks outside the fine arts wing. As we walked toward the heavy double doors of the band room, a familiar figure pushed off the brick wall to meet us.
 
@@ -85,7 +85,7 @@ Rachel set up her mallets, meticulously lining them up in perfect parallel rows,
 
 Here, surrounded by the giant, resonant instruments and the strict, predictable schedule of Mr. Panoff's band camp, the chaotic adult problems of the Delaney Street house couldn't reach us. It was a perfect, structured sanctuary.
 
-### Part 3: The Sanctuary Shatters – 8:45 AM
+### Part 3: The Sanctuary Shatters
 
 "Detail! Atten-Hut!" Mr. Panoff’s voice boomed across the practice field, cutting through the humid morning air.
 
@@ -161,7 +161,7 @@ Mr. Panoff nodded respectfully. He turned to Kenny, our young pit instructor, wh
 
 Samantha stepped up to our abandoned keyboards, her expression entirely professional. "I'll secure your gear," Samantha promised, her mallets already in hand. She stayed planted on the practice field, holding the line for the pit, while Kenny escorted us away from the chaos.
 
-### Part 4: The Commercial Carpet – 9:00 AM
+### Part 4: The Commercial Carpet
 
 Kenny pulled the heavy, metal double doors of the Northwood High band room open. The blast of over-taxed air conditioning hit us instantly, carrying the familiar, metallic scent of brass polish, valve oil, and stale carpet.
 
@@ -201,7 +201,7 @@ Kenny just took two steps back, folded his arms, and leaned against the doors, e
 
 I squeezed my eyes shut, burying my face into Rachel's shoulder, my own breathing ragged and entirely out of my control. We lay there on the thin, scratchy carpet of the band room, clinging to each other in absolute silence, mourning the end of the only world we had ever known.
 
-### Part 5: The Anchor and the Alpine Snowdrop – 9:15 AM
+### Part 5: The Anchor and the Alpine Snowdrop
 
 The ragged, frantic rhythm of our breathing slowly began to decelerate.
 
@@ -287,7 +287,7 @@ I saw the rigid, predictable structures of the 4/4 time signatures. I saw the cl
 
 I looked over at Rachel. She was already picking up her mallets, meticulously aligning the yarn heads, a faint hint of a smile touching her lips. The world outside the band room was completely falling apart, but here on the field, the notes made perfect sense.
 
-### Part 6: The Muscle Memory Map – 10:00 AM
+### Part 6: The Muscle Memory Map
 
 The initial relief of the sheet music lasted exactly ten minutes.
 
@@ -363,7 +363,7 @@ For the next hour, we didn't pay attention to the blaring trumpets behind us or 
 
 The morning had started with the utter destruction of our family unit, leaving us shattered on the band room floor. But as Rachel's mallets flew across the rosewood keys in perfect, memorized time with ours, the chaotic world outside the practice field disappeared. We were building a brand new anchor, and this time, it was one nobody could take away.
 
-### Part 7: The Stage Door Fortress – 12:00 PM
+### Part 7: The Stage Door Fortress
 
 At noon, Mr. Panoff blew his whistle, signaling the start of the hour-long lunch break.
 
@@ -429,7 +429,7 @@ Rachel took a bite of her pickle-and-peanut-butter sandwich, chewing slowly. She
 
 The Delaney Street house was broken, and our parents had officially surrendered their roles as our protectors. But sitting on the concrete steps of the Northwood High stage, surrounded by the smell of valve oil and generic cola, we had drawn our own battle lines. The outside world could stare and whisper all they wanted. We were a fortress, and our walls were completely impenetrable.
 
-### Part 8: The Afternoon Metronome – 1:00 PM to 5:00 PM
+### Part 8: The Afternoon Metronome
 
 When we finally emerged from the dark, quiet alcove of the stage doors at one o'clock, the Virginia Beach heat hit us like a physical wall. The humidity had peaked, turning the air thick and heavy, but the suffocating weather was nothing compared to the absolute, crushing relief I felt when I looked across the practice field.
 
@@ -511,7 +511,7 @@ He jogged into the fine arts building. Five minutes later, he emerged with a rea
 
 Working together, we hoisted the bicycles into the back of the van. We climbed into the middle row, the blast of the AC instantly soothing our sunburned skin. I sank into the upholstery, Ashley sitting on my left and Rachel on my right. We had survived the collapse of our home, the stares of the upperclassmen, and the first brutal day of band camp. As Mr. Raybourn put the van in drive and steered us toward the safety of his house, I knew the perimeter had held.
 
-### Part 9: 1802 Rich Court – 5:15 PM
+### Part 9: 1802 Rich Court
 
 The distance between 1852 Delaney Street and 1802 Rich Court was exactly one block. Physically, it was a two-minute walk. But stepping out of the humid August heat and through the front door of the Raybourn house felt like crossing a border into an entirely different dimension.
 
@@ -579,7 +579,7 @@ I turned around. Ashley and Rachel were waiting at the bottom of the stairs.
 
 We headed up the stairs to Ashley's room. The Delaney Street house was falling apart, but tonight, I had my pack, I had my spare clothes, and I had the giant bed waiting for us. Base Camp had successfully relocated.
 
-### Part 10: The Giant Bed – 7:30 PM
+### Part 10: The Giant Bed
 
 Even though the August sun was still casting long, golden shadows across the Raybourns' backyard, our physical and emotional batteries were operating at zero percent. The combination of the brutal Virginia heat and the absolute psychological devastation of the morning had completely drained us.
 

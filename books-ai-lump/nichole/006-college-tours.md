@@ -7,7 +7,7 @@ series: "Nichole"
 
 ## The Misfit Tour
 
-### The "Free" Laptop Trap
+### Part 1: The \
 
 ## Date: June 16, 2003 Location: 1850 Delaney Street to Glenrock Mall Time: 9:00 AM
 
@@ -207,7 +207,7 @@ Patrick stood up. The sugar was hitting his system, and the oppressive feeling o
 
 Nichole tapped her armrest twice. *Let's roll.* They navigated out of the dying mall, leaving the ghosts of retail past behind, ready to make the five-minute drive across the city line to Greenwich Road.
 
-### The Commuter Special
+### Part 2: The Commuter Special
 
 ## Date: June 16, 2003 Time: 10:30 AM Location: Atlantic Coast Polytechnic (Greenwich Road)
 
@@ -295,7 +295,7 @@ Nichole tapped her VocaLink screen.
 
 ## The Institution
 
-### The Valley of Hope
+### Part 1: The Valley of Hope
 
 ## Date: June 17, 2003 Time: 11:30 AM Location: Interstate 64 West, Afton Mountain
 
@@ -321,7 +321,7 @@ Then, the green signage appeared on the right. Exit 91. Fishersville.
 
 Tom clicked the blinker. The van slowed, shedding the freedom of the open highway, and turned onto the off-ramp toward Route 285. The seduction was over. The reality was waiting at the bottom of the hill.
 
-### The Fortress
+### Part 2: The Fortress
 
 ## Time: 1:00 PM Location: Roosevelt Rehabilitation Center
 
@@ -363,7 +363,7 @@ They exchanged a look. *Shields up.*
 
 He walked around to the lift. As Nichole rolled out onto the asphalt, she didn't smile at the birds chirping in the S.T.A.R. Trail woods. She locked her brakes and waited for Patrick to take the handles. They were entering hostile territory.
 
-### The Intake
+### Part 3: The Intake
 
 ## Location: Admissions Office, Birdsall-Hoover Building Time: 1:15 PM
 
@@ -489,7 +489,7 @@ A sign on the wall read: ROTHROCK HALL.
 
 Nichole looked at the doors. They didn't look like they were designed to keep the world out. They looked like they were designed to keep the "patients" in.
 
-### The Cage
+### Part 4: The Cage
 
 ## Location: Room 104 (Model Room), Rothrock Hall Time: 1:25 PM
 
@@ -559,7 +559,7 @@ Nichole tapped her armrest. Hard. *Get me out.*
 
 Patrick pushed Nichole out of the room, listening to the hum of the hospital bed receding behind them. He felt sick. It wasn't a room. It was a storage unit for broken parts. And he wasn't going to let them store his sister there.
 
-### The Barracks
+### Part 5: The Barracks
 
 ## Location: Barnett Hall, Suite 204 Time: 1:35 PM
 
@@ -623,7 +623,7 @@ Swayne checked his watch, seemingly oblivious to the tension radiating off the f
 
 Tom and Ellen exchanged a look behind Swayne’s back. It was a look of grim determination. They were done listening. Now, they were just gathering evidence to confirm the "No."
 
-### The Rec Hall
+### Part 6: The Rec Hall
 
 ##### Location: Walkway between Barnett Hall and the Student Center Time: 1:40 PM
 
@@ -699,7 +699,7 @@ He didn't wait for Swayne. He didn't wait for the security guards running across
 
 Patrick pulled back on the handles, popping the casters into the air to clear the debris, and spun the heavy chair in a tight 180-degree combat turn. He bolted for the exit doors, using his body to shield her from the chaos, pushing her out into the safety of the summer air.
 
-### The Escape
+### Part 7: The Escape
 
 ## Location: Outside the Rec Hall, Roosevelt Rehabilitation Center Time: 1:50 PM
 
@@ -745,7 +745,7 @@ Swayne stepped back, defeated.
 
 Patrick loaded Nichole onto the lift. He locked her down with efficient, angry movements. He climbed into the back seat beside her and slammed the door.
 
-### The Intersection
+### Part 8: The Intersection
 
 ## Location: Parking Lot, Roosevelt Rehabilitation Center Time: 1:55 PM
 
@@ -841,7 +841,7 @@ She tapped her armrest.
 
 Patrick smiled—a real smile this time. "Yeah. Pie is good strategy."
 
-### The Safe House
+### Part 9: The Safe House
 
 ## Location: 168 Hermitage Road, Staunton (Annex), Virginia Time: 2:30 PM
 
@@ -971,7 +971,7 @@ She reached for her VocaLink.
 
 "Damn right," Sherry smiled. "Vermont or bust."
 
-### The Pasture
+### Part 10: The Pasture
 
 ## Location: The Lower Field, 168 Hermitage Road Time: 3:30 PM
 
@@ -1053,7 +1053,7 @@ She looked at him, then at the mountains to the north.
 
 They stayed there until the fireflies started to blink in the tall grass, surrounded by their temporary pack, putting the pieces of their souls back together one purr and one tail-wag at a time.
 
-### The War Council
+### Part 11: The War Council
 
 ## Location: The Kitchen / Living Room, 168 Hermitage Road Time: 6:30 PM
 
@@ -1193,7 +1193,7 @@ She looked at Patrick.
 
 "Then it's settled," Tom said, slapping the table. "We rest tonight. Tomorrow, we retreat to VB. Wednesday, the crusade begins."
 
-### The Nest
+### Part 12: The Nest
 
 ## Location: The Living Room, 168 Hermitage Road Time: 10:00 PM
 
@@ -1265,7 +1265,7 @@ Patrick felt Nichole’s breathing sync with his. She was already drifting off, 
 
 The Bennett Machine powered down for the night, safe in the valley, ready to rise and fight for the Holy Grail in the morning.
 
-### The Night Watch
+### Part 13: The Night Watch
 
 ## Location: The Living Room, 168 Hermitage Road Time: 3:14 AM
 
@@ -1333,7 +1333,7 @@ Nichole nodded. She closed her eyes, listening to the dual rhythm of Patrick’s
 
 She drifted back to sleep, held tight by her brother and guarded by a farm cat who took his job very seriously.
 
-### The Morning Report
+### Part 14: The Morning Report
 
 ## Location: The Living Room / Kitchen, 168 Hermitage Road Time: 8:45 AM
 
@@ -1427,7 +1427,7 @@ She tapped the table.
 
 "Yeah," Patrick mumbled, mouth full. "This works."
 
-### The Pivot
+### Part 15: The Pivot
 
 ## Location: 168 Hermitage Road to Virginia Beach Time: 10:00 AM
 
@@ -1541,7 +1541,7 @@ He stood up and grabbed his duffel bag, moving with a renewed energy.
 
 ## Virginia Dominion University
 
-### The Thirteen-Hour Problem
+### Part 1: The Thirteen-Hour Problem
 
 ## Date: June 18, 2003 Time: 10:00 AM Location: 1850 Delaney Street, Virginia Beach, VA
 
@@ -1643,7 +1643,7 @@ She looked at the Putney brochure.
 
 Okay, Vermont, she thought. You have one chance. Beat "Normal."
 
-### Home Field Advantage
+### Part 2: Home Field Advantage
 
 ## Date: June 19, 2003 Time: 1:00 PM Location: En route to Virginia Dominion University, Norfolk, VA
 
@@ -1705,7 +1705,7 @@ GOOD. START.
 
 They joined the group, rolling into the cool air of the lobby, just another set of prospective students checking out the local giant.
 
-### The Roll Call
+### Part 3: The Roll Call
 
 ##  Location: The Welcome Center Lobby, Vanguard Convocation Center Time: 1:15 PM
 
@@ -1783,7 +1783,7 @@ NORMAL.
 
 "Let's roll," Patrick said.
 
-### The Tower of Words
+### Part 4: The Tower of Words
 
 ## Location: Batten Arts & Letters (The BAL), 45th St & Hampton Blvd Time: 1:30 PM
 
@@ -1889,7 +1889,7 @@ MY. FLOOR.
 
 "Yeah," Patrick grinned, looking at the flyer for a Sci-Fi Lit class. "I think we found your lab."
 
-### The Sanctuary
+### Part 5: The Sanctuary
 
 ## Location: Batten Arts & Letters (BAL) to Perry Library Time: 1:50 PM
 
@@ -1969,7 +1969,7 @@ GOOD. LIBRARY.
 
 "Yeah," Patrick whispered, his body temperature finally returning to normal. "Good library."
 
-### The Life Sciences Hub
+### Part 6: The Life Sciences Hub
 
 ## Location: Mills Godwin Life Sciences Building (MGSB) Time: 2:10 PM
 
@@ -2027,7 +2027,7 @@ Patrick’s ears perked up.
 
 Nichole straightened in her chair. The train.
 
-### The Magic Carpet
+### Part 7: The Magic Carpet
 
 ## Location: The Sciences Quad to Webb University Center Time: 2:30 PM
 
@@ -2109,7 +2109,7 @@ FAST. TRACK.
 
 "Yeah," Patrick grinned. "Fall 2003. We'll be riding the magnet."
 
-### The Hub
+### Part 8: The Hub
 
 ## Location: Webb University Center Time: 2:45 PM
 
@@ -2219,7 +2219,7 @@ Nichole nodded. Bladder empty. Tech store spotted.
 
 READY.
 
-### The Dealbreaker
+### Part 9: The Dealbreaker
 
 ## Location: Webb University Center (Back Exit) to Dominion Hall Time: 3:15 PM
 
@@ -2313,7 +2313,7 @@ Apartment. Key. Front door. Freedom.
 
 She was ready for Vermont. Because now she knew exactly what "Normal" looked like, and she knew she could build it herself if she had to.
 
-### The Retreat
+### Part 10: The Retreat
 
 ## Location: VDU Campus to 43rd Street Parking Garage Time: 3:45 PM
 
@@ -2425,7 +2425,7 @@ Bring it on, Vermont.
 
 ## Trek Up the East Coast
 
-### The Peninsula Run
+### Part 1: The Peninsula Run
 
 ## Date: July 1, 2003 Time: 6:00 AM Location: 1850 Delaney Street, Virginia Beach, VA
 
@@ -2457,7 +2457,7 @@ The road dipped. The daylight vanished. They plunged into the mile-long tube of 
 
 Nichole loved this part. It felt like traveling through a portal. On one side was Virginia Beach, the "System," and the humidity. On the other side was the Delmarva Peninsula and the road to the future.
 
-### The Delaware Trap
+### Part 2: The Delaware Trap
 
 ## The Ferry Decision Date: July 1, 2003 Time: 10:45 AM Location: US-113 Northbound, approaching Georgetown, Delaware
 
@@ -2557,7 +2557,7 @@ Nichole tapped her screen.
 
 "Yep," Patrick smiled, settling back into his seat. "Hello, New Jersey."
 
-### The New Jersey Layover
+### Part 3: The New Jersey Layover
 
 ## Date: July 1, 2003; Time: 2:15 PM; Location: John Fenwick Service Area, New Jersey Turnpike (Northbound)
 
@@ -2765,7 +2765,7 @@ Nichole looked at the campus through the van window. It looked huge. It looked r
 
 "Six hours is nothing," Patrick said, reaching over to squeeze Nichole's hand as they rolled into the hotel parking lot. "We can do six hours."
 
-### The Machine at Rest
+### Part 4: The Machine at Rest
 
 ## Date: July 1, 2003 Time: 6:45 PM Location: A Highway Hotel, New Brunswick, New Jersey
 
@@ -2829,7 +2829,7 @@ Nichole let out a long, shuddering sigh. The hum of the highway vanished. The fe
 
 With Patrick’s arm around her and his steady heartbeat against her back, she was grounded. The machine was powered down, safe and secure for the night.
 
-### The Hopeful Morning
+### Part 5: The Hopeful Morning
 
 Date: July 2, 2003
 
@@ -2909,7 +2909,7 @@ Patrick wiped a crumb from Nichole’s chin and stood up. He grabbed the push ha
 
 ## Vermont
 
-### The Green Mountain Haul
+### Part 1: The Green Mountain Haul
 
 Date: July 2, 2003
 
@@ -2993,7 +2993,7 @@ Nichole smiled against the pillow, the scent of pine still lingering in her memo
 
 The machine was powered down and ready to recharge overnight.
 
-### Putney College Open House
+### Part 2: Putney College Open House
 
 ## Date: July 3, 2003
 
@@ -3301,7 +3301,7 @@ Patrick nodded. He didn't look surprised. He looked relieved.
 
 He didn't wait for permission. He pulled back on the handles, spinning the Titan AeroMotion around in a tight, aggressive 180-degree turn. He pushed her out of the model room, down the hall, and through the automatic doors, leaving the tour guide standing alone between the two narrow beds.
 
-### The Drive Back
+### Part 3: The Drive Back
 
 Time: 12:15 PM
 
@@ -3405,7 +3405,7 @@ That was her sanctuary now. Not the college.
 
 The Bennett van drove south through the blinding rain, a mobile fortress protecting a broken heart, carrying them away from the future they thought they wanted and back to the only safety they knew.
 
-### The Fuel Stop
+### Part 4: The Fuel Stop
 
 ## Date: July 3, 2003 Time: 6:30 PM Location: Hotel, Brattleboro, Vermont
 
@@ -3547,7 +3547,7 @@ The lights went out. The rain continued to fall in the Vermont dark, but inside 
 
 ## An Ocean of an Idea
 
-### The New Jersey Pivot
+### Part 1: The New Jersey Pivot
 
 ## Date: July 4, 2003 Time: 8:00 AM Location: Hotel, Brattleboro, Vermont
 
@@ -3865,7 +3865,7 @@ He closed the laptop lid.
 
 "Yeah," Patrick smiled. "It really does."
 
-### The Juggernaut
+### Part 2: The Juggernaut
 
 ## Date: July 5, 2003 (Saturday) Time: 10:00 AM Location: Raritan State University, New Brunswick, New Jersey
 
@@ -3961,7 +3961,7 @@ They unloaded the chair. Nichole rolled toward the diner, the smell of griddle s
 
 But as Patrick pushed her up the ramp into the diner, his heavy footsteps matching the roll of her wheels, she knew they still had the most important thing. They still had the machine. And they would find a place for it, even if they had to build it themselves.
 
-### The Diner Debrief
+### Part 3: The Diner Debrief
 
 ## Date: July 5, 2003 Time: 1:15 PM Location: The Edison Diner, US-1 South, New Jersey
 
@@ -4055,7 +4055,7 @@ Nichole tapped her tray. "HOME."
 
 They clinked their mugs and glasses together over the plate of half-eaten pancakes. The Misfit Tour was officially over. They hadn't found the perfect college, but they had found the answer. They didn't need a sanctuary built by someone else. They were going to build their own.
 
-### The Ocean State Option
+### Part 4: The Ocean State Option
 
 ## Date: July 5, 2003 Time: 1:35 PM Location: The Edison Diner, US-1 South, New Jersey
 
@@ -4135,7 +4135,7 @@ Nichole let out a loud, joyous laugh—a bubbling, throaty sound that made a few
 
 "Alright," Patrick grinned, putting his napkin map in his pocket. "Next stop, Narragansett Bay. Let's go see the water."
 
-### The Ocean State Arrival
+### Part 5: The Ocean State Arrival
 
 ## Date: July 5, 2003 Time: 8:45 PM Location: The Bayside Hotel, Newport, Rhode Island
 
@@ -4239,7 +4239,7 @@ Nichole reached for her cup of soda on the tray. Patrick helped her lift it. The
 
 ## The Commuter Loop
 
-### The Holy Cow
+### Part 1: The Holy Cow
 
 ## Date: July 6, 2003 Time: 7:30 AM Location: BayFront Creamery, West Main Road, Middletown, Rhode Island
 
@@ -4327,7 +4327,7 @@ Nichole tapped her cup against his.
 
 They devoured the rest of the Holy Cow, the heavy diner food providing the exact kind of fuel they needed. In thirty minutes, the "Bennett Machine" was going to launch into the wild, testing a fully accessible transit grid for the very first time.
 
-### The Gateway Connection
+### Part 2: The Gateway Connection
 
 ## Date: July 6, 2003 Time: 8:45 AM Location: West Main Road, Middletown, Rhode Island
 
@@ -4413,7 +4413,7 @@ Patrick grinned. He pulled out the second roll of quarters from his pocket.
 
 "Eight dollars," Patrick said. "Let's go buy some boat tickets."
 
-### The Sea Gate
+### Part 3: The Sea Gate
 
 ## Date: July 6, 2003 Time: 9:35 AM Location: Narragansett Bay, Aboard the Newport Flyer
 
@@ -4473,7 +4473,7 @@ She looked at Patrick. A huge, unfiltered smile broke across her face. She hit t
 
 They rolled through the automatic glass doors of the station, leaving the harbor wind behind and stepping into their future.
 
-### The Bull Run
+### Part 4: The Bull Run
 
 ## Date: July 6, 2003 Time: 10:20 AM Location: Narraganset Esplanade Station (Level C - The Concourse)
 
@@ -4533,7 +4533,7 @@ BSU offered a subterranean highway built for wheels, protected from the elements
 
 Nichole didn't just feel accommodated here. She felt prioritized. For the first time on the tour, the world wasn't just tolerating the Machine. It was built for it.
 
-### The Braxton Link
+### Part 5: The Braxton Link
 
 ## Date: July 6, 2003, Time: 10:45 AM, Location: The Bull Run (Beneath BSU Campus)
 
@@ -4613,7 +4613,7 @@ Nichole looked at the secure door. It was the ultimate barrier against the winte
 
 "We check the listings tonight," Patrick promised, turning the chair around to head back to the train. "If there's a two-bedroom unit in there, we take it. I don't care how much it costs."
 
-### The Library Commons
+### Part 6: The Library Commons
 
 ## Date: July 6, 2003 Time: 10:45 AM Location: The University Library, Braxton State University
 
@@ -4667,7 +4667,7 @@ Nichole looked up at him and smiled. She tapped her screen. "HOMEWORK."
 
 "Exactly," Patrick grinned. "Homework."
 
-### The Debrief
+### Part 7: The Debrief
 
 Date: July 6, 2003
 
@@ -4727,7 +4727,7 @@ Uncle Mark raised his soda bottle. "To the Gap Year. And to The Foundry."
 
 Patrick turned back to the computer. He didn't close the browser window. He bookmarked it. It wasn't just a rental listing anymore. It was the target.
 
-### The Upgrade
+### Part 8: The Upgrade
 
 ## Date: July 7, 2003 Time: 11:00 AM Location: CyberWorld Electronics, Bald Hill Road, Warwick, Rhode Island
 
@@ -4851,7 +4851,7 @@ She tapped her VocaLink for the last time that day.
 
 ## The Gap Year Protocol
 
-### The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia
+### Part 1: The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia
 
 The thirteen-hour drive south felt different than the drive north. The crushing weight of the Putney College disaster had been left somewhere in the Green Mountains, replaced by the humming energy of a concrete plan.
 
@@ -4887,7 +4887,7 @@ Nichole clicked the scroll wheel on the mouse, nodding. She tapped a newly creat
 
 Patrick smiled. It was true. For years, the heavy, baritone voice of the VocaLink software—"Digital Dan"—had spoken for her. But on this new machine, Nichole had custom-coded a voice profile that was lighter, faster, and distinctly hers. It didn't sound like a medical device. It sounded like a workstation.
 
-### The Portsmouth Project
+### Part 2: The Portsmouth Project
 
 ## Date: August 12, 2003 Time: 7:00 PM Location: The Kitchen, 1850 Delaney Street, Virginia Beach
 
@@ -4957,7 +4957,7 @@ Nichole looked at her parents. She tapped her screen.
 
 "Copy that," Mark said triumphantly. "West Main Road is waiting for you."
 
-### The Fortress on West Main
+### Part 3: The Fortress on West Main
 
 ## Date: September 1, 2003 Time: 2:30 PM Location: 95 West Main Road, Portsmouth, Rhode Island
 
@@ -5055,7 +5055,7 @@ Patrick smiled, wiping his own eyes with the back of his hand. He looked at the 
 
 The Bennett Machine was officially docked. The clan was back together, and the Gap Year had begun.
 
-### The Departure
+### Part 4: The Departure
 
 ## Date: September 2, 2003 Time: 8:00 AM Location: 95 West Main Road, Portsmouth, Rhode Island
 
@@ -5147,7 +5147,7 @@ Nichole reached up and patted Mark’s arm. She clicked her mouse.
 
 Mark laughed, the tension breaking. "Damn right. Now, let's go figure out how to work that fancy new tub."
 
-### The Visitor
+### Part 5: The Visitor
 
 ## Date: September 28, 2003 Time: 2:15 PM Location: The Driveway, 95 West Main Road, Portsmouth, Rhode Island
 
@@ -5293,7 +5293,7 @@ Nichole shook her head. She clicked her mouse, her new voice filled with absolut
 
 "HE. IS. THE. FIREWALL."
 
-### The Hydrostatic Lock
+### Part 6: The Hydrostatic Lock
 
 ## Date: September 28, 2003 Time: 3:30 PM Location: The Master Bath, The Bennett Wing (First Floor)
 
@@ -5493,7 +5493,7 @@ Patrick smiled. "Good. Now let's go see what Uncle Mark is doing. I bet he's sta
 
 He lifted her back into her chair. The Bennett Machine was serviced, refueled, and ready to roll back out into the hallway.
 
-### The Milestone Payment
+### Part 7: The Milestone Payment
 
 ## Date: October 3, 2003 Time: 10:15 AM Location: 95 West Main Road, Portsmouth, Rhode Island
 
@@ -5593,7 +5593,7 @@ Patrick laughed, wiping his eyes. "No grocery store for me," he agreed. "Just co
 
 "Damn right," Mark said, clapping Patrick on the shoulder. "Now, let's get the guest rooms ready. The rest of the clan arrives tomorrow."
 
-### The Fortress Blueprint
+### Part 8: The Fortress Blueprint
 
 ## Date: October 4, 2003 Time: 4:00 PM Location: 95 West Main Road, Portsmouth, Rhode Island
 
@@ -5655,7 +5655,7 @@ She tapped her screen.
 
 "That it is, Nikki," Patrick smiled, looking down at his sister. "Now... we have ten months to get ready for college."
 
-### The Credential Hunt
+### Part 9: The Credential Hunt
 
 ## **Date:** October 4, 2003 **Time:** 8:30 PM **Location:** The Bennett Wing (Mini-Apartment), 95 West Main Road, Portsmouth, RI
 
@@ -5773,7 +5773,7 @@ Nichole smiled. She tapped her screen.
 
 ## The Independent Grid
 
-### The Commute
+### Part 1: The Commute
 
 ## Date: November 15, 2003 Time: 6:15 AM Location: 95 West Main Road, Portsmouth, Rhode Island
 
@@ -5859,7 +5859,7 @@ She tapped her screen.
 
 "That we are, Nikki," Patrick laughed. "Let's go show them what the Gap Year bought us."
 
-### The Concourse Connection
+### Part 2: The Concourse Connection
 
 ## Date: November 15, 2003 Time: 7:50 AM Location: Narragansett Esplanade Station (Level 1 - Plaza)
 
@@ -5933,7 +5933,7 @@ They rolled over to the breakfast spread. The tables were set at thirty inches h
 
 They were inside. The Machine had worked.
 
-### The Call of the Bull
+### Part 3: The Call of the Bull
 
 ## Date: November 15, 2003 Time: 9:00 AM Location: Grand Ballroom, BSU Student Union (Level 2)
 
@@ -5999,7 +5999,7 @@ Patrick stood up. He grabbed the handles of the Titan AeroMotion.
 
 They rolled into the aisle, merging seamlessly with the flow of students moving toward the future.
 
-### The Mole Lifestyle
+### Part 4: The Mole Lifestyle
 
 ## Date: November 15, 2003 Time: 9:15 AM Location: The Braxton Link (Sub-University Avenue) leading to the Tech Core
 
@@ -6069,7 +6069,7 @@ Patrick laughed. "Bennett Dynamics. I like the sound of that."
 
 The Gap Year wasn't just about learning to ride the bus anymore. It was about prep work. They had found their major. They had found their campus. Now, they just had to get accepted.
 
-### The Commuter Waiver
+### Part 5: The Commuter Waiver
 
 ## Date: November 15, 2003 Time: 10:30 AM Location: Housing & Residence Life Seminar, BSU Student Union
 
@@ -6141,7 +6141,7 @@ Nichole looked at Patrick.
 
 "We didn't beat it, Nikki," Patrick whispered, putting his own license back in his pocket. "We studied the manual."
 
-### The Anti-Sales Pitch
+### Part 6: The Anti-Sales Pitch
 
 ## Date: November 15, 2003 Time: 11:15 AM Location: Financial Aid Seminar, Room 204
 
@@ -6205,7 +6205,7 @@ Patrick nodded, closing his notebook. "Yeah. It's boring. And I love it."
 
 They didn't need a salesman. They needed a spreadsheet. And for the first time, the numbers actually added up.
 
-### Refueling the Machine
+### Part 7: Refueling the Machine
 
 ## Date: November 15, 2003 Time: 12:00 PM Location: The Bull Pen (Main Cafeteria), BSU Student Union
 
@@ -6261,7 +6261,7 @@ Nichole took a sip of her soda. She looked at the charging cable connecting her 
 
 She knew he was right. The Fortress wasn't just their house in Portsmouth anymore. They had found a Fortress that covered an entire peninsula.
 
-### The Bull Run
+### Part 8: The Bull Run
 
 ## Date: November 15, 2003 Time: 1:00 PM Location: The Braxton Link (BSU Campus Concourse)
 
@@ -6345,7 +6345,7 @@ She tapped her screen.
 
 "I know," Patrick laughed, grabbing the push-handles of the Titan AeroMotion. "Next ferry leaves in twenty minutes. Let's go home and brief the family."
 
-### The Credential Check
+### Part 9: The Credential Check
 
 ## **Date:** November 15, 2003 **Time:** 1:30 PM **Location:** University Medical Center (Level 1 Lobby)
 
@@ -6405,7 +6405,7 @@ Nichole tapped her screen.
 
 "Damn right," Patrick said. "Let's go home."
 
-### The Detour and The Grid
+### Part 10: The Detour and The Grid
 
 ## **Date:** November 15, 2003 **Time:** 2:15 PM **Location:** The Braxton Link (Sub-University Avenue)
 
@@ -6525,7 +6525,7 @@ Mark smiled. He clapped Patrick on the shoulder.
 
 "Damn right you did," Mark said. "And your mom has had a pot roast in the oven for five hours just waiting for you two. Let's go eat and do the debrief."
 
-### The Debrief
+### Part 11: The Debrief
 
 ## Date: November 15, 2003 Time: 6:30 PM Location: 95 West Main Road, Portsmouth, Rhode Island
 

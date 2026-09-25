@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: A Left Coast Christmas (Saturday, November 17, 2001)
 
-### Part 1: Arrival at PDX – 2:30 PM
+### Part 1: Arrival at PDX
 
 The cross-country flight from Virginia had been a grueling, anxiety-inducing marathon. Flying just two months after the airspace had been weaponized meant the entire atmosphere of commercial aviation was thick with a heavy, unspoken tension. I had spent the last seven hours rigidly gripping the armrests, my nervous system completely frayed.
 
@@ -55,7 +55,7 @@ We reached the massive, rotating luggage carousel. The heavy buzzer sounded, and
 
 "That is my bag," I said, pointing as I stepped forward and pulled one of the heavy floral suitcases off of the belt. It was the exact same suitcase Dad had used to pack Rachel's life away two months ago, repurposed for my trip. I set it upright and gripped the handle. "Where to?"
 
-### Part 2: The Columbia Transit Service – 3:15 PM
+### Part 2: The Columbia Transit Service
 
 Rachel giggled, her dark eyes lighting up as she stepped fully into her element. The overwhelming stress of the last two months vanished, replaced by the rigid, predictable safety of a public transportation grid.
 
@@ -111,7 +111,7 @@ As the bus merged onto the interstate and rumbled over the massive steel bridge 
 
 The 4 bus dropped us off a block from the hotel. The rain was coming down harder now. Rachel grabbed my suitcase again, laughing as the cold wind whipped her hair across her face, while I pushed Jessica as fast as I could through the sliding glass doors of the hotel lobby. We were soaking wet, exhausted from travel, but our pack was finally back together.
 
-### Part 3: Sibling Cuddles – 5:00 PM
+### Part 3: Sibling Cuddles
 
 We arrived in the room on the second floor, and Jessica swiped her keycard. The heavy hotel door clicked open, and we pushed inside, dragging the luggage out of the hallway.
 
@@ -177,7 +177,7 @@ We didn't say anything else. We didn't need to. We just pulled the heavy hotel b
 
 ## Chapter 2: A Clark County Christmas (Sunday, November 18, 2001)
 
-### Part 1: Left Coast Time – 7:00 AM
+### Part 1: Left Coast Time
 
 Morning rolled around, the pale, gray light of the Pacific Northwest filtering through the gap in the heavy hotel curtains.
 
@@ -241,7 +241,7 @@ I pushed her inside, maneuvering her into the designated securement area behind 
 
 The adult world was messy and terrifying, but inside the rigid, mechanical routine of the Columbia Transit Service, with both of my sisters right beside me, I knew exactly what the pattern was.
 
-### Part 2: The Burger Arch – 8:30 AM
+### Part 2: The Burger Arch
 
 The ride to Franklin’s was uneventful, the heavy bus tires hissing over the wet pavement. Soon, we were dropped off at the massive transit shelter on the edge of the hypermarket's sprawling property.
 
@@ -293,7 +293,7 @@ He was acting like he was afraid of her.
 
 As Dad parked the car and killed the engine, the suffocating silence in the cabin made one thing perfectly clear: Jessica was holding a massive piece of leverage over his head, and breakfast was exactly where she planned to drop it.
 
-### Part 3: The Hard Conversation – 9:15 AM
+### Part 3: The Hard Conversation
 
 We carried our plastic trays to a booth in the far corner of the neon-lit dining room, away from the morning rush. The air smelled heavily of fryer grease and burnt coffee.
 
@@ -389,7 +389,7 @@ Jessica simply reached into her coat pocket, pulled out her Columbia Transit car
 
 ## Chapter 3: Shopping in Portland (Sunday, November 18, 2001)
 
-### Part 1: The Transit Protocol – 10:00 AM
+### Part 1: The Transit Protocol
 
 The journey from the Vancouver fast-food parking lot to the center of Portland was a masterclass in Rachel’s transit hyper-fixation.
 
@@ -411,7 +411,7 @@ Twenty minutes later, the train slowed, curving onto a raised platform.
 
 "Rose City Center," Rachel announced, standing up and grabbing her coat. "Our stop."
 
-### Part 2: The Largest Mall in Oregon – 11:00 AM
+### Part 2: The Largest Mall in Oregon
 
 The train doors chimed open, dropping us off directly across the street from a massive, sprawling concrete and glass structure.
 
@@ -455,7 +455,7 @@ My two sisters, with Rachel eagerly taking the lead since she had mapped out the
 
 I was surprised at how much Jessica’s wheelchair could carry, balancing bags on the back handles and across her lap. We stuck mostly to clothes, books, and small things, constantly running the logistical calculations of what we could comfortably carry on the public transit ride back to Vancouver. Despite the heavy conversation at the railing, being surrounded by my sisters, following a structured shopping plan, felt like the most grounded I had been in months.
 
-### Part 3: The Investment – 12:30 PM
+### Part 3: The Investment
 
 We navigated away from the clothing retailers and the loud, echoing atrium of the ice rink, pushing through the heavy glass doors of a massive, two-story bookstore. The air inside smelled deeply of roasted coffee beans and fresh paper, a quiet, muffled sanctuary compared to the rest of Rose City Center.
 
@@ -501,7 +501,7 @@ As we walked, my analytical brain processed the interaction. I had spent my enti
 
 She was the ultimate anchor. And as Dad followed us to the register to watch his twenty-year-old daughter pay for his high school education, I knew he finally realized exactly who was in charge of the pack.
 
-### Part 4: The Federal Way Proposal – 4:00 PM
+### Part 4: The Federal Way Proposal
 
 We eventually arrived back at the hotel in Vancouver, soaked from the rain and exhausted from the massive logistical effort of the day. Jessica swiped her keycard, and the heavy door clicked open.
 
@@ -565,7 +565,7 @@ Rachel let out a long, shaky breath, her shoulders slumping as the heavy tension
 
 ## Chapter 4: The Virginia Hammer (Monday, November 19, 2001)
 
-### Part 1: The Quantum Shield – 10:00 AM
+### Part 1: The Quantum Shield
 
 Jessica’s apartment in Federal Way was a revelation.
 
@@ -603,7 +603,7 @@ Jessica's eyes scanned her laptop screen.
 
 She hit a key on her laptop, initiating the wire transfer that would fund the war.
 
-### Part 2: The Status Quo – Tuesday, November 20th, 3:15 PM
+### Part 2: The Status Quo
 
 For twenty-nine agonizing hours, we lived in a state of suspended animation.
 
@@ -645,7 +645,7 @@ We were a thousand miles away from the courtroom, but the hammer had officially 
 
 ## Chapter 5: A New Tradition (Wednesday, November 21, 2001)
 
-### Part 1: The Legal Stranger – 10:00 AM
+### Part 1: The Legal Stranger
 
 The sanctuary of the Federal Way apartment held perfectly through the night. When Wednesday morning arrived—the day before Thanksgiving—the heavy, suffocating anxiety that had defined our lives for the last two months was completely gone.
 
@@ -697,7 +697,7 @@ She let out a long breath, shaking her head. She looked over at Rachel, who was 
 
 "Well," Jessica smiled, her face instantly softening as she looked at our little sister. "I think that officially takes care of the Vancouver problem. Now, who wants to help me check on the turkey I've had thawing in the fridge since Sunday, and maybe get a head start on the pie crusts?"
 
-### Part 2: The Aero-Transit Packet – 11:15 AM
+### Part 2: The Aero-Transit Packet
 
 The quiet hum of the apartment had barely resumed when the landline rang a second time. Rachel’s shoulders immediately hitched up toward her ears, her dark eyes flashing back to the plastic receiver on the wall.
 
@@ -745,7 +745,7 @@ For the next two hours, the Federal Way apartment smelled of butter, flour, and 
 
 The physical repetition of working the dough with my hands was incredibly grounding. There were no lawyers, no screaming girlfriends, and no frantic airport terminals. There was just the quiet, methodical safety of the kitchen, the predictable hum of the refrigerator, and the absolute certainty that tomorrow, for the first time in our lives, our pack was going to celebrate a holiday exactly on our own terms.
 
-### Part 3: The Apartment Confrontation – 4:00 PM
+### Part 3: The Apartment Confrontation
 
 The cheap, second-floor unit at the Prairie View Apartments felt like a shrinking padded cell.
 
@@ -811,7 +811,7 @@ Dad stood alone in the center of the living room. The silence rushed back in, he
 
 He was three thousand miles away from his real family, trapped on the second floor of a cheap walk-up, completely alienated from his children, and now locked out of his own bedroom by a woman who realized he was nothing but a fake. The skeletons had finally caught up to him, and for the first time in his life, there was absolutely no one left to blame but himself.
 
-### Part 4: The Assembly Line – 6:00 PM
+### Part 4: The Assembly Line
 
 By early evening, the pale, gray light of the Pacific Northwest had completely surrendered to the dark, and a steady, rhythmic rain was drumming against the apartment windows. Inside, however, the environment was completely insulated and warm.
 
@@ -843,7 +843,7 @@ I looked down the counter at my sisters. The emotional whiplash of the morning�
 
 In its place was a profound, unshakeable peace. We were chopping vegetables, tearing bread, and executing a simple holiday protocol, but it felt like a monumental victory. We had successfully defended our perimeter, and tomorrow, we were going to celebrate our pack exactly how we wanted to.
 
-### Part 5: The Escrow Anchor – 8:00 PM
+### Part 5: The Escrow Anchor
 
 The kitchen assembly line was officially shut down for the night. The heavy glass bowl of compound butter and the foil-wrapped green bean casserole were securely staged in the refrigerator, and the apartment smelled faintly of rosemary, sage, and flour.
 
@@ -915,7 +915,7 @@ The adult world had tried to break us apart. They had used geography, court orde
 
 The pack wasn't broken. We were just expanding the perimeter.
 
-### Part 6: The Regulated Sanctuary – 10:00 PM
+### Part 6: The Regulated Sanctuary
 
 The emotional high of the escrow reveal eventually gave way to the heavy, physical exhaustion of the day. The clock on the kitchen microwave clicked over to 10:00 PM. The rain was still falling steadily outside, but the Federal Way apartment was warm and perfectly still.
 
@@ -975,7 +975,7 @@ I tightened my arms around them both, closing my eyes. The adult world, with its
 
 ## Chapter 6: A Left Coast Thanksgiving (Thursday, November 22, 2001)
 
-### Part 1: The Hudson's Parade – 9:00 AM
+### Part 1: The Hudson's Parade
 
 The morning light filtering through the Federal Way apartment was soft and gray, but the atmosphere inside the bedroom was incredibly warm.
 
@@ -1017,7 +1017,7 @@ We sat there in the quiet living room, eating our Harvest Maize Grids in our sof
 
 There were no screaming parents. There were no court orders hanging over our heads. There was just the mechanical crunch of our cereal, the cheerful, orchestrated noise of the Hudson's Parade echoing from the TV speakers, and the absolute certainty that our pack was exactly where we were supposed to be.
 
-### Part 2: The Thanksgiving Ultimatum – 10:30 AM
+### Part 2: The Thanksgiving Ultimatum
 
 The shrill ring of the kitchen landline cut straight through the cheerful, brassy marching band music of the Hudson's Parade.
 
@@ -1061,7 +1061,7 @@ Rachel slowly lowered her spoon back into her cereal bowl. The panic in her eyes
 
 "Now," Jessica said, grabbing her cereal bowl off the coffee table and offering us a warm, genuine smile. "Where were we? Did I miss the giant turkey balloon?"
 
-### Part 3: The Signature Act – 10:45 AM
+### Part 3: The Signature Act
 
 "No, Jess, you didn't miss Timothy Turkey," I said, pointing at the television screen with my spoon. "He hasn't come down the avenue yet."
 
@@ -1093,7 +1093,7 @@ As the dancers hit their final, flawless pose and the crowd on the television er
 
 Rachel pointed excitedly at the screen, letting out a soft, happy hum. We were exactly where we needed to be.
 
-### Part 4: The Shape of Tradition – 11:45 AM
+### Part 4: The Shape of Tradition
 
 The final hour of the Hudson's Parade played out exactly as it always did, offering the profound, regulating comfort of a completely unchangeable routine.
 
@@ -1141,7 +1141,7 @@ Rachel let out a long, happy breath. She reached out and touched the cold metal 
 
 "Now," Jessica clapped her hands together. "If the Cranberry Committee is satisfied, who wants to help me carry this massive turkey to the oven?"
 
-### Part 5: The Heavy Lifting – 12:30 PM
+### Part 5: The Heavy Lifting
 
 The oven preheat alarm beeped, a sharp, singular electronic tone that signaled the next phase of the timeline.
 
@@ -1193,7 +1193,7 @@ Rachel looked at the glowing green numbers counting down on the microwave, then 
 
 She turned around, walked directly into the living room, and booted up her Super Nova 16 console. The holiday was running flawlessly.
 
-### Part 6: The 101% Secret – 1:30 PM
+### Part 6: The 101% Secret
 
 The apartment was filled with the heavy, savory aroma of roasting turkey, creating a thick blanket of sensory comfort over the living room. Jessica was sitting at the dining table with a thick university textbook spread open, enjoying the profound luxury of a quiet afternoon.
 
@@ -1265,7 +1265,7 @@ Rachel dropped her controller into her lap, absolutely vibrating with excitement
 
 From the dining table, Jessica looked over the top of her textbook, watching us celebrate the digital victory. She didn't tell us to quiet down. She didn't complain about the noise of the television. She just smiled, turned the page of her book, and let us enjoy the absolute, uninterrupted freedom of our sanctuary.
 
-### Part 7: The Final Push – 3:30 PM
+### Part 7: The Final Push
 
 The microwave timer beeped from the kitchen, a sharp electronic tone that cut through the jungle music of the Super Nova 16.
 
@@ -1327,7 +1327,7 @@ Rachel carefully carried the foil-covered dishes to the oven and placed them on 
 
 ## Chapter 9: The Southbound ARTS (Sunday, November 25, 2001)
 
-### Part 1: The Reverse Route – 8:00 AM
+### Part 1: The Reverse Route
 
 The Thanksgiving reprieve was officially over.
 
@@ -1351,7 +1351,7 @@ Rachel looked across the aisle at our older sister, who was reading a thick text
 
 "Every single day," I promised.
 
-### Part 2: The Security Checkpoint – 1:00 PM
+### Part 2: The Security Checkpoint
 
 The ARTS train deposited us in Portland, and a quick connection on the local light rail brought us directly to the ticketing lobby of PDX.
 

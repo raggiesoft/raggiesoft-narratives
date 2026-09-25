@@ -7,7 +7,7 @@ series: "The Silver Gauntlet of Aethel"
 
 ## Book I: The Silver Gauntlet of Aethel
 
-### Chapter 1: The Scholar of the Twin Suns
+### Part 1: Chapter 1: The Sundering of Sunstead
 
 ## Part 1: A Home in the Hearth
 
@@ -1559,7 +1559,7 @@ Clinker burped. A small puff of smoke came out of his nose.
 
 "Yes," the merchant squeaked. "Discount. Absolutely."
 
-### Chapter 2: The Heresy of Order
+### Part 2: Chapter 2: The Silence of the Hearth
 
 ## Part 1: The Fading of the Guardian
 
@@ -2725,7 +2725,7 @@ One step at a time, he thought, the words falling into cadence with his boots on
 
 ## Book II: The Shadow's Heart
 
-### Chapter 1: The Hunter and the Hunted
+### Part 1: Chapter 1: The Hunted and the Caged
 
 ## Part 1: The Hunter and the Hunted
 
@@ -3733,7 +3733,7 @@ She picked up the tray of food. She ate. Not because she was hungry, but because
 
 The rebellion had begun.
 
-### Chapter 2: A Cage of Silver Light
+### Part 2: Chapter 2: The Tyrant\'s Throne
 
 ## Part 1: A Lord's Manifesto
 
@@ -4021,7 +4021,7 @@ But outside, in the screaming gales of the Voidlands, the Silverwing did not dis
 
 It flew South. It flew over the jagged peaks, over the black ice, a tiny, defiant spark carrying a message of endurance to a boy who was about to forget who he was.
 
-### Chapter 3: The Trial of the Crystal Spiders
+### Part 3: Chapter 3: The Last Temptation
 
 ## Part 1: The Oasis of Lies
 
@@ -4307,7 +4307,7 @@ Inside the cell, Kaela watched her go. Then she turned her face back to the ston
 
 He’s awake, Kaelan, she projected into the void. He knows you’re coming. Be ready.
 
-### Chapter 4: Seeds of Rebellion
+### Part 4: Chapter 4: The Bridge of a Thousand Truths
 
 ## Part 1: The Guardian's Gate
 
@@ -4683,7 +4683,7 @@ Kaelan took a deep breath, filling his lungs with the stale air of the enemy's s
 
 ## Book III: The Dawn of the Twins
 
-### Chapter 1: Embers of Hope
+### Part 1: Chapter 1: The Siege of the Shadowspire
 
 ## Part 1: Embers of Hope
 
@@ -5043,7 +5043,7 @@ He stepped back, gathering his momentum.
 
 He ran. He leaped over the last pile of rubble. He drove his boot into the center of the bone doors with the force of a battering ram.
 
-### Chapter 2: The Hall of Shattered Heroes
+### Part 2: Chapter 2: The Heart of the Gloom
 
 ## Part 1: Reunion
 
@@ -5603,7 +5603,7 @@ It wasn't a polite hug. It was desperate. It was the crashing together of two pl
 
 They stood there in the ruins of the tyrant's tower, holding each other while the walls crumbled around them, neither willing to let go, finally whole again.
 
-### Chapter 3: A Fortress Divided
+### Part 3: Chapter 3: The Long Road Home
 
 ## Part 1: The First Night
 
@@ -6475,7 +6475,7 @@ They sprinted down the trail, their packs bouncing, their laughter echoing off t
 
 They ran toward the future, finally ready to rest.
 
-### Chapter 4: The Ascent
+### Part 4: Chapter 4: The Scouring of Sunstead
 
 ## Part 1: The Steward's Law
 
@@ -6901,7 +6901,7 @@ Kaelan looked at his sister. "Home?"
 
 "Home," Kaela said.
 
-### Chapter 5: Reunion
+### Part 5: Chapter 5: The Aftermath
 
 ## Part 1: The Sound of Water
 

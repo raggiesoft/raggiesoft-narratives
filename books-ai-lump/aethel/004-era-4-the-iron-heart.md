@@ -7,7 +7,7 @@ series: "The Silver Gauntlet of Aethel"
 
 ## Book I: The Magnetic North
 
-### Chapter 1: The Art of Doing Nothing
+### Part 1: Chapter 1: The Art of Doing Nothing
 
 ## Part 1: The Geometry of Sleep
 
@@ -267,7 +267,7 @@ Kaelan closed his eyes, listening to the hum of the bees in the clover, unaware 
 
 "Nap," Kaela agreed.
 
-### Chapter 2: The Alarm Clock
+### Part 2: Chapter 2: The Alarm Clock
 
 ## Part 1: The Interest Rate
 
@@ -495,7 +495,7 @@ He reached for his sword. It floated into his hand before he could grab it.
 
 "Magma," Kaelan confirmed. "We're going to the center of the Earth."
 
-### Chapter 3: The Magnetic Highway
+### Part 3: Chapter 3: The Magnetic Highway
 
 ## Part 1: The Land-Boat
 
@@ -1329,7 +1329,7 @@ He squeezed her, holding onto his payment plan like a lifeline. He wasn't the lo
 
 And as the red light pulsed outside, Kaelan slept without nightmares, anchored to the earth by the girl who refused to let him float away.
 
-### Chapter 4: The Clockwork Ocean
+### Part 4: Chapter 4: The Clockwork Ocean
 
 ## Part 1: The Rifled Barrel
 
@@ -2247,7 +2247,7 @@ Kaelan grinned behind his goggles. He turned the boat South, toward the red dust
 
 The *Iron Keel* surged forward, surfing the magnetic lines home.
 
-### Chapter 4: The Return Journey
+### Part 5: Chapter 4: The Return Journey
 
 ## Part 1: The Itch
 
@@ -2549,7 +2549,7 @@ They lay there in the dim, quiet cottage, the "Go Away" sign standing guard outs
 
 ## Book II: The Pilgrimage
 
-### Chapter 1: The Privacy of Stone
+### Part 1: Chapter 1: The Privacy of Stone
 
 ## Part 1: The Hole Under the Floor
 
@@ -2835,7 +2835,7 @@ They sat in the steam, looking up at the stars framed by the high stone walls. T
 
 Kaelan laughed, a low rumble in his chest. "Deal."
 
-### Chapter 2: The Smoke and the Fire
+### Part 2: Chapter 2: The Smoke and the Fire
 
 ## Part 1: The Funeral Crashers
 
@@ -3253,7 +3253,7 @@ Kaelan didn't flinch. He didn't even look. He just reached out and took Kaela’
 
 They continued their bath, undisturbed by the world, protected by the very light they refused to rule with.
 
-### Chapter 3: The Council of Neighbors
+### Part 3: Chapter 3: The Council of Neighbors
 
 ## Part 1: The Reluctant Guests
 
@@ -3459,7 +3459,7 @@ Here is Chapter 4: The King at the Gate.
 
 This chapter puts the new Council to the test and demonstrates exactly what happens when a conventional army tries to annex a town protected by two retired demigods.
 
-### Chapter 4: The King at the Gate
+### Part 4: Chapter 4: The King at the Gate
 
 ## Part 1: The Tax Collector with an Army
 
@@ -3681,7 +3681,7 @@ He unlatched their private gate. They stepped into the garden. The steam was sti
 
 They stripped off their dusty clothes and slid back into the water, while down in the valley, the broken army of the Gilded Plains limped home, carrying the terrifying news that Sunstead had no King, but it had something much, much worse.
 
-### Chapter 5: The Demon and the Witch
+### Part 5: Chapter 5: The Demon and the Witch
 
 ## Part 1: The Investigation
 
@@ -3977,7 +3977,7 @@ They climbed into bed, pulling the quilt up to their chins. For the first time s
 
 Let the world whisper. Let the Kings plot. The house knew the difference between a neighbor with a pie and a spy with a knife. And the house knew exactly how to handle both.
 
-### Chapter 6: The Starlight Check-In
+### Part 6: Chapter 6: The Starlight Check-In
 
 ## Part 1: The Shadow of the Archivist
 
@@ -4181,7 +4181,7 @@ They went inside and locked the world out, ready to sleep in their shared bed, j
 
 ## Book III: The Zero Point
 
-### Prologue: The Silence Between Stars
+### Part 1: Prologue: The Silence Between Stars
 
 Theme: cosmic-horror
 
@@ -4229,7 +4229,7 @@ He began to chant. It was a spell of dampening. A spell of cosmic mute.
 
 He didn't target the Earth. He targeted the Sky.
 
-### Chapter 1: The Shadow at Noon
+### Part 2: Chapter 1: The Shadow at Noon
 
 ## Part 1: The Cold Draft
 
@@ -4371,7 +4371,7 @@ The invasion had begun. But there were no soldiers to gravity-crush, and no swor
 
 And the only thing standing between Sunstead and absolute zero was the internal fire of the Twins.
 
-### Chapter 2: The Needle and the Shroud
+### Part 3: Chapter 2: The Needle and the Shroud
 
 ## Part 1: The Signal in the Water
 

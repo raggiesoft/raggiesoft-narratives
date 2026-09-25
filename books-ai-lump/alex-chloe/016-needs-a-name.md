@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## The Revenge of the Brawlers
 
-### The Boston Showdown
+### Part 1: The Boston Showdown
 
 The trip to Southern New England in the fall of 2011 was a nostalgic journey. The week culminated in the ultimate pilgrimage, a high-stakes event that had the entire family buzzing: a trip to the arena in Boston for Game 7 of the Federated Hockey League Championship Finals. It was the ultimate showdown: the Boston Brawlers versus the Montréal Voyageurs.
 
@@ -61,7 +61,7 @@ Alex, savoring his victory, typed a quick, devastating rebuttal. YOU DIDN'T SEEM
 
 The crowd howled. Chloé was beaten. She had no defense. She buried her face in Alex's shoulder, laughing despite her humiliation. The rivalry had come full circle. It was her turn to endure the teasing, to wear the uniform of shame, and to be, for one night, the most devoted-looking Boston Brawlers fan in the entire city.
 
-### The Boston Victory Parade
+### Part 2: The Boston Victory Parade
 
 The morning after the championship win, the city of Boston was a triumphant sea of black and gold. In their hotel room, Chloé Miller stared at the Brawlers uniform of shame, laid out on a chair. "I can't believe I have to wear this in public," she groaned.
 
@@ -91,7 +91,7 @@ YOU DIDN'T SEEM VERY 'VERMONT' IN THAT MONTRÉAL SPORTS BAR LAST YEAR WHEN YOU W
 
 The fans who were close enough to hear his device howled with laughter. Megan, who had been laughing so hard she was crying, gave her cousin a triumphant high-five. Chloé was beaten. She had no defense. She buried her face in Alex's shoulder, laughing despite her humiliation. The rivalry had come full circle. She had endured the ultimate good-natured punishment: being forced to celebrate her most hated rival's greatest victory, surrounded by their most passionate fans, while dressed as one of them.
 
-### The Long Drive of Shame (The Next Day)
+### Part 3: The Long Drive of Shame (The Next Day)
 
 The morning after the victory parade was a study in contrasts. Alex, Megan, and James Miller were a cheerful, efficient unit, packing their bags with the crisp energy of a winning team. Chloé, however, moved with the theatrical slowness of a condemned prisoner, staring at the pile of black and gold clothing she was required to wear.
 
@@ -121,7 +121,7 @@ BEANIE.
 
 Chloé just shot him a look of pure, loving, and utterly defeated annoyance. The Boston leg of the trip was officially over, but the victory tour, it seemed, was just getting started.
 
-### Breakfast with the Enemy
+### Part 4: Breakfast with the Enemy
 
 The next morning, the family convoy set out for a Rhode Island institution: BayView Creamery. They went to Store Number 1, the original location in Middletown, a place James Miller had been going to his entire life.
 

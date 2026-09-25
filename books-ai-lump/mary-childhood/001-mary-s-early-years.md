@@ -7,7 +7,7 @@ series: ""
 
 ## Chapter 1
 
-### The Beginning
+### Part 1: High Command
 
 The rain lashed heavily against the single-pane windows of their modest, cramped living room, but Mary barely heard the storm. The worn, braided rug stretching between the faded couch and the television stand had been completely transformed into an active, high-stakes battlefield.
 

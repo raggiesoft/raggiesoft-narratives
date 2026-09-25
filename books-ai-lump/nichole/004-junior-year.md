@@ -7,7 +7,7 @@ series: "Nichole"
 
 ## Planning for the Future
 
-### Transitioning Nichole’s IEP
+### Part 1: Transitioning Nichole’s IEP
 
 ## Date: May 15, 2002 Location: Conference Room B, Northwood High School Event: The Junior Year Transition IEP Meeting
 
@@ -81,7 +81,7 @@ Tom and Ellen walked out of the conference room and into the hallway, feeling li
 
 They were ready for the future.
 
-### The Poverty Trap
+### Part 2: The Poverty Trap
 
 ## Date: July 15, 2002 Time: 10:00 AM Location: Social Security Administration Office, Virginia Beach, VA
 
@@ -203,7 +203,7 @@ Nichole smiled.
 
 "DEAL."
 
-### The Offer
+### Part 3: The Offer
 
 ## Date: July 15, 2002, Time: 11:30 AM, Location: The Bennett Family Van (Driving home from SSA Office)
 
@@ -303,7 +303,7 @@ And that was exactly what she had wanted all along.
 
 ## The Handover
 
-### The First Shift
+### Part 1: The First Shift
 
 ## Date: July 15, 2002 Time: 7:30 PM Location: 1850 Delaney Street, Virginia Beach, VA
 
@@ -583,7 +583,7 @@ Nichole let out a long, contended sigh. She didn't need a nightlight. She didn't
 
 She closed her eyes. The Bennett Machine powered down for the night, fully operational.
 
-### The Certification
+### Part 2: The Certification
 
 ## Date: July 20, 2002 (Saturday) Time: 8:45 AM Location: American Red Cross, Virginia Beach Chapter
 
@@ -773,7 +773,7 @@ He got into the driver's seat. He placed the certification card in the center co
 
 Another system upgrade complete. The Machine was now rated for emergency operations.
 
-### The Maintenance Crew
+### Part 3: The Maintenance Crew
 
 ## Date: July 21, 2002 (Sunday) Time: 10:15 AM Location: 1850 Delaney Street, Hallway Bathroom
 

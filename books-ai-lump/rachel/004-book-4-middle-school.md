@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Spring Sound Showcase – Friday, May 14, 1999
 
-### Part 1: The Friday Commute – 3:40 PM
+### Part 1: The Friday Commute
 
 The shrill dismissal bell of Morrison Middle School cut through the afternoon, immediately unleashing a chaotic tidal wave of teenagers into the hallways.
 
@@ -73,7 +73,7 @@ Ashley’s blush faded, replaced by her usual, fierce determination. "Homework f
 
 We marched into the dining room, pulling our textbooks from our bags and claiming our usual seats at the heavy wooden table. The weekend was officially locked in, the dogs were sleeping at our feet, and the trio was completely secure.
 
-### Part 2: The Homework Hurdle – 5:15 PM
+### Part 2: The Homework Hurdle
 
 The heavy front door clicked open, breaking the quiet, focused silence of the dining room.
 
@@ -115,7 +115,7 @@ Finally, I wrote the last answer down. I closed my heavy math textbook with a lo
 
 I leaned back in my chair, a massive wave of relief washing over me. The academic perimeter was officially secured. Our homework was finished, our bags were packed, and the entire weekend stretched out in front of us, completely free and clear for the Old World.
 
-### Part 3: Deploying Base Camp – 8:00 PM
+### Part 3: Deploying Base Camp
 
 With the dining room table finally cleared of algebra worksheets and dinner plates, the kinetic energy of the house shifted completely toward the weekend. It was time to transform the living room.
 
@@ -167,7 +167,7 @@ I stared up at the shadowed ceiling, listening to the synchronized breathing of 
 
 ## Chapter 2: The Old World – Saturday, May 15, 1999
 
-### Part 1: The Departure Protocol – 6:30 AM
+### Part 1: The Departure Protocol
 
 The sun wasn't even fully above the tree line when the living room officially woke up, but Ashley was already vibrating at a completely unmanageable frequency.
 
@@ -231,7 +231,7 @@ Both Ashley and I rolled our eyes in flawless, synchronized disgust. Julia had b
 
 I didn't even bother engaging. I just tightened my platonic grip on Ashley’s hand, completely unbothered by the accusation but entirely annoyed by the noise, and steered my best friend away from the clarinets to wait for the rest of our section to arrive.
 
-### Part 2: The Data Shift – 7:30 AM
+### Part 2: The Data Shift
 
 We didn't have to wait long. A minute or two later, Bonnie walked out of the heavy double doors of the band room.
 
@@ -283,7 +283,7 @@ My heart rate spiked again. I stared straight ahead at the green vinyl seat in f
 
 A moment later, the heavy folding doors hissed shut. The air brakes released with a loud sigh, the bus lurched forward, and we were officially off to Williamsburg.
 
-### Part 3: The Flash and the Photograph – 8:00 AM
+### Part 3: The Flash and the Photograph
 
 The drive from Virginia Beach up Interstate 64 to James City County took exactly one hour. The yellow school bus rattled over the highway seams, the cabin thick with the smell of diesel exhaust, cheap teenage body spray, and the deafening roar of forty eighth-graders talking over each other.
 
@@ -317,7 +317,7 @@ It was a three-way cuddle, perfectly captured on film: one half rooted in surviv
 
 We rode the rest of the way to James City County just like that, anchored together until the towering, looping metal tracks of the Brewster Gardens rollercoasters finally appeared over the tree line.
 
-### Part 4: The Sovereign Palace Theater – 9:00 AM
+### Part 4: The Sovereign Palace Theater
 
 The heavy air brakes of the yellow school buses hissed loudly, signaling our arrival.
 
@@ -363,7 +363,7 @@ As we walked through the turnstiles, we spotted Sloane. He was strutting down th
 
 None of us liked him anyway. Our perimeter was closed, the toxic middle school energy was officially locked out, and the adrenaline of the Old World was waiting. Ashley grabbed my left arm, Bonnie stepped perfectly into the space on my right, and we headed straight for the rollercoasters.
 
-### Part 5: The Loch Serpent – 9:15 AM
+### Part 5: The Loch Serpent
 
 We bypassed the slower, scenic rides of the 'England' and 'Scotland' hamlets entirely, bee-lining straight for the towering yellow tracks of the park's most iconic coaster: *The Loch Serpent*.
 
@@ -427,7 +427,7 @@ Bonnie wasn't just a girl I had a crush on. She spoke the exact same hyper-fixat
 
 "Air conditioning," I answered, grabbing the edge of Ashley's sleeve to guide our pack through the thickening crowd. "We are going to ride *The Iron Aeronaut*."
 
-### Part 6: The Iron Aeronaut – 10:00 AM
+### Part 6: The Iron Aeronaut
 
 The morning sun was rapidly baking the asphalt, transforming the Virginia humidity into a thick, unseasonably sweltering sauna. We left the yellow tracks of *The Loch Serpent* behind and started the long trek down the steep, paved hill from the 'Heatherdowns' hamlet toward 'Hastings.'
 
@@ -479,7 +479,7 @@ The pre-show video played, explaining the lore of the steampunk flying ship, and
 
 The massive screen in front of us lit up, and the entire theater violently lurched upward as the hydraulic pistons engaged. The floor dropped out from under us, perfectly syncing with the footage of the flying ship diving off a cliff. We plummeted, soared, and banked hard to the left and right. Bonnie laughed out loud, her shoulder pressing heavily against mine every time the theater tilted, completely immersed in the chaotic, synchronized illusion of flight.
 
-### Part 7: Heart Attack Hill – 11:30 AM
+### Part 7: Heart Attack Hill
 
 Stepping out of the heavily air-conditioned fortress of *The Iron Aeronaut* and back into the Virginia sun was like walking headfirst into a physical wall of heat. The humidity was suffocating, hanging in the air like a wet wool blanket.
 
@@ -547,7 +547,7 @@ I slid into the leather seat of a shiny, cherry-red antique car, resting my tire
 
 I pressed my foot on the gas pedal, the car lurching forward onto the scenic track. The breeze whipped past my face as we drove, my hands resting on the steering wheel. We were driving our own separate cars, enjoying a rare moment of solo independence, but we were still moving as a perfect, unbroken convoy.
 
-### Part 8: Josephine’s and the Ghost – 12:30 PM
+### Part 8: Josephine’s and the Ghost
 
 The adrenaline from *The Aquitaine Motorway* began to fade the moment we parked the antique cars, rapidly replaced by the sheer physical exhaustion of navigating the Virginia heat. We needed a reset, and in the French section of Brewster Gardens, there was only one logical destination.
 
@@ -607,7 +607,7 @@ Beneath the table, completely hidden from the rest of the parlor, she reached ou
 
 She kept her hand pressed firmly against my leg, actively reinforcing the perimeter, and quietly waited for the ghost to pass.
 
-### Part 9: The Timber Mill Plunge – 12:45 PM
+### Part 9: The Timber Mill Plunge
 
 The heavy, grounding pressure of Bonnie’s hand on my knee was exactly the physical anchor my processor needed to reboot.
 
@@ -675,7 +675,7 @@ It didn't look like a pack cuddle. It looked exactly like a couple.
 
 Ashley collected the glossy 4x6 print, carefully sliding it into the dry plastic pocket of her wallet. "Best eight dollars I've ever spent," she muttered proudly, steering us back out into the heat.
 
-### Part 10: The Translation in the Grand Hall – 1:30 PM
+### Part 10: The Translation in the Grand Hall
 
 We stepped out of the exit queue for *The Timber Mill Plunge*, our clothes dripping wet from the final drop, and immediately looked up.
 
@@ -743,7 +743,7 @@ This time, I didn't need to ask Ashley for a translation, and I didn't panic at 
 
 I just smiled, lightly tracing my thumb over her knuckles, and held her hand right back. The storm was raging outside, but inside the Grand Hall, my reality had completely shifted. We were officially a couple.
 
-### Part 11: The Speed of Fright – 2:30 PM
+### Part 11: The Speed of Fright
 
 The violent, torrential downpour outside the stained-glass windows of the *Bavarian Grand Hall* eventually exhausted itself, slowing to a light, misty drizzle. The live brass band finished their set, and the massive crowd of teenagers sheltering inside the dining hall began to slowly filter back out into the park.
 
@@ -813,7 +813,7 @@ As the floor of the station mechanically dropped away, leaving our feet dangling
 
 "Enjoy your ride," his voice echoed over the station speakers as the train lurched forward out of the station. "*At the speed of fright!*"
 
-### Part 12: The Siege Engine – 3:15 PM
+### Part 12: The Siege Engine
 
 We walked down the exit ramp of *The Shadow Wolf*, our legs slightly wobbly from the intense, swinging drops, but our adrenaline was absolutely peaking. The post-storm energy of the park was incredible. The oppressive humidity was completely gone, leaving behind a cool, vibrant spring afternoon.
 
@@ -873,7 +873,7 @@ Sitting in the exact center of the bench, the math of my existence felt absolute
 
 The Base Camp perimeter hadn't been breached by romance. It had successfully expanded to protect it. For the first time in my life, the ghost of the Dojang was completely silent, drowned out entirely by the triumphant, deafening roar of *The Siege Engine*.
 
-### Part 13: The Imperial Rapids – 4:45 PM
+### Part 13: The Imperial Rapids
 
 When we finally stumbled off *The Siege Engine*, our throats were completely raw from the screaming contest, but we were absolutely victorious.
 
@@ -961,7 +961,7 @@ I helped Bonnie unbuckle our shared seatbelt, and with Ashley stepping onto the 
 
 "Come on," I said, giving Bonnie's hand one last squeeze before letting go so we could navigate the crowd. "We have an hour to dry off before Ms. Pitizer kills us for showing up to the *Sovereign Palace Theater* looking like drowned rats."
 
-### Part 14: The Sovereign Palace Theater – 5:30 PM
+### Part 14: The Sovereign Palace Theater
 
 The walk away from *The Imperial Rapids* was soundtracked entirely by Bonnie's exaggerated, dramatic complaints.
 
@@ -1031,7 +1031,7 @@ Bonnie gave my waist one last, reassuring, deep-pressure squeeze before letting 
 
 I took a deep breath, manually forcing my tired legs to hold my own weight. I was freezing, my muscles ached, and my sneakers were completely waterlogged. But as I grabbed my own garment bag and headed toward the boys' locker room, I had never felt more secure. The perimeter was holding.
 
-### Part 15: The Missing Variable – 6:15 PM
+### Part 15: The Missing Variable
 
 The backstage wings of the *Sovereign Palace Theater* were loud, cramped, and smelled heavily of brass polish and nervous middle schoolers. Through the heavy velvet curtains, the muffled, booming sounds of a different school’s marching band echoing through the main auditorium served as a constant reminder of the ticking clock.
 
@@ -1107,7 +1107,7 @@ As Ms. Pitizer walked away to deal with the brass section, Ashley looked at me a
 
 I leaned back in my metal chair, grabbing my mallets from my stick bag. The Dojang ghost was silent, my girlfriend was standing by my side, my honorary sister was anchoring the section, and the toxic, macho variable had been entirely deleted from the equation. We were finally ready to play.
 
-### Part 16: The Flawless Equation – 7:00 PM
+### Part 16: The Flawless Equation
 
 "Morrison Middle School, you are up! Go, go, go!" the stage manager barked, waving a glowing orange flashlight toward the wings.
 
@@ -1167,7 +1167,7 @@ As the heavy velvet curtains closed behind us, cutting off the noise of the crow
 
 "That," Ashley announced to the section, high-fiving Bonnie and bumping her shoulder into mine, "is how you play the math. Best performance of the year."
 
-### Part 17: The Mathematics of Victory – 8:30 PM
+### Part 17: The Mathematics of Victory
 
 By the time the sun fully set and the massive amphitheater lights of *The Sovereign Palace Theater* flared to life, my internal processor was completely, blissfully offline.
 
@@ -1227,7 +1227,7 @@ I let my head fall back onto Bonnie's shoulder, my eyes slipping closed as the c
 
 The Old World of middle school had been chaotic and exhausting, but as we sat in the cool Virginia night holding our Superior rating, the perimeter was entirely, permanently secure.
 
-### Part 18: The Expansion of the Perimeter – 10:00 PM
+### Part 18: The Expansion of the Perimeter
 
 The yellow school buses idled in the parking lot of *The Sovereign Palace Theater*, their heavy diesel engines vibrating against the cool night air. The post-competition adrenaline had completely vanished, leaving forty eighth-graders in a state of absolute, heavy exhaustion.
 
@@ -1325,7 +1325,7 @@ Rachel processed the information for a few quiet steps, her sneakers scuffing ag
 
 I squeezed Rachel's hand, a profound, overwhelming wave of relief washing over me. The ghost of the Dojang was locked away, the toxic variables had been deleted, and as the porch light of 1852 Delaney Street finally came into view, the math of my life was absolutely perfect.
 
-### Part 19: The Immutable Geometry – 10:30 PM
+### Part 19: The Immutable Geometry
 
 The final three blocks down Morrison Street and onto Delaney Street were a pure, agonizing test of endurance.
 
@@ -1393,7 +1393,7 @@ I closed my eyes, and the Old World faded away into the safety of the dark.
 
 ## Chapter 3: The Sunday Perimeter – Sunday, May 16, 1999
 
-### Part 1: The Sleepover Calculation – 7:15 AM
+### Part 1: The Sleepover Calculation
 
 The transition from deep, exhausted sleep back to consciousness was a slow, agonizingly stiff process.
 

@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: Outbound to ORF (Saturday, December 22, 2001)
 
-### Part 1: The First Class Algorithm – 6:00 AM
+### Part 1: The First Class Algorithm
 
 The hydraulic brakes of the TAPS Route 194 bus exhaled a loud, sharp hiss, echoing violently against the concrete drop-off curb of the Seattle-Tacoma International Airport.
 
@@ -69,7 +69,7 @@ I gripped the rubber handles of her wheelchair tighter. The noise of the Seattle
 
 I wasn't being dragged. I was the engine. And at the end of this algorithm, waiting for us on the other side of the country, was Michael.
 
-### Part 2: The Priority Perimeter – 6:45 AM
+### Part 2: The Priority Perimeter
 
 The regular security line was a terrifying, winding labyrinth of exhausted, frustrated people. I ran the mathematical visual in my head. Based on the density of the crowd and the speed of the single metal detector, I calculated that the people at the very back of that line were going to be standing on the hard tile floor for at least four hours.
 
@@ -157,7 +157,7 @@ I looked around the nearly empty room, then looked at my older sister. Dad's ver
 
 I pulled my knees up to my chest, letting out a long, vibrating hum of absolute contentment. The algorithm was working flawlessly.
 
-### Part 3: The Four-Hour Buffer – 7:00 AM
+### Part 3: The Four-Hour Buffer
 
 The Meridian First Class Lounge was an entirely different biome.
 
@@ -197,7 +197,7 @@ I built a second plate for Jessica, mirroring the exact same nutritional ratios,
 
 I sat down in my heavy leather chair, pulling my knees up and resting my plate safely on my lap. The food was warm and predictable. The leather chair wrapped around me like a protective shell. For the next three and a half hours, the universe was entirely contained within this quiet room. I ate my breakfast, booted up my laptop, and listened to the soft, rhythmic clinking of coffee cups.
 
-### Part 4: The Aisle Transfer – 10:45 AM
+### Part 4: The Aisle Transfer
 
 The digital clock in the lower right corner of my laptop screen ticked over to 10:45.
 
@@ -249,7 +249,7 @@ I took the cold glass, wrapping both hands around it. The heavy, chaotic crowd o
 
 I looked out the thick plastic window at the gray Seattle sky. In just a few minutes, the engines would start. The trajectory was locked. We were going east. We were going to Michael.
 
-### Part 5: The Cabin Sanctuary – 11:45 AM
+### Part 5: The Cabin Sanctuary
 
 The massive twin engines of the aircraft roared, pushing us back into our plush leather seats as we accelerated down the runway.
 
@@ -305,7 +305,7 @@ I ate my meal in complete silence, occasionally sipping my hot chocolate and loo
 
 The algorithm was perfect. And every second that the massive engines pushed us forward, we were getting closer to Michael.
 
-### Part 6: The Prismatic Corridor – 4:30 PM (CST)
+### Part 6: The Prismatic Corridor
 
 The transition from the insulated, premium sanctuary of the aircraft cabin to the massive, sprawling reality of the Chicago transit hub was a severe shock to my system.
 
@@ -391,7 +391,7 @@ I kept my forehead pressed against the cold metal of her chair, letting out a so
 
 But as the heavy, grounding pressure of Jessica's hand remained on my head, I knew one mathematical certainty: when Jessica made a logistical vow, it was absolute. Meridian's massive Midwestern hub was officially dead to us.
 
-### Part 7: The System Crash – 4:45 PM (CST)
+### Part 7: The System Crash
 
 The elevator ascended, the heavy metal doors shielding me for a few desperate seconds from the flashing horror of the underground tunnel. My breathing was ragged, my hands shaking violently where they gripped Jessica's push-handles.
 
@@ -433,7 +433,7 @@ Travelers walked past us, some staring, some intentionally looking away. Jessica
 
 I focused all of my remaining conscious energy on those words. *Virginia. Michael.* I kept my eyes squeezed shut, letting the tears soak into the fabric of my coat, and allowed the guttural rumble in my chest to slowly transition into a long, broken hum. I couldn't fix the environment, and Jessica couldn't stop the noise, but she was holding the line. We were going to sit right here on the floor of Concourse C until I could finally breathe again.
 
-### Part 8: The Joyful Overload – 5:00 PM (CST)
+### Part 8: The Joyful Overload
 
 The cold tile of the concourse floor was hard against my knees, but the steady, unyielding pressure of Jessica's hand on the back of my neck kept my system tethered to reality. Slowly, the ragged, guttural rumble in my chest quieted into a tired, rhythmic hum.
 
@@ -545,7 +545,7 @@ On this day!
 
 As the orchestra and guitar built to a massive, triumphant final chord, I pushed the heavy wheelchair forward, steering us seamlessly into the flow of the holiday crowd. The exhaustion and the trauma of the tunnel were completely overwritten by the math of the final leg. I was the engine. We were halfway there. And I was going home to my brother.
 
-### Part 9: The Midwestern Sanctuary – 5:15 PM (CST)
+### Part 9: The Midwestern Sanctuary
 
 The physical aftermath of a dual-system crash is a heavy, hollow exhaustion. My muscles felt like they were filled with wet sand, and my throat was raw from the vocalizations.
 
@@ -615,7 +615,7 @@ I nodded, my dark eyes locked onto the screen.
 
 ## Chapter 2: Arrival at Norfolk (Saturday, December 22, 2001)
 
-### Part 1: Sibling Reunification – 9:30 PM
+### Part 1: Sibling Reunification
 
 The digital clock mounted high on the terminal wall flipped to 9:30 PM.
 
@@ -677,7 +677,7 @@ Mom stepped in then, wrapping her arms around both of the girls in a tearful, de
 
 I kept my arm draped heavily over Rachel's shoulders, providing a continuous, grounding pressure as we fell into step behind Jessica's chair. The pack was officially reunited, and it was time to go to baggage claim.
 
-### Part 2: The Sibling Perimeter – 9:45 PM
+### Part 2: The Sibling Perimeter
 
 The adrenaline rush of the initial reunification was beginning to fade, leaving a quiet, bone-deep exhaustion in its wake. But as we turned away from the security checkpoint and joined the flow of arriving passengers heading toward baggage claim, Rachel didn’t let her guard down entirely.
 
@@ -773,7 +773,7 @@ Rachel let out a soft, happy sigh against my shoulder as the music played. The h
 
 We were finally, officially back together.
 
-### Part 3: The Northern Star – 10:45 PM
+### Part 3: The Northern Star
 
 The silver sedan pulled into the driveway of 1852 Delaney Street. Aunt Janet put the car in park, leaving the headlights illuminating the familiar, frost-covered front lawn.
 
@@ -879,7 +879,7 @@ Slowly, agonizingly, the adrenaline finally burned out of our systems. The heavy
 
 ## Chapter 3: The New Baseline (Sunday, December 23, 2001)
 
-### Part 1: The Three-Hour Shift – 8:30 AM
+### Part 1: The Three-Hour Shift
 
 The winter sunlight bleeding through the living room blinds was entirely too bright, but I didn't dare move a single muscle.
 

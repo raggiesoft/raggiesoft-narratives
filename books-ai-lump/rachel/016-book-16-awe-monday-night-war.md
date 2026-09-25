@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Portland Offensive (Monday, November 20, 2006)
 
-### Part 1: The Morning Deployment – 6:00 AM (PST)
+### Part 1: The Morning Deployment
 
 The sharp, rhythmic electronic beeping of the hotel alarm clock shattered the heavy, insulated silence of the third-floor room.
 
@@ -75,7 +75,7 @@ I leaned back in the heavy upholstered chair, looking across the room at my olde
 
 "So," I said, a massive, unburdened grin breaking across my face. "What time do the arena doors open for AWE Monday Night WAR?"
 
-### Part 2: The Logic of the Ban – 6:45 AM (PST)
+### Part 2: The Logic of the Ban
 
 At exactly 6:45 AM, a sharp, authoritative knock echoed against the heavy wooden door of our third-floor room.
 
@@ -235,7 +235,7 @@ I pulled back, wiping my eyes with the sleeve of my shirt, and offered her a mas
 
 "Well," I said, my voice thick with emotion as I looked around the fortress we had built. "The Golden Carrot worked. I'm right here."
 
-### Part 3: The Holding Pattern – 10:00 AM (PST)
+### Part 3: The Holding Pattern
 
 I said the words, but the sheer, crushing weight of what Jessica had just revealed finally broke through the last remaining walls of my defense.
 
@@ -295,7 +295,7 @@ We moved as a single, perfectly synchronized unit. I pulled on my thick denim je
 
 At 2:15 PM, we stepped out of the hotel room.
 
-### Part 4: The Plaza Approach – 2:20 PM (PST)
+### Part 4: The Plaza Approach
 
 We took the elevator down to the lobby and pushed through the heavy revolving glass doors of the Crown Regency.
 
@@ -337,7 +337,7 @@ My vocal cords were fully online. My spine was straight. The Bear was fully awak
 
 ## Chapter 2: Arrival at Rose City Center (Monday, November 20, 2006)
 
-### Part 1: Will Call – 2:30 PM (PST)
+### Part 1: Will Call
 
 The massive glass and steel facade of the Rose City Center loomed over us against the overcast, chilly Portland sky.
 
@@ -381,7 +381,7 @@ She didn't have to speak. Her face said everything.
 
 Jessica, Kristin, and I quickly grabbed pens, but Rachel was the first one to finish signing her name. We were officially about to step onto the frontlines of the Monday Night WAR.
 
-### Part 2: The Arsenal – 2:45 PM (PST)
+### Part 2: The Arsenal
 
 A few minutes after we handed the signed waivers back to the box office attendant, a heavy steel door next to the ticket windows clicked open.
 
@@ -427,7 +427,7 @@ We turned a corner, and the massive, brightly lit AWE merchandise stand came int
 
 He looked back at Rachel and offered a small wink. "Given the letters you write, I don't think you'll have to act too hard."
 
-### Part 3: The Arsenal's Promise – 3:15 PM (PST)
+### Part 3: The Arsenal's Promise
 
 The main merchandise stand was a towering, brightly lit wall of black cotton, neon graphics, and glossy photographs. Even completely empty of the usual thousands of pushing, shoving fans, it was an overwhelming display of AWE spectacle.
 
@@ -485,7 +485,7 @@ Within minutes, the vendor had our photos and mini belts safely bagged and set a
 
 "Alright, production crew is ready!" Dave called out, clipping his radio back onto his belt. "Let's make some television!"
 
-### Part 4: The Tycoon, The Thief, and the Foam Finger – 3:45 PM (PST)
+### Part 4: The Tycoon, The Thief, and the Foam Finger
 
 "Alright, everyone to your marks!" Dave Cross ordered, his voice echoing slightly in the vast, empty concourse. He pointed us toward the front of the merchandise table. "Stay loose. When Diego throws the money, just go crazy."
 
@@ -561,7 +561,7 @@ Printed across the top in small letters were the words: For Motion Picture Use O
 
 Rachel clutched the prop money and her foam finger, her smile brighter than the arena lights. The main event hadn't even started yet, and it was already the greatest night of her life.
 
-### Part 5: The Descent and the Trust Fall – 4:15 PM (PST)
+### Part 5: The Descent and the Trust Fall
 
 With Rachel securely grounded and our massive haul of VIP merchandise gathered up, it was time to actually find our seats.
 
@@ -607,7 +607,7 @@ At 5:30 PM, the massive overhead house lights suddenly dimmed, bathing the arena
 
 The untelevised dark matches were about to begin. The Monday Night WAR had officially arrived.
 
-### Part 6: The Dark Matches – 5:30 PM (PST)
+### Part 6: The Dark Matches
 
 At exactly 5:30 PM, the massive overhead house lights of the Rose City Center completely cut out. A collective, electric roar rippled through the 14,000 fans as the blinding, brilliant white spotlights suspended above the ring snapped on, illuminating the canvas like a pristine stage.
 
@@ -655,7 +655,7 @@ The Rose City Center absolutely exploded. The dark matches had done their job pe
 
 ## Chapter 3: AWE Monday Night War (Monday, November 20, 2006)
 
-### Part 1: LIVE From Portland – 6:00 PM (PST)
+### Part 1: LIVE From Portland
 
 At exactly six o'clock, the ambient hum of the Rose City Center was instantly obliterated.
 
@@ -675,7 +675,7 @@ The video package violently cut to black with the echoing sound of a slamming st
 
 The pyrotechnic ban was officially in effect, keeping our sensory perimeter perfectly safe, and Monday Night WAR was live on the air.
 
-### Part 2: The Bottom Line – 6:02 PM (PST)
+### Part 2: The Bottom Line
 
 The TitanTron faded to black. For a split second, the massive arena held its breath.
 
@@ -731,7 +731,7 @@ The boos grew louder, shaking the steel barricade just inches from our knees.
 
 "I don't care if you boo me out of this building!" Sterling sneered over the jeers. "I am building a corporate machine that doesn't need fireworks to succeed! Because I hold the contracts. I hold the power. And quite frankly, I am the only reason any of you people have a show to watch tonight!"
 
-### Part 3: The Hometown Hero – 6:08 PM (PST)
+### Part 3: The Hometown Hero
 
 Marcus Sterling stood in the center of the ring, basking in the absolute hatred of the Portland crowd. He had all the power, and he wanted every single person in the arena to know it.
 
@@ -795,7 +795,7 @@ Jaxson Vance didn't celebrate. He just offered Sterling one last, gritty smirk, 
 
 We had a World Heavyweight Championship main event.
 
-### Part 4: The Cruiserweight Crash – 6:18 PM (PST)
+### Part 4: The Cruiserweight Crash
 
 It took a few minutes for the arena to calm down after Jaxson Vance and Marcus Sterling cleared the ring. The lingering buzz of the hometown main event announcement was still thick in the air when the lights swept over the crowd again.
 
@@ -851,7 +851,7 @@ As the noise level in the arena spiked violently, Rachel and I quickly slid our 
 
 I pulled my arm back from my sisters, rolling my shoulders and exhaling a sharp breath. The show was only twenty minutes in, and the war zone had already reached our front door.
 
-### Part 5: The Corporate Meltdown – 6:30 PM (PST)
+### Part 5: The Corporate Meltdown
 
 After a quick commercial break for the television audience, the arena lights dimmed once again. The massive TitanTron above the entrance stage flared to life, and the broadcast seamlessly transitioned to a backstage camera feed.
 
@@ -905,7 +905,7 @@ Despite Sterling's iron-clad promises of outside interference, the champion did 
 
 The sheer panic was painted vividly across his features. The Blueprint knew exactly what 14,000 fans in Portland already knew: Marcus Sterling had completely lost control of the situation, and Jaxson Vance was coming to collect.
 
-### Part 6: The Riot vs. The Empress – 6:40 PM (PST)
+### Part 6: The Riot vs. The Empress
 
 After the backstage feed of Marcus Sterling's meltdown faded from the TitanTron, the arena lights shifted, bathing the 14,000 fans in a deep, regal purple hue.
 
@@ -965,7 +965,7 @@ On the massive TitanTron, the graphic flashed: ROXY DANE WINS! ADVANCES TO NO QU
 
 Roxy leaped onto the nearest turnbuckle, throwing her taped fists into the air to celebrate with the Portland crowd. She was going to the Pay-Per-View to fight for the Women's Championship, and our front-row seats had just given us an unforgettable, front-row masterclass in controlled chaos.
 
-### Part 7: The Tycoon and the Thief – 6:55 PM (PST)
+### Part 7: The Tycoon and the Thief
 
 As the ringside crew rushed out to sweep the canvas and check the ropes after Roxy Dane’s victory, the arena lights dimmed once again.
 
@@ -1014,7 +1014,7 @@ Preston Sinclair was standing in front of a backstage monitor, watching the broa
 
 The arena erupted into mocking, deafening laughter as Sinclair ripped his pristine white suit jacket off in a furious, childlike tantrum and stomped on it right there on the backstage floor.
 
-### Part 8: The Top of the Hour – 7:00 PM (PST)
+### Part 8: The Top of the Hour
 
 Exactly one hour into the live broadcast, the commercial break ended. The arena lights swept across the roaring Portland crowd, and the massive TitanTron flashed a brand new graphic: *NO QUARTER – 5-ON-5 ELIMINATION MATCH PREVIEW*.
 
@@ -1088,7 +1088,7 @@ Avery and Hayes stood over the broken instruments and the stunned band members, 
 
 Team Sterling was sending a massive, highly destructive message ahead of *No Quarter*. And as the boos rained down on the broken stage, I couldn't help but think that the quiet, peaceful ARTS train ride back to Washington tomorrow was going to feel like a completely different universe compared to this war zone.
 
-### Part 9: The Backstage Assault – 7:15 PM (PST)
+### Part 9: The Backstage Assault
 
 As the ringside crew scrambled down the ramp to sweep up the splintered remains of the bass guitar and drag the broken synthesizer away, the massive TitanTron above the stage flickered.
 
@@ -1144,7 +1144,7 @@ The TitanTron faded to black.
 
 Without the commentary desk explaining the transition, the raw energy of the arena took over. The crowd was buzzing, furious at the ambush but fully hyped for the impromptu grudge match. We were moments away from watching a 320-pound giant step into the ring, and the World Heavyweight Championship main event was looming right behind it.
 
-### Part 10: The Upset of the Century – 7:25 PM (PST)
+### Part 10: The Upset of the Century
 
 When the live feed from the loading dock cut out, the arena lights shifted instantly to an ominous, blood-red crimson.
 
@@ -1216,7 +1216,7 @@ The pyrotechnic ban was on the line. The AWE World Heavyweight Championship was 
 
 The main event was next.
 
-### Part 11: The Main Event Recap – 7:45 PM (PST)
+### Part 11: The Main Event Recap
 
 After the sheer, unadulterated chaos of Craig Bronson’s massive upset over Avalanche, the Rose City Center finally took a collective breath.
 
@@ -1278,7 +1278,7 @@ I looked over at Kristin and Jessica. They had come to the exact same realizatio
 
 We were officially rooting for the corporate villains.
 
-### Part 12: The Main Event – 7:45 PM to 7:56 PM (PST)
+### Part 12: The Main Event
 
 The house lights dropped completely. Fourteen thousand people in the Rose City Center rose to their feet in absolute, buzzing unison.
 
@@ -1386,7 +1386,7 @@ Just fire… waiting for a trigger.
 
 And come Sunday in Seattle, that trigger might be The Resistance.
 
-### Part 13: The Rampage & The Ultimatum – 7:56 PM to 8:00 PM (PST)
+### Part 13: The Rampage & The Ultimatum
 
 The Rose City Center was completely unglued. The visual of Jaxson Vance holding the AWE World Heavyweight Championship high above his head sent the Portland crowd into an absolute frenzy.
 
@@ -1452,7 +1452,7 @@ Above him, the massive TitanTron flashed a final, ominous graphic: *AWE NO QUART
 
 The arena plunged into total darkness. The broadcast was over.
 
-### Part 14: The House Lights & The Journey Home – 8:00 PM (PST)
+### Part 14: The House Lights & The Journey Home
 
 The digital clock suspended above the stage clicked to 8:00 PM. The TitanTron faded to black, the PA system cut out, and an instant later, the massive, blindingly bright white house lights of the Rose City Center slammed on.
 

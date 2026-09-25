@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Sanctuary – Friday, August 11th, 1995
 
-### Part 1: The Safe Harbor – 4:55 PM
+### Part 1: The Safe Harbor
 
 The suffocating, humid heat of the 1995 Chesapeake water crisis hung heavy in the air, but inside Master April’s garage in the Lynnhaven district, the atmosphere was entirely different.
 
@@ -53,7 +53,7 @@ She stood up, the playful energy seamlessly shifting into quiet, absolute focus.
 
 We scrambled to our spots on the colorful foam. It wasn't the terrifying, rigid scramble of Tidewater Tumblers. It was just a group of kids getting ready to learn from someone they entirely trusted.
 
-### Part 2: The Shift – 5:00 PM
+### Part 2: The Shift
 
 The digital clock on the garage wall clicked to exactly 5:00 PM.
 
@@ -107,7 +107,7 @@ Master April looked at the grid of students, from the 2nd Pooms in the front to 
 
 "Perfect," Master April nodded. "*Sijak.* Let's begin."
 
-### Part 3: The Mechanics of Spirit – 5:05 PM to 6:00 PM
+### Part 3: The Mechanics of Spirit
 
 The beauty of Friday Open Gym was the absolute lack of a metronome. At Tidewater Tumblers, Master Ray forced us to move to a frantic, collective count. But here on the puzzle mats, Master April ran the hour like an open study hall.
 
@@ -185,7 +185,7 @@ When we stood back up, the rigid posture of the Dojang immediately evaporated. A
 
 "Great work tonight, everyone!" April cheered, walking over to the mini-fridge in the corner to pull out a cardboard flat of juice boxes. "Grab a drink, get your gear, and get some sleep! I will see all of you bright and early tomorrow on the spring floor!"
 
-### Part 4: The Pal and the Perimeter – 6:05 PM
+### Part 4: The Pal and the Perimeter
 
 The rigid structure of the Dojang vanished the instant we broke formation.
 
@@ -245,7 +245,7 @@ With Ashley on one side and Rachel on the other, my physical perimeter was compl
 
 I squeezed Rachel's shoulder, and she squeezed my hand back. We were exhausted, and tomorrow on that massive spring floor was going to be terrifying. But as the truck pulled away from April's garage and headed deeper into Virginia Beach, surrounded by the only people in the world I truly trusted, I actually believed Ashley was right.
 
-### Part 5: The Perimeter Secured – 6:25 PM
+### Part 5: The Perimeter Secured
 
 Dad pulled the truck into the driveway of our Delaney Street house and killed the engine.
 
@@ -293,7 +293,7 @@ I looked around the table. The noise was chaotic—Melissa teasing Ashley, Dad t
 
 Tomorrow morning, Rachel and I had to walk onto that massive, rebounding spring floor and face the terrifying scrutiny of the 7th Dan Regional Director. We had to prove we were worthy of the brown *tti*. But sitting here in the dining room, surrounded by my sisters, my dogs, and the absolute safety of the Delaney Street base camp, I knew that no matter what happened on the mats, our pack was unbreakable.
 
-### Part 6: The Living Room Bivouac – 7:30 PM
+### Part 6: The Living Room Bivouac
 
 The massive dinner of roasted chicken and mashed potatoes was officially cleared from the table, signaling the start of the night's main event. It wasn't just a Friday; we were having a full pack sleepover.
 
@@ -323,7 +323,7 @@ With a synchronized, practiced heave, Rachel and I pulled the heavy folding mech
 
 We threw our quilts over the thin mattress and tossed our pillows against the headboard. It was the absolute perfect setup. Tomorrow, Rachel and I were going to face the terrifying pressure of the 7th Dan Regional Director on that massive spring floor. But tonight, surrounded by the hum of the air pumps, the smell of dinner in the kitchen, and the entire, undivided pack settling into the living room, the anxiety couldn't touch us. The perimeter was perfectly secure.
 
-### Part 7: The Core Pack – 9:00 PM
+### Part 7: The Core Pack
 
 The house finally quieted down as the living room completed its transformation into a full-scale bivouac.
 
@@ -353,7 +353,7 @@ The perimeter was locked tight, and the pack was safe.
 
 ## Chapter 2: The Catalyst – Saturday, August 12th, 1995
 
-### Part 1: The Inventory – 9:00 AM
+### Part 1: The Inventory
 
 The main gymnastics floor of Tidewater Tumblers & Martial Arts didn’t feel like a gymnastics floor today.
 
@@ -397,7 +397,7 @@ April returned Master Scott's bow with absolute, clinical respect. She turned he
 
 *"Sijak,"* April commanded. Begin.
 
-### Part 2: The Physicality of Spirit – 10:15 AM
+### Part 2: The Physicality of Spirit
 
 When the Green Belts with stripes were called forward, the tension in the room spiked. This was the test for the Brown tti—the gateway to the advanced ranks.
 
@@ -431,7 +431,7 @@ The word hit me like sunlight. I didn’t grin. I just bowed—fast, relieved, s
 
 Curtis’s jaw locked. To him, martial arts was purely an aesthetic of violence. My kick was ugly. It was weak. Curtis shifted his weight, his disgust boiling over into silent rage. *She's lowering the standard,* Curtis thought, glaring fiercely at the twenty-two-year-old *Sunhoe Sabomnim*. *She's turning this place into a daycare.*
 
-### Part 3: The Deafening Silence – 10:30 AM
+### Part 3: The Deafening Silence
 
 Then Rachel stepped forward. Eight years old. Small frame. A stillness that looked like perfect obedience until you realized it was total containment.
 
@@ -487,7 +487,7 @@ On the edge of the mat, Curtis felt a hot, blinding spike of fury hit the back o
 
 Curtis’s hands balled into fists against his thighs. In his twisted, toxic mind, April wasn't validating the child's spirit—she was insulting the entire martial art. As he watched Rachel stand safely next to me in the green belt line, a dark, vindictive thought cemented in his brain. If the Emissary was too soft to enforce the rules, he would have to fix the defect himself. He would have to break the silence out of her.
 
-### Part 4: The 3rd Dan Disaster – 11:45 AM
+### Part 4: The 3rd Dan Disaster
 
 When the Dan candidates were called, the energy in the room shifted drastically. Master Ray called Master Curtis forward, hoping for a smooth, impressive display to secure the Dojang's reputation.
 
@@ -569,7 +569,7 @@ April looked at the thirty-four-year-old man standing on the mat. He was a bully
 
 *"Bulhapgyeok,"* Master April decreed. *"Mulleogara."* Fail. Step off the mat.
 
-### Part 5: The Genesis of Hatred – 12:05 PM
+### Part 5: The Genesis of Hatred
 
 Curtis stood frozen. The decree—Bulhapgyeok—echoed in his ears, completely dismantling his reality.
 
@@ -617,7 +617,7 @@ Curtis crossed his arms, his white uniform pulling tight across his chest. He wa
 
 ## Chapter 3: The Enforcer (Tuesday, August 15th, 1995)
 
-### Part 1: The Mirrored Room – 4:00 PM
+### Part 1: The Mirrored Room
 
 The Chesapeake water crisis of 1995 meant that every time you pressed the metal button on the water fountain outside the main gymnastics floor, you got a mouthful of the Currituck Sound.
 
@@ -711,7 +711,7 @@ Rachel stepped forward and threw a slow, measured *Dollyo Chagi*—a roundhouse 
 
 We didn't say a word around our mouth guards, but as our pads connected, the silent agreement passed between us. The adults in this building were never going to understand us, and we were never going to be what they wanted. But as long as we were paired together, we would survive the hour.
 
-### Part 2: The Missing Cup – 4:15 PM
+### Part 2: The Missing Cup
 
 Rachel and I had fallen into a steady, hypnotic rhythm at the far end of the mirrored room.
 
@@ -765,7 +765,7 @@ Daniel slowly, agonizingly dragged himself across the slick tile toward the peri
 
 I looked at Rachel. The bubble had popped. The reality of how dangerous this room was—and how little the adults cared about our safety—was suddenly blindingly obvious. I raised my heavy foam gloves back up, my muscles tense and shaking, and braced myself for her next kick.
 
-### Part 3: Breaking the Silence – 4:55 PM
+### Part 3: Breaking the Silence
 
 "Kman! Class dismissed! Line up and bow out!"
 
@@ -865,7 +865,7 @@ Another tiny nod from my sister.
 
 April stood back up, smoothing her uniform. She turned back to the center of the room, assuming command of the floor with effortless authority. Master Ray offered an approving nod, clearly relieved to have the tension broken.
 
-### Part 4: The Anchor and the Ego – 5:00 PM
+### Part 4: The Anchor and the Ego
 
 "You all worked hard today," April announced to the room. "Kman. Class dismissed."
 
@@ -911,7 +911,7 @@ The word was incredibly soft, barely louder than the hum of the overhead fluores
 
 We were sitting barefoot on the freezing linoleum, covered in sweat, wearing ridiculous foam armor in a room designed to break us. But as Rachel leaned her head against my shoulder, the Dojang didn't feel like purgatory anymore. It felt like a conquered territory. Master Curtis could call us weak all he wanted, but Rachel had just found her voice, and she had used it to put him exactly in his place.
 
-### Part 5: The Top Row – 5:10 PM
+### Part 5: The Top Row
 
 We didn't stay in the Dojang a second longer than we had to. We shoved our heavy, sweaty sparring gear into our canvas bags and climbed the metal stairs to the second-floor observation deck.
 
@@ -987,7 +987,7 @@ Jessica didn't care about the traffic light. A massive, brilliant smile broke ac
 
 The rest of the ride back to Delaney Street was the loudest car trip we had ever taken. Aunt Janet was still in shock, but Jessica completely took over, asking Rachel question after question just to hear her answer. And Rachel, leaning safely against my side, answered every single one.
 
-### Part 6: The Delaney Street Revelation – 5:45 PM
+### Part 6: The Delaney Street Revelation
 
 Aunt Janet pulled the sedan up to the curb outside 1852 Delaney Street. She didn't even put the car in park before Jessica was pushing her door open.
 
@@ -1051,7 +1051,7 @@ Jessica let out a loud, watery cheer from the doorway, finally breaking her sile
 
 I stayed exactly where I was, standing just outside the edge of the massive family hug. My legs were exhausted from the Dojang, and my feet were cold, but my chest felt completely light. I watched my sister successfully rewrite the rules of our entire family with nothing but her voice, and for the first time in my life, I felt like we were actually going to be okay.
 
-### Part 7: Wash the Dojang Away – 6:00 PM
+### Part 7: Wash the Dojang Away
 
 The massive family hug in the center of the kitchen finally broke apart.
 
@@ -1101,7 +1101,7 @@ Rachel had spoken. She had looked a terrifying adult directly in the eye and def
 
 As the hot water beat down on the back of my neck, I realized I wasn't just washing away a bad practice. I was washing away an entire era of our childhood. The silent, suffocating rules that had governed us were officially broken. We were home, the dogs were happy, and tomorrow, everything was going to be different.
 
-### Part 8: The Dinner Table – 6:30 PM
+### Part 8: The Dinner Table
 
 Dinner at the Delaney Street house had always operated on a very specific, unspoken audio frequency. Dad would talk about work, Mom would ask about our days, and Jessica would carry the bulk of the sibling conversation. I would give flat, one-word answers, and Rachel would communicate entirely through soft hums, sharp points, and the occasional tug on Mom’s sleeve.
 
@@ -1163,7 +1163,7 @@ Rachel didn't even have to think about it. It was the undisputed superior choice
 
 It was going to take months of speech therapy, endless frustration, and a lot of patience to get her caught up to her peers. But sitting there at the Delaney Street table, watching Mom enthusiastically pour a massive glass of apple juice, I knew the worst part was over. Master Curtis had tried to break her, but all he had done was hand her the keys to the castle.
 
-### Part 9: The Code Wizard – 7:30 PM
+### Part 9: The Code Wizard
 
 The house settled into its quiet, predictable evening rhythm.
 
@@ -1217,7 +1217,7 @@ Rachel pressed the start button, dropping her pixelated character onto the vibra
 
 We sat there for an hour, the soft glow of the television illuminating the dark bedroom. It had been the most exhausting, terrifying, and massive day of our entire lives. But as I listened to my little sister quietly narrate her way through the colorful levels, perfectly safe and armed with her brand-new voice, I knew we had won.
 
-### Part 10: The Solstice Myth – 8:30 PM
+### Part 10: The Solstice Myth
 
 Rachel eventually guided her pixelated character past the final fortress of the current map, the screen fading to black. She let out a soft, satisfied sigh, dropping the grey SN-16 controller onto my carpet.
 
@@ -1267,7 +1267,7 @@ When the movie finally ended, the triumphant, original orchestral music swelled 
 
 Jessica leaned her head on my shoulder, Rachel drifted halfway to sleep against my chest, and Archie let out a soft, snoring breath through his tennis ball. The Dojang, Master Curtis, and the brackish water were a million miles away. In the quiet glow of the cathode-ray tube, the universe was perfectly in balance.
 
-### Part 11: The Twin-Bed Geometry – 10:45 PM
+### Part 11: The Twin-Bed Geometry
 
 The triumphant, brass-heavy orchestral suite played over the scrolling blue credits of Return of the Guardians, filling the dark bedroom with a final wave of cinematic energy. As the music faded and the screen transitioned to the harsh, silent static of the tape's end, the exhaustion of the day finally crashed down on all of us.
 
@@ -1303,7 +1303,7 @@ But as Rachel’s steady heartbeat thumped against my arm, I had never felt safe
 
 ## Chapter 4: The Latchkey Solstice (Wednesday, August 16th, 1995)
 
-### Part 1: The Latchkey Captain – 8:30 AM
+### Part 1: The Latchkey Captain
 
 Waking up was a slow, agonizing process.
 
@@ -1377,7 +1377,7 @@ Ashley wasn't blood, but she was pack. The physical affection between us was lou
 
 The Dojang was behind us, the house was ours, and for the first time in my life, I didn't feel the need to brace myself against the day. It was just a Wednesday in August, and everything was exactly as it was supposed to be.
 
-### Part 2: The Live-Action Tape – 10:00 AM
+### Part 2: The Live-Action Tape
 
 The doorbell rang right at ten o'clock, sending Archie scrambling to his feet. His tail immediately started thumping against the wall.
 
@@ -1461,7 +1461,7 @@ The credits rolled, a catchy, upbeat pop-rap song playing over the speakers. The
 
 It was just a movie. The violence on the screen was just choreography and costumes, safely contained inside the heavy glass tube of the television. As we sat there in the late morning sunlight, wrapped up in the lap cuddle with the dogs at our feet, the world felt entirely safe, predictable, and fun.
 
-### Part 3: The Highland Leviathan – 11:45 AM
+### Part 3: The Highland Leviathan
 
 With the movie finished and the hero geckos victorious, Melissa hit the stop button on the VCR. The screen dropped to static for a brief second before she clicked the heavy CRT television off entirely.
 
@@ -1501,7 +1501,7 @@ A few minutes later, Jessica and Melissa walked out of the kitchen balancing two
 
 As we sat there eating lunch, wrapped up in the lap cuddle with the dogs resting heavily at our feet, there was no need to brace for anything. The movie was a hit, the house was ours, and it was just a perfect, golden Wednesday afternoon.
 
-### Part 4: The Canvas Fortress – 1:00 PM
+### Part 4: The Canvas Fortress
 
 As the last of the pizza bagels disappeared from the coffee table, Melissa clapped her hands together, brushing a few stray crumbs off her jeans.
 
@@ -1533,7 +1533,7 @@ I nodded, resting my chin on Rachel's head. It was the classic Delaney Street se
 
 Rachel wiggled happily, tapping a rapid, joyful beat against my forearm. Between her newfound voice, the arcade invitations, and the prospect of sleeping outside under the stars in a brand-new canvas fortress, it was shaping up to be the greatest Wednesday of the entire summer.
 
-### Part 5: Shore Power – 7:00 PM
+### Part 5: Shore Power
 
 Dad walked through the front door right at seven o'clock, still wearing his *Baja Taco* manager's uniform, completely exhausted but smiling the second he saw the energy in the house. Mom had gotten home from the mall at five and had immediately taken over the kitchen.
 
@@ -1573,7 +1573,7 @@ Finally, the entire pack met by the back door, armed with flashlights and extra 
 
 We spilled out into the dark backyard, the orange extension cord leading the way like a lifeline. Melissa unzipped the heavy nylon door, and one by one, we crawled into the massive, padded fortress, ready to spend the entire night under the stars.
 
-### Part 6: The Ball Pit Strategy – 8:30 PM
+### Part 6: The Ball Pit Strategy
 
 Melissa pulled the heavy nylon zipper of the tent door shut, sealing us inside the canvas fortress. The only light came from a pair of heavy-duty plastic flashlights aimed up at the domed ceiling, casting a warm, diffused glow over the wall-to-wall patchwork of sleeping bags and quilts. From the corner, the silver portable stereo played a local FM pop station at a low, comfortable volume.
 
@@ -1617,7 +1617,7 @@ I closed my eyes, listening to Ashley's excited whispering on my right and feeli
 
 It was the absolute peak of our childhood.
 
-### Part 7: Lights Out – 8:45 PM
+### Part 7: Lights Out
 
 By a quarter to nine, the chaotic energy inside the tent finally began to mellow into a heavy, comfortable exhaustion. The local FM pop station playing on the boombox transitioned into a block of slow, acoustic evening tracks.
 
@@ -1659,7 +1659,7 @@ I closed my eyes, surrounded by the steady breathing of my pack, the cool grass 
 
 ## Chapter 5: The Thursday Deployment – Thursday, August 17, 1995
 
-### Part 1: Breaking Camp – 7:30 AM
+### Part 1: Breaking Camp
 
 Waking up inside a nylon tent always felt fundamentally different than waking up in a house.
 
@@ -1715,7 +1715,7 @@ Melissa and Ashley carried their bowls to the sink. Ashley walked back over to t
 
 We watched the Raybourn sisters walk out the front door, the heavy wood clicking shut behind them. The house instantly felt quieter without them. Jessica let out a loud yawn, stretching her arms over her head, and announced she was going upstairs to catch a few more hours of sleep before gymnastics. Rachel carried her empty bowl to the sink, her steps light and energetic. The tent was packed away, the morning chores were done, and it was time to start our Thursday.
 
-### Part 2: The Living Room Dojang – 11:30 AM
+### Part 2: The Living Room Dojang
 
 By half-past eleven, the Delaney Street living room had been completely reconfigured. We had pushed the heavy oak coffee table flush against the front of the sofa, creating a wide, open clearing of carpet right in the center of the room.
 
@@ -1793,7 +1793,7 @@ Rachel pulled her fist back, a massive, glowing smile breaking across her face. 
 
 We were completely dialed in. Our stances were solid, and Rachel's voice was officially ready for deployment. In a few hours, we would put on our crisp white *doboks* and tie our Brown belts around our waists. The clock was slowly ticking toward our five o'clock class, and for the first time in my life, I couldn't wait to get there.
 
-### Part 3: The Neurological Wall – 11:45 AM
+### Part 3: The Neurological Wall
 
 I picked up the heavy blue kick shield from the sofa and tossed it to Rachel.
 
@@ -1855,7 +1855,7 @@ Master Curtis would have barked at me. He would have told me I wasn't focusing h
 
 I ran forward and launched myself off the carpet again. My leg seized up exactly as it had before, locking tight in the air, and I landed heavily on the floor without striking the pad. But as I caught my balance, I didn't feel the suffocating weight of disappointment. I just reset my stance, locked eyes with Rachel, and prepared to try again.
 
-### Part 4: The Observation Deck – 1:30 PM
+### Part 4: The Observation Deck
 
 The heavy thud of a car door shutting in the driveway signaled the end of our living room training session.
 
@@ -1947,7 +1947,7 @@ I opened my eyes and looked down at her. She was staring straight ahead, complet
 
 We settled back into the corner, our eyes tracking Jessica down on the balance beam. As the clock slowly ticked toward our five o'clock class, we sat wrapped in the warm, invincible certainty of a future that belonged entirely to us.
 
-### Part 5: The Staging Area – 4:30 PM
+### Part 5: The Staging Area
 
 The large analog clock mounted high above the vault runway clicked to exactly four-thirty.
 
@@ -1979,7 +1979,7 @@ She turned to face me, dropping her feet shoulder-width apart into a casual *Nar
 
 We stood there in the quiet lobby, perfectly calm and completely focused, waiting for the heavy wooden doors to swing open and our Thursday lesson to begin.
 
-### Part 6: The Core Check – 5:00 PM
+### Part 6: The Core Check
 
 Rachel and I bowed into the Dojang, taking our positions on the line. The room sat directly underneath the second-floor observation deck, a boxed-in rectangular space with low ceilings and harsh fluorescent lighting. Because the room doubled as a dance studio, the floor was covered in hard, slick linoleum tile. We were barefoot, and the floor was always freezing against the soles of my feet.
 
@@ -2071,7 +2071,7 @@ He finally shifted his weight, completed the stride, and stepped back onto the f
 
 The leg lifts finally finished at a count of fifty.
 
-### Part 7: The Rest of the Hour – 5:30 PM
+### Part 7: The Rest of the Hour
 
 "Stand up! Fall in!" Master Curtis barked, clapping his hands together with a sharp, echoing crack.
 
@@ -2131,7 +2131,7 @@ We didn't look at the mirrors, and we didn't look at Master Curtis.
 
 We just focused entirely on the ticking clock on the back wall, desperately trying to mask the heavy, persistent ache in our stomachs, silently wondering if the deep, bruising pain inside us was ever going to go away.
 
-### Part 8: The Observation Deck – 6:30 PM
+### Part 8: The Observation Deck
 
 "Class dismissed! Line up and bow out!" Master Curtis barked, signaling the end of the hour.
 
@@ -2187,7 +2187,7 @@ I just carefully, gently adjusted her weight, shifting my hips to relieve the wo
 
 I just held her tightly against my chest, staring blankly out over the gym, entirely focused on being the physical shield my baby sister needed until it was finally time to go home.
 
-### Part 9: The Broken Routine – 7:00 PM
+### Part 9: The Broken Routine
 
 The loud, grating buzzer echoed across the cavernous gymnastics floor, signaling the official end of the 7:00 PM classes.
 
@@ -2285,7 +2285,7 @@ Mom was standing by the trunk. When she saw her fourteen-year-old and twelve-yea
 
 She reached past me to pull my seatbelt across my chest. As the heavy strap dragged across my stomach, I flinched, biting back a groan. Mom didn't notice. The "tough love" narrative Dad had planted earlier that evening had completely blinded her to the reality right in front of her face. We were sitting in the dark backseat, broken and in agonizing pain, and the adult world was driving us straight home without a second glance.
 
-### Part 10: The Adult Echo Chamber – 7:15 PM
+### Part 10: The Adult Echo Chamber
 
 "Mom, you need to go inside and pull Michael and Rachel out of that Dojang right now," Jessica demanded before Mom could even put the car in drive.
 
@@ -2335,7 +2335,7 @@ Beside us, Janette leaned over, pressing her forehead against my shoulder and st
 
 I just wrapped both of my arms around my little sister, pulling her as tightly against my chest as my ruined stomach would allow. I glared at the back of my mother's head in the rearview mirror, an intense, freezing realization settling over me. The adult world was completely blind, and the only people who would ever truly protect us were the two teenage girls sitting in this car.
 
-### Part 11: The Locked Door – 7:45 PM
+### Part 11: The Locked Door
 
 The rest of the car ride was a suffocating, heavy silence. We dropped Janette off at Aunt Janet's house first. Janette reached over the seat and gave my shoulder one last, fierce squeeze before getting out of the car, her eyes still lined with angry tears. She didn't want to leave us, but there was nothing she could do to stop the momentum of the evening.
 
@@ -2419,7 +2419,7 @@ Jessica stood up, pulling the heavy red quilted blanket down from the top bunk t
 
 The room went dark as she clicked off the lamp. The adults downstairs were completely locked out. For tonight, the bottom bunk was our absolute sanctuary, and as Rachel pressed her back firmly against my side to anchor herself, we finally allowed ourselves to close our eyes.
 
-### Part 12: The Fracture – 8:15 PM
+### Part 12: The Fracture
 
 The room wasn't pitch black yet. It was mid-August in Virginia Beach, which meant the sun had only just dipped below the horizon a few minutes ago. A fading, dusky violet twilight bled through the bedroom blinds, casting long, soft shadows across the carpet, mixing with the thin sliver of yellow hallway light underneath the locked door.
 
@@ -2487,7 +2487,7 @@ The adults who were supposed to protect us had failed, but we had each other.
 
 ## Chapter 6: The Shattered Illusion (Friday, August 18th, 1995)
 
-### Part 1: The Physical Proof – 8:00 AM
+### Part 1: The Physical Proof
 
 The morning light bleeding through the bedroom blinds felt heavy and exhausting.
 
@@ -2569,7 +2569,7 @@ Mom wiped her face roughly with the sleeve of her bathrobe, a new, fierce determ
 
 "We are going to Dr. Young," Mom stated firmly. "Right now."
 
-### Part 2: The Convergence – 10:30 AM
+### Part 2: The Convergence
 
 The sterile, brightly lit exam room of Dr. Winfield Young's pediatric clinic was a sharp contrast to the dark sanctuary of our bedroom.
 
@@ -2671,7 +2671,7 @@ We weren't crazy. We weren't weak. We hadn't imagined the malice.
 
 The system that had crushed us was currently being dismantled by the police, and the monster in the white uniform was officially caught.
 
-### Part 3: The Children's Hospital – 11:05 AM
+### Part 3: The Children's Hospital
 
 The twenty-minute drive from Dr. Young’s clinic near Lake James to the massive Children’s Hospital in Norfolk was a masterclass in agony.
 
@@ -2715,7 +2715,7 @@ I climbed onto the bed on the right, keeping my back perfectly flat to prevent m
 
 As we lay there under the harsh fluorescent lights, waiting for the imaging machines that would reveal the true extent of our injuries, and anticipating the police detective who was on his way to finally take Master Curtis down, the only thing keeping the panic at bay was the grip of my sister's hand in mine.
 
-### Part 4: The Admission – 1:00 PM
+### Part 4: The Admission
 
 The trauma attending physician returned to our bay, looking much more settled but no less serious. He pulled up a stool next to the two beds where Rachel and I were still locked in our silent, joined-hand perimeter.
 
@@ -2731,7 +2731,7 @@ Before the doctor left, he leaned in closer. "I also thought you should know—t
 
 I felt a microscopic slackening in Rachel’s grip. For the first time since Tuesday, the predator was behind bars.
 
-### Part 5: The ICU Encounter – 3:30 PM
+### Part 5: The ICU Encounter
 
 The afternoon stretched into a blur of blood draws and beeping IV pumps. Mom eventually had to step out to the hallway to find a payphone to update Jessica and Dad. When she came back into the trauma bay fifteen minutes later, she looked like she had seen a ghost.
 
@@ -2749,7 +2749,7 @@ The silence that followed was suffocating. Rachel buried her face in my shoulder
 
 I looked at the massive, dark purple footprint on my own stomach. I was ten. I was heavy. I had core strength from years of martial arts and the high-tone muscles caused by my Cerebral Palsy. Rachel was eight and a brown belt. We were "strong" in the eyes of the ER doctor, but Drew was just a baby. Master Curtis had used the same foot to crush a toddler that he had used on us, and the math of that cruelty was almost too much to process.
 
-### Part 6: The Statement – 4:30 PM
+### Part 6: The Statement
 
 The heavy glass door of the trauma bay slid open, and Detective Harris stepped back in. He looked tired, his tie loosened, but his eyes were kind.
 
@@ -2805,7 +2805,7 @@ By the time I was finished, Mom was sobbing into her hands, and Detective Harris
 
 "We've got him, kids," the detective said, his voice thick with a quiet, lethal intent. "I promise you. We've got him."
 
-### Part 7: The Pack Assembles – 6:15 PM
+### Part 7: The Pack Assembles
 
 The harsh, fluorescent overhead lights of the trauma bay were eventually dimmed, replaced by the soft, amber glow of the monitors and the steady, rhythmic hum of the IV pumps.
 
@@ -2869,7 +2869,7 @@ I looked up at Jessica. She caught my eye, offering a slow, solid nod of validat
 
 The illusion of Tidewater Tumblers was dead, and the adults who had allowed it to happen were going to face absolute ruin. But in the dim, amber light of the pediatric trauma bay, surrounded by the quiet beeping of the monitors, the six of us had finally formed an impenetrable wall. Master Curtis had tried to break us, but all he had actually done was forge our family into something that could never be fractured again.
 
-### Part 8: The Empty Mats – 5:15 PM
+### Part 8: The Empty Mats
 
 The sanctioned, fully permitted dojang in April’s garage was the exact opposite of the harsh, fluorescent purgatory at Tidewater Tumblers.
 
@@ -2935,7 +2935,7 @@ April closed her eyes, took a deep, shuddering breath, and manually locked her t
 
 "Alright, everyone," April called out, her voice remarkably steady as she stepped back onto the foam. "Let's get lined up. We have a lot of forms to cover today."
 
-### Part 9: The Ultimate Bow – 6:45 PM
+### Part 9: The Ultimate Bow
 
 The heavy glass door of the trauma bay slid open with a soft hiss.
 
@@ -2983,7 +2983,7 @@ Rachel looked up at her, the exhaustion heavy in her dark eyes, but a tiny, genu
 
 We were lying in a hospital, broken and bruised, but the perimeter was secure. Dad was sitting in the corner, Jessica and Janette were guarding the door, and the one instructor who actually understood the true meaning of the martial art was standing right beside us, holding our hands in the dark.
 
-### Part 10: The Promise – 6:50 PM
+### Part 10: The Promise
 
 April stayed in the narrow gap between our hospital beds. The frantic, terrified energy that had consumed the afternoon was entirely gone, replaced by a quiet, fierce warmth.
 
@@ -3029,7 +3029,7 @@ In that quiet, amber-lit hospital room, wrapped in the safety of our family’s 
 
 We just had to wait for the doctors to give us the green light.
 
-### Part 11: The Anchor – 7:15 PM
+### Part 11: The Anchor
 
 The clock on the wall of the trauma bay ticked past seven. The amber light from the monitors cast long, quiet shadows across the linoleum, and the heavy blanket of exhaustion was finally beginning to overtake the adrenaline in the room.
 
@@ -3075,7 +3075,7 @@ Curtis had tried to destroy us to prove how strong he was. But all he had actual
 
 We had won.
 
-### Part 12: The Perimeter – 8:00 PM
+### Part 12: The Perimeter
 
 The pediatric trauma bay had settled into a quiet, heavy rhythm. The harsh adrenaline of the afternoon had finally burned off, leaving behind a deep, collective exhaustion.
 
@@ -3129,7 +3129,7 @@ Nurse Sarah gave Jessica and Janette a warm, validating smile on her way out. "Y
 
 As the glass door slid shut, securing us back in the quiet isolation of the trauma bay, I felt a profound sense of safety wash over me. The hospital wasn't a scary place. It was a fortress. And for the first time in my life, I truly understood that the strongest people in my world weren't the adults wearing black belts. They were the people sitting right here in this room.
 
-### Part 13: The Night Shift – 9:00 PM
+### Part 13: The Night Shift
 
 By nine o'clock, the reality of hospital protocol finally breached our sanctuary.
 
@@ -3177,7 +3177,7 @@ The hospital was a miserable place to spend the night. We were in pain, exhauste
 
 ## Chapter 7: The Long Road (Saturday, August 19th, 1995)
 
-### Part 1: Kehr’s Sign – 7:30 AM
+### Part 1: Kehr’s Sign
 
 The gray light of dawn slowly transitioned into the harsh, uncompromising brightness of Saturday morning.
 
@@ -3239,7 +3239,7 @@ Dad looked down at Rachel. The anger radiating off him was palpable, but he chan
 
 I reached my hand back across the gap between the beds. After a moment, Rachel let go of her shoulder and took it, lacing her fingers through mine. The pain was agonizing, and the road ahead was impossibly long, but the perimeter was secure.
 
-### Part 2: The Second Snap – 7:45 AM
+### Part 2: The Second Snap
 
 The heavy, suffocating weight of Rachel's four-month prognosis settled over the trauma bay. Dad was still leaning over her bed, holding her hand, murmuring soft, fierce promises into the quiet hum of the machinery.
 
@@ -3325,7 +3325,7 @@ Dad paused, looking back through the glass window of the trauma bay, watching Ra
 
 "First thing Monday morning, I want you to find the most ruthless, vicious personal injury and civil rights lawyer in the state of Virginia," Dad commanded. "I don't care what it costs. We are going to sue Tidewater Tumblers until the physical building is nothing but dust, and then we are going to sue the ground it was built on."
 
-### Part 3: The Broken Anchor – 10:00 AM
+### Part 3: The Broken Anchor
 
 The trauma bay was crowded. Mom, Jessica, and Janette had arrived just as the trauma attending physician returned with the discharge coordinator to map out the logistics of our recovery.
 
@@ -3401,7 +3401,7 @@ Dad slowly took his hands off Rachel's shoulders. He looked down at us, watching
 
 The illusion of a simple recovery at home was gone. The living room wasn't just going to be a recovery space; it had to be a perfectly engineered, zero-stress sanctuary. The pack wasn't just protecting us from the outside world anymore. They had to protect us from our own panic.
 
-### Part 4: The Transport – 1:30 PM
+### Part 4: The Transport
 
 Discharge was delayed by three agonizing hours.
 
@@ -3451,7 +3451,7 @@ As the transport crew packed up their gear and walked out the front door, leavin
 
 We were trapped on this sofa for the next four months, but we were finally, truly safe.
 
-### Part 5: The Protocols of Base Camp – 6:00 PM
+### Part 5: The Protocols of Base Camp
 
 By early evening, the heavy narcotic haze from the hospital sedatives began to wear off, replaced by the deep, throbbing reality of our injuries and the sudden, pressing need for basic bodily functions.
 
@@ -3505,7 +3505,7 @@ When Rachel’s turn came, Mom executed the exact same protocol. She carried the
 
 The indignity of our injuries was immense. But the pack had built a system that protected not just our torn bodies, but our pride.
 
-### Part 6: The Night Watch – 10:30 PM
+### Part 6: The Night Watch
 
 The transition from day to night in our new living room fortress required a delicate, deliberate shifting of gears.
 
@@ -3575,7 +3575,7 @@ The adults were upstairs. But the pack was holding the line.
 
 ## Chapter 8: The Warpath (Sunday, August 20th, 1995)
 
-### Part 1: Bear and Bug – 8:00 AM
+### Part 1: Bear and Bug
 
 The soft, hazy light of Sunday morning filtered through the living room blinds, casting long, quiet shadows over our makeshift base camp.
 
@@ -3643,7 +3643,7 @@ Rachel’s breath hitched. Her eyes darted toward Dad, the mention of the monste
 
 "They aren't getting out," Dad promised her, his voice dropping into a lethal, absolute vow. "The detective submitted your medical records. The judge is going to read exactly what they did to your spleen, and what they did to your brother's stomach, and what they did to little Drew. The District Attorney is going to ask the judge to deny their bond completely. And I am going to sit in the front row of that courtroom and watch them get sent right back to their cages."
 
-### Part 2: The Morning Logistics – 9:00 AM
+### Part 2: The Morning Logistics
 
 The heavy, militant promise of Monday's court hearing hung in the air, but the immediate reality of Sunday morning still had to be navigated. The adrenaline of Dad's speech faded, leaving behind the stark, physical limitations of our broken bodies.
 
@@ -3697,7 +3697,7 @@ When we were both safely deposited back into our respective zones on the queen m
 
 The morning routine was exhausting, humiliating, and physically painful. But the pack had executed it flawlessly. The rules of base camp were holding strong, and as Sunday stretched out before us, all we had to do was rest and wait for Monday's war to begin.
 
-### Part 3: The Interrogation – 10:30 AM
+### Part 3: The Interrogation
 
 By ten o'clock in the morning, the exhausting reality of our new limitations had thoroughly set in. The grueling logistics of eating and the bathroom routine had left our bodies throbbing.
 
@@ -3769,7 +3769,7 @@ As the extended family retreated into the kitchen, Mom let out a massive sigh of
 
 The living room belonged to the pack once again. Jessica hit play on the VCR remote, the animated lions returning to the screen, and the fortress walls held strong.
 
-### Part 4: Stripping the Titles – 10:15 AM
+### Part 4: Stripping the Titles
 
 The heavy wooden door swung shut, sealing the kitchen off from the living room.
 
@@ -3825,7 +3825,7 @@ Grandma Loretta slowly nodded, a terrifying, matriarchal fire lighting up in her
 
 "Just Curtis and Ray," Grandma Loretta agreed, her voice hardening into stone. She looked at Mom. "I am staying the night. Since Michael is downstairs, I will sleep in his empty bed upstairs. Tomorrow morning, when you pick up that telephone to call those lawyers, I am going to sit right next to you at this table. And we are going to take everything they have."
 
-### Part 5: The Outer Perimeter – 11:30 AM
+### Part 5: The Outer Perimeter
 
 The heavy wooden door connecting the kitchen to the living room slowly pushed open.
 
@@ -3861,7 +3861,7 @@ For the rest of the afternoon, the living room operated in a state of perfectly 
 
 Surrounded by my sisters and my cousins, completely shielded from the crushing weight of the outside world, I felt the heavy pull of the muscle relaxants dragging me toward sleep. I closed my eyes, listening to the animated music of the savanna, knowing the perimeter was absolutely impenetrable.
 
-### Part 7: The Hygiene Protocol – 8:00 PM
+### Part 6: The Hygiene Protocol
 
 As Sunday evening set in, the physical reality of lying on a mattress for three days straight began to catch up with us. The hospital smell—a sterile mix of iodine, rubbing alcohol, and medical tape—was clinging to our skin, mixing with the stale sweat of our own fear.
 
@@ -3923,7 +3923,7 @@ Jessica and Janette filed back into the living room, immediately retaking their 
 
 The base camp was clean, the perimeter was secure, and Sunday was officially over. We closed our eyes, holding tight to each other in the dark, bracing ourselves for the storm that Mom and Dad were going to unleash in the morning.
 
-### Part 8: The Night Watch – 8:30 PM
+### Part 7: The Night Watch
 
 By half past eight, the adrenaline of the day had completely burned off, leaving the house heavy with the impending weight of Monday morning.
 

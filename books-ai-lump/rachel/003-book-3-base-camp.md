@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Monday War – Monday, August 21st, 1995
 
-### Part 1: The Weight of September – 7:00 AM
+### Part 1: The Weight of September
 
 The gray, early morning light of Monday filtered through the living room blinds, signaling the start of the first official weekday of our new reality.
 
@@ -67,7 +67,7 @@ From their posts on the floor mattresses, Jessica and Janette watched us eat. Th
 
 The Monday war was about to begin for the adults, but for the pack trapped on the living room sofa, the battle was simply finding a way to survive the crushing weight of the day.
 
-### Part 2: The Gavel – 9:00 AM
+### Part 2: The Gavel
 
 While we were trapped on the living room sofa, navigating the exhausting logistics of lukewarm oatmeal and medical wedges, Dad was sitting in the front row of the City of Chesapeake Courthouse.
 
@@ -151,7 +151,7 @@ Dad sat in the gallery for a long moment, the absolute silence of the courtroom 
 
 Dad stood up, adjusted his tie, and looked at the two women who had flanked him. He gave them both a slow, deeply respectful nod, then walked out of the courtroom to find a payphone. He had to call Mom. It was her turn to unleash hell.
 
-### Part 3: The War Room – 9:00 AM
+### Part 3: The War Room
 
 While Dad was sitting in the cold, oak-paneled courtroom watching the gavel fall on the men who broke us, Mom was sitting at the kitchen table, waging a completely different kind of war.
 
@@ -251,7 +251,7 @@ Mom hung up the phone. She looked at Grandma Loretta, who had the yellow pages o
 
 Mom picked up the receiver and started dialing. The Monday war was escalating, and the Ragsdale pack was taking no prisoners.
 
-### Part 4: The Meltdown – 10:45 AM
+### Part 4: The Meltdown
 
 By mid-morning, Janette had swapped *The Desert Prince* for another Majestic Studios classic: *The Lost Valley*.
 
@@ -365,7 +365,7 @@ He didn't go upstairs to change out of his suit. He simply unbuttoned his suit j
 
 We locked our fingers together over the pillow wall, our breathing shallow and completely controlled, and watched the rest of the movie with our father standing guard.
 
-### Part 5: Safe Harbor – 1:00 PM
+### Part 5: Safe Harbor
 
 The suffocating tension of the morning's meltdown had finally bled out of the living room. *The Lost Valley* had ended, the little dinosaur had found his sanctuary, and a quiet, exhausted calm had settled over the sofa bed. Dad had returned to the kitchen to help Mom field phone calls, but the heavy wooden door remained propped open just enough for him to keep an eye on the perimeter.
 
@@ -437,7 +437,7 @@ I felt Rachel's heel hook around my ankle under the blankets. The tension in her
 
 As Dr. Evans turned and walked back into the foyer with Mom and Dad, the living room felt just a little bit lighter. The monsters were locked in their cages, the legal war was spinning up, and the safe adults in our lives were actively rebuilding the world to protect us.
 
-### Part 6: The Full Perimeter – 2:30 PM
+### Part 6: The Full Perimeter
 
 The hum of a familiar engine pulled into the driveway, followed by the unmistakable sound of heavy paws thumping against the floor of a van.
 
@@ -491,7 +491,7 @@ The perimeter was finally complete. We had Mom and Grandma in the kitchen, Dad i
 
 The house was no longer just a building in Norfolk; it was a fortress. The Ragsdale pack was entirely under one roof, and for the first time since Thursday night, the crushing weight of the world felt just a little bit easier to carry.
 
-### Part 7: The Art of Letting Go – 4:30 PM
+### Part 7: The Art of Letting Go
 
 The doorbell rang again at half-past four, a sharp contrast to the quiet afternoon. This time, it wasn't a family friend or a neighbor; it was the arrival of the clinical reality we had been dreading.
 
@@ -555,7 +555,7 @@ We lay there in the late afternoon shadows, the only sound being the rhythmic *h
 
 The Monday war was winding down, but as I felt Dad gently lower my leg back onto the mattress, I realized that the battle wasn't just in the courtroom or the kitchen. It was right here, in the slow, agonizingly patient work of not letting our broken bodies give up.
 
-### Part 8: The Cost of the War – 5:15 PM
+### Part 8: The Cost of the War
 
 Nurse Brenda snapped her heavy black medical bag shut, her Monday afternoon visit coming to a close. The PROM therapy had been exhausting, leaving my legs feeling like jelly and my mind acutely aware of how broken we were.
 
@@ -641,7 +641,7 @@ Mom slowly hung up the receiver. The Monday War was officially over. The crimina
 
 In the living room, surrounded by the fierce loyalty of our sisters and the protective weight of our dogs, we grieved the permanent loss of our martial arts journey. But in the kitchen, the adults had ensured that the monsters who took it from us would never have a Dojang again.
 
-### Part 9: Nightfall – 7:30 PM
+### Part 9: Nightfall
 
 The adrenaline that had fueled the adults through the Monday War finally began to burn off as the sun set over Delaney Street. The living room darkened, illuminated only by the warm, flickering glow of the television screen and the small lamp on the end table.
 
@@ -721,7 +721,7 @@ Let the four months begin.
 
 ## Chapter 2: The Marathon – Tuesday, August 22, 1995
 
-### Part 1: The Transfer of Trust – 8:30 AM
+### Part 1: The Transfer of Trust
 
 Tuesday morning felt entirely different than Monday.
 
@@ -835,7 +835,7 @@ Instead, Ashley stepped right up to the edge of Jessica's floor mattress, next t
 
 I looked over at Jessica and Janette. They both gave small, approving nods. The Base Camp had just drafted its newest recruit. The adults were gone, the house was quiet, and the marathon had officially begun. But as long as we kept adding safe people to the perimeter, I knew we could hold the line.
 
-### Part 2: The Vault and the VHS – 9:30 AM
+### Part 2: The Vault and the VHS
 
 The quiet safety of the living room hung in the balance. Rachel had just spoken the terrifying truth out loud, admitting to Ashley that she was afraid of being stepped on again.
 
@@ -895,7 +895,7 @@ Through the heavy wooden door leading to the kitchen, I could hear the faint mur
 
 The marathon had officially begun. We were trapped in our medical binders, and the pain in my core was a constant, dull ache. But as the animated mermaid swam across the screen, surrounded by our sisters, our best friend, our dogs, and the protective adults in the kitchen, the Base Camp finally felt safe again.
 
-### Part 3: The First Lift – 12:00 PM
+### Part 3: The First Lift
 
 The grandfather clock in the hallway chimed noon, cutting through the sweeping orchestral finale of *The Coral Kingdom*.
 
@@ -955,7 +955,7 @@ Jim stepped back, letting out a quiet breath of his own. He looked at Jessica an
 
 As the girls took their turns in the bathroom, Jim gave my shoulder a quick, reassuring squeeze before heading back into the kitchen. The first hurdle of the day was cleared. The base camp had successfully adapted to the new logistics.
 
-### Part 4: Silly Fill-Ins and Mending – 1:00 PM
+### Part 4: Silly Fill-Ins and Mending
 
 The afternoon stretched out before us, vast and empty.
 
@@ -997,7 +997,7 @@ As the late afternoon sun began to dip behind the houses on Delaney Street, turn
 
 The marathon was going to be agonizingly long, but as I listened to Ashley read another ridiculous *Silly Fill-Ins* story while Rachel squeezed my hand over the pillows, I knew we were going to survive it.
 
-### Part 5: The Hum of the House – 4:00 PM
+### Part 5: The Hum of the House
 
 As the late afternoon shadows stretched longer across the living room carpet, the quiet, mundane rhythms of a normal household began to assert themselves against the trauma.
 
@@ -1035,7 +1035,7 @@ The house was clean. The dishes were washing. The perimeter was secure.
 
 I leaned back against my wedge, the dull ache in my core settling into a familiar throb, and listened to the overlapping hums of the dryer and the dishwasher. They were just normal, boring household sounds, but right now, they were the greatest sounds in the world. They meant that the outside world was locked away, and our fortress was holding strong.
 
-### Part 6: The Night Shift – 7:00 PM
+### Part 6: The Night Shift
 
 At exactly seven o'clock, the heavy front door swung open. Dad walked in, still wearing his *Baja Taco* manager uniform, carrying the faint, unmistakable scent of corn shells and fryer oil. His shoulders were slumped with the exhaustion of an eight-and-a-half-hour shift, but the moment his eyes scanned the living room and found the perimeter intact, a wave of profound relief washed over his face.
 
@@ -1115,7 +1115,7 @@ They turned and walked up the wooden stairs. I lay flat on my back, listening to
 
 ## Chapter 3: The Birthday – Sunday, August 27, 1995
 
-### Part 1: The Sunday Shift – 8:00 AM
+### Part 1: The Sunday Shift
 
 By the time Sunday morning arrived, marking the end of our first full week trapped in the living room, the Base Camp had settled into a fragile, highly calculated rhythm.
 
@@ -1171,7 +1171,7 @@ The house settled into a quiet, peaceful lull. The dogs, sensing the relaxed mor
 
 It was just the pack, holding the line, waiting for the birthday girl to arrive.
 
-### Part 2: The Rootkit – 1:05 PM
+### Part 2: The Rootkit
 
 By twelve-fifteen, Mom had kissed our foreheads, grabbed her purse, and headed out the door to make her afternoon shift at *Wellington’s*. Dad, having managed to catch a few hours of sleep, was back downstairs, fully awake and holding the perimeter with Jessica and Janette.
 
@@ -1297,7 +1297,7 @@ Jessica didn't step down from the mattress. She stayed right where she was, sitt
 
 Rachel reached her hand out across the pillow wall, finding mine. We laced our fingers together, our grips weak and trembling. The movie was gone, the adults were at a safe distance, and the pack had held the line, but the Base Camp had just learned a very brutal, unforgiving lesson: some monsters couldn't be locked in a jail cell. Some monsters lived right inside the VCR.
 
-### Part 3: The Canine Guard – 2:30 PM
+### Part 3: The Canine Guard
 
 The living room remained wrapped in a thick, exhausted silence. The physical threat of the meltdown had passed, but the psychological fallout was absolute.
 
@@ -1351,7 +1351,7 @@ Dad smiled—a sad, incredibly proud smile—and turned away.
 
 The heavy front door opened, and then clicked shut. The deadbolt turned from the outside. Dad was gone until three in the morning. The house was now completely under the command of the Raybourn cavalry, and as the evening shadows began to fill the living room, the ultimate test of the Sunday shift was about to begin.
 
-### Part 4: The Gentle Lift – 8:00 PM
+### Part 4: The Gentle Lift
 
 The evening shadows stretched completely across the living room, settling into the familiar, heavy dusk of the late summer. The television remained off. The house was quiet, filled only with the soft, ambient sounds of the Raybourns and the Ragsdales simply existing together in the space.
 
@@ -1421,7 +1421,7 @@ Ashley stood up, gave Jessica and Janette tight hugs, and gave our hands one fin
 
 The birthday party was over, but as the quiet house settled around us, I realized that Ashley had given us the best gift possible: the absolute, unyielding proof that our perimeter extended far beyond the walls of this living room.
 
-### Part 5: The Flat Relief – 8:30 PM
+### Part 5: The Flat Relief
 
 Before the Raybourn family could fully gather their things to head out the front door, the physical toll of the long afternoon finally caught up with me.
 
@@ -1487,7 +1487,7 @@ We lay completely flat against the mattress, listening to the clicking of Grandm
 
 ## Chapter 4: The Homebound Tutor – Tuesday, September 5, 1995
 
-### Part 1: The First Bell – 7:30 AM
+### Part 1: The First Bell
 
 The Tuesday after Labor Day carried a specific, unmistakable energy. Even from the confines of the living room sofa bed, I could feel the familiar rhythm of September shifting into gear.
 
@@ -1559,7 +1559,7 @@ We were propped up on our forty-five-degree wedges, trapped in our heavy white m
 
 At exactly nine o'clock, the doorbell rang.
 
-### Part 2: The Assessment – 9:00 AM
+### Part 2: The Assessment
 
 The doorbell echoed through the quiet house, a sharp, metallic ring that made my pulse spike. Beside me, Rachel’s fingers tightened around mine. Even Baby, whose massive head was resting against the mattress, let out a low, vibrating rumble deep in his chest.
 
@@ -1659,7 +1659,7 @@ Rachel looked at the teacher. The rules were clear. The boundaries were establis
 
 The grandfather clock in the hallway ticked quietly. The house was calm, the dogs were guarding the perimeter, and the adults had proven they could follow the rules. I looked down at the fifth-grade math problems on my lap desk, took a deep breath, and started writing. The first day of school had officially begun.
 
-### Part 3: The Brain Break – 10:15 AM
+### Part 3: The Brain Break
 
 For the first hour and fifteen minutes, the only sounds in the living room were the scratch of graphite against wide-ruled paper, the soft, metallic clicking of Grandma Loretta’s knitting needles, and the steady, rhythmic breathing of the dogs.
 
@@ -1729,7 +1729,7 @@ She was physically exhausted, and her ribs were a deep, throbbing ache, but the 
 
 We lay there perfectly flat in the quiet living room, physically drained but mentally victorious. The adults had built a system to protect us, the teenage guard had proven their usefulness, and as I listened to Mrs. Higgins quietly talking to Uncle Jim in the kitchen, I realized the homebound instruction was actually going to work.
 
-### Part 4: The Physics of the Lift – 10:20 AM
+### Part 4: The Physics of the Lift
 
 The fifteen-minute brain break was winding down when the heavy wooden door to the kitchen swung open again. Uncle Jim stepped into the living room, wiping his hands on his jeans.
 
@@ -1797,7 +1797,7 @@ For the next forty-five minutes, the living room transformed completely into a c
 
 The adults had locked the perimeter, Jim had handled the agonizing physical reality of the lifts, and Mrs. Higgins had successfully bridged the gap to the outside world. The third grade and the fifth grade were officially in session.
 
-### Part 5: The Independent System – 11:15 AM
+### Part 5: The Independent System
 
 The final forty-five minutes of the tutoring block required a completely different kind of focus.
 
@@ -1833,7 +1833,7 @@ Rachel gave a firm, deeply appreciative nod.
 
 For the final stretch, we didn't have to write. We just listened. Mrs. Higgins went over the common mistakes she had seen in our math packets, explaining the concepts clearly and concisely. From their posts on the floor, Jessica and Janette remained perfectly, fiercely silent, honoring their agreement with the teacher to the letter. There was no pressure to perform, no chaotic classroom distractions, and no fear of being called on randomly. It was pure, unfiltered academic data, delivered in the absolute safety of our fortress.
 
-### Part 6: The Changing of the Guard – 11:55 AM
+### Part 6: The Changing of the Guard
 
 The heavy, resonant chime of the grandfather clock in the hallway began to strike noon.
 
@@ -1865,7 +1865,7 @@ I let out a long, heavy exhale, letting my head fall completely back against the
 
 The first day of fifth grade was in the books. The tutor was safe. The system worked.
 
-### Part 7: The Afternoon Rest – 12:10 PM
+### Part 7: The Afternoon Rest
 
 With the front door safely locked and Mrs. Higgins gone, the rigid academic posture of the living room immediately dissolved.
 
@@ -1907,7 +1907,7 @@ Rachel reached her pale hand up over the cotton mountain. I reached my left hand
 
 We lay perfectly flat on our backs, heavily anchored to each other in the quiet living room, completely ready to rest for the remainder of the afternoon.
 
-### Part 8: The Way of Seondu – 1:00 PM
+### Part 8: The Way of Seondu
 
 The house was quiet, wrapped in the exhausted, mid-day lull of the Homebound schedule. Rachel and I were lying perfectly flat against the mattress, our fingers locked together over the three-pillow barrier, when a soft knock sounded at the front door.
 
@@ -2053,7 +2053,7 @@ As she walked out the front door, the deadbolt clicking shut behind her, the hea
 
 ## Chapter 5: The Chimney Sweep (Saturday, September 30, 1995)
 
-### Part 1: The Autumn Shift – 8:30 AM
+### Part 1: The Autumn Shift
 
 By the last Saturday in September, the oppressive, suffocating humidity of the Virginia Beach summer finally broke.
 
@@ -2095,7 +2095,7 @@ Rachel gave a tiny, resolute nod.
 
 "Good," Dad praised softly. "The winter is coming, and I am going to make sure this house stays warm."
 
-### Part 2: The Breach – 9:00 AM
+### Part 2: The Breach
 
 Mom kissed our foreheads, gave Dad a quick hug, and headed out the door to make her retail shift.
 
@@ -2131,7 +2131,7 @@ Dad stepped aside, and the sweep walked into the house. As he rounded the corner
 
 Dad stepped right up to the edge of the carpet, folding his arms across his chest. He stood exactly where he promised he would—a massive, immovable human shield placed directly between the stranger and our bed.
 
-### Part 3: The Soot and the Sound – 9:30 AM
+### Part 3: The Soot and the Sound
 
 The visual threat of the adult male was mitigated by Dad's presence, but the auditory assault was impossible to block.
 
@@ -2159,7 +2159,7 @@ Rachel slowly opened her eyes. She looked past the pillows and saw Dad standing 
 
 For the next forty-five minutes, we lay perfectly flat against our wedges, enduring the harsh, industrial symphony of the chimney sweep. We didn't break, because the perimeter didn't break.
 
-### Part 4: Fortifying the Perimeter – 10:30 AM
+### Part 4: Fortifying the Perimeter
 
 The vacuum finally whined to a halt. The scraping stopped.
 
@@ -2201,7 +2201,7 @@ The chill in the air was still there, but it didn't matter anymore. The chimney 
 
 ## Chapter 6: The Foreclosure (Wednesday, October 4, 1995)
 
-### Part 1: The Wednesday Rhythm – 4:00 PM
+### Part 1: The Wednesday Rhythm
 
 By the first week of October, the Base Camp had settled into a highly disciplined, mechanical rhythm. The suffocating terror of August had slowly been replaced by the predictable, operational grind of the Homebound schedule.
 
@@ -2217,7 +2217,7 @@ The house was safe, but the invisible, psychological shadow of the Lair still li
 
 At four-fifteen, the heavy deadbolt on the front door clicked open.
 
-### Part 2: The Envelope – 4:20 PM
+### Part 2: The Envelope
 
 The heavy wooden door swung open, and Dad stepped into the foyer. He was still wearing his Baja Taco manager uniform, carrying the faint scent of the kitchen fryers, but his posture was entirely different today. He wasn't slumped with the usual exhaustion of a daytime shift. His shoulders were pulled back, his jaw was set, and his eyes were burning with a quiet, intense victory.
 
@@ -2245,7 +2245,7 @@ He pulled out a glossy Polaroid photograph and leaned forward, holding it out ov
 
 "Look," Dad commanded softly.
 
-### Part 3: Visual Proof – 4:25 PM
+### Part 3: Visual Proof
 
 I focused my eyes on the square photograph.
 
@@ -2275,7 +2275,7 @@ Dad looked back at her, his expression a fortress of absolute protection.
 
 "It's gone, Rachel," Dad promised her, his voice vibrating with finality. "The room is gone. The mats are gone. He has nothing left, and he can never, ever reopen."
 
-### Part 4: Closure – 4:40 PM
+### Part 4: Closure
 
 In the dining room, Jessica let out a fierce, triumphant laugh, high-fiving Janette so hard the sound echoed off the dark-stained table. The teenage guard didn't just feel safe; they felt victorious.
 
@@ -2297,7 +2297,7 @@ The Monday War was officially over. The Ragsdale pack had won.
 
 ## Chapter 7: Jessica’s 15th Birthday (Saturday, October 14, 1995)
 
-### Part 1: A Full Perimeter – 5:00 PM
+### Part 1: A Full Perimeter
 
 By mid-October, the Base Camp had seen its share of high-stress operational days, but Saturday, October 14th, was entirely different. The strict, quiet discipline of the Homebound era was temporarily suspended. The living room perimeter was flooded—not with threats, but with the entire extended pack.
 
@@ -2309,7 +2309,7 @@ And in the absolute center of the chaos, lying perfectly flat in our heavy medic
 
 The physical environment was identical to Ashley’s 10th birthday back in August, but the psychological atmosphere had shifted. The looming, terrifying shadow of the Dojang had been severed ten days earlier by the fluorescent orange eviction notice. The house wasn't bracing for an attack anymore; it was finally allowing itself to breathe.
 
-### Part 2: The Lead Guard – 5:30 PM
+### Part 2: The Lead Guard
 
 Jessica stood at the foot of the sofa bed, holding a paper plate. She was officially fifteen years old.
 
@@ -2321,7 +2321,7 @@ But she also remembered exactly how Ashley had handled her own birthday two mont
 
 Jessica walked around the edge of the coffee table and sat directly on the floor next to the sofa bed, placing herself exactly at our eye level. She didn't complain about the limitations. She just anchored herself to the perimeter, ensuring she was within our direct line of sight.
 
-### Part 3: The Phantom Anchor – 5:45 PM
+### Part 3: The Phantom Anchor
 
 On the mattress, Rachel shifted slightly.
 
@@ -2341,7 +2341,7 @@ The adults stayed in the dining room. The acoustic bleed continued to drift over
 
 ## Chapter 8: The Consecration – Friday, October 20th, 1995
 
-### Part 1: The Midnight Blue Shield – 4:30 PM
+### Part 1: The Midnight Blue Shield
 
 The grandfather clock in the hallway ticked steadily toward half-past four.
 
@@ -2397,7 +2397,7 @@ Rachel didn't speak, but her dark eyes widened as she took in the familiar weigh
 
 "I promised you a formal lesson," April smiled warmly, reading Rachel's gesture perfectly. "And a true student of the *Art* always honors their word."
 
-### Part 2: The Voice of Korea – 4:35 PM
+### Part 2: The Voice of Korea
 
 April stood perfectly still at the edge of the room. She didn't look at us with pity, and she didn't treat the space like a hospital ward. She looked at the floor mattresses, the medical wedges, and the heavy white canvas binders wrapped around our waists, and her expression hardened into a mask of absolute, quiet respect.
 
@@ -2463,7 +2463,7 @@ She wasn't bowing to the colored canvas tied around our waists. She was bowing t
 
 When she finally rose, the air in the house felt fundamentally different. By the absolute, legal authority of the Seonduwon, April had officially overwritten the trauma of the room. The carpet was the mat. The Base Camp was a sanctioned Dojang.
 
-### Part 3: The Shadow Arts – 4:45 PM
+### Part 3: The Shadow Arts
 
 "Alright, class," April announced, transitioning seamlessly into her instructional cadence. "We are going to study the Shadow Arts today. It is a specialized form of training designed entirely around biomechanical isolation."
 
@@ -2553,7 +2553,7 @@ April waited two full seconds before turning back to face the sofa bed. She didn
 
 Rachel took a slow, jagged sip of air. Her terrified posture slowly melted back into the mattress. The adult was gone, the threat was neutralized, and April had effortlessly defended the Dojang. Rachel raised her fists back into position, her dark eyes shining with an absolute, unwavering trust in the 22-year-old standing at the foot of the bed.
 
-### Part 4: The Internal Kihap – 5:15 PM
+### Part 4: The Internal Kihap
 
 "Kman," April called out, raising a hand to stop the drill.
 
@@ -2619,7 +2619,7 @@ Rachel looked up, meeting April's gaze directly. Her dark eyes were shining with
 
 "Your spirit is iron, Rachel," April corrected her, her voice ringing with the absolute, unquestionable authority of the Seonduwon. "And it is louder than anyone else's in this room."
 
-### Part 5: The Official Capacity – 5:30 PM
+### Part 5: The Official Capacity
 
 Before April could officially call an end to the session, I looked past the foot of the sofa bed at the heavy, hardcover book resting on the coffee table.
 

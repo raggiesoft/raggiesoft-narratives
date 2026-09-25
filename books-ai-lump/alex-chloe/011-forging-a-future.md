@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## The Road West
 
-### The Launch
+### Part 1: The Launch
 
 The late August morning on Lisa Court was a study in organized chaos. The now-familiar, accessible Holt Wayfarer minivan stood in the Miller driveway, its sliding door open like a welcoming mouth, ready for the great migration. Beside it, Megan’s Holt sedan gleamed in the pre-dawn light. This wasn't a vacation; it was the final move.
 
@@ -27,7 +27,7 @@ With a final, cheerful honk, the two-car convoy pulled out of the quiet cul-de-s
 
 The great western road was calling, and this time, they were answering it for good.
 
-### The Open Road
+### Part 2: The Open Road
 
 The first day was a marathon, a deliberate, high-mileage push to put the East Coast behind them. Megan took the first driving shift in her sedan, with Sophie as her co-pilot. In the lead was the Holt Wayfarer, with Chloé at the wheel, James navigating from the passenger seat, and Alex in his command center in the middle.
 
@@ -45,7 +45,7 @@ They saw America unfold. The dense forests of Pennsylvania gave way to the flat,
 
 This trip wasn't just a physical journey from one coast to the other. It was a healing one. With every mile they traveled west, the ghosts of the Pathfinder bus, of Vera, of the trauma, receded further and further into the past. This time, he wasn't a prisoner being transported. He was a young man, a husband, a cousin, a son, on the greatest adventure of his life, surrounded on all sides by an unbreakable fortress of love. This time, he was going home.
 
-### Washington
+### Part 3: Washington
 
 The morning of their fifth and final day on the road began in Missoula, Montana, with a new, electric energy in the air. This was it. Today, they would reach their new home.
 
@@ -65,7 +65,7 @@ As they reached the summit of Snoqualmie Pass and began their long, final descen
 
 They had crossed a continent, not as a family on vacation, but as a team on a mission. They had done it right. They had done it with care, with love, and with a shared, unwavering purpose. The long road west was almost over. Their new life, in a new world, was just on the other side of the mountain.
 
-### Seattle
+### Part 4: Seattle
 
 As they descended from the summit of Snoqualmie Pass, the dense evergreen forests of the Cascade Mountains enveloped them. The air grew heavier, carrying the distinct, damp, and clean scent of the Pacific Northwest. They were in a new world.
 
@@ -95,7 +95,7 @@ She made a final turn into the quiet, well-maintained entrance of the "Cedar Par
 
 For a long moment, no one moved. They just sat in their cars, the engines humming quietly, and looked at their new home. The journey was over. The great western road had come to an end, right here, in this quiet parking lot in Lynnwood, Washington. They had done it. They were home.
 
-### Home
+### Part 5: Home
 
 The moving truck from "Interstate Movers" was scheduled to arrive on Monday, but the two-car convoy from Virginia had beaten them by a full day. After five long days on the road, the five of them—Alex, Chloé, Megan, James, and Sophie—stood in the quiet, empty living room of the Lynnwood apartment. It was clean, it smelled of fresh paint, and it was theirs.
 
@@ -121,7 +121,7 @@ To the sounds of driving guitar and soaring female vocals, they went to work. It
 
 They worked for hours, fueled by pizza ordered from a local shop and the powerful, iconic rock music of their new home state. By the end of the night, the apartment wasn't just an empty space; it was a home. Their home. Tired, sore, but profoundly happy, the three of them collapsed onto their newly made bed, a single, indivisible unit, ready for the future they had traveled three thousand miles to begin.
 
-### The Unpacking
+### Part 6: The Unpacking
 
 Monday morning arrived not with an alarm clock, but with the loud, unmistakable rumble of a large moving truck pulling into the "Cedar Park" apartment complex. Alex, Chloé, and Megan all rushed to the living room window.
 
@@ -149,7 +149,7 @@ By the end of the long, exhausting day, the apartment was no longer an empty spa
 
 James and Sophie finally said their goodnights, their mission complete. The three of them stood in the middle of their living room, sore, tired, but profoundly happy. They had done it. They had crossed a continent, and they had built a home. The future was no longer a distant dream on a map; it was here, in the comfortable, happy chaos of their very own living room.
 
-### The First Adventure
+### Part 7: The First Adventure
 
 By late Monday morning, the moving truck was empty, and the apartment was a cozy, chaotic maze of perfectly placed furniture and half-unpacked boxes. James and Sophie, their parental mission of supervising the heavy lifting now complete, sank onto the new sofa with a pair of well-deserved coffees, looking tired but profoundly happy.
 
@@ -177,7 +177,7 @@ A few minutes later, the three of them were out the door. The walk to the transi
 
 As the bus pulled away from the station and merged onto the freeway, heading south towards the glittering skyline of Seattle, Alex sat between his two favorite women in the world. He was not a patient being transported. He was not a passenger in someone else's car. He was just a guy, on a bus, on his way to see a new city, completely and utterly free.
 
-### A Day in the City
+### Part 8: A Day in the City
 
 The TAPS Route 511 express bus dropped them off in the heart of downtown Seattle, directly in front of Midtown Plaza, a bustling, modern shopping center. The energy of the city was a vibrant, chaotic symphony, and the three of them stood on the corner for a moment, tourists in their new home, figuring out a plan.
 
@@ -221,7 +221,7 @@ Megan and Chloé looked at each other and burst out laughing.
 
 The rest of the journey home was a slow, stop-and-go crawl, but the mood in their small section of the bus was light and happy. The day had been an adventure, a success, a promise of a thousand more to come. And now, they were sharing their first, perfectly authentic, and deeply frustrating Seattle-area commute, together. They were no longer just tourists. They were home.
 
-### The Welcome Home
+### Part 9: The Welcome Home
 
 The slow, stop-and-go crawl of the express bus finally gave way to the open roads of Lynnwood. The three of them—Alex, Chloé, and Megan—walked the final few blocks from the transit center to their new apartment, a comfortable, happy exhaustion having settled deep in their bones. The day had been a perfect first adventure.
 
@@ -269,7 +269,7 @@ The long road west was over. Their new life had begun. And in the quiet darkness
 
 ## The First Ecosystem
 
-### The Micro-Test
+### Part 1: The Micro-Test
 
 The dream that had been born on the Newport boardwalk—a future filled with rescued animals—had settled into a quiet, constant hum in the background of their lives. The Lynnwood Discovery and Care Center was a distant, lofty goal. Back in their small apartment, surrounded by the practical realities of university coursework and part-time jobs, the question became: where do we start?
 
@@ -289,7 +289,7 @@ And so, the research began. It was a project they tackled with their now-signatu
 
 Alex, meanwhile, became the architect. He spent his evenings sketching out the aquascape, designing the layout of driftwood and rocks. He meticulously researched the technical specifications, comparing filtration systems for noise level and efficiency, calculating the precise lumens needed for healthy plant growth, and even designing a simple, reliable timer system. For him, it wasn't just a fish tank; it was an accessible, life-sustaining habitat, a design challenge he embraced with his whole heart.
 
-### The Setup (A Week Later)
+### Part 2: The Setup (A Week Later)
 
 The following weekend, their living room was a chaotic but organized construction zone. A large, empty glass tank sat on a sturdy new stand. Bags of specialized, nutrient-rich aquarium substrate were piled on a tarp on the floor.
 
@@ -305,7 +305,7 @@ PERFECT.
 
 Together, they carefully added the substrate, arranged the hardscape, and then began the delicate process of planting the live aquatic plants they had chosen—graceful Amazon swords, feathery Java ferns, and a lush, green carpet of dwarf hairgrass. Finally, they filled the tank with water. Alex installed the high-tech plant light and programmed the timer. For the next two weeks, they patiently let the tank cycle, testing the water, their anticipation building with each passing day.
 
-### The Inhabitants
+### Part 3: The Inhabitants
 
 Finally, the day came. Their little world was stable, the water crystal clear, the plants thriving. The three of them made a trip to a local, highly-regarded aquarium store. It was a quiet, serene place, a library of living creatures.
 
@@ -319,7 +319,7 @@ Instead, after consulting with the knowledgeable store owner, they found the per
 
 They brought their new residents home and, with the gentle, practiced care of three people who understood the fragility of life, they slowly acclimated the fish to their new home before releasing them.
 
-### A Quiet Success
+### Part 4: A Quiet Success
 
 A few weeks later, the aquarium was a breathtaking, living piece of art in their living room. The plants grew lush and green, the fish swam in vibrant, peaceful schools, and the Dwarf Gourami patrolled his kingdom with a slow, regal grace.
 
@@ -329,7 +329,7 @@ Alex reached out, his hand finding Chloé's on one side and Megan's on the other
 
 ## The Evergreen Project
 
-### Weekend Warriors
+### Part 1: Weekend Warriors
 
 The serene, self-contained world of their aquarium was a daily source of quiet joy, but it also sparked a new kind of hunger in them. It was a successful test, but they wanted to do more. After weeks of careful research, Chloé found the perfect place: the "Evergreen Animal Shelter," a well-respected but chronically underfunded non-profit on the other side of town.
 
@@ -337,7 +337,7 @@ Their weekends, once reserved for studying and quiet time, were now dedicated to
 
 Alex, meanwhile, found his niche in the shelter's small, cluttered office. His organizational skills and tech savvy were a godsend for the overworked shelter director, a kind woman named Maria. He spent most of his time meticulously updating their clunky adoption website, creating clear, compelling profiles for each animal, and streamlining their donation database.
 
-### The Beagle and the Blueprint
+### Part 2: The Beagle and the Blueprint
 
 The catalyst for change arrived on a drizzly spring Saturday. The shelter had taken in a sweet-natured beagle mix with a sad story; a spinal injury had left one of his back legs completely paralyzed. He was a happy, affectionate dog, but he moved by awkwardly dragging his useless limb behind him.
 
@@ -351,7 +351,7 @@ WE NEED TO GO BACK TOMORROW, he typed. I NEED TO TAKE SOME MEASUREMENTS.
 
 The next day, while Chloé kept the beagle calm with treats and Megan carefully wrote down the numbers, Alex used a soft measuring tape, meticulously noting the height of the dog's hips, the width of his body, and the length of his good leg. Back home, he translated those numbers into a blueprint. For the next week, their apartment was filled with the low hum of their home 3D printer as Alex prototyped piece after piece, with Megan and Chloé acting as his quality control team, testing different wheel sizes and harness connection points.
 
-### The First Test and a New Role
+### Part 3: The First Test and a New Role
 
 The following Saturday, the three of them returned to the shelter not with leashes and treats, but with a strange, lightweight plastic contraption. It was a simple, custom-designed mobility cart, perfectly tailored to the beagle's measurements.
 

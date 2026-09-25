@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 3: The Broken Door (Tuesday, September 4th, 2001)
 
-### Part 1: Rachel's Fury – 5:30 PM
+### Part 1: Rachel's Fury
 
 The two-week reprieve was officially over. Mom was back from her work trip, the house was no longer ours, and the terrifying reality of the legal separation had finally arrived at the front door.
 
@@ -105,7 +105,7 @@ She didn't want a bath for the hygiene. She wanted the heavy warmth of the water
 
 I leaned forward, resting my elbows on my knees, and locked my eyes firmly with hers. I didn't look anywhere else. I just held her gaze, offering the steady, undeniable proof that I was right there, keeping the world from dragging her away.
 
-### Part 2: The Anchor – 6:00 PM
+### Part 2: The Anchor
 
 The bathroom was thick with warm, fragrant steam, turning the small, tiled space into an insulated, physical cocoon.
 
@@ -143,7 +143,7 @@ But more than the water, it was the unbroken eye contact that was regulating her
 
 We sat there in the steam for a long time. The only sounds were the slow, steady drip of the faucet and the quiet popping of the soap bubbles. The outside world, with its lawyers, its broken doorknobs, and its terrifying ultimatums, was completely locked out. As long as I was sitting right there, holding her gaze, she was perfectly, completely safe.
 
-### Part 3: The Push-Button Lock – 6:45 PM
+### Part 3: The Push-Button Lock
 
 The bubbles eventually began to dissolve, and the heat of the water slowly bled out into the humid air of the bathroom.
 
@@ -201,7 +201,7 @@ We had survived the explosion, and we were safe behind the push-button lock. But
 
 ## Chapter 4: The Inevitable Math (Wednesday, September 5th, 2001)
 
-### Part 1: The Guidance Office – 6:30 AM
+### Part 1: The Guidance Office
 
 The loud, violent hiss of the school bus air brakes and the sharp smell of diesel exhaust usually signaled the start of our rigid daily routine.
 
@@ -253,7 +253,7 @@ Rachel spun around, grabbed my arm with bruising force, and practically dragged 
 
 ## Chapter 5: The Grounded Skies (Tuesday, September 11th, 2001)
 
-### Part 1: The Eerie Silence – 4:00 PM
+### Part 1: The Eerie Silence
 
 The Delaney Street house was suffocatingly quiet.
 
@@ -291,7 +291,7 @@ She didn't ask any more questions. The variables were too massive and too dark t
 
 I didn't let go. I sat there on the sofa bed, holding my little sister as tightly as my arms would allow, listening to the eerie, unnatural silence outside our windows. The court order was still hanging over our heads, and the world had permanently changed, but right here, in this exact moment, we were anchored together. And until the skies opened back up, that was the only thing that mattered.
 
-### Part 2: The Wooden Barricade – 5:30 PM
+### Part 2: The Wooden Barricade
 
 The shadows in the living room were growing long, but neither Rachel nor I made a move to turn on the lamps. We stayed anchored to the center of the sofa bed, wrapped in the heavy, predictable silence of the grounded skies.
 
@@ -339,7 +339,7 @@ The reprieve was real. She didn't have to get on a plane tomorrow, and she didn'
 
 The world outside was a terrifying, unknown variable, and the court order was a ticking time bomb waiting for the airspace to clear. I held her as tightly as I could, the deep pressure of our embrace the only defense we had left against the inevitable math of the divorce.
 
-### Part 3: The Second Barricade – 6:30 PM
+### Part 3: The Second Barricade
 
 After the sound of Dad’s truck completely faded away down Delaney Street, the downstairs sofa bed no longer felt secure. Dad had proven he could walk right up to the front door. We needed a harder boundary, a space where the perimeter was entirely under our control.
 
@@ -383,7 +383,7 @@ Neither of us moved. We didn't care about the food. We didn't care that Mom was 
 
 I leaned back against the headboard, keeping my arm firmly locked around Rachel's shoulders. The world outside was grounded, the house was a hostile environment, but behind the push-button lock of my bedroom door, our sanctuary remained perfectly intact.
 
-### Part 4: System Shutdown – 8:00 PM
+### Part 4: System Shutdown
 
 The silence in the house was absolute, broken only by the faint, rhythmic ticking of the analog clock on my nightstand.
 
@@ -415,7 +415,7 @@ I squeezed her hand back, resting my forehead against her shoulder blade. Outsid
 
 ## Chapter 6: The Compromised Perimeter (Wednesday, September 12th, 2001)
 
-### Part 1: The Broken Routine – 5:45 AM
+### Part 1: The Broken Routine
 
 The harsh, electronic beeping of my alarm clock shattered the heavy silence of the bedroom.
 
@@ -471,7 +471,7 @@ Rachel squeezed her eyes shut, pressing her forehead against my shoulder. For a 
 
 We were officially playing hooky. But as the sound of the bus faded away, leaving the house completely silent and empty, the tight, suffocating knot in my chest finally loosened. We had broken the rules, but we were still together.
 
-### Part 2: The Afternoon Siege – 11:30 AM
+### Part 2: The Afternoon Siege
 
 The morning stretched out in an agonizing, slow-motion crawl.
 
@@ -521,7 +521,7 @@ The push-button lock on my bedroom door suddenly felt incredibly fragile. The ai
 
 ## Chapter 7: The Loophole (Monday, September 17th, 2001)
 
-### Part 1: The Bleeding Finances – 2:15 PM
+### Part 1: The Bleeding Finances
 
 The national airspace had technically reopened a few days ago, but the logistical reality was a complete, gridlocked nightmare. The news stations were showing endless footage of massive, chaotic lines at airport ticketing counters. The system was severely backlogged with tens of thousands of stranded passengers, and getting a new flight out of Norfolk International was mathematically impossible for anyone at the back of the line.
 
@@ -555,7 +555,7 @@ Rachel leaned forward, her face inches from the phone’s microphone. "I am not 
 
 "The court order says you get custody when you have *suitable housing*," Rachel fired back, weaponizing the exact legal phrasing he had used against us. "A single hotel room with two beds and one bathroom is not suitable housing. It doesn't give a fourteen-year-old teenage girl any privacy. It is temporary lodging. You don't have a house here. So, I am not going."
 
-### Part 2: The Living Hell – 2:30 PM
+### Part 2: The Living Hell
 
 Dead silence fell over the speakerphone.
 
@@ -599,7 +599,7 @@ We had successfully defended the perimeter again, using the adult world's rules 
 
 ## Chapter 8: The Departure (Thursday, September 20th, 2001)
 
-### Part 1: The Bright Idea – 8:00 AM
+### Part 1: The Bright Idea
 
 The two floral-print suitcases sat by the front door like heavy, physical gravestones.
 
@@ -629,7 +629,7 @@ Dad froze, his hand tightening on the plastic luggage handle. He looked at Rache
 
 He turned his back, dragging the first suitcase out onto the concrete porch.
 
-### Part 2: The Assumption – 8:15 AM
+### Part 2: The Assumption
 
 Mom walked out of the kitchen, clutching a crumpled tissue in her hand. Her eyes were red and swollen.
 
@@ -653,7 +653,7 @@ Everyone was crying. Mom was sobbing into her tissue. Jessica was weeping over t
 
 But I didn't cry. My brain had bypassed the emotion and locked entirely into survival mode. I walked down the final step, stepping directly between Rachel and our parents.
 
-### Part 3: The Calling Cards – 8:30 AM
+### Part 3: The Calling Cards
 
 Mom reached into the pocket of her cardigan. She completely ignored Dad, stepping around me to press a thick, heavy stack of plastic cards into Rachel's trembling hands.
 

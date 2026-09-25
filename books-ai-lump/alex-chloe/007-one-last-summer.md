@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## A Pacific Northwest Interlude: Summer After Graduation (2003)
 
-### Exploring Seattle and Lynnwood
+### Part 1: Exploring Seattle and Lynnwood
 
 The summer after high school graduation stretched before Alex Miller and Chloé Mason, a bittersweet expanse of freedom before the major life change of Chloé heading off to Northwest Pacific University in Seattle. Alex would be starting at the local community college in Virginia Beach, a practical choice, but the thought of daily life without Chloé’s constant presence was a daunting shadow.
 
@@ -17,7 +17,7 @@ They flew out together, Alex handling the airport navigation with his AAC and pr
 
 The first few days were a blur of Pacific Northwest sights. They rode the monorail in Seattle, visited the bustling Pike Place Market (Chloé describing the vibrant colors and Alex the cacophony of sounds via his AAC), and took a ferry across the Sound, the cool breeze a refreshing change from the Virginia humidity. Chloé showed him the NPU campus, pointing out the library where she’d be spending countless hours and the student union. Alex, in turn, asked insightful questions, his interest genuine, his presence a quiet support for her upcoming adventure.
 
-### A Special Evening
+### Part 2: A Special Evening
 
 The city lights of Lynnwood cast a soft glow through the window of their accessible hotel room, painting long shadows. Alex Miller and Chloé Mason, both eighteen and on the cusp of significant life changes, were settled into the spacious king-sized bed. It was their second to last night of this "last big adventure" before Chloé started at Northwest Pacific University. They were dressed in comfortable pajamas, the day’s explorations of Seattle and the NPU campus having left them pleasantly tired. Alex might have been listening to music on his headphones, Chloé perhaps reading, a comfortable silence between them.
 
@@ -69,7 +69,7 @@ The city lights outside cast long shadows as they simply lay there, holding hand
 
 *Sex Scene Skipped per Safety Guidelines*
 
-### The Afterglow
+### Part 3: The Afterglow
 
 Later, wrapped in the soft darkness of their shared hotel bed, a profound quiet filled the room. The city still hummed outside, but within their haven, there was only the gentle sound of their breathing. Alex lay beside Chloé, her head resting on his shoulder, his arm loosely around her. A sense of deep peace, a novel kind of contentment, settled over him. It was different from the purely comforting closeness they’d always shared, yet it was also an extension of it – a new layer of intimacy built upon the bedrock of their unshakeable platonic bond.
 
@@ -105,7 +105,7 @@ A profound sense of peace washed over Alex. She understood completely. It wouldn
 
 They drifted back to sleep, entwined not in the fire of a new romance, but in the warm, steady glow of a friendship that had dared to explore, and gently define, a new dimension of intimacy. It would simply become another quiet facet of their already profound platonic life partnership, an occasional current in the deep ocean of their trust and affection, resurfacing if and when they both felt it was right, without pressure or expectation, always secondary to the unwavering foundation of their best friendship. Their last big adventure before college had indeed become one for the memory books, opening a new, gently acknowledged, and always mutually defined chapter.
 
-### A New Threshold of Trust
+### Part 4: A New Threshold of Trust
 
 The next evening, after another day spent exploring Lynnwood, a quiet, domestic comfort settled over their hotel room. The trip, which had started as a "last big adventure," was beginning to feel less like a vacation and more like a preview of their future life together.
 
@@ -131,7 +131,7 @@ A little while later, they were settled back in their king-sized bed. Alex was r
 
 ## A Very Hard Goodbye
 
-### Two Separate Worlds
+### Part 1: Two Separate Worlds
 
 The drive to Norfolk International Airport (ORF) was the quietest car ride Alex Miller had ever experienced. All six of them—his parents and Chloé's—were in the Masons' minivan, a silent, somber procession escorting Chloé to her future. The summer, which had begun with the exciting adventure of their trip to Lynnwood, was now ending, and with it, the unbroken, daily reality of his life with Chloé.
 
@@ -169,7 +169,7 @@ She gave his hands one last, lingering squeeze. "I have to go, or I'll miss my f
 
 With a final, tearful smile that was the bravest thing he had ever seen, she turned and walked through the security gate, not looking back. Alex watched her go, a part of his heart, his anchor, his entire world, walking away down the concourse. He was still surrounded by the love of his family, but in that moment, a profound and terrifying loneliness, the very one he had feared for so long, began to settle over him like a cold, heavy blanket.
 
-### The Soundtrack to a Heartbreak
+### Part 2: The Soundtrack to a Heartbreak
 
 The drive home from Norfolk International Airport was a study in quiet, heartbreaking sorrow. James Miller drove, his knuckles white on the steering wheel, his eyes fixed on the road. Emily sat in the back beside Alex, her arm wrapped around her son's shaking shoulders, her own tears falling silently.
 
@@ -193,7 +193,7 @@ I NEED A HUG. A CHLOÉ HUG.
 
 Emily let out a small, choked sob, pulling him closer, knowing her own loving embrace wasn't the one he needed. The long, silent ride back to Lisa Court continued. The void in Alex’s life, the one Chloé had so completely and wonderfully filled, was now open, raw, and waiting. It was a vulnerability so profound that it would leave him tragically susceptible to the false promises of the first person who offered to fill it.
 
-### A Night in an Empty Room
+### Part 3: A Night in an Empty Room
 
 The Miller house on Lisa Court was suffocatingly quiet. They had been home from the airport for an hour, but Alex hadn't stopped crying. He was in his room, the door open, his body still shaking with silent, ragged sobs. His parents hovered, their hearts breaking, offering him food he wouldn't eat and words of comfort that couldn't penetrate the wall of his grief. Chloé was in the air, somewhere between Virginia and Las Vegas, completely unreachable. He was untethered.
 
@@ -209,7 +209,7 @@ Later that night, long after the parents had said their sorrowful goodnights, Al
 
 Chloé's room was just as she'd left it. It smelled of her, a faint, clean scent of her shampoo. He transferred from his chair to her bed, the movements automatic. The sheets were cool, and they didn't feel right. Her warmth was missing. As he shifted onto her pillow, his fingers brushed against something fine and soft. He picked it up. In the faint moonlight, he could see it: a single, long strand of her coppery red hair. A tiny, physical piece of her, left behind. A fresh wave of gut-wrenching sobs overtook him, the most painful yet, because this was the closest he could get to her, and she was still a thousand miles away. He cried until there were no tears left, clutching the single strand of hair, a fragile, tangible link to his best friend.
 
-### The First Lifeline (Las Vegas)
+### Part 4: The First Lifeline (Las Vegas)
 
 Hours later, Alex was dozing in a shallow, restless sleep in Chloé's bed when the shrill ring of a telephone pierced the quiet of the Mason house. His heart leaped. He quickly transferred back into his wheelchair, his mind foggy with sleep and grief, and raced across the lawn to his own house, but the phone had already stopped ringing. He found his parents in the kitchen, a look of profound urgency on their faces.
 
@@ -231,7 +231,7 @@ I MISS YOU SO MUCH, the device voiced, the words raw and full of the night's lon
 
 They talked for the entire layover. He told her about finding her hair on the pillow, and she cried a little. She told him about the movie on the plane, and he was comforted by the simple, normal detail. Her voice was a steady, calming presence that slowly began to chase away the terror.
 
-### A Voice Across the Continent (Seattle)
+### Part 5: A Voice Across the Continent (Seattle)
 
 It was nearly 1:00 AM in Virginia when the phone rang again. This time, all four parents and Alex were gathered in the Millers' living room, waiting.
 
@@ -245,7 +245,7 @@ He reached for his AAC device, his fingers finally steady. I WAS WAITING, the de
 
 "Oh, Alex, I miss you too," she said, her voice choked with tears. "So, so much. I hate this. But I'm okay. And you're going to be okay. It's just until Christmas, remember? I promise."
 
-### Home Safe (Lynnwood)
+### Part 6: Home Safe (Lynnwood)
 
 An hour later, the phone rang one last time.
 

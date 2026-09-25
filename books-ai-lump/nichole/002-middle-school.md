@@ -7,7 +7,7 @@ series: "Nichole"
 
 ## The Test Run
 
-### The Curb Trap
+### Part 1: The Curb Trap
 
 Date: August 28, 1996 (Three days before 6th Grade)
 
@@ -95,7 +95,7 @@ Ellen looked down the street at the school, then at her kids. "I'm calling the c
 
 ## The Yellow Wall
 
-### Arrival at Morrison Middle School
+### Part 1: Arrival at Morrison Middle School
 
 Date: September 3, 1996 (First Day of 6th Grade) Time: 07:45 AM Location: The Corner of Earnhardt & Morrison
 
@@ -183,7 +183,7 @@ She looked at Patrick and tapped her temple. *Crazy.*
 
 ## Middle School Life (Working Title)
 
-### The Fire Alarm
+### Part 1: The Fire Alarm
 
 ## Date: October 14, 1996 Time: 11:00 AM Location: Morrison Middle School, Virginia Beach Grade: 6th Grade
 
@@ -355,7 +355,7 @@ He turned back to Patrick.
 
 He turned the chair around, putting his back to the Principal, and pushed Nichole toward the far edge of the blacktop, away from the administration, away from the apology, and toward the only safety that mattered.
 
-### The Call
+### Part 2: The Call
 
 ## Time: 11:30 AM Location: The Bennett Kitchen (3 Blocks Away)
 
@@ -1135,7 +1135,7 @@ HIRED.
 
 It was official. The Bennett Machine was no longer a rogue operation. It was district policy.
 
-### The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
+### Part 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
 
 The victory had lasted exactly twenty-eight days.
 
@@ -1323,7 +1323,7 @@ Tom looked at his son—eleven years old, carrying a burden most men never faced
 
 Patrick went inside. Tom stayed in the garage, listening to the silence, praying that the only fires Morrison Middle School ever saw were the ones on paper.
 
-### The Third Wheel
+### Part 4: The Third Wheel
 
 ## Date: November 12, 1997 Grade: 7th Grade Location: Mrs. Miller’s Life Science Room, Morrison Middle School
 
@@ -1413,7 +1413,7 @@ Nichole poised her finger over the VocaLink's thermal printer button. She wasn't
 
 "Let's build a cell," Patrick said.
 
-### The Architect and the Laborer
+### Part 5: The Architect and the Laborer
 
 ## Date: November 12, 1997 Time: 10:45 AM Location: Mrs. Miller’s Life Science Room
 

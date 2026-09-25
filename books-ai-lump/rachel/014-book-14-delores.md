@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Quiet Void (Thursday, September 2, 2004)
 
-### Part 1: The Last of the Pack – 8:00 AM (EDT)
+### Part 1: The Last of the Pack
 
 The silence inside Unit A5 was heavy and absolute.
 
@@ -73,7 +73,7 @@ An hour later, Mom's sedan idled briefly in front of 801 Greenway Court. I stepp
 
 The silence inside was completely deafening without Archie's collar jingling or Ashley's quiet typing at the desk. I was entirely alone in my perimeter. I sat down at my computer, pulled up the transit schedule, and began calculating the exact timing for the CVTA bus routes into downtown. I focused entirely on the math of the evening, locking my processor onto the rigid structure of the schedule so I wouldn't have to think about the empty room.
 
-### Part 2: The Solo Transit – 12:15 PM (EDT)
+### Part 2: The Solo Transit
 
 I couldn't sit in the silent apartment anymore.
 
@@ -103,7 +103,7 @@ Directly across the bustling hall, sitting like a polished, neon oasis in the mi
 
 I didn't overthink the math. I gripped the straps of my backpack, stepped off the elevator, and walked straight toward the diner. A hot burger and a quiet booth sounded like the perfect, predictable algorithm to reset my system and kill some time.
 
-### Part 3: The Time Sync – 1:30 PM (EDT)
+### Part 3: The Time Sync
 
 After finishing my lunch at The Orbit Diner, I slung my heavy nylon backpack over my shoulders and headed back out into the sweltering heat of Downtown Norfolk. I had hours to kill, and I desperately needed a quiet, structured environment to burn through the afternoon.
 
@@ -131,7 +131,7 @@ I turned away from the lobby doors. I still had plenty of time before the theate
 
 I adjusted the heavy straps of my backpack and decided to loop right back across the plaza to The Admiral Center. I could hit the third-floor food court, grab a quick, predictable dinner at Crown Burger, and then make the short walk over to the Roper. It was a solid, low-friction algorithm for a Friday night, and it kept the silence of the apartment at bay for just a little while longer.
 
-### Part 4: The Ticket Line – 6:45 PM (EDT)
+### Part 4: The Ticket Line
 
 The lobby of the CCHR Roper Performing Arts Center was packed, buzzing with the loud, echoing hum of college students and downtown locals waiting for the theater doors to open.
 
@@ -197,7 +197,7 @@ The room erupted. Cheers, heavy applause, and loud shouts of agreement echoed of
 
 Delores clapped her hands, looking over at me with a bright, energized smile. The sheer, overwhelming unity of the crowd was infectious. I found myself clapping along with her, a sudden, powerful dopamine hit flooding my system. For the first time all day, the heavy, crushing silence of my empty apartment was completely gone. I wasn't sitting alone in the void left by my sisters and Ashley; I was part of a collective, aligned with a girl who saw the exact same clear-cut rules of the world that I did.
 
-### Part 5: The Midtown Transfer – 9:00 PM (EDT)
+### Part 5: The Midtown Transfer
 
 The credits began to roll, and the house lights of the Roper Performing Arts Center flickered back on, breaking the heavy, polarized spell of the documentary.
 
@@ -265,7 +265,7 @@ I let out a slow, shaky breath in the empty studio, wishing more than anything t
 
 ## Chapter 2: The Gateway (Friday, September 3, 2004)
 
-### Part 1: The Morning Call – 7:00 AM (EDT)
+### Part 1: The Morning Call
 
 I woke up at exactly seven o'clock, the morning sunlight cutting sharply through the blinds of Unit A5.
 

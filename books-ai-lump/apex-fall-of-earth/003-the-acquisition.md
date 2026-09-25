@@ -7,7 +7,7 @@ series: ""
 
 ## Wyatt – Orientation Day
 
-### The Powder Keg – Thursday, October 20, 2044 – ~05:00
+### Part 1: The Powder Keg – Thursday, October 20, 2044 – ~05:00
 
 Wyatt led Hayes down the grated metal catwalks of Sector 4. The air here was colder, smelling intensely of ozone and burning coolant. Below them, massive, automated drill rigs pounded into the Nevada bedrock with a rhythmic, bone-rattling thud.
 
@@ -43,7 +43,7 @@ Wyatt gave Hayes a subtle shake of his head and pointed his heavy flashlight dow
 
 She nodded, understanding perfectly. They both slipped away from the lab in total silence, leaving the scientists to their panic, and continued their march into the dark.
 
-### The Chain of Command – Thursday, October 20, 2044 – ~06:00
+### Part 2: The Chain of Command – Thursday, October 20, 2044 – ~06:00
 
 Wyatt kept moving deeper into Sector 4, the metal grating of the catwalk ringing softly under his heavy steel-toed boots. Hayes was right behind him, her flashlight beam sweeping the shadows in steady, disciplined arcs. She was learning fast.
 
@@ -73,7 +73,7 @@ Wyatt caught Hayes's eye and gave a curt nod toward the descending stairs. *Move
 
 They both slipped away from the booth, descending deeper into the suffocating heat of the excavation levels, leaving the armed guard to his doomed phone call.
 
-### The Maintenance Closet – Thursday, October 20, 2044 – ~07:00
+### Part 3: The Maintenance Closet – Thursday, October 20, 2044 – ~07:00
 
 Wyatt guided Hayes off the main catwalk, slipping into a narrow alcove hidden behind a massive, humming filtration bank. There was an unmarked, heavy steel door; he pulled the latch, checked the dark interior with his flashlight, and waved her inside.
 
@@ -119,7 +119,7 @@ Wyatt looked at the 18-year-old kid sitting across from him. He knew this facili
 
 "Deal."
 
-### The Grind – Thursday, October 20, 2044 – ~08:00
+### Part 4: The Grind – Thursday, October 20, 2044 – ~08:00
 
 Wyatt stepped back out of the maintenance closet and into the deafening hum of Sector 4. The heavy, lead-lined door clicked shut behind them, and the internal tracker on his standard-issue PDA violently pinged back to life, the warning yellow fading into a compliant, steady green. They were back on the grid.
 
@@ -149,7 +149,7 @@ She was coachable, and she genuinely wanted to pull her weight. She wanted to ea
 
 He was glad she was the one who had walked through that turnstile.
 
-### The Break – Thursday, October 20, 2044 – ~11:00 (Six hours into the shift)
+### Part 5: The Break – Thursday, October 20, 2044 – ~11:00 (Six hours into the shift)
 
 Six hours into the shift, the overhead PA system chimed with a dull, two-tone electronic bell. Mid-shift meal rotation.
 
@@ -197,7 +197,7 @@ Wyatt finished the last bite of his chalky ration bar, feeling a strange, unfami
 
 "Yeah," he agreed quietly, offering a small, grounded smile. "I think we can."
 
-### 42-C – Thursday, October 20, 2044 – ~17:00 (The twelve-hour mark hit)
+### Part 6: 42-C – Thursday, October 20, 2044 – ~17:00 (The twelve-hour mark hit)
 
 The twelve-hour mark hit, and the overhead PA system let out a long, droning buzz. Shift change.
 
@@ -253,7 +253,7 @@ He closed his eyes, holding her tight, and drifted off to sleep.
 
 ## The Second Shift
 
-### Wake Up Call – Friday, October 21, 2044 – 01:00 (After sleeping for eight hours)
+### Part 1: Wake Up Call – Friday, October 21, 2044 – 01:00 (After sleeping for eight hours)
 
 The jarring, two-tone blare of the shift-change klaxon cut through the heavy air of the barracks.
 
@@ -329,7 +329,7 @@ A bright, genuine smile broke across Sarah's face, completely cutting through th
 
 "Agreed," she said, slipping the datapad into her pocket. She bumped her shoulder lightly against his. "Come on. Let's go get breakfast."
 
-### The Morning Ration – Friday, October 21, 2044 – ~01:15
+### Part 2: The Morning Ration – Friday, October 21, 2044 – ~01:15
 
 Wyatt merged into the sluggish stream of gray-clad contractors heading down the neon-lit corridors toward the Mess Hall. The harsh fluorescent lights hummed their usual migraine-inducing tune, and the air smelled like the same stale mix of sweat, floor wax, and industrial dust.
 
@@ -369,7 +369,7 @@ She reached across the table, her smaller hand briefly resting over his scarred 
 
 Wyatt gave her hand a short, reassuring squeeze before pulling back, picking up his plastic spork. "Good. Now eat your paste. We've got a twelve-hour patrol ahead of us, and we need the calories."
 
-### The Checkpoint – Friday, October 21, 2044 – ~01:30
+### Part 3: The Checkpoint – Friday, October 21, 2044 – ~01:30
 
 Wyatt tossed his empty, stamped-metal tray into the magnetic reclamation bin. Sarah dropped hers right after him, the metallic clatter lost in the low, anxious hum of the Mess Hall.
 
@@ -415,7 +415,7 @@ Wyatt unclipped his flashlight, the heavy metal casing cool against his taped pa
 
 They both turned and began the long, steep descent into the suffocating heat and deafening noise of the lower excavation levels, leaving the checkpoint behind.
 
-### The Telemetry Anomaly – Friday, October 21, 2044 – ~02:00
+### Part 4: The Telemetry Anomaly – Friday, October 21, 2044 – ~02:00
 
 Wyatt guided Sarah off the primary elevator and onto the grated metal catwalks of Sector 4. The heat hit them instantly, rolling up from the deep-core shafts like a physical wave. The air tasted heavily of ozone, pulverized rock, and burning coolant.
 
@@ -481,7 +481,7 @@ As she walked past him, her posture was distinctly different. Her shoulders were
 
 Wyatt fell in right behind her, his broad frame shielding her back as they disappeared into the maze of rusted filtration tanks. He was the armor, she was the compass, and together, they were going to survive this week.
 
-### The Anchor – Friday, October 21, 2044 – ~03:00
+### Part 5: The Anchor – Friday, October 21, 2044 – ~03:00
 
 Wyatt followed Sarah into the dense, rusted labyrinth of the outer filtration banks. The air here was noticeably cooler, choked with a thick layer of pale Nevada dust that the automated scrubbers had long since stopped cleaning. The heavy lead shielding in the walls created a dead zone, and the ambient roar of the deep-core drills faded to a dull, distant throb.
 
@@ -553,7 +553,7 @@ They both clipped their flashlights back onto their belts and stepped out of the
 
 They were in absolute sync. The tension of the unknown was gone, replaced by a quiet, steady comfort. Apex Defense Solutions might be cracking at the foundations, but as Wyatt listened to her footsteps falling perfectly in rhythm with his, they both knew exactly what they had to hold onto.
 
-### The Ghost Shift – Friday, October 21, 2044 – 07:00 (Six more hours until shift change)
+### Part 6: The Ghost Shift – Friday, October 21, 2044 – 07:00 (Six more hours until shift change)
 
 Wyatt led Sarah out of the lead-lined filtration banks and back onto the primary catwalks of Sector 4. The ambient roar of the deep-core drills swallowed the silence of their makeshift sanctuary, but the heavy, crushing anxiety that usually accompanied the noise was completely gone. They both knew exactly where they stood now.
 
@@ -611,7 +611,7 @@ The Apex facility around them was a rusted, failing nightmare on the brink of a 
 
 "Just six hours," Wyatt agreed, the thought of that thirty-inch mattress suddenly feeling like a luxury suite. He wrapped his arm fully around her shoulders, pulling her flush against his side as they continued down the empty corridor. "We'll take the scenic route."
 
-### The Blind Spot – Friday, October 21, 2044 – ~08:00 (During the one-hour meal rotation)
+### Part 7: The Blind Spot – Friday, October 21, 2044 – ~08:00 (During the one-hour meal rotation)
 
 The "scenic route" through the abandoned filtration sectors led them away from the deafening thud of the deep-core drills and into the forgotten veins of the facility. Wyatt kept Sarah’s hand securely wrapped in his, pulling her slightly ahead of him as they navigated a narrow, rusted access corridor.
 
@@ -673,7 +673,7 @@ She pulled him down for one last, deeply romantic kiss. Her tongue slipped past 
 
 He pushed open the heavy blast doors, their flashlights clicking back on. They stepped out into the corridor, pretending to be nothing more than two isolated, minimum-wage contractors walking the line. But under the harsh fluorescent lights of Sector 4, their hands still brushed together with every step.
 
-### The Ghost Roster – Friday, October 21, 2044 – 10:00 (Two hours later)
+### Part 8: The Ghost Roster – Friday, October 21, 2044 – 10:00 (Two hours later)
 
 Wyatt stepped back out onto the grated catwalk of Sector 4, the heavy, rusted blast door of the abandoned break area clunking shut behind them. The deafening, ambient roar of the deep-core drills instantly washed back over him, vibrating up through his heavy boots.
 
@@ -739,7 +739,7 @@ She looked up at him, the chaos of Sector 1 completely fading into the backgroun
 
 Wyatt led her away from the checkpoint, descending back into the blistering heat and deafening noise of the lower sectors to finish the second half of Day 2. Apex Defense Solutions might have stolen their bed, but as they walked hand-in-hand through the shadows, they both knew the company had inadvertently given them something infinitely better.
 
-### The Sanctuary – Friday, October 21, 2044 – 11:00 (With two hours left on the twelve-hour clock)
+### Part 9: The Sanctuary – Friday, October 21, 2044 – 11:00 (With two hours left on the twelve-hour clock)
 
 With two hours left on the twelve-hour clock, Wyatt subtly steered the patrol route back through the neglected outer filtration banks. The deafening thud of the deep-core drills faded into a distant, manageable throb. He kept his hand firmly laced with Sarah’s, their thumbs tracing slow circles against each other as they navigated the rusted, dust-choked corridors.
 
@@ -797,7 +797,7 @@ So, as they approached a lit intersection, they both consciously dropped the smi
 
 But out of their line of sight, hidden in the narrow space between their bodies, Sarah’s pinky finger reached out and quietly hooked around his. Wyatt squeezed it once. The secret was completely safe.
 
-### Off the Clock – Friday, October 21, 2044 – 13:00 (The twelve-hour klaxon finally screamed)
+### Part 10: Off the Clock – Friday, October 21, 2044 – 13:00 (The twelve-hour klaxon finally screamed)
 
 The twelve-hour klaxon finally screamed, a harsh, mechanical wail echoing down the grated catwalks of Sector 4. Around them, the few contractors who actually made it to the end of their perimeter routes slumped their shoulders in collective, crushing relief.
 
@@ -847,7 +847,7 @@ Wyatt didn't answer with words. He just pulled her back in.
 
 *\[The scene fades to black, the ambient hum of the facility's distant machinery masking the quiet, profound reclamation of their humanity as Apex's control over them finally breaks for the night. Note: we’re skipping over an exploratory sexual encounter, to comply with safety guidelines. Also, this is when the triplets (Ellie, Nora, and Leo) are conceived – we don’t know it yet, but the birth control Sarah was given was nothing more than a lie and a cheap placebo.\]*
 
-### Return to The Sanctuary – Friday, October 21, 2044 – ~13:30 (Setting up camp in the abandoned break room)
+### Part 11: Return to The Sanctuary – Friday, October 21, 2044 – ~13:30 (Setting up camp in the abandoned break room)
 
 Wyatt lay in the dim, quiet shadows of the barricaded break room, their abrasive black Apex armor and crisp slate-blue Helios uniform hastily arranged into a makeshift pallet on the floor. The heavy, industrial roar of Sector 4 was nothing more than a muffled vibration in the floorboards.
 
@@ -917,7 +917,7 @@ Sarah let out a long, contented sigh against his chest, her breathing already st
 
 ## Day Three
 
-### The Illusion of Control – Saturday, October 22, 2044 – 05:00 (PDA alarm goes off at 0500 hours)
+### Part 1: The Illusion of Control – Saturday, October 22, 2044 – 05:00 (PDA alarm goes off at 0500 hours)
 
 The harsh, two-tone wail of the facility’s shift-change klaxon didn’t reach Wyatt. Deep inside the lead-lined walls of the abandoned filtration sector, behind a heavy blast door wedged shut with a steel pipe, the morning arrived in absolute, undisturbed silence.
 
@@ -987,7 +987,7 @@ They were both completely unaware that the bored, terrified Supervisor behind th
 
 Instead, Wyatt unclipped his flashlight, ready to march back down into the suffocating heat of the failing facility, determined to keep up the charade just to keep her safe.
 
-### The Veterans – Saturday, October 22, 2044 – ~05:15
+### Part 2: The Veterans – Saturday, October 22, 2044 – ~05:15
 
 Wyatt and Sarah carried their dented metal trays away from the wall dispensers, scanning the packed Mess Hall for an empty spot. The deafening hum of the room was different today—more chaotic, underscored by the nervous energy of the two hundred new S.H.O.P. contractors who had arrived last night.
 
@@ -1041,7 +1041,7 @@ Wyatt and Sarah finished their synthetic breakfast in comfortable, unified silen
 
 But as they turned their backs on the Mess Hall and headed toward the Security Checkpoint, they both knew the truth. They weren't surviving this place by toeing the line. They were surviving it by breaking every rule the company had, and as long as they had that barricaded break room waiting for them, they could play this game forever.
 
-### The Echo – Saturday, October 22, 2044 – ~05:30
+### Part 3: The Echo – Saturday, October 22, 2044 – ~05:30
 
 Wyatt led the way out of the Mess Hall, tossing his empty tray into the reclamation bin. Sarah was right at his side, her steps perfectly synchronized with his. A few paces behind them, Miller and the new girl were following closely in their wake, instinctively using his broad, 6'1" frame to part the sea of aggressive, gray-clad contractors heading toward the Security Checkpoint.
 
@@ -1101,7 +1101,7 @@ Sarah stepped up flush against his side, entirely ignoring the six-inch professi
 
 Wyatt squeezed her hand, setting a slow, relaxed pace down the empty industrial corridor. He had ten hours left to kill before they could disappear back into their sanctuary, but walking the line with her fingers locked in his, the shift didn't feel like a punishment anymore.
 
-### The Bleeding Bedrock – Saturday, October 22, 2044 – ~06:00
+### Part 4: The Bleeding Bedrock – Saturday, October 22, 2044 – ~06:00
 
 Wyatt and Sarah wandered off the primary catwalks, taking advantage of the blind spots in the surveillance grid to walk hand-in-hand through the blistering lower levels of Sector 4. The deeper they went, the more the air felt like a physical weight. It wasn't just the oppressive heat and the failing ventilation scrubbers whining in a desperate pitch. The gravity itself felt distinctly wrong down here—heavier and more punishing than the standard gravity on either of their home planets, dragging at their steel-toed boots with every step. The stench of sulfur and burning copper was thick enough to taste.
 
@@ -1159,7 +1159,7 @@ He broke the kiss just long enough to catch his breath, their foreheads resting 
 
 They both sat down on the narrow sofa, pulling the heavy deployment sleeping bag over their legs. Wyatt wrapped his arms completely around her, and she melted into his side, resting her head on his chest. Apex might be digging its own grave outside that barricaded door, but right now, hidden in the dark, Wyatt had the only thing in the universe he actually cared about. He just held her, determined to cherish every single second they had left together.
 
-### The Pact – Saturday, October 22, 2044 – ~07:00
+### Part 5: The Pact – Saturday, October 22, 2044 – ~07:00
 
 The heavy steel pipe was wedged firmly under the door handle. The dead air of the abandoned break room was completely still, a stark contrast to the vibrating, bleeding nightmare of Sector 4 just on the other side of the bulkhead.
 
@@ -1217,7 +1217,7 @@ Wyatt walked over to the heavy blast door, gripped the decommissioned steel pipe
 
 He heaved the door open, stepping back out into the deafening, sulfur-choked reality of Sector 4. But as they resumed the patrol, walking shoulder-to-shoulder down the grated catwalk, the facility didn't feel like a tomb anymore. It was just an obstacle standing between them and the rest of their lives.
 
-### Clear Parameters – Saturday, October 22, 2044 – ~08:00 (About twenty minutes into the patrol)
+### Part 6: Clear Parameters – Saturday, October 22, 2044 – ~08:00 (About twenty minutes into the patrol)
 
 Wyatt stepped out of the sanctuary, the heavy, rusted blast door screeching slightly before clunking shut behind them. The oppressive, sulfur-choked heat of Sector 4 hit him immediately, replacing the quiet intimacy of the break room with the deafening, bone-rattling roar of the deep-core drills.
 
@@ -1283,7 +1283,7 @@ She stepped closer, entirely ignoring the six-inch professional gap. Without mis
 
 They continued down the catwalk, the oppressive weight of the Apex facility completely neutralized by the warmth of her fingers interlocked with his. The corporation thought it owned everyone down here, but the human spirit was quietly organizing in the dark.
 
-### The Masterclass – Saturday, October 22, 2044 – 11:00 (Mid-shift PA chime)
+### Part 7: The Masterclass – Saturday, October 22, 2044 – 11:00 (Mid-shift PA chime)
 
 The mid-shift PA chime rang a dull, two-tone electronic bell over the Sector 4 intercoms, barely cutting through the ambient roar of the facility. The mandatory, unpaid lunch break had started.
 
@@ -1333,7 +1333,7 @@ Wyatt clipped his heavy Mark-IV flashlight to his belt, watching as Sarah did th
 
 He pulled the steel pipe out from under the handle and heaved the blast door open, stepping back out into the deafening roar of the facility, fully recharged and ready to face the second half of Day 3.
 
-### The Ping – Saturday, October 22, 2044 – 12:00 (An hour into the second half of the shift)
+### Part 8: The Ping – Saturday, October 22, 2044 – 12:00 (An hour into the second half of the shift)
 
 Wyatt stepped back onto the primary catwalks of Sector 4, the heavy blast door of their sanctuary locked safely behind them. The oppressive, sulfur-choked heat of the excavation levels swallowed them whole, replacing the quiet intimacy of the break room with the deafening, bone-rattling roar of the deep-core drills.
 
@@ -1383,7 +1383,7 @@ But the PDAs remained silent. No more pings came through the network. The panick
 
 Still, Wyatt and Sarah didn't drop their guard for a single second. Apex Defense Solutions had proven that it was a sleeping, heavily armed giant. The facility was actively breaking apart, and the corporate chain of command was fraying at the edges. They walked the remainder of Day 3 in hyper-aware silence, counting every agonizing minute until the twelve-hour klaxon finally screamed, desperate to get back to the one room in this hellhole where Apex couldn't touch them.
 
-### The Prison Break – Saturday, October 22, 2044 – 17:00 (The twelve-hour klaxon)
+### Part 9: The Prison Break – Saturday, October 22, 2044 – 17:00 (The twelve-hour klaxon)
 
 The deafening, mechanical wail of the twelve-hour klaxon finally bled through the heavy air of Sector 4. The shift was over.
 
@@ -1445,7 +1445,7 @@ Sarah didn't flinch at the treason. A sharp, brilliant light sparked in her eyes
 
 They shared a loaded, desperate look, the romantic pact from the sofa now evolving into a full-blown corporate prison break. Wyatt stepped back, letting the dead-eyed contractor mask slide back into place. They turned away from the chaotic, overflowing dormitories, quietly slipping into the shadows of the maintenance corridors to begin the tense, hyper-vigilant sneak back to the only safe room left in the Nevada facility.
 
-### The Fallen Hierarchy – Saturday, October 22, 2044 – ~17:30
+### Part 10: The Fallen Hierarchy – Saturday, October 22, 2044 – ~17:30
 
 Wyatt pulled Sarah into the shadows of Sector 1's outer ring, leaving the chaotic, overflowing mess of Barracks 4 far behind them. The route back to the abandoned filtration banks required threading a very precise needle through the facility's blind spots, dodging the sweeping arcs of the few remaining security cameras.
 
@@ -1513,7 +1513,7 @@ He closed his eyes, holding her securely against him, and let the exhaustion pul
 
 ## Day Four
 
-### Structural Failure – Sunday, October 23, 2044 – 05:00 (PDA vibrates at 0500 hours)
+### Part 1: Structural Failure – Sunday, October 23, 2044 – 05:00 (PDA vibrates at 0500 hours)
 
 The alarm on Wyatt's Level 1 PDA didn't wake him. He was already awake.
 
@@ -1567,7 +1567,7 @@ Sarah stepped flush against his side, her shoulder pressing into his chest. She 
 
 Before she could even unwrap her foil brick, the power grid surged violently, and the blinding *BE A MARINE™* recruitment billboards abruptly cut to black.
 
-### The Deployment – Sunday, October 23, 2044 – ~05:15 (Given twenty minutes to collect gear)
+### Part 2: The Deployment – Sunday, October 23, 2044 – ~05:15 (Given twenty minutes to collect gear)
 
 The electronic screech of microphone feedback echoed through the Mess Hall, slicing through the darkness just as the emergency backup lights painfully flickered to life. The cavernous room was silenced completely.
 
@@ -1611,7 +1611,7 @@ But beneath the surface, their hearts were racing with pure, adrenaline-fueled t
 
 "Stay close," Wyatt replied, the heavy tension in his shoulders finally dropping as he gave her a firm nod. He let his thumb brush against her knuckles one last time before releasing her hand, stepping back into professional mode to navigate the crowd. "Let's go catch our ride."
 
-### The Transit – Sunday, October 23, 2044 – ~05:30 (Floor detonates; they escape in the shuttle)
+### Part 3: The Transit – Sunday, October 23, 2044 – ~05:30 (Floor detonates; they escape in the shuttle)
 
 Before Wyatt could even turn away from the deployment kiosks, the concrete floor of the Mess Hall detonated.
 
@@ -1699,7 +1699,7 @@ A bright, wicked smile touched her lips at the promise. She rested her head back
 
 Wyatt looked out the viewport at the endless sea of stars, his fingers locked perfectly with hers. Apex Defense Solutions might have exiled them to the most remote corner of the galaxy, but sitting in the quiet hum of the transport, he felt a profound, unshakable sense of peace. He finally had a home.
 
-### The Relic – Monday, October 24, 2044 – 07:15 (Arriving at Outpost Delta 9)
+### Part 4: The Relic – Monday, October 24, 2044 – 07:15 (Arriving at Outpost Delta 9)
 
 A sharp, mechanical chirp from the hauler’s primary console broke the silence of the cabin.
 
@@ -1785,7 +1785,7 @@ They were locked in. They were completely safe.
 
 "Lead the way," he told her.
 
-### The Captain's Quarters – Monday, October 24, 2044 – ~07:30
+### Part 5: The Captain\'s Quarters – Monday, October 24, 2044 – ~07:30
 
 Wyatt turned away from the glowing amber CRT monitor and the heavy silence of the command center. He followed Sarah down the narrow, curved corridor of Outpost Delta 9.
 

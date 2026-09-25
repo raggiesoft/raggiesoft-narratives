@@ -7,7 +7,7 @@ series: "Alex & Chloé"
 
 ## The Evergreen Project
 
-### The Accessibility Specialist
+### Part 4: The Accessibility Specialist
 
 Alex Miller's part-time, paid role as the "Accessibility Specialist" for the Evergreen Animal Shelter transformed from a passion project into a serious vocation. The success of the beagle's mobility cart was just the beginning. The shelter, now recognizing the incredible value of their unique skills, began to actively seek out animals with physical challenges, knowing they finally had a way to help.
 
@@ -21,7 +21,7 @@ This hands-on experience solidified Alex's career path. He tailored his final ye
 
 Every evening, he would return to their home office, not to play games, but to work with Chloé and Megan on refining his designs for custom animal prosthetics and mobility aids—the foundational work for the future Lynnwood Discovery and Care Center.
 
-### The Non-Profit Architects
+### Part 5: The Non-Profit Architects
 
 While Alex was honing his technical skills, Chloé and Megan were on a parallel path, tackling the other side of their dream. Their volunteer work at the shelter had opened their eyes to the chaotic reality of running a non-profit. They saw Maria, the shelter director, buried under a mountain of paperwork, struggling with grant applications and donor outreach. They realized that passion and a love for animals were not enough; to succeed, their future center needed a solid, sustainable business structure.
 
@@ -39,7 +39,7 @@ For the next week, they worked on the grant proposal, a perfect symphony of thei
 
 The result wasn't just a class project; it was a real, professional, and incredibly compelling grant proposal. Chloé was no longer just a compassionate animal lover; she was becoming a non-profit architect. And the three of them were no longer just a group of friends with a dream; they were a formidable, multi-talented team, actively and expertly building the foundation for their future.
 
-### The Turning Point
+### Part 6: The Turning Point
 
 The moment that transformed their separate preparations into a unified mission came on a cold, rainy Saturday in late 2009. The Evergreen Animal Shelter took in a stray cat with a severe neurological condition that caused debilitating seizures. The shelter was not equipped for the round-the-clock, specialized medical monitoring the cat required.
 
@@ -63,7 +63,7 @@ That night, the vague, distant dream from the Newport boardwalk became a concret
 
 Their individual paths of preparation had officially merged. The work of building their future had truly begun.
 
-### The Long Road to a Dream
+### Part 7: The Long Road to a Dream
 
 The year 2009 bled into 2010, and the Lynnwood Discovery and Care Center transformed from a shared dream into a shared obsession. Their small apartment became a dedicated command center for their future.
 

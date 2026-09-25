@@ -7,13 +7,13 @@ series: ""
 
 ## New Tools, New Beginnings
 
-### Introduction and Anticipation
+### Part 1: Introduction and Anticipation
 
 The months following Stella's assumption of guardianship were a blur of doctor's appointments. After finding a compassionate pediatrician, the immediate priority had been to get Luna and Leo caught up on years of missed vaccinations and basic medical care. It was during this intense period of medical catch-up that Stella began the long process of seeking formal diagnoses for the developmental differences she had long observed. Armed with emerging clarity from neurologists and developmental specialists – confirming Cerebral Palsy for both twins (more severe for Leo) and Autism Spectrum Disorder for each – Stella now focused on securing the specialized equipment they had been denied for so long.
 
 The weeks following these initial specialist assessments with Ms. Albright, the mobility specialist, and Ms. Collier, the SLP, were filled with a nervous, hopeful anticipation for the Porter siblings. Stella had been firm, using the trust fund established by Arthur and Eleanor to ensure that the orders for Leo’s custom-fitted wheelchair and the twins' Quantum Communicator AAC devices were expedited, bypassing the potential months of insurance red tape. She'd made countless calls, signed forms on her Quantum OS 98 laptop, and confirmed delivery schedules.
 
-### Leo's New Wheelchair - A World of Difference
+### Part 2: Leo\'s New Wheelchair - A World of Difference
 
 The first arrival was a large van from the durable medical equipment company. Ms. Albright herself stepped out, accompanied by a technician, and they carefully unloaded a gleaming new manual wheelchair for Leo. It was a stark contrast to the old, rickety chair he’d been using – this one was lightweight yet incredibly supportive, with a vibrant blue frame he’d shyly pointed to in the brochure, and a pressure-relief cushion that looked miles more comfortable than his old one.
 
@@ -27,7 +27,7 @@ Stella and Luna watched, hearts in their throats, as Leo was gently transferred 
 
 Stella felt a lump in her throat. Seeing Leo move with such ease, his face lit with a rare, unreserved joy, was a victory in itself. This chair wasn't just equipment; it was dignity, it was mobility, it was a tangible symbol of the better life she was determined to provide.
 
-### Quantum Communicators Arrive - Finding Their Voices
+### Part 3: Quantum Communicators Arrive - Finding Their Voices
 
 Just two days later, Ms. Collier called. "Stella? The Quantum Communicators are in. They're programmed with the core vocabulary we discussed, and they're ready for Luna and Leo. Can you bring them in this afternoon?"
 
@@ -43,7 +43,7 @@ Luna held the device, looking slightly overwhelmed but intrigued. She’d always
 
 "You'll both have learning curves," Ms. Collier cautioned gently, "getting used to them, customizing the vocabulary. But these are powerful tools. They'll open up a lot of doors for you, especially in high school." She scheduled follow-up appointments for more in-depth training and personalization. Stella diligently took notes on her laptop, ensuring she had all the details for follow-up.
 
-### A New Soundtrack and Leo's Poem
+### Part 4: A New Soundtrack and Leo\'s Poem
 
 On the drive back to their little house, a comfortable silence filled Stella's Avalon. Luna held her Quantum Communicator in her lap, occasionally tapping out a short phrase just to hear it spoken clearly. Leo, in his new wheelchair, had his Quantum Communicator XT mounted and was deeply engrossed, his fingers flying across the screen, customizing settings, adding new words, a look of profound concentration and sheer joy on his face. He wasn't just exploring; he was reclaiming his voice, and he was a natural.
 

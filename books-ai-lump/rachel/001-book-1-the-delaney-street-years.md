@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Sabertooth Kitty (December 1990)
 
-### Part 1: The Sensory Avalanche – 9:00 AM
+### Part 1: The Sensory Avalanche
 
 The house on Delaney Street vibrated with the frantic, overlapping energy of a Saturday morning cartoon. The bright, chaotic synthesizer intro of the *Puppet Pals* theme song played on a loop from the television, battling against the noise of the crowded room.
 
@@ -35,7 +35,7 @@ Maria dropped the Light-Blaster on the carpet and leaned over my shoulder to wat
 
 ## Chapter 2: The Lower Bunk (December 22nd, 1993)
 
-### Part 1: Sanctuary – 9:30 PM
+### Part 1: Sanctuary
 
 The Delaney Street house was not built to hold this much noise.
 
@@ -71,7 +71,7 @@ I wrapped my arms around her and squeezed back, applying the deep, heavy pressur
 
 It was a perfectly symbiotic system. Her tight, silent hugs grounded the frantic, buzzing anxiety in my own chest, and my presence acted as the physical anchor she needed to stop spiraling. We lay there on the bottom bunk in silence, perfectly hidden beneath the red quilt, letting the muffled sounds of Uncle Eddy settling into the living room and Joey taking over my bedroom fade away into the background.
 
-### Part 2: The New Arrangement – 10:30 PM
+### Part 2: The New Arrangement
 
 The logic the adults had tried to enforce earlier that evening was purely traditional: boys with boys, and girls with girls. Since all three bedrooms were grouped together on the second floor, the geographical math made sense to Mom and Dad. Joey was a boy, I was a boy, therefore Joey belonged in my room.
 
@@ -103,7 +103,7 @@ I let my eyes drift shut. Let Joey have the room down the hall. I had found a ne
 
 ## Chapter 3: The Morning After (December 23rd, 1993)
 
-### Part 1: The Discovery – 7:00 AM
+### Part 1: The Discovery
 
 Morning in the Delaney Street house began with the heavy, thudding footsteps of adults navigating the hallway.
 
@@ -145,7 +145,7 @@ He turned and pulled the door shut behind him, plunging the bottom bunk back int
 
 I didn't say anything back, but I let out a long, shaking breath of relief. Jessica had taken the parental logic, found the flaw in the system, and completely rewritten the rules for us. The geographic center of my routine had successfully shifted. For the rest of the holiday, the lower bunk was officially ours.
 
-### Part 2: The Breakfast Table – 9:00 AM
+### Part 2: The Breakfast Table
 
 By nine o'clock on the morning of December 23rd, the kitchen and dining room of the Delaney Street house had reached critical mass.
 
@@ -181,7 +181,7 @@ Rachel didn't loosen her grip by a single millimeter, and I didn't sit up straig
 
 But Jessica did. And as long as Rachel kept squeezing my arm, we were going to survive the morning.
 
-### Part 3: Emerald Creek Mall – 1:00 PM
+### Part 3: Emerald Creek Mall
 
 Moving sixteen people from Delaney Street to Chesapeake was a logistical nightmare that required a caravan of four separate cars. When we finally pulled into the massive, sprawling parking lot of the Emerald Creek Mall, the sheer volume of vehicles made it clear that we were walking into a warzone. It was December 23rd. The entire city of Chesapeake was doing their last-minute holiday shopping.
 
@@ -227,7 +227,7 @@ Rachel and I didn't hesitate. With our hands still locked together in a crushing
 
 We were still surrounded by the overwhelming noise, the bright lights, and the suffocating smells of the Emerald Creek Mall, but the immediate threat was gone. The adults were left behind to deal with the crowds and the cousins, while the three of us moved together as a single, insulated unit, surviving the chaos exactly the way we always did—by breaking the rules and sticking together.
 
-### Part 4: The Doll Aisle – 1:15 PM
+### Part 4: The Doll Aisle
 
 The physical relief of walking away from the massive, disorganized family circle was immediate. As Jessica steered us down the wide concourse, the oppressive weight of Uncle Eddy’s booming voice and Dad’s strict traffic directions faded into the general, ambient roar of the mall.
 
@@ -261,7 +261,7 @@ At the end of the aisle, Jessica leaned against the edge of a shelf, acting as o
 
 We were surrounded by pink plastic and mall chaos, but for the first time all day, no one was fighting. We were entirely safe.
 
-### Part 5: The Neon Quarter – 1:45 PM
+### Part 5: The Neon Quarter
 
 The Emerald Creek Mall food court was a vast, echoing cavern of clattering plastic trays, scraping metal chairs, and the overwhelming smell of greasy fries and baked pretzels. It was the designated meeting point for the entire extended family, which meant it was the absolute last place we wanted to be.
 
@@ -293,7 +293,7 @@ Rachel didn't speak, but she slowly reached her free hand out toward the glowing
 
 I wrapped my hand around the red plastic ball of the joystick. The bright, 8-bit maze lit up the screen in front of us. Behind me, the mall was a warzone of holiday stress, but right here, bathed in the warm glow of the cathode-ray tube, the universe made perfect, mathematical sense. Rachel’s hand hovered over the button, waiting for my signal. We were safe in the dark, letting the machines drown out the rest of the world.
 
-### Part 6: Not Proper – 2:30 PM
+### Part 6: Not Proper
 
 The heavy brass tokens eventually ran out, and Jessica signaled that our time in the quiet, mechanical sanctuary of The Neon Quarter was over.
 
@@ -355,7 +355,7 @@ Dad opened his eyes, defeated by the sheer logistics of his own family. He looke
 
 Jessica flashed me a subtle, triumphant smirk. The adults had tried to enforce their invisible social rules, but the sheer, undeniable reality of Joey's chaos had broken the system in our favor. The lower bunk was secure.
 
-### Part 7: The Bantam Workaround – 3:15 PM
+### Part 7: The Bantam Workaround
 
 The aftermath of Joey’s food court tantrum meant the massive family shopping trip was officially aborted. The logistics of getting sixteen people back to Delaney Street required splitting up again. Mom, Uncle Eddy, and Aunt Janet took the cousins and the grandmothers in the larger sedans, leaving Dad to transport me and my sisters in the truck.
 
@@ -417,7 +417,7 @@ Dad gripped the steering wheel, his jaw clenched, staring straight ahead at the 
 
 We rode the rest of the way home squished together on the middle bench, completely safe, yelling our sanctioned bad words over the roar of the Izumi Bantam's engine.
 
-### Part 8: The Father's Perspective – 3:30 PM
+### Part 8: The Father's Perspective
 
 Dad kept his eyes locked on the road, his jaw tight as he steered the Izumi Bantam out of the sprawling mall parking lot, making a sharp right onto River Birch Run.
 

@@ -7,7 +7,7 @@ series: ""
 
 ## Hallway Locker Hurdles
 
-### Northwood High Cafeteria – Lunch Period, Fall 1999 (From Luna and Leo Porter’s POV)
+### Part 1: Northwood High Cafeteria – Lunch Period, Fall 1999 (From Luna and Leo Porter’s POV)
 
 The Northwood High cafeteria during 5th period lunch was a symphony of controlled chaos, a noisy, echoing cavern filled with the clatter of trays and the roar of hundreds of teenage conversations. Fourteen-year-old Luna Porter, leaning slightly on the armrest of her twin brother Leo’s Quantum XT wheelchair for support as they scanned for a relatively calm table, felt a familiar wave of freshman overwhelm. Leo, beside her, his own Quantum Communicator XT resting on his tray, observed the scene with his usual quiet intensity.
 
@@ -457,7 +457,7 @@ Mr. Thompson then placed the saxophone case gently on the bench beside Luna. "Fi
 
 ## Competition Road Trip
 
-### Charter Bus to the Mountains
+### Part 1: Charter Bus to the Mountains
 
 The air was crisp and cold in the pre-dawn darkness of a November morning in 1999. The sprawling parking lot of Northwood High School buzzed with the organized chaos that only a marching band preparing for a major trip could generate. Five gleaming charter buses idled, their engines rumbling softly, ready to transport the Northwood High School Soaring Eagle Band – all 200+ members, plus director Mr. Thompson, chaperones, and the essential pit crew support staff – hours away to Stephens City, Virginia, for the final competition of the season at Sherando High School.
 
@@ -479,7 +479,7 @@ Sometime later, well into the journey, a new, unwelcome element entered the bus'
 
 Raising her voice slightly to be heard over the bus chatter and road noise, Stella called out, "Alright people, unfortunately, as you may have noticed, our air quality seems to have taken a nosedive, and these windows don't open!" She paused, letting the groans amplify. "Now, I have a pretty good idea who the culprit might be..." she continued, letting her gaze drift towards the back. "So, I think we need to determine an appropriate consequence. Travis," she called out, zeroing in, "how many push-ups do you think that work of art was worth? Let's start the bidding! Do I hear 25 push-ups?" Giggles erupted. "Come on, folks, surely more than that! Do I hear 50?" Someone shouted, "Sixty!" Stella grinned, playing along like an auctioneer. "Fifty going once... Sixty! Do I hear seventy-five?" Another student yelled, "Seventy-five!" Stella pointed dramatically. "Sold! To the band! Seventy-five push-ups for Travis upon arrival. Don't let me forget!" Laughter filled the bus, the punishment turning the unpleasant moment into a shared joke, though everyone was still stuck with the lingering smell.
 
-### Motel Check-In and Push-Up Penalties
+### Part 2: Motel Check-In and Push-Up Penalties
 
 After what felt like an eternity on the road, punctuated by classic rock discoveries and the lingering ghost of Travis's unfortunate contribution, the convoy of five charter buses finally pulled off the interstate and into the gravel parking lot of a small, unassuming roadside motel. The band members stirred, stretching stiff limbs as they began the process of unloading instruments, luggage, and themselves under the glow of the motel's flickering neon sign. Given the sheer size of the band and the motel's small office, the students were instructed to stay with their luggage near the buses while the director and chaperones handled the check-in.
 
@@ -501,7 +501,7 @@ Luna sighed quietly, and Leo made a small face, clearly not thrilled about the l
 
 "Great," Stella said, pulling them both in for a quick, reassuring hug. "See you in a few minutes." She released them with a quick smile before turning back to the controlled chaos of distributing the remaining room keys and ensuring all students were accounted for near the buses. Luna began pushing Leo's chair along the outdoor walkway towards their room, key in hand, ready for the next phase of their band trip adventure.  
 
-### Waiting Game
+### Part 3: Waiting Game
 
 Luna carefully inserted the metal key into the lock of Room 112 and pushed the door open. They maneuvered inside the functional, if basic, accessible motel room. True to Stella's instructions, Luna immediately propped the door open with the security latch, leaving a wide gap, and checked that the blinds on the single window were pulled fully open, revealing the gravel parking lot outside.
 
@@ -511,7 +511,7 @@ Wanting to be close after the long day and surrounded by the unfamiliarity of th
 
 Reaching into her nearby instrument case, Luna retrieved her tenor saxophone. While they waited for Stella, she began to play, not loudly, but softly – improvising a gentle, meandering tune. (This tune would evolve over the years into her senior project, arranged for tenor sax and Leo's modified xylophone, performed at the spring concert.) The soft notes of the saxophone filled the small room, a peaceful counterpoint to the distant sounds of the highway outside the open window and the band members settling into other rooms. They sat there together, Luna playing quietly, Leo holding her close, patiently waiting for Stella in the slightly-too-public intimacy mandated by the band trip rules.
 
-### The Pre-Performance Hustle
+### Part 4: The Pre-Performance Hustle
 
 Luna was just finishing her soft saxophone melody when Stella appeared at the propped-open doorway of Room 112. "Okay, I'm here!" she announced, stepping inside.
 
@@ -525,7 +525,7 @@ As she helped Leo adjust his collar, she added, "Remember, we're the last compet
 
 Within minutes, thanks to Stella's focused efficiency and the twins' cooperation, they were both in their partial uniforms. Stella did a quick check of the room, grabbed her chaperone bag and the uniform garment bags, and ushered the twins out the door. "Okay, let's move, move, move! Back to the bus!" The brief respite was over; the energy now shifted entirely towards the impending competition.
 
-### Showtime Preparation
+### Part 5: Showtime Preparation
 
 The twenty-minute bus ride from the motel to Sherando High School was a blur of nervous energy and quiet focus. As the buses pulled into the designated parking area, the sounds of distant drumlines and brass warm-ups already filled the air. The energy was palpable.
 
@@ -543,7 +543,7 @@ The sections merged, forming the familiar blocks and lines of the full Northwood
 
 ## The Birds, the Bees, and the Opt-Out Form
 
-### A Form from School
+### Part 1: A Form from School
 
 It was nearing the end of their freshman year, Spring 2000. Luna and Leo, now 15, came home from school one afternoon clutching identical forms. Luna handed hers to Stella wordlessly, while Leo held his out with a questioning look. Stella glanced at the heading: "Family Life Education / Sex Education - Parental Notification and Opt-Out Form."
 
@@ -561,7 +561,7 @@ Luna looked uncertain, glancing at Leo. Leo, after a moment's thought, typed on 
 
 There were no strong objections, just a quiet acceptance mixed with perhaps a touch of adolescent embarrassment and curiosity. Stella didn't sign the forms, and a few weeks later, Luna and Leo attended their first sex-segregated health classes, finally getting the factual, age-appropriate information about puberty, reproduction, consent, and safety that their parents had denied them. It was another quiet step forward under Stella's care.
 
-### The Talk
+### Part 2: The Talk
 
 The dishes from dinner were cleared, and a comfortable quiet settled over the living room. Luna was reading on the sofa, while Leo was beside her, perhaps looking through a magazine or focused on the portable CD player Stella had given them earlier. Stella took a deep breath, knowing this conversation was long overdue, thanks to years of parental neglect. She sat down in the armchair facing them, her expression gentle but serious.
 
@@ -655,7 +655,7 @@ Luna met Stella's gaze and nodded, a look of quiet relief mixed with the dawning
 
 She knew this wasn't a one-time conversation, but a beginning. She had opened the door their parents had kept firmly shut, offering honesty and support where there had only been silence and neglect, and providing factual grounding to the confusing fragments of slang and unnamed realities they'd inevitably encountered.
 
-### Mary is Snubbed
+### Part 3: Mary is Snubbed
 
 It happened during the chaotic rush between classes a week or so after "The Talk" and the corresponding Family Life unit at school. Leo was navigating his wheelchair through the crowded hallway, momentarily separated from Luna who had stopped quickly at her locker. Suddenly, a girl Leo recognized from his English class, Mary Jenkins, stepped directly in front of his chair, stopping him.
 
@@ -689,7 +689,7 @@ Mr. Henderson turned to Leo, his expression softening with concern. "You okay, s
 
 "Alright," Mr. Henderson nodded. "Let's get you back that way." He took hold of Leo's handles and began wheeling him gently away from the secluded science wing, back towards the safety of the main corridor and, hopefully, Luna. Leo leaned back in his chair, immensely grateful for the custodian who had seen, understood, and believed his silent "No."
 
-### Kevin is Snubbed
+### Part 4: Kevin is Snubbed
 
 Luna was packing her books after her last class, leaning slightly on Leo's wheelchair as he waited patiently beside her locker. Most of the students had already cleared out, heading for buses or activities.
 

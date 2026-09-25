@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Continental Shift (Thursday, August 17, 2000)
 
-### Part 1: The Aunt Janet Extraction – 4:30 AM
+### Part 1: The Aunt Janet Extraction
 
 The heavy, suffocating humidity of the Virginia August morning clung to the concrete front porch of 1852 Delaney Street. It was four-thirty in the morning, and the sky was still a bruised, pitch black.
 
@@ -71,7 +71,7 @@ Mom turned back around, facing the windshield as the bright, glowing signs for N
 
 "Your father is staying in Virginia," Mom stated quietly, the absolute finality of the sentence hanging heavy in the cool air-conditioning of the minivan. "But the pack is going to Seattle."
 
-### Part 2: The Check-In – 5:15 AM
+### Part 2: The Check-In
 
 The heavy, humid darkness of the Virginia morning broke into the harsh, glaring fluorescent lights of the Norfolk International Airport drop-off lanes. Aunt Janet pulled the minivan up to the curbside check-in for Meridian Airlines, putting the car in park with a heavy sigh.
 
@@ -133,7 +133,7 @@ Mom took the passes, looking down at Jessica. She could see the rigid tension in
 
 "Michael, keep Rachel close," Mom commanded, taking absolute point. "Jess, stay right on my hip. We're going to the gate."
 
-### Part 3: The Perimeter Breach – 5:30 AM
+### Part 3: The Perimeter Breach
 
 We left the ticketing counter behind, leaving our massive canvas bags and the heavy computer tower in the hands of the Meridian Airlines baggage handlers. Stripped down to just our carry-on backpacks, Mom marched us directly toward the B Concourse security checkpoint.
 
@@ -179,7 +179,7 @@ Mom sat on the other side of Rachel, sipping her black coffee. She watched the t
 
 "Finish your muffins," Mom said softly, her eyes flickering to the gate podium where the flight attendants were beginning to gather their clipboards. "They're going to call us soon."
 
-### Part 4: The Vanguard Flight – 6:15 AM
+### Part 4: The Vanguard Flight
 
 The Meridian Airlines gate agent called for pre-boarding, and the reality of the jet bridge hit us the second we crossed the threshold of the terminal door.
 
@@ -239,7 +239,7 @@ Mom looked through the gap in the seats, watching Jessica calmly spread cream ch
 
 Mom slowly set her coffee cup down. The decision wasn't born out of sudden anger; it was born out of absolute, freezing clarity. When she got back to Virginia, Tom was getting one final ultimatum. If he didn't fundamentally rebuild his life, she was going to leave him behind.
 
-### Part 5: The Prismatic Corridor – 8:45 AM (CST)
+### Part 5: The Prismatic Corridor
 
 The heavy commercial jet touched down at Chicago O’Hare with a violent shudder, the reverse thrusters roaring as we braked against the tarmac.
 
@@ -301,7 +301,7 @@ We stood outside the shop, passing the drinks around and letting the adrenaline 
 
 "Gate C18," Mom announced, her voice hardening back into that fierce, protective command. "Our flight to Seattle is boarding in twenty minutes. Let's go."
 
-### Part 6: The Sunlit Valley – 10:30 AM (CST)
+### Part 6: The Sunlit Valley
 
 Gate C18 was a chaotic bottleneck, but the aircraft waiting for us at the end of the jet bridge was a massive upgrade. Meridian Airlines utilized a wide-body, dual-aisle jetliner for their cross-country hub routes.
 
@@ -355,7 +355,7 @@ The Pacific Northwest. The vanguard had arrived.
 
 ## Chapter 2: The TAPS Grid & The Breda Fleet (Thursday, August 17, 2000)
 
-### Part 1: Reclaiming the Armor – 1:00 PM (PST)
+### Part 1: Reclaiming the Armor
 
 The Meridian Airlines wide-body jet touched down at Seattle-Tacoma International Airport under a brilliant, cloudless sky. The heavy, pressurized air of the cabin shifted as the doors opened, and for the first time in hours, Rachel’s grip on my shirt finally loosened.
 
@@ -387,7 +387,7 @@ We wheeled out onto the heavy concrete transit island. Massive, roaring diesel b
 
 We formed a tight perimeter around our luggage carts, waiting in the cool, bright Seattle air. We were completely exhausted, operating on only a few hours of sleep and a massive emotional deficit, but the dynamic had fundamentally shifted. We were entirely on our own, three thousand miles from Delaney Street, and the pack had never been stronger.
 
-### Part 2: The Breda Lift – 1:30 PM (PST)
+### Part 2: The Breda Lift
 
 We didn't have to wait long on the heavy concrete transit island. A massive, sixty-foot articulated bus roared into the pickup lane, its air brakes hissing sharply as it knelt toward the curb.
 
@@ -451,7 +451,7 @@ She turned to us, gripping the canvas bags.
 
 "Let's go check in," Mom said.
 
-### Part 3: The Lobby Perimeter – 2:15 PM (PST)
+### Part 3: The Lobby Perimeter
 
 We dragged our heavy canvas bags and the massive cardboard computer box the last two blocks from the NPU transit stop to the hotel. You couldn't take the rolling airport carts on a city bus, which meant Mom and I had physically hauled everything by their canvas straps. By the time the automatic sliding doors of the hotel lobby parted, my hands were raw and aching.
 
@@ -509,7 +509,7 @@ Mom walked to the desk, signed the registration card, and returned to our alcove
 
 "Alright, pack," Mom said, her voice quiet but ringing with absolute, unyielding authority. "Room 412. Let's get upstairs."
 
-### Part 4: The Room 412 Perimeter – 3:15 PM (PST)
+### Part 4: The Room 412 Perimeter
 
 The elevator bank at the end of the hall looked like it hadn't been updated since 1968. The heavy, faux-wood paneled doors slid open with a rattling metal screech, revealing a cramped cab that smelled faintly of old machine oil and stale cigarette smoke masked by heavy floral perfume.
 
@@ -579,7 +579,7 @@ Back on the East Coast, fast food was strictly segmented. Burger places sold bur
 
 ## Chapter 3: The Provisions Run (Friday, August 18th, 2000)
 
-### Part 1: The ADA Fortress – 8:00 AM (PST)
+### Part 1: The ADA Fortress
 
 Friday morning broke with the bright, sharp clarity unique to the Pacific Northwest. Our internal clocks were still violently protesting, but the adrenaline of Move-In Day overrode the fatigue.
 
@@ -643,7 +643,7 @@ Mom walked over, leaning down to wrap her arms tightly around Jessica’s should
 
 "You don't need us anymore," Mom whispered quietly, her voice thick with emotion. "You're exactly where you're supposed to be."
 
-### Part 2: The Cascade Haul – 1:00 PM (PST)
+### Part 2: The Cascade Haul
 
 The dorm was fully established, but a quick visual sweep of the ADA kitchen revealed a glaring vulnerability. The refrigerator was entirely empty.
 
@@ -689,7 +689,7 @@ Jessica wheeled over. The microwave was perfectly flush with her chest height. S
 
 Jessica hit cancel, a fierce, triumphant smile breaking across her face. The kitchen was fully armed.
 
-### Part 3: The Topography Lesson – 4:00 PM (PST)
+### Part 3: The Topography Lesson
 
 By late afternoon, the high-adrenaline rush had settled into a quiet, operational hum.
 
@@ -733,7 +733,7 @@ Ten minutes later, with the newly printed NPU Student ID in hand, Jessica didn't
 
 The vanguard was learning the terrain.
 
-### Part 4: The Ave – 6:30 PM (PST)
+### Part 4: The Ave
 
 By six-thirty in the evening, the high-altitude, crisp Pacific Northwest sun was finally beginning to cast long, golden shadows across the concrete of the engineering quad. The vanguard had successfully secured the apartment, mapped the local transit grid, and armed the kitchen, but the adrenaline that had been powering our central nervous systems since the 4:30 AM East Coast extraction was violently bottoming out.
 
@@ -789,7 +789,7 @@ Jessica took a bite of her chicken, looking out the plate-glass window at the ne
 
 "I could get used to this," Jessica murmured.
 
-### Part 5: The Perimeter Handoff – 8:00 PM (PST)
+### Part 5: The Perimeter Handoff
 
 By eight o'clock, the golden hour had faded into a cool, dusky Pacific Northwest twilight. We walked the few blocks back to the engineering quad, our shadows stretching long across the concrete, and pushed into the quiet, brightly lit corridor of the upperclassman dorm.
 
@@ -855,7 +855,7 @@ The apartment was completely silent. She was three thousand miles away from the 
 
 Jessica Marie Ragsdale rested her hands on her push-rims, alone in the quiet dark, and smiled.
 
-### Part 6: The Empty Flank – 9:30 PM (PST)
+### Part 6: The Empty Flank
 
 The ride back to the hotel on the TAPS bus was entirely silent. The cool, dark Seattle streets blurred past the window, but none of us were really looking at the city. The extraction was complete, the perimeter had been handed over, and the adrenaline was completely gone. All that was left was the heavy, hollow reality of the separation.
 
@@ -907,7 +907,7 @@ The sun would come up. We would walk back to the engineering quad. We would see 
 
 ## Chapter 4: The Tourist Perimeter (Saturday, August 19th, 2000)
 
-### Part 1: The Reassembled Pack – 7:00 AM (PST)
+### Part 1: The Reassembled Pack
 
 The digital alarm clock on the hotel nightstand hadn't even flipped to seven when my hyper-vigilance finally broke my light, fractured sleep entirely.
 
@@ -991,7 +991,7 @@ The pack took our seats around her. The doors hissed shut, and the bus pulled aw
 
 It was time to breach the downtown grid.
 
-### Part 2: The Concrete Canyons – 11:30 AM (PST)
+### Part 2: The Concrete Canyons
 
 The local King County 230 deposited us right in the heart of the Bellevue Transit Center. We didn't have to wait long. The massive, articulated TAPS 550 express bus pulled up, its air brakes hissing loudly as the doors swung open.
 
@@ -1023,7 +1023,7 @@ The visual transition was staggering.
 
 We stepped off the bus and into a towering, man-made canyon of glass, steel, and concrete. The sheer vertical scale of the financial district blocked out the midday sun, casting long, sharp shadows across the gridlocked traffic. It was loud, chaotic, and vibrating with the heavy energy of a major metropolitan hub, but it was nothing compared to the absolute sensory gauntlet waiting for us three blocks away.
 
-### Part 3: The Puget Place Gauntlet – 12:30 PM (PST)
+### Part 3: The Puget Place Gauntlet
 
 Mom led the tactical navigation, checking the folding tourist map against the street signs as we walked west toward the water, leaving the towering glass canyons of the financial district behind.
 
@@ -1083,7 +1083,7 @@ Mom nodded, immediately taking point. I tightened my grip on my CD player, leane
 
 This successfully extracts them from the sensory nightmare and puts them on a direct trajectory toward the waterfront docks.
 
-### Part 4: The Saltwater Grid – 1:15 PM (PST)
+### Part 4: The Saltwater Grid
 
 We hit the bottom of the concrete pedestrian ramp and immediately ran into a massive, brutalist wall of infrastructure.
 
@@ -1131,7 +1131,7 @@ Jessica sat across from me, a paper cup of coffee in her hand. Her shoulders wer
 
 She took a sip of her coffee, looking out at the mountains, a quiet, fierce satisfaction settling in her eyes. The Vanguard had survived the gauntlet, and the grid belonged to her.
 
-### Part 5: The Bremerton Landing – 2:30 PM (PST)
+### Part 5: The Bremerton Landing
 
 The paper bowls of Ivar's clam chowder and thick-cut fries did exactly what Mom needed them to do: they stabilized our blood sugar and halted the adrenaline crash from the Puget Place Market. But it was just transit fuel. We still needed a proper, sit-down meal on solid ground.
 

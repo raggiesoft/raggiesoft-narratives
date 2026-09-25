@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Empty Shell (Monday, July 14th, 2003)
 
-### Part 1: The Last Morning – 7:30 AM
+### Part 1: The Last Morning
 
 I opened my eyes, the morning light filtering harshly through the plastic blinds.
 
@@ -73,7 +73,7 @@ I got into the driver’s seat and put the car in gear. The drive toward Norfolk
 
 The physical Base Camp was gone, and the long, grueling era of operating without my pack had officially begun.
 
-### Part 2: The Baldwin Briefing – 8:45 AM
+### Part 2: The Baldwin Briefing
 
 Traffic on Interstate 264 was remarkably light for a Monday morning. Exactly forty-five minutes after locking the door to my childhood, I steered Mom’s sedan into the ground-floor parking garage of the Ghent Villas, pulling perfectly into the reserved stall exactly second from the right.
 
@@ -141,7 +141,7 @@ Ashley dropped her bag. She didn't offer empty platitudes. She just sat down dir
 
 "You don't need to hide," the Sentinel promised, her voice a low, unyielding anchor in the cramped room. "Because for the next five weeks, I am your perimeter. We'll navigate the rules together."
 
-### Part 3: The Frictionless Trap – 9:15 AM
+### Part 3: The Frictionless Trap
 
 The heavy, crushing pressure of Ashley’s arms around my ribs slowly bled the buzzing panic out of my muscles. We sat on the edge of the queen-sized bed for a long time, the stifling heat of the Virginia summer pressing against the small bedroom window.
 
@@ -217,7 +217,7 @@ We stood there in the cramped, steamy shower, locked together in absolute silenc
 
 The walls of Base Camp had changed, but my Anchor was still standing right beside me.
 
-### Part 4: The Transit Grid – 2:00 PM
+### Part 4: The Transit Grid
 
 The entry-level job hunt of 2003 was not designed for someone running on my hardware, and the logistics of the Ghent condo made it infinitely harder.
 
@@ -279,7 +279,7 @@ Ashley knew exactly how Greg’s standard hardware brain worked. She knew that w
 
 I leaned my heavy head against hers, closing my eyes. I didn't have a job, and the physical Base Camp was gone, but as long as the Sentinel was holding the logbook, I wasn't completely defenseless.
 
-### Part 5: The Logistical Paradox – 5:30 PM
+### Part 5: The Logistical Paradox
 
 The suffocating Virginia heat was still radiating off the asphalt when the front door of Unit 2E clicked open at five-thirty.
 
@@ -337,7 +337,7 @@ The physical Base Camp was gone. The Sentinel could log the data, and she could 
 
 There was no sanctuary here. And in five weeks, I would be facing this completely alone.
 
-### Part 6: The Extraction Plan – 7:30 PM
+### Part 6: The Extraction Plan
 
 The suffocating tension from the kitchen had followed us upstairs.
 
@@ -399,7 +399,7 @@ She leaned down and kissed the top of my head, then squeezed Ashley’s shoulder
 
 As she slipped out of the room, Ashley and I looked at each other. The physical friction of Baldwin Ave was still pressing in on us, but the heavy, suffocating dread was gone. We had an extraction plan.
 
-### Part 7: The Phone Call – 9:02 PM
+### Part 7: The Phone Call
 
 With the apartment magazine tossed onto the floor and the plan to get out of the condo officially set for tomorrow, the adrenaline of the day finally evaporated, leaving behind a heavy, bone-deep exhaustion.
 
@@ -463,7 +463,7 @@ I turned my head, burying my wet face into Ashley’s shoulder. The Sentinel wra
 
 The family was shattered across 2,800 miles, but as I lay in the dark listening to my sisters on the open phone line, my fractured processor finally began to power down for the night.
 
-### Part 8: The Bare Mechanics – 9:45 PM
+### Part 8: The Bare Mechanics
 
 We listened to the faint, comforting ambient noise of the Federal Way apartment for another thirty minutes. The static of the line was a tether, but as the clock ticked closer to ten, the exhaustion pulling at my physical chassis became impossible to ignore.
 
@@ -511,7 +511,7 @@ The physical Base Camp on Delaney Street was gone, my sisters were 2,800 miles a
 
 ## Chapter 2: The Digital Mirage (Tuesday, July 15th, 2003)
 
-### Part 1: The Best Tech Ambush – 1:15 PM
+### Part 1: The Best Tech Ambush
 
 The extraction plan started flawlessly but quickly deteriorated into another logistical dead end.
 
@@ -597,7 +597,7 @@ He hadn't seen my intelligence; he had seen my exhaustion. He had perfectly mirr
 
 Ashley didn't let go of my arm. She kept her grip locked tight, a rigid, physical tether grounding me to reality as the beautiful, algorithmic illusion of the digital sanctuary completely collapsed into ash.
 
-### Part 2: The Malicious Code – 1:35 PM
+### Part 2: The Malicious Code
 
 The automatic sliding doors of Best Tech parted, and the oppressive, ninety-degree heat of the Virginia afternoon slammed into us like a physical wall.
 
@@ -651,7 +651,7 @@ But they were gone. And I was trapped in Norfolk, leaning against a hot car, utt
 
 I opened the passenger door and carefully folded my aching, spastic legs into the seat. The digital mirage was gone, but as Ashley climbed into the back and Mom put the car in gear, I knew I still had one Sentinel left to watch the grid.
 
-### Part 3: The Hardware Check – 2:45 PM
+### Part 3: The Hardware Check
 
 The suffocating heat of the Best Tech parking lot faded as Mom cranked the sedan’s air conditioning to the maximum setting. The physical escape from the Nexar recruiter had drained the last reserves of my internal battery. I rested my head against the cool glass of the passenger window, my CP-affected legs throbbing a dull, steady rhythm of pain.
 
@@ -731,7 +731,7 @@ Mom reached into her purse to pull out her checkbook for the deposit. Ashley ste
 
 The physical Base Camp on Delaney Street was gone forever. But as I looked back through the open doorway toward the three rubber steps leading to the lobby, I knew we had successfully established the outpost.
 
-### Part 4: The Holding Pattern – 3:15 PM
+### Part 4: The Holding Pattern
 
 The standard-hardware world was almost entirely built on red tape, invisible prerequisites, and corporate holding periods. Independent, mom-and-pop logistics were infinitely better, but they still operated on the basic physics of banking.
 
@@ -787,7 +787,7 @@ Ashley walked right beside me, our shoulders brushing as we pushed through the g
 
 I let out a long, shuddering breath as we reached the sedan. The physical Base Camp was delayed, but as I looked back at the brick building on Greenway Court, my processor finally stabilized. I could survive seventy-two hours in hostile territory. I just had to watch the clock.
 
-### Part 5: The Inventory Protocol – 4:00 PM
+### Part 5: The Inventory Protocol
 
 Because the logistics of Greg’s condo had changed from an indefinite prison to a strictly defined, seventy-two-hour holding pattern, my processor could handle a strategic retreat.
 
@@ -859,7 +859,7 @@ By five o'clock, the inventory protocol was complete. We pulled the corrugated m
 
 The physical objects of our survival were queued up and ready for deployment. The digital mirage of the Best Tech ambush was completely behind us. All we had to do now was survive seventy-two hours of Greg Lawson's rules, and Base Camp would finally be back online.
 
-### Part 6: The On-Us Override – 5:15 PM
+### Part 6: The On-Us Override
 
 The strategic high of the mini-storage inventory evaporated the second Mom parked the sedan back in the ground-floor garage of the Ghent Villas.
 
@@ -937,7 +937,7 @@ Mom stepped in behind us, looking around the bare carpet. The furniture was stil
 
 "Exactly," Mom smiled. "Leave the bags here. We're getting back in the car, we're driving to MegaMart, and we are buying a queen-sized air mattress, two brand new pillows, and the heaviest blanket we can find. You are holding the perimeter tonight."
 
-### Part 7: The Initial Provisioning – 6:30 PM
+### Part 7: The Initial Provisioning
 
 MegaMart was a sensory nightmare of fluorescent lights, echoing aisles, and chaotic foot traffic, but for the first time in weeks, my processor wasn't redlining.
 
@@ -999,7 +999,7 @@ The gas was off, the fridge was empty, and the only furniture we owned was desig
 
 Base Camp was online.
 
-### Part 8: The New Parameter – 7:30 PM
+### Part 8: The New Parameter
 
 By seven-thirty, the frosted toaster pastries were gone, and the laptops were closed. The amber glow of the streetlamps spilled through the small front window, casting long shadows over our newly assembled glass patio table and the queen-sized air mattress on the floor.
 
@@ -1059,7 +1059,7 @@ Ashley smiled, a quiet, radiant expression in the dark room. She leaned forward,
 
 ## Chapter 3: The Extraction (Wednesday, July 16th, 2003)
 
-### Part 1: The Morning Perimeter – 7:30 AM
+### Part 1: The Morning Perimeter
 
 When the morning sunlight finally broke through the small front window of Unit A5, it illuminated a completely empty room, a glass patio table, and a blue air mattress. The apartment looked exactly the same.
 

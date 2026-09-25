@@ -7,7 +7,7 @@ series: "The Silver Gauntlet of Aethel"
 
 ## Book I: The Glass Sea
 
-### Chapter 1: The Tide and the Torch
+### Part 1: Chapter 1: The Tide and the Torch
 
 ## Part 1: The Blacksmith's Secret
 
@@ -531,7 +531,7 @@ They turned toward the Queen.
 
 "Round two, Seraphina," Kaelan called out. "And this time, there's nowhere to run."
 
-### Chapter 2: The Heart of the World
+### Part 2: Chapter 2: The Heart of the World
 
 ## Part 1: The Veins of the Earth
 
@@ -921,7 +921,7 @@ Kaelan looked at the map. He looked at the endless ocean. Then he looked at his 
 
 He turned the boat South, following the fleeing shadow of the Queen, deeper into the Age of Tides.
 
-### Chapter 3: The Weave of the Water
+### Part 3: Chapter 3: The Weave of the Water
 
 ## Part 1: The Anchor of the Storm
 
@@ -1217,7 +1217,7 @@ Kaelan took the tiller. He looked at his sister.
 
 They raised the sail. Kaelan poured a steady stream of heat into the keel, and the boat surged forward, cutting through the waves, hunting the hunter who was running blindly toward her own destruction.
 
-### Chapter 4: The Gyre
+### Part 4: Chapter 4: The Gyre
 
 ## Part 1: The Calm Path
 
@@ -1639,7 +1639,7 @@ With a roar of displaced air, Horg’s boat shot upward, punching through the cl
 
 ## Book II: The Star-Eater
 
-### Chapter 1: The Silent Sector
+### Part 1: Chapter 1: The Silent Sector
 
 ## Part 1: The Poisoned Chalice
 
@@ -2031,7 +2031,7 @@ She turned back to the viewport, staring at the massive, fossilized Ribcage loom
 
 "Earn your keep," she whispered. "Die well."
 
-### Chapter 2: The Ribcage of the Gods
+### Part 2: Chapter 2: The Ribcage of the Gods
 
 ## Part 1: The Ossuary of Stars
 
@@ -2211,7 +2211,7 @@ They walked through the ghost ship, crossing the gantry into the Star-Eater’s 
 
 They were walking into the mind of a god, and the only thing waiting for them was a woman who thought she could outsmart the universe.
 
-### Chapter 3: The War for the Mind
+### Part 3: Chapter 3: The War for the Mind
 
 ## Part 1: The Dynasty of Ruin
 
@@ -2773,7 +2773,7 @@ Kaelan laughed—a wet, shaky sound of pure relief. He helped Kaela up, keeping 
 
 They walked out of the Memory Core, leaving the ghosts of the past behind, finally, truly free.
 
-### Chapter 4: The Long Way Down
+### Part 4: Chapter 4: The Long Way Down
 
 ## Part 1: The Departure
 
@@ -3325,7 +3325,7 @@ The silence in the room wasn't empty. It was full of the fire's crackle, the win
 
 They stood there as the twin suns set, the heroes of the age, invisible and content, ready to do absolutely nothing for a very long time.
 
-### Chapter 5: The Cottage
+### Part 5: Chapter 5: The Cottage
 
 ## Part 1: The Stone Fence
 

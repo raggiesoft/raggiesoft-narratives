@@ -7,7 +7,7 @@ series: "Nichole"
 
 ## The Long Retreat
 
-### The Last Funeral
+### Part 1: The Last Funeral
 
 ## Date: November 12, 2042 Age: 57 Location: 95 West Main Road, Portsmouth, RI
 
@@ -29,7 +29,7 @@ He walked over to the hallway closet—the one Mark had converted back in 2003. 
 
 "He built this for us," Patrick whispered, touching the doorframe. "He knew we'd end up here."
 
-### The City Problem
+### Part 2: The City Problem
 
 ## Date: February 2043 Location: The Foundry Lofts, Braxton
 
@@ -53,7 +53,7 @@ Nichole looked at him. She saw the gray pallor of his skin. She realized that th
 
 She tapped her screen. WE. NEED. A. RANCH.
 
-### The Decision
+### Part 3: The Decision
 
 ## Date: April 2043 Location: The Kitchen, Unit 404
 
@@ -73,7 +73,7 @@ She reached for her mouse. WE. ARE. TIRED. PAT. THE. FORTRESS. IS. EASY. I. WANT
 
 Patrick read the words. *I want easy.* He let out a long breath. He rubbed his eyes. "Me too, Nikki. Me too."
 
-### The Return
+### Part 4: The Return
 
 ## Date: June 15, 2043 Location: 95 West Main Road, Portsmouth, RI
 
@@ -99,7 +99,7 @@ Patrick lay back on the bed, staring at the ceiling. He didn't have to worry abo
 
 ## The Slow Rust
 
-### The First Breakdown
+### Part 1: The First Breakdown
 
 ## Date: November 12, 2045 Age: 60 Location: The Master Suite, The Fortress (Portsmouth)
 
@@ -131,7 +131,7 @@ Nichole looked at him. She reached out and took his hand. She squeezed it. She t
 
 The next day, they ordered a ceiling-mounted lift track system. It wasn't a defeat; it was an upgrade. The machine wasn't broken; it just needed new parts.
 
-### The Shared Breath
+### Part 2: The Shared Breath
 
 ## Date: March 3, 2055 Age: 69 Location: The Bennett Wing
 
@@ -175,7 +175,7 @@ For sixty years, Patrick had pushed her. He had been the engine. Now, the dynami
 
 Patrick took a deep breath of the cool, concentrated air flowing from the back of her chair. He watched the back of her head. "Lead the way, Nikki," he whispered. She tapped the joystick forward. The tether tightened just slightly, and they moved forward, one single unit.
 
-### The Final Perimeter
+### Part 3: The Final Perimeter
 
 ## Date: January 2058 Age: 72 Location: The Master Bed
 

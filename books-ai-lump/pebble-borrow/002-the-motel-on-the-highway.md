@@ -7,7 +7,7 @@ series: ""
 
 ## The Threshold
 
-### Out of the Storm
+### Part 1: Out of the Storm
 
 ## Scene 1: Arrival
 
@@ -455,7 +455,7 @@ Drake grinned proudly in the blue light of the television. "Told you."
 
 ## Setting the Scene
 
-### The APEX Late-Night Switch
+### Part 1: The APEX Late-Night Switch
 
 The credits of some cheesy, explosions-and-bad-dialogue action flick rolled across the screen, casting a flickering, blue-white glow over the cramped space of Room 114. It was exactly 11:00 PM on a Friday.
 
@@ -507,7 +507,7 @@ Behind her, the TV stayed dark.
 
 And that was exactly how it needed to be.
 
-### The APEX World Premier Presentation
+### Part 2: The APEX World Premier Presentation
 
 The following night, the legal pads and the LPN brochures were temporarily shoved into the desk drawer.
 
@@ -555,7 +555,7 @@ Seeing them completely mesmerized, completely transported from their heavy reali
 
 ## Amanda Protects her Siblings
 
-### The APEX Late‑Night Switch (Amanda Wakes Up at 10:59 PM)
+### Part 1: The APEX Late‑Night Switch (Amanda Wakes Up at 10:59 PM)
 
 The motel room was silent except for the low hum of the CRT television and the faint buzz of the neon sign outside. Amanda had fallen asleep at the desk again, cheek pressed against the open LPN textbook, highlighter still in her hand. The reading lamp cast a harsh cone of light over the pages, but her eyes had given up an hour ago.
 
@@ -607,7 +607,7 @@ Behind her, the TV stayed dark.
 
 And that was exactly how it needed to be.
 
-### Saturday Morning — The Teasing Begins
+### Part 2: Saturday Morning — The Teasing Begins
 
 Morning sunlight pushed through the plastic blinds in thin, uneven stripes, cutting across the motel room like a barcode. The neon sign outside had finally flickered off, leaving only the distant hum of highway traffic and the muffled plumbing noises from the room next door.
 

@@ -7,7 +7,7 @@ series: "Nichole"
 
 ## Welcome to Northwood High School
 
-### The 5 AM Alarm
+### Part 1: The 5 AM Alarm
 
 The red digits of the alarm clock clicked from 4:59 to 5:00.
 
@@ -67,7 +67,7 @@ Nikki tapped the screen. The synthesized voice of 'Digital Dan' filled the room.
 
 Patrick grabbed the push handles. He leaned his weight on them, feeling his balance steady. "Ready," he echoed.
 
-### The War Room (Breakfast)
+### Part 2: The War Room (Breakfast)
 
 The kitchen was bright, smelling of coffee and burnt toast.
 
@@ -121,7 +121,7 @@ He unlocked the brakes. "Let's go."
 
 They rolled out the front door into the humid Virginia morning, leaving the safety of the house behind. At the end of the driveway, the bright yellow bus was already turning the corner, its air brakes hissing like a predator.
 
-### The Soft Trap
+### Part 3: The Soft Trap
 
 ## Date: September 1999 Location: Northwood High School Grade: 9th Grade
 
@@ -259,7 +259,7 @@ Patrick stood up. He unlocked the brakes of the Titan, putting his back into it 
 
 "I didn't restrain her," Patrick said, wiping a tear from his sister's cheek with his thumb. "I grounded her. And we're going to Latin."
 
-### The Reckoning
+### Part 4: The Reckoning
 
 ## Location: Principal Harrison’s Office
 
@@ -311,7 +311,7 @@ The Nurse stood up, stiff and angry, and marched out of the room.
 
 Harrison stood up and grabbed his walkie-talkie. "Come on, son. Let's get you to class."
 
-### The Escort
+### Part 5: The Escort
 
 ## Date: September 1999 Time: 10:58 AM Location: Hallway / Men’s Locker Room
 
@@ -355,7 +355,7 @@ He glanced down at Patrick.
 
 "See that you don't."
 
-### The Return
+### Part 6: The Return
 
 ## Time: 11:05 AM Location: Room 204 (Mrs. Dalloway’s Latin Class)
 
@@ -433,7 +433,7 @@ Nichole blinked slowly, the panic finally gone from her eyes.
 
 Patrick opened his textbook. He felt the weight of the "Secret Agent" badge in his pocket. It felt heavier now, but it also felt secure. He glanced at the door one last time, grateful for the large man who guarded it.
 
-### The Longest Hour
+### Part 7: The Longest Hour
 
 The bell for the end of 4th period rang—a shrill, electric buzzer that vibrated in Nichole’s teeth.
 
@@ -507,7 +507,7 @@ Nichole didn't wait for the aide to push. She grabbed her own rims—her hands c
 
 Get me out of here.
 
-### The Hand-Off
+### Part 8: The Hand-Off
 
 The cafeteria was a roar of noise—three hundred freshmen shouting over the clatter of plastic trays and the smell of rectangular pizza.
 
@@ -581,7 +581,7 @@ Patrick took a bite of his pizza and grinned. "Yeah. Much better."
 
 ## The Smoke Test
 
-### The Area of Rescue
+### Part 1: The Area of Rescue
 
 Date: April 12, 2002 (Spring of 11th Grade)
 
@@ -685,7 +685,7 @@ Patrick turned. He looked at the teacher, then at the invisible, choking scent f
 
 He turned his back on the teacher and stepped into the flow of traffic at the top of the stairs, carrying his sister down into the crush.
 
-### The Descent
+### Part 2: The Descent
 
 ## Location: Stairway A (The Critical Entry)
 
@@ -719,7 +719,7 @@ He reached the bottom. The heavy metal push-bar of the exit door loomed ahead.
 
 Patrick didn't stop. He shifted Nichole’s weight, lifted his leg, and kicked the bar.
 
-### The Bus Loop
+### Part 3: The Bus Loop
 
 Location: The "Backstage" (Bus Loop)
 
@@ -761,7 +761,7 @@ Patrick didn't stand up and walk away. He didn't go look for his homeroom teache
 
 He sat down on the curb right next to her, their shoulders pressing together. He leaned his head back against the chain-link fence, gasping for air, wiping sweat from his eyes.
 
-### The Stand
+### Part 4: The Stand
 
 Location: The Fence Line
 
@@ -807,7 +807,7 @@ Patrick exhaled. He looked at Nichole.
 
 "We're good," he whispered, smoothing her hair. "We're staying right here."
 
-### The Long Hour
+### Part 5: The Long Hour
 
 Date: April 12, 2002
 
@@ -855,7 +855,7 @@ She wanted her wheels. She wanted her voice. The VocaLink 3000 was sitting on th
 
 Nichole let out a huff of frustration. She slumped against him, resigning herself to being "cargo" for a little while longer.
 
-### The All Clear
+### Part 6: The All Clear
 
 Time: 11:10 AM
 
@@ -911,7 +911,7 @@ He looked down at Nichole. "Ready to fly?"
 
 Nichole looked at the teacher, then at her brother. She reached up.
 
-### The Return
+### Part 7: The Return
 
 Patrick bent down. He didn't hesitate.
 

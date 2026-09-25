@@ -7,7 +7,7 @@ series: "The Rachel Narrative"
 
 ## Chapter 1: The Capture (Wednesday, May 16th, 2007)
 
-### Part 1: The SME Directive – 9:15 AM (EST)
+### Part 1: The SME Directive
 
 The heavy, reinforced oak door to Conference Room 4B lacked an automatic push-plate.
 
@@ -75,7 +75,7 @@ It was time to buy some dirt.
 
 ## Chapter 2: The Moosewood Anomaly (Friday, May 25th, 2007)
 
-### Part 1: The Twenty-First Milestone – 6:30 PM (EST)
+### Part 1: The Twenty-First Milestone
 
 In the neurotypical civilian world, turning twenty-one is a loud, chaotic, and culturally mandated rite of passage. The societal script dictates that you gather a massive group of people, descend upon crowded bars, and consume as much unpredictable, volatile alcohol as physically possible.
 
@@ -131,7 +131,7 @@ Rachel opened her eyes and looked around the booth. She looked at Ashley, her or
 
 "No," Rachel answered, her raspy voice vibrating with absolute, undeniable peace. "I already have everything I want right here."
 
-### Part 2: The Subprime Shield – 8:15 PM (EST)
+### Part 2: The Subprime Shield
 
 By late May 2007, the national news was dominated by a single, terrifying headline: the subprime mortgage crisis.
 
@@ -167,7 +167,7 @@ The moment we made the turn, my internal geographical map redlined. The police w
 
 Before we hit the impending traffic jam at Green Meadows, I hit the turn signal and executed a sharp right turn onto the very next cross street: Moosewood Drive.
 
-### Part 3: The Moosewood Anomaly – 8:25 PM (EST)
+### Part 3: The Moosewood Anomaly
 
 Moosewood Drive was a quiet, unassuming residential artery. The frantic, aggressive energy of the detoured traffic instantly vanished behind us. The street was lined with modest, suburban homes and mature pine trees, completely insulated from the roar of Independence Boulevard.
 
@@ -209,7 +209,7 @@ The heavy, profound realization of what she was proposing hit my chest. We weren
 
 "Exactly," Jessica smiled, tapping her phone. "The perimeter is perfect. Now, get us home, Michael. I have a real estate agent to call."
 
-### Part 4: The Evasive Route – 8:35 PM (EST)
+### Part 4: The Evasive Route
 
 I pulled the van's gearshift back into drive, my processor completely electrified by the concept of the custom fortress.
 
@@ -239,7 +239,7 @@ As we walked up the ADA-graded concrete path to our front door, Rachel laced her
 
 ## Chapter 3: The Tactical Acquisition (Tuesday, May 29th, 2007)
 
-### Part 1: The Route 36 Commute – 6:40 AM (EST)
+### Part 1: The Route 36 Commute
 
 The three-day Memorial Day weekend officially ended, and the civilian world was waking back up. But inside the Canadian Arch townhouse, the pack’s operational rhythm was already flawlessly clicking into gear.
 
@@ -265,7 +265,7 @@ If she left the office on time tonight, she knew she could catch the 36 heading 
 
 But right now, she had a bank to dismantle.
 
-### Part 2: The Corporate Guillotine – 8:05 AM (EST)
+### Part 2: The Corporate Guillotine
 
 Jessica swiped her heavy-duty Quantum ID at the 21st-floor security vestibule. The frosted glass doors slid open, granting her access to Quantum East.
 
@@ -305,7 +305,7 @@ Now, the true architectural challenge began.
 
 ## Chapter 4: Ground Zero (Friday, June 15th, 2007)
 
-### Part 1: The Demolition Directive – 7:45 AM (EST)
+### Part 1: The Demolition Directive
 
 The Virginia morning was already thick with the familiar, suffocating coastal humidity by the time I steered the heavy transit van onto Moosewood Drive.
 
@@ -335,7 +335,7 @@ Rachel didn't have her headphones on. The noise was astronomically loud, but her
 
 She knew exactly what that machine was about to do, and the sheer, mathematical logic of the destruction completely overrode her sensory overload. She tightened her grip on my arm, a massive, uncontainable smile breaking across her face as the excavator's heavy steel arm swung upward.
 
-### Part 2: The Catharsis – 8:05 AM (EST)
+### Part 2: The Catharsis
 
 The steel bucket of the excavator slammed into the front porch of the rotting house.
 
@@ -365,7 +365,7 @@ She turned her wheelchair slightly, looking up at me, Rachel, Ashley, and Kristi
 
 "We break ground on the fortress next week," Jessica promised. "We're going home."
 
-### Part 3: The Clinical Blueprint – 1:00 PM (EST)
+### Part 3: The Clinical Blueprint
 
 We loaded back into the heavy transit van, leaving the dust of the demolished Moosewood house settling over the empty lot. The euphoric, concussive high of the morning was slowly fading, replaced by a quiet, heavy anticipation as I pulled the van out of the Silverleaf neighborhood.
 
@@ -443,7 +443,7 @@ My vision blurred. A tear spilled over my eyelid, tracking hot down my cheek and
 
 At 7:45 AM, we had torn down the rotting, structural failure of the Moosewood house. By 4:00 PM, we walked out of Suite 410, holding the clinical proof that our own internal architecture was completely, perfectly intact.
 
-### Part 4: The Intact Architecture – 4:45 PM (EST)
+### Part 4: The Intact Architecture
 
 The drive back from the clinic to the Canadian Arch townhouse was completely silent, but it wasn’t the tense, suffocating silence of a system lock. It was the heavy, profoundly exhausted quiet of a massive data transfer completing.
 

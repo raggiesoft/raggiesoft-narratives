@@ -7,7 +7,7 @@ series: ""
 
 ## Delta Niner
 
-### The Blinking Clock – Monday, October 24, 2044 – 07:45 (Wyatt sets the VCR clock to 07:45, mirroring their arrival time)
+### Part 1: The Blinking Clock – Monday, October 24, 2044 – 07:45 (Wyatt sets the VCR clock to 07:45, mirroring their arrival time)
 
 For the first time in four days, Wyatt woke up without an adrenaline spike.
 
@@ -51,7 +51,7 @@ Wyatt set the tape down next to the heavy remote. The analog maintenance of the 
 
 Delta 9 was officially online.
 
-### The Ghost Ship – Monday, October 24, 2044 – ~10:00 (A few more hours pass)
+### Part 2: The Ghost Ship – Monday, October 24, 2044 – ~10:00 (A few more hours pass)
 
 The quiet luxury of the Captain's Quarters held them for a few more hours, but eventually, the reality of their situation pulled Wyatt out of the heavy blankets.
 
@@ -99,7 +99,7 @@ He watched her walk out of the command center, the slate-blue of her uniform dis
 
 Wyatt grabbed his heavy Mark-IV flashlight from the console, turning to inspect the rusted maintenance panels, ready to get his hands dirty.
 
-### The Broadcast – Monday, October 24, 2044 – ~10:15 (Shortly after checking the command center)
+### Part 3: The Broadcast – Monday, October 24, 2044 – ~10:15 (Shortly after checking the command center)
 
 Wyatt closed the glass cover of the breaker box with a soft *clink*. The primary uplink fuse was safely sitting in his pocket. They were officially severed from the Apex tracking grid.
 
@@ -225,7 +225,7 @@ Wyatt nodded, his thumb brushing across her knuckles. The static hissed quietly 
 
 ## The Lungs of the Station
 
-### The Hydroponics Bay – Monday, October 24, 2044 – ~10:30
+### Part 1: The Hydroponics Bay – Monday, October 24, 2044 – ~10:30
 
 The heavy, airtight bulkhead door in the lower ring didn't just slide open; it groaned, the rusted hydraulic seals fighting Wyatt’s grip on the manual release wheel. With a final, metallic *shriek*, the iron door gave way, and the dry, recycled ozone of the corridor was instantly blasted away by a wall of heat.
 
@@ -283,7 +283,7 @@ Sarah let out a breath she didn't realize she was holding. The knot of anxiety v
 
 Wearing just her black undershirt, she walked up to the analog nutrient station, picked up a heavy, glass measuring beaker, and got to work.
 
-### The Strawberry Festival – Monday, October 24, 2044 – ~10:50 (For the first twenty minutes, it was pure trial and error)
+### Part 2: The Strawberry Festival – Monday, October 24, 2044 – ~10:50 (For the first twenty minutes, it was pure trial and error)
 
 Wyatt shifted his weight on the rusted supply crate, leaning his head back against the warm iron bulkhead. He watched as Sarah completely immersed herself in the archaic mechanics of the bay.
 
@@ -339,7 +339,7 @@ Wyatt couldn't help but smile, leaning back against the bulkhead. The woman who 
 
 "I'll find you a notebook," Wyatt promised. "And I'll get my wrenches for that pump."
 
-### The Expanding Fracture – Monday, October 24, 2044 – ~11:00
+### Part 3: The Expanding Fracture – Monday, October 24, 2044 – ~11:00
 
 Wyatt stood up from the rusted supply crate, the sweet, earthy taste of the strawberry still lingering on his tongue. For a fleeting, miraculous moment, the absolute horror of their situation had been completely neutralized by a 1970s water pump and a handful of clay pebbles.
 
@@ -397,7 +397,7 @@ They had survived the NTTR, but the nightmare was far from over.
 
 ## The Boiler Room
 
-### The Descent – Monday, October 24, 2044 – ~11:15
+### Part 1: The Descent – Monday, October 24, 2044 – ~11:15
 
 The heavy, metallic dread of the emergency broadcast still hung in the air as Wyatt and Sarah left the Hydroponics Bay. They didn't speak about Los Angeles or the Colorado River. They didn't need to. The sheer scale of the nightmare had pushed them past the point of panic and straight into cold, mechanical survival.
 
@@ -443,7 +443,7 @@ She wasn't a mechanic, and she couldn't hear herself think over the roar of the 
 
 He was in his element. He was keeping their lifeboat afloat. And most importantly, he was right there where she could see him.
 
-### The Baffle – Monday, October 24, 2044 – ~11:30
+### Part 2: The Baffle – Monday, October 24, 2044 – ~11:30
 
 Wyatt wiped a streak of dark grease from his forehead with the back of his hand, his muscles burning as he finally muscled the secondary coolant valve closed. The massive iron wrench slipped with a heavy *clack*, but the line was sealed.
 
@@ -519,7 +519,7 @@ Wyatt barked out a laugh, the sound rich and incredibly relieved. He pushed hims
 
 They weren't just surviving. They were a team. And they had just kept their lifeboat breathing.
 
-### The Harvest – Monday, October 24, 2044 – ~11:45
+### Part 3: The Harvest – Monday, October 24, 2044 – ~11:45
 
 Wyatt slowly let go of Sarah, the adrenaline of the near-miss finally settling into a dull ache in his shoulders. The station’s life-support manifold was humming with a steady, rhythmic thrum, pumping clean, cold oxygen back into the air vents.
 
@@ -579,7 +579,7 @@ They were millions of miles from the worlds they knew, floating in a rusted tin 
 
 They were going to be okay.
 
-### The Acceleration – Monday, October 24, 2044 – 12:05 (They hadn't even been out of the engine room for twenty minutes)
+### Part 4: The Acceleration – Monday, October 24, 2044 – 12:05 (They hadn\'t even been out of the engine room for twenty minutes)
 
 The crisp, sweet juice of the apple was still cold on Wyatt’s tongue. He took another bite, the loud crunch echoing comfortably in the thick, humid air of the Hydroponics Bay. Sarah leaned against the heavy iron bulkhead beside him, a soft, genuine smile finally relaxing the tense lines around her eyes.
 
@@ -633,7 +633,7 @@ Sarah buried her face in his chest, her hands gripping his undershirt like a lif
 
 Wyatt didn't answer. He just held her, staring into the harsh purple glare of the UV lights. Because looking at the timeline, the terrifying reality was that Earth might not even make it to the weekend.
 
-### Scorched Earth – Monday, October 24, 2044 – ~12:15 (The military broadcast states scorched earth was authorized at 1300 hours on Earth)
+### Part 5: Scorched Earth – Monday, October 24, 2044 – ~12:15 (The military broadcast states scorched earth was authorized at 1300 hours on Earth)
 
 The heavy, metallic silence in the Hydroponics Bay was completely suffocating. The rush of the newly repaired water pump, which had sounded like a triumph just minutes ago, now sounded like a ticking clock.
 
@@ -687,7 +687,7 @@ They were frightened, deeply scarred, and completely alone in the universe. But 
 
 ## The Glass Wall
 
-### An Attempt at Normalcy – Monday, October 24, 2044 – Evening (e.g. ~20:00)
+### Part 1: An Attempt at Normalcy – Monday, October 24, 2044 – Evening (e.g. ~20:00)
 
 The amber sconces in the Recreation Lounge cast a warm, low-level glow over the faux-walnut paneling. After the deafening, grease-stained chaos of the engine room and the sheer psychological terror of the afternoon's broadcasts, the heavy soundproofing of the room felt like a physical embrace.
 
@@ -739,7 +739,7 @@ They were alive. The lifeboat was holding. And down on Earth, humanity was fight
 
 Sarah shifted closer, burying her face into his chest, letting the exhaustion of the longest day of their lives finally pull her under. Wyatt held her tight, his eyes watching the dark screen of the 1970s console TV, standing guard in the quiet dark.
 
-### Shedding the Armor – Tuesday, October 25, 2044 – Morning (e.g. ~08:00) (The deep-space morning cycled over the outpost)
+### Part 2: Shedding the Armor – Tuesday, October 25, 2044 – Morning (e.g. ~08:00) (The deep-space morning cycled over the outpost)
 
 The heavy, mechanical reality of the Nevada Test and Training Range was designed to break you. One of the most insidious ways Apex Defense Solutions achieved this wasn't through grueling physical labor or the constant threat of violence, but through the systematic destruction of basic human dignity.
 
@@ -817,7 +817,7 @@ She looked across the small, faux-wood table at Wyatt. He was wearing clean civi
 
 "Eat your omelet," Sarah said softly, reaching across the small table to rest her hand gently over his. "You have a hydroponics pump to check on later."
 
-### The Ghost Ship – Tuesday, October 25, 2044 – ~10:00 (Exactly two hours after breakfast)
+### Part 3: The Ghost Ship – Tuesday, October 25, 2044 – ~10:00 (Exactly two hours after breakfast)
 
 The remnants of the omelets were cleared away, the heavy ceramic plates soaking in the small galley sink. For exactly two hours, Wyatt and Sarah had allowed themselves to believe they were safe. They had sat in the Recreation Lounge, the soft cotton of their clean clothes feeling like a physical shield against the universe, and just breathed.
 
@@ -885,7 +885,7 @@ Sarah looked from the terrifying void of space back to the dot-matrix printout i
 
 "We have to go back to the Boiler Room," Wyatt said, turning toward the door. "And we have to wake this ghost ship up."
 
-### The Void – Tuesday, October 25, 2044 – ~10:30 (Dropship is four hours out)
+### Part 4: The Void – Tuesday, October 25, 2044 – ~10:30 (Dropship is four hours out)
 
 The frantic energy of their realization immediately funneled into cold, methodical action. They had less than four hours before an Apex hit squad breached the station, and to turn this rusted listening post back into a heavy freighter, they had to break its chains.
 
@@ -949,7 +949,7 @@ Wyatt reached into his canvas satchel, pulling out the first heavy block of plas
 
 One down. Three to go. And the clock was mercilessly ticking.
 
-### The Ghost Awakens – Tuesday, October 25, 2044 – ~11:15 (Forty-five minutes of absolute agony)
+### Part 5: The Ghost Awakens – Tuesday, October 25, 2044 – ~11:15 (Forty-five minutes of absolute agony)
 
 *"Charge four is set. I'm heading back."*
 
@@ -1023,7 +1023,7 @@ Wyatt and Sarah had escaped the drop, but they were no longer just hiding. They 
 
 ## The Nomad
 
-### A Vector to Nowhere – Tuesday, October 25, 2044 – ~13:30 (Two hours later after leaving orbit)
+### Part 1: A Vector to Nowhere – Tuesday, October 25, 2044 – ~13:30 (Two hours later after leaving orbit)
 
 The viewport in the Operations center used to be a framed photograph of a dead, unmoving cosmos. Now, it was a living window.
 
@@ -1077,7 +1077,7 @@ He pulled his hand back, settling it comfortably around Sarah's waist again. He 
 
 Sarah smiled, resting her cheek against his hair, watching the stars streak by in the dark. The universe was massive, hostile, and actively hunting them, but as long as the engines purred and Wyatt was sitting right beside her, she was ready for the ride.
 
-### The Hubris of Apex – Tuesday, October 25, 2044 – ~14:00 (Yellowstone erupts; broadcast states event occurred at 0915 hours Earth-time)
+### Part 2: The Hubris of Apex – Tuesday, October 25, 2044 – ~14:00 (Yellowstone erupts; broadcast states event occurred at 0915 hours Earth-time)
 
 The rich, sweet taste of the hot chocolate had just begun to settle Wyatt’s nerves when the low, rhythmic hum of the Operations center was broken by a sudden burst of audio.
 
@@ -1139,7 +1139,7 @@ Wyatt reached over, pulling her tightly against his chest. He rested his chin on
 
 They were flying a ghost ship into the unknown, safe behind heavily armored bulkheads. But as Wyatt looked out into the black, the corporate assassins who had done this weren't just a threat to evade anymore. They were an enemy.
 
-### The Billionaire’s Secrets – Tuesday, October 25, 2044 – ~14:30
+### Part 3: The Billionaire’s Secrets – Tuesday, October 25, 2044 – ~14:30
 
 The horrific broadcast about Yellowstone and the ash cloud hung heavily in their minds, a grim reminder of the world they were leaving behind. But Outpost Delta 9—no, *The Nomad*, as Sarah had quietly started calling it in her head—was currently millions of miles away from the ash, the corporate assassins, and the dying earth.
 
@@ -1201,7 +1201,7 @@ Sarah smiled, a deep, radiant warmth filling her chest as she rested her hands o
 
 Sarah leaned her head against his shoulder, listening to the quiet, powerful hum of the FTL drive in the next room. Earth was burning, and Apex was hunting them. But standing barefoot in the heart of their new, heavily armed dreadnought, the universe suddenly felt like it belonged to them.
 
-### The 2044 Reveal – Tuesday, October 25, 2044 – ~15:00
+### Part 4: The 2044 Reveal – Tuesday, October 25, 2044 – ~15:00
 
 The analog warmth of the music studio was staggering, but Wyatt’s eyes were drawn to a sleek, frosted-glass door tucked into the far corner of the server room. It completely lacked the heavy iron rivets, brass hinges, and rusted-steel aesthetic of the upper decks. It looked like it had been lifted straight out of a modern, ultra-high-end Apex corporate laboratory.
 
@@ -1255,7 +1255,7 @@ Wyatt leaned back in the ergonomic chair, reaching up to cover Sarah's hands wit
 
 But inside *The Nomad*, sitting barefoot in a room that held the sum total of human knowledge, limitless processing power, and the absolute bleeding edge of technology... they had everything they would ever need to build a new life among the stars.
 
-### The Blank Slate – Tuesday, October 25, 2044 – ~15:15
+### Part 5: The Blank Slate – Tuesday, October 25, 2044 – ~15:15
 
 The soft, pulsing light on the server tower cast a faint blue glow across the plush acoustic carpet. Wyatt and Sarah stood barefoot in front of the massive, curved workstation monitor, staring at the clean, structured text of the localized Generative Assistant.
 
@@ -1321,7 +1321,7 @@ They had stolen a doomsday bunker, but Aria had just turned it into a home.
 
 ## The Frontier
 
-### The Coordinates – Wednesday, October 26, 2044 – 09:00
+### Part 1: The Coordinates – Wednesday, October 26, 2044 – 09:00
 
 The soft, dynamic LED lighting in the 2044-era tech room was set to a warm, inviting morning glow.
 
@@ -1399,7 +1399,7 @@ Sarah slipped off the edge of the desk, her bare feet landing softly on the carp
 
 They left the pristine, glowing tech room behind, walking barefoot down the corridors of *The Nomad*, ready to throw the heavy iron switches that would finally leave the dying Earth behind forever.
 
-### The Spacetime Fold – Wednesday, October 26, 2044 – 09:15 HRS
+### Part 2: The Spacetime Fold – Wednesday, October 26, 2044 – 09:15 HRS
 
 Wyatt and Sarah walked barefoot back up the heavy iron ladders of the central hub, leaving the pristine, 2044-era technology of the lower decks behind. As they stepped through the heavy double doors into the Operations center, the familiar, archaic atmosphere of the 1970s command room greeted them.
 
@@ -1459,7 +1459,7 @@ They were traveling faster than light, completely untrackable, and headed toward
 
 For the very first time since they had signed their lives away, the universe actually belonged to them.
 
-### The Interstellar Road Trip – Wednesday, October 26, 2044 – 09:30
+### Part 3: The Interstellar Road Trip – Wednesday, October 26, 2044 – 09:30
 
 The Operations center was perfectly silent, save for the low, powerful thrum of the FTL drive vibrating through the floor plates. Outside the massive viewport, the universe was a swirling, hypnotic tunnel of refracted blue and purple light.
 
@@ -1539,7 +1539,7 @@ Sarah sat up slightly, squinting at the screen. She looked at the three musician
 
 Outside the hull, the universe was a terrifying, violent place. But inside *The Nomad*, hurtling through the spacetime fold at impossible speeds while laughing over a sixty-year-old movie cameo, everything was absolutely perfect.
 
-### The Algorithm's Gift – Wednesday, October 26, 2044 – 16:00
+### Part 4: The Algorithm\'s Gift – Wednesday, October 26, 2044 – 16:00
 
 The heavy VCR clicked loudly, automatically rewinding the final tape as the credits rolled off the massive CRT television. The screen faded to a soft, static blue, casting a quiet, flickering glow across the spacious Captain's Quarters.
 
@@ -1617,7 +1617,7 @@ Wyatt looked out over the thriving garden, holding the woman he loved perfectly 
 
 "Best clerical error in corporate history," Wyatt agreed softly.
 
-### The Blank Slate – Thursday, October 27 to Tuesday, November 1, 2044 (FTL Transit)
+### Part 5: The Blank Slate – Thursday, October 27 to Tuesday, November 1, 2044 (FTL Transit)
 
 For the next six days, *The Nomad* became a universe unto itself.
 
@@ -1687,7 +1687,7 @@ They ate at the small, square dining table securely bolted to the grated floor. 
 
 They clinked their heavy ceramic mugs together, toasting to the empty universe outside their window. They laughed, they ate, and they treated the massive dreadnought like it was a luxury apartment. The ghosts of Nevada were finally, truly behind them.
 
-### The Backlog – Tuesday, November 1, 2044 – 09:30
+### Part 6: The Backlog – Tuesday, November 1, 2044 – 09:30
 
 The 144-hour mark arrived exactly as Aria had predicted.
 
@@ -1727,7 +1727,7 @@ It began churning out continuous-feed paper at maximum speed, the pins striking 
 
 Wyatt and Sarah froze, the serene beauty of their new planet completely overshadowed by the agonizing, mechanical screams of the world they had left behind.
 
-### The Backlog – Tuesday, November 1, 2044 – 09:32
+### Part 7: The Backlog – Tuesday, November 1, 2044 – 09:32
 
 The heavy dot-matrix printer screamed, the mechanical pins striking the ribbon with the frantic, deafening rhythm of a machine gun. *ZZZT-ZZZT-ZZZT-ZZZT!*
 
