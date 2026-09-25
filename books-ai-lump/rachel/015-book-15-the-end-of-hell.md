@@ -136,7 +136,6 @@ The terminal was cavernous and deeply institutional, echoing with the ambient mu
 I leaned forward, resting my elbows on my knees, and watched her approach the thick plexiglass partition. 
 
 "I need two one-way tickets," Delores told the agent behind the glass, her voice carrying sharply across the relatively quiet terminal. "From Norfolk to Seattle, Washington."
-"I need two tickets," Delores told the agent behind the glass, her voice carrying sharply across the relatively quiet terminal. "From Norfolk to Seattle, Washington."
 
 The agent didn't look up, his fingers flying across a heavy, mechanical keyboard. "Two adults. Norfolk to Seattle. That'll be on the cross-country local route." 
 
@@ -173,7 +172,6 @@ The interior was suffocating. The air was a stagnant, climate-controlled mixture
 
 I found Delores sitting in the middle of the bus, having already claimed the window seat. I collapsed into the aisle seat next to her, my knees immediately pressing against the hard plastic back of the row in front of me. The legroom was nonexistent. My CP was already screaming for relief, and the bus hadn't even shifted into gear. 
 
-I pulled my prepaid cell phone out of my jacket pocket and stared at the blank screen. 
 I pulled my Nokia 3310 out of my jacket pocket and stared at the blank screen. It was on Ellen's family plan—she paid the bill every month just to make sure I had a lifeline. 
 
 *Jessica.*
@@ -405,7 +403,7 @@ By the time the sun dipped below the horizon, plunging the cabin back into a fre
 
 So I sat perfectly still in the dark, enduring the physical degradation, waiting for the Missouri crawl to end. 
 
-At seven-thirty in the evening, the heavy diesel engine downshifted, and the bus finally exited the highway. The bright, sodium-vapor streetlights of Kansas City, Missouri bled through the tinted windows, washing the cabin in a harsh, sickly yellow glow. 
+At eleven o.clock at night, the heavy diesel engine downshifted, and the bus finally exited the highway. The bright, sodium-vapor streetlights of Kansas City, Missouri bled through the tinted windows, washing the cabin in a harsh, sickly yellow glow. 
 
 The air brakes hissed as we pulled into the downtown terminal. 
 
@@ -418,30 +416,6 @@ I gripped the plastic headrest in front of me, using my upper body strength to h
 I limped out of the bus and dragged our massive suitcases toward the terminal entrance. The night air was bitterly cold, carrying the sharp bite of the approaching Midwest winter. 
 
 We were changing buses again. Another terminal, another set of vending machines, another dark, vibrating cabin waiting to carry us through the night. The ninety-six-hour clock was ticking, and the psychological and physical exhaustion was compounding so fast I didn't know if my chassis would survive the ascent into the Rockies.
-
-### Part 6: The Heart of the Night
-
-The five-hour drive across the state of Missouri had felt like an eternity. Delores’s suffocating, weaponized silence stretched through the claustrophobic darkness of the cabin, unbroken and absolute. 
-
-I sat perfectly still, enduring the physical degradation of my CP spasticity locking up my lower back and legs. Every mile on Interstate 70 was another blow to my chassis. 
-
-At eleven o'clock at night, the heavy diesel engine finally downshifted, and the bus exited the highway. The bright, sodium-vapor streetlights of Kansas City, Missouri bled through the tinted windows, washing the cabin in a harsh, sickly yellow glow. 
-
-The air brakes hissed as we pulled into the massive downtown terminal. 
-
-"Kansas City," the driver announced, his voice ragged over the PA system. "This bus terminates here. All passengers must disembark. If you are continuing west to Denver, gather your luggage and proceed inside the terminal for your transfer."
-
-Delores stood up instantly, breaking her silence with a sharp, commanding snap. "Get the bags. Don't make me wait."
-
-I gripped the plastic headrest in front of me, using my upper body strength to haul myself out of the seat. My right leg almost gave out the second my boot hit the rubber floor of the aisle. I bit the inside of my cheek to keep from making a sound, forcing my locked joints to bear my weight. 
-
-I limped out of the bus and dragged our massive suitcases toward the terminal entrance. The night air was bitterly cold, carrying the sharp bite of the approaching Midwest winter. 
-
-We were changing buses again. Another terminal, another massive delay, another set of vending machines. My Kova phone vibrated faintly in my pocket as I dragged the suitcases through the glass doors. 
-
-It was approaching midnight. 
-
-Sunday was finally over. We had survived the second day, but the ninety-six-hour clock was ticking, and the psychological and physical exhaustion was compounding so fast I didn't know how I was going to survive the ascent into the Rockies.
 
 ## Chapter 4: The Northern Anchor (Monday, November 13, 2006)
 
@@ -491,10 +465,8 @@ I followed her out of the bus and into the bright convenience store attached to 
 
 She didn't argue. She simply walked over to the aisles and started picking out snacks. I walked over to the self-service warmer near the register and grabbed a hot bacon, egg, and cheese biscuit. Remembering the disaster in Richmond, I completely bypassed the dairy cooler and grabbed two plastic bottles of apple juice instead. I loaded the counter with the hot biscuit, Delores's breakfast, and a small pile of convenience store snacks and drinks for the long road into the Rockies. 
 
-I handed the cashier a crisp twenty-dollar bill from the hidden stack in my wallet. 
 I handed the cashier my debit card, sliding the plastic through the terminal.
 
-As the cashier handed me my change, a quiet wave of relief washed over me. Delores was standing right next to me, watching me pay for multiple meals, drinks, and snacks over the last two days, and yet she never once questioned where the money was coming from. In her narcissistic worldview, she simply accepted the convenience of the financial bailout without interrogating the source. 
 As the cashier handed me the receipt, a quiet wave of relief washed over me. Delores was standing right next to me, watching me pay for multiple meals, drinks, and snacks over the last two days, and yet she never once questioned where the money was coming from. In her narcissistic worldview, she simply accepted the convenience of the financial bailout without interrogating the source. 
 
 It was a small victory. Jessica's secret payroll deposits remained safe, completely hidden in plain sight. 
@@ -503,7 +475,6 @@ We walked back out into the bright Kansas sun, carrying our plastic bags of food
 
 But just as quickly, the expression hardened. She turned her back on the east and marched toward the bus. 
 
-As we approached the door, however, we realized the bus wasn't boarding. The driver was standing on the pavement near the side of the coach, staring helplessly at the massive mechanical wheelchair lift built into the side of the MCI bus. The older passenger from St. Louis—the same man whose footrests had caused yesterday's explosion—was waiting patiently in his chair to disembark and use the restroom. 
 As we approached the door, however, we realized the bus wasn't boarding. The driver was standing on the pavement near the side of the coach, staring helplessly at the massive mechanical wheelchair lift built into the side of the Atlas Motorcoach bus. The older passenger from St. Louis—the same man whose footrests had caused yesterday's explosion—was waiting patiently in his chair to disembark and use the restroom. 
 
 "I don't know how to deploy it," the driver was admitting to a small crowd of restless passengers, wiping sweat from his forehead. "The guy who loaded him in St. Louis knew the override, but I've never operated this model."
@@ -685,7 +656,6 @@ I looked at her, my breathing shallow and erratic.
 The mask of the inconvenienced, narcissistic girlfriend had completely vanished. Her eyes were dark, devoid of any warmth or basic human empathy. The psychological abuse of the last three days—the weaponized silence, the forced dehydration, the control over my finances—had merely been the prologue. 
 The mask of the inconvenienced, narcissistic girlfriend had completely vanished. But it wasn't replaced by hostility or anger. 
 
-She stepped toward me, closing the physical distance in the small, tiled room. 
 Instead, a chilling, sickening sweetness washed over her features. The rigid tension in her shoulders vanished. She took a step toward me, closing the physical distance in the small, tiled room, and her voice dropped into a soft, alluring whisper. 
 
 "I know you want this," she murmured, her tone completely devoid of the sharp, defensive edge she had wielded for the last three days. 
@@ -724,25 +694,21 @@ I don't remember walking back to the coach. I don't remember climbing the rubber
 
 I sat in the aisle seat, staring blankly at the back of the gray fabric seat in front of me. 
 
-Next to me, Delores was casually looking out the window, completely unaffected by the horrific boundary she had just crossed in the terminal restroom. Her emotional baseline was infuriatingly calm. 
 Next to me, Delores was casually looking out the window, completely unaffected by the horrifying trap she had just set in the terminal restroom. Her emotional baseline was infuriatingly calm. 
 
 I shrank into myself. I pulled my arms tight against my chest and kept my eyes fixed forward. I didn't want to move. I didn't want to breathe too loudly. I just wanted to be invisible. If I could just crawl under a stone and disappear from her line of sight entirely, maybe I could survive the rest of the day. 
 
 The bus pulled out of Pasco, beginning the final, grueling ascent through Washington State. 
 
-The hours that followed were a blur of geographical milestones that barely registered in my shattered consciousness. We rolled through Yakima. We climbed higher into the state, the air growing colder as we passed through Ellensburg. By the time the massive Pathfinder coach began its final descent over the Cascade Mountains, the sun had already dropped behind the rugged peaks, plunging the Pacific Northwest into a deep, freezing darkness. 
 The hours that followed were a blur of geographical milestones that barely registered in my shattered consciousness. We rolled through Yakima. We climbed higher into the state, the air growing colder as we passed through Ellensburg. The massive Pathfinder coach began its final descent over the Cascade Mountains in the mid-afternoon, racing against the gray, overcast Seattle sky. 
 
 My right hip was no longer just burning. The pressure sore felt like a jagged piece of glass embedded in my tissue. Every shift of the bus over the mountain passes sent a violent shockwave of pain up my spine, but I refused to make a sound. I remained absolutely motionless, trapped in my self-imposed invisibility. 
 
-Around 5:30 PM, the heavy coach merged onto Interstate 5, descending directly into the chaotic, sprawling grid of downtown Seattle. 
 Around 3:30 PM, the heavy coach merged onto Interstate 5, descending directly into the chaotic, sprawling grid of downtown Seattle. 
 
 The contrast was violently overwhelming. After days of staring at open plains and dark, empty deserts, we were suddenly thrust into the thick of evening rush hour traffic. Blinding headlights, towering skyscrapers, and a maze of brake lights surrounded the bus. 
 The contrast was violently overwhelming. After days of staring at open plains and empty deserts, we were suddenly thrust into the thick of a bustling metropolis. Towering skyscrapers and a maze of brake lights surrounded the bus. 
 
-The driver navigated the massive vehicle off the interstate and down the cramped city streets, finally pulling into the main Pathfinder terminal at 911 Stewart Street. 
 The driver navigated the massive vehicle off the interstate and down the cramped city streets, finally pulling into the main Pathfinder terminal at 811 Stewart Street. 
 
 The air brakes hissed a final, definitive sigh. The engine idled down. 
@@ -2005,9 +1971,8 @@ I started crying badly, my knees giving out as I sank onto the edge of her mattr
 
 As I sat there mechanically eating the cereal, I whimpered, "I can’t believe this is happening."
 
-"Let me be honest," Jessica said, sitting across from me. "You will find someone who treats you well. Delores treated you like gutter trash. Look at me. Rachel, Kristin, and I are going to spend Christmas weekend with Dad and Cathy down in Vancouver. I’m going to let them know you’re going to be with us, too."
+"Let me be honest," Jessica said, sitting across from me. "You will find someone who treats you well. Delores treated you like gutter trash. Look at me. Rachel, Kristin, and I are going to spend Thanksgiving weekend with Dad and Cathy down in Vancouver. I’m going to let them know you’re going to be with us, too."
 
-She wheeled over to the table and pulled her cell phone out. She looked at the screen and sighed. "It’s only 6:35 AM. They won’t be up yet. Even I’m just now usually starting to get up on a Sunday."
 She wheeled over to the table and pulled her cell phone out. She looked at the screen and sighed. "It’s only 6:35 AM. They won’t be up yet. I usually don't even get up until seven on a weekday."
 
 "I’m sorry I woke you up, Jess," I sobbed, the guilt twisting in my gut.
@@ -2118,9 +2083,9 @@ It sure felt good getting a decent, secure nap in.
 
 I don't know how long I slept, but the radio on the nightstand slowly drifted into my consciousness.
 
-"You’re listening to KSEA-FM – Seattle, Olympia, Mt. Vernon – playing Christmas Favorites of Yesterday & Today," the cheerful DJ announced. "Up next is Cram with This Christmas, followed by a listener request: Christmas, Don’t Be Late."
+"You’re listening to KSEA-FM – Seattle, Olympia, Mt. Vernon – playing the Hits of Yesterday & Today," the cheerful DJ announced. "Up next is a listener request from Kent."
 
-A few minutes later, the very familiar, bubbly, synth-pop percussive opening of a well-known holiday tune kicked in. It was *Last December* by Neon Horizon.
+A few minutes later, the very familiar, bubbly, synth-pop percussive opening of a well-known 80s synth-pop tune kicked in. It was *Last December* by Neon Horizon.
 
 The moment the chords registered in my brain, the phantom sensation of the Quantum corporate lobby and the humiliating memory of Delores dragging me away flooded my system. I threw myself violently across the mattress, burying myself into Jessica’s arms, and wailed.
 
