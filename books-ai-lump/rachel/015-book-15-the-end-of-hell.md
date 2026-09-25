@@ -10,9 +10,7 @@ series: "The Rachel Narrative"
 ### Part 1: The Pitch
 
 The walls of the Westbreeze Apartments in Portsmouth were incredibly thin. I was sitting on the edge of the mattress in the small bedroom I shared with Delores, trying to block out the ambient noise of her mother, Robyn, moving around in the kitchen. 
-The walls of the Westbreeze Apartments in Portsmouth were incredibly thin. I was sitting on the edge of the mattress in the small bedroom I shared with Delores, listening to the ambient noise of her mother, Robyn, moving around in the kitchen. 
 
-I didn't officially live here. I wasn't on the lease, and I had no legal right to the space. I existed entirely in a state of suspended animation, occupying a corner of Delores and Robyn's apartment, stripped of any real autonomy. 
 Robyn had welcomed me into their apartment with open arms, and I took that welcome entirely at face value. Because they told me I was welcome, I believed I was welcome. As far as I knew, I was a permanent, equal member of the household. I had absolutely no idea that I wasn't on the lease, or that my complete lack of legal rights made me incredibly vulnerable. To my literal, system-oriented brain, we were simply a family sharing a space. 
 
 The bedroom door clicked open. Delores walked in, closing it firmly behind her. She had a strange, almost manic energy radiating from her posture. 
@@ -145,7 +143,6 @@ The agent didn't look up, his fingers flying across a heavy, mechanical keyboard
 
 I stared at the scuffed linoleum floor, my chest tightening. Ninety-nine dollars. 
 
-For ninety-nine dollars, Delores was buying a nearly three-thousand-mile relocation. She was completely uprooting my existence and dragging me across the continent on the absolute cheapest, lowest-tier commercial transit network available. There was no consideration for the physical toll the seats would take on my chassis, or the sheer agonizing duration of the trip. The only variable that mattered in her psychological perimeter was the financial cost. She was securing total isolation for less than two hundred dollars. 
 For ninety-nine dollars, Delores had chosen to subject us to a nearly three-thousand-mile overland nightmare. Under the guise of taking a "vacation" to visit my sisters in Seattle, she was dragging me across the continent on the absolute cheapest, lowest-tier commercial transit network available. There was no consideration for the physical toll the rigid seats would take on my chassis, or the sheer agonizing duration of spending four days in a vibrating metal tube. The only variable that mattered in her psychological perimeter was the financial cost. She was securing total control over the itinerary for less than two hundred dollars. 
 
 Delores slid the cash under the plexiglass partition. A few moments later, a loud dot-matrix printer ground to life behind the counter, loudly ratcheting out two impossibly long, perforated paper ticket sleeves. 
@@ -684,7 +681,6 @@ She stepped back, smoothing her clothes with a chilling, robotic calmness.
 She unlocked the deadbolt, pulled the heavy door open, and walked out into the terminal without looking back. 
 
 I stood alone in the tiled restroom, my body trembling so violently I could barely remain standing. The pressure sore on my hip burned like a live coal, but the physical pain was entirely eclipsed by the devastating psychological shock of the Pasco Lock. The final illusion of safety had been utterly annihilated. 
-I stood alone in the tiled restroom, my body trembling so violently I could barely remain standing. The pressure sore on my hip burned like a live coal, but the physical pain was entirely eclipsed by the devastating psychological shock. The final illusion of safety had been utterly annihilated. As I stared at the closed wooden door, my shattered mind repeated a single, desperate plea on a loop. 
 
 *Just let me be invisible. Just let me crawl under a stone.*
 
