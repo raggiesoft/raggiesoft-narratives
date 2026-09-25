@@ -92,9 +92,51 @@ foreach ($narrativeDirs as $narrativeDir) {
         continue;
     }
 
+    // -------------------------------------------------------------
+    // SYNC KATIE.JSON WITH MARKDOWN YAML FRONTMATTER
+    // -------------------------------------------------------------
+    $manifestUpdated = false;
+    $booksKey = isset($katie['books']) ? 'books' : null;
+    $books = $booksKey ? $katie['books'] : $katie;
+
+    foreach ($books as $bIndex => $book) {
+        if (!isset($book['chapters'])) continue;
+        foreach ($book['chapters'] as $cIndex => $chapter) {
+            if (!isset($chapter['parts'])) continue;
+            foreach ($chapter['parts'] as $pIndex => $part) {
+                $filePath = $narrativeDir . '/' . $part['file_path'];
+                if (file_exists($filePath)) {
+                    $partContent = file_get_contents($filePath);
+                    if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
+                        if (preg_match('/^title:\s*"?([^"\r\n]+)"?/m', $matches[1], $m)) {
+                            $yamlTitle = trim($m[1]);
+                            $partNum = $part['part_num'] ?? ($pIndex + 1);
+                            $newPartTitle = "Part {$partNum}: {$yamlTitle}";
+                            
+                            if (!isset($part['part_title']) || $part['part_title'] !== $newPartTitle) {
+                                if ($booksKey) {
+                                    $katie['books'][$bIndex]['chapters'][$cIndex]['parts'][$pIndex]['part_title'] = $newPartTitle;
+                                } else {
+                                    $katie[$bIndex]['chapters'][$cIndex]['parts'][$pIndex]['part_title'] = $newPartTitle;
+                                }
+                                $manifestUpdated = true;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    if ($manifestUpdated) {
+        echo "  [Sync] Updating katie.json with Markdown Frontmatter titles...\n";
+        file_put_contents($manifestFile, json_encode($katie, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+        // Re-assign books so it has the new titles for the routes
+        $books = $booksKey ? $katie['books'] : $katie;
+    }
+
     $seriesTitle = !empty($katie['series_title']) ? $katie['series_title'] : $narrativeName;
     $seriesSlug = !empty($katie['series_slug']) ? $katie['series_slug'] : $narrativeName;
-    $books = $katie['books'] ?? $katie;
 
     // --- STEP A: DESTRUCTIVE ASSET SYNC ---
     $targetAssetDir = $assetDestDir . '/' . $seriesSlug;

@@ -684,7 +684,7 @@ I stood alone in the tiled restroom, my body trembling so violently I could bare
 
 *Just let me be invisible. Just let me crawl under a stone.*
 
-### Part 3: 911 Stewart Street
+### Part 3: The Final Ascent
 
 I don't remember walking back to the coach. I don't remember climbing the rubber steps or placing my carry-on bag in the overhead rack. My brain had completely dissociated, retreating behind a thick, impenetrable fog of pure survival instinct. 
 
