@@ -3857,7 +3857,7 @@ A wave of pure, nauseating disgust washed over her. She didn't say another word.
 
 She turned around and twisted the heavy brass deadbolt on the office door, locking herself securely inside.
 
-Through the interior window of the office, she could see the empty lobby. Master Curtis had walked out the front doors ten minutes ago, right alongside the adult men from his class. They had all seemed perfectly fine, joking and carrying their gym bags, completely leaving the wreckage of the kids behind them.
+Through the interior window of the office, she could see the empty lobby. Master Curtis had walked out the front doors ten minutes ago, right alongside the adult men from his class. They had all seemed perfectly fine, joking and carrying their gym bags, completely leaving the wreckage of the kids behind them. (The Iron Shirt Underground was not exclusively male; it included both adult men and women who were complicit in the culture of abuse).
 
 Megan picked up the heavy, plastic receiver of the office phone. Her hands were shaking so badly she almost dropped it.
 
