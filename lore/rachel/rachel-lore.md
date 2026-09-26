@@ -6,7 +6,7 @@
 
 - **Role in the Family:** The Logistical Anchor; Rachel's designated "Safe Person."
 
-- **Neurotype & Physical Reality:** Undiagnosed Autistic and Cerebral Palsy. Did not speak his first words until he was five years old. Experiences spasticity that occasionally requires physical assistance for tasks requiring fine motor control (like shaving).
+- **Neurotype & Physical Reality:** Undiagnosed Autistic and Cerebral Palsy. Did not speak his first words until he was five years old. Experiences spasticity that occasionally requires physical assistance for tasks requiring fine motor control (like shaving). **[LLM DIRECTIVE: Michael's adult height is exactly 5'7" (170cm). He is precisely the same height as his sister Rachel.]**
 
 - **Personality & Traits:** \* Highly analytical and deeply focused on mechanical workarounds. When a system or physical limitation blocks him, he finds a loophole (using a Nova Turbo controller, exploiting calling cards).
 
@@ -20,7 +20,7 @@
 
 - **Role in the Family:** The Fiercely Loyal Shadow.
 
-- **Neurotype & Physical Reality:** Undiagnosed Autistic with severe situational mutism.
+- **Neurotype & Physical Reality:** Undiagnosed Autistic with severe situational mutism. **[LLM DIRECTIVE: Rachel's adult height is exactly 5'7" (170cm). She is precisely the same height as her brother Michael. Do not default to gender biases making her shorter.]**
 
 - **Speech Development:** Experienced a massive delay in spontaneous speech, remaining largely nonverbal well into puberty. Her earliest vocalizations were pure musical echolalia. By 2003 (her junior year), she pioneers her own AAC workaround, carrying a heavy laptop running Quantum OS XN Pro and using Quantum Suite to type her thoughts in class.
 
@@ -1986,13 +1986,13 @@ Because the absolute authority of the art descends directly from the Seonduwon i
 
 ## I. The Civilian Anchor
 
-- **Civilian Name:** April Mercer.
+- **Civilian Name:** April Morgan.
 
-- **The Utility:** "April Mercer" is the name on her Virginia driver's license, the name she uses to pay the lease on the Lynnhaven Academy, and the name her American students (like Michael and Rachel) know her by. It is the grounded, localized identity she uses to navigate her everyday suburban life.
+- **The Utility:** "April Morgan" is the name on her Virginia driver's license, the name she uses to pay the lease on the Lynnhaven Academy, and the name her American students (like Michael and Rachel) know her by. It is the grounded, localized identity she uses to navigate her everyday suburban life.
 
 ## II. The Bestowed Name (The Papal Tradition)
 
-The moment the *Choego Pyeong-uihoe* (Supreme Council) casts their unanimous vote, the civilian identity of "April Mercer" is legally and spiritually severed from the testing floor. She undergoes a formal naming ceremony, receiving her *Seondu* identity.
+The moment the *Choego Pyeong-uihoe* (Supreme Council) casts their unanimous vote, the civilian identity of "April Morgan" is legally and spiritually severed from the testing floor. She undergoes a formal naming ceremony, receiving her *Seondu* identity.
 
 - **The Bestowed Name:** **Lee Hae-jin (이해진)**.
 
@@ -2008,15 +2008,15 @@ Because the *Seonduwon* operates as a federal Ministry of the Republic of Korea,
 
 - **The State Documents:** She is issued an official South Korean passport, a Resident Registration Card (Jumin Deungnok Jeung), and her A-1 Diplomatic Visa.
 
-- **The Travel Manifests:** None of her official state documents read "April Mercer." In the eyes of the South Korean government, international customs, and the global martial arts registry, April Mercer does not exist. When she boards her flights to Seoul, the diplomatic manifest officially logs the transport of **Lee Hae-jin, State Agent of the ROK**.
+- **The Travel Manifests:** None of her official state documents read "April Morgan." In the eyes of the South Korean government, international customs, and the global martial arts registry, April Morgan does not exist. When she boards her flights to Seoul, the diplomatic manifest officially logs the transport of **Lee Hae-jin, State Agent of the ROK**.
 
 ## IV. The Irony of the Dojang
 
 - This duality creates the ultimate dramatic irony during the August 1995 testing day.
 
-- When Curtis glares at her, he just sees "April Mercer," the local Virginia Beach girl he used to boss around.
+- When Curtis glares at her, he just sees "April Morgan," the local Virginia Beach girl he used to boss around.
 
-- But when Master Scott (the 7th Dan) looks at her and formally yields the floor, he isn't bowing to April Mercer. Scott knows exactly who is standing in front of him. He is bowing to **Lee Hae-jin**, the Sea of Truth, the adopted heir to the 10th Dan, and a federally protected diplomat of a sovereign nation.
+- But when Master Scott (the 7th Dan) looks at her and formally yields the floor, he isn't bowing to April Morgan. Scott knows exactly who is standing in front of him. He is bowing to **Lee Hae-jin**, the Sea of Truth, the adopted heir to the 10th Dan, and a federally protected diplomat of a sovereign nation.
 
 # Lore Bible: The Global Network (The Twelve)
 
@@ -2026,7 +2026,7 @@ Because the *Seonduwon* operates as a federal Ministry of the Republic of Korea,
 
 - They are deliberately distributed across the world to maintain the ideological purity of the *Art* in foreign franchises.
 
-- Currently, there are only three stationed in the United States: one in Washington state, one in Hawai'i, and April Mercer (Lee Hae-jin) in Virginia.
+- Currently, there are only three stationed in the United States: one in Washington state, one in Hawai'i, and April Morgan (Lee Hae-jin) in Virginia.
 
 ## II. The Federal Transformation (Standard Operating Procedure)
 
@@ -2795,13 +2795,19 @@ In Seondu, the physical Dojang floor during a testing cycle is considered sacred
 
 - When she renders a verdict (like failing Curtis or passing Rachel), it is not a personal opinion; it is a legally binding decree recognized by the South Korean government.
 
-## 3. The Diplomatic Clearance (The Emissary Visa)
+## 3. The Diplomatic Clearance (The A-1 Visa and Citizenship)
 
-- April's American passport contains a permanent, highly classified cultural visa—functioning as an A-1 Diplomatic equivalent.
+- **The Universal Mandate:** The profound sacrifice April made is not unique to her; it is a mandatory legal requirement for all twelve *Sunhoe Sabomnim* operating globally. In order to hold the geopolitical authority of an Emissary and possess absolute criminal and civil immunity under the Vienna Convention, **every single Emissary must formally renounce their native citizenship.**
 
-- She does not need to apply for travel or state her business at customs. She has the absolute, unvetted right to enter the ROK at any time. She bypasses standard immigration lines entirely, escorted through specialized diplomatic channels directly to the Ministry.
+- As part of their naming ceremonies, the South Korean government invokes a special federal decree to grant them full citizenship in the Republic of Korea. Thus, all twelve Emissaries are exclusively ROK citizens, regardless of where they were born or where they operate.
 
-- In the eyes of international law, an attack on her while she is conducting official *Seonduwon* business is an attack on a protected cultural ambassador.
+- For April (*Lee Hae-jin*), this meant surrendering her United States citizenship. Legally, she is a foreign diplomat stationed in the country she was born in.
+
+- Her "civilian" identity as April Morgan is a carefully managed, federally recognized alias that allows her to rent property and run a business. But her true legal identity holds a Republic of Korea passport and a legitimate **U.S. Department of State A-1 Diplomatic Visa**.
+
+- **The OFM Diplomatic Driver's License:** Because she is a foreign diplomat with full immunity, she is legally forbidden from holding a standard Commonwealth of Virginia driver's license. Instead, she carries a federally issued Diplomatic Driver's License from the U.S. Department of State's Office of Foreign Missions (OFM). However, because she possesses absolute *Tongje* (Control) and considers her title a profound honor, she never abuses this immunity. She obeys every local traffic law flawlessly, ensuring her federal ID remains a symbol of silent, disciplined power rather than reckless rebellion.
+
+- In the eyes of international law, she enjoys absolute, blanket diplomatic immunity. An attack on her is legally classified as an attack on a foreign sovereign official.
 
 ## 4. The Irony of the Iron Shirt
 

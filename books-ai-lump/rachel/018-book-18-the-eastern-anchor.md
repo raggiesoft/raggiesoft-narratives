@@ -515,15 +515,17 @@ But the moment we stepped inside, my shoulders completely dropped.
 
 It was the anti-Tumblers. The floors were covered wall-to-wall in thick, forgiving, high-quality puzzle mats. The lighting was warm and evenly diffused, completely eliminating the harsh, buzzing glare. There were no massive, intimidating mirrors designed to amplify ego, and no hidden back rooms. The entire space radiated quiet, immovable Tongje—control.
 
+![Master April shows Michael and Rachel the Lynnhaven Academy Dojang]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg)
+
 "It's beautiful," Rachel whispered, her hands tracing the edge of a heavy canvas kicking shield stacked neatly in the corner.
 
 "Thank you," April smiled, walking over to her front desk and pulling a soft, flexible tailor's measuring tape from a drawer. "Alright, step up. Let's get you sized for your uniforms."
 
 I stood perfectly still as April measured my shoulders, chest, and leg inseam, jotting the numbers down on a clipboard. She moved to Rachel, executing the measurements with gentle, predictable movements that kept Rachel's sensory alarms completely quiet.
 
-"Now, for the ranks," April said, resting her hands on her hips. "You both left off at Red Belt with a stripe. I am officially ordering you red ttis to match your returning rank."
+"Now, for the ranks," April said, resting her hands on her hips. "You both left off at solid Brown Belt. I am officially ordering you brown ttis to match your returning rank."
 
-"Will it have the black tape?" Rachel asked quietly, her brow furrowing slightly at the memory of the cheap electrical tape Master Ray and Master Curtis used to signify belt progression.
+"When we test for our next rank, will the stripe be black tape?" Rachel asked quietly, her brow furrowing slightly at the memory of the cheap electrical tape Master Ray and Master Curtis used to signify belt progression.
 
 April’s expression hardened with a sudden, fierce pride.
 
@@ -555,7 +557,7 @@ I looked down, my analytical brain instantly snagging on the visual data.
 
 It was the size of a standard credit card, but it carried the undeniable visual weight of the federal government. Across the very top, printed in bold, commanding letters, it read: UNITED STATES DEPARTMENT OF STATE. Faded into the background was a highly detailed watermark of the Great Seal of the United States.
 
-But it was the photograph and the text that completely stalled my processor. The picture was a crisp, color photograph of April, but she wasn't smiling; her expression displayed a vast, unbothered stillness. And framed by a bright, solid blue border, the name printed on the card did not say April Mercer.
+But it was the photograph and the text that completely stalled my processor. The picture was a crisp, color photograph of April, but she wasn't smiling; her expression displayed a vast, unbothered stillness. And framed by a bright, solid blue border, the name printed on the card did not say April Morgan.
 
 It read: LEE HAE-JIN.
 
@@ -569,11 +571,13 @@ April didn't snatch the card away. She didn't look panicked. She simply let out 
 
 We sat down, perfectly synchronized.
 
-"The name you know me by—April Mercer—is my civilian anchor," April explained, her voice steady and deliberate. "It is the grounded, localized identity I use to navigate everyday suburban life, to pay my lease, and to exist in Virginia Beach."
+![Master April reveals her true geopolitical status]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg)
+
+"The name you know me by—April Morgan—is my civilian anchor," April explained, her voice steady and deliberate. "It is the grounded, localized identity I use to navigate everyday suburban life, to pay my lease, and to exist in Virginia Beach."
 
 She looked down at the blue-bordered card.
 
-"But the moment the Supreme Council in Seoul cast their unanimous vote to grant me the Sunhoe Sabomnim credential, my civilian identity was legally and spiritually severed from the testing floor. I underwent a formal naming ceremony. I was formally adopted into the philosophical bloodline of the Creator, 10th Dan Grandmaster Lee Dong-won. He bestowed his own surname upon me."
+"But the moment the Supreme Council in Seoul cast their unanimous vote to grant me the Sunhoe Sabomnim credential, my civilian identity was legally and spiritually severed from the testing floor," April continued. "To accept the silver thread, I had to formally renounce my United States citizenship. I underwent a naming ceremony and was formally adopted into the philosophical bloodline of the Creator, 10th Dan Grandmaster Lee Dong-won. He bestowed his own surname upon me, and the Ministry officially granted me citizenship in the Republic of Korea."
 
 Rachel gasped softly, her hands flying to her mouth.
 
