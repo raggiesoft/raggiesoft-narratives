@@ -2397,7 +2397,7 @@ In the Raggiesoft universe, the word **"Dojang"** is a highly protected, interna
 
 You cannot legally put the word "Dojang" on your storefront, your website, or your marketing materials unless your facility is actively and officially certified by the Ministry of Traditional Seondu Preservation in Seoul. If an uncertified American martial arts school attempts to use the word, they will be hit with immediate, crushing cease-and-desist orders from international corporate lawyers representing the ROK. 
 
-This is exactly why strip-mall martial arts businesses (like the ones Curtis inevitably runs after being excommunicated) are forced to use generic terms like "Academy," "Studio," or even the Japanese term "Dojo." They literally cannot use the correct Korean terminology without risking federal trademark lawsuits. 
+This is exactly why unregulated, strip-mall martial arts businesses are forced to use generic terms like "Academy," "Studio," or even the Japanese term "Dojo." They literally cannot use the correct Korean terminology without risking federal trademark lawsuits. 
 
 **Tidewater Tumblers vs. Lynnhaven Academy:**
 Before its downfall, Tidewater Tumblers *was* a legally certified Dojang. The critical difference on paper was ownership status: Ray was an American businessman holding a commercial franchise license from the Ministry. April's facility, the Lynnhaven Academy, is fundamentally different—it is a direct cultural outpost operated by a sovereign citizen of the ROK holding an A-1 Diplomatic Visa. While both were legally allowed to use the word "Dojang," one was a profit-driven franchise, and the other is an untouchable embassy of the art itself.
