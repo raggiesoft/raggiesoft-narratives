@@ -2389,6 +2389,17 @@ Because the Lynnhaven Academy of Seondu operates under the Vienna Convention as 
 
 This legal restriction creates a massive, localized financial anomaly: the tuition at the Lynnhaven Academy is significantly cheaper than surrounding martial arts franchises (like Curtis's 'McDojos'). April only needs to collect enough tuition to exactly break even on the commercial lease, utilities, and gear. This structural loophole allows ordinary, working-class suburban kids to receive elite, world-class instruction from a 6th Dan *Sunhoe Sabomnim* that would otherwise be completely unaffordable.
 
+
+## The Public Face (Website & Strict Enrollment)
+
+To protect April from martial arts tourists, federal watchers, and unwanted geopolitical media attention, the Lynnhaven Academy's public-facing website is a masterpiece of carefully balanced marketing:
+- **The Pedigree:** It proudly advertises "Master April Morgan" as a 6th Dan Black Belt directly certified by the Ministry in Seoul, trained by the 10th Dan Creator. It promises parents a highly authentic, world-class education for their children.
+- **The Omission:** It strictly omits any mention of "Lee Hae-jin," her A-1 Diplomatic Visa, or her sovereign immunity. To the local suburban parents, she is just a deeply disciplined American woman running a local business.
+
+**The "No Adults" Policy:**
+Because April is a sovereign Emissary tasked with cultivating the *future* of the art, her dojang has an iron-clad enrollment policy: **The facility NEVER trains adults off the street.** 
+If an adult is training on April's floor, they must be one of "April's kids"—students who enrolled as children, grew up in her system, and turned 18. These adults attend exclusive alumni training sessions and are strictly expected to act as mentors and protectors for the younger kids. Michael and Rachel fall perfectly into this category; despite their hiatus in Washington State, April absolutely considers them to be "her kids."
+
 ## The DSS Threat Assessment & The Federal Footprint
 
 - **State Department Security:** Grandmaster Lee Dong-won and the two accompanying 9th Dan Grandmasters did not travel on standard passports. Their visit was highly coordinated between the Republic of Korea (ROK) Embassy in Washington, D.C., and the U.S. State Department, granting them an elite diplomatic security detail.
