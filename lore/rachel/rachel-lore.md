@@ -2382,6 +2382,13 @@ The beautiful, devastating irony of this endgame is what it means for the legacy
 
 # Lore Bible: The 4th Poom Anomaly (The Diplomatic Fortress)
 
+
+## The Financial Loophole (Tuition & Accessibility)
+
+Because the Lynnhaven Academy of Seondu operates under the Vienna Convention as a non-profit cultural and educational outpost of the Republic of Korea—and not a commercial American LLC—it is legally prohibited from generating personal profit. 
+
+This legal restriction creates a massive, localized financial anomaly: the tuition at the Lynnhaven Academy is significantly cheaper than surrounding martial arts franchises (like Curtis's 'McDojos'). April only needs to collect enough tuition to exactly break even on the commercial lease, utilities, and gear. This structural loophole allows ordinary, working-class suburban kids to receive elite, world-class instruction from a 6th Dan *Sunhoe Sabomnim* that would otherwise be completely unaffordable.
+
 ## The DSS Threat Assessment & The Federal Footprint
 
 - **State Department Security:** Grandmaster Lee Dong-won and the two accompanying 9th Dan Grandmasters did not travel on standard passports. Their visit was highly coordinated between the Republic of Korea (ROK) Embassy in Washington, D.C., and the U.S. State Department, granting them an elite diplomatic security detail.
