@@ -2084,6 +2084,17 @@ This bureaucratic reality adds an immense, invisible shield to their existence.
 
 # Narrative Scenario: The Petty Sabotage (Tuesday, August 15th)
 
+
+## The Third Dan Disaster (The Saturday Testing)
+
+The Thursday assault in the warehouse did not happen in a vacuum. It was the boiling over of Curtis's completely shattered ego following the events of the previous Saturday's testing—an event internally known as **The Third Dan Disaster**.
+
+During this testing, Curtis stepped onto the mat expecting to be handed his 3rd Dan. Instead, April issued him a very public *Bulhapgyeok* (Fail). She didn't fail him because he lacked physical strength; she failed him because he was acting like a prize fighter. He relied entirely on aggressive, brute-force momentum rather than demonstrating *Tongje* (Control) or *Jeongsin* (Spirit). He treated the traditional art like a bar brawl.
+
+To make matters infinitely worse for his ego, April passed Michael and Rachel. They were small, autistic children who didn't have anywhere near his physical strength or volume. But April didn't care about volume. She saw that the children were demonstrating the true *attempt of the art*. They embodied the discipline, the focus, and the authentic spirit of Seondu that Curtis entirely lacked. 
+
+So by the time Thursday rolled around, Curtis was dealing with a toxic cocktail of humiliation: he had failed his test, the "weak" children had passed theirs, and an eight-year-old selectively mute girl had called him "mean" on Tuesday. The Core Check assault was his cowardly, desperate attempt to reclaim dominance over the children who had inadvertently humiliated him on the testing mat.
+
 ## The Setup
 
 - It is the Tuesday after the disastrous Saturday testing. Curtis is seething from his public *Bulhapgyeok* (Fail). His ego cannot accept that the matter is closed.
