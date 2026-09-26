@@ -2402,6 +2402,19 @@ This is exactly why unregulated, strip-mall martial arts businesses are forced t
 **Tidewater Tumblers vs. Lynnhaven Academy:**
 Before its downfall, Tidewater Tumblers *was* a legally certified Dojang. The critical difference on paper was ownership status: Ray was an American businessman holding a commercial franchise license from the Ministry. April's facility, the Lynnhaven Academy, is fundamentally different—it is a direct cultural outpost operated by a sovereign citizen of the ROK holding an A-1 Diplomatic Visa. While both were legally allowed to use the word "Dojang," one was a profit-driven franchise, and the other is an untouchable embassy of the art itself.
 
+
+## The Origin of the Fortress (The Fall of Tidewater Tumblers)
+
+The Lynnhaven Academy of Seondu was never originally part of April’s plan. It was born out of absolute, protective necessity following the criminal collapse of Tidewater Tumblers in August 1995.
+
+April had grown up training at Tidewater Tumblers. Because it was an officially certified Ministry franchise at the time, she would have been perfectly content to simply use their floor and their infrastructure to teach and test her own pupils as an Emissary. She had no desire to deal with commercial leases, utility bills, or marketing. 
+
+However, when Master Curtis brutally abused the children during "The Core Check" (literally stepping on Michael, Rachel, six-year-old Drew, and others), it triggered a massive, multi-agency criminal sting. Curtis was arrested for felony child abuse, Ray was arrested for gross negligence and complicity, and the police padlocked the doors, legally sealing the facility as a crime scene. Tidewater Tumblers was physically and legally annihilated overnight.
+
+This left dozens of traumatized children (including Michael and Rachel) completely stranded without a safe place to heal or continue the journey they had started. 
+
+April was forced to step in. She couldn't send the survivors to another Americanized strip-mall franchise, so she built them a fortress. She opened the Lynnhaven Academy not to run a business, but to establish a physical, legally untouchable sanctuary where she controlled the lease, the locks, and the floor. It is the ultimate manifestation of her role as the guardian of the art.
+
 ## The Public Face (Website & Strict Enrollment)
 
 To protect April from martial arts tourists, federal watchers, and unwanted geopolitical media attention, the Lynnhaven Academy's public-facing website is a masterpiece of carefully balanced marketing:
