@@ -2390,6 +2390,18 @@ Because the Lynnhaven Academy of Seondu operates under the Vienna Convention as 
 This legal restriction creates a massive, localized financial anomaly: the tuition at the Lynnhaven Academy is significantly cheaper than surrounding martial arts franchises (like Curtis's 'McDojos'). April only needs to collect enough tuition to exactly break even on the commercial lease, utilities, and gear. This structural loophole allows ordinary, working-class suburban kids to receive elite, world-class instruction from a 6th Dan *Sunhoe Sabomnim* that would otherwise be completely unaffordable.
 
 
+
+## The "Dojang" Trademark & Legal Protection
+
+In the Raggiesoft universe, the word **"Dojang"** is a highly protected, internationally recognized trademark—much like the word "Olympics." 
+
+You cannot legally put the word "Dojang" on your storefront, your website, or your marketing materials unless your facility is actively and officially certified by the Ministry of Traditional Seondu Preservation in Seoul. If an uncertified American martial arts school attempts to use the word, they will be hit with immediate, crushing cease-and-desist orders from international corporate lawyers representing the ROK. 
+
+This is exactly why strip-mall martial arts businesses (like the ones Curtis inevitably runs after being excommunicated) are forced to use generic terms like "Academy," "Studio," or even the Japanese term "Dojo." They literally cannot use the correct Korean terminology without risking federal trademark lawsuits. 
+
+**Tidewater Tumblers vs. Lynnhaven Academy:**
+Before its downfall, Tidewater Tumblers *was* a legally certified Dojang. The critical difference on paper was ownership status: Ray was an American businessman holding a commercial franchise license from the Ministry. April's facility, the Lynnhaven Academy, is fundamentally different—it is a direct cultural outpost operated by a sovereign citizen of the ROK holding an A-1 Diplomatic Visa. While both were legally allowed to use the word "Dojang," one was a profit-driven franchise, and the other is an untouchable embassy of the art itself.
+
 ## The Public Face (Website & Strict Enrollment)
 
 To protect April from martial arts tourists, federal watchers, and unwanted geopolitical media attention, the Lynnhaven Academy's public-facing website is a masterpiece of carefully balanced marketing:
