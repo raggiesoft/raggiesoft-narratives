@@ -26,3 +26,29 @@ Mirroring the real-world history of the Sound Transit 2 Line and the Redmond Tec
 
 Quantum enters into a specialized municipal tax district, directly funding and integrating the TAPS light rail expansion right into the heart of the Redmond campus. Cassandra is fiercely committed to public transit over private jets/motorcades, viewing a robust public grid as the ultimate equalizer and the true mark of a functioning empire. When she commutes, she actively uses her wheelchair ramp on TAPS buses.
 
+
+## The TAPS Rail Network
+The TAPS light rail system mirrors the real-world Sound Transit Link light rail network. In the pre-numbered era (such as the 2014 timeline), the network is officially divided into "Corridors," though locals overwhelmingly use a directional shorthand based on the line's primary trajectory from downtown Seattle.
+
+*   **TAPS East Corridor** (real-world: East Link) ➔ Everyday name: **TAPS East**
+*   **TAPS Central Corridor** (real-world: Central Link) ➔ Everyday name: **TAPS South**
+*   **TAPS Central Corridor Airport Extension** ➔ Everyday name: **TAPS Airport**
+*   **TAPS North Corridor** (Northgate, Lynnwood, Everett) ➔ Everyday name: **TAPS North**
+*   **TAPS Tacoma Corridor** (Tacoma Link) ➔ Everyday name: **TAPS Tacoma**
+
+## Historical Timeline: The Central Corridor & Airport Delay
+A critical piece of TAPS operational lore is the staggered opening of its foundational line. Mirroring real-world events, the launch of the TAPS Central Corridor (TAPS South) did not initially reach the airport.
+
+*   **July 2009:** The initial 14-mile segment of the **TAPS Central Corridor** officially opens, running from downtown Seattle down to Tukwila. 
+*   **December 2009:** Exactly five months later, the **TAPS Central Corridor Airport Extension** finally opens. This final 1.7-mile segment provides the crucial, highly anticipated direct rail connection into the SeaTac/Airport Station. During the five-month gap, riders were forced to disembark at Tukwila and rely on shuttle buses to reach the airport terminals.
+
+## Narrative Tributes & Easter Eggs
+### Zack "BusDude" Whitmore and the Centaurus I
+Embedded within the lore of the TAPS transit system is **Zack "BusDude" Whitmore**, a legendary IT professional, transit advocate, and master mechanic. A beloved figure within the regional transit community, Zack privately owns and maintains a fully restored **Centaurus I**—a boxy, heavy-duty transit bus that was retired from the TAPS Pierce County fleet decades ago. (The Centaurus I is the in-universe counterpart to the real-world Orion I).
+
+Zack is a close personal friend of Quantum CEO Cassandra Vance. Because Cassandra famously rejects armored corporate motorcades in favor of utilizing the municipal transit grid, she and Zack quickly bonded over their shared dedication to accessibility and public infrastructure. Whenever Quantum requires a specialized charter for executive engineering retreats, Cassandra refuses to hire luxury private coaches; instead, she personally charters Zack's perfectly maintained Centaurus I, taking full advantage of its modernized mechanical wheelchair lift. He is a guardian of transit history and an unwavering advocate for the accessibility and connectivity of the grid.
+
+Tragically, Zack's life was cut short in December 2017 during the ARTS Cascades train derailment near DuPont. His passing sent shockwaves through both the TAPS network and the executive floors of Quantum. Following his death, Zack's family ensured the Centaurus I passed directly into Cassandra's care. Rather than locking the historic bus away in a museum, Cassandra honors his legacy by utilizing it as her primary personal vehicle. To legally operate the heavy-duty transit coach, both her brother David and his wife Liz acquired Class B Commercial Driver's Licenses (CDLs) complete with Passenger and Air Brake endorsements, ensuring Zack's beloved bus remains actively rolling on the Puget Sound grid.
+
+### Tom Tierney and the Tacoma Corridor
+Another legendary figure operating within the TAPS network is **Tom Tierney**, a veteran rail operator on the TAPS Tacoma Corridor (the Tacoma Link). Unbeknownst to the thousands of commuters who ride his train daily, Tom is the former owner and principal operator of the historic, private **Tacoma Transit** company that predated the municipal transit mergers. Instead of taking a quiet retirement when the regional grid absorbed his company, Tom chose to stay on the front lines, trading the steering wheel of his old transit coaches for the throttle of the modern light rail trains. He represents the living, breathing history of South Sound transit, bridging the gap between the mid-century private bus lines and the modern electric rail grid.
