@@ -745,7 +745,7 @@ I loosened my grip on Casey just enough to let Cassandra wedge herself in. The t
 
 "Sleep well, my brilliant kids," Mom whispered, pulling the heavy comforter up over us. She didn't force us to separate. She just turned off the bedside lamp and quietly retreated to the adjoining room, intentionally leaving the door wide open so she could hear us if we needed her in the dark.
 
-## 
+## Chapter 4: The Return Vector
 
 ### Part 1: The Union Station Bottleneck
 
@@ -865,7 +865,7 @@ I wrapped my arms around Casey, pulling her against me to provide the tight, dee
 
 The storm raged outside for another two hours, rattling the windowpanes and hammering the roof with torrential rain. But buried under the blankets, pressed tightly against my siblings, the chaotic, terrifying sensory overload of the world finally faded away.
 
-## 
+## Chapter 5: The Morning After
 
 ### Part 1: The Lightning Strike
 
@@ -969,7 +969,7 @@ But looking at the sheer, unyielding determination on Cassandra's face, they kne
 
 "Well," Dad sighed, setting the spatula down. "I suppose I should start looking up accessible airfare to Seattle."
 
-## 
+## Chapter 6: The VDU Deployment
 
 ### Part 1: The Junior Cohort
 
@@ -1177,7 +1177,7 @@ Dad didn't hesitate. He didn't bring up the logistics, or the three-thousand-mil
 
 Dad reached through the window and squeezed her shoulder. "You've got it. We clear the schedule. You write the code. And we get you to Seattle."
 
-## 
+## Chapter 7: Week 1 - Coastal Ecology
 
 ### Part 1: The Chesapeake Crossing
 
@@ -1309,7 +1309,7 @@ I watched the towering yellow cranes and heavy barges drift past my window, driv
 
 Week One of VDU Summer Camp was officially a success.
 
-## 
+## Chapter 8: Week 2 - Atmospheric Dynamics
 
 ### Part 1: The Security Gate
 
@@ -1395,7 +1395,7 @@ The grad student slowly turned his head to look at our camp counselor. "Uh... is
 
 The counselor just sighed, giving the stunned grad student a helpless, apologetic smile. Casey pulled out her notebook and began meticulously copying the wind tunnel's structural dimensions from a schematic pinned to the wall. The roar of the Category 3 hurricane battered the test chamber below us, but in the control room, Casey and I were operating at peak efficiency.
 
-## 
+## Chapter 9: Week 3 - Aerospace
 
 ### Part 1: The Glass Elevator
 
@@ -1537,7 +1537,7 @@ Mom smiled, walking us up to the register to pay for our selections.
 
 We had successfully navigated the airplanes, documented the Apollo module, and experienced the cosmos. As we walked out the front doors of the Dominion Air & Space Center and into the hot Virginia sun, I realized Week Three was actually going to be pretty hard to beat.
 
-## 
+## Chapter 10: Week 4 - Marine Biology
 
 ### Part 1: The Soft Opening
 
@@ -1657,9 +1657,11 @@ The summer of 1995 was officially over. We had conquered the massive VDU ecology
 
 The future was out there, waiting for us. All we had to do was calculate the trajectory.
 
-## 
+## Chapter 11: Northwest Pacific
 
 ### Part 1: The Departure
+
+**Date:** 1995-08-23 at 06:00 PT
 
 Only a few days after the VDU summer camp officially ended, our entire operational schedule was abruptly rewritten. Mom had been planning this logistical maneuver for months, but to Casey and me, it felt like an instantaneous warp across the continent. 
 
@@ -1707,6 +1709,8 @@ Now, we were flying directly into their territory.
 
 ### Part 2: The Denver Layover
 
+**Date:** 1995-08-23 at 11:30 PT
+
 The flight from Norfolk to Denver was remarkably smooth. I spent the majority of the four-hour flight analyzing the aerodynamic flex of the airliner's massive wings out the window, while Casey meticulously logged our altitude and heading changes in her notebook. 
 
 When the plane finally touched down, we found ourselves taxing toward a massive, hyper-modern structure that looked nothing like a traditional airport. 
@@ -1748,6 +1752,8 @@ Cassandra looked out the window, her jaw set in a tight, determined line. The co
 "Alright," Mom said, standing up and grabbing the handles of Cassandra's wheelchair. "Let's go to Seattle."
 
 ### Part 3: The Ride Free Area
+
+**Date:** 1995-08-23 at 14:30 PT
 
 The heavy cloud cover over the Pacific Northwest was a stark contrast to the blazing August sun we had left behind in Virginia. When we touched down at SEA and retrieved our luggage from baggage claim, the air outside the terminal was cool, damp, and smelled heavily of pine needles and jet fuel. 
 
@@ -1799,6 +1805,8 @@ Cassandra took a deep breath, gripping the handrims of her wheelchair. She was o
 
 ### Part 4: The Topography
 
+**Date:** 1995-08-23 at 16:00 PT
+
 We checked into our hotel on University Way Northeast, dropped our heavy backpacks in the room, and immediately set out to establish a perimeter around the Northwest Pacific University campus. 
 
 The walk down The Ave was deceptively easy. The commercial district was flat, paved, and highly accessible. But the moment we turned east to cross onto the actual university grounds, we slammed into the topographical reality of Seattle. 
@@ -1834,6 +1842,8 @@ Cassandra sat in her chair, staring up at the towering, gothic library at the ab
 "Quantum Corporation is headquartered right across the lake," Cassandra said, unlocking her brakes and turning her chair toward the nearest academic building to test Casey's elevator theory. "I am not letting a hill stop me from taking their money."
 
 ### Part 5: The Hotel Logistics
+
+**Date:** 1995-08-23 at 20:00 PT
 
 By the time we retreated to the hotel on University Way, we were all physically destroyed. The topography of the NPU campus had drained our collective physical battery down to zero. 
 
@@ -1877,9 +1887,11 @@ Cassandra closed her eyes, the medication finally starting to power down her rac
 
 Tomorrow, we were going to the NPU Open House.
 
-## 
+## Chapter 12: The Open House
 
 ### Part 1: The Engineering Quad
+
+**Date:** 1995-08-24 at 09:00 PT
 
 The next morning, the heavy Seattle cloud cover finally broke, bathing the Northwest Pacific University campus in brilliant, crisp sunlight. 
 
@@ -1918,6 +1930,8 @@ Cassandra looked back at Mom and Dad. Her breathing was already starting to acce
 "No," Cassandra said, locking her brakes and taking a deep, shuddering breath to manually force her heart rate down. "I uploaded my code. I am here. We execute the mission."
 
 ### Part 2: The Quantum Pavilion
+
+**Date:** 1995-08-24 at 09:30 PT
 
 Cassandra pushed her wheelchair across the manicured grass of the engineering quad, moving with the sheer, singular focus of a heat-seeking missile. 
 
@@ -1979,6 +1993,8 @@ But he had just given her absolute, undeniable validation.
 
 ### Part 3: The Quantaneers
 
+**Date:** 1995-08-24 at 10:00 PT
+
 As Steve Ballantine marched off to greet another group of university faculty, Cassandra turned her wheelchair toward the main Quantum demonstration booth. 
 
 Two young software engineers were standing behind a massive CRT monitor, watching her approach. They both wore dark blue polo shirts with the Quantum logo embroidered on the chest. Their blue corporate security badges dangled from lanyards around their necks. 
@@ -2020,6 +2036,8 @@ I stood next to Mom, silently observing the interaction. Cassandra wasn't shrink
 "Maybe sooner," Cassandra replied smoothly, unlocking her brakes and turning her chair back toward the open quad.
 
 ### Part 4: The Internal Elevators
+
+**Date:** 1995-08-24 at 11:00 PT
 
 With the Quantum Corporation encounter successfully resolved, we merged back into the general population of prospective students for the official NPU campus tour. 
 
@@ -2063,6 +2081,8 @@ She just had to win the Catalyst Initiative.
 
 ### Part 5: The Two Paths
 
+**Date:** 1995-08-24 at 13:00 PT
+
 The official open house concluded with a massive, complimentary lunch in the primary NPU dining hall. The room was a sprawling, cavernous space filled with long wooden tables, echoing with the chaotic chatter of hundreds of prospective students and their parents. 
 
 Cassandra sat at the end of our table, meticulously peeling the crust off a sandwich. She wasn't paying attention to the noise around her. Her AuDHD brain was deep in executive processing mode, mapping out the massive decision tree that lay ahead of her. 
@@ -2086,6 +2106,8 @@ I looked at Cassandra. She had built a 45-kilobyte, real-time 3D rendering engin
 She had done everything right. Now, all we could do was fly back to Virginia and wait for the results.
 
 ### Part 6: The Logistics of Care
+
+**Date:** 1995-08-24 at 15:00 PT
 
 By mid-afternoon, we had retreated to the hotel on University Way. The high-stakes, operational phase of the trip was officially over, and Dad had declared that the next three days were going to be a pure family vacation. If Cassandra was potentially moving to Seattle next year, she needed to understand the region beyond just the brick pathways of the university quad. 
 
@@ -2121,6 +2143,8 @@ Mom laughed softly, finishing the stretching routine and pulling the blankets up
 
 ### Part 7: The Vacation Protocol
 
+**Date:** 1995-08-24 at 19:00 PT
+
 Dad and Casey returned to the hotel room a few minutes later, balancing a cardboard tray of massive iced coffees. Casey immediately moved to her side of our shared bed, carefully aligning her drink with the edge of the nightstand. 
 
 "Alright, crew," Dad announced, handing Mom her coffee and collapsing onto the edge of their queen bed. "The open house was a success. We have mapped the topographical logistics, we have established the ADL framework, and we have made contact with Quantum Corporation. The stressful part of this deployment is officially over."
@@ -2153,9 +2177,11 @@ Cassandra looked over at me and gave me a small, tired smile. She had done it. S
 
 The Emerald City was ready for her. We just had to wait for the phone to ring.
 
-## 
+## The Emerald City
 
 ### Part 1: The Century Spire
+
+**Date:** 1995-08-24 at 10:00 PT
 
 The next morning, we executed Casey's tourist itinerary precisely as written. We navigated the multi-level labyrinth of the Pioneer Public Market, using the hidden service elevators behind the fishmongers to bypass the stairs. Then, we boarded the downtown monorail, riding the elevated track straight to the base of the Century Spire. 
 
@@ -2195,6 +2221,8 @@ For the first time all week, we just got to be geeks.
 
 ### Part 2: The Planetarium
 
+**Date:** 1995-08-24 at 12:00 PT
+
 By noon, our family had completely recovered our equilibrium. We migrated from the interactive physics wing of the Cascadia Science Center and headed straight for the massive, iconic white dome of the planetarium. 
 
 For me, the planetarium was the absolute epicenter of human achievement. I had spent my entire life obsessed with the cosmos. Unlike atmospheric aviation, which was messy, loud, and bound by gravity, space was an infinite expanse of pure, cold mathematics. 
@@ -2224,6 +2252,8 @@ We sat in the dark for forty-five minutes. When the lights finally came back up 
 "Alright," Dad said, standing up and stretching his legs. "We have conquered the cosmos. Who is ready to conquer lunch?"
 
 ### Part 3: The Emperor of Redmond
+
+**Date:** 1995-08-24 at 14:00 PT
 
 After a quick lunch at the Seattle Center armory, Cassandra called a logistical audible. 
 
@@ -2279,6 +2309,8 @@ The Emperor of Redmond smiled, clasped his hands behind his back, and began walk
 
 ### Part 4: The Zenith Motherboard
 
+**Date:** 1995-08-24 at 14:15 PT
+
 "You have to understand the operational context of 1975," William Keswick said, walking backward down the museum aisle with the casual ease of a man who owned the entire building. "Arthur and I didn't actually own a Zenith 8800. They were incredibly expensive, and we were broke college kids. So, we wrote the entire Q-Code interpreter using an emulator on a massive university mainframe."
 
 Cassandra wheeled along beside him, hanging on every single word. "You wrote the code without testing it on the actual hardware?"
@@ -2316,6 +2348,8 @@ He didn't say anything else about her code, or the university, or why Steve Ball
 "Absolutely," Cassandra replied, wheeling forward.
 
 ### Part 5: The Five-Megabyte Monolith
+
+**Date:** 1995-08-24 at 14:30 PT
 
 William Keswick led us past the Zenith 8800 and toward the back of the gallery. The entire rear wall of the museum was dominated by a massive glass enclosure holding an industrial machine the size of two large refrigerators. 
 
@@ -2359,6 +2393,8 @@ Dad let out a long, slow breath. "Did that actually just happen?"
 
 ### Part 6: Lake Washington
 
+**Date:** 1995-08-24 at 17:00 PT
+
 By the time we boarded the westbound TAPS Route 254 to head back to Seattle, the reality of what had just happened was finally settling in. 
 
 We secured Cassandra's wheelchair in the front accessibility bay and grabbed the row of seats immediately behind her. As the massive articulated bus merged onto the SR-520 floating bridge to cross Lake Washington, the afternoon sun began reflecting off the water. The brutal gridlock of the afternoon commute had shifted to the eastbound lanes, meaning our trip back into the city was a smooth, high-speed glide over the water. 
@@ -2386,6 +2422,8 @@ Thirty minutes later, we were sitting in a crowded waterfront restaurant near th
 After dinner, we boarded one final northbound bus back to the University District, navigating the crowded sidewalks of The Ave until we finally reached our hotel. It had been an incredibly long, exhausting, sensory-overwhelming day.
 
 ### Part 7: The Privacy Protocol
+
+**Date:** 1995-08-24 at 20:00 PT
 
 By the time we unlocked the door to our hotel room in the University District, everyone's adrenaline reserves had completely bottomed out. Dad immediately collapsed onto the chair by the window. Casey dropped her backpack onto the floor and laid face-down on the far edge of the kids' bed. 
 
@@ -2425,9 +2463,49 @@ But as I lay in the dark, listening to the hum of the hotel air conditioner, I c
 
 It was, objectively, the greatest Thursday of my entire life.
 
-## 
+## Chapter 14: The Deep End
+
+### Part 1: Siren Roasters
+
+**Date:** 1995-08-25 at 08:00 PT
+
+Friday morning hit me like a physical blow. When my alarm went off at seven o'clock, my legs were entirely stiff, protesting the massive amount of walking I had done the day before. 
+
+But Casey's vacation protocol waited for no one. 
+
+By eight o'clock, we were off the TAPS bus and standing on the cobblestones of the Pioneer Public Market. The morning air was crisp and smelled heavily of saltwater, fresh fish, and exhaust fumes from the delivery trucks backing into the loading zones. 
+
+"Alright, breakfast logistics," Dad announced, looking down at Casey. "What is on the itinerary?"
+
+"Historically," Casey said, flipping open her notebook, "we are supposed to go to the original location of Siren Roasters. It is culturally significant to the Seattle coffee scene."
+
+We looked down the cobblestone street. There, standing outside a small, unassuming storefront with the famous twin-tailed mermaid logo, was a line of tourists stretching almost an entire city block. 
+
+Cassandra groaned, leaning her head back against her wheelchair. "I am not sitting in an hour-long queue for a cup of coffee. Especially since I can't even drink caffeine without triggering a massive tachycardia event."
+
+"The logistics of the queue are highly inefficient," I agreed. "We are operating on a severe caloric deficit. We need immediate fuel."
+
+"Agreed," Dad said, shaking his head at the ridiculous line. "Siren Roasters is an international corporation now. You can get their coffee at the airport. We are finding something local."
+
+We bypassed the massive tourist trap and pushed Cassandra's wheelchair deeper into the labyrinth of the public market. The deeper we went, the better it smelled. We eventually found ourselves standing outside a tiny, cramped hole-in-the-wall bakery called *Babushka’s*. 
+
+The line was short, moving fast, and the air pouring out of the open door smelled incredibly rich. 
+
+"What is a piroshky?" Mom asked, reading the hand-chalked sign in the window. 
+
+"It's a Russian pastry," a local guy in a heavy flannel shirt told us as he walked out, holding a steaming paper bag. "And it's a hundred times better than a Siren muffin. Get the potato and cheese."
+
+We took his advice. Five minutes later, we were sitting on a set of wooden benches overlooking the gray waters of Puget Sound, devouring massive, flaky pastries filled with hot potatoes, sharp cheese, and savory meats. 
+
+"Okay," Cassandra mumbled through a mouthful of dough, "this is infinitely better than waiting in line for corporate coffee."
+
+"The caloric density is optimal for a day of walking," Casey noted, taking a very precise, mechanical bite of a smoked salmon roll. 
+
+"Alright, team," Dad smiled, finishing his coffee from the bakery and throwing the empty cup into a nearby trash can. "Fuel reserves are full. We have a massive day ahead of us. First stop: The Puget Sound Aquarium."
 
 ### Part 2: The Underwater Dome
+
+**Date:** 1995-08-25 at 09:30 PT
 
 After obliterating our breakfast pastries, we navigated the wooden planks of Pier 59 to the entrance of the Puget Sound Aquarium. Because it was early on a Friday morning, we managed to beat the massive influx of summer tourists. 
 
@@ -2461,6 +2539,8 @@ For the next forty-five minutes, we didn't look at schedules, we didn't calculat
 
 ### Part 3: The Gift Shop
 
+**Date:** 1995-08-25 at 10:45 PT
+
 Like all major tourist attractions, the Puget Sound Aquarium aggressively funneled all exiting foot traffic directly through the massive, brightly lit gift shop. 
 
 "Alright, listen up," Dad announced, standing near a towering display of neon-colored seahorse keychains. "You can each pick out one souvenir. But I am establishing a strict logistical perimeter: it must be small. We have two more museums to visit today, and whatever you buy, you are carrying in your own backpack until we get back to the hotel."
@@ -2492,6 +2572,8 @@ With our carefully curated artifacts secured and paid for, we exited the gift sh
 Casey pulled out her notebook, shielding her eyes from the glare. "According to the itinerary, our next stop is located inland, in Pioneer Square. We are heading to the Klondike Gold Rush National Historical Park."
 
 ### Part 4: The Prospector's Registry
+
+**Date:** 1995-08-25 at 11:30 PT
 
 We took a short bus ride south through downtown, transferring to Pioneer Square. Nestled into the historic brick architecture of the neighborhood was our next stop: the Seattle unit of the Klondike Gold Rush National Historical Park. 
 
@@ -2528,6 +2610,8 @@ We all laughed, completely dismissing the entry as a fun historical coincidence.
 He looked at me, a massive smile spreading across his face. "Who is ready to go see some airplanes?"
 
 ### Part 5: TAPS Route 174
+
+**Date:** 1995-08-25 at 12:15 PT
 
 To get to the Pacific Aerospace Museum, we had to travel several miles south of downtown Seattle to King County International Airport, historically known as Boeing Field. 
 
@@ -2566,6 +2650,8 @@ Rising up against the gray sky, sitting directly on the edge of the King County 
 "Finally," Cassandra breathed, dropping the glass orb back into her bag and unlocking her brakes. "Get me off this tin can."
 
 ### Part 6: The Great Gallery
+
+**Date:** 1995-08-25 at 13:00 PT
 
 If there is one thing Seattle understood better than coffee and rain, it was aviation. 
 
@@ -2611,6 +2697,8 @@ By the time we regrouped in the lobby at three o'clock, we were completely exhau
 
 ### Part 7: The Extraction
 
+**Date:** 1995-08-25 at 16:30 PT
+
 By the time we walked out of the Pacific Aerospace Museum, our collective energy reserves were completely depleted. 
 
 We dragged ourselves back to the bus stop on East Marginal Way and caught the northbound TAPS Route 174 back into downtown Seattle. Thankfully, the afternoon commuter rush hadn't fully peaked yet, so the bus wasn't crush-loaded. We actually managed to secure seats, and Cassandra didn't have to use her glass jellyfish to ward off a tachycardia event. 
@@ -2645,9 +2733,11 @@ I laid back on the hotel bed, staring up at the textured ceiling. My legs were s
 
 Casey was right. It had been a highly successful operation.
 
-## 
+## Chapter 15: The Pre-Dawn Run
 
 ### Part 1: The 174 Southbound
+
+**Date:** 1995-08-26 at 04:30 PT
 
 My alarm went off at 3:30 in the morning. 
 
@@ -2681,6 +2771,8 @@ The driver locked her wheelchair into the securement zone while Mom, Casey, and 
 
 ### Part 2: The Gateway Counter
 
+**Date:** 1995-08-26 at 06:00 PT
+
 The Route 174 finally deposited us at the curbside drop-off of Seattle-Tacoma International Airport just as the sun began to breach the horizon, painting the thick Pacific Northwest clouds in brilliant streaks of orange and purple. 
 
 We hauled our luggage off the bus and navigated through the automatic sliding glass doors into the main ticketing terminal. 
@@ -2710,6 +2802,8 @@ Just like that, we were standing in the main concourse of the airport, completel
 "Alright," Dad smiled, pointing down the concourse toward our gate. "Who wants an outrageously overpriced airport bagel before we board?"
 
 ### Part 3: The Chicago Layover
+
+**Date:** 1995-08-26 at 14:00 PT
 
 The four-hour flight from Seattle to Chicago was completely uneventful. We were so exhausted from the grueling pace of the vacation that the moment the Gateway Airlines Boeing 737 reached cruising altitude, all three of us fell asleep. 
 
@@ -2745,9 +2839,11 @@ Cassandra smiled, leaning her head against her mother's arm. "It was worth it. W
 
 We boarded our final Gateway Airlines flight, settling into our seats as the sun began to lower in the sky. As the jet engines roared to life and we accelerated down the runway, I looked out the window, watching the sprawling grid of Chicago fall away beneath us. We were heading home to the East Coast, completely exhausted, but undeniably victorious.
 
-## 
+## Chapter 16: The Catalyst
 
 ### Part 1: The Call
+
+**Date:** 1996-04-21 PT
 
 The heavy black box had arrived via overnight courier while we were at school. 
 
@@ -2799,6 +2895,8 @@ Mom immediately wrapped her arms around Cassandra's shoulders, crying just as ha
 
 ### Part 2: The Celebration
 
+**Date:** 1996-04-21 at 19:00 PT
+
 By six o'clock, our small suburban house was completely packed. 
 
 The moment Dad hung up the phone with Mr. Keswick, Mom had immediately started making phone calls. Her first call was to the Carters, who lived exactly one block away and operated as our unofficial extended family. They had walked over in fifteen minutes, bringing three massive boxes of delivery pizza and two two-liter bottles of soda. 
@@ -2849,6 +2947,8 @@ Cassandra Vance hadn't just survived the friction. She had used it to launch her
 
 ### Part 3: The Sleepover
 
+**Date:** 1996-04-21 at 23:30 PT
+
 By ten o'clock, the celebratory energy had finally burned itself out. 
 
 Mr. and Mrs. Carter hugged Mom and Dad, hugged Cassandra one last time, and walked the one block back to their own house. Liz, completely unsurprisingly, did not leave with them. She was spending the night. 
@@ -2892,42 +2992,4 @@ The living room fell silent again, save for the hum of the fan and the distant s
 Cassandra was leaving. The architecture of our family was going to fundamentally change. But as I listened to Liz breathing quietly next to me, and Casey shifting in her sleep, I realized that our network was much stronger than I had thought. 
 
 The physical hardware was relocating, but the connections were permanent.
-
-## 
-
-### Part 1: Siren Roasters
-
-Friday morning hit me like a physical blow. When my alarm went off at seven o'clock, my legs were entirely stiff, protesting the massive amount of walking I had done the day before. 
-
-But Casey's vacation protocol waited for no one. 
-
-By eight o'clock, we were off the TAPS bus and standing on the cobblestones of the Pioneer Public Market. The morning air was crisp and smelled heavily of saltwater, fresh fish, and exhaust fumes from the delivery trucks backing into the loading zones. 
-
-"Alright, breakfast logistics," Dad announced, looking down at Casey. "What is on the itinerary?"
-
-"Historically," Casey said, flipping open her notebook, "we are supposed to go to the original location of Siren Roasters. It is culturally significant to the Seattle coffee scene."
-
-We looked down the cobblestone street. There, standing outside a small, unassuming storefront with the famous twin-tailed mermaid logo, was a line of tourists stretching almost an entire city block. 
-
-Cassandra groaned, leaning her head back against her wheelchair. "I am not sitting in an hour-long queue for a cup of coffee. Especially since I can't even drink caffeine without triggering a massive tachycardia event."
-
-"The logistics of the queue are highly inefficient," I agreed. "We are operating on a severe caloric deficit. We need immediate fuel."
-
-"Agreed," Dad said, shaking his head at the ridiculous line. "Siren Roasters is an international corporation now. You can get their coffee at the airport. We are finding something local."
-
-We bypassed the massive tourist trap and pushed Cassandra's wheelchair deeper into the labyrinth of the public market. The deeper we went, the better it smelled. We eventually found ourselves standing outside a tiny, cramped hole-in-the-wall bakery called *Babushka’s*. 
-
-The line was short, moving fast, and the air pouring out of the open door smelled incredibly rich. 
-
-"What is a piroshky?" Mom asked, reading the hand-chalked sign in the window. 
-
-"It's a Russian pastry," a local guy in a heavy flannel shirt told us as he walked out, holding a steaming paper bag. "And it's a hundred times better than a Siren muffin. Get the potato and cheese."
-
-We took his advice. Five minutes later, we were sitting on a set of wooden benches overlooking the gray waters of Puget Sound, devouring massive, flaky pastries filled with hot potatoes, sharp cheese, and savory meats. 
-
-"Okay," Cassandra mumbled through a mouthful of dough, "this is infinitely better than waiting in line for corporate coffee."
-
-"The caloric density is optimal for a day of walking," Casey noted, taking a very precise, mechanical bite of a smoked salmon roll. 
-
-"Alright, team," Dad smiled, finishing his coffee from the bakery and throwing the empty cup into a nearby trash can. "Fuel reserves are full. We have a massive day ahead of us. First stop: The Puget Sound Aquarium."
 
