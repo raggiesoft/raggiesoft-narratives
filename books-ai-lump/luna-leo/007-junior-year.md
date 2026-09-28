@@ -10,7 +10,6 @@ series: ""
 ### Part 1: A Rainy Saturday Session
 
 # The Shapes
-# Part 1: A Rainy Saturday Session
 
 A cold, gray Virginia rain lashed against the windows of the small house, drumming a steady rhythm on the roof and the hood of the **Starry Night Blue Holt Sentinel** parked in the driveway. Inside, however, the atmosphere was warm and dry, a stark contrast to the weather outside.
 
@@ -27,7 +26,6 @@ She placed it on the platter and lowered the needle. The crackle of vinyl gave w
 ### Part 2: The True Light
 
 # The Shapes
-# Part 2: The True Light
 
 The track **"Kaleidoscope Sun"** began. It started with a distinctive, slightly melancholic keyboard arpeggio, joined quickly by a driving bassline and crisp drumming.
 
@@ -50,7 +48,6 @@ Leo tapped his hand on his knee in time with the beat. He liked the concept of t
 ### Part 3: The Signal
 
 # The Shapes
-# Part 3: The Signal
 
 The song moved out of the first chorus, the harmonies swelling and then receding like a tide. The driving bassline softened, creating a sudden, spacious opening in the soundscape.
 
@@ -109,7 +106,6 @@ The song played on, the distinctive flute melody returning one last time in the 
 ### Part 1: The Rental Agreement
 
 # The New Voice
-# Part 1: The Rental Agreement
 
 The air in the Band Room was thick with the smell of valve oil and cork grease. It was the second week of Junior year, and the chaos of marching band season was in full swing.
 
@@ -144,7 +140,6 @@ Luna reached out and touched the smooth metal of the headjoint. "Thanks, Mr. T."
 ### Part 2: The Embouchure Struggle
 
 # The New Voice
-# Part 2: The Embouchure Struggle
 
 The living room was quiet. Leo was parked at the **MagnaByte** station, working on a history paper, the rhythmic *clack-clack-clack* of his keyboard providing a steady backbeat.
 
@@ -209,7 +204,6 @@ She took a breath and tried to find the B-flat again, the first brick in the for
 ### Part 3: The One-Month Trial
 
 # The New Voice
-# Part 3: The One-Month Trial
 
 The month of October was a noisy one in the Porter household.
 
@@ -260,7 +254,6 @@ Luna blinked. "Why? Where are we going?"
 ### Part 4: Silver and Ownership
 
 # The New Voice
-# Part 4: Silver and Ownership
 
 The bell above the door chimed as the fortress entered the music store. It was the same shop where they had bought the saxophone and the xylophone years ago. The smell of brass polish and sheet music was familiar and comforting.
 
@@ -333,7 +326,6 @@ Luna nodded, clutching the bag tight. The fortress had a new voice—a professio
 ### Part 5: The Sterling Standard
 
 # The New Voice
-# Part 5: The Sterling Standard
 
 Monday Morning Northwood High School Band Room
 

@@ -10,7 +10,6 @@ series: "The Silver Gauntlet of Aethel"
 ### Part 1: Chapter 1: The Tide and the Torch
 
 # Book I: The Glass Sea
-# Part 1: Chapter 1: The Tide and the Torch
 
 ## Part 1: The Blacksmith's Secret
 
@@ -537,7 +536,6 @@ They turned toward the Queen.
 ### Part 2: Chapter 2: The Heart of the World
 
 # Book I: The Glass Sea
-# Part 2: Chapter 2: The Heart of the World
 
 ## Part 1: The Veins of the Earth
 
@@ -930,7 +928,6 @@ He turned the boat South, following the fleeing shadow of the Queen, deeper into
 ### Part 3: Chapter 3: The Weave of the Water
 
 # Book I: The Glass Sea
-# Part 3: Chapter 3: The Weave of the Water
 
 ## Part 1: The Anchor of the Storm
 
@@ -1229,7 +1226,6 @@ They raised the sail. Kaelan poured a steady stream of heat into the keel, and t
 ### Part 4: Chapter 4: The Gyre
 
 # Book I: The Glass Sea
-# Part 4: Chapter 4: The Gyre
 
 ## Part 1: The Calm Path
 
@@ -1654,7 +1650,6 @@ With a roar of displaced air, Horg’s boat shot upward, punching through the cl
 ### Part 1: Chapter 1: The Silent Sector
 
 # Book II: The Star-Eater
-# Part 1: Chapter 1: The Silent Sector
 
 ## Part 1: The Poisoned Chalice
 
@@ -2049,7 +2044,6 @@ She turned back to the viewport, staring at the massive, fossilized Ribcage loom
 ### Part 2: Chapter 2: The Ribcage of the Gods
 
 # Book II: The Star-Eater
-# Part 2: Chapter 2: The Ribcage of the Gods
 
 ## Part 1: The Ossuary of Stars
 
@@ -2232,7 +2226,6 @@ They were walking into the mind of a god, and the only thing waiting for them wa
 ### Part 3: Chapter 3: The War for the Mind
 
 # Book II: The Star-Eater
-# Part 3: Chapter 3: The War for the Mind
 
 ## Part 1: The Dynasty of Ruin
 
@@ -2797,7 +2790,6 @@ They walked out of the Memory Core, leaving the ghosts of the past behind, final
 ### Part 4: Chapter 4: The Long Way Down
 
 # Book II: The Star-Eater
-# Part 4: Chapter 4: The Long Way Down
 
 ## Part 1: The Departure
 
@@ -3352,7 +3344,6 @@ They stood there as the twin suns set, the heroes of the age, invisible and cont
 ### Part 5: Chapter 5: The Cottage
 
 # Book II: The Star-Eater
-# Part 5: Chapter 5: The Cottage
 
 ## Part 1: The Stone Fence
 

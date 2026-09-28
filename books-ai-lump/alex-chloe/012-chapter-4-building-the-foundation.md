@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 4: The Accessibility Specialist
 
 # The Evergreen Project
-# Part 4: The Accessibility Specialist
 
 Alex Miller's part-time, paid role as the "Accessibility Specialist" for the Evergreen Animal Shelter transformed from a passion project into a serious vocation. The success of the beagle's mobility cart was just the beginning. The shelter, now recognizing the incredible value of their unique skills, began to actively seek out animals with physical challenges, knowing they finally had a way to help.
 
@@ -27,7 +26,6 @@ Every evening, he would return to their home office, not to play games, but to w
 ### Part 5: The Non-Profit Architects
 
 # The Evergreen Project
-# Part 5: The Non-Profit Architects
 
 While Alex was honing his technical skills, Chloé and Megan were on a parallel path, tackling the other side of their dream. Their volunteer work at the shelter had opened their eyes to the chaotic reality of running a non-profit. They saw Maria, the shelter director, buried under a mountain of paperwork, struggling with grant applications and donor outreach. They realized that passion and a love for animals were not enough; to succeed, their future center needed a solid, sustainable business structure.
 
@@ -48,7 +46,6 @@ The result wasn't just a class project; it was a real, professional, and incredi
 ### Part 6: The Turning Point
 
 # The Evergreen Project
-# Part 6: The Turning Point
 
 The moment that transformed their separate preparations into a unified mission came on a cold, rainy Saturday in late 2009. The Evergreen Animal Shelter took in a stray cat with a severe neurological condition that caused debilitating seizures. The shelter was not equipped for the round-the-clock, specialized medical monitoring the cat required.
 
@@ -75,7 +72,6 @@ Their individual paths of preparation had officially merged. The work of buildin
 ### Part 7: The Long Road to a Dream
 
 # The Evergreen Project
-# Part 7: The Long Road to a Dream
 
 The year 2009 bled into 2010, and the Lynnwood Discovery and Care Center transformed from a shared dream into a shared obsession. Their small apartment became a dedicated command center for their future.
 

@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: Student Development 101
 
 # A Community College Beginning
-# Part 1: Student Development 101
 
 The air conditioning in the classroom at Community College of Hampton Roads’s Virginia Beach campus was a cold, indifferent hum. For eighteen-year-old Alex Miller, the chill was a distant sensation, completely overshadowed by the raw, gnawing ache of Chloé’s absence. It had been less than twenty-four hours since he’d watched her disappear through the security gate at the airport. Every second of that time had been a battle against a rising tide of panic.
 
@@ -65,7 +64,6 @@ As Vera walked away, Alex replayed her words. *Ally. Someone who gets it.* She w
 ### Part 2: A Familiar Face
 
 # A Community College Beginning
-# Part 2: A Familiar Face
 
 The walk—or roll—to his next class, Introductory Psychology, was a short, nerve-wracking journey. Alex's mind was a whirlwind. *Vera. She was nice. Perceptive. An ally.* The thought was a small, warm coal in the cold furnace of his anxiety.
 
@@ -96,7 +94,6 @@ As she pulled back, the warmth was immediately replaced by a fresh wave of anxie
 ### Part 3: Coffee, and an Open Wound
 
 # A Community College Beginning
-# Part 3: Coffee, and an Open Wound
 
 The student union buzzed with a low hum of conversations, a sound that felt abrasive and meaningless to Alex. He sat opposite Vera at a small table, a fruity "Refresher" in front of him, its sweetness lost on him. Vera, with her steaming mug, leaned forward, her attention a focused, intense beam that managed to cut through the fog of his grief.
 
@@ -139,7 +136,6 @@ He knew what she was asking. And in that moment, all he knew was that she was he
 ### Part 4: The Promise
 
 # A Community College Beginning
-# Part 4: The Promise
 
 Later, lying beside Vera in the dim light of the bedroom, Alex felt a blush creep from his neck to his ears. A profound sense of warmth, vulnerability, and an almost dizzying newness suffused him. The intensity was different, so much faster and more direct than the gentle, slow unfolding of intimacy he had shared with Chloé. With Vera, this was only their second meeting.
 
@@ -166,7 +162,6 @@ Heading home, the familiar streets seemed different. He was blushing, exhilarate
 ### Part 5: Moving Fast
 
 # A Community College Beginning
-# Part 5: Moving Fast
 
 The third Student Development class felt almost like a blur to Alex. His anticipation was centered entirely on Vera. As soon as Dr. Albright dismissed them, Vera was at his side, her smile intimate and knowing.
 
@@ -217,7 +212,6 @@ He hesitated, the guilt about Chloé and the speed of everything vying with his 
 ### Part 6: How I Met Her Mother
 
 # A Community College Beginning
-# Part 6: How I Met Her Mother
 
 Alex, still caught in the confusing swirl of new physical intimacy and the underlying guilt about Chloé, looked at Vera. Meet her mother? The thought sent a fresh wave of nervousness through him. This was all moving so incredibly fast. But Vera’s expectant smile, her hand still holding his, was persuasive. He was already here. And he did want to make her happy.
 
@@ -266,7 +260,6 @@ Inside, Alex lay in his bed, the space beside him feeling vast and empty. The co
 ### Part 7: A Lifeline Offered
 
 # A Community College Beginning
-# Part 7: A Lifeline Offered
 
 The CCHR Virginia Beach library was a quiet sanctuary. In a secluded study carrel, Alex and Sarah Jenkins were deep into their second group project for their Introductory Psychology class. For Alex, the partnership had been a profound relief. For Sarah, it had been a source of growing concern.
 
@@ -309,7 +302,6 @@ The beautiful, healing moment with Sarah was already being tainted, twisted into
 ### Part 8: The Presentation and the Aftermath
 
 # A Community College Beginning
-# Part 8: The Presentation and the Aftermath
 
 The day their second group project was due, a new and specific terror gripped Alex. As he and Sarah stood at the front of the room, waiting for their turn, his eyes were locked on the small, rectangular window in the classroom door. He was in a state of high alert, a frantic, paranoid loop playing in his head: *What if she walks by? What if she looks in and sees me up here with Sarah? Megan's best friend?* He knew, for the record, that Vera was in her own class on the other side of the campus at this exact moment. But his rational mind was no match for the deep, conditioned fear she had instilled in him.
 
@@ -324,7 +316,6 @@ He was too scared and too trapped to take Sarah up on her earlier offer to talk 
 ### Part 1: A Doubt Starts to Form
 
 # The First Alarm Bell
-# Part 1: A Doubt Starts to Form
 
 The invitation had come after their fourth Student Development class. Vera had caught him as he was leaving, her smile bright and conspiratorial. "My mom's visiting her sister out of town for the whole weekend, Alex," she’d said, her voice a low murmur. "The apartment will be completely ours. Why don't you come over tonight? Stay the night. We can order in, watch movies… just be together."
 
@@ -349,7 +340,6 @@ The internal debate raged. *Stay with Vera. You can't be alone again. Go home. T
 ### Part 2: The Refusal
 
 # The First Alarm Bell
-# Part 2: The Refusal
 
 After an hour of lying beside Vera in the tense, hollow silence, the internal battle within Alex finally reached a verdict. The discomfort had grown into a profound and undeniable sense that he needed to leave. This wasn't right. This wasn't safe. He wanted to go home.
 
@@ -374,7 +364,6 @@ She turned her back to him, lying down and pulling the covers up to her shoulder
 ### Part 3: The Call for Help
 
 # The First Alarm Bell
-# Part 3: The Call for Help
 
 The silence in Vera's bedroom was absolute. She lay with her back to him, a rigid, unmoving wall of refusal. Alex sat on the edge of the bed, his heart hammering against his ribs. He was trapped. The thought was cold and sharp. He was in her apartment, in a part of Portsmouth he didn't know, and she would not take him home. The memory of Megan's safe, unconditional affection was the only thing that gave him the courage to act. He had a lifeline. He just had to be brave enough to use it.
 
@@ -403,7 +392,6 @@ Back in Vera's apartment, Alex quietly replaced the receiver and wheeled himself
 ### Part 4: The Confrontation
 
 # The First Alarm Bell
-# Part 4: The Confrontation
 
 Alex had just settled back into his wheelchair in the dark bedroom when he heard Vera stirring. A moment later realizing she was alone in the bed, she woke up, her face a mask of sleepy confusion and growing anger.
 
@@ -444,7 +432,6 @@ She didn't give a damn how Vera felt about it. She helped Alex gather the few th
 ### Part 5: A Debrief in the Dark
 
 # The First Alarm Bell
-# Part 5: A Debrief in the Dark
 
 The interior of Megan’s Holt sedan was a quiet, moving sanctuary. The only sounds were the soft hum of the tires on the interstate and the rhythmic thump of the windshield wipers clearing a light mist. The angry, claustrophobic atmosphere of Vera's apartment was a million miles away. Alex leaned his head against the cool glass of the passenger window, a profound sense of relief washing over him. He was safe.
 
@@ -489,7 +476,6 @@ The offer hung in the air: a lifeline. An escape hatch. A weekend of pure, uncom
 ### Part 6: A Debrief at Lisa Court
 
 # The First Alarm Bell
-# Part 6: A Debrief at Lisa Court
 
 It was almost midnight when Megan’s Holt sedan pulled into the quiet cul-de-sac of Lisa Court. The lights were on in the Miller house, a welcoming beacon in the darkness. When she pulled up, the front door opened, and all four parents—James, Emily, Thomas, and Sophie—were waiting on the porch, their faces etched with a shared, profound anxiety.
 
@@ -538,7 +524,6 @@ She smiled, a small, sad, and deeply loving smile, and climbed in beside him, pu
 ### Part 7: The Morning Debrief
 
 # The First Alarm Bell
-# Part 7: The Morning Debrief
 
 Alex woke up slowly, the morning light filtering into his own familiar bedroom. For a moment, the terror of the previous night rushed back. Then, he felt a steady, comforting weight beside him. He turned his head and saw Megan, still fast asleep, her arm resting protectively over his shoulders. He was safe. He was home.
 
@@ -595,7 +580,6 @@ He stood in the doorway with his parents and watched her drive away. The moment 
 ### Part 8: The Love Bomb
 
 # The First Alarm Bell
-# Part 8: The Love Bomb
 
 The first few days after Megan's late-night rescue were tense. Alex was quiet and distant, creating a wall of polite, monosyllabic responses. Vera, perceptive as a predator, knew she had made a serious tactical error by refusing to take him home. She saw the new, quiet resolve in his eyes, a resolve forged by his cousin's intervention, and recognized it as a direct threat to her control. And so, she began her counter-offensive.
 
@@ -628,7 +612,6 @@ The moment the words were spoken, he saw a flicker of cold, possessive triumph i
 ### Part 1: The Video Call Interruption
 
 # Lingering Connections, Looming Threats
-# Part 1: The Video Call Interruption
 
 The late afternoon sun of Fall 2003 cast long shadows across Lisa Court as Vera’s Holt Automotive sedan pulled up in front of the Miller house. This was it – her first visit to Alex’s home.
 
@@ -691,7 +674,6 @@ Their conversation resumed, Alex feeling a profound sense of gratitude. Vera had
 ### Part 2: A Dinner of Dissent
 
 # Lingering Connections, Looming Threats
-# Part 2: A Dinner of Dissent
 
 An hour later, the five of them were gathered around the Millers' dining table. In the center of the table, on a small stand, the MagnaByte laptop was open, Chloé's smiling face a warm, digital presence. She had her own small meal, a simple salad, ready to eat alongside them from her dorm room three thousand miles away.
 
@@ -716,7 +698,6 @@ The family, for their part, continued their meal, their conversation warm and bi
 ### Part 3: The Slow Encroachment
 
 # Lingering Connections, Looming Threats
-# Part 3: The Slow Encroachment
 
 The weeks following the "Video Call Interruption" saw a subtle but decisive shift. Vera, having been so thoroughly shut down by the Millers' united, bilingual front, changed her tactics. She stopped trying to confront Alex's connection to Chloé at his house and instead began to pull him more and more into her own world.
 
@@ -739,7 +720,6 @@ The words—"mousy," "waste so much time"—were a direct, venomous assault on t
 ### Part 4: An Unstable Connection
 
 # Lingering Connections, Looming Threats
-# Part 4: An Unstable Connection
 
 Vera's campaign of isolation was subtle but relentless. The cherished nightly video calls with Chloé, once a sacred, protected ritual, became a new battleground.
 
@@ -754,7 +734,6 @@ Alex, for his part, clung to these fractured connections like a lifeline. Each c
 ### Part 5: A Lifeline from Lynnwood
 
 # Lingering Connections, Looming Threats
-# Part 5: A Lifeline from Lynnwood
 
 The constant interruptions and the growing strain of Vera's presence were taking their toll on Alex. He missed the easy, uninterrupted conversations with Chloé with an ache that was a constant, physical presence. He knew he needed to end things with Vera, but the thought of the confrontation, of her anger, and of the subsequent, crushing loneliness, was paralyzing.
 
@@ -783,7 +762,6 @@ Alex stared at the screen, at the tangible, undeniable proof of her plan, of her
 ### Part 6: Vera\'s \
 
 # Lingering Connections, Looming Threats
-# Part 6: Vera\'s \
 
 The video call with Chloé left Alex with a profound, secret hope. For the first time in months, he had a concrete, tangible end date for his misery: Christmas break. The knowledge that Chloé was coming home for good was a small, bright flame he carefully guarded in the cold landscape of his life with Vera.
 
@@ -796,7 +774,6 @@ He was miserable, but Vera saw a happier, more compliant boyfriend. She didn't k
 ### Part 7: A Secret Rebellion
 
 # Lingering Connections, Looming Threats
-# Part 7: A Secret Rebellion
 
 A few days after his life-changing video call with Chloé, Vera was in a particularly "helpful" mood. "Alex, sweetie," she said, sitting beside him as he was on the CCHR website, "I was thinking. We should really get our spring schedules aligned. It'll be so much easier if we're on the same campus."
 
@@ -819,7 +796,6 @@ Vera was none the wiser. Alex was still trapped for now, but he had just execute
 ### Part 1: The Cavalry Arrives
 
 # The VDU Open House
-# Part 1: The Cavalry Arrives
 
 The Friday of the VDU Open House weekend was a day of quiet, internal warfare for Alex. He woke up with a knot of anxiety in his stomach that had nothing to do with his classes and everything to do with the conversation he knew he had to have at the end of the day.
 
@@ -896,7 +872,6 @@ They pulled away from the curb, leaving Vera standing on the sidewalk, a lone fi
 ### Part 2: A Return to Sanctuary
 
 # The VDU Open House
-# Part 2: A Return to Sanctuary
 
 The moment they turned off the main road and onto the quiet, familiar streets leading to Lisa Court, the tension from the confrontation with Vera began to melt away. The atmosphere in Megan’s car was light and free, filled with the easy, comfortable chatter that had defined their relationship since childhood. For the first time all week, Alex felt his shoulders relax.
 
@@ -961,7 +936,6 @@ She knew the neighborhood like the back of her hand. She made a quick **left bac
 ### Part 3: A Safe Harbor
 
 # The VDU Open House
-# Part 3: A Safe Harbor
 
 The drive to Virginia Dominion University was a peaceful, liberating journey. The tension of the confrontation with Vera slowly dissipated, replaced by the easy, familiar comfort of just being with Megan. When they arrived at her apartment-style dorm, Dominion Commons, she parked in a visitor spot and led him to the main front office.
 
@@ -992,7 +966,6 @@ Alex just nodded, a wave of gratitude washing over him. He sat at her small dini
 ### Part 4: A Taste of Normalcy
 
 # The VDU Open House
-# Part 4: A Taste of Normalcy
 
 The aroma of garlic and simmering tomatoes filled Megan's small apartment, a scent so wonderfully normal and domestic that it was completely foreign to Alex. He sat at her small dining table and watched as she expertly tossed pasta, the simple, confident motions a stark, wonderful contrast to the chaotic indifference of Vera's kitchen.
 
@@ -1031,7 +1004,6 @@ The simple, unconditional support was so different from Vera's constant, jealous
 ### Part 5: A Night of Healing
 
 # The VDU Open House
-# Part 5: A Night of Healing
 
 After the plates from their home-cooked dinner were cleared and loaded into the dishwasher, Megan’s mission of healing continued. She scrolled through a small collection of DVDs she kept by her television.
 
@@ -1058,7 +1030,6 @@ She just hugged him a little tighter, her heart aching with a fierce, protective
 ### Part 6: The Lifeline
 
 # The VDU Open House
-# Part 6: The Lifeline
 
 After the wonderfully terrible sci-fi movie ended, and Alex’s genuine laughter had finally faded into a comfortable quiet, Megan looked at him, her expression soft and understanding. “Do you want to call Chloé?” she asked gently. “A proper call? No interruptions?”
 
@@ -1097,7 +1068,6 @@ He wasn't ready to answer it, not yet. But the question had been asked, and now,
 ### Part 7: The Bedtime Routine
 
 # The VDU Open House
-# Part 7: The Bedtime Routine
 
 After the lifeline of the video call with Chloé, a quiet, more serious mood settled over the small apartment. Megan looked at Alex, her expression one of gentle, loving determination. "Alright, cuz," she said softly. "It's getting late, and we have an early start tomorrow. Time to get you ready for bed."
 
@@ -1130,7 +1100,6 @@ After a few minutes, he gave her hand a gentle squeeze back and let go. She help
 ### Part 8: A Safe Place to Land
 
 # The VDU Open House
-# Part 8: A Safe Place to Land
 
 After Megan helped him out of the bathroom, clean and in his pajamas, she gestured towards her neatly made full-sized bed. Alex, however, stopped his chair, a look of quiet uncertainty on his face. He gestured towards the living room.
 
@@ -1153,7 +1122,6 @@ He didn't have any answers. But as he finally began to drift off, one thought ro
 ### Part 9: An Early Start
 
 # The VDU Open House
-# Part 9: An Early Start
 
 The insistent blare of an alarm clock cut through the quiet darkness of Megan’s dorm room at precisely 5:30 AM. With a practiced groan, Megan rolled over and slapped the snooze button, silencing it. She lay there for a moment, then turned and gently shook her cousin’s shoulder.
 
@@ -1174,7 +1142,6 @@ She led Alex into the large ballroom, where long tables were laden with pastries
 ### Part 10: Opening Remarks
 
 # The VDU Open House
-# Part 10: Opening Remarks
 
 At eight o'clock sharp, the low hum of conversation in the Sinclair Center ballroom quieted as a distinguished-looking woman in a VDU-blue blazer stepped up to the podium on stage.
 
@@ -1197,7 +1164,6 @@ A wave of enthusiastic applause filled the ballroom. As the crowd began to organ
 ### Part 11: The Campus Tour
 
 # The VDU Open House
-# Part 11: The Campus Tour
 
 After the opening remarks from Dr. Reed, the large crowd in the Sinclair University Center was divided into smaller groups for the official campus tours. A cheerful sophomore named Emily, their designated tour guide, gathered their group near the main entrance.
 
@@ -1226,7 +1192,6 @@ The entire process was a seamless, private act of care and practicality. They em
 ### Part 12: The Residential Tour
 
 # The VDU Open House
-# Part 12: The Residential Tour
 
 After lunch, the open house attendees split into even smaller groups for the residential life tour. Megan and Alex joined a group led by a cheerful RA, heading into one of the older, traditional dormitory buildings on campus.
 
@@ -1253,7 +1218,6 @@ He leaned into his cousin's touch, the safe harbor in his swirling thoughts, and
 ### Part 13: The Thirteenth Floor
 
 # The VDU Open House
-# Part 13: The Thirteenth Floor
 
 After the residential tour, Megan and Alex joined a small group—another prospective student with his parents, and the cheerful RA tour guide—to take the elevator down from the thirteenth floor. As this was one of the older dorm buildings on campus, the elevator was a slow, slightly creaky affair.
 
@@ -1294,7 +1258,6 @@ She led the small, shaken group to a different, much larger elevator at the end 
 ### Part 14: The Famous Fried Chicken
 
 # The VDU Open House
-# Part 14: The Famous Fried Chicken
 
 Once they were safely in the lobby of Jefferson Hall, surrounded by concerned-looking university officials, a team of paramedics approached them. "We'd like to check everyone out, just as a precaution," a calm, professional paramedic said.
 
@@ -1323,7 +1286,6 @@ Alex, who was meticulously de-boning a chicken thigh, just nodded, a look of pro
 ### Part 15: Practicing for the Future
 
 # The VDU Open House
-# Part 15: Practicing for the Future
 
 After their restorative lunch of Hendy's famous fried chicken, the open house was moving into its final phase: the academic fair back at the Sinclair Center. Jefferson Hall was on the far edge of the VDU campus, a long and difficult push for a manual wheelchair. Fortunately, the university had pressed several of its student shuttle vans into service for the day, ferrying guests back and forth.
 
@@ -1344,7 +1306,6 @@ The entire experience was a profound, confidence-building exercise. He was not t
 ### Part 16: Homework Sanctuary
 
 # The VDU Open House
-# Part 16: Homework Sanctuary
 
 After the adrenaline of the elevator rescue and the comfort of a good meal, the open house officially concluded. The crowds of prospective students and their families began to disperse. Megan, however, had one more stop in mind.
 
@@ -1373,7 +1334,6 @@ Alex looked up from his screen, a look of pure, unadulterated contentment on his
 ### Part 17: The Tender Shack
 
 # The VDU Open House
-# Part 17: The Tender Shack
 
 After a few solid hours of uninterrupted work, Alex had not only caught up on his CCHR assignments but had managed to get ahead as far as his classes' online portals would allow, completing every assignment that wasn't locked until a future date. The quiet, focused environment of the VDU library, free from Vera's constant, anxious interruptions, had felt like a superpower. It was the most productive he had been all semester.
 
@@ -1396,7 +1356,6 @@ They ate their dinner in a comfortable, easy silence, just two cousins enjoying 
 ### Part 18: The Second Video Call
 
 # The VDU Open House
-# Part 18: The Second Video Call
 
 Back in the quiet comfort of Megan's apartment, with the delicious taste of their dinner from The Tender Shack still lingering, Megan initiated the now-familiar video call. A moment later, Chloé's face once again filled the screen, a beacon of warmth from three thousand miles away.
 
@@ -1423,7 +1382,6 @@ They talked for another hour, the conversation drifting easily from topic to top
 ### Part 19: Starship Sentinels
 
 # The VDU Open House
-# Part 19: Starship Sentinels
 
 After the long, emotionally vital video call with Chloé, a comfortable, peaceful quiet settled over Megan’s apartment. Alex felt more centered than he had in months, the connection with his best friend a powerful balm.
 
@@ -1444,7 +1402,6 @@ When they finally defeated the final boss, a massive alien queen in a shower of 
 ### Part 20: The Second Evening of Care
 
 # The VDU Open House
-# Part 20: The Second Evening of Care
 
 After their triumphant victory against the alien empire, a comfortable, weary peace settled over Megan’s apartment. The day had been long and emotionally charged, a rollercoaster of social interactions, high-stakes rescues, and quiet revelations.
 
@@ -1475,7 +1432,6 @@ As she settled in beside him and pulled him into a gentle, comforting cuddle, he
 ### Part 21: A Morning of Trust
 
 # The VDU Open House
-# Part 21: A Morning of Trust
 
 Sunday morning arrived not with the jarring blare of an alarm, but with the soft, gentle light of dawn filtering through the blinds of Megan’s dorm room. Alex woke slowly, on his own terms. The first thing he was aware of was a sense of profound peace, and the light, steady weight of his cousin's hand gently stroking his hair.
 
@@ -1494,7 +1450,6 @@ The walls he had built to protect himself were beginning to come down. He was fi
 ### Part 22: The Heart-to-Heart
 
 # The VDU Open House
-# Part 22: The Heart-to-Heart
 
 Sunday morning in Megan's apartment was quiet and serious. After their gentle, peaceful waking, Megan made them a simple breakfast of scrambled eggs and toast. They ate at her small kitchen table, the air thick with the weight of a necessary, inevitable conversation. This was not a casual chat; it was an intervention of love.
 
@@ -1529,7 +1484,6 @@ He didn't say yes. But he didn't say no. He just sat there, his hand in hers, an
 ### Part 23: The Aftermath
 
 # The VDU Open House
-# Part 23: The Aftermath
 
 The drive back to Lisa Court was quiet and thoughtful. The weight of Megan's offer, the lifeline she had extended on behalf of the entire family, settled over Alex. He wasn't just processing the plan; he was grappling with the terrifying reality that his life was something that required an "escape plan."
 
@@ -1556,7 +1510,6 @@ Later that night, as he lay in his bed, the emptiness was a physical presence. H
 ### Part 1: The Vacuum
 
 # The Longest Road
-# Part 1: The Vacuum
 
 The Monday after his weekend at VDU felt like returning to a foreign country. Alex arrived on the CCHR campus with a new, fragile resolve. The escape hatch Megan had offered was a real, tangible thing, a bright promise of a future in December. He just had to hold on for a few more weeks. He could do this.
 
@@ -1585,7 +1538,6 @@ The moment the words were spoken, he saw a flicker of cold, possessive triumph i
 ### Part 2: The Thanksgiving Lie
 
 # The Longest Road
-# Part 2: The Thanksgiving Lie
 
 The Sunday evening before Thanksgiving week, Vera Kowalski was a whirlwind of practiced, bubbly charm. She arrived at the Miller house to pick Alex up for a "study date," knowing all four parents would be there. This was the first, and most crucial, part of her plan.
 
@@ -1624,7 +1576,6 @@ He gave a single, firm nod, his heart now hammering not with fear, but with a wi
 ### Part 3: Across the Country on a Pathfinder
 
 # The Longest Road
-# Part 3: Across the Country on a Pathfinder
 
 The old Pathfinder bus groaned out of the Norfolk, Virginia, terminal, the promise of seeing Chloé the only bright spot in Alex’s rapidly dimming world. Vera Kowalski, beside him, maintained a bright, almost manic cheerfulness, a stark contrast to Alex’s growing physical misery. The first missed dose of his Cerebral Palsy medication that Saturday morning was already making its presence known – a tightening in his limbs, a creeping ache that spread through his back and hips from the unrelenting pressure of the bus seat. Vera had packed no substantial meals for their anticipated four-day journey, only a meager collection of sugary snacks and greasy chips.
 
@@ -1667,7 +1618,6 @@ As Vera guided his wheelchair onto the lift and into the crowded, stuffy interio
 ### Part 4: Welcome to Hell, Welcome to Kent
 
 # The Longest Road
-# Part 4: Welcome to Hell, Welcome to Kent
 
 Aunt Carol was waiting at the Kent Train Station. She was a woman who looked a little overwhelmed but managed a genuinely delighted smile when she saw Vera. "Vera! My goodness, child! The last time I saw you, you were two years old!” She enveloped Vera in a hug. Then she turned to Alex, her smile becoming a little more hesitant as she took in his pale, drawn face, his wheelchair, and how thin he had become. "And this must be your... friend?” Internally, Aunt Carol noted the massive age difference; Vera was a young woman, but this young man looked almost like a boy beside her, so thin and frail. "I wasn't expecting... well, Vera, you certainly are full of surprises!” "This is Alex, Aunt Carol!" Vera trilled. "My wonderful Alex!"
 
@@ -1712,7 +1662,6 @@ Later, as Vera slept beside him, Alex lay awake, trembling, his heart still raci
 ### Part 1: The Desperate Call
 
 # Help is on the Way
-# Part 1: The Desperate Call
 
 The dreary Kent dawn did little to lift Alex Miller’s spirits. It was early Wednesday morning, the day before Thanksgiving, and each moment in the stuffy, unfamiliar house of Vera’s Aunt Carol felt like an oppressive weight. The cross-country bus trip from Virginia had been a harrowing ordeal of escalating neglect. Vera hadn’t packed his essential Cerebral Palsy medications, and the constant sitting, combined with her dismissiveness when he indicated pain, meant the tell-tale ache of developing pressure sores was now a throbbing, undeniable reality. He felt more powerless than he had since childhood. To make matters worse, Alex was basically starving. Vera had expected something akin to a five-star meal upon their arrival, hinting broadly to Aunt Carol, and when that didn’t materialize, she had clearly helped herself to whatever substantial food she could find when Aunt Carol wasn't looking. For Alex, however, there had been nothing more than the same insufficient snacks that had been his only sustenance on the bus, leaving him weak and his hunger a constant, painful reminder of Vera’s profound disregard for his basic needs.
 
@@ -1767,7 +1716,6 @@ Alex’s eyes widened in sheer terror. He looked at Carol, panicked, and slammed
 ### Part 2: Race to Kent
 
 # Help is on the Way
-# Part 2: Race to Kent
 
 Chloé Mason stared at her landline phone, the abrupt disconnection of Alex's call leaving a chilling silence in her small Lynnwood apartment. Kent. Vera méchante. Au secours. The synthesized Québécois French words, faint and strained with panic, echoed in her mind. Alex, her Alex, her best friend since they were fourteen, was trapped and terrified.
 
@@ -1786,7 +1734,6 @@ Chloé typed a quick email to her professor – “family emergency, won’t mak
 ### Part 3: Confrontation and Choice
 
 # Help is on the Way
-# Part 3: Confrontation and Choice
 
 The drive from Lynnwood to the quiet residential street in Kent felt like an eternity to Chloé Mason. Each mile her Horizon Avalon covered was filled with a gnawing anxiety for Alex Miller, her best friend since they were fourteen. His desperate, fragmented call from Vera's "Aunt Carol's" house – the plea for help in that urgent Québécois French, the fear in his synthesized voice before the line abruptly cut – had been a summons she couldn't ignore.
 
@@ -1827,7 +1774,6 @@ Chloé pushed his chair out the door, Alex too weak and exhausted to propel hims
 ### Part 4: The Drive to Lynnwood – Safety and Silence
 
 # Help is on the Way
-# Part 4: The Drive to Lynnwood – Safety and Silence
 
 The click of the car door shutting as Chloé Mason slid into the driver's seat of her Horizon Avalon felt like a definitive seal, closing off the nightmare of Carol's house in Kent and the suffocating presence of Vera. Alex Miller, eighteen years old and utterly traumatized, was in the passenger seat beside her, his duffel bag with his precious basic AAC device charger and whatever clothes he had. His device sitting safely in his lap. Chloé didn't waste a moment. With a final, quick glance in her rearview mirror to ensure Vera wasn't making some last-ditch effort to follow, she pulled away from the curb, leaving Kent and its oppressive memories behind.
 
@@ -1912,7 +1858,6 @@ As they finally pulled into the parking lot of Chloé’s small, off-campus one-
 ### Part 1: An Urgent Call Home
 
 # A New Plan
-# Part 1: An Urgent Call Home
 
 Her apartment, though simple, felt like a sanctuary. The moment they were inside, with the door securely locked, Chloé’s priority was clear. Alex was visibly trembling, the residue of Vera’s control clinging to him like a shroud.
 
@@ -1957,7 +1902,6 @@ The rest of the conversation continued, a multilingual flow of trust and family,
 ### Part 2: An Emergency Deep Cleaning – Restoring Dignity
 
 # A New Plan
-# Part 2: An Emergency Deep Cleaning – Restoring Dignity
 
 The video call with James and Emily Miller ended, leaving a fragile sense of peace in Chloé Mason’s small one-bedroom Lynnwood apartment. Alex Miller, now eighteen years old like Chloé, was safe, his parents knew, and plans were in motion to eventually get him home to Virginia. But the immediate reality was stark: Alex was exhausted, traumatized, physically unwell from days of Vera’s profound neglect, and he was desperately in need of basic human care.
 
@@ -1976,7 +1920,6 @@ When it was done, getting him out was another careful effort. Chloé wrapped him
 ### Part 3: First Meal in Sanctuary – Simple Comforts
 
 # A New Plan
-# Part 3: First Meal in Sanctuary – Simple Comforts
 
 Wrapped in Chloé Mason’s softest, oversized NPU t-shirt and her largest, most comfortable pajama pants, Alex Miller sat in his wheelchair in the small, combined living and dining area of Chloé’s one-bedroom off-campus apartment in Lynnwood. The lingering scent of her gentle shampoo from his recent bath was a comforting contrast to the grime he’d endured for days. The raw, angry marks of the Stage I pressure sores on his hips and lower back were a dull, throbbing reminder of Vera’s neglect, but the immediate, gnawing ache of hunger was beginning to assert itself with surprising force.
 
@@ -2001,7 +1944,6 @@ Alex couldn't have agreed more. Food, safety, and the promise of peaceful, unint
 ### Part 4: A Healing Nap and a New Plan
 
 # A New Plan
-# Part 4: A Healing Nap and a New Plan
 
 After the simple but deeply nourishing meal, a profound weariness settled over Alex. The adrenaline that had fueled his desperate call from Kent had finally given way to the bone-deep exhaustion of days of stress, fear, and physical neglect. His eyelids felt impossibly heavy.
 
@@ -2048,7 +1990,6 @@ For the Spring 2004 semester, Alex and Chloé would both be enrolled at the CCHR
 ### Part 5: A Quiet Thanksgiving
 
 # A New Plan
-# Part 5: A Quiet Thanksgiving
 
 The first pale light of Thanksgiving morning 2003 filtered through the blinds of Chloé Mason’s small one-bedroom Lynnwood apartment. Alex Miller stirred beside her in the king-sized bed, surfacing slowly from a deep, exhausted sleep.
 
@@ -2085,7 +2026,6 @@ Alex nodded, a sense of peace settling over him. After the darkness with Vera, C
 ### Part 1: A Quiet Conversation
 
 # Reestablishing Alex’s Agency
-# Part 1: A Quiet Conversation
 
 The days following Thanksgiving in Chloé’s Lynnwood apartment were a cocoon of quiet healing for Alex. Sunlight streamed into the small living room, illuminating dust motes dancing in the air. Alex had spent the morning attempting some of his remote Virginia community college assignments, Chloé quietly studying nearby, their shared silence companionable, a familiar rhythm from years past.
 
@@ -2118,7 +2058,6 @@ Alex gave her a small, grateful smile. The path ahead felt a little less dauntin
 ### Part 2: The Clinic Visit and a Clean Slate
 
 # Reestablishing Alex’s Agency
-# Part 2: The Clinic Visit and a Clean Slate
 
 True to her word, Chloé had found a clinic in Seattle’s University District, well-regarded for its discreet services and, crucially, its ability to offer support in French. The bus journey from Lynnwood on Transit Authority of the Puget Sound was undertaken with a quiet gravity, Chloé’s steady presence a constant reassurance for Alex.
 
@@ -2153,7 +2092,6 @@ The initial all-clear on the STIs was a vital reclamation of his physical well-b
 ### Part 3: Resuming Intimacy – The Afterglow Revisited
 
 # Reestablishing Alex’s Agency
-# Part 3: Resuming Intimacy – The Afterglow Revisited
 
 That evening, back in the sanctuary of their Lynnwood apartment, a different kind of quiet settled between them. The medical clearance had been a huge relief, but the emotional and physical exhaustion of the long recovery still lingered.
 
@@ -2174,7 +2112,6 @@ The promise they had made that summer evening in the hotel felt even more resona
 ### Part 4: The Afterglow – A New Dawn, A Reclaimed Voice
 
 # Reestablishing Alex’s Agency
-# Part 4: The Afterglow – A New Dawn, A Reclaimed Voice
 
 Wrapped in the comforting darkness, with Chloé’s soft breathing a steady rhythm beside him, Alex felt a profound sense of peace settle deep in his bones. It wasn’t just the physical release, as wonderful and comforting as that had been with her, his only trusted partner. It was something more. It was the feeling of wholeness, of reclaiming a part of himself that Vera’s coercion had tried to steal and contaminate.
 
@@ -2201,7 +2138,6 @@ Chloé never pushed. If he reverted to Québécois French for a difficult emotio
 ### Part 5: The Weight of Certainty
 
 # Reestablishing Alex’s Agency
-# Part 5: The Weight of Certainty
 
 The past few weeks had seen a gentle blossoming of reclaimed normalcy in Alex and Chloé’s Lynnwood apartment. The profound relief of Alex’s clear STI tests had paved the way for them to tentatively, then more confidently, rediscover their unique physical intimacy, a healing balm that was as much about emotional connection and reaffirming trust as it was physical. Alex was even starting to weave American English back into their conversations, a testament to the safety he felt with Chloé.
 
@@ -2238,7 +2174,6 @@ The certainty of his infertility, once a potential source of sorrow, had, in the
 ### Part 6: Homeward Bound for Graduation
 
 # Reestablishing Alex’s Agency
-# Part 6: Homeward Bound for Graduation
 
 The whirlwind of remote coursework for Alex at the Community College of Hampton Roads (CCHR) and Chloé’s demanding quarter at Northwest Pacific University (NPU) was finally drawing to a close. The small Lynnwood apartment had been a hive of quiet study and the steady, comforting presence of their unique partnership. They had both passed their finals, a testament to their shared resilience.
 
@@ -2269,7 +2204,6 @@ He leaned his head against her shoulder, a familiar gesture of comfort. The appr
 ### Part 1: The Cavalry Arrives
 
 # The Journey Home
-# Part 1: The Cavalry Arrives
 
 A cold, persistent rain, so quintessentially Pacific Northwest, fell on the evergreen trees outside Chloé’s Lynnwood apartment. Inside, a quiet, healing routine had taken hold. The weeks since Alex’s rescue had been a slow, steady process of him reclaiming his strength and his agency. The constant, grounding presence of Chloé, their shared safe language, and the daily, loving video calls with their parents had been a powerful medicine.
 
@@ -2306,7 +2240,6 @@ For the first time in months, a real, genuine, unforced smile spread across Alex
 ### Part 2: A Gentle Deconstruction
 
 # The Journey Home
-# Part 2: A Gentle Deconstruction
 
 The next few days were a masterclass in gentle, purposeful action. The goal was to pack up Chloé's entire student life for the journey home, but every action was calibrated to the needs of Alex's recovery. The air hummed not with frantic haste, but with a carefully choreographed ballet of love and logistics, conducted almost entirely in the soft, flowing cadence of Québécois French—the only language Alex felt completely safe in now.
 
@@ -2329,7 +2262,6 @@ Alex lifted his hand to his keyboard. A few soft taps, and the synthesized voice
 ### Part 3: Shipping a Life
 
 # The Journey Home
-# Part 3: Shipping a Life
 
 The practicalities of deconstructing a life were the final task. Taking all of Chloé's books, her posters, and her small collection of kitchenware on the plane was an impossibility.
 
@@ -2352,7 +2284,6 @@ And so, it was decided. The only things Chloé kept for the flight were the abso
 ### Part 4: The Flight Home
 
 # The Journey Home
-# Part 4: The Flight Home
 
 The trip to Seattle-Tacoma International Airport was a stark contrast to the last time Alex had been in a transport hub. This time, he was surrounded by a loving, protective phalanx of family. The check-in process was a chaotic symphony of echoing announcements and rolling suitcases. Emily, seeing the immediate sensory overload begin to register on Alex's pale, still-gaunt face, quickly produced a pair of foam earplugs.
 
@@ -2373,7 +2304,6 @@ Alex leaned his head against her shoulder, a deep, bone-weary contentment washin
 ### Part 5: Sanctuary
 
 # The Journey Home
-# Part 5: Sanctuary
 
 They landed in Norfolk late in the evening. The familiar, humid Virginia air, even in winter, felt like a welcoming blanket. The deplaning process was slow, but the quiet, smaller scale of ORF was a blessed relief after the day's long journey.
 
@@ -2408,7 +2338,6 @@ He was flanked, held, and protected on all sides by the two most important women
 ### Part 6: Magna Cum Laude
 
 # The Journey Home
-# Part 6: Magna Cum Laude
 
 The day of Megan Carter’s commencement ceremony was Alex’s first venture out of the protective bubble of Lisa Court since his return from Washington. He was still profoundly weak, his body still reeling from the trauma of his ordeal, but he was absolutely, unshakeably determined to be there. This was for Megan.
 
@@ -2441,7 +2370,6 @@ The rest of the ceremony passed in a happy, peaceful blur. Alex had weathered th
 ### Part 7: The Three-Way Escape Hatch
 
 # The Journey Home
-# Part 7: The Three-Way Escape Hatch
 
 After the commencement ceremony, the entire family gathered at a large, round table at a nearby restaurant to celebrate Megan's incredible achievement. The mood was joyous and full of pride. Alex, seated between Chloé and Megan, was quiet but present, the earlier emotional storm having passed, leaving a calm, thoughtful clarity in its wake.
 
@@ -2474,7 +2402,6 @@ And so, it was settled. The final, definitive plan was forged right there at the
 ### Part 1: The Insurance Dilemma and a Loving Proposition
 
 # Winter Break Decisions
-# Part 1: The Insurance Dilemma and a Loving Proposition
 
 The flight from Seattle to Norfolk for winter break had been Alex Miller’s first, and having Chloé Mason and Megan Carter steadfastly by his side had made all the difference. The weeks spent in the quiet sanctuary of Chloé’s Lynnwood apartment since his rescue had been a period of intense healing. Now, back in Virginia, surrounded by his entire family, Alex felt a fragile sense of peace.
 
@@ -2525,7 +2452,6 @@ The plan was set. Their entire, united, cross-border family would be there to wi
 ### Part 2: The Doctor\'s Verdict
 
 # Winter Break Decisions
-# Part 2: The Doctor\'s Verdict
 
 A few days after their return to Virginia, the entire, seven-person family unit sat in the quiet, tense waiting room of Dr. Adams, Alex's primary care physician since he was a boy. The appointment was a non-negotiable necessity. They needed a full, professional assessment of the damage Vera had done.
 
@@ -2558,7 +2484,6 @@ When Emily and Alex emerged from the exam room a few minutes later, the other fi
 ### Part 3: A New Foundation
 
 # Winter Break Decisions
-# Part 3: A New Foundation
 
 The drive back to Lisa Court from the doctor's office was a heavy, thoughtful silence. The seven of them gathered in the Millers' living room, the grim reality of Dr. Adams's words a tangible presence in the room.
 
@@ -2591,7 +2516,6 @@ The war was over. The long, difficult, but beautiful work of building a new, str
 ### Part 4: A New Normal
 
 # Winter Break Decisions
-# Part 4: A New Normal
 
 The drive back from the doctor's office was a heavy, thoughtful silence. The seven of them gathered in the Millers' living room, the grim reality of Dr. Adams's words a tangible presence. After the profound, unified declaration that Alex's new normal required both Chloé and Megan, the practical question of logistics arose.
 
@@ -2618,7 +2542,6 @@ She didn't need her old room next door. She would never want to be there without
 ### Part 5: A Canadian Landing
 
 # Winter Break Decisions
-# Part 5: A Canadian Landing
 
 The atmosphere inside the Norfolk International Airport (ORF) arrivals terminal was a familiar holiday hum of cheerful reunions. Alex and Chloé, flanked by Thomas, Sophie, and a beaming Megan Carter, stood anxiously near the gate, their eyes scanning the stream of passengers emerging from the jet bridge.
 
@@ -2653,7 +2576,6 @@ The knowledge that her cousins were just a stone's throw away in one direction, 
 ### Part 6: A Day of Two Cultures
 
 # Winter Break Decisions
-# Part 6: A Day of Two Cultures
 
 The morning of December 23rd dawned bright and chilly on Lisa Court. In the Masons' house, the "Cousins' Suite" was stirring. Mathieu and Isabelle emerged, looking a little rumpled after a night spent sharing a bed for the first time in their lives. Across the lawn, Alex, Chloé, and Megan were already with the Millers, the seven of them enjoying a quiet breakfast.
 
@@ -2686,7 +2608,6 @@ They worked in a comfortable, happy silence, a perfect trio of friends at the he
 ### Part 7: Le Réveillon on Lisa Court
 
 # Winter Break Decisions
-# Part 7: Le Réveillon on Lisa Court
 
 The Mason house on Lisa Court had been completely transformed. It was no longer a quiet suburban home; it was a bustling, fragrant outpost of Québec, filled with the boisterous, happy sounds of a family reunited. Christmas Eve was here, and with it came the most sacred of their holiday traditions: Le Réveillon.
 
@@ -2723,7 +2644,6 @@ Later, after the magnificent (if slightly less triumphant) feast was enjoyed by 
 ### Part 8: The Aftermath of the Feast
 
 # Winter Break Decisions
-# Part 8: The Aftermath of the Feast
 
 By 10:30 PM, the magnificent Réveillon feast at the Mason house was winding down, though the happy, bilingual chaos lingered. The remains of the *tourtières*, the *Pâté Chinois*, and Emily's green bean casserole sat on the dining table alongside the decimated *Tarte au Sucre*. The adults were still gathered, nursing cups of coffee, their conversation a warm, lazy hum.
 
@@ -2750,7 +2670,6 @@ The announcement sparked a fresh wave of energy. The family worked together to c
 ### Part 9: A Cross-Border Christmas
 
 # Winter Break Decisions
-# Part 9: A Cross-Border Christmas
 
 Christmas morning at the Millers' house was a cozy, cheerful chaos. The living room was a sea of discarded wrapping paper and happy chatter, the scent of fresh coffee and Emily's breakfast casserole mingling with the fragrance of the pine tree. The entire, sprawling family was gathered, their bilingual conversation a warm and lively hum.
 
@@ -2793,7 +2712,6 @@ Chloé jumped up and gave each of the five of them a huge, tearful hug. Later, a
 ### Part 10: A Gift of Togetherness
 
 # Winter Break Decisions
-# Part 10: A Gift of Togetherness
 
 The emotional high from the parents' incredibly thoughtful "Adventure Package" still lingered in the Millers' living room, a warm and happy glow amidst the festive chaos of wrapping paper. After a round of grateful hugs, Chloé looked at Alex and smiled.
 
@@ -2824,7 +2742,6 @@ They sat back down together amidst the happy sounds of their family. They looked
 ### Part 11: The American Christmas and a New Allegiance
 
 # Winter Break Decisions
-# Part 11: The American Christmas and a New Allegiance
 
 On Christmas Day, the center of the holiday universe shifted across the lawn to the Miller household. The atmosphere was different from the boisterous Réveillon—quieter, more relaxed, scented with the slow-roasting aroma of a large turkey. The families gathered in the living room, watching a classic holiday movie while James Miller, in his element, carved the bird.
 
@@ -2857,7 +2774,6 @@ Chloé watched this exchange, a look of dawning, horrified amusement on her face
 ### Part 12: A Rivalry is Born
 
 # Winter Break Decisions
-# Part 12: A Rivalry is Born
 
 The Miller house was quiet, the happy chaos of Christmas Day having finally settled into a peaceful, contented silence. The Leclercs had gone back to the Mason house next door, and the parents were quietly chatting in the living room. In Alex's room, the three of them—Alex, Chloé, and Megan—were unwinding from the long, exciting day, all piled comfortably on his full-sized bed.
 
@@ -2900,7 +2816,6 @@ He looked at her, at the absolute sincerity in her eyes. She understood. She alw
 ### Part 13: A Quiet \
 
 # Winter Break Decisions
-# Part 13: A Quiet \
 
 The first week of the new year in Virginia was a period of intense, focused planning. After the trauma of Kent and the quiet healing of the holidays, the path forward for Alex and Chloé was clear. Their new semester, together, as CCHR students was about to begin. But first, there was one final, practical matter to attend to.
 
@@ -2935,7 +2850,6 @@ There were no grand toasts, just the warm, happy tears of their mothers and gran
 ### Part 14: A Grocery Store Guardian
 
 # Winter Break Decisions
-# Part 14: A Grocery Store Guardian
 
 The aisles of the grocery store were bustling with post-holiday shoppers. Alex, navigating his wheelchair, and Chloé and Megan, sharing duties pushing their nearly full cart, were discussing a grocery list with Emily and Sophie. James and Thomas were a little further down the aisle. It was a comfortable, mundane family outing.
 
@@ -3004,7 +2918,6 @@ Chloé laughed, shaking her head in amusement and relief. "Never, ever cross Mrs
 ### Part 15: Confrontation in ValueMart
 
 # Winter Break Decisions
-# Part 15: Confrontation in ValueMart
 
 The oversized aisles of ValueMart buzzed with the typical post-holiday shopper drone. Alex Miller, now eighteen and legally, platonically married to his best friend Chloé, was navigating the men's clothing section in his wheelchair. Chloé was beside him, and on his other side was his cousin Megan Carter, a constant, reassuring presence. Their simple gold wedding bands were unobtrusive but present.
 
@@ -3045,7 +2958,6 @@ Alex looked at them, at his two protectors, his eyes shining with an emotion too
 ### Part 16: The Aftermath
 
 # Winter Break Decisions
-# Part 16: The Aftermath
 
 In the sudden, blessed quiet of the ValueMart aisle, the lingering energy of the confrontation slowly dissipated. Vera was long gone. Chloé and Megan formed a tight, protective circle around Alex, their hands a comforting weight on his shoulders.
 
@@ -3078,7 +2990,6 @@ Megan gave Alex's shoulder a firm, approving squeeze. With a new sense of purpos
 ### Part 17: A Shared Secret
 
 # Winter Break Decisions
-# Part 17: A Shared Secret
 
 The drive back to Lisa Court from ValueMart was quiet, the adrenaline from the confrontation slowly receding, replaced by a tense, thoughtful silence. The encounter, as jarring as it was, had been a necessary catalyst. It had transformed the abstract threat of Vera into a concrete reality, and in doing so, had solidified their collective resolve.
 

@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: A Conscious Goodbye
 
 # Forever Yours
-# Part 1: A Conscious Goodbye
 
 The winter of 2057 settled over the Eastern Townships of Québec like a soft, white blanket. In their quiet, accessible home in the small town of Magog, overlooking the frozen expanse of Lake Memphremagog, Alex Miller and Chloé Miller, both now 72, and Megan Carter, now 75, lived a life of peaceful, contented retirement.
 
@@ -43,7 +42,6 @@ The calls were made. The final phase of their life's plan was set in motion. The
 ### Part 2: Last Wishes
 
 # Forever Yours
-# Part 2: Last Wishes
 
 The final days were a study in profound peace. Alex was in their bed, weak but lucid, the winter light soft in the room. Chloé and Megan were his constant, unwavering presences, a two-woman fortress of quiet, loving care. One afternoon, as they were all holding hands, Alex turned his head on the pillow to look at them, his gaze clear and full of a quiet, purposeful love.
 
@@ -84,7 +82,6 @@ Alex closed his eyes, a look of profound, peaceful contentment on his face. He h
 ### Part 3: The Last Goodbye
 
 # Forever Yours
-# Part 3: The Last Goodbye
 
 The morning of Tuesday, January 27th, 2057, began with a soft, winter light filtering into the quiet bedroom. At around 9:00 AM, Isabelle arrived for her daily visit, this time with her young daughter. She came into the room where Alex lay peacefully, with Chloé on one side of his bed and Megan on the other, each holding one of his hands.
 
@@ -113,7 +110,6 @@ At 10:32 AM, with Chloé holding one hand and Megan holding the other, Alex pass
 ### Part 4: A Promise Kept
 
 # Forever Yours
-# Part 4: A Promise Kept
 
 In the days that followed Alex's passing, Chloé was serene but profoundly changed. She was not hysterical or outwardly grieving; she was simply… completing her journey. Megan never left her side, a quiet, constant, and deeply loving presence. Surrounded by her family, Chloé shared stories of her life with Alex, her voice full of a deep, quiet love.
 
@@ -138,7 +134,6 @@ Megan, her own face now a mask of profound, aching grief, just squeezed Chloé's
 ### Part 5: The Last Guardian
 
 # Forever Yours
-# Part 5: The Last Guardian
 
 The Leclerc family, who had been standing in a quiet, respectful vigil, now gathered around, their own sorrow a tangible, palpable thing. Mathieu, now a grown man with streaks of grey in his own hair, was the first to reach Megan, wrapping her in a fierce, loving hug. "*Et toi, ma belle Megan,*" he sobbed quietly. "*Qu'est-ce qu'on va faire sans eux?*" (And you, my beautiful Megan. What will we do without them?)
 
@@ -163,7 +158,6 @@ She leaned her head back against the armchair, closed her eyes, and with a soft,
 ### Part 6: A Service for Three
 
 # Forever Yours
-# Part 6: A Service for Three
 
 The large, sunlit multipurpose room of *Le Centre de Découverte et de Soin des Cantons-de-l’Est* was filled to capacity. Through the large windows, the snow-covered shores of Lake Memphremagog sparkled, a peaceful, natural backdrop to the gathering.
 

@@ -10,7 +10,6 @@ series: "The Silver Gauntlet of Aethel"
 ### Part 1: Chapter 1: The Sundering of Sunstead
 
 # Book I: The Silver Gauntlet of Aethel
-# Part 1: Chapter 1: The Sundering of Sunstead
 
 ## Part 1: A Home in the Hearth
 
@@ -1565,7 +1564,6 @@ Clinker burped. A small puff of smoke came out of his nose.
 ### Part 2: Chapter 2: The Silence of the Hearth
 
 # Book I: The Silver Gauntlet of Aethel
-# Part 2: Chapter 2: The Silence of the Hearth
 
 ## Part 1: The Fading of the Guardian
 
@@ -2734,7 +2732,6 @@ One step at a time, he thought, the words falling into cadence with his boots on
 ### Part 1: Chapter 1: The Hunted and the Caged
 
 # Book II: The Shadow's Heart
-# Part 1: Chapter 1: The Hunted and the Caged
 
 ## Part 1: The Hunter and the Hunted
 
@@ -3745,7 +3742,6 @@ The rebellion had begun.
 ### Part 2: Chapter 2: The Tyrant\'s Throne
 
 # Book II: The Shadow's Heart
-# Part 2: Chapter 2: The Tyrant\'s Throne
 
 ## Part 1: A Lord's Manifesto
 
@@ -4036,7 +4032,6 @@ It flew South. It flew over the jagged peaks, over the black ice, a tiny, defian
 ### Part 3: Chapter 3: The Last Temptation
 
 # Book II: The Shadow's Heart
-# Part 3: Chapter 3: The Last Temptation
 
 ## Part 1: The Oasis of Lies
 
@@ -4325,7 +4320,6 @@ He’s awake, Kaelan, she projected into the void. He knows you’re coming. Be 
 ### Part 4: Chapter 4: The Bridge of a Thousand Truths
 
 # Book II: The Shadow's Heart
-# Part 4: Chapter 4: The Bridge of a Thousand Truths
 
 ## Part 1: The Guardian's Gate
 
@@ -4704,7 +4698,6 @@ Kaelan took a deep breath, filling his lungs with the stale air of the enemy's s
 ### Part 1: Chapter 1: The Siege of the Shadowspire
 
 # Book III: The Dawn of the Twins
-# Part 1: Chapter 1: The Siege of the Shadowspire
 
 ## Part 1: Embers of Hope
 
@@ -5067,7 +5060,6 @@ He ran. He leaped over the last pile of rubble. He drove his boot into the cente
 ### Part 2: Chapter 2: The Heart of the Gloom
 
 # Book III: The Dawn of the Twins
-# Part 2: Chapter 2: The Heart of the Gloom
 
 ## Part 1: Reunion
 
@@ -5630,7 +5622,6 @@ They stood there in the ruins of the tyrant's tower, holding each other while th
 ### Part 3: Chapter 3: The Long Road Home
 
 # Book III: The Dawn of the Twins
-# Part 3: Chapter 3: The Long Road Home
 
 ## Part 1: The First Night
 
@@ -6505,7 +6496,6 @@ They ran toward the future, finally ready to rest.
 ### Part 4: Chapter 4: The Scouring of Sunstead
 
 # Book III: The Dawn of the Twins
-# Part 4: Chapter 4: The Scouring of Sunstead
 
 ## Part 1: The Steward's Law
 
@@ -6934,7 +6924,6 @@ Kaelan looked at his sister. "Home?"
 ### Part 5: Chapter 5: The Aftermath
 
 # Book III: The Dawn of the Twins
-# Part 5: Chapter 5: The Aftermath
 
 ## Part 1: The Sound of Water
 

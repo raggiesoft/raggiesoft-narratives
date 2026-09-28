@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: An Instant Connection
 
 # The House Next Door
-# Part 1: An Instant Connection
 
 The humid Virginia air of Summer 1999 hung thick and still over Lisa Court, a quiet, tree-lined cul-de-sac where fourteen-year-old Alex Miller lived. For Alex, an only child, summers often stretched out in a predictable rhythm of books, the familiar hum of his new Quantum OS computer, and the loving but sometimes overly cautious presence of his parents, James and Emily Miller. Alex navigated his world with thoughtful intelligence; his severe Cerebral Palsy meant he used a wheelchair for mobility, and his autism shaped his unique perspective and communication, which was primarily through a well-used augmentative communication device (AAC). His days had a rhythm, but sometimes, a quiet loneliness settled in, the kind only another only child might truly understand. But a quiet loneliness often settled in, a feeling made deeper by his last, disastrous attempt at friendship.
 
@@ -81,7 +80,6 @@ Alex watched her go, a strange, new, and incredibly pleasant feeling settling in
 ### Part 2: Boardwalk Blasts & Budding Bonds
 
 # The House Next Door
-# Part 2: Boardwalk Blasts & Budding Bonds
 
 The "later this week" for ice cream, proposed by Chloé during their very first meeting, turned out to be a warm Saturday afternoon just a few days later. The memory of Chloé’s unexpected, warm "big squeeze" hug still lingered with Alex, a novel and deeply comforting sensation that was at war with a more recent, painful memory. Chloé, spotting Alex in his yard again, had bounded over, her enthusiasm infectious. "Boardwalk Blasts & Cones! Today? Are you free, Alex?"
 
@@ -118,7 +116,6 @@ For James, Emily, Thomas, and Sophie, this simple ice cream outing was more than
 ### Part 3: Sandwiches and Shared Worlds
 
 # The House Next Door
-# Part 3: Sandwiches and Shared Worlds
 
 The Sunday following their inaugural ice cream adventure dawned warm and bright. Megan Carter, as was her custom on many summer weekends, arrived at the Miller house just in time for breakfast. The moment she walked in, Alex’s face lit up with a joy and relief that was palpable. He wheeled over to her, and she immediately enveloped him in their familiar, comforting hug.
 
@@ -223,7 +220,6 @@ With a final wave, Chloé slipped out the front door. Alex watched her go, a fee
 ### Part 4: The Sweetness of a Hug
 
 # The House Next Door
-# Part 4: The Sweetness of a Hug
 
 The late afternoon sun, a hazy gold through the Virginia summer sky, cast long shadows across Alex Miller's bedroom floor. He and Chloé Mason were sprawled comfortably in his room, a familiar haven for their shared adventures and quiet companionship. Alex was in his wheelchair, tilted back slightly for relaxation, his Quantum OS computer displaying a complex star chart he’d been explaining. Chloé was lying on her stomach on his full-sized bed, chin propped in her hands, listening intently, her brow furrowed in concentration as she tried to grasp the concept of nebulae.
 
@@ -258,7 +254,6 @@ Chloé’s smile was radiant, understanding shining in her eyes. "Anytime, Alex 
 ### Part 5: A Day at Fairlawn and Shared Stories
 
 # The House Next Door
-# Part 5: A Day at Fairlawn and Shared Stories
 
 The familiar, slightly bumpy ride over the pothole-ridden parking lot of the Fairlawn Recreation Center was a prelude to an afternoon Alex Miller had been eagerly anticipating. It was mid-July 1999, deep into their "Summer of Discovery," and today, he was taking Chloé Mason to Fairlawn for the first time.
 
@@ -337,7 +332,6 @@ Megan walked to her car, and Chloé took the familiar, well-trodden path across 
 ### Part 6: The First Boundary
 
 # The House Next Door
-# Part 6: The First Boundary
 
 A few weeks into their inseparable summer, after a long afternoon spent exploring the creek behind their houses, Alex, Chloé, and Megan were settled in the Masons' living room. The sun was beginning to set, and Sophie Mason came in from the kitchen, a gentle but purposeful look on her face. She paused by Chloé's chair.
 
@@ -372,7 +366,6 @@ She stood up and walked to the bathroom, closing the door softly behind her. Ale
 ### Part 7: The Reunion
 
 # The House Next Door
-# Part 7: The Reunion
 
 The thirty minutes felt like an eternity to Alex. After Chloé disappeared into the bathroom, Megan, seeing his distress, made a suggestion.
 
@@ -405,7 +398,6 @@ He just nodded, his own eyes shining with a gratitude that went beyond words. He
 ### Part 8: A Ramp of Welcome
 
 # The House Next Door
-# Part 8: A Ramp of Welcome
 
 The weeks following the ice cream outing saw Alex and Chloé become virtually inseparable. Their initial hedge-side conversations had quickly evolved. Chloé, with her easygoing nature, had started hopping the low boxwood hedge to join Alex in his yard, or Alex would wheel his chair to the edge of her driveway to chat. The well-worn path in the grass between their two front yards was a testament to their constant comings and goings.
 
@@ -448,7 +440,6 @@ The new ramp wasn't just a piece of construction; it was a tangible symbol of we
 ### Part 9: Electives, Echoes of French, and an Informal Tutor
 
 # The House Next Door
-# Part 9: Electives, Echoes of French, and an Informal Tutor
 
 The rhythm of Alex and Chloé's summer continued its easy, companionable beat. As August approached, bringing with it the tangible reality of high school registration, a new layer was added to their shared world. One sunny afternoon, they were settled comfortably on the Millers' living room sofa, official-looking Northwood High course catalogs spread open on the coffee table before them.
 
@@ -495,7 +486,6 @@ This informal immersion became another layer of their bond. Québécois French w
 ### Part 10: The Architect of The Codex
 
 # The House Next Door
-# Part 10: The Architect of The Codex
 
 A few weeks into their inseparable summer, on a lazy, hazy August afternoon, Alex's bedroom had been transformed into a high-tech design studio. His new obsession wasn't just playing "Resonance Cascade"; it was building it. The game had shipped with a powerful but complex level editor, a tool called "The Crucible," and Alex was determined to master it.
 
@@ -536,7 +526,6 @@ It wasn't just a game level anymore. It was their masterpiece, a testament to hi
 **Date:** 1999-07-13
 
 # The House Next Door
-# Part 11: The First Sleepover – Labor Day Weekend
 
 The golden, late-summer light of Labor Day weekend 1999 cast long shadows across the Millers' and Masons' adjoined backyards. The summer had woven Alex Miller and Chloé Mason into an inseparable pair. Their initial friendly hugs had blossomed into a daily currency of warm, reassuring embraces; by now, Alex and Chloé really, really liked hugging each other, and these gestures were freely offered and given between them as a primary language of their platonic affection and mutual comfort. Chloé, with her intuitive nature and constant proximity, had also subtly begun to assist Alex with small, everyday acts of care, always respectfully and without him even needing to ask. If his shirt was askew after a particularly enthusiastic video game session, she’d gently straighten it. If he was struggling to open a tricky snack package, her hands would be there. These weren't grand gestures, just the quiet, practical ways their lives had become intertwined.
 
@@ -589,7 +578,6 @@ He clung to her, burying his face against her shoulder, the terror slowly, pains
 ### Part 12: The Morning After – A New Normal
 
 # The House Next Door
-# Part 12: The Morning After – A New Normal
 
 The first light of Sunday morning filtered softly into Alex Miller’s bedroom. Outside, the neighborhood was still quiet. Inside, a profound peace reigned. Alex was still deeply asleep, the remnants of his earlier nightmare banished entirely by Chloé Mason’s calming presence. He was curled slightly on his side in his full-sized bed, and beside him, equally asleep, lay Chloé. Her arm was resting lightly around his shoulders where it had fallen as she comforted him, her breathing soft and even.
 
@@ -644,7 +632,6 @@ The logistics for the beach trip were discussed, another shared family adventure
 ### Part 13: Bedtime and Beach Dreams
 
 # The House Next Door
-# Part 13: Bedtime and Beach Dreams
 
 The remnants of a simple Sunday supper –sandwiches and lemonade shared between the two families in the Millers' backyard – had been cleared away. The sun had dipped below the horizon, painting the Virginia sky in hues of orange and purple. Crickets had begun their evening chorus, and a comfortable, slightly weary peace settled over the two households. The big beach trip to the Virginia Beach Oceanfront was set for tomorrow, their last official day of summer vacation.
 
@@ -677,7 +664,6 @@ Chloé reached out in the darkness, and their hands found each other, a familiar
 ### Part 14: Beach Day Bound – The Last Day of Freedom
 
 # The House Next Door
-# Part 14: Beach Day Bound – The Last Day of Freedom
 
 Monday morning, the official Labor Day holiday and the very last day of their summer freedom, dawned bright and promising. The anxieties about high school were still present, but they were overlaid with a fresh layer of excitement for the planned family beach trip. Alex and Chloé had woken up in Alex’s full-sized bed, the now-familiar comfort of their shared platonic sleep arrangement a solid anchor against any lingering nerves.
 
@@ -708,7 +694,6 @@ The air smelled distinctly of salt and sunscreen. Music drifted from nearby souv
 ### Part 15: Oceanfront Wonders – A Day of Firsts
 
 # The House Next Door
-# Part 15: Oceanfront Wonders – A Day of Firsts
 
 The moment James Miller parked their sedan in the 19th Street municipal lot, the salty tang of the Atlantic was thick in the air. The Masons pulled in beside them, and a moment later, Megan Carter's sedan slid into a nearby spot, a cheerful honk announcing her arrival.
 
@@ -775,7 +760,6 @@ Their last day of summer freedom had indeed been a day to remember. The daunting
 ### Part 16: A Drawer of Belonging
 
 # The House Next Door
-# Part 16: A Drawer of Belonging
 
 The salty air and happy exhaustion of their Labor Day beach adventure still clung to Alex Miller and Chloé Mason as evening settled over Lisa Court. They had returned with their families from the Virginia Beach Oceanfront, sandy, sun-kissed, and filled with the joy of Chloé’s first encounter with the Atlantic. Tomorrow, Tuesday, loomed large – their first day as freshmen at Northwood High. The prospect was a mix of excitement and a significant dose of nerves for both fourteen-year-olds.
 

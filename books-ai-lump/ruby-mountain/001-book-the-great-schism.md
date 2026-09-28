@@ -11,8 +11,6 @@ series: "ruby-mountain"
 
 **Date:** 1999-05-04 ET
 
-# Part 1: The Traitor
-
 The Great Hall of The Prospector's Keep felt less like a luxury alpine lodge and more like a besieged bunker. The massive, 1890s timber-framed room was littered with open, half-packed designer suitcases and overstuffed leather duffel bags.
 
 The air was toxic, thick with the bitter, desperate rage of the older generation. The parents, aunts, and uncles who had spent the last two decades bleeding Laurent Vance's fortune dry were reluctantly throwing their possessions into their bags.
@@ -58,8 +56,6 @@ Victoria turned her back on them, an ultimate dismissal.
 ### Part 2: The Vision
 
 **Date:** 1999-05-04 ET
-
-# Part 2: The Vision
 
 The heavy oak doors of The Prospector's Keep slammed shut, cutting off the furious exhaust of the departing luxury SUVs. The echo reverberated through the cavernous 1890s timber of the Great Hall, followed by a profound, ringing silence.
 
@@ -112,8 +108,6 @@ Victoria pulled a small leather notebook from her blazer pocket and uncapped her
 ### Part 3: The Migration
 
 **Date:** 1999-05-04 ET
-
-# Part 3: The Migration
 
 The drafty, peeling confines of Room N314 felt entirely different now. It was no longer just a miserable hotel suite on the third floor of the North Wing; it was Ground Zero for the Vance-Whitaker empire.
 
@@ -179,8 +173,6 @@ The biological parents were fuming in the dark on the other side of the Keep, bu
 
 **Date:** 1999-05-05 ET
 
-# Part 1: The Final Ultimatum
-
 The morning light streaming through the massive frosted windows of the Great Hall was blindingly clear. The brutal, six-month alpine winter had finally broken, but the atmosphere inside The Prospector's Keep was suffocatingly tense.
 
 The luggage was packed. Piles of heavy leather duffel bags and designer suitcases sat in the center of the Persian rug, exactly where Victoria had ordered them to be at dawn.
@@ -230,8 +222,6 @@ Victoria stepped back, clearing the path to the front doors, and watched them be
 ### Part 2: The Standoff
 
 **Date:** 1999-05-05 ET
-
-# Part 2: The Standoff
 
 The antique grandfather clock in the corner of the Great Hall chimed exactly eleven times.
 
@@ -285,8 +275,6 @@ Victoria looked at her uncle, her eyes devoid of any remaining mercy.
 
 **Date:** 1999-05-05 ET
 
-# Part 3: The Eviction
-
 The heavy, rhythmic crunch of specialized snow tires on cobblestone echoed through the thick exterior walls. Through the massive, frosted windowpanes of the Great Hall, the harsh, strobing flashes of red and blue light cut through the morning shadows. Three black-and-white Whatcom County Sheriff's cruisers—Holt Sentinels —pulled directly onto the portico, boxing in the idling luxury SUVs.
 
 The heavy oak front doors pushed open, and a blast of crisp spring air followed two uniformed deputies into the lobby.
@@ -337,8 +325,6 @@ Victoria turned around to face the sixteen cousins remaining on the staircase. T
 
 **Date:** 1999-05-05 ET
 
-# Part 4: The Assessment
-
 The echo of the heavy deadbolt sliding into place lingered in the cavernous expanse of the Great Hall. For the first time in their lives, the sixteen cousins were completely alone on the mountain. The toxic, suffocating weight of the older generation had been excised.
 
 Victoria Vance turned away from the massive oak doors. The terrifying, sovereign gladiator who had just broken her uncle vanished, replaced by a bone-deep, quiet exhaustion. She looked up at the sweeping staircase.
@@ -379,8 +365,6 @@ The sixteen cousins absorbed the magnitude of the shift. For their entire lives,
 
 **Date:** 1999-05-06 ET
 
-# Part 1: The Diagnostics
-
 The heavy oak doors of The Prospector's Keep were propped wide open, letting the crisp, thawing spring air flood into the 1890s lobby. Out on the cobblestone turnaround, a fleet of heavy-duty commercial work trucks had replaced the exiled generation's luxury SUVs.
 
 Master architects, structural engineers, and master plumbers filed into the Great Hall, carrying heavy clipboards and diagnostic equipment. They looked up at the towering Douglas fir columns and the massive stone fireplaces, visibly awed by the scale of the Klondike-era construction .
@@ -420,8 +404,6 @@ The adults were gone, the walls downstairs were coming down, and the mountain wa
 ### Part 2: The Truman Execution
 
 **Date:** 1999-05-06 ET
-
-# Part 2: The Truman Execution
 
 The lead structural engineer walked back into the Great Hall just after two o'clock in the afternoon. His hands were coated in a thick layer of black, century-old dust, and his expression was grim.
 

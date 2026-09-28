@@ -12,7 +12,6 @@ series: "Alex & Chloé"
 **Date:** 1987-07-13
 
 # The Carter House
-# Part 1: The First Meeting
 
 The summer of 1987 was a time of immense change for the Miller and Carter families. James and Emily, with their two-year-old son, Alex, had just completed the long, exhausting move from Newport, Rhode Island, to a small second-floor apartment on Level Green Boulevard in Virginia Beach. The primary reason for the move was to be closer to Emily's sister, Karen, and the rest of the family.
 
@@ -49,7 +48,6 @@ From that day forward, they were a unit. When Alex was at the Carter house, he w
 ### Part 1: The First Day of Kindergarten
 
 # Elementary School
-# Part 1: The First Day of Kindergarten
 
 The first day of kindergarten was a sensory assault. The room was a riot of primary colors, the air thick with the unfamiliar smells of chalk dust, paste, and the slightly sweet scent of dozens of nervous children. The noise was the worst part—a constant, chaotic symphony of high-pitched chatter, scraping chairs, and the booming, cheerful voice of a teacher trying to impose order.
 
@@ -92,7 +90,6 @@ As the teacher's aide began to push his wheelchair back towards the school build
 ### Part 2: The Afternoon Block
 
 # Elementary School
-# Part 2: The Afternoon Block
 
 The short bus ride from the elementary school to the Carter's neighborhood was a familiar, rumbling journey. At precisely 12:15 PM, the bus hissed to a stop at the corner, and the aide helped Alex down the lift. Waiting for him on the sidewalk, as she was every day, was his grandmother, Eleanor Prescott.
 
@@ -127,7 +124,6 @@ He would hug her back fiercely, a profound sense of rightness and peace settling
 ### Part 3: The Eye of the Storm
 
 # Elementary School
-# Part 3: The Eye of the Storm
 
 The familiar, bickering energy of the sisters filled the house. But Alex didn't care. He wasn't focused on them. His entire world, in that moment, was focused on Megan.
 
@@ -168,7 +164,6 @@ As her two granddaughters trudged off down the hall, Eleanor looked back into th
 ### Part 4: The Guardian and the Architect
 
 # Elementary School
-# Part 4: The Guardian and the Architect
 
 The Peer Helper program, so carefully arranged by their parents, quickly became the cornerstone of Alex's entire kindergarten experience. Those twenty minutes of shared recess were a masterclass in the non-verbal language of their unique bond, the earliest signs of the intense, platonic, familial love that would define their lives.
 
@@ -197,7 +192,6 @@ And through it all, there were the hugs. They were their primary language. When 
 ### Part 5: The Nickname
 
 # Elementary School
-# Part 5: The Nickname
 
 A typical after-school scene at the Carter house was a whirlwind of controlled chaos. Alex, now five, was at the kitchen table, his focus entirely on building an intricate, complex structure with his blocks, the colorful pieces spread out on a protective mat. It was his quiet island in the middle of a storm. In the adjacent living room, a loud and dramatic argument had erupted between his cousins, Jessica and five-year-old Cassie, over who got to play with a new doll.
 
@@ -226,7 +220,6 @@ The word hung in the air, a simple, perfect, and instantly permanent declaration
 ### Part 6: A Quiet Place in the Chaos
 
 # Elementary School
-# Part 6: A Quiet Place in the Chaos
 
 The Carter house after school was a symphony of cheerful, chaotic energy. The front door would burst open, and in would tumble a cascade of backpacks, lunchboxes, and three lively sisters—Jessica, Megan, and Cassie—all talking at once about their day. A few minutes later, the school bus that served students with special needs would arrive, and Emily Miller would help her seven-year-old son, Alex, down the lift and into the house.
 
@@ -255,7 +248,6 @@ He transferred himself from his chair to her bed, a practiced move even at his y
 ### Part 7: The Grand Prix
 
 # Elementary School
-# Part 7: The Grand Prix
 
 In the spring of 1996, the annual Community Grand Prix was the biggest event of the season for the kids in Virginia Beach. It was a classic soap box derby-style race down the steep, grassy slope of the city's most famous landmark: The Twin Barrows. For ten-year-old Alex Miller, it was the ultimate design challenge.
 
@@ -280,7 +272,6 @@ By the end of the weekend, it was complete. The two-seater car sat on the garage
 ### Part 1: The Dare and The Setup
 
 # A Date with Jennifer
-# Part 1: The Dare and The Setup
 
 The plan was born, as most cruel middle school plans are, from a potent combination of boredom and a desire for social power. It was a Tuesday in early October, and Ashley Parker, the undisputed queen bee of her eighth-grade friend group, was holding court in the cafeteria.
 
@@ -307,7 +298,6 @@ The other girls had giggled, a mixture of shock and cruel excitement. The plan w
 ### Part 2: Senior Week
 
 # A Date with Jennifer
-# Part 2: Senior Week
 
 Ashley Parker's grand plan was simple, cruel, and hinged on a single, crucial element: the privacy of the back row of the movie theater. In her mind, she envisioned getting Alex and Jennifer settled into the dark, secluded back row, the perfect spot to pressure them into making out and whatever other inappropriate "shenanigans" she could orchestrate for her friends' amusement.
 
@@ -358,7 +348,6 @@ The "moment" was over, leaving behind only a feeling of hollow, performative awk
 ### Part 3: Aftermath of a Movie
 
 # A Date with Jennifer
-# Part 3: Aftermath of a Movie
 
 After the movie, the group of girls spilled out into the bright, noisy lobby of the Riverbend Plaza Cinemas. The awkward hand-hold between Alex and Jennifer had long since been abandoned, but now, a new and far more terrifying ordeal was about to begin.
 
@@ -409,7 +398,6 @@ She hung up the phone, her heart pounding with a mixture of pure, white-hot fury
 ### Part 4: The Antidote
 
 # A Date with Jennifer
-# Part 4: The Antidote
 
 Emily Miller pushed through the glass doors of the Riverbend Plaza Cinemas, her heart pounding with a mixture of pure, white-hot fury and a profound, aching love for her son. The manager, a tall, stern-looking man named John Fleming, met her just inside the lobby.
 
@@ -444,7 +432,6 @@ He leaned into her, the rigidity in his body finally beginning to melt away as h
 ### Part 5: The Fizzle
 
 # A Date with Jennifer
-# Part 5: The Fizzle
 
 A few weeks after the disastrous movie "date," the performative relationship between Alex and Jennifer was on its last legs. The final, awkward nail in the coffin came on a Saturday afternoon at the Chesapeake Bay Mall in Virginia Beach.
 
@@ -483,7 +470,6 @@ For the rest of the afternoon, Alex was not a pawn in a cruel social game. He wa
 ### Part 6: A Better Kind of Friendship
 
 # A Date with Jennifer
-# Part 6: A Better Kind of Friendship
 
 They left the food court and began to wander through the mall, their conversation easy and inclusive. Megan's friends asked him about his favorite video games, and they actually listened to his typed-out, detailed answers.
 
@@ -538,7 +524,6 @@ He had survived the Jennifer arc. And he had come out the other side with a new,
 ### Part 7: The Aftermath at School
 
 # A Date with Jennifer
-# Part 7: The Aftermath at School
 
 Monday morning at Northwood Middle School felt different. Alex was a little anxious, bracing himself for the inevitable awkwardness of seeing Jennifer and her friends after the disastrous weekend at the mall.
 
@@ -565,7 +550,6 @@ Alex looked across the kitchen table at his cousin, at the fierce, unwavering lo
 ### Part 1: A Quiet Place in the Chaos
 
 # Alex as a Teenager
-# Part 1: A Quiet Place in the Chaos
 
 The weeks following the disastrous movie theater "date" and the subsequent fizzle of his "relationship" with Jennifer Thompson were a period of quiet, necessary retreat for Alex. The experience had left a deep, painful bruise on his trust. He wanted nothing to do with his peers, especially girls. There was only one female peer whose company he actively sought, the one who had always been his safe harbor: Megan.
 
@@ -586,7 +570,6 @@ He had found his quiet place in the middle of the storm, and it was right here, 
 ### Part 2: The Resonance Cascade
 
 # Alex as a Teenager
-# Part 2: The Resonance Cascade
 
 The glow of a large CRT monitor was the only light in Alex's otherwise dark room. The sounds were a tense, atmospheric mix of humming fluorescent lights, distant, unearthly screams, and the sharp, percussive blast of a shotgun.
 
@@ -627,7 +610,6 @@ Megan smiled. It was a perfect Alex moment. He wasn't just content to play in th
 ### Part 3: The Codex
 
 # Alex as a Teenager
-# Part 3: The Codex
 
 For his fourteenth birthday, Alex didn't want a party. After the disastrous social experiment of the previous fall, the thought of a house full of people was a source of quiet dread. He wanted something simple, something safe. He wanted to see the new movie everyone was talking about.
 
@@ -660,7 +642,6 @@ The deep, powerful connection forged that night, a bond built not just on love b
 ### Part 4: The Declaration
 
 # Alex as a Teenager
-# Part 4: The Declaration
 
 Back at the Carter house after the movie, the air was buzzing with the energy of "The Codex." As the family gathered in the kitchen for Alex's birthday cake and ice cream, the conversation was dominated by the film's mind-bending plot. Jessica and Cassie were still trying to make sense of it, asking confused questions that Megan and Alex would answer in a rapid, excited, and perfectly synchronized volley of explanations.
 
@@ -683,7 +664,6 @@ He hugged her back just as tightly. The declaration had been made. From that day
 ### Part 5: The Upgrade
 
 # Alex as a Teenager
-# Part 5: The Upgrade
 
 A few weeks before the end of his eighth-grade year, a large, unmarked van pulled up to the Miller house on Lisa Court. For Alex, it was a day of almost unbearable anticipation. Months of evaluations, insurance paperwork, and frustrating delays were finally over. His new equipment was here.
 
@@ -710,7 +690,6 @@ He was still the same quiet, reserved boy. But as he sat there, in his sleek new
 ### Part 6: The Training Montage & The Sign
 
 # Alex as a Teenager
-# Part 6: The Training Montage & The Sign
 
 The first few days with the new equipment were a strange mixture of exhilarating freedom and frustrating relearning. The new titanium wheelchair was so light and responsive that Alex kept oversteering. The new "Quantum Communicator XT," was a universe of new menus and features that felt both powerful and overwhelming.
 

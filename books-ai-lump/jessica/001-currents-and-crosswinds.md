@@ -10,7 +10,6 @@ series: "The Quantum Directive: Jessica's Cut"
 ### Part 1: Day-to-Day at Quantum
 
 # An Ordinary July
-# Part 1: Day-to-Day at Quantum
 
 The hum of Jessica’s office was a sound she knew better than her own heartbeat — the low, steady whir of two workstations running side by side. On her left, the Quantum OS tower was chewing through a debug build of **Aurora Presenter**, the crown‑jewel app in the upcoming **Quantum Office Suite 98**. On her right, a MagnaOS development machine rendered the same code in a different skin, its typography and animations tuned to the tastes of a different tribe.
 
@@ -32,7 +31,6 @@ Jessica dismissed the notification with a shrug. Whatever it was, it could wait 
 ### Part 2: The “Review” That Isn’t
 
 # An Ordinary July
-# Part 2: The “Review” That Isn’t
 
 Conf. Room B was one of those spaces that never quite lost the smell of dry erase markers and burnt coffee. Jessica wheeled inside, laptop in her backpack strapped to her wheelchair, still half thinking about the animation hitch in Aurora Presenter.
 
@@ -75,7 +73,6 @@ Jessica sat back, the paper still in her hands. She’d been in Building 33 befo
 ### Part 3: Across the Quad
 
 # An Ordinary July
-# Part 3: Across the Quad
 
 Jessica eased her chair out of Conf. Room B, the door clicking shut behind her. The meeting with Mark and Dana still sat in the back of her mind — not unsettling, exactly, but… unusual.
 
@@ -96,7 +93,6 @@ Whatever waited upstairs, it was a world apart from the easy rhythm of the quad.
 ### Part 4: The Executive Suite
 
 # An Ordinary July
-# Part 4: The Executive Suite
 
 The automatic doors parted with a soft hiss, and the cool, conditioned air of Building 33 wrapped around her. The shift was immediate — the easy rhythm of the quad replaced by the muted professionalism of the lobby. A senior Quantum executive she barely knew met her and swiped them through a set of double doors into the Executive Suite. The carpet was thick enough to muffle footsteps, the air cool and faintly scented with polished wood.
 
@@ -133,7 +129,6 @@ Keswick closed the folder. “Then you can take your leave. But first, we get th
 ### Part 5: Off to BFI
 
 # An Ordinary July
-# Part 5: Off to BFI
 
 The morning air in Seattle was cool and still, the kind of summer day that promised heat later but hadn’t yet made good on it. Jessica Taylor waited at the entrance to her apartment building, the quiet hum of her power wheelchair the only sound on the street. She’d lived in this apartment for three years now. Normally, she’d have taken the city bus to work without a second thought.
 
@@ -202,7 +197,6 @@ As the door sealed and the engines began to spool, she looked out the window one
 ### Part 6: The Flight East
 
 # An Ordinary July
-# Part 6: The Flight East
 
 The charter lifted off from Boeing Field with a smoothness Jessica had never felt on a commercial flight. No boarding announcements, no jostling for overhead space — just the quiet push of acceleration and the tilt of the horizon as Seattle fell away beneath them.
 
@@ -234,7 +228,6 @@ For now, she was in the air, in the middle of a plan so carefully stitched toget
 ### Part 7: Providence to Boston
 
 # An Ordinary July
-# Part 7: Providence to Boston
 
 The wheels touched down at T.F. Green with barely a bump. Jessica knew this runway — she’d landed here more times than she could count. Family visits, holidays, quick escapes home to Portsmouth. Normally, stepping off a plane here meant the trip was over, the salt air was minutes away, and she could already taste coffee milk from her favorite café on Aquidneck Island.
 
@@ -281,7 +274,6 @@ Tomorrow morning, she’d be taken across the street, through the service entran
 ### Part 8: The Morning Hand-Off
 
 # An Ordinary July
-# Part 8: The Morning Hand-Off
 
 The first light of morning spilled through the narrow gap in the blackout curtains, painting a thin gold line across the carpet. Jessica blinked awake in the unfamiliar stillness of the hotel room. For a moment, she could almost pretend she was here for a normal trip — a conference, a client meeting, maybe even a quick detour home to Portsmouth.
 
@@ -322,7 +314,6 @@ Erin gave a small nod, then stepped back as Jessica rolled forward into the shad
 ### Part 9: The Green Room
 
 # An Ordinary July
-# Part 9: The Green Room
 
 The service corridor was cool and dim, the hum of ventilation masking the faint thrum of activity somewhere above. Jessica followed the woman in the dark blazer through a series of turns, past stacks of shipping crates and coiled cables, until they reached a plain, unmarked door.
 
@@ -381,7 +372,6 @@ On the monitor, the seats were filling, the murmur of the crowd rising. Somewher
 ### Part 10: The Cue
 
 # An Ordinary July
-# Part 10: The Cue
 
 ## Half One – Jessica’s POV: “In the Wings”
 
@@ -428,7 +418,6 @@ He shifted his stance, letting his gaze sweep across the hall as he moved into t
 ### Part 11: The Reveal
 
 # An Ordinary July
-# Part 11: The Reveal
 
 The stage lights were hot, the glare almost blinding after the dimness of the wings. The air still vibrated with the aftershocks of William Keswick’s sudden appearance on the massive screen — the last scattered boos, the stubborn applause, the low murmur of disbelief. His image — crisp, live, and impossibly out of place at MagnaWorld Expo — loomed behind Stephen Marchand, who stood at center stage, the picture of composure.
 
@@ -451,7 +440,6 @@ Jessica kept her gaze steady, her expression calm, even as she felt the weight o
 ### Part 12: The Introduction
 
 # An Ordinary July
-# Part 12: The Introduction
 
 The applause — uneven, still tinged with the aftertaste of Keswick’s appearance — ebbed just enough for Stephen Marchand to speak again.
 
@@ -480,7 +468,6 @@ Jessica let the words wash over her, the lights hot on her face, the crowd a blu
 ### Part 13: The Crown Jewel
 
 # An Ordinary July
-# Part 13: The Crown Jewel
 
 The applause faded into a restless hush. Stephen Marchand let the pause stretch just long enough to draw every eye back to him.
 
@@ -515,7 +502,6 @@ The applause rose again, louder this time, though still tinged with disbelief. J
 ### Part 14: The Aftermath
 
 # An Ordinary July
-# Part 14: The Aftermath
 
 The applause was still echoing in her ears when the stage lights dimmed and the curtain closed behind her. The sudden drop in brightness felt almost physical, like stepping from noon into twilight.
 
@@ -536,7 +522,6 @@ And she hadn’t said a single word.
 ### Part 15: The Fallout
 
 # An Ordinary July
-# Part 15: The Fallout
 
 The moment she cleared the stage, the noise hit her from a different angle — not the roar of the crowd, but the sharper, more focused hum of the press.
 
@@ -581,7 +566,6 @@ She wasn’t sure which unsettled her more: that she’d just been part of tech 
 ### Part 16: The Debrief
 
 # An Ordinary July
-# Part 16: The Debrief
 
 The green room door clicked shut behind her, muting the press noise to a dull hum. Jessica let out a breath she hadn’t realized she’d been holding.
 
@@ -640,7 +624,6 @@ As the car pulled away from the convention center, she let her head rest against
 ### Part 1: Homecoming
 
 # Currents to Still Water
-# Part 1: Homecoming
 
 The late‑summer light was already slanting low when the car turned off the main road and onto the long gravel drive. Jessica leaned her head against the window, watching the familiar silhouette of the old building rise ahead — brick and stone, broad‑shouldered, with the kind of symmetry that spoke of its past life as something official. A school, once. Now, it was theirs.
 
@@ -663,7 +646,6 @@ Here, she wasn’t the lead developer who’d stood on stage beside Stephen Marc
 ### Part 2: Part 2: Unwelcome Currents
 
 # Currents to Still Water
-# Part 2: Part 2: Unwelcome Currents
 
 Jessica had slept late, the kind of deep, dreamless sleep that only comes after weeks of running on adrenaline. Even so, she woke with the Expo still clinging to her — the glare of stage lights, the hum of the crowd, the weight of being *seen*.
 
@@ -722,7 +704,6 @@ Back at the table, the *ProStan* still lay open, the Coffee Milk still cold, the
 ### Part 3: Part 3: Evening Edition
 
 # Currents to Still Water
-# Part 3: Part 3: Evening Edition
 
 By the time the sun had dropped low over the Sakonnet, the Taylors were gathered around the long dining table. The smell of baked haddock and roasted vegetables mingled with the faint salt drifting in through the open windows.
 
@@ -752,7 +733,6 @@ Jessica set the paper down, the clink of cutlery and low hum of conversation wra
 ### Part 4: Part 4: The \\#60 into Town
 
 # Currents to Still Water
-# Part 4: Part 4: The \\#60 into Town
 
 Morning broke clear and bright, the kind of late‑summer day that made the bay look like polished glass. Jessica had been home long enough now for the Expo’s noise to fade into the background, replaced by the steady rhythm of island life.
 
@@ -779,7 +759,6 @@ Today wasn’t about the Expo, or the headlines, or the knocks at the door. Toda
 ### Part 5: Part 5: The Creamery Along the Wall
 
 # Currents to Still Water
-# Part 5: Part 5: The Creamery Along the Wall
 
 The \#60 carried them south along West Main Road, the morning sun glinting off shop windows and the occasional passing car. Jessica sat in the securement spot beside Dorian, the rest of the family scattered in nearby seats, the low murmur of conversation blending with the steady hum of the engine.
 
@@ -814,7 +793,6 @@ As they settled in, Jessica caught her reflection in the window — her Expo pho
 ### Part 6: Part 6: Breakfast at the Creamery
 
 # Currents to Still Water
-# Part 6: Part 6: Breakfast at the Creamery
 
 The menus were the same laminated sheets Jessica remembered, the corners softened from years of use. The specials board still leaned slightly to one side, chalk letters announcing *Blueberry Pancakes — \$3.99* and *Johnnycakes with Maple Syrup*.
 
@@ -843,7 +821,6 @@ The table erupted in easy laughter, the kind that came from years of shared shor
 ### Part 7: The First Autograph
 
 # Currents to Still Water
-# Part 7: The First Autograph
 
 The shared laughter settled back into the comfortable hum of the Creamery. For a few more minutes, everything was as it should be: the scrape of forks on plates, the sweet aftertaste of Coffee Milk, the easy rhythm of family conversation. The bubble of normalcy felt solid, safe.
 
@@ -892,7 +869,6 @@ The word hung there, another reminder that the quiet, anonymous life she had kno
 ### Part 1: The Morning Commute
 
 # The Spark of Rebellion
-# Part 1: The Morning Commute
 
 The 174 rumbled north through the early Seattle light, its diesel engine humming under the low murmur from the back third of the bus. This was the “club”—a loose-knit knot of developers from across the city’s tech scene. There were Quantum engineers, Aurora coders, a couple of independents, and the occasional contractor between gigs. They’d claimed the same seats for years, coffee cups balanced on knees, messenger bags stuffed with laptops and printouts. The talk was always the same mix: war stories about impossible deadlines, tales of legendary bug hunts, and gossip about who was jumping to which startup.
 
@@ -905,7 +881,6 @@ The Aurora devs would watch her go, then climb the two stone steps into their bu
 ### Part 2: A Silent Protest
 
 # The Spark of Rebellion
-# Part 2: A Silent Protest
 
 The morning after the news broke inside Aurora, the 174’s brakes sighed as it eased to the curb. The driver reached over to the control panel, flipped the toggle, and the side lift folded out with a hydraulic groan, the steel grating meeting the sidewalk with a clunk. Jessica rolled forward and positioned herself on the platform. As the lift rose, two of the regulars—a Quantum engineer and an Aurora coder—were already on their feet. They flipped up the fold-down seats in the securement area, swung the belts into place, and clipped them to her chair. They’d done it a hundred times, an unspoken part of the route’s rhythm.
 
@@ -926,7 +901,6 @@ She thought of her daily transfer in front of the Colman-Harrington Building, of
 ### Part 3: The Confrontation at Aurora
 
 # The Spark of Rebellion
-# Part 3: The Confrontation at Aurora
 
 Inside the fourth-floor loft at Aurora Systems, the stairwell door banged open and Evan Rothwell strode in. He didn’t notice the shift in the room at first—the way conversations clipped short, the way eyes flicked up from monitors and then back down again.
 
@@ -947,7 +921,6 @@ The buttons stayed on. The eyes stayed down. And the quiet, stubborn wall betwee
 ### Part 1: Quantum\'s Alliance
 
 # The War Councils Assemble
-# Part 1: Quantum\'s Alliance
 
 The next day, on the \#253 eastbound bus across the SR 520 Bridge, the Quantum engineers who shared Jessica’s transfer leaned in. They’d heard every word of yesterday’s warning from the Aurora crew.
 
@@ -972,7 +945,6 @@ The War Council had been born—on a city bus, over a lake, and now in the heart
 ### Part 2: Aurora\'s Rebellion
 
 # The War Councils Assemble
-# Part 2: Aurora\'s Rebellion
 
 That same morning, the loft at Aurora Systems was unusually still. At the far end of the room, a cluster of devs leaned over a whiteboard that, officially, was for sprint planning. Unofficially, it was the Aurora War Council. A Not For Sale button was pinned to every chest.
 
@@ -987,7 +959,6 @@ They mapped out the chain of communication: an internal lookout would spot the o
 ### Part 1: The Leak
 
 # The Memo
-# Part 1: The Leak
 
 The next morning, a sharp gasp cut through the mid-morning lull in the Aurora loft. On a developer’s screen, the front page of *TechWire Daily* was displayed. The headline blazed: THE TAYLOR MEMO: CEO’S HANDWRITTEN PLAN TO POACH QUANTUM ENGINEER LEAKS. Below it were scans of Evan’s blue-ink scrawls, every damning word and underline visible.
 
@@ -1008,7 +979,6 @@ Jessica, leaning in the doorway, folded her arms. “So the offer’s dead?”
 ### Part 2: Damage Control
 
 # The Memo
-# Part 2: Damage Control
 
 Evan Rothwell strode into the fourth-floor loft, thinking the postal pickup had already happened. He dropped into his chair in the executive suite and woke his monitor to a flood of emails with subject lines like "Have you seen this?" and "Damage control?". He clicked the first link, and the *TechWire Daily* headline hit him like a gut punch.
 
@@ -1057,7 +1027,6 @@ Kelly looked up, her eyes glassy with unshed tears. The offer was a lifeline. Sh
 ### Part 1: The Intercepted Letter
 
 # The Exodus
-# Part 1: The Intercepted Letter
 
 That evening, the fourth-floor loft of the Colman-Harrington Building was unnervingly quiet. The only sounds were the hum of the servers and the distant moan of a siren in the streets of Pioneer Square. The energy of the day—the simmering tension, the silent rebellion—had dissipated, leaving a stale, heavy stillness in its wake.
 
@@ -1088,7 +1057,6 @@ He stood there for a long moment, breathing heavily. Then, with a cold resolve, 
 ### Part 2: The Last Stand
 
 # The Exodus
-# Part 2: The Last Stand
 
 The next morning, the stairwell door slammed open so hard it rattled the glass. Evan Rothwell stood at the top of the stairs, clutching the cream-colored envelope like a weapon.
 
@@ -1137,7 +1105,6 @@ A convoy of battered sedans and hatchbacks began to form, streaming onto SR 520,
 ### Part 1: A New Alliance
 
 # Sanctuary Across the Lake
-# Part 1: A New Alliance
 
 The Quantum lobby was a controlled storm of arriving developers. The War Council was waiting—Jessica at the center, flanked by Quantineers, independents, and even a few allies who’d flown in overnight from Cupertino and Texas. The “NOT FOR SALE” pins were everywhere.
 
@@ -1160,7 +1127,6 @@ He could hear the surprise and gratitude in her voice. "I'll be heading home lat
 ### Part 2: To Fork or Not to Fork?
 
 # Sanctuary Across the Lake
-# Part 2: To Fork or Not to Fork?
 
 The conference room was packed, the suitcase of source code sitting on the table. The room split into three camps to debate the future of AuroraOS.
 
@@ -1175,7 +1141,6 @@ Through it all, Jessica stayed quiet. When finally asked for her opinion, she sh
 ### Part 3: Solidarity in Action
 
 # Sanctuary Across the Lake
-# Part 3: Solidarity in Action
 
 As the technical debate ended for the day, a former Aurora team lead cleared his throat. “Look, I appreciate the good words... But some of us, we’ve got bills due now. We can’t wait weeks for interviews.”
 
@@ -1186,7 +1151,6 @@ The response was immediate. A MagnaByte engineer from Cupertino pulled out a che
 ### Part 1: The Empty Loft
 
 # The Fall of Aurora
-# Part 1: The Empty Loft
 
 The muffled roar of footsteps began as a faint vibration through the old hardwood floors of the fourth-floor executive suite. At first, no one paid it much mind. Then it grew louder, becoming a steady, synchronized thudding sound coming from the main stairwell.
 
@@ -1215,7 +1179,6 @@ Evan stalked back into his office, slamming the door so hard the glass rattled. 
 ### Part 2: The Board Meeting
 
 # The Fall of Aurora
-# Part 2: The Board Meeting
 
 That evening, the executive conference room was dim, the air thick with tension. The last of the leadership team—Marcy, Lydia, and Dana—sat on one side of the long table. At its head sat the board chair, Tom Berringer. The only other voice in the room came from a speakerphone, the clipped tones of Graham Cho, the lead venture capital partner. Evan Rothwell, who was not a voting member of the board, sat opposite them, his protests having no say in the board's operations.
 
@@ -1256,7 +1219,6 @@ One by one, the board members rose and filed out of the room, leaving Evan alone
 ### Part 3: Kelly is Not For Sale
 
 # The Fall of Aurora
-# Part 3: Kelly is Not For Sale
 
 The Saturday morning light felt different. Kelly sat in front of the family's computer, the dial-up modem blessedly silent after making its usual screeching handshake with the server. She was rereading the emails that had come in overnight, a cascade of support that felt like a dream.
 
@@ -1295,7 +1257,6 @@ Their father, David Madsen, who had overheard their conversation from the kitche
 ### Part 4: The Press Conference
 
 # The Fall of Aurora
-# Part 4: The Press Conference
 
 The Grand Hyatt ballroom felt cold and impersonal. Kelly Madsen found a seat in the back row, trying to make herself invisible. She didn't know why she had come, only that Evan Rothwell’s terse demand on her pager had triggered a conditioned, fearful obedience. She knew the developers had walked out, but what did that mean? Was this Evan's desperate, last-ditch effort to save the company?
 
@@ -1320,7 +1281,6 @@ She stood up, clutching her tote bag. Her movement was quiet, but in the caverno
 ### Part 5: Spilling the Beans
 
 # The Fall of Aurora
-# Part 5: Spilling the Beans
 
 Kelly pushed through the ballroom doors and into the bustling hotel lobby, her heart hammering with adrenaline. Ryan, who had been anxiously pacing near a potted plant, rushed to her side.
 
@@ -1349,7 +1309,6 @@ She logged off, the fear that had shadowed her for months finally gone, replaced
 ### Part 6: The Final Paycheck
 
 # The Fall of Aurora
-# Part 6: The Final Paycheck
 
 Later after arriving home, a courier envelope arrived at the Madsen's home, addressed to Kelly. She opened it with trembling hands, her brother Ryan watching from the doorway of their shared living room. Inside were two documents: a crisp, formal letter on Aurora Systems Board of Directors letterhead and a paper paycheck.
 
@@ -1372,7 +1331,6 @@ With that simple, heartfelt "yes," Ryan wasn't just agreeing to go to a meeting;
 ### Part 1: An Intern\'s Story
 
 # The Final Straw
-# Part 1: An Intern\'s Story
 
 Kelly Madsen stepped through the glass doors of Quantum's Building Four, clutching the strap of her messenger bag. The lobby was bright and alive with the buzz of quiet innovation, a world away from the tense, borrowed space of the Colman-Harrington Building. She signed in at the front desk, her hands trembling slightly.
 
@@ -1401,7 +1359,6 @@ The former Aurora developer at the table nodded grimly.
 ### Part 2: A Poisoned Well
 
 # The Final Straw
-# Part 2: A Poisoned Well
 
 The conference room door clicked shut behind Kelly, leaving the members of the War Council in a heavy, contemplative silence. Through the glass wall, they could see her at the reception desk, smiling faintly as she confirmed her visitor badge return. A senior engineer had already slipped her a list of peer mentors and internship contacts.
 
@@ -1430,7 +1387,6 @@ Kelly’s honesty had not only confirmed their fears; it had given them the mora
 ### Part 1: Writing the Next Chapter
 
 # A New Beginning
-# Part 1: Writing the Next Chapter
 
 In the open workspace they’d been given at Quantum, the ex-Aurora developers were busy. Laptops hummed as they polished résumés, drafted cover letters, and proofread each other’s work. Jessica stopped by each desk, offering a quick read-through or a suggestion. Kelly sat with two of the newer arrivals, helping them set up personal email accounts.
 
@@ -1443,7 +1399,6 @@ Aurora Systems was gone. AuroraOS was gone. But the people who built it were sti
 ### Part 2: Kelly and Ryan’s First Day
 
 # A New Beginning
-# Part 2: Kelly and Ryan’s First Day
 
 The automatic glass doors of Quantum's Building Four slid open with a soft hiss, and Kelly Madsen rolled her eyes at her twin brother, Ryan.
 
@@ -1486,7 +1441,6 @@ For the first time in months, Kelly felt like she was exactly where she was supp
 ### Part 3: Break Room
 
 # A New Beginning
-# Part 3: Break Room
 
 After getting Kelly and Ryan set up with their logins, Maria led them to the break room for coffee and the promised tour of the best snacks. The room was bright and buzzed with the low murmur of a few engineers grabbing drinks between code sprints. A former Aurora developer, the one who had welcomed Kelly earlier, was pulling a soda from the machine and smiled as they came in.
 
@@ -1515,7 +1469,6 @@ The developer grinned. "That's the spirit. Now, the chocolate chip cookies are i
 ### Part 4: Jessica\'s Office
 
 # A New Beginning
-# Part 4: Jessica\'s Office
 
 An hour later, after their official HR check-ins were complete and they knew the location of every snack jar, Kelly and Ryan returned to Jessica Taylor’s corner office. The afternoon sun streamed through the large windows, illuminating the complex diagrams on the massive whiteboard. Jessica swiveled her power wheelchair away from her monitors to face them, a small, encouraging smile on her face.
 
@@ -1534,7 +1487,6 @@ Ryan, who had been nervous all morning, was now leaning forward, completely abso
 ### Part 5: The Overwhelming Good
 
 # A New Beginning
-# Part 5: The Overwhelming Good
 
 The whiteboard was a dizzying, beautiful web of logic. Jessica’s explanation of the MagnaOS rendering pipeline was clearer and more insightful than any textbook Kelly had ever tried to read. For the first time, the abstract concepts of code felt tangible, like puzzle pieces clicking into place in her mind. It was everything she had wanted. It was perfect.
 
@@ -1557,7 +1509,6 @@ Here, she was welcome. All of her.
 ### Part 6: The First Line of Code
 
 # A New Beginning
-# Part 6: The First Line of Code
 
 The quiet in Jessica’s office was comforting. Kelly took a few deep, steadying breaths, the last tremors of her meltdown fading under the calm, accepting presence of her brother and her new mentor. She gave Ryan’s arm a gentle squeeze—a signal he understood as *I’m okay now*. He squeezed back before slowly releasing his hug.
 
@@ -1580,7 +1531,6 @@ With Ryan working quietly by her side and Jessica providing a steady, supportive
 ### Part 1: The Cupertino Trip
 
 # The Bridge to Cupertino
-# Part 1: The Cupertino Trip
 
 The air at Seattle-Tacoma International Airport hummed with the chaotic energy of a thousand intersecting journeys. For Kelly and Ryan Madsen, standing just inside the sliding glass doors of the departure level, it was overwhelming. The sheer scale of the place—the soaring ceilings, the echoing flight announcements, the river of people pulling suitcases—made the world feel suddenly, thrillingly larger. It was their first time in an airport, their first time on a plane.
 
@@ -1611,7 +1561,6 @@ Jessica watched them, a quiet sense of satisfaction settling over her. This was 
 ### Part 2: The Gate and the Extended Family
 
 # The Bridge to Cupertino
-# Part 2: The Gate and the Extended Family
 
 They found their gate with plenty of time to spare. The waiting area was a sea of gray upholstery and muted conversations. Jessica guided them to a spot near the window with a clear view of their plane being prepped on the tarmac. Kelly and Ryan took the seats on either side of her, their boarding passes clutched in their hands.
 
@@ -1640,7 +1589,6 @@ She gathered her bag. For her, it was a familiar call. But for Kelly and Ryan, w
 ### Part 3: On the Bridge to Cupertino
 
 # The Bridge to Cupertino
-# Part 3: On the Bridge to Cupertino
 
 The jet bridge was a tunnel into a new world. Jessica led the way, her practiced calm a steadying influence on the wide-eyed twins behind her. At the aircraft door, she expertly transferred from her power wheelchair to the narrow aisle chair with the help of the gate agent, a routine she had down to a science. Her own chair would be gate-checked and waiting for her when they landed.
 
@@ -1659,7 +1607,6 @@ For the next two hours, suspended between the gray skies of Seattle and the prom
 ### Part 4: The California Sun
 
 # The Bridge to Cupertino
-# Part 4: The California Sun
 
 The plane touched down at San Jose International Airport (SJC) with a gentle bump, rolling past palm trees that looked impossibly exotic to Kelly and Ryan. The California sun was a stark, brilliant contrast to the familiar gray skies of Seattle. As they deplaned, Jessica's power wheelchair was already waiting for her at the end of the jet bridge.
 
@@ -1682,7 +1629,6 @@ The van glided to a smooth stop in front of the main building of the MagnaByte c
 ### Part 5: Inside Infinite Loop
 
 # The Bridge to Cupertino
-# Part 5: Inside Infinite Loop
 
 Ryan spun in a slow circle on the manicured walkway, his head tilted back to take in the full sweep of the curved glass building. "We're here," he said, his voice a mix of reverence and disbelief. "We are actually standing on Infinite Loop."
 
@@ -1713,7 +1659,6 @@ He led them down a pristine white corridor, the air humming with the quiet power
 ### Part 6: The Dev Lab
 
 # The Bridge to Cupertino
-# Part 6: The Dev Lab
 
 The MagnaByte development lab was nothing like the open, airy loft at Aurora or the quiet, sunlit offices at Quantum. It was a space of controlled chaos, humming with the energy of creation. Workbenches were covered in circuit boards, prototype casings, and logic analyzers. The air smelled of solder and a faint, electric tang of ozone. For Kelly and Ryan, it felt like stepping into the engine room of the future.
 
@@ -1740,7 +1685,6 @@ David, the MagnaByte engineer, leaned back in his chair, smiling. "Looks good," 
 ### Part 7: A Day at Work
 
 # The Bridge to Cupertino
-# Part 7: A Day at Work
 
 ## Jessica: The Architect's Meeting
 
@@ -1797,7 +1741,6 @@ David looked at the elegant lines of code she had written. "That's a senior-leve
 ### Part 8: Lunch at Caffe Magna
 
 # The Bridge to Cupertino
-# Part 8: Lunch at Caffe Magna
 
 The MagnaByte cafeteria, affectionately known as Caffe Magna, was less like a corporate lunchroom and more like a high-end international food court. Stations for wood-fired pizza, fresh-made sushi, and authentic street tacos buzzed with activity. The cavernous, sunlit room was filled with the murmur of a dozen languages and the clatter of trays, all against a backdrop of ambient electronic music. For Kelly and Ryan, who were used to brown-bagging it at community college, it was a dazzling spectacle.
 
@@ -1818,7 +1761,6 @@ This was it. They were in the heart of Silicon Valley, eating a famous free corp
 ### Part 9: The Bug Bash
 
 # The Bridge to Cupertino
-# Part 9: The Bug Bash
 
 After lunch, David led them to a small, comfortable conference room with a large monitor at one end. A handful of MagnaByte's senior QA engineers were already there, laptops open.
 
@@ -1845,7 +1787,6 @@ As the session wrapped up, David walked over to Jessica, shaking his head in moc
 ### Part 10: The Kernel Panic Fix
 
 # The Bridge to Cupertino
-# Part 10: The Kernel Panic Fix
 
 The bug bash was officially over, but Ryan couldn't let it go. He kept staring at the notes he’d taken just before the system crashed, his brow furrowed in concentration.
 
@@ -1874,7 +1815,6 @@ She let that sink in. "Listen, I know they still have two years of community col
 ### Part 11: A Room with a View
 
 # The Bridge to Cupertino
-# Part 11: A Room with a View
 
 The hotel MagnaByte had booked for them was a sleek, modern tower of glass and steel in the heart of Silicon Valley. For Jessica, it was a familiar stop, a comfortable and convenient home base for her trips to Cupertino. For Kelly and Ryan, it was another breathtaking new experience. The most they had ever stayed in were budget roadside motels on family trips years ago; the hotel's soaring, art-filled lobby felt like a palace.
 
@@ -1899,7 +1839,6 @@ Jessica just smiled. "Good," she said. "You've earned it."
 ### Part 12: Finders Keepers
 
 # The Bridge to Cupertino
-# Part 12: Finders Keepers
 
 The city lights of Silicon Valley spread out like a glittering circuit board below their hotel room window. Ryan was already asleep, a day of excitement and intense focus having finally caught up with him. Kelly was reading a book on the other side of the bed, her eyelids heavy. The room was peaceful, wrapped in the quiet hum of the hotel.
 
@@ -1922,7 +1861,6 @@ Jessica smiled. She switched off her bedside lamp, and the room was cast into th
 ### Part 13: Morning in Cupertino
 
 # The Bridge to Cupertino
-# Part 13: Morning in Cupertino
 
 The California sun, already bright and warm, streamed into the hotel room. Ryan was the first one awake, a grin already on his face as he looked out the window at the sprawling, unfamiliar landscape of Silicon Valley. He gently shook his sister's shoulder.
 
@@ -1941,7 +1879,6 @@ They boarded the van, the twins buzzing with a quiet, happy energy. Their time i
 ### Part 14: A Picnic with Cousins
 
 # The Bridge to Cupertino
-# Part 14: A Picnic with Cousins
 
 Instead of a formal restaurant, the MagnaByte van dropped them off at a large, sun-drenched courtyard nestled in the center of the Infinite Loop campus. Long picnic tables were arranged on a vast lawn, and the air was filled with the smell of fresh coffee, bacon, and grilled pastries. Hundreds of MagnaByte employees were already there, chatting in groups and filling their plates from a lavish breakfast buffet. It was a company-wide, picnic-style breakfast, a regular tradition to mark the end of the quarter.
 
@@ -1964,7 +1901,6 @@ The breakfast wound down, and soon it was time to leave for the airport. They sa
 ### Part 15: Homeward Bound
 
 # The Bridge to Cupertino
-# Part 15: Homeward Bound
 
 The morning sun was higher in the sky when the accessible van returned to take them back to the airport. David and a few of the other MagnaByte engineers walked them out, the farewells feeling less like a corporate send-off and more like seeing family off after a holiday visit.
 
@@ -1987,7 +1923,6 @@ And she was right. They weren't just going back to Seattle. They were going back
 ### Part 16: The Flight Home
 
 # The Bridge to Cupertino
-# Part 16: The Flight Home
 
 The SJC departure gate was bright and airy, and this time, the twins navigated it with the quiet confidence of seasoned travelers. When the gate agent called for pre-boarding, they knew the drill. Kelly and Ryan simply fell into place on either side of Jessica, ready to board as her traveling companions.
 
@@ -2006,7 +1941,6 @@ Jessica made a quiet promise to herself. As soon as they were back in Redmond, s
 ### Part 1: The Offer
 
 # Bidding for the Twins
-# Part 1: The Offer
 
 The familiar, cool gray of a Seattle evening was a welcome sight as the plane descended toward Sea-Tac. The trip had been a whirlwind, and the twins were buzzing with a quiet, confident energy that hadn't been there two days before. They deplaned and made their way up the jet bridge, with Jessica leading the way in her power wheelchair.
 
@@ -2029,7 +1963,6 @@ The bustling noise of the airport seemed to fade away. Just a few days ago, Kell
 ### Part 2: The Bidding War
 
 # Bidding for the Twins
-# Part 2: The Bidding War
 
 The conference room at Quantum headquarters was all cool glass and polished steel, a world away from the comfortable chaos of Jessica’s office. Kelly and Ryan sat side-by-side at the long table, trying to look smaller than they felt. Across from them sat Jessica, her manager Mark Ellison, and the director of the entire Quantum Suite division, a woman named Sarah Chen.
 
@@ -2056,7 +1989,6 @@ The room was silent. Kelly looked at her brother, her heart pounding. Just days 
 ### Part 3: The Escalation
 
 # Bidding for the Twins
-# Part 3: The Escalation
 
 The air in the Quantum conference room grew thick with possibility. Sarah Chen, the division director, leaned forward, her expression firm. "We're not just offering you a job," she said, looking directly at the twins. "We're offering you a future. We will create two new roles specifically for you upon graduation: a System Integrity Analyst for Ryan and a Creative QA Specialist for Kelly. You'll both have a permanent seat on the Quantum Accessibility Board, and William Keswick would like to schedule a video call to personally welcome you."
 
@@ -2081,7 +2013,6 @@ The room was quiet again. Four incredible, distinct, and utterly overwhelming pa
 ### Part 4: The Decision
 
 # Bidding for the Twins
-# Part 4: The Decision
 
 Just as the weight of the four incredible offers settled over the conference room, a polite, firm knock echoed from the door. Sarah Chen, looking puzzled, rose and opened it. Her eyes widened in disbelief. "William?"
 
@@ -2108,7 +2039,6 @@ She then looked from her brother to Jessica, and then to the entire room, her de
 ### Part 5: The Dotted Line
 
 # Bidding for the Twins
-# Part 5: The Dotted Line
 
 The energy in the room shifted from tense negotiation to quiet, focused action. Within thirty minutes, Quantum's legal and HR departments had drawn up the formal employment agreements. As Kelly and Ryan signed their names on the crisp paper, the reality of it all began to sink in. This was their home now.
 
@@ -2125,7 +2055,6 @@ The news of their decision and the details of their incredible journey spread qu
 ### Part 6: The First Paycheck
 
 # Bidding for the Twins
-# Part 6: The First Paycheck
 
 It was a Friday, two weeks after they had signed their new agreements with Quantum. Kelly and Ryan were in the community college library's computer lab, a room filled with the quiet hum of beige computer towers. The connection here was blazing fast—a dedicated line that was a world away from the screeching dial-up modems most people, including them, used at home. They were about to check their bank accounts online for the first time since their new pay rate and signing bonuses were supposed to kick in.
 
@@ -2152,7 +2081,6 @@ They sat there for a long moment in the quiet of the library, staring at the scr
 ### Part 7: Acknowledging Talent
 
 # Bidding for the Twins
-# Part 7: Acknowledging Talent
 
 It was a Friday morning, payday at Quantum. In the third-floor break room, Jessica and a few other members of the War Council were grabbing coffee. The mood was relaxed, the tension of the previous weeks having settled into a comfortable rhythm of work.
 
@@ -2187,7 +2115,6 @@ Jessica read the email one more time, a quiet, satisfied smile on her face. At Q
 ### Part 8: A New Role
 
 # Bidding for the Twins
-# Part 8: A New Role
 
 The break room was filled with the low, happy buzz of a team that had just been seen and rewarded for doing the right thing. As Alex and the others were still marveling at the bonus, Jessica’s laptop chimed again. She glanced down, surprised to see a second email from William Keswick in her inbox. This one was addressed only to her, with a CC to her supervisor, Mark Ellison.
 
@@ -2221,7 +2148,6 @@ A round of heartfelt congratulations erupted from the group. This was Quantum at
 ### Part 1: Pizza Night
 
 # A New Family
-# Part 1: Pizza Night
 
 The invitation had been casual. After a particularly grueling week of debugging a legacy module, Jessica had turned to the twins as they were packing up on Friday afternoon. "You two have worked hard. My place, seven o'clock. Pizza's on me."
 
@@ -2246,7 +2172,6 @@ Later, as they all sat on the couch watching a movie, Ryan looked over at Jessic
 ### Part 2: The Apartment Hunt
 
 # A New Family
-# Part 2: The Apartment Hunt
 
 The following Saturday morning, a small convoy of cars, including an accessible van for Jessica, pulled up to the Madsen family home. It was an unusual apartment-hunting party: the twins, their parents, Jessica, and two other members of the Quantum War Council, including Alex.
 
@@ -2281,7 +2206,6 @@ The group continued their tour, their search now laser-focused on ground-floor o
 ### Part 3: The Capitol Hill Grand
 
 # A New Family
-# Part 3: The Capitol Hill Grand
 
 After looking at a few more perfectly nice but uninspiring ground-floor apartments, the group was starting to feel a little discouraged. As they drove down a quieter street on Capitol Hill, Alex pointed to a sleek, modern building that was clearly brand new, the windows still bearing small stickers from the manufacturer. A large "Now Leasing" banner hung from a balcony.
 
@@ -2314,7 +2238,6 @@ As the twins eagerly filled out the paperwork, the rest of the group looked on, 
 ### Part 4: Move-In Day
 
 # A New Family
-# Part 4: Move-In Day
 
 The day the city issued the Certificate of Occupancy, the moving day was set. It was less of a traditional move and more of a community barn-raising. The "moving crew" that assembled in the lobby of the Capitol Hill Grand was a testament to the family the twins had built: their parents, David and his wife, providing coffee and donuts; Jessica, acting as the calm logistics coordinator; a half-dozen Quantum developers; several former Aurora colleagues, including Alex; and, to the twins' astonishment, two MagnaByte engineers who had flown up from Cupertino just for the weekend to help.
 

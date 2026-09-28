@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Deep End – Mid-October 2044
 
 # Wyatt – Expendable Assets
-# Part 1: The Deep End – Mid-October 2044
 
 The heavy, pressurized hiss of the airlock cycling open was the best sound Wyatt Colton had heard in six months.
 
@@ -43,7 +42,6 @@ It was time to go wait for the FIPS transport. It was time to go to Earth.
 ### Part 2: Freight – Mid-October 2044
 
 # Wyatt – Expendable Assets
-# Part 2: Freight – Mid-October 2044
 
 The boarding process for the Frontier Interplanetary Personnel Services transport was a chaotic, shouted mess. By the time Wyatt navigated the narrow aisle and found an open spot, the interior already smelled like ozone, stale sweat, and cheap recycled air.
 
@@ -64,7 +62,6 @@ He didn't dream about the ocean he’d just left behind, and he didn't wonder ab
 ### Part 3: The Pipeline
 
 # Wyatt – Expendable Assets
-# Part 3: The Pipeline
 
 The FIPS hauler slammed into the docking cradle at the Las Vegas Interplanetary Spaceport with a bone-jarring thud that rattled the fillings in Wyatt’s teeth. The heavy pneumatic locks engaged, and the sub-light engines finally whined down into silence.
 
@@ -103,7 +100,6 @@ He let the roar of the atmospheric engines completely drown out the nervous chat
 ### Part 4: Intake
 
 # Wyatt – Expendable Assets
-# Part 4: Intake
 
 The Sierra Pacific shuttle hit the landing pad with a heavy, jarring thud that rattled the fillings in Wyatt’s teeth. The atmospheric engines whined down into a low, mechanical idle. A second later, the pneumatic locks disengaged, and the heavy metal ramp at the front of the cabin hissed open.
 
@@ -152,7 +148,6 @@ He put his head down and started walking.
 ### Part 5: The Filing Cabinet
 
 # Wyatt – Expendable Assets
-# Part 5: The Filing Cabinet
 
 The heavy metal turnstile clunked shut behind Wyatt, sealing him inside Apex Defense Solution's subterranean staging facility. He followed the scuffed yellow line painted on the concrete floor, walking down a long, windowless corridor illuminated by harsh, buzzing fluorescent tubes. The air here was heavy, smelling of stale sweat, cheap floor wax, and the metallic tang of industrial machinery vibrating through the floorboards.
 
@@ -195,7 +190,6 @@ Wyatt looked down into the metal box at the warm, rumpled mattress on the floor.
 ### Part 6: The Washroom
 
 # Wyatt – Expendable Assets
-# Part 6: The Washroom
 
 Wyatt left his canvas duffel bag on the floor next to Bunk 42-C. He grabbed his hygiene kit and his scratchy, company-issued towel, stepping back out into the narrow, 64-inch aisle of the barracks.
 
@@ -222,7 +216,6 @@ Ten minutes later, Wyatt was zipped into his stiff, abrasive black and hazard-ye
 ### Part 7: The Trough
 
 # Wyatt – Expendable Assets
-# Part 7: The Trough
 
 Wyatt zipped up the front of his stiff, abrasive black utility uniform, the heavy collar scratching against his neck. The nametape pinned over his right breast pocket read COLTON.
 
@@ -245,7 +238,6 @@ Finding no open seats, Wyatt leaned against a concrete support pillar near the e
 ### Part 8: The Checkpoint
 
 # Wyatt – Expendable Assets
-# Part 8: The Checkpoint
 
 Wyatt tossed his empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
 

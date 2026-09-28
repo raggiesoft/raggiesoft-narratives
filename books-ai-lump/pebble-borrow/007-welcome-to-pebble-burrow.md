@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Apocalyptic Reality
 
 # Returning to the Surface
-# Part 1: The Apocalyptic Reality
 
 The triplets exchanged a confused look. Drake stepped forward, gesturing to the silent walls. "Was it a drill? The noise that stopped?"
 
@@ -31,7 +30,6 @@ Drake’s jaw dropped. He looked slowly down at the floor, as if expecting the c
 ### Part 2: The Burden of Ownership
 
 # Returning to the Surface
-# Part 2: The Burden of Ownership
 
 Amanda let out a shaky breath, stepping back to lean against the kitchen counter. "So... what now? Do we pack up and leave? Hand it over to the government?"
 

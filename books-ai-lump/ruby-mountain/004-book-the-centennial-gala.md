@@ -11,8 +11,6 @@ series: "ruby-mountain"
 
 **Date:** 2003-10-15 ET
 
-# Part 1: The Dining Hall & The Iron Shield
-
 The Owner's Quarters dining facility was a massive, timber-framed room dominated by a long, scarred oak table that could easily seat all seventeen of them. The fires were roaring, and the chaotic energy of the lobby had been entirely sealed out.
 
 Johnny sat at the head of the table in his wheelchair, Amanda taking her usual spot directly to his left.
@@ -55,8 +53,6 @@ He took another sip of his milk. It tasted like victory.
 
 **Date:** 2003-10-15 ET
 
-# Part 2: The May Variable
-
 The crackle of the massive stone fireplaces filled the brief silence in the dining hall.
 
 Johnny took another bite of his chicken tenders. The immediate threat of the winter was handled. Victoria’s *ex parte* order and the colossal steel WSDOT barricades were an absolute, impenetrable shield. For the next six months, he was completely safe.
@@ -96,8 +92,6 @@ The variable was solved.
 ### Part 3: The Switchback & The Sanctuary
 
 **Date:** 2003-10-15 ET
-
-# Part 3: The Switchback & The Sanctuary
 
 The Cousin Council officially disbanded as the grandfather clock chimed four times. Diana had to get back to the commercial kitchens to oversee the Gala prep, and Morgan and Megan were paged by the resort staff to double-check the ballroom lighting grid.
 
@@ -142,8 +136,6 @@ He unclipped his Quantum laptop from his wheelchair mount and set it carefully o
 ### Part 4: The Revelation
 
 **Date:** 2003-10-15 ET
-
-# Part 4: The Revelation
 
 The transition into the evening had been slow, deliberate, and fiercely guarded. The core four had retreated to their corner suite, locking the heavy oak door against the frantic, echoing preparations of the Centennial Gala downstairs.
 
@@ -241,8 +233,6 @@ She typed RCW 9A.44.050 - Rape in the Second Degree (Incapable of Consent). It w
 
 **Date:** 2003-10-15 ET
 
-# Part 5: The Midnight War Room
-
 The third-floor executive office of The Prospector's Keep was a masterclass in isolated power. The walls were lined with original 1903 Douglas fir bookcases, but the desk was a massive slab of modern slate, dominated by a multi-monitor encrypted terminal and a heavy, secure fax machine tied to a dedicated satellite uplink.
 
 Outside the reinforced glass, the incoming storm had temporarily stalled. The sky over the Cascades was violently clear, an endless, freezing ocean of stars glittering above the jagged silhouette of Ruby Mountain.
@@ -308,8 +298,6 @@ She turned off the desk lamp, plunging the office into the soft, blue ambient li
 ### Part 1: The Waking Fortress
 
 **Date:** 2003-10-16 ET
-
-# Part 1: The Waking Fortress
 
 The morning light bleeding through the reinforced windows of the second-floor sanctuary was a blinding, crisp white.
 
@@ -379,8 +367,6 @@ He didn't use the text-to-speech engine. He just looked Victoria directly in the
 
 **Date:** 2003-10-16 ET
 
-# Part 2: The Underworld
-
 The Great Hall of The Prospector's Keep was a whirlwind of velvet, brass, and nervous energy, but the eye of the storm was dead center, where Victoria stood with Johnny.
 
 "The WSDOT gates close Saturday," Victoria repeated, her voice cutting cleanly through the background noise of the jazz orchestra. "And we have 400 people to feed, entertain, and subsequently evict before the snow buries the highway. Where do we start our inspections, Johnny?"
@@ -438,8 +424,6 @@ He looked at Morgan and hit a single button.
 ### Part 3: The Heat of the Kitchen
 
 **Date:** 2003-10-16 ET
-
-# Part 3: The Heat of the Kitchen
 
 The transition from the Underworld to the commercial kitchens was a shift from dry, thrumming industrial heat to a humid, chaotic inferno of culinary precision.
 
@@ -505,8 +489,6 @@ Amanda gripped the handles of Johnny's wheelchair and backed him away from the h
 
 **Date:** 2003-10-16 ET
 
-# Part 4: The Five-Mile Moat
-
 Amanda pushed Johnny out of the sweltering heat of the commercial kitchens and back into the cool, wood-paneled corridors of the main floor.
 
 *"The perimeter,"* Johnny typed, glancing at the reinforced windows.
@@ -558,8 +540,6 @@ Amanda pulled the wheelchair backward, away from the biting wind of the portico.
 ### Part 5: The 1903 Illusion
 
 **Date:** 2003-10-16 ET
-
-# Part 5: The 1903 Illusion
 
 Amanda pushed Johnny’s wheelchair through the grand mahogany double doors, transitioning from the wide corridors into the absolute crown jewel of The Prospector's Keep: The Grand Ballroom.
 
@@ -618,8 +598,6 @@ Tonight was going to be magnificent.
 ### Part 6: The Golden Hour
 
 **Date:** 2003-10-16 ET
-
-# Part 6: The Golden Hour
 
 By five o'clock in the evening, the flawless blue sky over the North Cascades had been completely swallowed by a bruised, heavy expanse of purple clouds. The temperature plummeted into the twenties, and the first distinct, swirling flurries of snow began to fall across the cobblestone portico of The Prospector's Keep.
 
@@ -695,8 +673,6 @@ Victoria Vance stepped forward into the cold air, completely unfazed by the snow
 
 **Date:** 2003-10-16 ET
 
-# Part 1: The Grand Seating
-
 By seven-thirty, the sprawling Great Hall was loud with the hum of four hundred millionaires, state senators, and historical society elites. The cocktail hour had done its job; the shock of the freezing ascent had worn off, replaced by the intoxicating warmth of vintage champagne and the roaring hearths.
 
 Outside, the North Cascades blizzard had arrived early. The wind howled violently against the thick, reinforced glass of the Ballroom windows, a swirling abyss of white and black. But inside, it was 1903.
@@ -748,8 +724,6 @@ Johnny let out a quiet, raspy exhale of amusement, his stiff fingers resting lig
 ### Part 2: The Architecture of Influence
 
 **Date:** 2003-10-16 ET
-
-# Part 2: The Architecture of Influence
 
 The second course—a delicate, savory tartlet of local Dungeness crab topped with a thin glaze of tarragon butter—had just been cleared by the silent army of waitstaff. The jazz orchestra had shifted down into a low, rhythmic foxtrot, providing a smooth acoustic cover for the hundreds of private conversations happening across the ballroom.
 
@@ -809,8 +783,6 @@ Down on the floor, the waitstaff emerged from the kitchen doors again in a flawl
 
 **Date:** 2003-10-16 ET
 
-# Part 3: The 1.3 Billion Dollar Ghost
-
 The main course—a masterfully plated roasted duck breast with a dark cherry reduction—was presented with absolute precision. The heat of the ballroom, combined with the heavy, rich food and the flowing champagne, was lulling the guests into a deep, comfortable complacency.
 
 The local county commissioners had been placated with infrastructure grants, but Victoria knew the real threat was never local. The real threat came from the capital.
@@ -868,8 +840,6 @@ Victoria saw the message flash on her embedded monitor. She picked up her crysta
 ### Part 4: The Palate Cleanser
 
 **Date:** 2003-10-16 ET
-
-# Part 4: The Palate Cleanser
 
 With Representative Thorne thoroughly neutralized and safely retreating to his table, the invisible, electric tension at the Head Table finally dissolved. Victoria had successfully defended the borders of her empire without leaving her chair. The political warfare was over. Now, it was time to eat.
 
@@ -945,8 +915,6 @@ She turned to Johnny, the celebratory smile fading into a look of absolute, focu
 
 **Date:** 2003-10-16 ET
 
-# Part 5: The Sanctuary
-
 The evacuation of the Grand Ballroom was a slow, elegant retreat. As the final notes of the jazz orchestra faded, the four hundred guests began their migration toward the lavishly appointed guest wings of the Keep. Victoria stood by the heavy mahogany doors, offering polite, ironclad farewells, ensuring every politician and VIP was safely cordoned off into their designated sectors of the fortress.
 
 By twelve-thirty, the Great Hall was completely empty, save for the silent, efficient waitstaff clearing the tables.
@@ -1014,8 +982,6 @@ He didn't need to type anything. He just nodded, letting out a long, shuddering 
 ### Part 1: The Cascades Concrete
 
 **Date:** 2003-10-17 ET
-
-# Part 1: The Cascades Concrete
 
 The morning of October 17th did not break; it simply bled from black into a blinding, violent white.
 
@@ -1095,8 +1061,6 @@ His fingers flew across his keyboard, sending a direct ping to Emma’s pager as
 
 **Date:** 2003-10-17 ET
 
-# Part 2: The Brutal Awakening
-
 On the third floor, Sarah and Ashleigh stepped out of the service elevator. They had traded their velvet gala gowns for heavy Iron-Weave Apparel canvas pants, wool sweaters, and steel-toed boots. They each held a master keycard and a clipboard.
 
 A young housekeeper was standing in the hallway, clutching a stack of fresh towels, looking absolutely terrified by the emergency bells.
@@ -1162,8 +1126,6 @@ The first convoy of chained vans lurched forward, following the rotary plows dir
 ### Part 3: The Heavy Escort
 
 **Date:** 2003-10-17 ET
-
-# Part 3: The Heavy Escort
 
 By 10:15 AM, the evacuation was running with ruthless, mechanized efficiency.
 
@@ -1250,8 +1212,6 @@ They had exactly one hour and twenty minutes to get the rest of the 400 guests d
 ### Part 4: The Handoff
 
 **Date:** 2003-10-17 ET
-
-# Part 4: The Handoff
 
 At 12:20 PM, Maya’s massive orange rotary plow broke through the final snowdrift at the base of Prospector Road, its spinning steel augers chewing through the ice and spitting it into the tree line.
 
@@ -1344,8 +1304,6 @@ The mountain was theirs.
 ### Part 5: The Steel Drops
 
 **Date:** 2003-10-17 ET
-
-# Part 5: The Steel Drops
 
 The drive back up Prospector Road was the most dangerous five miles of Emma Bennett’s life.
 

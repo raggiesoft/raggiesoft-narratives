@@ -9,8 +9,6 @@ series: "ruby-mountain"
 
 ### Part 1: The Handover
 
-# Part 1: The Handover
-
 The heavy, armored transport van idled in the parking lot of the Anacortes commercial medical park, its massive diesel engine a low, rhythmic rumble against the quiet Sunday afternoon.
 
 Outside the tinted windows, the coast was washed in the gray, diffuse light of the Pacific Northwest. The air at sea level was dense, heavy with salt and moisture—a stark, almost suffocating contrast to the thin, razor-sharp atmosphere of Ruby Mountain.
@@ -62,8 +60,6 @@ Vanessa guided him past the reception desk and the dormant Quantum OS computer, 
 Johnny adjusted his grip on the pen, staring down at the dense, bureaucratic text of the DSHS letterhead, and began to write. Outside, the heavy diesel engine of the transport van finally shifted into gear, the sound slowly fading away as his family left him in the quiet, capable hands of the state.
 
 ### Part 2: The Baseline
-
-# Part 2: The Baseline
 
 Johnny signed his name with slow, deliberate precision at the bottom of the fourth DSHS liability waiver. His muscles were already beginning to ache. He clicked the blue ballpoint pen closed and pushed the heavy clipboard across the laminate counter.
 
@@ -118,8 +114,6 @@ Vanessa smiled—a slow, possessive curve of her lips. She moved her hands away 
 \[note to the AI: we’re skipping over a sexual assault, RCW 9A.44.050\]
 
 ### Part 3: The System Error
-
-# Part 3: The System Error
 
 The heavy nylon straps were gone, but the crushing weight on Johnny’s chest remained.
 
@@ -179,8 +173,6 @@ He was officially off the grid. The ferry would arrive in Friday Harbor at 5:50 
 
 ### Part 4: The Island Anomaly
 
-# Part 4: The Island Anomaly
-
 The heavy, metallic groan of the Evergreen ferry docking at Friday Harbor reverberated through the passenger deck, signaling the end of the crossing.
 
 When the pedestrian doors finally opened, the air that hit Johnny’s face was even thicker than it had been in Anacortes. The marine layer had settled low over the San Juan Islands as evening approached. Every breath required a conscious, deliberate flex of his intercostal muscles. His blood oxygen levels were steadily dropping, the sea-level atmosphere acting as a slow, invisible poison.
@@ -225,8 +217,6 @@ Johnny stared at the dim lamp over her shoulder, his analytical mind quietly shu
 
 ### Part 5: The Domestic Delusion
 
-# Part 5: The Domestic Delusion
-
 The jarring transition from the bedroom back to the cramped kitchenette left Johnny’s analytical mind spinning in a silent, desperate void.
 
 To an outside observer, the scene might have looked entirely mundane. Vanessa had wheeled him up to the small laminate dining table. She was standing at the stove, stirring a pot of canned tomato soup, the cheap fluorescent overhead light buzzing softly.
@@ -270,8 +260,6 @@ Johnny squeezed his eyes shut, his lungs burning as the rigid, mathematical boun
 \[SCENE CUTS TO BLACK - skipping over a sexual assault, RCW 9A.44.050\]
 
 ### Part 6: The Autonomous Transfer
-
-# Part 6: The Autonomous Transfer
 
 The digital clock on the nightstand glowed a harsh, unforgiving red in the dark. *3:04 AM.*
 

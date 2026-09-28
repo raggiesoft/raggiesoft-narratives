@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Judge's Order
 
 # A New Name, A New Beginning
-# Part 1: The Judge's Order
 
 On Friday, September 17th, 2004, the air in the Virginia Beach Circuit Court was cool and sterile, a stark contrast to the warm, joyful anticipation that had filled the house on Daniel Maloney Drive for weeks. Olivia **Marie** Walker sat on a polished wooden bench, her hands clasped tightly in her lap. Beside her, Stella Porter was a quiet, solid presence, her shoulder occasionally brushing against Olivia’s in a silent gesture of support.
 
@@ -39,7 +38,6 @@ It was done. With the stroke of a pen and the thud of a stamp, she was legally b
 ### Part 2: The Longest Morning
 
 # A New Name, A New Beginning
-# Part 2: The Longest Morning
 
 While Stella and Olivia were at the Municipal Center, the house on Daniel Maloney Drive was a bubble of carefully managed calm. Arthur and Eleanor had arrived early, their presence a steadying force. They knew this morning would be a significant challenge for Leo. Since Olivia had flown home with him from Seattle nearly ten months ago, he had not voluntarily spent a single moment apart from her. This separation, though temporary and for a joyful purpose, was a monumental test of the progress he had made.
 
@@ -58,7 +56,6 @@ Leo threw himself into the task, his anxious energy now channeled into finding t
 ### Part 3: The New Ms. Walker Porter
 
 # A New Name, A New Beginning
-# Part 3: The New Ms. Walker Porter
 
 The sound of the Holt Sentinel pulling into the driveway was the signal Leo had been desperately waiting for. The front door opened a moment later, and Stella walked in, followed by the newly minted Olivia Walker Porter.
 
@@ -79,7 +76,6 @@ The seating arrangement was an unspoken act of support for Leo. He was still rec
 ### Part 4: A Toast at The Tidewater Grill
 
 # A New Name, A New Beginning
-# Part 4: A Toast at The Tidewater Grill
 
 The restaurant Arthur had chosen, The Tidewater Grill, was a perfect choice. It was a bright, airy space with large windows that overlooked a small, manicured garden, the decor a tasteful blend of classic and coastal. The staff was welcoming, and they were quickly shown to a large, round table with plenty of room to comfortably position Leo's wheelchair right next to Olivia.
 
@@ -98,7 +94,6 @@ Leo was relaxed and happy, his earlier separation anxiety now a distant memory. 
 ### Part 5: The Secret Melody
 
 # A New Name, A New Beginning
-# Part 5: The Secret Melody
 
 The warm, satisfied glow from their celebratory lunch settled over the house as they returned to Daniel Maloney Drive. The afternoon sun streamed through the living room windows, creating a peaceful, lazy atmosphere. But for Luna, the quiet was a call to action.
 
@@ -125,7 +120,6 @@ It was a simple, quiet afternoon. But in the gentle cadence of their new, shared
 ### Part 6: An Impossible Thought
 
 # A New Name, A New Beginning
-# Part 6: An Impossible Thought
 
 Later that evening, long after the last French phrase had been spoken and the secret melody from Luna’s room had finally gone silent, Olivia lay in bed, a soft, contented smile on her face. The day had been a perfect whirlwind of legal finality and quiet, joyful preparation. As she listened to the steady, peaceful breathing of Leo beside her, her mind drifted back to their lesson.
 
@@ -140,7 +134,6 @@ A quiet, almost absurdly funny thought popped into her head, and she had to supp
 ### Part 1: A Test and a Toast
 
 # The Eighteenth of September
-# Part 1: A Test and a Toast
 
 The morning of Saturday, September 18th, 2004, dawned bright and clear, a perfect, crisp late-summer day. The house on Daniel Maloney Drive was filled with a unique, humming energy—a quiet, joyful thrum of anticipation. Today was the day. Today was Olivia's nineteenth birthday, and the day she and Leo would declare their lifelong commitment to each other in front of everyone they loved.
 
@@ -175,7 +168,6 @@ Olivia closed her eyes, made a silent wish, and blew out the candle. It was a si
 ### Part 2: The Separation
 
 # The Eighteenth of September
-# Part 2: The Separation
 
 After their celebratory breakfast, a new, more focused energy took hold of the house. It was time to get ready. The plan was for the day to unfold like a traditional wedding, which meant adhering to one specific, challenging tradition: the bride and groom were not to see each other until the ceremony.
 
@@ -204,7 +196,6 @@ Leo took a deep, shuddering breath, focusing on his sisters' faces, on their unw
 ### Part 3: The Two Rooms
 
 # The Eighteenth of September
-# Part 3: The Two Rooms
 
 The country club was a picture of understated elegance. A long, tree-lined driveway opened up to a stately brick building, its entrance adorned with tasteful floral arrangements in the deep blue and cream colors Leo and Olivia had chosen. The staff was professional and discreet, guiding the two cars to a private entrance at the side of the building that led directly to the ballroom and the adjacent preparation suites.
 
@@ -225,7 +216,6 @@ His family worked with practiced, loving efficiency. Arthur helped him with his 
 ### Part 4: The Procession
 
 # The Eighteenth of September
-# Part 4: The Procession
 
 The moment had arrived. The soft, ambient music playing in the elegantly decorated ballroom quieted, and a hush fell over the small gathering of close family and friends. At the back of the room, the large double doors stood closed, a final, symbolic barrier.
 
@@ -246,7 +236,6 @@ All of Leo's anxiety, all of his fear, evaporated in an instant, replaced by a s
 ### Part 5: A Declaration of Commitment
 
 # The Eighteenth of September
-# Part 5: A Declaration of Commitment
 
 At the front of the beautifully decorated ceremony space, **Arthur Bennett** stood, his expression one of profound, grandfatherly love. As Olivia and her father reached him, Daniel Walker placed his daughter's hand in Arthur's, a symbolic transfer of trust, before taking his seat. Arthur then gently guided Olivia to stand opposite Leo.
 
@@ -283,7 +272,6 @@ Leo looked up at his beautiful *ma blonde*. Olivia leaned down, and they met in 
 ### Part 6: The First Dance
 
 # The Eighteenth of September
-# Part 6: The First Dance
 
 As the applause from the ceremony subsided, the atmosphere in the ballroom shifted from heartfelt solemnity to joyful celebration. Guests began to mingle, and the catering staff emerged with trays of hors d'oeuvres. A short while later, Arthur Bennett’s warm, commanding voice called for everyone's attention once more.
 
@@ -310,7 +298,6 @@ They continued their dance, lost in the beauty of the melody Luna had created ju
 ### Part 7: A Montage of Dances
 
 # The Eighteenth of September
-# Part 7: A Montage of Dances
 
 As the final, beautiful note of Luna's flute solo faded, the room erupted in heartfelt applause. The first dance was over, but the celebration of family was just beginning. The DJ, who had been given a carefully curated list, transitioned seamlessly into the next song, initiating a montage of special dances that left few dry eyes in the room.
 
@@ -329,7 +316,6 @@ Finally, as the night began to wind down, the DJ played the last slow song. Leo 
 ### Part 8: The Toasts
 
 # The Eighteenth of September
-# Part 8: The Toasts
 
 As the final dance ended and guests returned to their seats, a new kind of joyful anticipation filled the ballroom. It was time for the toasts. Stella, in her role as Best Woman and head of the family, was the first to step up to the microphone, a glass of sparkling cider in her hand.
 
@@ -350,7 +336,6 @@ The room was filled with love and happy tears. Then, all eyes turned to Leo. He 
 ### Part 9: The Feast
 
 # The Eighteenth of September
-# Part 9: The Feast
 
 Following the emotional montage of dances, the doors to an adjacent dining area were opened, revealing a magnificent feast. The reception, like the ceremony, was a "dry" event, a deliberate choice rooted in the family's history, ensuring the celebration was one of pure clarity and presence. Instead of champagne and wine, the bar was a vibrant and creative **mocktail station**. Elegant glass dispensers were filled with iced tea and lemonade, but the real stars were the custom non-alcoholic creations, including a slushy machine churning a sweet, creamy, **non-alcoholic piña colada** that Leo was most excited about.
 
@@ -371,7 +356,6 @@ He looked up at Olivia, a look of such profound happiness on his face that it ne
 ### Part 10: The Cake
 
 # The Eighteenth of September
-# Part 10: The Cake
 
 After the last heartfelt toast had been given and the applause had faded, it was time for another classic and eagerly anticipated moment: the cutting of the cake. A member of the country club staff wheeled a small, linen-draped table to the center of the dance floor. Upon it sat a magnificent, three-tiered masterpiece that served a dual purpose.
 
@@ -394,7 +378,6 @@ Then, she got a second, slightly larger piece on the fork. "Your turn," she said
 ### Part 11: The Send-Off
 
 # The Eighteenth of September
-# Part 11: The Send-Off
 
 As the last song of the final dance faded away, a happy, contented quiet settled over the remaining guests. The reception was drawing to its natural, peaceful close. It was time for the final event of the evening: the send-off.
 
@@ -413,7 +396,6 @@ As they got into the car, Leo and Olivia turned for one last wave. They saw thei
 ### Part 12: Decompression
 
 # The Eighteenth of September
-# Part 12: Decompression
 
 The Holt Sentinel pulled into the driveway of 1091 Daniel Maloney Drive, the quiet hum of its engine the only sound in the peaceful, late evening. The magical send-off at the country club had been the perfect, gentle end to a long and emotionally overwhelming day. Inside the car, a profound, bone-deep exhaustion had settled over them all.
 

@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: The Blueprint of Home
 
 # A Vision Takes Shape
-# Part 1: The Blueprint of Home
 
 The aftermath of their winter trip to Quebec lingered in their Lynnwood apartment, not in the form of a humiliating Canadian hockey jersey (which had been ceremoniously folded and stored away), but in a renewed sense of purpose.
 
@@ -49,7 +48,6 @@ The Lynnwood Discovery and Care Center now had a clear, focused mission. It woul
 ### Part 2: A Border of Our Own
 
 # A Vision Takes Shape
-# Part 2: A Border of Our Own
 
 The decision to focus on the Pacific Northwest brought a new clarity to their brainstorming session. Chloé sat back down at the table, a thoughtful expression on her face as she looked at the newly circled "Pacific Northwest" section of their blueprint.
 
@@ -82,7 +80,6 @@ The Lynnwood Discovery and Care Center now had its unique identity. It wouldn't 
 **Date:** 2026-07-13
 
 # The Northern Annex
-# Part 1: The Peace Arch Crossing
 
 The early Saturday morning air was cool and misty as the three of them loaded their weekend bags into their Holt Wayfarer. This trip felt different. Their last journey to Canada had been a high-stakes, emotional family affair. This trip was just for them. It was a weekend getaway, but it was also their first official research mission for the Lynnwood Discovery and Care Center.
 
@@ -109,7 +106,6 @@ After clearing customs, they drove the short distance to the park-and-ride, left
 **Date:** 2026-07-13
 
 # The Northern Annex
-# Part 2: The Peak of the City
 
 Sunday morning began with a smooth, practiced efficiency. The three of them checked out of their Surrey hotel, loaded their weekend bags into the van, and drove the short distance back to the Scott Road SkyLink Station. After parking their car for the day, they were back on the MVTA system, ready for a day focused on the mountains that form a majestic backdrop to the city.
 

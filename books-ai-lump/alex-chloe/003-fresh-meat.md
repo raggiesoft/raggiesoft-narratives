@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: The Unofficial Orientation
 
 # Welcome to High School
-# Part 1: The Unofficial Orientation
 
 The first morning of freshman year at Northwood High was a blur of too-large backpacks, bewildered expressions, and the echoing thunder of hundreds of sneakers on polished linoleum. Alex Miller, navigating his wheelchair through the throng, and Chloé Mason, sticking close by his side, were trying to get their bearings when a familiar, cheerful voice cut through the chaos.
 
@@ -63,7 +62,6 @@ With a final, cheerful wave, she disappeared into the river of students. Alex an
 ### Part 2: Bonjour, Madame Beaumont
 
 # Welcome to High School
-# Part 2: Bonjour, Madame Beaumont
 
 The classroom for French I buzzed with the nervous, chaotic energy of the first day of school. The room was bright, the walls covered in colorful posters of Paris. Alex Miller and Chloé Mason found two desks together near the front, a familiar, comfortable unit in a sea of new faces.
 
@@ -142,7 +140,6 @@ Together, they made their way out of the classroom, a self-contained unit of two
 ### Part 3: The Infamous Game and Instant Justice
 
 # Welcome to High School
-# Part 3: The Infamous Game and Instant Justice
 
 The morning classes of their first day at Northwood High passed in a blur of new teachers, syllabi, and the daunting task of navigating crowded hallways. For Alex Miller and Chloé Mason, the 5th period lunch bell was a welcome reprieve. They found themselves in the vast, echoing cafeteria, a chaotic sea of anxious freshmen and more seasoned upperclassmen.
 
@@ -191,7 +188,6 @@ Megan just grinned, taking a calm bite of her sandwich. "See?" she said. "Northw
 ### Part 4: An Aromatic Apprenticeship
 
 # Welcome to High School
-# Part 4: An Aromatic Apprenticeship
 
 The 2:00 PM dismissal bell at Northwood High on that first Tuesday of freshman year unleashed a torrent of students into the hallways, a chaotic exodus of released energy and end-of-day chatter. For Alex Miller and Chloé Mason, and for Luna and Leo Porter, their first day was drawing to a close with a sense of weary triumph and the lingering awe from the lunchtime spectacle of Josh Riley’s public sentencing by Mrs. DeMarco.
 
@@ -232,7 +228,6 @@ As Josh trudged away from the school, the phantom smell of stale mystery meat an
 ### Part 5: The Lingering Aroma of Justice
 
 # Welcome to High School
-# Part 5: The Lingering Aroma of Justice
 
 The second day of freshman year at Northwood High dawned with slightly less chaos than the first, though the hallways still buzzed with the energy of newly minted high schoolers. For Alex Miller and Chloé Mason, and for Luna and Leo Porter, the "unofficial orientation" from the upperclassmen and the very public takedown of Josh Riley by Mrs. DeMarco in the cafeteria for his "Penis Game" stunt were fresh, vivid memories. The legend of cafeteria justice was already proving potent.
 
@@ -259,7 +254,6 @@ The legend continued to grow, now with its own signature scent.
 ### Part 6: The Delinquent, The Dumpsters, and The Deep Fryer\'s Due
 
 # Welcome to High School
-# Part 6: The Delinquent, The Dumpsters, and The Deep Fryer\'s Due
 
 The memory of the previous afternoon's olfactory assault – a potent souvenir from his first official "date" with the Northwood High dumpsters – clung to Josh Riley like a second, unwelcome skin, impervious to the vigorous scrubbing he’d subjected himself to. As the dismissal bell for Wednesday, their second day of freshman year, echoed through the halls, a stubborn, arrogant thought took root in Josh’s mind: *I am too good for this. I am not spending another afternoon smelling like a skunk’s gym sock that’s been marinated in regret.*
 
@@ -354,7 +348,6 @@ The unlikely duo of the messy senior girl and the reluctant freshman goon parted
 ### Part 7: A Humble Request and a Changing Tide
 
 # Welcome to High School
-# Part 7: A Humble Request and a Changing Tide
 
 The acrid memory of grease traps and the lingering phantom smell of Dumpster Number Three were still fresh in Josh Riley's tormented senses. He was, for the moment, actually attempting to complete his ten-page essay on "The Inevitability of Consequences" in the school library, a picture of sullen martyrdom. His usual goon, Mark, was wisely giving him a wide berth.
 
@@ -409,7 +402,6 @@ As they left her office, stepping back into the lunchtime roar, both Morgan and 
 ### Part 8: A Different Kind of \
 
 # Welcome to High School
-# Part 8: A Different Kind of \
 
 The first week of freshman year at Northwood High had been a whirlwind for Alex Miller and Chloé Mason. By Saturday morning of that first weekend after school started, it was undeniable to all four parents – James and Emily Miller, and Thomas and Sophie Mason – that Alex and Chloé’s nightly platonic bed-sharing, born from Alex’s nightmare on Labor Day weekend, was becoming their new, comforting norm. The constant companionship clearly brought both fourteen-year-olds immense security as they navigated the overwhelming new world of high school.
 
@@ -458,7 +450,6 @@ The four parents smiled. They knew their children. They knew that Alex and Chlo�
 ### Part 9: A Quiet Understanding – Their Own Conversation
 
 # Welcome to High School
-# Part 9: A Quiet Understanding – Their Own Conversation
 
 The "family meeting" earlier that Saturday afternoon, where James and Emily Miller and Thomas and Sophie Mason had spoken so openly and lovingly with Alex and Chloé about relationships, consent, and their unique closeness, had left a thoughtful quietude in its wake. The parents' words, emphasizing trust and informed choices – understanding if they might want to experiment or if they chose to abstain, as long as informed consent came from both of them, knowing they would have plenty of opportunities alone – had been incredibly validating. They hadn't been lectured or forbidden; they had been respected as the maturing fourteen-year-olds they were.
 
@@ -499,7 +490,6 @@ Later that night, as they settled into Alex’s full-sized bed – Chloé perhap
 ### Part 10: An Interrupted Lesson and an Inevitable Summons
 
 # Welcome to High School
-# Part 10: An Interrupted Lesson and an Inevitable Summons
 
 The hushed, studious atmosphere of the Northwood High library was a welcome change from the usual lunchtime cacophony. At a table tucked away in a quieter section near the history stacks, Morgan McAllister was patiently explaining a particularly tricky algebra concept to Ben Carter. Her own grades, particularly in subjects she enjoyed, were surprisingly good; her primary academic failing had always been a spectacular inability to remember to clean up the resultant mess of study snacks and scattered papers in Mrs. DeMarco's cafeteria. Ben, on the other hand, was genuinely struggling. The weeks spent under Josh Riley’s toxic influence at the start of freshman year had done his concentration and homework completion no favors, and he was now diligently trying to catch up, with Morgan, his neighbor, offering to tutor him.
 
@@ -564,7 +554,6 @@ Morgan McAllister and Ben Carter watched Josh shuffle away, defeated and mutteri
 ### Part 11: Cafeteria Justice, Multilingual Edition **
 
 # Welcome to High School
-# Part 11: Cafeteria Justice, Multilingual Edition **
 
 The Northwood High cafeteria during 5th period lunch was a symphony of controlled chaos. Trays clattered, sneakers squeaked on linoleum, and hundreds of teenage conversations blended into a dull roar that pulsed beneath the flickering fluorescent lights.
 
@@ -681,12 +670,10 @@ Across the room, Luna Porter let out a slow breath she hadn't realized she was h
 ### Part 12: Chapter 2: A First Winter
 
 # Welcome to High School
-# Part 12: Chapter 2: A First Winter
 
 ### Part 13: A Canadian Word
 
 # Welcome to High School
-# Part 13: A Canadian Word
 
 The first real cold snap of their freshman year arrived in late November, a crisp, brilliant weekend where the Virginia sky was a deep, cloudless blue but the wind had a sharp, biting edge. For Chloé, who was used to the profound, bone-deep cold of the Eastern Townships, it was invigorating. For Alex, it was just cold.
 
@@ -711,7 +698,6 @@ A moment later, with Alex properly bundled in his own winter hat, they went out 
 ### Part 14: A New Tradition
 
 # Welcome to High School
-# Part 14: A New Tradition
 
 The weeks leading up to Christmas 1999 were a time of new and wonderful traditions for the two families on Lisa Court. For the Masons, it was their first "American Christmas," a season filled with the familiar sights and sounds of the holiday, but with a new, warmer, and distinctly Virginian flavor.
 
@@ -748,7 +734,6 @@ She then did what felt most natural. She leaned in and gave him a warm, familiar
 ### Part 15: Christmas Eve on Lisa Court
 
 # Welcome to High School
-# Part 15: Christmas Eve on Lisa Court
 
 Christmas Eve at the Miller house was a study in cozy, classic American traditions. The air was filled with the rich aroma of a honey-glazed ham slow-roasting in the oven and the sweet scent of the Fraser fir tree that now dominated the living room.
 
@@ -775,7 +760,6 @@ With a final round of "Merry Christmas" and "Joyeux Noël," the Masons and Megan
 ### Part 16: A Quiet Ritual
 
 # Welcome to High School
-# Part 16: A Quiet Ritual
 
 After the parents had all gone to bed, a profound and magical quiet settled over the Miller house. The only light came from the multi-colored glow of the Christmas tree, casting long, dancing shadows across the living room. Alex and Chloé were in his room, talking in the low, comfortable whispers of two best friends who are supposed to be asleep.
 
@@ -820,7 +804,6 @@ With their important work done, they quietly made their way back to Alex's room.
 ### Part 17: A Christmas of Firsts
 
 # Welcome to High School
-# Part 17: A Christmas of Firsts
 
 Chloé woke slowly, a sense of profound peace washing over her before she even opened her eyes. She was warm, she was safe, and a steady, familiar weight was resting gently across her shoulders. She opened her eyes to the soft, magical glow of the Christmas tree lights still visible from the living room. Alex was still fast asleep beside her, his arm wrapped snugly around her, his face a mask of pure, untroubled contentment. She smiled. Being the source of his profound comfort was the greatest gift she could ever imagine.
 
@@ -839,7 +822,6 @@ By late afternoon, the rest of the family began to arrive. The Carter clan—Aun
 ### Part 18: A Cross-Border Introduction
 
 # Welcome to High School
-# Part 18: A Cross-Border Introduction
 
 The main event was the big, American-style Christmas dinner. Emily's magnificent roast turkey was the centerpiece of a table groaning under the weight of mashed potatoes, stuffing, cranberry sauce, and her famous green bean casserole. The house was now filled to bursting with the loud, loving, and chaotic energy of the full Miller-Mason-Carter clan.
 
@@ -872,7 +854,6 @@ The seed was planted. The invitation was extended. The two halves of their new, 
 ### Part 1: The Gaelic Gambit and the Grease Trap Lament
 
 # Spring Semester at Northwood High
-# Part 1: The Gaelic Gambit and the Grease Trap Lament
 
 Months had passed since Alex and Chloé first received their "unofficial orientation" to Northwood High. The initial shock of freshman year had worn off, replaced by a routine of classes, homework, and navigating the social currents of the bustling cafeteria. They'd seen Mrs. DeMarco in action a few times – mostly minor infractions met with stern glares or curt commands that quelled any burgeoning disruption.
 
@@ -921,7 +902,6 @@ Chloé nodded, a shiver going down her spine. Mrs. DeMarco, it turned out, wasn'
 ### Part 2: Birthday Twins
 
 # Spring Semester at Northwood High
-# Part 2: Birthday Twins
 
 The last traces of a long Virginia winter were finally melting away, replaced by the soft, tentative warmth of early April. It was a lazy Saturday afternoon at the Miller house. Alex and Chloé were in their usual spot on the living room sofa, a comfortable silence between them as Alex focused on a level of a new computer game and Chloé idly flipped through a magazine.
 
@@ -962,7 +942,6 @@ Chloé’s smile softened, her own eyes shimmering with happy tears. "Me too, Al
 ### Part 3: A Party for Two
 
 # Spring Semester at Northwood High
-# Part 3: A Party for Two
 
 The giddy, wonderful shock of their shared birthday discovery lingered in the air of the Millers' living room. Alex and Chloé, still buzzing with the sheer, improbable joy of it, finally separated from their hug. The idea of a birthday, which just moments ago had felt like a mundane, looming event for Chloé and a barely-registered blip on the calendar for Alex, was now charged with a new, shared excitement.
 
@@ -1011,7 +990,6 @@ Emily and James looked at each other, their faces filled with a warmth and love 
 ### Part 4: A Miller-Mason Birthday Extravaganza
 
 # Spring Semester at Northwood High
-# Part 4: A Miller-Mason Birthday Extravaganza
 
 The Saturday of their fifteenth birthday dawned bright and unseasonably warm. The Miller house was transformed. Balloons in blue and green—Alex’s and Chloé’s favorite colors—bobbed against the ceiling, and a large, hand-painted banner reading “Happy 15th Birthday, Alex & Chloé!” was strung across the living room doorway. By early afternoon, the backyard was filled with the happy sounds of a party in full swing.
 
@@ -1056,7 +1034,6 @@ I WASN’T ALONE, he typed, turning to look at her, his eyes full of a gratitude
 ### Part 5: A Change of Scenery
 
 # Spring Semester at Northwood High
-# Part 5: A Change of Scenery
 
 The last of the relatives' cars had pulled away from the curb, leaving a contented quiet in its wake. The joint fifteenth birthday party had been a resounding success. As they said their goodbyes, Alex’s relatives had enveloped Chloé in warm hugs, welcoming her into the fold. "It was so wonderful to finally meet you, dear," Grandma Miller had said, patting Chloé’s cheek. "You are a treasure."
 
@@ -1105,7 +1082,6 @@ They were tired, they were happy, and they were together. And now, with the full
 ### Part 6: The First Step of the Adventure
 
 # Spring Semester at Northwood High
-# Part 6: The First Step of the Adventure
 
 The morning after their birthday party was quiet and slow. After waking up at the Masons' house, Alex and Chloé had made their way back across the lawn to the Millers' for a big, celebratory Sunday breakfast. The six of them were gathered around the kitchen table, the two families now an inseparable unit, enjoying Emily's famous pancakes and the easy, comfortable chatter that had come to define their time together.
 
@@ -1138,7 +1114,6 @@ The parents all laughed. The plan, born from a quiet, heartfelt conversation bet
 ### Part 1: The Adventure Becomes Real
 
 # One Town, Two Countries
-# Part 1: The Adventure Becomes Real
 
 Weeks after the barbecue where the idea of a grand summer road trip had been born, a palpable sense of anticipation hung over Lisa Court. Passport photos had been taken, and applications had been submitted. Now, they just had to wait.
 
@@ -1191,7 +1166,6 @@ The summer adventure, which had begun as an idea on a warm evening, had now offi
 ### Part 2: The Night Before
 
 # One Town, Two Countries
-# Part 2: The Night Before
 
 A palpable buzz of anticipation filled the Miller household. It was the night before the big trip, and the house was a hive of quiet, happy activity. In the living room, James Miller and Thomas Mason were hunched over a large, creased road atlas spread out on the coffee table, tracing the final legs of their route north on I-87 and I-89 with a highlighter. In the kitchen, Emily and Sophie were packing a cooler with road trip snacks and drinks, their laughter mingling with the crinkle of chip bags.
 
@@ -1208,7 +1182,6 @@ They finished their packing, their excitement a tangible thing in the quiet room
 ### Part 3: The Journey North
 
 # One Town, Two Countries
-# Part 3: The Journey North
 
 The first beep of the 4:30 AM alarm was a jarring intrusion into the pre-dawn stillness. In the Miller house, lights flicked on one by one. The air was thick with the sleepy, hushed energy of an early start. After a quick breakfast, the final phase of the operation began: loading the last of the bags and the all-important snack cooler into the back of the Mason minivan.
 
@@ -1243,7 +1216,6 @@ A comfortable, anticipatory quiet settled over the group. They were tired, but t
 ### Part 4: A Familiar Crossing
 
 # One Town, Two Countries
-# Part 4: A Familiar Crossing
 
 The summer after their freshman year felt different. For fifteen-year-olds Alex Miller and Chloé Mason, the shared trials and triumphs of their first year at Northwood High had solidified their extraordinary bond into an unwavering platonic partnership. The easy companionship of the previous summer had deepened into a seamless, telepathic understanding, their days and many nights a comfortable rhythm of shared worlds and mutual support. Now, in the heart of the summer of 2000, came the trip Chloé had been anticipating for months: the journey home.
 
@@ -1282,7 +1254,6 @@ As Thomas put the minivan in gear and pulled away from the checkpoint, a single 
 ### Part 5: A Town Without Walls
 
 # One Town, Two Countries
-# Part 5: A Town Without Walls
 
 After their warm welcome from Jean-Guy, the first order of business was a trip down memory lane for Chloé. "Okay, first stop, my old house!" she declared from the back of the minivan. "We have to go back to the American side, it's just a couple of streets over."
 
@@ -1321,7 +1292,6 @@ The butcher shop in Stanstead was a sensory delight, smelling richly of smoked m
 ### Part 6: One Street, Two Countries
 
 # One Town, Two Countries
-# Part 6: One Street, Two Countries
 
 After securing the sausages from the *boucherie* in Stanstead, Thomas Mason turned to the passengers in his minivan with a grin. "Alright, everyone, now for the real tour. Time to show you the weirdest street in North America."
 
@@ -1358,7 +1328,6 @@ They all settled onto the patio chairs, Mrs. Patterson bringing out a pitcher of
 ### Part 7: A Day of Two Nations
 
 # One Town, Two Countries
-# Part 7: A Day of Two Nations
 
 After sharing lemonade and stories on the Pattersons' Vermont deck, it was time to move on. The two families said their goodbyes, promising to see them again before heading back to Virginia, and all six of them piled back into the Masons' minivan.
 
@@ -1399,7 +1368,6 @@ Chloé beamed, her heart swelling with pride for her strange, wonderful hometown
 ### Part 8: The Montréal Rule
 
 # One Town, Two Countries
-# Part 8: The Montréal Rule
 
 The next morning dawned bright and clear at the Derby Line Inn. A palpable sense of excitement buzzed among the six of them as they gathered after breakfast. The plan for the day was their most ambitious yet: a day trip to Montréal. For the Millers, it was a chance to see a world-class city they'd never visited. For Alex, it was an adventure into the heart of the French-speaking world he was just beginning to explore.
 
@@ -1438,7 +1406,6 @@ With their documents properly stamped and their entry into Canada officially rec
 ### Part 9: Montréal
 
 # One Town, Two Countries
-# Part 9: Montréal
 
 The drive north from the borderlands to Montréal was a journey into a different world. The rolling hills gave way to a flat, expansive plain, and soon, the iconic, cross-topped peak of Mount Royal rose from the horizon, heralding their arrival.
 
@@ -1487,7 +1454,6 @@ Chloé leaned her head on his shoulder, a familiar, comforting gesture. "The bes
 ### Part 10: The Return Journey
 
 # One Town, Two Countries
-# Part 10: The Return Journey
 
 After a whirlwind day spent marveling at the historic architecture of Old Montréal, exploring the bustling shops on Sainte-Catherine Street, and indulging in legendary smoked meat sandwiches that lived up to their reputation, the minivan made the two-hour drive south from the city. A comfortable, contented silence filled the vehicle, punctuated by the occasional sleepy murmur. The grand adventure had been a resounding success, but everyone was looking forward to the quiet comfort of their hotel rooms in Derby Line.
 
@@ -1528,7 +1494,6 @@ With that, they were back in the United States. As they drove towards the hotel,
 ### Part 11: A Lesson in Chocolate and Law
 
 # One Town, Two Countries
-# Part 11: A Lesson in Chocolate and Law
 
 Back in the quiet comfort of their adjoining hotel rooms at the Derby Line Inn, a contented exhaustion had settled over the two families. The four parents were in one room, chatting softly as they wound down from the long, exciting day. In the connecting room, Alex and Chloé were settled in for the night, the door between the rooms propped open. Chloé was already in her pajamas, sitting cross-legged on the bed, while Alex was positioned in his wheelchair beside her, having just returned from using the bathroom.
 
@@ -1567,7 +1532,6 @@ Alex stared at her, processing the sheer absurdity of it. A law so strict it cou
 ### Part 12: The Forbidden Fruit
 
 # One Town, Two Countries
-# Part 12: The Forbidden Fruit
 
 The morning after their grand Montréal adventure, a relaxed, happy energy filled the two adjoining rooms at the Derby Line Inn. There was no pre-dawn rush today, no long drive home to prepare for. Instead, the day held the promise of a different kind of excitement: the Leclerc family reunion.
 
@@ -1616,7 +1580,6 @@ Alex felt a fresh wave of excitement mixed with a flutter of nerves. The trip wa
 ### Part 1: A Québécois Welcome
 
 # La Famille
-# Part 1: A Québécois Welcome
 
 Thomas turned the minivan onto a quiet, tree-lined street in Stanstead and pulled up to a cheerful-looking house with a wide front porch and a big backyard, from which the sounds of music and lively chatter already drifted. "Here we are," he announced.
 
@@ -1655,7 +1618,6 @@ Alex wheeled into the bustling, warm, and loud atmosphere of a true Québécois 
 ### Part 2: The Reunion – Food, Family, and French
 
 # La Famille
-# Part 2: The Reunion – Food, Family, and French
 
 The moment Alex wheeled through the Leclercs' back door and onto the sprawling wooden deck, he was enveloped in a wave of sensory information. The backyard was a vibrant tapestry of life, teeming with people of all ages—aunts, uncles, cousins, and family friends. The air was thick with the savory aroma of sausages sizzling on a large barbecue, the boisterous, musical sound of rapid-fire Québécois French, and the cheerful folk-rock melodies of a popular Québec band playing from a portable stereo perched on the railing.
 
@@ -1686,7 +1648,6 @@ The afternoon settled into a comfortable rhythm. The sounds of laughter, the cli
 ### Part 3: Character Moments and Interactions
 
 # La Famille
-# Part 3: Character Moments and Interactions
 
 As the afternoon wore on, the reunion settled into a warm, humming rhythm. James and Emily Miller, having been thoroughly welcomed, found themselves in an easy conversation with Geneviève and other relatives, their efforts to speak French met with smiles and genuine appreciation. They were no longer just guests; they were part of the fabric of the party.
 
@@ -1727,7 +1688,6 @@ A wave of pure, unadulterated happiness washed over Chloé. Her two worlds—the
 ### Part 4: The Last Farewell
 
 # La Famille
-# Part 4: The Last Farewell
 
 As dusk settled over the Leclercs' backyard, painting the sky in soft shades of purple and orange, the boisterous energy of the reunion began to wind down. A pleasant, contented weariness had replaced the earlier chaotic excitement. It was time to say goodbye.
 

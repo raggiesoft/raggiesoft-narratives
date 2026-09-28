@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: The A/B Block
 
 # A New Rhythm
-# Part 1: The A/B Block
 
 The first day of their sophomore year at Northwood High felt both comfortingly familiar and strangely new. The hallways were the same, the faces were mostly the same, but the entire structure of their day had been upended. Northwood had switched to a 4-period A/B block schedule, a system of alternating "Purple" and "Gold" days that stretched each class into a long, ninety-minute block.
 
@@ -29,7 +28,6 @@ As they settled into their usual cafeteria table, the familiar, chaotic energy o
 ### Part 2: The Calendar Keeper
 
 # A New Rhythm
-# Part 2: The Calendar Keeper
 
 A few weeks into their sophomore year, the entire student body of Northwood High was still struggling to adapt to the new A/B block schedule. The alternating "Purple" and "Gold" days, combined with the weekly flip-flop of the rotation, had created a low-grade, school-wide state of confusion.
 
@@ -66,7 +64,6 @@ The three of them set off, the grateful ninth-grader walking beside them as Chlo
 ### Part 1: A Simple Cough
 
 # The Longest Two Weeks
-# Part 1: A Simple Cough
 
 It started with a simple cough. A few weeks into their sophomore year, Alex developed what seemed like a standard autumn cold. It was a dry, persistent cough that he tried to ignore, a minor annoyance in the background of their busy school days.
 
@@ -83,7 +80,6 @@ Alex, feeling too tired to argue, simply nodded.
 ### Part 2: The Nurse\'s Verdict
 
 # The Longest Two Weeks
-# Part 2: The Nurse\'s Verdict
 
 The Northwood High clinic was a small, quiet oasis of calm. Nurse Davison, a kind, no-nonsense woman with decades of experience, looked up from her paperwork as Alex and Chloé came in. It was their scheduled time to pick up their daily medications—a routine part of their day.
 
@@ -110,7 +106,6 @@ The word "hospital" landed with a heavy thud in the quiet room.
 ### Part 3: The Hospital
 
 # The Longest Two Weeks
-# Part 3: The Hospital
 
 The next hour was a blur of controlled chaos. The wail of an ambulance, the arrival of paramedics who treated Alex with a calm professionalism, the call to his parents. James Miller and Thomas Mason arrived at the school in a single car, their faces pale with worry. They collected a shaken but resolute Chloé, and the three of them followed the ambulance to the Children's Hospital. En route, they picked up Emily and Sophie, and the five of them arrived at the emergency room, a united, terrified front.
 
@@ -131,7 +126,6 @@ As his parents disappeared through the double doors, Chloé was left in the wait
 ### Part 4: A Turn for the Worse
 
 # The Longest Two Weeks
-# Part 4: A Turn for the Worse
 
 The first night was a long, tense vigil. James and Emily rotated in and out of Alex's room, their faces growing more worried with each update they gave to the Masons and a heartbroken Chloé in the waiting area.
 
@@ -154,7 +148,6 @@ The charge nurse looked from the parents' desperate faces to the pale, determine
 ### Part 5: The Anchor
 
 # The Longest Two Weeks
-# Part 5: The Anchor
 
 Walking through the double doors into the pediatric wing felt like stepping into another world. The air was sterile, filled with the quiet beeps and hums of medical equipment. Emily led Chloé to Alex's room.
 
@@ -181,7 +174,6 @@ As Chloé walked back out into the hallway, the charge nurse stopped her. "The d
 ### Part 6: Touch and Go
 
 # The Longest Two Weeks
-# Part 6: Touch and Go
 
 Chloé's presence became a crucial, prescribed part of Alex's medical care. The hospital, recognizing the undeniable calming effect she had on his vital signs, bent their rules. She was allowed in for several short, quiet visits a day, always accompanied by one of his parents. But even her presence couldn't stop the progression of the illness.
 
@@ -196,7 +188,6 @@ The words "critical condition" hung in the air, a terrifying, final pronouncemen
 ### Part 7: The Road Back
 
 # The Longest Two Weeks
-# Part 7: The Road Back
 
 Through that long, dark night they waited, they clung to each other. And somehow, slowly, miraculously, Alex held on. By morning, the crisis had passed. His fever had broken, and his oxygen levels, while still dangerously low, had stabilized. He wasn't out of the woods, but he had turned a corner.
 
@@ -211,7 +202,6 @@ The weight on her was immense—the stress of her own schoolwork, the worry for 
 ### Part 8: Alex’s Recovery
 
 # The Longest Two Weeks
-# Part 8: Alex’s Recovery
 
 The two weeks following Alex's discharge from the hospital were a period of mandated, quiet quarantine. The doctors had been clear: after a serious bout of pneumonia, his immune system was compromised, and he needed to rest and recover at home, away from the germ-filled hallways of Northwood High.
 
@@ -228,7 +218,6 @@ Finally, after two long, quiet weeks at home, Alex was cleared to return to scho
 ### Part 1: Re-establishing a Rhythm
 
 # A New Normal
-# Part 1: Re-establishing a Rhythm
 
 Returning to Northwood High after a month-long, life-threatening ordeal felt like stepping back into a world that had kept spinning while theirs had stopped. For Alex, the physical toll of the pneumonia was still evident. He was thinner, and his stamina was low; the long push from the drop-off to their first-period class left him more tired than it used to. For Chloé, the emotional weight of the past month had been immense, and seeing Alex back in their shared classes, safe and recovering, was a quiet, profound relief.
 
@@ -249,7 +238,6 @@ Their partnership, always strong, had been forged into something even more resil
 ### Part 2: A New Low
 
 # A New Normal
-# Part 2: A New Low
 
 The first few weeks back at school were a slow, steady return to normalcy. But the visible reality of Alex's recent illness—his thinner frame, his occasional fatigue—did not go unnoticed by everyone.
 
@@ -284,7 +272,6 @@ Mrs. DeMarco gave them a small, almost imperceptible nod of support before resum
 ### Part 1: The Blast Radius
 
 # The First Crack
-# Part 1: The Blast Radius
 
 It was a crisp Saturday afternoon in October of their sophomore year. The initial chaos of the new A/B block schedule had settled into a familiar rhythm. Alex and Chloé were in Alex's room, a comfortable fortress of shared interests. A complex model spaceship, a multi-week project, sat on a low table between them. Today was the day for the final, most delicate phase: applying the tiny, intricate decals.
 
@@ -315,7 +302,6 @@ Without another word, she turned and walked out of his room, leaving Alex alone 
 ### Part 2: The Cold War
 
 # The First Crack
-# Part 2: The Cold War
 
 The rest of the day was a misery of unspoken, icy tension. Chloé went to her own house, and for the first time in over a year, they spent a Saturday afternoon in separate homes. The silence was a crushing weight. She spent the entire time in her room, crying. Being away from Alex, especially after being so terrified of losing him in the hospital, felt fundamentally wrong, a violation of their natural state. But his words had cut her to the core.
 
@@ -330,7 +316,6 @@ That night, for the first time, their shared bed was a cold and hostile territor
 ### Part 3: The Reconciliation
 
 # The First Crack
-# Part 3: The Reconciliation
 
 The morning after their fight was a landscape of quiet misery. After a tense, silent breakfast, Chloé retreated to the living room, staring blankly out the window. The pain of the disconnection was a physical ache in her chest.
 
@@ -367,7 +352,6 @@ She let out a final, watery laugh and pulled him into another hug, this one soft
 ### Part 4: The Unbreakable Bond
 
 # The First Crack
-# Part 4: The Unbreakable Bond
 
 The raw emotion of their reconciliation left them both drained and a little shaky. They migrated from the living room to the comfortable, familiar space of the sofa, a silent, mutual need to be close, to reaffirm the bond that had been so terrifyingly threatened. They sat side-by-side, not speaking for a long time, the simple, profound comfort of their shared presence slowly mending the tear between them.
 
@@ -394,7 +378,6 @@ They sat like that for a long time, the quiet of the house settling around them.
 ### Part 1: The Lab Partner
 
 # A Different Kind of Connection
-# Part 1: The Lab Partner
 
 It was a "Purple Day" in late October, a few weeks after Alex and Chloé had navigated their first major fight and reaffirmed their unbreakable bond. In their second-period Biology class, the teacher, Mrs. Davison, announced a new, month-long project on genetics that would require them to work with an assigned partner.
 
@@ -413,7 +396,6 @@ Over the next few weeks, they were a surprisingly good team. Hannah was patient,
 ### Part 2: The Study Session
 
 # A Different Kind of Connection
-# Part 2: The Study Session
 
 A week before the project was due, Hannah approached Alex after class. "Hey, Alex," she began, a little nervously. "I was wondering... would you want to get together at the library after school sometime this week to go over our final presentation? I think we're in good shape, but I just want to make sure we're on the same page."
 
@@ -430,7 +412,6 @@ He found himself missing Chloé's easy presence, her intuitive understanding of 
 ### Part 3: The Invitation
 
 # A Different Kind of Connection
-# Part 3: The Invitation
 
 Their project was a huge success. They got an A, and Mrs. Davison praised their teamwork in front of the class. Alex felt a quiet pride in their work.
 
@@ -447,7 +428,6 @@ The implication was clear: she was offering him something that Chloé, as "just 
 ### Part 4: The Answer
 
 # A Different Kind of Connection
-# Part 4: The Answer
 
 Alex looked from Hannah's hopeful, well-intentioned face to Chloé's protective one. He knew Hannah wasn't being malicious. She was a nice person who simply didn't understand. And he knew, with a sudden, absolute clarity, that he had to be the one to answer.
 

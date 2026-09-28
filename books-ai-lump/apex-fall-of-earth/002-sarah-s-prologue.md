@@ -10,7 +10,6 @@ series: ""
 ### Part 1: First Flight – Mid-October 2044
 
 # Sarah – The Promise
-# Part 1: First Flight – Mid-October 2044
 
 The Tri-Sector Interstellar Freight & Personnel terminal was the cleanest room Sarah Hayes had ever stood in.
 
@@ -53,7 +52,6 @@ Sarah rested her hands in her lap, her posture finally relaxing as the ship lift
 ### Part 2: The Voyage – Mid-October 2044
 
 # Sarah – The Promise
-# Part 2: The Voyage – Mid-October 2044
 
 The Tri-Sector Interstellar Freight & Personnel transport slipped through the void with barely a whisper.
 
@@ -94,7 +92,6 @@ She pressed her hand against the cool glass, her heart fluttering with genuine, 
 ### Part 3: The Transfer
 
 # Sarah – The Promise
-# Part 3: The Transfer
 
 The TSIFP transport glided into the docking cradle at the Las Vegas Interplanetary Spaceport with a gentle, barely perceptible shudder. The docking mechanisms locked into place with a muffled, hydraulic sigh, and the soft amber cabin lights shifted to a bright, welcoming white.
 
@@ -133,7 +130,6 @@ Sarah leaned her head against the cool, vibration-free glass, looking down at th
 ### Part 4: The Handoff
 
 # Sarah – The Promise
-# Part 4: The Handoff
 
 The Desert Star atmospheric shuttle touched down with a gentle, controlled hiss of hydraulics, settling onto the tarmac with barely a bump. The ambient cabin music faded out, replaced by the soft chime of the seatbelt indicator turning off.
 
@@ -192,7 +188,6 @@ Sarah pushed through the cold steel gate, stepping into the long, windowless con
 ### Part 5: The Glitch
 
 # Sarah – The Promise
-# Part 5: The Glitch
 
 The heavy steel gate of the security checkpoint slammed shut, sealing off the deafening roar of the intake bunker.
 
@@ -247,7 +242,6 @@ She stepped out into the neon-lit corridor, entirely alone and utterly out of he
 ### Part 6: The Washroom
 
 # Sarah – The Promise
-# Part 6: The Washroom
 
 Sarah dropped her canvas duffel bag on the floor next to Bunk 42-C, clutching her hygiene kit and a thin towel to her chest. She stepped back out into the narrow, 64-inch aisle of the barracks, her heart hammering against her ribs.
 
@@ -278,7 +272,6 @@ Ten minutes later, she was dressed back in her clean slate-blue Helios uniform, 
 ### Part 7: The Divide
 
 # Sarah – The Promise
-# Part 7: The Divide
 
 Sarah stepped out into the neon-lit corridor, clutching her damp towel, and was immediately swept up in a massive tide of Apex contractors heading toward the Sector 1 Mess Hall.
 
@@ -307,7 +300,6 @@ It was time to face whatever came next.
 ### Part 8: The Checkpoint
 
 # Sarah – The Promise
-# Part 8: The Checkpoint
 
 Sarah tossed her empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
 

@@ -9,8 +9,6 @@ series: "The Stardust Engine"
 
 ### Part 1: The Magnum Opus &ndash; 12:00 PM
 
-# Book 4: Ad Astra
-
 ## Chapter 1: Escape Velocity &ndash; 1995
 
 ### Part 1: The Magnum Opus &ndash; 12:00 PM

@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: Exploring Seattle and Lynnwood
 
 # A Pacific Northwest Interlude: Summer After Graduation
-# Part 1: Exploring Seattle and Lynnwood
 
 The summer after high school graduation stretched before Alex Miller and Chloé Mason, a bittersweet expanse of freedom before the major life change of Chloé heading off to Northwest Pacific University in Seattle. Alex would be starting at the local community college in Virginia Beach, a practical choice, but the thought of daily life without Chloé’s constant presence was a daunting shadow.
 
@@ -23,7 +22,6 @@ The first few days were a blur of Pacific Northwest sights. They rode the monora
 ### Part 2: A Special Evening
 
 # A Pacific Northwest Interlude: Summer After Graduation
-# Part 2: A Special Evening
 
 The city lights of Lynnwood cast a soft glow through the window of their accessible hotel room, painting long shadows. Alex Miller and Chloé Mason, both eighteen and on the cusp of significant life changes, were settled into the spacious king-sized bed. It was their second to last night of this "last big adventure" before Chloé started at Northwest Pacific University. They were dressed in comfortable pajamas, the day’s explorations of Seattle and the NPU campus having left them pleasantly tired. Alex might have been listening to music on his headphones, Chloé perhaps reading, a comfortable silence between them.
 
@@ -78,7 +76,6 @@ The city lights outside cast long shadows as they simply lay there, holding hand
 ### Part 3: The Afterglow
 
 # A Pacific Northwest Interlude: Summer After Graduation
-# Part 3: The Afterglow
 
 Later, wrapped in the soft darkness of their shared hotel bed, a profound quiet filled the room. The city still hummed outside, but within their haven, there was only the gentle sound of their breathing. Alex lay beside Chloé, her head resting on his shoulder, his arm loosely around her. A sense of deep peace, a novel kind of contentment, settled over him. It was different from the purely comforting closeness they’d always shared, yet it was also an extension of it – a new layer of intimacy built upon the bedrock of their unshakeable platonic bond.
 
@@ -117,7 +114,6 @@ They drifted back to sleep, entwined not in the fire of a new romance, but in th
 ### Part 4: A New Threshold of Trust
 
 # A Pacific Northwest Interlude: Summer After Graduation
-# Part 4: A New Threshold of Trust
 
 The next evening, after another day spent exploring Lynnwood, a quiet, domestic comfort settled over their hotel room. The trip, which had started as a "last big adventure," was beginning to feel less like a vacation and more like a preview of their future life together.
 
@@ -146,7 +142,6 @@ A little while later, they were settled back in their king-sized bed. Alex was r
 ### Part 1: Two Separate Worlds
 
 # A Very Hard Goodbye
-# Part 1: Two Separate Worlds
 
 The drive to Norfolk International Airport (ORF) was the quietest car ride Alex Miller had ever experienced. All six of them—his parents and Chloé's—were in the Masons' minivan, a silent, somber procession escorting Chloé to her future. The summer, which had begun with the exciting adventure of their trip to Lynnwood, was now ending, and with it, the unbroken, daily reality of his life with Chloé.
 
@@ -187,7 +182,6 @@ With a final, tearful smile that was the bravest thing he had ever seen, she tur
 ### Part 2: The Soundtrack to a Heartbreak
 
 # A Very Hard Goodbye
-# Part 2: The Soundtrack to a Heartbreak
 
 The drive home from Norfolk International Airport was a study in quiet, heartbreaking sorrow. James Miller drove, his knuckles white on the steering wheel, his eyes fixed on the road. Emily sat in the back beside Alex, her arm wrapped around her son's shaking shoulders, her own tears falling silently.
 
@@ -214,7 +208,6 @@ Emily let out a small, choked sob, pulling him closer, knowing her own loving em
 ### Part 3: A Night in an Empty Room
 
 # A Very Hard Goodbye
-# Part 3: A Night in an Empty Room
 
 The Miller house on Lisa Court was suffocatingly quiet. They had been home from the airport for an hour, but Alex hadn't stopped crying. He was in his room, the door open, his body still shaking with silent, ragged sobs. His parents hovered, their hearts breaking, offering him food he wouldn't eat and words of comfort that couldn't penetrate the wall of his grief. Chloé was in the air, somewhere between Virginia and Las Vegas, completely unreachable. He was untethered.
 
@@ -233,7 +226,6 @@ Chloé's room was just as she'd left it. It smelled of her, a faint, clean scent
 ### Part 4: The First Lifeline
 
 # A Very Hard Goodbye
-# Part 4: The First Lifeline
 
 Hours later, Alex was dozing in a shallow, restless sleep in Chloé's bed when the shrill ring of a telephone pierced the quiet of the Mason house. His heart leaped. He quickly transferred back into his wheelchair, his mind foggy with sleep and grief, and raced across the lawn to his own house, but the phone had already stopped ringing. He found his parents in the kitchen, a look of profound urgency on their faces.
 
@@ -258,7 +250,6 @@ They talked for the entire layover. He told her about finding her hair on the pi
 ### Part 5: A Voice Across the Continent
 
 # A Very Hard Goodbye
-# Part 5: A Voice Across the Continent
 
 It was nearly 1:00 AM in Virginia when the phone rang again. This time, all four parents and Alex were gathered in the Millers' living room, waiting.
 
@@ -275,7 +266,6 @@ He reached for his AAC device, his fingers finally steady. I WAS WAITING, the de
 ### Part 6: Home Safe
 
 # A Very Hard Goodbye
-# Part 6: Home Safe
 
 An hour later, the phone rang one last time.
 

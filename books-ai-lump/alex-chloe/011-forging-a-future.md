@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: The Launch
 
 # The Road West
-# Part 1: The Launch
 
 The late August morning on Lisa Court was a study in organized chaos. The now-familiar, accessible Holt Wayfarer minivan stood in the Miller driveway, its sliding door open like a welcoming mouth, ready for the great migration. Beside it, Megan’s Holt sedan gleamed in the pre-dawn light. This wasn't a vacation; it was the final move.
 
@@ -33,7 +32,6 @@ The great western road was calling, and this time, they were answering it for go
 ### Part 2: The Open Road
 
 # The Road West
-# Part 2: The Open Road
 
 The first day was a marathon, a deliberate, high-mileage push to put the East Coast behind them. Megan took the first driving shift in her sedan, with Sophie as her co-pilot. In the lead was the Holt Wayfarer, with Chloé at the wheel, James navigating from the passenger seat, and Alex in his command center in the middle.
 
@@ -54,7 +52,6 @@ This trip wasn't just a physical journey from one coast to the other. It was a h
 ### Part 3: Washington
 
 # The Road West
-# Part 3: Washington
 
 The morning of their fifth and final day on the road began in Missoula, Montana, with a new, electric energy in the air. This was it. Today, they would reach their new home.
 
@@ -77,7 +74,6 @@ They had crossed a continent, not as a family on vacation, but as a team on a mi
 ### Part 4: Seattle
 
 # The Road West
-# Part 4: Seattle
 
 As they descended from the summit of Snoqualmie Pass, the dense evergreen forests of the Cascade Mountains enveloped them. The air grew heavier, carrying the distinct, damp, and clean scent of the Pacific Northwest. They were in a new world.
 
@@ -110,7 +106,6 @@ For a long moment, no one moved. They just sat in their cars, the engines hummin
 ### Part 5: Home
 
 # The Road West
-# Part 5: Home
 
 The moving truck from "Interstate Movers" was scheduled to arrive on Monday, but the two-car convoy from Virginia had beaten them by a full day. After five long days on the road, the five of them—Alex, Chloé, Megan, James, and Sophie—stood in the quiet, empty living room of the Lynnwood apartment. It was clean, it smelled of fresh paint, and it was theirs.
 
@@ -139,7 +134,6 @@ They worked for hours, fueled by pizza ordered from a local shop and the powerfu
 ### Part 6: The Unpacking
 
 # The Road West
-# Part 6: The Unpacking
 
 Monday morning arrived not with an alarm clock, but with the loud, unmistakable rumble of a large moving truck pulling into the "Cedar Park" apartment complex. Alex, Chloé, and Megan all rushed to the living room window.
 
@@ -170,7 +164,6 @@ James and Sophie finally said their goodnights, their mission complete. The thre
 ### Part 7: The First Adventure
 
 # The Road West
-# Part 7: The First Adventure
 
 By late Monday morning, the moving truck was empty, and the apartment was a cozy, chaotic maze of perfectly placed furniture and half-unpacked boxes. James and Sophie, their parental mission of supervising the heavy lifting now complete, sank onto the new sofa with a pair of well-deserved coffees, looking tired but profoundly happy.
 
@@ -201,7 +194,6 @@ As the bus pulled away from the station and merged onto the freeway, heading sou
 ### Part 8: A Day in the City
 
 # The Road West
-# Part 8: A Day in the City
 
 The TAPS Route 511 express bus dropped them off in the heart of downtown Seattle, directly in front of Midtown Plaza, a bustling, modern shopping center. The energy of the city was a vibrant, chaotic symphony, and the three of them stood on the corner for a moment, tourists in their new home, figuring out a plan.
 
@@ -248,7 +240,6 @@ The rest of the journey home was a slow, stop-and-go crawl, but the mood in thei
 ### Part 9: The Welcome Home
 
 # The Road West
-# Part 9: The Welcome Home
 
 The slow, stop-and-go crawl of the express bus finally gave way to the open roads of Lynnwood. The three of them—Alex, Chloé, and Megan—walked the final few blocks from the transit center to their new apartment, a comfortable, happy exhaustion having settled deep in their bones. The day had been a perfect first adventure.
 
@@ -299,7 +290,6 @@ The long road west was over. Their new life had begun. And in the quiet darkness
 ### Part 1: The Micro-Test
 
 # The First Ecosystem
-# Part 1: The Micro-Test
 
 The dream that had been born on the Newport boardwalk—a future filled with rescued animals—had settled into a quiet, constant hum in the background of their lives. The Lynnwood Discovery and Care Center was a distant, lofty goal. Back in their small apartment, surrounded by the practical realities of university coursework and part-time jobs, the question became: where do we start?
 
@@ -322,7 +312,6 @@ Alex, meanwhile, became the architect. He spent his evenings sketching out the a
 ### Part 2: The Setup
 
 # The First Ecosystem
-# Part 2: The Setup
 
 The following weekend, their living room was a chaotic but organized construction zone. A large, empty glass tank sat on a sturdy new stand. Bags of specialized, nutrient-rich aquarium substrate were piled on a tarp on the floor.
 
@@ -341,7 +330,6 @@ Together, they carefully added the substrate, arranged the hardscape, and then b
 ### Part 3: The Inhabitants
 
 # The First Ecosystem
-# Part 3: The Inhabitants
 
 Finally, the day came. Their little world was stable, the water crystal clear, the plants thriving. The three of them made a trip to a local, highly-regarded aquarium store. It was a quiet, serene place, a library of living creatures.
 
@@ -358,7 +346,6 @@ They brought their new residents home and, with the gentle, practiced care of th
 ### Part 4: A Quiet Success
 
 # The First Ecosystem
-# Part 4: A Quiet Success
 
 A few weeks later, the aquarium was a breathtaking, living piece of art in their living room. The plants grew lush and green, the fish swam in vibrant, peaceful schools, and the Dwarf Gourami patrolled his kingdom with a slow, regal grace.
 
@@ -373,7 +360,6 @@ Alex reached out, his hand finding Chloé's on one side and Megan's on the other
 **Date:** 2026-07-13
 
 # The Evergreen Project
-# Part 1: Weekend Warriors
 
 The serene, self-contained world of their aquarium was a daily source of quiet joy, but it also sparked a new kind of hunger in them. It was a successful test, but they wanted to do more. After weeks of careful research, Chloé found the perfect place: the "Evergreen Animal Shelter," a well-respected but chronically underfunded non-profit on the other side of town.
 
@@ -384,7 +370,6 @@ Alex, meanwhile, found his niche in the shelter's small, cluttered office. His o
 ### Part 2: The Beagle and the Blueprint
 
 # The Evergreen Project
-# Part 2: The Beagle and the Blueprint
 
 The catalyst for change arrived on a drizzly spring Saturday. The shelter had taken in a sweet-natured beagle mix with a sad story; a spinal injury had left one of his back legs completely paralyzed. He was a happy, affectionate dog, but he moved by awkwardly dragging his useless limb behind him.
 
@@ -401,7 +386,6 @@ The next day, while Chloé kept the beagle calm with treats and Megan carefully 
 ### Part 3: The First Test and a New Role
 
 # The Evergreen Project
-# Part 3: The First Test and a New Role
 
 The following Saturday, the three of them returned to the shelter not with leashes and treats, but with a strange, lightweight plastic contraption. It was a simple, custom-designed mobility cart, perfectly tailored to the beagle's measurements.
 

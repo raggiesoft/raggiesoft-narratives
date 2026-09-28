@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: The Boston Showdown
 
 # The Revenge of the Brawlers
-# Part 1: The Boston Showdown
 
 The trip to Southern New England in the fall of 2011 was a nostalgic journey. The week culminated in the ultimate pilgrimage, a high-stakes event that had the entire family buzzing: a trip to the arena in Boston for Game 7 of the Federated Hockey League Championship Finals. It was the ultimate showdown: the Boston Brawlers versus the Montréal Voyageurs.
 
@@ -67,7 +66,6 @@ The crowd howled. Chloé was beaten. She had no defense. She buried her face in 
 ### Part 2: The Boston Victory Parade
 
 # The Revenge of the Brawlers
-# Part 2: The Boston Victory Parade
 
 The morning after the championship win, the city of Boston was a triumphant sea of black and gold. In their hotel room, Chloé Miller stared at the Brawlers uniform of shame, laid out on a chair. "I can't believe I have to wear this in public," she groaned.
 
@@ -100,7 +98,6 @@ The fans who were close enough to hear his device howled with laughter. Megan, w
 ### Part 3: The Long Drive of Shame
 
 # The Revenge of the Brawlers
-# Part 3: The Long Drive of Shame
 
 The morning after the victory parade was a study in contrasts. Alex, Megan, and James Miller were a cheerful, efficient unit, packing their bags with the crisp energy of a winning team. Chloé, however, moved with the theatrical slowness of a condemned prisoner, staring at the pile of black and gold clothing she was required to wear.
 
@@ -133,7 +130,6 @@ Chloé just shot him a look of pure, loving, and utterly defeated annoyance. The
 ### Part 4: Breakfast with the Enemy
 
 # The Revenge of the Brawlers
-# Part 4: Breakfast with the Enemy
 
 The next morning, the family convoy set out for a Rhode Island institution: BayView Creamery. They went to Store Number 1, the original location in Middletown, a place James Miller had been going to his entire life.
 

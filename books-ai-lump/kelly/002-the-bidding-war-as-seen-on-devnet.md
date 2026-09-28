@@ -10,7 +10,6 @@ series: "The Quantum Directive: Kelly's Cut"
 ### Part 1: The Developer Community
 
 # The Players
-# Part 1: The Developer Community
 
 - **cupertino_dev**: A developer from **MagnaByte** (Apple), providing the initial, firsthand account from inside the company.
 
@@ -25,7 +24,6 @@ series: "The Quantum Directive: Kelly's Cut"
 ### Part 2: The CEOs
 
 # The Players
-# Part 2: The CEOs
 
 - **Insanely_Great**: **Stephen Marchand** (Steve Jobs), the CEO of **MagnaByte**. His username is his real-world catchphrase, and his posts reflect his focus on "A+ talent" and product passion.
 
@@ -42,7 +40,6 @@ series: "The Quantum Directive: Kelly's Cut"
 ### Part 1: All the Offers on the Table 📂
 
 # Choosing a Future
-# Part 1: All the Offers on the Table 📂
 
 (This is an outline that needs to be expanded)
 

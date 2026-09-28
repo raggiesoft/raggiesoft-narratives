@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Pathfinder
 
 # The Transfer Point
-# Part 1: The Pathfinder
 
 ## Saturday, June 23, 2007 — 14:15 PM Campbell Court Transportation Center, Roanoke, VA
 
@@ -117,7 +116,6 @@ They moved as a unit toward the express bus—Jessica taking point, Paige and th
 ### Part 2: The Bunker
 
 # The Transfer Point
-# Part 2: The Bunker
 
 ## Saturday, June 23, 2007 — 15:00 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -214,7 +212,6 @@ As the twins disappeared into their new subterranean kingdom, Freddie turned his
 ### Part 3: The Heap Protocol
 
 # The Transfer Point
-# Part 3: The Heap Protocol
 
 ## Saturday, June 23, 2007 — 22:00 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -345,7 +342,6 @@ The Avery Unit powered down, safe in the dark.
 ### Part 4: The Pressure Check
 
 # The Transfer Point
-# Part 4: The Pressure Check
 
 ## Saturday, June 23, 2007 — 22:15 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -422,7 +418,6 @@ The Avery Unit simply shut down where they were, a tangle of limbs and trust, sl
 ### Part 5: The Migration
 
 # The Transfer Point
-# Part 5: The Migration
 
 ## Sunday, June 24, 2007 — 03:15 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -597,7 +592,6 @@ The breathing synced up. The heat rose. The Avery Unit slept, safe in the Silo, 
 ### Part 1: The Descent
 
 # The Physical Layer
-# Part 1: The Descent
 
 ## Sunday, June 24, 2007 — 11:30 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -784,7 +778,6 @@ They lay on the cold concrete floor of the unfinished basement, five naked adult
 ### Part 2: The Search Query
 
 # The Physical Layer
-# Part 2: The Search Query
 
 ## Monday, June 25, 2007 — 10:30 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -905,7 +898,6 @@ It looked like something that belonged on the *Sanctuary*.
 ### Part 3: The Mega-Bed
 
 # The Physical Layer
-# Part 3: The Mega-Bed
 
 ## Monday, June 25, 2007 — 11:15 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -1004,7 +996,6 @@ She looked at Freddie.
 ### Part 4: The Pittsburgh Toilet
 
 # The Physical Layer
-# Part 4: The Pittsburgh Toilet
 
 ## Monday, June 25, 2007 — 12:00 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -1087,7 +1078,6 @@ She looked at her siblings.
 ### Part 5: The Permit Phase
 
 # The Physical Layer
-# Part 5: The Permit Phase
 
 ## Wednesday, June 27, 2007 — 14:00 PM
 
@@ -1252,7 +1242,6 @@ Freddie looked up. The ceiling was sealed. He was in the bunker. And he hadn't u
 ### Part 6: The Wet Room
 
 # The Physical Layer
-# Part 6: The Wet Room
 
 ## Monday, July 2, 2007 — 08:00 AM The Bridge (Basement), 105 Pepper Street SE
 
@@ -1419,7 +1408,6 @@ Freddie closed his eyes, letting the water run over his face.
 ### Part 7: The Mega-Bed Assembly
 
 # The Physical Layer
-# Part 7: The Mega-Bed Assembly
 
 ## Saturday, July 14, 2007 — 09:00 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -1606,7 +1594,6 @@ And in the cool, quiet basement of 105 Pepper Street, on a bed big enough for an
 ### Part 1: The Radford Protocol
 
 # The Satellite Link
-# Part 1: The Radford Protocol
 
 ## Saturday, July 21, 2007 — 10:00 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -1777,7 +1764,6 @@ The Avery Unit was back online.
 ### Part 2: The Holding Pattern
 
 # The Satellite Link
-# Part 2: The Holding Pattern
 
 ## Saturday, July 21, 2007 — 11:00 AM The Bridge (Basement), 105 Pepper Street SE
 
@@ -1878,7 +1864,6 @@ She realized she wasn't being rejected. She was being protected.
 ### Part 3: The Cargo Bay
 
 # The Satellite Link
-# Part 3: The Cargo Bay
 
 ## Saturday, July 21, 2007 — 11:15 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -2009,7 +1994,6 @@ They began the ascent—Freddie and Harper taking turns on the TFL, the others f
 ### Part 4: The Mess Hall
 
 # The Satellite Link
-# Part 4: The Mess Hall
 
 ## Saturday, July 21, 2007 — 12:30 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -2126,7 +2110,6 @@ The system was finally, perfectly integrated.
 ### Part 5: The Supply Line
 
 # The Satellite Link
-# Part 5: The Supply Line
 
 ## Saturday, July 21, 2007 — 14:30 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -2257,7 +2240,6 @@ The supply line was established. The Base was no longer an island; it was a Hub.
 ### Part 6: The Transit Bible
 
 # The Satellite Link
-# Part 6: The Transit Bible
 
 ## Saturday, July 21, 2007 — 15:00 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -2432,7 +2414,6 @@ Harper had her freedom (The Route 3 Shuttle). The twins had their safety (The Ad
 ### Part 1: The Last Supper
 
 # The Fishersville Protocol
-# Part 1: The Last Supper
 
 ## Sunday, November 9, 2008 — 13:30 PM Mrs. Rowe's Family Restaurant, Staunton, VA
 
@@ -2465,7 +2446,6 @@ They ate the pie. They drank the sweet tea. They delayed the inevitable for as l
 ### Part 2: Barnett Hall
 
 # The Fishersville Protocol
-# Part 2: Barnett Hall
 
 ## Sunday, November 9, 2008 — 15:15 PM Woodrow Wilson Rehabilitation Center
 
@@ -2504,7 +2484,6 @@ She handed Harper a key card and a packet of rules.
 ### Part 3: Suite 200
 
 # The Fishersville Protocol
-# Part 3: Suite 200
 
 ## 15:30 PM
 
@@ -2545,7 +2524,6 @@ Within twenty minutes, the sterile dorm room looked like a forward operating bas
 ### Part 1: The Circuit
 
 # The Signal-to-Noise Ratio
-# Part 1: The Circuit
 
 ## Monday, November 10, 2008 — 09:00 AM Vocational Evaluation Lab, WWRC
 
@@ -2582,7 +2560,6 @@ This, she thought, is the Signal.
 ### Part 2: The Shift Change
 
 # The Signal-to-Noise Ratio
-# Part 2: The Shift Change
 
 ## Tuesday, November 11, 2008 — 17:15 PM WWRC Dining Hall
 
@@ -2619,7 +2596,6 @@ She finished her food quickly. She didn't want to linger. She wanted to get back
 ### Part 3: The Main Event
 
 # The Signal-to-Noise Ratio
-# Part 3: The Main Event
 
 ## Tuesday, November 11, 2008 — 19:30 PM The PERT Lounge, Barnett Hall
 
@@ -2764,7 +2740,6 @@ Harper waited until the herd dispersed. She rolled out of her corner, shaking, a
 ### Part 4: The Carrier Wave
 
 # The Signal-to-Noise Ratio
-# Part 4: The Carrier Wave
 
 ## Tuesday, November 11, 2008 — 20:15 PM Suite 200A
 
@@ -2839,7 +2814,6 @@ She wasn't in Fishersville anymore. She was in the Unit.
 ### Part 5: The Countdown
 
 # The Signal-to-Noise Ratio
-# Part 5: The Countdown
 
 ## Thursday, November 13, 2008 — 21:00 PM Suite 200A
 
@@ -2892,7 +2866,6 @@ She drew a large square. She wrote a number inside it.
 ### Part 6: The Midnight Threshold
 
 # The Signal-to-Noise Ratio
-# Part 6: The Midnight Threshold
 
 ## Friday, November 14, 2008 — 08:30 AM WWRC Dining Hall
 
@@ -2935,7 +2908,6 @@ Four hours, she told herself. Just four hours until the Unit gets here.
 ### Part 1: The Pickup
 
 # The Extraction
-# Part 1: The Pickup
 
 ## Friday, November 14, 2008 — 13:00 PM Barnett Hall, Woodrow Wilson Rehabilitation Center
 
@@ -2980,7 +2952,6 @@ Harper let out a long, shuddering breath. She ripped the headphones off her neck
 ### Part 2: The Debrief
 
 # The Extraction
-# Part 2: The Debrief
 
 ## Friday, November 14, 2008 — 13:45 PM Interstate 81 South
 
@@ -3055,7 +3026,6 @@ He squeezed her knee.
 ### Part 3: The Reunion
 
 # The Extraction
-# Part 3: The Reunion
 
 ## Friday, November 14, 2008 — 15:00 PM 105 Pepper Street SE
 
@@ -3172,7 +3142,6 @@ The Base was secure. The Satellite was docked. And outside, the world could be a
 ### Part 1: The Intruder
 
 # The Closed Circuit
-# Part 1: The Intruder
 
 ## Friday, November 14, 2008 — 19:30 PM 105 Pepper Street SE
 
@@ -3237,7 +3206,6 @@ She tightened her grip on his shoulders.
 ### Part 2: The Emergency Brake
 
 # The Closed Circuit
-# Part 2: The Emergency Brake
 
 ## Friday, November 14, 2008 — 20:15 PM The Living Room
 
@@ -3298,7 +3266,6 @@ Harper let out a long breath. Her shoulders dropped. The tension that had been h
 ### Part 3: The Exception
 
 # The Closed Circuit
-# Part 3: The Exception
 
 ## Friday, November 14, 2008 — 22:00 PM The Silo (Master Bedroom)
 

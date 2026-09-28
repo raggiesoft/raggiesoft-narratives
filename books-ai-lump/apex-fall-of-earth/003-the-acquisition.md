@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Powder Keg
 
 # Wyatt – Orientation Day
-# Part 1: The Powder Keg
 
 Wyatt led Hayes down the grated metal catwalks of Sector 4. The air here was colder, smelling intensely of ozone and burning coolant. Below them, massive, automated drill rigs pounded into the Nevada bedrock with a rhythmic, bone-rattling thud.
 
@@ -49,7 +48,6 @@ She nodded, understanding perfectly. They both slipped away from the lab in tota
 ### Part 2: The Chain of Command
 
 # Wyatt – Orientation Day
-# Part 2: The Chain of Command
 
 Wyatt kept moving deeper into Sector 4, the metal grating of the catwalk ringing softly under his heavy steel-toed boots. Hayes was right behind him, her flashlight beam sweeping the shadows in steady, disciplined arcs. She was learning fast.
 
@@ -82,7 +80,6 @@ They both slipped away from the booth, descending deeper into the suffocating he
 ### Part 3: The Maintenance Closet
 
 # Wyatt – Orientation Day
-# Part 3: The Maintenance Closet
 
 Wyatt guided Hayes off the main catwalk, slipping into a narrow alcove hidden behind a massive, humming filtration bank. There was an unmarked, heavy steel door; he pulled the latch, checked the dark interior with his flashlight, and waved her inside.
 
@@ -131,7 +128,6 @@ Wyatt looked at the 18-year-old kid sitting across from him. He knew this facili
 ### Part 4: The Grind
 
 # Wyatt – Orientation Day
-# Part 4: The Grind
 
 Wyatt stepped back out of the maintenance closet and into the deafening hum of Sector 4. The heavy, lead-lined door clicked shut behind them, and the internal tracker on his standard-issue PDA violently pinged back to life, the warning yellow fading into a compliant, steady green. They were back on the grid.
 
@@ -164,7 +160,6 @@ He was glad she was the one who had walked through that turnstile.
 ### Part 5: The Break
 
 # Wyatt – Orientation Day
-# Part 5: The Break
 
 Six hours into the shift, the overhead PA system chimed with a dull, two-tone electronic bell. Mid-shift meal rotation.
 
@@ -215,7 +210,6 @@ Wyatt finished the last bite of his chalky ration bar, feeling a strange, unfami
 ### Part 6: 42-C
 
 # Wyatt – Orientation Day
-# Part 6: 42-C
 
 The twelve-hour mark hit, and the overhead PA system let out a long, droning buzz. Shift change.
 
@@ -274,7 +268,6 @@ He closed his eyes, holding her tight, and drifted off to sleep.
 ### Part 1: Wake Up Call
 
 # The Second Shift
-# Part 1: Wake Up Call
 
 The jarring, two-tone blare of the shift-change klaxon cut through the heavy air of the barracks.
 
@@ -353,7 +346,6 @@ A bright, genuine smile broke across Sarah's face, completely cutting through th
 ### Part 2: The Morning Ration
 
 # The Second Shift
-# Part 2: The Morning Ration
 
 Wyatt merged into the sluggish stream of gray-clad contractors heading down the neon-lit corridors toward the Mess Hall. The harsh fluorescent lights hummed their usual migraine-inducing tune, and the air smelled like the same stale mix of sweat, floor wax, and industrial dust.
 
@@ -396,7 +388,6 @@ Wyatt gave her hand a short, reassuring squeeze before pulling back, picking up 
 ### Part 3: The Checkpoint
 
 # The Second Shift
-# Part 3: The Checkpoint
 
 Wyatt tossed his empty, stamped-metal tray into the magnetic reclamation bin. Sarah dropped hers right after him, the metallic clatter lost in the low, anxious hum of the Mess Hall.
 
@@ -445,7 +436,6 @@ They both turned and began the long, steep descent into the suffocating heat and
 ### Part 4: The Telemetry Anomaly
 
 # The Second Shift
-# Part 4: The Telemetry Anomaly
 
 Wyatt guided Sarah off the primary elevator and onto the grated metal catwalks of Sector 4. The heat hit them instantly, rolling up from the deep-core shafts like a physical wave. The air tasted heavily of ozone, pulverized rock, and burning coolant.
 
@@ -514,7 +504,6 @@ Wyatt fell in right behind her, his broad frame shielding her back as they disap
 ### Part 5: The Anchor
 
 # The Second Shift
-# Part 5: The Anchor
 
 Wyatt followed Sarah into the dense, rusted labyrinth of the outer filtration banks. The air here was noticeably cooler, choked with a thick layer of pale Nevada dust that the automated scrubbers had long since stopped cleaning. The heavy lead shielding in the walls created a dead zone, and the ambient roar of the deep-core drills faded to a dull, distant throb.
 
@@ -589,7 +578,6 @@ They were in absolute sync. The tension of the unknown was gone, replaced by a q
 ### Part 6: The Ghost Shift
 
 # The Second Shift
-# Part 6: The Ghost Shift
 
 Wyatt led Sarah out of the lead-lined filtration banks and back onto the primary catwalks of Sector 4. The ambient roar of the deep-core drills swallowed the silence of their makeshift sanctuary, but the heavy, crushing anxiety that usually accompanied the noise was completely gone. They both knew exactly where they stood now.
 
@@ -650,7 +638,6 @@ The Apex facility around them was a rusted, failing nightmare on the brink of a 
 ### Part 7: The Blind Spot
 
 # The Second Shift
-# Part 7: The Blind Spot
 
 The "scenic route" through the abandoned filtration sectors led them away from the deafening thud of the deep-core drills and into the forgotten veins of the facility. Wyatt kept Sarah’s hand securely wrapped in his, pulling her slightly ahead of him as they navigated a narrow, rusted access corridor.
 
@@ -715,7 +702,6 @@ He pushed open the heavy blast doors, their flashlights clicking back on. They s
 ### Part 8: The Ghost Roster
 
 # The Second Shift
-# Part 8: The Ghost Roster
 
 Wyatt stepped back out onto the grated catwalk of Sector 4, the heavy, rusted blast door of the abandoned break area clunking shut behind them. The deafening, ambient roar of the deep-core drills instantly washed back over him, vibrating up through his heavy boots.
 
@@ -784,7 +770,6 @@ Wyatt led her away from the checkpoint, descending back into the blistering heat
 ### Part 9: The Sanctuary
 
 # The Second Shift
-# Part 9: The Sanctuary
 
 With two hours left on the twelve-hour clock, Wyatt subtly steered the patrol route back through the neglected outer filtration banks. The deafening thud of the deep-core drills faded into a distant, manageable throb. He kept his hand firmly laced with Sarah’s, their thumbs tracing slow circles against each other as they navigated the rusted, dust-choked corridors.
 
@@ -845,7 +830,6 @@ But out of their line of sight, hidden in the narrow space between their bodies,
 ### Part 10: Off the Clock
 
 # The Second Shift
-# Part 10: Off the Clock
 
 The twelve-hour klaxon finally screamed, a harsh, mechanical wail echoing down the grated catwalks of Sector 4. Around them, the few contractors who actually made it to the end of their perimeter routes slumped their shoulders in collective, crushing relief.
 
@@ -898,7 +882,6 @@ Wyatt didn't answer with words. He just pulled her back in.
 ### Part 11: Return to The Sanctuary
 
 # The Second Shift
-# Part 11: Return to The Sanctuary
 
 Wyatt lay in the dim, quiet shadows of the barricaded break room, their abrasive black Apex armor and crisp slate-blue Helios uniform hastily arranged into a makeshift pallet on the floor. The heavy, industrial roar of Sector 4 was nothing more than a muffled vibration in the floorboards.
 
@@ -971,7 +954,6 @@ Sarah let out a long, contented sigh against his chest, her breathing already st
 ### Part 1: The Illusion of Control
 
 # Day Three
-# Part 1: The Illusion of Control
 
 The harsh, two-tone wail of the facility’s shift-change klaxon didn’t reach Wyatt. Deep inside the lead-lined walls of the abandoned filtration sector, behind a heavy blast door wedged shut with a steel pipe, the morning arrived in absolute, undisturbed silence.
 
@@ -1044,7 +1026,6 @@ Instead, Wyatt unclipped his flashlight, ready to march back down into the suffo
 ### Part 2: The Veterans
 
 # Day Three
-# Part 2: The Veterans
 
 Wyatt and Sarah carried their dented metal trays away from the wall dispensers, scanning the packed Mess Hall for an empty spot. The deafening hum of the room was different today—more chaotic, underscored by the nervous energy of the two hundred new S.H.O.P. contractors who had arrived last night.
 
@@ -1101,7 +1082,6 @@ But as they turned their backs on the Mess Hall and headed toward the Security C
 ### Part 3: The Echo
 
 # Day Three
-# Part 3: The Echo
 
 Wyatt led the way out of the Mess Hall, tossing his empty tray into the reclamation bin. Sarah was right at his side, her steps perfectly synchronized with his. A few paces behind them, Miller and the new girl were following closely in their wake, instinctively using his broad, 6'1" frame to part the sea of aggressive, gray-clad contractors heading toward the Security Checkpoint.
 
@@ -1164,7 +1144,6 @@ Wyatt squeezed her hand, setting a slow, relaxed pace down the empty industrial 
 ### Part 4: The Bleeding Bedrock
 
 # Day Three
-# Part 4: The Bleeding Bedrock
 
 Wyatt and Sarah wandered off the primary catwalks, taking advantage of the blind spots in the surveillance grid to walk hand-in-hand through the blistering lower levels of Sector 4. The deeper they went, the more the air felt like a physical weight. It wasn't just the oppressive heat and the failing ventilation scrubbers whining in a desperate pitch. The gravity itself felt distinctly wrong down here—heavier and more punishing than the standard gravity on either of their home planets, dragging at their steel-toed boots with every step. The stench of sulfur and burning copper was thick enough to taste.
 
@@ -1225,7 +1204,6 @@ They both sat down on the narrow sofa, pulling the heavy deployment sleeping bag
 ### Part 5: The Pact
 
 # Day Three
-# Part 5: The Pact
 
 The heavy steel pipe was wedged firmly under the door handle. The dead air of the abandoned break room was completely still, a stark contrast to the vibrating, bleeding nightmare of Sector 4 just on the other side of the bulkhead.
 
@@ -1286,7 +1264,6 @@ He heaved the door open, stepping back out into the deafening, sulfur-choked rea
 ### Part 6: Clear Parameters
 
 # Day Three
-# Part 6: Clear Parameters
 
 Wyatt stepped out of the sanctuary, the heavy, rusted blast door screeching slightly before clunking shut behind them. The oppressive, sulfur-choked heat of Sector 4 hit him immediately, replacing the quiet intimacy of the break room with the deafening, bone-rattling roar of the deep-core drills.
 
@@ -1355,7 +1332,6 @@ They continued down the catwalk, the oppressive weight of the Apex facility comp
 ### Part 7: The Masterclass
 
 # Day Three
-# Part 7: The Masterclass
 
 The mid-shift PA chime rang a dull, two-tone electronic bell over the Sector 4 intercoms, barely cutting through the ambient roar of the facility. The mandatory, unpaid lunch break had started.
 
@@ -1408,7 +1384,6 @@ He pulled the steel pipe out from under the handle and heaved the blast door ope
 ### Part 8: The Ping
 
 # Day Three
-# Part 8: The Ping
 
 Wyatt stepped back onto the primary catwalks of Sector 4, the heavy blast door of their sanctuary locked safely behind them. The oppressive, sulfur-choked heat of the excavation levels swallowed them whole, replacing the quiet intimacy of the break room with the deafening, bone-rattling roar of the deep-core drills.
 
@@ -1461,7 +1436,6 @@ Still, Wyatt and Sarah didn't drop their guard for a single second. Apex Defense
 ### Part 9: The Prison Break
 
 # Day Three
-# Part 9: The Prison Break
 
 The deafening, mechanical wail of the twelve-hour klaxon finally bled through the heavy air of Sector 4. The shift was over.
 
@@ -1526,7 +1500,6 @@ They shared a loaded, desperate look, the romantic pact from the sofa now evolvi
 ### Part 10: The Fallen Hierarchy
 
 # Day Three
-# Part 10: The Fallen Hierarchy
 
 Wyatt pulled Sarah into the shadows of Sector 1's outer ring, leaving the chaotic, overflowing mess of Barracks 4 far behind them. The route back to the abandoned filtration banks required threading a very precise needle through the facility's blind spots, dodging the sweeping arcs of the few remaining security cameras.
 
@@ -1597,7 +1570,6 @@ He closed his eyes, holding her securely against him, and let the exhaustion pul
 ### Part 1: Structural Failure
 
 # Day Four
-# Part 1: Structural Failure
 
 The alarm on Wyatt's Level 1 PDA didn't wake him. He was already awake.
 
@@ -1654,7 +1626,6 @@ Before she could even unwrap her foil brick, the power grid surged violently, an
 ### Part 2: The Deployment
 
 # Day Four
-# Part 2: The Deployment
 
 The electronic screech of microphone feedback echoed through the Mess Hall, slicing through the darkness just as the emergency backup lights painfully flickered to life. The cavernous room was silenced completely.
 
@@ -1701,7 +1672,6 @@ But beneath the surface, their hearts were racing with pure, adrenaline-fueled t
 ### Part 3: The Transit
 
 # Day Four
-# Part 3: The Transit
 
 Before Wyatt could even turn away from the deployment kiosks, the concrete floor of the Mess Hall detonated.
 
@@ -1792,7 +1762,6 @@ Wyatt looked out the viewport at the endless sea of stars, his fingers locked pe
 ### Part 4: The Relic
 
 # Day Four
-# Part 4: The Relic
 
 A sharp, mechanical chirp from the hauler’s primary console broke the silence of the cabin.
 
@@ -1881,7 +1850,6 @@ They were locked in. They were completely safe.
 ### Part 5: The Captain\'s Quarters
 
 # Day Four
-# Part 5: The Captain\'s Quarters
 
 Wyatt turned away from the glowing amber CRT monitor and the heavy silence of the command center. He followed Sarah down the narrow, curved corridor of Outpost Delta 9.
 

@@ -10,7 +10,6 @@ series: ""
 ### Part 1: Atmospheric Entry
 
 # Planetfall
-# Part 1: Atmospheric Entry
 
 The chaotic, overlapping screams of the backlogged radio intercepts slowly faded from their minds, replaced once again by the steady, localized hum of *The Nomad’s* idling fusion core.
 
@@ -107,7 +106,6 @@ Wyatt stood up from the captain's chair, offering her his hand.
 ### Part 2: The First Steps
 
 # Planetfall
-# Part 2: The First Steps
 
 Wyatt and Sarah didn't run to the airlock. They walked.
 
@@ -252,7 +250,6 @@ The nightmare of Earth was millions of miles away. They were the only two humans
 ### Part 3: The Solar Bloom
 
 # Planetfall
-# Part 3: The Solar Bloom
 
 They walked away from the edge of the dark silicate plateau, following a gentle slope that led directly down into the river valley.
 
@@ -355,7 +352,6 @@ They were the very first pioneers of a brand new world, stepping into the warm a
 ### Part 4: The Footprint
 
 # Planetfall
-# Part 4: The Footprint
 
 To build a house, they needed tools.
 
@@ -420,7 +416,6 @@ They didn't have the timber yet. They didn't have the foundation poured. But sta
 ### Part 5: The True Face of Apex
 
 # Planetfall
-# Part 5: The True Face of Apex
 
 Lightyears away from the warm, sunlit river valley of Exoplanet 4, the atmosphere was entirely devoid of life or warmth.
 
@@ -487,7 +482,6 @@ The hunt for *The Nomad* had officially begun.
 ### Part 6: The Ghost Protocol
 
 # Planetfall
-# Part 6: The Ghost Protocol
 
 The golden hour had descended over the river valley, casting long, peaceful shadows across the vibrantly green forest canopy.
 
@@ -568,7 +562,6 @@ Apex was out there. The hunt was on. But they were dug in, they were armed with 
 ### Part 7: The Canopy
 
 # Planetfall
-# Part 7: The Canopy
 
 The digital scrub had bought them anonymity on the galactic grid, but as Wyatt looked out the viewport of the tech room at the fading golden light of the evening, his mechanic’s pragmatism refused to let him relax.
 
@@ -647,7 +640,6 @@ Wyatt wrapped his arms around her from behind, resting his chin on her shoulder.
 ### Part 8: The Blind Sweep
 
 # Planetfall
-# Part 8: The Blind Sweep
 
 Back on the sovereign planet of Acheron, the cold, blue light of the central command spire offered no comfort.
 
@@ -704,7 +696,6 @@ The hunt would continue, ravaging the outer arms of the galaxy, but Wyatt and Sa
 ### Part 9: The Vow
 
 # Planetfall
-# Part 9: The Vow
 
 The afternoon sun filtered through the towering canopy of the alien pines, casting dappled, golden light across the forest floor.
 
@@ -765,7 +756,6 @@ They sat on the warm stone for a long time, the ambient hum of the forest acting
 ### Part 10: The Living Light
 
 # Planetfall
-# Part 10: The Living Light
 
 As the golden sun finally dipped below the horizon, the sky over Exoplanet 4 didn't simply fade to black. It transitioned into a breathtaking tapestry of deep indigo and violet, giving way to an impossibly dense, glittering expanse of uncharted stars.
 
@@ -818,7 +808,6 @@ For the first time in their lives, they weren't surviving. They were exploring. 
 ### Part 11: Under the Stars
 
 # Planetfall
-# Part 11: Under the Stars
 
 The glowing, bioluminescent forest was entirely too beautiful to leave.
 
@@ -871,7 +860,6 @@ They lay there, entirely stripped of their corporate armor and their pasts, bath
 ### Part 1: The River
 
 # The First Morning
-# Part 1: The River
 
 For the first time in their entire lives, Wyatt and Sarah were not woken up by the harsh, mechanical blare of a shift klaxon or the sudden, blinding flicker of overhead fluorescent tubes.
 
@@ -938,7 +926,6 @@ As the meat hit the hot pan with a loud, satisfying sizzle, Wyatt leaned against
 ### Part 2: The Nomad
 
 # The First Morning
-# Part 2: The Nomad
 
 The rich, savory smell of sizzling bacon and the warm, buttery aroma of rehydrated eggs completely filled the compact galley. It was a staggering upgrade from the bleak, synthetic nutrient-paste they had survived on inside the Apex staging facility.
 
@@ -995,7 +982,6 @@ Sarah beamed, letting out a happy sigh as she picked up her fork again. "Good. B
 ### Part 3: The Blueprint
 
 # The First Morning
-# Part 3: The Blueprint
 
 Wyatt took the last bite of his bacon, leaning back in the heavy dining chair. The relief of not having to strip-mine the beautiful forest outside their window had settled deep into his chest. *The Nomad* was an indestructible, solar-powered fortress. It was a perfect home.
 
@@ -1038,7 +1024,6 @@ Wyatt set the clean skillet on the drying rack and turned around in her arms. He
 ### Part 4: The First Harvest
 
 # The First Morning
-# Part 4: The First Harvest
 
 Wyatt set the clean cast-iron skillet on the drying rack and turned to look at Sarah. He took in her fresh cotton t-shirt and clean denim shorts, and then looked down at his own clean clothes.
 
@@ -1103,7 +1088,6 @@ They didn't slow down when they hit the riverbank. They plunged directly into th
 ### Part 5: The Bait
 
 # The First Morning
-# Part 5: The Bait
 
 Lightyears away from the crystal-clear river and the warm, muddy banks of Exoplanet 4, High Director Kael was not enjoying the morning.
 
@@ -1156,7 +1140,6 @@ Kael looked back at the vast, empty projection of the galaxy. He didn't need to 
 ### Part 6: The Broken Snare
 
 # The First Morning
-# Part 6: The Broken Snare
 
 The crystal-clear water of the river had washed away the heavy, dark soil of their new garden, leaving Wyatt and Sarah refreshed, clean, and completely energized.
 
@@ -1231,7 +1214,6 @@ If they couldn't block it, they would just have to listen to it. But now, the co
 ### Part 7: The Eden Rule
 
 # The First Morning
-# Part 7: The Eden Rule
 
 They left the tech room and the looping, desperate threats of High Director Kael behind them. Stepping back out into the warm, **23.8°C** afternoon air, the contrast between the cold corporate machinery of their past and the vibrant, breathing reality of their present couldn't have been sharper.
 
@@ -1356,7 +1338,6 @@ Life on Exoplanet 4 was absolutely perfect.
 ### Part 1: The Floodplain
 
 # The High Ground
-# Part 1: The Floodplain
 
 The peaceful, sun-drenched afternoon slowly gave way to a heavy, suffocating humidity.
 
@@ -1415,7 +1396,6 @@ Wyatt engaged the main thrusters, tearing *The Nomad* out of the massive alien p
 ### Part 2: Dead Reckoning
 
 # The High Ground
-# Part 2: Dead Reckoning
 
 *The Nomad* tore upward through the massive alien canopy just as the sky completely unzipped.
 
@@ -1492,7 +1472,6 @@ Wyatt gritted his teeth, his eyes straining against the opaque gray void outside
 ### Part 3: The Mountain\'s Mouth
 
 # The High Ground
-# Part 3: The Mountain\'s Mouth
 
 The altimeter needle plummeted toward the zero-mark.
 
@@ -1551,7 +1530,6 @@ Wyatt unbuckled his harness and stood up, looking out at the incredibly vast, br
 ### Part 4: The Winter Window
 
 # The High Ground
-# Part 4: The Winter Window
 
 The heavy, weather-sealed airlock hissed, sliding open to reveal the interior of the docking umbilical. Wyatt and Sarah stepped through, the soles of their bare feet leaving damp prints on the pristine, heated deck plates.
 
@@ -1620,7 +1598,6 @@ Wyatt kissed her back, pulling her tightly against his chest as the storm raged 
 ### Part 5: The Genesis Vault
 
 # The High Ground
-# Part 5: The Genesis Vault
 
 The excitement of their winter timeline hovered in the warm air of the luxurious living room, but as Sarah looked down the long, illuminated corridor of empty suites, her analytical mind began to run the long-term numbers.
 
@@ -1683,7 +1660,6 @@ They didn't have to choose between leaving the planet or letting their family tr
 ### Part 6: The Genesis Vault
 
 # The High Ground
-# Part 6: The Genesis Vault
 
 The sheer magnitude of the billionaire's backup plan completely shifted the atmosphere in the room. The fear of a genetic bottleneck was gone, replaced by a profound, almost overwhelming sense of responsibility.
 
@@ -1734,7 +1710,6 @@ Wyatt looked out over the sea of glowing cryogenic pillars. The incredible weigh
 ### Part 7: The Master Kitchen
 
 # The High Ground
-# Part 7: The Master Kitchen
 
 The pneumatic elevator carried them swiftly up from the icy depths of the Genesis Vault, leaving the sleeping future of humanity safely secured in the bedrock.
 
@@ -1785,7 +1760,6 @@ Sarah smiled, leaning over to rest her head against his shoulder as they ate. "I
 ### Part 8: The Curriculum
 
 # The High Ground
-# Part 8: The Curriculum
 
 The last bite of truffle pasta vanished, and Wyatt set their empty ceramic plates into the massive, automated sanitization basin built into the marble island.
 
@@ -1840,7 +1814,6 @@ Wyatt pulled his wife close, the gentle cascade of the indoor waterfall drowning
 ### Part 9: The Saltwater Oasis
 
 # The High Ground
-# Part 9: The Saltwater Oasis
 
 Wyatt and Sarah waded deeper into the massive indoor pool, the steaming, crystal-clear water rising to their collarbones.
 
@@ -1955,7 +1928,6 @@ They were the Coltons. And tomorrow, their real life finally began.
 ### Part 1: The First Semester
 
 # The Architects
-# Part 1: The First Semester
 
 The morning light filtering through the camouflaged hydro-glass of the master suite was a soft, bruised gray.
 
@@ -2014,7 +1986,6 @@ Wyatt looked over at his wife, completely bare, intensely focused, and ready to 
 ### Part 2: The Debugger
 
 # The Architects
-# Part 2: The Debugger
 
 For the next three hours, the only sounds in the sprawling mahogany library were the steady drumming of the rain against the glass, the soft hum of the holographic table, and the occasional frustrated sigh from one of the two completely nude students.
 
@@ -2091,7 +2062,6 @@ She let out a delighted laugh, leaning over to wrap her arms around Wyatt's neck
 ### Part 3: The Earth Conservatory
 
 # The Architects
-# Part 3: The Earth Conservatory
 
 Sarah hit the final execution command on the holographic table, completely dissolving the massive cascade of SQL code. Wyatt closed his digital scratchpad, the complex thermal dynamics of the repulsor-coil fading into the glass.
 
@@ -2176,7 +2146,6 @@ Wyatt kissed the top of her head, completely anchored by her presence in the mid
 ### Part 4: The Ark
 
 # The Architects
-# Part 4: The Ark
 
 Sarah kept her hand pressed against the rough, textured bark of the massive White Oak. For a girl who had grown up in the failing, rust-choked agricultural colonies of the frontier, standing barefoot beneath a tree that had evolved millions of years ago on humanity's homeworld was a spiritual experience.
 
@@ -2237,7 +2206,6 @@ They sat by the reflecting pond for a long time, simply soaking in the absolute 
 ### Part 5: Comfort Food
 
 # The Architects
-# Part 5: Comfort Food
 
 As if on cue, Wyatt’s stomach let out another long, echoing rumble that completely broke the profound silence of the Earth Conservatory.
 
@@ -2296,7 +2264,6 @@ Wyatt tapped his glass bottle gently against hers with a pleasant *clink*. "To c
 ### Part 6: Hello World
 
 # The Architects
-# Part 6: Hello World
 
 The ceramic bowls were rinsed and stacked neatly in the sink. With their stomachs comfortably full of macaroni and cheese, the immediate domestic necessity of the kitchen was over.
 
@@ -2395,7 +2362,6 @@ He looked from the impressive digital architecture back to the completely bare, 
 ### Part 7: Biology 101
 
 # The Architects
-# Part 7: Biology 101
 
 Sarah dismissed the holographic web browser with a swipe of her hand, the floating table of the Genesis Vault receding back into the glass terminal. The thrill of coding her first dynamic intranet page was settling, making room for the profound, human reality of what she had just been organizing.
 
@@ -2456,7 +2422,6 @@ Sarah looked at her hands, the sheer, staggering weight of their new reality set
 ### Part 8: The Vitality Roster
 
 # The Architects
-# Part 8: The Vitality Roster
 
 The revelation that their mountain fortress included a fully equipped obstetric suite completely changed the gravity of the afternoon.
 
@@ -2543,7 +2508,6 @@ As the pneumatic elevator carried them back up to the warmth of the living quart
 ### Part 9: The Facelift
 
 # The Architects
-# Part 9: The Facelift
 
 The pneumatic elevator carried them swiftly away from the freezing, sterile blue light of the Genesis Vault and back up into the warm, flawless **21.6°C** climate of the main estate.
 
@@ -2602,7 +2566,6 @@ They were erasing the last physical footprint of Apex Defense Solutions, molding
 ### Part 10: The First Generation
 
 # The Architects
-# Part 10: The First Generation
 
 Wyatt finalized the aesthetic rendering of *The Nomad's* new outer hull, sending the sleek, aerodynamic blueprints directly to the automated Fabrication Foundry on Sub-Level 2. Deep beneath their feet, the massive 3D printers and robotic arms would spend the next several days quietly stripping the megacorporation's blocky armor from their ship and forging a brand new, untraceable silhouette.
 
@@ -2669,7 +2632,6 @@ They rested against the edge of the pool, completely at peace as the evening slo
 ### Part 11: The First Landing
 
 # The Architects
-# Part 11: The First Landing
 
 The warm saltwater of the indoor pool lapped gently against the smooth stone edge. Wyatt and Sarah rested their arms on the lip of the basin, completely bare, looking out through the massive hydro-glass window.
 
@@ -2730,7 +2692,6 @@ Sarah rested her hands over his, listening to the soft, rhythmic drumming of the
 ### Part 12: The Parent Protocol
 
 # The Architects
-# Part 12: The Parent Protocol
 
 The localized geothermal fireplace cast a warm, flickering amber glow across the sprawling expanse of the Alaskan King bed. Outside, the steady, rhythmic drumming of the rain against the camouflaged hydro-glass window provided a perfect, soothing lullaby.
 
@@ -2775,7 +2736,6 @@ Wyatt kissed the top of her head one last time, listening to the gentle rain, an
 ### Part 1: The Upgrade
 
 # The Pioneers
-# Part 1: The Upgrade
 
 The soft, natural light of the morning slowly filtered through the massive, camouflaged hydro-glass window of the master suite. The violent super-cell storm had finally exhausted itself overnight, leaving behind a quiet, misty drizzle that painted the flooded valley below in muted shades of silver and gray.
 
@@ -2828,7 +2788,6 @@ They lay perfectly still in the quiet warmth of the estate, completely shedding 
 ### Part 2: The Archives
 
 # The Pioneers
-# Part 2: The Archives
 
 An hour later, the absolute luxury of the Alaskan King bed finally yielded to the practical reality of their empty stomachs.
 
@@ -2885,7 +2844,6 @@ Sarah laughed, cutting into her breakfast. The terrifying unknown of starting a 
 ### Part 3: The Husk
 
 # The Pioneers
-# Part 3: The Husk
 
 The sprawling master kitchen was clean, the plates were loaded into the automated sanitization basin, and the comforting aroma of French toast was already fading into the ambient, filtered air of the estate.
 
@@ -2964,7 +2922,6 @@ Earth was gone, left behind as a scorched, broken monument to corporate hubris. 
 ### Part 4: The Lost Time
 
 # The Pioneers
-# Part 4: The Lost Time
 
 The heavy pneumatic elevator carried them swiftly away from the blinding plasma sparks and deafening industrial roar of the Fabrication Foundry. As the brushed-steel doors parted, depositing them back onto the main level, the quiet, pristine luxury of the mountain estate welcomed them back.
 
@@ -3039,7 +2996,6 @@ Wyatt looked back at the glowing blue timeline of human development floating abo
 ### Part 5: The Trade-Off
 
 # The Pioneers
-# Part 5: The Trade-Off
 
 Two hours of intense, theoretical study was enough for one morning. Wyatt closed the holographic module on atmospheric fluid dynamics, and Sarah dismissed her network architecture text with a tired but satisfied sigh.
 
@@ -3122,7 +3078,6 @@ Wyatt kissed her back, his heavy arms holding her securely against the warm ston
 ### Part 6: The Mapmakers
 
 # The Pioneers
-# Part 6: The Mapmakers
 
 The heavy, rhythmic hum of the automated sanitization cycle vibrated faintly through the polished stone walls as Wyatt and Sarah walked away from the pneumatic chute.
 
@@ -3191,7 +3146,6 @@ They weren't just surviving anymore. They had officially named their home, layin
 ### Part 7: The Six Moons
 
 # The Pioneers
-# Part 7: The Six Moons
 
 The holographic projection of the newly named Helios System hovered beautifully above the heavy glass coffee table. In the center of the recessed living room, bathed in the warm, ambient light of the geothermal fire pit, Wyatt and Sarah sat completely bare, comfortably entwined on the plush sectional sofa.
 
@@ -3276,7 +3230,6 @@ Wyatt kissed her, a deep, slow, and profoundly loving seal on their new reality.
 ### Part 8: The Petrichor
 
 # The Pioneers
-# Part 8: The Petrichor
 
 The relentless, oceanic drumming against the hydro-glass windows slowly began to soften.
 
@@ -3349,7 +3302,6 @@ Here, on the terrace of The Sanctuary, there was only the wind, the water, and e
 ### Part 9: The Runabout
 
 # The Pioneers
-# Part 9: The Runabout
 
 The cool, rain-washed breeze sweeping across the observation terrace was incredibly refreshing, but the fresh air eventually did exactly what it always did: it made them hungry.
 
@@ -3420,7 +3372,6 @@ Sarah didn't hesitate. She climbed into the sleek cabin, dropping into the plush
 ### Part 1: The Maiden Voyage
 
 # Planet Eden
-# Part 1: The Maiden Voyage
 
 Wyatt sat in the pilot’s seat of the sleek, silver runabout, his hands resting lightly on the incredibly streamlined digital control yoke. The leather was soft and pristine, the cabin smelling like fresh polymer and clean air.
 
@@ -3483,7 +3434,6 @@ The sun was slowly beginning its descent toward the western horizon, painting th
 ### Part 2: The Alpine Meadow
 
 # Planet Eden
-# Part 2: The Alpine Meadow
 
 "Take us to the mountains," Sarah decided, her eyes locked onto the jagged, towering peaks piercing the horizon. "I want to see the snow."
 
@@ -3550,7 +3500,6 @@ Wyatt pulled the heavy top layer of the deployment bag over their bare shoulders
 ### Part 3: Anchor
 
 # Planet Eden
-# Part 3: Anchor
 
 The first golden rays of Helios crested the jagged, snow-capped peaks, spilling down into the alpine meadow and washing over the heavy deployment sleeping bag.
 
@@ -3697,7 +3646,6 @@ Got it! I am locking that triplet pregnancy twist firmly into the master timelin
 ### Part 4: The Lunar Bound
 
 # Planet Eden
-# Part 4: The Lunar Bound
 
 Wyatt and Sarah stood on the pale, dusty surface of Anchor, staring up at the massive, swirling blue-and-green jewel of Planet Eden dominating the pitch-black sky.
 
@@ -3754,7 +3702,6 @@ They turned around, taking long, bounding, slow-motion leaps back across the gra
 ### Part 5: The Reading List
 
 # Planet Eden
-# Part 5: The Reading List
 
 The sleek, silver runabout glided silently back into the cavernous, illuminated hangar of the mountain estate. Wyatt eased the throttles back, and the repulsorlifts set the ship gently down onto the polished stone floor.
 
@@ -3805,7 +3752,6 @@ They were entirely, blissfully unaware that deep inside Sarah's body, the rapid,
 ### Part 6: The 2002 Fiction
 
 # Planet Eden
-# Part 6: The 2002 Fiction
 
 The holographic glass table in the center of the library glowed with a soft, steady blue light, displaying a staggering array of human developmental charts.
 
@@ -3852,7 +3798,6 @@ They sat together in the quiet luxury of the estate, completely secure in their 
 ### Part 7: The Terrace Picnic
 
 # Planet Eden
-# Part 7: The Terrace Picnic
 
 Wyatt waved his hand through the holographic projection of the neonatal charts, and the glowing blue light of the library table faded seamlessly back into the dark glass.
 
@@ -3911,7 +3856,6 @@ They were entirely secure in their fortress, completely confident in the timelin
 ### Part 8: The Gravity Tax
 
 # Planet Eden
-# Part 8: The Gravity Tax
 
 The sun began its slow descent toward the western horizon, casting long, lazy shadows across the wet stone of the observation terrace.
 
@@ -3968,7 +3912,6 @@ Wyatt looked down at her. She was a pioneer who had lost her first crop to a flo
 ### Part 9: Sowing the Seeds
 
 # Planet Eden
-# Part 9: Sowing the Seeds
 
 The pneumatic elevator hummed softly as it carried them down to Sub-Level 1. When the brushed-steel doors parted, the transition was instantly intoxicating.
 
@@ -4037,7 +3980,6 @@ They had lost the valley garden, but they had just successfully planted their ve
 ### Part 10: The Architect
 
 # Planet Eden
-# Part 10: The Architect
 
 The simulated golden hour in the Earth Conservatory had fully transitioned into a vibrant twilight. The massive micro-LED vaulted ceiling shifted seamlessly from a bright blue to a deep, bruised violet, matching the real-world evening settling over Exoplanet 4.
 
@@ -4160,7 +4102,6 @@ They were going to be parents. And they were starting right now.
 ### Part 11: The Overcompensation
 
 # Planet Eden
-# Part 11: The Overcompensation
 
 The simulated violet twilight of the Earth Conservatory wrapped around them, but the massive, vaulted room suddenly felt incredibly small and intimate.
 
@@ -4229,7 +4170,6 @@ They left the hand trowels and the forged steel spade resting in the dirt of the
 ### Part 1: Three Pulses
 
 # The Blueprint
-# Part 1: Three Pulses
 
 The pneumatic elevator carried them swiftly away from the simulated twilight of the Earth Conservatory, dropping them smoothly to Sub-Level 1.
 
@@ -4382,7 +4322,6 @@ Here is how we will lock this unspoken, beautiful routine into their character p
 ### Part 2: The Multiplier
 
 # The Blueprint
-# Part 2: The Multiplier
 
 The sterile, brilliant white light of the medical wing suddenly felt incredibly warm.
 
@@ -4435,7 +4374,6 @@ Wyatt nodded, completely anchored by her calm, radiant energy. As they stepped i
 ### Part 3: Tax Evasion and Timber
 
 # The Blueprint
-# Part 3: Tax Evasion and Timber
 
 They left the sterile, brilliantly lit medical wing in a complete daze of absolute euphoria.
 
@@ -4524,7 +4462,6 @@ Just a few weeks ago, their biggest concern was surviving a twelve-hour shift wi
 ### Part 4: The 50,000 Crib Deficit
 
 # The Blueprint
-# Part 4: The 50,000 Crib Deficit
 
 The noise was absolute, deafening chaos.
 
@@ -4623,7 +4560,6 @@ The universe was safe. The vault was sleeping. And as the brushed-steel doors cl
 ### Part 5: The Constitution
 
 # The Blueprint
-# Part 5: The Constitution
 
 The morning sun filtered through the hydro-glass windows of the library, casting a warm, natural light over the rich mahogany panels. The torrential rain of the super-cell storm had completely passed, leaving behind a flawless, brilliant blue sky over the flooded valley.
 
@@ -4690,7 +4626,6 @@ They weren't just going to be parents. They were the founding mother and father 
 ### Part 6: The Agrarian Model
 
 # The Blueprint
-# Part 6: The Agrarian Model
 
 The holographic glass table in the center of the library rippled, the glowing blue data streams of modern macroeconomics dissolving into warm, golden-hued geographical projections.
 
@@ -4761,7 +4696,6 @@ They sat together in the warm, mahogany-paneled room, entirely bare to the world
 ### Part 7: The Wardrobe
 
 # The Blueprint
-# Part 7: The Wardrobe
 
 The transition from May into early June on Planet Eden was completely seamless. The heavy, torrential rains of the wet season had largely given way to bright, brilliantly clear mornings and warm, lazy afternoons.
 
@@ -4834,7 +4768,6 @@ Wyatt kissed her, a deep, lingering promise of the beautiful, chaotic future rac
 ### Part 8: The Toll of Three
 
 # The Blueprint
-# Part 8: The Toll of Three
 
 The silver, teardrop-shaped atmospheric shuttle glided silently over the sprawling alien pine canopy, banking smoothly as it descended toward the river valley.
 
@@ -4909,7 +4842,6 @@ Wyatt kept one hand on the yoke, reaching out with the other to firmly grip Sara
 ### Part 9: The Remedy
 
 # The Blueprint
-# Part 9: The Remedy
 
 The silver runabout shot through the camouflaged holographic rock face and slammed down onto the polished stone floor of the primary hangar.
 
@@ -4988,7 +4920,6 @@ The lingering nausea faded a little more, replaced by a profound, overwhelming s
 ### Part 10: The Chariot
 
 # The Blueprint
-# Part 10: The Chariot
 
 The last drop of the clear, life-saving IV fluid finally emptied from the sterile bag.
 
@@ -5061,7 +4992,6 @@ Sarah looked up at him, entirely overwhelmed by his quiet, unwavering dedication
 ### Part 11: The Craving
 
 # The Blueprint
-# Part 11: The Craving
 
 The sleek, brushed-aluminum wheelchair glided silently over the polished stone floors, the frictionless bearings making the journey down the wide corridor entirely effortless.
 
@@ -5162,7 +5092,6 @@ The timeline had accelerated, but as she rubbed her hand over her expanding bell
 ### Part 12: The Foundation
 
 # The Blueprint
-# Part 12: The Foundation
 
 The frictionless glide of the brushed-aluminum wheelchair was completely silent as Wyatt pushed Sarah through the wide, open doorways of the estate's library.
 

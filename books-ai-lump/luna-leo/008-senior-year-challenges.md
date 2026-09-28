@@ -10,7 +10,6 @@ series: ""
 ### Part 1: An Unseen Ally
 
 # The Best Friend
-# Part 1: An Unseen Ally
 
 The bell indicating the end of second period on a crisp Purple Day in the fall of their senior year (2002) was still a couple of minutes away, but for Leo and Luna Porter, Latin class on the second floor of Northwood High was already concluding. Their teacher, Ms. Evelyn Reed, a kind woman who understood their IEP needs, always dismissed them precisely two minutes early from their second-period Latin IV class. This small accommodation was a lifeline, allowing them to navigate the hallways and, crucially, reach the school’s often-congested single elevator before the chaotic flood of students erupted from classrooms for the transition to third period. Today, third period for their grade was a mandatory assembly in the auditorium, focused on the upcoming November elections and the daunting college application process.
 
@@ -61,7 +60,6 @@ Luna settled beside Leo, a new thought forming: *I wonder who that girl was?* Th
 ### Part 2: College and Elections Assembly
 
 # The Best Friend
-# Part 2: College and Elections Assembly
 
 The Northwood High auditorium buzzed with the restless energy of seniors corralled into yet another mandatory assembly during third period. It was late October 2002, a crisp autumn Purple Day, and the topic – how to register to vote for the upcoming November elections and the daunting process of college application submission – felt weighty and a bit overwhelming to many. An illuminated red EXIT sign glowed above a side door, not far from where Luna and Leo Porter found their usual accessible seating. Luna's backpack rested on the floor beside her.
 
@@ -104,7 +102,6 @@ As the assembly finally droned to its conclusion with information about local po
 ### Part 3: A Grateful Introduction
 
 # The Best Friend
-# Part 3: A Grateful Introduction
 
 The voter registration and college application assembly concluded, and the auditorium slowly began to empty. Third period was nearly over. For many seniors, including Luna, Leo, and Olivia Walker, this meant their lunch period was next, fourth period, but the cafeteria wouldn't open for another few minutes. Students milled about in the main school lobby outside the auditorium, waiting for the bell.
 
@@ -151,7 +148,6 @@ Leo nodded, a thoughtful, almost peaceful expression settling on his face. YES. 
 ### Part 4: Cafeteria Connection, Contact Exchange, and a Vile Misinterpretation
 
 # The Best Friend
-# Part 4: Cafeteria Connection, Contact Exchange, and a Vile Misinterpretation
 
 A few days later, the memory of Josh Riley's unpleasantness had faded somewhat, largely overshadowed by the surprising kindness of Olivia Walker. It was another Purple Day at Northwood High, meaning Luna, Leo, and Olivia shared the same fourth-period lunch. The Porter twins were just stepping out of the quiet of Mrs. Henderson's clinic, having taken their lunchtime medication, when a familiar, friendly voice called out from the bustling main lobby.
 
@@ -226,7 +222,6 @@ A few minutes later, they were in Luna’s slightly battered but reliable sedan.
 ### Part 1: An Afternoon Visit and Gathering Clouds
 
 # A Stormy Night, A Steadfast Friend
-# Part 1: An Afternoon Visit and Gathering Clouds
 
 It was a brisk Friday afternoon in mid-November 2002, the end of a long school week for Leo Porter and Olivia Walker. As was often their custom during their senior year at Northwood High, Olivia had come home with Leo and Luna to the Porter house at 1091 Daniel Maloney Drive, Virginia Beach. Their friendship, which had blossomed after Olivia had courageously defended Leo against Josh Riley's bullying earlier in the year, had quickly deepened into a bond of "practically inseparable" best friends. They were currently immersed in a joint presentation for their American Government class, a common focus for their after-school time together.
 
@@ -241,7 +236,6 @@ Olivia, noticing his unease, began to gather her scattered books and papers. "I 
 ### Part 2: An Invitation in the Storm – And Stella's Call
 
 # A Stormy Night, A Steadfast Friend
-# Part 2: An Invitation in the Storm – And Stella's Call
 
 Just as Olivia finished her sentence, a much louder, more definitive clap of thunder echoed, this one feeling significantly closer, making both of them jump. Simultaneously, the heavens opened, and rain began to fall in earnest, quickly escalating to a torrential downpour that lashed against the windows with a sudden, fierce intensity. Leo flinched visibly, his focus on their government project completely shattered. Thunderstorms, especially powerful ones that arrived with such ferocity and particularly as night approached, were a well-known and significant trigger for his anxiety.
 
@@ -268,7 +262,6 @@ Leo looked from Stella’s reassuring face to Olivia’s, a mixture of profound 
 ### Part 3: Weathering the Storm – A Best Friend's Comfort
 
 # A Stormy Night, A Steadfast Friend
-# Part 3: Weathering the Storm – A Best Friend's Comfort
 
 Stella, true to her word, whipped up a comforting dinner of pasta with a simple sauce, the normalcy of the task a small anchor against the storm’s fury. They ate in the living room, the television providing a low murmur of distraction, though Leo mostly picked at his food, his gaze frequently darting towards the windows as lightning illuminated the room in stark, unsettling flashes, followed by window-rattling cracks of thunder.
 
@@ -305,7 +298,6 @@ He wasn't alone with his terror. Olivia was there, a calm, loving presence, prov
 ### Part 4: Morning Calm and Sisterly Smiles
 
 # A Stormy Night, A Steadfast Friend
-# Part 4: Morning Calm and Sisterly Smiles
 
 The first light of Saturday morning filtered softly through the blinds of Leo’s bedroom, painting gentle stripes across the room. The ferocious thunderstorm had finally passed, leaving behind a world washed clean, the air fresh and cool.
 
@@ -342,7 +334,6 @@ As Stella began to mix pancake batter, the conversation turning to school, the l
 ### Part 5: Saturday Respite and a Planned Weekend Stay
 
 # A Stormy Night, A Steadfast Friend
-# Part 5: Saturday Respite and a Planned Weekend Stay
 
 The aroma of Stella’s pancakes soon filled the cozy house at 1091 Daniel Maloney Drive, a cheerful counterpoint to the lingering evidence of the previous night’s fierce thunderstorm outside. Gutters overflowed, and the streets of their Virginia Beach neighborhood showed puddles from the deluge, but inside, a sense of calm and comfortable normalcy prevailed. Leo and Olivia Walker, their earlier nervousness about the "morning after" completely dispelled by Stella and Luna’s easy acceptance, joined the sisters at the kitchen table, the atmosphere light and relaxed.
 
@@ -393,7 +384,6 @@ He smiled in the darkness. With Olivia beside him, safe and sound for the whole 
 ### Part 6: A Sunday of Simple Comforts and Vintage Tech
 
 # A Stormy Night, A Steadfast Friend
-# Part 6: A Sunday of Simple Comforts and Vintage Tech
 
 Sunday morning at 1091 Daniel Maloney Drive dawned with a quiet, settled peace, the previous day’s planned activities—retrieving Olivia Walker’s gear from her house on Livingston Oak Drive, finishing their Government presentation, and the delightfully terrible "Carnival of Cosmic Creeps" movie night—having cemented the easy rhythm of her weekend stay. Olivia and Leo had woken up comfortable and refreshed, their established platonic bed-sharing a source of quiet security for Leo.
 
@@ -452,7 +442,6 @@ Leo grinned and nodded, ready to share more of this cherished part of his world.
 ### Part 7: A Sunday Well Spent – Comforts, Chores, and Continued Connection
 
 # A Stormy Night, A Steadfast Friend
-# Part 7: A Sunday Well Spent – Comforts, Chores, and Continued Connection
 
 The afternoon sun streamed into Leo’s bedroom at 1091 Daniel Maloney Drive, illuminating dust motes dancing in the air as Luna, Leo, and Olivia Walker continued their exploration of the vintage MagnaByte Opus computers. Luna, with her growing technical savvy, might have been showing Olivia some of the more advanced features of MagnaDraw or how they organized their notes for different classes in MagnaFile. Leo, energized by Olivia’s genuine interest in this technology so vital to him, eagerly typed out explanations and anecdotes in MagnaWriter, the clicky keys a cheerful counterpoint to their conversation.
 
@@ -487,7 +476,6 @@ He smiled in the darkness. With Olivia beside him, rested and ready for the week
 ### Part 8: A Guardian’s Trust
 
 # A Stormy Night, A Steadfast Friend
-# Part 8: A Guardian’s Trust
 
 It was a quiet weeknight in the fall of their senior year. Luna and Leo were in the living room, side-by-side at their MagnaByte Opus workstations, the familiar, rhythmic click-clack of their keyboards filling the air as they worked on a history paper.
 
@@ -522,7 +510,6 @@ In the other room, the sound of the MagnaByte GraphiPrint whirring to life, prin
 ### Part 1: A Quiet Evening Promised
 
 # New Year's Eve Reckoning
-# Part 1: A Quiet Evening Promised
 
 The invitation had come a week before, delivered by Richard Porter during a brief, somewhat stilted phone call to Stella. New Year’s Eve, he’d proposed, could be a quiet family affair at his and Elizabeth’s Virginia Beach home for his seventeen-year-old grandchildren, Luna and Leo. He’d painted a picture of subdued celebration: perhaps a board game or two, some old family movies Stella might remember from her own childhood (though she had few fond memories of such with her own parents), and a selection of special snacks as they all waited to watch the televised ball drop from Times Square. "Just a nice, calm way for them to ring in 2003 with their grandparents," Richard had assured Stella. "Get to know them a bit better, you know. No fuss."
 
@@ -555,7 +542,6 @@ Leo and Luna, while still carrying the inherent caution born of their, began to 
 ### Part 2: The Shift – After Stella Leaves
 
 # New Year's Eve Reckoning
-# Part 2: The Shift – After Stella Leaves
 
 For about an hour after Stella’s Holt Sentinel pulled away from the curb, the quiet in Richard and Elizabeth Porter’s Virginia Beach home held. Luna and Leo, both seventeen and navigating the still somewhat unfamiliar territory of their paternal grandparents' company, had politely finished a game of checkers with Richard. Elizabeth had offered them more cookies and another glass of soda, fussing over them in a way that felt slightly performative but not overtly unpleasant. They were just beginning to think that perhaps this New Year’s Eve wouldn't be a complete write-off, that maybe a calm evening watching the television specials was indeed the plan. Leo had even started to relax slightly in his wheelchair, the tension in his shoulders easing as he observed the mundane holiday programming flickering on the screen in the living room.
 
@@ -574,7 +560,6 @@ Grandma Elizabeth, far from intervening, was actually encouraging it. She laughe
 ### Part 3: Overload and Observation – The Decision Forms
 
 # New Year's Eve Reckoning
-# Part 3: Overload and Observation – The Decision Forms
 
 For Luna and Leo, the sudden transformation of their paternal grandparents' home from a quiet haven into a pulsating, crowded party was an immediate and overwhelming assault. The thumping bass of the music, cranked to a volume that seemed to vibrate the very walls and floorboards, hammered directly into Leo’s skull, a relentless physical pressure. He instinctively tried to shrink into the corner of the sofa where he and Luna had taken refuge, his hands subtly moving towards his ears, though he knew it would do little to block the invasive sound. The living room, moments before spacious and calm, was now a suffocating crush of unfamiliar teenagers – neighbors they barely knew – shouting over the music, their laughter too loud, their movements erratic and unpredictable. Bright, flashing decorative lights someone had produced and plugged in, perhaps in an attempt to create a “party atmosphere,” pulsed erratically, adding to the visual chaos.
 
@@ -599,7 +584,6 @@ In a shared look of misery, revulsion, and absolute resolve, their decision was 
 ### Part 4: The Call for Rescue
 
 # New Year's Eve Reckoning
-# Part 4: The Call for Rescue
 
 The decision, once made in that silent, shared glance of revulsion between Luna and Leo, was absolute. They had to get out. The thumping bass of the music was a physical assault, vibrating not just the walls but deep within their chests, making coherent thought nearly impossible. The air was thick with the cloying smell of spilled beer, cheap perfume, and teenage sweat. Shouts and shrieks of laughter, amplified by alcohol and the enclosed space, ricocheted around them. For Luna and Leo, both acutely sensitive to sensory input due to their autism, it was a nightmare.
 
@@ -634,7 +618,6 @@ Together, they squeezed past the teens still raiding the fridge and made their w
 ### Part 5: Extraction and Stella\'s Quiet Wrath
 
 # New Year's Eve Reckoning
-# Part 5: Extraction and Stella\'s Quiet Wrath
 
 The twenty minutes it took Stella to drive from her Virginia Beach house to Richard and Elizabeth Porter’s neighborhood felt like an eternity, her knuckles white on the steering wheel of the Holt Sentinel. The garbled, terrified plea from Luna over the phone, barely audible above the roar of what was clearly an out-of-control party, had sent a jolt of pure adrenaline mixed with icy rage through her. Deception. Endangerment. The sheer, breathtaking irresponsibility of it made her blood boil. She had trusted them, however tentatively, with her seventeen-year-old siblings, based on their promise of a quiet, supervised New Year’s Eve. That trust now felt like a naive folly.
 
@@ -669,7 +652,6 @@ The party noise seemed to swell around them again as they made their exit, a few
 ### Part 6: The Drive Away & A Fitting Finale
 
 # New Year's Eve Reckoning
-# Part 6: The Drive Away & A Fitting Finale
 
 The final hours of December 31, 2002, at Richard and Elizabeth Porter’s Virginia Beach home had devolved into a special kind of nightmare for seventeen-year-old Leo and Luna. The quiet family evening their paternal grandparents had promised to Stella had been a blatant deception. Shortly after Stella’s departure, their grandparents’ house had transformed into a pulsating, out-of-control teenage party, fueled by alcohol Richard Porter himself provided to the underage guests.
 
@@ -712,7 +694,6 @@ Leo’s smile, if possible, grew wider. This disastrous New Year’s Eve, which 
 ### Part 7: A Quiet Countdown, A Noisy Neighborhood
 
 # New Year's Eve Reckoning
-# Part 7: A Quiet Countdown, A Noisy Neighborhood
 
 The quiet sanctuary of Stella’s accessible house at 1091 Daniel Maloney Drive, Virginia Beach, welcomed them like a warm embrace. The moment the front door of the Holt Sentinel closed behind them, sealing out the memory of Richard and Elizabeth Porter’s disastrous party, a collective sigh of profound relief rippled through Stella, Luna, Leo, and Olivia Walker. The chaotic noise, the oppressive atmosphere, the sheer irresponsibility—it all began to recede, replaced by the immediate comfort of safety and trusted company.
 
@@ -755,7 +736,6 @@ He closed his eyes, the familiar, comforting weight of Olivia beside him, her st
 ### Part 1: Calculus Tutoring
 
 # The Flute’s Refrain
-# Part 1: Calculus Tutoring
 
 Olivia arrived, spotting Leo and heading over with her calculus textbook. "Hey Leo! Sorry if I'm a few minutes late, that club meeting ran over. Ready to tackle Problem Set \#7?"
 
@@ -808,7 +788,6 @@ The moment passed, but Jessica’s confused and clearly exasperated expression l
 ### Part 2: An Unwanted Attempt
 
 # The Flute’s Refrain
-# Part 2: An Unwanted Attempt
 
 Leo was reviewing notes on his Quantum Communicator XT, mentally preparing for his first period class. It was a Purple Day. Luna was still on her way, likely having a quick chat with Mr. Thompson in the band room before the bell. Olivia had mentioned she needed to make a quick stop at her locker and then planned to meet him here by the library so they could walk to their first shared class together. He valued these few quiet moments before the rush.
 
@@ -863,7 +842,6 @@ Leo managed a weak smile. Knowing they were there, understanding his silent sign
 ### Part 3: Band Room Practice
 
 # The Flute’s Refrain
-# Part 3: Band Room Practice
 
 The Northwood High band room was quiet in the late afternoon, a Thursday in Spring 2003. It was a welcome lull after the day’s scheduled chaos. Luna Porter stood near a music stand, her flute in hand, the intricate melody of a classical piece chosen for the upcoming spring concert drifting through the room. Her notes were clear and focused as she worked through a challenging passage. An illuminated red EXIT sign glowed above the far door.
 
@@ -908,7 +886,6 @@ Luna’s smile was warm and genuine. "Always, Leo," she mouthed back. Olivia rea
 ### Part 4: Mall Eats and Movie Anticipation
 
 # The Flute’s Refrain
-# Part 4: Mall Eats and Movie Anticipation
 
 The reliable Holt Sentinel, Stella at the wheel, pulled smoothly into a parking spot at Thomas Corner Mall. Luna, beside her in the front, was already buzzing about the movie, while Leo, in the back, watched the familiar mall entrance approach with quiet anticipation. Stella had been firm about this outing; a bit of normalcy, a fun afternoon at the movies, was exactly what they all needed.
 
@@ -933,7 +910,6 @@ Gathering their things, the group made their way through the mall towards the ci
 ### Part 5: Saturday Matinee and a Souring Mood
 
 # The Flute’s Refrain
-# Part 5: Saturday Matinee and a Souring Mood
 
 Their meal finished amidst laughter and excited chatter, the remnants of burgers and fries from Golden Star Burgers littering the table. Stella crumpled her napkin. "Alright, movie moguls, time to head to the theater. Don't want to miss the previews!"
 

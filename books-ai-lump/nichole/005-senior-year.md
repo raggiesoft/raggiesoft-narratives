@@ -10,7 +10,6 @@ series: "Nichole"
 ### Part 1: The Breach
 
 # Graduation
-# Part 1: The Breach
 
 ## Date: June 14, 2003 Location: Northwood High School Gymnasium, Virginia Beach, VA Event: Class of 2003 Commencement
 
@@ -91,7 +90,6 @@ And the band played on.
 ### Part 2: The Empty Chair
 
 # Graduation
-# Part 2: The Empty Chair
 
 ## Patrick’s Point of View
 
@@ -220,7 +218,6 @@ She shivered, burying her face in her knees, and waited for the end.
 ### Part 3: The Search
 
 # Graduation
-# Part 3: The Search
 
 ## Date: June 14, 2003 Time: The Longest Twenty Minutes of Patrick’s Life Location: Northwood High School Gymnasium
 
@@ -373,7 +370,6 @@ Patrick wrapped his arms around her, pulling her dusty, trembling body against h
 ### Part 4: The Promise
 
 # Graduation
-# Part 4: The Promise
 
 ## Location: Northwood High School, The Hallway outside the Gym Time: 10 minutes after the stampede
 
@@ -528,7 +524,6 @@ They stayed there under the tree for an hour, ignoring the graduation parties st
 ### Part 1: Damage Control
 
 # The Reset
-# Part 1: Damage Control
 
 ## Date: June 15, 2003 (The Day After Graduation) Time: 10:30 AM Location: The Bennett Living Room, 1850 Delaney Street, Virginia Beach
 
@@ -573,7 +568,6 @@ She looked at Patrick. He wasn't looking at her injury anymore. He was staring a
 ### Part 2: The Vow
 
 # The Reset
-# Part 2: The Vow
 
 Patrick gently pulled her shirt back down. He picked up a fresh pillow and wedged it between her side and the armrest of the chair to splint the ribs.
 
@@ -632,7 +626,6 @@ They stayed like that for a long time, kneeling on the carpet in the quiet house
 ### Part 3: The War Room
 
 # The Reset
-# Part 3: The War Room
 
 ## Date: June 15, 2003 Time: 2:00 PM Location: The Kitchen Table
 

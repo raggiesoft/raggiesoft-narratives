@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Assault
 
 # The Locker
-# Part 1: The Assault
 
 The legend of the "Emily Jenkins Rule" gave the cousins a wide berth of respect and safety in the crowded hallways of Bluewater High. Bullies and troublemakers, having heard the story of the girl who was stronger than half the football team, left them completely alone.
 
@@ -39,7 +38,6 @@ Caleb stood there for a moment, his breath ragged, his heart pounding with a sic
 ### Part 2: The Discovery
 
 # The Locker
-# Part 2: The Discovery
 
 The hallway was quiet, filled with the muffled sounds of teaching from behind closed classroom doors. Emily approached the locker she shared with Bob, a textbook held to her chest, a soft, happy hum in her throat as she thought about their plans for the weekend.
 
@@ -72,7 +70,6 @@ A teacher pushed through the gathering crowd, his face shifting from annoyance t
 ### Part 3: The Investigation
 
 # The Locker
-# Part 3: The Investigation
 
 The quiet hum of the main office was a stark contrast to the violence that had unfolded in the hallway. Dr. Rachel Ragsdale sat at her desk, her expression a mask of cold, controlled fury. The school's guidance counselor, Mr. Henderson, sat opposite her, looking pale and shaken.
 
@@ -95,7 +92,6 @@ She hung up the phone and looked at Mr. Henderson, her eyes like chips of ice. "
 ### Part 4: The Arrest
 
 # The Locker
-# Part 4: The Arrest
 
 The air in Dr. Ragsdale’s office was thick with a tense, unnatural quiet. Dr. Ragsdale sat behind her desk, her posture rigid, her expression unreadable. In the two chairs opposite her sat Officer Miller, a veteran cop whose calm demeanor couldn't hide the weariness in his eyes, and Officer Davis, younger, sharper, and radiating a coiled energy. They were waiting.
 
@@ -138,7 +134,6 @@ As Officer Miller continued reading him his rights, the officers guided the now 
 ### Part 5: The Perp Walk
 
 # The Locker
-# Part 5: The Perp Walk
 
 The journey from Dr. Ragsdale’s office to the main entrance of the school was the longest walk of Caleb Anderson’s life. With his hands cuffed securely behind his back, he was led by Officer Miller and Officer Davis through the crowded lobby during the busiest part of a class change.
 
@@ -159,7 +154,6 @@ From her office window, Dr. Ragsdale watched the police car pull away, her expre
 ### Part 1: The Long Wait
 
 # The Hospital
-# Part 1: The Long Wait
 
 The controlled chaos of the children's hospital emergency room swirled around them, but the Scott family was an island of tense, focused silence. Bob lay on a gurney in a curtained-off bay, his face pale with pain and shock, his mangled legs covered by a thin white sheet.
 
@@ -180,7 +174,6 @@ A sliver of dark, terrible satisfaction passed between them just as two orderlie
 ### Part 2: Emily Explains Everything
 
 # The Hospital
-# Part 2: Emily Explains Everything
 
 Hours later, in a sterile, quiet waiting room, the adrenaline had faded, leaving only the dull ache of fear and grief. Diane finally turned to her niece. "Emily, honey," she said softly, "Who is Caleb? Why would he do this to Bob?"
 
@@ -199,7 +192,6 @@ Emily then pulled out her mPhone and showed both David and Diane the text messag
 ### Part 3: Waking Up
 
 # The Hospital
-# Part 3: Waking Up
 
 The first thing Bob was aware of was a sound. A slow, steady, rhythmic beeping that seemed to come from everywhere and nowhere at once. It was a sound that was trying to tell him he was alive.
 
@@ -222,7 +214,6 @@ The transfer was a disorienting journey in his hospital bed, the ceiling tiles s
 ### Part 4: The Daily Vigil
 
 # The Hospital
-# Part 4: The Daily Vigil
 
 The days in the pediatric recovery room fell into a quiet, monotonous rhythm. David, having moved his entire work-from-home setup to the small hospital visitor's table, filled the daytime hours with the soft clicking of his keyboard. His steady, calm presence was a comfort, but Bob's days were largely spent watching the clock, his mind counting down the minutes until school let out.
 
@@ -243,7 +234,6 @@ David and Emily exchanged a brief, worried glance. A bad snowstorm was no longer
 ### Part 5: The Storm Arrives
 
 # The Hospital
-# Part 5: The Storm Arrives
 
 The day started like any other in their new hospital routine. Emily caught the 2:45 PM Green Line bus, arrived at the hospital around 3:15 PM, and was escorted up to Bob's room by David. The weather reports had been consistent all day: a major snowstorm was coming, but it wasn't expected to arrive until well after midnight.
 
@@ -288,7 +278,6 @@ Emily heard it and responded with her own soft, sad hum. Bob desperately wanted 
 ### Part 6: The Longest Night
 
 # The Hospital
-# Part 6: The Longest Night
 
 At 7:00 PM, the daytime staff rotated out, replaced by the quiet, focused energy of the night shift. By 9:00 PM, the family had settled in for their first unexpected night together. David made his bed on the sofa by the window while Emily curled up in the recliner. The chair was closer to Bob's bed, but it still wasn't close enough for the deep, grounding comfort they craved. They both hated it, but they understood. Doctor's orders were doctor's orders.
 
@@ -313,7 +302,6 @@ They were officially trapped. David and Emily went down to the hospital cafeteri
 ### Part 7: Discharge Day
 
 # The Hospital
-# Part 7: Discharge Day
 
 The morning after the third snowed-in night was bright and clear. The main roads were finally passable, and the doctor officially signed Bob's discharge papers. After twelve long days, they were finally going home.
 
@@ -334,7 +322,6 @@ As they pulled away from the hospital, a new chapter was beginning. They were go
 ### Part 8: Chapter Notes: The Planetarium Promise
 
 # The Hospital
-# Part 8: Chapter Notes: The Planetarium Promise
 
 From the very first week of school in September, the highlight of Bob and Emily's academic year was a date circled on the Earth Science syllabus: the annual spring field trip. What made it special this year was the destination. Galax Community College, a 45-minute drive away, had just opened a brand-new, state-of-the-art planetarium the month before. The chance to see the stars in a new way became a beacon for the two astronomy-loving cousins. Their shared, excited chirps in the Heart-Hum whenever Mr. Shaneyfelt mentioned it were a constant, happy feature of his second-period class.
 

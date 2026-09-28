@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Blinking Clock
 
 # Delta Niner
-# Part 1: The Blinking Clock
 
 For the first time in four days, Wyatt woke up without an adrenaline spike.
 
@@ -57,7 +56,6 @@ Delta 9 was officially online.
 ### Part 2: The Ghost Ship
 
 # Delta Niner
-# Part 2: The Ghost Ship
 
 The quiet luxury of the Captain's Quarters held them for a few more hours, but eventually, the reality of their situation pulled Wyatt out of the heavy blankets.
 
@@ -108,7 +106,6 @@ Wyatt grabbed his heavy Mark-IV flashlight from the console, turning to inspect 
 ### Part 3: The Broadcast
 
 # Delta Niner
-# Part 3: The Broadcast
 
 Wyatt closed the glass cover of the breaker box with a soft *clink*. The primary uplink fuse was safely sitting in his pocket. They were officially severed from the Apex tracking grid.
 
@@ -237,7 +234,6 @@ Wyatt nodded, his thumb brushing across her knuckles. The static hissed quietly 
 ### Part 1: The Hydroponics Bay
 
 # The Lungs of the Station
-# Part 1: The Hydroponics Bay
 
 The heavy, airtight bulkhead door in the lower ring didn't just slide open; it groaned, the rusted hydraulic seals fighting Wyatt’s grip on the manual release wheel. With a final, metallic *shriek*, the iron door gave way, and the dry, recycled ozone of the corridor was instantly blasted away by a wall of heat.
 
@@ -298,7 +294,6 @@ Wearing just her black undershirt, she walked up to the analog nutrient station,
 ### Part 2: The Strawberry Festival
 
 # The Lungs of the Station
-# Part 2: The Strawberry Festival
 
 Wyatt shifted his weight on the rusted supply crate, leaning his head back against the warm iron bulkhead. He watched as Sarah completely immersed herself in the archaic mechanics of the bay.
 
@@ -357,7 +352,6 @@ Wyatt couldn't help but smile, leaning back against the bulkhead. The woman who 
 ### Part 3: The Expanding Fracture
 
 # The Lungs of the Station
-# Part 3: The Expanding Fracture
 
 Wyatt stood up from the rusted supply crate, the sweet, earthy taste of the strawberry still lingering on his tongue. For a fleeting, miraculous moment, the absolute horror of their situation had been completely neutralized by a 1970s water pump and a handful of clay pebbles.
 
@@ -418,7 +412,6 @@ They had survived the NTTR, but the nightmare was far from over.
 ### Part 1: The Descent
 
 # The Boiler Room
-# Part 1: The Descent
 
 The heavy, metallic dread of the emergency broadcast still hung in the air as Wyatt and Sarah left the Hydroponics Bay. They didn't speak about Los Angeles or the Colorado River. They didn't need to. The sheer scale of the nightmare had pushed them past the point of panic and straight into cold, mechanical survival.
 
@@ -467,7 +460,6 @@ He was in his element. He was keeping their lifeboat afloat. And most importantl
 ### Part 2: The Baffle
 
 # The Boiler Room
-# Part 2: The Baffle
 
 Wyatt wiped a streak of dark grease from his forehead with the back of his hand, his muscles burning as he finally muscled the secondary coolant valve closed. The massive iron wrench slipped with a heavy *clack*, but the line was sealed.
 
@@ -546,7 +538,6 @@ They weren't just surviving. They were a team. And they had just kept their life
 ### Part 3: The Harvest
 
 # The Boiler Room
-# Part 3: The Harvest
 
 Wyatt slowly let go of Sarah, the adrenaline of the near-miss finally settling into a dull ache in his shoulders. The station’s life-support manifold was humming with a steady, rhythmic thrum, pumping clean, cold oxygen back into the air vents.
 
@@ -609,7 +600,6 @@ They were going to be okay.
 ### Part 4: The Acceleration
 
 # The Boiler Room
-# Part 4: The Acceleration
 
 The crisp, sweet juice of the apple was still cold on Wyatt’s tongue. He took another bite, the loud crunch echoing comfortably in the thick, humid air of the Hydroponics Bay. Sarah leaned against the heavy iron bulkhead beside him, a soft, genuine smile finally relaxing the tense lines around her eyes.
 
@@ -666,7 +656,6 @@ Wyatt didn't answer. He just held her, staring into the harsh purple glare of th
 ### Part 5: Scorched Earth
 
 # The Boiler Room
-# Part 5: Scorched Earth
 
 The heavy, metallic silence in the Hydroponics Bay was completely suffocating. The rush of the newly repaired water pump, which had sounded like a triumph just minutes ago, now sounded like a ticking clock.
 
@@ -723,7 +712,6 @@ They were frightened, deeply scarred, and completely alone in the universe. But 
 ### Part 1: An Attempt at Normalcy
 
 # The Glass Wall
-# Part 1: An Attempt at Normalcy
 
 The amber sconces in the Recreation Lounge cast a warm, low-level glow over the faux-walnut paneling. After the deafening, grease-stained chaos of the engine room and the sheer psychological terror of the afternoon's broadcasts, the heavy soundproofing of the room felt like a physical embrace.
 
@@ -778,7 +766,6 @@ Sarah shifted closer, burying her face into his chest, letting the exhaustion of
 ### Part 2: Shedding the Armor
 
 # The Glass Wall
-# Part 2: Shedding the Armor
 
 The heavy, mechanical reality of the Nevada Test and Training Range was designed to break you. One of the most insidious ways Apex Defense Solutions achieved this wasn't through grueling physical labor or the constant threat of violence, but through the systematic destruction of basic human dignity.
 
@@ -859,7 +846,6 @@ She looked across the small, faux-wood table at Wyatt. He was wearing clean civi
 ### Part 3: The Ghost Ship
 
 # The Glass Wall
-# Part 3: The Ghost Ship
 
 The remnants of the omelets were cleared away, the heavy ceramic plates soaking in the small galley sink. For exactly two hours, Wyatt and Sarah had allowed themselves to believe they were safe. They had sat in the Recreation Lounge, the soft cotton of their clean clothes feeling like a physical shield against the universe, and just breathed.
 
@@ -930,7 +916,6 @@ Sarah looked from the terrifying void of space back to the dot-matrix printout i
 ### Part 4: The Void
 
 # The Glass Wall
-# Part 4: The Void
 
 The frantic energy of their realization immediately funneled into cold, methodical action. They had less than four hours before an Apex hit squad breached the station, and to turn this rusted listening post back into a heavy freighter, they had to break its chains.
 
@@ -997,7 +982,6 @@ One down. Three to go. And the clock was mercilessly ticking.
 ### Part 5: The Ghost Awakens
 
 # The Glass Wall
-# Part 5: The Ghost Awakens
 
 *"Charge four is set. I'm heading back."*
 
@@ -1074,7 +1058,6 @@ Wyatt and Sarah had escaped the drop, but they were no longer just hiding. They 
 ### Part 1: A Vector to Nowhere
 
 # The Nomad
-# Part 1: A Vector to Nowhere
 
 The viewport in the Operations center used to be a framed photograph of a dead, unmoving cosmos. Now, it was a living window.
 
@@ -1131,7 +1114,6 @@ Sarah smiled, resting her cheek against his hair, watching the stars streak by i
 ### Part 2: The Hubris of Apex
 
 # The Nomad
-# Part 2: The Hubris of Apex
 
 The rich, sweet taste of the hot chocolate had just begun to settle Wyatt’s nerves when the low, rhythmic hum of the Operations center was broken by a sudden burst of audio.
 
@@ -1196,7 +1178,6 @@ They were flying a ghost ship into the unknown, safe behind heavily armored bulk
 ### Part 3: The Billionaire’s Secrets
 
 # The Nomad
-# Part 3: The Billionaire’s Secrets
 
 The horrific broadcast about Yellowstone and the ash cloud hung heavily in their minds, a grim reminder of the world they were leaving behind. But Outpost Delta 9—no, *The Nomad*, as Sarah had quietly started calling it in her head—was currently millions of miles away from the ash, the corporate assassins, and the dying earth.
 
@@ -1261,7 +1242,6 @@ Sarah leaned her head against his shoulder, listening to the quiet, powerful hum
 ### Part 4: The 2044 Reveal
 
 # The Nomad
-# Part 4: The 2044 Reveal
 
 The analog warmth of the music studio was staggering, but Wyatt’s eyes were drawn to a sleek, frosted-glass door tucked into the far corner of the server room. It completely lacked the heavy iron rivets, brass hinges, and rusted-steel aesthetic of the upper decks. It looked like it had been lifted straight out of a modern, ultra-high-end Apex corporate laboratory.
 
@@ -1318,7 +1298,6 @@ But inside *The Nomad*, sitting barefoot in a room that held the sum total of hu
 ### Part 5: The Blank Slate
 
 # The Nomad
-# Part 5: The Blank Slate
 
 The soft, pulsing light on the server tower cast a faint blue glow across the plush acoustic carpet. Wyatt and Sarah stood barefoot in front of the massive, curved workstation monitor, staring at the clean, structured text of the localized Generative Assistant.
 
@@ -1387,7 +1366,6 @@ They had stolen a doomsday bunker, but Aria had just turned it into a home.
 ### Part 1: The Coordinates
 
 # The Frontier
-# Part 1: The Coordinates
 
 The soft, dynamic LED lighting in the 2044-era tech room was set to a warm, inviting morning glow.
 
@@ -1468,7 +1446,6 @@ They left the pristine, glowing tech room behind, walking barefoot down the corr
 ### Part 2: The Spacetime Fold
 
 # The Frontier
-# Part 2: The Spacetime Fold
 
 Wyatt and Sarah walked barefoot back up the heavy iron ladders of the central hub, leaving the pristine, 2044-era technology of the lower decks behind. As they stepped through the heavy double doors into the Operations center, the familiar, archaic atmosphere of the 1970s command room greeted them.
 
@@ -1531,7 +1508,6 @@ For the very first time since they had signed their lives away, the universe act
 ### Part 3: The Interstellar Road Trip
 
 # The Frontier
-# Part 3: The Interstellar Road Trip
 
 The Operations center was perfectly silent, save for the low, powerful thrum of the FTL drive vibrating through the floor plates. Outside the massive viewport, the universe was a swirling, hypnotic tunnel of refracted blue and purple light.
 
@@ -1614,7 +1590,6 @@ Outside the hull, the universe was a terrifying, violent place. But inside *The 
 ### Part 4: The Algorithm\'s Gift
 
 # The Frontier
-# Part 4: The Algorithm\'s Gift
 
 The heavy VCR clicked loudly, automatically rewinding the final tape as the credits rolled off the massive CRT television. The screen faded to a soft, static blue, casting a quiet, flickering glow across the spacious Captain's Quarters.
 
@@ -1695,7 +1670,6 @@ Wyatt looked out over the thriving garden, holding the woman he loved perfectly 
 ### Part 5: The Blank Slate
 
 # The Frontier
-# Part 5: The Blank Slate
 
 For the next six days, *The Nomad* became a universe unto itself.
 
@@ -1768,7 +1742,6 @@ They clinked their heavy ceramic mugs together, toasting to the empty universe o
 ### Part 6: The Backlog
 
 # The Frontier
-# Part 6: The Backlog
 
 The 144-hour mark arrived exactly as Aria had predicted.
 
@@ -1811,7 +1784,6 @@ Wyatt and Sarah froze, the serene beauty of their new planet completely overshad
 ### Part 7: The Backlog
 
 # The Frontier
-# Part 7: The Backlog
 
 The heavy dot-matrix printer screamed, the mechanical pins striking the ribbon with the frantic, deafening rhythm of a machine gun. *ZZZT-ZZZT-ZZZT-ZZZT!*
 

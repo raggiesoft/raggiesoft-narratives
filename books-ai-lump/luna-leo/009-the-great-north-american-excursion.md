@@ -10,7 +10,6 @@ series: ""
 ### Part 1: All Aboard
 
 # A Bittersweet Beginning
-# Part 1: All Aboard
 
 The mid-June morning at 1091 Daniel Maloney Drive was buzzing with a nervous, excited energy. Suitcases and backpacks, packed the night before with meticulous care, stood by the front door like soldiers awaiting inspection. The day had finally arrived: the start of their epic, two-month train journey.
 
@@ -31,7 +30,6 @@ The conductor's call of "All aboard!" echoed down the platform. With a gentle lu
 ### Part 2: The Journey North
 
 # A Bittersweet Beginning
-# Part 2: The Journey North
 
 The rhythmic clatter of the train wheels on the track was a soothing, constant presence as the Virginia landscape slid by. The mood at their four-person table in Business Class was a comfortable, quiet hum. For a while, they were all content to simply exist in the moment, watching the scenery change from the familiar Tidewater region to the rolling hills of central Virginia.
 
@@ -54,7 +52,6 @@ Stella and Luna returned a few minutes later, carefully balancing a tray of drin
 ### Part 3: Approaching Union Station
 
 # A Bittersweet Beginning
-# Part 3: Approaching Union Station
 
 Stella and Luna returned a few minutes later, carefully balancing a tray of drinks as they navigated the gentle sway of the train. They passed the hot chocolate to Leo, the coffee to Olivia, and settled back into their seats with their own sodas.
 
@@ -87,7 +84,6 @@ They spent the last few minutes on the train excitedly charting out a rough itin
 ### Part 4: The District Rail Gauntlet
 
 # A Bittersweet Beginning
-# Part 4: The District Rail Gauntlet
 
 Disembarking from the quiet, orderly Business Class car into the grand, chaotic echo chamber of Union Station was a jolt to the senses. The station was a sea of humanity, a symphony of rolling suitcases, echoing announcements, and a dozen languages all at once. Stella, the unflappable general of their small army, took the lead.
 
@@ -118,7 +114,6 @@ Their public transit gauntlet was over. They had faced their first challenge, an
 ### Part 5: Home Base on the Hill
 
 # A Bittersweet Beginning
-# Part 5: Home Base on the Hill
 
 The room at The Statesman Hotel was their sanctuary after a long day of travel. Stella swiped the key card, and the door swung open to reveal a spacious, beautifully appointed, and—most importantly—fully accessible room.
 
@@ -163,7 +158,6 @@ They disembarked directly in front of the grand, sprawling entrance to the zoo. 
 ### Part 6: An Afternoon Among the Animals
 
 # A Bittersweet Beginning
-# Part 6: An Afternoon Among the Animals
 
 True to their plan, the fortress four arrived at the grand entrance of the National Zoo. But before they even went through the gates, Stella initiated the first part of her on-site strategy. The National Zoo is famously built on the side of a hill, with steep inclines connecting many of the main exhibits. Stella, having researched this ahead of time, knew that pushing Leo's manual wheelchair up and down these hills all afternoon would be an immense physical strain.
 
@@ -182,7 +176,6 @@ For Leo, the day was a resounding success. He had navigated a new city on public
 ### Part 7: A Necessary Interlude
 
 # A Bittersweet Beginning
-# Part 7: A Necessary Interlude
 
 After an exciting hour spent watching the lions and tigers, Stella called for a tactical break before they headed to the Great Ape House. "Okay, team," she announced, "everyone use the restroom before we continue. Next one is just around this corner."
 
@@ -201,7 +194,6 @@ When they emerged a few minutes later, Stella and Luna were waiting. The fortres
 ### Part 8: An Evening on the Town
 
 # A Bittersweet Beginning
-# Part 8: An Evening on the Town
 
 As the afternoon sun began to dip lower in the sky, a series of announcements echoed through the zoo's pathways, signaling that it would be closing in thirty minutes. Their timing had been perfect. They had seen all the animals on their priority list and had even had a few extra minutes to wander through the primate house.
 
@@ -232,7 +224,6 @@ As they were seated at a large, round table, a sense of profound accomplishment 
 ### Part 9: A Culinary Discovery
 
 # A Bittersweet Beginning
-# Part 9: A Culinary Discovery
 
 The restaurant Stella had chosen was a world away from the Americanized Chinese buffets they were used to back home. It was a bustling, brightly lit space filled with large, round tables, the air thick with the delicious, unfamiliar aromas of ginger, star anise, and chili oil. The chatter was a lively mix of English and Mandarin, and the walls were adorned with beautiful calligraphy.
 
@@ -253,7 +244,6 @@ The entire meal was a journey of discovery. They passed plates, shared bites, an
 ### Part 10: A Sanctuary of Water
 
 # A Bittersweet Beginning
-# Part 10: A Sanctuary of Water
 
 The return to the quiet, cool sanctuary of their room at The Statesman Hotel was a welcome relief. The dinner in Chinatown had been a wonderful adventure, but the cumulative sensory input of the day had taken its toll, especially on Luna and Leo.
 
@@ -280,7 +270,6 @@ Afterward, wrapped in a thick, fluffy hotel robe and sitting on the edge of his 
 ### Part 11: A Fortress Assembles for the Night
 
 # A Bittersweet Beginning
-# Part 11: A Fortress Assembles for the Night
 
 After the calming showers and the peaceful quiet of the evening, a deep, contented weariness settled over the fortress four. The long day of travel and exciting new experiences had finally caught up to them.
 
@@ -307,7 +296,6 @@ He was in the middle, a warm, solid wall of his sister on one side and his best 
 ### Part 1: Museum Hopping
 
 # A Capital Day of Discovery
-# Part 1: Museum Hopping
 
 The fortress four woke on their second full day in Washington, D.C. to the gentle, rhythmic drumming of rain against their hotel room window. A quick look outside confirmed Stella's morning weather check: it was a gray, drizzly day, making a raincoat essential.
 
@@ -340,7 +328,6 @@ Emerging from the final elevator onto the street, they were just a short, access
 ### Part 2: Wonders of Flight and Space
 
 # A Capital Day of Discovery
-# Part 2: Wonders of Flight and Space
 
 The cavernous main hall of the Finch Museum of Air and Space was a breathtaking sight, a perfect sanctuary from the drizzling rain outside. Suspended from the ceiling were icons of aviation history: the *Spirit of St. Louis*, John Glenn's *Friendship 7* capsule, and the X-15 rocket plane. For Leo and Luna, who had spent their childhoods dreaming of flight and space, it was like stepping into a cathedral.
 
@@ -359,7 +346,6 @@ As the credits rolled and the lights came up, Leo and Luna looked at each other,
 ### Part 3: Rocket Burger Refuel
 
 # A Capital Day of Discovery
-# Part 3: Rocket Burger Refuel
 
 After the breathtaking, larger-than-life experience at The Orion Dynamics OmniMax Theater, the fortress four were buzzing with excitement but also starting to feel the pangs of hunger. The morning's adventure had been a feast for the eyes; now it was time for an actual feast.
 
@@ -382,7 +368,6 @@ They spent the rest of their lunch excitedly planning their afternoon assault on
 ### Part 4: The Fortress Cracks
 
 # A Capital Day of Discovery
-# Part 4: The Fortress Cracks
 
 After finishing their lunch at Rocket Burger, Stella called for a tactical break. "Okay, team," she announced, "everyone use the restroom before we leave."
 
@@ -411,7 +396,6 @@ When they emerged a few minutes later, Stella and Luna were waiting. They took o
 ### Part 5: A Fragile Promise
 
 # A Capital Day of Discovery
-# Part 5: A Fragile Promise
 
 When they emerged from the family restroom, Stella and Luna were waiting. They took one look at Leo's exhausted, tear-stained face and Olivia's own grim, red-eyed expression and knew instantly what had happened. The happy, adventurous energy of the morning had evaporated, replaced by a heavy, fragile silence. Stella immediately guided them to a quiet, out-of-the-way bench in one of the museum's less-trafficked corridors.
 
@@ -444,7 +428,6 @@ The fortress couldn't stop the goodbye from happening, but they had just built t
 ### Part 6: A Walk Through Time
 
 # A Capital Day of Discovery
-# Part 6: A Walk Through Time
 
 The short walk across the National Mall from the Air and Space Museum to the Natural History Museum was a damp but determined affair. Huddled under their raincoats, the fortress four moved as a single unit against the gray, drizzly afternoon. The fragile promise made on the museum bench held them together, a quiet, shared purpose.
 
@@ -463,7 +446,6 @@ As they finally emerged from the museum back into the gray, late-afternoon mist,
 ### Part 7: A Taste of Stanstead
 
 # A Capital Day of Discovery
-# Part 7: A Taste of Stanstead
 
 Tired, damp, but happy after a full day of museum exploration, the fortress four emerged into the misty evening, their thoughts turning to dinner. As they walked down a side street near their hotel, a warm glow from a small restaurant window caught their eye. A charming, hand-painted sign above the door read "Le Gout de Montréal" and promised, in smaller letters, "Authentic Smoked Meat & Poutine."
 
@@ -568,7 +550,6 @@ Stepping out of the warm, fragrant restaurant and back into the cool, misty rain
 ### Part 8: A Fortress in the Storm
 
 # A Capital Day of Discovery
-# Part 8: A Fortress in the Storm
 
 The return to their room at The Statesman Hotel was a quiet affair. The delicious meal and the unexpected taste of Olivia's home had been a wonderful high point, but the long, sensorily demanding day had taken its toll. The fortress was tired.
 
@@ -603,7 +584,6 @@ Stella closed the laptop, her expression one of weary resolve. The miracle solut
 ### Part 9: The Fortress, Reassembled
 
 # A Capital Day of Discovery
-# Part 9: The Fortress, Reassembled
 
 The long, emotionally charged day in Washington, D.C. left the entire fortress drained. After returning to the hotel and going through their quiet evening routines, a deep, contented weariness settled over the room.
 
@@ -624,7 +604,6 @@ He reached out, his hand finding Luna's in the dim light of the hotel room, whil
 ### Part 1: The Practice Mission
 
 # Conquering the Capital
-# Part 1: The Practice Mission
 
 On their second full day in Washington, D.C., the group woke up to a mostly cloudy sky. The relentless rain from the day before was gone, but the morning still had a cool, gray feel, with the promise of a clear and beautiful afternoon.
 
@@ -643,7 +622,6 @@ Stella, thrilled by his proactive spirit, immediately agreed. "That's a fantasti
 ### Part 2: Breakfast in Georgetown
 
 # Conquering the Capital
-# Part 2: Breakfast in Georgetown
 
 The fortress four's "practice mission" on the city's transit system was a resounding success. They navigated the District Rail and a District Bus with the confidence of seasoned commuters, arriving in the charming, historic neighborhood of Georgetown as the morning sun began to burn through the last of the clouds.
 
@@ -660,7 +638,6 @@ As they ate, the conversation was light and happy, a comfortable buzz of plans f
 ### Part 3: A Walk by the Water
 
 # Conquering the Capital
-# Part 3: A Walk by the Water
 
 After a delicious and satisfying breakfast at The Potomac Patisserie & Grille, the fortress four stepped back out onto the charming, historic streets of Georgetown. The morning air was cool and fresh, and the clouds that had blanketed the city were beginning to break apart, allowing brilliant shafts of summer sunlight to dapple the cobblestones.
 
@@ -677,7 +654,6 @@ Stella and Luna walked a few paces ahead, deep in their own conversation. The pa
 ### Part 4: A Walk Among Giants
 
 # Conquering the Capital
-# Part 4: A Walk Among Giants
 
 After their peaceful interlude at the Georgetown Waterfront, the fortress four were ready to tackle the main event: the monuments on the National Mall. The sun was now high in a nearly cloudless sky, and the day had turned warm and beautiful. They navigated their way back to M Street and caught a District Bus that would take them toward the heart of the city.
 
@@ -710,7 +686,6 @@ By the time they emerged back into the bright sunlight, their stomachs were begi
 ### Part 5: Lunch on the Mall
 
 # Conquering the Capital
-# Part 5: Lunch on the Mall
 
 By the time they emerged from the Lincoln Memorial back into the bright sunlight, their stomachs were beginning to rumble. It was well past noon, and the morning's adventures had worked up a serious appetite.
 
@@ -729,7 +704,6 @@ The meal was simple, but it was perfect. They ate and talked, laughing as a part
 ### Part 6: An Afternoon on the Potomac
 
 # Conquering the Capital
-# Part 6: An Afternoon on the Potomac
 
 The sun was warm and bright as the fortress four finished their classic lunch of hot dogs on the National Mall. The successful morning of navigating the monuments had left them feeling accomplished, but also ready for a more relaxed afternoon.
 
@@ -748,7 +722,6 @@ The afternoon sun glinted off the water as they made their way back to the dock.
 ### Part 7: An Evening In
 
 # Conquering the Capital
-# Part 7: An Evening In
 
 The boat tour on the Potomac was the perfect, calming end to a long day of exploration. As the fortress four made their way back to The Statesman Hotel via the District Rail, a comfortable, happy exhaustion had settled over them. The initial plan to find another unique restaurant for dinner was quickly and unanimously vetoed.
 
@@ -771,7 +744,6 @@ It was another small luxury, another detail that made their trip feel like a tru
 ### Part 8: A Sanctuary of Calm
 
 # Conquering the Capital
-# Part 8: A Sanctuary of Calm
 
 The return to the hotel room after their delicious dinner was a welcome retreat. The long day of walking, exploring, and navigating the city had left a deep, happy exhaustion in its wake. The fortress was tired but content.
 
@@ -798,7 +770,6 @@ Afterward, clean, warm, and dressed in fresh pajamas, Leo felt a deep sense of p
 ### Part 9: The Journey Continues
 
 # Conquering the Capital
-# Part 9: The Journey Continues
 
 The final morning in Washington, D.C. was one of smooth, practiced efficiency. The fortress four woke early, the excitement for the next leg of their journey a quiet, shared energy in the room. The suitcases, already packed by Stella the night before, stood ready by the door.
 
@@ -817,7 +788,6 @@ With their stomachs full and their spirits high, they made their way to the depa
 ### Part 1: A Layover in Philly
 
 # The Pennsylvanian
-# Part 1: A Layover in Philly
 
 The ARTS *Northeast Regional* glided smoothly into Philadelphia's 30th Street Station right on time. The two-hour journey from Washington had been a quiet, comfortable ride, another successful leg in their grand adventure.
 
@@ -840,7 +810,6 @@ The two-hour layover passed quickly. With their stomachs full and their spirits 
 ### Part 2: The Cheesesteak Debate
 
 # The Pennsylvanian
-# Part 2: The Cheesesteak Debate
 
 The two-hour layover in Philadelphia's magnificent 30th Street Station passed quickly. After their delicious and messy lunch of station cheesesteaks, Stella decided to make a quick run to a convenience store inside the concourse to stock up on snacks for the long afternoon ride to Pittsburgh.
 
@@ -861,7 +830,6 @@ A short time later, the call came to board the ARTS *Pennsylvanian*. They made t
 ### Part 3: A Journey Through the Alleghenies
 
 # The Pennsylvanian
-# Part 3: A Journey Through the Alleghenies
 
 The ARTS *Pennsylvanian* pulled out of 30th Street Station, beginning the long, seven-hour journey westward to Pittsburgh. The fortress four settled back into their familiar four-person table in Business Class, the remnants of their cheesesteak lunch a happy memory.
 
@@ -886,7 +854,6 @@ As the train continued its climb through the majestic, sun-dappled mountains, th
 ### Part 4: Arrival in the Steel City
 
 # The Pennsylvanian
-# Part 4: Arrival in the Steel City
 
 The ARTS *Pennsylvanian* arrived at Pittsburgh's Union Station just after 8 PM, pulling into the city under a sky streaked with the last vestiges of sunset. The journey through the Allegheny Mountains had been a quiet, awe-inspiring experience, but the long day of travel had left the fortress four feeling weary and ready to settle in for the night.
 
@@ -903,7 +870,6 @@ They arrived at their hotel, another well-researched, accessible choice by Stell
 ### Part 5: A Room with a View
 
 # The Pennsylvanian
-# Part 5: A Room with a View
 
 The Three Rivers Transit Authority (3RTA) bus dropped them off directly in front of their hotel for the next few days: The Three Rivers Grand Hotel. It was a beautiful, historic building in the heart of downtown, fancy without being overly stuffy—another perfect 4-star pick by Stella.
 
@@ -936,7 +902,6 @@ The fear of the journey, the ache of the impending separation, was still there, 
 ### Part 6: A Desperate Search
 
 # The Pennsylvanian
-# Part 6: A Desperate Search
 
 The morning in Pittsburgh was quiet. The four of them woke slowly, untangling themselves from the cramped but secure fortress they had formed in the single queen bed. The sun streamed through the window, promising a beautiful day, but a heavy, somber mood hung in the room. The desperation of the previous night had left its mark.
 
@@ -961,7 +926,6 @@ She quietly closed the laptop, the last of her desperate hope extinguished. She 
 ### Part 7: A Day in the Steel City
 
 # The Pennsylvanian
-# Part 7: A Day in the Steel City
 
 Their first full day in Pittsburgh began with a mission: to see the city from above. After a quiet breakfast at the hotel, Stella, armed with her 3RTA transit maps, led them on a short bus ride to the base of the Duquesne Incline. The historic funicular, a cliffside trolley car, was a perfect, accessible way to see the city's famous panoramic view.
 
@@ -980,7 +944,6 @@ As they rode the bus back to the hotel in the late afternoon, a weary but peacef
 ### Part 1: The Shattering
 
 # The King Street Heartbreak
-# Part 1: The Shattering
 
 The clock tower of Seattle's King Street Station stood as a stoic, indifferent sentinel, counting down the final minutes of their last summer together. Inside the station's grand, echoing waiting hall, the fortress four sat on a hard wooden bench, a small, silent island in a sea of bustling travelers. Their train—the ARTS *Empire Builder* that would carry Stella, Luna, and Leo back across the country to Virginia—was scheduled to depart in less than an hour. Olivia was not getting on.
 
@@ -1045,7 +1008,6 @@ Leo, his cries raw and ragged, scrambled to the window. On the platform, Olivia 
 ### Part 2: The Long Ride Home
 
 # The King Street Heartbreak
-# Part 2: The Long Ride Home
 
 The ARTS *Empire Builder* pulled out of King Street Station, gathering speed as it began its long journey north towards Everett then east towards Chicago. Inside the small, private family sleeping quarters, the world had shrunk to a single, raw nerve of grief. The fortress was broken, and the two remaining members were trying desperately to hold the third together.
 
@@ -1116,7 +1078,6 @@ The beautiful anthem was now forever seared into Leo's memory as a permanent, se
 ### Part 3: The Infinite Loop
 
 # The King Street Heartbreak
-# Part 3: The Infinite Loop
 
 The train rumbled on, leaving the last vestiges of the Seattle suburbs behind as it passed through Everett. The city lights vanished, replaced by the dark, imposing silhouettes of the Cascade Mountains against a starless sky. Inside the small family sleeping quarters, the storm of grief raged on, unabated.
 
@@ -1129,7 +1090,6 @@ Stella was trapped between them, a helpless island in a sea of their shared sorr
 ### Part 4: A Sanctuary in the Storm
 
 # The King Street Heartbreak
-# Part 4: A Sanctuary in the Storm
 
 Hours crawled by. The majestic scenery of the Cascade Mountains, which should have been a source of wonder, was an unseen blur outside the window of the small sleeping compartment. Inside, the storm of grief continued to rage.
 
@@ -1158,7 +1118,6 @@ After the attendant left, Stella managed to coax a still-sobbing Luna into the l
 ### Part 5: The Long Night Begins
 
 # The King Street Heartbreak
-# Part 5: The Long Night Begins
 
 The quiet, efficient work of the sleeping car attendant had transformed their small room into a dark, cozy sanctuary, but it could not silence the grief within it. The simple sandwiches and cartons of milk he had left for them sat untouched.
 
@@ -1183,7 +1142,6 @@ She turned off the main light, leaving only a small, dim nightlight to cut throu
 ### Part 6: Leo’s Nightmare
 
 # The King Street Heartbreak
-# Part 6: Leo’s Nightmare
 
 A low, guttural sound of terror escaped Leo's lips in his sleep. In the bunk beside him, Luna, also spent from her own meltdown, was jolted awake. She saw her brother, her twin, thrashing in the dim nightlight, his face contorted in a mask of pure, sleeping terror.
 
@@ -1198,7 +1156,6 @@ For what felt like hours, Luna held on, her body a fragile shield against her br
 ### Part 7: The Morning After
 
 # The King Street Heartbreak
-# Part 7: The Morning After
 
 The sun rose over the vast, empty plains of Montana, flooding the small sleeping compartment with a flat, unforgiving light. The train sped eastward, but inside the family bedroom, time felt frozen.
 
@@ -1245,7 +1202,6 @@ They sat in a fragile, shared silence, waiting for their food. They were still b
 ### Part 8: A Sanity of a Sponge Bath
 
 # The King Street Heartbreak
-# Part 8: A Sanity of a Sponge Bath
 
 The morning after their nightmare-fueled night was a study in fragile quiet. The attendant brought their breakfast on a tray, and Stella managed to coax a few more bites of French toast and some apple juice into her siblings. They ate mechanically, the food a necessary fuel, not a source of comfort.
 
@@ -1292,7 +1248,6 @@ Stella took one last look around the small, private sanctuary they had created. 
 ### Part 1: The Shadow on the Platform
 
 # The Long Road Home
-# Part 1: The Shadow on the Platform
 
 The final leg of their journey, the short ride from Washington, D.C. to Newport News, was a quiet, somber blur. The excitement and adventure of their great excursion had evaporated, leaving only a heavy, aching exhaustion. As the ARTS train finally glided into the familiar Newport News station on the afternoon of Friday, August 22nd, it felt less like a homecoming and more like the end of the world.
 

@@ -11,8 +11,6 @@ series: "casey"
 
 **Date:** 2014-02-14 at 08:15 PT
 
-# Part 1: The Rotor Wash
-
 The crisp, freezing February air whipped across the elevated concrete of the Quantum executive helipad.
 
 Cassandra Vance sat perfectly still in her manual wheelchair, the collar of her dark, tailored topcoat pulled up against the bite of the Pacific Northwest winter. Flanking her on the tarmac was the entire East Coast foundation of her life. David and Liz—now twenty-nine years old and married for nearly a decade—stood beside twenty-seven-year-old Casey. Grouped closely around them were Wendy, Tom, and Mr. and Mrs. Carter.
@@ -77,8 +75,6 @@ Cassandra checked the heavy silver watch on her wrist. It was 08:35 AM.
 
 **Date:** 2014-02-14 at 08:50 PT
 
-# Part 2: The Front Row
-
 The William Keswick Auditorium, located deep within the architectural heart of Building 33, was an amphitheater built for global broadcasts and shareholder summits. It was massive, sleek, and usually cordoned off with strict, corporate rigidity.
 
 Navigating twenty-five family members through the executive security checkpoints was a logistical puzzle, but Cassandra handled it with her usual frictionless efficiency.
@@ -140,8 +136,6 @@ A sharp knock on the green room door interrupted the quiet moment. A production 
 ### Part 3: The Floorboards
 
 **Date:** 2014-02-14 at 09:00 PT
-
-# Part 3: The Floorboards
 
 The William Keswick Auditorium was a sea of Quantum Blue Badges, packed to its absolute, structural capacity. Thousands of developers, QA testers, and program managers hummed with an electric, unprecedented anticipation. In the front row, the unified Vance-Whitaker and Virginia packs sat shoulder-to-shoulder, a formidable wall of sovereign loyalty holding the absolute best seats in the house.
 
@@ -209,8 +203,6 @@ Cassandra Vance was no longer just the architect in the shadows. The keys were i
 
 **Date:** 2014-02-14 at 12:00 PT
 
-# Part 1: The Food Truck Festival
-
 The sprawling, open-air plazas and forested courtyards of the Redmond campus had been completely transformed.
 
 Instead of a closed-door VIP luncheon in the executive suite of Building 33, Cassandra had authorized a massive, campus-wide street fair. Dozens of local Seattle food trucks were parked in a massive ring around the central courtyards, their generators humming cheerfully as the scent of gourmet tacos, Korean BBQ, and artisanal grilled cheese drifted through the crisp February air. Heated outdoor pavilions and fire pits were scattered across the grass, accommodating the thousands of employees wearing Quantum Blue Badges.
@@ -252,8 +244,6 @@ David looked down at his older sister, a fierce, undeniable pride radiating from
 ### Part 2: The Zero-Proof Pavilion
 
 **Date:** 2014-02-14 at 13:15 PT
-
-# Part 2: The Zero-Proof Pavilion
 
 While the standard corporate beer-and-wine tents were heavily trafficked on the far side of the plaza, a distinctly different perimeter had been established near the center of the campus.
 
@@ -321,8 +311,6 @@ They weren't just senior developers anymore. They were under the direct, unyield
 
 **Date:** 2014-02-14 at 14:00 PT
 
-# Part 3: The Cross-Pollination of Packs
-
 As the afternoon sun cast long shadows across the Redmond campus, the rigid boundaries that typically separated distinct corporate and familial ecosystems completely dissolved. The food truck festival had fostered a vibrant, egalitarian atmosphere, allowing the fierce, off-grid survivalists of the Mountain Vanguard to mingle directly with the intellectual titans of the Quantum engineering bullpens.
 
 Near one of the massive outdoor fire pits, an impromptu infrastructure summit was underway.
@@ -364,8 +352,6 @@ Across the plaza, the atmosphere remained bright and celebratory. But beneath th
 ### Part 4: The Transit Pledge
 
 **Date:** 2014-02-14 at 16:45 PT
-
-# Part 4: The Transit Pledge
 
 By late afternoon, the winter sun began to dip below the Pacific Northwest evergreens, casting a cool, golden twilight over the Redmond campus. The food trucks were slowly beginning to power down their generators, but the central plazas were still packed with thousands of Quantum employees who were reluctant to let the historic day end.
 
@@ -409,8 +395,6 @@ She handed the microphone back to the technician, unlocked her brakes, and wheel
 
 **Date:** 2014-02-14 at 17:30 PT
 
-# Part 5: The Logistics of Departure
-
 As the applause from the courtyard faded, the massive, synchronized machinery of the Vance-Whitaker family began its departure protocols.
 
 Cassandra wheeled herself away from the fire pits, leading Victoria, Johnny, Amanda, and the rest of the mountain pack toward the secured corporate helipad at the edge of the Quantum campus. A massive, twin-engine commercial helicopter—chartered directly out of Cassandra's personal accounts—was already idling on the tarmac, its rotors spinning with a heavy, rhythmic *thwack*.
@@ -453,8 +437,6 @@ A moment later, the heavy, articulated TAPS bus hissed to a halt at the curb. Th
 
 **Date:** 2014-02-14 at 18:30 PT
 
-# Part 6: The Executive Shutdown
-
 The heavy TAPS bus hissed to a smooth halt in the warm, ambient glow of the Downtown Redmond streetlights.
 
 Tom stepped off the bus onto the pavement, his posture notably subdued. The cold air seemed to have cooled his lowland entitlement. He had begrudgingly swallowed his pride, realizing that picking a fight over a transit card on the single most historic day of his daughter's life was a catastrophic miscalculation. He didn't complain or mutter as he pulled his luggage from the racks.
@@ -487,11 +469,9 @@ There was no hesitation in the routine. Casey immediately curled up against Cass
 
 Enveloped in the deep, restrictive pressure of her pack, the sheer magnitude of the day finally settled into a quiet, profound peace. The empire was hers, the perimeter was flawless, and the machine was secure. But lying in the dark, surrounded by the three people she loved most in the world, Cassandra Vance was simply home.
 
-### Interlude: The Lowland Entitlement
+### Part 7: The Lowland Entitlement
 
 **Date:** 2014-02-14 at 19:00 PT
-
-# Interlude: The Urban Grid – 7:00 PM
 
 Wendy dropped her purse onto the polished entryway table of their Downtown Redmond luxury suite and let out a long, quiet sigh. The hotel room was immaculate, boasting a sweeping view of the glowing Pacific Northwest tech corridor. 
 

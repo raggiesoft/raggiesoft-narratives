@@ -11,8 +11,6 @@ series: "ruby-mountain"
 
 **Date:** 2004-02-12 ET
 
-# Part 1: The Rookie
-
 By mid-February, the Skagit gorge wasn't just cold; it was structurally hostile. The snowpack at Milepost 134 was so dense it had the tensile strength of concrete.
 
 Sitting on the plowed, civilian side of the Ross Dam gate was a Seattle City Light heavy flatbed, its engine idling to keep the cab heated. Leaning against the hood was Henderson, the grizzled veteran municipal engineer. Standing next to him was Barrett.
@@ -97,8 +95,6 @@ Henderson walked past him, carrying the steaming Poly-Store Bin of Diana's chili
 
 **Date:** 2004-02-12 ET
 
-# Part 2: The Gridmaster
-
 The cab of the Alpine-Cat was loud, but it was warm, and the rich, spiced scent of Diana Whitaker’s venison chili completely masked the smell of ozone and wet wool.
 
 Henderson piloted the Alpine-Cat with one hand, his eyes locked on the massive, sheer wall of the Kodiak’s rear bumper directly in front of them. Emma Bennett was pushing the fifty-ton plow at a steady thirty miles per hour. A flawless, fifty-foot geyser of pulverized ice arched over the right side of the highway, leaving a pristine trench of black asphalt in its wake.
@@ -159,8 +155,6 @@ The SCL engineers were safe. The grid was secure. And the mountain belonged enti
 
 **Date:** 2004-02-24 ET
 
-# Part 1: The Civilian Instinct
-
 The maintenance catwalk near the primary turbine intake of Ross Dam was encased in three inches of solid, black ice.
 
 Henderson and Barrett were two hours into a brutal, freezing shift, trying to manually clear a jammed hydraulic gate. The air was a biting negative ten degrees, and the roar of the Skagit River churning through the spillways below was deafening.
@@ -204,8 +198,6 @@ Henderson forced his eyes open, looking up at the jagged, snow-blind peaks of Ru
 ### Part 2: The Apex Protocol
 
 **Date:** 2004-02-24 ET
-
-# Part 2: The Apex Protocol
 
 Barrett didn't hesitate. He scrambled up the icy embankment, throwing open the heavy door of the Tundra-Track and ripping the VHF radio mic from the dashboard console. He cranked the dial to Channel 16—the universal emergency and distress frequency.
 

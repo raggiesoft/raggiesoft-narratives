@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: A Compatibility Crisis
 
 # The Virtual Solution
-# Part 1: A Compatibility Crisis
 
 The fall semester of their junior year presented a new and frustrating technical hurdle for Alex. The school district, in its slow but steady technological march, had mandated that certain AP-level science and language courses now required the use of specific educational software. The problem was, this software—like the "Quantum Calc Pro" for his AP Physics class and an older but essential "Voice Tutor" for French—was notoriously unstable on his modern, 32-bit Quantum OS XN Professional machine.
 
@@ -23,7 +22,6 @@ He then explained his research. THERE'S A PROGRAM CALLED 'KINESIS VIRTUAL ENGIN
 ### Part 2: The Justification
 
 # The Virtual Solution
-# Part 2: The Justification
 
 James Miller, recognizing both the legitimacy of the problem and the brilliance of his son's solution, knew exactly how to frame it for the insurance company. He drafted a formal letter, co-signed by Alex's AP Physics teacher, requesting a complete "Legacy Software Compatibility Package."
 
@@ -34,7 +32,6 @@ The package was approved.
 ### Part 3: The Unboxing
 
 # The Virtual Solution
-# Part 3: The Unboxing
 
 A few weeks later, a package arrived. Alex and Chloé gathered in his room, an air of Christmas morning excitement between them. Inside were not shiny new games, but relics. A shrink-wrapped box containing a stack of 1.44MB floppy disks for Q-DOS and Quantum OS for Workgroups 3.11, and a pristine, jewel-cased CD-ROM for Quantum OS 98 Second Edition.
 
@@ -47,7 +44,6 @@ Chloé just laughed, shaking her head at his nerdy purism.
 ### Part 4: A Lesson in Virtualization
 
 # The Virtual Solution
-# Part 4: A Lesson in Virtualization
 
 That Saturday became a masterclass. With Chloé watching, completely fascinated, Alex began the setup. "Okay," she said, pulling up a chair. "Explain this to me like I'm not a computer genius. What are you actually *doing*?"
 
@@ -66,7 +62,6 @@ They spent the rest of the afternoon installing the operating systems, Alex pati
 ### Part 1: Parents Make Plans
 
 # Spring Break
-# Part 1: Parents Make Plans
 
 The comfortable chatter around the Miller's dining table, punctuated by the clink of forks against plates as they finished the last of Sophie's excellent lasagna, began to wane. James Miller cleared his throat, sharing a warm, almost conspiratorial look first with Emily, then across the table with Thomas and Sophie Mason. An air of gentle anticipation settled over the room.
 
@@ -151,7 +146,6 @@ In these quiet moments of shared space and affection, quick, innocent, platonic 
 ### Part 2: The Handover
 
 # Spring Break
-# Part 2: The Handover
 
 The Saturday morning that marked the beginning of their junior year spring break was a flurry of activity on Lisa Court. Two sets of suitcases stood by the front door of the Miller house, and a palpable sense of travel excitement was in the air—but it wasn't coming from Alex and Chloé.
 
@@ -184,7 +178,6 @@ A profound, peaceful silence settled over Lisa Court. For the first time, they w
 ### Part 3: A Quiet Domesticity
 
 # Spring Break
-# Part 3: A Quiet Domesticity
 
 The first full day of their independence, a bright and sunny Sunday, was dedicated to a grand culinary experiment. They decided to cook a real meal, a proper dinner, not just the simple sandwiches or frozen pizzas that had been their go-to snacks. The mission: Emily Miller's famous lasagna.
 
@@ -203,7 +196,6 @@ It was a simple, cozy day, but the fact that they could do it without interrupti
 ### Part 4: MEGAN!!!!
 
 # Spring Break
-# Part 4: MEGAN!!!!
 
 Wednesday afternoon brought the moment Alex had been most anticipating all week. Just as planned, Megan Carter's familiar Holt sedan pulled into the Miller driveway. She had come straight from her last class at VDU, a duffel bag and a stack of textbooks in her arms.
 
@@ -298,7 +290,6 @@ She hit send, a satisfied smile on her face. Her charges were safe. Her cousin w
 ### Part 5: The Departure and The Reflection
 
 # Spring Break
-# Part 5: The Departure and The Reflection
 
 Thursday morning arrived too quickly. The three of them gathered in the Millers' kitchen for breakfast, a meal Megan insisted on making for them before she had to leave. The air was filled with the comforting scent of pancakes and the easy, familiar chatter of people who are completely at home with one another.
 
@@ -325,7 +316,6 @@ They sat there for a long time, just watching the empty street, the quiet of the
 ### Part 6: The Return
 
 # Spring Break
-# Part 6: The Return
 
 Saturday afternoon arrived with a mixture of quiet melancholy and happy anticipation. The week of freedom was over. Alex and Chloé had spent the morning tidying both houses, a final act of responsibility before their parents returned. The silence that had felt so liberating a week ago now felt a little empty.
 

@@ -10,7 +10,6 @@ series: "Nichole"
 ### Part 1: The Bachelor Pad
 
 # The Newport Vacation
-# Part 1: The Bachelor Pad
 
 ## Date: Friday, July 15, 1994 Location: Uncle Mark’s Apartment, The Point, Newport, RI
 
@@ -65,7 +64,6 @@ He looked at Nichole. She was staring at the amber light of the radio. "This is 
 ### Part 2: The Night Watch
 
 # The Newport Vacation
-# Part 2: The Night Watch
 
 ## Date: Friday, July 15, 1994 Time: 9:30 PM Location: The Cockpit (Uncle Mark’s Spare Room)
 
@@ -122,7 +120,6 @@ They fell asleep like that—tangled together on the hard futon, listening to th
 ### Part 3: The Pitch
 
 # The Newport Vacation
-# Part 3: The Pitch
 
 ## Date: Saturday, July 16, 1994 Time: 7:30 AM Location: The Cockpit
 
@@ -185,7 +182,6 @@ Patrick turned back to his drawing. He added a switch. Nichole stirred on the fu
 ### Part 4: The Circuit Barn
 
 # The Newport Vacation
-# Part 4: The Circuit Barn
 
 ## Date: Saturday, July 16, 1994 Time: 9:05 AM Location: Circuit Barn, Newport Mall (Connell Highway)
 
@@ -270,7 +266,6 @@ As they walked out into the mall, the buzzer sounded again. Patrick clutched the
 ### Part 5: The Island Tour
 
 # The Newport Vacation
-# Part 5: The Island Tour
 
 ## Date: Saturday, July 16, 1994 Time: 9:30 AM – 11:15 AM Location: The Holt Workmaster, touring Newport
 
@@ -347,7 +342,6 @@ Patrick looked at Nichole. She was clutching the Circuit Barn bag with one hand 
 ### Part 6: The Park Summit
 
 # The Newport Vacation
-# Part 6: The Park Summit
 
 ## Date: Saturday, July 16, 1994 Time: 11:20 AM Location: Equity Park (Broadway, Newport)
 
@@ -410,7 +404,6 @@ She didn't miss the apartment on Pond Avenue. She didn't care about the stairs s
 ### Part 7: The Quiet Convoy
 
 # The Newport Vacation
-# Part 7: The Quiet Convoy
 
 ## Date: Saturday, July 16, 1994 Time: 12:30 PM Location: Newport Memorial Park, Middletown, RI
 
@@ -583,7 +576,6 @@ Mark grinned. He pointed to a large blue and white sign up ahead. A giant sculpt
 ### Part 8: BayFront Creamery
 
 # The Newport Vacation
-# Part 8: BayFront Creamery
 
 ## Date: Saturday, July 16, 1994 Time: 1:15 PM Location: BayFront Creamery, West Main Road, Middletown, RI
 
@@ -690,7 +682,6 @@ She took another sip of the Colossal Cooler. It was awful big. And it was awful 
 ### Part 9: The Bennett Beacon
 
 # The Newport Vacation
-# Part 9: The Bennett Beacon
 
 ## Date: Saturday, July 16, 1994 Time: 2:30 PM Location: The Cockpit (Uncle Mark’s Apartment)
 
@@ -767,7 +758,6 @@ Ellen leaned down and kissed Nichole on the head, right as the red light pulsed.
 ### Part 1: Origin Story: Project Alpha
 
 # Project Alpha
-# Part 1: Origin Story: Project Alpha
 
 ## Date: June 15, 1996 Age: 10 Years Old Location: The Garage / Kitchen, 1850 Delaney Street
 

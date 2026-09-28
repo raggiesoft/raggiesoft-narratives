@@ -10,7 +10,6 @@ series: "The Silver Gauntlet of Aethel"
 ### Part 1: Chapter 1: The Architect\'s Lesson
 
 # Book I: The Silver Sun
-# Part 1: Chapter 1: The Architect\'s Lesson
 
 ## Part 1: The Tuning of the Flare
 
@@ -275,7 +274,6 @@ It was the only blanket she ever needed.
 ### Part 2: Chapter 2: The Age of Twilight
 
 # Book I: The Silver Sun
-# Part 2: Chapter 2: The Age of Twilight
 
 ## Part 1: The Scholar of the Twin Suns
 

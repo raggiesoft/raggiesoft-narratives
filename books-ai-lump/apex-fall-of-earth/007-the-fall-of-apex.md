@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Sovereign’s Hubris
 
 # Checkmate
-# Part 1: The Sovereign’s Hubris
 
 High Director Kael was not a man who waited.
 
@@ -101,7 +100,6 @@ From deep within the hidden, fifty-meter-tall alien pine forests, ten blinding s
 ### Part 2: The Geneva Standard
 
 # Checkmate
-# Part 2: The Geneva Standard
 
 The Combat Information Center was completely silent, save for the low, rhythmic thrum of the geothermal reactors feeding power to the defense grid.
 
@@ -196,7 +194,6 @@ The Sentinel drones were closing in on the crash site. The High Director of the 
 ### Part 3: The Extraction
 
 # Checkmate
-# Part 3: The Extraction
 
 The northern temperate forest of Planet Eden was completely silent, save for the crackle of burning durasteel and the hiss of superheated coolant venting into the rich, damp soil.
 
@@ -261,7 +258,6 @@ High Director Kael had come to Planet Eden to conquer ghosts. Instead, he was be
 ### Part 4: The Laws of War
 
 # Checkmate
-# Part 4: The Laws of War
 
 While the automated Sentinel drones silently hauled the unconscious Sovereign of Acheron through the dense alien pine forest toward the Sub-Level 5 holding cells, Wyatt Colton was already back on the residential level, executing his most important duty of the morning.
 
@@ -356,7 +352,6 @@ The Vanguard was briefed. The moral high ground was completely secured. And Wyat
 ### Part 5: The Interrogation
 
 # Checkmate
-# Part 5: The Interrogation
 
 The pneumatic elevator hummed a low, steady note as it carried Wyatt and Sarah Colton down to Sub-Level 5.
 
@@ -475,7 +470,6 @@ As the heavy blast doors slid shut, sealing the terrified dictator inside, Wyatt
 ### Part 6: The Handover
 
 # Checkmate
-# Part 6: The Handover
 
 Three days after the narrow-beam transmission pierced the vacuum of space, the sky above Planet Eden finally parted.
 
@@ -572,7 +566,6 @@ They turned their backs on the sky, walking hand-in-hand toward the camouflaged 
 ### Part 7: The Classified Intel
 
 # Checkmate
-# Part 7: The Classified Intel
 
 The heavy, brushed-steel blast doors of the primary hangar hissed shut, sealing the mountain fortress behind Wyatt and Sarah Colton.
 
@@ -657,7 +650,6 @@ Wyatt let out a booming, chest-deep laugh, pushing himself up off the floor. He 
 ### Part 1: The Government-in-Exile
 
 # The Trial of the Century
-# Part 1: The Government-in-Exile
 
 The mahogany-paneled library of The Sanctuary was perfectly quiet, but the atmosphere was buzzing with an intense, electrified anticipation.
 
@@ -720,7 +712,6 @@ In the library on Planet Eden, Wyatt gave Sarah a firm, reassuring nod.
 ### Part 2: The Star Witnesses
 
 # The Trial of the Century
-# Part 2: The Star Witnesses
 
 Inside the *UNS Citadel* courtroom, a brilliant column of blue quantum light erupted directly beside the Prosecutor’s podium.
 
@@ -805,7 +796,6 @@ Wyatt offered his hand to Sarah, pulling her up from the sofa. They walked out o
 ### Part 3: The Fab-Foundry Apprentice
 
 # The Trial of the Century
-# Part 3: The Fab-Foundry Apprentice
 
 The heavy, brushed-steel doors of the pneumatic elevator hissed open, revealing the massive, cavernous expanse of the Fabrication Foundry.
 
@@ -894,7 +884,6 @@ The Colton family stood together in the warm, ozone-scented air of the industria
 ### Part 4: The Verdict and the Vault
 
 # The Trial of the Century
-# Part 4: The Verdict and the Vault
 
 The sprawling, mahogany-paneled library of the estate was perfectly still, but the air above the massive holographic glass table was electric.
 
@@ -1007,7 +996,6 @@ Sarah smiled, leaning her weight against his side as they watched their children
 ### Part 5: The Sentinel Treaty
 
 # The Trial of the Century
-# Part 5: The Sentinel Treaty
 
 The sprawling, sunlit living room of the mountain estate was a picture of absolute, unshakeable tranquility.
 
@@ -1098,7 +1086,6 @@ As the Vanguard disappeared down the hall, Wyatt wrapped his arms securely aroun
 ### Part 1: The Healing Room
 
 # The Architects of Eden
-# Part 1: The Healing Room
 
 The automated medical bay on Sub-Level 1 was bathed in a warm, golden-amber light. The quiet, rhythmic strumming of acoustic guitar music played softly from the ceiling’s high-fidelity acoustic array.
 
@@ -1135,7 +1122,6 @@ Wyatt leaned over, burying his face in Sarah’s damp hair, his massive arms wra
 ### Part 2: The Diplomat\'s Detail
 
 # The Architects of Eden
-# Part 2: The Diplomat\'s Detail
 
 Three days later, the residential living room was operating at peak morning efficiency.
 
@@ -1182,7 +1168,6 @@ Jack looked up at his parents, his hands held perfectly still by his two new sis
 ### Part 3: The First Blueprint
 
 # The Architects of Eden
-# Part 3: The First Blueprint
 
 The estate was beautifully quiet. The six children were finally asleep in the massive, sprawling nursery—the Vanguard tangled together on their floor-level Mega-Bed, and Jack sleeping deeply in his standard toddler bed, parked right next to the twin's shared bassinet.
 
@@ -1233,7 +1218,6 @@ Wyatt looked at the hologram, thinking of the long, terrifying journey that had 
 ### Part 4: The History Lesson
 
 # The Architects of Eden
-# Part 4: The History Lesson
 
 The sprawling, sage-green nursery on the residential level had naturally divided itself into two distinct, highly functional operational zones.
 

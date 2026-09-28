@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Loop
 
 # The Launch Code
-# Part 1: The Loop
 
 ## June 14, 2003 10:00 AM
 
@@ -163,7 +162,6 @@ They burst out of the Atlantic Dome and into the blinding sunlight of the parkin
 ### Part 2: The Frequency
 
 # The Launch Code
-# Part 2: The Frequency
 
 The ceremony ended. The Atlantic Dome disgorged the graduates into the blinding June sunlight of the parking lot. The air was hot—90 degrees and heavy with salt spray. Freddie stripped off his cap immediately, throwing it on the ground. "Air," he gasped, loosening the gown. "Too hot. System overheating." "We're done," Paige said, grabbing his arm to steady him. "We did it. We're free."
 
@@ -212,7 +210,6 @@ Jessica slammed the car into gear. The Avalon peeled out of the parking lot, lea
 ### Part 3: The Base
 
 # The Launch Code
-# Part 3: The Base
 
 ## June 14, 2003 19:30 PM
 
@@ -261,7 +258,6 @@ Freddie looked around the room. No parents fighting downstairs. No Robert trying
 ### Part 1: The Manual
 
 # The Source Code
-# Part 1: The Manual
 
 ## Sunday, June 15, 2003 09:30 AM
 
@@ -314,7 +310,6 @@ Freddie looked around the kitchen. He looked at the soft morning light filtering
 ### Part 2: The Calibration
 
 # The Source Code
-# Part 2: The Calibration
 
 ## Sunday, June 15, 2003 10:15 AM
 
@@ -355,7 +350,6 @@ He closed his eyes again, focusing on the sensation of the moment. He felt Paige
 ### Part 3: The Curriculum
 
 # The Source Code
-# Part 3: The Curriculum
 
 ## Sunday, June 15, 2003 11:00 AM
 
@@ -392,7 +386,6 @@ Freddie leaned back into the sofa, feeling the warmth of his sisters on both sid
 ### Part 4: The Open Door
 
 # The Source Code
-# Part 4: The Open Door
 
 ## Sunday, June 15, 2003 22:30 PM
 
@@ -457,7 +450,6 @@ He closed his eyes. The static was gone. The loop was broken. For the first time
 ### Part 5: The Morning After
 
 # The Source Code
-# Part 5: The Morning After
 
 ## Monday, June 16, 2003 08:30 AM
 
@@ -518,7 +510,6 @@ Freddie looked out the window. He couldn't speak, but his leg started bouncing u
 ### Part 6: The Cartridge Exchange
 
 # The Source Code
-# Part 6: The Cartridge Exchange
 
 ## Monday, June 16, 2003 11:15 AM
 
@@ -577,7 +568,6 @@ They walked out into the sunshine of Blacksburg, ready to wire up the Iron City.
 ### Part 7: Channel 3
 
 # The Source Code
-# Part 7: Channel 3
 
 ## Monday, June 16, 2003 13:15 PM
 
@@ -638,7 +628,6 @@ The **King Bed** offered 76 inches of width—enough for them to sleep without t
 ### Part 1: The Loophole
 
 # The Syllabus
-# Part 1: The Loophole
 
 ## Sunday, June 22, 2003 09:00 AM
 
@@ -701,7 +690,6 @@ She checked her watch. "The Campus Bookstore is open today for the summer intake
 ### Part 2: The Run
 
 # The Syllabus
-# Part 2: The Run
 
 The silver **Horizon Avalon** sat in the driveway of 105 Pepper Street, reflecting the mid-morning sun. It was a rare beast for a sedan of its size—a V6 engine paired with a 5-speed manual transmission. "I will drive," Paige said, snagging the keys from the hook by the door. "I need the practice on the hills. If I can drive in Blacksburg, I can drive anywhere."
 
@@ -822,7 +810,6 @@ They walked out of the building. The sun was high and bright. "Okay," Jessica sa
 ### Part 3: The Medical Logistics
 
 # The Syllabus
-# Part 3: The Medical Logistics
 
 ## 13:30 PM En Route to 105 Pepper St.
 
@@ -851,7 +838,6 @@ Freddie looked out the window as they turned onto Pepper Street. The bus to Rine
 ### Part 4: The Schematic
 
 # The Syllabus
-# Part 4: The Schematic
 
 ## Monday, June 23, 2003 14:00 PM
 
@@ -890,7 +876,6 @@ Jessica looked at Paige. Paige nodded. She didn't look scared. She looked like s
 ### Part 5: Data Verified
 
 # The Syllabus
-# Part 5: Data Verified
 
 ## 15:00 PM
 
@@ -923,7 +908,6 @@ Paige leaned her head on his shoulder. "Systems go, Navigator."
 ### Part 6: The Clear Curtain
 
 # The Syllabus
-# Part 6: The Clear Curtain
 
 ## Monday, June 23, 2003 21:00 PM
 
@@ -970,7 +954,6 @@ Freddie stood up. He dried himself behind the clear curtain, watching Paige fini
 ### Part 7: The Silo
 
 # The Syllabus
-# Part 7: The Silo
 
 ## 22:15 PM
 
@@ -1001,7 +984,6 @@ He let out a long, slow breath. The static in his head—the white noise of fear
 ### Part 1: The Primary Node
 
 # The Network
-# Part 1: The Primary Node
 
 ## Wednesday, June 25, 2003 09:30 AM
 
@@ -1076,7 +1058,6 @@ He looked at the papers. They weren't just slips of paper. They were patch notes
 ### Part 2: The Red Flag
 
 # The Network
-# Part 2: The Red Flag
 
 ## Tuesday, June 24, 2003 02:15 AM
 
@@ -1127,7 +1108,6 @@ Here is Part 3 of the narrative, detailing the trip to Riner and the medical app
 ### Part 3: The Maintenance Run
 
 # The Network
-# Part 3: The Maintenance Run
 
 ## Tuesday, July 1, 2003
 
@@ -1212,7 +1192,6 @@ They boarded, taking their seats in the cool air conditioning. As the bus wound 
 ### Part 1: Ground Rules
 
 # Proper Terminology
-# Part 1: Ground Rules
 
 The fluorescent lights of the classroom hummed, a stark contrast to the humid warmth of a Blacksburg summer afternoon outside. This was HPE 204: Dimensions of Human Sexuality.
 
@@ -1261,7 +1240,6 @@ Freddie took a syllabus as the pile passed him, handing the rest to Paige. He gl
 ### Part 2: Zero Tolerance
 
 # Proper Terminology
-# Part 2: Zero Tolerance
 
 Dr. Thorne moved through the syllabus with the efficiency of a surgeon. She didn’t pace; she planted herself behind the podium and let the weight of the topics settle over the room.
 
@@ -1316,7 +1294,6 @@ He glanced at Paige, offering a small, dismissive shrug. She smiled—a tiny, pr
 ### Part 3: Safe Harbor
 
 # Proper Terminology
-# Part 3: Safe Harbor
 
 The rest of the lecture blurred into a stream of biological terms and syllabus dates. Dr. Thorne didn’t let the tension linger; she buried it under a mountain of academic expectations. By the time she capped her marker and announced, "Class dismissed," the incident with the girl felt like a distant memory to everyone—except the three people in the second row.
 
@@ -1353,7 +1330,6 @@ He was too busy holding onto the sister who made the world stop spinning.
 ### Part 4: The Predator
 
 # Proper Terminology
-# Part 4: The Predator
 
 The journey from the classroom door to the building lobby was only fifty yards, but to Freddie, it felt like a forced march across a gravity-heavy planet.
 
@@ -1476,7 +1452,6 @@ Jessica watched her go, brushing a piece of lint off her Forger t-shirt. Then sh
 ### Part 5: Geometry and Physics
 
 # Proper Terminology
-# Part 5: Geometry and Physics
 
 The lobby bench was hard wood, but to Freddie, it felt like a recharge station. He sat in the middle, eyes closed, letting his breathing sync with the steady rise and fall of Paige’s chest against his right side.
 
@@ -1591,7 +1566,6 @@ Freddie leaned back against the wall. The lobby was quiet again. The threats—t
 ### Part 6: The Safe Zone
 
 # Proper Terminology
-# Part 6: The Safe Zone
 
 ## 13:15 PM
 
@@ -1680,7 +1654,6 @@ The bus hissed to a halt. The doors opened. They stepped out into the sunshine o
 ### Part 7: The Incorrect Variable
 
 # Proper Terminology
-# Part 7: The Incorrect Variable
 
 ## Wednesday, July 9, 2003 14:00 PM
 
@@ -1869,7 +1842,6 @@ The noise of the student center continued around them, but in their little bubbl
 ### Part 8: The Distortion
 
 # Proper Terminology
-# Part 8: The Distortion
 
 ## Wednesday, July 9, 2003 14:15 PM
 
@@ -2004,7 +1976,6 @@ He kept his face buried in her lap, ignoring the world, ignoring the girl outsid
 ### Part 9: The Contaminant
 
 # Proper Terminology
-# Part 9: The Contaminant
 
 ## Wednesday, July 9, 2003 14:35 PM
 
@@ -2155,7 +2126,6 @@ They finished their meal under the watchful, hungry eyes of the girl who thought
 ### Part 10: The Humidity Index
 
 # Proper Terminology
-# Part 10: The Humidity Index
 
 ## Wednesday, July 9, 2003 15:00 PM
 
@@ -2248,7 +2218,6 @@ Freddie smiled. He didn't want Krystal's dorm room. He didn't want the friction.
 ### Part 1: The Cool Down
 
 # The Admin Console
-# Part 1: The Cool Down
 
 ## Wednesday, July 9, 2003 15:40 PM
 
@@ -2355,7 +2324,6 @@ He was in the Base, and the perimeter was secure.
 ### Part 2: The Signal
 
 # The Admin Console
-# Part 2: The Signal
 
 ## Wednesday, July 9, 2003 16:00 PM
 
@@ -2552,7 +2520,6 @@ He was in the Safe Zone. He was with the people who knew his name. And that was 
 ### Part 3: The Final Frontier
 
 # The Admin Console
-# Part 3: The Final Frontier
 
 ## Wednesday, July 9, 2003 17:00 PM
 
@@ -2691,7 +2658,6 @@ He watched the ship streak into warp speed, a streak of light against the darkne
 ### Part 4: The System Architecture
 
 # The Admin Console
-# Part 4: The System Architecture
 
 ## Wednesday, July 9, 2003 20:45 PM
 
@@ -2772,7 +2738,6 @@ Freddie stood up. He felt tired, but it was a good tired. The day had been full 
 ### Part 5: The Sandwich Configuration
 
 # The Admin Console
-# Part 5: The Sandwich Configuration
 
 ## Wednesday, July 9, 2003 21:10 PM
 
@@ -2849,7 +2814,6 @@ One day ended. The next—the day he would finally get his name—was waiting in
 ### Part 1: The Debugger
 
 # Autism Diagnosis
-# Part 1: The Debugger
 
 ## Thursday, July 10, 2003 09:45 AM
 
@@ -2910,7 +2874,6 @@ Paige took Freddie’s hand. "Come on, Architect. Let's go see the wizard."
 ### Part 2: Operating Systems
 
 # Autism Diagnosis
-# Part 2: Operating Systems
 
 ## 10:00 AM
 
@@ -2955,7 +2918,6 @@ Freddie froze. That was exactly it.
 ### Part 3: The King Bed Defense
 
 # Autism Diagnosis
-# Part 3: The King Bed Defense
 
 ## 10:30 AM
 
@@ -3002,7 +2964,6 @@ Freddie let out a breath he felt like he’d been holding since childhood. *Bril
 ### Part 4: The Source Code
 
 # Autism Diagnosis
-# Part 4: The Source Code
 
 ## 11:00 AM
 
@@ -3051,7 +3012,6 @@ Paige laughed, hooking her arm through his. "Let's go, Architect."
 ### Part 5: The Uplink
 
 # Autism Diagnosis
-# Part 5: The Uplink
 
 ## Monday, July 14, 2003 12:15 PM
 
@@ -3108,7 +3068,6 @@ Freddie stood up. He adjusted his glasses. He checked his pocket one last time t
 ### Part 6: The Thunderhead
 
 # Autism Diagnosis
-# Part 6: The Thunderhead
 
 ## Monday, July 14, 2003 15:00 PM
 
@@ -3257,7 +3216,6 @@ Outside, the storm raged on. But inside the circle of the Avery Unit, the perime
 ### Part 7: The Warning
 
 # Autism Diagnosis
-# Part 7: The Warning
 
 ## Monday, July 14, 2003 15:12 PM
 
@@ -3368,7 +3326,6 @@ He just walked, flanked by his sisters, moving toward the bus stop. He was empty
 ### Part 8: The All Clear
 
 # Autism Diagnosis
-# Part 8: The All Clear
 
 ## Monday, July 14, 2003 16:00 PM
 
@@ -3433,7 +3390,6 @@ He closed his eyes. He wasn't the Captain right now. He wasn't the Architect. He
 ### Part 1: The Decompression Protocol
 
 # The Prime Time Block
-# Part 1: The Decompression Protocol
 
 ## Monday, July 14, 2003 17:15 PM
 
@@ -3564,7 +3520,6 @@ For the next hour, there was no Krystal. There was no tornado. There was only th
 ### Part 2: The Emergency Brake
 
 # The Prime Time Block
-# Part 2: The Emergency Brake
 
 ## Monday, July 14, 2003 21:00 PM
 
@@ -3657,7 +3612,6 @@ Safe in the sandwich configuration, held by the only two people who knew how to 
 ### Part 3: The Dark Closet
 
 # The Prime Time Block
-# Part 3: The Dark Closet
 
 ## Tuesday, July 15, 2003 02:45 AM
 
@@ -3718,7 +3672,6 @@ She leaned in, her lips inches from his—
 ### Part 4: The Awakening
 
 # The Prime Time Block
-# Part 4: The Awakening
 
 ## 02:46 AM
 
@@ -3821,7 +3774,6 @@ Held tight in the center of the Avery Unit, Freddie finally closed his eyes. The
 ### Part 5: The Recovery Cycle
 
 # The Prime Time Block
-# Part 5: The Recovery Cycle
 
 ## Tuesday, July 15, 2003 09:30 AM
 
@@ -3912,7 +3864,6 @@ Here, in the light of the living room, with the taste of oats and the weight of 
 ### Part 6: The System Halt
 
 # The Prime Time Block
-# Part 6: The System Halt
 
 ## Tuesday, July 15, 2003 10:15 AM
 
@@ -3985,7 +3936,6 @@ The homework sat on the floor, ignored. The TV stared blankly at them. But in th
 ### Part 7: Manual Override
 
 # The Prime Time Block
-# Part 7: Manual Override
 
 ## Tuesday, July 15, 2003 10:30 AM
 
@@ -4080,7 +4030,6 @@ Freddie adjusted his glasses. He was still drained. He was still in his sister's
 ### Part 1: The Purge
 
 # The Anatomy of Resilience
-# Part 1: The Purge
 
 ## Wednesday, July 16, 2003 13:00 PM
 
@@ -4171,7 +4120,6 @@ He looked around the room. The creeps were gone. The noise was gone.
 ### Part 2: The Buffer
 
 # The Anatomy of Resilience
-# Part 2: The Buffer
 
 ## Wednesday, July 16, 2003 14:15 PM
 
@@ -4276,7 +4224,6 @@ They walked out of the library, leaving the stress of the assignment behind them
 ### Part 3: The Quiet Room
 
 # The Anatomy of Resilience
-# Part 3: The Quiet Room
 
 ## Wednesday, July 23, 2003 09:45 AM
 
@@ -4459,7 +4406,6 @@ He thought about the "Machine" of the football team, the "Engine" of the wheelch
 ### Part 4: The Transit & The Trail
 
 # The Anatomy of Resilience
-# Part 4: The Transit & The Trail
 
 ## 11:15 AM — Alumni Mall
 
@@ -4596,7 +4542,6 @@ And for Freddie Avery, the view was perfect.
 ### Part 5: The Recharge
 
 # The Anatomy of Resilience
-# Part 5: The Recharge
 
 ## Wednesday, July 23, 2003 16:30 PM
 
@@ -4687,7 +4632,6 @@ The Avalon rolled back into the heat of the valley, carrying three explorers who
 ### Part 6: The Drive-Thru
 
 # The Anatomy of Resilience
-# Part 6: The Drive-Thru
 
 ## Wednesday, July 23, 2003 17:00 PM
 
@@ -4744,7 +4688,6 @@ She pulled out of the Brawny Burger lot, turned right onto First Street, and the
 ### Part 7: Dinner
 
 # The Anatomy of Resilience
-# Part 7: Dinner
 
 ## Wednesday, July 23, 2003 17:15 PM — 105 Pepper Street
 
@@ -4821,7 +4764,6 @@ They ate their Brawny Burgers in the quiet safety of the Iron City, planning the
 ### Part 8: The Cost-Benefit Analysis
 
 # The Anatomy of Resilience
-# Part 8: The Cost-Benefit Analysis
 
 ## Wednesday, July 23, 2003 17:45 PM — 105 Pepper Street
 
@@ -4898,7 +4840,6 @@ And for the Avery Unit, that was the only ride they needed.
 ### Part 9: The Analog Archive
 
 # The Anatomy of Resilience
-# Part 9: The Analog Archive
 
 ## Wednesday, July 23, 2003 20:00 PM — 105 Pepper Street
 
@@ -5017,7 +4958,6 @@ The Archive was secure. The Unit was online. And the Sentinels were waiting on t
 ### Part 10: The Captaincy Protocol
 
 # The Anatomy of Resilience
-# Part 10: The Captaincy Protocol
 
 ## Wednesday, July 23, 2003 21:30 PM — 105 Pepper Street
 
@@ -5108,7 +5048,6 @@ In his mind, the debate was settled. The 1960s were noise. The *New Era* was mus
 ### Part 11: The Shutdown Sequence
 
 # The Anatomy of Resilience
-# Part 11: The Shutdown Sequence
 
 ## Wednesday, July 23, 2003 22:00 PM — 105 Pepper Street
 

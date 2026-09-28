@@ -10,7 +10,6 @@ series: "Nichole"
 ### Part 1: The Last Funeral
 
 # The Long Retreat
-# Part 1: The Last Funeral
 
 ## Date: November 12, 2042 Age: 57 Location: 95 West Main Road, Portsmouth, RI
 
@@ -35,7 +34,6 @@ He walked over to the hallway closet—the one Mark had converted back in 2003. 
 ### Part 2: The City Problem
 
 # The Long Retreat
-# Part 2: The City Problem
 
 ## Date: February 2043 Location: The Foundry Lofts, Braxton
 
@@ -62,7 +60,6 @@ She tapped her screen. WE. NEED. A. RANCH.
 ### Part 3: The Decision
 
 # The Long Retreat
-# Part 3: The Decision
 
 ## Date: April 2043 Location: The Kitchen, Unit 404
 
@@ -85,7 +82,6 @@ Patrick read the words. *I want easy.* He let out a long breath. He rubbed his e
 ### Part 4: The Return
 
 # The Long Retreat
-# Part 4: The Return
 
 ## Date: June 15, 2043 Location: 95 West Main Road, Portsmouth, RI
 
@@ -114,7 +110,6 @@ Patrick lay back on the bed, staring at the ceiling. He didn't have to worry abo
 ### Part 1: The First Breakdown
 
 # The Slow Rust
-# Part 1: The First Breakdown
 
 ## Date: November 12, 2045 Age: 60 Location: The Master Suite, The Fortress (Portsmouth)
 
@@ -149,7 +144,6 @@ The next day, they ordered a ceiling-mounted lift track system. It wasn't a defe
 ### Part 2: The Shared Breath
 
 # The Slow Rust
-# Part 2: The Shared Breath
 
 ## Date: March 3, 2055 Age: 69 Location: The Bennett Wing
 
@@ -196,7 +190,6 @@ Patrick took a deep breath of the cool, concentrated air flowing from the back o
 ### Part 3: The Final Perimeter
 
 # The Slow Rust
-# Part 3: The Final Perimeter
 
 ## Date: January 2058 Age: 72 Location: The Master Bed
 

@@ -10,7 +10,6 @@ series: "Nichole"
 ### Part 1: The Curb Trap
 
 # The Test Run
-# Part 1: The Curb Trap
 
 Date: August 28, 1996 (Three days before 6th Grade)
 
@@ -101,7 +100,6 @@ Ellen looked down the street at the school, then at her kids. "I'm calling the c
 ### Part 1: Arrival at Morrison Middle School
 
 # The Yellow Wall
-# Part 1: Arrival at Morrison Middle School
 
 Date: September 3, 1996 (First Day of 6th Grade) Time: 07:45 AM Location: The Corner of Earnhardt & Morrison
 
@@ -192,7 +190,6 @@ She looked at Patrick and tapped her temple. *Crazy.*
 ### Part 1: The Fire Alarm
 
 # Middle School Life
-# Part 1: The Fire Alarm
 
 ## Date: October 14, 1996 Time: 11:00 AM Location: Morrison Middle School, Virginia Beach Grade: 6th Grade
 
@@ -367,7 +364,6 @@ He turned the chair around, putting his back to the Principal, and pushed Nichol
 ### Part 2: The Call
 
 # Middle School Life
-# Part 2: The Call
 
 ## Time: 11:30 AM Location: The Bennett Kitchen (3 Blocks Away)
 
@@ -1150,7 +1146,6 @@ It was official. The Bennett Machine was no longer a rogue operation. It was dis
 ### Part 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
 
 # Middle School Life
-# Part 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
 
 The victory had lasted exactly twenty-eight days.
 
@@ -1341,7 +1336,6 @@ Patrick went inside. Tom stayed in the garage, listening to the silence, praying
 ### Part 4: The Third Wheel
 
 # Middle School Life
-# Part 4: The Third Wheel
 
 ## Date: November 12, 1997 Grade: 7th Grade Location: Mrs. Miller’s Life Science Room, Morrison Middle School
 
@@ -1434,7 +1428,6 @@ Nichole poised her finger over the VocaLink's thermal printer button. She wasn't
 ### Part 5: The Architect and the Laborer
 
 # Middle School Life
-# Part 5: The Architect and the Laborer
 
 ## Date: November 12, 1997 Time: 10:45 AM Location: Mrs. Miller’s Life Science Room
 

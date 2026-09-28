@@ -10,7 +10,6 @@ series: ""
 ### Part 1: Static
 
 # The Cracks
-# Part 1: Static
 
 The summer heat in Virginia Beach was usually a physical weight, a wet blanket of humidity that smelled of asphalt and salt. But inside the Avery house, the air felt heavy for a different reason.
 
@@ -101,7 +100,6 @@ Freddie leaned into her touch, the tension in his spine dissolving. The house do
 ### Part 2: The Escape Vehicle
 
 # The Cracks
-# Part 2: The Escape Vehicle
 
 The calendar on the kitchen wall read **June 19, 2001**. It was a Tuesday, and the humidity outside was pushing ninety percent.
 
@@ -180,7 +178,6 @@ Paige looked at Freddie over the roof of the car. She smiled, a tired but genuin
 ### Part 3: The Route
 
 # The Cracks
-# Part 3: The Route
 
 The beige sedan sat vibrating in the driveway of 1852 Delaney Street. The engine idle was rough, shaking the dashboard slightly and making Freddie’s teeth chatter if he didn't clench them.
 
@@ -265,7 +262,6 @@ They walked toward the double doors, the "Avery Corporation" moving from the sti
 ### Part 4: The Sugar Rush
 
 # The Cracks
-# Part 4: The Sugar Rush
 
 The elevator doors slid open with a cheerful *ding*, and the noise hit them like a physical wave.
 
@@ -342,7 +338,6 @@ Freddie looked out at the chaotic room—the teenagers flirting near the pizza p
 ### Part 5: The Calculation
 
 # The Cracks
-# Part 5: The Calculation
 
 The arcade at Emerald Creek Mall was named **The Starcade**. It was located just past the food court restrooms, a dark cave illuminated by the flashing CRTs of attract screens and the neon glow of Lane-Master lanes.
 
@@ -417,7 +412,6 @@ For a moment, the tension of the house, the "spiky air" of their parents' marria
 ### Part 6: The Collapse
 
 # The Cracks
-# Part 6: The Collapse
 
 The high of the Starcade lasted exactly until the front door of 1852 Delaney Street clicked shut behind them.
 
@@ -510,7 +504,6 @@ The Blueprint wasn't just a dream anymore. It was a necessity. They had to get o
 ### Part 7: The Closet
 
 # The Cracks
-# Part 7: The Closet
 
 ## September 2001
 
@@ -617,7 +610,6 @@ Paige looked at him—at the fear still lingering in his posture—and then she 
 ### Part 1: The Sofa
 
 # The Severance
-# Part 1: The Sofa
 
 The announcement hadn't been a scream. It hadn't been a dramatic fight with broken plates. It had been a conversation at the dinner table, delivered with the cold, sterile efficiency of a legal deposition.
 
@@ -718,7 +710,6 @@ Outside in the den, the TV flickered on the face of a man who realized, far too 
 ### Part 1: The Transfer Point
 
 # The Iron City
-# Part 1: The Transfer Point
 
 ## Friday, October 25, 2002
 
@@ -763,7 +754,6 @@ Ellen took the ramp onto Route 250, merging onto Richmond Avenue. The landscape 
 ### Part 2: The Red Booth
 
 # The Iron City
-# Part 2: The Red Booth
 
 The Zane's at 1250 Richmond Avenue was a beast of a building. It wasn't just a gas station; it was a brightly lit fortress of neon red and yellow, bustling with truckers, weary travelers, and college students heading south to Blacksburg or north to Harrisonburg.
 
@@ -842,7 +832,6 @@ As they merged onto I-81 South, leaving Zane's Market behind, Freddie watched th
 ### Part 3: The Detour
 
 # The Iron City
-# Part 3: The Detour
 
 **Friday, October 25, 2002**
 
@@ -895,7 +884,6 @@ They slid onto the interstate. The highway was empty. In the northbound lanes to
 ### Part 4: Pepper Plaza
 
 # The Iron City
-# Part 4: Pepper Plaza
 
 The rest of the drive was a blur of darkness and trucks. Jessica navigated the "chute" of I-81 with aggressive competence, darting between massive 18-wheelers that swayed in the wind.
 
@@ -930,7 +918,6 @@ She pulled the Avalon into a parking lot just a block away from the plaza. It wa
 ### Part 5: The Configuration
 
 # The Iron City
-# Part 5: The Configuration
 
 "Second floor," Jessica said, grabbing her bag. "Apartment 2B."
 
@@ -999,7 +986,6 @@ Freddie felt his shoulders drop three inches. The "Architecture" here was differ
 ### Part 1: Route 1
 
 # The Machine
-# Part 1: Route 1
 
 ## Saturday, October 26, 2002 06:45 AM
 
@@ -1084,7 +1070,6 @@ Ahead of them, the stone towers of the university rose up against the mountains.
 ### Part 2: The Acoustic Engine
 
 # The Machine
-# Part 2: The Acoustic Engine
 
 ## Saturday, October 26, 2002 07:50 AM
 
@@ -1157,7 +1142,6 @@ Freddie walked toward the bagels, but he kept glancing back at the stage. For th
 ### Part 3: The Pitch
 
 # The Machine
-# Part 3: The Pitch
 
 ## 08:00 AM
 
@@ -1238,7 +1222,6 @@ The applause was louder this time. The lights came up.
 ### Part 4: The Terminal
 
 # The Machine
-# Part 4: The Terminal
 
 ## 11:00 AM
 
@@ -1329,7 +1312,6 @@ As they walked out of Kelvin Hall back into the bright sunlight, Freddie felt in
 ### Part 5: The Foundry
 
 # The Machine
-# Part 5: The Foundry
 
 ## 12:00 PM
 
@@ -1384,7 +1366,6 @@ They cleared their trays on the loud conveyor belt—*clack-clack-clack*—and w
 ### Part 6: The Old Lady on the Hill
 
 # The Machine
-# Part 6: The Old Lady on the Hill
 
 ## 14:00 PM
 
@@ -1567,7 +1548,6 @@ Freddie looked at her. The static in his head was still deafening, but her voice
 ### Part 7: The Reset
 
 # The Machine
-# Part 7: The Reset
 
 ## 15:15 PM
 
@@ -1648,7 +1628,6 @@ They walked down the hill, away from Bennett Hall and its impossible rules, movi
 ### Part 8: The Iron Sea
 
 # The Machine
-# Part 8: The Iron Sea
 
 ## 17:30 PM
 
@@ -1771,7 +1750,6 @@ Freddie nodded, checking his earplugs one last time. He looked at the clock tick
 ### Part 9: The Forger's Call
 
 # The Machine
-# Part 9: The Forger's Call
 
 ## 19:00 PM
 
@@ -1882,7 +1860,6 @@ Freddie looked at the field. He looked at the anvil on the screen. He looked at 
 ### Part 10: The False Start
 
 # The Machine
-# Part 10: The False Start
 
 ## 19:15 PM (End of First Quarter)
 
@@ -1953,7 +1930,6 @@ As the quarter ended, the scoreboard told a story that the sports analysts on TS
 ### Part 11: System Overload
 
 # The Machine
-# Part 11: System Overload
 
 ## 20:00 PM (Second Quarter)
 
@@ -2044,7 +2020,6 @@ The scoreboard glowed with the impossible numbers. The number four team in the n
 ### Part 12: The Human Grid
 
 # The Machine
-# Part 12: The Human Grid
 
 ## 20:40 PM (Halftime)
 
@@ -2147,7 +2122,6 @@ He felt like he belonged in the Iron City.
 ### Part 13: Zero Tolerance
 
 # The Machine
-# Part 13: Zero Tolerance
 
 ## 21:15 PM (Third Quarter)
 
@@ -2228,7 +2202,6 @@ Freddie looked at the scoreboard. 27 to 0.
 ### Part 14: The Shutout
 
 # The Machine
-# Part 14: The Shutout
 
 ## 22:00 PM (Fourth Quarter)
 
@@ -2329,7 +2302,6 @@ The logic held up. The "Machine" worked. If you built a strong enough structure�
 ### Part 15: The Shuttle
 
 # The Machine
-# Part 15: The Shuttle
 
 ## 22:30 PM
 
@@ -2468,7 +2440,6 @@ Freddie Avery closed his eyes, anchored and safe, and drifted into the deep, dre
 ### Part 1: The Diagnosis
 
 # The Source Code
-# Part 1: The Diagnosis
 
 ## Sunday, October 27, 2002 07:30 AM
 
@@ -2619,7 +2590,6 @@ Jessica laughed, wiping her eyes. "Pancakes. The protocol is pancakes."
 ### Part 2: The Firewall
 
 # The Source Code
-# Part 2: The Firewall
 
 ## 10:00 AM
 
@@ -2752,7 +2722,6 @@ She watched them climb into their mother’s station wagon. As they pulled away,
 ### Part 3: The Protocol Upgrade
 
 # The Source Code
-# Part 3: The Protocol Upgrade
 
 ## Sunday, October 27, 2002 13:45 PM
 

@@ -10,7 +10,6 @@ series: "Alex & Chloé"
 ### Part 1: Cafeteria Entrance & Cafeteria – First Day, Fall 2002
 
 # A Last First Day of School
-# Part 1: Cafeteria Entrance & Cafeteria – First Day, Fall 2002
 
 The bell for fourth period was still a distant promise, but the nervous energy of the incoming freshman class already vibrated through the crowded hallways of Northwood High. A small, slightly bewildered herd of them had been unofficially corralled near the imposing double doors of the cafeteria by four seniors who, three years prior, had stood in their very shoes: Alex Miller, Chloé Mason, and the Porter twins, Luna and Leo. It was their turn, a rite of passage, to deliver the Unofficial Orientation.
 
@@ -69,7 +68,6 @@ She didn't need to raise her voice. Every freshman within earshot was frozen. Th
 ### Part 2: The First Separation
 
 # A Last First Day of School
-# Part 2: The First Separation
 
 The bell signaling the end of third period—their shared Lunch and Study Hall—jarred Alex with a new and unwelcome anxiety. For three years, that bell had simply meant it was time to head to their last class of the day, together. But today, for the first time, it meant something else. It meant separating.
 
@@ -104,7 +102,6 @@ The teacher started the lecture, and Alex tried to focus on the complex algorith
 ### Part 3: Main Lobby & Front Exit – End of First Day, Fall 2002
 
 # A Last First Day of School
-# Part 3: Main Lobby & Front Exit – End of First Day, Fall 2002
 
 The final bell of their first day as seniors echoed through the emptying halls of Northwood High, a signal for the usual chaotic exodus. Alex Miller and Chloé Mason emerged from their last class, Chloé easily adjusting her pace to match Alex as he navigated his "Quantum Glide" wheelchair through the thinning crowd. They were heading towards the main front entrance; Chloé’s reliable Horizon Avalon was in the student lot, but she often met Alex near the front pickup area first.
 
@@ -145,7 +142,6 @@ With final, sympathetic (and now doubly amused) nods, the four of them passed to
 ### Part 4: By the Dumpsters – First Day of School, Fall 2002, 2:13 PM
 
 # A Last First Day of School
-# Part 4: By the Dumpsters – First Day of School, Fall 2002, 2:13 PM
 
 The main throng of students had long since departed, the last school bus groaning its way off campus. Here, at the back loading docks, the air was thick with the familiar, potent perfume of the Northwood High dumpsters – a complex medley of stale cafeteria offerings, damp cardboard, and the faint, lingering ghost of forgotten science experiments.
 
@@ -176,7 +172,6 @@ Mr. Henderson Jr. stared from the overflowing dumpster to Mrs. DeMarco’s unwav
 ### Part 5: A Line too Far
 
 # A Last First Day of School
-# Part 5: A Line too Far
 
 The Northwood High cafeteria pulsed with its usual lunchtime chaos. Seniors Alex Miller and Chloé Mason were at their familiar table near the windows. Alex, in his "Quantum Glide" wheelchair, might have been showing Chloé something on his "Quantum OS Tablet Pro" AAC device, while Chloé, ever attentive, listened, her Québécois French occasionally peppering her replies. Across the room, Luna and Leo Porter were at their own table. Luna, her noticeable limp a familiar part of her rhythm as she moved around the cafeteria earlier, now sat comfortably, one hand perhaps resting on the armrest of Leo’s "Quantum PowerChair XT" as she often did for support when standing or shifting. Leo was engaged with his own "Quantum Communicator XT."
 
@@ -251,7 +246,6 @@ This time, Josh Riley hadn't just crossed Mrs. DeMarco. He'd almost crossed a li
 ### Part 1: The TADA Heard \'Round the Lab
 
 # A Quiet Miracle
-# Part 1: The TADA Heard \'Round the Lab
 
 The first day of AP Computer Science was a quiet affair. The teacher, Mr. Davies, a man with a genuine passion for technology, had been briefed by the guidance department: he would have a non-verbal student named Alex Miller, who used a wheelchair and an AAC device to communicate. Mr. Davies was prepared to be accommodating and patient.
 
@@ -284,7 +278,6 @@ Hannah Peterson looked over at Alex, a look of pure, impressed amusement on her 
 ### Part 2: The Missing Semicolon
 
 # A Quiet Miracle
-# Part 2: The Missing Semicolon
 
 The ninety minutes of 4th period on Purple Days had become a weekly exercise in endurance for Alex. AP Computer Science, a class he should have loved, was a source of constant, low-grade anxiety. It was the one place in his structured, predictable world where Chloé wasn't. The absence was a physical ache, a persistent hum of loneliness that made it difficult to focus.
 
@@ -319,7 +312,6 @@ When the bell finally rang, and Chloé appeared in the doorway, she saw Alex and
 ### Part 1: The \
 
 # The Fork in the Road
-# Part 1: The \
 
 The fall of their senior year at Northwood High was a pressure cooker of college applications, SAT scores, and the constant, looming question of "what's next?" For Alex and Chloé, the question was even more complex. It wasn't just about which college to choose; it was about how, or if, their inseparable unit could survive its first real encounter with the logistical realities of the adult world.
 
@@ -370,7 +362,6 @@ The fear of the separation was a physical thing in the room, a shared, aching gr
 ### Part 1: A Quiet Hurt
 
 # A Different Kind of Anchor
-# Part 1: A Quiet Hurt
 
 The winter semester of their senior year had settled into a familiar, if still slightly uncomfortable, rhythm. The ninety minutes of 4th period on Purple Days, when Alex was in AP Computer Science and Chloé was in AP French, remained a weekly challenge for them both, a small taste of the much larger separation to come. But over the months, Alex had found a quiet, steady anchor in that class: his friend, Hannah Peterson.
 
@@ -387,7 +378,6 @@ He knew, with a certainty born from his own experiences, that this wasn't the ki
 ### Part 2: A Simple Offer
 
 # A Different Kind of Anchor
-# Part 2: A Simple Offer
 
 When the bell finally rang, signaling the end of the period, Hannah began to pack her bag with a slow, listless energy, clearly trying to avoid talking to anyone. Alex waited patiently. As the rest of the class filed out, he turned his chair slightly to face her.
 
@@ -430,7 +420,6 @@ The three of them stood there for a moment, a small, supportive triangle in the 
 ### Part 1: The Accident
 
 # The Weight of Care
-# Part 1: The Accident
 
 The spring semester of their senior year was a countdown, each day a bittersweet step closer to graduation and their impending, two-year separation. One rainy Tuesday afternoon, during 4th period on a Gold Day, Alex and Chloé were in Creative Writing class. A sudden, urgent announcement crackled over the intercom: a water main had burst near the science wing, and school was being dismissed immediately.
 
@@ -443,7 +432,6 @@ Alex was at her side in an instant, the world narrowing to the sight of his best
 ### Part 2: The New Reality
 
 # The Weight of Care
-# Part 2: The New Reality
 
 The diagnosis at the hospital was grim: a severe fracture of her ankle, requiring surgery to set the bones with pins and plates. The result was a heavy, cumbersome cast from her toes to her knee and strict doctor's orders: absolutely no weight on that foot for at least six weeks.
 
@@ -468,7 +456,6 @@ The dynamic was instantly, profoundly, inverted. Chloé, the fierce protector, w
 ### Part 3: A New Kind of Teamwork
 
 # The Weight of Care
-# Part 3: A New Kind of Teamwork
 
 Their school days transformed into a masterclass in coordinated care. In the crowded hallways of Northwood High, it became a common sight: one of the fathers, either James or Thomas, pushing Chloé's rented manual wheelchair, with Alex wheeling alongside, Chloé's heavy backpack balanced expertly on his lap.
 
@@ -481,7 +468,6 @@ It was a massive, coordinated effort from all six of them, a testament to their 
 ### Part 4: Private Struggles and Quiet Dignity
 
 # The Weight of Care
-# Part 4: Private Struggles and Quiet Dignity
 
 The most intimate aspects of care remained the domain of Chloé's mother. Sophie Mason, with her unwavering love, was the one who helped Chloé with the difficult and awkward process of bathing. The first evening, they struggled in the Masons' standard, small bathroom.
 
@@ -498,7 +484,6 @@ Sophie would then step out, closing the door, giving Chloé the quiet, uninterru
 ### Part 5: A Deeper Understanding
 
 # The Weight of Care
-# Part 5: A Deeper Understanding
 
 The six weeks of Chloé's recovery were transformative.
 
@@ -521,7 +506,6 @@ Their bond, already unbreakable, had been tempered by this new, shared experienc
 ### Part 1: The Decision
 
 # The Last Dance
-# Part 1: The Decision
 
 The buzz around the Northwood High senior prom, a week away, was a low hum of excitement and anxiety. For Alex and Chloé, the question wasn't *who* they were going with, but *if* they were going at all.
 
@@ -536,7 +520,6 @@ And so, it was decided. They were going to the prom, not as a romantic couple, b
 ### Part 2: The Sabotage
 
 # The Last Dance
-# Part 2: The Sabotage
 
 The night of the prom, the gymnasium was a glittering, chaotic sea of taffeta and rented tuxedos. Alex and Chloé, looking elegant in their own simple, coordinated outfits, were having a surprisingly good time. They had found a quiet table with their friends, the Porter twins, and were enjoying the people-watching.
 
@@ -563,7 +546,6 @@ Josh Riley's face, for the last time in the hallways of Northwood High, went com
 ### Part 3: The People\'s Vote
 
 # The Last Dance
-# Part 3: The People\'s Vote
 
 As Mrs. DeMarco walked away, leaving Josh to stew in his own miserable failure, a new, rebellious energy began to buzz through the senior class. They had all seen what he did. A senior named Mark jumped up onto a chair.
 
@@ -602,7 +584,6 @@ That was the final blow. With a strangled cry of pure, impotent rage, Josh Riley
 ### Part 4: The Real Victory
 
 # The Last Dance
-# Part 4: The Real Victory
 
 Later that evening, after Josh's spectacular self-destruction and the crowning of the trash can, the DJ announced the final slow dance of the night. Alex, his face full of a quiet, triumphant peace, looked at Chloé. MAY I HAVE THIS DANCE? his Quantum Communicator XT voiced.
 

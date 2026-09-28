@@ -10,7 +10,6 @@ series: ""
 ### Part 1: Breakthrough for Leo
 
 # The MagnaByte Opus Lifeline
-# Part 1: Breakthrough for Leo
 
 Their first real breakthrough had come years earlier, around 1992, in the noisy computer lab of their elementary school, Willow Creek Elementary (Home of the Otters). Faced with rows of aging but functional MagnaByte Opus machines, seven-year-old Leo, previously struggling to express himself through laborious handwriting and lacking any other communication aids, discovered that resting his hands on the keyboard allowed him to painstakingly tap out words. For Luna, typing offered a clarity and flow that sometimes eluded her speech. This was their first taste of fluent written communication, a revelation after years of difficulty. The school recognized the significance of this discovery.
 
@@ -23,7 +22,6 @@ Ms. Evans recognized that the MagnaByte Opus was not merely a computer preferenc
 ### Part 2: Student Training and Education Program
 
 # The MagnaByte Opus Lifeline
-# Part 2: Student Training and Education Program
 
 The presence of Officer Davis in their 5th-grade classroom at Willow Creek Elementary created a buzz of excitement that Mrs. Gable, their regular teacher, struggled to contain. Project S.T.E.P. day was always a bit different. Officer Davis, uniformed and smiling, stood near the front, beside a tall metal cart holding a television and video player – technology that still held a certain novelty in the classroom. Luna and Leo sat at their shared table near the back. Luna adjusted the ill-fitting, slightly oversized glasses perched on her nose – a relatively new addition this year after squinting at the microwave clock had revealed her nearsightedness. The world was somewhat clearer with them, but she still found herself squinting occasionally to see the board properly, and they constantly slid down her nose. Leo watched the officer with quiet intensity, while Luna fidgeted slightly, glancing between the officer, now clearly visible thanks to her glasses, and the intriguing TV cart.  
 
@@ -105,7 +103,6 @@ Hanging up the phone, Stella stared blankly at her textbooks. The call had chang
 ### Part 1: Stella to the Sore Rescue
 
 # The Pressure Sore
-# Part 1: Stella to the Sore Rescue
 
 A few weeks after the pivotal call from Ms. Evans, Stella was visiting her parents' house on a Saturday afternoon. The air was stagnant, thick with the usual smell of stale beer and neglect. Luna was attempting homework at the kitchen table, while Leo was in his wheelchair in the cramped living room, listlessly watching whatever daytime television show was on. Stella went over to him. A loud burp echoed from the recliner. *Mother, that is disgusting, and you know it*, Stella thought to herself, seeing her mother down another can.
 
@@ -178,7 +175,6 @@ Understanding, Stella agreed. Soon, all three were settled on the bed, drifting 
 ### Part 2: Sunday with Stella
 
 # The Pressure Sore
-# Part 2: Sunday with Stella
 
 Sunday morning in the small apartment felt blessedly calm. After breakfast, Stella focused on Leo's bath.
 

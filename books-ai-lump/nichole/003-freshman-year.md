@@ -10,7 +10,6 @@ series: "Nichole"
 ### Part 1: The 5 AM Alarm
 
 # Welcome to Northwood High School
-# Part 1: The 5 AM Alarm
 
 The red digits of the alarm clock clicked from 4:59 to 5:00.
 
@@ -73,7 +72,6 @@ Patrick grabbed the push handles. He leaned his weight on them, feeling his bala
 ### Part 2: The War Room
 
 # Welcome to Northwood High School
-# Part 2: The War Room
 
 The kitchen was bright, smelling of coffee and burnt toast.
 
@@ -130,7 +128,6 @@ They rolled out the front door into the humid Virginia morning, leaving the safe
 ### Part 3: The Soft Trap
 
 # Welcome to Northwood High School
-# Part 3: The Soft Trap
 
 ## Date: September 1999 Location: Northwood High School Grade: 9th Grade
 
@@ -271,7 +268,6 @@ Patrick stood up. He unlocked the brakes of the Titan, putting his back into it 
 ### Part 4: The Reckoning
 
 # Welcome to Northwood High School
-# Part 4: The Reckoning
 
 ## Location: Principal Harrison’s Office
 
@@ -326,7 +322,6 @@ Harrison stood up and grabbed his walkie-talkie. "Come on, son. Let's get you to
 ### Part 5: The Escort
 
 # Welcome to Northwood High School
-# Part 5: The Escort
 
 ## Date: September 1999 Time: 10:58 AM Location: Hallway / Men’s Locker Room
 
@@ -373,7 +368,6 @@ He glanced down at Patrick.
 ### Part 6: The Return
 
 # Welcome to Northwood High School
-# Part 6: The Return
 
 ## Time: 11:05 AM Location: Room 204 (Mrs. Dalloway’s Latin Class)
 
@@ -454,7 +448,6 @@ Patrick opened his textbook. He felt the weight of the "Secret Agent" badge in h
 ### Part 7: The Longest Hour
 
 # Welcome to Northwood High School
-# Part 7: The Longest Hour
 
 The bell for the end of 4th period rang—a shrill, electric buzzer that vibrated in Nichole’s teeth.
 
@@ -531,7 +524,6 @@ Get me out of here.
 ### Part 8: The Hand-Off
 
 # Welcome to Northwood High School
-# Part 8: The Hand-Off
 
 The cafeteria was a roar of noise—three hundred freshmen shouting over the clatter of plastic trays and the smell of rectangular pizza.
 
@@ -608,7 +600,6 @@ Patrick took a bite of his pizza and grinned. "Yeah. Much better."
 ### Part 1: The Area of Rescue
 
 # The Smoke Test
-# Part 1: The Area of Rescue
 
 Date: April 12, 2002 (Spring of 11th Grade)
 
@@ -715,7 +706,6 @@ He turned his back on the teacher and stepped into the flow of traffic at the to
 ### Part 2: The Descent
 
 # The Smoke Test
-# Part 2: The Descent
 
 ## Location: Stairway A (The Critical Entry)
 
@@ -752,7 +742,6 @@ Patrick didn't stop. He shifted Nichole’s weight, lifted his leg, and kicked t
 ### Part 3: The Bus Loop
 
 # The Smoke Test
-# Part 3: The Bus Loop
 
 Location: The "Backstage" (Bus Loop)
 
@@ -797,7 +786,6 @@ He sat down on the curb right next to her, their shoulders pressing together. He
 ### Part 4: The Stand
 
 # The Smoke Test
-# Part 4: The Stand
 
 Location: The Fence Line
 
@@ -846,7 +834,6 @@ Patrick exhaled. He looked at Nichole.
 ### Part 5: The Long Hour
 
 # The Smoke Test
-# Part 5: The Long Hour
 
 Date: April 12, 2002
 
@@ -897,7 +884,6 @@ Nichole let out a huff of frustration. She slumped against him, resigning hersel
 ### Part 6: The All Clear
 
 # The Smoke Test
-# Part 6: The All Clear
 
 Time: 11:10 AM
 
@@ -956,7 +942,6 @@ Nichole looked at the teacher, then at her brother. She reached up.
 ### Part 7: The Return
 
 # The Smoke Test
-# Part 7: The Return
 
 Patrick bent down. He didn't hesitate.
 

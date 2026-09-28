@@ -10,7 +10,6 @@ series: ""
 ### Part 1: Safe Harbor, Stark Reality
 
 # The Best Thanksgiving
-# Part 1: Safe Harbor, Stark Reality
 
 Thanksgiving morning 2003 dawned bright, cold, and blessedly quiet outside Stella’s small Virginia house. Inside, however, a profound warmth settled, deeper than any furnace could provide. Leo surfaced slowly from a deep, exhausted sleep, the kind that follows immense stress and trauma. For a disoriented moment, he didn't know where he was. The gentle undulation beneath him wasn't his mattress; it was Stella's king-sized waterbed. He wasn't alone. Warmth pressed against him from both sides. He blinked his eyes open. On his left, Luna was curled close, fast asleep, her breathing soft and even. On his right, Olivia lay facing him, her eyes just opening, a soft, tired smile touching her lips. Stella was already awake and quietly moving about the room, getting herself ready for the day.
 
@@ -37,7 +36,6 @@ His plea to have *all three* of them help, just like they used to before Delores
 ### Part 2: Restoring Care – The Bath
 
 # The Best Thanksgiving
-# Part 2: Restoring Care – The Bath
 
 As they began to stir fully, shifting slightly in the large bed, the faint but unmistakable sour smell of neglect became apparent in the close quarters. Stella, Luna, and Olivia exchanged a quick, horrified glance over Leo’s stirring form. This wasn't just travel fatigue; this was the deep, ingrained odor of someone whose basic hygiene had been utterly disregarded.
 
@@ -70,7 +68,6 @@ When they finally helped him out of the tub, wrapping him in thick, soft towels,
 ### Part 3: Dignity Restored, Needs Assessed
 
 # The Best Thanksgiving
-# Part 3: Dignity Restored, Needs Assessed
 
 They helped him dry off thoroughly with soft, fluffy towels, the clean scent of the bath bomb a welcome replacement for the sour odor of neglect. While Leo sat comfortably wrapped in a towel in his wheelchair, Stella, her face set with grim determination, gathered the pile of soiled, dingy clothes. She then picked up the single, small duffel bag Delores had apparently packed and emptied its meager contents onto the floor. Her lips thinned in anger. The few items inside were just as bad—worn thin, some visibly stained, all carrying the same stale smell.
 
@@ -103,7 +100,6 @@ Leo grinned and nodded enthusiastically. Bathed, shaved, and in clean clothes, w
 ### Part 4: Cereal, Milk, and Cruelty Revealed
 
 # The Best Thanksgiving
-# Part 4: Cereal, Milk, and Cruelty Revealed
 
 Finally feeling clean, cared for, and restored to a semblance of himself, Leo wheeled himself eagerly towards the kitchen, anticipation building for another simple act of normalcy: breakfast. His sisters and best friend followed, the relief of seeing him looking more like himself palpable between them. The kitchen, filled with the promise of Grandma and Grandpa’s eventual feast but currently just calm and bright, felt like the safest place in the world.
 
@@ -136,7 +132,6 @@ Leo looked up, meeting his sister's fierce, protective gaze, then at Luna's prou
 ### Part 5: MagnaByte Sanctuary and Digital Dysentery
 
 # The Best Thanksgiving
-# Part 5: MagnaByte Sanctuary and Digital Dysentery
 
 With breakfast finished and the immediate needs of bathing and grooming met, a sense of fragile normalcy began to settle. Leo, clean, comfortable, and having made a profound internal break from Delores's influence, felt an undeniable pull towards his ultimate comfort zone. He looked towards the living room corner housing the twin MagnaByte Opus setups, then looked at Luna. He typed on her nearby AAC device: MAGNABYTE TIME?
 
@@ -175,7 +170,6 @@ It was a comfortable, shared ritual, a retreat into a familiar challenge where t
 ### Part 6: Grandparents Relief
 
 # The Best Thanksgiving
-# Part 6: Grandparents Relief
 
 The sound of the doorbell instantly broke the twins' concentration on their game of Westward Bound. Grandparents! Leo and Luna exchanged excited glances, the digital trail immediately forgotten. The only thing that could break Leo away from the MagnaByte Opus when he was truly engaged was the arrival of family he loved.
 
@@ -206,7 +200,6 @@ With a final loving glance back at Leo, Luna, and Olivia, and quick waves to Ste
 ### Part 7: A Kitchen Filled with Warmth
 
 # The Best Thanksgiving
-# Part 7: A Kitchen Filled with Warmth
 
 Their return about an hour later, laden with bulging grocery bags, truly kicked off the heart of the Thanksgiving preparations. They swept into the house, bringing with them a gust of cold air and bustling energy. Eleanor, after depositing her bags, went straight back to Leo, giving his shoulder a warm squeeze. "Alright, dear," she said softly, "Grandma's back, and ready to cook up a storm for you." Arthur ruffled Leo's still-damp hair playfully. "Hope you're hungry, son! We aim to please!" Leo beamed back at them, the quiet joy of simply having them there evident on his face. He typed quickly on Luna's device: VERY HUNGRY! SMELLS GOOD ALREADY!
 
@@ -229,7 +222,6 @@ Seeing all this from the sofa—her grandparents confidently managing the feast,
 ### Part 8: The Phone Call
 
 # The Best Thanksgiving
-# Part 8: The Phone Call
 
 The cheerful sounds and comforting smells filling Stella's kitchen abruptly ceased as the landline phone on the end table shrilled. Stella frowned, a knot of apprehension tightening instinctively as she reached for the receiver. She glanced at the caller ID. **"Mahone, C."** Her eyes narrowed. With a deliberate motion, she pressed the speakerphone button before answering, a silent signal to Luna and Olivia. The entire family—Arthur, Eleanor, Luna, and Olivia—paused, their attention now fixed on the phone.
 
@@ -264,7 +256,6 @@ She picked up the receiver from the base, held it for a final, definitive second
 ### Part 9: Reckoning and Reunion
 
 # The Best Thanksgiving
-# Part 9: Reckoning and Reunion
 
 Stella ended the call with a decisive click, plunging the room into a heavy silence. She stood there, receiver in hand, trembling slightly. The full weight of the confrontation, the raw relief of having Leo home, and a sudden, piercing wave of self-reproach crashed over her. *I could have stopped this sooner,* she thought, the realization a physical blow. *That Sibling Weekend... I knew she was manipulating him, but I backed down. I have the legal authority, and I didn't use it forcefully enough.*
 
@@ -299,7 +290,6 @@ The confrontation had been jarring, but the family's response was a swift, unifi
 ### Part 10: The Feast of Homecoming
 
 # The Best Thanksgiving
-# Part 10: The Feast of Homecoming
 
 Arthur’s toast and Leo’s heartfelt typed message hung in the warm air, weaving threads of gratitude and relief around the laden dining room table. Now, finally, it was time to simply be together, to savor the normalcy of a shared holiday meal.
 
@@ -326,7 +316,6 @@ Here, surrounded by unconditional love, having faced down the fear and been brou
 ### Part 11: Evening Rituals and Secure Sleep
 
 # The Best Thanksgiving
-# Part 11: Evening Rituals and Secure Sleep
 
 The remnants of the magnificent pecan pie were cleared away, and a comfortable, contented exhaustion settled over the small house. As true evening darkened the windows, Arthur and Eleanor began gathering their coats. They made a point of saying a special goodbye to Leo, who was resting quietly in his wheelchair with Olivia in a chair next to him, her arm draped comfortingly around his shoulders.
 
@@ -357,7 +346,6 @@ A sleepy groan came from Luna, but Olivia just chuckled softly. Leo just snuggle
 ### Part 1: A Change of Plans
 
 # The First Day Home
-# Part 1: A Change of Plans
 
 The first sound to pierce the pre-dawn darkness of Black Friday was the jarring, insistent shriek of an alarm clock. 4:00 AM. For years, in the Porter-Bennett household, this sound had been a call to arms—the signal to rally the troops for the annual, meticulously planned assault on the 5:00 AM doorbuster sales.
 
@@ -384,7 +372,6 @@ She hit send. The decision was made. She stood there for a long moment in the di
 ### Part 2: A Gentle Waking
 
 # The First Day Home
-# Part 2: A Gentle Waking
 
 The house was quiet, save for the low hum of the refrigerator and the distant murmur of a morning news program. The frantic energy of the 4:00 AM alarm was a distant memory. In Stella's room, a fragile, hard-won peace reigned.
 
@@ -415,7 +402,6 @@ The plan for the day was finally, gently, beginning. It wasn't the frantic, deal
 ### Part 3: The Sanctuary of Breakfast
 
 # The First Day Home
-# Part 3: The Sanctuary of Breakfast
 
 The half hour it took for their grandparents to arrive was a period of quiet, gentle transition. Luna, having helped Leo with his morning routine, now sat with him on the sofa. Olivia, who had quickly showered and changed, joined them, settling on his other side. They didn't talk much; their presence was the conversation. They created a warm, living fortress around him, their easy physical closeness a constant, unspoken promise of safety.
 
@@ -438,7 +424,6 @@ He ate with a quiet, focused enjoyment, a boy who was finally, simply, being all
 ### Part 4: A Mission of Restoration
 
 # The First Day Home
-# Part 4: A Mission of Restoration
 
 With breakfast finished and the last of the hot chocolate savored, a new, focused energy settled over the group. The quiet, healing morning had served its purpose. Now, it was time for the practical necessities of Leo's restoration.
 
@@ -469,7 +454,6 @@ As they all headed back to the cars, laden with bags, Leo felt a profound sense 
 ### Part 5: A Voice of His Own
 
 # The First Day Home
-# Part 5: A Voice of His Own
 
 As they all headed back towards the mall's exit, laden with bags filled with Leo's new wardrobe, Stella put a comforting arm on the back of his wheelchair. "Okay, buddy," she said gently. "That was a huge success. Mission accomplished. Ready to go home and rest?"
 
@@ -514,7 +498,6 @@ Back in the car, Leo held the small box in his hands. It wasn't his voice, not h
 ### Part 6: A Mission of Agency
 
 # The First Day Home
-# Part 6: A Mission of Agency
 
 The small box containing the MagnaByte Scribe felt solid and real in Leo's hands, a tangible promise of a voice that would be his own. As they loaded the bags of new clothes into the back of the Sentinel, a sense of profound accomplishment settled over the group. But their mission wasn't quite over.
 
@@ -545,7 +528,6 @@ Laden with their haul of toiletries, they headed to the checkout counter. Every 
 ### Part 7: Reclaiming a Sanctuary
 
 # The First Day Home
-# Part 7: Reclaiming a Sanctuary
 
 The final stop wasn't another retail store, but a large, standalone mattress warehouse a few miles away. As Stella pulled the Sentinel into the parking lot, she saw a familiar car parked near the entrance. Next to it sat a large, rented box truck. Arthur and Eleanor were waiting for them, their expressions a mixture of grim determination and loving purpose.
 
@@ -582,7 +564,6 @@ Watching the new mattress disappear into the truck, ready for its journey home, 
 ### Part 8: Designing a New Sanctuary
 
 # The First Day Home
-# Part 8: Designing a New Sanctuary
 
 As the box truck's door rumbled shut on the new mattress, a thought struck Stella. "Wait a minute," she said, turning to the group as they prepared to leave the parking lot. "We have a bed, but we have absolutely nothing to put *on* it."
 
@@ -615,7 +596,6 @@ As Arthur's hired hands loaded the final dresser into the box truck, the group s
 ### Part 9: The Victory Lunch
 
 # The First Day Home
-# Part 9: The Victory Lunch
 
 The convoy—Stella’s Sentinel, her grandparents' car, and the rented box truck—pulled into the crowded parking lot of "The Burger Barrel," a popular local restaurant known for its classic American fare.
 
@@ -644,7 +624,6 @@ The rest of the meal was filled with easy laughter and excited planning. Surroun
 ### Part 10: The Sanctuary Rebuilt
 
 # The First Day Home
-# Part 10: The Sanctuary Rebuilt
 
 The convoy arrived back at 1091 Daniel Maloney Drive, a small, efficient army ready for its final mission. The energy was electric with purpose.
 
@@ -669,7 +648,6 @@ They all stood in the doorway, looking in. The room was unrecognizable, and for 
 ### Part 11: The First Rest
 
 # The First Day Home
-# Part 11: The First Rest
 
 The last of the boxes were cleared away, and the family stood in the doorway, admiring their handiwork. The transformation was complete. It was no longer a room of haunted memories; it was a bright, clean, and welcoming sanctuary.
 
@@ -692,7 +670,6 @@ Leo, half-dozing, overheard her. He didn't have to argue or explain. Stella just
 ### Part 12: A Boundary Drawn
 
 # The First Day Home
-# Part 12: A Boundary Drawn
 
 A few hours later, Leo and Olivia woke, the room filled with the soft light of the late afternoon. The rest had been deep and restorative, taken in the safety of their new, shared sanctuary. When they emerged, the house was filled with the delicious, comforting aroma of toasted bread and roasted turkey.
 
@@ -715,7 +692,6 @@ A shuddering breath of pure relief escaped Leo. The fear of being forced back in
 ### Part 13: A New Path Forward
 
 # The First Day Home
-# Part 13: A New Path Forward
 
 The relief in the room was palpable. The pressure to return to a place of trauma was gone, but a new question of "what next?" hung in the air. After a moment of quiet thought, Leo picked up his MagnaByte Scribe. He looked at Stella, a new idea clearly forming. The robotic voice spoke his hopeful question:
 
@@ -740,7 +716,6 @@ The decision was made. The fear and uncertainty of the future had been replaced 
 ### Part 14: Fortress Goes to College
 
 # The First Day Home
-# Part 14: Fortress Goes to College
 
 The energy in the room after their dinner of leftover sandwiches was electric. Leo's idea to attend the CCHR Virginia Beach campus had injected a powerful dose of hope into their evening. Stella, seizing the momentum, stood up from the dining room table.
 
@@ -775,7 +750,6 @@ Leo looked at the paper in his hands—a tangible map of his future, created on 
 ### Part 15: The First Peaceful Sleep
 
 # The First Day Home
-# Part 15: The First Peaceful Sleep
 
 The triumphant energy from their successful college registration slowly gave way to a profound, bone-deep exhaustion that settled over the entire house. It had been a day of immense emotional swings and non-stop activity.
 
@@ -806,7 +780,6 @@ He didn't need to type a reply. He simply leaned into her platonic embrace, a de
 ### Part 1: The First Morning
 
 # A New Normal
-# Part 1: The First Morning
 
 Saturday morning sunlight streamed into the newly reorganized bedroom, illuminating the deep blue of the comforter and the fresh paint on the walls. For the first time since his return, Leo woke without a jolt of terror or disorientation. He was simply... waking up. He was in his new bed, which was just as soft and comfortable as he remembered . To his left, Olivia was still fast asleep, her breathing a quiet, steady rhythm in the peaceful room.
 
@@ -829,7 +802,6 @@ Ready for the day, they headed out of their new sanctuary together, drawn by the
 ### Part 2: Designing the Future
 
 # A New Normal
-# Part 2: Designing the Future
 
 The peaceful aftermath of breakfast settled over the house. Arthur and Eleanor had left for the day, leaving the four of them—Stella, Luna, Leo, and Olivia—to enjoy a quiet Saturday. As they relaxed in the living room, Leo, who had clearly been thinking about more than just the immediate day, broke the comfortable silence.
 
@@ -848,7 +820,6 @@ The conversation immediately turned to colors and styles—deep blues, soft gray
 ### Part 3: A Palette of Possibilities 🎨
 
 # A New Normal
-# Part 3: A Palette of Possibilities 🎨
 
 The following weekend, armed with a sense of purpose and excitement, the "fortress four" piled into Stella's Holt Sentinel and headed to a large home improvement store. The air inside smelled of fresh-cut lumber and potting soil, a stark contrast to the sterile scent of the hospital waiting rooms and airports that had defined their recent past.
 
@@ -877,7 +848,6 @@ They left the store laden with cans of primer, paint rollers, brushes, trays, dr
 ### Part 4: The First Coat of Freedom
 
 # A New Normal
-# Part 4: The First Coat of Freedom
 
 That Saturday morning, the house was a hive of purposeful activity. The mission: Operation Paint the Walls. Stella, the project manager, directed the troops with cheerful efficiency. "Alright team, old clothes on! Music up!" she declared, turning on the stereo to a classic rock station.
 
@@ -898,7 +868,6 @@ With every roll of the deep blue paint that covered the old, neutral beige, Leo 
 ### Part 5: The Chemical Fire
 
 # A New Normal
-# Part 5: The Chemical Fire
 
 With the first coat of paint drying on the walls and the rollers soaking in the kitchen sink, the immediate priority shifted to getting clean. They were all speckled with navy blue and soft gray paint, and Leo was no exception.
 
@@ -955,7 +924,6 @@ Olivia knelt and rested her forehead against his knee, letting out a long, shudd
 ### Part 6: The Fortress Assembles for the Night
 
 # A New Normal
-# Part 6: The Fortress Assembles for the Night
 
 As evening approached, the first coat of paint was on the walls of both bedrooms. The deep blue and soft gray in Leo and Olivia's room, and the sage green in Luna's, had already dramatically transformed the spaces. But with the fresh paint came the strong, chemical smell of VOCs, making it clear that neither room would be habitable for the night.
 
@@ -972,7 +940,6 @@ As they settled in for the night—Leo in the middle, safely flanked by Olivia o
 ### Part 7: Kent?
 
 # A New Normal
-# Part 7: Kent?
 
 Sleep offers little respite. Sometime in the middle of the night, the gentle undulation of the waterbed beneath him begins to feel wrong, subtly shifting, becoming too stiff, unfamiliar. The comforting darkness around him seems to condense, the air growing thick and heavy. He feels a flicker of disorientation – is he still in Stella's room? No, the walls feel closer now, the air tasting stale, reminiscent of the oppressive Portsmouth apartment he shared with Delores. Panic begins its insidious crawl up his spine. Then the scene shifts again, the stale air replaced by a cloying floral perfume, unnaturally warm and stuffy. The walls press closer still – the narrow, confining space of the guest room in Kent. Carol Mahone's house. He’s back. Trapped. But it warps even further, reality twisting under some unseen, evil force. The simple bedroom walls ripple and solidify into damp, cold stone. The carpet vanishes beneath him, replaced by uneven, chilling flagstones that glisten wetly as water drips almost constantly from unseen sources. The ceiling presses down, visibly lowering, transforming into oppressive, dark rock studded with menacing spikes, like some kind of horrific trap room. It’s the same layout as the guest room, but rendered as a terrifyingly evil stone dungeon. Leo shrinks back, afraid of the dampness seeping from the walls, the cold radiating from the floor, the threat implicit in the spiked ceiling above. Alone. Exposed. Something evil is definitely at work here.
 
@@ -1021,7 +988,6 @@ Stella, Luna, and Olivia read the messages, their faces paling with shared horro
 ### Part 8: The Quiet Dawn
 
 # A New Normal
-# Part 8: The Quiet Dawn
 
 Sunday morning arrived not with the jarring ring of an alarm, but with the soft, gentle light of a new day filtering through the blinds of Stella's bedroom. True to her word, there were no alarms. There was only a profound, healing quiet.
 
@@ -1046,7 +1012,6 @@ He nodded, a sense of real, uncomplicated normalcy beginning to return. The nigh
 ### Part 9: A Breakfast of Comfort
 
 # A New Normal
-# Part 9: A Breakfast of Comfort
 
 The quiet consensus to make pancakes was the signal that the day was truly beginning. They moved from the sanctuary of the bedroom to the warm, bright kitchen, the focus now on a new, restorative mission: breakfast.
 
@@ -1065,7 +1030,6 @@ When the feast was assembled, Leo’s plate was a picture of comfort, made to hi
 ### Part 10: The Final Coat
 
 # A New Normal
-# Part 10: The Final Coat
 
 With breakfast cleared away and the comforting warmth of hot chocolate still lingering, a quiet, purposeful energy returned to the group. Stella looked at the two prepped bedrooms, where the first coat of paint had dried overnight.
 
@@ -1082,7 +1046,6 @@ When the last roller was set down in the early afternoon, they all stood back to
 ### Part 11: Assembling the Case
 
 # A New Normal
-# Part 11: Assembling the Case
 
 Sunday afternoon, November 30th, 2003, was quiet. The walls in the two bedrooms were finished with a second coat of paint and would dry overnight, and the house was filled with a sense of peaceful accomplishment. But for Stella, the work was not done. With the immediate crisis over and Leo's physical space reclaimed, it was time to pivot to the legal battle. It was time to hold Delores accountable.
 
@@ -1107,7 +1070,6 @@ By the time they finished, the table was covered in a meticulous collection of e
 ### Part 1: Assembling the Fortress
 
 # The Legal Battle Begins
-# Part 1: Assembling the Fortress
 
 On Monday morning, December 1st, 2003, Stella walked into the downtown Norfolk law office of Sarah Jenkins. She was not alone; Arthur and Eleanor Bennett were with her, their presence a silent, solid wall of support. Stella carried a thick, meticulously organized folder.
 
@@ -1146,7 +1108,6 @@ Leaving the office, Stella felt a dizzying mix of grim satisfaction and shock. T
 ### Part 2: Setting the Wheels in Motion
 
 # The Legal Battle Begins
-# Part 2: Setting the Wheels in Motion
 
 The conference room was filled with a quiet, focused energy after Stella finished laying out the harrowing details of Leo's ordeal and rescue. Arthur and Eleanor sat stoically, their faces grim, while Sarah Jenkins reviewed the folder of evidence Stella had meticulously assembled.
 
@@ -1171,7 +1132,6 @@ The wait was no longer passive. It was the beginning of an active, determined pu
 ### Part 3: Official Cooperation
 
 # The Legal Battle Begins
-# Part 3: Official Cooperation
 
 It was just after nine o'clock on Monday morning, December 1st, 2003. A quiet tension hung in the house on Daniel Maloney Drive. Stella had filed the official police report late yesterday afternoon. Now, as promised by the detective, the next step was underway. The doorbell rang, and Stella took a deep, steadying breath before opening it. Two FBI agents stood on the porch, a man and a woman, dressed in professional suits. The Virginia Beach PD had, as expected, immediately referred the case.
 
@@ -1226,7 +1186,6 @@ After the agents left, a profound quiet settled over the house. The shattered de
 ### Part 4: Ordering a New Voice
 
 # The Legal Battle Begins
-# Part 4: Ordering a New Voice
 
 The day after the FBI visit, a fragile but determined sense of forward momentum settled over the house on Daniel Maloney Drive. The legal machinery was turning, but Stella's focus was on the most immediate, tangible need: restoring Leo's voice.
 
@@ -1263,7 +1222,6 @@ Leo watched her, a profound sense of relief and gratitude washing over him. He w
 ### Part 1: A New Language of Home
 
 # A Réveillon for Leo
-# Part 1: A New Language of Home
 
 The first week of December settled into a peaceful rhythm, a welcome balm after the storms of November. The legal machinery was in motion, but in the house on Daniel Maloney Drive, the focus was on healing.
 
@@ -1316,7 +1274,6 @@ Leo, seeing his dream was within reach, typed again, his message an enthusiastic
 ### Part 2: The Fortress Goes to the Mall
 
 # A Réveillon for Leo
-# Part 2: The Fortress Goes to the Mall
 
 A week later, the family decided to brave the pre-Christmas crowds for a shopping trip to the mall. The entire contingent was going: Arthur, Eleanor, Stella, Luna, Leo, and Olivia. An outing of this magnitude, especially during the chaotic holiday season, required a plan.
 
@@ -1341,7 +1298,6 @@ For Leo and Luna, who might have otherwise been on the verge of a meltdown, the 
 ### Part 3: A New Talker!
 
 # A Réveillon for Leo
-# Part 3: A New Talker!
 
 About a week after Stella placed the order, a series of large, plain cardboard boxes arrived at the house on Daniel Maloney Drive. The arrival of the ruggedized Horizon laptop, the specialized wheelchair mount, and the software package was an event. The entire fortress—Stella, Luna, Olivia, and Leo—gathered in the living room, the boxes taking up a significant portion of the floor space.
 
@@ -1376,7 +1332,6 @@ He wasn't just a boy with a new laptop. He was Leo Porter, and he had his voice 
 ### Part 4: A New Language of Home
 
 # A Réveillon for Leo
-# Part 4: A New Language of Home
 
 The days leading up to Christmas were filled with a quiet, joyful energy and nightly French lessons. Fulfilling the promise she had made to herself in the chaos of Sea-Tac, Olivia turned their living room into a cozy classroom each evening. The lessons became a cherished new ritual, a way of building their new life together, one word at a time.
 
@@ -1429,7 +1384,6 @@ It was settled. Their shared schedule for the Spring 2004 semester would now inc
 ### Part 5: Operation: Conquer Quantum
 
 # A Réveillon for Leo
-# Part 5: Operation: Conquer Quantum
 
 The quiet hum of the new Horizon laptop was becoming a familiar sound in the living room. It was a few days after Leo’s new talker had arrived, and Olivia was patiently continuing his lessons. The powerful communication software was easy enough for him to master, but the underlying **Quantum OS XN** operating system remained a source of low-grade anxiety.
 
@@ -1460,7 +1414,6 @@ Luna pulled up a chair, her earlier anxiety replaced by a new, determined focus.
 ### Part 6: Poutine Logistics and a Fortress in French Class
 
 # A Réveillon for Leo
-# Part 6: Poutine Logistics and a Fortress in French Class
 
 In the days that followed, the upcoming Réveillon became the central focus of their planning. Of all the traditional foods Olivia had described, it was the poutine that had captured Leo's imagination the most. The very fact that it was difficult to get in the United States made it feel like a culinary treasure hunt, and he declared it was the thing he was most looking forward to trying.
 
@@ -1487,7 +1440,6 @@ She taught them phrases like, "*Je voudrais...*" (I would like...) and "*S'il vo
 ### Part 7: A Tale of Two Frances
 
 # A Réveillon for Leo
-# Part 7: A Tale of Two Frances
 
 Their quest for French language resources led them to a large bookstore in a local shopping center. The four of them made their way to the small language and reference section, a sense of shared purpose making the simple errand feel like an adventure.
 
@@ -1516,7 +1468,6 @@ Olivia laughed, a bright, happy sound. "Me too, Leo. Me too."
 ### Part 8: The Soft Interview
 
 # A Réveillon for Leo
-# Part 8: The Soft Interview
 
 On a quiet Tuesday morning in mid-December, the fortress four were not at home or school, but at a non-descript office building in Norfolk. This was the local Victim Advocacy Center, a neutral, safe facility chosen specifically for Leo's formal forensic interview. The very idea of the meeting had sent a spike of terror through him; despite his family’s constant reassurances, a deep, primal fear had taken root—the fear that this was all an elaborate trick, a legal process to send him back to Delores.
 
@@ -1565,7 +1516,6 @@ The interview lasted for over an hour. It was emotionally exhausting for Leo, bu
 ### Part 9: Sacres and Seafood
 
 # A Réveillon for Leo
-# Part 9: Sacres and Seafood
 
 A few days later, the four of them were at the **Cardinal Foods** on Kempsville Road for their weekly grocery run. The store was moderately busy, a typical pre-holiday afternoon. As they moved through the aisles, Leo, now using his new **Quantum Communicator**, was happily discussing the menu for the upcoming Réveillon with Olivia.
 
@@ -1606,7 +1556,6 @@ Stella, Luna, and Leo looked at each other, a new, deeper understanding dawning.
 ### Part 10: Mon Chum, Ma Blonde
 
 # A Réveillon for Leo
-# Part 10: Mon Chum, Ma Blonde
 
 The moment they got home from Cardinal Foods, the forced composure Leo had maintained shattered. This rude woman had been a deeply rattling experience. He was trembling, his breathing shallow.
 
@@ -1651,7 +1600,6 @@ With Leo nestled securely at her side, she took the pen from Stella, and the two
 ### Part 11: A Grandparent's Surprise
 
 # A Réveillon for Leo
-# Part 11: A Grandparent's Surprise
 
 One Saturday afternoon in mid-December, the four of them were relaxing in the living room. The newly painted bedrooms were fully reassembled, and a sense of peaceful, domestic normalcy had settled over the house. The landline phone rang, and Stella answered it.
 
@@ -1678,7 +1626,6 @@ Leo’s eyes lit up with a joy that matched Olivia's. The Réveillon wasn't just
 ### Part 12: The Final Secret
 
 # A Réveillon for Leo
-# Part 12: The Final Secret
 
 The days leading up to Christmas Eve were a happy blur of activity. The house buzzed with preparations for the Réveillon, and the arrival of Olivia's family from Québec was an event of joyful anticipation.
 
@@ -1703,7 +1650,6 @@ Olivia stared at him, completely floored by this final act of generous, meticulo
 ### Part 13: The Grand Old Lady on the Hill
 
 # A Réveillon for Leo
-# Part 13: The Grand Old Lady on the Hill
 
 The drive from the airport was a blur of happy chatter, a mix of French and English filling the luxurious rental van. When Arthur pulled up to the grand, historic entrance of The Atlantic Grand Hotel, Olivia's aunt, uncle, and cousins fell silent, their eyes wide with awe. The "Grand Old Lady on the Hill," with its classic architecture and commanding view of the ocean, was even more magnificent than they had imagined.
 
@@ -1742,7 +1688,6 @@ Leo, feeling the solid weight of her hands, managed a small, shy smile for the c
 ### Part 14: The Fortress Suite
 
 # A Réveillon for Leo
-# Part 14: The Fortress Suite
 
 After the introductions were made and the happy chaos began to settle, Arthur clapped his hands together, getting everyone's attention. "Alright, one last thing," he said, a mischievous twinkle in his eye. He walked over to a grand, unmarked set of double doors at the end of the main living area of the suite.
 
@@ -1769,7 +1714,6 @@ The fortress now had its own holiday headquarters, a grand and beautiful sanctua
 ### Part 15: A Sanctuary of Pampering
 
 # A Réveillon for Leo
-# Part 15: A Sanctuary of Pampering
 
 The first morning at The Atlantic Grand Hotel felt like waking up in a different world. Leo woke not to the familiar sounds of his own home, but to the gentle, distant roar of the Atlantic Ocean and the feeling of incredibly soft, high-thread-count sheets on the massive Alaska King bed. He was surrounded by his fortress—Olivia, Stella, and Luna—all still sleeping peacefully in the grand, quiet room.
 
@@ -1788,7 +1732,6 @@ For Leo and Olivia, this wasn't just luxury; it was a profound act of care. It w
 ### Part 16: A Baptism of Care
 
 # A Réveillon for Leo
-# Part 16: A Baptism of Care
 
 Later that evening, after a day of quiet relaxation, it was time to fulfill the promise Stella had made upon Leo's return: a proper, long, hot bath. But this was not to be the functional, almost clinical deep-cleaning they'd had to perform when he first got home. This was to be an act of pure pampering, and the grand, opulent bathroom of the Presidential Suite was the perfect stage.
 
@@ -1807,7 +1750,6 @@ When he was finally lifted from the tub and wrapped in a thick, warm, oversized 
 ### Part 17: The Night Before the Réveillon
 
 # A Réveillon for Leo
-# Part 17: The Night Before the Réveillon
 
 The evening of December 23rd in the "Fortress Suite" was a cozy, happy affair. The four of them were already in their pajamas, piled comfortably onto the massive Alaska King bed, watching a classic Christmas movie. Outside, the winter wind whipped off the Atlantic, but inside their luxurious sanctuary, they were warm and safe.
 
@@ -1836,7 +1778,6 @@ A wave of relief washed over Leo's face. He wasn't trapped by the tradition; the
 ### Part 18: A Tradition Adapted
 
 # A Réveillon for Leo
-# Part 18: A Tradition Adapted
 
 Christmas Eve morning in the Presidential Suite of The Atlantic Grand Hotel began with a level of pampering that was becoming a welcome new normal. The entire extended family—Arthur, Eleanor, Stella, Luna, Leo, Olivia, and all of Olivia's visiting Canadian relatives—gathered for a grand breakfast in the suite's private dining room. The table was laden with a feast of waffles, omelets, fresh fruit, and pastries, all brought up by the hotel's room service.
 
@@ -1863,7 +1804,6 @@ The decision was made instantly and unanimously. The two families, one from Qué
 ### Part 19: The Fortress Expanded
 
 # A Réveillon for Leo
-# Part 19: The Fortress Expanded
 
 The rest of Christmas Eve day was a happy, chaotic, and wonderful montage of two families becoming one. The grand Presidential Suite at The Atlantic Grand Hotel became their festive headquarters. The morning was spent with the cousins getting to know each other in a way that was both fun and deeply healing. The main event was "Operation: Conquer Quantum," which had set up a temporary headquarters on the large sofa in the suite's living room.
 
@@ -1884,7 +1824,6 @@ Arthur, playing the role of host to perfection, circulated with a tray of sparkl
 ### Part 20: The Prime-Time Réveillon
 
 # A Réveillon for Leo
-# Part 20: The Prime-Time Réveillon
 
 At 6 PM on Christmas Eve, Arthur and Eleanor's house was a beacon of warmth and festive chaos. The dining room, with its long table extended to its absolute maximum, was the heart of the celebration, beautifully set and ready for the entire expanded family. The air was a symphony of incredible smells—roasting turkey, the rich spices of the *tourtière*, and the savory aroma of the poutine gravy simmering on the stove.
 
@@ -1961,7 +1900,6 @@ It truly was. He was safe. He was loved. He was home.
 ### Part 21: The Comfort of Home
 
 # A Réveillon for Leo
-# Part 21: The Comfort of Home
 
 The Réveillon at Arthur and Eleanor's house was a resounding success, a beautiful and boisterous celebration that officially and joyfully merged two families. As they all returned to the luxurious fortress suite at The Atlantic Grand Hotel, a sense of happy, contented exhaustion settled over everyone. The Canadian family marveled again at the opulence of their rooms, ready to fall into their comfortable beds.
 
@@ -1994,7 +1932,6 @@ He was no longer a guest in a five-star hotel. He was the king in his own castle
 ### Part 1: The Morning After
 
 # A Quiet Christmas
-# Part 1: The Morning After
 
 Christmas Day at 1091 Daniel Maloney Drive began not with the frantic energy of tearing open presents, but with the quiet, contented calm that follows a wonderful celebration. The gifts had all been exchanged the night before during their grand Réveillon, leaving the morning free of obligations.
 
@@ -2009,7 +1946,6 @@ For Leo, the day was a study in peaceful normalcy. He was surrounded by his enti
 ### Part 2: An American Christmas
 
 # A Quiet Christmas
-# Part 2: An American Christmas
 
 The quiet, relaxed morning at the house on Daniel Maloney Drive bled seamlessly into a peaceful afternoon. The Canadian cousins, having explored the world of the MagnaByte Opus, were now engrossed in a loud, happy board game with Luna, their laughter filling the living room. Leo and Olivia were curled up on the sofa, a classic holiday movie playing quietly, Leo's head resting comfortably on her shoulder.
 
@@ -2028,7 +1964,6 @@ As the sun began to set, casting a warm, golden glow through the windows, Eleano
 ### Part 3: An American Christmas Feast
 
 # A Quiet Christmas
-# Part 3: An American Christmas Feast
 
 As evening settled, the rich, savory aromas wafting from the kitchen signaled that the American feast was ready. The entire, expanded family gathered once more around the long, beautifully decorated dining table at Arthur and Eleanor's house. The previous night's Réveillon had been a journey into Québécois tradition; tonight was the American family's turn to share their own classic holiday staples.
 
@@ -2047,7 +1982,6 @@ Leo, seated as always between Olivia and Luna, was in a state of quiet bliss. He
 ### Part 4: A Moment to Regulate
 
 # A Quiet Christmas
-# Part 4: A Moment to Regulate
 
 The American Christmas feast was a resounding success, a warm and happy affair that left everyone feeling full and content. However, as the dinner plates were cleared and the conversation continued to flow, the cumulative effect of two massive holiday celebrations in twenty-four hours began to weigh on Leo. The constant social interaction, the rich food, the sheer number of people—it was all wonderful, but it was also deeply exhausting.
 
@@ -2080,7 +2014,6 @@ They re-entered the dining room, the brief, effective retreat having given Leo t
 ### Part 5: A Fortress of Love
 
 # A Quiet Christmas
-# Part 5: A Fortress of Love
 
 As Leo and Olivia emerged from the quiet den, looking refreshed and ready to rejoin the party, Luna immediately met them at the doorway. She didn't say a word; she simply pulled her brother into a fierce, protective hug, her own act of grounding him and welcoming him back into the fold. As she held him, she looked over his shoulder at Olivia, her eyes shining with a profound, sisterly gratitude.
 
@@ -2097,7 +2030,6 @@ He looked at Olivia, his *ma blonde*, sitting right beside him, a steady and unw
 ### Part 6: An Impromptu Recital
 
 # A Quiet Christmas
-# Part 6: An Impromptu Recital
 
 After the magnificent American Christmas dinner, the entire, sprawling family retired to the living room at Arthur and Eleanor's house. The atmosphere was warm and deeply contented, a happy mix of full stomachs and the quiet joy of being together.
 
@@ -2132,7 +2064,6 @@ Olivia simply smiled, her heart full. Watching her two families connect so beaut
 ### Part 7: The Long Goodbye
 
 # A Quiet Christmas
-# Part 7: The Long Goodbye
 
 The successful dessert was the perfect end to the American Christmas feast. The house was filled with the warm, contented buzz of two families who had spent a truly wonderful holiday together. But as the evening wore on, the cumulative weight of two days of non-stop celebration began to settle heavily on Luna and Leo.
 
@@ -2153,7 +2084,6 @@ As Stella drove them home through the quiet, festive streets, Leo leaned his hea
 ### Part 8: The Holiday Afterglow
 
 # A Quiet Christmas
-# Part 8: The Holiday Afterglow
 
 The drive back to the house on Daniel Maloney Drive was quiet, the car filled with the warm, contented exhaustion that follows a day of profound happiness. The grand feasts and boisterous celebrations were over, leaving a peaceful afterglow.
 
@@ -2170,7 +2100,6 @@ He was surrounded by the evidence of his family's love: the new paint on the wal
 ### Part 1: A Day of Quiet
 
 # The Holiday Afterglow
-# Part 1: A Day of Quiet
 
 December 26th arrived not with a bang, but with a profound and necessary quiet. After two days of non-stop celebration, delicious food, and joyful but intense social interaction, the entire household was in a state of happy exhaustion. For Luna and Leo, the need for a mental reset was palpable.
 
@@ -2191,7 +2120,6 @@ The day was a masterclass in compassionate care. Olivia's family had shown their
 ### Part 2: A House Full of Joy
 
 # The Holiday Afterglow
-# Part 2: A House Full of Joy
 
 By December 27th, the house on Daniel Maloney Drive had been joyfully overrun for four full days. The presence of Olivia's Canadian family—her **Tante Isabelle** and **Oncle Mark**, and her boisterous teenage cousins **Luc, Chloé, Mason, and Sophie**—had transformed the quiet sanctuary into a bustling hub of laughter, conversation, and a happy mix of French and English.
 
@@ -2218,7 +2146,6 @@ This was the biggest thing Olivia's extended family had come to understand and r
 ### Part 3: The Quiet After
 
 # The Holiday Afterglow
-# Part 3: The Quiet After
 
 The departure of Olivia's family on the morning of the 28th left a profound silence in its wake. The house on Daniel Maloney Drive, which had been a joyous hub of boisterous laughter and overlapping conversations in two languages, suddenly felt vast and quiet. For the fortress four, the abrupt shift from happy chaos to serene calm was a welcome, if slightly jarring, change. The "Canadian Invasion" had been wonderful, but it had also been emotionally and socially exhausting, especially for Luna and Leo.
 
@@ -2239,7 +2166,6 @@ Leo leaned into their combined embrace, a profound sense of safety washing over 
 ### Part 4: Water and Trust
 
 # The Holiday Afterglow
-# Part 4: Water and Trust
 
 The quiet of the living room on the evening of December 30th was a gentle, healing balm. Held securely between Luna and Olivia on the sofa, Leo felt the exhaustion of the past week finally begin to recede. The constant social energy of the family gathering, while wonderful, had left his muscles tight and achy, a common side effect of his cerebral palsy when he was tired or stressed. The warmth of his sisters' embrace helped, but he knew what would truly ease the painful spasticity.
 
@@ -2272,7 +2198,6 @@ Stella smiled, stroking his damp hair. "Anytime, buddy," she said softly. "That'
 ### Part 5: The Cocoon of Safety
 
 # The Holiday Afterglow
-# Part 5: The Cocoon of Safety
 
 After the bath, wrapped in a warm towel, the tension had visibly drained from Leo's body. The process of getting him ready for bed was just as practiced and gentle as getting him into the tub.
 
@@ -2295,7 +2220,6 @@ He was cocooned. Wrapped in a profound sense of security that no fear could pene
 ### Part 6: A Nightmare in the Safe Harbor
 
 # The Holiday Afterglow
-# Part 6: A Nightmare in the Safe Harbor
 
 The house was deep in the quietest hours of the night, a profound stillness that even the soft breathing of the three figures in the queen-sized bed barely disturbed. Leo, cocooned safely between Luna on his left and Olivia on his right, was sound asleep, a rare, untroubled rest.
 
@@ -2332,7 +2256,6 @@ Olivia looked on, a sense of awe washing over her. She had just witnessed someth
 ### Part 1: The Day in Court
 
 # A Day in Court
-# Part 1: The Day in Court
 
 The Virginia Beach Circuit Courtroom was a place of quiet, formal procedure, a world away from the chaotic emotions of the past few months. Stella sat with Sarah Jenkins at the plaintiff's table, a thick, organized binder of evidence between them. Across the aisle, Delores sat with her beleaguered legal aid attorney, who looked like he'd rather be anywhere else.
 

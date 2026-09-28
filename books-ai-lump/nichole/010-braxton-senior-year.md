@@ -10,7 +10,6 @@ series: "Nichole"
 ### Part 1: The Protocol Negotiation
 
 # Graduation
-# Part 1: The Protocol Negotiation
 
 ## Date: April 10, 2008 (Senior Year) Location: Office of the Commencement Director, Braxton State University The Goal: Secure permission to deviate from the script.
 
@@ -85,7 +84,6 @@ Patrick smiled. It was the smile of a man who had spent four years in a lab.
 ### Part 2: The \
 
 # Graduation
-# Part 2: The \
 
 ## Date: May 17, 2008 (Graduation Day) Time: 11:00 AM Location: The Field House (Tunnel Waiting Area)
 

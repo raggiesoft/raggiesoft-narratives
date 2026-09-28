@@ -10,7 +10,6 @@ series: "The Silver Gauntlet of Aethel"
 ### Part 1: Chapter 1: The Art of Doing Nothing
 
 # Book I: The Magnetic North
-# Part 1: Chapter 1: The Art of Doing Nothing
 
 ## Part 1: The Geometry of Sleep
 
@@ -273,7 +272,6 @@ Kaelan closed his eyes, listening to the hum of the bees in the clover, unaware 
 ### Part 2: Chapter 2: The Alarm Clock
 
 # Book I: The Magnetic North
-# Part 2: Chapter 2: The Alarm Clock
 
 ## Part 1: The Interest Rate
 
@@ -504,7 +502,6 @@ He reached for his sword. It floated into his hand before he could grab it.
 ### Part 3: Chapter 3: The Magnetic Highway
 
 # Book I: The Magnetic North
-# Part 3: Chapter 3: The Magnetic Highway
 
 ## Part 1: The Land-Boat
 
@@ -1341,7 +1338,6 @@ And as the red light pulsed outside, Kaelan slept without nightmares, anchored t
 ### Part 4: Chapter 4: The Clockwork Ocean
 
 # Book I: The Magnetic North
-# Part 4: Chapter 4: The Clockwork Ocean
 
 ## Part 1: The Rifled Barrel
 
@@ -2262,7 +2258,6 @@ The *Iron Keel* surged forward, surfing the magnetic lines home.
 ### Part 5: Chapter 4: The Return Journey
 
 # Book I: The Magnetic North
-# Part 5: Chapter 4: The Return Journey
 
 ## Part 1: The Itch
 
@@ -2567,7 +2562,6 @@ They lay there in the dim, quiet cottage, the "Go Away" sign standing guard outs
 ### Part 1: Chapter 1: The Privacy of Stone
 
 # Book II: The Pilgrimage
-# Part 1: Chapter 1: The Privacy of Stone
 
 ## Part 1: The Hole Under the Floor
 
@@ -2856,7 +2850,6 @@ Kaelan laughed, a low rumble in his chest. "Deal."
 ### Part 2: Chapter 2: The Smoke and the Fire
 
 # Book II: The Pilgrimage
-# Part 2: Chapter 2: The Smoke and the Fire
 
 ## Part 1: The Funeral Crashers
 
@@ -3277,7 +3270,6 @@ They continued their bath, undisturbed by the world, protected by the very light
 ### Part 3: Chapter 3: The Council of Neighbors
 
 # Book II: The Pilgrimage
-# Part 3: Chapter 3: The Council of Neighbors
 
 ## Part 1: The Reluctant Guests
 
@@ -3486,7 +3478,6 @@ This chapter puts the new Council to the test and demonstrates exactly what happ
 ### Part 4: Chapter 4: The King at the Gate
 
 # Book II: The Pilgrimage
-# Part 4: Chapter 4: The King at the Gate
 
 ## Part 1: The Tax Collector with an Army
 
@@ -3711,7 +3702,6 @@ They stripped off their dusty clothes and slid back into the water, while down i
 ### Part 5: Chapter 5: The Demon and the Witch
 
 # Book II: The Pilgrimage
-# Part 5: Chapter 5: The Demon and the Witch
 
 ## Part 1: The Investigation
 
@@ -4010,7 +4000,6 @@ Let the world whisper. Let the Kings plot. The house knew the difference between
 ### Part 6: Chapter 6: The Starlight Check-In
 
 # Book II: The Pilgrimage
-# Part 6: Chapter 6: The Starlight Check-In
 
 ## Part 1: The Shadow of the Archivist
 
@@ -4217,7 +4206,6 @@ They went inside and locked the world out, ready to sleep in their shared bed, j
 ### Part 1: Prologue: The Silence Between Stars
 
 # Book III: The Zero Point
-# Part 1: Prologue: The Silence Between Stars
 
 Theme: cosmic-horror
 
@@ -4268,7 +4256,6 @@ He didn't target the Earth. He targeted the Sky.
 ### Part 2: Chapter 1: The Shadow at Noon
 
 # Book III: The Zero Point
-# Part 2: Chapter 1: The Shadow at Noon
 
 ## Part 1: The Cold Draft
 
@@ -4413,7 +4400,6 @@ And the only thing standing between Sunstead and absolute zero was the internal 
 ### Part 3: Chapter 2: The Needle and the Shroud
 
 # Book III: The Zero Point
-# Part 3: Chapter 2: The Needle and the Shroud
 
 ## Part 1: The Signal in the Water
 

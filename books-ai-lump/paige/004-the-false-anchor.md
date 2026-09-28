@@ -10,7 +10,6 @@ series: ""
 ### Part 1: The Remainder
 
 # The New Variable
-# Part 1: The Remainder
 
 ## Spring 2004 Tuesday, January 20, 2004 — 14:00 PM
 
@@ -129,7 +128,6 @@ For the first time in a long time, a stranger had entered the perimeter, and the
 ### Part 2: The Static Stack
 
 # The New Variable
-# Part 2: The Static Stack
 
 ## Spring 200 4 Tuesday, January 20, 2004 — 15:00 PM
 
@@ -264,7 +262,6 @@ The cursor blinked. The page was blank. The server was waiting on the other end 
 ### Part 1: The Observation
 
 # The Seed
-# Part 1: The Observation
 
 ## Spring 2004 Thursday, February 19, 2004 — 16:15 PM
 
@@ -375,7 +372,6 @@ But for the first time, Freddie wondered if the "closed system" was a sanctuary.
 ### Part 2: The Recoil
 
 # The Seed
-# Part 2: The Recoil
 
 ## Spring 2004 Thursday, February 19, 2004 — 16:20 PM
 
@@ -472,7 +468,6 @@ She went back to work. She was quiet. She was helpful. She was safe. But behind 
 ### Part 3: The Split Screen
 
 # The Seed
-# Part 3: The Split Screen
 
 ## Sector A: The Sanctuary
 
@@ -619,7 +614,6 @@ And then, she would freeze.
 ### Part 4: The Syntax Error
 
 # The Seed
-# Part 4: The Syntax Error
 
 ## Spring 2004 Tuesday, February 24, 2004 — 15:15 PM
 
@@ -774,7 +768,6 @@ She played the student. And the Avery Unit, lowered their shields just enough to
 ### Part 1: The Logic Bomb
 
 # The Orbital Decay
-# Part 1: The Logic Bomb
 
 ## Spring 2004 Tuesday, May 4, 2004 — 13:40 PM
 
@@ -909,7 +902,6 @@ He was thinking about the bus. He was thinking about Seattle. He was thinking th
 ### Part 2: The Presentation
 
 # The Orbital Decay
-# Part 2: The Presentation
 
 ## Spring 2004 Tuesday, May 4, 2004 — 14:15 PM
 
@@ -1068,7 +1060,6 @@ The gravity was failing. The orbit was decaying. It wouldn't be long now.
 ### Part 3: The Disconnect
 
 # The Orbital Decay
-# Part 3: The Disconnect
 
 ## Spring 2004 Tuesday, May 4, 2004 — 18:00 PM
 
@@ -1257,7 +1248,6 @@ They sat in the gray smog, waiting for the ride that would take him 2,600 miles 
 ### Part 4: The Horizon Line
 
 # The Orbital Decay
-# Part 4: The Horizon Line
 
 ## Tuesday, May 4, 2004 — 21:10 PM
 
@@ -1474,7 +1464,6 @@ She led him toward the next leg of the journey, while three hundred miles behind
 ### Part 5: The Point of No Return
 
 # The Orbital Decay
-# Part 5: The Point of No Return
 
 ## Wednesday, May 5, 2004 — 05:30 AM Nashville, Tennessee
 
@@ -1683,7 +1672,6 @@ They got back on the bus. The door hissed shut. There was no turning back.
 ### Part 6: The Detour
 
 # The Orbital Decay
-# Part 6: The Detour
 
 ## Wednesday, May 5, 2004 — 09:15 AM Interstate 81 North
 
@@ -1838,7 +1826,6 @@ He was 2,000 miles from home. He was injured. And he was alone.
 ### Part 7: The Burning Mile
 
 # The Orbital Decay
-# Part 7: The Burning Mile
 
 ## Thursday, May 6, 2004 — 10:30 AM (CST) Gateway Airlines Flight 492 (Approaching Nashville)
 
@@ -1911,7 +1898,6 @@ He closed his eyes and tried to summon the image of the King Bed on Pepper Stree
 ### Part 8: The Pasco Lock
 
 # The Orbital Decay
-# Part 8: The Pasco Lock
 
 ## Friday, May 7, 2004 — 14:15 PM (PST) Pasco Intermodal Terminal, Family Restroom
 
@@ -2026,7 +2012,6 @@ Vanessa didn't care. She dragged him up, hauling his dead weight until he was fo
 ### Part 9: The Silence
 
 # The Orbital Decay
-# Part 9: The Silence
 
 ## Friday, May 7, 2004 — 16:30 PM (PST) Interstate 82 North, nearing Yakima
 
@@ -2075,7 +2060,6 @@ He just knew he had to survive the next two hours without breaking.
 ### Part 1: The Advance Team
 
 # The Rescue
-# Part 1: The Advance Team
 
 ## Wednesday, May 5, 2004 — 15:30 PM (PST) Seattle-Tacoma International Airport (SEA)
 
@@ -2366,7 +2350,6 @@ She walked over to the bed and sat next to Paige. She wrapped her arm around her
 ### Part 2: The Intercept
 
 # The Rescue
-# Part 2: The Intercept
 
 ## Friday, May 7, 2004 — 18:55 PM (PST) Pathfinder Terminal, Seattle
 
@@ -2685,7 +2668,6 @@ And for the first time in three days, Freddie Avery slept without fear.
 ### Part 3: The Time Lock
 
 # The Rescue
-# Part 3: The Time Lock
 
 ## Friday, May 7, 2004 — 19:45 PM (PST) Pathfinder Terminal, Seattle
 
@@ -2760,7 +2742,6 @@ She stepped off into the night, looking for the lights of a trailer park, comple
 ### Part 4: The Decontamination Protocol
 
 # The Rescue
-# Part 4: The Decontamination Protocol
 
 ## Saturday, May 8, 2004 — 11:15 AM (PST) The Cascade Suites, Room 412
 
@@ -3017,7 +2998,6 @@ He looked up at his sisters. They were kneeling on the bathmat, wet from the spr
 ### Part 5: Frequency Tuned
 
 # The Rescue
-# Part 5: Frequency Tuned
 
 ## Saturday, May 8, 2004 — 14:15 PM (PST) The Cascade Suites, Room 412
 
@@ -3120,7 +3100,6 @@ Freddie took a breath. It didn't shudder this time.
 ### Part 6: The Signal Cut
 
 # The Rescue
-# Part 6: The Signal Cut
 
 ## Saturday, May 8, 2004 — 14:22 PM (PST) The Cascade Suites, Room 412
 
@@ -3669,7 +3648,6 @@ He slept without dreaming.
 ### Part 1: Fueling the Expedition
 
 # The Tourist Protocol
-# Part 1: Fueling the Expedition
 
 ## Sunday, May 9, 2004 — 08:30 AM (PST) The Cascade Suites, Room 412
 
@@ -3750,7 +3728,6 @@ They cleared the table. They grabbed their bags (water, cameras, jackets). They 
 ### Part 2: The Mode Switch
 
 # The Tourist Protocol
-# Part 2: The Mode Switch
 
 ## Sunday, May 9, 2004 — 09:45 AM (PST) Convention Place Station
 
@@ -3841,7 +3818,6 @@ The doors slid shut. The Metro-Rail surged forward. They were flying above the t
 ### Part 3: The Observation Deck
 
 # The Tourist Protocol
-# Part 3: The Observation Deck
 
 ## Sunday, May 9, 2004 — 10:15 AM (PST) The Seattle Sky-Spire
 
@@ -3912,7 +3888,6 @@ They went back inside, leaving the view of the bus station behind, trading the g
 ### Part 4: The Deep Blue
 
 # The Tourist Protocol
-# Part 4: The Deep Blue
 
 ## Sunday, May 9, 2004 — 13:30 PM (PST)The Bayfront Aquarium
 
@@ -4023,7 +3998,6 @@ They stayed in the dome for an hour, the three of them suspended in the blue lig
 ### Part 5: The Wheelchair Epiphany
 
 # The Tourist Protocol
-# Part 5: The Wheelchair Epiphany
 
 ## Sunday, May 9, 2004 — 15:30 PM (PST) The Bayfront Aquarium
 
@@ -4104,7 +4078,6 @@ Freddie looked at them. The fear that had been gnawing at him since the lobby—
 ### Part 6: The Scar
 
 # The Tourist Protocol
-# Part 6: The Scar
 
 ## Sunday, May 9, 2004 — 15:45 PM (PST) The Hill Climb
 
@@ -4157,7 +4130,6 @@ The electric bus hummed up the street, carrying the Unit back to base, ready for
 ### Part 7: High Voltage
 
 # The Tourist Protocol
-# Part 7: High Voltage
 
 ## Sunday, May 9, 2004 — 16:30 PM (PST) The Cascade Suites, Room 412
 
@@ -4286,7 +4258,6 @@ He couldn't speak yet. The words were gone. So he just lay there, safe in the pr
 ### Part 8: The Silent Signal
 
 # The Tourist Protocol
-# Part 8: The Silent Signal
 
 ## Sunday, May 9, 2004 — 17:00 PM (PST) The Cascade Suites, Room 412
 
@@ -4377,7 +4348,6 @@ They stayed in the pile, three siblings on a hotel bed, riding out the aftershoc
 ### Part 9: The Restoration
 
 # The Tourist Protocol
-# Part 9: The Restoration
 
 ## Sunday, May 9, 2004 — 18:00 PM (PST) The Cascade Suites, Room 412
 
@@ -4524,7 +4494,6 @@ He was in the place where everybody knew his name. And he was never leaving agai
 ### Part 10: The Flight Plan
 
 # The Tourist Protocol
-# Part 10: The Flight Plan
 
 ## Sunday, May 9, 2004 — 21:30 PM (PST) The Cascade Suites, Room 412
 
@@ -4629,7 +4598,6 @@ He slept. And for the first time in four days, he didn't dream of the road.
 ### Part 11: The Northern Trajectory
 
 # The Tourist Protocol
-# Part 11: The Northern Trajectory
 
 ## Monday, May 10, 2004 — 08:30 AM (PST) The Cascade Suites, Room 412
 
@@ -4760,7 +4728,6 @@ The bus rolled south, carrying the Avery Unit back to base, ready for whatever c
 ### Part 1: The Bypass
 
 # Flight to Tahoma
-# Part 1: The Bypass
 
 ## Monday, May 10, 2004 — 10:00 AM (PST) The Cascade Suites, Seattle
 
@@ -4865,7 +4832,6 @@ The Vanguard roared past the exit. They left Kent—and the ghost of Vanessa—i
 ### Part 2: The Iron Creek Lodge
 
 # Flight to Tahoma
-# Part 2: The Iron Creek Lodge
 
 ## Monday, May 10, 2004 — 12:30 PM (PST) State Route 7
 
@@ -4926,7 +4892,6 @@ They were off the grid. The rescue was over. The vacation had begun.
 ### Part 3: The Bear's Den
 
 # Flight to Tahoma
-# Part 3: The Bear's Den
 
 ## Monday, May 10, 2004 — 15:30 PM (PST) Cabin 4, The Iron Creek Lodge
 
@@ -5021,7 +4986,6 @@ Here, there were only logs, fire, river, and the Unit.
 ### Part 4: The Supply Run
 
 # Flight to Tahoma
-# Part 4: The Supply Run
 
 ## Monday, May 10, 2004 — 16:00 PM (PST) Ashford, Pierce County
 
@@ -5124,7 +5088,6 @@ He took another bite. He was full. He was warm. He was home—even if home was t
 ### Part 5: The Hypothesis & The Lock
 
 # Flight to Tahoma
-# Part 5: The Hypothesis & The Lock
 
 ## Monday, May 10, 2004 — 19:00 PM (PST) Cabin 4, The Iron Creek Lodge
 
@@ -5243,7 +5206,6 @@ The Pasco Lock was broken. The secret was out. And the walls of the cabin didn't
 ### Part 6: The Iron Giants & The Safe Mode
 
 # Flight to Tahoma
-# Part 6: The Iron Giants & The Safe Mode
 
 ## Monday, May 10, 2004 — 21:00 PM (PST) Cabin 4, The Iron Creek Lodge
 
@@ -5380,7 +5342,6 @@ And that was enough.
 ### Part 7: Factory Settings
 
 # Flight to Tahoma
-# Part 7: Factory Settings
 
 ## Tuesday, May 11, 2004 — 09:30 AM (PST) Cabin 4, The Iron Creek Lodge
 
@@ -5439,7 +5400,6 @@ He walked to the pile of clothes they had left by the bathroom door the night be
 ### Part 8: The Iron Spirits
 
 # Flight to Tahoma
-# Part 8: The Iron Spirits
 
 ## Tuesday, May 11, 2004 — 10:15 AM (PST) Cabin 4, The Iron Creek Lodge
 
@@ -5512,7 +5472,6 @@ They wandered the park for an hour, Freddie identifying the original purpose of 
 ### Part 9: The Silent Engines
 
 # Flight to Tahoma
-# Part 9: The Silent Engines
 
 ## Tuesday, May 11, 2004 — 11:45 AM (PST) Mt. Rainier Scenic Railroad Depot, Elbe, WA
 
@@ -5575,7 +5534,6 @@ Freddie looked from the cold iron train to the small wooden shack.
 ### Part 10: The Refueling
 
 # Flight to Tahoma
-# Part 10: The Refueling
 
 ## Tuesday, May 11, 2004 — 12:15 PM (PST) The Junction Grill, Elbe, WA
 
@@ -5642,7 +5600,6 @@ They walked back to the *Vanguard Senator*, full, tired, and content, leaving th
 ### Part 11: Glacial Flour
 
 # Flight to Tahoma
-# Part 11: Glacial Flour
 
 ## Tuesday, May 11, 2004 — 14:30 PM (PST) The Bank of the Nisqually River (Behind Cabin 4)
 
@@ -5701,7 +5658,6 @@ He took one last look at the grey river—the grinding, moving, living force of 
 ### Part 12: The Return Vector
 
 # Flight to Tahoma
-# Part 12: The Return Vector
 
 ## Wednesday, May 12, 2004 — 08:30 AM (PST) Cabin 4, The Iron Creek Lodge
 
@@ -5828,7 +5784,6 @@ They sat there in the generic hotel room, listening to the muffled roar of jet e
 ### Part 13: The Holding Pattern
 
 # Flight to Tahoma
-# Part 13: The Holding Pattern
 
 ## Wednesday, May 12, 2004 — 12:15 PM (PST) Room 512, The Airport Grand
 
@@ -5957,7 +5912,6 @@ He took another bite of his sandwich, ready for the final leg of the mission.
 ### Part 14: The Null Hypothesis
 
 # Flight to Tahoma
-# Part 14: The Null Hypothesis
 
 ## Wednesday, May 12, 2004 — 18:30 PM (PST) Room 512, The Airport Grand
 
@@ -6044,7 +5998,6 @@ Freddie drifted off, finally purging the last of Vanessa’s "hostile code." He 
 ### Part 1: The Final Bill
 
 # The Flight Home
-# Part 1: The Final Bill
 
 ## Thursday, May 13, 2004 — 07:30 AM (PST) The Emerald Grille (Lobby Level), The Airport Grand Hotel
 
@@ -6123,7 +6076,6 @@ They walked out of the quiet, velvet-lined restaurant and toward the front desk,
 ### Part 2: The Departure Protocol
 
 # The Flight Home
-# Part 2: The Departure Protocol
 
 ## Thursday, May 13, 2004 — 08:15 AM (PST) Front Desk, The Airport Grand Hotel
 
@@ -6230,7 +6182,6 @@ Their mother, Ellen, had finally divorced Robert in 2001. He had refused to work
 ### Part 3: The Gateway Protocol
 
 # The Flight Home
-# Part 3: The Gateway Protocol
 
 ## Thursday, May 13, 2004 — 09:45 AM (PST) SeaTac Airport, Main Terminal (Departures)
 
@@ -6311,7 +6262,6 @@ The convoy moved forward toward the security checkpoint, a small island of order
 ### Part 4: The Checkpoint Protocol
 
 # The Flight Home
-# Part 4: The Checkpoint Protocol
 
 ## Thursday, May 13, 2004 — 10:00 AM (PST) Security Checkpoint 3, SeaTac Airport
 
@@ -6426,7 +6376,6 @@ She put the pile of "safe food" on the counter. The total was nearly thirty-five
 ### Part 5: The Soundtrack Protocol
 
 # The Flight Home
-# Part 5: The Soundtrack Protocol
 
 ## Thursday, May 13, 2004 — 10:20 AM (PST) Concourse C, SeaTac Airport
 
@@ -6503,7 +6452,6 @@ Jessica pushed the chair forward. Freddie sat a little taller, the bassline stil
 ### Part 6: The Hub Dilemma
 
 # The Flight Home
-# Part 6: The Hub Dilemma
 
 ## Thursday, May 13, 2004 — 10:45 AM (PST) Gate C10, SeaTac Airport
 
@@ -6562,7 +6510,6 @@ She released the brakes. They rolled past the businessmen, past the long lines o
 ### Part 7: The Safety Protocol
 
 # The Flight Home
-# Part 7: The Safety Protocol
 
 ## Thursday, May 13, 2004 — 10:55 AM (PST) Flight 492, Seat 2B
 
@@ -6643,7 +6590,6 @@ As the plane taxied to the runway, Paige looked out the window at the grey Washi
 ### Part 8: The Ascent Protocol
 
 # The Flight Home
-# Part 8: The Ascent Protocol
 
 ## Thursday, May 13, 2004 — 11:15 AM (PST) Flight 492, Climbing out of SeaTac
 
@@ -6734,7 +6680,6 @@ Freddie let the darkness take him, safe in the sandwich, hurtling toward Virgini
 ### Part 9: The Mid-Air Transfer
 
 # The Flight Home
-# Part 9: The Mid-Air Transfer
 
 ## Thursday, May 13, 2004 — 13:30 PM (CST) / 11:30 AM (PST) Flight 492, Cruising Altitude (35,000 Feet) Somewhere over the Dakotas
 
@@ -6847,7 +6792,6 @@ She didn't move. She just held him tighter, watching the clouds go by, counting 
 ### Part 10: The Descent Protocol
 
 # The Flight Home
-# Part 10: The Descent Protocol
 
 ## Thursday, May 13, 2004 — 02:15 PM (CST) Flight 492, Descending into Chicago
 
@@ -6954,7 +6898,6 @@ They rolled into the elevator car. The doors closed, cutting off the terminal no
 ### Part 11: The Neon Horizon
 
 # The Flight Home
-# Part 11: The Neon Horizon
 
 ## Thursday, May 13, 2004 — 14:50 PM (CST) The Connector Tunnel, Chicago O'Hare
 
@@ -7077,7 +7020,6 @@ The elevator began to rise, lifting them out of the underworld and toward the fi
 ### Part 12: The Refueling Protocol
 
 # The Flight Home
-# Part 12: The Refueling Protocol
 
 ## Thursday, May 13, 2004 — 15:10 PM (CST) Concourse C, Chicago O'Hare
 
@@ -7154,7 +7096,6 @@ They gathered their bags. Freddie settled back into the wheelchair, feeling full
 ### Part 13: The Propeller Protocol
 
 # The Flight Home
-# Part 13: The Propeller Protocol
 
 ## Thursday, May 13, 2004 — 16:30 PM (CST) Gate C4A (Ground Level), Chicago O'Hare
 
@@ -7233,7 +7174,6 @@ Jessica smiled, leaning her head back against her own seat. The propellers drone
 ### Part 14: The Valley Protocol
 
 # The Flight Home
-# Part 14: The Valley Protocol
 
 ## Thursday, May 13, 2004 — 19:10 PM (EST) Gateway Express Flight 104, Descending into Roanoke
 
@@ -7304,7 +7244,6 @@ She flexed her left foot, imagining the clutch pedal. After days of riding in sh
 ### Part 15: The Final Mile
 
 # The Flight Home
-# Part 15: The Final Mile
 
 ## Thursday, May 13, 2004 — 07:45 PM (EST)Long Term Parking Lot A, Roanoke Regional Airport
 
@@ -7397,7 +7336,6 @@ They walked up the path together, crossing the threshold into the only world tha
 ### Part 16: The Shutdown Protocol
 
 # The Flight Home
-# Part 16: The Shutdown Protocol
 
 ## Thursday, May 13, 2004 — 21:30 PM (EST) 105 Pepper Street SE, Christiansburg, VA
 
@@ -7464,7 +7402,6 @@ He was home.
 ### Part 1: The Invalid Variable
 
 # The Trojan Horse
-# Part 1: The Invalid Variable
 
 ## Sunday, May 23, 2004 — 15:10 PM 105 Pepper Street SE
 
@@ -7719,7 +7656,6 @@ The threat was deleted. The variable was null.
 ### Part 2: The Legal Shield
 
 # The Trojan Horse
-# Part 2: The Legal Shield
 
 ## Monday, May 24, 2004 — 09:30 AM Law Offices of Sterling & Associates, Christiansburg, VA
 
@@ -7858,7 +7794,6 @@ They walked out of the office, armed with the truth, ready to defend the Base ag
 ### Part 3: The Null Hypothesis
 
 # The Trojan Horse
-# Part 3: The Null Hypothesis
 
 ## Monday, May 24, 2004 — 11:00 AM Newman Library, CPI Campus
 
@@ -8026,7 +7961,6 @@ The trap had sprung. But it was empty. And so was she.
 ### Part 4: The Restoration
 
 # The Trojan Horse
-# Part 4: The Restoration
 
 ## Monday, May 24, 2004 — 12:30 PM 105 Pepper Street SE
 
@@ -8145,7 +8079,6 @@ The Unit was online. And it was unbreakable.
 ### Part 1: The Transaction
 
 # The Optimization Protocol
-# Part 1: The Transaction
 
 ## Wednesday, June 16, 2004 — 10:00 AM 105 Pepper Street SE — The Dining Room
 
@@ -8257,7 +8190,6 @@ The firewall was installed. The Avery Unit had a permanent home. And it only cos
 ### Part 2: The Hardware Upgrade
 
 # The Optimization Protocol
-# Part 2: The Hardware Upgrade
 
 ## Tuesday, August 3, 2004 — 19:30 PM 105 Pepper Street SE
 
@@ -8363,7 +8295,6 @@ It wasn't sick. It was **survival**. And for the first time in his life, he was 
 ### Part 3: The Deed of Trust
 
 # The Optimization Protocol
-# Part 3: The Deed of Trust
 
 ## Saturday, September 4, 2004 — 14:00 PM 105 Pepper Street SE
 
@@ -8478,7 +8409,6 @@ Jessica smiled, sitting back down and wrapping her arm around him.
 ### Part 1: The Invasion Force
 
 # The Satellite Convergence
-# Part 1: The Invasion Force
 
 ## Saturday, June 19, 2004 — 18:45 PM 105 Pepper Street SE
 
@@ -8515,7 +8445,6 @@ And finally, Aunt Linda stepped out of the driver’s seat. She looked like a wo
 ### Part 2: The Dungeon
 
 # The Satellite Convergence
-# Part 2: The Dungeon
 
 The tour of the main floor was quick. The kitchen (small), the living room (beige), and the Master Bedroom (The Silo).
 
@@ -8568,7 +8497,6 @@ Sarah stared at it. She imagined sitting there while her four sisters played car
 ### Part 3: The Privacy Protocol
 
 # The Satellite Convergence
-# Part 3: The Privacy Protocol
 
 They went back upstairs (retreating from the toilet as fast as possible). Freddie was waiting in the hallway.
 
@@ -8601,7 +8529,6 @@ He looked specifically at Sarah and Jenna, the teenagers who were most sensitive
 ### Part 4: Settlement
 
 # The Satellite Convergence
-# Part 4: Settlement
 
 ## 22:00 PM
 
@@ -8636,7 +8563,6 @@ The reunion had begun. And the Pittsburgh Toilet remained, fortunately, unused.
 ### Part 5: The Throne of Shame
 
 # The Satellite Convergence
-# Part 5: The Throne of Shame
 
 ## Sunday, June 20, 2004 — 02:45 AM The Underworld (Basement), 105 Pepper Street SE
 
@@ -8721,7 +8647,6 @@ She had survived the Pittsburgh Toilet. But as she drifted back to sleep, she ma
 ### Part 6: The Morning Audit
 
 # The Satellite Convergence
-# Part 6: The Morning Audit
 
 ## Sunday, June 20, 2004 — 07:15 AM The Underworld (Basement), 105 Pepper Street SE
 
@@ -8830,7 +8755,6 @@ Better than the bed, Harper repeated to herself. Way better than the bed.
 ### Part 7: Fueling the Army
 
 # The Satellite Convergence
-# Part 7: Fueling the Army
 
 ## Sunday, June 20, 2004 — 08:00 AM 105 Pepper Street SE
 
@@ -8943,7 +8867,6 @@ He had his army. And he was never letting them go.
 ### Part 8: Division of Labor
 
 # The Satellite Convergence
-# Part 8: Division of Labor
 
 ## Sunday, June 20, 2004 — 09:30 AM 105 Pepper Street SE
 
@@ -8984,7 +8907,6 @@ Jessica and Linda walked out the door. The lock clicked shut.
 ### Part 9: The Laundry Brigade
 
 # The Satellite Convergence
-# Part 9: The Laundry Brigade
 
 ## 10:00 AM The Underworld (Basement)
 
@@ -9087,7 +9009,6 @@ The Laundry Brigade resumed operations. The washer churned, the dryer hummed, an
 ### Part 10: The Anchor Point
 
 # The Satellite Convergence
-# Part 10: The Anchor Point
 
 ## 10:15 AM The Living Room
 
@@ -9142,7 +9063,6 @@ Downstairs, the washing machine hit the spin cycle, vibrating the floor. Upstair
 ### Part 11: The Zero-Privacy Protocol
 
 # The Satellite Convergence
-# Part 11: The Zero-Privacy Protocol
 
 ## Sunday, June 20, 2004 — 12:30 PM The Underworld (Basement)
 
@@ -9221,7 +9141,6 @@ The Laundry Brigade worked on. They rotated through the loads, and they rotated 
 ### Part 12: Structural Integrity Test
 
 # The Satellite Convergence
-# Part 12: Structural Integrity Test
 
 ## Sunday, June 20, 2004 — 12:30 PM The Living Room (Surface Level)
 
@@ -9304,7 +9223,6 @@ The Jungle Gym was open, and it was never closing down.
 ### Part 13: The Rotation of the Guard
 
 # The Satellite Convergence
-# Part 13: The Rotation of the Guard
 
 ## Sunday, June 20, 2004 — 14:00 PM The Living Room (Surface Level)
 
@@ -9393,7 +9311,6 @@ Eat your heart out, Vanessa, Linda thought with a grim sense of satisfaction. Yo
 ### Part 14: The Black Box Review
 
 # The Satellite Convergence
-# Part 14: The Black Box Review
 
 ## Sunday, June 20, 2004 — 14:15 PM The Living Room
 
@@ -9548,7 +9465,6 @@ Freddie took a deep breath. He felt the weight of his sisters. He felt the truth
 ### Part 15: Clearance Denied
 
 # The Satellite Convergence
-# Part 15: Clearance Denied
 
 ## Sunday, June 20, 2004 — 14:20 PM The Underworld (Basement)
 
@@ -9869,7 +9785,6 @@ He was home.
 ### Part 1: Trajectory Calculations
 
 # The Big One-Five
-# Part 1: Trajectory Calculations
 
 ## Monday, June 21, 2004 — 14:00 PM 105 Pepper Street SE
 
@@ -9906,7 +9821,6 @@ Freddie hesitated. He looked down at his wheelchair. He looked at his hands, whi
 ### Part 2: The Ramp
 
 # The Big One-Five
-# Part 2: The Ramp
 
 ## 14:45 PM Galaxy Lanes, Christiansburg
 
@@ -10019,7 +9933,6 @@ Safe return, he thought. Always.
 ### Part 3: The Arcade Intervention
 
 # The Big One-Five
-# Part 3: The Arcade Intervention
 
 ## 16:00 PM
 
@@ -10094,7 +10007,6 @@ Freddie looked at the green alien in her hand, and the smile on Jenna’s face.
 ### Part 4: The Carbohydrate Loading
 
 # The Big One-Five
-# Part 4: The Carbohydrate Loading
 
 ## Monday, June 21, 2004 — 18:30 PM 105 Pepper Street SE
 
@@ -10219,7 +10131,6 @@ Jessica lifted the heavy sheet cake.
 ### Part 5: Pyrotechnic Redundancy
 
 # The Big One-Five
-# Part 5: Pyrotechnic Redundancy
 
 ## Monday, June 21, 2004 — 19:30 PM 105 Pepper Street SE
 
@@ -10346,7 +10257,6 @@ Optimal.
 ### Part 6: The Voltage Spike
 
 # The Big One-Five
-# Part 6: The Voltage Spike
 
 ## Monday, June 21, 2004 — 20:15 PM 105 Pepper Street SE
 
@@ -10435,7 +10345,6 @@ Sarah, usually the calm Lieutenant, was pacing the room, gesturing wildly with a
 ### Part 7: The Shutdown Sequence
 
 # The Big One-Five
-# Part 7: The Shutdown Sequence
 
 ## Monday, June 21, 2004 — 21:15 PM 105 Pepper Street SE
 
@@ -10522,7 +10431,6 @@ They rotated through the stations—sink, toilet, sink—with the efficiency of 
 ### Part 8: The Photographic Evidence
 
 # The Big One-Five
-# Part 8: The Photographic Evidence
 
 ## Monday, June 21, 2004 — 21:30 PM The Living Room
 
@@ -10615,7 +10523,6 @@ He watched Sarah and Jenna drag the deflated air mattresses up from the basement
 ### Part 9: The Platoon Deployment
 
 # The Big One-Five
-# Part 9: The Platoon Deployment
 
 ## Monday, June 21, 2004 — 21:45 PM The Living Room
 
@@ -10720,7 +10627,6 @@ For the first time since the bus ride, Freddie Avery slept without dreaming.
 ### Part 10: The Decompression Chamber
 
 # The Big One-Five
-# Part 10: The Decompression Chamber
 
 ## Tuesday, June 22, 2004 — 08:30 AM 105 Pepper Street SE
 

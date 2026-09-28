@@ -11,8 +11,6 @@ series: "casey"
 
 **Date:** 2004-08-30 at 10:00 ET
 
-# Part 1: The Syllabus
-
 The Fall 2004 semester at the Community College of Hampton Roads officially began at nine in the morning on a muggy Monday in late August. 
 
 I was nineteen years old, sitting in the third row of a heavily air-conditioned lecture hall, methodically transcribing the dates from the Anatomy and Physiology syllabus into my daily planner. Because CCHR operated on a traditional semester system—unlike Northwest Pacific University out in Seattle, where Cassandra was currently operating on the quarter system—my entire academic life was structured around rigid, sixteen-week blocks. 
@@ -54,8 +52,6 @@ I wrote my cell phone number down on the corner of her notebook. She tore the co
 ### Part 2: The Library
 
 **Date:** 2004-08-30 at 13:00 ET
-
-# Part 2: The Library
 
 By one o'clock, the afternoon heat outside was sweltering, making the heavy air conditioning of the CCHR campus library feel like an absolute sanctuary. 
 
@@ -103,8 +99,6 @@ I was looking at the textbook, but my processor was still spinning in the backgr
 
 **Date:** 2004-08-30 at 13:30 ET
 
-# Part 3: The Integumentary System
-
 For the next thirty minutes, I attempted to walk Kristine through the structural fundamentals of the human body. We moved through the anatomical planes of reference, quickly bypassing cellular biology, and landed on the integumentary system. 
 
 "So the dermis is basically the structural foundation of the skin," I explained, pointing to the cross-section diagram in the textbook. "It houses the blood vessels, the hair follicles, and the tactile receptors."
@@ -144,8 +138,6 @@ Kristine's smile widened in absolute triumph. She immediately stood up and began
 ### Part 4: The Apartment
 
 **Date:** 2004-08-30 at 14:00 ET
-
-# Part 4: The Apartment
 
 Kristine's apartment was located in a sprawling complex less than a mile off the CCHR campus. The moment we stepped inside, she closed the heavy front door and engaged the deadbolt with a sharp, metallic click. 
 
@@ -205,9 +197,6 @@ She let out a shaky breath and leaned forward, wrapping her arms around my neck 
 
 **Date:** 2004-09-01 at 09:45 ET
 
-# Chapter 2: The Reboot
-# Part 1: The Apology
-
 I arrived at the CCHR science building exactly fifteen minutes before the start of my Wednesday Anatomy and Physiology lecture. 
 
 The incident in Kristine's apartment on Monday afternoon was still occupying a massive amount of my processing power. I didn't like structural instability, and the sheer volatility of that encounter had left me deeply unsettled. I had spent the last forty-eight hours trying to categorize exactly what had happened, ultimately concluding that it was just a severe miscommunication caused by my own lack of social experience. 
@@ -247,8 +236,6 @@ Kristine's smile finally reached her eyes. The heavy, volatile tension of the la
 ### Part 2: The Text Message
 
 **Date:** 2004-09-01 at 13:00 ET
-
-# Part 2: The Text Message
 
 Following the morning lecture, Kristine and I relocated to a small, circular table in the student center cafeteria. 
 
@@ -298,8 +285,6 @@ She picked up her pen and looked back down at her notes. I opened my textbook, f
 
 **Date:** 2004-09-01 at 17:00 ET
 
-# Part 3: The Introduction
-
 By five o'clock, the student center had grown entirely too loud for effective studying. I gathered my textbooks and looked across the table at Kristine. 
 
 "I need to head back to my house," I told her. "My parents usually expect me home for dinner around six, and I need to review my biology notes before then."
@@ -340,8 +325,6 @@ I smiled, picking up my backpack. I had successfully managed a volatile variable
 
 **Date:** 2004-09-01 at 18:00 ET
 
-# Part 4: The Dinner
-
 The Vance family dinner table was notoriously welcoming, operating on a frequency of warmth and inclusion that usually overwhelmed guests. Tonight, however, Kristine navigated the environment with flawless precision. 
 
 She sat next to me, keeping her hands politely folded in her lap while Dad served massive squares of lasagna. She didn't crowd my airspace, and she didn't try to dominate the conversation. Instead, she actively listened, asking perfectly timed, respectful questions that immediately endeared her to my parents. 
@@ -375,9 +358,6 @@ Everything was fine.
 ### Part 1: The Ultimatum
 
 **Date:** 2004-10-04 at 15:00 ET
-
-# Chapter 3: The Delete Key
-# Part 1: The Ultimatum
 
 October arrived with a sharp drop in temperature, forcing the CCHR student body indoors. Kristine and I were sitting in the corner of the crowded campus coffee shop. For the last four weeks, our routine had been absolute: we attended lectures together, we studied together, and she frequently came over to the house for dinner. She had become a permanent fixture in my operational schedule. 
 
@@ -441,8 +421,6 @@ I hugged her back. The situation was finally stable, and she wasn't crying anymo
 
 **Date:** 2004-10-04 at 19:00 ET
 
-# Part 2: The Compromise
-
 The house was relatively quiet when I finally retreated to my bedroom that evening.  
 
 I closed my bedroom door, sat on the edge of my mattress, and pulled my phone out of my pocket. 
@@ -474,8 +452,6 @@ I leaned back against my pillows, completely confident in my new strategy.
 ### Part 1: The Terminal
 
 **Date:** 2004-11-24 at 15:15 ET
-
-# Part 1: The Terminal
 
 The drive down Interstate 64 to Norfolk International Airport was buzzing with anticipation. I had both hands gripping the steering wheel of my mother’s standard sedan, my leg bouncing lightly against the floorboard. It had been months since I had seen Cassandra and Casey, and my processor was eagerly counting down the minutes until their flight from Seattle landed.
 
@@ -513,8 +489,6 @@ But as I pulled my arm back from Casey, I felt Kristine step immediately into my
 
 **Date:** 2004-11-24 at 18:15 ET
 
-# Part 2: The Return to the Coast
-
 We gathered their luggage and loaded up the trunk. The drive to Virginia Beach was filled with easy, rapid-fire catching up between me, Cassandra, and Casey. Kristine chimed in politely from the passenger seat, asking standard, friendly questions about the flight and the Seattle weather.
 
 When we arrived at my mother’s house, the environment grew a little more crowded. Wendy Vance and Tom welcomed everyone warmly. We sat in their living room, eating snacks and talking about the upcoming Thanksgiving plans.
@@ -532,8 +506,6 @@ Kristine took a slow sip of her drink. She didn't say a word to interrupt the si
 ### Part 3: The Perimeter Shift
 
 **Date:** 2004-11-24 at 20:30 ET
-
-# Part 3: The Perimeter Shift
 
 Since we needed to return Wendy's car to her, my mother grabbed her keys once the visit wrapped up. She drove the four of us out of Virginia Beach, crossing the water and dropping us off directly at the curb of Kristine’s apartment building in Portsmouth before waving goodbye and driving off into the night.
 
@@ -572,8 +544,6 @@ But the second we were alone, Kristine wrapped her arms around my neck, pulling 
 ### Part 1: The Morning Anchor
 
 **Date:** 2004-11-25 at 07:00 ET
-
-# Part 1: The Morning Anchor
 
 I woke up early on Thursday morning, long before the gray daylight fully filtered through the bedroom blinds. Beside me, Kristine was still fast asleep, her breathing slow and heavy.
 
@@ -655,8 +625,6 @@ I leaned back against the sofa cushions, feeling a vague, confusing friction set
 
 **Date:** 2004-11-25 at 14:00 ET
 
-# Part 2: The Kitchen Ambush
-
 The comfortable sanctuary of the living room held steady into the early afternoon. By two o'clock, the parade broadcast had ended, but the three of us remained anchored to the sofa, happily chatting and enjoying the rare, uninterrupted proximity of our pack.
 
 The layout of the Portsmouth apartment was compact and highly compartmentalized. If you were walking down the main hallway from the bedrooms, the small kitchen sat immediately to the right, sectioned off by a mid-height divider wall. The back of our long sofa ran directly parallel to that walkway, acting as a physical barricade that defined the living room space to the left.
@@ -731,8 +699,6 @@ Cassandra engaged the brakes on her chair. She reached out and wrapped her hand 
 
 **Date:** 2004-11-25 at 14:30 ET
 
-# Part 3: The Hard Sever
-
 The cold November wind whipped across the concrete curb, biting through my thin jacket.
 
 I was crying, the tears hot and fast against my freezing cheeks. My chest heaved with a devastating, confusing grief. My processor was in a total tailspin. I wasn't just losing a girlfriend; in my trauma-wired nineteen-year-old brain, I was losing the ultimate adult milestone. I felt like a catastrophic failure, being dragged away from my own life because I couldn't keep the peace.
@@ -789,8 +755,6 @@ I sat in the middle of the backseat, sandwiched safely next to Casey, who immedi
 
 **Date:** 2004-11-25 at 15:15 ET
 
-# Part 1: The Golden Architecture
-
 The cab ride to the hotel in Virginia Beach was completely silent. Cassandra had maintained a strict, impenetrable operational security for the entire twenty-minute drive. She didn't say a single word about the kitchen, or the sidewalk, or Kristine. She just sat in the front seat, staring straight ahead, waiting until we were safely behind closed doors. When the taxi finally parked, she handed the driver his fare along with a massive, generous cash tip for his complete discretion.
 
 We hauled our bags up to the hotel room. The second the heavy door clicked shut and the deadbolt slid into place, the suffocating, atmospheric pressure of the last twenty-four hours vanished.
@@ -839,8 +803,6 @@ I stared at the silver phone, the sheer magnitude of the safety net suddenly com
 
 **Date:** 2004-11-25 at 15:30 ET
 
-# Part 2: The Executive Reality
-
 I sat on the edge of the hotel bed, my eyes locked on the silver flip phone resting on the small table. Casey was still pressed flush against my side, her breathing finally evening out as the deep-pressure contact did its job.
 
 To my left, Cassandra sat perfectly still in her travel chair, letting me process the monumental scale of the safety net she had just deployed. My internal processor, which had been violently redlining since the kitchen ambush, began to physically cool down. I mentally looped a heavy, predictable rhythm in my head, letting the steady beat regulate my system.
@@ -888,8 +850,6 @@ I flipped it open, staring at the blank screen, the dial pad waiting for my inpu
 ### Part 3: The Summer Frequency
 
 **Date:** 2004-11-25 at 16:00 ET
-
-# Part 3: The Summer Frequency
 
 The ambient hum of the Virginia Beach hotel room was the only sound in the space. Casey was a warm, heavy anchor against my right side, and Cass was sitting patiently in her chair to my left, giving my processor the quiet space it needed to run the massive logistical calculations.
 
@@ -975,8 +935,6 @@ Casey stirred against my side. She blinked her eyes open, feeling the sudden ten
 
 **Date:** 2004-11-25 at 16:30 ET
 
-# Part 4: The Twenty-One Day Bridge
-
 The silence on the line was deafening, save for the ragged, uneven sound of my breathing. I had completely buried my face in Casey’s hair, my hands clutching the silver phone so tightly my knuckles were white.
 
 "David?" Liz’s voice came back through the earpiece. It was a fragile, heartbroken whisper. The absolute, ironclad certainty that had anchored her just a moment ago was completely gone, shattered by the raw agony in my confession.
@@ -1051,8 +1009,6 @@ I pulled Casey into a crushing, deep-pressure hug, my chest swelling with a wave
 
 **Date:** 2004-11-27 at 08:30 ET
 
-# Part 1: The Checkpoint
-
 The harsh fluorescent lights of the Norfolk International Airport departures terminal offered no comfort. It was Saturday morning, and the reality of the twenty-one-day bridge was officially here.
 
 We stood at the edge of the TSA security checkpoint. The glowing blue sign reading *Ticketed Passengers Only Beyond This Point* was a rigid, physical boundary line.
@@ -1067,11 +1023,9 @@ Despite knowing the logic, and despite the absolute guarantee of December 17th, 
 
 Casey let out one last, shuddering breath and slowly untangled herself from my grip. She wiped her eyes, giving me a brave, fragile nod. Cass reached up, squeezing my hand tightly, before wheeling herself through the security line with Casey right behind her. I stood at the edge of the checkpoint, completely frozen, watching them until they disappeared around the corner toward the gates.
 
-### Interlude: The Firewall
+### Part 2: The Firewall
 
 **Date:** 2004-11-27 at 14:15 ET
-
-# Interlude: The Firewall – Wednesday, December 1, 2004 – 2:15 PM
 
 The next three weeks were agonizingly slow. Moving back into Mom’s house in Virginia Beach was the safest logistical move, but my system was completely starved of its primary regulatory anchors. I threw all of my excess processing power into my classes, burying myself in textbooks and study guides to force the clock to move faster. Every single night, I was on the phone with Liz. Her voice became my only tether, talking me down when the isolation felt too heavy, while she powered through her own SVU finals in Dayton.
 
@@ -1119,8 +1073,6 @@ She looked up and saw me standing in the hallway.
 
 **Date:** 2004-12-17 at 13:30 ET
 
-# Part 1: Burton Station Road
-
 The calendar eventually surrendered.
 
 On the afternoon of December 17th, the moment my final exam at the community college concluded, my mother was waiting for me in the parking lot. But Wendy Vance didn't drive us back to her house. She bypassed the highway exits for the main public terminal of Norfolk International Airport and instead navigated her standard sedan down Burton Station Road, pulling up to the discrete, heavily gated General Aviation terminal.
@@ -1146,8 +1098,6 @@ We drove back to Virginia Beach, the east-coast consolidation of our pack finall
 ### Part 2: The Flight Data
 
 **Date:** 2004-12-17 at 14:00 ET
-
-# Part 2: The Flight Data
 
 The drive back to Virginia Beach operated on a completely different frequency than the tense, quiet car rides of November.
 
@@ -1178,8 +1128,6 @@ Casey gasped, grabbing my hand and squeezing it tightly. "You and Liz are going 
 ### Part 3: The Honorary Sister
 
 **Date:** 2004-12-17 at 19:45 ET
-
-# Part 3: The Honorary Sister
 
 By the time the winter sun had fully set over Virginia Beach, the anticipation in Mom's living room had reached a fever pitch.
 
@@ -1220,8 +1168,6 @@ The perimeter was locked. My system was flawless. For the first time in what fel
 ### Part 4: The Moving Logistics
 
 **Date:** 2004-12-17 at 21:15 ET
-
-# Part 4: The Moving Logistics
 
 With the pizza boxes cleared away, the conversation naturally shifted to the sheer mechanics of hauling Liz's life across the country. Mr. Carter pulled out a notepad, ready to outline the driving shifts for the rental truck, but Cassandra raised a hand, smoothly intercepting the planning phase.
 
@@ -1299,8 +1245,6 @@ She pulled me down onto the mattress, the heavy winter blankets wrapping securel
 
 **Date:** 2004-12-18 at 07:30 ET
 
-# Part 1: The Morning Knock
-
 The pale morning light filtering through the blinds of my childhood bedroom was the first thing to pull me out of sleep. Liz was a warm, heavy weight across my chest, her breathing perfectly steady in the quiet room. For the first time in three weeks, my internal processor wasn't running a frantic, defensive loop. I was completely, deeply anchored.
 
 Then, a soft, polite tapping echoed from the bedroom door.
@@ -1330,8 +1274,6 @@ Casey didn't hesitate for a microsecond. She launched herself forward, wrapping 
 ### Part 2: The Flight Logistics
 
 **Date:** 2004-12-18 at 08:00 ET
-
-# Part 2: The Flight Logistics
 
 We headed downstairs, guided by the smell of bacon and pancakes filling the house.
 
@@ -1364,8 +1306,6 @@ I looked over at Liz. Her eyes were wide with quiet awe. For a couple of ninetee
 ### Part 3: The Sovereign Airspace
 
 **Date:** 2004-12-18 at 11:30 ET
-
-# Part 3: The Sovereign Airspace
 
 Once we reached cruising altitude, the seatbelt sign chimed off, and the true scale of the aircraft's interior became apparent. It didn't feel like a plane; it felt like a high-end corporate boardroom wrapped in cream-colored leather and polished mahogany.
 
@@ -1409,8 +1349,6 @@ Cass wiped her mouth with a linen napkin and pushed her plate aside. "Alright, I
 
 **Date:** 2004-12-18 at 13:30 ET
 
-# Part 4: The Global Reach
-
 With Cassandra fully locked into her executive workflow at the conference table, Casey took it upon herself to act as our official tour guide.
 
 "Come here, I have to show you guys the back," Casey whispered loudly, grabbing my hand and pulling me and Liz toward the aft section of the cabin.
@@ -1429,9 +1367,7 @@ Casey grinned at me, entirely used to her sister's fiercely protective, unyieldi
 
 ### Part 5: The I-5 Crawl
 
-**Date:** 2004-12-18 at 15:45 PT
-
-# Part 5: The I-5 Crawl
+**Date:** 2004-12-18 at 15:45 ET
 
 A few hours later, the heavy winter clouds of the Pacific Northwest parted just enough for the jet to break through the gray canopy. We banked smoothly over the Seattle skyline, bypassing the commercial chaos of Sea-Tac entirely, and touched down on the long runway at Boeing Field.
 
@@ -1452,8 +1388,6 @@ I leaned my head back against the plush leather seat, Casey resting warmly again
 ### Part 1: The Legal Boundary
 
 **Date:** 2004-12-18 at 17:30 ET
-
-# Part 1: The Legal Boundary
 
 By the time the Quantum van finally escaped the gridlock of Interstate 5 and pulled up to the Federal Way apartment complex, the winter sun had completely set. We hauled our luggage out of the vehicle, thanked the driver, and took the elevator up to Cassandra's floor.
 
@@ -1498,8 +1432,6 @@ As Liz and Casey headed back out to the living room to unfold the heavy sofa bed
 ### Part 2: Comfort Food and The Ledger
 
 **Date:** 2004-12-18 at 18:15 ET
-
-# Part 2: Comfort Food and The Ledger
 
 Casey eagerly grabbed one end of the heavy sofa cushions while Liz took the other. Together, we dragged the mattress frame out from the depths of the couch. The metal springs groaned, unfolding to take up nearly the entire footprint of the small living room.
 
@@ -1555,8 +1487,6 @@ I watched my older sister brush off the idea with pure, pragmatic logic. She mig
 
 **Date:** 2004-12-18 at 20:30 ET
 
-# Part 3: The Evening Routine
-
 By the time the dinner dishes were cleared from the kitchen island, a heavy, comfortable exhaustion had settled over the apartment. The adrenaline of the cross-country flight and the sheer relief of our consolidation had finally run its course.
 
 "Alright," Cassandra announced, wheeling herself away from the kitchen counter. "Let's initiate the evening routine."
@@ -1604,8 +1534,6 @@ I grabbed the television remote and flipped the screen on, the ambient glow wash
 ### Part 4: The Blackout
 
 **Date:** 2004-12-18 at 21:30 ET
-
-# Part 4: The Blackout
 
 By 9:30 PM, the quiet hum of the television was the only light source in the living room.
 
@@ -1661,8 +1589,6 @@ Outside the bedroom walls, the wind howled and the Pacific Northwest rain batter
 
 **Date:** 2004-12-19 at 08:00 ET
 
-# Part 1: Pantry Logistics
-
 The heavy wool blankets of the king-sized bed had created an absolutely flawless thermal envelope.
 
 When I finally blinked my eyes open, the digital alarm clock on Cassandra's nightstand was completely blank. The ambient, low-level hum of the apartment’s HVAC system was entirely absent, leaving the room blanketed in a heavy, insulated silence.
@@ -1703,8 +1629,6 @@ Casey happily munched on a dry strawberry Pop-Tart, entirely unbothered by the l
 
 **Date:** 2004-12-19 at 08:30 ET
 
-# Part 2: Circadian Logistics
-
 As we sat on the floor of the dim living room, passing around boxes of dry oat flakes and frosted toaster pastries, the reality of our new geography started to set in.
 
 I took a bite of a generic, foil-wrapped pastry and looked across the coffee table at Casey. She was happily kicking her feet against the edge of the sofa bed, looking entirely well-rested despite the fact that she had practically lived on an airplane for the last forty-eight hours.
@@ -1736,8 +1660,6 @@ The time zone didn't matter. The blackout didn't matter. The perimeter was secur
 ### Part 3: The Eastside Expansion
 
 **Date:** 2004-12-19 at 12:15 ET
-
-# Part 3: The Eastside Expansion
 
 We spent the rest of the morning in a massive, tangled cuddle puddle on the living room floor. With the ambient temperature still hovering on the chilly side, we had dragged the heavy wool blankets out from the master bedroom and created a makeshift nest around the sofa bed. Casey was completely anchored against my side, Liz was resting her head on my chest, and Cassandra sat with her back against the sofa frame, her legs stretched out under the blankets with us.
 
@@ -1793,8 +1715,6 @@ Cassandra closed all the transit tabs, leaving only the house listing glowing on
 
 **Date:** 2004-12-19 at 13:00 ET
 
-# Part 4: The Tier-One Acquisition
-
 Cassandra didn't just browse standard public real estate websites. The moment we decided on the Eastside, she closed the public tabs and logged directly into the highly exclusive Quantum Building 33 intranet wiki.
 
 "Standard real estate agents operate too slowly," Cassandra murmured, her eyes scanning the encrypted corporate directory. She bypassed the public real estate market entirely to locate a Tier-One real estate agent who specializes in acquisitions for high-net-worth tech executives.
@@ -1841,8 +1761,6 @@ I looked at Liz, a massive grin breaking across my face. Our temporary Federal W
 
 **Date:** 2004-12-19 at 13:15 ET
 
-# Part 5: The Sunday Dispatch
-
 The sudden, chaotic scramble to get out of our flannel pajamas and into respectable daytime clothes took less than ten minutes. But as I pulled a clean sweater over my head and walked back out to the living room, Cassandra was staring at the transit maps on her laptop with a deep, frustrated frown.
 
 "Is there a problem with the route?" I asked, grabbing my coat.
@@ -1876,8 +1794,6 @@ Cassandra didn't reply, but a small, sharp smile pulled at the corner of her mou
 ### Part 6: The Redmond Compound Acquisition
 
 **Date:** 2004-12-19 at 14:00 ET
-
-# Part 6: The Redmond Compound Acquisition
 
 The yellow cab pulled onto the sprawling, immaculately landscaped grounds of the Quantum campus. Instead of directing the driver to the residential address, Cassandra had him pull up directly in front of the massive, glass-fronted architecture of Building 33.
 
@@ -1935,8 +1851,6 @@ Cassandra turned her chair back toward the paved sidewalk leading to Building 33
 
 **Date:** 2004-12-19 at 15:00 ET
 
-# Part 7: The Contract Execution
-
 We left the property and began the short trek back toward the Quantum campus. Cassandra had mapped out a route to the bus stops along NE 40th Street, planning to catch the transit grid back toward the Overlake Transit Center so we could begin the long journey back to Federal Way.
 
 We hadn't even made it to the main intersection before the low hum of a luxury engine pulled up alongside us.
@@ -1988,8 +1902,6 @@ Now, we waited.
 ### Part 8: The Accepted Strike
 
 **Date:** 2004-12-19 at 16:30 ET
-
-# Part 8: The Accepted Strike
 
 By the time we left Marcus’s office, the adrenaline of the rapid-fire transaction had finally worn off, leaving us all starving. We hadn't eaten anything since breakfast at the Federal Way apartment, completely missing lunch during the chaotic cross-county deployment.
 
@@ -2043,8 +1955,6 @@ I raised my glass to meet hers, followed instantly by Liz and Casey. The glass c
 
 **Date:** 2004-12-19 at 18:45 ET
 
-# Part 9: The TAPS Grid
-
 The ride back across Lake Washington was entirely different from our daytime cab ride. We boarded the TAPS 550 express bus in Downtown Bellevue, and as the heavy articulated vehicle merged onto the Interstate 90 floating bridge, Liz and I got our first real look at the Seattle skyline at night.
 
 The towering, illuminated skyscrapers reflected beautifully off the black water of the lake. But the real surprise came when the bus reached the western shore. Instead of merging onto the congested surface streets of downtown, the bus driver flipped a switch on the dashboard. The heavy diesel engine abruptly cut out, replaced by the quiet, high-pitched hum of an electric trolley motor, and the bus dove straight underground into the Downtown Seattle Transit Tunnel.
@@ -2095,8 +2005,6 @@ I shook my head, thoroughly impressed by the sheer logistical perfection of her 
 
 **Date:** 2004-12-19 at 20:30 ET
 
-# Part 10: The Sunday Night Reset
-
 By the time we unlocked the door to the Federal Way apartment and dropped our bags, the damp Pacific Northwest chill had thoroughly seeped into our bones. The ambient warmth of the apartment’s HVAC system was a massive relief after the cold transit commute, but the consensus among the pack was unanimous: everyone needed a hot shower.
 
 Cassandra immediately shifted into logistical mode, establishing the evening sequence to maximize efficiency with only two bathrooms.
@@ -2146,8 +2054,6 @@ Casey leaned into the hug, letting out a small, reluctant smile. "Okay. Fine."
 ### Part 11: The A-B Block and Québécois French
 
 **Date:** 2004-12-19 at 21:00 ET
-
-# Part 11: The A-B Block and Québécois French
 
 Before Cassandra officially initiated the system shutdown for the night, I realized I was still flying blind regarding my younger sister's actual daily operational tempo. We knew she had Zero Period in the morning, but the rest of her day was a mystery to me.
 
