@@ -136,3 +136,23 @@ Here is how you can characterize his reputation among the Quantaneers in your lo
 > **Cultural Context: David Vance at Quantum**
 > 
 > Among the Quantaneers, David Vance is a legendary anomaly. He wears the bright Orange Badge of a low-level contractor, and his personal devices are strictly relegated to the sluggish _Quantum_Guest_ WiFi network. Yet, his physical badge possesses CEO-level access to the entire campus. The employees understand a strict unspoken rule: David operates completely outside the corporate hierarchy. His only metric for success is Cassandra's medical stability, and he will unapologetically stonewall a billionaire board member if it means protecting her baseline.
+## David's Caretaking Progression (Lore Note)
+
+**Age-Appropriate ADL Assistance:**
+Because David is only 10 years old in 1995, he does not have the physical musculoskeletal development to safely execute transfer mechanics (moving Cassandra from her wheelchair to a bed or shower chair) without risking injury to himself or her. 
+
+However, as he grows, his involvement in her care will naturally escalate:
+*   **Ages 10-12 (The Analytical Phase):** David primarily acts as a "medical overwatch." He memorizes her medication matrix, tracks her dysautonomia telemetry (heart rate/blood pressure), and reads her AuDHD micro-expressions to predict sensory overload.
+*   **Ages 14-15 (The Physical Phase):** Once David hits high school and develops the necessary height and adult muscle mass, he is officially invited to begin assisting with physical ADLs. This includes learning proper pivot-transfer leverage and range-of-motion stretching. This training happens during family visits to Seattle or when Cassandra flies home to Virginia for university breaks.
+*   **Adulthood:** This natural progression culminates in David formally attending nursing school and becoming her permanent Licensed Practical Nurse (LPN) and Chief Medical Overwatch when she takes over as CEO of Quantum.
+
+**Intimate ADLs (Bathing & Dressing):**
+Because David is an opposite-gender younger sibling, there are strict modesty and psychological boundaries regarding highly intimate ADLs (bathing, toileting, and undergarment dressing).
+*   **Adolescence (Ages 14-17):** While teenage David begins helping with physical transfers and range-of-motion stretching, Mom (or a female aide/Casey) continues to handle all bathing and intimate dressing. David's dressing assistance is strictly limited to non-intimate lower-body mechanics (e.g., putting on her shoes, socks, and helping pull up pants) or helping her put on a jacket to manage her dysautonomia without triggering a heart rate spike.
+*   **Adulthood & Clinical Training (Age 18+):** Bathing and full-body dressing assistance only becomes David's responsibility once he formally enters nursing school and secures his LPN license. At this stage, he establishes a rigid "clinical mode." When executing intimate ADLs, the brother-sister dynamic temporarily powers down, and he operates strictly as a medical professional executing a sterile, clinical protocol. This psychological compartmentalization allows them to maintain their sibling relationship without the caregiving crossing into inappropriate or uncomfortable territory.
+
+### Future Narrative Note: The "Clinical Mode" Origin Event
+*   **Target Timeline:** When David is in high school (approx. ages 14-16), during a visit to Seattle or when Cassandra is home on break.
+*   **The Scenario:** A sudden dysautonomia emergency occurs while Mom/primary caregivers are briefly out. Cassandra struggles to get to the bathroom in time, falls/fails a transfer, and suffers a humiliating bowel/incontinence accident. 
+*   **The Execution:** David discovers her crying in defeat. Instead of reacting like a normal teenager (which would destroy her dignity), he flips a switch in his autistic brain. He completely drops the sibling dynamic and enters a flat, emotionless "clinical mode." Because he now has the physical strength, he assists her with the pivot transfer into the tub, acts as the logistical overwatch (handing her the showerhead, bagging the ruined clothes, scrubbing the floor), and gets her fresh clothes. 
+*   **The Result:** It is a deeply humanizing, defining moment for their dynamic. It establishes the "medical overwatch" boundary that they will use for the rest of their lives. 

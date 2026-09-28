@@ -1843,67 +1843,1195 @@ We were standing on The Ave. The air was crisp, the streets were lined with coff
 
 Cassandra took a deep breath, gripping the handrims of her wheelchair. She was officially in Quantum Corporation's backyard.
 
-## 
+### Part 4: The Topography – 4:00 PM (Pacific Time)
+
+# Part 4: The Topography – 4:00 PM (Pacific Time)
+
+We checked into our hotel on University Way Northeast, dropped our heavy backpacks in the room, and immediately set out to establish a perimeter around the Northwest Pacific University campus. 
+
+The walk down The Ave was deceptively easy. The commercial district was flat, paved, and highly accessible. But the moment we turned east to cross onto the actual university grounds, we slammed into the topographical reality of Seattle. 
+
+The campus was built on a massive, sweeping incline. From the lower athletic fields near the water all the way up to the gothic architecture of the main quads, the elevation change was the equivalent of an eighteen-story building. 
+
+Dad gripped the handles of Cassandra's wheelchair, leaned his weight forward, and started pushing her up the first major pedestrian pathway. Within fifty feet, his breathing grew heavy. The incline was brutal, relentless, and completely unyielding. 
+
+"Stop," Cassandra commanded, grabbing her handrims to brake the chair. 
+
+Dad stopped, wiping sweat from his forehead. "I've got it, Cassie. It's just steep."
+
+"If I secure the Catalyst Initiative, you are not going to be here to push me," Cassandra said, her voice entirely flat. "I will be living on this campus alone. I need to know if I can physically navigate this terrain."
+
+She grabbed the handrims and started pushing herself up the hill. Her arms strained, her shoulders locking with the intense physical exertion. She made it about twenty feet before her momentum stalled, the steep grade threatening to pull her backward. She locked the brakes, breathing hard, her jaw clenched in pure frustration. 
+
+"There has to be an alternate logistical route," Casey said, pulling out the campus map she had grabbed from the hotel lobby. She ran her finger along the grid, her eyes darting between the topographical lines and the massive brick buildings surrounding us. "The outdoor pathways do not meet ADA slope requirements for manual traversal."
+
+"How do people in wheelchairs go to school here?" Mom asked, looking around helplessly. 
+
+"They bypass the surface routes," Casey announced, tapping the map. "Look at the architectural layout. The buildings are staggered up the hillside. To navigate the elevation change, we don't use the outdoor pathways. We go *through* the buildings. We enter a building on the first floor, take the internal elevator to the fourth floor, exit out the back door which connects to the higher elevation, and repeat the process."
+
+I looked at the towering brick buildings flanking the pathway. It was a massive, three-dimensional puzzle. To get to class, Cassandra wouldn't just be rolling down a sidewalk; she would have to memorize a complex network of internal elevators, skybridges, and hidden access ramps. 
+
+"There is also a campus-run 'Dial-A-Ride' shuttle service," Casey added, reading the legend on the map. "Specifically deployed for students with mobility limitations."
+
+Cassandra sat in her chair, staring up at the towering, gothic library at the absolute peak of the campus. It looked like a fortress. 
+
+"I can do this," Cassandra said, her voice dropping into a low, unshakable register. She wasn't just talking about the hills; she was talking about the entire operation. The Catalyst Challenge, the relocation, the physical toll of living alone on a mountain. 
+
+"Are you sure?" Dad asked gently. 
+
+"Quantum Corporation is headquartered right across the lake," Cassandra said, unlocking her brakes and turning her chair toward the nearest academic building to test Casey's elevator theory. "I am not letting a hill stop me from taking their money."
+
+### Part 5: The Hotel Logistics – 8:00 PM (Pacific Time)
+
+# Part 5: The Hotel Logistics – 8:00 PM (Pacific Time)
+
+By the time we retreated to the hotel on University Way, we were all physically destroyed. The topography of the NPU campus had drained our collective physical battery down to zero. 
+
+The hotel room was a standard double-queen layout. Dad threw our backpacks into the corner, and Casey and I immediately claimed the second bed. We had an established travel protocol: Mom and Dad took one bed, and the three kids took the other, with Cassandra always positioned in the exact center to prevent Casey or me from accidentally rolling off the mattress in our sleep. 
+
+"I am officially second-guessing this entire operation," Cassandra groaned, lying back on the pillows. She looked completely drained. The sheer physical exertion of fighting gravity all afternoon, combined with the sensory overload of traveling across the country, had left her AuDHD brain utterly fried. "VDU is built on a coastal plain. It is completely flat. I wouldn't have to map out internal building elevators just to go to class."
+
+"But VDU doesn't have the Quantum Catalyst Initiative," Dad reminded her gently, unlacing his shoes. "If you win that, you get a full ride, and you're stationed right in the center of the global technology sector."
+
+"I know," Cassandra sighed, rubbing her eyes. 
+
+Mom sat down on the edge of our bed and began helping Cassandra with her evening Activities of Daily Living (ADLs). She helped her transition out of her daytime clothes and handed her the small, organized pillbox containing her dysautonomia medications and the alpha-2 agonists she needed to quiet her racing thoughts and initiate her neurological sleep cycle. 
+
+"Here's the real logistical hurdle," Mom said quietly as she helped Cassandra settle under the blankets. "Public schools are legally mandated to provide one-on-one aides and paraprofessionals to assist with ADLs and medical management. Universities are not. If you move out here, you won't have an aide to help you with transfers, medications, or telemetry."
+
+The room went quiet. Mom had isolated the single biggest flaw in Cassandra's plan. Even if she could physically navigate the hills by cutting through buildings, she still needed a medical baseline of support that NPU wouldn't provide. 
+
+"We brainstorm," Dad said, sitting on the edge of his bed. "What are the operational parameters?"
+
+"Could we hire a private duty aide?" Cassandra suggested. "If the Catalyst Initiative provides a full-ride scholarship and a living stipend, I could theoretically reallocate the housing funds to hire private medical assistance."
+
+"It's a possibility," Mom nodded, thinking it over. "But finding someone you trust, someone who understands how your dysautonomia ties into your sensory processing... that's a very specific job description."
+
+"There is another operational vector," Casey chimed in, adjusting her blanket perfectly parallel to the edge of the mattress. "Many university Disability Services offices facilitate 'Room and Board' care agreements. They match disabled students with graduate nursing students. The nursing student provides morning and evening ADL assistance in exchange for free housing in the dorms."
+
+Cassandra blinked, her analytical brain immediately catching the logic. "An academic barter system. It eliminates the need for raw capital and ensures the aide has baseline medical training." 
+
+"Exactly," Mom smiled, looking relieved. "It's a temporary patch, but it's a very solid start. We can ask the disability office about it tomorrow."
+
+I was sitting cross-legged at the foot of the bed, watching the steady rise and fall of Cassandra's chest. Over the past few years, I had inadvertently learned how to track her physical baselines. I knew exactly what micro-expressions meant she was heading into sensory overload, and I knew how to check her pulse when she felt faint. 
+
+"I have been tracking your telemetry," I pointed out. "I already know your operational baselines."
+
+Cassandra cracked a small, exhausted smile. "You're ten years old, David. I don't think NPU is going to let a fifth-grader live in the engineering dorms to act as my private nurse."
+
+"Give him eight years and a nursing degree," Casey noted, her eyes already closed. "Statistically, he would be the optimal candidate."
+
+Mom laughed, a tired, genuine sound that broke the tension in the room. "Alright, Nurse David. We'll keep you on retainer." 
+
+Cassandra closed her eyes, the medication finally starting to power down her racing thoughts. The logistical hurdles were massive—the hills, the ADLs, the lack of a public school safety net. But as she drifted off to sleep, she was one step closer to figuring it out. 
+
+Tomorrow, we were going to the NPU Open House.
 
 ## 
 
+### Part 1: The Engineering Quad – 9:00 AM (Pacific Time)
+
+# Part 1: The Engineering Quad – 9:00 AM (Pacific Time)
+
+The next morning, the heavy Seattle cloud cover finally broke, bathing the Northwest Pacific University campus in brilliant, crisp sunlight. 
+
+We executed our deployment from the hotel with military precision. Armed with Casey's topographical map and Cassandra's newly devised "internal elevator" strategy, we successfully navigated the steep incline of the campus without burning out Dad's physical battery. We cut through the biology building, rode the elevator to the third floor, crossed a skybridge, and emerged exactly where we needed to be: the NPU Engineering Quad. 
+
+The open house was already in full swing. 
+
+White canopy tents were set up across the manicured lawns, each representing a different engineering discipline. There were robotics demonstrations, aerodynamic wind tunnel models, and massive arrays of computer monitors running real-time physics simulations. Hundreds of prospective students and their parents milled around the booths, talking to faculty and collecting glossy informational brochures. 
+
+"Stay in formation," Mom instructed, keeping her hand securely on the back of Cassandra's wheelchair as we wove through the dense crowd. "We need to find the registration desk."
+
+"Quadrant four, northeast corner," Casey pointed out instantly, having already scanned the environment. 
+
+We made our way over to a large tent adorned with a banner that read: *NPU College of Engineering & Computer Science - Future Innovators*. 
+
+Cassandra rolled up to the registration table. A cheerful student volunteer handed her a clipboard with a sign-in sheet. "Welcome to NPU! Go ahead and fill this out. Are you interested in a specific major?"
+
+"Computer Science and Software Architecture," Cassandra said, her voice confident and professional. She filled out the form in neat, block letters. "Specifically, low-level hardware optimization and real-time 3D rendering engines."
+
+The volunteer smiled, tearing off a customized nametag. "That's a highly competitive track. Have you looked into our partnerships with local tech firms?"
+
+"I am currently a candidate for the Quantum Catalyst Initiative," Cassandra replied smoothly, peeling the backing off her nametag and pressing it to her jacket. 
+
+The volunteer's eyes widened slightly. The Catalyst Initiative wasn't just a local scholarship; it was the ultimate golden ticket in the Pacific Northwest tech sector. "Wow. Okay. You definitely want to head over to the Quantum-sponsored pavilion. They have some of their senior engineers out here today reviewing student portfolios."
+
+Cassandra froze. Her hands tightened instinctively around her handrims. "Quantum engineers are here? Today?"
+
+"Yeah, they're set up right over there," the volunteer pointed toward a massive, sleek black tent on the far side of the quad. The Quantum Corporation logo—a stylized, interconnected Q—was emblazoned on the side. 
+
+Cassandra looked back at Mom and Dad. Her breathing was already starting to accelerate, her AuDHD brain rapidly processing the unexpected variable. She had flown across the country hoping to make a secondary impression on the university faculty. She hadn't realized she was walking directly into a live operational review with Quantum itself. 
+
+"They're right there," Cassandra whispered, staring at the black tent. 
+
+"We don't have to go over there right now," Mom said softly, recognizing the impending signs of an autonomic nervous system spike. "We can take a lap around the quad first. Establish a baseline."
+
+"No," Cassandra said, locking her brakes and taking a deep, shuddering breath to manually force her heart rate down. "I uploaded my code. I am here. We execute the mission."
+
+### Part 2: The Quantum Pavilion – 9:30 AM (Pacific Time)
+
+# Part 2: The Quantum Pavilion – 9:30 AM (Pacific Time)
+
+Cassandra pushed her wheelchair across the manicured grass of the engineering quad, moving with the sheer, singular focus of a heat-seeking missile. 
+
+The Quantum Corporation pavilion was massive. It wasn't just a folding table with a few brochures; it was a highly produced, interactive staging ground designed to attract the absolute best talent in the Pacific Northwest. Several young, energized software engineers—Quantaneers, as Casey had cataloged them—were giving live coding demonstrations, handing out branded swag, and reviewing student portfolios on massive CRT monitors. 
+
+And standing right in the center of the pavilion, booming with energy as he talked to a group of prospective students, was Steve Ballantine himself. 
+
+"Target acquired," Casey whispered, staring at the towering, high-kinetic executive. 
+
+Ballantine was a legend. While William Keswick had founded the empire, Ballantine was the operational force of nature driving its massive global expansion. He was also a fiercely proud NPU alumni. It was well-known in the industry that Quantum maintained a massive footprint at this specific open house every single year purely out of Ballantine's loyalty to his alma mater—and because one of his own kids was about to start their freshman year on this very campus. 
+
+Cassandra rolled up to the edge of the pavilion, adjusting the lapels of her jacket. She waited until the group of students dispersed before pushing her chair forward. 
+
+"Hi," Cassandra said, projecting her voice over the ambient noise of the quad. "I'm a prospective software architecture student."
+
+Ballantine turned around, flashing a massive, welcoming grin. "Fantastic! We need architects. NPU has the best engineering program on the coast. What's your name?"
+
+"Cassandra Vance," she said, tapping her customized nametag. 
+
+Ballantine froze. 
+
+For a fraction of a second, the boisterous, high-energy executive completely short-circuited. His eyes locked onto the name on her badge, and I saw a massive, almost uncontrollable spark of realization flash across his face. 
+
+He knew who she was. 
+
+As a senior executive, Ballantine was one of the judges for the Quantum Catalyst Initiative. The submission window wouldn't officially close for months, but because Cassandra had uploaded her entry incredibly early, it was highly probable that he had already seen it. He had seen the 45-kilobyte executable. He had seen the hybrid C and Assembly code that bypassed `q32main()`. He knew she had built a real-time 3D engine that ran flawlessly on an archaic 80486 processor. 
+
+He knew exactly who he was looking at. 
+
+But he couldn't say a word. 
+
+"Cassandra," Ballantine boomed, recovering flawlessly and clapping his hands together. "It is fantastic to meet you! Where are you flying in from?"
+
+"Virginia," she replied, narrowing her eyes slightly. She was highly attuned to micro-expressions, and she had definitely caught his momentary glitch. "I uploaded a submission for the Catalyst Initiative last week. I know the review cycle is ongoing, but I wanted to make a physical introduction."
+
+"Virginia. Right," Ballantine said, shaking his head slightly in disbelief. "And you're... what, an incoming freshman? A transfer student?"
+
+"I am seventeen," Cassandra stated. "I am starting my senior year of high school next month."
+
+Ballantine stared at her. A massive, unmistakable twinkle appeared in his eye. As a ten-year-old observing the interaction, I couldn't read his thoughts, but his body language was projecting raw, unfiltered excitement. If he wasn't bound by the legal and procedural rules of the Catalyst contest, I got the distinct impression he would have offered her a job right on the spot, bypassing her senior year and the university entirely. 
+
+"Well, we are thrilled you made the trip out here to NPU," Ballantine said, his voice vibrating with barely contained energy. In fairness to the thousands of other entrants, he had to maintain absolute neutrality. He couldn't acknowledge her entry, and he couldn't tell her she was already the undisputed frontrunner. 
+
+But he couldn't hide the absolute delight on his face. 
+
+"Listen to me, Cassandra," Ballantine said, leaning forward and resting his hands on his knees so he was at eye-level with her wheelchair. "The Catalyst Initiative is a massive undertaking, and the judging process is going to take months. But regardless of how that shakes out, I want you to talk to my team today. Right now."
+
+He gestured to the young, brilliant Quantaneers working the booth behind him. 
+
+"I want you to ask them what it's like to build the future," Ballantine said, his voice dropping into a tone of intense, absolute certainty. "I want you to ask them what it's like to work at Quantum. Because if you have the kind of drive it takes to fly across the country just to shake our hands... you are exactly the kind of person we want in our ecosystem."
+
+Cassandra sat back in her chair, absorbing the data. He hadn't given her a score. He hadn't given her a guarantee. 
+
+But he had just given her absolute, undeniable validation. 
+
+"I will do that, Mr. Ballantine," Cassandra said, a slow, confident smile spreading across her face. "Thank you."
+
+"No," Ballantine grinned, standing back up and looking down at her like he was looking at the future of his entire empire. "Thank *you*, Cassandra."
+
+### Part 3: The Quantaneers – 10:00 AM (Pacific Time)
+
+# Part 3: The Quantaneers – 10:00 AM (Pacific Time)
+
+As Steve Ballantine marched off to greet another group of university faculty, Cassandra turned her wheelchair toward the main Quantum demonstration booth. 
+
+Two young software engineers were standing behind a massive CRT monitor, watching her approach. They both wore dark blue polo shirts with the Quantum logo embroidered on the chest. Their blue corporate security badges dangled from lanyards around their necks. 
+
+"Hi," the taller engineer said, leaning over the table with an intrigued smile. "I'm Mark. This is Sarah. We couldn't help but overhear your conversation with the boss."
+
+"Cassandra," she introduced herself, locking the brakes on her wheelchair. 
+
+"So, you're seventeen?" Sarah asked, crossing her arms and studying Cassandra. "And Steve Ballantine just told you to come talk to us about working at Quantum?"
+
+"He said I should ask what it's like to build the future," Cassandra replied, her tone completely matter-of-fact. 
+
+Mark exchanged a loaded glance with Sarah. They didn't know anything about the Catalyst Initiative submissions—those were heavily guarded by strict NDAs and firewalled to the judging committee—but they were smart enough to put two and two together. A senior executive at Quantum Corporation did not go out of his way to hype up random high school students. He clearly saw something in her. 
+
+"Well, Cassandra," Mark said, leaning against the table. "Building the future is heavily reliant on resource management. What kind of stack are you working with?"
+
+"I am currently focused on bypassing bloated application layers," Cassandra said without missing a beat. "I've stripped out the standard Quantum Foundation Classes. I write hybrid C and bare-metal Assembly, specifically targeting time-delta loops to decouple rendering physics from the CPU clock cycle."
+
+Mark and Sarah both went completely rigid. 
+
+"Wait," Sarah said, dropping her arms. "You're writing custom 3D rendering engines? In Assembly?"
+
+"Yes," Cassandra nodded. "I am attempting to maximize the floating-point math without relying on a dedicated math coprocessor. If the code is properly optimized at the hardware level, an archaic 486 chip should theoretically be able to push sixty frames per second in a fully textured 3D environment."
+
+Mark let out a low whistle, looking at her like she was a seasoned industry veteran rather than a teenager from Virginia. "You're bypassing the coprocessor entirely?"
+
+"It's inefficient to assume the end-user has one," Cassandra stated. 
+
+"She's right," Sarah said, looking at Mark. She turned back to Cassandra, her initial skepticism completely replaced with raw professional respect. "To answer your question about what it's like to work at Quantum: it's exactly what you're doing right now. We strip things down to the studs. We are given the hardware, and we are told to push it until it breaks, and then we figure out how to make it run faster."
+
+"It's intense," Mark added, handing Cassandra a sleek, branded Quantum folder. "But if you're already writing engine code in Assembly just to prove a point to the hardware... you'd fit right in. Most of the college seniors walking around this quad today couldn't write a time-delta loop if their lives depended on it."
+
+I stood next to Mom, silently observing the interaction. Cassandra wasn't shrinking under the pressure of the massive corporate entity. She wasn't intimidated by the blue badges or the sheer scale of the pavilion. She was speaking their language, and they were recognizing her as one of their own. 
+
+"Thank you for the data," Cassandra said, slipping the folder into the side pocket of her wheelchair. "I will factor it into my operational planning."
+
+"Hope to see you on campus in a few years, Cassandra," Mark grinned. 
+
+"Maybe sooner," Cassandra replied smoothly, unlocking her brakes and turning her chair back toward the open quad.
+
+### Part 4: The Internal Elevators – 11:00 AM (Pacific Time)
+
+# Part 4: The Internal Elevators – 11:00 AM (Pacific Time)
+
+With the Quantum Corporation encounter successfully resolved, we merged back into the general population of prospective students for the official NPU campus tour. 
+
+The topographical reality of Seattle immediately reasserted itself. The student tour guide led the massive group of families up the primary pedestrian spine of the campus, a sprawling, brick-paved walkway that ascended at an impossibly steep angle toward the gothic library. 
+
+"We are detouring," Casey announced, consulting the campus map as Dad prepared to push the wheelchair up the incline. "The outdoor grade exceeds ADA operational limits. Follow me."
+
+While the rest of the tour group huffed and puffed their way up the hill in the humid August heat, our family peeled off and entered the ground floor of the adjacent physics building. 
+
+"Elevator bank, straight ahead," Casey pointed. 
+
+We piled into the large service elevator. Casey pressed the button for the fourth floor. When the doors opened, we walked down a quiet, linoleum hallway, pushed open the heavy double doors at the rear of the building, and stepped back outside. We had completely bypassed the steepest section of the hill, emerging on a flat, elevated courtyard right next to the tour group. 
+
+"Operational efficiency," Cassandra noted, looking at the sweating parents who had just conquered the hill. "I can do this. The internal elevator routes are completely viable for independent traversal."
+
+We spent the next two hours attending the standard university breakout sessions. We sat in the back of a large lecture hall for the Computer Science overview, listening to department heads talk about the future of networking protocols. We navigated through three more academic buildings to bypass elevation changes, and finally made our way to the residential sector of the campus to tour the dormitories. 
+
+The traditional dorms were exactly what you would expect: cramped, cinder-block rooms with two twin beds squeezed in on opposite walls. Cassandra looked at the shared living space with barely concealed horror. The idea of sharing a ten-by-ten box with a randomly assigned neurotypical roommate who might play loud music, invite guests over, or disrupt her rigid sleep schedule was an absolute sensory nightmare. 
+
+"And if you look to your left," the student tour guide yelled through a portable megaphone, pointing toward a massive construction site surrounded by chain-link fencing, "you'll see the future of NPU residential living! Slated to open for the Fall Quarter of 1996, this will be our first-ever apartment-style dormitory complex!"
+
+Cassandra wheeled closer to the fence, looking at the architectural renderings bolted to the plywood barriers. 
+
+"This is a massive shift for the university," the guide explained proudly. "For the first time in NPU history, juniors and seniors will have the option to secure single-occupancy, one-bedroom apartments right here on campus. You get your own private living space, your own kitchen, and you don't have to share a bedroom with anyone!"
+
+"Juniors and seniors," Cassandra murmured, her eyes locked on the rendering, immediately identifying the logistical roadblock. "I would be an incoming freshman. I wouldn't qualify."
+
+"You wouldn't qualify under standard housing lottery rules," Dad corrected quietly, standing next to her wheelchair. "But under the ADA, the Disability Services office can mandate a medical accommodation. If your physicians state that you require a single-occupancy unit and a living room space for an in-home aide to manage your dysautonomia, the university has to place you in one of these units, regardless of your class standing."
+
+"It solves the sensory issue," Mom added, looking at the blueprints. "You wouldn't have to worry about a randomly assigned roommate violating your environmental baselines."
+
+"It also solves the ADL logistics," Cassandra realized, her analytical brain instantly connecting the data points. "If I have a one-bedroom apartment with a living room, I can still implement the academic barter system. I can offer the Disability Services nursing student a place to study and hang out during the day in exchange for morning and evening transfer assistance, but I still retain an isolated, private bedroom for sleep and neurological recovery."
+
+"It's the perfect operational setup," Casey agreed, snapping a photo of the construction site with her disposable camera. 
+
+Cassandra looked up at the skeletal steel beams of the new apartment complex rising against the Seattle skyline. The pieces were all falling into place. She had the topographical map to bypass the hills. She had the logistical framework for her medical needs. She had the single-occupancy housing opening exactly when she would start her freshman year. 
+
+And she had Steve Ballantine's absolute validation. 
+
+She just had to win the Catalyst Initiative.
+
+### Part 5: The Two Paths – 1:00 PM (Pacific Time)
+
+# Part 5: The Two Paths – 1:00 PM (Pacific Time)
+
+The official open house concluded with a massive, complimentary lunch in the primary NPU dining hall. The room was a sprawling, cavernous space filled with long wooden tables, echoing with the chaotic chatter of hundreds of prospective students and their parents. 
+
+Cassandra sat at the end of our table, meticulously peeling the crust off a sandwich. She wasn't paying attention to the noise around her. Her AuDHD brain was deep in executive processing mode, mapping out the massive decision tree that lay ahead of her. 
+
+"Alright," Dad said, taking a sip of his coffee. "We've seen the campus. We've mapped the topographical bypass routes. We've established a theoretical housing and medical logistics plan. What's the verdict, Cass?"
+
+Cassandra placed her sandwich down on her tray. She looked out the massive dining hall windows, staring past the manicured lawns and the gothic architecture, her eyes fixing on the faint, distant skyline of Redmond across the water. 
+
+"It comes down to a binary outcome," Cassandra stated, her voice quiet but absolutely resolute. "If I secure the Quantum Catalyst Initiative, I want to come here. The scholarship covers the out-of-state tuition, which frees up the capital to secure the ADA medical housing and negotiate the graduate nursing barter. It puts me in the absolute center of the global technology sector. It gives me direct access to Quantum."
+
+She paused, looking down at her hands resting in her lap. 
+
+"But if I don't get the Catalyst Initiative," she continued, her analytical tone softening just a fraction, "the operational math doesn't work. The financial burden of moving across the country, fighting these hills, and trying to manage my dysautonomia without a funded logistical safety net is too high a risk. If nothing comes of my submission, I want to stay back home and attend VDU. The campus is flat, and Mom or a local home health nurse can continue to manage my ADLs without risking a catastrophic medical failure."
+
+Mom reached across the table and placed her hand gently over Cassandra's. "That is an incredibly smart, incredibly mature way to look at it, sweetheart. We support whichever path opens up for you."
+
+"The Catalyst Initiative is the key," Casey noted, taking a bite of her apple. "It is the sole variable that dictates the trajectory."
+
+I looked at Cassandra. She had built a 45-kilobyte, real-time 3D rendering engine that ran flawlessly on an archaic 486 processor. She had bypassed the math coprocessor and written a time-delta loop in bare-metal Assembly. She had flown three thousand miles just to look the President of Quantum Corporation in the eye. 
+
+She had done everything right. Now, all we could do was fly back to Virginia and wait for the results.
+
+### Part 6: The Logistics of Care – 3:00 PM (Pacific Time)
+
+# Part 6: The Logistics of Care – 3:00 PM (Pacific Time)
+
+By mid-afternoon, we had retreated to the hotel on University Way. The high-stakes, operational phase of the trip was officially over, and Dad had declared that the next three days were going to be a pure family vacation. If Cassandra was potentially moving to Seattle next year, she needed to understand the region beyond just the brick pathways of the university quad. 
+
+But before we could explore the Pike Place Market or ride the monorail, everyone needed a physical reboot. 
+
+Dad and Casey had walked down the street to grab iced coffees, leaving Mom, Cassandra, and me in the hotel room. Mom had Cassandra lying flat on one of the queen beds, carefully bending and extending Cassandra's legs in a series of slow, rhythmic stretches. 
+
+I sat cross-legged on the adjacent bed, watching the process with intense curiosity. We had talked a lot about ADLs—Activities of Daily Living—and finding a graduate nursing student to help, but I realized I didn't actually have a complete data set on what that entailed. 
+
+"Mom?" I asked, tilting my head. "What exactly do you do for her ADLs? Like, what is the actual job description for the nursing student?"
+
+Mom paused, gently lowering Cassandra's right leg onto the mattress. She looked over at me, understanding that my ten-year-old autistic brain wasn't asking out of idle curiosity; I wanted the operational parameters. 
+
+"It's a combination of physical mechanics and medical monitoring, David," Mom explained, keeping her explanation clinical and age-appropriate. "First, there are transfer mechanics. Cassandra's arms are incredibly strong, but she still needs physical assistance safely transferring from her wheelchair to her bed, or to a shower chair. A bad transfer can tear a rotator cuff, so the aide needs to know how to properly bear weight and support her."
+
+"Physics and leverage," I nodded, cataloging the information. 
+
+"Exactly," Mom smiled. "Second, it's range-of-motion therapy, which is what we're doing right now. Because Cassandra doesn't have motor function in her lower body, her muscles don't contract on their own. If we don't manually stretch her legs every single day, the muscles will tighten, lock up, and restrict her blood flow."
+
+Cassandra stared up at the ceiling, letting Mom do the work. "It also hurts if we skip a day," she added quietly. 
+
+"And the third part is managing her dysautonomia," Mom continued, moving to Cassandra's left leg. "It's helping her put on her shoes and socks, because leaning over can sometimes cause her autonomic nervous system to glitch, making her blood pressure drop and her heart rate spike. And it's managing her medication matrix—making sure she takes the right pills at the exact right times so she doesn't pass out when she sits up."
+
+I processed the data points. The physical transfers and the stretching required adult strength, which I didn't have yet. But the medical monitoring was purely analytical. 
+
+"I could do the medication matrix," I pointed out, entirely serious. "And I already monitor her heart rate."
+
+Cassandra turned her head on the pillow, looking at me with a tired, genuine smile. "You're a good medical overwatch, David. But you have to finish the fifth grade first."
+
+"I am just establishing a contingency plan," I replied defensively, adjusting my glasses. 
+
+Mom laughed softly, finishing the stretching routine and pulling the blankets up over Cassandra's legs. "We appreciate the contingency plan, kiddo. But for now, your only job is to help us figure out where we're going for dinner tonight."
+
+### Part 7: The Vacation Protocol – 7:00 PM (Pacific Time)
+
+# Part 7: The Vacation Protocol – 7:00 PM (Pacific Time)
+
+Dad and Casey returned to the hotel room a few minutes later, balancing a cardboard tray of massive iced coffees. Casey immediately moved to her side of our shared bed, carefully aligning her drink with the edge of the nightstand. 
+
+"Alright, crew," Dad announced, handing Mom her coffee and collapsing onto the edge of their queen bed. "The open house was a success. We have mapped the topographical logistics, we have established the ADL framework, and we have made contact with Quantum Corporation. The stressful part of this deployment is officially over."
+
+"Agreed," Cassandra said, taking a sip of her drink. Her shoulders finally dropped, the intense, high-stakes posture she had been holding all day finally melting away. "The executable is in their hands. There's nothing more I can do until they call."
+
+"Which means," Mom smiled, looking around the room, "for the next three days, we are just a family on vacation in the Pacific Northwest. What is on the agenda?"
+
+Casey pulled her spiral notebook out of her backpack and flipped to a fresh page. "I have calculated an optimized tourist itinerary. Tomorrow morning, we deploy to the Pioneer Public Market. According to my research, the market features a multi-level layout, but there are municipal elevators hidden behind the main vendor stalls that will allow us to bypass the stairs and access the lower levels."
+
+"Good intel," Dad nodded, impressed. 
+
+"After the market, we ride the downtown monorail to the Century Spire," Casey continued, her pencil hovering over the paper. "The monorail is fully accessible and operates on a flat, elevated track. On Friday morning, we tour the Puget Sound Aquarium to document the local marine biology. Then, we take the municipal bus system south to the Klondike Gold Rush National Historical Park in Pioneer Square, followed by the Pacific Aerospace Museum. David will want a minimum of four hours to properly catalog the SR-71 Blackbird exhibit."
+
+"Five hours," I corrected her immediately. "I need to analyze the titanium structural paneling."
+
+"Wait, a Klondike museum?" Cassandra asked, raising an eyebrow. "Is that related to the university?"
+
+"Negative," Casey confirmed. "It is a National Park Service visitor center detailing the 1897 Gold Rush. I want to analyze the logistical supply chains the miners used to cross the Chilkoot Pass. It's historically significant to the region."
+
+Cassandra laughed, leaning back against her pillows. It was a genuine, relaxed sound that we hadn't heard since before she compiled the 3D rendering engine. "I vote we let David have his five hours. I want to see the airplanes too."
+
+"Then it's settled," Dad smiled, grabbing the hotel room service menu off the nightstand. "We execute Casey's itinerary starting tomorrow. But for tonight... who wants to order three massive pizzas and watch whatever is on the hotel pay-per-view?"
+
+"I am mathematically in favor of pizza," Casey announced. 
+
+I sat on the edge of the bed, watching my family. The tension of the last few weeks—the late nights of coding, the stress of the Catalyst submission, the fear of the campus topography—was completely gone. We were just a family hanging out in a hotel room in Seattle. 
+
+Cassandra looked over at me and gave me a small, tired smile. She had done it. She had conquered the mountain, she had commanded the respect of the Quantaneers, and she had proven she could survive in this city. 
+
+The Emerald City was ready for her. We just had to wait for the phone to ring.
+
 ## 
+
+### Part 1: The Century Spire – 10:00 AM (Pacific Time)
+
+# Part 1: Altitude and Artifacts – 10:00 AM (Pacific Time)
+
+The next morning, we executed Casey's tourist itinerary precisely as written. We navigated the multi-level labyrinth of the Pioneer Public Market, using the hidden service elevators behind the fishmongers to bypass the stairs. Then, we boarded the downtown monorail, riding the elevated track straight to the base of the Century Spire. 
+
+Standing on the ground, the massive, futuristic observation tower looked incredibly impressive. 
+
+Riding the glass-walled elevator up the side of it, however, was a completely different story. 
+
+As the elevator car rocketed skyward, the ground fell away at a terrifying speed. Dad gripped the metal handrail with white knuckles. Mom closed her eyes and took deep, rhythmic breaths. Casey stared straight ahead at the metal door panel, refusing to look out the glass, while Cassandra locked the brakes on her wheelchair and gripped her armrests so hard her knuckles turned entirely translucent. 
+
+"The structural integrity of this conveyance is statistically sound," I announced, trying to override my own panic with pure data. "The cables can support—"
+
+"David, please stop talking," Dad said through gritted teeth. 
+
+When the doors finally chimed open at the 520-foot observation deck, we stepped out onto the carpeted floor. We collectively took exactly one lap around the slanted glass windows, staring out at the terrifying, dizzying drop to the streets below. We didn't even attempt the outdoor deck where the wind was violently howling against the wire mesh. 
+
+"I have reached a conclusion," Cassandra announced, reversing her wheelchair away from the slanted glass. "I do not like heights. The sensory input of being this high in the air without a solid foundational anchor is extremely dysregulating."
+
+"Agreed," Casey nodded, adjusting her glasses. "The view is scientifically beautiful, but the biological response is overwhelmingly negative."
+
+"Does anyone want to stay up here?" Dad asked, looking faintly green as he glanced back at the elevator bank. 
+
+We unanimously shook our heads. We had paid thirty dollars for the tickets, spent forty-one seconds riding the elevator up, spent exactly three minutes on the observation deck, and immediately rode the elevator back down. 
+
+When our feet hit solid ground at the base of the Spire, a collective sigh of relief washed over the entire family. 
+
+"Alright," Mom said, running a hand through her hair. "We are officially a ground-level family. What is next on the itinerary?"
+
+"The Cascadia Science Center," Casey read from her notebook, pointing across the concrete plaza at a series of massive, white arches. "It is structurally grounded."
+
+The Science Center was exactly what our nerdy, analytical family needed to recover from the trauma of the Century Spire. Instead of relying on terrifying vertical drops for entertainment, the museum was a sprawling, multi-building labyrinth of applied physics, biology, and astronomy. It was perfectly level and temperature-controlled. 
+
+We spent hours wandering through the exhibits. Cassandra practically pressed her face against the glass of the display cases in the technology wing. I stood completely transfixed inside the massive planetarium dome, meticulously cataloging the projected constellations while ignoring the atmospheric aviation displays entirely. Casey filled three pages of her notebook with notes on the physics of the water propulsion exhibits in the courtyard. 
+
+It was an absolute sensory haven. We didn't have to navigate steep hills, we didn't have to ride glass elevators into the stratosphere, and we didn't have to worry about the operational logistics of a university open house. 
+
+For the first time all week, we just got to be geeks.
+
+### Part 2: The Planetarium – 12:00 PM (Pacific Time)
+
+# Part 2: The Planetarium – 12:00 PM (Pacific Time)
+
+By noon, our family had completely recovered our equilibrium. We migrated from the interactive physics wing of the Cascadia Science Center and headed straight for the massive, iconic white dome of the planetarium. 
+
+For me, the planetarium was the absolute epicenter of human achievement. I had spent my entire life obsessed with the cosmos. Unlike atmospheric aviation, which was messy, loud, and bound by gravity, space was an infinite expanse of pure, cold mathematics. 
+
+The usher guided us through the darkened hallway. Because Cassandra was in her wheelchair, she was routed to the accessible seating area right in the center of the room, providing her with an optimal, unobstructed view of the massive projection dome overhead. I immediately claimed the seat right next to her, sinking into the deeply reclined fabric. 
+
+As the massive steel doors sealed shut, the ambient lighting faded to absolute pitch black. The chaotic noise of the Seattle Center and the horrifying memory of the glass elevator completely vanished. 
+
+"This is infinitely better than the Spire," Cassandra whispered in the dark, her voice entirely relaxed. 
+
+"We are at sea level," I agreed. "The gravitational constants are secure."
+
+A moment later, the massive Zeiss projector in the center of the room whirred to life. A perfectly crisp, impossibly deep projection of the Milky Way exploded across the sixty-foot dome above us. Thousands of stars locked into their precise coordinates. 
+
+A deep, soothing voice echoed from the surround-sound speakers, beginning a narrated journey through the Orion Cygnus Arm of the galaxy. 
+
+I didn't blink. My ten-year-old autistic brain completely detached from the physical world. I was no longer sitting in a museum in Seattle; I was floating in the absolute silence of a vacuum. I tracked the orbital mechanics of the gas giants, calculated the light-years between the projected star systems, and memorized the exact coordinates of the Andromeda galaxy. 
+
+Next to me, Cassandra was equally captivated, though for entirely different reasons. For a teenager with profound sensory processing issues, the planetarium was the ultimate environmental baseline. The temperature was perfectly regulated. The darkness was absolute. The audio was balanced and predictable. She didn't have to fight a massive hill, negotiate with a stranger, or write complex Assembly code. She just got to lean her head back against her wheelchair and watch the universe slowly rotate above her. 
+
+"Look at the telemetry data on the Voyager probes," I whispered, pointing up at a glowing vector line tracing its way out of the solar system. 
+
+"It's beautiful," she murmured back. 
+
+We sat in the dark for forty-five minutes. When the lights finally came back up and the narrator thanked us for attending, I felt a deep, profound sense of calm. The Cascadia Science Center had completely erased the trauma of the morning. 
+
+"Alright," Dad said, standing up and stretching his legs. "We have conquered the cosmos. Who is ready to conquer lunch?"
+
+### Part 3: The Emperor of Redmond – 2:00 PM (Pacific Time)
+
+# Part 3: The Emperor of Redmond – 2:00 PM (Pacific Time)
+
+After a quick lunch at the Seattle Center armory, Cassandra called a logistical audible. 
+
+"I want to see it," she announced, looking at the TAPS system map Casey had taped into her notebook. "We are already here. I want to see the campus."
+
+Dad looked at Mom, who just shrugged. We rode the monorail back into Downtown Seattle and navigated into the transit tunnel. According to Casey's current TAPS schedules, the primary route to the Eastside was the Route 254. We boarded the massive, articulated bus, paid our cash fares, and watched the Seattle skyline disappear behind us as the bus merged onto the SR-520 floating bridge. 
+
+And then, because it was the 520 bridge in the middle of the afternoon, we immediately hit a wall of gridlock. We spent the next fifty minutes trapped in absolute bumper-to-bumper traffic, idling on top of the water. 
+
+When the bus finally broke free of the congestion and deposited us in Redmond, the Quantum Corporation campus was less of a corporate headquarters and more of a sovereign, high-tech city. It was a massive, sprawling grid of low-rise glass buildings, perfectly manicured lawns, and towering pine trees. We navigated the paved pedestrian paths until we reached Building 92—the Quantum Visitor Center and Computer History Museum. 
+
+Inside, the lobby was a pristine, brightly lit shrine to the digital age. Glass display cases housed the evolutionary timeline of computing. Cassandra immediately wheeled over to the center podium, which held a rectangular, blue-and-metal box covered in archaic toggle switches. 
+
+"The Zenith 8800," Cassandra murmured in absolute reverence. 
+
+"Is that a radio?" I asked, looking at the metal switches. 
+
+"It's the first commercially successful personal computer," she corrected me, her eyes wide. "This is the exact machine that William Keswick and Arthur Alden used in 1975 to write the original Q-Code interpreter. This physical box is the foundation of the entire Quantum empire."
+
+"It's a lot smaller than I expected," Mom noted, leaning over to look at the placard. 
+
+"It was considered revolutionary at the time," a voice said from behind us. 
+
+We all turned around. 
+
+Standing there was a man in his late thirties, wearing a slightly rumpled sweater over a collared shirt, and wire-rimmed glasses. He had a cup of coffee in his hand and looked entirely unassuming—except for the fact that his face was printed on the cover of every technology and business magazine on the planet. 
+
+It was William Keswick. The CEO and Founder of Quantum Corporation. 
+
+Dad physically took a step back in shock. Casey froze, her pencil dropping onto her notebook. 
+
+Keswick looked at our stunned family, his eyes locking onto the wheelchair. A massive, knowing smile spread across his face. 
+
+"Cassandra Vance, I presume," Keswick said, stepping forward and extending a hand. 
+
+Cassandra stared at him, her brain temporarily failing to process the impossibility of the situation, before reaching out to shake his hand. "You know who I am?"
+
+"Steve Ballantine came back to the office yesterday absolutely vibrating with energy," Keswick chuckled, adjusting his glasses. "He told me he met a seventeen-year-old at the NPU open house who was bypassing math coprocessors with Assembly time-delta loops. When I saw a family with a wheelchair looking at the Zenith, I had a feeling it might be you."
+
+"I... we didn't have an appointment," Dad stammered. "We just wanted to see the museum."
+
+"Well, it is a very pleasant surprise," Keswick smiled warmly. He glanced over his shoulder toward a pair of security guards standing by the executive elevators, holding up a finger to silently tell them to wait. 
+
+He turned back to Cassandra. Legally, because of the strict NDAs surrounding the Catalyst Initiative, he couldn't ask her about her submission, and he couldn't promise her anything. He had to maintain absolute, unbiased fairness. 
+
+But he didn't have to walk away. 
+
+"Do you have a few minutes?" Keswick asked, gesturing toward the rest of the museum gallery. "The placards are a bit dry. If you want, I can give you the actual story of how Arthur and I nearly fried the motherboard on the Zenith trying to compile the code."
+
+Cassandra's jaw practically unhinged. "Yes. Absolutely, yes."
+
+The Emperor of Redmond smiled, clasped his hands behind his back, and began walking us through the museum, personally guiding a high school senior through the history of computing.
+
+### Part 4: The Zenith Motherboard – 2:15 PM (Pacific Time)
+
+# Part 4: The Zenith Motherboard – 2:15 PM (Pacific Time)
+
+"You have to understand the operational context of 1975," William Keswick said, walking backward down the museum aisle with the casual ease of a man who owned the entire building. "Arthur and I didn't actually own a Zenith 8800. They were incredibly expensive, and we were broke college kids. So, we wrote the entire Q-Code interpreter using an emulator on a massive university mainframe."
+
+Cassandra wheeled along beside him, hanging on every single word. "You wrote the code without testing it on the actual hardware?"
+
+"Exactly," Keswick nodded, pushing his glasses up his nose. "Which is mathematically terrifying. By the time we flew out to the manufacturer in New Mexico to pitch the software, we had no idea if it would actually boot. We loaded the paper tape into the physical machine for the very first time with the company executives watching us."
+
+"Did it boot?" Casey asked, her pencil poised over her notebook. 
+
+"It did," Keswick smiled, "but we hit a catastrophic thermal limit. The Zenith wasn't designed to process that many simultaneous instructions. Our code was so aggressive that it caused the processor to draw maximum voltage continuously."
+
+Cassandra's eyes widened. "You didn't throttle the voltage requests in the interpreter."
+
+"We didn't know we *had* to," Keswick laughed. "Within three minutes of running the code, the ambient temperature inside the chassis spiked. We literally started smelling ozone. Arthur had to physically pull the power cord out of the wall to stop the motherboard from melting in front of the executives. We had to spend the next four hours sitting on the floor of a motel room, rewriting the compiler to insert artificial delay loops just to keep the silicon from bursting into flames."
+
+"Time-delta loops," Cassandra whispered, a massive grin spreading across her face. 
+
+Keswick pointed a finger at her. "Exactly. The exact same foundational concept you used to bypass the math coprocessor on your 486."
+
+I watched my sister. She wasn't slouching in her chair. She wasn't anxious about her spasms. She was sitting up perfectly straight, exchanging technical theories with the most powerful CEO on the planet like they were old colleagues catching up on a project. 
+
+"The problem with the 486," Cassandra said, gesturing with her hands, "is that if you push the primary processor to handle floating-point math without a dedicated coprocessor, you risk a cache bottleneck. I had to write the rendering engine in hybrid Assembly so I could force the CPU to dump the cache every sixteenth frame."
+
+Keswick stopped walking. He stared at Cassandra for a long, silent moment. The polite, nostalgic museum-tour-guide smile faded from his face, replaced by the razor-sharp, analytical gaze of the man who had built a trillion-dollar empire from the ground up. 
+
+"You wrote a manual cache flush in Assembly?" Keswick asked, his voice completely level. 
+
+"I had to," Cassandra shrugged. "Otherwise, the frame rate would drop to single digits. The hardware is physically capable of rendering the polygons, you just have to forcefully manage the memory allocation yourself."
+
+Keswick looked over at Dad, who was standing a few feet away, holding my backpack and trying not to look entirely overwhelmed. Then he looked back down at Cassandra in her wheelchair. 
+
+"Steve told me you were brilliant," Keswick said quietly. "He vastly understated the situation."
+
+He didn't say anything else about her code, or the university, or why Steve Ballantine had been talking about her. He just smiled, adjusted his glasses, and gestured toward the next display case, asking if she wanted to see the first external hard drive ever deployed at Quantum. 
+
+"Absolutely," Cassandra replied, wheeling forward.
+
+### Part 5: The Five-Megabyte Monolith – 2:30 PM (Pacific Time)
+
+# Part 5: The Five-Megabyte Monolith – 2:30 PM (Pacific Time)
+
+William Keswick led us past the Zenith 8800 and toward the back of the gallery. The entire rear wall of the museum was dominated by a massive glass enclosure holding an industrial machine the size of two large refrigerators. 
+
+"This," Keswick announced, gesturing to the hulking grey metal cabinet, "is the Atlas 350 disk storage unit. We acquired this specific unit from an aviation company a few years ago. It represents the very first commercial hard drive ever deployed."
+
+Casey adjusted her glasses, staring up at the machine. "What is the total storage capacity?"
+
+"Five megabytes," Keswick said, completely deadpan. 
+
+Cassandra blinked. "Five megabytes? That's it? You could barely fit the executable for my rendering engine on that."
+
+"Exactly," Keswick smiled, tapping the glass. "Look inside."
+
+I stepped closer to the enclosure. Inside the metal frame were fifty massive aluminum platters, each one measuring two feet across, stacked on top of a central spindle. 
+
+"Those discs spun at twelve hundred revolutions per minute," Keswick explained. "The entire unit weighed over a ton. It was so loud you couldn't have a conversation standing next to it, and the air compressor required to run the pneumatic read/write heads used more electricity than a standard household."
+
+"It's purely mechanical," I realized, staring at the complex array of belts, pulleys, and pneumatic tubes. "It's not just solid-state silicon. It's a physical machine."
+
+"That's the beauty of it," Keswick said, looking down at me. "Before we could write code that lived in pure silicon, we had to rely on heavy, brutal mechanics to store data. We were constrained by the physical limits of moving metal."
+
+Cassandra stared at the massive platters, shaking her head. "And now I'm compiling code on a 486 that can process millions of instructions per second using a microchip the size of a postage stamp."
+
+"The acceleration of hardware is logarithmic," Keswick agreed softly. He checked his watch, a subtle silver timepiece on his left wrist. "Which means software engineers like you are the only thing keeping the industry from stalling out. The hardware guys will always give us more processing power. It's up to us to write the software that actually pushes it to the limit."
+
+He looked back at my parents, offering them a polite, appreciative nod. "I have a board meeting in Building 33 in fifteen minutes. I'm afraid I have to cut the tour short."
+
+"No, please," Mom said quickly, her voice full of genuine awe. "Thank you for taking the time. This was incredible."
+
+"It was my pleasure," Keswick said. He turned back to Cassandra, extending his hand one more time. "Good luck with your senior year, Cassandra. Keep pushing the thermal limits."
+
+"I will," she promised, shaking his hand firmly. 
+
+We watched in absolute silence as William Keswick, the architect of the digital age, walked out of the gallery, bypassed the security detail, and disappeared into an executive elevator. 
+
+Dad let out a long, slow breath. "Did that actually just happen?"
+
+"Statistically," Casey noted, frantically writing in her notebook, "the probability of encountering the CEO in a public gallery and receiving a personalized tour is less than zero point zero one percent. We have experienced a severe statistical anomaly."
+
+"I don't care about the statistics," Cassandra smiled, looking back at the massive five-megabyte monolith. "I just met William Keswick."
+
+### Part 6: Lake Washington – 5:00 PM (Pacific Time)
+
+# Part 6: Westbound on the 520 – 5:00 PM (Pacific Time)
+
+By the time we boarded the westbound TAPS Route 254 to head back to Seattle, the reality of what had just happened was finally settling in. 
+
+We secured Cassandra's wheelchair in the front accessibility bay and grabbed the row of seats immediately behind her. As the massive articulated bus merged onto the SR-520 floating bridge to cross Lake Washington, the afternoon sun began reflecting off the water. The brutal gridlock of the afternoon commute had shifted to the eastbound lanes, meaning our trip back into the city was a smooth, high-speed glide over the water. 
+
+"I can't believe that just happened," Dad muttered, staring out the window at the Seattle skyline rising in the distance. "I just met William Keswick."
+
+"He was incredibly polite," Mom noted, leaning her head against the window. "Though I completely lost the thread of the conversation when you two started talking about voltage algorithms."
+
+Cassandra laughed, tapping her fingers rhythmically against the armrests of her wheelchair. "He knew exactly what I was talking about. Do you know how rare that is? To find an executive who actually understands the metal-level architecture of the hardware?"
+
+"He wrote the foundational operating system," Casey said, looking up from her notebook. "Statistically, he possesses one of the highest technical IQs on the planet."
+
+"And he told me to keep pushing the thermal limits," Cassandra grinned, looking back at us over her shoulder. "That isn't just a polite goodbye. That's a directive."
+
+"Speaking of thermal limits," I said, my stomach letting out a massive, rumbling growl that completely derailed the conversation. "We completely skipped lunch because we were staring at the Atlas 350. My biological fuel reserves are critically depleted."
+
+Mom blinked, looking at her watch. "Oh my god, it's five o'clock. We haven't eaten since breakfast."
+
+"I am also experiencing critical caloric failure," Casey agreed, closing her notebook and sliding it into her backpack. 
+
+"Alright, logistical pivot," Dad announced, standing up and grabbing the yellow stop-request cord as the bus entered the downtown transit tunnel. "We are getting off at the Pioneer Square station. We are finding a massive seafood restaurant, and we are ordering one of everything."
+
+Thirty minutes later, we were sitting in a crowded waterfront restaurant near the Pioneer Public Market, devouring massive baskets of fried halibut and heavily salted french fries. The adrenaline of the Keswick encounter was finally wearing off, replaced by pure exhaustion. We had survived the Century Spire, we had explored the cosmos at the Cascadia Science Center, and we had accidentally ambushed the Emperor of Redmond. 
+
+After dinner, we boarded one final northbound bus back to the University District, navigating the crowded sidewalks of The Ave until we finally reached our hotel. It had been an incredibly long, exhausting, sensory-overwhelming day.
+
+### Part 7: The Privacy Protocol – 8:00 PM (Pacific Time)
+
+# Part 7: The Privacy Protocol – 8:00 PM (Pacific Time)
+
+By the time we unlocked the door to our hotel room in the University District, everyone's adrenaline reserves had completely bottomed out. Dad immediately collapsed onto the chair by the window. Casey dropped her backpack onto the floor and laid face-down on the far edge of the kids' bed. 
+
+"Alright," Mom sighed, pushing Cassandra's wheelchair toward the small bathroom. "Let's get you washed up and changed for bed."
+
+"Why do you have to do that in the bathroom?" I asked, sitting on the edge of the bed and unlacing my shoes. "I can help. I memorized the biomechanical transfer protocol yesterday."
+
+Mom paused, her hand resting on the bathroom doorknob. She looked back at me, then down at Cassandra, who was suddenly looking very intently at the hotel carpet. 
+
+"David, you are an excellent assistant," Mom said gently, adopting the same clinical, matter-of-fact tone she used when explaining medications. "You understand the mechanics of the transfer perfectly. But there is another variable in the equation: privacy."
+
+"Privacy?" I echoed, not fully grasping the concept. "But we are a medical unit. Privacy doesn't alter the physical requirements of the ADL."
+
+Dad leaned forward in his chair, resting his elbows on his knees. "It's not about the physical mechanics, buddy. It's about dignity. Cassandra is a seventeen-year-old young woman. You are a ten-year-old boy. There are certain ADLs—like bathing, showering, and dressing—that require a strict privacy boundary."
+
+"It's a modesty protocol," Cassandra added softly, still looking at the floor. "I need help with my body, but I still want my body to be private."
+
+My analytical brain processed the new parameters. I hadn't factored in the emotional or biological variables of modesty into the equation. I had only been looking at the raw telemetry—the need to move mass from point A to point B. 
+
+"I understand," I said seriously. "I am not cleared for intimate ADL protocols."
+
+"Exactly," Mom smiled, her eyes softening. "But that doesn't mean you can't help. We need you on the logistics team. You can help manage her medication matrix. You can help her put on her jacket or her shoes when we go outside. You are a critical part of her support network."
+
+"I accept the new operational parameters," I nodded. 
+
+"Good," Mom said, opening the bathroom door and wheeling Cassandra inside. "Now, give us fifteen minutes."
+
+When the bathroom door finally unlocked, Cassandra emerged wearing her pajamas. Dad helped execute a perfect pivot transfer, lifting her from the wheelchair and depositing her right in the exact center of our shared bed. 
+
+Casey groaned, rolling over and grabbing the blankets on the far left side. I crawled into the bed on the right side, pulling the hotel comforter up to my chin. Cassandra lay perfectly flat in the middle, staring up at the ceiling. 
+
+Mom and Dad claimed the other queen bed, turning off the bedside lamps and plunging the room into darkness. 
+
+It had been an impossibly long day. The sensory overload of the Century Spire, the cosmic relief of the Cascadia Science Center, the grueling traffic of the SR-520 floating bridge, and the absolute shock of meeting William Keswick. 
+
+But as I lay in the dark, listening to the hum of the hotel air conditioner, I couldn't stop smiling. The Emperor of Redmond had told my sister to keep pushing the thermal limits. And tomorrow, we were going to see airplanes. 
+
+It was, objectively, the greatest Thursday of my entire life.
+
+## 
+
+### Part 2: The Underwater Dome – 9:30 AM (Pacific Time)
+
+# Part 2: The Underwater Dome – 9:30 AM (Pacific Time)
+
+After obliterating our breakfast pastries, we navigated the wooden planks of Pier 59 to the entrance of the Puget Sound Aquarium. Because it was early on a Friday morning, we managed to beat the massive influx of summer tourists. 
+
+The immediate shift in the environment was staggering. We went from the bright, noisy, exhaust-filled waterfront into a dark, cool, blue-lit cavern filled with the ambient, rhythmic hum of massive water filtration systems. 
+
+"Oh, thank god," Cassandra sighed, leaning her head back against her wheelchair. The cool air of the aquarium was an immediate biological relief for her dysautonomia. "Can we just stay in here forever?"
+
+"Negative," Casey replied, marching forward with her notebook. "We have a strict itinerary. We are currently scheduled for the Sea Otter enclosure. According to my research, the aquarium just launched a massive otter rescue and rehabilitation program this year. The biological data being collected is unprecedented."
+
+While Casey and Mom went to analyze the fur density and metabolic rates of the marine mammals, Dad and I pushed Cassandra deeper into the facility toward the aquarium's crowning architectural achievement: The Underwater Dome. 
+
+We wheeled down a long, dark concrete ramp until we emerged into a massive, spherical glass room completely submerged in a 400,000-gallon tank of seawater. 
+
+"Whoa," I breathed, walking straight up to the thick, curved acrylic glass. 
+
+Above us, massive sharks, stingrays, and schools of silver salmon circled in a hypnotic, endless loop. The only light in the room came from the blue, filtered sunlight piercing down through the water from the surface above. 
+
+"Look at the tensile strength required for this," I said, pressing my hands flat against the cold acrylic. My analytical processor immediately began calculating the sheer physical weight of the environment. "The hydrostatic pressure bearing down on this dome is astronomical. The glass has to be inches thick to prevent a catastrophic structural failure."
+
+"It's terrifying," Dad admitted, looking up at a massive sturgeon gliding directly over our heads. "But it's beautiful."
+
+I looked back at Cassandra. She had wheeled herself into the absolute center of the dome. In the soft, blue underwater light, the deep purple circles under her eyes seemed to vanish. She wasn't wincing from joint pain, and her hands weren't spasming. The cool temperature and the slow, hypnotic movement of the fish had completely stabilized her central nervous system. 
+
+"It's like being in outer space," Cassandra whispered, staring up at a massive octopus clinging to the rocks in the distance. 
+
+"The planetarium is simulated space," I corrected her gently. "This is a pressurized biological habitat."
+
+"Close enough, David," she smiled softly, her eyes tracking a school of salmon. "Close enough."
+
+For the next forty-five minutes, we didn't look at schedules, we didn't calculate logistics, and we didn't talk about college. We just sat in the cool, silent blue of the Underwater Dome, watching the world float by.
+
+### Part 3: The Gift Shop – 10:45 AM (Pacific Time)
+
+# Part 3: The Gift Shop – 10:45 AM (Pacific Time)
+
+Like all major tourist attractions, the Puget Sound Aquarium aggressively funneled all exiting foot traffic directly through the massive, brightly lit gift shop. 
+
+"Alright, listen up," Dad announced, standing near a towering display of neon-colored seahorse keychains. "You can each pick out one souvenir. But I am establishing a strict logistical perimeter: it must be small. We have two more museums to visit today, and whatever you buy, you are carrying in your own backpack until we get back to the hotel."
+
+Casey immediately pivoted toward the plush toy aisle, her mind already made up. Within forty-five seconds, she had secured a small, incredibly soft plush sea otter. 
+
+"To commemorate the launch of the 1995 rehabilitation program," Casey explained, dropping it into the shopping basket Mom was carrying. "And because its fur-to-surface-area ratio makes it highly optimal for tactile comfort."
+
+I bypassed the plush toys and headed straight for the geological displays. I spent five minutes analyzing the structural integrity of various polished stones before settling on a perfectly fossilized Megalodon tooth. It was small, mathematically jagged, and represented millions of years of evolutionary engineering. 
+
+Cassandra took the longest. She wheeled slowly past the racks of t-shirts and the spinning displays of shot glasses until she reached a glass shelf filled with decorative paperweights. She picked up a heavy, perfectly spherical glass orb. Inside the glass, a 3D jellyfish had been laser-etched into the center. 
+
+"Is that small enough?" Mom asked, walking over with the basket. 
+
+Cassandra nodded, turning the heavy glass sphere over in her hands. "It's cold. And the weight is grounding. If my heart rate spikes in the chair, I can hold this. The thermal mass pulls the heat out of my palms."
+
+"That's incredibly smart," Mom said softly, taking the heavy glass orb and placing it gently in the basket next to Casey's sea otter and my fossilized tooth. 
+
+As we walked toward the cash registers, Mom suddenly stopped at an endcap display filled with plastic jewel cases. She picked up a compact disc with a picture of a misty ocean shoreline on the cover. 
+
+"Nature soundscapes," Dad read over her shoulder. "*Pacific Coast Waves and Deep Water Whale Songs.*"
+
+"This doesn't count toward the souvenir limit," Mom declared, dropping the CD into the basket. "This is a medicinal purchase. If we get stuck in another gridlock on the 520 bridge, I am putting this in the rental van's CD player and forcing all of us to listen to whale noises until the structural tension leaves my shoulders."
+
+"I support this protocol," Dad agreed immediately. 
+
+With our carefully curated artifacts secured and paid for, we exited the gift shop and stepped back out onto the wooden planks of the pier. The mid-morning sun was high in the sky now, burning off the last of the marine layer. 
+
+Casey pulled out her notebook, shielding her eyes from the glare. "According to the itinerary, our next stop is located inland, in Pioneer Square. We are heading to the Klondike Gold Rush National Historical Park."
+
+### Part 4: The Prospector's Registry – 11:30 AM (Pacific Time)
+
+# Part 4: The Prospector's Registry – 11:30 AM (Pacific Time)
+
+We took a short bus ride south through downtown, transferring to Pioneer Square. Nestled into the historic brick architecture of the neighborhood was our next stop: the Seattle unit of the Klondike Gold Rush National Historical Park. 
+
+"This is fundamentally different from a standard museum," Casey lectured as Dad pushed Cassandra's wheelchair through the heavy glass doors of the visitor center. "This building commemorates the logistics of the 1897 stampeders. Seattle was the primary outfitting point for the gold rush. You couldn't just walk to the Yukon; you had to buy a literal ton of supplies here before boarding a steamship."
+
+The visitor center was filled with massive, interactive displays detailing the brutal physical requirements of crossing the Chilkoot Pass. 
+
+"A literal ton?" I asked, looking at a visual representation of the required gear. "Two thousand pounds of beans, flour, and mining equipment?"
+
+"Every single person had to carry it," Dad said, shaking his head at the display. "If you didn't have a year's worth of food, the Canadian Mounties would turn you back at the border. It was a mathematical equation of survival."
+
+We moved slowly through the exhibits, entirely fascinated by the sheer industrial scale of the mass migration. Toward the back of the museum, there was a digital archive and several massive, glass-encased ledgers displaying the original shipping manifests and stampeders' registries from the late 1890s. 
+
+Casey leaned over the glass, her finger tracing the archaic, cursive handwriting on one of the open ledgers. 
+
+"Statistical anomaly detected," Casey announced, tapping the glass. "Look at this entry."
+
+I leaned over next to her. Halfway down the yellowed page, written in faded black ink, was a clear, distinct name: *Elias Vance*. 
+
+"Vance," Cassandra read, wheeling up next to us. She looked up at Dad. "Did we have family out here during the gold rush?"
+
+Dad laughed, shaking his head. "No, absolutely not. Vance is a relatively common surname, especially back then. Our branch of the family tree has been rooted on the East Coast for generations. Nobody in our family was crazy enough to hike a ton of beans up an ice mountain in Alaska."
+
+"It is a mathematical coincidence," I agreed, looking back down at the ledger. "The probability of a shared surname occurring in a historic registry without shared genetic lineage is quite high."
+
+"Still cool, though," Cassandra smiled, looking at the name. "Maybe he actually struck gold and built some massive, isolated mountain fortress with his fortune."
+
+"If he did," Mom joked, walking over to join us, "he definitely forgot to leave us the inheritance."
+
+We all laughed, completely dismissing the entry as a fun historical coincidence. 
+
+"Alright, prospectors," Dad said, checking his watch. "The historical detour was great, but we have one final major logistical target for the day."
+
+He looked at me, a massive smile spreading across his face. "Who is ready to go see some airplanes?"
+
+### Part 5: TAPS Route 174 – 12:15 PM (Pacific Time)
+
+# Part 5: TAPS Route 174 – 12:15 PM (Pacific Time)
+
+To get to the Pacific Aerospace Museum, we had to travel several miles south of downtown Seattle to King County International Airport, historically known as Boeing Field. 
+
+"Logistical update," Casey said, standing at a bus shelter on a busy downtown avenue and consulting her meticulously highlighted TAPS schedule. "We require the Route 174 southbound."
+
+When the articulated bus finally hissed to a stop against the curb, the doors folded open to reveal a scene of absolute, unmitigated chaos. The bus was crush-loaded. Every single seat was taken, and the center aisle was a solid wall of standing passengers holding onto the overhead grab rails. 
+
+"Oh, you have got to be kidding me," Cassandra muttered from her wheelchair, staring up at the wall of humanity blocking the door. 
+
+The driver lowered the hydraulic ramp. "Wheelchair boarding!" he yelled over the noise of the engine and the crowd. "Make way! Step back!"
+
+It took a highly synchronized, almost militaristic level of coordination to wedge us inside. Dad pushed the chair up the ramp while Mom played offensive tackle, politely but firmly forcing the standing passengers to compress themselves further down the aisle to clear the ADA securement zone. 
+
+Once Dad locked Cassandra's wheels into the tie-downs, the doors slammed shut, and the bus lurched forward into traffic. 
+
+"The passenger density in this vehicle vastly exceeds optimal safety parameters," Casey noted loudly, wedged securely between Dad and a businessman holding a leather briefcase. "If the driver initiates a hard-braking maneuver, the cascading kinetic energy of the standing passengers will be catastrophic."
+
+The businessman looked down at the six-year-old in the matching neon-yellow polo shirt, blinked twice, and slowly shifted his briefcase to his other hand. 
+
+I was standing right next to Cassandra, gripping a metal pole to keep myself from falling over as the bus hit a massive pothole. I looked down at my sister. The cool, serene environment of the aquarium was completely gone. She was trapped in the stifling, exhaust-scented heat of a crush-loaded city bus, surrounded by strangers encroaching on her personal space. 
+
+She had pulled the heavy glass jellyfish orb out of her backpack. She was holding it tightly in both hands, pressing the cool glass against her sternum, closing her eyes as she focused entirely on the thermal mass to keep her heart rate from spiking. 
+
+"ETA to target?" Dad asked Casey, checking his balance as the bus rounded a corner. 
+
+"Fifteen minutes, assuming standard traffic flow down East Marginal Way," Casey reported, her voice completely muffled by a teenager's oversized backpack pressing against her face. 
+
+We suffered through the suffocating heat and the constant stops for exactly seventeen minutes. Finally, the dense urban grid began to give way to massive industrial warehouses, chain-link fences, and the sprawling expanse of an active runway. 
+
+"There it is!" I yelled, pointing out the smudged window. 
+
+Rising up against the gray sky, sitting directly on the edge of the King County International Airport tarmac, was a massive glass-and-steel building. Parked outside on the concrete plaza, gleaming in the midday sun, was an actual, full-sized supersonic jet. 
+
+"Next stop, Pacific Aerospace Museum," the driver called out. 
+
+"Finally," Cassandra breathed, dropping the glass orb back into her bag and unlocking her brakes. "Get me off this tin can."
+
+### Part 6: The Great Gallery – 1:00 PM (Pacific Time)
+
+# Part 6: The Great Gallery – 1:00 PM (Pacific Time)
+
+If there is one thing Seattle understood better than coffee and rain, it was aviation. 
+
+We paid our admission and rolled Cassandra through the double doors into the Great Gallery of the Pacific Aerospace Museum. It was, without a doubt, the most structurally impressive building I had ever seen. It was a massive, six-story structure made entirely of glass and steel lattice, flooded with natural light. 
+
+But what completely stopped me in my tracks was the ceiling. 
+
+Suspended from the massive steel trusses above us were dozens of full-sized airplanes. Vintage biplanes, World War II fighter aircraft, and early commercial jets hung suspended in mid-air, angled precisely as if they were flying in formation right over our heads. 
+
+"Look at the suspension cables," I whispered, staring straight up. "They must be using aircraft-grade braided steel wire. The load-bearing capacity of that roof truss system is astronomical."
+
+"It's breathtaking," Mom said, shielding her eyes from the sun pouring through the glass walls. 
+
+Cassandra took a deep breath, dropping her hands into her lap. "And it's air-conditioned. And empty. The exact opposite of the TAPS 174 bus. I love this place."
+
+Casey immediately deployed her notebook, plotting our trajectory. "I am heading to the Red Barn with Mom. It is the original 1909 wooden manufacturing plant. I want to analyze the logistical workflow of early aviation assembly lines."
+
+"Copy that," Dad said. "David, Cass, and I will take the main floor."
+
+As Mom and Casey walked off toward the historic wooden building, Dad pushed Cassandra's wheelchair deeper into the Great Gallery. Sitting dead center on the polished concrete floor was a jet that looked entirely alien. It was completely black, impossibly long, and had sharp, angled edges that looked like they belonged in a sci-fi movie. 
+
+"The SR-71 Blackbird," I said, running up to the barrier and staring at the massive engines. "Well, technically an M-21 variant. It's a Mach 3 reconnaissance aircraft. It's the fastest air-breathing manned aircraft in the world."
+
+"It looks fast just sitting there," Dad admitted, reading the placard. 
+
+"The engineering is the best part," I told Cassandra, leaning over the rope to get a better look at the fuselage. "Because it flies at three times the speed of sound, the atmospheric friction heats the exterior metal to over five hundred degrees. So, they had to build the entire plane out of titanium."
+
+Cassandra raised an eyebrow. "Titanium is incredibly hard to machine."
+
+"Exactly," I nodded, my analytical processor spinning rapidly. "But here's the genius part: at those temperatures, the titanium expands. So, the engineers deliberately built the plane with massive gaps between the fuselage panels. On the runway, the plane literally leaks fuel onto the tarmac because the tanks don't seal. But once it hits Mach 3, the thermal expansion kicks in, the metal swells, the gaps close, and the fuel tanks seal perfectly tight."
+
+Cassandra stared at the massive black jet, a look of profound respect crossing her face. "They engineered a flaw into the system because they knew the extreme environment would naturally correct it."
+
+"Exactly," I grinned. 
+
+"That is brilliant," she murmured, resting her hands on the wheels of her chair. "If you try to fight the environment, you lose. If you build the system to adapt to the friction, you win."
+
+I looked at my sister. She wasn't just talking about airplanes. She was talking about her own hardware limitations, and how she used Assembly code and time-delta loops to forcefully bypass the physical limitations of her computer processor. 
+
+For the next two hours, we explored every inch of the museum. Dad took us outside to walk through a retired Air Force One jet parked on the tarmac, while Casey meticulously documented the production quotas of the 1909 Red Barn. 
+
+By the time we regrouped in the lobby at three o'clock, we were completely exhausted, entirely out of calories, and ready to head back to the hotel.
+
+### Part 7: The Extraction – 4:30 PM (Pacific Time)
+
+# Part 7: The Extraction – 4:30 PM (Pacific Time)
+
+By the time we walked out of the Pacific Aerospace Museum, our collective energy reserves were completely depleted. 
+
+We dragged ourselves back to the bus stop on East Marginal Way and caught the northbound TAPS Route 174 back into downtown Seattle. Thankfully, the afternoon commuter rush hadn't fully peaked yet, so the bus wasn't crush-loaded. We actually managed to secure seats, and Cassandra didn't have to use her glass jellyfish to ward off a tachycardia event. 
+
+From downtown, Casey navigated us through one final transfer, putting us on a local route that drove us north, across the Montlake Bridge, and straight back into the University District. 
+
+"Caloric intake is now the primary objective," Dad announced as we rolled off the bus and onto the cracked sidewalks of The Ave. "I don't care what it is, as long as it is hot, cheap, and immediately available."
+
+We ended up at a tiny, narrow teriyaki joint sandwiched between a used bookstore and a laundromat. It was exactly the kind of hole-in-the-wall place that catered entirely to broke college students. We ordered massive styrofoam clamshells filled with chicken, rice, and sweet, sticky sauce. We ate it sitting on the low brick wall outside the restaurant, completely ignoring proper dining etiquette in favor of raw caloric refueling. 
+
+"That," Cassandra sighed, tossing her empty styrofoam box into a nearby trash can, "was the best thing I have ever eaten in my entire life."
+
+"A mathematically improbable statement, but emotionally accurate," I agreed, wiping teriyaki sauce off my chin with a napkin. 
+
+By six o'clock, we had retreated back to the safety of our cramped, two-bed hotel room. 
+
+The frantic, relentless pace of Casey's vacation itinerary had finally ground to a halt. Tomorrow was Saturday, which meant our operational directive was simple: extract. We were flying from Seattle-Tacoma International (SEA), stopping for a layover at Chicago Midway (MDW), and finally landing back at Norfolk International (ORF) in Virginia. 
+
+"Alright, team," Mom said, dropping her exhausted frame onto the edge of the hotel bed. "Pack the bags tonight. I don't want anyone scrambling tomorrow morning. We have a massive travel day ahead of us."
+
+I pulled my backpack onto my bed and carefully tucked my fossilized Megalodon tooth into a side pocket, making sure it wouldn't get crushed in transit. Across the room, Casey was already meticulously folding her clothes into perfectly mathematical squares, placing her plush sea otter gently on top of her pile. 
+
+Cassandra was sitting in her wheelchair near the window, staring out at the neon signs glowing along The Ave. Her heavy glass jellyfish orb was resting in her lap. 
+
+"Did you achieve all of your primary logistical targets?" I asked Casey, zipping my bag shut. 
+
+Casey looked down at her battered, highlighted notebook. She had successfully navigated us across an entire major metropolitan city using only public transit, successfully mapped the structural engineering of an underwater dome, tracked the biological metadata of a sea otter rescue, analyzed the 1909 aviation supply chain, and inadvertently cornered the CEO of Quantum Corporation into looking at a 3D rendering engine. 
+
+"Yes," Casey said simply, closing the notebook with a satisfying snap. "The itinerary was a complete success."
+
+I laid back on the hotel bed, staring up at the textured ceiling. My legs were sore, my brain was full of structural equations, and we had to fly across the entire continent tomorrow. But as I listened to the low rumble of a city bus driving down The Ave outside our window, I couldn't help but smile. 
+
+Casey was right. It had been a highly successful operation.
+
+## 
+
+### Part 1: The 174 Southbound – 4:30 AM (Pacific Time)
+
+# Part 1: The 174 Southbound – 4:30 AM (Pacific Time)
+
+My alarm went off at 3:30 in the morning. 
+
+It was pitch black outside our hotel window. The neon signs on The Ave had all been switched off, and the entire city of Seattle was completely silent. It was a mathematically horrific time to be awake, but according to Casey’s merciless itinerary, our Gateway Airlines flight back to the East Coast departed at eight o'clock in the morning.
+
+"Everybody up," Dad whispered, already fully dressed and strapping his massive hiking backpack onto his shoulders. "We are burning daylight. Or, we would be, if the sun was actually up."
+
+I dragged myself out of bed, splashed freezing water on my face in the hotel bathroom, and hoisted my backpack. Within twenty minutes, we were standing out on the dark, empty sidewalk of The Ave, shivering in the freezing morning mist as Dad pushed Cassandra’s wheelchair toward the bus stop. 
+
+"Logistical problem," Casey announced, her voice completely flat as she squinted at the bus schedule under a flickering streetlamp. "The TAPS Route 194 Express to the airport does not begin operations until six o'clock in the morning."
+
+"Wait, what?" Mom asked, panic bleeding into her voice. "We have to be at the terminal by six. If we miss that flight, the entire three-leg layover falls apart."
+
+"We are not missing the flight," Casey replied, flipping to the next page of her binder. "There is a contingency route. We must take a local transit bus from here into downtown Seattle, and then transfer to the TAPS Route 174 southbound."
+
+Cassandra literally groaned in the dark. "The 174? Are you kidding me? We just spent an hour on that thing yesterday."
+
+"The 174 is a local route," Casey explained. "It stops at nearly every intersection down State Route 99. But it is the only transit line operating at this hour that terminates at Seattle-Tacoma International Airport."
+
+Ten minutes later, we boarded a nearly empty local bus that rumbled us through the sleeping city, dropping us off on a dark street corner in downtown Seattle. Five minutes after that, the unmistakable hiss of air brakes announced the arrival of the first southbound Route 174 of the morning. 
+
+It was the same massive, 60-foot articulated tin can we had ridden yesterday, but this time, it was entirely empty except for the driver and a single guy asleep in the back row. 
+
+"ADA boarding," Dad announced, pushing Cassandra up the hydraulic ramp. 
+
+The driver locked her wheelchair into the securement zone while Mom, Casey, and I piled into the seats directly behind her, clutching our luggage to our chests. The doors slammed shut, and the massive bus lurched forward, beginning the long, grinding, stop-and-go descent down the SR-99 corridor toward the airport. 
+
+"Look on the bright side," I told Cassandra as the bus bounced violently over a massive pothole, rattling my teeth. "At least we have seats this time."
+
+"If I survive this trip," Cassandra muttered, pulling her hood up over her head and leaning against the cold glass window, "I am never leaving the East Coast again."
+
+### Part 2: The Gateway Counter – 6:00 AM (Pacific Time)
+
+# Part 2: The Gateway Counter – 6:00 AM (Pacific Time)
+
+The Route 174 finally deposited us at the curbside drop-off of Seattle-Tacoma International Airport just as the sun began to breach the horizon, painting the thick Pacific Northwest clouds in brilliant streaks of orange and purple. 
+
+We hauled our luggage off the bus and navigated through the automatic sliding glass doors into the main ticketing terminal. 
+
+"Alright, priority one: drop the dead weight," Dad announced, steering Cassandra's wheelchair toward the massive, brightly colored ticket counter for Gateway Airlines. 
+
+In 1995, air travel was fundamentally different from what it would become in later decades. There were no massive TSA security checkpoints, no taking off your shoes, and no restrictions on carrying a full bottle of water to the gate. You simply walked up to the counter, handed them your paper ticket, and checked your bags. 
+
+"Destination Norfolk, Virginia, connecting through Chicago Midway," Dad told the ticket agent, heaving his massive hiking backpack onto the industrial scale. 
+
+"You got it, sir," the agent smiled, typing rapidly on an archaic green-screen terminal. "And since you are flying Gateway, all of these bags fly completely free. Would you like me to gate-check the wheelchair for Chicago, or do you want it checked all the way through to Virginia?"
+
+"Gate-check, please," Mom answered instantly. "She needs the chair for the layover."
+
+The agent printed out our boarding passes—long, stiff pieces of thermal paper—and handed them across the counter along with a neon-orange gate-check tag for Cassandra's chair. 
+
+"I cannot express the sheer physical relief of no longer carrying that luggage," Dad sighed as we watched our massive suitcases disappear down the conveyor belt into the bowels of the airport. "My spine is completely realigning."
+
+"Logistical update," Casey announced, holding her paper boarding pass and consulting her notebook. "Our flight time to Chicago Midway is approximately four hours. Factoring in the two-hour time zone shift, we will land at roughly two o'clock Central Time."
+
+"And then we run across the terminal and catch the connection to Norfolk," I added, doing the math in my head. "We will be back on the East Coast by dinner."
+
+We walked over to the security checkpoint. Because it was the mid-nineties, the entire process took less than three minutes. We simply put our backpacks on the X-ray belt and walked through a standard metal detector. A security guard manually wanded Cassandra in her chair, gave her a friendly smile, and waved us through. 
+
+Just like that, we were standing in the main concourse of the airport, completely unburdened and ready to go home. 
+
+"Alright," Dad smiled, pointing down the concourse toward our gate. "Who wants an outrageously overpriced airport bagel before we board?"
+
+### Part 3: The Chicago Layover – 2:00 PM (Central Time)
+
+# Part 3: The Chicago Layover – 2:00 PM (Central Time)
+
+The four-hour flight from Seattle to Chicago was completely uneventful. We were so exhausted from the grueling pace of the vacation that the moment the Gateway Airlines Boeing 737 reached cruising altitude, all three of us fell asleep. 
+
+When the wheels hit the tarmac at Chicago Midway, I jerked awake, my ears popping violently from the descent. 
+
+"Alright," Dad announced as the plane taxied to the gate. "Phase one complete. We have a two-hour layover here before our final jump to Norfolk."
+
+Because we had gate-checked Cassandra's wheelchair, we were the last ones off the plane. We waited in the aisle while the ground crew brought the heavy metal chair up the stairs from the tarmac and unfolded it on the jet bridge. 
+
+The moment Cassandra transferred out of the narrow airplane aisle seat and back into her own chair, she let out a massive sigh of relief. 
+
+"Chicago logistics," Mom said, stepping into the busy terminal. "We need two things immediately: food, and a restroom that is actually large enough for a wheelchair to turn around in. The lavatories on these planes are mathematically impossible for us to use."
+
+"I'll secure the food," Dad said, taking my hand and Casey's hand. "We'll hit the food court and meet you two at the departure gate in thirty minutes."
+
+While Dad, Casey, and I went hunting for Chicago-style hot dogs and greasy terminal pizza, Mom pushed Cassandra down the concourse toward the large family restroom. 
+
+I watched them go, mentally noting the extreme logistical calculations required to travel with a severe physical disability. You couldn't just get up and use the bathroom halfway across the country when you were trapped at thirty thousand feet. You had to intentionally restrict your fluid intake before boarding, calculate the exact duration of the flight, and pray that the layover airport had an accessible stall available the moment you landed. Mom handled the intimate ADLs with ruthless efficiency, ensuring Cassandra's dignity was maintained despite the chaotic environment of a major transit hub. 
+
+Thirty minutes later, we regrouped at our new gate. Mom and Cassandra looked significantly more relaxed, and Dad successfully distributed a mountain of greasy airport food to the team. 
+
+"Caloric intake secured," Casey noted, taking a very precise bite of a hot dog. 
+
+We sat at the gate for another hour, watching the planes taxi across the tarmac. As the boarding call finally echoed over the PA system for our flight to Norfolk, Virginia, Mom leaned over and squeezed Cassandra's shoulder. 
+
+"Last leg," Mom smiled. "You did amazing this week, Cass. I know the travel was incredibly hard on your body, but you handled it perfectly."
+
+Cassandra smiled, leaning her head against her mother's arm. "It was worth it. We saw the Zenith 8800. And the Atlas 350."
+
+"And you thoroughly humiliated the CEO of Quantum Corporation," I added proudly. 
+
+"That was definitely a bonus," Cassandra grinned. 
+
+We boarded our final Gateway Airlines flight, settling into our seats as the sun began to lower in the sky. As the jet engines roared to life and we accelerated down the runway, I looked out the window, watching the sprawling grid of Chicago fall away beneath us. We were heading home to the East Coast, completely exhausted, but undeniably victorious.
 
 ## 
 
 ### Part 1: The Call – April 21st, 1996
 
-# Part 1: The Call – April 21st, 1996
+# Part 1: The Call – April 21, 1996 (4:15 PM Eastern Time)
 
-We didn't hear back from the Quantum Corporation for eight agonizing months. 
+The heavy black box had arrived via overnight courier while we were at school. 
 
-Through the rest of the summer, the entire fall semester, and the brutally cold winter of Cassandra's senior year of high school, her Catalyst Challenge submission floated in the digital void. We knew she had hit the deadline perfectly, but the sheer volume of applicants meant the Quantum engineers in the Pacific Northwest were slowly, methodically decompiling thousands of code submissions. 
+When Dad got home from work, he found it sitting on the front porch. It was unbranded, heavy, and completely sealed. The only thing written on it was the shipping label addressed to Cassandra Vance. 
 
-Then came Sunday, April 21st, 1996. 
+We were all sitting around the kitchen table, staring at the black box like it was a live explosive device. Cassandra hadn't touched it yet. She was staring at it, her hands resting tightly on the wheels of her chair, her breathing shallow. 
 
-Casey and I were sitting at the kitchen table, mapping out a theoretical telemetry relay, when the wall-mounted telephone rang. Mom answered it, paused, and held the receiver out with a look of complete shock on her face. 
+"The physical dimensions suggest a rigid presentation case," I observed, calculating the surface area of the box. "Probably containing high-grade cardstock or bonded paper. A standard college rejection letter is delivered in a standard envelope. A box this heavy implies an acceptance packet."
 
-"Cassandra," Mom breathed. "It's Seattle."
+"David, please," Cassandra whispered, her knuckles turning white. "Don't jinx it."
 
-Cassandra wheeled her manual chair into the kitchen, her face a mask of iron-clad neutrality. She took the receiver and pressed it to her ear. 
+Before she could reach out to break the seal on the box, the yellow rotary phone mounted on the kitchen wall began to ring. 
 
-"This is Cassandra Vance."
+The sound shattered the tense silence in the room. We all jumped. 
 
-There was a pause. Casey and I dropped our pencils, completely frozen. We couldn't hear the voice on the other end of the line, but we were analyzing every microscopic shift in Cassandra's facial muscles for data. 
+Dad reached over and pulled the handset off the receiver. "Vance residence."
 
-"Yes, I wrote it," Cassandra said, her tone perfectly flat. "It's a pure time-delta loop running native C and Assembly."
+He listened for a split second, and his eyes went incredibly wide. He didn't say another word; he just slammed his finger down on the speakerphone button and held the handset out so the entire kitchen could hear. 
 
-Another long pause. The person on the other end of the phone was talking rapidly. 
+"Hello?" a voice echoed through the tinny speaker. "Am I speaking to Cassandra Vance?"
 
-"What is *Tremor*?" Cassandra asked, her eyebrows furrowing in confusion. 
+Cassandra's jaw dropped. The voice was instantly recognizable. We had heard it echoing across the empty polished floors of the Computer History Museum in Redmond eight months ago. 
 
-She listened for a few seconds. "A video game?" she scoffed slightly. "No, I don't follow the gaming industry. I had no idea there was a studio building a 3D engine." 
+"Mr. Keswick?" Cassandra choked out. 
 
-She paused, listening intently as the voice on the other end rattled off technical specifications. "They require a Pentium and a math coprocessor just to run it? And it only runs in Quantum DOS? That's incredibly inefficient. That's why I bypassed the standard libraries entirely. I wanted pure native execution directly within the Quantum OS graphical interface, and I wanted it to run on standard hardware."
+"In the flesh," the CEO of Quantum Corporation replied cheerfully. "I don't normally handle the outgoing phone calls for the Catalyst Initiative. I usually delegate that to the executive committee. But I saw your name on the final ledger this morning, and I pulled rank."
 
-Cassandra listened for another full minute. Her knuckles turned white as she gripped the heavy plastic phone receiver. 
+Cassandra squeezed her eyes shut, terrified to ask the question. "Did I..."
 
-"You want me to relocate now?" Cassandra asked, her voice cracking slightly. "I'm seventeen. I have two months left of my senior year of high school."
+"Your 3D rendering engine," Keswick interrupted, his voice dropping into a serious, highly technical cadence. "The committee spent three weeks trying to find a flaw in your assembly loop. They deliberately ran it on a degraded 486 processor with the math coprocessor completely physically disabled. Your time-delta cache flush executed perfectly. It rendered forty polygons a second on hardware that shouldn't have been able to render a simple cube."
 
-Mom let out a sharp gasp, covering her mouth with her hands. Casey began rapidly tapping her fingers against the table, running the logistical calculations. 
+"It's a brute-force workaround," Cassandra whispered, tears welling up in her eyes. "It's not elegant."
 
-"I appreciate that," Cassandra swallowed hard. "Yes. I will finish my high school diploma here in Virginia. I will see you in Seattle this August."
+"It's the most beautiful piece of raw, aggressive engineering I have seen in a decade," Keswick corrected her. "You didn't just bend the hardware to your will, Cassandra. You completely bypassed the physical limitations of the machine."
 
-She hung up the phone. The heavy plastic receiver clicked into the cradle. 
+There was a pause on the line. I could hear the faint sound of a computer keyboard clacking in the background on Keswick's end of the call. 
 
-The kitchen was dead silent. 
+"Open the black box, Cassandra," Keswick said softly. 
 
-"Well?" Mom whispered, tears already forming in her eyes. "Cassandra... what did they say?"
+Cassandra reached out with trembling hands. She broke the seal and lifted the heavy black lid. Inside, resting on a bed of dark velvet, was a thick stack of embossed, watermark-stamped documents. Emblazoned across the top of the very first page was the crest of Northwest Pacific University, sitting right next to the corporate logo of Quantum Corporation. 
 
-Cassandra slowly turned her wheelchair around. The iron-clad neutrality was completely gone, replaced by a massive, overwhelmed smile. 
+"Congratulations," Keswick's voice echoed through the kitchen. "You are the 1996 Grand Prize winner of the Quantum Catalyst Initiative. Your tuition at NPU is fully covered for the next four years. And the moment you graduate, you have a desk waiting for you in Building 26 on the Quantum Campus."
 
-"That was the director of the Quantum Catalyst Initiative," Cassandra said, her voice shaking with adrenaline. "He said their senior engineering team decompiled my executable and it broke their brains. They said they've seen internal test builds of *Tremor*, but to see a native Quantum OS binary rendering 3D environments on a 486 processor with no math coprocessor... they didn't think it was physically possible."
+Cassandra didn't say anything. She just dropped her face into her hands and started sobbing. 
 
-She let out a breathless laugh, looking down at her hands. 
+Mom immediately wrapped her arms around Cassandra's shoulders, crying just as hard. Dad was wiping his eyes with the back of his hand. Casey, true to form, pulled a pen out of her pocket and meticulously checked off a box in her master itinerary notebook. 
 
-"They want me, Mom. They wanted to fly me out to the Pacific Northwest tomorrow, but I told them I had to finish high school first. They're giving me the grand prize. The full-ride scholarship to Northwest Pacific University. The guaranteed salaried engineering position at Quantum."
+"I'll see you in September, Cassandra," Keswick said, a smile evident in his voice. "Welcome to Quantum."
 
-Mom burst into tears, dropping to her knees and throwing her arms around Cassandra's wheelchair. I felt a massive, surging wave of absolute triumph hit my chest. We had done it. We were going to Seattle. 
+### Part 2: The Celebration – 7:00 PM (Eastern Time)
 
-"The operational parameters have shifted," Casey announced from the table, perfectly calm, though she had stopped tapping her fingers. "We must now prepare for a permanent cross-country relocation."
+# Part 2: The Celebration – 7:00 PM (Eastern Time)
+
+By six o'clock, our small suburban house was completely packed. 
+
+The moment Dad hung up the phone with Mr. Keswick, Mom had immediately started making phone calls. Her first call was to the Carters, who lived exactly one block away and operated as our unofficial extended family. They had walked over in fifteen minutes, bringing three massive boxes of delivery pizza and two two-liter bottles of soda. 
+
+The kitchen table had been completely cleared off, replaced entirely by paper plates, pizza crusts, and the heavy black Quantum presentation case resting securely in the center of the table like a trophy. 
+
+"I literally cannot believe you actually pulled this off," Liz said, sitting cross-legged on the living room floor next to me, expertly folding a slice of pepperoni pizza in half. 
+
+Elizabeth Carter—Liz to anyone who actually knew her—was my best friend. We were both ten years old, we were in exactly the same grade, and she spent almost as much time at our house as she did her own. The boundary between our two families was practically non-existent; we routinely spent the night at her house, and she routinely slept on our couch. The Carters had even installed a wooden wheelchair ramp up their front porch and completely remodeled their downstairs half-bath to be fully ADA-accessible just so Cassandra could come over without logistical friction. 
+
+If Liz hadn't already been booked for a mandatory family reunion in Ohio last August, she absolutely would have been on the plane to Seattle with us. Her parents would have simply signed a notarized letter authorizing Mom and Dad to act *in loco parentis* and sent her on her way. 
+
+"I didn't pull anything off," I corrected her, taking a bite of my own pizza. "Cassandra wrote the time-delta loop. I just carried her luggage in Seattle."
+
+"Yeah, but she's actually moving there," Liz said, looking across the room at my older sister, who was currently being aggressively hugged by Mrs. Carter. "She's going to college all the way across the country. And then she's going to work for Quantum."
+
+I looked at Cassandra. For the first time in years, the intense, hyper-focused tension that usually radiated off her shoulders was completely gone. She was smiling, laughing, and showing Mr. Carter the embossed Northwest Pacific University crest on the scholarship paperwork. 
+
+"It's going to be really weird," I admitted quietly to Liz. "She's been the primary structural load-bearing pillar of this family for as long as I can remember. Her processors are always running. She's always calculating. And now she's just... leaving."
+
+"She's not leaving," a voice said above us. 
+
+Liz and I both looked up. Cassandra rolled her wheelchair away from the crowded kitchen table and parked right in front of us, resting her hands on her wheels. 
+
+"I am relocating my physical operational base," Cassandra corrected me, a wry smile on her face. "My network connection to this family remains completely intact."
+
+"You're going to be three thousand miles away," I pointed out. "The latency is going to be terrible."
+
+Cassandra laughed. It was a genuine, relaxed sound that I hadn't heard since she had started drafting her Catalyst entry eight months ago. 
+
+"I have a full-ride scholarship, David," Cassandra said, leaning forward. "My housing and tuition are completely covered by Quantum. Which means the college fund Mom and Dad saved up for me is completely untouched. And I'm going to make sure they use it to fly you out to Seattle next summer."
+
+My eyes widened. "Really?"
+
+"Really," Cassandra nodded, looking between me and Liz. "Both of you. Assuming Liz can convince her parents to let her fly across the country."
+
+"Oh, I'll convince them," Liz said instantly, her eyes gleaming with the exact same strategic intensity that Casey usually employed. "I will draft a fully cited PowerPoint presentation on the educational benefits of cross-country travel by tomorrow morning."
+
+Cassandra grinned. "I expect nothing less."
+
+She unlocked her brakes and spun her chair back toward the kitchen, re-engaging with the chaotic, joyful noise of the party. 
+
+I looked back down at my pizza, feeling a massive wave of relief wash over my own processors. For the last eight months, the entire Vance family had been holding our collective breath, terrified that Cassandra's brilliant, fragile physical hardware wouldn't survive the stress of her own ambition. 
+
+But looking at her now, laughing in the center of the kitchen with her official Quantum packet resting on the table, I knew she had beaten the odds. 
+
+Cassandra Vance hadn't just survived the friction. She had used it to launch herself into the stratosphere.
+
+### Part 3: The Sleepover – 11:30 PM (Eastern Time)
+
+# Part 3: The Sleepover – 11:30 PM (Eastern Time)
+
+By ten o'clock, the celebratory energy had finally burned itself out. 
+
+Mr. and Mrs. Carter hugged Mom and Dad, hugged Cassandra one last time, and walked the one block back to their own house. Liz, completely unsurprisingly, did not leave with them. She was spending the night. 
+
+"Alright, deployment protocols," Dad announced, yawning as he locked the front door. "Living room floor. You know the drill."
+
+The four of us immediately went to work breaking down the living room to execute our standard sleepover configuration. I grabbed one side of the heavy couch cushions while Liz grabbed the other, and we heaved them onto the floor. Casey unlatched the metal frame, dragging the heavy, queen-sized sofa mattress out into the center of the room. 
+
+Once the primary bed was established, Dad dragged the full-sized rollaway mattress out of the hall closet and positioned it on the floor right next to the sofa bed. This was Cassandra's designated sleep zone—perfectly level, highly accessible, and positioned exactly one foot away from us so she was completely integrated into the group without getting accidentally kicked by a restless ten-year-old. 
+
+"Teeth brushed, lights out," Mom said from the hallway, leaning against the doorframe of the master bedroom. She didn't close her door. She never closed her door when Cassandra slept out in the living room, leaving the audio channel completely open in case Cassandra's dysautonomia triggered a tachycardia event in the middle of the night. 
+
+Thirty minutes later, the house was completely dark. 
+
+I was lying flat on my back in the exact center of the sofa bed, staring at the ceiling. Liz was on my right side, and Casey was asleep on my left, having mathematically calculated the exact geometric center of her pillow before passing out. This was our standard configuration—it allowed me to easily throw an arm around either of them, and since both girls were entirely receptive to my hugs, it was the optimal layout.
+
+Cassandra was lying on the rollaway mattress right next to us. The only light in the room was the faint orange glow of the streetlamp outside the window. 
+
+"So," Liz whispered into the dark, her voice barely carrying over the sound of the ceiling fan. "September."
+
+"September," Cassandra whispered back from the floor. 
+
+"You aren't going to be able to do this alone," Liz noted, displaying a strategic pragmatism that rivaled Casey's. "You can't just wheel onto a commercial flight with two suitcases and expect to set up an entire apartment in Seattle by yourself."
+
+"I am aware of the logistical constraints," Cassandra replied. 
+
+"My parents were already talking about it in the kitchen," Liz whispered. "When it's time for you to move, we are initiating a joint-family deployment. All of the Vances and all of the Carters. We're going to fly out there as a massive logistics team, set up your entire dorm, build your furniture, stock your fridge, and establish your entire operational base. And then once you are securely installed, the rest of us will fly back home to Virginia Beach."
+
+I smiled in the dark. That was exactly how the Carters operated. If there was a heavy load to bear, they simply stepped in and picked up half of it without ever being asked. 
+
+"I would appreciate that," Cassandra said softly. 
+
+"Besides," Liz added, shifting under the blankets. "It gives me an excuse to make my parents pay for a flight to Seattle before next summer."
+
+Cassandra laughed quietly. "You're a ruthless tactician, Elizabeth."
+
+"I learn from the best," Liz replied. 
+
+The living room fell silent again, save for the hum of the fan and the distant sound of a car driving down the street. I lay there in the dark, surrounded by my sisters and my best friend, feeling a profound sense of peace. 
+
+Cassandra was leaving. The architecture of our family was going to fundamentally change. But as I listened to Liz breathing quietly next to me, and Casey shifting in her sleep, I realized that our network was much stronger than I had thought. 
+
+The physical hardware was relocating, but the connections were permanent.
+
+## 
+
+### Part 1: Siren Roasters – 8:00 AM (Pacific Time)
+
+# Part 1: Siren Roasters – 8:00 AM (Pacific Time)
+
+Friday morning hit me like a physical blow. When my alarm went off at seven o'clock, my legs were entirely stiff, protesting the massive amount of walking I had done the day before. 
+
+But Casey's vacation protocol waited for no one. 
+
+By eight o'clock, we were off the TAPS bus and standing on the cobblestones of the Pioneer Public Market. The morning air was crisp and smelled heavily of saltwater, fresh fish, and exhaust fumes from the delivery trucks backing into the loading zones. 
+
+"Alright, breakfast logistics," Dad announced, looking down at Casey. "What is on the itinerary?"
+
+"Historically," Casey said, flipping open her notebook, "we are supposed to go to the original location of Siren Roasters. It is culturally significant to the Seattle coffee scene."
+
+We looked down the cobblestone street. There, standing outside a small, unassuming storefront with the famous twin-tailed mermaid logo, was a line of tourists stretching almost an entire city block. 
+
+Cassandra groaned, leaning her head back against her wheelchair. "I am not sitting in an hour-long queue for a cup of coffee. Especially since I can't even drink caffeine without triggering a massive tachycardia event."
+
+"The logistics of the queue are highly inefficient," I agreed. "We are operating on a severe caloric deficit. We need immediate fuel."
+
+"Agreed," Dad said, shaking his head at the ridiculous line. "Siren Roasters is an international corporation now. You can get their coffee at the airport. We are finding something local."
+
+We bypassed the massive tourist trap and pushed Cassandra's wheelchair deeper into the labyrinth of the public market. The deeper we went, the better it smelled. We eventually found ourselves standing outside a tiny, cramped hole-in-the-wall bakery called *Babushka’s*. 
+
+The line was short, moving fast, and the air pouring out of the open door smelled incredibly rich. 
+
+"What is a piroshky?" Mom asked, reading the hand-chalked sign in the window. 
+
+"It's a Russian pastry," a local guy in a heavy flannel shirt told us as he walked out, holding a steaming paper bag. "And it's a hundred times better than a Siren muffin. Get the potato and cheese."
+
+We took his advice. Five minutes later, we were sitting on a set of wooden benches overlooking the gray waters of Puget Sound, devouring massive, flaky pastries filled with hot potatoes, sharp cheese, and savory meats. 
+
+"Okay," Cassandra mumbled through a mouthful of dough, "this is infinitely better than waiting in line for corporate coffee."
+
+"The caloric density is optimal for a day of walking," Casey noted, taking a very precise, mechanical bite of a smoked salmon roll. 
+
+"Alright, team," Dad smiled, finishing his coffee from the bakery and throwing the empty cup into a nearby trash can. "Fuel reserves are full. We have a massive day ahead of us. First stop: The Puget Sound Aquarium."
 
