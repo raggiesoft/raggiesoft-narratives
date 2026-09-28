@@ -5,11 +5,13 @@ series: "ruby-mountain"
 
 # Book: The Great Schism
 
-## Chapter 1: The Eve of Exile – Tuesday, May 4, 1999
+## Chapter 1: The Eve of Exile
 
-### Part 1: The Traitor (18:00)
+### Part 1: The Traitor
 
-# Part 1: The Traitor (18:00)
+**Date:** 1999-05-04 ET
+
+# Part 1: The Traitor
 
 The Great Hall of The Prospector's Keep felt less like a luxury alpine lodge and more like a besieged bunker. The massive, 1890s timber-framed room was littered with open, half-packed designer suitcases and overstuffed leather duffel bags.
 
@@ -53,9 +55,11 @@ Victoria turned her back on them, an ultimate dismissal.
 
 "Have your bags packed by dawn," the Matriarch commanded. "Your era is over."
 
-### Part 2: The Vision (18:15)
+### Part 2: The Vision
 
-# Part 2: The Vision (18:15)
+**Date:** 1999-05-04 ET
+
+# Part 2: The Vision
 
 The heavy oak doors of The Prospector's Keep slammed shut, cutting off the furious exhaust of the departing luxury SUVs. The echo reverberated through the cavernous 1890s timber of the Great Hall, followed by a profound, ringing silence.
 
@@ -105,9 +109,11 @@ Victoria pulled a small leather notebook from her blazer pocket and uncapped her
 
 "We start by drawing the borders," Victoria said, looking out the drafty window at the dark, towering peaks of the Cascades. "The guests can have the rest of the hotel. But this side of the mountain belongs to us."
 
-### Part 3: The Migration (19:00)
+### Part 3: The Migration
 
-# Part 3: The Migration (19:00)
+**Date:** 1999-05-04 ET
+
+# Part 3: The Migration
 
 The drafty, peeling confines of Room N314 felt entirely different now. It was no longer just a miserable hotel suite on the third floor of the North Wing; it was Ground Zero for the Vance-Whitaker empire.
 
@@ -167,11 +173,13 @@ Johnny looked up at his twin sister. He raised his stiff left hand and offered a
 
 The biological parents were fuming in the dark on the other side of the Keep, but their anger was utterly irrelevant. The fortress had officially fallen to the Vanguard, and the pack was finally together.
 
-## Chapter 2: The Gates of Exile – Wednesday, May 5, 1999
+## Chapter 2: The Gates of Exile
 
-### Part 1: The Final Ultimatum (09:00)
+### Part 1: The Final Ultimatum
 
-# Part 1: The Final Ultimatum (09:00)
+**Date:** 1999-05-05 ET
+
+# Part 1: The Final Ultimatum
 
 The morning light streaming through the massive frosted windows of the Great Hall was blindingly clear. The brutal, six-month alpine winter had finally broken, but the atmosphere inside The Prospector's Keep was suffocatingly tense.
 
@@ -219,9 +227,11 @@ He set his coffee mug down on the table with a trembling hand, stood up, and gra
 
 Victoria stepped back, clearing the path to the front doors, and watched them begin their reluctant, humiliating march toward exile.
 
-### Part 2: The Standoff (11:00)
+### Part 2: The Standoff
 
-# Part 2: The Standoff (11:00)
+**Date:** 1999-05-05 ET
+
+# Part 2: The Standoff
 
 The antique grandfather clock in the corner of the Great Hall chimed exactly eleven times.
 
@@ -271,9 +281,11 @@ Victoria looked at her uncle, her eyes devoid of any remaining mercy.
 
 "Your time is up, Richard," Victoria whispered.
 
-### Part 3: The Eviction (11:22 AM)
+### Part 3: The Eviction
 
-# Part 3: The Eviction (11:22 AM)
+**Date:** 1999-05-05 ET
+
+# Part 3: The Eviction
 
 The heavy, rhythmic crunch of specialized snow tires on cobblestone echoed through the thick exterior walls. Through the massive, frosted windowpanes of the Great Hall, the harsh, strobing flashes of red and blue light cut through the morning shadows. Three black-and-white Whatcom County Sheriff's cruisers—Holt Sentinels —pulled directly onto the portico, boxing in the idling luxury SUVs.
 
@@ -321,9 +333,11 @@ Victoria turned around to face the sixteen cousins remaining on the staircase. T
 
 "Alright," Victoria breathed out, the iron tension in her shoulders dropping a fraction as she looked up at her new, permanent pack. "Morgan. Go check the boiler. Diana, inventory the kitchen. We have a lot of work to do."
 
-### Part 4: The Assessment (11:45)
+### Part 4: The Assessment
 
-# Part 4: The Assessment (11:45)
+**Date:** 1999-05-05 ET
+
+# Part 4: The Assessment
 
 The echo of the heavy deadbolt sliding into place lingered in the cavernous expanse of the Great Hall. For the first time in their lives, the sixteen cousins were completely alone on the mountain. The toxic, suffocating weight of the older generation had been excised.
 
@@ -359,11 +373,13 @@ The sixteen cousins absorbed the magnitude of the shift. For their entire lives,
 
 "Enjoy the quiet today," Victoria told them, the fierce pride returning to her eyes as she looked at her new pack. "Tomorrow, we go to work."
 
-## Chapter 3: The Architecture of Survival – Thursday, May 6, 1999
+## Chapter 3: The Architecture of Survival
 
-### Part 1: The Diagnostics (08:00)
+### Part 1: The Diagnostics
 
-# Part 1: The Diagnostics (08:00)
+**Date:** 1999-05-06 ET
+
+# Part 1: The Diagnostics
 
 The heavy oak doors of The Prospector's Keep were propped wide open, letting the crisp, thawing spring air flood into the 1890s lobby. Out on the cobblestone turnaround, a fleet of heavy-duty commercial work trucks had replaced the exiled generation's luxury SUVs.
 
@@ -401,9 +417,11 @@ They operated under Victoria's highly efficient "Batch Upload" protocol. The cou
 
 The adults were gone, the walls downstairs were coming down, and the mountain was finally theirs. Sitting in the quiet hum of their digital classroom, the youngest members of the Vance-Whitaker pack went to work.
 
-### Part 2: The Truman Execution (14:30)
+### Part 2: The Truman Execution
 
-# Part 2: The Truman Execution (14:30)
+**Date:** 1999-05-06 ET
+
+# Part 2: The Truman Execution
 
 The lead structural engineer walked back into the Great Hall just after two o'clock in the afternoon. His hands were coated in a thick layer of black, century-old dust, and his expression was grim.
 

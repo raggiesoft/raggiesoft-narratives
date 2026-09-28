@@ -7,7 +7,10 @@ series: ""
 
 ## The Second Wave
 
-### Part 1: The Expanding Perimeter – Sunday, August 12, 2063 – 10:00 (Local Eden Time)
+### Part 1: The Expanding Perimeter
+
+# The Second Wave
+# Part 1: The Expanding Perimeter
 
 The sprawling residential living room of The Sanctuary had transformed into a major logistical staging ground.
 
@@ -87,7 +90,10 @@ The seventeen-year-old commanding officer squared her shoulders. She looked at h
 
 "Base is secure, Mom," Ellie declared, her dark eyes flashing with absolute readiness. "Bring on the recruits."
 
-### Part 2: The Commander’s Blessing – Sunday, August 12, 2063 – 13:00 (Local Eden Time)
+### Part 2: The Commander’s Blessing
+
+# The Second Wave
+# Part 2: The Commander’s Blessing
 
 The heavy, rhythmic thrum of industrial repulsor engines echoed across the elevated plateau of the Genesis valley.
 
@@ -181,7 +187,10 @@ Sarah rested her head against Wyatt's shoulder, her heart swelling for the husba
 
 The Colton family stood together in the shade of the alien pines, watching Jack patiently explain the mechanics of a water-wheel to a fascinated Willow. The first generation was thriving, the Vanguard was unshakeable, and the village of Genesis was finally ready to truly open its doors.
 
-### Part 3: The Lunar Embassy – Tuesday, September 4, 2063 – 14:00 (Standard Galactic Time)
+### Part 3: The Lunar Embassy
+
+# The Second Wave
+# Part 3: The Lunar Embassy
 
 For the first time in twelve years, Wyatt Colton had authorized a breach of the Aegis shield for an outside vessel.
 
@@ -257,7 +266,10 @@ Wyatt, Sarah, Ellie, and Jack turned back toward the silver runabout.
 
 They had taken the very first, careful step toward rejoining the human race. They had given Earth a front porch. And in a few decades, when the children of Genesis were fully grown and ready to explore the stars, the galaxy would be waiting for them right in their own backyard.
 
-### Part 4: The Wild Sparrows – Sunday, August 12, 2063 – 14:30 (Local Eden Time)
+### Part 4: The Wild Sparrows
+
+# The Second Wave
+# Part 4: The Wild Sparrows
 
 While the adults and the Vanguard managed the heavy logistics of the mountain, the Earth Conservatory on Sub-Level 1 had been entirely surrendered to the chaos of the five-year-olds.
 
@@ -333,7 +345,10 @@ He looked down at the tiny, swaddled newborn drinking from the bottle in his han
 
 "Welcome to the neighborhood, kid," Wyatt rumbled softly.
 
-### Part 5: Breaking Ground – Friday, September 7, 2063 – 09:00 (Standard Galactic Time)
+### Part 5: Breaking Ground
+
+# The Second Wave
+# Part 5: Breaking Ground
 
 The pale, gray expanse of Anchor had remained completely undisturbed for millions of years. Today, it was the site of the most significant architectural collaboration in the galaxy.
 
@@ -413,7 +428,10 @@ Down below the clouds, the twenty Cockney-accented infants were sleeping safely 
 
 ## Jack – The Lunar Embassy
 
-### Part 1: The Fleet Girl – Friday, July 10, 2066 – 16:00 (Standard Galactic Time)
+### Part 1: The Fleet Girl
+
+# Jack – The Lunar Embassy
+# Part 1: The Fleet Girl
 
 The Earth Remnant Embassy on Anchor had grown from a single titanium foundation block into a sprawling, multi-tiered diplomatic hub.
 
@@ -475,7 +493,10 @@ Jack walked out of the office, his boots carrying him swiftly toward the embassy
 
 As he boarded the sleek silver runabout and requested clearance through the Aegis shield, the cold, political sterility of the moon faded away. He engaged the repulsorlifts, aiming the nose of the ship directly at the vibrant blue-and-green jewel below. He couldn't wait to get back to the mud, the noise, the thick Australian accents of the village, and the people who actually knew how to hold his hand.
 
-### Part 2: The Gravity of Home – Friday, July 10, 2066 – 17:30 (Local Eden Time)
+### Part 2: The Gravity of Home
+
+# Jack – The Lunar Embassy
+# Part 2: The Gravity of Home
 
 The silver runabout descended through the hazy, golden-hour clouds of Planet Eden, the Aegis shield shimmering invisibly as it granted the ship clearance.
 
@@ -531,7 +552,10 @@ For now, he would endure it. He was the peacemaker, and keeping the diplomatic c
 
 But as Claire reached over and gently wiped a smudge of dirt off Jack's cheek, offering him a warm, deeply knowing smile, Jack knew exactly where his heart actually lived.
 
-### Part 3: The Newport Fifty – Saturday, August 15, 2066 – 10:00 (Local Eden Time)
+### Part 3: The Newport Fifty
+
+# Jack – The Lunar Embassy
+# Part 3: The Newport Fifty
 
 Wyatt Colton leaned heavily against the stone archway of the Sanctuary’s main living room, a steaming mug of black coffee warming his scarred hands. He kept his presence quiet, his watchful, deep-set eyes observing the operational dynamic of his family from the perimeter.
 
@@ -601,7 +625,10 @@ Ellie immediately straightened up, her tactical mind seamlessly pivoting from de
 
 ## The Refugee
 
-### Part 1: The Great Chowder Rebellion – Tuesday, June 16, 2071 – 12:30 (Local Eden Time)
+### Part 1: The Great Chowder Rebellion
+
+# The Refugee
+# Part 1: The Great Chowder Rebellion
 
 The sprawling, open-air timber dining pavilion in the center of Genesis Village was currently ground zero for a massive cultural uprising.
 
@@ -669,7 +696,10 @@ He cut the connection. He looked down at Willow. Her dark eyes were wide with a 
 
 Jack turned and broke into a jog toward the mountain access lift, his diplomatic instincts completely overriding his caution. He was rushing off to Anchor to offer a lifeline to a desperate survivor, completely unaware that he was about to invite the most toxic, devastating threat Planet Eden had ever faced right into his own heart.
 
-### Part 2: The Exception – Tuesday, June 16, 2071 – 13:15 (Standard Galactic Time)
+### Part 2: The Exception
+
+# The Refugee
+# Part 2: The Exception
 
 Jack’s silver runabout touched down on Pad 2 of the Lunar Embassy with a soft, magnetic hum. He didn’t wait for the boarding ramp to fully extend before he was moving, his long legs carrying him swiftly through the pressurized hydro-glass corridors in Anchor’s 0.48G environment.
 
@@ -737,7 +767,10 @@ As Jack strapped himself into the pilot's seat and requested clearance through t
 
 He aimed the nose of the ship toward the lush, green-and-blue surface of Planet Eden, completely unaware of the poison he was bringing into his home.
 
-### Part 3: The Golden Cage – Thursday, June 18, 2071 – 10:00 (Local Eden Time)
+### Part 3: The Golden Cage
+
+# The Refugee
+# Part 3: The Golden Cage
 
 Sub-Level 6 of the mountain estate was a marvel of pristine, automated medical technology, but to Sloane, it was starting to feel incredibly isolating.
 
@@ -799,7 +832,10 @@ But as she looked at the brushed-steel doors, she swallowed her frustration. Jac
 
 ## The Asylum
 
-### Part 1: The Scavenger\'s Tale – Monday, June 22, 2071 – 14:00 (Local Eden Time)
+### Part 1: The Scavenger\'s Tale
+
+# The Asylum
+# Part 1: The Scavenger\'s Tale
 
 The mahogany-paneled library of the mountain estate had been temporarily converted into a formal debriefing room.
 
@@ -877,7 +913,10 @@ Sloane hugged him back tightly, burying her face into the crook of his neck. As 
 
 She had done it. She had survived the interrogation. The Commander was skeptical, and those creepy twin sisters were definitely going to be a problem, but Jack was already entirely hers. She had secured her foothold, and she had absolutely no intention of ever letting it go.
 
-### Part 2: The Village Square – Monday, June 22, 2071 – 15:00 (Local Eden Time)
+### Part 2: The Village Square
+
+# The Asylum
+# Part 2: The Village Square
 
 The transition from the hyper-militarized, polished-stone corridors of the mountain estate down to the sprawling, sunlit valley of Genesis Village was like stepping onto an entirely different planet.
 
@@ -967,7 +1006,10 @@ The moment the latch clicked into place, the sweet, vulnerable smile completely 
 
 *Fine,* Sloane thought, her dark eyes narrowing as she watched him go. *If you won't leave the Main Residence for me... I'll just have to make sure you eventually realize that you don't need them anymore.* She turned away from the glass, beginning to unpack the small canvas bag Aria had provided, ready to play the absolute perfect, long-term game.
 
-### Part 3: The Collection Agency – Wednesday, June 17, 2071 – 09:15 (Local Eden Time)
+### Part 3: The Collection Agency
+
+# The Asylum
+# Part 3: The Collection Agency
 
 The morning sun had barely crested the eastern ridge when the tactical alarms in the Combat Information Center violently shattered the quiet of the mountain estate.
 
@@ -1065,7 +1107,10 @@ Ellie turned on her heel and marched back toward the runabout.
 
 Sloane buried her face back in Jack's chest, hiding the cold, triumphant smirk that touched her lips. She had officially secured her human shield. The Commander was a problem, yes, but as long as Jack was willing to stand between her and the rest of the universe, Sloane knew she had already won the war.
 
-### Part 4: The Extraction of Toxicity – Wednesday, June 17, 2071 – 20:00 (Local Eden Time)
+### Part 4: The Extraction of Toxicity
+
+# The Asylum
+# Part 4: The Extraction of Toxicity
 
 The golden hour had faded into a cool, starry night over the Village of Genesis.
 
@@ -1175,7 +1220,10 @@ Jack stood beside Ellie, his arms crossed over his chest, watching the empty spa
 
 Jack nodded, a profound sense of relief washing over him. The toxicity was gone. The unit was intact. And the village of Genesis was safe once again.
 
-### Part 5: The Detox – Wednesday, June 17, 2071 – 21:30 (Local Eden Time)
+### Part 5: The Detox
+
+# The Asylum
+# Part 5: The Detox
 
 The Main Residence of Genesis Village was a sprawling, beautifully constructed timber lodge that sat right on the bend of the rushing river. It was loud, lived-in, and currently shared by Jack, Molly, Claire, and Willow.
 
@@ -1225,7 +1273,10 @@ Jack let out a sudden, loud laugh, the tension completely shattering. He reached
 
 They sat together on the deck for a long time, listening to the rushing water of the Genesis River. The toxic refugee was gone, banished back into the cold vacuum of space, and the prince of Eden was exactly where he belonged.
 
-### Part 6: The Filter – Wednesday, June 17, 2071 – 22:30 (Local Eden Time)
+### Part 6: The Filter
+
+# The Asylum
+# Part 6: The Filter
 
 The sprawling timber Main Residence in Genesis Village was finally winding down for the night. The heavy, automated shutters had been drawn over the windows, sealing the comfortable home against the dark of the valley.
 
@@ -1299,7 +1350,10 @@ Jack let his hands rest over his sisters' arms, the heavy, lingering toxicity of
 
 ## Leo – The Overseer
 
-### Part 1: The Geometry of Peace – Thursday, June 25, 2071 – 10:00 (Local Eden Time)
+### Part 1: The Geometry of Peace
+
+# Leo – The Overseer
+# Part 1: The Geometry of Peace
 
 To Leo Colton, the universe was not made of chaotic events or unpredictable emotions. The universe was made of geometry, pressure, and frequency.
 
@@ -1357,7 +1411,10 @@ He didn't need to go down to the village. He didn't need to walk in the dirt or 
 
 He was the Overseer of Planet Eden, and his universe was absolutely perfect.
 
-### Part 2: The Kinetic Variables – Thursday, June 25, 2071 – 10:30 (Local Eden Time)
+### Part 2: The Kinetic Variables
+
+# Leo – The Overseer
+# Part 2: The Kinetic Variables
 
 The heavy brushed-steel doors of the pneumatic elevator on Sub-Level 3 hissed open.
 
@@ -1423,7 +1480,10 @@ Leo watched the elevator doors seal. The CIC returned to its perfect 40-hertz ge
 
 He wasn't a burden to the Colton family. He was the brain that kept the entire machine running.
 
-### Part 3: The Shenandoah Curve – Thursday, June 25, 2071 – 10:45 (Local Eden Time)
+### Part 3: The Shenandoah Curve
+
+# Leo – The Overseer
+# Part 3: The Shenandoah Curve
 
 With the tactical perimeter of the village officially secure and the hostile variable named Sloane successfully extracted from the system, Leo Colton shifted his visual focus on the massive holographic table.
 
@@ -1495,7 +1555,10 @@ Deep within the bedrock of the mountain, on Sub-Level 6, the massive, automated 
 
 The Shenandoah Valley was gone, burned to ash decades ago, but its ghost was about to take a very deep breath on Planet Eden.
 
-### Part 4: The Stewards – Thursday, June 25, 2071 – 11:00 (Local Eden Time)
+### Part 4: The Stewards
+
+# Leo – The Overseer
+# Part 4: The Stewards
 
 The Combat Information Center was quiet, save for the low, 40-hertz hum of the geothermal reactors and the steady pulsing of the massive holographic table.
 
@@ -1553,7 +1616,10 @@ Leo’s hands flew across his MagnaPad, entirely in his element. He didn't want 
 
 ## Wyatt – The Founders
 
-### Part 1: The Watch – Thursday, June 25, 2071 – 11:15 (Local Eden Time)
+### Part 1: The Watch
+
+# Wyatt – The Founders
+# Part 1: The Watch
 
 The observation terrace extending from the western face of the mountain estate was bathed in the warm, late-morning sunlight.
 
@@ -1607,7 +1673,10 @@ Sarah smiled, leaning her lounger back so she was perfectly parallel with him. S
 
 "Retired," Sarah whispered, letting her eyes drift shut in the warm breeze. "I like the sound of that."
 
-### Part 2: The Age of Majority – Thursday, June 25, 2071 – 13:00 (Local Eden Time)
+### Part 2: The Age of Majority
+
+# Wyatt – The Founders
+# Part 2: The Age of Majority
 
 The mahogany-paneled library of The Sanctuary was cool and quiet, offering a perfect refuge from the midday sun.
 
@@ -1661,7 +1730,10 @@ Wyatt nodded, looking back at the glowing blue text of their finalized civil cod
 
 ## Leo – The Wilderness
 
-### Part 1: The Logistics of the Wild – Friday, June 26, 2071 – 10:00 (Local Eden Time)
+### Part 1: The Logistics of the Wild
+
+# Leo – The Wilderness
+# Part 1: The Logistics of the Wild
 
 To Leo Colton, a successful operation was entirely dependent on the structural integrity of its preparation. The wilderness was not an enemy to be feared; it was simply a complex equation of natural variables that required the correct architectural formula to balance.
 
@@ -1719,7 +1791,10 @@ Leo slammed his hand down on the glowing green execution rune on his tablet.
 
 "Advance to the lake," Leo ordered.
 
-### Part 2: Raising the Canvas – Friday, June 26, 2071 – 13:00 (Local Eden Time)
+### Part 2: Raising the Canvas
+
+# Leo – The Wilderness
+# Part 2: Raising the Canvas
 
 The eastern lake was a massive, pristine body of freshwater that mirrored the brilliant blue sky and the towering, emerald-green peaks of the alien pines.
 
@@ -1771,7 +1846,10 @@ Leo sat in his chair, anchored by the heavy, loving weight of Nora against his r
 
 The universe was mathematically perfect. The wilderness was officially secured.
 
-### Part 3: The 16-Bit Horizon – Sunday, June 28, 2071 – 09:00 (Local Eden Time)
+### Part 3: The 16-Bit Horizon
+
+# Leo – The Wilderness
+# Part 3: The 16-Bit Horizon
 
 Breaking camp was an exercise in flawless, practiced geometry.
 
@@ -1849,7 +1927,10 @@ He reached a heavy hand down to his MagnaPad.
 
 "The traction is optimal. The acoustic frequency is acceptable," Leo's digital voice announced over the sound of the surf. He looked out at the infinite blue horizon, perfectly anchored by the heavy weight of Nora leaning against his chair. "This is a mathematically sound location for the basecamp."
 
-### Part 4: The Sydney Echo – Sunday, June 28, 2071 – 11:30 (Local Eden Time)
+### Part 4: The Sydney Echo
+
+# Leo – The Wilderness
+# Part 4: The Sydney Echo
 
 Leo sat perfectly still in the Amphibious Rover, the warm, salty breeze washing over his face.
 

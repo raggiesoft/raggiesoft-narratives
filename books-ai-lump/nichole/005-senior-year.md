@@ -9,6 +9,9 @@ series: "Nichole"
 
 ### Part 1: The Breach
 
+# Graduation
+# Part 1: The Breach
+
 ## Date: June 14, 2003 Location: Northwood High School Gymnasium, Virginia Beach, VA Event: Class of 2003 Commencement
 
 The air in the gymnasium was thick enough to chew. It smelled of floor wax, corsage flowers, and the nervous sweat of four hundred teenagers.
@@ -86,6 +89,9 @@ The purple and gold ocean swallowed the wheelchair whole.
 And the band played on.
 
 ### Part 2: The Empty Chair
+
+# Graduation
+# Part 2: The Empty Chair
 
 ## Patrick’s Point of View
 
@@ -212,6 +218,9 @@ The thought broke her heart more than the fear. She wouldn't get to say goodbye.
 She shivered, burying her face in her knees, and waited for the end.
 
 ### Part 3: The Search
+
+# Graduation
+# Part 3: The Search
 
 ## Date: June 14, 2003 Time: The Longest Twenty Minutes of Patrick’s Life Location: Northwood High School Gymnasium
 
@@ -362,6 +371,9 @@ Patrick wrapped his arms around her, pulling her dusty, trembling body against h
 "I've got you," he said again, burying his face in her hair. "I'm never letting go."
 
 ### Part 4: The Promise
+
+# Graduation
+# Part 4: The Promise
 
 ## Location: Northwood High School, The Hallway outside the Gym Time: 10 minutes after the stampede
 
@@ -515,6 +527,9 @@ They stayed there under the tree for an hour, ignoring the graduation parties st
 
 ### Part 1: Damage Control
 
+# The Reset
+# Part 1: Damage Control
+
 ## Date: June 15, 2003 (The Day After Graduation) Time: 10:30 AM Location: The Bennett Living Room, 1850 Delaney Street, Virginia Beach
 
 Tom nodded at Patrick, sensing the density of the air in the room. He picked up the toolbox and the wobbly wheel Patrick had removed. "I'll take the rim out to the garage vice. I’ll get it true again. You two... take your time."
@@ -556,6 +571,9 @@ She felt a sob rising in her chest, but she swallowed it down. If she cried, her
 She looked at Patrick. He wasn't looking at her injury anymore. He was staring at the floor, his jaw clenched so hard a muscle was jumping in his cheek. He looked like he wanted to punch a hole through the wall.
 
 ### Part 2: The Vow
+
+# The Reset
+# Part 2: The Vow
 
 Patrick gently pulled her shirt back down. He picked up a fresh pillow and wedged it between her side and the armrest of the chair to splint the ribs.
 
@@ -612,6 +630,9 @@ Nichole nodded. She leaned forward, wincing as her ribs protested, and rested he
 They stayed like that for a long time, kneeling on the carpet in the quiet house, while the world outside rushed on without them. The bruises would heal, turning yellow and green before fading. But the psychological architecture had shifted permanently. The Fortress wasn't a building anymore. It was Patrick.
 
 ### Part 3: The War Room
+
+# The Reset
+# Part 3: The War Room
 
 ## Date: June 15, 2003 Time: 2:00 PM Location: The Kitchen Table
 

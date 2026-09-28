@@ -11,6 +11,9 @@ series: ""
 
 **Date:** 2015-08-18 at 09:00
 
+# The Southern Hemisphere
+# Part 1: The Final Briefing
+
 The small, windowless consultation room inside the Montgomery County Courthouse hummed with the steady drone of the central air conditioning. A year ago, the sterile white walls and the harsh fluorescent lighting would have sent Jordan Fuller into a spiraling sensory overload. He would have been hunched over, his hands clamped over his ears, trembling in a squeaking, hospital-issue transit chair while he waited for his mother to dictate his fate.
 
 Today, he sat perfectly upright, the hum of the AC filtered seamlessly by his highly calibrated hearing aids.
@@ -56,6 +59,9 @@ Jordan didn't hesitate. He sent the standby command to his terminal and gripped 
 ### Part 2: The Phalanx and The Gavel
 
 **Date:** 2015-08-18 at 09:30
+
+# The Southern Hemisphere
+# Part 2: The Phalanx and The Gavel
 
 The heavy wooden double doors at the back of the courtroom swung open.
 
@@ -118,6 +124,9 @@ The color instantly drained from Mr. Davies' face. Aubrie Sinclair froze, her ti
 ### Part 3: The Evidentiary Phase
 
 **Date:** 2015-08-18 at 10:15
+
+# The Southern Hemisphere
+# Part 3: The Evidentiary Phase
 
 The evidentiary phase proceeded not as a trial, but as a systematic dismantling.
 
@@ -201,6 +210,9 @@ She looked directly at Aubrie Sinclair, whose face had gone completely pale.
 
 **Date:** 2015-08-18 at 13:30
 
+# The Southern Hemisphere
+# Part 4: The Closing Argument
+
 By early afternoon, Aubrie Sinclair’s petition was entirely in tatters. The evidentiary phase had dismantled her claims piece by piece, but it was time for the final blow. Ms. Gable stood in the center of the courtroom to deliver her closing argument, seamlessly weaving the global itinerary into a single, undeniable decree of Jordan's capacity.
 
 "Your Honor," Ms. Gable began, her voice ringing with crisp, devastating precision. "The petitioner’s entire case rests on the sworn assertion that my client is a fragile, anti-social, cognitively impaired invalid. Let us examine that claim against the reality of his summer."
@@ -236,6 +248,9 @@ Ms. Gable stepped back, gesturing to the tanned, upright, razor-sharp young man 
 ### Part 5: The Gavel and The Handcuffs
 
 **Date:** 2015-08-18 at 14:15
+
+# The Southern Hemisphere
+# Part 5: The Gavel and The Handcuffs
 
 The heavy, suffocating silence in the courtroom was finally broken by the frantic rustle of Mr. Davies shoving papers into his briefcase. Recognizing that his entire case had just been exposed as a malicious fabrication, his survival instincts kicked in.
 

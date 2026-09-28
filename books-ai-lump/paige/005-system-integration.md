@@ -9,6 +9,9 @@ series: ""
 
 ### Part 1: The Pathfinder
 
+# The Transfer Point
+# Part 1: The Pathfinder
+
 ## Saturday, June 23, 2007 — 14:15 PM Campbell Court Transportation Center, Roanoke, VA
 
 The air inside Campbell Court was a familiar, hostile mixture of diesel soot, stale tobacco, and the damp smell of concrete that never quite dried. It was a sensory environment Freddie usually categorized as "Critical Threat," but today, the static in his head was drowned out by the hum of anticipation.
@@ -113,6 +116,9 @@ They moved as a unit toward the express bus—Jessica taking point, Paige and th
 
 ### Part 2: The Bunker
 
+# The Transfer Point
+# Part 2: The Bunker
+
 ## Saturday, June 23, 2007 — 15:00 PM 105 Pepper Street SE, Christiansburg, VA
 
 The short ride from **Pepper Plaza** to the driveway took less than two minutes, but for Sarah, it was a data-gathering mission. She scanned the neighborhood through the bus window, noting the distance between houses (low density), the condition of the sidewalks (acceptable), and the proximity to the transit hub (optimal).
@@ -206,6 +212,9 @@ As the twins disappeared into their new subterranean kingdom, Freddie turned his
 "Systems nominal," Freddie whispered.
 
 ### Part 3: The Heap Protocol
+
+# The Transfer Point
+# Part 3: The Heap Protocol
 
 ## Saturday, June 23, 2007 — 22:00 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -335,6 +344,9 @@ The Avery Unit powered down, safe in the dark.
 
 ### Part 4: The Pressure Check
 
+# The Transfer Point
+# Part 4: The Pressure Check
+
 ## Saturday, June 23, 2007 — 22:15 PM 105 Pepper Street SE, Christiansburg, VA
 
 The "Heap" protocol had been active for fifteen minutes. The living room was silent, save for the rhythmic white noise of the air conditioner and the synchronized breathing of five adults compressed onto a single double mattress.
@@ -408,6 +420,9 @@ They didn't disperse. They didn't go to their designated zones.
 The Avery Unit simply shut down where they were, a tangle of limbs and trust, sleeping in a pile because for the first time in years, everyone was exactly where they were supposed to be.
 
 ### Part 5: The Migration
+
+# The Transfer Point
+# Part 5: The Migration
 
 ## Sunday, June 24, 2007 — 03:15 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -580,6 +595,9 @@ The breathing synced up. The heat rose. The Avery Unit slept, safe in the Silo, 
 ## The Physical Layer
 
 ### Part 1: The Descent
+
+# The Physical Layer
+# Part 1: The Descent
 
 ## Sunday, June 24, 2007 — 11:30 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -765,6 +783,9 @@ They lay on the cold concrete floor of the unfinished basement, five naked adult
 
 ### Part 2: The Search Query
 
+# The Physical Layer
+# Part 2: The Search Query
+
 ## Monday, June 25, 2007 — 10:30 AM 105 Pepper Street SE, Christiansburg, VA
 
 The Ops Room (formerly the second bedroom) was operating at peak capacity.
@@ -883,6 +904,9 @@ It looked like something that belonged on the *Sanctuary*.
 
 ### Part 3: The Mega-Bed
 
+# The Physical Layer
+# Part 3: The Mega-Bed
+
 ## Monday, June 25, 2007 — 11:15 AM 105 Pepper Street SE, Christiansburg, VA
 
 The "Thru-Floor Lift" was found. The TFL-3000 was in the virtual shopping cart. The method of descent was secured.
@@ -979,6 +1003,9 @@ She looked at Freddie.
 
 ### Part 4: The Pittsburgh Toilet
 
+# The Physical Layer
+# Part 4: The Pittsburgh Toilet
+
 ## Monday, June 25, 2007 — 12:00 PM 105 Pepper Street SE, Christiansburg, VA
 
 The "Mega-Bed" specifications were locked. The Thru-Floor Lift was in the cart. The digital architecture of the new basement was taking shape on the screen of the *MagnaByte* laptop.
@@ -1058,6 +1085,9 @@ She looked at her siblings.
 "The Bridge," Paige agreed. "Let's order the lumber."
 
 ### Part 5: The Permit Phase
+
+# The Physical Layer
+# Part 5: The Permit Phase
 
 ## Wednesday, June 27, 2007 — 14:00 PM
 
@@ -1220,6 +1250,9 @@ Freddie looked up. The ceiling was sealed. He was in the bunker. And he hadn't u
 "Access confirmed," Freddie whispered, tears pricking his eyes. "The Base is... fully operational."
 
 ### Part 6: The Wet Room
+
+# The Physical Layer
+# Part 6: The Wet Room
 
 ## Monday, July 2, 2007 — 08:00 AM The Bridge (Basement), 105 Pepper Street SE
 
@@ -1384,6 +1417,9 @@ Freddie closed his eyes, letting the water run over his face.
 "System status," he whispered to the steam. "Perfect."
 
 ### Part 7: The Mega-Bed Assembly
+
+# The Physical Layer
+# Part 7: The Mega-Bed Assembly
 
 ## Saturday, July 14, 2007 — 09:00 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -1569,6 +1605,9 @@ And in the cool, quiet basement of 105 Pepper Street, on a bed big enough for an
 
 ### Part 1: The Radford Protocol
 
+# The Satellite Link
+# Part 1: The Radford Protocol
+
 ## Saturday, July 21, 2007 — 10:00 AM 105 Pepper Street SE, Christiansburg, VA
 
 The Saturday morning routine at "The Base" was usually a slow, deliberate boot sequence. Freddie would roll The Rover onto the TFL platform, descend to the "Bridge" (the basement), and join the twins for a server diagnostic or a round of Super Plumber Bros.
@@ -1737,6 +1776,9 @@ The Avery Unit was back online.
 
 ### Part 2: The Holding Pattern
 
+# The Satellite Link
+# Part 2: The Holding Pattern
+
 ## Saturday, July 21, 2007 — 11:00 AM The Bridge (Basement), 105 Pepper Street SE
 
 The basement was vibrating.
@@ -1834,6 +1876,9 @@ She realized she wasn't being rejected. She was being protected.
 "Initiating tour," Freddie said, spinning The Rover around. "Follow me."
 
 ### Part 3: The Cargo Bay
+
+# The Satellite Link
+# Part 3: The Cargo Bay
 
 ## Saturday, July 21, 2007 — 11:15 AM 105 Pepper Street SE, Christiansburg, VA
 
@@ -1963,6 +2008,9 @@ They began the ascent—Freddie and Harper taking turns on the TFL, the others f
 
 ### Part 4: The Mess Hall
 
+# The Satellite Link
+# Part 4: The Mess Hall
+
 ## Saturday, July 21, 2007 — 12:30 PM 105 Pepper Street SE, Christiansburg, VA
 
 The "Decoy" bedroom was left behind, its door clicked shut on a life they didn't live.
@@ -2076,6 +2124,9 @@ The satellites were in orbit. The core was stable.
 The system was finally, perfectly integrated.
 
 ### Part 5: The Supply Line
+
+# The Satellite Link
+# Part 5: The Supply Line
 
 ## Saturday, July 21, 2007 — 14:30 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -2204,6 +2255,9 @@ Harper took the map. She folded it carefully and tucked it into the side pocket 
 The supply line was established. The Base was no longer an island; it was a Hub.
 
 ### Part 6: The Transit Bible
+
+# The Satellite Link
+# Part 6: The Transit Bible
 
 ## Saturday, July 21, 2007 — 15:00 PM 105 Pepper Street SE, Christiansburg, VA
 
@@ -2377,6 +2431,9 @@ Harper had her freedom (The Route 3 Shuttle). The twins had their safety (The Ad
 
 ### Part 1: The Last Supper
 
+# The Fishersville Protocol
+# Part 1: The Last Supper
+
 ## Sunday, November 9, 2008 — 13:30 PM Mrs. Rowe's Family Restaurant, Staunton, VA
 
 The silver Horizon Avalon sat in the gravel parking lot, its trunk heavy with Harper’s luggage. Inside the restaurant, the Avery Unit occupied a large corner booth.
@@ -2406,6 +2463,9 @@ Harper picked at a roll. She was wearing her favorite purple hoodie, the hood do
 They ate the pie. They drank the sweet tea. They delayed the inevitable for as long as they could, sitting in the warm, noisy restaurant, a family unit holding onto its satellite before the launch.
 
 ### Part 2: Barnett Hall
+
+# The Fishersville Protocol
+# Part 2: Barnett Hall
 
 ## Sunday, November 9, 2008 — 15:15 PM Woodrow Wilson Rehabilitation Center
 
@@ -2442,6 +2502,9 @@ She handed Harper a key card and a packet of rules.
 "Right this way," the escort said. "Elevators are down the hall."
 
 ### Part 3: Suite 200
+
+# The Fishersville Protocol
+# Part 3: Suite 200
 
 ## 15:30 PM
 
@@ -2481,6 +2544,9 @@ Within twenty minutes, the sterile dorm room looked like a forward operating bas
 
 ### Part 1: The Circuit
 
+# The Signal-to-Noise Ratio
+# Part 1: The Circuit
+
 ## Monday, November 10, 2008 — 09:00 AM Vocational Evaluation Lab, WWRC
 
 The classroom smelled of ozone and hot flux. To Harper Avery, it smelled like potential.
@@ -2515,6 +2581,9 @@ This, she thought, is the Signal.
 
 ### Part 2: The Shift Change
 
+# The Signal-to-Noise Ratio
+# Part 2: The Shift Change
+
 ## Tuesday, November 11, 2008 — 17:15 PM WWRC Dining Hall
 
 The Signal died the moment she walked out of the lab. The Static took over.
@@ -2548,6 +2617,9 @@ Adults are just tall teenagers, Harper realized with a sinking feeling. The dram
 She finished her food quickly. She didn't want to linger. She wanted to get back to the one place that was supposed to be safe.
 
 ### Part 3: The Main Event
+
+# The Signal-to-Noise Ratio
+# Part 3: The Main Event
 
 ## Tuesday, November 11, 2008 — 19:30 PM The PERT Lounge, Barnett Hall
 
@@ -2691,6 +2763,9 @@ Harper waited until the herd dispersed. She rolled out of her corner, shaking, a
 
 ### Part 4: The Carrier Wave
 
+# The Signal-to-Noise Ratio
+# Part 4: The Carrier Wave
+
 ## Tuesday, November 11, 2008 — 20:15 PM Suite 200A
 
 Harper slammed the door to her room. Her roommate, Kayla, wasn't there—she was probably still in the hall gossiping about the fight.
@@ -2763,6 +2838,9 @@ She wasn't in Fishersville anymore. She was in the Unit.
 
 ### Part 5: The Countdown
 
+# The Signal-to-Noise Ratio
+# Part 5: The Countdown
+
 ## Thursday, November 13, 2008 — 21:00 PM Suite 200A
 
 The week had been a gauntlet, but the "Freddie Protocol" had worked. Harper had worn her headphones like armor. She had eaten quickly. She had hidden in the library during free time.
@@ -2813,6 +2891,9 @@ She drew a large square. She wrote a number inside it.
 
 ### Part 6: The Midnight Threshold
 
+# The Signal-to-Noise Ratio
+# Part 6: The Midnight Threshold
+
 ## Friday, November 14, 2008 — 08:30 AM WWRC Dining Hall
 
 It was the final breakfast. The "Exit Protocol."
@@ -2852,6 +2933,9 @@ Four hours, she told herself. Just four hours until the Unit gets here.
 ## The Extraction
 
 ### Part 1: The Pickup
+
+# The Extraction
+# Part 1: The Pickup
 
 ## Friday, November 14, 2008 — 13:00 PM Barnett Hall, Woodrow Wilson Rehabilitation Center
 
@@ -2894,6 +2978,9 @@ Harper let out a long, shuddering breath. She ripped the headphones off her neck
 "I am never," Harper whispered, "ever going back there."
 
 ### Part 2: The Debrief
+
+# The Extraction
+# Part 2: The Debrief
 
 ## Friday, November 14, 2008 — 13:45 PM Interstate 81 South
 
@@ -2966,6 +3053,9 @@ He squeezed her knee.
 "Exactly," Harper nodded. "Take me to the bunker."
 
 ### Part 3: The Reunion
+
+# The Extraction
+# Part 3: The Reunion
 
 ## Friday, November 14, 2008 — 15:00 PM 105 Pepper Street SE
 
@@ -3081,6 +3171,9 @@ The Base was secure. The Satellite was docked. And outside, the world could be a
 
 ### Part 1: The Intruder
 
+# The Closed Circuit
+# Part 1: The Intruder
+
 ## Friday, November 14, 2008 — 19:30 PM 105 Pepper Street SE
 
 The pizza delivery car pulled into the driveway, its headlights sweeping across the living room window.
@@ -3143,6 +3236,9 @@ She tightened her grip on his shoulders.
 
 ### Part 2: The Emergency Brake
 
+# The Closed Circuit
+# Part 2: The Emergency Brake
+
 ## Friday, November 14, 2008 — 20:15 PM The Living Room
 
 They ate the pizza in the living room, picnicking on the floor. Or rather, the sisters ate on the floor.
@@ -3200,6 +3296,9 @@ Harper let out a long breath. Her shoulders dropped. The tension that had been h
 "Thanks, Captain," she whispered.
 
 ### Part 3: The Exception
+
+# The Closed Circuit
+# Part 3: The Exception
 
 ## Friday, November 14, 2008 — 22:00 PM The Silo (Master Bedroom)
 

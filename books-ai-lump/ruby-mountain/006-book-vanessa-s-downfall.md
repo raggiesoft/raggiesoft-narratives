@@ -5,11 +5,11 @@ series: "ruby-mountain"
 
 # Book: Vanessa's Downfall
 
-## Chapter 1: The Sovereign Tribunal – Monday, November 24th, 2003
+## Chapter 1: The Sovereign Tribunal
 
-### Part 1: The Broadcast (09:00)
+### Part 1: The Broadcast
 
-# Part 1: The Broadcast (09:00)
+# Part 1: The Broadcast
 
 By late November, State Route 20 was a tomb of hyper-compacted ice. The Washington State Department of Transportation had dropped the heavy steel gates at Milepost 134 three weeks ago. The Prospector’s Keep was legally, physically, and completely severed from the civilian grid.
 
@@ -81,9 +81,9 @@ Victoria stopped speaking. She didn't break eye contact with the camera.
 
 In the Whatcom County courtroom, Vanessa Hayes lowered her head, staring at the shackles on her wrists. The psychological warfare was over. Victoria Vance had reached across a hundred and fifty miles of avalanche debris, through the digital void, and utterly destroyed her.
 
-### Part 2: The Sentencing (09:15)
+### Part 2: The Sentencing
 
-# Part 2: The Sentencing (09:15)
+# Part 2: The Sentencing
 
 The silence that followed Victoria’s declaration was absolute. Inside the Whatcom County Superior Court, the only sound was the heavy November rain lashing against the municipal windows.
 

@@ -5,11 +5,13 @@ series: "ruby-mountain"
 
 # Book: The Air-Gap Chronicles
 
-## Chapter 3: Mountain Rules – Thursday, February 12, 2004
+## Chapter 3: Mountain Rules
 
-### Part 1: The Rookie (14:00)
+### Part 1: The Rookie
 
-# Part 1: The Rookie (14:00)
+**Date:** 2004-02-12 ET
+
+# Part 1: The Rookie
 
 By mid-February, the Skagit gorge wasn't just cold; it was structurally hostile. The snowpack at Milepost 134 was so dense it had the tensile strength of concrete.
 
@@ -91,9 +93,11 @@ Henderson walked past him, carrying the steaming Poly-Store Bin of Diana's chili
 
 "Grab the rest of the crates, rookie," Henderson said quietly. "And welcome to the Air-Gap."
 
-### Part 2: The Gridmaster (14:15)
+### Part 2: The Gridmaster
 
-# Part 2: The Gridmaster (14:15)
+**Date:** 2004-02-12 ET
+
+# Part 2: The Gridmaster
 
 The cab of the Alpine-Cat was loud, but it was warm, and the rich, spiced scent of Diana Whitaker’s venison chili completely masked the smell of ozone and wet wool.
 
@@ -149,11 +153,13 @@ Through the Alpine-Cat’s side window, Barrett watched the massive orange plow 
 
 The SCL engineers were safe. The grid was secure. And the mountain belonged entirely to the girls.
 
-## Chapter 4: The 911 Fallacy – Tuesday, February 24, 2004
+## Chapter 4: The 911 Fallacy
 
-### Part 1: The Civilian Instinct (14:15)
+### Part 1: The Civilian Instinct
 
-# Part 1: The Civilian Instinct (14:15)
+**Date:** 2004-02-24 ET
+
+# Part 1: The Civilian Instinct
 
 The maintenance catwalk near the primary turbine intake of Ross Dam was encased in three inches of solid, black ice.
 
@@ -195,9 +201,11 @@ Barrett stared at him, the horrifying reality of the Air-Gap finally, truly sink
 
 Henderson forced his eyes open, looking up at the jagged, snow-blind peaks of Ruby Mountain. "The only entity capable of executing a rescue is the Vance-Whitaker pack. Get to the Tundra-Track. Use the encrypted VHF radio."
 
-### Part 2: The Apex Protocol (14:20)
+### Part 2: The Apex Protocol
 
-# Part 2: The Apex Protocol (14:20)
+**Date:** 2004-02-24 ET
+
+# Part 2: The Apex Protocol
 
 Barrett didn't hesitate. He scrambled up the icy embankment, throwing open the heavy door of the Tundra-Track and ripping the VHF radio mic from the dashboard console. He cranked the dial to Channel 16—the universal emergency and distress frequency.
 

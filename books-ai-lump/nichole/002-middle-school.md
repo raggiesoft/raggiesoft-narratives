@@ -9,6 +9,9 @@ series: "Nichole"
 
 ### Part 1: The Curb Trap
 
+# The Test Run
+# Part 1: The Curb Trap
+
 Date: August 28, 1996 (Three days before 6th Grade)
 
 Time: 10:00 AM
@@ -97,6 +100,9 @@ Ellen looked down the street at the school, then at her kids. "I'm calling the c
 
 ### Part 1: Arrival at Morrison Middle School
 
+# The Yellow Wall
+# Part 1: Arrival at Morrison Middle School
+
 Date: September 3, 1996 (First Day of 6th Grade) Time: 07:45 AM Location: The Corner of Earnhardt & Morrison
 
 The morning air was different than the Test Run. The August humidity was still there, but now it was mixed with the smell of diesel exhaust and the nervous energy of a thousand kids waking up.
@@ -181,9 +187,12 @@ She looked at Patrick and tapped her temple. *Crazy.*
 
 "Yeah," Patrick wheezed, wiping sweat from his eyes. "Welcome to middle school."
 
-## Middle School Life (Working Title)
+## Middle School Life
 
 ### Part 1: The Fire Alarm
+
+# Middle School Life
+# Part 1: The Fire Alarm
 
 ## Date: October 14, 1996 Time: 11:00 AM Location: Morrison Middle School, Virginia Beach Grade: 6th Grade
 
@@ -356,6 +365,9 @@ He turned back to Patrick.
 He turned the chair around, putting his back to the Principal, and pushed Nichole toward the far edge of the blacktop, away from the administration, away from the apology, and toward the only safety that mattered.
 
 ### Part 2: The Call
+
+# Middle School Life
+# Part 2: The Call
 
 ## Time: 11:30 AM Location: The Bennett Kitchen (3 Blocks Away)
 
@@ -1137,6 +1149,9 @@ It was official. The Bennett Machine was no longer a rogue operation. It was dis
 
 ### Part 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
 
+# Middle School Life
+# Part 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
+
 The victory had lasted exactly twenty-eight days.
 
 For nearly a month, the Bennett household had operated under the comforting umbrella of the "Resolution Letter." Patrick felt ten feet tall. He walked the halls of Morrison Middle School not just as a student, but as an accredited asset. He checked the fire exit signs. He watched the clock. He was the guardian.
@@ -1325,6 +1340,9 @@ Patrick went inside. Tom stayed in the garage, listening to the silence, praying
 
 ### Part 4: The Third Wheel
 
+# Middle School Life
+# Part 4: The Third Wheel
+
 ## Date: November 12, 1997 Grade: 7th Grade Location: Mrs. Miller’s Life Science Room, Morrison Middle School
 
 The assignment was standard 7th-grade curriculum, but the logistics were a nightmare.
@@ -1414,6 +1432,9 @@ Nichole poised her finger over the VocaLink's thermal printer button. She wasn't
 "Let's build a cell," Patrick said.
 
 ### Part 5: The Architect and the Laborer
+
+# Middle School Life
+# Part 5: The Architect and the Laborer
 
 ## Date: November 12, 1997 Time: 10:45 AM Location: Mrs. Miller’s Life Science Room
 

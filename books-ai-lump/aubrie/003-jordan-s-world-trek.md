@@ -11,6 +11,9 @@ series: ""
 
 **Date:** 2015-05-23 at 05:00
 
+# The Northern Ascent
+# Part 1: The Vanguard Awakes
+
 The sharp, digital chime of an alarm clock pierced the cool, quiet air of the Brooks family basement.
 
 Jordan opened his eyes, the absolute absence of his childhood nightmares still feeling like a daily miracle. He was sandwiched comfortably in the center of a mobile queen-sized bed, surrounded by the deep, rhythmic breathing of his pact. To his left, Aubrie was curled up against his side. To his right, Lauren’s auburn hair was splayed across his shoulder, her arm thrown protectively across his chest.
@@ -44,6 +47,9 @@ The engines revved, and the two vans pulled out of the driveway, merging onto th
 ### Part 2: Operation Yellow Ribbon
 
 **Date:** 2015-05-23 at 06:30
+
+# The Northern Ascent
+# Part 2: Operation Yellow Ribbon
 
 Traffic on Interstate 81 was surprisingly sparse for a Saturday morning, allowing the two heavy passenger vans to make excellent time as they cruised north through the New River Valley. Inside the lead van, the atmosphere was a mix of early-morning grogginess and electric anticipation.
 
@@ -82,6 +88,9 @@ Jordan held Lauren's hand a little tighter. Armed with his Nexus card, his custo
 ### Part 3: The Security Checkpoint
 
 **Date:** 2015-05-23 at 07:00
+
+# The Northern Ascent
+# Part 3: The Security Checkpoint
 
 As the eighteen members of the global roster moved toward the TSA security checkpoint, Daniel Brooks gently placed a hand on the back of Jordan’s heavy power chair, bringing him to a slow stop just before the queue. Lauren stayed firmly anchored by his side, her fingers still laced with his.
 
@@ -138,6 +147,9 @@ With his right hand resting securely on the joystick, Jordan steered his heavy-d
 ### Part 4: The Ten-Thousand Foot Rule
 
 **Date:** 2015-05-23 at 07:30
+
+# The Northern Ascent
+# Part 4: The Ten-Thousand Foot Rule
 
 The boarding area at the Meridian Express gate was quiet, populated entirely by the eighteen members of the chosen family. Through the floor-to-ceiling glass windows, the small regional jet sat parked on the tarmac, its engines whining with a low, mechanical hum.
 
@@ -217,6 +229,9 @@ He took a long, refreshing sip of the cold juice, the sweet taste cutting right 
 
 **Date:** 2015-05-23 at 08:30
 
+# The Northern Ascent
+# Part 5: The International Threshold
+
 The descent into Washington Dulles International Airport was a jarring, physical reality check.
 
 As the Meridian Express regional jet pitched downward, the change in cabin air pressure pressed heavily against Jordan's eardrums. A few minutes later, the landing gear deployed with a heavy, mechanical *thud* that vibrated straight through the floorboards. When the wheels finally touched the tarmac, the twin engines roared to life with aggressive reverse thrust, shaking the entire cabin.
@@ -247,6 +262,9 @@ Jordan took a deep breath, processing her calm, practical explanation. He nodded
 
 **Date:** 2015-05-23 at 09:00
 
+# The Northern Ascent
+# Part 6: The IAD Layover Strategy
+
 To answer the massive logistical challenge of managing an eighteen-person family on an international layover, Daniel Brooks had mapped out the morning with military precision.
 
 "Our flight to Toronto Pearson does not board for another three hours," Daniel explained to the group as they waited for the cabin doors to open. "We are not going to sit at a noisy, crowded gate. Because we are all flying on First Class international tickets, we have complimentary access to the Meridian Premier Lounge in Concourse C."
@@ -272,6 +290,9 @@ The terrified, isolated boy from Virginia Beach was officially gone. The world t
 ### Part 7: The Border Briefing
 
 **Date:** 2015-05-23 at 10:15
+
+# The Northern Ascent
+# Part 7: The Border Briefing
 
 The hum of the Meridian Premier Lounge was a soothing backdrop as the morning stretched on. Jordan sat comfortably in his power chair by the massive windows, watching the baggage carts zip across the tarmac. The anxiety that had gripped him earlier that morning had completely dissolved, replaced by a profound, grounding warmth.
 
@@ -310,6 +331,9 @@ As the departure screens in the lounge flashed, indicating that their mainline j
 ### Part 8: The Outback Lift
 
 **Date:** 2015-05-23 at 11:30
+
+# The Northern Ascent
+# Part 8: The Outback Lift
 
 After a final round of snacks and a highly coordinated trip to the Premier Lounge's accessible restrooms, Daniel Brooks gathered the group. It was time.
 
@@ -363,6 +387,9 @@ Jordan looked out the window as the massive jet engines began to whine. He didn'
 
 **Date:** 2015-05-23 at 12:30
 
+# The Northern Ascent
+# Part 9: The Price of Freedom
+
 As the mainline jet reached cruising altitude, the First Class cabin settled into a comfortable, luxurious hum. The flight attendants began their meal service, rolling the carts down the wide aisle of the two-by-two cabin configuration.
 
 When the cart reached their rows, the lead flight attendant offered a warm smile, but she didn't bother asking for drink orders. Daniel Brooks, managing the complex logistics of their eighteen-person roster, had already handled it. He had documented directly with the airline well in advance that the entire family—even the adults over twenty-one—would be declining alcohol. The flight attendants simply handed out premium hot meals, bottles of sparkling water, and fresh juices, allowing the group to eat in total peace.
@@ -396,6 +423,9 @@ Jordan smiled, his heart soaring lighter than the aircraft itself. Next stop: YY
 ### Part 10: The Commonwealth Question
 
 **Date:** 2015-05-23 at 14:00
+
+# The Northern Ascent
+# Part 10: The Commonwealth Question
 
 When the mainline jet finally arrived at the gate at Toronto Pearson International Airport, the First Class cabin began to empty out. True to her word, Jessica Gallagher stood up from her seat in the third row, her imposing 6'3" frame easily navigating the cabin aisle.
 
@@ -449,6 +479,9 @@ Surrounded by his chosen family and officially on foreign soil for the very firs
 
 **Date:** 2015-05-23 at 14:45
 
+# The Northern Ascent
+# Part 11: The ePassport Bottleneck
+
 The Air Canada Maple Leaf Lounge in the domestic terminal was a quiet, sprawling sanctuary of polished wood and comfortable armchairs. The sixteen members of the Nexus group had easily secured a large corner section, indulging in the complimentary buffet and waiting for the final two members of their party.
 
 Jordan sat in his heavy-duty power chair by the window, his Vanguard Pro resting securely on his tray table. He tapped his fingers rhythmically against the edge of the plastic, a subtle self-soothing stim. He was watching the clock on his dark-themed NeoEdit terminal. It had been nearly forty-five minutes since they had separated at the customs hall.
@@ -496,6 +529,9 @@ Lauren smiled, interlacing her fingers with his as they approached the gate. It 
 ### Part 12: The Yellow Ribbon Welcome
 
 **Date:** 2015-05-23 at 19:00 Newfoundland Daylight Time
+
+# The Northern Ascent
+# Part 12: The Yellow Ribbon Welcome
 
 The boarding process for the final leg to Gander International Airport was flawlessly executed. True to her promise, Jessica Gallagher stepped in the moment they reached the aircraft door.
 
@@ -548,6 +584,9 @@ Jordan pressed his palms against his keyboard, his hands trembling slightly, but
 ### Part 13: The Gander Lift
 
 **Date:** 2015-05-23 at 20:15 Newfoundland Daylight Time
+
+# The Northern Ascent
+# Part 13: The Gander Lift
 
 After the emotional welcome at the airport, the massive group of eighteen split into two convoys. Daniel Brooks, managing the primary logistics, guided the majority of the chosen family to a cozy, local hotel in the center of town.
 
@@ -609,6 +648,9 @@ He reached out, pulling Lauren into a tight hug, the warmth of the Newfoundland 
 
 **Date:** 2015-05-23 at 21:30 Newfoundland Daylight Time
 
+# The Northern Ascent
+# Part 14: The Room 214 Reunion
+
 As the excitement of the arrival settled into a warm, comfortable evening, the practical realities of the night took over. With the house naturally lacking the wide, accessible architecture of their specialized apartment back at CPI, the pact simply adapted their routines without missing a single beat.
 
 Lauren easily scooped Jordan into her arms, carrying him down the hallway to the family bathroom. The level of trust between them was absolute. With the same pragmatic, unbothered grace she applied to deadlifting his heavy wheelchair, Lauren helped Jordan with his toileting needs, completely normalizing the physical assistance. Once he was taken care of, she used the restroom herself, then gently helped Jordan change out of his travel clothes and into soft, comfortable pajamas before quickly changing into her own sleepwear.
@@ -644,6 +686,9 @@ Sandwiched between the two women who had started it all, surrounded by his fierc
 ## The Northern Horizon
 
 ### Part 1: The Gander Morning
+
+# The Northern Horizon
+# Part 1: The Gander Morning
 
 The morning light filtering through the living room curtains of Lauren's childhood home was soft and cool. Jordan woke up slowly, the heavy, weighted Newfoundland quilt pressing down securely against his chest.
 
@@ -692,6 +737,9 @@ Jordan's eyes widened. He hadn't realized the physical history was actually pres
 Jordan looked around the kitchen, at the warm, smiling faces of the family who had carried him into their home without a second thought. He finally understood. The radical hospitality wasn't an act. It was completely baked into the DNA of the ground he was sitting on.
 
 ### Part 2: The Cognitive Redirect
+
+# The Northern Horizon
+# Part 2: The Cognitive Redirect
 
 The thick slice of homemade bread on Jordan's tray table felt impossibly heavy.
 

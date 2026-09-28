@@ -9,6 +9,9 @@ series: ""
 
 ### Part 1: Breakthrough for Leo
 
+# The MagnaByte Opus Lifeline
+# Part 1: Breakthrough for Leo
+
 Their first real breakthrough had come years earlier, around 1992, in the noisy computer lab of their elementary school, Willow Creek Elementary (Home of the Otters). Faced with rows of aging but functional MagnaByte Opus machines, seven-year-old Leo, previously struggling to express himself through laborious handwriting and lacking any other communication aids, discovered that resting his hands on the keyboard allowed him to painstakingly tap out words. For Luna, typing offered a clarity and flow that sometimes eluded her speech. This was their first taste of fluent written communication, a revelation after years of difficulty. The school recognized the significance of this discovery.
 
 The importance of this specific tool became starkly clear during the twins' sixth-grade year at Brandon Middle School (Home of the Chargers). The school district had upgraded most computer labs to Quantum OS 95 machines running Quantum Suite 95. During a library session focused on basic word processing, the twins were directed to use one of the new PCs. Ms. Evans, their English teacher (and Stella's former teacher), observed the immediate struggle. Luna, faced with the unfamiliar Quantum Menu, multiple Quantum OS, and complex drop-down menus in Word, became visibly overwhelmed, her usual typing fluency evaporating. Leo, attempting to use the two-button mouse, found the pointer erratic and frustrating, unable to reliably click on icons or navigate menus. He kept trying to use keyboard shortcuts that didn't exist in this new environment. After nearly fifteen minutes of increasing frustration, culminating in Luna near tears and Leo banging his fist lightly on the desk, Ms. Evans intervened. She recognized their distress went beyond typical frustration; it was a profound, almost visceral rejection of the unpredictable and visually cluttered new system, something she would later understand as related to their autism.
@@ -18,6 +21,9 @@ The importance of this specific tool became starkly clear during the twins' sixt
 Ms. Evans recognized that the MagnaByte Opus was not merely a computer preference for Luna and Leo; it was an essential accessibility tool integral to managing both technological and sensory-cognitive demands. She advocated passionately with the administration and the special education coordinator to ensure the machine was retrieved from the surplus pile. The school, acknowledging its critical impact on the twins' ability to function and complete assignments, officially assigned the MagnaByte Opus to them. This particular device accompanied them through their 6th, 7th, and 8th-grade years at Brandon Middle, serving as a vital resource even as newer technology became prevalent among other students. It enabled them to demonstrate their intelligence and engage more fully in their education. Stella, who shared their bedroom during her high school years until she graduated, observed their attachment to the machine and the school's commitment to providing it, in stark contrast to their parents' indifference. Although she noticed their preference for this computer, she did not understand its significance as an assistive tool until Ms. Evans explained it years later. This recognition left a lasting impression on her.
 
 ### Part 2: Student Training and Education Program
+
+# The MagnaByte Opus Lifeline
+# Part 2: Student Training and Education Program
 
 The presence of Officer Davis in their 5th-grade classroom at Willow Creek Elementary created a buzz of excitement that Mrs. Gable, their regular teacher, struggled to contain. Project S.T.E.P. day was always a bit different. Officer Davis, uniformed and smiling, stood near the front, beside a tall metal cart holding a television and video player – technology that still held a certain novelty in the classroom. Luna and Leo sat at their shared table near the back. Luna adjusted the ill-fitting, slightly oversized glasses perched on her nose – a relatively new addition this year after squinting at the microwave clock had revealed her nearsightedness. The world was somewhat clearer with them, but she still found herself squinting occasionally to see the board properly, and they constantly slid down her nose. Leo watched the officer with quiet intensity, while Luna fidgeted slightly, glancing between the officer, now clearly visible thanks to her glasses, and the intriguing TV cart.  
 
@@ -98,6 +104,9 @@ Hanging up the phone, Stella stared blankly at her textbooks. The call had chang
 
 ### Part 1: Stella to the Sore Rescue
 
+# The Pressure Sore
+# Part 1: Stella to the Sore Rescue
+
 A few weeks after the pivotal call from Ms. Evans, Stella was visiting her parents' house on a Saturday afternoon. The air was stagnant, thick with the usual smell of stale beer and neglect. Luna was attempting homework at the kitchen table, while Leo was in his wheelchair in the cramped living room, listlessly watching whatever daytime television show was on. Stella went over to him. A loud burp echoed from the recliner. *Mother, that is disgusting, and you know it*, Stella thought to herself, seeing her mother down another can.
 
 "Hey, Leo," she said softly, kneeling beside his chair. "You look uncomfortable. Want me to help you shift position?"
@@ -167,6 +176,9 @@ Inside the clean but cramped apartment, the twins felt the tension ease.
 Understanding, Stella agreed. Soon, all three were settled on the bed, drifting into an exhausted but peaceful sleep.
 
 ### Part 2: Sunday with Stella
+
+# The Pressure Sore
+# Part 2: Sunday with Stella
 
 Sunday morning in the small apartment felt blessedly calm. After breakfast, Stella focused on Leo's bath.
 

@@ -9,6 +9,9 @@ series: "The Silver Gauntlet of Aethel"
 
 ### Part 1: Chapter 1: The Tide and the Torch
 
+# Book I: The Glass Sea
+# Part 1: Chapter 1: The Tide and the Torch
+
 ## Part 1: The Blacksmith's Secret
 
 ##### Scene 1: The Iron Keel
@@ -533,6 +536,9 @@ They turned toward the Queen.
 
 ### Part 2: Chapter 2: The Heart of the World
 
+# Book I: The Glass Sea
+# Part 2: Chapter 2: The Heart of the World
+
 ## Part 1: The Veins of the Earth
 
 Theme: ocean-volcanic
@@ -923,6 +929,9 @@ He turned the boat South, following the fleeing shadow of the Queen, deeper into
 
 ### Part 3: Chapter 3: The Weave of the Water
 
+# Book I: The Glass Sea
+# Part 3: Chapter 3: The Weave of the Water
+
 ## Part 1: The Anchor of the Storm
 
 Theme: ocean-storm
@@ -1218,6 +1227,9 @@ Kaelan took the tiller. He looked at his sister.
 They raised the sail. Kaelan poured a steady stream of heat into the keel, and the boat surged forward, cutting through the waves, hunting the hunter who was running blindly toward her own destruction.
 
 ### Part 4: Chapter 4: The Gyre
+
+# Book I: The Glass Sea
+# Part 4: Chapter 4: The Gyre
 
 ## Part 1: The Calm Path
 
@@ -1641,6 +1653,9 @@ With a roar of displaced air, Horg’s boat shot upward, punching through the cl
 
 ### Part 1: Chapter 1: The Silent Sector
 
+# Book II: The Star-Eater
+# Part 1: Chapter 1: The Silent Sector
+
 ## Part 1: The Poisoned Chalice
 
 Theme: space-gloom
@@ -2033,6 +2048,9 @@ She turned back to the viewport, staring at the massive, fossilized Ribcage loom
 
 ### Part 2: Chapter 2: The Ribcage of the Gods
 
+# Book II: The Star-Eater
+# Part 2: Chapter 2: The Ribcage of the Gods
+
 ## Part 1: The Ossuary of Stars
 
 Theme: space-gloom
@@ -2212,6 +2230,9 @@ They walked through the ghost ship, crossing the gantry into the Star-Eater’s 
 They were walking into the mind of a god, and the only thing waiting for them was a woman who thought she could outsmart the universe.
 
 ### Part 3: Chapter 3: The War for the Mind
+
+# Book II: The Star-Eater
+# Part 3: Chapter 3: The War for the Mind
 
 ## Part 1: The Dynasty of Ruin
 
@@ -2775,6 +2796,9 @@ They walked out of the Memory Core, leaving the ghosts of the past behind, final
 
 ### Part 4: Chapter 4: The Long Way Down
 
+# Book II: The Star-Eater
+# Part 4: Chapter 4: The Long Way Down
+
 ## Part 1: The Departure
 
 Theme: space-wonder
@@ -3326,6 +3350,9 @@ The silence in the room wasn't empty. It was full of the fire's crackle, the win
 They stood there as the twin suns set, the heroes of the age, invisible and content, ready to do absolutely nothing for a very long time.
 
 ### Part 5: Chapter 5: The Cottage
+
+# Book II: The Star-Eater
+# Part 5: Chapter 5: The Cottage
 
 ## Part 1: The Stone Fence
 

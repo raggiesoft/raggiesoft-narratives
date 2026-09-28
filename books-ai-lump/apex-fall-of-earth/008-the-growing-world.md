@@ -7,7 +7,10 @@ series: ""
 
 ## The Final Roster
 
-### Part 1: The Pattern Disruption – Wednesday, September 18, 2052 – 15:00 (Standard Galactic Time)
+### Part 1: The Pattern Disruption
+
+# The Final Roster
+# Part 1: The Pattern Disruption
 
 The residential living room was bathed in the warm, golden light of mid-afternoon. At exactly 15:00, the estate was operating in a state of quiet, focused domesticity.
 
@@ -85,7 +88,10 @@ Wyatt smiled, resting his massive hand over the top of Nora's head as she leaned
 
 The Colton family was growing one final time. And the Vanguard was already preparing to whip the new recruits into shape.
 
-### Part 2: The Rhythm Section – Thursday, July 18, 2052 – 14:00
+### Part 2: The Rhythm Section
+
+# The Final Roster
+# Part 2: The Rhythm Section
 
 The sprawling residential living room was filled with a sound that hadn't echoed across a planet in nearly a decade.
 
@@ -153,7 +159,10 @@ He looked around the sprawling living room. Leo was safely anchored by his fierc
 
 The galaxy was vast, old, and scarred. But inside the impenetrable walls of The Sanctuary, the music was loud, the perimeter was perfectly secure, and the future was incredibly bright.
 
-### Part 3: The Archives of Earth – Thursday, July 18, 2052 – 14:15
+### Part 3: The Archives of Earth
+
+# The Final Roster
+# Part 3: The Archives of Earth
 
 The final, soaring synthesizer chord of Escape Velocity slowly faded into the acoustic foam of the massive wooden speakers, leaving behind a profound, meditative silence in the living room.
 
@@ -209,7 +218,10 @@ Wyatt grinned, pulling out his datapad to connect to the massive analog stereo s
 
 "You heard him, Aria," Wyatt commanded softly, his protective heart completely full. "Cue up Hard Reset. Let's keep the music playing."
 
-### Part 4: The Fleet Upgrade – Friday, October 25, 2052 – 14:00
+### Part 4: The Fleet Upgrade
+
+# The Final Roster
+# Part 4: The Fleet Upgrade
 
 The sprawling, open-concept living room was a masterclass in sensory regulation.
 
@@ -307,7 +319,10 @@ Nora beamed, taking her place at the rear push-bars. Ellie took the front. The u
 
 "Just keeping the squad rolling," Wyatt smirked, his protective heart completely full as the Vanguard expertly maneuvered their new titanium transport around the coffee table.
 
-### Part 5: The Stabilizers – Friday, October 25, 2052 – 14:15
+### Part 5: The Stabilizers
+
+# The Final Roster
+# Part 5: The Stabilizers
 
 The fleet of specialized transports was a resounding success, but Wyatt Colton’s engineering summit wasn't quite finished.
 
@@ -385,7 +400,10 @@ Nora, Ellie, and Leo were communicating seamlessly, a unified front of neurodive
 
 "They're going to be ready, Wyatt," Sarah whispered back, resting her head against his shoulder. "When the time comes to wake the vault... they're going to be ready to lead it."
 
-### Part 6: The Enforcers – Thursday, June 12, 2053 – 04:30 (Local Eden Time)
+### Part 6: The Enforcers
+
+# The Final Roster
+# Part 6: The Enforcers
 
 The automated medical bay on Sub-Level 1 had seen its fair share of intense deliveries, but the arrival of the final Colton recruits was proving to be a grueling, physical battle.
 
@@ -475,7 +493,10 @@ The first generation of Planet Eden was ready. And in a few years, when the Vang
 
 ## The Foundations of Genesis
 
-### Part 1: The Expanded Jurisdiction – Thursday, October 10, 2053 – 09:30
+### Part 1: The Expanded Jurisdiction
+
+# The Foundations of Genesis
+# Part 1: The Expanded Jurisdiction
 
 The sprawling residential living room of The Sanctuary was bathed in the crisp, golden light of an Eden autumn. The massive hydro-glass windows offered a breathtaking view of the valley below, where the emerald alien pines were just beginning to tip with seasonal shades of amber and rust.
 
@@ -551,7 +572,10 @@ Wyatt watched his three oldest children leave the room, completely awestruck by 
 
 "We're just the maintenance crew now, Wyatt," Sarah laughed softly, sipping her tea as she watched her chaotic, beautiful, perfectly balanced family. "The kids are officially in charge."
 
-### Part 2: The Cornerstone – Tuesday, April 14, 2054 – 08:00
+### Part 2: The Cornerstone
+
+# The Foundations of Genesis
+# Part 2: The Cornerstone
 
 The deafening, raw roar of the eastern valley waterfall was a magnificent sound, but today, it was competing with the heavy, rhythmic thrum of industrial repulsor engines.
 
@@ -619,7 +643,10 @@ Wyatt let out a booming, joyous laugh, reaching out to ruffle his daughter's dar
 
 "Let's get to work, Commander," Wyatt grinned.
 
-### Part 3: The Biological Override – Friday, April 16, 2055 – 10:00 (Local Eden Time)
+### Part 3: The Biological Override
+
+# The Foundations of Genesis
+# Part 3: The Biological Override
 
 The automated medical bay on Sub-Level 1 was usually reserved for serious injuries or new arrivals, but this morning, it was functioning as a biological tailoring shop.
 
@@ -699,7 +726,10 @@ Wyatt stood up from the workbench, his chest tight with a mixture of heartbreak 
 
 "Yeah," Wyatt murmured, pulling her close as he watched his three oldest children untangle themselves. "But I think I need to hit the Fab-Foundry this afternoon. I have a feeling I'm going to be printing a lot of larger clothes and bigger armor."
 
-### Part 4: The Anomalous Data – Tuesday, August 17, 2055 – 13:00
+### Part 4: The Anomalous Data
+
+# The Foundations of Genesis
+# Part 4: The Anomalous Data
 
 The mahogany-paneled library of The Sanctuary was cool and quiet, serving as the Vanguard’s primary classroom for the afternoon.
 
@@ -781,7 +811,10 @@ Wyatt stood up, offering his hand to pull Sarah off the floor. They walked quiet
 
 "We'll just reinforce the armor," Wyatt smiled, kissing the top of her head. "They're doing great."
 
-### Part 5: The Endocrine Protocol – Friday, October 20, 2056 – 14:00 (Local Eden Time)
+### Part 5: The Endocrine Protocol
+
+# The Foundations of Genesis
+# Part 5: The Endocrine Protocol
 
 The sprawling residential living room of The Sanctuary was a study in profound, accelerated growth. Over the past year, the entire linguistic landscape of the mountain fortress had shifted. The soft, childish echoes of Mama and Dada had been completely eradicated, replaced by the crisp, highly articulate, and fiercely capable voices of the Colton squad.
 
@@ -861,7 +894,10 @@ Wyatt walked over from where the twins had been wrestling, stepping up behind Sa
 
 "They're going to need to be," Sarah whispered back, resting her hand over Wyatt's. She looked out the hydro-glass windows, toward the valley where the durasteel foundations of Genesis were waiting. "Two more years, Wyatt. Then we wake the vault."
 
-### Part 6: The First Ten – Monday, September 8, 2057 – 10:00 (Local Eden Time)
+### Part 6: The First Ten
+
+# The Foundations of Genesis
+# Part 6: The First Ten
 
 The mahogany-paneled library of The Sanctuary was operating at maximum tactical capacity.
 
@@ -923,7 +959,10 @@ He couldn't wait to meet them.
 
 The blueprints were drawn. The roster was locked. The cultural history of Earth was queued up and ready to broadcast. The countdown to their twelfth birthday—and the official dawn of a new civilization—had officially begun.
 
-### Part 7: The Sydney Protocol – Friday, October 24, 2057 – 15:00 (Local Eden Time)
+### Part 7: The Sydney Protocol
+
+# The Foundations of Genesis
+# Part 7: The Sydney Protocol
 
 The heavy, brushed-steel doors of the primary pneumatic elevator hissed shut on the residential level. For the first time in years, the entire Colton squad was descending into the deepest, coldest level of The Sanctuary.
 
@@ -1011,7 +1050,10 @@ Planet Eden was finally about to get some new neighbors.
 
 ## The Awakening
 
-### Part 1: The First Breath – Friday, January 29, 2058 – 09:00 (Local Eden Time)
+### Part 1: The First Breath
+
+# The Awakening
+# Part 1: The First Breath
 
 The atmosphere inside The Sanctuary was electric. Today was not just a celebration of life; it was the ignition sequence for a brand new world.
 
@@ -1099,7 +1141,10 @@ The Colton family stood together in the soft amber glow of the staging bay, list
 
 The triplets didn't break formation, but Nora leaned her head against Leo's shoulder, and Ellie allowed a rare, fiercely proud smile to break across her face. The Vanguard had just executed their greatest mission yet. Planet Eden was officially alive.
 
-### Part 2: The Command Staff Celebration – Friday, January 29, 2058 – 10:30 (Local Eden Time)
+### Part 2: The Command Staff Celebration
+
+# The Awakening
+# Part 2: The Command Staff Celebration
 
 The heavy brushed-steel doors of the pneumatic elevator hissed open on the residential level, instantly replacing the frigid, hyper-filtered air of the Genesis Vault with the warm, rich aroma of an absolute feast.
 
@@ -1185,7 +1230,10 @@ Wyatt wrapped his arm around Sarah’s shoulders as the chaotic, beautiful machi
 
 Down in the dark, ten artificial wombs were glowing with new life. But up here in the sunlight, the Colton family was celebrating exactly who they were: a fortress, a family, and the architects of a brand new world.
 
-### Part 3: The Gestation Protocol – Friday, October 28, 2058 – 18:00 (Local Eden Time)
+### Part 3: The Gestation Protocol
+
+# The Awakening
+# Part 3: The Gestation Protocol
 
 The nine-month gestation cycle of the Genesis Ten was not a period of waiting; it was a period of absolute, highly coordinated planetary construction.
 
@@ -1261,7 +1309,10 @@ Jack looked up at his parents, his bright eyes wide with absolute wonder. Tyler 
 
 The nine-month wait was over. The Genesis Ten were arriving at dawn.
 
-### Part 4: Arrival Day – Saturday, July 19, 2058 – 06:00 (Local Eden Time)
+### Part 4: Arrival Day
+
+# The Awakening
+# Part 4: Arrival Day
 
 The cavernous, brilliantly lit staging bay on Sub-Level 6 was silent except for the low, rhythmic hum of ten artificial gestation cylinders.
 
@@ -1361,7 +1412,10 @@ The empty, quiet mountain was suddenly filled with life. The 50,000 embryos were
 
 The village of Genesis was officially alive.
 
-### Part 5: The Roster Expansion – Saturday, July 19, 2058 – 09:00
+### Part 5: The Roster Expansion
+
+# The Awakening
+# Part 5: The Roster Expansion
 
 The initial, chaotic adrenaline of the decanting process had finally settled.
 
@@ -1465,7 +1519,10 @@ She stepped back from the console, patting the titanium rim of Leo's wheelchair.
 
 "Good base," Ellie declared, the commanding officer finally, completely satisfied with her civilization.
 
-### Part 6: The Nursery Logistics – Friday, August 2, 2058 – 14:00 (Local Eden Time)
+### Part 6: The Nursery Logistics
+
+# The Awakening
+# Part 6: The Nursery Logistics
 
 The Aegis deflector shield could effortlessly absorb an orbital plasma bombardment, but it was completely useless against the synchronized, ear-splitting demands of ten hungry infants.
 

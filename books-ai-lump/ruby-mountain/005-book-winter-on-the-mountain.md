@@ -5,11 +5,13 @@ series: "ruby-mountain"
 
 # Book: Winter on the Mountain
 
-## Chapter 1: Diana’s Lessons – Friday, October 17, 2003
+## Chapter 1: Diana’s Lessons
 
-### Part 1: The Winter Syllabus (15:00)
+### Part 1: The Winter Syllabus
 
-# Part 1: The Winter Syllabus (15:00)
+**Date:** 2003-10-17 ET
+
+# Part 1: The Winter Syllabus
 
 By three o'clock in the afternoon, the acoustic profile of The Prospector's Keep had completely transformed. The frantic, echoing footsteps of four hundred guests were gone, replaced entirely by the deep, rhythmic thrumming of Morgan’s subterranean boilers fighting the plummeting temperatures. Outside, the blizzard was burying the mountain in a total whiteout.
 
@@ -77,9 +79,11 @@ Johnny looked at the roaring commercial ovens, the highly trained cousins, and D
 
 Amanda squeezed his shoulder. "That's the point, kid."
 
-### Part 2: The Practical Lab (15:20)
+### Part 2: The Practical Lab
 
-# Part 2: The Practical Lab (15:20)
+**Date:** 2003-10-17 ET
+
+# Part 2: The Practical Lab
 
 The ten-minute break ended exactly on time. The younger cousins filed back into the kitchen, their hands scrubbed raw and dried, retying their spotless white aprons. The academic tension from the whiteboard had evaporated, replaced by the humming, kinetic anticipation of a working kitchen.
 
@@ -135,9 +139,11 @@ Amanda leaned her chin on the top of Johnny’s wheelchair, breathing in the inc
 
 Johnny rested his hands on his Quantum keyboard, feeling the ambient warmth of the fire fighting back the chill of the mountain. He didn't type anything. He just watched his family operate their fortress, completely untouched by the freezing world outside the reinforced glass.
 
-### Part 3: The Presentation (15:45)
+### Part 3: The Presentation
 
-# Part 3: The Presentation (15:45)
+**Date:** 2003-10-17 ET
+
+# Part 3: The Presentation
 
 The massive brick hearth had done its job. In less than ten minutes, the edges of the dough had puffed up into charred, blistered crowns, and the mozzarella was a bubbling, golden landscape of perfectly melted fat and crushed San Marzano tomatoes.
 
@@ -213,9 +219,11 @@ Johnny set his pizza down, his left hand dropping to his Quantum keyboard.
 
 Amanda smiled, grabbing the shaker and handing it to him. The evacuation was over. The winter had officially begun. And for the first time in his life, Johnny was exactly where he belonged.
 
-### Part 4: The Pack (16:00)
+### Part 4: The Pack
 
-# Part 4: The Pack (16:00)
+**Date:** 2003-10-17 ET
+
+# Part 4: The Pack
 
 Amanda grabbed the glass shaker of crushed red pepper flakes from the center of the table and handed it to Johnny. With slow, deliberate movements of his stiff left hand, he dusted his slice, the bright red flakes sinking instantly into the hot, bubbling oil of the melted mozzarella.
 
@@ -269,11 +277,13 @@ A cheer went up from the younger cousins.
 
 Johnny let out a quiet, raspy exhale of a laugh. The Gala they had been planning for the guests would have been a masterpiece of illusion, but this—this chaotic, warm, fiercely guarded isolation—this was the real magic of The Prospector’s Keep.
 
-## Chapter 2: The Fortress Within – Friday, October 17, 2003
+## Chapter 2: The Fortress Within
 
-### Part 1: The Pajama Protocol (18:15)
+### Part 1: The Pajama Protocol
 
-# Part 1: The Pajama Protocol (18:15)
+**Date:** 2003-10-17 ET
+
+# Part 1: The Pajama Protocol
 
 The 1897 Great Hall was the architectural crown jewel of The Prospector’s Keep. It was a cavernous, three-story expanse of exposed old-growth timber, intricate ironwork, and floor-to-ceiling reinforced glass that looked directly out over the Skagit Gorge.
 
@@ -311,11 +321,11 @@ Morgan hit a button on a remote control, and the projector beam flickered to lif
 
 Johnny didn't care what movie was playing. He let his eyes slide shut, the deep, rumbling bass of the surround sound vibrating through the mattresses. He was surrounded by a wall of flannel, fleece, and the absolute, uncompromising safety of his family. The mountain was locked down, and the pack was exactly where it was supposed to be.
 
-## Chapter 3: Cascades Concrete – Saturday, October 18, 2003
+## Chapter 3: Cascades Concrete
 
-### Part 1: The Whiteout (07:00)
+### Part 1: The Whiteout
 
-# Part 1: The Whiteout (07:00)
+# Part 1: The Whiteout
 
 The deep, heavy sleep of the Bivouac was broken by the sound of the 1897 grandfather clock striking seven in the corner of the Great Hall.
 
@@ -369,9 +379,9 @@ Amanda nodded, throwing the comforter off her shoulders. The transition was inst
 
 "Alright, kid," Amanda said, turning to Johnny with a warm, focused smile. "Morning time. Let's get you into your chair. We've got a mountain to fight."
 
-### Part 2: The Tether (07:30)
+### Part 2: The Tether
 
-# Part 2: The Tether (07:30)
+# Part 2: The Tether
 
 The second-floor service corridor was usually a quiet, utilitarian hallway used by the housekeeping staff. This morning, it was a tactical staging ground.
 
@@ -457,9 +467,9 @@ The mountain had tried to choke the Keep, and the heavy ops team had just punche
 
 "Alright," Morgan breathed, unhooking her carabiner with a sharp *clack*. "Let's go see what Diana made for breakfast."
 
-### Part 3: The Anchor and the Kitchen (07:30)
+### Part 3: The Anchor and the Kitchen
 
-# Part 3: The Anchor and the Kitchen (07:30)
+# Part 3: The Anchor and the Kitchen
 
 While Morgan’s heavy ops team was gearing up in the second-floor service corridor to fight the mountain, Amanda pushed Johnny’s wheelchair out of the Great Hall and toward the private residential wing.
 
@@ -549,9 +559,9 @@ She grabbed a warmed ceramic mug from the pass, poured the rich hot chocolate in
 
 "Fifteen minutes until the heavy ops team gets back," Diana announced, looking at the industrial clock on the wall. "Logistics team, hit the line. Let's build the breakfast."
 
-### Part 4: The Thaw (08:35)
+### Part 4: The Thaw
 
-# Part 4: The Thaw (08:35)
+# Part 4: The Thaw
 
 The massive, swinging wooden doors of the kitchen didn't just open; they were pushed hard by three heavily insulated, exhausted bodies.
 
@@ -605,9 +615,9 @@ Johnny rested his left hand on his lap desk. He took a slow sip of the hot choco
 
 He didn't type anything. He didn't need to. The blizzard outside was shrieking against the second-story glass, completely burying the first floor under thousands of tons of Cascade Concrete, but it didn't matter. The fortress was warm. The pack was fed. And the mountain was losing.
 
-### Part 5: The Deep Clean (09:30)
+### Part 5: The Deep Clean
 
-# Part 5: The Deep Clean (09:30)
+# Part 5: The Deep Clean
 
 By nine-thirty, the adrenaline of the morning had completely burned off, replaced by the sheer, imposing reality of the physical labor ahead of them.
 
@@ -667,9 +677,9 @@ Johnny looked at the spreadsheet glowing on his Quantum monitor. They had cleare
 
 "Heard that, Dispatch," Amanda smiled, walking out of the final room and dusting her hands off on her Iron-Weave Apparel pants. She walked up behind his chair, wrapping her arms around his chest from behind in one final, heavy squeeze before unlocking the brakes. "Let's roll. We've got a lot more beds to strip."
 
-### Part 6: The West Wing (11:45)
+### Part 6: The West Wing
 
-# Part 6: The West Wing (11:45)
+# Part 6: The West Wing
 
 Amanda navigated the manual wheelchair across the central landing, the rubber tires moving silently over the thick Persian runner. They left the secured, darkened East Wing behind and pushed through the heavy double doors into the West Wing of the third floor.
 
@@ -729,9 +739,9 @@ Amanda burst out laughing, unlocking the brakes on his manual wheelchair. "You a
 
 She spun the chair around, and the pack headed toward the elevator, leaving the third floor to sleep through the winter.
 
-### Part 7: The Heist (13:30)
+### Part 7: The Heist
 
-# Part 7: The Heist (13:30)
+# Part 7: The Heist
 
 The commercial elevator deposited the housekeeping crew back onto the first floor. The insulated quiet of the lower level was a stark contrast to the shrieking wind battering the third-story windows they had just left behind.
 
@@ -805,9 +815,9 @@ The pack crowded around the scarred oak table, opening cold bottles of soda and 
 
 Outside, the violent whiteout continued to hurl thousands of pounds of ice against the mountain, completely burying their private road. But inside the kitchen, surrounded by laughter, the smell of fresh bread, and the unbreakable trust of the pack, the winter lockdown didn't feel like a trap. It felt like home.
 
-### Part 8: The Heart of the Keep (14:15)
+### Part 8: The Heart of the Keep
 
-# Part 8: The Heart of the Keep (14:15)
+# Part 8: The Heart of the Keep
 
 After lunch, the pack dispersed to their afternoon resting routines. The heavy physical labor of the morning had caught up with the younger cousins, and the Great Hall was once again filled with the quiet, sleeping forms of the family recovering by the fire.
 
@@ -897,9 +907,9 @@ Morgan looked away from the firebox and down at Johnny. Her grease-stained face 
 
 "Thanks, boss," Morgan said, wiping a bead of sweat from her forehead. "The mountain isn't touching us this winter. Not while we have fuel to burn."
 
-### Part 9: The Tripwire (14:35)
+### Part 9: The Tripwire
 
-# Part 9: The Tripwire (14:35)
+# Part 9: The Tripwire
 
 The massive burner of the boiler cycled down, the roaring inferno inside the cast-iron firebox fading back to a deep, resonant idle. The ambient temperature in the subterranean bay remained incredibly warm, the heavy copper pipes ticking as they distributed the superheated steam throughout the frozen mountain fortress.
 
@@ -995,9 +1005,9 @@ Morgan closed her eyes, wrapping her arms tightly around his torso, entirely unf
 
 "I told you, kid," Morgan whispered into the quiet hum of the server racks, her voice thick with emotion. "Nobody cuts our lines. Not while I run the grid."
 
-### Part 10: The SS7 Layer (14:45)
+### Part 10: The SS7 Layer
 
-# Part 10: The SS7 Layer (14:45)
+# Part 10: The SS7 Layer
 
 Johnny finally released his fierce grip on Morgan’s heavy canvas coveralls. He leaned back in his manual wheelchair, letting out a long, ragged exhale. The sheer emotional weight of the server log had momentarily overwhelmed him, but as his nervous system resettled, his brilliant, analytical mind zeroed right back in on the data on the screen.
 
@@ -1045,9 +1055,9 @@ Morgan pushed herself off the server rack, walking back over to the wheelchair.
 
 "She brought a plastic toy to a gunfight," Morgan agreed, giving Johnny's shoulder a light, affectionate shove. "Alright, command center. You've seen the firebox, and you've seen the tripwire. What's next on the agenda? Because if we stay down here any longer, Diana is going to start paging us for dinner prep."
 
-### Part 11: The Legacy Grid (14:50)
+### Part 11: The Legacy Grid
 
-# Part 11: The Legacy Grid (14:50)
+# Part 11: The Legacy Grid
 
 Amanda looked back at the glowing CRT monitor, shaking her head. "I just can't believe they still let us keep those original 1-800 blocks. Most companies lost those years ago."
 
@@ -1085,11 +1095,11 @@ He had his twin sister pushing his chair, the undisputed master of the Keep's me
 
 The siege of Ruby Mountain had begun, and Johnny Vance was exactly where he belonged.
 
-## Chapter 4: The Air-Gap Transition – Monday, October 20, 2003
+## Chapter 4: The Air-Gap Transition
 
-### Part 1: Logistical Triage (08:00)
+### Part 1: Logistical Triage
 
-# Part 1: Logistical Triage (08:00)
+# Part 1: Logistical Triage
 
 The silence inside The Prospector's Keep was absolute.
 
@@ -1163,11 +1173,13 @@ Victoria took a sip of her dark-roast coffee, listening to the deep, rhythmic vi
 
 They weren't hoteliers anymore. The mountain had closed the door, and the Vanguard was simply locking the vault.
 
-## Chapter 5: The Brotherhood of the Air-Gap – Thursday, October 23, 2003
+## Chapter 5: The Brotherhood of the Air-Gap
 
-### Part 1: The First Summit (09:00)
+### Part 1: The First Summit
 
-# Part 1: The First Summit (09:00)
+**Date:** 2003-10-23 ET
+
+# Part 1: The First Summit
 
 The Vanguard convoy moved down the unplowed void of State Route 20 like a mechanized military column.
 

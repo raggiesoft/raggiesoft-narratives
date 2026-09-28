@@ -5,11 +5,11 @@ series: "meredith"
 
 # Book 4: The Vanguard
 
-## Chapter 1: The First Drop-Off – Monday, August 25, 2003
+## Chapter 1: The First Drop-Off
 
-### Part 1: The Garage Barracks – 6:00 AM
+### Part 1: The Garage Barracks
 
-# Part 1: The Garage Barracks – 6:00 AM
+# Part 1: The Garage Barracks
 
 The weight of the blankets in the converted garage was a heavy, grounding anchor. David woke to the familiar, rhythmic breathing of the three girls surrounding him. He was pinned securely in the center of the massive, custom-built bed. Meredith’s arm was thrown heavily over his chest from the left, acting as a human weighted blanket against his morning spasticity. To his right, Kate was curled on her side, perfectly bracketed by Morgan on the far edge.
 
@@ -43,9 +43,9 @@ David let out a sharp, amused huff from his wheelchair, his lips twitching into 
 
 "I know. I'll call Tracy," Morgan said, pulling a ribbed tank top over her head. "I'll make an appointment to ask about color removal for this afternoon, right after we get her hardware checked."
 
-### Part 2: The Commute – 8:15 AM
+### Part 2: The Commute
 
-# Part 2: The Commute – 8:15 AM
+# Part 2: The Commute
 
 The drive from the quiet perimeter of Delaney Street to the concrete sprawl of downtown Norfolk took about thirty minutes. David watched the city wake up through the passenger window of the modified family van, the heavy, resistive-touch OmniTalk 3000 already clamped securely to his manual wheelchair's frame. He felt a tightening in his chest—a spike of sensory anticipation. Today was his very first day of college at the Community College of Hampton Roads. There were no high school IEP meetings here, no familiar aides, just thousands of strangers and his freshman SDV 100 orientation class.
 
@@ -71,9 +71,9 @@ David gave his dad a firm nod, gripping the friction tape on the handrims of his
 
 David smiled, a genuine, unshielded expression. He wheeled himself down the ramp and onto the downtown pavement, ready to face the overwhelming environment of the college campus, knowing exactly whose face was waiting for him behind the glass of his screen.
 
-### Part 3: The Walker Building Lounge – 8:30 AM
+### Part 3: The Walker Building Lounge
 
-# Part 3: The Walker Building Lounge – 8:30 AM
+# Part 3: The Walker Building Lounge
 
 The automatic doors of the Walker Building slid open, welcoming David into the blissfully air-conditioned lobby. He gripped the handrims of his manual chair and navigated toward the elevator bank, the friction tape steadying his hold. He pressed the up button, waited for the familiar mechanical *ding*, and rolled inside, hitting the button for the third floor.
 
@@ -121,9 +121,9 @@ Vesper laughed, a light, airy sound. "It is if you like numbers. I'm just taking
 
 David nodded, offering a small smile. His literal, pragmatic brain processed the interaction exactly as it was presented: a fellow student waiting for class, making polite conversation, and offering to walk to the same building. It was a perfectly normal, pleasant start to his college career.
 
-### Part 4: The InfoLink Update – 10:15 AM
+### Part 4: The InfoLink Update
 
-# Part 4: The InfoLink Update – 10:15 AM
+# Part 4: The InfoLink Update
 
 For the next hour, the conversation flowed easily. Vesper proved to be incredibly talkative, which suited David perfectly. He didn't have to strain to keep the interaction going; he simply listened, nodded, and occasionally typed brief responses into his open Quantum Suite WritePad document to answer her questions.
 
@@ -171,7 +171,10 @@ Vesper pushed him down the corridor until they reached the door for SDV 100. Rig
 
 David nodded, offering a warm smile and a polite wave as she turned and walked into the math classroom. He gripped his wheels and rolled himself into SDV 100, feeling incredibly accomplished. His first college interaction was a complete success, and he hadn't even opened a textbook yet.
 
-### Interlude: The Color Correction – 11:15 AM
+### Interlude: The Color Correction
+
+# Chapter 1: The First Drop-Off
+# Interlude: The Color Correction
 
 # Interlude: The Color Correction – 11:15 AM
 
@@ -213,9 +216,9 @@ Morgan watched her sister in the mirror. "You don't have to stay for the rotten 
 
 Morgan smiled, settling deeper into the vinyl chair. The perimeter was secure, David was safe in his SDV 100 class, and the twins were preparing to rebuild their ultimate visual weapon.
 
-### Part 5: SDV 100 – 11:00 AM
+### Part 5: SDV 100
 
-# Part 5: SDV 100 – 11:00 AM
+# Part 5: SDV 100
 
 David rolled through the doorway of the Martin Building classroom, his tires gliding smoothly over the linoleum floor. He scanned the room, his analytical mind immediately taking inventory. The classroom was designed to hold thirty students, but it felt remarkably empty. There were only nine other students scattered across the rows, and as David navigated toward the front, he realized he was the only male in the room.
 
@@ -289,9 +292,9 @@ David smiled, a sharp, unshielded grin. He tapped his keyboard, letting the robo
 
 A ripple of warm, respectful nods moved through the nine women in the room. Professor Hayes smiled, marking a check on her roster. David leaned back in his manual chair, feeling his muscles relax. SDV 100 was going to be an easy class.
 
-### Part 6: The Foundation – 11:20 AM
+### Part 6: The Foundation
 
-# Part 6: The Foundation – 11:20 AM
+# Part 6: The Foundation
 
 With the icebreaker finished and the tension in the room thoroughly dissolved, Professor Hayes moved to the dry-erase board at the front of the classroom.
 
@@ -325,9 +328,9 @@ David gave a sharp, affirmative grunt, offering a warm smile.
 
 "Good," she said, gesturing down the long corridor toward the main elevator bank. "My calculus professor spent fifty minutes talking about derivatives. My brain is officially fried. Are you ready to go get those burgers?"
 
-### Part 7: The Promenade at Granby – 11:55 AM
+### Part 7: The Promenade at Granby
 
-# Part 7: The Promenade at Granby – 11:55 AM
+# Part 7: The Promenade at Granby
 
 The transition from the academic quiet of the classroom to the humid Norfolk air was abrupt. Vesper easily took control of the heavy rubber push handles of David's manual wheelchair, steering him out the front doors of the Martin Building. They took a right on the sidewalk, took another right into the open brick plaza, and navigated the single city block over to Monticello Avenue. After waiting for the crosswalk light, Vesper pushed him across the wide street and through the main glass entrance of The Promenade at Granby.
 
@@ -403,9 +406,9 @@ Meredith navigated them to Level S4, where her sedan was parked. She opened the 
 
 She climbed into the driver's seat, engaged the clutch, and smoothly shifted the manual transmission into first gear. They spiraled down to the ground floor, where Meredith paid the parking attendant. She pulled out of the garage, took a left onto City Hall Ave, and merged onto I-264 East, putting the concrete sprawl of downtown Norfolk in the rearview mirror as they headed back to the safety of the Vanguard.
 
-### Part 8: The Debrief – 12:45 PM
+### Part 8: The Debrief
 
-# Part 8: The Debrief – 12:45 PM
+# Part 8: The Debrief
 
 The interior of Meredith's practical sedan was cool and quiet, the low hum of the tires on the asphalt serving as a comforting white noise. They were cruising down I-264 East, leaving the concrete towers of downtown Norfolk behind them.
 
@@ -457,9 +460,9 @@ David double-blinked, a fresh wave of amusement hitting him.
 
 David nodded enthusiastically. He was ready to get Morgan, get home, and count down the hours until he could log onto InfoLink Messenger to tell Hannah about the absolute disaster of his first college lunch.
 
-### Part 9: The Salon Debrief – 1:15 PM
+### Part 9: The Salon Debrief
 
-# Part 9: The Salon Debrief – 1:15 PM
+# Part 9: The Salon Debrief
 
 The moment David and Meredith pushed through the glass doors of Tracy's salon, a wall of putrid, sulfurous air hit them. True to Meredith's warning, the chemical color stripper smelled exactly like rotten eggs. David wrinkled his nose, but he gripped the handrims of his manual wheelchair and pushed forward, determined to power through the stench for Morgan's sake.
 
@@ -507,9 +510,9 @@ As he diligently typed out his schedule, blocking off the evening hours specific
 
 But as he looked at Morgan's fierce reflection in the mirror, he knew the Vanguard was ready. Vesper seemed exactly like the kind of person who would push the boundary, just to find out if the twins were bluffing.
 
-### Part 10: The Library Intercept – 6:15 PM
+### Part 10: The Library Intercept
 
-# Part 10: The Library Intercept – 6:15 PM
+# Part 10: The Library Intercept
 
 The five-hour marathon finally came to an end. Tracy turned off the blow dryer and spun Morgan’s vinyl chair around to face the mirror.
 
@@ -555,9 +558,9 @@ Kate turned back from the window. She looked at Meredith, then glanced back at D
 
 "Alright," Meredith said, turning onto Delaney Street, the familiar, comforting sight of their neighborhood coming into view. "Let's get inside. When the adults get home from work tonight, we need to have a full family briefing on Vesper Vance. David, you can relax until the long-distance rates drop at nine. Then, you can finally call Hannah."
 
-### Part 11: The Family Briefing – 6:45 PM
+### Part 11: The Family Briefing
 
-# Part 11: The Family Briefing – 6:45 PM
+# Part 11: The Family Briefing
 
 The kitchen at 1854 Delaney Street was filled with the chaotic, comforting hum of the evening routine. The microwave beeped repeatedly as various containers of leftovers were reheated and passed around the large dining table. Morgan was eating with absolute, ravenous focus. Because her marathon color-correction appointment at the salon had taken five grueling hours, she had completely missed lunch, and she was making up for it now with a massive plate of baked ziti.
 
@@ -587,9 +590,9 @@ With the perimeter officially secured and the adults briefed, the tension at the
 
 It was 6:45 PM. He felt a nervous, excited flutter in his stomach. He just had to wait a little over two hours. At 9:00 PM, the exorbitant long-distance phone rates would finally drop. He could retreat to the safety of the converted garage, pick up the landline, and finally place the call across the Pacific Ocean to hear Hannah's voice in Honolulu.
 
-### Part 12: The Evening Routine – 8:00 PM
+### Part 12: The Evening Routine
 
-# Part 12: The Evening Routine – 8:00 PM
+# Part 12: The Evening Routine
 
 Morgan stood in the center of the expansive, accessible bathroom, wrestling her waist-length, honey-caramel hair into a massive plastic claw clip. With a dramatic sigh, she stretched a crinkly, oversized plastic shower cap over her head, snapping the elastic band securely against her forehead.
 
@@ -623,9 +626,9 @@ She stared at the empty space on the bed where Hannah used to sleep.
 
 But as the digital clock on the bedside table glowed 8:30 PM, Morgan smiled. The physical heavy lifting for the day was almost over. In just thirty minutes, the long-distance rates would drop, and the missing piece of their Vanguard would finally be on the other end of the line.
 
-### Part 13: The Summons – 8:55 PM
+### Part 13: The Summons
 
-# Part 13: The Summons – 8:55 PM
+# Part 13: The Summons
 
 The bathroom door cracked open just an inch, releasing a thick, humid cloud of warm air. Morgan stood in the dry hallway, her plastic shower cap firmly in place, extending her arms blindly through the gap to hand off the neat stacks of cotton pajamas.
 
@@ -695,9 +698,9 @@ He looked over at Meredith and Morgan, who were already enthusiastically debatin
 
 The perimeter was secure, and the anomaly was finally coming home.
 
-### Part 14: The Vanguard Rests – 10:15 PM
+### Part 14: The Vanguard Rests
 
-# Part 14: The Vanguard Rests – 10:15 PM
+# Part 14: The Vanguard Rests
 
 The adrenaline of the phone call slowly gave way to the deep, heavy exhaustion of a long, emotionally massive day. As the adults dispersed to their own rooms and the house began to quiet down, Meredith and Morgan took the push handles of the manual wheelchairs and guided David and Kate back into the cool, familiar safety of the converted garage barracks.
 
@@ -723,9 +726,9 @@ Hannah was coming home.
 
 ## Chapter 2: The Virginia Beach Perimeter
 
-### Part 1: Morning in the Barracks – 8:30 AM
+### Part 1: Morning in the Barracks
 
-# Part 1: Morning in the Barracks – 8:30 AM
+# Part 1: Morning in the Barracks
 
 The Tuesday morning sun filtered through the high, frosted windows of the converted garage, casting a soft, warm glow across the massive shared mattress.
 
@@ -773,9 +776,9 @@ Morgan laughed, sliding a plate of toaster waffles onto the table in front of he
 
 Kate buried her face in her hands, her shoulders shaking with silent, breathy giggles. It was absurd, but it worked. With the Vanguard surrounding her, the Virginia Beach campus didn't seem so scary after all.
 
-### Part 2: The Acoustic Clarification – 12:15 PM
+### Part 2: The Acoustic Clarification
 
-# Part 2: The Acoustic Clarification – 12:15 PM
+# Part 2: The Acoustic Clarification
 
 By noon, the slow, peaceful morning had transitioned into a highly coordinated military operation. The Vanguard assembled in the driveway around Meredith’s practical sedan.
 
@@ -817,9 +820,9 @@ David typed quickly on his keyboard, hitting the trigger to send the text throug
 
 Morgan leaned forward, resting her elbows on the table behind Kate. "Let's see what the VB campus has to offer. My vocal cords are warmed up and ready for stereo."
 
-### Part 3: The Princess Anne Perimeter – 12:45 PM
+### Part 3: The Princess Anne Perimeter
 
-# Part 3: The Princess Anne Perimeter – 12:45 PM
+# Part 3: The Princess Anne Perimeter
 
 The Vanguard navigated the wide, sunny corridors of the Princess Anne Building, a sprawling brick complex at the heart of the Virginia Beach campus. Unlike David's experience in the cramped Martin Building, the hallways here were wide enough that they could easily roll two abreast.
 

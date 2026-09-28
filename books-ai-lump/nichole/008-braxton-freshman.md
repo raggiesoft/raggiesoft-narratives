@@ -9,6 +9,9 @@ series: "Nichole"
 
 ### Part 1: The Sorting Failure
 
+# The First Semester
+# Part 1: The Sorting Failure
+
 ## Date: Friday, August 27, 2004 Time: 9:00 AM Location: The Braxton State University Arena (The Bull Pen)
 
 The elevator doors slid open at the "Event Level" of the brand-new BSU Arena.
@@ -137,6 +140,9 @@ They rolled out the back way, bypassing the chaos entirely. They had the cards. 
 
 ### Part 2: The System Reboot
 
+# The First Semester
+# Part 2: The System Reboot
+
 ## Date: Friday, August 27, 2004 Time: 9:45 AM Location: The Media Room (Quiet Zone)
 
 The heavy soundproof door clicked shut, sealing out the chaos of the arena floor. The silence in the media room was sudden and absolute.
@@ -239,6 +245,9 @@ They rolled out of the quiet room and back into the lights, two soldiers rejoini
 
 ### Part 3: The Assembly
 
+# The First Semester
+# Part 3: The Assembly
+
 ## Date: Friday, August 27, 2004 Time: 10:15 AM Location: The Family Restroom, Concourse Level
 
 Before re-entering the sensory fray of the arena floor, logic dictated a final logistical check.
@@ -318,6 +327,9 @@ The orientation continued, the speeches washing over them. But the fear was gone
 As the band struck up the alma mater, Nichole Bennett—Freshman, Technical Communication Major, Resident of The Foundry—sat up straight in her manual chair and faced her future.
 
 ### Part 4: The Tactical Retreat
+
+# The First Semester
+# Part 4: The Tactical Retreat
 
 ## Date: Friday, August 27, 2004 Time: 12:00 PM Location: The University Dining Hall (The Trough)
 
@@ -434,6 +446,9 @@ She closed her eyes.
 But for now? For now, she was just ready for a nap.
 
 ### Part 5: The Fortress Weekend
+
+# The First Semester
+# Part 5: The Fortress Weekend
 
 ## Date: August 28, 2004 Time: 10:00 AM Location: Unit 404, The Foundry Lofts, Foundry Square
 
@@ -649,6 +664,9 @@ They slept. Monday was coming. But tonight, they were untouchable.
 
 ### Part 1: The Zero-Friction Morning
 
+# The Machine in Motion
+# Part 1: The Zero-Friction Morning
+
 ## Date: Monday, August 30, 2004 Time: 6:30 AM Location: Unit 404, The Foundry Lofts
 
 The alarm on the bedside table didn't blare. It started with a low, gradual hum—a custom "soft wake" setting Patrick had programmed so it wouldn't trigger Nichole's startle reflex.
@@ -683,6 +701,9 @@ Nichole tapped the counter twice. *Up.*
 
 ### Part 2: The Commute
 
+# The Machine in Motion
+# Part 2: The Commute
+
 ## Time: 7:45 AM Location: The Braxton Link (Foundry Square Station)
 
 They rolled out of Unit 404 and took the resident elevator down to Basement Level 1.
@@ -708,6 +729,9 @@ She remembered the terrified boy who had frantically pushed her over speed bumps
 She reached out and tapped his hand on the rail.
 
 ### Part 3: The Gen-Ed Pact
+
+# The Machine in Motion
+# Part 3: The Gen-Ed Pact
 
 ## Time: 8:40 AM Location: College of Arts & Sciences, Room 104
 
@@ -744,6 +768,9 @@ Patrick smiled, clicked his pen, and wrote the date at the top of his engineerin
 The Bennett Machine was officially open for business.
 
 ### Part 4: The First Lecture
+
+# The Machine in Motion
+# Part 4: The First Lecture
 
 ## Date: Monday, August 30, 2004 Time: 9:00 AM Location: College of Arts & Sciences, Room 104 (English 101)
 
@@ -786,6 +813,9 @@ BEGIN.
 Patrick smiled. He wrote the date on his graph paper. The Machine was running.
 
 ### Part 5: The Clinical Override
+
+# The Machine in Motion
+# Part 5: The Clinical Override
 
 ## Date: October 12, 2004 Time: 5:34 AM Location: The Master Suite, Unit 404
 
@@ -933,6 +963,9 @@ He didn't ask. He told. And as he spoke, he was already pulling her clothes out 
 
 ### Part 6: The Green Light
 
+# The Machine in Motion
+# Part 6: The Green Light
+
 ## Date: October 12, 2004 Time: 5:48 AM Location: The Master Suite, Unit 404
 
 The phone on the nightstand rang. It wasn't the soft chirping of a social call; it was the harsh, double-ring of a professional line.
@@ -1002,6 +1035,9 @@ He grabbed the go-bag. He grabbed his keys.
 They rolled out into the hallway, moving with the silent, grim determination of a rescue squad. The Fortress was active. The Machine was moving. And they were going to get that prescription if Patrick had to row the boat himself.
 
 ### Part 7: The Transit Chase
+
+# The Machine in Motion
+# Part 7: The Transit Chase
 
 ## Date: October 12, 2004 Time: 6:00 AM Location: Foundry Square Station (Level B1 - The Link)
 
@@ -1098,6 +1134,9 @@ Patrick locked the wheelchair down. He sat in the jump seat next to her, his kne
 The bus roared out of the station, turning onto Broadway. They were ten minutes early. The Machine was running hot, but it was running on time.
 
 ### Part 8: The Checkpoint Failure
+
+# The Machine in Motion
+# Part 8: The Checkpoint Failure
 
 ## Date: October 12, 2004 Time: 7:52 AM Location: Newport Hospital, Main Lobby
 
@@ -1353,6 +1392,9 @@ They left the office five minutes later, headed for the pharmacy, the crisis man
 
 ### Part 9: The Realization
 
+# The Machine in Motion
+# Part 9: The Realization
+
 ## Date: October 12, 2004 Time: 8:15 AM Location: Exam Room 3
 
 The exam was over. The prescription paper was tucked safely into Patrick’s pocket.
@@ -1423,6 +1465,9 @@ Nichole didn't look for the man. She just watched Patrick’s hands on her chair
 
 ### Part 10: The Wrap Up
 
+# The Machine in Motion
+# Part 10: The Wrap Up
+
 ## Date: October 12, 2004 Time: 8:30 AM Location: The Pharmacy Waiting Area
 
 They were sitting in the plastic chairs, waiting for the pharmacist to mix the Nystatin. The adrenaline had faded, but the image of the screaming man was still fresh.
@@ -1484,6 +1529,9 @@ Patrick laughed, wrapping his arm around her shoulders.
 "Yeah. We were."
 
 ### Part 11: The Treatment Protocol
+
+# The Machine in Motion
+# Part 11: The Treatment Protocol
 
 ## Date: October 12, 2004 Time: 10:15 AM Location: The Master Suite, Unit 404
 
@@ -1584,6 +1632,9 @@ Patrick offered a tired, lopsided smile. He reached out and squeezed her hand—
 He stood up to dim the lights. The Fortress was secure, the medicine was deployed, and the healing could finally begin.
 
 ### Part 12: The Double Ambush
+
+# The Machine in Motion
+# Part 12: The Double Ambush
 
 ## Date: November 14, 2004 Time: 1:30 PM Location: The Student Union, Second Floor Lounge (The "Quiet Zone")
 
@@ -1775,6 +1826,9 @@ He kissed her forehead.
 
 ### Part 13: The Sub-Level Sanctuary
 
+# The Machine in Motion
+# Part 13: The Sub-Level Sanctuary
+
 ## Date: November 14, 2004 Time: 1:40 PM Location: Engineering Hall, Basement Level
 
 They reached the heavy steel door of Server Room B. Patrick swiped his student ID.
@@ -1911,6 +1965,9 @@ She tapped her armrest. *Safe.*
 
 ### Part 14: The Filing
 
+# The Machine in Motion
+# Part 14: The Filing
+
 ## Date: November 14, 2004, Time: 2:50 PM, Location: Braxton State Campus Police Station
 
 Sergeant Miller watched the footage on the monitor. He saw the grainy image of Kyle cornering Nichole. He saw the hand on the thigh. He saw Patrick’s strike.
@@ -1974,6 +2031,9 @@ Patrick smiled. It was a fierce, proud smile.
 "Yeah," Patrick said. "Clean."
 
 ### Part 15: The Loudmouth
+
+# The Machine in Motion
+# Part 15: The Loudmouth
 
 ## Date: November 14, 2004, Time: 3:10 PM, Location: The Bull Pen (Student Dining Hall)
 
@@ -2078,6 +2138,9 @@ David, the RA, watched him go. He picked up his cold pasta.
 ## Nichole Adapts
 
 ### Part 1: Engine Failure
+
+# Nichole Adapts
+# Part 1: Engine Failure
 
 ## Date: February 10, 2005 (Freshman Year) Time: 6:15 AM Location: The Master Suite, Unit 404, The Foundry Lofts
 
@@ -2597,6 +2660,9 @@ He placed it on the desk.
 
 ### Part 2: The Malpractice Shield
 
+# Nichole Adapts
+# Part 2: The Malpractice Shield
+
 Date: September 16, 2005
 
 Time: 10:00 AM
@@ -2666,6 +2732,9 @@ She tapped her screen.
 "Yeah," Patrick smiled, patting the cover. "Now let them try to tell us we're a liability."
 
 ### Part 3: The Integration
+
+# Nichole Adapts
+# Part 3: The Integration
 
 Date: September 22, 2005
 
@@ -2754,6 +2823,9 @@ Nichole smiled. She clicked her mouse.
 
 ### Part 1: The Handover (The Night Before) Time: 8:00 PM
 
+# The Procedure: "The Tune-Up"
+# Part 1: The Handover (The Night Before) Time: 8:00 PM
+
 The living room of Unit 404 was a mix of post-Christmas chaos and pre-surgical precision.
 
 On the coffee table lay the spoils of the day. They had spent the morning in Portsmouth with the family, opening gifts and eating leftovers, before packing up the van for the short drive back to Braxton. There were stacks of new DVDs, a few video games purchased with electronics store gift cards, and a new hooded sweatshirt for Nichole.
@@ -2822,6 +2894,9 @@ Nichole grinned. She tapped her screen.
 
 ### Part 2: The Admission
 
+# The Procedure: "The Tune-Up"
+# Part 2: The Admission
+
 ## **Date:** Tuesday, December 27, 2005 **Time:** 05:30 AM **Location:** University Medical Center, Surgical Admissions Desk
 
 Outside the sliding glass doors, a light snow was falling. It was a gentle, post-Christmas snow—dusting the dormant grass of the hospital lawn but melting instantly on the salted asphalt of the drop-off lane.
@@ -2887,6 +2962,9 @@ Patrick grinned, grabbing the handles of her chair.
 "Damn straight. Let's roll."
 
 ### Part 3: The Surgical Consult
+
+# The Procedure: "The Tune-Up"
+# Part 3: The Surgical Consult
 
 ## **Date:** Tuesday, December 27, 2005 **Time:** 06:30 AM **Location:** Pre-Op Holding Bay 4, University Medical Center
 
@@ -2996,6 +3074,9 @@ Patrick smiled, finally stepping out of "Nurse Mode" to grab her hand.
 
 ### Part 4: The Separation
 
+# The Procedure: "The Tune-Up"
+# Part 4: The Separation
+
 ## **Date:** Tuesday, December 27, 2005 **Time:** 07:15 AM **Location:** Pre-Op Holding Bay 4 -\> OR Hallway
 
 The Anesthesiologist, Dr. Liu, stepped into the bay. He was holding a syringe labeled **MIDAZOLAM**.
@@ -3104,6 +3185,9 @@ Patrick took a breath. He touched the LPN badge clipped to his chest.
 
 ### Part 5: The War Room
 
+# The Procedure: "The Tune-Up"
+# Part 5: The War Room
+
 ## **Date:** Tuesday, December 27, 2005 **Time:** 08:45 AM **Location:** Surgical Waiting Room, University Medical Center
 
 The waiting room TV was blaring a morning talk show discussing "Post-Holiday Detox Diets," but Patrick didn't hear it. He was deep in the operational manual for the new hardware.
@@ -3188,7 +3272,10 @@ Patrick stepped through the doors, crossing the threshold from "Waiting" to "Act
 
 ## Nichole’s Recovery
 
-### Part 1: The Recovery Room (The Advocacy Test)
+### Part 1: The Recovery Room
+
+# Nichole’s Recovery
+# Part 1: The Recovery Room
 
 ## **Date:** Tuesday, December 27, 2005 **Time:** 09:30 AM **Location:** PACU (Post-Anesthesia Care Unit), Bay 3
 
@@ -3368,6 +3455,9 @@ Nichole blinked slowly. She reached out and tapped his arm.
 
 ### Part 2: The Shift Partner
 
+# Nichole’s Recovery
+# Part 2: The Shift Partner
+
 ## **Date:** Tuesday, December 27, 2005 **Time:** 12:30 PM **Location:** Phase II Recovery (Step-Down Unit), Bed 12
 
 The Step-Down Unit was entering the "Lunch Lull." The frantic energy of the morning surgeries had settled into the rhythmic checking of vitals and the clinking of lunch trays.
@@ -3449,6 +3539,9 @@ Nichole blinked slowly. She reached out and patted the foam block. *Friend.*
 "Almost there," Patrick said, checking his watch again. "Meds. Paperwork. Then we break out of here."
 
 ### Part 3: The Discharge
+
+# Nichole’s Recovery
+# Part 3: The Discharge
 
 ## **Date:** Tuesday, December 27, 2005 **Time:** 6:00 PM **Location:** Phase II Recovery (Step-Down Unit), Bed 12
 
@@ -3578,6 +3671,9 @@ He pushed her through the doors and into the concrete echo of the parking garage
 
 ### Part 4: The \
 
+# Nichole’s Recovery
+# Part 4: The \
+
 ## **Date:** Tuesday, December 27, 2005 **Time:** 6:30 PM **Location:** The Foundry Lofts, Parking Garage
 
 The drive from the hospital had been tense. The wipers on the van were slapping away a mix of rain and heavy, wet snow. The temperature was dropping, and the roads were transitioning from "wet" to "glazed."
@@ -3647,6 +3743,9 @@ She gave him a tiny, tired thumbs up.
 "Okay," Patrick said, grabbing the push handles and draping her heavy wool blanket over her legs. "Let's get you upstairs. The heat is on."
 
 ### Part 5: The Clinical Standard
+
+# Nichole’s Recovery
+# Part 5: The Clinical Standard
 
 ## **Date:** Tuesday, December 27, 2005 **Time:** 7:15 PM **Location:** Unit 404, The Foundry Lofts
 
@@ -3768,7 +3867,10 @@ Nichole let out a long, drug-heavy sigh. She reached out and found his hand. She
 
 *My Medic.*
 
-### Part 6: The Night Shift (The Spasm Protocol)
+### Part 6: The Night Shift
+
+# Nichole’s Recovery
+# Part 6: The Night Shift
 
 ## **Date:** Wednesday, December 28, 2005 **Time:** 02:00 AM **Location:** The Master Suite, Unit 404
 
@@ -3848,7 +3950,10 @@ He hadn't panicked. He hadn't called Mom in Portsmouth. He hadn't called the on-
 
 He was the Caregiver. The power was on. And the Machine was still running.
 
-### Part 7: New Year\'s Eve (The Shift Change)
+### Part 7: New Year\'s Eve
+
+# Nichole’s Recovery
+# Part 7: New Year\'s Eve
 
 ## **Date:** Saturday, December 31, 2005 **Time:** 7:00 PM **Location:** Unit 404, The Foundry Lofts
 
@@ -4028,6 +4133,9 @@ He closed his eyes. The Machine powered down.
 
 ### Part 1: The Winter Siege
 
+# The Routine
+# Part 1: The Winter Siege
+
 ## **Date:** Tuesday, January 17, 2006 (3 Weeks Post-Op) **Time:** 10:00 AM **Location:** Unit 404, The Foundry Lofts
 
 The novelty of the "New Year" had worn off. The adrenaline of the surgery was gone. Now, it was just the **Grind**.
@@ -4128,6 +4236,9 @@ She wasn't just surviving anymore. She was waiting to live.
 
 ### Part 2: The Fuel Station
 
+# The Routine
+# Part 2: The Fuel Station
+
 ## **Date:** Tuesday, January 17, 2006 **Time:** 12:00 PM **Location:** The Kitchen Island, Unit 404
 
 "Lunch in five," Patrick announced, drying his hands on a dish towel.
@@ -4191,6 +4302,9 @@ Nichole rolled her eyes, but she grabbed the glass. She drank. The water was coo
 Nichole ate the lentils. They tasted a little better now.
 
 ### Part 3: The Creative Session
+
+# The Routine
+# Part 3: The Creative Session
 
 ## **Date:** Tuesday, January 17, 2006 **Time:** 1:00 PM **Location:** The Living Room, Unit 404
 
@@ -4328,6 +4442,9 @@ Nichole didn't use the board. She just looked him dead in the eye and nodded. *I
 
 ### Part 4: The Physical Toll
 
+# The Routine
+# Part 4: The Physical Toll
+
 ## **Date:** Tuesday, January 17, 2006 **Time:** 4:00 PM **Location:** The Master Bedroom, Unit 404
 
 The alarm on Patrick’s watch beeped. *Beep-beep. Beep-beep.*
@@ -4448,7 +4565,10 @@ It was the only communication needed.
 
 *We survived.*
 
-### Part 5: The Downgrade (Day Release)
+### Part 5: The Downgrade
+
+# The Routine
+# Part 5: The Downgrade
 
 ## **Date:** Tuesday, February 14, 2006 (Valentine's Day) **Time:** 10:00 AM **Location:** The Living Room, Unit 404
 

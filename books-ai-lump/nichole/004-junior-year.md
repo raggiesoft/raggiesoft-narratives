@@ -9,6 +9,9 @@ series: "Nichole"
 
 ### Part 1: Transitioning Nichole’s IEP
 
+# Planning for the Future
+# Part 1: Transitioning Nichole’s IEP
+
 ## Date: May 15, 2002 Location: Conference Room B, Northwood High School Event: The Junior Year Transition IEP Meeting
 
 The meeting had been going for thirty minutes. The table was covered in graphs.
@@ -82,6 +85,9 @@ Tom and Ellen walked out of the conference room and into the hallway, feeling li
 They were ready for the future.
 
 ### Part 2: The Poverty Trap
+
+# Planning for the Future
+# Part 2: The Poverty Trap
 
 ## Date: July 15, 2002 Time: 10:00 AM Location: Social Security Administration Office, Virginia Beach, VA
 
@@ -205,6 +211,9 @@ Nichole smiled.
 
 ### Part 3: The Offer
 
+# Planning for the Future
+# Part 3: The Offer
+
 ## Date: July 15, 2002, Time: 11:30 AM, Location: The Bennett Family Van (Driving home from SSA Office)
 
 The van was quiet, the only sound the hum of the tires on the asphalt. The air conditioning was blasting, fighting off the July heat.
@@ -304,6 +313,9 @@ And that was exactly what she had wanted all along.
 ## The Handover
 
 ### Part 1: The First Shift
+
+# The Handover
+# Part 1: The First Shift
 
 ## Date: July 15, 2002 Time: 7:30 PM Location: 1850 Delaney Street, Virginia Beach, VA
 
@@ -585,6 +597,9 @@ She closed her eyes. The Bennett Machine powered down for the night, fully opera
 
 ### Part 2: The Certification
 
+# The Handover
+# Part 2: The Certification
+
 ## Date: July 20, 2002 (Saturday) Time: 8:45 AM Location: American Red Cross, Virginia Beach Chapter
 
 The classroom smelled of rubbing alcohol and rubber.
@@ -774,6 +789,9 @@ He got into the driver's seat. He placed the certification card in the center co
 Another system upgrade complete. The Machine was now rated for emergency operations.
 
 ### Part 3: The Maintenance Crew
+
+# The Handover
+# Part 3: The Maintenance Crew
 
 ## Date: July 21, 2002 (Sunday) Time: 10:15 AM Location: 1850 Delaney Street, Hallway Bathroom
 

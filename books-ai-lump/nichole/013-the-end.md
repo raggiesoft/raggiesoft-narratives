@@ -9,6 +9,9 @@ series: "Nichole"
 
 ### Part 1: Date: February 14, 2058 Age: 72 Location: The Master Suite, 95 West Main Road, Portsmouth, RI
 
+# The Synchronized Shutdown
+# Part 1: Date: February 14, 2058 Age: 72 Location: The Master Suite, 95 West Main Road, Portsmouth, RI
+
 The winter of 2058 was cold, but the Fortress was warm.
 
 Patrick and Nichole lay in the King bed. The room was quiet, save for the rhythmic hum of the oxygen concentrator in the corner—a shared resource now. The clear tubing split in a Y-connector, feeding them both.
@@ -54,6 +57,9 @@ Nichole let out a final, soft sigh against his neck. Patrick followed her a mome
 The rhythm stopped. The Machine powered down.
 
 ### Part 2: Epilogue: The Legacy
+
+# The Synchronized Shutdown
+# Part 2: Epilogue: The Legacy
 
 ## Date: February 15, 2058 Location: The Bennett Wing
 

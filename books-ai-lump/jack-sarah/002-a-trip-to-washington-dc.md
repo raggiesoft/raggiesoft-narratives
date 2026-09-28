@@ -9,6 +9,9 @@ series: ""
 
 ### Part 1: A New Beginning in Fredericksburg
 
+# A Healing Journey
+# Part 1: A New Beginning in Fredericksburg
+
 The drive to Fredericksburg had been a quiet one, a conscious decision by Jermaine to avoid the dreaded Washington, D.C. traffic. He had driven the I-395 corridor and crossed the 14th Street Bridge countless times in his past, and each time had been a masterclass in stress and gridlock. For this trip, a trip meant to start the healing process for his family after his recent divorce, he wanted things to be different, easier. A hotel in Fredericksburg, just a short walk from the Caroline Street train station, was the perfect solution.
 
 He pulled the Stark Paladin into the hotel parking lot and turned to his two teenagers in the back seat. “Alright, kids. We’re here.”
@@ -33,6 +36,9 @@ As his arm tightened around her, Sarah realized that this hug, coming at the end
 
 ### Part 2: The First Night
 
+# A Healing Journey
+# Part 2: The First Night
+
 The hotel room was simple, clean, and dominated by two large queen beds. Jermaine dropped his bag by the bed closest to the window, a silent claim. “Alright, I’m going to grab a shower,” he announced, his voice weary from the drive and the emotional weight of the last few months. “You two get settled.”
 
 As their father disappeared into the bathroom, Jack and Sarah began to unpack their own small bags by the other bed. The unspoken arrangement hung in the air: this would be their bed for the trip. Jack was quiet, seemingly lost in his own world as he arranged his things, but Sarah was acutely aware of him. The memory of the hug in the lobby was still a warm, solid presence in her mind. It was a small, simple moment, but it had changed something for her. She was genuinely looking forward to climbing into bed with him, to the uncomplicated comfort and safety of his presence beside her.
@@ -46,6 +52,9 @@ Jack climbed in, and Sarah slid in beside him, clicking off the main lights so o
 He was her brother, her rock through the storm of their parents’ divorce. And as she held him in the quiet darkness of the hotel room, she knew she was his rock, too.
 
 ### Part 3: The Journey In
+
+# A Healing Journey
+# Part 3: The Journey In
 
 The morning started with the chaotic, yet comforting, ritual of a hotel continental breakfast. With their bellies full, they bundled up against the crisp spring air and began the short, pleasant walk from their hotel to the Caroline Street Station. At the station, Jermaine confidently navigated the ticketing process, purchasing three round-trip tickets on the Dominion Rail for their journey straight into the heart of Washington, D.C..
 
@@ -77,6 +86,9 @@ The train slowed and pulled into the open-air platform. They got off, and the sh
 
 ### Part 4: Sarah’s Incident
 
+# A Healing Journey
+# Part 4: Sarah’s Incident
+
 The afternoon sun was warm, and the sounds of the zoo—a cacophony of animal calls, laughing children, and the general murmur of the crowd—filled the air. After a delightful morning at the Air and Space Museum, the Bennetts had taken the Capital Metro up to the zoo. The three of them were now walking along a winding, paved path that descended a surprisingly steep hill toward the lower valley of the park.
 
 Sarah, wearing a pair of stylish but impractical sandals, found her footing becoming less and less certain on the incline. The steepness of the hill was something she wasn’t used to, and her ankles began to ache with the effort of keeping her balance. A wave of dizziness washed over her. “I think I need to sit down,” she said, her voice a little breathless as she came to a stop.
@@ -102,6 +114,9 @@ She carefully examined her ankle, which was already starting to swell. “This d
 “We should probably get it looked at,” Jermaine said decisively. He flagged down a passing zoo employee in a golf cart. “Excuse me,” he called out, his voice firm and clear. “My daughter fell, and I am asking for medical attention.”
 
 ### Part 5: Tending to Sarah’s Needs & Completing Their Vacation
+
+# A Healing Journey
+# Part 5: Tending to Sarah’s Needs & Completing Their Vacation
 
 The rest of the afternoon was a blur of fluorescent lights and the sterile smell of a D.C. urgent care clinic. The diagnosis was what they had suspected: a badly twisted ankle. Sarah was fitted with a pair of cumbersome aluminum crutches and given a bottle of pain relievers before being sent on her way.
 
@@ -132,6 +147,9 @@ He returned a few minutes later, not with a menu, but with a triumphant smile on
 Sarah pushed herself up, a look of genuine, profound relief on her face. The thought of not having to hobble around on crutches for the rest of their vacation was the best news she could have possibly imagined. Maybe this trip could be salvaged after all.
 
 ### Part 6: A New Level of Trust
+
+# A Healing Journey
+# Part 6: A New Level of Trust
 
 Back at the hotel, after they had finished their pizza, a weary quiet settled over the room. Sarah, feeling grimy from the day's events and wanting to soak her aching muscles, decided a hot bath was in order.
 
@@ -173,6 +191,9 @@ As the bathroom door closed, Sarah turned to her brother, her eyes shining with 
 
 ### Part 7: A Trip Made Easier
 
+# A Healing Journey
+# Part 7: A Trip Made Easier
+
 Morning rolled around, and Sarah was excited to try out the motorized wheelchair. She was looking forward to trying the zoo again and spending the afternoon at the museum her brother wanted to see. “I really appreciated how you helped me get back to the hotel last night,” She said, “What did you want to do today?”
 
 “We were going to finish with the zoo and go to the Air & Space Museum,” Jermaine said. He then turned to his son and said, “I really appreciate how you took care of your sister last night, young man. When we get home, she’s going to be your responsibility when I’m at work.”
@@ -188,6 +209,9 @@ They got on the train and Jack was happy to sit down, and grateful that he got t
 ## Sarah with an Injury
 
 ### Part 1: Welcome Home to a Twisted Ankle
+
+# Sarah with an Injury
+# Part 1: Welcome Home to a Twisted Ankle
 
 “Jack, will you do me the weirdest of favors,” Sarah asked.
 
@@ -217,6 +241,9 @@ Jack soon realized what he was about to see and decided to stay professional abo
 
 ### Part 1: Tent in a Backyard
 
+# Summer Dreams
+# Part 1: Tent in a Backyard
+
 The four were gathered in the backyard, and Sarah started pitching the tent. “Just like our childhood, but now we’re older,” she said.
 
 “This is going to be a tight fit, but I’m sure we will manage,” Clare said.
@@ -235,6 +262,9 @@ Clare said, “Then no need for privacy. Probably for the best since this tent i
 
 ### Part 1: University Open House
 
+# Delores
+# Part 1: University Open House
+
 “Yeah, I have to work,” Sarah groaned, her voice full of genuine regret as she pulled the Stark Paladin up to the curb. “I’m sorry I can’t be with you.”
 
 “It’s okay,” Jack said, though he felt a familiar knot of anxiety tightening in his stomach. The Sinclair Center at Virginia Dominion University loomed before them, a massive, modern building bustling with students and their parents. It was a lot to take in.
@@ -251,6 +281,9 @@ He found a seat at an empty table in the cavernous main ballroom where the openi
 
 ### Part 2: The Tour
 
+# Delores
+# Part 2: The Tour
+
 After the university president's welcoming address, the massive crowd in the ballroom was broken up into smaller groups for the campus tours. Jack found himself in a group of about twenty other prospective students and their parents, led by a bubbly and energetic junior named Madison.
 
 For the next ninety minutes, Madison led them on a whirlwind tour of the main academic buildings. She was incredibly knowledgeable, pointing out the science labs in the chemistry building, the massive lecture halls in the arts and letters building, and the quiet, studious atmosphere of the library. She kept up a steady stream of cheerful patter, sharing anecdotes about her favorite professors and offering tips on the best places to study.
@@ -260,6 +293,9 @@ Jack tried to keep up, but the sheer scale of the campus was overwhelming. The b
 By the time the tour group made its final stop and Madison cheerfully dismissed them, Jack was completely exhausted. The social energy required to be part of the group, combined with the sensory overload of the sprawling campus, had drained him. He thanked the tour guide and slowly made his way back towards the Sinclair Center, the central hub where the open house had begun. All he wanted was to find a quiet corner, sit down, and wait for Clare to rescue him.
 
 ### Part 3: An Unexpected Guide
+
+# Delores
+# Part 3: An Unexpected Guide
 
 Jack found an empty bench outside the Sinclair Center and collapsed onto it, the exhaustion from the tour washing over him. He just wanted to sit quietly and wait for Clare.
 
@@ -283,6 +319,9 @@ She legitimately guided him through the darkness to the restroom door and waited
 
 ### Part 4: The Conversation Shifts
 
+# Delores
+# Part 4: The Conversation Shifts
+
 They stepped out of the building and back into the bright, sunny afternoon. Jack had to stop and blink for a moment, his eyes struggling to adjust from the profound darkness to the brilliant light, feeling disoriented and even more exhausted than before.
 
 “Whoa,” he said, shielding his eyes. “That was really dark in there.”
@@ -303,6 +342,9 @@ The conversation slowly turned away from the university and became focused entir
 
 ### Part 5: Lunch in the Lion\'s Den
 
+# Delores
+# Part 5: Lunch in the Lion\'s Den
+
 Feeling disoriented from the sudden shift from darkness to bright sunlight, Jack was about to suggest they head back to the Sinclair Center when Delores put a light hand on his arm.
 
 “I don’t know about you, but all that walking made me starving,” she said with an easy smile. “The open house is providing lunch for everyone in the main cafeteria. My treat. Come on, it’ll give us a chance to talk more.”
@@ -320,6 +362,9 @@ For the first time all day, Jack felt his exhaustion and anxiety begin to melt a
 Jack, caught in the web of the connection she had so expertly woven, heard himself agree before he’d even had a chance to think about it. The guard he had up just an hour ago was now completely, foolishly, down.
 
 ### Part 6: A Private Tour
+
+# Delores
+# Part 6: A Private Tour
 
 "Come on," Delores said, a conspiratorial smile on her face as she stood up from the cafeteria table. "I want to show you one of the best-kept secrets on campus. It's much quieter than this."
 
@@ -340,6 +385,9 @@ She swiped the card. The lock beeped and clicked open.
 She pushed the door open and gestured for him to go inside, a triumphant little smile on her lips. Jack stepped out of the bright afternoon sunlight and into the quiet, still air of the empty building, following her lead.
 
 ### Part 7: The Move
+
+# Delores
+# Part 7: The Move
 
 The apartment was stunning. Jack had expected a typical dorm room—cinderblock walls, a communal bathroom down the hall. Instead, he found himself in a fully equipped, modern apartment with a small kitchen, a living area, and a separate bedroom. He was genuinely wowed.
 
@@ -385,6 +433,9 @@ He didn't wait for her reply. He walked out of the dorm, leaving her alone in th
 
 ### Part 1: A Cousin\'s Rescue
 
+# Red Flags and Safe Harbors
+# Part 1: A Cousin\'s Rescue
+
 Jack stepped out of the quiet apartment building and into the bright, late afternoon air of the VDU campus, taking a deep, cleansing breath. The text to his cousin Clare had been sent just moments before, and he looked around, hoping her car would be the next one he saw. The relief of being out of that room was immense, but it was followed by a wave of confusion and embarrassment.
 
 A few minutes later, a familiar small Stark Astra pulled up to the curb, and Clare got out, her brow furrowed with concern. "Jack? Are you okay? You look like you've seen a ghost."
@@ -402,6 +453,9 @@ Clare, sensing his deep distress and his reluctance to share the details, didn't
 "That sounds like a great idea," Jack replied, finally letting out a long breath as she got on the main road to head to the rec center. The simple, uncomplicated plan was exactly what he needed.
 
 ### Part 2: A Rec Center Sanctuary
+
+# Red Flags and Safe Harbors
+# Part 2: A Rec Center Sanctuary
 
 “I have your swim bag in the back seat along with my things,” Clare said as they pulled into the familiar Fairlawn Recreation Center parking lot. “I’m sure Sarah will be happy to see us.”
 
@@ -448,6 +502,9 @@ Clare smiled. “Then let me go get your water bottle and I will let Sarah know 
 Jack did have his city shirt in the car. He clocked in and got settled in for the day, taking care of the scan station. The rec center had about an hour to go before close, and Sarah, having finished her shift, found a seat in the front lobby to do homework, perched where she could keep a discrete eye on Jack, a silent, supportive presence while he worked.
 
 ### Part 3: Closing Down a Rec Center
+
+# Red Flags and Safe Harbors
+# Part 3: Closing Down a Rec Center
 
 The front lobby of Fairlawn Recreation Center was quiet at 4:51 PM on a Saturday in late January. The last of the families had trickled out, leaving only the sterile scent of chlorine and the low hum of the vending machines. Sarah Bennett sat at a table, her laptop open, using the hour before her brother closed up to get a head start on a college paper. Her table faced the front desk, a habit born of a lifetime of looking out for Jack.
 
@@ -521,6 +578,9 @@ Jean, walking a few feet behind them with her brother, saw the easy, physical af
 
 ### Part 4: Conversations on a Ride Home
 
+# Red Flags and Safe Harbors
+# Part 4: Conversations on a Ride Home
+
 The silence in the car was a shared, weary comfort as Jack pulled out of the Fairlawn Recreation Center parking lot. He and Sarah were both tired, the end of a long week and the weight of the last few months pressing on them. Jack was driving, his hands steady on the wheel.
 
 A shrill, tinny ringtone echoed from a basic flip phone resting in the center console. Jack glanced at the screen, saw it was his cousins, and tapped the button to connect it to the car’s speaker system.
@@ -575,6 +635,9 @@ The conversation shifted back to logistics, the impending danger of Delores ackn
 
 ### Part 5: A Safe Harbor
 
+# Red Flags and Safe Harbors
+# Part 5: A Safe Harbor
+
 Later that evening, after the family had finished one of their last dinners at Jermaine's house, the men—Jermaine, Devin, and Sam—settled in the living room to watch a basketball game. The low murmur of the television provided the perfect cover. Jack, his expression a mask of anxiety, caught Sarah’s eye and gave a slight nod towards his bedroom. She understood instantly.
 
 Molly and Clare, who had been waiting for this conversation since the phone call in the car, followed them without a word. The four of them gathered in Jack’s room, the door closed, creating a private, safe space away from the rest of the family. Jack was too scared and embarrassed to tell his dad, his uncle, or his grandfather the full, ugly details of his afternoon. But here, with his three women, he knew he could say anything.
@@ -608,6 +671,9 @@ Seeing his vulnerability and the shame warring with his relief, Sarah knew what 
 She moved to sit beside him on the bed, and Molly and Clare closed in, their own arms wrapping around him and Sarah. They enveloped him in a gentle, protective group hug, a circle of unwavering, unconditional love. They didn’t care that he had been manipulated or that he felt flawed; they just cared that he was safe. In that moment, surrounded by the three most important women in his life, Jack finally let the last of his tension go. He was loved, no matter what.
 
 ### Part 6: Coffee Date
+
+# Red Flags and Safe Harbors
+# Part 6: Coffee Date
 
 The coffee shop in the Virginia Dominion University library was quiet for a Saturday afternoon. Jack pushed the door open, the scent of roasted coffee beans and old books filling the air. He felt a familiar knot of dread in his stomach. The conversation he’d had with Sarah and his cousins in the car echoed in his mind: *It sounded like a script... She doesn’t know the first thing about you.* He was here to end this, not to start it.
 
@@ -649,6 +715,9 @@ But as Jack sat there, finishing his hot chocolate while she talked about a clas
 
 ### Part 1: An Unassuming Dinner
 
+# A Date with Delores
+# Part 1: An Unassuming Dinner
+
 The drive to Delores’s apartment was quiet, with Jack and his cousin Molly sharing the front seat of her car. As Molly pulled into a parking spot, she glanced at Jack. His face was a mask of polite neutrality, but she could see the tension in his shoulders. “You sure about this?” she asked softly.
 
 Jack just shrugged, his eyes not meeting hers. “It’s just dinner. I told her I would.”
@@ -673,6 +742,9 @@ Molly, not wanting to make a scene, reluctantly agreed. They ate in the small di
 
 ### Part 2: Dinner with Robyn and Delores
 
+# A Date with Delores
+# Part 2: Dinner with Robyn and Delores
+
 Robyn returned from the kitchen bearing a steaming casserole dish, the scent of tomato and cheese filling the small dining area. As she served generous, perfectly rectangular portions onto their plates, Molly confirmed her suspicion. The layers were a little too uniform, the sauce a little too generic. It was definitely a high-quality frozen lasagna from ValueMart, heated and served as homemade. She took a bite, offering a polite smile. *Mental Note \#2: They lie about small, pointless things.*
 
 “It’s very good, Robyn. Thank you,” Molly said, her voice neutral.
@@ -694,6 +766,9 @@ Delores, ignoring the silent jab, doubled down on her praise for Jack, her laugh
 The passive-aggressive volley was dizzying. The conversation continued in this vein—superficially pleasant but lacking any real depth. Delores talked about a professor she liked at VDU. Robyn asked Jack about the types of programs the rec center offered. Jack and Molly gave polite, brief answers, volunteering little. Every topic felt like a carefully managed performance by Delores and her mother, designed to present a picture of perfect, unthreatening normalcy. Molly continued to observe, her initial unease solidifying with every rehearsed question and overly bright smile. This wasn’t a family dinner; it was an audition, and she was watching a silent, ugly war play out right in front of her.
 
 ### Part 3: The Interrogation
+
+# A Date with Delores
+# Part 3: The Interrogation
 
 The dinner conversation remained superficially pleasant, but Molly felt like she was watching a play. Every word from Delores and Robyn felt rehearsed, every question designed to gather information.
 
@@ -724,6 +799,9 @@ Back inside, Jack returned to the living room to find Robyn staring at him. Her 
 The questions were too personal, too invasive. And the way she was looking at him, with that strange, lovesick expression, was profoundly creepy. Delores watched them from the sofa, a small, knowing smirk on her face, enjoying his discomfort. This wasn’t a date; it was an interrogation with a bizarre, unsettling agenda. He felt the overwhelming urge to leave.
 
 ### Part 4: The Manipulation
+
+# A Date with Delores
+# Part 4: The Manipulation
 
 The questions were too personal, too invasive. The way Robyn was looking at him with that strange, lovesick expression was profoundly creepy. And Delores, watching from the sofa with a small, knowing smirk, was enjoying his discomfort. It was in that moment that another detail from earlier clicked into place for Jack: the cold, hard look in Delores’s eyes when he had hugged Molly goodbye. It hadn't just been a fleeting expression; it was a flash of raw, possessive anger. *Mental Note: She hates it when I hug my cousins.*
 
@@ -763,6 +841,9 @@ He fled the apartment, Delores’s whispered “Thank you” following him down 
 
 ### Part 5: The Escape and the Hook
 
+# A Date with Delores
+# Part 5: The Escape and the Hook
+
 The buzzer rang, a sharp, insistent sound that cut through the thick, manipulative atmosphere of the apartment. Molly was here. A wave of immense, profound relief washed over Jack, so potent it almost made him dizzy.
 
 Delores flinched at the sound, her performance kicking into high gear as a single, perfect crocodile tear traced a path down her cheek. "Please," she whispered, her voice breaking. "I know tonight was a disaster. My mom ruined it. Just… one more chance. Not here. A walk in the park. In the daytime. Just to prove to you I’m not… this. Please don’t let me think all guys are the same."
@@ -786,6 +867,9 @@ He practically ran to Molly’s waiting car, pulling the door open and collapsin
 “You have no idea,” Jack breathed, finally feeling like he could breathe again. “Let’s just go home.”
 
 ### Part 6: The Debrief
+
+# A Date with Delores
+# Part 6: The Debrief
 
 In the quiet cocoon of Molly’s car, the tension from the apartment finally began to dissipate, replaced by a shared, grim understanding. Molly waited until they were a few blocks away, the building's entrance no longer visible in the rearview mirror, before she spoke.
 
@@ -851,6 +935,9 @@ A wave of profound relief washed over Jack. He wasn't just being granted a favor
 
 ### Part 7: A Theory is Formed
 
+# A Date with Delores
+# Part 7: A Theory is Formed
+
 They retreated to the privacy of Jack’s bedroom, the four of them creating a familiar, safe circle. Jack recounted the final, manipulative moments at the apartment door, and the girls listened, their expressions growing grimmer with every word.
 
 “Okay,” Sarah said, pacing the floor after he finished. “So, what is her deal?”
@@ -874,6 +961,9 @@ A stunned silence fell over the room as the pieces clicked into place.
 Jack stared at his cousin, a chill running down his spine. It was a horrifying theory, but it made perfect, terrible sense. It explained the hollow, hungry look in Delores’s eyes. It explained the way her mother used him as a weapon. He wasn’t a person to them; he was a project. A do-over. The thought was sickening.
 
 ### Part 8: The New Normal Begins
+
+# A Date with Delores
+# Part 8: The New Normal Begins
 
 The weight of the day's events, from the unsettling encounter with Delores to Jack's emotional confession, settled over the four of them in the quiet of his bedroom. The horrifying truth of Molly's theory hung in the air, solidifying their collective resolve.
 
@@ -907,6 +997,9 @@ He rolled onto his side, and she immediately moved in behind him, spooning him i
 
 ### Part 1: A Mission for the Sister
 
+# Planning Sarah’s Birthday
+# Part 1: A Mission for the Sister
+
 A week or so after the disastrous dinner date, on a Saturday afternoon, Jack, Molly, and Clare made a special trip to the Dominion Tower Mall in Norfolk. The official mission: find a perfect 23rd birthday present for Sarah. Her 23rd was a big deal, not just because it was her birthday, but because she had also just been officially promoted to Head Lifeguard at Fairlawn, and they wanted to get her something that celebrated both milestones. They had chosen this specific mall because it had a specialty outdoor gear store that wasn't in any of the malls closer to their Virginia Beach home, and they were on the hunt for a specific high-end pair of polarized sunglasses Sarah had been wanting.
 
 They walked through the bustling mall concourse as a single, cohesive unit. Jack was in the middle, his arms draped comfortably over his cousins' shoulders. Molly and Clare, in turn, each had an arm wrapped around his waist, their linked arms and easy strides a testament to their deep, platonic affection. They were a small island of familial comfort in the sea of weekend shoppers.
@@ -928,6 +1021,9 @@ Their shopping trip was a success. At the outdoor gear store, they found the exa
 They made their way towards the escalators, still walking in their familiar, linked formation.
 
 ### Part 2: A Taste of Twin Magic
+
+# Planning Sarah’s Birthday
+# Part 2: A Taste of Twin Magic
 
 “Okay,” Molly said, “it’s going to be impossible for all three of us to navigate that line and find a table. You two go scout for a place to sit. I’ll be the food warrior and get our order.”
 
@@ -983,6 +1079,9 @@ With that, the three of them—Jack flanked by his two identical, smiling cousin
 
 ### Part 1: A Day of Dread and Duty
 
+# Sarah Bennett, Reporting for Duty
+# Part 1: A Day of Dread and Duty
+
 The alarm clock on the nightstand blared at 6:15 AM, a harsh, unwelcome sound in the quiet darkness of the bedroom. A groan came from the middle of the queen bed. Jack blindly fumbled for the snooze button, but another hand shot out from beside him and slapped it into silence.
 
 “Time to get up,” Sarah murmured, her voice thick with sleep.
@@ -1014,6 +1113,9 @@ He gave her a small, grateful smile. They finished their breakfast and grabbed t
 They got into the car, and Jack, as the designated driver for the morning, started the engine and pulled out of the driveway, heading for another fateful day at Fairlawn.
 
 ### Part 2: A Sunday Morning at Fairlawn
+
+# Sarah Bennett, Reporting for Duty
+# Part 2: A Sunday Morning at Fairlawn
 
 At 7:30 AM on the dot, Sarah swiped her employee badge, and the side door of the quiet, sleeping building clicked open. In the dim light of the lobby, she and Jack paused.
 
@@ -1077,6 +1179,9 @@ The day began. The usual Sunday morning crowd flowed in. At 9:00 AM sharp, Mandy
 
 ### Part 3: A Tale of Two Siblings
 
+# Sarah Bennett, Reporting for Duty
+# Part 3: A Tale of Two Siblings
+
 The clock on the wall read 9:00 AM sharp. The doors of Fairlawn Recreation Center slid open, and the Sunday morning rush began.
 
 ## Downstairs: Jack at the Scan Station
@@ -1094,6 +1199,9 @@ Open Swim, the deck was a cheerful chaos of splashing children and watchful pare
 The initial rushes began to subside, leaving a steady hum of activity. Downstairs, Jack felt a wave of dizziness as he stood up to stretch his back, leaning heavily on the counter for a moment. Upstairs, Sarah was walking the perimeter of the pool, her focus absolute, a necessary shield against the worry for her brother that still lingered at the back of her mind.
 
 ### Part 4: A Shared Break
+
+# Sarah Bennett, Reporting for Duty
+# Part 4: A Shared Break
 
 The morning rush at Fairlawn eventually gave way to the steadier, calmer rhythm of a Sunday afternoon. At 1:23 PM, during a quiet lull, the front desk radio crackled to life, the single channel shared by the whole facility carrying Sarah's familiar voice. "Aquatics to Front Desk."
 
@@ -1131,6 +1239,9 @@ A wave of profound relief washed over Jack’s face. “Yeah?” he asked, his v
 
 ### Part 5: Trial by Fecal Contamination
 
+# Sarah Bennett, Reporting for Duty
+# Part 5: Trial by Fecal Contamination
+
 At 2:00 PM, Sarah returned to the humid warmth of the natatorium, feeling a little more settled after the quiet lunch with Jack. Her shift was halfway over, and everything was running smoothly on her first day as the acting Aquatics Supervisor. She began her rounds, checking in with the lifeguards on the stands.
 
 At 2:04 PM, the entire facility's shared radio channel crackled to life, the sound sharp and urgent. "Stand Three to Sarah! We have a Code Brown in the shallow end! Code Brown!"
@@ -1159,6 +1270,9 @@ It was a true trial by fire on her first day as acting supervisor, and she had m
 
 ### Part 6: The Longest Shift
 
+# Sarah Bennett, Reporting for Duty
+# Part 6: The Longest Shift
+
 With the public cleared from the natatorium, Sarah and her team spent the next two hours on the grueling decontamination process. They skimmed, treated, and shocked the pool with high levels of chlorine, following the city's health and safety protocols to the letter. By around 4:00 PM, they had done everything they could. Now, all that was left was to let the powerful filtration system cycle the treated water overnight.
 
 Having managed her staff—dismissing those who wanted to go home early and finding shifts at other centers for those who needed the hours—Sarah had one last supervisory duty. She headed downstairs to the administration wing to debrief the acting Facility Supervisor, Rebecca, a friendly Event Coordinator from Rec Services who had been assigned the role for the day. Together, they meticulously filled out the incident report for Sarah's boss, Scott, detailing the time, the nature of the contamination, and the precise steps taken for remediation.
@@ -1186,6 +1300,9 @@ He met Sarah, who had been waiting patiently after being officially dismissed by
 They walked out to the car together, the chilly February air a welcome change. True to her word, Sarah got into the driver's seat. She drove them away from the rec center and towards the Peking Duck Inn, where the rest of their family was already waiting. As they pulled into the bustling parking lot, they saw Delores getting out of her mother's car, her face a mask of polite neutrality. The stage was set for the first, and final, meeting between Delores and the Bennett clan.
 
 ### Part 7: Peking Duck Inn
+
+# Sarah Bennett, Reporting for Duty
+# Part 7: Peking Duck Inn
 
 The Peking Duck Inn was a riot of festive color and cheerful noise on Sunday, February 11th. Simon, the owner, had decorated the day before for the upcoming Chinese New Year, and vibrant red lanterns and gold good luck symbols hung from the ceiling, casting a warm, celebratory glow over the bustling dining room.
 
@@ -1233,6 +1350,9 @@ The conversation after that was polite, but the dynamic had irrevocably shifted.
 
 ### Part 8: A Dinner on Thin Ice
 
+# Sarah Bennett, Reporting for Duty
+# Part 8: A Dinner on Thin Ice
+
 Simon returned from the kitchen a few minutes later, the wonderful aroma of the food preceding him. He placed a steaming bowl of wonton soup and a plate of crispy shrimp egg rolls in front of Jack, a familiar, comforting sight. He then served the other Bennetts their own "usuals" before setting a plate of what Delores had ordered in front of her.
 
 "Enjoy, everyone," Simon said with a warm, genuine smile for the family and a polite, professional nod for their guest. He then engaged in a bit of quick, easy banter with Jermaine and Sam, a comfortable back-and-forth that was full of shared history and in-jokes that Delores couldn't possibly follow. She just watched, a tight, forced smile on her face, feeling more like an outsider than ever.
@@ -1255,6 +1375,9 @@ Delores was caught in a trap of her own making. She had to be the perfect, polit
 
 ### Part 9: The Aftermath
 
+# Sarah Bennett, Reporting for Duty
+# Part 9: The Aftermath
+
 The dinner ended with a polite, strained quiet. When the check arrived, Grandpa Sam simply placed his credit card on the tray without a word. The rest of the family maintained their masks of civility, but underneath, a collective, silent animosity for Delores had solidified. They hated the way she made Jack tense, but they also respected his agency as an adult; he had a plan, and they would be his "wall" when he chose to execute it.
 
 Outside, in the chilly night air of the parking lot, Delores's mother was waiting. As the family said their goodbyes, Jack, needing the reassurance of his safe harbor, gave Sarah a tight hug, followed by equally warm hugs for Molly and Clare. Delores, standing by her mother’s car, watched the easy, physical affection, her face a mask of polite indifference. Internally, however, she was seething. *Look at them,* she thought, her mind twisting their innocent comfort into a personal affront. *All over him. It's not normal. He doesn't need them when he has me.* She forced a bright, false smile as Jack approached for a stiff, obligatory goodbye hug.
@@ -1270,6 +1393,9 @@ Sarah didn't hesitate for a second. She put a comforting hand on her brother's a
 The words hit Delores like a physical blow. It wasn't just a hug. It was a direct, verbal request for a level of intimacy and comfort that completely excluded her. He wasn't just tolerating his sister; he was actively choosing her, seeking her out for the night. The anger that had been simmering all evening boiled over into a silent, venomous rage. She yanked the car door open and slid into the seat, slamming the door shut behind her, the sound sharp in the quiet night. She didn't look back as her mother drove away, but her mind was a storm of jealousy and fury. The wall Jack's family had built around him was higher and stronger than she had ever imagined.
 
 ### Part 10: A Safe Harbor at Home
+
+# Sarah Bennett, Reporting for Duty
+# Part 10: A Safe Harbor at Home
 
 The drive back from the Peking Duck Inn was quiet. The festive atmosphere of the restaurant, a place that usually felt like a second home, had been soured by Delores’s tense, resentful presence. Back at the house, the three of them—Jermaine, Sarah, and Jack—retreated to the living room, the unspoken weight of the evening settling around them.
 
@@ -1301,6 +1427,9 @@ Jack didn't respond, but she felt the tension in his shoulders begin to release 
 
 ### Part 1: A Morning Shrouded in Fog 🥣
 
+# Confusion and Stress
+# Part 1: A Morning Shrouded in Fog 🥣
+
 The morning of Monday, February 12th, arrived not with the usual cheerful chaos of their shared home, but with a quiet, heavy stillness. Sarah woke first, a habit born from years of being her brother's protector. She turned her head on the pillow in the
 
 full-sized bed they now shared and looked at Jack. He was still asleep, but it wasn't a restful sleep. His breathing was shallow, and his brow was furrowed, as if he were wrestling with something even in his dreams. The restless, anxious night had taken its toll on both of them.
@@ -1331,6 +1460,9 @@ Sarah nodded, her own face tight with worry. "I know, Dad. He barely slept. The 
 
 ### Part 2: A Day of Confusion
 
+# Confusion and Stress
+# Part 2: A Day of Confusion
+
 The day after the disastrous dinner at the Peking Duck Inn, the entire family was on high alert. The morning routine was quiet, a stark contrast to the usual cheerful chaos. Jack was withdrawn, the profound exhaustion from the weekend clinging to him like a shroud. He picked at his breakfast, his appetite gone, a symptom Molly and Sarah exchanged a worried look over. They both attributed his lack of hunger to the immense stress of the Delores situation .
 
 At the rec center, the day was a struggle. It was a short-staffed Monday, with just Jack on a register and Jean at the Scan Station, while Kaitlyn, Jennifer’s assistant, stayed in the back office, observing how Jack handled the responsibility of running the desk largely on his own. Jack, usually so patient and steady, found himself easily irritated by the normal, everyday demands of the front desk. The constant phone ringing, the cheerful chatter of patrons, the bright fluorescent lights—it was all a low-grade sensory assault that left his nerves feeling raw and exposed. He was clumsy, dropping a stack of registration forms and fumbling with the cash drawer, his fine motor skills seemingly betraying him. Everyone assumed he was just reeling from the awful family dinner.
@@ -1352,6 +1484,9 @@ He hung up, the feeling of impending doom now a suffocating certainty. He had ju
 That night, sleep offered no escape. He was plagued by restless anxiety, waking up several times in a cold sweat, the feeling that something terrible was about to happen so potent it felt like a physical presence in the room. Sarah, sleeping beside him, would murmur his name, and he would focus on the sound of her steady breathing, the only thing that could anchor him in the terrifying darkness.
 
 ### Part 3: A Misfired Warning
+
+# Confusion and Stress
+# Part 3: A Misfired Warning
 
 It was Tuesday afternoon, February 13th. The Fairlawn lobby was a cacophony of after-school energy. The gymnasium was filled with the thud of basketballs from Open Gym, a group fitness class was blasting upbeat music from a meeting room, and a steady stream of patrons chattered as they checked in. At the front desk, Mandy was the acting supervisor, while Jean and Susan handled the registers.
 
@@ -1385,6 +1520,9 @@ Sarah looked at him, her heart aching, but she respected his resolve. She gave h
 
 ### Part 1: Off to Work
 
+# Welcome to Work
+# Part 1: Off to Work
+
 Jack woke up slowly, the grogginess of sleep giving way to a dull, anxious weight in his chest. For a moment, he didn't know where he was. Then he felt a gentle, steady breathing beside him and remembered. He was in his own bed, and Sarah was there, a solid, comforting presence beside him. The memory of the the creepy interrogation, Delores’s manipulative tears, and the horrifying accuracy of Molly’s theory—came flooding back. He was grateful he hadn't been alone.
 
 They got ready for work in a quiet, shared rhythm. The new normal of their shared space was unspoken but understood. Sarah drove them to Fairlawn, the Stark Paladin a familiar bubble of safety against the world.
@@ -1411,6 +1549,9 @@ He started greeting patrons as he always did, his voice polite and steady, soon 
 
 ### Part 2: Morning at Fairlawn
 
+# Welcome to Work
+# Part 2: Morning at Fairlawn
+
 The clock on the wall read 9:00 AM sharp. Jack took his position at the scan station, a familiar post he knew well. To his left, the three cash registers were staffed for the morning rush: Susan, Mandy, and Donald. The morning unfolded in a familiar, rhythmic blur. The first hour flew by in a wave of cheerful, chattering seniors arriving for their water aerobics class. Jack greeted each one, his hands and mouth on autopilot while his mind replayed the conversation with Sarah in the car.
 
 Around 9:30 AM, the energy in the lobby shifted. The tell-tale rumble of school buses pulling up to the main entrance signaled the start of the city's SOS program—Students On the Swim. A moment later, the doors slid open and a long, chattering line of second graders, marshaled by their teachers, began to file in. They were from one of the city's economically disadvantaged schools, here to receive their free, weekly swim lessons, a vital community service that Fairlawn was proud to host. Jack smiled, directing the lead teacher toward the aquatics staff waiting to greet them, the organized chaos a welcome and familiar part of the weekday routine.
@@ -1418,6 +1559,9 @@ Around 9:30 AM, the energy in the lobby shifted. The tell-tale rumble of school 
 By 10:30 AM, the SOS group was in the pool and the initial rush had subsided. Sarah walked past the front desk on her way to the aquatics office to start her shift, catching his eye and giving him a small, encouraging nod. *We're your wall,* the look seemed to say. He felt a wave of relief seeing her. At 10:37 AM, the lobby was quiet again. The classes were in session, and the regulars were settled into their workouts. Jack stood at his station, the steady rhythm of his job a fragile shield against the turmoil in his mind. He just had to get through the day. He just had to make it to 5:30, when he could meet his sister and they could figure out a plan. It was just another day at work.
 
 ### Part 3: First Response
+
+# Welcome to Work
+# Part 3: First Response
 
 The time was 10:44 AM. Jack came back to the front desk after using the restroom. He sat down at his station as his immediate supervisor, Donald, got up. Jack took his spot at the scan station, his heart rate still elevated from the long walk from the back of the building.
 
@@ -1454,6 +1598,9 @@ The paramedics arrived quickly. As they entered the office, the rec center staff
 “Crossroads Memorial,” They told her, and she sprang to her feet. “Let me clock out, get dressed, and get going. I will see you there!” She took her brother’s hand, while his boss kept promising that no job was worth his health and that his front desk job would be there when he returned.
 
 ### Part 4: The Mobile Emergency Room
+
+# Welcome to Work
+# Part 4: The Mobile Emergency Room
 
 The journey from the back office to the ambulance bay was a surreal blur. The paramedics moved with a calm, focused urgency, Sarah walking alongside the stretcher, her hand a constant, reassuring presence on his arm until they reached the ambulance's rear door. Ï will meet you at the hospital,” she said, giving his hand one last squeeze. They loaded him in, the doors closed with a solid, final-sounding thud, and for the first time since this ordeal began, he was separated from his sister.
 

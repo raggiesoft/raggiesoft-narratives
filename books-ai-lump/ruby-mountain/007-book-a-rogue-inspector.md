@@ -5,11 +5,13 @@ series: "ruby-mountain"
 
 # Book: A Rogue Inspector
 
-## Chapter 1: The Brotherhood of the Air-Gap – Tuesday, January 13, 2004
+## Chapter 1: The Brotherhood of the Air-Gap
 
-### Part 1: A Pulled Permit (10:15)
+### Part 1: A Pulled Permit
 
-# Part 1: A Pulled Permit (10:15)
+**Date:** 2004-01-13 ET
+
+# Part 1: A Pulled Permit
 
 The heavy, encrypted satellite phone on Victoria’s mahogany desk didn't ring. It chirped with the specific, high-priority frequency reserved for the WSDOT regional director.
 
@@ -89,9 +91,11 @@ She looked at Johnny, whose text-to-speech software suddenly chimed into the qui
 
 "Never fight a war you can outsource to a billion-dollar utility company, Johnny," Victoria said, turning her chair to watch the blizzard rage against the glass. "Tomorrow morning, the mountain fights back."
 
-### Part 2: The Vanguard Assembly (10:45)
+### Part 2: The Vanguard Assembly
 
-# Part 2: The Vanguard Assembly (10:45)
+**Date:** 2004-01-13 ET
+
+# Part 2: The Vanguard Assembly
 
 Twenty minutes after hanging up the satellite phone, Victoria Vance walked out of the Owner's Quarters and stepped up to the heavy timber railing of the second-floor mezzanine. She looked down at the Great Hall.
 
@@ -147,11 +151,13 @@ Victoria held up a hand, bringing the room back to a focused quiet.
 
 The Vanguard Assembly broke with a renewed, electric energy, the panic completely neutralized by the sheer brilliance of the Matriarch's proxy war.
 
-## Chapter 2: The Proxy War – Wednesday, January 14, 2004
+## Chapter 2: The Proxy War
 
-### Part 1: Judicial Fury (09:00)
+### Part 1: Judicial Fury
 
-# Part 1: Judicial Fury (09:00)
+**Date:** 2004-01-14 ET
+
+# Part 1: Judicial Fury
 
 The Thurston County Superior Court in Olympia was two hundred miles south and seven thousand feet lower than the howling alpine blizzards of Ruby Mountain. Outside the courthouse, it was simply raining—a cold, persistent, lowland drizzle.
 
@@ -233,9 +239,11 @@ She looked over at Johnny, who was watching her from his wheelchair.
 
 "Tell Emma to fire up the Kodiak," Victoria commanded quietly. "The perimeter is ours."
 
-### Part 2: The Rendezvous (13:30)
+### Part 2: The Rendezvous
 
-# Part 2: The Rendezvous (13:30)
+**Date:** 2004-01-14 ET
+
+# Part 2: The Rendezvous
 
 The descent down to Milepost 134 was a masterclass in heavy tracked navigation. Emma Bennett did not drive the massive, bright-orange Kodiak rotary plow; she commanded it. The 500-horsepower diesel engine roared against the sheer granite walls of the Skagit gorge, the massive spiked augers chewing through five feet of fresh, hyper-compacted ice and throwing it in a magnificent, soaring arc off the edge of the highway.
 

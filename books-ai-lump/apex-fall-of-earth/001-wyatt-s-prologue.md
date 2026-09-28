@@ -7,7 +7,10 @@ series: ""
 
 ## Wyatt – Expendable Assets
 
-### Part 1: The Deep End – Mid-October 2044 (Days prior to arrival)  
+### Part 1: The Deep End – Mid-October 2044
+
+# Wyatt – Expendable Assets
+# Part 1: The Deep End – Mid-October 2044
 
 The heavy, pressurized hiss of the airlock cycling open was the best sound Wyatt Colton had heard in six months.
 
@@ -37,7 +40,10 @@ He didn't look back at the locker, and he didn't say goodbye to the rest of the 
 
 It was time to go wait for the FIPS transport. It was time to go to Earth.
 
-### Part 2: Freight – Mid-October 2044 (Interstellar transit) 
+### Part 2: Freight – Mid-October 2044
+
+# Wyatt – Expendable Assets
+# Part 2: Freight – Mid-October 2044
 
 The boarding process for the Frontier Interplanetary Personnel Services transport was a chaotic, shouted mess. By the time Wyatt navigated the narrow aisle and found an open spot, the interior already smelled like ozone, stale sweat, and cheap recycled air.
 
@@ -55,7 +61,10 @@ Wyatt didn't mind. He preferred the isolation. He crossed his scarred arms over 
 
 He didn't dream about the ocean he’d just left behind, and he didn't wonder about the future. He just let the vibrations of the deck plates pull him into a numb, dreamless void, conserving his energy. Earth was waiting on the other side, and Wyatt knew from years of experience that whatever Apex had buried out in the Nevada desert was going to demand every ounce of strength he had left.
 
-### Part 3: The Pipeline – Thursday, October 20, 2044 (Transit to NTTR)
+### Part 3: The Pipeline
+
+# Wyatt – Expendable Assets
+# Part 3: The Pipeline
 
 The FIPS hauler slammed into the docking cradle at the Las Vegas Interplanetary Spaceport with a bone-jarring thud that rattled the fillings in Wyatt’s teeth. The heavy pneumatic locks engaged, and the sub-light engines finally whined down into silence.
 
@@ -91,7 +100,10 @@ Wyatt crossed his thick, scarred arms over his chest and closed his eyes as the 
 
 He let the roar of the atmospheric engines completely drown out the nervous chatter of the rookies vibrating in the seats around him. He didn't know what kind of black-budget nightmare Apex was running out in the Nevada desert, and he didn't care. He didn't look out the window at the sprawling, darkened wasteland below. He just kept his head down, waiting for the drop, ready to start the clock on another hellhole.
 
-### Part 4: Intake – Thursday, October 20, 2044 – 04:00
+### Part 4: Intake
+
+# Wyatt – Expendable Assets
+# Part 4: Intake
 
 The Sierra Pacific shuttle hit the landing pad with a heavy, jarring thud that rattled the fillings in Wyatt’s teeth. The atmospheric engines whined down into a low, mechanical idle. A second later, the pneumatic locks disengaged, and the heavy metal ramp at the front of the cabin hissed open.
 
@@ -137,7 +149,10 @@ Wyatt pushed his weight against the cold steel bar and stepped through to the ot
 
 He put his head down and started walking.
 
-### Part 5: The Filing Cabinet – Thursday, October 20, 2044 – ~04:20 (Shift starts in 20 minutes)
+### Part 5: The Filing Cabinet
+
+# Wyatt – Expendable Assets
+# Part 5: The Filing Cabinet
 
 The heavy metal turnstile clunked shut behind Wyatt, sealing him inside Apex Defense Solution's subterranean staging facility. He followed the scuffed yellow line painted on the concrete floor, walking down a long, windowless corridor illuminated by harsh, buzzing fluorescent tubes. The air here was heavy, smelling of stale sweat, cheap floor wax, and the metallic tang of industrial machinery vibrating through the floorboards.
 
@@ -177,7 +192,10 @@ Without another word, and without a second glance at him, she shuffled past him 
 
 Wyatt looked down into the metal box at the warm, rumpled mattress on the floor. Welcome to Apex.
 
-### Part 6: The Washroom – Thursday, October 20, 2044 – ~04:30
+### Part 6: The Washroom
+
+# Wyatt – Expendable Assets
+# Part 6: The Washroom
 
 Wyatt left his canvas duffel bag on the floor next to Bunk 42-C. He grabbed his hygiene kit and his scratchy, company-issued towel, stepping back out into the narrow, 64-inch aisle of the barracks.
 
@@ -201,7 +219,10 @@ He didn't stare. He didn't offer a pitying glance or try to reassure her—that 
 
 Ten minutes later, Wyatt was zipped into his stiff, abrasive black and hazard-yellow uniform, the nametape COLTON pinned to his chest. He stepped out of the humid washroom, following the neon signs pointing toward Sector 1. It was time to get some food and clock in.
 
-### Part 7: The Trough – Thursday, October 20, 2044 – ~04:40
+### Part 7: The Trough
+
+# Wyatt – Expendable Assets
+# Part 7: The Trough
 
 Wyatt zipped up the front of his stiff, abrasive black utility uniform, the heavy collar scratching against his neck. The nametape pinned over his right breast pocket read COLTON.
 
@@ -221,7 +242,10 @@ Wyatt chewed a mouthful of his gray paste, his face completely stoic. He knew ex
 
 Finding no open seats, Wyatt leaned against a concrete support pillar near the exit to eat alone. He finished his block in four massive bites, tossed the metal tray into the magnetic reclamation bin, and headed for Sector 1: Security Processing to clock in. He had a perimeter to walk.
 
-### Part 8: The Checkpoint – Thursday, October 20, 2044 – ~04:50
+### Part 8: The Checkpoint
+
+# Wyatt – Expendable Assets
+# Part 8: The Checkpoint
 
 Wyatt tossed his empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
 

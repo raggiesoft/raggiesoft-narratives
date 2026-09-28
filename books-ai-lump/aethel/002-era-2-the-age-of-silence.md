@@ -9,6 +9,9 @@ series: "The Silver Gauntlet of Aethel"
 
 ### Part 1: Chapter 1: The Sundering of Sunstead
 
+# Book I: The Silver Gauntlet of Aethel
+# Part 1: Chapter 1: The Sundering of Sunstead
+
 ## Part 1: A Home in the Hearth
 
 The world outside was ending. At least, that was how it felt to seven-year-old Kaelan.
@@ -1561,6 +1564,9 @@ Clinker burped. A small puff of smoke came out of his nose.
 
 ### Part 2: Chapter 2: The Silence of the Hearth
 
+# Book I: The Silver Gauntlet of Aethel
+# Part 2: Chapter 2: The Silence of the Hearth
+
 ## Part 1: The Fading of the Guardian
 
 ##### Scene 1: The Coldest Winter
@@ -2727,6 +2733,9 @@ One step at a time, he thought, the words falling into cadence with his boots on
 
 ### Part 1: Chapter 1: The Hunted and the Caged
 
+# Book II: The Shadow's Heart
+# Part 1: Chapter 1: The Hunted and the Caged
+
 ## Part 1: The Hunter and the Hunted
 
 The Razor Peaks were not merely a mountain range; they were a warning carved in stone.
@@ -3735,6 +3744,9 @@ The rebellion had begun.
 
 ### Part 2: Chapter 2: The Tyrant\'s Throne
 
+# Book II: The Shadow's Heart
+# Part 2: Chapter 2: The Tyrant\'s Throne
+
 ## Part 1: A Lord's Manifesto
 
 The dungeon was cold, but the Throne Room was freezing for a different reason. It was the cold of absolute, sterile perfection.
@@ -4023,6 +4035,9 @@ It flew South. It flew over the jagged peaks, over the black ice, a tiny, defian
 
 ### Part 3: Chapter 3: The Last Temptation
 
+# Book II: The Shadow's Heart
+# Part 3: Chapter 3: The Last Temptation
+
 ## Part 1: The Oasis of Lies
 
 Theme: gloom
@@ -4308,6 +4323,9 @@ Inside the cell, Kaela watched her go. Then she turned her face back to the ston
 He’s awake, Kaelan, she projected into the void. He knows you’re coming. Be ready.
 
 ### Part 4: Chapter 4: The Bridge of a Thousand Truths
+
+# Book II: The Shadow's Heart
+# Part 4: Chapter 4: The Bridge of a Thousand Truths
 
 ## Part 1: The Guardian's Gate
 
@@ -4685,6 +4703,9 @@ Kaelan took a deep breath, filling his lungs with the stale air of the enemy's s
 
 ### Part 1: Chapter 1: The Siege of the Shadowspire
 
+# Book III: The Dawn of the Twins
+# Part 1: Chapter 1: The Siege of the Shadowspire
+
 ## Part 1: Embers of Hope
 
 Kaelan kicked the doors open, his iron sword raised, a scream of defiance already building in his throat.
@@ -5044,6 +5065,9 @@ He stepped back, gathering his momentum.
 He ran. He leaped over the last pile of rubble. He drove his boot into the center of the bone doors with the force of a battering ram.
 
 ### Part 2: Chapter 2: The Heart of the Gloom
+
+# Book III: The Dawn of the Twins
+# Part 2: Chapter 2: The Heart of the Gloom
 
 ## Part 1: Reunion
 
@@ -5604,6 +5628,9 @@ It wasn't a polite hug. It was desperate. It was the crashing together of two pl
 They stood there in the ruins of the tyrant's tower, holding each other while the walls crumbled around them, neither willing to let go, finally whole again.
 
 ### Part 3: Chapter 3: The Long Road Home
+
+# Book III: The Dawn of the Twins
+# Part 3: Chapter 3: The Long Road Home
 
 ## Part 1: The First Night
 
@@ -6477,6 +6504,9 @@ They ran toward the future, finally ready to rest.
 
 ### Part 4: Chapter 4: The Scouring of Sunstead
 
+# Book III: The Dawn of the Twins
+# Part 4: Chapter 4: The Scouring of Sunstead
+
 ## Part 1: The Steward's Law
 
 Theme: sunstead-scour
@@ -6902,6 +6932,9 @@ Kaelan looked at his sister. "Home?"
 "Home," Kaela said.
 
 ### Part 5: Chapter 5: The Aftermath
+
+# Book III: The Dawn of the Twins
+# Part 5: Chapter 5: The Aftermath
 
 ## Part 1: The Sound of Water
 

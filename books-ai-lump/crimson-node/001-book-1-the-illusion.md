@@ -7,7 +7,10 @@ series: "Crimson Node"
 
 ## Chapter 1: The Approach &ndash; Friday, April 23, 1999
 
-### Part 1: Part 1: Anomalies – 10:15 AM
+### Part 1: Part 1: Anomalies
+
+# Chapter 1: The Approach &ndash; Friday, April 23, 1999
+# Part 1: Part 1: Anomalies
 
 The social ecosystem of Northwood High School was brutal, rigidly structured, and entirely unforgiving of anomalies. So when Courtney Evans—a girl who effortlessly belonged to the upper-middle tier of the high school hierarchy—broke formation to walk down the quiet end of the academic wing, people noticed.
 
@@ -46,7 +49,10 @@ Courtney's face lit up with a brilliant, triumphant smile. The connection was ma
 
 ## Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999
 
-### Part 1: Part 1: The Commons – 7:15 AM
+### Part 1: Part 1: The Commons
+
+# Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999
+# Part 1: Part 1: The Commons
 
 The wide, bumpy tiles of the Northwood High Commons created a continuous, bone-rattling vibration for anyone in a wheelchair, but in this exact moment, Matt didn't feel the drag. The heavy fire doors of the "Blue Mile" were pinned open by electromagnets, the fluorescent lights buzzed overhead, and the 1999 morning rush swirled around them like white noise.
 
@@ -68,7 +74,10 @@ For now, the environment was perfectly controlled. The affection was genuine, th
 
 ---
 
-### Part 2: Part 2: 6th Period Lunch – 12:45 PM
+### Part 2: Part 2: 6th Period Lunch
+
+# Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999
+# Part 2: Part 2: 6th Period Lunch
 
 The Northwood High cafeteria during 6th period lunch was a symphony of controlled chaos. Trays clattered against plastic tables, sneakers squeaked relentlessly on the polished linoleum, and the overlapping conversations of hundreds of teenagers fused into a dull, throbbing roar beneath the humming fluorescent lights.
 
@@ -114,7 +123,10 @@ For Matt, the 6th period ecosystem was operating flawlessly. The noise, the arch
 
 ---
 
-### Part 3: Part 3: The Omni-Q Incident – 4:30 PM
+### Part 3: Part 3: The Omni-Q Incident
+
+# Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999
+# Part 3: Part 3: The Omni-Q Incident
 
 Back in the safety of his bedroom, Matt parked his manual wheelchair at his desk. The Vanguard LogicPad was docked, and the familiar, high-pitched "Uh-Oh!" chime of an incoming message echoed through his speakers. It was Omni-Q.
 
@@ -161,7 +173,10 @@ Before Matt could even pull his hands back up to the keyboard to type a response
 
 Her screen name vanished from his active roster, fading out to a dull gray offline status. The audio cue wasn't anything dramatic—just an abrupt, echoing clink of a connection dropping—but in the suffocating quiet of his bedroom, it hit him harder than a slammed door ever could.
 
-### Part 4: Part 4: The Fallout – 5:15 PM
+### Part 4: Part 4: The Fallout
+
+# Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999
+# Part 4: Part 4: The Fallout
 
 Outside the bedroom window, the muggy, oppressive heat of an unseasonably warm Virginia afternoon had broken into a heavy, relentless rain. A battered box fan rattled aggressively in the window frame, desperately trying to pull in whatever cool air it could scavenge from the storm.
 
@@ -191,7 +206,10 @@ Matt closed his eyes, leaning into the only anchor he had left as the storm rage
 
 ## Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
 
-### Part 1: Part 1: The Morning Routine – 8:00 AM
+### Part 1: Part 1: The Morning Routine
+
+# Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
+# Part 1: Part 1: The Morning Routine
 
 The morning light filtered softly through the blinds of the shared bedroom, casting thin, dusty stripes across the mattress. It was Sunday, May 2nd. A massive milestone. It was Matt's eighteenth birthday, and Sarah's twentieth.
 
@@ -213,7 +231,10 @@ With the medical and physical prep work complete, Sarah finally transferred Matt
 
 ---
 
-### Part 2: Part 2: The Breakfast Spread – 9:15 AM
+### Part 2: Part 2: The Breakfast Spread
+
+# Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
+# Part 2: Part 2: The Breakfast Spread
 
 The living room smelled incredibly rich—a heavy, mouth-watering blend of sizzling bacon, fresh pancakes, and brewing coffee. Waiting for them at the dining table was an absolute feast, meticulously prepared by their mother, Linda.
 
@@ -246,7 +267,10 @@ Matt looked at the food, then up at his sister and his cousin. The crushing weig
 
 ---
 
-### Part 3: Part 3: The Stadium Seating – 1:15 PM
+### Part 3: Part 3: The Stadium Seating
+
+# Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
+# Part 3: Part 3: The Stadium Seating
 
 The logistics of leaving the house were a well-oiled machine. Rather than dealing with a cumbersome conversion van, they took Linda's family sedan. Sarah wheeled Matt right up to the passenger door, locked the brakes, and utilized her 6'4" bodybuilder frame to effortlessly scoop her eighteen-year-old brother out of the chair. She settled him securely into the front passenger seat and buckled him in while Shiloh seamlessly collapsed the manual wheelchair and tossed it into the trunk.
 
@@ -278,7 +302,10 @@ With their concession haul secured and their seating arrangement established, Sa
 
 ---
 
-### Part 4: Part 4: The Majesty Express – 1:40 PM
+### Part 4: Part 4: The Majesty Express
+
+# Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
+# Part 4: Part 4: The Majesty Express
 
 The auditorium buzzed with the dense, electric energy of a sold-out opening weekend crowd. They secured their spot in the wheelchair-accessible cutout along the stadium cross-aisle. Sarah took the seat on Matt's left, while Shiloh dropped into the seat on his right, creating a perfect, protective family phalanx around him.
 
@@ -322,7 +349,10 @@ The sequence culminated with the massive, neon-glowing Majesty Cinemas logo fill
 
 ---
 
-### Part 5: Part 5: The Simulation – 2:15 PM
+### Part 5: Part 5: The Simulation
+
+# Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
+# Part 5: Part 5: The Simulation
 
 For the next two hours and fifteen minutes, Matt did not move. He barely even blinked.
 
@@ -346,7 +376,10 @@ Matt couldn't articulate the complex, racing thoughts swirling through his head.
 
 ---
 
-### Part 6: Part 6: Player Two – 4:30 PM
+### Part 6: Part 6: Player Two
+
+# Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
+# Part 6: Part 6: Player Two
 
 By the time they pushed through the heavy auditorium doors and back out into the bright, chaotic lobby of Majesty Cinemas, Matt was utterly exhausted. It was a good exhaustion—the kind that comes from being happily overwhelmed by a massive, two-hour sensory and intellectual thrill ride.
 
@@ -378,7 +411,10 @@ Shiloh caught the keys smoothly out of the air, shooting Matt a warm grin. "You 
 
 ---
 
-### Part 7: Part 7: The Legal Baseline – 7:00 PM
+### Part 7: Part 7: The Legal Baseline
+
+# Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
+# Part 7: Part 7: The Legal Baseline
 
 By the time they arrived back at the house, the adrenaline from the movie had completely evaporated. The massive intake of sugar and the sheer sensory load of the afternoon left Matt profoundly, deeply exhausted.
 
@@ -408,7 +444,10 @@ Matt gave a soft, exhausted hum of agreement. Whatever the future held, he knew 
 
 ---
 
-### Part 8: Part 8: The Triad – 7:45 PM
+### Part 8: Part 8: The Triad
+
+# Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999
+# Part 8: Part 8: The Triad
 
 It wasn't even eight o'clock in the evening, but neither Sarah nor Shiloh cared. They understood the delicate mechanics of Matt's neurological battery, and right now, it was completely empty.
 
@@ -430,7 +469,10 @@ Matt closed his eyes, his breathing slowing to match the steady rhythm of his si
 
 ## Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999
 
-### Part 1: Part 1: The Band Room Hallway – 10:15 AM
+### Part 1: Part 1: The Band Room Hallway
+
+# Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999
+# Part 1: Part 1: The Band Room Hallway
 
 The loud, chaotic bell signaled the end of second period, flooding the massive Northwood High School commons with hundreds of teenagers. Matt sat quietly in his manual wheelchair near the entrance to the band room hallway. His paraprofessional, Mr. Vance, had parked him securely against the wall before stepping into the nearby faculty restroom.
 
@@ -478,7 +520,10 @@ Matt let out a massive, shuddering breath. The low hum in his chest faded, repla
 
 ---
 
-### Part 2: Part 2: The Principal's Office – 10:20 AM
+### Part 2: Part 2: The Principal's Office
+
+# Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999
+# Part 2: Part 2: The Principal's Office
 
 Vance unlocked the brakes and began pushing Matt’s wheelchair down the crowded hallway toward third period. The sheer physical presence of the paraprofessional acting as a vanguard forced the sea of students to naturally part around them.
 
@@ -522,6 +567,9 @@ Once the call was made, Matt offered a bright, thankful hum. Vance exchanged a h
 
 ### Part 3: Part 3: Interlude – The Phone Call
 
+# Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999
+# Part 3: Part 3: Interlude – The Phone Call
+
 Ten minutes later, Courtney Evans was sitting rigidly in one of the hard plastic chairs opposite Bernard’s desk. Her polished cheerleader aesthetic had completely unraveled, replaced by the tear-streaked panic of a teenager watching her entire social ecosystem collapse in real time.
 
 ![Courtney facing Principal Morgan in his office]({{CDN}}/shiloh/images/story/courtney-principal-office.jpg#fullwidth)
@@ -551,6 +599,9 @@ Bernard hung up the phone and looked across the desk.
 ---
 
 ### Part 4: Part 4: The Rumor Mill – 6th Period Lunch
+
+# Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999
+# Part 4: Part 4: The Rumor Mill – 6th Period Lunch
 
 By the time the bell rang for sixth period lunch, the Northwood High rumor mill was already operating at maximum capacity.
 
@@ -582,7 +633,10 @@ Matt offered a soft, grateful hum. He slowly began to eat, heavily insulated by 
 
 ---
 
-### Part 5: Part 5: The ISS Trailer – 2:15 PM
+### Part 5: Part 5: The ISS Trailer
+
+# Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999
+# Part 5: Part 5: The ISS Trailer
 
 The In-School Suspension trailer at Northwood High School was the ultimate sensory deprivation chamber. Physically disconnected from the main brick building, the modular unit vibrated with the droning hum of an oversized window AC unit and the harsh buzz of fluorescent lights.
 
@@ -620,7 +674,10 @@ Courtney stood up, her legs trembling. She didn't say a word as she walked past 
 
 ---
 
-### Part 6: Part 6: The Charlottesville Plan – 4:00 PM
+### Part 6: Part 6: The Charlottesville Plan
+
+# Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999
+# Part 6: Part 6: The Charlottesville Plan
 
 The transition from the rigid, exhausting architecture of Northwood High to the soft, quiet sanctuary of home was the best part of Matt’s day.
 
@@ -654,7 +711,10 @@ Matt closed his eyes, leaning deeply into his sister’s embrace. Graduation cou
 
 ---
 
-### Part 7: Part 7: The Final Transfer – 9:00 PM
+### Part 7: Part 7: The Final Transfer
+
+# Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999
+# Part 7: Part 7: The Final Transfer
 
 By the time nine o'clock rolled around, the adrenaline and sheer emotional exhaustion of the day had finally caught up with the Miller household.
 
@@ -690,7 +750,10 @@ Anchored by the familiar warmth and steady heartbeat of his sister, the frantic 
 
 ## Interlude: The Reckoning
 
-### Part 1: Part 1: The New Hierarchy – 3:00 PM
+### Part 1: Part 1: The New Hierarchy
+
+# Interlude: The Reckoning
+# Part 1: Part 1: The New Hierarchy
 
 ![Courtney sitting alone in her doorless bedroom]({{CDN}}/shiloh/images/story/courtney-doorless-room.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Courtney serves her suspension, completely stripped of her social standing.</div>
@@ -724,7 +787,10 @@ The message was terrifyingly clear. She wasn't just completing a checklist for t
 
 Courtney swallowed hard, the fight draining entirely out of her body. She reached forward, picked up the muddy jersey, and threw it into the wash bucket, her hands shaking as she grabbed the scrub brush to clean the tile all over again. Jason watched her for a second longer, satisfied, before turning and walking down the hallway.
 
-### Part 2: Part 2: The Empathy Drill – 4:00 PM
+### Part 2: Part 2: The Empathy Drill
+
+# Interlude: The Reckoning
+# Part 2: Part 2: The Empathy Drill
 
 By late afternoon, Courtney had transitioned from deep-cleaning the bathrooms to tackling the massive pile of laundry her brothers had deliberately accumulated in the living room.
 
@@ -770,7 +836,10 @@ Ryan watched her for a long moment. He didn't offer a comforting word. He didn't
 
 "Right," Ryan finally said, turning to walk back toward the kitchen. "Finish folding the shirts."
 
-### Part 3: Part 3: The Ghost Letter – 6:30 PM
+### Part 3: Part 3: The Ghost Letter
+
+# Interlude: The Reckoning
+# Part 3: Part 3: The Ghost Letter
 
 By the time Mrs. Evans returned home from work at six-thirty, the physical and emotional toll of the day had completely hollowed Courtney out. 
 
@@ -820,7 +889,10 @@ Courtney slowly sank back into her chair as the brutal reality washed over her.
 
 "That letter wasn't for him to read," Mrs. Evans said, walking back over and tapping the empty table where the paper had been. "That letter was for you to realize that some mistakes can't be fixed with an apology. Sometimes, the only way to say you're sorry is to stay far away and never do it again."
 
-### Part 4: Part 4: The Empty Frame – 8:00 PM
+### Part 4: Part 4: The Empty Frame
+
+# Interlude: The Reckoning
+# Part 4: Part 4: The Empty Frame
 
 By eight o'clock, the house had settled into a quiet, oppressive evening routine. Jason and Ryan grabbed their backpacks from the kitchen and headed upstairs to log onto the family computer to finish their homework. 
 
@@ -859,7 +931,10 @@ She wept openly against their shoulders, but this time, they weren't tears of se
 
 She wasn't entirely lost.
 
-### Part 5: Part 5: The Thunderstorm – 11:00 PM
+### Part 5: Part 5: The Thunderstorm
+
+# Interlude: The Reckoning
+# Part 5: Part 5: The Thunderstorm
 
 By eleven o'clock, the massive spring thunderstorm that the local meteorologists had been warning about for two days finally broke over the neighborhood. 
 
@@ -885,7 +960,10 @@ She closed her eyes, resting her chin on top of Ryan's floppy blonde hair. Her s
 
 ## Chapter 6: The Senior Prom &ndash; May 1999
 
-### Part 1: The Request – 3:30 PM
+### Part 1: The Request
+
+# Chapter 6: The Senior Prom &ndash; May 1999
+# Part 1: The Request
 
 The afternoon sun cast long, angular shadows across the linoleum floor of the main office. Inside Principal Bernard’s office, the atmosphere was heavy with unspoken tension. The hum of the air conditioner provided a steady drone underneath the steady, rhythmic breathing of Arthur Vance, who stood quietly near the door. 
 
@@ -925,7 +1003,10 @@ Matt stared at him for a long moment. He didn't look angry, just profoundly disa
 
 The order remained. But Matt had made his choice.
 
-### Part 2: Chesapeake Bay Mall – 1:00 PM
+### Part 2: Chesapeake Bay Mall
+
+# Chapter 6: The Senior Prom &ndash; May 1999
+# Part 2: Chesapeake Bay Mall
 
 Saturday afternoon at the Chesapeake Bay Mall was a chaotic blend of weekend shoppers and panicked high school seniors making last-minute preparations for Prom. 
 
@@ -963,7 +1044,10 @@ Valerie and Sarah exchanged a sharp, determined look.
 
 "Off the record," Bernard said firmly. He stepped back, offering a polite smile to the table. "Have a wonderful time tonight at Prom. I'll see you all later."
 
-### Part 3: The Preparation – 2:30 PM
+### Part 3: The Preparation
+
+# Chapter 6: The Senior Prom &ndash; May 1999
+# Part 3: The Preparation
 
 After lunch, the families split up to tackle their respective Prom preparations. Sarah wheeled Matt through the crowded corridors of the Chesapeake Bay Mall until they reached the formal wear rental shop. 
 
@@ -1015,7 +1099,10 @@ Sarah knelt down, wiping a stray tear from Matt's cheek. "I know it hurts, Matty
 
 Defeated, Matt nodded, letting Sarah wheel him out to the family's accessible van. The drive to the banquet hall was agonizingly quiet.
 
-### Part 4: The Assault – 10:30 PM
+### Part 4: The Assault
+
+# Chapter 6: The Senior Prom &ndash; May 1999
+# Part 4: The Assault
 
 When Sarah wheeled Matt through the double glass doors of the Crystal Affairs Banquet Hall, the sensory environment hit them instantly. The lobby was lined with crystal chandeliers and heavy velvet drapes, and the booming, muffled bass of late-90s pop music echoed from the main ballroom. 
 
@@ -1057,7 +1144,10 @@ Matt was violently thrown back against his seat by the sudden stop. The joy vani
 
 The sensory overload, the sudden physical restraint, and the inexplicable rejection were too much. Matt's threshold completely shattered. He let out a piercing, terrified scream, thrashing against his seatbelt, the onset of a massive, public autistic meltdown echoing across the suddenly silent ballroom.
 
-### Part 5: The Aftermath – 11:30 PM
+### Part 5: The Aftermath
+
+# Chapter 6: The Senior Prom &ndash; May 1999
+# Part 5: The Aftermath
 
 Matt’s screams tore through the Crystal Affairs ballroom, raw and utterly heartbroken. He thrashed in his wheelchair, his hands hitting the sides of the armrests as the sensory nightmare swallowed him whole. 
 
@@ -1145,9 +1235,12 @@ Once he was changed into his pajamas and settled in the large bed they shared, S
 
 As Matt drifted toward sleep, anchored by the presence of his sister and the knowledge that his best friend was just down the hall, Sarah stared at the ceiling. She knew exactly what she was going to do tomorrow. She was going to sit down with Valerie and her parents, and they were going to draft a piece of paper that would tear the district bureaucracy to shreds.
 
-## Chapter 7: The Blueprint – Sunday, May 16, 1999
+## Chapter 7: The Blueprint
 
-### Part 1: A New Day – 8:00 AM
+### Part 1: A New Day
+
+# Chapter 7: The Blueprint
+# Part 1: A New Day
 
 The morning sun streamed through the blinds, casting warm, golden slats of light across the living room. It was Sunday, the day after Prom, and the Miller household was quiet. David and Linda had already left for their weekend shifts at the hospital, leaving the house to their children—and their unexpected overnight guest.
 
@@ -1183,7 +1276,10 @@ Courtney absorbed the information, a small, genuine smile finally breaking acros
 
 "Okay," Courtney said, her voice steadying. "Let's write it."
 
-### Part 2: The Plan – 9:00 AM
+### Part 2: The Plan
+
+# Chapter 7: The Blueprint
+# Part 2: The Plan
 
 By early afternoon, the Miller household had transformed into a makeshift legal war room. 
 
@@ -1225,9 +1321,12 @@ Matt, who had rolled up beside Courtney, tapped his AAC device. *"Victory,"* he 
 
 The entire room laughed, the heavy weight of the past month finally lifting from their shoulders. The battle wasn't entirely over—they still had to face the Superintendent—but for the first time, they were armed with exactly what they needed to win.
 
-## Chapter 8: The Administration – Monday, May 17, 1999
+## Chapter 8: The Administration
 
-### Part 1: The Drop-Off – 6:30 AM
+### Part 1: The Drop-Off
+
+# Chapter 8: The Administration
+# Part 1: The Drop-Off
 
 The sharp, rhythmic beeping of the alarm clock pierced the quiet bedroom at exactly 5:30 AM, but Matt had been awake for hours. 
 
@@ -1257,7 +1356,10 @@ By 7:00 AM, Sarah had loaded Matt into the accessible van. Instead of taking the
 
 Today, the district was going to answer for what they did.
 
-### Interlude: The Municipal Center – 7:15 AM
+### Interlude: The Municipal Center
+
+# Chapter 8: The Administration
+# Interlude: The Municipal Center
 
 The lobby of the School Administration Building was quiet when Sarah pushed Matt through the front doors at 7:30 AM. However, the silence was abruptly broken by a loud, indignant voice echoing from the hallway just off the main reception area.
 
@@ -1309,7 +1411,10 @@ Sarah took the paper, a massive wave of relief washing over her. She looked down
 
 "Come on, Matty," Sarah smiled, turning his wheelchair toward the exit. "Let's go to school."
 
-### Part 2: The Victory – 10:30 AM
+### Part 2: The Victory
+
+# Chapter 8: The Administration
+# Part 2: The Victory
 
 By the time Sarah and Matt arrived at Northwood High School, first period was already halfway over. The hallways were quiet as Sarah wheeled Matt past the front security desk and directly toward the main office. 
 

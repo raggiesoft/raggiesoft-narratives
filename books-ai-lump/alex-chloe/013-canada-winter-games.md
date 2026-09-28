@@ -9,6 +9,9 @@ series: "Alex & Chloé"
 
 ### Part 1: The Matchup is Set
 
+# A House Divided
+# Part 1: The Matchup is Set
+
 The living room of the Leclerc house in Stanstead was a sanctuary of nervous, hopeful energy. It was Megan Carter's second trip to Canada, and she was getting a full immersion into the most sacred of Québécois traditions: hockey. The entire extended family—Alex, Chloé, her parents, the Leclercs, and Megan—were gathered to watch the men's hockey semi-final games of the 2010 Vancouver Winter Games.
 
 The first game, USA vs. Finland, was a decisive American victory. Alex and Megan, a two-person island of patriotic pride, watched with a quiet, intense focus. When the final horn sounded, they exchanged a triumphant, fist-bumping "Go USA!" The rest of the room offered polite, reserved applause; they were impressed, but they were saving their true passion for the main event.
@@ -36,6 +39,9 @@ Alex looked at Megan, and they exchanged a look of quiet, determined solidarity.
 ### Part 2: La Taverne des Voyageurs
 
 **Date:** 2026-07-13
+
+# A House Divided
+# Part 2: La Taverne des Voyageurs
 
 The atmosphere inside "La Taverne des Voyageurs" in downtown Montréal was a living thing—a roaring, pulsating beast of pure hockey fervor. The air was thick with the smell of beer and poutine, and every square inch of space was occupied by a passionate fan draped in the red and white of Canada.
 
@@ -113,6 +119,9 @@ For now, he just knew, with a certainty that settled deep in his soul, that his 
 
 **Date:** 2026-07-13
 
+# A House Divided
+# Part 3: The Spoils of Victory
+
 The jubilant, singing crowd spilled out of "La Taverne des Voyageurs" and onto the streets of Montréal, which had erupted into a city-wide celebration. Amidst the sea of red and white, Alex Miller and Megan Carter were a conspicuous, newly-converted pair, their Canadian jerseys feeling heavy on their shoulders. Chloé, her arm linked happily through Alex's, was still buzzing with adrenaline.
 
 "You know, my loves," she said, leaning in with a teasing grin as they approached the family's van, "*le pari n'était pas juste pour le chandail.*" (The bet wasn't just for the jersey.)
@@ -187,6 +196,9 @@ Alex, flanked by his two favorite women in the whole wide world, a warm, safe, a
 
 **Date:** 2026-07-13
 
+# A House Divided
+# Part 4: The Uniform of Defeat
+
 The morning after the Golden Goal, Alex Miller and Megan Carter woke in their Stanstead hotel room to the sight of two bright red piles of fleece and polyester lying on two chairs. Their sentences.
 
 With deep, theatrical sighs of condemned prisoners, they began the process of dressing. The slightly-too-large Canadian jerseys were first, followed by the ridiculously bright red fleece pants. They pulled on the maple leaf socks. The final piece for both was the red and white headwear.
@@ -225,6 +237,9 @@ LUCKY US, Alex's device deadpanned.
 
 **Date:** 2026-07-13
 
+# A House Divided
+# Part 5: Opening a Cross-Border Life
+
 On the morning of their departure, after packing their bags, Chloé had one last practical matter to attend to. An hour later, the four of them—Alex, Chloé, Megan, and Uncle David—went into a downtown Stanstead branch of a large national bank. Alex and Megan, still in their full Canadian "uniforms of shame" sans toques, maneuvered inside.
 
 "*Bonjour,*" Chloé said to the representative, her Québécois French flawless. "*Mon mari, notre cousine, et moi, nous aimerions ouvrir un compte conjoint, s'il vous plaît.*" (Hello. My husband, his cousin, and I would like to open a joint account, please.)
@@ -258,6 +273,9 @@ They left the bank, their mission accomplished. They were now an official, cross
 ### Part 6: The Preclearance Predicament
 
 **Date:** 2026-07-13
+
+# A House Divided
+# Part 6: The Preclearance Predicament
 
 After a final, tease-filled goodbye with the Leclercs, the three of them drove their rental van to Montréal-Trudeau International Airport (YUL) to begin their journey home. They returned the van and checked their luggage for their direct Gateway Airlines flight to Seattle.
 
@@ -303,6 +321,9 @@ The moment they were clear of the booth and walking into the U.S. departures lou
 
 ### Part 1: The Accident
 
+# The Weight of Care, Revisited
+# Part 1: The Accident
+
 The winter of 2010 had been dominated by their trip to Quebec and the now-legendary hockey bet that had resulted in Alex and Megan's "flight of shame." Back in their Lynnwood apartment, life had settled into its familiar, intense rhythm. Alex and Chloé had their full-time jobs, Megan was thriving in her career at Quantum, and all three of them were dedicating their evenings and weekends to the all-consuming after-hours work of planning the Lynnwood Discovery and Care Center.
 
 The accident, when it happened, was mundane and completely unexpected. On a rainy Saturday afternoon in early spring, the three of them were working together, moving heavy boxes of donated textbooks for a fundraising book drive.
@@ -330,6 +351,9 @@ CALL 911, Alex's device blared, the synthesized voice a sharp, commanding crack 
 Megan, snapping into action, was already pulling out her phone. The quiet, productive afternoon had just shattered into a million pieces. Their world, for the second time in their lives, was about to revolve around a hospital, a broken bone, and a long, uncertain road to recovery.
 
 ### Part 2: A Different Kind of Hospital Visit
+
+# The Weight of Care, Revisited
+# Part 2: A Different Kind of Hospital Visit
 
 The ride in the ambulance to the hospital was a surreal, terrifying echo of a memory from a decade prior. It was Chloé on the gurney, her face pale with pain. But Alex was not beside her. His large, complex power wheelchair was too big to fit. And this time, there was another person in the equation.
 
@@ -369,6 +393,9 @@ He looked at the simple gold band on his own finger. The last, lingering shadow 
 
 ### Part 3: The Long Road Ahead
 
+# The Weight of Care, Revisited
+# Part 3: The Long Road Ahead
+
 Chloé's surgery was successful, but the prognosis was more complicated than they had hoped. "It was a complex fracture," the orthopedic surgeon explained to Alex and Megan in the consultation room. "The good news is, we were able to set it perfectly. The bad news is, the healing process is going to be long. We're looking at eight to ten weeks of absolutely no weight-bearing, followed by extensive physical therapy."
 
 The news was a heavy blow. This wasn't a simple six-week inconvenience; it was a long-term challenge. When Chloé was discharged, the reality of their new situation became starkly clear. Her primary mode of transportation would be a rented electric wheelchair, a practical necessity.
@@ -383,6 +410,9 @@ And so, a new member was introduced into their small, self-contained world: a ho
 
 ### Part 4: Setback One - The Infection
 
+# The Weight of Care, Revisited
+# Part 4: Setback One - The Infection
+
 The first few weeks of recovery were a frustrating grind. Alex was a whirlwind of focused, adaptive energy, taking over all the household chores and acting as Chloé's unwavering logistical support. Megan, for her part, was the evening and weekend reinforcement, her calm, steady presence a comforting constant. But about three weeks after her surgery, a new complication arose.
 
 "Hey, guys," Chloé said one evening, her voice tight with a pain that was different from the deep ache of a healing bone. "My ankle is killing me. It's hot, and it's throbbing."
@@ -396,6 +426,9 @@ A trip back to the doctor the next morning confirmed their fears: a post-surgica
 The light at the end of the tunnel had just gotten much, much further away, and now the three of them had to face a new, dispiriting battle together.
 
 ### Part 5: Setback Two - The Catastrophe
+
+# The Weight of Care, Revisited
+# Part 5: Setback Two - The Catastrophe
 
 Weeks later, the infection was finally cleared. Chloé, now more than two months into her recovery, was finally given the green light to begin partial weight-bearing physical therapy. She went into her first session full of a desperate, fragile hope. Alex and Megan were both there with her, a silent, two-person cheering section, their own faces a mixture of nervous excitement and unwavering support.
 
@@ -413,6 +446,9 @@ Chloé had fallen. She had re-broken the same ankle. And the three of them were 
 
 ### Part 6: The Depths of Despair
 
+# The Weight of Care, Revisited
+# Part 6: The Depths of Despair
+
 The hours that followed were a blur of pain, tears, and a crushing, all-consuming despair. Another surgery was required, this one more complex, to repair the new damage. When Chloé woke up in the hospital recovery room, with both Alex's and Megan's worried faces swimming into view, the first thing she felt was not relief, but a profound, bottomless hopelessness.
 
 "It's over," she sobbed, the words torn from her in a raw, ragged whisper. "Alex, it's over. I'm never going to walk again."
@@ -424,6 +460,9 @@ He tried to comfort her, his AAC device voicing words of love and reassurance, b
 But Chloé was lost in her own terror. The recovery clock had been reset to zero, but this time, it was accompanied by a new, terrifying fear that her body was fundamentally broken beyond repair. Alex and Megan stayed with her, two silent, steadfast guardians against the darkness, their presence a constant, loving vigil in the quiet, sterile hospital room.
 
 ### Part 7: The Slow Path to Healing
+
+# The Weight of Care, Revisited
+# Part 7: The Slow Path to Healing
 
 The second recovery was a long, arduous journey, not just for Chloé's body, but for her spirit. The despair from that day in the physical therapy room lingered for weeks, a heavy shadow over their apartment.
 
@@ -442,6 +481,9 @@ Chloé, standing by the sofa, took a deep, shaky breath. She took one step. Then
 Megan watched them, her own face wet with tears, a profound, quiet joy filling her heart. Their team had done it. They had weathered the storm, together.
 
 ### Part 8: The Hospital Revelation
+
+# The Weight of Care, Revisited
+# Part 8: The Hospital Revelation
 
 The true turning point, the moment that redefined everything, had come during that dark, hopeless time in the hospital after her second surgery. Alex and Megan were sitting in quiet vigil on either side of her bed, their expressions a mixture of exhaustion and profound, unwavering concern.
 

@@ -5,11 +5,11 @@ series: "ruby-mountain"
 
 # Book: Johnny's Rescue
 
-## Chapter 1: SOS from the Salish Sea – Monday, September 8th, 2003
+## Chapter 1: SOS from the Salish Sea
 
-### Part 1: The Dial-Up Escape (08:45)
+### Part 1: The Dial-Up Escape
 
-# Part 1: The Dial-Up Escape (08:45)
+# Part 1: The Dial-Up Escape
 
 The air at sea level didn't just feel heavy; it felt toxic.
 
@@ -123,9 +123,9 @@ Johnny spun his chair around, his racing heart hammering painfully against his r
 
 The door clicked shut behind him. Fighting the blinding headache and the toxic, heavy air, he engaged the high gear on his chair's rims and started the brutal, ten-minute push toward the water.
 
-### Part 2: The Coffee Shop Contingency (09:05)
+### Part 2: The Coffee Shop Contingency
 
-# Part 2: The Coffee Shop Contingency (09:05)
+# Part 2: The Coffee Shop Contingency
 
 The brass bell above the door jingled as Johnny pushed his way into the small, harbor-front coffee shop. A blast of warm air carrying the heavy scent of roasted espresso and baked sugar washed over him, chasing away the biting chill of the October morning.
 
@@ -163,9 +163,9 @@ Plan B: The nuclear option. If she physically laid hands on his wheelchair, he w
 
 He took another sip of his hot chocolate, his eyes locked on the street. Let her come, he thought. He wasn't her project anymore. He was a passenger, and he was going home.
 
-### Part 3: The Mountain Mobilizes (08:47)
+### Part 3: The Mountain Mobilizes
 
-# Part 3: The Mountain Mobilizes (08:47)
+# Part 3: The Mountain Mobilizes
 
 The quiet morning routine of the Owner's Wing shattered instantly.
 
@@ -233,9 +233,9 @@ Ashleigh downshifted as they cleared the foothills, the dark, towering timber of
 
 "Keep it steady, Ashleigh," Victoria replied, her voice cold and absolute, never taking her eyes off the glowing screen. "I am going to have the Whatcom County Sheriff's Department waiting for her before his wheels even touch the mainland."
 
-### Part 4: The Wrong Schedule (09:15)
+### Part 4: The Wrong Schedule
 
-# Part 4: The Wrong Schedule (09:15)
+# Part 4: The Wrong Schedule
 
 The water shut off, and the sudden silence in the apartment was heavy. Vanessa stepped out of the bathroom, aggressively rubbing her hair with a towel. The steam billowed out into the hallway behind her.
 
@@ -293,9 +293,9 @@ Johnny picked up his cup of hot chocolate, took a sip, and let a small, defiant 
 
 *Checkmate,* he thought.
 
-### Part 5: The Free Passage (10:35)
+### Part 5: The Free Passage
 
-# Part 5: The Free Passage (10:35)
+# Part 5: The Free Passage
 
 For an hour, Johnny sat in the warmth of the coffee shop, watching the frantic, erratic movements of his abuser through the plate-glass window.
 
@@ -337,9 +337,9 @@ He slipped his debit card back into his wallet.
 
 Johnny pushed the wheels of his chair forward, rolling smoothly through the turnstile and out onto the covered wooden walkway leading to the ferry's passenger deck. Behind him, the turnstile clicked shut. He didn't look back at the town. He kept his eyes locked straight ahead on the massive steel boat that was about to take him home.
 
-### Part 6: The Widening Gap (10:55)
+### Part 6: The Widening Gap
 
-# Part 6: The Widening Gap (10:55)
+# Part 6: The Widening Gap
 
 The *M/V Yakima* let out a deep, bone-rattling blast from its massive air horn. Deep in the hull, the heavy diesel engines shifted, sending a powerful vibration up through the steel decks and right into the frame of Johnny’s wheelchair.
 
@@ -381,9 +381,9 @@ He closed the laptop, slid it back into his bag, and rolled toward the front pas
 
 He was ready.
 
-### Part 7: The Terminal (11:54)
+### Part 7: The Terminal
 
-# Part 7: The Terminal (11:54)
+# Part 7: The Terminal
 
 The heavy tires of the Holt Workmaster van crunched against the gravel as Ashleigh bypassed the staging lanes and threw the vehicle into a temporary loading zone directly adjacent to the Anacortes terminal's main passenger exit. She shoved the gearshift into park and killed the engine.
 
@@ -427,11 +427,11 @@ He didn't hit his text-to-speech keyboard. He didn't wave. He just looked at the
 
 Amanda threw the passenger door open and hit the pavement running.
 
-## Chapter 2: The Mainland – Monday, September 8th, 2003
+## Chapter 2: The Mainland
 
-### Part 1: The Reunion (12:08)
+### Part 1: The Reunion
 
-# Part 1: The Reunion (12:08)
+# Part 1: The Reunion
 
 Amanda didn't just run; she sprinted across the loading zone, her boots hitting the damp concrete with desperate, heavy thuds.
 
@@ -477,9 +477,9 @@ She looked up at the massive, idling Holt Workmaster van just a few yards away. 
 
 "Let's get you in the airlock," Amanda said, clicking off his wheel brakes. "We're going home."
 
-### Part 2: The Ascent and the Truth (12:15)
+### Part 2: The Ascent and the Truth
 
-# Part 2: The Ascent and the Truth (12:15)
+# Part 2: The Ascent and the Truth
 
 The heavy sliding door of the Holt Workmaster van rolled open, and Johnny didn't hesitate.
 
@@ -539,9 +539,9 @@ Vanessa had used his physiological need for high-altitude air as a weapon, gasli
 
 He leaned his head heavily against Amanda's shoulder, the rhythmic hum of the heavy engine vibrating through the seat. He closed his eyes. He was safe. He was going home.
 
-### Part 3: The Island Trap (12:15)
+### Part 3: The Island Trap
 
-# Part 3: The Island Trap (12:15)
+# Part 3: The Island Trap
 
 The freezing wind whipping off the Salish Sea bit through Vanessa’s thin sweatshirt, but she barely felt it. She stood frozen at the chain-link fence of the Friday Harbor terminal, staring at the empty expanse of grey water where the *M/V Yakima* had been just twenty minutes ago.
 
@@ -577,9 +577,9 @@ She squeezed her eyes shut, rocking slightly. The Vance-Whitakers were weird, re
 
 She had absolutely no idea that Victoria was already in the back of a speeding van, armed with a signed *ex parte* restraining order, preparing to unleash a legal hellfire that would leave Vanessa with nothing.
 
-### Part 4: The Gateway (13:15)
+### Part 4: The Gateway
 
-# Part 4: The Gateway (13:15)
+# Part 4: The Gateway
 
 The Holt Workmaster van hummed steadily along the two-lane asphalt of State Route 20. The flat, sprawling farmland of the Skagit Valley had slowly given way to towering evergreens, the road winding parallel to the cold, rushing waters of the Skagit River.
 
@@ -621,9 +621,9 @@ Victoria's expression didn't show an ounce of pity. It showed absolute pride.
 
 "Another hour to Prospector Road," Victoria announced quietly over the intercom, her voice calm and absolute, letting it wash over Johnny's shaking form. "Then we lock the gates. Nobody touches this family. Not today. Not ever."
 
-### Part 5: Prospector Road & The Ticking Clock (14:30)
+### Part 5: Prospector Road & The Ticking Clock
 
-# Part 5: Prospector Road & The Ticking Clock (14:30)
+# Part 5: Prospector Road & The Ticking Clock
 
 The town of Marblemount blurred past the windows of the van—a tiny cluster of gas stations and a single diner that marked the absolute end of the lowlands. From there, State Route 20 plunged into the deep, shadowy chasm of the Skagit Gorge.
 
@@ -693,9 +693,9 @@ Amanda smiled, resting her chin on Johnny's shoulder as the van pulled up to the
 
 "Welcome home, Johnny."
 
-### Part 6: The Rationalization (17:15)
+### Part 6: The Rationalization
 
-# Part 6: The Rationalization (17:15)
+# Part 6: The Rationalization
 
 Vanessa sat on the edge of the cheap sofa, the silence of the Friday Harbor apartment pressing against her eardrums. Outside, the sun was beginning its early descent, casting long, cold shadows across the linoleum floor.
 
@@ -731,9 +731,9 @@ She dealt with it, washed her hands, and aggressively flicked off the bathroom l
 
 She walked back into the darkening living room, feeling a strange, empty sense of finality. The physical irregularity was just another annoying symptom of a disastrous twenty-four hours. She pulled a blanket off the back of the sofa and curled into the cushions, completely convinced that the worst of the storm had finally passed.
 
-### Part 7: Johnny is Home (17:25)
+### Part 7: Johnny is Home
 
-# Part 7: Johnny is Home (17:25)
+# Part 7: Johnny is Home
 
 "Don't take the Owner's gate," Amanda said suddenly from the passenger seat, leaning forward as the Holt Workmaster van crested the final ridge. "Take the main drive. Let him come through the front doors."
 
@@ -785,11 +785,13 @@ Johnny sat in his chair, his cousins forming a protective, impenetrable ring aro
 
 He was in his natural habitat. He was home.
 
-## Chapter 3: The Curriculum – Tuesday, September 9th, 2003
+## Chapter 3: The Curriculum
 
-### Part 1: The Proxy (10:00)
+### Part 1: The Proxy
 
-# Part 1: The Proxy (10:00)
+**Date:** 2003-09-09 ET
+
+# Part 1: The Proxy
 
 The morning light filtering through the reinforced windows of the second-floor sanctuary was entirely different from the grey, marine haze of Friday Harbor. Here, at 7,000 feet, the light was sharp, brilliant, and completely unobstructed.
 
@@ -829,11 +831,13 @@ His left hand dropped to his keyboard.
 
 Victoria smiled, picking up her coffee. "Good man. Class starts in two weeks. Take the rest of the day off; Amanda is threatening to drag you down to the Great Hall to help with the Gala prep."
 
-## Chapter 4: The Annihilation of Vanessa Hayes (September 15, 2003)
+## Chapter 4: The Annihilation of Vanessa Hayes
 
-### Part 1: Pro Se (08:50)
+### Part 1: Pro Se
 
-# Part 1: Pro Se (08:50)
+**Date:** 2003-09-15 ET
+
+# Part 1: Pro Se
 
 The heavy double doors of Courtroom 3B swung open, and Vanessa Hayes stepped onto the polished linoleum floor of the Whatcom County Superior Court.
 
@@ -915,9 +919,11 @@ Davies swallowed hard, his throat suddenly dry.
 
 Vanessa, completely oblivious to the massive shift in the room's legal gravity, adjusted her beige suit one last time. She looked at Victoria, ready to play the victim.
 
-### Part 2: The Paper Trail (09:05)
+### Part 2: The Paper Trail
 
-# Part 2: The Paper Trail (09:05)
+**Date:** 2003-09-15 ET
+
+# Part 2: The Paper Trail
 
 Judge Harrison closed the case file and looked down at the petitioner’s table.
 
@@ -983,9 +989,11 @@ From the gallery, Johnny watched the psychological collapse happen in real-time.
 
 "Your Honor," Victoria concluded, picking up a massive, meticulously bound dossier from her table. "The Anacortes facility is a geographic bait-and-switch. And if the court will accept my next exhibit, I will demonstrate exactly why Ms. Hayes orchestrated it."
 
-### Part 3: The Federal Trap (09:15)
+### Part 3: The Federal Trap
 
-# Part 3: The Federal Trap (09:15)
+**Date:** 2003-09-15 ET
+
+# Part 3: The Federal Trap
 
 Judge Harrison set the digital routing logs aside, his expression hardening. He looked across the courtroom at the Matriarch of Ruby Mountain.
 
@@ -1045,9 +1053,11 @@ The judge slammed his gavel.
 
 Vanessa Hayes buried her face in her hands. She had tried to steal a vulnerable boy, and instead, she had walked directly into a legal woodchipper.
 
-### Part 4: The Recess (09:20)
+### Part 4: The Recess
 
-# Part 4: The Recess (09:20)
+**Date:** 2003-09-15 ET
+
+# Part 4: The Recess
 
 The heavy, soundproof oak door of the attorney-client consultation room slammed shut, severing the heavy silence of the courthouse hallway.
 
@@ -1107,9 +1117,11 @@ Davies turned his back on her, picked up his briefcase, and snapped the brass la
 
 Davies walked out into the hallway, leaving Vanessa completely alone to face the annihilation she had brought upon herself.
 
-### Part 5: The Gavel (09:35)
+### Part 5: The Gavel
 
-# Part 5: The Gavel (09:35)
+**Date:** 2003-09-15 ET
+
+# Part 5: The Gavel
 
 Exactly fifteen minutes later, the heavy wooden doors of Courtroom 3B opened.
 
@@ -1183,11 +1195,13 @@ Victoria smiled—a rare, genuine expression of warmth that she only ever allowe
 
 "Yes," the Matriarch agreed, her voice soft but unyielding. "Let's go back to the mountain."
 
-## Chapter 5: The Golden Window – Wednesday, October 1st, 2003
+## Chapter 5: The Golden Window
 
-### Part 1: Baseline Telemetry (14:00)
+### Part 1: Baseline Telemetry
 
-# Part 1: Baseline Telemetry (14:00)
+**Date:** 2003-10-01 ET
+
+# Part 1: Baseline Telemetry
 
 Autumn in the North Cascades did not arrive slowly; it announced itself with a crisp, breathtaking absolute.
 
@@ -1231,9 +1245,11 @@ For the first time in a month, a profound, earned sense of security settled over
 
 But Victoria had won. The legal fortress was impenetrable. The state grifter was locked in a concrete cell, and Johnny was safely wrapped in the ironclad routines of his mountain. They had defeated the human element. The machines were running flawlessly. The math was solid.
 
-### Part 2: The Sovereign Blueprint (14:30)
+### Part 2: The Sovereign Blueprint
 
-# Part 2: The Sovereign Blueprint (14:30)
+**Date:** 2003-10-01 ET
+
+# Part 2: The Sovereign Blueprint
 
 The low, rumbling vibration of the boiler room was interrupted by a quiet, rhythmic tapping. Johnny’s stiff fingers hit a pre-programmed macro key on his laptop, sending a single, sharp chime through his software.
 
@@ -1305,9 +1321,11 @@ She leaned forward, resting her elbows on the desk, treating him not as a depend
 
 Johnny’s fingers hovered over his mechanical keyboard, a profound sense of purpose settling into his chest. This was his domain. He wasn't just surviving the mountain; he was helping to command it. He looked at the WSDOT timeline, cross-referenced it with the flawless 1018 millibar reading Morgan had just shown him, and began to type.
 
-### Part 3: The Winter Manifest (15:00)
+### Part 3: The Winter Manifest
 
-# Part 3: The Winter Manifest (15:00)
+**Date:** 2003-10-01 ET
+
+# Part 3: The Winter Manifest
 
 Johnny’s dark eyes scanned the scrolling text on his Quantum XN monitor, cross-referencing Morgan’s barometric data with the WSDOT historical averages. His stiff fingers navigated the spreadsheet with practiced, deliberate keystrokes.
 
@@ -1355,9 +1373,11 @@ Victoria closed her own binder, the meticulous, sovereign blueprint for the next
 
 "Order the flour, Diana," Victoria commanded gently. "The mountain is ours."
 
-### Part 4: The Legal Nuke (15:30)
+### Part 4: The Legal Nuke
 
-# Part 4: The Legal Nuke (15:30)
+**Date:** 2003-10-01 ET
+
+# Part 4: The Legal Nuke
 
 Diana unlocked the brakes on Johnny’s wheelchair, her chef’s coat swishing as she turned him away from Victoria’s mahogany desk.
 
@@ -1421,9 +1441,11 @@ Johnny took a slow, deep breath of the crisp, highly oxygenated air of the Keep.
 
 The threat had not just been survived; it had been mathematically, legally, and permanently eradicated. The system was flawless. He leaned his head against Ashleigh’s shoulder, closed his eyes, and let the fortress hold him.
 
-### Part 5: The Anchor (16:15)
+### Part 5: The Anchor
 
-# Part 5: The Anchor (16:15)
+**Date:** 2003-10-01 ET
+
+# Part 5: The Anchor
 
 The heavy oak door to the legal suite clicked open.
 
@@ -1473,9 +1495,11 @@ He just had to breathe.
 
 Lying there in the quiet sanctuary of the mountain, anchored entirely by the other half of his soul, Johnny Vance relaxed into the mattress and let the world fade away.
 
-### Part 6: The Perimeter (18:30)
+### Part 6: The Perimeter
 
-# Part 6: The Perimeter (18:30)
+**Date:** 2003-10-01 ET
+
+# Part 6: The Perimeter
 
 The heavy, soundproofed door of the suite muffled the distant, ambient noise of the Keep, leaving the room in a state of absolute, tranquil silence.
 
@@ -1555,9 +1579,11 @@ Johnny let out a long, slow breath, the terrifying loop finally breaking. He rea
 
 The siege of Ruby Mountain was over. He was exactly where he belonged.
 
-### Part 7: The Final Perimeter (19:15)
+### Part 7: The Final Perimeter
 
-# Part 7: The Final Perimeter (19:15)
+**Date:** 2003-10-01 ET
+
+# Part 7: The Final Perimeter
 
 By the time the last of the food was gone, Johnny’s eyes were heavy, his blinks growing slow and uncoordinated.
 
@@ -1609,11 +1635,13 @@ Sarah reached over to the bedside lamp. She looked across the quiet, peaceful ro
 
 The light went out. The 1903 boiler rumbled deep beneath the floorboards, keeping the winter at bay, and the Prospector’s Keep slept.
 
-## Chapter 6: The Anomaly – Tuesday, October 7th, 2003
+## Chapter 6: The Anomaly
 
-### Part 1: The Pineapple Express (09:15)
+### Part 1: The Pineapple Express
 
-# Part 1: The Pineapple Express (09:15)
+**Date:** 2003-10-07 ET
+
+# Part 1: The Pineapple Express
 
 The 1903 iron boiler was roaring at a steady, rhythmic baseline, filling the subterranean engineering bay with an intense, dry heat. But on the heavy CRT monitors of the primary Quantum XN server rack, the data was starting to look distinctly unnatural.
 
@@ -1683,9 +1711,11 @@ Morgan closed the terminal. She looked over at Johnny, her eyes fierce and entir
 
 "The Fog of War just rolled in, boss," Morgan told him. "Let's see who blinks first: us, or the mountain."
 
-### Part 2: The Checkpoint (11:15)
+### Part 2: The Checkpoint
 
-# Part 2: The Checkpoint (11:15)
+**Date:** 2003-10-07 ET
+
+# Part 2: The Checkpoint
 
 The descent from the 7,000-foot summit of Ruby Mountain down to the State Route 20 junction was a brutal, five-mile plunge.
 
@@ -1761,9 +1791,11 @@ Emma beamed, the highest possible praise coming from the Second-in-Command.
 
 Johnny’s eyes lit up behind the clear silicone mask. His lungs were doing the bare minimum, but his brain was firing on all cylinders. He wheeled his chair forward, ready to tear into the logistics.
 
-### Part 3: The Air-Gap (11:30)
+### Part 3: The Air-Gap
 
-# Part 3: The Air-Gap (11:30)
+**Date:** 2003-10-07 ET
+
+# Part 3: The Air-Gap
 
 The cavernous expanse of the Lower Motorpool echoed with the low, industrial rumble of idling diesel engines and the rhythmic *hiss-click* of Johnny’s RespiraCore Compressor machine.
 
@@ -1837,9 +1869,11 @@ Emma beamed, her face lighting up under the harsh bunker lights.
 
 "Alright," Emma said, turning back to the loading dock. "Now that the tour is over, let's figure out how we're going to drag three pallets of vintage champagne up a frozen mountain before WSDOT locks the gates."
 
-### Part 4: The Escort (12:00)
+### Part 4: The Escort
 
-# Part 4: The Escort (12:00)
+**Date:** 2003-10-07 ET
+
+# Part 4: The Escort
 
 The rhythmic *hiss-click* of Johnny’s RespiraCore Compressor machine was suddenly drowned out by the deafening, pneumatic blast of commercial air brakes.
 
@@ -1903,9 +1937,11 @@ Morgan parked the Ridgeback and killed the engine. The delivery had made it thro
 
 "Welcome back to the summit, Johnny," Morgan smiled, unbuckling her seatbelt. "Let's go tell Victoria we bought her a few more hours."
 
-### Part 5: The Tactical Seed (12:45)
+### Part 5: The Tactical Seed
 
-# Part 5: The Tactical Seed (12:45)
+**Date:** 2003-10-07 ET
+
+# Part 5: The Tactical Seed
 
 The heavy oak doors of the Owner's Quarters swung open, and the roaring warmth of Victoria’s massive fireplace washed over them.
 
@@ -1953,11 +1989,13 @@ Johnny gave a firm nod, leaning back into the custom foam of his wheelchair.
 
 The tactical seed was planted. The timeline was officially on notice. He closed his eyes, immensely relieved to be safely locked inside the impenetrable stone walls of his mountain, while the Fog of War raged outside.
 
-## Chapter 7: The Model Collapse – Thursday, October 9th, 2003
+## Chapter 7: The Model Collapse
 
-### Part 1: The Backchannel (10:30)
+### Part 1: The Backchannel
 
-# Part 1: The Backchannel (10:30)
+**Date:** 2003-10-09 ET
+
+# Part 1: The Backchannel
 
 For the last forty-eight hours, the subterranean engineering bay had operated in a state of hyper-focused, clinical tension.
 
@@ -2023,9 +2061,11 @@ Morgan hit enter.
 
 Now, the entire weight of the mountain shifted upward to the third floor. They had given Victoria the raw, uncompromising truth of the atmosphere. Now, they had to wait and see if the Matriarch was willing to do the impossible: move a massive, four-hundred-person luxury event up by two weeks, entirely on the fly, without letting the billionaires know they were running for their lives.
 
-### Part 2: The War Council (10:35)
+### Part 2: The War Council
 
-# Part 2: The War Council (10:35)
+**Date:** 2003-10-09 ET
+
+# Part 2: The War Council
 
 Morgan’s fingers had barely left the mechanical keyboard when the localized Quantum OS chat interface chimed sharply in the quiet rumble of the engineering bay.
 
@@ -2091,11 +2131,11 @@ The Matriarch turned on her heel, her tailored blazer snapping sharply as she he
 
 "We are not getting buried," Victoria declared over her shoulder, her voice echoing in the heavy industrial space. "Draw up the compressed blueprints. The second that storm commits, we move the Gala."
 
-## Chapter 8: The Sovereign Pivot – Saturday, October 11th, 2003
+## Chapter 8: The Sovereign Pivot
 
-### Part 1: All Hands (06:30)
+### Part 1: All Hands
 
-# Part 1: All Hands (06:30)
+# Part 1: All Hands
 
 The Fog of War had finally broken, replaced by the crushing, undeniable reality of the atmosphere.
 
@@ -2165,9 +2205,9 @@ The pack broke instantly. The younger cousins sprinted for the heavy operations 
 
 The Fog of War was thick, but the Vanguard was moving faster.
 
-### Part 2: The Rebrand (07:00)
+### Part 2: The Rebrand
 
-# Part 2: The Rebrand (07:00)
+# Part 2: The Rebrand
 
 As the heavy oak doors of the Owner's Quarters clicked shut behind the departing Vanguard, the intense, kinetic energy of the room instantly shifted into cold, administrative precision.
 
@@ -2231,9 +2271,9 @@ She looked at her Second-in-Command. The legal pad in front of her was covered i
 
 "The board is clear, Johnny," Victoria said quietly, the adrenaline of the compressed timeline sharpening her features. "Now, we just have to beat the snow."
 
-### Part 3: The Line of Fire (08:30)
+### Part 3: The Line of Fire
 
-# Part 3: The Line of Fire (08:30)
+# Part 3: The Line of Fire
 
 The lobby of The Prospector’s Keep was a masterpiece of pioneer-era opulence. Massive Douglas fir columns supported the soaring ceiling, and the two-story river-rock fireplaces roared with heat. Usually, the space hummed with the relaxed, ambient murmur of wealthy civilians enjoying their alpine sanctuary.
 
@@ -2299,11 +2339,11 @@ She turned back to her terminal, her hands hovering over the keys.
 
 The evacuation of Ruby Mountain continued.
 
-## Chapter 9: The Redline – Sunday, October 12th, 2003
+## Chapter 9: The Redline
 
-### Part 1: The Breaking Point (05:45)
+### Part 1: The Breaking Point
 
-# Part 1: The Breaking Point (05:45)
+# Part 1: The Breaking Point
 
 The subterranean engineering bay of The Prospector’s Keep felt entirely detached from the howling chaos occurring seven thousand feet above it. Down here, the 1903 boiler hummed with a deep, methodical rhythm, filling the bedrock chamber with dry, reliable heat.
 

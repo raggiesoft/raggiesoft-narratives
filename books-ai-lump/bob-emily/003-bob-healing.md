@@ -9,6 +9,9 @@ series: ""
 
 ### Part 1: The First Day Home
 
+# Bob’s New Reality
+# Part 1: The First Day Home
+
 The ride home from the hospital was quiet, the car filled with a heavy mixture of relief and dread. After David carefully lifted Bob from the car into the new wheelchair, they wheeled him up the ramp and into the house. The quiet of their home, usually a comfort, now felt heavy with unspoken challenges.
 
 "Okay, buddy," Diane said, her voice gentle. "Let's get you set up on the sofa where you can be comfortable and still be with everyone."
@@ -22,6 +25,9 @@ She carefully sat on the very edge of the sofa, near his head. She placed the pi
 Bob understood instantly. He shifted his head onto the pillow resting on her lap, closing his eyes with a sigh of relief. It wasn't the full, snuggling embrace they both craved, but it was contact. It was her warmth, her presence, a solid anchor in his sea of pain and exhaustion. Emily rested a hand on his hair, and for a long while, that's how they stayed as Bob, drained from the day, drifted into a shallow sleep. It wasn’t bedtime yet, but Bob probably ran out of energy.
 
 ### Part 2: The Call to Madison
+
+# Bob’s New Reality
+# Part 2: The Call to Madison
 
 Later that evening, the weight of the day settled heavily in the small living room Bob now shared with Emily. Diane and David were seated on the sofa that Emily would sleep on, and Bob and Emily were huddled together on the sofa Bob would sleep on, a tight-knit island of solidarity. The room was their fortress against the world. It was time to make the call.
 
@@ -69,6 +75,9 @@ After they said their goodbyes and ended the call, the four of them sat in the q
 
 ### Part 3: The Dress Rehearsal
 
+# Bob’s New Reality
+# Part 3: The Dress Rehearsal
+
 The first day home from the hospital was a lesson in harsh new realities. Bob, exhausted and in a haze of pain medication, was carefully settled onto the living room sofa, his injured leg propped up on a mountain of pillows. This central, ground-floor location was now his entire world.
 
 As evening approached, Diane came in with a 5-gallon bucket of warm water and an armful of towels. "Okay, buddy," she said gently. "Time to get you cleaned up for the night."
@@ -93,6 +102,9 @@ It was her new post. From here, she could watch over him all night. The few feet
 
 ### Part 4: A Spark of Hope
 
+# Bob’s New Reality
+# Part 4: A Spark of Hope
+
 The weeks of recovery on the living room sofa dragged on into a monotonous routine. Bob's days were a cycle of physical therapy exercises, naps driven by pain and exhaustion, and keeping up with schoolwork with the help of his homebound teacher. Through it all, Emily was his constant shadow, her presence a quiet, unwavering comfort.
 
 One afternoon, they had a welcome visitor. Mr. Shaneyfelt stopped by after school, bringing a fascinating geode for Bob to inspect. As they chatted, with Diane interpreting the Heart-Hum, the teacher's face lit up with excitement.
@@ -111,6 +123,9 @@ The promise was made. Now, all he had to do was get strong enough.
 
 ### Part 5: The Green Light
 
+# Bob’s New Reality
+# Part 5: The Green Light
+
 It was early March, nearly two months after the assault, and Bob was at a physical therapy appointment. He had been diligent with his exercises, and the therapist was impressed with the strength he was rebuilding in his upper body. But a deep frustration still lingered for both him and Emily.
 
 While the therapist was having Bob practice transfers, Diane spoke up quietly. "You know," she said, "the hardest part of this for both of them has been the 'no carrying' rule. It's their main way of grounding each other. Emily has felt completely helpless not being able to."
@@ -125,6 +140,9 @@ A joyous, melodic chirp—the first one in months—erupted from both cousins si
 
 ### Part 6: Homecoming
 
+# Bob’s New Reality
+# Part 6: Homecoming
+
 That evening, the entire Scott family gathered at the bottom of the main staircase. The air was thick with a sacred, hopeful energy. For the first time in two months, Bob was going back to his own room.
 
 Without a word, Emily bent down. Bob wrapped his arms and legs around her, and she stood up, lifting him with a steady, confident strength. She began the ascent, taking each step slowly and deliberately. David and Diane watched from below, tears streaming down their faces. This was more than just a walk upstairs; it was a homecoming.
@@ -138,6 +156,9 @@ Simultaneously, they each placed a hand over the other's heart. Looking into eac
 Later, after they were both changed for the night, they settled into the new bed. There was no sleeping on separate sofas, no frustrating gap between them. Emily immediately became the big spoon, wrapping her arm around Bob and pulling him securely against her. He melted into her warmth, a soft, contented purr rumbling in his chest. The long, painful separation was over. They were together, finally and completely, and for the first time in months, they slept in a state of perfect, grounded peace.
 
 ### Part 7: The First Carry
+
+# Bob’s New Reality
+# Part 7: The First Carry
 
 The day after Bob was officially cleared by his physical therapist for single-level carrying, Emily woke with a sense of purpose she hadn't felt in months. The long, frustrating period of being forbidden from lifting him, of having to watch her parents do what she felt was her job, was finally over.
 
@@ -173,6 +194,9 @@ Bob reached out and put his hand on her arm, his touch a silent, comforting pres
 
 ### Part 8: Cleared for Travel
 
+# Bob’s New Reality
+# Part 8: Cleared for Travel
+
 The last week of March was marked by a crucial follow-up appointment with Dr. Evans. As the doctor reviewed the latest X-rays and checked the healing progress on Bob's leg, a tense silence filled the exam room. Bob was in his wheelchair, with Emily and Diane at his side.
 
 "Well, Bob," Dr. Evans said, a warm, genuine smile on his face. "The bone is healing beautifully. You're doing great work in physical therapy. Everything is looking as good as we could have possibly hoped for at this stage."
@@ -202,6 +226,9 @@ After they hung up, Bob and Emily looked at each other in the back seat. A quiet
 ## Bob and Emily See the Stars
 
 ### Part 1: A Trip to the Stars
+
+# Bob and Emily See the Stars
+# Part 1: A Trip to the Stars
 
 The first Friday in April arrived, buzzing with an energy that felt like a holiday. It was the day of the planetarium field trip. For Bob, who had clung to the promise of this day through the darkest weeks of his recovery, it felt like Christmas, his birthday, and the Fourth of July all rolled into one.
 
@@ -235,6 +262,9 @@ Finally, with everyone regrouped in the lobby, it was time. The doors to the pla
 
 ### Part 2: A Double Honor
 
+# Bob and Emily See the Stars
+# Part 2: A Double Honor
+
 With everyone regrouped in the spacious lobby of the planetarium, the excitement was a palpable, buzzing energy. Massive, backlit photos of nebulae and distant galaxies adorned the walls, and Bob and Emily stared at them, completely captivated. They were finally here.
 
 Bob looked from a swirling image of the Orion Nebula to Mr. Shaneyfelt, who was laughing with a group of students. He then looked at Dr. Ragsdale, who was watching over the group with a quiet, proud smile. In his mind, the connection was absolute: these two adults were the reason they were standing under these stars.
@@ -261,6 +291,9 @@ Just then, the doors to the dome theater swung open, inviting them into a univer
 
 ### Part 3: The Deepest of Space
 
+# Bob and Emily See the Stars
+# Part 3: The Deepest of Space
+
 The group filed into the planetarium dome, a hush falling over them as they entered the circular room. The seats were arranged in concentric rings, all tilted back and aimed at the vast, blank canvas of the ceiling. Ms. Albright and David helped position Bob and Caroline's wheelchairs in the designated accessible area, and Emily took the seat right beside her cousin.
 
 As the lights began to dim, a profound and reverent silence fell over the room. Bob and Emily looked at each other in the growing darkness, and a single, shared, quiet hum of pure anticipation passed between them.
@@ -283,6 +316,9 @@ It was a silent, perfect "I love you," a shared acknowledgment that after everyt
 
 ### Part 4: The Journey Home
 
+# Bob and Emily See the Stars
+# Part 4: The Journey Home
+
 The doors to the dome theater opened, and Mr. Shaneyfelt's class, buzzing with newfound cosmic knowledge, filed back out into the lobby. After a final headcount, the group headed outside, where their specially chartered Bluewater Transit bus was waiting to take them home.
 
 The trip back was a mirror of their arrival. Bob and Caroline were wheeled on and secured in their respective spaces across the aisle from each other. Like the trip to Galax Community College, Emily immediately flipped down the jumpseat directly in front of Bob's wheelchair space, her proximity a silent, constant comfort. David, watching them, smiled.
@@ -296,6 +332,9 @@ At 10:55 AM, the bus pulled into a bay at the Bluewater Transit Center. The 10:4
 With a final thank you to the driver, the group of students and chaperones crossed the street and walked back through the doors of Bluewater High School, ready to resume their school day, which was already in progress. For Bob, the short walk felt like a victory lap. He was tired, but it was a happy, satisfied exhaustion, the kind that comes after a perfect day.
 
 ### Part 5: Chapter Notes: Bluewater Transit Steps Up to the Plate
+
+# Bob and Emily See the Stars
+# Part 5: Chapter Notes: Bluewater Transit Steps Up to the Plate
 
 ## Part 1: Student Transportation Department Calls for Aid
 
@@ -361,6 +400,9 @@ A quiet, knowing murmur went through the crowd as they understood. This was for 
 
 ### Part 1: A Hard Limit
 
+# Finishing the Semester Strong
+# Part 1: A Hard Limit
+
 It was a late spring afternoon, several weeks after the planetarium trip, during a comprehensive follow-up appointment with Bob’s orthopedic surgeon and his physical therapist. Bob, now weighing about 90 pounds, was in his wheelchair, and Emily and Diane were with him.
 
 As the appointment was winding down, Emily, who had been quiet the whole time, saw her opening. She had been diligently training, now able to comfortably bench press over 100 pounds with iron plates, and she had a direct, specific question. She pulled out her mPad and typed. She held the screen up for the doctors to read.
@@ -386,6 +428,9 @@ She looked at Bob, who reached out and put his hand on her arm, giving it a soft
 Emily's shoulders slumped. She was strong enough to lift the world, but her strength couldn't fix this. It couldn't bring back the one thing they had lost. She looked at the doctor and gave a single, slow, heartbroken nod. She was extremely upset, but she was not a child. She would not argue with a doctor's orders. The rule was absolute, and she would follow it, for his safety.
 
 ### Part 2: The Accommodations Meeting
+
+# Finishing the Semester Strong
+# Part 2: The Accommodations Meeting
 
 The warm, humid air of late May in Bluewater signaled that the 2014-2015 school year was rapidly drawing to a close. But before the summer could begin, the students of Bluewater High faced the crucible of the Virginia Standards of Learning, the SOLs.
 
@@ -424,6 +469,9 @@ Bob reached out and placed his hand gently over Emily's forearm. He gave her a r
 Emily looked at her cousin, the tight anxiety in her chest loosening just a fraction. She took a deep breath and gave Mr. Henderson a firm nod. They were ready.
 
 ### Part 3: The Testing Lab
+
+# Finishing the Semester Strong
+# Part 3: The Testing Lab
 
 The morning of the Earth Science SOL was bright and clear. At 7:15 AM, the Blue Line bus dropped Bob and Emily off in front of the school. It was a monumental day—they had reclaimed their transit routine, riding the bus together for the first time since the winter.
 
@@ -465,6 +513,9 @@ She opened her eyes, grasped the mouse firmly, and clicked the correct answer. T
 
 ### Part 4: The Waiting Game
 
+# Finishing the Semester Strong
+# Part 4: The Waiting Game
+
 The final click of the computer mouse echoed loudly in the quiet of Computer Lab B. On Emily’s screen, the secure testing portal of the Quantum OS 7 Enterprise machine flashed a stark, grey message: Assessment Submitted.
 
 A moment later, Ms. Albright unlocked the drawer at the proctor's desk and walked over, handing them back their powered-down devices. The instant Emily’s mPad booted up, her fingers flew across the keyboard case. She wheeled around in her chair to face the aide.
@@ -483,6 +534,9 @@ Emily looked down at her cousin, the frustration slowly bleeding out of her post
 
 ### Part 5: The Final Sprint
 
+# Finishing the Semester Strong
+# Part 5: The Final Sprint
+
 May bled into the humid heat of a Virginia June. The SOL window closed, and the school transitioned into the final, chaotic sprint of end-of-year exams and final projects.
 
 Bob and Emily powered through the final weeks as a unified front. Bob’s upper body strength had returned entirely, and while his legs remained stationary in the wheelchair, his mind was sharper than ever. Emily, meanwhile, had undergone an academic metamorphosis that left her teachers stunned.
@@ -494,6 +548,9 @@ During their shared lunch periods, instead of going to the weight room—a place
 By the time the final bell of the year rang, signaling the start of summer break, the two cousins had left an indelible mark on Bluewater High. They had survived an assault, rebuilt their communication, and conquered their classes.
 
 ### Part 6: The Graduation Pact
+
+# Finishing the Semester Strong
+# Part 6: The Graduation Pact
 
 Three days after the school year ended, Diane and David drove the cousins back to Bluewater High for one final meeting. The hallways were eerily quiet, stripped of their posters and echoing with the sound of floor buffers.
 

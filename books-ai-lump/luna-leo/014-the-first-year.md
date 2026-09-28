@@ -9,6 +9,9 @@ series: ""
 
 ### Part 1: The 05:30 Alarm
 
+# The Orientation
+# Part 1: The 05:30 Alarm
+
 ## August 24, 2006 8 Ocean View Lane - The Twin Wing 05:30 AM
 
 The alarm on Olivia’s phone chirped—a soft, ascending chime designed not to startle.
@@ -86,6 +89,9 @@ They finished their breakfast, grabbed their bags, and walked out the front door
 They headed down the wide, smooth sidewalk of Ocean View Lane, four students (and one grandmother waving from the porch) heading toward the sound of the train whistle.
 
 ### Part 2: The Rainy Day Express
+
+# The Orientation
+# Part 2: The Rainy Day Express
 
 ## August 28, 2006 Iron Point Station - Platform 06:10 AM
 
@@ -196,6 +202,9 @@ Leo sat alone in the hallway for a second. Then he turned his chair. He pushed h
 He rolled into the elevator, descended to the tunnel, and headed for the Engineering building. He was a Bull. And he was ready to work.
 
 ### Part 3: The Split Screen
+
+# The Orientation
+# Part 3: The Split Screen
 
 ## August 28, 2006 09:15 AM
 
@@ -379,6 +388,9 @@ Luna smiled. The rumor was true. The Fortress had arrived.
 
 ### Part 4: The Vetting Process
 
+# The Orientation
+# Part 4: The Vetting Process
+
 ## August 30, 2006 The Foundry Dining Hall - The "Bull Pen" Table 12:10 PM
 
 The Fortress had claimed their usual large round table in the center of the dining hall. Stella was reviewing a contract on her laptop. Olivia was unwrapping a sandwich. Luna was reviewing her French vocabulary cards.
@@ -478,6 +490,9 @@ Olivia squeezed his hand, her ring clicking against his. She looked at Sarah and
 The Fortress had expanded. It hadn't let down the drawbridge; it had just issued two new visitor passes.
 
 ### Part 5: The Dialect Shock
+
+# The Orientation
+# Part 5: The Dialect Shock
 
 ## August 29, 2006 (Tuesday) Humanities Building - Room 204 02:00 PM
 
@@ -747,7 +762,10 @@ He tapped his **Quantum Communicator**.
 
 "Oh, hen," Elspeth laughed. "You're not ready for *that* lesson."
 
-### Part 6: The Machine Shop (The M.U.L.E. Begins)
+### Part 6: The Machine Shop
+
+# The Orientation
+# Part 6: The Machine Shop
 
 ## August 28, 2006 BSU Engineering Building - "The Sandbox" 02:00 PM
 
@@ -824,6 +842,9 @@ Leo rolled out of the shop. He checked his watch. 03:15 PM. Time to head to the 
 He felt lighter. He hadn't just designed a rack; he had found his cohort. And Olivia would approve.
 
 ### Part 7: The Audition
+
+# The Orientation
+# Part 7: The Audition
 
 ## August 28, 2006 Fine Arts Center - Rehearsal Hall A 04:00 PM
 
@@ -929,6 +950,9 @@ Luna played the A-440. The orchestra tuned to her sound. She hadn't bought the s
 
 ### Part 8: The Library Rendezvous
 
+# The Orientation
+# Part 8: The Library Rendezvous
+
 ## August 28, 2006 Fine Arts Center - The Music Library (Reading Room) 06:10 PM
 
 The Music Library was a quiet, wood-paneled sanctuary on the second floor of the Fine Arts Center. While the practice rooms were for noise, this room was for silence. It was filled with students studying scores, writing papers, and hiding from the chaos of the first day.
@@ -1010,6 +1034,9 @@ The Fortress was working. It wasn't just a wall anymore; it was a hub.
 Stella went back to her C# code. The family was safe. The semester was launched.
 
 ### Part 9: The Safe Harbor
+
+# The Orientation
+# Part 9: The Safe Harbor
 
 ## August 28, 2006 Fine Arts Center - The Music Library 06:30 PM
 
@@ -1133,6 +1160,9 @@ Leo smiled. He parked his chair. He was home.
 
 ### Part 10: The Missing Frequency
 
+# The Orientation
+# Part 10: The Missing Frequency
+
 ## August 29, 2006 (Tuesday) Braxton Conservatory - Room 304 04:00 PM
 
 The door clicked shut, sealing them inside the vault. The double-drywall and Green Glue acoustic treatment worked perfectly. The roar of the hallway—trumpets, scales, laughter—vanished, replaced by a heavy, studio-quality silence.
@@ -1220,6 +1250,9 @@ Leo tapped the table. Ping. Ping.
 He could already hear it. The missing frequency was found.
 
 ### Part 11: The Glass Wall
+
+# The Orientation
+# Part 11: The Glass Wall
 
 ## Spring 2007 8 Ocean View Lane - The Twin Wing Friday, 11:30 PM
 
@@ -1393,6 +1426,9 @@ They ate in the quiet kitchen, four people bound by a love that didn't need sex 
 
 ### Part 1: The Green Room
 
+# The Winter Concert
+# Part 1: The Green Room
+
 ## December 15, 2006 Fine Arts Center - Backstage 07:30 PM
 
 The backstage area smelled of rosin, valve oil, and nervous sweat. The Wind Symphony members were in their "Concert Black"—tuxedos for the men, long black gowns or pant suits for the women.
@@ -1416,6 +1452,9 @@ Jenna patted Luna’s shoulder.
 Luna smiled. She wasn't fighting for the chair anymore. She was the chair.
 
 ### Part 2: The Accessible Box
+
+# The Winter Concert
+# Part 2: The Accessible Box
 
 ## 07:45 PM Fine Arts Center - Concert Hall Box 4 (House Right)
 
@@ -1450,6 +1489,9 @@ Leo watched the waveform on his laptop (he was recording the audio for analysis)
 "CALIBRATION COMPLETE," he typed.
 
 ### Part 3: The Vivaldi
+
+# The Winter Concert
+# Part 3: The Vivaldi
 
 ## 08:15 PM Program Item 3: Concerto No. 4 in F Minor, "Winter" Movement II: Largo Soloist: Luna Porter
 
@@ -1504,6 +1546,9 @@ Jenna leaned over. "Show off."
 "I learned from the best," Luna whispered back.
 
 ### Part 4: The Snow Convoy
+
+# The Winter Concert
+# Part 4: The Snow Convoy
 
 ## December 15, 2006 Fine Arts Center - Band Room 09:45 PM
 
@@ -1629,6 +1674,9 @@ The Fortress was full. The snow was falling. And the fire was about to be lit.
 
 ### Part 5: The Sanctuary Protocol
 
+# The Winter Concert
+# Part 5: The Sanctuary Protocol
+
 ## December 15, 2006 8 Ocean View Lane - Living Room 11:00 PM
 
 The snow was piling up against the triple-paned windows, sealing the house into a white, silent bubble. Inside, the fire was crackling. The Fortress was in "Decompression Mode."
@@ -1743,6 +1791,9 @@ Leo rolled his chair closer. He put his hand on Sarah’s knee.
 
 ### Part 6: The Jurisdiction Trap
 
+# The Winter Concert
+# Part 6: The Jurisdiction Trap
+
 ## December 15, 2006 8 Ocean View Lane - Living Room 11:30 PM
 
 The fire was crackling. Sarah sat on the sofa, flanked by Amanda and Luna. She was trembling, waiting for the inevitable explosion.
@@ -1840,6 +1891,9 @@ She wasn't a fugitive anymore. She was a Defendant in a court that was already o
 "Let him come," Sarah whispered, wiping her eyes. "I'm not going back."
 
 ### Part 7: The Station Assault
+
+# The Winter Concert
+# Part 7: The Station Assault
 
 ## December 16, 2006 Iron Point Station - The Iron Kettle 09:30 AM
 
@@ -2071,6 +2125,9 @@ They walked out of the shop, leaving the cold coffee and the half-eaten donuts b
 
 ### Part 8: The Flight Risk
 
+# The Winter Concert
+# Part 8: The Flight Risk
+
 ## Monday, December 18, 2006 Iron County Superior Court - Oakhaven 09:00 AM
 
 The courtroom was tense.
@@ -2169,6 +2226,9 @@ The doors swung shut. The State Prosecutor looked at his empty table, then at th
 
 ### Part 9: The Identity Crisis
 
+# The Winter Concert
+# Part 9: The Identity Crisis
+
 ##### December 18, 2006 Iron County Superior Court - Witness Room 10:30 AM
 
 The hearing was over. Viktor Krov was in federal custody.
@@ -2236,6 +2296,9 @@ Then she looked at the Fortress crew. The people who had saved her.
 "Exactly," Stella said. "Let's go home. We have a guest room with your name on it. Whatever name that is."
 
 ### Part 10: The Identity Protocol
+
+# The Winter Concert
+# Part 10: The Identity Protocol
 
 ## December 18, 2006 Iron County Superior Court - Witness Room 10:45 AM
 
@@ -2341,6 +2404,9 @@ Maya smiled. It was a real smile.
 
 ### Part 11: The Plastic Anchor
 
+# The Winter Concert
+# Part 11: The Plastic Anchor
+
 ## December 18, 2006 Rhode Island DMV - Oakhaven Branch 03:45 PM
 
 "Transaction?" Brenda asked.
@@ -2416,6 +2482,9 @@ Maya clutched the keys and the license. She had a name. She had a home. And she 
 "Clear," Maya agreed.
 
 ### Part 12: The Ghost Tax
+
+# The Winter Concert
+# Part 12: The Ghost Tax
 
 ## December 19, 2006 Coastal Insurance Agency - Oakhaven, RI 09:10 AM
 
@@ -2536,6 +2605,9 @@ She climbed into the driver's seat. She adjusted the mirror. She saw **Maya Port
 Maya turned the key. The V8 roared to life. She put it in gear and drove the Fortress out of the lot, leaving Sarah Halloway behind in the database of ghosts.
 
 ### Part 13: The Maiden Voyage
+
+# The Winter Concert
+# Part 13: The Maiden Voyage
 
 ## December 19, 2006 Coastal Insurance Agency - Parking Lot 09:30 AM
 

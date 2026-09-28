@@ -9,6 +9,9 @@ series: "Nichole"
 
 ### Part 1: The Outcome
 
+# Concept: The Joint Defense
+# Part 1: The Outcome
+
 They spent Junior year living in the lab and the library.
 
 - Patrick learned to code primarily in C++ (for the microcontroller) and learned to solder delicate sensors into the upholstery of the wheelchair without ruining the comfort.

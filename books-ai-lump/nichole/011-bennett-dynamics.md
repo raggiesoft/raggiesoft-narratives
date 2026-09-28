@@ -9,6 +9,9 @@ series: "Nichole"
 
 ### Part 1: The Incorporation
 
+# An Idea
+# Part 1: The Incorporation
+
 ## Date: October 1, 2008 Location: Unit 404, The Lofts at Foundry Square Time: 10:00 AM
 
 The morning sun flooded through the floor-to-ceiling windows of Unit 404.
@@ -53,7 +56,10 @@ Patrick snorted. "No titles. Titles are for people who have meetings. We are Par
 
 "50/50," Patrick agreed. "But I handle the taxes."
 
-### Part 2: The Home Office (The Workflow)
+### Part 2: The Home Office
+
+# An Idea
+# Part 2: The Home Office
 
 ## Date: March 2009 (Six Months Later) Context: The "Golden Era" of Unit 404.
 
@@ -100,6 +106,9 @@ He knelt down and kissed her forehead.
 VIDEO GAMES
 
 ### Part 3: The Tablet Revolution
+
+# An Idea
+# Part 3: The Tablet Revolution
 
 ## Date: April 3, 2010 Event: The Launch of the MagnaPad 
 

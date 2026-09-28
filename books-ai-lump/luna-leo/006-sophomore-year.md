@@ -9,6 +9,9 @@ series: ""
 
 ### Part 1: The Porter Morning Machine
 
+# The Sophomore Shuffle
+# Part 1: The Porter Morning Machine
+
 ## Section 1: September 5, 2000 05:30 AM
 
 The alarm clock on Stella’s bedside table buzzed, a rude interruption to the quiet peace of 1091 Daniel Maloney Drive. Stella Porter, now twenty-one and entering her second full year as legal guardian to her twin siblings, hit the snooze button with a practiced slap. She didn't need the extra nine minutes to sleep; she needed them to mentally run the checklist.
@@ -115,6 +118,9 @@ They turned and headed toward the double doors, two halves of a whole ready to f
 
 ### Part 2: The Stand-Off
 
+# The Sophomore Shuffle
+# Part 2: The Stand-Off
+
 ## Section 1: 07:10 AM Northwood High School Drop-Off
 
 The drop-off loop was a chaotic snarl of exhaust fumes and brake lights. Stella maneuvered the blue Horizon Avalon to the curb, the small sedan dwarfed by the line of SUVs.
@@ -184,6 +190,9 @@ Leo looked up, the tension leaving his shoulders. He released his brakes immedia
 They merged back into the flow of students, side-by-side. This was their ritual. For the next ten minutes, the architectural hostility of the building and the rigid rules of the clinic didn't matter. They were together, and the school day could officially begin.
 
 ### Part 3: The Unwritten Rules
+
+# The Sophomore Shuffle
+# Part 3: The Unwritten Rules
 
 ## Section 1: 08:05 AM The Gymnasium Exit
 
@@ -265,6 +274,9 @@ As the clinic door closed behind him, Leo prepared for the indignity of the clin
 
 ### Part 4: Parallel Lines
 
+# The Sophomore Shuffle
+# Part 4: Parallel Lines
+
 The bell for the start of second period rang, a shrill, dividing line that officially separated the twins for the next ninety minutes.
 
 ## Section 1: The Band Room (Fine Arts Wing), 8:20 AM
@@ -341,6 +353,9 @@ She turned the page of her workbook, solved three more quadratic equations in th
 
 ### Part 5: Dead Language, Live Connection
 
+# The Sophomore Shuffle
+# Part 5: Dead Language, Live Connection
+
 ## Section 1: 09:55 AM – The Fine Arts Wing
 
 The bell rang, ending Second Period.
@@ -412,6 +427,9 @@ Leo typed a quick reply just for her, grinning. "LOGIC."
 For the next fifty minutes, there was no separation, no "liability" concerns, and no architectural barriers. In Room 104, they were just two smart kids learning an ancient language, together.
 
 ### Part 6: The Cafeteria Court
+
+# The Sophomore Shuffle
+# Part 6: The Cafeteria Court
 
 ## Section 1: 11:55 AM – The Clinic Stop
 
@@ -519,6 +537,9 @@ Leo tapped his screen as they rolled past the scene of the crime, his face light
 
 ### Part 7: The Sanctuary of the Stacks
 
+# The Sophomore Shuffle
+# Part 7: The Sanctuary of the Stacks
+
 ## Section 1: 12:15 PM – The Cardboard Feast
 
 With Josh Riley banished to the grease traps and order restored to the serving line, the flow of students resumed. Luna and Leo made their way through the line.
@@ -592,6 +613,9 @@ Luna grinned behind her hand. "She keeps the chaos out. She's like a force field
 For the next forty-five minutes, while the rest of the school swirled in chaotic social currents outside the glass, the twins sat in the silence of the stacks, protected by the terrifying, benevolent power of the librarian.
 
 ### Part 8: The Getaway Driver
+
+# The Sophomore Shuffle
+# Part 8: The Getaway Driver
 
 ## Section 1: 02:10 PM – The Final Bell
 
@@ -683,6 +707,9 @@ Sophomore year had officially begun.
 
 ### Part 1: Online Reconnaissance
 
+# Stella Buys a Car
+# Part 1: Online Reconnaissance
+
 The decision was made: the trusty old blue Avalon, purchased before Stella became the twins' guardian, just wasn't cutting it anymore. Transporting two growing teenagers, one of whom used a wheelchair, required something bigger, sturdier, and more accessible. Knowing Stella needed help navigating the daunting process of buying a new car, her grandfather, Arthur Bennett, had readily offered his assistance, funded by the trust established for the twins.
 
 One Saturday morning, Arthur arrived at Stella's house, ready for action. Before they even booted up the computer, Arthur sat down with Stella at the kitchen table.
@@ -721,6 +748,9 @@ After an hour of online research, comparing specs, and looking at grainy photos,
 
 ### Part 2: Olympus No Go
 
+# Stella Buys a Car
+# Part 2: Olympus No Go
+
 Stella and her grandfather stood looking at a new Olympus Regent. It was comfortable, roomy, and seemed potentially suitable. The doors opened wide, and the seat height looked manageable for Leo. A salesman quickly approached, launching into a practiced spiel about the Regent's smooth ride and luxury features.
 
 "And the best part," the salesman beamed, "is we can get you into this today with incredibly low monthly payments. Our financing department works miracles..."
@@ -737,6 +767,9 @@ After ten minutes of polite but firm refusal from Arthur met with evasive answer
 
 ### Part 3: Like a Rock? No, Like a Financing Offer
 
+# Stella Buys a Car
+# Part 3: Like a Rock? No, Like a Financing Offer
+
 Their next stop was the Summit dealer. They looked over a new Gazelle – decent size, seemed practical. Again, a salesperson approached, and again, the conversation immediately pivoted to financing options and "attractive monthly payments."
 
 "Look," Arthur said, his patience clearly thinner this time, "let's save us all some time. We are paying cash. No financing, no loans. What is the final price for this car? Bottom line."
@@ -749,6 +782,9 @@ After another brief, fruitless exchange where the salesperson seemed unable or u
 
 ### Part 4: Lunch Break
 
+# Stella Buys a Car
+# Part 4: Lunch Break
+
 "Alright," Arthur said, clapping Stella gently on the shoulder as they got back into his car. "I think we both need a break and some lunch before we try the Holt place. My treat."
 
 They found a quiet local diner nearby. As they waited for their sandwiches, Stella sighed. "Is it always like this, Grandpa? They just wouldn't talk about a cash price!"
@@ -760,6 +796,9 @@ He took a sip of his iced tea. "It's why my place did so well," he added with qu
 He smiled. "Don't get discouraged. We know what you need for Luna and Leo. That **Sent looked** promising from the specs. Let's get some food in us, then we'll go talk to the Holt folks. Third time's the charm, right?" His confidence, born of years running a successful, customer-focused dealership, was reassuring.
 
 ### Part 5: Built Holt Tough
+
+# Stella Buys a Car
+# Part 5: Built Holt Tough
 
 Refreshed from lunch and armed with her grandfather's insights, Stella felt more prepared as they walked into the Holt dealership. Her eyes immediately scanned the showroom floor, and then she saw it. A **Sentinel LS**, exactly the model they'd discussed, roomy and practical-looking. And the color – a perfect Starry Night Blue Metallic. Stella let out a small sigh of relief. It was the first car they'd seen all day in a shade of blue she actually liked and that met the practical needs for the twins. *Please let this one work out,* she thought fervently.
 
@@ -809,6 +848,9 @@ Stella nodded, absorbing the piece of automotive history from someone who'd trul
 
 ### Part 1: Showing Off the New Car
 
+# Dinner with the New Car
+# Part 1: Showing Off the New Car
+
 Stella gripped the steering wheel of the Holt Sentinel, feeling the difference immediately. Compared to her trusty old blue Avalon, this car felt substantial, solid, almost boat-like on the road, but in a reassuring way. The V8 engine under the hood purred quietly at cruising speed but offered a satisfying surge of power when she needed to merge onto the highway heading back towards her neighborhood. She glanced in the rearview mirror, seeing her grandfather's car following steadily behind. Getting used to the controls – the position of the blinker, the feel of the brakes, the layout of the dashboard with its new AM/FM/CD player – took focus, but by the time she turned onto her own street, she was starting to feel comfortable.
 
 As she pulled the sedan into her driveway, the front door of the house burst open. Luna and Leo emerged, Grandmother close behind them, all three peering eagerly at the new arrival. Stella grinned, putting the car in park and cutting the engine. Grandpa pulled in behind her.
@@ -839,7 +881,10 @@ Stella laughed, feeling the stress of the day melt away in the face of their exc
 
 A few minutes later, Stella carefully helped Leo transfer into the front passenger seat of the Sent– already noticeably easier than it had been with the Avalon – while Luna climbed excitedly into the spacious back seat. With a final wave to her grandparents, Stella started the engine, backed the big blue sedan out of the driveway, and headed off towards a nearby restaurant, the twins chattering happily beside and behind her, ready for dinner and their first real ride in the new family car.
 
-### Part 2: First Official Trip (Dinner)
+### Part 2: First Official Trip
+
+# Dinner with the New Car
+# Part 2: First Official Trip
 
 Stella navigated the now-familiar blue Sentinel into the bustling parking lot of the shopping center that housed one of their favorite casual restaurants. The twins were still buzzing with excitement about the new car. Behind them, Stella could see her grandparents' car following. She found a good parking spot near the restaurant entrance, pulling in carefully.
 
@@ -874,6 +919,9 @@ Grandma sighed deeply, a complex mix of sadness for her daughter and relief for 
 The incident cast a brief shadow, a reminder of the boundaries they needed, but they wouldn't let it ruin their first outing in the new car. They got out, helped Leo transfer into his chair, and headed into the restaurant together, determined to enjoy their evening. The restraining order, and their mother's fear of it, had done its job.
 
 ### Part 3: The Narc Special
+
+# Dinner with the New Car
+# Part 3: The Narc Special
 
 The following Monday morning, the reality of Stella’s purchase hit the Northwood High drop-off loop with the subtlety of a sledgehammer.
 
@@ -918,6 +966,9 @@ She got back into the driver’s seat, the heavy door sealing her in. As she pul
 "Great," Luna sighed, grabbing the handles of his wheelchair. "Two more years of this. Come on, Officer Leo. Let's get to class."
 
 ### Part 4: The Clinic Hand-Off
+
+# Dinner with the New Car
+# Part 4: The Clinic Hand-Off
 
 The interior of Northwood High School smelled of floor wax and teenage anxiety. Built in 1992, the building was technically compliant with the federal laws of the time—there was an elevator in the academic wing, and the doors were wide enough for a wheelchair—but it was designed for a world that still preferred to keep students like Leo slightly separate.
 
@@ -964,6 +1015,9 @@ Luna stood there for a moment, staring at the wood grain, listening to the muffl
 She hoisted her backpack higher on her shoulder, the weight feeling heavier without the counterbalance of the wheelchair. She turned and walked solo toward the girls' locker room, her limp slightly more pronounced as the stress tightened her own muscles. She needed to hurry. Every minute they were separated was a minute the world felt slightly off its axis.
 
 ### Part 5: Range of Motion
+
+# Dinner with the New Car
+# Part 5: Range of Motion
 
 Luna finished adjusting the waistband of her black athletic shorts and tugged at her comfortable, oversized grey cotton tee. Relieved to be done with the frantic change-out, she grabbed her water bottle and headed for the exit.
 
@@ -1033,6 +1087,9 @@ For the next forty-five minutes, the architectural hostility of the building, th
 
 ### Part 1: Difficult News
 
+# Football and Marching Bands
+# Part 1: Difficult News
+
 It was a Friday afternoon, the air buzzing slightly with the anticipation of the evening's home football game and halftime performance. Stella was making an early dinner, while Luna and Leo were likely running through music mentally or relaxing before the pre-game rush. Her maternal grandparents had stopped by for a visit, wanting to see the twins and wish them luck before heading to the stadium later themselves. Stella poured them coffee at the kitchen table.
 
 There was a comfortable lull in the conversation about band preparations before Grandmother sighed softly, reaching across the table to place her hand gently over Stella's. "Stella, honey," she began, her voice quiet and laced with a familiar sadness, "there's something your grandfather and I need to tell you."
@@ -1060,6 +1117,9 @@ Her grandfather reached over and squeezed her hand. "We understand, Stella. Comp
 Stella gave them a small, grateful smile. It was sad news, the end of a difficult chapter finally approaching, but her path forward, alongside Luna and Leo, remained clear. There would be no deathbed reconciliations built on denial. Their life was here now, built on truth and mutual support.
 
 ### Part 2: The Final Phone Call
+
+# Football and Marching Bands
+# Part 2: The Final Phone Call
 
 The phone call came on a Tuesday evening. Stella answered, recognizing her grandmother's number.
 
@@ -1096,6 +1156,9 @@ They both nodded, turning back to their computers, the quiet click-clack resumin
 ## Spring Break in the Stent
 
 ### Part 1: Turnpike Wonders
+
+# Spring Break in the Stent
+# Part 1: Turnpike Wonders
 
 Spring Break of the twins’ sophomore year (April 2001) arrived, bringing with it the promise of their first real vacation since Stella had become their guardian. It was also the first long road trip for Stella's Holt Sentinel. Packed comfortably into the spacious blue sedan were Stella, Luna, and Leo. Following close behind in Arthur’s own comfortable car were Arthur and Eleanor Bennett. Their destination: Aquidneck Island, Rhode Island – a trip back to the grandparents' old stomping grounds.
 
@@ -1145,6 +1208,9 @@ Almost immediately, Arthur's voice came over the walkie-talkie. "Stay left, Stel
 
 ### Part 2: Mystic Stopover
 
+# Spring Break in the Stent
+# Part 2: Mystic Stopover
+
 The Sentinel proved its worth on the rest of the long drive north, navigating the Garden State Parkway, the Thruway, the Tappan Zee, I-287, and the scenic but sometimes narrow Merritt Parkway before connecting via US-7 South back to I-95. While Mystic, Connecticut wasn't quite the halfway point (that would’ve been New Jersey), Arthur had suggested an overnight stop there for a specific reason. "It's a long haul, especially for your first big trip in the new car, Stella," he'd said when planning. "Why don't we spend the night in Mystic and take the twins to the Aquarium in the morning? It'll be a nice break for everyone before we hit Rhode Island."
 
 Stella readily agreed, knowing the twins would enjoy the aquarium and appreciating the chance to break up her first long-distance drive in the bigger vehicle. After checking into a conveniently located motel just off I-95 the previous evening, they woke refreshed and headed to the aquarium first thing. Navigating the parking lot and entrance with Leo's wheelchair was straightforward, and the accessible design of the aquarium made getting around easy.
@@ -1152,6 +1218,9 @@ Stella readily agreed, knowing the twins would enjoy the aquarium and appreciati
 The twins were immediately captivated. Leo parked his chair right up against the glass of the main fish tanks, watching mesmerized as colorful schools of fish darted past. Luna was fascinated by the playful penguins, laughing at their waddling walks and sleek dives into the water. The highlight for everyone, however, was the Arctic Coast exhibit featuring the beluga whales. They watched the large, graceful white whales glide through the cool water, their haunting calls echoing slightly in the viewing area. Leo typed "SO BIG" on his AAC device, his eyes wide with wonder. Stella found herself just as enthralled, enjoying the simple pleasure of watching the twins experience something new and exciting together. Even Arthur and Eleanor seemed relaxed, pointing out different sea creatures and sharing the moment. It was a perfect, lighthearted break before the more emotionally charged part of their trip back to Rhode Island. After a couple of enjoyable hours exploring the exhibits, they headed back to the cars, the Senteasily accommodating Leo's chair in the trunk once more.
 
 ### Part 3: The Newport Expressway
+
+# Spring Break in the Stent
+# Part 3: The Newport Expressway
 
 Refreshed from their aquarium visit, the convoy merged back onto I-95 North, crossing the border into Rhode Island. The trees seemed to get a little denser, the air a little saltier.
 
@@ -1215,6 +1284,9 @@ Stella carefully executed the turns. "Okay, on East Main."
 
 ### Part 4: Ghosts of Keystone Motors of Middletown
 
+# Spring Break in the Stent
+# Part 4: Ghosts of Keystone Motors of Middletown
+
 Stella slowed the car, pulling towards the shoulder. Luna and Leo looked. Where the iconic "Keystone Motors of Middletown" sign should have been, there was nothing but an empty facade. The building itself looked vacant, undergoing renovation. The large showroom windows were dark or papered over. The sprawling lot where rows of new Holts once gleamed sat empty, save for a few construction vehicles. It wasn't just that Keystone Motors of Middletown was gone – the national chain that bought it, the one that had abandoned Arthur's customer service principles, was gone too. It wasn't even a Holt dealership anymore.
 
 A large banner stretched across the front of the quiet building read: "Coming Soon: BayState Market – Your Neighborhood Food Store!"
@@ -1226,6 +1298,9 @@ After a long moment, Arthur’s voice, heavy with resignation, came back. "Well.
 He didn't say anything more as Stella sat there for another moment, the ghost of "There’s only one choice: Keystone Motors!" seeming to hang silently in the air, soon to be replaced by the promise of weekly grocery specials. The sight was a stark confirmation of his fears realized – the legacy he built, sold, and then saw decline into corporate greed had now vanished entirely, making way for something utterly unrelated.
 
 ### Part 5: A Colossal Good Distraction
+
+# Spring Break in the Stent
+# Part 5: A Colossal Good Distraction
 
 "Okay, Stella," Arthur's voice came back, shaking off the melancholy. "Let's turn around here when it's safe. We'll head back and make a left onto West Main Road, heading south again."
 
@@ -1264,6 +1339,9 @@ Luna and Leo exchanged puzzled glances. "Colossal Cooler?" Luna repeated hesitan
 He gestured enthusiastically towards the counter, eager to share this piece of local flavor, a sweet counterpoint to the bittersweet taste of memory lane. Stella smiled, grateful for the shift in mood, and ushered the twins towards the counter, ready for their Colossal Cooler initiation.
 
 ### Part 6: The Jingle and the Mansions
+
+# Spring Break in the Stent
+# Part 6: The Jingle and the Mansions
 
 As they finished the last delicious, icy sips of their Colossal Coolers back at the booth, Luna spoke up, voicing the question that had been lingering since the worker's comment. "Grandpa," she asked, "that man... and you at the dealership earlier... you both mentioned that jingle, 'There’s only one choice: Keystone Motors!'. What did it sound like?" Leo nodded eagerly, and even Stella leaned forward, curious to finally hear the tune her grandfather was so known for.
 

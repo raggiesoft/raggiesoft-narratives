@@ -7,7 +7,10 @@ series: ""
 
 ## The Architect
 
-### Part 1: The Tolerances of Eden – Monday, September 4, 2045 – 10:00
+### Part 1: The Tolerances of Eden
+
+# The Architect
+# Part 1: The Tolerances of Eden
 
 Sub-Level 2 smelled sharply of vaporized ozone and fresh, fragrant alien pine sap.
 
@@ -71,7 +74,10 @@ Wyatt looked down at her, his broad shoulders dropping a fraction of a centimete
 
 "You already made it ready, Wyatt," Sarah promised, her voice fiercely certain. "You claimed the mountain. You built the walls. Now, you just have to finish the cribs."
 
-### Part 2: The Silent Scout – Tuesday, September 5, 2045 – 14:00
+### Part 2: The Silent Scout
+
+# The Architect
+# Part 2: The Silent Scout
 
 Down on Sub-Level 3, the buried Apex dreadnought functioned as the ultimate, heavily armored nervous system for the entire mountain estate.
 
@@ -139,7 +145,10 @@ He looked at the planetary grid hovering above the table. He couldn't just rely 
 
 "I don't care," Wyatt replied, pushing himself out of the chair. "I'm not letting a megacorporation anywhere near my family. Lock down the grid, Aria. I have to go check on Sarah, and then I'm getting back to work."
 
-### Part 3: The Shield and the Spark – Wednesday, September 20, 2045 – 11:00
+### Part 3: The Shield and the Spark
+
+# The Architect
+# Part 3: The Shield and the Spark
 
 The automated medical wing on Sub-Level 1 was a sanctuary of brilliant white LED light and perfectly filtered, sterile air.
 
@@ -199,7 +208,10 @@ Sarah smiled, a deep, resonant warmth filling her chest. He wasn't just acting l
 
 "I'm just protecting my investments," Wyatt smirked, resting his hand back on her twenty-week bump. "Now, let's get you back upstairs. You need calories, and I need to go finish building the biggest lock in the galaxy."
 
-### Part 4: The Ghost of Eden – Friday, September 22, 2045 – 13:15
+### Part 4: The Ghost of Eden
+
+# The Architect
+# Part 4: The Ghost of Eden
 
 The Combat Information Center on Sub-Level 3 was vibrating.
 
@@ -213,7 +225,10 @@ Wyatt looked at the glowing holographic globe hovering above the glass table. Fo
 
 Wyatt slammed his hand down on
 
-### Part 5: The Dead Rock – Thursday, October 12, 2045 – 02:15
+### Part 5: The Dead Rock
+
+# The Architect
+# Part 5: The Dead Rock
 
 The master suite was perfectly quiet, bathed in the soft, ambient amber glow of the geothermal fireplace. Wyatt was deeply asleep, his heavy arm draped protectively over Sarah’s waist as she rested on her side, the twenty-five-week swell of the triplets pressed safely against him.
 
@@ -363,7 +378,10 @@ He pictured it perfectly in his mind. Ellie in the left crib, Nora in the right,
 
 "It is," Wyatt agreed, completely confident in his craftsmanship and the medical science that guided it. He looked at the three beautiful, separate cribs, entirely unaware that his children's bond was going to render his flawless engineering obsolete the moment they were born. "It's perfect."
 
-### Part 6: The Aegis Hallucination – Thursday, October 12, 2045 – 08:00
+### Part 6: The Aegis Hallucination
+
+# The Architect
+# Part 6: The Aegis Hallucination
 
 The morning after the corporate surveyor vessel fled the sector, Wyatt was back down in the Combat Information Center on Sub-Level 3.
 
@@ -423,7 +441,10 @@ A slow, wicked, entirely unapologetic grin spread across Wyatt’s scarred face.
 
 Wyatt looked at the glowing blue holographic globe, his mechanic's brain entirely satisfied. The corporate scouts could come back with a hundred ships if they wanted to. Planet Eden was permanently, irrevocably off the board.
 
-### Part 7: The Administrative Override – Friday, November 10, 2045 – 15:00
+### Part 7: The Administrative Override
+
+# The Architect
+# Part 7: The Administrative Override
 
 The automated medical wing on Sub-Level 1 was sterile, brilliantly lit, and completely empty except for Wyatt Colton.
 
@@ -477,7 +498,10 @@ He was as ready as a father could possibly be.
 
 "Save the simulation matrix," Wyatt commanded, powering down the holotable. "Keep the bio-bed warmed up. It could be any day now."
 
-### Part 8: The Weight of the World – Monday, November 27, 2045 – 03:15
+### Part 8: The Weight of the World
+
+# The Architect
+# Part 8: The Weight of the World
 
 The automated medical wing on Sub-Level 1 was no longer just a clinic; it had officially become their entire world.
 
@@ -545,7 +569,10 @@ The calm before the storm was heavy, demanding, and grueling. But as Wyatt sat g
 
 They were ready.
 
-### Part 9: Cosmic Dust – Monday, November 27, 2045 – 06:00
+### Part 9: Cosmic Dust
+
+# The Architect
+# Part 9: Cosmic Dust
 
 The automated medical wing remained wrapped in a quiet, localized amber glow. Sarah was deeply asleep, her breathing finally evening out after the grueling, exhausted transfer to the washroom a few hours prior.
 
@@ -623,7 +650,10 @@ The universe had just tried to break down his front door, and it had ceased to e
 
 ## The Arrival
 
-### Part 1: The Gravity of Eden – Tuesday, December 5, 2045 – 02:30
+### Part 1: The Gravity of Eden
+
+# The Arrival
+# Part 1: The Gravity of Eden
 
 For over a week, the medical wing had existed in a state of suspended, heavy anticipation. At thirty-one weeks, the sheer, crushing mass of the triplet pregnancy had pushed Sarah to the absolute limits of human endurance.
 
@@ -683,7 +713,10 @@ Wyatt braced his boots against the mattress, tightening his protective grip on h
 
 The Vanguard was breaching the perimeter.
 
-### Part 2: The Vanguard\'s Spear – Tuesday, December 5, 2045 – 02:45
+### Part 2: The Vanguard\'s Spear
+
+# The Arrival
+# Part 2: The Vanguard\'s Spear
 
 The clinical, brilliant white light of the medical bay reflected off the polished glass of the diagnostic monitors.
 
@@ -751,7 +784,10 @@ The transition was over. The Interval had begun.
 
 "One down, sweetheart," Wyatt said, his dark eyes locking onto Sarah's as she braced herself for the next wave. "She's safe. Now let's go get her sister."
 
-### Part 3: The Hypoxic Clock – Tuesday, December 5, 2045 – 02:52
+### Part 3: The Hypoxic Clock
+
+# The Arrival
+# Part 3: The Hypoxic Clock
 
 The sharp, furious cries of his firstborn daughter echoed safely from the heated bassinet behind him, but Wyatt Colton didn't have a single second to celebrate.
 
@@ -831,7 +867,10 @@ He looked at her tiny, breathing chest, then turned his dark, fierce eyes back t
 
 Two down. One to go.
 
-### Part 4: The Lion\'s Fight – Tuesday, December 5, 2045 – 03:00
+### Part 4: The Lion\'s Fight
+
+# The Arrival
+# Part 4: The Lion\'s Fight
 
 The medical bay was a symphony of chaos and miracles. From the far wall, the furious, healthy cries of Ellie and the thin, wavering wails of Nora filled the room.
 
@@ -925,7 +964,10 @@ Wyatt walked over, gently brushing the damp hair from her forehead, and kissed h
 
 The Vanguard had arrived. And Wyatt Colton had never been more terrified, or more proud, in his entire life.
 
-### Part 5: The Incubator Watch – Tuesday, December 5, 2045 – 05:00
+### Part 5: The Incubator Watch
+
+# The Arrival
+# Part 5: The Incubator Watch
 
 The automated medical bay had settled into a quiet, rhythmic hum. The flashing crimson lights were gone, replaced by the soft, warm amber glow of the localized night-cycle illumination.
 
@@ -989,7 +1031,10 @@ Wyatt’s entire demeanor softened. He abandoned his logistical worries and cros
 
 "They're right here, Sarah," Wyatt smiled, his dark eyes shining with tears of absolute triumph. "Ellie, Nora, and Leo. They are all right here. And they are perfect."
 
-### Part 6: Reaching in the Dark – Tuesday, December 5, 2045 – 05:15
+### Part 6: Reaching in the Dark
+
+# The Arrival
+# Part 6: Reaching in the Dark
 
 Sarah tried to push herself up on her elbows, her dark eyes frantic with the desperate need to see the children she had just spent seven grueling months building. But her muscles were entirely spent, her arms trembling under her own weight.
 
@@ -1035,7 +1080,10 @@ Wyatt leaned down, pressing a kiss to Sarah’s damp hair. They had survived the
 
 "Get some rest, Sarah," Wyatt murmured, keeping his vigilant watch over the three incubators. "I'm not taking my eyes off them. I promise."
 
-### Part 7: The Maintenance Schedule – Tuesday, December 12, 2045 – 14:00
+### Part 7: The Maintenance Schedule
+
+# The Arrival
+# Part 7: The Maintenance Schedule
 
 Exactly one week after the chaotic delivery, the automated medical bay on Sub-Level 1 had settled into a grueling, relentless rhythm.
 
@@ -1103,7 +1151,10 @@ Sarah didn't argue. She let Wyatt seamlessly transfer her from the wheelchair ba
 
 Wyatt pulled his stool back to the center of the room. He sat down, crossing his heavy arms over his chest as he prepared to spend the next three hours watching his beautiful, perfectly engineered, and utterly miserable children, entirely unaware of the simple, physical contact they were actually desperate for.
 
-### Part 8: The Annoyance – Thursday, December 21, 2045 – 02:15
+### Part 8: The Annoyance
+
+# The Arrival
+# Part 8: The Annoyance
 
 The 02:00 feeding and maintenance cycle was always the hardest. The profound, physical exhaustion in Wyatt Colton’s bones felt like lead, but his S.H.O.P. Marine discipline refused to let him miss a single drop of the fortified milk.
 
@@ -1163,7 +1214,10 @@ Wyatt dried his hands and pulled his rolling stool over to Bassinet 3. Leo was l
 
 "I've got you, little lion," Wyatt whispered, pushing his massive arms through the circular access ports to begin the feeding cycle all over again. "Nothing's getting through the door."
 
-### Part 9: The Engine Block – Tuesday, January 9, 2046 – 10:00
+### Part 9: The Engine Block
+
+# The Arrival
+# Part 9: The Engine Block
 
 The adrenaline that had sustained Wyatt Colton for the first month of his children’s lives was finally beginning to run dry.
 
@@ -1237,7 +1291,10 @@ As Wyatt finally collapsed onto the heavy mattress on the floor, letting the exh
 
 ## The Blueprint Fails
 
-### Part 1: The Flaw in the Wood – Tuesday, January 30, 2046 – 14:00
+### Part 1: The Flaw in the Wood
+
+# The Blueprint Fails
+# Part 1: The Flaw in the Wood
 
 Sub-Level 1 was finally empty.
 
@@ -1327,7 +1384,10 @@ Wyatt stood in the center of the sunlit room, heavily burdened by the sudden, gl
 
 Wyatt nodded slowly, staring at the sixty-millimeter slats. He was determined to figure out the mechanical flaw in his design, entirely blind to the fact that the only flaw was the sixty centimeters of empty air separating the three mattresses.
 
-### Part 2: The Gravity of the Hive – Wednesday, January 31, 2046 – 03:00
+### Part 2: The Gravity of the Hive
+
+# The Blueprint Fails
+# Part 2: The Gravity of the Hive
 
 The nursery was bathed in the soft, ambient amber glow of the night-cycle illumination.
 
@@ -1439,7 +1499,10 @@ Wyatt looked down into the crib at his three children, perfectly synced, breathi
 
 "Okay," Wyatt smiled, his heavy hand resting on Sarah's shoulder. "We sleep. But tomorrow, the blueprints change."
 
-### Part 3: The Sentinel Directive – Wednesday, January 31, 2046 – 09:00
+### Part 3: The Sentinel Directive
+
+# The Blueprint Fails
+# Part 3: The Sentinel Directive
 
 The morning sun filtered brightly through the hydro-glass windows of the residential kitchen.
 
@@ -1493,7 +1556,10 @@ Sarah squeezed his hand, a fierce, beautiful smile touching her lips. "Agreed."
 
 Planet Eden was officially off the map. They were isolated, heavily armed, and perfectly willing to talk—but absolutely prepared to destroy anyone who threatened their peace.
 
-### Part 4: The Mega-Crib – Wednesday, January 31, 2046 – 14:00
+### Part 4: The Mega-Crib
+
+# The Blueprint Fails
+# Part 4: The Mega-Crib
 
 Sub-Level 4 was thick with the smell of ozone and vaporized alien pine.
 
@@ -1551,7 +1617,10 @@ Wyatt leaned over the rail, his chest aching with a fierce, profound love. He ha
 
 "Okay," Wyatt murmured softly, kissing the top of Sarah's head. "The Mega-Crib stays."
 
-### Part 5: The Supply Drop – Thursday, May 14, 2046 – 11:30
+### Part 5: The Supply Drop
+
+# The Blueprint Fails
+# Part 5: The Supply Drop
 
 Spring had finally touched the northern hemisphere of Planet Eden, turning the dense, alien pine forests surrounding the estate a vibrant, deep emerald.
 
@@ -1625,7 +1694,10 @@ Wyatt let out a long, heavy exhale, leaning back from the holotable. He tapped h
 
 Planet Eden remained a ghost in the dark—a heavily armed, completely inaccessible fortress that occasionally offered a lifeline to those who were willing to just talk.
 
-### Part 6: The Soup Kitchen – Thursday, May 14, 2046 – 21:00
+### Part 6: The Soup Kitchen
+
+# The Blueprint Fails
+# Part 6: The Soup Kitchen
 
 The estate was completely quiet. Upstairs in the nursery, the triplets were deeply asleep in the center of the massive, custom-built Mega-Crib, entirely oblivious to the fact that their father had just saved three hundred lives from the vacuum of space.
 
@@ -1661,7 +1733,10 @@ The galaxy would continue to burn outside the impenetrable hard-light barrier of
 
 ## The Vanguard Discovers Gravity
 
-### Part 1: The Rule of Three – Tuesday, March 10, 2048 – 07:30
+### Part 1: The Rule of Three
+
+# The Vanguard Discovers Gravity
+# Part 1: The Rule of Three
 
 The Aegis deflector shield could effortlessly absorb the kinetic impact of a hyper-dense anti-matter warhead. It could silence the deafening roar of a corporate orbital bombardment, rendering the apocalypse entirely mute.
 
@@ -1729,7 +1804,10 @@ Wyatt let out a massive, ragged sigh, leaning his elbows on the kitchen island. 
 
 Wyatt looked at the three of them, eating their breakfast in perfect, unbroken physical contact. He loved them with a ferocity that defied physics, but keeping up with the Vanguard's specific, silent expectations was going to require more tactical planning than securing the entire planet.
 
-### Part 2: The Tactical Extraction – Thursday, April 2, 2048 – 14:15
+### Part 2: The Tactical Extraction
+
+# The Vanguard Discovers Gravity
+# Part 2: The Tactical Extraction
 
 The estate was incredibly, blissfully quiet.
 
@@ -1811,7 +1889,10 @@ They were two years old. They couldn't walk. They couldn't talk. But as Wyatt sa
 
 You absolutely never leave a man behind.
 
-### Part 3: The Milestones – Tuesday, August 18, 2048 – 16:00
+### Part 3: The Milestones
+
+# The Vanguard Discovers Gravity
+# Part 3: The Milestones
 
 By late summer, the sprawling, sage-green nursery on the residential level had evolved from a quiet sanctuary into a highly active, chaotic proving ground.
 
@@ -1905,7 +1986,10 @@ The clinical definitions didn't matter. The delays didn't matter. Wyatt couldn't
 
 "They're okay, Sarah," Wyatt whispered, a massive, tearful smile breaking across his scarred face as he watched his three children anchor each other in the center of the sunlit room. "They're going to be just fine."
 
-### Part 4: The Chariot – Friday, September 4, 2048 – 10:00
+### Part 4: The Chariot
+
+# The Vanguard Discovers Gravity
+# Part 4: The Chariot
 
 Sub-Level 4 smelled of hot ozone, melted synthetic rubber, and freshly milled alien pine.
 
@@ -1981,7 +2065,10 @@ Wyatt slowly lowered his empty hands, exchanging a stunned, defeated look with h
 
 Ellie gave a satisfied grunt. She leaned into the handle, and the Chariot rolled smoothly out into the corridor, a perfectly self-contained, inseparable force of nature.
 
-### Part 5: The Hydroponics Breach – Monday, February 15, 2049 – 13:15
+### Part 5: The Hydroponics Breach
+
+# The Vanguard Discovers Gravity
+# Part 5: The Hydroponics Breach
 
 The Colton estate was operating at peak efficiency. The Aegis shield was humming at a flawless one hundred percent capacity, the geothermal reactors were perfectly balanced, and Wyatt and Sarah were finally sitting down to eat a quiet lunch in the residential kitchen.
 
@@ -2059,7 +2146,10 @@ Wyatt looked at Ellie. The two-year-old narrowed her eyes at the ceiling speaker
 
 "No," Wyatt smirked, wrapping his massive arm around Sarah's shoulders. "Leave the wagon operational. I want to see what she figures out next."
 
-### Part 6: Establishing Comms – Thursday, May 6, 2049 – 15:00
+### Part 6: Establishing Comms
+
+# The Vanguard Discovers Gravity
+# Part 6: Establishing Comms
 
 The afternoon sun poured through the massive hydro-glass windows of the residential living room, casting long, warm shadows across the polished stone floor.
 
@@ -2153,7 +2243,10 @@ Wyatt’s S.H.O.P. Marine brain froze. He looked at her hand. He looked at her e
 
 ## The Chain of Command
 
-### Part 1: The New Recruit – Wednesday, September 15, 2049 – 10:00
+### Part 1: The New Recruit
+
+# The Chain of Command
+# Part 1: The New Recruit
 
 Sub-Level 1 was no longer a place of terror.
 
@@ -2229,7 +2322,10 @@ Wyatt looked at Sarah, a deep, beautiful peace settling over him.
 
 They were going to make it to forty weeks. The new baby was going to be born into a completely stable, fully functioning fortress, completely insulated from the horrors of the galaxy. And most importantly, he already had a three-year-old commanding officer fiercely dedicated to his survival.
 
-### Part 2: The Unified Design – Tuesday, October 5, 2049 – 02:15
+### Part 2: The Unified Design
+
+# The Chain of Command
+# Part 2: The Unified Design
 
 The acoustic dampeners in the master bedroom were perfectly calibrated to filter out the ambient hum of the geothermal reactors, but they intentionally allowed specific frequencies through.
 
@@ -2329,7 +2425,10 @@ She looked back at Wyatt, batted her eyelashes, and offered that same devastatin
 
 "Good Dada," Sarah echoed softly, raising her tea mug in a toast. "Now go build it, Administrator. The Commander has approved your blueprints."
 
-### Part 3: The Tactical Latrine – Friday, November 12, 2049 – 09:00
+### Part 3: The Tactical Latrine
+
+# The Chain of Command
+# Part 3: The Tactical Latrine
 
 By November, the residential bathroom at the end of the hall had been completely overhauled. Wyatt Colton had approached the dreaded milestone of potty training with the exact same S.H.O.P. Marine intensity he used to secure the planet's atmospheric scrubbers.
 
@@ -2415,7 +2514,10 @@ Sarah wiped a tear from her cheek, taking a sip of her tea as she smiled at her 
 
 "Yeah," Wyatt breathed, kneeling down to unbuckle Leo and transfer him back to the safety of the wagon. "They're a hell of a squad."
 
-### Part 4: The Defensive Perimeter – Wednesday, December 15, 2049 – 18:30
+### Part 4: The Defensive Perimeter
+
+# The Chain of Command
+# Part 4: The Defensive Perimeter
 
 Outside the massive hydro-glass windows of the estate, a heavy, pristine winter snow was falling over the alien pine forests of Planet Eden. Inside the residential living room, the geothermal fireplace was roaring, casting a warm amber glow across the polished stone.
 
@@ -2479,7 +2581,10 @@ Wyatt slowly closed his mouth, a deep, booming chuckle vibrating in his chest. H
 
 "Copy that, Commander," Wyatt smiled, holding his hands up in surrender. "The new recruit is all yours."
 
-### Part 5: The Bootcamp – Monday, December 20, 2049 – 04:15
+### Part 5: The Bootcamp
+
+# The Chain of Command
+# Part 5: The Bootcamp
 
 The automated medical bay on Sub-Level 1 was an entirely different universe than it had been four years ago.
 
@@ -2563,7 +2668,10 @@ Wyatt stood in the dim light of the nursery, watching his four children. The gal
 
 "Sleep well, Vanguard," Wyatt murmured softly, stepping backward out of the room and letting the heavy timber door slide shut.
 
-### Part 6: The Genesis Check – Wednesday, March 1, 2050 – 21:00
+### Part 6: The Genesis Check
+
+# The Chain of Command
+# Part 6: The Genesis Check
 
 The estate was quiet, bathed in the soft, warm amber glow of the evening cycle.
 
@@ -2629,7 +2737,10 @@ They turned away from the stasis pillars, walking back to the elevator in the ic
 
 ## The Rapid Deployment
 
-### Part 1: The Accelerated Recruit – Tuesday, October 18, 2050 – 14:00
+### Part 1: The Accelerated Recruit
+
+# The Rapid Deployment
+# Part 1: The Accelerated Recruit
 
 The residential living room had been entirely cleared of all non-essential obstacles. The heavy reclaimed-wood coffee table was pushed against the far wall, leaving a massive, open expanse of plush rug.
 
@@ -2705,7 +2816,10 @@ The Vanguard would never leave him behind.
 
 Ellie gave a firm nod, taking up her defensive post by the door. Nora leaned her cheek against Leo's shoulder, anchoring him while he went. And down the hall, little Jack waddled happily toward the kitchen, completely unaware of the beautiful, unbreakable armor his older siblings had built around each other.
 
-### Part 2: The Terrain Deficit – Wednesday, April 12, 2051 – 10:00
+### Part 2: The Terrain Deficit
+
+# The Rapid Deployment
+# Part 2: The Terrain Deficit
 
 The main foyer of the Colton estate looked like the staging ground for a planetary invasion.
 
@@ -2811,7 +2925,10 @@ They rolled the Chariot back into the foyer, the heavy blast doors hissing shut 
 
 The Vanguard was going to conquer the outside world. But first, Wyatt had to build them a tank.
 
-### Part 3: The Multi-Front War – Friday, April 21, 2051 – 15:30
+### Part 3: The Multi-Front War
+
+# The Rapid Deployment
+# Part 3: The Multi-Front War
 
 The Sub-Level 4 Fab-Foundry was a symphony of automated industry.
 
@@ -2913,7 +3030,10 @@ Sarah let out a breathless, exhausted laugh, kissing Ellie's forehead. "I know, 
 
 The Vanguard didn't care about corporate armadas or orbital bombardments. As long as the unit was intact, the rest of the galaxy could burn.
 
-### Part 4: The Ghost Planet – Friday, April 21, 2051 – 15:45 (Standard Galactic Time)
+### Part 4: The Ghost Planet
+
+# The Rapid Deployment
+# Part 4: The Ghost Planet
 
 Lightyears away from the peaceful, amber-lit nursery of Planet Eden, the atmosphere was entirely devoid of warmth.
 
@@ -2979,7 +3099,10 @@ Wyatt and Sarah thought they had won. They thought they had built a perfect, imp
 
 Exoplanet 4 was no longer a dead rock. It was the most dangerous target in the galaxy. And the High Director was going to find out exactly who was hiding behind that shield.
 
-### Part 5: The All-Terrain Vanguard – Friday, April 28, 2051 – 10:00
+### Part 5: The All-Terrain Vanguard
+
+# The Rapid Deployment
+# Part 5: The All-Terrain Vanguard
 
 The foyer of the Colton estate was once again a staging ground, but this time, the S.H.O.P. Marine had properly accounted for the battlefield.
 
@@ -3051,7 +3174,10 @@ She turned back to look at her family. Leo was smiling in the sun. Nora was coll
 
 The commander crossed her arms over her tactical vest. She gave a firm, satisfied nod. The objective was complete. The outside world officially belonged to the Vanguard.
 
-### Part 6: The Authorized Harvest – Thursday, May 18, 2051 – 13:00
+### Part 6: The Authorized Harvest
+
+# The Rapid Deployment
+# Part 6: The Authorized Harvest
 
 The pneumatic elevator hummed a low, steady note as it descended deep into the bedrock of Planet Eden.
 
@@ -3129,7 +3255,10 @@ Wyatt stood at the end of the aisle, watching Nora carefully pick a tomato of he
 
 The harvest was chaotic, messy, and loud, but the chain of command was holding perfectly. The Colton family was officially cultivating their own future, and the Vanguard was overseeing every single step of the operation.
 
-### Part 7: The Constitutional Override – Friday, November 3, 2051 – 10:15
+### Part 7: The Constitutional Override
+
+# The Rapid Deployment
+# Part 7: The Constitutional Override
 
 Two years ago, Wyatt Colton had made a massive, critical error in judgment.
 
@@ -3229,7 +3358,10 @@ Wyatt looked at the four of them. The perimeter was secure. The unit was intact.
 
 Ellie gave a firm nod of approval, instantly turning her attention back to the glowing blue planets. The ringleader had struck again, and the Vanguard’s access to the estate was officially legally protected.
 
-### Part 8: The Legal Precedent – Friday, November 3, 2051 – 11:30
+### Part 8: The Legal Precedent
+
+# The Rapid Deployment
+# Part 8: The Legal Precedent
 
 The ten-minute authorized stay in the Combat Information Center had concluded. The Vanguard had successfully driven their stroller-convoy back to the residential living room, and Sarah was currently deploying a highly effective distraction involving synthesized peanut butter and a holographic puzzle.
 
@@ -3277,7 +3409,10 @@ She looked over at Leo’s tablet. She would have to run a perimeter test later.
 
 Down in the CIC, Wyatt chuckled to himself as he walked back to the elevator. The loophole was closed. Planet Eden was secure.
 
-### Part 9: The Perimeter Test – Friday, November 3, 2051 – 11:45
+### Part 9: The Perimeter Test
+
+# The Rapid Deployment
+# Part 9: The Perimeter Test
 
 Down in the Combat Information Center, the holographic code on the primary monitor glowed a steady, secure green. The loophole was officially closed.
 
