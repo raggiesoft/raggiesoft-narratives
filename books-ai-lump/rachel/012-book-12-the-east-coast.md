@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 12: The East Coast
 
-## Chapter 1: Outbound to ORF (Saturday, December 22, 2001)
+## Chapter 1: Outbound to ORF
 
 ### Part 1: The First Class Algorithm
 
@@ -631,7 +631,7 @@ I nodded, my dark eyes locked onto the screen.
 
 "Two hours," Jessica promised, cutting off a piece of her dinner roll. "Eat your potatoes, Rachel. Because the next time we have to navigate a terminal, Michael is going to be standing right at the end of it."
 
-## Chapter 2: Arrival at Norfolk (Saturday, December 22, 2001)
+## Chapter 2: Arrival at Norfolk
 
 ### Part 1: Sibling Reunification
 
@@ -901,7 +901,7 @@ I smiled in the dark, recognizing the reference to the song we had heard in Aunt
 
 Slowly, agonizingly, the adrenaline finally burned out of our systems. The heavy, rhythmic breathing of my sisters began to synchronize with my own. I kept my arms locked securely around them, holding the perimeter tight, until the Virginia night finally surrendered, and we fell asleep.
 
-## Chapter 3: The New Baseline (Sunday, December 23, 2001)
+## Chapter 3: The New Baseline
 
 ### Part 1: The Three-Hour Shift
 

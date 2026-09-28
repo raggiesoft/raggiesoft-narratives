@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 14: Delores
 
-## Chapter 1: The Quiet Void (Thursday, September 2, 2004)
+## Chapter 1: The Quiet Void
 
 ### Part 1: The Last of the Pack
 
@@ -273,7 +273,7 @@ A heavy, sudden ache swelled in my chest. I missed Ashley. The dopamine rush fro
 
 I let out a slow, shaky breath in the empty studio, wishing more than anything that my best friend was sitting on the sofa bed behind me, ready to translate this new set of variables and tell me exactly how I was supposed to feel about Delores.
 
-## Chapter 2: The Gateway (Friday, September 3, 2004)
+## Chapter 2: The Gateway
 
 ### Part 1: The Morning Call
 

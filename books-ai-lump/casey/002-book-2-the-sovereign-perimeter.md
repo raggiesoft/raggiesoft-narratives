@@ -5,11 +5,477 @@ series: "casey"
 
 # Book 2: The Sovereign Perimeter
 
-## Chapter 1: The Mask – Wednesday, November 24, 2004
+## Chapter 1: The Semester Baseline
 
-### Part 1: The Terminal – 3:15 PM
+### Part 1: The Syllabus
 
-# Part 1: The Terminal – 3:15 PM
+**Date:** 2004-08-30 at 10:00 ET
+
+# Part 1: The Syllabus
+
+The Fall 2004 semester at the Community College of Hampton Roads officially began at nine in the morning on a muggy Monday in late August. 
+
+I was nineteen years old, sitting in the third row of a heavily air-conditioned lecture hall, methodically transcribing the dates from the Anatomy and Physiology syllabus into my daily planner. Because CCHR operated on a traditional semester system—unlike Northwest Pacific University out in Seattle, where Cassandra was currently operating on the quarter system—my entire academic life was structured around rigid, sixteen-week blocks. 
+
+I needed this A&P credit to maintain my trajectory. Earning my LPN credentials was the primary objective, and that required absolute, unbroken academic focus. 
+
+"Is this seat taken?" 
+
+I looked up. Standing next to the empty desk beside me was a girl with dark hair, a heavy canvas messenger bag, and an incredibly sharp, focused expression. 
+
+"It's open," I said, sliding my backpack slightly under my desk to give her room to navigate the narrow aisle. 
+
+She dropped her bag onto the floor with a heavy thud, sliding into the hard plastic chair. "Thank god. I barely survived the parking lot. I swear, the first week of the semester is a total logistical nightmare."
+
+I smiled slightly, recognizing the phrasing. "You just have to arrive forty-five minutes prior to the start of the lecture block. The lot turnover rate peaks right before the hour."
+
+She paused, pulling a notebook out of her bag, and looked at me. "You mathematically calculated the parking lot turnover rate?"
+
+"I have a background in logistical analysis," I said, tapping my pen against my planner. "It saves time."
+
+She laughed. It was a bright, disarming sound. "I'm Kristine."
+
+"David," I replied. 
+
+The professor stepped up to the podium and began droning on about the attendance policy, and the lecture hall fell silent. For the next hour, I kept my eyes firmly fixed on the projector screen, taking meticulous, structured notes on cellular biology. But out of the corner of my eye, I could see Kristine copying my formatting exactly. 
+
+When the lecture finally ended and the mass exodus of students began pushing toward the doors, I packed my supplies into my bag. 
+
+"Hey, David," Kristine said, slinging her heavy messenger bag over her shoulder. "Since you clearly have a much better grasp on the structural organization of this class than I do, would you want to study together sometime?"
+
+I hesitated. My schedule was generally locked down between classes and helping Mom and Dad with the house. But Liz was currently three hours away, taking classes at Shenandoah Valley University, and Cassandra was three thousand miles away in Seattle. For the first time in my life, my operational perimeter was almost entirely empty. 
+
+"Sure," I said, zipping my bag. "That sounds highly efficient."
+
+Kristine smiled, a warm, perfectly calibrated expression that immediately put me at ease. "Perfect. Give me your number."
+
+I wrote my cell phone number down on the corner of her notebook. She tore the corner off, slipped it into her pocket, and walked out the door into the crowded hallway.
+
+### Part 2: The Library
+
+**Date:** 2004-08-30 at 13:00 ET
+
+# Part 2: The Library
+
+By one o'clock, the afternoon heat outside was sweltering, making the heavy air conditioning of the CCHR campus library feel like an absolute sanctuary. 
+
+I was sitting at a quiet corner table tucked behind the reference stacks, my Anatomy and Physiology textbook open flat in front of me. I was deep into my baseline review of cellular metabolism, completely focused, when a pair of arms suddenly wrapped around my neck from behind. 
+
+"Hey, study partner," Kristine said, leaning over the back of my chair. 
+
+I jumped slightly, breaking my concentration. My immediate instinct was to stiffen—I wasn't used to people violating my personal airspace without warning—but then she squeezed my shoulders, pressing her cheek lightly against the side of my head. 
+
+I exhaled, forcing my muscles to relax. I allowed it. 
+
+For my entire life, my daily operational routine had been filled with constant, casual physical affection. Casey and Liz had practically used me as a human jungle gym for the last nine years. Whenever I was sitting on the sofa, one of them was inevitably leaning against my arm or throwing their legs over my lap. But now, with Cassandra out in Seattle and Liz three hours away in Harrisonburg, my physical perimeter was completely empty. I missed it. I missed Liz's constant, grounding presence more than I wanted to admit. 
+
+"Hey," I said, leaning back slightly into the hug before she let go. "Did you mathematically calculate my location, or was this a random encounter?"
+
+Kristine laughed, dropping her heavy messenger bag onto the empty chair next to me and sliding into the seat. "Let's call it a highly targeted recon mission. I saw you walk into the library from the student center."
+
+She leaned in close, resting her elbows on the table so that our shoulders were almost touching. It was an incredibly fast escalation of proximity for someone I had met exactly three hours ago. 
+
+"You give really good hugs, by the way," she noted, her dark eyes locking onto mine. 
+
+"I've had a lot of practice," I replied, staring back at my textbook. "Liz always said I was the optimal shape for it."
+
+The moment the name left my mouth, I felt the atmosphere at the table shift. It wasn't a massive drop in temperature, just a very slight, almost imperceptible tightening of the air. 
+
+"Liz?" Kristine asked. Her voice was still perfectly bright and casual, but her eyes had completely stopped smiling. "Who is Liz?"
+
+I looked up. There was a sudden, intense sharpness in her expression that caught me off guard. It felt like she was running a high-speed diagnostic scan on my face, looking for any micro-expressions of guilt or hesitation. 
+
+My internal security protocols flared, issuing a faint warning. 
+
+"Just someone I know," I said evenly, keeping my voice completely neutral. "She doesn't go here."
+
+Kristine stared at me for three long seconds. I didn't break eye contact, and I didn't offer any additional data. I wasn't about to explain the deep, structural architecture of my relationship with the Carters to a girl I had just met. 
+
+"Oh," Kristine finally said, her warm smile snapping back into place as if the previous three seconds had never happened. "Well, she's right. You are optimally shaped."
+
+She reached out and playfully tapped the cover of my textbook. "Now, are you going to teach me how to read this syllabus, or am I going to have to fail my first semester?"
+
+I picked up my pen, shifting my focus back to the page. "Let's start with the cellular baseline."
+
+I was looking at the textbook, but my processor was still spinning in the background. I had deliberately withheld Liz's identity, and I could already tell that Kristine had filed that missing variable away in her memory banks.
+
+### Part 3: The Integumentary System
+
+**Date:** 2004-08-30 at 13:30 ET
+
+# Part 3: The Integumentary System
+
+For the next thirty minutes, I attempted to walk Kristine through the structural fundamentals of the human body. We moved through the anatomical planes of reference, quickly bypassing cellular biology, and landed on the integumentary system. 
+
+"So the dermis is basically the structural foundation of the skin," I explained, pointing to the cross-section diagram in the textbook. "It houses the blood vessels, the hair follicles, and the tactile receptors."
+
+"Tactile receptors," Kristine repeated, leaning slightly closer. 
+
+"Yes," I said, keeping my eyes locked on the textbook. "Meissner's corpuscles handle light touch, while Pacinian corpuscles respond to deep pressure and high-frequency vibration. It's how the autonomic nervous system relays physical boundaries to the brain."
+
+Kristine reached over and lightly dragged her index finger down the inside of my forearm. 
+
+"Like this?" she asked, her voice dropping into a register that completely bypassed my analytical processors. 
+
+I stopped talking. My heart rate immediately spiked, a completely involuntary sympathetic nervous system response. I was extensively trained in medical touch—I checked Cassandra's temperature, palpated her pulse points, and manipulated her physical framework on a daily basis. But that was clinical. That was strictly mechanical. 
+
+This was completely different. It was deliberately manipulative, entirely unprompted, and incredibly distracting. 
+
+"Yes," I managed to say, my voice slightly tighter than it had been a moment ago. "That... activates the Meissner's corpuscles."
+
+Kristine smiled, her hand coming to rest lightly on my wrist. Her dark eyes locked onto mine, completely ignoring the heavy, two-hundred-dollar textbook lying open between us. 
+
+"You know, David," she murmured, leaning in so close that I could smell the vanilla in her perfume. "I feel like I've got a pretty good grasp on the integumentary system. But this library is really bright. And really crowded."
+
+My brain frantically searched for the logical through-line of the conversation and failed to find one. "It's a library. High-lumen lighting is standard for academic facilities to prevent eye strain."
+
+Kristine laughed softly, her thumb lightly tracing the pulse point on my wrist. 
+
+"I live in an apartment just off campus," she said, her voice dropping even lower. "It's extremely private. Why don't we pack up these books, head over to my place, and study something else?"
+
+My entire cognitive architecture froze. For a nineteen-year-old whose entire existence revolved around complex logistical caretaking, managing medical emergencies, and maintaining a rigid family perimeter, I was completely unequipped to handle a direct, aggressive romantic escalation. I had absolutely no defensive protocols written for this. 
+
+I looked at her, then looked at the textbook, and then looked back at her. 
+
+"Okay," I heard myself say. 
+
+Kristine's smile widened in absolute triumph. She immediately stood up and began sweeping her supplies into her messenger bag.
+
+### Part 4: The Apartment
+
+**Date:** 2004-08-30 at 14:00 ET
+
+# Part 4: The Apartment
+
+Kristine's apartment was located in a sprawling complex less than a mile off the CCHR campus. The moment we stepped inside, she closed the heavy front door and engaged the deadbolt with a sharp, metallic click. 
+
+I walked into the small kitchen area, dropping my heavy backpack onto the linoleum floor. I unzipped the main compartment and pulled out my Anatomy and Physiology textbook, setting it flat on the counter. 
+
+"So," I said, attempting to re-establish the baseline of our interaction. "If we're bypassing the dermis, we need to cover the subcutaneous layer. That's where the adipose tissue—"
+
+I didn't finish the sentence. Kristine stepped directly into my airspace, closing the remaining distance between us. She didn't look at the textbook. She didn't even acknowledge that I had spoken. Instead, she placed both of her hands flat against my chest and backed me up until my spine hit the edge of the kitchen counter. 
+
+"Kristine," I said, my voice completely freezing in my throat. 
+
+She leaned into me, pressing her body flush against mine. She slid her hands up to my shoulders, her dark eyes completely entirely focused on my mouth. The intent was absolutely, undeniably clear. 
+
+My internal alarms didn't just flare—they detonated. 
+
+Every single self-preservation protocol I possessed screamed at me. I was nineteen years old. I had spent my entire life optimizing medical schedules and managing a fragile family ecosystem. I had absolutely zero experience with this level of aggressive, calculated intimacy. I didn't want this. I wasn't ready for this. 
+
+"Wait," I said, my chest tightening with sudden, overwhelming panic. I put my hands on her shoulders and firmly pushed her back. "Stop. Wait."
+
+Kristine stumbled back a half-step, her expression dropping from intense focus into complete shock. 
+
+"I have to go," I said, my breathing shallow and erratic. I scrambled sideways, grabbed my textbook off the counter, and shoved it recklessly into my backpack. "This was a mistake. I need to get back to my house. My parents are expecting me to help with some structural repairs."
+
+I grabbed the straps of my bag and turned toward the door. 
+
+"David, wait!" 
+
+Her voice cracked. It was a sharp, desperate sound that immediately triggered my deeply ingrained caretaking instincts. I stopped with my hand on the deadbolt and looked back. 
+
+Kristine was standing in the middle of the kitchen, her hands covering her mouth. Tears were rapidly welling up in her eyes, spilling over her eyelashes and cutting tracks down her cheeks. She looked completely shattered. 
+
+"I'm so sorry," she sobbed, her voice trembling violently. "I'm so, so sorry. I completely misread you."
+
+I stood frozen by the door, my panic completely derailed by the sudden emotional crisis. "You..."
+
+"I just—I'm so used to guys only wanting one thing from me," she cried, wrapping her arms around her own stomach as if she was in physical pain. "Every guy I've ever met just wants to use me. I thought... I thought you were just playing a game in the library. I thought that's what you wanted."
+
+She let out a harsh, broken sob and sank down into one of the kitchen chairs, burying her face in her hands. 
+
+"I ruined it," she cried into her palms. "You were actually being nice to me, and I ruined it. I'm so stupid."
+
+My grip on the doorknob loosened. The raw, unfiltered distress in her voice completely short-circuited my logic. I didn't see a girl who had just aggressively violated my physical boundaries; my inherent programming to fix broken things overrode everything else. All I saw was someone who was hurting. 
+
+I let go of the door, walked back into the kitchen, and knelt down next to her chair. 
+
+"Hey," I said softly, reaching out and gently resting my hand on her shoulder. "It's okay. You didn't ruin anything."
+
+Kristine looked up at me, her eyes red and swimming with tears. "You don't hate me?"
+
+"No," I promised her, my caretaking routine fully engaged. "I don't hate you. We just... had a miscommunication."
+
+She let out a shaky breath and leaned forward, wrapping her arms around my neck and burying her face in my shoulder. I hugged her back, rubbing her spine, completely unaware that the trap had just snapped shut around me.
+
+## Chapter 2: The Reboot
+
+### Part 1: The Apology
+
+**Date:** 2004-09-01 at 09:45 ET
+
+# Chapter 2: The Reboot
+# Part 1: The Apology
+
+I arrived at the CCHR science building exactly fifteen minutes before the start of my Wednesday Anatomy and Physiology lecture. 
+
+The incident in Kristine's apartment on Monday afternoon was still occupying a massive amount of my processing power. I didn't like structural instability, and the sheer volatility of that encounter had left me deeply unsettled. I had spent the last forty-eight hours trying to categorize exactly what had happened, ultimately concluding that it was just a severe miscommunication caused by my own lack of social experience. 
+
+I walked down the crowded hallway toward the lecture hall, my backpack heavy on my shoulders. 
+
+"David."
+
+I stopped. Kristine was standing next to the water fountain, her canvas messenger bag clutched tightly against her chest. She looked completely different than she had on Monday. The intense, aggressive confidence was entirely gone. Instead, she looked incredibly small, nervous, and profoundly exhausted, like she hadn't slept in two days. 
+
+"Hi," I said carefully, maintaining a neutral perimeter. 
+
+She took a slow step toward me, keeping a very deliberate, respectful distance. There was absolutely no attempt to cross into my physical airspace. 
+
+"I almost didn't come today," she said quietly, her eyes focused firmly on the linoleum floor between us. "I was so embarrassed about Monday. I know I made you incredibly uncomfortable, and I know I ruined any chance of us actually being study partners."
+
+"You didn't ruin it," I replied automatically, my caretaking protocols spinning up at the sheer distress in her voice. 
+
+She finally looked up, her dark eyes wide and vulnerable. "I just... I don't know how to act around guys who are actually decent. I've spent so long dealing with people who expect me to be this aggressive, transactional person, and when I met you... I just defaulted to it. And it was stupid."
+
+She took a deep breath, her grip tightening on the strap of her bag. It looked like she had spent the last forty-eight hours agonizing over Monday's failure, terrified that she had pushed me away forever. 
+
+"I don't want to be that person," she said softly. "I really just need a friend. Someone who is actually safe."
+
+That was the magic word. *Safe*. For a nineteen-year-old whose entire identity was built around providing structural safety and stability for his fragile family, it was the ultimate hook. 
+
+"I understand," I told her, my internal alarms finally powering down. 
+
+She offered a small, hopeful smile and held out her hand. "Can we start over? Hi. I'm Kristine. I'm a total disaster at making friends, and I desperately need help passing Anatomy and Physiology."
+
+I looked at her outstretched hand. The aggressive, terrifying girl from the apartment was completely gone, replaced by someone who just needed an anchor. 
+
+I reached out and shook her hand. "I'm David. And we can start with chapter two today."
+
+Kristine's smile finally reached her eyes. The heavy, volatile tension of the last two days completely evaporated, replaced by a quiet, grounded baseline. We turned and walked into the lecture hall together.
+
+### Part 2: The Text Message
+
+**Date:** 2004-09-01 at 13:00 ET
+
+# Part 2: The Text Message
+
+Following the morning lecture, Kristine and I relocated to a small, circular table in the student center cafeteria. 
+
+True to her word, she had completely reset her behavior. There was no physical escalation, no inappropriate boundary crossing, and absolutely no mention of her apartment. She sat across from me, a respectful two feet of laminate tabletop separating us, and focused entirely on her Anatomy and Physiology notes. 
+
+My phone vibrated in my pocket. 
+
+I pulled it out. It was a text message from Liz: *SVU dining hall food is currently operating at a structural integrity of 2/10. Send pizza. Or a rescue helicopter.*
+
+I smiled, my thumbs moving quickly over the heavy plastic keypad as I drafted a response: *Deployment authorized. Helicopter inbound.*
+
+"Who is that?" Kristine asked, her voice light and conversational. 
+
+I hit send and slid the phone back into my pocket. "Just Liz. Complaining about the dining hall food at SVU."
+
+Kristine's pen stopped moving. She didn't look up from her notebook, but her shoulders dropped slightly. It was a very subtle shift in posture, designed entirely to project quiet, lonely vulnerability. 
+
+"That must be nice," she murmured, tracing the edge of her paper. "Having someone who checks up on you during the day."
+
+"She's my best friend," I explained, defaulting back to my standard operating protocol. "We've lived on the same block since we were kids. Her family is essentially an extension of mine."
+
+"Right," Kristine said softly. She finally looked up at me, offering a fragile, self-deprecating smile. "Sorry. I'm just... I'm a little jealous, I guess. I don't really have anyone checking on me. Most of the time, my phone doesn't ring at all."
+
+My caretaking routine flared instantly. The sheer isolation in her voice was incredibly compelling. 
+
+"I'm sorry," I said, leaning forward slightly. "That sounds incredibly lonely."
+
+"It is," she admitted, her voice dropping to a whisper. "And when you're texting other people... I don't know. It just reminds me how completely alone I am here. But that's my problem, not yours. You shouldn't have to stop talking to your best friend just because I'm a disaster."
+
+She hadn't demanded that I put the phone away. She hadn't ordered me to stop texting Liz. She had simply expressed her own loneliness, and seeing how much my communication with Liz inadvertently caused her pain triggered a massive response in my internal programming. 
+
+For someone whose entire psychological framework was built on preventing the people around me from hurting, there was only one logical response. 
+
+I reached into my pocket, pulled out my phone, and switched the ringer to silent. I placed it face-down on the far edge of the table. 
+
+"You aren't alone," I told her, my voice steady and reassuring. "We're studying. My phone is off."
+
+Kristine's eyes widened slightly, as if she couldn't believe I would do something so incredibly kind for her. "Are you sure? What if Liz needs you?"
+
+"She's fine," I promised. "She's just complaining about the food. She doesn't need me right now."
+
+"Thank you, David," Kristine said, her voice thick with genuine-sounding relief. "You have no idea how much that means to me."
+
+She picked up her pen and looked back down at her notes. I opened my textbook, feeling a quiet sense of satisfaction. I had successfully managed a structural emotional crisis, and I had provided a safe anchor for someone who desperately needed it.
+
+### Part 3: The Introduction
+
+**Date:** 2004-09-01 at 17:00 ET
+
+# Part 3: The Introduction
+
+By five o'clock, the student center had grown entirely too loud for effective studying. I gathered my textbooks and looked across the table at Kristine. 
+
+"I need to head back to my house," I told her. "My parents usually expect me home for dinner around six, and I need to review my biology notes before then."
+
+Kristine looked incredibly disappointed. She closed her notebook, her shoulders dropping again. "Oh. Okay. I guess I'll just go back to my apartment. Alone."
+
+My caretaking protocols instantly flared. I had spent the last four hours successfully managing her emotional distress, and the idea of sending her back to an empty apartment completely contradicted my operating baseline. 
+
+"You don't have to," I offered. "My house is just a few blocks away. You can come over and we can finish reviewing the skeletal system in the living room."
+
+Kristine's expression instantly brightened. "Are you sure? I don't want to intrude on your family."
+
+"It's fine," I assured her. "My parents are used to having extra people around. Liz basically lived at our house for the last seventeen years."
+
+We packed our bags and walked the short distance to my house. When I unlocked the front door and pushed it open, the familiar warmth of the Vance household washed over me. It was quieter than usual, with Cassandra and Casey already out in Washington state, leaving just Mom and Dad at home. 
+
+Mom and Dad were in the kitchen, loudly debating the optimal structural parameters of a lasagna recipe. 
+
+"Deployment successful," I announced, dropping my keys into the bowl by the door. 
+
+"Hey, buddy," Dad called out from the kitchen, wiping his hands on a dish towel. He stopped, his eyebrows raising slightly as he noticed Kristine standing nervously behind me. 
+
+Mom turned around, a mixing spoon in her hand. "Oh! Hello there."
+
+"Mom, Dad, this is Kristine," I said, making the introductions. "She's in my Anatomy and Physiology class. I invited her over to study."
+
+"It is so incredibly nice to meet you," Kristine said, stepping forward with a perfectly calibrated, entirely respectful smile. "David has told me so much about you guys. I promise I won't be in the way."
+
+"Nonsense, you aren't in the way at all," Mom smiled warmly, immediately adopting her standard maternal protocol. "I'm Wendy, and this is Tom. Are you hungry, sweetie? We're making a massive lasagna. There's plenty of food."
+
+"I would love that, thank you," Kristine said softly, projecting the exact image of a polite, grateful guest. 
+
+I stood by the front door, feeling a deep sense of relief. Kristine was being perfectly polite, and she had immediately charmed Mom and Dad. 
+
+I smiled, picking up my backpack. I had successfully managed a volatile variable and integrated her into my safe, stable environment. I was completely, entirely confident that everything was going to be fine.
+
+### Part 4: The Dinner
+
+**Date:** 2004-09-01 at 18:00 ET
+
+# Part 4: The Dinner
+
+The Vance family dinner table was notoriously welcoming, operating on a frequency of warmth and inclusion that usually overwhelmed guests. Tonight, however, Kristine navigated the environment with flawless precision. 
+
+She sat next to me, keeping her hands politely folded in her lap while Dad served massive squares of lasagna. She didn't crowd my airspace, and she didn't try to dominate the conversation. Instead, she actively listened, asking perfectly timed, respectful questions that immediately endeared her to my parents. 
+
+"So, David tells me his sisters are already out in Washington state?" Kristine asked, looking across the table at Mom and Dad. "That must be so hard on you guys, having them so far away."
+
+"It's definitely an adjustment," Mom admitted, passing a basket of garlic bread across the table. "Cassandra was accepted into an incredible program at NPU out there, and she just secured a position at Quantum Corporation. And with Casey's advanced academic needs, Tom and I decided it was best for her education if she moved out there with Cass. NPU has an incredible early-entrance program for highly gifted students."
+
+"That is so impressive," Kristine smiled genuinely. "David talks about them all the time. I know he misses them."
+
+"He really does," Dad smiled, leaning back in his chair. "He's been watching over those two since they were born. It's too quiet around here without them."
+
+I sat back in my chair, watching the interaction with profound relief. I had spent so much of my life actively buffering my family from the outside world. I didn't have to do any of that tonight. Kristine was just sitting there, eating dinner, and treating my parents with absolute respect. 
+
+"So, Kristine," Dad said warmly. "David tells us you two met in Anatomy and Physiology. Are you planning on going into the nursing program too?"
+
+"Oh, no," Kristine laughed softly, her cheeks flushing with perfectly timed modesty. "I'm nowhere near smart enough for that. I'm just taking it to fulfill my science requirement. I'm actually really struggling with it. If it wasn't for David helping me out today, I would probably be failing."
+
+"Well, you've got a good tutor," Mom smiled warmly. "David is incredibly patient."
+
+Kristine turned her head, her dark eyes meeting mine. The terrifying, aggressive girl from Monday was entirely gone. In her place was someone soft, vulnerable, and completely safe. 
+
+"I know," she said quietly, her voice ringing with absolute sincerity. "He's amazing."
+
+I smiled back, a quiet warmth spreading through my chest. The baseline of my reality felt perfectly stable. I had successfully managed a crisis, and I had gained a new friend in the process. 
+
+Everything was fine.
+
+## Chapter 3: The Delete Key
+
+### Part 1: The Ultimatum
+
+**Date:** 2004-10-04 at 15:00 ET
+
+# Chapter 3: The Delete Key
+# Part 1: The Ultimatum
+
+October arrived with a sharp drop in temperature, forcing the CCHR student body indoors. Kristine and I were sitting in the corner of the crowded campus coffee shop. For the last four weeks, our routine had been absolute: we attended lectures together, we studied together, and she frequently came over to the house for dinner. She had become a permanent fixture in my operational schedule. 
+
+My phone vibrated against the table. I picked it up, opening a text from Liz: *SVU midterms are officially a war crime. Send reinforcements.*
+
+I typed a quick reply, smiling slightly at the screen. *Hold the line. Will drop supplies at Thanksgiving.*
+
+I set the phone back down. When I looked up, Kristine was staring at me, her face pale and her eyes brimming with sudden, intense tears. 
+
+"Kristine?" I asked, my caretaking protocols immediately overriding everything else. "What's wrong? Are you okay?"
+
+She shook her head, quickly wiping a tear off her cheek. She began packing her notebooks into her messenger bag with jerky, erratic movements. 
+
+"I can't do this anymore, David," she said, her voice shaking violently. "I just... I can't."
+
+"Can't do what?" I asked, completely lost. I reached across the table, trying to re-establish a baseline. "What happened?"
+
+"Every time we're together, you're talking to her," Kristine cried quietly, gesturing to my phone. "You're always texting Liz. You're always thinking about Liz. I sit here and I pour my entire heart out to you, and you're just... you're just waiting for her to come back so you can go be with your real friend."
+
+"That's not true," I countered, my logical processors trying to rapidly defuse the situation. "Liz is my childhood best friend. She's practically my sister. My family has known her for ten years. You know this."
+
+"I know!" Kristine sobbed, her voice breaking perfectly. "I know I can't compete with her! I'm just the broken, stupid girl you're tutoring. I'm just a charity case. You don't actually care about me. You're just doing your job, fixing the broken thing, and texting the girl you actually want to talk to."
+
+"Kristine, no," I said, my chest tightening with panic. The raw devastation in her voice was incredibly difficult to process. "You aren't a charity case. I care about you."
+
+"No, you don't!" she insisted, standing up and throwing her bag over her shoulder. "If I actually mattered to you—if you were actually my friend—you wouldn't need to constantly talk to another girl while I'm sitting right in front of you. You would focus on us. But you don't. So I'm leaving. I'm not going to be your backup project anymore."
+
+She turned and took a step toward the door. 
+
+"Wait," I said, standing up quickly. My primary operating directive was to prevent the people in my perimeter from hurting, and she was in absolute agony. I couldn't let her walk out into the cold feeling abandoned. "Please, just sit down. What do you want me to do? Tell me how to fix this."
+
+She stopped, looking back at me over her shoulder. Her eyes were red, her bottom lip trembling. 
+
+"Prove it," she whispered. "Prove that I'm your priority. Prove that I'm not just a charity case."
+
+"How?" I asked, desperate to stabilize the situation. 
+
+"Delete her number," Kristine demanded softly. 
+
+My brain froze. It was an entirely illogical request. "She's my best friend. Our families are intertwined. Deleting her contact file doesn't erase ten years of history."
+
+"I know it doesn't," Kristine cried, wrapping her arms around her stomach. "But it shows me that you're willing to put me first. Just once. Just for right now. If you can't even do that... if you can't even delete a phone number to prove that I matter to you... then I'm leaving, David. And I won't come back."
+
+I stood there in the middle of the coffee shop, caught in an impossible emotional crossfire. The logic was completely flawed, but the emotional threat was absolute. She was going to walk away, completely shattered, if I didn't comply. 
+
+I looked at my phone on the table. My analytical mind offered a rapid compromise: I had a near-eidetic memory for numbers. I knew Liz's phone number by heart. I knew the Carters' landline by heart. Deleting the digital contact file wouldn't actually sever my connection to Liz; I could still call her anytime I wanted. It was just a symbolic gesture. An empty data deletion to calm down a highly volatile, deeply insecure person. 
+
+It was a logical loophole that allowed me to fix the immediate crisis. 
+
+I picked up the phone, navigated to the contact menu, and highlighted *Liz Carter*. I pressed the delete key. 
+
+"Done," I said, setting the phone back on the table. 
+
+Kristine let out a shaky breath, the tears instantly stopping. She walked back to the table, threw her arms around my neck, and hugged me tightly. 
+
+"Thank you," she whispered against my shoulder. "You're the only person who actually cares about me."
+
+I hugged her back. The situation was finally stable, and she wasn't crying anymore. My analytical brain told me it was just a symbolic gesture, an empty data deletion, but as she held onto me, a quiet, unfamiliar sense of unease settled deep in my chest.
+
+### Part 2: The Compromise
+
+**Date:** 2004-10-04 at 19:00 ET
+
+# Part 2: The Compromise
+
+The house was relatively quiet when I finally retreated to my bedroom that evening.  
+
+I closed my bedroom door, sat on the edge of my mattress, and pulled my phone out of my pocket. 
+
+The screen was blank, but the lingering psychological weight of the afternoon was still heavy in my chest. Deleting Liz's number in the coffee shop had been an incredibly effective tactical maneuver—it had instantly defused a massive emotional meltdown and kept Kristine anchored. But sitting here in the quiet isolation of my room, the absence of the contact file felt fundamentally wrong. 
+
+My fingers moved over the keypad automatically. I didn't even have to think about it. I navigated to the "Add New Contact" screen, typed in the name *Liz Carter*, and tapped out her Dayton cell phone number with flawless, rapid muscle memory. 
+
+I hit save. 
+
+The contact instantly repopulated in my directory. I stared at the screen, analyzing the variables of the situation. 
+
+Kristine was incredibly fragile. Her emotional baseline was highly unstable, and the mere presence of Liz in my operational schedule seemed to trigger catastrophic insecurities. But Liz was my best friend. We had seventeen years of shared history. Abandoning Liz was entirely out of the question, but continuously triggering Kristine's emotional distress violated my caretaking protocols. 
+
+I needed a structural compromise. A firewall. 
+
+The logic was incredibly simple. Kristine didn't live with me. She wasn't in all of my classes. If her primary trigger was seeing me communicate with Liz, the solution was to simply remove the visual stimulus. 
+
+I set a new behavioral protocol in my mind. From now on, when Kristine was in my physical proximity, my phone would remain completely silent and out of sight. I wouldn't text Liz during Anatomy. I wouldn't call Liz when Kristine was studying with me at the coffee shop. I would create a perfect, seamless partition between the two sectors of my life. 
+
+When Kristine wasn't around, I could communicate with Liz freely. When Kristine was around, she would have my undivided attention, ensuring her emotional stability remained intact. 
+
+I set my phone on the nightstand, feeling a profound sense of satisfaction. It was the perfect compromise. I had successfully managed a complex emotional variable without actually sacrificing any of my core relationships. I was keeping the peace, protecting Kristine from her own insecurities, and maintaining my lifelong bond with Liz. 
+
+I leaned back against my pillows, completely confident in my new strategy.
+
+## Chapter 4: The Mask
+
+### Part 1: The Terminal
+
+**Date:** 2004-11-24 at 15:15 ET
+
+# Part 1: The Terminal
 
 The drive down Interstate 64 to Norfolk International Airport was buzzing with anticipation. I had both hands gripping the steering wheel of my mother’s standard sedan, my leg bouncing lightly against the floorboard. It had been months since I had seen Cassandra and Casey, and my processor was eagerly counting down the minutes until their flight from Seattle landed.
 
@@ -43,13 +509,15 @@ I set her down, keeping one arm wrapped securely around her shoulders, and turne
 
 But as I pulled my arm back from Casey, I felt Kristine step immediately into my space. She slid her hand smoothly down my arm, lacing her fingers tightly through mine, and pressed her side flush against my ribs. Her grip was just a fraction too tight, but I assumed she was just nervous meeting my family, so I squeezed her hand back to reassure her.
 
-### Part 2: The Return to the Coast – 6:15 PM
+### Part 2: The Return to the Coast
 
-# Part 2: The Return to the Coast – 6:15 PM
+**Date:** 2004-11-24 at 18:15 ET
+
+# Part 2: The Return to the Coast
 
 We gathered their luggage and loaded up the trunk. The drive to Virginia Beach was filled with easy, rapid-fire catching up between me, Cassandra, and Casey. Kristine chimed in politely from the passenger seat, asking standard, friendly questions about the flight and the Seattle weather.
 
-When we arrived at my mother’s house, the environment grew a little more crowded. Wendy Vance and Peter welcomed everyone warmly. We sat in their living room, eating snacks and talking about the upcoming Thanksgiving plans.
+When we arrived at my mother’s house, the environment grew a little more crowded. Wendy Vance and Tom welcomed everyone warmly. We sat in their living room, eating snacks and talking about the upcoming Thanksgiving plans.
 
 Throughout the visit, I sat on the sofa with Casey tucked right against my side, our shoulders resting comfortably against each other as we listened to Mom talk. It was our standard, lifelong baseline for physical proximity.
 
@@ -61,9 +529,11 @@ Out of the corner of my eye, I caught Kristine shifting in her armchair across t
 
 Kristine took a slow sip of her drink. She didn't say a word to interrupt the sibling cuddles or complain about the conversation, but a vague, unplaceable need to manage her mood began to quietly hum in the back of my mind. I quickly convinced myself it was just standard adult relationship maintenance, and that she just wanted to make sure she was the most important girl in the room.
 
-### Part 3: The Perimeter Shift – 8:30 PM
+### Part 3: The Perimeter Shift
 
-# Part 3: The Perimeter Shift – 8:30 PM
+**Date:** 2004-11-24 at 20:30 ET
+
+# Part 3: The Perimeter Shift
 
 Since we needed to return Wendy's car to her, my mother grabbed her keys once the visit wrapped up. She drove the four of us out of Virginia Beach, crossing the water and dropping us off directly at the curb of Kristine’s apartment building in Portsmouth before waving goodbye and driving off into the night.
 
@@ -97,11 +567,13 @@ I followed Kristine down the hall to her bedroom. The door clicked shut behind u
 
 But the second we were alone, Kristine wrapped her arms around my neck, pulling me into a soft, eager kiss. She was radiating affection, whispering about how happy she was to finally have me all to herself after a long day of hosting. Sleep wasn't on her immediate agenda. Even though my eyes were heavy, I kissed her back, easily convincing myself that staying awake to be intimate with my loving girlfriend was exactly how a normal adult relationship worked.
 
-## Chapter 2: The Ambush – Thursday, November 25, 2004
+## Chapter 5: The Ambush
 
-### Part 1: The Morning Anchor – 7:00 AM
+### Part 1: The Morning Anchor
 
-# Part 1: The Morning Anchor – 7:00 AM
+**Date:** 2004-11-25 at 07:00 ET
+
+# Part 1: The Morning Anchor
 
 I woke up early on Thursday morning, long before the gray daylight fully filtered through the bedroom blinds. Beside me, Kristine was still fast asleep, her breathing slow and heavy.
 
@@ -179,9 +651,11 @@ Kristine just offered a terse, non-committal shrug, refusing to engage with the 
 
 I leaned back against the sofa cushions, feeling a vague, confusing friction settling over the room. We tried a few more times to pull her into our commentary about the parade performances, but her answers remained clipped and distinctly bothered. I couldn't figure out the social math. My sisters were being perfectly friendly, and I was doing my best to be an attentive partner, but Kristine was radiating a quiet, simmering annoyance.
 
-### Part 2: The Kitchen Ambush – 2:00 PM
+### Part 2: The Kitchen Ambush
 
-# Part 2: The Kitchen Ambush – 2:00 PM
+**Date:** 2004-11-25 at 14:00 ET
+
+# Part 2: The Kitchen Ambush
 
 The comfortable sanctuary of the living room held steady into the early afternoon. By two o'clock, the parade broadcast had ended, but the three of us remained anchored to the sofa, happily chatting and enjoying the rare, uninterrupted proximity of our pack.
 
@@ -253,9 +727,11 @@ Cassandra engaged the brakes on her chair. She reached out and wrapped her hand 
 
 "Take a breath, David," Cassandra said, her tone finally softening back into the sister I knew. "I know that was scary. But I will *never* let anyone treat you, or our family, like that. You are safe now."
 
-### Part 3: The Hard Sever – 2:30 PM
+### Part 3: The Hard Sever
 
-# Part 3: The Hard Sever – 2:30 PM
+**Date:** 2004-11-25 at 14:30 ET
+
+# Part 3: The Hard Sever
 
 The cold November wind whipped across the concrete curb, biting through my thin jacket.
 
@@ -307,11 +783,13 @@ Cassandra pulled herself smoothly into the front passenger seat, tossing her cha
 
 I sat in the middle of the backseat, sandwiched safely next to Casey, who immediately rested her head on my shoulder. I looked out the window as the taxi accelerated away from the curb. Kristine was left standing completely alone in the cold November night, growing smaller and smaller in the rearview mirror until the taxi turned the corner, leaving her entirely in the dust.
 
-## Chapter 3: The Crossroads – Thursday, November 25, 2004
+## Chapter 6: The Crossroads
 
-### Part 1: The Golden Architecture – 3:15 PM
+### Part 1: The Golden Architecture
 
-# Part 1: The Golden Architecture – 3:15 PM
+**Date:** 2004-11-25 at 15:15 ET
+
+# Part 1: The Golden Architecture
 
 The cab ride to the hotel in Virginia Beach was completely silent. Cassandra had maintained a strict, impenetrable operational security for the entire twenty-minute drive. She didn't say a single word about the kitchen, or the sidewalk, or Kristine. She just sat in the front seat, staring straight ahead, waiting until we were safely behind closed doors. When the taxi finally parked, she handed the driver his fare along with a massive, generous cash tip for his complete discretion.
 
@@ -357,9 +835,11 @@ I stared at the silver phone, the sheer magnitude of the safety net suddenly com
 
 "Elizabeth is living in Dayton and commuting to Harrisonburg for classes at Shenandoah Valley University," Cassandra explained. "If you choose Dayton, Elizabeth will help you enroll at SVU. I will still fund your tuition completely, and you will get the in-state rates. You will have a place to live, a degree path, and your best friend."
 
-### Part 2: The Executive Reality – 3:30 PM
+### Part 2: The Executive Reality
 
-# Part 2: The Executive Reality – 3:30 PM
+**Date:** 2004-11-25 at 15:30 ET
+
+# Part 2: The Executive Reality
 
 I sat on the edge of the hotel bed, my eyes locked on the silver flip phone resting on the small table. Casey was still pressed flush against my side, her breathing finally evening out as the deep-pressure contact did its job.
 
@@ -405,9 +885,11 @@ I gently untangled my arm from Casey, who let out a soft, sleepy hum of protest,
 
 I flipped it open, staring at the blank screen, the dial pad waiting for my input. The hotel room was perfectly quiet. I had a choice to make.
 
-### Part 3: The Summer Frequency – 4:00 PM
+### Part 3: The Summer Frequency
 
-# Part 3: The Summer Frequency – 4:00 PM
+**Date:** 2004-11-25 at 16:00 ET
+
+# Part 3: The Summer Frequency
 
 The ambient hum of the Virginia Beach hotel room was the only sound in the space. Casey was a warm, heavy anchor against my right side, and Cass was sitting patiently in her chair to my left, giving my processor the quiet space it needed to run the massive logistical calculations.
 
@@ -489,9 +971,11 @@ Casey stirred against my side. She blinked her eyes open, feeling the sudden ten
 
 "I don't want to wait until the spring," I sobbed quietly into the phone, completely dropping the mask. "I want all of you. Right now. I just want my family."
 
-### Part 4: The Twenty-One Day Bridge – 4:30 PM
+### Part 4: The Twenty-One Day Bridge
 
-# Part 4: The Twenty-One Day Bridge – 4:30 PM
+**Date:** 2004-11-25 at 16:30 ET
+
+# Part 4: The Twenty-One Day Bridge
 
 The silence on the line was deafening, save for the ragged, uneven sound of my breathing. I had completely buried my face in Casey’s hair, my hands clutching the silver phone so tightly my knuckles were white.
 
@@ -535,7 +1019,7 @@ Cass looked directly at me, her dark eyes sharp and decisive.
 
 My chest tightened, the panic threatening to flare up again. "Then where do I go? I can't go back to Portsmouth."
 
-"You are moving back into Mom's house in Virginia Beach tomorrow," Cass commanded gently. "It is literally within walking distance of the campus. You will stay with Wendy and Peter for the next twenty-one days to take your final exams and close out your semester."
+"You are moving back into Mom's house in Virginia Beach tomorrow," Cass commanded gently. "It is literally within walking distance of the campus. You will stay with Wendy and Tom for the next twenty-one days to take your final exams and close out your semester."
 
 "And what about me?" Liz asked through the phone, her voice thick with residual tears.
 
@@ -561,11 +1045,13 @@ I pulled Casey into a crushing, deep-pressure hug, my chest swelling with a wave
 
 "I'll see you on December 17th, David," Liz promised, her voice radiating pure warmth and unconditional love. "Study hard. I love you."
 
-## Chapter 4: The Severance – Saturday, November 27, 2004
+## Chapter 7: The Severance
 
-### Part 1: The Checkpoint – 8:30 AM
+### Part 1: The Checkpoint
 
-# Part 1: The Checkpoint – 8:30 AM
+**Date:** 2004-11-27 at 08:30 ET
+
+# Part 1: The Checkpoint
 
 The harsh fluorescent lights of the Norfolk International Airport departures terminal offered no comfort. It was Saturday morning, and the reality of the twenty-one-day bridge was officially here.
 
@@ -581,7 +1067,9 @@ Despite knowing the logic, and despite the absolute guarantee of December 17th, 
 
 Casey let out one last, shuddering breath and slowly untangled herself from my grip. She wiped her eyes, giving me a brave, fragile nod. Cass reached up, squeezing my hand tightly, before wheeling herself through the security line with Casey right behind her. I stood at the edge of the checkpoint, completely frozen, watching them until they disappeared around the corner toward the gates.
 
-### Interlude: The Firewall – Wednesday, December 1, 2004 – 2:15 PM
+### Interlude: The Firewall
+
+**Date:** 2004-11-27 at 14:15 ET
 
 # Interlude: The Firewall – Wednesday, December 1, 2004 – 2:15 PM
 
@@ -625,11 +1113,13 @@ She looked up and saw me standing in the hallway.
 
 "Spam call," Wendy said smoothly, though the fierce, protective fire was still burning brightly in her eyes. "I took care of it."
 
-## Chapter 5: The Executive Ascent – Friday, December 17, 2004
+## Chapter 8: The Executive Ascent
 
-### Part 1: Burton Station Road – 1:30 PM
+### Part 1: Burton Station Road
 
-# Part 1: Burton Station Road – 1:30 PM
+**Date:** 2004-12-17 at 13:30 ET
+
+# Part 1: Burton Station Road
 
 The calendar eventually surrendered.
 
@@ -653,9 +1143,11 @@ I jumped out of Mom's car and met them at the gate. Casey collided with me, wrap
 
 We drove back to Virginia Beach, the east-coast consolidation of our pack finally underway. But the perimeter wasn't quite complete yet.
 
-### Part 2: The Flight Data – 2:00 PM
+### Part 2: The Flight Data
 
-# Part 2: The Flight Data – 2:00 PM
+**Date:** 2004-12-17 at 14:00 ET
+
+# Part 2: The Flight Data
 
 The drive back to Virginia Beach operated on a completely different frequency than the tense, quiet car rides of November.
 
@@ -683,9 +1175,11 @@ I just sat there, smiling and absorbing her sheer, unfiltered joy. Hearing her c
 
 Casey gasped, grabbing my hand and squeezing it tightly. "You and Liz are going to love it," she promised fiercely. "It's the ultimate perimeter."
 
-### Part 3: The Honorary Sister – 7:45 PM
+### Part 3: The Honorary Sister
 
-# Part 3: The Honorary Sister – 7:45 PM
+**Date:** 2004-12-17 at 19:45 ET
+
+# Part 3: The Honorary Sister
 
 By the time the winter sun had fully set over Virginia Beach, the anticipation in Mom's living room had reached a fever pitch.
 
@@ -723,9 +1217,11 @@ I was perfectly sandwiched between my favorite girl and my best friend, eating a
 
 The perimeter was locked. My system was flawless. For the first time in what felt like a lifetime, I had absolutely everything I needed right in the palm of my hand.
 
-### Part 4: The Moving Logistics – 9:15 PM
+### Part 4: The Moving Logistics
 
-# Part 4: The Moving Logistics – 9:15 PM
+**Date:** 2004-12-17 at 21:15 ET
+
+# Part 4: The Moving Logistics
 
 With the pizza boxes cleared away, the conversation naturally shifted to the sheer mechanics of hauling Liz's life across the country. Mr. Carter pulled out a notepad, ready to outline the driving shifts for the rental truck, but Cassandra raised a hand, smoothly intercepting the planning phase.
 
@@ -735,7 +1231,7 @@ Liz blinked, stunned by the frictionless solution. "Cass, you didn't have to do 
 
 "The apartment is a two-bedroom layout, Liz. We don't have the square footage to absorb a truckload of furniture right now," Cassandra reasoned pragmatically. "Quantum's network handled the contracting. It is already paid for."
 
-With the immediate transit logistics resolved, the tone in the living room subtly shifted. The adults—Mom, Peter, and the Carters—were all sitting together, and Cassandra decided it was time to officially close out the operational debrief from the holiday.
+With the immediate transit logistics resolved, the tone in the living room subtly shifted. The adults—Mom, Tom, and the Carters—were all sitting together, and Cassandra decided it was time to officially close out the operational debrief from the holiday.
 
 Cassandra didn't raise her voice, but she commanded the absolute attention of the room as she laid out exactly what had happened on Thanksgiving Day. Being mindful of the younger siblings in the room, she kept her language clinical and precise, summarizing the deeply inappropriate, territorial display Kristine had orchestrated in the kitchen. She explained the sheer hostility of the boundary violation, how Kristine had intentionally forced a minor into a highly distressing situation just to assert dominance over the apartment.
 
@@ -797,11 +1293,13 @@ From the second floor, looking out over the intersection of Pope and Delaney, th
 
 She pulled me down onto the mattress, the heavy winter blankets wrapping securely around us. As I settled into the familiar, deeply regulating weight of her body against mine, the astronomy data quietly faded into the background. I didn't need to look out the window anymore. The only thing left to process was the profound, absolute safety of my best friend, the quiet rustle of the sheets, and the undeniable reality that the isolation was finally over.
 
-## Chapter 6: The Executive Departure – Saturday, December 18, 2004
+## Chapter 9: The Executive Departure
 
-### Part 1: The Morning Knock – 7:30 AM
+### Part 1: The Morning Knock
 
-# Part 1: The Morning Knock – 7:30 AM
+**Date:** 2004-12-18 at 07:30 ET
+
+# Part 1: The Morning Knock
 
 The pale morning light filtering through the blinds of my childhood bedroom was the first thing to pull me out of sleep. Liz was a warm, heavy weight across my chest, her breathing perfectly steady in the quiet room. For the first time in three weeks, my internal processor wasn't running a frantic, defensive loop. I was completely, deeply anchored.
 
@@ -829,13 +1327,15 @@ Casey didn't hesitate for a microsecond. She launched herself forward, wrapping 
 
 "I can't wait," Liz laughed, her cheeks still slightly pink as she hugged my little sister back. "Let's go get some breakfast."
 
-### Part 2: The Flight Logistics – 8:00 AM
+### Part 2: The Flight Logistics
 
-# Part 2: The Flight Logistics – 8:00 AM
+**Date:** 2004-12-18 at 08:00 ET
+
+# Part 2: The Flight Logistics
 
 We headed downstairs, guided by the smell of bacon and pancakes filling the house.
 
-Mom and Peter were moving around the kitchen, pulling massive plates of food out of the oven to feed the crowded house one last time before our cross-country move. Cassandra was already stationed at the kitchen island. Her travel wheelchair was locked in place, and her silver laptop was open next to a steaming mug of dark roast coffee.
+Mom and Tom were moving around the kitchen, pulling massive plates of food out of the oven to feed the crowded house one last time before our cross-country move. Cassandra was already stationed at the kitchen island. Her travel wheelchair was locked in place, and her silver laptop was open next to a steaming mug of dark roast coffee.
 
 "Good morning," Cass smiled warmly, closing her laptop as we walked into the room.
 
@@ -861,9 +1361,11 @@ I looked over at Liz. Her eyes were wide with quiet awe. For a couple of ninetee
 
 "Eat up," Cassandra smiled, reopening her silver laptop. "We have a plane to catch, and I want my family under my roof by dinner time."
 
-### Part 3: The Sovereign Airspace – 11:30 AM (EST)
+### Part 3: The Sovereign Airspace
 
-# Part 3: The Sovereign Airspace – 11:30 AM (EST)
+**Date:** 2004-12-18 at 11:30 ET
+
+# Part 3: The Sovereign Airspace
 
 Once we reached cruising altitude, the seatbelt sign chimed off, and the true scale of the aircraft's interior became apparent. It didn't feel like a plane; it felt like a high-end corporate boardroom wrapped in cream-colored leather and polished mahogany.
 
@@ -903,9 +1405,11 @@ Cass wiped her mouth with a linen napkin and pushed her plate aside. "Alright, I
 
 "Absolutely not," Cass replied immediately, her disdain for operational friction bleeding through. "There are rumors floating around Building 33 that I'm being groomed as William Keswick's heir, which is ridiculous. I'm twenty-six years old and I've only been at the company for four years. But even if I had access to a dedicated driver every day, I wouldn't use it. You have to book it, schedule it, and hope dispatch doesn't screw up the timing. I much prefer the city bus. I can just show up at the bus stop on my own schedule, deploy the ramp, and ride. True autonomy doesn't require a reservation."
 
-### Part 4: The Global Reach – 1:30 PM (EST)
+### Part 4: The Global Reach
 
-# Part 4: The Global Reach – 1:30 PM (EST)
+**Date:** 2004-12-18 at 13:30 ET
+
+# Part 4: The Global Reach
 
 With Cassandra fully locked into her executive workflow at the conference table, Casey took it upon herself to act as our official tour guide.
 
@@ -923,9 +1427,11 @@ From the mid-cabin conference table, without breaking her typing rhythm or even 
 
 Casey grinned at me, entirely used to her sister's fiercely protective, unyielding worldview. "Well, Europe it is, then."
 
-### Part 5: The I-5 Crawl – 3:45 PM (PST)
+### Part 5: The I-5 Crawl
 
-# Part 5: The I-5 Crawl – 3:45 PM (PST)
+**Date:** 2004-12-18 at 15:45 PT
+
+# Part 5: The I-5 Crawl
 
 A few hours later, the heavy winter clouds of the Pacific Northwest parted just enough for the jet to break through the gray canopy. We banked smoothly over the Seattle skyline, bypassing the commercial chaos of Sea-Tac entirely, and touched down on the long runway at Boeing Field.
 
@@ -941,11 +1447,13 @@ The early winter sunset was already plunging the city into a dreary twilight, an
 
 I leaned my head back against the plush leather seat, Casey resting warmly against my shoulder, and watched the Seattle rain streak across the tinted windows. I didn't care how bad the traffic was. My pack was finally, permanently, home.
 
-## Chapter 7: The Federal Way Perimeter – Saturday, December 18, 2004
+## Chapter 10: The Federal Way Perimeter
 
-### Part 1: The Legal Boundary – 5:30 PM
+### Part 1: The Legal Boundary
 
-# Part 1: The Legal Boundary – 5:30 PM
+**Date:** 2004-12-18 at 17:30 ET
+
+# Part 1: The Legal Boundary
 
 By the time the Quantum van finally escaped the gridlock of Interstate 5 and pulled up to the Federal Way apartment complex, the winter sun had completely set. We hauled our luggage out of the vehicle, thanked the driver, and took the elevator up to Cassandra's floor.
 
@@ -987,9 +1495,11 @@ As Liz and Casey headed back out to the living room to unfold the heavy sofa bed
 
 "Go get your bed set up," Cassandra instructed warmly, beginning to pivot her chair back toward the kitchen. "I'm going to start making dinner. We have a lot of lost time to make up for."
 
-### Part 2: Comfort Food and The Ledger – 6:15 PM
+### Part 2: Comfort Food and The Ledger
 
-# Part 2: Comfort Food and The Ledger – 6:15 PM
+**Date:** 2004-12-18 at 18:15 ET
+
+# Part 2: Comfort Food and The Ledger
 
 Casey eagerly grabbed one end of the heavy sofa cushions while Liz took the other. Together, we dragged the mattress frame out from the depths of the couch. The metal springs groaned, unfolding to take up nearly the entire footprint of the small living room.
 
@@ -1041,9 +1551,11 @@ Liz choked slightly on her milk, her eyes going wide. "Are they serious?"
 
 I watched my older sister brush off the idea with pure, pragmatic logic. She might not have believed it, but as I looked at the flawlessly executed perimeter she had built around our pack—navigating family law, federal tax codes, and cross-country logistics without breaking a sweat—I knew exactly why William Keswick was watching her. If anyone was capable of running the empire, it was Cassandra Vance.
 
-### Part 3: The Evening Routine – 8:30 PM
+### Part 3: The Evening Routine
 
-# Part 3: The Evening Routine – 8:30 PM
+**Date:** 2004-12-18 at 20:30 ET
+
+# Part 3: The Evening Routine
 
 By the time the dinner dishes were cleared from the kitchen island, a heavy, comfortable exhaustion had settled over the apartment. The adrenaline of the cross-country flight and the sheer relief of our consolidation had finally run its course.
 
@@ -1089,9 +1601,11 @@ Liz and I climbed onto the sprawling pull-out sofa bed, pulling the heavy blanke
 
 I grabbed the television remote and flipped the screen on, the ambient glow washing over the dark living room. We didn't really care what was playing. For the first time in months, my processor was completely silent. The perimeter was secure, the legal boundaries were flawless, and the entire pack was finally anchored exactly where we belonged.
 
-### Part 4: The Blackout – 9:30 PM
+### Part 4: The Blackout
 
-# Part 4: The Blackout – 9:30 PM
+**Date:** 2004-12-18 at 21:30 ET
+
+# Part 4: The Blackout
 
 By 9:30 PM, the quiet hum of the television was the only light source in the living room.
 
@@ -1141,11 +1655,13 @@ The weight and proximity of all four of us acting as a single, grounded unit pro
 
 Outside the bedroom walls, the wind howled and the Pacific Northwest rain battered the glass harder and heavier than before. But inside the dark apartment, entirely insulated by the unconditional love of the pack, the ambient noise faded into a steady lullaby. Surrounded by my sisters and my best friend, my processor finally went quiet, and we slowly drifted off to sleep.
 
-## Chapter 8: The Blackout – Sunday, December 19, 2004
+## Chapter 11: The Blackout
 
-### Part 1: Pantry Logistics – 8:00 AM
+### Part 1: Pantry Logistics
 
-# Part 1: Pantry Logistics – 8:00 AM
+**Date:** 2004-12-19 at 08:00 ET
+
+# Part 1: Pantry Logistics
 
 The heavy wool blankets of the king-sized bed had created an absolutely flawless thermal envelope.
 
@@ -1183,9 +1699,11 @@ Casey happily munched on a dry strawberry Pop-Tart, entirely unbothered by the l
 
 "It is definitely a forced operational pause," Cassandra agreed dryly, taking a bite of a granola bar. "But as long as the structural integrity of the roof holds and the utility crews keep working, I suppose a pajama day is an acceptable baseline."
 
-### Part 2: Circadian Logistics – 8:30 AM
+### Part 2: Circadian Logistics
 
-# Part 2: Circadian Logistics – 8:30 AM
+**Date:** 2004-12-19 at 08:30 ET
+
+# Part 2: Circadian Logistics
 
 As we sat on the floor of the dim living room, passing around boxes of dry oat flakes and frosted toaster pastries, the reality of our new geography started to set in.
 
@@ -1215,9 +1733,11 @@ I looked around the dark, quiet apartment. The power was still out, the ambient 
 
 The time zone didn't matter. The blackout didn't matter. The perimeter was secured, and for the next three days, my only operational objective was to adjust to being safe.
 
-### Part 3: The Eastside Expansion – 12:15 PM
+### Part 3: The Eastside Expansion
 
-# Part 3: The Eastside Expansion – 12:15 PM
+**Date:** 2004-12-19 at 12:15 ET
+
+# Part 3: The Eastside Expansion
 
 We spent the rest of the morning in a massive, tangled cuddle puddle on the living room floor. With the ambient temperature still hovering on the chilly side, we had dragged the heavy wool blankets out from the master bedroom and created a makeshift nest around the sofa bed. Casey was completely anchored against my side, Liz was resting her head on my chest, and Cassandra sat with her back against the sofa frame, her legs stretched out under the blankets with us.
 
@@ -1269,9 +1789,11 @@ I looked at the property details, then back at Cassandra. Her eyes were already 
 
 Cassandra closed all the transit tabs, leaving only the house listing glowing on the screen. "Yes. We absolutely should."
 
-### Part 4: The Tier-One Acquisition – 1:00 PM
+### Part 4: The Tier-One Acquisition
 
-# Part 4: The Tier-One Acquisition – 1:00 PM
+**Date:** 2004-12-19 at 13:00 ET
+
+# Part 4: The Tier-One Acquisition
 
 Cassandra didn't just browse standard public real estate websites. The moment we decided on the Eastside, she closed the public tabs and logged directly into the highly exclusive Quantum Building 33 intranet wiki.
 
@@ -1315,9 +1837,11 @@ I looked at Liz, a massive grin breaking across my face. Our temporary Federal W
 
 "I guess we better get out of these pajamas," I smiled, tossing the heavy wool blankets aside.
 
-### Part 5: The Sunday Dispatch – 1:15 PM
+### Part 5: The Sunday Dispatch
 
-# Part 5: The Sunday Dispatch – 1:15 PM
+**Date:** 2004-12-19 at 13:15 ET
+
+# Part 5: The Sunday Dispatch
 
 The sudden, chaotic scramble to get out of our flannel pajamas and into respectable daytime clothes took less than ten minutes. But as I pulled a clean sweater over my head and walked back out to the living room, Cassandra was staring at the transit maps on her laptop with a deep, frustrated frown.
 
@@ -1349,9 +1873,11 @@ As the cab merged onto Interstate 5 North to begin the forty-minute drive toward
 
 Cassandra didn't reply, but a small, sharp smile pulled at the corner of her mouth. The skyline of downtown Seattle passed by on our left as the cab banked onto the SR-520 floating bridge, carrying us across the gray, choppy waters of Lake Washington and straight toward our permanent perimeter.
 
-### Part 6: The Redmond Compound Acquisition – 2:00 PM
+### Part 6: The Redmond Compound Acquisition
 
-# Part 6: The Redmond Compound Acquisition – 2:00 PM
+**Date:** 2004-12-19 at 14:00 ET
+
+# Part 6: The Redmond Compound Acquisition
 
 The yellow cab pulled onto the sprawling, immaculately landscaped grounds of the Quantum campus. Instead of directing the driver to the residential address, Cassandra had him pull up directly in front of the massive, glass-fronted architecture of Building 33.
 
@@ -1405,9 +1931,11 @@ Marcus stared at her, utterly speechless at the sheer, overwhelming financial we
 
 Cassandra turned her chair back toward the paved sidewalk leading to Building 33, having successfully secured the sovereign perimeter for our pack without breaking her stride.
 
-### Part 7: The Contract Execution – 3:00 PM
+### Part 7: The Contract Execution
 
-# Part 7: The Contract Execution – 3:00 PM
+**Date:** 2004-12-19 at 15:00 ET
+
+# Part 7: The Contract Execution
 
 We left the property and began the short trek back toward the Quantum campus. Cassandra had mapped out a route to the bus stops along NE 40th Street, planning to catch the transit grid back toward the Overlake Transit Center so we could begin the long journey back to Federal Way.
 
@@ -1457,9 +1985,11 @@ Cassandra settled back into her chair, perfectly calm, perfectly anchored. She l
 
 Now, we waited.
 
-### Part 8: The Accepted Strike – 4:30 PM
+### Part 8: The Accepted Strike
 
-# Part 8: The Accepted Strike – 4:30 PM
+**Date:** 2004-12-19 at 16:30 ET
+
+# Part 8: The Accepted Strike
 
 By the time we left Marcus’s office, the adrenaline of the rapid-fire transaction had finally worn off, leaving us all starving. We hadn't eaten anything since breakfast at the Federal Way apartment, completely missing lunch during the chaotic cross-county deployment.
 
@@ -1509,9 +2039,11 @@ I raised my glass to meet hers, followed instantly by Liz and Casey. The glass c
 
 "To the perimeter," we echoed.
 
-### Part 9: The TAPS Grid – 6:45 PM
+### Part 9: The TAPS Grid
 
-# Part 9: The TAPS Grid – 6:45 PM
+**Date:** 2004-12-19 at 18:45 ET
+
+# Part 9: The TAPS Grid
 
 The ride back across Lake Washington was entirely different from our daytime cab ride. We boarded the TAPS 550 express bus in Downtown Bellevue, and as the heavy articulated vehicle merged onto the Interstate 90 floating bridge, Liz and I got our first real look at the Seattle skyline at night.
 
@@ -1559,9 +2091,11 @@ Casey giggled, leaning against my arm. "You guys don't know the grid yet."
 
 I shook my head, thoroughly impressed by the sheer logistical perfection of her route planning, and followed my sisters onto the bus. Five minutes later, the 174 dropped us off perfectly at the corner of South 308th Street, leaving us with nothing but a short, paved sidewalk stroll back to the warm, secure perimeter of our apartment.
 
-### Part 10: The Sunday Night Reset – 8:30 PM
+### Part 10: The Sunday Night Reset
 
-# Part 10: The Sunday Night Reset – 8:30 PM
+**Date:** 2004-12-19 at 20:30 ET
+
+# Part 10: The Sunday Night Reset
 
 By the time we unlocked the door to the Federal Way apartment and dropped our bags, the damp Pacific Northwest chill had thoroughly seeped into our bones. The ambient warmth of the apartment’s HVAC system was a massive relief after the cold transit commute, but the consensus among the pack was unanimous: everyone needed a hot shower.
 
@@ -1609,9 +2143,11 @@ Casey leaned into the hug, letting out a small, reluctant smile. "Okay. Fine."
 
 "Good," Cassandra nodded warmly, shifting her chair toward the hallway. "Now, let's initiate a full system shutdown. Tomorrow is Monday. I have to be at Building 33 for the morning executive briefing, and Casey, you have zero period calculus. It is time for bed."
 
-### Part 11: The A-B Block and Québécois French – 9:00 PM
+### Part 11: The A-B Block and Québécois French
 
-# Part 11: The A-B Block and Québécois French – 9:00 PM
+**Date:** 2004-12-19 at 21:00 ET
+
+# Part 11: The A-B Block and Québécois French
 
 Before Cassandra officially initiated the system shutdown for the night, I realized I was still flying blind regarding my younger sister's actual daily operational tempo. We knew she had Zero Period in the morning, but the rest of her day was a mystery to me.
 

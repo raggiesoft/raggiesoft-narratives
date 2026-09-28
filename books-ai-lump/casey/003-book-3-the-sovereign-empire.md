@@ -5,11 +5,13 @@ series: "casey"
 
 # Book 3: The Sovereign Empire
 
-## Chapter 1: The Mandate – Tuesday, January 14, 2014
+## Chapter 1: The Mandate
 
-### Part 1: The Deviation – 6:00 PM
+### Part 1: The Deviation
 
-# Part 1: The Deviation – 6:00 PM
+**Date:** 2014-01-14 at 18:00 PT
+
+# Part 1: The Deviation
 
 The winter sun had already dipped below the Pacific Northwest evergreens, casting long, geometric shadows across the pristine courtyards of the Quantum campus. Inside the corner office of the executive suite, the frantic, high-stakes operational tempo of the day was finally beginning to slow.
 
@@ -59,9 +61,11 @@ David nodded, accepting the executive necessity, and immediately negotiated the 
 
 "Don't thank me yet," David smirked, pulling up a digital textbook on his tablet to pass the time. "You still have to sit in this building for another three hours."
 
-### Part 2: The Pack Dinner – 6:30 PM
+### Part 2: The Pack Dinner
 
-# Part 2: The Pack Dinner – 6:30 PM
+**Date:** 2014-01-14 at 18:30 PT
+
+# Part 2: The Pack Dinner
 
 The sprawling glass atrium of the Building 33 lobby was practically deserted by half-past six. The daytime receptionist had long since gone home, leaving only a pair of quiet, highly trained corporate security guards monitoring the entry turnstiles.
 
@@ -127,9 +131,11 @@ David dried his hands, unzipping the secondary compartment of his leather medica
 
 With her physical baseline proactively secured and her mind remaining razor-sharp, the two of them exited the restroom and headed back to the elevators. They rode in silence up to the top floor, returning to the corner office to wait for the founders. The building was empty, the pain was managed, and the Vault was calling.
 
-### Part 3: The Vault – 9:30 PM
+### Part 3: The Vault
 
-# Part 3: The Vault – 9:30 PM
+**Date:** 2014-01-14 at 21:30 PT
+
+# Part 3: The Vault
 
 The sprawling Quantum campus in Redmond was entirely dark, save for the geometric grids of security lights illuminating the courtyards and the glowing, impenetrable glass perimeter of Building 33. Inside the top-floor executive suite, the ambient noise of the multi-billion-dollar empire had faded into absolute silence. The administrative assistants were gone. The PR handlers had been dismissed hours ago. The only people left in the highly secure, soundproofed corner office were the three architects of the modern digital age, and the nurse who kept one of them upright.
 
@@ -179,9 +185,11 @@ Cassandra looked at the two men who had shaped her entire adult life. She didn't
 
 "Then let's get to work on the transition," Cassandra stated. "Because I have a few ground-level structural changes I intend to make on day one."
 
-### Part 4: The Sovereign News – 10:30 PM
+### Part 4: The Sovereign News
 
-# Part 4: The Sovereign News – 10:30 PM
+**Date:** 2014-01-14 at 22:30 PT
+
+# Part 4: The Sovereign News
 
 The crisp January air was biting as Cassandra wheeled herself the few short blocks from the glowing glass facade of Building 33 to the quiet, tree-lined cul-de-sac where her property sat. The sprawling, 3,800-square-foot Pacific Northwest rambler was a fortress of commercial-grade accessibility, and as the front door clicked open, the warm, familiar ambient noise of her family instantly washed over her.
 
@@ -233,11 +241,13 @@ Cassandra smoothly transferred from her chair to the edge of the mattress. Casey
 
 As the Guanfacine took hold, the deafening roar of corporate logistics, server deployments, and board votes went entirely quiet. Lying in the dark, enveloped in the heavy duvet and the continuous, deep-pressure contact of the people she had spent her life protecting, Cassandra took a slow, steady breath. Tomorrow, she would walk into Building 33 and formally accept the keys to the largest tech perimeter on earth. But tonight, surrounded by her brother, her sister, and her sister-in-law, her own perimeter was perfectly secure.
 
-## Chapter 2: The Ground Truth – Wednesday, January 15, 2014
+## Chapter 2: The Ground Truth
 
-### Part 1: The Morning Baseline – 7:00 AM
+### Part 1: The Morning Baseline
 
-# Part 1: The Morning Baseline – 7:00 AM
+**Date:** 2014-01-15 at 07:00 PT
+
+# Part 1: The Morning Baseline
 
 The alarm on Cassandra’s phone chimed a soft, melodic tone, instantly cutting through the quiet warmth of the master suite.
 
@@ -267,9 +277,11 @@ Casey threw her arms around Cassandra's neck for a massive, deep-pressure hug, f
 
 "I'll see you both for dinner," Cassandra smiled to Casey and Liz, turning her chair toward the door. David grabbed his heavy leather medical kit and his tablet, falling into step right beside her.
 
-### Part 2: The Executive Pre-Flight – 8:30 AM
+### Part 2: The Executive Pre-Flight
 
-# Part 2: The Executive Pre-Flight – 8:30 AM
+**Date:** 2014-01-15 at 08:30 PT
+
+# Part 2: The Executive Pre-Flight
 
 The crisp January air was biting as Cassandra wheeled herself the short distance from her property, crossing into the impeccably landscaped, sprawling footprint of the Quantum campus. David walked right at her shoulder, his presence an absolute, immovable constant in her perimeter.
 
@@ -303,9 +315,11 @@ Steve let out a booming laugh that echoed off the glass walls. "That is exactly 
 
 At 9:55 AM, flanked by the billionaire founder and the outgoing CEO of Quantum, Cassandra Vance wheeled herself down the executive corridor toward the massive, frosted-glass double doors of the boardroom, entirely prepared to claim her empire.
 
-### Part 3: The Succession Consensus – 10:00 AM
+### Part 3: The Succession Consensus
 
-# Part 3: The Succession Consensus – 10:00 AM
+**Date:** 2014-01-15 at 10:00 PT
+
+# Part 3: The Succession Consensus
 
 The atmosphere inside the Building 33 boardroom was thick with corporate anxiety.
 
@@ -387,9 +401,11 @@ Steve Ballantine let out a massive, booming cheer, walking over to wrap Cassandr
 
 The war room was hers. Cassandra Vance was officially tapped to be Quantum’s next CEO.
 
-### Part 4: The Global Broadcast – 11:00 AM
+### Part 4: The Global Broadcast
 
-# Part 4: The Global Broadcast – 11:00 AM
+**Date:** 2014-01-15 at 11:00 PT
+
+# Part 4: The Global Broadcast
 
 The heavy, frosted-glass double doors of the boardroom swung open, and the hum of executive applause echoed down the carpeted hallway of Building 33.
 
@@ -445,9 +461,11 @@ Without a single PR filter, the email deployed simultaneously to over ninety tho
 
 Within seconds, internal chat channels, team message boards, and campus email servers across Redmond, Bellevue, Austin, London, and Tokyo lit up with an outpouring of excitement. The floorboards had heard their CEO—and the new era had officially begun.
 
-### Part 5: The Shadow Wallet – 11:12 AM
+### Part 5: The Shadow Wallet
 
-# Part 5: The Shadow Wallet – 11:12 AM
+**Date:** 2014-01-15 at 11:12 PT
+
+# Part 5: The Shadow Wallet
 
 David Vance sat at his dedicated, comfortable desk positioned out of the direct line of corporate traffic in the corner of the executive suite. As Cassandra's Licensed Practical Nurse, his sole metric for success was her medical stability. He kept a silent medical overwatch, his eyes flicking between her micro-expressions and the real-time EKG data streaming to his tablet via a highly secure, built-in GPS and cellular uplink.
 
@@ -497,9 +515,11 @@ A soft, vibrating confirmation hummed from the device.
 
 "The cryptographic handshake is complete. The shadow limit is live," the associate announced, offering a crisp, deferential bow. "Welcome to the Meridian Global Desk, Ms. Vance."
 
-### Part 6: The Global Desk – 11:20 AM
+### Part 6: The Global Desk
 
-# Part 6: The Global Desk – 11:20 AM
+**Date:** 2014-01-15 at 11:20 PT
+
+# Part 6: The Global Desk
 
 Cassandra looked at the heavy black metal in her hand. To her highly pragmatic mind, it was just a charge card. A tool for transactions. She slipped it out of its velvet presentation box and turned to her docked Quantum laptop.
 
@@ -595,9 +615,11 @@ Steve looked down at the thirty-five-year-old CEO-designate and her brother, who
 
 "Well," Steve smiled, checking his watch. "I believe you and David wanted to catch the bus to Bellevue to celebrate?"
 
-### Part 7: The Actuarial Risk – 11:45 AM
+### Part 7: The Actuarial Risk
 
-# Part 7: The Actuarial Risk – 11:45 AM
+**Date:** 2014-01-15 at 11:45 PT
+
+# Part 7: The Actuarial Risk
 
 The silence in the corner office was profound. Cassandra Vance stared at the silver-barreled fountain pen in her hand, the sheer, staggering reality of the Meridian Global Desk still settling into her highly analytical processor.
 
@@ -675,9 +697,11 @@ Steve Ballantine pushed off the glass wall, a massive, triumphant grin spreading
 
 "Absolutely," Steve boomed, adjusting his tie. "I wouldn't miss it for the world."
 
-### Part 8: The Route 230 Protocol – 12:15 PM
+### Part 8: The Route 230 Protocol
 
-# Part 8: The Route 230 Protocol – 12:15 PM
+**Date:** 2014-01-15 at 12:15 PT
+
+# Part 8: The Route 230 Protocol
 
 By noon, the Redmond campus was buzzing with an electric, celebratory energy. The global email had deployed, and the "Courtyard CEO" was officially the successor.
 
@@ -727,9 +751,11 @@ When the bus finally dropped her off at the Bellevue Transit Center, she didn't 
 
 She was about to run the empire, but she was never going to forget the people who helped her build the foundation.
 
-### Part 9: The Bellevue Reunion – 1:30 PM
+### Part 9: The Bellevue Reunion
 
-# Part 9: The Bellevue Reunion – 1:30 PM
+**Date:** 2014-01-15 at 13:30 PT
+
+# Part 9: The Bellevue Reunion
 
 When Cassandra Vance rolled into the twelfth-floor bullpen of Quantum's Downtown Bellevue tower, flanked closely by her brother David, the entire floor came to a complete, stunned halt.
 
@@ -795,9 +821,11 @@ From the next desk over, the older, gray-haired database architect caught the ro
 
 "Keep coding, kid," the veteran architect whispered fondly, entirely accustomed to the sibling dynamic that had governed Cassandra's baseline since the year 2005. "He's just doing his job."
 
-### Part 10: The Express Route – 5:15 PM
+### Part 10: The Express Route
 
-# Part 10: The Express Route – 5:15 PM
+**Date:** 2014-01-15 at 17:15 PT
+
+# Part 10: The Express Route
 
 Cassandra spent the entire afternoon holding court in the Bellevue communal workspace. She didn't just dispense executive wisdom; she actively engaged with the newest generation of Quantum engineers, absorbing their modern frameworks and asking incisive, highly technical questions. By the time 5:00 PM rolled around, her piano-black laptop was filled with notes on new asynchronous routing protocols and database mappers.
 
@@ -831,9 +859,11 @@ As the 564 bus merged onto Interstate 405 North, effortlessly bypassing the grid
 
 The Board of Directors loved her, Wall Street had surged on her announcement, and the employees respected her because she was an architect who genuinely cared about the people building the foundation. But as the bus sped toward her final stop in Redmond, just three flat, paved blocks from her front door, none of that corporate gravity mattered.
 
-### Part 11: The Sovereign Perimeter – 6:15 PM
+### Part 11: The Sovereign Perimeter
 
-# Part 11: The Sovereign Perimeter – 6:15 PM
+**Date:** 2014-01-15 at 18:15 PT
+
+# Part 11: The Sovereign Perimeter
 
 The heavy, articulated TAPS Express 564 bus hissed to a smooth halt at the Overlake Transit Center, lowering its mechanical ramp onto the damp concrete.
 

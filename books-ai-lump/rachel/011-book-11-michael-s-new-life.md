@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 11: Michael's New Life
 
-## Chapter 1: A Left Coast Christmas (Saturday, November 17, 2001)
+## Chapter 1: A Left Coast Christmas
 
 ### Part 1: Arrival at PDX
 
@@ -181,7 +181,7 @@ On my left, Jessica let out a soft, watery sob. As the neurotypical sister, she 
 
 We didn't say anything else. We didn't need to. We just pulled the heavy hotel blankets up to our chins, squeezed each other as tightly as we possibly could around the center, and let the rain beat against the windowpane outside, completely safe within our reunited perimeter.
 
-## Chapter 2: A Clark County Christmas (Sunday, November 18, 2001)
+## Chapter 2: A Clark County Christmas
 
 ### Part 1: Left Coast Time
 
@@ -399,7 +399,7 @@ Jessica simply reached into her coat pocket, pulled out her Columbia Transit car
 
 "Ten minutes," Rachel replied, checking her digital watch. "We should go."
 
-## Chapter 3: Shopping in Portland (Sunday, November 18, 2001)
+## Chapter 3: Shopping in Portland
 
 ### Part 1: The Transit Protocol
 
@@ -583,7 +583,7 @@ Rachel let out a long, shaky breath, her shoulders slumping as the heavy tension
 
 "Well," Jessica sighed, wheeling herself toward the center of the room. Her business-like demeanor quickly returned, a practiced shield to mask the sting of his rejection. She looked at Rachel and me, offering a soft, reassuring smile. "It's his loss. Rachel, pull up the ARTS train schedule. We need to figure out what time we're leaving for Tacoma."
 
-## Chapter 4: The Virginia Hammer (Monday, November 19, 2001)
+## Chapter 4: The Virginia Hammer
 
 ### Part 1: The Quantum Shield
 
@@ -667,7 +667,7 @@ I sat down next to her, wrapping my arms around her shoulders and pulling her in
 
 We were a thousand miles away from the courtroom, but the hammer had officially dropped. The perimeter was secured, the legal shield was active, and for the first time since September, our pack was actually going to have a Happy Thanksgiving.
 
-## Chapter 5: A New Tradition (Wednesday, November 21, 2001)
+## Chapter 5: A New Tradition
 
 ### Part 1: The Legal Stranger
 
@@ -1009,7 +1009,7 @@ I tightened my arms around them both, closing my eyes. The adult world, with its
 
 "Goodnight," I whispered back.
 
-## Chapter 6: A Left Coast Thanksgiving (Thursday, November 22, 2001)
+## Chapter 6: A Left Coast Thanksgiving
 
 ### Part 1: The Hudson's Parade
 
@@ -1375,7 +1375,7 @@ Rachel carefully carried the foil-covered dishes to the oven and placed them on 
 
 "Excellent work, team," Jessica said, looking at the resting turkey and the bubbling pots. "Michael, scoop those potatoes. Rachel, start setting the dining table. It's almost time to eat."
 
-## Chapter 9: The Southbound ARTS (Sunday, November 25, 2001)
+## Chapter 9: The Southbound ARTS
 
 ### Part 1: The Reverse Route
 

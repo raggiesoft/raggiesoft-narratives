@@ -2107,7 +2107,7 @@ April brought her heels together and bowed deeply to us on her way out.
 
 As she walked out the front door, the deadbolt clicking shut behind her, the heavy exhaustion of the day finally pulled me under. I closed my eyes, my hand locked tightly in Rachel's over the pillows. The first day of fifth grade was over, and as we drifted off into a desperately needed nap, we knew our training as true martial artists had just been reborn.
 
-## Chapter 5: The Chimney Sweep (Saturday, September 30, 1995)
+## Chapter 5: The Chimney Sweep
 
 ### Part 1: The Autumn Shift
 
@@ -2263,7 +2263,7 @@ Rachel looked at the fire extinguisher, and a tiny, genuine smile broke across h
 
 The chill in the air was still there, but it didn't matter anymore. The chimney was clean, the perimeter was locked, and as Dad went to the garage to bring in the first load of seasoned firewood, we knew the Base Camp was officially ready to survive the winter.
 
-## Chapter 6: The Foreclosure (Wednesday, October 4, 1995)
+## Chapter 6: The Foreclosure
 
 ### Part 1: The Wednesday Rhythm
 
@@ -2367,7 +2367,7 @@ Her mutism was still an impenetrable vault. The physical pain of the medical bin
 
 The Monday War was officially over. The Ragsdale pack had won.
 
-## Chapter 7: Jessica’s 15th Birthday (Saturday, October 14, 1995)
+## Chapter 7: Jessica’s 15th Birthday
 
 ### Part 1: A Full Perimeter
 

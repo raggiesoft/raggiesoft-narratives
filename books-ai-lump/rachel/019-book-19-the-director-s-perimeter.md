@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 19: The Director's Perimeter
 
-## Chapter 1: The Capture (Wednesday, May 16th, 2007)
+## Chapter 1: The Capture
 
 ### Part 1: The SME Directive
 
@@ -75,7 +75,7 @@ I pulled my silver flip phone from my pocket and opened the browser. I didn't se
 
 It was time to buy some dirt.
 
-## Chapter 2: The Moosewood Anomaly (Friday, May 25th, 2007)
+## Chapter 2: The Moosewood Anomaly
 
 ### Part 1: The Twenty-First Milestone
 
@@ -247,7 +247,7 @@ As we walked up the ADA-graded concrete path to our front door, Rachel laced her
 
 "Our own fortress, Bug," I agreed, unlocking the deadbolt.
 
-## Chapter 3: The Tactical Acquisition (Tuesday, May 29th, 2007)
+## Chapter 3: The Tactical Acquisition
 
 ### Part 1: The Route 36 Commute
 
@@ -317,7 +317,7 @@ She leaned back in her wheelchair, looking out the massive glass window toward t
 
 Now, the true architectural challenge began.
 
-## Chapter 4: Ground Zero (Friday, June 15th, 2007)
+## Chapter 4: Ground Zero
 
 ### Part 1: The Demolition Directive
 

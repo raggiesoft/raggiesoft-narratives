@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 18: The Eastern Anchor
 
-## Chapter 1: The Foundation (Friday, March 30th, 2007)
+## Chapter 1: The Foundation
 
 ### Part 1: The Tarmac and the Tear
 
@@ -103,7 +103,7 @@ Rachel paused, processing the geometry. A King bed would give us the massive, co
 
 We pulled each other into a heavy, final hug, the agonizing stress of the last two years finally bleeding out into the mattress. The perimeter was locked, our future was plotted, and as we drifted off to sleep, the Virginia night felt entirely safe.
 
-## Chapter 2: The Blueprint and the Sabomnim (Saturday, March 31st, 2007)
+## Chapter 2: The Blueprint and the Sabomnim
 
 ### Part 1: The Transition Wake-Up
 
@@ -797,7 +797,7 @@ Without the barrier of heavy pajamas, the physical grounding was absolute. The d
 
 I rested my chin against her dark hair, my racing heart rate instantly decelerating as I felt her pulse beat steadily against my side. The exhaustion of the day finally pulled me under. The stairs had been a brutal hurdle, and the heat was stifling, but lying there completely unfiltered and anchored to my sister, I fell asleep in minutes.
 
-## Chapter 3: The Sunday Reset (Sunday, April 1st, 2007)
+## Chapter 3: The Sunday Reset
 
 ### Part 1: The Three-Day Math
 
@@ -937,7 +937,7 @@ We shuffled down the hallway, perfectly executing our standard routine. Rachel t
 
 We migrated together into the dining room, following the incredible smell of the food. We pulled out our chairs and sat down, naturally positioning ourselves shoulder-to-shoulder at the table. Our biological clocks were still heavily scrambled from the Pacific Northwest, and we were completely exhausted, but our stomachs were loudly demanding fuel. The Sunday reset was nearly complete, and we were absolutely ready to eat.
 
-## Chapter 4: The Digital SOS (Monday, April 2nd, 2007)
+## Chapter 4: The Digital SOS
 
 ### Part 1: The Command Center
 
@@ -1461,7 +1461,7 @@ I felt the heavy pull of sleep finally taking hold. And this time, I didn't figh
 
 I would wake up to find my kid sister on top of me, protecting me.
 
-## Chapter 5: The Fortress (Tuesday, April 3rd, 2007)
+## Chapter 5: The Fortress
 
 ### Part 1: The Lifelong Partner
 
@@ -1721,7 +1721,7 @@ Rachel and I immediately stepped in, wrapping
 
 "I have my dollar," Ashley laughed through her tears, squeezing us back with everything she had. "I definitely have my dollar."
 
-## Chapter 6: The Deployment (Wednesday, April 4th, 2007)
+## Chapter 6: The Deployment
 
 ### Part 1: The West Coast Wake-Up
 

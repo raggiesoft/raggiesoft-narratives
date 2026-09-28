@@ -5,11 +5,13 @@ series: "casey"
 
 # Book 5: The Sovereign Autonomy
 
-## Chapter 1: The Silicon Valley Bypass – Thursday, May 15, 2014
+## Chapter 1: The Silicon Valley Bypass
 
-### Part 1: The Diridon Transfer – 10:00 AM
+### Part 1: The Diridon Transfer
 
-# Part 1: The Diridon Transfer – 10:00 AM
+**Date:** 2014-05-15 at 10:00 PT
+
+# Part 1: The Diridon Transfer
 
 At 10:00 AM, as the ARTS Coast Starlight began its final, gentle deceleration into the Santa Clara Valley, a silent, haptic timer vibrated against David’s wrist.
 
@@ -65,7 +67,9 @@ Cassandra rolled effortlessly onto the train, maneuvering her chair into the des
 
 As the SVTA Light Rail accelerated smoothly away from the station, carrying the CEO of Quantum and her family directly toward the convention center doors, Cassandra leaned her head back against her chair. The transit grid was operating perfectly. The perimeter was secure. Silicon Valley was entirely on her terms.
 
-### Interlude: The Handler Panic – 10:20 AM
+### Interlude: The Handler Panic
+
+**Date:** 2014-05-15 at 10:20 PT
 
 # Interlude: The Handler Panic – 10:20 AM
 
@@ -131,9 +135,11 @@ The line clicked dead.
 
 Marcus stood on the curb on Cahill Street, listening to his three V8 SUVs burning premium gasoline, utterly paralyzed by the realization that he had just been outmaneuvered by a woman in a wheelchair whose heart monitor was actively roasting his logistical incompetence.
 
-### Part 2: The Flashbulb Perimeter – 10:45 AM
+### Part 2: The Flashbulb Perimeter
 
-# Part 2: The Flashbulb Perimeter – 10:45 AM
+**Date:** 2014-05-15 at 10:45 PT
+
+# Part 2: The Flashbulb Perimeter
 
 The sleek, blue-and-yellow SVTA Light Rail hissed to a perfect, level stop at the Convention Center Station. The doors slid open, welcoming the warm California morning into the carriage.
 
@@ -199,9 +205,11 @@ Marcus stared at her, completely and utterly neutralized.
 
 Marcus frantically waved the press pool aside. With Liz keeping a secure, grounding hand on David's shoulder and Casey walking closely beside them, Cassandra wheeled smoothly across the sunlit plaza. She left a trail of stunned reporters, a humiliated VIP handler, and a viral, irrefutable image of a BayPass card that would dominate Silicon Valley forums for the rest of the year.
 
-### Part 3: The Keynote and the BayPass Question – 11:15 AM
+### Part 3: The Keynote and the BayPass Question
 
-# Part 3: The Keynote and the BayPass Question – 11:15 AM
+**Date:** 2014-05-15 at 11:15 PT
+
+# Part 3: The Keynote and the BayPass Question
 
 The main auditorium of the McEnery Convention Center was packed to its absolute structural limit. Thousands of tech executives, venture capitalists, software engineers, and media outlets sat in the dimmed theater, the ambient hum of anticipation buzzing through the room.
 
@@ -249,11 +257,13 @@ The auditorium exploded into a mixture of awestruck cheers from the engineering 
 
 In the front row, David smiled, resting his arm around Liz's shoulder. The wider tech sphere was desperately trying to analyze Cassandra Vance as a marketing genius, completely missing the simple, unyielding truth: she was just an architect who refused to waste her time sitting in traffic.
 
-## Chapter 2: The Fenwick Bridge Protocol – Tuesday, June 10, 2014
+## Chapter 2: The Fenwick Bridge Protocol
 
-### Part 1: The Gates of DCA – 8:15 AM
+### Part 1: The Gates of DCA
 
-# Part 1: The Gates of DCA – 8:15 AM
+**Date:** 2014-06-10 at 08:15 ET
+
+# Part 1: The Gates of DCA
 
 Landing a private corporate aircraft at Ronald Reagan Washington National Airport (DCA) is a logistical nightmare that most Fortune 500 companies actively avoid. Under post-9/11 federal security mandates, operating a private flight into the District’s primary airport requires navigating the rigid, exhaustive protocols of the DCA Access Standard Security Program (DASSP)—complete with armed armed-marshal manifests, physical TSA gate screenings at designated gateway airports, and direct federal authorization.
 
@@ -327,9 +337,11 @@ The silver Capital Transit train glided smoothly onto the platform above.
 
 Cassandra turned her chair back around, rolling seamlessly onto the platform elevator alongside David, Liz, and Casey. The doors closed, leaving the K Street handler stranded at the gates, frantically searching for a quarter.
 
-### Part 2: The L'Enfant Maze – 8:45 AM
+### Part 2: The L'Enfant Maze
 
-# Part 2: The L'Enfant Maze – 8:45 AM
+**Date:** 2014-06-10 at 08:45 ET
+
+# Part 2: The L'Enfant Maze
 
 The silver Yellow Line train plunged into the subterranean tunnels beneath Washington D.C., the rhythmic clatter of the tracks echoing through the cabin. Barely ten minutes after leaving the stranded K Street lobbyist at the DCA faregates, the train decelerated into the massive, vaulted concrete cavern of L'Enfant Plaza.
 
@@ -365,9 +377,11 @@ Exiting the station, the pack rode the street-level elevator up into the muggy D
 
 "Alright, pack," Cassandra said, adjusting the cuffs of her dark blazer and powering on her mounted Quantum laptop. Her processor shifted seamlessly from the protective, transit-navigating sister back into the apex predator of the corporate world. "Let's go talk to Congress."
 
-### Part 3: The Witness Table – 9:30 AM
+### Part 3: The Witness Table
 
-# Part 3: The Witness Table – 9:30 AM
+**Date:** 2014-06-10 at 09:30 ET
+
+# Part 3: The Witness Table
 
 The heavy oak doors of the Senate Judiciary Committee room swung open, revealing a towering, vaulted chamber filled with polished marble, press cameras, and rows of mahogany pews.
 
@@ -383,9 +397,11 @@ Instead of remaining in the gallery, **David walked right alongside her, carryin
 
 In the primary VIP row directly behind them, Liz and Casey took their seats. Liz kept a light, steady hand on her lap, while Casey pulled out her digital camera, quietly adjusting her lens to capture the high-arched windows of the Capitol. The perimeter was intact, the sensory baseline was locked, and there was not a single PR handler around to disrupt them.
 
-### Part 4: The LPN Protocol & The Galley Question – 9:35 AM
+### Part 4: The LPN Protocol & The Galley Question
 
-# Part 4: The LPN Protocol & The Galley Question – 9:35 AM
+**Date:** 2014-06-10 at 09:35 ET
+
+# Part 4: The LPN Protocol & The Galley Question
 
 The Committee Chairman, Senator Hayes—a seasoned, squeaky-clean legislator known for his meticulous adherence to Senate rules—tapped his gavel. The sharp crack echoed off the marble walls.
 
@@ -413,9 +429,11 @@ Seeing the CEO of Quantum pull out a MagnaByte mPad at a high-stakes congression
 
 "Thank you, Mr. Chairman," Cassandra began. "I am here today to talk about software, infrastructure, and the fundamental responsibilities of technology companies in the modern era."
 
-### Part 5: The Weaponized Ledger – 9:50 AM
+### Part 5: The Weaponized Ledger
 
-# Part 5: The Weaponized Ledger – 9:50 AM
+**Date:** 2014-06-10 at 09:50 ET
+
+# Part 5: The Weaponized Ledger
 
 Cassandra delivered a concise, five-minute opening statement on friction-free software architecture and open standards. But as soon as she concluded, Senator Thomas leaned toward his microphone, a smug, predatory grin spreading across his face. He had been reading the morning’s headlines from *Silicon Valley Unfiltered*.
 
@@ -459,9 +477,11 @@ Senator Thomas quietly shuffled his papers, turned his microphone off, and did n
 
 Beside Cassandra, David quietly checked her pulse oximeter, satisfied to find her baseline steady, composed, and completely in control of the floorboards.
 
-### Part 6: The MAR Protocol – 10:05 AM
+### Part 6: The MAR Protocol
 
-# Part 6: The MAR Protocol – 10:05 AM
+**Date:** 2014-06-10 at 10:05 ET
+
+# Part 6: The MAR Protocol
 
 The hearing room was still humming with the quiet, lingering tension of Senator Thomas’s public humiliation. The press gallery was practically vibrating, reporters furiously typing out drafts of what was already shaping up to be greatest congressional takedown of the decade.
 
@@ -511,9 +531,11 @@ It wasn't a stunt. It wasn't an entourage. It was an immutable, temperature-sens
 
 "I completely agree with your assessment of the server vulnerabilities, Ms. Vance," Chairman Hayes said warmly, leaning into his microphone. "Your clarity on this matter is deeply appreciated. Please, continue with your analysis."
 
-### Part 7: The Finch Expedition – 11:15 AM
+### Part 7: The Finch Expedition
 
-# Part 7: The Finch Expedition – 11:15 AM
+**Date:** 2014-06-10 at 11:15 ET
+
+# Part 7: The Finch Expedition
 
 The gavel struck the wooden block, officially adjourning the Senate Judiciary Committee hearing.
 
@@ -575,9 +597,11 @@ Cassandra glanced back at David, who was smiling as Casey pointed out a vintage 
 
 She hung up the phone, flipped the hardware mute switch, and rolled effortlessly through the wide, level-boarding entrance of the Finch Museum, completely content to leave the world of corporate handlers behind for the rest of the afternoon.
 
-### Part 7: The Civilian Perimeter – 12:00 PM
+### Part 7: The Civilian Perimeter
 
-# Part 7: The Civilian Perimeter – 12:00 PM
+**Date:** 2014-06-10 at 12:00 ET
+
+# Part 7: The Civilian Perimeter
 
 The transition from the marble halls of Capitol Hill to the bustling atrium of the Finch Air and Space Museum required a hard reset of the pack's operational profile.
 
@@ -609,9 +633,11 @@ To the rest of the world, Cassandra Vance was a titan of industry. But as she sa
 
 "Alright, eat up," Cassandra instructed, wiping her hands with a napkin and unlocking her wheelchair brakes. "The Finch museums are totally free to wander around, but I checked the schedule and there's a documentary playing in the large-format theater in thirty minutes. We need to swing by the box office and buy tickets before they sell out."
 
-### Part 8: The Telescope Protocol – 1:00 PM
+### Part 8: The Telescope Protocol
 
-# Part 8: The Telescope Protocol – 1:00 PM
+**Date:** 2014-06-10 at 13:00 ET
+
+# Part 8: The Telescope Protocol
 
 The large-format theater inside the Finch Air and Space Museum required a strict adherence to civilian etiquette. Before joining the queue for the documentary, the pack stopped at the front visitor counter, checking their heavy weekend duffel bags with the attendant so they wouldn't have to haul them through the crowded theater aisles.
 
@@ -673,7 +699,9 @@ Cassandra rolled off the train, guiding her family to the street-level elevator.
 
 Cassandra led them exactly one block over to their luxury hotel. There was no motorcade, no frantic lobbying team waiting in the lobby, and no press pool. Thanks to the absolute autonomy of the WMATA grid, the CEO of Quantum checked in at the front desk looking like nothing more than a standard tourist, her family safe and insulated by her side.
 
-### Interlude: The Escalator Trap – 4:15 PM
+### Interlude: The Escalator Trap
+
+**Date:** 2014-06-10 at 16:15 ET
 
 # Interlude: The Escalator Trap – 4:15 PM
 
@@ -739,11 +767,13 @@ Greg slowly lowered his phone, looking down into the escalator shaft. They hadn'
 
 "Pierce, I don't know where the damn elevator is," Greg snapped, marching toward the street. "Just call a cab."
 
-## Chapter 3: The Connecticut Avenue Protocol – Wednesday, June 11, 2014
+## Chapter 3: The Connecticut Avenue Protocol
 
-### Part 1: The ELstat Briefing – 5:30 PM
+### Part 1: The ELstat Briefing
 
-# Part 1: The ELstat Briefing – 5:30 PM
+**Date:** 2014-06-11 at 17:30 ET
+
+# Part 1: The ELstat Briefing
 
 The luxury suite overlooking Farragut Square was buzzing with quiet, focused preparation. Tonight was the Global Wildlife Conservation Gala at the Smithsonian National Zoological Park, a highly exclusive, black-tie event crawling with federal politicians, international dignitaries, and tech titans.
 
@@ -771,9 +801,11 @@ Cassandra hit a keystroke on her laptop, closing her terminal window, and offere
 
 Greg blinked, his smugness faltering. "But... it has 'Zoo' in the name."
 
-### Part 2: The Topography Trap – 5:45 PM
+### Part 2: The Topography Trap
 
-# Part 2: The Topography Trap – 5:45 PM
+**Date:** 2014-06-11 at 17:45 ET
+
+# Part 2: The Topography Trap
 
 David stepped forward, adjusting his tie, a quiet smirk playing on his lips. Having spent hours analyzing the District's transit grid with his sister, he knew exactly where the trap lay.
 
@@ -789,9 +821,11 @@ She wheeled herself past the stunned lobbyist and out into the hallway.
 
 "David, grab my blazer. We're catching the L2."
 
-### Part 3: The Surface Fleet – 6:00 PM
+### Part 3: The Surface Fleet
 
-# Part 3: The Surface Fleet – 6:00 PM
+**Date:** 2014-06-11 at 18:00 ET
+
+# Part 3: The Surface Fleet
 
 The pack descended the hotel elevator to the street level, stepping out into the warm, golden evening light of Farragut Square. Greg trailed frantically behind them, his tailored suit already starting to feel tight.
 
@@ -811,9 +845,11 @@ Greg stood on the sidewalk, entirely defeated. His multi-million-dollar executiv
 
 The bus doors snapped shut.
 
-### Part 4: The Front Gate Arrival – 6:20 PM
+### Part 4: The Front Gate Arrival
 
-# Part 4: The Front Gate Arrival – 6:20 PM
+**Date:** 2014-06-11 at 18:20 ET
+
+# Part 4: The Front Gate Arrival
 
 The ride up Connecticut Avenue was a masterclass in surface transit efficiency.
 

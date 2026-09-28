@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 7: Seeds of a Divorce
 
-## Chapter 1: The Continental Shift (Thursday, August 17, 2000)
+## Chapter 1: The Continental Shift
 
 ### Part 1: The Aunt Janet Extraction
 
@@ -365,7 +365,7 @@ Jessica finally let go of us. She sat up straight, her stoic armor fully locked 
 
 The Pacific Northwest. The vanguard had arrived.
 
-## Chapter 2: The TAPS Grid & The Breda Fleet (Thursday, August 17, 2000)
+## Chapter 2: The TAPS Grid & The Breda Fleet
 
 ### Part 1: Reclaiming the Armor
 
@@ -597,7 +597,7 @@ Back on the East Coast, fast food was strictly segmented. Burger places sold bur
 
 "I don't know," Jessica said, a small, genuine smile breaking across her face as she looked up at the menu. "But I want a cheeseburger and two tacos."
 
-## Chapter 3: The Provisions Run (Friday, August 18th, 2000)
+## Chapter 3: The Provisions Run
 
 ### Part 1: The ADA Fortress
 
@@ -937,7 +937,7 @@ Falling asleep was a brutal, agonizingly slow battle against the silence. Every 
 
 The sun would come up. We would walk back to the engineering quad. We would see her tomorrow.
 
-## Chapter 4: The Tourist Perimeter (Saturday, August 19th, 2000)
+## Chapter 4: The Tourist Perimeter
 
 ### Part 1: The Reassembled Pack
 

@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 9: The Divorce Reprieve
 
-## Chapter 1: The Mall (Friday, August 17th, 2001)
+## Chapter 1: The Mall
 
 ### Part 1: Vacation from Parents
 
@@ -179,7 +179,7 @@ I slid over and put my arm firmly around my kid sister, pulling her securely aga
 
 "I’ve enjoyed sharing with you these past few nights upstairs in my room," I whispered, the heavy pressure of her resting against me grounding my own racing thoughts. "But it is nicer having the larger bed this sofa offers. And the dogs are right here, too."
 
-## Chapter 2: The Teenage Script (Saturday, August 18th, 2001)
+## Chapter 2: The Teenage Script
 
 ### Part 1: The Elephant in the Room
 

@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 8: The Delaney Street Fracture
 
-## Chapter 1: Rachel’s First Band Camp (Monday, August 13th, 2001)
+## Chapter 1: Rachel’s First Band Camp
 
 ### Part 1: Awakening My Sister
 

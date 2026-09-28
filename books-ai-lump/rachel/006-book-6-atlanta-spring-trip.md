@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 6: Atlanta Spring Trip
 
-## Chapter 1: The Catalyst Notification (Friday, April 21st, 2000)
+## Chapter 1: The Catalyst Notification
 
 ### Part 1: The Desktop Under the Stairs
 
@@ -329,7 +329,7 @@ Dad stood in the archway for a long, heavy moment. He looked at his wife, who ha
 
 He didn't say another word. He just turned around, walked back into the kitchen, and quietly hung the receiver back on the wall.
 
-## Chapter 2: Arrival at the Hotel (Thursday, May 4th, 2000)
+## Chapter 2: Arrival at the Hotel
 
 ### Part 1: The Wheelchair Lift
 
@@ -575,7 +575,7 @@ Jessica looked at me, then back at him. Her eyes were completely cold.
 
 I helped her transfer into the bed, and out of sheer habit and the desperate need for deep-pressure grounding, I climbed in next to her. We left our father sitting alone in the dark with his television, the bridge between him and his children permanently burned.
 
-## Chapter 3: The Roanoke Rapids Collapse (Saturday, October 28, 2000)
+## Chapter 3: The Roanoke Rapids Collapse
 
 ### Part 1: The Crown Burger Trigger
 

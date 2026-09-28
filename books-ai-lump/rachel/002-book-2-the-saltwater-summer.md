@@ -639,7 +639,7 @@ But Scott would eventually board a plane back to headquarters. April would leave
 
 Curtis crossed his arms, his white uniform pulling tight across his chest. He was going to break them. He was going to find a drill, close the blinds, and crush the spirit right out of them, just to prove to the universe that he was the strong one.
 
-## Chapter 3: The Enforcer (Tuesday, August 15th, 1995)
+## Chapter 3: The Enforcer
 
 ### Part 1: The Mirrored Room
 
@@ -1347,7 +1347,7 @@ The loud, rhythmic whir of the VCR rewinding the tape was a steady, mechanical l
 
 But as Rachel’s steady heartbeat thumped against my arm, I had never felt safer in my entire life.
 
-## Chapter 4: The Latchkey Solstice (Wednesday, August 16th, 1995)
+## Chapter 4: The Latchkey Solstice
 
 ### Part 1: The Latchkey Captain
 
@@ -2569,7 +2569,7 @@ The Delaney Street house was no longer a home. It was just a building where we h
 
 The adults who were supposed to protect us had failed, but we had each other.
 
-## Chapter 6: The Shattered Illusion (Friday, August 18th, 1995)
+## Chapter 6: The Shattered Illusion
 
 ### Part 1: The Physical Proof
 
@@ -3285,7 +3285,7 @@ I looked down into the space between our beds. Dad was sitting in the vinyl chai
 
 The hospital was a miserable place to spend the night. We were in pain, exhausted, and completely stripped of our normal comforts. But as the first faint traces of gray morning light began to bleed through the small window of the trauma bay, I realized that for the first time in months, I wasn't afraid.
 
-## Chapter 7: The Long Road (Saturday, August 19th, 1995)
+## Chapter 7: The Long Road
 
 ### Part 1: Kehr’s Sign
 
@@ -3695,7 +3695,7 @@ I closed my eyes, letting the heavy, narcotic pull of the muscle relaxers drag m
 
 The adults were upstairs. But the pack was holding the line.
 
-## Chapter 8: The Warpath (Sunday, August 20th, 1995)
+## Chapter 8: The Warpath
 
 ### Part 1: Bear and Bug
 

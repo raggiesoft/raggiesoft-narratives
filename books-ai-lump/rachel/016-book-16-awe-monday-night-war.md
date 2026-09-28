@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 16: AWE Monday Night War
 
-## Chapter 1: The Portland Offensive (Monday, November 20, 2006)
+## Chapter 1: The Portland Offensive
 
 ### Part 1: The Morning Deployment
 
@@ -343,7 +343,7 @@ We walked as a single, impenetrable unit past the towering, multi-story glass wi
 
 My vocal cords were fully online. My spine was straight. The Bear was fully awake. The trap Tom Ragsdale had inadvertently set for his daughter was about to be effortlessly dismantled, because Rachel wasn't walking up to that glass window alone.
 
-## Chapter 2: Arrival at Rose City Center (Monday, November 20, 2006)
+## Chapter 2: Arrival at Rose City Center
 
 ### Part 1: Will Call
 
@@ -673,7 +673,7 @@ The ring announcer climbed through the ropes, his voice echoing through the mass
 
 The Rose City Center absolutely exploded. The dark matches had done their job perfectly. The crowd was hot, our snack perimeter was fully stocked, and the red light on the massive broadcast cameras began to blink.
 
-## Chapter 3: AWE Monday Night War (Monday, November 20, 2006)
+## Chapter 3: AWE Monday Night War
 
 ### Part 1: LIVE From Portland
 

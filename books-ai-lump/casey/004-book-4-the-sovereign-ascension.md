@@ -5,19 +5,21 @@ series: "casey"
 
 # Book 4: The Sovereign Ascension
 
-## Chapter 1: The Bloodline Convergence – Friday, February 14, 2014
+## Chapter 1: The Bloodline Convergence
 
-### Part 1: The Rotor Wash – 08:15 AM
+### Part 1: The Rotor Wash
 
-# Part 1: The Rotor Wash – 08:15 AM
+**Date:** 2014-02-14 at 08:15 PT
+
+# Part 1: The Rotor Wash
 
 The crisp, freezing February air whipped across the elevated concrete of the Quantum executive helipad.
 
-Cassandra Vance sat perfectly still in her manual wheelchair, the collar of her dark, tailored topcoat pulled up against the bite of the Pacific Northwest winter. Flanking her on the tarmac was the entire East Coast foundation of her life. David and Liz—now twenty-nine years old and married for nearly a decade—stood beside twenty-seven-year-old Casey. Grouped closely around them were Wendy, Peter, and Mr. and Mrs. Carter.
+Cassandra Vance sat perfectly still in her manual wheelchair, the collar of her dark, tailored topcoat pulled up against the bite of the Pacific Northwest winter. Flanking her on the tarmac was the entire East Coast foundation of her life. David and Liz—now twenty-nine years old and married for nearly a decade—stood beside twenty-seven-year-old Casey. Grouped closely around them were Wendy, Tom, and Mr. and Mrs. Carter.
 
-The Virginia contingent had arrived three days earlier. When the Quantum corporate jet had touched down smoothly at Boeing Field (BFI), Peter had instinctively headed toward the terminal doors to locate the rental car kiosks. He was immediately intercepted by Cassandra, who handed him, Wendy, and the Carters their own freshly loaded blue TAPS PASS cards.
+The Virginia contingent had arrived three days earlier. When the Quantum corporate jet had touched down smoothly at Boeing Field (BFI), Tom had instinctively headed toward the terminal doors to locate the rental car kiosks. He was immediately intercepted by Cassandra, who handed him, Wendy, and the Carters their own freshly loaded blue TAPS PASS cards.
 
-*"We don't do rental cars, Peter,"* Cassandra had informed her stepfather with a warm, uncompromising smile. *"You are in my territory now. We ride the grid."*
+*"We don't do rental cars, Tom,"* Cassandra had informed her father with a warm, uncompromising smile. *"You are in my territory now. We ride the grid."*
 
 Instead of an armored motorcade, the CEO-designate of the most powerful software corporation on earth had led her parents and her in-laws onto a standard TAPS King County bus running up from the airfield, transferring seamlessly in downtown Seattle to the TAPS 545 Express bus to reach their Redmond hotel. It was a flawless, zero-friction introduction to the world Cassandra had built—a world where transit autonomy reigned supreme.
 
@@ -49,7 +51,7 @@ Cassandra unlocked her brakes and wheeled forward to bridge the gap. Victoria me
 
 "I bought an exorbitant amount of aviation fuel to ensure we did," Victoria replied, her eyes glittering with pride as she looked at Cassandra's corporate fortress. "I was not going to miss the handover."
 
-Cassandra pivoted her chair, gesturing to the bewildered Virginia contingent. "Victoria, I want you to officially meet my mother, Wendy, and my stepfather, Peter. And these are Liz's parents, Mr. and Mrs. Carter. They have been the anchors for our pack since the beginning."
+Cassandra pivoted her chair, gesturing to the bewildered Virginia contingent. "Victoria, I want you to officially meet my mother, Wendy, and my father, Tom. And these are Liz's parents, Mr. and Mrs. Carter. They have been the anchors for our pack since the beginning."
 
 Victoria stepped forward, offering a perfectly diplomatic, genuinely warm handshake to Wendy and the Carters. "It is an absolute honor. Cassandra has told me everything you did to protect them on the East Coast."
 
@@ -71,9 +73,11 @@ Cassandra checked the heavy silver watch on her wrist. It was 08:35 AM.
 
 "Alright," Cassandra announced, her voice dropping into the calm, lethal register of a CEO. She looked toward the towering, glass-fronted monolith of the executive headquarters. "We have a trillion-dollar empire to formally hand over today, and Steve is waiting in the vault. Let's get everyone inside Building 33."
 
-### Part 2: The Front Row – 08:50 AM
+### Part 2: The Front Row
 
-# Part 2: The Front Row – 08:50 AM
+**Date:** 2014-02-14 at 08:50 PT
+
+# Part 2: The Front Row
 
 The William Keswick Auditorium, located deep within the architectural heart of Building 33, was an amphitheater built for global broadcasts and shareholder summits. It was massive, sleek, and usually cordoned off with strict, corporate rigidity.
 
@@ -95,7 +99,7 @@ The transition into the auditorium was a masterclass in polite, organized pack d
 
 "Thank you, sir," Victoria said gracefully to a security guard holding the heavy acoustic doors open, her sovereign posture completely at home among the billionaire infrastructure.
 
-"Appreciate it," David added, guiding Wendy and Peter into the plush, theater-style seating.
+"Appreciate it," David added, guiding Wendy and Tom into the plush, theater-style seating.
 
 Johnny wheeled his manual chair into the center aisle of the front row, locking his brakes directly between Amanda and Casey. Morgan and Diana filed in behind them, taking their seats with the quiet, observant discipline of engineers assessing a new facility.
 
@@ -133,9 +137,11 @@ A sharp knock on the green room door interrupted the quiet moment. A production 
 
 "Alright," Steve grinned, clapping his hands together. "Let's go make some history."
 
-### Part 3: The Floorboards – 09:00 AM
+### Part 3: The Floorboards
 
-# Part 3: The Floorboards – 09:00 AM
+**Date:** 2014-02-14 at 09:00 PT
+
+# Part 3: The Floorboards
 
 The William Keswick Auditorium was a sea of Quantum Blue Badges, packed to its absolute, structural capacity. Thousands of developers, QA testers, and program managers hummed with an electric, unprecedented anticipation. In the front row, the unified Vance-Whitaker and Virginia packs sat shoulder-to-shoulder, a formidable wall of sovereign loyalty holding the absolute best seats in the house.
 
@@ -163,7 +169,7 @@ As she reached the center, Steve Ballantine stepped forward. Reaching into his j
 
 The auditorium completely unglued.
 
-It wasn't polite corporate applause; it was a deafening, thunderous roar. The entire room rose to their feet, delivering a staggering, five-minute standing ovation. In the front row, David, Liz, Casey, Wendy, Peter, the Carters, and the towering mountain Vanguard were on their feet, clapping until their hands ached.
+It wasn't polite corporate applause; it was a deafening, thunderous roar. The entire room rose to their feet, delivering a staggering, five-minute standing ovation. In the front row, David, Liz, Casey, Wendy, Tom, the Carters, and the towering mountain Vanguard were on their feet, clapping until their hands ached.
 
 The only people in the entire auditorium who remained seated were the ones whose architecture required it: Johnny Vance in the front row, Senior Technical Program Manager Jessica Ragsdale in the middle aisles, and near the back, navigating her state-of-the-art power wheelchair, the legendary cross-platform engineer Jessica Taylor.
 
@@ -197,11 +203,13 @@ As she spoke the words *protect our perimeter*, she held deliberate, unyielding 
 
 Cassandra Vance was no longer just the architect in the shadows. The keys were in her hand, the perimeter was locked, and the empire was officially hers.
 
-## Chapter 2: The After Party – Friday, February 14, 2014
+## Chapter 2: The After Party
 
-### Part 1: The Food Truck Festival – 12:00 PM
+### Part 1: The Food Truck Festival
 
-# Part 1: The Food Truck Festival – 12:00 PM
+**Date:** 2014-02-14 at 12:00 PT
+
+# Part 1: The Food Truck Festival
 
 The sprawling, open-air plazas and forested courtyards of the Redmond campus had been completely transformed.
 
@@ -241,9 +249,11 @@ David looked down at his older sister, a fierce, undeniable pride radiating from
 
 "Good," Cassandra said simply, pulling her wheelchair forward a few inches as the line slowly advanced. "An ivory tower is a very lonely place to eat lunch. I prefer the courtyard."
 
-### Part 2: The Zero-Proof Pavilion – 1:15 PM
+### Part 2: The Zero-Proof Pavilion
 
-# Part 2: The Zero-Proof Pavilion – 1:15 PM
+**Date:** 2014-02-14 at 13:15 PT
+
+# Part 2: The Zero-Proof Pavilion
 
 While the standard corporate beer-and-wine tents were heavily trafficked on the far side of the plaza, a distinctly different perimeter had been established near the center of the campus.
 
@@ -307,9 +317,11 @@ A single tear of pure relief rolled down Kelly's cheek. Ryan reached over, lacin
 
 They weren't just senior developers anymore. They were under the direct, unyielding protection of the Courtyard CEO.
 
-### Part 3: The Cross-Pollination of Packs – 2:00 PM
+### Part 3: The Cross-Pollination of Packs
 
-# Part 3: The Cross-Pollination of Packs – 2:00 PM
+**Date:** 2014-02-14 at 14:00 PT
+
+# Part 3: The Cross-Pollination of Packs
 
 As the afternoon sun cast long shadows across the Redmond campus, the rigid boundaries that typically separated distinct corporate and familial ecosystems completely dissolved. The food truck festival had fostered a vibrant, egalitarian atmosphere, allowing the fierce, off-grid survivalists of the Mountain Vanguard to mingle directly with the intellectual titans of the Quantum engineering bullpens.
 
@@ -349,9 +361,11 @@ Kelly looked at Amanda, Sarah, and Ashleigh, and then back at Johnny. She reache
 
 Across the plaza, the atmosphere remained bright and celebratory. But beneath the laughter and the food trucks, the underlying law of the afternoon was absolute: the perimeters were active, the packs were consolidated, and the boundaries keeping both Cassandra and Johnny perfectly safe would never be breached.
 
-### Part 4: The Transit Pledge – 4:45 PM
+### Part 4: The Transit Pledge
 
-# Part 4: The Transit Pledge – 4:45 PM
+**Date:** 2014-02-14 at 16:45 PT
+
+# Part 4: The Transit Pledge
 
 By late afternoon, the winter sun began to dip below the Pacific Northwest evergreens, casting a cool, golden twilight over the Redmond campus. The food trucks were slowly beginning to power down their generators, but the central plazas were still packed with thousands of Quantum employees who were reluctant to let the historic day end.
 
@@ -391,9 +405,11 @@ Cassandra let the cheers wash over the plaza, offering a sharp, satisfied nod to
 
 She handed the microphone back to the technician, unlocked her brakes, and wheeled smoothly back toward her family, having successfully laid the groundwork for the most ambitious infrastructure project in the company's history.
 
-### Part 5: The Logistics of Departure – 5:30 PM
+### Part 5: The Logistics of Departure
 
-# Part 5: The Logistics of Departure – 5:30 PM
+**Date:** 2014-02-14 at 17:30 PT
+
+# Part 5: The Logistics of Departure
 
 As the applause from the courtyard faded, the massive, synchronized machinery of the Vance-Whitaker family began its departure protocols.
 
@@ -409,39 +425,41 @@ Victoria smiled, a sharp, respectful expression of mutual sovereign recognition.
 
 Amanda gave Cassandra a final, tight hug, then helped Johnny navigate the loading ramp. Within minutes, the helicopter lifted off, banking sharply north toward the Skagit gorge to return the pack to their high-altitude fortress.
 
-With the mountain pack safely airborne, Cassandra pivoted back to the remaining logistics of the evening. Wendy, Peter, and the Carters were booked into a luxury hotel in Downtown Redmond for the weekend.
+With the mountain pack safely airborne, Cassandra pivoted back to the remaining logistics of the evening. Wendy, Tom, and the Carters were booked into a luxury hotel in Downtown Redmond for the weekend.
 
 Cassandra didn't summon an armored SUV from the subterranean executive garage. She simply led her parents, her brother, and her in-laws away from the Quantum campus and straight onto the paved sidewalks leading to the Overlake Transit Center.
 
-The winter air was biting, and as they stood at the bustling bus shelter waiting for the local route to Downtown Redmond, Peter finally broke.
+The winter air was biting, and as they stood at the bustling bus shelter waiting for the local route to Downtown Redmond, Tom finally broke.
 
-"I just don't understand the optics of this," Peter grumbled, pulling his coat tighter around his shoulders and glaring at the glowing digital arrival sign. "Your daughter was just named the Chief Executive Officer of the most powerful technology company on the planet. And we are standing on wet concrete waiting for a public city bus."
+"I just don't understand the optics of this," Tom grumbled, pulling his coat tighter around his shoulders and glaring at the glowing digital arrival sign. "Your daughter was just named the Chief Executive Officer of the most powerful technology company on the planet. And we are standing on wet concrete waiting for a public city bus."
 
-Cassandra let out a long, audible groan, resting her hands on the wheels of her chair. She looked at her stepfather, her patience for civilian entitlement entirely exhausted by the long day.
+Cassandra let out a long, audible groan, resting her hands on the wheels of her chair. She looked at her father, her patience for civilian entitlement entirely exhausted by the long day.
 
-"I am also riding this public city bus, Peter," Cassandra stated flatly. "I could have a motorcade idling here in sixty seconds. I choose the transit grid because it is efficient, and I refuse to sit in traffic."
+"I am also riding this public city bus, Tom," Cassandra stated flatly. "I could have a motorcade idling here in sixty seconds. I choose the transit grid because it is efficient, and I refuse to sit in traffic."
 
-"It's just ridiculous," Peter muttered, gesturing toward the northern sky where the helicopter had vanished. "Victoria and her family get a private, chartered helicopter right off the campus, and we have to swipe a bus pass?"
+"It's just ridiculous," Tom muttered, gesturing toward the northern sky where the helicopter had vanished. "Victoria and her family get a private, chartered helicopter right off the campus, and we have to swipe a bus pass?"
 
-"Victoria gets a helicopter because of physical geography, Peter," Cassandra corrected, her voice dropping into a cold, uncompromising register. "State Route 20 is completely closed past Milepost 134. The WSDOT gates are locked, and the highway is an unplowed avalanche zone. The only physical way to bypass the barricades and drop them back onto Ruby Mountain in February is from the sky. And I paid a small fortune for that charter out of my own personal checking account."
+"Victoria gets a helicopter because of physical geography, Tom," Cassandra corrected, her voice dropping into a cold, uncompromising register. "State Route 20 is completely closed past Milepost 134. The WSDOT gates are locked, and the highway is an unplowed avalanche zone. The only physical way to bypass the barricades and drop them back onto Ruby Mountain in February is from the sky. And I paid a small fortune for that charter out of my own personal checking account."
 
-Wendy nudged Peter sharply in the ribs, offering her daughter an apologetic look. Mr. and Mrs. Carter simply stood nearby, happily holding their blue TAPS Passes, entirely unbothered by the wait and completely supportive of their honorary daughter's methods.
+Wendy nudged Tom sharply in the ribs, offering her daughter an apologetic look. Mr. and Mrs. Carter simply stood nearby, happily holding their blue TAPS Passes, entirely unbothered by the wait and completely supportive of their honorary daughter's methods.
 
-"I provided all of you with pre-loaded TAPS Passes so you can move around the city seamlessly," Cassandra continued, locking eyes with her stepfather and leaving absolutely zero room for debate. "But if riding the municipal bus is beneath you, Peter, there is an enterprise rental car agency three blocks away. You are more than welcome to walk there and pay for a sedan out of your own pocket."
+"I provided all of you with pre-loaded TAPS Passes so you can move around the city seamlessly," Cassandra continued, locking eyes with her father and leaving absolutely zero room for debate. "But if riding the municipal bus is beneath you, Tom, there is an enterprise rental car agency three blocks away. You are more than welcome to walk there and pay for a sedan out of your own pocket."
 
-Peter swallowed his pride, looking away and muttering a quiet, reluctant apology. He didn't say another word about the helicopter.
+Tom swallowed his pride, looking away and muttering a quiet, reluctant apology. He didn't say another word about the helicopter.
 
 A moment later, the heavy, articulated TAPS bus hissed to a halt at the curb. The doors opened, the mechanical ramp deployed, and the CEO of Quantum tapped her blue transit pass against the reader, leading her family onto the bus exactly on her own terms.
 
-### Part 6: The Executive Shutdown – 6:30 PM
+### Part 6: The Executive Shutdown
 
-# Part 6: The Executive Shutdown – 6:30 PM
+**Date:** 2014-02-14 at 18:30 PT
+
+# Part 6: The Executive Shutdown
 
 The heavy TAPS bus hissed to a smooth halt in the warm, ambient glow of the Downtown Redmond streetlights.
 
-Peter stepped off the bus onto the pavement, his posture notably subdued. The cold air seemed to have cooled his lowland entitlement. He had begrudgingly swallowed his pride, realizing that picking a fight over a transit card on the single most historic day of his stepdaughter's life was a catastrophic miscalculation. He didn't complain or mutter as he pulled his luggage from the racks.
+Tom stepped off the bus onto the pavement, his posture notably subdued. The cold air seemed to have cooled his lowland entitlement. He had begrudgingly swallowed his pride, realizing that picking a fight over a transit card on the single most historic day of his daughter's life was a catastrophic miscalculation. He didn't complain or mutter as he pulled his luggage from the racks.
 
-"We're incredibly proud of you, Cassandra," Peter offered quietly, giving her a stiff but genuinely respectful hug. He didn't want to ruin the milestone.
+"We're incredibly proud of you, Cassandra," Tom offered quietly, giving her a stiff but genuinely respectful hug. He didn't want to ruin the milestone.
 
 Wendy and the Carters followed with massive, warm embraces.
 
@@ -469,53 +487,47 @@ There was no hesitation in the routine. Casey immediately curled up against Cass
 
 Enveloped in the deep, restrictive pressure of her pack, the sheer magnitude of the day finally settled into a quiet, profound peace. The empire was hers, the perimeter was flawless, and the machine was secure. But lying in the dark, surrounded by the three people she loved most in the world, Cassandra Vance was simply home.
 
-### Interlude: The Lowland Entitlement – 7:00 PM
+### Interlude: The Lowland Entitlement
 
-# Interlude: The Lowland Entitlement – 7:00 PM
+**Date:** 2014-02-14 at 19:00 PT
 
-Wendy dropped her purse onto the polished entryway table of their Downtown Redmond luxury suite and let out a long, quiet sigh. The hotel room was immaculate, boasting a sweeping view of the glowing Pacific Northwest tech corridor, but the tension radiating from the center of the room was actively ruining the aesthetic.
+# Interlude: The Urban Grid – 7:00 PM
 
-Peter threw his suitcase onto the luggage rack with a heavy, frustrated thud.
+Wendy dropped her purse onto the polished entryway table of their Downtown Redmond luxury suite and let out a long, quiet sigh. The hotel room was immaculate, boasting a sweeping view of the glowing Pacific Northwest tech corridor. 
 
-"I just don't understand the optics, Wendy," Peter muttered, pacing the edge of the king-sized bed. "She is the CEO of Quantum. She runs a trillion-dollar company. We shouldn't be standing on wet concrete waiting for public transit. The absolute least she could do is arrange an executive black car for her own family."
+Tom set his suitcase onto the luggage rack and walked over to the window, looking out over the sprawling city. 
 
-Wendy turned around, her posture instantly hardening. She loved Peter, but she possessed the exact same fierce, unyielding pragmatism as her daughters. She was not going to let his bruised ego cast a shadow over the greatest milestone of Cassandra's life.
+"I still can't get over how efficient it is, Wendy," Tom smiled, pulling his blue TAPS PASS card out of his wallet and turning it over in his hand. "Our daughter is the CEO of Quantum. She runs a trillion-dollar company. Most executives at her level demand a fleet of black cars, and she just handed us bus passes and told us to ride the grid."
 
-"Peter, you need to let it go right now," Wendy warned, her voice dropping into a firm, maternal register.
+Wendy walked up behind him, wrapping her arms around his waist. She loved Tom's absolute, unwavering support of their daughters. He possessed the exact same fierce, pragmatic loyalty as the rest of the Vance family. 
 
-"I'm just saying—"
+"It's brilliant," Tom continued, his voice thick with genuine pride. "Do you realize what a logistical nightmare a standard black car is for a wheelchair user? To get into a town car, Cass would have to physically transfer out of her seat, break her manual frame down, pop the wheels off, and shove the entire rig into the trunk. Every single time she wanted to go three blocks."
 
-"You are just complaining about a system you don't understand," Wendy interrupted, stepping fully into the room. "Do you have any idea what a logistical nightmare a standard black car is for a wheelchair user? To get into a town car, Cassandra has to physically transfer out of her seat, break her manual frame down, pop the wheels off, and shove the entire rig into the trunk. And she has to do it every single time she wants to go three blocks."
+"Exactly," Wendy agreed softly, resting her chin on his shoulder. "The TAPS bus lowers a mechanical ramp, and she rolls straight into the ADA bay. It is zero friction."
 
-Peter frowned, the frustration stalling slightly as the physical reality of his stepdaughter's daily life was presented to him.
+"It's about autonomy," Tom nodded, turning around and leaning against the glass. "She doesn't ride the bus to make a point. She rides it because it gives her absolute, unbroken independence. She doesn't have to wait for a chauffeur or ask anyone for help. It's perfectly optimized."
 
-"The TAPS bus lowers a mechanical ramp, and she rolls straight into the ADA bay," Wendy explained, her tone softening just a fraction, though the steel remained. "It is zero friction. She doesn't ride the bus to punish us, Peter. She rides it because it gives her absolute, unbroken autonomy. She doesn't have to wait for a chauffeur or ask for help."
+Tom looked back out the window toward the dark, looming silhouette of the Cascade mountains in the far distance. 
 
-Peter crossed his arms, looking out the window at the Redmond skyline. His pride was wounded, and he immediately grasped for the only other comparison he had.
+"Though, I do have to admit," Tom chuckled slightly. "The logistics for getting Victoria's clan off the mountain are a lot more extreme than a TAPS bus."
 
-"Fine. Autonomy," Peter grumbled. "But what about Victoria and that entire mountain clan? Cassandra didn't make them take a city bus. She paid for a private, twin-engine commercial helicopter charter right off the campus."
+Wendy gave her husband a warm smile. "Victoria didn't get a helicopter because she asked for luxury, Tom. She got a helicopter because the geography absolutely demands it. You literally cannot drive to The Prospector's Keep in February."
 
-Wendy gave her husband a sharp, withering look. "Victoria didn't get a helicopter because she asked for luxury, Peter. She got a helicopter because the geography absolutely demands it. You literally cannot drive to The Prospector's Keep in February."
+"I know," Tom sighed, knowing the infamous infrastructure failure well. "The barricaded avalanche zone."
 
-"It's just a mountain pass—"
+Wendy walked over and sat on the edge of the king-sized bed. 
 
-"It is a barricaded avalanche zone," Wendy corrected sharply. "And it's closed because the federal government never finished Interstate 96."
+"You remember the original blueprints for that highway," Wendy reminded him. "I-96 was supposed to be the great northern artery. It was designed to run from the Evergreen Marine terminal in Anacortes, cut straight through the massive sprawl of Meridian, and punch all the way across the country to Duluth, Minnesota. It was supposed to completely replace State Route 20 and carve a safe, permanent corridor through the Skagit Gorge."
 
-Wendy walked over to the window, standing beside him.
+Tom nodded, his expression turning serious. 
 
-"You remember the original blueprints for that highway," Wendy reminded him, tapping the glass. "I-96 was supposed to be the great northern artery. It was designed to run from the Evergreen Marine terminal in Anacortes, cut straight through the massive sprawl of Meridian, and punch all the way across the country to Duluth, Minnesota. It was supposed to completely replace State Route 20 and carve a safe, permanent corridor through the Skagit Gorge."
+"But they ran out of funding and political willpower," Wendy continued, laying out the logistics with the same precision her daughters used in the boardroom. "They stopped laying concrete at Birdsview. The massive, multi-lane interstate just abruptly ends, dumping all that high-speed traffic unceremoniously onto a fragile, two-lane state highway. Because they never pushed I-96 through the gorge, the state still drops the steel barricades at Milepost 134 every single winter. Victoria's property is legally and physically erased from the map until May."
 
-Peter sighed, knowing the infamous infrastructure failure well.
+"So a twin-engine helicopter is literally the only physical way off that peak," Tom finalized, shaking his head in quiet awe at Cassandra's reach. "Cass paid a pretty penny out of her own pocket to ensure Victoria could be here today. And she handed us TAPS passes so we could navigate her city on her terms."
 
-"But they ran out of funding and political willpower," Wendy continued, laying out the logistics with the same precision her daughter used in the boardroom. "They stopped laying concrete at Birdsview. The massive, multi-lane interstate just abruptly ends, dumping all that high-speed traffic unceremoniously onto a fragile, two-lane state highway. Because they never pushed I-96 through the gorge, the state still drops the steel barricades at Milepost 134 every single winter. Victoria's property is legally and physically erased from the map until May."
+Tom smiled, slipping the transit card safely back into his wallet. 
 
-Wendy turned to face him, leaving absolutely zero room for argument.
+"It was a spectacular day, Wendy," Tom said quietly, crossing the room and kissing his wife on the forehead. "Our daughter just conquered the world."
 
-"A helicopter is literally the only physical way off that peak," Wendy finalized. "Cassandra paid a pretty penny out of her own pocket to ensure her family could be here today. And she handed you a TAPS Pass so you could navigate her city on her terms."
-
-Peter looked down at his shoes. The lowland entitlement was finally, completely punctured by the sheer weight of the Vance women's logic.
-
-"I'm sorry," Peter muttered quietly, rubbing the back of his neck. "You're right. It was a spectacular day. I shouldn't be complaining."
-
-"No, you shouldn't," Wendy agreed, her expression finally melting into a warm, forgiving smile. She reached out, adjusting the collar of his shirt. "Our daughter just conquered the world, Peter. Put the transit card in your wallet, get some sleep, and tomorrow, you can say thank you."
+"Yes, she did," Wendy smiled, wrapping her arms around his neck. "Get some sleep, Tom. Tomorrow, we get to watch her run it."
 

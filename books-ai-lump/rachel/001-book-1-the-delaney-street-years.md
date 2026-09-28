@@ -5,11 +5,11 @@ series: "The Rachel Narrative"
 
 # Book 1: The Delaney Street Years
 
-## Chapter 1: The Sabertooth Kitty (December 1990)
+## Chapter 1: The Sabertooth Kitty
 
 ### Part 1: The Sensory Avalanche
 
-**Date:** 1990-12 at 09:00 ET
+**Date:** 1990-12-01 at 09:00 ET
 
 The house on Delaney Street vibrated with the frantic, overlapping energy of a Saturday morning cartoon. The bright, chaotic synthesizer intro of the *Puppet Pals* theme song played on a loop from the television, battling against the noise of the crowded room.
 
@@ -35,7 +35,7 @@ My caveman sprinted across the screen, easily outrunning the pixelated beast.
 
 Maria dropped the Light-Blaster on the carpet and leaned over my shoulder to watch. Even with the house exploding with holiday chaos behind me, I had secured a logistical victory. The noise of the living room faded away, completely replaced by the simple, predictable 8-bit music of the victory screen.
 
-## Chapter 2: The Lower Bunk (December 22nd, 1993)
+## Chapter 2: The Lower Bunk
 
 ### Part 1: Sanctuary
 
@@ -107,7 +107,7 @@ Rachel shifted slightly, burying her face into my shoulder and exhaling a long, 
 
 I let my eyes drift shut. Let Joey have the room down the hall. I had found a new, highly functional workaround, and as far as I was concerned, this was exactly where I was supposed to be.
 
-## Chapter 3: The Morning After (December 23rd, 1993)
+## Chapter 3: The Morning After
 
 ### Part 1: The Discovery
 

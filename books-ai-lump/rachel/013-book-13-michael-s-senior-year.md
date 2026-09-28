@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 13: Michael’s Senior Year
 
-## Chapter 1: The Empty Shell (Monday, July 14th, 2003)
+## Chapter 1: The Empty Shell
 
 ### Part 1: The Last Morning
 
@@ -525,7 +525,7 @@ It wasn't romantic. It was a perfectly executed sensory compression protocol.
 
 The physical Base Camp on Delaney Street was gone, my sisters were 2,800 miles away, and the job hunt was a terrifying paradox. But as I lay in the dark, held together entirely by the unyielding grip and warmth of my best friend, my processor finally went offline, letting the exhaustion drag me under.
 
-## Chapter 2: The Digital Mirage (Tuesday, July 15th, 2003)
+## Chapter 2: The Digital Mirage
 
 ### Part 1: The Best Tech Ambush
 
@@ -1089,7 +1089,7 @@ Ashley smiled, a quiet, radiant expression in the dark room. She leaned forward,
 
 *\[Fade to Black because we are skipping over an evening of Michael and Ashley having sex – this is the first time for both of them\]*
 
-## Chapter 3: The Extraction (Wednesday, July 16th, 2003)
+## Chapter 3: The Extraction
 
 ### Part 1: The Morning Perimeter
 

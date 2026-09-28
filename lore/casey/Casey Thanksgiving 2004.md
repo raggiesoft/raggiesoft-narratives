@@ -4,7 +4,7 @@
 * Quantum, Cassandra's employer, is the in-universe Microsoft and she works in Building 33, home of William Keswick (in-universe Bill Gates) and his executives such as an in-universe Paul Allen and Steve Balmer
 * ALWAYS use the fictional names, for copyright reasons
 * David's legal address is currently at his mother's house in Virginia Beach, VA
-* I need last names for Cassandra, David, and Casey (they should be the same since they are siblings and unmarried) - Wendy (their mother) still has the same last name; she divorced her husband but kept the last name for the kids sake (she will eventually marry Peter and take his last name)
+* I need last names for Cassandra, David, and Casey (they should be the same since they are siblings and unmarried) - Wendy (their mother) still has the same last name; 
 * Kristine also needs a last name (she's David's girlfriend, that Cassandra is forbidding him from seeing anymore)
 * Elizabeth (Liz) needs a last name
 * Ages as of Thanksgiving 2004:
@@ -40,7 +40,6 @@
 
 ## Cassandra's Injury (Black Friday 1999)
 
-> **Context for the AI:** This was the reason why Tom (dad) started losing interest in being a parent, for lack of a better term: he blames himself for Cassandra's injury, which eventually led to Wendy divorcing him
 
 Cassandra is reaching toward the peak of the portico. She shifts her weight on the slanted roof, but her shoe fails to grip the cold, frosted asphalt shingles.
 
@@ -95,7 +94,7 @@ But as I pulled my arm back from Casey, I felt Kristine step immediately into my
 
 We gathered their luggage and loaded up the trunk. The drive to Virginia Beach was filled with easy, rapid-fire catching up between me, Cassandra, and Casey. Kristine chimed in politely from the passenger seat, asking standard, friendly questions about the flight and the Seattle weather.
 
-When we arrived at my mother’s house, the environment grew a little more crowded. Wendy and Peter welcomed everyone warmly. We sat in their living room, eating snacks and talking about the upcoming Thanksgiving plans.
+When we arrived at my mother’s house, the environment grew a little more crowded. Wendy and Tom welcomed everyone warmly. We sat in their living room, eating snacks and talking about the upcoming Thanksgiving plans.
 
 Throughout the visit, I sat on the sofa with Casey tucked right against my side, our shoulders resting comfortably against each other as we listened to Mom talk. It was our standard, lifelong baseline for physical proximity.
 
@@ -575,7 +574,7 @@ Cass looked directly at me, her dark eyes sharp and decisive.
 
 My chest tightened, the panic threatening to flare up again. "Then where do I go? I can't go back to Portsmouth."
 
-"You are moving back into Mom's house in Virginia Beach tomorrow," Cass commanded gently. "It is literally within walking distance of the CCHR campus. You will stay with Wendy and Peter for the next twenty-one days to take your final exams and close out your semester."
+"You are moving back into Mom's house in Virginia Beach tomorrow," Cass commanded gently. "It is literally within walking distance of the CCHR campus. You will stay with Mom and Dad for the next twenty-one days to take your final exams and close out your semester."
 
 "And what about me?" Liz asked through the phone, her voice thick with residual tears.
 
@@ -779,7 +778,7 @@ I hadn't heard the sugary, manipulative pitch of Kristine Mercer's voice since T
 
 Liz looked up from her binder instantly, her eyes narrowing. She didn't panic. She just set her pen down, her posture shifting from excited fiancée to a fiercely protective anchor.
 
-"I called your mom's house. Peter accidentally let it slip," Kristine said, her voice dropping into that familiar, pouty register she used when she wanted to play the victim. "David, please don't hang up. I've spent months thinking about what happened. I miss you so much. I just want to fly out there and see you. We can fix this."
+"I called your mom's house. Dad accidentally let it slip," Kristine said, her voice dropping into that familiar, pouty register she used when she wanted to play the victim. "David, please don't hang up. I've spent months thinking about what happened. I miss you so much. I just want to fly out there and see you. We can fix this."
 
 "There is nothing to fix," I stated plainly, looking directly at Liz and offering a small, reassuring smile. "I'm engaged, Kristine. We're looking at wedding venues right now. Do not call this number again."
 
@@ -1219,7 +1218,7 @@ Victoria Vance steepled her fingers, her sharp eyes studying Cassandra. Cass was
 
 Victoria leaned forward slightly, her forensic mind re-engaging. "Your father never spoke of Laurent? Or the estate?"
 
-Cassandra let out a sharp, humorless laugh. "Tom Vance never spoke of anything that didn't immediately serve his own interests. He never researched our genealogy, and he certainly never cared about where we came from. After I fractured my feet in 1999 and ended up in this chair, he completely checked out of being a parent. He didn't care about the past, and he didn't care about our future."
+Cassandra let out a sharp, humorless laugh. "Tom Vance never spoke of anything that didn't immediately serve his own interests. He never researched our genealogy, and he certainly never cared about where we came from. He didn't care about the past, and he certainly didn't care about tracing ancient bloodlines."
 
 The dining room went completely quiet. I felt Casey press her shoulder tighter against my ribs, the memory of our father's total neglect making her system instinctively seek deep pressure.
 
@@ -1235,7 +1234,7 @@ Cassandra legitimately had no clue. She didn't care about the Klondike gold that
 
 Victoria Vance slowly leaned back in her chair. The paranoid tension that had gripped her chest since the booking alert first flashed on Johnny's terminal completely evaporated. The exiled generation was greedy and selfish. Cassandra was the exact opposite. Cassandra operated on the exact same frequency as Victoria: absolute, unconditional protection of the pack.
 
-"Then Tom Vance was a fool," Victoria stated, her voice ringing with finality. "He walked away from the strongest bloodline on this mountain."
+"Then Tom Vance was a fool," Victoria stated, her voice ringing with finality. "He ignored the strongest bloodline on this mountain."
 
 Victoria raised her glass of sparkling cider, looking directly at Cassandra.
 

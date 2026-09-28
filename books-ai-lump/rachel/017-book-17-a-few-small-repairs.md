@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 17: A Few Small Repairs
 
-## Chapter 1: Breakfast in Vancouver (Tuesday, November 21, 2006)
+## Chapter 1: Breakfast in Vancouver
 
 ### Part 1: The Anchor's Rest
 
@@ -455,7 +455,7 @@ She looked up at me, a brilliant, radiant smile breaking across her face.
 
 We sat together on the heavy wooden bench of Union Station, surrounded by the quiet murmur of other travelers. The repairs were finished. The perimeter was locked. And as we waited for the northbound ARTS train to carry us back to King County, the future had never looked brighter.
 
-## Chapter 2: The Financial Extraction (Wednesday, November 22, 2006)
+## Chapter 2: The Financial Extraction
 
 ### Part 1: The Transit Grid
 
@@ -1259,7 +1259,7 @@ I pulled back slowly, resting my forehead against hers. Kristin smiled in the da
 
 I closed my eyes, anchored by Rachel on my left and Kristin on my right. The processor finally powered down, and I fell asleep instantly, completely insulated from the rest of the world.
 
-## Chapter 3: The Sanctuary Holiday (Thursday, November 23, 2006)
+## Chapter 3: The Sanctuary Holiday
 
 ### Part 1: The Sentinel Tether
 
@@ -1511,7 +1511,7 @@ Kristin smiled, a beautiful, brilliant expression of pure trust. She reached ove
 
 With a soft click, the room faded to black.
 
-## Chapter 4: The Spectacle of the Season (Friday, November 24, 2006)
+## Chapter 4: The Spectacle of the Season
 
 ### Part 1: The Afterglow and the Doorbuster Clock
 
@@ -2219,7 +2219,7 @@ The deep, restrictive pressure of her weight against my side sent a massive wave
 
 I closed my eyes, the heavy exhaustion of the day finally pulling me under. I was wearing my sister's clothes, sleeping in a different county than my command center, but as her steady heartbeat thumped against my chest, the math was completely perfect. The pack was safe.
 
-## Chapter 5: The Weekend Shift (Saturday, November 25, 2006)
+## Chapter 5: The Weekend Shift
 
 ### Part 1: The Choice
 

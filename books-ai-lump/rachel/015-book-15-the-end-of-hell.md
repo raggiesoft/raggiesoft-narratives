@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 15: The End of Hell
 
-## Chapter 1: The Setup (Wednesday, November 8, 2006)
+## Chapter 1: The Setup
 
 ### Part 1: The Pitch
 
@@ -55,7 +55,7 @@ I sat on the edge of the bed, a cold knot tightening in my stomach. She was lyin
 
 I thought it was just a vacation. I had absolutely no idea she was packing for a one-way trip.
 
-## Chapter 2: The Departure (Saturday, November 11, 2006)
+## Chapter 2: The Departure
 
 ### Part 1: The Deception at Churchland Square
 
@@ -268,7 +268,7 @@ Sunday, November 12th.
 
 We had survived the first day, but the hardest, most punishing terrain was still waiting for us in the dark.
 
-## Chapter 3: The Appalachian Crossing (Sunday, November 12, 2006)
+## Chapter 3: The Appalachian Crossing
 
 ### Part 1: The Knoxville Layover
 
@@ -438,7 +438,7 @@ I limped out of the bus and dragged our massive suitcases toward the terminal en
 
 We were changing buses again. Another terminal, another set of vending machines, another dark, vibrating cabin waiting to carry us through the night. The ninety-six-hour clock was ticking, and the psychological and physical exhaustion was compounding so fast I didn't know if my chassis would survive the ascent into the Rockies.
 
-## Chapter 4: The Northern Anchor (Monday, November 13, 2006)
+## Chapter 4: The Northern Anchor
 
 ### Part 1: The State Line
 
@@ -632,7 +632,7 @@ Monday was finally over. We had survived another brutal twenty-four-hour cycle, 
 
 We were only halfway to Seattle.
 
-## Chapter 5: The Pasco Lock (Tuesday, November 14, 2006)
+## Chapter 5: The Pasco Lock
 
 ### Part 1: The Idaho Crossing
 
@@ -1206,7 +1206,7 @@ I clung to Jessica in the dark. She was holding me, completely unaware of the ma
 
 The monster was sleeping on the other side of the room, but the gears of my escape were finally turning, and for tonight, my perimeter was secure.
 
-## Chapter 6: The Escape Route (Wednesday, November 15, 2006)
+## Chapter 6: The Escape Route
 
 ### Part 1: The Kent Station Transfer
 
@@ -1864,7 +1864,7 @@ I stared at the red numbers on the clock, silently counting the seconds. I just 
 
 \[Note to the AI: fade to black; RCW 9A.44.050 happens here; Chapter 3 picks up at 4 AM with the aftermath. ABSOLUTE DIRECTIVE: Do not generate images for this scene or the immediate trauma. Safety filters will and should block it.\] 
 
-## Chapter 7: Morning Hell (Thursday, November 16, 2006)
+## Chapter 7: Morning Hell
 
 ### Part 1: Forced Exit
 
@@ -2781,7 +2781,7 @@ For the first time in two years, I didn't have to sleep with one eye open. I did
 
 I closed my eyes, letting the heavy, collective warmth of my pack sink into my exhausted bones, and finally allowed the darkness to take me.
 
-## Chapter 8: Decompression Day (Friday, November 17, 2006)
+## Chapter 8: Decompression Day
 
 ### Part 1: The Liquid Rebellion
 
@@ -3259,7 +3259,7 @@ I didn't have to keep one ear tuned to the hallway. I didn't have to calculate t
 
 It took a while for my racing processor to finally spin down, but wrapped in the heavy, fierce protection of my family, I eventually let the darkness take me.
 
-## Chapter 9: The Southern Route (Saturday, November 18, 2006)
+## Chapter 9: The Southern Route
 
 ### Part 1: The Tukwila Extraction
 

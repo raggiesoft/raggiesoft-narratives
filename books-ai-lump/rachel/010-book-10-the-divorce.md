@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 10: The Divorce
 
-## Chapter 3: The Broken Door (Tuesday, September 4th, 2001)
+## Chapter 3: The Broken Door
 
 ### Part 1: Rachel's Fury
 
@@ -205,7 +205,7 @@ Every time the floorboards settled, or the wind rattled the windowpane, Rachel w
 
 We had survived the explosion, and we were safe behind the push-button lock. But as we lay there, squeezed together on the narrow twin bed, neither of us could sleep. The war wasn't over; we were just waiting for the sun to come up so we could launch our counterattack.
 
-## Chapter 4: The Inevitable Math (Wednesday, September 5th, 2001)
+## Chapter 4: The Inevitable Math
 
 ### Part 1: The Guidance Office
 
@@ -259,7 +259,7 @@ Rachel let out a jagged, suffocating gasp. The warning bell for first period sud
 
 Rachel spun around, grabbed my arm with bruising force, and practically dragged me out of the plastic chair. She didn't say another word to the counselor. She just pulled me out of the office and into the crowded hallway, running entirely on a furious, desperate need to escape the room where our last hope had just died.
 
-## Chapter 5: The Grounded Skies (Tuesday, September 11th, 2001)
+## Chapter 5: The Grounded Skies
 
 ### Part 1: The Eerie Silence
 
@@ -429,7 +429,7 @@ Rachel reached behind her back, blindly finding my hand and lacing her fingers t
 
 I squeezed her hand back, resting my forehead against her shoulder blade. Outside our locked door, the skies were empty, the court order was paused, and our parents were entirely locked out of our universe. The world had stopped spinning, and as we finally closed our eyes, completely exhausted and fully dressed, our nervous systems initiated a total, desperate shutdown.
 
-## Chapter 6: The Compromised Perimeter (Wednesday, September 12th, 2001)
+## Chapter 6: The Compromised Perimeter
 
 ### Part 1: The Broken Routine
 
@@ -539,7 +539,7 @@ Rachel was shaking violently against my side, her fingers digging painfully into
 
 The push-button lock on my bedroom door suddenly felt incredibly fragile. The airspace was the only thing keeping the legal system at bay, and we had no idea when the planes would start flying again. We were completely trapped in a countdown we couldn't see, waiting for the skies to open and tear us apart.
 
-## Chapter 7: The Loophole (Monday, September 17th, 2001)
+## Chapter 7: The Loophole
 
 ### Part 1: The Bleeding Finances
 
@@ -621,7 +621,7 @@ Rachel stared at the phone for a long moment. Then, the adrenaline completely wa
 
 We had successfully defended the perimeter again, using the adult world's rules against them. But the victory was temporary, and the countdown clock to Thursday was already ticking loudly in the back of my mind.
 
-## Chapter 8: The Departure (Thursday, September 20th, 2001)
+## Chapter 8: The Departure
 
 ### Part 1: The Bright Idea
 

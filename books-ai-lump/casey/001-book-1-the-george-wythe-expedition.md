@@ -5,11 +5,13 @@ series: "casey"
 
 # Book 1: The George Wythe Expedition
 
-## Chapter 1: The Northern Regional – Summer 1995
+## Chapter 1: The Northern Regional
 
-### Part 1: Departing NPN – 8:00 AM
+### Part 1: Departing NPN
 
-# Part 1: Departing NPN – 8:00 AM
+**Date:** 1995-07-01 at 08:00 ET
+
+# Part 1: Departing NPN
 
 The humid morning air of Virginia Beach was already clinging to us by the time my father parked the family station wagon at the Newport News (NPN) transit station. It was the summer of 1995, and I was ten years old. My little sister, Casey, was eight, and she was currently vibrating with the uncontainable energy of a child who firmly believed she was about to make a massive, life-altering decision.
 
@@ -37,9 +39,11 @@ I looked at Cassandra. Even at seventeen, she didn't just plan trips; she execut
 
 But for now, the distant, heavy blast of a train horn echoed down the tracks. The ARTS Northeast Regional was pulling into NPN. Cassandra unlocked her brakes, her eyes fixed sharply on the horizon. The great college expedition had officially begun.
 
-### Part 2: The Northern Regional – 8:30 AM
+### Part 2: The Northern Regional
 
-# Part 2: The Northern Regional – 8:30 AM
+**Date:** 1995-07-01 at 08:30 ET
+
+# Part 2: The Northern Regional
 
 The ARTS Northeast Regional train rocked gently as it cleared the limits of Newport News, settling into a smooth, high-speed cadence on the rails heading north. 
 
@@ -73,9 +77,11 @@ Mom let out a soft laugh from the row behind us. "Yes, thank you, Casey. We are 
 
 I looked out the window again, smiling. Casey wasn't just tagging along on her older sister's college tour. In her mind, she was already enrolled.
 
-### Part 3: The Seven Corners Transfer – 12:45 PM
+### Part 3: The Seven Corners Transfer
 
-# Part 3: The Seven Corners Transfer – 12:45 PM
+**Date:** 1995-07-01 at 12:45 ET
+
+# Part 3: The Seven Corners Transfer
 
 The moment the ARTS Northeast Regional pulled into Alexandria Station (ALX), our family’s transition from passengers to a unified logistical unit was immediate.
 
@@ -119,9 +125,11 @@ Casey sighed, clearly annoyed by the bureaucratic red tape. "Fine. But request g
 
 "We booked the accessible suite, Casey," Dad assured her, pulling the heavy glass door open for the family. "I promise, the logistics are secured. Let's just get into the air conditioning."
 
-### Part 4: The Crown Burger Debrief – 6:30 PM
+### Part 4: The Crown Burger Debrief
 
-# Part 4: The Crown Burger Debrief – 6:30 PM
+**Date:** 1995-07-01 at 18:30 ET
+
+# Part 4: The Crown Burger Debrief
 
 Once we unloaded our luggage into the adjoining motel rooms, my parents realized exactly how exhausted they were from the four-leg transit gauntlet. Rather than attempting to navigate a sit-down restaurant, we opted for the immediate, high-caloric efficiency of the Crown Burger located right next door in the same parking lot.
 
@@ -157,11 +165,13 @@ I took another bite of my burger, looking around the plastic tables of the Crown
 
 Cassandra didn't just want to attend college. She was planning to conquer it.
 
-## Chapter 2: The Open House – Summer 1995
+## Chapter 2: The Open House
 
-### Part 1: The Continental Breakfast – 7:30 AM
+### Part 1: The Continental Breakfast
 
-# Part 1: The Continental Breakfast – 7:30 AM
+**Date:** 1995-07-01 at 07:30 ET
+
+# Part 1: The Continental Breakfast
 
 The George Wythe University Student Union was a massive, echoing atrium of brutalist concrete and large glass windows, designed to look impressive on brochures but currently functioning as a highly inefficient echo chamber. 
 
@@ -191,9 +201,11 @@ Cassandra quietly took a bite of her bagel, her eyes fixed on the administrator.
 
 Casey nodded, taking a bite of her muffin. "I have the route memorized. We move on your signal."
 
-### Part 2: The Architecture of the Past – 9:45 AM
+### Part 2: The Architecture of the Past
 
-# Part 2: The Architecture of the Past – 9:45 AM
+**Date:** 1995-07-01 at 09:45 ET
+
+# Part 2: The Architecture of the Past
 
 Despite Cassandra's earlier insistence on bypassing the general campus tour, she quickly realized that the George Wythe University campus layout was highly irregular. Because we lacked the necessary topographic data to navigate the winding footpaths and dense brick facades autonomously, she made the tactical decision to join the massive herd of prospective students for the guided academic walking tour. 
 
@@ -237,9 +249,11 @@ Cassandra kept her polite, pleasant expression firmly in place for the benefit o
 
 "This department is a museum, David," she murmured, her voice so low only Casey and I could hear it. "They just don't realize it yet."
 
-### Part 3: The Dormitory Metric – 1:00 PM
+### Part 3: The Dormitory Metric
 
-# Part 3: The Dormitory Metric – 1:00 PM
+**Date:** 1995-07-01 at 13:00 ET
+
+# Part 3: The Dormitory Metric
 
 We left the oppressive chill of the Computer Science building and made our way back across the academic quad to the Student Services center. At precisely 1300 hours, we were sitting in the small, warmly lit office of the George Wythe University Disability Services coordinator. 
 
@@ -269,9 +283,11 @@ But as Casey eagerly pulled out her tape measure to double-check the desk dimens
 
 Because once Casey and I finished our summer camps at VDU, our family was flying to Seattle. And Cassandra suddenly needed to see exactly what Northwest Pacific University was doing with Project Citadel.
 
-### Part 4: Early Dismissal – 2:15 PM
+### Part 4: Early Dismissal
 
-# Part 4: Early Dismissal – 2:15 PM
+**Date:** 1995-07-01 at 14:15 ET
+
+# Part 4: Early Dismissal
 
 We stepped out of the Student Services center and back into the humid Virginia afternoon. The Open House was technically scheduled to run until five o'clock, with more breakout sessions, a student life panel, and an evening mixer in the dining hall. 
 
@@ -305,9 +321,11 @@ She looked back out the window, watching a Capital Transit bus rumble past the d
 
 "We just have to find a school that's building for the future," she added. "Not the past."
 
-### Part 5: The Evening Routine – 8:00 PM
+### Part 5: The Evening Routine
 
-# Part 5: The Evening Routine – 8:00 PM
+**Date:** 1995-07-01 at 20:00 ET
+
+# Part 5: The Evening Routine
 
 By the time we navigated the CCT bus back to the motel in Vienna, the sun had set, and the oppressive Virginia heat had finally broken into a mild, humid evening. 
 
@@ -347,9 +365,11 @@ A quiet thought sparked in the back of my mind. Our parents weren't going to be 
 
 I didn't know the answer yet. But as I listened to the water running, I realized that I wanted to learn.
 
-### Part 6: Lights Out – 9:30 PM
+### Part 6: Lights Out
 
-# Part 6: Lights Out – 9:30 PM
+**Date:** 1995-07-01 at 21:30 ET
+
+# Part 6: Lights Out
 
 When the bathroom door finally opened, Cassandra was already dressed in her pajamas. Mom helped her wheel across the carpet and execute a smooth pivot transfer into the nearest queen bed. 
 
@@ -391,11 +411,13 @@ I smiled, pulling the comforter up a little higher over her shoulders. The stres
 
 "I know, Case," I whispered. "Go to sleep. We have a lot of animals to see tomorrow."
 
-## Chapter 3: The National Zoo – Summer 1995
+## Chapter 3: The National Zoo
 
-### Part 1: The Connecticut Avenue Bypass – 9:00 AM
+### Part 1: The Connecticut Avenue Bypass
 
-# Part 1: The Connecticut Avenue Bypass – 9:00 AM
+**Date:** 1995-07-01 at 09:00 ET
+
+# Part 1: The Connecticut Avenue Bypass
 
 The next morning was significantly more relaxed. Without a rigid university itinerary demanding our presence at an aggressively air-conditioned student union, we took our time eating the free continental breakfast in the motel lobby before catching the CCT bus back to the Vienna transit center.
  
@@ -435,9 +457,11 @@ Cassandra turned the key, and the scooter hummed to life. She tested the throttl
 
 "Alright," Cassandra smiled, her hands resting comfortably on the handlebars. "The hills are no longer a variable. Which animals are we securing first?"
 
-### Part 2: The Olmsted Walk – 10:30 AM
+### Part 2: The Olmsted Walk
 
-# Part 2: The Olmsted Walk – 10:30 AM
+**Date:** 1995-07-01 at 10:30 ET
+
+# Part 2: The Olmsted Walk
 
 The National Zoo's primary artery, the Olmsted Walk, is a massive, winding paved pathway that slopes aggressively downhill into the Rock Creek valley. By ten-thirty in the morning, the dense humidity of the D.C. summer had already turned the air into a thick, sweltering soup. 
 
@@ -479,9 +503,11 @@ Casey sniffled, wiping her nose with the back of her hand, but a small smile ret
 
 Cassandra smirked, hitting the throttle on her scooter and leading the charge as we began the final descent to the bottom of the hill.
 
-### Part 3: The Pop-Up Storm – 12:15 PM
+### Part 3: The Pop-Up Storm
 
-# Part 3: The Pop-Up Storm – 12:15 PM
+**Date:** 1995-07-01 at 12:15 ET
+
+# Part 3: The Pop-Up Storm
 
 By the time we navigated the final steep grade down to the bottom of the Rock Creek valley, the oppressive midday heat had begun to mutate. The sky, which had been a clear, blistering blue all morning, suddenly turned a bruised, heavy shade of purple. 
 
@@ -521,9 +547,11 @@ I took a massive bite of my hamburger, perfectly content to wait out the storm.
 
 Casey sighed, carefully analyzing a soggy French fry before eating it. "I suppose the caloric intake is necessary. But the moment the precipitation stops, we are deploying to the lion enclosure."
 
-### Part 4: The Wet Weather Metric – 1:30 PM
+### Part 4: The Wet Weather Metric
 
-# Part 4: The Wet Weather Metric – 1:30 PM
+**Date:** 1995-07-01 at 13:30 ET
+
+# Part 4: The Wet Weather Metric
 
 An hour later, the torrential downpour hadn't let up. If anything, the D.C. thunderstorm had dug in, turning the massive glass windows of the Mane Restaurant into a blurry, watery gray sheet. The sky was so dark the cafeteria’s overhead lights had kicked on. 
 
@@ -557,9 +585,11 @@ How did people who relied entirely on heavy power wheelchairs navigate severe we
 
 We sat in the booth for another thirty minutes, watching the rain hammer the pavement, waiting for the weather to finally yield.
 
-### Part 5: The L'Enfant Maze – 2:30 PM
+### Part 5: The L'Enfant Maze
 
-# Part 5: The L'Enfant Maze – 2:30 PM
+**Date:** 1995-07-01 at 14:30 ET
+
+# Part 5: The L'Enfant Maze
 
 When the violent thunderstorm finally collapsed into a manageable, steady drizzle, we initiated the extraction. 
 
@@ -603,9 +633,11 @@ The doors finally opened, depositing us directly onto the street corner at 7th A
 
 We turned the corner, looking down Independence Avenue. Just one block away, the massive, imposing stone facade of the Finch Air and Space Museum dominated the skyline, entirely climate-controlled and waiting for us.
 
-### Part 6: The "Air" Problem – 2:45 PM
+### Part 6: The "Air" Problem
 
-# Part 6: The "Air" Problem – 2:45 PM
+**Date:** 1995-07-01 at 14:45 ET
+
+# Part 6: The "Air" Problem
 
 The moment we passed through the heavy revolving doors of the Finch Air and Space Museum, the brutal D.C. humidity was instantly replaced by a wall of aggressively purified, freezing air-conditioning. 
 
@@ -649,9 +681,11 @@ Casey immediately marched up to the Skylab exhibit, her eyes wide as she began a
 
 I stood in front of the Lunar Module, staring up at the fragile, insect-like landing legs. I didn't care that the museum was filled with airplanes. For the next two hours, I was completely lost in the stars.
 
-### Part 7: Rocket Burger and the Return Vector – 5:00 PM
+### Part 7: Rocket Burger and the Return Vector
 
-# Part 7: Rocket Burger and the Return Vector – 5:00 PM
+**Date:** 1995-07-01 at 17:00 ET
+
+# Part 7: Rocket Burger and the Return Vector
 
 At precisely 5:00 PM, the overhead lights in the Space Hall flickered. A polite but firm announcement echoed over the PA system, informing us that the Finch Air and Space Museum was officially closing for the day. 
 
@@ -687,9 +721,11 @@ By the time the train finally breached the surface and rolled into the median of
 
 We took the elevator down to the bus bays, boarded the CCT bus, and made the short, exhausted ride back to the motel in Fairfax.
 
-### Part 8: The GWU Rivalry and Deep Pressure – 9:00 PM
+### Part 8: The GWU Rivalry and Deep Pressure
 
-# Part 8: The GWU Rivalry and Deep Pressure – 9:00 PM
+**Date:** 1995-07-01 at 21:00 ET
+
+# Part 8: The GWU Rivalry and Deep Pressure
 
 Back at the motel, the exhaustion of the day finally caught up with us. Mom and Dad had opened the heavy adjoining door between our two rooms, allowing the cool air-conditioning and the quiet hum of the television to drift back and forth. 
 
@@ -747,9 +783,9 @@ I loosened my grip on Casey just enough to let Cassandra wedge herself in. The t
 
 ## 
 
-### Part 1: The Union Station Bottleneck – 12:30 PM
+### Part 1: The Union Station Bottleneck
 
-# Part 1: The Union Station Bottleneck – 12:30 PM
+# Part 1: The Union Station Bottleneck
 
 We woke up the next morning feeling the cumulative ache of a three-day, high-intensity transit deployment. We ate a quiet breakfast in the motel lobby, loaded up our luggage, and boarded the CCT bus one last time to make the short trip back to the Vienna surface station. 
 
@@ -789,9 +825,9 @@ The train pulled out of Washington, D.C. at 3:50 PM. For the next four hours, we
 
 By the time the train finally pulled into the Newport News (NPN) station at 8:09 PM, it was completely dark outside. We unloaded our bags and piled exhausted into the trusty family station wagon waiting in the parking lot.
 
-### Part 2: The Monitor-Merrimac Detour – 9:00 PM
+### Part 2: The Monitor-Merrimac Detour
 
-# Part 2: The Monitor-Merrimac Detour – 9:00 PM
+# Part 2: The Monitor-Merrimac Detour
 
 The drive from the Newport News station back to our house in Virginia Beach should have been a relatively straightforward shot down Interstate 64. But as Dad merged onto the highway, the local traffic radio station delivered a crushing logistical update. 
 
@@ -837,9 +873,9 @@ Casey let out a whimper, clutching her ears.
 
 We sat huddled together on my floor in the dark, waiting for the flashing to stop.
 
-### Part 3: The Sibling Anchor – 10:00 PM
+### Part 3: The Sibling Anchor
 
-# Part 3: The Sibling Anchor – 10:00 PM
+# Part 3: The Sibling Anchor
 
 The storm wasn't letting up. If anything, the coastal system was intensifying, dragging heavy sheets of rain across the roof of the house. 
 
@@ -873,9 +909,9 @@ The storm raged outside for another two hours, rattling the windowpanes and hamm
 
 ## 
 
-### Part 1: The Lightning Strike – 8:00 AM
+### Part 1: The Lightning Strike
 
-# Part 1: The Lightning Strike – 8:00 AM
+# Part 1: The Lightning Strike
 
 I woke up coughing. 
 
@@ -927,9 +963,9 @@ I nodded, grabbing Casey's hand. As we walked out of the room, I looked back at 
 
 The Washington scouting mission was officially over, but it felt like a completely different chapter of our lives was just beginning.
 
-### Part 2: The Ecology Camp Logistics – 10:00 AM
+### Part 2: The Ecology Camp Logistics
 
-# Part 2: The Ecology Camp Logistics – 10:00 AM
+# Part 2: The Ecology Camp Logistics
 
 Dad's buttermilk pancakes were legendary in our house, mostly because he cooked them with absolute, clinical precision. He used a digital timer and a laser thermometer on the griddle to ensure a perfectly uniform golden-brown crust on every single one. 
 
@@ -981,9 +1017,9 @@ But looking at the sheer, unyielding determination on Cassandra's face, they kne
 
 ## 
 
-### Part 1: The Junior Cohort – 9:00 AM
+### Part 1: The Junior Cohort
 
-# Part 1: The Junior Cohort – 9:00 AM
+# Part 1: The Junior Cohort
 
 The VDU Coastal Ecology Camp officially commenced on a sweltering Monday morning in late June. 
 
@@ -1031,9 +1067,9 @@ Casey's eyes lit up. The *Hooray for Rays* stingray touch tank was the brand new
 
 I smiled, leaning back against the trunk of the oak tree. The social aspects of camp were exhausting, but as long as we were partnered up, we could endure anything. We had our perfectly structured lunch, we had a clear itinerary for the week, and we had the science to look forward to.
 
-### Part 2: The Ecology Lab – 1:00 PM
+### Part 2: The Ecology Lab
 
-# Part 2: The Ecology Lab – 1:00 PM
+# Part 2: The Ecology Lab
 
 After we finished our meticulously packed lunch under the oak tree, a counselor blew a whistle, signaling the end of free time. The Junior Cohort was herded out of the humid afternoon heat and into one of VDU's sprawling undergraduate science buildings. 
 
@@ -1081,9 +1117,9 @@ The counselor blinked, looking back and forth between us. He had clearly never d
 
 "Agreed," Casey said, seamlessly returning her focus to the notebook. "Now, hand me the *Geukensia demissa*."
 
-### Part 3: The Catalyst – 4:00 PM
+### Part 3: The Catalyst
 
-# Part 3: The Catalyst – 4:00 PM
+# Part 3: The Catalyst
 
 When camp officially concluded for the day, Mom and Cassandra were waiting for us at the edge of the sprawling university quad. 
 
@@ -1141,9 +1177,9 @@ Casey looked at the envelope, then looked up at Cassandra. "Your probability of 
 
 Cassandra smiled. "I know."
 
-### Part 4: The Assistant Manager – 6:00 PM
+### Part 4: The Assistant Manager
 
-# Part 4: The Assistant Manager – 6:00 PM
+# Part 4: The Assistant Manager
 
 The rush hour traffic on Interstate 264 was brutal, turning the drive from Norfolk back to Virginia Beach into a crawling, exhaust-choked slog. Getting off the interstate was even worse. The intersection of Independence Boulevard and Bonney Road was a gridlocked nightmare of idling cars and blaring horns. 
 
@@ -1197,9 +1233,9 @@ Dad reached through the window and squeezed her shoulder. "You've got it. We cle
 
 ## 
 
-### Part 1: The Chesapeake Crossing – 8:30 AM
+### Part 1: The Chesapeake Crossing
 
-# Part 1: The Chesapeake Crossing – 8:30 AM
+# Part 1: The Chesapeake Crossing
 
 By the time Friday morning rolled around, Casey and I had successfully navigated the grueling social gauntlet of the first four days of the VDU Coastal Ecology Camp. We were officially ready to deploy. 
 
@@ -1247,9 +1283,9 @@ The vans turned off the main highway and rumbled down a long, tree-lined access 
 
 Casey and I grabbed our shared gear bag. We had survived the transit, the data was successfully logged, and now it was time to do some real science.
 
-### Part 2: The Squall – 10:30 AM
+### Part 2: The Squall
 
-# Part 2: The Squall – 10:30 AM
+# Part 2: The Squall
 
 The beach at Kiptopeake State Park was a goldmine of coastal data. 
 
@@ -1291,9 +1327,9 @@ We waited under the wooden walkway for another twenty minutes. As quickly as the
 
 Casey slowly lowered her hands from her ears. The storm was over, and thanks to the counselor's quick logistical communication, our operational status was fully secured.
 
-### Part 3: Sample Recovery – 11:00 AM
+### Part 3: Sample Recovery
 
-# Part 3: Sample Recovery – 11:00 AM
+# Part 3: Sample Recovery
 
 We crawled out from beneath the wooden dune crossover, brushing the dry sand off our shorts. The beach looked completely different after the squall. The smooth, flat sand had been heavily disturbed by the driving rain, and the tide had visibly shifted. 
 
@@ -1335,9 +1371,9 @@ Week One of VDU Summer Camp was officially a success.
 
 ## 
 
-### Part 1: The Security Gate – 9:00 AM
+### Part 1: The Security Gate
 
-# Part 1: The Security Gate – 9:00 AM
+# Part 1: The Security Gate
 
 Week Two of the VDU Summer Camp was focused entirely on Atmospheric Dynamics. For the first four days on campus, we had studied the physics of moving air, pressure differentials, and drag coefficients. 
 
@@ -1381,9 +1417,9 @@ My resentment toward atmospheric flight faltered slightly. If this tunnel had be
 
 I looked up. The armed guards were waving our vans through the gate. The massive mechanical arms swung upward, and the convoy rolled forward, officially crossing the threshold onto the most legendary aeronautical research campus in the world.
 
-### Part 2: The Full-Scale Tunnel – 10:00 AM
+### Part 2: The Full-Scale Tunnel
 
-# Part 2: The Full-Scale Tunnel – 10:00 AM
+# Part 2: The Full-Scale Tunnel
 
 The VDU vans parked outside a massive, hangar-like building with a curved roof. From the outside, it didn't look like much, but the second we stepped through the heavy steel doors, the sheer scale of the engineering took my breath away. 
 
@@ -1425,9 +1461,9 @@ The counselor just sighed, giving the stunned grad student a helpless, apologeti
 
 ## 
 
-### Part 1: The Glass Elevator – 9:30 AM
+### Part 1: The Glass Elevator
 
-# Part 1: The Glass Elevator – 9:30 AM
+# Part 1: The Glass Elevator
 
 The massive glass-and-steel Dominion Air & Space Center in Hampton had only opened its doors three years earlier in 1992, which meant that by the summer of 1995, it was still a brand-new, state-of-the-art facility. 
 
@@ -1487,9 +1523,9 @@ We turned around. Mom and Cassandra were walking toward us from the ticketing ar
 
 "We are proceeding directly to the Apollo module," I said, already walking toward the darkened room.
 
-### Part 2: Apollo and the Cafe – 10:30 AM
+### Part 2: Apollo and the Cafe
 
-# Part 2: Apollo and the Cafe – 10:30 AM
+# Part 2: Apollo and the Cafe
 
 The space gallery was exactly the kind of environment my brain craved. It was dark, quiet, and completely devoid of the chaotic energy of the main atrium. 
 
@@ -1527,9 +1563,9 @@ Casey slowly lowered her fry. "Sensory input will be maximized. We will need to 
 
 We quickly finished our lunch, ensuring no food or drink crossed the strict perimeter of the cafe, and walked back out into the atrium to rejoin the rest of the Junior Cohort. It was time to leave the Earth behind.
 
-### Part 3: NovaScreen and the Gift Shop – 1:00 PM
+### Part 3: NovaScreen and the Gift Shop
 
-# Part 3: NovaScreen and the Gift Shop – 1:00 PM
+# Part 3: NovaScreen and the Gift Shop
 
 The logistics of a massive, large-format dome theater were unique. While the rest of the VDU summer campers funneled through the ground-floor entrance to climb the steep stadium stairs, our family bypassed the crowd entirely. 
 
@@ -1573,9 +1609,9 @@ We had successfully navigated the airplanes, documented the Apollo module, and e
 
 ## 
 
-### Part 1: The Soft Opening – 9:00 AM
+### Part 1: The Soft Opening
 
-# Part 1: The Soft Opening – 9:00 AM
+# Part 1: The Soft Opening
 
 Week Four was the grand finale of the VDU Summer Camp. The curriculum was Marine Biology, which meant our final Friday deployment was a trip to the Dominion Marine Science Museum right in our own backyard in Virginia Beach. 
 
@@ -1615,9 +1651,9 @@ She wasn't overloaded; she was completely, blissfully grounded. The intense, fre
 
 I stepped up to the glass beside her, keeping my hands dry, but smiling as I watched her operate. The math was perfect, the science was sound, and the deployment was a complete success.
 
-### Part 2: The Catalyst Challenge – 3:00 PM
+### Part 2: The Catalyst Challenge
 
-# Part 2: The Catalyst Challenge – 3:00 PM
+# Part 2: The Catalyst Challenge
 
 The VDU summer camp officially concluded in the parking lot of the student union in Norfolk. Dad was waiting for us by the family minivan, having taken the afternoon off from Rocket Burger to pick us up on our final day. 
 
@@ -1653,9 +1689,9 @@ She leaned back in her chair, crossing her arms.
 
 "They're going to realize exactly who they're dealing with."
 
-### Part 3: The Submission – 4:00 PM
+### Part 3: The Submission
 
-# Part 3: The Submission – 4:00 PM
+# Part 3: The Submission
 
 Cassandra tapped the final semicolon into her code editor and cracked her knuckles. 
 
@@ -1699,9 +1735,9 @@ The future was out there, waiting for us. All we had to do was calculate the tra
 
 ## 
 
-### Part 1: The Departure – 6:00 AM
+### Part 1: The Departure
 
-# Part 1: The Departure – 6:00 AM
+# Part 1: The Departure
 
 Only a few days after the VDU summer camp officially ended, our entire operational schedule was abruptly rewritten. Mom had been planning this logistical maneuver for months, but to Casey and me, it felt like an instantaneous warp across the continent. 
 
@@ -1747,9 +1783,9 @@ Cassandra's code was already out there, waiting in the servers of the Quantum Co
 
 Now, we were flying directly into their territory.
 
-### Part 2: The Denver Layover – 11:30 AM (Mountain Time)
+### Part 2: The Denver Layover
 
-# Part 2: The Denver Layover – 11:30 AM (Mountain Time)
+# Part 2: The Denver Layover
 
 The flight from Norfolk to Denver was remarkably smooth. I spent the majority of the four-hour flight analyzing the aerodynamic flex of the airliner's massive wings out the window, while Casey meticulously logged our altitude and heading changes in her notebook. 
 
@@ -1791,9 +1827,9 @@ Cassandra looked out the window, her jaw set in a tight, determined line. The co
 
 "Alright," Mom said, standing up and grabbing the handles of Cassandra's wheelchair. "Let's go to Seattle."
 
-### Part 3: The Ride Free Area – 2:30 PM (Pacific Time)
+### Part 3: The Ride Free Area
 
-# Part 3: The Ride Free Area – 2:30 PM (Pacific Time)
+# Part 3: The Ride Free Area
 
 The heavy cloud cover over the Pacific Northwest was a stark contrast to the blazing August sun we had left behind in Virginia. When we touched down at SEA and retrieved our luggage from baggage claim, the air outside the terminal was cool, damp, and smelled heavily of pine needles and jet fuel. 
 
@@ -1843,9 +1879,9 @@ We were standing on The Ave. The air was crisp, the streets were lined with coff
 
 Cassandra took a deep breath, gripping the handrims of her wheelchair. She was officially in Quantum Corporation's backyard.
 
-### Part 4: The Topography – 4:00 PM (Pacific Time)
+### Part 4: The Topography
 
-# Part 4: The Topography – 4:00 PM (Pacific Time)
+# Part 4: The Topography
 
 We checked into our hotel on University Way Northeast, dropped our heavy backpacks in the room, and immediately set out to establish a perimeter around the Northwest Pacific University campus. 
 
@@ -1881,9 +1917,9 @@ Cassandra sat in her chair, staring up at the towering, gothic library at the ab
 
 "Quantum Corporation is headquartered right across the lake," Cassandra said, unlocking her brakes and turning her chair toward the nearest academic building to test Casey's elevator theory. "I am not letting a hill stop me from taking their money."
 
-### Part 5: The Hotel Logistics – 8:00 PM (Pacific Time)
+### Part 5: The Hotel Logistics
 
-# Part 5: The Hotel Logistics – 8:00 PM (Pacific Time)
+# Part 5: The Hotel Logistics
 
 By the time we retreated to the hotel on University Way, we were all physically destroyed. The topography of the NPU campus had drained our collective physical battery down to zero. 
 
@@ -1929,9 +1965,9 @@ Tomorrow, we were going to the NPU Open House.
 
 ## 
 
-### Part 1: The Engineering Quad – 9:00 AM (Pacific Time)
+### Part 1: The Engineering Quad
 
-# Part 1: The Engineering Quad – 9:00 AM (Pacific Time)
+# Part 1: The Engineering Quad
 
 The next morning, the heavy Seattle cloud cover finally broke, bathing the Northwest Pacific University campus in brilliant, crisp sunlight. 
 
@@ -1969,9 +2005,9 @@ Cassandra looked back at Mom and Dad. Her breathing was already starting to acce
 
 "No," Cassandra said, locking her brakes and taking a deep, shuddering breath to manually force her heart rate down. "I uploaded my code. I am here. We execute the mission."
 
-### Part 2: The Quantum Pavilion – 9:30 AM (Pacific Time)
+### Part 2: The Quantum Pavilion
 
-# Part 2: The Quantum Pavilion – 9:30 AM (Pacific Time)
+# Part 2: The Quantum Pavilion
 
 Cassandra pushed her wheelchair across the manicured grass of the engineering quad, moving with the sheer, singular focus of a heat-seeking missile. 
 
@@ -2031,9 +2067,9 @@ But he had just given her absolute, undeniable validation.
 
 "No," Ballantine grinned, standing back up and looking down at her like he was looking at the future of his entire empire. "Thank *you*, Cassandra."
 
-### Part 3: The Quantaneers – 10:00 AM (Pacific Time)
+### Part 3: The Quantaneers
 
-# Part 3: The Quantaneers – 10:00 AM (Pacific Time)
+# Part 3: The Quantaneers
 
 As Steve Ballantine marched off to greet another group of university faculty, Cassandra turned her wheelchair toward the main Quantum demonstration booth. 
 
@@ -2075,9 +2111,9 @@ I stood next to Mom, silently observing the interaction. Cassandra wasn't shrink
 
 "Maybe sooner," Cassandra replied smoothly, unlocking her brakes and turning her chair back toward the open quad.
 
-### Part 4: The Internal Elevators – 11:00 AM (Pacific Time)
+### Part 4: The Internal Elevators
 
-# Part 4: The Internal Elevators – 11:00 AM (Pacific Time)
+# Part 4: The Internal Elevators
 
 With the Quantum Corporation encounter successfully resolved, we merged back into the general population of prospective students for the official NPU campus tour. 
 
@@ -2119,9 +2155,9 @@ And she had Steve Ballantine's absolute validation.
 
 She just had to win the Catalyst Initiative.
 
-### Part 5: The Two Paths – 1:00 PM (Pacific Time)
+### Part 5: The Two Paths
 
-# Part 5: The Two Paths – 1:00 PM (Pacific Time)
+# Part 5: The Two Paths
 
 The official open house concluded with a massive, complimentary lunch in the primary NPU dining hall. The room was a sprawling, cavernous space filled with long wooden tables, echoing with the chaotic chatter of hundreds of prospective students and their parents. 
 
@@ -2145,9 +2181,9 @@ I looked at Cassandra. She had built a 45-kilobyte, real-time 3D rendering engin
 
 She had done everything right. Now, all we could do was fly back to Virginia and wait for the results.
 
-### Part 6: The Logistics of Care – 3:00 PM (Pacific Time)
+### Part 6: The Logistics of Care
 
-# Part 6: The Logistics of Care – 3:00 PM (Pacific Time)
+# Part 6: The Logistics of Care
 
 By mid-afternoon, we had retreated to the hotel on University Way. The high-stakes, operational phase of the trip was officially over, and Dad had declared that the next three days were going to be a pure family vacation. If Cassandra was potentially moving to Seattle next year, she needed to understand the region beyond just the brick pathways of the university quad. 
 
@@ -2181,9 +2217,9 @@ Cassandra turned her head on the pillow, looking at me with a tired, genuine smi
 
 Mom laughed softly, finishing the stretching routine and pulling the blankets up over Cassandra's legs. "We appreciate the contingency plan, kiddo. But for now, your only job is to help us figure out where we're going for dinner tonight."
 
-### Part 7: The Vacation Protocol – 7:00 PM (Pacific Time)
+### Part 7: The Vacation Protocol
 
-# Part 7: The Vacation Protocol – 7:00 PM (Pacific Time)
+# Part 7: The Vacation Protocol
 
 Dad and Casey returned to the hotel room a few minutes later, balancing a cardboard tray of massive iced coffees. Casey immediately moved to her side of our shared bed, carefully aligning her drink with the edge of the nightstand. 
 
@@ -2219,9 +2255,9 @@ The Emerald City was ready for her. We just had to wait for the phone to ring.
 
 ## 
 
-### Part 1: The Century Spire – 10:00 AM (Pacific Time)
+### Part 1: The Century Spire
 
-# Part 1: Altitude and Artifacts – 10:00 AM (Pacific Time)
+# Part 1: Altitude and Artifacts
 
 The next morning, we executed Casey's tourist itinerary precisely as written. We navigated the multi-level labyrinth of the Pioneer Public Market, using the hidden service elevators behind the fishmongers to bypass the stairs. Then, we boarded the downtown monorail, riding the elevated track straight to the base of the Century Spire. 
 
@@ -2259,9 +2295,9 @@ It was an absolute sensory haven. We didn't have to navigate steep hills, we did
 
 For the first time all week, we just got to be geeks.
 
-### Part 2: The Planetarium – 12:00 PM (Pacific Time)
+### Part 2: The Planetarium
 
-# Part 2: The Planetarium – 12:00 PM (Pacific Time)
+# Part 2: The Planetarium
 
 By noon, our family had completely recovered our equilibrium. We migrated from the interactive physics wing of the Cascadia Science Center and headed straight for the massive, iconic white dome of the planetarium. 
 
@@ -2291,9 +2327,9 @@ We sat in the dark for forty-five minutes. When the lights finally came back up 
 
 "Alright," Dad said, standing up and stretching his legs. "We have conquered the cosmos. Who is ready to conquer lunch?"
 
-### Part 3: The Emperor of Redmond – 2:00 PM (Pacific Time)
+### Part 3: The Emperor of Redmond
 
-# Part 3: The Emperor of Redmond – 2:00 PM (Pacific Time)
+# Part 3: The Emperor of Redmond
 
 After a quick lunch at the Seattle Center armory, Cassandra called a logistical audible. 
 
@@ -2347,9 +2383,9 @@ Cassandra's jaw practically unhinged. "Yes. Absolutely, yes."
 
 The Emperor of Redmond smiled, clasped his hands behind his back, and began walking us through the museum, personally guiding a high school senior through the history of computing.
 
-### Part 4: The Zenith Motherboard – 2:15 PM (Pacific Time)
+### Part 4: The Zenith Motherboard
 
-# Part 4: The Zenith Motherboard – 2:15 PM (Pacific Time)
+# Part 4: The Zenith Motherboard
 
 "You have to understand the operational context of 1975," William Keswick said, walking backward down the museum aisle with the casual ease of a man who owned the entire building. "Arthur and I didn't actually own a Zenith 8800. They were incredibly expensive, and we were broke college kids. So, we wrote the entire Q-Code interpreter using an emulator on a massive university mainframe."
 
@@ -2387,9 +2423,9 @@ He didn't say anything else about her code, or the university, or why Steve Ball
 
 "Absolutely," Cassandra replied, wheeling forward.
 
-### Part 5: The Five-Megabyte Monolith – 2:30 PM (Pacific Time)
+### Part 5: The Five-Megabyte Monolith
 
-# Part 5: The Five-Megabyte Monolith – 2:30 PM (Pacific Time)
+# Part 5: The Five-Megabyte Monolith
 
 William Keswick led us past the Zenith 8800 and toward the back of the gallery. The entire rear wall of the museum was dominated by a massive glass enclosure holding an industrial machine the size of two large refrigerators. 
 
@@ -2431,9 +2467,9 @@ Dad let out a long, slow breath. "Did that actually just happen?"
 
 "I don't care about the statistics," Cassandra smiled, looking back at the massive five-megabyte monolith. "I just met William Keswick."
 
-### Part 6: Lake Washington – 5:00 PM (Pacific Time)
+### Part 6: Lake Washington
 
-# Part 6: Westbound on the 520 – 5:00 PM (Pacific Time)
+# Part 6: Westbound on the 520
 
 By the time we boarded the westbound TAPS Route 254 to head back to Seattle, the reality of what had just happened was finally settling in. 
 
@@ -2461,9 +2497,9 @@ Thirty minutes later, we were sitting in a crowded waterfront restaurant near th
 
 After dinner, we boarded one final northbound bus back to the University District, navigating the crowded sidewalks of The Ave until we finally reached our hotel. It had been an incredibly long, exhausting, sensory-overwhelming day.
 
-### Part 7: The Privacy Protocol – 8:00 PM (Pacific Time)
+### Part 7: The Privacy Protocol
 
-# Part 7: The Privacy Protocol – 8:00 PM (Pacific Time)
+# Part 7: The Privacy Protocol
 
 By the time we unlocked the door to our hotel room in the University District, everyone's adrenaline reserves had completely bottomed out. Dad immediately collapsed onto the chair by the window. Casey dropped her backpack onto the floor and laid face-down on the far edge of the kids' bed. 
 
@@ -2505,9 +2541,9 @@ It was, objectively, the greatest Thursday of my entire life.
 
 ## 
 
-### Part 2: The Underwater Dome – 9:30 AM (Pacific Time)
+### Part 2: The Underwater Dome
 
-# Part 2: The Underwater Dome – 9:30 AM (Pacific Time)
+# Part 2: The Underwater Dome
 
 After obliterating our breakfast pastries, we navigated the wooden planks of Pier 59 to the entrance of the Puget Sound Aquarium. Because it was early on a Friday morning, we managed to beat the massive influx of summer tourists. 
 
@@ -2539,9 +2575,9 @@ I looked back at Cassandra. She had wheeled herself into the absolute center of 
 
 For the next forty-five minutes, we didn't look at schedules, we didn't calculate logistics, and we didn't talk about college. We just sat in the cool, silent blue of the Underwater Dome, watching the world float by.
 
-### Part 3: The Gift Shop – 10:45 AM (Pacific Time)
+### Part 3: The Gift Shop
 
-# Part 3: The Gift Shop – 10:45 AM (Pacific Time)
+# Part 3: The Gift Shop
 
 Like all major tourist attractions, the Puget Sound Aquarium aggressively funneled all exiting foot traffic directly through the massive, brightly lit gift shop. 
 
@@ -2573,9 +2609,9 @@ With our carefully curated artifacts secured and paid for, we exited the gift sh
 
 Casey pulled out her notebook, shielding her eyes from the glare. "According to the itinerary, our next stop is located inland, in Pioneer Square. We are heading to the Klondike Gold Rush National Historical Park."
 
-### Part 4: The Prospector's Registry – 11:30 AM (Pacific Time)
+### Part 4: The Prospector's Registry
 
-# Part 4: The Prospector's Registry – 11:30 AM (Pacific Time)
+# Part 4: The Prospector's Registry
 
 We took a short bus ride south through downtown, transferring to Pioneer Square. Nestled into the historic brick architecture of the neighborhood was our next stop: the Seattle unit of the Klondike Gold Rush National Historical Park. 
 
@@ -2611,9 +2647,9 @@ We all laughed, completely dismissing the entry as a fun historical coincidence.
 
 He looked at me, a massive smile spreading across his face. "Who is ready to go see some airplanes?"
 
-### Part 5: TAPS Route 174 – 12:15 PM (Pacific Time)
+### Part 5: TAPS Route 174
 
-# Part 5: TAPS Route 174 – 12:15 PM (Pacific Time)
+# Part 5: TAPS Route 174
 
 To get to the Pacific Aerospace Museum, we had to travel several miles south of downtown Seattle to King County International Airport, historically known as Boeing Field. 
 
@@ -2651,9 +2687,9 @@ Rising up against the gray sky, sitting directly on the edge of the King County 
 
 "Finally," Cassandra breathed, dropping the glass orb back into her bag and unlocking her brakes. "Get me off this tin can."
 
-### Part 6: The Great Gallery – 1:00 PM (Pacific Time)
+### Part 6: The Great Gallery
 
-# Part 6: The Great Gallery – 1:00 PM (Pacific Time)
+# Part 6: The Great Gallery
 
 If there is one thing Seattle understood better than coffee and rain, it was aviation. 
 
@@ -2697,9 +2733,9 @@ For the next two hours, we explored every inch of the museum. Dad took us outsid
 
 By the time we regrouped in the lobby at three o'clock, we were completely exhausted, entirely out of calories, and ready to head back to the hotel.
 
-### Part 7: The Extraction – 4:30 PM (Pacific Time)
+### Part 7: The Extraction
 
-# Part 7: The Extraction – 4:30 PM (Pacific Time)
+# Part 7: The Extraction
 
 By the time we walked out of the Pacific Aerospace Museum, our collective energy reserves were completely depleted. 
 
@@ -2737,9 +2773,9 @@ Casey was right. It had been a highly successful operation.
 
 ## 
 
-### Part 1: The 174 Southbound – 4:30 AM (Pacific Time)
+### Part 1: The 174 Southbound
 
-# Part 1: The 174 Southbound – 4:30 AM (Pacific Time)
+# Part 1: The 174 Southbound
 
 My alarm went off at 3:30 in the morning. 
 
@@ -2771,9 +2807,9 @@ The driver locked her wheelchair into the securement zone while Mom, Casey, and 
 
 "If I survive this trip," Cassandra muttered, pulling her hood up over her head and leaning against the cold glass window, "I am never leaving the East Coast again."
 
-### Part 2: The Gateway Counter – 6:00 AM (Pacific Time)
+### Part 2: The Gateway Counter
 
-# Part 2: The Gateway Counter – 6:00 AM (Pacific Time)
+# Part 2: The Gateway Counter
 
 The Route 174 finally deposited us at the curbside drop-off of Seattle-Tacoma International Airport just as the sun began to breach the horizon, painting the thick Pacific Northwest clouds in brilliant streaks of orange and purple. 
 
@@ -2803,9 +2839,9 @@ Just like that, we were standing in the main concourse of the airport, completel
 
 "Alright," Dad smiled, pointing down the concourse toward our gate. "Who wants an outrageously overpriced airport bagel before we board?"
 
-### Part 3: The Chicago Layover – 2:00 PM (Central Time)
+### Part 3: The Chicago Layover
 
-# Part 3: The Chicago Layover – 2:00 PM (Central Time)
+# Part 3: The Chicago Layover
 
 The four-hour flight from Seattle to Chicago was completely uneventful. We were so exhausted from the grueling pace of the vacation that the moment the Gateway Airlines Boeing 737 reached cruising altitude, all three of us fell asleep. 
 
@@ -2843,9 +2879,9 @@ We boarded our final Gateway Airlines flight, settling into our seats as the sun
 
 ## 
 
-### Part 1: The Call – April 21st, 1996
+### Part 1: The Call
 
-# Part 1: The Call – April 21, 1996 (4:15 PM Eastern Time)
+# Part 1: The Call
 
 The heavy black box had arrived via overnight courier while we were at school. 
 
@@ -2895,9 +2931,9 @@ Mom immediately wrapped her arms around Cassandra's shoulders, crying just as ha
 
 "I'll see you in September, Cassandra," Keswick said, a smile evident in his voice. "Welcome to Quantum."
 
-### Part 2: The Celebration – 7:00 PM (Eastern Time)
+### Part 2: The Celebration
 
-# Part 2: The Celebration – 7:00 PM (Eastern Time)
+# Part 2: The Celebration
 
 By six o'clock, our small suburban house was completely packed. 
 
@@ -2947,9 +2983,9 @@ But looking at her now, laughing in the center of the kitchen with her official 
 
 Cassandra Vance hadn't just survived the friction. She had used it to launch herself into the stratosphere.
 
-### Part 3: The Sleepover – 11:30 PM (Eastern Time)
+### Part 3: The Sleepover
 
-# Part 3: The Sleepover – 11:30 PM (Eastern Time)
+# Part 3: The Sleepover
 
 By ten o'clock, the celebratory energy had finally burned itself out. 
 
@@ -2997,9 +3033,9 @@ The physical hardware was relocating, but the connections were permanent.
 
 ## 
 
-### Part 1: Siren Roasters – 8:00 AM (Pacific Time)
+### Part 1: Siren Roasters
 
-# Part 1: Siren Roasters – 8:00 AM (Pacific Time)
+# Part 1: Siren Roasters
 
 Friday morning hit me like a physical blow. When my alarm went off at seven o'clock, my legs were entirely stiff, protesting the massive amount of walking I had done the day before. 
 

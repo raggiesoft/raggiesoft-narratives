@@ -5,7 +5,7 @@ series: "The Rachel Narrative"
 
 # Book 5: High School
 
-## Chapter 1: Marching Band (Monday, August 9th, 1999)
+## Chapter 1: Marching Band
 
 ### Part 1: Jessica’s Wake Up Call
 
@@ -51,11 +51,11 @@ Jessica came back over to us and, along with one of the assistant instructors, s
 
 I was not prepared for how loud the room would get when all the instruments were being warmed up, but Jessica and Kenny pressed us on, and I tried my best to keep up. I quickly got bored, but I did not want to let my sister down on her Senior year and final season of Marching Band.
 
-## Chapter 2: The Concrete Walkway (November 1999)
+## Chapter 2: The Concrete Walkway
 
 ### Part 1: Black Friday
 
-**Date:** 1999-11 at 16:15 ET
+**Date:** 1999-11-01 at 16:15 ET
 
 The day after Thanksgiving was an unshakeable routine. Dad always spent Black Friday hanging the holiday lights. By late afternoon, the chilly Virginia autumn air had settled in, and the fading daylight made the Delaney Street house look even more distinctly 1990s—its original bright orange wooden siding contrasting sharply with the dark brown paint of the garage door.
 
@@ -101,7 +101,7 @@ It wasn't long before they had her strapped onto a backboard, loaded onto a stre
 
 ### Part 2: Tidewater General
 
-**Date:** 1999-11 at 17:15 ET
+**Date:** 1999-11-01 at 17:15 ET
 
 The ride to Tidewater General Hospital was a silent, agonizing blur of neon streetlights and early winter darkness.
 
@@ -151,7 +151,7 @@ Standing in that terrifying hospital waiting room, I locked onto that timeline l
 
 ### Part 3: The Trauma Bay
 
-**Date:** 1999-11 at 19:30 ET
+**Date:** 1999-11-01 at 19:30 ET
 
 The Trauma Bay at Tidewater General was a sensory assault. The air was thick with the sharp, chemical sting of iodine and clinical bleach, and the acoustic space was dominated by the relentless, chaotic beeping of heart monitors and the rapid, overlapping voices of scrub nurses.
 
@@ -219,7 +219,7 @@ Jessica stared at him for a long moment. The heavy painkillers were finally pull
 
 ### Part 4: The Empty House
 
-**Date:** 1999-11 at 20:00 ET
+**Date:** 1999-11-01 at 20:00 ET
 
 By 8:00 PM, the sterile, fluorescent reality of Tidewater General Hospital had completely drained our batteries. As much as Rachel and I wanted to anchor ourselves to Jessica's bedside, the strict Trauma ICU protocols and our sheer physical exhaustion forced us to retreat. Mom kissed our foreheads, promising to call if anything changed, and stayed behind to hold the line at the hospital.
 
@@ -263,7 +263,7 @@ She buried her face into my shoulder, holding onto my t-shirt with an iron grip.
 
 The house was fractured, and our older sister was miles away in a hospital bed with shattered bones. But as we curled up together in the dark, perfectly anchored inside our shared personal bubble, we held the perimeter exactly the way Jessica had ordered us to.
 
-## Chapter 3: The Holding Pattern (Saturday, November 27th, 1999)
+## Chapter 3: The Holding Pattern
 
 ### Part 1: The Daytime Warden
 
@@ -403,7 +403,7 @@ She was drowning in the fog of the hospital, entirely stripped of her physical i
 
 She opened her eyes, forced her hands back onto the plastic keyboard, and continued to type. She couldn't write the code, but she was going to use every single ounce of conscious energy she possessed to lay the foundation for her empire, one painful, exhausted keystroke at a time.
 
-## Chapter 4: Christmas Eve (Friday, December 24, 1999)
+## Chapter 4: Christmas Eve
 
 ### Part 1: The Accessibility Calculation
 
@@ -871,7 +871,7 @@ I was the last guard on the wall. I stared hard at the brick fireplace, my eyeli
 
 But the warmth of the quilts, the hypnotic glow of the tree lights, and the absolute, unyielding safety of my sisters flanking me were too much. My processor finally surrendered, and I slipped into the dark, leaving the perimeter completely undefended for the magic to happen.
 
-## Chapter 5: The Christmas Anomaly (Saturday, December 25th, 1999)
+## Chapter 5: The Christmas Anomaly
 
 ### Part 1: The Phantom Drop
 
@@ -1653,7 +1653,7 @@ The acoustic volume of Grandma Loretta’s house was gone. The chaotic geometry 
 
 To a standard-hardware relative, it might have sounded like a distraction keeping us awake. But to the Pack, it was the ultimate lullaby. It was the sound of the vanguard standing watch. Rachel and I closed our eyes, drifting to sleep to the rhythmic, comforting noise of our older sister holding the absolute perimeter.
 
-## Chapter 6: The Catalyst Initiative (Sunday, December 26th, 1999)
+## Chapter 6: The Catalyst Initiative
 
 ### Part 1: The Bare Metal
 
