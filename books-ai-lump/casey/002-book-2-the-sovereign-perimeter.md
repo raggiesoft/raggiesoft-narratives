@@ -1047,8 +1047,11 @@ Normally, this is where Cassandra’s corporate diplomacy would engage. But as C
 
 Kristine paused, her hands resting on the counter. She blinked, taken aback by the sheer, unvarnished authority. "Excuse me? It's my house, Cassandra. I should be able to—"
 
-"I do not care whose name is on the lease," Cassandra interrupted, her tone sharpening into a blade. "My sister is seventeen years old. You are parading around without clothes on in front of a minor. It is not just wildly inappropriate; it is entirely unacceptable. You will put your clothes on right now."
+"I do not care whose name is on the lease," Cassandra interrupted, her tone sharpening into a blade. "My sister is seventeen years old. You are parading around without clothes on in front of a minor. It is not just wildly inappropriate; it is entirely unacceptable." 
 
+Cassandra shook her head in sheer disbelief. "I can only imagine the absolute tactical meltdown Liz and the Delaney women would have if they were here to see this."
+
+"Put your clothes on right now," she finished, leaving absolutely zero room for negotiation. 
 The kitchen descended into a radioactive silence. Kristine's face flushed a deep, furious red. She had expected shock or embarrassment; she hadn't calculated being dressed down like a subordinate who had just committed a massive compliance violation.
 
 Kristine slammed the roasting pan onto the counter, marching back down the hallway to her bedroom and returning a moment later with her heavy robe tied aggressively around her waist.
@@ -1077,7 +1080,7 @@ Kristine realized with sudden, catastrophic clarity that her power play had just
 
 "You can't take him!" Kristine cried, glaring down at Cassandra. "He lives here! He's my boyfriend!"
 
-"He is my brother," Cassandra fired back, her dark eyes flashing with a terrifying, protective fury. "And you have spent the last twenty-four hours trying to isolate him from his family and completely disregard our basic boundaries. We are going to a hotel right now."
+"He is my brother," Cassandra fired back, her dark eyes flashing with a terrifying, protective fury. "And you have spent the last twenty-four hours trying to isolate him from his family and completely disregard our basic boundaries. But here is the truth you are terrified of: his pack loves him. Unconditionally. And he is going to be with his pack."
 
 Cassandra wheeled herself backward toward the front door, keeping herself between Kristine and us. She looked at Kristine, delivering the final, fatal logistical blow.
 
@@ -1131,7 +1134,7 @@ A pair of headlights swept over us as a yellow taxi pulled up to the curb, the e
 
 I grabbed my nylon backpack, guiding Casey toward the rear door. As soon as I reached for the handle, Kristine lunged forward in a final, desperate panic. She grabbed the frame of the open door, trying to force her way into the backseat with us.
 
-"I'm coming with you!" Kristine cried, trying to wedge her shoulder past mine. "We can go to the hotel together, just the two of us, David!"
+"I'm coming with you!" Kristine cried, trying to wedge her shoulder past mine. "We can go back to Virginia Beach together, just the two of us, David!"
 
 Cassandra reached out and slammed her hand firmly against the door frame, physically blocking Kristine from entering the vehicle. She looked directly at the driver in the front seat.
 
@@ -1155,23 +1158,29 @@ I sat in the middle of the backseat, sandwiched safely next to Casey, who immedi
 
 **Date:** 2004-11-25 at 15:15 ET
 
-The cab ride to the hotel in Virginia Beach was completely silent. Cassandra had maintained a strict, impenetrable operational security for the entire twenty-minute drive. She didn't say a single word about the kitchen, or the sidewalk, or Kristine. She just sat in the front seat, staring straight ahead, waiting until we were safely behind closed doors. When the taxi finally parked, she handed the driver his fare along with a massive, generous cash tip for his complete discretion.
+The cab ride back to Virginia Beach was completely silent. Cassandra had maintained a strict, impenetrable operational security for the entire forty-minute drive. She didn't say a single word about the kitchen, or the sidewalk, or Kristine. She just sat in the front seat, staring straight ahead, waiting until we were safely behind closed doors. When the taxi finally pulled into my parents' driveway, she handed the driver his fare along with a massive, generous cash tip for his complete discretion.
 
-We hauled our bags up to the hotel room. The second the heavy door clicked shut and the deadbolt slid into place, the suffocating, atmospheric pressure of the last twenty-four hours vanished.
+We hauled our bags up to the front door. The second I turned the key and the heavy door clicked open, the suffocating, atmospheric pressure of the last twenty-four hours vanished. 
 
-Casey immediately dropped her bag and sat on the edge of the queen bed, pulling her knees to her chest. She was shaking, completely terrified by the unpredictable, hostile environment we had just escaped.
+The house was packed. 
 
-"I just wanted a nice Thanksgiving dinner," Casey sniffled, wiping her eyes with the back of her sleeve. "I'm not mad at you, David, I just... I wanted turkey and stuffing, and for us to all be together."
+Mom and Dad were standing in the entryway, their faces tight with concern, having clearly been briefed by Cassandra on the phone while we were waiting for the cab. But they weren't alone. Standing right behind them in the living room were Meredith, Morgan, Kate, and David Delaney. 
 
-"I know, Case. I'm so sorry," I whispered, sitting down next to her and pulling her against my side. She instantly buried her face into my shoulder, clinging to me for deep-pressure grounding.
+"David!" Meredith rushed forward, throwing her arms around my neck and pulling me into a crushing, desperate hug. 
 
-Cassandra wheeled her travel chair over to the small table by the window, engaging the brakes. She took a deep breath, and the polite, diplomatic mask completely dissolved.
+"I'm okay," I whispered, burying my face in her shoulder as the adrenaline finally started to crash. "I'm okay."
 
-She looked at me, her dark eyes filled with a profound, aching empathy.
+Meredith pulled back, her eyes scanning my face for injuries before she stepped aside to let the rest of the pack in. Morgan wrapped her arms tightly around my waist, Kate hugged me from the side, and David Delaney gripped my shoulder firmly, his expression grim but fiercely supportive. The physical boundaries were non-existent, and the sheer volume of unconditional love radiating from the pack was completely overwhelming. They had all dropped their Thanksgiving plans the exact second they heard Kristine had escalated. 
+
+Casey dropped her bag in the hallway and immediately burst into tears. "I just wanted a nice Thanksgiving dinner," she sniffled, wiping her eyes with the back of her sleeve. "I'm not mad at you, David, I just... I wanted turkey and stuffing, and for us to all be together."
+
+"I know, Case. I'm so sorry," I whispered, pulling her into the center of the massive group hug. 
+
+Cassandra wheeled her travel chair into the living room, engaging the brakes. She took a deep breath, and the polite, diplomatic mask completely dissolved. She looked at me, her dark eyes filled with a profound, aching empathy. 
 
 "I am not mad at you, David," Cassandra said immediately, recognizing the crushing guilt radiating off my posture. "There is absolutely no way you could have known she was going to pull a stunt like that. How could anyone expect Kristine to prance around the house in nothing but her skin? But I am furious with her. What she just did to our sister is inexcusable."
 
-"I know," I whispered, resting my chin on top of Casey’s head. "I'm so sorry."
+"I know," I whispered, holding onto Casey. "I'm so sorry."
 
 "You have nothing to apologize for," Cassandra corrected firmly. She leaned forward, resting her elbows on the armrests of her chair, her tone shifting from comforting older sister to absolute, unyielding authority. "But I am pulling rank. You are a nineteen-year-old adult, David, but as your older sister, I am officially forbidding you from ever seeing that woman again. The relationship is over. Period."
 
@@ -1179,23 +1188,23 @@ My threat-detection system, which had been redlining all day, suddenly went comp
 
 "So, we have a logistics problem to solve," Cassandra continued smoothly, slipping into her pragmatic, problem-solving baseline. "You cannot go back to Portsmouth. I am giving you three choices for where you go next."
 
-She held up a single finger.
+She held up a single finger. 
 
 "Choice one: When Casey and I fly back on Sunday, you are getting on that plane with us. You come to Federal Way. You move into my apartment. I will help you enroll at Northwest Pacific University, and you can pick whether you want to commute to the Seattle campus or the Tacoma campus. I will fund your tuition out-of-pocket, even at the out-of-state rate, and you will never have to worry about a thing."
 
-She held up a second finger.
+She held up a second finger. 
 
-"Choice two: We call Mom right now, and you move back into her house in Virginia Beach."
+"Choice two: You move back into this house, right here with Mom and Dad in Virginia Beach."
 
-I shook my head instantly. "No. I'm not moving back in with Mom."
+I shook my head instantly. "No. I love you guys, but I can't move backward."
 
 "Understood. Ruled out," Cassandra nodded without missing a beat, raising her third finger. "Choice three: You go to Dayton and live with Elizabeth."
 
-My processor completely stalled. "Elizabeth? I don't... Kristine made me delete her number from my phone months ago. I don't even know how to reach her."
+My processor completely stalled. "Elizabeth? I don't... Kristine made me delete her number from my phone last month. I don't even know how to reach her."
 
-Cassandra reached into her messenger bag, pulled out her silver cell phone, and set it on the table. "Kristine made *you* delete her number. Casey and I have had her contact information this entire time. She is your honorary sister, David. You have known her since you were two years old, and she misses you."
+Meredith stepped forward, a triumphant, fiercely loyal smirk crossing her face as she reached into her pocket. "Kristine made *you* delete her number. The rest of the pack has had her on speed dial this entire time. She is your honorary sister, David. You have known her since you were two years old, and she misses you."
 
-I stared at the silver phone, the sheer magnitude of the safety net suddenly coming into focus.
+Cassandra set her silver cell phone on the coffee table. 
 
 "Elizabeth is living in Dayton and commuting to Harrisonburg for classes at Shenandoah Valley University," Cassandra explained. "If you choose Dayton, Elizabeth will help you enroll at SVU. I will still fund your tuition completely, and you will get the in-state rates. You will have a place to live, a degree path, and your best friend."
 
