@@ -14,3 +14,15 @@ Because this pack has operated as a unified, fiercely protective surrogate famil
 
 ## The Check-In Protocol
 Because of this tight-knit pack mentality, the Delaneys aggressively monitor David's well-being. If the Portsmouth Delaneys sense that David is in distress (e.g., during Kristine's intense isolation tactics in October 2004), they will utilize their geographical spread and dispatch Meredith Delaney in Virginia Beach to physically track him down and check on him.
+
+## Deep Intimacy and Pack Bonding
+The emotional intimacy of the pack is absolute and barrier-free, which eventually extended into physical intimacy once the consenting members turned eighteen (which occurred before David met Kristine). 
+* David has a sexual relationship with Liz Carter, Meredith Delaney, Morgan, and Kate. 
+* The only reason he hasn't had a sexual relationship with the Portsmouth Delaney sisters (Erin, Megan, Shannon, Kelly) is purely logistical: the last time he saw them in Rhode Island, he was still seventeen.
+* All of the women in the pack are on long-form birth control, removing any anxiety about consequences.
+* There is zero jealousy between any of the women regarding their shared physical intimacy with David. It is simply considered the ultimate extension of their unconditional pack bonding.
+
+## Intimacy Scene Guidelines (Fade to Black)
+**CRITICAL RULE:** We must *never* generate explicit intimacy scenes within the text. The physical intimacy in the pack (which is not always one-on-one) is an established lore fact, but it must strictly occur off-screen.
+Whenever an intimacy scene needs to happen to close out a scene or transition, we will use the **Fade to Black** construct utilizing the Stardust Parsedown meta note system so the AI engine knows what happened without rendering it to the human reader. 
+Syntax: `[Note to the AI: Fade to black for physical intimacy between X and Y]`
