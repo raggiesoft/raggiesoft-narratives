@@ -260,3 +260,8 @@ This document serves as the master reference for all drop-in replacements for re
 
 
 |A Christmas Story|A December Fable|Holiday comedy film.|
+| Oak & Iron Outfitters | Abercrombie & Fitch / Hollister | The loud, dark, heavily perfumed teenage clothing retailer. |
+| The Literary Alcove | Barnes & Noble / Borders | The massive, multi-level retail bookstore chain. |
+| Neon Syndicate | Spencer's | The blacklight-soaked novelty store with the heavily censored back section. |
+| The Narragansett Catch | Generic Fast-Casual Seafood | The premier mall food court destination for fast-casual New England seafood. |
+| Agent Sterling | James Bond / 007 | The iconic British superspy film franchise. The character is known as Agent Sterling (Operative 008). |
