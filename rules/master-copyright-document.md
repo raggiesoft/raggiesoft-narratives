@@ -265,3 +265,5 @@ This document serves as the master reference for all drop-in replacements for re
 | Neon Syndicate | Spencer's | The blacklight-soaked novelty store with the heavily censored back section. |
 | The Narragansett Catch | Generic Fast-Casual Seafood | The premier mall food court destination for fast-casual New England seafood. |
 | Agent Sterling | James Bond / 007 | The iconic British superspy film franchise. The character is known as Agent Sterling (Operative 008). |
+| Kensington-Royce | Rolls-Royce | The ultra-luxury British automobile manufacturer. |
+| Tidewater Square Mall | Chesapeake Square Mall | The mall located in Chesapeake, VA. |

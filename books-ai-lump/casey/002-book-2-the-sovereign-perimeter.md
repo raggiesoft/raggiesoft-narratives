@@ -353,6 +353,300 @@ I smiled back, a quiet warmth spreading through my chest. The baseline of my rea
 
 Everything was fine.
 
+## Chapter 3: The Chesapeake Deployment
+
+### Part 1: The Chesapeake Deployment
+
+**Date:** 2004-09-25 at 14:00 ET
+
+The transition into late September brought a noticeable shift in Kristine’s behavior. She required a near-constant level of attention and physical proximity. If I wasn't in class, she wanted me to be with her. It was exhausting, but my caretaking protocols told me that I was successfully keeping her anchored. 
+
+We were walking through the crowded concourse of Tidewater Square Mall on a Saturday afternoon. Kristine had a tight, possessive grip on my forearm, pulling me toward a clothing store when a familiar voice cut through the ambient noise of the shoppers. 
+
+"David!" 
+
+I stopped dead in my tracks, my head snapping to the right. 
+
+Standing near the center kiosk was Meredith Delaney. The Virginia Beach cousin of the Portsmouth Delaneys. A core member of my pack.
+
+The analytical algorithms running in my brain instantly dropped to zero. A massive wave of pure, unfiltered relief washed over me. I hadn't seen anyone from my surrogate family in weeks. 
+
+I pulled my arm out of Kristine’s grip and closed the distance in three long strides. Meredith dropped her heavy medical go-bag onto the tile floor and threw her arms open. 
+
+"Mer," I breathed, wrapping my arms tightly around her waist and burying my face in her shoulder. 
+
+"I missed you, David," she whispered, squeezing me back with bone-crushing force. She pulled back slightly, planting a firm, affectionate kiss on my cheek. "We've all been worried about you. You haven't been answering the landline, and Liz said you've been ghosting her texts. The Portsmouth girls were ready to mount a rescue mission, so I deployed myself to track you down."
+
+"I'm sorry," I said quietly, keeping my arms around her waist. It felt incredibly grounding to hold someone from the pack. The physical boundaries between us were completely non-existent; we had known each other since I was two years old. "I've just been... busy."
+
+Meredith pulled back a few inches, her eyes scanning my face with analytical precision. She noted the dark circles under my eyes and the rigid tension in my shoulders. 
+
+Then, she looked past me. 
+
+I turned around. Kristine was standing about five feet away, her arms crossed tightly over her chest. Her face was pale, and her eyes were locked onto Meredith with a level of intense, radiating hostility that I had never seen before. 
+
+This was the first time Kristine had ever seen me interact with one of the women from my pack. 
+
+"Oh," Kristine said, her voice dripping with venom. "So this is why you've been ignoring your phone. Who is *this*?"
+
+Meredith didn't flinch. Her posture instantly shifted from warm and affectionate to absolutely rigid. The protective Delaney instinct flared in her eyes. I knew Meredith better than anyone, and I could read the exact micro-expressions crossing her face. She instantly hated Kristine. 
+
+Without breaking eye contact with Kristine, Meredith slowly reached down and casually rested her hand on the strap of her medical go-bag. 
+
+My heart spiked in sheer terror. I knew exactly what was in that bag. It was the medical supply kit for our friend Kate. And based on Meredith's stance, I knew with absolute certainty that she was actively preparing to unzip the bag, retrieve Kate's MACE saline flush system—lovingly referred to by the pack as the "shit hose"—and deploy it as a high-pressure biological weapon right in the middle of the mall. 
+
+"I'm Meredith," she said, her voice completely flat. "I'm his family."
+
+"Family," Kristine scoffed, glaring at the way my arm was still loosely wrapped around Meredith's waist. "You don't look like his sister."
+
+"Kristine, stop," I intervened rapidly, my hands coming up in a placating gesture. I needed to de-escalate this immediately before Meredith committed a felony with medical tubing. "Meredith is my oldest friend. We grew up together. Liz, Meredith, the girls in Rhode Island... they're my pack."
+
+"Your pack," Kristine repeated, the tears of insecurity already welling up in her eyes. She looked at Meredith, then back at me. "Right. So I'm just the outsider. I get it."
+
+Kristine turned on her heel and stormed off toward the exit. 
+
+I stood there, completely paralyzed by the sudden emotional explosion. I looked at Meredith, who was still glaring in the direction Kristine had gone. 
+
+"David," Meredith said quietly, her hand finally dropping away from the medical bag. "Who the hell is that, and why is she treating you like a hostage?"
+
+### Part 2: The Food Court De-Escalation
+
+**Date:** 2004-09-25 at 14:15 ET
+
+I spent the next ten minutes rapidly scanning the central concourse of Tidewater Square Mall, trying to locate Kristine. Meredith walked quietly beside me, her heavy medical bag slung over her shoulder. 
+
+"She's gone, David," Meredith finally said, gently placing a hand on my arm to stop my pacing. "She practically sprinted out through the department store."
+
+My phone buzzed in my pocket. I pulled it out, immediately opening a text from Kristine. 
+
+*Don't bother looking for me. Get lost and go have fun with your "pack."*
+
+I stared at the glowing screen, my chest tightening with anxiety. My caretaking protocols were failing. I was supposed to keep her stable, and instead, I had inadvertently triggered a massive meltdown. 
+
+"Let me guess," Meredith said, looking at my face. "She's blaming you?"
+
+I showed her the text. Meredith read it, her expression hardening with the same protective, fiercely loyal glare that all the Delaney women possessed. 
+
+"Well," Meredith said flatly, pushing my phone down. "It looks like the trash took itself out."
+
+"Mer, don't say that," I sighed, running a hand through my hair. "She's just... she's really insecure. She doesn't understand our dynamic."
+
+"David, she looked at me like I was a threat," Meredith countered, guiding me down the main concourse. "Come on. We're going to the food court. You look like you haven't eaten a full meal in three days, and I'm buying."
+
+We navigated through the crowds and found a relatively quiet booth in the corner of the food court. Meredith returned a few minutes later with a massive tray of bourbon chicken and rice, sliding half of it across the table to me. 
+
+Sitting across from Meredith felt like a sudden pressure release valve in my brain. I didn't have to monitor my words. I didn't have to constantly reassure her of my loyalty. We just ate in comfortable, familiar silence. 
+
+When we finished, we walked out into the massive surface parking lot. The humid Virginia afternoon air hit us instantly. 
+
+"I have to head back home to Virginia Beach anyway," Meredith said, unlocking her sedan. "Get in. I'm driving you back."
+
+"You don't have to do that," I protested weakly. "I can take the bus."
+
+"Get in the car, David," she ordered softly. 
+
+Before I could open the passenger door, Meredith stepped into my space. She wrapped her arms around my neck and pulled me into another deep, grounding hug. I closed my eyes, leaning into the embrace, letting the quiet strength of my pack wash over me. 
+
+She pulled back just enough to look at me, and then leaned in, pressing a soft, lingering kiss directly onto my lips. 
+
+It wasn't romantic. It wasn't sexually charged. It was an expression of absolute, unconditional familial love. It was the way the Delaney women had always communicated affection. My analytical brain instantly recalled a memory from earlier in the summer: Liz had been standing right next to me when Meredith had kissed me in the exact same way. Liz hadn't even blinked. There was zero jealousy, because Liz knew with absolute certainty that the Delaney women viewed me as a brother. We were a pack. 
+
+"I'm not letting you deal with this alone," Meredith whispered, her forehead resting against mine. "Get in the car. I'm taking you home, and we're going to talk to Wendy and Tom."
+
+"Mer, you don't have to—"
+
+"Get in the car, David," she repeated, her tone leaving zero room for negotiation. 
+
+She pulled away, opened the driver's side door, and tossed her medical bag onto the back seat. I sighed, opening the passenger door and sliding in beside her.
+
+### Part 3: The Family Debrief
+
+**Date:** 2004-09-25 at 15:30 ET
+
+Meredith didn't just drop me off in the driveway. 
+
+When she pulled her sedan up to my house, she put it in park, grabbed her heavy medical go-bag, and marched straight up the front walk beside me. 
+
+"Mer, you don't have to come in," I said, fishing my keys out of my pocket. "I know you need to get back to Kate."
+
+"Kate is safe with Morgan," Meredith replied flatly, waiting for me to unlock the door. "I am not leaving until I execute a full debrief with your parents. That girl is highly unstable, and your perimeter is completely compromised."
+
+I opened the front door, and Meredith swept inside like a commanding officer. 
+
+Mom and Dad were sitting in the living room watching television. They both looked up in surprise as Meredith walked in. Because of the open borders of our pack, Meredith didn't knock or ask for permission to enter; she just walked into the living room and dropped her bag on the floor. 
+
+"Meredith!" Mom said brightly, standing up. "We haven't seen you in weeks!"
+
+Meredith gave my mom a quick, tight hug, but her expression remained completely severe. "Wendy, we have a situation."
+
+My dad muted the television. "What's going on?"
+
+"I just tracked David down at Tidewater Square Mall," Meredith reported, standing in the center of the living room with her hands on her hips. "He was with a girl named Kristine. She is actively attempting to isolate him."
+
+"Mer, she's just insecure—" I started, trying to run interference. 
+
+Meredith immediately put a hand up, cutting me off. "She had a physical grip on his arm like a hostage taker. When I hugged David to say hello and kissed his cheek, she looked at me like I was a rival for his affection. She completely panicked at the sight of another woman in his proximity, and then she stormed out of the mall and sent him an angry text."
+
+Mom frowned, her maternal radar instantly activating. She looked at me, her eyes filled with concern. "David, is this true?"
+
+"She's having a hard time," I defended quietly, staring at the floor. "She doesn't understand our pack dynamic. I'm just trying to help her."
+
+"You can't fix her, David," Meredith said softly, her tone shifting from tactical to deeply sympathetic. She turned back to my parents. "I am highly concerned about his psychological baseline. She is going to try to force him to sever ties with us if this continues."
+
+"She would never do that," I protested. 
+
+"She already tried today," Meredith pointed out gently. "She got mad because you hugged me and I kissed your cheek. And I've known you since we were two years old."
+
+My dad leaned forward, resting his elbows on his knees. "So what's the play, Meredith?"
+
+"I'm going to call Liz," Meredith stated, picking up her medical bag. "And then I'm going to call my uncle up in Portsmouth to brief the rest of the girls. The pack needs to go on high alert. If David stops answering his phone, we need to know exactly who is pulling his strings."
+
+Meredith walked over and gave me one last, fiercely protective hug. 
+
+"We aren't letting you go, David," she whispered in my ear. "No matter what she tells you to do."
+
+She walked out the front door, leaving me standing in the living room with my deeply concerned parents. My logical brain told me Meredith was overreacting. But deep down, the fact that the pack was activating its emergency protocols made my stomach twist with dread.
+
+### Part 4: The Crocodile Tears
+
+**Date:** 2004-09-25 at 19:00 ET
+
+The house felt heavy after dinner. Mom and Dad had spent the entire meal trying to gently probe my relationship with Kristine, heavily influenced by Meredith’s tactical debrief. I deflected their questions, retreating to my bedroom the second my plate was clear. 
+
+I was sitting at my desk, staring blankly at an open textbook, when my phone vibrated against the wood. 
+
+The caller ID flashed *Kristine*. 
+
+My primary operating directive instantly overrode the exhaustion I had been feeling all afternoon. I picked up the phone and answered. 
+
+"Hello?"
+
+"David?" Kristine’s voice was small, shaking, and completely saturated with tears. "Are you mad at me?"
+
+"No," I replied softly, my chest instantly tightening with an overwhelming urge to fix whatever was hurting her. "I'm not mad. Are you okay?"
+
+"No," she sobbed, her voice breaking into a ragged, pitiful sound. "I'm so sorry. I'm so, so sorry, David. I completely overreacted at the mall today, and I know I ruined our afternoon, and now you probably hate me and you're going to leave me."
+
+"I don't hate you," I promised quickly, pushing the textbook away. "And I'm not leaving you."
+
+"I just... I get so scared," she cried, a wet, shuddering breath coming through the receiver. "You're so perfect, and you have all these amazing friends who have known you forever, and they're all so beautiful. And then there's just me. I'm just the broken girl you have to tutor. I saw how you looked at her, David. You looked so happy. And I just panicked because I know I can never make you that happy."
+
+Every single alarm bell that Meredith had tried to install in my brain was instantly silenced by the sheer, devastating vulnerability in Kristine's voice. 
+
+She wasn't trying to isolate me. She wasn't toxic. She was just terrified. She was a deeply wounded person who felt inadequate compared to my pack, and her panic response was to lash out. To my analytical, caretaking brain, this was a solvable equation. She didn't need to be pushed away; she needed more reassurance. 
+
+"Kristine, listen to me," I said gently. "You aren't a broken girl I have to tutor. I care about you. Meredith is my family, but that doesn't mean I don't want you."
+
+"Do you really mean that?" she sniffled. 
+
+"I do," I assured her. 
+
+"I promise I'll be better," she whispered, her crying slowly subsiding into soft, rhythmic breathing. "I just need you, David. You're the only person who makes me feel safe. Please don't give up on me."
+
+"I won't," I said. "I'm right here."
+
+"Can I see you tomorrow?" she asked, her voice dropping into a sweet, fragile tone. "Just the two of us? I want to make it up to you."
+
+"Of course," I agreed. "I'll pick you up at noon."
+
+"Thank you," she breathed. "I love you, David."
+
+"I love you too," I replied, the words feeling heavy but entirely necessary to re-establish her baseline. 
+
+I hung up the phone and set it back on the desk. The crisis had been successfully averted. Kristine was stable, and the relationship had been salvaged. I felt a surge of quiet satisfaction that I had been able to talk her down and fix the breach. 
+
+I had no idea that I was walking directly into a psychological trap. I had completely ignored the glaring tactical warnings of my pack, choosing instead to believe the fragile, tear-soaked narrative of a girl who knew exactly which buttons to press to keep me entirely under her control.
+
+### Part 5: Interlude: The Pack Summit
+
+**Date:** 2004-09-25 at 19:30 ET
+
+I dropped my medical go-bag on the floor of the garage barracks and collapsed onto the edge of the massive custom bed. Morgan was sitting cross-legged next to me, meticulously cleaning a pair of running shoes, while Kate was resting comfortably against a mountain of pillows, watching television. David Delaney was leaning against the doorframe, his arms crossed as he waited for my sitrep. 
+
+"Well?" Morgan asked, not looking up from her shoes. "Did you find him?"
+
+"I found him," I sighed, pulling my phone out of my pocket. "And we have a massive tactical problem. I need the whole pack on the line."
+
+I dialed the secure conference bridge Cassandra had set up for us. Within sixty seconds, the chimes echoed through the receiver as the various factions of the pack dialed in. 
+
+"Liz Carter is on," a voice crackled through the speakerphone. I could hear the ambient noise of her Dayton dorm room in the background. 
+
+"Portsmouth is on," Erin Delaney announced. The background noise on her end sounded like the entire Rhode Island kitchen was crowded around the receiver. 
+
+"Federal Way is on," Cassandra stated smoothly, her voice crystal clear from her West Coast estate. "Casey is sitting right next to me."
+
+"Virginia Beach is holding down command," I said, putting the phone on speaker in the center of the bed so Morgan, Kate, and David Delaney could hear. "Alright, listen up. I just got back from dropping David off at his parents' house. I intercepted him at Tidewater Square Mall with Kristine."
+
+"What’s the verdict?" Liz asked immediately. 
+
+"She is completely toxic," I reported flatly. "I walked up to him to say hello, and she had a physical grip on his arm like a hostage taker. The second I hugged him and kissed his cheek, she looked at me like I was an active threat. She completely panicked at the sight of another woman in his proximity, threw a massive fit, and stormed out of the mall. Then she sent him a text telling him to get lost and go have fun with his 'pack.'"
+
+"Are you kidding me?" Casey groaned from Washington. "She got mad because he hugged his family friend and she kissed his cheek?"
+
+"She doesn't see us as family, Casey," I corrected. "She sees us as competition. And David is completely blind to it. His caretaking protocols are overriding everything else. He thinks she's just insecure and terrified, so he's actively trying to fix her."
+
+"He can't fix someone who uses tears as a weapon," Morgan muttered from the bed, tossing her rag aside. 
+
+"Exactly," I agreed. "I went into Wendy and Tom's living room and gave them the full debrief. They're concerned, but David is defending her. He thinks she's harmless."
+
+"She isn't harmless," Cassandra's voice cut through the line, cold and analytical. "This is a classic isolation tactic. She is actively attempting to sever his support structure. She wants to be the only person in his perimeter."
+
+"I agree," Liz said, her voice heavy with worry. "If she sees us as a threat, she's going to force him to choose. And knowing David... if she makes him feel like he's responsible for her emotional stability, he'll do whatever she wants to keep her from breaking."
+
+"So what do we do?" Shannon asked from Rhode Island. 
+
+"We establish a high-alert perimeter," I instructed, looking around the garage barracks. Kate nodded in agreement from her pillows, and David Delaney gave me a grim thumbs-up from the doorframe. "Everyone needs to be watching him. If he starts ghosting our texts, or if he suddenly stops answering the landline... we don't let it slide. We don't let her take him."
+
+"Agreed," Liz said firmly. "I'll keep hitting his phone."
+
+"I have unlimited resources," Cassandra noted. "If he drops off the grid, I will simply fly the corporate jet out there and retrieve him."
+
+"Let's hope it doesn't come to that," I sighed. "Just keep your eyes open, girls. The trash hasn't taken itself out yet."
+
+## Chapter 4: The Patch
+
+### Part 1: The Reunion
+
+**Date:** 2004-09-26 at 12:00 ET
+
+I stepped off the CVTA bus and walked into the parking lot of Kristine's off-campus apartment complex exactly at noon. 
+
+Despite the heavy tactical warning Meredith had delivered the day before, my primary focus remained entirely on Kristine’s emotional stability. I had spent the entire morning running diagnostic algorithms in my head, attempting to balance my loyalty to the pack with my duty as a romantic partner. My conclusion was simple: Kristine was wounded, and I was the only person who could fix her. 
+
+I knocked on her front door. It opened almost immediately. 
+
+Kristine stood in the entryway, looking incredibly small. She was wearing an oversized sweater, her eyes red and puffy as if she had been crying all morning. 
+
+"Hi," she whispered, looking down at her shoes. 
+
+"Hi," I said gently. 
+
+She didn't invite me in. Instead, she stepped out onto the concrete landing and threw her arms around my torso, burying her face into my chest. She let out a soft, shuddering sob. 
+
+"I'm so sorry, David," she cried, her voice muffled against my shirt. "I was so awful yesterday. I don't know what's wrong with me. I just saw that girl hugging you and kissing your cheek, and I completely lost my mind. I promise I'm going to change. I'm going to be better."
+
+I wrapped my arms around her, my caretaking protocols fully engaging. The intense, radiating hostility I had seen at the mall the day before was completely gone, replaced by total submission and vulnerability. 
+
+"It's okay," I murmured, rubbing her back. "You were just overwhelmed. I understand."
+
+"You don't hate me?" she asked, pulling back just enough to look up at me with wide, tear-filled eyes. 
+
+"I don't hate you," I promised. 
+
+She let out a long, shaky breath, and in a fraction of a second, the heavy, desperate tension completely evaporated from her body. Her tears stopped instantly, and the corners of her mouth curved into a small, relieved smile. To my analytical brain, this rapid physiological shift was simply evidence that I had successfully stabilized her. I had provided the necessary reassurance, and her emotional baseline had corrected itself. 
+
+I had absolutely no idea how easily I was being manipulated. 
+
+"Can we go somewhere?" she asked, her voice suddenly lighter. "Just the two of us? I want to spend the whole day with you."
+
+"Of course," I agreed, completely ignoring the fact that my pack was currently on high alert. "Where do you want to go?"
+
+"Anywhere," she said, slipping her hand into mine and interlocking our fingers. "As long as it's just us."
+
+She squeezed my hand tightly as we walked toward the CVTA bus stop. I felt a deep sense of accomplishment. I had weathered the storm, navigated the crisis, and successfully restored our relationship. I had let her completely back into my life, firmly believing her promise to change. 
+
+I didn't realize that her promise to change wasn't an apology. It was a recalibration. She hadn't learned to accept my pack; she had just learned that she needed to be smarter about how she isolated me from them.
+
 ## Chapter 3: The Delete Key
 
 ### Part 1: The Ultimatum
@@ -375,15 +669,15 @@ She shook her head, quickly wiping a tear off her cheek. She began packing her n
 
 "Can't do what?" I asked, completely lost. I reached across the table, trying to re-establish a baseline. "What happened?"
 
-"Every time we're together, you're talking to her," Kristine cried quietly, gesturing to my phone. "You're always texting Liz. You're always thinking about Liz. I sit here and I pour my entire heart out to you, and you're just... you're just waiting for her to come back so you can go be with your real friend."
+"Every time we're together, you're talking to them," Kristine cried quietly, gesturing to my phone. "You're always texting Liz. Or you're texting those Delaney sisters up in Rhode Island. You're always thinking about them. I sit here and I pour my entire heart out to you, and you're just... you're just waiting for me to leave so you can go be with your real friends."
 
-"That's not true," I countered, my logical processors trying to rapidly defuse the situation. "Liz is my childhood best friend. She's practically my sister. My family has known her for ten years. You know this."
+"That's not true," I countered, my logical processors trying to rapidly defuse the situation. "Liz is my childhood best friend. She's practically my sister. The Delaneys are her family. My family has known them for ten years. You know this."
 
-"I know!" Kristine sobbed, her voice breaking perfectly. "I know I can't compete with her! I'm just the broken, stupid girl you're tutoring. I'm just a charity case. You don't actually care about me. You're just doing your job, fixing the broken thing, and texting the girl you actually want to talk to."
+"I know!" Kristine sobbed, her voice breaking perfectly. "I know I can't compete with them! I'm just the broken, stupid girl you're tutoring. I'm just a charity case. You don't actually care about me. You're just doing your job, fixing the broken thing, and texting the girls you actually want to talk to."
 
 "Kristine, no," I said, my chest tightening with panic. The raw devastation in her voice was incredibly difficult to process. "You aren't a charity case. I care about you."
 
-"No, you don't!" she insisted, standing up and throwing her bag over her shoulder. "If I actually mattered to you—if you were actually my friend—you wouldn't need to constantly talk to another girl while I'm sitting right in front of you. You would focus on us. But you don't. So I'm leaving. I'm not going to be your backup project anymore."
+"No, you don't!" she insisted, standing up and throwing her bag over her shoulder. "If I actually mattered to you—if you were actually my friend—you wouldn't need to constantly talk to a whole pack of other women while I'm sitting right in front of you. You would focus on us. But you don't. So I'm leaving. I'm not going to be your backup project anymore."
 
 She turned and took a step toward the door. 
 
@@ -395,19 +689,19 @@ She stopped, looking back at me over her shoulder. Her eyes were red, her bottom
 
 "How?" I asked, desperate to stabilize the situation. 
 
-"Delete her number," Kristine demanded softly. 
+"Delete her number," Kristine demanded softly. "Hers, and the Delaney girls too. If I'm your priority, you don't need a whole pack of other women on standby."
 
-My brain froze. It was an entirely illogical request. "She's my best friend. Our families are intertwined. Deleting her contact file doesn't erase ten years of history."
+My brain froze. It was an entirely illogical request. "They are my best friends. Our families are intertwined. Deleting their contact files doesn't erase ten years of history."
 
-"I know it doesn't," Kristine cried, wrapping her arms around her stomach. "But it shows me that you're willing to put me first. Just once. Just for right now. If you can't even do that... if you can't even delete a phone number to prove that I matter to you... then I'm leaving, David. And I won't come back."
+"I know it doesn't," Kristine cried, wrapping her arms around her stomach. "But it shows me that you're willing to put me first. Just once. Just for right now. If you can't even do that... if you can't even delete their phone numbers to prove that I matter to you... then I'm leaving, David. And I won't come back."
 
 I stood there in the middle of the coffee shop, caught in an impossible emotional crossfire. The logic was completely flawed, but the emotional threat was absolute. She was going to walk away, completely shattered, if I didn't comply. 
 
-I looked at my phone on the table. My analytical mind offered a rapid compromise: I had a near-eidetic memory for numbers. I knew Liz's phone number by heart. I knew the Carters' landline by heart. Deleting the digital contact file wouldn't actually sever my connection to Liz; I could still call her anytime I wanted. It was just a symbolic gesture. An empty data deletion to calm down a highly volatile, deeply insecure person. 
+I looked at my phone on the table. My analytical mind offered a rapid compromise: I had a near-eidetic memory for numbers. I knew Liz's phone number by heart. I knew the Carters' and the Delaneys' landlines by heart. Deleting the digital contact files wouldn't actually sever my connection to them; I could still call them anytime I wanted. It was just a symbolic gesture. An empty data deletion to calm down a highly volatile, deeply insecure person. 
 
 It was a logical loophole that allowed me to fix the immediate crisis. 
 
-I picked up the phone, navigated to the contact menu, and highlighted *Liz Carter*. I pressed the delete key. 
+I picked up the phone, navigated to the contact menu, and highlighted *Liz Carter*. I pressed the delete key. Then I scrolled down, systematically highlighting and deleting *Erin Delaney*, *Megan Delaney*, *Shannon Delaney*, *Kelly Delaney*, and their Virginia Beach cousin, *Meredith Delaney*.
 
 "Done," I said, setting the phone back on the table. 
 
@@ -425,31 +719,31 @@ The house was relatively quiet when I finally retreated to my bedroom that eveni
 
 I closed my bedroom door, sat on the edge of my mattress, and pulled my phone out of my pocket. 
 
-The screen was blank, but the lingering psychological weight of the afternoon was still heavy in my chest. Deleting Liz's number in the coffee shop had been an incredibly effective tactical maneuver—it had instantly defused a massive emotional meltdown and kept Kristine anchored. But sitting here in the quiet isolation of my room, the absence of the contact file felt fundamentally wrong. 
+The screen was blank, but the lingering psychological weight of the afternoon was still heavy in my chest. Deleting Liz and the Delaneys' numbers in the coffee shop had been an incredibly effective tactical maneuver—it had instantly defused a massive emotional meltdown and kept Kristine anchored. But sitting here in the quiet isolation of my room, the absence of their contact files felt fundamentally wrong. 
 
-My fingers moved over the keypad automatically. I didn't even have to think about it. I navigated to the "Add New Contact" screen, typed in the name *Liz Carter*, and tapped out her Dayton cell phone number with flawless, rapid muscle memory. 
+My fingers moved over the keypad automatically. I didn't even have to think about it. I navigated to the "Add New Contact" screen, typed in the name *Liz Carter*, and tapped out her Dayton cell phone number with flawless, rapid muscle memory. Then I repeated the exact same process for Erin, Megan, Shannon, and Kelly Delaney, and finally their Virginia Beach cousin, Meredith Delaney.
 
-I hit save. 
+I hit save on all of them. 
 
-The contact instantly repopulated in my directory. I stared at the screen, analyzing the variables of the situation. 
+The contacts instantly repopulated in my directory. I stared at the screen, analyzing the variables of the situation. 
 
-Kristine was incredibly fragile. Her emotional baseline was highly unstable, and the mere presence of Liz in my operational schedule seemed to trigger catastrophic insecurities. But Liz was my best friend. We had seventeen years of shared history. Abandoning Liz was entirely out of the question, but continuously triggering Kristine's emotional distress violated my caretaking protocols. 
+Kristine was incredibly fragile. Her emotional baseline was highly unstable, and the mere presence of Liz and her surrogate family in my operational schedule seemed to trigger catastrophic insecurities. But Liz was my best friend. The Delaneys were practically my own family. We had seventeen years of shared history. Abandoning my pack was entirely out of the question, but continuously triggering Kristine's emotional distress violated my caretaking protocols. 
 
 I needed a structural compromise. A firewall. 
 
-The logic was incredibly simple. Kristine didn't live with me. She wasn't in all of my classes. If her primary trigger was seeing me communicate with Liz, the solution was to simply remove the visual stimulus. 
+The logic was incredibly simple. Kristine didn't live with me. She wasn't in all of my classes. If her primary trigger was seeing me communicate with Liz or the Delaneys, the solution was to simply remove the visual stimulus. 
 
-I set a new behavioral protocol in my mind. From now on, when Kristine was in my physical proximity, my phone would remain completely silent and out of sight. I wouldn't text Liz during Anatomy. I wouldn't call Liz when Kristine was studying with me at the coffee shop. I would create a perfect, seamless partition between the two sectors of my life. 
+I set a new behavioral protocol in my mind. From now on, when Kristine was in my physical proximity, my phone would remain completely silent and out of sight. I wouldn't text Liz during Anatomy. I wouldn't call the Delaneys when Kristine was studying with me at the coffee shop. I would create a perfect, seamless partition between the two sectors of my life. 
 
-When Kristine wasn't around, I could communicate with Liz freely. When Kristine was around, she would have my undivided attention, ensuring her emotional stability remained intact. 
+When Kristine wasn't around, I could communicate with Liz and the Delaneys freely. When Kristine was around, she would have my undivided attention, ensuring her emotional stability remained intact. 
 
-It was my one, quiet act of defiance. Kristine had demanded a total systemic purge, but I simply wasn't going to let go of Liz. Not after seventeen years. 
+It was my one, quiet act of defiance. Kristine had demanded a total systemic purge, but I simply wasn't going to let go of my pack. Not after seventeen years. 
 
 I set my phone on the nightstand, staring up at the dark ceiling of my bedroom. A strange, unprompted question began to form in the back of my analytical mind. *Which configuration was actually mathematically superior?*
 
-Was it better to spend the rest of my life anchored to a best friend like Liz—a completely stable, frictionless connection that had never failed me—or was this exactly what having a romantic partner required? Kristine's demands were exhausting, her emotional volatility was off the charts, and I was actively fragmenting my life into secret, compartmentalized pieces just to prevent her from crying in public. 
+Was it better to spend the rest of my life anchored to a best friend like Liz and a completely stable, frictionless surrogate family that had never failed me—or was this exactly what having a romantic partner required? Kristine's demands were exhausting, her emotional volatility was off the charts, and I was actively fragmenting my life into secret, compartmentalized pieces just to prevent her from crying in public. 
 
-But this was love, right? Love meant sacrifice. Love meant making structural compromises to protect your partner's fragile heart. If Kristine was hurting, it was my absolute duty as her boyfriend to alleviate that hurt, even if it meant hiding my oldest friend behind a firewall. 
+But this was love, right? Love meant sacrifice. Love meant making structural compromises to protect your partner's fragile heart. If Kristine was hurting, it was my absolute duty as her boyfriend to alleviate that hurt, even if it meant hiding my oldest friends behind a firewall. 
 
 Looking at the situation strictly through the lens of logic and caretaking, the equation balanced perfectly. Kristine wasn't demanding; she was just incredibly insecure. She needed me to prove my loyalty, and I had built a system that did exactly that. 
 
