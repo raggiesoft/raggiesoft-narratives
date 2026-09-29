@@ -8,11 +8,15 @@ description: "A privately owned Gilded Age mansion on Bellevue Avenue in Newport
 **Highcliff** is a massive, privately-owned Gilded Age mansion located on Bellevue Avenue in Newport, Rhode Island. It sits on prime real estate north of Ruggles Avenue, ensuring it is fully serviced by OSTA Route 67 from the Newport Gateway Center, bypassing the morning service delays south of "Hello Queen" (Salve Regina) University.
 
 ## Ownership and Purpose
-Purchased by Cassandra Vance, Highcliff serves as her second home. In the real world, ultra-high-net-worth tech executives (like Larry Ellison, Jeff Bezos, or Mark Zuckerberg) frequently own anywhere from 3 to 8 sprawling properties—usually a primary estate near headquarters, a summer retreat, a winter/ski compound, and city pied-à-terres. 
+When Quantum expands its footprint by opening a massive Research & Development Center in Cambridge, Massachusetts, Cassandra (acting as Executive Vice President of Operations) is temporarily relocated to the East Coast to oversee the new facility. 
 
-Cassandra purchased Highcliff primarily to serve as the permanent, full-time residence for the **Delaney family** (Robert, Patricia, Megan, Erin, Chloe, and Claire). 
+During the week, Cassandra, David, Liz, and Casey live in a smaller, practical house in Cambridge. This allows Cassandra to maintain a reasonable, localized commute to the Quantum facility using the **BSTA** (Bay State Transit Authority, commonly referred to in-universe as **"The B"**). 
 
-When Cassandra, David, Liz, and Casey visit from Boston/Cambridge, Highcliff transforms into the ultimate "pack" retreat. 
+However, Cassandra wanted a permanent East Coast stronghold. Because she was born on Aquidneck Island, she spotted Highcliff for sale and bought it outright in cash using her vested Quantum stock options. 
+
+While Highcliff serves as her weekend retreat when she escapes Cambridge, she essentially weaponizes her wealth to secure the pack: she relocates both the **Rhode Island Delaney family** and the **Virginia Beach Delaney family** into the massive estate as their permanent, full-time residence. By consolidating both households under the Highcliff roof, she ensures they have a massive, fully accessible place to live where the bills, taxes, and maintenance are permanently covered by her. 
+
+Cassandra maintains this East Coast lifestyle until **2012**, when the Cambridge facility is fully operational and local leadership is trained. She is subsequently recalled back to her primary residence in Redmond, Washington—a massive corporate maneuver that directly sets up her arc to become Quantum's CEO in 2013.
 
 ## Architecture & The Solarium
 Highcliff is a sprawling, U-shaped Italian Renaissance villa built around a massive central courtyard. It is shielded from the public eye by thick privet hedges and massive wrought-iron gates.
