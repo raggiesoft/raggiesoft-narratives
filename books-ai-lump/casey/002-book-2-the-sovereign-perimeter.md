@@ -1,6 +1,6 @@
 ---
 title: "Book 2: The Sovereign Perimeter"
-series: "casey"
+series: "The Quantum Directive: The Caretakers"
 ---
 
 # Book 2: The Sovereign Perimeter

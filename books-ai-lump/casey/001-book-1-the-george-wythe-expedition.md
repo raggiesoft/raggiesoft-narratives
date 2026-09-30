@@ -1,6 +1,6 @@
 ---
 title: "Book 1: The George Wythe Expedition"
-series: "casey"
+series: "The Quantum Directive: The Caretakers"
 ---
 
 # Book 1: The George Wythe Expedition

@@ -1,6 +1,6 @@
 ---
 title: "Book 6: The Sovereign Autonomy"
-series: "casey"
+series: "The Quantum Directive: The Caretakers"
 ---
 
 # Book 6: The Sovereign Autonomy

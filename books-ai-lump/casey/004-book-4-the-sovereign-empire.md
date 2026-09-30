@@ -1,6 +1,6 @@
 ---
 title: "Book 4: The Sovereign Empire"
-series: "casey"
+series: "The Quantum Directive: The Caretakers"
 ---
 
 # Book 4: The Sovereign Empire

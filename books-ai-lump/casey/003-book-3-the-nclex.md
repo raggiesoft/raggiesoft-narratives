@@ -1,6 +1,6 @@
 ---
 title: "Book 3: The NCLEX"
-series: "casey"
+series: "The Quantum Directive: The Caretakers"
 ---
 
 # Book 3: The NCLEX

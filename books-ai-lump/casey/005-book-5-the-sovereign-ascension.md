@@ -1,6 +1,6 @@
 ---
 title: "Book 5: The Sovereign Ascension"
-series: "casey"
+series: "The Quantum Directive: The Caretakers"
 ---
 
 # Book 5: The Sovereign Ascension
