@@ -10,9 +10,9 @@ description: "A privately owned Gilded Age mansion on Bellevue Avenue in Newport
 ## Ownership and Purpose
 When Quantum expands its footprint by opening a massive Research & Development Center in Cambridge, Massachusetts, Cassandra (acting as Executive Vice President of Operations) is temporarily relocated to the East Coast to oversee the new facility. 
 
-During the week, Cassandra, David, Liz, and Casey live in **The Coolidge Hill Estate**, a heavily wooded 19th-century colonial revival mansion in West Cambridge. This allows Cassandra to maintain a seamless, localized commute to the Quantum facility using the **BSTA** (Bay State Transit Authority, commonly referred to in-universe as **"The B"**). 
+During the week, Cassandra, David, Liz, and Casey live at the **Coolidge Hill Estate**—a massive, 19th-century colonial revival mansion in West Cambridge. This allows Cassandra to maintain a reasonable, localized commute to the Quantum facility using the **BSTA** (Bay State Transit Authority, commonly referred to in-universe as **"The B"**). 
 
-However, Cassandra wanted a permanent East Coast stronghold. Because she was born on Aquidneck Island, she spotted Highcliff for sale and bought it outright in cash using her vested Quantum stock options. 
+However, Cassandra also wanted a permanent East Coast stronghold. Because she was born on Aquidneck Island, she spotted Highcliff for sale and bought it outright in cash using her vested Quantum stock options. 
 
 While Highcliff serves as her weekend retreat when she escapes Cambridge, she essentially weaponizes her wealth to secure the pack: she relocates both the **Rhode Island Delaney family** and the **Virginia Beach Delaney family** into the massive estate as their permanent, full-time residence. By consolidating both households under the Highcliff roof, she ensures they have a massive, fully accessible place to live where the bills, taxes, and maintenance are permanently covered by her. 
 

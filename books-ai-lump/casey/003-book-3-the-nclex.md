@@ -211,3 +211,109 @@ Wendy looked at me, completely stunned by the sheer financial force of my sister
 
 "Alright, room assignments," Cassandra announced, taking the stack of keycards from the agent and spinning her wheelchair around to face the lobby. "Everyone grab your bags. We are taking over the twelfth floor."
 
+### Part 4: The Twelfth Floor
+
+**Date:** 2005-03-18 at 15:30 PT
+
+Cassandra wheeled away from the front desk holding a massive stack of plastic keycards. She motioned for the pack to follow her toward the main elevator bank. 
+
+"Alright, listen up," Cassandra commanded as we crowded into two separate elevator cabs and hit the button for the twelfth floor. "When you book a single hotel room, you are placed wherever the hotel's algorithm finds an opening. When you book a corporate-tier block of suites, you control the geography."
+
+The elevator doors pinged open. 
+
+"I have bought out the entire west wing of the twelfth floor," Cassandra explained, rolling out onto the thick, patterned carpet of the hallway. "That means every door past the ice machine belongs to us. No neighbors to disturb, and nobody to disturb us. We control the perimeter."
+
+"That is so intensely hardcore," Erin whispered, looking down the long, private corridor. 
+
+"Room assignments," Cassandra announced, stopping in the middle of the hallway and dealing the keycards out like a Vegas blackjack dealer. "Wendy and Tom, you are in Suite 1220. Meredith and Morgan, you are directly across from them in 1221. Megan and Erin, 1222. Chloe and Claire, 1223."
+
+She handed over the plastic cards as the girls happily grabbed their luggage and started swiping themselves into their respective suites. 
+
+"Now, the ADA logistics," Cassandra continued, pivoting her manual chair to face Kate and David Delaney. "Standard hotel rooms are a nightmare to navigate when multiple wheelchairs are involved, because the furniture footprint does not account for the turning radius of two power chairs simultaneously."
+
+*"TIGHT SPACES,"* David Delaney agreed through his AAC device, having experienced that exact logistical nightmare on family vacations before. 
+
+"Exactly," Cassandra nodded. "Therefore, you are not sharing. Kate, you have Suite 1224 all to yourself. It is a fully compliant ADA suite with a roll-in shower. David, you have Suite 1225 right next door, also a dedicated ADA suite."
+
+Kate’s face lit up. *"MY OWN ROOM?"* 
+
+"You are an adult," Cassandra smiled. "You deserve your own space."
+
+"Wait, so that's six suites," Casey said, doing the mental math as she leaned against the wall. "That leaves fourteen people minus... wait, that leaves four of us for the final suite?"
+
+"Correct," Cassandra said, holding up the final set of keycards. "Suite 1226 is the Presidential ADA Suite at the very end of the hall. It has a massive living room, a master bedroom, and two connected adjoining rooms. I will be in the master bedroom so I have access to the primary roll-in shower. Casey, Liz, and David, you three will take the adjoining rooms."
+
+"You purposely put us all in one suite?" I asked, raising an eyebrow. 
+
+"Yes," Cassandra said, her voice softening just a fraction. "We spent the last four months separated by three thousand miles. I am not splitting our core perimeter up tonight."
+
+"And let me guess," Casey pouted, crossing her arms and glaring at Liz. "You two get the king bed in one adjoining room, and I'm stuck sleeping alone in the other one."
+
+"You're seventeen, Casey," Liz laughed, grabbing my hand and squeezing it tightly. "You can survive a hotel bed by yourself."
+
+"I hate sleeping alone!" Casey complained, though a small smile was cracking through her pout. "I want pack cuddles!"
+
+"Drop your bags and get settled," Cassandra called out down the hallway as the various Delaney girls popped their heads out of their doorways. "The hotel is setting up a private catered dinner for us in the Cascade Banquet Room on the mezzanine level. I expect everyone downstairs in exactly one hour!"
+
+### Part 5: The Banquet Room
+
+**Date:** 2005-03-18 at 16:45 PT
+
+The Cascade Banquet Room on the hotel's mezzanine level was typically used for mid-sized corporate board meetings, but Cassandra had transformed it into a completely secure, private dining sanctuary for fourteen. 
+
+When the pack descended from the twelfth floor, the hotel staff was just finishing the room prep. The standard conference tables had been pushed together into one massive, long dining table covered in heavy white linens. More importantly, the hotel staff had already removed three of the heavy wooden banquet chairs, leaving wide, perfectly spaced gaps at the table. 
+
+Cassandra, Kate, and David Delaney simply rolled into the empty bays, effortlessly docking their wheelchairs directly up to the table without needing to execute a single awkward transfer or ask for furniture to be rearranged. It was exactly the kind of frictionless logistical perfection Cassandra demanded from hospitality staff. 
+
+"Oh, this is gorgeous," Wendy smiled, taking a seat next to Tom near the center of the table. 
+
+"And completely private," Cassandra agreed, parking at the head of the table. She pulled a portable CD player and an auxiliary cable from her tote bag, reaching over to plug it directly into the banquet room's built-in wall audio port. "Every good Spring Break requires a soundtrack."
+
+She hit play, and the massive, stadium-sized snare drum and soaring synthesizer hooks of The Stardust Engine’s 1987 breakout hit, *Electric Color*, instantly flooded the room's overhead speakers. The upbeat, driving synth-rock washed over the pack, immediately cutting the travel tension and replacing it with pure, high-energy nostalgia. 
+
+Morgan and Meredith immediately started bobbing their heads in sync to the heavy drum machine, while Megan and Erin dramatically lip-synced the opening verse across the table at each other. 
+
+I took a seat near the middle of the table, pulling out a chair for Liz. Casey dropped into the chair on my other side, her arms still crossed in a mild, lingering pout about the sleeping arrangements upstairs. 
+
+"You're still mad you don't get pack cuddles," I noted, bumping my shoulder gently against hers. 
+
+"I'm the youngest, and I have to sleep in a king bed entirely by myself," Casey complained over the heavy 80s synth-bass. "It's an operational flaw."
+
+When we were kids, Casey and I used to share a bed constantly. The shared deep-pressure contact was one of the only things that helped regulate our autism after a severe sensory overload. But the absolute moment I turned eighteen, we had to strictly separate our sleeping arrangements because she was still a minor. She had abruptly lost her designated nighttime regulation partner, and she definitely felt the geographic isolation.
+
+"I know it sucks right now," Liz smiled gently, leaning across my chest to look at Casey. "But you turn eighteen this year. And I promise you, once the Redmond house is finished and we move in, we are getting a massive custom mattress, and the four of us are going to share a bed."
+
+Casey's pout instantly melted, her eyes lighting up over the heavy synth-bass. "Really?"
+
+"Absolutely," I agreed, wrapping an arm around Liz's shoulder and pulling her close. "We'll build a permanent perimeter."
+
+Before Casey could celebrate her tactical victory, a line of hotel waitstaff entered the room through the double doors, carrying massive, silver-domed trays. They moved with quiet, professional efficiency, placing platters of catered Pacific Northwest salmon, roasted vegetables, and towering bowls of Caesar salad down the center of the long table. 
+
+"Eat up, everyone," Cassandra commanded, grabbing a slice of roasted salmon. "We have a massive week ahead of us."
+
+"So, what is the official itinerary for this Spring Break invasion?" Tom asked, pouring Wendy a glass of water. "I assume you have a color-coded spreadsheet."
+
+"Of course I do," Cassandra smirked, completely unfazed by the teasing. "Tomorrow morning, we are taking the TAPS 545 express bus across the floating bridge to Redmond. We are doing a hard-hat tour of the new house. The ADA renovation will be completed in exactly two months, right after Casey turns eighteen. And the property is literally three blocks from Quantum's executive Building 33, so you will get to see the campus."
+
+"Oh, I cannot wait to see where you actually work," Kate smiled. 
+
+"After the Eastside tour, we are returning to the city for the rest of the week," Cassandra continued. "We have VIP tickets to the Puget Sound Aquarium, and we are going up the Century Spire."
+
+"Are we going to Pioneer Public Market?" Megan asked, lighting up. "I really want to go to the original Siren Roasters coffee shop!"
+
+"We will go to the market, but we are absolutely skipping the so-called 'original' Siren Roasters," Cassandra replied with sharp, factual disdain. "It is a tourist trap with a three-hour line, and it is historically inaccurate. The actual first location was down on Western Avenue before they demolished the building. We are not wasting operational hours on a fake landmark."
+
+"We are, however, dedicating an entire day to the Pacific Aerospace Museum down in Tukwila," I interjected, already feeling my pulse quicken at the thought. "They have an actual SR-71 Blackbird in the great gallery."
+
+"I figured we could also take the TAPS Sounder train down to Pierce County, or ride a massive passenger ferry across the Puget Sound," Liz suggested, pulling out a transit map. "The public infrastructure out here is incredible."
+
+As the pack excitedly cross-talked, hashing out the details of the week-long Seattle campaign, Cassandra reached over to the CD player. The driving 80s drum machine of the album's title cut, *Electric Color*, faded out. 
+
+She skipped directly to the end of the 1987 album. 
+
+A softer, building synthesizer hook filled the banquet room. It was Track 13. The band's eponymous track, *The Stardust Engine*. The record label had notoriously buried the band's true anthem at the very end of the album, completely failing to realize it was a masterpiece.
+
+As the soaring male rock vocals finally kicked in, singing about *'burning on the fuel of a brand new light'*, I looked around the massive banquet table. The entire Vance and Delaney pack was sitting together, laughing, completely safe inside the secure perimeter Cassandra had built. 
+
+The engine was finally running at full power.
+
