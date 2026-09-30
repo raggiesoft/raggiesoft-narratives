@@ -2596,6 +2596,12 @@ She finished her food quickly. She didn't want to linger. She wanted to get back
 ### Part 3: The Main Event
 
 # The Signal-to-Noise Ratio
+# Part 3: The Main Event
+location: "Unknown"
+end_time: ""
+---
+
+# The Signal-to-Noise Ratio
 
 ## Tuesday, November 11, 2008 — 19:30 PM The PERT Lounge, Barnett Hall
 

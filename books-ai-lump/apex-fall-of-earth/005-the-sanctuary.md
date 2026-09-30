@@ -3146,6 +3146,15 @@ They weren't just surviving anymore. They had officially named their home, layin
 ### Part 7: The Six Moons
 
 # The Pioneers
+# Part 7: The Six Moons"
+timezone: "ET"
+location: "Unknown"
+pov: "Apex Fall Of Earth"
+end_time: ""
+---
+
+# The Pioneers
+
 
 The holographic projection of the newly named Helios System hovered beautifully above the heavy glass coffee table. In the center of the recessed living room, bathed in the warm, ambient light of the geothermal fire pit, Wyatt and Sarah sat completely bare, comfortably entwined on the plush sectional sofa.
 

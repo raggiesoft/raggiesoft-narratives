@@ -1330,6 +1330,14 @@ Mr. Caldwell didn't even run the credit check. Cash of that magnitude erased all
 ### Part 7: The Early Deployment
 
 # The Commuter Protocol
+# Part 7: The Early Deployment
+timezone: "ET"
+location: "Unknown"
+pov: "Nichole"
+end_time: ""
+---
+
+# The Commuter Protocol
 
 ## Date: April 17, 2004 Time: 9:00 AM Location: The Loading Dock, The Foundry Lofts
 

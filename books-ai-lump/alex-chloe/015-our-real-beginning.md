@@ -662,6 +662,13 @@ As the song came to a close, they just held each other for a long, timeless mome
 ### Part 5: Les Danses d\'Honneur
 
 # Le Grand Jour (The Big Day)
+# Part 5: Les Danses d\'Honneur"
+location: "Unknown"
+end_time: ""
+---
+
+# Le Grand Jour (The Big Day)
+
 
 After the profound, emotional high point of their first dance, Alex and Chloé remained on the floor, hand in hand, as the Master of Ceremonies stepped back up to the microphone.
 
