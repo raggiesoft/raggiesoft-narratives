@@ -3472,9 +3472,39 @@ I wasn't isolated. I was the protected center of a sprawling, heavily fortified 
 
 The firewall was absolute. And Kristine finally realized that she hadn't just lost a boyfriend; she had gone to war with an army she couldn't possibly defeat.
 
-### Part 2: The Confrontation
+### Part 2: The Biological Hazard
 
+**Date:** 2004-12-28 at 15:15 ET
 
+The second Kristine Mercer reached the bottom of the escalator, she immediately tried to calculate an angle of approach. She was tracking me with predatory focus, completely misinterpreting the massive group dynamic surrounding me. In her twisted, deluded reality, she likely assumed that because I was out with "family," I was currently single and completely unattached. 
+
+She took three steps toward me, her eyes locking onto mine, opening her mouth to speak. 
+
+She never even got the first syllable out. 
+
+Before Kristine could close the distance, Cassandra’s electric wheelchair surged forward with startling speed, cutting off Kristine's trajectory with surgical precision. The front wheels of the power chair stopped less than two inches from Kristine's boots, forcing her to stumble backward to avoid a collision. 
+
+"Excuse me," Kristine snapped, glaring down at my sister. 
+
+"No, you are not excused," Cassandra replied, her voice dropping to a glacial, boardroom-level executive freeze that could have shattered glass. "You are currently violating the physical perimeter of this family. Step back."
+
+Kristine blinked, genuinely caught off guard by the sheer authority radiating from the wheelchair. "I just wanted to talk to David."
+
+"My brother does not speak to biological hazards," Cassandra informed her, her tone clinical and completely devoid of empathy. "And given the extensive psychological damage you attempted to inflict upon him, your continued presence in our immediate vicinity is highly offensive to me. Remove yourself."
+
+Kristine flushed a furious, mottled red. She looked up, trying to find an opening to get around Cassandra, only to realize that the entire pack had seamlessly formed a defensive wall. Mrs. Carter and Mrs. Vance had stepped forward, standing shoulder-to-shoulder behind Cassandra. Erin and Megan had flanked me on either side. 
+
+And then, Liz stepped out from the center of the formation. 
+
+She didn't raise her voice. She didn't yell. She simply walked up to stand directly beside Cassandra's chair, crossed her arms, and looked Kristine dead in the eye with a terrifying, absolute calm. 
+
+"He's done with you," Liz said, her voice quiet but carrying the undeniable weight of finality. "He's moved on. We're moving on. Do not ever approach him again."
+
+Kristine stared at Liz, then at the impenetrable wall of twenty fiercely protective people guarding me from every conceivable angle. For the first time in her life, she had absolutely zero leverage. There was no isolation tactic she could play, no manipulation she could leverage. She was completely outnumbered, entirely outclassed, and staring down a heavily defended perimeter she could never hope to breach.
+
+Without saying another word, Kristine turned on her heel and practically fled back toward the escalators. 
+
+"Target neutralized," Cassandra murmured, smoothly reversing her wheelchair back into formation. "Let's go catch the bus."
 
 ### Part 3: The Route 29 Trolley
 
@@ -3562,5 +3592,33 @@ As the massive crystal sphere hit the bottom of the pole on the broadcast and th
 
 ### Part 2: The Dual Departure
 
+**Date:** 2005-01-02 at 09:15 ET
 
+The sprawling concrete apron of the private aviation terminal at ORF was significantly busier on the morning of January 2nd than it had been when we arrived. 
+
+Two sleek, immaculate jets were parked side-by-side on the tarmac, their auxiliary power units whining loudly in the cold morning air. The larger of the two was Cassandra's dedicated Quantum corporate jet, preparing for the long cross-country haul back to BFI in Seattle. The smaller aircraft—a pristine, mid-size private charter jet—was currently being loaded with the mountain of luggage belonging to the Rhode Island Delaneys. 
+
+"I still feel like we should be paying for this," Mr. Delaney said, standing near the boarding stairs of the charter jet. He looked extremely uncomfortable with the staggering display of wealth. 
+
+"Absolutely not," Cassandra replied, locking the brakes on her wheelchair. Her tone was sharp and completely brokered no argument. "You housed my brother, fed him, and protected him for an entire week during a critical deployment. Putting you on a commercial flight back to New England after that would be an unacceptable logistical failure. The charter is paid for in full. It will drop you directly at UUU in Newport, where a black car is already waiting on the tarmac to take you to your front door in Portsmouth."
+
+"It's just how she operates," I told Mr. Delaney, offering a small, reassuring smile. "It's easier just to accept it."
+
+The farewells were chaotic, loud, and incredibly affectionate. The Virginia Beach pack had driven us to the airport in a convoy of vehicles to see everyone off. Meredith hugged me tightly, threatening me with bodily harm if I didn't keep in touch over the spring semester, while Kate and David Delaney tapped out rapid-fire farewells on their AAC devices. 
+
+Erin practically tackled me, her arms wrapping securely around my neck. 
+
+"You better come back to Rhode Island this summer," she demanded, pulling back just enough to look me in the eye. "We still haven't taken you sailing."
+
+"I'll be there," I promised. 
+
+I gave Megan, Shannon, and Kelly each a massive hug before they finally boarded their charter. As the stairs folded up and the door sealed shut, the Virginia Beach family waved from the edge of the apron. 
+
+Liz slipped her hand into mine. "You ready to go home?"
+
+I looked at her, and then over at Cassandra and Casey, who were waiting near the stairs of the Quantum jet. We were heading back to Seattle. Back to Northwest Pacific University, back to the massive corporate gravity of Quantum, and back to a semester that would finally be completely free of Kristine's shadow. 
+
+"Yeah," I said, a profound sense of peace settling over my chest. "Let's go home." 
+
+Within twenty minutes, both jets were airborne, banking in completely opposite directions as they climbed into the clear, winter sky. The perimeter was secure. The pack was safe. And for the first time in a very long time, I was genuinely excited to see what the future held.
 
