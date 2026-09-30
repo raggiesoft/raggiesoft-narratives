@@ -1068,15 +1068,21 @@ My threat-detection system was screaming, but Cassandra’s unyielding momentum 
 
 When I emerged, Cassandra was already sitting in her manual wheelchair, her messenger bag on her lap. Casey was standing right behind her, clutching her duffel bag, looking deeply relieved to be standing behind her older sister's shield.
 
-Cassandra had her silver cell phone pressed to her ear. "Yes, I need a taxi dispatched to Gateway Drive immediately." Cassandra gave the exact address to the dispatcher, her voice dropping into a brisk, transactional register. "Tell your driver there is a massive cash tip waiting for him to speed things along. We will be waiting outside on the curb."
+Cassandra had her silver cell phone pressed to her ear. She hadn't dialed a taxi dispatcher. She had dialed the only local number that mattered. 
 
-She snapped the phone shut.
+"Meredith," Cassandra said, her voice dropping into a crisp, authoritative register as the call connected. "We have a critical perimeter breach at the Gateway Drive apartment. The environment is actively toxic. I am pulling the plug on the operation. We need an immediate exfiltration."
+
+I couldn't hear Meredith's exact words through the tiny earpiece, but I could clearly hear the sharp, instantly protective tone of her voice. A second later, Morgan’s voice joined the line—Meredith had clearly put the phone on speaker. 
+
+"Understood," Cassandra replied, her shoulders relaxing slightly. "Gateway Drive. We will be waiting on the curb. Thank you."
+
+She snapped the phone shut. 
 
 Kristine realized with sudden, catastrophic clarity that her power play had just cost her everything. The anger vanished, instantly replaced by sheer, weeping desperation. She lunged forward, trying to grab my arm.
 
 "David, please!" Kristine sobbed, the crocodile tears welling up instantly. "I was just hot! Don't leave me, please, I'm sorry!"
 
-"Do not touch him," Cassandra warned, wheeling herself directly into Kristine's path, cutting off her physical access to me.
+"Do not touch him," Cassandra warned, wheeling her manual chair directly into Kristine's path, cutting off her physical access to me.
 
 "You can't take him!" Kristine cried, glaring down at Cassandra. "He lives here! He's my boyfriend!"
 
@@ -1084,7 +1090,7 @@ Kristine realized with sudden, catastrophic clarity that her power play had just
 
 Cassandra wheeled herself backward toward the front door, keeping herself between Kristine and us. She looked at Kristine, delivering the final, fatal logistical blow.
 
-"And while we wait for the cab," Cassandra added coldly, "I am calling the airline. Because when Casey and I fly back to Seattle on Sunday, I am buying David a ticket, and he is getting on that plane with us."
+"And while we wait for the rescue transport," Cassandra added coldly, "I am calling the airline. Because when Casey and I fly back to Seattle on Sunday, I am buying David a ticket, and he is getting on that plane with us."
 
 Kristine let out a dramatic, heartbroken wail, burying her face in her hands. My chest was tight with panic, the guilt threatening to drag me back, but Cassandra didn't give me a single microsecond to hesitate.
 
@@ -1096,7 +1102,7 @@ We stood on the concrete curb in the crisp November air. My heart was hammering 
 
 Cassandra engaged the brakes on her chair. She reached out and wrapped her hand warmly around my wrist, grounding me.
 
-"Take a breath, David," Cassandra said, her tone finally softening back into the sister I knew. "I know that was scary. But I will *never* let anyone treat you, or our family, like that. You are safe now."
+"Take a breath, David," Cassandra said, her tone finally softening back into the sister I knew. "I know that was scary. But I will *never* let anyone treat you, or our family, like that. Meredith and Morgan are bringing the minivan. You are safe now."
 
 ### Part 3: The Hard Sever
 
@@ -1126,31 +1132,33 @@ She wheeled her manual chair directly into the space between the walkway and the
 
 "I just want to talk to him!" Kristine cried, trying to step around the chair, the crocodile tears flowing freely. "He's my boyfriend! You are ruining our relationship over a misunderstanding!"
 
-"There is no misunderstanding," Cassandra fired back, her dark eyes completely immune to the manipulation. She saw the theatrical tears exactly for what they were. "I see exactly what you are doing. You do not get to violate my sister's boundaries and then play the victim. Step back. Now."
+Before Cassandra could fire back, a massive, dark-blue passenger minivan came roaring around the corner of the apartment complex. It slammed to a halt directly against the curb, completely blocking the street.
 
-The sheer, authoritative volume of Cassandra's voice forced Kristine to halt. She stood on the pavement, sobbing loudly, playing her final cards of manufactured panic to an audience that refused to buy it.
+The heavy sliding doors and the front passenger doors flew open simultaneously. 
 
-A pair of headlights swept over us as a yellow taxi pulled up to the curb, the engine idling loudly in the quiet street.
+Meredith and Morgan bounded out of the vehicle like a highly synchronized strike team. The first thing Kristine’s eyes darted to, with immediate, calculating jealousy, was their physical build—the absurdly massive chests sitting on their otherwise slender, athletic frames. But as I looked at the identical twins, their waist-length, natural sun-kissed ash blonde hair whipping in the wind, I didn't see an intimidation tactic. 
 
-I grabbed my nylon backpack, guiding Casey toward the rear door. As soon as I reached for the handle, Kristine lunged forward in a final, desperate panic. She grabbed the frame of the open door, trying to force her way into the backseat with us.
+I just saw my pack. 
 
-"I'm coming with you!" Kristine cried, trying to wedge her shoulder past mine. "We can go back to Virginia Beach together, just the two of us, David!"
+They completely ignored Kristine. Meredith zeroed in on Cassandra, immediately stepping to the rear of the chair to assist with the transfer, while Morgan marched straight up to me on the curb. 
 
-Cassandra reached out and slammed her hand firmly against the door frame, physically blocking Kristine from entering the vehicle. She looked directly at the driver in the front seat.
+Morgan didn't hesitate. She threw her arms around my neck, pulled me into a fierce, protective hug, and kissed me squarely on the lips right in front of Kristine. 
 
-"Sir, this ride is strictly for me and my two siblings," Cassandra instructed, her tone perfectly calm and commanding. "This woman is not getting in this vehicle."
+"Get your bags in the back," Morgan ordered softly, pulling back just enough to look me in the eye. "We're going home."
 
-The driver took one look at Cassandra's unyielding expression and nodded, shifting the car into gear. "You got it, ma'am. Ma'am, step away from the cab."
+Kristine stood completely frozen on the walkway, her jaw practically on the concrete. Her brain short-circuited trying to process the sheer audacity of two absolutely gorgeous women showing up in a minivan, entirely disregarding her authority, and kissing her boyfriend. 
 
-Kristine froze, her hands slipping off the yellow metal. The panic in her eyes was genuine now. The realization that she had completely lost control of the perimeter—that her hostage was actually, physically leaving—finally hit her.
+"You can't just take him!" Kristine finally shrieked, taking a step toward the minivan. "He lives here!"
 
-Cassandra locked eyes with Kristine one last time. There was no diplomacy left, only the absolute, cold finality of an older sister neutralizing a threat.
+Meredith turned away from loading Cassandra’s messenger bag and looked Kristine dead in the eye.
 
-"Delete his number," Cassandra told her, her voice dropping to a glacial whisper that carried over the idling engine. "And do not ever call him again."
+"His name isn't on your lease, and his driver's license still says Virginia Beach," Meredith said, her voice dropping into a tone of absolute, terrifying finality. "He belongs with us."
 
-Cassandra pulled herself smoothly into the front passenger seat, tossing her chair in the trunk, and slammed her door shut.
+"Delete his number," Cassandra told Kristine, securing herself in the passenger seat of the minivan. "And do not ever call him again."
 
-I sat in the middle of the backseat, sandwiched safely next to Casey, who immediately rested her head on my shoulder. I looked out the window as the taxi accelerated away from the curb. Kristine was left standing completely alone in the cold November night, growing smaller and smaller in the rearview mirror until the taxi turned the corner, leaving her entirely in the dust.
+Meredith smoothly loaded Cassandra's manual chair into the back while Morgan guided Casey and me into the middle row of seats. The heavy sliding door slammed shut, instantly severing the cold wind and the chaotic noise of the street. 
+
+I sat sandwiched safely next to Casey, who immediately rested her head on my shoulder. I looked out the tinted window as the minivan accelerated away from the curb. Kristine was left standing completely alone in the cold November afternoon, growing smaller and smaller in the rearview mirror until Meredith turned the corner, leaving her entirely in the dust.
 
 ## Chapter 9: The Crossroads
 
@@ -1158,19 +1166,29 @@ I sat in the middle of the backseat, sandwiched safely next to Casey, who immedi
 
 **Date:** 2004-11-25 at 15:15 ET
 
-The cab ride back to Virginia Beach was completely silent. Cassandra had maintained a strict, impenetrable operational security for the entire forty-minute drive. She didn't say a single word about the kitchen, or the sidewalk, or Kristine. She just sat in the front seat, staring straight ahead, waiting until we were safely behind closed doors. When the taxi finally pulled into my parents' driveway, she handed the driver his fare along with a massive, generous cash tip for his complete discretion.
+The drive back to Virginia Beach in the back of the Delaney minivan was intense. The second the heavy sliding doors slammed shut and we were safely enclosed within the pack's perimeter, Meredith and Morgan immediately initiated a debrief.
 
-We hauled our bags up to the front door. The second I turned the key and the heavy door clicked open, the suffocating, atmospheric pressure of the last twenty-four hours vanished. 
+"I am so sorry I didn't see it," I whispered into the quiet hum of the van's engine, still sandwiched between Casey and Cassandra. "I thought... I thought I could fix it. I thought she was just insecure."
 
-The house was packed. 
+"You can't fix someone who uses tears as a weapon, David," Morgan said from the passenger seat, turning around to look at me. "The second I kissed your cheek at Tidewater Square Mall two months ago, she looked at Meredith and me like we were active threats. She didn't see us as family. She saw us as competition."
 
-Mom and Dad were standing in the entryway, their faces tight with concern, having clearly been briefed by Cassandra on the phone while we were waiting for the cab. But they weren't alone. Standing right behind them in the living room were Meredith, Morgan, Kate, and David Delaney. 
+"It was a classic isolation tactic," Cassandra agreed, her voice perfectly steady in the dark cabin. "She saw how expansive your support structure was, and she actively attempted to sever it. She wanted to be the only person inside your perimeter."
 
-"David!" Meredith rushed forward, throwing her arms around my neck and pulling me into a crushing, desperate hug. 
+"And your caretaking protocols were overriding your threat detection," Meredith added gently from the driver’s seat, glancing at me in the rearview mirror. "She made you feel like you were entirely responsible for her emotional stability, so you just kept accommodating her to keep the peace. But we saw it, David. The entire pack has had a high-alert perimeter drawn around you since September. We were never going to let her take you."
+
+The realization hit me like a physical weight. While I thought I was managing the situation alone, the entire East Coast and West Coast pack had been actively monitoring the threat, ready to mobilize the second she crossed the line. 
+
+When Meredith finally pulled the minivan into my parents' driveway, the suffocating, atmospheric pressure of the last twenty-four hours vanished. 
+
+The house was packed.
+
+Mom and Dad were standing in the entryway, their faces tight with concern, having clearly been briefed by Cassandra while we were waiting on the curb. But they weren't alone. Waiting right behind them in the living room were Kate and David Delaney. 
+
+"David!" Mom rushed forward, throwing her arms around my neck and pulling me into a crushing, desperate hug. 
 
 "I'm okay," I whispered, burying my face in her shoulder as the adrenaline finally started to crash. "I'm okay."
 
-Meredith pulled back, her eyes scanning my face for injuries before she stepped aside to let the rest of the pack in. Morgan wrapped her arms tightly around my waist, Kate hugged me from the side, and David Delaney gripped my shoulder firmly, his expression grim but fiercely supportive. The physical boundaries were non-existent, and the sheer volume of unconditional love radiating from the pack was completely overwhelming. They had all dropped their Thanksgiving plans the exact second they heard Kristine had escalated. 
+Mom pulled back, her eyes scanning my face for injuries before she stepped aside. Kate wheeled forward and hugged me tightly from the side, while David Delaney gripped my shoulder firmly, his expression grim but fiercely supportive. Meredith and Morgan walked in right behind me, sealing the front door shut. The physical boundaries were non-existent, and the sheer volume of unconditional love radiating from the pack was completely overwhelming. They had all dropped their Thanksgiving plans the exact second they heard Kristine had escalated. 
 
 Casey dropped her bag in the hallway and immediately burst into tears. "I just wanted a nice Thanksgiving dinner," she sniffled, wiping her eyes with the back of her sleeve. "I'm not mad at you, David, I just... I wanted turkey and stuffing, and for us to all be together."
 
@@ -1212,9 +1230,11 @@ Cassandra set her silver cell phone on the coffee table.
 
 **Date:** 2004-11-25 at 15:30 ET
 
-I sat on the edge of the hotel bed, my eyes locked on the silver flip phone resting on the small table. Casey was still pressed flush against my side, her breathing finally evening out as the deep-pressure contact did its job.
+I sat leaning against the headboard of my childhood bed, my arms wrapped securely around Casey. She was curled into my chest, her breathing finally evening out as the deep-pressure contact did its job. She was still visibly rattled by the sheer, naked hostility of the kitchen ambush, and even though Cassandra had explicitly told me I had nothing to apologize for, this was my way of saying I was sorry for dragging her into a hostile environment. 
 
-To my left, Cassandra sat perfectly still in her travel chair, letting me process the monumental scale of the safety net she had just deployed. My internal processor, which had been violently redlining since the kitchen ambush, began to physically cool down. I mentally looped a heavy, predictable rhythm in my head, letting the steady beat regulate my system.
+The bedroom was absolutely packed. Morgan and Meredith were sitting cross-legged at the foot of my bed, Kate's wheelchair was parked near the closet, and David Delaney was leaning casually against the doorframe. To my left, Cassandra sat perfectly still in her travel chair, letting me process the monumental scale of the safety net the pack had just deployed around me. 
+
+My internal processor, which had been violently redlining all day, began to physically cool down. Surrounded by the impenetrable perimeter of my family and the Virginia Beach pack, I mentally looped a heavy, predictable rhythm in my head, letting the steady beat regulate my system.
 
 "I can't choose," I finally whispered, the sheer frustration of the binary decision making my chest ache. "I want both of my options, Cass. I want you and Casey, and I want Liz."
 
@@ -1238,7 +1258,7 @@ Cassandra offered a small, calm smile. "David, do you actually know what I do at
 
 "Building 33 is the executive suite, David," Cassandra clarified gently, her tone completely matter-of-fact. "I am on the same floor as William Keswick. I am the youngest executive in the building."
 
-The air in the hotel room seemed to physically shift. My processor completely froze as the data points violently realigned.
+The air in my childhood bedroom seemed to physically shift. My processor completely froze as the data points violently realigned.
 
 I knew exactly who William Keswick was—everyone did. He was the architect of the modern digital age, the billionaire founder of Quantum. I had always known my sister was smart, but I had entirely misunderstood her scale. She hadn't just gotten a good job out in Seattle; she had walked into the most powerful tech corporation on the planet, put her head down, paid her dues, outworked everyone in the room, and taken a seat at the absolute pinnacle of the empire.
 
@@ -1254,163 +1274,173 @@ I could board a plane on Sunday, leave the east coast entirely, and build a new 
 
 I gently untangled my arm from Casey, who let out a soft, sleepy hum of protest, and stood up from the bed. I walked over to the small table and picked up Cassandra’s silver phone.
 
-I flipped it open, staring at the blank screen, the dial pad waiting for my input. The hotel room was perfectly quiet. I had a choice to make.
+I flipped it open, staring at the blank screen, the dial pad waiting for my input. The bedroom was perfectly quiet. I had a choice to make.
 
-### Part 3: The Summer Frequency
+### Part 3: The Hard Sever
 
-**Date:** 2004-11-25 at 16:00 ET
+**Date:** 2004-11-25 at 15:45 ET
 
-The ambient hum of the Virginia Beach hotel room was the only sound in the space. Casey was a warm, heavy anchor against my right side, and Cass was sitting patiently in her chair to my left, giving my processor the quiet space it needed to run the massive logistical calculations.
+I took a deep breath, letting the physical presence of the pack ground me. I wasn't losing my life. I was taking it back.
 
-I traced the edge of the keypad with my thumb, trying to properly categorize the grief that had been threatening to crush me all afternoon.
+I flipped Cassandra’s silver phone open. My thumbs instinctively punched in the ten digits I hadn't been allowed to dial since September. 
 
-When Cass had forcefully dragged me out of that Portsmouth apartment, my threat-detection system had screamed that I was losing everything. But as the adrenaline finally flushed out of my bloodstream, the actual timeline of the data came into sharp, undeniable focus. It was Thanksgiving night. I had met Kristine on September 3rd. It had been less than twelve weeks. In the grand scope of my life, the relationship hadn't even fully gotten off the ground before it catastrophically stalled. The "milestone" of having an adult girlfriend was nothing but a fragile mirage built on isolation and control.
+"Put it on speaker," Meredith instructed from the foot of my bed. "And let me conference in Rhode Island."
 
-I took a deep breath, and the panic fully evaporated. I wasn't losing my life. I was taking it back.
+I nodded, tapping the speaker button as Meredith reached over and dialed the Portsmouth, RI household into the call. The lines merged. 
 
-I flipped the phone open. My thumbs instinctively punched in the ten digits I hadn't been allowed to dial since September.
+"Hello?" Liz’s voice was slightly raspy, sleepy, but instantly recognizable from her Dayton dorm room.
 
-As the phone began to ring, my mind flashed back to the last time I had seen her. It was the summer of 2004, right after Liz had finished her freshman year at SVU. Cass had flown both of us out to Washington State. For two glorious weeks, the entire pack had been completely intact. I remembered the exact feeling of sitting on the floor of Cass's Federal Way apartment, sandwiched tightly between Liz and Casey, completely insulated from the outside world while Cass cooked dinner in the kitchen.
+"Delaney household, who is this?" Erin's voice boomed over the line from Rhode Island, backed by the chaotic noise of her sisters. 
 
-The line clicked.
+My throat tightened. "Hey, Liz. Hey, Erin. It's David."
 
-"Hello?" The voice on the other end was slightly raspy, sleepy, but instantly recognizable.
+There was a microsecond of silence before the entire phone feed exploded. 
 
-My throat tightened. "Hey, Liz."
+"David? Oh my god!" Liz gasped. "Are you okay? Where are you? Why are you calling from a Seattle number?"
 
-There was a microsecond of silence, followed by the immediate sound of rustling sheets. "David? Oh my god. Are you okay? Where are you? Why are you calling from a Seattle number?"
+"I'm with Cass and Casey. We're in my bedroom in Virginia Beach," I explained, my voice shaking just a fraction. "Morgan and Meredith are here too. Kristine and I are done."
 
-"I'm with Cass and Casey. We're at a hotel in Virginia Beach," I explained, my voice shaking just a fraction. "Kristine and I are done. She crossed a massive line with Casey today, and Cass completely pulled the plug on the operation. We packed my bags and left."
+The Rhode Island line went completely quiet. "What happened, Vance?" Erin asked, her tone instantly shifting from rowdy to dangerously protective. "We knew she was isolating you, but what did she do?"
 
-"Thank god," Liz breathed. There wasn't a single ounce of hesitation, no requests for Kristine's side of the story. Liz’s loyalty was instantaneous and absolute. "I am so glad Cass was there to get you out. Are you safe? Is Casey okay?"
+Cassandra leaned forward in her travel chair. "She executed a naked territorial display."
 
-"We're perfectly safe," I promised. I leaned my head back against Casey’s hair. "But I have a logistical problem, Liz. And I don't know what to do."
+"She what?" Megan demanded from Rhode Island. 
 
-"Tell me," Liz commanded softly, shifting into the exact same pragmatic, problem-solving baseline that Cass operated on.
+"She walked into the kitchen wearing absolutely nothing while Casey was sitting in the living room," Cassandra reported, her voice glacial. "It was a deliberate, unvarnished power play to establish dominance over the apartment. I pulled the plug on the operation immediately. We packed his bags, and the Virginia Beach pack executed an immediate exfiltration."
 
-"I can't stay in Hampton Roads," I said. "Cass gave me two choices. I can pack my bags, go to the airport on Saturday, and fly to Washington with her and Casey. I'd move into her apartment in Federal Way, and she's going to pay my tuition for NPU." I swallowed hard. "Or I can go to Dayton. I can move in with you, and Cass is going to pay my tuition for SVU. But I don't even have a car, Liz. The one we used yesterday was Mom's."
+"Are you out of your mind?!" Chloe yelled over the Rhode Island feed. "She got naked in front of Casey?!"
 
-"That is just a transportation variable, David, we can easily solve that," Liz corrected instantly, her tone ringing with absolute, undeniable certainty. "Listen to me very carefully. If you choose Dayton, my parents—or even Wendy—will absolutely volunteer to drive you halfway to Richmond. I will drive down from the Valley, meet you in Richmond, and bring you the rest of the way home. You can stay exactly where you are until Saturday so you can see Cass and Casey off at their terminal, and then immediately head to Richmond to meet me."
+"That is completely unhinged," Liz breathed from Dayton. There wasn't a single ounce of hesitation, no requests for Kristine's side of the story. Her loyalty was instantaneous. "I am so glad Cass and the twins got you out of there. Are you safe? Is Casey okay?"
 
-The line went quiet for a second as she let the logistics settle before adding the final, critical piece of data.
+"We're perfectly safe," I promised, leaning my head back against Casey’s hair as she squeezed my waist. "But I have a logistical problem, Liz. And I don't know what to do."
 
-"And if you choose to go to Federal Way," Liz continued, her voice fiercely gentle, "and you board that plane with your sisters on Saturday, I will be your girlfriend. We will do long-distance, and the absolute second I am done with my classes at SVU, I am packing my bags and moving to Washington State to be with you and the girls."
+"Tell me," Liz commanded softly, shifting into the exact same pragmatic, problem-solving baseline that Cassandra operated on.
+
+"I can't stay in Hampton Roads," I said. "Cass gave me two choices. I can fly to Washington with her on Sunday. I'd move into her apartment in Federal Way, and she's going to pay my out-of-state tuition for NPU." I swallowed hard. "Or I can go to Dayton. I can move in with you, and Cass is going to pay my tuition for SVU. But I don't even have a car, Liz."
+
+"That is just a transportation variable, David, we can easily solve that," Liz corrected instantly. "Listen to me very carefully. If you choose Dayton, my parents—or Wendy—will absolutely drive you halfway to Richmond. I will drive down from the Valley and bring you the rest of the way home. You can stay in Virginia Beach until Sunday to see Cass and Casey off, and then immediately head to Richmond to meet me."
+
+The line went quiet for a second before she added the final, critical piece of data.
+
+"And if you choose to go to Federal Way," Liz continued, her voice fiercely gentle, "and you board that plane with your sisters, I will be your girlfriend. We will do long-distance, and the absolute second I am done with my classes at SVU, I am packing my bags and moving to Washington State to be with you and the girls."
 
 I blinked, the tears finally spilling over my eyelashes. "You'd do that?"
 
-"In a heartbeat," Liz promised. "And if you choose to come to Dayton, I will be your girlfriend. We will live together, we will go to SVU, and whenever we are ready, we will move out to the west coast together. It doesn't matter which geographic coordinate you pick tonight, David. We are going to end up together."
+"In a heartbeat," Liz promised. "And if you choose to come to Dayton, I will be your girlfriend. We will live together, go to SVU, and whenever we are ready, we will move out to the west coast together. It doesn't matter which geographic coordinate you pick tonight, David. We are going to end up together."
 
-My chest hitched. "You're sure?"
+"You're sure?"
 
-"I have never been more sure of anything in my life," Liz said. "You are going to get all the hugs, all the deep pressure, and all the love you need, no matter what you decide. If you fly out on Saturday, Cass and Casey have you. If you get a ride to Richmond, I have you. You are not losing anyone tonight, David. Just tell me what your system needs right now."
+"I have never been more sure of anything in my life," Liz said. "If you fly out on Sunday, Cass and Casey have you. If you get a ride to Richmond, I have you. You are not losing anyone tonight, David. Just tell me what your system needs right now."
 
-I sat on the edge of the bed, the phone pressed tightly to my ear. I looked to my left. Cass was watching me, her dark eyes radiating pure, unconditional protection. I looked down to my right. Casey was still clinging to my side, her fingers loosely gripping the fabric of my shirt.
+The toxic, suffocating perimeter Kristine had built around me was entirely gone. In its place was a massive, impenetrable fortress constructed by the women I trusted with my life.
 
-The toxic, suffocating perimeter Kristine had built around me was entirely gone. In its place was a massive, impenetrable fortress constructed by the three women I trusted with my life.
-
-I took a long, deep breath, letting the steady rhythm of my internal baseline completely synchronize. The agonizing friction of the choice finally dissolved. There was no wrong answer.
+I took a long, deep breath. The agonizing friction of the choice finally dissolved. There was no wrong answer.
 
 "Okay," I whispered into the phone. "I know what I'm going to do."
 
 But the words barely cleared my throat before a massive, structural fracture shot through my internal processor. My breath hitched, catching painfully in my chest.
 
-I looked down at Casey. Her eyes were closed, her dark eyelashes resting against her cheeks, her breathing perfectly synchronized with mine as she absorbed the deep pressure of our contact.
+I looked down at Casey. Her eyes were closed, her dark eyelashes resting against her cheeks, her breathing perfectly synchronized with mine.
 
-The reality of the Dayton logistics suddenly rendered in excruciating detail.
-
-If I chose the Shenandoah Valley, Casey would cry. I knew exactly how it would play out. She would process the logic flawlessly, and she would completely respect my autonomy to choose Liz, but understanding the math wouldn't stop the devastation. On Saturday morning, standing at the departure gate, she would have to let go of my hand. She would have to turn around, walk down the jet bridge, and fly three thousand miles away without me. The thought of my little Casey weeping in an airport terminal, completely starved of our baseline proximity, made my stomach violently twist.
+If I chose the Shenandoah Valley, Casey would cry. On Sunday morning at the departure gate, she would have to let go of my hand, walk down the jet bridge, and fly three thousand miles away without me. The thought of my little Casey weeping in an airport terminal, completely starved of our baseline proximity, made my stomach violently twist.
 
 But if I chose Federal Way, I would be doing the exact same thing to Liz. I would be leaving my best friend entirely behind on the east coast.
 
-A heavy, suffocating wave of grief crashed over me, instantly short-circuiting the calm I had just achieved. I squeezed my eyes shut, fresh tears spilling down my face and dropping onto Casey's hair.
+A heavy, suffocating wave of grief crashed over me, instantly short-circuiting the calm I had just achieved. I squeezed my eyes shut, fresh tears spilling down my face. 
 
-I didn't want the future. I didn't care about the ironclad logistical promise that Liz would pack her bags and move to Washington State in six months. I didn't care that Cass had the corporate wealth to fly us all back and forth across the country every single break. Six months was an absolute eternity.
+I didn't want the future. I didn't care about the ironclad logistical promise that Liz would move to Washington State in six months, or that Cassandra had the corporate wealth to fly us all back and forth. Six months was an absolute eternity.
 
 I wanted my pack *now*.
 
-I wanted the four of us, together, instantly. I wanted to be sitting on the floor, sandwiched securely between my two sisters and my best friend, insulated from the rest of the world exactly like we were when we were kids growing up. My system didn't just prefer all three of them; it desperately required them. Every single second that our pack remained geographically fractured felt like a catastrophic, unresolvable error in my environment.
+I wanted all of them, together, instantly. Every single second that our pack remained geographically fractured felt like a catastrophic, unresolvable error in my environment.
 
-"David?" Liz's voice came through the earpiece, instantly detecting the sudden, ragged shift in my breathing. The absolute certainty in her tone shifted into immediate concern. "Hey. Talk to me. What just happened?"
+"David?" Liz's voice came through the earpiece, instantly detecting the sudden, ragged shift in my breathing. "Hey. Talk to me. What just happened?"
 
-Cass leaned forward in her travel chair, her dark eyes locking onto my face. She immediately read the paralyzing grief pulling me under.
+Cassandra leaned forward in her travel chair, her dark eyes locking onto my face. She immediately read the paralyzing grief pulling me under. Morgan and Meredith both shifted closer on the edge of the bed.
 
-"I can't do it," I choked out, my voice cracking so hard it barely sounded like me. I gripped the phone tighter, burying my face into the top of Casey’s head. "Liz, I can't. If I go with you, Casey is going to cry at the airport. She's going to be crushed. But if I leave with them, I don't have you."
+"I can't do it," I choked out, my voice cracking so hard it barely sounded like me. I gripped the phone tighter, burying my face into the top of Casey’s head. "Liz, I can't. If I go with you, Casey is going to cry at the airport. But if I leave with them, I don't have you."
 
-Casey stirred against my side. She blinked her eyes open, feeling the sudden tension radiating off my ribs. She looked up at me, her own eyes instantly welling with tears as she registered my distress. She didn't say a word; she just wrapped her arms tighter around my torso, trying to physically crush the sadness out of my system.
+Casey stirred against my chest. She blinked her eyes open, her own eyes instantly welling with tears as she registered my distress. She didn't say a word; she just wrapped her arms tighter around my torso, trying to physically crush the sadness out of my system.
 
 "I don't want to wait until the spring," I sobbed quietly into the phone, completely dropping the mask. "I want all of you. Right now. I just want my family."
 
 ### Part 4: The Twenty-One Day Bridge
 
-**Date:** 2004-11-25 at 16:30 ET
+**Date:** 2004-11-25 at 16:00 ET
 
-The silence on the line was deafening, save for the ragged, uneven sound of my breathing. I had completely buried my face in Casey’s hair, my hands clutching the silver phone so tightly my knuckles were white.
+The silence on the line was deafening, save for the ragged, uneven sound of my breathing. I had completely buried my face in Casey’s hair, my hands clutching the silver phone so tightly my knuckles were white. 
 
-"David?" Liz’s voice came back through the earpiece. It was a fragile, heartbroken whisper. The absolute, ironclad certainty that had anchored her just a moment ago was completely gone, shattered by the raw agony in my confession.
+"David?" Liz’s voice came back through the speakerphone. It was a fragile, heartbroken whisper. 
 
-I could hear her breath hitching on the other end. She wasn't just my best friend; she was part of the pack. She understood my system, but more importantly, she understood Casey. She knew exactly what my little sister’s deep-pressure baseline required, and she loved Casey just as fiercely as she loved me.
+I could hear her breath hitching on the other end, alongside the quiet, stunned silence of the Rhode Island household. Liz wasn't just my best friend; she was part of the pack. She understood my system, but more importantly, she understood Casey. She knew exactly what my little sister’s deep-pressure baseline required. 
 
-"Oh, David..." Liz choked out, the tears finally breaking through her composure. "I know. I know you do. And I would never, ever ask you to leave Casey crying at an airport gate. I can't do that to her, and I can't do that to you."
+"Oh, David..." Liz choked out, the tears finally breaking through her composure. "I know. I know you do. And I would never, ever ask you to leave Casey crying at an airport gate."
 
 "But I need *you*," I sobbed, the conflicting gravitational pulls threatening to rip me apart. "I can't go to Seattle and leave you here. I can't do it, Liz. I just want my pack."
 
-"I know," Liz wept softly. She was completely paralyzed by the same impossible math. "I don't know how to fix this, David. I'm so sorry. I don't know how to make it right."
+"I know," Liz wept softly. "I don't know how to fix this, David. I'm so sorry."
 
-I squeezed my eyes shut, the devastating reality of the stalemate settling heavily over the hotel room.
+I squeezed my eyes shut, the devastating reality of the stalemate settling heavily over my childhood bedroom. 
 
-Suddenly, a hand gently covered mine.
+Suddenly, a hand gently covered mine. 
 
-I opened my eyes. Cass had wheeled her chair directly in front of the bed. Her dark eyes weren't filled with grief; they were sharp, calculating, and entirely composed. The emotional paralysis of the room hadn't affected her in the slightest. Where Liz and I saw an impenetrable emotional wall, Cassandra Vance saw a logistical puzzle that simply required more computational power.
+I opened my eyes. Cassandra had wheeled her chair directly in front of the bed. Her dark eyes weren't filled with grief; they were sharp, calculating, and entirely composed. The emotional paralysis of the room hadn't affected her in the slightest. Where Liz and I saw an impenetrable emotional wall, Cassandra Vance saw a logistical puzzle that simply required more computational power. 
 
-She gently but firmly pulled the silver flip phone out of my trembling fingers.
+She gently but firmly pulled the silver flip phone out of my trembling fingers. 
 
-"Elizabeth, it's Cass," she said, raising the phone to her ear. Her voice was terrifyingly calm—the exact, unyielding frequency of a Quantum executive stepping into a boardroom that was on the verge of a panic attack.
+"Elizabeth, it's Cass," she said, leaning toward the speakerphone. Her voice was terrifyingly calm—the exact, unyielding frequency of a Quantum executive stepping into a boardroom on the verge of a panic attack. 
 
-I heard Liz sniffle loudly through the tiny speaker. "Cass, I don't know what to do. He needs all of us."
+I heard Liz sniffle loudly. "Cass, I don't know what to do. He needs all of us."
 
-"I am aware," Cass replied smoothly, her dark eyes never leaving my face. She reached out, resting her free hand securely on my knee, providing a steady, grounding point of contact. "And he is absolutely right. Leaving our pack geographically fractured is a structural failure, and I do not accept failure. Dry your tears, Liz. I am fixing this."
+"I am aware," Cassandra replied smoothly, her dark eyes never leaving my face. She reached out, resting her free hand securely on my knee, providing a steady, grounding point of contact. "And he is absolutely right. Leaving our pack geographically fractured is a structural failure, and I do not accept failure. Dry your tears, Liz. I am fixing this."
 
-"Liz, listen to me," Cass said, switching her phone to speaker mode and setting it on the nightstand between us so the entire pack could hear. "What is your current GPA at SVU?"
+"Liz, listen to me," Cassandra commanded. "What is your current GPA at SVU?"
 
-"A 3.8," Liz sniffled from the earpiece, her voice trembling. "Why?"
+"A 3.8," Liz sniffled from the earpiece. "Why?"
 
-"And David is sitting on a solid 3.5," Cass continued smoothly. "It is Thanksgiving night, Elizabeth. The drop deadline for your schools passed in October. If either of you withdraw right now, you receive automatic Fs on your transcripts. That is an absolute non-starter. Neither of you is destroying your academic record."
+"And David is sitting on a solid 3.5 at his community college," Cassandra continued. "It is Thanksgiving night, Elizabeth. The drop deadline for your schools passed in October. If either of you withdraw right now, you receive automatic Fs on your transcripts. That is an absolute non-starter."
 
-Liz went silent on the other end as the reality of the calendar hit her.
+Liz went silent on the other end as the reality of the calendar hit her. 
 
-"Casey has high school in Federal Way," Cass laid out, calculating the variables at lightning speed. "She cannot miss her classes on Monday. So on Saturday morning, Casey and I are getting on our flight and flying back to Seattle. However, we are not talking about months or years. We are talking about twenty-one days. Three weeks."
+"Casey has high school in Federal Way," Cassandra laid out, calculating the variables at lightning speed. "She cannot miss her classes on Monday. So on Sunday, Casey and I are flying back to Seattle. However, we are not talking about months or years. We are talking about twenty-one days. Three weeks."
 
-Cass looked directly at me, her dark eyes sharp and decisive.
+Cassandra looked directly at me, her dark eyes sharp and decisive. 
 
-"David, you cannot go to Dayton tomorrow," Cass stated flatly, instantly correcting the geographical flaw in my fantasy. "Dayton is a four-hour drive from Virginia Beach. You cannot commute across the entire state of Virginia every single day to finish your classes, and you cannot afford to fail them."
+"David, you cannot go to Dayton tomorrow," Cassandra stated flatly. "Dayton is a four-hour drive from Virginia Beach. You cannot commute across the entire state of Virginia every single day to finish your classes. You are moving back into this house tomorrow. You will stay with Mom and Dad for the next twenty-one days to take your final exams."
 
-My chest tightened, the panic threatening to flare up again. "Then where do I go? I can't go back to Portsmouth."
+"And what about me?" Liz asked through the phone.
 
-"You are moving back into Mom's house in Virginia Beach tomorrow," Cass commanded gently. "It is literally within walking distance of the campus. You will stay with Wendy and Tom for the next twenty-one days to take your final exams and close out your semester."
+"You stay anchored in Dayton and ace your SVU finals," Cassandra replied. "Because on December 17th—the exact day final exams end for both of you—I am flying both you and David out to Seattle. First class. The four of us will spend the entire winter break together in Federal Way. A full month of total pack consolidation."
 
-"And what about me?" Liz asked through the phone, her voice thick with residual tears.
+She paused, letting the scope of the plan sink into the room. 
 
-"You stay anchored in Dayton and ace your SVU finals," Cass replied. "Because on December 17th—the exact day final exams end for both of you—I am flying both you and David out to Seattle. First class. The four of us will spend the entire winter break together in Federal Way. A full month of total pack consolidation."
+"And during those three weeks while you two wrap up your fall semester," Cassandra added, "I will personally file Liz's transfer paperwork for Northwest Pacific University, pay her application fees, and secure housing for all of us in Washington State. But nobody gets an F, nobody gets left behind, and in twenty-one days, the entire pack is under my roof."
 
-She paused, letting the scope of the plan sink into the room.
+On the other end of the phone, Liz let out a long, shuddering breath that sounded half like a laugh and half like a sob. "Cass... that actually works."
 
-"And during those three weeks while you two wrap up your fall semester," Cass added, "I will personally file Liz's transfer paperwork for Northwest Pacific University, pay her application fees, and secure housing for all of us. When Spring 2005 hits, we evaluate if Liz finishes her spring at SVU or transfers early. But nobody gets an F, nobody gets left behind, and in twenty-one days, the entire pack is under my roof."
+"Of course it works," Cassandra said with a subtle, confident smirk. "I don't draft broken logistics."
 
-On the other end of the phone, Liz let out a long, shuddering breath that sounded half like a laugh and half like a sob. "Cass... that's... that actually works."
+I pulled Casey tighter against my chest. The logic was flawless, but the immediate reality still loomed. "Cass, if you and Casey fly back on Sunday... I'm going to be alone here for three weeks."
 
-"Of course it works," Cass said with a subtle, confident smirk. "I don't draft broken logistics."
+"No, you aren't," Morgan said instantly. 
 
-She looked at me and Casey. "Three weeks. Can you two handle three weeks of a geographical compromise if you know, with one hundred percent certainty, that you're being reunited on December 17th?"
+I looked up. The Virginia Beach pack had formed a physical barricade at the foot of my bed. Morgan and Meredith were both leaning forward, their expressions fierce and unyielding. 
 
-Casey looked up at me. The tears were still pooling in her eyes, but the terrifying panic of being permanently separated was gone. She looked at Cass, then back at me, and gave a small, resolute nod.
+"You aren't spending a single second of those twenty-one days alone, Vance," Erin's voice boomed protectively through the speakerphone from Rhode Island. 
 
-"Three weeks," Casey rasped quietly. "I can do three weeks if I get him for all of Christmas."
+"Erin is right," Meredith promised, looking me dead in the eye. "We are going to practically live at this house until December 17th. Or you can sleep in the garage barracks with us. We will drive you to your classes, we will help you study for your finals, and we will keep your perimeter completely locked down. Kristine won't be able to get within ten miles of you."
 
-I pulled Casey into a crushing, deep-pressure hug, my chest swelling with a wave of relief so massive it made my head spin. The rock and the hard place had simply been pulverized by Cassandra Vance's sheer executive willpower. I wouldn't get Liz's physical presence tonight, but I was fully anchored to her frequency, and I was entirely safe.
+*“WE HAVE YOU,”* David Delaney’s AAC device spoke up from the doorway, his synthesized voice cutting clearly through the emotional weight of the room. Kate nodded emphatically from her wheelchair next to him. 
 
-"Liz?" I called out to the phone, a real smile finally breaking across my face.
+The tears welling in my eyes weren't from grief anymore. They were from a wave of relief so massive it made my head spin. I wouldn't get Liz, Cass, or Casey's physical presence for three weeks, but I was entirely safe, entirely loved, and fully anchored to my Virginia Beach pack. 
 
-"I'll see you on December 17th, David," Liz promised, her voice radiating pure warmth and unconditional love. "Study hard. I love you."
+"Three weeks," Casey rasped quietly, looking up at me from my chest. "I can do three weeks if I get you for all of Christmas."
+
+I pulled Casey into a crushing, deep-pressure hug. The rock and the hard place had simply been pulverized by Cassandra Vance's sheer executive willpower and the Delaneys' unconditional loyalty. 
+
+"Liz?" I called out to the phone, a real smile finally breaking across my face. 
+
+"I'll see you on December 17th, David," Liz promised, her voice radiating pure warmth. "Study hard. I love you."
 
 ## Chapter 10: The Severance
 
