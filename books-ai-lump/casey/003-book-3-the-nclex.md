@@ -291,7 +291,7 @@ Before Casey could celebrate her tactical victory, a line of hotel waitstaff ent
 
 "Eat up, everyone," Cassandra commanded, grabbing a slice of roasted salmon. "We have a massive week ahead of us."
 
-"So, what is the official itinerary for this Spring Break invasion?" Tom asked, pouring Wendy a glass of water. "I assume you have a color-coded spreadsheet."
+"So, what is the official itinerary for this Spring Break invasion?" my dad asked, pouring my mom a glass of water. "I assume you have a color-coded spreadsheet."
 
 "Of course I do," Cassandra smirked, completely unfazed by the teasing. "Tomorrow morning, we are taking the TAPS 545 express bus across the floating bridge to Redmond. We are doing a hard-hat tour of the new house. The ADA renovation will be completed in exactly two months, right after Casey turns eighteen. And the property is literally three blocks from Quantum's executive Building 33, so you will get to see the campus."
 
@@ -316,4 +316,574 @@ A softer, building synthesizer hook filled the banquet room. It was Track 13. Th
 As the soaring male rock vocals finally kicked in, singing about *'burning on the fuel of a brand new light'*, I looked around the massive banquet table. The entire Vance and Delaney pack was sitting together, laughing, completely safe inside the secure perimeter Cassandra had built. 
 
 The engine was finally running at full power.
+
+### Part 6: The Bellevue Acquisition
+
+**Date:** 2005-03-18 at 20:30 PT
+
+By the time we rode the elevators back up to the twelfth floor, the travel exhaustion had finally started to catch up with the pack. The adults retreated to their respective suites across the hall, leaving the core perimeter in the massive living room of the Presidential Suite. 
+
+I collapsed onto the corner of the heavy sectional sofa, pulling Liz down with me. Casey was sprawled out on the rug next to Chloe and Claire, aggressively debating the merits of various Seattle tourist traps, while Megan and Erin took the two armchairs across from Cassandra. 
+
+I leaned my head back against the cushions, listening to the chaotic, overlapping conversations. It was loud, chaotic, and completely perfect. I knew they all had return flights booked for the end of the week, and that the geographic isolation would return the moment they boarded those planes, but right now? The architecture was whole. 
+
+"Hey, Cassandra," Erin said, pulling a folded-up real estate magazine out of her tote bag. "I don't know if you still follow the Aquidneck Island property markets, but did you see this?"
+
+Cassandra paused, setting her laptop on the coffee table. She and I had been born and raised on Aquidneck Island in Rhode Island before she dragged me across the country to Seattle. "I haven't looked at the Newport listings recently. What is it?"
+
+"Highcliff," Megan said, her voice dropping into a hushed, reverent tone. "It's one of the massive Gilded Age mansions right on Bellevue Avenue. U-shaped Italian Renaissance villa, built around a central courtyard. It has a massive glass-enclosed indoor botanical solarium."
+
+"And it's north of Ruggles Avenue," Erin added, knowing exactly how Cassandra's mind worked. "Which means it sits directly on OSTA Route 67. You can catch the bus straight to the Gateway Center without getting stuck behind the university traffic."
+
+Cassandra took the magazine from Erin, her dark eyes scanning the listing. For a long moment, the room went completely quiet as the EVP of Operations ran the calculations in her head. 
+
+"It went on the market yesterday as a pocket listing," Erin explained. "It's not even fully public yet."
+
+"Cass," I said, leaning forward. "You literally just closed on a house in Redmond three days ago. You can't seriously be looking at a Gilded Age mansion on the other side of the country."
+
+"My initial Quantum stock options are vesting at the end of the quarter," Cassandra replied, her voice dangerously calm as she stared at the photograph of the massive Bellevue estate. "And Quantum is rapidly accelerating our East Coast expansion plans. We are breaking ground on a massive R&D center in Cambridge, Massachusetts, next year. If I am tapped to oversee that facility, I will need an East Coast stronghold."
+
+"That is a massive stronghold," Liz laughed. "It's a palace."
+
+"It's a tactical asset," Cassandra corrected smoothly. "It features an original Otis electric passenger elevator servicing all floors, making the primary footprint incredibly ADA compliant. And the square footage is large enough to permanently house both the Rhode Island and Virginia Beach branches of the family under one roof."
+
+Casey sat up, her eyes wide. "Wait. You're going to buy a mansion so the whole pack can live together?"
+
+"I am strongly considering it," Cassandra said, reaching for her cell phone. 
+
+"How fast do these things move?" Megan asked, looking slightly stunned that Cassandra was actually entertaining the idea. 
+
+"Ultra-luxury waterfront estates in Newport do not sit on the market," Cassandra stated flatly, dialing a number. "A quiet pocket listing on Bellevue Avenue will trigger an all-cash bidding war between New York hedge fund managers within forty-eight hours. If we want this property, I cannot wait until tomorrow."
+
+She held the phone to her ear. "Sterling? Yes, it's Vance. I need you to initiate a massive earnest money wire transfer to a title company in Newport, Rhode Island. We are executing a hostile acquisition of a Gilded Age estate."
+
+### Part 7: Interlude: The Bellevue Bidding War
+
+**Date:** 2005-03-19 at 09:00 ET
+
+The ink on the massive real estate contract was still wet. 
+
+Charles Kensington, the premier luxury real estate broker for Aquidneck Island, stood over the fax machine in his Bellevue Avenue office, feeding the signed documents through the scanner. On the other end of the line, three thousand miles away in Seattle, Cassandra Vance's legal team was waiting to receive the countersigned paperwork. 
+
+It was 9:00 AM on the East Coast. Highcliff had only been circulating as a quiet "pocket listing" for less than twenty-four hours, but the deal was already done. 
+
+Cassandra Vance had executed a flawless, overwhelming preemptive strike. Her all-cash bid, backed by her vested Quantum stock options, was completely unprecedented. But more importantly, her last name was Vance. The seller, an old-money Newport patriarch, had absolutely zero interest in selling his Gilded Age family estate to a random New York billionaire who would just use it as a summer party house. When he saw that the buyer was born and raised on Aquidneck Island, he didn't even hesitate. He verbally accepted the offer late last night and signed the paperwork this morning. 
+
+Just as the fax machine chirped, confirming the transmission to Seattle was successful, Charles's office phone began to ring. 
+
+Then his cell phone rang. 
+
+Then his assistant’s phone rang. 
+
+The New York hedge fund managers had finally woken up. 
+
+Charles picked up his desk phone. "Kensington."
+
+"Charles, it's Richard from Sotheby's in Manhattan," the frantic voice of a rival broker echoed through the receiver. "My client just saw the pocket listing for Highcliff. He wants to preempt the market. He's offering twelve million, all cash, thirty-day close."
+
+Charles looked down at the contract he had just faxed to Seattle. Richard's "preemptive" bid was nearly three million dollars short of what Cassandra Vance had dropped on the table twelve hours ago. 
+
+"I'm sorry, Richard," Charles said smoothly, leaning back in his leather chair. "The property is no longer available."
+
+"What do you mean it's no longer available?" Richard demanded, his voice rising in panic. "The listing hasn't even hit the MLS yet! My client is willing to go to thirteen! Fourteen! We'll start a bidding war right now!"
+
+"There is no bidding war," Charles replied firmly. "The seller has already accepted an offer, and the contract is signed."
+
+"That's impossible!" the New York broker yelled. "You can't do that! I'll file a complaint with the Rhode Island Real Estate Commission! You have a fiduciary duty to entertain all offers!"
+
+Charles couldn't help but smile. It was a classic, desperate threat from a man who had just been outmaneuvered. 
+
+"You are welcome to file whatever grievance you like, Richard, but you and I both know real estate law," Charles countered, his voice dripping with Rhode Island old-money authority. "A seller has the absolute, unencumbered right to accept any offer they choose at any time. The seller received a preemptive, all-cash offer last night that vastly exceeded your client's current ceiling. The contract is fully executed. My fiduciary duty to my client has been fulfilled."
+
+"Who the hell beat us?" Richard spat out bitterly. "Was it the Vanguard group? Sterling and Chase?"
+
+"It was a private buyer," Charles said, looking out his window toward the massive estates lining Bellevue Avenue. "And for the record, Richard, even if your client had matched the number, it wouldn't have mattered. The seller only wanted to sell to a local. The buyer is an Aquidneck Island native. Your client is from Manhattan."
+
+Charles hung up the phone just as his assistant rushed into the office, holding a stack of pink message slips. 
+
+"Charles," she gasped. "I have six different New York brokerages on hold. They're all trying to throw cash at Highcliff."
+
+"Tell them they are entirely too late," Charles smiled, tapping the confirmation receipt from the fax machine. "Highcliff belongs to the Vance family now."
+
+## Chapter 3: The Eastside Tour
+
+### Part 1: The Morning Perimeter
+
+**Date:** 2005-03-19 at 06:00 PT
+
+At exactly 6:00 AM Pacific Time, a sharp, authoritative knock hammered against the adjoining door of our hotel room. 
+
+I groaned, burying my face into the hotel pillow. Beside me, Liz shifted under the heavy hotel comforter, instinctively pulling closer to my chest. 
+
+"David. Elizabeth. Wake up," Cassandra's voice filtered clearly through the heavy wooden door. "We are mobilizing."
+
+I blinked against the dim morning light filtering through the blackout curtains. It was a Saturday. We had been asleep for barely six hours. I reached over, fumbling for my glasses on the nightstand, and slid out of bed. 
+
+I pulled open the adjoining door. Cassandra was sitting in her manual chair in the massive living room of the Presidential Suite, fully dressed in a sharp blazer, a cup of hotel coffee already in her hand. Her phone was resting on the coffee table, glowing with the remnants of an active call. 
+
+Across the living room, the other adjoining door cracked open. Casey stumbled out, rubbing her eyes and looking completely disoriented in an oversized t-shirt. 
+
+"What's happening?" Casey mumbled, dropping onto the heavy sectional sofa. "Is the hotel on fire?"
+
+"The hotel is fine, Casey," Cassandra stated, taking a slow sip of her coffee. "I just got off the phone with Sterling."
+
+Liz appeared next to me in the doorway, tying her hair back. "The real estate lawyer?"
+
+"Correct," Cassandra smirked, her dark eyes flashing with pure tactical victory. "He confirmed that the seller of Highcliff signed the real estate contract at nine o'clock Eastern Time. The paperwork is currently being faxed to the legal team to countersign. We completely bypassed the New York market. Highcliff is officially ours."
+
+Casey blinked, her sleep-addled brain struggling to process the information. "Wait. You actually bought the massive Gilded Age mansion? In Rhode Island?"
+
+"I did," Cassandra confirmed. "The earnest money wire cleared thirty minutes ago. It is a fully executed acquisition."
+
+"Cassandra, it's six in the morning," I pointed out, leaning against the doorframe. "Breakfast isn't for another two hours."
+
+"I am aware," Cassandra replied smoothly, turning her attention back to her laptop. "But I wanted the core perimeter to be informed immediately. Go back to sleep if you wish, or get dressed. We have our scheduled family breakfast in the Banquet Room at eight o'clock. I will announce the acquisition to the rest of the pack then, before we take the TAPS 545 express bus across the floating bridge to Redmond."
+
+She paused, looking at Casey. "And Casey, considering the sheer scale of the Highcliff estate, I believe we will be able to easily accommodate a custom, oversized mattress for the solarium once we consolidate the households."
+
+Casey's face instantly lit up, the early morning exhaustion vanishing entirely. The promise of the permanent pack perimeter was fully secured. 
+
+"I'm too wired to sleep now," Casey yelled, sprinting back into her room to grab her clothes. 
+
+"I will see you at eight, David," Cassandra ordered, not looking up from her screen. "We have an Eastside tour to execute."
+
+### Part 2: The Highcliff Announcement
+
+**Date:** 2005-03-19 at 08:00 PT
+
+By the time eight o'clock rolled around, the entire fourteen-person pack had reassembled in the Cascade Banquet Room on the mezzanine level. The hotel had set up a massive breakfast buffet of eggs, bacon, and pastries, and the room was filled with the loud, chaotic chatter of the Virginia Beach and Rhode Island branches cross-talking over coffee. 
+
+Cassandra sat at the head of the table, letting the pack eat and wake up before she gently tapped her spoon against her coffee mug. The sharp, metallic clinking instantly cut through the noise, and the table went dead silent. 
+
+"I have an operational update," Cassandra announced, looking down the length of the table. "As you know, Quantum is rapidly expanding. We will be breaking ground on a massive R&D center in Cambridge, Massachusetts next year. Because of this, I required an East Coast stronghold."
+
+My mom paused, her coffee cup halfway to her mouth. "You bought a house in Massachusetts?"
+
+"No," Cassandra replied smoothly. "I bought a house in Rhode Island."
+
+She pulled a printed real estate flyer from her blazer pocket and slid it down the table. Megan caught it, her eyes going wide as she looked at the photograph of the massive Italian Renaissance villa. 
+
+"Highcliff?" Megan gasped, looking up at Cassandra in total shock. "Cassandra, this is a Gilded Age mansion on Bellevue Avenue! It literally went on the market as a pocket listing yesterday!"
+
+"And I executed a hostile acquisition overnight," Cassandra confirmed, her tone completely matter-of-fact. "The seller signed the contract at nine o'clock Eastern Time this morning. The paperwork is currently being finalized. Highcliff belongs to us."
+
+The table erupted into chaos. My parents looked stunned, while Meredith and Morgan immediately started trying to look over Megan's shoulder to see the flyer. 
+
+Cassandra raised a hand, silencing the room again. She turned her focus specifically to Megan, Erin, Chloe, and Claire—the Portsmouth, Rhode Island branch of the family. 
+
+"When the mansion is ready," Cassandra stated, "I want your entire household—including your mother and father—to move in. I will have my legal team draw up the paperwork so you can all officially claim residency there."
+
+Erin blinked, completely blindsided. "Wait. Move in? Cassandra, you literally just paid off the mortgage on our house in Portsmouth! We have a house!"
+
+"Your current house in Portsmouth is entirely too small for the amount of people living in it," Cassandra countered effortlessly. 
+
+"But why a massive mansion in Newport?" Chloe asked, leaning forward. "Why do you want us to live there?"
+
+Cassandra didn't miss a beat, deploying a perfectly tactical, logical excuse to mask her deep, pack-oriented generosity. "Highcliff is a massive estate. I cannot be there twenty-four hours a day, and an empty Gilded Age mansion is a massive security liability. I require the house to look occupied at all times. By moving you in as full-time residents, you provide a permanent security presence."
+
+The Rhode Island girls looked at each other, instantly seeing right through Cassandra's "security presence" logic, but knowing better than to argue with a free upgrade to a Bellevue Avenue mansion. 
+
+"Well," Megan smiled, a tear actually forming in the corner of her eye. "If you need security, we gladly accept."
+
+"Excellent," Cassandra nodded, picking up her coffee cup. "Now finish your breakfast. We have a bus to catch to Redmond."
+
+### Part 3: The Redmond Hard Hat Tour
+
+**Date:** 2005-03-19 at 10:30 PT
+
+After polishing off the massive breakfast buffet, the fourteen of us mobilized out of the Cascade Crest Hotel and marched two blocks over to 4th Avenue. 
+
+Navigating downtown Seattle with a pack this large was an operational challenge, but Cassandra had it down to a science. When the TAPS Route 545 express bus pulled up to the curb, she immediately executed her standard physical transfer into a regular aisle seat so Kate and David Delaney could utilize the two federal wheelchair tie-down bays. She handed the driver a roll of quarters, collected fourteen paper transfer slips, and we were off. 
+
+The ride started smoothly, but the moment the bus merged onto the SR-520 floating bridge, we hit a massive wall of brake lights. 
+
+"Is the bridge broken?" Erin asked, looking out the window at the dark waters of Lake Washington. 
+
+"No, this is just standard Seattle traffic," I explained, leaning over Liz's shoulder to look out at the gridlock. "The lake acts as a geographic chokepoint between Seattle and the Eastside tech hubs. We're going to be here a while."
+
+It took nearly forty-five minutes to cross the bridge, but eventually, the 545 pulled into the Overlake Transit Center. 
+
+The entire pack piled off the bus, immediately noticing the shift in the environment. Downtown Seattle was defined by massive concrete skyscrapers and steep hills, but Redmond was a sprawling, flat, low-rise suburban grid heavily heavily forested with towering Pacific Northwest pine trees. 
+
+"Welcome to the Eastside," Cassandra announced, leading the pack down the paved sidewalk. A few minutes later, the massive corporate footprint of Quantum Headquarters came into view. It wasn't a single tower, but a massive, sprawling campus of sleek glass buildings interconnected by walking paths and heavy security gates. 
+
+"That is Building 33," Cassandra said, pointing toward a highly secured, modern structure near the center of the campus. "The executive hub. I would take you all up to my office, but dragging a fourteen-person pack past corporate security requires three days of advance clearance."
+
+"Plus, we're here to see the house," Casey grinned. 
+
+Cassandra nodded, wheeling us precisely three blocks away from the edge of the Quantum campus. We turned a corner onto a quiet, tree-lined residential street, stopping in front of an average-sized, single-family home. 
+
+Or at least, what was left of it. 
+
+The front lawn was covered in building materials, and the entire front façade of the house was currently missing, replaced by a temporary wooden barricade. A massive dumpster sat in the driveway, filled with drywall and old cabinets. 
+
+A man in a high-visibility vest walked out the front door, holding a clipboard. He smiled warmly when he saw us approaching.
+
+"Good morning, Greg," Cassandra said politely, wheeling up to the edge of the driveway. "Thank you for accommodating us on a Saturday."
+
+"Not a problem at all, Ms. Vance," the construction foreman replied. "You said you were bringing the whole family in for a site walk, so I made sure the framing was completely secured. We've got fourteen hard hats ready to go."
+
+Greg turned back toward a heavy plastic storage bin on the porch, pulling out the massive stack of yellow hard hats and passing them out to the pack.
+
+Once everyone was properly geared up, we followed Cassandra and Greg inside. 
+
+The house was completely gutted down to the raw wooden studs. There was no drywall, no flooring, and no fixtures. But even in its skeletal state, I could already see Cassandra's brilliant architectural logic taking shape. 
+
+"As you can see, we have completely demolished the interior load-bearing walls," Greg explained, gesturing around the massive, open-concept space. "We are widening every single hallway and doorframe on the first floor to a forty-inch clearance to allow dual power-chair navigation."
+
+"The kitchen counters have been entirely ripped out," Cassandra added, pointing toward the back of the house where the skeletal frame of an island sat. "They are being lowered to thirty-two inches to allow frictionless access from a seated position. The flooring will be seamless, high-friction engineered hardwood to prevent tire slippage, and the front and back entrances have been completely re-graded to eliminate steps without requiring an ugly, bolted-on metal ramp."
+
+"It's going to be completely frictionless," Kate said, her eyes wide as she took in the raw framing of the massive, open-concept floor plan. 
+
+"Exactly," Cassandra smiled, looking extremely satisfied with the destruction. "It will be perfectly habitable in exactly two months. Just in time for Casey's eighteenth birthday."
+
+### Part 4: The Bellevue Transfer
+
+**Date:** 2005-03-19 at 12:30 PT
+
+After Greg the foreman locked up the gutted framing of the Redmond house, Cassandra turned her wheelchair back toward the Overlake Transit Center. 
+
+"We are heading back into the city to hit the Puget Sound Aquarium," she announced to the pack. "But instead of taking the 545 back the way we came, we are taking a localized detour."
+
+We piled onto a King County Metro Route 230 bus. It headed south down 156th Avenue, winding through the heavily wooded Crossroads neighborhood before making a hard right onto NE 8th Street. 
+
+As the bus crested the hill, the massive, gleaming skyline of Downtown Bellevue suddenly exploded into view. It was entirely different from downtown Seattle—instead of historic brick buildings and steep, rugged hills, Bellevue was a master-planned grid of massive, shining glass towers and impossibly wide, clean avenues. It looked like a gleaming corporate fortress. 
+
+The 230 pulled into the Bellevue Transit Center, a massive open-air terminal right in the shadow of the skyscrapers. We all piled off, giving Kate and David D. a moment to stretch in their power chairs while Cassandra checked the timetable. 
+
+"From here, we transfer to the 550," Cassandra explained, pointing as an articulated Sound Transit bus pulled into the bay. "It runs straight across the I-90 floating bridge and directly into the Downtown Seattle Transit Tunnel."
+
+We executed the massive fourteen-person boarding process again. The ride across the I-90 bridge was significantly faster than our miserable morning commute on the 520, and within twenty minutes, the bus plunged into the dark, echoing cavern of the DSTT. 
+
+"Are we getting off at Westlake Station?" Liz asked as the tunnel lights flashed past the bus windows. "The Aquarium is on the waterfront, right?"
+
+"It is," I answered, looking at the transit map. "But downtown Seattle is built on an incredibly steep, nearly vertical cliff. If we get off at Westlake, navigating three wheelchairs down to Alaskan Way would be a logistical nightmare."
+
+"Which is why we are exiting at the International District Station," Cassandra chimed in as the bus squealed to a halt at the southern end of the tunnel. 
+
+We disembarked and rode the massive station elevators up to the surface level on 5th Avenue. 
+
+"Follow me," Cassandra ordered, throwing her manual chair into a fast, aggressive push. 
+
+We walked just a few blocks west, the salty air of the Puget Sound hitting us as we approached Jackson Street. Sitting at the end of the tracks was a beautiful, vintage green trolley car from Melbourne, Australia, fully restored with wooden benches and brass fittings. 
+
+"The George Benson Waterfront Streetcar," I grinned, pointing at the classic rail vehicle. "It runs the entire length of the waterfront."
+
+"And more importantly," Cassandra added, wheeling up a concrete ramp onto a raised, high-block platform next to the streetcar's doors. "It is completely wheelchair accessible."
+
+The streetcar operator stepped out, deploying a small metal bridge plate from the vintage trolley directly onto the high-block platform, creating a completely seamless, level boarding process for Cassandra, Kate, and David D. 
+
+We all piled onto the historic streetcar. The operator rang the brass bell, and the vintage electric motors hummed to life, carrying the fourteen of us north along Alaskan Way, entirely bypassing the steep downtown hills, and dropping us off right at the front doors of the Puget Sound Aquarium.
+
+## Chapter 4: The Puget Sound Aquarium
+
+### Part 1: The VIP Experience
+
+**Date:** 2005-03-19 at 13:15 PT
+
+The vintage George Benson streetcar squealed to a halt at the Pike Street stop, dropping the fourteen of us right onto the heavy wooden planks of the Seattle waterfront. Directly across the boardwalk, stretching out over the dark waters of Elliott Bay on massive wooden pilings, was Pier 59: home to the Puget Sound Aquarium. 
+
+The air smelled strongly of salt and fried seafood from the nearby tourist stalls as we made our way to the aquarium's main entrance. There was a massive, winding line of tourists waiting to buy general admission tickets, slowly feeding into the glass-fronted lobby. 
+
+Cassandra, however, had absolutely no intention of waiting in a general admission line. 
+
+Because she was a Quantum executive, she had executed a corporate-level logistics maneuver weeks ago. She wheeled directly past the stanchions, leading the pack straight to the empty 'Group Sales and Will Call' desk. 
+
+"Good afternoon," Cassandra said briskly. "Picking up a pre-arranged group package under the name Vance."
+
+The young attendant checked the computer, his eyes widening slightly as he pulled a thick, heavy envelope from the lockbox. "Ah, yes. Ms. Vance. We have your fourteen all-access VIP passes right here. This includes your general admission, your reserved block of seats for the Deep Ocean Omnidome Theater documentary, and your private, behind-the-scenes Giant Pacific Octopus encounter."
+
+Casey's eyes went wide, grabbing my arm. "David. They have an Omnidome."
+
+Because of my intense hyperfixation on the cosmos, I normally reserved my awe for planetariums. But the idea of a massive, 180-degree wrap-around documentary theater projecting deep-sea exploration footage sounded incredible. 
+
+"Cassandra, did you really pre-purchase the maximum VIP package for fourteen people?" my dad asked, stepping forward from the back of the pack. "That's got to be a small fortune. You didn't have to do that, your mother and I could have covered our family—"
+
+"I just spent over a dozen million dollars on a Gilded Age mansion in cash before I ate breakfast this morning, Dad," Cassandra interrupted flatly, taking the envelope from the attendant. "I am perfectly capable of pre-funding the aquarium."
+
+Dad chuckled, raising his hands in defeat. "Fair enough."
+
+The attendant handed Cassandra a thick stack of glossy tickets and premium wristbands. We spent the next few minutes attaching the waterproof wristbands to everyone in the pack, ensuring Kate and David D. had theirs clearly visible on their arms. 
+
+"Alright," Cassandra commanded, spinning her chair toward the massive, dimly lit entrance tunnel that led into the main exhibits. "The Omnidome documentary showing is at two o'clock. We have exactly forty-five minutes to clear the primary tidal tanks and the Underwater Dome. Move out."
+
+### Part 2: The Deep Ocean Encounters
+
+**Date:** 2005-03-19 at 13:30 PT
+
+Operating with Cassandra's strict forty-five-minute deadline, the pack moved through the primary exhibits with military precision. We bypassed the crowded touch tanks and headed straight for the Underwater Dome—a massive, spherical, 400,000-gallon tank that allowed us to sit completely surrounded by swimming salmon, sturgeon, and Puget Sound rockfish. 
+
+But the real highlight began when an aquarist in a blue polo shirt met us at the edge of the public floor, checking our premium wristbands before unlocking an unmarked steel door. 
+
+"Welcome behind the scenes," the aquarist smiled, leading our massive fourteen-person pack into a humid, concrete room lined with heavy filtration equipment and massive holding tanks. "You are here for the Giant Pacific Octopus encounter."
+
+He led us to a large, open-topped tank. Resting near the glass, blending perfectly into the artificial rockwork, was an incredibly large octopus. Its mantle was the size of a basketball, and its thick tentacles were coiled underneath it. 
+
+"The Giant Pacific Octopus is incredibly intelligent," the aquarist explained, leaning over the tank. "They can solve puzzles, open child-proof pill bottles, and recognize individual human faces. They are essentially the problem-solvers of the deep ocean."
+
+"So they're the engineers of the sea," Casey grinned, leaning over the railing to get a closer look. 
+
+As if on cue, the octopus shifted. Its skin flushed from a deep, mottled brown to a vibrant, rusty red. One massive, suction-cup-lined tentacle uncoiled and slowly reached the surface of the water, extending outward until it gently grazed the edge of the acrylic where Casey was standing. 
+
+"It's tasting the water," the aquarist explained. "Their suckers are equipped with chemoreceptors. It's investigating us."
+
+Casey stood completely still, absolutely mesmerized as the massive cephalopod investigated the perimeter of the tank. I watched closely, my own analytical brain fascinated by the raw, alien intelligence of the creature. 
+
+By the time the encounter finished, we had to rush back to the main lobby, arriving at the doors of the Deep Ocean Omnidome Theater with two minutes to spare. 
+
+We filed into the massive, sweeping rows of the theater. Unlike a standard cinema, the Omnidome was a massive, 180-degree hemispherical screen that completely wrapped around our peripheral vision. 
+
+The lights dimmed, and the projector flared to life. We were instantly plunged into the Mariana Trench. 
+
+The documentary was breathtaking. The massive screen created an incredibly immersive illusion of descent, making it feel as if the entire theater was sinking into the crushing, lightless depths of the ocean. Bioluminescent jellyfish drifted past our heads, and massive hydrothermal vents erupted with superheated water. 
+
+I sat back in my plush seat, totally engrossed. I usually reserved my intense hyperfixation for the vacuum of outer space, but seeing the deep ocean presented on this scale triggered the exact same sense of absolute awe. 
+
+I looked down the row. Casey was staring at the screen, completely captivated by the deep-sea footage. My parents, Tom and Wendy, were holding hands, and Cassandra was watching the documentary with an expression of quiet, calculated appreciation for the logistical engineering of the underwater submersibles. 
+
+It was the perfect afternoon.
+
+### Part 3: The Ride Free Area
+
+**Date:** 2005-03-19 at 17:30 PT
+
+After spending hours exploring the Puget Sound Aquarium, our massive fourteen-person pack emerged back onto the wooden planks of Pier 59 as the sun began to dip low over Elliott Bay. 
+
+"Alright, the final event of the evening is dinner," Cassandra announced, checking her watch. "I have a reservation at the SkyCity revolving restaurant at the top of the Century Spire."
+
+"The massive tower with the UFO on top?" Megan asked, pointing toward the iconic structure jutting into the Seattle skyline to the north. "How do we get up there? Do we just walk?"
+
+"We are taking the monorail," Cassandra said simply. 
+
+We wheeled across Alaskan Way and returned to the high-block platform, boarding the vintage George Benson Waterfront Streetcar (TAPS Route 99). The streetcar took us straight down the waterfront and dropped us back at Jackson Street. From there, we rolled one block east to the International District/Chinatown Station and descended via the massive elevators into the dark caverns of the Downtown Seattle Transit Tunnel. 
+
+As a sleek TAPS hybrid bus pulled into the tunnel bay, Cassandra immediately executed her standard boarding maneuver. She hauled herself out of her customized titanium manual chair and dropped into one of the standard aisle seats in the front row. 
+
+"Driver," she called out clearly, folding her chair with one hand. "I am transferring so that my two associates here can utilize the two federal tie-down bays."
+
+The bus operator nodded, immediately deploying the ramp and locking Kate and David Delaney's power chairs into the dual bays. 
+
+Once everyone was loaded, my dad reached into his pocket and pulled out his wallet. "Alright, fourteen fares. What's the total?"
+
+"Put your wallet away, Dad," Cassandra instructed, settling into her seat. "This is the Ride Free Area."
+
+My dad paused, looking at her in confusion. "The what?"
+
+"Downtown Seattle operates a Ride Free Area," Liz explained from her seat next to me. She was originally from Virginia Beach, but after spending enough time out here with me, she had learned the local transit quirks perfectly. "Between six in the morning and seven at night, if you get on and off a bus entirely within the downtown core, you don't pay a fare. It keeps the buses moving fast."
+
+"Wait. It's completely free?" Meredith asked, her eyes going wide. "You just get on and ride?"
+
+"Exactly," I grinned. For those of us living on the West Coast, the Ride Free Area was second nature, but to the East Coast branches of the family, the concept of a completely free, frictionless public transit zone felt like absolute magic. 
+
+The bus roared through the tunnel, bypassing the steep surface traffic, and deposited us safely at Westlake Station. We took the elevator up to the third floor of the Westlake Center shopping mall, stepping out onto the boarding platform for the Cascadia Monorail. 
+
+The futuristic, elevated train glided into the station. Because it was built for the World's Fair, it was completely level-boarding and massively spacious inside. The entire pack piled into the front car. 
+
+Two minutes later, the monorail shot out over the streets of downtown Seattle, cruising right through the middle of the Experience Music Project building, before gliding to a smooth halt at the base of the massive, 605-foot Century Spire. 
+
+We disembarked and looked up. The sky was turning a brilliant shade of twilight purple, and the massive, saucer-shaped restaurant at the top of the tower was already glowing. 
+
+"Dinner is served," Cassandra smirked, leading us toward the massive golden elevators that would shoot us up into the sky.
+
+### Part 4: Dinner in the Sky
+
+**Date:** 2005-03-19 at 18:00 PT
+
+The massive, golden elevators shot up the exterior of the Century Spire at terrifying speed. Through the glass, the streets of Seattle rapidly shrank into tiny grids of twilight traffic as we ascended over five hundred feet into the sky. 
+
+The elevator doors chimed and slid open, depositing our fourteen-person pack into the central, stationary core of the SkyCity revolving restaurant. 
+
+"Vance party of fourteen," Cassandra announced to the hostess stand. 
+
+"Right this way, Ms. Vance," the hostess smiled, grabbing a massive stack of leather-bound menus. "We have two adjoining tables set up for you on the outer ring. Please watch your step as you cross the threshold."
+
+The hostess wasn't kidding. The core of the restaurant—containing the elevators, the kitchens, and the restrooms—was entirely stationary. However, the outer ring containing the dining tables was slowly, constantly rotating, completing a full 360-degree revolution every forty-five minutes. 
+
+This created a visible, metal-lined seam on the floor where the stationary core met the moving dining room. 
+
+"Alright, listen up," Cassandra commanded, stopping her wheelchair just inches from the seam. "For those of you walking, step cleanly across the gap. If you drag your foot or stand with one foot on the core and one foot on the ring, you will lose your balance and experience immediate vertigo."
+
+"And for us?" Kate asked, looking down at the moving floor from her power chair. 
+
+"Hit the seam perfectly perpendicular," Cassandra instructed, turning to look at Kate and David D. "Do not approach it at an angle. If your front casters catch the gap while the floor is moving sideways, it will wrench your steering column."
+
+Kate and David D. both nodded. They lined up their power chairs to a perfect ninety-degree angle and rolled smoothly over the threshold, their heavy tires easily clearing the metal gap. Cassandra followed right behind them, executing a flawless, split-second wheelie to pop her manual casters over the moving seam before dropping cleanly onto the rotating dining floor. 
+
+We all found our seats at the massive tables, which were positioned right against the sloped exterior glass. The view was absolutely spectacular—a sweeping, unobstructed panorama of the Puget Sound, the Olympic Mountains, and the glowing skyline of downtown Seattle. 
+
+My mom started to shrug off her heavy wool coat, moving to lay it on the wide, stationary window ledge directly behind her chair. 
+
+"Do not put anything on the window ledge, Mom," I warned her immediately. 
+
+"Why not?" she asked, pulling her coat back. 
+
+"Because the dining room floor rotates, but the exterior structure of the building does not," Cassandra explained, picking up her menu. "The window ledge is stationary. If you place your coat or your purse on that ledge, it will physically walk away from you. In fifteen minutes, your belongings will be sitting next to a completely different family halfway across the restaurant."
+
+"Oh my gosh, you're right," Meredith laughed, watching as a stray water glass on the window ledge slowly drifted past our table, left behind by whoever had been sitting here ten minutes ago. 
+
+"Frictionless transit, stunning architecture, and a moving restaurant," Megan said, shaking her head as she looked out at the glittering city lights. "I have to admit, Cassandra. The West Coast has its charms."
+
+### Part 5: The Night Shift
+
+**Date:** 2005-03-19 at 19:45 PT
+
+By the time we finished dessert and took the heavy steel elevators back down to the base of the Century Spire, the Seattle sky was pitch black. 
+
+We wheeled out into the chilly night air, heading toward the nearest transit stop. 
+
+"Are we taking the monorail back to the transit tunnel?" my dad asked, zipping up his jacket. 
+
+"No," Cassandra replied, checking the transit schedule on her phone. "It is nearly eight o'clock at night. The monorail is closed, and the Downtown Seattle Transit Tunnel shuts down completely at seven. We are relying entirely on surface street transit."
+
+A few minutes later, a heavy-duty TAPS King County Route 3 bus roared up to the curb. Just as she had done earlier that afternoon, Cassandra immediately popped out of her wheelchair and dropped into the front aisle seat. 
+
+"Operator, I am transferring to a standard seat," she called out over the idling engine. "My two associates require the dual federal tie-down bays."
+
+The operator nodded, lowering the ramp and securing Kate and David D. Once they were locked in, Cassandra wheeled up to the farebox. The rest of the pack waited patiently in the aisle behind her while she orchestrated the massive boarding sequence. 
+
+First, Cassandra flashed her Quantum Blue Badge, which served as a fully subsidized corporate transit flash pass. 
+
+"I've got three more passes right behind me," Cassandra told the driver, pointing back toward us. 
+
+Liz stepped up and flashed her standard plastic TAPS Pass. Casey followed, holding up her TAPS Pass right next to her Washington State ID card to prove she qualified for the youth pass. I stepped up next, flashing my TAPS Pass alongside my Regional Reduced Fare Permit to prove my disability eligibility. 
+
+"And I am paying for the remaining ten out-of-town guests," Cassandra announced to the operator, pulling a heavy coin purse from her satchel. 
+
+"Wait, David D. and I don't get the reduced fare?" Kate asked from the tie-down bay, looking confused. 
+
+"No, you two are adults without an RRFP," Cassandra explained, dropping a massive, heavy mountain of exact quarters into the rattling farebox to cover the ten standard dollar-fifty adult fares. "Even though you are visibly using wheelchairs, Washington State requires a registered RRFP for the reduced rate. I need ten transfer slips, please."
+
+"We're only going to 3rd Avenue," my dad noted, watching the driver rip off a long stack of paper transfers. "We don't need transfers. And I thought this was a Ride Free Area anyway?"
+
+"The Ride Free Area ends exactly at 19:00 hours," Cassandra explained, taking the stack of paper transfers and handing them out to the East Coast branches. "After seven o'clock, the entire downtown core reverts to standard Pay-As-You-Enter protocol. And as for the transfers: it's the principle of the matter, Dad. If we paid the fare, we collect the transfer."
+
+With the massive transaction settled, the TAPS bus lumbered southbound, navigating the dark, neon-lit streets of downtown Seattle. 
+
+"This is exactly why we take the bus," Cassandra remarked, glancing back at our massive pack filling up the front half of the coach. "If we took taxis, we would have had to split up into at least four different cabs, plus request three separate wheelchair-accessible vans. On the grid, we travel as a single, unbroken unit."
+
+"I'm just not used to it," Kate's dad admitted, holding onto a silver overhead stanchion. "We don't live anywhere near a CVTA route back in Virginia Beach. Municipal transit feels like a completely foreign concept to us."
+
+"Speak for yourself," Megan's dad chuckled from a few seats back. "Back in Rhode Island, the girls and I ride OSTA and BTA all the time. You just need to learn the grid."
+
+A few minutes later, the bus hissed to a stop right on 3rd Avenue, dropping us perfectly within rolling distance of the Cascade Crest Hotel.
+
+We made our way inside the warm, brightly lit hotel lobby. Cassandra immediately wheeled to the center of the marble floor, raising a hand to stop the pack before we could scatter to our respective room blocks. 
+
+"Everyone, huddle up," Cassandra commanded. "Do not go to your rooms. I want all fourteen of us up on the twelfth floor, inside my suite, immediately."
+
+"Why?" Megan asked, looking exhausted. "Did the Quantum legal team find a problem with the Rhode Island house?"
+
+"Exactly the opposite," Cassandra smirked. She pulled a thick, tightly rolled architectural tube out of the specialized satchel mounted to the back of her wheelchair. "The Highcliff acquisition was finalized while we were eating dinner. I had my assistant courier the historical blueprints directly to the hotel front desk while we were on the monorail."
+
+Casey's eyes lit up. "We're planning the bedrooms!"
+
+"We are mapping the entire operational footprint," Cassandra corrected, spinning her chair toward the lobby elevators. "Move out. We have a Gilded Age mansion to conquer."
+
+Ten minutes later, the entire fourteen-person pack was crowded into the massive dining area of Cassandra's Presidential Suite. She cleared away the fruit basket and unrolled the massive, heavy-stock blueprints across the mahogany table, using four coffee mugs to hold down the corners. 
+
+The architectural schematics were breathtaking. Highcliff wasn't just a house; it was a forty-thousand-square-foot Italian Renaissance fortress sitting on prime coastal real estate. 
+
+"Okay, first things first," Kate said, leaning forward in her power chair to study the lines on the paper. "This place was built in the 1800s. Are David and I going to be trapped on the ground floor forever?"
+
+"Absolutely not," Cassandra smiled, pointing to a small, square shaft located right off the grand stairwell on the blueprints. "Highcliff was decades ahead of its time. The original Gilded Age construction included a massive subterranean boiler, early electrical wiring, and a fully functional, original electric passenger elevator servicing the first and second floors. The entire second level is completely wheelchair accessible."
+
+"A Gilded Age mansion with an electric elevator?" my mom asked, looking incredibly impressed. 
+
+"It's the nineteenth-century equivalent of a Quantum tech campus," Cassandra noted. She pulled a red marker from her blazer pocket and began drawing precise operational sectors on the blueprints. 
+
+"I am claiming the primary master suite in the South Wing," she announced, drawing a sharp red box. "Dad and Mom, you will take the large adjoining suite down the hall. David, Liz, Casey, Meredith, and Morgan—you five are taking the entire East Wing. It has a massive shared parlor that will serve perfectly as your private lounge."
+
+She then turned her attention to Megan, Erin, Chloe, and Claire, along with their parents. 
+
+"As for the Portsmouth branch," Cassandra said, tracing a massive cluster of rooms on the ground floor. "You are my security presence. You will be taking the entire ground-floor West Wing. It has its own zero-entry access doors and incredibly wide stone corridors. I will have contractors retrofit the primary bathrooms before you move in."
+
+"Cassandra, are you absolutely sure about this?" Megan's father asked quietly. "You bought a twelve-million-dollar mansion in cash... and you're just giving us an entire wing?"
+
+"You are family," Cassandra stated, her voice leaving absolutely no room for argument. "And Highcliff is our permanent East Coast stronghold. Welcome home."
+
+My mom stepped forward, wiping a stray tear from her eye as she looked down at the blueprints. "It really is a homecoming," she smiled, looking at my dad. "With you, David, and Casey all living on the West Coast now, your father and I didn't have much keeping us in Virginia Beach. We are so incredibly glad to be going back home to Newport."
+
+"We feel the exact same way," Kate's mom agreed, stepping up beside my parents. She and her husband—the heads of the Virginia Beach Delaney branch—were also originally from Newport before they moved south. "It's going to be wonderful to be back on Aquidneck Island." She looked back at her kids with a wide smile. "Though it's going to be a completely new adventure for the kids. They were all born in Hampton Roads and grew up in Virginia Beach."
+
+"Hey, as long as the second floor has an elevator, I'm ready for the adventure," Kate grinned. 
+
+Cassandra rolled up the blueprints and smiled at the fourteen-person pack filling her suite. The transit had been exhausting, but the logistics were finally set. The Vance and Delaney families were officially claiming Highcliff.
+
+## Chapter 5: The Evergreen Marine
+
+### Part 1: Colman Dock
+
+**Date:** 2005-03-20 at 09:30 PT
+
+Sunday morning in downtown Seattle was an entirely different beast than Saturday. The bustling corporate energy vanished, replaced by quiet, empty streets and a thick layer of grey morning fog rolling off Elliott Bay. 
+
+After checking out of our respective blocks at the Cascade Crest Hotel, our massive fourteen-person pack slowly made our way down the steep incline of Marion Street toward the waterfront. 
+
+"I still don't understand why we're not taking the bus today," my dad noted, gripping the back of Casey's jacket to make sure she didn't trip as we navigated the steep descent. "You said we could take the grid anywhere in three different counties."
+
+"We could," Cassandra replied from the front of the pack, keeping a tight grip on her manual handrims to control her descent. "But today is Sunday. The Downtown Seattle Transit Tunnel is completely locked up, and the surface buses drop to hourly schedules. Navigating a transfer with fourteen people on a Sunday grid is a logistical nightmare. The ferries, however, run like clockwork."
+
+We reached the bottom of the hill, crossing Alaskan Way and entering the massive, cavernous terminal of Colman Dock. It smelled like salt water, old diesel, and roasting coffee. Outside, through the massive glass windows, an absolutely gargantuan green-and-white vessel was slowly reversing out of the slip. 
+
+"Alright, gather round," Cassandra commanded, stopping her wheelchair near the ticket booths. "We are taking the Evergreen Marine ferry across the Puget Sound to Bremerton. It's a sixty-minute crossing. I need your IDs."
+
+"Do you want me to pay for this one?" Megan's dad asked, reaching for his wallet. 
+
+"Absolutely not," Cassandra replied, already pulling her debit card from her satchel. 
+
+She wheeled up to the ADA-accessible ticket window. The rest of us hung back in a massive semicircle. 
+
+"Fourteen walk-on passengers to Bremerton," Cassandra told the ticket agent. "We have a bit of a mixed bag for fares."
+
+She slid her debit card under the glass, followed immediately by her Washington State Regional Reduced Fare Permit. Because the Evergreen Marine ferry system operated outside of the core TAPS network (serving Kitsap County), they did not accept TAPS Passes or her Quantum Blue Badge for fare. 
+
+"I have one youth fare," Cassandra said, gesturing back to Casey, who held up her Washington State ID. "Two disability fares. That's my RRFP, and my brother David's." 
+
+I stepped forward and flashed my own RRFP through the glass. 
+
+"And for the rest?" the ticket agent asked, punching the numbers into his register. 
+
+"Eleven standard adult fares," Cassandra confirmed. 
+
+Kate, sitting in her power chair near the back of our group, leaned over to Liz. "It's still so wild to me that we don't get the reduced fare just because we don't have the official state card."
+
+"Welcome to West Coast bureaucracy," Liz chuckled. "They don't care about the hardware; they only care about the paperwork."
+
+The agent handed Cassandra a massive stack of fourteen paper barcode tickets, along with her debit card and RRFP. 
+
+"Thank you," she smiled, spinning her chair around to face us. She held the stack of tickets up in the air. "We have twenty minutes until the next boat arrives. Proceed to the overhead walkway and prepare to board."
+
+### Part 2: The Crossing
+
+**Date:** 2005-03-20 at 10:00 PT
+
+The walk-on boarding process at Colman Dock was entirely different from catching a city bus. When the overhead displays flashed green, our massive fourteen-person pack filtered through the automated turnstiles, scanning our paper barcodes one by one before proceeding down a long, glass-enclosed overhead walkway. 
+
+"This feels more like an airport terminal than a boat ride," Kate's dad remarked, looking out the glass windows at the massive green-and-white vessel docked below. 
+
+"Wait until we get inside," Cassandra called back over her shoulder, pushing her manual chair down the sloping ramp. 
+
+The walkway connected directly into the main passenger cabin of the ferry, completely bypassing the cavernous, multi-lane car deck below. We stepped off the metal gangway and onto the carpeted floor of the boat. The sheer scale of the interior was staggering. It looked like a floating cafeteria, lined with hundreds of booths, tables, massive viewing windows, and even a full-service galley serving hot coffee and clam chowder. 
+
+It didn't take long to commandeer a massive block of tables near the front windows. With Cassandra, Kate, and David D. locking their chairs into the open aisle space, the rest of the pack slid into the padded booths. 
+
+Five minutes later, a deep, bone-rattling horn blast echoed through the steel frame of the ship. The deck beneath us vibrated as the massive diesel engines roared to life, and the ferry slowly began to reverse out of the slip. 
+
+"I'm going outside," Casey announced, immediately sliding out of her booth. "Come on, David!" 
+
+Liz grabbed my hand, and the three of us—along with Meredith and Morgan—made our way to the heavy steel doors leading to the outer observation deck. Pushing the door open felt like stepping into a wind tunnel. 
+
+The cold, salty air of the Puget Sound whipped across the deck. We walked over to the thick green railings and looked back. The Seattle skyline was already beginning to shrink, the iconic Century Spire standing tall among the glass towers, slowly swallowed by the morning fog and the churning white wake of the massive ferry. 
+
+"It's so much bigger than the boats back in Newport," Meredith yelled over the roar of the wind and the engines. She leaned against the railing, pulling her jacket tight against the chill. "This thing is literally a floating building!" 
+
+"It holds over two thousand passengers and two hundred cars!" Casey yelled back, leaning over the rail to watch the water churning below. "And we get to ride it all the way to Kitsap County!" 
+
+The sixty-minute crossing was smooth and mesmerizing. Once we cleared the open expanse of the Puget Sound, the ferry slowed down to navigate through Rich Passage—a narrow, heavily wooded waterway that snaked between Bainbridge Island and the Kitsap Peninsula. The dark green pines grew right up to the rocky shoreline, making it feel like we were sailing through a mountain forest. 
+
+Eventually, the massive grey hulls of decommissioned naval warships came into view, looming over the shipyards. 
+
+"Attention passengers," the overhead intercom crackled to life. "We are now approaching the Bremerton terminal. Please prepare to disembark." 
+
+We hurried back inside the warm passenger cabin, rejoining the adults just as the massive ferry gently bumped against the wooden pilings of the Bremerton dock. The heavy steel doors hissed open, and the fourteen of us joined the crowd of walk-on passengers streaming down the gangway, officially setting foot in downtown Bremerton.
 

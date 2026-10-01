@@ -12,6 +12,7 @@ TAPS is the in-universe mega-agency representing a merger of King County Metro, 
 *   **Cascade Card:** The regional smart card (the 1:1 ORCA card counterpart). 
     *   *Lore Note:* The joint transit board initially pitched "e-pass" (Electronic Pass) during brainstorming, but the TAPS legal team immediately shot it down. After researching the trademark, TAPS legal realized it was too close to **ExpressToll (e-toll)**—the massive East Coast tolling system—and they did not want to invite a lawsuit from the **ETN (Eastern Toll Network)**.
 *   **TAPS Pass:** The hard plastic monthly pass, or stored value, that is loaded onto the Cascade Card (equivalent to the real-life PugetPass).
+*   **Regional Reduced Fare Permit (RRFP):** A specialized photo ID card issued to seniors (65+) and persons with disabilities. It acts as universal proof of eligibility for reduced fares across all TAPS agencies. Out-of-state visitors without an RRFP (even if visibly disabled or using wheelchairs) must pay full adult fare unless they apply for a temporary RRFP.
 
 ## Fleet & Visual Identity
 *   **Livery:** TAPS buses use a distinct **teal, gold, and white wavy/swooping livery design**, exactly matching early 2000s Sound Transit Express colors. The side of the bus prominently displays "TAPS" in large, clean white sans-serif letters.
