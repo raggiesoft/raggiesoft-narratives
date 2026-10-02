@@ -18,23 +18,23 @@ The Delaneys themselves are split into two geographic branches. However, these t
 
 ### 1. The Virginia Beach Branch
 This branch met the Vance family when the Vances relocated from Rhode Island to Virginia Beach. They have known David since he was 2 years old and Casey since she was a newborn.
-*   **The Parents** (The father is one of the Delaney brothers)
 *   **Meredith & Morgan Delaney** (The identical twins)
-*   **Liz Delaney** (Dating David Vance)
-*   **Kate Delaney** (Wheelchair user)
-*   **David Delaney** (Wheelchair user, uses AAC)
-*   **Aubrie Delaney**
-*   *(And others, depending on the timeline)*
+*   **David Delaney** (Wheelchair user, uses AAC - Brother to Meredith and Morgan)
+*   **Kate Delaney** (Wheelchair user - Paternal cousin to Meredith, Morgan, and David D.)
 
 ### 2. The Portsmouth, Rhode Island Branch
 This branch has known the Vance family the longest. Because the Vances originated on Aquidneck Island, the RI Delaneys have been family friends with them since **before Cassandra was even born**. 
-*   **Megan Delaney** (Older sister)
-*   **Erin Delaney** (Older sister)
-*   **Chloe Delaney** (Younger sister)
-*   **Claire Delaney** (Younger sister)
-*   *(John Delaney is also part of the broader family tree)*
+*   **The Parents** (RI Mom & Dad)
+*   **Erin Delaney**
+*   **Megan Delaney**
+*   **Chloe Delaney**
+*   **Claire Delaney**
+
+## Other Key Affiliates
+*   **Liz Carter:** David Vance's girlfriend. She is **not** a Delaney. She will marry David later this year at Ruby Mountain (Victoria Vance's branch of the family).
 
 ## Key Takeaways for Narrative Continuity
 1. **No Blood:** The Vances and Delaneys are strictly family friends/found family. 
 2. **Timeline of Friendship:** The RI Delaneys knew the Vances first (before Cassandra was born). The VA Delaneys met the Vances later (when David was 2). 
 3. **Ruby Mountain:** If a character is from Ruby Mountain, they are blood-related to the Vance siblings (the 17 cousins).
+4. **Liz is a Carter:** Liz is David's girlfriend/fiancée, not a Delaney sibling.

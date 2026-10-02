@@ -515,27 +515,27 @@ Cassandra nodded, wheeling us precisely three blocks away from the edge of the Q
 
 Or at least, what was left of it. 
 
-The front lawn was covered in building materials, and the entire front façade of the house was currently missing, replaced by a temporary wooden barricade. A massive dumpster sat in the driveway, filled with drywall and old cabinets. 
+The front lawn was freshly seeded, and the new front façade of the house looked completely finished. However, a massive dumpster still sat in the driveway, and a few contractor vans were parked along the curb. 
 
 A man in a high-visibility vest walked out the front door, holding a clipboard. He smiled warmly when he saw us approaching.
 
 "Good morning, Greg," Cassandra said politely, wheeling up to the edge of the driveway. "Thank you for accommodating us on a Saturday."
 
-"Not a problem at all, Ms. Vance," the construction foreman replied. "You said you were bringing the whole family in for a site walk, so I made sure the framing was completely secured. We've got fourteen hard hats ready to go."
+"Not a problem at all, Ms. Vance," the construction foreman replied. "We're just finishing up the final punch list inside. Technically, it's still an active job site until the city signs off on the occupancy permit next week, so I still have to make you all wear these."
 
-Greg turned back toward a heavy plastic storage bin on the porch, pulling out the massive stack of yellow hard hats and passing them out to the pack.
+Greg turned back toward a heavy plastic storage bin on the porch, pulling out a stack of yellow hard hats and passing them out to the pack.
 
-Once everyone was properly geared up, we followed Cassandra and Greg inside. 
+Once everyone was properly geared up—mostly as a corporate liability technicality—we followed Cassandra and Greg inside. 
 
-The house was completely gutted down to the raw wooden studs. There was no drywall, no flooring, and no fixtures. But even in its skeletal state, I could already see Cassandra's brilliant architectural logic taking shape. 
+The house was breathtaking, fully showcasing Cassandra's brilliant architectural logic. The drywall was up and painted, the lighting fixtures were installed, and the massive, open-concept floor plan was flooded with natural light. 
 
-"As you can see, we have completely demolished the interior load-bearing walls," Greg explained, gesturing around the massive, open-concept space. "We are widening every single hallway and doorframe on the first floor to a forty-inch clearance to allow dual power-chair navigation."
+"As you can see, we successfully removed all the interior load-bearing walls," Greg explained, gesturing around the massive space. "Every single hallway and doorframe on the first floor has been widened to a forty-inch clearance to allow dual power-chair navigation."
 
-"The kitchen counters have been entirely ripped out," Cassandra added, pointing toward the back of the house where the skeletal frame of an island sat. "They are being lowered to thirty-two inches to allow frictionless access from a seated position. The flooring will be seamless, high-friction engineered hardwood to prevent tire slippage, and the front and back entrances have been completely re-graded to eliminate steps without requiring an ugly, bolted-on metal ramp."
+"The new kitchen counters are locked in," Cassandra added, pointing toward the sleek, modern kitchen island. "They are set at exactly thirty-two inches to allow frictionless access from a seated position. The flooring is seamless, high-friction engineered hardwood to prevent tire slippage, and the front and back entrances have been completely re-graded to eliminate steps without requiring an ugly, bolted-on metal ramp."
 
-"It's going to be completely frictionless," Kate said, her eyes wide as she took in the raw framing of the massive, open-concept floor plan. 
+"It's completely frictionless," Kate said, her eyes wide as she rolled over the perfectly smooth, step-free threshold into the living room. 
 
-"Exactly," Cassandra smiled, looking extremely satisfied with the destruction. "It will be perfectly habitable in exactly two months. Just in time for Casey's eighteenth birthday."
+"Exactly," Cassandra smiled, looking extremely satisfied with the flawless execution. "The occupancy permit clears on Friday. We'll be moving in before Spring Break is over."
 
 ### Part 4: The Bellevue Transfer
 
@@ -545,7 +545,7 @@ After Greg the foreman locked up the gutted framing of the Redmond house, Cassan
 
 "We are heading back into the city to hit the Puget Sound Aquarium," she announced to the pack. "But instead of taking the 545 back the way we came, we are taking a localized detour."
 
-We piled onto a King County Metro Route 230 bus. It headed south down 156th Avenue, winding through the heavily wooded Crossroads neighborhood before making a hard right onto NE 8th Street. 
+We piled onto a TAPS King County Route 230 bus. It headed south down 156th Avenue, winding through the heavily wooded Crossroads neighborhood before making a hard right onto NE 8th Street. 
 
 As the bus crested the hill, the massive, gleaming skyline of Downtown Bellevue suddenly exploded into view. It was entirely different from downtown Seattle—instead of historic brick buildings and steep, rugged hills, Bellevue was a master-planned grid of massive, shining glass towers and impossibly wide, clean avenues. It looked like a gleaming corporate fortress. 
 
@@ -817,7 +817,7 @@ Cassandra rolled up the blueprints and smiled at the fourteen-person pack fillin
 
 Sunday morning in downtown Seattle was an entirely different beast than Saturday. The bustling corporate energy vanished, replaced by quiet, empty streets and a thick layer of grey morning fog rolling off Elliott Bay. 
 
-After checking out of our respective blocks at the Cascade Crest Hotel, our massive fourteen-person pack slowly made our way down the steep incline of Marion Street toward the waterfront. 
+Leaving the warmth of the Cascade Crest Hotel behind for the morning, our massive fourteen-person pack slowly made our way down the steep incline of Marion Street toward the waterfront. 
 
 "I still don't understand why we're not taking the bus today," my dad noted, gripping the back of Casey's jacket to make sure she didn't trip as we navigated the steep descent. "You said we could take the grid anywhere in three different counties."
 
@@ -857,6 +857,7 @@ The agent handed Cassandra a massive stack of fourteen paper barcode tickets, al
 
 **Date:** 2005-03-20 at 10:00 PT
 
+`
 The walk-on boarding process at Colman Dock was entirely different from catching a city bus. When the overhead displays flashed green, our massive fourteen-person pack filtered through the automated turnstiles, scanning our paper barcodes one by one before proceeding down a long, glass-enclosed overhead walkway. 
 
 "This feels more like an airport terminal than a boat ride," Kate's dad remarked, looking out the glass windows at the massive green-and-white vessel docked below. 
@@ -875,7 +876,7 @@ Liz grabbed my hand, and the three of us—along with Meredith and Morgan—made
 
 The cold, salty air of the Puget Sound whipped across the deck. We walked over to the thick green railings and looked back. The Seattle skyline was already beginning to shrink, the iconic Century Spire standing tall among the glass towers, slowly swallowed by the morning fog and the churning white wake of the massive ferry. 
 
-"It's so much bigger than the boats back in Newport," Meredith yelled over the roar of the wind and the engines. She leaned against the railing, pulling her jacket tight against the chill. "This thing is literally a floating building!" 
+"It's so much bigger than the BTA Harbor Ferry back in Newport," Meredith yelled over the roar of the wind and the engines. She leaned against the railing, pulling her jacket tight against the chill. "That's just a passenger catamaran! This thing is literally a floating building!"
 
 "It holds over two thousand passengers and two hundred cars!" Casey yelled back, leaning over the rail to watch the water churning below. "And we get to ride it all the way to Kitsap County!" 
 
@@ -886,4 +887,648 @@ Eventually, the massive grey hulls of decommissioned naval warships came into vi
 "Attention passengers," the overhead intercom crackled to life. "We are now approaching the Bremerton terminal. Please prepare to disembark." 
 
 We hurried back inside the warm passenger cabin, rejoining the adults just as the massive ferry gently bumped against the wooden pilings of the Bremerton dock. The heavy steel doors hissed open, and the fourteen of us joined the crowd of walk-on passengers streaming down the gangway, officially setting foot in downtown Bremerton.
+
+### Part 3: The Bremerton Boardwalk
+
+**Date:** 2005-03-20 at 11:00 PT
+
+We funneled out of the ferry terminal, stepping into the crisp, salty air of Kitsap County. 
+
+Directly outside the massive glass doors of the ferry building sat the Bremerton Transportation Center. Several green-and-white transit coaches were idling at the curb, waiting to intercept the flood of walk-on passengers. 
+
+"Are we catching a transfer?" my dad asked, looking at the idling buses. 
+
+"Not right now," Cassandra replied, wheeling past the bus loop. "Those are KCTA coaches—the Kitsap County Transit Authority. They serve the peninsula. But we aren't heading inland today. It's eleven o'clock, and I know for a fact this entire pack is starving."
+
+A collective murmur of agreement rippled through the group. 
+
+Instead of boarding a bus, Cassandra led us straight past the transit center and directly onto the Bremerton Boardwalk. The wooden promenade stretched out along the waterfront, offering an unobstructed view of the marina and the massive, grey silhouettes of the Puget Sound Naval Shipyard.
+
+"I need food," Casey groaned, dramatically dragging her feet along the wooden planks. 
+
+"There's a massive waterfront pub right up ahead," Cassandra said, pointing to a large, nautical-themed building with an expansive outdoor patio overlooking the water. "They specialize in fish and chips, and more importantly, their patio is completely flat and has unbolted tables."
+
+Finding a restaurant that could accommodate fourteen people—including three wheelchairs—was always a logistical challenge. Unbolted tables were the golden rule. It meant we could slide the tables together and remove the standard chairs to make room for Cassandra, Kate, and David D. 
+
+We approached the host stand, and within ten minutes, the staff had pushed three large patio tables together right along the glass windbreak. The adults took the far end, while Liz, Casey, Meredith, Morgan, and I clustered near the middle. Cassandra, Kate, and David D. parked their chairs seamlessly at the heads of the table setup. 
+
+"This is incredible," Kate's dad said, taking a sip of his water and looking out at the massive naval destroyer moored just a few hundred yards away. "You step off a boat, and you're instantly sitting on a patio looking at a warship."
+
+"That's the USS *Turner Joy*," I noted, recalling the plaque I had read while we were walking up. "It's a decommissioned destroyer from the Vietnam War. It's a museum now."
+
+"Can we go inside it?" Casey asked, her eyes lighting up over her menu. 
+
+"Unfortunately, no," Cassandra shook her head. "It's an authentic 1950s destroyer. The entire interior is sealed off by watertight marine doors with massive steel lips you have to step over—they call them 'knee-knockers'. Plus, the lower decks are only accessible by steep ladders. We wouldn't be able to get the chairs inside, and we don't split the pack."
+
+I quietly agreed with her decision. Because of my autism, my motor skills were often clumsy, and I struggled with lifting my legs high enough while walking. I remembered touring the massive USS *Wisconsin* battleship back home in Norfolk and constantly tripping over those exact same steel knee-knockers. The *Turner Joy* would have been a massive safety hazard for me. 
+
+"That's okay," Casey smiled, looking back out the glass windbreak. "It's still really cool to look at from here."
+
+The waitstaff arrived with several massive baskets of fried halibut, clam strips, and thick-cut fries. For the next forty minutes, the only sounds at our massive table were the crunch of fried seafood, the clinking of glasses, and the distant cry of seagulls circling the marina. 
+
+After a hectic Saturday in downtown Seattle, sitting on the Bremerton waterfront felt like a true Sunday escape. We were miles away from the neon lights and the towering skyscrapers, enjoying a quiet meal under the watchful shadow of naval history.
+
+### Part 4: The Pacific Fleet Naval Museum
+
+**Date:** 2005-03-20 at 12:30 PT
+
+After polishing off the massive baskets of fried halibut and thick-cut fries, our fourteen-person pack left the waterfront pub and rolled right next door. 
+
+The Pacific Fleet Naval Museum was located in a massive, historic brick building right outside the towering steel gates of the naval shipyard. Because it was an onshore facility, it was entirely flat, brightly lit, and completely free of the knee-knockers and steep ladders that plagued the actual warships. 
+
+"Okay, this is way cooler than I expected," Casey admitted as we walked through the main double doors. 
+
+The first floor was dominated by a colossal, highly detailed model of a Nimitz-class nuclear aircraft carrier. It was encased in glass and stretched over ten feet long, showcasing tiny jets lined up on the flight deck and miniature crew members in color-coded shirts working the catapults. 
+
+"It's like a floating city," my dad noted, leaning over the glass case alongside Megan's dad. The two East Coast fathers seemed completely mesmerized by the sheer scale of the Pacific Fleet's engineering. 
+
+While the adults clustered around the carrier model, Liz grabbed my hand. "Look over there," she smiled, pointing toward the far wall. "Submarines."
+
+We followed Cassandra, Kate, and David D. across the smooth, polished floor toward the Special Operations exhibit. The museum had actually ripped the authentic control room out of a decommissioned fast-attack submarine and rebuilt it inside the building. 
+
+Because it was a recreation, the massive watertight door had been permanently locked open, and the raised steel lip had been removed to create a flat, ADA-compliant ramp into the exhibit. 
+
+Cassandra wheeled right into the cramped, low-ceilinged room. The walls were covered in a chaotic web of analog dials, glowing green radar screens, thick steel piping, and heavy brass valves. In the center of the room sat two large, polished steel periscopes dropping down from the ceiling. 
+
+"I can't imagine living down here for six months at a time," Liz said, shivering slightly as she looked around the claustrophobic metal tube. 
+
+"They hot-bunked," I explained, remembering a documentary I had watched about the Silent Service. "There weren't enough beds for the crew, so three sailors would share the same bunk in shifts. As soon as you woke up for your watch, someone else immediately got into your bed."
+
+Kate wrinkled her nose in disgust from her power chair. "That is absolutely disgusting."
+
+"It's efficient," Cassandra countered, wheeling up to one of the massive brass ballast control panels. She reached out, flipping a few of the heavy toggle switches that were no longer wired to anything. "Total systems optimization in a high-pressure environment."
+
+We spent the next two hours wandering through the rest of the facility. We walked through recreated berthing areas, looked at massive diving suits from the 1920s, and watched archival footage of the shipyard cranes lifting entire gun turrets off of damaged battleships during World War II. 
+
+By the time we finally exited the museum, the afternoon fog was beginning to lift, revealing patches of bright blue sky over the Puget Sound. 
+
+Cassandra checked her digital watch. "It's almost three o'clock," she announced, raising her voice to address the sprawling pack. "The next Evergreen Marine ferry departs for Seattle at fifteen-twenty hours. Let's head back to the terminal."
+
+### Part 5: The Sunday Return
+
+**Date:** 2005-03-20 at 15:00 PT
+
+We made our way out of the museum and headed back up the Bremerton Boardwalk toward the ferry terminal. 
+
+The Bremerton Transportation Center was largely empty. The few green-and-white KCTA buses that had been idling there earlier in the morning were completely gone. 
+
+"Should we have taken one of those buses to see more of the peninsula?" my dad asked, looking at the empty concrete bus bays. 
+
+"Absolutely not," Cassandra replied without breaking her momentum. "Just like TAPS back in Seattle, the KCTA Sunday schedules are absolutely terrible. The surface grid practically shuts down to hourly or bi-hourly routes. If we took a KCTA bus inland right now with fourteen people, we could easily get stranded in Silverdale until nightfall."
+
+"She's right," Liz agreed, walking beside my sister. "Sunday is not the day you want to test the outer limits of the regional grid."
+
+We funneled back into the terminal. Just like on the Seattle side, Cassandra wheeled up to the ticket booth and dropped her debit card to pay for the return crossing. 
+
+"Fourteen walk-on passengers to Seattle," she told the agent, quickly sliding her RRFP, my RRFP, and Casey's Washington State ID under the glass to establish the exact same fare breakdown as before. Eleven standard adults, two reduced fares, and one youth fare. 
+
+With another thick stack of paper barcode tickets in hand, we passed through the turnstiles and moved up the overhead walkway. The massive Evergreen Marine ferry was already docked and waiting in the slip, its massive diesel engines rumbling deep within the steel hull. 
+
+Because we were heading east, the afternoon sun cast a brilliant golden glow over the water. We found another block of padded booths inside the main passenger cabin, securing the three wheelchairs in the aisles. 
+
+At exactly 15:20, the deep horn blasted again. The ferry gently pulled away from the wooden pilings of Bremerton and began the sixty-minute trek back across the Puget Sound. 
+
+Instead of going out to the freezing observation deck this time, most of the pack chose to stay inside. The sheer exhaustion of the weekend was finally beginning to catch up with the East Coast branches. Kate's dad was dozing in the corner of his booth, and Casey had her head resting against the glass window, watching the dark green pines of Rich Passage slide by. 
+
+"It's been a successful weekend," Cassandra said quietly, pulling a small legal pad out of her satchel and making a few notes about the Highcliff mansion closing. 
+
+"It really has," I smiled, leaning my head against Liz's shoulder. 
+
+By the time the iconic, towering silhouette of the Century Spire pierced through the afternoon haze, the ferry was already decelerating toward Colman Dock. We had conquered the Seattle grid, secured an East Coast stronghold, and successfully integrated both branches of the family. As the massive steel vessel bumped against the Seattle pilings, the fourteen of us prepared to disembark, officially concluding the weekend's massive logistical operation.
+
+### Part 6: The Private Dining Room
+
+**Date:** 2005-03-20 at 16:45 PT
+
+The steep, grueling incline from Colman Dock back up to the Cascade Crest Hotel was enough to completely drain whatever energy the pack had left. The moment we pushed through the massive glass doors of the lobby, the fourteen of us practically collapsed into the elevators. 
+
+"Everyone has exactly two hours," Cassandra announced as we rode up to the Presidential Suite. "Relax, nap, do whatever you need to do. We have the Private Dining Room booked for seven o'clock."
+
+When the heavy wooden doors of the suite finally clicked shut, the exhaustion became palpable. My dad and Megan's dad immediately claimed the massive leather armchairs by the window, while the moms disappeared into the adjoining bedrooms to decompress. 
+
+The kids didn't even bother retreating to our separate rooms. The massive sectional sofa in the center of the living room became an instant puppy pile. 
+
+Liz kicked off her shoes and curled up against my side, resting her head on my chest and instantly closing her eyes. Casey grabbed a thick hotel blanket from the closet and threw it over the two of us, before crawling onto the other end of the sectional and throwing her legs over Meredith's lap. Morgan wedged herself onto the floor right next to the sofa, leaning her back against the thick cushions, while Kate parked her heavy power chair right next to us, reclining her seat back and letting her head loll to the side. 
+
+For the next two hours, the only sounds in the massive suite were the low hum of the HVAC system and the quiet, synchronized breathing of the pack. 
+
+The warmth of Liz curled against me was intoxicating. I rested my chin on the top of her head, completely surrounded by the people I cared about most, drifting in and out of a light, peaceful sleep. 
+
+When Cassandra's alarm finally went off at six-forty-five, there was a collective, agonizing groan from the massive sofa. 
+
+"Come on," my sister ordered, adjusting her jacket as she wheeled toward the door. "Up. We have an entire dining room waiting for us."
+
+We slowly untangled ourselves from the puppy pile, stretching our cramped limbs and smoothing out our wrinkled clothes. 
+
+When we finally rode the elevator back down to the lobby and stepped into the hotel's Private Dining Room, it was immediately clear why Cassandra had booked it. It was a massive, secluded space just off the main restaurant, entirely walled off by thick mahogany doors. The long banquet table in the center of the room was perfectly spaced, giving Cassandra, Kate, and David D. plenty of room to maneuver their chairs into the open spots at the heads of the table. 
+
+"This is incredible," my mom whispered as a team of waitstaff immediately entered the room, pouring water and handing out massive leather-bound menus. 
+
+"It's the perfect way to end the weekend," Cassandra smiled, looking down the length of the table at the two merged branches of our massive, chaotic family. "No transit schedules, no crowded restaurants. Just us."
+
+We spent the next three hours eating, laughing, and recounting the massive logistical hurdles of the weekend. We talked about the Century Spire, the massive ferry, the submarine control room, and the blueprints for Highcliff. For the first time all weekend, we weren't rushing to catch a bus or beat a crosswalk timer. We were just a family, enjoying our final night in Seattle before the reality of the East Coast flights pulled us all back to reality in the morning.
+
+### Part 7: Lights Out
+
+**Date:** 2005-03-20 at 21:30 PT
+
+By the time the massive dinner finally wrapped up, everyone was running on fumes. 
+
+We took the elevators back up to the top floor of the Cascade Crest Hotel. Cassandra had specifically booked the entire end of the hallway, securing the massive Presidential Suite as our central hub and connecting it to four adjoining rooms to form our own private, secure wing. 
+
+"Alright," my dad announced as we filtered into the main living room of the suite. "It is nine-thirty. Our flight out of Sea-Tac is at ten in the morning, which means we are leaving this hotel at seven-thirty sharp to navigate the security lines. Go to sleep."
+
+The adults immediately split off into their respective rooms. My parents took the first adjoining king suite, while Megan and Erin's parents took the second king room at the far end of the hall. 
+
+Cassandra, naturally, had claimed the master bedroom attached directly to the Presidential Suite, needing the massive, roll-in shower and accessible layout for her morning routine. 
+
+That left the nine of us to divide up the final two double-queen adjoining rooms. 
+
+"Kate and David D. get the accessible room," Liz announced, easily taking charge of the logistics while leaning against the doorway of the fourth room. "Meredith, Morgan, Megan, and Erin, you four are taking the other two beds in there with them. David, Casey, and I are taking this room."
+
+"Works for me," Erin yawned, grabbing her duffel bag and following the twins and Megan into the massive, accessible room to get ready for bed. 
+
+Liz, Casey, and I filed into the final room. There were two large queen beds separated by a wooden nightstand. 
+
+"I call window bed!" Casey immediately announced, dropping her heavy backpack on the mattress nearest to the glass. She didn't even bother unpacking—she simply dug through her bag for her pajamas and immediately disappeared into the bathroom to change. 
+
+I sat down on the edge of the second bed, suddenly feeling the crushing weight of the last forty-eight hours settling into my muscles. We had navigated the entire TAPS grid, climbed the Century Spire, crossed the Puget Sound, toured a submarine, and officially locked in the blueprints for Highcliff Mansion. 
+
+The mattress shifted as Liz sat down right next to me. She leaned over, wrapping her arms around my torso and resting her chin on my shoulder. 
+
+"You survived," she whispered, a soft smile in her voice. 
+
+"We survived," I corrected her, resting my cheek against the top of her head. "I couldn't have handled the transit transfers or the crowds without you."
+
+She had been a part of my life since I was a small boy back in Virginia Beach. She was my anchor point, the one person who could instantly decode my sensory overload and silently run interference whenever I needed to step back. 
+
+"We're going to be doing a lot more of this once Highcliff is finished," Liz reminded me. "Flying back and forth between the coasts."
+
+"I know," I said. "But next time, we are not trying to navigate a fourteen-person transfer on a Sunday. We're sticking to the weekday schedules."
+
+Liz laughed softly, squeezing my waist. 
+
+Ten minutes later, the heavy blackout curtains were drawn, the lights were off, and the entire top-floor wing of the Cascade Crest Hotel fell completely silent. The massive, cross-country reunion was officially over.
+
+## 
+
+### Part 1: The 194 Express
+
+**Date:** 2005-03-21 at 07:15 PT
+
+Monday morning arrived with the chaotic, highly choreographed energy of a military deployment. 
+
+The heavy blackout curtains in our hotel room were thrown open just past six o'clock, and by seven-fifteen, the entire top-floor wing of the Cascade Crest Hotel had been completely cleared out. We funneled down into the main lobby and out the front doors, our massive fourteen-person pack dragging a small mountain of rolling suitcases and duffel bags behind us. 
+
+Because it was a Monday, the Downtown Seattle Transit Tunnel was finally open. Cassandra led us directly to the underground transit station, her power-assist chair effortlessly navigating the early morning commuter crowds. We descended to the cavernous southbound platform. 
+
+Cassandra was already in full corporate mode. She had traded her casual weekend jacket for a sharp, tailored Quantum blazer, her TAPS card gripped tightly in her hand. 
+
+"Alright, listen up," she commanded, bringing her wheelchair to a halt in the middle of the platform. "I have a massive quarterly strategy briefing at the Quantum campus in Bellevue in forty-five minutes. I am catching the 550 eastbound from this exact platform, so I am breaking off here."
+
+She handed my dad a printed itinerary. 
+
+"You are taking the TAPS Route 194 express bus directly to Sea-Tac Airport," Cassandra instructed. "It will pull up to this same southbound platform. It is a direct, highway-running coach. Do not get on the 174—it makes eighty stops and you will miss your flights. Take the 194."
+
+"Understood," my dad nodded, looking over the paper. 
+
+"Your charters are already fueled and waiting on the private tarmac," she continued, looking between the Virginia Beach and Rhode Island branches. "Mom, Dad, Meredith, Morgan, Kate, and David D.—your jet is flying direct to Norfolk International, ORF. Megan, Erin, John, and Sarah—your jet is flying direct to Newport State, UUU."
+
+"Thank you, sweetheart," my mom smiled, leaning down to give Cassandra a tight hug. "It was an incredibly beautiful weekend."
+
+"It really was," Megan's dad agreed, shaking my hand. "We'll see you all back east for the wedding later this year."
+
+"Drive safe," I told him. 
+
+The goodbye process with Cassandra took another ten minutes of hugging and back-slapping. 
+
+"So," Casey said, stretching her arms over her head and looking at Cassandra. "What's the plan for us?"
+
+Because Northwest Pacific University operated on a quarter system, Liz and I were officially on our week-long break between Winter and Spring quarters. And serendipitously, Federal Way High School's spring break had aligned perfectly with our schedule. We had an entire week of absolute freedom before the academic grind started back up. 
+
+"The plan," Cassandra answered, spinning her wheelchair toward the platform edge as the headlights of her approaching bus illuminated the tunnel, "is that you three go home and decompress. Do not burn the house down while I am at work. There is a fresh batch of groceries in the fridge."
+
+"We're not going to burn the house down," Liz laughed, taking my hand. 
+
+"Good," Cassandra smirked. The massive articulated doors of the 550 hissed open in front of her. "Enjoy your spring break. I'll see you three for dinner."
+
+She wheeled smoothly up the ramp and onto the coach. We waved as the doors closed and her bus vanished into the eastbound tunnel. 
+
+Normally, we would have ridden down to Sea-Tac and walked the family all the way through the terminal to the private FBOs. But Casey and I were completely running on fumes. Our autistic sensory thresholds were maxed out, and the thought of navigating the chaotic airport terminal was physically exhausting. 
+
+So, while we waited for the 194, we did our final goodbyes right there on the DSTT platform. I traded long, tight hugs with the Delaney women, soaking in the physical pressure to help ground myself before the bus arrived. 
+
+Ten minutes later, the massive TAPS Route 194 express bus rumbled into the station. Liz, Casey, and I grabbed our duffel bags and followed my parents and the Delaney branches aboard, officially beginning the long trip south.
+
+### Part 2: Decompression
+
+**Date:** 2005-03-21 at 09:00 PT
+
+The TAPS Route 194 express bus cleared the downtown Seattle grid and merged onto Interstate 5, packed to absolute capacity with our luggage and the departing East Coast family members. 
+
+I spent the highway ride south sitting near the back of the articulated coach with the twins. My sensory burnout was creeping in fast, and I just needed them close one last time. I sat with my left arm wrapped tightly around Meredith and my right arm around Morgan. Liz sat across the aisle from us, simply smiling as she watched. She wasn't jealous in the slightest. She understood implicitly that the Delaney women were just as foundational to my life and my emotional regulation as she was. 
+
+When the heavy coach finally pulled into the massive loop at Sea-Tac Airport, the twelve members of the Virginia Beach and Rhode Island branches filed off the bus, grabbing their bags from the lower racks. We stayed in our seats at the rear of the coach, waving through the massive windows as they disappeared into the terminal to catch their separate charters to ORF and UUU. 
+
+With the massive fourteen-person pack officially disbanded, it was suddenly just me, Liz, and Casey sitting in the back of the bus as it merged back onto the highway. 
+
+We stayed on the 194 express all the way down to its southern terminus at the Federal Way Transit Center. From there, we seamlessly transferred onto the local Route 174, riding it just a few blocks down Pacific Highway before pulling the yellow stop request cord. 
+
+We trudged off the bus and walked the final block to Cassandra's apartment complex. By the time I unlocked the front door and dropped my duffel bag in the entryway, I felt completely physically and mentally drained. 
+
+A weekend of navigating intense transit logistics, mapping out architectural blueprints, and actively managing the complex social dynamics of fourteen people had pushed my autistic sensory threshold to its absolute breaking point. I could tell Casey was feeling the exact same way—she kicked her shoes off, didn't say a word, and walked straight into the living room. 
+
+She collapsed face-first onto the living room sofa, which was already pulled out into a massive queen-sized sofa bed—the spot where Liz and I permanently slept when we were staying at the apartment. She buried her head straight into the blankets. 
+
+I followed her, dropping onto the center of the sofa bed mattress and instantly kicking my legs out. I didn't want to talk. I didn't want to look at a transit schedule, and I definitely didn't want to think about the Highcliff closing paperwork. I just needed to exist in a quiet, familiar space to regulate my nervous system. 
+
+Liz walked in a moment later. She set her bag down by the door, took one look at the two of us completely melted into the mattress, and immediately understood the assignment. 
+
+She walked over and climbed onto the bed on my left side, curling her body against mine. I wrapped my left arm around her shoulders, pulling her close. Casey, without lifting her face from the mattress, shifted over from my right side, throwing her arm across my chest and resting her head heavily against my right shoulder. 
+
+I let out a long, slow exhale, letting the combined weight of my sister on one side and my girlfriend on the other act as a massive, human weighted blanket. 
+
+There were no words exchanged. We just lay there in the quiet apartment, the low hum of the refrigerator in the kitchen the only sound breaking the silence. After days of non-stop movement, the simple, grounded pressure of having the two of them curled up directly against me was exactly what my brain needed to finally power down and recenter. 
+
+The first day of Spring Break had officially begun.
+
+### Part 3: The Bathroom Queue
+
+**Date:** 2005-03-21 at 14:30 PT
+
+The three of us slept for over five straight hours on the pulled-out sofa bed. We were a completely motionless, tangled pile of limbs and blankets, collectively recharging from the sheer logistical weight of the weekend. 
+
+I was vaguely aware of the afternoon sunlight shifting across the living room carpet when the pressure of Liz's body suddenly shifted against my left side. She groaned softly, her arm untangling from my torso as she tried to subtly roll over without waking me or Casey up. 
+
+It didn't work. 
+
+Her movement pulled the blankets down, sending a draft of cool air across the mattress. I blinked my eyes open, instantly feeling the heavy, groggy fog of a massive midday nap coating my brain. On my right side, Casey shifted, letting out a muffled whine of protest as she buried her face deeper into my shoulder. 
+
+"Sorry," Liz whispered, pushing herself up onto her elbows. Her hair was a messy, static-filled halo. "I have to pee."
+
+The exact moment she said the word, my own bladder sent an urgent, unavoidable signal to my brain. 
+
+"Oh, man," I mumbled, rubbing the sleep out of my eyes with my free hand. "So do I."
+
+At the sound of our voices, Casey finally lifted her head. She blinked heavily at the television screen across the room, her eyes narrowed in a sleep-dazed squint, before letting her head drop back down onto my collarbone. 
+
+"Me too," Casey groaned. "I have to go really bad."
+
+Liz froze, looking down at us. She let out a small, tired laugh. 
+
+"Well," Liz said, glancing down the short hallway of Cassandra's apartment. "There is only one bathroom."
+
+Because Cassandra technically lived alone, her Federal Way apartment only had a single, fully accessible bathroom attached to the main hallway. It was spacious enough to easily accommodate her power-assist wheelchair, but it definitely wasn't designed to handle a sudden traffic jam of three groggy young adults waking up from a five-hour nap. 
+
+"I'm the oldest," I argued, though I made absolutely no move to untangle myself from Casey's grip. 
+
+"I was the first one awake," Liz countered smoothly, sliding her legs toward the edge of the mattress. 
+
+"I'm the baby," Casey mumbled into my shirt. "And if I don't go right now, I'm going to pee on your sofa bed."
+
+Liz stopped mid-stretch, looking at Casey. She sighed, accepting defeat. 
+
+"Alright, the youngest wins," Liz conceded, falling back onto the mattress next to me. "But you have exactly three minutes, Casey, or I'm breaking the door down."
+
+Casey rolled off my chest, stumbling slightly as her feet hit the carpet. She dragged herself down the hallway, the bathroom door clicking shut behind her a moment later. 
+
+"Three minutes," Liz yelled down the hall. 
+
+I chuckled, throwing my arm back around Liz's waist and pulling her against me while we waited. "It's a good thing Highcliff Mansion is going to have more than one bathroom."
+
+### Part 4: The 565
+
+**Date:** 2005-03-21 at 19:15 PT
+
+By six-thirty that evening, the three of us had finally recovered enough energy to migrate from the living room sofa bed into the apartment's small kitchen. 
+
+Cassandra hadn't been joking about the groceries. The refrigerator was fully stocked, and Liz had immediately taken charge of meal prep, assigning Casey to chop vegetables while I managed the stovetop. We were putting the finishing touches on a massive skillet of chicken and roasted peppers just past seven o'clock when the heavy deadbolt on the front door finally clicked open. 
+
+Cassandra wheeled backward into the apartment, dragging a sleek, black leather corporate briefcase onto the hardwood floor behind her. She looked exhausted, her sharp Quantum blazer slightly wrinkled, but she still managed a tired smile when the smell of dinner hit the entryway. 
+
+"I'm assuming the house is still standing because I smell actual food and not smoke," Cassandra noted, hitting the quick-release on her power-assist wheels to lock the chair in place. 
+
+"We successfully boiled water and applied heat," I confirmed, turning the stove off. "How was the commute?"
+
+"A total slog," Cassandra sighed, leaning her head back against the headrest. "The strategy briefing wrapped up just in time for me to catch my normal TAPS Route 565 as it passed through Bellevue at 5:38. Traffic on Interstate 405 was an absolute nightmare. It took almost an hour and twenty minutes just to reach the Federal Way Transit Center, and then I had to grab the northbound 174 to get back up here."
+
+"That's brutal," Liz said, carrying a stack of plates over to the small dining table. "But at least you didn't have to start in Redmond."
+
+"Exactly," Cassandra nodded, unbuttoning her blazer. "Normally, I'm working out of the main Quantum campus, and that exact same 565 bus leaves the Overlake Transit Center at 5:21. Being on assignment in the Bellevue satellite office today saved me from having to ride that extra leg. I was able to just wait for my usual bus to come to me."
+
+She wheeled over to the dining table as Casey began transferring the chicken and peppers onto the plates. 
+
+"Did the East Coast branches make their flights?" Cassandra asked, looking at me. 
+
+"Yeah, they texted right before takeoff," I told her, taking the final seat at the table. "Meredith and Morgan are probably already halfway to Virginia Beach, and Megan's charter is locked in for Rhode Island."
+
+Cassandra nodded, picking up her fork. For the first time all weekend, the intense, hyper-vigilant executive posture seemed to finally drain out of her shoulders. The massive, chaotic family reunion was officially over. Highcliff Mansion was successfully funded, the blueprints were locked in, and there were no more complicated, fourteen-person transit logistics to coordinate. 
+
+"Well," Cassandra said softly, looking around the table at the three of us. "You survived your first major cross-country deployment. Enjoy your spring break."
+
+## Chapter 7: The May Logistics
+
+### Part 1: The May Logistics
+
+**Date:** 2005-03-22 at 08:30 PT
+
+With the massive Highcliff Mansion blueprints officially submitted to the East Coast contractors, Cassandra had smoothly pivoted her hyper-focused administrative gaze to her second real estate project: the Redmond house. 
+
+It was Tuesday morning of Spring Break. Cassandra was sitting at the kitchen island of our cramped Federal Way apartment, her titanium Quantum laptop open next to a massive, color-coded binder. She had printed out the most recent TAPS regional bus schedules, laying them out across the counter like battle plans.
+
+"The occupancy permit for the Redmond house clears on Thursday, May 26th," Cassandra announced, sliding a printed calendar page toward me. "I have already retained a high-security corporate moving team. They will arrive here on Friday morning to box the entire apartment and execute the physical transfer while we are at work and school. We will officially sleep in Redmond on Friday night, giving us the entire three-day Memorial Day weekend to unpack and settle in."
+
+I traced my finger over the dates. May 27th. Just two days after my eighteenth birthday. It was the perfect timing, but it also introduced a massive logistical hurdle. 
+
+"I still have almost four weeks of high school left," I pointed out, staring at the transit maps. "I can't transfer to a Redmond school with a month left in my senior year."
+
+"You don't have to," Cassandra replied smoothly, tapping the top of a printed schedule. "Federal Way High School has a continuity of enrollment policy. As long as you can provide your own physical transportation to the campus, they will allow you to finish the semester and graduate with your class. And since the new house is less than a mile from the Overlake Transit Center, you possess a direct, high-speed transit pipeline right back here."
+
+I pulled the TAPS Route 565 schedule toward me. 
+
+"The first southbound 565 leaves Overlake at 5:56 AM," I noted, doing the mental math. "It hits the Federal Way Transit Center at 7:12 AM. From there, I can transfer to the TAPS King County Route 174, ride up SR-99 to South 308th Street, and get dropped off right across the street from the high school. I'll be walking through the front doors at 7:30."
+
+It was a perfectly viable route. But a one-hour-and-fifteen-minute commute down the I-405 corridor at dawn was a heavy cognitive load, especially when I was used to just walking out the front door of our apartment and crossing the street. 
+
+I looked over at the living room, where David and Liz were curled up on the pulled-out sofa bed, quietly reviewing a textbook together. 
+
+"David?" I called out, my voice laced with a subtle, protective plea. He looked up immediately, his deep brown eyes locking onto mine. "When we move to Redmond... will you ride the bus with me in the mornings?"
+
+He was my safe person. If I had to endure the grueling morning gridlock on the 565, I desperately wanted him sitting next to me. 
+
+"Can you both ride the 565 all the way to the Federal Way Transit Center with me?" I asked, looking between him and Liz. "And then take the 174 to school?"
+
+David carefully set his textbook down. He looked at Liz, communicating entirely in silent, micro-expressions, before looking back at me. 
+
+"We want to, Casey," David said gently. "But the logistics for Northwest Pacific University don't line up. We have to be on campus in Seattle for our morning lectures."
+
+Liz walked over to the kitchen island, pulling a second printed schedule from Cassandra's pile. 
+
+"But we can share the first leg," Liz promised, sliding the TAPS Route 556 schedule next to mine. "We will walk to the Overlake Transit Center with you at 5:40 in the morning. We will board the 5:56 AM Route 565 with you, and ride it together down the 520 bridge. But when the bus hits the Bellevue Transit Center at 6:08 AM, David and I have to get off."
+
+She tapped the westbound 556 schedule. 
+
+"From Bellevue, we transfer to the 6:24 AM Route 556," Liz explained. "It takes us directly across the floating bridge to the U-District, dropping us off at 11th Avenue Northeast and 45th Street at 6:47 AM. Right on the edge of the NPU campus."
+
+"So we can ride together to Bellevue," David affirmed, giving me a warm, reassuring smile. "We'll be your anchor for the hardest part of the morning commute. You'll only have to ride the southern half of the 405 by yourself."
+
+I let out a slow exhale, the anxiety in my chest unspooling. It was a compromise, but a perfect one. I wouldn't have to face the dawn commute alone, and they would still make it to NPU with plenty of time for their morning classes. 
+
+"Okay," I nodded, looking back at Cassandra. "The transit logistics are locked. We're moving to Redmond for Memorial Day."
+
+### Part 2: The Snohomish Run
+
+**Date:** 2005-03-22 at 10:15 PT
+
+With the May logistics fully locked in, the rest of our Tuesday was a blank canvas. It was the middle of Spring Break, the skies over the Puget Sound were clear, and Liz and I had yet to truly explore the massive expanse of the Pacific Northwest. 
+
+Casey had promised to fix that. 
+
+"We are going to execute a full, three-county grid run," Casey had announced at the kitchen island, holding up her TAPS Cascade Card like it was a golden ticket. "I want you to see the true scale of the municipal transit network. We are going from Pierce County all the way up to Snohomish County using nothing but municipal buses and our TAPS Passes."
+
+Which was how Liz and I found ourselves standing at the Lakewood Transit Center, nearly thirty miles south of Seattle, staring at a massive, teal-and-white Atlas Motorcoach. 
+
+We had taken the southbound TAPS Route 574 from Federal Way down to Lakewood simply so we could start the journey at the absolute southern edge of the regional grid. Coming from the East Coast, the concept of riding an over-the-road luxury commuter coach as a standard municipal bus route was mind-blowing to me. 
+
+"This is the TAPS Route 594," Casey explained, leading us toward the open front doors of the coach. "It is operated out of Pierce County, which is why it uses the heavy-duty Atlas coaches. It is going to take us directly up Interstate 5, through Tacoma, past Federal Way, and drop us right into Downtown Seattle."
+
+We climbed aboard, flashing our Cascade Cards at the farebox. I followed Casey and Liz to the back of the coach, sinking into the deeply cushioned, high-backed seats. 
+
+As the bus pulled out of the Lakewood Transit Center and merged onto the highway, I looked out the massive tinted windows. For the last several years, I had been trapped in an East Coast dynamic where I was completely stripped of my agency, physically and emotionally tethered to an abuser who controlled my every movement. 
+
+Now, I was seamlessly gliding across county lines using a piece of plastic in my wallet. 
+
+An hour later, the Seattle skyline rose in front of us, the towering skyscrapers gleaming in the late-morning sun. The Route 594 dropped us right in the heart of downtown, but Casey wasn't finished. 
+
+"Transfer time," she grinned, leading us down the sidewalk to another bus zone. "Now, we go north."
+
+Within ten minutes, we boarded the northbound TAPS Route 510. This bus carried us out of King County entirely, driving another thirty miles up the I-5 corridor. 
+
+I took the middle seat in the back row, wrapping my arms comfortably around both Casey and Liz as the bus accelerated up the HOV lane. I was listening to Vanderwall's "If It's Love" on my Kinetic Jukebox—specifically the 1993 cut from their *Live: In This Moment* album. Most purists hated the synth-heavy Vander-Hunter era, but for me, Tommy Hunter's vocals on that track were absolute perfection. The heavy, melodic synth chords played softly through my headphones.
+
+As the TAPS coach flew past the Montlake Terrace Freeway Station, crossing the border into Snohomish County, a profound realization washed over me. I wasn't just geographically free. I was entirely emotionally secure.
+
+Kristine would have had a pathological meltdown if she ever saw me sitting like this. She had built a toxic, suffocating perimeter around me, isolating me from anyone she deemed a threat. But Liz didn't care. Liz loved my pack just as fiercely as I did. She was completely unfazed when the Delaney women—who were foundational to my childhood regulation—hugged me or kissed my cheek. 
+
+Liz wasn't trying to isolate me. She was sitting right beside me, holding my hand, actively participating in my freedom. 
+
+"Are we there?" Liz asked a short time later, her eyes wide as she stepped off the bus and looked around the Everett terminal. We were nearly sixty miles away from where we had started in Lakewood. 
+
+"One more transfer," Casey said, pointing to a local bus pulling into the bay. "TAPS Everett Route 7."
+
+We boarded the local route, riding it a few more miles until the bus hissed to a stop in front of the Evergreen Mall. 
+
+We stepped off the bus and stood on the sidewalk, the massive shopping complex stretching out in front of us. I let out a low laugh, shaking my head in sheer disbelief. We had traveled from the southern depths of Pierce County to the northern reaches of Snohomish County. We had crossed dozens of city boundaries and bridged massive geographical divides, all without ever stepping foot in a car or paying a separate fare. 
+
+It was the most profoundly empowering feeling I had experienced since escaping the East Coast. We were entirely free, and the entire grid belonged to us.
+
+### Part 3: Tuscany Slice
+
+**Date:** 2005-03-22 at 13:00 PT
+
+The heavy glass doors of the Evergreen Mall slid open, hitting us with a blast of climate-controlled air and the unmistakable, echoing hum of mid-day shoppers. After spending nearly three hours on various TAPS buses, being able to fully stretch my legs felt incredible. 
+
+"Restroom break," Casey declared immediately, pointing toward a tiled corridor just past the anchor department store. "Then we eat."
+
+"Agreed," Liz nodded. 
+
+We split up at the corridor, Liz and Casey heading into the women's room while I pushed through the heavy wooden door of the men's room. 
+
+When I walked back out into the main concourse a few minutes later, Liz and Casey were already waiting for me by a directory map. 
+
+"The food court is right upstairs," Casey said, leading the charge toward the central escalators. 
+
+The Evergreen Mall food court was a sprawling, brightly lit atrium packed with small tables, fake potted plants, and the overwhelming, competing smells of a dozen different fast-food fryers. 
+
+"I know exactly what I want," Liz said, pointing toward the familiar neon signage of a Rocket Burger at the far end of the court. She looked at me and Casey. "Do you guys want me to grab you something?"
+
+"No, I think I'm going to get pizza," Casey said, her eyes locking onto a brightly lit stall called *Tuscany Slice*. 
+
+"I'll join you," I told Casey, giving Liz's hand a quick squeeze. "We'll meet you at one of the tables in the middle."
+
+Liz headed off toward the burger line, while Casey and I walked up to the glass counter of Tuscany Slice. A massive array of giant pizzas sat on metal trays directly beneath glowing orange heat lamps. The melted cheese on the pepperoni slices looked absolutely incredible, and my stomach growled loudly in response. 
+
+"Two huge slices of pepperoni," Casey ordered, pulling out a ten-dollar bill. "And two sodas."
+
+The bored-looking cashier slid a long metal spatula under the slices, transferring them to thin, flimsy paper plates before ringing us up. 
+
+By the time we found an empty table near the center of the food court, Liz was already sitting down, opening up a cardboard container of Rocket Burger fries and a perfectly wrapped cheeseburger. 
+
+I set my paper plate down across from her. I picked up the massive, floppy slice of pizza, folding it down the middle the way I used to do in New York, and took a huge bite. It was hot, perfectly salty, and exactly the kind of cheap, fast calories I needed after a multi-county transit run. 
+
+Casey attacked her slice with equal enthusiasm, washing it down with a massive pull from her soda. 
+
+"So," Liz smiled, dipping a fry into a little cup of ketchup. "We conquered the grid. What's the plan for getting back? We just reverse the whole route?"
+
+"Exactly," Casey nodded, wiping her mouth with a napkin. "TAPS Everett Route 7 back to the transit center. But then we're going to take the 201 to Lynnwood, catch the 535 to Redmond, and meet up with Cassandra at Building 33. We can ride the 565 all the way south with her since she'll be wrapping up work."
+
+I took another bite of the pizza, incredibly satisfied with the plan and the massive lunch.
+
+### Part 4: The Retreat
+
+**Date:** 2005-03-22 at 14:30 PT
+
+The plan was solid. But my stomach had other ideas. 
+
+By the time the local Route 7 bus dropped us back at Everett Station, a heavy, unsettling knot had formed just beneath my ribs. I tried to ignore it as Casey led the way toward the bays, but when I glanced over at her, she looked noticeably pale. 
+
+"I need to use the restroom," Casey said tightly, completely abandoning the route map. 
+
+"Yeah. Me too," I agreed, a cold sweat suddenly breaking out on the back of my neck. 
+
+We made a desperate, synchronized dash for the station's public restrooms. The next ten minutes were an absolute blur of aggressive, violent diarrhea. The cheap grease and lukewarm cheese from the mall pizza were actively staging a full-scale rebellion in my digestive tract. 
+
+When I finally managed to wash my hands and stumble back out into the main transit hall, I felt physically hollowed out. Casey emerged a moment later, looking equally devastated. 
+
+Liz took one look at our gray faces and trembling hands, and the East Coast corporate executive in her completely took over. 
+
+"The Redmond detour is officially canceled," Liz commanded, pulling out her own TAPS schedule and immediately cross-referencing the departure boards. "We are going home. *Now.* We are catching the absolute fastest route back to Federal Way."
+
+Instead of the winding 201 down to Lynnwood, Liz marched us directly onto the next southbound TAPS 510. It was a straight shot down I-5 into Downtown Seattle. 
+
+I barely remember the ride. I kept my head pressed firmly against the cold, tinted window of the Atlas coach, my eyes squeezed shut as rolling waves of intense nausea began to replace the lower-intestinal cramping. Every bump in the highway felt like a physical assault. 
+
+When the 510 finally dropped us off on 5th Avenue in Seattle, the fresh air provided only a momentary relief. 
+
+"Come on," Liz urged gently, keeping a firm grip on my arm while guiding Casey by the shoulder. "We have to get down into the transit tunnel."
+
+Migrating from the surface streets down into the subterranean caverns of the Downtown Seattle Transit Tunnel (DSTT) was pure torture. The fluorescent lights were blinding, and the echoing noise of the underground bays sent a spike of pain straight through my skull. By the time the TAPS Route 194 pulled up to the platform, my mouth was watering in that specific, metallic way that signals an imminent disaster. 
+
+The ride south on the 194 was a grueling test of sheer willpower. I sat completely rigid, taking shallow, calculated breaths, hyper-focused on not getting sick on a municipal bus. Beside me, Casey had her knees pulled tightly to her chest, her face buried in her arms. 
+
+The exact second the 194 pulled into the Federal Way Transit Center and the doors hissed open, Casey and I bolted. 
+
+We barely made it to the concrete pillars on the platform. I hit the nearest trash can, dropping to my knees as my stomach violently contracted, expelling whatever was left of the Tuscany Slice. A few yards away, I could hear Casey retching aggressively into another bin. 
+
+Liz didn't flinch. She didn't panic. She stood right beside me, rubbing my back until the heaving stopped, and then handed me a crumpled napkin. 
+
+"Almost there," Liz promised softly. "Just one more bus."
+
+She practically carried us onto the local 174. It was only a short trip down the Pacific Highway, but every stop-and-go lurch of the bus threatened to trigger another wave. When the bus finally dropped us off at South 308th Street, directly across from our apartment complex, I didn't even wait for the walk signal. 
+
+We burst through the front door of the apartment like we were fleeing a burning building. Casey scrambled straight for the kitchen, gripping the edges of the stainless steel sink and violently throwing up again. I didn't even have the energy to make it to the master suite. I shoved the door to the hallway bathroom open, collapsing over the toilet as another wave of nausea hit. 
+
+When the purging finally ended, I slumped against the cool tile of the bathroom floor, completely exhausted. 
+
+Liz appeared in the doorway, holding a damp washcloth and a digital thermometer. She had already pulled out the queen-sized sofa bed in the living room. 
+
+"Come here," Liz instructed quietly, wiping the sweat off my forehead before helping me up. 
+
+She got me settled onto the sofa bed next to Casey, pulling a heavy fleece blanket over both of us. Casey was curled into a tight ball, her eyes closed. Liz leaned over, placing the tip of the digital thermometer firmly under my tongue. 
+
+A few seconds later, it beeped.
+
+### Part 5: Triage
+
+**Date:** 2005-03-22 at 17:15 PT
+
+The digital thermometer under my tongue let out a rapid series of high-pitched beeps. 
+
+Liz gently pulled it out, squinting at the small LCD screen. "Ninety-nine point one. Barely a blip."
+
+She turned to Casey, who was shivering slightly under the heavy fleece blanket, and placed the freshly wiped thermometer under her tongue. A moment later, it beeped again. 
+
+"Ninety-eight point two," Liz announced, her voice calm and entirely clinical. "Neither of you have a real fever. Which means this isn't the flu, and it isn't a viral infection. It's an acute toxin. Whatever was sitting on that mall pizza hit your systems and initiated a total purge."
+
+Casey groaned, pulling the blanket tighter around her shoulders. I shifted closer to her on the pull-out sofa bed, wrapping my arm around her. She immediately leaned into my chest, and we pulled each other into a miserable, exhausted hug. 
+
+"I'm calling Cassandra," Liz said, already pulling her cell phone out of her pocket and hitting the speaker button. 
+
+The phone rang twice before Cassandra picked up. *"Hey, I was just looking at the clock. Are you guys already in Redmond?"*
+
+"Change of plans," Liz said smoothly. "We're back at the Federal Way apartment. I have both of them quarantined on the sofa bed. They ate some bad pizza at the Evergreen Mall and are currently dealing with a very violent, fast-acting case of food poisoning."
+
+*"What?"* Cassandra's voice instantly shifted from casual sister-in-law to hyper-focused protector. *"Are they okay? Do I need to call a doctor?"*
+
+"No fever," Liz reassured her. "It's a classic Staph toxin purge. They just need to ride it out and stay hydrated. I have it completely under control."
+
+*"I'm leaving the Quantum campus right now,"* Cassandra said, the sound of her office chair scraping across the floor echoing through the speaker. *"I'm going to catch the very next TAPS 565 southbound. I'll be home in an hour."*
+
+"We'll be right here," Liz promised. 
+
+She hung up the phone and disappeared down the hallway. When she returned a minute later, she was carrying two large, five-gallon plastic utility buckets. She had put a few inches of water in the bottom of each one. She set them down firmly on the carpet, right next to the edge of the sofa bed. 
+
+"Just in case," Liz said gently, brushing the hair out of my eyes. "The water will keep anything from splashing or smelling if either of you have another wave before the nausea medication kicks in."
+
+"Thank you," I mumbled, my throat raw and aching. 
+
+"Don't thank me yet," Liz smiled softly. "I have to make one more phone call, and you're probably not going to like it."
+
+Liz sat down in the armchair across from the sofa bed, pulling her phone back out. She dialed a number from memory, holding the phone up to her ear this time. 
+
+"Hi, Wendy," Liz said brightly, using my mother's first name. "Yes, it's Liz. No, everything is fine, but I wanted to give you and Tom a quick update from the West Coast. David and Casey had a bit of an adventure today..."
+
+I closed my eyes, resting my chin on top of Casey's head as Liz calmly explained to my parents back in Virginia Beach that their adult son and teenage daughter had managed to conquer three counties of the municipal transit grid, only to be completely leveled by a slice of mall pizza. 
+
+Despite the nausea still rolling through my stomach, I couldn't help but feel a deep, overwhelming sense of peace. 
+
+I was sick, but I was on a comfortable sofa, completely wrapped around my younger sister. I was using whatever little strength I had left to hold Casey close, resting my chin on her head. I was cuddling with another woman right in front of Liz, and Liz wasn't screaming at me. She wasn't throwing things. She wasn't having a pathological meltdown of jealousy like Kristine would have. 
+
+Liz was completely unbothered. She loved that Casey and I had this bond. She was sitting right there, calmly managing the crisis and actively participating in our family. 
+
+I was too physically weak to speak, but my mind was incredibly clear. As I listened to Liz laugh softly with my mother on the phone, the realization hit me with absolute certainty. 
+
+She was the one. I was going to marry her.
+
+## Chapter 8: The Prospector's Keep
+
+### Part 1: The Motorpool
+
+**Date:** 2005-04-08 at 15:00 PT
+
+We had left Federal Way early that morning, navigating the heavy northbound traffic of I-5. Because the state had never finished building the massive I-296 bypass loop around Eldridge County, there was no way to avoid the crush of the urban core. Our three-van convoy was forced to sit through an absolute nightmare of gridlock as I-5 plunged directly through the towering, futuristic concrete canyons of Meridian City—a massive Tier 1 metropolis that easily rivaled Seattle. It took us over an hour just to clear the downtown sprawl and finally merge onto Interstate 96 East, which eventually deposited us onto the remote, alpine stretch of the North Cascades Highway.
+
+Now, the convoy of three rental minivans snaked its way up the winding, increasingly treacherous pavement of State Route 20. 
+
+Liz was driving the lead van, gripping the steering wheel as the elevation continued to climb. I sat in the passenger seat, staring out the window at the sheer, vertical drops plunging into the Eldridge gorge. In the back seats, Casey and Cassandra were quietly reviewing the reservation paperwork. 
+
+Directly behind us in the second minivan were my parents, Tom and Wendy, along with Liz's mother and father. Following closely in the third van was the absolute heavy artillery of my chosen family: the Delaneys. Both the Virginia Beach and Rhode Island branches had flown into Sea-Tac the night before. Morgan, Meredith, Erin, David, and Kate were entirely unwilling to let my twentieth birthday pass without a massive, heavily fortified celebration. 
+
+"The WSDOT pulled the highway barricades early this year," Cass announced from the back, checking the GPS coordinates on her silver laptop. "SR-20 is completely open to the public, but the resort doesn't officially open for the season until Memorial Day. Look for the private turnout in about two miles."
+
+Two miles later, Liz gently applied the brakes, engaging her turn signal. The public highway continued winding up into the mountains, but Liz banked the minivan off the shoulder, guiding our massive, three-vehicle convoy down a steep, privately maintained concrete ramp that disappeared into the side of the mountain. 
+
+The ramp ended abruptly at a pair of massive, industrial steel blast doors that were sealed completely shut. Mounted on a steel bollard next to the driver's side window was a heavy-duty call box equipped with a keypad and an intercom. 
+
+Liz rolled down her window and pressed the call button. 
+
+"The Prospector's Keep is currently closed for the season," a young woman's voice immediately crackled over the intercom, sounding practiced and firm. It was clear she spent most of April turning away stray tourists who wandered off the newly-opened highway. "If you are with the seasonal pre-opening crew, please enter your security clearance code on the keypad."
+
+"We don't have a code," Cassandra spoke up from the back seat, leaning forward so her voice would carry to the speaker. "The reservation name is Cassandra Vance. We booked the weekend buyout."
+
+There was a brief pause of static. 
+
+"Copy that, Ms. Vance," the young woman finally replied, her tone dropping its customer-service baseline entirely. "Stand by."
+
+A heavy mechanical clunk echoed through the gorge, and the massive industrial blast doors slowly rolled open. 
+
+Liz drove us into the climate-controlled Lower Motorpool—an astonishing piece of subterranean infrastructure. The blast doors immediately slid shut behind the third minivan, completely sealing the cavern. As Liz brought our vehicle to a halt in the arrival lane, the other two vans parked neatly behind us. 
+
+The young woman who had answered the squawk box was waiting for us. She wore a heavy black peacoat, high-visibility gear, and a tactical radio harness. She held a heavy clipboard, not even blinking at the sheer volume of civilians spilling out of the three rental vehicles. 
+
+"Welcome to The Prospector's Keep," she said smoothly, her pen hovering over her clipboard. 
+
+The young woman's posture instantly locked into a state of absolute, militarized focus. Her dark eyes swept over Cassandra, darted to me, tracked Liz, and finally landed on the massive crowd of Delaneys unloading from the third van. 
+
+She reached for the heavy radio clipped to her chest harness. 
+
+"Command, this is Perimeter," she broadcasted, her voice dropping all pretense of customer service and shifting into a cold, tactical register. "The Vance party has arrived. They brought a massive civilian perimeter. I am transferring Motorpool command to Beta-Shift. I am going to need three Ridgebacks. Have the floor assemble."
+
+"Copy that, Perimeter," a static-laced voice replied instantly. "We're waiting."
+
+The young woman unclipped her radio and looked back at Liz. "Leave the keys in the ignitions, please. My team will secure your rental vehicles. We will transfer your luggage and the wheelchairs into the Ridgebacks."
+
+"Ridgebacks?" Liz asked, stepping out of the van into the echoing concrete bunker. 
+
+The young woman gestured toward the far end of the Motorpool, where three massive, heavy-duty 4x4 transit vans were idling. Their tires were wrapped in aggressive, thick steel chains. 
+
+"The resort is five miles up Prospector Road," the young woman explained smoothly, already signaling for her Beta-Shift subordinates to begin cross-loading our massive family. "The grade is brutal, and the snowpack is deep. My team will drive you."
+
+"A literal five-mile moat," I whispered to Liz, feeling a deep, sudden thrill of absolute security. 
+
+Liz smiled, lacing her fingers through mine. "Cass wasn't kidding. Nobody is getting up there."
+
+It took ten minutes for the heavily coordinated Motorpool team to cross-load twenty people, our luggage, and two manual wheelchairs into the three armored transit vans. The young woman in the peacoat climbed into the driver's seat of our lead Ridgeback. She hit a switch on her overhead console, plunging the Lower Motorpool into darkness and fully sealing the blast doors behind us. 
+
+She put the heavy vehicle into gear, the steel chains biting into the ice as we began the brutal, serpentine ascent up Prospector Road.
 
