@@ -214,15 +214,41 @@ foreach ($narrativeDirs as $narrativeDir) {
     }
 
     // --- STEP C: WRITE ROUTE JSON ---
+    // 1. Write the legacy route JSON for raggiesoft-hub
     $routeJsonFile = $routesDestDir . '/' . $seriesSlug . '.json';
-    
-    // Write the JSON payload beautifully formatted
     file_put_contents(
         $routeJsonFile, 
         json_encode($routeData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
     );
+    echo "  [Routes] Saved legacy hub route: {$seriesSlug}.json\n";
+
+    // 2. Generate and write the new route JSON for raggiesoft-book-library (Ocean View Archives)
+    $newRouteData = [];
+    $newRouteData['common'] = $routeData['common'];
+    $newRouteData['common']['siteName'] = "Ocean View Archives";
     
-    echo "  [Routes] Saved to: /data/routes/raggiesoft-books/books/{$seriesSlug}.json\n";
+    // Rewrite keys to omit /raggiesoft-books/books prefix
+    $newFirstRouteUrl = null;
+    foreach ($routeData as $key => $val) {
+        if ($key === 'common') continue;
+        $newKey = str_replace('/raggiesoft-books/books', '', $key);
+        
+        // Rewrite nextUrl if it exists
+        if (isset($val['nextUrl'])) {
+            $val['nextUrl'] = str_replace('/raggiesoft-books/books', '', $val['nextUrl']);
+        }
+        
+        $newRouteData[$newKey] = $val;
+    }
+
+    $newRoutesDestDir = __DIR__ . '/../../raggiesoft-book-library/data/routes';
+    if (!is_dir($newRoutesDestDir)) mkdir($newRoutesDestDir, 0755, true);
+    $newRouteJsonFile = $newRoutesDestDir . '/' . $seriesSlug . '.json';
+    file_put_contents(
+        $newRouteJsonFile, 
+        json_encode($newRouteData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
+    );
+    echo "  [Routes] Saved Ocean View route: {$seriesSlug}.json\n";
     
     // Add to Master Catalog
     $masterCatalog[] = [
