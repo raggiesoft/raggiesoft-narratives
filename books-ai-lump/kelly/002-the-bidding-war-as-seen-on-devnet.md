@@ -9,8 +9,6 @@ series: "The Quantum Directive: Kelly's Cut"
 
 ### Part 1: The Developer Community
 
-# The Players
-
 - **cupertino_dev**: A developer from **MagnaByte** (Apple), providing the initial, firsthand account from inside the company.
 
 - **seattle_dev_guy / seattle174**: Developers from the Seattle area (likely from various companies) who are part of the broader tech community and have followed the Aurora Systems saga.
@@ -22,8 +20,6 @@ series: "The Quantum Directive: Kelly's Cut"
 - **quantum_war_council**: The official, unified voice of the developer team at **Quantum** that orchestrated the rescue of the Aurora developers and the twins.
 
 ### Part 2: The CEOs
-
-# The Players
 
 - **Insanely_Great**: **Stephen Marchand** (Steve Jobs), the CEO of **MagnaByte**. His username is his real-world catchphrase, and his posts reflect his focus on "A+ talent" and product passion.
 
@@ -38,8 +34,6 @@ series: "The Quantum Directive: Kelly's Cut"
 ## Choosing a Future
 
 ### Part 1: All the Offers on the Table 📂
-
-# Choosing a Future
 
 (This is an outline that needs to be expanded)
 

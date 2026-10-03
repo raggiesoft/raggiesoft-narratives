@@ -9,10 +9,6 @@ series: "Nichole"
 
 ### Part 1: The Breach
 
-# Graduation
-
-## Date: June 14, 2003 Location: Northwood High School Gymnasium, Virginia Beach, VA Event: Class of 2003 Commencement
-
 The air in the gymnasium was thick enough to chew. It smelled of floor wax, corsage flowers, and the nervous sweat of four hundred teenagers.
 
 The Northwood High School gymnasium was draped in Purple and Gold. Banners hung from the rafters, celebrating the "Home of the Lions."
@@ -89,10 +85,6 @@ And the band played on.
 
 ### Part 2: The Empty Chair
 
-# Graduation
-
-## Patrick’s Point of View
-
 Patrick felt the rubber grips of the push handles rip from his palms. It wasn't a slip; it was a violent tear, like a riptide pulling a swimmer under.
 
 A heavy shoulder—a father in a hurry to get a front-row seat—slammed into Patrick’s chest, spinning him around. Patrick stumbled, his feet tangling in the long, purple hem of his graduation gown.
@@ -149,7 +141,6 @@ The brake was locked. The footrests were down. A gold honor cord was tangled in 
 
 But the seat was empty.
 
-## Nichole’s Point of View
 
 The world didn't just tilt; it vanished.
 
@@ -217,10 +208,6 @@ She shivered, burying her face in her knees, and waited for the end.
 
 ### Part 3: The Search
 
-# Graduation
-
-## Date: June 14, 2003 Time: The Longest Twenty Minutes of Patrick’s Life Location: Northwood High School Gymnasium
-
 The mob finally began to thin. The last of the frantic parents found their seats on the wooden bleachers, satisfied with their conquests. The flow of bodies slowed to a trickle.
 
 But the noise didn't stop. The Northwood High School Band, dutiful and oblivious, launched into the fourth repetition of *Pomp and Circumstance*. The brass section seemed louder now, mocking the emptiness in Patrick’s hands.
@@ -249,7 +236,6 @@ The air in the gym was hot and wet, a soup of humidity and body heat. To someone
 
 *She’s autistic,* Patrick’s mind raced. *She’s non-verbal. She can’t tell anyone who she is.*
 
-## Minute 5: The Perimeter
 
 Patrick shoved the empty wheelchair toward the wall, parking it haphazardly near the scorer’s table so it wouldn't get hit again. He kept the crushed cap in his hand.
 
@@ -267,7 +253,6 @@ Patrick spun around. He checked the nearest classroom. Empty. He checked the bat
 
 She wasn't outside. That meant she was still in the kill box.
 
-## Minute 10: The Sea of Purple
 
 Patrick ran back into the gym. The heat hit him like a physical blow. The band was *still playing*. The loop had restarted. *Da-da-da-DA...*
 
@@ -289,7 +274,6 @@ He pushed through the lines. He looked at the floor. He looked under the folding
 
 Nothing.
 
-## Minute 15: The Panic
 
 Fifteen minutes.
 
@@ -315,7 +299,6 @@ Mr. Henderson looked at the band, then back at Patrick. "I can't stop the proces
 
 Patrick backed away. He was on his own. The system didn't care. The machine kept grinding.
 
-## Minute 20: The Dumb Luck
 
 Patrick walked back toward the empty wheelchair. He was defeated. He was going to have to call the police. He was going to have to call his parents and tell them he lost her.
 
@@ -368,10 +351,6 @@ Patrick wrapped his arms around her, pulling her dusty, trembling body against h
 "I've got you," he said again, burying his face in her hair. "I'm never letting go."
 
 ### Part 4: The Promise
-
-# Graduation
-
-## Location: Northwood High School, The Hallway outside the Gym Time: 10 minutes after the stampede
 
 Patrick dragged the *Titan AeroMotion* out of the gymnasium and into the cool, quiet hallway. The heavy doors swung shut, muting the relentless blaring of the band to a dull thrum.
 
@@ -443,7 +422,6 @@ He carefully popped the cardboard back into shape. He smoothed the purple fabric
 
 Nichole took a deep, shuddering breath. She tapped her armrest once. *Okay.*
 
-## The Crossing
 
 When the name "Bennett" was called, the gym went quiet.
 
@@ -467,7 +445,6 @@ Then, the applause started. It wasn't polite applause. It was a roar.
 
 Patrick didn't care. He just kept pushing.
 
-## Location: Northwood High School, The Hallway outside the Gym Time: 12:30 PM (Immediately following the Tassel Ceremony)
 
 The moment the tassels were turned, Patrick didn't wait for the recessional music. He didn't wait for the rows to be dismissed.
 
@@ -523,10 +500,6 @@ They stayed there under the tree for an hour, ignoring the graduation parties st
 
 ### Part 1: Damage Control
 
-# The Reset
-
-## Date: June 15, 2003 (The Day After Graduation) Time: 10:30 AM Location: The Bennett Living Room, 1850 Delaney Street, Virginia Beach
-
 Tom nodded at Patrick, sensing the density of the air in the room. He picked up the toolbox and the wobbly wheel Patrick had removed. "I'll take the rim out to the garage vice. I’ll get it true again. You two... take your time."
 
 Tom stepped out, closing the door softly behind him. The click of the latch was the only sound in the house.
@@ -566,8 +539,6 @@ She felt a sob rising in her chest, but she swallowed it down. If she cried, her
 She looked at Patrick. He wasn't looking at her injury anymore. He was staring at the floor, his jaw clenched so hard a muscle was jumping in his cheek. He looked like he wanted to punch a hole through the wall.
 
 ### Part 2: The Vow
-
-# The Reset
 
 Patrick gently pulled her shirt back down. He picked up a fresh pillow and wedged it between her side and the armrest of the chair to splint the ribs.
 
@@ -625,10 +596,6 @@ They stayed like that for a long time, kneeling on the carpet in the quiet house
 
 ### Part 3: The War Room
 
-# The Reset
-
-## Date: June 15, 2003 Time: 2:00 PM Location: The Kitchen Table
-
 By the afternoon, the silence of trauma had been replaced by the rustle of brochures.
 
 Ellen Bennett sat at the head of the table. She wasn't just a mother today; she was a campaign manager. Spread out before her was a map of the East Coast and a stack of glossy college prospectuses.
@@ -641,21 +608,17 @@ She pulled out a fresh legal pad.
 
 She held up the first two brochures. They were flashy, printed on high-gloss cardstock.
 
-## 1. TechStream Institute (Norfolk Campus) 
 
 "This one is local," Ellen said. "They advertise heavily on TV. 'Accelerated Degrees for the Digital Age.' They claim to have a cutting-edge media program." "And it's a flat building," Patrick noted, looking at the photo. "No stairs." "We see them tomorrow," Ellen decided, writing *MONDAY - 9:00 AM* on the pad.
 
-## 2. Atlantic Coast Polytechnic (Virginia Beach) 
 
 "Also local," Tom chimed in. "I know a few guys at the firm who took night classes there. It's strictly business and IT. Very practical." "Do they have dorms?" Patrick asked. "No," Ellen said. "Commuter campus. It’s basically an office park. But it’s an option if we want to stay close."
 
 She set those aside and picked up two thicker, more traditional course catalogs.
 
-## 3. Virginia Dominion University (Norfolk)
 
 "The Big One," Ellen said, tapping the blue cover with the lion mascot. "VDU. It’s a real, Tier 1 research university right here in town." Patrick looked at the map of the campus. It was huge. Forty thousand students. Massive lecture halls. A sprawling web of concrete and brick. "It's a city," Patrick muttered. "Navigating that... it would be a combat mission every day." "But it has the resources," Tom argued. "Disability Services office, accessible shuttles, real labs. If you want a serious engineering degree, this is the heavyweight."
 
-## 4. Community College of Hampton Roads (CCHR) 
 
 "The Safety Net," Ellen said, placing the modest pamphlet on the table. "It's affordable. It's close. You could ease into it. Take two classes at a time, see how the stamina holds up."
 
@@ -675,7 +638,6 @@ She looked at Patrick. He made a face—a slight grimace that said, *Please don'
 
 Ellen pushed those brochures aside and pulled out the "Heavy Hitters"—the specialized schools that required a road trip.
 
-## 5. Roosevelt Rehabilitation Center (Fishersville, VA)
 
 "This is the wild card," Ellen said, sliding the tri-fold brochure across the table.
 
@@ -739,7 +701,6 @@ She reached for her VocaLink.
 
 Ellen picked up the final brochure. It was thick, printed on expensive paper, featuring a photo of a brick library nestled in the Green Mountains.
 
-## 6. Putney College (Vermont)
 
 "The Holy Grail," Patrick whispered, picking up the heavy, matte-finish brochure.
 

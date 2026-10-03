@@ -193,7 +193,6 @@ Victoria didn’t say a word. She just adjusted her grip on her leather briefcas
 
 She threw the door open, and the pack mobilized.
 
-## 09:18 AM - State Route 20 (Westbound)
 
 Ashleigh drove the massive Holt Workmaster van with a terrifying, militant precision.
 
@@ -263,7 +262,6 @@ She saw the numbers and her heart hammered against her ribs. She didn't realize,
 
 She threw the schedule on the counter, grabbed a pair of sweatpants, shoved her bare feet into her sneakers, and bolted out the front door.
 
-## 09:30 AM - The Friday Harbor Terminal
 
 Vanessa sprinted the last block down to the waterfront, her lungs burning, her wet hair plastering to the side of her face in the freezing October wind. She cut across the crosswalk, ignoring a honking delivery truck, and vaulted onto the wooden planks of the ferry terminal.
 

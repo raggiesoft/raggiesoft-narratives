@@ -9,19 +9,11 @@ series: "The Silver Gauntlet of Aethel"
 
 ### Part 1: Chapter 1: The Tide and the Torch
 
-# Book I: The Glass Sea
-
-## Part 1: The Blacksmith's Secret
-
 ##### Scene 1: The Iron Keel
 
-Theme: sunstead
 
-Location: The River Docks
 
-POV: Kaelan
 
-=
 
 The river that ran past Sunstead was usually a lazy, shallow thing, muddy with the red runoff of the plateau. But Horg led them three miles downstream, to a deep-water cove hidden by weeping willows.
 
@@ -83,13 +75,9 @@ Kaelan relaxed into her touch. The anxiety faded. He wasn't drifting alone; he w
 
 ##### Scene 2: The Circuit at Rest
 
-Theme: ocean-night
 
-Location: The Cabin of the *Iron Keel*
 
-POV: Kaela
 
-=
 
 The cabin of the *Iron Keel* was roughly the size of a large closet.
 
@@ -155,15 +143,10 @@ Kaelan squeezed her tighter. "Okay. You be the water. I'll just be the heat that
 
 They drifted off, the small boat rocking gently on the black water, two halves of a whole tangled together in the dark, safe in the absolute lack of space between them.
 
-## Part 2: The Delta
 
-Theme: ocean-day
 
-Location: The River Delta
 
-POV: Kaela
 
-=
 
 The river widened. The familiar red banks of the Sunstead plateau receded, replaced by the flat, silty expanse of the Delta.
 
@@ -251,15 +234,10 @@ Kaelan looked at the endless ocean. He looked at his hands.
 
 They sailed on, the Engine and the Steering adapting to their new world, heading deeper into the blue where the Queen of Red Dust waited to become something much worse.
 
-## Part 3: The Mirror of the Deep
 
-Theme: ocean-night
 
-Location: The Open Sea (Coordinates: 3 Days South)
 
-POV: Kaelan
 
-=
 
 The Glass Sea earned its name at night.
 
@@ -337,15 +315,10 @@ Kaelan lay awake for a while longer, listening to the water lap against the hull
 
 But here, tangled with his sister in the dark, he was the hottest thing in the universe. And that was enough.
 
-## Part 4: The Archipelago of Fire
 
-Theme: ocean-volcanic
 
-Location: The Sunken Isles
 
-POV: Kaelan
 
-=
 
 Three days south of the Delta, the ocean changed.
 
@@ -413,15 +386,10 @@ He turned to Kaela. "Drop the anchor. We're going ashore."
 
 "Into the fire," Kaelan confirmed, reaching for his sword. "My turf."
 
-## Part 5: The Black Beach
 
-Theme: ocean-volcanic
 
-Location: The Black Beach (Seraphina's Excavation)
 
-POV: Kaela
 
-=
 
 The skiff ground against the black sand.
 
@@ -535,18 +503,6 @@ They turned toward the Queen.
 
 ### Part 2: Chapter 2: The Heart of the World
 
-# Book I: The Glass Sea
-
-## Part 1: The Veins of the Earth
-
-Theme: ocean-volcanic
-
-Location: The Crater Rim
-
-POV: Kaelan
-
-=
-
 Seraphina did not run. She did not cower as she had in the square at Sunstead.
 
 She stood on the ridge of jagged basalt, looking down at the twins and the shattered remains of her Magma Golems. The heat shimmering off the lava below blew her dark hair back from her face, revealing burns that had healed into shiny, silver scars—souvenirs from the Shadowspire.
@@ -607,15 +563,10 @@ Kaelan sheathed his sword. He looked at the impossible heat, the toxic gas, and 
 
 They ran toward the lava tube, descending into the dark red throat of the world, leaving the sky behind for a long time.
 
-## Part 2: The Vertical labyrinth
 
-Theme: seraphina-doom
 
-Location: The Lava Tubes
 
-POV: Kaela
 
-=
 
 The lava tube was a natural tunnel formed eons ago by flowing magma. The walls were smooth, ribbed glass that glowed with a dull, ambient red light from the active flows running parallel to them behind the rock.
 
@@ -753,15 +704,10 @@ And it was. The *Thump... Thump...* was no longer a sound. It was a physical imp
 
 They were walking into the ribcage of the god.
 
-## Part 3: The Decoy's Eye
 
-Theme: gloom
 
-Location: The Magma Chamber (The Heart)
 
-POV: Kaela
 
-=
 
 The tunnel opened into a cavern that was less a cave and more a hollowed-out cathedral of the damned.
 
@@ -873,15 +819,10 @@ He flared his aura, creating a thermal shield behind them—a bubble of cold air
 
 They shot out of the tunnel mouth on the upper ridge just as the volcano blew its top.
 
-## Part 4: The Escape
 
-Theme: ocean-day
 
-Location: The *Iron Keel*
 
-POV: Kaelan
 
-=
 
 They hit the water hard.
 
@@ -926,18 +867,6 @@ Kaelan looked at the map. He looked at the endless ocean. Then he looked at his 
 He turned the boat South, following the fleeing shadow of the Queen, deeper into the Age of Tides.
 
 ### Part 3: Chapter 3: The Weave of the Water
-
-# Book I: The Glass Sea
-
-## Part 1: The Anchor of the Storm
-
-Theme: ocean-storm
-
-Location: The Open Sea (South of the Archipelago)
-
-POV: Kaelan
-
-=
 
 The heat of the volcano was a memory now, replaced by the suffocating humidity of the tropics.
 
@@ -1045,15 +974,10 @@ But Horg’s boat refused to sink.
 
 And inside the cabin, the twins sat on the bunk, huddled together under a dry blanket, listening to the rain, warm and safe in the eye of their own storm.
 
-## Part 2: The Eye of the Storm
 
-Theme: ocean-day
 
-Location: The Hidden Atoll
 
-POV: Kaela
 
-=
 
 The storm died as quickly as it had begun.
 
@@ -1131,15 +1055,10 @@ They lay down on the mats, side by side, watching the clouds drift by.
 
 And under the protection of the ancient machine, hidden from the wrath of the rising Queen, the twins slept, gathering the strength they would need to kill a god.
 
-## Part 3: The Voice in the Light
 
-Theme: ocean-day
 
-Location: The Hidden Atoll
 
-POV: Kaela
 
-=
 
 The next morning broke with a clarity that stung the eyes.
 
@@ -1225,18 +1144,6 @@ They raised the sail. Kaelan poured a steady stream of heat into the keel, and t
 
 ### Part 4: Chapter 4: The Gyre
 
-# Book I: The Glass Sea
-
-## Part 1: The Calm Path
-
-Theme: ocean-day
-
-Location: The Approach to Sector 4
-
-POV: Kaelan
-
-=
-
 The ocean ahead looked like a washing machine filled with blue glass and razor blades.
 
 They were approaching Sector 4—the Gyre. Even from five miles out, Kaelan could see the violence of the water. The currents here didn't flow; they collided. Massive swells smashed into each other, creating towering spikes of foam and deep, swirling vortices that looked like hungry mouths.
@@ -1299,15 +1206,10 @@ Kaelan looked at the calm lane ahead of them. He tightened his grip on the tille
 
 Kaelan poured heat into the keel. The boat surged forward, gliding down the miraculous, silent highway the universe had paved for them, racing toward the churning wall of water where the Queen was trying to break the world again.
 
-## Part 2: The Centrifuge
 
-Theme: ocean-storm
 
-Location: The Eye of the Gyre
 
-POV: Kaela
 
-=
 
 The "Calm Path" ended at the wall of the Eye.
 
@@ -1449,15 +1351,10 @@ Kaelan looked at the rising tide.
 
 They jumped back onto the Iron Keel just as the ocean reclaimed the spire, burying the ancient machine back under the safety of the deep blue.
 
-## Part 3: The Map of the Sky
 
-Theme: ocean-day
 
-Location: The Gyre Spire
 
-POV: Kaelan
 
-=
 
 The water in the bowl was calm now, lapping gently against the white marble of the spire.
 
@@ -1541,15 +1438,10 @@ They climbed back onto the Iron Keel. Kaelan took the tiller, setting a course f
 
 They weren't just sailors anymore. They were the ground crew for a mission that had started before they were born, racing to stop a Queen from knocking on the door of hell.
 
-## Part 4: The Celestial Keel
 
-Theme: sunstead-winter (Extreme Cold Variant)
 
-Location: The Southern Ice Shelf (The Celestial Bridge)
 
-POV: Kaela
 
-=
 
 The temperature dropped until the air itself seemed to freeze.
 
@@ -1649,18 +1541,6 @@ With a roar of displaced air, Horg’s boat shot upward, punching through the cl
 
 ### Part 1: Chapter 1: The Silent Sector
 
-# Book II: The Star-Eater
-
-## Part 1: The Poisoned Chalice
-
-Theme: space-gloom
-
-Location: The First Orbital Decoy (The Silent Sector)
-
-POV: Kaelan
-
-=
-
 Space was not silent. Kaelan had expected it to be dead quiet, but inside the Celestial Keel, the air hummed with the vibration of the gravity drives and the low, constant whisper of the solar wind buffeting the Stellium hull.
 
 Through the glass canopy, the universe was a terrifying, beautiful expanse of black velvet and diamond dust.
@@ -1743,15 +1623,10 @@ Kaelan steered the boat away, leaving the corrupted Queen and her sleeping victi
 
 "It's about to get weirder," Kaela promised, pulling up the star map. "Next stop: The Nebular Gate."
 
-## Part 2: The Sacrifice of Pawns
 
-Theme: space-action
 
-Location: The Nebular Gate
 
-POV: Kaela
 
-=
 
 The Nebular Gate was a bottleneck in the cosmos—a swirling vortex of purple gas and asteroids that marked the entrance to the inner sanctum of the Silent Sector.
 
@@ -1837,17 +1712,12 @@ Kaelan took a deep breath, centering himself. He channeled the heat back into th
 
 The Celestial Keel surged forward, diving into the purple fog, chasing the poisoned Queen into the dark.
 
-## Part 3: The Disposable Army
 
 ##### Scene 1: Seraphina has a Problem
 
-Theme: gloom
 
-Location: Seraphina's Flagship, The Obsidian Queen
 
-POV: Seraphina
 
-=
 
 Seraphina stumbled into her private quarters, clutching her swollen abdomen.
 
@@ -1883,13 +1753,9 @@ The door to the quarters slid shut, sealing them in.
 
 ##### Scene 2: The Realization
 
-Theme: gloom
 
-Location: The Corridor outside Seraphina’s Quarters
 
-POV: Mercenary Jareth
 
-=
 
 Jareth stood guard outside the Queen’s door. He leaned on his spear, listening to the hum of the ship’s drive.
 
@@ -1955,13 +1821,9 @@ They weren't approaching a temple. They were approaching a corpse that refused t
 
 ##### Scene 3: The Golden Shackle
 
-Theme: gloom
 
-Location: The Bridge of The Obsidian Queen
 
-POV: Seraphina
 
-=
 
 Seraphina swept onto the bridge. The air crackled with her restored presence. She was no longer the bloated, waddling invalid who had hidden in her quarters. She was the Viper Queen, sleek and lethal.
 
@@ -2042,18 +1904,6 @@ She turned back to the viewport, staring at the massive, fossilized Ribcage loom
 "Earn your keep," she whispered. "Die well."
 
 ### Part 2: Chapter 2: The Ribcage of the Gods
-
-# Book II: The Star-Eater
-
-## Part 1: The Ossuary of Stars
-
-Theme: space-gloom
-
-Location: The Outer Ribcage (The Approaches)
-
-POV: Kaela
-
-=
 
 The Celestial Keel didn't just sail; it drifted like a speck of dust into the mouth of a giant.
 
@@ -2139,15 +1989,10 @@ She pointed to the fortress ahead. The Obsidian Queen was docked there, looking 
 
 He pushed the tiller. The Celestial Keel shot forward, authorized and welcomed by the very monster the villain was trying to tame. They weren't sneaking in; they were being invited to take out the trash.
 
-## Part 2: The Golden Exodus
 
-Theme: space-gloom
 
-Location: The Inner Ribcage (Approaching the Brain Stem)
 
-POV: Kaela
 
-=
 
 The fortress suspended in the center of the ribcage—the Brain Stem—was a terrifying fusion of biology and architecture. It was a massive, pulsating node of black crystal and silver piping, where the Star-Eater's nervous system connected to the physical controls.
 
@@ -2224,18 +2069,6 @@ They walked through the ghost ship, crossing the gantry into the Star-Eater’s 
 They were walking into the mind of a god, and the only thing waiting for them was a woman who thought she could outsmart the universe.
 
 ### Part 3: Chapter 3: The War for the Mind
-
-# Book II: The Star-Eater
-
-## Part 1: The Dynasty of Ruin
-
-Theme: space-gloom
-
-Location: The Brain Stem (The Node Room)
-
-POV: Kaela
-
-=
 
 The Brain Stem was a cavern of pulsating light. Massive nerve endings—cables of silver and glass thick as tree trunks—converged in the center of the room, plugging into a central console that hummed with the thoughts of the sleeping god.
 
@@ -2347,15 +2180,10 @@ She raised her hand to strike, but she stumbled. The shock had scrambled her ner
 
 "Round two," Kaelan spat, his fire finally igniting, burning away the shame. "Come on."
 
-## Part 2: The Solar Solder
 
-Theme: space-action
 
-Location: The Brain Stem (The Node Room)
 
-POV: Kaela
 
-=
 
 Seraphina stumbled back, her nervous system still twitching from the electric shock. She looked at Kaelan, then at Kaela. She saw the Circuit forming between them—the golden and silver light weaving together into a shield she couldn't break.
 
@@ -2459,17 +2287,12 @@ She turned and fled, running deeper into the brain stem, toward the only place l
 
 They followed her.
 
-## Part 3: The Final Battle
 
 ##### Scene 1: The Hollow Victory
 
-Theme: space-action
 
-Location: The Memory Core
 
-POV: Kaelan
 
-=
 
 The Memory Core was a cathedral of liquid silence.
 
@@ -2571,13 +2394,9 @@ She collapsed to her knees, staring at him, hate warring with mortality in her d
 
 ##### Scene 2: The Dawn of the Twins
 
-Theme: space-victory
 
-Location: The Memory Core
 
-POV: Kaela
 
-=
 
 Seraphina knelt on the floor of the memory sphere, her finger pointing at Kaelan’s heart. A spark of black necrotic magic flickered at her fingertip, struggling to ignite.
 
@@ -2671,13 +2490,9 @@ Kaelan slumped against Kaela. "He's kicking us out?"
 
 ##### Scene 3: The Broken Wedge
 
-Theme: space-memory
 
-Location: The Memory Core (The Star-Eater’s Mind)
 
-POV: Kaelan
 
-=
 
 The silence in the Memory Core was absolute. Seraphina was gone, erased from existence. The twins stood amidst the floating silver droplets of the god’s memory, breathing hard, their hands still clasped.
 
@@ -2789,18 +2604,6 @@ They walked out of the Memory Core, leaving the ghosts of the past behind, final
 
 ### Part 4: Chapter 4: The Long Way Down
 
-# Book II: The Star-Eater
-
-## Part 1: The Departure
-
-Theme: space-wonder
-
-Location: The Inner Ribcage (The Brain Stem Dock)
-
-POV: Kaela
-
-=
-
 The walk back from the Memory Core was quiet, but it wasn't the heavy, suffocating silence of the last three years. It was the comfortable silence of a job finished.
 
 Kaelan walked beside her, his arm draped heavily over her shoulders, his weight a grounding presence. They crossed the gantry of the Brain Stem, passing the massive, silver nerve-cables that were already beginning to dim. The violet pulse of the Star-Eater slowed, dropping from the frantic, strobe-light rhythm of "Crisis" to the slow, tectonic thrum of "Hibernation."
@@ -2853,15 +2656,10 @@ Kaelan grinned, leaning his head back against the seat. "Two days."
 
 Kaela laughed, the sound bright and clear in the small cabin. She leaned into him, watching the stars streak by as the Celestial Keel picked up speed, falling toward the world that was waiting for them.
 
-## Part 2: The Zero-G Payment Plan
 
-Theme: space-intimacy
 
-Location: The Cabin of the Celestial Keel
 
-POV: Kaelan
 
-=
 
 Time in the void was a slippery thing. Without a sunrise or sunset to mark the hours, the "day" was just a relentless, blinding glare from the twin suns burning in the distance.
 
@@ -2931,15 +2729,10 @@ They settled into the air, perfectly still.
 
 And for the first time in the history of their lineage, the Sun and the Moon slept amongst the stars, not as gods watching over the world, but as two weary travelers holding onto each other in the dark.
 
-## Part 3: The Sphere of Morning
 
-Theme: space-intimacy
 
-Location: The Cabin of the Celestial Kee
 
-POV: Kaela
 
-=
 
 Morning in the void was a decision, not an event.
 
@@ -3033,15 +2826,10 @@ He pulled her flush against him, his arm draped over her waist, his chin resting
 
 "Best payment plan ever," Kaelan mumbled, and drifted back to sleep.
 
-## Part 4: The Long Wait
 
-Theme: space-intimacy
 
-Location: The Cabin of the Celestial Keel
 
-POV: Kaela
 
-=
 
 The hours in the void didn't tick by; they floated.
 
@@ -3129,15 +2917,10 @@ Kaelan smiled. He pressed a kiss to her forehead, holding her tight against the 
 
 "I know," he said. "Neither am I."
 
-## Part 5: The Fire of Return
 
-Theme: space-action
 
-Location: Earth’s Upper Atmosphere / The Celestial Bridge
 
-POV: Kaela
 
-=
 
 The last meal in the void was simple.
 
@@ -3251,15 +3034,10 @@ Kaelan went to the tiller. He didn't use magic. He used his muscles to haul up t
 
 The Iron Keel cut through the slush, leaving the edge of the world behind, sailing North toward the red dust, the slate roof, and the quiet life they had fought so hard to earn.
 
-## Part 6: The Long Way Home
 
-Theme: sunstead-return
 
-Location: The Glass Sea / The River Delta
 
-POV: Kaelan
 
-=
 
 The journey North was not measured in light-years or orbital trajectories. It was measured in the slow, rhythmic creak of the boom and the slap of water against oak planks.
 
@@ -3342,18 +3120,6 @@ The silence in the room wasn't empty. It was full of the fire's crackle, the win
 They stood there as the twin suns set, the heroes of the age, invisible and content, ready to do absolutely nothing for a very long time.
 
 ### Part 5: Chapter 5: The Cottage
-
-# Book II: The Star-Eater
-
-## Part 1: The Stone Fence
-
-Theme: sunstead-peace
-
-Location: The Cottage on the Ridge
-
-POV: Kaela
-
-=
 
 The morning suns did not burst into the cottage; they crept in, filtered through the thick glass of the small eastern window and the grey slate of the low eaves.
 

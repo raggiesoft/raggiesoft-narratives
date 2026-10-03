@@ -9,10 +9,6 @@ series: "Nichole"
 
 ### Part 1: The Protocol Negotiation
 
-# Graduation
-
-## Date: April 10, 2008 (Senior Year) Location: Office of the Commencement Director, Braxton State University The Goal: Secure permission to deviate from the script.
-
 Mrs. Gable, the Director of Commencement, was a woman who lived for clipboards and alphabetical order. She looked at the two students sitting across from her desk.
 
 "I understand you have concerns," Mrs. Gable said, tapping her pen. "But the procession is a time-honored tradition. All 2,000 graduates march into the Bull Ring while the band plays *Pomp and Circumstance*. It symbolizes the journey."
@@ -82,10 +78,6 @@ Patrick smiled. It was the smile of a man who had spent four years in a lab.
 "I've handled the heat," Patrick said. "I modified the gowns."
 
 ### Part 2: The \
-
-# Graduation
-
-## Date: May 17, 2008 (Graduation Day) Time: 11:00 AM Location: The Field House (Tunnel Waiting Area)
 
 Outside, in the Bull Ring, the temperature was a sweltering 88°F with 90% humidity. The Narragansett Bay breeze was dead calm. Parents in the stands were fanning themselves with programs. The band had just started the endless loop of *Pomp and Circumstance*.
 

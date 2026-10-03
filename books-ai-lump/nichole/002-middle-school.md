@@ -9,13 +9,10 @@ series: "Nichole"
 
 ### Part 1: The Curb Trap
 
-# The Test Run
-
 Date: August 28, 1996 (Three days before 6th Grade)
 
 Time: 10:00 AM
 
-Location: Morrison Middle School (Main Entrance)
 
 The heat of late August hung over Morrison Street like a wet wool blanket. It was ninety degrees in the shade, and the asphalt of the school driveway shimmered in the haze.
 
@@ -35,7 +32,6 @@ She tapped her armrest twice. Let's go.
 
 They reached the corner of the school property—the spot where the school driveway met Morrison Street. Patrick stopped.
 
-## The Trap
 
 The sidewalk simply ended. Ahead of them, painted on the black asphalt of the driveway, was a white crosswalk. But between the sidewalk and the crosswalk, there was a six-inch drop. A sheer concrete cliff.
 
@@ -98,8 +94,6 @@ Ellen looked down the street at the school, then at her kids. "I'm calling the c
 ## The Yellow Wall
 
 ### Part 1: Arrival at Morrison Middle School
-
-# The Yellow Wall
 
 Date: September 3, 1996 (First Day of 6th Grade) Time: 07:45 AM Location: The Corner of Earnhardt & Morrison
 
@@ -189,10 +183,6 @@ She looked at Patrick and tapped her temple. *Crazy.*
 
 ### Part 1: The Fire Alarm
 
-# Middle School Life
-
-## Date: October 14, 1996 Time: 11:00 AM Location: Morrison Middle School, Virginia Beach Grade: 6th Grade
-
 Morrison Middle School was a sprawling, single-story brick fortress built in 1978. It was designed in an era before "accessibility" was a federal mandate. The floors were flat linoleum, which was good, but the hallways were narrow, and the sensory environment was unregulated.  
 
 It was third period. Patrick was in Earth Science. Nichole was in Language Arts, three halls away.  
@@ -209,7 +199,6 @@ There were no flashing lights to warn you. Just sound.  
 
 For a neurotypical kid, it was annoying. For Nichole, whose sensory processing system ran hot, it was physical violence.  
 
-## The Abandonment
 
 Patrick filed out of his Earth Science classroom with his designated partner.
 
@@ -233,7 +222,6 @@ Patrick stopped. He broke the line.  
 
 Patrick ignored him. He shoved past two 8th graders and sprinted toward the Language Arts wing.  
 
-## The Intervention
 
 He found her near the library intersection.  
 
@@ -257,7 +245,6 @@ He shoved the chair into the stream of his own Earth Science class.  
 
 He wheeled her out the double doors, bumping hard over the metal threshold, and out onto the sidewalk.  
 
-## The Squeeze
 
 The cool October air hit them. But the alarm was still audible, a distant drone from the building.  
 
@@ -307,7 +294,6 @@ It was a desperate, physical "thank you." Don't let go.
 
 Patrick didn't let go. He stayed there, kneeling in the dirt, holding his sister while she held him back, anchored together while 600 students watched from the assembly lines.  
 
-## The Fallout
 
 "PATRICK BENNETT!"
 
@@ -362,10 +348,6 @@ He turned back to Patrick.
 He turned the chair around, putting his back to the Principal, and pushed Nichole toward the far edge of the blacktop, away from the administration, away from the apology, and toward the only safety that mattered.
 
 ### Part 2: The Call
-
-# Middle School Life
-
-## Time: 11:30 AM Location: The Bennett Kitchen (3 Blocks Away)
 
 The phone rang. Ellen Bennett picked it up, wiping flour from her hands.
 
@@ -453,7 +435,6 @@ Tom checked his watch. It was 11:35 AM.
 
 Ellen grabbed her coat. They didn't take the car. They didn't need it. They walked out the door and headed down the sidewalk, marching toward the school with the terrifying, silent synchronization of two parents who knew exactly who the real insubordinate person was.
 
-## The Reckoning, Time: 11:42 AM Location: Principal’s Conference Room, Morrison Middle School
 
 Tom and Ellen Bennett walked up the wide, flat concrete path to the school. They weren't holding hands. They were marching in lockstep, their strides matched, their expressions identical masks of grim determination.
 
@@ -677,7 +658,6 @@ Valenti swallowed hard. He looked at the torn paper. He looked at the united fro
 
 "Good," Tom said, standing up. "We're done here."
 
-## The Extraction Time: 12:20 PM Location: Principal’s Conference Room
 
 Tom stood up. He didn't look at Valenti. He looked at his watch.
 
@@ -709,7 +689,6 @@ Patrick didn't change course. He pushed Nichole down the ramp and onto the aspha
 
 "Just watch," Patrick said over his shoulder. "I want to show you something."
 
-## The Obstacle Course on Morrison Street (The Bus Loop)
 
 Tom and Ellen exchanged a look, then followed their children into the street. It felt wrong to be walking on the road, exposed, but Patrick moved with the confidence of someone who did this every morning and every afternoon.
 
@@ -807,7 +786,6 @@ Patrick wheeled Nichole over the threshold. The transition strip was perfectly f
 
 Inside the Fortress, there were no curbs. Inside, everything worked.
 
-## The Verdict
 
 The living room was dim, the heavy curtains drawn against the afternoon sun. The only light came from the television, which was playing a loud, colorful chase scene involving a generic cat and a clever mouse.
 
@@ -893,7 +871,6 @@ Patrick tightened his hug, shielding her completely from the room, the school, a
 
 Nichole didn't move. She didn't want to go back to the floor. She had found her station, and she wasn't planning on leaving.
 
-## The Paper Shield, Date: October 14, 1996 Time: 1:35 PM Location: The Kitchen, 1850 Delaney Street, Virginia Beach
 
 While the living room was dark and quiet, the kitchen was bright and loud with the sound of aggressive typing.
 
@@ -989,7 +966,6 @@ Thomas Bennett Ellen Bennett
 
 CC: Office for Civil Rights U.S. Department of Education Washington, D.C.
 
-## The Chain of Command
 
 Date: October 15, 1996 Time: 8:05 AM Location: Office of the Principal, Morrison Middle School
 
@@ -1053,7 +1029,6 @@ He picked up his pen. He opened Patrick Bennett’s file. He wrote a note on the
 
 DO NOT TOUCH.
 
-## The Surrender
 
 Date: October 16, 1996 (48 Hours Post-Incident) Time: 10:00 AM Location: The Bennett Mailbox / 1850 Delaney Street
 
@@ -1105,7 +1080,6 @@ Dr. Arlene Richardson Director of Special Education, VBCPS
 
 CC: Principal Frank Valenti, Morrison Middle School Office for Civil Rights, U.S. Department of Education (Reference: Complaint Resolved/Closed)
 
-## The Victory Lap
 
 Tom read the letter. He lingered on the bolded section: Patrick Bennett is authorized to leave his assigned location.
 
@@ -1144,8 +1118,6 @@ HIRED.
 It was official. The Bennett Machine was no longer a rogue operation. It was district policy.
 
 ### Part 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
-
-# Middle School Life
 
 The victory had lasted exactly twenty-eight days.
 
@@ -1209,7 +1181,6 @@ The phone rang.
 
 It was the District Office. They wanted a meeting immediately to "discuss the OCR mandate."
 
-## The Retraction Date: November 14, 1996 Location: Morrison Middle School, Conference Room B
 
 The atmosphere in the room was entirely different this time.
 
@@ -1261,7 +1232,6 @@ Dr. Richardson didn't argue. She just nodded, relieved to have the signature. "W
 
 "Your best wasn't good enough last time," Tom said.
 
-## The Shadow Protocol Date: November 14, 1996 Time: 6:30 PM Location: The Bennett Garage
 
 Patrick was sitting on the workbench, watching his dad sand a piece of wood. The sawdust smelled like pine.
 
@@ -1334,10 +1304,6 @@ Tom looked at his son—eleven years old, carrying a burden most men never faced
 Patrick went inside. Tom stayed in the garage, listening to the silence, praying that the only fires Morrison Middle School ever saw were the ones on paper.
 
 ### Part 4: The Third Wheel
-
-# Middle School Life
-
-## Date: November 12, 1997 Grade: 7th Grade Location: Mrs. Miller’s Life Science Room, Morrison Middle School
 
 The assignment was standard 7th-grade curriculum, but the logistics were a nightmare.
 
@@ -1427,10 +1393,6 @@ Nichole poised her finger over the VocaLink's thermal printer button. She wasn't
 
 ### Part 5: The Architect and the Laborer
 
-# Middle School Life
-
-## Date: November 12, 1997 Time: 10:45 AM Location: Mrs. Miller’s Life Science Room
-
 For the next forty minutes, the table became a microcosm of the real world.
 
 Kevin, true to his word, provided the "muscle"—but only in the laziest sense possible. He rolled a few balls of clay, flattened them poorly, and then spent ten minutes trying to make a clay snake to scare the girls at the next table.
@@ -1471,7 +1433,6 @@ Kevin, having contributed approximately three lumpy balls of clay, leaned back o
 
 Nichole looked at him. She looked at the model. Then she looked at Mrs. Miller, who was standing a few feet away with her grade book, watching the entire exchange over the rim of her glasses.
 
-## The Grade, Date: November 14, 1997 (Two Days Later) Location: Mrs. Miller’s Life Science Room
 
 The graded rubrics were placed face-down on the tables.
 

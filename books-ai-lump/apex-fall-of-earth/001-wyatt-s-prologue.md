@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: The Deep End – Mid-October 2044
 
-# Wyatt – Expendable Assets
-
 The heavy, pressurized hiss of the airlock cycling open was the best sound Wyatt Colton had heard in six months.
 
 He stepped out of the decompression chamber, peeling the heavy, salt-stained thermal layers of his deep-sea welding suit off his broad shoulders. The air in the locker room tasted heavily of rust, artificial pine solvent, and the crushing, damp claustrophobia of the frontier water-world.
@@ -41,8 +39,6 @@ It was time to go wait for the FIPS transport. It was time to go to Earth.
 
 ### Part 2: Freight – Mid-October 2044
 
-# Wyatt – Expendable Assets
-
 The boarding process for the Frontier Interplanetary Personnel Services transport was a chaotic, shouted mess. By the time Wyatt navigated the narrow aisle and found an open spot, the interior already smelled like ozone, stale sweat, and cheap recycled air.
 
 The cabin was packed with other dead-eyed, exhausted contractors, and nobody was talking. They were a mix of desperate laborers, washed-up mercenaries, and debtors, but they all shared the same grim posture. Everyone was just dreading the start of their shift.
@@ -60,8 +56,6 @@ Wyatt didn't mind. He preferred the isolation. He crossed his scarred arms over 
 He didn't dream about the ocean he’d just left behind, and he didn't wonder about the future. He just let the vibrations of the deck plates pull him into a numb, dreamless void, conserving his energy. Earth was waiting on the other side, and Wyatt knew from years of experience that whatever Apex had buried out in the Nevada desert was going to demand every ounce of strength he had left.
 
 ### Part 3: The Pipeline
-
-# Wyatt – Expendable Assets
 
 The FIPS hauler slammed into the docking cradle at the Las Vegas Interplanetary Spaceport with a bone-jarring thud that rattled the fillings in Wyatt’s teeth. The heavy pneumatic locks engaged, and the sub-light engines finally whined down into silence.
 
@@ -98,8 +92,6 @@ Wyatt crossed his thick, scarred arms over his chest and closed his eyes as the 
 He let the roar of the atmospheric engines completely drown out the nervous chatter of the rookies vibrating in the seats around him. He didn't know what kind of black-budget nightmare Apex was running out in the Nevada desert, and he didn't care. He didn't look out the window at the sprawling, darkened wasteland below. He just kept his head down, waiting for the drop, ready to start the clock on another hellhole.
 
 ### Part 4: Intake
-
-# Wyatt – Expendable Assets
 
 The Sierra Pacific shuttle hit the landing pad with a heavy, jarring thud that rattled the fillings in Wyatt’s teeth. The atmospheric engines whined down into a low, mechanical idle. A second later, the pneumatic locks disengaged, and the heavy metal ramp at the front of the cabin hissed open.
 
@@ -147,8 +139,6 @@ He put his head down and started walking.
 
 ### Part 5: The Filing Cabinet
 
-# Wyatt – Expendable Assets
-
 The heavy metal turnstile clunked shut behind Wyatt, sealing him inside Apex Defense Solution's subterranean staging facility. He followed the scuffed yellow line painted on the concrete floor, walking down a long, windowless corridor illuminated by harsh, buzzing fluorescent tubes. The air here was heavy, smelling of stale sweat, cheap floor wax, and the metallic tang of industrial machinery vibrating through the floorboards.
 
 A rusted metal sign hanging from the low ceiling pointed left: S.H.O.P. BARRACKS 4.
@@ -189,8 +179,6 @@ Wyatt looked down into the metal box at the warm, rumpled mattress on the floor.
 
 ### Part 6: The Washroom
 
-# Wyatt – Expendable Assets
-
 Wyatt left his canvas duffel bag on the floor next to Bunk 42-C. He grabbed his hygiene kit and his scratchy, company-issued towel, stepping back out into the narrow, 64-inch aisle of the barracks.
 
 As he walked, his jaw set in a tight, annoyed line. Hot-bunking. He wasn't surprised. He'd worked deep-sea welding rigs and off-world refineries before, and the corporate math was always the same. Why buy three beds when you can force three shifts of contractors to rotate on a single, perpetually warm, sweat-stained mattress? It was infuriating, but it was exactly the kind of predatory cost-cutting you expected from a company that recruited out of economically dead towns. Apex knew they needed the credits too much to quit.
@@ -215,8 +203,6 @@ Ten minutes later, Wyatt was zipped into his stiff, abrasive black and hazard-ye
 
 ### Part 7: The Trough
 
-# Wyatt – Expendable Assets
-
 Wyatt zipped up the front of his stiff, abrasive black utility uniform, the heavy collar scratching against his neck. The nametape pinned over his right breast pocket read COLTON.
 
 He stepped out of the washroom corridor and merged with the sluggish stream of exhausted S.H.O.P. Marine contractors shuffling down the neon-lit hall. The noise hit him before he even entered the room—a deafening, echoing roar of overlapping conversations, scraping metal benches, and the low, constant hum of the facility's massive ventilation scrubbers.
@@ -236,8 +222,6 @@ Wyatt chewed a mouthful of his gray paste, his face completely stoic. He knew ex
 Finding no open seats, Wyatt leaned against a concrete support pillar near the exit to eat alone. He finished his block in four massive bites, tossed the metal tray into the magnetic reclamation bin, and headed for Sector 1: Security Processing to clock in. He had a perimeter to walk.
 
 ### Part 8: The Checkpoint
-
-# Wyatt – Expendable Assets
 
 Wyatt tossed his empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
 

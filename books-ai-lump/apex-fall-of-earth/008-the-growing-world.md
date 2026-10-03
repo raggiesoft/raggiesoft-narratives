@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: The Pattern Disruption
 
-# The Final Roster
-
 The residential living room was bathed in the warm, golden light of mid-afternoon. At exactly 15:00, the estate was operating in a state of quiet, focused domesticity.
 
 Over by the massive hydro-glass windows, nearly-three-year-old Jack was diligently showing his four-month-old twin sisters, Molly and Claire, how to properly stack soft, molecularly printed blocks. The infant girls were lying on their padded floor mat, entirely captivated by their diplomatic big brother.
@@ -89,8 +87,6 @@ The Colton family was growing one final time. And the Vanguard was already prepa
 
 ### Part 2: The Rhythm Section
 
-# The Final Roster
-
 The sprawling residential living room was filled with a sound that hadn't echoed across a planet in nearly a decade.
 
 Wyatt Colton had spent the last week in the Fabrication Foundry, putting his mechanic's brain to work on something entirely luxurious. He had molecularly printed a massive, high-fidelity analog stereo system, complete with glowing vacuum tubes and towering acoustic-foam speakers.
@@ -159,8 +155,6 @@ The galaxy was vast, old, and scarred. But inside the impenetrable walls of The 
 
 ### Part 3: The Archives of Earth
 
-# The Final Roster
-
 The final, soaring synthesizer chord of Escape Velocity slowly faded into the acoustic foam of the massive wooden speakers, leaving behind a profound, meditative silence in the living room.
 
 Wyatt kept his arm securely wrapped around Sarah, his mechanic's brain turning over the math he had just done. He looked up at the ceiling array.
@@ -216,8 +210,6 @@ Wyatt grinned, pulling out his datapad to connect to the massive analog stereo s
 "You heard him, Aria," Wyatt commanded softly, his protective heart completely full. "Cue up Hard Reset. Let's keep the music playing."
 
 ### Part 4: The Fleet Upgrade
-
-# The Final Roster
 
 The sprawling, open-concept living room was a masterclass in sensory regulation.
 
@@ -317,8 +309,6 @@ Nora beamed, taking her place at the rear push-bars. Ellie took the front. The u
 
 ### Part 5: The Stabilizers
 
-# The Final Roster
-
 The fleet of specialized transports was a resounding success, but Wyatt Colton’s engineering summit wasn't quite finished.
 
 While Ellie and Nora expertly maneuvered Leo’s new Daily Driver around the perimeter of the living room, Wyatt reached back into the cargo compartment of the hovering maintenance drone. He pulled out a long, narrow canvas sleeve.
@@ -396,8 +386,6 @@ Nora, Ellie, and Leo were communicating seamlessly, a unified front of neurodive
 "They're going to be ready, Wyatt," Sarah whispered back, resting her head against his shoulder. "When the time comes to wake the vault... they're going to be ready to lead it."
 
 ### Part 6: The Enforcers
-
-# The Final Roster
 
 The automated medical bay on Sub-Level 1 had seen its fair share of intense deliveries, but the arrival of the final Colton recruits was proving to be a grueling, physical battle.
 
@@ -489,8 +477,6 @@ The first generation of Planet Eden was ready. And in a few years, when the Vang
 
 ### Part 1: The Expanded Jurisdiction
 
-# The Foundations of Genesis
-
 The sprawling residential living room of The Sanctuary was bathed in the crisp, golden light of an Eden autumn. The massive hydro-glass windows offered a breathtaking view of the valley below, where the emerald alien pines were just beginning to tip with seasonal shades of amber and rust.
 
 Inside the mountain, the Colton family was operating in a state of perfectly synchronized, beautiful chaos.
@@ -567,8 +553,6 @@ Wyatt watched his three oldest children leave the room, completely awestruck by 
 
 ### Part 2: The Cornerstone
 
-# The Foundations of Genesis
-
 The deafening, raw roar of the eastern valley waterfall was a magnificent sound, but today, it was competing with the heavy, rhythmic thrum of industrial repulsor engines.
 
 Three miles from the camouflaged hangar doors of The Sanctuary, Wyatt Colton and his eight-year-old daughter stood on a massive, heavily forested plateau.
@@ -636,8 +620,6 @@ Wyatt let out a booming, joyous laugh, reaching out to ruffle his daughter's dar
 "Let's get to work, Commander," Wyatt grinned.
 
 ### Part 3: The Biological Override
-
-# The Foundations of Genesis
 
 The automated medical bay on Sub-Level 1 was usually reserved for serious injuries or new arrivals, but this morning, it was functioning as a biological tailoring shop.
 
@@ -718,8 +700,6 @@ Wyatt stood up from the workbench, his chest tight with a mixture of heartbreak 
 "Yeah," Wyatt murmured, pulling her close as he watched his three oldest children untangle themselves. "But I think I need to hit the Fab-Foundry this afternoon. I have a feeling I'm going to be printing a lot of larger clothes and bigger armor."
 
 ### Part 4: The Anomalous Data
-
-# The Foundations of Genesis
 
 The mahogany-paneled library of The Sanctuary was cool and quiet, serving as the Vanguard’s primary classroom for the afternoon.
 
@@ -803,8 +783,6 @@ Wyatt stood up, offering his hand to pull Sarah off the floor. They walked quiet
 
 ### Part 5: The Endocrine Protocol
 
-# The Foundations of Genesis
-
 The sprawling residential living room of The Sanctuary was a study in profound, accelerated growth. Over the past year, the entire linguistic landscape of the mountain fortress had shifted. The soft, childish echoes of Mama and Dada had been completely eradicated, replaced by the crisp, highly articulate, and fiercely capable voices of the Colton squad.
 
 Over by the massive hydro-glass windows, Wyatt Colton was currently conducting a hazard assessment of his own genetics.
@@ -885,8 +863,6 @@ Wyatt walked over from where the twins had been wrestling, stepping up behind Sa
 
 ### Part 6: The First Ten
 
-# The Foundations of Genesis
-
 The mahogany-paneled library of The Sanctuary was operating at maximum tactical capacity.
 
 At eleven years old, the Vanguard had fully entered the throes of adolescence. The physical changes were impossible to ignore, but the unit’s unbreakable perimeter had successfully adapted to the chaotic biological updates.
@@ -948,8 +924,6 @@ He couldn't wait to meet them.
 The blueprints were drawn. The roster was locked. The cultural history of Earth was queued up and ready to broadcast. The countdown to their twelfth birthday—and the official dawn of a new civilization—had officially begun.
 
 ### Part 7: The Sydney Protocol
-
-# The Foundations of Genesis
 
 The heavy, brushed-steel doors of the primary pneumatic elevator hissed shut on the residential level. For the first time in years, the entire Colton squad was descending into the deepest, coldest level of The Sanctuary.
 
@@ -1039,8 +1013,6 @@ Planet Eden was finally about to get some new neighbors.
 
 ### Part 1: The First Breath
 
-# The Awakening
-
 The atmosphere inside The Sanctuary was electric. Today was not just a celebration of life; it was the ignition sequence for a brand new world.
 
 It was the Vanguard’s twelfth birthday.
@@ -1129,8 +1101,6 @@ The triplets didn't break formation, but Nora leaned her head against Leo's shou
 
 ### Part 2: The Command Staff Celebration
 
-# The Awakening
-
 The heavy brushed-steel doors of the pneumatic elevator hissed open on the residential level, instantly replacing the frigid, hyper-filtered air of the Genesis Vault with the warm, rich aroma of an absolute feast.
 
 "The dining sector is fully prepped, Wyatt," Aria’s voice chimed from the ceiling array. True to the new cultural protocol, the AI was maintaining the bright, energetic Sydney accent. It was a completely new phonetic rhythm for the mountain, but the family was already adapting to the sunlit cadence. "I’ve dimmed the ambient lighting to reduce sensory glare for Leo, and the thermal regulators are holding at a perfect twenty-one degrees."
@@ -1217,8 +1187,6 @@ Down in the dark, ten artificial wombs were glowing with new life. But up here i
 
 ### Part 3: The Gestation Protocol
 
-# The Awakening
-
 The nine-month gestation cycle of the Genesis Ten was not a period of waiting; it was a period of absolute, highly coordinated planetary construction.
 
 By the third month of the cycle, the spring thaw had flooded the valley floor, but the durasteel foundations of the Genesis village held perfectly. Up on the elevated plateau, the skeleton of the new town was rapidly taking shape.
@@ -1294,8 +1262,6 @@ Jack looked up at his parents, his bright eyes wide with absolute wonder. Tyler 
 The nine-month wait was over. The Genesis Ten were arriving at dawn.
 
 ### Part 4: Arrival Day
-
-# The Awakening
 
 The cavernous, brilliantly lit staging bay on Sub-Level 6 was silent except for the low, rhythmic hum of ten artificial gestation cylinders.
 
@@ -1396,8 +1362,6 @@ The empty, quiet mountain was suddenly filled with life. The 50,000 embryos were
 The village of Genesis was officially alive.
 
 ### Part 5: The Roster Expansion
-
-# The Awakening
 
 The initial, chaotic adrenaline of the decanting process had finally settled.
 
@@ -1502,8 +1466,6 @@ She stepped back from the console, patting the titanium rim of Leo's wheelchair.
 "Good base," Ellie declared, the commanding officer finally, completely satisfied with her civilization.
 
 ### Part 6: The Nursery Logistics
-
-# The Awakening
 
 The Aegis deflector shield could effortlessly absorb an orbital plasma bombardment, but it was completely useless against the synchronized, ear-splitting demands of ten hungry infants.
 

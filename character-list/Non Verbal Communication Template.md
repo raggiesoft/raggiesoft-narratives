@@ -13,15 +13,12 @@ creation_date: "{{date}}"
 status: template
 ---
 
-# [Character Name]'s Personal Communication Cues & Boundaries
-
 *(Understood by [Core Trusted Group]; [Specific Person, e.g., Twin/Closest Sibling/Partner] often has a deeper/quicker understanding)*
 
 [Character Name] is functionally non-verbal for speech. They use their AAC device as their primary "voice." However, they also use a rich system of vocal sounds (not articulated words, except in extremely rare, high-emotion instances where a single, distorted word might escape), facial expressions, head movements, and hand/arm gestures.
 
 ---
 
-## Basic Needs & States
 
 ### "Yes"
 *   **Sound:** Short, soft hum (upward inflection), or a quick, breathy "Huh!"
@@ -41,7 +38,6 @@ status: template
 
 ---
 
-## Bathroom / Need to Use Toilet
 
 ### General "Need Toilet" Cue
 *   **Sound:** An urgent, slightly higher-pitched grunt or a specific sequence of sharp breaths.
@@ -67,7 +63,6 @@ status: template
 
 ---
 
-## Physical States
 
 ### "Pain/Discomfort/Need Repositioning"
 *   **Sound:** Sharp intake of breath, low moan, whimper, or a specific, tight grunt.
@@ -79,7 +74,6 @@ status: template
 
 ---
 
-## Emotions & Reactions to Touch
 
 ### "Happy/Excited/Joyful"
 *   **Sound:** Bright squeals, happy hums escalating in pitch, breathy chuckles/laughs. In intense excitement, a sharp, expressive vocalization that trusted people interpret as almost a word (e.g., "Look!").
@@ -99,7 +93,6 @@ status: template
 
 ---
 
-## WANTED Affection, Hugs, and Kisses
 
 ### General Affection (Hugs with [Core Trusted Group])
 *   **Sound:** Soft, contented sigh or hum, especially when hugged; relaxed, open quality.
@@ -122,7 +115,6 @@ status: template
 
 ---
 
-## UNWANTED / OBLIGATED Affection & Touch
 
 ### With an Abusive/Controlling Partner (e.g., [Abuser Name]) – Progression
 *   **Phase 1: Early Relationship (Believed Genuine Affection / Pre-Abuse):** Kissing (Initial, simple) might have been reciprocated with shy pleasure; open, relaxed body, soft smiles; happy sounds; positive AAC messages.
@@ -147,7 +139,6 @@ status: template
 
 ---
 
-## Simple Communication & Requests
 
 ### "Want (object/action)"
 *   **Sound:** Eager "uh-uh!" sound (upward lilt).
@@ -171,7 +162,6 @@ status: template
 
 ---
 
-## Vulnerability & Distress Responses
 
 ### Response to Involuntary Movements (e.g., Nightmares, Night Terrors)
 *   Implicitly trusts [Core Trusted Group] for safe physical restraint/holding. It might take them a moment to realize that a safe person is attempting to restrain them.

@@ -1,11 +1,5 @@
-**User:**
-In another conversation, we are building this beautiful narrative of Cassandra Vance as CEO of Quantum (my in-universe Microsoft). I want to discuss creating a parallel narrative for David. He’s her younger brother and he’s her caretaker, so we would be discussing David’s day at Quantum while caring for his big sister (she needs help toileting, for example).
-
 ---
-
 **User:**
-
-
 ---
 
 **User:**

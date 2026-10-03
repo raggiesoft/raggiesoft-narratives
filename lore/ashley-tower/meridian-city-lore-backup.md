@@ -1,8 +1,4 @@
-**User:**
-Let’s work on expanding the lore behind my Sterling Plaza Tower narrative. Now, in this universe, the events of the movie The Towering Inferno happened and serves as a cautionary tale. I don’t believe we came up with a name for the in-universe movie for the Crown Point Tower disaster.
-
 ---
-
 **Model:**
 Gemini said
 
@@ -50,7 +46,6 @@ December 16th: Naming the film purely after the date the catastrophic, unstoppab
 
 
 Which of these titles feels like the exact right fit for the 35mm film reels sitting in the 132nd-floor Analog Media Room, or should we brainstorm a few more options before locking it into the lore?
-
 ---
 
 **User:**
@@ -3112,7 +3107,6 @@ Here is the scene, structured and formatted so you can drop it directly into you
 
 NARRATIVE LORE: The Union Station Standoff
 
-Location: Sound Transit Headquarters, Union Station, Seattle.
 Date: Two years before the C.A.S.C.A.D.E. launch.
 Attendees: The ORCA Joint Board Executive Committee & Marcus Vance (No, let's use Marcus Thorne)—Marcus Thorne, Executive Director of the Meridian Transit Authority (MTA).
 
@@ -3170,7 +3164,6 @@ Now for the meeting of the MTA Board of Directors. This is before the meeting of
 Gemini said
 NARRATIVE LORE: The Meridian Strategy Room
 
-Location: MTA Headquarters, Downtown Meridian City
 Date: One week before the Union Station Standoff
 Attendees: The MTA Board of Directors, Marcus Thorne (MTA Executive Director), and Amanda Kensington (Representing the Sterling Trust’s Board Seat).
 
@@ -3313,7 +3306,6 @@ Remember that in the bath, nothing but skin. (But be careful of safety guideline
 Gemini said
 NARRATIVE LORE: The Roman Bath Strategy Session
 
-Location: The Sterling Family Private Baths, Sterling Plaza
 Date: Two weeks before the Union Station Standoff
 Attendees: Amanda Kensington, Ashley Sterling, Abigail Sterling, and Diana.
 

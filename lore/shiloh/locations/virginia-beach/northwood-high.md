@@ -10,15 +10,12 @@ location_type: "Educational Facility"
 era: "Fall 1999 - Spring 2003"
 ---
 
-# Northwood High School: Master Lore Bible
-
 *   **Version:** 3.1
 *   **Setting Era:** Fall 1999 – Spring 2003
 *   **Location:** Virginia Beach, VA (Alternate - Fictional replacement for Tallwood High School)
 *   **Address:** 1668 Kempsville Road, Virginia Beach, VA 23464
 *   **Mascot:** The Lion (Purple & Gold)
 
-## I. The Protagonists: The Bennett Twins (Class of \'03)
 *Note: Matt Miller graduated in the year 1999. This lore document primarily tracks the protagonists of a concurrent narrative who are Freshmen in 1999.*
 
 ### Biographical Stats
@@ -32,7 +29,6 @@ era: "Fall 1999 - Spring 2003"
 *   **The Conflict:** The school administration frowns upon this, preferring they remain independent. The parents strongly support it (even in writing), but the school resists.
 *   **The Dream (Fall 1999):** As freshmen, they share a naive dream of going to college together and sharing a dorm room with a queen-sized bed (mirroring how they prefer to sleep at home). In 1999, they do not yet realize that college dorms are strictly gender-segregated.
 
-## II. Geography & Exterior
 
 ### The "Asphalt Sea" (Student Parking)
 *   **Layout:** A massive grid of asphalt directly in front of the main building.
@@ -57,7 +53,6 @@ era: "Fall 1999 - Spring 2003"
 *   **Protocol:** The SRO (Officer Whitehead) watches the property line. 18-year-old seniors may smoke on the public street side of the line. Crossing the threshold with a lit cigarette is a violation.
 *   **The Curb Trap:** There are no ADA curb cuts at these gates, rendering this shortcut impossible for wheelchair users.
 
-## III. Interior Architecture & Navigation
 
 ### The Commons (The Hub)
 *   **Aesthetics:** High ceilings with exposed blue metal trusses.
@@ -78,7 +73,6 @@ era: "Fall 1999 - Spring 2003"
 *   **The Machine:** A single Dover elevator (hydraulic model).
 *   **Risk:** It is a single point of failure. If it breaks, the second floor is effectively deleted from the map for the twins.
 
-## IV. The Administrative Zone & Hygiene
 
 *   **The Main Office:** Located right of the Main Entrance. The checkpoint for late arrivals.
 *   **The Schola:** A rarely used, 100-seat mini-auditorium next to the office. Usually dark and empty, creating a "dead zone."
@@ -91,7 +85,6 @@ era: "Fall 1999 - Spring 2003"
 *   **Nikki:** Is assisted by a school-provided aide in the Clinic.
 *   **Patrick:** Is forced to use the Men\'s Locker Room alone.
 
-## V. The Shadow Law (The Implied DeMarco Code)
 *Note: Mrs. DeMarco (Cafeteria Supervisor) never verbally states these rules. They are implied, enforcing a culture of fear and reverence.*
 
 ### The Inferred Rules
@@ -111,14 +104,12 @@ era: "Fall 1999 - Spring 2003"
 ### The "Sweet Angel" Proviso
 *   Genuine politeness or necessary usage of AAC devices is rewarded with extreme patience and warmth. She is only a tyrant to the rude.
 
-## VI. The Classroom Environment
 *   **Visuals:** Green chalkboards (no whiteboards).
 *   **The "Kidney Breakers" (Furniture):** Hard blue plastic chairs attached to laminate desks via a metal bar.
 *   **Conflict:** Impossible for wheelchairs. Nikki is forced to sit at a separate, standalone table, often isolated at the back or side of the room.
 *   **Technology:** TVs on rolling carts; must be reserved.
 *   **Intercom Quirk:** Announcements come from the ceiling, but teachers must answer via a wall-mounted PBX phone. Substitute teachers frequently yell at the ceiling in confusion.
 
-## VII. Athletics & Physical Education
 
 ### The Gymnasium
 *   **Floor:** High-gloss polished wood. Slippery for crutches, fast for wheels.
@@ -131,7 +122,6 @@ era: "Fall 1999 - Spring 2003"
 ### The Stadium
 *   **Seating:** Metal bleachers with no ramps. Wheelchair users are relegated to the track/sidelines, physically separated from the student section ("The Zoo").
 
-## VIII. Era Specifics (The "Shadow of Columbine")
 *   **Security:** Exterior doors are strictly timed.
 *   **Tech:** No Smartphones. Communication is via pagers, Nordic bricks, or payphones.
 *   **Atmosphere:** Pre-9/11 security theater implies a world that is wary, but not yet fully locked down by TSA-style standards.

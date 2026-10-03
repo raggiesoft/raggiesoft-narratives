@@ -9,10 +9,6 @@ series: "Nichole"
 
 ### Part 1: The Bachelor Pad
 
-# The Newport Vacation
-
-## Date: Friday, July 15, 1994 Location: Uncle Mark’s Apartment, The Point, Newport, RI
-
 The heat in Newport wasn't like the heat in Virginia. In Virginia, the heat was a wet blanket that smelled of asphalt and swamp. Here, on Washington Street, the heat was salty. It stuck to your skin, smelling of drying seaweed and low tide.
 
 Uncle Mark lived in a first-floor apartment in a shingled house that dated back to the 1800s. Like most houses in the neighborhood, it didn't believe in central air conditioning. The cooling system consisted of opening the front windows, opening the back windows, and praying for a breeze off Narragansett Bay.
@@ -63,10 +59,6 @@ He looked at Nichole. She was staring at the amber light of the radio. "This is 
 
 ### Part 2: The Night Watch
 
-# The Newport Vacation
-
-## Date: Friday, July 15, 1994 Time: 9:30 PM Location: The Cockpit (Uncle Mark’s Spare Room)
-
 The bedtime routine at Uncle Mark’s was an operation. The bathroom in the 1890s-era apartment was not designed for a wheelchair. It was a narrow, tiled chute with a clawfoot tub and a pedestal sink that seemed determined to block the door. Ellen had to leave the wheelchair in the hallway. She carried Nichole in—a "dead lift" that made Ellen grunt with effort—and balanced her on the edge of the toilet, then the edge of the tub.
 
 It was hot. The bathroom window was painted shut, trapping the humidity. By the time Nichole was scrubbed, dried, and wrestled into her cotton pajamas, both she and her mother were sweating. "Okay," Ellen exhaled, brushing a damp strand of hair from her face. "Let's get you to the cool room."
@@ -87,7 +79,6 @@ She felt the mattress dip. Patrick lay down next to her. He didn't stay on "his 
 
 Nichole turned her head. She could see his profile in the faint amber glow of the radio. He was right there. She didn't need to yell for Mom. She didn't need to bang on the wall. She closed her eyes. For the first time, she didn't try to fight the sleep.
 
-## The Spasm
 
 Sometime deep in the night—maybe 2:00 AM—the enemy attacked. It started in her left calf. A sudden, electric tightening. The muscle seized, pulling her toes down and locking her ankle in a rigid, painful point. *The Cramp.*
 
@@ -118,10 +109,6 @@ Nichole froze for a second. *Nikki.* Mom called her Nichole. Dad called her Nich
 They fell asleep like that—tangled together on the hard futon, listening to the rain and the fan, safe in the cockpit of the Bennett Machine.
 
 ### Part 3: The Pitch
-
-# The Newport Vacation
-
-## Date: Saturday, July 16, 1994 Time: 7:30 AM Location: The Cockpit
 
 Patrick woke up with the mission. The storm had passed, leaving the morning air thick and heavy. The box fan was still rattling in the window, pulling in the scent of wet asphalt and low tide.
 
@@ -180,10 +167,6 @@ Tom smiled, a look of nostalgia crossing his face. "Dip & Sip," Tom said. "I spe
 Patrick turned back to his drawing. He added a switch. Nichole stirred on the futon. She opened her eyes, blinking against the light. She saw Patrick at the desk. She saw the adults standing around him. She didn't know what was happening, but she saw Patrick smiling. She pulled the quilt up and smiled back. The Bennett Machine was already at work.
 
 ### Part 4: The Circuit Barn
-
-# The Newport Vacation
-
-## Date: Saturday, July 16, 1994 Time: 9:05 AM Location: Circuit Barn, Newport Mall (Connell Highway)
 
 The 1988 Holt Workmaster pickup truck rumbled into the parking lot of the Newport Mall. It was a beast of a vehicle—faded navy blue paint, a bed lined with scratched plywood, and a suspension that felt every pebble on Connell Highway.
 
@@ -265,17 +248,12 @@ As they walked out into the mall, the buzzer sounded again. Patrick clutched the
 
 ### Part 5: The Island Tour
 
-# The Newport Vacation
-
-## Date: Saturday, July 16, 1994 Time: 9:30 AM – 11:15 AM Location: The Holt Workmaster, touring Newport
-
 They left the Circuit Barn with the goods secured. Nichole sat in the passenger seat, holding the brown paper bag like it was a pouch of diamonds. Patrick sat in the middle, his feet straddling the transmission hump, watching Uncle Mark work the clutch.
 
 "We have two hours before the rendezvous," Mark announced, shifting into third gear as they merged onto Connell Highway. "The project is safely stowed. Now, you tourists need to see the real island. Not just the mall."
 
 He reached for the radio dial. He didn't turn on the news. He tuned it to 103.7 The Hawk. *Click.* Electric guitars and a heavy drum beat filled the cab—a classic rock anthem about highway driving. "Windows down," Mark commanded. Patrick cranked the handle. The hot, salty air rushed in, swirling Nichole’s hair. She didn't mind. She closed her eyes and leaned into the wind.
 
-## Stop 1: The Gilded Row
 
 They drove south, leaving the commercial clutter for the manicured lawns of Bellevue Avenue. The houses here stopped being houses and started being castles. Stone walls, wrought-iron gates, and driveways longer than a football field.
 
@@ -285,7 +263,6 @@ They passed a massive limestone fortress surrounded by iron gates. "That one," M
 
 Patrick looked at the towering limestone facade. "It looks heavy," Patrick critiqued. "Too much stone. Not aerodynamic." "It was built to impress, not to be efficient," Mark agreed. "It's all ego, Pat. Pure ego."
 
-## Stop 2: Forty Steps
 
 Mark pulled the truck over at the entrance to the Cliff Walk. He kept the engine idling. "We can't go down," Mark said, pointing to the stone staircase that disappeared down the cliffside toward the crashing waves. "It’s called Forty Steps. Back in the day, the servants who worked in the mansions used to go down there to dance and play music on their nights off. The rich folks had the ballroom; the workers had the ocean."
 
@@ -293,7 +270,6 @@ Nichole looked out the window. She couldn't see the steps, but she could hear th
 
 "Yeah, Nik," Mark smiled. "Good acoustics down there."
 
-## Stop 3: Stella Maris
 
 Further down the avenue, the landscape opened up into a sprawling, green campus with red-brick buildings and a massive, ornate iron gate. "That," Mark pointed, "is Stella Maris College."
 
@@ -305,7 +281,6 @@ Patrick broke it down. "*Stella* means Star," Patrick said. "*Maris* means Sea. 
 
 He looked at Nichole. He pointed to the bag in her lap—the bag containing the red LED. "Like your blinker," Patrick whispered. "A star for the sea." Nichole looked at the college, then at the bag. She liked that. She wasn't just getting a light; she was getting a star.
 
-## Stop 4: The Edge of the World
 
 They curved around the bottom of the island onto Ocean Drive. The trees vanished. The houses pulled back. To their right was nothing but jagged rock, white spray, and the Atlantic Ocean stretching out to the horizon.
 
@@ -313,7 +288,6 @@ Mark sped up. The wind roared. The Holt engine growled. Nichole’s eyes went wi
 
 "She likes the rough stuff," Mark noted, glancing at her. "She likes the noise," Patrick yelled over the wind. "It drowns out the ringing in her ears." Mark nodded, understanding. The chaos outside quieted the chaos inside.
 
-## Stop 5: The Stone Ribs
 
 They pulled into Brenton Point State Park. Mark drove past the kite flyers and parked near a strange, crumbling stone structure. It looked like the skeleton of a building—stone arches and chimneys rising out of the overgrown grass, leading to nowhere.
 
@@ -323,7 +297,6 @@ They sat in the cab for a moment, just watching. The wind whistled through the s
 
 Nichole watched a kite struggling in the wind. A bright red diamond against the gray sky. It looked like her blinker again. *Red against the gray.* She felt calm here. The world was big, but she was safe inside the truck, flanked by her brother and her uncle.
 
-## The Return Leg
 
 "11:15," Mark checked his watch. "We’re on the clock. Operation Glazed Stick is commencing."
 
@@ -341,10 +314,6 @@ Patrick looked at Nichole. She was clutching the Circuit Barn bag with one hand 
 
 ### Part 6: The Park Summit
 
-# The Newport Vacation
-
-## Date: Saturday, July 16, 1994 Time: 11:20 AM Location: Equity Park (Broadway, Newport)
-
 The Holt Workmaster rumbled to a stop alongside the curb on Broadway. Across the street, Equity Park was a patch of green calm in the middle of the busy Saturday traffic. It wasn't a playground with swings; it was a "sitting park"—a triangle of grass with sturdy wooden benches and old shade trees.
 
 Uncle Mark killed the engine. "Alright, extraction team," Mark announced. "Target acquired on the north bench."
@@ -357,7 +326,6 @@ Mark hopped out and opened the passenger door. "Ready for air transport?" Mark a
 
 They waited for the walk signal. "Green light," Mark called. The Bennett Machine rolled across Broadway.
 
-## The Reunion
 
 As they approached the bench, Grandma Helen stood up. She lived on the third floor of an apartment building on Pond Avenue. It had a narrow, switchback staircase that Patrick found difficult and Nichole found impossible. For years, the family had tried to figure out how to carry Nichole up. It was dangerous. It was scary. It made everyone sweaty and anxious.
 
@@ -369,7 +337,6 @@ Then she turned to Nichole. She didn't bend over awkwardly. She walked to the be
 
 Nichole nodded vigorously. She tapped the armrest of her chair. *Yes.* Helen laughed. "He never grew out of that phase."
 
-## The Loot
 
 "Okay," Dad said, standing up and opening the pink box. "We have the essentials. Dip & Sip Glazed Sticks. Still warm." He handed one to Patrick and one to Nichole. The donut stick was heavy, coated in a thick, cracked glaze that dissolved instantly on the tongue. It tasted like sugar and vacation.
 
@@ -393,7 +360,6 @@ Nichole leaned forward as far as her straps would allow. Grandma Helen leaned in
 
 "You're welcome, my dear," Helen whispered.
 
-## The Picnic
 
 They sat there for an hour. The traffic on Broadway rushed by—tourists heading to the mansions, locals heading to the bridge. But in the triangle of Equity Park, time stood still. Tom and Mark talked about the boat repairs. Ellen and Helen talked about the library's new catalog system.
 
@@ -403,15 +369,10 @@ She didn't miss the apartment on Pond Avenue. She didn't care about the stairs s
 
 ### Part 7: The Quiet Convoy
 
-# The Newport Vacation
-
-## Date: Saturday, July 16, 1994 Time: 12:30 PM Location: Newport Memorial Park, Middletown, RI
-
 The picnic at Equity Park ended not with a sudden stop, but with a quiet shift in gravity. Tom checked his watch, then looked at his mother, Helen. "It's time, Mom," Tom said gently. "If you're ready."
 
 Helen nodded, closing the lid of the donut box. She adjusted her glasses, her face composing itself into a mask of dignified memory. "I am ready, Thomas."
 
-## The Departure
 
 The logistics of the departure were specific. "I'll take Mom and Ellen in the van," Tom told Mark. "It's lower to the ground. Easier for her to get in." "Copy that," Mark said. No jokes. No nicknames. Just an acknowledgement of the mission.
 
@@ -427,7 +388,6 @@ Patrick reached for the radio dial, out of habit. Mark’s hand gently intercept
 
 Patrick nodded. He pulled his hand back. He understood. The windows were rolled up to block the noise of the traffic. The cab was sealed and silent.
 
-## The Drive
 
 They followed the family van as it pulled out of the parking spots along Broadway. Tom was driving carefully, using his turn signals early, driving five miles under the speed limit. Mark matched his pace. The Holt Workmaster kept a steady three-car lengths of distance behind the beige van.
 
@@ -465,7 +425,6 @@ The van turned into the stone gates. Mark followed, slowing the truck to a crawl
 
 Patrick clasped his hands together. Nichole sat up straight. They weren't just kids visiting a grave anymore. Thanks to Uncle Mark, they were the Honor Guard.
 
-## The Arrival
 
 They turned off the busy asphalt of Turner Road and passed through the heavy stone gates of Newport Memorial Park.
 
@@ -497,7 +456,6 @@ Nichole nodded. She didn't make a sound—no happy squeaks, no humming. She sens
 
 Ellen smiled, a sad, proud smile. She touched Patrick’s shoulder. "Yes," she said. "You are. Come on. Grandma is waiting."
 
-## The Grave
 
 They moved off the paved path and onto the grass. The ground was uneven, but Mark pushed Nichole’s chair with a steady, calculated force, absorbing the bumps so she wouldn't jostle. Patrick walked beside them, his hands clasped behind his back, his eyes forward.
 
@@ -537,7 +495,6 @@ Mark nodded, breaking his statuesque pose. "Shipshape, Helen."
 
 They walked back to the vehicles in the quiet afternoon sun. The visit was over. The duty was done. They had escorted the memory, and now, they could go get lunch.
 
-## The Connection
 
 Mark stood a few feet back, his sunglasses reflecting the gray stone. He saw Patrick standing rigidly at attention and Nichole sitting perfectly still. He stepped forward and knelt down on one knee between them, bringing his face to their level. He smelled of Old Spice and heat.
 
@@ -559,7 +516,6 @@ Grandma Helen stood up. She wiped her hands on her slacks, dusting off the knees
 
 "It's a Holt, Helen," Mark smiled sadly, patting the fender of the Workmaster. "Only the best. Bill wouldn't drive anything else."
 
-## Back to the Living
 
 They walked back to the vehicles in the quiet afternoon sun. The loading process was faster this time. The weight of the arrival had lifted. Mark lifted Nichole into the truck. Patrick climbed in. As Mark started the engine, he looked at Patrick. "Mission complete," Mark said. "Radio silence is lifted."
 
@@ -575,10 +531,6 @@ Mark grinned. He pointed to a large blue and white sign up ahead. A giant sculpt
 
 ### Part 8: BayFront Creamery
 
-# The Newport Vacation
-
-## Date: Saturday, July 16, 1994 Time: 1:15 PM Location: BayFront Creamery, West Main Road, Middletown, RI
-
 The transition from the cemetery to BayFront Creamery was a shock to the system. One minute, they were under the silent oak trees. The next, they were walking into a wall of noise: clattering silverware, sizzling grills, crying babies, and the roar of industrial milkshake machines.
 
 It was glorious.
@@ -587,7 +539,6 @@ The air inside smelled of grease, vanilla extract, and bleach. It was the specif
 
 They maneuvered through the crowded room. The floors were checkered black and white and slightly sticky, just as Grandma Helen had predicted. They claimed the big round table in the back. Mark pulled a chair away so Nichole could roll right up to the edge.
 
-## The Legacy Staff
 
 As they settled into the corner booth, Ellen looked around, a smile tugging at the corner of her mouth. She ran her hand along the chrome edge of the table, checking for the familiar stickiness. "They moved the grill," Ellen noted, pointing to the kitchen pass-through. "In the seventies, the grill was right behind the counter. You went home smelling like a cheeseburger no matter how much you showered. I used to keep a bottle of perfume in my glovebox just to survive the drive home."
 
@@ -629,7 +580,6 @@ Helen smoothed her napkin, looking unimpressed by the description of the seventi
 
 Ellen grinned and patted her mother-in-law's hand. "The hair was big, Helen. But the tips were good."
 
-## The Challenge
 
 The waitress arrived with her pad. She looked tired but efficient. "What can I get you folks?"
 
@@ -647,7 +597,6 @@ Mark laughed, shaking his head. "I appreciate the offer," Mark said. "But if I d
 
 "Suit yourself," the waitress grinned. "And for food?" "Burgers all around. Fries. But bring the drinks first."
 
-## The Cooler Arrives
 
 Five minutes later, the table shook as the heavy glass goblets were set down. The Colossal Cooler lived up to its name. It wasn't a milkshake. A milkshake was milk and syrup. This was ice milk, sugar, and flavoring, spun into a substance so thick it defied gravity. It was served in a frosted glass fluted like a Greek column, holding 32 ounces of frozen density.
 
@@ -655,7 +604,6 @@ Patrick stared at his Chocolate Mint tower. Condensation was already dripping do
 
 "Only the brave," Mark said, unwrapping his straw. "Or the foolish. Usually both."
 
-## The Struggle
 
 Patrick inserted the thick red straw. He clamped his lips around it and pulled. Nothing happened. The substance was too thick. It was like trying to suck wet cement through a pipe. He sucked harder, his cheeks hollowing out. His eyes went wide with effort. Finally, a plug of mint-green ice cream shot up the straw and hit his tongue. *Cold.* *Sweet.* *Minty.*
 
@@ -663,7 +611,6 @@ Patrick inserted the thick red straw. He clamped his lips around it and pulled. 
 
 Next to him, Nichole was attacking the Strawberry Cooler. She didn't care about the physics. She wrapped both hands around the cold glass, grounding herself against the sensory overload of the restaurant. She took a sip. The sweetness hit her instantly. It erased the heat of the truck. It erased the sadness of the stone. She tapped her feet on the footplates. *Happy. Happy. Happy.*
 
-## The Lunch
 
 For the next twenty minutes, the serious "Honor Guard" from the cemetery was replaced by a group of people trying to conquer a mountain of sugar. Grandma Helen sipped her Coffee Cooler with dignity, using a long spoon instead of a straw. "Still the same recipe," she approved. "Not enough coffee syrup, though. In my day, we made it darker."
 
@@ -681,21 +628,15 @@ She took another sip of the Colossal Cooler. It was awful big. And it was awful 
 
 ### Part 9: The Bennett Beacon
 
-# The Newport Vacation
-
-## Date: Saturday, July 16, 1994 Time: 2:30 PM Location: The Cockpit (Uncle Mark’s Apartment)
-
 The drop-off at Pond Avenue was quick. Grandma Helen kissed everyone on the cheek, straightened her blazer, and disappeared up the winding staircase of 3C with the energy of a woman half her age. The "Quiet Convoy" was officially over. Now, it was time for the "Loud Construction."
 
 Back at the apartment on Washington Street, the energy shifted. Mark carried Nichole into the spare room—The Cockpit—and settled her onto the low futon. He propped her up with pillows so she had a front-row seat to the workbench. Ellen sat next to her, acting as the designated "Safety Officer." Tom stood by the window, rolling up his sleeves. Patrick sat in the Captain’s Chair (the high drafting stool), clutching the brown bag from Circuit Barn.
 
-## The Setup
 
 Mark flipped a switch on the power strip. The room hummed to life. The Quantix oscilloscope screen glowed green. The SignalMaster radio dials lit up amber. And on the main workspace, the Vulcan soldering station began to heat up. Mark wet the sponge. *Hiss.*
 
 "Alright, Foreman," Mark said, handing Patrick a pair of safety glasses that were slightly too big for his face. "Construction rules apply. Eyes on the iron. Hands on the table. If you drop it, don't catch it." "Let it fall," Patrick recited. "Correct. A falling iron has no handle."
 
-## The Build: Phase 1 (The Brain)
 
 Mark clamped a small piece of perforated circuit board into a "Helping Hands" vice. "We never solder the chip directly," Mark explained, pulling the 555 Timer chip out of its anti-static foam. "Heat kills chips. We solder the *socket* first."
 
@@ -703,7 +644,6 @@ He handed Patrick the black plastic socket. It looked like a tiny bug with eight
 
 Patrick’s hand shook slightly. Cerebral palsy made fine motor skills a battle. His fingers wanted to twitch, to jerk. He took a breath. He rested his wrist on the edge of the workbench to anchor himself. *Steady.* He lined up the pins with the holes. He pushed. *Click.* "Good seat," Tom noted from the window. "Flush with the board."
 
-## The Build: Phase 2 (The Heat)
 
 Now came the dangerous part. Mark picked up the Vulcan iron. He tinned the tip until it was shiny and silver. He didn't do it for Patrick. He handed the iron to Patrick, but he kept his own hand wrapped over Patrick’s hand—a guided missile.
 
@@ -711,17 +651,14 @@ Now came the dangerous part. Mark picked up the Vulcan iron. He tinned the tip u
 
 Ellen watched from the futon, holding her breath. She saw her son holding a 700-degree tool. But she also saw Mark’s hand, hovering millimeters away, ready to catch any mistake. She exhaled. He was safe.
 
-## The Build: Phase 3 (The Logic)
 
 They worked through the schematic. The resistors (Brown-Black-Orange). The ceramic disc capacitors. And then, the critical component: The Electrolytic Capacitor. "Check the polarity," Mark warned, echoing Mr. Rossi. "We don't want a tuna fish explosion."
 
 Patrick scrutinized the black cylinder. He found the white stripe with the minus sign. "Negative to ground," Patrick stated. He placed it carefully. He soldered it. No explosion. No smell of burning fish. Just the clean scent of rosin flux.
 
-## The Housing
 
 While Patrick finished the board, Tom took over the mechanical work. He picked up a small black plastic project box. "I need a 5-millimeter hole for the LED," Tom said, grabbing Mark’s drill. He didn't need to measure. Tom Bennett could eyeball a center point within a fraction of an inch. *Whirr-ZZZT.* A perfect hole appeared in the lid. "Press fit," Tom said, testing the red LED. It snapped into place with a satisfying *pop*.
 
-## The Test
 
 Thirty minutes later, the circuit was inside the box. The wires were tucked in. The 9-volt battery was snapped onto the connector. The room went quiet. "Client inspection," Mark announced.
 
@@ -739,7 +676,6 @@ It was bright. It left a tracer in their eyes. "It works!" Patrick cheered from 
 
 Patrick turned it back the other way. *Blink... Blink... Blink.* A steady, rhythmic pulse. Like a heartbeat. Or a lighthouse. Nichole smiled. She tapped her tray. *Perfect.*
 
-## The Installation
 
 Tom took the box. "Let's mount it." They moved to the wheelchair parked in the corner. Using two heavy-duty zip ties, Tom secured the black box to the left push-handle of the chair, high up where it would be visible above Nichole’s shoulder. He tightened the ties with a pair of pliers and snipped the ends flush so there were no sharp edges.
 
@@ -757,10 +693,6 @@ Ellen leaned down and kissed Nichole on the head, right as the red light pulsed.
 
 ### Part 1: Origin Story: Project Alpha
 
-# Project Alpha
-
-## Date: June 15, 1996 Age: 10 Years Old Location: The Garage / Kitchen, 1850 Delaney Street
-
 The crisis started, as most innovation does, with a failure of the existing technology.
 
 Ten-year-old Nichole was sitting in the bathtub. She was trying to tell her mom that the water was too hot. She reached for her laminated paper communication chart—the one the speech therapist had given them.
@@ -769,7 +701,6 @@ But her hand was wet. The water dripped onto the paper. The lamination peeled. T
 
 Nichole screamed in frustration. She didn't have a voice, and her paper voice had just drowned.
 
-## The Eureka Moment
 
 In the kitchen, ten-year-old Patrick was watching his mom, Ellen, chop vegetables for dinner. She was using a heavy-duty, black synthetic cutting board she had bought at a restaurant supply store.
 
@@ -791,7 +722,6 @@ Ellen put the knife down. She looked at the board. She looked at her son.
 
 "Tom!" she yelled toward the garage. "Get the label maker!"
 
-## The Workshop
 
 Half an hour later, the "Bennett Machine" was in its first official design session.
 
@@ -813,7 +743,6 @@ Nichole nodded. *Yes.*
 
 "Smart," Tom muttered. "Muscle memory."
 
-## The Build
 
 It took three hours.
 
@@ -827,7 +756,6 @@ Patrick placed every sticker. They used high-visibility yellow vinyl mailbox let
 
 When it was done, it looked industrial. It was heavy. It was rugged.
 
-## The Test
 
 They went back to the bathroom. They filled the tub.
 

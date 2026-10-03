@@ -9,10 +9,6 @@ series: ""
 
 ### Part 1: Out of the Storm
 
-# The Threshold
-
-## Scene 1: Arrival
-
 US Highway 11 was not built for pedestrians. There was no shoulder, no sidewalk—just a harsh ribbon of asphalt consisting of a northbound lane, a center turn lane, and a southbound lane where cars whipped past them at terrifying speeds.
 
 When they had arrived at Shenandoah Valley Community College earlier that afternoon, there had been nothing but a few wispy clouds in the sky. Now, a massive, bruised thunderhead had completely swallowed the valley, unleashing a sudden, freezing, torrential downpour.
@@ -61,7 +57,6 @@ Ashleigh slowly lowered her hands from her ears, her knuckles white, and gave a 
 
 Amanda picked the heavy trash bag back up, her muscles screaming with exhaustion, and guided her pack toward the flickering neon overhang of the Highway Star Motel lobby. The glass doors slid open, completely cutting off the roar of the highway, and replacing the freezing rain with the suffocating smell of stale cigarettes, old coffee, and the faint hum of a lobby television.
 
-## Scene 2: The Bulletproof Check-In
 
 The lobby was a stark contrast to the freezing downpour outside, but it wasn't exactly welcoming. The air was thick and heavy, smelling like a mixture of stale cigarette smoke, wet carpet, and a pot of coffee that had been burning on a hotplate since yesterday morning.
 
@@ -103,7 +98,6 @@ Amanda grabbed the cold brass key, clutching it in her fist like it was made of 
 
 "Alright," Amanda said, mustering a tired, relieved smile as she picked up the trash bag. "We've got it. Let's go inside."
 
-## Scene 3: Room 114
 
 The exterior concrete breezeway offered a slight reprieve from the freezing rain, but the wind still whipped the water violently against their legs as they hurried down the row of identical, faded doors.
 
@@ -151,7 +145,6 @@ She shed her own wet coat, hanging it over the doorknob. She didn't go to her be
 
 From her pocket, she pulled out the glossy, tri-fold brochure she had grabbed from the community college career fair that afternoon. Accelerated Licensed Practical Nursing (LPN) Program. Enter the medical field in eighteen months. Amanda traced the bold lettering with her thumb, looking back at her brother and sisters sleeping in the shadows.
 
-## Scene 4: The Check-In
 
 The heavy knock on the door of Room 114 was sharp and authoritative, cutting right through the low, buzzing hum of the Athletic Sports Net playing on the heavy-tube television.
 
@@ -227,7 +220,6 @@ The heavy deadbolt clicked into place.
 
 Amanda stood staring at the door for a long moment. Then, she looked down at the acceptance letter in her hand, a fierce, protective fire burning in her chest. They were safe for another month. The plan was working.
 
-## Scene 5: The Receipt
 
 Friday mornings always carried a specific, suffocating weight for Amanda. Payday at Crestview Manor meant she finally had cash in her pocket, but it also meant she immediately had to hand almost all of it over to the man behind the bulletproof glass.
 
@@ -281,7 +273,6 @@ For an eighteen-year-old trying to raise three teenagers, four hundred dollars w
 
 Amanda turned away from the bulletproof glass and walked back out into the cool Virginia morning. As she headed back down the breezeway toward Room 114, the crushing weight she had been carrying on her shoulders felt just a little bit lighter.
 
-## Scene 6: The Hotplate Menu
 
 Amanda practically threw her weight against the heavy wooden door of Room 114, shoving it open with a force that made the chain lock rattle against the frame.
 
@@ -345,7 +336,6 @@ The cramped, smoke-stained motel room suddenly didn't feel like a trap anymore. 
 
 "Bus leaves in fifteen minutes!" Amanda called out, grabbing her wet coat from the door handle. "Let's move!"
 
-## Scene 7: The Valley Pride Run
 
 The Valley Transit Authority bus wasn't a massive city cruiser; it was a boxy, white cutaway mini-bus built directly onto a heavy-duty van chassis. Its suspension was painfully stiff, and the heavy engine roared loudly from beneath the interior cover right next to the driver as they rumbled down the right lane of Route 11.
 
@@ -459,8 +449,6 @@ Drake grinned proudly in the blue light of the television. "Told you."
 
 ### Part 1: The APEX Late-Night Switch
 
-# Setting the Scene
-
 The credits of some cheesy, explosions-and-bad-dialogue action flick rolled across the screen, casting a flickering, blue-white glow over the cramped space of Room 114. It was exactly 11:00 PM on a Friday.
 
 Drake, Ashleigh, and Jessika were a drowsy tangle of limbs and scratchy motel blankets on the bed closest to the TV, mindlessly picking at the un-popped kernels in the bottom of a greasy microwave popcorn bag.
@@ -513,8 +501,6 @@ And that was exactly how it needed to be.
 
 ### Part 2: The APEX World Premier Presentation
 
-# Setting the Scene
-
 The following night, the legal pads and the LPN brochures were temporarily shoved into the desk drawer.
 
 For the first time all week, the heavy, static-laced CRT television wasn't muted. It was 7:59 PM on a Saturday, and in the cramped, humid air of Room 114, an unspoken truce had been called with their grim reality.
@@ -562,8 +548,6 @@ Seeing them completely mesmerized, completely transported from their heavy reali
 ## Amanda Protects her Siblings
 
 ### Part 1: The APEX Late‑Night Switch
-
-# Amanda Protects her Siblings
 
 The motel room was silent except for the low hum of the CRT television and the faint buzz of the neon sign outside. Amanda had fallen asleep at the desk again, cheek pressed against the open LPN textbook, highlighter still in her hand. The reading lamp cast a harsh cone of light over the pages, but her eyes had given up an hour ago.
 
@@ -616,8 +600,6 @@ Behind her, the TV stayed dark.
 And that was exactly how it needed to be.
 
 ### Part 2: Saturday Morning — The Teasing Begins
-
-# Amanda Protects her Siblings
 
 Morning sunlight pushed through the plastic blinds in thin, uneven stripes, cutting across the motel room like a barcode. The neon sign outside had finally flickered off, leaving only the distant hum of highway traffic and the muffled plumbing noises from the room next door.
 

@@ -6,13 +6,10 @@ characters: [Justin Hayes]
 tags: [lore, medical, blindness, accessibility]
 ---
 
-# Archive: Understanding No Light Perception (NLP)
-
 To understand how [[Justin Hayes]] navigates the world, it is crucial to unlearn how sighted people typically imagine blindness. Justin does not have "poor" vision or "blurry" vision. He has **No Light Perception (NLP)**, caused by a condition called Optic Nerve Hypoplasia (ONH).
 
 Here is a breakdown of what that actually means, biologically and socially.
 
-## I. The "Seeing Black" Misconception
 
 When a sighted person closes their eyes, they see black. Because of this, sighted people often assume that being totally blind is like walking around with your eyes closed, trapped in a dark, black room. 
 
@@ -28,7 +25,6 @@ Think of the human visual system like a computer setup. The eyes are the digital
 *   In Justin's case, his eyes (the camera) are structurally fine. However, his optic nerve (the HDMI cable) is severed/underdeveloped. 
 *   His brain receives zero bytes of visual data. It does not render "black"—it simply does not process a visual field at all, the same way a sighted person does not see anything out of their elbow. 
 
-## II. Clinical Realities and Tells
 
 Because his brain receives zero visual input, Justin's body lacks the automatic reflexes that sighted people take for granted.
 
@@ -36,7 +32,6 @@ Because his brain receives zero visual input, Justin's body lacks the automatic 
 *   **The Auditory Gaze:** Sighted people point their eyes at whatever they are paying attention to. Justin points his *ears*. When someone is speaking to him, he will naturally tilt his head slightly so his dominant ear is aimed directly at the sound source.
 *   **Aimless Nystagmus:** Because his eyes are not locked onto any visual targets, they exhibit a natural, rhythmic fluttering motion (nystagmus) while at rest.
 
-## III. How Justin Adapts (Navigating the Void)
 
 Because the visual world does not exist to him, Justin's entire reality is built on acoustics, tactile feedback, and strict logic routines. 
 

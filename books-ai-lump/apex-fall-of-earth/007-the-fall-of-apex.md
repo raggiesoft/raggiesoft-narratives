@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: The Sovereign’s Hubris
 
-# Checkmate
-
 High Director Kael was not a man who waited.
 
 Less than forty-eight hours after the catastrophic, instantaneous vaporization of his thirty heavy-plasma cruisers in System 88-Tango, Kael arrived to handle the anomaly personally. He didn't send another mercenary fleet. He didn't send stealth probes.
@@ -98,8 +96,6 @@ Down in the CIC, Wyatt set his coffee mug down. He wasn't a minimum-wage grunt a
 From deep within the hidden, fifty-meter-tall alien pine forests, ten blinding streaks of anti-matter tore upward into the sky, slamming directly into the exposed, completely undefended underbelly of Kael’s trapped empire.
 
 ### Part 2: The Geneva Standard
-
-# Checkmate
 
 The Combat Information Center was completely silent, save for the low, rhythmic thrum of the geothermal reactors feeding power to the defense grid.
 
@@ -193,8 +189,6 @@ The Sentinel drones were closing in on the crash site. The High Director of the 
 
 ### Part 3: The Extraction
 
-# Checkmate
-
 The northern temperate forest of Planet Eden was completely silent, save for the crackle of burning durasteel and the hiss of superheated coolant venting into the rich, damp soil.
 
 At the center of a massive, fifty-meter crater lay the shattered remains of a Class-1 command module. The dense canopy of ancient alien pines had arrested its descent, acting as a massive, natural shock absorber before the pod slammed into the earth.
@@ -256,8 +250,6 @@ Following the strict, unshakeable rules of the Administrator, the Sentinel drone
 High Director Kael had come to Planet Eden to conquer ghosts. Instead, he was being carried back to their bunker, fast asleep, about to wake up stripped of his empire and completely bound by an ancient Earth law he couldn't even comprehend.
 
 ### Part 4: The Laws of War
-
-# Checkmate
 
 While the automated Sentinel drones silently hauled the unconscious Sovereign of Acheron through the dense alien pine forest toward the Sub-Level 5 holding cells, Wyatt Colton was already back on the residential level, executing his most important duty of the morning.
 
@@ -350,8 +342,6 @@ Sarah’s face broke into a massive, brilliant smile. She reached out, gripping 
 The Vanguard was briefed. The moral high ground was completely secured. And Wyatt Colton was finally ready to walk down to Sub-Level 5 and introduce himself to the dictator who had accidentally handed him the greatest life in the universe.
 
 ### Part 5: The Interrogation
-
-# Checkmate
 
 The pneumatic elevator hummed a low, steady note as it carried Wyatt and Sarah Colton down to Sub-Level 5.
 
@@ -469,8 +459,6 @@ As the heavy blast doors slid shut, sealing the terrified dictator inside, Wyatt
 
 ### Part 6: The Handover
 
-# Checkmate
-
 Three days after the narrow-beam transmission pierced the vacuum of space, the sky above Planet Eden finally parted.
 
 Standing on the edge of the massive, sunlit silicate plateau, Wyatt and Sarah Colton watched as a perfectly hexagonal iris spiraled open in the invisible hard-light barrier of the Aegis shield.
@@ -565,8 +553,6 @@ They turned their backs on the sky, walking hand-in-hand toward the camouflaged 
 
 ### Part 7: The Classified Intel
 
-# Checkmate
-
 The heavy, brushed-steel blast doors of the primary hangar hissed shut, sealing the mountain fortress behind Wyatt and Sarah Colton.
 
 They walked hand-in-hand down the wide, softly illuminated stone corridor of the residential level. The adrenaline of handing the High Director of Apex Defense Solutions over to the Earth Remnant was slowly fading, replaced by the deep, resonant peace of knowing the galaxy could no longer touch them.
@@ -649,8 +635,6 @@ Wyatt let out a booming, chest-deep laugh, pushing himself up off the floor. He 
 
 ### Part 1: The Government-in-Exile
 
-# The Trial of the Century
-
 The mahogany-paneled library of The Sanctuary was perfectly quiet, but the atmosphere was buzzing with an intense, electrified anticipation.
 
 For the first time in months, Wyatt and Sarah Colton were fully dressed indoors. Wyatt wore a clean, crisp black Henley and his heavy canvas pants, his dark beard neatly trimmed. Sarah wore a tailored, molecularly printed slate-blue tunic—a subtle, deliberate homage to the Helios Geoscience uniform she had worn on her first day—and dark denim.
@@ -710,8 +694,6 @@ In the library on Planet Eden, Wyatt gave Sarah a firm, reassuring nod.
 "Aria," Wyatt commanded. "Drop the cloaking algorithm on the subspace tether. Put us in the room."
 
 ### Part 2: The Star Witnesses
-
-# The Trial of the Century
 
 Inside the *UNS Citadel* courtroom, a brilliant column of blue quantum light erupted directly beside the Prosecutor’s podium.
 
@@ -794,8 +776,6 @@ Wyatt let out a deep, booming laugh, the heavy weight of the trial instantly eva
 Wyatt offered his hand to Sarah, pulling her up from the sofa. They walked out of the library, following their daughter down the hall. The universe outside their shield was rebuilding, but inside the mountain, the Colton family had work to do.
 
 ### Part 3: The Fab-Foundry Apprentice
-
-# The Trial of the Century
 
 The heavy, brushed-steel doors of the pneumatic elevator hissed open, revealing the massive, cavernous expanse of the Fabrication Foundry.
 
@@ -882,8 +862,6 @@ The massive molecular 3D printers at the back of the foundry hummed to life, blu
 The Colton family stood together in the warm, ozone-scented air of the industrial shop, watching the machine work. The trial was over. The past was buried. And the family unit had never been stronger.
 
 ### Part 4: The Verdict and the Vault
-
-# The Trial of the Century
 
 The sprawling, mahogany-paneled library of the estate was perfectly still, but the air above the massive holographic glass table was electric.
 
@@ -995,8 +973,6 @@ Sarah smiled, leaning her weight against his side as they watched their children
 
 ### Part 5: The Sentinel Treaty
 
-# The Trial of the Century
-
 The sprawling, sunlit living room of the mountain estate was a picture of absolute, unshakeable tranquility.
 
 Outside the camouflaged hydro-glass windows, the alien pine forests of Planet Eden were in full, vibrant spring bloom. The muddy scars of the valley floods were long gone, replaced by a thick carpet of emerald ferns and brilliant wildflowers.
@@ -1085,8 +1061,6 @@ As the Vanguard disappeared down the hall, Wyatt wrapped his arms securely aroun
 
 ### Part 1: The Healing Room
 
-# The Architects of Eden
-
 The automated medical bay on Sub-Level 1 was bathed in a warm, golden-amber light. The quiet, rhythmic strumming of acoustic guitar music played softly from the ceiling’s high-fidelity acoustic array.
 
 There were no flashing crimson alarms. There was no frantic, adrenaline-fueled terror, and there was no desperate race against a hypoxic clock.
@@ -1120,8 +1094,6 @@ Wyatt leaned over, burying his face in Sarah’s damp hair, his massive arms wra
 "Molly and Claire," Sarah smiled through her tears, kissing the top of Molly's dark, downy head, and then Claire's. "Welcome to Eden, girls."
 
 ### Part 2: The Diplomat\'s Detail
-
-# The Architects of Eden
 
 Three days later, the residential living room was operating at peak morning efficiency.
 
@@ -1166,8 +1138,6 @@ Jack looked up at his parents, his hands held perfectly still by his two new sis
 "They're very safe, Jack," Wyatt smiled, leaning back into the sofa with a massive, swelling pride. "You're a great big brother."
 
 ### Part 3: The First Blueprint
-
-# The Architects of Eden
 
 The estate was beautifully quiet. The six children were finally asleep in the massive, sprawling nursery—the Vanguard tangled together on their floor-level Mega-Bed, and Jack sleeping deeply in his standard toddler bed, parked right next to the twin's shared bassinet.
 
@@ -1216,8 +1186,6 @@ Wyatt looked at the hologram, thinking of the long, terrifying journey that had 
 "Genesis," Wyatt rumbled, wrapping his arm securely around his wife. "We call it Genesis."
 
 ### Part 4: The History Lesson
-
-# The Architects of Eden
 
 The sprawling, sage-green nursery on the residential level had naturally divided itself into two distinct, highly functional operational zones.
 

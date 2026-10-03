@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: A Grieving Start
 
-# The Emotional Vacuum
-
 The morning of Monday, August 25th, 2003, was bright and full of the nervous, excited energy of the first day of college. For Leo Porter, however, the world was a muted shade of gray. The two weeks since the heartbreaking farewell to Olivia at Seattle's King Street Station had been a blur of quiet, aching grief.
 
 Stella pulled her blue Holt Sentinel to the curb in front of the Martin Building on the bustling downtown campus of the Community College of Hampton Roads (CCHR). She turned in her seat, her expression a mixture of pride and deep, maternal concern. "Okay, guys," she said softly. "First day. You're going to be great."
@@ -32,8 +30,6 @@ As she pushed his wheelchair through the building's main doors, she took her dut
 But as they found their classroom and settled into the accessible seating at the front, Leo just stared blankly at the whiteboard. Luna could do her best, Stella could be a phone call away, but the fortress felt incomplete. He was surrounded by the noise and energy of a new beginning, but all he felt was the profound, crushing silence of an ending. He just missed Olivia so much. The void in his heart was a vast, empty space, waiting for someone, or something, to fill it.
 
 ### Part 2: American Literature
-
-# The Emotional Vacuum
 
 The classroom in the Martin Building was a standard college classroom, built for about 30 students, with tables arranged in rows facing a large whiteboard. The fortress twins found an accessible spot near the front, giving Leo ample room for his wheelchair. As other students filed in, a middle-aged professor with kind eyes and a tweed jacket entered and began arranging his notes on the table at the front.
 
@@ -83,8 +79,6 @@ Students began to gather their bags, the rustling of backpacks and the scraping 
 
 ### Part 3: The Separation
 
-# The Emotional Vacuum
-
 As students began to file out of the American Literature class, the reality of the next part of the day hit Leo with a jolt of raw panic. He looked at his schedule, then at Luna's. Her next class was just down the hall. His was a 90-minute College Algebra I class, across the street in the Andrews Building.
 
 For the first time since Olivia had left, he was going to be completely and truly alone.
@@ -131,8 +125,6 @@ For the first time since he had said goodbye to his best friend, a fragile glimm
 
 ### Part 4: An Unexpected Addition
 
-# The Emotional Vacuum
-
 The 90-minute algebra class felt like an eternity, but it finally ended. Leo packed his bag, the earlier glimmer of hope from Delores's offer a small, fragile shield against his exhaustion. As he wheeled himself out of the classroom and into the bustling hallway of the Andrews Building, he saw a familiar, welcome sight.
 
 As promised, Luna was waiting for him. The moment she saw him, her face broke into a relieved smile. She immediately rushed over and pulled him into a tight, fierce hug, a silent, powerful acknowledgment of the separation they had both just endured. She understood exactly what the Olivia-sized hole in his heart was all about, and her hug was a desperate, loving attempt to fill a fraction of it.
@@ -164,8 +156,6 @@ Delores beamed, a look of genuine delight on her face. "Awesome! Thanks!"
 As the three of them—Luna pushing Leo's chair, Delores walking beside them, chatting easily—headed out of the building and toward the mall, Luna couldn't shake a tiny, unidentifiable flicker of unease. But she pushed it down. Leo looked a little happier, a little less lost. For now, that was all that mattered.
 
 ### Part 5: The First Red Flag
-
-# The Emotional Vacuum
 
 The third-floor food court of the mall was a noisy, bustling hub of lunchtime activity. Stella was waiting for them at a table near the windows, and her face lit up the moment she saw them approaching. The twins immediately broke away from Delores and enveloped their sister in fierce, loving hugs, a much-needed moment of connection after their first, separate classes.
 
@@ -201,8 +191,6 @@ The moment was small, almost unnoticeable. But Stella, whose "guardian bear" sen
 
 ### Part 6: A Cautious Assessment
 
-# The Emotional Vacuum
-
 As the remnants of their lunch were cleared away, Stella glanced at her watch. "Alright, team, the salt mines are calling. I've got to get back to the office," she said, a note of reluctance in her voice.
 
 As she stood to leave, Delores saw her opening. She turned to Leo, a bright, performative smile on her face, keenly aware that Stella was watching. "It was so great to finally meet your sisters, Leo," she said, pulling a slip of paper from her purse. "Here's my number. Call me any time. I'd love to get together to study. I can't wait to see you again."
@@ -228,8 +216,6 @@ Leo nodded, confirming he had noticed it too. He appreciated his sister's sharp,
 With a final wave, Stella was gone, leaving the twins to make their way to their next and final class of the day: a shared, afternoon introduction to computers class. It was a class primarily designed for senior citizens learning to use a computer for the first time, but Stella, in her wisdom, had enrolled them in it, hoping the slow, gentle pace would help them get over their anxiety of modern computers. The twins had agreed to at least give it a try. This would be their first time confronting a modern computer with a modern operating system head-on, without Stella's help. As they walked towards the classroom building together, a united front, they both felt a familiar knot of technological dread, but also the quiet strength of facing it, side-by-side.
 
 ### Part 7: Confronting Quantum
-
-# The Emotional Vacuum
 
 The short walk from the mall food court back across the street to the Andrews Building was a marked contrast to their tense, solo journeys that morning. Now they were together, a familiar, two-person fortress moving through the bustling downtown sidewalks. Luna pushed Leo's wheelchair, her movements practiced and sure, taking her role as his caregiver seriously.
 
@@ -313,8 +299,6 @@ As they finally left the classroom, the daunting challenge of "Operation: Conque
 
 ### Part 8: A Cautious Assessment
 
-# The Emotional Vacuum
-
 The "Introduction to Computers" class finished, leaving Luna and Leo feeling exhausted but cautiously optimistic. As they exited the classroom into the now-emptying hallway of the Andrews Building, they nearly collided with another student emerging from the English writing class next door. It was Delores.
 
 "Leo! Hey!" she said, her face lighting up with a brilliant smile as if this were the most wonderful coincidence. She immediately moved to him, giving him another one of those hugs that felt a bit off—a little too tight, a little too proprietary. "Fancy seeing you here! How was your class?"
@@ -349,8 +333,6 @@ The effect was instantaneous. A brilliant, genuine smile broke across Leo's face
 
 ### Part 9: The Ride Home
 
-# The Emotional Vacuum
-
 The ride home in Stella's Holt Sentinel was a quiet, comforting cocoon after the sensory overload of the first day. Without a word, Luna slid into the back seat with Leo, a silent offer of support. The moment she was settled, Leo leaned his head against her shoulder, and she immediately wrapped an arm around him, letting him cuddle with her for the entire ride home. It was a familiar, grounding ritual, a physical reassurance that his fortress was intact.
 
 "So," Stella began, her voice a low murmur as she navigated the downtown Norfolk traffic, "Delores. What's the official assessment?"
@@ -378,8 +360,6 @@ The effect was instantaneous and profound. A brilliant, genuine smile broke acro
 OLIVIA! The name was a silent, happy shout in his mind. He was going to talk to OLIVIA tonight! That meant more to him than anything. He turned to his sister, a wave of profound gratitude washing over him. He gently grabbed Luna's hand and adjusted her arm, pulling her into a tighter, more comfortable cuddle. It was a perfect, non-verbal "thank you" for understanding exactly what he needed most.
 
 ### Part 10: A Long-Distance Lifeline
-
-# The Emotional Vacuum
 
 The moment they got home, before the exhaustion of the day could fully set in, Luna made good on her promise. "Okay," she announced, "Operation: Call Olivia is a go."
 
@@ -417,8 +397,6 @@ They hung up, and the silence that filled the room felt vast and empty, but also
 
 ### Part 1: The Tutor
 
-# The Web
-
 The first few weeks of the fall semester were defined by two competing forces in Leo’s life: the deep, aching void left by Olivia’s departure, and the small, fragile glimmer of hope offered by Delores.
 
 True to her word, Delores became his algebra tutor. They met in the college library after his classes, and she was brilliant. She was patient, she was kind, and she had a gift for explaining complex equations in a way that finally made sense to him. For the first time, Leo felt a flicker of academic confidence in a subject he had always feared.
@@ -428,8 +406,6 @@ Their study sessions quickly bled into more. Delores was a masterful conversatio
 The daily phone calls with Olivia were his lifeline, but they were also a painful reminder of the distance between them. Delores, in contrast, was *here*. She was a tangible presence, a warm body in the seat next to him, and he began to cling to that.
 
 ### Part 2: The Unveiling
-
-# The Web
 
 By the fourth week of their "friendship," Leo was spending most of his free time at Delores's apartment. It was during one of these weekends in late September that Delores decided to escalate, to forge a new kind of intimacy she believed would secure her control.
 
@@ -462,8 +438,6 @@ Leo, seeing her sudden, violent shift in mood, simply shrank back in his chair, 
 The tool she had thought was her ultimate trump card had proven completely ineffective. It wasn't thrilling. It wasn't special. It was just... weird. And his honest, uncomprehending reaction was, in her eyes, the ultimate rejection, derailing the rest of what she had planned for the evening.
 
 ### Part 3: A Controlled Visit
-
-# The Web
 
 One Saturday afternoon in the Summer of 2003, Stella and Luna arrived at Clara Mahone's apartment in Portsmouth for one of their increasingly infrequent, carefully negotiated visits with Leo. Delores had "allowed" them to come over, but the atmosphere was immediately tense. Delores shadowed their every move, inserting herself into conversations, her eyes constantly monitoring Leo. Clara mostly stayed in the kitchen or watched TV, seemingly oblivious or perhaps willfully ignoring the undercurrents.
 
@@ -511,8 +485,6 @@ Upset and deeply worried, Stella and Luna walked out, leaving Leo once again in 
 
 ### Part 4: An Unsettling Silence
 
-# The Web
-
 The front door clicked shut behind Stella and Luna, leaving a heavy silence in its wake. Leo sat quietly near the window, looking withdrawn after the stressful visit. Delores stood near the center of the small living room, still vibrating with unspoken fury, her arms crossed tightly, her gaze fixed on the door her "rivals" had just exited.
 
 Clara watched her daughter from the doorway of the kitchen, drying her hands slowly on a dishtowel. She had seen Delores's reaction to the goodbye hugs – the tightening of her jaw, the sheer possessive rage simmering beneath the surface . It wasn't just annoyance; it was something deeper, more intense, and frankly, unsettling.
@@ -536,8 +508,6 @@ Clara looked at her daughter, hearing the weakness in the excuse. Probing furthe
 She turned away, heading back towards the relative normalcy of the kitchen, leaving Delores standing there. The confrontation had been brief, but it left an uncomfortable tension, and a new, unspoken question, hanging in the air.
 
 ### Part 5: A Guardian\'s Shadow
-
-# The Web
 
 The heavy, resentful silence in the apartment after Stella and Luna's departure was a familiar poison to Clara Mahone. She watched her daughter, Delores, pace the small living room, still fuming over the perceived slights of the afternoon—the bath, her mother's lack of absolute support, and the infuriatingly close bond between Leo and his sisters.
 
@@ -589,8 +559,6 @@ Clara looked at her daughter, at the complete, unshakeable delusion in her eyes,
 
 ### Part 6: A Sleepless Resolve
 
-# The Web
-
 The thin walls of Delores's bedroom offered no protection from the argument raging in the living room. Leo heard all of it: Clara's desperate, urgent explanation, Delores's scoffing disbelief, and the sharp, terrifying words that followed.
 
 Rape? Prison? He didn't fully understand what the word "rape" meant, but he understood the terror in Clara's voice. He understood it was something very severe, a consequence of something he and Delores might do together. The realization that their relationship could lead to something so terrible, something that involved police and prison, filled him with a cold, paralyzing fear. He was scared. And in that moment, he wished with every fiber of his being that he was home, that Stella and Luna had taken him with them after the bath. But he was too scared to get on the phone and call for help, terrified of what Delores would do if she caught him. He would have to endure.
@@ -609,8 +577,6 @@ He hardly slept that night. He lay stiffly in the bed, pretending to be asleep, 
 
 ### Part 7: A Fragile Normalcy
 
-# The Web
-
 The next morning, the terror of the previous night felt like a distant, foggy dream to Leo. When he woke, Delores was bright and cheery, a complete one-eighty from her cold fury the day before. It was another mask, a carefully constructed performance of normalcy, but it was one that Leo, in his desperate desire for peace, did not pick up on. Her cheerfulness felt like a reprieve, a sign that maybe things were okay, that he had imagined the severity of the argument between her and her mother.
 
 His resolve from the night before, the desperate plan to tell Stella, Luna, and Olivia everything, was forgotten, pushed aside by the immediate, powerful need to avoid any further conflict.
@@ -624,8 +590,6 @@ He gave a genuine, relieved smile. They headed into the building for their share
 ## Sibling Weekend
 
 ### Part 1: The Hijacked Plan
-
-# Sibling Weekend
 
 Fall 2003 arrived, and with it, the approach of the mid-October long weekend many colleges observed as Fall Break around Columbus Day. The silences from Leo were becoming longer, the phone calls shorter and more stilted. Stella and Luna exchanged worried glances more frequently. Since Leo had effectively moved in with Delores and her mother across the river in Portsmouth, the communication had gradually dwindled, subtly throttled by Delores’s possessiveness. They missed him terribly, and beneath the missing him was a growing unease about his situation.
 
@@ -661,8 +625,6 @@ Luna retreated into angry silence, grabbing her headphones. The planned sibling 
 
 ### Part 2: The College Pickup
 
-# Sibling Weekend
-
 The blue Holt Sentinel idled near the entrance of the community college campus in Norfolk that Friday afternoon. Stella gripped the steering wheel, her knuckles white for a moment before she forced herself to relax. Beside her in the back seat, Luna stared stonily out the window, headphones already clamped over her ears, emitting a faint tinny beat of some angry rock song. The original plan for a relaxed, siblings-only weekend felt like a distant memory, replaced by dread.
 
 Stella saw Leo wheeling himself out of the main doors, his backpack slung over the chair handles. His face lit up briefly when he saw the Sentinel, a welcome sight. But the relief quickly faded as Delores emerged right behind him, carrying her own overnight bag, practically attached to his side, her expression one of possessive determination.
@@ -678,8 +640,6 @@ Stella shot Luna a warning look in the rearview mirror before turning back to th
 "Right," Stella said tightly, forcing calmness. "Okay, Leo, looks like you and Luna get the back seat today."
 
 ### Part 3: The Drive and Arrival
-
-# Sibling Weekend
 
 Helping Leo transfer into the back of the Sentinel was significantly more awkward than the front seat transfer they usually managed. It required more maneuvering, and Leo bumped his knee slightly, wincing. Delores watched from the front seat, offering unhelpful commentary. "Be careful with him, Stella. You almost dropped him. Maybe I should do it."
 
@@ -700,8 +660,6 @@ Swallowing her rage, Delores kept her mouth shut. She turned back around in her 
 In the back seat, Luna continued to hold her brother, a silent, victorious guardian. The first battle of the weekend had been fought without a single word, and for now, the fortress had won.
 
 ### Part 4: An Uneasy Evening
-
-# Sibling Weekend
 
 Pulling into the driveway of the small house on Daniel Maloney Drive felt less like arriving home and more like bringing the tension indoors. The moment the car stopped, Stella and Luna got out to help Leo, the transfer out of the back seat just as awkward as getting in. Delores retrieved her own bag from the trunk and surveyed the house with a critical eye.
 
@@ -730,8 +688,6 @@ Luna, seeing this, stood up abruptly. "I've got homework," she announced, and re
 Stella watched the dynamic, frustration simmering. Delores wasn't just a guest; she was an occupying force, disrupting their routines and trying to control Leo even here.
 
 ### Part 5: Saturday Under Siege
-
-# Sibling Weekend
 
 Silence hung heavy in Stella’s house when Saturday morning dawned, grey and cheerless outside, mirroring the mood inside. Stella emerged from her room first, feeling unrested. She found Luna already in the kitchen, rigidly pouring cereal. They exchanged a brief, weary look. The closed door to Leo’s bedroom felt like a physical weight between them .
 
@@ -797,8 +753,6 @@ When the call finally ended, Leo looked utterly drained, but also a little more 
 
 ### Part 6: MagnaByte Conflict
 
-# Sibling Weekend
-
 After the call with Olivia, seeking refuge, Leo joined Luna at the MagnaByte table. The quiet, rhythmic click-clack of the two keyboards filled their corner as they focused on a writing assignment for English class, comfortably using MagnaWriter. For a brief period, they existed in their familiar bubble.
 
 Delores, eventually tiring of the uninteresting standard cable service (Stella kept the tape player and tapes inaccessible), muted the TV and sauntered over.
@@ -828,8 +782,6 @@ Stella hurried back in. "What's going on here?"
 Delores shrugged with feigned indifference. "Fine. Whatever. Stay here with your *silly antiques*." She walked back to the couch. Luna glared after her. Leo looked down at his keyboard, the brief refuge invaded. He glanced at Luna, a shared look of helpless anger passing between them.
 
 ### Part 7: Printer Rage, Guardianship Questions, and a Forceful Kiss
-
-# Sibling Weekend
 
 Despite the earlier interruption, Luna and Leo Porter resolutely turned back to their MagnaBytes, determined to finish their English assignment. They worked steadily for another hour. Finally, Luna stretched. "Okay, I'm done. Ready to print?" Leo gave a quick nod, saving his MagnaWriter document.
 
@@ -896,8 +848,6 @@ After another moment of asserting her control, she finally, roughly, helped him 
 Leo kept his eyes downcast, the "painted smile" he’d perfected – that hollow mask of endurance – fixed on his face, though tears of pain and shame still tracked silently down his cheeks. He felt stripped bare, violated in front of the two people he loved most in the world. Delores had not only asserted her control over him but had used his body to wound his sisters as well. The suffocating feeling of her tongue, the sting of her teeth on his cheek, the burning shame of the visible mark – it was all a horrifying testament to his entrapment. The silence in the room was broken only by the tinny, cheerful theme song of some forgotten sitcom flickering on the television, a grotesque counterpoint to the ugly reality that had just unfolded. Delores leaned back on the sofa, a picture of possessive satisfaction, while Leo sat beside her, a prisoner marked by her cruelty, his sisters watching, hearts shattered, their protective fury banked but burning with a desperate, ice-cold resolve.
 
 ### Part 8: Leftovers, Bus Schedules, and Locked Doors
-
-# Sibling Weekend
 
 The rest of Sunday passed under the heavy, oppressive cloud left by the previous day's arguments and Delores’s continued attempts to control Leo and undermine Stella. Luna remained largely invisible, barricaded in her room or behind her MagnaByte screen. Stella navigated the hours, maintaining a strained civility for Leo’s sake.
 
@@ -971,8 +921,6 @@ The unspoken fear hung heavily between them. Another sleepless night stretched a
 
 ### Part 9: A Day Under Duress
 
-# Sibling Weekend
-
 Monday – Columbus Day – dawned with the heavy weight of unspoken resentment settling even deeper over Stella's small house. Delores emerged late, clearly furious about being trapped there for another day due to her refusal to accept Stella's offer of a ride and the lack of the final \#85 bus route on the holiday schedule. She made her displeasure known through pointed sighs and a chilly demeanor that ignored both Stella and Luna completely, while simultaneously hovering possessively over Leo.
 
 Luna, sensing the volatile atmosphere, made herself scarce, retreating to her bedroom or the MagnaByte corner immediately after a brief, silent breakfast. Stella attempted to maintain a semblance of normalcy, tidying the kitchen and trying to focus on work she could do from home, but the tension was thick enough to cut with a knife. Delores commandeered the living room television, flipping through channels with bored annoyance, insisting Leo sit nearby where she could monitor him, effectively preventing him from joining Luna at the computers or having any private interaction with his sisters.
@@ -1024,8 +972,6 @@ The thought was a declaration of war, but it was one she felt ready to wage. She
 Luna's head snapped up, a fierce, desperate hope in her eyes, completely unaware of Stella's internal conflict. She agreed instantly, her voice full of a longing that had been building for months. "Yes, Stel. Absolutely. I want my twin back home. Sooner rather than later." The decision was made: Leo was going to come home for Thanksgiving, come hell or high water.
 
 ### Part 10: Tuesday Morning Departure
-
-# Sibling Weekend
 
 Tuesday morning arrived, bringing the promise of departure and the resumption of the normal weekday bus schedule. Delores was clearly eager to leave, pacing impatiently near the front door while Leo finished getting ready. There was no time offered for a proper breakfast, nor any desired.
 
@@ -1089,8 +1035,6 @@ Leo glanced back once, a silent, worried look passing between him and his sister
 
 ### Part 1: The Trip Proposal
 
-# Westward Ho!
-
 The tension following the hijacked Sibling Weekend lingered heavily in the small Portsmouth apartment. Communication between Leo and his sisters became even more strained, monitored, or intercepted. Delores, perhaps sensing Leo pulling away emotionally or simply seeking another avenue of control after the failed visit, came to him just days later – only a couple of weeks before Thanksgiving in November 2003 – with a sudden, impulsive idea, presented as an escape or an adventure. She carefully omitted mentioning these specific cross-country plans to her own mother, Clara, likely giving Clara the vague impression they would simply be spending the holiday week locally.
 
 "Leo, I've got a great idea!" Delores announced, her voice full of forced brightness. "Let's go visit my aunt Carol in Kent, Washington – you know, near Seattle – for Thanksgiving! We can stay with her for a bit." Delores painted a picture of a welcoming relative eager for their company. "I looked into it," she continued, steamrolling potential objections, "flying is crazy expensive right now, but we could take the bus! Pathfinder Bus Lines has this deal, like \$99 each way. It's a long ride, like four days, but think of it as an adventure! We could leave early next week, spend Thanksgiving out there, see some sights, and come back."
@@ -1101,8 +1045,6 @@ An adventure. A chance to get away, maybe reset things with Delores after the aw
 
 ### Part 2: Four Days on the Bus
 
-# Westward Ho!
-
 Boarding the gleaming blue and silver Pathfinder Bus Lines coach in Norfolk felt surreal. As they settled into seats near the middle of the bus, adjacent to the wheelchair lift area, Leo tried to push his doubts aside, focusing on the promise of the trip. The first few hours blurred into the familiar landscape of Virginia highways – Hampton, Richmond. In Richmond, they navigated the controlled chaos of their first bus change, the brief stop offering little respite before boarding the next coach heading west.
 
 But as day bled into night and back into day again, the reality of the four-day journey began to set in. The bus seats became instruments of discomfort. Repositioning himself to avoid pressure points was difficult in the confined space, a constant, low-level worry nagging at him. Delores, initially talkative, grew quiet and irritable, often lost in her headphones or staring blankly out the window, offering little conversation or assistance.
@@ -1112,8 +1054,6 @@ Rest stops became logistical hurdles. Many older bus stations or roadside diners
 He desperately wished he could message Stella or Luna during the long stretches, but his older AAC device (a bulky, dedicated unit from 1999) lacked any built-in internet or messaging capabilities. Even if he tried composing messages offline to potentially save later, Delores hovered whenever he used the device, making comments about wasting battery or asking pointedly what he was doing, making him quickly put it away. The technological limitations combined with Delores's controlling presence meant the isolation felt immense, stretching with the miles.
 
 ### Part 3: Doubts and Desperation
-
-# Westward Ho!
 
 After changing buses again in Knoxville, the journey continued through Nashville. By this point, the accumulation of physical discomfort, Delores’s dismissive behavior, and the profound isolation had solidified a painful realization in Leo’s mind: this relationship wasn't working. It wasn't just a rough patch; it was wrong. He desperately wanted it to be over. He wanted to turn around, get off this endless bus ride, and go back home to the safety and quiet understanding of Stella and Luna.
 
@@ -1126,8 +1066,6 @@ At the brief stop in Colby, Kansas – little more than a designated pull-off at
 Small requests from Leo for help adjusting his position or reaching something from his bag were met with sighs or sharp remarks. Delores seemed to resent his needs, framing them as inconveniences that disrupted her own numb endurance of the trip. Leo retreated further into himself, watching the miles crawl by, each one taking him further from Virginia, further from where he desperately longed to be. The initial excitement of the trip had long since evaporated, replaced by the agonizing knowledge that he wanted to go home, coupled with the dread of the unknown situation awaiting him in Washington.
 
 ### Part 4: Arrival in the Pacific Northwest
-
-# Westward Ho!
 
 Climbing through the Rockies into Denver brought a dramatic change in scenery but little relief and another bus change. The higher altitude of the Mile High City made the air noticeably thinner, causing Leo some mild but persistent breathing difficulty he hadn't experienced crossing the lower Blue Ridge or Appalachian ranges further east. To make matters worse, the air conditioning on this particular bus struggled, making the cabin stuffy and adding to his discomfort.
 
@@ -1169,8 +1107,6 @@ As they drove the final few blocks from the station, Aunt Carol focused entirely
 
 ### Part 5: An Unwelcoming House
 
-# Westward Ho!
-
 The car pulled into the driveway of a small, neat house on a quiet residential street. It was late, the streetlights casting long shadows. Getting out of the car, Leo felt a wave of sheer relief wash over him, quickly followed by bone-deep exhaustion. Four days on a bus. It was finally over.
 
 "Oh, it's so wonderful to finally have you here, Delores!" Carol Mahone exclaimed, beaming as she enveloped her niece in a hug at the doorstep. Then her gaze fell on Leo as Delores helped him maneuver his chair up the single step. The smile didn't falter, but her eyes, trained by years of volunteer work with children with disabilities, immediately took in the scene with a sharp, compassionate assessment. She saw his exhaustion, the slight tremor in his hands, and the way he flinched from Delores's touch.
@@ -1192,8 +1128,6 @@ Later, as Delores closed the guest room door, the exhaustion of the journey cras
 Carol, passing the guest room doorway a few minutes later, saw the large electronic device charging. She recognized it immediately as a type of Augmentative Communication device. She knew how vital they were, and made a quick, sharp mental calculation of just how incredibly expensive they were. The fact that this exhausted, clearly distressed young man had been without his voice for any length of time was another piece of a troubling puzzle that was beginning to form in her mind. It was clear to her that none of this was Leo's fault. The observation registered, filed away for the moment.
 
 ### Part 6: Jet Lag, Pancakes, and a Fragile Plan
-
-# Westward Ho!
 
 That first night, lying stiffly on one side of the unfamiliar bed in the cramped guest room, Leo finally drifted into a fitful sleep, disturbed by the unfamiliar surroundings and a persistent, gnawing ache from his hip. Delores, beside him, seemed equally restless.
 
@@ -1291,8 +1225,6 @@ She turned back to Delores, her eyes hard again. "You do the dishes. Both plates
 
 ### Part 7: Delores Forces Herself
 
-# Westward Ho!
-
 By late afternoon, the relentless November rain had settled into a dreary, persistent drizzle. Leo lay on the double bed in the small guest room, trying to find a position that offered relief from the throbbing pain in his hip. He was weak, nauseous from the lack of medication, and utterly exhausted.
 
 He heard the door open. Delores entered. The air in the room shifted instantly, becoming heavy and suffocating.
@@ -1354,8 +1286,6 @@ He looked at the nightstand where his AAC device sat charging. He wanted to reac
 He was safe, physically. But the psychological wall had been breached. He knew now, with terrifying certainty, that there was no line she wouldn't cross if she was angry enough. He had to get out. He had to go home.
 
 ### Part 8: The Breaking Point
-
-# Westward Ho!
 
 The third morning in Kent dawned with a drumming sound against the window – a cold, relentless November rain. Inside the guest room, it was still pitch black, but Leo was wide awake. He hadn't slept.
 
@@ -1444,8 +1374,6 @@ He didn't know where he was going. But he knew he had to move.
 ## Homecoming
 
 ### Part 1: Escape Through the Rain
-
-# Homecoming
 
 The door clicked shut. A final sound.
 
@@ -1541,8 +1469,6 @@ Finally, the bus pulled up to the arrivals level of the main SeaTac terminal bui
 
 ### Part 2: Carol Looks for Leo
 
-# Homecoming
-
 Meanwhile, inside the house, the loud crash and Delores's vicious screaming had jolted Aunt Carol awake. She threw on a robe and rushed into the living room, her face a mask of fury. "Delores Ann! What in God's name is going on?!"
 
 Delores, still breathing heavily, immediately spun her lie. "He had a tantrum, Auntie!" she wailed. "He got mad and threw his machine and then he just... he stormed out! Into the rain!"
@@ -1604,8 +1530,6 @@ Carol shook her head, her expression grim. "We can't believe a word that comes o
 The two sisters, united in their shared fury and disappointment, made a grim pact over the phone. Delores's game was over. The consequences were coming, and for the first time in her life, there was no one left to protect her from them.
 
 ### Part 3: The TTY Lifeline
-
-# Homecoming
 
 Meanwhile, at Sea-Tac Airport, Leo managed to find the signs for payphones near the restrooms. His heart sank slightly. Without his AAC device, how could he even call? He found a bank of phones. Relief warred with confusion as he saw the blue TTY symbol—a stylized phone with a keyboard—on one of the enclosures.
 
@@ -1739,8 +1663,6 @@ On the other end, all three women heard it. The sheer, naked happiness in that s
 
 ### Part 4: The Longest Hour
 
-# Homecoming
-
 The line clicked, and Olivia's voice was gone, replaced by the quiet, hollow hum of the open connection. Leo was still holding the receiver, his knuckles white. The TTY screen blinked back to life with the operator's sterile text.
 
 (OPERATOR IS TYPING) 3RD PARTY DISCONNECTED. DO YOU WISH TO CONTINUE YOUR CALL? GA
@@ -1823,8 +1745,6 @@ The phone clearly transmitted the sound of Leo's raw, wordless cries of pure rel
 
 ### Part 5: Sanctuary in a Sterile Room
 
-# Homecoming
-
 The family restroom was a small, sterile, and blessedly quiet haven. The heavy door was locked, silencing the chaotic hum of the airport terminal. For the first time in days, Leo was in a private space with someone he trusted completely. The relief was so profound it was almost painful.
 
 Olivia's movements were a study in gentle, practiced efficiency. She still had Stella on the line, her phone wedged between her ear and shoulder. "Stella? I'm here with him in the family restroom," she said, her voice a calm report from a battlefield. She hit the speakerphone button, placing the phone on the small counter so Leo could hear, so they could all be in this together.
@@ -1877,8 +1797,6 @@ She just smiled, a small, sad, and deeply loving smile.
 
 ### Part 6: The First Meal
 
-# Homecoming
-
 As they exited the restroom back into the main terminal, the sheer scale of the airport, the echoing announcements, and the growing stream of travelers hit Leo with fresh force. He stopped, his breathing hitching, the world feeling too big, too loud after the quiet of the small room. Olivia saw it instantly. She wheeled him to a slightly quieter alcove, knelt in front of him, and pulled him into a firm, grounding hug.
 
 "I've got you," she whispered, her voice a steady anchor. "Just focus on me. We're a team." After a long moment, he gave a shaky nod against her shoulder. The hug had worked; he was centered again.
@@ -1898,8 +1816,6 @@ When he was finally finished, a deep, bone-weary contentment had settled over hi
 "Hey," she said, opening her laptop. "Let's show your sisters how well you're doing."
 
 ### Part 7: A Virtual Sanctuary
-
-# Homecoming
 
 Olivia cleared the wrappers from their table, then unzipped her carry-on bag and pulled out her bulky laptop. "Let's show your sisters how well you're doing," she said softly.
 
@@ -1995,8 +1911,6 @@ He took a slow, shuddering breath, forcibly closing the file on Delores in his m
 
 ### Part 8: The Boarding Pass
 
-# Homecoming
-
 The InfoLink Messenger chat with his sisters had been a lifeline, a virtual sanctuary that reaffirmed his connection to home. But when Olivia packed her laptop away, the stark reality of the bustling, noisy airport terminal crashed back in. Leo was exhausted, his body aching, and his flight was still hours away.
 
 Olivia saw the weary slump of his shoulders, the way his eyes darted nervously at the growing holiday crowds. "Okay," she said, her voice a gentle but firm command. "Sitting here is not the plan. Let's get our boarding passes. Let's make this real. One step closer to home."
@@ -2020,8 +1934,6 @@ He looked at the two slips of paper in Olivia's hand—his name and hers, side-b
 "See?" she said softly, her hand resting reassuringly on the back of his chair. "I told you I've got you. All the way home. Come on, let's go get you one step closer."
 
 ### Part 9: Airside Sanctuary
-
-# Homecoming
 
 Armed with both of their boarding passes, tangible proof of their shared journey home, Olivia led Leo towards the Transportation Security Administration checkpoint.
 
@@ -2065,8 +1977,6 @@ He was inside the fortress now. And he was safe.
 
 ### Part 10: Airside Mission – Clothing
 
-# Homecoming
-
 Once they were airside, Olivia’s first priority was to get Leo out of his cold, wet clothes. She quickly spotted a large airport gift shop that sold souvenir apparel. She wheeled Leo inside, parked him near a rack of thick sweatshirts, and dialed Stella.
 
 "Stel, it's me," Olivia said the moment the call connected. "We're through security. He's safe." She took a breath, her voice lowering slightly as she looked down at Leo's soaked and disheveled state. "I know we talked about just getting him a sweatshirt, but his clothes are completely soaked through and just filthy. He really needs a full change of everything to get through this trip comfortably. I'm at a shop now, and I think I should get him everything: a t-shirt, the new hooded sweatshirt, sweatpants, a pack of underwear, and some socks. Is that okay?"
@@ -2088,8 +1998,6 @@ Leo gave a small, resolute nod. They continued this way, with Leo selecting a fr
 "Okay, mission accomplished. Let's go find a family restroom and get you changed."
 
 ### Part 11: Restoring Dignity
-
-# Homecoming
 
 With the bag of new, warm clothes in hand, Olivia guided Leo to the nearest family restroom. The click of the lock behind them was the sound of another small sanctuary secured.
 
@@ -2137,8 +2045,6 @@ They sat there for a long time, not speaking, just watching the complex, powerfu
 
 ### Part 12: A Song of Homecoming
 
-# Homecoming
-
 As they sat in the quiet of the empty gate area, a steady stream of generic holiday music drifted from the overhead speakers, part of the airport's ambient soundscape they had been tuning out for hours. Then, a new song began that cut through the background noise. It started with a dramatic, slightly melancholic piano melody, quickly joined by swelling orchestral strings that built a sense of grand anticipation.
 
 Then, a clear, powerful voice sang out, and the words of the chorus seemed to stop time, aimed directly at Leo's heart:
@@ -2172,8 +2078,6 @@ He used her phone, his fingers moving with a new steadiness, and typed out a ver
 "An excellent and very specific choice," Olivia said with a warm smile. She ordered his custom sandwich and a simple turkey wrap for herself. They returned to their quiet gate area and ate their meal in a comfortable, peaceful silence. The emotional storm had passed, leaving a calm, hopeful quiet in its wake as they prepared for the final steps of their journey home.
 
 ### Part 13: The Storm Before the Calm
-
-# Homecoming
 
 The quiet of their secluded gate area was a fragile peace. Though Leo had calmed after hearing the song, Olivia could see he was still vibrating with a powerful, unreleased emotion. He was masking, holding himself together with a discipline that she knew was costing him dearly. Their flight was soon. She knew he needed a final, private moment to reset before facing the confinement of the plane.
 
@@ -2225,8 +2129,6 @@ Olivia ended the call. They had weathered the storm. Now, all that was left was 
 
 ### Part 14: The Journey Home Begins
 
-# Homecoming
-
 The hours passed in a quiet, healing blur. After a second, simple meal and another necessary trip to the family restroom, Olivia saw the time on her phone. It was just after noon.
 
 "Okay," she said softly, gently rousing Leo from another light doze. "It's time. Let's go get us on that plane."
@@ -2265,8 +2167,6 @@ With that, the final piece of the plan was in place. Olivia settled back into he
 
 ### Part 15: A Longing for Simplicity
 
-# Homecoming
-
 The ascent was smooth, and soon the plane leveled off at cruising altitude. A chime echoed through the cabin, and the captain's voice came over the intercom, announcing that it was now safe to use approved portable electronic devices.
 
 For Leo, this was the moment he had been waiting for. Olivia, without needing to be asked, reached under the seat in front of her and pulled out her laptop bag. She placed the slightly bulky computer on Leo’s tray table and powered it on.
@@ -2291,8 +2191,6 @@ He looked out the window at the endless expanse of clouds below, the simple bag 
 
 ### Part 16: A Midway Dash
 
-# Homecoming
-
 The moment Gateway Flight 1138 docked at the gate in Chicago Midway, a sense of urgent purpose took over. The ground crew was prompt, bringing Leo’s manual wheelchair right to the jet bridge door. With the same practiced efficiency as always, Olivia helped him transfer from the aisle chair back into the familiar comfort of his own.
 
 As they entered the bustling terminal, Olivia’s first priority was to find their connection. "Okay, let's see where we're headed," she said, her eyes scanning the large departure monitor. A wave of profound relief washed over her. "Leo, look! We're in luck! Our flight to Norfolk is at gate B14—it's the one right next door! We don't have to go far at all!"
@@ -2314,8 +2212,6 @@ Olivia quickly gathered their trash and packed away their things. "That's us," s
 With Olivia pushing his chair, they joined the pre-boarding line, fed, cared for, and ready for the final leg of their long, arduous journey.
 
 ### Part 17: Arrival at ORF & Reunion
-
-# Homecoming
 
 Stella pulled her blue Holt Sentinel into the short-term parking garage at Norfolk International Airport (ORF). The garage was packed, a chaotic prelude to the terminal. Beside her, Luna was practically vibrating with anxiety.
 
@@ -2360,8 +2256,6 @@ He gave a small, exhausted nod, accepting it and resting it on his lap.
 He nodded again. Stella took the handles of his chair, her touch a promise of safety. Luna and Olivia gathered their bags, and the four of them began the journey towards the exit, moving together, a complete and unbreakable fortress of love.
 
 ### Part 18: Checking In, Cleaning Up
-
-# Homecoming
 
 Settled into the back seat of Stella’s familiar blue Holt Sentinel with Luna beside him and Olivia in the front passenger seat, Leo felt the tension finally begin to drain away. Stella turned on the radio to the familiar Rock 107 The Wolf, and the opening guitars of Mirage's "Haven City" filled the car. The words – *Take. Me. Home.* – hit Leo with the force of a physical blow, but a cathartic one. Tears welled again, but these were tears of arrival, of safety achieved. He was home. He instinctively leaned his head against Luna’s shoulder, and her arm came around him instantly, holding him close.
 
@@ -2409,8 +2303,6 @@ Olivia was beside him in an instant, wrapping him in a fierce, loving hug. He cl
 
 ### Part 19: The Contaminated Sanctuary
 
-# Homecoming
-
 He was clean, he was cared for, and he was surrounded by his fortress of love. As Leo lay on Stella’s bed, a profound weariness settled deep in his bones.
 
 "Alright, buddy," Stella said softly, her voice full of a gentle, loving purpose. "Ready to get you into your own bed for the night? You must be exhausted."
@@ -2442,8 +2334,6 @@ It was a chaotic but loving ballet of logistics. Stella and Olivia quickly retri
 Leo was in the middle, a position of ultimate safety. Luna immediately curled up on one side of him, and Olivia on the other. They flanked him, their arms wrapping around him, creating a warm, living fortress. He was surrounded, held, and protected. He wasn't just safe for a night. He was safe forever. And in the quiet darkness, cocooned by the unwavering love of the three most important women in his life, he finally, truly, began to feel the first fragile sense of peace.
 
 ### Part 20: Later That Night
-
-# Homecoming
 
 Later that night, the quiet darkness of the house should have felt comforting, but sleep wouldn't come easily for Leo. His body still felt adrift between time zones, and the lingering fear was a cold, visceral knot in his stomach. He was exhausted but mentally wired, hyper-aware of the profound safety of his current situation: he was nestled on Stella's massive king-sized waterbed, a human fortress surrounding him. Luna was on one side, Olivia on the other, their steady breathing a quiet rhythm in the dark. Stella was a warm, solid presence on the outside edge next to Luna. He was completely and utterly safe. He knew it logically.
 

@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: A Rainy Saturday Session
 
-# The Shapes
-
 A cold, gray Virginia rain lashed against the windows of the small house, drumming a steady rhythm on the roof and the hood of the **Starry Night Blue Holt Sentinel** parked in the driveway. Inside, however, the atmosphere was warm and dry, a stark contrast to the weather outside.
 
 The living room had become the twins' sanctuary. The dual **MagnaByte Opus** stations sat dormant in the corner for the moment. Today was about the turntable.
@@ -24,8 +22,6 @@ Leo held the album cover in his hands. It was **Origin’s** self-titled 1983 al
 She placed it on the platter and lowered the needle. The crackle of vinyl gave way to the music.
 
 ### Part 2: The True Light
-
-# The Shapes
 
 The track **"Kaleidoscope Sun"** began. It started with a distinctive, slightly melancholic keyboard arpeggio, joined quickly by a driving bassline and crisp drumming.
 
@@ -46,8 +42,6 @@ Then came the chorus, swelling with harmonies.
 Leo tapped his hand on his knee in time with the beat. He liked the concept of the "true light." It felt safe.
 
 ### Part 3: The Signal
-
-# The Shapes
 
 The song moved out of the first chorus, the harmonies swelling and then receding like a tide. The driving bassline softened, creating a sudden, spacious opening in the soundscape.
 
@@ -105,8 +99,6 @@ The song played on, the distinctive flute melody returning one last time in the 
 
 ### Part 1: The Rental Agreement
 
-# The New Voice
-
 The air in the Band Room was thick with the smell of valve oil and cork grease. It was the second week of Junior year, and the chaos of marching band season was in full swing.
 
 Luna stood in front of Mr. Thompson’s office door, shifting her weight from her good leg to her bad one. She held her Tenor Saxophone case in one hand, but her eyes were fixed on the instrument storage closet behind the glass partition.
@@ -138,8 +130,6 @@ He popped the latches. The silver instrument gleamed against the blue velvet lin
 Luna reached out and touched the smooth metal of the headjoint. "Thanks, Mr. T."
 
 ### Part 2: The Embouchure Struggle
-
-# The New Voice
 
 The living room was quiet. Leo was parked at the **MagnaByte** station, working on a history paper, the rhythmic *clack-clack-clack* of his keyboard providing a steady backbeat.
 
@@ -203,8 +193,6 @@ She took a breath and tried to find the B-flat again, the first brick in the for
 
 ### Part 3: The One-Month Trial
 
-# The New Voice
-
 The month of October was a noisy one in the Porter household.
 
 The living room had become Luna’s practice studio. Every afternoon, after homework and before dinner, she would sit on the edge of the sofa, the rental flute pressed against her chin, her brow furrowed in intense concentration.
@@ -252,8 +240,6 @@ Luna blinked. "Why? Where are we going?"
 "I know," Stella smiled, spinning the keys to the **Holt Sentinel** on her finger. "But we don't rent in this family, Lu. If you're going to play, you're going to play on something that belongs to you. We're going to buy one."
 
 ### Part 4: Silver and Ownership
-
-# The New Voice
 
 The bell above the door chimed as the fortress entered the music store. It was the same shop where they had bought the saxophone and the xylophone years ago. The smell of brass polish and sheet music was familiar and comforting.
 
@@ -324,8 +310,6 @@ In the back seat, Leo smiled. He tapped a message, though he didn't play it out 
 Luna nodded, clutching the bag tight. The fortress had a new voice—a professional, solid silver voice—and this time, they owned it free and clear.
 
 ### Part 5: The Sterling Standard
-
-# The New Voice
 
 Monday Morning Northwood High School Band Room
 

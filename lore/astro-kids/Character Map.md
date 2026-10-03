@@ -1,31 +1,12 @@
-# Lore: The Name Migration & Starling Profiles
+---
 
-**Tags:** `#characters` `#backstory` `#legal` `#timeline_2003` `#starling`
+---
 
-## Overview
-
-When Lyra, Orion, and Celeste turned 18 in the autumn of 2003, their legal emancipation allowed them to permanently sever ties with their parents. As a symbolic and legal declaration of their independence, they immediately filed for a complete legal name restructuring in Virginia court before any knowledge of their parents' death or the Texas inheritance.
-
-### The Name Migration Protocol
-
-The triplets' original legal names consisted of common 1980s American first names, their astronomy-inspired middle names given at birth, and their parents' generic last name (**Johnson**). Upon turning 18:
-
-1. **The First Name Shift:** They dropped their birth first names entirely and elevated their original middle names (**Lyra**, **Orion**, and **Celeste**) to their official first names.
-    
-2. **New Astronomy Middle Names:** Each chosen to reflect their specific passions and identities.
-    
-3. **The Surname Adoption:** They discarded "Johnson" and legally adopted **Starling** as their new shared last name.
-    
-
-## The Legal Transformation
-
-| **Triplet**  | **Original Full Name (1985–2003)** | **Legal Name Transformation (Fall 2003)**                                                                       | **New Full Legal Name**       |
-| ------------ | ---------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+------ | ---------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | **Eldest**   | Sarah Lyra Johnson                 | _Sarah_ dropped $\rightarrow$ **Lyra** elevated $\rightarrow$ Added **Carina** $\rightarrow$ **Starling**       | **Lyra Carina Starling**      |
 | **Middle**   | Christopher  (Chris) Orion Johnson | _Christopher_ dropped $\rightarrow$ **Orion** elevated $\rightarrow$ Added **Rigel** $\rightarrow$ **Starling** | **Orion Rigel Starling**      |
 | **Youngest** | Emily Celeste Johnson              | _Emily_ dropped $\rightarrow$ **Celeste** elevated $\rightarrow$ Added **Callisto** $\rightarrow$ **Starling**  | **Celeste Callisto Starling** |
 
-## Character Profiles
 
 ### 1. Valerie (The Anchor & Protector)
 

@@ -13,16 +13,12 @@ tags:
   -
 ---
 
-# Protocol: The Québécois Firewall
-
-## 🛡️ The Objective
 To deploy a linguistic shift that engages the prefrontal cortex, actively preventing an amygdala hijack (autistic meltdown/freeze response) upon visual or digital confirmation of an Ouellette twin at the scan station. 
 
 By utilizing formal Québécois terminology, the interaction is completely depersonalized, reinforcing the "Corporate We" defense mechanism and establishing immediate emotional detachment.
 
 ---
 
-## 🗣️ The Cognitive Separator (Pronunciation)
 
 The pronunciation of the surname dictates the timeline and the threat level. 
 
@@ -35,7 +31,6 @@ The pronunciation of the surname dictates the timeline and the threat level.
 
 ---
 
-## 📥 Arrival Protocols (The Greetings)
 
 To be deployed the moment the 1:1 visual match is established or the scan log updates. Maintain professional, detached eye contact.
 
@@ -51,7 +46,6 @@ To be deployed the moment the 1:1 visual match is established or the scan log up
 
 ---
 
-## 📤 Departure Protocols (The Farewells)
 
 To be deployed when the patron crosses the scan threshold and proceeds into the facility, definitively ending the interaction on your terms.
 

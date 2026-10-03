@@ -9,10 +9,6 @@ series: "Nichole"
 
 ### Part 1: The Last Funeral
 
-# The Long Retreat
-
-## Date: November 12, 2042 Age: 57 Location: 95 West Main Road, Portsmouth, RI
-
 The house was quiet. The kind of quiet that feels heavy, like a dust sheet draped over furniture.
 
 Patrick wheeled Nichole into the living room. They were both wearing black. They had just come from the cemetery in Middletown. Uncle Mark was the last one. Tom had gone first in 2032 (heart attack). Ellen followed him in 2035 (cancer). Aunt Carol in 2038. And now Mark—the architect of the Fortress, the financier of the dream—was gone at 94.
@@ -32,10 +28,6 @@ He walked over to the hallway closet—the one Mark had converted back in 2003. 
 "He built this for us," Patrick whispered, touching the doorframe. "He knew we'd end up here."
 
 ### Part 2: The City Problem
-
-# The Long Retreat
-
-## Date: February 2043 Location: The Foundry Lofts, Braxton
 
 The winter of '43 was brutal. For thirty years, The Foundry had been their stronghold. They loved the industrial windows, the polished concrete, and the direct subway access. But the city was changing.
 
@@ -59,10 +51,6 @@ She tapped her screen. WE. NEED. A. RANCH.
 
 ### Part 3: The Decision
 
-# The Long Retreat
-
-## Date: April 2043 Location: The Kitchen, Unit 404
-
 The papers were spread out on the island. The Deed: 95 West Main Road (Inherited, Mortgage Free). The Lease: The Foundry Lofts (Renewing in June).
 
 "The rent is going up again," Patrick noted, looking at the notice. "\$4,500 a month." He looked at the deed to the Portsmouth house. "Taxes on the Fortress are \$6,000 a *year*."
@@ -80,10 +68,6 @@ She reached for her mouse. WE. ARE. TIRED. PAT. THE. FORTRESS. IS. EASY. I. WANT
 Patrick read the words. *I want easy.* He let out a long breath. He rubbed his eyes. "Me too, Nikki. Me too."
 
 ### Part 4: The Return
-
-# The Long Retreat
-
-## Date: June 15, 2043 Location: 95 West Main Road, Portsmouth, RI
 
 They didn't hire movers to pack. They hired movers to *purge*. They sold the loft furniture. They donated the office equipment. Bennett Dynamics was officially closed for new business. They were keeping the patent royalties from the *Haptic Interface*, but the consulting firm was retiring.
 
@@ -108,10 +92,6 @@ Patrick lay back on the bed, staring at the ceiling. He didn't have to worry abo
 ## The Slow Rust
 
 ### Part 1: The First Breakdown
-
-# The Slow Rust
-
-## Date: November 12, 2045 Age: 60 Location: The Master Suite, The Fortress (Portsmouth)
 
 The decline didn't happen all at once. It started with a stumble.
 
@@ -143,10 +123,6 @@ The next day, they ordered a ceiling-mounted lift track system. It wasn't a defe
 
 ### Part 2: The Shared Breath
 
-# The Slow Rust
-
-## Date: March 3, 2055 Age: 69 Location: The Bennett Wing
-
 The heart failure started as a whisper in Patrick's chest. He would get winded pushing the chair up the ramp. He would have to stop halfway down the hall to catch his breath. Dr. Vance’s successor, a young cardiologist named Dr. Aris, showed them the echocardiogram on a holographic tablet. "Your heart is tired, Mr. Bennett," the doctor said gently. "It’s been doing the work of two people for a very long time. Your ejection fraction is down to 25%."
 
 At the same time, Nichole’s scoliosis finally compressed her lung capacity to the critical point. Her shallow breathing wasn't enough to clear the carbon dioxide. She was waking up with headaches, groggy and disoriented.
@@ -155,7 +131,6 @@ The medical recommendation was standard: Continuous oxygen therapy for both. "I'
 
 Patrick tried it for one day. He hated it. The strap dug into his shoulder, and the weight of the unit made his back ache, which only made his heart work harder. He found himself "forgetting" to put it on.
 
-## The Solution
 
 Three days later, Patrick rolled Nichole’s chair into the workshop. He took a sheet of lightweight aluminum. He measured the dimensions of the two medical devices. He didn't just tape them on. He fabricated a custom Dual-Unit Cradle.
 
@@ -188,10 +163,6 @@ For sixty years, Patrick had pushed her. He had been the engine. Now, the dynami
 Patrick took a deep breath of the cool, concentrated air flowing from the back of her chair. He watched the back of her head. "Lead the way, Nikki," he whispered. She tapped the joystick forward. The tether tightened just slightly, and they moved forward, one single unit.
 
 ### Part 3: The Final Perimeter
-
-# The Slow Rust
-
-## Date: January 2058 Age: 72 Location: The Master Bed
 
 The Plumbing Upgrade
 

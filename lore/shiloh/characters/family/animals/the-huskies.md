@@ -13,14 +13,10 @@ caregivers: "The Miller & Brooks Family"
 status: canonical
 ---
 
-# The Husky Pack
-
-## I. Overview & Legal Status
 The Albemarle County compound is home to a pack of three Siberian Huskies. They have free roam of the shared, fenced backyard and utilize heavy-duty dog doors to move between the Kids House and the Adults House.
 *   **Medical & Legal:** The adults take their care incredibly seriously. All three Huskies are strictly spayed/neutered, fully up-to-date on all Albemarle County licensing, and receive regular, documented checkups at the local veterinary clinic. 
 *   **Logistics:** To prevent resource guarding and maintain the sanitary perimeter of the Kids House, all kibble, feeding stations, and leashes are strictly maintained next door in the Adults House.
 
-## II. The Roster & Personalities
 
 ### 1. Kodiak ("The Weighted Blanket")
 *   **Gender/Status:** Male (Neutered)
@@ -39,5 +35,4 @@ The Albemarle County compound is home to a pack of three Siberian Huskies. They 
 *   **Weight:** 65 lbs
 *   **Personality:** True to the Navy roots of his name, Maverick treats the shared backyard like a daily tactical operation. He is hyper-athletic, incredibly curious, and constantly running the fence line. Inside the Kids House, he is the designated "puppy pile" instigator. If Rachel and Emily are trying to sleep on the gymnastic mat, Maverick is the one who will deliberately wedge himself directly into their sleeping bags, refusing to move until he is comfortably anchored against them for warmth.
 
-## III. The Pack Dynamic
 Despite their distinct personalities, the three operate as a hive mind when it comes to the family. They are completely desensitized to wheelchairs, unbothered by the sudden acoustic blasts from the Navy Gaming Towers, and fiercely protective of the flock. To Matt, their heavy breathing, clicking nails on the linoleum, and Echo's ridiculous vocal tantrums provide a highly predictable, comforting auditory baseline for his daily routine.

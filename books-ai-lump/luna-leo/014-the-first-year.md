@@ -9,10 +9,6 @@ series: ""
 
 ### Part 1: The 05:30 Alarm
 
-# The Orientation
-
-## August 24, 2006 8 Ocean View Lane - The Twin Wing 05:30 AM
-
 The alarm on Olivia’s phone chirped—a soft, ascending chime designed not to startle.
 
 In the dim light of the bedroom, the pile on the Queen bed shifted.
@@ -37,7 +33,6 @@ He reached for his Quantum Communicator on the nightstand.
 
 "Orientation Day," Luna echoed, finally rolling away and sitting up, her hair a mess. "Let's go get our free t-shirts."
 
-## The Command Wing
 
 Across the house, in the Master Suite, Stella woke up without an alarm.
 
@@ -55,7 +50,6 @@ She walked to her ensuite. She washed her face. She looked in the mirror. She di
 
 "Game face," she told her reflection.
 
-## 06:00 AM The Kitchen
 
 The Fortress converged in the kitchen.
 
@@ -89,10 +83,6 @@ They headed down the wide, smooth sidewalk of Ocean View Lane, four students (an
 
 ### Part 2: The Rainy Day Express
 
-# The Orientation
-
-## August 28, 2006 Iron Point Station - Platform 06:10 AM
-
 The first Monday of classes brought the first real rain of the semester. A heavy, grey Atlantic drizzle soaked the platform.
 
 The Fortress stood under the shelter. Leo sat in his Titan X-Treme, the new rain cover protecting his joystick console.
@@ -123,7 +113,6 @@ Leo parked in the rear bay. He plugged in his Scribe.
 
 The train launched. Because it was an ARTS train, it skipped Rockwell, and Southport. The rain blurred the windows into grey streaks, making only one pit stop at BCI Airport.
 
-## 06:30 AM Narragansett Esplanade Station
 
 Twenty minutes later, they glided into the station.
 
@@ -145,7 +134,6 @@ They walked down The Stampede corridor to The Foundry. It was bustling with brea
 
 They ate together—eggs, toast, and coffee milk on tap.
 
-## 08:15 AM The Separation
 
 Breakfast was over. It was time to deploy.
 
@@ -173,7 +161,6 @@ Luna assembled her Orpheus 680. She didn't play scales. She played Syrinx.
 
 The haunting melody filled the soundproof room. Leo sat in his Titan, eyes closed, letting the music center him before the chaos of the day. It was their last moment of peace.
 
-## 08:45 AM Fine Arts Center - Elevator Lobby
 
 They stood by the elevator.
 
@@ -201,13 +188,8 @@ He rolled into the elevator, descended to the tunnel, and headed for the Enginee
 
 ### Part 3: The Split Screen
 
-# The Orientation
-
-## August 28, 2006 09:15 AM
-
 The morning sun streamed through the windows of Braxton State University. The Fortress was deployed across the campus, each member engaging their respective targets.
 
-## Location: The Centennial Library - 4th Floor (Quiet Zone) Agent: Stella Porter
 
 Stella claimed a corner carrel with a view of the ocean. She opened her laptop. She wasn't here to write a paper; she was here to build a headquarters.
 
@@ -223,7 +205,6 @@ She took a sip of coffee. The library was silent, efficient, and free. She was m
 
 "Perfect office," she whispered.
 
-## Location: Humanities Building - Room 204 Agent: Olivia Walker Porter
 
 The Social Theory lecture was full. Olivia sat in the second row, notebook open.
 
@@ -273,7 +254,6 @@ She looked at her own ring. It wasn't just a promise to Leo; it was the ultimate
 
 *Fortress Secure,* she thought, and began to write.
 
-## Location: Engineering Building - Lecture Hall A Agent: Leo Arthur Porter
 
 The professor was drawing force vectors on the whiteboard.
 
@@ -329,7 +309,6 @@ Leo nodded. He didn't just have classmates. He had a team.
 
 The three of them turned back to the front, ignoring the rest of the room, united by the only thing that mattered: The Work.
 
-## Location: Fine Arts Center - Room 402 Agent: Luna Eleanor Porter
 
 The Music Theory class was buzzing. The professor, Mr. Davies (an adjunct who played flute in the local pit orchestras), was taking roll.
 
@@ -384,10 +363,6 @@ Luna sat down. She packed the silver away. She caught the eye of the girl in the
 Luna smiled. The rumor was true. The Fortress had arrived.
 
 ### Part 4: The Vetting Process
-
-# The Orientation
-
-## August 30, 2006 The Foundry Dining Hall - The "Bull Pen" Table 12:10 PM
 
 The Fortress had claimed their usual large round table in the center of the dining hall. Stella was reviewing a contract on her laptop. Olivia was unwrapping a sandwich. Luna was reviewing her French vocabulary cards.
 
@@ -487,10 +462,6 @@ The Fortress had expanded. It hadn't let down the drawbridge; it had just issued
 
 ### Part 5: The Dialect Shock
 
-# The Orientation
-
-## August 29, 2006 (Tuesday) Humanities Building - Room 204 02:00 PM
-
 The classroom was full. **FR-Q 101** was a popular elective, mostly because students assumed "French is French."
 
 **The Fortress** sat in the front row, occupying a block of five seats.
@@ -585,7 +556,6 @@ Dr. Gagnon clapped his hands. *"Aweille! Ouvrez vos livres à la page dix. On co
 
 Olivia grinned. She was home.
 
-## August 29, 2006 Humanities Building - Room 204 02:45 PM
 
 Dr. Gagnon had paused the lecture to let the students "mingle and practice casual greetings."
 
@@ -645,7 +615,6 @@ Leo, watching from his Titan, tapped his **Quantum Communicator**.
 
 *"TARGETS UNAVAILABLE,"* the robotic voice announced to the silent room. *"GAME OVER."*
 
-## The Lesson
 
 Dr. Gagnon, who had been watching the entire exchange with a look of pure delight, clapped his hands.
 
@@ -699,7 +668,6 @@ Olivia sat back down. She looked at Leo. She touched her ring against his armres
 
 From that day on, nobody in the class messed with the Fortress. And Elspeth the Scot became their unofficial bodyguard for any insults that required a hard 'R'.
 
-## August 29, 2006 Humanities Building - Room 204 02:50 PM
 
 Chad stood in the center of the room, his face burning.
 
@@ -733,7 +701,6 @@ The door slammed.
 
 Dr. Gagnon watched him go. He looked at the class list. He crossed out **CHAD**.
 
-## The Exodus
 
 When the class ended at 3:30 PM, there was a scramble for the door.
 
@@ -758,10 +725,6 @@ He tapped his **Quantum Communicator**.
 "Oh, hen," Elspeth laughed. "You're not ready for *that* lesson."
 
 ### Part 6: The Machine Shop
-
-# The Orientation
-
-## August 28, 2006 BSU Engineering Building - "The Sandbox" 02:00 PM
 
 Leo rolled into the ground-floor machine shop. It was a cathedral of industry—high ceilings, smell of ozone and cutting fluid, the hum of CNC mills.
 
@@ -836,10 +799,6 @@ Leo rolled out of the shop. He checked his watch. 03:15 PM. Time to head to the 
 He felt lighter. He hadn't just designed a rack; he had found his cohort. And Olivia would approve.
 
 ### Part 7: The Audition
-
-# The Orientation
-
-## August 28, 2006 Fine Arts Center - Rehearsal Hall A 04:00 PM
 
 The noise in Rehearsal Hall A was deafening. Sixty musicians were warming up simultaneously.
 
@@ -943,10 +902,6 @@ Luna played the A-440. The orchestra tuned to her sound. She hadn't bought the s
 
 ### Part 8: The Library Rendezvous
 
-# The Orientation
-
-## August 28, 2006 Fine Arts Center - The Music Library (Reading Room) 06:10 PM
-
 The Music Library was a quiet, wood-paneled sanctuary on the second floor of the Fine Arts Center. While the practice rooms were for noise, this room was for silence. It was filled with students studying scores, writing papers, and hiding from the chaos of the first day.
 
 Stella and Olivia had claimed a large, rectangular table near the window.
@@ -1027,10 +982,6 @@ Stella went back to her C# code. The family was safe. The semester was launched.
 
 ### Part 9: The Safe Harbor
 
-# The Orientation
-
-## August 28, 2006 Fine Arts Center - The Music Library 06:30 PM
-
 The library doors opened. Luna walked in, her Orpheus 680 case over her shoulder, still buzzing from the adrenaline of the Wind Symphony rehearsal.
 
 She scanned the room. She found the corner table.
@@ -1061,7 +1012,6 @@ She looked at Sarah and Amanda. "And I see the Engineering Department has infilt
 
 "We're just here for the French lessons," Sarah grinned. "And the robot designs."
 
-## The Escort
 
 Stella checked her watch. "06:45 PM. The rain is picking up. We need to move."
 
@@ -1095,7 +1045,6 @@ Luna watched. It was seamless. No awkwardness. Just affection.
 
 "Night, Leo," Amanda said. "Dream of aluminum brackets."
 
-## The Express Home
 
 The Fortress turned back. They navigated the tunnels to the Oceanfront Esplanade Station elevators.
 
@@ -1125,7 +1074,6 @@ Ten minutes later, they stopped briefly at the Airport station (underground). A 
 
 Then, the train launched again.
 
-## 07:25 PM Iron Point Station
 
 They arrived. The rain had slowed to a drizzle.
 
@@ -1150,10 +1098,6 @@ Stella walked to the kitchen to start the kettle.
 Leo smiled. He parked his chair. He was home.
 
 ### Part 10: The Missing Frequency
-
-# The Orientation
-
-## August 29, 2006 (Tuesday) Braxton Conservatory - Room 304 04:00 PM
 
 The door clicked shut, sealing them inside the vault. The double-drywall and Green Glue acoustic treatment worked perfectly. The roar of the hallway—trumpets, scales, laughter—vanished, replaced by a heavy, studio-quality silence.
 
@@ -1241,10 +1185,6 @@ He could already hear it. The missing frequency was found.
 
 ### Part 11: The Glass Wall
 
-# The Orientation
-
-## Spring 2007 8 Ocean View Lane - The Twin Wing Friday, 11:30 PM
-
 The house was quiet. The day had been good—classes, a successful M.U.L.E. test, and a dinner of clam cakes.
 
 Leo and Olivia were in their room. They had just finished the nightly routine—teeth brushed, pajamas on. They were in bed, settling into their usual position.
@@ -1283,7 +1223,6 @@ Olivia closed her eyes. This was the moment she had dreaded. She sat up, turning
 
 Leo looked at her face. He saw the sadness. He nodded.
 
-## 11:45 PM The Kitchen
 
 The house was silent. Stella was making tea.
 
@@ -1415,10 +1354,6 @@ They ate in the quiet kitchen, four people bound by a love that didn't need sex 
 
 ### Part 1: The Green Room
 
-# The Winter Concert
-
-## December 15, 2006 Fine Arts Center - Backstage 07:30 PM
-
 The backstage area smelled of rosin, valve oil, and nervous sweat. The Wind Symphony members were in their "Concert Black"—tuxedos for the men, long black gowns or pant suits for the women.
 
 Luna sat in her ergonomic chair (the one she bought) in the warm-up room. She was wearing a simple, elegant black silk blouse and slacks that allowed for deep diaphragmatic breathing.
@@ -1440,10 +1375,6 @@ Jenna patted Luna’s shoulder.
 Luna smiled. She wasn't fighting for the chair anymore. She was the chair.
 
 ### Part 2: The Accessible Box
-
-# The Winter Concert
-
-## 07:45 PM Fine Arts Center - Concert Hall Box 4 (House Right)
 
 The Fortress had secured the best seats in the house. Because the theater was built in 2005, the Accessible Box wasn't a cage in the back; it was a prime viewing suite suspended over the orchestra level, giving a perfect view of the stage.
 
@@ -1476,10 +1407,6 @@ Leo watched the waveform on his laptop (he was recording the audio for analysis)
 "CALIBRATION COMPLETE," he typed.
 
 ### Part 3: The Vivaldi
-
-# The Winter Concert
-
-## 08:15 PM Program Item 3: Concerto No. 4 in F Minor, "Winter" Movement II: Largo Soloist: Luna Porter
 
 Dr. Sterling lowered her baton. The band fell silent.
 
@@ -1533,10 +1460,6 @@ Jenna leaned over. "Show off."
 
 ### Part 4: The Snow Convoy
 
-# The Winter Concert
-
-## December 15, 2006 Fine Arts Center - Band Room 09:45 PM
-
 The Fortress took the elevator down to the basement level of the Fine Arts Center. The hallway was crowded with musicians hauling percussion equipment and tubas.
 
 They found Luna standing near the lockers. She had changed out of her concert gown into jeans, boots, and her heavy wool "Fortress Sweater." She was carefully packing the Orpheus 680 into its thermal travel case.
@@ -1559,7 +1482,6 @@ Stella saw the hesitation. She stepped forward.
 
 It wasn't an offer; it was an order. The girls smiled, relieved. They were part of the pack.
 
-## The Tunnel Run
 
 "Let's move," Leo typed. "THE TUNNELS ARE WARM."
 
@@ -1569,7 +1491,6 @@ It was a strange transition. They were underground, safe and dry, but they knew 
 
 They reached Narragansett Esplanade Station. They took the elevator up to the Sky Platform.
 
-## The Train
 
 The South Shore Line was waiting. It was coated in a thin layer of slush, but the lights were warm.
 
@@ -1587,7 +1508,6 @@ He looked at his joystick. He pulled a clear, heavy-duty plastic cover (custom-m
 
 "WATERPROOFING ENGAGED," he typed.
 
-## 10:20 PM Iron Point Station
 
 The train hissed to a halt. They stepped off.
 
@@ -1601,7 +1521,6 @@ Leo rolled forward. His heavy drive tires gripped the wet concrete.
 
 They took the ramp down to the street.
 
-## The Community Plow
 
 They turned onto Ocean View Lane.
 
@@ -1627,7 +1546,6 @@ He felt a lump in his throat. He wasn't just a resident; he was a neighbor.
 
 "They know you have to get home," Stella said, her voice thick. "Come on. Let's not waste their work."
 
-## The Arrival
 
 The convoy moved down the street.
 
@@ -1659,10 +1577,6 @@ The Fortress was full. The snow was falling. And the fire was about to be lit.
 
 ### Part 5: The Sanctuary Protocol
 
-# The Winter Concert
-
-## December 15, 2006 8 Ocean View Lane - Living Room 11:00 PM
-
 The snow was piling up against the triple-paned windows, sealing the house into a white, silent bubble. Inside, the fire was crackling. The Fortress was in "Decompression Mode."
 
 They were gathered on the sectional and the floor, surrounded by empty donut boxes from The Iron Kettle.
@@ -1683,7 +1597,6 @@ She put the phone down, face down.
 
 Amanda smiled, a weight lifting off her shoulders.
 
-## The Silent Alarm
 
 Then, there was Sarah.
 
@@ -1733,7 +1646,6 @@ She pulled two brand-new phones from her work bag (spares she kept for testing m
 
 "And these are yours," Stella said, handing them to Sarah and Amanda. "Added to my family plan. New numbers. Untraceable."
 
-## The Legal Firewall
 
 "He'll call the police," Sarah cried. "He'll tell them I'm missing. He'll say I've been kidnapped."
 
@@ -1775,10 +1687,6 @@ Leo rolled his chair closer. He put his hand on Sarah’s knee.
 
 ### Part 6: The Jurisdiction Trap
 
-# The Winter Concert
-
-## December 15, 2006 8 Ocean View Lane - Living Room 11:30 PM
-
 The fire was crackling. Sarah sat on the sofa, flanked by Amanda and Luna. She was trembling, waiting for the inevitable explosion.
 
 It came from Officer Miller’s shoulder radio.
@@ -1817,7 +1725,6 @@ There was a long pause on the radio.
 
 "Copy that, One-Alpha," Marge said. "I will relay verbatim."
 
-## The Counter-Move
 
 A moment later, Marge came back. Her voice was different now—officious and cold.
 
@@ -1855,7 +1762,6 @@ Stella smiled. It was the smile of the General seeing the enemy march into a min
 
 "You heard the Judge, Sarah," Stella said. "He's walking into a trap. Let him fly to BCI. Let him take the train. Let him file. We have the high ground."
 
-## The Resolution
 
 Officer Miller keyed his mic one last time.
 
@@ -1874,10 +1780,6 @@ She wasn't a fugitive anymore. She was a Defendant in a court that was already o
 "Let him come," Sarah whispered, wiping her eyes. "I'm not going back."
 
 ### Part 7: The Station Assault
-
-# The Winter Concert
-
-## December 16, 2006 Iron Point Station - The Iron Kettle 09:30 AM
 
 The morning after the "Sanctuary Protocol" was invoked, the Fortress wasn't hiding. They were fortifying.
 
@@ -1911,7 +1813,6 @@ Sarah looked up. She saw the man coming toward the door. She went pale.
 
 "It's him," she choked out.
 
-## The Breach
 
 The bells above the door jingled violently as Robert Halloway threw it open. A gust of cold wind followed him in.
 
@@ -1943,7 +1844,6 @@ He reached past Stella. He grabbed Sarah’s upper arm. Hard.
 
 "You are coming with me right now," Robert growled, yanking her toward the door. He dragged her a step, her shoes squeaking on the linoleum.
 
-## The Response
 
 That was the mistake.
 
@@ -1959,7 +1859,6 @@ Miller crossed the distance in two strides. He grabbed Robert’s wrist—the on
 
 Robert spun around, swinging his free arm wildly to shove the cop away. His hand connected with Miller’s chest.
 
-## The Miranda Warning
 
 It was over in three seconds.
 
@@ -2031,7 +1930,6 @@ He looked at Officer Miller.
 
 Sarah stood there, rubbing her bruised arm. She watched her father—the monster who had controlled her life for eighteen years—being dragged out of a donut shop by the local police.
 
-## The Remand
 
 Judge Miller followed them out to the curb. He watched Officer Miller shove Robert into the back of the cruiser. The barrier slammed shut. The lock clicked.
 
@@ -2055,7 +1953,6 @@ He slapped the roof of the cruiser.
 
 The cruiser pulled out, lights flashing briefly, taking the monster to a cage.
 
-## The Aftermath
 
 Inside the shop, the silence was heavy.
 
@@ -2107,10 +2004,6 @@ They walked out of the shop, leaving the cold coffee and the half-eaten donuts b
 
 ### Part 8: The Flight Risk
 
-# The Winter Concert
-
-## Monday, December 18, 2006 Iron County Superior Court - Oakhaven 09:00 AM
-
 The courtroom was tense.
 
 **Robert Halloway** sat at the defense table in an orange jumpsuit. He whispered urgently to his lawyer.
@@ -2125,7 +2018,6 @@ Judge Vance nodded, looking at the defense attorney. "Counsel? Your client has a
 
 The Defense Attorney stood up to argue. "Your Honor, my client is a businessman—"
 
-## The Breach
 
 *BANG.*
 
@@ -2161,7 +2053,6 @@ Ross looked at the State Prosecutor.
 
 "You can keep your assault charge, Counselor. But he’s coming with us. He’s going to a black site, not the county jail."
 
-## The Reaction
 
 Viktor Krov stood up. The mask of the "Concerned Dad" fell away completely. His face settled into a cold, military sneer. He looked at Agent Ross with recognition.
 
@@ -2183,7 +2074,6 @@ She slammed her gavel.
 
 "**BAIL DENIED**," Vance ruled. "The defendant is remanded to the immediate custody of the United States Marshals. Get him out of my town."
 
-## The Extraction
 
 The FBI agents swarmed the table. They didn't use standard handcuffs; they used heavy shackles.
 
@@ -2206,8 +2096,6 @@ The doors swung shut. The State Prosecutor looked at his empty table, then at th
 "It certainly does," Judge Vance said, exhaling slowly. "Court is adjourned."
 
 ### Part 9: The Identity Crisis
-
-# The Winter Concert
 
 ##### December 18, 2006 Iron County Superior Court - Witness Room 10:30 AM
 
@@ -2277,10 +2165,6 @@ Then she looked at the Fortress crew. The people who had saved her.
 
 ### Part 10: The Identity Protocol
 
-# The Winter Concert
-
-## December 18, 2006 Iron County Superior Court - Witness Room 10:45 AM
-
 The FBI agents had left with their prisoner. The door was closed.
 
 **Sarah** sat at the small table. She looked at her hands. She looked at the file Agent Ross had left—the one detailing the lies of **Viktor Krov**.
@@ -2323,7 +2207,6 @@ He signed the order.
 
 "Done," Miller said. "Sarah Halloway is legally dead. Long live Maya Porter."
 
-## 12:30 PM "The Cut & Color" Salon - Braxton City
 
 They didn't go home. They went straight to the city.
 
@@ -2345,7 +2228,6 @@ Maya looked at Leo’s wheelchair—**Jet Black** with neon accents. She looked 
 
 "I'm not going back," Maya said.
 
-## The Process
 
 For three hours, the Fortress waited.
 
@@ -2359,7 +2241,6 @@ For three hours, the Fortress waited.
 
 The stylist applied the dye. The chemical smell filled the air—the smell of change. She snipped the long, brown ponytail off and let it fall to the floor.
 
-## The Reveal
 
 The chair spun around.
 
@@ -2382,10 +2263,6 @@ Maya smiled. It was a real smile.
 "Hello Leo," she said. "I like the new specs."
 
 ### Part 11: The Plastic Anchor
-
-# The Winter Concert
-
-## December 18, 2006 Rhode Island DMV - Oakhaven Branch 03:45 PM
 
 "Transaction?" Brenda asked.
 
@@ -2415,7 +2292,6 @@ Maya stood. She touched her new, sharp black hair. She looked at the camera. She
 
 *FLASH.*
 
-## The Production
 
 The machine behind the counter whirred. A moment later, a warm piece of plastic dropped into the tray.
 
@@ -2460,10 +2336,6 @@ Maya clutched the keys and the license. She had a name. She had a home. And she 
 "Clear," Maya agreed.
 
 ### Part 12: The Ghost Tax
-
-# The Winter Concert
-
-## December 19, 2006 Coastal Insurance Agency - Oakhaven, RI 09:10 AM
 
 The insurance office was wood-paneled and smelled of coffee. **Mr. Russo**, the agent who handled the Porter Home and Auto bundles, sat behind his desk typing.
 
@@ -2555,7 +2427,6 @@ He handed it to Maya with both hands.
 
 "Drive safe, Ms. Porter," Russo said. "And welcome to the neighborhood."
 
-## The Keys
 
 They walked out to the parking lot. The **Holt Sentinel** was parked in the front row, its snow tires gripping the asphalt.
 
@@ -2583,10 +2454,6 @@ Maya turned the key. The V8 roared to life. She put it in gear and drove the For
 
 ### Part 13: The Maiden Voyage
 
-# The Winter Concert
-
-## December 19, 2006 Coastal Insurance Agency - Parking Lot 09:30 AM
-
 Maya sat in the driver’s seat of the **2001 Holt Sentinel**. The steering wheel was huge. The hood stretched out forever. It felt like piloting a boat.
 
 Stella sat in the back seat, buckling her seatbelt. "Mirrors adjusted?"
@@ -2601,7 +2468,6 @@ Leo sat in the passenger seat ("Shotgun"). He had his **MagnaByte Scribe** mount
 
 *"THE ISLAND TOUR,"* Leo typed. *"FIRST STOP: FUEL."*
 
-## The Gas Station
 
 Maya drove out of the lot. The Sentinel’s V8 rumbled. It was heavy, but powerful.
 
@@ -2611,7 +2477,6 @@ She pulled into the gas station down the street.
 
 Maya got out. She pumped the gas. It was a simple act—something she had done a hundred times in Ohio for her father—but this time, she was using Stella’s card, filling Stella’s car, for a trip *she* was driving. It felt like freedom.
 
-## The Highway Merge
 
 *"HEAD NORTH,"* Leo typed. *"ENTER I-895 AT EXIT 3."*
 
@@ -2637,7 +2502,6 @@ Maya didn't flinch. She tapped the gas, surged ahead of the truck, and signaled 
 
 *"GOOD CALCULATIONS,"* Leo agreed.
 
-## The Bridges
 
 They crossed the **Jamestown Bridge**. Maya kept her hands steady as the wind buffeted the car.
 
@@ -2655,7 +2519,6 @@ Maya slowed to 5 MPH. She rolled down the window. She tossed the token.
 
 The gate flew up. Maya accelerated up the massive span of the bridge, the bay sparkling 200 feet below.
 
-## The City Streets
 
 *"TAKE EXIT 12,"* Leo typed. *"* **ADMIRAL KALBFUS RD / US NAVAL BASE***."*
 
@@ -2685,7 +2548,6 @@ They followed Bellevue all the way to **Ocean Drive**. The road curved along the
 
 "This is your backyard now," Stella said.
 
-## The Return Leg
 
 They looped back up the island, turning onto **Broadway**.
 
@@ -2697,7 +2559,6 @@ Leo looked at the hospital. It was the origin point.
 
 *"DATA SOURCE,"* he typed.
 
-## The Final Test
 
 They crossed into **Middletown**. They were on **West Main Road**—a busy, four-lane commercial strip with fast traffic.
 

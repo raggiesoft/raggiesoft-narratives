@@ -1,11 +1,8 @@
-# Universal Brand Replacements \& Copyright Dictionary
+---
 
-This document serves as the master reference for all drop-in replacements for real-world copyrighted and trademarked entities within the fictional universe.
+---
 
-## Retail, Locations \& Everyday Logistics
-
-| Real-World Brand                     | Fictional Equivalent                                       | Flagship Products / Notes                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Hecht's / May Company                | Wellington's Department Store                              | Bought out Whitaker's. Gutted the Glenrock Mall location's dining room for a mattress department and bulldozed the rear greenhouse.                                                                                                                                                                                                                                                                     |
 | Thalhimers                           | E.H. Whitaker \& Co. (Whitaker's)                          | Founded by Charles Monroe Whitaker. Spun off a failed venture called "Monroe's".                                                                                                                                                                                                                                                                                                                        |
 | Military Circle Mall                 | Glenrock Mall                                              | Primary shopping center location.                                                                                                                                                                                                                                                                                                                                                                       |
@@ -47,7 +44,6 @@ This document serves as the master reference for all drop-in replacements for re
 | BC Transit                           | Columbia Provincial Transit (CPT)                          | The broader provincial transit network. Operated the entire region until PacificLink broke off as an independent entity to manage the Greater Vancouver grid.                                                                                                                                                                                                                                           |
 | Vancouver Pacific Central Station    | Pacific Central Terminus                                   | The northern hub for ARTS. Jessica arrived here via the ARTS Cascadian route from the TAPS Tukwila Provisional Platform during a major Quantum enterprise deployment.                                                                                                                                                                                                                                   |
 
-## Automotive \& Transportation
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -71,7 +67,6 @@ This document serves as the master reference for all drop-in replacements for re
 |Alaska Airlines|Cascade Air|Domestic airline.|
 |Washington State Ferries|ESMTA|Evergreen State Marine Transit Agency, colloquially "The Evergreen".|
 
-## Technology \& Software
 
 | Real-World Brand          | Fictional Equivalent                    | Flagship Products / Notes                                                                                                                                                                                                                                                                     |
 | ------------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,7 +94,6 @@ This document serves as the master reference for all drop-in replacements for re
 | InstallShield             | SetupRight                              | Express/Professional software installers.                                                                                                                                                                                                                                                     |
 | Polycom                   | Omni-Link Uplink                        | Teleconferencing hardware.                                                                                                                                                                                                                                                                    |
 
-## Movies, Media \& Pop Culture
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -118,7 +112,6 @@ This document serves as the master reference for all drop-in replacements for re
 |"The Way Things Work"|The Atlas of Mechanisms|Educational book.|
 |The Seattle Times|The Pacific Chronicle|Pacific Northwest daily newspaper.|
 
-## Video Games \& Consoles
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -138,7 +131,6 @@ This document serves as the master reference for all drop-in replacements for re
 |Mall Arcades|The Neon Quarter|General term for shopping mall arcades.|
 |Skee-Ball|Alley-Rollers|Arcade redemption game.|
 
-## Music \& Entertainment
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -160,7 +152,6 @@ This document serves as the master reference for all drop-in replacements for re
 |Sony Walkman|AudioStar|Portable cassette player.|
 |Boombox|AudioStar Sound System|Portable stereo.|
 
-## Consumer Goods, Hardware \& Medical
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -183,7 +174,6 @@ This document serves as the master reference for all drop-in replacements for re
 |Grand Marnier|L'Orange Royale|Orange-flavored liqueur.|
 |Dom Pérignon / Macallan 18|Château St. Claire / Highland Crest 18|High-end champagne and scotch.|
 
-## Institutions, Education \& Theme Parks
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -198,7 +188,6 @@ This document serves as the master reference for all drop-in replacements for re
 |Water Country USA|Tidal Springs|Water park.|
 |D.A.R.E.|Project S.T.E.P.|School-based anti-drug program.|
 
-## Sports \& Professional Wrestling
 
 ### Entities \& Organizations
 

@@ -7,19 +7,14 @@ groups: [Wall of 20, Tier-2 Pack, Core Trio]
 tags: [lore, medical, cerebral-palsy, blind, caregiving, adl]
 ---
 
-# Archive: Activities of Daily Living (ADL) Protocols
-
-## I. The Intersection of CP and NLP
 [[Justin Hayes]] requires assistance with all Activities of Daily Living (ADLs). This dependency is not caused by a single diagnosis, but by the compounding intersection of his Cerebral Palsy (CP) and his No Light Perception (NLP). 
 
 If he only had CP, he could use visual feedback to painstakingly manage fine motor tasks. If he were only blind, he could use unimpaired tactile motor control to navigate the physical world. However, because he lacks both visual spatial awareness and fine motor execution, his physical reality requires direct, manual intervention from his trusted pack. 
 
-## II. The Shared Burden (The 20-Woman Protocol)
 While [[Meredith Hayes]] and [[Amaya Rios]] are his primary anchors, executing ADLs is a shared responsibility across the entire [[Wall of 20]]. 
 *   **Preventing Caregiver Burnout:** By ensuring that all 18 Tier-2 women are fully trained and vetted to assist Justin in the bathroom, shower, and at the dining table, the physical and emotional load is distributed. 
 *   **Routine Standardization:** Because of his AuDHD, Justin requires strict routines. The pack executes his ADL protocols identically, meaning Justin feels completely safe and regulated regardless of whether Meredith or a Flanker like [[Rachel Davis]] is assisting him.
 
-## III. Specific ADL Mechanics
 
 ### 1. Dressing and Wardrobe
 Despite his wardrobe consisting entirely of sensory-friendly, tagless, and seamless clothing, Justin cannot dress himself.

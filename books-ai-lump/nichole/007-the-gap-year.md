@@ -9,10 +9,6 @@ series: "Nichole"
 
 ### Part 1: The Dual-Grid Dilemma
 
-# The Fleet Upgrade
-
-## Date: December 12, 2003 Time: 10:00 AM Location: The Old Transport Van (Route 114, Portsmouth, Rhode Island)
-
 "It's a territorial dispute, Nikki," Patrick complained, steering the family’s aging Liberty Trekker van with one hand while holding up a small plastic card in the other. "It’s completely inefficient."
 
 Nichole sat in the back, locked into the old floor tracks. She let out a soft, amused *hummm*.
@@ -101,10 +97,6 @@ The Gap Year was proving to be exactly what they needed. They were upgrading eve
 
 ### Part 2: The Medical Handover
 
-# The Fleet Upgrade
-
-## Date: January 14, 2004 Time: 9:15 AM Location: Newport Hospital Outpatient Care Center, Newport, Rhode Island
-
 Transitioning to a new state meant transitioning out of the pediatric medical system. For eighteen years, the twins had seen a colorful carousel of pediatricians with stuffed animals on their stethoscopes.
 
 Now, they were adults entering the adult medical grid.
@@ -147,7 +139,6 @@ Dr. Vance closed the laptop. "You two are incredibly self-aware. You know your b
 
 Patrick let out a quiet breath of relief. The adult world wasn't so scary when the doctors treated you like adults.
 
-## Date: January 14, 2004 Time: 11:30 AM Location: Department of Women’s Health, Suite 4B, Newport Hospital
 
 The second appointment of the day felt different the moment they rolled through the double doors of Suite 4B.
 
@@ -323,10 +314,6 @@ He just pushed her out into the cold Rhode Island air, loaded her into the warm 
 
 ### Part 3: The Christmas Compiler
 
-# The Fleet Upgrade
-
-## Date: December 23, 2003 Time: 4:30 PM Location: The Bennett Wing, 95 West Main Road, Portsmouth, Rhode Island
-
 The Fortress smelled like pine needles and roasting turkey.
 
 Outside, a heavy Rhode Island snow was burying West Main Road, piling up against the plexiglass of the OSTA bus shelter. But inside, the house was a 1960s brick oven of warmth and noise.
@@ -389,10 +376,6 @@ She launched the new software. The heavy loading screen of *Quantum Studio 2003*
 
 ### Part 4: The Winter Test
 
-# The Fleet Upgrade
-
-## Date: December 24, 2003 Time: 7:00 PM Location: The Living Room, 95 West Main Road, Portsmouth, Rhode Island
-
 The Nor'easter hit Aquidneck Island just as the sun went down on Christmas Eve.
 
 It wasn't a gentle holiday dusting; it was a brutal, howling blizzard. The wind shrieked off the Narragansett Bay, dumping heavy, wet snow at a rate of two inches per hour. Through the living room's picture window, the custom plexiglass bus shelter Uncle Mark had built was already half-buried in a drift.
@@ -441,7 +424,6 @@ She made a soft, contented *hummm* in her throat.
 
 Patrick pushed her toward the dining room. As they rolled, the heavy winter wind battered the brick walls of the Fortress, but inside, the Bennett Machine was safe, warm, and dreaming of the future.
 
-## Date: December 24, 2003 Time: 7:54 PM Location: 95 West Main Road, Portsmouth, Rhode Island
 
 The dining room table was a scene of holiday perfection—empty wine glasses, plates scraped clean of Aunt Carol’s feast, and the warm glow of the Christmas tree in the adjacent room.
 
@@ -499,10 +481,6 @@ Nichole closed her eyes, the rhythmic thrum of the backup generator vibrating th
 
 ### Part 5: The Grid Returns
 
-# The Fleet Upgrade
-
-## Date: December 25, 2003 Time: 7:00 AM Location: The Bennett Wing, 95 West Main Road, Portsmouth, Rhode Island
-
 Nichole woke up to the sound of absolute silence outside. The howling wind that had battered the windows all night was gone.
 
 Inside the bedroom, the air was brisk. The baseboard radiators, running on the generator's limited emergency cycle, were just warm enough to keep the pipes from freezing, but they weren't fighting the December chill.
@@ -527,7 +505,6 @@ He moved efficiently, pulling on heavy wool socks and a thick BSU sweatshirt. He
 
 He lifted her from the bed, transferring her into the Titan AeroMotion. Her body was loose and rested; the deep, anchored sleep had worked wonders on her tone.
 
-## Time: 8:30 AM Location: The Living Room
 
 The rest of the family was gathered around the large stone fireplace in the main living room. Uncle Mark had a roaring fire going.
 
@@ -551,7 +528,6 @@ It was perfect.
 
 Then, the clock on the mantel ticked over.
 
-## Time: 9:12 AM
 
 *Ka-CLACK.* The sound of the main breaker engaging echoed from the basement. The low thrum of the generator outside cut off.
 
@@ -578,10 +554,6 @@ She opened the text-to-speech module.
 Outside, the snow plows were finally clearing West Main Road. The grid was alive, the Fortress was warm, and 2004 was officially on the horizon.
 
 ### Part 6: The Long Goodbye
-
-# The Fleet Upgrade
-
-## Date: December 27, 2003 Time: 4:15 PM Location: The First Floor Guest Suite, 95 West Main Road, Portsmouth, Rhode Island
 
 The adrenaline of Christmas had faded, replaced by a heavy, quiet stillness in the Fortress.
 
@@ -645,10 +617,6 @@ They weren't children watching a tragedy. They were adults witnessing a completi
 
 ### Part 7: The Silent Investor
 
-# The Fleet Upgrade
-
-## Date: December 29, 2003 Time: 3:42 AM Location: The First Floor Guest Suite, 95 West Main Road, Portsmouth, Rhode Island
-
 The house was quiet, save for the hum of the refrigerator in the kitchen and the rhythmic ticking of the grandfather clock in the hallway.
 
 In the first-floor guest suite, the breathing that had marked the rhythm of the last two days slowed. It didn't struggle. It didn't gasp. It simply grew shallower, the pauses between breaths stretching longer and longer, like a pendulum slowly coming to rest.
@@ -679,7 +647,6 @@ Nichole looked at the empty shell of the woman who had loved them so fiercely. S
 
 Her grandmother hadn't run from this moment. She had waited for the family to be reunited, waited for the house to be ready, and then greeted death like an old friend she had been expecting for tea.
 
-## Date: December 30, 2003 Time: 10:00 AM Location: The Dining Room
 
 The next morning, the business of death began. But Helen Bennett, true to form, had already done the work.
 
@@ -751,10 +718,6 @@ Nichole looked at the binder. She tapped her screen.
 
 ### Part 8: The Final Transfer
 
-# The Fleet Upgrade
-
-## Date: January 3, 2004 Time: 11:00 AM Location: The Cemetery, Middletown, Rhode Island
-
 The first week of January was brutally cold. A fresh layer of snow blanketed Aquidneck Island, and the wind coming off the bay was sharp enough to sting the eyes.
 
 But the new Liberty commercial transport van didn't flinch. Its heavy-duty, all-wheel-drive chassis cut through the unplowed lanes of the historic cemetery with absolute authority.
@@ -820,10 +783,6 @@ The gap year had taken their grandmother, but she hadn't left them behind. She h
 ## The Commuter Protocol
 
 ### Part 1: The Intake
-
-# The Commuter Protocol
-
-## Date: January 22, 2004 Time: 9:45 AM Location: Office of Access & Equity, BSU Student Union (Level C)
 
 It was fifteen degrees outside, a bitter, bone-chilling January morning where the sea spray off Narragansett Bay froze instantly on the docks.
 
@@ -897,10 +856,6 @@ Sarah raised an eyebrow, impressed. "Sticking to the transit network? Brave choi
 
 ### Part 2: The Application
 
-# The Commuter Protocol
-
-## Time: 11:15 AM Location: Office of Undergraduate Admissions, BSU
-
 Leaving the Housing Office with their signed Commuter Waivers in hand, Patrick pushed Nichole up the ramp to the Main Administration Building.
 
 They didn't mail their applications. They wanted to do this in person.
@@ -943,10 +898,6 @@ She tapped her screen. **"WE. ARE. READY."**
 
 ### Part 3: The Hardship Loophole
 
-# The Commuter Protocol
-
-## Date: January 22, 2004 Time: 12:30 PM Location: The Bull Pen Cafeteria, BSU Student Union
-
 Patrick sat at a cafeteria table, staring at the Commuter Waiver they had just secured. Next to it, he placed the glossy brochure for *The Foundry Lofts*.
 
 He rubbed his temples. "There's a flaw in the code, Nikki."
@@ -965,7 +916,6 @@ She tapped her screen.
 
 "Yeah," Patrick nodded, packing up their bags. "We need an engineer for the bureaucracy."
 
-## Date: January 22, 2004 Time: 12:45 PM Location: Office of Access & Equity, BSU Student Union
 
 Sarah Mitchell looked up from her desk as Patrick rolled Nichole back into her office.
 
@@ -1063,10 +1013,6 @@ Nichole tapped her screen, a proud smile lighting up her face. **"MY. MEDIC."**
 
 ### Part 4: The Liability Lie
 
-# The Commuter Protocol
-
-## Date: January 22, 2004 Time: 1:00 PM Location: Office of Access & Equity, BSU Student Union
-
 Patrick stared at the paper in his hand. **OFF-CAMPUS MEDICAL HARDSHIP WAIVER.**
 
 It was a simple form. Standard font. A single signature at the bottom. It had taken Sarah Mitchell less than five minutes to type up, print, and sign.
@@ -1148,10 +1094,6 @@ Nichole didn't look back. She looked forward, toward the subway station, toward 
 **"FORWARD,"** she tapped. **"THE. MACHINE. MOVES. FORWARD."**
 
 ### Part 5: The Bridge Fund
-
-# The Commuter Protocol
-
-## Date: April 15, 2004 Time: 4:30 PM Location: The Kitchen, 95 West Main Road, Portsmouth, Rhode Island
 
 The mail arrived at 4:00 PM. By 4:30 PM, the kitchen table at the Fortress was covered in confetti, and Uncle Mark was pouring sparkling cider into everyone's glasses.
 
@@ -1235,10 +1177,6 @@ She tapped her screen.
 
 ### Part 6: The Foundry
 
-# The Commuter Protocol
-
-## Date: April 16, 2004 Time: 10:00 AM Location: The Bennett Machine Transit Grid (Portsmouth to Braxton)
-
 The next morning, the Rhode Island sky broke with an uncharacteristic April heatwave. The temperature was seventy-two degrees, the sun was blazing, and the winter coats were officially packed away.
 
 It was the perfect day to show the family the grid.
@@ -1269,7 +1207,6 @@ A Blue Line Metro train was waiting. They rolled onto the heavy-rail car, the ai
 
 "Now arriving at... Foundry Square," the automated voice chimed.
 
-## Time: 11:30 AM Location: The Braxton Link (Foundry Square Station)
 
 They exited the train onto the island platform and took the elevator up to Basement Level 1.
 
@@ -1309,7 +1246,6 @@ Nichole looked at Patrick. She made a soft, high-pitched *keening* sound of pure
 
 Tom stepped forward. "We can fill out the application right now. But regarding the financials... we prefer to simplify things."
 
-## Time: 1:00 PM Location: The Leasing Office
 
 While the twins filled out the paperwork, Tom and Mark took the elevator back down to the basement level. They walked into the New England Regional Credit Union branch.
 
@@ -1329,17 +1265,13 @@ Mr. Caldwell didn't even run the credit check. Cash of that magnitude erased all
 
 ### Part 7: The Early Deployment
 
-# The Commuter Protocol
-# Part 7: The Early Deployment
 timezone: "ET"
 location: "Unknown"
 pov: "Nichole"
 end_time: ""
 ---
 
-# The Commuter Protocol
 
-## Date: April 17, 2004 Time: 9:00 AM Location: The Loading Dock, The Foundry Lofts
 
 "Why wait?" Patrick had asked at dinner the night before. "The meter is running. The keys work. Let's launch."
 
@@ -1351,7 +1283,6 @@ They weren't moving "dorm stuff." They were moving an entire ecosystem.
 
 The freight elevator at The Foundry was massive—originally designed to haul pallets of cotton bales, now perfect for hauling a life.
 
-## Time: 11:30 AM Location: The Master Bedroom (Unit 404)
 
 The first order of business was the anchor.
 
@@ -1367,7 +1298,6 @@ To the left of the bed, they set up the charging station: outlets for the Apex C
 
 It wasn't just a bedroom. It was the Recharge Bay.
 
-## Time: 1:00 PM Location: The Second Bedroom (The Command Center)
 
 While the women unpacked the kitchen, Patrick and Nichole took over the second bedroom.
 
@@ -1389,7 +1319,6 @@ She tapped her screen.
 
 "THE. NETWORK. IS. LIVE."
 
-## Time: 2:30 PM Location: The Kitchen
 
 Aunt Carol and Ellen were marveling at the appliances.
 
@@ -1405,7 +1334,6 @@ It was a front-loading industrial drum. Nichole could roll right up to it, open 
 
 It was a fully accessible ecosystem. For the first time, Nichole could theoretically cook a meal (or at least heat one up) and do her own laundry without asking for a single pair of standing legs to help her.
 
-## Time: 6:00 PM Location: The Living Room
 
 The sun was setting through the massive industrial windows, painting the loft in orange and purple light. The boxes were flattened. The pizza boxes were open on the coffee table.
 
@@ -1429,7 +1357,6 @@ Uncle Mark clapped Patrick on the shoulder. "Hold down the fort, Engineer."
 
 The family filed out. The heavy steel door clicked shut. The deadbolt slid home with a solid thunk.
 
-## Time: 8:00 PM
 
 The apartment was quiet. The only sound was the low hum of the refrigerator and the distant rumble of the city below.
 
@@ -1478,10 +1405,6 @@ Nichole reached up and patted her uncle's cheek. She clicked her mouse.
 "Exactly," Patrick grinned, looking around the lobby of their new building. "Now... we just have to figure out how to move all our stuff on the subway."
 
 ### Part 8: The Zero-Barrier Routine
-
-# The Commuter Protocol
-
-## Date: April 17, 2004 Time: 9:30 PM Location: The Master Bath, Unit 404
 
 The pizza boxes were in the recycling bin. The screens in the Command Center were asleep. The city outside was a grid of amber lights, but inside Unit 404, the world had shrunk down to the master suite.
 
@@ -1557,10 +1480,6 @@ For the first time, they didn't just sleep. They rested.
 
 ### Part 1: The Zero-Friction Protocol
 
-# Exploring Braxton
-
-## Date: April 18, 2004 Time: 8:30 AM Location: The Master Suite, Unit 404
-
 The sun hit the industrial windows of The Foundry Lofts, filling the room with a warm, brilliant light.
 
 Patrick opened his eyes. For a second, he panicked. He reached out, expecting to feel the familiar tangle of flannel pajama pants twisted around Nichole’s legs—the result of a night battling her extensor spasms.
@@ -1603,7 +1522,6 @@ Nichole grinned. She tapped her screen.
 
 "BURN. THE. PAJAMAS."
 
-## Time: 9:15 AM Location: The Kitchen
 
 Fully dressed in their day clothes—jeans and hoodies—they sat at the kitchen island.
 
@@ -1641,10 +1559,6 @@ Nichole spun her chair toward the door. The batteries on the Titan AeroMotion we
 
 ### Part 2: The River and the System
 
-# Exploring Braxton
-
-## Date: April 18, 2004 Time: 10:45 AM Location: The Braxton Riverwalk (North End)
-
 They decided to skip the pharmacy. They had plenty of supplies from the move, and frankly, looking at pill bottles felt too much like work.
 
 "Let's test the terrain," Patrick suggested, steering them away from the commercial district and toward the river.
@@ -1677,7 +1591,6 @@ Patrick sniffed. "Onions. Meat sauce. Celery salt."
 
 He checked his mental map. "We're two blocks away."
 
-## Time: 11:30 AM Location: Buddy's Famous System, 4th Street
 
 They rolled up to Buddy's Famous System. It was a tiny, narrow storefront with a steamed-up window and a neon sign buzzing in the daylight: HOT WIENERS - COFFEE MILK.
 
@@ -1718,10 +1631,6 @@ She tapped the table with her free hand, getting his attention. She swallowed an
 "Yeah, Nikki," Patrick smiled, wiping mustard off his lip. "We really do."
 
 ### Part 3: The Edge of the Grid
-
-# Exploring Braxton
-
-## Date: April 18, 2004 Time: 12:15 PM Location: Narragansett Esplanade, Pier 2
 
 After decimating the wieners and coffee milk at Buddy’s, Patrick and Nichole rolled back toward the waterfront to digest. The "New York System" meat sauce was sitting heavy, but in a good way—the specific heaviness of a mission accomplished.
 
@@ -1787,10 +1696,6 @@ For the first time in their lives, "going home" didn't mean going to their paren
 
 ### Part 4: The Safe Harbor
 
-# Exploring Braxton
-
-## Date: April 18, 2004 Time: 1:00 PM Location: The Blue Line (Underground)
-
 The descent into Narragansett Esplanade Station felt like sliding into a warm bath. As soon as the glass elevator doors hissed shut, cutting off the wind and the diesel fumes of the ferry terminal, Nichole’s shoulders dropped an inch.
 
 She was done. The wieners, the mapping, the sensory overload of the construction site—it was all amazing, but her battery was blinking red. Her brain felt like a browser with too many tabs open.
@@ -1801,7 +1706,6 @@ They rolled onto the Blue Line train. It was quiet at midday. The rhythmic thrum
 
 Foundry Square Station arrived in six minutes. They exited the train, took the elevator up to Level B1, rolled past the credit union, and took the residential elevator up to the 4th floor.
 
-## Time: 1:15 PM Location: Unit 404
 
 Patrick unlocked the heavy steel door. They rolled inside.
 
@@ -1867,7 +1771,6 @@ Nichole didn't reach for her screen. She didn't want to break the connection. Sh
 
 They stayed like that for the rest of the afternoon, watching the dust motes dance in the sunlight, two halves of the same system finally at rest.
 
-## Date: April 18, 2004 Time: 3:24 PM Location: The Living Room, Unit 404
 
 The afternoon sun had turned the loft into a greenhouse. It was warm, quiet, and perfect.
 
@@ -1895,7 +1798,6 @@ When she was done, he cleaned her, adjusted her, and lifted her back up. Then, w
 
 It was the ultimate level of comfort. No barriers. No "your turn, my turn." Just two biological systems maintaining equilibrium in the same space.
 
-## Time: 3:35 PM Location: The Sofa
 
 He carried her back to the living room. But before he sat down, he paused.
 
@@ -1947,10 +1849,6 @@ And for the next four years, no one was ever going to tell them "no" again.
 
 ### Part 5: The Gen-Ed Pact
 
-# Exploring Braxton
-
-## Date: April 18, 2004 Time: 5:15 PM Location: The Command Center, Unit 404
-
 The sun had finally dipped below the skyline, painting the loft in cool twilight blues.
 
 Patrick and Nichole had migrated from the sofa to the "Command Center" in the second bedroom. It was time to test the university's digital infrastructure.
@@ -1997,7 +1895,6 @@ Patrick swiveled his chair to face her. He looked her dead in the eye.
 
 Nichole let out a breath she didn't know she was holding. The pact was sealed.
 
-## Time: 6:00 PM, Location: The Kitchen
 
 "Okay, strategic planning is over," Patrick announced, standing up. "Who wants dinner?"
 
@@ -2053,7 +1950,6 @@ Nichole smiled.
 
 "YOUR. SECRET. IS. SAFE."
 
-## Time: 10:30 PM Location: The Master Suite, Unit 404
 
 The city outside the industrial windows was a grid of amber sodium lights and red taillights, but inside the loft, the world was quiet.
 
@@ -2065,7 +1961,6 @@ The routine began with the biological necessities. Patrick lifted Nichole to the
 
 Then, he used the facilities himself. There was no shuffling in and out of the room. They were a single functional unit, operating in the same space without shame.
 
-## Time: 10:45 PM Location: The Roll-In Shower
 
 "Water temp," Patrick murmured, reaching for the single-handle lever. He found the sweet spot—hot enough to relax the muscles, cool enough not to scald.
 
@@ -2085,7 +1980,6 @@ He turned off the water. The silence rushed back in, heavy and warm.
 
 He grabbed the fluffy towels. He dried her gently—patting her skin dry to avoid irritation. He dried her hair. Then, he dried himself quickly.
 
-## Time: 11:00 PM Location: The King Bed
 
 Patrick dropped the towel. He didn't reach for the pajamas.
 
@@ -2120,10 +2014,6 @@ She was safe. She was secure. And she was home.
 ## The Sync
 
 ### Part 1: The War Room
-
-# The Sync
-
-## Date: May 15, 2004 Time: 8:55 AM Location: The Command Center, Unit 404
 
 The second bedroom of The Foundry Lofts looked like NASA Mission Control.
 
@@ -2305,7 +2195,6 @@ Nichole watched him type. She tapped her screen one last time, just for herself.
 
 "FOREVER."
 
-## Date: May 15, 2004 Time: 9:30 AM Location: The Command Center, Unit 404
 
 The words "I. LOVE. YOU. TOO." and "FOREVER." were still lingering in the air, heavier and more permanent than the concrete walls of the loft.
 
@@ -2377,10 +2266,6 @@ Patrick grinned, spinning his chair back to the monitors.
 
 ### Part 1: The Severed Link
 
-# The Fortress Test
-
-## Date: July 15, 2004 Time: 4:30 PM Location: The Living Room, Unit 404
-
 The summer of 2004 had been hot and humid, but the humidity broke with violence.
 
 A severe coastal low—a "Nor'easter" with a tropical attitude—had parked itself over Narragansett Bay. For the last four hours, rain hadn't just fallen; it had been driven horizontally against the massive industrial windows of The Foundry Lofts.
@@ -2419,10 +2304,6 @@ He walked over to the sofa and sat down next to her.
 
 ### Part 2: The Siege
 
-# The Fortress Test
-
-## Time: 5:15 PM Location: The Kitchen
-
 The wind howled outside, rattling the panes of glass. It was a terrifying sound, the kind that made you acutely aware of how fragile human structures usually were.
 
 But Unit 404 didn't feel fragile. It felt like a tank.
@@ -2450,10 +2331,6 @@ She reached for her mouse.
 "Exactly," Patrick grinned. "The wizard would be proud."
 
 ### Part 3: The Watch
-
-# The Fortress Test
-
-## Time: 6:30 PM Location: The Living Room
 
 The sky outside turned a bruised, dark purple as evening set in. The rain was relentless.
 
@@ -2490,10 +2367,6 @@ Nichole snuggled into Patrick’s side, resting her head on his shoulder as the 
 "LET. IT. RAIN," she thought. "WE. ARE. IRONCLAD."
 
 ### Part 4: The All-Clear
-
-# The Fortress Test
-
-## Date: July 16, 2004 Time: 11:45 PM Location: The Living Room, Unit 404
 
 The hammering against the glass finally stopped.
 
@@ -2537,10 +2410,6 @@ Nichole squeezed him back, burying her face in his chest. They had survived a su
 
 ### Part 5: The Blueprint
 
-# The Fortress Test
-
-## Date: July 16, 2004 Time: 12:10 AM Location: The Master Bedroom
-
 The storm was gone, but the adrenaline was still fading. They lay in the dark, the city lights reflecting off the wet streets outside and casting ripples on the ceiling.
 
 Patrick was staring up at those ripples.
@@ -2575,10 +2444,6 @@ But as Nichole drifted off to sleep, holding her brother's hand, she knew they w
 
 ### Part 6: The Biological Override
 
-# The Fortress Test
-
-## Date: July 16, 2004 Time: 12:20 AM Location: The Master Bedroom
-
 As sleep began to pull at the edges of her consciousness, Nichole’s mind did one final system check.
 
 She shifted her leg. It slid smoothly against Patrick’s calf. No cotton. No flannel. No resistance.
@@ -2608,10 +2473,6 @@ She let out a long, final sigh, her body completely limp and heavy in the safety
 The Machine is waterproof, she thought again. Inside and out.
 
 ### Part 7: The Sacred Trust
-
-# The Fortress Test
-
-## Date: July 16, 2004 Time: 12:25 AM Location: The Master Bedroom
 
 Patrick lay still in the dark, staring at the spinning blades of the ceiling fan.
 

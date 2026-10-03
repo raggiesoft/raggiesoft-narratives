@@ -1,21 +1,8 @@
-**# Stardust Engine Library: Migration Proposal
+---
+| :
+---
 
-This document outlines the architectural plan and migration strategy to transition the RaggieSoft platform away from paid dependencies (Web Awesome Pro, Font Awesome Pro, Bootstrap) to a fast, lightweight, and native framework called the **Stardust Engine Library**. 
-
-This plan incorporates all the critical lessons learned from our initial test run to ensure a flawless deployment when your subscriptions eventually expire.
-
-## 1. Core Architecture
-
-The Stardust Engine Library is built on three pillars:
-
-*   **Native HTML5 Elements:** Replacing proprietary custom elements (like `<wa-dialog>` and `<wa-tree>`) with native, accessible HTML5 equivalents (like `<dialog>` and `<details>`).
-*   **Vanilla JS Interactivity:** A single, lightweight `raggiesoft-ui.js` file handles interactions by simply toggling CSS classes and ARIA attributes, rather than relying on shadow DOMs or heavy frameworks.
-*   **Phosphor Icons:** A clean, open-source replacement for Font Awesome Pro that offers a similar weight and style variety without the recurring cost.
-
-### Component Mapping
-
-| Legacy Web Awesome | Stardust Engine Native | Notes |
-| :--- | :--- | :--- |
+| :--- |
 | `<wa-button>` | `<button class="rs-btn">` | Styled via CSS variables. |
 | `<wa-badge>` | `<span class="rs-badge">` | |
 | `<wa-spinner>` | `<div class="rs-spinner">` | Standard CSS border animation. |
@@ -24,7 +11,6 @@ The Stardust Engine Library is built on three pillars:
 | `<wa-icon>` | `<i class="ph ph-icon">` | Phosphor Icons webfont implementation. |
 | Hamburger Menu | `<button class="rs-hamburger">` | CSS-animated spans toggled via `aria-expanded`. |
 
-## 2. Theming Engine
 
 The legacy architecture relied heavily on a fragmented 5-file system (`root.css`, `header.css`, `footer.css`, `extras.css`, `safety-net.css`) and Bootstrap's `data-bs-theme` attribute. The new system is vastly simplified.
 
@@ -41,7 +27,6 @@ Instead of injecting CSS globally in `<head>`, the active theme's styles will be
 ```
 Dark mode is handled natively via `@media (prefers-color-scheme: dark)` inside the CSS module, or forced via a `.force-dark` utility class, completely eliminating the need for `data-bs-theme`.
 
-## 3. Critical Migration Steps & Lessons Learned
 
 When executing this migration in the future, adhere to this sequence to prevent the bugs we encountered during our test run:
 
@@ -61,6 +46,5 @@ When executing this migration in the future, adhere to this sequence to prevent 
 *   Ensure redundant inline scripts (like legacy Bootstrap dropdown toggles in `header.php`) are purged to prevent event listener collisions.
 *   Update `konami.php` to use the native `<dialog>` `.close()` method instead of Web Awesome's `.hide()` method.
 
-## Conclusion
 By treating the UI as a native extension of the browser rather than a proprietary web component library, the Stardust Engine Library will drastically reduce load times, eliminate subscription costs, and simplify long-term maintenance.
 **

@@ -9,10 +9,6 @@ series: ""
 
 ### Part 1: The Loop
 
-# The Launch Code
-
-## June 14, 2003 10:00 AM
-
 The Atlantic Dome was a massive, concrete tortoise shell sitting just blocks away from the Virginia Beach oceanfront. Usually, it hosted boat shows or monster truck rallies. Today, it was hosting the Northwood High School Class of 2003.
 
 Inside the concrete bowels of the arena, the "holding tunnel" was a thick soup of humidity, cheap body spray, and nervous energy.
@@ -33,7 +29,6 @@ She reached up and adjusted his tassel, moving it out of his eye line.
 
 "Walk. Shake. Take. Exit," Freddie repeated. "A four-step algorithm."
 
-## 10:15 AM
 
 The signal began.
 
@@ -87,7 +82,6 @@ Pressure.
 
 The bouncing stopped.
 
-## 11:45 AM
 
 "Avery, Freddie."
 
@@ -125,7 +119,6 @@ She looked composed, her face a mask of polite disinterest, until she reached hi
 
 "Halfway," she whispered.
 
-## 12:15 PM
 
 They sat back in their chairs.
 
@@ -160,8 +153,6 @@ They pushed through the double doors.
 They burst out of the Atlantic Dome and into the blinding sunlight of the parking lot.
 
 ### Part 2: The Frequency
-
-# The Launch Code
 
 The ceremony ended. The Atlantic Dome disgorged the graduates into the blinding June sunlight of the parking lot. The air was hot—90 degrees and heavy with salt spray. Freddie stripped off his cap immediately, throwing it on the ground. "Air," he gasped, loosening the gown. "Too hot. System overheating." "We're done," Paige said, grabbing his arm to steady him. "We did it. We're free."
 
@@ -209,10 +200,6 @@ Jessica slammed the car into gear. The Avalon peeled out of the parking lot, lea
 
 ### Part 3: The Base
 
-# The Launch Code
-
-## June 14, 2003 19:30 PM
-
 The silver Avalon pulled away from the highway and turned down a quiet residential street in Christiansburg. It was a different world from the humid, crowded sprawl of Virginia Beach. Here, the air was thin and smelled of pine needles. The Blue Ridge Mountains stood silent in the distance, a fortress wall protecting the valley.
 
 Jessica slowed the car as they approached the intersection of First and Pepper. "Target acquired," Jessica announced. "Look to your left." Freddie looked out the window. Directly across the street wasn't a parking lot; it was a hub of infrastructure. **Pepper Plaza Transit Center.** It was a proper terminal with a sawtooth curb design, allowing three buses to dock simultaneously without blocking traffic. A heavy shelter with a glass windscreen stood waiting. "That is the node," Jessica explained, pointing. "Blue Ridge Transit. Route 1 goes straight to campus. Route 3 goes to Radford. You can see the bus arrive from your front porch. Visual confirmation." Freddie nodded, entranced by the efficiency of the sawtooth bays. "Optimal geometry," he noted. "No guessing."
@@ -221,21 +208,17 @@ Jessica turned the wheel to the right and pulled into the driveway of a small, w
 
 They walked up the short concrete path. Jessica pulled out a keyring with three brass keys. She handed one to Freddie and one to Paige. "Protocol One," Jessica said, sliding her key into the deadbolt. "This is a private residence. No buzzer. No landlord walking the halls. You control the perimeter." *Click-thunk.* The door swung open. "Secure," Freddie whispered, stepping onto the hardwood floor. It smelled of lemon polish and old wood—the smell of safety.
 
-## The Base of Operations
 
 The interior was deceptively spacious. The living room had soft carpet and a large window looking out toward the tree line in the backyard. The kitchen had a small island with three bar stools. But the most important feature was the short hallway that branched off to the bedrooms. "Okay," Jessica said, dropping her keys on the counter. "Briefing time. Drop the bags." Freddie and Paige set their duffel bags down. Ellen, who was carrying a bag of groceries she’d insisted on buying at the last stop, set them on the island.
 
 Jessica hopped up onto the counter, swinging her legs. She looked at her siblings—not as a parent, not as a babysitter, but as a squad leader addressing her team. "Welcome to the Iron City," Jessica smiled. "This is a new system. The rules of 1852 Delaney Street do not apply here. We have a new Constitution."
 
-## Article 1: The Resources
 
 "First," Jessica pointed to the ceiling. "Rent. Utilities. Internet." "We need jobs," Paige said immediately. "I can wait tables. Freddie can do tech support." "Negative," Jessica shook her head. "We have a sponsor." She reached into her back pocket and pulled out a folded document. She placed it on the counter. **Lease Agreement.** **Rent: \$1.00 per annum.** "Mom’s Great Aunt Margaret," Jessica explained. "She moved to assisted living last month. She owns this place. She hates Dad. She drafted this lease herself." Ellen nodded from the kitchen. "She wants you safe. She’s covering the utilities and the high-speed cable internet. She’s also depositing a stipend for food and books every month." Freddie blinked. "We are... fully funded?" "You are fully funded," Jessica confirmed. "Your job is to get the grades. That’s it."
 
-## Article 2: The Quarters
 
 Jessica hopped off the counter and led them down the hall. "There are two rooms. One is the Ops Room." She pointed to the smaller bedroom on the right, where three desks were already pushed against the walls, creating a U-shaped command center. "That’s where we work. Computers, printers, homework." She walked to the door at the end of the hall. "And this is the Silo." She pushed the door open. The Master Bedroom was dominated by a massive piece of furniture. **A King-Sized Bed.** It took up almost the entire room. "76 inches," Jessica stated the spec. "Enough for three." Freddie froze. He looked at Jessica. "Three?" "Three," Jessica confirmed. "We aren't doing shifts. We aren't doing 'Jessica sleeps on the floor.' We are a unit. We sleep together. Every night. Safety in numbers." She looked at Paige. "If you're okay with that?" Paige looked at the vast expanse of the mattress. She imagined the nights without the static. She imagined the safety of the wall. "I'm okay with it," Paige whispered. "I prefer it." Freddie looked at the bed. The logic was undeniable. Maximum regulation. Maximum security. "Accepted," Freddie said. "The King configuration is optimal."
 
-## Article 3: The Code of Conduct
 
 They walked back into the living room. "Guests," Jessica listed. "Mom is welcome anytime. She has a key." She looked at Ellen, then back at the twins. Her expression hardened. "Robert is banned. He doesn't know this address. The lease is in a trust. If he shows up, you do not open the door. He has no jurisdiction here. This is a secure facility." "Understood," Freddie said, his voice cold. "Robert is blocked."
 
@@ -243,7 +226,6 @@ They walked back into the living room. "Guests," Jessica listed. "Mom is welcome
 
 "And finally," Jessica said, grabbing a water bottle from the fridge. "We’re adults. We’re siblings. We’ve changed diapers, we’ve cleaned up vomit, and we’ve survived a war. There is no modesty here. If you need to change, change. If you need to shower, shower. We don't hide from each other. We just live." She took a sip of water. "Any questions?" "The fridge," Freddie asked, eyeing the stainless steel appliance. "Common stock," Jessica said. "Unless you put a name on it, it’s fair game. But don't eat my yogurt if you value your life."
 
-## 19:45 PM
 
 The briefing was adjourned. Freddie and Paige took their bags into the Silo. It was perfect. The King bed sat against the far wall, dressed in maroon sheets. The blackout curtains were already drawn. The walk-in closet was empty, waiting for their clothes.
 
@@ -256,10 +238,6 @@ Freddie looked around the room. No parents fighting downstairs. No Robert trying
 ## The Source Code
 
 ### Part 1: The Manual
-
-# The Source Code
-
-## Sunday, June 15, 2003 09:30 AM
 
 The morning sun hit the Blue Ridge Mountains, filtering through the sliding glass door of **105 Pepper Street**. The house smelled of coffee and the cinnamon rolls Jessica had pulled from a tube. It was quiet. Not the tense, waiting-for-a-fight quiet of Delaney Street, but a settled, structural silence. Ellen had left an hour ago, driving the **Holt Meridian** back to the coast to study for her Monday exams. She had hugged them tight, left a check on the counter for "emergency pizza," and driven away, leaving the three siblings alone in their new fortress.
 
@@ -309,10 +287,6 @@ Freddie looked around the kitchen. He looked at the soft morning light filtering
 
 ### Part 2: The Calibration
 
-# The Source Code
-
-## Sunday, June 15, 2003 10:15 AM
-
 Freddie kept his finger on the highlighted section of the binder: Deep Pressure Therapy. He read the clinical definition again. Use of firm, heavy pressure to calm the sensory system. He looked at the bullet points about weighted blankets, compression vests, and "holding."
 
 He looked up at Paige. She was leaning against the counter, blowing on her tea, looking relaxed in her oversized t-shirt. For years, she had been his weighted blanket. She had been the one squeezing the static out of him in the middle of the night. A variable occurred to him—one he hadn't processed before because he had been too busy surviving.
@@ -349,10 +323,6 @@ He closed his eyes again, focusing on the sensation of the moment. He felt Paige
 
 ### Part 3: The Curriculum
 
-# The Source Code
-
-## Sunday, June 15, 2003 11:00 AM
-
 The living room of **105 Pepper Street** was quiet, save for the low hum of the window AC unit and the faint sound of a diesel bus engine idling across the street at **Pepper Plaza**. On the beige sofa, the "Deep Pressure Therapy" session was reaching its natural conclusion. Freddie lay still, breathing deeply. The weight of Paige lying on top of him was no longer just a medical intervention; it was a physical confirmation of his new reality. She was heavy, warm, and present. She was compressing his frayed nerves back into a cohesive cable. He wasn't just tolerating the pressure; he was enjoying the hug for what it was. A deep, trusting, silent connection.
 
 "Status?" Paige whispered, her chin still resting on his chest. "Integrity restored," Freddie said softly. "The static is gone. I am... regulated." "Good." Paige squeezed him one last time—a tight, rib-compressing hug that felt like love, not just therapy—before pushing herself up. She rolled off him and sat back on the cushion.
@@ -384,10 +354,6 @@ Freddie leaned back into the sofa, feeling the warmth of his sisters on both sid
 "This is efficient," Freddie said, closing his eyes. "I like The Base." "We know, Navigator," Paige whispered, resting her head on his shoulder. "We know."
 
 ### Part 4: The Open Door
-
-# The Source Code
-
-## Sunday, June 15, 2003 22:30 PM
 
 The living room was dim, lit only by the soft glow of a floor lamp. Outside the sliding glass door, the mountains were invisible against the black sky. On the beige sofa, the "Deep Pressure" session had been running for over an hour. Freddie lay still, his breathing slow and heavy, synced with Paige’s. Paige shifted her weight. She was tired. The long day of moving in, the emotional weight of the "Manual" review, and the constant regulation of her brother had drained her battery. "Okay," Paige whispered into the quiet room. "I need to shower before bed. I'll be right back."
 
@@ -429,7 +395,6 @@ Freddie sat in the warm water, surrounded by the steam and the scent of soap. He
 
 He looked at them. They were still wet, water beading on their skin. He pointed at the door, then at his clothes pile, raising an eyebrow in a silent question. *Clothes?* "Negative," Jessica said, tossing her wet hair back. "We're testing the theory, remember? We sleep without the armor tonight. We trust the room." Freddie looked at Paige. She nodded. Freddie nodded back. *Okay.*
 
-## June 14, 2003 22:15 PM
 
 They walked into the **Silo**. The blackout curtains were drawn, sealing out the Virginia sun. The room was cool, dark, and smelled faintly of the lemon polish from the hallway. The **King Bed** waited. It was a massive, 76-inch island of maroon fabric in the center of the room.
 
@@ -448,10 +413,6 @@ Freddie felt the weight of them pressing him down into the mattress, anchoring h
 He closed his eyes. The static was gone. The loop was broken. For the first time in his life, he wasn't just sleeping. He was being held.
 
 ### Part 5: The Morning After
-
-# The Source Code
-
-## Monday, June 16, 2003 08:30 AM
 
 The morning sun hit the mountains, reflecting off the peaks and finding a gap in the blackout curtains of **105 Pepper Street**. The beam of light hit Freddie’s eyes. He woke up. For a microsecond, the data processing was slow. Warmth. Weight. Safety. Then, the visual sensors came online. He looked to his left. Jessica was asleep, her arm thrown over her eyes. She was naked. He looked to his right. Paige was asleep, her cheek pressed against his shoulder. She was naked. He looked down at himself. He was naked.
 
@@ -475,7 +436,6 @@ Freddie looked at Jessica. Then he looked at Paige. They weren't ashamed. They w
 
 Freddie’s shoulders dropped. The vibration in his hands slowed. He looked at Paige and tapped his chest, then pointed at her. *Safe.* "Safe," Paige confirmed. She reached out and hugged him—skin on skin, just a brother and a sister grounding each other. "Now," Jessica announced, clapping her hands. "Reboot complete. Let's get some clothes on. I'm starving, and we have administrative tasks to complete."
 
-## 09:30 AM Logistics Briefing
 
 Twenty minutes later, they were dressed. Freddie wore fresh jeans and a grey t-shirt. His voice was still gone—the reset hadn't fully restored the audio drivers yet—but he was communicating fluently with hand signals. They stood in the kitchen. Jessica was holding a notepad. "Agenda," Jessica listed. "Item 1: Breakfast. I know a place near campus." "Item 2: The Post Office. We need to file the Change of Address forms. You two officially live at **105 Pepper Street** now." "Item 3: Insurance and Taxes."
 
@@ -483,7 +443,6 @@ She looked at Freddie and Paige. "Okay, tax law crash course. Mom called me last
 
 "Insurance," Jessica continued. "Health is covered under Mom’s plan until you're older. But car insurance..." She pulled out her keys. "I added both of you to my policy this morning. You are authorized drivers of the Fleet." Paige’s eyes lit up. "The Avalon?" "The Avalon," Jessica confirmed. "And since it's a stick shift, and I know Freddie can't operate the third pedal..." Freddie shook his head vehemently. *Negative. Too many variables.* "...Freddie is listed as a 'Licensed Household Resident' for legal reasons, but Paige... you're the secondary pilot." Jessica tossed the keys to Paige. "You're driving to breakfast. I want you to get a feel for the clutch before classes start." Paige caught the keys. She grinned. "I prefer manual. More control." "I know," Jessica smiled. "Let's roll."
 
-## 10:00 AM The Test Drive
 
 They walked out the front door. Across the street, a **Route 1** bus was just pulling out of Pepper Plaza, its diesel engine roaring as it turned toward Main Street. Freddie watched it go, appreciating the punctuality. Then he turned to the driveway. The Silver Avalon wasn't a "boat" like the automatic sedans Freddie was used to. It was an older model that Jessica had specifically hunted down—a rare V6 with a 5-speed manual transmission. A "sleeper" car.
 
@@ -495,7 +454,6 @@ Paige turned the key. The engine purred. She shifted into First. She eased off t
 
 The drive to Blacksburg was a short hop up the road. Freddie watched Paige’s hand on the gear stick. *Shift. Down. Shift. Up.* It was rhythmic. It was a fidget spinner that controlled a two-ton machine. He saw why she liked it. It kept her hands busy. It kept her focused. He reached over and rested his hand on her knee. She didn't flinch. She just shifted to Third gear and patted his hand with her pinky.
 
-## 10:45 AM The Discovery
 
 They sat in a booth at The Daily Grind, a coffee shop popular with the off-campus crowd. The waitress arrived with the coffee pot to refill Jessica’s mug. "So," Jessica said, unfolding her napkin and stirring in a packet of sugar. "After we eat, we hit the Post Office to file the paperwork." She took a sip, looking at Freddie over the rim of the mug. "And then... I noticed a shop two doors down. It’s called '**The Cartridge Exchange**'."
 
@@ -508,10 +466,6 @@ Freddie dropped his fork. It clattered onto the plate. He grabbed his notepad an
 Freddie looked out the window. He couldn't speak, but his leg started bouncing under the table—not a nervous bounce, but an eager one. The "Comic Book" variable was acceptable, but Vintage Code? That was superior. That was pure logic encased in grey plastic. He took a deep breath. **Status: Online.**
 
 ### Part 6: The Cartridge Exchange
-
-# The Source Code
-
-## Monday, June 16, 2003 11:15 AM
 
 The bell above the door chimed as they walked into **The Cartridge Exchange**. The air inside was cool and smelled of ozone, old cardboard, and heated plastic—a scent Freddie associated with pure happiness. The walls were lined with shelves: to the left were the modern discs for current consoles, but to the right was the "Retro Zone," where bins and shelves overflowed with grey and black cartridges.
 
@@ -567,10 +521,6 @@ They walked out into the sunshine of Blacksburg, ready to wire up the Iron City.
 
 ### Part 7: Channel 3
 
-# The Source Code
-
-## Monday, June 16, 2003 13:15 PM
-
 Back at **105 Pepper Street**, the energy was electric. Jessica unpacked the groceries while Freddie and Paige engaged the "Entertainment Protocol" in the living room. The **MagnaView** TV sat on its low wooden stand, a heavy silver monolith waiting to be awakened.
 
 "Cabling," Freddie announced, kneeling behind the stand. He laid out the wires. It was a puzzle he knew how to solve, but there was one piece of geometry that bothered him. The **Bit-System** (Input 1) only had **Mono Audio**. If he plugged it in standard, sound would only come out of the Left speaker. *Asymmetry.* The thought made his skin crawl. "Wait," Freddie signed to Paige. He dug into the bottom of the cable bag Jessica had brought. He found it. A small, black cable with one female jack on one end and two male plugs on the other. **The Y-Adapter.**
@@ -603,7 +553,6 @@ He picked up the **Super Plumber World** cartridge. He blew on the pins—habit,
 
 He picked up the controller. It felt perfect in his hands—the rounded edges, the grey plastic, the four colored buttons (Purple and Lavender). It wasn't just a controller; it was a steering wheel for his childhood. "Co-Op?" Paige asked, picking up Player 2. "Always," Freddie nodded.
 
-## 19:00 PM The Marathon
 
 The afternoon dissolved into a blur of 16-bit bliss. The sun went down, but they didn't notice. The only light that mattered was the glow of the CRT. They played through the **Donut Plains**. They found the **Secret Key**. They unlocked the **Star Road**. Freddie wasn't mute anymore. The game had unlocked his voice. "Jump!" he yelled. "Spin jump! Use the cape!" "I'm trying!" Paige laughed, mashing the B button. "The physics are slippery!" "Inertia," Freddie corrected. "You have to account for momentum."
 
@@ -613,7 +562,6 @@ Jessica sat on the floor behind them, leaning against the sofa, eating pizza bit
 
 They beat the castle. They saved the egg. Freddie pressed **START**. The menu popped up. **SAVE GAME?** **\> YES** Freddie hit the button. *Ding.* The save noise. The sound of permanence. He didn't know about batteries. He didn't know about voltage decay. He just knew that his progress was locked in. He existed in the machine.
 
-## 22:30 PM The Cocoon
 
 The TV was off. The house was dark. They went through the new routine. Bathroom. (The new clear curtain was hung; it worked perfectly, keeping the water in while keeping the line of sight open). Toothbrushes. And then, the **Silo**.
 
@@ -626,10 +574,6 @@ The **King Bed** offered 76 inches of width—enough for them to sleep without t
 ## The Syllabus
 
 ### Part 1: The Loophole
-
-# The Syllabus
-
-## Sunday, June 22, 2003 09:00 AM
 
 The morning sun filtered through the blinds of 105 Pepper Street, slicing the living room into strips of light and shadow. The air conditioner hummed a steady, white-noise drone that kept the humid Virginia summer at bay.
 
@@ -689,8 +633,6 @@ She checked her watch. "The Campus Bookstore is open today for the summer intake
 
 ### Part 2: The Run
 
-# The Syllabus
-
 The silver **Horizon Avalon** sat in the driveway of 105 Pepper Street, reflecting the mid-morning sun. It was a rare beast for a sedan of its size—a V6 engine paired with a 5-speed manual transmission. "I will drive," Paige said, snagging the keys from the hook by the door. "I need the practice on the hills. If I can drive in Blacksburg, I can drive anywhere."
 
 They dressed quickly, shedding the soft armor of pajamas for the functional uniform of the day: jeans and t-shirts. Freddie pulled on his orange hoodie. He hesitated for a moment, then left the zipper open. It was already eighty degrees outside, too hot for the full cocoon, but he needed the heavy fabric within arm's reach. It was his safety net.
@@ -701,7 +643,6 @@ Paige adjusted the seat. She pressed the clutch pedal. It was heavy, with a bite
 
 Paige shifted into Reverse. She eased off the clutch. The car rolled back smoothly. She braked, shifted to First, and pulled out onto Pepper Street. "Smooth," Jessica approved from the back seat. "No lurch."
 
-## 11:20 AM Business 460 / South Main Street
 
 The drive to Blacksburg was a short, straight shot, but the terrain changed rapidly. The flat roads of Christiansburg gave way to the rolling, steep geography of the university town. "Hill start," Freddie warned as they approached the traffic light at the edge of campus. "Gradient is approximately eight percent."
 
@@ -709,13 +650,11 @@ The light turned red. Paige stopped. The car rocked slightly on its suspension. 
 
 They pulled into the **Visitor Center**, a small brick building at the campus entrance. Jessica ran in with a five-dollar bill and returned with a maroon hang-tag. "Day Pass," she said, hanging it from the rearview mirror. "Valid for Perry Street Lot. It is a hike to the bookstore, but it is the only place we won't get ticketed."
 
-## 11:45 AM The Perry Street Lot
 
 Paige docked the Avalon in a narrow spot between a massive pickup truck and a faculty sedan. She killed the engine. "Secure," Paige said, pocketing the keys.
 
 They stepped out into the heat. The campus was quieter than it had been during the graduation or the game day, but it still hummed with the low-level energy of summer session students and faculty. They walked past the massive construction site of the new engineering building, the sound of jackhammers echoing off the limestone. To Freddie, the noise wasn't chaotic; it was the sound of construction. It was the sound of things being built.
 
-## 12:00 PM The University Bookstore
 
 The bookstore was a massive, rotunda-shaped building located at the edge of the academic district. The automatic doors slid open with a pneumatic hiss. The air conditioning hit them instantly—a wall of freezing, dry air that smelled of new paper, adhesive, and expensive coffee from the café in the corner.
 
@@ -741,7 +680,6 @@ Freddie looked into the plastic bag. The heavy book sat there, a dense brick of 
 
 "We have the manual," Freddie whispered, clutching the bag against his chest. "Now," Jessica said, turning toward the exit. "Let's go get your PolyPasses. I want to see you swipe onto a bus before we go home."
 
-## 12:30 PM The ID Office (Newman Hall)
 
 The ID Office was tucked into a corner of the Student Union, smelling of warm plastic and lamination chemicals. Since it was summer orientation season, the line was short—mostly transfer students and a few confused freshmen who had lost their cards during the first week of Session 1.
 
@@ -763,7 +701,6 @@ He ran his thumb over the raised letters of his name. It was tactile proof of hi
 
 Freddie slid the card into the front pocket of his jeans. He patted it. It wasn't just plastic. It was mobility.
 
-## 12:45 PM The Drillfield
 
 "Phase Two," Jessica announced as they walked out of Newman Hall into the bright sunshine. She pointed across the massive, grassy expanse of the Drillfield toward the imposing stone fortress on the hill: **Burruss Hall**. "We have the IDs. Now we have to pay the toll."
 
@@ -771,7 +708,6 @@ Freddie slid the card into the front pocket of his jeans. He patted it. It wasn'
 
 They walked across the grass. Freddie watched the heavy limestone buildings loom closer. "Burruss Hall," Freddie noted. "Administrative Command." "Exactly," Jessica said. "The Office of the Bursar is on the first floor. They want their money before you sit in the chair."
 
-## 13:30 PM Dean of Students Office (Henderson Hall)
 
 The final stop was a quieter building near the edge of the Drillfield. They entered the office marked **SERVICES FOR STUDENTS WITH DISABILITIES (SSD)**. It was carpeted, quiet, and smelled of lavender—a deliberate choice, Freddie suspected, to lower anxiety.
 
@@ -809,10 +745,6 @@ They walked out of the building. The sun was high and bright. "Okay," Jessica sa
 
 ### Part 3: The Medical Logistics
 
-# The Syllabus
-
-## 13:30 PM En Route to 105 Pepper St.
-
 Paige navigated the Avalon smoothly down West Campus Drive, shifting from 2nd to 3rd gear with a satisfying *thunk*. "Clutch control is improving," Freddie noted from the passenger seat. "Thanks, Navigator."
 
 "Briefing on medical," Jessica said from the back seat. "Since we are not going back to the Beach, we need local providers. I am transferring our files."
@@ -836,10 +768,6 @@ Freddie looked out the window as they turned onto Pepper Street. The bus to Rine
 "Systems normalizing," Freddie whispered. He touched the PolyPass in his pocket. The summer was just beginning, and they were already ahead of schedule.
 
 ### Part 4: The Schematic
-
-# The Syllabus
-
-## Monday, June 23, 2003 14:00 PM
 
 The silver Avalon crunched into the gravel driveway of **105 Pepper Street**. The house was quiet, the air conditioner humming its steady, protective rhythm.
 
@@ -875,10 +803,6 @@ Jessica looked at Paige. Paige nodded. She didn't look scared. She looked like s
 
 ### Part 5: Data Verified
 
-# The Syllabus
-
-## 15:00 PM
-
 The living room was bright again; Jessica had opened the blinds to let the afternoon sun wash over the carpet. The atmosphere in the room was calm. There was no tension. The air didn't feel heavy with secrets; it felt light, scrubbed clean of the mystery that usually plagued teenagers.
 
 Freddie sat on the sofa, the textbook open on his lap. He wasn't staring at the diagrams with confusion anymore. He was looking at them with recognition. The abstract lines of the cross-section now made sense. He could visualize how the 2D drawing translated into 3D space. *Structure. Function. Design.*
@@ -907,10 +831,6 @@ Paige leaned her head on his shoulder. "Systems go, Navigator."
 
 ### Part 6: The Clear Curtain
 
-# The Syllabus
-
-## Monday, June 23, 2003 21:00 PM
-
 The sun had finally dipped below the ridge, leaving the sky a bruised purple over the Iron City. Inside **105 Pepper Street**, the lights were low, casting long shadows across the hallway.
 
 Jessica walked into the bathroom holding a plastic package she had picked up during their supply run to **Valu-Mart**. "Upgrade time," she announced.
@@ -927,7 +847,6 @@ Freddie nodded slowly. His brain processed the variable. *Old Curtain:* Isolatio
 
 "Exactly," Paige said, appearing behind him holding her toothbrush. She looked through the clear plastic at Jessica. "No more open curtains. No more wet floors. But you never have to wonder if we left. We are right here."
 
-## 21:15 PM The Routine
 
 "Testing phase," Jessica said, stepping out of the tub. "You're up, Freddie. Let's verify the protocol."
 
@@ -952,10 +871,6 @@ She rinsed him off with the handheld sprayer. The warm water cascaded down his s
 Freddie stood up. He dried himself behind the clear curtain, watching Paige finish brushing her teeth. He wrapped the towel around his waist. He looked in the mirror. He looked clean. He looked stable. "Test successful," Freddie whispered to his reflection.
 
 ### Part 7: The Silo
-
-# The Syllabus
-
-## 22:15 PM
 
 The door to the Master Bedroom clicked shut. The blackout curtains were drawn, sealing the room into a protective, cool twilight. The **King Bed** dominated the space. It was a massive, 76-inch plain of maroon jersey sheets—a landscape of safety.
 
@@ -983,10 +898,6 @@ He let out a long, slow breath. The static in his head—the white noise of fear
 
 ### Part 1: The Primary Node
 
-# The Network
-
-## Wednesday, June 25, 2003 09:30 AM
-
 The silver **Horizon Avalon** idled in the driveway of 105 Pepper Street. The morning was already hot, the air shimmering above the asphalt of Pepper Plaza across the street.
 
 Paige sat in the driver’s seat. She adjusted the rearview mirror, checking the sightlines. "Clutch in," she whispered. She shifted into Reverse. The gear stick clicked into place with mechanical precision. "We are mobile," Freddie confirmed from the passenger seat. He had his clipboard ready—a literal clipboard he had found in the Ops Room supplies. It held their insurance cards, the FERPA copies, and a list of objectives.
@@ -995,7 +906,6 @@ Paige sat in the driver’s seat. She adjusted the rearview mirror, checking the
 
 Paige eased the car out of the driveway. Her clutch control was becoming muscle memory now; the car didn't even shudder. They turned onto the main road, heading toward the hospital district on the south side of Christiansburg.
 
-## 10:00 AM Dr. Vance’s Office
 
 The waiting room smelled of antiseptic and old magazines. It was quiet, save for the low murmur of the receptionists behind the sliding glass window. They approached the desk as a unit.
 
@@ -1019,7 +929,6 @@ Paige watched him, then copied the list onto her form. Jessica did the same on h
 
 "This is the Tri-Lateral Agreement," Freddie whispered, signing his name at the bottom. "If one unit goes down, the others have the schematic."
 
-## 10:30 AM Exam Room 2
 
 Dr. Vance was a tall man with wire-rimmed glasses and a demeanor that was efficient but kind. He didn't blink when all three siblings crowded into the exam room. "Okay," Dr. Vance said, looking at the charts. "We’re doing intake for Freddie and Paige today?"
 
@@ -1045,7 +954,6 @@ Dr. Vance didn't ask why siblings living together needed birth control. He was a
 
 Dr. Vance finished his notes. "You guys have a good system here," he observed, tearing off the prescription slips for the referrals. He handed them to Freddie. "You're the keeper of the papers?" "I am the Archivist," Freddie said, taking them.
 
-## 11:15 AM The Parking Lot
 
 They walked back to the Avalon. The sun was high overhead. Freddie held the referrals in his hand. *Referral: Dr. Aris Thorne (Psychiatry/Neurology).* *Referral: Dr. Halloway (Gynecology).*
 
@@ -1056,10 +964,6 @@ He looked at the papers. They weren't just slips of paper. They were patch notes
 "Next week," Jessica promised. "Next week, we ride to Riner."
 
 ### Part 2: The Red Flag
-
-# The Network
-
-## Tuesday, June 24, 2003 02:15 AM
 
 The Silo was silent. The air conditioner hummed its steady, protective white noise. On the King Bed, the formation was holding. Freddie lay in the center, flanked by Jessica on his left and Paige on his right. The room was cool, the blackout curtains sealing them in a timeless dark.
 
@@ -1106,10 +1010,6 @@ He lay back down between them. Jessica draped her arm over him again. Paige snug
 Here is Part 3 of the narrative, detailing the trip to Riner and the medical appointments.
 
 ### Part 3: The Maintenance Run
-
-# The Network
-
-## Tuesday, July 1, 2003
 
 The morning at **105 Pepper Street** started earlier than the alarm clock intended. Around 3:00 AM, Paige had woken up with the familiar, dull ache of cramps, signaling the start of her cycle—and the "Red Flag" status Freddie had learned to recognize. While the timing meant a groggy start to the day, it was actually serendipitous for the logistics of the morning.
 
@@ -1191,8 +1091,6 @@ They boarded, taking their seats in the cool air conditioning. As the bus wound 
 
 ### Part 1: Ground Rules
 
-# Proper Terminology
-
 The fluorescent lights of the classroom hummed, a stark contrast to the humid warmth of a Blacksburg summer afternoon outside. This was HPE 204: Dimensions of Human Sexuality.
 
 For Freddie, this class was a strategic maneuver. The university’s Health and Physical Education requirement was mandatory for graduation, usually filled by sweating through tennis, jogging, or swimming. With his cerebral palsy, those options ranged from "difficult" to "logistical nightmare." But HPE 204 counted for the same credit, and the only muscle he had to exercise here was his brain.
@@ -1238,8 +1136,6 @@ She tapped the stack of papers on her desk.
 Freddie took a syllabus as the pile passed him, handing the rest to Paige. He glanced at the course schedule. It was dense, clinical, and thorough. It was exactly what he needed to get his degree without worrying about his legs giving out on a track. He uncapped his pen. He was ready to work.
 
 ### Part 2: Zero Tolerance
-
-# Proper Terminology
 
 Dr. Thorne moved through the syllabus with the efficiency of a surgeon. She didn’t pace; she planted herself behind the podium and let the weight of the topics settle over the room.
 
@@ -1293,8 +1189,6 @@ He glanced at Paige, offering a small, dismissive shrug. She smiled—a tiny, pr
 
 ### Part 3: Safe Harbor
 
-# Proper Terminology
-
 The rest of the lecture blurred into a stream of biological terms and syllabus dates. Dr. Thorne didn’t let the tension linger; she buried it under a mountain of academic expectations. By the time she capped her marker and announced, "Class dismissed," the incident with the girl felt like a distant memory to everyone—except the three people in the second row.
 
 As the room erupted into the sound of zippers and shuffling feet, Freddie didn't move immediately. This was part of the routine. The adrenaline spike from the confrontation, combined with sitting still for fifty minutes in a rigid desk chair, meant his legs would be seized up. The spasticity always hit harder after stress.
@@ -1328,8 +1222,6 @@ They walked out together, a tight formation against the chaos of the hallway. Fr
 He was too busy holding onto the sister who made the world stop spinning.
 
 ### Part 4: The Predator
-
-# Proper Terminology
 
 The journey from the classroom door to the building lobby was only fifty yards, but to Freddie, it felt like a forced march across a gravity-heavy planet.
 
@@ -1451,8 +1343,6 @@ Jessica watched her go, brushing a piece of lint off her Forger t-shirt. Then sh
 
 ### Part 5: Geometry and Physics
 
-# Proper Terminology
-
 The lobby bench was hard wood, but to Freddie, it felt like a recharge station. He sat in the middle, eyes closed, letting his breathing sync with the steady rise and fall of Paige’s chest against his right side.
 
 "Heart rate decelerating," Freddie murmured. "System cooling."
@@ -1565,10 +1455,6 @@ Freddie leaned back against the wall. The lobby was quiet again. The threats—t
 
 ### Part 6: The Safe Zone
 
-# Proper Terminology
-
-## 13:15 PM
-
 The walk to the **CPI Transit Center** was a silent march. The adrenaline from the confrontation in the lobby was fading, replaced by the heavy, humid weight of a Virginia afternoon.
 
 A white-and-maroon bus was already idling in the loop, its diesel engine rumbling with a deep, patient rhythm. The destination sign glowed amber: **1 FALLING BRANCH**
@@ -1652,10 +1538,6 @@ Paige laughed, a real, genuine sound that chased the shadows away. "Okay. Rags i
 The bus hissed to a halt. The doors opened. They stepped out into the sunshine of Christiansburg, leaving the predators and the geometry behind, walking toward the safety of the Base.
 
 ### Part 7: The Incorrect Variable
-
-# Proper Terminology
-
-## Wednesday, July 9, 2003 14:00 PM
 
 **Newman Hall** was the living room of the university. While the library was for silence and the labs were for code, Newman was for noise, food, and decompression.
 
@@ -1841,10 +1723,6 @@ The noise of the student center continued around them, but in their little bubbl
 
 ### Part 8: The Distortion
 
-# Proper Terminology
-
-## Wednesday, July 9, 2003 14:15 PM
-
 The heavy glass doors of Newman Hall swung shut, cutting off the cool air conditioning. Krystal stepped out into the humid heat of the afternoon, her heels clicking angrily on the concrete.
 
 She walked to the low brick wall near the entrance and dug into her purse. She pushed past her lip gloss and her ID card until her fingers brushed against the cellophane of a pack of cigarettes.
@@ -1911,7 +1789,6 @@ She looked at the slip of paper she’d shoved in his pocket in her mind's eye.
 
 She adjusted her top, pulling it lower to maximize her geometry, and walked toward the dorms. She hadn't lost. She had just found a new angle of attack.
 
-## 14:30 PM (Inside Newman Hall)
 
 Inside Newman Hall, the air was cool and scrubbed clean. Freddie remained horizontal on the plush sofa, his head resting comfortably in Paige’s lap.
 
@@ -1974,10 +1851,6 @@ Freddie let out a long, slow breath. The static in his head cleared completely.
 He kept his face buried in her lap, ignoring the world, ignoring the girl outside, and focusing entirely on the perfect, stable rhythm of his sister’s breathing.
 
 ### Part 9: The Contaminant
-
-# Proper Terminology
-
-## Wednesday, July 9, 2003 14:35 PM
 
 Jessica returned from the restrooms, her heavy boots making a confident *thud-thud* on the tile. She looked refreshed, having splashed cold water on her face to combat the summer humidity.
 
@@ -2073,7 +1946,6 @@ She smiled, a slow, predatory curving of her lips. The "cripple" was just shy. H
 
 "Okay," Krystal whispered. "I like a chase."
 
-## 14:45 PM (The Burger Hub)
 
 The quick-service counter was located in a tiled alcove of Newman Hall. It smelled of grease and sanitizer—a familiar, safe combination.
 
@@ -2125,10 +1997,6 @@ They finished their meal under the watchful, hungry eyes of the girl who thought
 
 ### Part 10: The Humidity Index
 
-# Proper Terminology
-
-## Wednesday, July 9, 2003 15:00 PM
-
 The automatic doors of **Newman Hall** slid open, and the atmosphere changed instantly.
 
 Inside, the air had been cool, filtered, and sane. Outside, the **New River Valley** in July was a physical assault. The heat wasn't dry; it was a heavy, wet blanket of humidity that wrapped around them the second they stepped onto the pavement.
@@ -2151,7 +2019,6 @@ She pulled it out. She looked at the white box. It hadn't made her look cool. It
 
 She tossed the pack into the trash can with a heavy *thunk*. She didn't need props. She needed a new strategy. She turned and walked toward the elevators to her dorm, leaving the Avery unit to the heat.
 
-## 15:05 PM (Alumni Mall Bus Stop)
 
 "Movement is required," Freddie stated, peeling his shirt away from his chest. "If we remain stationary, we will melt."
 
@@ -2189,7 +2056,6 @@ He didn't think about Krystal. He didn't think about the cigarette smoke. He tho
 
 The bus slowed, turning off the road and navigating into the sawtooth bays of the transit center in Christiansburg.
 
-## 15:40 PM
 
 They stepped off the bus. The heat in Christiansburg was just as bad as Blacksburg, but here, it was manageable because safety was visible.
 
@@ -2216,10 +2082,6 @@ Freddie smiled. He didn't want Krystal's dorm room. He didn't want the friction.
 ## The Admin Console
 
 ### Part 1: The Cool Down
-
-# The Admin Console
-
-## Wednesday, July 9, 2003 15:40 PM
 
 The **Blue Ridge Transit** bus hissed to a halt in the sawtooth bay of **Pepper Plaza**. The doors folded open, and the Avery unit stepped out onto the concrete.
 
@@ -2323,10 +2185,6 @@ He was in the Base, and the perimeter was secure.
 
 ### Part 2: The Signal
 
-# The Admin Console
-
-## Wednesday, July 9, 2003 16:00 PM
-
 The decontamination process was a staged operation. Freddie was clean, cool, and dressed in a fresh pair of soft grey lounge pants and a white undershirt.
 
 They had established a temporary base camp in the living room while the bathroom was occupied. The **MagnaView** TV was the focal point.
@@ -2423,7 +2281,6 @@ For the first time all day, Freddie wasn't analyzing threats or dodging smoke. H
 
 "Adding to the queue," Jessica said, reaching for the popcorn bowl. "Welcome to the playlist, W-JAM."
 
-## Wednesday, July 9, 2003 16:30 PM
 
 The credits for *W-JAM in Philly* rolled, the funky bass line fading into a commercial for a local car dealership (Holt Automotive).
 
@@ -2519,17 +2376,12 @@ He was in the Safe Zone. He was with the people who knew his name. And that was 
 
 ### Part 3: The Final Frontier
 
-# The Admin Console
-
-## Wednesday, July 9, 2003 17:00 PM
-
 The afternoon sun was still blazing outside, but inside **105 Pepper Street**, the blackout curtains held the line. The living room was a cool, dim sanctuary illuminated only by the glow of the MagnaView TV.
 
 "News block initiated," Jessica announced. "Prepare for local intake."
 
 The screen shifted to the familiar blue-and-gold graphics of **WNRV-TV Channel 11**.
 
-## 17:00 PM - 18:30 PM: The Information Stream
 
 The broadcast began with **"Valley News Tonight"**. Freddie tolerated the 5:00 PM and 5:30 PM segments—mostly traffic reports on I-81 and weather updates confirming the oppressive humidity—but he perked up for the flagship **6:00 PM Broadcast**.
 
@@ -2539,11 +2391,9 @@ The anchor, a man with silver hair and a voice like gravel, read the headlines w
 
 "Negative," Freddie decided. "Global variables are too volatile. Stick to the local signal."
 
-## 19:00 PM: The Pattern Recognition Block
 
 At 7:00 PM, the tone of the evening shifted. The news desk was replaced by a brightly colored set filled with flashing lights and a giant, glittering wheel.
 
-## Show: Phrase Spin
 
 Freddie watched as three contestants spun the heavy wheel, the clicking sound—*tik-tik-tik-tik*—providing a satisfying auditory stim.
 
@@ -2559,7 +2409,6 @@ Freddie watched as three contestants spun the heavy wheel, the clicking sound—
 
 At 7:30 PM, the smart show started.
 
-## Show: The Daily Quiz
 
 At 7:30 PM, the tone shifted from luck to logic. **The Daily Quiz** began.
 
@@ -2587,7 +2436,6 @@ Freddie blinked, looking at her. "The identification is accurate. It is a sextan
 
 Freddie allowed a tiny smile. He liked the format. Even if the rule was silly, it was a rule. And in this house, rules were followed.
 
-## 20:00 PM: The Discovery
 
 Then, the game shows ended. The screen went black for a moment.
 
@@ -2656,10 +2504,6 @@ He looked at his sisters.
 He watched the ship streak into warp speed, a streak of light against the darkness. For a boy who spent his whole life feeling gravity hold him down, looking up at the stars felt like the first time he could truly fly.
 
 ### Part 4: The System Architecture
-
-# The Admin Console
-
-## Wednesday, July 9, 2003 20:45 PM
 
 The double feature of *Stellar Voyage: The New Era* was halfway through its second episode. The living room at **105 Pepper Street** was pitch black, save for the cool, flickering blue light of the MagnaView screen.
 
@@ -2737,10 +2581,6 @@ Freddie stood up. He felt tired, but it was a good tired. The day had been full 
 
 ### Part 5: The Sandwich Configuration
 
-# The Admin Console
-
-## Wednesday, July 9, 2003 21:10 PM
-
 The credits of the sci-fi show faded, leaving the room in silence. The blue light of the TV vanished as Jessica pressed the power button, plunging the living room into total darkness.
 
 "System shutdown," Jessica announced softly. "Time to dock."
@@ -2813,10 +2653,6 @@ One day ended. The next—the day he would finally get his name—was waiting in
 
 ### Part 1: The Debugger
 
-# Autism Diagnosis
-
-## Thursday, July 10, 2003 09:45 AM
-
 The waiting room of **Dr. Arrington’s** office was located in a quiet brick building off North Main Street in Blacksburg. It felt less like a clinic and more like a professor's study, which helped lower the ambient threat level.
 
 The floor was carpeted in a muted blue that absorbed the sound of footsteps. A small fountain in the corner provided a constant, rhythmic *trickle-splash-trickle*—white noise for the soul.
@@ -2873,10 +2709,6 @@ Paige took Freddie’s hand. "Come on, Architect. Let's go see the wizard."
 
 ### Part 2: Operating Systems
 
-# Autism Diagnosis
-
-## 10:00 AM
-
 Dr. Arrington’s office was lined with bookshelves stuffed with medical texts and psychology journals. There was a leather couch and two armchairs. On his desk sat a beige Quantum workstation with a bulky CRT monitor that hummed with a high-pitched frequency only Freddie seemed to hear.
 
 Freddie sat on the leather couch. Paige sat right next to him, her shoulder pressed into his.
@@ -2916,10 +2748,6 @@ Freddie froze. That was exactly it.
 "No," Dr. Arrington said firmly. "You are not broken. You are specialized hardware."
 
 ### Part 3: The King Bed Defense
-
-# Autism Diagnosis
-
-## 10:30 AM
 
 Dr. Arrington picked up his notepad again. "Let's talk about regulation. How do you reboot? How do you handle the 'static'?"
 
@@ -2962,10 +2790,6 @@ Freddie let out a breath he felt like he’d been holding since childhood. *Bril
 "Freddie," Dr. Arrington said seriously. "If it works, you keep it. You do whatever you need to do to survive the static."
 
 ### Part 4: The Source Code
-
-# Autism Diagnosis
-
-## 11:00 AM
 
 Dr. Arrington typed on his computer for twenty minutes. The keys clacked rhythmically. Finally, the dot-matrix printer whirred to life, spitting out a sheet of crisp white paper.
 
@@ -3010,10 +2834,6 @@ Freddie pulled back and adjusted his glasses. He checked his watch.
 Paige laughed, hooking her arm through his. "Let's go, Architect."
 
 ### Part 5: The Uplink
-
-# Autism Diagnosis
-
-## Monday, July 14, 2003 12:15 PM
 
 The walk from **105 Pepper Street** to the **Pepper Plaza Transit Center** took exactly three minutes. It was a diagonal line across the street, a vector Freddie had already memorized.
 
@@ -3066,10 +2886,6 @@ Freddie stood up. He adjusted his glasses. He checked his pocket one last time t
 "Upload sequence initiated," Freddie said. "Let's go."
 
 ### Part 6: The Thunderhead
-
-# Autism Diagnosis
-
-## Monday, July 14, 2003 15:00 PM
 
 The sky over the **New River Valley** had turned a bruised, angry purple. The summer heat had broken, but it had broken violently.
 
@@ -3215,10 +3031,6 @@ Outside, the storm raged on. But inside the circle of the Avery Unit, the perime
 
 ### Part 7: The Warning
 
-# Autism Diagnosis
-
-## Monday, July 14, 2003 15:12 PM
-
 The silence in the student lounge following Jessica's explosion was brief. It was replaced not by conversation, but by a sound that triggered a primal instinct in anyone who grew up in the mountains.
 
 It started as a low growl outside, penetrating the brick walls, rising steadily in pitch until it became a deafening, mechanical wail.
@@ -3325,10 +3137,6 @@ He just walked, flanked by his sisters, moving toward the bus stop. He was empty
 
 ### Part 8: The All Clear
 
-# Autism Diagnosis
-
-## Monday, July 14, 2003 16:00 PM
-
 The heavy glass doors of **Archer Hall** pushed open, and the Avery Unit stepped out into a changed world.
 
 The sky was still a flat, featureless grey, and the rain was falling in a steady, relentless sheet, but the violence was gone. The wind had died down. The hail had melted into slushy piles in the gutters.
@@ -3389,10 +3197,6 @@ He closed his eyes. He wasn't the Captain right now. He wasn't the Architect. He
 
 ### Part 1: The Decompression Protocol
 
-# The Prime Time Block
-
-## Monday, July 14, 2003 17:15 PM
-
 The front door of **105 Pepper Street** clicked shut, and the heavy deadbolt slid home with a reassuring *thunk*.
 
 The silence inside the house was absolute. The air conditioner hummed its steady, white-noise rhythm, scrubbing the humidity and the memory of the tornado siren from the air.
@@ -3415,7 +3219,6 @@ Ten minutes later, the Avery Unit reassembled in the living room. They were now 
 
 "Papa Tony's it is," Jessica agreed, dialing the number for the local delivery spot that knew their order by heart.
 
-## 17:30 PM
 
 The TV was on, volume set to "Level 12"—audible, but not aggressive.
 
@@ -3427,7 +3230,6 @@ On the screen, the local news team at **WNRV-TV** was wrapping up the weather se
 
 Paige sat next to him, sliding her arm through his. She didn't crowd him; she just re-established the link. "Just rain, Freddie. Just water."
 
-## 18:30 PM
 
 The doorbell rang. It wasn't the heavy knock of a threat; it was the rhythmic *ding-dong* of calorie delivery.
 
@@ -3441,7 +3243,6 @@ They ate while the **GBS Evening Report** played. The anchor, **David Clark**—
 
 Freddie chewed his thin-crust pepperoni. The crunch was grounding. The tomato sauce was savory. The world outside was chaotic, but inside the living room, the variables were controlled.
 
-## 19:30 PM
 
 At 7:30 PM, the tone shifted from luck to logic. **The Daily Quiz** began.
 
@@ -3467,7 +3268,6 @@ Freddie blinked, looking at her. "The identification is accurate. It is a sextan
 
 "Point restored," Jessica declared, taking a bite of her crust. "But you're on thin ice, mister. Respect the format."
 
-## 20:00 PM
 
 Then, the game shows ended. The commercials faded. The station ID for **WNRV** played—a simple animation of the New River winding through the valley.
 
@@ -3518,10 +3318,6 @@ Freddie let out a long, slow breath. The tension in his legs unspooled. The knot
 For the next hour, there was no Krystal. There was no tornado. There was only the bridge of the *Avalon*, the hum of the warp core, and the safety of the Avery Unit, flying through the night together.
 
 ### Part 2: The Emergency Brake
-
-# The Prime Time Block
-
-## Monday, July 14, 2003 21:00 PM
 
 The credits for *Stellar Voyage: The New Era* rolled silently up the screen. The music had faded, replaced by the low hum of the air conditioner and the ticking of the hallway clock.
 
@@ -3611,10 +3407,6 @@ Safe in the sandwich configuration, held by the only two people who knew how to 
 
 ### Part 3: The Dark Closet
 
-# The Prime Time Block
-
-## Tuesday, July 15, 2003 02:45 AM
-
 *WHOOOOOOOOOOOOOOOOOOOOO-OOOOOOOOOOOOOOOOOOO.*
 
 The sound was everywhere. It wasn't just in the air; it was vibrating through the floor tiles of **Archer Hall**.
@@ -3670,10 +3462,6 @@ She pulled the zipper down. Her hand slid inside the hoodie, touching his chest.
 She leaned in, her lips inches from his—
 
 ### Part 4: The Awakening
-
-# The Prime Time Block
-
-## 02:46 AM
 
 Freddie’s eyes flew open.
 
@@ -3773,10 +3561,6 @@ Held tight in the center of the Avery Unit, Freddie finally closed his eyes. The
 
 ### Part 5: The Recovery Cycle
 
-# The Prime Time Block
-
-## Tuesday, July 15, 2003 09:30 AM
-
 The morning sun pressed against the blackout curtains of the **Silo**, but inside, the darkness held.
 
 Freddie woke up slowly. He didn't bolt upright this time. He floated to the surface of consciousness, anchored by the heavy, reassuring weight of the **Sandwich Configuration**.
@@ -3813,7 +3597,6 @@ Jessica threw on her flannel pants and a tank top.
 
 "Ready," Freddie nodded. He felt heavy, his limbs moving through syrup, but he wasn't shaking.
 
-## 10:00 AM
 
 The living room of **105 Pepper Street** was filled with the soft morning light filtering through the blinds.
 
@@ -3862,10 +3645,6 @@ The nightmare of the closet faded. The image of the flashlight dissolved.
 Here, in the light of the living room, with the taste of oats and the weight of his sister’s hand on his heart, Freddie Avery let the system go offline. He drifted into a doze, safe in the only place in the world where he didn't have to be on guard.
 
 ### Part 6: The System Halt
-
-# The Prime Time Block
-
-## Tuesday, July 15, 2003 10:15 AM
 
 The silence in the living room had stretched on for fifteen minutes. It was peaceful, but Jessica, ever the manager, felt the urge to introduce a new variable.
 
@@ -3934,10 +3713,6 @@ Paige continued the massage, her thumb working a knot out of Freddie’s shoulde
 The homework sat on the floor, ignored. The TV stared blankly at them. But in the quiet room, the most important work was already being done. The Unit was holding the line until the Captain could come back online.
 
 ### Part 7: Manual Override
-
-# The Prime Time Block
-
-## Tuesday, July 15, 2003 10:30 AM
 
 The stalemate in the living room broke not with a sound, but with a rumble.
 
@@ -4029,10 +3804,6 @@ Freddie adjusted his glasses. He was still drained. He was still in his sister's
 
 ### Part 1: The Purge
 
-# The Anatomy of Resilience
-
-## Wednesday, July 16, 2003 13:00 PM
-
 The atmosphere in **Room 204** of Archer Hall was tense. The humidity of the Virginia summer pressed against the windows, but inside, the air conditioning kept the room at a crisp, clinical temperature.
 
 Dr. Aris Thorne stood at the front of the room, her posture rigid. She did not look like a professor who was about to lecture; she looked like a general inspecting the troops before a battle.
@@ -4119,10 +3890,6 @@ He looked around the room. The creeps were gone. The noise was gone.
 
 ### Part 2: The Buffer
 
-# The Anatomy of Resilience
-
-## Wednesday, July 16, 2003 14:15 PM
-
 The walk from Archer Hall to **Newman Library** was different today. The air was still hot, the humidity still oppressive, but the social atmosphere was lighter.
 
 The "Noise Sector" had been purged. The class roster had been refined down to the serious, the studious, and the Avery Unit.
@@ -4137,7 +3904,6 @@ Jessica swiped her **PolyPass** to unlock the door.
 
 "Base established," Freddie whispered, stepping inside.
 
-## 14:30 PM
 
 The table was round, but they sat in a semi-circle—Jessica on the left, Paige in the middle, Freddie on the right.
 
@@ -4163,7 +3929,6 @@ He plugged the USB cable into the side port. *Ding-dong.* The computer recognize
 
 "Understood," Paige said, cracking her knuckles. "Let's do this."
 
-## 15:30 PM
 
 For an hour, the only sounds in the room were the clicking of keys, the rolling of Freddie’s trackball, and the low murmurs of collaboration.
 
@@ -4183,7 +3948,6 @@ Jessica kept them on track. "Reflection question," she read. "Discuss the role o
 
 "Good phrasing," Jessica noted, glancing at his screen. "Clinical."
 
-## 16:00 PM
 
 Freddie clicked the final box on the digital form.
 
@@ -4223,10 +3987,6 @@ They walked out of the library, leaving the stress of the assignment behind them
 
 ### Part 3: The Quiet Room
 
-# The Anatomy of Resilience
-
-## Wednesday, July 23, 2003 09:45 AM
-
 The morning of the Midterm Exam did not begin with panic. It began with logistics.
 
 The Avery Unit stood at the crossroads of the Drillfield, a paved hub where the paths to different academic buildings diverged. To the left lay Archer Hall, where the main body of HPE 204 would assemble to take their test in the standard, fluorescent-lit classroom.
@@ -4259,7 +4019,6 @@ He was going to the Quiet Room.
 
 He turned and walked toward Henderson Hall. He didn't look back. He focused on his gait—heel, toe, heel, toe—keeping his rhythm steady.
 
-## 10:00 AM The Testing Center
 
 The SSD Testing Center was a sanctuary of silence. The floor was carpeted in a thick, sound-absorbing weave. The walls were painted a soothing, neutral beige.
 
@@ -4341,7 +4100,6 @@ Freddie Avery stood up. He walked to the front desk.
 
 He handed over the packet. He walked out of the quiet building into the heat of the July morning, feeling lighter than air.
 
-## 11:00 AM The Reunion
 
 Freddie sat on the wooden bench outside Henderson Hall. He had his orange hoodie draped over his lap (too hot to wear, but necessary to have nearby).
 
@@ -4405,10 +4163,6 @@ He thought about the "Machine" of the football team, the "Engine" of the wheelch
 
 ### Part 4: The Transit & The Trail
 
-# The Anatomy of Resilience
-
-## 11:15 AM — Alumni Mall
-
 The celebration at the bench was brief; the heat of the day was rising, and the logistics of the next phase required execution.
 
 "We have a vehicle problem," Freddie noted, checking his watch as they stood up. "The Avalon is docked at Base. We are at CPI. Displacement is six miles."
@@ -4439,7 +4193,6 @@ For thirty minutes, Freddie decompressed. The exam was over. The diagrams were l
 
 The bus turned off the highway and navigated into the small, concrete transit hub in downtown Christiansburg. It wasn't pretty—just a sawtooth curb cut into a lot with a few heavy, weathered shelters—but it was efficient. The bus docked in its bay with a heavy *thud* of air brakes.
 
-## 11:45 AM — 105 Pepper Street
 
 They stepped off the bus onto the stained concrete of the plaza. The heat in the valley was heavy, but the sight of their white house directly diagonally across the street was grounding.
 
@@ -4451,7 +4204,6 @@ They entered the cool sanctuary of the house just long enough to grab water bott
 
 They piled into the car. Jessica depressed the clutch, shifted into Reverse, and backed out of the driveway. She shifted to First, and they rolled past the bus idling in the plaza, heading for the mountains.
 
-## 12:45 PM — The Trailhead
 
 The drive took them out of the valley and up a winding, two-lane road that climbed steadily into the canopy of the Appalachian chain. The air changed as they ascended—thinning out, losing the heavy humidity of the town and gaining the sharp, pine-resin scent of the high altitude.
 
@@ -4493,7 +4245,6 @@ They scrambled up a final embankment of grey stone.
 
 And then, the world opened up.
 
-## 13:30 PM — The Summit
 
 They stepped out onto a massive, flat outcropping of rock that jutted out over the valley floor like the prow of a ship.
 
@@ -4540,10 +4291,6 @@ They sat there for an hour, watching the cloud shadows drift across the valley�
 And for Freddie Avery, the view was perfect.
 
 ### Part 5: The Recharge
-
-# The Anatomy of Resilience
-
-## Wednesday, July 23, 2003 16:30 PM
 
 The descent from **Wind Rock** was faster than the ascent, aided by gravity and the adrenaline of success.
 
@@ -4631,10 +4378,6 @@ The Avalon rolled back into the heat of the valley, carrying three explorers who
 
 ### Part 6: The Drive-Thru
 
-# The Anatomy of Resilience
-
-## Wednesday, July 23, 2003 17:00 PM
-
 The silver **Horizon Avalon** merged off the highway and back onto the main drag of Christiansburg. The transition from the cool, pine-scented air of the mountain to the humid, asphalt-scented air of the valley was abrupt.
 
 Freddie sat in the passenger seat, his body cooling down. But with the cooling came the stiffness.
@@ -4686,10 +4429,6 @@ The smell of charbroiled beef and salty fries filled the cabin. It was intoxicat
 She pulled out of the Brawny Burger lot, turned right onto First Street, and then made the immediate left onto Pepper Street.
 
 ### Part 7: Dinner
-
-# The Anatomy of Resilience
-
-## Wednesday, July 23, 2003 17:15 PM — 105 Pepper Street
 
 They pulled into the driveway. The house stood waiting, white and solid.
 
@@ -4763,10 +4502,6 @@ They ate their Brawny Burgers in the quiet safety of the Iron City, planning the
 
 ### Part 8: The Cost-Benefit Analysis
 
-# The Anatomy of Resilience
-
-## Wednesday, July 23, 2003 17:45 PM — 105 Pepper Street
-
 The dining room was quiet, save for the crinkling of foil wrappers and the low hum of the television on the kitchen counter.
 
 Freddie was halfway through his **Thick-Stack**, eating methodically around the circumference to save the center—the "prime bite"—for last. The combination of heavy protein, salt, and sugar (the **Mega-Cola**) was bringing his systems back online. The tremor in his hands from the mountain descent had faded to a manageable vibration.
@@ -4838,10 +4573,6 @@ Here, in the dining room of 105 Pepper Street, they had burgers, they had a plan
 And for the Avery Unit, that was the only ride they needed.
 
 ### Part 9: The Analog Archive
-
-# The Anatomy of Resilience
-
-## Wednesday, July 23, 2003 20:00 PM — 105 Pepper Street
 
 The dining room table was cleared. The Brawny Burger wrappers were in the trash. The "Thick-Stack" fuel had done its job.
 
@@ -4957,10 +4688,6 @@ The Archive was secure. The Unit was online. And the Sentinels were waiting on t
 
 ### Part 10: The Captaincy Protocol
 
-# The Anatomy of Resilience
-
-## Wednesday, July 23, 2003 21:30 PM — 105 Pepper Street
-
 The credits for *The New Era* had finished, but the TV was still on. Jessica, in a moment of curiosity, hit the "Previous Channel" button on the remote.
 
 The screen flickered to **Channel 24**, a retro-rerun station.
@@ -5047,10 +4774,6 @@ In his mind, the debate was settled. The 1960s were noise. The *New Era* was mus
 
 ### Part 11: The Shutdown Sequence
 
-# The Anatomy of Resilience
-
-## Wednesday, July 23, 2003 22:00 PM — 105 Pepper Street
-
 The credits for the retro sci-fi show had long since faded, and the VCR hummed in the silence of the living room before Jessica clicked it off.
 
 "All systems standby," Jessica announced, standing up and stretching. Her joints popped in the quiet room. "The best news of the day isn't the hike or the burger."
@@ -5073,7 +4796,6 @@ He and Paige entered the master bathroom. The routine was silent and synchronize
 
 There was no awkwardness, no hesitation. They were a team servicing the equipment before a long shutdown.
 
-## 22:15 PM — The Silo
 
 They converged in the master bedroom. The blackout curtains were already drawn, sealing the room in a permanent, protective night. The air conditioner hummed its steady, white-noise lullaby.
 

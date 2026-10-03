@@ -9,18 +9,6 @@ series: "The Silver Gauntlet of Aethel"
 
 ### Part 1: Chapter 1: The Art of Doing Nothing
 
-# Book I: The Magnetic North
-
-## Part 1: The Geometry of Sleep
-
-Theme: sunstead-peace
-
-Location: The Cottage on the Ridge
-
-POV: Kaela
-
-=
-
 The morning suns were late, or perhaps Kaela was just early.
 
 She lay in the grey twilight of the cottage, listening to the world wake up. The wind was brushing against the slate roof—the roof Kaelan had laid tile by tile two years ago—making a soft, scratching sound that used to terrify her, but now just sounded like home.
@@ -97,13 +85,9 @@ He kissed the top of her head. "I'll handle the fence today. You get the apples.
 
 "Deal."
 
-## Part 2: The Baker’s Tax
 
-Theme: sunstead-joy
 
-Location: The Town Square POV: Kaela
 
-=
 
 Sunstead in the mid-morning was a bustling ecosystem of red dust and gossip.
 
@@ -165,13 +149,9 @@ Kaela felt a swell of affection so strong it almost knocked the wind out of her.
 
 *Stay like this,* she thought, projecting the wish into the universe. *Just stay like this forever.*
 
-## Part 3: The Fortress of Mint
 
-Theme: sunstead-peace
 
-Location: The Garden POV: Kaelan
 
-=
 
 The stone fit.
 
@@ -270,18 +250,6 @@ Kaelan closed his eyes, listening to the hum of the bees in the clover, unaware 
 "Nap," Kaela agreed.
 
 ### Part 2: Chapter 2: The Alarm Clock
-
-# Book I: The Magnetic North
-
-## Part 1: The Interest Rate
-
-Theme: sunstead-peace-disrupted
-
-Location: The Cottage Garden
-
-POV: Kaela
-
-=
 
 The potatoes were coming in nicely.
 
@@ -389,15 +357,10 @@ And then, for the first time in history, the compasses in Sunstead didn't point 
 
 They pointed Down.
 
-## Part 2: The Shadow of the Zenith
 
-Theme: cosmic-dread
 
-Location: The Void Beyond the Stars
 
-POV: The Dark Master (The Unseen)
 
-=
 
 Far beyond the warmth of the Twin Suns, in the space between galaxies where light dared not tread, a Presence stirred.
 
@@ -431,15 +394,10 @@ Malakor had wanted to rule the world. Seraphina had wanted to eat the stars.
 
 The Unseen simply wanted to turn the page. And Earth was a typo it intended to erase.
 
-## Part 3: The Gathering of Iron
 
-Theme: sunstead-action
 
-Location: Horg’s Smithy
 
-POV: Kaela
 
-=
 
 "My hammers are floating!" Horg bellowed, trying to grab a sledgehammer that was drifting lazily toward the ceiling.
 
@@ -500,12 +458,6 @@ He reached for his sword. It floated into his hand before he could grab it.
 "Magma," Kaelan confirmed. "We're going to the center of the Earth."
 
 ### Part 3: Chapter 3: The Magnetic Highway
-
-# Book I: The Magnetic North
-
-## Part 1: The Land-Boat
-
-Theme: sunstead-action Location: Horg’s Smithy POV: Kaelan
 
 The *Iron Keel* sat in the middle of the dusty street outside the forge, looking completely out of its element. It was heavy, squat, and distinctly marine.
 
@@ -587,15 +539,10 @@ It accelerated with a force that threw them back into their seats. They blasted 
 
 They were surfing the planet.
 
-## Part 2: The Forest of Ghosts
 
-Theme: adventure-speed-memory
 
-Location: The Foothills of the Razor Peaks
 
-POV: Kaelan
 
-=
 
 The plains of the Emerald Valleys blurred into a smear of green and gold.
 
@@ -717,15 +664,10 @@ He released the brakes.
 
 The *Iron Keel* surged forward, leaving the ghosts of the past in the dust, rocketing toward the Razor Peaks and the burning heart of the world.
 
-## Part 3: The Truth about the Bridge
 
-Theme: adventure-camp
 
-Location: The High Chasm (The Bridge of a Thousand Truths)
 
-POV: Kaelan
 
-=
 
 The suns dipped below the jagged rim of the High Chasm, painting the sky in bruises of violet and indigo.
 
@@ -813,15 +755,10 @@ Kaelan took her hand. He climbed back up the cliff, leaving the ghost of the bro
 
 They climbed into the cabin of the *Iron Keel*, curled up under the furs, and slept soundly on the edge of the abyss, untroubled by the dark.
 
-## Part 4: The Scorch on the Ice
 
-Theme: adventure-travel
 
-Location: The High Chasm / The Outer Voidlands
 
-POV: Kaelan
 
-=
 
 The suns rose over the High Chasm, turning the grey shale into gold.
 
@@ -969,15 +906,10 @@ They blasted right over the center of the scar, shattering the refrozen ice, lea
 
 They raced North, leaving the ghosts of the temptation in the dust, heading toward the true fire that waited in the deep.
 
-## Part 5: The Last Clean Breath
 
-Theme: adventure-camp
 
-Location: The Edge of the Voidlands
 
-POV: Kaelan
 
-=
 
 The magnetic river slowed as the terrain leveled out. They were at the very lip of the Voidlands proper—a desolate plateau where the red dust of the south met the black obsidian of the north.
 
@@ -1103,15 +1035,10 @@ Kaelan released the brakes. The magnetic runners hummed, locking onto the field 
 
 The boat surged forward, leaving the pool and the ghosts behind, racing toward the lip of the crater and the long, dark drop into the fire.
 
-## Part 6: The Ghost Road
 
-Theme: adventure-travel
 
-Location: The Deep Voidlands
 
-POV: Kaelan
 
-=
 
 The afternoon in the Voidlands did not bring warmth; it just brought a harsher, flatter light.
 
@@ -1233,15 +1160,10 @@ Kaelan listened to the wind howling outside—the same wind that had tried to ki
 
 He closed his eyes, anchored by the girl in his arms and the iron beneath his feet, and slept on the edge of the volcano, ready to drop into the fire when the suns came up.
 
-## Part 7: The Heavy Silence
 
-Theme: adventure-camp-doom
 
-Location: The Rim of the Crater
 
-POV: Kaelan
 
-=
 
 Night in the Voidlands did not fall; it suffocated.
 
@@ -1336,16 +1258,6 @@ He squeezed her, holding onto his payment plan like a lifeline. He wasn't the lo
 And as the red light pulsed outside, Kaelan slept without nightmares, anchored to the earth by the girl who refused to let him float away.
 
 ### Part 4: Chapter 4: The Clockwork Ocean
-
-# Book I: The Magnetic North
-
-## Part 1: The Rifled Barrel
-
-Theme: danger-descent
-
-Location: The Crater of Silence / The Magma Tube
-
-POV: Kaelan
 
 The suns rose over the Voidlands, but they brought no warmth to the crater. The light merely highlighted the jagged, black teeth of the obsidian rim.
 
@@ -1475,15 +1387,10 @@ Massive, continent-sized cogs made of a dark, star-forged metal, ticking away th
 
 "And someone," Kaela said, pointing to a dark speck moving toward the central mechanism, "is trying to stop the hands."
 
-## Part 2: The Oven of the World
 
-Theme: danger-heat
 
-Location: The Upper Mantle (The Magma River)
 
-POV: Kaelan
 
-=
 
 The view from the viewport was beautiful, in the way a forest fire is beautiful just before it consumes you.
 
@@ -1625,15 +1532,10 @@ Kaela sighed, her body relaxing.
 
 They slept in the throat of the world, a tiny bubble of life floating on a sea of fire, while far below, something older than the stars turned its gaze upward, wondering why the intruders hadn't burned yet.
 
-## Part 3: The Endless Burn
 
-Theme: danger-heat
 
-Location: The Lower Mantle
 
-POV: Kaelan
 
-=
 
 There was no sunrise in the throat of the world. There was only the relentless, blinding glare of the magma river.
 
@@ -1721,15 +1623,10 @@ He pushed the tiller forward. He poured more power into the runners.
 
 The *Iron Keel* surged across the white-hot sea, a tiny speck of defiance racing toward the mechanism that kept the world turning.
 
-## Part 4: The Pendulum and the Wedge
 
-Theme: danger-core
 
-Location: The Inner Core (The Clockwork Ocean)
 
-POV: Kaelan
 
-=
 
 The *Iron Keel* drifted past the final barrier of the Outer Core.
 
@@ -1883,15 +1780,10 @@ He looked back at the *Iron Keel*. It was drifting dangerously close to a magma-
 
 He dove back into the fire, swimming for his life, swimming for the boat, swimming for the girl who was waiting to pull him out of the fire and tell him he was late for dinner.
 
-## Part 5: The Naked Truth
 
-Theme: danger-escape
 
-Location: The Inner Core / The Mantle Tunnel
 
-POV: Kaela
 
-=
 
 The Gear-Breaker did not scream as it dissolved. It simply ceased to be logic.
 
@@ -2037,15 +1929,10 @@ He wrapped his arms around her.
 
 They huddled together in the iron boat, wrapped in tarps and wool, sailing up through the crust of the earth, ready to face the sun, the wind, and the inevitable lecture from the blacksmith about why his boat smelled like sulfur.
 
-## Part 6: The Cool Down
 
-Theme: danger-heat-intimacy
 
-Location: The Deep Crust (The Vertical Tunnel)
 
-POV: Kaela
 
-=
 
 The upward rush of the thermal draft began to fade.
 
@@ -2135,15 +2022,10 @@ He tightened his grip on her, pulling her leg over his hip to lock her in place.
 
 They drifted off in the sweltering dark, two naked gods sleeping in the womb of the earth, comfortable in a heat that would kill an army, held together by gravity and love.
 
-## Part 7: The Itchy Ascent
 
-Theme: adventure-return
 
-Location: The Crust / The Crater of Silence
 
-POV: Kaelan
 
-=
 
 Waking up was a slow process of realizing that he wasn't melting anymore.
 
@@ -2257,18 +2139,6 @@ The *Iron Keel* surged forward, surfing the magnetic lines home.
 
 ### Part 5: Chapter 4: The Return Journey
 
-# Book I: The Magnetic North
-
-## Part 1: The Itch
-
-Theme: adventure-travel
-
-Location: The Voidlands Plateau
-
-POV: Kaela
-
-=
-
 The Voidlands were beautiful in the way a knife was beautiful—sharp, clean, and dangerously cold.
 
 The Iron Keel was flying South, the magnetic runners humming a high, steady note as they skimmed over the black obsidian.
@@ -2329,15 +2199,10 @@ Kaelan released the brakes. The Iron Keel surged forward.
 
 They drove naked across the frozen wasteland, huddled together in a knot of limbs and warmth, two gods refusing to wear uncomfortable pants for one second longer than necessary.
 
-## Part 2: The Ghost of the Bear
 
-Theme: adventure-camp
 
-Location: The Razor Peaks (The Cave)
 
-POV: Kaelan
 
-=
 
 They made the foothills of the Razor Peaks by nightfall.
 
@@ -2397,15 +2262,10 @@ The contrast made his chest ache with gratitude.
 
 They slept by the fire, the ghosts of the bear and the lonely boy watching from the shadows, powerless against the warmth of the twins.
 
-## Part 3: The Arrival
 
-Theme: sunstead-return
 
-Location: The Gates of Sunstead
 
-POV: Kaela
 
-=
 
 The third day was a blur of speed.
 
@@ -2473,15 +2333,10 @@ He grabbed Kaela’s hand. They walked up the ridge path toward the cottage, ign
 
 "Home," Kaelan agreed.
 
-## Part 4: The Scrub
 
-Theme: sunstead-peace
 
-Location: The Cottage on the Ridge
 
-POV: Kaela
 
-=
 
 The world outside did not exist.
 
@@ -2560,18 +2415,6 @@ They lay there in the dim, quiet cottage, the "Go Away" sign standing guard outs
 ## Book II: The Pilgrimage
 
 ### Part 1: Chapter 1: The Privacy of Stone
-
-# Book II: The Pilgrimage
-
-## Part 1: The Hole Under the Floor
-
-Theme: sunstead-peace
-
-Location: The Cottage Kitchen
-
-POV: Kaelan
-
-=
 
 The cottage smelled of damp earth, sawdust, and ambition.
 
@@ -2661,15 +2504,10 @@ He looked at Kaela. He looked at the garden door.
 
 "We have the rock," Kaelan grinned. "It's already in the garden."
 
-## Part 2: The Fortress of Comfort
 
-Theme: sunstead-peace
 
-Location: The Garden
 
-POV: Kaela
 
-=
 
 The suns were high, and the garden was a hive of activity.
 
@@ -2761,15 +2599,10 @@ The world was locked out.
 
 "Bath," Kaelan confirmed, reaching for the hose.
 
-## Part 3: The Scrub
 
-Theme: sunstead-joy
 
-Location: The Garden Bath
 
-POV: Kaela
 
-=
 
 The new bath was not just a tub; it was a monument to relaxation.
 
@@ -2849,18 +2682,6 @@ Kaelan laughed, a low rumble in his chest. "Deal."
 
 ### Part 2: Chapter 2: The Smoke and the Fire
 
-# Book II: The Pilgrimage
-
-## Part 1: The Funeral Crashers
-
-Theme: sunstead-tension
-
-Location: The Town Square / The Graveyard
-
-POV: Kaela
-
-=
-
 The death of a Matron usually brought silence. This time, it brought a carnival.
 
 News traveled fast in the post-Iron Heart world. The red auroras had been seen for a thousand miles. The magnetic quake had been felt in the capital. And somehow, the rumor had spread that the epicenter was a small, dusty town called Sunstead, home of the late, wise Matron... and two "Others."
@@ -2909,15 +2730,10 @@ Kaelan looked at the tub. He looked at the sky, turning violet with twilight.
 
 "Bath," he agreed.
 
-## Part 2: The Ladder
 
-Theme: sunstead-anger
 
-Location: The Garden Bath
 
-POV: Kaelan
 
-=
 
 The water was hot. The night was dark. The wall was high.
 
@@ -3031,15 +2847,10 @@ He kissed her forehead. He held her tight, staring at the top of the wall, darin
 
 They stayed in the water, defiant, refusing to leave their home, washing away the feeling of a hundred prying eyes with the heat of their own anger.
 
-## Part 3: The Verdict of the Sun
 
-Theme: divine-wrath
 
-Location: The Sunstead Jail (Beneath the Watchtower)
 
-POV: Kaelan
 
-=
 
 Kaelan did not dry off gently. He moved with a jerky, terrifying speed.
 
@@ -3157,15 +2968,10 @@ Kaelan looked at Kaela.
 
 "Tomorrow," Kaelan agreed. "Tonight... we lock the door."
 
-## Part 4: The Ward of Glare
 
-Theme: sunstead-magic
 
-Location: The Garden
 
-POV: Kaelan
 
-=
 
 They stood in the garden. The water in the stone tub was still steaming, but the mood was ruined.
 
@@ -3269,18 +3075,6 @@ They continued their bath, undisturbed by the world, protected by the very light
 
 ### Part 3: Chapter 3: The Council of Neighbors
 
-# Book II: The Pilgrimage
-
-## Part 1: The Reluctant Guests
-
-Theme: sunstead-politics
-
-Location: Outside The Drunken Mule
-
-POV: Kaelan
-
-=
-
 The sign above the door depicted a mule kicking a keg of ale. It was peeling, crooked, and accurate.
 
 Kaelan stood outside The Drunken Mule, arms crossed, looking at the door like it was a portal to the Voidlands.
@@ -3327,15 +3121,10 @@ Kaelan stopped walking. His eyes narrowed.
 
 "No," he said.
 
-## Part 2: The Refusal of the Chair
 
-Theme: sunstead-politics
 
-Location: The Drunken Mule Taproom
 
-POV: Kaela
 
-=
 
 The silence in the room stretched thin, brittle as old glass.
 
@@ -3383,15 +3172,10 @@ He turned to the room.
 
 "You don't need a King. You need a Council. You need people who actually know how to run a town."
 
-## Part 3: The Council of Neighbors
 
-Theme: sunstead-community
 
-Location: The Drunken Mule Taproom
 
-POV: Kaelan
 
-=
 
 "A Council?" the Miller asked, scratching his chin.
 
@@ -3477,18 +3261,6 @@ This chapter puts the new Council to the test and demonstrates exactly what happ
 
 ### Part 4: Chapter 4: The King at the Gate
 
-# Book II: The Pilgrimage
-
-## Part 1: The Tax Collector with an Army
-
-Theme: sunstead-war
-
-Location: The Main Gate
-
-POV: Kaela
-
-=
-
 The Council of Neighbors had been in power for exactly three weeks when the first war arrived.
 
 It didn't come with a declaration. It came with a cloud of dust on the southern horizon that resolved into two thousand soldiers wearing the gold-and-black livery of the Southeastern Lowlands.
@@ -3527,15 +3299,10 @@ Kaelan unlatched the garden gate.
 
 "I guess we're joining the Council meeting," he said.
 
-## Part 2: The Heat of the Argument
 
-Theme: sunstead-battle
 
-Location: The Battlefield (Outside the Gate)
 
-POV: Kaelan
 
-=
 
 The archers drew their bows. The tips of their arrows were wrapped in oil-soaked rags, lit by torches.
 
@@ -3631,15 +3398,10 @@ Kaelan looked up at the King on his horse. His eyes were burning gold.
 
 "We tried to tell you," Kaelan said, his voice overlapping with the harmonics of the sun. "Sunstead bows to no one."
 
-## Part 3: The Long Walk Home
 
-Theme: sunstead-victory
 
-Location: The Southern Road
 
-POV: Kaela
 
-=
 
 The battle—if it could be called that—lasted ten minutes.
 
@@ -3701,18 +3463,6 @@ They stripped off their dusty clothes and slid back into the water, while down i
 
 ### Part 5: Chapter 5: The Demon and the Witch
 
-# Book II: The Pilgrimage
-
-## Part 1: The Investigation
-
-Theme: sunstead-secrecy
-
-Location: Mrs. Gable’s Bakery
-
-POV: Kaela
-
-=
-
 Three days after the army fled, the spies arrived.
 
 They weren't soldiers. They were men in nondescript grey cloaks, sitting in the corners of *The Drunken Mule*, loitering near the well, and asking dangerous questions.
@@ -3765,15 +3515,10 @@ She slid a paper sack across the counter to Kaela.
 
 "Thanks, Martha," Kaela smiled. "He'll appreciate the sacrifice."
 
-## Part 2: The Boring Gardener
 
-Theme: sunstead-humor
 
-Location: The Town Square
 
-POV: Kaelan
 
-=
 
 Kaelan was currently acting very hard at being normal.
 
@@ -3825,15 +3570,10 @@ The Tanner leaned in close. "How was my performance?"
 
 "Deal."
 
-## Part 3: The Rumor Mill
 
-Theme: sunstead-secrecy
 
-Location: The Cottage / The Garden
 
-POV: Kaela
 
-=
 
 The suns set, and the spies retreated to *The Drunken Mule* to drink away their frustration.
 
@@ -3879,15 +3619,10 @@ He reached out and took her hand.
 
 They went inside, locking the door on the legend, leaving the world to whisper about monsters while the monsters argued about whose turn it was to scrub the skillet.
 
-## Part 4: The Guest List
 
-Theme: sunstead-magic
 
-Location: The Cottage
 
-POV: Kaelan
 
-=
 
 The dishes were done. The skillet was scrubbed. The fire in the hearth had died down to glowing embers.
 
@@ -3999,18 +3734,6 @@ Let the world whisper. Let the Kings plot. The house knew the difference between
 
 ### Part 6: Chapter 6: The Starlight Check-In
 
-# Book II: The Pilgrimage
-
-## Part 1: The Shadow of the Archivist
-
-Theme: trauma-healing
-
-Location: The Garden Bath
-
-POV: Kaelan
-
-=
-
 The water in the stone tub was calm, reflecting the Milky Way—a galaxy Kaelan had hand-crafted billions of years ago when he was just Solas, a being of pure fusion.
 
 But tonight, looking at the stars didn't bring him peace. It brought him a name.
@@ -4047,15 +3770,10 @@ Kaelan let out a shuddering breath. He wrapped his arms around her waist, pullin
 
 He held her there in the steam, letting the contact burn away the memory of the Archivist's cold. They were twenty-one now. They were survivors. They were the last of the Silver Temple, and they were finally warm.
 
-## Part 2: The Connection
 
-Theme: divine-contact
 
-Location: The Garden
 
-POV: Kaela
 
-=
 
 "We should check in," Kaela said after a long silence.
 
@@ -4093,15 +3811,10 @@ It didn't come as a voice. It came as a shift in the starlight. The air in the g
 
 Three lights appeared above the garden wall. Not physical lights, but presences. Old, vast, and powerful.
 
-## Part 3: The Verdict of the Remnant
 
-Theme: divine-approval
 
-Location: The Garden / The Astral Plane
 
-POV: Kaelan
 
-=
 
 Kaelan didn't bow. He stayed seated in his bath.
 
@@ -4155,15 +3868,10 @@ Kaela looked at the cottage. She looked at the chimney where the smoke from thei
 
 The presence faded. The Astral Plane receded. The garden returned to normal. The crickets started chirping again.
 
-## Part 4: Regular Townsfolk
 
-Theme: sunstead-peace
 
-Location: The Garden Bath
 
-POV: Kaela
 
-=
 
 The silence that followed was heavy, but good.
 
@@ -4205,16 +3913,6 @@ They went inside and locked the world out, ready to sleep in their shared bed, j
 
 ### Part 1: Prologue: The Silence Between Stars
 
-# Book III: The Zero Point
-
-Theme: cosmic-horror
-
-Location: The Void Beyond the Rim
-
-POV: The Unseen
-
-=
-
 The universe was too loud.
 
 It clicked. It whirred. It spun. Atoms vibrated. Planets orbited. Hearts beat. It was a cacophony of motion that disgusted Him.
@@ -4254,18 +3952,6 @@ He began to chant. It was a spell of dampening. A spell of cosmic mute.
 He didn't target the Earth. He targeted the Sky.
 
 ### Part 2: Chapter 1: The Shadow at Noon
-
-# Book III: The Zero Point
-
-## Part 1: The Cold Draft
-
-Theme: ominous-warning
-
-Location: The Cottage Bedroom
-
-POV: Kaela
-
-=
 
 Kaela woke up because the birds had stopped singing.
 
@@ -4323,15 +4009,10 @@ The shadows of the trees, the fence, and the tub were not moving. The wind had s
 
 "Stasis," Kaelan realized. "He's not attacking the core. He's dampening the atmosphere. He's trying to suffocate the energy."
 
-## Part 2: The Dimming of the Town
 
-Theme: sunstead-panic
 
-Location: The Town Square
 
-POV: Kaelan
 
-=
 
 They dressed quickly—armor this time. Kaelan put on his leather jerkin and strapped his knife to his thigh. Kaela grabbed her staff.
 
@@ -4399,18 +4080,6 @@ And the only thing standing between Sunstead and absolute zero was the internal 
 
 ### Part 3: Chapter 2: The Needle and the Shroud
 
-# Book III: The Zero Point
-
-## Part 1: The Signal in the Water
-
-Theme: cosmic-detection
-
-Location: The Garden Bath
-
-POV: Kaela
-
-=
-
 The water in the granite tub was trying to freeze. A thin skin of ice kept forming on the surface, cracking only when Kaelan sent a pulse of heat through the stone.
 
 They sat submerged to their chins, eyes closed, hands clasped underwater.
@@ -4443,15 +4112,10 @@ Kaela looked at the water. She watched how the water bent around her fingers.
 
 "You paint the target," Kaelan nodded. "And I pull the trigger."
 
-## Part 2: The Last Supply Run
 
-Theme: sunstead-farewell
 
-Location: The Forge
 
-POV: Kaelan
 
-=
 
 They found Horg inside the forge. He wasn't working. He was huddled near the dying embers of his fire, wrapped in three blankets.
 
@@ -4493,15 +4157,10 @@ Kaelan looked at his old friend.
 
 "Just come back," Horg said gruffly. "I can't run this Council by myself. The Miller talks too much."
 
-## Part 3: The Drag of the Void
 
-Theme: adventure-struggle
 
-Location: The Frozen Plains (North of Sunstead)
 
-POV: Kaela
 
-=
 
 The *Iron Keel* was moving, but it felt like they were driving through molasses.
 
@@ -4547,15 +4206,10 @@ With the air resistance gone, the *Iron Keel* shot forward like a bullet.
 
 They rocketed across the wastes, a streak of iron and will, boring a hole through the thick, syrupy atmosphere of the Unseen.
 
-## Part 4: The Ascent
 
-Theme: epic-climb
 
-Location: The Slopes of Zenith Peak
 
-POV: Kaelan
 
-=
 
 They reached the base of the mountain at twilight (though "twilight" was just a slightly darker shade of grey).
 

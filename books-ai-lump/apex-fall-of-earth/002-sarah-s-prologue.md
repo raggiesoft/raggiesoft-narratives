@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: First Flight – Mid-October 2044
 
-# Sarah – The Promise
-
 The Tri-Sector Interstellar Freight & Personnel terminal was the cleanest room Sarah Hayes had ever stood in.
 
 She stood near the edge of the massive, pristine observation window, her small hands tightly gripping the strap of her canvas duffel bag. At eighteen years old, she had never been off-world. Her home planet was a fading, terrestrial agricultural colony where the soil had given out a decade ago, leaving behind rusted silos and empty towns. When her parents passed away, there was no extended family to take her in, and the local economy offered nothing but dead ends.
@@ -51,8 +49,6 @@ Sarah rested her hands in her lap, her posture finally relaxing as the ship lift
 
 ### Part 2: The Voyage – Mid-October 2044
 
-# Sarah – The Promise
-
 The Tri-Sector Interstellar Freight & Personnel transport slipped through the void with barely a whisper.
 
 Unlike the shuddering, industrial cargo haulers that serviced the outer agricultural colonies, the TSIFP cabin was a sanctuary of quiet efficiency. Soft, warm amber lighting illuminated the spotless aisles, reflecting off the clean slate-blue and silver accents of the bulkheads. There was no rattling, no suffocating heat, and no shouted orders. The air was perfectly climate-controlled and smelled faintly of fresh linen.
@@ -91,8 +87,6 @@ She pressed her hand against the cool glass, her heart fluttering with genuine, 
 
 ### Part 3: The Transfer
 
-# Sarah – The Promise
-
 The TSIFP transport glided into the docking cradle at the Las Vegas Interplanetary Spaceport with a gentle, barely perceptible shudder. The docking mechanisms locked into place with a muffled, hydraulic sigh, and the soft amber cabin lights shifted to a bright, welcoming white.
 
 "Ladies and gentlemen, welcome to Earth," the captain announced, his voice warm over the intercom. "Local time is 0800 hours. Please disembark safely and proceed to your atmospheric transfers."
@@ -128,8 +122,6 @@ A few minutes later, the atmospheric thrusters engaged with a smooth, even hum. 
 Sarah leaned her head against the cool, vibration-free glass, looking down at the rugged, red-brown mountains and sweeping valleys. To her, it didn't look like a harsh, unforgiving wasteland. It looked like a pristine frontier of science and discovery. She folded her hands in her lap, her heart full of bright, optimistic anticipation as the Desert Star shuttle carried her deeper into the desert.
 
 ### Part 4: The Handoff
-
-# Sarah – The Promise
 
 The Desert Star atmospheric shuttle touched down with a gentle, controlled hiss of hydraulics, settling onto the tarmac with barely a bump. The ambient cabin music faded out, replaced by the soft chime of the seatbelt indicator turning off.
 
@@ -187,8 +179,6 @@ Sarah pushed through the cold steel gate, stepping into the long, windowless con
 
 ### Part 5: The Glitch
 
-# Sarah – The Promise
-
 The heavy steel gate of the security checkpoint slammed shut, sealing off the deafening roar of the intake bunker.
 
 Instead of being directed down the main corridor toward the dormitories with the massive, gray-clad contractor herd, the Apex guards diverted the small group of Helios transfers into a secondary holding room. The room was a harsh, windowless concrete box illuminated by a single, aggressively bright fluorescent panel. There were no chairs. A dozen Helios personnel—geologists, researchers, and technicians—stood shoulder-to-shoulder, their crisp slate-blue and soft gold uniforms looking entirely absurd against the brutalist gray walls.
@@ -241,8 +231,6 @@ She stepped out into the neon-lit corridor, entirely alone and utterly out of he
 
 ### Part 6: The Washroom
 
-# Sarah – The Promise
-
 Sarah dropped her canvas duffel bag on the floor next to Bunk 42-C, clutching her hygiene kit and a thin towel to her chest. She stepped back out into the narrow, 64-inch aisle of the barracks, her heart hammering against her ribs.
 
 The air grew heavy and humid as she approached the archway to the communal washroom. Harsh, sickly yellow-green light spilled out onto the concrete floor, accompanied by the echoing sound of failing plumbing.
@@ -271,8 +259,6 @@ Ten minutes later, she was dressed back in her clean slate-blue Helios uniform, 
 
 ### Part 7: The Divide
 
-# Sarah – The Promise
-
 Sarah stepped out into the neon-lit corridor, clutching her damp towel, and was immediately swept up in a massive tide of Apex contractors heading toward the Sector 1 Mess Hall.
 
 The noise of the room hit her like a physical blow. It was a deafening, echoing roar of overlapping conversations and scraping metal benches, underscored by the heavy, vibrating hum of the facility's air scrubbers.
@@ -298,8 +284,6 @@ She forced herself to swallow two bites, knowing she would pass out if she didn'
 It was time to face whatever came next.
 
 ### Part 8: The Checkpoint
-
-# Sarah – The Promise
 
 Sarah tossed her empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
 

@@ -27,14 +27,10 @@ ai_prompt_hooks:
 status: canonical
 ---
 
-# The Courtney Betrayal (The Omni-Q Incident)
-
-## I. The Technological Landscape (Spring 1999)
 In the spring of his senior year at Northwood High School, eighteen-year-old Matt Miller utilized his wheelchair-mounted Vanguard LogicPad (the in-universe equivalent of an IBM ThinkPad) to communicate with the world. 
 
 While most teenagers used the casual, transient InfoLink Messenger (AIM) to chat, Matt relied on **Omni-Q** (the in-universe equivalent of ICQ). This distinction was critical. Unlike InfoLink, which erased conversations the second a window was closed, Omni-Q functioned for power users. It permanently saved local, timestamped chat logs directly to the computer's hard drive. 
 
-## II. The Saturday Night Meltdown (May 1, 1999)
 Matt had been dating a seventeen-year-old classmate named Courtney. Up until this point, she had only interacted with "School Matt"—a highly curated environment where Matt's medical needs were quietly handled by a retired male paraprofessional provided by the school district. 
 
 Wanting to celebrate his 18th birthday and Sarah's 21st birthday, Matt planned a major relationship milestone: a Sunday movie date to see *The Matrix*. 
@@ -43,7 +39,6 @@ Using his Vanguard LogicPad, Matt sent Courtney an Omni-Q message. Because he op
 
 Courtney’s neurotypical, deeply insecure teenage ego shattered. Ignoring the medical logistics, she unleashed a toxic, ableist barrage of messages. The cheerful Omni-Q notification chime rang out repeatedly in the Virginia Beach house as Courtney cruelly rejected him for bringing another woman on their date. 
 
-## III. The Investigation and the Safe Harbor
 Because Matt had not yet moved to Albemarle County, he did not have his flock of female cousins surrounding him. He sat alone in the family's shared study, weeping in front of his glowing LCD screen. 
 
 When Sarah (6'4", natural bodybuilder)returned home from an LPN shift, she immediately recognized his distress.
@@ -52,12 +47,10 @@ When Sarah (6'4", natural bodybuilder)returned home from an LPN shift, she immed
 *   **The Deadlift:** With the printer grinding in the background, Sarah effortlessly scooped Matt's 5'7" frameout of his manual wheelchair. She deadlift-carried him into her bedroom, curled up around him on the bed, and provided the deep-pressure therapy required to reset his crashing nervous system. 
 *   **The Ghost of the Flock:** As Matt cried, he found a small sliver of comfort imagining the sheer volume of spectacular naval profanity Rachel, Emily, or Jessica would unleash on Courtney if they were there.
 
-## IV. The Unified Front
 When David (6'11")returned home, Sarah handed them the printed Omni-Q logs. The family instantly closed ranks. There was no debate and no teenage drama. The printed logs proved Courtney was an active threat to Matt's emotional stability, and she was permanently excised from their ecosystem.
 
 On Sunday, May 2, 1999, Matt officially turned 18. This activated the joint-and-several legal guardianship and conservatorship, legally empowering David, Linda, and Sarah to act unilaterally on his behalf. Matt and Sarah went to see *The Matrix* alone, celebrating their shared birthday in peace.
 
-## V. The Double Shutdown (May 4, 1999)
 Courtney’s attempts to backtrack the following Tuesday resulted in her systematic dismantling.
 
 *   **The Morning Incident (Northwood High School):** Egged on by her friends, Courtney cornered Matt at school and offered a sexual encounter as a desperate apology. Matt, having zero concept of sexual subtext and viewing her purely as a threat, fiercely rejected her. When Courtney ignored his "no," the retired male paraprofessional physically stepped between them, shutting down the harassment.

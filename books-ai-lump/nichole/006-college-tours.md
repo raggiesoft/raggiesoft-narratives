@@ -9,10 +9,6 @@ series: "Nichole"
 
 ### Part 1: The \
 
-# The Misfit Tour
-
-## Date: June 16, 2003 Location: 1850 Delaney Street to Glenrock Mall Time: 9:00 AM
-
 The spreadsheet on the Bennett family’s kitchen table at 1850 Delaney Street was color-coded. Ellen had spent the last two weeks calling admissions offices, mapping out a tour schedule that would take them across the state.
 
 But for the first stop, they didn't have to leave the Tidewater area.
@@ -59,7 +55,6 @@ They were met by Kyle, an "Admissions Counselor" wearing a suit that was one siz
 
 "Welcome, welcome!" Kyle beamed, looking at Tom and Ellen, deliberately bypassing Patrick and completely ignoring Nichole in the chair. "You folks picked a great day to tour. We have a promotional intake window closing this afternoon."
 
-## Date: June 16, 2003 Time: 9:15 AM Location: Admissions Office, TSI
 
 Kyle led them down a hallway that was surprisingly narrow. Patrick had to steer Nichole carefully, his knuckles brushing against the cheap drywall to avoid clipping the baseboards.
 
@@ -155,7 +150,6 @@ Nichole reached for her VocaLink screen.
 
 Patrick laughed. "Yeah. Let's go get those cinnamon rolls."
 
-## Date: June 16, 2003 Time: 9:45 AM Location: The Food Court, Glenrock Mall
 
 They walked from the TechStream parking lot directly into the side entrance of Glenrock Mall.
 
@@ -210,10 +204,6 @@ Patrick stood up. The sugar was hitting his system, and the oppressive feeling o
 Nichole tapped her armrest twice. *Let's roll.* They navigated out of the dying mall, leaving the ghosts of retail past behind, ready to make the five-minute drive across the city line to Greenwich Road.
 
 ### Part 2: The Commuter Special
-
-# The Misfit Tour
-
-## Date: June 16, 2003 Time: 10:30 AM Location: Atlantic Coast Polytechnic (Greenwich Road)
 
 The drive from Glenrock Mall to Greenwich Road took exactly five minutes.
 
@@ -301,10 +291,6 @@ Nichole tapped her VocaLink screen.
 
 ### Part 1: The Valley of Hope
 
-# The Institution
-
-## Date: June 17, 2003 Time: 11:30 AM Location: Interstate 64 West, Afton Mountain
-
 The drive was a seduction.
 
 As Tom piloted the van west away from the flat, humid congestion of the Tidewater area, the landscape began to heave and roll. They climbed Afton Mountain, the engine humming a deep baritone as they ascended into the blue haze of the Appalachians.
@@ -328,10 +314,6 @@ Then, the green signage appeared on the right. Exit 91. Fishersville.
 Tom clicked the blinker. The van slowed, shedding the freedom of the open highway, and turned onto the off-ramp toward Route 285. The seduction was over. The reality was waiting at the bottom of the hill.
 
 ### Part 2: The Fortress
-
-# The Institution
-
-## Time: 1:00 PM Location: Roosevelt Rehabilitation Center
 
 Tom maneuvered into the turn lane and made the right onto Route 358.
 
@@ -373,10 +355,6 @@ He walked around to the lift. As Nichole rolled out onto the asphalt, she didn't
 
 ### Part 3: The Intake
 
-# The Institution
-
-## Location: Admissions Office, Birdsall-Hoover Building Time: 1:15 PM
-
 The interior of the Birdsall-Hoover Building smelled of lemon antiseptic and old paper. The air was frigid, the kind of aggressive air conditioning used to preserve government documents.
 
 They were ushered into a small office just off the lobby. Mr. Swayne sat behind a metal desk that was almost completely bare, save for a stapler and a stack of intake forms.
@@ -403,7 +381,6 @@ He stood up, grabbing his keys.
 
 "Let's begin the tour. We'll start with the residential sector."
 
-## The Transfer of Power
 
 They walked back out into the lobby. Waiting for them was a young woman in a blue polo shirt with the DARS logo. She looked nice, eager, and completely untrained in disability etiquette.
 
@@ -461,7 +438,6 @@ Nichole tapped her armrest.
 
 They rolled through the doors, not as a client and a case file, but as a unit.
 
-## The Elevation
 
 Swayne pursed his lips but gestured toward the back of the lobby. "Fine. Follow me to Rothrock Hall."
 
@@ -500,10 +476,6 @@ A sign on the wall read: ROTHROCK HALL.
 Nichole looked at the doors. They didn't look like they were designed to keep the world out. They looked like they were designed to keep the "patients" in.
 
 ### Part 4: The Cage
-
-# The Institution
-
-## Location: Room 104 (Model Room), Rothrock Hall Time: 1:25 PM
 
 Swayne swiped a keycard to open the double doors. The lock buzzed—a harsh, electric sound that made Nichole jump.
 
@@ -573,10 +545,6 @@ Patrick pushed Nichole out of the room, listening to the hum of the hospital bed
 
 ### Part 5: The Barracks
 
-# The Institution
-
-## Location: Barnett Hall, Suite 204 Time: 1:35 PM
-
 They left the medical sterility of Rothrock and walked across a patch of manicured grass to Barnett Hall.
 
 If Rothrock was a hospital, Barnett was a barracks. It was a two-story brick block with narrow windows. Inside, the lobby was sparse—a few vinyl chairs and a bulletin board covered in rules about curfew and hygiene inspections.
@@ -639,8 +607,6 @@ Tom and Ellen exchanged a look behind Swayne’s back. It was a look of grim det
 
 ### Part 6: The Rec Hall
 
-# The Institution
-
 ##### Location: Walkway between Barnett Hall and the Student Center Time: 1:40 PM
 
 They left the grim barracks of Barnett Hall and headed across the quad. Mr. Swayne seemed to sense the growing hostility in the group, so he fell back on policy.
@@ -677,7 +643,6 @@ Nichole slapped her armrest. *Hard.*
 
 "We encourage independence here," Swayne said stiffly. "Let me show you the Rec Hall. You'll see how robust our social scene is. It’s where everyone meets."
 
-## The Fight
 
 Patrick pushed Nichole toward the massive gymnasium complex. His bad leg was throbbing from the tension. He leaned over the back of her chair, his mouth close to her ear.
 
@@ -716,10 +681,6 @@ He didn't wait for Swayne. He didn't wait for the security guards running across
 Patrick pulled back on the handles, popping the casters into the air to clear the debris, and spun the heavy chair in a tight 180-degree combat turn. He bolted for the exit doors, using his body to shield her from the chaos, pushing her out into the safety of the summer air.
 
 ### Part 7: The Escape
-
-# The Institution
-
-## Location: Outside the Rec Hall, Roosevelt Rehabilitation Center Time: 1:50 PM
 
 Patrick didn't stop pushing until they were well clear of the building, halfway across the parking lot toward the van. He was breathing hard, not from exertion, but from the adrenaline of the fight-or-flight response.
 
@@ -764,10 +725,6 @@ Swayne stepped back, defeated.
 Patrick loaded Nichole onto the lift. He locked her down with efficient, angry movements. He climbed into the back seat beside her and slammed the door.
 
 ### Part 8: The Intersection
-
-# The Institution
-
-## Location: Parking Lot, Roosevelt Rehabilitation Center Time: 1:55 PM
 
 Patrick finished locking down the wheelchair tie-downs in the back of the van. His hands were shaking slightly—not from palsy, but from the sheer, vibrating rage of being told his future was scooping potatoes.
 
@@ -863,10 +820,6 @@ Patrick smiled—a real smile this time. "Yeah. Pie is good strategy."
 
 ### Part 9: The Safe House
 
-# The Institution
-
-## Location: 168 Hermitage Road, Staunton (Annex), Virginia Time: 2:30 PM
-
 The transition from the highway to the country road was like stepping out of a noisy factory and into a library.
 
 Tom slowed the van as they wound their way down Hermitage Road. The rigid geometry of the government complex was replaced by the chaotic, organic beauty of the Shenandoah Valley. Massive oak trees arched over the road. White fences lined the pastures.
@@ -903,7 +856,6 @@ Patrick blinked, his guard dropping an inch. "Hi, Aunt Sherry."
 
 "I have pie," Sherry declared, as if pie was the universal solvent for bureaucracy. "Cherry. And I bought the good vanilla ice cream. Come on."
 
-## The Kitchen
 
 The farmhouse kitchen was the anti-Roosevelt.
 
@@ -935,7 +887,6 @@ Nichole felt a lump form in her throat. But this time, it wasn't fear. It was va
 
 She tapped her armrest. *Safe.*
 
-## The Pasture
 
 After the pie, they went outside to the back porch.
 
@@ -994,10 +945,6 @@ She reached for her VocaLink.
 "Damn right," Sherry smiled. "Vermont or bust."
 
 ### Part 10: The Pasture
-
-# The Institution
-
-## Location: The Lower Field, 168 Hermitage Road Time: 3:30 PM
 
 The afternoon sun began to dip, casting long, golden shadows across the Shenandoah Valley. The heat broke, replaced by a gentle breeze coming off the Blue Ridge that smelled of clover and damp earth.
 
@@ -1079,10 +1026,6 @@ They stayed there until the fireflies started to blink in the tall grass, surrou
 
 ### Part 11: The War Council
 
-# The Institution
-
-## Location: The Kitchen / Living Room, 168 Hermitage Road Time: 6:30 PM
-
 Dinner was a restoration ritual.
 
 Aunt Sherry didn't believe in "light suppers." She believed in caloric reinforcement. The massive oak table was groaning under the weight of the spread: skillet-fried chicken with a batter so crisp it shattered when you bit it, pole beans simmered with ham hocks, mountains of mashed potatoes with a butter-yellow well in the center, and a basket of buttermilk biscuits that were still steaming.
@@ -1119,7 +1062,6 @@ Patrick stood up. He didn't look at the door frame. He didn't ask for a kitchen 
 
 "Ready?" Patrick murmured.
 
-## The Carry
 
 To an outsider like Sherry, the logistics seemed impossible. Lifting a ninety-pound teenager with dead-weight legs usually required equipment, slide boards, or two people.
 
@@ -1151,7 +1093,6 @@ When they came back out—Patrick carrying her back to the sofa—Sherry was wai
 
 Patrick gently deposited Nichole onto the pull-out sofa bed. She sank into the flannel sheets, wearing the oversized shirt, looking tired but completely safe.
 
-## The Strategy Session
 
 Once everyone was settled—Tom and Ellen with coffee, the twins resting on the pull-out bed—Ellen dumped her purse onto the coffee table.
 
@@ -1220,10 +1161,6 @@ She looked at Patrick.
 "Then it's settled," Tom said, slapping the table. "We rest tonight. Tomorrow, we retreat to VB. Wednesday, the crusade begins."
 
 ### Part 12: The Nest
-
-# The Institution
-
-## Location: The Living Room, 168 Hermitage Road Time: 10:00 PM
 
 The farmhouse settled into the night.
 
@@ -1295,10 +1232,6 @@ The Bennett Machine powered down for the night, safe in the valley, ready to ris
 
 ### Part 13: The Night Watch
 
-# The Institution
-
-## Location: The Living Room, 168 Hermitage Road Time: 3:14 AM
-
 The vibration woke him first.
 
 It wasn't a spasm. It wasn't the rhythmic kick of Nichole’s legs fighting a dream. It was a high-frequency trembling, like a hummingbird trapped in the flannel sheets.
@@ -1365,10 +1298,6 @@ She drifted back to sleep, held tight by her brother and guarded by a farm cat w
 
 ### Part 14: The Morning Report
 
-# The Institution
-
-## Location: The Living Room / Kitchen, 168 Hermitage Road Time: 8:45 AM
-
 The sun was already high, cutting through the sheer curtains and warming the dust motes dancing in the air.
 
 Sherry came down the stairs first, tying the sash of her robe. She moved quietly, intending to check on the "refugees," but stopped at the bottom step.
@@ -1403,7 +1332,6 @@ Ellen looked at the cat, then at her daughter. "Good kitty," she murmured.
 
 Sherry clapped her hands together—softly, but with purpose. "Right. Emotional hangovers require grease and carbohydrates. I'm starting the bacon. Don't you wake them until you smell the coffee."
 
-## The Reboot
 
 It took another twenty minutes for the smell of frying hickory-smoked bacon to penetrate the fortress of the sofa bed.
 
@@ -1435,7 +1363,6 @@ Patrick brushed her hair, trying to smooth out the bedhead with his fingers sinc
 
 "Good enough for government work," Patrick muttered, looking at their reflection in the small mirror. They looked like they’d been in a fight. Which, in a way, they had.
 
-## The Fueling Station
 
 When they emerged from the bathroom, the kitchen table was transformed.
 
@@ -1461,10 +1388,6 @@ She tapped the table.
 
 ### Part 15: The Pivot
 
-# The Institution
-
-## Location: 168 Hermitage Road to Virginia Beach Time: 10:00 AM
-
 The goodbye was short, loud, and full of carbohydrates.
 
 Sherry packed them a "road ration"—a tin of leftover biscuits and four apples from her tree. She stood by the open driver's side door, leaning in to look at Tom.
@@ -1483,7 +1406,6 @@ She looked at Nichole. "Write the book, kid. Send me the first copy."
 
 Tom put the van in gear. As they pulled out of the gravel driveway, Patrick looked back. Sherry was standing on the porch, flanked by Buster and Scout, waving a dishrag like a battle flag.
 
-## The Rearview Mirror
 
 The drive east on I-64 felt different than the drive west.
 
@@ -1501,7 +1423,6 @@ Then, the exit blurred past. They kept moving. 65 miles per hour. 70.
 
 "Good riddance," Ellen said from the front seat, not even looking at the exit.
 
-## Home Base Location: The Bennett Home, Virginia Beach Time: 1:30 PM
 
 Pulling into their own driveway felt like docking a ship after a storm.
 
@@ -1517,7 +1438,6 @@ They went to their bathroom. It was a chaotic sanctuary. The roll-in shower was 
 
 Patrick helped her transfer. The water hit them—hot and strong. They washed off the sweat of the drive, the smell of the farm, and the lingering, greasy film of Mr. Swayne’s condescension.
 
-## The Dream Scenario Time: 4:00 PM
 
 Clean, fed, and wearing fresh clothes, they sat on the King-sized bed in their room.
 
@@ -1529,7 +1449,6 @@ It was heavy stock paper. Glossy. Expensive. And it spoke a completely different
 
 Patrick traced the text on page four.
 
-## "The Center for Academic Support"
 
 - Universal Design for Learning (UDL)
 
@@ -1576,10 +1495,6 @@ He stood up and grabbed his duffel bag, moving with a renewed energy.
 ## Virginia Dominion University
 
 ### Part 1: The Thirteen-Hour Problem
-
-# Virginia Dominion University
-
-## Date: June 18, 2003 Time: 10:00 AM Location: 1850 Delaney Street, Virginia Beach, VA
 
 The Fortress was quiet.
 
@@ -1639,7 +1554,6 @@ WANT. NORMAL.
 
 "A massive, regular old state school," Patrick said. "One that's so big, they don't have the time to micromanage our living arrangements. One that's close to home. Like Virginia Dominion."
 
-## Virginia Dominion University (VDU)
 
 It was the local giant. Located in Norfolk, a mere twenty-minute drive from their driveway. It was a sprawling, urban campus with Division I sports, rowdy fraternities, and a massive English department. It wasn't "special." It was the definition of average, chaotic college life.
 
@@ -1681,10 +1595,6 @@ Okay, Vermont, she thought. You have one chance. Beat "Normal."
 
 ### Part 2: Home Field Advantage
 
-# Virginia Dominion University
-
-## Date: June 19, 2003 Time: 1:00 PM Location: En route to Virginia Dominion University, Norfolk, VA
-
 The drive to Virginia Dominion University didn't require a map. It didn't require a navigation spreadsheet. It was written into the Bennetts' muscle memory.
 
 They merged off I-264 at Exit 11B, the familiar concrete ramp depositing them onto Brambleton Avenue.
@@ -1715,7 +1625,6 @@ Tom pulled the van into the garage entrance. The clearance bar read 8' 2".
 
 "Plenty of room," Tom noted. He swiped his credit card and parked on the ground level, right next to the elevator.
 
-## The Arrival
 
 Patrick unloaded Nichole. The air in the parking garage was hot and smelled of car exhaust and river water—the signature scent of Norfolk in June.
 
@@ -1744,10 +1653,6 @@ GOOD. START.
 They joined the group, rolling into the cool air of the lobby, just another set of prospective students checking out the local giant.
 
 ### Part 3: The Roll Call
-
-# Virginia Dominion University
-
-##  Location: The Welcome Center Lobby, Vanguard Convocation Center Time: 1:15 PM
 
 The lobby of the Welcome Center was an atrium of glass and school spirit. Banners hung from the ceiling in blue and silver. A massive bronze statue of the school mascot—a Lion wearing a crown—stood guard near the elevators.
 
@@ -1825,10 +1730,6 @@ NORMAL.
 
 ### Part 4: The Tower of Words
 
-# Virginia Dominion University
-
-## Location: Batten Arts & Letters (The BAL), 45th St & Hampton Blvd Time: 1:30 PM
-
 "Okay, hydrate!" Megan commanded, uncapping her water bottle. "We are crossing the desert."
 
 The group moved out of the Welcome Center and headed north along Hampton Boulevard. The Virginia heat hit them like a physical blow—humid, heavy, and smelling of hot asphalt.
@@ -1843,7 +1744,6 @@ Instead of going to the main front doors which had heavy foot traffic, Megan led
 
 Patrick pushed Nichole up the grade. It was steep but manageable. He hit the handicap door button with his hip, and the doors swung open, blasting them with frigid, conditioned air.
 
-## The Split Level
 
 They entered a wide, tiled hallway. To their left was a small coffee bar, currently shuttered for the summer, a metal grate pulled down over the espresso machine. Across the hall was a large tiered lecture hall, its doors propped open to reveal rows of empty seats waiting for the fall semester.
 
@@ -1871,7 +1771,6 @@ The gate unlocked. They rolled out.
 
 "Functional," Patrick noted. "Beats a ramp."
 
-## The Elevator Squeeze
 
 "Alright," Megan gathered the group in the main lobby. "Now we head to the summit. Creative Writing is on the 8th floor. The elevators here serve floors 1 through 9."
 
@@ -1895,7 +1794,6 @@ The elevator lurched upward. It was hot, smelling of old motor oil and decades o
 
 "This is tight," Patrick whispered to Nichole. "But it works."
 
-## The Eighth Floor
 
 Ding.
 
@@ -1933,10 +1831,6 @@ MY. FLOOR.
 
 ### Part 5: The Sanctuary
 
-# Virginia Dominion University
-
-## Location: Batten Arts & Letters (BAL) to Perry Library Time: 1:50 PM
-
 "Going down!" Megan announced, pressing the call button in the 8th-floor lobby.
 
 The elevator system, true to its vintage nature, only sent one car. The doors slid open with a rattle.
@@ -1953,7 +1847,6 @@ The second elevator arrived.
 
 "Our turn," Patrick said. He rolled Nichole in, backed her into the corner, and they rode the rattling box down eight stories.
 
-## The Heat Wave
 
 They met Megan in the ground floor lobby. Instead of heading back toward the split-level stairs and the slow platform lift, Megan pointed to the double doors on the right wall.
 
@@ -1975,7 +1868,6 @@ He took a long, desperate swig of the ice water. He handed the bottle to Nichole
 
 They reached the utilitarian side entrance of Perry Library. Megan swiped her student ID to unlock the door (a Summer Session security protocol) and held it open.
 
-## The Cool Zone
 
 They rolled inside.
 
@@ -2015,10 +1907,6 @@ GOOD. LIBRARY.
 
 ### Part 6: The Life Sciences Hub
 
-# Virginia Dominion University
-
-## Location: Mills Godwin Life Sciences Building (MGSB) Time: 2:10 PM
-
 "Okay, brave the heat one more time!" Megan called out, pushing open the library doors.
 
 They stepped back into the blast furnace of the afternoon sun. Thankfully, the walk was short. Just to the left of the library stood the Mills Godwin Life Sciences Building—a massive, concrete structure that screamed "1970s Science."
@@ -2037,7 +1925,6 @@ He steered Nichole to the left. The ramp was long and had a switchback, but it w
 
 "Good grip," Patrick noted as his shoes held traction on the textured concrete. He pushed her up the incline, meeting the rest of the group at the top landing just as Megan held the heavy glass door open.
 
-## The Lecture Hall
 
 They spilled into the main lobby. It was a cavernous space with terrazzo floors and brick walls, smelling faintly of formaldehyde and floor cleaner.
 
@@ -2075,10 +1962,6 @@ Nichole straightened in her chair. The train.
 
 ### Part 7: The Magic Carpet
 
-# Virginia Dominion University
-
-## Location: The Sciences Quad to Webb University Center Time: 2:30 PM
-
 "Back down the ramp, folks!" Megan chirped. "Watch your step, and watch your wheels."
 
 They exited the Mills Godwin Building the same way they came in, retracing their path down the long concrete switchback. Patrick controlled the descent carefully, using his body weight to keep the heavy chair from picking up too much speed.
@@ -2103,7 +1986,6 @@ Running straight through the heart of the campus, cutting between the buildings 
 
 "And this," Megan said, stopping dramatically in the shadow of the guideway, "is the future."
 
-## The Maglev
 
 They arrived at the construction site for the Webb University Center Station. The station itself was a shell of concrete and steel, still surrounded by orange construction fencing and "DANGER: HARD HAT AREA" signs. But the track was continuous.
 
@@ -2123,7 +2005,6 @@ She pointed to the station platform above them, accessible by a dedicated elevat
 
 "They're running final tests now," Megan said confidently. "Grand Opening is scheduled for this Fall Semester. So if you guys enroll for next year, you’ll be the inaugural class of commuters."
 
-## The Vision
 
 Nichole stared at the track.
 
@@ -2159,10 +2040,6 @@ FAST. TRACK.
 
 ### Part 8: The Hub
 
-# Virginia Dominion University
-
-## Location: Webb University Center Time: 2:45 PM
-
 "Okay, leaving the future, heading to the present!" Megan announced, leading them away from the Maglev construction site.
 
 They followed the wide concrete path toward the center of campus. To their right, the University Quad opened up—a massive green lawn anchored by a large, brutalist concrete fountain that was currently dry for cleaning.
@@ -2173,7 +2050,6 @@ While the main stairs led up to the second floor, a long, gentle ramp hugged the
 
 "This is Webb University Center," Megan said as they rolled through the automatic doors. "Or just 'Webb.' This is the living room of the campus."
 
-## The Feeding Frenzy
 
 They entered directly into the main food court. Even in the summer, it was buzzing with activity—summer school students, staff, and construction workers grabbing lunch. The smell was an intoxicating mix of fryer grease, coffee, and baking bread.
 
@@ -2197,7 +2073,6 @@ She lowered her voice slightly, acting like she was sharing a secret.
 
 "There’s also The Norfolk Room tucked away in the back. That’s where the professors eat. It’s got tablecloths. Don't go in there unless you’re invited by a Dean."
 
-## The Logistics Check
 
 As the tour group admired the food options, Nichole felt a familiar, sharp pressure in her lower abdomen. The combination of the heat, the water she’d chugged at the library, and the stress of the day had caught up with her.
 
@@ -2227,7 +2102,6 @@ Megan paused, her brow furrowing as she mentally scanned the building layout. Si
 
 "Perfect," Patrick said. "Catch up with you in ten."
 
-## The Field Expedient
 
 Patrick rolled Nichole briskly away from the tour group, past the closed doors of Cafe 1201, and down the quiet carpeted hallway designated for faculty dining.
 
@@ -2249,7 +2123,6 @@ She tapped her armrest.
 
 BETTER.
 
-## The Tech Check
 
 They exited the restroom, rejoining the world.
 
@@ -2271,10 +2144,6 @@ READY.
 
 ### Part 9: The Dealbreaker
 
-# Virginia Dominion University
-
-## Location: Webb University Center (Back Exit) to Dominion Hall Time: 3:15 PM
-
 "Okay, last stop!" Megan chirped. "Freshman Housing."
 
 She led them to the rear exit of Webb Center. Unlike the wide, automatic sliding doors at the front, this was a heavy metal door that opened onto a concrete ramp that looked like it had been poured in 1975 and forgotten.
@@ -2287,7 +2156,6 @@ The ramp was technically compliant, but barely. It was narrow—maybe thirty-two
 
 They survived the descent and crossed a patch of hot pavement to Dominion Hall, a mid-rise brick building that housed the incoming freshman class.
 
-## The Model Room
 
 They gathered in the lobby, which smelled of industrial cleaner and stale popcorn. Megan used her master key to open the door to Room 104—the "Model Suite."
 
@@ -2323,7 +2191,6 @@ Megan’s smile faltered for the first time. She blinked.
 
 Megan bit her lip. "I don't think Housing allows co-ed suites for freshmen. Even for siblings. Liability issues. You'd probably have to hire a female PCA to stay with her, or she'd be assigned a female roommate who... well, random roommates aren't trained for care."
 
-## The Verdict
 
 The air in the room went still. The other parents looked awkward, staring at the linoleum.
 
@@ -2367,10 +2234,6 @@ She was ready for Vermont. Because now she knew exactly what "Normal" looked lik
 
 ### Part 10: The Retreat
 
-# Virginia Dominion University
-
-## Location: VDU Campus to 43rd Street Parking Garage Time: 3:45 PM
-
 "Alright, nobody melts on my watch," Megan announced, wiping a bead of sweat from her forehead. "We are taking the scenic—and air-conditioned—route back."
 
 She led the group away from the dorms, cutting across the quad and heading straight back toward the fortress of Batten Arts & Letters.
@@ -2391,7 +2254,6 @@ The lift rose slowly, inching them up the four-foot rise while the rest of the t
 
 They exited the lift, rolled past the shuttered coffee bar, and pushed through the heavy doors of the BAL Addition.
 
-## The Final Stretch
 
 They emerged onto the corner of Hampton Boulevard and 45th Street. The rush hour traffic was starting to pick up—a steady stream of cars, city buses, and trucks rumbling down the four-lane artery.
 
@@ -2411,7 +2273,6 @@ They made it to the cool, concrete shade of the 43rd Street Parking Garage.
 
 "Good luck with Engineering," she smiled. "And Creative Writing," she added, nodding to Nichole.
 
-## The Transfer
 
 They arrived at the van. It was sitting in the shadows of the ground level, a hulking silver beast waiting to take them home.
 
@@ -2451,7 +2312,6 @@ Nichole nodded against his shirt. She was out of the chair. She was just a siste
 
 HOME.
 
-## The Debrief
 
 Tom pulled the van out of the garage and turned right onto 43rd Street, heading back toward the water.
 
@@ -2481,10 +2341,6 @@ Bring it on, Vermont.
 
 ### Part 1: The Peninsula Run
 
-# Trek Up the East Coast
-
-## Date: July 1, 2003 Time: 6:00 AM Location: 1850 Delaney Street, Virginia Beach, VA
-
 The expedition began in the blue-gray light of dawn.
 
 The Liberty Trekker sat in the driveway, its suspension compressed under the weight of luggage, a cooler full of sandwiches, and the heavy, purple power chair locked into the passenger position.
@@ -2499,7 +2355,6 @@ Ellen sat in the front passenger seat. She didn't need a map. They had done the 
 
 "We are avoiding D.C. at all costs," Ellen declared, checking her watch. "If we hit the Beltway at 9:00 AM, we lose three hours. We take the Shore."
 
-## The Chesapeake Bay Bridge-Tunnel Time: 6:45 AM
 
 They turned onto Northampton Boulevard and headed straight for the ocean.
 
@@ -2514,10 +2369,6 @@ The road dipped. The daylight vanished. They plunged into the mile-long tube of 
 Nichole loved this part. It felt like traveling through a portal. On one side was Virginia Beach, the "System," and the humidity. On the other side was the Delmarva Peninsula and the road to the future.
 
 ### Part 2: The Delaware Trap
-
-# Trek Up the East Coast
-
-## The Ferry Decision Date: July 1, 2003 Time: 10:45 AM Location: US-113 Northbound, approaching Georgetown, Delaware
 
 The Liberty Trekker was cruising north on US-113, a four-lane divided highway cutting through the heart of Sussex County. To their left and right were endless flat fields of soybeans and corn.
 
@@ -2559,7 +2410,6 @@ She tapped her screen.
 
 "That's my girl," Tom grinned, checking his speedometer. "We'll be eating burgers in Jersey by 1:00."
 
-## Time: 10:30 AM Location: Dover, Delaware
 
 The drive up the Eastern Shore of Maryland (US-113) was a blur of chicken trucks, flat cornfields, and speed traps in towns like Pocomoke City.
 
@@ -2577,9 +2427,7 @@ Tom merged onto SR-1. The road smoothed out instantly. They picked up speed, cru
 
 "Don't get too comfortable," Tom warned. "We still have the Canal."
 
-## The Bottleneck
 
-## Time: 11:45 AM Location: The C&D Canal, St. Georges, DE
 
 The smooth sailing of SR-1 hit reality at the Chesapeake & Delaware Canal.
 
@@ -2616,10 +2464,6 @@ Nichole tapped her screen.
 "Yep," Patrick smiled, settling back into his seat. "Hello, New Jersey."
 
 ### Part 3: The New Jersey Layover
-
-# Trek Up the East Coast
-
-## Date: July 1, 2003; Time: 2:15 PM; Location: John Fenwick Service Area, New Jersey Turnpike (Northbound)
 
 The transition from Delaware to New Jersey was marked by the massive twin steel arches of the Delaware Memorial Bridge. As the Liberty Trekker crested the span and descended the other side, they landed on the New Jersey Turnpike.
 
@@ -2685,7 +2529,6 @@ The roar of the crowd dulled to a distant, underwater hum. The chaos was still t
 
 She pointed to the door. *Let’s eat.*
 
-## The Fueling Station
 
 They rolled back into the food court. With her ears protected, Nichole navigated the crowd like a pro, weaving through the lines of people.
 
@@ -2699,7 +2542,6 @@ Nichole took a bite of the burger. It was salty, fatty, and perfect. She ate wit
 
 Nichole gave a thumbs up, her mouth full. This was better than a quiet picnic table. This was traveling.
 
-## The Full Service Shock
 
 Twenty minutes later, fed and hydrated, they loaded back into the van.
 
@@ -2745,7 +2587,6 @@ Tom rolled up the window.
 
 "Okay," Tom said. "Tank full. Next stop: Highland Park."
 
-## Date: July 1, 2003 (Tuesday - Two days before the Putney Open House) Time: 3:30 PM Location: New Jersey Turnpike (Northbound near Exit 6)
 
 They merged back onto the highway. For the first twenty miles, it was the same two-lane road they had entered on.
 
@@ -2771,7 +2612,6 @@ Suddenly, the menacing wall of semi-trucks vanished. They were speeding along a 
 
 Nichole looked out the window at the trucks trapped on the other side of the wall. She tapped her armrest. *Smart.*
 
-## Date: July 1, 2003 (Tuesday - Two days before the Putney Open House) Time: 4:00 PM Location: 17 South 10th Ave, Highland Park, New Jersey
 
 The first leg of the trip north took seven and a half hours. By the time the Bennett van pulled onto South 10th Avenue in Highland Park, Nichole’s legs were vibrating with spasticity from the relentless road vibration.
 
@@ -2826,10 +2666,6 @@ Nichole looked at the campus through the van window. It looked huge. It looked r
 "Six hours is nothing," Patrick said, reaching over to squeeze Nichole's hand as they rolled into the hotel parking lot. "We can do six hours."
 
 ### Part 4: The Machine at Rest
-
-# Trek Up the East Coast
-
-## Date: July 1, 2003 Time: 6:45 PM Location: A Highway Hotel, New Brunswick, New Jersey
 
 Aunt Carol’s sedan led the way down State Route 27, her taillights glowing red in the dusk as the heavy Bennett van followed closely behind.
 
@@ -2893,13 +2729,10 @@ With Patrick’s arm around her and his steady heartbeat against her back, she w
 
 ### Part 5: The Hopeful Morning
 
-# Trek Up the East Coast
-
 Date: July 2, 2003
 
 Time: 6:00 AM
 
-Location: Hotel, New Brunswick, New Jersey
 
 The red digits on the hotel alarm clock clicked over to 6:00 AM, and the buzzer blared—a harsh, rhythmic noise that cut through the silence of the accessible king suite.
 
@@ -2975,13 +2808,10 @@ Patrick wiped a crumb from Nichole’s chin and stood up. He grabbed the push ha
 
 ### Part 1: The Green Mountain Haul
 
-# Vermont
-
 Date: July 2, 2003
 
 Time: 2:00 PM
 
-Location: I-91 North (Crossing the Massachusetts/Vermont Line)
 
 The transition was subtle at first, then undeniable. The grey industrial sprawl of the New Jersey Turnpike and the congested loops of the New York State Thruway had given way to something greener, cleaner, and infinitely more open.
 
@@ -3061,13 +2891,8 @@ The machine was powered down and ready to recharge overnight.
 
 ### Part 2: Putney College Open House
 
-# Vermont
-
-## Date: July 3, 2003
-
 Time: 8:00 AM
 
-Location: Putney College, Putney, Vermont
 
 The morning air in Vermont was crisp, lacking the heavy, wet humidity of a Virginia summer. It felt like a fresh start.
 
@@ -3131,7 +2956,6 @@ Nichole grunted a soft affirmative, her eyes shining. *Yes. Perfect.*
 
 They headed toward the breakout room, riding a high of absolute hope, ready to experience their very first college class.
 
-## Strike One: The Observation Zone Time: 10:15 AM Location: The Mock Seminar Room
 
 "Alright," the breakout coordinator announced. "Prospective students, we’re going to do a mock English seminar so you can get a feel for our classroom dynamic! Parents, you can observe from the back."
 
@@ -3213,11 +3037,9 @@ Patrick stood up. He looked at the Professor.
 
 He didn't wait for a response. He grabbed his notebook, pulled Nichole's chair away from the table entirely, and rolled her to the very back of the room, leaving the Professor blinking at the empty space.
 
-## Strike Two: The Executive Decision
 
 Time: 11:00 AM
 
-Location: Office of Disability Services
 
 The transition from the mock seminar to the Disability Office was quiet. The office was spacious, carpeted, and air-conditioned to a frigid temperature.
 
@@ -3299,11 +3121,9 @@ He didn't know what it was called yet. He didn't know if it was a degree or a li
 
 Patrick unlocked the brakes on the Titan. He didn't say goodbye to Dr. Aris. He just pushed his CEO out of the office, leaving the Director to sit in the silence of her own incompetence.
 
-## Strike Three: The Twin XL
 
 Time: 11:45 AM
 
-Location: North Hall Dormitory
 
 The walk from the Disability Office to the dorms was silent. Patrick pushed the Titan AeroMotion with a rigid, mechanical intensity. Ellen and Tom walked on either side, like a phalanx protecting a VIP.
 
@@ -3371,11 +3191,8 @@ He didn't wait for permission. He pulled back on the handles, spinning the Titan
 
 ### Part 3: The Drive Back
 
-# Vermont
-
 Time: 12:15 PM
 
-Location: The Van (Leaving Putney)
 
 They moved fast across the parking lot. Patrick wasn't pushing casually; he was marching. He wanted her away from this place. He wanted her away from the people who saw her as a liability and him as a threat.
 
@@ -3476,10 +3293,6 @@ That was her sanctuary now. Not the college.
 The Bennett van drove south through the blinding rain, a mobile fortress protecting a broken heart, carrying them away from the future they thought they wanted and back to the only safety they knew.
 
 ### Part 4: The Fuel Stop
-
-# Vermont
-
-## Date: July 3, 2003 Time: 6:30 PM Location: Hotel, Brattleboro, Vermont
 
 The drive back to Brattleboro was a blur of gray rain and windshield wipers.
 
@@ -3621,12 +3434,6 @@ The lights went out. The rain continued to fall in the Vermont dark, but inside 
 
 ### Part 1: The New Jersey Pivot
 
-# An Ocean of an Idea
-
-## Date: July 4, 2003 Time: 8:00 AM Location: Hotel, Brattleboro, Vermont
-
-## Time: 9:30 AM Location: I-91 South
-
 The drive south was a study in geographical transitions. They left the pastoral, rolling hills of Vermont and cut through the western edge of Massachusetts.
 
 Tom navigated the heavy van with precision. Instead of taking the crowded interstates all the way down, he jumped onto Connecticut Route 15—the Merritt Parkway. The tree-lined, winding road with its historic stone overpasses was a smoother, quieter ride for Nichole’s back than the jarring, potholed expressways.
@@ -3643,7 +3450,6 @@ Patrick looked out the window at the steel girders of the Tappan Zee. It reminde
 
 They crossed into Rockland County, hugging the state line before finally merging onto the Garden State Parkway.
 
-## Time: 3:45 PM Location: The Garden State Parkway, New Jersey
 
 The Parkway was pure New Jersey—fast, flat, and aggressive. Tom drove the speed limit, ignoring the honks of the locals as they sped toward Exit 130.
 
@@ -3763,7 +3569,6 @@ Nichole looked out the window. The skyline of Raritan State University dominated
 
 It was institutional. It was enormous. And, most importantly, it was completely flat.
 
-## Time: 4:30 PM Location: The Hotel, New Brunswick, New Jersey
 
 Tom pulled the van into the familiar parking lot of the highway hotel.
 
@@ -3795,7 +3600,6 @@ Nichole sat in her chair, listening to her aunt rattle off the logistics. She lo
 
 This wasn't a fairy tale college in the woods. This was a machine. And the Bennetts knew how to operate machines.
 
-## **The Credential Hunt** **Date:** July 1, 2003 **Time:** 5:15 PM **Location:** Room 112, The Hotel, New Brunswick, NJ
 
 Patrick sat on the edge of the king-sized bed, his elbows resting on his knees, staring at the carpet. The relief of the accessible hotel room was tempered by the lingering sting of the rejection from Putney College.
 
@@ -3941,10 +3745,6 @@ He closed the laptop lid.
 
 ### Part 2: The Juggernaut
 
-# An Ocean of an Idea
-
-## Date: July 5, 2003 (Saturday) Time: 10:00 AM Location: Raritan State University, New Brunswick, New Jersey
-
 The fog of the previous day had burned off, leaving behind a brilliant, sunny Saturday.
 
 Nichole sat in the purple Titan AeroMotion outside the Raritan State University Welcome Center, soaking in the July heat. She hadn't seen a single firework on the Fourth of July, and she didn't care. The sky in New Jersey was clear, the ground was flat, and Vermont was officially three hundred miles in the rearview mirror.
@@ -3969,7 +3769,6 @@ For accessibility, it was an industrial dream. The sidewalks were twelve feet wi
 
 Nichole made a soft, agreeable *hummm*. She liked the energy. It felt alive.
 
-## Time: 11:15 AM Location: The Quad Residence Halls
 
 The tour arrived at the housing stop. They stood in the lobby of a massive, twelve-story brick tower.
 
@@ -4001,7 +3800,6 @@ Patrick looked down at her, surprised by her calm. He let out a breath he didn't
 
 The tour ended amicably twenty minutes later at the campus center. Nichole waved goodbye to Brian, who waved back.
 
-## Time: 12:30 PM Location: US-1 South, New Brunswick
 
 They met Aunt Carol back at the parking garage.
 
@@ -4038,10 +3836,6 @@ They unloaded the chair. Nichole rolled toward the diner, the smell of griddle s
 But as Patrick pushed her up the ramp into the diner, his heavy footsteps matching the roll of her wheels, she knew they still had the most important thing. They still had the machine. And they would find a place for it, even if they had to build it themselves.
 
 ### Part 3: The Diner Debrief
-
-# An Ocean of an Idea
-
-## Date: July 5, 2003 Time: 1:15 PM Location: The Edison Diner, US-1 South, New Jersey
 
 The chrome diner was packed, smelling of coffee, Taylor pork roll, and griddle grease. The Bennetts and Aunt Carol were tucked into a large, accessible corner booth.
 
@@ -4135,10 +3929,6 @@ They clinked their mugs and glasses together over the plate of half-eaten pancak
 
 ### Part 4: The Ocean State Option
 
-# An Ocean of an Idea
-
-## Date: July 5, 2003 Time: 1:35 PM Location: The Edison Diner, US-1 South, New Jersey
-
 The table was quiet for a moment, the Virginia plan solidifying in the diner air. Patrick was already folding up his napkin map, and Tom was reaching for the check. The tour was over.
 
 "Wait," Carol said, putting her hand over Tom’s wallet. "Don't pay yet."
@@ -4216,10 +4006,6 @@ Nichole let out a loud, joyous laugh—a bubbling, throaty sound that made a few
 "Alright," Patrick grinned, putting his napkin map in his pocket. "Next stop, Narragansett Bay. Let's go see the water."
 
 ### Part 5: The Ocean State Arrival
-
-# An Ocean of an Idea
-
-## Date: July 5, 2003 Time: 8:45 PM Location: The Bayside Hotel, Newport, Rhode Island
 
 The drive up I-95 from New Jersey was a blur of exhaustion and sudden, renewed adrenaline. They crossed the state line from Connecticut into Rhode Island as the sun was setting, the sky bruising a deep purple over the Atlantic.
 
@@ -4323,10 +4109,6 @@ Nichole reached for her cup of soda on the tray. Patrick helped her lift it. The
 
 ### Part 1: The Holy Cow
 
-# The Commuter Loop
-
-## Date: July 6, 2003 Time: 7:30 AM Location: BayFront Creamery, West Main Road, Middletown, Rhode Island
-
 The morning air on Aquidneck Island was cool, carrying a dense, salty fog that rolled off the Narragansett Bay.
 
 Tom pulled the van into the crowded parking lot of the BayFront Creamery on West Main Road in Middletown. The building was an unpretentious, single-story brick diner with a teal awning—the absolute heart of local morning life.
@@ -4413,10 +4195,6 @@ They devoured the rest of the Holy Cow, the heavy diner food providing the exact
 
 ### Part 2: The Gateway Connection
 
-# The Commuter Loop
-
-## Date: July 6, 2003 Time: 8:45 AM Location: West Main Road, Middletown, Rhode Island
-
 The morning fog was beginning to burn off, revealing a bright, hazy blue sky.
 
 Patrick and Nichole waited at the bus stop outside the BayFront Creamery. It was just a simple pole stuck in the grass with a blue and white OSTA (Ocean State Transit Authority) sign. There was no shelter, and the sidewalk was narrow, but the curb cut was decent.
@@ -4471,7 +4249,6 @@ Nichole looked out the window. She felt a surge of pride. She was on a public bu
 
 The ride into Newport was short and scenic. They passed historic colonial homes, leafy avenues, and glimpses of the harbor.
 
-## Time: 9:15 AM Location: Gateway Center, Newport, Rhode Island
 
 The bus pulled into Gateway Center, the main intermodal hub for Newport. It was a bustling brick plaza filled with tourists, commuter buses, and the smell of saltwater.
 
@@ -4501,10 +4278,6 @@ Patrick grinned. He pulled out the second roll of quarters from his pocket.
 
 ### Part 3: The Sea Gate
 
-# The Commuter Loop
-
-## Date: July 6, 2003 Time: 9:35 AM Location: Narragansett Bay, Aboard the Newport Flyer
-
 Neither Patrick nor Nichole had ever been on a ferry before.
 
 They bought their tickets at the Perrotti Park booth, handing over thirty-two heavy quarters. The ticket agent didn’t blink. He just printed two receipts and waved them toward the gangway.
@@ -4523,7 +4296,6 @@ Nichole’s eyes were wide. The sensation was incredible. It wasn't the rattling
 
 For thirty minutes, the world was just blue water, salty wind, and the hum of the boat. It felt like flying.
 
-## Time: 10:05 AM Location: Approaching Braxton, Rhode Island
 
 "Look at that," Patrick whispered, pointing out the front windows.
 
@@ -4562,10 +4334,6 @@ She looked at Patrick. A huge, unfiltered smile broke across her face. She hit t
 They rolled through the automatic glass doors of the station, leaving the harbor wind behind and stepping into their future.
 
 ### Part 4: The Bull Run
-
-# The Commuter Loop
-
-## Date: July 6, 2003 Time: 10:20 AM Location: Narraganset Esplanade Station (Level C - The Concourse)
 
 Patrick and Nichole took the massive, glass elevator down from the sunlit plaza to the underground concourse.
 
@@ -4625,10 +4393,6 @@ Nichole didn't just feel accommodated here. She felt prioritized. For the first 
 
 ### Part 5: The Braxton Link
 
-# The Commuter Loop
-
-## Date: July 6, 2003, Time: 10:45 AM, Location: The Bull Run (Beneath BSU Campus)
-
 As they rolled deeper into the network, the sheer scale of the engineering became apparent.
 
 They reached a junction where the sleek, BSU-branded signage of "The Bull Run" transitioned into a standard municipal blue-and-white sign.
@@ -4649,7 +4413,6 @@ He didn't finish the sentence. He didn't have to. The math was already done.
 
 "We need to see that station," Patrick said.
 
-## Time: 11:15 AM Location: Blue Line Metro (Westbound)
 
 They took the massive glass elevator from the Concourse down to Level M (The Deep) at Narraganset Esplanade Station.
 
@@ -4661,7 +4424,6 @@ They rode for ten minutes, the train humming through the dark tunnel.
 
 The doors slid open.
 
-## Location: Foundry Square Station Level: Basement Level 3 (Island Platform)
 
 They rolled out onto a brightly lit island platform. The station was cavernous, with arched concrete ceilings.
 
@@ -4707,10 +4469,6 @@ Nichole looked at the secure door. It was the ultimate barrier against the winte
 
 ### Part 6: The Library Commons
 
-# The Commuter Loop
-
-## Date: July 6, 2003 Time: 10:45 AM Location: The University Library, Braxton State University
-
 They reached the end of *Sub-University Avenue*.
 
 A massive bank of four stainless steel elevators stood at the terminus of the tunnel. There were no stairs. The architecture dictated that everyone—able-bodied or on wheels—entered the library the exact same way.
@@ -4741,7 +4499,6 @@ She turned to Patrick. She made a soft, high-pitched *keening* sound of absolute
 
 "I know," Patrick whispered, looking out at the water, feeling the immense weight of the last four days finally lift off his shoulders. "It's perfect, Nikki."
 
-## Time: 12:45 PM Location: Aboard the Newport Flyer (Return Trip)
 
 Two hours later, they were back on the ferry, cutting across the bay toward Newport.
 
@@ -4763,13 +4520,10 @@ Nichole looked up at him and smiled. She tapped her screen. "HOMEWORK."
 
 ### Part 7: The Debrief
 
-# The Commuter Loop
-
 Date: July 6, 2003
 
 Time: 6:45 PM
 
-Location: The Bayside Hotel, Newport, Rhode Island
 
 The hotel room was cramped but buzzing with energy. The smell of takeout clam chowder hung heavy in the air.
 
@@ -4824,10 +4578,6 @@ Uncle Mark raised his soda bottle. "To the Gap Year. And to The Foundry."
 Patrick turned back to the computer. He didn't close the browser window. He bookmarked it. It wasn't just a rental listing anymore. It was the target.
 
 ### Part 8: The Upgrade
-
-# The Commuter Loop
-
-## Date: July 7, 2003 Time: 11:00 AM Location: CyberWorld Electronics, Bald Hill Road, Warwick, Rhode Island
 
 Bald Hill Road was the commercial artery of suburban Rhode Island—a four-lane stroad lined with car dealerships, strip malls, and big-box retailers.
 
@@ -4951,8 +4701,6 @@ She tapped her VocaLink for the last time that day.
 
 ### Part 1: The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia
 
-# The Gap Year Protocol
-
 The thirteen-hour drive south felt different than the drive north. The crushing weight of the Putney College disaster had been left somewhere in the Green Mountains, replaced by the humming energy of a concrete plan.
 
 Tom pulled the heavy transport van into the driveway at 1850 Delaney Street. The neighborhood was quiet, the Virginia heat radiating off the asphalt. Down the block, Patrick could see the brick façade of Morrison Middle School—the site of the infamous "Curb Trap" of 1996. It was the place where they had first learned that the world was not built for them.
@@ -4988,10 +4736,6 @@ Nichole clicked the scroll wheel on the mouse, nodding. She tapped a newly creat
 Patrick smiled. It was true. For years, the heavy, baritone voice of the VocaLink software—"Digital Dan"—had spoken for her. But on this new machine, Nichole had custom-coded a voice profile that was lighter, faster, and distinctly hers. It didn't sound like a medical device. It sounded like a workstation.
 
 ### Part 2: The Portsmouth Project
-
-# The Gap Year Protocol
-
-## Date: August 12, 2003 Time: 7:00 PM Location: The Kitchen, 1850 Delaney Street, Virginia Beach
 
 The phone on the kitchen wall rang. Ellen picked it up, hearing the distinctive *beep* of a three-way conference call connection.
 
@@ -5060,10 +4804,6 @@ Nichole looked at her parents. She tapped her screen.
 "Copy that," Mark said triumphantly. "West Main Road is waiting for you."
 
 ### Part 3: The Fortress on West Main
-
-# The Gap Year Protocol
-
-## Date: September 1, 2003 Time: 2:30 PM Location: 95 West Main Road, Portsmouth, Rhode Island
 
 The thirteen-hour drive ended not at a college dormitory, but in the driveway of a long, low-slung 1960s brick ranch house.
 
@@ -5161,10 +4901,6 @@ The Bennett Machine was officially docked. The clan was back together, and the G
 
 ### Part 4: The Departure
 
-# The Gap Year Protocol
-
-## Date: September 2, 2003 Time: 8:00 AM Location: 95 West Main Road, Portsmouth, Rhode Island
-
 The morning after the grand reveal was a crash course in logistics. The emotional high of the reunion had settled into the practical reality of adult responsibilities.
 
 The dining room table was covered in real estate listings, moving truck rental quotes, and the Rhode Island yellow pages.
@@ -5254,10 +4990,6 @@ Nichole reached up and patted Mark’s arm. She clicked her mouse.
 Mark laughed, the tension breaking. "Damn right. Now, let's go figure out how to work that fancy new tub."
 
 ### Part 5: The Visitor
-
-# The Gap Year Protocol
-
-## Date: September 28, 2003 Time: 2:15 PM Location: The Driveway, 95 West Main Road, Portsmouth, Rhode Island
 
 The Sunday afternoon was quiet. Outside, the autumn air was turning crisp. Inside the master bathroom of the Bennett Wing, the atmosphere was purely mechanical.
 
@@ -5402,10 +5134,6 @@ Nichole shook her head. She clicked her mouse, her new voice filled with absolut
 "HE. IS. THE. FIREWALL."
 
 ### Part 6: The Hydrostatic Lock
-
-# The Gap Year Protocol
-
-## Date: September 28, 2003 Time: 3:30 PM Location: The Master Bath, The Bennett Wing (First Floor)
 
 The green landscaping van and the unmarked sedans were gone. The driveway was empty again, save for the tire tracks in the gravel. Upstairs, the red light above Uncle Mark’s SCIF door was glowing—a silent signal that the "Firewall" was active and processing the breach.
 
@@ -5605,10 +5333,6 @@ He lifted her back into her chair. The Bennett Machine was serviced, refueled, a
 
 ### Part 7: The Milestone Payment
 
-# The Gap Year Protocol
-
-## Date: October 3, 2003 Time: 10:15 AM Location: 95 West Main Road, Portsmouth, Rhode Island
-
 The real reason Uncle Mark had chosen the ranch on West Main Road wasn't just the zero-step entrance or the proximity to the bus line. It was the roofline.
 
 The house featured an oversized, reinforced second-story loft space that had no shared ductwork with the first floor. It was the perfect architectural footprint to retrofit a SCIF—a Sensitive Compartmented Information Facility.
@@ -5707,10 +5431,6 @@ Patrick laughed, wiping his eyes. "No grocery store for me," he agreed. "Just co
 
 ### Part 8: The Fortress Blueprint
 
-# The Gap Year Protocol
-
-## Date: October 4, 2003 Time: 4:00 PM Location: 95 West Main Road, Portsmouth, Rhode Island
-
 The driveway was officially at capacity.
 
 Tom and Ellen’s heavy transport van sat next to Aunt Carol’s packed sedan. The moving trucks would arrive on Monday, but the people were here. The Virginia Beach house was empty, staged, and under contract. Carol’s New Jersey house was sold. The consolidation was complete.
@@ -5770,10 +5490,6 @@ She tapped her screen.
 "That it is, Nikki," Patrick smiled, looking down at his sister. "Now... we have ten months to get ready for college."
 
 ### Part 9: The Credential Hunt
-
-# The Gap Year Protocol
-
-## **Date:** October 4, 2003 **Time:** 8:30 PM **Location:** The Bennett Wing (Mini-Apartment), 95 West Main Road, Portsmouth, RI
 
 The contractors had gone home for the weekend. The house was quiet, save for the rhythmic *thump-thump* of the dishwasher in the main kitchen where Aunt Carol was cleaning up after dinner.
 
@@ -5891,10 +5607,6 @@ Nichole smiled. She tapped her screen.
 
 ### Part 1: The Commute
 
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 6:15 AM Location: 95 West Main Road, Portsmouth, Rhode Island
-
 The Bennett Machine was officially out of the testing phase. It was time for a live production run.
 
 The heavy, automated interior door of the Bennett Wing swung open. Patrick pushed the Titan AeroMotion down the main hallway, past the glowing, closed elevator doors, and out the front door into the crisp, freezing November air.
@@ -5979,10 +5691,6 @@ She tapped her screen.
 
 ### Part 2: The Concourse Connection
 
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 7:50 AM Location: Narragansett Esplanade Station (Level 1 - Plaza)
-
 Stepping off the ferry dock, the full scale of Narragansett Esplanade Station loomed over them. It didn't look like a train station; it looked like an art museum.
 
 Massive white tensile fabric roofs, shaped like the sails of a racing yacht, soared overhead. The entire facade facing the water was floor-to-ceiling glass. Even in the grey light of a November morning, the building seemed to glow from the inside.
@@ -6055,10 +5763,6 @@ They were inside. The Machine had worked.
 
 ### Part 3: The Call of the Bull
 
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 9:00 AM Location: Grand Ballroom, BSU Student Union (Level 2)
-
 The Grand Ballroom of the Student Union lived up to the university’s reputation for "Universal Design."
 
 In most auditoriums, wheelchair seating was an afterthought—a lonely pen at the very back or a segregated row at the very front that required a special lift key to access. But as Patrick pushed Nichole through the double doors, he saw a different layout.
@@ -6122,10 +5826,6 @@ Patrick stood up. He grabbed the handles of the Titan AeroMotion.
 They rolled into the aisle, merging seamlessly with the flow of students moving toward the future.
 
 ### Part 4: The Mole Lifestyle
-
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 9:15 AM Location: The Braxton Link (Sub-University Avenue) leading to the Tech Core
 
 They didn't have to go outside into the freezing November wind to find the Tech Core.
 
@@ -6194,10 +5894,6 @@ Patrick laughed. "Bennett Dynamics. I like the sound of that."
 The Gap Year wasn't just about learning to ride the bus anymore. It was about prep work. They had found their major. They had found their campus. Now, they just had to get accepted.
 
 ### Part 5: The Commuter Waiver
-
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 10:30 AM Location: Housing & Residence Life Seminar, BSU Student Union
 
 Patrick and Nichole did not need on-campus housing. The thought of two narrow Twin XL beds separated by a chasm of cold linoleum was dead to them.
 
@@ -6269,10 +5965,6 @@ Nichole looked at Patrick.
 
 ### Part 6: The Anti-Sales Pitch
 
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 11:15 AM Location: Financial Aid Seminar, Room 204
-
 The last time Nichole had been in a room talking about tuition, it was with Kyle at TechStream Institute. She remembered the smell of his cheap cologne, the way he looked at her wheelchair like it was an ATM, and his immediate, predatory assumption that she was on SSI. He hadn't seen a student; he had seen a "guaranteed payer."
 
 The BSU Financial Aid seminar was different.
@@ -6335,10 +6027,6 @@ They didn't need a salesman. They needed a spreadsheet. And for the first time, 
 
 ### Part 7: Refueling the Machine
 
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 12:00 PM Location: The Bull Pen (Main Cafeteria), BSU Student Union
-
 They didn't have to brave the cold to find lunch. They simply rolled out of the Financial Aid seminar, took the elevator down to the Concourse Level, and merged into the flow of "The Bull Run"—the student nickname for the campus tunnel network.
 
 The tunnels weren't dark or damp. They were wide, well-lit thoroughfares lined with bulletin boards, student art, and digital displays. Patrick pushed Nichole along the smooth concrete, feeling the difference immediately. On a sidewalk, every crack was a micro-collision. Here, the Titan AeroMotion glided silently.
@@ -6392,10 +6080,6 @@ Nichole took a sip of her soda. She looked at the charging cable connecting her 
 She knew he was right. The Fortress wasn't just their house in Portsmouth anymore. They had found a Fortress that covered an entire peninsula.
 
 ### Part 8: The Bull Run
-
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 1:00 PM Location: The Braxton Link (BSU Campus Concourse)
 
 Outside, the wind coming off Narragansett Bay had whipped up to thirty miles an hour, dropping the wind chill below freezing.
 
@@ -6479,10 +6163,6 @@ She tapped her screen.
 
 ### Part 9: The Credential Check
 
-# The Independent Grid
-
-## **Date:** November 15, 2003 **Time:** 1:30 PM **Location:** University Medical Center (Level 1 Lobby)
-
 After leaving the Student Success Center, Patrick didn't steer them back toward the station. He looked at the campus map one last time.
 
 "One more stop," Patrick said. "We need to verify the medical assets."
@@ -6540,10 +6220,6 @@ Nichole tapped her screen.
 "Damn right," Patrick said. "Let's go home."
 
 ### Part 10: The Detour and The Grid
-
-# The Independent Grid
-
-## **Date:** November 15, 2003 **Time:** 2:15 PM **Location:** The Braxton Link (Sub-University Avenue)
 
 The wind outside had shifted from a brisk autumn chill to a howling gale.
 
@@ -6662,10 +6338,6 @@ Mark smiled. He clapped Patrick on the shoulder.
 "Damn right you did," Mark said. "And your mom has had a pot roast in the oven for five hours just waiting for you two. Let's go eat and do the debrief."
 
 ### Part 11: The Debrief
-
-# The Independent Grid
-
-## Date: November 15, 2003 Time: 6:30 PM Location: 95 West Main Road, Portsmouth, Rhode Island
 
 The dining room table had been extended to its maximum length. Around it sat the entire consolidated Bennett-Reynolds clan: Uncle Mark, Aunt Carol, Grandma Helen (who had taken the elevator down from the second-floor living room), and Patrick and Nichole’s parents, Tom and Ellen.
 

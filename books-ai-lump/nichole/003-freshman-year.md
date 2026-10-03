@@ -9,8 +9,6 @@ series: "Nichole"
 
 ### Part 1: The 5 AM Alarm
 
-# Welcome to Northwood High School
-
 The red digits of the alarm clock clicked from 4:59 to 5:00.
 
 BEEP. BEEP. BEEP.
@@ -71,8 +69,6 @@ Patrick grabbed the push handles. He leaned his weight on them, feeling his bala
 
 ### Part 2: The War Room
 
-# Welcome to Northwood High School
-
 The kitchen was bright, smelling of coffee and burnt toast.
 
 Their mother, Ellen, was already at the counter, frantically packing brown paper sacks. Their father, Tom, was leaning against the refrigerator, nursing a mug of coffee and reading the *Virginian-Pilot*.
@@ -127,10 +123,6 @@ They rolled out the front door into the humid Virginia morning, leaving the safe
 
 ### Part 3: The Soft Trap
 
-# Welcome to Northwood High School
-
-## Date: September 1999 Location: Northwood High School Grade: 9th Grade
-
 The transition to High School was a sensory nightmare. Everything was bigger, louder, and more aggressive. The bells were shrill electronic buzzers. The hallways were mosh pits.
 
 Nichole was in Adapted PE, housed in the Wrestling Room because the padded floors were considered "safer."
@@ -175,7 +167,6 @@ Nikki slammed her fists against her own thighs. She couldn't see the room anymor
 
 Mrs. Hatcher grabbed her walkie-talkie, her voice trembling. "Clinic? This is Hatcher. She's... she's having an episode."
 
-## The Main Gym
 
 Patrick Bennett wiped sweat from his forehead. He was fourteen now, taller, lankier, but with the same watchful eyes. The gym was a cacophony—sneakers squeaking on the high-gloss wood, basketballs thudding against the backboards.
 
@@ -187,7 +178,6 @@ The coach nodded without looking up from his clipboard. "Take the pass. Three mi
 
 Patrick grabbed the wooden pass. He pushed through the heavy double doors, stepping out of the noise of the gym and into the cool silence of the Locker Room Corridor.
 
-## The Corridor
 
 Patrick walked down the hallway. To his right, the heavy metal door of the Wrestling Room stood propped open by a rubber wedge.
 
@@ -215,7 +205,6 @@ Patrick dropped the wooden pass on the floor. It clattered loudly against the ti
 
 He pivoted and bolted through the doorway.
 
-## The Intervention
 
 "Get back!" Patrick yelled at the aide as he crossed the threshold.
 
@@ -267,10 +256,6 @@ Patrick stood up. He unlocked the brakes of the Titan, putting his back into it 
 
 ### Part 4: The Reckoning
 
-# Welcome to Northwood High School
-
-## Location: Principal Harrison’s Office
-
 Principal Harrison sat behind his desk, the "Bennett Settlement" file open in front of him. The office was quiet, insulated from the chaos of the class changeover happening in the hallways.
 
 On one side of the room sat Mrs. Vance, looking flushed and vindicated. On the other side sat Patrick. He was still in his gym clothes—shorts and a t-shirt—because Mrs. Vance hadn’t let him go back to the locker room.
@@ -321,10 +306,6 @@ Harrison stood up and grabbed his walkie-talkie. "Come on, son. Let's get you to
 
 ### Part 5: The Escort
 
-# Welcome to Northwood High School
-
-## Date: September 1999 Time: 10:58 AM Location: Hallway / Men’s Locker Room
-
 Principal Harrison stood up from his desk and looked at Patrick. The boy was still wearing his gym kit—shorts and a t-shirt—standing in the middle of the administrative office while the secretaries typed and phones rang.
 
 "You can't go to Latin like that," Harrison said, grabbing his walkie-talkie. "Come on."
@@ -366,10 +347,6 @@ He glanced down at Patrick.
 "See that you don't."
 
 ### Part 6: The Return
-
-# Welcome to Northwood High School
-
-## Time: 11:05 AM Location: Room 204 (Mrs. Dalloway’s Latin Class)
 
 They reached Room 204. Mrs. Dalloway’s door was closed. Through the reinforced window, Patrick could see the class was already seated, heads bent over their textbooks.
 
@@ -447,8 +424,6 @@ Patrick opened his textbook. He felt the weight of the "Secret Agent" badge in h
 
 ### Part 7: The Longest Hour
 
-# Welcome to Northwood High School
-
 The bell for the end of 4th period rang—a shrill, electric buzzer that vibrated in Nichole’s teeth.
 
 In the hallway outside Latin, the traffic jam of changing classes began. This was the moment of separation. Patrick had English in Room 204 (Honors), and Nichole had English in Room 108 (Standard/Inclusion).
@@ -522,8 +497,6 @@ Nichole didn't wait for the aide to push. She grabbed her own rims—her hands c
 Get me out of here.
 
 ### Part 8: The Hand-Off
-
-# Welcome to Northwood High School
 
 The cafeteria was a roar of noise—three hundred freshmen shouting over the clatter of plastic trays and the smell of rectangular pizza.
 
@@ -599,13 +572,10 @@ Patrick took a bite of his pizza and grinned. "Yeah. Much better."
 
 ### Part 1: The Area of Rescue
 
-# The Smoke Test
-
 Date: April 12, 2002 (Spring of 11th Grade)
 
 Time: 10:15 AM
 
-Location: Northwood High School, Second Floor Academic Wing ("The Blue Mile")
 
 The lesson on the Reconstruction Era was dragging. Mr. Henderson was midway through explaining the Compromise of 1877, his voice a steady drone against the hum of the classroom ventilation.
 
@@ -705,10 +675,6 @@ He turned his back on the teacher and stepped into the flow of traffic at the to
 
 ### Part 2: The Descent
 
-# The Smoke Test
-
-## Location: Stairway A (The Critical Entry)
-
 Patrick turned from the elevator alcove and stepped into the flow of traffic at Stairway A.  
 
 The stairwell was a concrete echo chamber. The electronic EEEEEEEEEEE of the alarm bounced off the cinderblock walls, amplifying the noise until it felt solid. Above them, the emergency strobe on the landing flashed in a blinding, irregular rhythm.
@@ -740,10 +706,6 @@ He reached the bottom. The heavy metal push-bar of the exit door loomed ahead.
 Patrick didn't stop. He shifted Nichole’s weight, lifted his leg, and kicked the bar.
 
 ### Part 3: The Bus Loop
-
-# The Smoke Test
-
-Location: The "Backstage" (Bus Loop)
 
 The door swung open, and they burst out into the Virginia spring air.
 
@@ -784,10 +746,6 @@ Patrick didn't stand up and walk away. He didn't go look for his homeroom teache
 He sat down on the curb right next to her, their shoulders pressing together. He leaned his head back against the chain-link fence, gasping for air, wiping sweat from his eyes.
 
 ### Part 4: The Stand
-
-# The Smoke Test
-
-Location: The Fence Line
 
 Across the bus loop, the doors of the school banged open.
 
@@ -833,13 +791,10 @@ Patrick exhaled. He looked at Nichole.
 
 ### Part 5: The Long Hour
 
-# The Smoke Test
-
 Date: April 12, 2002
 
 Time: 10:45 AM (30 Minutes Post-Evacuation)
 
-Location: The Fence Line (Bus Loop Muster Point)
 
 The adrenaline of the escape had faded, replaced by the crushing boredom of a thousand teenagers standing in a parking lot.
 
@@ -882,8 +837,6 @@ She wanted her wheels. She wanted her voice. The VocaLink 3000 was sitting on th
 Nichole let out a huff of frustration. She slumped against him, resigning herself to being "cargo" for a little while longer.
 
 ### Part 6: The All Clear
-
-# The Smoke Test
 
 Time: 11:10 AM
 
@@ -940,8 +893,6 @@ He looked down at Nichole. "Ready to fly?"
 Nichole looked at the teacher, then at her brother. She reached up.
 
 ### Part 7: The Return
-
-# The Smoke Test
 
 Patrick bent down. He didn't hesitate.
 

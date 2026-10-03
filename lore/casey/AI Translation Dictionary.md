@@ -1,7 +1,8 @@
-### I. The Tech & Corporate Ecosystem
+---
 
-| **Real-World Equivalent**       | **In-Universe Counterpart** | **Lore Context & Details**                                                                                                                  |
-| ------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+---
+
+------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Microsoft**                   | Quantum Corporation         | The Seattle-based, trillion-dollar software empire.                                                                                         |
 | **Bill Gates**                  | William Keswick             | The billionaire founder and architect of the modern digital age who transitioned to a technology advisor role.                              |
 | **Steve Ballmer**               | Steven "Steve" Ballantine   | The high-kinetic, bombastic CEO who ran the company from 2000 until his retirement in February 2014.                                        |
@@ -60,13 +61,11 @@
     
 - **Cassandra:** **RTC Access BayPass** (Regional Transit Connection), perfectly aligning with the 2014 timeline.
 
-# The Amex Centurion (Black Card) Equivalent
 
 To bypass copyright issues while maintaining the absolute, unmitigated financial weight of an invite-only ultra-luxury charge card, you need something that sounds institutional, elite, and frictionless.
 
 Here is a copyright-safe, in-universe drop-in:
 
-## Lore Entry: The Meridian Obsidian Card
 
 **Issuer:** Meridian Heritage Bank
 **Status:** Invite-Only (Requires $10M+ in annual spending and $50M+ in verifiable liquid wealth)
@@ -113,7 +112,6 @@ To ensure the AI always respects David's precise boundaries in future prompts, y
 
 > **David Vance (Operational Profile):** David is Cassandra Vance's 29-year-old younger brother and her full-time Licensed Practical Nurse (LPN). He manages her continuous Mobile Cardiac Telemetry and administers her scheduled biological injections. He is not a Quantum employee; his salary is paid independently by the Vance Family Trust to maintain legal and financial separation. However, due to Cassandra's ADA requirements and executive status, David possesses a high-level Quantum security badge granting him frictionless access to Building 33 and the executive suite.
 
-# Lifestyle Brands
 | **Real-World Equivalent**           | **In-Universe Counterpart**    | **Lore Context & Details**                                                                                                                                                                                    |
 | ----------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **McDonald's / Standard Fast Food** | Rocket Burger                  | The bustling fast-food joint anchoring the Finch Air and Space Museum's food court, where Cassandra famously used her Obsidian Card to buy a $35 lunch during a thunderstorm to protect her medical baseline. |
@@ -164,7 +162,6 @@ If you want to ensure the AI understands the exact historical flavor of the muse
 > The Finch Endowment (the in-universe equivalent of the Smithsonian Institution) was founded by Lord Alistair Finch, a brilliant, eccentric British scientist. Finch never traveled to the United States during his lifetime. However, his last will and testament stipulated that if his nephew died without an heir, his entire immense fortune was to be gifted to the United States of America to found an establishment in Washington for "the increase and diffusion of knowledge." The United States Congress accepted the shipment of British gold, establishing the sprawling museum complex that anchors the National Mall today.
 
 
-## I. Big Tech & Silicon Valley Rivals
 
 |**Real-World Equivalent**|**In-Universe Counterpart**|**Lore Context & Details**|
 |---|---|---|
@@ -174,7 +171,6 @@ If you want to ensure the AI understands the exact historical flavor of the muse
 |**Nvidia**|**Vortex Silicon**|The rising GPU powerhouse pioneering graphics hardware and early neural network acceleration.|
 |**Twitter**|**Chirp**|The microblogging platform where tech leaks, PR crises, and real-time political discourse unfold.|
 
-## II. Aerospace, Defense & Federal Agencies
 
 |**Real-World Equivalent**|**In-Universe Counterpart**|**Lore Context & Details**|
 |---|---|---|
@@ -183,7 +179,6 @@ If you want to ensure the AI understands the exact historical flavor of the muse
 |**DARPA**|**ARTA** _(Advanced Research & Tech Agency)_|The Pentagon’s experimental tech agency funding fringe computing, neural interfaces, and autonomous defense projects.|
 |**FBI / CIA / NSA**|**FBI** → _Federal Bureau of Investigation_ (Keep real or **FBI**)<br><br>  <br><br>**NSA** → **Signals Security Directorate (SSD)**<br><br>  <br><br>**CIA** → **Central Intelligence Directorate (CID)**|Essential for scenes involving Senate oversight, counter-intelligence, or high-level government surveillance.|
 
-## III. Wall Street & High Finance
 
 |**Real-World Equivalent**|**In-Universe Counterpart**|**Lore Context & Details**|
 |---|---|---|
@@ -191,14 +186,12 @@ If you want to ensure the AI understands the exact historical flavor of the muse
 |**Dow Jones / S&P 500**|**The Industrial 30** / **The Standard 500**|Key financial indexes referenced on news tickers when Quantum or MagnaByte report quarterly earnings.|
 |**Wall Street Journal**|**The Financial Chronicle**|The gold-standard financial publication tracking corporate leadership moves (e.g., Cassandra Vance taking over Quantum).|
 
-## IV. Legacy News & Media Conglomerates
 
 |**Real-World Equivalent**|**In-Universe Counterpart**|**Lore Context & Details**|
 |---|---|---|
 |**CNN / Fox News**|**GNN (Global News Network)** / **Beacon News**|Major 24-hour cable news networks airing Senate hearings, tech CEO profiles, and national events.|
 |**The New York Times**|**The Metropolitan Herald**|The flagship legacy paper covering international policy, major investigative pieces, and high-profile tech profiles.|
 
-## V. Commercial Aviation & Transportation
 
 | **Real-World Equivalent**     | **In-Universe Counterpart**                   | **Lore Context & Details**                                                                                           |
 | ----------------------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -228,7 +221,6 @@ If you want to ensure the AI understands the cultural weight of MagnaByte's soft
 
 
 
-## VII. Vance Family Trust Security & Flight Logistics
 
 |**Real-World Role / Mandate**|**In-Universe Counterpart**|**Lore Context & Details**|
 |---|---|---|

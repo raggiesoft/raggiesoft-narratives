@@ -6,10 +6,6 @@ groups: [Wall of 20, Tier-2 Pack]
 tags: [lore, audhd, accessibility, antagonist]
 ---
 
-# Archive: Core Characters & Antagonist Profiles
-
-## The Physical & Navigational Baseline
-
 | **Character**          | **Height** | **Primary Mobility/Navigational Role**                    |
 | ---------------------- | ---------- | --------------------------------------------------------- |
 | **[[Meredith Hayes]]** | 5'8"       | The Engine (Leverage and environmental translation)       |
@@ -19,7 +15,6 @@ tags: [lore, audhd, accessibility, antagonist]
 
 ---
 
-## Justin Hayes (The Anchor)
 
 *   **Demographics:** Age 20 (Older brother). He started kindergarten a year late due to missing the birthday cutoff, placing him in the same graduating class as [[Amaya Rios|Amaya]] and [[Meredith Hayes|Meredith]].
 *   **Medical/Neurological Profile:** [[No Light Perception|Optic Nerve Hypoplasia]] (No Light Perception), Non-verbal [[AuDHD|Autism]], [[Cerebral Palsy]], [[Non-obstructive Azoospermia]].
@@ -30,7 +25,6 @@ tags: [lore, audhd, accessibility, antagonist]
 
 ---
 
-## Amaya Rios (The Grounding Force)
 
 *   **Demographics:** Age 19 (Best friend). The standard age for her grade level, she integrated into the siblings' lives when her family moved into the other half of the duplex during the summer before 5th grade.
 *   **Medical/Neurological Profile:** Hearing Impaired (profoundly deaf without hardware).
@@ -41,7 +35,6 @@ tags: [lore, audhd, accessibility, antagonist]
 
 ---
 
-## Meredith Hayes (The Navigator and Shield)
 
 *   **Demographics:** Age 18 (Youngest sister). She skipped a grade due to being gifted, which perfectly aligned her to take all her classes alongside [[Justin Hayes|Justin]] and [[Amaya Rios|Amaya]].
 *   **Medical/Neurological Profile:** [[AuDHD]], [[Cerebral Palsy]].
@@ -52,7 +45,6 @@ tags: [lore, audhd, accessibility, antagonist]
 
 ---
 
-## Vera Kowalski (The Predator)
 
 *   **Demographics:** Age 23 (during the primary 2003 timeline). Her mother is [[Robyn Kowalski]], and her aunt is Carol, who resides in Kent, Washington. She eventually has a daughter named [[Lily Kowalski]].
 *   **Physical Disadvantage:** At 5'5", Vera attempts to use physical intimidation and visual dominance to control her targets. However, she is literally looking up to both [[Amaya Rios|Amaya]] and [[Meredith Hayes|Meredith]], rendering her attempts to physically bully her way into Justin's space completely ineffective.

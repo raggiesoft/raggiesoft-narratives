@@ -1,14 +1,12 @@
-# Cassandra Vance: Quantum Executive Compensation Profile (2005)
+---
+|
+---
 
-**Target Total Annual Compensation:** ~$11,625,000 – $13,625,000 USD (Highly variable based on stock performance)
-
-|**Compensation Component**|**Annual Value (Estimated)**|**Details**|
-|---|---|---|
+|---|
 |**Base Salary**|$650,000|Paid out in standard semi-monthly executive payroll. Carefully capped to align with William Keswick's philosophy of prioritizing equity over liquid cash.|
 |**Target Cash Bonus**|$975,000|150% of base salary, contingent on Quantum hitting quarterly operational targets and successful global deployments.|
 |**Restricted Stock Units (RSUs)**|$10,000,000 – $12,000,000|Vests quarterly. Quantum abolished traditional stock options in 2003; this massive RSU grant serves as the "golden handcuffs" keeping her tethered to Building 33.|
 
-## The Executive Perks Package
 
 For an executive of Cassandra's caliber, Quantum essentially functions as a shadow government, ensuring their top talent never has to waste time on civilian logistics.
 
@@ -42,7 +40,6 @@ For an executive of Cassandra's caliber, Quantum essentially functions as a shad
 - **Dedicated Wealth Management:** Quantum provides a retainer for a top-tier private wealth management firm to handle her taxes, trusts, and asset protection without her having to lift a finger.
     
 
-## 5. The Geographical Wealth Transfer Pivot
 
 Cassandra utilizes her immense liquidity to protect her pack, but she engineers the financial architecture to remain legally flawless and heavily insulated against the IRS.
 

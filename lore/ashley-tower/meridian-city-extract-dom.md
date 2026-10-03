@@ -1,9 +1,6 @@
-
 ---
-
 **User:**
 I feel like this conversation is drifting apart (context window rot). I was able to save the conversation to my desktop, and Microsoft Print to PDF gave me a 60 MB file! It’s 109 pages long. Seems unusually large a file size for a PDF
-
 ---
 
 **Model:**

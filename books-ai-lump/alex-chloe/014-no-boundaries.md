@@ -9,8 +9,6 @@ series: "Alex & Chloé"
 
 ### Part 1: The Blueprint of Home
 
-# A Vision Takes Shape
-
 The aftermath of their winter trip to Quebec lingered in their Lynnwood apartment, not in the form of a humiliating Canadian hockey jersey (which had been ceremoniously folded and stored away), but in a renewed sense of purpose.
 
 It was a quiet Sunday afternoon. The 3D printer was silent, and Chloé’s grant-writing textbooks were neatly stacked. They were in a rare moment of pure brainstorming, a large sheet of butcher paper spread across their dining table, the words "Lynnwood Discovery and Care Center" written at the top. Megan, Alex, and Chloé were gathered around it, a tangible sense of excitement in the air.
@@ -47,8 +45,6 @@ The Lynnwood Discovery and Care Center now had a clear, focused mission. It woul
 
 ### Part 2: A Border of Our Own
 
-# A Vision Takes Shape
-
 The decision to focus on the Pacific Northwest brought a new clarity to their brainstorming session. Chloé sat back down at the table, a thoughtful expression on her face as she looked at the newly circled "Pacific Northwest" section of their blueprint.
 
 "Okay," she said, tapping her pen. "So we focus here. The Puget Sound, the Cascade Mountains, the temperate rainforests..." She paused, her mind clearly picturing the map. "But you know," she said, looking at Alex and Megan, "the Pacific Northwest... it doesn't just stop at the 49th parallel."
@@ -79,8 +75,6 @@ The Lynnwood Discovery and Care Center now had its unique identity. It wouldn't 
 
 **Date:** 2026-07-13
 
-# The Northern Annex
-
 The early Saturday morning air was cool and misty as the three of them loaded their weekend bags into their Holt Wayfarer. This trip felt different. Their last journey to Canada had been a high-stakes, emotional family affair. This trip was just for them. It was a weekend getaway, but it was also their first official research mission for the Lynnwood Discovery and Care Center.
 
 "Okay," Chloé said, checking a printout from the transit website as Megan took the driver's seat for the first leg. "To avoid the hassle of downtown Vancouver parking, we'll park at the Scott Road SkyLink Station Park & Ride in Surrey, just over the border. From there, the whole city is open to us."
@@ -104,8 +98,6 @@ After clearing customs, they drove the short distance to the park-and-ride, left
 ### Part 2: The Peak of the City
 
 **Date:** 2026-07-13
-
-# The Northern Annex
 
 Sunday morning began with a smooth, practiced efficiency. The three of them checked out of their Surrey hotel, loaded their weekend bags into the van, and drove the short distance back to the Scott Road SkyLink Station. After parking their car for the day, they were back on the MVTA system, ready for a day focused on the mountains that form a majestic backdrop to the city.
 

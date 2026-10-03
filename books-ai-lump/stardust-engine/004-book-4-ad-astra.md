@@ -9,8 +9,6 @@ series: "The Stardust Engine"
 
 ### Part 1: The Magnum Opus &ndash; 12:00 PM
 
-## Chapter 1: Escape Velocity &ndash; 1995
-
 ### Part 1: The Magnum Opus &ndash; 12:00 PM
 
 The "Magnum Opus" and the grand finale of the *Hard Reset* double album. This monumental 15-minute and 33-second progressive rock epic was originally written and recorded in 1995, during the financial struggle of the band's "Wilderness Years" (a full year before the 1996 lottery windfall). It is entirely Cassidy O'Connell's creation—she wrote the music, penned the lyrics, and directed her family through the complex arrangement.

@@ -1,15 +1,13 @@
-# Cassandra Vance: Quantum Executive Compensation Profile (2005)
+---
 
-**Target Total Annual Compensation:** ~$18,500,000 USD (Highly variable based on stock performance)
+---
 
-| **Compensation Component**        | **Annual Value (Estimated)** | **Details**                                                                                                     |
-| --------------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------------- |
+--------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Base Salary**                   | $850,000                     | Paid out in standard semi-monthly executive payroll. (15th and the last day of the month, or the Friday of)     |
 | **Target Cash Bonus**             | $1,275,000                   | 150% of base salary, contingent on Quantum hitting quarterly operational targets.                               |
 | **Restricted Stock Units (RSUs)** | $12,000,000                  | Vests quarterly. This is the golden handcuffs keeping her tied to Quantum's long-term success.                  |
 | **Stock Options**                 | $4,000,000+                  | The right to purchase Quantum stock at a locked-in strike price, allowing massive leverage if the stock climbs. |
 
-## The Executive Perks Package
 
 For a C-suite equivalent executive, Quantum essentially functions as a shadow government, ensuring their top talent never has to waste time on civilian logistics.
 

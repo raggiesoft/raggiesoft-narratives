@@ -9,18 +9,6 @@ series: "The Silver Gauntlet of Aethel"
 
 ### Part 1: Chapter 1: The Architect\'s Lesson
 
-# Book I: The Silver Sun
-
-## Part 1: The Tuning of the Flare
-
-Theme: divine-temple
-
-Location: The Solar Garden (The Sanctum of the Zenith)
-
-POV: Solas (Pre-Kaelan)
-
-=
-
 The Solar Garden did not smell of flowers; it smelled of ozone and potential.
 
 Solas stood in the center of the tuning ring, a circular platform suspended in the golden nebula of the Zenith. He was not a boy of flesh and blood here; he was a construct of pure, radiant energy, his skin glowing with the heat of a young star.
@@ -65,15 +53,10 @@ Solas looked at Lunara. She squeezed his hand one last time before letting go.
 
 Solas nodded and followed the Architect out of the garden, unaware that he was walking away from the last moment of pure, unadulterated joy he would feel for a very long time.
 
-## Part 2: The Wedge
 
-Theme: divine-temple
 
-Location: The Archive of the Zenith
 
-POV: Solas
 
-=
 
 The Archive of the Zenith was a cathedral of silence.
 
@@ -187,15 +170,10 @@ Malakor watched him go, his hands clasped behind his back.
 
 "Excellent," the High Archivist whispered to the empty room. "The program is installed. Let him have his hugs for now. When the true winter comes... the iron will hold."
 
-## Part 3: The Star-Chamber
 
-Theme: divine-intimacy
 
-Location: The Private Quarters of the Twins (The Silver Temple)
 
-POV: Lunara (Pre-Kaela)
 
-=
 
 The private quarters of the twins did not have walls; they had event horizons.
 
@@ -272,10 +250,6 @@ It was the only blanket she ever needed.
 "Night, Moon," Solas replied, burying his face in her neck.
 
 ### Part 2: Chapter 2: The Age of Twilight
-
-# Book I: The Silver Sun
-
-## Part 1: The Scholar of the Twin Suns
 
 The light was wrong. That was the problem. It was always, fundamentally, wrong.
 
@@ -361,7 +335,6 @@ He picked up a quill and dipped it into the black pot. He added a final stroke t
 
 "Order," he breathed, the word filling the empty room. "It is time for Order."
 
-## Part 2: The Heresy of Order
 
 The Throne Room of Aethel was not built for silence. It was a cathedral of light and sound, designed to amplify the very chaos High Sage Malakor sought to tame.
 
@@ -441,7 +414,6 @@ He imagined a tower rising from the obsidian rock of the Voidlands. Not a place 
 
 "I will build a world where reflection is unnecessary," he vowed, digging his heels into the horse's flanks. "And I will not ask for permission again."
 
-## Part 3: The Flight of the Guardians
 
 The warning klaxons of the Zenith did not sound like bells; they sounded like tearing metal.
 
@@ -599,7 +571,6 @@ Below them, the Silver Sun Temple collapsed. The light of Aelion and Lyra faded,
 
 But high above, crossing the cold, empty ocean of the cosmos, two stars were burning. They streaked away from the ruin, tumbling through the dimensional gap, falling, falling, falling toward a small, blue and green marble called Earth.
 
-## Part 4: The Northern Wastes
 
 The wind in the Northern Wastes did not howl; it shrieked. It was a jagged, biting sound, stripping the warmth from the air and the hope from the soul. Here, the world ended. The lush forests of the Kingdom gave way to tundra, then to ice, and finally to the obsidian spires of the Voidlands—a place where the geometry of the earth seemed broken, twisting into sharp, unnatural angles.
 
@@ -685,7 +656,6 @@ He smiled, an expression that was entirely devoid of warmth.
 
 "I am Lord Malakor."
 
-## Part 5: The Foundlings of Sunstead
 
 The night was too quiet for Tobias.
 
@@ -777,7 +747,6 @@ Tobias looked up at the night sky one last time. The tear in the heavens had hea
 
 "Let's go home," he said. "Before the wolves come."
 
-## Part 6: The Separation
 
 ##### Scene 1: Starlight in the Woods
 

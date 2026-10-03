@@ -1,11 +1,5 @@
-**User:**
-I'd like to expand on what The Prospector's Keep is all about, and what it offers to its guests. The keep is me wanting to create something up in the mountains like Timberline Lodge or The Overlook (excluding the events of The Shining - we're assuming The Overlook is a real hotel resort in the mountains, and in fact in our universe: we absolutely can create an in-universe Overlook, complete with its own winter caretakers, but without the descent into madness as shown by Stephen King or Stanley Kubrick).
-
 ---
-
 **User:**
-
-
 ---
 
 **User:**
@@ -2693,7 +2687,6 @@ Let's discuss what the house might look like. We need room for:
 ---
 
 **User:**
-# Cassandra
 
 ---
 
@@ -2713,7 +2706,6 @@ Let's discuss what the house might look like. We need room for:
 ---
 
 **User:**
-# Casey
 
 ---
 
@@ -2728,7 +2720,6 @@ Let's discuss what the house might look like. We need room for:
 ---
 
 **User:**
-# David and Liz
 
 ---
 
@@ -2748,7 +2739,6 @@ Let's discuss what the house might look like. We need room for:
 ---
 
 **User:**
-# Living Space
 
 ---
 
@@ -2763,7 +2753,6 @@ Let's discuss what the house might look like. We need room for:
 ---
 
 **User:**
-# Others
 
 ---
 

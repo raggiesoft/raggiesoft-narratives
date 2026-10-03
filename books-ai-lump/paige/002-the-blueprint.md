@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: Static
 
-# The Cracks
-
 The summer heat in Virginia Beach was usually a physical weight, a wet blanket of humidity that smelled of asphalt and salt. But inside the Avery house, the air felt heavy for a different reason.
 
 Freddie sat at the top of the stairs, pressing his forehead against the banister. He was sixteen now. His legs were longer, his shoulders broader, but the "Architecture"—the internal structure he built to make sense of the world—felt more fragile than it had in years.
@@ -99,8 +97,6 @@ Freddie leaned into her touch, the tension in his spine dissolving. The house do
 
 ### Part 2: The Escape Vehicle
 
-# The Cracks
-
 The calendar on the kitchen wall read **June 19, 2001**. It was a Tuesday, and the humidity outside was pushing ninety percent.
 
 Inside the house, the air conditioning was humming, but it wasn't enough to scrub the tension from the atmosphere. Their mother was Upstairs, ostensibly organizing the linen closet for the fourth time that month. Their father was at work, though he had called an hour ago to say he would be "late again" due to a project deadline.
@@ -176,8 +172,6 @@ Paige looked at Freddie over the roof of the car. She smiled, a tired but genuin
 "Let's go get some pretzels," Paige said, locking the car. "Before Jenna vibrates into another dimension."
 
 ### Part 3: The Route
-
-# The Cracks
 
 The beige sedan sat vibrating in the driveway of 1852 Delaney Street. The engine idle was rough, shaking the dashboard slightly and making Freddie’s teeth chatter if he didn't clench them.
 
@@ -261,8 +255,6 @@ They walked toward the double doors, the "Avery Corporation" moving from the sti
 
 ### Part 4: The Sugar Rush
 
-# The Cracks
-
 The elevator doors slid open with a cheerful *ding*, and the noise hit them like a physical wave.
 
 The Food Court at Emerald Creek Mall was a cavernous hall. The high, tent-like ceiling trapped every sound—screaming toddlers, clattering trays, the sizzle of woks from the Chinese counter—and bounced it around the room. It wasn't an open atrium; it was a contained ecosystem of noise and neon.
@@ -337,8 +329,6 @@ Freddie looked out at the chaotic room—the teenagers flirting near the pizza p
 
 ### Part 5: The Calculation
 
-# The Cracks
-
 The arcade at Emerald Creek Mall was named **The Starcade**. It was located just past the food court restrooms, a dark cave illuminated by the flashing CRTs of attract screens and the neon glow of Lane-Master lanes.
 
 To Freddie, the Starcade was a paradox. It was louder than the food court—a cacophony of 8-bit explosions, synthesized voices shouting "RELOAD!", and the clatter of tokens hitting metal trays. Yet, unlike the chaotic noise of the crowds, this noise was *designed*. It was computerized. It followed rules.
@@ -410,8 +400,6 @@ For a moment, the tension of the house, the "spiky air" of their parents' marria
 "Good," Paige smiled. "Burn the rest of the tokens. Then we ride."
 
 ### Part 6: The Collapse
-
-# The Cracks
 
 The high of the Starcade lasted exactly until the front door of 1852 Delaney Street clicked shut behind them.
 
@@ -502,10 +490,6 @@ She lay there in the dark, holding her brother, listening to his ragged breathin
 The Blueprint wasn't just a dream anymore. It was a necessity. They had to get out.
 
 ### Part 7: The Closet
-
-# The Cracks
-
-## September 2001
 
 The trigger wasn't a slammed door this time. It was the sound of paper hitting the kitchen table—a sharp *thwack* that echoed up the ventilation shafts like a gunshot.
 
@@ -609,8 +593,6 @@ Paige looked at him—at the fear still lingering in his posture—and then she 
 
 ### Part 1: The Sofa
 
-# The Severance
-
 The announcement hadn't been a scream. It hadn't been a dramatic fight with broken plates. It had been a conversation at the dinner table, delivered with the cold, sterile efficiency of a legal deposition.
 
 *“Your father and I are taking some time apart.”*
@@ -709,10 +691,6 @@ Outside in the den, the TV flickered on the face of a man who realized, far too 
 
 ### Part 1: The Transfer Point
 
-# The Iron City
-
-## Friday, October 25, 2002
-
 The silence inside the silver sedan was heavier than the Blue Ridge Mountains rising in the distance.
 
 Ellen drove with both hands gripping the wheel at ten and two, her knuckles pale. She wasn't driving like a mother taking her children on a college visit; she was driving like a courier transporting fragile, volatile cargo through a war zone.
@@ -752,8 +730,6 @@ He didn't know why, but the name stuck in his head. *Fishersville.* It sounded q
 Ellen took the ramp onto Route 250, merging onto Richmond Avenue. The landscape here was a mix of historic charm and highway commerce. Ellen navigated the traffic, passing fast-food chains and car dealerships until the massive, glowing sign appeared on the left: **ZANE’S MARKET**.
 
 ### Part 2: The Red Booth
-
-# The Iron City
 
 The Zane's at 1250 Richmond Avenue was a beast of a building. It wasn't just a gas station; it was a brightly lit fortress of neon red and yellow, bustling with truckers, weary travelers, and college students heading south to Blacksburg or north to Harrisonburg.
 
@@ -831,8 +807,6 @@ As they merged onto I-81 South, leaving Zane's Market behind, Freddie watched th
 
 ### Part 3: The Detour
 
-# The Iron City
-
 **Friday, October 25, 2002**
 
 The merge onto I-81 South from Route 250 was supposed to be the start of the open road. Instead, it was a parking lot.
@@ -883,8 +857,6 @@ They slid onto the interstate. The highway was empty. In the northbound lanes to
 
 ### Part 4: Pepper Plaza
 
-# The Iron City
-
 The rest of the drive was a blur of darkness and trucks. Jessica navigated the "chute" of I-81 with aggressive competence, darting between massive 18-wheelers that swayed in the wind.
 
 "Exit 118B," Jessica announced an hour later. "Christiansburg. Blacksburg. The Holy Land."
@@ -916,8 +888,6 @@ A third bus sat nearby, displaying **3 RADFORD**.
 She pulled the Avalon into a parking lot just a block away from the plaza. It was a brick apartment building that looked like it had been built in the 70s—solid, unpretentious, and quiet.
 
 ### Part 5: The Configuration
-
-# The Iron City
 
 "Second floor," Jessica said, grabbing her bag. "Apartment 2B."
 
@@ -985,10 +955,6 @@ Freddie felt his shoulders drop three inches. The "Architecture" here was differ
 
 ### Part 1: Route 1
 
-# The Machine
-
-## Saturday, October 26, 2002 06:45 AM
-
 "Rise and shine, recruits. Boots on the ground in twenty."
 
 Jessica’s voice cut through the morning silence of the apartment like a whistle. She was already dressed in her maroon "Forger" sweatshirt and jeans, standing in the kitchenette with the efficiency of a shift commander.
@@ -1017,7 +983,6 @@ Freddie ate his cereal mechanically, processing the data. *Bus. Number 1. One do
 
 "Okay," Freddie said. "I am ready."
 
-## 07:10 AM
 
 They stepped out of the apartment building into the crisp mountain air. It was cold—much colder than Virginia Beach—and the sky was a piercing, cloudless blue.
 
@@ -1068,10 +1033,6 @@ The automated voice chimed again.
 Ahead of them, the stone towers of the university rose up against the mountains. The Machine was waiting.
 
 ### Part 2: The Acoustic Engine
-
-# The Machine
-
-## Saturday, October 26, 2002 07:50 AM
 
 The bus hissed to a halt on the Alumni Mall.
 
@@ -1141,10 +1102,6 @@ Freddie walked toward the bagels, but he kept glancing back at the stage. For th
 
 ### Part 3: The Pitch
 
-# The Machine
-
-## 08:00 AM
-
 "Intel first, then fuel," Jessica instructed, steering them away from the bagel table for a moment. "We need the packet."
 
 They joined the line at the registration tables. It was moving efficiently—a hallmark of an engineering school. A student volunteer in a maroon polo asked for their names, checked a list, and handed Freddie and Paige their "Candidate Kits."
@@ -1167,7 +1124,6 @@ As they ate, the noise in the atrium began to shift. The murmuring crowd was flo
 
 "Showtime," Jessica announced, checking her watch. "The President’s Welcome Address starts in five minutes. We need to secure a perimeter seat."
 
-## 08:30 AM
 
 The Grand Ballroom of Newman Hall was a sea of folding chairs. Jessica led them to a row near the back, on the aisle.
 
@@ -1220,10 +1176,6 @@ The applause was louder this time. The lights came up.
 "Prepare yourself," Jessica grinned. "You're about to see the servers."
 
 ### Part 4: The Terminal
-
-# The Machine
-
-## 11:00 AM
 
 The Computer Sciences building, **Kelvin Hall**, was different from the rest of the campus. It didn't smell like old limestone or floor wax. It smelled of ozone, heated plastic, and coffee.
 
@@ -1311,10 +1263,6 @@ As they walked out of Kelvin Hall back into the bright sunlight, Freddie felt in
 
 ### Part 5: The Foundry
 
-# The Machine
-
-## 12:00 PM
-
 The main dining hall at CPI was a massive, rotunda-style building known as **The Foundry**.
 
 If Kelvin Hall was a sanctuary of silence, The Foundry was a cathedral of chaos.
@@ -1365,10 +1313,6 @@ They cleared their trays on the loud conveyor belt—*clack-clack-clack*—and w
 
 ### Part 6: The Old Lady on the Hill
 
-# The Machine
-
-## 14:00 PM
-
 They arrived at **Bennett Hall**.
 
 It sat perched on the steep incline of the campus geography, a brick-and-limestone structure that looked less like a dormitory and more like a fortress that had seen better days.
@@ -1391,7 +1335,6 @@ She pressed the call button.
 
 The elevator dinged. They piled in and rode up to the second floor.
 
-## 14:15 PM
 
 Mandy led them down a hallway that smelled of popcorn and floor wax, stopping at a door marked **214**. She tapped a sensor next to the handle with her ID card, and the heavy door clicked and swung open automatically.
 
@@ -1423,7 +1366,6 @@ She opened a door at the back of the room. It revealed a tiny, tiled room contai
 
 Freddie looked at the bunk bed. It was tight. It was chaotic. But he looked at Paige. If they had this—if they had the "bunker"—he could make it work.
 
-## 14:45 PM
 
 The tour concluded, and the group took the elevator back down to the first-floor lobby.
 
@@ -1547,10 +1489,6 @@ Freddie looked at her. The static in his head was still deafening, but her voice
 
 ### Part 7: The Reset
 
-# The Machine
-
-## 15:15 PM
-
 The bench was made of rough-hewn wood and cold iron, sitting on the edge of a grassy overlook near Bennett Hall. From here, the campus spread out below them like a circuit board—the grid of the Drillfield, the stone towers of the academic buildings, and in the distance, the massive concrete bowl of **The Crucible**.
 
 Freddie sat in the middle, staring at the mountains. He was completely silent. The screaming had stripped his throat raw, leaving him in a state of absolute mute exhaustion. The static in his head had settled from a roar into a dull, heavy gray noise.
@@ -1627,10 +1565,6 @@ They walked down the hill, away from Bennett Hall and its impossible rules, movi
 
 ### Part 8: The Iron Sea
 
-# The Machine
-
-## 17:30 PM
-
 The sun had dipped below the mountains, turning the sky into a bruised purple, but the campus was brighter than noon.
 
 They left the quiet refuge of the bench and descended toward the south end of campus. As they walked, the atmosphere changed. It wasn't just the air getting colder; it was the ground getting hotter.
@@ -1655,7 +1589,6 @@ Freddie focused on the LED destination signs. They were synchronized.
 
 "It's an invasion," Jessica grinned, applying a stripe of maroon greasepaint to her left cheek and an orange stripe to her right. "And we're the army."
 
-## 18:00 PM
 
 The plaza outside **The Crucible** was a sensory riot. The smell of grilled sausages and funnel cake hung heavy in the air.
 
@@ -1685,7 +1618,6 @@ Freddie opened the pack. He rolled the foam cylinders and inserted them into his
 
 Freddie pulled his orange hood up, creating a tunnel for his vision. He nodded. "The gain has been reduced. It is acceptable."
 
-## 18:30 PM
 
 They approached the South End Zone entrance. The stadium loomed over them, a massive brutalist structure of concrete and steel that looked less like a sports arena and more like a reactor core.
 
@@ -1748,10 +1680,6 @@ Freddie nodded, checking his earplugs one last time. He looked at the clock tick
 "I am ready," Freddie whispered. "Initialize the sequence."
 
 ### Part 9: The Forger's Call
-
-# The Machine
-
-## 19:00 PM
 
 The countdown clock on the scoreboard hit **00:00**.
 
@@ -1859,10 +1787,6 @@ Freddie looked at the field. He looked at the anvil on the screen. He looked at 
 
 ### Part 10: The False Start
 
-# The Machine
-
-## 19:15 PM (End of First Quarter)
-
 The first fifteen minutes of the game were not a sporting event. They were an execution of physics.
 
 The Tallahassee State Renegades, ranked number four in the nation, had walked onto the field expecting a football game. Instead, they had walked into a sonic weapon.
@@ -1885,7 +1809,6 @@ He saw the game not as violence, but as a complex, real-time algorithm. The play
 
 "It's a ground war," Paige shouted back, gripping his arm as the play started.
 
-## The Drive
 
 CPI didn't play flashy football. They played "Ironhead" football.
 
@@ -1895,7 +1818,6 @@ On offense, they didn't throw long, spiraling passes. They ran the ball. Again. 
 
 "No," Jessica corrected, leaning down. "It’s attrition, Freddie. We wear them down. We grind the steel until it breaks. Look at their defense. They’re hands on their hips. They’re gasping. The altitude is killing them."
 
-## The Turnover
 
 With 4:00 left in the first quarter, the Renegades tried to speed up. Their quarterback dropped back, looking for a deep pass to silence the crowd.
 
@@ -1909,7 +1831,6 @@ A maroon jersey fell on it.
 
 The stadium didn't just cheer. It detonated. The "Anvil" noise meter on the Jumbotron redlined and shattered the graphic glass.
 
-## The Score
 
 CPI capitalized instantly. Three plays later, their running back found a hole in the Renegades' defensive line and powered into the end zone.
 
@@ -1929,10 +1850,6 @@ As the quarter ended, the scoreboard told a story that the sports analysts on TS
 
 ### Part 11: System Overload
 
-# The Machine
-
-## 20:00 PM (Second Quarter)
-
 The temperature in the valley dropped to 38 degrees, but inside **The Crucible**, the heat was rising.
 
 The second quarter wasn't a battle; it was a malfunction. The Tallahassee State Renegades, a team built on speed, flash, and television contracts, were suffering a catastrophic system failure.
@@ -1943,7 +1860,6 @@ On the sideline, the Renegades' head coach was screaming at his offensive coordi
 
 "Panic logic," Jessica explained, her breath steaming in the cold air. "They expected to be up by twenty points. Now they're down by ten, and they can't hear themselves think. The pressure is cracking the pipe."
 
-## 12:15 Left in 2nd Quarter
 
 Tallahassee had the ball on their own 20-yard line. Third down and eight.
 
@@ -1965,7 +1881,6 @@ The ball fluttered harmlessly to the turf. Fourth down.
 
 "PUNT TEAM!" Jessica roared, joining the chant that echoed around the bowl. "BLOCK! THAT! KICK!"
 
-## 06:30 Left in 2nd Quarter
 
 CPI took over on the 45-yard line.
 
@@ -1989,7 +1904,6 @@ The cannon fired. The stadium shook. The band struck up the fight song.
 
 **CPI FORGERS: 17** **TALLAHASSEE ST: 0**
 
-## 00:45 Left in 2nd Quarter
 
 Desperation set in. The Renegades got the ball back with less than a minute to play. They abandoned their playbook and started throwing "Hail Marys"—long, low-probability passes hoping for a miracle.
 
@@ -2019,10 +1933,6 @@ The scoreboard glowed with the impossible numbers. The number four team in the n
 
 ### Part 12: The Human Grid
 
-# The Machine
-
-## 20:40 PM (Halftime)
-
 The football teams jogged off the field, leaving the green turf empty. But the stadium didn't empty out. In The Crucible, nobody leaves at halftime.
 
 "Here we go," Jessica said, sitting down but leaning forward eagerly. "This is the real show."
@@ -2045,7 +1955,6 @@ Freddie leaned forward. His eyes went wide behind his glasses.
 
 "22.5-inch steps," Jessica cited the spec like a proud alum. "Six-to-five spacing. It’s engineering, Freddie. They don't just walk; they calculate."
 
-## The Performance
 
 The Drum Major—a senior conducting from a tall ladder—raised his baton. He bowed backward until his plume touched the ground.
 
@@ -2069,7 +1978,6 @@ On the field, the band began to move. They didn't just walk in circles. They exp
 
 The music shifted. The low brass—the tubas and trombones—began a deep, rumbling ostinato. The trumpets soared over the top, playing a melody that sounded like flight.
 
-## The Drill
 
 The band split into three sections.
 
@@ -2083,7 +1991,6 @@ They marched blind, trusting the count, trusting the person next to them.
 
 "They are operating as a single organism," Freddie said, a smile breaking across his face. "No variables. Just code."
 
-## The Finale
 
 The music swelled to a crescendo. The drumline hammered out a frantic, high-speed roll.
 
@@ -2121,10 +2028,6 @@ He felt like he belonged in the Iron City.
 
 ### Part 13: Zero Tolerance
 
-# The Machine
-
-## 21:15 PM (Third Quarter)
-
 The halftime break didn't reset the game. It just let the concrete freeze harder.
 
 As the third quarter began, the temperature inside **The Crucible** dipped into the low 30s. A biting wind swirled down from the mountains, cutting through jackets and turning breath into clouds of steam.
@@ -2137,7 +2040,6 @@ For the Tallahassee State Renegades, it was a biological crisis. They huddled ar
 
 "They're soft!" Jessica yelled, cup of hot chocolate in hand. "They're used to Florida sunshine! Welcome to the mountains, boys!"
 
-## 10:00 Left in 3rd Quarter
 
 The Renegades received the kickoff. They needed a spark. They needed a touchdown to prove they were the number four team in the nation.
 
@@ -2153,7 +2055,6 @@ It bounced off his chest and fell harmlessly to the turf.
 
 "Friction coefficient," Freddie noted. "Cold hands. Hard surface. High probability of drop."
 
-## 07:30 Left in 3rd Quarter
 
 Tallahassee punted. Again.
 
@@ -2167,7 +2068,6 @@ It was demoralizing. The CPI offensive line, big corn-fed engineers who understo
 
 "They're ranked on stats," Jessica explained, her voice hoarse from cheering. "They play fast teams on grass fields. They put up 50 points a game against weak defenses. But they've never played in a factory before. They can't handle the physics of this place."
 
-## 03:00 Left in 3rd Quarter
 
 The drive consumed seven minutes of the clock. It was a slow, deliberate suffocation.
 
@@ -2189,7 +2089,6 @@ The student section began a new chant, low and rhythmic, pointing at the opposin
 
 **CPI FORGERS: 27** **TALLAHASSEE ST: 0**
 
-## 00:00 End of 3rd Quarter
 
 As the teams switched sides for the final quarter, the stadium was in a frenzy. The shutout was intact. The giant wasn't just sleeping; it was in a coma.
 
@@ -2200,10 +2099,6 @@ Freddie looked at the scoreboard. 27 to 0.
 "That's exactly right, Freddie," Jessica beamed, putting her arm around him. "They forgot to factor in the Ironheads. One more quarter. Let's finish them."
 
 ### Part 14: The Shutout
-
-# The Machine
-
-## 22:00 PM (Fourth Quarter)
 
 The fourth quarter wasn't a contest. It was a coronation.
 
@@ -2217,7 +2112,6 @@ In the stands, the atmosphere had shifted from aggression to pure, unadulterated
 
 "A zero balance," Freddie nodded, watching the clock tick down. "Total negation."
 
-## 05:00 Left in 4th Quarter
 
 Tallahassee made one last, desperate push. They didn't want to win; they just wanted to avoid the humiliation of a shutout. They drove to the CPI 20-yard line, using short passes to the sidelines.
 
@@ -2239,7 +2133,6 @@ The stadium shook so hard Freddie thought the bleachers might actually shearing 
 
 "THE ZERO STANDS!" Jessica screamed, grabbing Paige and shaking her. "THEY DON'T GET A SINGLE POINT! NOT ONE!"
 
-## 02:00 Left in 4th Quarter
 
 The CPI offense took the field in "Victory Formation."
 
@@ -2259,7 +2152,6 @@ She grinned, a fierce, proud Forger grin.
 
 "Tomorrow morning, when the polls come out, we won't be unranked anymore. We're going to be Top 20. Maybe Top 15. We just put the Iron City on the map."
 
-## 00:10 Left in 4th Quarter
 
 The crowd began the final countdown. It wasn't chaotic. It was synchronized.
 
@@ -2275,7 +2167,6 @@ Paige squeezed his hand. "We did it, Freddie. We survived the day."
 
 *ONE.*
 
-## 00:00
 
 The cannon fired one last time. *BOOM.*
 
@@ -2300,10 +2191,6 @@ The logic held up. The "Machine" worked. If you built a strong enough structure�
 "Yeah," Paige said, leaning her head on his shoulder. "We're pretty tough."
 
 ### Part 15: The Shuttle
-
-# The Machine
-
-## 22:30 PM
 
 The game was over, but the logistics were just beginning.
 
@@ -2335,7 +2222,6 @@ Near the end of the platoon, a different kind of bus was loading. It was a coach
 
 "Exactly," Jessica said. "Come on. Let's get you home."
 
-## 22:45 PM
 
 They reached the front of the line for the **Pepper Plaza Shuttle**. It was a massive, 60-foot articulated bus. The doors folded open.
 
@@ -2367,7 +2253,6 @@ He realized, with a sudden clarity, that he liked this configuration. It felt li
 
 "Acknowledged," Freddie mumbled into her hood.
 
-## 23:05 PM
 
 The bus hissed to a halt at **Pepper Plaza**. The doors opened, spilling the exhausted, happy crowd onto the concrete.
 
@@ -2438,10 +2323,6 @@ Freddie Avery closed his eyes, anchored and safe, and drifted into the deep, dre
 ## The Source Code
 
 ### Part 1: The Diagnosis
-
-# The Source Code
-
-## Sunday, October 27, 2002 07:30 AM
 
 The morning sun filtered through the blinds of the Christiansburg apartment, casting slats of dust-mote light across the living room. It was quiet. The roaring static of the stadium, the pounding rhythm of the stomp, and the screaming meltdown of the afternoon were all distant memories.
 
@@ -2589,10 +2470,6 @@ Jessica laughed, wiping her eyes. "Pancakes. The protocol is pancakes."
 
 ### Part 2: The Firewall
 
-# The Source Code
-
-## 10:00 AM
-
 The peaceful Sunday morning atmosphere—pancakes, syrup, and the quiet humming of the computer tower—was shattered by three heavy, authoritative knocks on the front door.
 
 *THUD. THUD. THUD.*
@@ -2651,7 +2528,6 @@ Finally, the sound of retreating footsteps echoed down the hall. The heavy fire 
 
 Freddie let out a breath he didn't know he was holding. He looked at his sister. She was the firewall. She had held the line.
 
-## 11:30 AM
 
 "We have to move," Jessica said, checking her watch. "The handover is at 13:00. Mom is meeting us in Staunton."
 
@@ -2667,7 +2543,6 @@ They walked down to Jessica's car, a battered Kyoto Citizen that she kept runnin
 
 "Exactly," Jessica said, merging onto the highway. "Eye on the horizon."
 
-## 13:00 PM
 
 They pulled off the highway in Staunton, Virginia, spotting the massive, glowing red-and-yellow sign of **Zane's Market**.
 
@@ -2703,7 +2578,6 @@ Mom sighed, but she reached across the table and squeezed Jessica's hand. "Thank
 
 They finished their meal. The reality of the handoff began to settle in.
 
-## 13:45 PM
 
 They walked back out to the cars. The bright neon of Zane's Market hummed above them.
 
@@ -2721,10 +2595,6 @@ She watched them climb into their mother’s station wagon. As they pulled away,
 
 ### Part 3: The Protocol Upgrade
 
-# The Source Code
-
-## Sunday, October 27, 2002 13:45 PM
-
 The lunch rush at Zane's Market was winding down. The red vinyl booths were emptying out as travelers got back on the road, heading toward their respective destinations. At the Avery table, the tray of fries was gone. The sodas were empty. It was time for the transfer.
 
 "Aunt Linda, can you take the kids to the car?" Jessica asked, standing up. "I need a minute with Mom. Administrator level stuff." "Of course, hon," Aunt Linda smiled, oblivious to the subtext. She grabbed her purse. "Come on, twins. Let's get the AC running. It’s humid down in the flatlands." Freddie and Paige stood up. Paige looked at Jessica, a silent question in her eyes. Did you tell her? Jessica gave a microscopic nod. I'm handling it.
@@ -2739,7 +2609,6 @@ Jessica took a breath. "It works. It’s not weird. It’s not 'inappropriate.' 
 
 Ellen was silent for a long moment. She watched Paige reach out and touch Freddie’s arm, stopping his pacing instantly. The evidence was right there in the parking lot. "Okay," Ellen said finally. "The Queen bed. It’s theirs." "Good," Jessica smiled, sliding out of the booth. "Now let's get them home."
 
-## 14:00 PM
 
 The parking lot of Zane's Market was bright under the afternoon sun. Jessica walked Ellen to the station wagon. "We have a deal," Jessica whispered to Paige as she hugged her goodbye. "The Queen bed is approved. Mom is on board." Paige’s eyes widened, then softened with immense relief. "Thank you, Jess." "Just get him to June," Jessica said. "Then you guys come back to the Iron City."
 
@@ -2747,7 +2616,6 @@ She turned to Freddie. "Check your email, Navigator. The manual is there." "Affi
 
 Jessica waved as she walked back to her silver Avalon. She didn't look back. She had her own drive to make—back to the mountains, back to the future she was building for all of them.
 
-## 14:15 PM
 
 "Shotgun!" Aunt Linda announced, jingling the keys. "Ellen, you look like you’ve been through a war. You sit. I drive. I know the way." "Thanks, Linda," Ellen said, sinking into the passenger seat. She adjusted the recline, closing her eyes almost immediately.
 

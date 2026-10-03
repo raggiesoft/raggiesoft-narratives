@@ -9,10 +9,6 @@ series: "Nichole"
 
 ### Part 1: Transitioning Nichole’s IEP
 
-# Planning for the Future
-
-## Date: May 15, 2002 Location: Conference Room B, Northwood High School Event: The Junior Year Transition IEP Meeting
-
 The meeting had been going for thirty minutes. The table was covered in graphs.
 
 Nichole sat in her Titan AeroMotion at the head of the table. Patrick was in class (AP History), so she was solo with her parents and the team.
@@ -39,7 +35,6 @@ Nichole shrugged. She didn't care about paperwork. She cared about Physics.
 
 She tapped "BYE" and rolled out of the room. The automatic door clicked shut behind her.
 
-## The Trap Springs
 
 As soon as the door latched, Mrs. Albright’s demeanor shifted from "Cheerleader" to "Serious Professional." She pulled a different, thicker folder from her bag.
 
@@ -84,10 +79,6 @@ Tom and Ellen walked out of the conference room and into the hallway, feeling li
 They were ready for the future.
 
 ### Part 2: The Poverty Trap
-
-# Planning for the Future
-
-## Date: July 15, 2002 Time: 10:00 AM Location: Social Security Administration Office, Virginia Beach, VA
 
 The office smelled of stale coffee and despair. It was a windowless room filled with rows of plastic chairs bolted to the floor, occupied by people clutching numbered tickets.
 
@@ -209,10 +200,6 @@ Nichole smiled.
 
 ### Part 3: The Offer
 
-# Planning for the Future
-
-## Date: July 15, 2002, Time: 11:30 AM, Location: The Bennett Family Van (Driving home from SSA Office)
-
 The van was quiet, the only sound the hum of the tires on the asphalt. The air conditioning was blasting, fighting off the July heat.
 
 In the back, Nichole was out of her chair. She had asked to be moved to the bench seat. She was leaning against Patrick, her head resting on his shoulder, her arm draped across his chest. It was her standard travel position—anchored, safe, and close.
@@ -311,10 +298,6 @@ And that was exactly what she had wanted all along.
 
 ### Part 1: The First Shift
 
-# The Handover
-
-## Date: July 15, 2002 Time: 7:30 PM Location: 1850 Delaney Street, Virginia Beach, VA
-
 The house was cooling down after the heat of the day. The central air hummed a low, steady rhythm.
 
 In the hallway, outside the main bathroom, the mood was focused. This wasn't just "bath time." It was orientation.
@@ -345,7 +328,6 @@ Patrick stepped up to the shower controls. He turned the handle. He held his inn
 
 "Good," Ellen nodded. "Bring her in."
 
-## The Transfer
 
 Patrick walked back to the bedroom where Nichole was waiting in her chair. She was already undressed, wrapped loosely in a robe.
 
@@ -397,7 +379,6 @@ He released his arms, but she held on for a split second longer before letting h
 
 Nichole settled in. She looked comfortable. She looked up at Patrick and blinked slowly. *Good.*
 
-## The Wash
 
 "Okay," Ellen said. "The order matters. Face first, then down. Use the handheld sprayer, but keep the pressure low. You don't want to startle her."
 
@@ -467,7 +448,6 @@ Patrick smiled, rinsing the soap off his hands. "I know, Nikki. We beat the syst
 
 "You sure did," Ellen whispered, wiping a stray tear from her cheek. "You sure did."
 
-## The Dry
 
 "Water off," Patrick announced.
 
@@ -509,7 +489,6 @@ He walked her to the bed. He knelt on the mattress (a trick Tom had taught him t
 
 She landed on the dry sheets.
 
-## The Night Shift
 
 Patrick helped her into her oversized t-shirt—the one she liked because it didn't bind her arms. He lifted her from the chair, executed the pivot, and lowered her onto the fresh sheets. He pulled the duvet up to her chin.
 
@@ -593,10 +572,6 @@ She closed her eyes. The Bennett Machine powered down for the night, fully opera
 
 ### Part 2: The Certification
 
-# The Handover
-
-## Date: July 20, 2002 (Saturday) Time: 8:45 AM Location: American Red Cross, Virginia Beach Chapter
-
 The classroom smelled of rubbing alcohol and rubber.
 
 It was a windowless training room on Virginia Beach Boulevard, filled with rows of tables and a collection of "Resusci Anne" torsos scattered on the grey carpet.
@@ -627,7 +602,6 @@ Miller raised an eyebrow. "Family?"
 
 Miller nodded slowly. The skepticism vanished from his eyes. "Okay. Then listen up. Because for some of you, this is a merit badge. For him, it's Tuesday."
 
-## The Compressions
 
 Two hours later, the tables were pushed back. The room was a sea of kneeling students.
 
@@ -659,7 +633,6 @@ Miller stopped in front of him. "Good rhythm, Bennett. You got good recoil. You 
 
 "Your dad is right," Miller said. "Most people are too polite. Death isn't polite. You have to be meaner than the Reaper."
 
-## The Airway (The Feeding Protocol)
 
 They moved on to Choking and Airway Obstructions.
 
@@ -681,7 +654,6 @@ Miller grabbed a chair. He sat in it.
 
 Patrick took notes furiously. This was the nightmare scenario: Sunday dinner, a piece of steak, a bad spasm, silence.
 
-## The 911 Drill (The Stumble)
 
 After lunch, they moved to "Scene Management."
 
@@ -703,7 +675,6 @@ The teenager picked up the dummy phone, shrugging. "Yo, 911? Yeah, we're at the 
 
 "Wrong," Miller snapped. "Fairlawn doesn't *have* an outdoor pool. Dispatch is now confused. They are sending police to check the parking lot while your guy drowns inside. You just killed him."
 
-## The 911 Drill (The Machine)
 
 Miller looked at Patrick.
 
@@ -757,7 +728,6 @@ Miller nodded at Patrick.
 
 "That was a professional Handover, Bennett. You didn't just call for help. You diagnosed the resource she needed. That is how you save a life."
 
-## The Final Exam
 
 At 4:30 PM, Patrick walked out of the building. He had a crisp card in his wallet: Red Cross Certified - Adult/Pediatric CPR/AED/First Aid.
 
@@ -785,10 +755,6 @@ Another system upgrade complete. The Machine was now rated for emergency operati
 
 ### Part 3: The Maintenance Crew
 
-# The Handover
-
-## Date: July 21, 2002 (Sunday) Time: 10:15 AM Location: 1850 Delaney Street, Hallway Bathroom
-
 The CPR card was in his wallet. The transfer training was done. But the real test wasn't holding a phone or doing chest compressions on a plastic dummy.
 
 The real test was biology.
@@ -805,7 +771,6 @@ Patrick paused. He remembered the conversation he’d had with his parents in th
 
 Patrick took a breath. "Roger that," he said to Nichole. "Let's go."
 
-## The Setup
 
 He wheeled her into the bathroom. It was the same space as the shower training, but the logistics were different.
 
@@ -827,7 +792,6 @@ Nichole gripped the handlebars. She nodded. *Stable.*
 
 Patrick knelt. He unbuttoned her jeans. He pulled them down, along with her underwear, past her knees to her ankles.
 
-## The Safety Protocol
 
 He stood up and reached for the door handle.
 
@@ -869,7 +833,6 @@ He didn't turn to the wall. He leaned his back against the sink vanity, crossing
 
 Nichole grunted. *Good.*
 
-## The Act
 
 The room was quiet, save for the bathroom fan.
 
@@ -919,7 +882,6 @@ Nichole nodded. She looked relieved. The worst part was over.
 
 Patrick performed the lift, pulling her up, adjusting her clothes the rest of the way, and settling her back into the AeroMotion.
 
-## The Aftermath
 
 He wheeled her to the sink. He washed his hands with soap for a full twenty seconds. He helped her wash her hands too.
 
@@ -945,7 +907,6 @@ Patrick unlocked the brakes.
 
 He wheeled her out of the bathroom. The door to the adult world had been kicked open, and they had rolled right through it, dignity intact.
 
-## The Debrief, Time: 11:00 AM Location: The Kitchen
 
 Tom and Ellen were sitting at the kitchen table, nursing their second cups of coffee, when the wheels of the AeroMotion rolled onto the linoleum.
 

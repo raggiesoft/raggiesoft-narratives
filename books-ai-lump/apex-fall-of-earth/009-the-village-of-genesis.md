@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: The Expanding Perimeter
 
-# The Second Wave
-
 The sprawling residential living room of The Sanctuary had transformed into a major logistical staging ground.
 
 Five years had passed since the first Genesis cohort was decanted, and the mountain fortress was buzzing with the vibrant, chaotic energy of a thriving, growing civilization.
@@ -90,8 +88,6 @@ The seventeen-year-old commanding officer squared her shoulders. She looked at h
 "Base is secure, Mom," Ellie declared, her dark eyes flashing with absolute readiness. "Bring on the recruits."
 
 ### Part 2: The Commander’s Blessing
-
-# The Second Wave
 
 The heavy, rhythmic thrum of industrial repulsor engines echoed across the elevated plateau of the Genesis valley.
 
@@ -187,8 +183,6 @@ The Colton family stood together in the shade of the alien pines, watching Jack 
 
 ### Part 3: The Lunar Embassy
 
-# The Second Wave
-
 For the first time in twelve years, Wyatt Colton had authorized a breach of the Aegis shield for an outside vessel.
 
 But he hadn't invited them to the planet.
@@ -265,8 +259,6 @@ They had taken the very first, careful step toward rejoining the human race. The
 
 ### Part 4: The Wild Sparrows
 
-# The Second Wave
-
 While the adults and the Vanguard managed the heavy logistics of the mountain, the Earth Conservatory on Sub-Level 1 had been entirely surrendered to the chaos of the five-year-olds.
 
 The artificial sky was projecting a flawless, sunny afternoon, and the rolling Kentucky bluegrass was currently serving as a massive wrestling mat for Cohort One.
@@ -342,8 +334,6 @@ He looked down at the tiny, swaddled newborn drinking from the bottle in his han
 "Welcome to the neighborhood, kid," Wyatt rumbled softly.
 
 ### Part 5: Breaking Ground
-
-# The Second Wave
 
 The pale, gray expanse of Anchor had remained completely undisturbed for millions of years. Today, it was the site of the most significant architectural collaboration in the galaxy.
 
@@ -425,8 +415,6 @@ Down below the clouds, the twenty Cockney-accented infants were sleeping safely 
 
 ### Part 1: The Fleet Girl
 
-# Jack – The Lunar Embassy
-
 The Earth Remnant Embassy on Anchor had grown from a single titanium foundation block into a sprawling, multi-tiered diplomatic hub.
 
 Built under the protective overwatch of the Colton family, the outpost featured massive hydro-glass atriums, pressurized botanical gardens, and heavy-duty docking bays. It was legally the sovereign territory of the Global Defense Coalition, but the 0.48G gravity and the breathtaking, inescapable view of Planet Eden hanging in the pitch-black sky served as a constant reminder of who actually owned the system.
@@ -489,8 +477,6 @@ As he boarded the sleek silver runabout and requested clearance through the Aegi
 
 ### Part 2: The Gravity of Home
 
-# Jack – The Lunar Embassy
-
 The silver runabout descended through the hazy, golden-hour clouds of Planet Eden, the Aegis shield shimmering invisibly as it granted the ship clearance.
 
 As Jack brought the vessel down toward the landing pad on the edge of the Genesis Valley, the oppressive, sterile silence of the lunar embassy instantly evaporated. Even through the reinforced hull of the ship, he could hear the distant, booming laughter of his brothers, Tyler and Evan, and the chaotic, echoing shouts of the Genesis cohorts running through the fields.
@@ -546,8 +532,6 @@ For now, he would endure it. He was the peacemaker, and keeping the diplomatic c
 But as Claire reached over and gently wiped a smudge of dirt off Jack's cheek, offering him a warm, deeply knowing smile, Jack knew exactly where his heart actually lived.
 
 ### Part 3: The Newport Fifty
-
-# Jack – The Lunar Embassy
 
 Wyatt Colton leaned heavily against the stone archway of the Sanctuary’s main living room, a steaming mug of black coffee warming his scarred hands. He kept his presence quiet, his watchful, deep-set eyes observing the operational dynamic of his family from the perimeter.
 
@@ -619,8 +603,6 @@ Ellie immediately straightened up, her tactical mind seamlessly pivoting from de
 
 ### Part 1: The Great Chowder Rebellion
 
-# The Refugee
-
 The sprawling, open-air timber dining pavilion in the center of Genesis Village was currently ground zero for a massive cultural uprising.
 
 Twenty-one-year-old Jack Colton, now standing a broad-shouldered six-foot-three and wearing a durable canvas work shirt, rubbed the bridge of his nose. He was the designated Diplomatic Liaison to the Earth Remnant, but right now, he was negotiating a domestic hostage crisis involving twelve very angry five-year-olds.
@@ -688,8 +670,6 @@ He cut the connection. He looked down at Willow. Her dark eyes were wide with a 
 Jack turned and broke into a jog toward the mountain access lift, his diplomatic instincts completely overriding his caution. He was rushing off to Anchor to offer a lifeline to a desperate survivor, completely unaware that he was about to invite the most toxic, devastating threat Planet Eden had ever faced right into his own heart.
 
 ### Part 2: The Exception
-
-# The Refugee
 
 Jack’s silver runabout touched down on Pad 2 of the Lunar Embassy with a soft, magnetic hum. He didn’t wait for the boarding ramp to fully extend before he was moving, his long legs carrying him swiftly through the pressurized hydro-glass corridors in Anchor’s 0.48G environment.
 
@@ -759,8 +739,6 @@ He aimed the nose of the ship toward the lush, green-and-blue surface of Planet 
 
 ### Part 3: The Golden Cage
 
-# The Refugee
-
 Sub-Level 6 of the mountain estate was a marvel of pristine, automated medical technology, but to Sloane, it was starting to feel incredibly isolating.
 
 She was sitting upright in the primary diagnostic bio-bed, a plush, molecularly printed blanket pulled over her lap. The dark, blooming contusion across her cheekbone was already fading into a dull yellow, and the agonizing ache in her side was completely muted by the steady, painless drip of Aria's molecular regeneration agents.
@@ -822,8 +800,6 @@ But as she looked at the brushed-steel doors, she swallowed her frustration. Jac
 ## The Asylum
 
 ### Part 1: The Scavenger\'s Tale
-
-# The Asylum
 
 The mahogany-paneled library of the mountain estate had been temporarily converted into a formal debriefing room.
 
@@ -902,8 +878,6 @@ Sloane hugged him back tightly, burying her face into the crook of his neck. As 
 She had done it. She had survived the interrogation. The Commander was skeptical, and those creepy twin sisters were definitely going to be a problem, but Jack was already entirely hers. She had secured her foothold, and she had absolutely no intention of ever letting it go.
 
 ### Part 2: The Village Square
-
-# The Asylum
 
 The transition from the hyper-militarized, polished-stone corridors of the mountain estate down to the sprawling, sunlit valley of Genesis Village was like stepping onto an entirely different planet.
 
@@ -994,8 +968,6 @@ The moment the latch clicked into place, the sweet, vulnerable smile completely 
 *Fine,* Sloane thought, her dark eyes narrowing as she watched him go. *If you won't leave the Main Residence for me... I'll just have to make sure you eventually realize that you don't need them anymore.* She turned away from the glass, beginning to unpack the small canvas bag Aria had provided, ready to play the absolute perfect, long-term game.
 
 ### Part 3: The Collection Agency
-
-# The Asylum
 
 The morning sun had barely crested the eastern ridge when the tactical alarms in the Combat Information Center violently shattered the quiet of the mountain estate.
 
@@ -1094,8 +1066,6 @@ Ellie turned on her heel and marched back toward the runabout.
 Sloane buried her face back in Jack's chest, hiding the cold, triumphant smirk that touched her lips. She had officially secured her human shield. The Commander was a problem, yes, but as long as Jack was willing to stand between her and the rest of the universe, Sloane knew she had already won the war.
 
 ### Part 4: The Extraction of Toxicity
-
-# The Asylum
 
 The golden hour had faded into a cool, starry night over the Village of Genesis.
 
@@ -1207,8 +1177,6 @@ Jack nodded, a profound sense of relief washing over him. The toxicity was gone.
 
 ### Part 5: The Detox
 
-# The Asylum
-
 The Main Residence of Genesis Village was a sprawling, beautifully constructed timber lodge that sat right on the bend of the rushing river. It was loud, lived-in, and currently shared by Jack, Molly, Claire, and Willow.
 
 Tonight, however, it was incredibly quiet.
@@ -1258,8 +1226,6 @@ Jack let out a sudden, loud laugh, the tension completely shattering. He reached
 They sat together on the deck for a long time, listening to the rushing water of the Genesis River. The toxic refugee was gone, banished back into the cold vacuum of space, and the prince of Eden was exactly where he belonged.
 
 ### Part 6: The Filter
-
-# The Asylum
 
 The sprawling timber Main Residence in Genesis Village was finally winding down for the night. The heavy, automated shutters had been drawn over the windows, sealing the comfortable home against the dark of the valley.
 
@@ -1335,8 +1301,6 @@ Jack let his hands rest over his sisters' arms, the heavy, lingering toxicity of
 
 ### Part 1: The Geometry of Peace
 
-# Leo – The Overseer
-
 To Leo Colton, the universe was not made of chaotic events or unpredictable emotions. The universe was made of geometry, pressure, and frequency.
 
 He sat in the center of the Combat Information Center on Sub-Level 3, the heavy, adult-sized titanium frame of his Daily Driver powerchair perfectly aligned with the exact center tile of the grated floor. The ambient temperature of the room was exactly 21.6°C. The geothermal reactors humming three levels below produced a continuous, low-frequency baritone vibration at exactly 40 hertz.
@@ -1394,8 +1358,6 @@ He didn't need to go down to the village. He didn't need to walk in the dirt or 
 He was the Overseer of Planet Eden, and his universe was absolutely perfect.
 
 ### Part 2: The Kinetic Variables
-
-# Leo – The Overseer
 
 The heavy brushed-steel doors of the pneumatic elevator on Sub-Level 3 hissed open.
 
@@ -1462,8 +1424,6 @@ Leo watched the elevator doors seal. The CIC returned to its perfect 40-hertz ge
 He wasn't a burden to the Colton family. He was the brain that kept the entire machine running.
 
 ### Part 3: The Shenandoah Curve
-
-# Leo – The Overseer
 
 With the tactical perimeter of the village officially secure and the hostile variable named Sloane successfully extracted from the system, Leo Colton shifted his visual focus on the massive holographic table.
 
@@ -1537,8 +1497,6 @@ The Shenandoah Valley was gone, burned to ash decades ago, but its ghost was abo
 
 ### Part 4: The Stewards
 
-# Leo – The Overseer
-
 The Combat Information Center was quiet, save for the low, 40-hertz hum of the geothermal reactors and the steady pulsing of the massive holographic table.
 
 On the glass, the topographical map of the Shenandoah Valley had faded, replaced by the live, real-time telemetry of Planet Eden. Deep on Sub-Level 6, the automated systems were already adjusting the nutrient flows for the one hundred newly active artificial wombs.
@@ -1597,8 +1555,6 @@ Leo’s hands flew across his MagnaPad, entirely in his element. He didn't want 
 
 ### Part 1: The Watch
 
-# Wyatt – The Founders
-
 The observation terrace extending from the western face of the mountain estate was bathed in the warm, late-morning sunlight.
 
 Wyatt Colton sat on one of the plush, weather-resistant loungers. At fifty years old, the deep-sea welder and former S.H.O.P. Marine was still a massive, formidable physical presence, but time and peace had finally softened his edges. His dark beard and hair were heavily threaded with silver, and the deep, hyper-vigilant tension that used to permanently lock his broad shoulders had entirely melted away.
@@ -1653,8 +1609,6 @@ Sarah smiled, leaning her lounger back so she was perfectly parallel with him. S
 
 ### Part 2: The Age of Majority
 
-# Wyatt – The Founders
-
 The mahogany-paneled library of The Sanctuary was cool and quiet, offering a perfect refuge from the midday sun.
 
 Wyatt Colton leaned heavily over the holographic glass table, his thick, scarred fingers swiping through the digital drafts of the planetary civil code. Beside him, Sarah was taking notes on her datapad. With the Appalachian 100 currently gestating in the vault, the Founders were meticulously auditing the village's legal framework to ensure it could handle the massive influx of life.
@@ -1708,8 +1662,6 @@ Wyatt nodded, looking back at the glowing blue text of their finalized civil cod
 ## Leo – The Wilderness
 
 ### Part 1: The Logistics of the Wild
-
-# Leo – The Wilderness
 
 To Leo Colton, a successful operation was entirely dependent on the structural integrity of its preparation. The wilderness was not an enemy to be feared; it was simply a complex equation of natural variables that required the correct architectural formula to balance.
 
@@ -1769,8 +1721,6 @@ Leo slammed his hand down on the glowing green execution rune on his tablet.
 
 ### Part 2: Raising the Canvas
 
-# Leo – The Wilderness
-
 The eastern lake was a massive, pristine body of freshwater that mirrored the brilliant blue sky and the towering, emerald-green peaks of the alien pines.
 
 The two silver runabouts sat parked on a flat, rocky outcrop a hundred yards from the shoreline. The air was fresh, carrying the rich scent of damp earth and pine sap. It was a perfect, comfortable 23°C.
@@ -1822,8 +1772,6 @@ Leo sat in his chair, anchored by the heavy, loving weight of Nora against his r
 The universe was mathematically perfect. The wilderness was officially secured.
 
 ### Part 3: The 16-Bit Horizon
-
-# Leo – The Wilderness
 
 Breaking camp was an exercise in flawless, practiced geometry.
 
@@ -1902,8 +1850,6 @@ He reached a heavy hand down to his MagnaPad.
 "The traction is optimal. The acoustic frequency is acceptable," Leo's digital voice announced over the sound of the surf. He looked out at the infinite blue horizon, perfectly anchored by the heavy weight of Nora leaning against his chair. "This is a mathematically sound location for the basecamp."
 
 ### Part 4: The Sydney Echo
-
-# Leo – The Wilderness
 
 Leo sat perfectly still in the Amphibious Rover, the warm, salty breeze washing over his face.
 

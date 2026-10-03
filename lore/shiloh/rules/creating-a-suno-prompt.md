@@ -6,13 +6,10 @@ date: 2026-09-06
 type: "documentation"
 ---
 
-# How to Create Successful Suno Prompts: Our Best Practices
-
 This document summarizes the key rules and lessons learned from our sessions creating songs for **The Stardust Engine** and other projects. It has been fully updated to reflect Suno's adaptations to new industry standards following the September 3rd changeover.
 
 ---
 
-## Part 1: Core Content Rules
 
 ### Rule 1: Avoid Safety Filter Triggers (The "Aggression" Filter)
 Suno's safety filters are very strict and will automatically fail a prompt for words that imply aggression, conflict, or harm, even in a metaphorical or innocent context (like sports).
@@ -44,7 +41,6 @@ The AI is a "blank slate" and will often mispronounce local names, acronyms, or 
 
 ---
 
-## Part 2: Technical & Style Prompt Rules
 
 ### Rule 5: Use a "Clean" Styles Prompt
 Suno treats every prompt as new. It has no memory of previous songs.

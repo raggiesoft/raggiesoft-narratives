@@ -3,8 +3,6 @@ title: "Universal Canon: The Holiday Playlist"
 description: "The official, in-universe holiday playlist used across all Raggiesoft narratives."
 ---
 
-# The Holiday Playlist
-
 This is the definitive, canon holiday playlist that plays in households across the Raggiesoft narratives (including the Delaney household during the 2004 Christmas deployment). It translates real-world holiday classics and pop tracks into their in-universe fictional equivalents.
 
 | Real World Artist & Song | In-Universe Artist & Song |

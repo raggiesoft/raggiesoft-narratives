@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: The Tolerances of Eden
 
-# The Architect
-
 Sub-Level 2 smelled sharply of vaporized ozone and fresh, fragrant alien pine sap.
 
 Wyatt Colton stood at the center of the Fabrication Foundry, covered in a fine layer of sawdust, the heavy safety goggles pushed up onto his forehead. He was wearing his faded canvas work pants and nothing else, his heavily muscled torso slick with sweat from three straight hours of manual labor.
@@ -74,8 +72,6 @@ Wyatt looked down at her, his broad shoulders dropping a fraction of a centimete
 "You already made it ready, Wyatt," Sarah promised, her voice fiercely certain. "You claimed the mountain. You built the walls. Now, you just have to finish the cribs."
 
 ### Part 2: The Silent Scout
-
-# The Architect
 
 Down on Sub-Level 3, the buried Apex dreadnought functioned as the ultimate, heavily armored nervous system for the entire mountain estate.
 
@@ -145,8 +141,6 @@ He looked at the planetary grid hovering above the table. He couldn't just rely 
 
 ### Part 3: The Shield and the Spark
 
-# The Architect
-
 The automated medical wing on Sub-Level 1 was a sanctuary of brilliant white LED light and perfectly filtered, sterile air.
 
 Wyatt Colton sat on a rolling metal stool beside the primary diagnostic bio-bed, his massive shoulders hunched forward as his dark eyes locked onto the high-definition ultrasound monitor. His hands were clasped tightly together, his S.H.O.P. Marine discipline entirely dissolved by the sheer, staggering miracle playing out on the screen in front of him.
@@ -207,8 +201,6 @@ Sarah smiled, a deep, resonant warmth filling her chest. He wasn't just acting l
 
 ### Part 4: The Ghost of Eden
 
-# The Architect
-
 The Combat Information Center on Sub-Level 3 was vibrating.
 
 Wyatt Colton stood at the primary tactical holotable, his heavy boots planted firmly on the grated deck as the buried dreadnought’s twin fusion reactors spooled up to ninety percent capacity. The sheer, terrifying amount of power required to completely mask a terrestrial planet was causing the ambient lighting in the CIC to flicker rapidly between blue and white.
@@ -222,8 +214,6 @@ Wyatt looked at the glowing holographic globe hovering above the glass table. Fo
 Wyatt slammed his hand down on
 
 ### Part 5: The Dead Rock
-
-# The Architect
 
 The master suite was perfectly quiet, bathed in the soft, ambient amber glow of the geothermal fireplace. Wyatt was deeply asleep, his heavy arm draped protectively over Sarah’s waist as she rested on her side, the twenty-five-week swell of the triplets pressed safely against him.
 
@@ -375,8 +365,6 @@ He pictured it perfectly in his mind. Ellie in the left crib, Nora in the right,
 
 ### Part 6: The Aegis Hallucination
 
-# The Architect
-
 The morning after the corporate surveyor vessel fled the sector, Wyatt was back down in the Combat Information Center on Sub-Level 3.
 
 He stood at the primary holographic table, a steaming mug of black coffee in one hand, while his other hand scrolled rapidly through the estate's energy logs. The massive geothermal power generating plant tapped directly into the planet's mantle was humming beautifully, but the data cascading across the glass didn't make any sense to his mechanic’s brain.
@@ -437,8 +425,6 @@ Wyatt looked at the glowing blue holographic globe, his mechanic's brain entirel
 
 ### Part 7: The Administrative Override
 
-# The Architect
-
 The automated medical wing on Sub-Level 1 was sterile, brilliantly lit, and completely empty except for Wyatt Colton.
 
 At thirty weeks into the triplet pregnancy, Sarah was resting upstairs in the master suite, her body pushed to the absolute physical limits of human gestation. Down here in the quiet hum of the clinic, Wyatt was preparing for the inevitable.
@@ -492,8 +478,6 @@ He was as ready as a father could possibly be.
 "Save the simulation matrix," Wyatt commanded, powering down the holotable. "Keep the bio-bed warmed up. It could be any day now."
 
 ### Part 8: The Weight of the World
-
-# The Architect
 
 The automated medical wing on Sub-Level 1 was no longer just a clinic; it had officially become their entire world.
 
@@ -562,8 +546,6 @@ The calm before the storm was heavy, demanding, and grueling. But as Wyatt sat g
 They were ready.
 
 ### Part 9: Cosmic Dust
-
-# The Architect
 
 The automated medical wing remained wrapped in a quiet, localized amber glow. Sarah was deeply asleep, her breathing finally evening out after the grueling, exhausted transfer to the washroom a few hours prior.
 
@@ -643,8 +625,6 @@ The universe had just tried to break down his front door, and it had ceased to e
 
 ### Part 1: The Gravity of Eden
 
-# The Arrival
-
 For over a week, the medical wing had existed in a state of suspended, heavy anticipation. At thirty-one weeks, the sheer, crushing mass of the triplet pregnancy had pushed Sarah to the absolute limits of human endurance.
 
 Wyatt was asleep on his floor mattress, his arm resting on the cold anti-microbial floor plates so his fingers could stay tangled with Sarah’s where her hand dangled off the edge of the bio-bed.
@@ -704,8 +684,6 @@ Wyatt braced his boots against the mattress, tightening his protective grip on h
 The Vanguard was breaching the perimeter.
 
 ### Part 2: The Vanguard\'s Spear
-
-# The Arrival
 
 The clinical, brilliant white light of the medical bay reflected off the polished glass of the diagnostic monitors.
 
@@ -774,8 +752,6 @@ The transition was over. The Interval had begun.
 "One down, sweetheart," Wyatt said, his dark eyes locking onto Sarah's as she braced herself for the next wave. "She's safe. Now let's go get her sister."
 
 ### Part 3: The Hypoxic Clock
-
-# The Arrival
 
 The sharp, furious cries of his firstborn daughter echoed safely from the heated bassinet behind him, but Wyatt Colton didn't have a single second to celebrate.
 
@@ -856,8 +832,6 @@ He looked at her tiny, breathing chest, then turned his dark, fierce eyes back t
 Two down. One to go.
 
 ### Part 4: The Lion\'s Fight
-
-# The Arrival
 
 The medical bay was a symphony of chaos and miracles. From the far wall, the furious, healthy cries of Ellie and the thin, wavering wails of Nora filled the room.
 
@@ -953,8 +927,6 @@ The Vanguard had arrived. And Wyatt Colton had never been more terrified, or mor
 
 ### Part 5: The Incubator Watch
 
-# The Arrival
-
 The automated medical bay had settled into a quiet, rhythmic hum. The flashing crimson lights were gone, replaced by the soft, warm amber glow of the localized night-cycle illumination.
 
 On the primary bio-bed, Sarah was completely submerged in a deep, medically induced restorative sleep. Her body had been pushed past the absolute limits of human endurance, and Aria was strictly regulating her vitals to ensure a smooth, uninterrupted recovery.
@@ -1019,8 +991,6 @@ Wyatt’s entire demeanor softened. He abandoned his logistical worries and cros
 
 ### Part 6: Reaching in the Dark
 
-# The Arrival
-
 Sarah tried to push herself up on her elbows, her dark eyes frantic with the desperate need to see the children she had just spent seven grueling months building. But her muscles were entirely spent, her arms trembling under her own weight.
 
 "Hey, hey, don't move," Wyatt ordered gently, immediately pressing his hands to her shoulders to keep her flat on the memory-foam mattress. "You are completely redlined, Sarah. I'll bring them to you."
@@ -1066,8 +1036,6 @@ Wyatt leaned down, pressing a kiss to Sarah’s damp hair. They had survived the
 "Get some rest, Sarah," Wyatt murmured, keeping his vigilant watch over the three incubators. "I'm not taking my eyes off them. I promise."
 
 ### Part 7: The Maintenance Schedule
-
-# The Arrival
 
 Exactly one week after the chaotic delivery, the automated medical bay on Sub-Level 1 had settled into a grueling, relentless rhythm.
 
@@ -1137,8 +1105,6 @@ Wyatt pulled his stool back to the center of the room. He sat down, crossing his
 
 ### Part 8: The Annoyance
 
-# The Arrival
-
 The 02:00 feeding and maintenance cycle was always the hardest. The profound, physical exhaustion in Wyatt Colton’s bones felt like lead, but his S.H.O.P. Marine discipline refused to let him miss a single drop of the fortified milk.
 
 He was standing in front of Bassinet 2, his heavy arms pushed through the circular access ports of the incubator, carefully holding the syringe to Nora’s enteral feeding tube. Behind him, Sarah was fast asleep on the bio-bed, her breathing deep and even.
@@ -1198,8 +1164,6 @@ Wyatt dried his hands and pulled his rolling stool over to Bassinet 3. Leo was l
 "I've got you, little lion," Wyatt whispered, pushing his massive arms through the circular access ports to begin the feeding cycle all over again. "Nothing's getting through the door."
 
 ### Part 9: The Engine Block
-
-# The Arrival
 
 The adrenaline that had sustained Wyatt Colton for the first month of his children’s lives was finally beginning to run dry.
 
@@ -1274,8 +1238,6 @@ As Wyatt finally collapsed onto the heavy mattress on the floor, letting the exh
 ## The Blueprint Fails
 
 ### Part 1: The Flaw in the Wood
-
-# The Blueprint Fails
 
 Sub-Level 1 was finally empty.
 
@@ -1366,8 +1328,6 @@ Wyatt stood in the center of the sunlit room, heavily burdened by the sudden, gl
 Wyatt nodded slowly, staring at the sixty-millimeter slats. He was determined to figure out the mechanical flaw in his design, entirely blind to the fact that the only flaw was the sixty centimeters of empty air separating the three mattresses.
 
 ### Part 2: The Gravity of the Hive
-
-# The Blueprint Fails
 
 The nursery was bathed in the soft, ambient amber glow of the night-cycle illumination.
 
@@ -1481,8 +1441,6 @@ Wyatt looked down into the crib at his three children, perfectly synced, breathi
 
 ### Part 3: The Sentinel Directive
 
-# The Blueprint Fails
-
 The morning sun filtered brightly through the hydro-glass windows of the residential kitchen.
 
 Upstairs in the nursery, the triplets were finally, miraculously, sleeping completely through the morning cycle, anchored entirely by their new, huddled formation in the center of Leo’s crib.
@@ -1536,8 +1494,6 @@ Sarah squeezed his hand, a fierce, beautiful smile touching her lips. "Agreed."
 Planet Eden was officially off the map. They were isolated, heavily armed, and perfectly willing to talk—but absolutely prepared to destroy anyone who threatened their peace.
 
 ### Part 4: The Mega-Crib
-
-# The Blueprint Fails
 
 Sub-Level 4 was thick with the smell of ozone and vaporized alien pine.
 
@@ -1596,8 +1552,6 @@ Wyatt leaned over the rail, his chest aching with a fierce, profound love. He ha
 "Okay," Wyatt murmured softly, kissing the top of Sarah's head. "The Mega-Crib stays."
 
 ### Part 5: The Supply Drop
-
-# The Blueprint Fails
 
 Spring had finally touched the northern hemisphere of Planet Eden, turning the dense, alien pine forests surrounding the estate a vibrant, deep emerald.
 
@@ -1673,8 +1627,6 @@ Planet Eden remained a ghost in the dark—a heavily armed, completely inaccessi
 
 ### Part 6: The Soup Kitchen
 
-# The Blueprint Fails
-
 The estate was completely quiet. Upstairs in the nursery, the triplets were deeply asleep in the center of the massive, custom-built Mega-Crib, entirely oblivious to the fact that their father had just saved three hundred lives from the vacuum of space.
 
 Down in the residential living room, the geothermal fireplace cast a warm, flickering amber glow across the heavy timber beams and the polished stone floors.
@@ -1710,8 +1662,6 @@ The galaxy would continue to burn outside the impenetrable hard-light barrier of
 ## The Vanguard Discovers Gravity
 
 ### Part 1: The Rule of Three
-
-# The Vanguard Discovers Gravity
 
 The Aegis deflector shield could effortlessly absorb the kinetic impact of a hyper-dense anti-matter warhead. It could silence the deafening roar of a corporate orbital bombardment, rendering the apocalypse entirely mute.
 
@@ -1780,8 +1730,6 @@ Wyatt let out a massive, ragged sigh, leaning his elbows on the kitchen island. 
 Wyatt looked at the three of them, eating their breakfast in perfect, unbroken physical contact. He loved them with a ferocity that defied physics, but keeping up with the Vanguard's specific, silent expectations was going to require more tactical planning than securing the entire planet.
 
 ### Part 2: The Tactical Extraction
-
-# The Vanguard Discovers Gravity
 
 The estate was incredibly, blissfully quiet.
 
@@ -1864,8 +1812,6 @@ They were two years old. They couldn't walk. They couldn't talk. But as Wyatt sa
 You absolutely never leave a man behind.
 
 ### Part 3: The Milestones
-
-# The Vanguard Discovers Gravity
 
 By late summer, the sprawling, sage-green nursery on the residential level had evolved from a quiet sanctuary into a highly active, chaotic proving ground.
 
@@ -1961,8 +1907,6 @@ The clinical definitions didn't matter. The delays didn't matter. Wyatt couldn't
 
 ### Part 4: The Chariot
 
-# The Vanguard Discovers Gravity
-
 Sub-Level 4 smelled of hot ozone, melted synthetic rubber, and freshly milled alien pine.
 
 Wyatt Colton was hunched over the primary heavy-assembly workbench, a pair of precision calipers in his hand. He was completely absorbed in the mechanical tolerances of a custom axle assembly when the soft, rhythmic sound of footsteps echoed against the grated steel floor.
@@ -2038,8 +1982,6 @@ Wyatt slowly lowered his empty hands, exchanging a stunned, defeated look with h
 Ellie gave a satisfied grunt. She leaned into the handle, and the Chariot rolled smoothly out into the corridor, a perfectly self-contained, inseparable force of nature.
 
 ### Part 5: The Hydroponics Breach
-
-# The Vanguard Discovers Gravity
 
 The Colton estate was operating at peak efficiency. The Aegis shield was humming at a flawless one hundred percent capacity, the geothermal reactors were perfectly balanced, and Wyatt and Sarah were finally sitting down to eat a quiet lunch in the residential kitchen.
 
@@ -2118,8 +2060,6 @@ Wyatt looked at Ellie. The two-year-old narrowed her eyes at the ceiling speaker
 "No," Wyatt smirked, wrapping his massive arm around Sarah's shoulders. "Leave the wagon operational. I want to see what she figures out next."
 
 ### Part 6: Establishing Comms
-
-# The Vanguard Discovers Gravity
 
 The afternoon sun poured through the massive hydro-glass windows of the residential living room, casting long, warm shadows across the polished stone floor.
 
@@ -2215,8 +2155,6 @@ Wyatt’s S.H.O.P. Marine brain froze. He looked at her hand. He looked at her e
 
 ### Part 1: The New Recruit
 
-# The Chain of Command
-
 Sub-Level 1 was no longer a place of terror.
 
 Four years ago, the automated medical bay had been a chaotic, flashing nightmare of emergency triage and severe prematurity. Today, the ambient lighting was a calm, soothing blue, and the atmosphere was entirely relaxed.
@@ -2292,8 +2230,6 @@ Wyatt looked at Sarah, a deep, beautiful peace settling over him.
 They were going to make it to forty weeks. The new baby was going to be born into a completely stable, fully functioning fortress, completely insulated from the horrors of the galaxy. And most importantly, he already had a three-year-old commanding officer fiercely dedicated to his survival.
 
 ### Part 2: The Unified Design
-
-# The Chain of Command
 
 The acoustic dampeners in the master bedroom were perfectly calibrated to filter out the ambient hum of the geothermal reactors, but they intentionally allowed specific frequencies through.
 
@@ -2395,8 +2331,6 @@ She looked back at Wyatt, batted her eyelashes, and offered that same devastatin
 
 ### Part 3: The Tactical Latrine
 
-# The Chain of Command
-
 By November, the residential bathroom at the end of the hall had been completely overhauled. Wyatt Colton had approached the dreaded milestone of potty training with the exact same S.H.O.P. Marine intensity he used to secure the planet's atmospheric scrubbers.
 
 The bathroom was no longer just a washroom; it was a highly specialized, multi-tiered tactical latrine.
@@ -2483,8 +2417,6 @@ Sarah wiped a tear from her cheek, taking a sip of her tea as she smiled at her 
 
 ### Part 4: The Defensive Perimeter
 
-# The Chain of Command
-
 Outside the massive hydro-glass windows of the estate, a heavy, pristine winter snow was falling over the alien pine forests of Planet Eden. Inside the residential living room, the geothermal fireplace was roaring, casting a warm amber glow across the polished stone.
 
 Sarah Colton was nestled deep into the oversized leather sofa, propped up by an absolute mountain of memory-foam pillows. At thirty-nine weeks pregnant, her belly was a massive, prominent sphere. She was resting her hands on top of it, breathing through the dull, persistent ache in her lower back.
@@ -2548,8 +2480,6 @@ Wyatt slowly closed his mouth, a deep, booming chuckle vibrating in his chest. H
 "Copy that, Commander," Wyatt smiled, holding his hands up in surrender. "The new recruit is all yours."
 
 ### Part 5: The Bootcamp
-
-# The Chain of Command
 
 The automated medical bay on Sub-Level 1 was an entirely different universe than it had been four years ago.
 
@@ -2635,8 +2565,6 @@ Wyatt stood in the dim light of the nursery, watching his four children. The gal
 
 ### Part 6: The Genesis Check
 
-# The Chain of Command
-
 The estate was quiet, bathed in the soft, warm amber glow of the evening cycle.
 
 Upstairs in the nursery, the Vanguard had successfully concluded their daily operations. The commanding officer had executed a flawless transfer of the new recruit from Sarah's arms to his crib, overseen his swaddling, and officially logged him in for the night shift. Jack, now ten weeks old and completely neurotypical, was currently sleeping peacefully in his standard crib, anchored securely to the massive, floor-level Mega-Bed where his older siblings were huddled.
@@ -2702,8 +2630,6 @@ They turned away from the stasis pillars, walking back to the elevator in the ic
 ## The Rapid Deployment
 
 ### Part 1: The Accelerated Recruit
-
-# The Rapid Deployment
 
 The residential living room had been entirely cleared of all non-essential obstacles. The heavy reclaimed-wood coffee table was pushed against the far wall, leaving a massive, open expanse of plush rug.
 
@@ -2780,8 +2706,6 @@ The Vanguard would never leave him behind.
 Ellie gave a firm nod, taking up her defensive post by the door. Nora leaned her cheek against Leo's shoulder, anchoring him while he went. And down the hall, little Jack waddled happily toward the kitchen, completely unaware of the beautiful, unbreakable armor his older siblings had built around each other.
 
 ### Part 2: The Terrain Deficit
-
-# The Rapid Deployment
 
 The main foyer of the Colton estate looked like the staging ground for a planetary invasion.
 
@@ -2889,8 +2813,6 @@ The Vanguard was going to conquer the outside world. But first, Wyatt had to bui
 
 ### Part 3: The Multi-Front War
 
-# The Rapid Deployment
-
 The Sub-Level 4 Fab-Foundry was a symphony of automated industry.
 
 Wyatt Colton was completely dialed in. He had his heavy welding goggles pulled down, a plasma cutter in one hand, and a pair of digital calipers in the other. He wasn't modifying the original Chariot; the Vanguard needed that for interior patrols. He was building an entirely new tactical transport from the ground up.
@@ -2993,8 +2915,6 @@ The Vanguard didn't care about corporate armadas or orbital bombardments. As lon
 
 ### Part 4: The Ghost Planet
 
-# The Rapid Deployment
-
 Lightyears away from the peaceful, amber-lit nursery of Planet Eden, the atmosphere was entirely devoid of warmth.
 
 In the absolute center of the sovereign planet Acheron, the true headquarters of Apex Defense Solutions—a brutal, totalitarian military dictatorship masquerading as a corporate entity—loomed over a sprawling metropolis.
@@ -3060,8 +2980,6 @@ Wyatt and Sarah thought they had won. They thought they had built a perfect, imp
 Exoplanet 4 was no longer a dead rock. It was the most dangerous target in the galaxy. And the High Director was going to find out exactly who was hiding behind that shield.
 
 ### Part 5: The All-Terrain Vanguard
-
-# The Rapid Deployment
 
 The foyer of the Colton estate was once again a staging ground, but this time, the S.H.O.P. Marine had properly accounted for the battlefield.
 
@@ -3134,8 +3052,6 @@ She turned back to look at her family. Leo was smiling in the sun. Nora was coll
 The commander crossed her arms over her tactical vest. She gave a firm, satisfied nod. The objective was complete. The outside world officially belonged to the Vanguard.
 
 ### Part 6: The Authorized Harvest
-
-# The Rapid Deployment
 
 The pneumatic elevator hummed a low, steady note as it descended deep into the bedrock of Planet Eden.
 
@@ -3214,8 +3130,6 @@ Wyatt stood at the end of the aisle, watching Nora carefully pick a tomato of he
 The harvest was chaotic, messy, and loud, but the chain of command was holding perfectly. The Colton family was officially cultivating their own future, and the Vanguard was overseeing every single step of the operation.
 
 ### Part 7: The Constitutional Override
-
-# The Rapid Deployment
 
 Two years ago, Wyatt Colton had made a massive, critical error in judgment.
 
@@ -3317,8 +3231,6 @@ Ellie gave a firm nod of approval, instantly turning her attention back to the g
 
 ### Part 8: The Legal Precedent
 
-# The Rapid Deployment
-
 The ten-minute authorized stay in the Combat Information Center had concluded. The Vanguard had successfully driven their stroller-convoy back to the residential living room, and Sarah was currently deploying a highly effective distraction involving synthesized peanut butter and a holographic puzzle.
 
 Wyatt, however, had not gone upstairs.
@@ -3366,8 +3278,6 @@ She looked over at Leo’s tablet. She would have to run a perimeter test later.
 Down in the CIC, Wyatt chuckled to himself as he walked back to the elevator. The loophole was closed. Planet Eden was secure.
 
 ### Part 9: The Perimeter Test
-
-# The Rapid Deployment
 
 Down in the Combat Information Center, the holographic code on the primary monitor glowed a steady, secure green. The loophole was officially closed.
 

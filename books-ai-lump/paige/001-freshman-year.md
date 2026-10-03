@@ -9,8 +9,6 @@ series: ""
 
 ### Part 1: The Downbeat
 
-# Band Camp
-
 The red numbers on the digital alarm clock flipped from 6:59 to 7:00 AM, accompanied by the harsh, electronic buzz of the radio springing to life. It wasn't music; it was a static-filled Morning Zoo commercial for a local car dealership, shouting about low financing rates.
 
 Freddie groaned, burying his face into the pillow. The sound felt like sandpaper against his eardrums. He tried to retreat into the darkness behind his eyelids, clinging to the phantom logic of a dream he was already forgetting, but the physical world was demanding entry.
@@ -32,8 +30,6 @@ Freddie sat up, his legs heavy. His cerebral palsy—spastic diplegia, though he
 "Yes," Paige said, tossing a pair of gym shorts at him. "We’re in the Pit. We don't have to march. We just have to hit things with other things. It’ll be fine."
 
 ### Part 2: Breakfast
-
-# Band Camp
 
 Downstairs, the kitchen was already a hub of controlled activity. A small CRT television sat on the counter, humming with the local news, the weather map a pixelated blur of yellow and orange indicating another humid Virginia Beach day.
 
@@ -60,8 +56,6 @@ It bothered him. It felt like walking into a battle without their general. Jessi
 "It'll be okay," Paige said, sensing the spike in his anxiety. She nudged his knee with hers under the table. "It's just us and the drummers. Less people. Less noise."
 
 ### Part 3: The Section Leader
-
-# Band Camp
 
 Paige was wrong. There were not *less* people. Or rather, there were fewer people than the full band, but the people who were there were the loudest human beings Freddie had ever encountered.
 
@@ -123,8 +117,6 @@ Paige leaned in, pretending to adjust a mallet bag on the floor next to him.
 
 ### Part 4: Texture
 
-# Band Camp
-
 When Heidi returned five minutes later, she looked chastened. She didn't look at Freddie. She walked stiffly to the vibes, clapped her hands twice, and yelled, "Okay! Warm-ups! Let's go!"
 
 But the chair remained.
@@ -161,8 +153,6 @@ Freddie smiled. It was the first time that morning his smile reached his eyes. H
 
 ### Part 5: The File
 
-# Band Camp
-
 By noon, the humidity had breached the band room walls, making the air thick and heavy, but Freddie was still sitting upright.
 
 The drafting chair was a miracle. While the other freshmen were shifting their weight from foot to foot, grimacing as the blood pooled in their heels, Freddie was stable. He had spent the last three hours learning the warm-up packet—a series of exercises called "Eight on a Hand" and "Accent Tap."
@@ -198,8 +188,6 @@ Paige appeared at Freddie’s elbow, handing him his lunch bag. "See? Mom and Da
 "A tree sounds good," Freddie agreed. He looked back at the drafting chair one last time—his fortress in the middle of the battlefield—and followed his sister out into the sun.
 
 ### Part 6: Rocket Burger
-
-# Band Camp
 
 The tree Paige had found offered shade, but it didn't stop the humidity. The air was a wet blanket, heavy with the drone of cicadas and the distant rattle of snare drums. Freddie sat at the base of the oak, legs stretched out to prevent cramping, while Paige unpacked a sandwich.
 
@@ -250,8 +238,6 @@ Freddie looked at Paige, who was quietly eating her cheeseburger, content to let
 "I can do that," Freddie said, taking a bite of his burger. The "Spoons" were returning to his body with every calorie. "As long as I have my chair, she can yell all she wants."
 
 ### Part 7: The Connection
-
-# Band Camp
 
 The air conditioning of the family van was a sanctuary they were reluctant to leave, but the digital clock on the dashboard read 12:55 PM.
 
@@ -311,8 +297,6 @@ Freddie hit the first note of the exercise. It rang out clear and true. He was s
 
 ### Part 8: The Overwatch
 
-# Band Camp
-
 When the door to Mr. Panoff's office opened, Freddie expected Jessica to walk straight out of the band room and toward the parking lot to wait for their mother. The air conditioning in the office was fierce, and the band room was rapidly becoming a sauna of teenage sweat and humidity.
 
 Instead, Jessica walked over to the stack of surplus chairs near the wall—about ten feet away from the Pit setup—and pulled one down. She placed it carefully, angled so she had a clear line of sight to the marimbas and the vibraphones, but far enough away that she wasn't technically "in" the rehearsal space.
@@ -342,8 +326,6 @@ He looked at Jessica again. She wasn't even looking at them; she was completely 
 The afternoon, which had loomed ahead of them like an endurance test, suddenly felt manageable. They weren't just surviving the day; thanks to the girl in the corner with the paperback book, they were actually going to learn the music.
 
 ### Part 9: The All Clear
-
-# Band Camp
 
 "Band! Detail, ten-hut!"
 
@@ -409,8 +391,6 @@ Freddie closed his eyes, listening to Elara explain the concept of a 'green ligh
 
 ### Part 10: The Table
 
-# Band Camp
-
 Gus's Grille was a sensory experience that Freddie usually found challenging, but tonight, it felt like a victory lap. The restaurant was a long, narrow establishment with black-and-white checkered floors and red vinyl booths that squeaked when you sat on them. It smelled of frying oil, coffee, and lemon polish.
 
 "Party of ten!" Robert announced to the hostess, a woman named Barb who had seen the Avery clan grow from a manageable quartet to a small army over the last decade.
@@ -458,8 +438,6 @@ Paige heard him. She bumped his shoulder with hers. "I know you can. We're just 
 ## The Fall
 
 ### Part 1: Third Quarter
-
-# The Fall
 
 Friday nights in Virginia Beach were a religion, and the Northwood High School football stadium was the cathedral. The air smelled of popcorn, diesel fumes from the buses, and the ozone of impending rain.
 
@@ -585,8 +563,6 @@ Paige turned back to Freddie, ignoring the crowd, and wrapped him in the hug Jas
 
 ### Part 2: The Signal
 
-# The Fall
-
 The crowd at the concession stand flowed around them like a river around a rock, but the space where Jason had stood felt strangely empty.
 
 "He's an idiot," Jessica declared, taking a long sip of her Mega-Cola. She adjusted her glasses, her eyes tracking Jason’s retreating figure as he disappeared toward the drumline equipment truck. "He thinks volume equals personality. Common percussion error."
@@ -638,8 +614,6 @@ For the first time in high school, the signal was stronger than the noise.
 ## Winter 2000
 
 ### Part 1: The Visitor
-
-# Winter 2000
 
 Christmas Day in the Avery household was less of a holiday and more of a logistical event. With eight children, the living room floor was a sea of torn wrapping paper, cardboard boxes, and tangled ribbons.
 
@@ -737,8 +711,6 @@ He watched her walk back to her car, waving until she turned the corner. He stoo
 
 ### Part 2: The Confrontation
 
-# Winter 2000
-
 The first week back after Winter Break always felt like a reboot. The school smelled of damp wool coats and cleaning fluid. Outside, the Virginia sky was a flat, miserable gray, leaking a freezing rain that turned the sidewalks into slush.
 
 But Freddie did not mind the cold. He was carrying a piece of the sun in his pocket.
@@ -813,8 +785,6 @@ She reached out and wrapped her arms around him. It wasn't a gentle hug; it was 
 
 ### Part 3: The Clinic
 
-# Winter 2000
-
 The bell for fourth period lunch rang, a jarring electronic shriek that signaled the migration of two thousand students toward the cafeteria. The hallway, momentarily empty during class, was about to become a stampede.
 
 Freddie flinched at the sound, curling tighter into himself. His stomach gave a painful, hollow growl—he hadn't eaten breakfast due to nervous excitement about giving Courtney the photo—but the thought of the cafeteria was impossible. The clattering trays, the yelling, the smell of industrial pizza... it was a sensory assault he could not survive right now.
@@ -882,8 +852,6 @@ Mrs. Gable brought a small paper cup with water and his mid-day muscle relaxer. 
 Freddie closed his eyes. The medicine would kick in soon, loosening the knots in his legs. But the confusion remained—a cold, heavy weight in his chest. He didn't know what he was accused of, only that he had been convicted.
 
 ### Part 4: The Law of the Lunchroom
-
-# Winter 2000
 
 The journey from the clinic to the cafeteria was a slow, agonizing shuffle. The muscle relaxer Mrs. Gable had administered was beginning to soften the edges of the spasms, but Freddie’s legs were still heavy, unresponsive columns of lead.
 
@@ -985,8 +953,6 @@ Jessica and Paige hoisted Freddie up again. As they walked toward the quiet tabl
 
 ### Part 1: The First Satellite
 
-# The Static
-
 The ride home in the family van had been a blur of grey noise. Freddie sat in the back, staring at the floor mats, his hands clamped over his ears even though the radio was off. The words Josh Riley had shouted in the cafeteria—I told her exactly what he was up to—were looping in his head like a corrupted audio file.
 
 He felt dirty. He felt like the "monster" Josh had painted him to be.
@@ -1086,8 +1052,6 @@ Freddie closed his eyes again. The static of the cafeteria was still there, but 
 "Better," Freddie breathed. "Status is... better."
 
 ### Part 2: The Inside Man
-
-# The Static
 
 Freddie held Harper for another minute, letting the heat of her small body soak into his chest. It was a good weight. It was a simple weight. The pressure on his sternum was actually helping to regulate his breathing, slowing the frantic thump-thump-thump of his heart.
 
@@ -1236,8 +1200,6 @@ If he went to his room, he would be alone. He would be hiding. And if he hid, it
 They walked out of the bathroom together, heading not for the shadows, but for the kitchen, ready to face the noise of the family dinner.
 
 ### Part 3: The Dinner Table
-
-# The Static
 
 The transition from the quiet, emotional triage of the bathroom to the kitchen was like stepping out of a submarine and into a riot.
 

@@ -9,10 +9,6 @@ series: "The Silver Gauntlet of Aethel"
 
 ### Part 1: Chapter 1: The Sundering of Sunstead
 
-# Book I: The Silver Gauntlet of Aethel
-
-## Part 1: A Home in the Hearth
-
 The world outside was ending. At least, that was how it felt to seven-year-old Kaelan.
 
 The cottage on the ridge was groaning. The heavy timber beams, usually so solid, creaked under the assault of the wind. Rain lashed against the thatched roof like handfuls of gravel thrown by an angry giant.
@@ -123,7 +119,6 @@ Elara watched them for a moment longer, making sure they were asleep. Then she s
 
 "Sleep well, starlights," she whispered to the fire. "I will watch the door."
 
-## Part 2: The First Spark
 
 The autumn of their tenth year brought the Harvest Festival to Sunstead.
 
@@ -269,7 +264,6 @@ He squeezed her hand. "Don't let go."
 
 And for the rest of his childhood, Kaelan never tried to carve wood again. He stuck to iron, stone, and things that couldn't burn, terrified of the spark that lived in his own blood.
 
-## Part 3: The Night of the Bowls (Age 11)
 
 The cottage on the ridge was not merely a structure of wood and stone; it was a living thing with a distinct, grumpy personality.
 
@@ -371,7 +365,6 @@ He felt Kaela’s breathing slow down as she drifted back to sleep. He felt the 
 
 Kaelan closed his eyes. He didn't move away. He stayed right there in the cramped, dry center of his world, and he slept better than any King in a five-bedroom palace ever could.
 
-## Part 4: The Weaver's Lesson
 
 The summer they turned twelve, the population of Sunstead swelled. It was the year of the Great Trade, when merchants from the Southern Coast braved the high passes to exchange salt and dried fish for the plateau’s ore and wool.
 
@@ -501,7 +494,6 @@ Kaelan set the bucket down. He didn't understand the loom—it looked boring and
 
 "It is," Kaela said, throwing the shuttle again. "It's perfect."
 
-## Part 5: The Wolf in the Canyon
 
 Thirteen was a dangerous age. It was the age where the boundaries of the backyard felt too small, but the world beyond the ridge was still too big.
 
@@ -655,7 +647,6 @@ She looked at them.
 
 "You almost died today because you fought alone. Starting tomorrow, you learn to fight together. Or you don't leave this ridge again."
 
-## Part 6: The Merchant of Questions
 
 ##### Scene 1: Storm the Castle
 
@@ -813,7 +804,6 @@ This time, Kaelan didn't pull away. He just squeezed her fingers, briefly, befor
 
 Kaela smiled, but her eyes remained on the horizon. She knew they were safe here, but she also knew, for the first time, that the safety was bought with silence and shadows.
 
-## Part 7: The Unripe Fruit
 
 Far to the North, where the compass needles spun uselessly and the wind tasted of iron, the High Tower pierced the sky.
 
@@ -909,7 +899,6 @@ The merchant scrambled backward and fled the room.
 
 Left alone in the silence, Lord Malakor smiled. It was a patient, terrifying smile. He had all the time in the world. He had already won; the heroes just didn't know it yet.
 
-## Part 8: The Last Sunset
 
 At fourteen, the twins were a storm trying to fit inside human skin.
 
@@ -1001,17 +990,12 @@ She saw Kaelan’s eyes drift away from his sister, looking toward the East—to
 
 They sprinted into the twilight, their laughter echoing off the canyon walls—the last truly unified sound they would make for a very long time.
 
-## Part 9: Sunstead Harvest Festival
 
 ##### Scene 1: The Morning of the Feast
 
-Theme: sunstead
 
-Location: The Cottage on the Ridge
 
-POV: Kaelan
 
-=
 
 The heat in the cottage wasn't the angry, suffocating heat of a fever. It was the thick, lazy warmth of a stone oven that had been baking in the sun all day.
 
@@ -1099,13 +1083,9 @@ They began the walk down the winding path toward the red dust and the music, lea
 
 ##### Scene 2: The Afternoon Preparations.
 
-Theme: sunstead
 
-Location: The Market Square
 
-POV: Kaela
 
-=
 
 The Market Square was not built for verticality. It was a flat expanse of cobblestones designed for carts and stalls. But for the Festival of the Twin Suns, the town insisted on defying gravity.
 
@@ -1189,13 +1169,9 @@ It wasn't magic that built the festival. It was sweat, red dust, and the simp
 
 ##### Scene 3: The Festival Night
 
-Theme: sunstead-night-festival
 
-Location: The Market Square (Night)
 
-POV: Kaelan
 
-=
 
 The Sunstead Harvest Festival was not a polite affair. It was a riot of red dust, roasted meat, and music that shook the canyon walls.
 
@@ -1295,13 +1271,9 @@ They sat there as the suns fully set and the stars came out, the Golden Sun and 
 
 ##### Scene 4: The Walk Home
 
-Theme: sunstead-night
 
-Location: The Path to the Ridge
 
-POV: Kaela
 
-=
 
 The music didn't stop all at once; it faded, instrument by instrument, until only a single fiddle remained, playing a slow, sweet lullaby to the dying embers of the bonfires.
 
@@ -1389,15 +1361,12 @@ Kaelan turned in her arms. He looked down at her, his gold-blue eyes searching h
 
 They climbed into the small bed. They curled up together, the big spoon and the little spoon, the Engine and the Steering, holding onto the memory of the music and the taste of honey, trying to ignore the quiet, rattling breath coming from the cot across the room.
 
-## Part 10: The Song of the Anvil
 
-Theme: sunstead-joy
 
 ocation: Horg’s Smithy
 
 Time: Two years before Elara’s death (Age 14)
 
-=
 
 The forge wasn't just loud; it was singing.
 
@@ -1483,15 +1452,11 @@ Kaelan set his sister down. He kept his arm around her shoulders as they walked 
 
 The shop felt full. It felt loud. It felt unbreakable.
 
-## Part 11: Feeding Time
 
-Theme: sunstead-joy
 
-Location: Behind Horg’s Smithy
 
 Time: Two years before Elara’s death (Age 14)
 
-=
 
 The merchant from the Southern Coast, a man named Varrick (not the spy Varek), backed up slowly until his back hit the wall of the smithy. His face was the color of curdled milk.
 
@@ -1563,19 +1528,11 @@ Clinker burped. A small puff of smoke came out of his nose.
 
 ### Part 2: Chapter 2: The Silence of the Hearth
 
-# Book I: The Silver Gauntlet of Aethel
-
-## Part 1: The Fading of the Guardian
-
 ##### Scene 1: The Coldest Winter
 
-Theme: sunstead-winter
 
-Location: The Cottage on the Ridge
 
-POV: Kaelan
 
-=
 
 The winter of their sixteenth year did not arrive; it invaded.
 
@@ -1629,13 +1586,9 @@ Kaelan flinched. "You're not dying."
 
 ##### Scene 2: The Inheritance
 
-Theme: sunstead-winter
 
-Location: The Cottage on the Ridge
 
-POV: Kaela
 
-=
 
 The tea went cold on the table. Elara didn't drink it. She seemed to be gathering her strength for something more important than sustenance.
 
@@ -1725,13 +1678,9 @@ They were exposed.
 
 ##### Scene 3: The Frozen Earth
 
-Theme: sunstead-winter
 
-Location: The Ridge (Outside)
 
-POV: Kaelan
 
-=
 
 Kaelan sat by the bed for a long time. He waited for the explosion. He waited for the rage to take him, to turn him into a supernova that would vaporize the cottage and the snow and the unfairness of it all.
 
@@ -1805,13 +1754,9 @@ But as he looked at the cottage, he realized it wasn't a home anymore. It was a 
 
 ##### Scene 4: The Rejection
 
-Theme: sunstead-winter
 
-Location: The Cottage on the Ridge
 
-POV: Kaela
 
-=
 
 The silence in the cottage was heavy. It wasn't the peaceful quiet of the forest; it was the suffocating silence of a held breath.
 
@@ -1887,7 +1832,6 @@ She looked at the big, empty bed that suddenly felt like a frozen wasteland.
 
 That night, she didn't sleep. She wove a mental wall, brick by brick, to block out the sound of his breathing, because hearing him so close yet so far away hurt more than the cold ever could.
 
-## Part 2: The Cage of Silence
 
 ##### Scene 1: Now that Elara has passed
 
@@ -1979,13 +1923,9 @@ He ignored it. He turned his eyes toward the North.
 
 ##### Scene 2: A Rough Bedtime
 
-Theme: sunstead-rain
 
-Location: The Cottage on the Ridge
 
-POV: Kaela
 
-=
 
 The cottage smelled of burnt sugar and desperation.
 
@@ -2107,9 +2047,7 @@ Kaela eventually stopped squeezing. Her hand went slack against his chest, thoug
 
 ##### Scene 3: The Silence at the Forge
 
-Theme: sunstead-grief
 
-Location: Horg’s Smithy
 
 Time: Six months after Elara’s death (Age 16.5)
 
@@ -2167,13 +2105,9 @@ Horg looked at the empty barrel in the corner. He sighed, a heavy sound in the q
 
 ##### Scene 4: The Drunken Mule
 
-Theme: sunstead-night
 
-Location: The Drunken Mule Tavern
 
-POV: Kaelan
 
-=
 
 The Drunken Mule was the loudest place in Sunstead, which was exactly why Kaelan was there.
 
@@ -2287,7 +2221,6 @@ He turned and began the long walk up the path to the cottage. He wouldn't ask fo
 
 He was leaving tonight.
 
-## Part 3: The Weight of the Shield
 
 The wind at the edge of the plateau tasted of freedom.
 
@@ -2375,7 +2308,6 @@ Kaelan didn't shake her off this time. But he didn't lean into it, either. He la
 
 He drifted into a restless sleep, dreaming of obsidian towers and a voice that promised him he could be a god, while Kaela lay awake beside him, holding onto his arm as if it were the only solid thing in a spinning world.
 
-## Part 4: The Hollow Silence
 
 The woods outside Sunstead were quiet, save for the crunch of dry leaves under boots and the rhythmic thwack of Kaelan’s machete clearing vines that didn't need clearing.
 
@@ -2509,7 +2441,6 @@ He was free.
 
 Kaelan curled forward, his forehead touching the dirt, and let out a scream that tore his throat raw—a sound of pure, unadulterated regret that echoed through the empty canyon, with no one left to hear it.
 
-## Part 5: The Armory of the Free
 
 The walk back to Sunstead took an hour, but to Kaelan, it felt like a lifetime spent walking across the bottom of a dry ocean.
 
@@ -2607,7 +2538,6 @@ But this time, the silence didn't paralyze him. It focused him. It was a void th
 
 Kaelan began to run. He ran into the gathering dark, a single spark of fire heading into the heart of the winter, determined to burn the world down if that’s what it took to make the silence stop.
 
-## Part 6: One Step at a Time
 
 The red dust of the plateau did not give up easily. It clung to Kaelan’s boots for three days, a stubborn reminder of the home he was leaving behind. But on the fourth day, the red turned to the grey of shale and slate. The air, once thick with the scent of sage and heat, grew thin and tasted of pine needles and coming snow.
 
@@ -2731,10 +2661,6 @@ One step at a time, he thought, the words falling into cadence with his boots on
 
 ### Part 1: Chapter 1: The Hunted and the Caged
 
-# Book II: The Shadow's Heart
-
-## Part 1: The Hunter and the Hunted
-
 The Razor Peaks were not merely a mountain range; they were a warning carved in stone.
 
 Kaelan had been climbing for three weeks since the encounter with the bear. The lush green of the southern valleys was a distant memory, replaced by a monochrome world of grey slate, white snow, and black rock.
@@ -2823,7 +2749,6 @@ Behind him, the Gloomwraiths followed. They kept a respectful distance, gliding 
 
 He climbed into the dark, escorted by his enemies, toward the prison where his sister waited.
 
-## Part 2: A Cage of Silver Light
 
 Kaela woke to the feeling of silk against her skin.
 
@@ -2949,7 +2874,6 @@ She walked back to the window and placed her hand against the glass, looking Sou
 
 "Come on, brother," she whispered, her breath fogging the glass. "Don't die. Just come and get me."
 
-## Part 3: The Mirror and the Void
 
 She sat down to wait, her back straight, her mind a fortress, refusing to enjoy a single second of the comfort that Lord Malakor had provided. Chapter 7: The Mirror and the Void
 
@@ -3091,7 +3015,6 @@ She curled up on the straw, pulling her knees to her chest.
 
 "One step, Kaelan," she whispered into the dark, holding onto the victory like a shield. "Just keep taking one step. I’ll be waiting."
 
-## Part 4: The Trial of the Crystal Spiders
 
 The blizzard didn't just arrive; it attacked.
 
@@ -3275,7 +3198,6 @@ He looked North. Somewhere across this baking anvil of a desert lay the marshes,
 
 Kaelan adjusted his pack, shifted the weight of his sword, and stepped off the ledge. He began the long descent into the dust, leaving the clean cold behind for the suffocating heat of the wasteland.
 
-## Part 5: The Sunken City of Sorrows
 
 The desert had ended days ago, replaced by a landscape of grey mud and dying willows. The air here was thick, smelling of rot and standing water.
 
@@ -3397,7 +3319,6 @@ Kaelan took a step forward. Then another.
 
 The Gauntlet had begun.
 
-## Part 6: The Whispering Woods
 
 The silence of the Sunken City had been heavy, like water. The silence of the Whispering Woods was different. It was alive.
 
@@ -3529,7 +3450,6 @@ Kaelan clutched the journal to his chest. He looked at the blind old man. "Thank
 
 "Don't thank me yet," Elian muttered, blowing out a light-beetle jar. "The Gauntlet has barely begun."
 
-## Part 7: The Unbroken Moon
 
 Time in the dungeon was measured not by the sun, but by the slow, rhythmic dripping of condensation from the ceiling. Drip. Drip. Drip.
 
@@ -3629,7 +3549,6 @@ Did you hear that, Kaelan? she projected, her mind weary but unbroken. He’s af
 
 Just keep walking. I’m right here.
 
-## Part 8: Seeds of Rebellion
 
 The dungeon was designed to break the spirit through isolation. It was a silence so heavy it felt like being buried alive.
 
@@ -3741,10 +3660,6 @@ The rebellion had begun.
 
 ### Part 2: Chapter 2: The Tyrant\'s Throne
 
-# Book II: The Shadow's Heart
-
-## Part 1: A Lord's Manifesto
-
 The dungeon was cold, but the Throne Room was freezing for a different reason. It was the cold of absolute, sterile perfection.
 
 Lord Malakor had grown bored of visiting the cells. He needed a better stage. He needed his audience to see the full scope of his genius.
@@ -3799,7 +3714,6 @@ The chorus hit again, bigger, louder. The Gloomwraiths stamped their feet in uni
 
 *"This broken world is crying for a guide!* *A single will, with nothing left to hide!"*
 
-## Part 2: A Question of Chaos
 
 The music was a physical force now, a wall of sound that battered against Kaela’s eardrums. Malakor was lost in the rapture of his own glory.
 
@@ -3891,7 +3805,6 @@ Kaela watched him from her cage. She didn't clap. She didn't cower. She just loo
 
 And in that moment, despite the terror and the power, she saw the crack in his armor. He wasn't a god of Order. He was just a man terrified of losing control.
 
-## Part 3: Sacrifice or Queen?
 
 The echoes of the final chord faded, swallowed by the obsidian walls. The Gloomwraiths, sensing the show was over, melted back into the shadows of the alcoves, leaving the Throne Room dangerously intimate.
 
@@ -3963,7 +3876,6 @@ Malakor walked to his throne and sat. He stared at the empty room.
 
 "Sacrifice or Queen," he muttered to himself, drumming his fingers on the obsidian armrest. "We shall see how you behave when your brother falls."
 
-## Part 4: The Silverwing's Flight
 
 Malakor sat on the Obsidian Throne, his chin resting on his fist, staring into the middle distance. He looked like a statue carved from the night itself, unmoving, barely breathing.
 
@@ -4030,18 +3942,6 @@ But outside, in the screaming gales of the Voidlands, the Silverwing did not dis
 It flew South. It flew over the jagged peaks, over the black ice, a tiny, defiant spark carrying a message of endurance to a boy who was about to forget who he was.
 
 ### Part 3: Chapter 3: The Last Temptation
-
-# Book II: The Shadow's Heart
-
-## Part 1: The Oasis of Lies
-
-Theme: gloom
-
-Location: The Voidlands (Illusion)
-
-POV: Kaelan
-
-=
 
 The Razor Peaks were behind him now, a jagged wall that blocked out the rest of the world. Ahead lay the true Voidlands.
 
@@ -4221,7 +4121,6 @@ He adjusted his pack, tightened the straps of his Stellium mail, and turned Nort
 
 *I’m coming, Moon,* he thought, pushing through the cold. *Keep talking to me.*
 
-## Part 2: The Broken Pawn
 
 The High Tower did not tolerate failure. The walls themselves seemed to constrict, the obsidian pulsing with a low, menacing thrum.
 
@@ -4318,10 +4217,6 @@ Inside the cell, Kaela watched her go. Then she turned her face back to the ston
 He’s awake, Kaelan, she projected into the void. He knows you’re coming. Be ready.
 
 ### Part 4: Chapter 4: The Bridge of a Thousand Truths
-
-# Book II: The Shadow's Heart
-
-## Part 1: The Guardian's Gate
 
 The illusion of the oasis had vanished, leaving Kaelan standing on the scorched, cracked earth of the Voidlands. The wind had picked up again, carrying with it the scent of sulfur and deep, ancient dampness.
 
@@ -4421,7 +4316,6 @@ He stepped onto the bridge.
 
 Behind him, Klygg slumped back against the archway, closing his eyes, the taste of salt still on his tongue, guarding the gate for a boy who was the first thing in an age to treat him like a soul instead of a sentry.
 
-## Part 2: The Crucible
 
 The path ended.
 
@@ -4527,7 +4421,6 @@ He looked down into the black void. It looked peaceful. It looked silent.
 
 His fingers loosened.
 
-## Part 3: The Vision and the Vow
 
 Kaelan let go.
 
@@ -4621,7 +4514,6 @@ He took another step.
 
 Soaked, shivering, and heartbroken, Kaelan marched into the storm, driven not by the desire to win, but by the desperate need to make amends.
 
-## Part 4: A Path of Light
 
 The rain did not stop, but Kaelan no longer felt the cold.
 
@@ -4696,10 +4588,6 @@ Kaelan took a deep breath, filling his lungs with the stale air of the enemy's s
 ## Book III: The Dawn of the Twins
 
 ### Part 1: Chapter 1: The Siege of the Shadowspire
-
-# Book III: The Dawn of the Twins
-
-## Part 1: Embers of Hope
 
 Kaelan kicked the doors open, his iron sword raised, a scream of defiance already building in his throat.
 
@@ -4785,7 +4673,6 @@ He looked up at the ceiling, toward the Throne Room far above.
 
 "Charge!" Kaelan roared.
 
-## Part 2: The Hall of Shattered Heroes
 
 The Stone Wardens did not move like men. They moved like avalanches.
 
@@ -4891,7 +4778,6 @@ Kaelan nodded. He turned to the stairs.
 
 He took the first step two at a time. The end was in sight.
 
-## Part 3: A Fortress Divided
 
 The Shadowspire was not just a building; it was a conduit. It was designed to channel the immense pressure of the Void into a single point.
 
@@ -4999,7 +4885,6 @@ Malakor froze.
 
 "That's why you're going to lose," she said softly. "You built a tower for one. But there are two of us."
 
-## Part 4: The Ascent
 
 The higher Kaelan climbed, the thinner the air became. It didn't taste like oxygen anymore; it tasted like static electricity and ozone.
 
@@ -5058,10 +4943,6 @@ He stepped back, gathering his momentum.
 He ran. He leaped over the last pile of rubble. He drove his boot into the center of the bone doors with the force of a battering ram.
 
 ### Part 2: Chapter 2: The Heart of the Gloom
-
-# Book III: The Dawn of the Twins
-
-## Part 1: Reunion
 
 The bone doors didn't just open; they shattered inward, blasted off their hinges by a kick fueled by three months of rage and nuclear fire.
 
@@ -5135,7 +5016,6 @@ He gripped his sword with both hands. He flared his inner heat, ignoring the war
 
 Kaelan screamed—a raw, primal sound of fury—and charged.
 
-## Part 2: The Duel of the Eclipse
 
 Kaelan crossed the distance in a heartbeat. He was no longer a boy; he was a projectile of white-hot iron and rage.
 
@@ -5259,7 +5139,6 @@ Kaelan closed his eyes. He reached for his sword, but his fingers were numb. He 
 
 The spear began to fall.
 
-## Part 3: The Battle of Wills
 
 The spear of shadow did not whistle as it fell. It made a sound like tearing fabric—the sound of reality being parted to make way for the Void.
 
@@ -5351,7 +5230,6 @@ The spear ground deeper into Kaelan’s chest. Kaelan cried out, his back archin
 
 "Say goodbye, Kaela," Malakor commanded, raising his hand to deliver the final mental crush that would shatter her defenses completely. "Watch him break."
 
-## Part 4: The Circuit
 
 Malakor loomed over Kaelan, his hand raised, gathering the dark energy needed to crush Kaela’s mental shield.
 
@@ -5469,7 +5347,6 @@ He was the Engine. She was the Aim.
 
 And they were ready to fire.
 
-## Part 5: An Empathetic Victory
 
 Malakor crawled.
 
@@ -5621,10 +5498,6 @@ They stood there in the ruins of the tyrant's tower, holding each other while th
 
 ### Part 3: Chapter 3: The Long Road Home
 
-# Book III: The Dawn of the Twins
-
-## Part 1: The First Night
-
 The Shadowspire did not look majestic in the daylight.
 
 With the magic of the crystal gone and the sorcerer unmade, the tower was just a pile of wet, black rock. The terrifying violet glow was extinguished. The humming vibration that had rattled Kaelan’s teeth for days was gone, replaced by the sound of wind whistling through the shattered upper levels.
@@ -5731,7 +5604,6 @@ He closed his eyes. For the first time since he left Sunstead, the silence in hi
 
 And there, in the middle of the frozen wasteland, amidst the ruins of a fallen empire, the twins slept soundly, back-to-back no longer, but heart-to-heart.
 
-## Part 2: The River and the Dawn
 
 Morning in the Voidlands was usually a grey, miserable affair. But today, the suns rose clear.
 
@@ -5843,7 +5715,6 @@ Kaelan looked at her. He scooted closer on the log they were using as a bench, u
 
 They finished their breakfast in the quiet of the morning, watching the suns climb higher, ready to begin the long, healing journey back to the only place that mattered.
 
-## Part 3: The Shelter in the Woods
 
 The boundary of the Voidlands was not a wall, but a scar.
 
@@ -5939,17 +5810,12 @@ The sweetness lingered on their tongues.
 
 Outside, the rain lashed the world, washing the forest clean. Inside, safely hidden in the hay, the twins held onto each other, warm and safe, drifting into a sleep that was deep, dreamless, and entirely their own.
 
-## Part 4: The Changing of the Leaves
 
 ##### Scene 1: The Damp Morning
 
-Theme: forest-morning
 
-Location: The Abandoned Shack
 
-POV: Kaela
 
-=
 
 The morning light that filtered through the cracks in the shack’s timber walls was not the harsh, grey light of the Voidlands. It was soft, dappled with the green of leaves and the gold of a rising sun.
 
@@ -6061,13 +5927,9 @@ They walked down the slope, leaving the dark days behind them, stepping into the
 
 ##### Scene 2: The Emerald Valleys
 
-Theme: sunstead
 
-Location: The Emerald Valleys
 
-POV: Kaelan
 
-=
 
 The forest had given way to rolling hills of vibrant, shocking green.
 
@@ -6143,13 +6005,9 @@ They walked on, leaving the Emerald Valleys behind, carrying the taste of peace 
 
 ##### Scene 3: The First Frost
 
-Theme: sunstead-winter
 
-Location: The High Hills
 
-POV: Kaelan
 
-=
 
 The seasons did not wait for them.
 
@@ -6273,13 +6131,9 @@ She kissed his shoulder, a small, fierce seal on the vow, and held him while the
 
 ##### Scene 4: The Frozen Morning
 
-Theme: sunstead-winter
 
-Location: The High Hills
 
-POV: Kaela
 
-=
 
 The morning light was grey and unforgiving, leaking into their shallow shelter like dirty water.
 
@@ -6403,13 +6257,9 @@ Then, they stepped out from the overhang, into the biting wind of the High Hills
 
 ##### Scene 5: The Western Ridge
 
-Theme: sunstead
 
-Location: The Western Ridge
 
-POV: Kaelan
 
-=
 
 The first hour of walking was miserable.
 
@@ -6494,18 +6344,6 @@ They sprinted down the trail, their packs bouncing, their laughter echoing off t
 They ran toward the future, finally ready to rest.
 
 ### Part 4: Chapter 4: The Scouring of Sunstead
-
-# Book III: The Dawn of the Twins
-
-## Part 1: The Steward's Law
-
-Theme: sunstead-scour
-
-Location: The Outer Gates
-
-POV: Kaelan
-
-=
 
 The race ended at the bottom of the switchback trail, where the red dirt of the canyon floor met the packed gravel of the trade road.
 
@@ -6643,15 +6481,10 @@ Kaelan stepped through the opening, dusting splinters from his tunic. Kaela walk
 
 "We aren't visitors," Kaelan announced to the stunned guards who were scrambling down the ladders to intercept them. "We live here."
 
-## Part 2: The Queen of Red Dust
 
-Theme: sunstead-scour
 
-Location: The Market Square
 
-POV: Kaelan
 
-=
 
 The market square of Sunstead was usually a riot of noise. It smelled of donkey manure, baking bread, and the iron tang of the smithy. It was messy. It was alive.
 
@@ -6781,13 +6614,9 @@ He drew his iron sword. It didn't glow with the blinding light of the sun this t
 
 "Get out of my town," Kaelan ordered. "Or I'll mount your head on the gate."
 
-## Part 3: The Town That Roared
 
-Theme: sunstead-scour
 
-Location: The Market Square
 
-POV: Kaelan
 
 The rejection hung in the air, absolute and humiliating. Kaelan had looked at a Queen offering him the world and told her he preferred his sister and a dusty cottage.
 
@@ -6923,18 +6752,6 @@ Kaelan looked at his sister. "Home?"
 
 ### Part 5: Chapter 5: The Aftermath
 
-# Book III: The Dawn of the Twins
-
-## Part 1: The Sound of Water
-
-Theme: sunstead-victory
-
-Location: The Market Square
-
-POV: Kaelan
-
-=
-
 The sound of Sunstead was back.
 
 It wasn't the terrified silence of the Occupation, nor was it the roar of the uprising. It was the chaotic, messy, wonderful hum of life. It was the clang of Horg’s hammer, the shouting of merchants haggling over grain prices, and the screech of children chasing chickens through the alleys.
@@ -7025,15 +6842,10 @@ He reached up and took her hand, lacing his fingers through hers.
 
 They sat there as the suns set and the stars came out, the Golden Sun and the Silver Moon, finally at rest, watching over the town they had saved, content to be nothing more than neighbors.
 
-## Part 2: The Council of Dust
 
-Theme: sunstead
 
-Location: The Town Hall (Old Grain Barn)
 
-POV: Kaela
 
-=
 
 The governing body of Sunstead did not meet in a palace. It met in the Old Barn behind the Tanner’s shop, where the air smelled faintly of cured leather and dry hay.
 
@@ -7095,15 +6907,10 @@ Kaelan sighed. He stood up, dusting off his trousers.
 
 "See that you do," the Matron said, though her eyes were twinkling. "Meeting adjourned."
 
-## Part 3: The Echo of the Map
 
-Theme: sunstead-night
 
-Location: The Cottage on the Ridge
 
-POV: Kaelan
 
-=
 
 Two days later, the gate was fixed.
 

@@ -1,8 +1,4 @@
-**User:**
-Does this document discuss Cassandra buying a $745,000 house for $1.5 million? I'm making sure I rescued the correct conversation from a previous chat before I continue on.
-
 ---
-
 **Model:**
 Gemini said
 
@@ -24,7 +20,6 @@ MD
 
 The Aftermath: The document also explores the ripple effects of this purchase, including how the massive overpay temporarily subsidized her neighbors' property taxes, and how Cassandra subsequently gutted the house to install commercial-grade ADA accessibility and enterprise-level Quantum networking.  
 MD
-
 ---
 
 **User:**
@@ -33,7 +28,6 @@ Perfect, that we have the correct information on the house. I'd like to reorgani
 ---
 
 **User:**
-# In Universe Names
 
 ---
 

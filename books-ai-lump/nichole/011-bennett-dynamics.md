@@ -9,10 +9,6 @@ series: "Nichole"
 
 ### Part 1: The Incorporation
 
-# An Idea
-
-## Date: October 1, 2008 Location: Unit 404, The Lofts at Foundry Square Time: 10:00 AM
-
 The morning sun flooded through the floor-to-ceiling windows of Unit 404.
 
 Patrick sat at his desk—a massive, L-shaped setup he had built himself. He had three monitors, a soldering station, and a server rack humming quietly underneath.
@@ -57,10 +53,6 @@ Patrick snorted. "No titles. Titles are for people who have meetings. We are Par
 
 ### Part 2: The Home Office
 
-# An Idea
-
-## Date: March 2009 (Six Months Later) Context: The "Golden Era" of Unit 404.
-
 While the outside world was panicking about the stock market, Unit 404 was a hum of productivity.
 
 They had found their niche. It wasn't high-volume corporate work. It was Boutique Accessibility Engineering.
@@ -104,10 +96,6 @@ He knelt down and kissed her forehead.
 VIDEO GAMES
 
 ### Part 3: The Tablet Revolution
-
-# An Idea
-
-## Date: April 3, 2010 Event: The Launch of the MagnaPad 
 
 For years, Nichole’s voice had been a heavy laptop. The *ConvertiBook* was great, but it was five pounds of plastic and hinges. It created a physical barrier between her and the world.
 
