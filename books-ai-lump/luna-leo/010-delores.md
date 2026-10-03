@@ -1123,185 +1123,77 @@ They disembarked onto the platform with their bags, the air damp and chilly. A f
 
 As they drove the final few blocks from the station, Aunt Carol focused entirely on Delores, chattering excitedly about catching up, completely ignoring Leo in the back seat. The earlier warmth directed at her niece only highlighted the chilly courtesy extended to him. Leo stared out the window, the feeling of being an unexpected, unwelcome piece of baggage intensifying. The suspicion about the return trip, sparked by overhearing Delores's phone call, gnawed at him, amplified now by the clear evidence that his presence here was, at best, tolerated, and certainly not invited. The dread tightened its grip.
 
-### Part 6: An Unwelcoming House
+### Part 6: Pressure and Lies
 
-The car pulled into the driveway of a small, neat house on a quiet residential street. It was late, the streetlights casting long shadows. Getting out of the car, Leo felt a wave of sheer relief wash over him, quickly followed by bone-deep exhaustion. Four days on a bus. It was finally over.
+By the time the bus descended into Salt Lake City, the breathing difficulties had somewhat subsided, only to be replaced by a far more insidious threat. The sheer number of hours spent trapped in the upright position of his manual chair, without the ability to properly shift his weight or relieve the friction, had taken its inevitable toll.
 
-"Oh, it's so wonderful to finally have you here, Delores!" Carol Mahone exclaimed, beaming as she enveloped her niece in a hug at the doorstep. Then her gaze fell on Leo as Delores helped him maneuver his chair up the single step. The smile didn't falter, but her eyes, trained by years of volunteer work with children with disabilities, immediately took in the scene with a sharp, compassionate assessment. She saw his exhaustion, the slight tremor in his hands, and the way he flinched from Delores's touch.
+During a transfer in the cramped, grimy bathroom of the Salt Lake City terminal, Leo felt the unmistakable, searing sting of a developing pressure sore on his hip. It wasn't just discomfort anymore; it was tissue damage. The kind of damage that, if left untreated and unrelieved, could quickly spiral into a life-threatening infection.
 
-"And this must be Leo," she said, her voice warm and gentle as she stepped forward and knelt to be at his eye level, completely ignoring Delores for a moment. "It's so nice to finally meet you. That's a long trip. You must be exhausted."
+He tried to communicate the severity of the situation to Delores the moment she wheeled him out of the stall. He pointed insistently at his hip, his face tight with pain and fear, typing furiously on his device. *"SORE. IT IS BAD. NEED TO LAY FLAT. NEED MEDICINE."*
 
-Leo, startled by this unexpected, direct kindness, just stared for a second before giving a small, shy nod.
+Delores barely looked. She waved a hand dismissively, her attention already focused on finding the departure gate for the next leg of the trip. "Oh, stop complaining, Leo. It's just from sitting so long. It's nothing."
 
-"Well, let's get you both inside," Carol said, stepping back. "Guest room is straight down the hall, first on the left. Bathroom's across from it. You can get settled; we'll talk in the morning."
+*"NOT NOTHING,"* he typed, the mechanical voice sharp. *"DANGEROUS."*
 
-The hallway was narrow, the carpet thick. As Delores impatiently pushed Leo's chair, Carol's professional eye immediately caught the logistical problems. "Delores, honey," Carol asked, concern in her voice, "this bathroom... it's just a standard tub, no grab bars, and the doorway's narrow. How is Leo going to manage?"
+"It's just a red mark!" she snapped, turning on him with sudden, venomous intensity. "I am doing the best I can to get us across the country, and all you do is whine. We are almost there. You can deal with a little sore spot until we get to Washington."
 
-Delores waved a dismissive hand. "Oh, don't worry about it, Auntie. I can help him. I know how," she claimed breezily.
+It was a lie, and they both knew it. She knew the medical reality of his condition just as well as he did, but acknowledging it would require her to stop the trip, seek medical help, and inconvenience herself. Instead, she chose to gaslight him, minimizing his pain and endangering his body rather than altering her plans. Forced back onto the next bus, Leo felt a new, profound level of terror take root. His body was breaking down, and his captor simply didn't care.
 
-Carol’s expression was one of quiet doubt, but she didn’t press the issue.
+### Part 7: The Pasco Lock
 
-Later, as Delores closed the guest room door, the exhaustion of the journey crashed down on Leo. He noticed an outlet and gratefully plugged in his bulky AAC device, its battery having died hours ago.
+The exhaustion of the journey had stripped Leo of his defenses by the time the bus pulled into the Pasco Intermodal Terminal in Washington state. It was a brief layover, just enough time to stretch and use the facilities before the final push toward the coast. Delores wheeled him into the large, single-occupancy family restroom to help him transfer. 
 
-Carol, passing the guest room doorway a few minutes later, saw the large electronic device charging. She recognized it immediately as a type of Augmentative Communication device. She knew how vital they were, and made a quick, sharp mental calculation of just how incredibly expensive they were. The fact that this exhausted, clearly distressed young man had been without his voice for any length of time was another piece of a troubling puzzle that was beginning to form in her mind. It was clear to her that none of this was Leo's fault. The observation registered, filed away for the moment.
+Once the heavy door clicked shut and the deadbolt slid into place, the atmosphere in the small, tiled room shifted violently. 
 
-### Part 7: Jet Lag, Pancakes, and a Fragile Plan
+Delores didn't immediately move to help him. Instead, she stepped closer, leaning over his chair, her demeanor morphing into something terrifyingly unrecognizable. Gone was the bitter resentment and the dismissive anger. In its place was a cloying, falsely sweet voice that made Leo's blood run cold. 
 
-That first night, lying stiffly on one side of the unfamiliar bed in the cramped guest room, Leo finally drifted into a fitful sleep, disturbed by the unfamiliar surroundings and a persistent, gnawing ache from his hip. Delores, beside him, seemed equally restless.
+"You know you've been wanting this," she murmured, her hand brushing entirely too close to his lap. "It's just the two of us now. Nobody has to know."
 
-Leo awoke hours later, still in pitch darkness. His internal body clock screamed that it should be morning in Virginia, yet the clock read 4:00 AM Pacific Time. The air in the small room felt incredibly stuffy; Carol Mahone kept the thermostat cranked high to combat the drafts of the older house.
+Leo froze, completely paralyzed. The sheer physical vulnerability of being trapped in his chair, locked in a soundproof room with his abuser, washed over him in a sickening wave. She wasn't using physical force; she was using a far more insidious psychological trap. She was speaking to him with the honeyed tones of a lover, trying to coax and manipulate him into compliance, twisting his complete lack of agency into an assumption of consent. 
 
-When morning finally arrived by Kent time, Delores emerged first, complaining of a headache. Leo followed a moment later, feeling groggy and sore. He wheeled himself cautiously into the small kitchen space, expecting the cold shoulder he’d received upon arrival.
+*"NO,"* his mind screamed, but his hands shook too violently to type it out on his AAC device. He couldn't push her away. He couldn't run. He was locked in a concrete box with a predator who was smiling at him.
 
-Aunt Carol was bustling around the stove. She looked up as Leo entered, her expression unreadable for a moment before softening into something warm and deliberate.
+She leaned in closer, the scent of her stale perfume suffocating him, her words continuing their vile, coercive rhythm. He was entirely at her mercy, seconds away from a violation he was physically powerless to stop.
 
-"Morning, Leo," she said clearly. "Sleep alright?"
+Suddenly, the harsh, metallic crackle of the terminal's PA system bled through the heavy door. *"Final boarding call for Pathfinder service to Seattle, now boarding at Gate Three."*
 
-Leo nodded shyly.
+Delores stopped. Her head snapped toward the door. The spell of her sickening coercion was broken by the mundane reality of the bus schedule. She let out a sharp, frustrated breath, her sweet facade vanishing instantly, replaced by her usual cold irritation. 
 
-"And Delores?" Carol asked, glancing at her niece who was slumping into a chair.
+"Fine. We don't have time," she snapped, pulling away from him and grabbing the handles of his chair. 
 
-"Terrible," Delores muttered. "It's freezing in here, Auntie."
+She quickly finished the transfer, her movements rough and hurried, and unlocked the door, wheeling him out into the glaring fluorescent light of the terminal. The physical assault hadn't happened, but the psychological violation was absolute. As they boarded the bus for Seattle, Leo sat in stunned, horrified silence, the ghost of her touch and the terrifying realization of what she was capable of echoing endlessly in the dark.
 
-"It's seventy-two degrees, Delores," Carol said dryly. "I thought I'd make my special blueberry pancakes. Get some food in you both."
+### Part 8: Arrival in the Pacific Northwest
 
-The pancakes, when they arrived, were indeed a production. Carol brought two plates to the table.
+The final stretch through Yakima and Ellensburg felt like the longest part of the journey. Darkness had fully fallen by the time the Pathfinder bus finally pulled into the main Seattle terminal located downtown at 811 Stewart St, depositing them right into the thick of evening rush hour traffic. The relief of stopping was immense, but for Leo, it was instantly replaced by a surge of ice-cold terror.
 
-She placed the first plate in front of Leo. It was a masterpiece—a tall, steaming stack of fluffy pancakes, golden brown and bursting with blueberries. It was accompanied by a generous side of crisp bacon, a large glass of fresh orange juice, and a small pitcher of warm syrup placed right next to his hand.
+Seattle.
 
-Then, she turned to Delores. She placed a second plate down. It had two pancakes. They looked fine, but they were noticeably smaller, slightly flatter, and there was no bacon.
+Even though this was the bus terminal, a different building in a different part of the city, the name itself was a key that unlocked the most painful memory of his life. His mind was instantly transported back to King Street Station, to the gut-wrenching, soul-shattering moment he had said goodbye to Olivia, believing it was forever. The city was not a new adventure; it was a graveyard of his happiness. He was terrified. The chaos of the busy terminal, the shouting voices, the screech of bus brakes—it all became a terrifying soundtrack to the memory of his own heart breaking.
 
-Delores stared at the plates. She looked at Leo’s feast, then at her own modest serving. Her jaw dropped.
+"Okay, let me call Aunt Carol," Delores announced, digging in her purse for her cell phone as they waited amidst their luggage. She pulled it out, frowning. "Great. Dead." She scanned the terminal, her eyes landing on an electrical outlet along a far wall. "Figures. Okay, come on," she sighed, grabbing her bag and gesturing for Leo to follow.
 
-"Auntie?" Delores asked, her voice sharp with disbelief. "What is this?"
+They maneuvered over to the outlet, and Delores plugged in her charger and phone. They stood there awkwardly, waiting impatiently with their bags while the phone gathered enough charge to power on. After ten or fifteen minutes, Delores checked the phone again. It powered up, but she frowned at the signal indicator. "Ugh, only one bar in here," she muttered. "These old buildings are terrible for signal. We'll have to go outside to get a clear call."
 
-Carol didn't blink. She poured herself a coffee. "What's what, dear?"
+Reluctantly, she unplugged the phone, gathered their things, and they headed back towards the main terminal doors. They stepped outside the Stewart Street entrance into the damp, cool Seattle air. Finding a spot on the sidewalk away from the immediate rush of travelers and idling buses, Delores finally got enough bars and dialed. Leo watched her, the extra step of having to come outside just to make the call reinforcing his growing suspicion. He heard Delores adopt an overly bright, slightly forced tone.
 
-"Why does *he* get the banquet?" Delores gestured indignantly at Leo’s plate. "I'm your niece!"
+"Auntie Carol? Hi! It's Delores!... Guess what? Surprise! We're in Seattle! ... Yeah, right outside the main Pathfinder terminal! ... Oh, nothing, just decided to come out for Thanksgiving! Thought we'd surprise you!... Uh-huh... Yeah, Leo's with me..." There was a pause as Delores listened, her expression shifting slightly as Carol likely expressed surprise and questioned the logistics. "Oh. Right now? Really? Traffic's that bad? ... Oh, okay... No, no, that makes sense, it's a long drive in rush hour... Yeah, the bus wasn't bad... Kent station? The train station there? Okay... yeah, we can do that. TAPS bus, number 150? Got it... Okay, great! See you there soon!"
 
-"He is a guest in this house, Delores," Carol said smoothly, sitting down. "And he traveled three thousand miles in a wheelchair on a bus. In my home, we take care of our guests first. Hospitality. You remember that, don't you?"
+She hung up, turning back to Leo, forcing the bright smile again. "Okay, change of plans. Auntie's tied up right now and doesn't want to fight rush hour traffic all the way into Seattle – can't blame her! Said it's easier if we take the local TAPS bus – route 150 – down to the Kent train station, and she'll meet us right there. Easy peasy!"
 
-The implication hung in the air: *Because you clearly don't.*
+Leo nodded slowly, but the seed of unease had taken deeper root. He had overheard Delores's side of the conversation. The "surprise" announcement, the justification about traffic, the negotiation about the pickup location... it cemented his feeling that Aunt Carol hadn't invited them or expected them at all. Delores had just shown up, and her aunt was finding the most convenient way to deal with their unexpected arrival. If this part wasn't planned as Delores had implied, what else wasn't? The question of the return trip suddenly felt much more pressing, much less certain.
 
-Delores opened her mouth to argue, to make a scene, but she stopped. Carol’s gaze was steady and challenging. If Delores complained, she would look like a petulant child jealous of a guest's food.
+Pushing the unsettling thought aside for now, they gathered their luggage and headed back inside the terminal, looking for signs pointing towards the local TAPS bus stops. They wandered for a moment, looking lost amidst the intercity bus platforms and waiting areas. A uniformed terminal employee, noticing their confusion, approached them kindly.
 
-"Fine," Delores huffed, stabbing her fork into her pancake. "Whatever. Guests first."
+"Looking for the local Transit Authority of the Puget Sound buses?" the employee asked. Delores nodded. "Ah, okay," the employee said, pointing back towards the doors they'd just entered. "You actually need to go back outside. The stop for the southbound 150 towards Kent and Southcenter is directly across Stewart Street from here. Just cross at the light there, you'll see the shelter."
 
-Leo looked at the mountain of food. He looked at Carol. For the first time since he left Virginia, an adult was looking at him with kindness instead of annoyance. He felt a lump in his throat.
+"Oh. Outside. Right," Delores said, slightly flustered. "Thanks."
 
-He ate. The pancakes were delicious. But as he finished the last bite of bacon, a wave of nausea suddenly washed over him—not from the food, but from a sudden, physiological jolt.
+Following the employee's directions, they exited the terminal once more. Delores led the way as they navigated the traffic and crossed Stewart Street, reaching the correct bus stop on the opposite side. They waited, surrounded by luggage, until the TAPS bus arrived, its destination sign clearly reading "150 KENT/SOUTHCENTER". Maneuvering onto the city bus with his chair and bags added another layer of weariness. The local bus ride wound through Seattle's southern suburbs towards Kent. When the bus finally pulled into the Kent train station, Leo felt a flicker of relief that this leg, at least, was over.
 
-The wave of nausea triggered a sudden, awful realization.
+They disembarked onto the platform with their bags, the air damp and chilly. A few minutes later, a car pulled up, driven by Delores's aunt Carol. She hopped out, beaming, rushing over to envelop Delores in a warm, genuinely delighted hug. "Delores! What a surprise! It's so wonderful to see you, honey!" Then, her gaze fell on Leo, waiting beside Delores in his wheelchair. Her smile instantly became more forced, polite but distinctly cool. "Oh. And Leo. Hello." There was no hug for him, just a brief, almost dismissive nod.
 
-Medication.
-
-Stella always made sure he and Luna took their prescribed meds right after breakfast. It was a non-negotiable part of his routine to manage his spasticity and digestion. In the rush to leave, and under Delores's chaotic management, he hadn't even thought about it.
-
-He frantically reached for his backpack, pulling it onto his lap. He rummaged through the pockets.
-
-No pill bottles. Nothing.
-
-He looked up, panic rising in his chest. He quickly typed on his AAC device, the sound of the keys sharp in the quiet kitchen. He turned the screen to Delores.
-
-WHERE MEDS? MY MORNING MEDS? NEED THEM!
-
-Delores glanced at the message, then rolled her eyes, clearly irritated that her "meager" breakfast was being interrupted. "Oh, stop worrying. I didn't pack them. All those bottles took up too much space. You'll be fine for a few days without them, Leo."
-
-Leo stared at her, horrified. His body wouldn't be "fine." The withdrawal and the physical symptoms would start soon.
-
-"What's that now?" Carol asked, her voice sharp. She put her coffee mug down hard.
-
-"He's making a fuss about his pills," Delores said dismissively. "I told him he'd be fine."
-
-Carol turned from the sink. The pleasant "hostess" mask evaporated instantly, replaced by a look of ice-cold fury that made Delores flinch.
-
-"You did *what*?" Carol asked, her voice dangerously low. "You dragged this young man three thousand miles from his home, away from his doctors, and you didn't even have the decency to pack his prescription medication?"
-
-"It's not a big deal..." Delores stammered, shrinking under her aunt's gaze.
-
-"Not a big deal?" Carol’s voice rose. "Delores, I volunteer at the hospital. I know what happens when people miss maintenance meds. That isn't a mistake. That is **neglect**."
-
-She stood up, looming over the table.
-
-"And speaking of a few days... how exactly are you planning on getting home? You told me on the phone you bought one-way tickets because you were 'keeping it flexible.'"
-
-Delores floundered, completely unprepared for the ambush. "I... we... my check comes on the first. We can get tickets then."
-
-Carol stared at her, her expression one of pure, baffled disbelief. "The first? Delores, that's more than a week away! So your plan was to drag this boy out here with no return ticket, no medication, and just... hope for the best?"
-
-Delores had no answer. She slumped in her chair, sullen and exposed.
-
-Leo watched the exchange, his heart hammering. The terror of the situation—no meds, no ticket home—was overwhelming. But for the first time, he realized something else.
-
-The woman standing at the head of the table wasn't Delores's ally. She was his.
-
-Carol looked at Leo. Her eyes softened.
-
-"I'm sorry, Leo," she said gently. "We will figure this out. Eat your breakfast."
-
-She turned back to Delores, her eyes hard again. "You do the dishes. Both plates."
-
-### Part 8: Delores Forces Herself
-
-By late afternoon, the relentless November rain had settled into a dreary, persistent drizzle. Leo lay on the double bed in the small guest room, trying to find a position that offered relief from the throbbing pain in his hip. He was weak, nauseous from the lack of medication, and utterly exhausted.
-
-He heard the door open. Delores entered. The air in the room shifted instantly, becoming heavy and suffocating.
-
-"Still moping?" she sneered, closing the door behind her with a definitive click. "You're really making this a fun trip for me, Leo. Aunt Carol thinks you're a zombie."
-
-He kept his eyes closed, feigning sleep, hoping she would just grab a sweater and leave.
-
-Instead, the mattress dipped.
-
-"Look at me," she commanded.
-
-When he didn't move, she grabbed his shoulders. With a strength fueled by anger, she shoved him onto his back and climbed over him, straddling his waist.
-
-Leo’s eyes flew open in shock. He was pinned. Her knees dug into the mattress on either side of him, trapping his hips. Her hands gripped his shoulders, holding him down.
-
-"You think you can just ignore me?" she hissed, her face inches from his. "After everything I did to get us here?"
-
-Leo stared at her, his heart hammering against his ribs like a trapped bird. He couldn't move. He was too weak, and she had all the leverage.
-
-"You're my boyfriend," she whispered, her voice dropping to a terrifying, possessive purr. "Act like it."
-
-She leaned down and kissed him. It wasn't gentle. It was hard, aggressive, and demanding. She pressed her mouth against his, forcing the contact. Leo squeezed his eyes shut, his body going completely rigid. He held his breath, his mind screaming *No, no, no.*
-
-He felt her hand move. It slid down his chest, moving toward the waistband of his pajama pants.
-
-This was it. The nightmare. The thing Clara had warned about.
-
-Leo let out a choked, terrified whimper—a sound of pure, animal fear. He turned his head sharply to the side, breaking the kiss, gasping for air, tears squeezing out of his shut eyes.
-
-Delores froze.
-
-She looked down at him. She saw the terror on his face. She saw him trembling beneath her, shrinking away from her touch as if she were a monster. He wasn't fighting back; he was broken.
-
-Something in her face changed. It wasn't pity. It was **repulsion**.
-
-Her fantasy of the "grateful, adoring boyfriend" shattered against the reality of his fear. She realized that if she continued, she wouldn't be making love; she would be assaulting a helpless person who was terrified of her.
-
-The reality of it—the ugliness of it—suddenly pierced her narcissism. She got cold feet.
-
-"Ugh," she groaned, a sound of pure frustration and disgust.
-
-She pulled her hand back as if he had burned her. She shoved herself off him, rolling away and standing up next to the bed. She smoothed her shirt aggressively, refusing to look at him.
-
-"You're pathetic," she spat, her voice shaking with misplaced anger. "I try to be nice to you. I try to make this special. And you act like... like a victim."
-
-She looked at him one last time—curled in a ball, gasping for breath, tears streaming down his face.
-
-"Forget it," she snapped. "I don't want you if you're going to be like that. Just... go back to sleep. You're useless."
-
-She stormed out of the room, slamming the door hard enough to rattle the frame.
-
-Leo lay there in the silence, his chest heaving. He was shaking violently. He wrapped his arms around himself, pulling his knees up.
-
-She had stopped. He didn't know why, but she had stopped.
-
-He looked at the nightstand where his AAC device sat charging. He wanted to reach for it, to call for help, but he was paralyzed by the aftershocks of the adrenaline. He had stood on the edge of the cliff, and she had pulled back at the last second.
-
-He was safe, physically. But the psychological wall had been breached. He knew now, with terrifying certainty, that there was no line she wouldn't cross if she was angry enough. He had to get out. He had to go home.
+As they drove the final few blocks from the station, Aunt Carol focused entirely on Delores, chattering excitedly about catching up, completely ignoring Leo in the back seat. The earlier warmth directed at her niece only highlighted the chilly courtesy extended to him. Leo stared out the window, the feeling of being an unexpected, unwelcome piece of baggage intensifying. The suspicion about the return trip, sparked by overhearing Delores's phone call, gnawed at him, amplified now by the clear evidence that his presence here was, at best, tolerated, and certainly not invited. The dread tightened its grip.
 
 ## Homecoming
 
