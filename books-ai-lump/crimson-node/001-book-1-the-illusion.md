@@ -406,8 +406,6 @@ Matt looked over at his sister and his cousin. Shiloh offered a soft, deeply rea
 
 Matt gave a soft, exhausted hum of agreement. Whatever the future held, he knew one thing with absolute certainty: he was completely, fiercely protected.
 
----
-
 ### Part 8: Part 8: The Triad
 
 It wasn't even eight o'clock in the evening, but neither Sarah nor Shiloh cared. They understood the delicate mechanics of Matt's neurological battery, and right now, it was completely empty.
