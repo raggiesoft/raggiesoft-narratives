@@ -1053,19 +1053,37 @@ Rest stops became logistical hurdles. Many older bus stations or roadside diners
 
 He desperately wished he could message Stella or Luna during the long stretches, but his older AAC device (a bulky, dedicated unit from 1999) lacked any built-in internet or messaging capabilities. Even if he tried composing messages offline to potentially save later, Delores hovered whenever he used the device, making comments about wasting battery or asking pointedly what he was doing, making him quickly put it away. The technological limitations combined with Delores's controlling presence meant the isolation felt immense, stretching with the miles.
 
-### Part 3: Doubts and Desperation
+### Part 3: The Music City Realization
 
-After changing buses again in Knoxville, the journey continued through Nashville. By this point, the accumulation of physical discomfort, Delores’s dismissive behavior, and the profound isolation had solidified a painful realization in Leo’s mind: this relationship wasn't working. It wasn't just a rough patch; it was wrong. He desperately wanted it to be over. He wanted to turn around, get off this endless bus ride, and go back home to the safety and quiet understanding of Stella and Luna.
+After changing buses again in Knoxville, the journey continued west into the heart of Tennessee. The initial adrenaline of departure had completely worn off, leaving Leo hollow and exhausted. His body ached from the rigid, upright positioning in his manual chair, an unavoidable necessity of accessible travel that Delores seemed determined to ignore. 
 
-But the thought was immediately followed by a wave of helplessness. How could he? He had limited funds, no way to easily communicate, and Delores controlled everything about this trip. He was stuck.
+As the gleaming Pathfinder coach descended into the sprawl of Nashville, the city skyline broke through the fading afternoon light. Out the wide, tinted window to his right, Leo watched the traffic thicken along the interstate. A local transit bus—a Music City MTA coach—pulled alongside them in the adjacent lane, its bright, utilitarian livery contrasting sharply with the long-haul grey and blue of the Pathfinder. 
 
-Knowing he wanted out but couldn't escape made the rest of the journey an exercise in quiet desperation. Across the plains of the Midwest – navigating another bus change in St. Louis, then onward through Kansas City and Topeka – the landscape flattened into an endless, monotonous panorama that mirrored his internal feeling of being trapped on a ride he couldn't get off. Inside the bus, the tension between Leo and Delores thickened.
+Leo stared at the city bus. It was such an ordinary sight, a vessel of routine and daily commutes, yet it struck him with the force of a physical blow. The people on that MTA bus were going home. They were going to jobs, to families, to safe and predictable destinations. They were moving through lives that made sense. 
 
-At the brief stop in Colby, Kansas – little more than a designated pull-off at a large, dusty truck stop off Interstate 70 – Leo watched Delores step off the bus to stretch her legs. She stood near the front of the coach, staring back east, the direction they had come from, her arms crossed tightly, a deep frown creasing her brow. She kicked absently at a loose piece of gravel, her posture radiating frustration and something Leo couldn't quite decipher – regret? Second thoughts? It seemed, perhaps, that he wasn't the only one questioning this journey. But the moment was fleeting; she quickly shook her head, climbed back aboard with her usual irritable sigh, and didn't say a word, leaving Leo to wonder, trapped in his own silent misery as the bus pulled back onto I-70, continuing west.
+He was not. 
 
-Small requests from Leo for help adjusting his position or reaching something from his bag were met with sighs or sharp remarks. Delores seemed to resent his needs, framing them as inconveniences that disrupted her own numb endurance of the trip. Leo retreated further into himself, watching the miles crawl by, each one taking him further from Virginia, further from where he desperately longed to be. The initial excitement of the trip had long since evaporated, replaced by the agonizing knowledge that he wanted to go home, coupled with the dread of the unknown situation awaiting him in Washington.
+He was thousands of miles away from Daniel Maloney Drive, hurtling further into the unknown with a woman who treated his very existence as a burden she was reluctantly suffering. The accumulation of physical discomfort, Delores’s dismissive sighs every time he needed assistance, and the profound, isolating silence between them suddenly crystallized into a singular, undeniable truth: this relationship wasn't working. 
 
-### Part 4: Arrival in the Pacific Northwest
+It wasn't just a rough patch, and it wasn't just the stress of travel. It was entirely, fundamentally wrong. 
+
+Watching the MTA bus merge away toward an exit, Leo felt a desperate, suffocating panic rise in his chest. He wanted out. He wanted to turn this massive coach around, get off this endless ride, and go back to the safety and quiet understanding of Stella and Luna. But as he looked over at Delores, who was staring rigidly ahead, lips pursed in irritation, the terrible reality of his situation set in. He had limited funds, no easy way to communicate, and his abuser controlled every aspect of this journey. He was trapped.
+
+### Part 4: The Colby Turn
+
+Knowing he wanted out but couldn't escape made the rest of the journey an exercise in quiet desperation. Across the plains of the Midwest—navigating another bus change in St. Louis, then onward through Kansas City and Topeka—the landscape flattened into an endless, monotonous panorama that mirrored his internal feeling of being trapped on a ride he couldn't get off. Inside the bus, the tension between Leo and Delores thickened to the point of suffocating.
+
+At a brief, desolate stop in Colby, Kansas—little more than a designated pull-off at a large, dusty truck stop off Interstate 70—Delores practically shoved her way off the bus the moment the doors hissed open. 
+
+Leo watched her through the thick, smudged glass. She stood near the front bumper of the coach, staring back east, back the way they had come. Her arms were crossed tightly over her chest, a deep, furious frown creasing her brow. She kicked absently at a loose piece of gravel, her posture radiating an intense, bitter frustration. 
+
+It wasn't just annoyance at the long trip. It was resentment. Leo could see it in the rigid set of her shoulders and the dark glare she cast toward the horizon. She had dragged him along on this grand gesture, this supposed romantic move across the country, but the reality of traveling with him—of dealing with his physical needs, his wheelchair, and the constant logistical hurdles—had finally breached her self-delusion. 
+
+She hated this. She hated the inconvenience of him. And as she stood there in the dusty Kansas wind, Leo realized with a cold certainty that she, too, thought this trip was a terrible mistake. But rather than taking responsibility for her own impulsive, controlling actions, she was blaming him for ruining it. 
+
+The moment of shared regret was fleeting, yet deeply alienating. She didn't look at him. She didn't come back on board to check if he needed water or repositioning. Instead, she shook her head, took a long drag of the dry air, and eventually climbed back onto the bus with a heavy, put-upon sigh. She sank into the seat next to him without a word, leaving Leo trapped in his own silent misery as the Pathfinder pulled back onto I-70, continuing its relentless push westward.
+
+### Part 5: Arrival in the Pacific Northwest
 
 Climbing through the Rockies into Denver brought a dramatic change in scenery but little relief and another bus change. The higher altitude of the Mile High City made the air noticeably thinner, causing Leo some mild but persistent breathing difficulty he hadn't experienced crossing the lower Blue Ridge or Appalachian ranges further east. To make matters worse, the air conditioning on this particular bus struggled, making the cabin stuffy and adding to his discomfort.
 
@@ -1105,7 +1123,7 @@ They disembarked onto the platform with their bags, the air damp and chilly. A f
 
 As they drove the final few blocks from the station, Aunt Carol focused entirely on Delores, chattering excitedly about catching up, completely ignoring Leo in the back seat. The earlier warmth directed at her niece only highlighted the chilly courtesy extended to him. Leo stared out the window, the feeling of being an unexpected, unwelcome piece of baggage intensifying. The suspicion about the return trip, sparked by overhearing Delores's phone call, gnawed at him, amplified now by the clear evidence that his presence here was, at best, tolerated, and certainly not invited. The dread tightened its grip.
 
-### Part 5: An Unwelcoming House
+### Part 6: An Unwelcoming House
 
 The car pulled into the driveway of a small, neat house on a quiet residential street. It was late, the streetlights casting long shadows. Getting out of the car, Leo felt a wave of sheer relief wash over him, quickly followed by bone-deep exhaustion. Four days on a bus. It was finally over.
 
@@ -1127,7 +1145,7 @@ Later, as Delores closed the guest room door, the exhaustion of the journey cras
 
 Carol, passing the guest room doorway a few minutes later, saw the large electronic device charging. She recognized it immediately as a type of Augmentative Communication device. She knew how vital they were, and made a quick, sharp mental calculation of just how incredibly expensive they were. The fact that this exhausted, clearly distressed young man had been without his voice for any length of time was another piece of a troubling puzzle that was beginning to form in her mind. It was clear to her that none of this was Leo's fault. The observation registered, filed away for the moment.
 
-### Part 6: Jet Lag, Pancakes, and a Fragile Plan
+### Part 7: Jet Lag, Pancakes, and a Fragile Plan
 
 That first night, lying stiffly on one side of the unfamiliar bed in the cramped guest room, Leo finally drifted into a fitful sleep, disturbed by the unfamiliar surroundings and a persistent, gnawing ache from his hip. Delores, beside him, seemed equally restless.
 
@@ -1223,7 +1241,7 @@ Carol looked at Leo. Her eyes softened.
 
 She turned back to Delores, her eyes hard again. "You do the dishes. Both plates."
 
-### Part 7: Delores Forces Herself
+### Part 8: Delores Forces Herself
 
 By late afternoon, the relentless November rain had settled into a dreary, persistent drizzle. Leo lay on the double bed in the small guest room, trying to find a position that offered relief from the throbbing pain in his hip. He was weak, nauseous from the lack of medication, and utterly exhausted.
 
@@ -1284,92 +1302,6 @@ She had stopped. He didn't know why, but she had stopped.
 He looked at the nightstand where his AAC device sat charging. He wanted to reach for it, to call for help, but he was paralyzed by the aftershocks of the adrenaline. He had stood on the edge of the cliff, and she had pulled back at the last second.
 
 He was safe, physically. But the psychological wall had been breached. He knew now, with terrifying certainty, that there was no line she wouldn't cross if she was angry enough. He had to get out. He had to go home.
-
-### Part 8: The Breaking Point
-
-The third morning in Kent dawned with a drumming sound against the window – a cold, relentless November rain. Inside the guest room, it was still pitch black, but Leo was wide awake. He hadn't slept.
-
-He lay rigid on his side of the bed, listening to Delores breathing beside him. The memory of the previous evening—the weight of her body pinning him, the suffocating pressure of her mouth, and the terrifying slide of her hand before she abruptly stopped—was a loop playing over and over in his mind. She had stopped, but the safety of the room had been obliterated. He knew, with a cold, crystal clarity, that he was not safe here.
-
-Delores stirred. She woke up angry. The "cold feet" from the night before had curdled into a sour, resentful mood. She felt rejected, and in her narcissism, rejection was an attack.
-
-She threw back the covers and sat up, ignoring him. She started slamming drawers, getting dressed with aggressive, jerky movements.
-
-Leo watched her from the bed. His heart was hammering. He knew he was walking on a knife's edge, but the terror of staying was now greater than the fear of her anger. He had to know if there was a way out.
-
-He reached for his AAC device on the nightstand. He unplugged it from the wall. His hands were shaking so badly he almost dropped the stylus.
-
-Delores whipped around. "What are you doing?" she snapped. "Stop making noise."
-
-Leo froze. He turned the screen toward her. He had typed a single, desperate question.
-
-BUS TICKETS? WHEN DO WE GO HOME?
-
-Delores stared at the screen. The question—the proof that his only thought was escaping her—was the spark that lit the fuse.
-
-"Are you serious?" she hissed, her voice rising. "Is that all you can think about? Getting away from me? After everything I did for you?"
-
-She stepped closer to the bed, looming over him.
-
-"I brought you on an adventure. I tried to be nice. I tried to be... romantic," she spat the word like a curse. "And you just laid there like a victim. And now you want to leave?"
-
-Leo shrank back against the headboard, clutching the device to his chest like a shield. He shook his head, trying to convey No, I just want to go home.
-
-"You ungrateful little cripple," she screamed.
-
-She lunged.
-
-She grabbed the handle of the AAC device. Leo tried to hold on, but she was standing and furious. She ripped it from his grasp with a violent tug that nearly pulled him out of bed.
-
-"You want to talk to your sisters?" she shrieked, holding the heavy, beige machine above her head. "You want to tell them how mean I am? You want to tattle?"
-
-"No!" Leo tried to vocalize, a strangled sound of pure terror.
-
-"Maybe you're better off silent!"
-
-She hurled the device down.
-
-It hit the linoleum floor with a sickening, explosive CRACK. The heavy plastic casing shattered. The screen spiderwebbed into a thousand shards. There was a terrible, grinding crunch as the internal hard drive—the drive holding his vocabulary, his phrases, his voice—slammed against the concrete subfloor.
-
-Leo stared at the broken pieces. The green power light flickered once and died.
-
-Silence filled the room.
-
-Delores stood there, heaving. She looked at the broken machine, then at Leo. She didn't look sorry. She looked satisfied.
-
-"See what you made me do?" she yelled, pointing a shaking finger at him. "This is your fault! You ruin everything!"
-
-She grabbed his wheelchair from the corner and shoved it against the bed.
-
-"Get out," she commanded.
-
-Leo looked up, stunned.
-
-"I said GET OUT!" she screamed. "I'm done with you! Get out of my aunt's house! I don't want to see you ever again!"
-
-She grabbed his arm and hauled him into the chair. She didn't help him transfer; she dumped him into it. She threw his backpack into his lap.
-
-She wheeled him down the hallway, ignoring his terrified grip on the wheels. She threw open the front door.
-
-The pre-dawn air was freezing. The rain was coming down in sheets.
-
-"Go find your own way home!" she shouted.
-
-She shoved the chair over the threshold, onto the wet concrete of the porch.
-
-SLAM.
-
-The door locked.
-
-Leo sat there, stunned, soaked instantly by the freezing rain. He was three thousand miles from Virginia. He had no voice. He had no medication. And he was alone in the dark.
-
-He looked at the closed door. Then he looked at the dark street.
-
-He realized, with a jolt of pure survival instinct, that staying on this porch was death. She wasn't coming back.
-
-He gripped his wet push rims. He turned his chair toward the street.
-
-He didn't know where he was going. But he knew he had to move.
 
 ## Homecoming
 
