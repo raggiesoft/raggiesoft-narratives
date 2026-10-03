@@ -1470,511 +1470,169 @@ I was too physically weak to speak, but my mind was incredibly clear. As I liste
 
 She was the one. I was going to marry her.
 
+### Part 6: The Recovery Protocol
+
+**Date:** 2005-03-22 at 18:15 PT
+
+Exactly one hour after Liz hung up the phone with my parents, the heavy deadbolt on the front door clacked open. 
+
+Cassandra burst into the apartment, still wearing her sleek, charcoal-grey Quantum corporate blazer. She didn't bother taking off her shoes or putting her messenger bag down. She wheeled her chair straight into the living room, her dark eyes instantly sweeping over the tactical triage center Liz had established. 
+
+She saw the two utility buckets on the floor. She saw the heavy fleece blankets. And she saw me and Casey, pale and miserable, wrapped around each other on the pull-out sofa bed. 
+
+"I'm here," Cassandra announced, her voice dropping the corporate edge and flooding with absolute, protective warmth. 
+
+She wheeled right up to the edge of the sofa bed, pressing the back of her cool hand against my forehead, and then Casey's. 
+
+"Liz was right. No fevers," Cassandra confirmed softly. "How are you guys holding up?"
+
+"Everything hurts," Casey whispered from against my chest, her voice incredibly small. 
+
+"I know, baby," Cassandra said gently, reaching out and brushing the hair away from Casey's damp forehead. "Food poisoning is a violent, miserable process. But your bodies are doing exactly what they need to do to clear the toxin out."
+
+"They've both managed to keep down a few sips of ginger ale over the last thirty minutes," Liz reported from the armchair, sliding effortlessly into the role of the medical lieutenant reporting to the commanding officer. "The Promethazine has kicked in, so the nausea is stabilizing. Now it's just about hydration and letting their systems reset."
+
+"You did an incredible job, Liz," Cassandra said, looking over at her with deep, profound gratitude. "Thank you for locking the perimeter and getting them secure."
+
+"They're my pack, too," Liz smiled softly. 
+
+Cassandra unbuttoned her blazer, tossing it over the back of the nearby dining chair. "Alright, Liz. You've been on active duty since this afternoon. Why don't you take the armchair and relax? I'll take the night shift."
+
+"I'm not going anywhere," Liz promised, kicking her feet up onto the coffee table. "I've got nowhere to be until my morning lecture at UW."
+
+For the next several hours, the apartment settled into a quiet, heavily monitored quarantine zone. 
+
+Cassandra was a relentless, nurturing force. Every thirty minutes, she wheeled over to the sofa bed with fresh, ice-cold glasses of Laurentian Dry ginger ale and aggressively encouraged us to take tiny, measured sips. 
+
+"Laurentian Dry is the only brand that actually works," Cassandra had explained earlier, examining the green label. "It uses an actual cold-pressed ginger root extract in the syrup base. Sterling's is just ginger-flavored high-fructose corn syrup—it does absolutely nothing for the nausea and just makes you bloat." 
+
+When Casey started to shiver from the exhaustion of the purge, Cassandra pulled a second, heavy wool blanket out of the hall closet and draped it over us, tucking the edges in tightly to trap our body heat. 
+
+The violent urgency of the stomach bug had passed, but the physical drain left both of us entirely hollow. We spent the evening drifting in and out of a shallow, medicated sleep. Every time I woke up, the scene was exactly the same: Casey was tucked safely against my chest, Liz was reading a textbook in the armchair, and Cassandra was sitting nearby in her wheelchair, quietly working on her laptop while keeping a vigilant eye on our breathing. 
+
+Around midnight, my stomach let out a long, hollow rumble. It wasn't the sharp, agonizing cramp of the nausea—it was the deep, empty ache of hunger. 
+
+"Cass?" I croaked, my voice barely above a whisper. 
+
+Cassandra's fingers instantly stopped typing. She looked over at the sofa bed. "Yeah, David?"
+
+"I think... I think I'm actually hungry," I admitted. 
+
+Liz looked up from her textbook, a triumphant smile spreading across her face. "The purge is officially over."
+
+Cassandra closed her laptop and wheeled into the kitchen. Five minutes later, she returned with two small plates of dry, plain toast and a fresh glass of water. 
+
+"Slowly," Cassandra warned, handing a plate to me, and then gently waking Casey to give her the other. "Your stomachs are completely empty, and the muscles are bruised from the contractions. Take one bite, wait five minutes, and see how the system reacts."
+
+I took a tiny bite of the dry toast. As I swallowed, my stomach instantly clenched in protest. The violent, sustained muscular contractions of the day's purge had left the organ wall feeling physically bruised and tender. Eating hurt. I could feel Casey doing the same against my chest, letting out a sharp, involuntary wince as the bland carbohydrates hit her raw stomach. 
+
+But it stayed down. 
+
+"It hurts," Casey whispered, shivering slightly against me. "But we're going to survive."
+
+"Of course you are," Cassandra smiled, leaning over to kiss the top of Casey's head, and then mine. "You're safe. We've got you."
+
+I looked across the dimly lit living room at Liz, who was watching us with a look of absolute, unconditional love. I pulled Casey a little closer, took another painful, microscopic bite of the dry toast, and felt the final traces of the panic dissolve. 
+
+I was home.
+
+### Part 7: Bedtime Routine
+
+**Date:** 2005-03-22 at 22:30 PT
+
+The dry toast had miraculously stayed down, but the physical exertion of simply chewing it had completely depleted whatever tiny reserves of energy Casey and I had left. Our stomachs were battered, our legs felt like lead, and we were entirely too weak to move from the pull-out sofa bed. 
+
+"Alright," Liz announced, standing up and stretching her arms over her head. "The purge is over, but neither of you are sleeping in the clothes you've been wearing all day. It's time for the bathroom rotation."
+
+Casey groaned softly from against my chest, her eyes squeezed shut. "I can't walk."
+
+"I know," Liz said sympathetically, stepping over to the edge of the mattress. "Which is why I'm going to walk you."
+
+Because Casey was still seventeen, the bathroom rotation had to be strictly segregated. Liz carefully peeled the heavy wool blanket back, exposing us to the cool air of the apartment. She gently helped Casey sit up, wrapping one of Casey's arms over her shoulder. 
+
+"I've got you," Liz promised, taking the bulk of Casey's weight. 
+
+I watched as Liz slowly and patiently walked my teenage sister down the short hallway to the bathroom. Ten minutes later, the bathroom door opened, and Liz guided Casey back into the living room. Casey was now dressed in an oversized, soft flannel pajama set, looking incredibly pale but deeply relieved to be clean. 
+
+Liz helped her slide back onto the far side of the sofa bed, pulling the heavy blankets up over her shoulders. 
+
+"Okay, big guy. Your turn," Liz said, walking around to my side of the bed. 
+
+I tried to push myself up, but my arms immediately trembled and gave out. Liz caught me effortlessly, hauling me to my feet and letting me lean heavily against her shoulder. It was humiliatingly exhausting just to put one foot in front of the other, but Liz guided me into the bathroom and helped me grab my heavy cotton sweatpants and a clean t-shirt. 
+
+When we finally made it back into the living room, my legs were shaking so violently that I practically collapsed onto the mattress. 
+
+"Goodnight, guys," Cassandra called out softly from the kitchen counter, where she had set up her laptop for the night. "I'll be right out here if you need anything."
+
+"Night, Cass," I mumbled, my head hitting the pillow. 
+
+Casey immediately shifted across the mattress, closing the gap between us. She was exhausted and bruised, and she aggressively insisted on sleeping next to her safe person. She curled up against my side, burying her face into my chest, her breathing already slowing into a heavy, medicated rhythm. 
+
+I wrapped my arm around her instinctively, pulling the heavy fleece blankets over us. 
+
+I expected Liz to head into the master bedroom to sleep, but instead, she turned off the living room lamp, leaving only the soft glow of Cassandra's laptop screen. 
+
+Liz walked over to the edge of the sofa bed, pulled the blankets back, and climbed in right behind me. The mattress sank slightly under her weight as she curled up against my back, wrapping her arms securely around my waist. 
+
+"You're going to catch the bug," I whispered hoarsely. 
+
+"I don't care," Liz whispered back, pressing a gentle kiss against the back of my neck. "I'm not leaving my pack."
+
+Sandwiched between the fierce loyalty of my sister and the unconditional love of my girlfriend, I closed my eyes and finally let the exhaustion pull me under.
+
 ## Chapter 8: The Prospector's Keep
 
-### Part 1: The Motorpool
+### Part 1: The BRAT Diet
 
-**Date:** 2005-04-08 at 15:00 PT
+**Date:** 2005-03-23 at 09:00 PT
 
-We had left Federal Way early that morning, navigating the heavy northbound traffic of I-5. Because the state had never finished building the massive I-296 bypass loop around Eldridge County, there was no way to avoid the crush of the urban core. Our three-van convoy was forced to sit through an absolute nightmare of gridlock as I-5 plunged directly through the towering, futuristic concrete canyons of Meridian City—a massive Tier 1 metropolis that easily rivaled Seattle. It took us over an hour just to clear the downtown sprawl and finally merge onto Interstate 96 East, which eventually deposited us onto the remote, alpine stretch of the North Cascades Highway.
+I woke up the next morning with my face buried in the soft fabric of the sofa bed, completely sandwiched between the two most important women in my life. Casey was still curled tightly against my chest, while Liz’s arms were wrapped securely around my waist from behind. 
 
-Now, the convoy of three rental minivans snaked its way up the winding, increasingly treacherous pavement of State Route 20. 
+For a few minutes, everything felt perfectly peaceful. Then, my stomach let out a massive, echoing growl. Casey shifted against me, her own stomach immediately mirroring the sound. 
 
-Liz was driving the lead van, gripping the steering wheel as the elevation continued to climb. I sat in the passenger seat, staring out the window at the sheer, vertical drops plunging into the Eldridge gorge. In the back seats, Casey and Cassandra were quietly reviewing the reservation paperwork. 
+"I'm starving," Casey murmured, her voice thick with sleep. 
 
-Directly behind us in the second minivan were my parents, Tom and Wendy, along with Liz's mother and father. Following closely in the third van was the absolute heavy artillery of my chosen family: the Delaneys. Both the Virginia Beach and Rhode Island branches had flown into Sea-Tac the night before. Morgan, Meredith, Erin, David, and Kate were entirely unwilling to let my twentieth birthday pass without a massive, heavily fortified celebration. 
+"Me too," I groaned, trying to sit up. 
 
-"The WSDOT pulled the highway barricades early this year," Cass announced from the back, checking the GPS coordinates on her silver laptop. "SR-20 is completely open to the public, but the resort doesn't officially open for the season until Memorial Day. Look for the private turnout in about two miles."
+As soon as my abdominal muscles contracted, a wave of deep, physical soreness radiated across my stomach. The nausea was completely gone, but the violent, repeated muscular contractions of yesterday's purge had battered the organ wall and the surrounding abdominal muscles. It felt like I had spent three hours taking direct punches to the gut. 
 
-Two miles later, Liz gently applied the brakes, engaging her turn signal. The public highway continued winding up into the mountains, but Liz banked the minivan off the shoulder, guiding our massive, three-vehicle convoy down a steep, privately maintained concrete ramp that disappeared into the side of the mountain. 
+Liz stirred behind me, sitting up and rubbing her eyes. "Morning, guys. How are the stomachs feeling?"
 
-The ramp ended abruptly at a pair of massive, industrial steel blast doors that were sealed completely shut. Mounted on a steel bollard next to the driver's side window was a heavy-duty call box equipped with a keypad and an intercom. 
+"Empty," I said, wincing as I carefully pulled myself into a sitting position. "And incredibly bruised."
 
-Liz rolled down her window and pressed the call button. 
+"That's normal," Cassandra's voice drifted in from the kitchen. 
 
-"The Prospector's Keep is currently closed for the season," a young woman's voice immediately crackled over the intercom, sounding practiced and firm. It was clear she spent most of April turning away stray tourists who wandered off the newly-opened highway. "If you are with the seasonal pre-opening crew, please enter your security clearance code on the keypad."
+I looked over and saw my older sister standing by the stove, still wearing the sweatpants she had thrown on last night. She had a pan on the burner and was carefully stirring a small pot. 
 
-"We don't have a code," Cassandra spoke up from the back seat, leaning forward so her voice would carry to the speaker. "The reservation name is Cassandra Vance. We booked the weekend buyout."
+"Cass?" I asked, looking at the clock on the microwave. It was past nine in the morning. "Aren't you supposed to be at the Quantum campus today?"
 
-There was a brief pause of static. 
+"I called in," Cassandra said smoothly, not taking her eyes off the stove. "I told the executive board that I'm taking a PTO day. My little brother and sister were poisoned by a suburban mall, so corporate strategy can wait."
 
-"Copy that, Ms. Vance," the young woman finally replied, her tone dropping its customer-service baseline entirely. "Stand by."
+"You took a day off?" Casey asked, her eyes widening slightly. Cassandra Vance did not take days off. She was a relentless corporate machine who regularly worked eighty-hour weeks to secure the family's financial empire. 
 
-A heavy mechanical clunk echoed through the gorge, and the massive industrial blast doors slowly rolled open. 
+"I did," Cassandra smiled, walking over to the edge of the sofa bed. "You two are my priority. Always."
 
-Liz drove us into the climate-controlled Lower Motorpool—an astonishing piece of subterranean infrastructure. The blast doors immediately slid shut behind the third minivan, completely sealing the cavern. As Liz brought our vehicle to a halt in the arrival lane, the other two vans parked neatly behind us. 
+She handed me a steaming mug of peppermint tea, and then handed one to Casey. 
 
-The young woman who had answered the squawk box was waiting for us. She wore a heavy black peacoat, high-visibility gear, and a tactical radio harness. She held a heavy clipboard, not even blinking at the sheer volume of civilians spilling out of the three rental vehicles. 
+"Drink that slowly," Cassandra instructed. "It will help relax the bruised muscles in your digestive tract. The soreness usually lasts for two or three days after a severe purge. Your stomach lining is incredibly sensitive right now, which means you cannot jump straight back into normal food."
 
-"Welcome to The Prospector's Keep," she said smoothly, her pen hovering over her clipboard. 
+"We're initiating the BRAT protocol," Liz agreed, walking into the kitchen to help Cassandra. 
 
-The young woman's posture instantly locked into a state of absolute, militarized focus. Her dark eyes swept over Cassandra, darted to me, tracked Liz, and finally landed on the massive crowd of Delaneys unloading from the third van. 
+"BRAT?" I asked, taking a tiny, cautious sip of the peppermint tea. The warmth instantly felt soothing against my battered throat. 
 
-She reached for the heavy radio clipped to her chest harness. 
+"Bananas, Rice, Applesauce, and Toast," Cassandra listed off. "Bland, easily digestible carbohydrates that will give you energy without triggering your raw stomachs to reject it."
 
-"Command, this is Perimeter," she broadcasted, her voice dropping all pretense of customer service and shifting into a cold, tactical register. "The Vance party has arrived. They brought a massive civilian perimeter. I am transferring Motorpool command to Beta-Shift. I am going to need three Ridgebacks. Have the floor assemble."
+A few minutes later, Liz and Cassandra returned to the living room with two plates. They had prepared a carefully measured breakfast: half of a mashed banana, a small scoop of plain white rice, and a single slice of dry toast. 
 
-"Copy that, Perimeter," a static-laced voice replied instantly. "We're waiting."
+"Take it slow," Liz warned, sitting back down on the edge of the sofa bed next to me. 
 
-The young woman unclipped her radio and looked back at Liz. "Leave the keys in the ignitions, please. My team will secure your rental vehicles. We will transfer your luggage and the wheelchairs into the Ridgebacks."
+Casey and I ate with excruciating care. The muscles in my abdomen ached with every swallow, a dull, bruised throb that served as a constant reminder of the toxin. But the food tasted like heaven. 
 
-"Ridgebacks?" Liz asked, stepping out of the van into the echoing concrete bunker. 
+"So," Cassandra said, sitting down in the armchair and crossing her legs. "You two are officially confined to the apartment for the next forty-eight hours. What movie are we watching first?"
 
-The young woman gestured toward the far end of the Motorpool, where three massive, heavy-duty 4x4 transit vans were idling. Their tires were wrapped in aggressive, thick steel chains. 
+I looked at Casey, who was happily taking a tiny bite of her mashed banana, and then at Liz, who was resting her head against my shoulder. 
 
-"The resort is five miles up Prospector Road," the young woman explained smoothly, already signaling for her Beta-Shift subordinates to begin cross-loading our massive family. "The grade is brutal, and the snowpack is deep. My team will drive you."
+Getting food poisoning was a miserable, violent experience. But spending the day locked down in the apartment, surrounded by a pack that was willing to drop everything to keep us safe? 
 
-"A literal five-mile moat," I whispered to Liz, feeling a deep, sudden thrill of absolute security. 
-
-Liz smiled, lacing her fingers through mine. "Cass wasn't kidding. Nobody is getting up there."
-
-It took ten minutes for the heavily coordinated Motorpool team to cross-load twenty people, our luggage, and two manual wheelchairs into the three armored transit vans. The young woman in the peacoat climbed into the driver's seat of our lead Ridgeback. She hit a switch on her overhead console, plunging the Lower Motorpool into darkness and fully sealing the blast doors behind us. 
-
-She put the heavy vehicle into gear, the steel chains biting into the ice as we began the brutal, serpentine ascent up Prospector Road.
-
-### Part 2: The Great Hall Reveal
-
-**Date:** 2005-04-08 at 15:20 PT
-
-The three Ridgeback transit vans broke through the timberline at seven thousand feet. The true, towering majesty of The Prospector's Keep loomed against the jagged skyline, its three-foot-thick stone walls defying the brutal alpine elements. 
-
-Emma parked our lead Ridgeback under the massive cobblestone portico. She deployed the hydraulic ramp for Cassandra and pushed the heavy oak front doors open for us. The other two vans parked immediately behind us, and the massive Virginia and Rhode Island contingent began spilling out onto the cobblestones. 
-
-I pushed Cassandra's wheelchair through the oak doors, closely flanked by Liz and Casey. My parents and the Carters followed right behind us, while the Delaneys naturally fanned out to form a protective perimeter around the rear of the group. 
-
-We stepped into the Great Hall. 
-
-The 1890s timber-framed lobby was an absolute masterpiece of crimson velvet and roaring walk-in fireplaces. But the opulence of the room was entirely overshadowed by the terrifying human wall waiting for us. 
-
-There were no bellhops. There were no concierges smiling behind the mahogany reception desk. Instead, forming a sweeping, defensive semicircle in the center of the lobby was a massive group of women who looked more like a paramilitary unit than hotel staff. Two women wore heavy canvas coveralls stained with diesel grease. Another stood in a pristine white chef's coat. Flanking the center were a pair of women radiating an intense, lethal protectiveness. 
-
-Sitting dead center behind the mahogany desk, wearing a tailored charcoal blazer, was an imposing woman in her early forties. 
-
-Parked directly beside her was a young man in a manual wheelchair, his hands resting on a heavy Quantum XN laptop mounted to his chair's frame. Standing immediately behind him, her hands fiercely gripping his shoulders, was a young woman with a long dark braid. 
-
-Cassandra froze. Her executive processor instantly recognized the overwhelming, highly unusual show of force. This wasn't a standard, European-style hospitality greeting. She hesitated for a microsecond, clearly thrown completely off her game, before shifting flawlessly into her Building 33 executive baseline. 
-
-"I am Cassandra Vance," Cass stated smoothly, projecting her voice across the quiet, echoing timber. "I assume from the welcoming committee that our booking is in order?"
-
-The woman behind the desk did not look at a computer screen. She stared directly at Cassandra. 
-
-"Your booking is fully funded, Ms. Vance," the woman said, her voice a cold, resonant blade that carried the absolute sovereign authority of the mountain. "However, I do not believe in coincidences. Not when it involves the security of my family."
-
-Cass frowned slightly, adjusting her glasses. "I don't understand. Are there issues with the liability waivers?"
-
-"There are no issues with the paperwork," she countered, stepping out from behind the mahogany desk. "But when a Quantum executive sharing my exact surname buys out my entire operational grid, I run a forensic trace."
-
-The imposing woman paced slowly across the Persian rug, her sharp eyes dissecting me, Cassandra, Casey, and our parents standing in the doorway. 
-
-"Laurent Vance, the man who built this fortress with Klondike gold in 1903, had two sons," she explained, her voice echoing in the absolute silence of the Great Hall. "My grandfather stayed on this mountain to maintain the empire. The younger son despised the cold. He took a cash buyout in the 1920s, permanently severing his ties to this estate, and moved to Virginia."
-
-She stopped dead in front of Cassandra’s wheelchair. 
-
-"You are not a corporate spy launching a hostile acquisition," she stated, the paranoia finally bleeding out of her posture, replaced by a profound, calculating realization. "I am Victoria Vance. And you are Laurent Vance’s great-granddaughter. You are blood."
-
-My processor completely stalled. 
-
-Cassandra gripped the wheels of her chair, entirely stunned. She looked at Victoria, then at the sprawling army of highly competent, fiercely protective women standing behind the desk. 
-
-"We're... related?" Casey gasped, her dark eyes wide as she looked at the sheer scale of the family we never knew we had. 
-
-"We are," Victoria confirmed, a rare, razor-thin smile touching her lips. "I legally exiled the rest of my generation from this mountain in 1999 to protect my cousins from their greed. I assumed my pack was all that was left. I had no idea a highly competent, entirely separate branch of the family was operating in the executive suites of Redmond."
-
-"This is impossible," my father breathed out, stepping forward in absolute shock. "My father never said a word about Washington State. Or gold."
-
-"Your father likely didn't know," one of the sharp-eyed twins standing near the desk chimed in. "The eastern branch was severed eighty years ago. Cassandra, you just accidentally rented your own ancestral fortress."
-
-The young man in the wheelchair moved his stiff fingers over his mechanical keyboard. The flat, digitized voice of his text-to-speech software suddenly chimed into the room. 
-
-"Data correlation," his laptop announced. "Your booking profile lists your brother, David Vance, as a primary guest. The birthdate registered on the liability waiver is April 8, 1985."
-
-I blinked, stepping forward. "Yeah. Today is my birthday. I'm turning twenty."
-
-The young woman standing behind the wheelchair let out a short, breathless laugh. She looked at me, her protective stance melting entirely into pure shock. She squeezed the young man's shoulders. 
-
-"David," she said, her voice echoing into the quiet room. "Today is April 8th. Johnny and I were born on April 8, 1985. We are turning twenty today, too."
-
-The air in the Great Hall seemed to physically shift. 
-
-I looked at the young man—Johnny. He looked back at me. We were exactly the same age, born on the exact same day on opposite sides of the country, both carrying the exact same bloodline, entirely insulated by incredibly powerful older sisters who would burn the world down to keep us safe. 
-
-Liz tightened her grip on my hand, looking around the room at the staggering display of unity and protection. She recognized the frequency instantly. Victoria’s pack wasn't just a group of hotel operators; they were the exact same fiercely loyal, deeply structured family architecture that Cass had built for us.
-
-Victoria Vance looked at Cassandra, the final remnants of the Matriarch's icy defensive wall dissolving completely. 
-
-"Well, Cassandra," Victoria smiled, gesturing to the roaring fireplaces and the sprawling estate. "It appears we have three twentieth birthdays to celebrate today. Welcome home."
-
-### Part 3: The Sovereign Tour
-
-**Date:** 2005-04-08 at 08:30 PT
-
-The morning light at seven thousand feet was a blinding, crystalline white.
-
-Because the resort wasn't officially open for the season, Victoria had isolated our massive, twenty-person East Coast convoy entirely within the Keep's private residential wing. It was the same wing where the Vanguard lived, giving us an unprecedented look at how the mountain truly operated when the civilians weren't around. 
-
-Breakfast was a flawless, sprawling affair prepared by Diana and her teenage culinary brigade. But while the rest of our pack, the Delaneys, and our parents caught up over coffee, I watched a quiet, intense dynamic unfolding at the head of the long oak table. 
-
-Cassandra and Victoria were sitting across from each other. 
-
-It was like watching two apex predators study each other's architecture. Victoria wanted to learn exactly how the eastern branch of the bloodline had survived and evolved, and Cassandra was deeply fascinated by how Victoria managed a fully autonomous, militarized hotel grid. They were trading corporate strategies, perimeter logistics, and security protocols in a rapid-fire exchange of executive competence. 
-
-After breakfast, Victoria officially took over. The Matriarch had traded her tailored blazer for a heavy, elegant wool cardigan, her posture radiating the proud, unyielding ownership of a woman showing her ancestral fortress to her own bloodline.
-
-She led Cassandra, Casey, Liz, and me out of the private residential wing and back into the sprawling expanse of the main hotel. 
-
-"Under standard operating procedures, The Prospector's Keep functions as a heavily choreographed commercial resort," Victoria explained, her voice echoing slightly against the 1890s timber framing of the Great Hall. "But because Cassandra executed a total buyout, the standard boundaries do not apply to you."
-
-Victoria pushed open the massive oak front doors, leading us outside. 
-
-We stepped out onto the wide cobblestone portico. I recognized it immediately as the exact spot where Emma had parked the heavy Ridgeback transit van to drop us off yesterday afternoon. The freezing, razor-sharp morning air hit my lungs, instantly waking up every nerve ending in my body. 
-
-Liz gasped, her grip tightening on my hand. 
-
-Because we had arrived in a frantic, exhausted blur yesterday, we hadn't truly absorbed the geography. Now, standing on the edge of the cobblestones in the clear morning light, the sheer, terrifyingly beautiful vista of the jagged North Cascades and the plunging depths of the Eldridge gorge was completely unobstructed. It felt like standing on the roof of the world. 
-
-Liz turned to me, her eyes shining with absolute certainty. "David, this is it. This is where we say our vows. Right here on the edge."
-
-Victoria stood near the heavy stone columns, a wry smile touching her lips. "A brilliant aesthetic choice, Elizabeth. But logistically unprecedented."
-
-Cassandra wheeled herself forward, her executive processor instantly engaging. "Unprecedented why? Is there a structural liability with the portico?"
-
-"Not structural. Logistical," Victoria clarified smoothly. "This portico is the primary public entrance to the lodge. Normally, this is an active loading zone where our fleet of heavy-duty Ridgeback vans constantly cross-loads arriving and departing civilians. It is never available as a bookable event space because halting traffic here would completely sever our supply line and gridlock the Lower Motorpool."
-
-Victoria swept her hand toward the empty cobblestones, her smile widening into a fierce, sovereign display of power. 
-
-"However," the Matriarch continued, looking directly at Cassandra, "because you bought out the entire mountain, there will be no civilian traffic. Emma will lock the Lower Motorpool blast doors to the public. My perimeter team will shut down the shuttles, and the portico will be entirely yours."
-
-"It's perfect," Liz beamed, leaning her head against my shoulder as we looked out over the ancient timberline. I thought back to the cramped sofa bed in the Federal Way apartment just two weeks ago—the absolute relief I felt when Liz didn't care that I was holding my sister. Now, standing on this mountain, the realization that she was the one had materialized into a physical, breathtaking reality. 
-
-"It is perfect," Victoria agreed warmly, "but the Cascades are volatile. If a summer squall moves in and the gorge gets hit with rain, we need an immediate, airtight contingency."
-
-Victoria turned around and pointed back through the open oak doors into the massive lobby we had just exited. 
-
-"Let me show you the Grand Ballroom."
-
-### Part 4: The Grand Ballroom
-
-**Date:** 2005-04-08 at 09:00 PT
-
-Victoria led us back through the heavy oak doors of the portico, crossing the 1890s timber-framed lobby. She bypassed the residential wings and the dining room entirely, moving toward a set of massive, floor-to-ceiling iron-wrought doors at the rear of the Great Hall. 
-
-She pushed them open. 
-
-Liz actually gasped. The Grand Ballroom was easily the largest rentable space in The Prospector's Keep. It was a cavernous, architectural masterpiece. The ceiling was vaulted, supported by massive, exposed old-growth timber beams. At the far end of the room was a roaring, walk-in river-stone fireplace that looked like it belonged in a medieval castle. But the true draw of the room was the wall facing the Eldridge gorge—it was entirely constructed of massive, heavily reinforced glass panes, offering an unbroken, panoramic view of the jagged North Cascades. 
-
-"This is the airtight contingency," Victoria explained, her voice carrying effortlessly through the echoing space. "If a summer squall hits the mountain on your wedding day, the perimeter team will immediately move the ceremony inside. You still get the backdrop of the gorge, but completely insulated from the elements."
-
-"It's breathtaking," Liz whispered, stepping further into the massive room. "We could have the ceremony on the portico, and the reception in here."
-
-"You can," Victoria nodded. "Because you booked a total buyout, my staff is at your absolute disposal. However, we need to discuss the logistics of your July reservation."
-
-Cassandra wheeled herself forward, her expression shifting into her calm, highly capable executive baseline. "I booked the July weekend through the standard public portal before I knew we were related, Victoria. When I did the paperwork, the LLC was listed under a trust. I didn't see the Vance name attached to the property."
-
-"I keep it insulated on purpose," Victoria smiled thinly. "But the July logistics are complex. Because your wedding falls in the middle of our peak summer season, the mountain will be running at maximum capacity. To execute your buyout, I am forcing all public reservations to check out by 10:00 AM the day before your arrival. We will not allow a single public guest back onto the mountain until the day after your departure."
-
-"I am aware of the disruption," Cassandra said, her tone polite but completely unyielding. "And that is exactly why I do not want any refunds, and I will not accept a family discount. I will pay the published peak-season buyout rate. My pack is not here to stake a claim on your gold or your estate. I am simply a sister paying for her brother's wedding venue, and I insist on keeping the ledgers clean."
-
-Victoria looked at Cassandra for a long moment. She appreciated the absolute lack of entitlement. Most estranged family members who discovered a massive ancestral fortune would immediately demand their cut. Cassandra just wanted to pay the retail price to ensure her brother's perimeter was secure. 
-
-"As you wish, Cassandra," Victoria agreed smoothly, bowing her head in a rare, genuine concession of respect. "No refunds. No favors owed. The ledgers remain clean."
-
-"If I may ask," my father, Tom, spoke up from the back of the room, still clearly trying to wrap his mind around the scale of the operation. "If the resort doesn't open to the public until Memorial Day... how did Cassandra get you to open the mountain today for David's birthday? If she didn't know you were her cousin, what did she say to convince you?"
-
-Victoria’s sharp eyes shifted to Tom, and a deeply amused smirk crossed her face. She looked back at Cassandra. "Would you like to tell him, or should I?"
-
-Cassandra adjusted her glasses, not looking the least bit apologetic. "I had Julian, a corporate concierge from Quantum, call your booking agent. When your agent told him the mountain was closed for the season, Julian offered to pay the mid-July peak-season rate, multiplied by a factor of three, entirely in cash."
-
-"And she had Quantum's corporate legal department draft a blanket liability waiver," Victoria added, her smirk widening. "It completely absolved my LLC of any off-season logistical or weather-related risks. The money was wired into our holding account in sixty seconds."
-
-"A corporate sledgehammer," I muttered, shaking my head in awe. 
-
-"Exactly," Victoria agreed, looking at Cassandra with deep, profound respect. "When my booking agent told me a Quantum executive had essentially kicked the front doors in with a briefcase full of cash and a titanium-clad legal waiver, I assumed it was a hostile corporate spy trying to leverage an acquisition. I approved the booking specifically to lure you up here so my Vanguard could deal with you."
-
-The entire room went silent as the reality of Victoria's original, lethal intent settled over the ballroom. 
-
-"Instead," Victoria said softly, her eyes sweeping over the massive, fiercely protective family standing in her ballroom, "I found my bloodline."
-
-A collective breath was released, the tension evaporating into a shared understanding. 
-
-"Now that the corporate hostilities have been officially cleared," Victoria said, her tone shifting back to that of a gracious, commanding host, "we need to discuss your accommodations for this weekend. Last night, because you arrived late and exhausted, we consolidated your entire group into the primary accessible suite on the ground floor."
-
-"It was essentially a massive slumber party," Liz smiled, remembering the tangle of Delaneys, air mattresses, and blankets.
-
-"Today, we will move you into proper hotel rooms," Victoria continued. "However, you will be staying in the guest rooms located within the Keep's private residential wing. It is adjacent to my family's quarters, but completely separate. The reason for this is logistical: right now, the only people staffing this mountain are my pack—my seventeen cousins. I am not going to power up and staff the massive commercial wings of the hotel before our seasonal employees begin arriving later this month."
-
-Cassandra nodded immediately, understanding the overhead costs. "Consolidating the footprint. It makes perfect sense."
-
-"It does," Victoria agreed. "However, since you are here to plan a July wedding, I am going to take you upstairs to see the Grand Suites on the top floor. Those are the luxury accommodations where you will stay during the peak-season wedding. But please understand, once this morning's tour is over, the upper floors will be powered down and completely off-limits until Memorial Day."
-
-Victoria turned, gesturing toward a set of polished brass doors gleaming in the shadows of the lobby. 
-
-"If you will follow me to the glass elevator," the Matriarch commanded, "I will show you the top of the mountain."
-
-### Part 5: The Chilkoot Wing
-
-**Date:** 2005-04-08 at 09:30 PT
-
-The massive brass-and-glass elevator was a breathtaking piece of engineering, but it couldn't comfortably fit twenty people at once. 
-
-"My Vanguard will escort the Delaneys up the grand staircase," Victoria directed smoothly, gesturing to a massive, iron-wrought stairwell that spiraled up through the center of the lodge. "David, Liz, Casey, Cassandra, and the parents will ride with me."
-
-The glass elevator hummed silently as it ascended from the lobby, rising directly parallel to the exposed timber framing of the Great Hall. By the time we reached the fourth and highest floor of the hotel, the view through the exterior glass wall was dizzying. 
-
-The brass doors slid open with a soft chime. 
-
-We stepped out onto a wide, heavily carpeted landing. Above the arched doorway leading down the corridor, a rustic, iron-wrought sign hung from the timber framing: *The Chilkoot Wing - Grand Suites*.
-
-I stopped dead in my tracks. 
-
-Liz bumped into me, looking up in concern. "David? What's wrong?"
-
-I stared at the sign, a very specific, hyper-detailed memory from ten years ago suddenly crashing into my active processing network. "August 1995. Pioneer Square. The Klondike Gold Rush National Historical Park."
-
-Casey, who had been looking down the hall, instantly snapped her head toward me. Her eyes went wide as her own archival memory accessed the exact same file. 
-
-"What happened in 1995?" Victoria asked, pausing in the doorway. 
-
-I looked at Cassandra. "When we flew out to help Cassandra move into Northwest Pacific University, Dad took us to the National Park unit in downtown Seattle. It was a museum dedicated to the 1897 stampeders. They had the original shipping manifests on display under glass, documenting the names of every prospector who bought the required two thousand pounds of supplies in Seattle before heading north to the Chilkoot Pass."
-
-"I remember," Cassandra said softly, her voice dropping as the memory resurfaced. 
-
-"Casey found a statistical anomaly on one of the ledgers," I continued, looking directly at Victoria. "The name written in the faded ink was *Elias Vance*."
-
-Victoria’s posture stiffened slightly, a look of profound, quiet reverence crossing her features. 
-
-"Dad laughed it off," Casey jumped in, the excitement bleeding into her voice. "He said Vance was a common surname, and that nobody in our East Coast family tree would have been crazy enough to hike a ton of beans up an ice mountain in Alaska."
-
-"And then you made a joke," I said, pointing at Cassandra. "You literally said, *'Maybe he actually struck gold and built some massive, isolated mountain fortress with his fortune.'* And Mom joked that he forgot to leave us the inheritance."
-
-A stunned, heavy silence fell over the hallway. My mom and dad stood frozen near the elevator, staring at Cassandra as the absolute, staggering gravity of a ten-year-old joke materialized in real life. 
-
-Victoria let out a soft, echoing laugh. It was a beautiful, deeply genuine sound. 
-
-"Elias Vance was my great-grandfather," Victoria confirmed, looking up at the heavy iron sign above the doorway. "He bought his supplies in Seattle in 1897, just like the ledger said. But he didn't survive the winter. He died of exposure on the Chilkoot Pass."
-
-Victoria turned back to look at our family. "His son, Laurent Vance, took his father's remaining supplies, crossed the border, struck the vein, and brought the gold south. He built this isolated mountain fortress in 1903."
-
-"My God," my dad whispered, looking around the hallway as if seeing the timber framing for the first time. "We were looking at our own ancestor's signature behind the glass."
-
-"And now, ten years later," Victoria smiled, gesturing for us to follow her down the hall, "you are walking the halls of his inheritance. Welcome to the Chilkoot Wing."
-
-### Part 6: The Summit Suite
-
-**Date:** 2005-04-08 at 09:40 PT
-
-Victoria led our small group down the quiet, heavily carpeted corridor of the Chilkoot Wing. Unlike the massive, echoing spaces of the Great Hall or the Grand Ballroom below, this floor felt intimate, insulated, and impossibly quiet. 
-
-"These are the Grand Suites," Victoria explained, gesturing to the heavy oak doors spaced widely apart along the hallway. "This is the absolute highest tier of luxury on the mountain. Under normal operating conditions, these rooms are booked years in advance by tech CEOs, foreign dignitaries, and legacy wealth."
-
-At the absolute end of the hallway, Victoria stopped in front of a set of double mahogany doors adorned with heavy brass fixtures. She pulled a brass key from her cardigan pocket, inserted it into the lock, and pushed the doors open. 
-
-"The Summit Suite," the Matriarch announced. "The crown jewel of The Prospector's Keep."
-
-We stepped inside, and Liz immediately covered her mouth with both hands. 
-
-The suite occupied the extreme corner of the fourth floor, pushing out past the main structural footprint of the lodge. Because of its position, two entire walls were constructed of massive, floor-to-ceiling reinforced glass, offering a staggering 270-degree panoramic view of the jagged North Cascades. It felt less like a hotel room and more like an observation deck suspended in the sky. 
-
-The interior was furnished with an unapologetic, rustic elegance. A massive king-sized bed sat in the center of the room facing the mountains. In the corner, a private river-stone hearth was waiting to be lit, and through the open bathroom doors, I could see a deep, clawfoot soaking tub resting on heated stone floors. 
-
-"David, Liz," Victoria said, her voice soft but commanding as we stood frozen in the center of the room. "This is where the two of you will stay during the July wedding."
-
-Liz turned to me, her eyes shining with unshed tears. She wrapped her arms around my neck, pulling me into a fierce, breathless hug. I held her tight, looking over her shoulder at the absolute majesty of the snow-capped peaks surrounding us. The contrast was almost too much to process—just two weeks ago, I was sleeping on a tiny, cramped pull-out sofa in Federal Way, vomiting into a bucket from food poisoning. Now, I was standing in the most luxurious suite in the Pacific Northwest, securing the perimeter for the woman I was going to marry.
-
-"It's perfect," Liz whispered into my chest. "It's absolutely perfect."
-
-Suddenly, the heavy sound of footsteps echoed from the hallway. 
-
-"Holy crap!" Morgan Delaney’s voice boomed from the doorway. 
-
-The rest of the Vanguard had finished escorting the Delaneys up the grand staircase. Within seconds, the massive, twenty-person East Coast pack flooded into the Summit Suite. Morgan immediately started checking the structural integrity of the bed frame, Erin and Kate ran straight to the massive glass windows to look at the sheer drop into the gorge, and Meredith began aggressively inspecting the heated stone floors in the bathroom. 
-
-The quiet, insulated luxury of the suite was instantly shattered by the sheer acoustic chaos of our chosen family. 
-
-Victoria stood near the door, watching the Delaneys swarm her most expensive room with a look of deep, profound amusement. 
-
-She leaned over to Cassandra, pitching her voice just loud enough to be heard over the noise. "We should probably head down to the residential wing and show them their actual rooms for the weekend... before your pack breaks my antique furniture."
-
-### Part 7: The Residential Wing
-
-**Date:** 2005-04-08 at 10:30 PT
-
-After the staggering revelation in the Chilkoot Wing, Victoria led our massive East Coast pack back down the glass elevator and the grand staircase, leaving the quiet luxury of the fourth floor behind. 
-
-We returned to the first floor, moving past the massive stone hearth of the Great Hall, and pushed through a set of heavy, reinforced acoustic doors. 
-
-The temperature immediately jumped ten degrees. The cavernous, echoing chill of the empty commercial hotel vanished, replaced by the dense, insulated warmth of the Keep's private residential wing. 
-
-"The Vanguard occupies the second floor of this wing," Victoria explained as we walked down the wide, wood-paneled corridor. "But the first floor contains fourteen extended-stay guest suites. Because they share our internal heating loop and telecom grid, these rooms are fully powered year-round. This is where you will be staying for the remainder of the birthday weekend."
-
-The rooms were significantly smaller than the Summit Suite, but they were incredibly well-appointed and rugged. Each suite featured heavy timber furniture, thick wool blankets, and private bathrooms. Because there were nearly twenty of us, the Delaneys immediately began claiming rooms, setting up a perimeter of their own down the left side of the hallway, while my parents, Liz's parents, and Cassandra took the suites on the right. 
-
-Liz and I dropped our duffel bags on the heavy oak bed in our assigned room. I sat down on the edge of the mattress, running a hand through my hair. 
-
-"Elias Vance," Liz said softly, sitting down next to me. She leaned her head on my shoulder. "You're getting married in a fortress built by your own bloodline."
-
-"I know," I breathed, wrapping my arm around her. The sheer statistical impossibility of it was still overriding my processors. 
-
-Before we could fully unpack, a sharp, authoritative knock echoed down the hallway. 
-
-We stepped out of our room just as a younger teenage girl—one of Victoria's cousins—jogged down the corridor. She was wearing heavy steel-toed boots, Carhartt work pants, and a thick canvas prep apron that was already dusted with flour and smeared with tomato paste. 
-
-"Executive Chef Diana has initiated meal service," the teenager announced to the hallway, her voice projecting with absolute, practiced clarity. "The dining room is open. Please proceed to the West Wing immediately."
-
-Our massive pack, perpetually hungry after the travel and the altitude, didn't need to be told twice. We flooded out of the residential corridor and headed across the Great Hall toward the dining room. 
-
-As we approached the dining area, the heavy, stainless-steel double doors to the commercial kitchen swung open as a teenager bolted out with a stack of fresh plates. 
-
-I stopped in my tracks, catching a fleeting glimpse of the operation inside before the doors swung shut. 
-
-It was staggering. I had expected a family cooking in a hotel kitchen. Instead, I saw a highly disciplined, militarized French culinary brigade manned entirely by teenage girls. 
-
-Because the resort wasn't officially open and they had no seasonal staff, the seventeen cousins of the Vanguard were running the heavy industrial equipment themselves. Through the swinging doors, I saw two younger girls rapidly breaking down fifty-pound sacks of potatoes with terrifyingly precise knife skills. Emma, the teenager who had locked the blast doors, was hauling massive, commercial-sized cans of crushed tomatoes from dry storage. Morgan, the towering lead engineer, and another older cousin were standing over the blistering-hot gas ranges, wielding massive spatulas to manage industrial tilt-skillets filled with forty pounds of ground beef. 
-
-And standing at the absolute center of the chaos, wearing a pristine white double-breasted chef's coat, was Diana. She didn't yell. She just pointed, her word translating into absolute law as her brigade batch-produced caloric fuel for an army of thirty-seven people using massive sixty-quart planetary stand mixers. 
-
-"Come on, David!" Morgan Delaney yelled from the dining room, grabbing my shoulder and pulling me away from the kitchen doors. "I smell fresh bread, and I am going to eat my body weight in carbohydrates."
-
-I laughed, letting him drag me into the dining room. The Vanguard wasn't just a family; they were a self-sustaining tactical unit. And I was incredibly lucky to be related to them.
-
-### Part 8: The Birthday Lunch
-
-**Date:** 2005-04-08 at 11:00 PT
-
-Morgan Delaney dragged me through the heavy oak doors and into a massive, private dining room that overlooked the jagged, snow-capped peaks of the North Cascades. A heavy, dark-wood table was already set with pristine white linen, heavy silver flatware, and thick crystal water goblets. 
-
-Because we were an army of thirty-seven people—combining our massive East Coast pack with Victoria's Vanguard—the table had been extended to its absolute maximum structural length. 
-
-We had barely taken our seats when Diana walked into the room. 
-
-The Executive Chef of The Prospector's Keep wore a pristine white double-breasted chef's coat. She possessed the exact same commanding, sovereign presence as Victoria, but channeled entirely into culinary precision. She was followed closely by Emma and Maya, who were carrying towering stacks of heavy, leather-bound menus. 
-
-"I am Diana," she introduced herself, her voice carrying easily over the low hum of conversation as the menus were distributed. "Since your Quantum logistics team managed to secure this booking six weeks ahead of our official Memorial Day public opening, the property is currently one hundred percent dry. We do not stock a single drop of alcohol on the summit until the summer season begins. However, I have designed a highly specialized craft beverage menu for the occasion."
-
-She walked the length of the table, stopping directly behind my chair. She set a final menu down in front of me, offering a warm, surprisingly gentle smile. 
-
-"Today's lunch is compliments of the house, and compliments of the chef," Diana announced, her eyes sweeping over me, and then looking down the table toward Johnny and Amanda. "It is not every day we get to host a massive, three-way twentieth birthday party. Order whatever your systems require. We will handle the rest."
-
-As Diana retreated back to the blistering heat of her kitchen brigade, the reality of the seating arrangement settled in. 
-
-I was sandwiched comfortably between Liz and Casey, my pack completely intact and regulating my baseline. Directly across the table from me, Johnny was locked into his manual wheelchair, flanked securely by his twin sister, Amanda. We had just turned twenty, surrounded by our respective bloodlines. 
-
-"So," Johnny's text-to-speech engine cut through the ambient noise, "I hear you people fought your way out of a hostage situation in Virginia Beach last year."
-
-Morgan Delaney paused mid-drink, slowly lowering his water goblet. He looked across the table at Morgan Foster, Victoria's towering lead engineer, and then at Johnny. The Delaneys instantly recognized a fellow tactical unit when they saw one. 
-
-"We didn't just fight our way out," Meredith Delaney corrected smoothly, adjusting her napkin. "We dismantled the hostile architecture. There's a distinct difference."
-
-"I like these people," Emma said from the end of the table, leaning back in her chair with a grin. 
-
-At the absolute head of the table, sitting directly across from each other, were the two apex predators of the bloodline. 
-
-Victoria Vance steepled her fingers, her sharp eyes studying Cassandra. Cass was sitting in her travel chair, her posture relaxed but radiating the undeniable weight of a Building 33 executive. 
-
-"Your perimeter protocols are aggressive, Cassandra," Victoria noted, cutting a piece of fresh, house-made sourdough bread. "But effective."
-
-"We operate in different environments, Victoria," Cassandra replied smoothly. "You protect your pack with blast doors and isolation. I protect mine with corporate leverage and deep-pockets litigation. Both methods yield the same result: total security."
-
-Victoria’s smirk returned. She raised her crystal water goblet in a silent toast. "To the Vance bloodline. Divided by geography, but united by paranoia."
-
-Cassandra clinked her glass against Victoria’s. "I prefer the term *situational awareness*."
-
-The table erupted into laughter, and for the first time since Kristine had ambushed me on the East Coast, the crushing weight of hyper-vigilance finally lifted off my chest. I looked at Liz, who was beaming beside me. 
-
-We were sitting in a fortress, surrounded by an army, eating a flawless birthday lunch prepared by an elite culinary brigade. The perimeter was perfectly, unequivocally secure.
-
-### Part 9: The Extractions
-
-**Date:** 2005-04-08 at 11:30 PT
-
-As Diana’s brigade brought out massive, family-style platters of roasted chicken and heavy, cast-iron skillets of root vegetables, the conversation naturally drifted toward the origins of our respective protective postures. 
-
-The Vanguard was an impenetrable, heavily armed mountain fortress. The Delaneys were a highly mobile, corporate-backed tactical unit. Neither of us had gotten this way by accident. 
-
-"We weren't always locked behind blast doors," Johnny’s text-to-speech engine announced, cutting through the clatter of silverware. "Victoria built the perimeter after Friday Harbor."
-
-I looked up from my plate, my eyes darting between Johnny and his older cousin. 
-
-Victoria set her fork down, her expression hardening into absolute, glacial sovereignty. "Two years ago, a fraudster named Vanessa presented me with a highly detailed, completely forged prospectus for an Independent Living Facility in Anacortes. She claimed Johnny had been selected for a beta-testing job program and insisted on a strict ninety-day no-contact period for him to adjust to his new independence."
-
-The entire East Coast side of the table went dead silent. Morgan Delaney’s jaw tightened, and my dad’s grip on his water glass became white-knuckled. 
-
-"It was a trap," Victoria continued, her voice cold and even. "She didn't take him to a facility. She dragged him across the Salish Sea to a subsidized public housing apartment in Friday Harbor. She tried to sever his communication lines and lock him away behind a maritime wall to secure a permanent, state-funded caregiver payout."
-
-"Johnny managed to bypass her telecom restrictions using the Keep's legacy 1-800 reservation line," Morgan Foster, Victoria’s towering lead engineer, chimed in. "He escaped on a morning ferry. We met him at the terminal in Anacortes with the Vanguard."
-
-"And if he had stayed on that island any longer, he would have died," Amanda added, her voice trembling slightly at the memory. "Johnny’s lungs are permanently acclimated to the seven-thousand-foot elevation of this mountain. The dense, wet barometric pressure at sea level in Friday Harbor was literally crushing his chest. The moment we pulled him off the ferry, we had to hook him up to a breathing machine and throw him into a specialized transport van with an airlock just to simulate the thinner air of the summit."
-
-"And the caregiver?" Cassandra asked, her voice dropping to a dangerously low, corporate register. 
-
-"I ensured she never posed a threat to my bloodline again," Victoria stated simply. The implication of the Vanguard's unyielding retaliation hung heavy in the air. "I brought Johnny up the mountain, and I locked the blast doors. Nobody touches my pack."
-
-"You secured the asset, and you eliminated the threat," Morgan Delaney said, nodding slowly in absolute, unquestioning approval. "That is the only math that matters."
-
-I looked across the table at Cassandra, feeling a massive wave of solidarity wash over me. "We run the exact same protocol."
-
-Victoria’s sharp eyes shifted to me. "The hostage situation you mentioned earlier?"
-
-"Thanksgiving 2004," Casey spoke up from my right, her archival memory perfectly accessing the file. "David’s former girlfriend, Kristine, initiated a hostile territorial display in her apartment in Portsmouth. She intentionally compromised the environment to assert dominance over his network."
-
-"The Kitchen Ambush," Liz murmured, shaking her head in disgust. 
-
-I looked at Victoria. "She started cooking naked in the kitchen while my sisters and I were sitting right there on the living room sofa. It was a massive, deliberate compliance violation designed to force my sisters out of the apartment."
-
-Morgan Foster, Victoria’s towering lead engineer, let out a low, dangerous whistle. "That is a severe perimeter breach."
-
-"It was," Cassandra agreed, adjusting her glasses. "So, I initiated a hard sever. I ordered David to pack his bags and physically extracted him from the apartment. We didn't even call a taxi; I called Meredith and Morgan Delaney, and they immediately scrambled a minivan to the curb to exfiltrate us."
-
-"Kristine tried to stop me from leaving," I explained, remembering the absolute terror and relief of that moment. "But Cassandra wheeled her manual chair directly into Kristine's path, cutting off her physical access to me. She told Kristine I was getting on a plane to Seattle with them on Sunday, and then we walked out."
-
-Victoria leaned back in her chair, staring at Cassandra with profound, unshakeable respect. The two women were identical—two apex predators who would burn the world down to protect their vulnerable pack members. 
-
-Victoria slowly raised her heavy crystal water goblet. "To the extraction teams."
-
-Cassandra raised her glass, meeting Victoria's eyes with perfect understanding. "To the extraction teams."
-
-As the glasses clinked around the table, the final, lingering walls between our two families completely dissolved. We weren't just two branches of an estranged bloodline meeting for the first time. We were identical tactical units, bound by the exact same instinct for survival. 
-
-We were home.
-
-### Part 10: The Great Hall Cinema
-
-**Date:** 2005-04-08 at 19:00 PT
-
-The heavy, tactical conversations of the birthday lunch eventually gave way to the deep, comfortable exhaustion of a massive, shared meal. 
-
-As the afternoon light faded behind the jagged peaks of the North Cascades, plunging the mountain into an icy, impenetrable darkness, the temperature outside plummeted. Inside, however, the Keep was a fortress of warmth. 
-
-After dinner, we didn't retreat to our separate rooms in the residential wing. Instead, the entire, thirty-seven-person army of the newly united bloodlines migrated into the cavernous Great Hall. 
-
-Morgan Foster and the older Vanguard engineers had spent the late afternoon hauling massive cords of split Douglas Fir from the lower storage bays, building a roaring, ten-foot fire in the massive, river-stone hearth that anchored the lobby. 
-
-While the adults claimed the heavy leather armchairs and plush sofas scattered around the fire, the younger generation—myself, Liz, Casey, Johnny, Amanda, and the massive swarm of Delaney cousins—sprawled out across the thick, woven rugs spanning the center of the room. 
-
-The only people missing were Diana’s culinary brigade. 
-
-"They'll be out in a minute," Johnny’s text-to-speech engine promised from his manual chair, which had been parked perfectly adjacent to the hearth. "Diana runs a strict, commercial-grade breakdown. Nobody leaves the kitchen until the stainless steel is sanitized and the lowboys are perfectly stocked for tomorrow's breakfast service."
-
-True to his word, twenty minutes later, the heavy acoustic doors to the West Wing swung open. 
-
-Emma, Maya, Clara, and the rest of the teenage cousins filed into the Great Hall, looking physically exhausted but deeply satisfied. They had stripped off their heavy, flour-dusted canvas aprons, revealing an array of oversized sweaters and comfortable sweatpants. Diana brought up the rear, having finally traded her pristine white double-breasted chef's coat for a thick, dark wool cardigan. 
-
-"Kitchen is secured," Diana announced to Victoria, taking a seat on one of the heavy leather sofas next to my parents. 
-
-"Excellent work," Victoria praised gently, her sovereign authority softening into maternal warmth. 
-
-With the entire pack finally accounted for, Morgan Foster walked over to a heavy timber cabinet built into the wall near the front desk. She pulled open the doors, revealing a massive, retractable projector screen that descended from the heavy timber framing above the hearth. 
-
-"Alright, East Coast," Morgan Delaney called out from his spot on the rug, leaning back against one of the leather sofas. "What are we watching?"
-
-The ensuing debate was loud, chaotic, and completely wonderful. For ten minutes, the Great Hall echoed with the sound of thirty-seven fiercely opinionated people arguing over the logistics of a movie selection. The Vanguard preferred high-stakes action or survival documentaries, while the Delaneys aggressively campaigned for classic comedies. 
-
-Eventually, Cassandra—operating from her travel chair with the calm, unshakeable authority of a CEO—brokered a perfect compromise, selecting a fast-paced heist movie that satisfied the Vanguard's need for tactical execution and the Delaneys' need for rapid-fire dialogue. 
-
-As the opening credits began to roll, projecting massive and bright against the canvas screen above the roaring fire, the Great Hall descended into a comfortable, unified silence. 
-
-I sat on the thick woven rug, my back resting against the base of a leather armchair. Liz was tucked securely against my side, sharing a heavy wool blanket with Casey. Across the fire, Johnny and Amanda were sharing a massive bowl of popcorn with Emma and Maya. Behind them, Victoria and Cassandra sat near each other, two apex predators finally at rest, watching their respective packs integrate flawlessly into a single, massive family. 
-
-The wind howled against the reinforced glass of the lobby, an aggressive reminder of the freezing, unforgiving wilderness outside. 
-
-But inside the fortress, surrounded by the overwhelming warmth of the fire and the absolute security of the bloodline, we had never been safer.
+I wouldn't have traded it for anything.
 
