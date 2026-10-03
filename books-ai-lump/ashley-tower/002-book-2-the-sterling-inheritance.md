@@ -7,7 +7,7 @@ series: "Ashley Tower"
 
 ## Chapter 1: The Longest Mile – Saturday, February 20, 2021
 
-### Part 1: Part 1: Arrival at EBF – 10:45 AM
+### Part 1: Arrival at EBF – 10:45 AM
 
 **Date:** 2021-02-20 at 10:45
 
@@ -41,7 +41,7 @@ As the train doors hissed open, Ashley reached out, squeezing Donaldâ€™s ha
 
 For now, that was enough. They were safe, they were together, and they were finally home.
 
-### Part 2: Part 2: The Red Line – 11:20 AM
+### Part 2: The Red Line – 11:20 AM
 
 **Date:** 2021-02-20 at 11:20
 
@@ -87,7 +87,7 @@ A few blocks later, the automated voice of the bus announced the next stop: *Ste
 
 "This is us," Ashley said, stepping toward the center doors. She looked toward the front of the cabin, her voice projecting clearly over the rumble of the engine. "Wheelchair getting off!"
 
-### Part 3: Part 3: The Monolith – 12:15 PM
+### Part 3: The Monolith – 12:15 PM
 
 **Date:** 2021-02-20 at 12:15
 
@@ -125,7 +125,7 @@ Ashley looked down at the boy in the wheelchair, her eyes shining with fierce, p
 
 "This is Sterling Plaza," Ashley said, her voice steady and echoing with absolute authority. She squeezed his shoulder. "Welcome home, Donald."
 
-### Part 4: Part 4: The Ascent – 12:25 PM
+### Part 4: The Ascent – 12:25 PM
 
 **Date:** 2021-02-20 at 12:25
 
@@ -173,7 +173,7 @@ Ashley laughed softly, the sound bright and echoing in the armored car as the ma
 
 "Not today," Ashley smiled, leaning back against the steel wall. "There isn't a single cloud in the sky. We're just going to see the whole world."
 
-### Part 5: Part 5: The Hearth – 12:28 PM
+### Part 5: The Hearth – 12:28 PM
 
 **Date:** 2021-02-20 at 12:28
 
@@ -217,7 +217,7 @@ Amanda took a single, slow step forward, keeping her voice incredibly gentle.
 
 "Welcome home, Donald," Amanda smiled. "And welcome home, Mary."
 
-### Part 6: Part 6: The Architect of the Transition – 1:15 PM
+### Part 6: The Architect of the Transition – 1:15 PM
 
 **Date:** 2021-02-20 at 13:15
 
@@ -289,7 +289,7 @@ Across the kitchen, Diana tapped her mPad, casting her voice through the room. *
 
 Ashley squeezed his hand, her eyes shining with quiet, absolute certainty. "Your mind isn't a blank slate, Donald. It's an open door. You have the entire world at your fingertips now. Take all the time you need to explore it."
 
-### Part 7: Part 7: The Legal Strike – 1:30 PM
+### Part 7: The Legal Strike – 1:30 PM
 
 **Date:** 2021-02-20 at 13:30
 
@@ -325,7 +325,7 @@ Amanda gathered the original documents, sliding them safely into her leather fol
 
 "The firewall is up, Donald," Amanda smiled, a fierce, uncompromising protector standing in the heart of her fortress. "The Texas chapter is officially closed."
 
-### Part 8: Part 8: The Inheritance – 6:00 PM
+### Part 8: The Inheritance – 6:00 PM
 
 **Date:** 2021-02-20 at 18:00
 
@@ -389,7 +389,7 @@ Mary smiled, her grip on his shoulder tightening reassuringly. She looked down a
 
 Ashley beamed, grabbing her master security fob off the counter. "Then let's go. Welcome to the Board of Directors."
 
-### Part 9: Part 9: The Legacy Boardroom – 6:30 PM
+### Part 9: The Legacy Boardroom – 6:30 PM
 
 **Date:** 2021-02-20 at 18:30
 
@@ -457,7 +457,7 @@ She led them straight out of the Legacy Boardroom, guiding them back through the
 
 She bypassed the polished upper floors entirely and pressed the button marked *B4*.
 
-### Part 10: Part 10: The Lungs and Guts – 6:55 PM
+### Part 10: The Lungs and Guts – 6:55 PM
 
 **Date:** 2021-02-20 at 18:55
 
@@ -491,7 +491,7 @@ Donald stared at the sprawling network of high-voltage electrical facilities and
 
 He rolled forward, entirely captivated by the sheer, brutalist scale of the engineering. Mary stayed perfectly at his side, her earlier anxiety fading into a soft, relieved smile as she watched Donald finally engage with the world on his own terms.
 
-### Part 11: Part 11: The Town Square – 7:15 PM
+### Part 11: The Town Square – 7:15 PM
 
 **Date:** 2021-02-20 at 19:15
 
@@ -543,7 +543,7 @@ The aisles were wide and perfectly illuminated with soft, warm lightingâ€”a
 
 ## Chapter 2: The Sunday Morning Choice – Sunday, February 21, 2021
 
-### Part 1: Part 1: The Water Walls – 7:00 AM
+### Part 1: The Water Walls – 7:00 AM
 
 **Date:** 2021-02-22 at 08:15
 

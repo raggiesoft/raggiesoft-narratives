@@ -7,7 +7,7 @@ series: "Ashley Tower"
 
 ## Chapter 1: The Gathering Storm – Tuesday, February 9, 2021
 
-### Part 1: Part 1: Best Laid Plans – 7:30 PM
+### Part 1: Best Laid Plans – 7:30 PM
 
 **Date:** 2021-02-09 at 19:30
 
@@ -43,7 +43,7 @@ Donald nodded emphatically. The thought of finally seeing his sister again after
 
 Everything was falling perfectly into place. He just had to make it through one more week.
 
-### Part 2: Part 2: The Anchor and the Watch – 8:15 PM
+### Part 2: The Anchor and the Watch – 8:15 PM
 
 **Date:** 2021-02-09 at 20:15
 
@@ -83,7 +83,7 @@ He hated airports. He knew the commercial terminal at DFW would be a massive, ov
 
 But as Mary threw her arm over his shoulders, pulling him into a warm, grounding side-hug, Donald realized he didn't care. He would endure the sensory overload of a commercial flight ten times over if it meant finally boarding a plane to Meridian City. The noise of the airport was temporary. The freedom waiting on the other side of it was permanent.
 
-### Part 3: Part 3: The Ten O'Clock News – 10:00 PM
+### Part 3: The Ten O'Clock News – 10:00 PM
 
 **Date:** 2021-02-09 at 22:00
 
@@ -115,7 +115,7 @@ Mary reached over, resting her hand firmly over his wrist to apply that familiar
 
 ## Chapter 2: The Routine – Wednesday, February 10, 2021
 
-### Part 1: Part 1: The Departure – 7:00 AM
+### Part 1: The Departure – 7:00 AM
 
 **Date:** 2021-02-10 at 07:00
 
@@ -179,7 +179,7 @@ Ashley had made a promise, laid out in clear, unmistakable text: the absolute se
 
 Mary looked back at the TV, watching the blue and purple temperature gradients sweep down the Texas map. Let the rough weather come, she thought. It didn't matter. In six days, Donald was legally free, and she was taking him out of this house forever.
 
-### Part 3: Part 2: The Right Call – 3:45 PM
+### Part 3: The Right Call – 3:45 PM
 
 **Date:** 2021-02-10 at 15:45
 
@@ -257,7 +257,7 @@ Donald nodded emphatically, watching the math resolve perfectly on the page. He 
 
 Donald let out a soft, breathy laugh, leaning his shoulder against hers. Outside the window, the Texas sky was beginning to turn a harsh, bruised gray as the cold front advanced, but inside the bedroom, the math was flawless, the perimeter was secure, and he wasn't facing any of it alone.
 
-### Part 4: Part 3: The Inventory – 6:30 PM
+### Part 4: The Inventory – 6:30 PM
 
 **Date:** 2021-02-10 at 18:30
 
@@ -309,7 +309,7 @@ Mary let out a watery, relieved laugh, wrapping her arms around his neck and hol
 
 ## Chapter 3: The Ice – Thursday, February 11, 2021
 
-### Part 1: Part 1: The Video Link – 7:00 AM
+### Part 1: The Video Link – 7:00 AM
 
 **Date:** 2021-02-11 at 07:00
 
@@ -469,7 +469,7 @@ Ashley stared at Johnny, then looked back at the brutal purple gradient glowing 
 
 ## Chapter 5: The Deep Freeze – Saturday, February 13, 2021
 
-### Part 1: Part 1: The Agony of Proximity – 8:30 AM
+### Part 1: The Agony of Proximity – 8:30 AM
 
 **Date:** 2021-02-13 at 08:30
 
@@ -507,7 +507,7 @@ The house was cold, the ice outside was thickening, and the wait was excruciatin
 
 ## Chapter 6: The Gridline – Sunday, February 14, 2021
 
-### Part 1: Part 1: Gentlemen Only – 6:45 PM
+### Part 1: Gentlemen Only – 6:45 PM
 
 **Date:** 2021-02-14 at 18:45
 
@@ -547,7 +547,7 @@ She carefully hauled Donald backward up the first few steps, completely tuning o
 
 ## Chapter 7: The Severance – Monday, February 15, 2021
 
-### Part 1: Part 1: Going Dark – 1:20 AM
+### Part 1: Going Dark – 1:20 AM
 
 **Date:** 2021-02-15 at 01:20
 
@@ -699,7 +699,7 @@ Ashley closed her eyes, her hands balling into fists on the tabletop.
 
 "Wednesday afternoon at the earliest, Thursday at the latest," Morgan confirmed gently, closing the laptop screen. "The mountain doesn't negotiate, Ashley. And neither does the ice. We have to wait it out."
 
-### Part 5: Part 2: The Deep Freeze – 10:30 AM
+### Part 5: The Deep Freeze – 10:30 AM
 
 **Date:** 2021-02-15 at 10:30
 
@@ -735,7 +735,7 @@ Yet, listening to the muffled, entitled rage echoing from the first floor, Mary 
 
 Let them yell, Mary thought, pulling the heavy quilt tighter around Donald's shoulders. Let them pace around the freezing living room and complain about the inconvenience. She wasn't leaving this bed, and she wasn't letting Donald go.
 
-### Part 6: Part 3: The Long Night – 5:15 PM
+### Part 6: The Long Night – 5:15 PM
 
 **Date:** 2021-02-15 at 17:15
 
@@ -773,7 +773,7 @@ Mary squeezed her eyes shut as the reality of the sunset fully set in. The tempe
 
 ## Chapter 8: Midnight – Tuesday, February 16, 2021
 
-### Part 1: Part 1: The Birthday – 3:15 AM
+### Part 1: The Birthday – 3:15 AM
 
 **Date:** 2021-02-16 at 03:15
 
@@ -853,7 +853,7 @@ Mary tightened her arms around his back, pulling him just a fraction closer. The
 
 She didn't need to say the words out loud right now. The survival of the night was the only thing that mattered. But as the freezing hours of their joint birthday slowly ticked by, Mary pressed a gentle, lingering kiss to his shoulder. She would keep him warm. She would keep him alive. And the absolute second that ice outside began to melt, she was going to help walk him out of this house and into the rest of their lives.
 
-### Part 2: Part 2: The Barrier – 4:45 AM
+### Part 2: The Barrier – 4:45 AM
 
 **Date:** 2021-02-16 at 04:45
 
@@ -899,7 +899,7 @@ Mary buried her face into the crook of his bare neck, her own body shivering vio
 
 It had worked. They were going to make it to sunrise, and she would hold him exactly like this until the ice broke.
 
-### Part 3: Part 3: Morning Light – 7:15 AM
+### Part 3: Morning Light – 7:15 AM
 
 **Date:** 2021-02-16 at 07:15
 
@@ -973,7 +973,7 @@ She pulled the bottles under the covers, her heart sinking. The water inside had
 
 Mary let out a jagged sigh, but she didn't panic. She tucked the frozen bottles directly between them, pressing them securely against their layered clothing. "It's okay. We'll just let our body heat thaw them out. We just have to be patient."
 
-### Part 4: Part 4: The Siege – Tuesday Afternoon
+### Part 4: The Siege – Tuesday Afternoon
 
 **Date:** 2021-02-16
 
@@ -1059,7 +1059,7 @@ Morgan looked directly at Ashley. "Thursday morning. The second the sun comes up
 
 Ashley opened her eyes, staring at the dead phone on the table. They just had to survive one more night.
 
-### Part 6: Part 5: The Shattered Script – 9:45 PM
+### Part 6: The Shattered Script – 9:45 PM
 
 **Date:** 2021-02-16 at 21:45
 
@@ -1149,7 +1149,7 @@ Connor nodded fiercely, the relief evident in his face. "We don't just check on 
 
 ## Chapter 9: The Breach – Thursday, February 18, 2021
 
-### Part 1: Part 1: The Arrival – 8:15 AM
+### Part 1: The Arrival – 8:15 AM
 
 **Date:** 2021-02-18 at 08:15
 
@@ -1189,7 +1189,7 @@ Under the blankets, Mary tightened her grip on Donald one last time. The siege w
 
 "Okay," Mary whispered, her hands shaking as she finally pushed the heavy, suffocating layers of the quilt off their shoulders, letting the freezing air of the room hit them. "Let's go home."
 
-### Part 2: Part 2: The Extraction – 8:18 AM
+### Part 2: The Extraction – 8:18 AM
 
 **Date:** 2021-02-18 at 08:18
 
@@ -1253,7 +1253,7 @@ In the driver's seat, Emma shifted the massive transmission into drive. "Roads a
 
 The massive diesel engine roared, the heavy chains biting violently into the surface ice, and the Vanguard transport pulled away from the McMansion forever.
 
-### Part 3: Part 3: Sanctuary – 9:30 AM
+### Part 3: Sanctuary – 9:30 AM
 
 **Date:** 2021-02-18 at 09:30
 
