@@ -799,7 +799,7 @@ But as she looked at the brushed-steel doors, she swallowed her frustration. Jac
 
 ## The Asylum
 
-### Part 1: The Scavenger\'s Tale
+### Part 1: The Scavenger's Tale
 
 The mahogany-paneled library of the mountain estate had been temporarily converted into a formal debriefing room.
 

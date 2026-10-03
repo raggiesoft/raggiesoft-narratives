@@ -301,7 +301,7 @@ At the mention of his sister, Delores’s friendly, professional demeanor subtly
 
 The conversation slowly turned away from the university and became focused entirely on him. She started asking about his interests, his friends, what he liked to do for fun. She seemed genuinely interested, hanging on his every word, her eyes locked on his. The shift was so gradual that Jack didn’t notice he was being led away from the central campus area, away from the crowds, until they were walking down a quieter path lined with residential buildings. The conversation, which had started as a simple tour, was now something else entirely. It was becoming more personal, more intimate, and Jack, still feeling off-kilter from the dark hallway, found himself being pulled along by the sheer force of her focused attention.
 
-### Part 5: Lunch in the Lion\'s Den
+### Part 5: Lunch in the Lion's Den
 
 Feeling disoriented from the sudden shift from darkness to bright sunlight, Jack was about to suggest they head back to the Sinclair Center when Delores put a light hand on his arm.
 
@@ -383,7 +383,7 @@ He didn't wait for her reply. He walked out of the dorm, leaving her alone in th
 
 ## Red Flags and Safe Harbors
 
-### Part 1: A Cousin\'s Rescue
+### Part 1: A Cousin's Rescue
 
 Jack stepped out of the quiet apartment building and into the bright, late afternoon air of the VDU campus, taking a deep, cleansing breath. The text to his cousin Clare had been sent just moments before, and he looked around, hoping her car would be the next one he saw. The relief of being out of that room was immense, but it was followed by a wave of confusion and embarrassment.
 

@@ -717,7 +717,7 @@ CHLOÉ... WHAT IS THIS? he typed, his fingers trembling.
 
 Alex stared at the screen, at the tangible, undeniable proof of her plan, of her unwavering commitment to him. It was a lifeline, a rescue mission, a future he hadn't dared to hope for, delivered through a video screen. The fear that had been paralyzing him, the fear of being alone, was instantly obliterated by the fierce, powerful truth of her love. He wasn't going to be alone. Chloé was coming home.
 
-### Part 6: Vera\'s \
+### Part 6: Vera's \
 
 The video call with Chloé left Alex with a profound, secret hope. For the first time in months, he had a concrete, tangible end date for his misery: Christmas break. The knowledge that Chloé was coming home for good was a small, bright flame he carefully guarded in the cold landscape of his life with Vera.
 
@@ -2303,7 +2303,7 @@ A delighted cheer came over the line. "*Formidable!*" Uncle David's booming voic
 
 The plan was set. Their entire, united, cross-border family would be there to witness the quiet, powerful union, with Alex's Best Woman standing proudly by his side.
 
-### Part 2: The Doctor\'s Verdict
+### Part 2: The Doctor's Verdict
 
 A few days after their return to Virginia, the entire, seven-person family unit sat in the quiet, tense waiting room of Dr. Adams, Alex's primary care physician since he was a boy. The appointment was a non-negotiable necessity. They needed a full, professional assessment of the damage Vera had done.
 

@@ -381,7 +381,7 @@ The triple-barreled, silent rejection was completely unexpected. Caleb took an i
 
 Flustered, Caleb just muttered, "Whatever," and scurried away into the crowd. Emily and Bob shared a look of perfect, annoyed solidarity and continued on their way to lunch.
 
-### Part 8: The Teacher\'s Apology
+### Part 8: The Teacher's Apology
 
 The atmosphere in Language Arts on Thursday was tense. The students who had witnessed the incident with the substitute two days prior were quiet, watching Bob with supportive but worried eyes. Their regular teacher, Mr. Harrison, a calm and respected presence, was back at his desk.
 
@@ -409,7 +409,7 @@ He then turned to the rest of the students. "And for those of you who spoke up o
 
 A wave of relief washed over Bob. He felt seen and validated. He exchanged a grateful glance with Kevin and the other boys who had defended him. The tension in the room broke, replaced by the quiet, supportive hum of their normal classroom.
 
-### Part 9: The Principal\'s Wrath
+### Part 9: The Principal's Wrath
 
 Dr. Rachel Ragsdale was in her office reviewing budget proposals when the email from Alan Harrison arrived. The subject line alone—"Following up on your note from my Period 2 Language Arts class"—was enough to get her attention. She had been copied on the substitute's initial, vaguely worded note and had been waiting for the other shoe to drop.
 

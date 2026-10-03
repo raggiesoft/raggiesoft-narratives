@@ -1785,7 +1785,7 @@ They were locked in. They were completely safe.
 
 "Lead the way," he told her.
 
-### Part 5: The Captain\'s Quarters
+### Part 5: The Captain's Quarters
 
 Wyatt turned away from the glowing amber CRT monitor and the heavy silence of the command center. He followed Sarah down the narrow, curved corridor of Outpost Delta 9.
 

@@ -3746,7 +3746,7 @@ He hadn't panicked. He hadn't called Mom in Portsmouth. He hadn't called the on-
 
 He was the Caregiver. The power was on. And the Machine was still running.
 
-### Part 7: New Year\'s Eve
+### Part 7: New Year's Eve
 
 The loft didn't look like a party venue. It looked like a high-end recovery suite.
 

@@ -469,7 +469,7 @@ He leaned over carefully, mindful of the tubes and wires, and wrapped his arms a
 
 When he finally drew back, he pulled the visitor's chair close to the gurney and took her hand, lacing his fingers through hers. She squeezed his hand weakly, her gaze never leaving his face. She was still scared, still hurt, but her anchor was here. Her brother was with her. They sat together in the sterile quiet of the bay, a two-person fortress, waiting for the doctor, ready to face whatever came next, together.
 
-### Part 7: A Father\'s Understanding 👨‍👧‍👦
+### Part 7: A Father's Understanding 👨‍👧‍👦
 
 A flurry of movement at the entrance to the ER bay announced the arrival of Jermaine Bennett. He rushed in, his face pale with a father's terror. "Jack? Sarah? Oh, my God. I came as soon as I got the call. What happened?"
 

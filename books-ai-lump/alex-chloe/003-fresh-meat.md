@@ -241,7 +241,7 @@ The unspoken rules of Northwood High were becoming clearer by the hour: Rule Num
 
 The legend continued to grow, now with its own signature scent.
 
-### Part 6: The Delinquent, The Dumpsters, and The Deep Fryer\'s Due
+### Part 6: The Delinquent, The Dumpsters, and The Deep Fryer's Due
 
 The memory of the previous afternoon's olfactory assault – a potent souvenir from his first official "date" with the Northwood High dumpsters – clung to Josh Riley like a second, unwelcome skin, impervious to the vigorous scrubbing he’d subjected himself to. As the dismissal bell for Wednesday, their second day of freshman year, echoed through the halls, a stubborn, arrogant thought took root in Josh’s mind: *I am too good for this. I am not spending another afternoon smelling like a skunk’s gym sock that’s been marinated in regret.*
 

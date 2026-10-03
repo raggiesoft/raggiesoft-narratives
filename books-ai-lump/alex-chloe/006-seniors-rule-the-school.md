@@ -233,7 +233,7 @@ This time, Josh Riley hadn't just crossed Mrs. DeMarco. He'd almost crossed a li
 
 ## A Quiet Miracle
 
-### Part 1: The TADA Heard \'Round the Lab
+### Part 1: The TADA Heard 'Round the Lab
 
 The first day of AP Computer Science was a quiet affair. The teacher, Mr. Davies, a man with a genuine passion for technology, had been briefed by the guidance department: he would have a non-verbal student named Alex Miller, who used a wheelchair and an AAC device to communicate. Mr. Davies was prepared to be accommodating and patient.
 
@@ -509,7 +509,7 @@ She leaned in, her voice a whisper that was somehow more terrifying than a shout
 
 Josh Riley's face, for the last time in the hallways of Northwood High, went completely, utterly pale. He had finally, truly, been checkmated.
 
-### Part 3: The People\'s Vote
+### Part 3: The People's Vote
 
 As Mrs. DeMarco walked away, leaving Josh to stew in his own miserable failure, a new, rebellious energy began to buzz through the senior class. They had all seen what he did. A senior named Mark jumped up onto a chair.
 

@@ -391,7 +391,7 @@ The officer, appreciating the gesture, continued in English. He asked a few stan
 
 The moment the gate lifted and their van rolled onto Canadian soil, a palpable sense of joy filled the vehicle. The arrival at the Leclerc house was a massive, joyous, and loud family reunion. Megan was immediately enveloped in a sea of warm, welcoming hugs and rapid-fire French. Alex and Chloé stayed by her side, acting as her proud, bilingual guides and translators. For Megan, it was a full, wonderful, and slightly overwhelming immersion into the heart of Chloé's world.
 
-### Part 4: An Aunt\'s Welcome and a Modern Warning
+### Part 4: An Aunt's Welcome and a Modern Warning
 
 Chloé navigated the familiar streets of Stanstead, a fond smile on her face, and pulled the large Holt Wayfarer into her aunt and uncle's driveway. The front door of the cheerful house flew open and Geneviève Leclerc rushed out, her face beaming with pure delight.
 
@@ -421,7 +421,7 @@ Alex, who had been listening intently, typed a response. I REMEMBER, his synthes
 
 The new reality was set. Their visit, unlike the fluid, borderless adventure of their youth, would be confined to one country. But within that country, a week of new memories with family awaited them.
 
-### Part 5: An Aunt\'s Advice and a New Itinerary
+### Part 5: An Aunt's Advice and a New Itinerary
 
 After the warm, welcoming hugs in the driveway, Aunt Geneviève ushered the three of them into her cozy kitchen, a space that smelled faintly of yeast and cinnamon. As she poured them tall glasses of cold lemonade, she settled at the table with them, her expression full of genuine happiness.
 

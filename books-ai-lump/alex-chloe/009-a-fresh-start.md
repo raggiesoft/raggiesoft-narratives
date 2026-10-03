@@ -151,7 +151,7 @@ The lie, in all its monstrous cruelty, had been officially launched. But in that
 
 ## The Unraveling Lie
 
-### Part 1: A Family\'s Resolve
+### Part 1: A Family's Resolve
 
 The week after the lawyer's letter arrived was a period of quiet, focused preparation. The initial shock and terror had been replaced by a cold, hard resolve. The six of them—the Millers and the Masons—were a united front, their mission clear: protect Alex and Chloé from Vera's malicious attack.
 
@@ -253,7 +253,7 @@ From the end of the table, Megan lowered her book, a look of pure, unadulterated
 
 In that moment, surrounded by the quiet hum of the science lab, with his wife on one side and his favorite cousin on the other, both looking at him with absolute belief in his brilliance, a new, shared passion was born. It wasn't just about code or language anymore. It was about the intricate, beautiful, and often fragile machinery of life itself. And for the first time in a very long time, Alex felt truly, completely, and boundlessly hopeful about the future.
 
-### Part 6: Vera’s Reckoning – A Mother\'s Fury, A Daughter\'s Ruin
+### Part 6: Vera’s Reckoning – A Mother's Fury, A Daughter's Ruin
 
 Vera had been back with Robyn in Virginia for several tense weeks, a period fraught with anxiety since Alex Miller’s lawyers had first responded to her paternity claim by unequivocally stating Alex's infertility and demanding a DNA test. The prenatal test had been arranged, samples given, and now an oppressive silence hung over Robyn’s house as they awaited the results. Vera, despite the initial shock of Alex’s legal stance, clung to a desperate, fervent hope that the science would somehow prove her right, that Alex was indeed the father of the child she carried. Her entire fragile plan hinged on it.
 

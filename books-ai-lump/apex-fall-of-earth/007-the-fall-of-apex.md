@@ -1093,7 +1093,7 @@ Wyatt leaned over, burying his face in Sarah’s damp hair, his massive arms wra
 
 "Molly and Claire," Sarah smiled through her tears, kissing the top of Molly's dark, downy head, and then Claire's. "Welcome to Eden, girls."
 
-### Part 2: The Diplomat\'s Detail
+### Part 2: The Diplomat's Detail
 
 Three days later, the residential living room was operating at peak morning efficiency.
 

@@ -489,7 +489,7 @@ Thank you, she typed, her last message on the thread. I didn’t think anyone wo
 
 She logged off, the fear that had shadowed her for months finally gone, replaced by an overwhelming sense of belonging. She and Ryan walked out of the business center and through the grand lobby doors to the curb, where their father was waiting to take them home.
 
-### Part 3: Good News at Jester\'s 🍔
+### Part 3: Good News at Jester's 🍔
 
 The bus ride from Redmond back to Seattle was a blur for **Kelly**. She stared out the window at the passing lights of the SR 520 bridge, her mind replaying every detail of the meeting at **Quantum**. The warm smiles, the genuine interest, Jessica Taylor’s calm and steady presence—it all felt like a dream. The contrast with the cold, tense loft at Aurora was so profound it almost hurt.
 
@@ -823,7 +823,7 @@ As Maria led them out to the main developer area, a few engineers looked up from
 
 For the first time in months, Kelly felt like she was exactly where she was supposed to be. The community had taken care of its own.
 
-### Part 2: Starting with \'Why\' 💡
+### Part 2: Starting with 'Why' 💡
 
 An hour later, after their official HR check-ins were complete and they knew the location of every snack jar, Kelly and Ryan returned to Jessica Taylor’s corner office. The afternoon sun streamed through the large windows, illuminating the complex diagrams on the massive whiteboard. Jessica swiveled her power wheelchair away from her monitors to face them, a small, encouraging smile on her face.
 
@@ -967,7 +967,7 @@ She paused to let that sink in. "If someone asks you a question you're not sure 
 
 **Kelly** and **Ryan** both nodded seriously. The initial, giddy excitement of the trip was now tempered with a new understanding of the professional responsibility they had just been given. They weren't just kids on an adventure anymore. They were part of the bridge.
 
-### Part 5: The First-Time Flyers\' Arrival at SEA ✈️
+### Part 5: The First-Time Flyers' Arrival at SEA ✈️
 
 The air at Seattle-Tacoma International Airport hummed with the chaotic energy of a thousand intersecting journeys. For Kelly and Ryan Madsen, standing just inside the sliding glass doors of the departure level, it was overwhelming. The sheer scale of the place—the soaring ceilings, the echoing flight announcements, the river of people pulling suitcases—made the world feel suddenly, thrillingly larger. It was their first time in an airport, their first time on a plane.
 
@@ -1295,7 +1295,7 @@ It was an operating system unlike any they had ever seen. There were hints of th
 
 Kelly and Ryan stared at the screen, completely speechless. They were 18-year-old interns, and they had just been shown a secret that almost no one in the world knew about.
 
-### Part 7: A Sister\'s Insistence 杖
+### Part 7: A Sister's Insistence 杖
 
 As the workday wound down, **David** came to collect the team. He handled the return of the borrowed manual wheelchair, and for the walk back through the long corridors to the main lobby, **Ryan** once again placed his hand on the headrest of **Jessica’s** power wheelchair for support. He was quiet, the exhaustion from a day of masking his pain clearly visible on his face.
 
@@ -1335,7 +1335,7 @@ Ryan looked up, surprised by the direct praise. "I was just asking questions," h
 
 For the first time all day, a genuine, unforced smile touched Ryan's lips. He was still in pain, still leaning on a cane he didn't want, but he was sitting in a restaurant in California, being praised by two of the most respected engineers in the industry. He was still not ready to admit defeat to his own body, but he was slowly starting to realize that accepting help didn't make him weak; it just allowed him to keep moving forward.
 
-### Part 9: What\'s Really Going On? 💬
+### Part 9: What's Really Going On? 💬
 
 Back at the hotel, the three of them said their goodnights. **Jessica** gave them both a warm, proud smile before quietly closing the adjoining door, leaving the twins alone in their room.
 

@@ -863,7 +863,7 @@ The buttons stayed on. The eyes stayed down. And the quiet, stubborn wall betwee
 
 ## The War Councils Assemble
 
-### Part 1: Quantum\'s Alliance
+### Part 1: Quantum's Alliance
 
 The next day, on the \#253 eastbound bus across the SR 520 Bridge, the Quantum engineers who shared Jessica’s transfer leaned in. They’d heard every word of yesterday’s warning from the Aurora crew.
 
@@ -885,7 +885,7 @@ Jessica listened, half-amused, half-moved. “You know I can handle myself,” s
 
 The War Council had been born—on a city bus, over a lake, and now in the heart of Quantum’s own halls.
 
-### Part 2: Aurora\'s Rebellion
+### Part 2: Aurora's Rebellion
 
 That same morning, the loft at Aurora Systems was unusually still. At the far end of the room, a cluster of devs leaned over a whiteboard that, officially, was for sprint planning. Unofficially, it was the Aurora War Council. A Not For Sale button was pinned to every chest.
 
@@ -1243,7 +1243,7 @@ With that simple, heartfelt "yes," Ryan wasn't just agreeing to go to a meeting;
 
 ## The Final Straw
 
-### Part 1: An Intern\'s Story
+### Part 1: An Intern's Story
 
 Kelly Madsen stepped through the glass doors of Quantum's Building Four, clutching the strap of her messenger bag. The lobby was bright and alive with the buzz of quiet innovation, a world away from the tense, borrowed space of the Colman-Harrington Building. She signed in at the front desk, her hands trembling slightly.
 
@@ -1371,7 +1371,7 @@ Kelly looked down at the Quantum logo on her new mug, then back at the faces of 
 
 The developer grinned. "That's the spirit. Now, the chocolate chip cookies are in the third jar from the left. Don't let anyone tell you otherwise."
 
-### Part 4: Jessica\'s Office
+### Part 4: Jessica's Office
 
 An hour later, after their official HR check-ins were complete and they knew the location of every snack jar, Kelly and Ryan returned to Jessica Taylor’s corner office. The afternoon sun streamed through the large windows, illuminating the complex diagrams on the massive whiteboard. Jessica swiveled her power wheelchair away from her monitors to face them, a small, encouraging smile on her face.
 

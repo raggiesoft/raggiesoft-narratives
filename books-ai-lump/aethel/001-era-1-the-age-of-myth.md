@@ -7,7 +7,7 @@ series: "The Silver Gauntlet of Aethel"
 
 ## Book I: The Silver Sun
 
-### Part 1: Chapter 1: The Architect\'s Lesson
+### Part 1: Chapter 1: The Architect's Lesson
 
 The Solar Garden did not smell of flowers; it smelled of ozone and potential.
 

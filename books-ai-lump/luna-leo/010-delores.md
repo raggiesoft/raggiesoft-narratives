@@ -507,7 +507,7 @@ Clara looked at her daughter, hearing the weakness in the excuse. Probing furthe
 
 She turned away, heading back towards the relative normalcy of the kitchen, leaving Delores standing there. The confrontation had been brief, but it left an uncomfortable tension, and a new, unspoken question, hanging in the air.
 
-### Part 5: A Guardian\'s Shadow
+### Part 5: A Guardian's Shadow
 
 The heavy, resentful silence in the apartment after Stella and Luna's departure was a familiar poison to Clara Mahone. She watched her daughter, Delores, pace the small living room, still fuming over the perceived slights of the afternoon—the bath, her mother's lack of absolute support, and the infuriatingly close bond between Leo and his sisters.
 

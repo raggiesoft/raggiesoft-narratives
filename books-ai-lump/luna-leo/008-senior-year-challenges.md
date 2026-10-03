@@ -583,7 +583,7 @@ Luna glanced around the chaotic kitchen, then back towards the hallway that led 
 
 Together, they squeezed past the teens still raiding the fridge and made their way down the hallway, the thumping bass of the music pursuing them like a physical force. They found a small guest bedroom that seemed momentarily unoccupied, slipped inside, and Luna quickly, gratefully, clicked the lock on the door, finally creating a small, if temporary, island of relative quiet in the overwhelming storm of their grandparents' disastrous New Year's Eve party.
 
-### Part 5: Extraction and Stella\'s Quiet Wrath
+### Part 5: Extraction and Stella's Quiet Wrath
 
 The twenty minutes it took Stella to drive from her Virginia Beach house to Richard and Elizabeth Porter’s neighborhood felt like an eternity, her knuckles white on the steering wheel of the Holt Sentinel. The garbled, terrified plea from Luna over the phone, barely audible above the roar of what was clearly an out-of-control party, had sent a jolt of pure adrenaline mixed with icy rage through her. Deception. Endangerment. The sheer, breathtaking irresponsibility of it made her blood boil. She had trusted them, however tentatively, with her seventeen-year-old siblings, based on their promise of a quiet, supervised New Year’s Eve. That trust now felt like a naive folly.
 

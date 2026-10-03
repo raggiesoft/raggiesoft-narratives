@@ -671,7 +671,7 @@ Inside the quiet, dimly lit safe room, the door closed, and the overwhelming noi
 
 Chloé and Megan were there, a fortress of unconditional love, one kneeling in front of him, the other sitting beside him, their hands a firm, grounding pressure on his knees and shoulders. They just held him, weathering the storm with him, until the last of the tremors subsided and the roaring in his head finally gave way to the quiet, steady sound of their love.
 
-### Part 6: L\'Unité Inséparable
+### Part 6: L'Unité Inséparable
 
 Fifteen minutes later, the door to the small, quiet safe room opened. Alex emerged, Chloé on one side and Megan on the other, their presence a silent, unwavering fortress of support. He was calm, the last of the emotional storm having passed, leaving a profound sense of peace in its wake. He was ready to rejoin his own wedding.
 

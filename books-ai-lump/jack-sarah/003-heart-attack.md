@@ -385,7 +385,7 @@ The doctor left them to process the news. *Close to death.* The phrase echoed in
 
 She was there in an instant, wrapping her arms around him as best she could. The doctor's words crashed over her, and a new, horrifying realization twisted in her gut, sharp and agonizing. *He almost died. He almost died on my birthday.* The thought was a silent scream in her mind. Her birthday present, the one she had asked for just this morning—for him to be okay—had almost been snatched away in the most brutal way imaginable. The day of her birth would have become the day of his death. Her own tears finally fell, hot and heavy, a torrent of grief for a tragedy that had come terrifyingly close to being real. Jack held on to her as tightly as the medical equipment attached to him would allow, burying his face in her shoulder, the terrifying, abstract concept of his own mortality suddenly, horribly real.
 
-### Part 4: A Veteran\'s Reassurance
+### Part 4: A Veteran's Reassurance
 
 Jack clung to his sister, the stark reality of his near-death experience washing over him in waves of terror. The world outside the circle of Sarah’s arms felt distant and muffled. She held him tightly, her own tears soaking the shoulder of his hospital gown, her mind reeling with the horrifying thought: *He almost died. He almost died on my birthday*. The thought was a silent, agonizing scream.
 
@@ -1069,7 +1069,7 @@ A wave of immense relief washed over Sarah. The logistical hurdle of work was go
 
 Kelly just gave her a supportive nod before saying her goodbyes. With the support of their work family confirmed, and the promise that Sarah could remain by his side, the path to recovery felt a little less daunting.
 
-### Part 8: A Mentor\'s Visit
+### Part 8: A Mentor's Visit
 
 Later that afternoon, after the stream of well-wishers had slowed, Jack was resting, listening to the quiet murmur of the television Sarah had on. From the hallway, he could hear the approaching voices of another group of visitors. His head lifted from the pillow. Among the familiar tones, one voice stood out—a warm, booming baritone with a thick, unmistakable Sydney accent that Jack would recognize anywhere.
 
@@ -1451,7 +1451,7 @@ The three girls exchanged a quick, puzzled look. Jack had never asked for captio
 
 "Snack time," Grandpa Sam announced from the doorway. He returned a moment later with a tray bearing four glasses of ice water and a large bowl of what was, he assured them, the "healthy kind" of popcorn. He settled into his armchair, a warm, contented smile on his face as he watched his four grandchildren, huddled together on the sofa, completely absorbed in the opening scene of their favorite movie. The world outside, with all its dangers and worries, could wait. For the next two hours, they were safe in their cheesy, 1980s sanctuary.
 
-### Part 10: A Collector\'s Edition
+### Part 10: A Collector's Edition
 
 The familiar, cheesy score of **"The Silver Gauntlet of Aethel"** filled the living room, a comforting soundtrack to a quiet afternoon of recovery. **Jack**, still nestled on the sofa with his head in **Sarah’s** lap, was completely absorbed in the movie, a bowl of bland, heart-healthy popcorn resting on his stomach. The water in his glass was a constant, bland reminder of his new reality, but for now, it didn’t matter. He was home, he was safe, and he was with his favorite people.
 
@@ -1769,7 +1769,7 @@ Emily, a kind and perceptive person, took in the scene: Jack's obvious relief an
 
 And with that, she turned and walked away, leaving no drama, no guilt, no resentment in her wake, but leaving the door to a future date wide open. Jack watched her go, a profound, shuddering wave of relief washing over him, but it was now mixed with a fresh wave of anxiety. He had escaped the immediate moment, but he hadn't solved the problem. He looked over at Sarah, who was watching him with a slightly puzzled but supportive look, and felt an immense wave of love and gratitude. She had, without even knowing it, been his temporary shield once again.
 
-### Part 3: A Protector\'s Concern
+### Part 3: A Protector's Concern
 
 The first-floor break room at Fairlawn was a quiet, familiar sanctuary. **Jack** and **Sarah** sat at one of the small, round tables, their packed lunches spread out before them. Jack, still buzzing with a mixture of relief and residual anxiety, poked at his sandwich without really seeing it. He had escaped the immediate, terrifying social trap, but he knew the problem hadn't been solved.
 

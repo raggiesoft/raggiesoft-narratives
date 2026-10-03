@@ -1539,7 +1539,7 @@ Sarah sat up slightly, squinting at the screen. She looked at the three musician
 
 Outside the hull, the universe was a terrifying, violent place. But inside *The Nomad*, hurtling through the spacetime fold at impossible speeds while laughing over a sixty-year-old movie cameo, everything was absolutely perfect.
 
-### Part 4: The Algorithm\'s Gift
+### Part 4: The Algorithm's Gift
 
 The heavy VCR clicked loudly, automatically rewinding the final tape as the credits rolled off the massive CRT television. The screen faded to a soft, static blue, casting a quiet, flickering glow across the spacious Captain's Quarters.
 

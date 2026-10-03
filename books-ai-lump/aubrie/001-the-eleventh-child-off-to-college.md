@@ -989,7 +989,7 @@ Hannah, sitting beside Zoë, nodded in firm agreement. As the oldest of the grou
 
 A silent, powerful agreement bloomed in the cinderblock room. The traditional rules of dating and jealousy had been completely discarded, replaced by a unique, unbreakable pact of mutual respect and radical generosity. They were not rivals. They were a constellation, and their collective purpose was to illuminate his world and ensure he never had to brave the dark alone again.
 
-### Part 6: The Safe Harbor\'s Perimeter
+### Part 6: The Safe Harbor's Perimeter
 
 **Date:** 2014-08-24 at 16:30
 

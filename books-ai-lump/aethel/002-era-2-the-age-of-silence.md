@@ -3658,7 +3658,7 @@ She picked up the tray of food. She ate. Not because she was hungry, but because
 
 The rebellion had begun.
 
-### Part 2: Chapter 2: The Tyrant\'s Throne
+### Part 2: Chapter 2: The Tyrant's Throne
 
 The dungeon was cold, but the Throne Room was freezing for a different reason. It was the cold of absolute, sterile perfection.
 

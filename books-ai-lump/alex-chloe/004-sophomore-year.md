@@ -71,7 +71,7 @@ But by the time the third-period bell rang for their Lunch/Study Hall block, he 
 
 Alex, feeling too tired to argue, simply nodded.
 
-### Part 2: The Nurse\'s Verdict
+### Part 2: The Nurse's Verdict
 
 The Northwood High clinic was a small, quiet oasis of calm. Nurse Davison, a kind, no-nonsense woman with decades of experience, looked up from her paperwork as Alex and Chloé came in. It was their scheduled time to pick up their daily medications—a routine part of their day.
 

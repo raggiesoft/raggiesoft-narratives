@@ -683,7 +683,7 @@ Wyatt braced his boots against the mattress, tightening his protective grip on h
 
 The Vanguard was breaching the perimeter.
 
-### Part 2: The Vanguard\'s Spear
+### Part 2: The Vanguard's Spear
 
 The clinical, brilliant white light of the medical bay reflected off the polished glass of the diagnostic monitors.
 
@@ -831,7 +831,7 @@ He looked at her tiny, breathing chest, then turned his dark, fierce eyes back t
 
 Two down. One to go.
 
-### Part 4: The Lion\'s Fight
+### Part 4: The Lion's Fight
 
 The medical bay was a symphony of chaos and miracles. From the far wall, the furious, healthy cries of Ellie and the thin, wavering wails of Nora filled the room.
 

@@ -1429,7 +1429,7 @@ A deep, hydraulic *thud* vibrated violently through the deck plates beneath thei
 
 Wyatt gritted his teeth, his eyes straining against the opaque gray void outside the viewport. "Brace for impact!"
 
-### Part 3: The Mountain\'s Mouth
+### Part 3: The Mountain's Mouth
 
 The altimeter needle plummeted toward the zero-mark.
 
