@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Safe Harbor
 
-**Date:** 1995-08-11 at 16:55 ET
+**Date:** 1995-08-11 at 16:55 America/New_York
 
 The suffocating, humid heat of the 1995 Chesapeake water crisis hung heavy in the air, but inside Master April’s garage in the Lynnhaven district, the atmosphere was entirely different.
 
@@ -57,7 +57,7 @@ We scrambled to our spots on the colorful foam. It wasn't the terrifying, rigid 
 
 ### Part 2: The Shift
 
-**Date:** 1995-08-11 at 17:00 ET
+**Date:** 1995-08-11 at 17:00 America/New_York
 
 The digital clock on the garage wall clicked to exactly 5:00 PM.
 
@@ -113,7 +113,7 @@ Master April looked at the grid of students, from the 2nd Pooms in the front to 
 
 ### Part 3: The Mechanics of Spirit
 
-**Date:** 1995-08-11 at 17:05 ET
+**Date:** 1995-08-11 at 17:05 America/New_York
 
 The beauty of Friday Open Gym was the absolute lack of a metronome. At Tidewater Tumblers, Master Ray forced us to move to a frantic, collective count. But here on the puzzle mats, Master April ran the hour like an open study hall.
 
@@ -193,7 +193,7 @@ When we stood back up, the rigid posture of the Dojang immediately evaporated. A
 
 ### Part 4: The Pal and the Perimeter
 
-**Date:** 1995-08-11 at 18:05 ET
+**Date:** 1995-08-11 at 18:05 America/New_York
 
 The rigid structure of the Dojang vanished the instant we broke formation.
 
@@ -255,7 +255,7 @@ I squeezed Rachel's shoulder, and she squeezed my hand back. We were exhausted, 
 
 ### Part 5: The Perimeter Secured
 
-**Date:** 1995-08-11 at 18:25 ET
+**Date:** 1995-08-11 at 18:25 America/New_York
 
 Dad pulled the truck into the driveway of our Delaney Street house and killed the engine.
 
@@ -305,7 +305,7 @@ Tomorrow morning, Rachel and I had to walk onto that massive, rebounding spring 
 
 ### Part 6: The Living Room Bivouac
 
-**Date:** 1995-08-11 at 19:30 ET
+**Date:** 1995-08-11 at 19:30 America/New_York
 
 The massive dinner of roasted chicken and mashed potatoes was officially cleared from the table, signaling the start of the night's main event. It wasn't just a Friday; we were having a full pack sleepover.
 
@@ -337,7 +337,7 @@ We threw our quilts over the thin mattress and tossed our pillows against the he
 
 ### Part 7: The Core Pack
 
-**Date:** 1995-08-11 at 21:00 ET
+**Date:** 1995-08-11 at 21:00 America/New_York
 
 The house finally quieted down as the living room completed its transformation into a full-scale bivouac.
 
@@ -369,7 +369,7 @@ The perimeter was locked tight, and the pack was safe.
 
 ### Part 1: The Inventory
 
-**Date:** 1995-08-12 at 09:00 ET
+**Date:** 1995-08-12 at 09:00 America/New_York
 
 The main gymnastics floor of Tidewater Tumblers & Martial Arts didn’t feel like a gymnastics floor today.
 
@@ -415,7 +415,7 @@ April returned Master Scott's bow with absolute, clinical respect. She turned he
 
 ### Part 2: The Physicality of Spirit
 
-**Date:** 1995-08-12 at 10:15 ET
+**Date:** 1995-08-12 at 10:15 America/New_York
 
 When the Green Belts with stripes were called forward, the tension in the room spiked. This was the test for the Brown tti—the gateway to the advanced ranks.
 
@@ -451,7 +451,7 @@ Curtis’s jaw locked. To him, martial arts was purely an aesthetic of violence.
 
 ### Part 3: The Deafening Silence
 
-**Date:** 1995-08-12 at 10:30 ET
+**Date:** 1995-08-12 at 10:30 America/New_York
 
 Then Rachel stepped forward. Eight years old. Small frame. A stillness that looked like perfect obedience until you realized it was total containment.
 
@@ -509,7 +509,7 @@ Curtis’s hands balled into fists against his thighs. In his twisted, toxic min
 
 ### Part 4: The 3rd Dan Disaster
 
-**Date:** 1995-08-12 at 11:45 ET
+**Date:** 1995-08-12 at 11:45 America/New_York
 
 When the Dan candidates were called, the energy in the room shifted drastically. Master Ray called Master Curtis forward, hoping for a smooth, impressive display to secure the Dojang's reputation.
 
@@ -593,7 +593,7 @@ April looked at the thirty-four-year-old man standing on the mat. He was a bully
 
 ### Part 5: The Genesis of Hatred
 
-**Date:** 1995-08-12 at 12:05 ET
+**Date:** 1995-08-12 at 12:05 America/New_York
 
 Curtis stood frozen. The decree—Bulhapgyeok—echoed in his ears, completely dismantling his reality.
 
@@ -643,7 +643,7 @@ Curtis crossed his arms, his white uniform pulling tight across his chest. He wa
 
 ### Part 1: The Mirrored Room
 
-**Date:** 1995-08-15 at 16:00 ET
+**Date:** 1995-08-15 at 16:00 America/New_York
 
 The Chesapeake water crisis of 1995 meant that every time you pressed the metal button on the water fountain outside the main gymnastics floor, you got a mouthful of the Currituck Sound.
 
@@ -739,7 +739,7 @@ We didn't say a word around our mouth guards, but as our pads connected, the sil
 
 ### Part 2: The Missing Cup
 
-**Date:** 1995-08-15 at 16:15 ET
+**Date:** 1995-08-15 at 16:15 America/New_York
 
 Rachel and I had fallen into a steady, hypnotic rhythm at the far end of the mirrored room.
 
@@ -795,7 +795,7 @@ I looked at Rachel. The bubble had popped. The reality of how dangerous this roo
 
 ### Part 3: Breaking the Silence
 
-**Date:** 1995-08-15 at 16:55 ET
+**Date:** 1995-08-15 at 16:55 America/New_York
 
 "Kman! Class dismissed! Line up and bow out!"
 
@@ -897,7 +897,7 @@ April stood back up, smoothing her uniform. She turned back to the center of the
 
 ### Part 4: The Anchor and the Ego
 
-**Date:** 1995-08-15 at 17:00 ET
+**Date:** 1995-08-15 at 17:00 America/New_York
 
 "You all worked hard today," April announced to the room. "Kman. Class dismissed."
 
@@ -945,7 +945,7 @@ We were sitting barefoot on the freezing linoleum, covered in sweat, wearing rid
 
 ### Part 5: The Top Row
 
-**Date:** 1995-08-15 at 17:10 ET
+**Date:** 1995-08-15 at 17:10 America/New_York
 
 We didn't stay in the Dojang a second longer than we had to. We shoved our heavy, sweaty sparring gear into our canvas bags and climbed the metal stairs to the second-floor observation deck.
 
@@ -1023,7 +1023,7 @@ The rest of the ride back to Delaney Street was the loudest car trip we had ever
 
 ### Part 6: The Delaney Street Revelation
 
-**Date:** 1995-08-15 at 17:45 ET
+**Date:** 1995-08-15 at 17:45 America/New_York
 
 Aunt Janet pulled the sedan up to the curb outside 1852 Delaney Street. She didn't even put the car in park before Jessica was pushing her door open.
 
@@ -1089,7 +1089,7 @@ I stayed exactly where I was, standing just outside the edge of the massive fami
 
 ### Part 7: Wash the Dojang Away
 
-**Date:** 1995-08-15 at 18:00 ET
+**Date:** 1995-08-15 at 18:00 America/New_York
 
 The massive family hug in the center of the kitchen finally broke apart.
 
@@ -1141,7 +1141,7 @@ As the hot water beat down on the back of my neck, I realized I wasn't just wash
 
 ### Part 8: The Dinner Table
 
-**Date:** 1995-08-15 at 18:30 ET
+**Date:** 1995-08-15 at 18:30 America/New_York
 
 Dinner at the Delaney Street house had always operated on a very specific, unspoken audio frequency. Dad would talk about work, Mom would ask about our days, and Jessica would carry the bulk of the sibling conversation. I would give flat, one-word answers, and Rachel would communicate entirely through soft hums, sharp points, and the occasional tug on Mom’s sleeve.
 
@@ -1205,7 +1205,7 @@ It was going to take months of speech therapy, endless frustration, and a lot of
 
 ### Part 9: The Code Wizard
 
-**Date:** 1995-08-15 at 19:30 ET
+**Date:** 1995-08-15 at 19:30 America/New_York
 
 The house settled into its quiet, predictable evening rhythm.
 
@@ -1261,7 +1261,7 @@ We sat there for an hour, the soft glow of the television illuminating the dark 
 
 ### Part 10: The Solstice Myth
 
-**Date:** 1995-08-15 at 20:30 ET
+**Date:** 1995-08-15 at 20:30 America/New_York
 
 Rachel eventually guided her pixelated character past the final fortress of the current map, the screen fading to black. She let out a soft, satisfied sigh, dropping the grey SN-16 controller onto my carpet.
 
@@ -1313,7 +1313,7 @@ Jessica leaned her head on my shoulder, Rachel drifted halfway to sleep against 
 
 ### Part 11: The Twin-Bed Geometry
 
-**Date:** 1995-08-15 at 22:45 ET
+**Date:** 1995-08-15 at 22:45 America/New_York
 
 The triumphant, brass-heavy orchestral suite played over the scrolling blue credits of Return of the Guardians, filling the dark bedroom with a final wave of cinematic energy. As the music faded and the screen transitioned to the harsh, silent static of the tape's end, the exhaustion of the day finally crashed down on all of us.
 
@@ -1351,7 +1351,7 @@ But as Rachel’s steady heartbeat thumped against my arm, I had never felt safe
 
 ### Part 1: The Latchkey Captain
 
-**Date:** 1995-08-16 at 08:30 ET
+**Date:** 1995-08-16 at 08:30 America/New_York
 
 Waking up was a slow, agonizing process.
 
@@ -1427,7 +1427,7 @@ The Dojang was behind us, the house was ours, and for the first time in my life,
 
 ### Part 2: The Live-Action Tape
 
-**Date:** 1995-08-16 at 10:00 ET
+**Date:** 1995-08-16 at 10:00 America/New_York
 
 The doorbell rang right at ten o'clock, sending Archie scrambling to his feet. His tail immediately started thumping against the wall.
 
@@ -1513,7 +1513,7 @@ It was just a movie. The violence on the screen was just choreography and costum
 
 ### Part 3: The Highland Leviathan
 
-**Date:** 1995-08-16 at 11:45 ET
+**Date:** 1995-08-16 at 11:45 America/New_York
 
 With the movie finished and the hero geckos victorious, Melissa hit the stop button on the VCR. The screen dropped to static for a brief second before she clicked the heavy CRT television off entirely.
 
@@ -1555,7 +1555,7 @@ As we sat there eating lunch, wrapped up in the lap cuddle with the dogs resting
 
 ### Part 4: The Canvas Fortress
 
-**Date:** 1995-08-16 at 13:00 ET
+**Date:** 1995-08-16 at 13:00 America/New_York
 
 As the last of the pizza bagels disappeared from the coffee table, Melissa clapped her hands together, brushing a few stray crumbs off her jeans.
 
@@ -1589,7 +1589,7 @@ Rachel wiggled happily, tapping a rapid, joyful beat against my forearm. Between
 
 ### Part 5: Shore Power
 
-**Date:** 1995-08-16 at 19:00 ET
+**Date:** 1995-08-16 at 19:00 America/New_York
 
 Dad walked through the front door right at seven o'clock, still wearing his *Baja Taco* manager's uniform, completely exhausted but smiling the second he saw the energy in the house. Mom had gotten home from the mall at five and had immediately taken over the kitchen.
 
@@ -1631,7 +1631,7 @@ We spilled out into the dark backyard, the orange extension cord leading the way
 
 ### Part 6: The Ball Pit Strategy
 
-**Date:** 1995-08-16 at 20:30 ET
+**Date:** 1995-08-16 at 20:30 America/New_York
 
 Melissa pulled the heavy nylon zipper of the tent door shut, sealing us inside the canvas fortress. The only light came from a pair of heavy-duty plastic flashlights aimed up at the domed ceiling, casting a warm, diffused glow over the wall-to-wall patchwork of sleeping bags and quilts. From the corner, the silver portable stereo played a local FM pop station at a low, comfortable volume.
 
@@ -1677,7 +1677,7 @@ It was the absolute peak of our childhood.
 
 ### Part 7: Lights Out
 
-**Date:** 1995-08-16 at 20:45 ET
+**Date:** 1995-08-16 at 20:45 America/New_York
 
 By a quarter to nine, the chaotic energy inside the tent finally began to mellow into a heavy, comfortable exhaustion. The local FM pop station playing on the boombox transitioned into a block of slow, acoustic evening tracks.
 
@@ -1721,7 +1721,7 @@ I closed my eyes, surrounded by the steady breathing of my pack, the cool grass 
 
 ### Part 1: Breaking Camp
 
-**Date:** 1995-08-17 at 07:30 ET
+**Date:** 1995-08-17 at 07:30 America/New_York
 
 Waking up inside a nylon tent always felt fundamentally different than waking up in a house.
 
@@ -1779,7 +1779,7 @@ We watched the Raybourn sisters walk out the front door, the heavy wood clicking
 
 ### Part 2: The Living Room Dojang
 
-**Date:** 1995-08-17 at 11:30 ET
+**Date:** 1995-08-17 at 11:30 America/New_York
 
 By half-past eleven, the Delaney Street living room had been completely reconfigured. We had pushed the heavy oak coffee table flush against the front of the sofa, creating a wide, open clearing of carpet right in the center of the room.
 
@@ -1859,7 +1859,7 @@ We were completely dialed in. Our stances were solid, and Rachel's voice was off
 
 ### Part 3: The Neurological Wall
 
-**Date:** 1995-08-17 at 11:45 ET
+**Date:** 1995-08-17 at 11:45 America/New_York
 
 I picked up the heavy blue kick shield from the sofa and tossed it to Rachel.
 
@@ -1923,7 +1923,7 @@ I ran forward and launched myself off the carpet again. My leg seized up exactly
 
 ### Part 4: The Observation Deck
 
-**Date:** 1995-08-17 at 13:30 ET
+**Date:** 1995-08-17 at 13:30 America/New_York
 
 The heavy thud of a car door shutting in the driveway signaled the end of our living room training session.
 
@@ -2017,7 +2017,7 @@ We settled back into the corner, our eyes tracking Jessica down on the balance b
 
 ### Part 5: The Staging Area
 
-**Date:** 1995-08-17 at 16:30 ET
+**Date:** 1995-08-17 at 16:30 America/New_York
 
 The large analog clock mounted high above the vault runway clicked to exactly four-thirty.
 
@@ -2051,7 +2051,7 @@ We stood there in the quiet lobby, perfectly calm and completely focused, waitin
 
 ### Part 6: The Core Check
 
-**Date:** 1995-08-17 at 17:00 ET
+**Date:** 1995-08-17 at 17:00 America/New_York
 
 Rachel and I bowed into the Dojang, taking our positions on the line. The room sat directly underneath the second-floor observation deck, a boxed-in rectangular space with low ceilings and harsh fluorescent lighting. Because the room doubled as a dance studio, the floor was covered in hard, slick linoleum tile. We were barefoot, and the floor was always freezing against the soles of my feet.
 
@@ -2145,7 +2145,7 @@ The leg lifts finally finished at a count of fifty.
 
 ### Part 7: The Rest of the Hour
 
-**Date:** 1995-08-17 at 17:30 ET
+**Date:** 1995-08-17 at 17:30 America/New_York
 
 "Stand up! Fall in!" Master Curtis barked, clapping his hands together with a sharp, echoing crack.
 
@@ -2207,7 +2207,7 @@ We just focused entirely on the ticking clock on the back wall, desperately tryi
 
 ### Part 8: The Observation Deck
 
-**Date:** 1995-08-17 at 18:30 ET
+**Date:** 1995-08-17 at 18:30 America/New_York
 
 "Class dismissed! Line up and bow out!" Master Curtis barked, signaling the end of the hour.
 
@@ -2265,7 +2265,7 @@ I just held her tightly against my chest, staring blankly out over the gym, enti
 
 ### Part 9: The Broken Routine
 
-**Date:** 1995-08-17 at 19:00 ET
+**Date:** 1995-08-17 at 19:00 America/New_York
 
 The loud, grating buzzer echoed across the cavernous gymnastics floor, signaling the official end of the 7:00 PM classes.
 
@@ -2365,7 +2365,7 @@ She reached past me to pull my seatbelt across my chest. As the heavy strap drag
 
 ### Part 10: The Adult Echo Chamber
 
-**Date:** 1995-08-17 at 19:15 ET
+**Date:** 1995-08-17 at 19:15 America/New_York
 
 "Mom, you need to go inside and pull Michael and Rachel out of that Dojang right now," Jessica demanded before Mom could even put the car in drive.
 
@@ -2417,7 +2417,7 @@ I just wrapped both of my arms around my little sister, pulling her as tightly a
 
 ### Part 11: The Locked Door
 
-**Date:** 1995-08-17 at 19:45 ET
+**Date:** 1995-08-17 at 19:45 America/New_York
 
 The rest of the car ride was a suffocating, heavy silence. We dropped Janette off at Aunt Janet's house first. Janette reached over the seat and gave my shoulder one last, fierce squeeze before getting out of the car, her eyes still lined with angry tears. She didn't want to leave us, but there was nothing she could do to stop the momentum of the evening.
 
@@ -2503,7 +2503,7 @@ The room went dark as she clicked off the lamp. The adults downstairs were compl
 
 ### Part 12: The Fracture
 
-**Date:** 1995-08-17 at 20:15 ET
+**Date:** 1995-08-17 at 20:15 America/New_York
 
 The room wasn't pitch black yet. It was mid-August in Virginia Beach, which meant the sun had only just dipped below the horizon a few minutes ago. A fading, dusky violet twilight bled through the bedroom blinds, casting long, soft shadows across the carpet, mixing with the thin sliver of yellow hallway light underneath the locked door.
 
@@ -2573,7 +2573,7 @@ The adults who were supposed to protect us had failed, but we had each other.
 
 ### Part 1: The Physical Proof
 
-**Date:** 1995-08-18 at 08:00 ET
+**Date:** 1995-08-18 at 08:00 America/New_York
 
 The morning light bleeding through the bedroom blinds felt heavy and exhausting.
 
@@ -2657,7 +2657,7 @@ Mom wiped her face roughly with the sleeve of her bathrobe, a new, fierce determ
 
 ### Part 2: The Convergence
 
-**Date:** 1995-08-18 at 10:30 ET
+**Date:** 1995-08-18 at 10:30 America/New_York
 
 The sterile, brightly lit exam room of Dr. Winfield Young's pediatric clinic was a sharp contrast to the dark sanctuary of our bedroom.
 
@@ -2761,7 +2761,7 @@ The system that had crushed us was currently being dismantled by the police, and
 
 ### Part 3: The Children's Hospital
 
-**Date:** 1995-08-18 at 11:05 ET
+**Date:** 1995-08-18 at 11:05 America/New_York
 
 The twenty-minute drive from Dr. Young’s clinic near Lake James to the massive Children’s Hospital in Norfolk was a masterclass in agony.
 
@@ -2807,7 +2807,7 @@ As we lay there under the harsh fluorescent lights, waiting for the imaging mach
 
 ### Part 4: The Admission
 
-**Date:** 1995-08-18 at 13:00 ET
+**Date:** 1995-08-18 at 13:00 America/New_York
 
 The trauma attending physician returned to our bay, looking much more settled but no less serious. He pulled up a stool next to the two beds where Rachel and I were still locked in our silent, joined-hand perimeter.
 
@@ -2825,7 +2825,7 @@ I felt a microscopic slackening in Rachel’s grip. For the first time since Tue
 
 ### Part 5: The ICU Encounter
 
-**Date:** 1995-08-18 at 15:30 ET
+**Date:** 1995-08-18 at 15:30 America/New_York
 
 The afternoon stretched into a blur of blood draws and beeping IV pumps. Mom eventually had to step out to the hallway to find a payphone to update Jessica and Dad. When she came back into the trauma bay fifteen minutes later, she looked like she had seen a ghost.
 
@@ -2845,7 +2845,7 @@ I looked at the massive, dark purple footprint on my own stomach. I was ten. I w
 
 ### Part 6: The Statement
 
-**Date:** 1995-08-18 at 16:30 ET
+**Date:** 1995-08-18 at 16:30 America/New_York
 
 The heavy glass door of the trauma bay slid open, and Detective Harris stepped back in. He looked tired, his tie loosened, but his eyes were kind.
 
@@ -2903,7 +2903,7 @@ By the time I was finished, Mom was sobbing into her hands, and Detective Harris
 
 ### Part 7: The Pack Assembles
 
-**Date:** 1995-08-18 at 18:15 ET
+**Date:** 1995-08-18 at 18:15 America/New_York
 
 The harsh, fluorescent overhead lights of the trauma bay were eventually dimmed, replaced by the soft, amber glow of the monitors and the steady, rhythmic hum of the IV pumps.
 
@@ -2969,7 +2969,7 @@ The illusion of Tidewater Tumblers was dead, and the adults who had allowed it t
 
 ### Part 8: The Empty Mats
 
-**Date:** 1995-08-18 at 17:15 ET
+**Date:** 1995-08-18 at 17:15 America/New_York
 
 The sanctioned, fully permitted dojang in April’s garage was the exact opposite of the harsh, fluorescent purgatory at Tidewater Tumblers.
 
@@ -3037,7 +3037,7 @@ April closed her eyes, took a deep, shuddering breath, and manually locked her t
 
 ### Part 9: The Ultimate Bow
 
-**Date:** 1995-08-18 at 18:45 ET
+**Date:** 1995-08-18 at 18:45 America/New_York
 
 The heavy glass door of the trauma bay slid open with a soft hiss.
 
@@ -3087,7 +3087,7 @@ We were lying in a hospital, broken and bruised, but the perimeter was secure. D
 
 ### Part 10: The Promise
 
-**Date:** 1995-08-18 at 18:50 ET
+**Date:** 1995-08-18 at 18:50 America/New_York
 
 April stayed in the narrow gap between our hospital beds. The frantic, terrified energy that had consumed the afternoon was entirely gone, replaced by a quiet, fierce warmth.
 
@@ -3135,7 +3135,7 @@ We just had to wait for the doctors to give us the green light.
 
 ### Part 11: The Anchor
 
-**Date:** 1995-08-18 at 19:15 ET
+**Date:** 1995-08-18 at 19:15 America/New_York
 
 The clock on the wall of the trauma bay ticked past seven. The amber light from the monitors cast long, quiet shadows across the linoleum, and the heavy blanket of exhaustion was finally beginning to overtake the adrenaline in the room.
 
@@ -3183,7 +3183,7 @@ We had won.
 
 ### Part 12: The Perimeter
 
-**Date:** 1995-08-18 at 20:00 ET
+**Date:** 1995-08-18 at 20:00 America/New_York
 
 The pediatric trauma bay had settled into a quiet, heavy rhythm. The harsh adrenaline of the afternoon had finally burned off, leaving behind a deep, collective exhaustion.
 
@@ -3239,7 +3239,7 @@ As the glass door slid shut, securing us back in the quiet isolation of the trau
 
 ### Part 13: The Night Shift
 
-**Date:** 1995-08-18 at 21:00 ET
+**Date:** 1995-08-18 at 21:00 America/New_York
 
 By nine o'clock, the reality of hospital protocol finally breached our sanctuary.
 
@@ -3289,7 +3289,7 @@ The hospital was a miserable place to spend the night. We were in pain, exhauste
 
 ### Part 1: Kehr’s Sign
 
-**Date:** 1995-08-19 at 07:30 ET
+**Date:** 1995-08-19 at 07:30 America/New_York
 
 The gray light of dawn slowly transitioned into the harsh, uncompromising brightness of Saturday morning.
 
@@ -3353,7 +3353,7 @@ I reached my hand back across the gap between the beds. After a moment, Rachel l
 
 ### Part 2: The Second Snap
 
-**Date:** 1995-08-19 at 07:45 ET
+**Date:** 1995-08-19 at 07:45 America/New_York
 
 The heavy, suffocating weight of Rachel's four-month prognosis settled over the trauma bay. Dad was still leaning over her bed, holding her hand, murmuring soft, fierce promises into the quiet hum of the machinery.
 
@@ -3441,7 +3441,7 @@ Dad paused, looking back through the glass window of the trauma bay, watching Ra
 
 ### Part 3: The Broken Anchor
 
-**Date:** 1995-08-19 at 10:00 ET
+**Date:** 1995-08-19 at 10:00 America/New_York
 
 The trauma bay was crowded. Mom, Jessica, and Janette had arrived just as the trauma attending physician returned with the discharge coordinator to map out the logistics of our recovery.
 
@@ -3519,7 +3519,7 @@ The illusion of a simple recovery at home was gone. The living room wasn't just 
 
 ### Part 4: The Transport
 
-**Date:** 1995-08-19 at 13:30 ET
+**Date:** 1995-08-19 at 13:30 America/New_York
 
 Discharge was delayed by three agonizing hours.
 
@@ -3571,7 +3571,7 @@ We were trapped on this sofa for the next four months, but we were finally, trul
 
 ### Part 5: The Protocols of Base Camp
 
-**Date:** 1995-08-19 at 18:00 ET
+**Date:** 1995-08-19 at 18:00 America/New_York
 
 By early evening, the heavy narcotic haze from the hospital sedatives began to wear off, replaced by the deep, throbbing reality of our injuries and the sudden, pressing need for basic bodily functions.
 
@@ -3627,7 +3627,7 @@ The indignity of our injuries was immense. But the pack had built a system that 
 
 ### Part 6: The Night Watch
 
-**Date:** 1995-08-19 at 22:30 ET
+**Date:** 1995-08-19 at 22:30 America/New_York
 
 The transition from day to night in our new living room fortress required a delicate, deliberate shifting of gears.
 
@@ -3699,7 +3699,7 @@ The adults were upstairs. But the pack was holding the line.
 
 ### Part 1: Bear and Bug
 
-**Date:** 1995-08-20 at 08:00 ET
+**Date:** 1995-08-20 at 08:00 America/New_York
 
 The soft, hazy light of Sunday morning filtered through the living room blinds, casting long, quiet shadows over our makeshift base camp.
 
@@ -3769,7 +3769,7 @@ Rachel’s breath hitched. Her eyes darted toward Dad, the mention of the monste
 
 ### Part 2: The Morning Logistics
 
-**Date:** 1995-08-20 at 09:00 ET
+**Date:** 1995-08-20 at 09:00 America/New_York
 
 The heavy, militant promise of Monday's court hearing hung in the air, but the immediate reality of Sunday morning still had to be navigated. The adrenaline of Dad's speech faded, leaving behind the stark, physical limitations of our broken bodies.
 
@@ -3825,7 +3825,7 @@ The morning routine was exhausting, humiliating, and physically painful. But the
 
 ### Part 3: The Interrogation
 
-**Date:** 1995-08-20 at 10:30 ET
+**Date:** 1995-08-20 at 10:30 America/New_York
 
 By ten o'clock in the morning, the exhausting reality of our new limitations had thoroughly set in. The grueling logistics of eating and the bathroom routine had left our bodies throbbing.
 
@@ -3899,7 +3899,7 @@ The living room belonged to the pack once again. Jessica hit play on the VCR rem
 
 ### Part 4: Stripping the Titles
 
-**Date:** 1995-08-20 at 10:15 ET
+**Date:** 1995-08-20 at 10:15 America/New_York
 
 The heavy wooden door swung shut, sealing the kitchen off from the living room.
 
@@ -3957,7 +3957,7 @@ Grandma Loretta slowly nodded, a terrifying, matriarchal fire lighting up in her
 
 ### Part 5: The Outer Perimeter
 
-**Date:** 1995-08-20 at 11:30 ET
+**Date:** 1995-08-20 at 11:30 America/New_York
 
 The heavy wooden door connecting the kitchen to the living room slowly pushed open.
 
@@ -3995,7 +3995,7 @@ Surrounded by my sisters and my cousins, completely shielded from the crushing w
 
 ### Part 6: The Hygiene Protocol
 
-**Date:** 1995-08-20 at 20:00 ET
+**Date:** 1995-08-20 at 20:00 America/New_York
 
 As Sunday evening set in, the physical reality of lying on a mattress for three days straight began to catch up with us. The hospital smell—a sterile mix of iodine, rubbing alcohol, and medical tape—was clinging to our skin, mixing with the stale sweat of our own fear.
 
@@ -4059,7 +4059,7 @@ The base camp was clean, the perimeter was secure, and Sunday was officially ove
 
 ### Part 7: The Night Watch
 
-**Date:** 1995-08-20 at 20:30 ET
+**Date:** 1995-08-20 at 20:30 America/New_York
 
 By half past eight, the adrenaline of the day had completely burned off, leaving the house heavy with the impending weight of Monday morning.
 

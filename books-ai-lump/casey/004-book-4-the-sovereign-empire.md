@@ -9,7 +9,7 @@ series: "The Quantum Directive: The Caretakers"
 
 ### Part 1: The Deviation
 
-**Date:** 2014-01-14 at 18:00 PT
+**Date:** 2014-01-14 at 18:00 America/Los_Angeles
 
 The winter sun had already dipped below the Pacific Northwest evergreens, casting long, geometric shadows across the pristine courtyards of the Quantum campus. Inside the corner office of the executive suite, the frantic, high-stakes operational tempo of the day was finally beginning to slow.
 
@@ -61,7 +61,7 @@ David nodded, accepting the executive necessity, and immediately negotiated the 
 
 ### Part 2: The Pack Dinner
 
-**Date:** 2014-01-14 at 18:30 PT
+**Date:** 2014-01-14 at 18:30 America/Los_Angeles
 
 The sprawling glass atrium of the Building 33 lobby was practically deserted by half-past six. The daytime receptionist had long since gone home, leaving only a pair of quiet, highly trained corporate security guards monitoring the entry turnstiles.
 
@@ -129,7 +129,7 @@ With her physical baseline proactively secured and her mind remaining razor-shar
 
 ### Part 3: The Vault
 
-**Date:** 2014-01-14 at 21:30 PT
+**Date:** 2014-01-14 at 21:30 America/Los_Angeles
 
 The sprawling Quantum campus in Redmond was entirely dark, save for the geometric grids of security lights illuminating the courtyards and the glowing, impenetrable glass perimeter of Building 33. Inside the top-floor executive suite, the ambient noise of the multi-billion-dollar empire had faded into absolute silence. The administrative assistants were gone. The PR handlers had been dismissed hours ago. The only people left in the highly secure, soundproofed corner office were the three architects of the modern digital age, and the nurse who kept one of them upright.
 
@@ -181,7 +181,7 @@ Cassandra looked at the two men who had shaped her entire adult life. She didn't
 
 ### Part 4: The Sovereign News
 
-**Date:** 2014-01-14 at 22:30 PT
+**Date:** 2014-01-14 at 22:30 America/Los_Angeles
 
 The crisp January air was biting as Cassandra wheeled herself the few short blocks from the glowing glass facade of Building 33 to the quiet, tree-lined cul-de-sac where her property sat. The sprawling, 3,800-square-foot Pacific Northwest rambler was a fortress of commercial-grade accessibility, and as the front door clicked open, the warm, familiar ambient noise of her family instantly washed over her.
 
@@ -237,7 +237,7 @@ As the Guanfacine took hold, the deafening roar of corporate logistics, server d
 
 ### Part 1: The Morning Baseline
 
-**Date:** 2014-01-15 at 07:00 PT
+**Date:** 2014-01-15 at 07:00 America/Los_Angeles
 
 The alarm on Cassandra’s phone chimed a soft, melodic tone, instantly cutting through the quiet warmth of the master suite.
 
@@ -269,7 +269,7 @@ Casey threw her arms around Cassandra's neck for a massive, deep-pressure hug, f
 
 ### Part 2: The Executive Pre-Flight
 
-**Date:** 2014-01-15 at 08:30 PT
+**Date:** 2014-01-15 at 08:30 America/Los_Angeles
 
 The crisp January air was biting as Cassandra wheeled herself the short distance from her property, crossing into the impeccably landscaped, sprawling footprint of the Quantum campus. David walked right at her shoulder, his presence an absolute, immovable constant in her perimeter.
 
@@ -305,7 +305,7 @@ At 9:55 AM, flanked by the billionaire founder and the outgoing CEO of Quantum, 
 
 ### Part 3: The Succession Consensus
 
-**Date:** 2014-01-15 at 10:00 PT
+**Date:** 2014-01-15 at 10:00 America/Los_Angeles
 
 The atmosphere inside the Building 33 boardroom was thick with corporate anxiety.
 
@@ -389,7 +389,7 @@ The war room was hers. Cassandra Vance was officially tapped to be Quantum’s n
 
 ### Part 4: The Global Broadcast
 
-**Date:** 2014-01-15 at 11:00 PT
+**Date:** 2014-01-15 at 11:00 America/Los_Angeles
 
 The heavy, frosted-glass double doors of the boardroom swung open, and the hum of executive applause echoed down the carpeted hallway of Building 33.
 
@@ -447,7 +447,7 @@ Within seconds, internal chat channels, team message boards, and campus email se
 
 ### Part 5: The Shadow Wallet
 
-**Date:** 2014-01-15 at 11:12 PT
+**Date:** 2014-01-15 at 11:12 America/Los_Angeles
 
 David Vance sat at his dedicated, comfortable desk positioned out of the direct line of corporate traffic in the corner of the executive suite. As Cassandra's Licensed Practical Nurse, his sole metric for success was her medical stability. He kept a silent medical overwatch, his eyes flicking between her micro-expressions and the real-time EKG data streaming to his tablet via a highly secure, built-in GPS and cellular uplink.
 
@@ -499,7 +499,7 @@ A soft, vibrating confirmation hummed from the device.
 
 ### Part 6: The Global Desk
 
-**Date:** 2014-01-15 at 11:20 PT
+**Date:** 2014-01-15 at 11:20 America/Los_Angeles
 
 Cassandra looked at the heavy black metal in her hand. To her highly pragmatic mind, it was just a charge card. A tool for transactions. She slipped it out of its velvet presentation box and turned to her docked Quantum laptop.
 
@@ -597,7 +597,7 @@ Steve looked down at the thirty-five-year-old CEO-designate and her brother, who
 
 ### Part 7: The Actuarial Risk
 
-**Date:** 2014-01-15 at 11:45 PT
+**Date:** 2014-01-15 at 11:45 America/Los_Angeles
 
 The silence in the corner office was profound. Cassandra Vance stared at the silver-barreled fountain pen in her hand, the sheer, staggering reality of the Meridian Global Desk still settling into her highly analytical processor.
 
@@ -677,7 +677,7 @@ Steve Ballantine pushed off the glass wall, a massive, triumphant grin spreading
 
 ### Part 8: The Route 230 Protocol
 
-**Date:** 2014-01-15 at 12:15 PT
+**Date:** 2014-01-15 at 12:15 America/Los_Angeles
 
 By noon, the Redmond campus was buzzing with an electric, celebratory energy. The global email had deployed, and the "Courtyard CEO" was officially the successor.
 
@@ -729,7 +729,7 @@ She was about to run the empire, but she was never going to forget the people wh
 
 ### Part 9: The Bellevue Reunion
 
-**Date:** 2014-01-15 at 13:30 PT
+**Date:** 2014-01-15 at 13:30 America/Los_Angeles
 
 When Cassandra Vance rolled into the twelfth-floor bullpen of Quantum's Downtown Bellevue tower, flanked closely by her brother David, the entire floor came to a complete, stunned halt.
 
@@ -797,7 +797,7 @@ From the next desk over, the older, gray-haired database architect caught the ro
 
 ### Part 10: The Express Route
 
-**Date:** 2014-01-15 at 17:15 PT
+**Date:** 2014-01-15 at 17:15 America/Los_Angeles
 
 Cassandra spent the entire afternoon holding court in the Bellevue communal workspace. She didn't just dispense executive wisdom; she actively engaged with the newest generation of Quantum engineers, absorbing their modern frameworks and asking incisive, highly technical questions. By the time 5:00 PM rolled around, her piano-black laptop was filled with notes on new asynchronous routing protocols and database mappers.
 
@@ -833,7 +833,7 @@ The Board of Directors loved her, Wall Street had surged on her announcement, an
 
 ### Part 11: The Sovereign Perimeter
 
-**Date:** 2014-01-15 at 18:15 PT
+**Date:** 2014-01-15 at 18:15 America/Los_Angeles
 
 The heavy, articulated TAPS Express 564 bus hissed to a smooth halt at the Overlake Transit Center, lowering its mechanical ramp onto the damp concrete.
 

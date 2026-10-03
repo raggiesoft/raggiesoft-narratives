@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: Jessica’s Wake Up Call
 
-**Date:** 1999-08-09 at 06:00 ET
+**Date:** 1999-08-09 at 06:00 America/New_York
 
 The alarm clock sounded, and Jessica prodded me awake. "My last band camp!" She sounded excited, but I was still struggling to wake up.
 
@@ -33,7 +33,7 @@ We had our breakfast, hugged Rachel and our dogs goodbye, and got in the car. "I
 
 ### Part 2: Band Camp
 
-**Date:** 1999-08-09 at 08:00 ET
+**Date:** 1999-08-09 at 08:00 America/New_York
 
 We arrived and Mr. Panoff, the band director, was there to greet us. "Good morning Jessica," He said.
 
@@ -55,7 +55,7 @@ I was not prepared for how loud the room would get when all the instruments were
 
 ### Part 1: Black Friday
 
-**Date:** 1999-11-01 at 16:15 ET
+**Date:** 1999-11-01 at 16:15 America/New_York
 
 The day after Thanksgiving was an unshakeable routine. Dad always spent Black Friday hanging the holiday lights. By late afternoon, the chilly Virginia autumn air had settled in, and the fading daylight made the Delaney Street house look even more distinctly 1990s—its original bright orange wooden siding contrasting sharply with the dark brown paint of the garage door.
 
@@ -101,7 +101,7 @@ It wasn't long before they had her strapped onto a backboard, loaded onto a stre
 
 ### Part 2: Tidewater General
 
-**Date:** 1999-11-01 at 17:15 ET
+**Date:** 1999-11-01 at 17:15 America/New_York
 
 The ride to Tidewater General Hospital was a silent, agonizing blur of neon streetlights and early winter darkness.
 
@@ -151,7 +151,7 @@ Standing in that terrifying hospital waiting room, I locked onto that timeline l
 
 ### Part 3: The Trauma Bay
 
-**Date:** 1999-11-01 at 19:30 ET
+**Date:** 1999-11-01 at 19:30 America/New_York
 
 The Trauma Bay at Tidewater General was a sensory assault. The air was thick with the sharp, chemical sting of iodine and clinical bleach, and the acoustic space was dominated by the relentless, chaotic beeping of heart monitors and the rapid, overlapping voices of scrub nurses.
 
@@ -219,7 +219,7 @@ Jessica stared at him for a long moment. The heavy painkillers were finally pull
 
 ### Part 4: The Empty House
 
-**Date:** 1999-11-01 at 20:00 ET
+**Date:** 1999-11-01 at 20:00 America/New_York
 
 By 8:00 PM, the sterile, fluorescent reality of Tidewater General Hospital had completely drained our batteries. As much as Rachel and I wanted to anchor ourselves to Jessica's bedside, the strict Trauma ICU protocols and our sheer physical exhaustion forced us to retreat. Mom kissed our foreheads, promising to call if anything changed, and stayed behind to hold the line at the hospital.
 
@@ -267,7 +267,7 @@ The house was fractured, and our older sister was miles away in a hospital bed w
 
 ### Part 1: The Daytime Warden
 
-**Date:** 1999-11-27 at 08:00 ET
+**Date:** 1999-11-27 at 08:00 America/New_York
 
 The heavy, rhythmic thumping of two dog tails against the mattress woke me up.
 
@@ -347,7 +347,7 @@ The hospital was loud, terrifying, and unpredictable, but inside Room 412, the p
 
 ### Part 2: The Logic Blueprint
 
-**Date:** 1999-11-27 at 10:30 ET
+**Date:** 1999-11-27 at 10:30 America/New_York
 
 The rhythmic, predictable *click-click-click* of Grandma Loretta’s wooden knitting needles had completely stabilized the acoustic environment of Room 412. Rachel and I remained perfectly anchored in our two-person perimeter next to the bed, listening to the quiet hum of the hospital's HVAC system.
 
@@ -407,7 +407,7 @@ She opened her eyes, forced her hands back onto the plastic keyboard, and contin
 
 ### Part 1: The Accessibility Calculation
 
-**Date:** 1999-12-24 at 08:30 ET
+**Date:** 1999-12-24 at 08:30 America/New_York
 
 The morning routine at 1852 Delaney Street operated with rigid, mechanical precision.
 
@@ -457,7 +457,7 @@ Mom looked at the two of us, recognizing the unbroken pack integrity. She let ou
 
 ### Part 2: The Biological Anchors
 
-**Date:** 1999-12-24 at 09:35 ET
+**Date:** 1999-12-24 at 09:35 America/New_York
 
 Mom moved efficiently out of the narrow galley kitchen, carrying four ceramic bowls of cereal to the dark-stained wooden dining table. She set one down in front of Jessica's docked wheelchair, slid one across to Rachel, placed mine down, and took the final seat for herself.
 
@@ -481,7 +481,7 @@ It was a completely standard, chaotic morning routine. But amidst the looming, s
 
 ### Part 3: The Logistics of Hope
 
-**Date:** 1999-12-24 at 16:15 ET
+**Date:** 1999-12-24 at 16:15 America/New_York
 
 The coastal Virginia winter air had a sharp, biting chill to it by late afternoon. The sky over Delaney Street was already beginning to bruise into a pale, bruised purple as Mom backed her sedan out of the garage and idled it in the driveway.
 
@@ -529,7 +529,7 @@ I leaned my weight back against her, providing the heavy, crushing pressure her 
 
 ### Part 4: The Honorary Lifters
 
-**Date:** 1999-12-24 at 17:00 ET
+**Date:** 1999-12-24 at 17:00 America/New_York
 
 The drive to Grandma Loretta’s house was a tense, quiet calculation of holiday traffic and cold weather, but the moment Mom’s sedan turned into the driveway, a wave of profound relief washed over the car.
 
@@ -599,7 +599,7 @@ I sank down onto the carpet next to Rachel and Ashley, the three of us forming o
 
 ### Part 5: The Perimeter Defense
 
-**Date:** 1999-12-24 at 17:27 ET
+**Date:** 1999-12-24 at 17:27 America/New_York
 
 Grandma Loretta’s house was operating at absolute, maximum sensory capacity.
 
@@ -651,7 +651,7 @@ I looked at the clock on the wall. It was 5:30 PM. My stomach gave a loud, hollo
 
 ### Part 6: The Alibi and the Feast
 
-**Date:** 1999-12-24 at 17:42 ET
+**Date:** 1999-12-24 at 17:42 America/New_York
 
 At 5:42 PM, the heavy wooden front door finally swung open, letting a sharp blast of freezing coastal air into the crowded foyer.
 
@@ -687,7 +687,7 @@ As the opening credits of the next holiday movie played on the heavy CRT televis
 
 ### Part 7: The System Overload
 
-**Date:** 1999-12-24 at 18:10 ET
+**Date:** 1999-12-24 at 18:10 America/New_York
 
 My fork scraped against the ceramic plate, pushing a piece of honey-glazed ham around, but my processor was completely detached from the dining room. I was running the simulation for tomorrow. *Open door. Merry Christmas. Light hug.* Just the thought of Bonnie standing on our porch, smiling at me, sent a sudden, massive flush of heat straight up my neck and into my cheeks.
 
@@ -737,7 +737,7 @@ Anchored by the deep pressure of my Bug, the logic of my Sentinel, and the unyie
 
 ### Part 8: The Sensory Safe Menu
 
-**Date:** 1999-12-24 at 19:00 ET
+**Date:** 1999-12-24 at 19:00 America/New_York
 
 The heavy, savory weight of the honey-glazed ham and oyster stuffing was finally cleared from the dining room, the card table, and our wobbly TV trays. The chaotic hum of the house shifted gears as Grandma Loretta emerged from the kitchen, heralding the arrival of dessert.
 
@@ -763,7 +763,7 @@ As the cool, sugary weight of the dessert hit my system, the last lingering stat
 
 ### Part 9: The Perimeter Epiphany
 
-**Date:** 1999-12-24 at 19:30 ET
+**Date:** 1999-12-24 at 19:30 America/New_York
 
 By 7:30 PM, the heavy, post-dinner exhaustion had officially settled over Grandma Loretta's house. The goodbyes were loud and chaotic, echoing out into the freezing Virginia night as we all spilled out onto the driveway.
 
@@ -803,7 +803,7 @@ Mom opened the passenger door to help Jessica, leaving the trunk to us. Rachel a
 
 ### Part 10: The Santa Stakeout
 
-**Date:** 1999-12-24 at 19:50 ET
+**Date:** 1999-12-24 at 19:50 America/New_York
 
 The heavy brown painted wooden garage door was closed, and by 7:50 PM, we were officially locked inside the perimeter of 1852 Delaney Street.
 
@@ -875,7 +875,7 @@ But the warmth of the quilts, the hypnotic glow of the tree lights, and the abso
 
 ### Part 1: The Phantom Drop
 
-**Date:** 1999-12-25 at 04:21 ET
+**Date:** 1999-12-25 at 04:21 America/New_York
 
 My internal clock woke me with a sudden, quiet jolt. I blinked in the dark, my eyes slowly adjusting to the multi-colored glow of the Christmas tree illuminating the living room. The green digital numbers on the VCR clock read exactly 4:21 AM.
 
@@ -917,7 +917,7 @@ I pulled the heavy winter quilts tighter over our shoulders. Rachel pressed her 
 
 ### Part 2: The Green Light
 
-**Date:** 1999-12-25 at 06:42 ET
+**Date:** 1999-12-25 at 06:42 America/New_York
 
 For two hours and twenty-one minutes, we laid perfectly still under the winter quilts, watching the glowing green digits on the VCR clock slowly tick forward. The anticipation was a heavy, electric weight pressing against our chests, but we held the perimeter exactly as Jessica commanded.
 
@@ -947,7 +947,7 @@ Mom walked over to the wall, flipped the switch to turn on the Christmas tree li
 
 ### Part 3: The Drop Zone
 
-**Date:** 1999-12-25 at 07:00 ET
+**Date:** 1999-12-25 at 07:00 America/New_York
 
 The unwrapped magic staged by Santa Claus was nothing short of a logistical masterpiece.
 
@@ -981,7 +981,7 @@ She held the box tightly in her lap, her eyes already running the installation a
 
 ### Part 4: The Sentinel’s Briefing
 
-**Date:** 1999-12-25 at 09:00 ET
+**Date:** 1999-12-25 at 09:00 America/New_York
 
 By 9:00 AM, the torn wrapping paper had been mostly cleared into trash bags, and the living room was settling into a comfortable, exhausted post-gift haze. Then, a sharp, familiar knock sounded at the front door.
 
@@ -1037,7 +1037,7 @@ Ashley wasn't leaving. She was looking forward to seeing Bonnie just as much as 
 
 ### Part 5: The Social Algorithm
 
-**Date:** 1999-12-25 at 11:45 ET
+**Date:** 1999-12-25 at 11:45 America/New_York
 
 At 11:45 AM on Christmas Day, the trauma of the Black Friday drop was temporarily pushed to the background. My internal processor was actively redlining over a completely different, infinitely more terrifying variable.
 
@@ -1077,7 +1077,7 @@ I took a deep, shaky breath, nodding. *Open door. Merry Christmas. Light hug. Br
 
 ### Part 6: The First Crush
 
-**Date:** 1999-12-25 at 12:00 ET
+**Date:** 1999-12-25 at 12:00 America/New_York
 
 At exactly noon, the doorbell rang.
 
@@ -1143,7 +1143,7 @@ She didn't mind it at all. In fact, knowing the pack had actively worked togethe
 
 ### Part 7: The Christmas Tree Portrait
 
-**Date:** 1999-12-25 at 12:10 ET
+**Date:** 1999-12-25 at 12:10 America/New_York
 
 "Okay, before you leave, we need a picture," Ashley announced, suddenly stepping into the center of the room. She was holding a bright yellow disposable camera, taking absolute directorial command of the living room.
 
@@ -1195,7 +1195,7 @@ Bonnie offered a sympathetic smile. Because she was enrolled in the Math and Sci
 
 ### Part 8: The Emotional High
 
-**Date:** 1999-12-25 at 12:15 ET
+**Date:** 1999-12-25 at 12:15 America/New_York
 
 I pushed the heavy front door shut, the brass latch clicking securely into the strike plate.
 
@@ -1239,7 +1239,7 @@ As Mom steered the sedan away from Rich Court and merged onto the main road, Tom
 
 ### Part 9: The Missing Exposure
 
-**Date:** 1999-12-25 at 13:30 ET
+**Date:** 1999-12-25 at 13:30 America/New_York
 
 The transition from the quiet, highly controlled environment of 1852 Delaney Street into the chaotic epicenter of Grandma Loretta's house was always a massive sensory hurdle.
 
@@ -1309,7 +1309,7 @@ Rachel finally unlatched from my chest, her dark eyes shining with relief. The h
 
 ### Part 10: The Syntax of Survival
 
-**Date:** 1999-12-25 at 14:30 ET
+**Date:** 1999-12-25 at 14:30 America/New_York
 
 The absolute second Dad backed the sedan into the driveway of 1852 Delaney Street, the agonizing holiday delay was officially over.
 
@@ -1389,7 +1389,7 @@ But I knew the sound of my older sister taking absolute, uncompromising control 
 
 ### Part 11: The Bare-Metal Blueprint
 
-**Date:** 1999-12-25 at 16:00 ET
+**Date:** 1999-12-25 at 16:00 America/New_York
 
 By 4:00 PM, the winter sun was already beginning to set outside the front windows of 1852 Delaney Street, casting long, dark shadows across the dark blue polyester carpet. The rest of the house had settled into a quiet, post-holiday exhaustion. Dad was asleep in the master bedroom before his next Baja Taco shift, and Mom was reading in the galley kitchen.
 
@@ -1467,7 +1467,7 @@ It wasn't just typing. To Rachel and me, it was the sound of the perimeter being
 
 ### Part 12: Christmas Day Dinner
 
-**Date:** 1999-12-25 at 17:00 ET
+**Date:** 1999-12-25 at 17:00 America/New_York
 
 The space underneath the slatted wooden stairs of 1852 Delaney Street was completely insulated from the rising acoustic volume of the house.
 
@@ -1529,7 +1529,7 @@ The perimeter was safe.
 
 ### Part 13: The Infinite Loop
 
-**Date:** 1999-12-25 at 19:00 ET
+**Date:** 1999-12-25 at 19:00 America/New_York
 
 By 7:00 PM, the massive turkey dinner had been completely dismantled, and the adults had retreated to the living room with heavy mugs of coffee. But the dissipation of the meal didn't calm the house down; it merely opened up the physical floor plan for the younger cousins to exploit.
 
@@ -1585,7 +1585,7 @@ She cracked her knuckles, pushed her tinted glasses up her nose, and turned back
 
 ### Part 14: The Night Watch
 
-**Date:** 1999-12-25 at 22:30 ET
+**Date:** 1999-12-25 at 22:30 America/New_York
 
 By 10:30 PM, the acoustic assault of the extended family finally began to recede.
 
@@ -1657,7 +1657,7 @@ To a standard-hardware relative, it might have sounded like a distraction keepin
 
 ### Part 1: The Bare Metal
 
-**Date:** 1999-12-26 at 01:00 ET
+**Date:** 1999-12-26 at 01:00 America/New_York
 
 The digital perimeter was collapsing, and it sounded exactly like a dying lawnmower.
 
@@ -1705,7 +1705,7 @@ She stared at it for a long moment. Then, she hit backspace, deleting the lines.
 
 ### Part 2: Severing the Runtime
 
-**Date:** 1999-12-26 at 01:45 ET
+**Date:** 1999-12-26 at 01:45 America/New_York
 
 She sat back in her chair, the blue light of the monitor reflecting off her lenses. She was trapped between the absolute limitations of a cheap 1995 computer and the brutal ticking of a 2000 deadline.
 
@@ -1743,7 +1743,7 @@ She was creating a hybrid weapon. It had the speed of C, the absolute, microscop
 
 ### Part 3: The Holding Pattern
 
-**Date:** 1999-12-26 at 03:00 ET
+**Date:** 1999-12-26 at 03:00 America/New_York
 
 By 3:00 AM, the patch was written.
 

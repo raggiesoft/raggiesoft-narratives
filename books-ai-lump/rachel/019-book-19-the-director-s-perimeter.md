@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The SME Directive
 
-**Date:** 2007-05-16 at 09:15 ET
+**Date:** 2007-05-16 at 09:15 America/New_York
 
 The heavy, reinforced oak door to Conference Room 4B lacked an automatic push-plate.
 
@@ -79,7 +79,7 @@ It was time to buy some dirt.
 
 ### Part 1: The Twenty-First Milestone
 
-**Date:** 2007-05-25 at 18:30 ET
+**Date:** 2007-05-25 at 18:30 America/New_York
 
 In the neurotypical civilian world, turning twenty-one is a loud, chaotic, and culturally mandated rite of passage. The societal script dictates that you gather a massive group of people, descend upon crowded bars, and consume as much unpredictable, volatile alcohol as physically possible.
 
@@ -137,7 +137,7 @@ Rachel opened her eyes and looked around the booth. She looked at Ashley, her or
 
 ### Part 2: The Subprime Shield
 
-**Date:** 2007-05-25 at 20:15 ET
+**Date:** 2007-05-25 at 20:15 America/New_York
 
 By late May 2007, the national news was dominated by a single, terrifying headline: the subprime mortgage crisis.
 
@@ -175,7 +175,7 @@ Before we hit the impending traffic jam at Green Meadows, I hit the turn signal 
 
 ### Part 3: The Moosewood Anomaly
 
-**Date:** 2007-05-25 at 20:25 ET
+**Date:** 2007-05-25 at 20:25 America/New_York
 
 Moosewood Drive was a quiet, unassuming residential artery. The frantic, aggressive energy of the detoured traffic instantly vanished behind us. The street was lined with modest, suburban homes and mature pine trees, completely insulated from the roar of Independence Boulevard.
 
@@ -219,7 +219,7 @@ The heavy, profound realization of what she was proposing hit my chest. We weren
 
 ### Part 4: The Evasive Route
 
-**Date:** 2007-05-25 at 20:35 ET
+**Date:** 2007-05-25 at 20:35 America/New_York
 
 I pulled the van's gearshift back into drive, my processor completely electrified by the concept of the custom fortress.
 
@@ -251,7 +251,7 @@ As we walked up the ADA-graded concrete path to our front door, Rachel laced her
 
 ### Part 1: The Route 36 Commute
 
-**Date:** 2007-05-29 at 06:40 ET
+**Date:** 2007-05-29 at 06:40 America/New_York
 
 The three-day Memorial Day weekend officially ended, and the civilian world was waking back up. But inside the Canadian Arch townhouse, the pack’s operational rhythm was already flawlessly clicking into gear.
 
@@ -279,7 +279,7 @@ But right now, she had a bank to dismantle.
 
 ### Part 2: The Corporate Guillotine
 
-**Date:** 2007-05-29 at 08:05 ET
+**Date:** 2007-05-29 at 08:05 America/New_York
 
 Jessica swiped her heavy-duty Quantum ID at the 21st-floor security vestibule. The frosted glass doors slid open, granting her access to Quantum East.
 
@@ -321,7 +321,7 @@ Now, the true architectural challenge began.
 
 ### Part 1: The Demolition Directive
 
-**Date:** 2007-06-15 at 07:45 ET
+**Date:** 2007-06-15 at 07:45 America/New_York
 
 The Virginia morning was already thick with the familiar, suffocating coastal humidity by the time I steered the heavy transit van onto Moosewood Drive.
 
@@ -353,7 +353,7 @@ She knew exactly what that machine was about to do, and the sheer, mathematical 
 
 ### Part 2: The Catharsis
 
-**Date:** 2007-06-15 at 08:05 ET
+**Date:** 2007-06-15 at 08:05 America/New_York
 
 The steel bucket of the excavator slammed into the front porch of the rotting house.
 
@@ -385,7 +385,7 @@ She turned her wheelchair slightly, looking up at me, Rachel, Ashley, and Kristi
 
 ### Part 3: The Clinical Blueprint
 
-**Date:** 2007-06-15 at 13:00 ET
+**Date:** 2007-06-15 at 13:00 America/New_York
 
 We loaded back into the heavy transit van, leaving the dust of the demolished Moosewood house settling over the empty lot. The euphoric, concussive high of the morning was slowly fading, replaced by a quiet, heavy anticipation as I pulled the van out of the Silverleaf neighborhood.
 
@@ -465,7 +465,7 @@ At 7:45 AM, we had torn down the rotting, structural failure of the Moosewood ho
 
 ### Part 4: The Intact Architecture
 
-**Date:** 2007-06-15 at 16:45 ET
+**Date:** 2007-06-15 at 16:45 America/New_York
 
 The drive back from the clinic to the Canadian Arch townhouse was completely silent, but it wasn’t the tense, suffocating silence of a system lock. It was the heavy, profoundly exhausted quiet of a massive data transfer completing.
 

@@ -1265,7 +1265,7 @@ Mr. Caldwell didn't even run the credit check. Cash of that magnitude erased all
 
 ### Part 7: The Early Deployment
 
-timezone: "ET"
+timezone: "America/New_York"
 location: "Unknown"
 pov: "Nichole"
 end_time: ""

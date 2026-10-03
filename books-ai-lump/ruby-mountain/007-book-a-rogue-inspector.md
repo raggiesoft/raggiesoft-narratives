@@ -9,7 +9,7 @@ series: "ruby-mountain"
 
 ### Part 1: A Pulled Permit
 
-**Date:** 2004-01-13 ET
+**Date:** 2004-01-13 America/New_York
 
 The heavy, encrypted satellite phone on Victoria’s mahogany desk didn't ring. It chirped with the specific, high-priority frequency reserved for the WSDOT regional director.
 
@@ -91,7 +91,7 @@ She looked at Johnny, whose text-to-speech software suddenly chimed into the qui
 
 ### Part 2: The Vanguard Assembly
 
-**Date:** 2004-01-13 ET
+**Date:** 2004-01-13 America/New_York
 
 Twenty minutes after hanging up the satellite phone, Victoria Vance walked out of the Owner's Quarters and stepped up to the heavy timber railing of the second-floor mezzanine. She looked down at the Great Hall.
 
@@ -151,7 +151,7 @@ The Vanguard Assembly broke with a renewed, electric energy, the panic completel
 
 ### Part 1: Judicial Fury
 
-**Date:** 2004-01-14 ET
+**Date:** 2004-01-14 America/New_York
 
 The Thurston County Superior Court in Olympia was two hundred miles south and seven thousand feet lower than the howling alpine blizzards of Ruby Mountain. Outside the courthouse, it was simply raining—a cold, persistent, lowland drizzle.
 
@@ -235,7 +235,7 @@ She looked over at Johnny, who was watching her from his wheelchair.
 
 ### Part 2: The Rendezvous
 
-**Date:** 2004-01-14 ET
+**Date:** 2004-01-14 America/New_York
 
 The descent down to Milepost 134 was a masterclass in heavy tracked navigation. Emma Bennett did not drive the massive, bright-orange Kodiak rotary plow; she commanded it. The 500-horsepower diesel engine roared against the sheer granite walls of the Skagit gorge, the massive spiked augers chewing through five feet of fresh, hyper-compacted ice and throwing it in a magnificent, soaring arc off the edge of the highway.
 

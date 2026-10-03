@@ -9,7 +9,7 @@ series: "ruby-mountain"
 
 ### Part 1: The Rookie
 
-**Date:** 2004-02-12 ET
+**Date:** 2004-02-12 America/New_York
 
 By mid-February, the Skagit gorge wasn't just cold; it was structurally hostile. The snowpack at Milepost 134 was so dense it had the tensile strength of concrete.
 
@@ -93,7 +93,7 @@ Henderson walked past him, carrying the steaming Poly-Store Bin of Diana's chili
 
 ### Part 2: The Gridmaster
 
-**Date:** 2004-02-12 ET
+**Date:** 2004-02-12 America/New_York
 
 The cab of the Alpine-Cat was loud, but it was warm, and the rich, spiced scent of Diana Whitaker’s venison chili completely masked the smell of ozone and wet wool.
 
@@ -153,7 +153,7 @@ The SCL engineers were safe. The grid was secure. And the mountain belonged enti
 
 ### Part 1: The Civilian Instinct
 
-**Date:** 2004-02-24 ET
+**Date:** 2004-02-24 America/New_York
 
 The maintenance catwalk near the primary turbine intake of Ross Dam was encased in three inches of solid, black ice.
 
@@ -197,7 +197,7 @@ Henderson forced his eyes open, looking up at the jagged, snow-blind peaks of Ru
 
 ### Part 2: The Apex Protocol
 
-**Date:** 2004-02-24 ET
+**Date:** 2004-02-24 America/New_York
 
 Barrett didn't hesitate. He scrambled up the icy embankment, throwing open the heavy door of the Tundra-Track and ripping the VHF radio mic from the dashboard console. He cranked the dial to Channel 16—the universal emergency and distress frequency.
 

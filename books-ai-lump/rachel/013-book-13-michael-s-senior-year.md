@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Last Morning
 
-**Date:** 2003-07-14 at 07:30 ET
+**Date:** 2003-07-14 at 07:30 America/New_York
 
 I opened my eyes, the morning light filtering harshly through the plastic blinds.
 
@@ -77,7 +77,7 @@ The physical Base Camp was gone, and the long, grueling era of operating without
 
 ### Part 2: The Baldwin Briefing
 
-**Date:** 2003-07-14 at 08:45 ET
+**Date:** 2003-07-14 at 08:45 America/New_York
 
 Traffic on Interstate 264 was remarkably light for a Monday morning. Exactly forty-five minutes after locking the door to my childhood, I steered Mom’s sedan into the ground-floor parking garage of the Ghent Villas, pulling perfectly into the reserved stall exactly second from the right.
 
@@ -147,7 +147,7 @@ Ashley dropped her bag. She didn't offer empty platitudes. She just sat down dir
 
 ### Part 3: The Frictionless Trap
 
-**Date:** 2003-07-14 at 09:15 ET
+**Date:** 2003-07-14 at 09:15 America/New_York
 
 The heavy, crushing pressure of Ashley’s arms around my ribs slowly bled the buzzing panic out of my muscles. We sat on the edge of the queen-sized bed for a long time, the stifling heat of the Virginia summer pressing against the small bedroom window.
 
@@ -225,7 +225,7 @@ The walls of Base Camp had changed, but my Anchor was still standing right besid
 
 ### Part 4: The Transit Grid
 
-**Date:** 2003-07-14 at 14:00 ET
+**Date:** 2003-07-14 at 14:00 America/New_York
 
 The entry-level job hunt of 2003 was not designed for someone running on my hardware, and the logistics of the Ghent condo made it infinitely harder.
 
@@ -289,7 +289,7 @@ I leaned my heavy head against hers, closing my eyes. I didn't have a job, and t
 
 ### Part 5: The Logistical Paradox
 
-**Date:** 2003-07-14 at 17:30 ET
+**Date:** 2003-07-14 at 17:30 America/New_York
 
 The suffocating Virginia heat was still radiating off the asphalt when the front door of Unit 2E clicked open at five-thirty.
 
@@ -349,7 +349,7 @@ There was no sanctuary here. And in five weeks, I would be facing this completel
 
 ### Part 6: The Extraction Plan
 
-**Date:** 2003-07-14 at 19:30 ET
+**Date:** 2003-07-14 at 19:30 America/New_York
 
 The suffocating tension from the kitchen had followed us upstairs.
 
@@ -413,7 +413,7 @@ As she slipped out of the room, Ashley and I looked at each other. The physical 
 
 ### Part 7: The Phone Call
 
-**Date:** 2003-07-14 at 21:02 ET
+**Date:** 2003-07-14 at 21:02 America/New_York
 
 With the apartment magazine tossed onto the floor and the plan to get out of the condo officially set for tomorrow, the adrenaline of the day finally evaporated, leaving behind a heavy, bone-deep exhaustion.
 
@@ -479,7 +479,7 @@ The family was shattered across 2,800 miles, but as I lay in the dark listening 
 
 ### Part 8: The Bare Mechanics
 
-**Date:** 2003-07-14 at 21:45 ET
+**Date:** 2003-07-14 at 21:45 America/New_York
 
 We listened to the faint, comforting ambient noise of the Federal Way apartment for another thirty minutes. The static of the line was a tether, but as the clock ticked closer to ten, the exhaustion pulling at my physical chassis became impossible to ignore.
 
@@ -529,7 +529,7 @@ The physical Base Camp on Delaney Street was gone, my sisters were 2,800 miles a
 
 ### Part 1: The Best Tech Ambush
 
-**Date:** 2003-07-15 at 13:15 ET
+**Date:** 2003-07-15 at 13:15 America/New_York
 
 The extraction plan started flawlessly but quickly deteriorated into another logistical dead end.
 
@@ -617,7 +617,7 @@ Ashley didn't let go of my arm. She kept her grip locked tight, a rigid, physica
 
 ### Part 2: The Malicious Code
 
-**Date:** 2003-07-15 at 13:35 ET
+**Date:** 2003-07-15 at 13:35 America/New_York
 
 The automatic sliding doors of Best Tech parted, and the oppressive, ninety-degree heat of the Virginia afternoon slammed into us like a physical wall.
 
@@ -673,7 +673,7 @@ I opened the passenger door and carefully folded my aching, spastic legs into th
 
 ### Part 3: The Hardware Check
 
-**Date:** 2003-07-15 at 14:45 ET
+**Date:** 2003-07-15 at 14:45 America/New_York
 
 The suffocating heat of the Best Tech parking lot faded as Mom cranked the sedan’s air conditioning to the maximum setting. The physical escape from the Nexar recruiter had drained the last reserves of my internal battery. I rested my head against the cool glass of the passenger window, my CP-affected legs throbbing a dull, steady rhythm of pain.
 
@@ -755,7 +755,7 @@ The physical Base Camp on Delaney Street was gone forever. But as I looked back 
 
 ### Part 4: The Holding Pattern
 
-**Date:** 2003-07-15 at 15:15 ET
+**Date:** 2003-07-15 at 15:15 America/New_York
 
 The standard-hardware world was almost entirely built on red tape, invisible prerequisites, and corporate holding periods. Independent, mom-and-pop logistics were infinitely better, but they still operated on the basic physics of banking.
 
@@ -813,7 +813,7 @@ I let out a long, shuddering breath as we reached the sedan. The physical Base C
 
 ### Part 5: The Inventory Protocol
 
-**Date:** 2003-07-15 at 16:00 ET
+**Date:** 2003-07-15 at 16:00 America/New_York
 
 Because the logistics of Greg’s condo had changed from an indefinite prison to a strictly defined, seventy-two-hour holding pattern, my processor could handle a strategic retreat.
 
@@ -887,7 +887,7 @@ The physical objects of our survival were queued up and ready for deployment. Th
 
 ### Part 6: The On-Us Override
 
-**Date:** 2003-07-15 at 17:15 ET
+**Date:** 2003-07-15 at 17:15 America/New_York
 
 The strategic high of the mini-storage inventory evaporated the second Mom parked the sedan back in the ground-floor garage of the Ghent Villas.
 
@@ -967,7 +967,7 @@ Mom stepped in behind us, looking around the bare carpet. The furniture was stil
 
 ### Part 7: The Initial Provisioning
 
-**Date:** 2003-07-15 at 18:30 ET
+**Date:** 2003-07-15 at 18:30 America/New_York
 
 MegaMart was a sensory nightmare of fluorescent lights, echoing aisles, and chaotic foot traffic, but for the first time in weeks, my processor wasn't redlining.
 
@@ -1031,7 +1031,7 @@ Base Camp was online.
 
 ### Part 8: The New Parameter
 
-**Date:** 2003-07-15 at 19:30 ET
+**Date:** 2003-07-15 at 19:30 America/New_York
 
 By seven-thirty, the frosted toaster pastries were gone, and the laptops were closed. The amber glow of the streetlamps spilled through the small front window, casting long shadows over our newly assembled glass patio table and the queen-sized air mattress on the floor.
 
@@ -1093,7 +1093,7 @@ Ashley smiled, a quiet, radiant expression in the dark room. She leaned forward,
 
 ### Part 1: The Morning Perimeter
 
-**Date:** 2003-07-16 at 07:30 ET
+**Date:** 2003-07-16 at 07:30 America/New_York
 
 When the morning sunlight finally broke through the small front window of Unit A5, it illuminated a completely empty room, a glass patio table, and a blue air mattress. The apartment looked exactly the same.
 

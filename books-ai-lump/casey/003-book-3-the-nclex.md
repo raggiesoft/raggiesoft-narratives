@@ -9,7 +9,7 @@ series: "The Quantum Directive: The Caretakers"
 
 ### Part 1: The Scope of Practice
 
-**Date:** 2005-01-10 at 19:00 PT
+**Date:** 2005-01-10 at 19:00 America/Los_Angeles
 
 The living room of Cassandra's Federal Way apartment was quiet, save for the rhythmic tapping of my keyboard and the soft hum of the rain against the glass sliding door. 
 
@@ -51,7 +51,7 @@ I was going to earn my LPN, so that the next time I sat in a room with Cassandra
 
 ### Part 1: The Sea-Tac Crush-Load
 
-**Date:** 2005-03-18 at 14:15 PT
+**Date:** 2005-03-18 at 14:15 America/Los_Angeles
 
 The arrivals terminal at Sea-Tac International Airport was a chaotic blur of rolling suitcases, tired business travelers, and families reuniting. But standing near Baggage Carousel 4, our local perimeter was completely impenetrable. 
 
@@ -123,7 +123,7 @@ She smiled, radiating total operational control. "I have it entirely handled. Le
 
 ### Part 2: The Route 194 Deployment
 
-**Date:** 2005-03-18 at 14:45 PT
+**Date:** 2005-03-18 at 14:45 America/Los_Angeles
 
 The lower transit drive at Sea-Tac Airport was bustling with travelers, but our pack completely dominated the sidewalk. Moving fourteen people and a small mountain of luggage required military precision, but the East Coast household was used to operating as a single, highly coordinated unit. 
 
@@ -173,7 +173,7 @@ When the elevator doors opened onto Pine Street, the cool, damp Pacific Northwes
 
 ### Part 3: Checking In
 
-**Date:** 2005-03-18 at 15:20 PT
+**Date:** 2005-03-18 at 15:20 America/Los_Angeles
 
 The walk from Westlake Station to the Cascade Crest Hotel was a short, flat, perfectly paved two-block commute. After enduring the chaos of the airport and the subterranean rumble of the transit tunnel, the massive glass doors of the hotel lobby offered a luxurious, quiet sanctuary. 
 
@@ -213,7 +213,7 @@ Wendy looked at me, completely stunned by the sheer financial force of my sister
 
 ### Part 4: The Twelfth Floor
 
-**Date:** 2005-03-18 at 15:30 PT
+**Date:** 2005-03-18 at 15:30 America/Los_Angeles
 
 Cassandra wheeled away from the front desk holding a massive stack of plastic keycards. She motioned for the pack to follow her toward the main elevator bank. 
 
@@ -257,7 +257,7 @@ Kate’s face lit up. *"MY OWN ROOM?"*
 
 ### Part 5: The Banquet Room
 
-**Date:** 2005-03-18 at 16:45 PT
+**Date:** 2005-03-18 at 16:45 America/Los_Angeles
 
 The Cascade Banquet Room on the hotel's mezzanine level was typically used for mid-sized corporate board meetings, but Cassandra had transformed it into a completely secure, private dining sanctuary for fourteen. 
 
@@ -319,7 +319,7 @@ The engine was finally running at full power.
 
 ### Part 6: The Bellevue Acquisition
 
-**Date:** 2005-03-18 at 20:30 PT
+**Date:** 2005-03-18 at 20:30 America/Los_Angeles
 
 By the time we rode the elevators back up to the twelfth floor, the travel exhaustion had finally started to catch up with the pack. The adults retreated to their respective suites across the hall, leaving the core perimeter in the massive living room of the Presidential Suite. 
 
@@ -359,7 +359,7 @@ She held the phone to her ear. "Sterling? Yes, it's Vance. I need you to initiat
 
 ### Part 7: Interlude: The Bellevue Bidding War
 
-**Date:** 2005-03-19 at 09:00 ET
+**Date:** 2005-03-19 at 09:00 America/New_York
 
 The ink on the massive real estate contract was still wet. 
 
@@ -409,7 +409,7 @@ Charles hung up the phone just as his assistant rushed into the office, holding 
 
 ### Part 1: The Morning Perimeter
 
-**Date:** 2005-03-19 at 06:00 PT
+**Date:** 2005-03-19 at 06:00 America/Los_Angeles
 
 At exactly 6:00 AM Pacific Time, a sharp, authoritative knock hammered against the adjoining door of our hotel room. 
 
@@ -449,7 +449,7 @@ Casey's face instantly lit up, the early morning exhaustion vanishing entirely. 
 
 ### Part 2: The Highcliff Announcement
 
-**Date:** 2005-03-19 at 08:00 PT
+**Date:** 2005-03-19 at 08:00 America/Los_Angeles
 
 By the time eight o'clock rolled around, the entire fourteen-person pack had reassembled in the Cascade Banquet Room on the mezzanine level. The hotel had set up a massive breakfast buffet of eggs, bacon, and pastries, and the room was filled with the loud, chaotic chatter of the Virginia Beach and Rhode Island branches cross-talking over coffee. 
 
@@ -489,7 +489,7 @@ The Rhode Island girls looked at each other, instantly seeing right through Cass
 
 ### Part 3: The Redmond Hard Hat Tour
 
-**Date:** 2005-03-19 at 10:30 PT
+**Date:** 2005-03-19 at 10:30 America/Los_Angeles
 
 After polishing off the massive breakfast buffet, the fourteen of us mobilized out of the Cascade Crest Hotel and marched two blocks over to 4th Avenue. 
 
@@ -539,7 +539,7 @@ The house was breathtaking, fully showcasing Cassandra's brilliant architectural
 
 ### Part 4: The Bellevue Transfer
 
-**Date:** 2005-03-19 at 12:30 PT
+**Date:** 2005-03-19 at 12:30 America/Los_Angeles
 
 After Greg the foreman locked up the gutted framing of the Redmond house, Cassandra turned her wheelchair back toward the Overlake Transit Center. 
 
@@ -579,7 +579,7 @@ We all piled onto the historic streetcar. The operator rang the brass bell, and 
 
 ### Part 1: The VIP Experience
 
-**Date:** 2005-03-19 at 13:15 PT
+**Date:** 2005-03-19 at 13:15 America/Los_Angeles
 
 The vintage George Benson streetcar squealed to a halt at the Pike Street stop, dropping the fourteen of us right onto the heavy wooden planks of the Seattle waterfront. Directly across the boardwalk, stretching out over the dark waters of Elliott Bay on massive wooden pilings, was Pier 59: home to the Puget Sound Aquarium. 
 
@@ -609,7 +609,7 @@ The attendant handed Cassandra a thick stack of glossy tickets and premium wrist
 
 ### Part 2: The Deep Ocean Encounters
 
-**Date:** 2005-03-19 at 13:30 PT
+**Date:** 2005-03-19 at 13:30 America/Los_Angeles
 
 Operating with Cassandra's strict forty-five-minute deadline, the pack moved through the primary exhibits with military precision. We bypassed the crowded touch tanks and headed straight for the Underwater Dome—a massive, spherical, 400,000-gallon tank that allowed us to sit completely surrounded by swimming salmon, sturgeon, and Puget Sound rockfish. 
 
@@ -645,7 +645,7 @@ It was the perfect afternoon.
 
 ### Part 3: The Ride Free Area
 
-**Date:** 2005-03-19 at 17:30 PT
+**Date:** 2005-03-19 at 17:30 America/Los_Angeles
 
 After spending hours exploring the Puget Sound Aquarium, our massive fourteen-person pack emerged back onto the wooden planks of Pier 59 as the sun began to dip low over Elliott Bay. 
 
@@ -687,7 +687,7 @@ We disembarked and looked up. The sky was turning a brilliant shade of twilight 
 
 ### Part 4: Dinner in the Sky
 
-**Date:** 2005-03-19 at 18:00 PT
+**Date:** 2005-03-19 at 18:00 America/Los_Angeles
 
 The massive, golden elevators shot up the exterior of the Century Spire at terrifying speed. Through the glass, the streets of Seattle rapidly shrank into tiny grids of twilight traffic as we ascended over five hundred feet into the sky. 
 
@@ -725,7 +725,7 @@ My mom started to shrug off her heavy wool coat, moving to lay it on the wide, s
 
 ### Part 5: The Night Shift
 
-**Date:** 2005-03-19 at 19:45 PT
+**Date:** 2005-03-19 at 19:45 America/Los_Angeles
 
 By the time we finished dessert and took the heavy steel elevators back down to the base of the Century Spire, the Seattle sky was pitch black. 
 
@@ -813,7 +813,7 @@ Cassandra rolled up the blueprints and smiled at the fourteen-person pack fillin
 
 ### Part 1: Colman Dock
 
-**Date:** 2005-03-20 at 09:30 PT
+**Date:** 2005-03-20 at 09:30 America/Los_Angeles
 
 Sunday morning in downtown Seattle was an entirely different beast than Saturday. The bustling corporate energy vanished, replaced by quiet, empty streets and a thick layer of grey morning fog rolling off Elliott Bay. 
 
@@ -855,7 +855,7 @@ The agent handed Cassandra a massive stack of fourteen paper barcode tickets, al
 
 ### Part 2: The Crossing
 
-**Date:** 2005-03-20 at 10:00 PT
+**Date:** 2005-03-20 at 10:00 America/Los_Angeles
 
 `
 The walk-on boarding process at Colman Dock was entirely different from catching a city bus. When the overhead displays flashed green, our massive fourteen-person pack filtered through the automated turnstiles, scanning our paper barcodes one by one before proceeding down a long, glass-enclosed overhead walkway. 
@@ -890,7 +890,7 @@ We hurried back inside the warm passenger cabin, rejoining the adults just as th
 
 ### Part 3: The Bremerton Boardwalk
 
-**Date:** 2005-03-20 at 11:00 PT
+**Date:** 2005-03-20 at 11:00 America/Los_Angeles
 
 We funneled out of the ferry terminal, stepping into the crisp, salty air of Kitsap County. 
 
@@ -930,7 +930,7 @@ After a hectic Saturday in downtown Seattle, sitting on the Bremerton waterfront
 
 ### Part 4: The Pacific Fleet Naval Museum
 
-**Date:** 2005-03-20 at 12:30 PT
+**Date:** 2005-03-20 at 12:30 America/Los_Angeles
 
 After polishing off the massive baskets of fried halibut and thick-cut fries, our fourteen-person pack left the waterfront pub and rolled right next door. 
 
@@ -966,7 +966,7 @@ Cassandra checked her digital watch. "It's almost three o'clock," she announced,
 
 ### Part 5: The Sunday Return
 
-**Date:** 2005-03-20 at 15:00 PT
+**Date:** 2005-03-20 at 15:00 America/Los_Angeles
 
 We made our way out of the museum and headed back up the Bremerton Boardwalk toward the ferry terminal. 
 
@@ -998,7 +998,7 @@ By the time the iconic, towering silhouette of the Century Spire pierced through
 
 ### Part 6: The Private Dining Room
 
-**Date:** 2005-03-20 at 16:45 PT
+**Date:** 2005-03-20 at 16:45 America/Los_Angeles
 
 The steep, grueling incline from Colman Dock back up to the Cascade Crest Hotel was enough to completely drain whatever energy the pack had left. The moment we pushed through the massive glass doors of the lobby, the fourteen of us practically collapsed into the elevators. 
 
@@ -1030,7 +1030,7 @@ We spent the next three hours eating, laughing, and recounting the massive logis
 
 ### Part 7: Lights Out
 
-**Date:** 2005-03-20 at 21:30 PT
+**Date:** 2005-03-20 at 21:30 America/Los_Angeles
 
 By the time the massive dinner finally wrapped up, everyone was running on fumes. 
 
@@ -1074,7 +1074,7 @@ Ten minutes later, the heavy blackout curtains were drawn, the lights were off, 
 
 ### Part 1: The 194 Express
 
-**Date:** 2005-03-21 at 07:15 PT
+**Date:** 2005-03-21 at 07:15 America/Los_Angeles
 
 Monday morning arrived with the chaotic, highly choreographed energy of a military deployment. 
 
@@ -1122,7 +1122,7 @@ Ten minutes later, the massive TAPS Route 194 express bus rumbled into the stati
 
 ### Part 2: Decompression
 
-**Date:** 2005-03-21 at 09:00 PT
+**Date:** 2005-03-21 at 09:00 America/Los_Angeles
 
 The TAPS Route 194 express bus cleared the downtown Seattle grid and merged onto Interstate 5, packed to absolute capacity with our luggage and the departing East Coast family members. 
 
@@ -1154,7 +1154,7 @@ The first day of Spring Break had officially begun.
 
 ### Part 3: The Bathroom Queue
 
-**Date:** 2005-03-21 at 14:30 PT
+**Date:** 2005-03-21 at 14:30 America/Los_Angeles
 
 The three of us slept for over five straight hours on the pulled-out sofa bed. We were a completely motionless, tangled pile of limbs and blankets, collectively recharging from the sheer logistical weight of the weekend. 
 
@@ -1198,7 +1198,7 @@ I chuckled, throwing my arm back around Liz's waist and pulling her against me w
 
 ### Part 4: The 565
 
-**Date:** 2005-03-21 at 19:15 PT
+**Date:** 2005-03-21 at 19:15 America/Los_Angeles
 
 By six-thirty that evening, the three of us had finally recovered enough energy to migrate from the living room sofa bed into the apartment's small kitchen. 
 
@@ -1230,7 +1230,7 @@ Cassandra nodded, picking up her fork. For the first time all weekend, the inten
 
 ### Part 1: The May Logistics
 
-**Date:** 2005-03-22 at 08:30 PT
+**Date:** 2005-03-22 at 08:30 America/Los_Angeles
 
 With the massive Highcliff Mansion blueprints officially submitted to the East Coast contractors, Cassandra had smoothly pivoted her hyper-focused administrative gaze to her second real estate project: the Redmond house. 
 
@@ -1278,7 +1278,7 @@ I let out a slow exhale, the anxiety in my chest unspooling. It was a compromise
 
 ### Part 2: The Snohomish Run
 
-**Date:** 2005-03-22 at 10:15 PT
+**Date:** 2005-03-22 at 10:15 America/Los_Angeles
 
 With the May logistics fully locked in, the rest of our Tuesday was a blank canvas. It was the middle of Spring Break, the skies over the Puget Sound were clear, and Liz and I had yet to truly explore the massive expanse of the Pacific Northwest. 
 
@@ -1324,7 +1324,7 @@ It was the most profoundly empowering feeling I had experienced since escaping t
 
 ### Part 3: Tuscany Slice
 
-**Date:** 2005-03-22 at 13:00 PT
+**Date:** 2005-03-22 at 13:00 America/Los_Angeles
 
 The heavy glass doors of the Evergreen Mall slid open, hitting us with a blast of climate-controlled air and the unmistakable, echoing hum of mid-day shoppers. After spending nearly three hours on various TAPS buses, being able to fully stretch my legs felt incredible. 
 
@@ -1366,7 +1366,7 @@ I took another bite of the pizza, incredibly satisfied with the plan and the mas
 
 ### Part 4: The Retreat
 
-**Date:** 2005-03-22 at 14:30 PT
+**Date:** 2005-03-22 at 14:30 America/Los_Angeles
 
 The plan was solid. But my stomach had other ideas. 
 
@@ -1420,7 +1420,7 @@ A few seconds later, it beeped.
 
 ### Part 5: Triage
 
-**Date:** 2005-03-22 at 17:15 PT
+**Date:** 2005-03-22 at 17:15 America/Los_Angeles
 
 The digital thermometer under my tongue let out a rapid series of high-pitched beeps. 
 
@@ -1472,7 +1472,7 @@ She was the one. I was going to marry her.
 
 ### Part 6: The Recovery Protocol
 
-**Date:** 2005-03-22 at 18:15 PT
+**Date:** 2005-03-22 at 18:15 America/Los_Angeles
 
 Exactly one hour after Liz hung up the phone with my parents, the heavy deadbolt on the front door clacked open. 
 
@@ -1538,7 +1538,7 @@ I was home.
 
 ### Part 7: Bedtime Routine
 
-**Date:** 2005-03-22 at 22:30 PT
+**Date:** 2005-03-22 at 22:30 America/Los_Angeles
 
 The dry toast had miraculously stayed down, but the physical exertion of simply chewing it had completely depleted whatever tiny reserves of energy Casey and I had left. Our stomachs were battered, our legs felt like lead, and we were entirely too weak to move from the pull-out sofa bed. 
 
@@ -1584,7 +1584,7 @@ Sandwiched between the fierce loyalty of my sister and the unconditional love of
 
 ### Part 1: The BRAT Diet
 
-**Date:** 2005-03-23 at 09:00 PT
+**Date:** 2005-03-23 at 09:00 America/Los_Angeles
 
 I woke up the next morning with my face buried in the soft fabric of the sofa bed, completely sandwiched between the two most important women in my life. Casey was still curled tightly against my chest, while Liz’s arms were wrapped securely around my waist from behind. 
 
@@ -1638,7 +1638,7 @@ I wouldn't have traded it for anything.
 
 ### Part 2: The Bidding Game
 
-**Date:** 2005-03-23 at 11:00 PT
+**Date:** 2005-03-23 at 11:00 America/Los_Angeles
 
 I knew I was going to marry Liz. That realization had locked itself into my brain with absolute certainty the night before. But right now, plotting a proposal wasn't even on my radar. I had much more immediate priorities: my seventeen-year-old sister was still pale, exhausted, and desperately needed to cuddle with her safe person. 
 
@@ -1686,7 +1686,7 @@ The proposal could wait. Right now, I was exactly where I needed to be.
 
 ### Part 3: The Assignment
 
-**Date:** 2005-03-24 at 09:30 PT
+**Date:** 2005-03-24 at 09:30 America/Los_Angeles
 
 By the second morning of our strict quarantine, the divergent paths of our recovery became painfully obvious. 
 

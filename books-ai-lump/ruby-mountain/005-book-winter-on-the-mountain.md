@@ -9,7 +9,7 @@ series: "ruby-mountain"
 
 ### Part 1: The Winter Syllabus
 
-**Date:** 2003-10-17 ET
+**Date:** 2003-10-17 America/New_York
 
 By three o'clock in the afternoon, the acoustic profile of The Prospector's Keep had completely transformed. The frantic, echoing footsteps of four hundred guests were gone, replaced entirely by the deep, rhythmic thrumming of Morgan’s subterranean boilers fighting the plummeting temperatures. Outside, the blizzard was burying the mountain in a total whiteout.
 
@@ -79,7 +79,7 @@ Amanda squeezed his shoulder. "That's the point, kid."
 
 ### Part 2: The Practical Lab
 
-**Date:** 2003-10-17 ET
+**Date:** 2003-10-17 America/New_York
 
 The ten-minute break ended exactly on time. The younger cousins filed back into the kitchen, their hands scrubbed raw and dried, retying their spotless white aprons. The academic tension from the whiteboard had evaporated, replaced by the humming, kinetic anticipation of a working kitchen.
 
@@ -137,7 +137,7 @@ Johnny rested his hands on his Quantum keyboard, feeling the ambient warmth of t
 
 ### Part 3: The Presentation
 
-**Date:** 2003-10-17 ET
+**Date:** 2003-10-17 America/New_York
 
 The massive brick hearth had done its job. In less than ten minutes, the edges of the dough had puffed up into charred, blistered crowns, and the mozzarella was a bubbling, golden landscape of perfectly melted fat and crushed San Marzano tomatoes.
 
@@ -215,7 +215,7 @@ Amanda smiled, grabbing the shaker and handing it to him. The evacuation was ove
 
 ### Part 4: The Pack
 
-**Date:** 2003-10-17 ET
+**Date:** 2003-10-17 America/New_York
 
 Amanda grabbed the glass shaker of crushed red pepper flakes from the center of the table and handed it to Johnny. With slow, deliberate movements of his stiff left hand, he dusted his slice, the bright red flakes sinking instantly into the hot, bubbling oil of the melted mozzarella.
 
@@ -273,7 +273,7 @@ Johnny let out a quiet, raspy exhale of a laugh. The Gala they had been planning
 
 ### Part 1: The Pajama Protocol
 
-**Date:** 2003-10-17 ET
+**Date:** 2003-10-17 America/New_York
 
 The 1897 Great Hall was the architectural crown jewel of The Prospector’s Keep. It was a cavernous, three-story expanse of exposed old-growth timber, intricate ironwork, and floor-to-ceiling reinforced glass that looked directly out over the Skagit Gorge.
 
@@ -1143,7 +1143,7 @@ They weren't hoteliers anymore. The mountain had closed the door, and the Vangua
 
 ### Part 1: The First Summit
 
-**Date:** 2003-10-23 ET
+**Date:** 2003-10-23 America/New_York
 
 The Vanguard convoy moved down the unplowed void of State Route 20 like a mechanized military column.
 

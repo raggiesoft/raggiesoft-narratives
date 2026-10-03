@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: Rachel's Fury
 
-**Date:** 2001-09-04 at 17:30 ET
+**Date:** 2001-09-04 at 17:30 America/New_York
 
 The two-week reprieve was officially over. Mom was back from her work trip, the house was no longer ours, and the terrifying reality of the legal separation had finally arrived at the front door.
 
@@ -109,7 +109,7 @@ I leaned forward, resting my elbows on my knees, and locked my eyes firmly with 
 
 ### Part 2: The Anchor
 
-**Date:** 2001-09-04 at 18:00 ET
+**Date:** 2001-09-04 at 18:00 America/New_York
 
 The bathroom was thick with warm, fragrant steam, turning the small, tiled space into an insulated, physical cocoon.
 
@@ -149,7 +149,7 @@ We sat there in the steam for a long time. The only sounds were the slow, steady
 
 ### Part 3: The Push-Button Lock
 
-**Date:** 2001-09-04 at 18:45 ET
+**Date:** 2001-09-04 at 18:45 America/New_York
 
 The bubbles eventually began to dissolve, and the heat of the water slowly bled out into the humid air of the bathroom.
 
@@ -209,7 +209,7 @@ We had survived the explosion, and we were safe behind the push-button lock. But
 
 ### Part 1: The Guidance Office
 
-**Date:** 2001-09-05 at 06:30 ET
+**Date:** 2001-09-05 at 06:30 America/New_York
 
 The loud, violent hiss of the school bus air brakes and the sharp smell of diesel exhaust usually signaled the start of our rigid daily routine.
 
@@ -263,7 +263,7 @@ Rachel spun around, grabbed my arm with bruising force, and practically dragged 
 
 ### Part 1: The Eerie Silence
 
-**Date:** 2001-09-11 at 16:00 ET
+**Date:** 2001-09-11 at 16:00 America/New_York
 
 The Delaney Street house was suffocatingly quiet.
 
@@ -303,7 +303,7 @@ I didn't let go. I sat there on the sofa bed, holding my little sister as tightl
 
 ### Part 2: The Wooden Barricade
 
-**Date:** 2001-09-11 at 17:30 ET
+**Date:** 2001-09-11 at 17:30 America/New_York
 
 The shadows in the living room were growing long, but neither Rachel nor I made a move to turn on the lamps. We stayed anchored to the center of the sofa bed, wrapped in the heavy, predictable silence of the grounded skies.
 
@@ -353,7 +353,7 @@ The world outside was a terrifying, unknown variable, and the court order was a 
 
 ### Part 3: The Second Barricade
 
-**Date:** 2001-09-11 at 18:30 ET
+**Date:** 2001-09-11 at 18:30 America/New_York
 
 After the sound of Dad’s truck completely faded away down Delaney Street, the downstairs sofa bed no longer felt secure. Dad had proven he could walk right up to the front door. We needed a harder boundary, a space where the perimeter was entirely under our control.
 
@@ -399,7 +399,7 @@ I leaned back against the headboard, keeping my arm firmly locked around Rachel'
 
 ### Part 4: System Shutdown
 
-**Date:** 2001-09-11 at 20:00 ET
+**Date:** 2001-09-11 at 20:00 America/New_York
 
 The silence in the house was absolute, broken only by the faint, rhythmic ticking of the analog clock on my nightstand.
 
@@ -433,7 +433,7 @@ I squeezed her hand back, resting my forehead against her shoulder blade. Outsid
 
 ### Part 1: The Broken Routine
 
-**Date:** 2001-09-12 at 05:45 ET
+**Date:** 2001-09-12 at 05:45 America/New_York
 
 The harsh, electronic beeping of my alarm clock shattered the heavy silence of the bedroom.
 
@@ -491,7 +491,7 @@ We were officially playing hooky. But as the sound of the bus faded away, leavin
 
 ### Part 2: The Afternoon Siege
 
-**Date:** 2001-09-12 at 11:30 ET
+**Date:** 2001-09-12 at 11:30 America/New_York
 
 The morning stretched out in an agonizing, slow-motion crawl.
 
@@ -543,7 +543,7 @@ The push-button lock on my bedroom door suddenly felt incredibly fragile. The ai
 
 ### Part 1: The Bleeding Finances
 
-**Date:** 2001-09-17 at 14:15 ET
+**Date:** 2001-09-17 at 14:15 America/New_York
 
 The national airspace had technically reopened a few days ago, but the logistical reality was a complete, gridlocked nightmare. The news stations were showing endless footage of massive, chaotic lines at airport ticketing counters. The system was severely backlogged with tens of thousands of stranded passengers, and getting a new flight out of Norfolk International was mathematically impossible for anyone at the back of the line.
 
@@ -579,7 +579,7 @@ Rachel leaned forward, her face inches from the phone’s microphone. "I am not 
 
 ### Part 2: The Living Hell
 
-**Date:** 2001-09-17 at 14:30 ET
+**Date:** 2001-09-17 at 14:30 America/New_York
 
 Dead silence fell over the speakerphone.
 
@@ -625,7 +625,7 @@ We had successfully defended the perimeter again, using the adult world's rules 
 
 ### Part 1: The Bright Idea
 
-**Date:** 2001-09-20 at 08:00 ET
+**Date:** 2001-09-20 at 08:00 America/New_York
 
 The two floral-print suitcases sat by the front door like heavy, physical gravestones.
 
@@ -657,7 +657,7 @@ He turned his back, dragging the first suitcase out onto the concrete porch.
 
 ### Part 2: The Assumption
 
-**Date:** 2001-09-20 at 08:15 ET
+**Date:** 2001-09-20 at 08:15 America/New_York
 
 Mom walked out of the kitchen, clutching a crumpled tissue in her hand. Her eyes were red and swollen.
 
@@ -683,7 +683,7 @@ But I didn't cry. My brain had bypassed the emotion and locked entirely into sur
 
 ### Part 3: The Calling Cards
 
-**Date:** 2001-09-20 at 08:30 ET
+**Date:** 2001-09-20 at 08:30 America/New_York
 
 Mom reached into the pocket of her cardigan. She completely ignored Dad, stepping around me to press a thick, heavy stack of plastic cards into Rachel's trembling hands.
 

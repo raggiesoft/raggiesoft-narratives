@@ -9,7 +9,7 @@ series: "ruby-mountain"
 
 ### Part 1: The Traitor
 
-**Date:** 1999-05-04 ET
+**Date:** 1999-05-04 America/New_York
 
 The Great Hall of The Prospector's Keep felt less like a luxury alpine lodge and more like a besieged bunker. The massive, 1890s timber-framed room was littered with open, half-packed designer suitcases and overstuffed leather duffel bags.
 
@@ -55,7 +55,7 @@ Victoria turned her back on them, an ultimate dismissal.
 
 ### Part 2: The Vision
 
-**Date:** 1999-05-04 ET
+**Date:** 1999-05-04 America/New_York
 
 The heavy oak doors of The Prospector's Keep slammed shut, cutting off the furious exhaust of the departing luxury SUVs. The echo reverberated through the cavernous 1890s timber of the Great Hall, followed by a profound, ringing silence.
 
@@ -107,7 +107,7 @@ Victoria pulled a small leather notebook from her blazer pocket and uncapped her
 
 ### Part 3: The Migration
 
-**Date:** 1999-05-04 ET
+**Date:** 1999-05-04 America/New_York
 
 The drafty, peeling confines of Room N314 felt entirely different now. It was no longer just a miserable hotel suite on the third floor of the North Wing; it was Ground Zero for the Vance-Whitaker empire.
 
@@ -171,7 +171,7 @@ The biological parents were fuming in the dark on the other side of the Keep, bu
 
 ### Part 1: The Final Ultimatum
 
-**Date:** 1999-05-05 ET
+**Date:** 1999-05-05 America/New_York
 
 The morning light streaming through the massive frosted windows of the Great Hall was blindingly clear. The brutal, six-month alpine winter had finally broken, but the atmosphere inside The Prospector's Keep was suffocatingly tense.
 
@@ -221,7 +221,7 @@ Victoria stepped back, clearing the path to the front doors, and watched them be
 
 ### Part 2: The Standoff
 
-**Date:** 1999-05-05 ET
+**Date:** 1999-05-05 America/New_York
 
 The antique grandfather clock in the corner of the Great Hall chimed exactly eleven times.
 
@@ -273,7 +273,7 @@ Victoria looked at her uncle, her eyes devoid of any remaining mercy.
 
 ### Part 3: The Eviction
 
-**Date:** 1999-05-05 ET
+**Date:** 1999-05-05 America/New_York
 
 The heavy, rhythmic crunch of specialized snow tires on cobblestone echoed through the thick exterior walls. Through the massive, frosted windowpanes of the Great Hall, the harsh, strobing flashes of red and blue light cut through the morning shadows. Three black-and-white Whatcom County Sheriff's cruisers—Holt Sentinels —pulled directly onto the portico, boxing in the idling luxury SUVs.
 
@@ -323,7 +323,7 @@ Victoria turned around to face the sixteen cousins remaining on the staircase. T
 
 ### Part 4: The Assessment
 
-**Date:** 1999-05-05 ET
+**Date:** 1999-05-05 America/New_York
 
 The echo of the heavy deadbolt sliding into place lingered in the cavernous expanse of the Great Hall. For the first time in their lives, the sixteen cousins were completely alone on the mountain. The toxic, suffocating weight of the older generation had been excised.
 
@@ -363,7 +363,7 @@ The sixteen cousins absorbed the magnitude of the shift. For their entire lives,
 
 ### Part 1: The Diagnostics
 
-**Date:** 1999-05-06 ET
+**Date:** 1999-05-06 America/New_York
 
 The heavy oak doors of The Prospector's Keep were propped wide open, letting the crisp, thawing spring air flood into the 1890s lobby. Out on the cobblestone turnaround, a fleet of heavy-duty commercial work trucks had replaced the exiled generation's luxury SUVs.
 
@@ -402,7 +402,7 @@ The adults were gone, the walls downstairs were coming down, and the mountain wa
 
 ### Part 2: The Truman Execution
 
-**Date:** 1999-05-06 ET
+**Date:** 1999-05-06 America/New_York
 
 The lead structural engineer walked back into the Great Hall just after two o'clock in the afternoon. His hands were coated in a thick layer of black, century-old dust, and his expression was grim.
 

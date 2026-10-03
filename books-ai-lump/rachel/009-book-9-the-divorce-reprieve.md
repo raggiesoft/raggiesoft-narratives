@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: Vacation from Parents
 
-**Date:** 2001-08-17 at 10:30 ET
+**Date:** 2001-08-17 at 10:30 America/New_York
 
 The heavy trunk of the sedan slammed shut, the metallic thud echoing over the roar of jet engines at the Norfolk International Airport drop-off curb.
 
@@ -55,7 +55,7 @@ I could almost see the math forming in her eyes, knowing that whatever number I 
 
 ### Part 2: Afternoon at the Mall
 
-**Date:** 2001-08-17 at 13:00 ET
+**Date:** 2001-08-17 at 13:00 America/New_York
 
 The Emerald Creek Mall was a massive, sprawling brick fortress. On a Friday afternoon, it was already vibrating with a low-frequency hum of activity, but I knew the layout well enough to avoid the worst of the friction. Instead of fighting the traffic at the main department store entrances, I navigated the ring road all the way to the back perimeter, deliberately aiming for the hidden glass elevator that bypassed the main concourse and delivered you straight to the second-floor food court.
 
@@ -119,7 +119,7 @@ She tucked the photo strip carefully into her pocket, linked her arm back throug
 
 ### Part 3: Up All Night Party
 
-**Date:** 2001-08-17 at 20:00 ET
+**Date:** 2001-08-17 at 20:00 America/New_York
 
 By the time we got back to the quiet sanctuary of the Delaney Street house, the sun had set.
 
@@ -183,7 +183,7 @@ I slid over and put my arm firmly around my kid sister, pulling her securely aga
 
 ### Part 1: The Elephant in the Room
 
-**Date:** 2001-08-18 at 08:30 ET
+**Date:** 2001-08-18 at 08:30 America/New_York
 
 I woke up to the heavy, rhythmic thumping of a dog’s tail hitting the side of the sofa bed.
 
@@ -235,7 +235,7 @@ The outside world could have their parties and their complicated social expectat
 
 ### Part 2: The Morning Routine
 
-**Date:** 2001-08-18 at 09:00 ET
+**Date:** 2001-08-18 at 09:00 America/New_York
 
 As Rachel headed toward the kitchen, I stayed on the edge of the mattress for a moment, my bare feet resting on the cool living room carpet.
 
@@ -277,7 +277,7 @@ Sitting there in the dim living room, completely insulated from the demands and 
 
 ### Part 3: The Cross-Country Bargain
 
-**Date:** 2001-08-18 at 13:00 ET
+**Date:** 2001-08-18 at 13:00 America/New_York
 
 The absolute peace of our Saturday lasted exactly until one o'clock in the afternoon.
 

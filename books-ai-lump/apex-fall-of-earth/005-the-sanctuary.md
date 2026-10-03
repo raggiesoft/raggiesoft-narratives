@@ -3055,7 +3055,7 @@ They weren't just surviving anymore. They had officially named their home, layin
 
 ### Part 7: The Six Moons
 
-timezone: "ET"
+timezone: "America/New_York"
 location: "Unknown"
 pov: "Apex Fall Of Earth"
 end_time: ""

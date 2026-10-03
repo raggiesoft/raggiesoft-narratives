@@ -9,7 +9,7 @@ series: "The Quantum Directive: The Caretakers"
 
 ### Part 1: The Diridon Transfer
 
-**Date:** 2014-05-15 at 10:00 PT
+**Date:** 2014-05-15 at 10:00 America/Los_Angeles
 
 At 10:00 AM, as the ARTS Coast Starlight began its final, gentle deceleration into the Santa Clara Valley, a silent, haptic timer vibrated against David’s wrist.
 
@@ -67,7 +67,7 @@ As the SVTA Light Rail accelerated smoothly away from the station, carrying the 
 
 ### Part 2: The Handler Panic
 
-**Date:** 2014-05-15 at 10:20 PT
+**Date:** 2014-05-15 at 10:20 America/Los_Angeles
 
 Marcus, the Lead VIP Logistics Coordinator for the Global Tech Leadership Summit, was currently experiencing the most terrifying morning of his professional career.
 
@@ -133,7 +133,7 @@ Marcus stood on the curb on Cahill Street, listening to his three V8 SUVs burnin
 
 ### Part 3: The Flashbulb Perimeter
 
-**Date:** 2014-05-15 at 10:45 PT
+**Date:** 2014-05-15 at 10:45 America/Los_Angeles
 
 The sleek, blue-and-yellow SVTA Light Rail hissed to a perfect, level stop at the Convention Center Station. The doors slid open, welcoming the warm California morning into the carriage.
 
@@ -201,7 +201,7 @@ Marcus frantically waved the press pool aside. With Liz keeping a secure, ground
 
 ### Part 4: The Keynote and the BayPass Question
 
-**Date:** 2014-05-15 at 11:15 PT
+**Date:** 2014-05-15 at 11:15 America/Los_Angeles
 
 The main auditorium of the McEnery Convention Center was packed to its absolute structural limit. Thousands of tech executives, venture capitalists, software engineers, and media outlets sat in the dimmed theater, the ambient hum of anticipation buzzing through the room.
 
@@ -253,7 +253,7 @@ In the front row, David smiled, resting his arm around Liz's shoulder. The wider
 
 ### Part 1: The Gates of DCA
 
-**Date:** 2014-06-10 at 08:15 ET
+**Date:** 2014-06-10 at 08:15 America/New_York
 
 Landing a private corporate aircraft at Ronald Reagan Washington National Airport (DCA) is a logistical nightmare that most Fortune 500 companies actively avoid. Under post-9/11 federal security mandates, operating a private flight into the District’s primary airport requires navigating the rigid, exhaustive protocols of the DCA Access Standard Security Program (DASSP)—complete with armed armed-marshal manifests, physical TSA gate screenings at designated gateway airports, and direct federal authorization.
 
@@ -329,7 +329,7 @@ Cassandra turned her chair back around, rolling seamlessly onto the platform ele
 
 ### Part 2: The L'Enfant Maze
 
-**Date:** 2014-06-10 at 08:45 ET
+**Date:** 2014-06-10 at 08:45 America/New_York
 
 The silver Yellow Line train plunged into the subterranean tunnels beneath Washington D.C., the rhythmic clatter of the tracks echoing through the cabin. Barely ten minutes after leaving the stranded K Street lobbyist at the DCA faregates, the train decelerated into the massive, vaulted concrete cavern of L'Enfant Plaza.
 
@@ -367,7 +367,7 @@ Exiting the station, the pack rode the street-level elevator up into the muggy D
 
 ### Part 3: The Witness Table
 
-**Date:** 2014-06-10 at 09:30 ET
+**Date:** 2014-06-10 at 09:30 America/New_York
 
 The heavy oak doors of the Senate Judiciary Committee room swung open, revealing a towering, vaulted chamber filled with polished marble, press cameras, and rows of mahogany pews.
 
@@ -385,7 +385,7 @@ In the primary VIP row directly behind them, Liz and Casey took their seats. Liz
 
 ### Part 4: The LPN Protocol & The Galley Question
 
-**Date:** 2014-06-10 at 09:35 ET
+**Date:** 2014-06-10 at 09:35 America/New_York
 
 The Committee Chairman, Senator Hayes—a seasoned, squeaky-clean legislator known for his meticulous adherence to Senate rules—tapped his gavel. The sharp crack echoed off the marble walls.
 
@@ -415,7 +415,7 @@ Seeing the CEO of Quantum pull out a MagnaByte mPad at a high-stakes congression
 
 ### Part 5: The Weaponized Ledger
 
-**Date:** 2014-06-10 at 09:50 ET
+**Date:** 2014-06-10 at 09:50 America/New_York
 
 Cassandra delivered a concise, five-minute opening statement on friction-free software architecture and open standards. But as soon as she concluded, Senator Thomas leaned toward his microphone, a smug, predatory grin spreading across his face. He had been reading the morning’s headlines from *Silicon Valley Unfiltered*.
 
@@ -461,7 +461,7 @@ Beside Cassandra, David quietly checked her pulse oximeter, satisfied to find he
 
 ### Part 6: The MAR Protocol
 
-**Date:** 2014-06-10 at 10:05 ET
+**Date:** 2014-06-10 at 10:05 America/New_York
 
 The hearing room was still humming with the quiet, lingering tension of Senator Thomas’s public humiliation. The press gallery was practically vibrating, reporters furiously typing out drafts of what was already shaping up to be greatest congressional takedown of the decade.
 
@@ -513,7 +513,7 @@ It wasn't a stunt. It wasn't an entourage. It was an immutable, temperature-sens
 
 ### Part 7: The Finch Expedition
 
-**Date:** 2014-06-10 at 11:15 ET
+**Date:** 2014-06-10 at 11:15 America/New_York
 
 The gavel struck the wooden block, officially adjourning the Senate Judiciary Committee hearing.
 
@@ -577,7 +577,7 @@ She hung up the phone, flipped the hardware mute switch, and rolled effortlessly
 
 ### Part 8: The Civilian Perimeter
 
-**Date:** 2014-06-10 at 12:00 ET
+**Date:** 2014-06-10 at 12:00 America/New_York
 
 The transition from the marble halls of Capitol Hill to the bustling atrium of the Finch Air and Space Museum required a hard reset of the pack's operational profile.
 
@@ -611,7 +611,7 @@ To the rest of the world, Cassandra Vance was a titan of industry. But as she sa
 
 ### Part 9: The Telescope Protocol
 
-**Date:** 2014-06-10 at 13:00 ET
+**Date:** 2014-06-10 at 13:00 America/New_York
 
 The large-format theater inside the Finch Air and Space Museum required a strict adherence to civilian etiquette. Before joining the queue for the documentary, the pack stopped at the front visitor counter, checking their heavy weekend duffel bags with the attendant so they wouldn't have to haul them through the crowded theater aisles.
 
@@ -675,7 +675,7 @@ Cassandra led them exactly one block over to their luxury hotel. There was no mo
 
 ### Part 10: The Escalator Trap
 
-**Date:** 2014-06-10 at 16:15 ET
+**Date:** 2014-06-10 at 16:15 America/New_York
 
 While Cassandra and her pack were enjoying a heavily air-conditioned, frictionless ride on the Blue Line toward Farragut West, a completely different scene was unfolding a mile away on the National Mall.
 
@@ -743,7 +743,7 @@ Greg slowly lowered his phone, looking down into the escalator shaft. They hadn'
 
 ### Part 1: The ELstat Briefing
 
-**Date:** 2014-06-11 at 17:30 ET
+**Date:** 2014-06-11 at 17:30 America/New_York
 
 The luxury suite overlooking Farragut Square was buzzing with quiet, focused preparation. Tonight was the Global Wildlife Conservation Gala at the Smithsonian National Zoological Park, a highly exclusive, black-tie event crawling with federal politicians, international dignitaries, and tech titans.
 
@@ -773,7 +773,7 @@ Greg blinked, his smugness faltering. "But... it has 'Zoo' in the name."
 
 ### Part 2: The Topography Trap
 
-**Date:** 2014-06-11 at 17:45 ET
+**Date:** 2014-06-11 at 17:45 America/New_York
 
 David stepped forward, adjusting his tie, a quiet smirk playing on his lips. Having spent hours analyzing the District's transit grid with his sister, he knew exactly where the trap lay.
 
@@ -791,7 +791,7 @@ She wheeled herself past the stunned lobbyist and out into the hallway.
 
 ### Part 3: The Surface Fleet
 
-**Date:** 2014-06-11 at 18:00 ET
+**Date:** 2014-06-11 at 18:00 America/New_York
 
 The pack descended the hotel elevator to the street level, stepping out into the warm, golden evening light of Farragut Square. Greg trailed frantically behind them, his tailored suit already starting to feel tight.
 
@@ -813,7 +813,7 @@ The bus doors snapped shut.
 
 ### Part 4: The Front Gate Arrival
 
-**Date:** 2014-06-11 at 18:20 ET
+**Date:** 2014-06-11 at 18:20 America/New_York
 
 The ride up Connecticut Avenue was a masterclass in surface transit efficiency.
 

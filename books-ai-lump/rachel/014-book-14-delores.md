@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Last of the Pack
 
-**Date:** 2004-09-02 at 08:00 ET
+**Date:** 2004-09-02 at 08:00 America/New_York
 
 The silence inside Unit A5 was heavy and absolute.
 
@@ -77,7 +77,7 @@ The silence inside was completely deafening without Archie's collar jingling or 
 
 ### Part 2: The Solo Transit
 
-**Date:** 2004-09-02 at 12:15 ET
+**Date:** 2004-09-02 at 12:15 America/New_York
 
 I couldn't sit in the silent apartment anymore.
 
@@ -109,7 +109,7 @@ I didn't overthink the math. I gripped the straps of my backpack, stepped off th
 
 ### Part 3: The Time Sync
 
-**Date:** 2004-09-02 at 13:30 ET
+**Date:** 2004-09-02 at 13:30 America/New_York
 
 After finishing my lunch at The Orbit Diner, I slung my heavy nylon backpack over my shoulders and headed back out into the sweltering heat of Downtown Norfolk. I had hours to kill, and I desperately needed a quiet, structured environment to burn through the afternoon.
 
@@ -139,7 +139,7 @@ I adjusted the heavy straps of my backpack and decided to loop right back across
 
 ### Part 4: The Ticket Line
 
-**Date:** 2004-09-02 at 18:45 ET
+**Date:** 2004-09-02 at 18:45 America/New_York
 
 The lobby of the CCHR Roper Performing Arts Center was packed, buzzing with the loud, echoing hum of college students and downtown locals waiting for the theater doors to open.
 
@@ -207,7 +207,7 @@ Delores clapped her hands, looking over at me with a bright, energized smile. Th
 
 ### Part 5: The Midtown Transfer
 
-**Date:** 2004-09-02 at 21:00 ET
+**Date:** 2004-09-02 at 21:00 America/New_York
 
 The credits began to roll, and the house lights of the Roper Performing Arts Center flickered back on, breaking the heavy, polarized spell of the documentary.
 
@@ -277,7 +277,7 @@ I let out a slow, shaky breath in the empty studio, wishing more than anything t
 
 ### Part 1: The Morning Call
 
-**Date:** 2004-09-03 at 07:00 ET
+**Date:** 2004-09-03 at 07:00 America/New_York
 
 I woke up at exactly seven o'clock, the morning sunlight cutting sharply through the blinds of Unit A5.
 

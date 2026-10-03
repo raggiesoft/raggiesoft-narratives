@@ -9,7 +9,7 @@ series: "The Quantum Directive: The Caretakers"
 
 ### Part 1: The Rotor Wash
 
-**Date:** 2014-02-14 at 08:15 PT
+**Date:** 2014-02-14 at 08:15 America/Los_Angeles
 
 The crisp, freezing February air whipped across the elevated concrete of the Quantum executive helipad.
 
@@ -73,7 +73,7 @@ Cassandra checked the heavy silver watch on her wrist. It was 08:35 AM.
 
 ### Part 2: The Front Row
 
-**Date:** 2014-02-14 at 08:50 PT
+**Date:** 2014-02-14 at 08:50 America/Los_Angeles
 
 The William Keswick Auditorium, located deep within the architectural heart of Building 33, was an amphitheater built for global broadcasts and shareholder summits. It was massive, sleek, and usually cordoned off with strict, corporate rigidity.
 
@@ -135,7 +135,7 @@ A sharp knock on the green room door interrupted the quiet moment. A production 
 
 ### Part 3: The Floorboards
 
-**Date:** 2014-02-14 at 09:00 PT
+**Date:** 2014-02-14 at 09:00 America/Los_Angeles
 
 The William Keswick Auditorium was a sea of Quantum Blue Badges, packed to its absolute, structural capacity. Thousands of developers, QA testers, and program managers hummed with an electric, unprecedented anticipation. In the front row, the unified Vance-Whitaker and Virginia packs sat shoulder-to-shoulder, a formidable wall of sovereign loyalty holding the absolute best seats in the house.
 
@@ -201,7 +201,7 @@ Cassandra Vance was no longer just the architect in the shadows. The keys were i
 
 ### Part 1: The Food Truck Festival
 
-**Date:** 2014-02-14 at 12:00 PT
+**Date:** 2014-02-14 at 12:00 America/Los_Angeles
 
 The sprawling, open-air plazas and forested courtyards of the Redmond campus had been completely transformed.
 
@@ -243,7 +243,7 @@ David looked down at his older sister, a fierce, undeniable pride radiating from
 
 ### Part 2: The Zero-Proof Pavilion
 
-**Date:** 2014-02-14 at 13:15 PT
+**Date:** 2014-02-14 at 13:15 America/Los_Angeles
 
 While the standard corporate beer-and-wine tents were heavily trafficked on the far side of the plaza, a distinctly different perimeter had been established near the center of the campus.
 
@@ -309,7 +309,7 @@ They weren't just senior developers anymore. They were under the direct, unyield
 
 ### Part 3: The Cross-Pollination of Packs
 
-**Date:** 2014-02-14 at 14:00 PT
+**Date:** 2014-02-14 at 14:00 America/Los_Angeles
 
 As the afternoon sun cast long shadows across the Redmond campus, the rigid boundaries that typically separated distinct corporate and familial ecosystems completely dissolved. The food truck festival had fostered a vibrant, egalitarian atmosphere, allowing the fierce, off-grid survivalists of the Mountain Vanguard to mingle directly with the intellectual titans of the Quantum engineering bullpens.
 
@@ -351,7 +351,7 @@ Across the plaza, the atmosphere remained bright and celebratory. But beneath th
 
 ### Part 4: The Transit Pledge
 
-**Date:** 2014-02-14 at 16:45 PT
+**Date:** 2014-02-14 at 16:45 America/Los_Angeles
 
 By late afternoon, the winter sun began to dip below the Pacific Northwest evergreens, casting a cool, golden twilight over the Redmond campus. The food trucks were slowly beginning to power down their generators, but the central plazas were still packed with thousands of Quantum employees who were reluctant to let the historic day end.
 
@@ -393,7 +393,7 @@ She handed the microphone back to the technician, unlocked her brakes, and wheel
 
 ### Part 5: The Logistics of Departure
 
-**Date:** 2014-02-14 at 17:30 PT
+**Date:** 2014-02-14 at 17:30 America/Los_Angeles
 
 As the applause from the courtyard faded, the massive, synchronized machinery of the Vance-Whitaker family began its departure protocols.
 
@@ -435,7 +435,7 @@ A moment later, the heavy, articulated TAPS bus hissed to a halt at the curb. Th
 
 ### Part 6: The Executive Shutdown
 
-**Date:** 2014-02-14 at 18:30 PT
+**Date:** 2014-02-14 at 18:30 America/Los_Angeles
 
 The heavy TAPS bus hissed to a smooth halt in the warm, ambient glow of the Downtown Redmond streetlights.
 
@@ -471,7 +471,7 @@ Enveloped in the deep, restrictive pressure of her pack, the sheer magnitude of 
 
 ### Part 7: The Lowland Entitlement
 
-**Date:** 2014-02-14 at 19:00 PT
+**Date:** 2014-02-14 at 19:00 America/Los_Angeles
 
 Wendy dropped her purse onto the polished entryway table of their Downtown Redmond luxury suite and let out a long, quiet sigh. The hotel room was immaculate, boasting a sweeping view of the glowing Pacific Northwest tech corridor. 
 

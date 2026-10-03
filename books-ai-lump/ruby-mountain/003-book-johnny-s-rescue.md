@@ -759,7 +759,7 @@ He was in his natural habitat. He was home.
 
 ### Part 1: The Proxy
 
-**Date:** 2003-09-09 ET
+**Date:** 2003-09-09 America/New_York
 
 The morning light filtering through the reinforced windows of the second-floor sanctuary was entirely different from the grey, marine haze of Friday Harbor. Here, at 7,000 feet, the light was sharp, brilliant, and completely unobstructed.
 
@@ -803,7 +803,7 @@ Victoria smiled, picking up her coffee. "Good man. Class starts in two weeks. Ta
 
 ### Part 1: Pro Se
 
-**Date:** 2003-09-15 ET
+**Date:** 2003-09-15 America/New_York
 
 The heavy double doors of Courtroom 3B swung open, and Vanessa Hayes stepped onto the polished linoleum floor of the Whatcom County Superior Court.
 
@@ -887,7 +887,7 @@ Vanessa, completely oblivious to the massive shift in the room's legal gravity, 
 
 ### Part 2: The Paper Trail
 
-**Date:** 2003-09-15 ET
+**Date:** 2003-09-15 America/New_York
 
 Judge Harrison closed the case file and looked down at the petitioner’s table.
 
@@ -955,7 +955,7 @@ From the gallery, Johnny watched the psychological collapse happen in real-time.
 
 ### Part 3: The Federal Trap
 
-**Date:** 2003-09-15 ET
+**Date:** 2003-09-15 America/New_York
 
 Judge Harrison set the digital routing logs aside, his expression hardening. He looked across the courtroom at the Matriarch of Ruby Mountain.
 
@@ -1017,7 +1017,7 @@ Vanessa Hayes buried her face in her hands. She had tried to steal a vulnerable 
 
 ### Part 4: The Recess
 
-**Date:** 2003-09-15 ET
+**Date:** 2003-09-15 America/New_York
 
 The heavy, soundproof oak door of the attorney-client consultation room slammed shut, severing the heavy silence of the courthouse hallway.
 
@@ -1079,7 +1079,7 @@ Davies walked out into the hallway, leaving Vanessa completely alone to face the
 
 ### Part 5: The Gavel
 
-**Date:** 2003-09-15 ET
+**Date:** 2003-09-15 America/New_York
 
 Exactly fifteen minutes later, the heavy wooden doors of Courtroom 3B opened.
 
@@ -1157,7 +1157,7 @@ Victoria smiled—a rare, genuine expression of warmth that she only ever allowe
 
 ### Part 1: Baseline Telemetry
 
-**Date:** 2003-10-01 ET
+**Date:** 2003-10-01 America/New_York
 
 Autumn in the North Cascades did not arrive slowly; it announced itself with a crisp, breathtaking absolute.
 
@@ -1203,7 +1203,7 @@ But Victoria had won. The legal fortress was impenetrable. The state grifter was
 
 ### Part 2: The Sovereign Blueprint
 
-**Date:** 2003-10-01 ET
+**Date:** 2003-10-01 America/New_York
 
 The low, rumbling vibration of the boiler room was interrupted by a quiet, rhythmic tapping. Johnny’s stiff fingers hit a pre-programmed macro key on his laptop, sending a single, sharp chime through his software.
 
@@ -1277,7 +1277,7 @@ Johnny’s fingers hovered over his mechanical keyboard, a profound sense of pur
 
 ### Part 3: The Winter Manifest
 
-**Date:** 2003-10-01 ET
+**Date:** 2003-10-01 America/New_York
 
 Johnny’s dark eyes scanned the scrolling text on his Quantum XN monitor, cross-referencing Morgan’s barometric data with the WSDOT historical averages. His stiff fingers navigated the spreadsheet with practiced, deliberate keystrokes.
 
@@ -1327,7 +1327,7 @@ Victoria closed her own binder, the meticulous, sovereign blueprint for the next
 
 ### Part 4: The Legal Nuke
 
-**Date:** 2003-10-01 ET
+**Date:** 2003-10-01 America/New_York
 
 Diana unlocked the brakes on Johnny’s wheelchair, her chef’s coat swishing as she turned him away from Victoria’s mahogany desk.
 
@@ -1393,7 +1393,7 @@ The threat had not just been survived; it had been mathematically, legally, and 
 
 ### Part 5: The Anchor
 
-**Date:** 2003-10-01 ET
+**Date:** 2003-10-01 America/New_York
 
 The heavy oak door to the legal suite clicked open.
 
@@ -1445,7 +1445,7 @@ Lying there in the quiet sanctuary of the mountain, anchored entirely by the oth
 
 ### Part 6: The Perimeter
 
-**Date:** 2003-10-01 ET
+**Date:** 2003-10-01 America/New_York
 
 The heavy, soundproofed door of the suite muffled the distant, ambient noise of the Keep, leaving the room in a state of absolute, tranquil silence.
 
@@ -1527,7 +1527,7 @@ The siege of Ruby Mountain was over. He was exactly where he belonged.
 
 ### Part 7: The Final Perimeter
 
-**Date:** 2003-10-01 ET
+**Date:** 2003-10-01 America/New_York
 
 By the time the last of the food was gone, Johnny’s eyes were heavy, his blinks growing slow and uncoordinated.
 
@@ -1583,7 +1583,7 @@ The light went out. The 1903 boiler rumbled deep beneath the floorboards, keepin
 
 ### Part 1: The Pineapple Express
 
-**Date:** 2003-10-07 ET
+**Date:** 2003-10-07 America/New_York
 
 The 1903 iron boiler was roaring at a steady, rhythmic baseline, filling the subterranean engineering bay with an intense, dry heat. But on the heavy CRT monitors of the primary Quantum XN server rack, the data was starting to look distinctly unnatural.
 
@@ -1655,7 +1655,7 @@ Morgan closed the terminal. She looked over at Johnny, her eyes fierce and entir
 
 ### Part 2: The Checkpoint
 
-**Date:** 2003-10-07 ET
+**Date:** 2003-10-07 America/New_York
 
 The descent from the 7,000-foot summit of Ruby Mountain down to the State Route 20 junction was a brutal, five-mile plunge.
 
@@ -1733,7 +1733,7 @@ Johnny’s eyes lit up behind the clear silicone mask. His lungs were doing the 
 
 ### Part 3: The Air-Gap
 
-**Date:** 2003-10-07 ET
+**Date:** 2003-10-07 America/New_York
 
 The cavernous expanse of the Lower Motorpool echoed with the low, industrial rumble of idling diesel engines and the rhythmic *hiss-click* of Johnny’s RespiraCore Compressor machine.
 
@@ -1809,7 +1809,7 @@ Emma beamed, her face lighting up under the harsh bunker lights.
 
 ### Part 4: The Escort
 
-**Date:** 2003-10-07 ET
+**Date:** 2003-10-07 America/New_York
 
 The rhythmic *hiss-click* of Johnny’s RespiraCore Compressor machine was suddenly drowned out by the deafening, pneumatic blast of commercial air brakes.
 
@@ -1875,7 +1875,7 @@ Morgan parked the Ridgeback and killed the engine. The delivery had made it thro
 
 ### Part 5: The Tactical Seed
 
-**Date:** 2003-10-07 ET
+**Date:** 2003-10-07 America/New_York
 
 The heavy oak doors of the Owner's Quarters swung open, and the roaring warmth of Victoria’s massive fireplace washed over them.
 
@@ -1927,7 +1927,7 @@ The tactical seed was planted. The timeline was officially on notice. He closed 
 
 ### Part 1: The Backchannel
 
-**Date:** 2003-10-09 ET
+**Date:** 2003-10-09 America/New_York
 
 For the last forty-eight hours, the subterranean engineering bay had operated in a state of hyper-focused, clinical tension.
 
@@ -1995,7 +1995,7 @@ Now, the entire weight of the mountain shifted upward to the third floor. They h
 
 ### Part 2: The War Council
 
-**Date:** 2003-10-09 ET
+**Date:** 2003-10-09 America/New_York
 
 Morgan’s fingers had barely left the mechanical keyboard when the localized Quantum OS chat interface chimed sharply in the quiet rumble of the engineering bay.
 

@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Friday Commute
 
-**Date:** 1999-05-14 at 15:40 ET
+**Date:** 1999-05-14 at 15:40 America/New_York
 
 The shrill dismissal bell of Morrison Middle School cut through the afternoon, immediately unleashing a chaotic tidal wave of teenagers into the hallways.
 
@@ -77,7 +77,7 @@ We marched into the dining room, pulling our textbooks from our bags and claimin
 
 ### Part 2: The Homework Hurdle
 
-**Date:** 1999-05-14 at 17:15 ET
+**Date:** 1999-05-14 at 17:15 America/New_York
 
 The heavy front door clicked open, breaking the quiet, focused silence of the dining room.
 
@@ -121,7 +121,7 @@ I leaned back in my chair, a massive wave of relief washing over me. The academi
 
 ### Part 3: Deploying Base Camp
 
-**Date:** 1999-05-14 at 20:00 ET
+**Date:** 1999-05-14 at 20:00 America/New_York
 
 With the dining room table finally cleared of algebra worksheets and dinner plates, the kinetic energy of the house shifted completely toward the weekend. It was time to transform the living room.
 
@@ -175,7 +175,7 @@ I stared up at the shadowed ceiling, listening to the synchronized breathing of 
 
 ### Part 1: The Departure Protocol
 
-**Date:** 1999-05-15 at 06:30 ET
+**Date:** 1999-05-15 at 06:30 America/New_York
 
 The sun wasn't even fully above the tree line when the living room officially woke up, but Ashley was already vibrating at a completely unmanageable frequency.
 
@@ -241,7 +241,7 @@ I didn't even bother engaging. I just tightened my platonic grip on Ashley’s h
 
 ### Part 2: The Data Shift
 
-**Date:** 1999-05-15 at 07:30 ET
+**Date:** 1999-05-15 at 07:30 America/New_York
 
 We didn't have to wait long. A minute or two later, Bonnie walked out of the heavy double doors of the band room.
 
@@ -295,7 +295,7 @@ A moment later, the heavy folding doors hissed shut. The air brakes released wit
 
 ### Part 3: The Flash and the Photograph
 
-**Date:** 1999-05-15 at 08:00 ET
+**Date:** 1999-05-15 at 08:00 America/New_York
 
 The drive from Virginia Beach up Interstate 64 to James City County took exactly one hour. The yellow school bus rattled over the highway seams, the cabin thick with the smell of diesel exhaust, cheap teenage body spray, and the deafening roar of forty eighth-graders talking over each other.
 
@@ -331,7 +331,7 @@ We rode the rest of the way to James City County just like that, anchored togeth
 
 ### Part 4: The Sovereign Palace Theater
 
-**Date:** 1999-05-15 at 09:00 ET
+**Date:** 1999-05-15 at 09:00 America/New_York
 
 The heavy air brakes of the yellow school buses hissed loudly, signaling our arrival.
 
@@ -379,7 +379,7 @@ None of us liked him anyway. Our perimeter was closed, the toxic middle school e
 
 ### Part 5: The Loch Serpent
 
-**Date:** 1999-05-15 at 09:15 ET
+**Date:** 1999-05-15 at 09:15 America/New_York
 
 We bypassed the slower, scenic rides of the 'England' and 'Scotland' hamlets entirely, bee-lining straight for the towering yellow tracks of the park's most iconic coaster: *The Loch Serpent*.
 
@@ -445,7 +445,7 @@ Bonnie wasn't just a girl I had a crush on. She spoke the exact same hyper-fixat
 
 ### Part 6: The Iron Aeronaut
 
-**Date:** 1999-05-15 at 10:00 ET
+**Date:** 1999-05-15 at 10:00 America/New_York
 
 The morning sun was rapidly baking the asphalt, transforming the Virginia humidity into a thick, unseasonably sweltering sauna. We left the yellow tracks of *The Loch Serpent* behind and started the long trek down the steep, paved hill from the 'Heatherdowns' hamlet toward 'Hastings.'
 
@@ -499,7 +499,7 @@ The massive screen in front of us lit up, and the entire theater violently lurch
 
 ### Part 7: Heart Attack Hill
 
-**Date:** 1999-05-15 at 11:30 ET
+**Date:** 1999-05-15 at 11:30 America/New_York
 
 Stepping out of the heavily air-conditioned fortress of *The Iron Aeronaut* and back into the Virginia sun was like walking headfirst into a physical wall of heat. The humidity was suffocating, hanging in the air like a wet wool blanket.
 
@@ -569,7 +569,7 @@ I pressed my foot on the gas pedal, the car lurching forward onto the scenic tra
 
 ### Part 8: Josephine’s and the Ghost
 
-**Date:** 1999-05-15 at 12:30 ET
+**Date:** 1999-05-15 at 12:30 America/New_York
 
 The adrenaline from *The Aquitaine Motorway* began to fade the moment we parked the antique cars, rapidly replaced by the sheer physical exhaustion of navigating the Virginia heat. We needed a reset, and in the French section of Brewster Gardens, there was only one logical destination.
 
@@ -631,7 +631,7 @@ She kept her hand pressed firmly against my leg, actively reinforcing the perime
 
 ### Part 9: The Timber Mill Plunge
 
-**Date:** 1999-05-15 at 12:45 ET
+**Date:** 1999-05-15 at 12:45 America/New_York
 
 The heavy, grounding pressure of Bonnie’s hand on my knee was exactly the physical anchor my processor needed to reboot.
 
@@ -701,7 +701,7 @@ Ashley collected the glossy 4x6 print, carefully sliding it into the dry plastic
 
 ### Part 10: The Translation in the Grand Hall
 
-**Date:** 1999-05-15 at 13:30 ET
+**Date:** 1999-05-15 at 13:30 America/New_York
 
 We stepped out of the exit queue for *The Timber Mill Plunge*, our clothes dripping wet from the final drop, and immediately looked up.
 
@@ -771,7 +771,7 @@ I just smiled, lightly tracing my thumb over her knuckles, and held her hand rig
 
 ### Part 11: The Speed of Fright
 
-**Date:** 1999-05-15 at 14:30 ET
+**Date:** 1999-05-15 at 14:30 America/New_York
 
 The violent, torrential downpour outside the stained-glass windows of the *Bavarian Grand Hall* eventually exhausted itself, slowing to a light, misty drizzle. The live brass band finished their set, and the massive crowd of teenagers sheltering inside the dining hall began to slowly filter back out into the park.
 
@@ -843,7 +843,7 @@ As the floor of the station mechanically dropped away, leaving our feet dangling
 
 ### Part 12: The Siege Engine
 
-**Date:** 1999-05-15 at 15:15 ET
+**Date:** 1999-05-15 at 15:15 America/New_York
 
 We walked down the exit ramp of *The Shadow Wolf*, our legs slightly wobbly from the intense, swinging drops, but our adrenaline was absolutely peaking. The post-storm energy of the park was incredible. The oppressive humidity was completely gone, leaving behind a cool, vibrant spring afternoon.
 
@@ -905,7 +905,7 @@ The Base Camp perimeter hadn't been breached by romance. It had successfully exp
 
 ### Part 13: The Imperial Rapids
 
-**Date:** 1999-05-15 at 16:45 ET
+**Date:** 1999-05-15 at 16:45 America/New_York
 
 When we finally stumbled off *The Siege Engine*, our throats were completely raw from the screaming contest, but we were absolutely victorious.
 
@@ -995,7 +995,7 @@ I helped Bonnie unbuckle our shared seatbelt, and with Ashley stepping onto the 
 
 ### Part 14: The Sovereign Palace Theater
 
-**Date:** 1999-05-15 at 17:30 ET
+**Date:** 1999-05-15 at 17:30 America/New_York
 
 The walk away from *The Imperial Rapids* was soundtracked entirely by Bonnie's exaggerated, dramatic complaints.
 
@@ -1067,7 +1067,7 @@ I took a deep breath, manually forcing my tired legs to hold my own weight. I wa
 
 ### Part 15: The Missing Variable
 
-**Date:** 1999-05-15 at 18:15 ET
+**Date:** 1999-05-15 at 18:15 America/New_York
 
 The backstage wings of the *Sovereign Palace Theater* were loud, cramped, and smelled heavily of brass polish and nervous middle schoolers. Through the heavy velvet curtains, the muffled, booming sounds of a different school’s marching band echoing through the main auditorium served as a constant reminder of the ticking clock.
 
@@ -1145,7 +1145,7 @@ I leaned back in my metal chair, grabbing my mallets from my stick bag. The Doja
 
 ### Part 16: The Flawless Equation
 
-**Date:** 1999-05-15 at 19:00 ET
+**Date:** 1999-05-15 at 19:00 America/New_York
 
 "Morrison Middle School, you are up! Go, go, go!" the stage manager barked, waving a glowing orange flashlight toward the wings.
 
@@ -1207,7 +1207,7 @@ As the heavy velvet curtains closed behind us, cutting off the noise of the crow
 
 ### Part 17: The Mathematics of Victory
 
-**Date:** 1999-05-15 at 20:30 ET
+**Date:** 1999-05-15 at 20:30 America/New_York
 
 By the time the sun fully set and the massive amphitheater lights of *The Sovereign Palace Theater* flared to life, my internal processor was completely, blissfully offline.
 
@@ -1269,7 +1269,7 @@ The Old World of middle school had been chaotic and exhausting, but as we sat in
 
 ### Part 18: The Expansion of the Perimeter
 
-**Date:** 1999-05-15 at 22:00 ET
+**Date:** 1999-05-15 at 22:00 America/New_York
 
 The yellow school buses idled in the parking lot of *The Sovereign Palace Theater*, their heavy diesel engines vibrating against the cool night air. The post-competition adrenaline had completely vanished, leaving forty eighth-graders in a state of absolute, heavy exhaustion.
 
@@ -1369,7 +1369,7 @@ I squeezed Rachel's hand, a profound, overwhelming wave of relief washing over m
 
 ### Part 19: The Immutable Geometry
 
-**Date:** 1999-05-15 at 22:30 ET
+**Date:** 1999-05-15 at 22:30 America/New_York
 
 The final three blocks down Morrison Street and onto Delaney Street were a pure, agonizing test of endurance.
 
@@ -1439,7 +1439,7 @@ I closed my eyes, and the Old World faded away into the safety of the dark.
 
 ### Part 1: The Sleepover Calculation
 
-**Date:** 1999-05-16 at 07:15 ET
+**Date:** 1999-05-16 at 07:15 America/New_York
 
 The transition from deep, exhausted sleep back to consciousness was a slow, agonizingly stiff process.
 

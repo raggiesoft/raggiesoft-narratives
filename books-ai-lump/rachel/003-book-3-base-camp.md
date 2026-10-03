@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Weight of September
 
-**Date:** 1995-08-21 at 07:00 ET
+**Date:** 1995-08-21 at 07:00 America/New_York
 
 The gray, early morning light of Monday filtered through the living room blinds, signaling the start of the first official weekday of our new reality.
 
@@ -71,7 +71,7 @@ The Monday war was about to begin for the adults, but for the pack trapped on th
 
 ### Part 2: The Gavel
 
-**Date:** 1995-08-21 at 09:00 ET
+**Date:** 1995-08-21 at 09:00 America/New_York
 
 While we were trapped on the living room sofa, navigating the exhausting logistics of lukewarm oatmeal and medical wedges, Dad was sitting in the front row of the City of Chesapeake Courthouse.
 
@@ -157,7 +157,7 @@ Dad stood up, adjusted his tie, and looked at the two women who had flanked him.
 
 ### Part 3: The War Room
 
-**Date:** 1995-08-21 at 09:00 ET
+**Date:** 1995-08-21 at 09:00 America/New_York
 
 While Dad was sitting in the cold, oak-paneled courtroom watching the gavel fall on the men who broke us, Mom was sitting at the kitchen table, waging a completely different kind of war.
 
@@ -259,7 +259,7 @@ Mom picked up the receiver and started dialing. The Monday war was escalating, a
 
 ### Part 4: The Meltdown
 
-**Date:** 1995-08-21 at 10:45 ET
+**Date:** 1995-08-21 at 10:45 America/New_York
 
 By mid-morning, Janette had swapped *The Desert Prince* for another Majestic Studios classic: *The Lost Valley*.
 
@@ -375,7 +375,7 @@ We locked our fingers together over the pillow wall, our breathing shallow and c
 
 ### Part 5: Safe Harbor
 
-**Date:** 1995-08-21 at 13:00 ET
+**Date:** 1995-08-21 at 13:00 America/New_York
 
 The suffocating tension of the morning's meltdown had finally bled out of the living room. *The Lost Valley* had ended, the little dinosaur had found his sanctuary, and a quiet, exhausted calm had settled over the sofa bed. Dad had returned to the kitchen to help Mom field phone calls, but the heavy wooden door remained propped open just enough for him to keep an eye on the perimeter.
 
@@ -449,7 +449,7 @@ As Dr. Evans turned and walked back into the foyer with Mom and Dad, the living 
 
 ### Part 6: The Full Perimeter
 
-**Date:** 1995-08-21 at 14:30 ET
+**Date:** 1995-08-21 at 14:30 America/New_York
 
 The hum of a familiar engine pulled into the driveway, followed by the unmistakable sound of heavy paws thumping against the floor of a van.
 
@@ -505,7 +505,7 @@ The house was no longer just a building in Norfolk; it was a fortress. The Ragsd
 
 ### Part 7: The Art of Letting Go
 
-**Date:** 1995-08-21 at 16:30 ET
+**Date:** 1995-08-21 at 16:30 America/New_York
 
 The doorbell rang again at half-past four, a sharp contrast to the quiet afternoon. This time, it wasn't a family friend or a neighbor; it was the arrival of the clinical reality we had been dreading.
 
@@ -571,7 +571,7 @@ The Monday war was winding down, but as I felt Dad gently lower my leg back onto
 
 ### Part 8: The Cost of the War
 
-**Date:** 1995-08-21 at 17:15 ET
+**Date:** 1995-08-21 at 17:15 America/New_York
 
 Nurse Brenda snapped her heavy black medical bag shut, her Monday afternoon visit coming to a close. The PROM therapy had been exhausting, leaving my legs feeling like jelly and my mind acutely aware of how broken we were.
 
@@ -659,7 +659,7 @@ In the living room, surrounded by the fierce loyalty of our sisters and the prot
 
 ### Part 9: Nightfall
 
-**Date:** 1995-08-21 at 19:30 ET
+**Date:** 1995-08-21 at 19:30 America/New_York
 
 The adrenaline that had fueled the adults through the Monday War finally began to burn off as the sun set over Delaney Street. The living room darkened, illuminated only by the warm, flickering glow of the television screen and the small lamp on the end table.
 
@@ -741,7 +741,7 @@ Let the four months begin.
 
 ### Part 1: The Transfer of Trust
 
-**Date:** 1995-08-22 at 08:30 ET
+**Date:** 1995-08-22 at 08:30 America/New_York
 
 Tuesday morning felt entirely different than Monday.
 
@@ -857,7 +857,7 @@ I looked over at Jessica and Janette. They both gave small, approving nods. The 
 
 ### Part 2: The Vault and the VHS
 
-**Date:** 1995-08-22 at 09:30 ET
+**Date:** 1995-08-22 at 09:30 America/New_York
 
 The quiet safety of the living room hung in the balance. Rachel had just spoken the terrifying truth out loud, admitting to Ashley that she was afraid of being stepped on again.
 
@@ -919,7 +919,7 @@ The marathon had officially begun. We were trapped in our medical binders, and t
 
 ### Part 3: The First Lift
 
-**Date:** 1995-08-22 at 12:00 ET
+**Date:** 1995-08-22 at 12:00 America/New_York
 
 The grandfather clock in the hallway chimed noon, cutting through the sweeping orchestral finale of *The Coral Kingdom*.
 
@@ -981,7 +981,7 @@ As the girls took their turns in the bathroom, Jim gave my shoulder a quick, rea
 
 ### Part 4: Silly Fill-Ins and Mending
 
-**Date:** 1995-08-22 at 13:00 ET
+**Date:** 1995-08-22 at 13:00 America/New_York
 
 The afternoon stretched out before us, vast and empty.
 
@@ -1025,7 +1025,7 @@ The marathon was going to be agonizingly long, but as I listened to Ashley read 
 
 ### Part 5: The Hum of the House
 
-**Date:** 1995-08-22 at 16:00 ET
+**Date:** 1995-08-22 at 16:00 America/New_York
 
 As the late afternoon shadows stretched longer across the living room carpet, the quiet, mundane rhythms of a normal household began to assert themselves against the trauma.
 
@@ -1065,7 +1065,7 @@ I leaned back against my wedge, the dull ache in my core settling into a familia
 
 ### Part 6: The Night Shift
 
-**Date:** 1995-08-22 at 19:00 ET
+**Date:** 1995-08-22 at 19:00 America/New_York
 
 At exactly seven o'clock, the heavy front door swung open. Dad walked in, still wearing his *Baja Taco* manager uniform, carrying the faint, unmistakable scent of corn shells and fryer oil. His shoulders were slumped with the exhaustion of an eight-and-a-half-hour shift, but the moment his eyes scanned the living room and found the perimeter intact, a wave of profound relief washed over his face.
 
@@ -1147,7 +1147,7 @@ They turned and walked up the wooden stairs. I lay flat on my back, listening to
 
 ### Part 1: The Sunday Shift
 
-**Date:** 1995-08-27 at 08:00 ET
+**Date:** 1995-08-27 at 08:00 America/New_York
 
 By the time Sunday morning arrived, marking the end of our first full week trapped in the living room, the Base Camp had settled into a fragile, highly calculated rhythm.
 
@@ -1205,7 +1205,7 @@ It was just the pack, holding the line, waiting for the birthday girl to arrive.
 
 ### Part 2: The Rootkit
 
-**Date:** 1995-08-27 at 13:05 ET
+**Date:** 1995-08-27 at 13:05 America/New_York
 
 By twelve-fifteen, Mom had kissed our foreheads, grabbed her purse, and headed out the door to make her afternoon shift at *Wellington’s*. Dad, having managed to catch a few hours of sleep, was back downstairs, fully awake and holding the perimeter with Jessica and Janette.
 
@@ -1333,7 +1333,7 @@ Rachel reached her hand out across the pillow wall, finding mine. We laced our f
 
 ### Part 3: The Canine Guard
 
-**Date:** 1995-08-27 at 14:30 ET
+**Date:** 1995-08-27 at 14:30 America/New_York
 
 The living room remained wrapped in a thick, exhausted silence. The physical threat of the meltdown had passed, but the psychological fallout was absolute.
 
@@ -1389,7 +1389,7 @@ The heavy front door opened, and then clicked shut. The deadbolt turned from the
 
 ### Part 4: The Gentle Lift
 
-**Date:** 1995-08-27 at 20:00 ET
+**Date:** 1995-08-27 at 20:00 America/New_York
 
 The evening shadows stretched completely across the living room, settling into the familiar, heavy dusk of the late summer. The television remained off. The house was quiet, filled only with the soft, ambient sounds of the Raybourns and the Ragsdales simply existing together in the space.
 
@@ -1461,7 +1461,7 @@ The birthday party was over, but as the quiet house settled around us, I realize
 
 ### Part 5: The Flat Relief
 
-**Date:** 1995-08-27 at 20:30 ET
+**Date:** 1995-08-27 at 20:30 America/New_York
 
 Before the Raybourn family could fully gather their things to head out the front door, the physical toll of the long afternoon finally caught up with me.
 
@@ -1529,7 +1529,7 @@ We lay completely flat against the mattress, listening to the clicking of Grandm
 
 ### Part 1: The First Bell
 
-**Date:** 1995-09-05 at 07:30 ET
+**Date:** 1995-09-05 at 07:30 America/New_York
 
 The Tuesday after Labor Day carried a specific, unmistakable energy. Even from the confines of the living room sofa bed, I could feel the familiar rhythm of September shifting into gear.
 
@@ -1603,7 +1603,7 @@ At exactly nine o'clock, the doorbell rang.
 
 ### Part 2: The Assessment
 
-**Date:** 1995-09-05 at 09:00 ET
+**Date:** 1995-09-05 at 09:00 America/New_York
 
 The doorbell echoed through the quiet house, a sharp, metallic ring that made my pulse spike. Beside me, Rachel’s fingers tightened around mine. Even Baby, whose massive head was resting against the mattress, let out a low, vibrating rumble deep in his chest.
 
@@ -1705,7 +1705,7 @@ The grandfather clock in the hallway ticked quietly. The house was calm, the dog
 
 ### Part 3: The Brain Break
 
-**Date:** 1995-09-05 at 10:15 ET
+**Date:** 1995-09-05 at 10:15 America/New_York
 
 For the first hour and fifteen minutes, the only sounds in the living room were the scratch of graphite against wide-ruled paper, the soft, metallic clicking of Grandma Loretta’s knitting needles, and the steady, rhythmic breathing of the dogs.
 
@@ -1777,7 +1777,7 @@ We lay there perfectly flat in the quiet living room, physically drained but men
 
 ### Part 4: The Physics of the Lift
 
-**Date:** 1995-09-05 at 10:20 ET
+**Date:** 1995-09-05 at 10:20 America/New_York
 
 The fifteen-minute brain break was winding down when the heavy wooden door to the kitchen swung open again. Uncle Jim stepped into the living room, wiping his hands on his jeans.
 
@@ -1847,7 +1847,7 @@ The adults had locked the perimeter, Jim had handled the agonizing physical real
 
 ### Part 5: The Independent System
 
-**Date:** 1995-09-05 at 11:15 ET
+**Date:** 1995-09-05 at 11:15 America/New_York
 
 The final forty-five minutes of the tutoring block required a completely different kind of focus.
 
@@ -1885,7 +1885,7 @@ For the final stretch, we didn't have to write. We just listened. Mrs. Higgins w
 
 ### Part 6: The Changing of the Guard
 
-**Date:** 1995-09-05 at 11:55 ET
+**Date:** 1995-09-05 at 11:55 America/New_York
 
 The heavy, resonant chime of the grandfather clock in the hallway began to strike noon.
 
@@ -1919,7 +1919,7 @@ The first day of fifth grade was in the books. The tutor was safe. The system wo
 
 ### Part 7: The Afternoon Rest
 
-**Date:** 1995-09-05 at 12:10 ET
+**Date:** 1995-09-05 at 12:10 America/New_York
 
 With the front door safely locked and Mrs. Higgins gone, the rigid academic posture of the living room immediately dissolved.
 
@@ -1963,7 +1963,7 @@ We lay perfectly flat on our backs, heavily anchored to each other in the quiet 
 
 ### Part 8: The Way of Seondu
 
-**Date:** 1995-09-05 at 13:00 ET
+**Date:** 1995-09-05 at 13:00 America/New_York
 
 The house was quiet, wrapped in the exhausted, mid-day lull of the Homebound schedule. Rachel and I were lying perfectly flat against the mattress, our fingers locked together over the three-pillow barrier, when a soft knock sounded at the front door.
 
@@ -2111,7 +2111,7 @@ As she walked out the front door, the deadbolt clicking shut behind her, the hea
 
 ### Part 1: The Autumn Shift
 
-**Date:** 1995-09-30 at 08:30 ET
+**Date:** 1995-09-30 at 08:30 America/New_York
 
 By the last Saturday in September, the oppressive, suffocating humidity of the Virginia Beach summer finally broke.
 
@@ -2155,7 +2155,7 @@ Rachel gave a tiny, resolute nod.
 
 ### Part 2: The Breach
 
-**Date:** 1995-09-30 at 09:00 ET
+**Date:** 1995-09-30 at 09:00 America/New_York
 
 Mom kissed our foreheads, gave Dad a quick hug, and headed out the door to make her retail shift.
 
@@ -2193,7 +2193,7 @@ Dad stepped right up to the edge of the carpet, folding his arms across his ches
 
 ### Part 3: The Soot and the Sound
 
-**Date:** 1995-09-30 at 09:30 ET
+**Date:** 1995-09-30 at 09:30 America/New_York
 
 The visual threat of the adult male was mitigated by Dad's presence, but the auditory assault was impossible to block.
 
@@ -2223,7 +2223,7 @@ For the next forty-five minutes, we lay perfectly flat against our wedges, endur
 
 ### Part 4: Fortifying the Perimeter
 
-**Date:** 1995-09-30 at 10:30 ET
+**Date:** 1995-09-30 at 10:30 America/New_York
 
 The vacuum finally whined to a halt. The scraping stopped.
 
@@ -2267,7 +2267,7 @@ The chill in the air was still there, but it didn't matter anymore. The chimney 
 
 ### Part 1: The Wednesday Rhythm
 
-**Date:** 1995-10-04 at 16:00 ET
+**Date:** 1995-10-04 at 16:00 America/New_York
 
 By the first week of October, the Base Camp had settled into a highly disciplined, mechanical rhythm. The suffocating terror of August had slowly been replaced by the predictable, operational grind of the Homebound schedule.
 
@@ -2285,7 +2285,7 @@ At four-fifteen, the heavy deadbolt on the front door clicked open.
 
 ### Part 2: The Envelope
 
-**Date:** 1995-10-04 at 16:20 ET
+**Date:** 1995-10-04 at 16:20 America/New_York
 
 The heavy wooden door swung open, and Dad stepped into the foyer. He was still wearing his Baja Taco manager uniform, carrying the faint scent of the kitchen fryers, but his posture was entirely different today. He wasn't slumped with the usual exhaustion of a daytime shift. His shoulders were pulled back, his jaw was set, and his eyes were burning with a quiet, intense victory.
 
@@ -2315,7 +2315,7 @@ He pulled out a glossy Polaroid photograph and leaned forward, holding it out ov
 
 ### Part 3: Visual Proof
 
-**Date:** 1995-10-04 at 16:25 ET
+**Date:** 1995-10-04 at 16:25 America/New_York
 
 I focused my eyes on the square photograph.
 
@@ -2347,7 +2347,7 @@ Dad looked back at her, his expression a fortress of absolute protection.
 
 ### Part 4: Closure
 
-**Date:** 1995-10-04 at 16:40 ET
+**Date:** 1995-10-04 at 16:40 America/New_York
 
 In the dining room, Jessica let out a fierce, triumphant laugh, high-fiving Janette so hard the sound echoed off the dark-stained table. The teenage guard didn't just feel safe; they felt victorious.
 
@@ -2371,7 +2371,7 @@ The Monday War was officially over. The Ragsdale pack had won.
 
 ### Part 1: A Full Perimeter
 
-**Date:** 1995-10-14 at 17:00 ET
+**Date:** 1995-10-14 at 17:00 America/New_York
 
 By mid-October, the Base Camp had seen its share of high-stress operational days, but Saturday, October 14th, was entirely different. The strict, quiet discipline of the Homebound era was temporarily suspended. The living room perimeter was flooded—not with threats, but with the entire extended pack.
 
@@ -2385,7 +2385,7 @@ The physical environment was identical to Ashley’s 10th birthday back in Augus
 
 ### Part 2: The Lead Guard
 
-**Date:** 1995-10-14 at 17:30 ET
+**Date:** 1995-10-14 at 17:30 America/New_York
 
 Jessica stood at the foot of the sofa bed, holding a paper plate. She was officially fifteen years old.
 
@@ -2399,7 +2399,7 @@ Jessica walked around the edge of the coffee table and sat directly on the floor
 
 ### Part 3: The Phantom Anchor
 
-**Date:** 1995-10-14 at 17:45 ET
+**Date:** 1995-10-14 at 17:45 America/New_York
 
 On the mattress, Rachel shifted slightly.
 
@@ -2421,7 +2421,7 @@ The adults stayed in the dining room. The acoustic bleed continued to drift over
 
 ### Part 1: The Midnight Blue Shield
 
-**Date:** 1995-10-20 at 16:30 ET
+**Date:** 1995-10-20 at 16:30 America/New_York
 
 The grandfather clock in the hallway ticked steadily toward half-past four.
 
@@ -2479,7 +2479,7 @@ Rachel didn't speak, but her dark eyes widened as she took in the familiar weigh
 
 ### Part 2: The Voice of Korea
 
-**Date:** 1995-10-20 at 16:35 ET
+**Date:** 1995-10-20 at 16:35 America/New_York
 
 April stood perfectly still at the edge of the room. She didn't look at us with pity, and she didn't treat the space like a hospital ward. She looked at the floor mattresses, the medical wedges, and the heavy white canvas binders wrapped around our waists, and her expression hardened into a mask of absolute, quiet respect.
 
@@ -2547,7 +2547,7 @@ When she finally rose, the air in the house felt fundamentally different. By the
 
 ### Part 3: The Shadow Arts
 
-**Date:** 1995-10-20 at 16:45 ET
+**Date:** 1995-10-20 at 16:45 America/New_York
 
 "Alright, class," April announced, transitioning seamlessly into her instructional cadence. "We are going to study the Shadow Arts today. It is a specialized form of training designed entirely around biomechanical isolation."
 
@@ -2639,7 +2639,7 @@ Rachel took a slow, jagged sip of air. Her terrified posture slowly melted back 
 
 ### Part 4: The Internal Kihap
 
-**Date:** 1995-10-20 at 17:15 ET
+**Date:** 1995-10-20 at 17:15 America/New_York
 
 "Kman," April called out, raising a hand to stop the drill.
 
@@ -2707,7 +2707,7 @@ Rachel looked up, meeting April's gaze directly. Her dark eyes were shining with
 
 ### Part 5: The Official Capacity
 
-**Date:** 1995-10-20 at 17:30 ET
+**Date:** 1995-10-20 at 17:30 America/New_York
 
 Before April could officially call an end to the session, I looked past the foot of the sofa bed at the heavy, hardcover book resting on the coffee table.
 

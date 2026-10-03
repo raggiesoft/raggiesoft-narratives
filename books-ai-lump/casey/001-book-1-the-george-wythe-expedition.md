@@ -9,7 +9,7 @@ series: "The Quantum Directive: The Caretakers"
 
 ### Part 1: Departing NPN
 
-**Date:** 1995-07-01 at 08:00 ET
+**Date:** 1995-07-01 at 08:00 America/New_York
 
 The humid morning air of Virginia Beach was already clinging to us by the time my father parked the family station wagon at the Newport News (NPN) transit station. It was the summer of 1995, and I was ten years old. My little sister, Casey, was eight, and she was currently vibrating with the uncontainable energy of a child who firmly believed she was about to make a massive, life-altering decision.
 
@@ -39,7 +39,7 @@ But for now, the distant, heavy blast of a train horn echoed down the tracks. Th
 
 ### Part 2: The Northern Regional
 
-**Date:** 1995-07-01 at 08:30 ET
+**Date:** 1995-07-01 at 08:30 America/New_York
 
 The ARTS Northeast Regional train rocked gently as it cleared the limits of Newport News, settling into a smooth, high-speed cadence on the rails heading north. 
 
@@ -75,7 +75,7 @@ I looked out the window again, smiling. Casey wasn't just tagging along on her o
 
 ### Part 3: The Seven Corners Transfer
 
-**Date:** 1995-07-01 at 12:45 ET
+**Date:** 1995-07-01 at 12:45 America/New_York
 
 The moment the ARTS Northeast Regional pulled into Alexandria Station (ALX), our family’s transition from passengers to a unified logistical unit was immediate.
 
@@ -121,7 +121,7 @@ Casey sighed, clearly annoyed by the bureaucratic red tape. "Fine. But request g
 
 ### Part 4: The Crown Burger Debrief
 
-**Date:** 1995-07-01 at 18:30 ET
+**Date:** 1995-07-01 at 18:30 America/New_York
 
 Once we unloaded our luggage into the adjoining motel rooms, my parents realized exactly how exhausted they were from the four-leg transit gauntlet. Rather than attempting to navigate a sit-down restaurant, we opted for the immediate, high-caloric efficiency of the Crown Burger located right next door in the same parking lot.
 
@@ -161,7 +161,7 @@ Cassandra didn't just want to attend college. She was planning to conquer it.
 
 ### Part 1: The Continental Breakfast
 
-**Date:** 1995-07-01 at 07:30 ET
+**Date:** 1995-07-01 at 07:30 America/New_York
 
 The George Wythe University Student Union was a massive, echoing atrium of brutalist concrete and large glass windows, designed to look impressive on brochures but currently functioning as a highly inefficient echo chamber. 
 
@@ -193,7 +193,7 @@ Casey nodded, taking a bite of her muffin. "I have the route memorized. We move 
 
 ### Part 2: The Architecture of the Past
 
-**Date:** 1995-07-01 at 09:45 ET
+**Date:** 1995-07-01 at 09:45 America/New_York
 
 Despite Cassandra's earlier insistence on bypassing the general campus tour, she quickly realized that the George Wythe University campus layout was highly irregular. Because we lacked the necessary topographic data to navigate the winding footpaths and dense brick facades autonomously, she made the tactical decision to join the massive herd of prospective students for the guided academic walking tour. 
 
@@ -239,7 +239,7 @@ Cassandra kept her polite, pleasant expression firmly in place for the benefit o
 
 ### Part 3: The Dormitory Metric
 
-**Date:** 1995-07-01 at 13:00 ET
+**Date:** 1995-07-01 at 13:00 America/New_York
 
 We left the oppressive chill of the Computer Science building and made our way back across the academic quad to the Student Services center. At precisely 1300 hours, we were sitting in the small, warmly lit office of the George Wythe University Disability Services coordinator. 
 
@@ -271,7 +271,7 @@ Because once Casey and I finished our summer camps at VDU, our family was flying
 
 ### Part 4: Early Dismissal
 
-**Date:** 1995-07-01 at 14:15 ET
+**Date:** 1995-07-01 at 14:15 America/New_York
 
 We stepped out of the Student Services center and back into the humid Virginia afternoon. The Open House was technically scheduled to run until five o'clock, with more breakout sessions, a student life panel, and an evening mixer in the dining hall. 
 
@@ -307,7 +307,7 @@ She looked back out the window, watching a Capital Transit bus rumble past the d
 
 ### Part 5: The Evening Routine
 
-**Date:** 1995-07-01 at 20:00 ET
+**Date:** 1995-07-01 at 20:00 America/New_York
 
 By the time we navigated the CCT bus back to the motel in Vienna, the sun had set, and the oppressive Virginia heat had finally broken into a mild, humid evening. 
 
@@ -349,7 +349,7 @@ I didn't know the answer yet. But as I listened to the water running, I realized
 
 ### Part 6: Lights Out
 
-**Date:** 1995-07-01 at 21:30 ET
+**Date:** 1995-07-01 at 21:30 America/New_York
 
 When the bathroom door finally opened, Cassandra was already dressed in her pajamas. Mom helped her wheel across the carpet and execute a smooth pivot transfer into the nearest queen bed. 
 
@@ -395,7 +395,7 @@ I smiled, pulling the comforter up a little higher over her shoulders. The stres
 
 ### Part 1: The Connecticut Avenue Bypass
 
-**Date:** 1995-07-01 at 09:00 ET
+**Date:** 1995-07-01 at 09:00 America/New_York
 
 The next morning was significantly more relaxed. Without a rigid university itinerary demanding our presence at an aggressively air-conditioned student union, we took our time eating the free continental breakfast in the motel lobby before catching the CCT bus back to the Vienna transit center.
  
@@ -437,7 +437,7 @@ Cassandra turned the key, and the scooter hummed to life. She tested the throttl
 
 ### Part 2: The Olmsted Walk
 
-**Date:** 1995-07-01 at 10:30 ET
+**Date:** 1995-07-01 at 10:30 America/New_York
 
 The National Zoo's primary artery, the Olmsted Walk, is a massive, winding paved pathway that slopes aggressively downhill into the Rock Creek valley. By ten-thirty in the morning, the dense humidity of the D.C. summer had already turned the air into a thick, sweltering soup. 
 
@@ -481,7 +481,7 @@ Cassandra smirked, hitting the throttle on her scooter and leading the charge as
 
 ### Part 3: The Pop-Up Storm
 
-**Date:** 1995-07-01 at 12:15 ET
+**Date:** 1995-07-01 at 12:15 America/New_York
 
 By the time we navigated the final steep grade down to the bottom of the Rock Creek valley, the oppressive midday heat had begun to mutate. The sky, which had been a clear, blistering blue all morning, suddenly turned a bruised, heavy shade of purple. 
 
@@ -523,7 +523,7 @@ Casey sighed, carefully analyzing a soggy French fry before eating it. "I suppos
 
 ### Part 4: The Wet Weather Metric
 
-**Date:** 1995-07-01 at 13:30 ET
+**Date:** 1995-07-01 at 13:30 America/New_York
 
 An hour later, the torrential downpour hadn't let up. If anything, the D.C. thunderstorm had dug in, turning the massive glass windows of the Mane Restaurant into a blurry, watery gray sheet. The sky was so dark the cafeteria’s overhead lights had kicked on. 
 
@@ -559,7 +559,7 @@ We sat in the booth for another thirty minutes, watching the rain hammer the pav
 
 ### Part 5: The L'Enfant Maze
 
-**Date:** 1995-07-01 at 14:30 ET
+**Date:** 1995-07-01 at 14:30 America/New_York
 
 When the violent thunderstorm finally collapsed into a manageable, steady drizzle, we initiated the extraction. 
 
@@ -605,7 +605,7 @@ We turned the corner, looking down Independence Avenue. Just one block away, the
 
 ### Part 6: The
 
-**Date:** 1995-07-01 at 14:45 ET
+**Date:** 1995-07-01 at 14:45 America/New_York
 
 The moment we passed through the heavy revolving doors of the Finch Air and Space Museum, the brutal D.C. humidity was instantly replaced by a wall of aggressively purified, freezing air-conditioning. 
 
@@ -651,7 +651,7 @@ I stood in front of the Lunar Module, staring up at the fragile, insect-like lan
 
 ### Part 7: Rocket Burger and the Return Vector
 
-**Date:** 1995-07-01 at 17:00 ET
+**Date:** 1995-07-01 at 17:00 America/New_York
 
 At precisely 5:00 PM, the overhead lights in the Space Hall flickered. A polite but firm announcement echoed over the PA system, informing us that the Finch Air and Space Museum was officially closing for the day. 
 
@@ -689,7 +689,7 @@ We took the elevator down to the bus bays, boarded the CCT bus, and made the sho
 
 ### Part 8: The GWU Rivalry and Deep Pressure
 
-**Date:** 1995-07-01 at 21:00 ET
+**Date:** 1995-07-01 at 21:00 America/New_York
 
 Back at the motel, the exhaustion of the day finally caught up with us. Mom and Dad had opened the heavy adjoining door between our two rooms, allowing the cool air-conditioning and the quiet hum of the television to drift back and forth. 
 
@@ -1661,7 +1661,7 @@ The future was out there, waiting for us. All we had to do was calculate the tra
 
 ### Part 1: The Departure
 
-**Date:** 1995-08-23 at 06:00 PT
+**Date:** 1995-08-23 at 06:00 America/Los_Angeles
 
 Only a few days after the VDU summer camp officially ended, our entire operational schedule was abruptly rewritten. Mom had been planning this logistical maneuver for months, but to Casey and me, it felt like an instantaneous warp across the continent. 
 
@@ -1709,7 +1709,7 @@ Now, we were flying directly into their territory.
 
 ### Part 2: The Denver Layover
 
-**Date:** 1995-08-23 at 11:30 PT
+**Date:** 1995-08-23 at 11:30 America/Los_Angeles
 
 The flight from Norfolk to Denver was remarkably smooth. I spent the majority of the four-hour flight analyzing the aerodynamic flex of the airliner's massive wings out the window, while Casey meticulously logged our altitude and heading changes in her notebook. 
 
@@ -1753,7 +1753,7 @@ Cassandra looked out the window, her jaw set in a tight, determined line. The co
 
 ### Part 3: The Ride Free Area
 
-**Date:** 1995-08-23 at 14:30 PT
+**Date:** 1995-08-23 at 14:30 America/Los_Angeles
 
 The heavy cloud cover over the Pacific Northwest was a stark contrast to the blazing August sun we had left behind in Virginia. When we touched down at SEA and retrieved our luggage from baggage claim, the air outside the terminal was cool, damp, and smelled heavily of pine needles and jet fuel. 
 
@@ -1805,7 +1805,7 @@ Cassandra took a deep breath, gripping the handrims of her wheelchair. She was o
 
 ### Part 4: The Topography
 
-**Date:** 1995-08-23 at 16:00 PT
+**Date:** 1995-08-23 at 16:00 America/Los_Angeles
 
 We checked into our hotel on University Way Northeast, dropped our heavy backpacks in the room, and immediately set out to establish a perimeter around the Northwest Pacific University campus. 
 
@@ -1843,7 +1843,7 @@ Cassandra sat in her chair, staring up at the towering, gothic library at the ab
 
 ### Part 5: The Hotel Logistics
 
-**Date:** 1995-08-23 at 20:00 PT
+**Date:** 1995-08-23 at 20:00 America/Los_Angeles
 
 By the time we retreated to the hotel on University Way, we were all physically destroyed. The topography of the NPU campus had drained our collective physical battery down to zero. 
 
@@ -1891,7 +1891,7 @@ Tomorrow, we were going to the NPU Open House.
 
 ### Part 1: The Engineering Quad
 
-**Date:** 1995-08-24 at 09:00 PT
+**Date:** 1995-08-24 at 09:00 America/Los_Angeles
 
 The next morning, the heavy Seattle cloud cover finally broke, bathing the Northwest Pacific University campus in brilliant, crisp sunlight. 
 
@@ -1931,7 +1931,7 @@ Cassandra looked back at Mom and Dad. Her breathing was already starting to acce
 
 ### Part 2: The Quantum Pavilion
 
-**Date:** 1995-08-24 at 09:30 PT
+**Date:** 1995-08-24 at 09:30 America/Los_Angeles
 
 Cassandra pushed her wheelchair across the manicured grass of the engineering quad, moving with the sheer, singular focus of a heat-seeking missile. 
 
@@ -1993,7 +1993,7 @@ But he had just given her absolute, undeniable validation.
 
 ### Part 3: The Quantaneers
 
-**Date:** 1995-08-24 at 10:00 PT
+**Date:** 1995-08-24 at 10:00 America/Los_Angeles
 
 As Steve Ballantine marched off to greet another group of university faculty, Cassandra turned her wheelchair toward the main Quantum demonstration booth. 
 
@@ -2037,7 +2037,7 @@ I stood next to Mom, silently observing the interaction. Cassandra wasn't shrink
 
 ### Part 4: The Internal Elevators
 
-**Date:** 1995-08-24 at 11:00 PT
+**Date:** 1995-08-24 at 11:00 America/Los_Angeles
 
 With the Quantum Corporation encounter successfully resolved, we merged back into the general population of prospective students for the official NPU campus tour. 
 
@@ -2081,7 +2081,7 @@ She just had to win the Catalyst Initiative.
 
 ### Part 5: The Two Paths
 
-**Date:** 1995-08-24 at 13:00 PT
+**Date:** 1995-08-24 at 13:00 America/Los_Angeles
 
 The official open house concluded with a massive, complimentary lunch in the primary NPU dining hall. The room was a sprawling, cavernous space filled with long wooden tables, echoing with the chaotic chatter of hundreds of prospective students and their parents. 
 
@@ -2107,7 +2107,7 @@ She had done everything right. Now, all we could do was fly back to Virginia and
 
 ### Part 6: The Logistics of Care
 
-**Date:** 1995-08-24 at 15:00 PT
+**Date:** 1995-08-24 at 15:00 America/Los_Angeles
 
 By mid-afternoon, we had retreated to the hotel on University Way. The high-stakes, operational phase of the trip was officially over, and Dad had declared that the next three days were going to be a pure family vacation. If Cassandra was potentially moving to Seattle next year, she needed to understand the region beyond just the brick pathways of the university quad. 
 
@@ -2143,7 +2143,7 @@ Mom laughed softly, finishing the stretching routine and pulling the blankets up
 
 ### Part 7: The Vacation Protocol
 
-**Date:** 1995-08-24 at 19:00 PT
+**Date:** 1995-08-24 at 19:00 America/Los_Angeles
 
 Dad and Casey returned to the hotel room a few minutes later, balancing a cardboard tray of massive iced coffees. Casey immediately moved to her side of our shared bed, carefully aligning her drink with the edge of the nightstand. 
 
@@ -2181,7 +2181,7 @@ The Emerald City was ready for her. We just had to wait for the phone to ring.
 
 ### Part 1: The Century Spire
 
-**Date:** 1995-08-24 at 10:00 PT
+**Date:** 1995-08-24 at 10:00 America/Los_Angeles
 
 The next morning, we executed Casey's tourist itinerary precisely as written. We navigated the multi-level labyrinth of the Pioneer Public Market, using the hidden service elevators behind the fishmongers to bypass the stairs. Then, we boarded the downtown monorail, riding the elevated track straight to the base of the Century Spire. 
 
@@ -2221,7 +2221,7 @@ For the first time all week, we just got to be geeks.
 
 ### Part 2: The Planetarium
 
-**Date:** 1995-08-24 at 12:00 PT
+**Date:** 1995-08-24 at 12:00 America/Los_Angeles
 
 By noon, our family had completely recovered our equilibrium. We migrated from the interactive physics wing of the Cascadia Science Center and headed straight for the massive, iconic white dome of the planetarium. 
 
@@ -2253,7 +2253,7 @@ We sat in the dark for forty-five minutes. When the lights finally came back up 
 
 ### Part 3: The Emperor of Redmond
 
-**Date:** 1995-08-24 at 14:00 PT
+**Date:** 1995-08-24 at 14:00 America/Los_Angeles
 
 After a quick lunch at the Seattle Center armory, Cassandra called a logistical audible. 
 
@@ -2309,7 +2309,7 @@ The Emperor of Redmond smiled, clasped his hands behind his back, and began walk
 
 ### Part 4: The Zenith Motherboard
 
-**Date:** 1995-08-24 at 14:15 PT
+**Date:** 1995-08-24 at 14:15 America/Los_Angeles
 
 "You have to understand the operational context of 1975," William Keswick said, walking backward down the museum aisle with the casual ease of a man who owned the entire building. "Arthur and I didn't actually own a Zenith 8800. They were incredibly expensive, and we were broke college kids. So, we wrote the entire Q-Code interpreter using an emulator on a massive university mainframe."
 
@@ -2349,7 +2349,7 @@ He didn't say anything else about her code, or the university, or why Steve Ball
 
 ### Part 5: The Five-Megabyte Monolith
 
-**Date:** 1995-08-24 at 14:30 PT
+**Date:** 1995-08-24 at 14:30 America/Los_Angeles
 
 William Keswick led us past the Zenith 8800 and toward the back of the gallery. The entire rear wall of the museum was dominated by a massive glass enclosure holding an industrial machine the size of two large refrigerators. 
 
@@ -2393,7 +2393,7 @@ Dad let out a long, slow breath. "Did that actually just happen?"
 
 ### Part 6: Lake Washington
 
-**Date:** 1995-08-24 at 17:00 PT
+**Date:** 1995-08-24 at 17:00 America/Los_Angeles
 
 By the time we boarded the westbound TAPS Route 254 to head back to Seattle, the reality of what had just happened was finally settling in. 
 
@@ -2423,7 +2423,7 @@ After dinner, we boarded one final northbound bus back to the University Distric
 
 ### Part 7: The Privacy Protocol
 
-**Date:** 1995-08-24 at 20:00 PT
+**Date:** 1995-08-24 at 20:00 America/Los_Angeles
 
 By the time we unlocked the door to our hotel room in the University District, everyone's adrenaline reserves had completely bottomed out. Dad immediately collapsed onto the chair by the window. Casey dropped her backpack onto the floor and laid face-down on the far edge of the kids' bed. 
 
@@ -2467,7 +2467,7 @@ It was, objectively, the greatest Thursday of my entire life.
 
 ### Part 1: Siren Roasters
 
-**Date:** 1995-08-25 at 08:00 PT
+**Date:** 1995-08-25 at 08:00 America/Los_Angeles
 
 Friday morning hit me like a physical blow. When my alarm went off at seven o'clock, my legs were entirely stiff, protesting the massive amount of walking I had done the day before. 
 
@@ -2505,7 +2505,7 @@ We took his advice. Five minutes later, we were sitting on a set of wooden bench
 
 ### Part 2: The Underwater Dome
 
-**Date:** 1995-08-25 at 09:30 PT
+**Date:** 1995-08-25 at 09:30 America/Los_Angeles
 
 After obliterating our breakfast pastries, we navigated the wooden planks of Pier 59 to the entrance of the Puget Sound Aquarium. Because it was early on a Friday morning, we managed to beat the massive influx of summer tourists. 
 
@@ -2539,7 +2539,7 @@ For the next forty-five minutes, we didn't look at schedules, we didn't calculat
 
 ### Part 3: The Gift Shop
 
-**Date:** 1995-08-25 at 10:45 PT
+**Date:** 1995-08-25 at 10:45 America/Los_Angeles
 
 Like all major tourist attractions, the Puget Sound Aquarium aggressively funneled all exiting foot traffic directly through the massive, brightly lit gift shop. 
 
@@ -2573,7 +2573,7 @@ Casey pulled out her notebook, shielding her eyes from the glare. "According to 
 
 ### Part 4: The Prospector's Registry
 
-**Date:** 1995-08-25 at 11:30 PT
+**Date:** 1995-08-25 at 11:30 America/Los_Angeles
 
 We took a short bus ride south through downtown, transferring to Pioneer Square. Nestled into the historic brick architecture of the neighborhood was our next stop: the Seattle unit of the Klondike Gold Rush National Historical Park. 
 
@@ -2611,7 +2611,7 @@ He looked at me, a massive smile spreading across his face. "Who is ready to go 
 
 ### Part 5: TAPS Route 174
 
-**Date:** 1995-08-25 at 12:15 PT
+**Date:** 1995-08-25 at 12:15 America/Los_Angeles
 
 To get to the Pacific Aerospace Museum, we had to travel several miles south of downtown Seattle to King County International Airport, historically known as Boeing Field. 
 
@@ -2651,7 +2651,7 @@ Rising up against the gray sky, sitting directly on the edge of the King County 
 
 ### Part 6: The Great Gallery
 
-**Date:** 1995-08-25 at 13:00 PT
+**Date:** 1995-08-25 at 13:00 America/Los_Angeles
 
 If there is one thing Seattle understood better than coffee and rain, it was aviation. 
 
@@ -2697,7 +2697,7 @@ By the time we regrouped in the lobby at three o'clock, we were completely exhau
 
 ### Part 7: The Extraction
 
-**Date:** 1995-08-25 at 16:30 PT
+**Date:** 1995-08-25 at 16:30 America/Los_Angeles
 
 By the time we walked out of the Pacific Aerospace Museum, our collective energy reserves were completely depleted. 
 
@@ -2737,7 +2737,7 @@ Casey was right. It had been a highly successful operation.
 
 ### Part 1: The 174 Southbound
 
-**Date:** 1995-08-26 at 04:30 PT
+**Date:** 1995-08-26 at 04:30 America/Los_Angeles
 
 My alarm went off at 3:30 in the morning. 
 
@@ -2771,7 +2771,7 @@ The driver locked her wheelchair into the securement zone while Mom, Casey, and 
 
 ### Part 2: The Gateway Counter
 
-**Date:** 1995-08-26 at 06:00 PT
+**Date:** 1995-08-26 at 06:00 America/Los_Angeles
 
 The Route 174 finally deposited us at the curbside drop-off of Seattle-Tacoma International Airport just as the sun began to breach the horizon, painting the thick Pacific Northwest clouds in brilliant streaks of orange and purple. 
 
@@ -2803,7 +2803,7 @@ Just like that, we were standing in the main concourse of the airport, completel
 
 ### Part 3: The Chicago Layover
 
-**Date:** 1995-08-26 at 14:00 PT
+**Date:** 1995-08-26 at 14:00 America/Los_Angeles
 
 The four-hour flight from Seattle to Chicago was completely uneventful. We were so exhausted from the grueling pace of the vacation that the moment the Gateway Airlines Boeing 737 reached cruising altitude, all three of us fell asleep. 
 
@@ -2843,7 +2843,7 @@ We boarded our final Gateway Airlines flight, settling into our seats as the sun
 
 ### Part 1: The Call
 
-**Date:** 1996-04-21 PT
+**Date:** 1996-04-21 America/Los_Angeles
 
 The heavy black box had arrived via overnight courier while we were at school. 
 
@@ -2895,7 +2895,7 @@ Mom immediately wrapped her arms around Cassandra's shoulders, crying just as ha
 
 ### Part 2: The Celebration
 
-**Date:** 1996-04-21 at 19:00 PT
+**Date:** 1996-04-21 at 19:00 America/Los_Angeles
 
 By six o'clock, our small suburban house was completely packed. 
 
@@ -2947,7 +2947,7 @@ Cassandra Vance hadn't just survived the friction. She had used it to launch her
 
 ### Part 3: The Sleepover
 
-**Date:** 1996-04-21 at 23:30 PT
+**Date:** 1996-04-21 at 23:30 America/Los_Angeles
 
 By ten o'clock, the celebratory energy had finally burned itself out. 
 

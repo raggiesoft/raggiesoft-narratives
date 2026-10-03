@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Tarmac and the Tear
 
-**Date:** 2007-03-30 at 22:15 ET
+**Date:** 2007-03-30 at 22:15 America/New_York
 
 The heavy, mechanical thud of the landing gear deploying echoed through the cabin of the aircraft, followed minutes later by the jarring, high-speed screech of the tires hitting the tarmac at Norfolk International Airport.
 
@@ -55,7 +55,7 @@ Rachel turned her attention back to Mom, initiating a highly calculated logistic
 
 ### Part 2: The Decoy Protocol
 
-**Date:** 2007-03-30 at 23:30 ET
+**Date:** 2007-03-30 at 23:30 America/New_York
 
 It was half-past eleven by the time we finally dragged our heavy suitcases through the front door of Mom’s house.
 
@@ -107,7 +107,7 @@ We pulled each other into a heavy, final hug, the agonizing stress of the last t
 
 ### Part 1: The Transition Wake-Up
 
-**Date:** 2007-03-31 at 09:00 ET
+**Date:** 2007-03-31 at 09:00 America/New_York
 
 Morning rolled around, the bright Virginia sun fighting its way through the guest room blinds. I blinked my eyes open, staring at the ceiling, my internal clock completely scrambled. Rachel and I were still hardwired to West Coast time.
 
@@ -141,7 +141,7 @@ Mom smiled, accepting the neurotypical geometry without question. Breakfast cons
 
 ### Part 2: The Adult Perimeter
 
-**Date:** 2007-03-31 at 10:30 ET
+**Date:** 2007-03-31 at 10:30 America/New_York
 
 Breakfast was finished, and Mom drove us to one of the massive, warehouse-style furniture showrooms on Virginia Beach Boulevard. The sheer scale of the store was a bit overwhelming, but moving as a unified pack kept our sensory gauges level.
 
@@ -239,7 +239,7 @@ We gathered up towels and organizers for the bathrooms before migrating to the h
 
 ### Part 3: The Reunion at the Register
 
-**Date:** 2007-03-31 at 13:00 ET
+**Date:** 2007-03-31 at 13:00 America/New_York
 
 Mom was waiting for us with a cart full of cleaning supplies as we made our way to the checkout lanes.
 
@@ -305,7 +305,7 @@ Rachel reached over and grabbed my hand, squeezing it with bruising force. The t
 
 ### Part 4: The Alumni Roster
 
-**Date:** 2007-03-31 at 13:15 ET
+**Date:** 2007-03-31 at 13:15 America/New_York
 
 I stared at April, completely overwhelmed by the reality that our journey wasn't over. Beside me, Rachel was practically vibrating, her dark bob bouncing slightly as she looked up at our former protector.
 
@@ -381,7 +381,7 @@ We pulled the blankets up, closed the distance, and wrapped our arms around each
 
 ### Part 5: The Canadian Arch Perimeter
 
-**Date:** 2007-03-31 at 16:00 ET
+**Date:** 2007-03-31 at 16:00 America/New_York
 
 The heavy, suffocating exhaustion of the morning’s shopping marathon finally burned off after a deep, two-hour nap in the spare bedroom.
 
@@ -483,7 +483,7 @@ We sat in the quiet safety of April’s townhouse, the late afternoon sun castin
 
 ### Part 6: The Woven Stripe
 
-**Date:** 2007-03-31 at 18:00 ET
+**Date:** 2007-03-31 at 18:00 America/New_York
 
 The late afternoon sun dipped lower, casting long, comfortable shadows across April’s living room. The heavy, emotional exhaustion of the day was finally giving way to a quiet, profound contentment.
 
@@ -547,7 +547,7 @@ Rachel reached over and grabbed my hand, squeezing it with bruising force. The t
 
 ### Part 7: The Sea of Truth
 
-**Date:** 2007-03-31 at 18:45 ET
+**Date:** 2007-03-31 at 18:45 America/New_York
 
 The administrative office of the Lynnhaven Academy of Seondu was quiet and meticulously organized. We stood near April's polished desk, still wearing our sneakers. Here in the lobby and office areas, street shoes were perfectly acceptable, but we all knew the iron-clad rule: the absolute second we crossed the threshold into the Dojang itself, we would be barefoot out of respect for the sacred ground.
 
@@ -623,7 +623,7 @@ When we finally pulled apart, April stood up and gestured toward the door leadin
 
 ### Part 8: The Muscle Memory
 
-**Date:** 2007-03-31 at 19:00 ET
+**Date:** 2007-03-31 at 19:00 America/New_York
 
 We kicked off our sneakers and peeled off our socks in the small, warmly lit lobby.
 
@@ -727,7 +727,7 @@ We broke the hug, waving goodbye as April walked up to her door. Mom's sedan was
 
 ### Part 9: The Criollo Drive Ascent
 
-**Date:** 2007-03-31 at 20:30 ET
+**Date:** 2007-03-31 at 20:30 America/New_York
 
 Mom’s sedan rolled to a stop alongside the curb of 3701 Canadian Arch just as April was turning to head back inside her unit. Mom rolled down the driver’s side window, leaning across the center console.
 
@@ -801,7 +801,7 @@ I rested my chin against her dark hair, my racing heart rate instantly decelerat
 
 ### Part 1: The Three-Day Math
 
-**Date:** 2007-04-01 at 10:00 ET
+**Date:** 2007-04-01 at 10:00 America/New_York
 
 The morning sun filtered through the plastic blinds of Mom’s house on Criollo Drive, casting bright, geometric slats of light across the carpet. Despite the undeniable visual proof that the day was well underway, my internal clock was completely, stubbornly unresponsive to the Virginia daylight.
 
@@ -841,7 +841,7 @@ We were physically drained, and we were effectively grounded in the suburbs for 
 
 ### Part 2: The Transit Trap
 
-**Date:** 2007-04-01 at 11:30 ET
+**Date:** 2007-04-01 at 11:30 America/New_York
 
 After pacing the room and letting the stiff, aching spasticity slowly bleed out of my calves, the logistical reality of the morning finally set in. We couldn't stay in our skin forever, no matter how safe and perfectly regulated the locked bedroom felt.
 
@@ -867,7 +867,7 @@ Rachel hummed a soft, accepting note, her shoulders relaxing as she processed th
 
 ### Part 3: The Blue Leather Anchor
 
-**Date:** 2007-04-01 at 13:00 ET
+**Date:** 2007-04-01 at 13:00 America/New_York
 
 We migrated into the living room, leaving the kitchen behind.
 
@@ -903,7 +903,7 @@ The outside world could have their pranks, their schedules, and their high-defin
 
 ### Part 4: The Evolution of the Anchor
 
-**Date:** 2007-04-01 at 17:30 ET
+**Date:** 2007-04-01 at 17:30 America/New_York
 
 We actually fell asleep. It wasn't just a brief, restorative rest; the heavy, biological toll of the time zone shift dragged us both down into a deep, motionless slumber.
 
@@ -941,7 +941,7 @@ We migrated together into the dining room, following the incredible smell of the
 
 ### Part 1: The Command Center
 
-**Date:** 2007-04-02 at 14:00 ET
+**Date:** 2007-04-02 at 14:00 America/New_York
 
 The heavy, brass keys to 3701 Canadian Arch finally sat heavy and real in my palm.
 
@@ -993,7 +993,7 @@ As I hit the save button, a small, bright orange envelope icon flashed in the to
 
 ### Part 2: The Passcode
 
-**Date:** 2007-04-02 at 14:30 ET
+**Date:** 2007-04-02 at 14:30 America/New_York
 
 I clicked the icon, my brain instantly shifting into its defensive, analytical mode.
 
@@ -1049,7 +1049,7 @@ I pushed my chair back and looked at Rachel. Her dark eyes were burning with a f
 
 ### Part 3: The Blackwater Extraction
 
-**Date:** 2007-04-02 at 14:45 ET
+**Date:** 2007-04-02 at 14:45 America/New_York
 
 My fingers hammered against the plastic keys of my desktop keyboard. The quiet hum of the Command Center was entirely shattered by the spike of adrenaline flooding my nervous system.
 
@@ -1121,7 +1121,7 @@ As we hit Buckner Boulevard and merged onto the main roads heading south toward 
 
 ### Part 4: The Evasive Route
 
-**Date:** 2007-04-02 at 15:15 ET
+**Date:** 2007-04-02 at 15:15 America/New_York
 
 The drive down into the deep, rural borderlands of Virginia Beach was an exercise in pure tension. Rachel and I sat shoulder-to-shoulder in the back seat of April’s little blue car, our hands locked together. April knew exactly what she was doing when she told us to both get in the back; we needed the unbroken, side-by-side physical contact to keep our neurodivergent systems regulated while rushing into an unknown, volatile environment.
 
@@ -1207,7 +1207,7 @@ Jim nodded, keeping one arm securely around his daughter. We walked the few shor
 
 ### Part 5: The Paper Trail
 
-**Date:** 2007-04-02 at 16:00 ET
+**Date:** 2007-04-02 at 16:00 America/New_York
 
 With no sofas or dining room chairs yet assembled, the geometry of the conversation was incredibly grounded. We formed a loose circle sitting directly on the carpet in the center of the empty living room.
 
@@ -1277,7 +1277,7 @@ The ghost of the Delaney Street pull-out couch was officially at peace. 3701 Can
 
 ### Part 6: The 1802 Perimeter
 
-**Date:** 2007-04-02 at 20:00 ET
+**Date:** 2007-04-02 at 20:00 America/New_York
 
 The headlights of the Raybourn minivan swept across the front windows of our dark townhouse a few hours later.
 
@@ -1347,7 +1347,7 @@ The perimeter was completely sealed. Anchored in the center of her Pack, the Sen
 
 ### Part 7: The Legal Definition
 
-**Date:** 2007-04-02 at 22:30 ET
+**Date:** 2007-04-02 at 22:30 America/New_York
 
 The room was completely dark, save for the faint, orange glow of the streetlight filtering through the blinds of the 1802 Rich Court bedroom.
 
@@ -1415,7 +1415,7 @@ I squeezed Rachel's hand back, accepting the anchor. I rested my chin gently aga
 
 ### Part 8: The Weight of the Anchor
 
-**Date:** 2007-04-02 at 22:32 ET
+**Date:** 2007-04-02 at 22:32 America/New_York
 
 I tried. I laid perfectly still, wrapped in the heavy, warm geometry of the pack, and desperately tried to let the exhaustion drag me into unconsciousness.
 
@@ -1465,7 +1465,7 @@ I would wake up to find my kid sister on top of me, protecting me.
 
 ### Part 1: The Lifelong Partner
 
-**Date:** 2007-04-03 at 07:00 ET
+**Date:** 2007-04-03 at 07:00 America/New_York
 
 My eyes blinked open slowly, my processor fighting through the heavy, lingering fog of exhaustion.
 
@@ -1527,7 +1527,7 @@ Once our armor was on, I grabbed my glasses and led the way to the bedroom door.
 
 ### Part 2: The Fault Line
 
-**Date:** 2007-04-03 at 07:30 ET
+**Date:** 2007-04-03 at 07:30 America/New_York
 
 We walked down the carpeted stairs of 1802 Rich Court, moving as a single, unified block. The smell of freshly brewed coffee and the low, murmuring voices of Jim and Joan drifted out from the kitchen.
 
@@ -1569,7 +1569,7 @@ Jim nodded in absolute approval. He understood that while he was providing the l
 
 ### Part 3: The Shark of Downtown Norfolk
 
-**Date:** 2007-04-03 at 08:45 ET
+**Date:** 2007-04-03 at 08:45 America/New_York
 
 The drive from Virginia Beach to Downtown Norfolk was quiet, but it was a completely different kind of silence than the terrified, evasive drive we had taken with Master April the day before. This was a tactical, focused silence. We were no longer running; we were moving into a fortified position to launch a counter-attack.
 
@@ -1633,7 +1633,7 @@ Jim walked over, wrapping his massive arms around all three of us. The Raybourn-
 
 ### Part 4: Shedding the Name
 
-**Date:** 2007-04-03 at 11:00 ET
+**Date:** 2007-04-03 at 11:00 America/New_York
 
 Joan navigated the Raybourn minivan out of the high-rise parking garage, merging seamlessly into the heavy, late-morning traffic of downtown Norfolk. The tense, coiled energy that had gripped us on the drive in had completely evaporated, replaced by a quiet, collective exhaustion.
 
@@ -1669,7 +1669,7 @@ The rest of the drive back to 1802 Rich Court passed in a comfortable, healing s
 
 ### Part 5: The Dollar Lease
 
-**Date:** 2007-04-03 at 12:30 ET
+**Date:** 2007-04-03 at 12:30 America/New_York
 
 Jim pulled the minivan back into the concrete driveway of 3701 Canadian Arch.
 
@@ -1725,7 +1725,7 @@ Rachel and I immediately stepped in, wrapping
 
 ### Part 1: The West Coast Wake-Up
 
-**Date:** 2007-04-04 at 05:30 ET
+**Date:** 2007-04-04 at 05:30 America/New_York
 
 The temporary Queen-sized air mattress sat directly on the carpet of our empty master bedroom.
 

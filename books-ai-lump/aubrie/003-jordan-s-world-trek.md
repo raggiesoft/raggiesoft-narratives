@@ -495,7 +495,7 @@ Lauren smiled, interlacing her fingers with his as they approached the gate. It 
 
 ### Part 12: The Yellow Ribbon Welcome
 
-**Date:** 2015-05-23 at 19:00 Newfoundland Daylight Time
+**Date:** 2015-05-23 at 19:00 America/St_Johns
 
 The boarding process for the final leg to Gander International Airport was flawlessly executed. True to her promise, Jessica Gallagher stepped in the moment they reached the aircraft door.
 
@@ -547,7 +547,7 @@ Jordan pressed his palms against his keyboard, his hands trembling slightly, but
 
 ### Part 13: The Gander Lift
 
-**Date:** 2015-05-23 at 20:15 Newfoundland Daylight Time
+**Date:** 2015-05-23 at 20:15 America/St_Johns
 
 After the emotional welcome at the airport, the massive group of eighteen split into two convoys. Daniel Brooks, managing the primary logistics, guided the majority of the chosen family to a cozy, local hotel in the center of town.
 
@@ -607,7 +607,7 @@ He reached out, pulling Lauren into a tight hug, the warmth of the Newfoundland 
 
 ### Part 14: The Room 214 Reunion
 
-**Date:** 2015-05-23 at 21:30 Newfoundland Daylight Time
+**Date:** 2015-05-23 at 21:30 America/St_Johns
 
 As the excitement of the arrival settled into a warm, comfortable evening, the practical realities of the night took over. With the house naturally lacking the wide, accessible architecture of their specialized apartment back at CPI, the pact simply adapted their routines without missing a single beat.
 

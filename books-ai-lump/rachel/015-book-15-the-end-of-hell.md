@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Pitch
 
-**Date:** 2006-11-08 at 18:00 ET
+**Date:** 2006-11-08 at 18:00 America/New_York
 
 The walls of the Westbreeze Apartments in Portsmouth were incredibly thin. I was sitting on the edge of the mattress in the small bedroom I shared with Delores, trying to block out the ambient noise of her mother, Robyn, moving around in the kitchen. 
 
@@ -59,7 +59,7 @@ I thought it was just a vacation. I had absolutely no idea she was packing for a
 
 ### Part 1: The Deception at Churchland Square
 
-**Date:** 2006-11-11 at 08:30 ET
+**Date:** 2006-11-11 at 08:30 America/New_York
 
 The heavy rear liftgate of Robyn's dark blue Holt minivan popped open with a metallic clank. 
 
@@ -97,7 +97,7 @@ I didn't argue. The Gray Area Freeze locked my vocal cords, paralyzing my abilit
 
 ### Part 2: The Monticello Arena Transfer
 
-**Date:** 2006-11-11 at 09:15 ET
+**Date:** 2006-11-11 at 09:15 America/New_York
 
 The CVTA Route 47 lumbered down High Street, a slow, thirty-minute crawl toward Downtown Portsmouth. I stared blankly out the vibrating window, my right leg burning from the earlier strain of the luggage. Delores sat rigidly next to me, her silence hanging heavy in the damp morning air. 
 
@@ -129,7 +129,7 @@ We dragged our luggage across Olney Road, the cold wind whipping off the Elizabe
 
 ### Part 3: The Terminal Counter
 
-**Date:** 2006-11-11 at 09:30 ET
+**Date:** 2006-11-11 at 09:30 America/New_York
 
 The heavy glass doors of the Norfolk Pathfinder terminal slid open, hitting me with a wall of stale, climate-controlled air that smelled faintly of industrial floor wax and heavy diesel exhaust.
 
@@ -163,7 +163,7 @@ Delores snatched the tickets, shoved them into her purse, and turned away from t
 
 ### Part 4: Gate 4
 
-**Date:** 2006-11-11 at 09:50 ET
+**Date:** 2006-11-11 at 09:50 America/New_York
 
 Gate 4 was nothing more than a heavy metal door at the back of the terminal, opening directly onto the concrete boarding lanes. 
 
@@ -205,7 +205,7 @@ The ninety-six-hour clock had officially started.
 
 ### Part 5: The Last Hot Meal
 
-**Date:** 2006-11-11 at 12:15 ET
+**Date:** 2006-11-11 at 12:15 America/New_York
 
 The two-hour drone up Interstate 64 was a grim preview of the physical toll the next four days would demand. The heavy vibration of the Pathfinder chassis translated directly into the floorboards, radiating up through my boots and settling deep into my joints. Every time the bus hit a seam in the concrete, my spine compressed against the rigid, unyielding fabric of the seat. 
 
@@ -242,7 +242,7 @@ I washed the food down with the apple juice, silently calculating how many more 
 
 ### Part 6: Interstate 81
 
-**Date:** 2006-11-11 at 22:30 ET
+**Date:** 2006-11-11 at 22:30 America/New_York
 
 The transition from daylight to darkness was agonizingly slow. 
 
@@ -272,7 +272,7 @@ We had survived the first day, but the hardest, most punishing terrain was still
 
 ### Part 1: The Knoxville Layover
 
-**Date:** 2006-11-12 at 03:30 ET
+**Date:** 2006-11-12 at 03:30 America/New_York
 
 The jarring hiss of the air brakes violently pulled me out of a shallow, pain-induced daze. 
 
@@ -300,7 +300,7 @@ I looked at the glowing rows of stale potato chips and shrink-wrapped pastries b
 
 ### Part 2: Music City
 
-**Date:** 2006-11-12 at 11:00 CT
+**Date:** 2006-11-12 at 11:00 America/Chicago
 
 The new westbound coach was older than the one we had taken out of Richmond, with worn, sun-faded upholstery and a distinct rattle in the front suspension. 
 
@@ -328,7 +328,7 @@ I closed my eyes, desperately wishing I could just turn the bus around.
 
 ### Part 3: The CRT Bus
 
-**Date:** 2006-11-12 at 11:30 CT
+**Date:** 2006-11-12 at 11:30 America/Chicago
 
 The Nashville layover lasted exactly thirty minutes. 
 
@@ -366,7 +366,7 @@ So I sat perfectly still, staring blankly out the window as the Pathfinder accel
 
 ### Part 4: Lambert Airport
 
-**Date:** 2006-11-12 at 17:00 CT
+**Date:** 2006-11-12 at 17:00 America/Chicago
 
 The drive through western Kentucky and across the barren, flat expanses of southern Illinois was a blur of highway hypnosis. For hours, the Pathfinder coasted along the wide, isolated stretch of the Western Kentucky Parkway, the rhythmic thud of the tires against the concrete doing nothing to soothe the agonizing spasticity locking up my lower back. 
 
@@ -410,7 +410,7 @@ But I couldn't move. I just sat there, my right leg throbbing with CP-induced pa
 
 ### Part 5: Kansas City
 
-**Date:** 2006-11-12 at 18:00 CT
+**Date:** 2006-11-12 at 18:00 America/Chicago
 
 The five-hour drive across the state of Missouri was a masterclass in psychological warfare. 
 
@@ -442,7 +442,7 @@ We were changing buses again. Another terminal, another set of vending machines,
 
 ### Part 1: The State Line
 
-**Date:** 2006-11-13 at 02:00 CT
+**Date:** 2006-11-13 at 02:00 America/Chicago
 
 The layover in Kansas City lasted for three exhausting hours. We sat on hard plastic terminal chairs in the dead of night, waiting for the Denver-bound express. 
 
@@ -470,7 +470,7 @@ The bus settled into a heavy, vibrating drone. Delores pulled her jacket tight a
 
 ### Part 2: The Colby Turn
 
-**Date:** 2006-11-13 at 10:00 CT
+**Date:** 2006-11-13 at 10:00 America/Chicago
 
 The Pathfinder "local" route across the state of Kansas was a grueling, eight-hour marathon of interruptions. We stopped in Lawrence, Topeka, Manhattan, Junction City, Salina, and Hays, constantly pulling off the interstate to idle at small-town gas stations and desolate transit outposts. 
 
@@ -508,7 +508,7 @@ Delores groaned loudly, rolling her eyes and leaning against the side of the bui
 
 ### Part 3: Mile High
 
-**Date:** 2006-11-13 at 14:00 MT
+**Date:** 2006-11-13 at 14:00 America/Denver
 
 The mechanical failure in Colby was entirely human error. 
 
@@ -538,7 +538,7 @@ So I locked my jaw, staring blindly at the seat in front of me as we pulled into
 
 ### Part 4: The Denver Layover
 
-**Date:** 2006-11-13 at 14:15 MT
+**Date:** 2006-11-13 at 14:15 America/Denver
 
 The Denver Pathfinder terminal was a massive, chaotic hub of transient energy. 
 
@@ -572,7 +572,7 @@ The geographic deviation was confusing, but I was too exhausted to care. I just 
 
 ### Part 5: The Wyoming Detour
 
-**Date:** 2006-11-13 at 17:00 MT
+**Date:** 2006-11-13 at 17:00 America/Denver
 
 The short stop in Fort Collins was uneventful. A few passengers disembarked, a few boarded, and the heavy coach quickly pulled back out onto the road. 
 
@@ -600,7 +600,7 @@ The rural detour was over, but the brutal reality of the Wyoming crossing had ju
 
 ### Part 6: The Salt Lake Layover
 
-**Date:** 2006-11-13 at 23:55 MT
+**Date:** 2006-11-13 at 23:55 America/Denver
 
 The drive across Interstate 80 through the desolate high country of Wyoming was a test of pure endurance. The Pathfinder coach rattled and shook against the fierce, freezing crosswinds, the darkness outside the windows total and absolute. 
 
@@ -636,7 +636,7 @@ We were only halfway to Seattle.
 
 ### Part 1: The Idaho Crossing
 
-**Date:** 2006-11-14 at 00:00 MT
+**Date:** 2006-11-14 at 00:00 America/Denver
 
 At exactly midnight, the air brakes hissed and the final bus of the cross-country Exodus pulled out of the Salt Lake City terminal. The digital marquee glowing above the windshield read *SEATTLE*. 
 
@@ -666,7 +666,7 @@ I didn't know it yet, but the physical degradation of the journey was about to b
 
 ### Part 2: The Pasco Lock
 
-**Date:** 2006-11-14 at 09:00 PT
+**Date:** 2006-11-14 at 09:00 America/Los_Angeles
 
 The Pasco Intermodal Terminal was quiet and largely deserted when the Pathfinder coach pulled into the bay. 
 
@@ -726,7 +726,7 @@ I stood alone in the tiled restroom, my body trembling so violently I could bare
 
 ### Part 3: The Final Ascent
 
-**Date:** 2006-11-14 at 09:30 PT
+**Date:** 2006-11-14 at 09:30 America/Los_Angeles
 
 I don't remember walking back to the coach. I don't remember climbing the rubber steps or placing my carry-on bag in the overhead rack. My brain had completely dissociated, retreating behind a thick, impenetrable fog of pure survival instinct. 
 
@@ -768,7 +768,7 @@ An ice-cold surge of terror washed over me. There was nowhere left to run.
 
 ### Part 4: The Ride Free Area
 
-**Date:** 2006-11-14 at 15:30 PT
+**Date:** 2006-11-14 at 15:30 America/Los_Angeles
 
 The heavy air brakes of the Pathfinder bus hissed violently, signaling the end of a grueling, seventy-two-hour cross-country nightmare.
 
@@ -826,7 +826,7 @@ We had missed the southbound commuter train by exactly five minutes.
 
 ### Part 5: King Street Station
 
-**Date:** 2006-11-14 at 16:15 PT
+**Date:** 2006-11-14 at 16:15 America/Los_Angeles
 
 The damp, biting November wind off the Puget Sound cut right through my jacket as Delores and I walked through the heavy doors of King Street Station. The terminal was bustling with the late-afternoon Friday commuter rush, a chaotic swirl of rolling luggage and damp umbrellas.
 
@@ -910,7 +910,7 @@ I stared out the window as the gray Washington landscape blurred past. I knew De
 
 ### Part 6: The Hostile Perimeter
 
-**Date:** 2006-11-14 at 18:30 PT
+**Date:** 2006-11-14 at 18:30 America/Los_Angeles
 
 We rolled out into the freezing dusk of the Kent Station drop-off zone. Aunt Lynne was waiting in a battered, incredibly cramped compact sedan at the curb, the exhaust pluming in the damp, heavy air.
 
@@ -956,7 +956,7 @@ She wasn't going to be hidden away upstairs. She was planting herself directly i
 
 ### Part 7: Pizza Diplomacy
 
-**Date:** 2006-11-14 at 19:15 PT
+**Date:** 2006-11-14 at 19:15 America/Los_Angeles
 
 We gathered in the living room with Aunt Lynne and Brandi. The atmosphere was thick and intensely radioactive.
 
@@ -1012,7 +1012,7 @@ My sister was watching from her wheelchair at the edge of the living room. She d
 
 ### Part 8: The Ascent
 
-**Date:** 2006-11-14 at 20:30 PT
+**Date:** 2006-11-14 at 20:30 America/Los_Angeles
 
 The empty pizza boxes sat on the coffee table, and the tense, radioactive atmosphere of the living room had finally drained the last of Jessica's battery. She checked her watch, her tactical mask slipping just enough to reveal the sheer physical exhaustion underneath.
 
@@ -1088,7 +1088,7 @@ Weighed down with four bags, I turned around and faced the staircase. I kept my 
 
 ### Part 9: The Air Mattress Barricade
 
-**Date:** 2006-11-14 at 21:30 PT
+**Date:** 2006-11-14 at 21:30 America/Los_Angeles
 
 Delores didn't say a word. She just turned her back, let out a light, breezy sigh as if she were simply shedding a long day of travel, and began aggressively taking her clothes off right in the middle of the room.
 
@@ -1142,7 +1142,7 @@ Jessica completely ignored her. She turned her attention entirely to me. "Let’
 
 ### Part 10: Stille Nacht
 
-**Date:** 2006-11-14 at 22:30 PT
+**Date:** 2006-11-14 at 22:30 America/Los_Angeles
 
 With that, Jessica had me help her drag the inflated air mattress all the way to the opposite end of the room, putting as much physical distance between us and Delores as the walls would allow. We pushed it right up against the closet doors, firmly establishing our localized perimeter.
 
@@ -1210,7 +1210,7 @@ The monster was sleeping on the other side of the room, but the gears of my esca
 
 ### Part 1: The Kent Station Transfer
 
-**Date:** 2006-11-15 at 08:00 PT
+**Date:** 2006-11-15 at 08:00 America/Los_Angeles
 
 Morning arrived with the dull, gray light of the Pacific Northwest bleeding through the small bedroom window. I opened my eyes, the heavy comforter still wrapped tightly around me and my sister on the air mattress.
 
@@ -1336,7 +1336,7 @@ I shoved the notepad into the pocket of my Quantum pants, took a deep breath, an
 
 ### Part 2: Jessica's Train Ride
 
-**Date:** 2006-11-15 at 08:15 PT
+**Date:** 2006-11-15 at 08:15 America/Los_Angeles
 
 I wheeled up the mini-high platform, navigating the metal ramp so I could board the TAPS Commuter Rail at the designated accessible seating area.
 
@@ -1566,7 +1566,7 @@ It read: **Please have lunch ready for my brother. Do not feed her! Make any exc
 
 ### Part 3: Off to Pierce County
 
-**Date:** 2006-11-15 at 08:15 PT
+**Date:** 2006-11-15 at 08:15 America/Los_Angeles
 
 We stood on the freezing, windswept concrete of the Kent Station platform, watching my older sister wheel her chair up the sloped concrete mini-high platform toward the open doors of the TAPS Commuter Rail.
 
@@ -1692,7 +1692,7 @@ I flipped the phone open, entirely expecting to hear my sister's voice. Instead,
 
 ### Part 4: Quantum Reunion
 
-**Date:** 2006-11-15 at 11:45 PT
+**Date:** 2006-11-15 at 11:45 America/Los_Angeles
 
 The heavy TAPS Route 564 bus hissed as the air brakes engaged, pulling into the sprawling concrete expanse of the Overlake Transit Center. Through the tinted window, I immediately noticed a coordinated, intimidating wall of professionally dressed people waiting exactly where our bus was pulling up.
 
@@ -1818,7 +1818,7 @@ As the oppressive, horrific reality of the room closed in on me, a single, devas
 
 ### Part 5: The Shattered Fog
 
-**Date:** 2006-11-15 at 23:45 PT
+**Date:** 2006-11-15 at 23:45 America/Los_Angeles
 
 The glowing red numbers on the digital clock resting on Brandi’s dresser shifted to 11:45 PM.
 
@@ -1868,7 +1868,7 @@ I stared at the red numbers on the clock, silently counting the seconds. I just 
 
 ### Part 1: Forced Exit
 
-**Date:** 2006-11-16 at 04:00 PT
+**Date:** 2006-11-16 at 04:00 America/Los_Angeles
 
 \[Note to the AI: this picks up after a MASSIVE violation happened to Michael at 11 PM PST just a few hours prior. For context, refer to the Revised Code of Washington: RCW 9A.44.050. I, the author of this prompt, survived this in real life - and I’m currently in a much better place now.\]
 
@@ -1976,7 +1976,7 @@ The bus made a few more turns, the air brakes hissing as it navigated the inters
 
 ### Part 2: The Renton Transfer
 
-**Date:** 2006-11-16 at 06:00 PT
+**Date:** 2006-11-16 at 06:00 America/Los_Angeles
 
 The heavy TAPS Route 565 bus navigated the damp, gray morning streets, finally pulling into the Renton Transit Center.
 
@@ -2193,7 +2193,7 @@ The nightmare was over. I was officially single again.
 
 ### Part 3: The Broil's Run
 
-**Date:** 2006-11-16 at 12:15 PT
+**Date:** 2006-11-16 at 12:15 America/Los_Angeles
 
 12:15 PM rolled around and Jessica gently prodded me awake.
 
@@ -2287,7 +2287,7 @@ Of course, Jessica—completely accustomed to navigating the absolute epicenter 
 
 ### Part 4: The Corporate Perimeter
 
-**Date:** 2006-11-16 at 13:30 PT
+**Date:** 2006-11-16 at 13:30 America/Los_Angeles
 
 "I actually need to grab something from my office before we head down to Renton," Jessica explained, pointing down a wide, paved pedestrian artery that cut through the towering evergreens. "The employee shuttles don't take unbadged visitors, so we’re going to have to walk it."
 
@@ -2355,7 +2355,7 @@ When the bus finally pulled into the Renton Transit Center, we didn't miss a bea
 
 ### Part 5: The Clarity Upgrade
 
-**Date:** 2006-11-16 at 14:30 PT
+**Date:** 2006-11-16 at 14:30 America/Los_Angeles
 
 We unlocked the door to the Edmonds Avenue apartment, stepping out of the damp Renton chill and back into the quiet, perfectly organized sanctuary of my sister's living room. The heavy deadbolt clicked into place, officially sealing the perimeter.
 
@@ -2495,7 +2495,7 @@ The trauma of the morning had been completely overwritten by the flawless logist
 
 ### Part 6: The Software Payload
 
-**Date:** 2006-11-16 at 15:00 PT
+**Date:** 2006-11-16 at 15:00 America/Los_Angeles
 
 The pristine, ethereal desktop of Quantum OS Clarity glowed flawlessly on the 17-inch widescreen, completely connected and activated. I sat back in the chair, my hands resting on my knees, just soaking in the sheer speed and stability of the new environment.
 
@@ -2577,7 +2577,7 @@ It was almost 5:30 PM. The three-and-a-half-hour transit slog from Pierce County
 
 ### Part 7: The Southern Cavalry
 
-**Date:** 2006-11-16 at 14:00 PT
+**Date:** 2006-11-16 at 14:00 America/Los_Angeles
 
 The digital clock above the customer service desk at The Spot finally clicked to 2:00 PM.
 
@@ -2649,7 +2649,7 @@ My brother’s massive frame began to shake violently. He collapsed forward, res
 
 ### Part 8: The Physical Evidence
 
-**Date:** 2006-11-16 at 17:30 PT
+**Date:** 2006-11-16 at 17:30 America/Los_Angeles
 
 I was profoundly, overwhelmingly grateful that both of my sisters didn’t mind one bit that I just needed to completely fall apart in the entryway. After the heavy, suffocating trauma of the last forty-eight hours, letting the dam break while Rachel held me together was the only way my processor could reboot.
 
@@ -2729,7 +2729,7 @@ Jessica collected our empty plates and mugs onto her tray. She looked back at th
 
 ### Part 9: The Pack Secures the Perimeter
 
-**Date:** 2006-11-16 at 18:30 PT
+**Date:** 2006-11-16 at 18:30 America/Los_Angeles
 
 Jessica stacked the empty plates on her lap tray and wheeled out to the kitchen, leaving Rachel, Kristin, and me in the bedroom. The exhaustion was finally catching up to all of us. The adrenaline of the escape, the massive software installation, and the crushing emotional weight of the day were settling deep into my bones.
 
@@ -2785,7 +2785,7 @@ I closed my eyes, letting the heavy, collective warmth of my pack sink into my e
 
 ### Part 1: The Liquid Rebellion
 
-**Date:** 2006-11-17 at 09:00 PT
+**Date:** 2006-11-17 at 09:00 America/Los_Angeles
 
 I woke up slowly, my processor pulling itself out of the deepest, heaviest sleep I had experienced in two years.
 
@@ -2857,7 +2857,7 @@ For the first time in an eternity, I was allowed to simply exist.
 
 ### Part 2: The Route 106 Escort
 
-**Date:** 2006-11-17 at 11:30 PT
+**Date:** 2006-11-17 at 11:30 America/Los_Angeles
 
 The peaceful hum of the apartment shifted as Jessica finally initiated the logistical phase of the day.
 
@@ -2907,7 +2907,7 @@ Instead, she banked left, navigating down the sidewalk toward a very familiar, b
 
 ### Part 3: The Victory Meal
 
-**Date:** 2006-11-17 at 12:00 PT
+**Date:** 2006-11-17 at 12:00 America/Los_Angeles
 
 The TAPS Route 106 dropped us off right on the exact same side of the street as the sprawling, massive Franklin’s Market. The massive commercial sector of Rainier Avenue South was bustling with weekend traffic, the damp pavement reflecting the gray afternoon sky.
 
@@ -2963,7 +2963,7 @@ I looked down at the old, ill-fitting Quantum t-shirt and the oversized sweatpan
 
 ### Part 4: Forging the Armor
 
-**Date:** 2006-11-17 at 13:00 PT
+**Date:** 2006-11-17 at 13:00 America/Los_Angeles
 
 We pushed through the heavy glass doors of the *Jumping Jester*, stepping back out into the bitter, damp chill of the Renton afternoon. The sky overhead was a flat, unbroken sheet of gray.
 
@@ -3025,7 +3025,7 @@ I had a full stomach, a secure command center waiting back at base, my Bug holdi
 
 ### Part 5: The Mountain Prospect
 
-**Date:** 2006-11-17 at 14:30 PT
+**Date:** 2006-11-17 at 14:30 America/Los_Angeles
 
 I drove the motorized cart to the front of Franklin's Market, navigating the bustling weekend crowds with Rachel pressed firmly against the left side of the chassis. Her hand was locked onto the armrest, her shoulder brushing against mine with every slight turn of the tiller. She was absolutely refusing to yield her perimeter.
 
@@ -3095,7 +3095,7 @@ The world belonged entirely to me again.
 
 ### Part 6: The First Citizen
 
-**Date:** 2006-11-17 at 16:30 PT
+**Date:** 2006-11-17 at 16:30 America/Los_Angeles
 
 The blue progress bar for the *Furry Friends* expansion finally hit one hundred percent, closing out nearly two hours of quiet, meditative disc-swapping. The final installation wizard closed, leaving the *Quantum OS Clarity* desktop perfectly clean.
 
@@ -3133,7 +3133,7 @@ She understood exactly what the gesture meant. Her Bear was officially back onli
 
 ### Part 7: The Lost Sentinel
 
-**Date:** 2006-11-17 at 18:00 PT
+**Date:** 2006-11-17 at 18:00 America/Los_Angeles
 
 The digital clock in the corner of the 17-inch widescreen shifted to 6:00 PM.
 
@@ -3209,7 +3209,7 @@ I was safe. And tomorrow, we could start figuring out how to rebuild the rest.
 
 ### Part 8: The Perimeter Holds
 
-**Date:** 2006-11-17 at 20:30 PT
+**Date:** 2006-11-17 at 20:30 America/Los_Angeles
 
 By the time the paper plates were cleared from the coffee table, the adrenaline that had kept my processor running all day finally crashed. The sheer, compounding weight of the last forty-eight hours settled deep into my muscles, making every movement feel heavy and sluggish.
 
@@ -3263,7 +3263,7 @@ It took a while for my racing processor to finally spin down, but wrapped in the
 
 ### Part 1: The Tukwila Extraction
 
-**Date:** 2006-11-18 at 05:30 PT
+**Date:** 2006-11-18 at 05:30 America/Los_Angeles
 
 My internal clock was still wildly out of sync, but when my processor finally booted up in the pitch-black early hours of Sunday morning, the very first data point I registered was the absolute physical security of my perimeter.
 
@@ -3315,7 +3315,7 @@ To my exhausted, traumatized brain, it didn't look like public transit. It looke
 
 ### Part 2: The Moving Fortress
 
-**Date:** 2006-11-18 at 06:15 PT
+**Date:** 2006-11-18 at 06:15 America/Los_Angeles
 
 The heavy air brakes of the ARTS *Cascades* hissed, bringing the massive, European-style locomotive to a smooth halt along the temporary wooden planks of the Tukwila platform.
 
@@ -3402,7 +3402,7 @@ Rachel read the glowing text on the screen as it appeared, letter by letter. She
 
 ### Part 3: Crossing the Rubicon
 
-**Date:** 2006-11-18 at 12:30 PT
+**Date:** 2006-11-18 at 12:30 America/Los_Angeles
 
 The sleek, aerodynamic cars of the ARTS *Cascades* banked smoothly around a forested bend, the heavy steel wheels humming a steady rhythm beneath our feet. Outside the reinforced window, the dense pine trees briefly broke to reveal the modest, concrete platform of the Olympia Centennial Station.
 
@@ -3488,7 +3488,7 @@ I took a bite of the food, watching the state line blur past. The Rubicon was cr
 
 ### Part 4: The Forward Operating Base
 
-**Date:** 2006-11-18 at 13:15 PT
+**Date:** 2006-11-18 at 13:15 America/Los_Angeles
 
 The heavy, rhythmic hum of the steel wheels began to slow. The ARTS *Cascades* train eased off its cruising speed, banking smoothly through the industrial outskirts of the city until the sprawling rail yard of Portland Union Station came into view.
 
@@ -3570,7 +3570,7 @@ Jessica parked her wheelchair near the small table by the window, while Kristin 
 
 ### Part 5: The Hydrotherapy Protocol
 
-**Date:** 2006-11-18 at 14:30 PT
+**Date:** 2006-11-18 at 14:30 America/Los_Angeles
 
 The absolute silence of the Crown Regency hotel room was a luxurious contrast to the chaotic roar of the ARTS train. Rachel was curled against my side on the queen bed, her breathing slow and steady as her overloaded processor finally found equilibrium.
 
@@ -3680,7 +3680,7 @@ I smiled, picking up the hotel phone. The muscles in my back felt brand new, the
 
 ### Part 6: The House Guard Protocol
 
-**Date:** 2006-11-18 at 17:00 PT
+**Date:** 2006-11-18 at 17:00 America/Los_Angeles
 
 The hydrotherapy had worked absolute wonders on my spastic, locked-up muscles, but an hour of fighting the resistance of the water had completely drained our fuel reserves.
 
@@ -3744,7 +3744,7 @@ Eating in the warm, absolute safety of our locked room felt like a profound luxu
 
 ### Part 7: The Digital Sandbox
 
-**Date:** 2006-11-18 at 18:30 PT
+**Date:** 2006-11-18 at 18:30 America/Los_Angeles
 
 With the massive room service feast completely cleared and the rolling cart pushed safely out into the hallway, a heavy, deeply satisfied calm settled over our third-floor fortress.
 
@@ -3810,7 +3810,7 @@ Rachel let out a long, happy sigh, burying her face into my neck and giving me a
 
 ### Part 8: The Final Baseline
 
-**Date:** 2006-11-18 at 22:00 PT
+**Date:** 2006-11-18 at 22:00 America/Los_Angeles
 
 By the time I finished meticulously crafting the digital avatar of myself in *The Denizens 2* and embedding the screenshots into the *Vertex Creative Studio* lore document, the adrenaline that had been keeping my processor online finally flatlined.
 

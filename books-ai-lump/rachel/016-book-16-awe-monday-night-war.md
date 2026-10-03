@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Morning Deployment
 
-**Date:** 2006-11-20 at 06:00 PT
+**Date:** 2006-11-20 at 06:00 America/Los_Angeles
 
 The sharp, rhythmic electronic beeping of the hotel alarm clock shattered the heavy, insulated silence of the third-floor room.
 
@@ -79,7 +79,7 @@ I leaned back in the heavy upholstered chair, looking across the room at my olde
 
 ### Part 2: The Logic of the Ban
 
-**Date:** 2006-11-20 at 06:45 PT
+**Date:** 2006-11-20 at 06:45 America/Los_Angeles
 
 At exactly 6:45 AM, a sharp, authoritative knock echoed against the heavy wooden door of our third-floor room.
 
@@ -241,7 +241,7 @@ I pulled back, wiping my eyes with the sleeve of my shirt, and offered her a mas
 
 ### Part 3: The Holding Pattern
 
-**Date:** 2006-11-20 at 10:00 PT
+**Date:** 2006-11-20 at 10:00 America/Los_Angeles
 
 I said the words, but the sheer, crushing weight of what Jessica had just revealed finally broke through the last remaining walls of my defense.
 
@@ -303,7 +303,7 @@ At 2:15 PM, we stepped out of the hotel room.
 
 ### Part 4: The Plaza Approach
 
-**Date:** 2006-11-20 at 14:20 PT
+**Date:** 2006-11-20 at 14:20 America/Los_Angeles
 
 We took the elevator down to the lobby and pushed through the heavy revolving glass doors of the Crown Regency.
 
@@ -347,7 +347,7 @@ My vocal cords were fully online. My spine was straight. The Bear was fully awak
 
 ### Part 1: Will Call
 
-**Date:** 2006-11-20 at 14:30 PT
+**Date:** 2006-11-20 at 14:30 America/Los_Angeles
 
 The massive glass and steel facade of the Rose City Center loomed over us against the overcast, chilly Portland sky.
 
@@ -393,7 +393,7 @@ Jessica, Kristin, and I quickly grabbed pens, but Rachel was the first one to fi
 
 ### Part 2: The Arsenal
 
-**Date:** 2006-11-20 at 14:45 PT
+**Date:** 2006-11-20 at 14:45 America/Los_Angeles
 
 A few minutes after we handed the signed waivers back to the box office attendant, a heavy steel door next to the ticket windows clicked open.
 
@@ -441,7 +441,7 @@ He looked back at Rachel and offered a small wink. "Given the letters you write,
 
 ### Part 3: The Arsenal's Promise
 
-**Date:** 2006-11-20 at 15:15 PT
+**Date:** 2006-11-20 at 15:15 America/Los_Angeles
 
 The main merchandise stand was a towering, brightly lit wall of black cotton, neon graphics, and glossy photographs. Even completely empty of the usual thousands of pushing, shoving fans, it was an overwhelming display of AWE spectacle.
 
@@ -501,7 +501,7 @@ Within minutes, the vendor had our photos and mini belts safely bagged and set a
 
 ### Part 4: The Tycoon, The Thief, and the Foam Finger
 
-**Date:** 2006-11-20 at 15:45 PT
+**Date:** 2006-11-20 at 15:45 America/Los_Angeles
 
 "Alright, everyone to your marks!" Dave Cross ordered, his voice echoing slightly in the vast, empty concourse. He pointed us toward the front of the merchandise table. "Stay loose. When Diego throws the money, just go crazy."
 
@@ -579,7 +579,7 @@ Rachel clutched the prop money and her foam finger, her smile brighter than the 
 
 ### Part 5: The Descent and the Trust Fall
 
-**Date:** 2006-11-20 at 16:15 PT
+**Date:** 2006-11-20 at 16:15 America/Los_Angeles
 
 With Rachel securely grounded and our massive haul of VIP merchandise gathered up, it was time to actually find our seats.
 
@@ -627,7 +627,7 @@ The untelevised dark matches were about to begin. The Monday Night WAR had offic
 
 ### Part 6: The Dark Matches
 
-**Date:** 2006-11-20 at 17:30 PT
+**Date:** 2006-11-20 at 17:30 America/Los_Angeles
 
 At exactly 5:30 PM, the massive overhead house lights of the Rose City Center completely cut out. A collective, electric roar rippled through the 14,000 fans as the blinding, brilliant white spotlights suspended above the ring snapped on, illuminating the canvas like a pristine stage.
 
@@ -677,7 +677,7 @@ The Rose City Center absolutely exploded. The dark matches had done their job pe
 
 ### Part 1: LIVE From Portland
 
-**Date:** 2006-11-20 at 18:00 PT
+**Date:** 2006-11-20 at 18:00 America/Los_Angeles
 
 At exactly six o'clock, the ambient hum of the Rose City Center was instantly obliterated.
 
@@ -699,7 +699,7 @@ The pyrotechnic ban was officially in effect, keeping our sensory perimeter perf
 
 ### Part 2: The Bottom Line
 
-**Date:** 2006-11-20 at 18:02 PT
+**Date:** 2006-11-20 at 18:02 America/Los_Angeles
 
 The TitanTron faded to black. For a split second, the massive arena held its breath.
 
@@ -757,7 +757,7 @@ The boos grew louder, shaking the steel barricade just inches from our knees.
 
 ### Part 3: The Hometown Hero
 
-**Date:** 2006-11-20 at 18:08 PT
+**Date:** 2006-11-20 at 18:08 America/Los_Angeles
 
 Marcus Sterling stood in the center of the ring, basking in the absolute hatred of the Portland crowd. He had all the power, and he wanted every single person in the arena to know it.
 
@@ -823,7 +823,7 @@ We had a World Heavyweight Championship main event.
 
 ### Part 4: The Cruiserweight Crash
 
-**Date:** 2006-11-20 at 18:18 PT
+**Date:** 2006-11-20 at 18:18 America/Los_Angeles
 
 It took a few minutes for the arena to calm down after Jaxson Vance and Marcus Sterling cleared the ring. The lingering buzz of the hometown main event announcement was still thick in the air when the lights swept over the crowd again.
 
@@ -881,7 +881,7 @@ I pulled my arm back from my sisters, rolling my shoulders and exhaling a sharp 
 
 ### Part 5: The Corporate Meltdown
 
-**Date:** 2006-11-20 at 18:30 PT
+**Date:** 2006-11-20 at 18:30 America/Los_Angeles
 
 After a quick commercial break for the television audience, the arena lights dimmed once again. The massive TitanTron above the entrance stage flared to life, and the broadcast seamlessly transitioned to a backstage camera feed.
 
@@ -937,7 +937,7 @@ The sheer panic was painted vividly across his features. The Blueprint knew exac
 
 ### Part 6: The Riot vs. The Empress
 
-**Date:** 2006-11-20 at 18:40 PT
+**Date:** 2006-11-20 at 18:40 America/Los_Angeles
 
 After the backstage feed of Marcus Sterling's meltdown faded from the TitanTron, the arena lights shifted, bathing the 14,000 fans in a deep, regal purple hue.
 
@@ -999,7 +999,7 @@ Roxy leaped onto the nearest turnbuckle, throwing her taped fists into the air t
 
 ### Part 7: The Tycoon and the Thief
 
-**Date:** 2006-11-20 at 18:55 PT
+**Date:** 2006-11-20 at 18:55 America/Los_Angeles
 
 As the ringside crew rushed out to sweep the canvas and check the ropes after Roxy Dane’s victory, the arena lights dimmed once again.
 
@@ -1050,7 +1050,7 @@ The arena erupted into mocking, deafening laughter as Sinclair ripped his pristi
 
 ### Part 8: The Top of the Hour
 
-**Date:** 2006-11-20 at 19:00 PT
+**Date:** 2006-11-20 at 19:00 America/Los_Angeles
 
 Exactly one hour into the live broadcast, the commercial break ended. The arena lights swept across the roaring Portland crowd, and the massive TitanTron flashed a brand new graphic: *NO QUARTER – 5-ON-5 ELIMINATION MATCH PREVIEW*.
 
@@ -1126,7 +1126,7 @@ Team Sterling was sending a massive, highly destructive message ahead of *No Qua
 
 ### Part 9: The Backstage Assault
 
-**Date:** 2006-11-20 at 19:15 PT
+**Date:** 2006-11-20 at 19:15 America/Los_Angeles
 
 As the ringside crew scrambled down the ramp to sweep up the splintered remains of the bass guitar and drag the broken synthesizer away, the massive TitanTron above the stage flickered.
 
@@ -1184,7 +1184,7 @@ Without the commentary desk explaining the transition, the raw energy of the are
 
 ### Part 10: The Upset of the Century
 
-**Date:** 2006-11-20 at 19:25 PT
+**Date:** 2006-11-20 at 19:25 America/Los_Angeles
 
 When the live feed from the loading dock cut out, the arena lights shifted instantly to an ominous, blood-red crimson.
 
@@ -1258,7 +1258,7 @@ The main event was next.
 
 ### Part 11: The Main Event Recap
 
-**Date:** 2006-11-20 at 19:45 PT
+**Date:** 2006-11-20 at 19:45 America/Los_Angeles
 
 After the sheer, unadulterated chaos of Craig Bronson’s massive upset over Avalanche, the Rose City Center finally took a collective breath.
 
@@ -1322,7 +1322,7 @@ We were officially rooting for the corporate villains.
 
 ### Part 12: The Main Event
 
-**Date:** 2006-11-20 at 19:45 PT
+**Date:** 2006-11-20 at 19:45 America/Los_Angeles
 
 The house lights dropped completely. Fourteen thousand people in the Rose City Center rose to their feet in absolute, buzzing unison.
 
@@ -1432,7 +1432,7 @@ And come Sunday in Seattle, that trigger might be The Resistance.
 
 ### Part 13: The Rampage & The Ultimatum
 
-**Date:** 2006-11-20 at 19:56 PT
+**Date:** 2006-11-20 at 19:56 America/Los_Angeles
 
 The Rose City Center was completely unglued. The visual of Jaxson Vance holding the AWE World Heavyweight Championship high above his head sent the Portland crowd into an absolute frenzy.
 
@@ -1500,7 +1500,7 @@ The arena plunged into total darkness. The broadcast was over.
 
 ### Part 14: The House Lights & The Journey Home
 
-**Date:** 2006-11-20 at 20:00 PT
+**Date:** 2006-11-20 at 20:00 America/Los_Angeles
 
 The digital clock suspended above the stage clicked to 8:00 PM. The TitanTron faded to black, the PA system cut out, and an instant later, the massive, blindingly bright white house lights of the Rose City Center slammed on.
 

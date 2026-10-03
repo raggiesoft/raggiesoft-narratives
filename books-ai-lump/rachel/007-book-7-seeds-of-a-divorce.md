@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Aunt Janet Extraction
 
-**Date:** 2000-08-17 at 04:30 ET
+**Date:** 2000-08-17 at 04:30 America/New_York
 
 The heavy, suffocating humidity of the Virginia August morning clung to the concrete front porch of 1852 Delaney Street. It was four-thirty in the morning, and the sky was still a bruised, pitch black.
 
@@ -75,7 +75,7 @@ Mom turned back around, facing the windshield as the bright, glowing signs for N
 
 ### Part 2: The Check-In
 
-**Date:** 2000-08-17 at 05:15 ET
+**Date:** 2000-08-17 at 05:15 America/New_York
 
 The heavy, humid darkness of the Virginia morning broke into the harsh, glaring fluorescent lights of the Norfolk International Airport drop-off lanes. Aunt Janet pulled the minivan up to the curbside check-in for Meridian Airlines, putting the car in park with a heavy sigh.
 
@@ -139,7 +139,7 @@ Mom took the passes, looking down at Jessica. She could see the rigid tension in
 
 ### Part 3: The Perimeter Breach
 
-**Date:** 2000-08-17 at 05:30 ET
+**Date:** 2000-08-17 at 05:30 America/New_York
 
 We left the ticketing counter behind, leaving our massive canvas bags and the heavy computer tower in the hands of the Meridian Airlines baggage handlers. Stripped down to just our carry-on backpacks, Mom marched us directly toward the B Concourse security checkpoint.
 
@@ -187,7 +187,7 @@ Mom sat on the other side of Rachel, sipping her black coffee. She watched the t
 
 ### Part 4: The Vanguard Flight
 
-**Date:** 2000-08-17 at 06:15 ET
+**Date:** 2000-08-17 at 06:15 America/New_York
 
 The Meridian Airlines gate agent called for pre-boarding, and the reality of the jet bridge hit us the second we crossed the threshold of the terminal door.
 
@@ -249,7 +249,7 @@ Mom slowly set her coffee cup down. The decision wasn't born out of sudden anger
 
 ### Part 5: The Prismatic Corridor
 
-**Date:** 2000-08-17 at 08:45 CT
+**Date:** 2000-08-17 at 08:45 America/Chicago
 
 The heavy commercial jet touched down at Chicago O’Hare with a violent shudder, the reverse thrusters roaring as we braked against the tarmac.
 
@@ -313,7 +313,7 @@ We stood outside the shop, passing the drinks around and letting the adrenaline 
 
 ### Part 6: The Sunlit Valley
 
-**Date:** 2000-08-17 at 10:30 CT
+**Date:** 2000-08-17 at 10:30 America/Chicago
 
 Gate C18 was a chaotic bottleneck, but the aircraft waiting for us at the end of the jet bridge was a massive upgrade. Meridian Airlines utilized a wide-body, dual-aisle jetliner for their cross-country hub routes.
 
@@ -369,7 +369,7 @@ The Pacific Northwest. The vanguard had arrived.
 
 ### Part 1: Reclaiming the Armor
 
-**Date:** 2000-08-17 at 13:00 PT
+**Date:** 2000-08-17 at 13:00 America/Los_Angeles
 
 The Meridian Airlines wide-body jet touched down at Seattle-Tacoma International Airport under a brilliant, cloudless sky. The heavy, pressurized air of the cabin shifted as the doors opened, and for the first time in hours, Rachel’s grip on my shirt finally loosened.
 
@@ -403,7 +403,7 @@ We formed a tight perimeter around our luggage carts, waiting in the cool, brigh
 
 ### Part 2: The Breda Lift
 
-**Date:** 2000-08-17 at 13:30 PT
+**Date:** 2000-08-17 at 13:30 America/Los_Angeles
 
 We didn't have to wait long on the heavy concrete transit island. A massive, sixty-foot articulated bus roared into the pickup lane, its air brakes hissing sharply as it knelt toward the curb.
 
@@ -469,7 +469,7 @@ She turned to us, gripping the canvas bags.
 
 ### Part 3: The Lobby Perimeter
 
-**Date:** 2000-08-17 at 14:15 PT
+**Date:** 2000-08-17 at 14:15 America/Los_Angeles
 
 We dragged our heavy canvas bags and the massive cardboard computer box the last two blocks from the NPU transit stop to the hotel. You couldn't take the rolling airport carts on a city bus, which meant Mom and I had physically hauled everything by their canvas straps. By the time the automatic sliding doors of the hotel lobby parted, my hands were raw and aching.
 
@@ -529,7 +529,7 @@ Mom walked to the desk, signed the registration card, and returned to our alcove
 
 ### Part 4: The Room 412 Perimeter
 
-**Date:** 2000-08-17 at 15:15 PT
+**Date:** 2000-08-17 at 15:15 America/Los_Angeles
 
 The elevator bank at the end of the hall looked like it hadn't been updated since 1968. The heavy, faux-wood paneled doors slid open with a rattling metal screech, revealing a cramped cab that smelled faintly of old machine oil and stale cigarette smoke masked by heavy floral perfume.
 
@@ -601,7 +601,7 @@ Back on the East Coast, fast food was strictly segmented. Burger places sold bur
 
 ### Part 1: The ADA Fortress
 
-**Date:** 2000-08-18 at 08:00 PT
+**Date:** 2000-08-18 at 08:00 America/Los_Angeles
 
 Friday morning broke with the bright, sharp clarity unique to the Pacific Northwest. Our internal clocks were still violently protesting, but the adrenaline of Move-In Day overrode the fatigue.
 
@@ -667,7 +667,7 @@ Mom walked over, leaning down to wrap her arms tightly around Jessica’s should
 
 ### Part 2: The Cascade Haul
 
-**Date:** 2000-08-18 at 13:00 PT
+**Date:** 2000-08-18 at 13:00 America/Los_Angeles
 
 The dorm was fully established, but a quick visual sweep of the ADA kitchen revealed a glaring vulnerability. The refrigerator was entirely empty.
 
@@ -715,7 +715,7 @@ Jessica hit cancel, a fierce, triumphant smile breaking across her face. The kit
 
 ### Part 3: The Topography Lesson
 
-**Date:** 2000-08-18 at 16:00 PT
+**Date:** 2000-08-18 at 16:00 America/Los_Angeles
 
 By late afternoon, the high-adrenaline rush had settled into a quiet, operational hum.
 
@@ -761,7 +761,7 @@ The vanguard was learning the terrain.
 
 ### Part 4: The Ave
 
-**Date:** 2000-08-18 at 18:30 PT
+**Date:** 2000-08-18 at 18:30 America/Los_Angeles
 
 By six-thirty in the evening, the high-altitude, crisp Pacific Northwest sun was finally beginning to cast long, golden shadows across the concrete of the engineering quad. The vanguard had successfully secured the apartment, mapped the local transit grid, and armed the kitchen, but the adrenaline that had been powering our central nervous systems since the 4:30 AM East Coast extraction was violently bottoming out.
 
@@ -819,7 +819,7 @@ Jessica took a bite of her chicken, looking out the plate-glass window at the ne
 
 ### Part 5: The Perimeter Handoff
 
-**Date:** 2000-08-18 at 20:00 PT
+**Date:** 2000-08-18 at 20:00 America/Los_Angeles
 
 By eight o'clock, the golden hour had faded into a cool, dusky Pacific Northwest twilight. We walked the few blocks back to the engineering quad, our shadows stretching long across the concrete, and pushed into the quiet, brightly lit corridor of the upperclassman dorm.
 
@@ -887,7 +887,7 @@ Jessica Marie Ragsdale rested her hands on her push-rims, alone in the quiet dar
 
 ### Part 6: The Empty Flank
 
-**Date:** 2000-08-18 at 21:30 PT
+**Date:** 2000-08-18 at 21:30 America/Los_Angeles
 
 The ride back to the hotel on the TAPS bus was entirely silent. The cool, dark Seattle streets blurred past the window, but none of us were really looking at the city. The extraction was complete, the perimeter had been handed over, and the adrenaline was completely gone. All that was left was the heavy, hollow reality of the separation.
 
@@ -941,7 +941,7 @@ The sun would come up. We would walk back to the engineering quad. We would see 
 
 ### Part 1: The Reassembled Pack
 
-**Date:** 2000-08-19 at 07:00 PT
+**Date:** 2000-08-19 at 07:00 America/Los_Angeles
 
 The digital alarm clock on the hotel nightstand hadn't even flipped to seven when my hyper-vigilance finally broke my light, fractured sleep entirely.
 
@@ -1027,7 +1027,7 @@ It was time to breach the downtown grid.
 
 ### Part 2: The Concrete Canyons
 
-**Date:** 2000-08-19 at 11:30 PT
+**Date:** 2000-08-19 at 11:30 America/Los_Angeles
 
 The local King County 230 deposited us right in the heart of the Bellevue Transit Center. We didn't have to wait long. The massive, articulated TAPS 550 express bus pulled up, its air brakes hissing loudly as the doors swung open.
 
@@ -1061,7 +1061,7 @@ We stepped off the bus and into a towering, man-made canyon of glass, steel, and
 
 ### Part 3: The Puget Place Gauntlet
 
-**Date:** 2000-08-19 at 12:30 PT
+**Date:** 2000-08-19 at 12:30 America/Los_Angeles
 
 Mom led the tactical navigation, checking the folding tourist map against the street signs as we walked west toward the water, leaving the towering glass canyons of the financial district behind.
 
@@ -1123,7 +1123,7 @@ This successfully extracts them from the sensory nightmare and puts them on a di
 
 ### Part 4: The Saltwater Grid
 
-**Date:** 2000-08-19 at 13:15 PT
+**Date:** 2000-08-19 at 13:15 America/Los_Angeles
 
 We hit the bottom of the concrete pedestrian ramp and immediately ran into a massive, brutalist wall of infrastructure.
 
@@ -1173,7 +1173,7 @@ She took a sip of her coffee, looking out at the mountains, a quiet, fierce sati
 
 ### Part 5: The Bremerton Landing
 
-**Date:** 2000-08-19 at 14:30 PT
+**Date:** 2000-08-19 at 14:30 America/Los_Angeles
 
 The paper bowls of Ivar's clam chowder and thick-cut fries did exactly what Mom needed them to do: they stabilized our blood sugar and halted the adrenaline crash from the Puget Place Market. But it was just transit fuel. We still needed a proper, sit-down meal on solid ground.
 

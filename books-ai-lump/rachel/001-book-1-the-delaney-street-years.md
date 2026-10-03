@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Sensory Avalanche
 
-**Date:** 1990-12-01 at 09:00 ET
+**Date:** 1990-12-01 at 09:00 America/New_York
 
 The house on Delaney Street vibrated with the frantic, overlapping energy of a Saturday morning cartoon. The bright, chaotic synthesizer intro of the *Puppet Pals* theme song played on a loop from the television, battling against the noise of the crowded room.
 
@@ -39,7 +39,7 @@ Maria dropped the Light-Blaster on the carpet and leaned over my shoulder to wat
 
 ### Part 1: Sanctuary
 
-**Date:** 1993-12-22 at 21:30 ET
+**Date:** 1993-12-22 at 21:30 America/New_York
 
 The Delaney Street house was not built to hold this much noise.
 
@@ -77,7 +77,7 @@ It was a perfectly symbiotic system. Her tight, silent hugs grounded the frantic
 
 ### Part 2: The New Arrangement
 
-**Date:** 1993-12-22 at 22:30 ET
+**Date:** 1993-12-22 at 22:30 America/New_York
 
 The logic the adults had tried to enforce earlier that evening was purely traditional: boys with boys, and girls with girls. Since all three bedrooms were grouped together on the second floor, the geographical math made sense to Mom and Dad. Joey was a boy, I was a boy, therefore Joey belonged in my room.
 
@@ -111,7 +111,7 @@ I let my eyes drift shut. Let Joey have the room down the hall. I had found a ne
 
 ### Part 1: The Discovery
 
-**Date:** 1993-12-23 at 07:00 ET
+**Date:** 1993-12-23 at 07:00 America/New_York
 
 Morning in the Delaney Street house began with the heavy, thudding footsteps of adults navigating the hallway.
 
@@ -155,7 +155,7 @@ I didn't say anything back, but I let out a long, shaking breath of relief. Jess
 
 ### Part 2: The Breakfast Table
 
-**Date:** 1993-12-23 at 09:00 ET
+**Date:** 1993-12-23 at 09:00 America/New_York
 
 By nine o'clock on the morning of December 23rd, the kitchen and dining room of the Delaney Street house had reached critical mass.
 
@@ -193,7 +193,7 @@ But Jessica did. And as long as Rachel kept squeezing my arm, we were going to s
 
 ### Part 3: Emerald Creek Mall
 
-**Date:** 1993-12-23 at 13:00 ET
+**Date:** 1993-12-23 at 13:00 America/New_York
 
 Moving sixteen people from Delaney Street to Chesapeake was a logistical nightmare that required a caravan of four separate cars. When we finally pulled into the massive, sprawling parking lot of the Emerald Creek Mall, the sheer volume of vehicles made it clear that we were walking into a warzone. It was December 23rd. The entire city of Chesapeake was doing their last-minute holiday shopping.
 
@@ -241,7 +241,7 @@ We were still surrounded by the overwhelming noise, the bright lights, and the s
 
 ### Part 4: The Doll Aisle
 
-**Date:** 1993-12-23 at 13:15 ET
+**Date:** 1993-12-23 at 13:15 America/New_York
 
 The physical relief of walking away from the massive, disorganized family circle was immediate. As Jessica steered us down the wide concourse, the oppressive weight of Uncle Eddy’s booming voice and Dad’s strict traffic directions faded into the general, ambient roar of the mall.
 
@@ -277,7 +277,7 @@ We were surrounded by pink plastic and mall chaos, but for the first time all da
 
 ### Part 5: The Neon Quarter
 
-**Date:** 1993-12-23 at 13:45 ET
+**Date:** 1993-12-23 at 13:45 America/New_York
 
 The Emerald Creek Mall food court was a vast, echoing cavern of clattering plastic trays, scraping metal chairs, and the overwhelming smell of greasy fries and baked pretzels. It was the designated meeting point for the entire extended family, which meant it was the absolute last place we wanted to be.
 
@@ -311,7 +311,7 @@ I wrapped my hand around the red plastic ball of the joystick. The bright, 8-bit
 
 ### Part 6: Not Proper
 
-**Date:** 1993-12-23 at 14:30 ET
+**Date:** 1993-12-23 at 14:30 America/New_York
 
 The heavy brass tokens eventually ran out, and Jessica signaled that our time in the quiet, mechanical sanctuary of The Neon Quarter was over.
 
@@ -375,7 +375,7 @@ Jessica flashed me a subtle, triumphant smirk. The adults had tried to enforce t
 
 ### Part 7: The Bantam Workaround
 
-**Date:** 1993-12-23 at 15:15 ET
+**Date:** 1993-12-23 at 15:15 America/New_York
 
 The aftermath of Joey’s food court tantrum meant the massive family shopping trip was officially aborted. The logistics of getting sixteen people back to Delaney Street required splitting up again. Mom, Uncle Eddy, and Aunt Janet took the cousins and the grandmothers in the larger sedans, leaving Dad to transport me and my sisters in the truck.
 
@@ -439,7 +439,7 @@ We rode the rest of the way home squished together on the middle bench, complete
 
 ### Part 8: The Father's Perspective
 
-**Date:** 1993-12-23 at 15:30 ET
+**Date:** 1993-12-23 at 15:30 America/New_York
 
 Dad kept his eyes locked on the road, his jaw tight as he steered the Izumi Bantam out of the sprawling mall parking lot, making a sharp right onto River Birch Run.
 

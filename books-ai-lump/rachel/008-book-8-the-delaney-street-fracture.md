@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: Awakening My Sister
 
-**Date:** 2001-08-13 at 06:00 ET
+**Date:** 2001-08-13 at 06:00 America/New_York
 
 The harsh, electronic blare of the alarm clock on the coffee table severed the quiet of the morning like a physical strike. Beside me on the pull-out mattress of the sofa bed, Rachel jolted awake with a sharp gasp, the heavy blankets tangling around our legs. It was 6:00 AM, the official start of my Junior year marching band season, and more importantly, Rachel's very first day as a Freshman in the pit ensemble.
 
@@ -51,7 +51,7 @@ We rode the two miles to Northwood High School in comfortable silence, the rhyth
 
 ### Part 2: The Sentinel and the Ghost
 
-**Date:** 2001-08-13 at 07:45 ET
+**Date:** 2001-08-13 at 07:45 America/New_York
 
 We chained our bikes to the racks outside the fine arts wing. As we walked toward the heavy double doors of the band room, a familiar figure pushed off the brick wall to meet us.
 
@@ -91,7 +91,7 @@ Here, surrounded by the giant, resonant instruments and the strict, predictable 
 
 ### Part 3: The Sanctuary Shatters
 
-**Date:** 2001-08-13 at 08:45 ET
+**Date:** 2001-08-13 at 08:45 America/New_York
 
 "Detail! Atten-Hut!" Mr. Panoff’s voice boomed across the practice field, cutting through the humid morning air.
 
@@ -169,7 +169,7 @@ Samantha stepped up to our abandoned keyboards, her expression entirely professi
 
 ### Part 4: The Commercial Carpet
 
-**Date:** 2001-08-13 at 09:00 ET
+**Date:** 2001-08-13 at 09:00 America/New_York
 
 Kenny pulled the heavy, metal double doors of the Northwood High band room open. The blast of over-taxed air conditioning hit us instantly, carrying the familiar, metallic scent of brass polish, valve oil, and stale carpet.
 
@@ -211,7 +211,7 @@ I squeezed my eyes shut, burying my face into Rachel's shoulder, my own breathin
 
 ### Part 5: The Anchor and the Alpine Snowdrop
 
-**Date:** 2001-08-13 at 09:15 ET
+**Date:** 2001-08-13 at 09:15 America/New_York
 
 The ragged, frantic rhythm of our breathing slowly began to decelerate.
 
@@ -299,7 +299,7 @@ I looked over at Rachel. She was already picking up her mallets, meticulously al
 
 ### Part 6: The Muscle Memory Map
 
-**Date:** 2001-08-13 at 10:00 ET
+**Date:** 2001-08-13 at 10:00 America/New_York
 
 The initial relief of the sheet music lasted exactly ten minutes.
 
@@ -377,7 +377,7 @@ The morning had started with the utter destruction of our family unit, leaving u
 
 ### Part 7: The Stage Door Fortress
 
-**Date:** 2001-08-13 at 12:00 ET
+**Date:** 2001-08-13 at 12:00 America/New_York
 
 At noon, Mr. Panoff blew his whistle, signaling the start of the hour-long lunch break.
 
@@ -445,7 +445,7 @@ The Delaney Street house was broken, and our parents had officially surrendered 
 
 ### Part 8: The Afternoon Metronome
 
-**Date:** 2001-08-13 at 13:00 ET
+**Date:** 2001-08-13 at 13:00 America/New_York
 
 When we finally emerged from the dark, quiet alcove of the stage doors at one o'clock, the Virginia Beach heat hit us like a physical wall. The humidity had peaked, turning the air thick and heavy, but the suffocating weather was nothing compared to the absolute, crushing relief I felt when I looked across the practice field.
 
@@ -529,7 +529,7 @@ Working together, we hoisted the bicycles into the back of the van. We climbed i
 
 ### Part 9: 1802 Rich Court
 
-**Date:** 2001-08-13 at 17:15 ET
+**Date:** 2001-08-13 at 17:15 America/New_York
 
 The distance between 1852 Delaney Street and 1802 Rich Court was exactly one block. Physically, it was a two-minute walk. But stepping out of the humid August heat and through the front door of the Raybourn house felt like crossing a border into an entirely different dimension.
 
@@ -599,7 +599,7 @@ We headed up the stairs to Ashley's room. The Delaney Street house was falling a
 
 ### Part 10: The Giant Bed
 
-**Date:** 2001-08-13 at 19:30 ET
+**Date:** 2001-08-13 at 19:30 America/New_York
 
 Even though the August sun was still casting long, golden shadows across the Raybourns' backyard, our physical and emotional batteries were operating at zero percent. The combination of the brutal Virginia heat and the absolute psychological devastation of the morning had completely drained us.
 

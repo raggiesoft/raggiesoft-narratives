@@ -9,7 +9,7 @@ series: "The Rachel Narrative"
 
 ### Part 1: The Desktop Under the Stairs
 
-**Date:** 2000-04-21 at 16:00 ET
+**Date:** 2000-04-21 at 16:00 America/New_York
 
 The architectural layout of 1852 Delaney Street wasn't exactly designed with advanced computing in mind. To keep the heavy, beige plastic tower and the massive CRT monitor out of the main traffic flow, Dad had shoved the family computer desk into the awkward, sloping alcove directly underneath the wooden staircase.
 
@@ -67,7 +67,7 @@ Jessica pulled back from our hug, wiping her eyes, a brilliant, tear-stained gri
 
 ### Part 2: The Quantum Packet
 
-**Date:** 2000-04-21 at 16:10 ET
+**Date:** 2000-04-21 at 16:10 America/New_York
 
 The heavy, black Quantum box sat on the concrete of the front porch, daring us to open it.
 
@@ -151,7 +151,7 @@ The victory celebration was officially suspended. Jessica didn't wait for Dad to
 
 ### Part 3: The Long-Distance Loophole
 
-**Date:** 2000-04-21 at 16:30 ET
+**Date:** 2000-04-21 at 16:30 America/New_York
 
 The dining room was rapidly deteriorating into a battlefield. Dad’s booming complaints about plane tickets and oversized baggage fees were escalating, completely drowning out Mom’s fierce attempts to defend the magnitude of the moment.
 
@@ -227,7 +227,7 @@ She hung up the phone. In the dining room, Dad was still loudly complaining to M
 
 ### Part 4: The Vanguard
 
-**Date:** 2000-04-21 at 16:45 ET
+**Date:** 2000-04-21 at 16:45 America/New_York
 
 "Thank you so much for your help," Jessica said warmly into the receiver. "I'll see you in the fall."
 
@@ -267,7 +267,7 @@ Mom looked back over at the computer desk. "You are the vanguard of this family,
 
 ### Part 5: The Mirror
 
-**Date:** 2000-04-21 at 16:50 ET
+**Date:** 2000-04-21 at 16:50 America/New_York
 
 "The whole pack is going to Seattle."
 
@@ -333,7 +333,7 @@ He didn't say another word. He just turned around, walked back into the kitchen,
 
 ### Part 1: The Wheelchair Lift
 
-**Date:** 2000-05-04 at 16:00 ET
+**Date:** 2000-05-04 at 16:00 America/New_York
 
 After hours of highway driving, our charter bus finally pulled into the parking lot of a high-end hotel near the ATL airport.
 
@@ -367,7 +367,7 @@ Mr. Panoff and the bus operator cleared it, and carefully, Brandon and the other
 
 ### Part 2: The Cafeteria Serenade
 
-**Date:** 2000-05-04 at 18:30 ET
+**Date:** 2000-05-04 at 18:30 America/New_York
 
 The logistics of getting off the motorcoach were just as grueling as getting on. Because the heavy metal wheelchair lift was still completely jammed, Brandon and the athletic guys from the drumline had to carefully carry Jessica down the narrow rubber stairs while the bus operator pulled her manual chair out of the luggage compartment underneath.
 
@@ -427,7 +427,7 @@ And as the bus pulled into the hotel parking lot, we both desperately believed t
 
 ### Part 3: The Lido Deck
 
-**Date:** 2000-05-04 at 20:00 ET
+**Date:** 2000-05-04 at 20:00 America/New_York
 
 After a long, uneventful dinner at the massive cafeteria, we finally made it back to the Atlanta hotel. Jessica looked at me, the cold determination returning.
 
@@ -579,7 +579,7 @@ I helped her transfer into the bed, and out of sheer habit and the desperate nee
 
 ### Part 1: The Crown Burger Trigger
 
-**Date:** 2000-10-28 at 20:30 ET
+**Date:** 2000-10-28 at 20:30 America/New_York
 
 The chaotic, post-competition adrenaline was finally wearing off, replaced by the deep, heavy exhaustion of a high school band trip. The marching band had completely taken over the *Crown Burger* located right at the edge of the hotel parking lot in Roanoke Rapids. The dining room was a loud, greasy sea of teenagers in half-unzipped uniform jackets eating fries and completely ignoring the curfew looming over their heads.
 
