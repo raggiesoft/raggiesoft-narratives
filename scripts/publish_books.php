@@ -226,6 +226,7 @@ foreach ($narrativeDirs as $narrativeDir) {
     $newRouteData = [];
     $newRouteData['common'] = $routeData['common'];
     $newRouteData['common']['siteName'] = "Ocean View Archives";
+    $newRouteData['common']['theme'] = "oceanview";
     
     // Rewrite keys to omit /raggiesoft-books/books prefix
     $newFirstRouteUrl = null;
