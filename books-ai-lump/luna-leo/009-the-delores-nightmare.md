@@ -9,7 +9,7 @@ series: "Luna and Leo"
 
 ### Part 1: A Grieving Start
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-08-25 at 10:00 America/Los_Angeles
 
 The morning of Monday, August 25th, 2003, was bright and full of the nervous, excited energy of the first day of college. For Leo Porter, however, the world was a muted shade of gray. The two weeks since the heartbreaking farewell to Olivia at Seattle's King Street Station had been a blur of quiet, aching grief.
 
@@ -33,7 +33,7 @@ But as they found their classroom and settled into the accessible seating at the
 
 ### Part 2: American Literature
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The classroom in the Martin Building was a standard college classroom, built for about 30 students, with tables arranged in rows facing a large whiteboard. The fortress twins found an accessible spot near the front, giving Leo ample room for his wheelchair. As other students filed in, a middle-aged professor with kind eyes and a tweed jacket entered and began arranging his notes on the table at the front.
 
@@ -83,7 +83,7 @@ Students began to gather their bags, the rustling of backpacks and the scraping 
 
 ### Part 3: The Separation
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 As students began to file out of the American Literature class, the reality of the next part of the day hit Leo with a jolt of raw panic. He looked at his schedule, then at Luna's. Her next class was just down the hall. His was a 90-minute College Algebra I class, across the street in the Andrews Building.
 
@@ -131,7 +131,7 @@ For the first time since he had said goodbye to his best friend, a fragile glimm
 
 ### Part 4: An Unexpected Addition
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The 90-minute algebra class felt like an eternity, but it finally ended. Leo packed his bag, the earlier glimmer of hope from Delores's offer a small, fragile shield against his exhaustion. As he wheeled himself out of the classroom and into the bustling hallway of the Andrews Building, he saw a familiar, welcome sight.
 
@@ -165,7 +165,7 @@ As the three of them—Luna pushing Leo's chair, Delores walking beside them, ch
 
 ### Part 5: The First Red Flag
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The third-floor food court of the mall was a noisy, bustling hub of lunchtime activity. Stella was waiting for them at a table near the windows, and her face lit up the moment she saw them approaching. The twins immediately broke away from Delores and enveloped their sister in fierce, loving hugs, a much-needed moment of connection after their first, separate classes.
 
@@ -201,7 +201,7 @@ The moment was small, almost unnoticeable. But Stella, whose "guardian bear" sen
 
 ### Part 6: A Cautious Assessment
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 As the remnants of their lunch were cleared away, Stella glanced at her watch. "Alright, team, the salt mines are calling. I've got to get back to the office," she said, a note of reluctance in her voice.
 
@@ -229,7 +229,7 @@ With a final wave, Stella was gone, leaving the twins to make their way to their
 
 ### Part 7: Confronting Quantum
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The short walk from the mall food court back across the street to the Andrews Building was a marked contrast to their tense, solo journeys that morning. Now they were together, a familiar, two-person fortress moving through the bustling downtown sidewalks. Luna pushed Leo's wheelchair, her movements practiced and sure, taking her role as his caregiver seriously.
 
@@ -313,7 +313,7 @@ As they finally left the classroom, the daunting challenge of "Operation: Conque
 
 ### Part 8: A Cautious Assessment
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The "Introduction to Computers" class finished, leaving Luna and Leo feeling exhausted but cautiously optimistic. As they exited the classroom into the now-emptying hallway of the Andrews Building, they nearly collided with another student emerging from the English writing class next door. It was Delores.
 
@@ -349,7 +349,7 @@ The effect was instantaneous. A brilliant, genuine smile broke across Leo's face
 
 ### Part 9: The Ride Home
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The ride home in Stella's Holt Sentinel was a quiet, comforting cocoon after the sensory overload of the first day. Without a word, Luna slid into the back seat with Leo, a silent offer of support. The moment she was settled, Leo leaned his head against her shoulder, and she immediately wrapped an arm around him, letting him cuddle with her for the entire ride home. It was a familiar, grounding ritual, a physical reassurance that his fortress was intact.
 
@@ -379,7 +379,7 @@ OLIVIA! The name was a silent, happy shout in his mind. He was going to talk to 
 
 ### Part 10: A Long-Distance Lifeline
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The moment they got home, before the exhaustion of the day could fully set in, Luna made good on her promise. "Okay," she announced, "Operation: Call Olivia is a go."
 
@@ -417,7 +417,7 @@ They hung up, and the silence that filled the room felt vast and empty, but also
 
 ### Part 1: The Tutor
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The first few weeks of the fall semester were defined by two competing forces in Leo’s life: the deep, aching void left by Olivia’s departure, and the small, fragile glimmer of hope offered by Delores.
 
@@ -429,7 +429,7 @@ The daily phone calls with Olivia were his lifeline, but they were also a painfu
 
 ### Part 2: The Unveiling
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 By the fourth week of their "friendship," Leo was spending most of his free time at Delores's apartment. It was during one of these weekends in late September that Delores decided to escalate, to forge a new kind of intimacy she believed would secure her control.
 
@@ -463,7 +463,7 @@ The tool she had thought was her ultimate trump card had proven completely ineff
 
 ### Part 3: A Controlled Visit
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 One Saturday afternoon in the Summer of 2003, Stella and Luna arrived at Clara Mahone's apartment in Portsmouth for one of their increasingly infrequent, carefully negotiated visits with Leo. Delores had "allowed" them to come over, but the atmosphere was immediately tense. Delores shadowed their every move, inserting herself into conversations, her eyes constantly monitoring Leo. Clara mostly stayed in the kitchen or watched TV, seemingly oblivious or perhaps willfully ignoring the undercurrents.
 
@@ -511,7 +511,7 @@ Upset and deeply worried, Stella and Luna walked out, leaving Leo once again in 
 
 ### Part 4: An Unsettling Silence
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The front door clicked shut behind Stella and Luna, leaving a heavy silence in its wake. Leo sat quietly near the window, looking withdrawn after the stressful visit. Delores stood near the center of the small living room, still vibrating with unspoken fury, her arms crossed tightly, her gaze fixed on the door her "rivals" had just exited.
 
@@ -537,7 +537,7 @@ She turned away, heading back towards the relative normalcy of the kitchen, leav
 
 ### Part 5: A Guardian's Shadow
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The heavy, resentful silence in the apartment after Stella and Luna's departure was a familiar poison to Clara Mahone. She watched her daughter, Delores, pace the small living room, still fuming over the perceived slights of the afternoon—the bath, her mother's lack of absolute support, and the infuriatingly close bond between Leo and his sisters.
 
@@ -589,7 +589,7 @@ Clara looked at her daughter, at the complete, unshakeable delusion in her eyes,
 
 ### Part 6: A Sleepless Resolve
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The thin walls of Delores's bedroom offered no protection from the argument raging in the living room. Leo heard all of it: Clara's desperate, urgent explanation, Delores's scoffing disbelief, and the sharp, terrifying words that followed.
 
@@ -609,7 +609,7 @@ He hardly slept that night. He lay stiffly in the bed, pretending to be asleep, 
 
 ### Part 7: A Fragile Normalcy
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The next morning, the terror of the previous night felt like a distant, foggy dream to Leo. When he woke, Delores was bright and cheery, a complete one-eighty from her cold fury the day before. It was another mask, a carefully constructed performance of normalcy, but it was one that Leo, in his desperate desire for peace, did not pick up on. Her cheerfulness felt like a reprieve, a sign that maybe things were okay, that he had imagined the severity of the argument between her and her mother.
 
@@ -625,7 +625,7 @@ He gave a genuine, relieved smile. They headed into the building for their share
 
 ### Part 1: The Hijacked Plan
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 Fall 2003 arrived, and with it, the approach of the mid-October long weekend many colleges observed as Fall Break around Columbus Day. The silences from Leo were becoming longer, the phone calls shorter and more stilted. Stella and Luna exchanged worried glances more frequently. Since Leo had effectively moved in with Delores and her mother across the river in Portsmouth, the communication had gradually dwindled, subtly throttled by Delores’s possessiveness. They missed him terribly, and beneath the missing him was a growing unease about his situation.
 
@@ -661,7 +661,7 @@ Luna retreated into angry silence, grabbing her headphones. The planned sibling 
 
 ### Part 2: The College Pickup
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The blue Holt Sentinel idled near the entrance of the community college campus in Norfolk that Friday afternoon. Stella gripped the steering wheel, her knuckles white for a moment before she forced herself to relax. Beside her in the back seat, Luna stared stonily out the window, headphones already clamped over her ears, emitting a faint tinny beat of some angry rock song. The original plan for a relaxed, siblings-only weekend felt like a distant memory, replaced by dread.
 
@@ -679,7 +679,7 @@ Stella shot Luna a warning look in the rearview mirror before turning back to th
 
 ### Part 3: The Drive and Arrival
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 Helping Leo transfer into the back of the Sentinel was significantly more awkward than the front seat transfer they usually managed. It required more maneuvering, and Leo bumped his knee slightly, wincing. Delores watched from the front seat, offering unhelpful commentary. "Be careful with him, Stella. You almost dropped him. Maybe I should do it."
 
@@ -701,7 +701,7 @@ In the back seat, Luna continued to hold her brother, a silent, victorious guard
 
 ### Part 4: An Uneasy Evening
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 Pulling into the driveway of the small house on Daniel Maloney Drive felt less like arriving home and more like bringing the tension indoors. The moment the car stopped, Stella and Luna got out to help Leo, the transfer out of the back seat just as awkward as getting in. Delores retrieved her own bag from the trunk and surveyed the house with a critical eye.
 
@@ -731,7 +731,7 @@ Stella watched the dynamic, frustration simmering. Delores wasn't just a guest; 
 
 ### Part 5: Saturday Under Siege
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 Silence hung heavy in Stella’s house when Saturday morning dawned, grey and cheerless outside, mirroring the mood inside. Stella emerged from her room first, feeling unrested. She found Luna already in the kitchen, rigidly pouring cereal. They exchanged a brief, weary look. The closed door to Leo’s bedroom felt like a physical weight between them .
 
@@ -797,7 +797,7 @@ When the call finally ended, Leo looked utterly drained, but also a little more 
 
 ### Part 6: MagnaByte Conflict
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 After the call with Olivia, seeking refuge, Leo joined Luna at the MagnaByte table. The quiet, rhythmic click-clack of the two keyboards filled their corner as they focused on a writing assignment for English class, comfortably using MagnaWriter. For a brief period, they existed in their familiar bubble.
 
@@ -829,7 +829,7 @@ Delores shrugged with feigned indifference. "Fine. Whatever. Stay here with your
 
 ### Part 7: Printer Rage, Guardianship Questions, and a Forceful Kiss
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 Despite the earlier interruption, Luna and Leo Porter resolutely turned back to their MagnaBytes, determined to finish their English assignment. They worked steadily for another hour. Finally, Luna stretched. "Okay, I'm done. Ready to print?" Leo gave a quick nod, saving his MagnaWriter document.
 
@@ -897,7 +897,7 @@ Leo kept his eyes downcast, the "painted smile" he’d perfected – that hollow
 
 ### Part 8: Leftovers, Bus Schedules, and Locked Doors
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The rest of Sunday passed under the heavy, oppressive cloud left by the previous day's arguments and Delores’s continued attempts to control Leo and undermine Stella. Luna remained largely invisible, barricaded in her room or behind her MagnaByte screen. Stella navigated the hours, maintaining a strained civility for Leo’s sake.
 
@@ -971,7 +971,7 @@ The unspoken fear hung heavily between them. Another sleepless night stretched a
 
 ### Part 9: A Day Under Duress
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 Monday – Columbus Day – dawned with the heavy weight of unspoken resentment settling even deeper over Stella's small house. Delores emerged late, clearly furious about being trapped there for another day due to her refusal to accept Stella's offer of a ride and the lack of the final \#85 bus route on the holiday schedule. She made her displeasure known through pointed sighs and a chilly demeanor that ignored both Stella and Luna completely, while simultaneously hovering possessively over Leo.
 
@@ -1025,7 +1025,7 @@ Luna's head snapped up, a fierce, desperate hope in her eyes, completely unaware
 
 ### Part 10: Tuesday Morning Departure
 
-**Date:** Sat, Nov 1, 2003 at 7:00 AM PST
+**Date:** 2003-11-01 at 07:00 America/Los_Angeles
 
 Tuesday morning arrived, bringing the promise of departure and the resumption of the normal weekday bus schedule. Delores was clearly eager to leave, pacing impatiently near the front door while Leo finished getting ready. There was no time offered for a proper breakfast, nor any desired.
 
@@ -1089,7 +1089,7 @@ Leo glanced back once, a silent, worried look passing between him and his sister
 
 ### Part 1: The Trip Proposal
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The tension following the hijacked Sibling Weekend lingered heavily in the small Portsmouth apartment. Communication between Leo and his sisters became even more strained, monitored, or intercepted. Delores, perhaps sensing Leo pulling away emotionally or simply seeking another avenue of control after the failed visit, came to him just days later – only a couple of weeks before Thanksgiving in November 2003 – with a sudden, impulsive idea, presented as an escape or an adventure. She carefully omitted mentioning these specific cross-country plans to her own mother, Clara, likely giving Clara the vague impression they would simply be spending the holiday week locally.
 
@@ -1101,7 +1101,7 @@ An adventure. A chance to get away, maybe reset things with Delores after the aw
 
 ### Part 2: Four Days on the Bus
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 Boarding the gleaming blue and silver Pathfinder Bus Lines coach in Norfolk felt surreal. As they settled into seats near the middle of the bus, adjacent to the wheelchair lift area, Leo tried to push his doubts aside, focusing on the promise of the trip. The first few hours blurred into the familiar landscape of Virginia highways – Hampton, Richmond. In Richmond, they navigated the controlled chaos of their first bus change, the brief stop offering little respite before boarding the next coach heading west.
 
@@ -1113,7 +1113,7 @@ He desperately wished he could message Stella or Luna during the long stretches,
 
 ### Part 3: The Music City Realization
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 After changing buses again in Knoxville, the journey continued west into the heart of Tennessee. The initial adrenaline of departure had completely worn off, leaving Leo hollow and exhausted. His body ached from the rigid, upright positioning in his manual chair, an unavoidable necessity of accessible travel that Delores seemed determined to ignore. 
 
@@ -1131,7 +1131,7 @@ Watching the MTA bus merge away toward an exit, Leo felt a desperate, suffocatin
 
 ### Part 4: The Colby Turn
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 Knowing he wanted out but couldn't escape made the rest of the journey an exercise in quiet desperation. Across the plains of the Midwest—navigating another bus change in St. Louis, then onward through Kansas City and Topeka—the landscape flattened into an endless, monotonous panorama that mirrored his internal feeling of being trapped on a ride he couldn't get off. Inside the bus, the tension between Leo and Delores thickened to the point of suffocating.
 
@@ -1147,7 +1147,7 @@ The moment of shared regret was fleeting, yet deeply alienating. She didn't look
 
 ### Part 5: Mile High
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The landscape outside the wide windows of the Pathfinder coach shifted dramatically as they began the long, grinding ascent into the Rocky Mountains. The flat, endless expanse of the Midwest gave way to towering peaks and steep inclines. But as the bus climbed higher toward Denver, the altitude began to extract a physical toll on Leo.
 
@@ -1161,7 +1161,7 @@ But he couldn't take deep breaths. His core muscles, already strained from holdi
 
 ### Part 6: Pressure and Lies
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 By the time the bus descended into Salt Lake City, the breathing difficulties had somewhat subsided, only to be replaced by a far more insidious threat. The sheer number of hours spent trapped in the upright position of his manual chair, without the ability to properly shift his weight or relieve the friction, had taken its inevitable toll.
 
@@ -1179,7 +1179,7 @@ It was a lie, and they both knew it. She knew the medical reality of his conditi
 
 ### Part 7: The Pasco Lock
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The exhaustion of the journey had stripped Leo of his defenses by the time the bus pulled into the Pasco Intermodal Terminal in Washington state. It was a brief layover, just enough time to stretch and use the facilities before the final push toward the coast. Delores wheeled him into the large, single-occupancy family restroom to help him transfer. 
 
@@ -1205,7 +1205,7 @@ She quickly finished the transfer, her movements rough and hurried, and unlocked
 
 ### Part 8: Arrival in the Pacific Northwest
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The final stretch through Yakima and Ellensburg felt like the longest part of the journey. Darkness had fully fallen by the time the Pathfinder bus finally pulled into the main Seattle terminal located downtown at 811 Stewart St, depositing them right into the thick of evening rush hour traffic. The relief of stopping was immense, but for Leo, it was instantly replaced by a surge of ice-cold terror.
 
@@ -1239,7 +1239,7 @@ As they drove the final few blocks from the station, Aunt Carol focused entirely
 
 ### Part 9: An Unwelcoming House
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The car pulled into the driveway of a small, neat house on a quiet residential street. It was late, the streetlights casting long shadows. Getting out of the car, Leo felt a wave of sheer relief wash over him, quickly followed by bone-deep exhaustion. Four days on a bus. It was finally over.
 
@@ -1263,7 +1263,7 @@ Carol, passing the guest room doorway a few minutes later, saw the large electro
 
 ### Part 10: Jet Lag, Pancakes, and a Fragile Plan
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 That first night, lying stiffly on one side of the unfamiliar bed in the cramped guest room, Leo finally drifted into a fitful sleep, disturbed by the unfamiliar surroundings and a persistent, gnawing ache from his hip. Delores, beside him, seemed equally restless.
 
@@ -1361,7 +1361,7 @@ She turned back to Delores, her eyes hard again. "You do the dishes. Both plates
 
 ### Part 11: Delores Forces Herself
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 By late afternoon, the relentless November rain had settled into a dreary, persistent drizzle. Leo lay on the double bed in the small guest room, trying to find a position that offered relief from the throbbing pain in his hip. He was weak, nauseous from the lack of medication, and utterly exhausted.
 
@@ -1425,7 +1425,7 @@ He was safe, physically. But the psychological wall had been breached. He knew n
 
 ### Part 12: The Breaking Point
 
-**Date:** Sat, Nov 1, 2003 at 10:00 AM PST
+**Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
 The third morning in Kent dawned with a drumming sound against the window – a cold, relentless November rain. Inside the guest room, it was still pitch black, but Leo was wide awake. He hadn't slept.
 
@@ -1517,7 +1517,7 @@ He didn't know where he was going. But he knew he had to move.
 
 ### Part 1: Escape Through the Rain
 
-**Date:** Wed, Nov 26, 2003 at 4:00 AM PST
+**Date:** 2003-11-26 at 04:00 America/Los_Angeles
 
 The door clicked shut. A final sound.
 
@@ -1613,7 +1613,7 @@ Finally, the bus pulled up to the arrivals level of the main SeaTac terminal bui
 
 ### Part 2: Carol Looks for Leo
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 Meanwhile, inside the house, the loud crash and Delores's vicious screaming had jolted Aunt Carol awake. She threw on a robe and rushed into the living room, her face a mask of fury. "Delores Ann! What in God's name is going on?!"
 
@@ -1677,7 +1677,7 @@ The two sisters, united in their shared fury and disappointment, made a grim pac
 
 ### Part 3: The TTY Lifeline
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 Meanwhile, at Sea-Tac Airport, Leo managed to find the signs for payphones near the restrooms. His heart sank slightly. Without his AAC device, how could he even call? He found a bank of phones. Relief warred with confusion as he saw the blue TTY symbol—a stylized phone with a keyboard—on one of the enclosures.
 
@@ -1811,7 +1811,7 @@ On the other end, all three women heard it. The sheer, naked happiness in that s
 
 ### Part 4: The Longest Hour
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 The line clicked, and Olivia's voice was gone, replaced by the quiet, hollow hum of the open connection. Leo was still holding the receiver, his knuckles white. The TTY screen blinked back to life with the operator's sterile text.
 
@@ -1895,7 +1895,7 @@ The phone clearly transmitted the sound of Leo's raw, wordless cries of pure rel
 
 ### Part 5: Sanctuary in a Sterile Room
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 The family restroom was a small, sterile, and blessedly quiet haven. The heavy door was locked, silencing the chaotic hum of the airport terminal. For the first time in days, Leo was in a private space with someone he trusted completely. The relief was so profound it was almost painful.
 
@@ -1949,7 +1949,7 @@ She just smiled, a small, sad, and deeply loving smile.
 
 ### Part 6: The First Meal
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 As they exited the restroom back into the main terminal, the sheer scale of the airport, the echoing announcements, and the growing stream of travelers hit Leo with fresh force. He stopped, his breathing hitching, the world feeling too big, too loud after the quiet of the small room. Olivia saw it instantly. She wheeled him to a slightly quieter alcove, knelt in front of him, and pulled him into a firm, grounding hug.
 
@@ -1971,7 +1971,7 @@ When he was finally finished, a deep, bone-weary contentment had settled over hi
 
 ### Part 7: A Virtual Sanctuary
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 Olivia cleared the wrappers from their table, then unzipped her carry-on bag and pulled out her bulky laptop. "Let's show your sisters how well you're doing," she said softly.
 
@@ -2067,7 +2067,7 @@ He took a slow, shuddering breath, forcibly closing the file on Delores in his m
 
 ### Part 8: The Boarding Pass
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 The InfoLink Messenger chat with his sisters had been a lifeline, a virtual sanctuary that reaffirmed his connection to home. But when Olivia packed her laptop away, the stark reality of the bustling, noisy airport terminal crashed back in. Leo was exhausted, his body aching, and his flight was still hours away.
 
@@ -2093,7 +2093,7 @@ He looked at the two slips of paper in Olivia's hand—his name and hers, side-b
 
 ### Part 9: Airside Sanctuary
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 Armed with both of their boarding passes, tangible proof of their shared journey home, Olivia led Leo towards the Transportation Security Administration checkpoint.
 
@@ -2137,7 +2137,7 @@ He was inside the fortress now. And he was safe.
 
 ### Part 10: Airside Mission – Clothing
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 Once they were airside, Olivia’s first priority was to get Leo out of his cold, wet clothes. She quickly spotted a large airport gift shop that sold souvenir apparel. She wheeled Leo inside, parked him near a rack of thick sweatshirts, and dialed Stella.
 
@@ -2161,7 +2161,7 @@ Leo gave a small, resolute nod. They continued this way, with Leo selecting a fr
 
 ### Part 11: Restoring Dignity
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 With the bag of new, warm clothes in hand, Olivia guided Leo to the nearest family restroom. The click of the lock behind them was the sound of another small sanctuary secured.
 
@@ -2209,7 +2209,7 @@ They sat there for a long time, not speaking, just watching the complex, powerfu
 
 ### Part 12: A Song of Homecoming
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 As they sat in the quiet of the empty gate area, a steady stream of generic holiday music drifted from the overhead speakers, part of the airport's ambient soundscape they had been tuning out for hours. Then, a new song began that cut through the background noise. It started with a dramatic, slightly melancholic piano melody, quickly joined by swelling orchestral strings that built a sense of grand anticipation.
 
@@ -2245,7 +2245,7 @@ He used her phone, his fingers moving with a new steadiness, and typed out a ver
 
 ### Part 13: The Storm Before the Calm
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 The quiet of their secluded gate area was a fragile peace. Though Leo had calmed after hearing the song, Olivia could see he was still vibrating with a powerful, unreleased emotion. He was masking, holding himself together with a discipline that she knew was costing him dearly. Their flight was soon. She knew he needed a final, private moment to reset before facing the confinement of the plane.
 
@@ -2297,7 +2297,7 @@ Olivia ended the call. They had weathered the storm. Now, all that was left was 
 
 ### Part 14: Flight 1138
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 The hours passed in a quiet, healing blur. After a second, simple meal and another necessary trip to the family restroom, Olivia saw the time on her phone. It was just after noon.
 
@@ -2337,7 +2337,7 @@ With that, the final piece of the plan was in place. Olivia settled back into he
 
 ### Part 15: A Longing for Simplicity
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 The ascent was smooth, and soon the plane leveled off at cruising altitude. A chime echoed through the cabin, and the captain's voice came over the intercom, announcing that it was now safe to use approved portable electronic devices.
 
@@ -2363,7 +2363,7 @@ He looked out the window at the endless expanse of clouds below, the simple bag 
 
 ### Part 16: A Midway Dash
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 The moment Gateway Flight 1138 docked at the gate in Chicago Midway, a sense of urgent purpose took over. The ground crew was prompt, bringing Leo’s manual wheelchair right to the jet bridge door. With the same practiced efficiency as always, Olivia helped him transfer from the aisle chair back into the familiar comfort of his own.
 
@@ -2389,7 +2389,7 @@ With Olivia pushing his chair, they joined the pre-boarding line, fed, cared for
 
 ### Part 17: The Gate Pass
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 Stella pulled her blue Holt Sentinel into the short-term parking garage at Norfolk International Airport (ORF). The garage was packed, a chaotic prelude to the terminal. Beside her, Luna was practically vibrating with anxiety.
 
@@ -2407,7 +2407,7 @@ Armed with the precious passes, she and Luna made their way through the TSA chec
 
 ### Part 18: Sanctuary
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 ![Leo arriving at Gate A5 at ORF]({{CDN}}/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg#fullwidth)
 
@@ -2455,7 +2455,7 @@ He nodded again. Stella took the handles of his chair, her touch a promise of ab
 
 ### Part 19: Haven City
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 Settled into the back seat of Stella’s familiar blue Holt Sentinel with Luna beside him and Olivia in the front passenger seat, Leo felt the tension finally begin to drain away. As Stella merged onto I-64, making the final stretch towards Virginia Beach, she turned the radio to the familiar Classic Hits station, Rock 107 The Wolf. The iconic, driving opening guitars of The Paper Wall's "Haven City" instantly filled the car. The explosive energy of the track and the soaring chorus—*Take. Me. Home.*—hit Leo with the force of a physical blow, but a fiercely cathartic one. Tears welled again, but these were tears of arrival, of absolute safety achieved. He was home. He instinctively leaned his head against Luna’s shoulder, and her arm came around him instantly, holding him close.
 
@@ -2503,7 +2503,7 @@ Olivia was beside him in an instant, wrapping him in a fierce, loving hug. He cl
 
 ### Part 20: The Contaminated Sanctuary
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 He was clean, he was cared for, and he was surrounded by his fortress of love. As Leo lay on Stella’s bed, a profound weariness settled deep in his bones.
 
@@ -2537,7 +2537,7 @@ Leo was in the middle, a position of ultimate safety. Luna immediately curled up
 
 ### Part 21: Later That Night
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 Later that night, the quiet darkness of the house should have felt comforting, but sleep wouldn't come easily for Leo. His body still felt adrift between time zones, and the lingering fear was a cold, visceral knot in his stomach. He was exhausted but mentally wired, hyper-aware of the profound safety of his current situation: he was nestled on Stella's massive king-sized waterbed, a human fortress surrounding him. Luna was on one side, Olivia on the other, their steady breathing a quiet rhythm in the dark. Stella was a warm, solid presence on the outside edge next to Luna. He was completely and utterly safe. He knew it logically.
 
@@ -2581,7 +2581,7 @@ The first grey, watery light of Thanksgiving morning would eventually filter thr
 
 ### Part 22: I'll Drag You Back
 
-**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+**Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
 The house was deathly quiet. It was the deep, hollow silence of 4:00 AM, a time when the world feels suspended. 
 

@@ -9,7 +9,7 @@ series: "Luna and Leo"
 
 ### Part 1: The Weapon
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 By the time Stella, Luna, Leo, and Olivia had settled into their new normal—a rhythm of college classes, quiet evenings, and the slow, steady healing from the ordeal with Delores—their grandparents, Arthur and Eleanor, had passed away peacefully, leaving the fortress four as the sole inheritors of their quiet wisdom and vast fortune. The house on Daniel Maloney Drive, once a sanctuary built by their grandparents' love, now belonged entirely to them. But with that inheritance came a new, more insidious kind of fear.
 
@@ -45,7 +45,7 @@ Olivia didn't hesitate for a second. She looked from Stella's determined, fearfu
 
 ### Part 2: The Green and Gold
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The gymnasium was a humid maze of vinyl banners, cheap folding tables, and the dull roar of students negotiating their futures. Stella marched at the front of the phalanx, her expression focused. Luna pushed Leo’s manual wheelchair, while Olivia walked flank, scanning the crowd.
 
@@ -227,7 +227,7 @@ They had a target. Now, they just had to finish the semester and pack the car.
 
 ### Part 3: The Shibboleth
 
-**Date:** Sat, Sep 18, 2004 at 7:00 AM EST
+**Date:** 2004-09-18 at 07:00 America/New_York
 
 The Next Morning Braxton State University - The Fine Arts Center *Dean* Sterling’s Office
 
@@ -295,7 +295,7 @@ Dr. Aris walked out, whistling. He had secured a genius for his department, and 
 
 ### Part 4: The Tape
 
-**Date:** Thu, Nov 27, 2003 at 10:00 AM EST
+**Date:** 2003-11-27 at 10:00 America/New_York
 
 November 2005 1091 Daniel Maloney Drive - Living Room
 
@@ -339,7 +339,7 @@ Luna lowered the flute, letting out a long, shaky breath. "I didn't crash on the
 
 ### Part 5: The Verdict
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 Two Days Later Braxton State University - Dean Sterling’s Office
 
@@ -385,7 +385,7 @@ She pulled out a heavy, cream-colored sheet of stationery.
 
 ### Part 6: The Northward Compass
 
-**Date:** Thu, Nov 27, 2003 at 10:00 AM EST
+**Date:** 2003-11-27 at 10:00 America/New_York
 
 November 24, 2005 (Thanksgiving Day) 1091 Daniel Maloney Drive
 
@@ -483,7 +483,7 @@ Outside, the wind rattled the siding of the little house on Daniel Maloney Drive
 
 ### Part 7: The Long Twilight
 
-**Date:** Thu, Nov 27, 2003 at 10:00 AM EST
+**Date:** 2003-11-27 at 10:00 America/New_York
 
 November 24, 2005 (Thanksgiving Night) 1091 Daniel Maloney Drive
 
@@ -535,7 +535,7 @@ Stella looked at them. She saw the fragility in their frames—the way Arthur’
 
 ### Part 1: The Iron Link
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The air in Newport News was damp and cold, a wet chill that settled into the bones. The station itself was small—a brick building at the end of the line, surrounded by a chain-link fence and the hum of idling diesel locomotives.
 
@@ -698,7 +698,7 @@ Leo tapped his Quantum Communicator.
 
 ### Part 2: The Hospitality Standard
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The glass sliding doors hissed shut behind them, sealing out the hum of the station concourse. The transition was instant: the acoustic brightness of the terrazzo tunnel was replaced by the hushed, carpeted silence of the hotel’s lower lobby.
 
@@ -794,7 +794,7 @@ He tapped his screen.
 
 ### Part 3: The Concourse Encounter
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 December 27, 2005 Narraganset Esplanade Station - The Concourse (Level 1) 05:30 PM
 
@@ -890,7 +890,7 @@ They burst into the elevator, hitting the button for the lobby. They had come fo
 
 ### Part 4: The Victory Lap & The Blueprint
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The excitement of the Dean’s business card had finally faded, replaced by the heavy, crushing weight of travel exhaustion. The adrenaline that had powered Leo through the station and the encounter with Dr. Sterling drained away, leaving his nerves raw and exposed.
 
@@ -960,7 +960,7 @@ He didn't need to type. He just closed his eyes and let the darkness take him, h
 
 ### Part 5: The Subterranean City
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The blizzard had arrived in earnest. Beyond the floor-to-ceiling windows of the hotel dining room, the world was erased. The Plaza, the Station, and the Ocean were gone, replaced by a swirling vortex of white. The wind howled against the glass, vibrating the silverware on the tables.
 
@@ -1087,7 +1087,7 @@ The door to the inner office opened. Dean Elise Sterling stepped out. She saw Lu
 
 ### Part 6: The Silver Standard
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The office was spacious, lined with bookshelves filled with orchestral scores. A grand piano sat in the corner. Through the floor-to-ceiling windows, the blizzard was a white curtain, erasing the world outside. Inside, it was dead silent.
 
@@ -1197,7 +1197,7 @@ They had come to see if the city was right. The city had just answered back: *Ye
 
 ### Part 7: The Adrenaline Crash
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The door to the Dean’s office clicked shut behind them.
 
@@ -1313,7 +1313,7 @@ She wasn't just better than them. She was the mercenary they would eventually ha
 
 ### Part 8: The Foundation
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The train hissed to a halt. The doors slid open.
 
@@ -1367,7 +1367,7 @@ They stood there for a moment longer, claiming the land with their eyes—four P
 
 ### Part 9: The Last Train Out
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The walk back from **Lot 4B** had been brutal. The wind had picked up, turning the snowfall into horizontal needles of ice. Leo’s shoulders burned from pushing through the accumulating drifts on the sidewalk, even with Stella and Olivia taking turns helping him gain traction.
 
@@ -1450,7 +1450,7 @@ They headed to the elevators, leaving the storm outside to rage against the wall
 
 ### Part 10: The Pulse of the City
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 Having secured the hotel rooms and eaten lunch, the Fortress was safe. But Leo was restless. He knew the Regional Rail was dead. He knew the buses were buried. But his internal map told him that physics didn't apply 60 feet underground.
 
@@ -1514,7 +1514,7 @@ They ascended back to the surface, leaving the slow, steady heartbeat of the cit
 
 ### Part 11: The Cash Hammer
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The blizzard was howling against the triple-paned glass of the hotel room, but inside, the atmosphere was calm. The fireplace in the lobby (visible through the open door to the suite’s parlor) cast a warm glow.
 
@@ -1594,7 +1594,7 @@ He tapped his Quantum Communicator.
 
 ### Part 12: The Paper Fortress
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The Business Center was a small, glass-walled room off the lobby. It smelled of toner and heated electronics. Outside, the blizzard was a whiteout, but inside, the fax machine was humming.
 
@@ -1674,7 +1674,7 @@ They left the business center, clutching the thermal paper like a treasure map. 
 
 ### Part 13: The Lobster Toast
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The blizzard had intensified. Outside, the wind screamed against the glass, but inside the suite, the heavy curtains were drawn back just enough to watch the snow pile up on the balcony railing.
 
@@ -1716,7 +1716,7 @@ Outside, the city of Braxton was shutting down, buried under two feet of snow. B
 
 ### Part 1: The Orange Army
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The storm had broken in the middle of the night.
 
@@ -1796,7 +1796,7 @@ Leo’s eyes lit up. He grabbed his wheels.
 
 ### Part 2: 
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 location: "Unknown"
 end_time: ""
@@ -1949,7 +1949,7 @@ They turned back toward the hotel, leaving the depths of the Bull Run behind, kn
 
 ### Part 3: The Quiet Harbor
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 December 29, 2005 Narraganset Esplanade Station - Concourse Level 10:45 AM
 
@@ -2003,7 +2003,7 @@ They sat there for a long time, sipping chocolate and watching the lonely Red Li
 
 ### Part 4: The Blue Line Run
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The cabin fever had reached critical mass. The "Orange Army" of snowplows was entertaining, but watching from a window wasn't enough. Leo needed to feel movement.
 
@@ -2096,7 +2096,7 @@ As they boarded the return train to Narraganset Esplanade, Leo looked back at th
 
 ### Part 5: The Restoration
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The **Blue Line** train hissed to a halt at the end of the line.
 
@@ -2166,7 +2166,7 @@ He was tired. But he wasn't scared. For the first time in a long time, he knew e
 
 ### Part 6: The Closing Table
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The conference room of Iron Point Realty smelled of stale coffee and high-stakes tension. Outside, the snow from the blizzard was piled high against the windows, but the roads were clear enough for business.
 
@@ -2293,7 +2293,7 @@ Leo rolled to the window and looked out at the street of Iron Point. It was no l
 
 ### Part 7: The Final Look
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The Recon Mission was over. The Fortress stood on the platform, waiting for the southbound **ARTS Coastal Service** to take them back to Virginia.
 
@@ -2313,7 +2313,7 @@ This time, Arthur didn't walk to the Business Class table. He sank into the firs
 
 ### Part 8: The Iron Record
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The Registry of Deeds was a quiet place that smelled of old paper and dust. Rows of heavy, leather-bound ledgers lined the walls, containing the history of every square inch of land in the county going back to the colonial charter.
 
@@ -2382,7 +2382,7 @@ Leo’s voice came through the background, via his Communicator.
 
 ### Part 9: The Engine Stops
 
-**Date:** Sat, Sep 18, 2004 at 9:00 PM EST
+**Date:** 2004-09-18 at 21:00 America/New_York
 
 The phone on the nightstand in **Room 101** rang. A soft, electronic warble in the quiet darkness of the suite.
 
@@ -2444,7 +2444,7 @@ Leo rolled up to her. He placed his hand on her knee.
 
 ### Part 10: The Quiet Departure
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 Stella took the elevator down to the lobby alone. She was dressed in clean clothes, her hair brushed. She didn't look like a woman in crisis; she looked like a woman with business to conclude.
 
@@ -2510,7 +2510,7 @@ Arthur Bennett had checked out. But he had left them the keys to the kingdom.
 
 ### Part 11: The Vessel
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 They didn't leave on the 30th. They stayed to handle the business of death with the same efficiency Arthur had taught them.
 
@@ -2579,7 +2579,7 @@ They walked out of the studio, carrying their patriarch into the winter sun, rea
 
 ### Part 12: The Final Passenger
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The Fortress stood on the platform, waiting for **ARTS Coastal Service 95**—the southbound train to Newport News.
 
@@ -2682,7 +2682,7 @@ They drove out of the station, the headlights cutting through the Virginia night
 
 ### Part 1: The Transfer of Power
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The conference room was familiar. It was the same room where they had planned the rescue from Delores, and where they had strategized the lawsuit. But today, the mood wasn't frantic; it was final.
 
@@ -2740,7 +2740,7 @@ Leo tapped his Quantum Communicator.
 
 ### Part 2: The War Room
 
-**Date:** Sat, Sep 18, 2004 at 7:00 AM EST
+**Date:** 2004-09-18 at 07:00 America/New_York
 
 The house was quiet. The morning sun slanted through the blinds, illuminating dust motes dancing in the air.
 
@@ -2824,7 +2824,7 @@ Leo watched Stella grab her keys. He looked at the urn on the shelf.
 
 ### Part 3: The Permission Slip
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The courtroom was familiar. It was the same room where Stella had fought for custody years ago. But today, the atmosphere wasn't one of conflict; it was one of graduation.
 
@@ -2854,7 +2854,7 @@ He handed the order to the clerk.
 
 ### Part 4: The Heavy Lift
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The house was a shell. The furniture was gone, loaded onto a massive **Hercules Van Lines** truck the day before.
 
@@ -2977,7 +2977,7 @@ Leo looked at the schedule. He tapped the entry for **04:45 AM**.
 
 ### Part 5: The Final Crossing
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The ride down Warwick Boulevard had been smooth. The **CVTA** bus was warm and nearly empty, save for a few shipyard workers dozing in their uniforms.
 
@@ -3058,7 +3058,7 @@ They walked toward the platform, leaving the hostile asphalt of Virginia behind 
 
 ### Part 6: The ARTS-Box
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 Having survived the dash across Warwick Boulevard, the Fortress stood on the concrete slab of the station grounds.
 
@@ -3136,7 +3136,7 @@ The train pulled out of the station, leaving the ARTS-Box, the humidity, and the
 
 ### Part 1: The Landing
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The silver **ARTS Coastal** train hissed to a halt. The conductor deployed the bridge plate.
 
@@ -3202,7 +3202,7 @@ He wasn't visiting anymore. He lived here.
 
 ### Part 2: The Home Court
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The walk from the Grey Gull to Town Hall was a pleasant quarter-mile stroll under the summer maples. Leo pushed his manual chair, enjoying the smooth, flat sidewalks of his new hometown.
 
@@ -3289,7 +3289,7 @@ He tapped his Scribe.
 
 ### Part 3: The Traffic Report
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 Back at their temporary base camp, the mood was light. The legal hurdles were cleared. They were officially residents.
 
@@ -3331,7 +3331,7 @@ They walked back to **8 Ocean View Lane**, leaving the movers to fight the traff
 
 ### Part 4: The Ghost Layout
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The walk from the Grey Gull took ten minutes. They arrived at the driveway of the Fortress. It stood silent in the summer afternoon, the grey fieldstone foundation grounding it to the earth, the cedar siding smelling of warmth and resin.
 
@@ -3483,7 +3483,7 @@ They locked the door—their door—and walked back to the Inn, leaving the blue
 
 ### Part 5: The Capital Request
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The dining room of the Grey Gull was cozy, lit by candles and the fireplace. The smell of slow-cooked pot roast filled the air. The Fortress sat at a round table, exhausted but satisfied.
 
@@ -3553,7 +3553,7 @@ Leo sat back, satisfied. He had his house, his train, his drums, and his tank.
 
 ### Part 6: The Ghost in the Deed
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The pot roast had been perfect. The evening had been a celebration of the future. But as the adrenaline of the day faded, the shadows in the corners of the Carriage House seemed to lengthen.
 
@@ -3657,7 +3657,7 @@ The room went quiet, save for the sound of four people breathing in sync. The gh
 
 ### Part 7: The Twin Frequency
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The panic attack had passed, but the aftershocks were still vibrating in the room. The air felt heavy.
 
@@ -3747,7 +3747,7 @@ They were safe. They were grounded. And tomorrow, the moving truck would arrive.
 
 ### Part 8: The Wall Test
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The moving truck had finally arrived. The crew from **Hercules Van Lines** was hauling boxes into the house.
 
@@ -3805,7 +3805,7 @@ The wall had passed its first test. It had turned a potential APS investigation 
 
 ### Part 9: The Warning Signs
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The grass was green. The house was finished. The **Holt Sentinel** was parked in the garage next to the new **Titan X-Treme** charging station.
 
@@ -3853,7 +3853,7 @@ Leo looked at the layers of defense.
 
 ### Part 1: The Ticket Kiosk
 
-**Date:** Sat, Sep 18, 2004 at 7:00 AM EST
+**Date:** 2004-09-18 at 07:00 America/New_York
 
 The morning was bright and humid, a typical New England summer day. The Fortress stood before the bank of orange-and-silver **BTA Ticket Vending Machines** in the open-air waiting area.
 
@@ -3929,7 +3929,7 @@ Leo took his card. He looked at the map on the station wall. He traced the orang
 
 ### Part 2: The Commute to Commerce
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 They boarded the train. They tapped their new cards at the platform validator. *BEEP. "Valid."*
 
@@ -3953,7 +3953,7 @@ Leo rolled into the securement bay. He looked out the window as the bus navigate
 
 ### Part 3: The Showroom
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The shop was large, smelling of rubber tires and machine oil. The floor was lined with scooters, hospital beds, and manual chairs.
 
@@ -4038,7 +4038,7 @@ They headed for the bus stop, Leo leading the way in his new chariot, leaving th
 
 ### Part 4: The Blue Planet
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 Leo rolled his new **Titan X-Treme** onto the ramp of the **Route 4** bus. The sensation was completely different from the manual chair. He didn't have to push. He just nudged the joystick, and the heavy machine glided up the incline with a quiet electric hum.
 
@@ -4205,7 +4205,7 @@ Leo watched the boat disappear around the point. He liked that his pass worked o
 
 ### Part 5: The Crossing and the Calm
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The high-speed catamaran backed out of **Aquarium Landing**, its twin diesel engines rumbling deep in the hull.
 
@@ -4320,7 +4320,7 @@ Stella walked out of the room, leaving the ghost of Karen Porter packed away in 
 
 ### Part 6: The Shield
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The house was quiet. The afternoon sun filtered through the garden windows, but the living room was dim and cool.
 
@@ -4396,7 +4396,7 @@ Luna loosened her grip. Olivia helped Leo sit up.
 
 ### Part 7: The Supply Run
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The house was hushed, settled into the deep, rhythmic quiet that always followed a period of sensory overload.
 
@@ -4444,7 +4444,7 @@ For the next hour, the only sounds in the house were the hum of the refrigerator
 
 ### Part 8: The Return of the Fleet
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The "Twin Frequency" had done its work. The static in Leo's brain had cleared, replaced by a heavy, comfortable drowsiness.
 
@@ -4549,7 +4549,7 @@ It was their first meal in the Fortress. They weren't visitors anymore. They wer
 
 ### Part 1: The Official Stamp
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The Department of Motor Vehicles in Oakhaven was a low brick building next to the courthouse. It smelled of floor wax and anxiety.
 
@@ -4606,7 +4606,7 @@ He tapped his **MagnaByte Scribe**.
 
 ### Part 2: The Eastern Townships Connection
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The Department of World Languages occupied the entire second floor of the Humanities Building. It was a maze of flags and maps, buzzing with the sound of a dozen different languages.
 
@@ -4710,7 +4710,7 @@ They walked out of the office, registered for a class Olivia could have taught, 
 
 ### Part 3: The Principal Chair
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The walk from the Humanities Building to the Fine Arts Center took ten minutes. They navigated the "Freshman Herd" and took the elevator up to the **4th Floor**.
 
@@ -4820,7 +4820,7 @@ She looked at Leo.
 
 ### Part 4: The Lock Test
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 They found **Room 304** at the end of the Woodwind Corridor.
 
@@ -4876,7 +4876,7 @@ They propped the door open (since the "visitors" couldn't unlock it) and walked 
 
 ### Part 5: The Master Schedule
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 They regrouped at **The Foundry** (the main dining hall in the Union) to compare notes and finalize the rest of the grid.
 
@@ -4956,7 +4956,7 @@ They packed up and headed for the bookstore, a fully integrated academic unit re
 
 ### Part 6: The Bill
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The line for the Bursar's office was long, filled with stressed students negotiating financial aid or setting up payment plans.
 
@@ -5030,7 +5030,7 @@ Leo grinned. He liked the logic. They paid a fortune for the education, but the 
 
 ### Part 7: The Textbook Run
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The Bursar's office had been quiet, but the Bookstore was a war zone.
 
@@ -5131,7 +5131,7 @@ The train rattled on, carrying the students, the musician, the protector, and th
 
 ### Part 8: The Last Mile Problem
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The **South Shore Line** train hissed to a halt. The doors slid open.
 
@@ -5209,7 +5209,7 @@ Leo looked at his chair. It was a great machine, but it was incomplete. Tomorrow
 
 ### Part 1: The Ferry and the Fortress
 
-**Date:** Sat, Sep 18, 2004 at 7:00 AM EST
+**Date:** 2004-09-18 at 07:00 America/New_York
 
 The morning was perfect—bright, clear, and smelling of the sea. The Fortress stood on the platform, ready for their first cross-border expedition since moving in.
 
@@ -5361,7 +5361,7 @@ They exited the restroom back into the lobby.
 
 ### Part 2: The Gilded Age Tour
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 They caught the **Route 67** bus right outside the Gateway Center. It was a "trolley-replica" bus—wood benches, brass rails, but crucially, a modern wheelchair lift in the back.
 
@@ -5452,7 +5452,7 @@ He preferred this to the mansion. The mansion was cold stone. This was warm food
 
 ### Part 3: The Express Return
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 Lunch was finished. The Colossal Coolers were drained.
 
@@ -5533,7 +5533,7 @@ Leo rolled into the cool, quiet hallway of the house. He was ready. He had his c
 
 ### Part 4: The Calm Before the Herd
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The house was quiet. The excitement of the Newport trip had faded into a comfortable, heavy fatigue.
 
@@ -5607,7 +5607,7 @@ The Fortress was ready. They had the passes. They had the books. They had the sw
 
 ### Part 5: The Clean Break
 
-**Date:** Sat, Sep 18, 2004 at 10:00 AM EST
+**Date:** 2004-09-18 at 10:00 America/New_York
 
 The schedule for tomorrow was set. The bags were packed. Now, it was time for the final prep.
 
@@ -5720,7 +5720,7 @@ Leo rolled up to her. He smelled the wool and the fire.
 
 ### Part 6: The Night Watch
 
-**Date:** Sat, Sep 18, 2004 at 9:00 PM EST
+**Date:** 2004-09-18 at 21:00 America/New_York
 
 Eleanor Bennett sat in her armchair by the bay window, looking out at the dark garden. The lights of the **South Shore Line** train flickered through the trees as it headed toward the station—the 9:30 PM Local.
 
