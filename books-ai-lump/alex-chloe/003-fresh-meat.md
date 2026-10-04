@@ -133,7 +133,9 @@ YES. READY, he typed.
 
 Together, they made their way out of the classroom, a self-contained unit of two. The first day of French class had already shown them the landscape of their new social world: there would be those who were drawn to Chloé's unique background with genuine curiosity, and there would be those who saw her difference as a threat. But as long as they had each other, Alex knew, they would be just fine.
 
-### Part 3: The Infamous Game and Instant Justice
+### Part 3: The DeMarco Decree
+
+**Date:** 1999-09-07 at 11:30 America/New_York
 
 The morning classes of their first day at Northwood High passed in a blur of new teachers, syllabi, and the daunting task of navigating crowded hallways. For Alex Miller and Chloé Mason, the 5th period lunch bell was a welcome reprieve. They found themselves in the vast, echoing cafeteria, a chaotic sea of anxious freshmen and more seasoned upperclassmen.
 
