@@ -1891,6 +1891,8 @@ He used her phone, his fingers moving with a new steadiness, and typed out a ver
 
 ### Part 13: The Storm Before the Calm
 
+**Date:** 2003-11-26 at 09:35 America/Los_Angeles
+
 The quiet of their secluded gate area was a fragile peace. Though Leo had calmed after hearing the song, Olivia could see he was still vibrating with a powerful, unreleased emotion. He was masking, holding himself together with a discipline that she knew was costing him dearly. Their flight was soon. She knew he needed a final, private moment to reset before facing the confinement of the plane.
 
 "Okay," she said softly. "Let's get you freshened up one last time before we have to deal with the tiny airplane bathroom."
