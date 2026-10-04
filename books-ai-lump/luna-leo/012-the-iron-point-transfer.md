@@ -1794,7 +1794,7 @@ Leo’s eyes lit up. He grabbed his wheels.
 
 "Suit up," Stella commanded. "Light jackets only. It's seventy degrees underground."
 
-### Part 2: Part 2
+### Part 2: 
 
 **Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
