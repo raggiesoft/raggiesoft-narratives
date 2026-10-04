@@ -59,8 +59,75 @@ Luna snickered. "Totally. I'm never, ever getting on her bad side."
 
 She glanced across the cafeteria to another table where a boy in a wheelchair and his friends were sitting. They looked just as relieved as everyone else. The first day of freshman year, and they had already witnessed a legend in action. Northwood High was going to be an adventure, and clearly, the cafeteria was its most unpredictable and educational stage.
 
+### Part 2: Cafeteria Justice, Multilingual Edition
 
-It was a quiet Saturday evening, a few weeks after they'd moved in and registered for school. The initial chaos had subsided into a tentative routine. The twins were sitting together on the living room floor, perhaps looking through school books or simply enjoying the quiet. Stella, feeling a rare moment of relaxation and perhaps a touch of nostalgia, decided it was time for something different.
+**Date:** 1999-09-21 at 11:30 America/New_York
+
+The Northwood High cafeteria during 5th period lunch was, as usual, a symphony of controlled chaos. Trays clattered, sneakers squeaked on linoleum, and hundreds of teenage conversations blended into a dull roar that pulsed beneath the flickering fluorescent lights.
+
+Luna Porter sat at a table with her twin brother, Leo, animatedly describing a particularly disastrous attempt by their new band director to teach the woodwinds a complex jazz riff. Leo listened with a small, amused smile, his sleek Quantum Communicator XT resting beside his tray of lukewarm pizza. 
+
+Across the vast, echoing room, at another table amidst the freshman throng, sat a pair they recognized from the hallways: a fierce-looking girl and another quiet boy in a wheelchair who also used an AAC device. Luna hadn't spoken to them yet, but she always noticed them.
+
+Suddenly, a loud disruption cut through the ambient noise. Josh Riley, the bane of the freshman class, was loitering near their table, clearly trying to instigate something.
+
+Then, an incredible sound erupted. The girl at the nearby table – Chloe Mason, Luna recalled hearing – was suddenly on her feet. Her voice was sharp and surprisingly fierce, unleashing a torrent of what sounded like… French? But a fiery, rapid-fire French Luna had never heard in her school classes.
+
+"TABAROUETTE, RILEY!" Chloe spat, continuing with a string of passionate, clearly insulting words.
+
+"Whoa," Luna breathed to Leo, completely forgetting her band story. "What language is that? She’s furious!"
+
+Leo typed quickly: FRENCH. I THINK.
+
+Josh Riley looked utterly dumbfounded. "B-but I... I didn't even know what she was yelling!" he stammered to his friends. "It was just crazy foreign stuff!"
+
+Just as Luna was thinking, *Well, so much for Mrs. DeMarco knowing every language*, a new voice cut through the air, cool and precise.
+
+"Mademoiselle Mason."
+
+It was Mrs. DeMarco. And she was speaking French. But not the fiery, earthy French Chloe had used. This was… different. Perfect. Like something from a movie set in Paris.
+
+Luna’s jaw physically dropped. She stared at Leo, who looked equally stunned. *No… way.* The upperclassmen… they hadn’t been exaggerating?
+
+Mrs. DeMarco addressed Chloe in flawless Parisian French, gently but firmly admonishing her language while acknowledging her indignation. Chloe, looking both chagrined and deeply respectful, replied in more formal French.
+
+Leo typed, his own usual wit momentarily deserting him: SHE... SHE REALLY SPEAKS FRENCH. TWO KINDS.
+
+Then, Mrs. DeMarco turned her icy gaze on Josh Riley, switching to perfect English. As she began to catalogue his offenses, Luna leaned closer to Leo, whispering, "Okay, I officially believe everything those seniors said. This is terrifying. And amazing."
+
+But the linguistic acrobatics weren't over. Just as Josh was wilting, some other sophomore idiot, Kevin Schmidt, muttered a snide comment in truly terrible German. 
+
+Mrs. DeMarco’s head snapped towards him with the speed and precision of a striking hawk. "Entschuldigung?" she inquired, her voice devoid of any warmth. She then proceeded to verbally dismantle him in crisp, utterly fluent German.
+
+Luna felt a shiver go down her spine. "German too?" she whispered to Leo. "Is there any language she doesn't know?"
+
+Leo typed, a new level of profound awe in his synthesized voice: MRS. DEMARCO IS NOT A CAFETERIA LADY. SHE IS A LINGUISTIC SUPERWEAPON. AND WE ARE ALL POTENTIAL TARGETS. NOTE TO SELF: DO NOT ATTEMPT SARCASM IN SWAHILI.
+
+The sentencing of both Josh and Kevin to a week of trash duty felt almost anticlimactic after the linguistic fireworks. But then, Mrs. DeMarco did something that made Luna’s respect for her solidify into something akin to hero-worship. She turned back to Chloe Mason and the boy in the wheelchair, Alex Miller, and spoke to Chloe softly, again in that beautiful Parisian French, "Tout va bien maintenant, mes enfants?" *(Is everything alright now, my children?)*
+
+Chloe replied, her gratitude evident. Alex Miller then used his own AAC device, and its synthesized English voice filled the small pocket of quiet: THANK YOU, MRS. DEMARCO. YOU ARE… AMAZING. TRULY. CHLOE IS A VERY GOOD FRIEND.
+
+Mrs. DeMarco actually smiled at him, a tiny, genuine smile. And then, she addressed the entire cafeteria, asking if anyone else wanted trash duty. The silence was absolute.
+
+Luna let out a breath she hadn’t realized she was holding. "Okay," she whispered to Leo, who was using his Quantum Communicator XT with a grin. "Mrs. DeMarco is officially my new hero. Did you see that? French and German? Josh and Kevin looked like they were going to wet their pants!"
+
+Leo typed, his own amusement evident: SHE IS VERY… EFFECTIVE. AND CHLOE MASON… VERY BRAVE. LIKE YOU, LU. GOOD TO SEE BULLIES GET WHAT THEY DESERVE. THE TRASH DUTY PART IS FUNNY. HOPE THEY HAVE TO SORT RECYCLING.
+
+Luna snickered. "Totally. Maybe Mrs. DeMarco will make them do it in French."
+
+She watched Chloe Mason and Alex Miller, who were now actually starting to eat their lunch, a visible sense of safety settled around them. That Chloe girl had been fierce. And Alex, with his quiet presence and his own talker, seemed… interesting. Like Leo, but different.
+
+"You know, Leo," Luna said thoughtfully, "that Chloe Mason… she's alright. Really alright."
+
+Leo Porter nodded, a thoughtful expression on his face as he observed the other pair. YES. SHE IS.
+
+## The Record Player Discovery
+
+### Part 1: The Record Player Discovery
+
+**Date:** 1999-09-25 at 15:00 America/New_York
+
+It was a quiet Saturday evening, a few weeks into the school year. The initial chaos had subsided into a tentative routine. The twins were sitting together on the living room floor, perhaps looking through school books or simply enjoying the quiet. Stella, feeling a rare moment of relaxation and perhaps a touch of nostalgia, decided it was time for something different.
 
 She went to the back of a closet and pulled out some equipment Luna and Leo had never seen before: a sleek turntable and a boxy amplifier, components she'd held onto from her own high school days but hadn't set up yet in the new house. She also retrieved a cardboard box filled with vinyl LPs. Intrigued by the unfamiliar objects, the twins watched as Stella carefully found a spot for the turntable and amplifier on a side table near the main entertainment center, connecting them to the existing stereo receiver and speakers. What *was* all that stuff?
 
@@ -80,8 +147,13 @@ She then opened the cardboard box she'd retrieved earlier. "This is vinyl," she 
 
 Luna and Leo were completely captivated. Leo leaned forward in his chair, tracing the grooves on the POLARIS record with his finger (careful not to touch the playing surface after a gentle caution from Stella). Luna asked questions, sometimes verbally, sometimes through her device, about how the needle stayed in the groove and why the records were so big. They examined the album covers, so different from the small CD booklets they were used to. For the rest of the evening, the mystery machine held their full attention, a fascinating window into their sister's past and a whole different way of experiencing music. That night, exploring Stella's collection, sparked something new in them. It was the beginning of a shared, lifelong love for the sounds and stories of classic rock, forever linked to this memory of discovery and connection in Stella's living room.
 
+## The Music Store
 
-Inspired by the twins' burgeoning interest in music, sparked by the record player discovery, Stella decided to explore it further before the summer school session began. One Saturday afternoon, she took them to a local music store, the kind filled with the gleam of brass, the smell of wood polish, and the potential for noise.
+### Part 1: The Music Store
+
+**Date:** 1999-09-27 at 15:00 America/New_York
+
+Inspired by the twins' burgeoning interest in music, sparked by the record player discovery, Stella decided to explore it further as the fall semester gained momentum. One Saturday afternoon, she took them to a local music store, the kind filled with the gleam of brass, the smell of wood polish, and the potential for noise.
 
 "Just looking around," Stella announced as they entered, letting the twins absorb the atmosphere. Luna, naturally drawn to the wind instruments, gravitated towards the saxophones. A store employee kindly let her hold a gleaming tenor sax. Though heavy, the moment she figured out how to hold it and managed to produce a tentative, breathy note through the mouthpiece (without the reed properly set, of course), her eyes lit up with an intensity Stella hadn't seen before. "This one," Luna declared quietly but firmly. "I want to learn this one."
 
@@ -99,8 +171,13 @@ They left the store not just with newfound musical ambitions, but with instrumen
 
 (The connection to Mr. Thompson being the band director and inviting them to join would likely happen after a few lessons, as established previously)
 
+## The Doorbell Rings
 
-Just because Luna and Leo were safely settled in Stella's house didn't mean the challenges were over. The peace was shattered a few weeks after the move when the doorbell rang insistently. Peeking through the peephole, Stella's heart sank – it was her parents. She had explicitly told them they were not welcome after the forced extraction. Remembering the lawyer's advice to avoid confrontation if possible, Stella held firm and simply did not answer the door. She quietly instructed the twins, who had tensed up at the sound of the bell, to do the same and stay away from the windows. Her parents eventually yelled a few things through the door about wanting to see *their* children and how Stella didn't know what she was doing, before finally leaving.
+### Part 1: The Doorbell Rings
+
+**Date:** 1999-09-29 at 15:00 America/New_York
+
+Just because Luna and Leo were safely settled in Stella's house didn't mean the challenges were over. The peace was shattered a few weeks into October when the doorbell rang insistently. Peeking through the peephole, Stella's heart sank – it was her parents. She had explicitly told them they were not welcome after the forced extraction. Remembering the lawyer's advice to avoid confrontation if possible, Stella held firm and simply did not answer the door. She quietly instructed the twins, who had tensed up at the sound of the bell, to do the same and stay away from the windows. Her parents eventually yelled a few things through the door about wanting to see *their* children and how Stella didn't know what she was doing, before finally leaving.
 
 This happened several more times over the following weeks – unannounced appearances, demands shouted through the door, sometimes lingering on the porch or even peering into windows. Each incident was stressful, upsetting the twins and reinforcing Stella's need to protect their newfound stability. Recognizing this harassment couldn't continue, Stella, again with her lawyer's help (and funded by the grandparents' trust), went back to court to obtain a Temporary Protective Order (TPO). It felt like another battle, another layer of formality separating her from the people who should have been family, but it was necessary for peace and stability.
 
@@ -112,12 +189,27 @@ Eventually, understanding the finality of the situation and wanting to ensure lo
 
 With the toxic influence of her parents legally removed, Stella turned her attention to another fractured family connection. Her maternal grandparents, **Arthur and Eleanor Bennett**, who had provided the crucial, discreet financial support via the trust fund, had been largely cut off from seeing the children years ago due to their daughter's (the twins' mother's) resentment or control. Now, as legal guardian, Stella reached out to them. She explained the situation, the court orders, and her desire for Luna and Leo to have positive, supportive family members in their lives. As a gesture of gratitude for their unwavering, albeit hidden, support, Stella worked with her lawyer to formally facilitate the restoration of **Arthur and Eleanor’s** grandparental visitation rights, ensuring everything was legally sound and respected the twins' comfort levels. The reconnection was tentative at first, but filled with quiet joy. **Arthur and Eleanor**, relieved and grateful, became regular fixtures at the periphery of the twins' lives. They attended every home football game, sitting proudly in the stands, their eyes fixed on Luna and Leo during the halftime show. They drove hours to attend marching band competitions, cheering enthusiastically from the audience. They respected Stella's role as guardian implicitly, offering quiet advice and gentle guidance based on their own life experience when Stella sought it, but always careful never to overstep her authority as the twins' primary decision-maker. Understanding the immense responsibility Stella carried, they readily agreed when Stella asked them to serve as official backup contacts. Stella formally listed them as alternate emergency contacts with Northwood High and completed the necessary paperwork authorizing them to make emergency medical decisions for Luna and Leo should she ever be unreachable. This provided Stella with a vital safety net, knowing there were other trusted adults legally empowered to act in the twins' best interest if needed. **Arthur and Eleanor** were simply happy to witness their grandchildren thriving in the safe, nurturing environment Stella had created, an environment their own financial foresight had helped make possible. It was a quiet mending, a rebuilding of family ties on a healthier foundation.
 
+## Legal Issues Settled
+
+### Part 1: Legal Issues Settled
+
+**Date:** 1999-10-01 at 15:00 America/New_York
 
 With the legal and safety issues settled, Stella focused again on ensuring the twins had the best tools for communication beyond the basic typing they'd mastered. She arranged for updated assessments with speech and occupational therapists now that she was their guardian. Based on recommendations, she learned about and navigated the process of acquiring modern (for the late 90s/early 2000s) Augmentative and Alternative Communication (AAC) devices – perhaps dedicated units with synthesized speech or dynamic symbol displays. These were crucial for their success at school and interacting outside the home, offering capabilities like voice output that the MagnaByte Opus lacked. The twins began the process of learning these new systems, mastering new interfaces and vocabulary sets. While these devices opened new doors, Stella likely noticed that their fluency and comfort weren't quite the same as when they used the MagnaByte Opus for pure text composition. The muscle memory and emotional connection to their original digital voice remained strong.
 
+## Programming the AAC
+
+### Part 1: Programming the AAC
+
+**Date:** 1999-10-03 at 15:00 America/New_York
 
 Perhaps it was watching them painstakingly program a phrase into their new AAC device that Luna could have typed in seconds on MagnaSuite. Or maybe Leo, trying to explain a complex idea, gestured towards the corner of their shared workspace in the living room, mimicking typing on an invisible keyboard, his AAC device momentarily feeling inadequate for the speed of his thoughts. It might have been Luna explicitly saying, "Remember how easy it was on the MagnaByte?" during a moment of frustration with a newer technology. These small moments, these echoes of their past, resonated with Stella. She saw that the MagnaByte Opus wasn't just a memory; it represented a time of peak competence and comfort for them. The seed planted by their history began to sprout into a concrete idea in Stella's mind, now potentially feasible thanks to her steady job.
 
+## Weight of Academic Neglect
+
+### Part 1: Weight of Academic Neglect
+
+**Date:** 1999-10-05 at 15:00 America/New_York
 
 Starting high school, Luna and Leo carried the weight of years of academic neglect. Despite Stella's diligent work setting up IEPs and arranging accommodations like shared lockers, early dismissal, and quiet library time, the initial months were challenging. There were significant gaps in their foundational knowledge, and the pace of high school work was demanding. Simply being in a supportive environment wasn't an instant fix; catching up required immense effort from everyone.  
 
@@ -127,6 +219,11 @@ Most importantly, Luna and Leo tackled the challenge together. Motivated by the 
 
 Slowly at first, then with gathering momentum, they began to bridge the gaps. Confusion gave way to comprehension, and missed concepts clicked into place. By the end of their freshman year, the transformation was remarkable. Luna and Leo weren't just "caught up"; they were excelling. Their grades placed them near the top of their classes. Teachers who had initially worried about their significant disadvantages now praised their diligence, insight, and rapid progress. Having been starved of educational opportunity for so long, they thrived when finally given the chance, proving that they hadn't just been left behind – they had been held back. Now, academically, they were soaring far ahead of where anyone, except perhaps Stella, had thought possible just one year earlier
 
+## Opus Computers Setup
+
+### Part 1: Opus Computers Setup
+
+**Date:** 1999-10-07 at 15:00 America/New_York
 
 One afternoon, sometime after the MagnaByte Opus machines had become the established homework hub, another vinyl exploration session was underway. Luna and Leo were taking turns choosing albums, their confidence growing with each successful placement of the needle. Stella watched, enjoying their shared enthusiasm. Leo, browsing through the box, pulled out an album with a bizarrely elaborate cover designed exactly like a folded, multi-page local newspaper: *The The Dunmoor Gazette*. It was Greensleeve's *Dense as a Stone*.
 
@@ -154,6 +251,11 @@ Stella considered it. It was unconventional, certainly, but incredibly fitting g
 
 As it turned out, their English teacher loved the idea, praising their initiative and unique approach. The Greensleeve album cover didn't just provide another musical discovery; it became an unexpected bridge to a new level of literacy and academic confidence for Luna and Leo.
 
+## Rainy Tuesday Evening
+
+### Part 1: Rainy Tuesday Evening
+
+**Date:** 1999-10-09 at 15:00 America/New_York
 
 It was a Tuesday evening in late 1999. Rain pattered against the Quantum OS of their Virginia Beach home. Inside, the air was thick with the quiet tension of homework frustration. Luna and Leo were huddled around the family's beige tower PC set up on its desk in the living room, its monitor displaying the busy interface of Quantum WritePad 97 running on Quantum OS 98. They were supposed to be typing up a short report on the Jamestown settlement for their history class.
 
@@ -175,6 +277,11 @@ Leo nodded vigorously, pointing towards Luna and then tapping his chest emphatic
 
 They managed to finish the report eventually, with Stella patiently guiding them through Word's quirks, but the relief on their faces when they finally closed the program was palpable. The frustration of the process lingered, solidifying Stella's quiet resolve to find a better way for them – a way that felt right, both on screen and under their fingertips. *Maybe just finding a different keyboard could help in the meantime,* she mused silently as she cleared the dinner plates later that evening. *Something with proper springs, that satisfying click they remembered. Weren't those old COMPUBLUE keyboards, the KeyMech things, still around somewhere? They used the standard connector, didn't they? Perhaps that could ease the typing part while she started the much harder search for the complete MagnaByte Opus systems she now knew they truly needed.*
 
+## COMPUBLUE KeyMech
+
+### Part 1: COMPUBLUE KeyMech
+
+**Date:** 1999-10-11 at 15:00 America/New_York
 
 Finding a COMPUBLUE KeyMech keyboard, as Stella had considered, provided some tangible relief for homework sessions involving the family PC. The twins appreciated the familiar, clicky feel under their fingertips, a definite improvement over the PC's standard membrane keyboard. Typing itself became less of a sensory frustration. However, this interim fix only highlighted the remaining, larger problem: navigating the confusing Quantum OS 98 operating system and the complex menus of Quantum Suite 97 was still a significant hurdle compared to the intuitive simplicity they remembered. Stella saw that while the keyboard helped, the core need for a completely familiar *environment* – the one tied intrinsically to their autistic need for predictability and their first positive computing experiences – remained unmet.
 
@@ -218,6 +325,11 @@ Stella was determined to keep these three vintage machines – the two computers
 
 Despite Stella's unwavering dedication to her siblings' well-being, the parents found out through the grapevine about her purchase of the vintage MagnaByte Opus computers. They tried to use this information as an excuse to claim that Stella did not care about the twins' well-being, arguing that she was more interested in outdated technology than their needs. However, this couldn't be further from the truth. The vintage MagnaByte machines were the reason why Luna and Leo were starting to thrive academically. The familiar interface and tactile feedback of the MagnaByte Opus allowed them to focus and excel in their schoolwork, proving Stella's deep understanding of their unique needs. The twins' academic progress was a testament to Stella's thoughtful and informed decision, highlighting the stark contrast between her genuine care and the parents' misguided accusations. Stella was prepared to go right back to her lawyer and get the restraining order enforced if she had to.
 
+## Oregon Trail Preparation
+
+### Part 1: Oregon Trail Preparation
+
+**Date:** 1999-10-13 at 15:00 America/New_York
 
 A few weeks later, it was time for the Oregon Trail report research. True to her word, Stella planned to use Quantum Multimedia Encyclopedia 99 on the Quantum OS 98 machine for the information gathering. Remembering their previous struggles, she initially intended to operate the PC for them, but Luna spoke up.
 
@@ -251,6 +363,11 @@ Luna wiped her eyes, watching Stella. Leo slumped back, observing silently. A qu
 
 From that moment on, it was an unspoken rule. The twins would not operate the Quantum OS 98 machine. They would direct, they would watch, they would absorb the information Stella accessed for them, but they would not touch the keyboard or mouse themselves. Their interaction with the digital world at home would happen through Stella's hands on the PC, or through their own hands on the comforting, predictable keys and single-button mice of their MagnaByte Opus machines. Stella readily accepted this, understanding it wasn't defiance, but a necessary boundary for their well-being and focus. Her mission to keep the MagnaBytes running became even more paramount.
 
+## Saturday Morning Research
+
+### Part 1: Saturday Morning Research
+
+**Date:** 1999-10-15 at 15:00 America/New_York
 
 The following Saturday morning was designated research time. The assignment: a report on the realities of the Oregon Trail journey. Stella gathered Luna and Leo around the Quantum OS 98 PC, which sat on the large desk flanked by the two MagnaByte Opus setups. The clicky COMPUBLUE KeyMech keyboard sat before the family PC. Stella took her place operating the machine, while the twins positioned themselves to easily see the screen and access their own keyboards if needed, understanding the established routine after their last frustrating attempt.
 
@@ -316,6 +433,11 @@ The quiet hum of the room was suddenly shattered by the loud, buzzing screech of
 
 "Okay, Leo," Stella said, reaching over and pressing Leo's button on the switch box. The 'Luna' button popped out, its light extinguished, and the 'Leo' light illuminated. Leo initiated the print command from his machine, and the noisy printing process began again. Soon, both twins held their neatly printed 10th-grade history reports, ready for school, tangible results produced comfortably within their familiar digital haven.
 
+## Printing the Reports
+
+### Part 1: Printing the Reports
+
+**Date:** 1999-10-17 at 15:00 America/New_York
 
 With the history reports printed and the satisfyingly noisy work of the GraphiPrint II complete, a sense of accomplishment settled over the twins. Stella, seeing their relief and focus turn back outward, decided a reward was in order.
 
@@ -345,6 +467,11 @@ Her movements were practiced and fluid. She lifted the tonearm with the cueing l
 
 Luna and Leo looked impressed by the precision. The music was different from the rock they'd chosen – smooth, soulful, with intricate harmonies and an infectious rhythm. They quickly got into it, tapping their feet and nodding along. It was another dimension of the musical world Stella was opening up for them, all contained within those fascinating spinning discs. Sharing these moments, the music, and the simple ritual of playing records became another cherished routine in their life with Stella.
 
+## Therapy Appointment Drive
+
+### Part 1: Therapy Appointment Drive
+
+**Date:** 1999-10-19 at 15:00 America/New_York
 
 The next day, Stella was driving the twins to a weekend therapy appointment. As usual, the car radio was tuned to Q101 Lite Hits. After a few minutes, based on requests from Luna and Leo who were eager for more classic rock after their experience with Stella's records, Stella switched the station.
 
@@ -362,6 +489,11 @@ Stella glanced over, momentarily stumped. She hadn't really thought about radio 
 
 Luna and Leo nodded, understanding the explanation, though maybe feeling a tiny bit disappointed that the radio didn't always play the "real" thing. As she finished explaining, Stella suddenly chuckled, thinking of another album in her collection. "Actually," she added, catching their eye in the rearview mirror, "you think 'Dense as a Stone' is long? There's this song called 'In-A-Gadda-Da-Vida' by Steel Moth that takes up almost a whole side of a record by itself – like seventeen minutes! Trust me, you'll *never* hear that whole thing on the radio."
 
+## Classic Rock Discoveries
+
+### Part 1: Classic Rock Discoveries
+
+**Date:** 1999-10-21 at 15:00 America/New_York
 
 Back in the apartment later that day, the energy from the classic rock discoveries in the car still lingered. Luna and Leo seemed magnetically drawn to the turntable and Stella's box of records. Seeing their continued interest, Leo used his device to type, *"More music?"* while Luna looked hopefully at Stella.  
 
@@ -373,6 +505,11 @@ She flipped the record over to Side B and pointed towards the outer edge of the 
 
 After a brief moment of silence, the gentle, instantly recognizable keyboard intro and mellow beat of "Wherever You Go" began to play. Stella leaned back, a nostalgic expression on her face, lost in the memory associated with her first album purchase. Luna and Leo listened intently, watching the needle track the grooves, absorbing both the music and the new technique Stella had just shown them. It was another piece of the vinyl puzzle clicking into place, connecting them further to the music and to Stella's own history.
 
+## Wherever You Go
+
+### Part 1: Wherever You Go
+
+**Date:** 1999-10-23 at 15:00 America/New_York
 
 The final notes of "Wherever You Go" faded. Luna and Leo were clearly impressed and, through words and Leo's device, asked for more Origin.  
 
@@ -382,6 +519,11 @@ Seeing their sustained interest, Stella returned to the record player and put on
 
 This song, "Only Work to Do," became their instant favorite. It was the moment Origin transformed from a band they were curious about into *their* favorite band. Stella recognized this shift and, over the following weeks, made sure to play other key albums like "Noble" and "Sequence" for them, further cementing their new musical passion.
 
+## Friday Night Lights
+
+### Part 1: Friday Night Lights
+
+**Date:** 1999-10-25 at 15:00 America/New_York
 
 The roar of the home crowd surged as the Northwood High football team jogged off the field for halftime. Under the bright Friday night lights, the Soaring Eagle Marching Band took their positions, the familiar energy buzzing around them. Luna settled into her chair beside Leo in the Pit, exchanging a quick, reassuring nod with her brother. Stella stood watchful on the sideline nearby, close enough to observe but out of the performance space.
 
@@ -436,68 +578,6 @@ Stella looked up, managing a small, appreciative smile. "We're okay, Mr. T. Just
 Mr. Thompson looked at Leo kindly. "Rough moment out there, huh, Leo? Don't you worry about those notes one bit. Happens to the best of us under pressure. The important thing is you're alright." Leo looked at his director and gave another small nod, seeming to appreciate the direct reassurance.
 
 Mr. Thompson then placed the saxophone case gently on the bench beside Luna. "Figured you'd be wanting this back, Luna. Handled beautifully." Luna's eyes immediately fixed on the case, relief washing over her face, visibly relaxing her posture. That saxophone – *her* saxophone, the first truly significant thing that felt like it belonged just to her, bought by Stella – was safe. She reached out almost reverently, her fingers tracing the outline of the case. "Thank you, Mr. Thompson," she whispered, the words thick with emotion. Having it back, knowing it was cared for even amidst the emergency, felt like regaining a crucial piece of herself. Mr. Thompson smiled warmly, understanding the instrument's importance went beyond just the music. "Alright," he said, glancing between them. "Take all the time you need here. No rush to get back outside unless you feel up to it. Officer Whitehead and I will make sure you're undisturbed. Just let us know if you need anything at all." With another reassuring nod, he stepped back to confer quietly with Officer Whitehead near the hallway entrance, giving the family space while ensuring they weren't alone.
-
-### Part 2: Cafeteria Justice, Multilingual Edition
-
-**Date:** 1999-09-21 at 11:30 America/New_York
-
-The Northwood High cafeteria during 5th period lunch was, as usual, a symphony of controlled chaos. Trays clattered, sneakers squeaked on linoleum, and hundreds of teenage conversations blended into a dull roar that pulsed beneath the flickering fluorescent lights.
-
-Luna Porter sat at a table with her twin brother, Leo, animatedly describing a particularly disastrous attempt by their new band director to teach the woodwinds a complex jazz riff. Leo listened with a small, amused smile, his sleek Quantum Communicator XT resting beside his tray of lukewarm pizza. 
-
-Across the vast, echoing room, at another table amidst the freshman throng, sat a pair they recognized from the hallways: a fierce-looking girl and another quiet boy in a wheelchair who also used an AAC device. Luna hadn't spoken to them yet, but she always noticed them.
-
-Suddenly, a loud disruption cut through the ambient noise. Josh Riley, the bane of the freshman class, was loitering near their table, clearly trying to instigate something.
-
-Then, an incredible sound erupted. The girl at the nearby table – Chloe Mason, Luna recalled hearing – was suddenly on her feet. Her voice was sharp and surprisingly fierce, unleashing a torrent of what sounded like… French? But a fiery, rapid-fire French Luna had never heard in her school classes.
-
-"TABAROUETTE, RILEY!" Chloe spat, continuing with a string of passionate, clearly insulting words.
-
-"Whoa," Luna breathed to Leo, completely forgetting her band story. "What language is that? She’s furious!"
-
-Leo typed quickly: FRENCH. I THINK.
-
-Josh Riley looked utterly dumbfounded. "B-but I... I didn't even know what she was yelling!" he stammered to his friends. "It was just crazy foreign stuff!"
-
-Just as Luna was thinking, *Well, so much for Mrs. DeMarco knowing every language*, a new voice cut through the air, cool and precise.
-
-"Mademoiselle Mason."
-
-It was Mrs. DeMarco. And she was speaking French. But not the fiery, earthy French Chloe had used. This was… different. Perfect. Like something from a movie set in Paris.
-
-Luna’s jaw physically dropped. She stared at Leo, who looked equally stunned. *No… way.* The upperclassmen… they hadn’t been exaggerating?
-
-Mrs. DeMarco addressed Chloe in flawless Parisian French, gently but firmly admonishing her language while acknowledging her indignation. Chloe, looking both chagrined and deeply respectful, replied in more formal French.
-
-Leo typed, his own usual wit momentarily deserting him: SHE... SHE REALLY SPEAKS FRENCH. TWO KINDS.
-
-Then, Mrs. DeMarco turned her icy gaze on Josh Riley, switching to perfect English. As she began to catalogue his offenses, Luna leaned closer to Leo, whispering, "Okay, I officially believe everything those seniors said. This is terrifying. And amazing."
-
-But the linguistic acrobatics weren't over. Just as Josh was wilting, some other sophomore idiot, Kevin Schmidt, muttered a snide comment in truly terrible German. 
-
-Mrs. DeMarco’s head snapped towards him with the speed and precision of a striking hawk. "Entschuldigung?" she inquired, her voice devoid of any warmth. She then proceeded to verbally dismantle him in crisp, utterly fluent German.
-
-Luna felt a shiver go down her spine. "German too?" she whispered to Leo. "Is there any language she doesn't know?"
-
-Leo typed, a new level of profound awe in his synthesized voice: MRS. DEMARCO IS NOT A CAFETERIA LADY. SHE IS A LINGUISTIC SUPERWEAPON. AND WE ARE ALL POTENTIAL TARGETS. NOTE TO SELF: DO NOT ATTEMPT SARCASM IN SWAHILI.
-
-The sentencing of both Josh and Kevin to a week of trash duty felt almost anticlimactic after the linguistic fireworks. But then, Mrs. DeMarco did something that made Luna’s respect for her solidify into something akin to hero-worship. She turned back to Chloe Mason and the boy in the wheelchair, Alex Miller, and spoke to Chloe softly, again in that beautiful Parisian French, "Tout va bien maintenant, mes enfants?" *(Is everything alright now, my children?)*
-
-Chloe replied, her gratitude evident. Alex Miller then used his own AAC device, and its synthesized English voice filled the small pocket of quiet: THANK YOU, MRS. DEMARCO. YOU ARE… AMAZING. TRULY. CHLOE IS A VERY GOOD FRIEND.
-
-Mrs. DeMarco actually smiled at him, a tiny, genuine smile. And then, she addressed the entire cafeteria, asking if anyone else wanted trash duty. The silence was absolute.
-
-Luna let out a breath she hadn’t realized she was holding. "Okay," she whispered to Leo, who was using his Quantum Communicator XT with a grin. "Mrs. DeMarco is officially my new hero. Did you see that? French and German? Josh and Kevin looked like they were going to wet their pants!"
-
-Leo typed, his own amusement evident: SHE IS VERY… EFFECTIVE. AND CHLOE MASON… VERY BRAVE. LIKE YOU, LU. GOOD TO SEE BULLIES GET WHAT THEY DESERVE. THE TRASH DUTY PART IS FUNNY. HOPE THEY HAVE TO SORT RECYCLING.
-
-Luna snickered. "Totally. Maybe Mrs. DeMarco will make them do it in French."
-
-She watched Chloe Mason and Alex Miller, who were now actually starting to eat their lunch, a visible sense of safety settled around them. That Chloe girl had been fierce. And Alex, with his quiet presence and his own talker, seemed… interesting. Like Leo, but different.
-
-"You know, Leo," Luna said thoughtfully, "that Chloe Mason… she's alright. Really alright."
-
-Leo Porter nodded, a thoughtful expression on his face as he observed the other pair. YES. SHE IS.
 
 ## Competition Road Trip
 
