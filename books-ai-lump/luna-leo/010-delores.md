@@ -1329,6 +1329,8 @@ The two sisters, united in their shared fury and disappointment, made a grim pac
 
 ### Part 3: The TTY Lifeline
 
+**Date:** 2003-11-26 at 05:47 America/Los_Angeles
+
 Meanwhile, at Sea-Tac Airport, Leo managed to find the signs for payphones near the restrooms. His heart sank slightly. Without his AAC device, how could he even call? He found a bank of phones. Relief warred with confusion as he saw the blue TTY symbol—a stylized phone with a keyboard—on one of the enclosures.
 
 *TTY?* The symbol triggered a memory, hazy through the fog of exhaustion and fear, but distinct: Stella, kneeling beside his chair that awful Tuesday morning. Her urgent voice explaining emergency options. *"...if your AAC is broken... another special kind of phone sometimes found near payphones, especially in airports... called a TTY... use the TTY keyboard to type to the operator..."* Could this be what she meant?
