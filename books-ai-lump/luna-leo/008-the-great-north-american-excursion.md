@@ -1049,7 +1049,7 @@ When the meal was over, the waiter brought the check. Stella simply signed her n
 
 It was another small luxury, another detail that made their trip feel like a true vacation. With full stomachs and happy hearts, they headed back up to their room, ready to rest and prepare for their final day in the nation's capital.
 
-## The Shattering
+## The Journey West
 
 ### Part 1: The Journey Continues
 
@@ -1237,7 +1237,7 @@ The part that hurt Stella the most was the confirmation that she was truly power
 
 She quietly closed the laptop, the last of her desperate hope extinguished. She looked over at Leo, who was sitting quietly, his hand in Olivia's. The only promise she could keep was the one she had already made. The telephone would have to be enough.
 
-## Chapter 7
+## The Steel City
 
 ### Part 1: The Colors of the Steel City
 
@@ -1358,7 +1358,7 @@ Because the door opened into the public corridor, it had to be firmly locked shu
 
 It was cramped and far from glamorous, but it meant they all got to sleep in the same room. As the train pulled out of Pittsburgh, heading into the dark expanse of Ohio and Indiana, Leo lay in the lower bunk of the Family Bedroom. The rhythmic rocking of the train was instantly soothing. He was heading the wrong way, deeper into the Midwest, but as Olivia’s hand reached down from the bunk above him to brush against his arm, he closed his eyes and let the train carry him into the night.
 
-## Chapter 8
+## The Windy City
 
 ### Part 1: Good Morning, Chicago
 
@@ -1658,7 +1658,7 @@ He didn't want to think about the ticking timer counting down to Seattle. He did
 
 Instead, he focused entirely on the immediate present. His stomach was pleasantly full. His older sister was safely resting just a few feet away. His twin was a warm, familiar weight on his left side, and his best friend was an unwavering presence on his right. For tonight, the world was exactly the size of this hotel room, and for tonight, that was enough.
 
-## Chapter 9
+## The Heartland
 
 ### Part 1: The BRAT Diet
 
@@ -1858,7 +1858,7 @@ Leo settled deeper into his pillows on the Adult Lower bunk. A few minutes later
 
 Outside the window, the flat, dark expanse of the Great Plains rushed by as the *Western Pioneer* began its long, invisible climb into the Rocky Mountains.
 
-## Chapter 10
+## The Mile High City
 
 ### Part 1: The Mile High City
 
@@ -2062,7 +2062,7 @@ He looked around the table. Stella was laughing at a joke Olivia had just made, 
 
 The timezone shift was still a looming reality, and the ticking clock was still quietly counting down the days until Seattle. But here, eating bison burgers in a brick tavern in the shadow of the Rocky Mountains, the fortress felt incredibly strong. For the first time since they left Virginia, Leo felt like they were actually on an adventure, rather than just surviving a geographical relocation.
 
-## Chapter 11
+## The Botanic Gardens
 
 ### Part 1: The Centennial Botanic Gardens
 
@@ -2172,7 +2172,7 @@ Leo settled back into his pillows, feeling Olivia crawl into the bed beside him.
 
 They were going to survive one more night in the Mile High City.
 
-## Chapter 12
+## The Moffat Tunnel
 
 ### Part 1: Night Terrors
 
@@ -2478,7 +2478,7 @@ But then Olivia's hand resumed its gentle rhythm in his hair, and he looked acro
 
 Stella smiled, reaching across the small aisle to squeeze his shoulder. "Always, kiddo. The fortress moves with us."
 
-## Chapter 13
+## The Salt Lake Stop
 
 ### Part 1: The Salt Lake Stop
 
@@ -2652,7 +2652,7 @@ Stella laughed, rubbing her tired eyes. "I am absolutely not leaving this room a
 
 Leo grinned, maneuvering his wheelchair over to the desk to grab the leather-bound room service menu. They had spent three days confined to a tiny, swaying train compartment, eating whatever the dining car had available. Tonight, sitting in a sprawling suite overlooking the Pacific Ocean with his pack, he felt completely, entirely free.
 
-## Chapter 14
+## The City by the Bay
 
 ### Part 1: The Historic F-Line
 
@@ -2994,7 +2994,7 @@ The second queen bed across the room remained completely empty and perfectly mad
 
 Surrounded and pinned down by his entire family, Leo was asleep before Stella even turned out the lights.
 
-## Chapter 15
+## The Sovereign Regency
 
 ### Part 1: The Atrium
 
