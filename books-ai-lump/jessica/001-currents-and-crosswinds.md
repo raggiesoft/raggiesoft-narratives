@@ -871,7 +871,7 @@ The next day, on the \#253 eastbound bus across the SR 520 Bridge, the Quantum e
 
 Another, in a worn Quantum hoodie, nodded. “We’ll intercept it. Or bury it. Or make it so radioactive no one in HR will touch it.”
 
-The bus became a rolling council chamber, voices low but urgent, hashing out contingencies. By the time they reached the Quantum campus, the plan was already taking shape. Ten minutes later, they regrouped in a break room where someone had scrawled “WAR COUNCIL” on the whiteboard above the coffee machine.
+The bus became a rolling council chamber, voices low but urgent, hashing out contingencies. By the time they reached the Quantum campus, the plan was already taking shape. Ten minutes later, they regrouped in a break room where someone had scrawled <aac>War council</aac> on the whiteboard above the coffee machine.
 
 Jessica wheeled in, eyebrow raised. “Subtle,” she said.
 
@@ -921,7 +921,7 @@ Evan Rothwell strode into the fourth-floor loft, thinking the postal pickup had 
 
 He didn't stab an intercom button. He bellowed.
 
-"KELLY!"
+<aac>Kelly!</aac>
 
 From her desk by the stairwell, Kelly Madsen flinched and was on her feet in a second. She hurried into his office, her notebook in hand, heart pounding. Evan jabbed a furious finger at the screen, not even looking at her.
 
@@ -1037,7 +1037,7 @@ A convoy of battered sedans and hatchbacks began to form, streaming onto SR 520,
 
 ### Part 1: A New Alliance
 
-The Quantum lobby was a controlled storm of arriving developers. The War Council was waiting—Jessica at the center, flanked by Quantineers, independents, and even a few allies who’d flown in overnight from Cupertino and Texas. The “NOT FOR SALE” pins were everywhere.
+The Quantum lobby was a controlled storm of arriving developers. The War Council was waiting—Jessica at the center, flanked by Quantineers, independents, and even a few allies who’d flown in overnight from Cupertino and Texas. The <aac>Not for sale</aac> pins were everywhere.
 
 Halfway through the arrivals, two Aurora devs wheeled in a battered rolling suitcase and a milk crate full of binders.
 

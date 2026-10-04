@@ -131,23 +131,23 @@ The grating alarm tones finally cut off, replaced by a wall of heavy static. The
 
 It wasn't human. It was an archaic, synthesized text-to-speech program, terrifyingly calm and devoid of all inflection.
 
-*"THE FOLLOWING MESSAGE IS TRANSMITTED AT THE REQUEST OF THE NEVADA EMERGENCY MANAGEMENT AGENCY AND APEX DEFENSE SOLUTIONS."*
+<aac>The following message is transmitted at the request of the nevada emergency management agency and apex defense solutions.</aac>
 
 Sarah walked slowly to Wyatt’s side, her eyes glued to the glowing amber monitor. Large, blocky text began scrolling across the screen, matching the robotic voice word for word.
 
-*"THIS IS A CIVIL DANGER WARNING FOR ALL OF CLARK COUNTY AND THE GREATER LAS VEGAS METROPOLITAN AREA. AT ZERO-FOUR-HUNDRED HOURS, A SEVERE SUBTERRANEAN SEISMIC EVENT COMPROMISED THE NEVADA TEST AND TRAINING RANGE."*
+<aac>This is a civil danger warning for all of clark county and the greater las vegas metropolitan area. At zero-four-hundred hours, a severe subterranean seismic event compromised the nevada test and training range.</aac>
 
 Wyatt and Sarah exchanged a chilling look. They knew exactly what that "seismic event" was.
 
-*"DO NOT ATTEMPT TO TRAVEL ON INTERSTATE FIFTEEN. ALL OUTBOUND ROUTES HAVE EXPERIENCED CATASTROPHIC STRUCTURAL COLLAPSE. SHELTER IN PLACE IMMEDIATELY. MOVE TO THE HIGHEST AVAILABLE ELEVATION. DO NOT SEEK SHELTER UNDERGROUND."*
+<aac>Do not attempt to travel on interstate fifteen. All outbound routes have experienced catastrophic structural collapse. Shelter in place immediately. Move to the highest available elevation. Do not seek shelter underground.</aac>
 
 The dot-matrix printer continued its relentless, grinding rhythm, churning the horrific reality into physical ink and paper.
 
-*"A HAZARDOUS BIOLOGICAL ANOMALY HAS BREACHED THE SURFACE AT MULTIPLE LOCATIONS ALONG THE LAS VEGAS STRIP. MILITARY CONTAINMENT HAS FAILED. I REPEAT. MILITARY CONTAINMENT HAS FAILED. ALL CIVILIAN POPULATIONS ARE ADVISED TO AVOID CONTACT WITH ORGANIC MASSES EMERGING FROM SUBSURFACE SINKHOLES."*
+<aac>A hazardous biological anomaly has breached the surface at multiple locations along the las vegas strip. Military containment has failed. I repeat. Military containment has failed. All civilian populations are advised to avoid contact with organic masses emerging from subsurface sinkholes.</aac>
 
 The synthesized voice didn't waver. It didn't panic. It just coldly read the death sentence of millions of people.
 
-*"DO NOT WAIT FOR RESCUE. EVACUATION PROTOCOLS HAVE BEEN SUSPENDED. MAY GOD BE WITH YOU."*
+<aac>Do not wait for rescue. Evacuation protocols have been suspended. May god be with you.</aac>
 
 The audio feed abruptly cut out, plunging the command center back into the low, hissing static of deep space. The dot-matrix printer spat out the final line of text, the paper hanging limply from the feed slot. The amber screen returned to a slow, steady blink.
 
@@ -357,7 +357,7 @@ Sarah jumped, instinctively taking a step back from the nutrient station. The wa
 
 The alarm tones cut out, replaced by the heavy hiss of deep-space static. Then, the cold, synthesized text-to-speech voice echoed through the humid bay.
 
-*"THE FOLLOWING MESSAGE IS TRANSMITTED AT THE REQUEST OF THE FEDERAL EMERGENCY MANAGEMENT AGENCY AND THE DEPARTMENT OF DEFENSE."*
+<aac>The following message is transmitted at the request of the federal emergency management agency and the department of defense.</aac>
 
 Wyatt walked over to Sarah, stepping between her and the speaker, his jaw clenched tight. The broadcast had escalated. It wasn't the localized Nevada agency anymore. The federal government had taken over the grid.
 
@@ -367,15 +367,15 @@ Sarah’s hand reached out, her fingers gripping the fabric of Wyatt's black und
 
 The robotic voice didn't care. It coldly continued its apocalyptic census.
 
-*"THIS IS A MANDATORY EVACUATION ORDER FOR ALL RESIDENTS OF SOUTHERN CALIFORNIA, INCLUDING SAN BERNARDINO, RIVERSIDE, AND LOS ANGELES COUNTIES. THE ORGANIC MASS IS UTILIZING SUBTERRANEAN AQUIFERS TO ACCELERATE EXPANSION TACTICS. SEISMIC ACTIVITY INDICATES THE ANOMALY WILL BREACH THE LOS ANGELES BASIN WITHIN FORTY-EIGHT HOURS."*
+<aac>This is a mandatory evacuation order for all residents of southern california, including san bernardino, riverside, and los angeles counties. The organic mass is utilizing subterranean aquifers to accelerate expansion tactics. Seismic activity indicates the anomaly will breach the los angeles basin within forty-eight hours.</aac>
 
 Wyatt stared up at the rusted PA speaker. He could picture the tactical map in his head. The thing they had dug up wasn't just spreading like a sinkhole anymore; it was following the water. It was hunting the densest populations of biomass it could find.
 
-*"DO NOT SHELTER IN PLACE. SHELTER IN PLACE ORDERS ARE REVOKED. FLEE NORTH OR EAST BY ANY SURFACE MEANS NECESSARY. DO NOT UTILIZE SUBWAYS OR UNDERGROUND TRANSIT NETWORKS. I REPEAT. DO NOT GO UNDERGROUND."*
+<aac>Do not shelter in place. Shelter in place orders are revoked. Flee north or east by any surface means necessary. Do not utilize subways or underground transit networks. I repeat. Do not go underground.</aac>
 
 A burst of heavy, distorted static chopped through the audio feed, a terrifying hint that the automated transmitters on Earth were physically being ripped apart by the shifting bedrock.
 
-*"MILITARY DEFENSIVE LINES AT THE COLORADO RIVER HAVE FALLEN. AVOID ALL CONTACT WITH ORGANIC SINKHOLES. MAY GOD BE WITH YOU."*
+<aac>Military defensive lines at the colorado river have fallen. Avoid all contact with organic sinkholes. May god be with you.</aac>
 
 *\<TRANSMISSION TERMINATED\>*
 
@@ -479,7 +479,7 @@ Sarah looked at the rusted, heavy iron bar. It was designed to be pulled by two 
 
 Wyatt wedged his fingers into the minimal gap of the filter door, his boots finding traction on the grating. The muscles in his back and shoulders coiled tight.
 
-"PULL!"
+<aac>Pull!</aac>
 
 Sarah threw her entire body weight backward. The rusted pneumatic cylinder screamed, fighting her with terrifying mechanical resistance. Her boots slipped an inch on the grease-stained floor, but she dug her heels in, a guttural cry escaping her throat. The lever slowly, agonizingly ground downward.
 
@@ -595,25 +595,25 @@ They hadn't even been out of the engine room for twenty minutes. The forty-eight
 
 The heavy, grating alarm cut off, replaced by a thick wall of distorted static. It sounded different this time—wetter, heavier, as if the transmitters on Earth were physically drowning in earth and rock.
 
-*"THE FOLLOWING MESSAGE IS TRANSMITTED AT THE REQUEST OF THE DEPARTMENT OF DEFENSE AND THE UNITED STATES NORTHERN COMMAND."*
+<aac>The following message is transmitted at the request of the department of defense and the united states northern command.</aac>
 
 Wyatt dropped the apple into the galvanized steel tray, his jaw clenching so hard his teeth ached. FEMA wasn't leading the broadcast anymore. The military had taken full control of the grid.
 
-*"PREVIOUS TIMELINE ESTIMATES REGARDING THE SUBTERRANEAN ANOMALY ARE NULL AND VOID. I REPEAT. PREVIOUS TIMELINE ESTIMATES ARE NULL AND VOID."*
+<aac>Previous timeline estimates regarding the subterranean anomaly are null and void. I repeat. Previous timeline estimates are null and void.</aac>
 
 Sarah’s breath caught in her throat. She stepped closer to Wyatt, her grease-stained fingers wrapping tightly around his forearm. He instantly pulled her against his side, his eyes locked onto the black metal grating of the speaker.
 
-*"THE ORGANIC MASS HAS DEMONSTRATED UNPREDICTABLE ACCELERATION TACTICS. IT HAS BREACHED THE PACIFIC FAULT LINE. THE METROPOLITAN AREAS OF LOS ANGELES, SAN DIEGO, AND PHOENIX HAVE EXPERIENCED TOTAL SUBTERRANEAN COLLAPSE. SURVIVAL RATES ARE ZERO. BIOMASS ASSIMILATION IS ONE HUNDRED PERCENT."*
+<aac>The organic mass has demonstrated unpredictable acceleration tactics. It has breached the pacific fault line. The metropolitan areas of los angeles, san diego, and phoenix have experienced total subterranean collapse. Survival rates are zero. Biomass assimilation is one hundred percent.</aac>
 
 "Phoenix?" Wyatt whispered, the strategic impossibility of it chilling his blood. "Phoenix is three hundred miles in the other direction. It's moving in multiple directions at once."
 
 The synthesized voice didn't panic. It delivered the death toll of tens of millions of people with the exact same inflection it used to announce the time.
 
-*"THE WESTERN SEABOARD IS CLASSIFIED AS LOST. THE ANOMALY IS UTILIZING THE PACIFIC OCEAN TO COOL EXPANSION FRICTION. IT IS GROWING."*
+<aac>The western seaboard is classified as lost. The anomaly is utilizing the pacific ocean to cool expansion friction. It is growing.</aac>
 
 A harsh, jagged screech of feedback tore through the audio, making Sarah wince and press her face against Wyatt's shoulder.
 
-*"ALL REMAINING CIVILIAN POPULATIONS EAST OF THE ROCKY MOUNTAINS ARE ORDERED TO PREPARE FOR IMMEDIATE, CONTINENTAL EVACUATION. THE UNITED STATES MILITARY IS INITIATING SCORCHED EARTH PROTOCOLS ALONG THE CONTINENTAL DIVIDE. MAY GOD BE WITH YOU."*
+<aac>All remaining civilian populations east of the rocky mountains are ordered to prepare for immediate, continental evacuation. The united states military is initiating scorched earth protocols along the continental divide. May god be with you.</aac>
 
 *\<HEAVY AUDIO DISTORTION\>* *\<TRANSMISSION TERMINATED\>*
 
@@ -1109,19 +1109,19 @@ The news anchor was abruptly cut off. The harsh, mechanical scream of the Emerge
 
 It was the loudest, most aggressive tone they had heard yet. The amber CRT monitor flashed violently.
 
-*"THE FOLLOWING MESSAGE IS TRANSMITTED AT THE REQUEST OF THE UNITED STATES GEOLOGICAL SURVEY AND THE FEDERAL EMERGENCY MANAGEMENT AGENCY."*
+<aac>The following message is transmitted at the request of the united states geological survey and the federal emergency management agency.</aac>
 
 Wyatt gripped the armrests of the captain's chair, the heavy ceramic mug in his hand completely forgotten.
 
-*"AT ZERO-NINE-FIFTEEN HOURS, A CATASTROPHIC SEISMIC FRACTURE OCCURRED BENEATH THE STATE OF NEVADA, PENETRATING THE UPPER MANTLE. THE SUBTERRANEAN BIOLOGICAL ANOMALY HAS UTILIZED THIS FRACTURE TO BYPASS THE CONTINENTAL DIVIDE. IT HAS BREACHED THE SURFACE BENEATH THE STATE OF WYOMING."*
+<aac>At zero-nine-fifteen hours, a catastrophic seismic fracture occurred beneath the state of nevada, penetrating the upper mantle. The subterranean biological anomaly has utilized this fracture to bypass the continental divide. It has breached the surface beneath the state of wyoming.</aac>
 
 Sarah grabbed Wyatt’s arm, her fingernails digging into his black t-shirt. "Wyoming? But the Glass Wall..."
 
-*"THE ANOMALY HAS OVER-PRESSURIZED THE YELLOWSTONE CALDERA. THIS IS A LEVEL-EIGHT VOLCANIC EVENT. THE YELLOWSTONE SUPERVOLCANO IS CURRENTLY ERUPTING."*
+<aac>The anomaly has over-pressurized the yellowstone caldera. This is a level-eight volcanic event. The yellowstone supervolcano is currently erupting.</aac>
 
 The words hung in the air, heavy and absolute. The kinetic strike hadn't killed the anomaly. It had cracked the earth's crust wide open, giving the biological mass a direct, molten highway right underneath the radioactive blockade.
 
-*"A MASSIVE ASH CLOUD, HEAVILY CONTAMINATED WITH WEAPONIZED BIOLOGICAL SPORES, IS CURRENTLY SPREADING ACROSS THE SURVIVING MIDWEST AND CANADIAN PROVINCES. ALL REMAINING SURVIVORS MUST SEEK IMMEDIATE, HERMETICALLY SEALED SHELTER. DO NOT BREATHE THE OUTSIDE AIR. THE SUN WILL BE OBSCURED FOR AN INDETERMINATE AMOUNT OF TIME. MAY GOD BE WITH YOU."*
+<aac>A massive ash cloud, heavily contaminated with weaponized biological spores, is currently spreading across the surviving midwest and canadian provinces. All remaining survivors must seek immediate, hermetically sealed shelter. Do not breathe the outside air. The sun will be obscured for an indeterminate amount of time. May god be with you.</aac>
 
 *\<HEAVY AUDIO DISTORTION\>* *\<TRANSMISSION TERMINATED\>*
 

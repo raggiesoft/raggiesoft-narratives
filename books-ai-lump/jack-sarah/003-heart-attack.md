@@ -525,7 +525,7 @@ He stared up at the blinding light, his last conscious thought of his sister’s
 
 The edges of his vision softened, and the bright light dissolved into a peaceful, welcoming darkness.
 
-The surgical waiting room was a sterile, quiet pocket of anxiety. Jermaine, Sarah, Grandpa Sam, and Uncle Devin sat in tense silence, their eyes fixed on the digital board that read "BENNETT, JACK - IN SURGERY.” Delores sat apart from them, furiously flipping through a magazine, radiating an impatient energy that was starkly out of place.
+The surgical waiting room was a sterile, quiet pocket of anxiety. Jermaine, Sarah, Grandpa Sam, and Uncle Devin sat in tense silence, their eyes fixed on the digital board that read <aac>Bennett, jack - in surgery.</aac> Delores sat apart from them, furiously flipping through a magazine, radiating an impatient energy that was starkly out of place.
 
 After letting her stew for a few minutes, Jermaine knew it was time to honor his son's request. He stood and walked over to where she sat.
 
@@ -671,7 +671,7 @@ It wasn't a retreat. It was an attack. With a feral snarl, Delores lunged toward
 
 Jack flinched, his eyes going wide with terror, unable to move or defend himself against the incoming blow that could literally kill him.
 
-"NO!"
+<aac>No!</aac>
 
 The roar came from Jermaine. He didn't just stand up; he exploded from his chair.
 
@@ -815,7 +815,7 @@ On a whim, she decided to seek out a friendly face in the middle of the storm. S
 
 "Mandy?" Jack said, his voice a weak, surprised rasp. "What are you doing here?"
 
-"My grandmother had a fall," Mandy explained, her voice low as she stepped into the room. "I brought her into the ER, and now... well, it looks like I'm stuck here." She gestured to the television in the corner of the room, which was tuned to the local news. A weather map, painted in angry reds and purples, dominated the screen, with a bold "TRAVEL BAN IN EFFECT" banner at the bottom. "I just saw the forecast. Looks like none of us are leaving tonight."
+"My grandmother had a fall," Mandy explained, her voice low as she stepped into the room. "I brought her into the ER, and now... well, it looks like I'm stuck here." She gestured to the television in the corner of the room, which was tuned to the local news. A weather map, painted in angry reds and purples, dominated the screen, with a bold <aac>Travel ban in effect</aac> banner at the bottom. "I just saw the forecast. Looks like none of us are leaving tonight."
 
 "Wow. Come in, get comfortable," Sarah said, gesturing to a chair.
 

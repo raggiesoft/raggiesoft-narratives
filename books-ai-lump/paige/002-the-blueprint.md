@@ -161,7 +161,7 @@ The mall was a monolith of beige concrete and glass, a temple of commerce rising
 
 "Copy," Freddie said, unbuckling his seatbelt.
 
-Jenna burst out of the car like a majestic, energetic firework. "MALL!"
+Jenna burst out of the car like a majestic, energetic firework. <aac>Mall!</aac>
 
 Sarah stepped out carefully, closing the door and checking the handle to make sure it locked behind them. "Door secured," she confirmed.
 
@@ -331,7 +331,7 @@ Freddie looked out at the chaotic room—the teenagers flirting near the pizza p
 
 The arcade at Emerald Creek Mall was named **The Starcade**. It was located just past the food court restrooms, a dark cave illuminated by the flashing CRTs of attract screens and the neon glow of Lane-Master lanes.
 
-To Freddie, the Starcade was a paradox. It was louder than the food court—a cacophony of 8-bit explosions, synthesized voices shouting "RELOAD!", and the clatter of tokens hitting metal trays. Yet, unlike the chaotic noise of the crowds, this noise was <aac>designed</aac>. It was computerized. It followed rules.
+To Freddie, the Starcade was a paradox. It was louder than the food court—a cacophony of 8-bit explosions, synthesized voices shouting <aac>Reload!</aac>, and the clatter of tokens hitting metal trays. Yet, unlike the chaotic noise of the crowds, this noise was <aac>designed</aac>. It was computerized. It followed rules.
 
 Paige stopped at the change machine. She fed the remaining bills into the slot.
 
@@ -665,7 +665,7 @@ She took a breath, her voice cracking. "You don't get to sleep on the couch for 
 
 Robert opened his mouth, but no words came out. He looked at Freddie—really looked at him—and saw the sixteen-year-old boy cowering behind his sister, vibrating with anxiety. He saw the truth of it, the years of missed data points, the entire reality of his children's lives that he had missed while he was at work or staring at the television.
 
-"I..." Robert stammered. "I just thought..."
+<aac>I...</aac> Robert stammered. "I just thought..."
 
 "Go back to sleep, Dad," Paige cut him off.
 
@@ -1757,7 +1757,7 @@ A massive, distorted industrial guitar riff ripped through the stadium speakers,
 
 Pyrotechnics blasted from the top of the scoreboard—jets of flame shooting into the night sky, turning the smoke maroon.
 
-**"IGNITION!"** the crowd screamed along with the track.
+*<aac>Ignition!</aac>* the crowd screamed along with the track.
 
 Down in the tunnel, the smoke poured out. And then, they emerged.
 
@@ -1767,7 +1767,7 @@ They didn't dance out. They sprinted. A wave of maroon jerseys poured onto the f
 
 The noise in the stadium went from deafening to impossible. It wasn't a cheer anymore. It was a roar—a primal, unified sound of intimidation that drowned out thought, drowned out fear, and drowned out the rejection letter waiting in Freddie’s future.
 
-*"THIS IS THE FORGER'S CALL!"* the speakers blasted. *"IGNITION!"*
+<aac>This is the forger's call!</aac> the speakers blasted. <aac>Ignition!</aac>
 
 Freddie was screaming. He didn't even realize it. He was on his feet, his orange hoodie vibrating with the noise, his earplugs barely holding back the tide. He was stomping. He was clapping. He was part of the machine.
 
@@ -1964,7 +1964,7 @@ The baton snapped up.
 
 Three hundred brass instruments hit a single chord. It was massive. It was a wall of sound that washed over the stadium, rich and harmonious and perfectly tuned.
 
-The show wasn't a pop medley. It was titled **"ORBIT."**
+The show wasn't a pop medley. It was titled *<aac>Orbit.</aac>*
 
 They played Holst’s *Jupiter*, but accelerated, turned into a driving, powerful march.
 
@@ -2127,7 +2127,7 @@ Three CPI linebackers met him at the 2-yard line.
 
 It was the sound of a wall stopping a car. The quarterback went backward. The ball didn't cross the plane.
 
-"TURNOVER ON DOWNS!" the PA announcer boomed.
+<aac>Turnover on downs!</aac> the PA announcer boomed.
 
 The stadium shook so hard Freddie thought the bleachers might actually shearing off their bolts.
 

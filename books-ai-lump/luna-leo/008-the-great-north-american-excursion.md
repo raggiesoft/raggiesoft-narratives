@@ -73,7 +73,7 @@ Olivia peered at the map. "And how are we getting around the city?"
 
 With the logistics settled, the fun part began. "So, what's on the must-see list?" Stella asked.
 
-Leo immediately picked up his Quantum Communicator, which he had been using for the trip. He typed with an excitement that was palpable. "AIR AND SPACE MUSEUM."
+Leo immediately picked up his Quantum Communicator, which he had been using for the trip. He typed with an excitement that was palpable. <aac>Air and space museum.</aac>
 
 "Definitely!" Luna chimed in. "And can we see the Lincoln Memorial at night? All lit up?"
 
@@ -143,7 +143,7 @@ Luna, who had been bouncing in her seat with excitement, answered immediately. "
 
 All eyes turned to Leo. He looked at the map, a thoughtful expression on his face. He then picked up his Quantum Communicator, his fingers moving with purpose. A moment later, the synthesized voice spoke his choice.
 
-"PANDAS. AND THE REPTILES."
+<aac>Pandas. And the reptiles.</aac>
 
 "Pandas and reptiles it is," Stella confirmed, circling the locations on the map with a pen. "Okay, so we'll hit the Asia Trail for the pandas first, then loop around to the Great Ape House and the big cats, and finish at the Reptile Discovery Center. It's a solid plan."
 
@@ -215,7 +215,7 @@ On the bus, the conversation naturally turned to dinner.
 
 Leo, who had been quietly watching the city lights begin to sparkle as dusk settled, had a very specific idea. He typed on his Quantum Communicator, and the synthesized voice spoke his request.
 
-"CHINESE FOOD. DUMPLINGS."
+<aac>Chinese food. Dumplings.</aac>
 
 "Ooh, an excellent choice," Olivia said with a grin. "I could definitely go for some dumplings."
 
@@ -257,13 +257,13 @@ The original plan had been to do a popular walking ghost tour of the neighborhoo
 
 Luna shook her head, already sinking into one of the plush beds. "I'm wiped, Stel. That was a lot today."
 
-Leo, looking equally drained, typed on his Quantum Communicator. "TOO MUCH. TOO LOUD. NEED QUIET."
+Leo, looking equally drained, typed on his Quantum Communicator. <aac>Too much. Too loud. Need quiet.</aac>
 
 "Quiet it is," Olivia said immediately, her voice full of understanding. "The ghosts will be there tomorrow. Your comfort comes first."
 
 They settled into a peaceful evening in the room. After a little while, having had a chance to decompress from the day, Leo had a new idea. He looked toward the large, accessible bathroom, then at Olivia.
 
-"CAN I TRY THE SHOWER NOW?"
+<aac>Can I try the shower now?</aac>
 
 "Absolutely," Olivia said, her smile warm.
 
@@ -287,7 +287,7 @@ As Stella and Luna settled into their bed, Olivia helped Leo get situated in the
 
 He picked up his Quantum Communicator and typed a quiet request.
 
-"LUNA? CAN YOU SLEEP WITH US TONIGHT?"
+<aac>Luna? Can you sleep with us tonight?</aac>
 
 Luna looked over, her expression soft with immediate understanding. "Of course, Leo."
 
@@ -353,7 +353,7 @@ On the bus, the conversation naturally turned to dinner.
 
 Leo, who had been quietly watching the city lights begin to sparkle as dusk settled, had a very specific idea. He typed on his Quantum Communicator, and the synthesized voice spoke his request.
 
-"CHINESE FOOD. DUMPLINGS."
+<aac>Chinese food. Dumplings.</aac>
 
 "Ooh, an excellent choice," Olivia said with a grin. "I could definitely go for some dumplings."
 
@@ -403,13 +403,13 @@ The original plan had been to do a popular walking ghost tour of the neighborhoo
 
 Luna shook her head, already sinking into one of the plush beds. "I'm wiped, Stel. That was a lot today."
 
-Leo, looking equally drained, typed on his Quantum Communicator. "TOO MUCH. TOO LOUD. NEED QUIET."
+Leo, looking equally drained, typed on his Quantum Communicator. <aac>Too much. Too loud. Need quiet.</aac>
 
 "Quiet it is," Olivia said immediately, her voice full of understanding. "The ghosts will be there tomorrow. Your comfort comes first."
 
 They settled into a peaceful evening in the room. After a little while, having had a chance to decompress from the day, Leo had a new idea. He looked toward the large, accessible bathroom, then at Olivia.
 
-"CAN I TRY THE SHOWER NOW?"
+<aac>Can I try the shower now?</aac>
 
 "Absolutely," Olivia said, her smile warm.
 
@@ -433,7 +433,7 @@ As Stella and Luna settled into their bed, Olivia helped Leo get situated in the
 
 He picked up his Quantum Communicator and typed a quiet request.
 
-"LUNA? CAN YOU SLEEP WITH US TONIGHT?"
+<aac>Luna? Can you sleep with us tonight?</aac>
 
 Luna looked over, her expression soft with immediate understanding. "Of course, Leo."
 
@@ -487,7 +487,7 @@ Olivia stopped instantly, her happy, nostalgic mood evaporating. She saw the raw
 
 He was already fumbling for his Quantum Communicator, his hands trembling. He typed a short, panicked message.
 
-"NO! NO LIQUOR! NO ALCOHOL! PLEASE OLIVIA NO!"
+<aac>No! No liquor! No alcohol! Please olivia no!</aac>
 
 The waitress, seeing his distress, took a respectful step back. Olivia's heart broke as she instantly understood the misunderstanding. She placed a gentle, steadying hand on his arm.
 
@@ -527,7 +527,7 @@ There was a chorus of enthusiastic agreement.
 
 "Me too," Stella agreed.
 
-Leo, a devoted fan of anything with maple, typed on his Quantum Communicator: "SUGAR PIE PLEASE."
+Leo, a devoted fan of anything with maple, typed on his Quantum Communicator: <aac>Sugar pie please.</aac>
 
 Olivia smiled at the waitress. "*Alors, on va prendre trois pointes de tarte au sucre, et un pouding chômeur pour moi, s'il vous plaît.*" (So, we'll take three slices of sugar pie, and a poor man's pudding for me, please.)
 
@@ -667,7 +667,7 @@ Despite the inflated cost, the meal was a welcome and necessary refuel. They fou
 
 "The best part was the moon rock," Luna declared between bites of her burger. "You can actually *touch* it! A rock! From the moon!"
 
-Leo, who was in complete agreement, typed enthusiastically on his Quantum Communicator. "THE COMMAND MODULE WAS BIGGER THAN I THOUGHT. AND THE SPACE SUITS. AMAZING."
+Leo, who was in complete agreement, typed enthusiastically on his Quantum Communicator. <aac>The command module was bigger than I thought. And the space suits. Amazing.</aac>
 
 "The planetarium show was my favorite," Olivia added. "I could have stayed in there all day."
 
@@ -725,7 +725,7 @@ She squeezed it tightly, managing a small, grateful smile for Stella. "Understoo
 
 Leo, looking pale and exhausted but also resolute, shook his head. He had given in to his grief, and now he was determined to fight back, to salvage what precious time they had left. He picked up his Quantum Communicator.
 
-"I'M OKAY. I WANT TO GO. TO NATURAL HISTORY MUSEUM. PLEASE. NEED TO KEEP BUSY."
+<aac>I'm okay. I want to go. To natural history museum. Please. Need to keep busy.</aac>
 
 Stella, Luna, and Olivia exchanged a look of profound, aching love for him. Even in his pain, he was trying so hard.
 
@@ -795,7 +795,7 @@ Olivia stopped instantly, her happy, nostalgic mood evaporating. She saw the raw
 
 He was already fumbling for his Quantum Communicator, his hands trembling. He typed a short, panicked message.
 
-"NO! NO LIQUOR! NO ALCOHOL! PLEASE OLIVIA NO!"
+<aac>No! No liquor! No alcohol! Please olivia no!</aac>
 
 The waitress, seeing his distress, took a respectful step back. Olivia's heart broke as she instantly understood the misunderstanding. She placed a gentle, steadying hand on his arm.
 
@@ -835,7 +835,7 @@ There was a chorus of enthusiastic agreement.
 
 "Me too," Stella agreed.
 
-Leo, a devoted fan of anything with maple, typed on his Quantum Communicator: "SUGAR PIE PLEASE."
+Leo, a devoted fan of anything with maple, typed on his Quantum Communicator: <aac>Sugar pie please.</aac>
 
 Olivia smiled at the waitress. "*Alors, on va prendre trois pointes de tarte au sucre, et un pouding chômeur pour moi, s'il vous plaît.*" (So, we'll take three slices of sugar pie, and a poor man's pudding for me, please.)
 
@@ -1263,7 +1263,7 @@ But then he looked at Olivia. She was staring at a massive, neon-pink portrait w
 
 Leo saw her joy, and the urge to retreat vanished, replaced by a desperate, heartbreaking desire to perform. He wanted her to have a perfect day. He wanted to be the perfect companion. He forced a smile, pushing his chair closer to the artwork and tapping enthusiastically on his Quantum Communicator. 
 
-"VERY BRIGHT. I LIKE THE COLORS," he typed, showing the screen to Olivia. 
+<aac>Very bright. I like the colors,</aac> he typed, showing the screen to Olivia. 
 
 She beamed at him. "Right? It's like looking at a comic book blown up to the size of a building."
 
@@ -1432,7 +1432,7 @@ Neither Luna nor Leo had ever been in a skyscraper before. Growing up in the fla
 
 "I want to see if we can see across Lake Michigan," Luna said excitedly as Olivia pushed Leo's wheelchair along the busy sidewalks toward the tower. 
 
-"I WANT TO SEE THE TRAINS FROM ABOVE," Leo typed on his communicator, a rare spark of unburdened enthusiasm lighting up his eyes. 
+<aac>I want to see the trains from above,</aac> Leo typed on his communicator, a rare spark of unburdened enthusiasm lighting up his eyes. 
 
 After buying their tickets and passing through the crowded lobby, they packed into the high-speed elevator. The doors slid shut, and the elevator shot upward with a smooth, ear-popping intensity. A digital display above the door rapidly counted off the floors—10, 30, 50, 80—until finally, with a soft *ding*, they arrived at the 103rd floor.
 
@@ -1468,7 +1468,7 @@ Leo opened his eyes, but his gaze was wild and unfocused. He aggressively pointe
 
 Stella was already crouched beside Luna, rubbing her back. "Okay, okay. I've got you," Stella murmured, realizing instantly what had happened. It was a shared, identical twin phobia, triggered at the exact same second. 
 
-"GET ME AWAY FROM THE WINDOW," Leo typed frantically on his communicator, hitting the keys so hard the swing-arm rattled. 
+<aac>Get me away from the window,</aac> Leo typed frantically on his communicator, hitting the keys so hard the swing-arm rattled. 
 
 Olivia didn't hesitate. She unlocked the brakes on his chair and quickly pulled him backward, turning the chair around so he was facing the solid interior wall, right next to where Luna was curled up on the carpet. 
 
@@ -1530,7 +1530,7 @@ Leo leaned his head against hers, tears spilling hot and fast down his own cheek
 
 "I'm sorry," Luna choked out, her voice muffled against his t-shirt. "I'm so sorry, Leo. We didn't know. I didn't know."
 
-"IT IS OKAY," he managed to type, his thumb shaking so badly he hit the wrong key twice before getting the message out. 
+<aac>It is okay,</aac> he managed to type, his thumb shaking so badly he hit the wrong key twice before getting the message out. 
 
 It was a profound, startling realization for both of them. In eighteen years, neither twin had ever been higher than a third-floor balcony. They simply hadn't known they possessed a shared, debilitating fear of extreme heights. But it made a twisted kind of sense; their brains were wired with so many identical quirks and sensitivities, it was only natural that their phobias would match, too. 
 
@@ -1566,7 +1566,7 @@ Stella stared at the monstrous slice as it was deposited onto her plate. The cru
 
 Olivia cut Leo's slice into manageable, bite-sized pieces for him. He used his fork to spear a chunk of the thick, buttery crust covered in cheese and sauce. The moment it hit his tongue, his eyes closed in sheer bliss. It was incredible. It was heavy, rich, and incredibly comforting—exactly the kind of grounding sensory input his fried nervous system craved. 
 
-"THIS IS SO GOOD," Leo typed, reaching eagerly for his second bite. 
+<aac>This is so good,</aac> Leo typed, reaching eagerly for his second bite. 
 
 "It really is," Luna agreed, her mouth full. The terrifying ordeal at the Zenith Tower seemed a million miles away, replaced by the warm, buzzing atmosphere of the restaurant and the unbelievable weight of the food. 
 
@@ -1602,7 +1602,7 @@ The door shut with a solid *click*, followed immediately by the sound of the loc
 
 Luna snorted, collapsing back-first onto one of the queen beds. "I think she's dying."
 
-"SHE WILL BE OKAY," Leo typed, a small, amused smile playing on his lips. It was rare to see their indestructible older sister so thoroughly sidelined by something as mundane as lunch. 
+<aac>She will be okay,</aac> Leo typed, a small, amused smile playing on his lips. It was rare to see their indestructible older sister so thoroughly sidelined by something as mundane as lunch. 
 
 "Yeah, she'll survive," Olivia agreed, dropping her own bags near the desk and stretching her arms over her head. "But I think our sightseeing is officially done for the day."
 
@@ -1616,7 +1616,7 @@ Leo nodded slowly. The phobia was gone, safely locked away behind the memory of 
 
 He reached out and gently laid his hand over hers. 
 
-"I KNOW," his communicator said, though he hadn't typed it recently. It was a saved phrase he kept readily available. He knew she had to go. He knew the clock was ticking. 
+<aac>I know,</aac> his communicator said, though he hadn't typed it recently. It was a saved phrase he kept readily available. He knew she had to go. He knew the clock was ticking. 
 
 Olivia's expression softened, a deep, empathetic sadness in her eyes. She squeezed his knee. "I know too, Leo," she whispered. 
 
@@ -1686,13 +1686,13 @@ Luna, who was happily munching on a chocolate chip muffin on the other bed, gigg
 
 Stella let out a long, defeated sigh and picked up the dry toast. "Fine. But I am filing a formal grievance against Chicago's culinary scene."
 
-Leo smiled from his wheelchair, his communicator already swung into place. "WHAT ARE WE DOING TODAY?" he typed, hitting the play button. 
+Leo smiled from his wheelchair, his communicator already swung into place. <aac>What are we doing today?</aac> he typed, hitting the play button. 
 
 "Well," Stella said, taking a cautious, joyless bite of her toast. "We are definitely not going anywhere high up. And given that my stomach is still sore, we are not doing anything that requires running or a massive amount of walking. Luckily, The Heritage House is right in the middle of everything."
 
 She pulled a city map from the nightstand. "Right across the street is Lakeside Park. It's flat, it's on the ground, and it's right on the edge of Lake Michigan. We can walk down to the Grand Fountain, and if we're feeling up to it, the Lakefront Aquarium is just south of there. It's fully wheelchair accessible, completely air-conditioned, and has lots of fish. Does that sound safe and reasonable to everyone?"
 
-"FISH ARE GOOD," Leo typed immediately. The aquarium sounded perfectly safe. It was on the ground, it was indoors, and there were zero glass boxes suspended in the sky. 
+<aac>Fish are good,</aac> Leo typed immediately. The aquarium sounded perfectly safe. It was on the ground, it was indoors, and there were zero glass boxes suspended in the sky. 
 
 "I'm in," Luna agreed, finishing her muffin. "But if you need to stop and sit down, Stella, you have to tell us."
 
@@ -1718,7 +1718,7 @@ Olivia stood right behind his chair, resting her hands on the push-handles. Ever
 
 "I like the turtle," she whispered. "He looks like he's got nowhere to be."
 
-"HE IS VERY RELAXED," Leo typed back, a small smile on his face. He leaned his head back against her arm, perfectly content. 
+<aac>He is very relaxed,</aac> Leo typed back, a small smile on his face. He leaned his head back against her arm, perfectly content. 
 
 A few yards away, Stella was sitting on a padded bench in front of a penguin exhibit. She had her elbows resting on her knees, rubbing her temples. Luna was sitting next to her, watching her older sister with a hawk-like intensity. 
 
@@ -1756,7 +1756,7 @@ They retrieved their bags from The Heritage House bell desk and made their way t
 
 Leo listened carefully. His cardiovascular system had never been tested at a high altitude before. The prospect of thin air was slightly intimidating, but hearing Olivia take charge of the medical logistics was incredibly reassuring. 
 
-"HYDRATE," his communicator stated, and he obediently reached for the water bottle attached to the frame of his wheelchair. 
+<aac>Hydrate,</aac> his communicator stated, and he obediently reached for the water bottle attached to the frame of his wheelchair. 
 
 "Exactly," Olivia smiled, giving his shoulder an affectionate squeeze. "Drink up. The air on the train is dry anyway."
 
@@ -1882,7 +1882,7 @@ He let out a quiet, shuddering breath, trying to push the panic down. He shifted
 
 Leo looked up. Stella was peering over the edge of her mattress, her hair a messy bird's nest. She looked significantly better than she had the night before. The pallor was completely gone, and her eyes were bright and alert. The long, horizontal stretch of the Adult Upper bunk had done exactly what she needed it to do. 
 
-"HOW IS YOUR STOMACH," Leo typed on his communicator, making sure the volume was turned down low so he wouldn't wake Luna, who was still curled tightly in her fetal position in the child's bed across the aisle. 
+<aac>How is your stomach,</aac> Leo typed on his communicator, making sure the volume was turned down low so he wouldn't wake Luna, who was still curled tightly in her fetal position in the child's bed across the aisle. 
 
 "A hundred percent better," Stella whispered, carefully climbing down the small ladder. "The guardian bear has officially resumed her post."
 
@@ -1930,7 +1930,7 @@ For Leo, the prospect of taking a local commuter train was thrilling. It combine
 
 They followed the clear signage out of the historic train station and over to the modern light rail platform. The morning commuter rush was just starting to build, a mix of business professionals in suits and locals in outdoor gear. 
 
-"THIS IS VERY CONVENIENT," Leo typed on his communicator as they waited by the bright yellow tactile strip on the edge of the platform. 
+<aac>This is very convenient,</aac> Leo typed on his communicator as they waited by the bright yellow tactile strip on the edge of the platform. 
 
 "It really is," Stella agreed, checking the transit map she had printed out before they left Virginia. "Our hotel is just a few stops away on the main line. We don't have to worry about finding an accessible cab, and we don't have to deal with loading and unloading all this luggage into a trunk."
 
@@ -1970,7 +1970,7 @@ For Leo, the lack of historic charm was a massive feature, not a bug. Historic u
 
 Leo drove his wheelchair over to the window, parking next to Stella. The room felt incredibly safe. It was quiet, the air conditioning hummed with a steady white noise, and the deep pressure of the overnight train ride was fading. 
 
-"THIS IS A GOOD BASE CAMP," he typed on his communicator. 
+<aac>This is a good base camp,</aac> he typed on his communicator. 
 
 "I'm glad you think so," Stella said, resting a hand affectionately on his shoulder. "We're going to take it easy today. We need to let our bodies adjust to the altitude before we do any serious sightseeing."
 
@@ -2006,7 +2006,7 @@ He glanced over at Luna. She was staring at the stadium, too, her shoulders visi
 
 "You know what?" Luna said, a small, grateful smile playing on her lips. "I think I'm okay with the team being in Pittsburgh. Forty thousand people sounds like a sensory nightmare."
 
-"AGREED," Leo typed, hitting the play button emphatically. 
+<aac>Agreed,</aac> Leo typed, hitting the play button emphatically. 
 
 Olivia chuckled, patting Leo on the shoulder as the bus slowed for their stop. "Alright, no baseball for the fortress. Let's just go find some dinner."
 
@@ -2020,7 +2020,7 @@ The pack got off the Free MallRide in the heart of LoDo, the historic Lower Down
 
 "Well, there's always Rocky Mountain Oysters," Olivia suggested, pointing to a rustic-looking tavern across the street with a menu posted in the window. 
 
-Leo wrinkled his nose. He liked some seafood, but oysters seemed a bit slimy. "OYSTERS IN THE MOUNTAINS?" he typed, eyeing Olivia skeptically. The ocean was a thousand miles away. 
+Leo wrinkled his nose. He liked some seafood, but oysters seemed a bit slimy. <aac>Oysters in the mountains?</aac> he typed, eyeing Olivia skeptically. The ocean was a thousand miles away. 
 
 Olivia grinned, a mischievous glint in her green eyes. "Oh, they aren't from the ocean, Leo. They're bull testicles. Deep fried."
 
@@ -2084,7 +2084,7 @@ Olivia pushed Leo's wheelchair along a wide concrete path that snaked through a 
 
 Leo let his head rest back against his headrest, closing his eyes for a moment as they rolled into the dappled shade of a massive cottonwood tree. The deep, rumbling stress of the long train ride was finally melting out of his muscles. The environment here was perfectly structured. There were clear paths to follow, quiet places to sit, and no sudden, loud noises to startle him. 
 
-"THIS IS VERY NICE," he typed on his communicator, turning the volume up just enough to cut through the quiet splashing of a nearby fountain. 
+<aac>This is very nice,</aac> he typed on his communicator, turning the volume up just enough to cut through the quiet splashing of a nearby fountain. 
 
 "I'm glad you like it, buddy," Stella said, dropping onto a wooden bench near the fountain and taking a long drink of water. She looked completely relaxed, the guardian bear finally able to drop her defensive posture in the safe, enclosed environment. 
 
@@ -2112,7 +2112,7 @@ Beside him on a shaded bench, Luna wasn't faring any better. She had abandoned h
 
 Stella frowned, crouching down to press the back of her hand against Luna's forehead. "No fever. Just altitude sickness. You guys are dehydrated, and your bodies are working overtime just to pull oxygen into your blood."
 
-"THIS SUCKS," Leo typed slowly, his finger feeling heavy and uncoordinated. 
+<aac>This sucks,</aac> Leo typed slowly, his finger feeling heavy and uncoordinated. 
 
 "I know, buddy," Olivia sighed, rubbing the back of his neck gently. "I can feel it too. The air is just too thin for our East Coast lungs."
 
@@ -2164,7 +2164,7 @@ Leo groaned softly from his pile of pillows.
 
 "So, here is the new itinerary," Stella declared, walking over to pull the heavy blackout curtains closed over the window, plunging the room into a cool, soothing darkness. "We are officially in survival mode. Nobody moves. Nobody exerts themselves. We lie in these beds, we drink water, and we order room service until it is time to get on the DRT tomorrow morning."
 
-"BEST ITINERARY EVER," Leo typed, the text-to-speech voice sounding appropriately enthusiastic in the dark room. 
+<aac>Best itinerary ever,</aac> Leo typed, the text-to-speech voice sounding appropriately enthusiastic in the dark room. 
 
 "I thought you'd like that," Stella chuckled, kicking off her shoes and climbing into the bed next to the sleeping Luna. 
 
@@ -3192,6 +3192,74 @@ They traded numbers, and the two packs said their goodbyes. Leo and Oliver share
 
 Luna happily spun Leo's manual chair around, and the Fortress Four headed back across the street to the Sovereign Regency, perfectly content to retreat to their room and spend the rest of the day resting.
 
+### Part 5: The Fourth of July Realization
+
+**Date:** 2003-07-02 at 19:00 America/Los_Angeles
+
+The evening settled over San Francisco, bringing a thick, comforting fog that rolled off the bay and wrapped around The Sovereign Regency. Inside their corner suite, the curtains were drawn tight. The ambient lighting was turned down low, casting a warm, muted glow across the plush carpet. 
+
+After the auditory assault of the Embarcadero, the pack was in full decompression mode. They had ordered a massive spread of room service—baskets of fries, grilled cheese sandwiches for Luna, a custom pureed soup for Leo, and a decadent slice of chocolate cake that Stella and Olivia were splitting. 
+
+Leo was out of his chair, sprawled comfortably on the thick duvet of the master bed. Olivia sat right beside him, cross-legged, leaning against the headboard as they watched a muted nature documentary on the television. 
+
+Down on the floor, Luna was meticulously arranging a set of colorful dominoes in a spiraling pattern, enjoying the quiet, predictable clack of the plastic tiles. 
+
+Stella was at the small writing desk, casually flipping through a local tourism brochure. "You know, despite the sensory landmine down by the Ferry Building, this is a really beautiful city," she remarked softly, taking a sip of her coffee. "We still have two full days left before we have to pack up and head to the Amtrak station for the Coast Starlight."
+
+She flipped a page in the brochure. A brightly colored advertisement spanned the centerfold: a massive, bursting firework over the Golden Gate Bridge, with bold text that read: **San Francisco's Annual Fourth of July Extravaganza! Join us on the waterfront for the loudest, brightest show on the West Coast!**
+
+Stella froze. Her coffee cup halted halfway to her mouth. 
+
+She slowly lowered the cup and stared at the date on her watch. It was July 2nd. 
+
+"Oh my god," Stella whispered, the color draining from her face. 
+
+Olivia looked over from the bed, sensing the sudden shift in Stella's posture. "What is it?"
+
+"The Fourth of July," Stella said, her voice tight with rising panic. "It's the day after tomorrow."
+
+Luna paused her domino building, looking up with a slight frown. 
+
+"We're on the waterfront," Stella continued, turning the brochure around so Olivia could see the advertisement. "We are staying in a high-rise hotel right next to the Embarcadero. They shoot the fireworks off barges in the bay. It's going to sound like a warzone."
+
+Leo's eyes went wide. He hated sudden, loud noises more than anything. Thunderstorms were bad enough, but fireworks—especially professional, concussive fireworks meant to echo across a massive body of water—were paralyzing. The pressure changes alone would feel like physical blows to his highly sensitive nervous system.
+
+<aac>Too loud,</aac> Leo typed quickly on his MagnaByte Scribe, his fingers trembling slightly. <aac>Will it shake the glass?</aac>
+
+"I don't know, buddy," Stella admitted, running a hand through her hair. "But it's going to be incredibly loud. And there will be crowds everywhere outside. We can't go anywhere."
+
+Olivia reached out, placing a firm, grounding hand on Leo's shoulder. She could feel the sudden, rigid tension in his muscles. "Hey. We're safe in here. The windows are thick."
+
+"But they're not soundproof," Stella argued, already pacing the short length of the room. "Not against military-grade explosives going off a mile away. What do we do? Do we try to leave early? Change our train tickets?"
+
+"Wait," Olivia said, her eyes lighting up with an idea. She reached into her pocket and pulled out her flip phone. "What about Isabel and her family?"
+
+Stella stopped pacing. "What about them?"
+
+"Isabel gave us her number," Olivia explained, flipping the phone open. "Oliver, Sophia, and Eleanor are all autistic. If Leo and Luna can't handle the fireworks, there is absolutely no way they can handle them either. Especially Oliver, with his acoustic sensitivity. Let's ask them what they're doing. They're college kids, they must have a survival plan."
+
+Stella let out a long breath, a glimmer of hope returning to her eyes. "That's brilliant, Olivia. Text her."
+
+Olivia quickly typed out a message on the T9 keypad. 
+
+*Hey Isabel, it's Olivia (from the Embarcadero). Stella just realized it's almost July 4th and we are right on the water. The fireworks are going to be a sensory nightmare for Leo and Luna. What is your family doing to survive the noise? Are you leaving the city?*
+
+She hit send. 
+
+The suite was quiet for two agonizingly long minutes, save for the soft murmur of the television and the distant hum of the city traffic. Leo watched Olivia's phone intently, his breathing shallow. 
+
+Then, the phone buzzed. 
+
+Olivia flipped it open and read the message aloud. 
+
+*Hi Olivia! We were just talking about that. No, we aren't leaving. Oliver found out that the Sovereign Regency has a sub-basement conference room that is completely interior—no windows, heavy concrete walls. We rented it for the night of the 4th. We are bringing sleeping bags, snacks, and a portable TV to have an indoor 'bunker picnic' while the city explodes outside. Tell Stella you are officially invited.*
+
+Stella slumped against the desk in sheer relief. "Oh, thank God for engineering students."
+
+Leo's shoulders dropped an inch. He looked up at Olivia, a small, hopeful smile breaking through his anxiety. 
+
+<aac>Bunker picnic,</aac> Leo typed, the synthesized voice sounding strangely cheerful in the quiet room. <aac>I like that plan.</aac>
+
 ## Chapter 98
 
 ### Part 1: The Shattering
@@ -3438,7 +3506,7 @@ Leo, seeing his sister was awake and talking, also began to stir. He shakily rea
 
 Luna nodded, taking a menu. "Comfort food," she whispered.
 
-Leo agreed, typing on his Communicator. "FRENCH TOAST. BACON. APPLE JUICE."
+Leo agreed, typing on his Communicator. <aac>French toast. Bacon. Apple juice.</aac>
 
 "Me too," Luna echoed, her voice barely audible.
 
@@ -3460,7 +3528,7 @@ The morning after their nightmare-fueled night was a study in fragile quiet. The
 
 After the tray was cleared, Leo, feeling the grime of the previous day's travel and the emotional residue of the night, looked at Stella with a pleading expression. He typed a simple, desperate request on his Quantum Communicator.
 
-"I NEED A SHOWER. PLEASE. WASH AWAY THE GRIEF."
+<aac>I need a shower. Please. Wash away the grief.</aac>
 
 "Of course, buddy," Stella said automatically, her caregiver instincts kicking in. "Let's get you cleaned up."
 
@@ -3810,7 +3878,7 @@ Their next destination was Commonwealth Home & Apparel, a large department store
 
 He borrowed Olivia's phone and typed, his thumb moving with a slow, deliberate purpose that commanded their attention. He held the screen up for Stella and Luna to read.
 
-"STELLA? LUNA? THIS... THIS IS WHAT I WANT. OLIVIA. IN MY ROOM. WITH ME. NOT JUST FOR NOW. FOR ALWAYS. IS THAT OKAY?"
+<aac>Stella? Luna? This... This is what I want. Olivia. In my room. With me. Not just for now. For always. Is that okay?</aac>
 
 The question hung in the air, full of vulnerability and hope.
 
@@ -3852,7 +3920,7 @@ With the practiced ease of a tech-savvy student, she unboxed the device, connect
 
 Leo held the small device in his hands. It wasn't his full voice, but it was <aac>his</aac>. A tool of his own, free from the overwhelming complexity of a modern OS. The feeling of agency was immense.
 
-The food arrived, and Leo's face lit up. In front of him sat the perfect burger. He took the first bite, a look of pure, unadulterated bliss on his face. As the group chatted and planned, he was no longer a passive observer. Happy and engaged, he picked up his new Scribe. Tapping the simple screen with the stylus, he wrote his own suggestion. The device's tinny, robotic voice spoke the words: "PAINTING IS A GOOD IDEA. CAN WE PUT THE SHELVES BY THE WINDOW?"
+The food arrived, and Leo's face lit up. In front of him sat the perfect burger. He took the first bite, a look of pure, unadulterated bliss on his face. As the group chatted and planned, he was no longer a passive observer. Happy and engaged, he picked up his new Scribe. Tapping the simple screen with the stylus, he wrote his own suggestion. The device's tinny, robotic voice spoke the words: <aac>Painting is a good idea. Can we put the shelves by the window?</aac>
 
 "Absolutely, Leo," Stella confirmed instantly. "By the window it is. It's your room."
 
@@ -3890,7 +3958,7 @@ The last of the boxes were cleared away, and the family stood in the doorway, ad
 
 But the long, emotionally charged day had taken its toll. A wave of profound exhaustion washed over Leo, the adrenaline that had fueled him through the shopping spree finally gone. He looked pale and utterly spent. He lifted his new MagnaByte Scribe and typed, his stylus moving slowly across the screen. He showed it to Olivia first.
 
-"SO TIRED. CAN WE TRY THE NEW BED? LIV, WILL YOU TRY IT WITH ME?"
+<aac>So tired. Can we try the new bed? Liv, will you try it with me?</aac>
 
 "Of course," Olivia whispered, her own weariness evident in her soft smile.
 
@@ -3916,7 +3984,7 @@ As they all sat around the dining room table, enjoying the simple, perfect meal,
 
 The relaxed atmosphere at the table instantly tensed. Leo froze, the sandwich in his hand forgotten. The thought of returning to the CCHR Norfolk campus—the place where he'd met Delores—was a punch to the gut. As far as he knew, she was back in Virginia now, and he couldn't bear the thought of seeing her in the hallway or, worse, in the very class they had once shared.
 
-He reached for his new MagnaByte Scribe, his stylus tapping the screen with a new, frantic energy. The robotic voice was flat, but the words were filled with panic: "NO. CANNOT GO BACK. NOT THIS SEMESTER. DELORES... SHE WILL BE THERE. WE MET IN CLASS. I CANNOT SEE HER. PLEASE."
+He reached for his new MagnaByte Scribe, his stylus tapping the screen with a new, frantic energy. The robotic voice was flat, but the words were filled with panic: <aac>No. Cannot go back. Not this semester. Delores... She will be there. We met in class. I cannot see her. Please.</aac>
 
 "Okay," Stella said instantly, her voice firm and reassuring, cutting off any potential for debate. "Okay, Leo. You don't have to go back. Not now. We'll call the school on Monday and officially withdraw you for the rest of the semester. We can cite medical reasons. Your safety is the only thing that matters. You will *not* have to see her."
 
@@ -3932,7 +4000,7 @@ A shuddering breath of pure relief escaped Leo. The fear of being forced back in
 
 The relief in the room was palpable. The pressure to return to a place of trauma was gone, but a new question of "what next?" hung in the air. After a moment of quiet thought, Leo picked up his MagnaByte Scribe. He looked at Stella, a new idea clearly forming. The robotic voice spoke his hopeful question:
 
-"WHAT ABOUT VIRGINIA BEACH? CCHR? WE TOURED IT... IN HIGH SCHOOL. IT WAS NICE. SAFE."
+<aac>What about virginia beach? Cchr? We toured it... In high school. It was nice. Safe.</aac>
 
 Stella's face brightened instantly. "The Virginia Beach campus... Leo, that's a brilliant idea! Of course! It's so much closer, and we all liked it when we toured it. It felt so much more open than the Norfolk campus."
 
@@ -3982,7 +4050,7 @@ Finally, after an hour of focused effort, it was done. Stella clicked the final 
 
 Success. All three of them. Same classes. Same schedule.
 
-Leo looked at the paper in his hands—a tangible map of his future, created on the very same day he was rescued. He wasn't just going back to school. He was going back surrounded by his protectors, his best friends, his family. He picked up his MagnaByte Scribe and typed a message for them all to see, the robotic voice clear and steady in the quiet room: "I AM NOT AFRAID ANYMORE."
+Leo looked at the paper in his hands—a tangible map of his future, created on the very same day he was rescued. He wasn't just going back to school. He was going back surrounded by his protectors, his best friends, his family. He picked up his MagnaByte Scribe and typed a message for them all to see, the robotic voice clear and steady in the quiet room: <aac>I am not afraid anymore.</aac>
 
 ### Part 15: The First Peaceful Sleep
 
@@ -3990,7 +4058,7 @@ Leo looked at the paper in his hands—a tangible map of his future, created on 
 
 The triumphant energy from their successful college registration slowly gave way to a profound, bone-deep exhaustion that settled over the entire house. It had been a day of immense emotional swings and non-stop activity.
 
-It was just before 9 PM when Leo, feeling the heavy pull of sleep, lifted his MagnaByte Scribe. The tinny voice spoke his message to the quiet living room: "SO TIRED. OLIVIA TOO. CAN WE GO TO BED NOW? WANT TO FIX TIME ZONE."
+It was just before 9 PM when Leo, feeling the heavy pull of sleep, lifted his MagnaByte Scribe. The tinny voice spoke his message to the quiet living room: <aac>So tired. Olivia too. Can we go to bed now? Want to fix time zone.</aac>
 
 "Go," Stella said, her voice soft with love. "You've both more than earned it. Go enjoy your new room."
 
@@ -4002,7 +4070,7 @@ After saying their goodnights, Leo and Olivia headed to their transformed bedroo
 
 Leo's breath hitched. A small, sharp sound of distress escaped him, and he reached out a hand, his eyes wide with a sudden, raw panic. The thought of her leaving the room, of the door closing and him being alone, was a terrifying echo of the horror in Kent.
 
-"STAY," he typed frantically on his Scribe. "PLEASE. DON'T GO. AFRAID."
+<aac>Stay,</aac> he typed frantically on his Scribe. <aac>Please. Don't go. Afraid.</aac>
 
 Olivia stopped instantly, her heart aching as she saw the genuine terror on his face. She immediately understood. It wasn't about privacy; it was about her presence. "Okay," she whispered, her voice impossibly gentle as she put her bag down. "Okay, Leo. I won't leave. I'm right here."
 

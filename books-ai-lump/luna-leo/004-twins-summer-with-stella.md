@@ -17,7 +17,7 @@ They'd heard the upperclassmen's "Unofficial Orientation" earlier that morning. 
 
 They found a table, and as they settled in with their lukewarm pizza, the relative peace was shattered.
 
-"PENIS!"
+<aac>Penis!</aac>
 
 The shout, loud and arrogant, came from a few tables over. Luna nearly choked on her milk.
 
@@ -73,7 +73,7 @@ Suddenly, a loud disruption cut through the ambient noise. Josh Riley, the bane 
 
 Then, an incredible sound erupted. The girl at the nearby table – Chloe Mason, Luna recalled hearing – was suddenly on her feet. Her voice was sharp and surprisingly fierce, unleashing a torrent of what sounded like… French? But a fiery, rapid-fire French Luna had never heard in her school classes.
 
-"TABAROUETTE, RILEY!" Chloe spat, continuing with a string of passionate, clearly insulting words.
+<aac>Tabarouette, riley!</aac> Chloe spat, continuing with a string of passionate, clearly insulting words.
 
 "Whoa," Luna breathed to Leo, completely forgetting her band story. "What language is that? She’s furious!"
 

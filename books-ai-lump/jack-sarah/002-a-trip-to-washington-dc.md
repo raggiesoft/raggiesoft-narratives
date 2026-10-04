@@ -203,7 +203,7 @@ They got on the train and Jack was happy to sit down, and grateful that he got t
 
 “Come into my room please and help me get undressed,” She replied.
 
-“OK,” Jack said, and followed her as she wobbled on crutches to her bedroom. Once they arrived in her room, he said, “I suppose I should shut my eyes.”
+<aac>Ok,</aac> Jack said, and followed her as she wobbled on crutches to her bedroom. Once they arrived in her room, he said, “I suppose I should shut my eyes.”
 
 “Honestly, I don’t care if you see stuff. If you’re going to help me in the tub, you’re going to have to look anyway,” she said.
 

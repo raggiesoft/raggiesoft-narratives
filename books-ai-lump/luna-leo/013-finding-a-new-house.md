@@ -31,7 +31,7 @@ Leo sat up. He felt the cool morning air of New England hit his skin. It was dif
 
 He reached for his Quantum Communicator on the nightstand.
 
-"SYSTEM ONLINE," the robotic voice whispered at 10% volume. "ORIENTATION DAY."
+<aac>System online,</aac> the robotic voice whispered at 10% volume. <aac>Orientation day.</aac>
 
 "Orientation Day," Luna echoed, finally rolling away and sitting up, her hair a mess. "Let's go get our free t-shirts."
 
@@ -61,7 +61,7 @@ Eleanor was already there, fully dressed in a sensible cardigan. The coffee pot 
 
 Leo rolled in on his Titan X-Treme. He raised his seat to table height. He grabbed a glass of coffee milk.
 
-"FUEL," he typed.
+<aac>Fuel,</aac> he typed.
 
 "Do we have the gear?" Stella asked, checking her bag.
 
@@ -75,7 +75,7 @@ Stella looked at the clock. 06:45 AM.
 
 Leo looked out the window. The sun was up. The sidewalk was dry.
 
-"WE ROLL," he typed. "WAKE UP THE MOTORS."
+<aac>We roll,</aac> he typed. <aac>Wake up the motors.</aac>
 
 "We roll," Stella agreed.
 
@@ -111,7 +111,7 @@ They rolled into the warm, carpeted Coach car. It was quieter than the commuter 
 
 Leo parked in the rear bay. He plugged in his Scribe.
 
-"ACCIDENTAL UPGRADE," he typed.
+<aac>Accidental upgrade,</aac> he typed.
 
 "We take the wins where we find them," Stella said, shaking out her umbrella.
 
@@ -176,7 +176,7 @@ Luna leaned down. She wrapped her arms around his neck. Leo hugged her back, har
 
 "Go be brilliant," she whispered.
 
-"GO BE LOUD," Leo typed.
+<aac>Go be loud,</aac> Leo typed.
 
 He kissed her cheek. She kissed his forehead.
 
@@ -281,7 +281,7 @@ The girl on his right—Amanda (Civil Engineering)—put a hand on the desk leg 
 
 Leo nodded. He adjusted his glasses. He tapped his Quantum Communicator.
 
-"BAD CARGO MANAGEMENT," the robotic voice whispered (volume set to 10%). "NO TRUNK."
+<aac>Bad cargo management,</aac> the robotic voice whispered (volume set to 10%). <aac>No trunk.</aac>
 
 Sarah looked at the chair. She looked at the book sliding on his slick pants. She ignored the guy behind her who was trying to get her attention to ask for a pencil.
 
@@ -291,7 +291,7 @@ Leo’s eyes lit up. He minimized his notes window and opened a CAD file he had 
 
 He tilted the screen so Sarah and Amanda could see.
 
-"PROJECT M.U.L.E.," Leo typed.
+<aac>Project m.u.l.e.,</aac> Leo typed.
 
 Amanda leaned in, ignoring the lecture completely. "Cantilevered off the rear rail? That's smart. Keeps the center of gravity low over the axle. Good for static loads."
 
@@ -311,7 +311,7 @@ The unspoken translation: He’s taken. He’s serious. He isn't going to ask us
 
 Leo nodded. He didn't just have classmates. He had a team.
 
-"AFFIRMATIVE," he typed. "SEE YOU AT 1400."
+<aac>Affirmative,</aac> he typed. <aac>See you at 1400.</aac>
 
 The three of them turned back to the front, ignoring the rest of the room, united by the only thing that mattered: The Work.
 
@@ -388,15 +388,15 @@ They didn't look like Delores. They didn't look like predators. They looked tire
 
 Leo tapped his Quantum Communicator.
 
-"STELLA. OLIVIA. LUNA. THIS IS THE COHORT."
+<aac>Stella. Olivia. Luna. This is the cohort.</aac>
 
 He pointed to his left.
 
-"SARAH. MECHANICAL. SHE IS IN FR-Q WITH US."
+<aac>Sarah. Mechanical. She is in fr-q with us.</aac>
 
 He pointed to his right.
 
-"AMANDA. CIVIL. SHE UNDERSTANDS STATIC LOADS."
+<aac>Amanda. Civil. She understands static loads.</aac>
 
 "Hi," Sarah said, giving a small, respectful wave. "Leo said you guys held the table. Hope it's okay if we crash. The line for the pizza station is insane."
 
@@ -436,7 +436,7 @@ They weren't trying to help him because he was helpless. They were optimizing hi
 
 Leo tapped his screen.
 
-"PRECISION IS SAFETY."
+<aac>Precision is safety.</aac>
 
 "Exactly," Amanda agreed.
 
@@ -526,7 +526,7 @@ He looked at the AP student.
 
 Leo tapped his **Quantum Communicator**.
 
-*"THE TOURIST TAX,"* the robotic voice noted.
+<aac>The tourist tax,</aac> the robotic voice noted.
 
 "Exactly," Gagnon pointed at Leo. "Language is currency. If you use the wrong currency, you get ripped off."
 
@@ -623,7 +623,7 @@ Chad’s face turned a deep, violent shade of red. He had just tried to hit on t
 
 Leo, watching from his Titan, tapped his **Quantum Communicator**.
 
-*"TARGETS UNAVAILABLE,"* the robotic voice announced to the silent room. *"GAME OVER."*
+<aac>Targets unavailable,</aac> the robotic voice announced to the silent room. <aac>Game over.</aac>
 
 
 Dr. Gagnon, who had been watching the entire exchange with a look of pure delight, clapped his hands.
@@ -674,7 +674,7 @@ Olivia sat back down. She looked at Leo. She touched her ring against his armres
 
 "Thanks," Olivia whispered. "He annoyed me."
 
-*"HE IS A TABERNACLE OF GARBAGE,"* Leo agreed. *"DATA VERIFIED."*
+<aac>He is a tabernacle of garbage,</aac> Leo agreed. <aac>Data verified.</aac>
 
 From that day on, nobody in the class messed with the Fortress. And Elspeth the Scot became their unofficial bodyguard for any insults that required a hard 'R'.
 
@@ -728,7 +728,7 @@ Leo looked at the empty seats where Chad used to be. He looked at Olivia.
 
 He tapped his **Quantum Communicator**.
 
-*"PURGE COMPLETE,"* the robotic voice announced.
+<aac>Purge complete,</aac> the robotic voice announced.
 
 "We kept the fighters," Olivia agreed. "Now teach me how to swear in Scottish, Elspeth."
 
@@ -746,7 +746,7 @@ Sarah and Amanda were already there, standing by a layout table near the waterje
 
 Leo rolled up to the bench. He tapped his Quantum Communicator.
 
-"EFFICIENT," the robotic voice said. "LET'S MEASURE."
+<aac>Efficient,</aac> the robotic voice said. <aac>Let's measure.</aac>
 
 He parked his Titan X-Treme. He didn't have to make small talk. He didn't have to explain his disability.
 
@@ -758,7 +758,7 @@ She knelt down next to his chair. She didn't look at his legs with pity; she loo
 
 "Quick release?" Sarah asked, sketching on a pad.
 
-"NECESSARY," Leo typed. "FOR BATTERY ACCESS."
+<aac>Necessary,</aac> Leo typed. <aac>For battery access.</aac>
 
 "Got it," Sarah said. "We'll use a spring-loaded pin system. Like a trailer hitch."
 
@@ -778,7 +778,7 @@ At 3:00 PM, Sarah held up a cardboard prototype of the bracket. She held it agai
 
 Leo grinned. He tapped his screen.
 
-"I DO NOT DO WHEELIES. I DO PRECISION MANEUVERS."
+<aac>I do not do wheelies. I do precision maneuvers.</aac>
 
 Amanda laughed—a dry, engineer's laugh. "Right. Precision maneuvers. Okay, I'll CAD this up tonight. We can cut the metal on Thursday."
 
@@ -802,7 +802,7 @@ Amanda joined in, patting his back. "Team effort. We're going to build the best 
 
 Leo tapped his Scribe.
 
-"GOOD TEAM," he typed.
+<aac>Good team,</aac> he typed.
 
 "Solid design," Sarah replied, putting her safety glasses away. "See you in French class, Leo."
 
@@ -942,11 +942,11 @@ They exchanged a look. Understood. He is safe here.
 
 Leo pulled back. He looked at Stella. He offered her a fist bump.
 
-"MISSION SUCCESS," he typed on his Scribe. "THE M.U.L.E. IS DESIGNED."
+<aac>Mission success,</aac> he typed on his Scribe. <aac>The m.u.l.e. Is designed.</aac>
 
 "Good," Stella said, not looking up from her code but smiling. "Did you measure twice?"
 
-"MEASURED THREE TIMES," Leo typed. "CUTTING THURSDAY."
+<aac>Measured three times,</aac> Leo typed. <aac>Cutting thursday.</aac>
 
 He gestured to the empty chairs. Sarah and Amanda sat down.
 
@@ -990,7 +990,7 @@ She looked at the door. Luna would be here any minute, flushed with victory from
 
 The Fortress was working. It wasn't just a wall anymore; it was a hub.
 
-"DATA SYNC," Leo typed, showing Amanda his screen.
+<aac>Data sync,</aac> Leo typed, showing Amanda his screen.
 
 "Solid," Amanda noted. "Let's run the render."
 
@@ -1059,7 +1059,7 @@ He turned to Amanda. He hugged her too.
 
 Luna watched. It was seamless. No awkwardness. Just affection.
 
-"GOOD NIGHT, COHORT," Leo typed.
+<aac>Good night, cohort,</aac> Leo typed.
 
 "Night, Leo," Amanda said. "Dream of aluminum brackets."
 
@@ -1153,13 +1153,13 @@ Luna finished the phrase. She lowered the flute. "My timing felt loose in the th
 
 Leo spun his chair around. He looked at her.
 
-"IT IS FLOATING," he typed on his Scribe. "YOU HAVE NO ANCHOR."
+<aac>It is floating,</aac> he typed on his Scribe. <aac>You have no anchor.</aac>
 
 "I know," Luna sighed. "I'm rushing. I need a metronome."
 
 She reached for her bag to get her digital click track.
 
-"NO," Leo typed rapidly. "DIGITAL IS COLD. YOU NEED PHYSICS."
+<aac>No,</aac> Leo typed rapidly. <aac>Digital is cold. You need physics.</aac>
 
 He looked at his hands. He remembered the feeling of holding mallets in high school. He remembered the specific, sharp impact of plastic on metal.
 
@@ -1171,31 +1171,31 @@ He closed his eyes. He imagined the sound. Ping. Ping. Ping. Clean. Sharp. Steel
 
 He opened his eyes.
 
-"I NEED A GLOCKENSPIEL," he typed.
+<aac>I need a glockenspiel,</aac> he typed.
 
 Luna blinked. "Bells? Like... orchestra bells?"
 
-"YES. ALUMINUM OR STEEL. HARD MALLETS."
+<aac>Yes. Aluminum or steel. Hard mallets.</aac>
 
 He rolled closer to her music stand.
 
-"THE FLUTE IS WATER," Leo typed, his fingers flying. "IT FLOWS. BUT WATER NEEDS A CHANNEL. I CAN BUILD THE CHANNEL WITH BELLS."
+<aac>The flute is water,</aac> Leo typed, his fingers flying. <aac>It flows. But water needs a channel. I can build the channel with bells.</aac>
 
 Luna pictured it. The bright, percussive attack of the bells marking the downbeat, while the flute wove the melody around it. It wasn't just accompaniment; it was a structural lattice.
 
 "You want to play?" Luna asked, a smile spreading across her face. "In here? With me?"
 
-"I CANNOT JUST LISTEN," Leo typed. "I AM PART OF THE SIGNAL. I NEED HARDWARE."
+<aac>I cannot just listen,</aac> Leo typed. <aac>I am part of the signal. I need hardware.</aac>
 
 "Portable hardware," Luna noted, looking at the door. "You have to carry it on the train."
 
 Leo nodded. He was already searching "Portable Bell Kit" on his browser. He found the Vanguard VK-900. It came in a backpack case. It weighed 15 pounds. It clamped to a table.
 
-"I CAN CARRY IT," he typed. "I WILL ENGINEER A RACK FOR THE CHAIR."
+<aac>I can carry it,</aac> he typed. <aac>I will engineer a rack for the chair.</aac>
 
 Luna laughed. "You really are an engineer. You're designing a mount for an instrument you haven't even bought yet."
 
-"LOGISTICS FIRST," Leo typed. "THEN MUSIC."
+<aac>Logistics first,</aac> Leo typed. <aac>Then music.</aac>
 
 "Okay," Luna said. "We tell Stella tonight. We get the bells. And then..." She raised her flute. "We make some noise."
 
@@ -1233,11 +1233,11 @@ Leo frowned. He looked confused. He looked at the ring on her finger.
 
 He reached for his Scribe on the nightstand.
 
-"WE ARE PARTNERS," he typed. "WE ARE MARRIED."
+<aac>We are partners,</aac> he typed. <aac>We are married.</aac>
 
 "We are partners," Olivia agreed, her voice trembling. "But we aren't married. Not like that."
 
-"I WANT YOU," Leo typed. "I AM A MAN. YOU ARE MY WOMAN."
+<aac>I want you,</aac> Leo typed. <aac>I am a man. You are my woman.</aac>
 
 Olivia closed her eyes. This was the moment she had dreaded. She sat up, turning on the lamp.
 
@@ -1260,7 +1260,7 @@ Leo looked at the table. He felt a burning shame, but mostly confusion. His body
 
 He tapped his Quantum Communicator.
 
-"I AM A MAN," he typed. "SHE IS MY WIFE. WE HAVE RINGS. WHY CAN'T I TOUCH HER?"
+<aac>I am a man,</aac> he typed. <aac>She is my wife. We have rings. Why can't I touch her?</aac>
 
 Stella reached out and covered his hand.
 
@@ -1272,7 +1272,7 @@ She pointed to the legal language: Findings of Fact: Incapacity.
 
 "Do you remember what this paper does?" Stella asked.
 
-"IT PROTECTS ME," Leo typed instantly. "IT KEEPS DELORES AWAY."
+<aac>It protects me,</aac> Leo typed instantly. <aac>It keeps delores away.</aac>
 
 "Yes," Stella said. "It protects you because the Court says you cannot make legal decisions for yourself. You can't sign a contract. You can't sell the house. It stops bad people from tricking you."
 
@@ -1286,13 +1286,13 @@ She pointed to Olivia.
 
 Leo stared at the paper. A dark memory surfaced. The guest room in Kent. The weight of Delores on his chest. The way she didn't care that he was frozen in fear.
 
-"DELORES WANTED IT," Leo typed slowly, his hand shaking. "SHE TRIED."
+<aac>Delores wanted it,</aac> Leo typed slowly, his hand shaking. <aac>She tried.</aac>
 
 Stella went still. A cold, dangerous light entered her eyes. She looked at the screen.
 
 "She tried?" Stella whispered. "Did she touch you?"
 
-"ALMOST," Leo typed. "SHE STOPPED BECAUSE I WAS SCARED. BUT SHE WANTED TO USE ME."
+<aac>Almost,</aac> Leo typed. <aac>She stopped because I was scared. But she wanted to use me.</aac>
 
 "Yes," Stella said, her voice hard as granite. "Delores was a predator. She wanted to use your body because she knew your mind couldn't stop her. She didn't care about the paper. She didn't care about you."
 
@@ -1312,13 +1312,13 @@ Leo processed the data.
 
 The shame vanished. Olivia wasn't rejecting him; she was guarding him.
 
-"OLIVIA IS SAFE," Leo typed.
+<aac>Olivia is safe,</aac> Leo typed.
 
 "She is," Stella said. "But to keep her safe—to keep her out of jail—you have to stop at the line."
 
 Leo looked at Luna.
 
-"AND US?" he typed. "WE ARE THE SAME. NO GUARDIANSHIP CONFLICT."
+<aac>And us?</aac> he typed. <aac>We are the same. No guardianship conflict.</aac>
 
 "But the paper still applies," Stella said, tapping the Incapacity line. "You are both twenty-one physically. But emotionally? In the way you process risk? You are younger. Imagine two fourteen-year-olds trying to navigate an adult relationship alone. It would be a disaster."
 
@@ -1328,7 +1328,7 @@ She took a breath.
 
 Leo’s head snapped up. Separation.
 
-"NO," he typed rapidly. "LUNA STAYS."
+<aac>No,</aac> he typed rapidly. <aac>Luna stays.</aac>
 
 "Then the line stands," Stella said. "No sex. With anyone. Ever. That is the price of the Fortress."
 
@@ -1342,7 +1342,7 @@ She held up one finger.
 
 She looked at them. "Do you need that?"
 
-"YES," Leo and Luna nodded in unison.
+<aac>Yes,</aac> Leo and Luna nodded in unison.
 
 "That is legal," Stella promised. "That is Care. That is allowed. You never have to stop that."
 
@@ -1356,7 +1356,7 @@ Leo looked at Olivia. He looked at Luna. He looked at Stella.
 
 He realized that his love for them was bigger than sex. His love was survival.
 
-"SYSTEM UPDATE," he typed. "DEFINITION A ONLY. NO SEX. ONLY LOVE."
+<aac>System update,</aac> he typed. <aac>Definition a only. No sex. Only love.</aac>
 
 "Only love," Olivia whispered, reaching out to take his hand again.
 
@@ -1366,7 +1366,7 @@ Stella stood up. She kissed Leo’s forehead.
 
 "You're safe, Leo. You don't have to grow up any faster than you are. We've got the adult stuff handled."
 
-"FORTRESS SECURE," Leo typed.
+<aac>Fortress secure,</aac> Leo typed.
 
 "Fortress secure," Stella agreed. "Now, finish your chocolate. It's midnight. Who wants toast?"
 
@@ -1418,7 +1418,7 @@ The Fortress had secured the best seats in the house. Because the theater was bu
 
 Leo tapped his Quantum Communicator.
 
-"TARGET ACQUIRED," he typed. "FLUTE SECTION. FRONT ROW. STAGE RIGHT."
+<aac>Target acquired,</aac> he typed. <aac>Flute section. Front row. Stage right.</aac>
 
 The lights dimmed. The audience hushed.
 
@@ -1430,7 +1430,7 @@ Luna stood up. She played the A-440. Pure. Steady. Dark. The entire band tuned t
 
 Leo watched the waveform on his laptop (he was recording the audio for analysis). It was a flat line. Perfect pitch.
 
-"CALIBRATION COMPLETE," he typed.
+<aac>Calibration complete,</aac> he typed.
 
 ### Part 3: The Vivaldi
 
@@ -1513,7 +1513,7 @@ Stella saw the hesitation. She stepped forward.
 It wasn't an offer; it was an order. The girls smiled, relieved. They were part of the pack.
 
 
-"Let's move," Leo typed. "THE TUNNELS ARE WARM."
+"Let's move," Leo typed. <aac>The tunnels are warm.</aac>
 
 They accessed the Bull Run connection. They walked the long, bright corridor from Arts Alley to the Station.
 
@@ -1536,7 +1536,7 @@ OUTSIDE TEMP: 28°F. PRECIPITATION: LIGHT SNOW.
 
 He looked at his joystick. He pulled a clear, heavy-duty plastic cover (custom-molded by Sarah in the machine shop) over the controller.
 
-"WATERPROOFING ENGAGED," he typed.
+<aac>Waterproofing engaged,</aac> he typed.
 
 
 The train hissed to a halt. They stepped off.
@@ -1547,7 +1547,7 @@ The world was white. About two inches of fresh snow covered the platform, crunch
 
 Leo rolled forward. His heavy drive tires gripped the wet concrete.
 
-"TORQUE IS GOOD," he typed. "KEEP THE SPEED LOW."
+<aac>Torque is good,</aac> he typed. <aac>Keep the speed low.</aac>
 
 They took the ramp down to the street.
 
@@ -1572,7 +1572,7 @@ Leo stopped. He stared at the clear path. The Public Works crew hadn't just clea
 
 He felt a lump in his throat. He wasn't just a resident; he was a neighbor.
 
-"THEY CLEARED THE PATH," he typed.
+<aac>They cleared the path,</aac> he typed.
 
 "They know you have to get home," Stella said, her voice thick. "Come on. Let's not waste their work."
 
@@ -1597,7 +1597,7 @@ Leo rolled to his charging station. He peeled off the wet joystick cover. He was
 
 He looked at Sarah and Amanda, who were looking around the massive, beautiful house with wide eyes.
 
-"WELCOME TO BASE," Leo typed.
+<aac>Welcome to base,</aac> Leo typed.
 
 "It's amazing," Sarah whispered.
 
@@ -1646,11 +1646,11 @@ He looked at the screen.
 
 Leo sat up. He tapped his Quantum Communicator.
 
-"HE IS PINGING YOU."
+<aac>He is pinging you.</aac>
 
 Sarah looked up, terrified. "He knows I'm not in the dorm. The GPS puts me in a residential neighborhood. He's going to call and ask whose house this is."
 
-"HARDWARE OVERRIDE," Leo typed.
+<aac>Hardware override,</aac> Leo typed.
 
 He reached out his hand. "Phone," he signaled.
 
@@ -1658,7 +1658,7 @@ Sarah hesitated, then handed him the device.
 
 Leo didn't turn it off. He flipped it over. He pressed the latch on the back cover and popped the battery out. The screen went black instantly.
 
-"CONNECTION SEVERED," Leo typed. "NO POWER. NO PING."
+<aac>Connection severed,</aac> Leo typed. <aac>No power. No ping.</aac>
 
 "But... if I don't answer..." Sarah started to hyperventilate. "He tracks my debit card too. If I buy a coffee, he calls me to ask why I'm spending money."
 
@@ -1713,7 +1713,7 @@ Amanda moved from the floor to the sofa, wrapping her arms around Sarah. Luna jo
 
 Leo rolled his chair closer. He put his hand on Sarah’s knee.
 
-"YOU ARE OFF THE GRID," Leo typed. "YOU ARE SAFE IN THE FORTRESS."
+<aac>You are off the grid,</aac> Leo typed. <aac>You are safe in the fortress.</aac>
 
 "You're a ghost, Sarah," Stella said gently, tossing the tracking-enabled debit card into the fireplace. "Let him track that."
 
@@ -1770,7 +1770,7 @@ Leo looked at Sarah. He knew that threat. Incapacity. It was the weapon they use
 
 He tapped his Quantum Communicator.
 
-"HE IS BRINGING CHAINS."
+<aac>He is bringing chains.</aac>
 
 Judge Miller walked to the center of the room, his black robe swirling around his pajama pants. He looked at the radio. He looked at the snow falling outside.
 
@@ -1809,7 +1809,7 @@ Sarah looked up. She looked at the Judge, who was adjusting his robe. She looked
 
 She wasn't a fugitive anymore. She was a Defendant in a court that was already on her side.
 
-"HE IS COMING," Leo typed. "BUT THE FORTRESS IS READY."
+<aac>He is coming,</aac> Leo typed. <aac>But the fortress is ready.</aac>
 
 "Let him come," Sarah whispered, wiping her eyes. "I'm not going back."
 
@@ -1843,7 +1843,7 @@ He looked at the station building. Through the large plate glass window, he saw 
 
 Leo tapped his **Quantum Communicator**.
 
-*"INTRUDER ALERT,"* the robotic voice cut through the chatter. *"TARGET ACQUIRED."*
+<aac>Intruder alert,</aac> the robotic voice cut through the chatter. <aac>Target acquired.</aac>
 
 Sarah looked up. She saw the man coming toward the door. She went pale.
 
@@ -2004,7 +2004,7 @@ Sarah looked down at him. She saw Leo. The boy who had been kidnapped. The boy w
 
 Leo tapped his **Quantum Communicator**.
 
-*"HE IS GONE,"* the robotic voice said softly. *"THE BADGE STOPPED HIM."*
+<aac>He is gone,</aac> the robotic voice said softly. <aac>The badge stopped him.</aac>
 
 Sarah squeezed his hand. "He... he looked so mad. He's never been arrested. He always wins."
 
@@ -2123,7 +2123,7 @@ Sarah didn't flinch. She watched the man who had terrorized her for eighteen yea
 
 Leo, sitting in the aisle in his Titan, tapped his **Quantum Communicator**.
 
-*"HE WAS A GHOST,"* the robotic voice said. *"NOW HE IS CAUGHT."*
+<aac>He was a ghost,</aac> the robotic voice said. <aac>Now he is caught.</aac>
 
 "He's gone," Stella whispered, holding Sarah tight. "He's really gone."
 
@@ -2298,7 +2298,7 @@ Leo rolled up to her. He raised his seat elevator to look her in the eye.
 
 He tapped his **Quantum Communicator**.
 
-*"HELLO MAYA,"* the robotic voice said. *"NICE UPGRADE."*
+<aac>Hello maya,</aac> the robotic voice said. <aac>Nice upgrade.</aac>
 
 Maya smiled. It was a real smile.
 
@@ -2526,7 +2526,7 @@ She pulled into the gas station down the street.
 Maya got out. She pumped the gas. It was a simple act—something she had done a hundred times in Ohio for her father—but this time, she was using Stella’s card, filling Stella’s car, for a trip *she* was driving. It felt like freedom.
 
 
-<aac>Head north,</aac> Leo typed. <aac>"ENTER I-895 AT EXIT 3."</aac>
+<aac>Head north,</aac> Leo typed. <aac><aac>Enter I-895 at exit 3.</aac></aac>
 
 Maya merged onto the arterial road. She accelerated onto the on-ramp for **I-895 East** (signed North).
 
@@ -2548,7 +2548,7 @@ Maya didn't flinch. She tapped the gas, surged ahead of the truck, and signaled 
 
 "Nice move," Stella said approvingly. "Assertive."
 
-*"GOOD CALCULATIONS,"* Leo agreed.
+<aac>Good calculations,</aac> Leo agreed.
 
 
 They crossed the **Jamestown Bridge**. Maya kept her hands steady as the wind buffeted the car.
@@ -2576,11 +2576,11 @@ She stopped at the traffic light at the bottom.
 
 Directly across the intersection was the massive, hulking concrete structure of the **Former Newport Jai Alai** (now a slot parlor). It looked like a bunker.
 
-"RIGHT TURN," Leo instructed. "Follow **Admiral Kalbfus Road**. We're taking the back way to Newport."
+<aac>Right turn,</aac> Leo instructed. "Follow **Admiral Kalbfus Road**. We're taking the back way to Newport."
 
 His next instruction was to have Maya make a left onto Farewell Street. The streets of Newport were narrow, colonial, and crowded even in winter. Maya threaded the wide Sentinel through the traffic on **America's Cup Avenue**.
 
-*"RIGHT ON BELLEVUE,"* Leo directed.
+<aac>Right on bellevue,</aac> Leo directed.
 
 They turned onto the legendary avenue. The mansions rose up on either side—massive stone palaces behind iron gates.
 

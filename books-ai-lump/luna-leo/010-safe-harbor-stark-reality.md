@@ -39,7 +39,7 @@ Ready for the day, they headed out of their new sanctuary together, drawn by the
 
 The peaceful aftermath of breakfast settled over the house. Arthur and Eleanor had left for the day, leaving the four of them—Stella, Luna, Leo, and Olivia—to enjoy a quiet Saturday. As they relaxed in the living room, Leo, who had clearly been thinking about more than just the immediate day, broke the comfortable silence.
 
-He held up his MagnaByte Scribe, the robotic voice articulating the thought he and Olivia had obviously been discussing: "STELLA? OLIVIA AND I WERE TALKING. ABOUT OUR ROOM. WE WERE WONDERING... COULD WE PAINT THE WALLS? AND MAYBE... GET NEW CARPET? MAKE IT REALLY OURS."
+He held up his MagnaByte Scribe, the robotic voice articulating the thought he and Olivia had obviously been discussing: <aac>Stella? Olivia and I were talking. About our room. We were wondering... Could we paint the walls? And maybe... Get new carpet? Make it really ours.</aac>
 
 Olivia chimed in immediately, her expression hopeful. "Yeah, Stel. We thought it would be a great project, to really make it our own space, you know? Completely fresh."
 
@@ -61,7 +61,7 @@ Their first stop was the paint department, an overwhelming kaleidoscope of color
 
 "Okay, mission control," Stella said, grabbing a shopping cart. "Where do we start?"
 
-Leo, using his MagnaByte Scribe, typed his first directive. "BLUE. FOR OUR ROOM."
+Leo, using his MagnaByte Scribe, typed his first directive. <aac>Blue. For our room.</aac>
 
 "An excellent choice," Olivia agreed, already scanning the endless shades. "But which blue? There's like... a million of them."
 
@@ -151,7 +151,7 @@ They wrapped him in three thick, fluffy towels, lifting him from the tub with in
 
 His hands were still shaking slightly, but he managed to slowly tap out a message. The robotic voice cut through the lingering sniffles in the room:
 
-"HEAD WAS ON FIRE. BUT BETTER NOW WITH COLD WATER. I KNOW YOU DID NOT MEAN IT. STILL MY SAFE PEOPLE."
+<aac>Head was on fire. But better now with cold water. I know you did not mean it. Still my safe people.</aac>
 
 Olivia knelt and rested her forehead against his knee, letting out a long, shuddering breath. The routine had shattered, but the fortress had held. They had survived another phantom of Delores's abuse, and as Stella made a mental note to call a dermatologist first thing Monday morning, they knew they would never let him be hurt like that again.
 
@@ -237,7 +237,7 @@ Stella, sensing he might need it, gently began to rub his back in slow, steady c
 
 After nearly an hour of quiet music and gentle, grounding touch, Leo finally felt ready. He reached for his Scribe and typed a simple request.
 
-"HUNGRY."
+<aac>Hungry.</aac>
 
 Stella smiled, the first bright, genuine smile of the morning. "Okay, buddy," she said softly. "I think we can manage that. How about some pancakes?"
 
@@ -407,7 +407,7 @@ The agents saw the flinch but waited, allowing him space. Agent Chen's voice bec
 
 Leo, shaking his head with frantic energy, began to type on his Scribe. The robotic voice that came out was flat, but the words were a torrent of denial.
 
-**Leo's Scribe:** "NO. NEVER. SHE NEVER TOUCHED ME THERE. NEVER. THAT IS... DISGUSTING. NO."
+**Leo's Scribe:** <aac>No. Never. She never touched me there. Never. That is... Disgusting. No.</aac>
 
 The agents exchanged a look, this time one of dawning understanding. His flinch wasn't a memory of trauma; it was a reaction of pure horror to the concept. He wasn't reliving an act; he was repulsed by the suggestion of it.
 
@@ -429,7 +429,7 @@ Leo, who was at the table with her, Olivia, and Luna, was quiet for a moment. He
 
 The robotic voice that spoke was flat, but the words were a bombshell of personal growth.
 
-"IS THERE A WAY... TO PUT A REAL LAPTOP... ON MY CHAIR? NOT A DEDICATED MACHINE. I WANT TO TRY... A REAL COMPUTER. WITH QUANTUM OS XN. THE TALKER CAN BE... AN APP."
+<aac>Is there a way... To put a real laptop... On my chair? Not a dedicated machine. I want to try... A real computer. With quantum os xn. The talker can be... An app.</aac>
 
 The room went silent. Stella, Luna, and Olivia stared at him, a wave of stunned pride washing over them. This was a monumental step. After years of relying on the safe, closed-off system of his dedicated devices, and after the trauma of having that voice violently taken from him, he wasn’t asking for a replacement. He was asking for an upgrade. He was choosing to face the very technology that had always been a source of anxiety.
 
@@ -437,7 +437,7 @@ Stella was the first to speak, her voice thick with admiration. "Wow, Leo... tha
 
 "Are you sure, Leo?" Luna asked softly, her own pride evident in her expression. "The Quantum OS is still... a lot."
 
-Leo looked at Olivia, who gave him a small, encouraging nod. He typed again on his Scribe. "OLIVIA AND STELLA'S LESSONS HELP. I WANT TO TRY. FOR SCHOOL. FOR WORK. I NEED A REAL COMPUTER."
+Leo looked at Olivia, who gave him a small, encouraging nod. He typed again on his Scribe. <aac>Olivia and stella's lessons help. I want to try. For school. For work. I need a real computer.</aac>
 
 "Then that's what we'll get you," Stella declared, her decision absolute. A brilliant, determined smile broke across her face. "That is an amazing and forward-thinking idea, Leo."
 
@@ -489,7 +489,7 @@ Olivia's face lit up, eager to share one of her favorite traditions. "It's a hug
 
 Leo, who had been listening intently, immediately lit up. He had been hoping she would say that. He grabbed his MagnaByte Scribe, his fingers moving with excited energy.
 
-"POUTINE! LIKE THE KIND WE HAD IN D.C.? THE RESTAURANT WITH THE HOCKEY JERSEYS?"
+<aac>Poutine! Like the kind we had in d.c.? The restaurant with the hockey jerseys?</aac>
 
 Olivia laughed, her eyes sparkling. "The very same! The real deal."
 
@@ -557,7 +557,7 @@ The familiar grid of his vocabulary pages appeared on the screen, a welcome sigh
 
 A clear, strong, and deeply familiar synthesized voice filled the living room.
 
-"HELLO. MY NAME IS LEO PORTER. IT IS VERY GOOD TO HAVE MY VOICE BACK. THANK YOU FOR HELPING ME."
+<aac>Hello. My name is leo porter. It is very good to have my voice back. Thank you for helping me.</aac>
 
 A collective, happy sigh of relief went through the room. Stella's eyes filled with tears. Luna rushed over and threw her arms around his shoulders in a fierce, joyful hug. Olivia simply reached out and squeezed his hand, her own eyes shining with pride.
 
@@ -595,7 +595,7 @@ Olivia immediately chimed in, her voice bright and reassuring. "Hey, it's okay! 
 
 Leo looked at her, then at his sisters, and a small, genuine smile returned to his face. He typed one final message.
 
-"OKAY. MY VOICE. MY ACCENT. I LIKE IT."
+<aac>Okay. My voice. My accent. I like it.</aac>
 
 Olivia taught them the names for everything they saw around them. A Christmas ornament became *une décoration de Noël*. Santa Claus was *Père Noël*. A gift was *un cadeau*.
 
@@ -611,7 +611,7 @@ Stella, who hadn't considered taking a class herself, immediately loved the idea
 
 Leo, who had been listening intently, typed a message on his new laptop. His voice, clear and enthusiastic, filled the room.
 
-**"OUI! FRENCH CLASS. WITH EVERYONE."** (Yes! French class. With everyone.)
+*<aac>Oui! French class. With everyone.</aac>* (Yes! French class. With everyone.)
 
 It was settled. Their shared schedule for the Spring 2004 semester would now include one more class, a testament to their commitment to building their new life together in every way possible.
 
@@ -695,7 +695,7 @@ For Olivia, this was a new and interesting challenge. It was like an American En
 
 They chose a few different books—a comprehensive guide, a verb workbook, and a pocket dictionary—and headed to the register. Leo, who had been quietly absorbing the conversation, used his Scribe to type a message for Olivia as they walked.
 
-"I LIKE 'UN CHAR'. AND 'MON CHUM'."
+<aac>I like 'un char'. And 'mon chum'.</aac>
 
 Olivia laughed, a bright, happy sound. "Me too, Leo. Me too."
 
@@ -739,7 +739,7 @@ Ms. Sharma, seeing his reaction but needing to be certain, rephrased the questio
 
 Leo, shaking his head with frantic energy, began to type on his laptop. The clear voice that came out was flat, but the words were a torrent of denial.
 
-**Leo's Communicator:** "NO. NEVER. SHE NEVER TOUCHED ME THERE. NEVER. THAT IS... DISGUSTING. NO. SHE DID NOT."
+**Leo's Communicator:** <aac>No. Never. She never touched me there. Never. That is... Disgusting. No. She did not.</aac>
 
 The agents and the prosecutor in the next room exchanged a look. His flinch wasn't a memory of trauma; it was a reaction of pure horror to the *concept*. He wasn't reliving an act; he was repulsed by the suggestion of it. They had their answer.
 
@@ -803,13 +803,13 @@ She continued to murmur the term, a word of deep, possessive, and protective aff
 
 She pulled back just enough to look at him. "Do you know what *'mon chum'* means?" she asked softly in English.
 
-He shook his head, then typed on his Scribe: "NO. WHAT?"
+He shook his head, then typed on his Scribe: <aac>No. What?</aac>
 
 "In Québec," she explained, her voice gentle, "it's what a girl calls her boyfriend. Her guy. The most important one."
 
 Leo stared at her, the meaning of her words sinking in. She wasn't just his best friend. She saw him as her <aac>chum</aac>. Her boyfriend. A warmth spread through his chest, pushing back the last of the fear. He liked that. He liked that very much. He typed again, a hopeful question on the screen.
 
-"HOW DO I SAY GIRLFRIEND? FOR YOU?"
+<aac>How do I say girlfriend? For you?</aac>
 
 Olivia's heart melted. "*Ma blonde*," she said, her voice thick with emotion. "*Tu es mon chum, et je suis ta blonde.*" (You are my boyfriend, and I am your girlfriend.)
 
@@ -997,7 +997,7 @@ Leo smiled, genuinely happy about the celebration, but a flicker of anxiety cros
 
 He picked up his Scribe, his typing slow and a little hesitant.
 
-"I AM EXCITED. ESPECIALLY FOR POUTINE. BUT... NERVOUS. ABOUT STAYING UP ALL NIGHT. I GET SCARED WHEN I AM TOO TIRED."
+<aac>I am excited. Especially for poutine. But... Nervous. About staying up all night. I get scared when I am too tired.</aac>
 
 The festive mood in the room shifted instantly, not to disappointment, but to one of quiet, focused concern. They had been so caught up in the joy of the new tradition that they had completely overlooked this crucial detail.
 
@@ -1085,7 +1085,7 @@ Olivia was beaming, her heart fit to burst with pride as she watched her two fam
 
 Then came the moment that sealed it all. Leo, who had been listening with a happy, focused expression, lifted his MagnaByte Scribe. He had been practicing this phrase with Olivia. The robotic voice, clear in a momentary lull in the conversation, spoke the words he had typed.
 
-"MERCI DE VISITER. C'EST BON D'AVOIR LA FAMILLE DE MA BLONDE ICI." (Thank you for visiting. It is good to have my girlfriend's family here.)
+<aac>Merci de visiter. C'est bon d'avoir la famille de ma blonde ici.</aac> (Thank you for visiting. It is good to have my girlfriend's family here.)
 
 A collective, happy gasp went around the table. The public, confident use of the term "*ma blonde*" (my girlfriend) in front of her entire family was a profound declaration. Olivia's Tante Isabelle looked from Leo to a blushing, incredibly proud Olivia, and her eyes filled with happy tears.
 
@@ -1127,7 +1127,7 @@ As the night wound down and the Canadian family prepared to head back to their g
 
 Leo, surrounded by his two families, his heart full and his stomach full of poutine, typed a final message on his Scribe, the robotic voice clear and steady in the quiet room.
 
-"BEST CHRISTMAS EVER."
+<aac>Best christmas ever.</aac>
 
 It truly was. He was safe. He was loved. He was home.
 
@@ -1143,7 +1143,7 @@ Olivia, ever attuned to him, knelt by his side. "Hey, *mon chum*," she whispered
 
 Leo looked at her, then picked up his Scribe, his fingers moving slowly but with a clear purpose.
 
-"I AM SO GRATEFUL," he typed. "THIS IS THE NICEST PLACE EVER. BUT... IT'S NOT HOME. I WANT TO GO HOME. I WANT TO SLEEP IN OUR BED. IN OUR ROOM."
+<aac>I am so grateful,</aac> he typed. <aac>This is the nicest place ever. But... It's not home. I want to go home. I want to sleep in our bed. In our room.</aac>
 
 The request was so simple, so pure. He had enjoyed the luxury, the pampering, the grand vacation his grandparents had gifted him. But after the trauma of being ripped from his safe world, what he craved more than anything was the deep, grounding comfort of the familiar. He wanted to be in the sanctuary he and Olivia had built together, the room with the deep blue walls they had painted themselves.
 
@@ -1239,7 +1239,7 @@ For several minutes, they stayed like that, Leo clinging to her, his anchor in t
 
 When she finally loosened her embrace, he felt grounded again. He wasn't tired; he had just been overwhelmed. He turned to her and gave her a bright, genuine smile. He picked up his Scribe and typed a simple message.
 
-"I FEEL BETTER. CAN WE GO BACK NOW? I DON'T WANT TO MISS DESSERT."
+<aac>I feel better. Can we go back now? I don't want to miss dessert.</aac>
 
 Olivia laughed softly, a happy, relieved sound. "Of course, *mon chum*," she said, squeezing his hand. "Let's go get some pie."
 
@@ -1405,7 +1405,7 @@ The quiet of the living room on the evening of December 30th was a gentle, heali
 
 He shifted slightly and reached for his **Quantum Communicator**, which was on the cushion beside him. He typed a short, simple request.
 
-"CAN I HAVE A BATH? MY MUSCLES HURT."
+<aac>Can I have a bath? My muscles hurt.</aac>
 
 Instantly, the atmosphere in the room shifted from quiet relaxation to gentle, purposeful action. For the fortress, this was a familiar and important part of his care routine.
 
@@ -1425,7 +1425,7 @@ After the bath, wrapped in a warm towel, the tension had visibly drained from hi
 
 He typed one last message on his communicator before they wheeled him to his bedroom.
 
-"THANK YOU. I FEEL BETTER."
+<aac>Thank you. I feel better.</aac>
 
 Stella smiled, stroking his damp hair. "Anytime, buddy," she said softly. "That's what we're here for."
 

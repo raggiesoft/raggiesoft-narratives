@@ -217,7 +217,7 @@ The late afternoon sun, a hazy gold through the Virginia summer sky, cast long s
 
 "So, the gas and dust… they just kind of clump together because of gravity?" Chloé asked, looking over at him. "And then *boom*, a star?"
 
-Alex smiled, a familiar warmth spreading through him at her genuine curiosity. He typed on his Quantum Communicator, the synthesized voice clear and patient: "MORE OR LESS. IT'S A VERY SLOW BOOM. MILLIONS OF YEARS. BUT YES, GRAVITY IS THE KEY. LIKE A GIANT COSMIC SNOWBALL ROLLING DOWNHILL, GATHERING MORE SNOW."
+Alex smiled, a familiar warmth spreading through him at her genuine curiosity. He typed on his Quantum Communicator, the synthesized voice clear and patient: <aac>More or less. It's a very slow boom. Millions of years. But yes, gravity is the key. Like a giant cosmic snowball rolling downhill, gathering more snow.</aac>
 
 Chloé’s eyes lit up. "A cosmic snowball! I like that!" She scrambled off the bed, her energy infectious, and moved to Alex’s side, peering at the star chart with him. "Okay, show me that Eagle Nebula again. The 'Pillars of Creation' one. It looks so cool."
 
@@ -233,7 +233,7 @@ He typed, his own playful spirit rising to meet hers: "ME? WHAT ABOUT YOU, CHLO�
 
 Chloé laughed, a bright, delighted sound that filled the room. "Hey! Those were totally justified 'we-just-met-and-you're-awesome' hugs! And the 'we-survived-the-great-ice-cream-avalanche-of-99' hug was a heroic necessity! And let’s not forget the 'we-finally-beat-that-impossible-Star-Voyager-game-level' hug!" She ticked them off on her fingers with dramatic flair. "All completely warranted!"
 
-"AND THE 'GOOD MORNING, LET'S GO EXPLORE THE CREEK EVEN THOUGH IT'S PROBABLY FULL OF SNAPPING TURTLES' HUGS?" Alex typed, his eyes twinkling with shared amusement. "AND THE 'THANKS FOR EXPLAINING WHY THE SKY IS BLUE FOR THE TENTH TIME BECAUSE I LIKE HEARING YOU TALK' HUGS? AND THE 'JUST BECAUSE IT'S A SUNNY WEDNESDAY AND WE'RE BEST FRIENDS' HUGS?"
+<aac>And the 'good morning, let's go explore the creek even though it's probably full of snapping turtles' hugs?</aac> Alex typed, his eyes twinkling with shared amusement. <aac>And the 'thanks for explaining why the sky is blue for the tenth time because I like hearing you talk' hugs? And the 'just because it's a sunny wednesday and we're best friends' hugs?</aac>
 
 Chloé threw her head back and laughed again, the sound pure joy. "Okay, okay, you win! Maybe I like hugs. A lot." She then leaned in again, her expression softening, her voice quieter, filled with a genuine, deep affection that always made Alex’s heart feel a little too big for his chest. "But seriously, Alex," she said, her gaze direct and sincere, "it’s just… nice. You give really good hugs. And," she added, her eyes shining, "it’s just really, *really* nice to have a best friend who actually *likes* getting them and giving them back. There's no awkwardness, no weirdness. It just feels… right. Safe."
 
@@ -451,7 +451,7 @@ Alex looked at Chloé, her enthusiasm infectious, her arm still a comforting wei
 
 He nodded, a decisive look on his face. YES. I WANT TO TRY. FRENCH I. WITH YOU, CHLOÉ.
 
-"YES!" Chloé cheered, pulling him into a full, joyous "big squeeze" hug right there on the sofa. "This is going to be the best! We can be study buddies! Nous allons être des 'study buddies' formidables!" (We are going to be awesome study buddies!) she added, already slipping into a bit of French, her eyes sparkling as she pulled back, though her arm naturally settled around his shoulders again.
+<aac>Yes!</aac> Chloé cheered, pulling him into a full, joyous "big squeeze" hug right there on the sofa. "This is going to be the best! We can be study buddies! Nous allons être des 'study buddies' formidables!" (We are going to be awesome study buddies!) she added, already slipping into a bit of French, her eyes sparkling as she pulled back, though her arm naturally settled around his shoulders again.
 
 And so, it was decided. Alex Miller and Chloé Mason, already inseparable, would embark on their high school journey with a shared elective: French I with Madame Beaumont.
 

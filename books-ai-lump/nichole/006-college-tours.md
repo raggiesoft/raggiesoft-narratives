@@ -19,7 +19,7 @@ But for the first stop, they didn't have to leave the Tidewater area.
 
 Nichole sat at the table, her hands resting in her lap. She wasn't excited. She was skeptical. A ground-level campus sounded good on paper, but after twelve years in the public school system, she knew that "accessible" usually just meant "we met the bare minimum of the fire code."
 
-She tapped her VocaLink screen. "READY."
+She tapped her VocaLink screen. <aac>Ready.</aac>
 
 "Armor up," Patrick said, unlocking her brakes.
 
@@ -146,7 +146,7 @@ Once they were back in the parking lot, bathed in the real sunlight and the fres
 
 Nichole reached for her VocaLink screen.
 
-"SLEAZEBALL."
+<aac>Sleazeball.</aac>
 
 Patrick laughed. "Yeah. Let's go get those cinnamon rolls."
 
@@ -183,7 +183,7 @@ Nichole stopped chewing. She looked at her mother, feeling a surge of affection.
 
 Nichole tapped her VocaLink screen.
 
-"SMART. MOM."
+<aac>Smart. Mom.</aac>
 
 Ellen reached across the table and squeezed Nichole’s hand. "We aren't going to let anyone treat you like a quota, baby. You and your brother are going to a real school. A place with professors who actually care about your brains."
 
@@ -193,7 +193,7 @@ Patrick leaned over to look at the list. "Atlantic Coast Polytechnic?"
 
 "The main campus is right over on Greenwich Road in Virginia Beach," Tom said, checking his watch. "It's literally a five-minute drive from where we are sitting right now. Our tour is at ten-thirty."
 
-Nichole tapped her screen. "REAL. COLLEGE?"
+Nichole tapped her screen. <aac>Real. College?</aac>
 
 "It's nationally accredited," Ellen said, reading from her notes. "Four-year degrees, legitimate tech programs, and a dedicated student services department. It's strictly business and tech, but it's a real school."
 
@@ -285,7 +285,7 @@ Ellen pulled out her color-coded spreadsheet as they walked back to the van. "We
 
 Nichole tapped her VocaLink screen.
 
-"ROAD. TRIP."
+<aac>Road. Trip.</aac>
 
 ## The Institution
 
@@ -1557,7 +1557,7 @@ WANT. NORMAL.
 
 It was the local giant. Located in Norfolk, a mere twenty-minute drive from their driveway. It was a sprawling, urban campus with Division I sports, rowdy fraternities, and a massive English department. It wasn't "special." It was the definition of average, chaotic college life.
 
-"VDU?" Ellen asked, her maternal anxiety spiking. "Patrick, their dorms are traditional. Shared bathrooms, tiny rooms, no elevators in half the freshman housing..."
+<aac>Vdu?</aac> Ellen asked, her maternal anxiety spiking. "Patrick, their dorms are traditional. Shared bathrooms, tiny rooms, no elevators in half the freshman housing..."
 
 "We wouldn't live in the dorms," Patrick realized, the idea locking into place. "We're eighteen. We could rent an apartment right off campus. Just the two of us."
 
@@ -1638,7 +1638,7 @@ The sidewalk was wide. The curb cuts were flush—perfectly graded. Patrick didn
 
 They weren't the only ones there. A small crowd had gathered near the glass doors of the Welcome Center. There were parents fanning themselves with brochures, and teenagers looking awkwardly at their shoes.
 
-A young woman in a bright blue polo shirt with "VDU AMBASSADOR" embroidered on the chest spotted them. She didn't look at the wheelchair with panic. She didn't look for an aide. She just smiled and waved her clipboard.
+A young woman in a bright blue polo shirt with <aac>Vdu ambassador</aac> embroidered on the chest spotted them. She didn't look at the wheelchair with panic. She didn't look for an aide. She just smiled and waved her clipboard.
 
 "Welcome to VDU!" she chirped, holding the door open for a family ahead of them. "Tour starts in five minutes! Come on in to the AC!"
 
@@ -1696,7 +1696,7 @@ Nichole felt a flash of gratitude. At Roosevelt, they had talked about her. Here
 
 She typed quickly on her VocaLink. The synthesized voice cut through the lobby chatter, clear and robotic.
 
-"CREATIVE. WRITING."
+<aac>Creative. Writing.</aac>
 
 Nobody gasped. Nobody looked horrified. This was a tech-heavy campus; half the engineering students walked around talking to their PDAs anyway.
 
@@ -2794,7 +2794,7 @@ Nichole chewed her bacon, humming happily. She could picture it. Her and Patrick
 
 "It's going to be the one," Patrick said confidently. "I can feel it."
 
-Nichole tapped her VocaLink screen. "COLLEGE. KIDS."
+Nichole tapped her VocaLink screen. <aac>College. Kids.</aac>
 
 "Exactly," Patrick high-fived her.
 
@@ -2912,7 +2912,7 @@ A young man in a yellow 'Student Ambassador' polo shirt approached them. He stop
 
 Nichole smiled back. He was polite. He treated her like a person.
 
-She tapped her VocaLink. "MY. BROTHER. DRIVES."
+She tapped her VocaLink. <aac>My. Brother. Drives.</aac>
 
 Jason nodded immediately. "Understood. I'll just be leading the way, then. Follow me!"
 
@@ -2991,11 +2991,11 @@ Nichole locked eyes with the Professor. She threw her head back and let out a sh
 
 She jammed her finger onto the VocaLink screen.
 
-"HE. STAYS."
+<aac>He. Stays.</aac>
 
 Digital Dan’s voice was loud and metallic.
 
-"MY. CHOICE."
+<aac>My. Choice.</aac>
 
 "Now, see, this is exactly what we work on," the Professor said, trying to recover his polite composure, though his smile was strained. "De-escalation and emotional regulation in a public setting. It’s part of the growth process. If you'll just take your separate seat—"
 
@@ -3003,7 +3003,7 @@ Nichole didn't let him finish. She grabbed Patrick’s forearm with a vice grip.
 
 She made a low, frantic grunting noise. *Go.* She tapped her screen again.
 
-"LEAVE. NOW."
+<aac>Leave. Now.</aac>
 
 "Nikki, hold on," Patrick said, putting his hand over hers.
 
@@ -3067,7 +3067,7 @@ Dr. Aris jumped in her leather chair.
 
 Nichole glared at the Director. She jammed her finger onto the heavy, scratched plastic of the resistive screen. She didn't tap; she struck the keys with the full weight of her executive fury, denting the membrane to make the old sensors register the input.
 
-"ALREADY. KNOW. HOW."
+<aac>Already. Know. How.</aac>
 
 Digital Dan’s baritone voice boomed in the quiet office. The stark gray interface of Quantum OS 2000 flashed with the output.
 
@@ -3075,15 +3075,15 @@ Dr. Aris blinked, taken aback by the volume. "Excuse me?"
 
 Nichole didn't stop. *Thud. Thud. Thud.*
 
-"I. FIRE. IDIOTS."
+<aac>I. Fire. Idiots.</aac>
 
 Patrick bit his lip, trying to suppress a smirk as he watched his sister dismantle the administrator. The mechanical whine of the VocaLink’s hard drive spun up as Nichole kept typing.
 
-"I. HIRED. HIM." Nichole typed, pointing a shaking finger at Patrick. "IN. SIXTH. GRADE. TEST. RUN. HE. PASSED."
+<aac>I. Hired. Him.</aac> Nichole typed, pointing a shaking finger at Patrick. <aac>In. Sixth. Grade. Test. Run. He. Passed.</aac>
 
 She looked directly into Dr. Aris’s eyes and delivered the final verdict.
 
-"LIFETIME. CONTRACT."
+<aac>Lifetime. Contract.</aac>
 
 Dr. Aris looked completely flustered. The director looked at Patrick, seeking a translation or an apology for the outburst.
 
@@ -3159,17 +3159,17 @@ She dropped her chin to her chest. Turtle Mode.
 
 She reached for the VocaLink. Her hand was trembling, but her aim was true.
 
-"NO."
+<aac>No.</aac>
 
 Digital Dan’s voice cut through the tour guide's spiel about the high-speed internet.
 
-"NOT. SAFE."
+<aac>Not. Safe.</aac>
 
 The guide blinked. "Oh! I assure you, the building is very secure. We have cameras at every entrance—"
 
-"ALONE."
+<aac>Alone.</aac>
 
-Nichole hit the word again. "ALONE."
+Nichole hit the word again. <aac>Alone.</aac>
 
 She looked up at Patrick. She raised her hand, three fingers trembling in the air.
 
@@ -3418,7 +3418,7 @@ Nichole didn't look at her mother. She rolled up to the desk where Patrick had l
 
 She turned the screen on. She typed furiously with one finger.
 
-"DIRTY. PLACE." Digital Dan’s voice announced. "HATE. VERMONT. LEAVE. NOW."
+<aac>Dirty. Place.</aac> Digital Dan’s voice announced. <aac>Hate. Vermont. Leave. Now.</aac>
 
 Ellen looked at Tom. Tom nodded immediately.
 
@@ -3489,21 +3489,21 @@ He had told her then: *"We don't do bells and whistles, Nikki. We do uptime."*
 
 That stability was why she could type now, at 65 miles per hour, without fear of a blue screen silencing her voice.
 
-"NOT. TRAPPED."
+<aac>Not. Trapped.</aac>
 
 She hit the "SPEAK" button—a rectangular gray block on the screen. The hard drive spun up—a high-pitched mechanical whine—before Digital Dan's baritone voice processed the command.
 
-"I. AM. THE. NIKKI."
+<aac>I. Am. The. Nikki.</aac>
 
 Patrick looked up, startled. "What?"
 
 Nichole glared at him. She tapped the resistive screen again, her finger denting the plastic layer to make contact with the sensors below.
 
-"THEY. TOLD. ME. TO. LEARN."
+<aac>They. Told. Me. To. Learn.</aac>
 
 She made a sharp, clicking sound with her tongue, a noise of pure academic disgust.
 
-"I. HIRED. YOU. IN. SIXTH. GRADE."
+<aac>I. Hired. You. In. Sixth. Grade.</aac>
 
 Patrick blinked, the memory hitting him. August 1996. The Curb Trap at Morrison Middle School . The day they had encountered the unramped sidewalk and he had tipped her over the speed humps. He had been terrified, but he had gotten her to the finish line.
 
@@ -3511,15 +3511,15 @@ Patrick blinked, the memory hitting him. August 1996. The Curb Trap at Morrison 
 
 Nichole nodded vigorously. She typed furiously, her finger flying across the predictive text matrix of the gray interface.
 
-"TEST. RUN. YOU. PASSED."
+<aac>Test. Run. You. Passed.</aac>
 
 Digital Dan announced.
 
-"FIRED. MRS. HATCHER. FIRED. RESPITE. NURSES."
+<aac>Fired. Mrs. Hatcher. Fired. Respite. Nurses.</aac>
 
 She looked at her brother, making sure he understood the chain of command. She wasn't an invalid having care forced upon her. She was a manager who had ruthlessly terminated every incompetent aide the school system had ever tried to assign her, from the wrestling room to the cafeteria .
 
-"YOU. ARE. THE. ONLY. ONE. WHO. CAN. DRIVE."
+<aac>You. Are. The. Only. One. Who. Can. Drive.</aac>
 
 Patrick leaned back against the van wall. The poison in his head evaporated. Putney had tried to paint their closeness as a tragic dependency. But Nichole was looking at it like a highly successful business merger.
 
@@ -3527,11 +3527,11 @@ Patrick leaned back against the van wall. The poison in his head evaporated. Put
 
 Nichole didn't smile. She wasn't making a joke. She looked Patrick dead in the eyes. She double-tapped the screen to overcome a dead spot in the resistive layer.
 
-"LIFETIME. CONTRACT."
+<aac>Lifetime. Contract.</aac>
 
 The words hung in the air, heavy and absolute against the roar of the New Jersey traffic.
 
-"NO. EXPIRATION. DATE."
+<aac>No. Expiration. Date.</aac>
 
 In the front seat, Ellen reached across the center console and grabbed Tom’s hand. She pressed her face against the passenger window to hide her tears.
 
@@ -3551,7 +3551,7 @@ He looked at Nichole.
 
 "As soon as we get to a computer—Uncle Mark's or Aunt Carol's—I'm looking it up. Whatever certification those agency aides have? Whatever piece of paper Dr. Aris thinks I'm missing? I'm going to get it."
 
-Nichole tapped her screen. "WHY?"
+Nichole tapped her screen. <aac>Why?</aac>
 
 "Because I'm tired of them using the word 'liability,'" Patrick said, his jaw tightening. "If I have the same license they do, they can't tell me I'm unqualified. I'll take the classes. I'll pass the tests. I'll get the card. And the next time we walk into a Housing Office, I'll slam it on the desk."
 
@@ -3663,7 +3663,7 @@ Patrick clicked. The page loaded, displaying a photo of students in blue scrubs 
 
 "Wait," Patrick said, leaning closer to the screen. "This doesn't say 'Nursing Assistant.' This says **Licensed Practical Nurse**."
 
-"LPN?" Carol asked. "That's different."
+<aac>Lpn?</aac> Carol asked. "That's different."
 
 "How different?" Patrick asked.
 
@@ -3689,7 +3689,7 @@ It wasn't just a certificate. It was a shield. It was a way to force the world t
 
 She tapped her armrest.
 
-**"NUCLEAR. OPTION."**
+*<aac>Nuclear. Option.</aac>*
 
 Patrick grinned. "Yeah. Nuclear option."
 
@@ -3731,7 +3731,7 @@ He bookmarked the page.
 
 Nichole tapped her armrest.
 
-**"MY. NURSE."**
+*<aac>My. Nurse.</aac>*
 
 Patrick laughed, the tension of the Vermont trip finally breaking. "Your nurse. Your mechanic. Your driver. I guess I'm wearing a lot of hats."
 
@@ -3757,7 +3757,7 @@ Brian looked at the Bennett family. He saw the heavy wheelchair. He saw Patrick 
 
 "We'll be taking the accessible ramps into the library," Brian said to her directly. "The campus buses are all equipped with hydraulic lifts, so we'll be hopping on one in about twenty minutes. Sound good?"
 
-Nichole smiled. She tapped her VocaLink screen. "SOUNDS. GOOD."
+Nichole smiled. She tapped her VocaLink screen. <aac>Sounds. Good.</aac>
 
 Brian didn't offer to push. He didn't ask about her diagnosis. He just treated them like any other family in the herd. It was a refreshing dose of Jersey apathy.
 
@@ -3861,7 +3861,7 @@ Tom raised an eyebrow. "Excuse me?"
 
 Patrick looked up, his engineering brain immediately running the numbers. "Wait. We live with you in Highland Park? The Number 810 bus goes right down Raritan Avenue. It crosses the bridge and drops off at the train station. We transfer from the transit bus to the campus bus right there."
 
-Nichole made an excited, high-pitched vocalization. She tapped her screen. "AUNT. CAROL. HOUSE."
+Nichole made an excited, high-pitched vocalization. She tapped her screen. <aac>Aunt. Carol. House.</aac>
 
 "Exactly!" Carol beamed at Nichole.
 
@@ -3921,7 +3921,7 @@ Nichole looked up at him. She smiled. A real, genuine smile.
 
 "Just us," Patrick confirmed. "No dorm rules. No housing administrators. We build the machine ourselves."
 
-Nichole tapped her tray. "HOME."
+Nichole tapped her tray. <aac>Home.</aac>
 
 "Home it is," Tom said, raising his coffee mug. "To Virginia."
 
@@ -3969,13 +3969,13 @@ She slammed her hand on the table, making the silverware jump.
 
 Everyone looked at her. Nichole didn't hesitate. She jammed her finger onto the VocaLink.
 
-"GO."
+<aac>Go.</aac>
 
 "Nikki, hold on," Tom said gently. "We're exhausted. We were just talking about home."
 
 Nichole shook her head fiercely. She looked at Patrick. She made a high-pitched, insistent *keening* sound and pointed north. She wanted to see where she was born. She wanted to ride the boat.
 
-"GO. RHODE. ISLAND."
+<aac>Go. Rhode. Island.</aac>
 
 Patrick looked at his sister's face. The exhaustion of Putney and Raritan was completely gone, replaced by a fierce, blazing curiosity.
 
@@ -4055,7 +4055,7 @@ The reunion was immediate and loud. Mark hadn't seen the twins since they were 9
 
 "Look at this rig!" Mark grinned, slapping the heavy aluminum frame of the Titan AeroMotion as Nichole rolled off the lift. "They didn't have hot rods like this in ‘94. You look great, Nikki."
 
-Nichole beamed. She hit a pre-programmed button on the VocaLink. "HI. UNCLE. MARK."
+Nichole beamed. She hit a pre-programmed button on the VocaLink. <aac>Hi. Uncle. Mark.</aac>
 
 "Hi yourself, kiddo," Mark smiled, leaning down to give her a gentle side-hug, mindful of the heavy *VocaLink mount* clamped to her frame. He looked up at Patrick, who was securing the van. "And you got big! You look like you could bench press me."
 
@@ -4085,7 +4085,7 @@ Nichole made a soft, impressed *whistle* sound.
 
 "It gets better," Patrick grinned. "It's shared track. BTA Regional Rail uses it, but so does the ARTS Northeast Regional line. It's all high-level boarding. Flat, roll-on, roll-off."
 
-Nichole tapped her screen. "WHERE. DOES. IT. GO?"
+Nichole tapped her screen. <aac>Where. Does. It. Go?</aac>
 
 "Next stop northbound is Braxton Central," Patrick said. "Uncle Mark says it's massive. Like the Berlin Hauptbahnhof. Glass and steel. From there, you can connect to BTA Metros, local buses, the ARTS Acela, or the OSTA Route 14 straight back to Providence. It's a massive arterial vein, Nikki. And BSU sits right on top of it."
 
@@ -4179,7 +4179,7 @@ Ellen looked at Nichole. The parents had been with them for every step of Putney
 
 Nichole swallowed her food. She wiped her mouth with the back of her hand and tapped her VocaLink screen.
 
-"NO. PARENTS."
+<aac>No. Parents.</aac>
 
 She looked at her mother and father and gave them a soft, reassuring smile. She wasn't pushing them away out of anger. She was claiming her space. Putney had tried to force her to be "independent" by separating her from her brother. BSU was going to be different. She was going to be independent *with* her brother.
 
@@ -4327,7 +4327,7 @@ It was perfect. It was a machine that worked.
 
 She looked at Patrick. A huge, unfiltered smile broke across her face. She hit the VocaLink.
 
-"EXPLORE. NOW."
+<aac>Explore. Now.</aac>
 
 "Roger that," Patrick grinned, grabbing the push handles. "Let's go see what the Ocean State has to offer."
 
@@ -4359,7 +4359,7 @@ Patrick’s jaw dropped. He looked at the map, then at the doors, and then down 
 
 "Nikki," Patrick whispered, his engineering brain completely overloading. "They built a grid. Under the ground."
 
-Nichole looked at the map. She tapped her screen. "NO. SNOW."
+Nichole looked at the map. She tapped her screen. <aac>No. Snow.</aac>
 
 "No snow," Patrick confirmed, a massive grin breaking across his face. "No rain. No ice. It's a completely climate-controlled loop. You could roll from the ferry dock to a creative writing class in a blizzard wearing shorts."
 
@@ -4463,7 +4463,7 @@ He looked at Nichole.
 
 Nichole looked at the secure door. It was the ultimate barrier against the winter. She tapped her screen.
 
-"THE. FOUNDRY."
+<aac>The. Foundry.</aac>
 
 "We check the listings tonight," Patrick promised, turning the chair around to head back to the train. "If there's a two-bedroom unit in there, we take it. I don't care how much it costs."
 
@@ -4514,7 +4514,7 @@ The plan was to commute from Uncle Mark's. It was a good plan. But as he watched
 
 "Hey Nikki," Patrick said, leaning down so she could hear him over the engine roar. "Tonight, we get Uncle Mark to fire up his desktop computer. We have some reading to do."
 
-Nichole looked up at him and smiled. She tapped her screen. "HOMEWORK."
+Nichole looked up at him and smiled. She tapped her screen. <aac>Homework.</aac>
 
 "Exactly," Patrick grinned. "Homework."
 
@@ -4567,7 +4567,7 @@ She looked at her parents. She looked at Uncle Mark.
 
 She made a loud, resonant hum in her throat and slammed her hand on the tray. She tapped the VocaLink.
 
-"WAIT. THEN. LAUNCH."
+<aac>Wait. Then. Launch.</aac>
 
 "That's the strategy," Patrick agreed, understanding her tone instantly. "We wait. We build the war chest. And then we launch."
 
@@ -4691,7 +4691,7 @@ She looked at her uncle. She reached out and patted his hand on the cart handle.
 
 She tapped her VocaLink for the last time that day.
 
-"THANK. YOU."
+<aac>Thank. You.</aac>
 
 "Don't thank me," Mark winked. "Just get a 4.0 GPA."
 
@@ -4731,7 +4731,7 @@ She was coding in Quantum Basic 6.0. Patrick looked over her shoulder. She had a
 
 Nichole clicked the scroll wheel on the mouse, nodding. She tapped a newly created button on her screen. The standard synthetic voice spoke.
 
-"NEW. STATE. NEW. VOICE."
+<aac>New. State. New. Voice.</aac>
 
 Patrick smiled. It was true. For years, the heavy, baritone voice of the VocaLink software—"Digital Dan"—had spoken for her. But on this new machine, Nichole had custom-coded a voice profile that was lighter, faster, and distinctly hers. It didn't sound like a medical device. It sounded like a workstation.
 
@@ -4773,7 +4773,7 @@ Nichole closed her eyes, letting out a soft, continuous *hummm*. The tub was her
 
 "And," Mark interrupted, his voice dropping into a conspiratorial whisper. "I told the contractor to leave a structural gap in the main hallway. Between the basement, the first floor, and the second floor. I don't know what the market looks like yet, but there has to be such a thing as a residential elevator. I'm going to research it. Because Nikki should be able to get to every inch of this house."
 
-Nichole’s eyes went wide. She tapped her screen. "ELEVATOR?"
+Nichole’s eyes went wide. She tapped her screen. <aac>Elevator?</aac>
 
 "Someday, Nikki," Mark laughed. "For now, I'm staying month-to-month at my attic apartment in Newport. By September first, the dust will be cleared and the Portsmouth house will be fully operational."
 
@@ -4797,7 +4797,7 @@ Tom reached across the table and took Ellen's hand. He squeezed it tight.
 
 Nichole looked at her parents. She tapped her screen.
 
-"DO. IT."
+<aac>Do. It.</aac>
 
 "We're in," Tom said, smiling at his daughter. "Let's get the twins up there for September. We'll pack the Virginia house and follow right behind them."
 
@@ -4827,7 +4827,7 @@ Patrick pushed her up the ramp. For a moment, the front porch was a traffic jam 
 
 Nichole smiled. She clicked her mouse, triggering her new, custom-coded voice.
 
-"HI. GRANDMA. HELEN."
+<aac>Hi. Grandma. Helen.</aac>
 
 Helen gasped, her hand flying to her mouth. Hearing the voice—even a synthesized one—brought tears to her eyes instantly. "Oh, honey. Hello."
 
@@ -4891,7 +4891,7 @@ Nichole slammed her hand on her lap tray. The sound was as loud as a gunshot.
 
 She looked at her grandmother with a fierce, absolute expression. She grabbed her mouse. She clicked the shortcut on her screen.
 
-"NO. BURDENS. ONLY. BENNETTS."
+<aac>No. Burdens. Only. Bennetts.</aac>
 
 Patrick smiled, wiping his own eyes with the back of his hand. He looked at the walk-in tub, the wide doors, his grandmother, and the empty elevator shaft waiting in the hall.
 
@@ -4937,7 +4937,7 @@ Ellen walked over to Nichole’s chair. She didn't crouch down. She leaned over 
 
 Nichole squeezed her mother’s arm. She clicked her mouse.
 
-"I. LOVE. YOU. MOM."
+<aac>I. Love. You. Mom.</aac>
 
 "I love you too, baby," Ellen sniffled, wiping her eyes as she stood up.
 
@@ -4985,7 +4985,7 @@ Patrick swallowed the lump in his throat. He nodded. "Understood."
 
 Nichole reached up and patted Mark’s arm. She clicked her mouse.
 
-"BEST. LANDLORD. EVER."
+<aac>Best. Landlord. Ever.</aac>
 
 Mark laughed, the tension breaking. "Damn right. Now, let's go figure out how to work that fancy new tub."
 
@@ -5111,7 +5111,7 @@ Nichole looked at her uncle. Five minutes ago, she was resting her head on Patri
 
 She tapped her screen.
 
-"YOU. SET. A. TRAP."
+<aac>You. Set. A. Trap.</aac>
 
 "I knew he was coming three days ago," Mark admitted. "I called the Providence Field Office on Thursday. We arranged the meet. Never let a threat get close to your perimeter without a plan."
 
@@ -5131,7 +5131,7 @@ Patrick looked out the window. The FBI was towing the luxury car away. The drive
 
 Nichole shook her head. She clicked her mouse, her new voice filled with absolute awe.
 
-"HE. IS. THE. FIREWALL."
+<aac>He. Is. The. Firewall.</aac>
 
 ### Part 6: The Hydrostatic Lock
 
@@ -5325,7 +5325,7 @@ Patrick reached out and brushed a damp strand of hair from her forehead.
 
 Nichole reached for her ConvertiBook on the swing arm. She clicked the mouse.
 
-"SYSTEM. GREEN."
+<aac>System. Green.</aac>
 
 Patrick smiled. "Good. Now let's go see what Uncle Mark is doing. I bet he's starving."
 
@@ -5423,7 +5423,7 @@ She looked back at Patrick. He was leaning against the wall, staring at the empt
 
 Nichole tapped her screen.
 
-"NO. GROCERY. STORE. FOR. YOU."
+<aac>No. Grocery. Store. For. You.</aac>
 
 Patrick laughed, wiping his eyes. "No grocery store for me," he agreed. "Just college. Just the mission."
 
@@ -5485,7 +5485,7 @@ They weren't fighting the environment anymore. The environment was bending to th
 
 She tapped her screen.
 
-"THE. FORTRESS. IS. SEALED."
+<aac>The. Fortress. Is. Sealed.</aac>
 
 "That it is, Nikki," Patrick smiled, looking down at his sister. "Now... we have ten months to get ready for college."
 
@@ -5633,7 +5633,7 @@ Nichole rolled forward. She didn't need Patrick to talk to the driver. As she re
 
 Nichole clicked her mouse.
 
-"BSU. OPEN. HOUSE."
+<aac>Bsu. Open. House.</aac>
 
 "Go get 'em," Sal smiled.
 
@@ -5665,7 +5665,7 @@ Nichole looked at the bottom corner of her Apex ConvertiBook screen. She tapped 
 
 She clicked her mouse.
 
-"PLENTY. OF. JUICE."
+<aac>Plenty. Of. Juice.</aac>
 
 Patrick nodded, stretching his arms. "Good. Because my battery is at 100%, and we have a lot of campus to cover."
 
@@ -5685,7 +5685,7 @@ She looked up at Patrick. He was smiling, his hands resting easily on the grips 
 
 She tapped her screen.
 
-"WE. ARE. INEVITABLE."
+<aac>We. Are. Inevitable.</aac>
 
 "That we are, Nikki," Patrick laughed. "Let's go show them what the Gap Year bought us."
 
@@ -5705,7 +5705,7 @@ They rolled through the automatic sliding glass doors into the main atrium. Warm
 
 Nichole didn't need the directory. She was already looking at her Apex ConvertiBook screen, where she had downloaded the station’s PDF map the night before. She tapped the screen, triggering her VocaLink.
 
-"GLASS. ELEVATOR. AT. THE. LIGHT. WELL."
+<aac>Glass. Elevator. At. The. Light. Well.</aac>
 
 Patrick followed her gaze toward the center of the atrium. A massive, sixty-foot glass skylight pierced the floor, allowing natural daylight to filter all the way down to the deep underground Metro platforms. Surrounding this "light well" were four high-speed glass elevators.
 
@@ -5737,11 +5737,11 @@ Patrick parked Nichole in the check-in line. He felt an old, familiar tension cr
 
 Nichole clicked her mouse.
 
-"BENNETT. N."
+<aac>Bennett. N.</aac>
 
 "Nichole Bennett! Got you right here," the volunteer said, sliding a name badge and a heavy packet onto Nichole's lap tray. The girl looked at the Apex ConvertiBook with genuine interest. "Whoa. That’s an intense rig. Are you looking at the Computer Science department?"
 
-"YES."
+<aac>Yes.</aac>
 
 "Perfect! That presentation is at 9:00 AM in the Grand Ballroom on the second floor. Big elevators are right around the corner. Please help yourselves to breakfast!"
 
@@ -5755,7 +5755,7 @@ Nichole looked up at her brother. Her shoulders, usually tense in new environmen
 
 Nichole smiled. She tapped her screen.
 
-"EVERYTHING. BAGEL. TOASTED."
+<aac>Everything. Bagel. Toasted.</aac>
 
 They rolled over to the breakfast spread. The tables were set at thirty inches high. Patrick didn't have to reach up or squeeze through a crowd. He loaded up a plate, grabbed two coffees, and they found a quiet table near the window overlooking the concourse.
 
@@ -5807,11 +5807,11 @@ Patrick looked at Nichole. Her eyes were locked on the screen, where the blue Bu
 
 She reached for her mouse. Her hand wasn't shaking.
 
-"NO. PASSENGERS."
+<aac>No. Passengers.</aac>
 
 Patrick grinned, leaning close to her ear over the applause. "He's talking our language, Nikki."
 
-"MY. HERD."
+<aac>My. Herd.</aac>
 
 "Yeah," Patrick agreed, looking around at the diverse crowd of students—some in hoodies, some in hijabs, some looking terrified, some looking hungry. "Our herd."
 
@@ -5871,13 +5871,13 @@ Nichole reached for her mouse. She opened her main text-to-speech window, but sh
 
 She tapped his arm. Patrick looked down at her screen.
 
-"YOU. BUILD. IT."
+<aac>You. Build. It.</aac>
 
 Patrick read the words. He looked at her, tilting his head. "Build what?"
 
 Nichole deleted the line and typed the next one.
 
-"THE. MACHINE. YOU. BUILD. I. WRITE. THE. MANUAL."
+<aac>The. Machine. You. Build. I. Write. The. Manual.</aac>
 
 Patrick’s eyes widened as the realization hit him. He looked from his sister's screen up to the professor, who was now explaining the joint degree paths. BSU didn't force you into silos. An engineer and a technical writer could take their core project classes together.
 
@@ -5887,7 +5887,7 @@ Patrick looked back down at Nichole. She wasn't just tagging along to his dream.
 
 Nichole clicked her mouse, the synthesized voice cutting through the low murmur of the lecture hall just loud enough for the students around them to hear.
 
-"BENNETT. DYNAMICS."
+<aac>Bennett. Dynamics.</aac>
 
 Patrick laughed. "Bennett Dynamics. I like the sound of that."
 
@@ -5927,21 +5927,21 @@ The Director squinted, doing the mental geography. "Portsmouth. That’s Aquidne
 
 Nichole reached for her mouse. She clicked a sequence of buttons she had programmed the night before, just for this scenario.
 
-"WE. LIVE. WITH. OUR. MOTHER." *Click.*
+<aac>We. Live. With. Our. Mother.</aac> *Click.*
 
-"AND. FATHER."
-
-*Click.*
-
-"AND. UNCLE."
+<aac>And. Father.</aac>
 
 *Click.*
 
-"AND. AUNT."
+<aac>And. Uncle.</aac>
 
 *Click.*
 
-"AND. GRANDMOTHER."
+<aac>And. Aunt.</aac>
+
+*Click.*
+
+<aac>And. Grandmother.</aac>
 
 The room went completely silent. Several parents turned around in their seats to stare at the heavy technological rig and the girl operating it.
 
@@ -5959,7 +5959,7 @@ Uncle Mark’s \$1-a-year lease agreement hadn't just been a generous gesture; i
 
 Nichole looked at Patrick.
 
-"WE. BEAT. THE. SYSTEM."
+<aac>We. Beat. The. System.</aac>
 
 "We didn't beat it, Nikki," Patrick whispered, putting his own license back in his pocket. "We studied the manual."
 
@@ -5977,7 +5977,7 @@ Patrick sat up straight. Kyle had talked about "investing in yourself." Ms. Alva
 
 "Let's talk about the FAFSA," Ms. Alvarez said, clicking a slide. "It stands for *Free* Application for Federal Student Aid. If anyone—and I mean *anyone*—tries to charge you money to fill this out, you stand up and walk out of the room. It is a scam."
 
-Nichole tapped her screen. "KYLE."
+Nichole tapped her screen. <aac>Kyle.</aac>
 
 Patrick nodded grimly. Kyle had offered to "handle the paperwork" for a "processing fee."
 
@@ -6019,7 +6019,7 @@ Nichole looked at the woman on stage. There was no pressure. No "sign today or l
 
 She clicked her mouse.
 
-"HONEST."
+<aac>Honest.</aac>
 
 Patrick nodded, closing his notebook. "Yeah. It's boring. And I love it."
 
@@ -6065,7 +6065,7 @@ She looked around the cafeteria. Outside, it was forty degrees and windy. Inside
 
 She tapped her screen.
 
-"THE. TUNNELS. CHANGE. EVERYTHING."
+<aac>The. Tunnels. Change. Everything.</aac>
 
 "I know," Patrick nodded, wiping his hands. "No ice. No snow. I can push you across this whole campus in January without even wearing a coat."
 
@@ -6075,7 +6075,7 @@ He looked at the map on the table.
 
 Nichole took a sip of her soda. She looked at the charging cable connecting her to the university's grid.
 
-"NO. BET."
+<aac>No. Bet.</aac>
 
 She knew he was right. The Fortress wasn't just their house in Portsmouth anymore. They had found a Fortress that covered an entire peninsula.
 
@@ -6131,15 +6131,15 @@ The receptionist looked up and smiled warmly. "Hi there. Can I help you?"
 
 Nichole clicked her mouse.
 
-"I. WOULD. LIKE. TO. MAKE. AN. APPOINTMENT. WITH. A. COUNSELOR."
+<aac>I. Would. Like. To. Make. An. Appointment. With. A. Counselor.</aac>
 
 "Absolutely," the receptionist said, pulling up a calendar on her monitor. "Are you a prospective student?"
 
-"YES. FOR. FALL. 2004."
+<aac>Yes. For. Fall. 2004.</aac>
 
 Nichole clicked her mouse again, looking up at Patrick, and then back to the receptionist.
 
-"AND. I. WANT. MY. BROTHER. IN. THE. MEETING."
+<aac>And. I. Want. My. Brother. In. The. Meeting.</aac>
 
 Patrick stepped forward, resting his hand on the back of her wheelchair. "We're a package deal. I'm a prospective student too, applying for Engineering. But for the disability access meeting... I'm her engine."
 
@@ -6157,7 +6157,7 @@ As the receptionist handed Nichole a card with their appointment date, Nichole b
 
 She tapped her screen.
 
-"WE. NEED. TO. TELL. UNCLE. MARK."
+<aac>We. Need. To. Tell. Uncle. Mark.</aac>
 
 "I know," Patrick laughed, grabbing the push-handles of the Titan AeroMotion. "Next ferry leaves in twenty minutes. Let's go home and brief the family."
 
@@ -6215,7 +6215,7 @@ He tucked the packet into his backpack next to his engineering notes.
 
 Nichole tapped her screen.
 
-**"MY. MEDIC."**
+*<aac>My. Medic.</aac>*
 
 "Damn right," Patrick said. "Let's go home."
 
@@ -6235,7 +6235,7 @@ Today, Patrick just pulled a folded paper schedule out of his back pocket.
 
 "Okay, Nikki," Patrick said calmly. "The Newport Flyer is grounded. So we take the long way around the bay. We need to get up to Braxton Central to catch the OSTA Route 14. That means we need the Sky Platform."
 
-Nichole tapped her screen. **"ROUTING."**
+Nichole tapped her screen. *<aac>Routing.</aac>*
 
 They rolled over to the fare gates. Patrick held up Nichole’s BTA Zone 15 RegionLink smart card and tapped it against the glowing blue reader. He tapped his own. The gates parted.
 
@@ -6331,7 +6331,7 @@ Nichole looked at the glowing elevator doors down the hall, and then up at her u
 
 She tapped her screen.
 
-**"I. GOT. INTO. COLLEGE."**
+*<aac>I. Got. Into. College.</aac>*
 
 Mark smiled. He clapped Patrick on the shoulder.
 
@@ -6357,7 +6357,7 @@ Helen nodded.
 
 "Braxton State did that for an entire peninsula," Patrick explained, gesturing with his fork. "It’s called 'The Bull Run.' We walked from the engineering labs to the library, to the gym, and to the cafeteria without ever opening an exterior door. Completely climate-controlled tunnels."
 
-Nichole tapped her screen. **"THE. MOLE. LIFESTYLE."**
+Nichole tapped her screen. *<aac>The. Mole. Lifestyle.</aac>*
 
 Mark chuckled from his seat at the end of the table. "Good engineering. Saves on heating costs and prevents ice slips. What about the financials, Tom? Did you hear back about the tuition?"
 
@@ -6371,13 +6371,13 @@ Tom did the math in his head. The tension in his shoulders visibly melted. "That
 
 Ellen stopped eating. She looked at her daughter. "They treated you like an adult?"
 
-Nichole smiled. She clicked her mouse. **"THE. PRESIDENT. SAID. NO. PASSENGERS."**
+Nichole smiled. She clicked her mouse. *<aac>The. President. Said. No. Passengers.</aac>*
 
 "No passengers?" Ellen asked, confused.
 
 "The school mascot is the Bull," Patrick explained. "They pride themselves on hard work. 'Strength from the Earth.' The president gave a speech. He said he doesn't care if you have a disability or if you come from poverty. Everyone has to pull their weight. No passengers. Everyone drives."
 
-Nichole looked at her brother. **"TELL. THEM. THE. PLAN."**
+Nichole looked at her brother. *<aac>Tell. Them. The. Plan.</aac>*
 
 Patrick sat up straighter. "Okay. So, I’m applying for the College of Engineering and Computer Science. I want to build things. Mechanical, civil, structural."
 
@@ -6413,7 +6413,7 @@ Tom picked up the packet. He looked at the words *100% Pass Rate*. He looked at 
 
 "And I'd be the one giving the orders," Patrick said firmly.
 
-Nichole tapped her screen. **"MY. MEDIC."**
+Nichole tapped her screen. *<aac>My. Medic.</aac>*
 
 "My medic," Ellen repeated, tears welling up in her eyes. "My engineer. My writer. My God, you two..."
 
@@ -6423,7 +6423,7 @@ She reached across the table and put her hand over Nichole’s.
 
 Nichole looked around the table. At her father relaxing. At her grandmother who could visit the basement workshop. At her uncle who had built them a command center. And at her brother, her engine, who finally had a direction to run.
 
-She tapped her screen. **"THANK. YOU. FOR. THE. FORTRESS."**
+She tapped her screen. *<aac>Thank. You. For. The. Fortress.</aac>*
 
 "Anytime, Nikki," Mark winked, raising his own glass. "To the Bull Pass. And to Nurse Bennett."
 

@@ -1499,7 +1499,7 @@ Jessica hit the spacebar. The monitors flared to life. The **Quantum OS XN Pro**
 
 "Password," Jessica snapped.
 
-"NCC-1701-D," Paige recited, her voice cracking. "Enterprise D. It’s always the Enterprise."
+<aac>Ncc-1701-d,</aac> Paige recited, her voice cracking. "Enterprise D. It’s always the Enterprise."
 
 Jessica typed it in. <aac>Enter.</aac>
 
@@ -2305,7 +2305,7 @@ Freddie didn't look up. He kept his head lowered, the hood of his orange sweatsh
 
 *I am a prisoner,* he thought, the logic cold and absolute. *I cannot walk.*
 
-"FREDDIE!"
+<aac>Freddie!</aac>
 
 The scream didn't come from inside his head. It cut through the diesel hum of the terminal from ten feet away.
 
@@ -2914,7 +2914,7 @@ Freddie let out a long, shuddering breath. He smelled of verbena soap and clean 
 
 "Input," Freddie murmured, staring up at the dark ceiling. "Need... audio input. Verify world status."
 
-"TV?" Paige asked, her hand resting on his chest.
+<aac>Tv?</aac> Paige asked, her hand resting on his chest.
 
 "No," Freddie said. "Too bright. Just... signals. Radio."
 
@@ -4013,7 +4013,7 @@ Freddie didn't see a vehicle. He saw a cage. He saw the miles of vibration. He s
 
 Then, the air in his lungs compressed. A low, guttural rumble started deep in his chest, vibrating against Paige’s side. It rose in pitch and intensity until it tore out of his throat—a scream of absolute, primal terror.
 
-"NO! NO! NO!"
+<aac>No! No! No!</aac>
 
 He violently recoiled, trying to twist away from the window, his body spasming so hard he nearly pulled his sisters down.
 
@@ -4039,7 +4039,7 @@ Paige didn't hesitate. She climbed onto the bed.
 
 "On your back, Freddie!" Paige ordered, grabbing his shoulders and forcing him flat.
 
-He fought her. "LET GO! TRAP! TRAP!"
+He fought her. <aac>Let go! Trap! Trap!</aac>
 
 "It's me!" Paige screamed over his noise. "It's Paige!"
 
@@ -4057,7 +4057,7 @@ Jessica climbed onto the bed beside them. She didn't pin him; there wasn't room.
 
 Freddie bucked beneath Paige. He was strong—hysterical strength fueled by adrenaline. He arched his back, sobbing, a high, keen sound of misery.
 
-"GET IT OFF! GET IT OFF!"
+<aac>Get it off! Get it off!</aac>
 
 "I'm not getting off," Paige whispered fiercely into his ear. She pressed down harder, using gravity to compress his ribcage. "I am the ground wire, Freddie. Send the voltage to me."
 
@@ -4287,7 +4287,7 @@ But his throat just clicked. The words were stuck behind the firewall of the mel
 
 Paige felt the tension in his arm. She looked at him. She saw him staring at the blank TV screen with a longing that broke her heart.
 
-"TV?" Paige guessed softly.
+<aac>Tv?</aac> Paige guessed softly.
 
 Freddie nodded.
 
@@ -6194,7 +6194,7 @@ Jessica pushed the chair forward. Freddie sat a little taller, the bassline stil
 
 ### Part 6: The Hub Dilemma
 
-The waiting area for Flight 492 was a sea of humanity. The "open seating" policy meant that while the siblings had pre-board status, everyone else was jockeying for position in the dreaded "A," "B," and "C" boarding groups.
+The waiting area for Flight 492 was a sea of humanity. The "open seating" policy meant that while the siblings had pre-board status, everyone else was jockeying for position in the dreaded <aac>A,</aac> <aac>B,</aac> and "C" boarding groups.
 
 Freddie was parked near the podium, his wheelchair brakes locked. He was clutching the plastic bag from *Emerald City News*, his knuckles white around the neck of a plastic cola bottle.
 

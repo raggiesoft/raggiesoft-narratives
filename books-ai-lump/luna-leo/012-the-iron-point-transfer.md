@@ -71,21 +71,21 @@ They moved to Thomas Jefferson University (TJU). The recruiter was polished, wea
 
 Leo’s head snapped up. He tapped his screen rapidly. He turned it toward the recruiter.
 
-"INCORRECT."
+<aac>Incorrect.</aac>
 
 The recruiter blinked. "Excuse me?"
 
-"THE ROTUNDA HAS A CYLINDRICAL ELEVATOR HIDDEN IN THE EAST SHAFT. IT WAS INSTALLED DURING THE RENOVATION. IT DOES NOT REQUIRE A KEY."
+<aac>The rotunda has a cylindrical elevator hidden in the east shaft. It was installed during the renovation. It does not require a key.</aac>
 
 The recruiter stared at the screen, then at Leo. "I... I actually didn't know that."
 
-"MOST PEOPLE DON'T," Leo typed. "THAT IS THE PROBLEM. I DO NOT WANT TO USE SECRET ELEVATORS. I WANT FRONT DOORS."
+<aac>Most people don't,</aac> Leo typed. <aac>That is the problem. I do not want to use secret elevators. I want front doors.</aac>
 
 "Moving on," Stella said, giving Leo a proud nod. "We don't do 'hidden' accommodations."
 
 Next was Commonwealth Polytechnic Institute (CPI). The recruiters wore maroon and orange polos. "Best engineering in the state," the recruiter beamed. "But... it is in the mountains. Very hilly. Wind tunnels in the winter."
 
-Leo shuddered. "I DO NOT LIKE MOUNTAINS," he tapped. "OR WIND."
+Leo shuddered. <aac>I do not like mountains,</aac> he tapped. <aac>Or wind.</aac>
 
 They drifted toward the "Out of State" section. The crowds thinned here.
 
@@ -97,13 +97,13 @@ Behind the table stood a man who didn't look like a recruiter. He looked like a 
 
 Leo’s eyes locked onto the structure. He rolled closer. He tapped his screen.
 
-"CANTILEVER."
+<aac>Cantilever.</aac>
 
 Dr. Aris looked up. He saw Leo. He didn't see the wheelchair; he saw the interest.
 
 "Correct," Dr. Aris smiled. "It distributes the load to the supports. You like engineering, son?"
 
-"I LIKE STRUCTURE," Leo typed. "AND LOGIC."
+<aac>I like structure,</aac> Leo typed. <aac>And logic.</aac>
 
 "Then you'd like Braxton," Dr. Aris said. He reached under the table and pulled out a heavy, glossy booklet titled "Campus Accessibility Master Plan: 2005."
 
@@ -219,7 +219,7 @@ Dr. Aris took the paper and tucked it into his breast pocket, right next to his 
 
 "It sounds like you've already made up your minds," Dr. Aris smiled, shaking Leo’s hand. "See you in the fall, Leo. I expect great things from that cantilever bridge."
 
-"COUNT ON IT," Leo typed.
+<aac>Count on it,</aac> Leo typed.
 
 As the Fortress rolled away, heading toward the exit, they didn't look back at the VDU table or the snobs at King's College. They walked out into the Virginia sunshine, but their heads were already six hundred miles north, listening to the hum of the train and the whistle of the wind in Iron Point.
 
@@ -301,7 +301,7 @@ November 2005 Stella's house - Living Room
 
 The living room had been transformed into a makeshift recording studio. Stella had hung heavy blankets over the windows to dampen the street noise. Leo, maneuvering his manual wheelchair with precise, short strokes, adjusted the tripod of Stella’s high-end digital camera.
 
-"Angle is good," Leo signaled, tapping his Quantum Communicator which sat on the coffee table. *"LIGHTING IS NEUTRAL."*
+"Angle is good," Leo signaled, tapping his Quantum Communicator which sat on the coffee table. <aac>Lighting is neutral.</aac>
 
 Luna stood in the center of the room. She wasn't wearing her marching band uniform or a t-shirt. She was dressed in concert black—a simple, elegant blouse and slacks. She held the Orpheus 680 at her side, the silver gleaming against the dark fabric.
 
@@ -329,7 +329,7 @@ She held her position for three seconds, letting the silence hang.
 
 Leo didn't clap. He looked at the camera’s LCD screen. He checked the audio levels.
 
-"PERFECT," he typed. "NO CLIPPING. PURE SIGNAL."
+<aac>Perfect,</aac> he typed. <aac>No clipping. Pure signal.</aac>
 
 "That was it," Olivia whispered. "That was the one."
 
@@ -429,13 +429,13 @@ Luna sat up straighter. "We went to the Transfer Fair last month. We looked at V
 
 Leo tapped his screen. The synthesized voice cut through the room, clear and proud.
 
-"BRAXTON STATE UNIVERSITY."
+<aac>Braxton state university.</aac>
 
 Arthur’s eyebrows shot up. "Braxton? Up in New England? That's... that's home territory."
 
 "It is," Stella said. "It's on the coast. It's flat. And Grandpa... the infrastructure is incredible. They have a train system that makes D.C. look like a toy set."
 
-"THE TRAIN GOES TO THE CLASSROOM," Leo typed, his eyes shining. "LEVEL BOARDING. NO RAMPS NEEDED."
+<aac>The train goes to the classroom,</aac> Leo typed, his eyes shining. <aac>Level boarding. No ramps needed.</aac>
 
 "And the Conservatory," Luna burst out, unable to hold it back. "The Dean of Music emailed me. She heard the recording of *Syrinx* on the Orpheus flute. She wants me to audition for Principal Chair. As a freshman."
 
@@ -465,7 +465,7 @@ Arthur looked at Leo. "And the engineering program? It's good?"
 
 Leo pulled up a photo on his mounted screen. It was the picture of **Dr. Aris** holding the balsa wood bridge.
 
-"THE DEAN IS A BUILDER," Leo typed. "HE RESPECTS THE LOAD."
+<aac>The dean is a builder,</aac> Leo typed. <aac>He respects the load.</aac>
 
 Arthur chuckled, a deep, warm sound. "He respects the load. I like that. Well, Stella... it sounds like you've done your homework. As usual."
 
@@ -572,7 +572,7 @@ The morning light caught the matching silver bands on their ring fingers. They w
 
 Leo squeezed her hand. He tapped his **Quantum Communicator**.
 
-"READY FOR LAUNCH."
+<aac>Ready for launch.</aac>
 
 The train lurched. The diesel engine roared. The pine trees of Newport News began to slide backward.
 
@@ -587,7 +587,7 @@ Leo sat up straighter. He let out a sharp, excited sound— *"Ah!"* —and point
 
 He tapped his screen rapidly, turning it so Arthur could see across the aisle.
 
-"POWER SWAP. DIESEL OFF. ELECTRIC ON."
+<aac>Power swap. Diesel off. Electric on.</aac>
 
 Outside, the heavy diesel locomotive was decoupled. In its place, a sleek, boxy **Electric Locomotive** hummed into position, connecting to the overhead catenary wires.
 
@@ -624,7 +624,7 @@ As they glided into the station on the elevated track, Leo saw the massive stati
 
 He tapped his Quantum Communicator.
 
-"THE TRAIN SAYS UNIVERSITY. THE BUILDING SAYS PARK."
+<aac>The train says university. The building says park.</aac>
 
 "Different maps," Stella noted, packing her laptop. "ARTS sells the school. The city sells the beach. Same platform."
 
@@ -692,7 +692,7 @@ The rest of the Fortress stepped off the belt, catching up to him.
 
 Leo tapped his Quantum Communicator.
 
-"ZERO FRICTION," he typed. "SMOOTH FLOOR IS FAST."
+<aac>Zero friction,</aac> he typed. <aac>Smooth floor is fast.</aac>
 
 "You beat the machine," Stella noted, checking her watch. "Efficiency. I like it. Now let's go find our rooms.
 
@@ -739,7 +739,7 @@ A young woman in a sharp blazer stood behind the computer. Her nametag read: JE
 
 Leo tapped his Quantum Communicator.
 
-"PORTER PARTY. TWO ROOMS."
+<aac>Porter party. Two rooms.</aac>
 
 "Welcome, Mr. Porter," Jessica said, typing quickly. "We have you in the Chancellor Wing. It’s our Universal Design showcase."
 
@@ -759,7 +759,7 @@ Arthur leaned on his cane, listening. He looked at Eleanor.
 
 Jessica handed two key packets to Leo. He took them.
 
-"THANK YOU," he typed. "I LIKE THE DESK HEIGHT."
+<aac>Thank you,</aac> he typed. <aac>I like the desk height.</aac>
 
 Jessica beamed. "It’s standard BSU code. Eye level is respect level. Enjoy your stay."
 
@@ -784,7 +784,7 @@ Leo rolled to the window. He pulled back the curtain. He could see the glowing w
 
 He tapped his screen.
 
-"UNPACK THE SUITCASE. I AM HUNGRY."
+<aac>Unpack the suitcase. I am hungry.</aac>
 
 "Room service?" Olivia suggested, flopping onto one of the queen beds. "I saw 'Braxton Clam Chowder' on the menu in the elevator."
 
@@ -876,7 +876,7 @@ Luna looked at the card in her hand. It felt heavy. It felt like a ticket.
 
 "Leo," she whispered. "Did that just happen?"
 
-"THE DEAN INTERCEPTED US," Leo typed. "SHE MISSED A TRAIN FOR YOU."
+<aac>The dean intercepted us,</aac> Leo typed. <aac>She missed a train for you.</aac>
 
 "We have to tell Stella," Luna said, grabbing his handles. "We have to tell everyone."
 
@@ -884,7 +884,7 @@ She spun the chair around. They raced back down the Concourse Tunnel, ignoring t
 
 "She wants to hear *Syrinx*," Luna said, breathless. "Live."
 
-"SHE WANTS THE SIGNAL," Leo typed.
+<aac>She wants the signal,</aac> Leo typed.
 
 They burst into the elevator, hitting the button for the lobby. They had come for a vacation. They were leaving with a career.
 
@@ -926,11 +926,11 @@ After a long moment, he opened his eyes. He looked at the two queen beds in the 
 
 He reached for his **Quantum Communicator**. His fingers were slow, heavy with fatigue.
 
-"TOO BIG," he typed. "THE ROOM IS TOO BIG."
+<aac>Too big,</aac> he typed. <aac>The room is too big.</aac>
 
 He looked at Olivia, then at Luna.
 
-"I CANNOT SLEEP ALONE. NOT TONIGHT. THE WALLS ARE WRONG."
+<aac>I cannot sleep alone. Not tonight. The walls are wrong.</aac>
 
 "You don't have to," Luna said immediately. "We already know the drill."
 
@@ -974,7 +974,7 @@ The Fortress (plus Arthur and Eleanor) occupied a large round table near the fir
 
 Leo looked out the window. He tapped his **Quantum Communicator**.
 
-"FRICTION COEFFICIENT IS ZERO. TRACTION IMPOSSIBLE."
+<aac>Friction coefficient is zero. Traction impossible.</aac>
 
 Their waitress arrived with a fresh pot of coffee. Her nametag read **ASHLEE - Junior / Hospitality**. She saw the coats piled on the extra chair—heavy wool, scarves, hats.
 
@@ -1006,7 +1006,7 @@ She pointed to the elevators.
 
 Leo looked at the window, where the wind was screaming. Then he looked at the warm, carpeted hallway leading to the elevators.
 
-"UNDERGROUND," he typed. "WE ARE MOLES."
+<aac>Underground,</aac> he typed. <aac>We are moles.</aac>
 
 "Warm moles," Arthur chuckled, wiping his mouth. "Let's go see this tunnel."
 
@@ -1053,7 +1053,7 @@ Leo rolled ahead. His manual chair glided effortlessly on the smooth floor. He d
 
 He tapped his screen.
 
-"LOGIC WINS."
+<aac>Logic wins.</aac>
 
 09:45 AM
 
@@ -1213,7 +1213,7 @@ Leo rolled his manual chair up to her. He looked at her face. He saw the exhaust
 
 He tapped his Quantum Communicator.
 
-"DATA UPLOAD COMPLETE," he typed. "SYSTEM COOLING DOWN."
+<aac>Data upload complete,</aac> he typed. <aac>System cooling down.</aac>
 
 "Yeah," Luna laughed shakily. "System cooling down. I think I forgot to breathe for three minutes."
 
@@ -1245,7 +1245,7 @@ This was the ultimate stress test. A manual wheelchair. A blizzard. A train ride
 
 He tapped his screen.
 
-"LET'S RIDE THE BEAST."
+<aac>Let's ride the beast.</aac>
 
 
 They stood on the elevated platform, protected by the glass windbreaks. The ocean below was a churning cauldron of grey foam.
@@ -1262,7 +1262,7 @@ Leo watched her. He reached out and patted her arm. She had done her job. She ha
 
 He looked out the window as the train cut through the whiteout, heading south toward **Zone 6**.
 
-"NEXT STOP," he typed to himself. "THE FOUNDATION."
+<aac>Next stop,</aac> he typed to himself. <aac>The foundation.</aac>
 
 
 The train was cutting through the whiteout of the blizzard. Inside the warm, bi-level car, the Fortress sat around their table. Luna was dozing on her flute case.
@@ -1297,7 +1297,7 @@ Leo scrolled down to the "Equipment List" for the department.
 
 1 Harpsichord (Decorative).
 
-"NO FLUTES," Leo typed. "ZERO."
+<aac>No flutes,</aac> Leo typed. <aac>Zero.</aac>
 
 "Luna was right," Olivia whispered, trying not to laugh. "They don't have a B-foot. They don't even have a flute."
 
@@ -1307,7 +1307,7 @@ Leo smirked. He looked at Luna, sleeping with her **Orpheus 680**—a solid silv
 
 She wasn't just better than them. She was the mercenary they would eventually have to hire to make themselves look good.
 
-"WE ARE THE PROS," Leo typed.
+<aac>We are the pros,</aac> Leo typed.
 
 "Yes," Olivia agreed, looking out the window as the train slowed. "And we're almost to the site. Get ready for the Stress Test."
 
@@ -1327,7 +1327,7 @@ She looked at Leo in his manual chair. "Ready to roll?"
 
 Leo gripped his rims. He had his heavy winter gloves on. His shoulders were strong from years of transfers.
 
-*"LET'S GO,"* he nodded.
+<aac>Let's go,</aac> he nodded.
 
 They moved out.
 
@@ -1353,7 +1353,7 @@ He looked at the snow. He looked at the distance.
 
 He tapped his **Quantum Communicator**. The voice was faint in the wind, but clear.
 
-"IT IS REACHABLE."
+<aac>It is reachable.</aac>
 
 Arthur stood next to him, leaning on his cane, snow gathering on his cap. "It's solid ground, Leo. High water table is low. Good drainage. It's a good place to build."
 
@@ -1395,11 +1395,11 @@ Leo looked back toward the dark line of trees where **Lot 4B** lay hidden under 
 
 He tapped his Quantum Communicator.
 
-"THE TEST PASSED."
+<aac>The test passed.</aac>
 
 "It did," Olivia agreed, brushing snow off his jacket. "If we could do it today, in this nightmare, we can do it on a sunny Tuesday in May."
 
-"IT IS ROLLABLE," Leo typed. "IT IS SURVIVABLE."
+<aac>It is rollable,</aac> Leo typed. <aac>It is survivable.</aac>
 
 In the distance, the twin headlights of the **BiLevel Train** appeared, cutting through the whiteout. The train was moving slowly, pushing a wave of snow ahead of it. It looked heavy, unstoppable, and incredibly safe.
 
@@ -1442,7 +1442,7 @@ But he was inside. He was warm. And he had a plan.
 
 He tapped his screen.
 
-"MISSION ACCOMPLISHED. WE BUY THE DIRT."
+<aac>Mission accomplished. We buy the dirt.</aac>
 
 Stella smiled, pulling out her phone to call Barbara the real estate agent. "Yes, we do. Room service first, then real estate."
 
@@ -1470,7 +1470,7 @@ BLUE LINE - WEST END - 18 MIN RED LINE - STADIUM/ARMORY - 14 MIN SERVICE ALERT: 
 
 "It's shrinking," Luna whispered, her voice echoing. "The whole map just got cut in half."
 
-"SURVIVAL MODE," Leo typed. "IT PROTECTS THE CORE."
+<aac>Survival mode,</aac> Leo typed. <aac>It protects the core.</aac>
 
 A chime sounded—not the cheerful arrival chime, but a slower, solitary note.
 
@@ -1490,7 +1490,7 @@ They nodded to each other—a silent brotherhood of the essential.
 
 Leo looked into the train car. It was warm. The lights were on. The digital map on the wall showed the stops. The lights for **Fairview** and **Suburbia** were dark. Only the **Underground** lights were glowing.
 
-"THE VEINS ARE CLOSED," Leo typed. "BUT THE HEART IS PUMPING."
+<aac>The veins are closed,</aac> Leo typed. <aac>But the heart is pumping.</aac>
 
 "It's the lifeline," Luna agreed. "If you get sick, or if the power goes out upstairs, this is the only way to move."
 
@@ -1584,7 +1584,7 @@ Leo rolled over to Stella. He looked at the notepad where she had written **\$40
 
 He tapped his Quantum Communicator.
 
-"WE BOUGHT THE DIRT."
+<aac>We bought the dirt.</aac>
 
 "We bought the foundation," Stella corrected. "Now... who wants to order the most expensive thing on the room service menu to celebrate?"
 
@@ -1656,7 +1656,7 @@ Leo rolled up to the desk. He looked at the paper. He saw his name—his full, l
 
 He tapped his Quantum Communicator.
 
-"LEO ARTHUR PORTER. LANDOWNER."
+<aac>Leo arthur porter. Landowner.</aac>
 
 "Landowner," Arthur agreed, his voice thick with emotion. "It’s a good title, son. Wear it well."
 
@@ -1700,7 +1700,7 @@ Leo raised his glass. He looked at the map of Iron Point that was still open on 
 
 He tapped his Quantum Communicator.
 
-"WE SECURED THE PERIMETER."
+<aac>We secured the perimeter.</aac>
 
 "That we did, son," Arthur said, his voice warm and steady. "That we did."
 
@@ -1740,7 +1740,7 @@ Arthur Bennett walked out of the bedroom, tying his robe. He stood next to Leo, 
 
 Leo tapped his Quantum Communicator.
 
-"IT IS A SIEGE ENGINE."
+<aac>It is a siege engine.</aac>
 
 "It's beautiful," Arthur agreed. "That is tax money well spent. Look at the coordination. The loaders clear the bus loop while the jets clear the rail. They aren't waiting for it to melt. They are evicting it."
 
@@ -1754,7 +1754,7 @@ Leo zoomed in with his eyes (and his mental map). He saw the digital sign on the
 
 REGIONAL RAIL - SERVICE SUSPENDED ESTIMATED RESUMPTION: 12:00 PM
 
-"FIVE HOURS," Leo typed. "THEN THE BEAST RUNS AGAIN."
+<aac>Five hours,</aac> Leo typed. <aac>Then the beast runs again.</aac>
 
 "That's fast," Olivia noted. "Two feet of snow and they're running by noon?"
 
@@ -1774,13 +1774,13 @@ He felt the walls of the hotel room closing in. He needed movement. He needed da
 
 He tapped his screen, the sound sharp in the quiet room.
 
-"CABIN FEVER. CRITICAL LEVELS."
+<aac>Cabin fever. Critical levels.</aac>
 
 Stella looked up from her breakfast. She knew that look. It was the "kinetic energy overload" look.
 
 "You need to roll," she diagnosed.
 
-"I NEED DISTANCE," Leo confirmed.
+<aac>I need distance,</aac> Leo confirmed.
 
 "We can't go outside," Luna pointed out. "It's ten degrees and there are bulldozers everywhere."
 
@@ -1790,7 +1790,7 @@ Stella smiled. She reached into her purse and pulled out the hotel key card.
 
 Leo’s eyes lit up. He grabbed his wheels.
 
-"TUNNEL RECON," he typed. "LET'S GO."
+<aac>Tunnel recon,</aac> he typed. <aac>Let's go.</aac>
 
 "Suit up," Stella commanded. "Light jackets only. It's seventy degrees underground."
 
@@ -1891,7 +1891,7 @@ Leo finished. Olivia helped him clean up, her movements efficient and gentle. Sh
 
 Leo nodded, slumping back into the seat. He tapped his **Quantum Communicator**.
 
-"TIRED. ARMS ARE JELLY."
+<aac>Tired. Arms are jelly.</aac>
 
 "I bet," Olivia said. "That was a mile of pushing, Leo. And we haven't even hit the Engineering block."
 
@@ -1911,21 +1911,21 @@ He needed to upgrade.
 
 He tapped his screen.
 
-"OLIVIA."
+<aac>Olivia.</aac>
 
 "Yeah?"
 
-"I CANNOT PUSH THIS CAMPUS."
+<aac>I cannot push this campus.</aac>
 
 Olivia looked at him. She understood immediately.
 
 "It's too big," she agreed.
 
-"I NEED A MOTOR," Leo typed. "I NEED THE TANK."
+<aac>I need a motor,</aac> Leo typed. <aac>I need the tank.</aac>
 
 "Power chair?" Olivia asked.
 
-"POWER CHAIR," Leo confirmed. "IF I AM GOING TO BE AN ENGINEER, I NEED A MACHINE."
+<aac>Power chair,</aac> Leo confirmed. <aac>If I am going to be an engineer, I need a machine.</aac>
 
 Olivia smiled, unlocking the door. "I think Stella will agree. Let's go tell her."
 
@@ -1937,7 +1937,7 @@ They emerged back into the tunnel. Stella and Luna were waiting.
 
 Leo tapped his screen, broadcasting the voice to the empty hallway.
 
-"MANUAL OVERRIDE DISENGAGED. INITIATING POWER PROTOCOL."
+<aac>Manual override disengaged. Initiating power protocol.</aac>
 
 Stella looked at the long stretch of tunnel ahead. She nodded. "Yeah. I was thinking the same thing watching you push. We'll call the Titan dealer when we get back to Virginia. New city, new wheels."
 
@@ -1969,7 +1969,7 @@ REGIONAL RAIL: SUSPENDED
 
 HARBOR FERRY: LIMITED SERVICE RESTORED (Navy Yard / Portside Only)
 
-"THE BOATS ARE RUNNING," Leo typed, surprised.
+<aac>The boats are running,</aac> Leo typed, surprised.
 
 "Water doesn't need plowing," Stella noted. "The wind died down. The captains are tough."
 
@@ -1995,7 +1995,7 @@ He thought about Virginia Beach, where a storm like this would have caused panic
 
 He tapped his Quantum Communicator.
 
-"THE MACHINE WORKS," he typed. "EVEN WHEN IT IS SLEEPING."
+<aac>The machine works,</aac> he typed. <aac>Even when it is sleeping.</aac>
 
 "That's why we picked it," Stella said, breaking a cinnamon roll in half. "Reliability. Now eat up. We have to be back at the hotel before the plows clear the streets and the noise comes back."
 
@@ -2027,7 +2027,7 @@ They rolled on. The car was warm, brightly lit, and mostly empty, save for a few
 
 They claimed a bank of seats near the door. Leo parked his manual chair in the designated bay, locking his wheels. He felt the vibration of the compressor under the floor.
 
-"POWER UP," he typed.
+<aac>Power up,</aac> he typed.
 
 The train lurched gently, then accelerated. The tunnel walls blurred into streaks of concrete and cable.
 
@@ -2068,7 +2068,7 @@ Arthur stared at it, a smile spreading across his face.
 
 Leo sat in his chair, head tilted back. He watched the flaps settle. It was analog precision in a digital world.
 
-"THE HEARTBEAT," Leo typed.
+<aac>The heartbeat,</aac> Leo typed.
 
 They walked the perimeter of the Concourse. They found a pretzel shop that was open, serving hot, soft pretzels to the stranded travelers and BTA staff.
 
@@ -2090,7 +2090,7 @@ They took the Crystal Elevator back down, descending into the earth, leaving the
 
 As they boarded the return train to Narraganset Esplanade, Leo looked back at the station map on the wall of the car. He traced the line from **Central** to **Esplanade**.
 
-"WE CONQUERED THE STORM," he typed.
+<aac>We conquered the storm,</aac> he typed.
 
 "We went for a ride," Luna corrected, leaning her head on his shoulder. "But yeah. We conquered it."
 
@@ -2273,7 +2273,7 @@ Leo looked at Stella. He looked at the folder.
 
 He tapped his Quantum Communicator.
 
-"GAME OVER," he typed. "WE WIN."
+<aac>Game over,</aac> he typed. <aac>We win.</aac>
 
 "Flawless victory," Luna agreed, grinning.
 
@@ -2287,7 +2287,7 @@ Stella looked at the Fortress.
 
 Leo rolled to the window and looked out at the street of Iron Point. It was no longer just a town he was visiting. It was his address.
 
-"I AM A RESIDENT," he typed.
+<aac>I am a resident,</aac> he typed.
 
 "Yes you are, Leo Arthur," his grandfather said, closing his eyes for a moment of rest. "Yes you are."
 
@@ -2376,7 +2376,7 @@ She pulled out her phone and dialed the number for the twins back in Virginia.
 
 Leo’s voice came through the background, via his Communicator.
 
-"FORTRESS SECURE."
+<aac>Fortress secure.</aac>
 
 "Fortress secure," Stella agreed. "Now I just have to go find a contractor who knows how to pour concrete in a nor'easter."
 
@@ -2413,7 +2413,7 @@ He reached out and touched Arthur’s cold hand. It was the hand that had signed
 
 Leo tapped his Quantum Communicator.
 
-"ENGINE OFF. RACE WON."
+<aac>Engine off. Race won.</aac>
 
 "That it is, Leo," Eleanor agreed. "He crossed the finish line."
 
@@ -2438,7 +2438,7 @@ She looked at Luna and Leo.
 
 Leo rolled up to her. He placed his hand on her knee.
 
-"GRANDMA IS COMING," he typed.
+<aac>Grandma is coming,</aac> he typed.
 
 "Grandma is coming," Eleanor agreed, covering his hand with hers. "I promised Arthur I'd keep an eye on you. And I never break a promise."
 
@@ -2530,7 +2530,7 @@ She described Arthur. The car dealer who hated tricks. The patriarch who bought 
 
 Leo looked around the studio. He saw blocks of raw granite and marble. He tapped his **Quantum Communicator**.
 
-"HE WAS LIKE THE MOUNTAIN," Leo typed. "HE NEEDS STONE."
+<aac>He was like the mountain,</aac> Leo typed. <aac>He needs stone.</aac>
 
 "Granite," the artist nodded. "I have a block of Rhode Island Blue Granite. It's quarried locally. It’s extremely hard, very dense. It polishes to a deep grey-blue."
 
@@ -2571,7 +2571,7 @@ She placed the urn into a velvet-lined carrying case.
 
 Leo watched Stella secure the case. He knew what was inside. But looking at the polished stone, he didn't feel fear. He felt respect.
 
-"HE IS READY TO TRAVEL," Leo typed.
+<aac>He is ready to travel,</aac> Leo typed.
 
 "First Class," Olivia agreed.
 
@@ -2639,7 +2639,7 @@ He nodded to Stella and moved down the aisle.
 
 Leo watched the ticket sitting on the chrome rim. He tapped his **Quantum Communicator**.
 
-"HE HAS A TICKET. HE IS A PASSENGER."
+<aac>He has a ticket. He is a passenger.</aac>
 
 "He's the VIP," Stella whispered, wiping a tear. "He paid for the ride. It's only right he gets a seat."
 
@@ -2732,11 +2732,11 @@ Sarah closed the binder. "I'll file the petition tomorrow. By the time you pack 
 
 Leo tapped his Quantum Communicator.
 
-"VIRGINIA IS DELETED. RHODE ISLAND IS INSTALLED."
+<aac>Virginia is deleted. Rhode island is installed.</aac>
 
 "System upgrade," Sarah agreed, shaking his hand. "You're going to love New England, Leo. I hear the trains are excellent."
 
-"THEY ARE," Leo typed. "AND THE STATIONS HAVE ELEVATORS."
+<aac>They are,</aac> Leo typed. <aac>And the stations have elevators.</aac>
 
 ### Part 2: The War Room
 
@@ -2762,7 +2762,7 @@ Leo looked at Luna. They had worked so hard to get their degrees. But the goal w
 
 He typed on his Scribe.
 
-"DROP THE CLASSES. FULL REFUND."
+<aac>Drop the classes. Full refund.</aac>
 
 "Agreed," Luna said immediately. "I don't need to take 'Music Appreciation' when I've already been accepted to a Conservatory. Let's take the refund and put it toward the moving costs."
 
@@ -2802,7 +2802,7 @@ She looked out the window at the 2001 Holt Sentinel parked in the driveway. It w
 
 Leo looked at the map on his screen. He traced the rail line.
 
-"WE TAKE THE TRAIN," he typed.
+<aac>We take the train,</aac> he typed.
 
 "We take the train," Stella agreed. "We book Business Class on the ARTS Coastal Service. We ride together, relaxed. We get off at Iron Point Station, and we walk the two blocks to our front door."
 
@@ -2818,7 +2818,7 @@ She looked at the list. It was a massive logistical operation. But they had the 
 
 Leo watched Stella grab her keys. He looked at the urn on the shelf.
 
-"THE GENERAL HAS A PLAN," he typed.
+<aac>The general has a plan,</aac> he typed.
 
 "The General always has a plan," Olivia smiled. "Let's get to work."
 
@@ -2907,7 +2907,7 @@ Leo shook his head vigorously. He looked at the back row of the van—the bench 
 
 He tapped his **MagnaByte Scribe**.
 
-*"BACK SEAT. MIDDLE."*
+<aac>Back seat. Middle.</aac>
 
 "He rides with the team," Olivia explained to the driver. "We're a package deal."
 
@@ -3181,7 +3181,7 @@ Leo rolled in. He spun a circle in the middle of the living room. It was cozy. I
 
 He tapped his **MagnaByte Scribe**.
 
-*"BASE CAMP ESTABLISHED."*
+<aac>Base camp established.</aac>
 
 "It's perfect, Mrs. O'Malley," Stella said, dropping her bags. "Thank you."
 
@@ -3244,7 +3244,7 @@ He looked at Leo.
 
 Leo nodded. He typed on his **MagnaByte Scribe**.
 
-*"I UNDERSTAND. YOU ARE THE FIREWALL."*
+<aac>I understand. You are the firewall.</aac>
 
 Judge Miller read the screen. He smiled.
 
@@ -3311,7 +3311,7 @@ Then he looked out the window of the Carriage House. He saw the green grass of t
 
 He tapped his **MagnaByte Scribe**.
 
-*"BETTER THEM THAN US."*
+<aac>Better them than us.</aac>
 
 "Amen," Olivia said, grabbing a scone. "If we had driven, we'd be sitting in that right now. Probably arguing about which lane is faster."
 
@@ -3345,7 +3345,7 @@ She handed a roll of blue painter’s tape to Olivia and a laser distance measur
 
 Leo grinned. He switched his **MagnaByte Scribe** to "CAD Mode."
 
-<aac>Grid activated,</aac> he typed. <aac>"LET'S BUILD THE GHOSTS."</aac>
+<aac>Grid activated,</aac> he typed. <aac><aac>Let's build the ghosts.</aac></aac>
 
 
 Before they started taping, Stella walked to the utility panel in the mudroom.
@@ -3401,7 +3401,7 @@ He looked at Luna. He remembered the "Iron Works" defense at the football game�
 
 He tapped his **Quantum Communicator**.
 
-*"THIS ROOM IS TOO BIG FOR A BELL KIT."*
+<aac>This room is too big for a bell kit.</aac>
 
 "It is," Luna agreed. "But it's what we have."
 
@@ -3413,11 +3413,11 @@ He rolled to the back wall. He spun his chair, measuring the width.
 
 Luna’s eyes widened. "A full kit? Kick drum, snare, cymbals?"
 
-*"YES. AND A REAL GLOCKENSPIEL. THE OAK ONE. THE VANGUARD SOLOIST."*
+<aac>Yes. And a real glockenspiel. The oak one. The vanguard soloist.</aac>
 
 He pointed to the floor.
 
-*"THIS IS NOT JUST YOUR PRACTICE ROOM. THIS IS THE ENGINE ROOM."*
+<aac>This is not just your practice room. This is the engine room.</aac>
 
 Luna looked at him. She saw the spark in his eyes—the same spark he had when he built the bridge model for Dr. Aris. He didn't just want to tap along anymore; he wanted to drive the rhythm.
 
@@ -3501,7 +3501,7 @@ Leo turned to Stella. He mounted his **MagnaByte Scribe**.
 
 "I'm listening," Stella said, putting down her fork.
 
-*"THE HOUSE IS BIG. THE STUDIO IS SOUNDPROOF. MY STUDENT BELL KIT IS TOO SMALL FOR THE ROOM."*
+<aac>The house is big. The studio is soundproof. My student bell kit is too small for the room.</aac>
 
 He pulled up a browser window he had saved earlier. It showed the **Vanguard Soloist** (the oak-cased glockenspiel) and a massive, gleaming **Vanguard** drum kit in "Midnight Sparkle" finish.
 
@@ -3523,11 +3523,11 @@ Leo grinned. But he wasn't done.
 
 He pulled up the map of the **Braxton State University** campus. It was a sea of buildings spread over 300 acres.
 
-*"THE CAMPUS IS HUGE. THE TUNNELS ARE LONG. TODAY, I WAS TIRED AFTER ONE MILE."*
+<aac>The campus is huge. The tunnels are long. Today, I was tired after one mile.</aac>
 
 He looked at his manual chair.
 
-*"I CANNOT PUSH TO ENGINEERING EVERY DAY. I NEED A MOTOR."*
+<aac>I cannot push to engineering every day. I need a motor.</aac>
 
 He switched tabs to the **Titan Mobility** website. He showed the **Titan X-Treme**—the mid-wheel drive beast with the seat elevator and the transit tie-downs.
 
@@ -3583,7 +3583,7 @@ Leo was rocking back and forth on the edge of the bed, his hands clutching his e
 
 He tapped his **Quantum Communicator** frantically. The voice was cranked to maximum volume, disjointed and terrified.
 
-*"SHE WILL SEE THE DEED. SHE WILL SEE THE NAME. SHE IS COMING. HIDE. HIDE. HIDE."*
+<aac>She will see the deed. She will see the name. She is coming. Hide. Hide. Hide.</aac>
 
 Luna read the screen. The word "SHE" hit her.
 
@@ -3678,7 +3678,7 @@ Inside the room, the silence wasn't empty; it was heavy with the static of the m
 
 Leo tapped his **Quantum Communicator** one last time before shutting it down for the night.
 
-*"SYNC MODE. FULL CONTACT."*
+<aac>Sync mode. Full contact.</aac>
 
 Luna nodded. She turned off the bedside lamp, plunging the room into the soft blue darkness of the moonlit garden outside.
 
@@ -3791,7 +3791,7 @@ Luna looked up from Leo’s chest. "Who was that?"
 
 Leo’s eyes widened. He tapped his **Quantum Communicator**.
 
-*"DID HE SEE?"*
+<aac>Did he see?</aac>
 
 "Nope," Stella grinned, patting the slate tiles of the partition. "He saw the wall. He saw me. He didn't see the Fortress."
 
@@ -3985,7 +3985,7 @@ He hit the **Elevate** button. The seat rose 12 inches, bringing him to eye leve
 
 Leo grinned. He tapped his Scribe, which he had transferred to the new mount.
 
-*"I AM TALL,"* the robotic voice said.
+<aac>I am tall,</aac> the robotic voice said.
 
 "It fits," Luna said. "It looks like you."
 
@@ -3999,7 +3999,7 @@ Leo spun the chair around. He drove up to the counter, still elevated.
 
 "Sir?" the salesman asked.
 
-*"I AM DRIVING IT HOME."*
+<aac>I am driving it home.</aac>
 
 "You... you can't drive it to Iron Point," the salesman stammered. "It's thirty miles."
 
@@ -4032,7 +4032,7 @@ Olivia had to jog slightly to keep up.
 
 Leo looked at her. He looked at the bus stop ahead. He looked at the city.
 
-<aac>Maximum power,</aac> he typed. <aac>"LET'S GO CATCH THE 4."</aac>
+<aac>Maximum power,</aac> he typed. <aac><aac>Let's go catch the 4.</aac></aac>
 
 They headed for the bus stop, Leo leading the way in his new chariot, leaving the manual chair behind to be delivered by the staff. He didn't need it anymore. He had the power.
 
@@ -4048,7 +4048,7 @@ The driver, a friendly woman named Maria, secured the four-point tie-downs.
 
 Leo nodded. He tapped his Scribe, which was now mounted securely on the Titan’s accessory rail.
 
-*"MAIDEN VOYAGE,"* the robotic voice said.
+<aac>Maiden voyage,</aac> the robotic voice said.
 
 "Well, you picked a good bus," Maria smiled. "Route 4 goes past the best view in the city."
 
@@ -4175,7 +4175,7 @@ He looked at his family, all sitting at eye level with him. He didn't have to lo
 
 He tapped his Scribe.
 
-*"I LIKE THE VIEW FROM UP HERE."*
+<aac>I like the view from up here.</aac>
 
 "Get used to it," Stella smiled, clinking her spoon against his bowl. "You're tall now."
 
@@ -4199,7 +4199,7 @@ Leo considered it. The bus (Route 4) was efficient. But the boat... the boat was
 
 Leo watched the boat disappear around the point. He liked that his pass worked on land, underground, and on the water. It felt like he owned the entire map.
 
-*"WE TAKE THE BOAT,"* he decided. *"FULL FLEET INSPECTION."*
+<aac>We take the boat,</aac> he decided. <aac>Full fleet inspection.</aac>
 
 "Aye aye, Captain," Arthur said, finishing his lobster roll. "Let's go find our sea legs."
 
@@ -4215,7 +4215,7 @@ He looked back at the receding skyline of Braxton City. He saw the glass spire o
 
 He tapped his Scribe, which was clamped firmly to his new mount.
 
-*"WE ARE SEABORNE,"* the robotic voice said, cutting through the wind.
+<aac>We are seaborne,</aac> the robotic voice said, cutting through the wind.
 
 "It beats the bus," Stella yelled over the engine noise, holding her hair back. "No traffic lights on the water."
 
@@ -4537,7 +4537,7 @@ He looked at the **Cranberry Walnut Bread** in the center of the table. He thoug
 
 He tapped his Scribe.
 
-*"GRANDPA WOULD LIKE THIS MENU."*
+<aac>Grandpa would like this menu.</aac>
 
 "He's having a slice right now," Eleanor said, placing the warm bread basket next to the urn on the mantle before bringing a second basket to the table. "Now eat. You need your strength for school."
 
@@ -4688,7 +4688,7 @@ She pushed the waiver form back.
 
 Leo tapped his **Quantum Communicator**.
 
-*"SHE IS OUR PASSPORT,"* the robotic voice said.
+<aac>She is our passport,</aac> the robotic voice said.
 
 Dr. Gagnon looked at the group. He saw the loyalty. He saw that the girl with the Canadian passport wasn't using her status to escape the work; she was using it to lift her family up.
 
@@ -4794,7 +4794,7 @@ Leo picked up his card. He looked at it. It unlocked the subway. It unlocked the
 
 "It’s your room," Sterling said. "Just remember the rule: If I hear that glockenspiel in the hallway, the deal is off. Keep the door closed."
 
-*"SEALED TIGHT,"* Leo promised.
+<aac>Sealed tight,</aac> Leo promised.
 
 "One last thing," Sterling said, looking at Luna. "The first Wind Symphony rehearsal is Monday. The upperclassmen are going to be... curious. They've heard rumors about the 'Freshman with the Silver Flute.'"
 
@@ -4902,11 +4902,11 @@ He needed the "Freshman Engineering Block."
 
 He tapped his **Quantum Communicator**.
 
-*"HEAVY LOAD,"* the robotic voice said. *"BUT IT CLEARS THE AFTERNOONS."*
+<aac>Heavy load,</aac> the robotic voice said. <aac>But it clears the afternoons.</aac>
 
 "That works," Stella noted. "You have a gap on M/W/F from 2:00 to 4:00 while Luna is prepping for Symphony. You can hit the library."
 
-*"OR THE MACHINE SHOP,"* Leo corrected. *"I WANT TO USE THE NEW CNC MILLS."*
+<aac>Or the machine shop,</aac> Leo corrected. <aac>I want to use the new cnc mills.</aac>
 
 **Olivia: The Sociologist** Olivia was next. She was transferring into the **College of Arts & Sciences** as a Junior (thanks to her credits from Virginia).
 
@@ -5018,7 +5018,7 @@ As they walked away, receipts in hand, Leo looked at Olivia’s ID card clipped 
 
 He tapped his **Quantum Communicator**.
 
-*"WE OWN OUR SEATS."*
+<aac>We own our seats.</aac>
 
 "Damn right we do," Stella said, tucking the checkbook away. "We don't take charity. We build fortresses."
 
@@ -5170,11 +5170,11 @@ He revved his motors slightly. He had the horsepower. The Titan could tow a car.
 
 He tapped his **Quantum Communicator**.
 
-*"INEFFICIENT DISTRIBUTION,"* the robotic voice barked. *"I HAVE THE POWER. YOU HAVE THE CARGO. WE ARE MISMATCHED."*
+<aac>Inefficient distribution,</aac> the robotic voice barked. <aac>I have the power. You have the cargo. We are mismatched.</aac>
 
 "We're fine, Leo," Olivia grunted, adjusting her grip on the *Structural Analysis* tome. "It's just cardio."
 
-*"IT IS ILLOGICAL,"* Leo insisted. *"I AM A VEHICLE. I SHOULD CARRY THE LOAD."*
+<aac>It is illogical,</aac> Leo insisted. <aac>I am a vehicle. I should carry the load.</aac>
 
 He looked at the back of his chair again. He visualized the frame rails. He mentally projected a CAD drawing of an aluminum bracket system with a quick-release latch.
 
@@ -5199,7 +5199,7 @@ He pulled up the sketch he had started in the food court. He showed it to Olivia
 
 "You're going to build a cargo rack?" Olivia asked, looking at the diagram.
 
-*"I AM GOING TO BUILD A FREIGHT TRAIN,"* Leo corrected. *"TOMORROW. MACHINE SHOP. FIRST PRIORITY."*
+<aac>I am going to build a freight train,</aac> Leo corrected. <aac>Tomorrow. Machine shop. First priority.</aac>
 
 Stella massaged her wrists. "Approved. Build it strong, Leo. Because these books aren't getting any lighter."
 
@@ -5322,7 +5322,7 @@ He looked at his team. He trusted them.
 
 He tapped his screen.
 
-<aac>Protocol b,</aac> he typed. <aac>"THE WOMEN'S ROOM."</aac>
+<aac>Protocol b,</aac> he typed. <aac><aac>The women's room.</aac></aac>
 
 "Agreed," Stella said instantly. "It's cleaner, and we control the environment."
 
@@ -5525,7 +5525,7 @@ As they turned into the driveway of the Fortress, Leo looked back at the station
 
 He tapped his Scribe.
 
-*"THE NETWORK IS OPERATIONAL."*
+<aac>The network is operational.</aac>
 
 "It sure is," Stella said, unlocking the front door. "Now, everyone rest up. Tomorrow is **Orientation Day**. And I have a feeling it's going to be loud."
 
@@ -5579,7 +5579,7 @@ Leo looked at the schedule. He saw the chaos it represented. He thought about th
 
 He tapped his **Quantum Communicator**.
 
-*"WE ARE PRE-LOADED,"* the robotic voice said softly. *"MISSION COMPLETE BEFORE START."*
+<aac>We are pre-loaded,</aac> the robotic voice said softly. <aac>Mission complete before start.</aac>
 
 "That's the Porter way," Stella said. "We just have to show up, sit through the speeches, and sign the attendance sheet so they don't drop our registration."
 

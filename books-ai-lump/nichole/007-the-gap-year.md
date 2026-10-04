@@ -23,7 +23,7 @@ He dropped the card into the cupholder and picked up a laminated paper pass.
 
 Nichole watched him rant in the mirror. She rolled her eyes playfully. She reached for the mouse connected to her new Apex ConvertiBook and clicked.
 
-"FIRST. WORLD. COMMUTER. PROBLEMS."
+<aac>First. World. Commuter. Problems.</aac>
 
 Her new custom-coded voice was crisp and clear, cutting through the rattle of the van’s suspension.
 
@@ -85,7 +85,7 @@ She wasn't cargo in the back of an old family station wagon anymore. She was rid
 
 Nichole reached for her mouse.
 
-"BUY. IT."
+<aac>Buy. It.</aac>
 
 Uncle Mark, who was looking in through the open side door, let out a booming laugh.
 
@@ -121,7 +121,7 @@ Dr. Vance sat down and opened their charts.
 
 "No," Patrick said. "It works for me."
 
-Nichole tapped her screen. "WORKS. FOR. ME."
+Nichole tapped her screen. <aac>Works. For. Me.</aac>
 
 "Excellent. We’ll keep those scripts as they are," Dr. Vance nodded. "Now, the Cerebral Palsy management. Patrick, you use a left ankle-foot orthosis. How is the spasticity in the calf?"
 
@@ -129,7 +129,7 @@ Nichole tapped her screen. "WORKS. FOR. ME."
 
 "Nichole," Dr. Vance turned his chair to face her directly. He didn't ask Patrick to translate her body language. "Quadriplegic presentation. How is your current seating system handling your tone? Are you getting pressure sores?"
 
-Nichole clicked her mouse. "NO. SORES. GOOD. CUSHION. BUT. HIPS. HURT. IN. THE. VAN."
+Nichole clicked her mouse. <aac>No. Sores. Good. Cushion. But. Hips. Hurt. In. The. Van.</aac>
 
 "The vibration of the road triggers the flexors," Dr. Vance noted, typing into his computer. "Very common. I’m going to prescribe a daily muscle relaxant specifically for the high-tone days, and I want to get you both into the Newport Hospital hydrotherapy pool twice a week for weightless stretching."
 
@@ -178,7 +178,7 @@ Nichole took a breath. She looked at Sarah.
 
 She tapped her armrest twice.
 
-"YES."
+<aac>Yes.</aac>
 
 Sarah stepped behind the chair. She was gentle. She didn't jerk the frame. She smoothly navigated the chair through the door.
 
@@ -210,7 +210,7 @@ Inside the exam room, Dr. Lin was waiting.
 
 Nichole reached for her portable keyboard connected to her Apex machine. She typed quickly.
 
-"HE. IS. MY. ENGINE. BUT. THIS. IS. MY. BODY."
+<aac>He. Is. My. Engine. But. This. Is. My. Body.</aac>
 
 "And that is exactly why we are here," Dr. Lin agreed warmly. "Now, today is a consultation to transfer your ProGest-Depot prescription. Regarding the physical exam... do you require assistance with the transfer to the table?"
 
@@ -218,13 +218,13 @@ Nichole hesitated. In eighteen years, nobody but Patrick had lifted her. It was 
 
 Nichole typed.
 
-"PATRICK. USUALLY. DOES. ALL. MY. TRANSFERS." She paused, looking at the closed door, and then back to the doctor with absolute resolve. "BUT. NO. BROTHER. FOR. THIS."
+<aac>Patrick. Usually. Does. All. My. Transfers.</aac> She paused, looking at the closed door, and then back to the doctor with absolute resolve. <aac>But. No. Brother. For. This.</aac>
 
 Dr. Lin nodded, fully respecting the boundary Nichole was drawing. Her brother was her primary aide, but this was a space exclusively for her.
 
 Dr. Lin pressed a button on the wall intercom. "I'll call in a second nurse for a two-person assist. We’ll use the hydraulic lift if you prefer, or a manual transfer if you’re comfortable with us handling you."
 
-"LIFT. IS. SAFER," Nichole typed.
+<aac>Lift. Is. Safer,</aac> Nichole typed.
 
 "Agreed," Dr. Lin said.
 
@@ -232,7 +232,7 @@ Before they began, Nichole reached into her side bag. She pulled out a folded pi
 
 She handed it to Dr. Lin.
 
-"JUST. IN. CASE."
+<aac>Just. In. Case.</aac>
 
 Dr. Lin read the waiver. It explicitly authorized Patrick Bennett to be present during exams if requested by the patient for safety or communication support.
 
@@ -246,11 +246,11 @@ But now that she was in the room, and her autonomy was established, she wanted h
 
 Her fingers flew across her keyboard.
 
-"I. KNOW. THE. RULES. YOU. MUST. CHECK. FOR. ABUSERS."
+<aac>I. Know. The. Rules. You. Must. Check. For. Abusers.</aac>
 
 Dr. Lin paused, looking at the screen, her expression softening with profound professional respect. "Yes. We do."
 
-"PATRICK. IS. SAFE," Nichole typed, her chin lifting proudly. "HE. BATHES. ME. EVERY. DAY. I. AM. VULNERABLE. HE. NEVER. HURTS. ME. HE. IS. GOOD."
+<aac>Patrick. Is. Safe,</aac> Nichole typed, her chin lifting proudly. <aac>He. Bathes. Me. Every. Day. I. Am. Vulnerable. He. Never. Hurts. Me. He. Is. Good.</aac>
 
 Dr. Lin read the output. She looked at Nichole’s absolute conviction.
 
@@ -302,7 +302,7 @@ As the buckle clicked, Nichole reached out and hugged him, burying her face in h
 
 Nichole nodded. She looked tired but accomplished. She tapped her screen.
 
-"MISSION. ACCOMPLISHED."
+<aac>Mission. Accomplished.</aac>
 
 "Thanks, Sarah. Thanks, Doctor," Patrick said.
 
@@ -350,7 +350,7 @@ Patrick leaned against the doorframe, watching the installation. "You know, this
 
 Nichole tapped her screen with a confident *thud*.
 
-"I. INHERITED. A. BRAIN. I. CAN. HANDLE. IT."
+<aac>I. Inherited. A. Brain. I. Can. Handle. It.</aac>
 
 Patrick laughed. "I know you can. You're going to be writing the interface drivers for my projects by the fall."
 
@@ -372,7 +372,7 @@ Nichole looked up at her uncle, then over at Patrick. She could hear her grandmo
 
 She launched the new software. The heavy loading screen of *Quantum Studio 2003* appeared, ready for her first line of code.
 
-"MERRY. CHRISTMAS. TO. US."
+<aac>Merry. Christmas. To. Us.</aac>
 
 ### Part 4: The Winter Test
 
@@ -406,7 +406,7 @@ Nichole pointed to a massive intersection labeled "The Pit"—the sunken amphith
 
 She tapped her screen.
 
-"NEXT. YEAR. SNOW. DOES. NOT. MATTER."
+<aac>Next. Year. Snow. Does. Not. Matter.</aac>
 
 Patrick followed the blue lines of the map with his finger. "You're right," he whispered. "Look at this connectivity. The Link covers the whole city, but The Bull Run covers our whole world. Every single academic building, from the main library to the maintenance sheds, has a direct, climate-controlled connection."
 
@@ -547,7 +547,7 @@ Nichole reached for her mouse on the lap tray. The Apex ConvertiBook had stayed 
 
 She opened the text-to-speech module.
 
-"MERRY. CHRISTMAS. TO. THE. MACHINE."
+<aac>Merry. Christmas. To. The. Machine.</aac>
 
 "Merry Christmas, Nikki," Patrick laughed, bending down to hug her.
 
@@ -704,7 +704,7 @@ He realized then that the "Fortress" wasn't just the brick walls Uncle Mark had 
 
 Nichole reached for her mouse. Her hand was shaking, but her eyes were dry and fierce.
 
-"SHE. WAS. THE. ENGINE."
+<aac>She. Was. The. Engine.</aac>
 
 "Yeah," Patrick whispered, closing the binder. "She was."
 
@@ -714,7 +714,7 @@ Tom wiped his eyes and closed the lockbox.
 
 Nichole looked at the binder. She tapped her screen.
 
-"WE. WILL. MAKE. IT. WORTH. IT."
+<aac>We. Will. Make. It. Worth. It.</aac>
 
 ### Part 8: The Final Transfer
 
@@ -768,7 +768,7 @@ She didn't use the standard text-to-speech module. She had spent the last two da
 
 She clicked the mouse.
 
-"SLEEP. WELL. GRANDMA. THE. MACHINE. IS. FUNDED."
+<aac>Sleep. Well. Grandma. The. Machine. Is. Funded.</aac>
 
 The synthetic voice cut through the winter wind. It wasn't just a goodbye. It was a status report. *Mission accomplished.*
 
@@ -816,7 +816,7 @@ To institutional administrators, separating them was "safety." To Nichole, it wa
 
 She reached for her mouse and clicked her screen.
 
-"NO. DORMS."
+<aac>No. Dorms.</aac>
 
 Sarah paused. She didn't look offended. She looked curious. "Bad experiences?"
 
@@ -846,7 +846,7 @@ Patrick looked at Nichole.
 
 Nichole shook her head. She pointed to the window, toward the transit station.
 
-"WE. USE. THE. GRID," Nichole typed.
+<aac>We. Use. The. Grid,</aac> Nichole typed.
 
 Patrick grinned at Sarah. "Thank you, Ms. Mitchell. It’s an incredibly generous offer. But we're going to decline the parking pass. We prefer the train and the ferry."
 
@@ -892,7 +892,7 @@ The Gap Year wasn't a delay anymore. It was a foundation. The transit routes wer
 
 Nichole looked at the "RECEIVED" stamp on her receipt. She was officially in the queue.
 
-She tapped her screen. **"WE. ARE. READY."**
+She tapped her screen. *<aac>We. Are. Ready.</aac>*
 
 "Yeah," Patrick said, squeezing her shoulder. "We're ready. Now all we have to do is wait for the mail."
 
@@ -912,7 +912,7 @@ She looked at her brother. They couldn't stay in Portsmouth; the ferry was too v
 
 She tapped her screen.
 
-"GO. BACK. TO. SARAH."
+<aac>Go. Back. To. Sarah.</aac>
 
 "Yeah," Patrick nodded, packing up their bags. "We need an engineer for the bureaucracy."
 
@@ -935,7 +935,7 @@ Patrick nodded. "Exactly. It connects right to The Bull Run. We could technicall
 
 Nichole made a low, tired grunt at the thought. It was three subway stops away. Doing that purely under their own physical power would take over an hour and leave them both exhausted before their first lecture.
 
-She tapped her screen. **"THE. METRO. DOES. THE. HEAVY. LIFTING."**
+She tapped her screen. *<aac>The. Metro. Does. The. Heavy. Lifting.</aac>*
 
 "Right," Patrick agreed. "The underground walk is the emergency backup. The primary route is taking the Blue Line from Foundry Square Station to the campus station. But to make this work, we need your help with the bureaucracy."
 
@@ -971,7 +971,7 @@ She walked over to the printer and pulled out a new, blank form. The header read
 
 Nichole let out a sharp, triumphant sound. She looked at Patrick, her eyes blazing with victory. They hadn't just dodged the system; they had used the system's own rigidity to protect themselves.
 
-She reached for her mouse. **"CHECKMATE."**
+She reached for her mouse. *<aac>Checkmate.</aac>*
 
 "Checkmate indeed," Sarah laughed, handing Patrick the signed Hardship Waiver. "Go lease your fortress, you two."
 
@@ -1005,7 +1005,7 @@ Sarah stared at him. She had seen devoted siblings before, but she had never see
 
 "An Engineer and a Licensed Practical Nurse," Sarah murmured, shaking her head in amazement. "You're going to be the most overqualified freshman on this campus."
 
-Nichole tapped her screen, a proud smile lighting up her face. **"MY. MEDIC."**
+Nichole tapped her screen, a proud smile lighting up her face. *<aac>My. Medic.</aac>*
 
 "Yeah," Patrick grinned, zipping his bag. "Her medic. Her engineer. Her brother. I'm just covering all the bases."
 
@@ -1073,7 +1073,7 @@ She clicked on a folder on her desktop that she had named **ARCHIVE**. She found
 
 She dragged it to the Recycle Bin.
 
-**"DELETE,"** her synthetic voice announced.
+*<aac>Delete,</aac>* her synthetic voice announced.
 
 Patrick looked at the screen. He let out a short, sharp laugh.
 
@@ -1091,7 +1091,7 @@ They rolled out of the office and back into the tunnel.
 
 Nichole didn't look back. She looked forward, toward the subway station, toward the city, and toward the medical center where her brother would earn his rank.
 
-**"FORWARD,"** she tapped. **"THE. MACHINE. MOVES. FORWARD."**
+*<aac>Forward,</aac>* she tapped. *<aac>The. Machine. Moves. Forward.</aac>*
 
 ### Part 5: The Bridge Fund
 
@@ -1107,7 +1107,7 @@ The third was stark white, bearing the **crimson shield and silver staff** of th
 
 Nichole sat at the end of the table. Her Apex ConvertiBook was detached from her wheelchair tray and resting on the table in front of her. She clicked her Quantum OptiMouse.
 
-**"BENNETT. DYNAMICS. IS. OPEN. FOR. BUSINESS."**
+*<aac>Bennett. Dynamics. Is. Open. For. Business.</aac>*
 
 The family cheered, the sound echoing through the wide hallways of the Fortress.
 
@@ -1125,7 +1125,7 @@ He tapped the acceptance letter.
 
 "This is the last piece of the firewall. Sarah Mitchell gave us the waiver to live off-campus, but this... this stops them from forcing us to hire an Agency. If the Dean of Students asks for our 'Professional Care Plan,' I don't have to show them a contract with a home health company. I just show them my badge."
 
-Nichole looked at the patch. It was the final piece of armor. **"MY. MEDIC."**
+Nichole looked at the patch. It was the final piece of armor. *<aac>My. Medic.</aac>*
 
 "Okay, the fun part is over," Patrick said, placing the patch on top of his engineering acceptance. He pulled out a thick binder and set it on the table. He looked at his father. "Now we talk logistics. The Foundry Lofts. We need to secure the unit now, before the summer rush. What did the property manager say the rent is for the two-bedroom accessible unit?"
 
@@ -1171,7 +1171,7 @@ Nichole felt a wave of absolute security wash over her. No loans. No begging for
 
 She tapped her screen.
 
-**"CALL. THE. LANDLORD."**
+*<aac>Call. The. Landlord.</aac>*
 
 "Done," Tom said, closing the ledger with a satisfying thud. "Tomorrow morning, we buy the Fortress."
 
@@ -1240,7 +1240,7 @@ It was stunning. It was an absolute Fortress.
 
 Nichole looked at Patrick. She made a soft, high-pitched *keening* sound of pure joy. She tapped her screen.
 
-"THIS. IS. THE. ONE."
+<aac>This. Is. The. One.</aac>
 
 "We have this exact floor plan available on the 4th floor for immediate move-in," Mr. Caldwell said. "Of course, there is a standard application fee of fifty dollars per person, and we do run credit."
 
@@ -1317,7 +1317,7 @@ Nichole clicked her mouse, and the screens flickered to life. The room hummed wi
 
 She tapped her screen.
 
-"THE. NETWORK. IS. LIVE."
+<aac>The. Network. Is. Live.</aac>
 
 
 Aunt Carol and Ellen were marveling at the appliances.
@@ -1351,7 +1351,7 @@ Ellen walked over to Nichole. She bent down and hugged her daughter.
 
 Nichole squeezed her mother’s hand. She typed quickly.
 
-"WE. ARE. ONLINE. GO. HOME. RELAX."
+<aac>We. Are. Online. Go. Home. Relax.</aac>
 
 Uncle Mark clapped Patrick on the shoulder. "Hold down the fort, Engineer."
 
@@ -1372,7 +1372,7 @@ Nichole didn't look at the reflection. She looked at the city.
 
 She tapped her armrest.
 
-"PLAYER. ONE. READY."
+<aac>Player. One. Ready.</aac>
 
 Patrick grinned. "Player Two ready."
 
@@ -1382,7 +1382,7 @@ He turned away from the window.
 
 Nichole spun her chair around, her motor whining happily on the polished concrete.
 
-"GAME. ON."
+<aac>Game. On.</aac>
 
 Patrick and Nichole signed the lease. As their pens hit the paper, the final piece of the Gap Year locked into place.
 
@@ -1400,7 +1400,7 @@ Uncle Mark walked over and leaned down next to Nichole's chair.
 
 Nichole reached up and patted her uncle's cheek. She clicked her mouse.
 
-"THE. MACHINE. HAS. TWO. HOMES. NOW."
+<aac>The. Machine. Has. Two. Homes. Now.</aac>
 
 "Exactly," Patrick grinned, looking around the lobby of their new building. "Now... we just have to figure out how to move all our stuff on the subway."
 
@@ -1496,13 +1496,13 @@ Nichole stirred. She blinked against the sunlight, then turned her head to look 
 
 She reached for the Apex ConvertiBook on the bedside swing-arm.
 
-"BEST. SLEEP. EVER."
+<aac>Best. Sleep. Ever.</aac>
 
 Patrick laughed, running a hand through his messy hair. "Yeah? I forgot the PJs. Total failure on my part."
 
 Nichole shook her head. She tapped the screen again.
 
-"NO. FAILURE. NO. CATCHING. NO. TWISTING. SPASMS. SLIDE."
+<aac>No. Failure. No. Catching. No. Twisting. Spasms. Slide.</aac>
 
 Patrick looked at the logic. It made perfect sense. Pajamas were just another layer of mechanical resistance. When a spasm hit, the fabric grabbed the sheets, creating torque on her joints. Skin against smooth high-thread-count sheets? Zero friction. The spasm would fire, slide harmlessly, and release.
 
@@ -1520,7 +1520,7 @@ He looked at Nichole.
 
 Nichole grinned. She tapped her screen.
 
-"BURN. THE. PAJAMAS."
+<aac>Burn. The. Pajamas.</aac>
 
 
 Fully dressed in their day clothes—jeans and hoodies—they sat at the kitchen island.
@@ -1539,7 +1539,7 @@ Nichole nodded in strong agreement. She wanted real food. Local food.
 
 She pointed to the section of the map labeled "Downtown Waterfront."
 
-"WE. NEED. SYSTEM. WIENERS."
+<aac>We. Need. System. Wieners.</aac>
 
 Patrick grinned. It was the quintessential Rhode Island staple—"New York System" hot wieners, loaded with meat sauce, onions, mustard, and celery salt, usually washed down with a coffee milk. It was greasy, salty, and exactly what they needed.
 
@@ -1547,7 +1547,7 @@ Patrick grinned. It was the quintessential Rhode Island staple—"New York Syste
 
 Nichole’s eyes lit up. Hot wieners and coffee milk. It was the official meal of their new independence.
 
-"TARGET. ACQUIRED."
+<aac>Target. Acquired.</aac>
 
 Patrick rinsed the bowls and put them in the dishwasher.
 
@@ -1555,7 +1555,7 @@ Patrick rinsed the bowls and put them in the dishwasher.
 
 Nichole spun her chair toward the door. The batteries on the Titan AeroMotion were fully charged. The tires were pumped. The grid was waiting.
 
-"LAUNCH."
+<aac>Launch.</aac>
 
 ### Part 2: The River and the System
 
@@ -1585,7 +1585,7 @@ She took a deep breath of the salty, river air. It smelled like freedom. And die
 
 She sniffed again.
 
-"SMELL. THAT?"
+<aac>Smell. That?</aac>
 
 Patrick sniffed. "Onions. Meat sauce. Celery salt."
 
@@ -1626,7 +1626,7 @@ They weren't just students. They weren't just patients. They were locals.
 
 She tapped the table with her free hand, getting his attention. She swallowed and grinned.
 
-"WE. LIVE. HERE. NOW."
+<aac>We. Live. Here. Now.</aac>
 
 "Yeah, Nikki," Patrick smiled, wiping mustard off his lip. "We really do."
 
@@ -1674,7 +1674,7 @@ She wasn't ready for the ocean yet. She liked the tunnels.
 
 She tapped her armrest.
 
-"COOL. BOAT. BUT. WE. STAY. UNDERGROUND."
+<aac>Cool. Boat. But. We. Stay. Underground.</aac>
 
 Patrick laughed. "Agreed. No sea legs for us today. The subway doesn't have 6-foot swells."
 
@@ -1684,7 +1684,7 @@ He turned the Titan AeroMotion around, facing back toward the city skyline and t
 
 Nichole nodded. She felt full—of food, of information, and of confidence. The city wasn't a terrifying labyrinth anymore. It was just a series of systems, and they had the manual.
 
-"MISSION. COMPLETE. LET'S. GO. HOME."
+<aac>Mission. Complete. Let's. Go. Home.</aac>
 
 "Copy that," Patrick said.
 
@@ -1723,7 +1723,7 @@ She looked at the oversized sectional sofa they had bought. It was deep, soft, a
 
 She pointed to it.
 
-"COUCH. CRASH."
+<aac>Couch. Crash.</aac>
 
 "You got it," Patrick said.
 
@@ -1871,7 +1871,7 @@ But for Freshman year, everyone had to take the "Core."
 
 She typed quickly.
 
-"GEN. ED. MUST. MATCH."
+<aac>Gen. Ed. Must. Match.</aac>
 
 "Way ahead of you," Patrick said, pulling up a spreadsheet he had already started. "English 101. Intro to Psychology. History of Western Civ. University Math."
 
@@ -1887,7 +1887,7 @@ Nichole looked at the screen. She needed to hear it. The fear of walking into a 
 
 She looked at Patrick.
 
-"PROMISE?"
+<aac>Promise?</aac>
 
 Patrick swiveled his chair to face her. He looked her dead in the eye.
 
@@ -1942,13 +1942,13 @@ They were sitting in their own kitchen, eating Fluffernutters, planning their jo
 
 She tapped the counter with her hand to get his attention.
 
-"GOOD. SANDWICH."
+<aac>Good. Sandwich.</aac>
 
 "Creamy PB is the superior spreading medium," Patrick stated matter-of-factly. "Don't tell Mom."
 
 Nichole smiled.
 
-"YOUR. SECRET. IS. SAFE."
+<aac>Your. Secret. Is. Safe.</aac>
 
 
 The city outside the industrial windows was a grid of amber sodium lights and red taillights, but inside the loft, the world was quiet.
@@ -2025,7 +2025,7 @@ Nichole was parked next to him under her custom cutout. Her Apex ConvertiBook wa
 
 Nichole tapped her screen.
 
-"REFRESH. ON. MY. MARK."
+<aac>Refresh. On. My. Mark.</aac>
 
 They had the Course Reference Numbers (CRNs) written on a whiteboard on the wall, prioritized by "Scarcity."
 
@@ -2051,11 +2051,11 @@ She wasn't going to let that happen.
 
 She tapped her screen.
 
-"NO. MAN. LEFT. BEHIND."
+<aac>No. Man. Left. Behind.</aac>
 
 She had intentionally waived her placement results to drop down to his level. She wasn't just his sister; she was his tutor.
 
-"I. WILL. TEACH. YOU."
+<aac>I. Will. Teach. You.</aac>
 
 "Yeah, well, try not to laugh when I fail to solve for X," Patrick said, sweating slightly. "Math is my kryptonite."
 
@@ -2067,7 +2067,7 @@ He had two browser tabs open—one logged in as him, one logged in as her.
 
 "5... 4... 3... 2... 1..."
 
-"MARK."
+<aac>Mark.</aac>
 
 Patrick hit F5 on both keyboards simultaneously.
 
@@ -2075,7 +2075,7 @@ The screens flashed white. The little loading icon spun.
 
 Spin. Spin. Spin.
 
-"COME. ON."
+<aac>Come. On.</aac>
 
 The page loaded. ADD/DROP CLASSES.
 
@@ -2115,15 +2115,15 @@ Patrick looked at the Math class again.
 
 Nichole grinned. She typed quickly.
 
-"EASY. A. FOR. ME."
+<aac>Easy. A. For. Me.</aac>
 
 She paused, then added:
 
-"AND. I. GET. TO. WATCH. YOU. SWEAT."
+<aac>And. I. Get. To. Watch. You. Sweat.</aac>
 
 Patrick laughed, tossing a pen at her. "You're evil."
 
-"I. AM. EFFICIENT."
+<aac>I. Am. Efficient.</aac>
 
 Patrick laughed at the "Efficient" comment, but the laughter faded quickly into something warmer. He looked at the screen, then at the girl sitting in the chair next to him.
 
@@ -2155,7 +2155,7 @@ Patrick finally pulled back, grinning. He wiped a smudge of dust off her cheek.
 
 Nichole smirked. She tapped her screen.
 
-"DEAL."
+<aac>Deal.</aac>
 
 Patrick pulled back from the hug, but he didn't let go of her shoulders. He looked at her—really looked at her.
 
@@ -2183,7 +2183,7 @@ She needed the words to be precise. She navigated to her CORE VOCABULARY page. S
 
 She clicked.
 
-"I. LOVE. YOU. TOO."
+<aac>I. Love. You. Too.</aac>
 
 The synthetic voice was flat and robotic, but in the quiet of the loft, it sounded like a choir.
 
@@ -2193,10 +2193,10 @@ Patrick smiled—a real, crooked, teary-eyed smile. He leaned forward and kissed
 
 Nichole watched him type. She tapped her screen one last time, just for herself.
 
-"FOREVER."
+<aac>Forever.</aac>
 
 
-The words "I. LOVE. YOU. TOO." and "FOREVER." were still lingering in the air, heavier and more permanent than the concrete walls of the loft.
+The words <aac>I. Love. You. Too.</aac> and <aac>Forever.</aac> were still lingering in the air, heavier and more permanent than the concrete walls of the loft.
 
 In that silence, a silent treaty was signed.
 
@@ -2242,7 +2242,7 @@ She looked at the empty third chair in the room—a hypothetical space for an ou
 
 She reached for her mouse.
 
-"JUST. US."
+<aac>Just. Us.</aac>
 
 Patrick looked at the screen. He nodded, a look of profound relief washing over his face. The pressure to perform "normalcy" was gone.
 
@@ -2256,7 +2256,7 @@ Nichole smiled. It wasn't a tragic vow of celibacy. It was a declaration of inde
 
 She tapped her screen one last time to seal the deal.
 
-"BENNETT. PARTY. OF. TWO."
+<aac>Bennett. Party. Of. Two.</aac>
 
 Patrick grinned, spinning his chair back to the monitors.
 
@@ -2290,7 +2290,7 @@ Nichole looked up. She felt a strange, primal ping of anxiety. The Link—their 
 
 She tapped her screen.
 
-"THEY. CLOSED. THE. GATES?"
+<aac>They. Closed. The. Gates?</aac>
 
 "Yeah," Patrick said, turning away from the window. "The basement entrances. They have heavy steel doors that roll down to stop the subway tunnels from flooding. Once those drop, we are cut off."
 
@@ -2326,7 +2326,7 @@ She realized that being "trapped" wasn't a problem if you didn't want to go anyw
 
 She reached for her mouse.
 
-"WE. HAVE. THE. HIGH. GROUND."
+<aac>We. Have. The. High. Ground.</aac>
 
 "Exactly," Patrick grinned. "The wizard would be proud."
 
@@ -2348,7 +2348,7 @@ Here, they were warm.
 
 She nudged Patrick’s leg with her foot.
 
-"MOVIE. MARATHON?"
+<aac>Movie. Marathon?</aac>
 
 Patrick smiled. He grabbed the remote.
 
@@ -2364,7 +2364,7 @@ And most importantly, they had the absolute certainty that no matter how high th
 
 Nichole snuggled into Patrick’s side, resting her head on his shoulder as the opening crawl began.
 
-"LET. IT. RAIN," she thought. "WE. ARE. IRONCLAD."
+<aac>Let. It. Rain,</aac> she thought. <aac>We. Are. Ironclad.</aac>
 
 ### Part 4: The All-Clear
 
@@ -2388,13 +2388,13 @@ She looked at Patrick. He was staring down at the wet pavement of Foundry Square
 
 She tapped her armrest.
 
-"NO. TUNNELS. TOMORROW."
+<aac>No. Tunnels. Tomorrow.</aac>
 
 Patrick turned around. "No tunnels?"
 
 Nichole shook her head. She loved the subway. She loved the "Link." It was their secret highway. But after being locked inside a brick box for twelve hours while a storm raged, she felt a desperate need for open sky. She wanted to see the sun, even if it was shining on puddles.
 
-"TOPSIDE. ONLY. I. NEED. AIR."
+<aac>Topside. Only. I. Need. Air.</aac>
 
 Patrick smiled. He walked over to the sofa where she was still nested under the blanket.
 
@@ -2430,7 +2430,7 @@ He turned his head on the pillow to look at her silhouette.
 
 Nichole reached out and found his hand under the duvet. She squeezed it.
 
-"AND. BREAKS," she thought, projecting the thought to him.
+<aac>And. Breaks,</aac> she thought, projecting the thought to him.
 
 Patrick squeezed back, as if he heard her.
 

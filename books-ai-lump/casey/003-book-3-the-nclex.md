@@ -235,7 +235,7 @@ She handed over the plastic cards as the girls happily grabbed their luggage and
 
 "Exactly," Cassandra nodded. "Therefore, you are not sharing. Kate, you have Suite 1224 all to yourself. It is a fully compliant ADA suite with a roll-in shower. David, you have Suite 1225 right next door, also a dedicated ADA suite."
 
-Kate’s face lit up. *"MY OWN ROOM?"* 
+Kate’s face lit up. <aac>My own room?</aac> 
 
 "You are an adult," Cassandra smiled. "You deserve your own space."
 
@@ -1618,7 +1618,7 @@ She handed me a steaming mug of peppermint tea, and then handed one to Casey.
 
 "We're initiating the BRAT protocol," Liz agreed, walking into the kitchen to help Cassandra. 
 
-"BRAT?" I asked, taking a tiny, cautious sip of the peppermint tea. The warmth instantly felt soothing against my battered throat. 
+<aac>Brat?</aac> I asked, taking a tiny, cautious sip of the peppermint tea. The warmth instantly felt soothing against my battered throat. 
 
 "Bananas, Rice, Applesauce, and Toast," Cassandra listed off. "Bland, easily digestible carbohydrates that will give you energy without triggering your raw stomachs to reject it."
 

@@ -635,7 +635,7 @@ The live television broadcast was still thirty minutes away, but the AWE always 
 
 As a rookie tag team sprinted down the ramp to an upbeat rock track, high-fiving fans along the barricade, a booming, rhythmic voice cut through the ambient noise in our section.
 
-"POPCORN! PEANUTS! ICE COLD BEER! GET YOUR ICE COLD BEER HERE!"
+<aac>Popcorn! Peanuts! Ice cold beer! Get your ice cold beer here!</aac>
 
 A roving arena vendor was squeezing his way down the narrow aisle behind the second row, carrying a massive, plastic-wrapped tray suspended by a neck strap.
 
@@ -715,7 +715,7 @@ Sterling stepped into the ring and walked dead center. He raised a microphone to
 
 It started somewhere in the upper deck—a low, rhythmic rumble that quickly cascaded down through the lower bowl until all 14,000 fans were united in a single, deafening, hostile chant that shook the television cameras. It was the absolute centerpiece of our collective outrage.
 
-"ASS-HOLE! ASS-HOLE! ASS-HOLE! ASS-HOLE!"
+<aac>Ass-hole! Ass-hole! Ass-hole! Ass-hole!</aac>
 
 Through my heavy isolation headphones, the chant felt like a physical shockwave vibrating against my chest. Next to me, Kristin and Jessica were enthusiastically joining in, screaming the word right along with the rest of the arena. Rachel, fully understanding the assignment, pumped her foam finger to the exact rhythm of the profanity.
 
@@ -729,23 +729,23 @@ The crowd responded with another tidal wave of boos.
 
 "Portland, Oregon... Listen to yourselves," Sterling continued, pacing the canvas like a king surveying peasants. "You sound like a bunch of spoiled, ungrateful children."
 
-"WHAT?!" the crowd fired back in absolute unison, executing the legendary, weaponized interruption perfectly.
+<aac>What?!</aac> the crowd fired back in absolute unison, executing the legendary, weaponized interruption perfectly.
 
 Sterling paused, his left eye twitching just a fraction. He hated that chant. "You're angry..."
 
-"WHAT?!"
+<aac>What?!</aac>
 
 "You bought your tickets tonight expecting a flashy, expensive light show..."
 
-"WHAT?!"
+<aac>What?!</aac>
 
 "You wanted the explosions..."
 
-"WHAT?!"
+<aac>What?!</aac>
 
 "I said you wanted the explosions!" Sterling barked, his calm facade finally cracking as he pointed an angry finger at the front row. "But let me explain the real world to you mouth-breathers! AWE was bleeding money!"
 
-"WHAT?!"
+<aac>What?!</aac>
 
 "Stop saying what!" Sterling roared, his face flushing red as the Rose City Center erupted in mocking laughter. He took a deep breath, smoothing the lapels of his suit to regain his composure. He glared directly at the hard camera, completely unfazed by the vitriol raining down on him.
 
@@ -803,7 +803,7 @@ It was a strange, paradoxical moment for our section of the front row. We absolu
 
 The chant began immediately, rolling down from the upper deck and hitting the ring like a battering ram.
 
-"COWARD! COWARD! COWARD! COWARD!"
+<aac>Coward! Coward! Coward! Coward!</aac>
 
 Kristin, Jessica, and I joined right in, screaming at the top of our lungs. Rachel pumped her giant foam finger to the exact rhythm of the chant, completely lost in the magic of the show.
 
@@ -1300,13 +1300,13 @@ The massive screen flashed blindingly white.
 
 A gorgeous, high-definition 3D render of the gleaming gold AWE World Heavyweight Championship spun slowly on the screen. A deep, cinematic voiceover boomed over the heavy rock instrumental, vibrating the barricade just inches from our knees.
 
-"TONIGHT. TWO MEN. ONE CHAMPIONSHIP. AND THE FUTURE OF THE RESISTANCE."
+<aac>Tonight. Two men. One championship. And the future of the resistance.</aac>
 
 The screen split. On the left was Jaxson "The Outlaw" Vance, looking gritty, taped-up, and fiercely determined. On the right was "The Blueprint" Silas Thorne, looking arrogant, immaculate, and furious. In the center, the AWE World Championship spun gracefully above the *No Quarter* logo.
 
 The TitanTron faded to the live camera feed, showing the roaring crowd.
 
-"VANCE! VANCE! VANCE! VANCE!"
+<aac>Vance! Vance! Vance! Vance!</aac>
 
 The chant started immediately, rolling down from the upper deck and slamming into the ring like a physical wave. Portland was absolutely desperate to see their hometown boy win the gold and bring back the fireworks.
 

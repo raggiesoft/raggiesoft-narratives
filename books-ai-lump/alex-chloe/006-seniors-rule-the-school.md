@@ -37,7 +37,7 @@ Alex’s AAC added: <aac>And he had to eat it. Every day. For those three weeks.
 
 "The legends are true," Chloé stated, her voice dropping ominously. "Every single one. The Great Pig Latin Incident of '98? Real. Her encyclopedic knowledge of all past pranks? Terrifyingly accurate." "But here's the kicker," Leo’s device offered, Luna reading with dramatic emphasis. "If you're polite. If you say 'please' and 'thank you.' If you don't act like a complete barbarian..." "...she can be a sweet angel," Chloé finished, a small, genuine smile on her face. "We've seen it. Kid drops a tray, crying? Mrs. DeMarco helps clean it up, gets him a new lunch, extra cookie, no words exchanged. Like a... a cafeteria ninja angel."
 
-Alex nodded. "SHE IS... A COMPLEX AND FORMIDABLE WOMAN. SHOW RESPECT. ALWAYS. AND YOU MIGHT SURVIVE LUNCH."
+Alex nodded. <aac>She is... A complex and formidable woman. Show respect. Always. And you might survive lunch.</aac>
 
 "So, to recap," Luna said, ticking points off on her fingers, momentarily steadying herself with a hand on Leo's shoulder rest. "No rudeness. No funny business with languages unless you want a multilingual smackdown. Be polite. Don't insult the food, especially the meat. And for the love of all that is holy, avoid the grease traps at all costs." "And if you see Josh Riley heading for the dumpsters this year," Chloé added, a twinkle in her eye, "just nod sympathetically and be glad it's not you. Again."
 
@@ -47,7 +47,7 @@ And with that, the four seniors, their duty done, shared a knowing look and head
 
 Later that day, during the chaotic 5th-period lunch, the very first lunch for this new crop of ninth-graders, the efficacy of the seniors' "Unofficial Orientation" was put to an immediate, and predictable, test.
 
-From a table near the center of the freshman section, it came. A booming, overconfident shout: "PENIS!"
+From a table near the center of the freshman section, it came. A booming, overconfident shout: <aac>Penis!</aac>
 
 A hush fell over the immediate vicinity. Alex and Chloé, at their usual table, exchanged a look that screamed, *“Already?”* Mrs. DeMarco, who had been calmly observing the milk dispenser, turned her head with the slow, deliberate precision of a targeting system. Her gaze, unerring, found the culprit – a freshman boy with a particularly self-satisfied smirk.
 
@@ -533,7 +533,7 @@ Just then, a large, 50-gallon, industrial-grey **trash can** was wheeled into th
 
 The gymnasium absolutely erupted. The initial confusion of the crowd instantly morphed into a single, deafening, and completely merciless wave of pure, cathartic joy as they realized the beautiful, perfect prank that had just been pulled. Josh Riley's face, which had been a mask of triumph, crumpled into an expression of pure, abject humiliation.
 
-The students started to chant, a single, unified, and brutally funny chorus: **"KISS THE QUEEN! KISS THE QUEEN! KISS THE QUEEN!"**
+The students started to chant, a single, unified, and brutally funny chorus: *<aac>Kiss the queen! Kiss the queen! Kiss the queen!</aac>*
 
 Flashes from disposable cameras went off, capturing the image of Josh, pale and horrified, and his silent, plastic, and beautifully tiara'd partner for eternity. The DJ, a senior with a wicked sense of humor, even started playing a slow, mournful ballad, the kind typically reserved for the Prom King and Queen's first dance.
 

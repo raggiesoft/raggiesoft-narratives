@@ -41,7 +41,7 @@ April nodded, absorbing all of it. Then, a playful, knowing smile tugged at the 
 
 "So," April said, leaning forward slightly. "Are we ready for the summer to be over? Are we excited to go back to school?"
 
-"NO!"
+<aac>No!</aac>
 
 The shout came from the entire garage in near-unison. The sheer volume of the rejection actually made Rachel flinch, but she quickly settled when April let out a loud, genuine laugh.
 
@@ -1841,7 +1841,7 @@ Rachel dropped back into the wide squat. She pulled her right fist back to her h
 
 Rachel stepped into the punch, driving her fist forward with her entire body weight behind it. She slammed her knuckles into the foam shield and opened her mouth.
 
-"KIHAP!"
+<aac>Kihap!</aac>
 
 The shout tore through the living room. It was incredibly raspy, the vocal cords still raw from their debut the night before, but it was loud, fierce, and completely unapologetic. It wasn't a squeak, and it wasn't a whisper. It was the battle cry of a Brown Belt who finally had all of her weapons online.
 

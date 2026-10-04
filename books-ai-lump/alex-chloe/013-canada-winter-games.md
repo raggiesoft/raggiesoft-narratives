@@ -151,7 +151,7 @@ Alex and Megan endured the indignity of having the red fleece pants held up agai
 
 "*Et maintenant, la couronne des champions!*" Uncle David declared with a grand, theatrical gesture. (And now, the crown of champions!)
 
-He and Mathieu presented Alex and Megan each with a classic, bright red and white toque, the word "CANADA" knitted across the front. Chloé gleefully paid for the two new, complete "wardrobes of shame."
+He and Mathieu presented Alex and Megan each with a classic, bright red and white toque, the word <aac>Canada</aac> knitted across the front. Chloé gleefully paid for the two new, complete "wardrobes of shame."
 
 Back in the van, they sat in the back, now fully decked out in Canadian colors from head to toe. The drive back to the hotel in Stanstead was filled with the family's triumphant rehashing of every great save, every brilliant pass, and, of course, the legendary "Golden Goal." For Alex and Megan, it was a long, quiet, and deeply painful ninety-minute drive.
 
@@ -281,7 +281,7 @@ They joined the line for U.S. Customs. When their turn came, they approached the
 
 Two rolling tributes to the Canadian hockey federation. They handed over their own U.S. Passports and NEXUS cards.
 
-The officer paused. He looked down at the proud American eagles on the passports in his hand. He then looked up at the giant, unapologetic red maple leaves on their chests. He looked up again at the bright red "CANADA" toques on their heads. His professional expression did not change, but he blinked slowly, processing the deeply contradictory information.
+The officer paused. He looked down at the proud American eagles on the passports in his hand. He then looked up at the giant, unapologetic red maple leaves on their chests. He looked up again at the bright red <aac>Canada</aac> toques on their heads. His professional expression did not change, but he blinked slowly, processing the deeply contradictory information.
 
 After a long, deadpan moment, he looked Alex straight in the eye.
 

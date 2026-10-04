@@ -295,7 +295,7 @@ It was a desperate, physical "thank you." Don't let go.
 Patrick didn't let go. He stayed there, kneeling in the dirt, holding his sister while she held him back, anchored together while 600 students watched from the assembly lines.  
 
 
-"PATRICK BENNETT!"
+<aac>Patrick bennett!</aac>
 
 Principal Valenti was storming across the field, flanked by a frantic Mrs. Gable and a clipboard-wielding secretary. The grass was wet, and Valenti’s polished shoes were slipping, fueling his anger.
 
@@ -578,7 +578,7 @@ But it was loud.
 
 She hit the button for NO.
 
-"NO."
+<aac>No.</aac>
 
 The mechanical voice startled Valenti.
 
@@ -588,11 +588,11 @@ She made a sweeping motion with her arm. *Gone.*
 
 She tapped the device again. She navigated to the feelings page.
 
-"SCARED."
+<aac>Scared.</aac>
 
 She looked at her mother. She tapped her chest, then tapped the table rapidly. *Me. Here.*
 
-"ALONE."
+<aac>Alone.</aac>
 
 "You left her," Tom said, translating the physical cues he had spent eleven years learning. "You prioritized the student who could walk, and you left the child in the wheelchair trapped in the building."
 
@@ -646,7 +646,7 @@ She reached out and grabbed his arm. She squeezed it hard.
 
 She tapped her device.
 
-"GOOD. BOY."
+<aac>Good. Boy.</aac>
 
 It was a phrase usually reserved for their dogs, but in the limited vocabulary of her AAC, it was the highest praise available.
 
@@ -1369,7 +1369,7 @@ She didn't have a button for "Sexist Pig" yet—she hadn't anticipated needing i
 
 She hit the button for WORK.
 
-"WORK."
+<aac>Work.</aac>
 
 The synthesized voice cut through the tension.
 
@@ -1377,11 +1377,11 @@ She looked at Kevin. She tapped the table with her left hand—hard. Pay attenti
 
 She navigated to the academic page.
 
-"I. AM. THE. BRAINS."
+<aac>I. Am. The. Brains.</aac>
 
 She looked at Kevin, dead in the eye.
 
-"YOU. ARE. THE. MUSCLE."
+<aac>You. Are. The. Muscle.</aac>
 
 Kevin blinked, looking from the machine to the girl. "Did she just call me stupid?"
 
@@ -1401,7 +1401,7 @@ Kevin, true to his word, provided the "muscle"—but only in the laziest sense p
 
 "I'm on it, I'm on it," Kevin muttered, barely looking at the diagram. He rolled a lump of yellow clay into a lumpy, uneven worm. "There. Good enough."
 
-"NO."
+<aac>No.</aac>
 
 The synthetic voice from the head of the table was sharp. Nichole was glaring at the yellow worm. She didn't have the dexterity to roll the clay herself, but she had standards.
 
@@ -1496,7 +1496,7 @@ She navigated to her pre-programmed phrases. She found the one she had typed out
 
 She hit the button.
 
-"CLASS. DISMISSED."
+<aac>Class. Dismissed.</aac>
 
 The bell rang on cue.
 

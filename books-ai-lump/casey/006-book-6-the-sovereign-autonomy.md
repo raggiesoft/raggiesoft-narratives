@@ -319,7 +319,7 @@ Greg blinked, clutching his gold credit card against the glass gate. "The... the
 
 He didn't even know the bridge had a name. To Greg, the structure crossing the Potomac River was just an abstract stretch of water that sat between his luxury motorcade and his office.
 
-"Yes, Greg. *The. Charles. R. Fenwick. Bridge.*," Cassandra corrected, enunciating every single word with the exact same glacial, annoyed precision as Arthur Pendelton yelling *“A! GREEN! KENSINGTON-ROYCE!”* in *The Assassin With The Platinum Pistol*. "We are taking the Yellow Line across the river, transferring to the Blue or Orange Line at L'Enfant, and riding straight to Capitol South. We are deliberately avoiding taking the Blue Line the long way through Rosslyn, because unlike your logistics firm, we actually understand infrastructure topology."
+"Yes, Greg. *The. Charles. R. Fenwick. Bridge.*," Cassandra corrected, enunciating every single word with the exact same glacial, annoyed precision as Arthur Pendelton yelling <aac>A! Green! Kensington-royce!</aac> in *The Assassin With The Platinum Pistol*. "We are taking the Yellow Line across the river, transferring to the Blue or Orange Line at L'Enfant, and riding straight to Capitol South. We are deliberately avoiding taking the Blue Line the long way through Rosslyn, because unlike your logistics firm, we actually understand infrastructure topology."
 
 The silver Capital Transit train glided smoothly onto the platform above. 
 
@@ -629,7 +629,7 @@ The moment the device reconnected to the cellular network, it practically convul
 
 *Bzz. Bzz. BZZ-BZZ-BZZ-BZZ.*
 
-The haptic motor went into overdrive as the phone frantically downloaded an avalanche of missed calls, panicked voicemails, and dozens of text messages. Cassandra stopped her wheelchair near the entrance of the Apollo exhibit, letting out a sharp, annoyed sigh as she opened the "VANCE DEPLOYMENT - D.C." group thread.
+The haptic motor went into overdrive as the phone frantically downloaded an avalanche of missed calls, panicked voicemails, and dozens of text messages. Cassandra stopped her wheelchair near the entrance of the Apollo exhibit, letting out a sharp, annoyed sigh as she opened the <aac>Vance deployment - d.c.</aac> group thread.
 
 \[1:15 PM\] Greg (D.C. Lobbyist): Ms. Vance, your GPS signal just dropped off the map. Please confirm your location.
 

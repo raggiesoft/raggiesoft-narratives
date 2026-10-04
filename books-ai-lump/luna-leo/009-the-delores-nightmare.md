@@ -63,7 +63,7 @@ The "get to know you" session moved alphabetically around the small classroom. L
 
 It was his turn. He hoped that what he had typed on his AAC would be good enough. His heart pounded as he took a deep breath and pressed the play button. The clear, synthesized voice filled the quiet classroom.
 
-`"HELLO. MY NAME IS LEO PORTER. I AM FROM VIRGINIA BEACH. I LIVE WITH MY TWO SISTERS, STELLA AND LUNA. MY INTERESTS ARE CLASSIC ROCK MUSIC, ESPECIALLY THE BAND ORIGIN, AND COMPUTERS. MY BEST FRIEND LIVES IN WASHINGTON STATE NOW. I MISS HER VERY MUCH. THANK YOU."`
+`<aac>Hello. My name is leo porter. I am from virginia beach. I live with my two sisters, stella and luna. My interests are classic rock music, especially the band origin, and computers. My best friend lives in washington state now. I miss her very much. Thank you.</aac>`
 
 The raw, honest sadness in his final sentences hung in the air for a moment. The professor's kind expression softened with a deep, compassionate understanding. "Thank you, Leo," he said gently. "We're very glad to have you with us." He then looked to Luna. "And... Porter, Luna?"
 
@@ -105,7 +105,7 @@ He looked up, startled. It was a girl from his orientation group. She had a frie
 
 "I'm Delores, by the way," she said, her voice full of a disarming warmth. She watched him reach for his Quantum Communicator. "
 
-He nodded, relieved she wasn't making a big deal about his device, and typed a simple reply. "HELLO. YES. LEO."
+He nodded, relieved she wasn't making a big deal about his device, and typed a simple reply. <aac>Hello. Yes. Leo.</aac>
 
 Throughout the lecture, she was a quiet, competent presence. She took meticulous notes, and once, when the professor erased a crucial step too quickly, she noticed Leo's flash of panic and discreetly slid her notebook over so he could see what he'd missed.
 
@@ -115,7 +115,7 @@ When the class ended, Leo felt completely defeated. He started to pack his thing
 
 Leo looked at her, and the honesty of the moment, the shared experience of the difficult lecture, made him feel safe enough to be vulnerable. He typed on his Communicator, his message a simple, despairing admission.
 
-"I AM HORRIBLE AT MATH. I AM GOING TO FAIL THIS CLASS."
+<aac>I am horrible at math. I am going to fail this class.</aac>
 
 Delores didn't laugh or dismiss his fear. She looked at him with a serious, thoughtful expression. "No, you're not," she said simply. She then offered a solution so casually, so kindly, that it felt like a lifeline. "I'm actually really good at this stuff. If you want, I could help you out. We could study together sometime. Be your tutor. No big deal."
 
@@ -123,7 +123,7 @@ A wave of profound, almost dizzying relief washed over Leo. He stared at her, at
 
 He managed a small, genuine smile in return, the first real one of the day. He typed back, his fingers moving with a new, hopeful energy.
 
-"REALLY? THAT WOULD BE... AMAZING. THANK YOU."
+<aac>Really? That would be... Amazing. Thank you.</aac>
 
 "Of course," she said, her smile widening. "What are classmates for?"
 
@@ -143,7 +143,7 @@ As promised, Luna was waiting for him. The moment she saw him, her face broke in
 
 Just then, Delores emerged from the classroom behind him. "Hey, Leo," she began, then stopped, her expression shifting to one of polite curiosity as she saw Luna.
 
-Leo, feeling a flush of social obligation, made the introductions. "LUNA, THIS IS DELORES. SHE IS IN MY ALGEBRA CLASS. DELORES, THIS IS MY SISTER, LUNA."
+Leo, feeling a flush of social obligation, made the introductions. <aac>Luna, this is delores. She is in my algebra class. Delores, this is my sister, luna.</aac>
 
 "Oh, hi!" Delores said, her smile warm and completely disarming. "It's so nice to meet you. Leo was just telling me he has two sisters."
 
@@ -173,7 +173,7 @@ The third-floor food court of the mall was a noisy, bustling hub of lunchtime ac
 
 "Barely," Luna groaned dramatically. "Algebra is the worst."
 
-Leo, now with Delores a few feet behind them, made the introduction with his Quantum Communicator. "STELLA, THIS IS DELORES. A CLASSMATE FROM MY ALGEBRA CLASS. SHE IS VERY GOOD AT MATH."
+Leo, now with Delores a few feet behind them, made the introduction with his Quantum Communicator. <aac>Stella, this is delores. A classmate from my algebra class. She is very good at math.</aac>
 
 "It's so nice to meet you, Stella," Delores said, her smile a perfect picture of charm. "Leo has told me so much about you."
 
@@ -189,9 +189,9 @@ The conversation during the meal was easy and familiar, focusing on how their mo
 
 Even amidst the happy chatter, Stella could see it in Leo's eyes: he still really missed Olivia. A quiet sadness lingered behind his smile. "You're thinking about Liv, aren't you?" Stella asked him gently.
 
-Leo gave a small, sad nod. At the mention of the unfamiliar name, Delores's attention sharpened. "OLIVIA," Leo typed, a new energy in his expression. He fumbled for his wallet, pulled it from his backpack, and carefully extracted a worn, folded photograph. He held it out proudly for Delores to see. It was a picture of him and a very tall, smiling girl, their arms wrapped around each other in a joyful, easy hug.
+Leo gave a small, sad nod. At the mention of the unfamiliar name, Delores's attention sharpened. <aac>Olivia,</aac> Leo typed, a new energy in his expression. He fumbled for his wallet, pulled it from his backpack, and carefully extracted a worn, folded photograph. He held it out proudly for Delores to see. It was a picture of him and a very tall, smiling girl, their arms wrapped around each other in a joyful, easy hug.
 
-"THIS IS OLIVIA," his Communicator announced. "SHE IS MY BEST FRIEND."
+<aac>This is olivia,</aac> his Communicator announced. <aac>She is my best friend.</aac>
 
 Delores's facial expression changed. The shift was almost imperceptible, a slight tightening around her eyes, a flicker of something cold and appraising. In her mind, the equation was simple: another female e must mean a romantic rival. The idea that this "best friend" was the source of the sadness she was trying to fill was a direct threat. But she knew she had to be careful.
 
@@ -243,7 +243,7 @@ Leo gave a small, noncommittal nod.
 
 Leo considered this. Luna was right. His entire life had been defined by the strong, loving, platonic female bonds he shared with his sisters, his grandmother, and his best friend. The idea that a new person might see that as a threat was a foreign and unsettling concept. He typed a slow, thoughtful reply on his Quantum Communicator.
 
-"YES. STRANGE. BUT SHE IS NICE. AND GOOD AT MATH. I WILL BE CAREFUL."
+<aac>Yes. Strange. But she is nice. And good at math. I will be careful.</aac>
 
 "Okay," Luna said, accepting his promise. "Careful is good."
 
@@ -287,7 +287,7 @@ When the instructor finally dismissed the class, most of the students quickly pa
 
 "We just wanted to explain... we're not new to computers," Luna said, trying to find the right words. "It's just... we're new to *these* computers."
 
-Leo nodded, picking up his Quantum Communicator to add his own voice. "WE GREW UP USING MAGNABYTE OPUS COMPUTERS. WE HAVE TWO WORKING ONES AT HOME. WE DO ALL OUR HOMEWORK ON MAGNASUITE."
+Leo nodded, picking up his Quantum Communicator to add his own voice. <aac>We grew up using magnabyte opus computers. We have two working ones at home. We do all our homework on magnasuite.</aac>
 
 The instructor froze, a look of stunned, delighted recognition on his face. "MagnaByte Opus?" he repeated, a slow smile spreading. "You're kidding. You still have working ones? With MagnaSuite?"
 
@@ -297,7 +297,7 @@ The instructor chuckled, a warm, genuine sound. "I'll bet it is." He leaned agai
 
 Luna and Leo stared at him, their jaws dropping in unison. "That's our sister!" Luna exclaimed.
 
-Leo typed furiously, his excitement palpable. "YOU'RE THE ONE FROM INFOLINK TRADE? YOU SOLD STELLA MY OPUS?"
+Leo typed furiously, his excitement palpable. <aac>You're the one from infolink trade? You sold stella my opus?</aac>
 
 "Small world, isn't it?" the instructor said with a wide grin. "I'm so glad to know those machines went to a good home and are being put to such good use." His expression softened with a new, profound understanding. "Okay. This all makes sense now. You two aren't starting from scratch; you're translating from a completely different language."
 
@@ -307,7 +307,7 @@ A wave of immense relief washed over the twins. They weren't just lost in a conf
 
 "Thank you," Luna said, her voice full of genuine gratitude.
 
-"YES. THANK YOU," Leo's Communicator echoed.
+<aac>Yes. Thank you,</aac> Leo's Communicator echoed.
 
 As they finally left the classroom, the daunting challenge of "Operation: Conquer Quantum" suddenly felt a lot less lonely, and a lot more possible.
 
@@ -319,7 +319,7 @@ The "Introduction to Computers" class finished, leaving Luna and Leo feeling exh
 
 "Leo! Hey!" she said, her face lighting up with a brilliant smile as if this were the most wonderful coincidence. She immediately moved to him, giving him another one of those hugs that felt a bit off—a little too tight, a little too proprietary. "Fancy seeing you here! How was your class?"
 
-"IT WAS GOOD. WE LEARNED A LOT," Leo typed on his Quantum Communicator, still feeling a sense of accomplishment from his chat with the professor.
+<aac>It was good. We learned a lot,</aac> Leo typed on his Quantum Communicator, still feeling a sense of accomplishment from his chat with the professor.
 
 "That's great!" Delores said. Luna, who was now standing behind Leo, her hands resting on his wheelchair handles, watched the interaction closely. She remembered Stella's observation from lunch: *Why does Delores have a problem that Leo's closest friend is a girl?* A sudden, investigative impulse took hold.
 
@@ -367,7 +367,7 @@ Luna and Leo looked. It was Delores, sitting alone at the bus stop, waiting for 
 
 He was quiet for a moment, processing. He then reached for his Quantum Communicator. The synthesized voice was practical and to the point.
 
-"SHE IS GOOD AT MATH. I AM BAD AT MATH. THE TUTORING WILL BE HELPFUL."
+<aac>She is good at math. I am bad at math. The tutoring will be helpful.</aac>
 
 It was a simple, logical assessment, devoid of any real emotional investment. His interest was in the utility she offered, not in a deep connection.
 
@@ -393,7 +393,7 @@ They gathered in the living room, a small, anxious huddle on the sofa. Leo sat i
 
 "Stella! Luna! Leo!" Olivia's voice was a wave of pure, unadulterated warmth and relief. "Oh my god, I've been staring at the phone all day hoping you'd call. How was it? How was the first day?"
 
-Before anyone else could speak, Leo's Communicator voiced the words he had been waiting all day to say. "OLIVIA! I MISS YOU SO MUCH."
+Before anyone else could speak, Leo's Communicator voiced the words he had been waiting all day to say. <aac>Olivia! I miss you so much.</aac>
 
 The simple, heartfelt declaration hung in the air. Olivia's voice, when it came back, was thick with emotion. "Oh, Leo... I miss you so much right now, too." There was a pause, and they could almost hear her taking a shaky breath. "It's so quiet here without you. I miss your hugs. I even miss your terrible taste in cheesy sci-fi movies."
 
@@ -403,13 +403,13 @@ On the other end of the line, Olivia was feeling the exact same way. She tried t
 
 As the call wound down, the goodbyes were thick with unspoken emotion.
 
-"I'LL TALK TO YOU TOMORROW, OLIVIA," Leo typed, a promise that was also a desperate plea.
+<aac>I'll talk to you tomorrow, olivia,</aac> Leo typed, a promise that was also a desperate plea.
 
 "You'd better," Olivia said, her voice a little choked. "Every day." She paused, and then the words came out, simple and true, the first time they had ever said them to each other. "I love you, Leo."
 
 There was a stunned, perfect silence in the living room in Virginia. Leo stared at the phone, his heart soaring. He typed back, his own declaration just as heartfelt, just as platonic, and just as true.
 
-"I LOVE YOU TOO."
+<aac>I love you too.</aac>
 
 They hung up, and the silence that filled the room felt vast and empty, but also full of a new, powerful warmth. The call had been a lifeline, and it was a turning point. Across the country, Olivia was left with a profound and unsettling question about the choice she had made. And in the living room on Stella's house, for the first time since their goodbye, Leo felt a fragile, genuine flicker of hope.
 
@@ -599,7 +599,7 @@ When Delores finally came back into the bedroom, her face was a mask of forced c
 
 Steeling himself, he reached for his Quantum Communicator. He had to try.
 
-"I WANT TO GO HOME. TO STELLA'S. PLEASE."
+<aac>I want to go home. To stella's. Please.</aac>
 
 Delores looked at the message and let out a short, bitter laugh. "Oh, you're being ridiculous. You're not going anywhere. You live here now, remember?" Her tone was final, a clear warning.
 
@@ -775,7 +775,7 @@ Leo sat at the kitchen table, his back to her, and dialed Olivia's number from m
 
 The sound of her voice was a lifeline. Leo's face, which had been a tight mask of anxiety, softened instantly. He picked up his Quantum Communicator, placed the phone receiver near its speaker, and began to type. This was his normal, comfortable method: the phone acting as a simple bridge, his device as his voice.
 
-"HI LIV. IT'S ME," the synthesized voice spoke into the receiver.
+<aac>Hi liv. It's me,</aac> the synthesized voice spoke into the receiver.
 
 "Leo! I was hoping you'd call!" Olivia's voice was full of genuine warmth. "How's your weekend going?"
 
@@ -1735,7 +1735,7 @@ Luna burst into tears in the background. "He's there! Stella, he's really there!
 
 Trembling, shaking with adrenaline and happy tears, Leo's clumsy fingers hit the rigid TTY keys. The operator’s clear, calm voice read his words to his sisters in real-time, contrasting sharply with the emotional chaos of the live microphone.
 
-(TTY OPERATOR): "LEO IS TYPING... AIRPORT. SEATTLE. NEED HOME. DELORES LEFT ME. PLEASE HELP. GA."
+(TTY OPERATOR): <aac>Leo is typing... Airport. Seattle. Need home. Delores left me. Please help. Ga.</aac>
 
 He heard Stella's shocked gasp. A long, stunned silence. Then her voice, no longer just worried but sharp with a new, terrifying panic, exploded in his ear. "Seattle?! Leo, what are you talking about?! How did you get to Seattle?!"
 
@@ -1743,7 +1743,7 @@ In the background, Luna's voice was a confused echo. "Seattle? Huh? What's he do
 
 Stella's mind was a maelstrom. A thousand plans exploded at once. The surprise. The carefully orchestrated, life-altering reunion for Thanksgiving. It was all gone, replaced by a single, stark, and terrible clarity. *Olivia.*
 
-Luna's confusion sharpened into horrified understanding, her voice rising with a sudden, desperate urgency. "STELLA, WAKE OLIVIA! SCRAP THE SURPRISE!"
+Luna's confusion sharpened into horrified understanding, her voice rising with a sudden, desperate urgency. <aac>Stella, wake olivia! Scrap the surprise!</aac>
 
 The shared, frantic realization solidified their next move. When Stella's voice came back on the line, it was no longer just panicked. It was the focused, ice-cold voice of a general taking command.
 
@@ -1791,7 +1791,7 @@ After another furious burst of typing, her voice returned, sharp with success. "
 
 "G-W-seven-three-niner-K-L. Got it," Olivia repeated, the sound of scribbling audible over the line. "Stella, my bags are already packed. The moment I hang up, I'm calling a cab straight to the airport."
 
-Before Stella could say another word, the TTY operator's voice cut in again with Leo's own text. (TTY OPERATOR): "LEO IS TYPING... WEARING MY FAVORITE HOODED NAVY BLUE SWEATSHIRT. THE ONE WITH MY PICTURE WITH LUNA. IT IS SOAKED. FROM THE RAIN. I AM SHIVERING. AND JEANS. GA."
+Before Stella could say another word, the TTY operator's voice cut in again with Leo's own text. (TTY OPERATOR): <aac>Leo is typing... Wearing my favorite hooded navy blue sweatshirt. The one with my picture with luna. It is soaked. From the rain. I am shivering. And jeans. Ga.</aac>
 
 "Oh, Leo..." Stella's voice cracked. Her voice hardened with purpose. "Okay, Liv, listen. He's cold and he's hungry. First thing you do when you get him is go to one of those airport shops and buy him a new, warm sweatshirt. I don't care the cost. And get him a hot meal."
 
@@ -2173,7 +2173,7 @@ As he sat comfortably in his chair, Olivia realized with a pressing urgency that
 
 She knelt beside his chair so they were at eye level, her voice soft and full of respect. "Leo, I need to use the toilet, too. I am not going to leave this room. Is it okay with you if I use it while you're here?"
 
-Leo looked at her, his eyes filled with a mixture of his lingering fear and a deep gratitude for her understanding. She wasn't just telling him; she was asking. He nodded, then reached for her phone. With slow, deliberate taps on the T9 keypad, he wrote his reply: "SCARED TO BE ALONE. BUT I UNDERSTAND. YES. OKAY. THANK YOU FOR STAYING."
+Leo looked at her, his eyes filled with a mixture of his lingering fear and a deep gratitude for her understanding. She wasn't just telling him; she was asking. He nodded, then reached for her phone. With slow, deliberate taps on the T9 keypad, he wrote his reply: <aac>Scared to be alone. But I understand. Yes. Okay. Thank you for staying.</aac>
 
 "Thank you, Leo," she whispered. Prioritizing his security over her own privacy, she used the toilet. It wasn't awkward; it was an act of mutual trust and profound care.
 

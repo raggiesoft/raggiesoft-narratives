@@ -80,7 +80,7 @@ Sitting across from him was Courtney. She was mid-sentence, animatedly breaking 
 
 Matt’s fingers moved across his laptop keyboard with practiced, fluid efficiency. The massive font of Quantum WritePad 97 filled the screen with his dry response.
 
-**"IT IS. IF YOUR STRATEGY IS LOSING."**
+*<aac>It is. If your strategy is losing.</aac>*
 
 Courtney threw her head back and laughed, reaching across the table to affectionately bump his forearm. "Exactly! Thank you!"
 
@@ -104,7 +104,7 @@ Courtney let out a low whistle, her eyes wide as she watched Mrs. DeMarco sweep 
 
 Matt typed, his lips curving into a wry smile as the glowing text appeared.
 
-**"SHE IS THE APEX PREDATOR OF THE LINOLEUM. RESPECT THE HIERARCHY."**
+*<aac>She is the apex predator of the linoleum. Respect the hierarchy.</aac>*
 
 Courtney giggled, her attention snapping immediately back to Matt, the tension of Mrs. DeMarco's passing completely forgotten. "You're terrible," she teased, taking a bite of her apple. "But seriously, I am so ready for today to be over. Seven o'clock cannot come fast enough."
 
@@ -304,7 +304,7 @@ Matt immediately sat up straighter, a massive, uncontainable smile spreading acr
 
 It was time for the *Majesty Express*.
 
-The legendary, fast-paced CGI roller coaster sequence blasted onto the screen. Instead of metal rails, the first-person "camera" locked onto a glowing, translucent celluloid filmstrip track. At the very bottom of the initial lift hill, a flashing electronic sign ordered *"NO SMOKING."* As the coaster slowly clattered upward, a futuristic, low-polygon dashboard popped up at the bottom of the screen to rapidly display the theater policies: *"DISPOSE OF TRASH IN TRASH CANS. GIFT CERTIFICATES ARE AVAILABLE FOR ANY SPECIAL OCCASION."*
+The legendary, fast-paced CGI roller coaster sequence blasted onto the screen. Instead of metal rails, the first-person "camera" locked onto a glowing, translucent celluloid filmstrip track. At the very bottom of the initial lift hill, a flashing electronic sign ordered <aac>No smoking.</aac> As the coaster slowly clattered upward, a futuristic, low-polygon dashboard popped up at the bottom of the screen to rapidly display the theater policies: <aac>Dispose of trash in trash cans. Gift certificates are available for any special occasion.</aac>
 
 At the top of the lift hill, a massive electronic sign suspended over the track alternated between <aac>Quiet please</aac> and <aac>No talking during movie,</aac> accompanied by a sharp, synthesized <aac>ding!</aac> sound with every flash.
 

@@ -79,7 +79,7 @@ Luna closed her eyes, her fingers moving in the air, mimicking the key presses o
 
 Leo looked at her, his expression thoughtful. He reached for his **Quantum Communicator**.
 
-"IT IS CLEAR. IT CUTS THROUGH THE NOISE."
+<aac>It is clear. It cuts through the noise.</aac>
 
 "Exactly," Luna said, her eyes wide. "It cuts through the noise. If you were lost... if you were stuck somewhere loud and scary... you could hear that."
 
@@ -95,7 +95,7 @@ Stella looked up from her book, smiling at the sudden intensity in Luna's voice.
 
 Leo looked at his twin. He saw the determination in her face, the way the melody had resonated with her. He tapped his screen again.
 
-"IT IS A GOOD SOUND. A SAFE SOUND."
+<aac>It is a good sound. A safe sound.</aac>
 
 Luna smiled at him, a secret, shared understanding passing between them. "Yeah. A safe sound. If I learn it... I can play it for you. So you always know where the true light is."
 
@@ -165,7 +165,7 @@ Whoooosh.
 
 Leo watched her. He saw the tension in her shoulders. He remembered the day at the mall with the clothes—how making choices was hard, but the result was worth it. He tapped his **Quantum Communicator**.
 
-"TRY AGAIN. AIM DOWN."
+<aac>Try again. Aim down.</aac>
 
 Luna glared at the shiny silver tube. "Aim down. Easy for you to say."
 
@@ -189,11 +189,11 @@ Leo grinned. He typed quickly.
 
 Luna lowered the flute, a massive grin breaking across her face. "I got it. I actually got it."
 
-"KEEP GOING," Leo commanded via his device. "PLAY THE SONG."
+<aac>Keep going,</aac> Leo commanded via his device. <aac>Play the song.</aac>
 
 "I can play *one note*, Leo," Luna laughed. "The solo is going to take a while. Especially the part at 3:50. That part is insane."
 
-"WE HAVE TIME," Leo tapped.
+<aac>We have time,</aac> Leo tapped.
 
 Luna looked at the flute in her hands. It wasn't just a rental instrument anymore. It was a challenge. And for the first time, she felt like she held the key to their secret language.
 
@@ -227,7 +227,7 @@ She lowered the flute, looking at Leo.
 
 He didn't hesitate. He tapped his **Quantum Communicator**.
 
-"CLEAR. STEADY. YOU GOT IT."
+<aac>Clear. Steady. You got it.</aac>
 
 Stella walked in from the kitchen, drying her hands on a towel. She had been listening from the other room for weeks—hearing the frustration, the swearing, the breathless failures, and now, the music.
 
@@ -285,7 +285,7 @@ The sound that came out was shocking. It wasn't thin or airy. It was rich, dark,
 
 Leo’s eyes went wide. He tapped his **Quantum Communicator** immediately.
 
-"THAT IS THE SOUND. THE TRUE LIGHT."
+<aac>That is the sound. The true light.</aac>
 
 Luna lowered the flute, cradling it like it was made of glass. She looked at Stella, her eyes shining. "It's perfect."
 

@@ -168,7 +168,7 @@ YES. MUCH BETTER. THANKS TO YOU AND LUNA, he responded.
 
 "Just glad everything worked out," Olivia said sincerely.
 
-Just then, Luna’s attention was drawn to a familiar, unwelcome sight nearby. Internally, a silent "JERK ALERT!!" klaxon, a phrase that always sprang to her mind for people like him, blared with sudden intensity. Josh Riley and his two friends were emerging from the direction of the main office, their expressions sullen. Luna tensed instinctively. Josh’s eyes, still burning with resentment, immediately found Olivia and Leo, and he saw the tail end of their friendly interaction and the hug. His face contorted in a sneer of disbelief and fresh anger.
+Just then, Luna’s attention was drawn to a familiar, unwelcome sight nearby. Internally, a silent <aac>Jerk alert!!</aac> klaxon, a phrase that always sprang to her mind for people like him, blared with sudden intensity. Josh Riley and his two friends were emerging from the direction of the main office, their expressions sullen. Luna tensed instinctively. Josh’s eyes, still burning with resentment, immediately found Olivia and Leo, and he saw the tail end of their friendly interaction and the hug. His face contorted in a sneer of disbelief and fresh anger.
 
 He nudged one of his goons – the one who had seemed less enthusiastic about the earlier bullying – and began to mutter loud enough for Luna, standing slightly behind Leo and now acutely aware of their presence, to overhear distinct, venomous fragments. His two friends exchanged weary, eye-rolling glances, clearly growing tired of his constant negativity and entitlement.
 
@@ -260,7 +260,7 @@ Quickly, Olivia and Luna explained the situation: the storm’s sudden, severe o
 
 Luna beamed, despite the storm. "Yes! Olivia’s first official Porter sleepover!" she declared, trying to inject some lightness, especially for Leo's benefit. "Stella, you can make your emergency bad-weather pasta, and we can watch that cheesy alien invasion movie Olivia actually likes!"
 
-Leo looked from Stella’s reassuring face to Olivia’s, a mixture of profound relief that Olivia would be staying (especially with the storm escalating his anxiety) and his ever-present storm-induced fear churning within him. He typed on his communicator: "THANK YOU, STELLA. OLIVIA, REALLY GLAD YOU ARE STAYING. MUCH SAFER HERE WITH US."
+Leo looked from Stella’s reassuring face to Olivia’s, a mixture of profound relief that Olivia would be staying (especially with the storm escalating his anxiety) and his ever-present storm-induced fear churning within him. He typed on his communicator: <aac>Thank you, stella. Olivia, really glad you are staying. Much safer here with us.</aac>
 
 ### Part 3: Weathering the Storm – A Best Friend's Comfort
 
@@ -276,7 +276,7 @@ Olivia got the pillow and blanket set up for herself on the sofa. Meanwhile, Lun
 
 "Hey," she said softly, gently ruffling his hair, "Ready to try and get some sleep?"
 
-He nodded, then gestured towards his bed, then to her, a clear but hesitant invitation, his eyes full of fear. "WILL YOU... SIT WITH ME? JUST... UNTIL I FALL ASLEEP? THE THUNDER... IT'S REALLY, REALLY BAD TONIGHT."
+He nodded, then gestured towards his bed, then to her, a clear but hesitant invitation, his eyes full of fear. <aac>Will you... Sit with me? Just... Until I fall asleep? The thunder... It's really, really bad tonight.</aac>
 
 "Of course, Leo," Olivia Walker said without a moment's hesitation, her heart aching at his visible distress. "I'll stay right here." She saw the searching look in his eye that needed no explanation: Leo wanted Olivia to follow him into his bedroom.
 
@@ -344,7 +344,7 @@ The aroma of Stella’s pancakes soon filled the cozy house at Stella's house, a
 
 Olivia laughed. "I accept the title and the syrup! Though I think Leo was the brave one last night, facing down all that thunder." She gave Leo a warm, affectionate smile.
 
-Leo, munching happily on a pancake, typed on his Quantum Communicator XT: "WAS EASIER WITH YOU HERE, OLIVIA. THANK YOU FOR STAYING."
+Leo, munching happily on a pancake, typed on his Quantum Communicator XT: <aac>Was easier with you here, olivia. Thank you for staying.</aac>
 
 "Anytime, Leo. Honestly," Olivia said, her gaze sincere.
 
@@ -352,7 +352,7 @@ Stella, flipping a pancake, added, "Well, the good news is the power stayed on, 
 
 Luna’s eyes lit up. "Yes! A full weekend with Olivia! We can finish that Government presentation, Leo, and maybe finally subject Stella to 'Carnival of Cosmic Creeps'!" She winked at Olivia.
 
-Leo typed eagerly: "YES! PLEASE STAY, OLIVIA. THE WHOLE WEEKEND. WE CAN FINISH THE PRESENTATION." He paused, then a mischievous glint appeared in his eyes as he continued typing, directing his next comment more towards Olivia. "AND, YES, WE MUST WATCH 'CARNIVAL OF COSMIC CREEPS'. I KNOW HOW MUCH YOU LOVE THAT ONE."
+Leo typed eagerly: <aac>Yes! Please stay, olivia. The whole weekend. We can finish the presentation.</aac> He paused, then a mischievous glint appeared in his eyes as he continued typing, directing his next comment more towards Olivia. <aac>And, yes, we must watch 'carnival of cosmic creeps'. I know how much you love that one.</aac>
 
 Olivia gasped dramatically, a hand flying to her chest, her eyes wide with feigned horror and true delight. "'Carnival of Cosmic Creeps'! Oh, Leo, you *know* that's my ultimate guilty pleasure! The terrible rubber suits! The acting! The plot holes you could drive a Holt Sentinel through! It’s cinematic perfection!" She then grinned at Stella and Luna. "You guys haven't lived until you've seen the giant evil space clowns trying to turn people into cotton candy with ray guns."
 
@@ -364,7 +364,7 @@ Leo beamed. He wasn't a huge fan of B-movies himself, but Olivia's infectious en
 
 Olivia, sensing his affectionate indulgence, leaned over and gave his arm a playful nudge. "You just love my insightful commentary, admit it."
 
-"THE COMMENTARY IS... MEMORABLE," Leo typed, a clear tease in his message. "THE COMPANY IS EXCELLENT."
+<aac>The commentary is... Memorable,</aac> Leo typed, a clear tease in his message. <aac>The company is excellent.</aac>
 
 "You guys are the best," Olivia said, her heart warming at their genuine insistence for her to stay the whole weekend. "Okay, then. 'Cosmic Creeps' it is for tonight, after we conquer American Government. But I'll definitely need to run home for some things."
 
@@ -406,17 +406,17 @@ Luna chimed in, already efficiently organizing the pantry, "Yeah, Olivia, seriou
 
 Olivia laughed. "Can't say that I do! Okay, if you're both absolutely sure." She glanced at Leo, who was looking at her with a hopeful, expectant expression, clearly pleased at the prospect of more dedicated time with her. "Leo? What do you want to do?"
 
-Leo’s eyes lit up. He gestured towards the living room corner where his beloved MagnaByte Opus setup resided alongside Luna’s identical machine. He typed on his AAC: "WANT TO SHOW YOU SOMETHING REALLY IMPORTANT TO ME. MY REAL VOICE. MY REAL COMPUTER."
+Leo’s eyes lit up. He gestured towards the living room corner where his beloved MagnaByte Opus setup resided alongside Luna’s identical machine. He typed on his AAC: <aac>Want to show you something really important to me. My real voice. My real computer.</aac>
 
 Intrigued, Olivia followed him. She had seen the vintage machines, of course, and knew they were special to him and Luna from their shared joy during previous homework sessions, but she hadn't had a proper, personal introduction from Leo himself. He wheeled up to his station, the one on the right, and gestured for Olivia to pull up a spare dining chair, as he knew she wouldn't want to use Luna's designated chair at the other MagnaByte.
 
 He turned on the MagnaByte Opus. The familiar whir of the floppy drive, the satisfying click of the power switch, and then the colorful, icon-based MagnaDesk desktop appeared on the CRB monitor – a welcome sight that always filled him with a sense of comfort and competence. Instead of using his Quantum Communicator XT, he skillfully used the single-button mouse to open the MagnaSuite word processor, MagnaWriter. His fingers moved across the clicky, responsive keyboard with a fluency that always surprised those used to seeing him type on his more modern AAC device.
 
-"THIS," the words appeared crisply on the graphical interface of MagnaWriter, "IS HOW I FIRST FOUND MY VOICE. BACK IN ELEMENTARY SCHOOL, AT WILLOW CREEK, WHEN I WAS SEVEN. BEFORE THIS, WORDS WERE TRAPPED. HANDWRITING WAS SO SLOW, SO HARD. BUT THIS KEYBOARD... AND THIS SCREEN... IT JUST MADE SENSE TO MY HANDS, TO MY BRAIN."
+<aac>This,</aac> the words appeared crisply on the graphical interface of MagnaWriter, <aac>Is how I first found my voice. Back in elementary school, at willow creek, when I was seven. Before this, words were trapped. Handwriting was so slow, so hard. But this keyboard... And this screen... It just made sense to my hands, to my brain.</aac>
 
 Olivia watched, fascinated and deeply moved, reading the words as he typed them, understanding the profound significance of what he was sharing.
 
-"STELLA SEARCHED FOR MONTHS, HIGH AND LOW, TO FIND THESE TWO WORKING MAGNABYTE Opus MACHINES AFTER SHE GOT GUARDIANSHIP," Leo continued typing in MagnaWriter. "ONE FOR ME, ONE FOR LUNA. WE HAD ONE AT BRANDON MIDDLE SCHOOL, MS. EVANS SAVED IT FOR US, AND IT WAS SO IMPORTANT. STELLA KNEW HOW MUCH IT MEANT. SHE UNDERSTOOD, EVEN WHEN OTHER PEOPLE THOUGHT IT WAS JUST OLD JUNK."
+"STELLA SEARCHED FOR MONTHS, HIGH AND LOW, TO FIND THESE TWO WORKING MAGNABYTE Opus MACHINES AFTER SHE GOT GUARDIANSHIP," Leo continued typing in MagnaWriter. <aac>One for me, one for luna. We had one at brandon middle school, ms. Evans saved it for us, and it was so important. Stella knew how much it meant. She understood, even when other people thought it was just old junk.</aac>
 
 He paused, then added, his words carrying a weight of vulnerability and trust: "I GET REALLY FLUSTERED WITH MODERN COMPUTERS. STELLA'S QUANTUM OS PC... THE MOUSE IS WRONG, TOO MANY BUTTONS, TOO MANY MENUS, TOO MUCH FLASHING. IT'S CONFUSING AND OVERWHELMING FOR ME. BUT HERE," he patted the sturdy beige casing of the MagnaByte with genuine affection, "WITH MAGNADESK AND MAGNASUITE, EVERYTHING IS CLEAR. I CAN THINK. I CAN WRITE. I DO ALL MY SCHOOL ASSIGNMENTS ON THIS VERY OLD, BUT VERY WELL-LOVED MAGNABYTE Opus. IT’S MY SAFE PLACE FOR WORDS. MY REAL VOICE."
 
@@ -426,7 +426,7 @@ Leo beamed at her understanding, his eyes shining. He nodded enthusiastically.
 
 "So, how do you print your assignments for school from this if you need to turn in a hard copy?" Olivia asked, genuinely curious about the practicalities.
 
-Leo’s eyes twinkled with a hint of playful showmanship. "WATCH THIS," he typed. He then reached over to the small A/B switch box that Stella had set up, connecting both MagnaBytes to the single MagnaByte GraphiPrint printer. He pressed the button clearly labeled 'Leo'; it clicked and stayed depressed, a small indicator light glowing. Then, using the simple, intuitive MagnaByte mouse, he navigated the MagnaWriter menu: File, then Print.
+Leo’s eyes twinkled with a hint of playful showmanship. <aac>Watch this,</aac> he typed. He then reached over to the small A/B switch box that Stella had set up, connecting both MagnaBytes to the single MagnaByte GraphiPrint printer. He pressed the button clearly labeled 'Leo'; it clicked and stayed depressed, a small indicator light glowing. Then, using the simple, intuitive MagnaByte mouse, he navigated the MagnaWriter menu: File, then Print.
 
 The quiet hum of the room was suddenly shattered by the loud, buzzing screech of the MagnaByte GraphiPrint II kicking into action. The print head zipped back and forth with impressive force and volume, transferring text line by line onto the tractor-feed paper with its characteristic noisy efficiency.
 
@@ -458,7 +458,7 @@ Dinner was another relaxed, comfortable affair in the cozy kitchen. They talked 
 
 After dinner, as Stella and Luna tackled the cleanup, Stella once again gently shooed Olivia away from helping. "Nope, you're still officially our guest of honor for the weekend, Olivia. Go on, you and Leo find something to do. Luna and I have this covered."
 
-Leo looked at Olivia, a hopeful question in his eyes. He typed on his Quantum Communicator XT: "ONE MORE GAME OF 'COSMIC CREEPS ANNIHILATOR' ON THE MAGNABYTE BEFORE BED? OR MAYBE START THAT NEW BOARD GAME GRANDMA ELEANOR GOT US?"
+Leo looked at Olivia, a hopeful question in his eyes. He typed on his Quantum Communicator XT: <aac>One more game of 'cosmic creeps annihilator' on the magnabyte before bed? Or maybe start that new board game grandma eleanor got us?</aac>
 
 Olivia grinned. "Lead the way, Leo. Though after yesterday's 'Carnival of Cosmic Creeps,' I think my brain can only handle one level of cheesy space aliens at a time. Board game sounds good!"
 
@@ -530,13 +530,13 @@ Leo nodded tightly, his jaw clenched against the pain.
 
 "Okay. Can I touch your leg to help straighten it, or do you need a minute?" she asked, her hands hovering respectfully above his knee. 
 
-Leo typed a quick, "YES. STRAIGHTEN."
+Leo typed a quick, <aac>Yes. Straighten.</aac>
 
 Olivia nodded. "Alright. Tell me if I pull too hard." With gentle, firm pressure, she guided his knee back down, working against the tense muscle until it finally relented and his foot rested flat against the plate again. She stayed kneeling beside him for another moment, ensuring the tremor had passed. 
 
 "Better?" she asked softly.
 
-"MUCH BETTER. THANK YOU," Leo typed, the tension leaving his shoulders. 
+<aac>Much better. Thank you,</aac> Leo typed, the tension leaving his shoulders. 
 
 At the doorway to the kitchen, Stella stood holding a wooden spoon, frozen. She had rushed to the archway at the sound of Leo's gasp, ready to intervene. But she had stopped, watching in silent amazement as Olivia handled the situation with a grace, calm, and profound respect for Leo’s bodily autonomy that most trained caregivers Stella had hired over the years had failed to master. Olivia hadn't babied him; she had asked for his consent, communicated clearly, and solved the problem.
 
@@ -738,7 +738,7 @@ They talked about their expectations for the sci-fi blockbuster – the rumored 
 
 The meal was easy, filled with laughter and the comfortable rhythm of their friendship. As they finished their fries, Stella checked her watch. "Alright, movie moguls, time to head to the theater. Don't want to miss the previews!"
 
-Gathering their things, the group made their way through the mall towards the cineplex. The posters outside proclaimed "SOLD OUT" in bold red letters beneath the movie title, but Stella just smiled, her pre-purchased tickets a quiet reassurance. The anticipation was high, the promise of shared adventure hanging happily in the air as they prepared to immerse themselves in another world for a few hours.
+Gathering their things, the group made their way through the mall towards the cineplex. The posters outside proclaimed <aac>Sold out</aac> in bold red letters beneath the movie title, but Stella just smiled, her pre-purchased tickets a quiet reassurance. The anticipation was high, the promise of shared adventure hanging happily in the air as they prepared to immerse themselves in another world for a few hours.
 
 ### Part 5: Saturday Matinee and a Souring Mood
 
@@ -748,7 +748,7 @@ Their meal finished amidst laughter and excited chatter, the remnants of burgers
 
 As they began to gather their things, Luna, while helping Leo adjust his backpack on his chair, glanced up. Her eyes suddenly narrowed, her posture stiffening almost imperceptibly. Across the now slightly less crowded food court, a familiar figure had just walked in, flanked by a couple of giggling friends: Jessica.
 
-Luna’s internal "JERK ALERT!!" klaxon blared. Instinctively, a defense mechanism honed by past unpleasant encounters involving Jessica’s unwelcome and often mocking attention towards Leo, Luna began to hum, very softly, almost under her breath – the searching, ethereal flute melody from Fractured Prisms' "Kaleidoscope Sun." It was so quiet, Stella, busy clearing her tray, likely didn't register it.
+Luna’s internal <aac>Jerk alert!!</aac> klaxon blared. Instinctively, a defense mechanism honed by past unpleasant encounters involving Jessica’s unwelcome and often mocking attention towards Leo, Luna began to hum, very softly, almost under her breath – the searching, ethereal flute melody from Fractured Prisms' "Kaleidoscope Sun." It was so quiet, Stella, busy clearing her tray, likely didn't register it.
 
 Olivia, who had been chatting happily with Leo, caught the tail end of Luna’s soft hum. It was the same faint, almost mystical-sounding wisp of a melody she remembered hearing Luna hum in the assembly a few days before Josh Riley was removed. Her attention sharpened. Then, she noticed Leo’s reaction to the hum: he gave a small, almost imperceptible nod towards Luna, his expression shifting from relaxed anticipation to a more guarded, alert awareness, though his smile for Olivia didn't falter. Olivia didn't understand the specific signal, but she was starting to connect the dots: Luna’s quiet hum often preceded or coincided with Leo having a subtle but definite shift in his demeanor, especially if there was someone unpleasant nearby. She glanced in the direction Luna was subtly watching and saw Jessica, her face already contorting into a familiar sneer as she spotted Leo’s group. *Ah,* Olivia thought with dawning comprehension. *That explains the hum.*
 
@@ -863,7 +863,7 @@ The decision, once made in that silent, shared glance of revulsion between Luna 
 
 "I'm calling Stella," Luna finally managed to say, her voice a tight whisper that Leo barely caught. He nodded, his eyes wide with a mixture of fear and desperate hope. The idea of navigating through the throng of increasingly uninhibited teenagers to find a phone felt daunting, but staying was unbearable.
 
-Clutching Leo’s arm for balance and courage, Luna began to push her way through the edge of the living room crowd. Leo maneuvered his Quantum Communicator XT carefully, keeping it close, though he knew using it for anything beyond a quick "NEED HELP" message if Luna couldn't get through would be impossible in this din. They were jostled, bumped, and nearly tripped several times by teenagers who were either too drunk to notice them or too self-absorbed to care. The music seemed to get louder, the lyrics unintelligible, just a pounding, disorienting rhythm.
+Clutching Leo’s arm for balance and courage, Luna began to push her way through the edge of the living room crowd. Leo maneuvered his Quantum Communicator XT carefully, keeping it close, though he knew using it for anything beyond a quick <aac>Need help</aac> message if Luna couldn't get through would be impossible in this din. They were jostled, bumped, and nearly tripped several times by teenagers who were either too drunk to notice them or too self-absorbed to care. The music seemed to get louder, the lyrics unintelligible, just a pounding, disorienting rhythm.
 
 They finally spotted the landline telephone on a small end table in the kitchen, which, while still noisy, was marginally less chaotic than the epicenter of the party in the living room. A couple of teens were rummaging in the refrigerator, pulling out more beer cans provided by Grandpa Richard, but they paid Luna and Leo no mind.
 

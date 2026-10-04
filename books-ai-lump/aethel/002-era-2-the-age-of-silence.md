@@ -194,7 +194,7 @@ Dozens of eyes turned toward the forge.
 
 Kaelan looked at his hands. They weren't burned. They were glowing—a faint, terrifying red light pulsing beneath the skin of his palms.
 
-"I..." Kaelan stammered, looking at Jace, who was pale and shaking on the cobblestones. "I didn't mean to..."
+<aac>I...</aac> Kaelan stammered, looking at Jace, who was pale and shaking on the cobblestones. "I didn't mean to..."
 
 "Stay back!" Jace’s mother, the baker’s wife, rushed forward, pulling her son behind her. She looked at Kaelan not with anger, but with fear. Pure, unadulterated fear. "Keep away from him!"
 
@@ -623,7 +623,7 @@ Kaela was sitting up, clutching her leg. The scratch wasn't deep, but it was ble
 
 Kaelan sat back on his heels. He looked at the burning brush. He looked at the pile of fallen rocks. He looked at the blood on her leg.
 
-"I..." He swallowed hard. "I just wanted to protect you."
+<aac>I...</aac> He swallowed hard. "I just wanted to protect you."
 
 "You can't protect me if you don't trust me," Kaela said, tearing a strip from her tunic to bind her leg. "You're just... noise and fire. You're dangerous, Kaelan."
 
@@ -6646,7 +6646,7 @@ Horg roared.
 
 He stood up, snapping the heavy hemp ropes binding his wrists as if they were thread.
 
-"NOT TODAY!" Horg bellowed.
+<aac>Not today!</aac> Horg bellowed.
 
 He tackled the nearest mercenary, a captain in full plate armor. Horg didn't have a weapon; he used his massive fists, hammering the soldier’s helmet like he was shaping hot iron on an anvil. *CLANG. CLANG.* The mercenary folded.
 

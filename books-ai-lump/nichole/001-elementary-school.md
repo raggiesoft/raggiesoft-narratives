@@ -148,7 +148,7 @@ Ellen looked at Nichole. She thought about the dark parking lots, the crosswalks
 
 Tom handed the paper back to his son. "Okay. While you boys do the engineering run, your mother and I need to figure out how to see Grandma Helen."
 
-"She's at the apartment on Pond Avenue," Mark said. "3C."
+"She's at the apartment on Pond Avenue," Mark said. <aac>3c.</aac>
 
 "Exactly," Tom sighed. "Third floor. No elevator. Just that narrow winding staircase. There is no way we are carrying Nichole up three flights of spiral stairs. It’s not safe for her or us."
 
@@ -469,7 +469,7 @@ Grandma Helen stood in front of the stone. She held her purse with both hands. S
 
 She reached into her canvas library tote and pulled out a small, stiff-bristled hand broom and a plastic bottle of water. She knelt down. It was a slow, stiff movement, her knees cracking in the quiet air. Tom stepped forward instantly, his hand reaching out. "Mom, let me—" She waved him off without looking up. "I have it, Thomas."
 
-The group fell silent. The only sound was the wind in the oak leaves and the distant *caw* of a crow. Helen uncapped the water. She poured it carefully over the name *William*. The water darkened the gray stone, making the engraved letters turn sharp and black. She took the broom. She swept away the grass clippings from the mower. She scrubbed the dust of the summer out of the groove of the "B." She wiped away a spot of bird droppings near the date.
+The group fell silent. The only sound was the wind in the oak leaves and the distant *caw* of a crow. Helen uncapped the water. She poured it carefully over the name *William*. The water darkened the gray stone, making the engraved letters turn sharp and black. She took the broom. She swept away the grass clippings from the mower. She scrubbed the dust of the summer out of the groove of the <aac>B.</aac> She wiped away a spot of bird droppings near the date.
 
 It wasn't just cleaning. It was caretaking. It was the only way she could still touch him.
 
@@ -737,7 +737,7 @@ Nichole shook her head violently. *No.*
 
 She pointed to the old computer keyboard gathering dust on the shelf.
 
-"QWERTY?" Patrick asked.
+<aac>Qwerty?</aac> Patrick asked.
 
 Nichole nodded. *Yes.*
 
@@ -750,7 +750,7 @@ Patrick placed every sticker. They used high-visibility yellow vinyl mailbox let
 
 - Center: The QWERTY grid.
 
-- Sides: Patrick had the idea to use electrical tape (Red and Green) to make the massive "YES" and "NO" landing strips on the sides, so she could hit them even if she was shaking.
+- Sides: Patrick had the idea to use electrical tape (Red and Green) to make the massive <aac>Yes</aac> and <aac>No</aac> landing strips on the sides, so she could hit them even if she was shaking.
 
 - The Corners: Ellen insisted on the "Needs" corners. *Bathroom. Pain. Thirst.*
 

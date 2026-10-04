@@ -63,7 +63,7 @@ Patrick wheeled her heavy black AeroMotion tilt-in-space chair over to the bed. 
 
 Click.
 
-Nikki tapped the screen. The synthesized voice of 'Digital Dan' filled the room. "READY."
+Nikki tapped the screen. The synthesized voice of 'Digital Dan' filled the room. <aac>Ready.</aac>
 
 Patrick grabbed the push handles. He leaned his weight on them, feeling his balance steady. "Ready," he echoed.
 
@@ -87,7 +87,7 @@ Patrick stopped pouring milk. "The one about the Clinic?"
 
 "The one that says you are allowed—*expressly allowed by your parents*—to assist Nichole in the event of a toileting emergency," Ellen said, reciting it like a legal statute. "If Mrs. Gable or anyone else gives you grief, you show them that paper. I don't care what the district policy says. If she needs you, you go."
 
-Nikki tapped her VocaLink screen. "I. HATE. GABLE," the deep, monotone voice of Digital Dan announced.
+Nikki tapped her VocaLink screen. <aac>I. Hate. Gable,</aac> the deep, monotone voice of Digital Dan announced.
 
 Tom chuckled into his coffee. "See? Dan agrees. Gable is a bureaucrat."
 
@@ -107,7 +107,7 @@ Patrick finished his bowl and stood up. He grabbed his backpack, slinging it ove
 
 He looked at Nikki. She was wiping milk off her chin with the back of her hand. She looked up at him, her eyes wide. She tapped her screen again.
 
-"SCARED."
+<aac>Scared.</aac>
 
 The deep male voice made the word sound heavy, final. The kitchen went quiet.
 
@@ -141,7 +141,7 @@ Nichole stopped pushing. Her arms burned from fighting the foam. She dropped her
 
 *Use your words.*
 
-The phrase was a jagged rock. Nichole couldn't find the words. Her brain felt sticky, processing speed dropping to zero. The menu on her VocaLink seemed miles deep. It would take too long to find "STOP."
+The phrase was a jagged rock. Nichole couldn't find the words. Her brain felt sticky, processing speed dropping to zero. The menu on her VocaLink seemed miles deep. It would take too long to find <aac>Stop.</aac>
 
 She retreated. She hunched her shoulders up to her ears, entering "Turtle Mode." A low, vibrating hum started in her chest: *Mmmmmmmmmm.*
 
@@ -564,7 +564,7 @@ As long as Patrick was driving, she was safe.
 
 She tapped her VocaLink.
 
-"BETTER."
+<aac>Better.</aac>
 
 Patrick took a bite of his pizza and grinned. "Yeah. Much better."
 

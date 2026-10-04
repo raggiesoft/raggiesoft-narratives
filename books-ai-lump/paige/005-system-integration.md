@@ -167,7 +167,7 @@ Jenna’s eyes went wide. "Zero oversight?"
 
 Jenna didn't wait. She bolted down the stairs, her footsteps thundering on the wood.
 
-"DIBS ON THE BIG WALL!" Jenna’s voice echoed up from the cavern. "I’m putting the easel there! And the servers! Sarah, look at the space! It’s huge!"
+<aac>Dibs on the big wall!</aac> Jenna’s voice echoed up from the cavern. "I’m putting the easel there! And the servers! Sarah, look at the space! It’s huge!"
 
 Sarah walked to the top of the stairs. She looked down. She saw the concrete floor—perfectly sweepable. She saw the high, small windows that offered light but prevented anyone from looking in.
 
@@ -836,7 +836,7 @@ The diagram showed the lift in the "Up" position. The car was in the living room
 
 "No shaft required," Jessica read. "No pit. It bolts to the floor and the ceiling joists. It travels through the aperture."
 
-"Through-Floor Lift," Freddie tested the name. "TFL."
+"Through-Floor Lift," Freddie tested the name. <aac>Tfl.</aac>
 
 He looked at the image of the tracks—two skeletal steel rails that looked like the launch towers for a rocket. It was industrial. It was raw. It didn't try to hide what it was.
 
@@ -862,7 +862,7 @@ As Jenna ran out of the room, Freddie sat back in The Rover. He looked at the di
 
 It looked like something that belonged on the *Sanctuary*.
 
-"TFL," Freddie repeated, testing the acronym. "It sounds... operational."
+<aac>Tfl,</aac> Freddie repeated, testing the acronym. "It sounds... operational."
 
 "It sounds like freedom," Paige whispered, resting her head on his shoulder.
 
@@ -2546,7 +2546,7 @@ She didn't know the specific statutes of the Virginia Code, but she knew the fee
 
 "Come on," Travis insisted, his grip tightening on her handle. "Don't be a stuck-up—"
 
-"SHE SAID NO!"
+<aac>She said no!</aac>
 
 The voice boomed across the lounge.
 

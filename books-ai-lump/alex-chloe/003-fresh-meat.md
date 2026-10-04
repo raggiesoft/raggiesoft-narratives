@@ -145,7 +145,7 @@ Their saving grace was Megan Carter. As a senior, she was a seasoned veteran of 
 
 Alex smiled, a genuine, relaxed expression he reserved only for his inner circle. At this point in his life, Chloé and Megan were the only two people he felt truly comfortable hugging, and he cherished the easy, unconditional affection they both offered.
 
-Across the room, Josh Riley and his two goons had clearly not absorbed the upperclassmen's warnings about the legendary Mrs. DeMarco. About halfway through the lunch period, a ripple of nervous giggles started emanating from their table, followed by the unmistakable, booming shout – "PENIS!" – from Josh Riley himself.
+Across the room, Josh Riley and his two goons had clearly not absorbed the upperclassmen's warnings about the legendary Mrs. DeMarco. About halfway through the lunch period, a ripple of nervous giggles started emanating from their table, followed by the unmistakable, booming shout – <aac>Penis!</aac> – from Josh Riley himself.
 
 Alex and Chloé exchanged a wide-eyed look. Megan just sighed, a look of profound, world-weary disappointment on her face. "And there it is," she muttered. "Every year, there's always one. An idiot who thinks he's the first person to ever discover 'The Penis Game'."
 
@@ -573,7 +573,7 @@ That was the final straw. The casual, sexist dismissal of Megan was the spark th
 
 Chloé pushed her chair back with a sharp scrape and was on her feet, her eyes blazing. The condescending way Josh had spoken to Megan, on top of his bullying of Alex, was an unforgivable combination. And then, she began to speak, not in English, but in the sharp, rapid-fire, and decidedly colorful Québécois French that was as much a part of her as her coppery red hair.
 
-"TABAROUETTE, RILEY!" The expletive, like a pistol shot, cut through the immediate lunchtime chatter. Students at nearby tables paused, forks halfway to their mouths. Ben and Morgan looked over, Ben wincing, while Morgan watched with a mixture of annoyance at Josh and a flicker of impressed solidarity with Chloé.
+<aac>Tabarouette, riley!</aac> The expletive, like a pistol shot, cut through the immediate lunchtime chatter. Students at nearby tables paused, forks halfway to their mouths. Ben and Morgan looked over, Ben wincing, while Morgan watched with a mixture of annoyance at Josh and a flicker of impressed solidarity with Chloé.
 
 Alex stared, completely in awe, as Chloé unleashed a torrent of passionate, sharp, and wonderfully colorful Québécois French. He had never seen this side of her, this fierce, protective lioness. Megan, sitting beside him, looked equally stunned. Her jaw was slightly agape, a look of profound, almost terrified respect on her face. *Holy crap, Mason,* Megan thought, a genuine worry mixing with her amazement. *You're going to get yourself suspended.*
 
@@ -1435,7 +1435,7 @@ Back in the quiet comfort of their adjoining hotel rooms at the Derby Line Inn, 
 
 The memory of the border crossing, and the strange inside joke between her father and the customs officer, was still fresh in his mind. He turned to Chloé, his expression serious and curious, and typed on his AAC.
 
-OKAY, CHLOÉ. EXPLAIN KOKO-KAPSELS. WHY IS A CHOCOLATE EGG AN "INTERNATIONAL INCIDENT"?
+OKAY, CHLOÉ. EXPLAIN KOKO-KAPSELS. WHY IS A CHOCOLATE EGG AN <aac>International incident</aac>?
 
 Chloé’s conspiratorial smile returned, but it was mixed with a hint of seriousness. She patted the spot on the bed next to her, an invitation for him to bring his chair closer.
 

@@ -917,7 +917,7 @@ The twins stared at her, completely floored. She hadn't just created an incredib
 
 All remaining barriers, all lingering doubts, vanished in that moment. Kelly and Ryan looked at each other, their faces breaking into identical, massive grins.
 
-"YES!" they said in unison. "We'll go!"
+<aac>Yes!</aac> they said in unison. "We'll go!"
 
 ### Part 3: A Fortuitous Encounter 🤝
 

@@ -259,7 +259,7 @@ NOW, INSTEAD OF TYPING THE SCRIPT DIRECTLY, MY PROGRAM READS AND EXECUTES THIS F
 
 He opened another program, "CodeWrite++," his favorite text editor. Then, he opened a user-defined language file he had just finished writing. He applied it to the .vps file.
 
-Instantly, the plain text was transformed. The commands VOICE: and SPEAK: were now a bold blue. The voice names like "FR-CAN" were a distinct purple. The comments were a soft green. He had created his own syntax highlighting.
+Instantly, the plain text was transformed. The commands VOICE: and SPEAK: were now a bold blue. The voice names like <aac>Fr-can</aac> were a distinct purple. The comments were a soft green. He had created his own syntax highlighting.
 
 Megan just stared, her jaw slightly agape. This was a level of thoroughness that went beyond a simple project. This was professional-grade software development. He hadn't just built a tool; he had built an entire, elegant, and user-friendly system for that tool.
 
@@ -903,7 +903,7 @@ Megan then leaned forward, a look of playful, serious concern on her face. "And 
 
 The entire Leclerc clan erupted in a chorus of good-natured, theatrical boos. Chloé just gasped, a hand flying to her chest in a gesture of pure, mock horror.
 
-"It was an accident of geography!" she declared to the laughing crowd. "IT IS A TOQUE, YOU TWO UNCIVILIZED AMERICANS!"
+"It was an accident of geography!" she declared to the laughing crowd. <aac>It is a toque, you two uncivilized americans!</aac>
 
 ### Part 3: The Promise to Return
 

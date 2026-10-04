@@ -37,7 +37,7 @@ Leo tightened his arm around her for a second, a silent agreement, before lettin
 
 She climbed out of bed, stretching. "Okay, I'll start the coffee. You start the transfer."
 
-Leo tapped his **Quantum Communicator** (the XT model they had acquired the previous year), offering her a tired smile. "DEAL."
+Leo tapped his **Quantum Communicator** (the XT model they had acquired the previous year), offering her a tired smile. <aac>Deal.</aac>
 
 Luna headed to the kitchen while Stella entered the room to assist. The routine was a well-oiled machine. Stella helped stabilize him as he transferred from the bed to his wheelchair. They moved to the bathroom, where Stella had laid out his clothes for the day. The three of them moved around each other in the small hallway with a practiced, silent choreography—Luna grabbing towels, Stella managing the medications, Leo navigating the turns. It was a dance of necessity and love, honed over the last year of living together.
 
@@ -104,7 +104,7 @@ As Stella drove away, merging back into the flow of larger, newer cars, Luna loo
 
 "Sophomore year," she said. "New classes. Same old struggle with the car."
 
-Leo tapped his screen, a small grin on his face. "MAYBE SHE WILL WIN THE LOTTERY."
+Leo tapped his screen, a small grin on his face. <aac>Maybe she will win the lottery.</aac>
 
 "Maybe," Luna laughed. "Come on. Let's go see if Mr. Peters has warmed his hands up."
 
@@ -173,7 +173,7 @@ She pulled back, resting her hand on the handle of his chair to ground herself. 
 
 Leo looked up, the tension leaving his shoulders. He released his brakes immediately, shooting a brief look at Mr. Evans, who was watching them with a confused expression.
 
-"READY," Leo tapped on his **Quantum Communicator**.
+<aac>Ready,</aac> Leo tapped on his **Quantum Communicator**.
 
 "Okay," Luna said, falling into step beside him. "Let's go."
 
@@ -193,7 +193,7 @@ She leaned down and wrapped her arms around him for their customary separation h
 
 "See you at lunch?" she asked.
 
-Leo tapped his **Quantum Communicator**: "YES. CLINIC FIRST."
+Leo tapped his **Quantum Communicator**: <aac>Yes. Clinic first.</aac>
 
 "Right," Luna sighed, straightening up. She watched as Mr. Peters, the aide, approached to take the handles of Leo’s chair for the trip back to the clinic. The frustration bubbled up again, sharp and familiar.
 
@@ -252,7 +252,7 @@ Leo, listening from his chair a few feet away, felt a spark of amusement. He rem
 
 He tapped a quick note on his screen, showing it to Mr. Peters with a grin.
 
-"THE LEGENDS ARE TRUE."
+<aac>The legends are true.</aac>
 
 Mr. Peters, oblivious to the high-stakes diplomacy occurring by the vending machines, just chuckled. "If you say so, Leo. Come on, let's get you changed so you aren't late for Band."
 
@@ -313,7 +313,7 @@ He felt a tap on his shoulder. It was Mike, the section leader for the drumline.
 
 Leo beamed. He tapped his **Quantum Communicator**, which was mounted next to his music stand.
 
-"THANKS. IT IS FAST."
+<aac>Thanks. It is fast.</aac>
 
 "Yeah, it's a beast," Mike agreed. "Keep it up."
 
@@ -368,7 +368,7 @@ Luna was already there, standing by the door, binder in hand. She had rushed fro
 
 She took the handles of his wheelchair, and the world snapped back into place. She leaned down for a quick, grounding squeeze of his shoulder. "Make it okay?"
 
-Leo tapped his **Quantum Communicator**. "LONG WALK. PERIWINKLE WAS WATCHING."
+Leo tapped his **Quantum Communicator**. <aac>Long walk. Periwinkle was watching.</aac>
 
 "Scary," Luna agreed, steering him into the room.
 
@@ -392,13 +392,13 @@ Magistra Reed scanned the room, saw Leo’s eyes on her, and nodded. "Leo?"
 
 Leo hit the button. His synthesized voice cut through the quiet room, clear and precise.
 
-"THE BOY GIVES A GIFT TO THE GIRL."
+<aac>The boy gives a gift to the girl.</aac>
 
 "Optime," Magistra Reed beamed.
 
 Luna leaned over and bumped her shoulder against his. "Showoff," she whispered.
 
-Leo typed a quick reply just for her, grinning. "LOGIC."
+Leo typed a quick reply just for her, grinning. <aac>Logic.</aac>
 
 For the next fifty minutes, there was no separation, no "liability" concerns, and no architectural barriers. In Room 104, they were just two smart kids learning an ancient language, together.
 
@@ -447,7 +447,7 @@ The Freshman looked around helplessly. "I... I don't have any cash."
 
 Leo felt a surge of annoyance. He tapped his **Quantum Communicator**.
 
-"JOSH. ALWAYS A JERK."
+<aac>Josh. Always a jerk.</aac>
 
 Luna rolled her eyes. "Seriously? He's stealing tater tots now? That's a new low."
 
@@ -503,7 +503,7 @@ Luna grinned, giving Leo’s chair a push. "You heard the woman. Move it along."
 
 Leo tapped his screen as they rolled past the scene of the crime, his face lighting up with a grin.
 
-"JUSTICE SMELLS LIKE GREASE."
+<aac>Justice smells like grease.</aac>
 
 "It sure does, Leo," Luna laughed. "It sure does."
 
@@ -527,7 +527,7 @@ Luna picked up her pizza. It drooped sadly. She took a bite, chewed thoughtfully
 
 Leo smirked, opening his yogurt. He tapped his **Quantum Communicator**.
 
-"AT LEAST IT IS NOT GREASE TRAP DUTY."
+<aac>At least it is not grease trap duty.</aac>
 
 "Amen to that," Luna laughed.
 
@@ -573,7 +573,7 @@ The boy paled. It was Stan Henderson's younger brother. Clearly, the fear ran in
 
 Leo watched the interaction, then looked at Luna. He tapped his screen, turning it so only she could see.
 
-"SHE IS SCARY. I LIKE HER."
+<aac>She is scary. I like her.</aac>
 
 Luna grinned behind her hand. "She keeps the chaos out. She's like a force field."
 
@@ -650,7 +650,7 @@ Arthur turned in his seat to look at the twins. "Well? Don't keep us in suspense
 
 Leo tapped his screen, a mischievous grin spreading across his face.
 
-"LATIN WAS GOOD. LUNCH WAS LOUD. JOSH RILEY IS CLEANING GREASE TRAPS."
+<aac>Latin was good. Lunch was loud. Josh riley is cleaning grease traps.</aac>
 
 Arthur’s eyebrows shot up. "Grease traps? That sounds... aromatic."
 
@@ -896,7 +896,7 @@ It was true. As the Starry Night Blue Sentinel rolled slowly toward the curb, a 
 
 Leo, peering out the window from the circle of Luna's arm, watched the reaction with wide eyes. He looked at the scattering students, then up at Luna, and a small, amused grin spread across his face. He tapped the screen of his Quantum Communicator, which rested on his lap.
 
-"THEY LOOK SCARED. LIKE WE ARE THE POLICE."
+<aac>They look scared. Like we are the police.</aac>
 
 "See?" Stella laughed, glancing in the rearview mirror. "Leo thinks it’s funny. It’s safe, it’s sturdy, and apparently, it clears traffic. I call that a win-win."
 
@@ -912,7 +912,7 @@ A ripple of laughter went through the crowd. The nickname stuck instantly. It wa
 
 Leo settled into his chair, adjusting his backpack. He looked up at Stella, then at the massive blue car looming behind her. He tapped his device again.
 
-"NICE CAR. BUT LUNA IS RIGHT. WE LOOK LIKE NARCS."
+<aac>Nice car. But luna is right. We look like narcs.</aac>
 
 Stella just smiled, slamming the heavy trunk shut with a sound like a gavel coming down. "Let them talk," she said, giving them both a quick kiss on the forehead. "You guys are riding in the safest tank on the road. Go learn something."
 
@@ -932,7 +932,7 @@ This architectural reality dictated the frustrating rhythm of Luna and Leo’s m
 
 "I still don't see why I can't just help you," Luna grumbled as they navigated the crowded hallway. She maneuvered his chair expertly around a group of freshmen who had stopped dead in the middle of the corridor. "It makes zero sense. I help you in and out of the bath every single night. I know how to do this."
 
-Leo tapped his Quantum Communicator, which rested on his lap. "SCHOOL RULES. THEY SAY IT IS ABOUT PROPRIETY."
+Leo tapped his Quantum Communicator, which rested on his lap. <aac>School rules. They say it is about propriety.</aac>
 
 "Propriety," Luna scoffed, the word tasting sour. "It's just a body. I wash your hair. I help you scrub. It's not weird at home, so why is it weird here? It's just... inefficient."
 
@@ -1006,7 +1006,7 @@ She arrived at his side, breathless from the quick change but smiling.
 
 Leo looked up, the tension leaving his shoulders. He released his brakes immediately.
 
-"READY," he tapped on his **Quantum Communicator**.
+<aac>Ready,</aac> he tapped on his **Quantum Communicator**.
 
 "Okay," Luna said, falling into step beside him. "Let's go."
 
@@ -1018,7 +1018,7 @@ They completed two full laps together, side-by-side, the rhythm soothing the sti
 
 Then, the shrill blast of a whistle cut through the noise.
 
-"ALRIGHT! LINE UP! SQUADS ON THE LINES!"
+<aac>Alright! Line up! Squads on the lines!</aac>
 
 The river of students fractured. The main body of the students headed toward the bleachers for roll call with the other four teachers. Luna and Leo broke away from the pack, heading toward the far corner of the gym where the heavy vinyl curtain was partially lowered.
 

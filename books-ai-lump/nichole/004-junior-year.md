@@ -17,7 +17,7 @@ Mrs. Albright, the Case Manager, smiled at Nichole. "Well, Nichole, your academi
 
 Nichole tapped her VocaLink.
 
-"THANK. YOU. I. WANT. AP. PHYSICS. NEXT. YEAR."
+<aac>Thank. You. I. Want. Ap. Physics. Next. Year.</aac>
 
 "We have that noted," Mrs. Albright said, checking a box. "And we have Patrick scheduled for the same section to handle the lab work logistics. The academic plan is solid."
 
@@ -148,7 +148,7 @@ She didn't look at Ms. Perkins. She looked at her father.
 
 She tapped the screen.
 
-"NO."
+<aac>No.</aac>
 
 The mechanical voice of "Digital Dan" cut through the office noise.
 
@@ -156,7 +156,7 @@ Ms. Perkins jumped. "Oh. She... uses a machine."
 
 "She speaks," Tom corrected. "And she said no."
 
-"I. CAN. COUNT," Nichole typed, her finger hitting the keys with deliberate force. "I. DO. NOT. WANT. A. KEEPER."
+<aac>I. Can. Count,</aac> Nichole typed, her finger hitting the keys with deliberate force. <aac>I. Do. Not. Want. A. Keeper.</aac>
 
 "It's free money, dear," Ms. Perkins said slowly, speaking to Nichole like a toddler. "It helps your parents take care of you."
 
@@ -186,17 +186,17 @@ Her signature.
 
 She looked at her parents. She tapped her screen.
 
-"THANK. YOU."
+<aac>Thank. You.</aac>
 
 "Don't thank us," Tom said, loosening his tie. "Just promise me one thing."
 
-"WHAT?"
+<aac>What?</aac>
 
 "When you make your first million," Tom grinned, "you hire a good accountant."
 
 Nichole smiled.
 
-"DEAL."
+<aac>Deal.</aac>
 
 ### Part 3: The Offer
 
@@ -268,11 +268,11 @@ She smiled. A real, genuine smile.
 
 She reached for her travel keyboard, which was resting on her lap.
 
-"YES."
+<aac>Yes.</aac>
 
 She typed again.
 
-"BETTER. YOU. THAN. STRANGERS."
+<aac>Better. You. Than. Strangers.</aac>
 
 She leaned back into him, snuggling closer, sealing the deal with a squeeze of his arm.
 
@@ -920,7 +920,7 @@ Ellen let out a breath she didn't realize she was holding. "Everything went okay
 
 Nichole tapped the tray of her chair to get their attention. She had her VocaLink back now.
 
-"PATRICK. TRIED. TO. HIDE."
+<aac>Patrick. Tried. To. Hide.</aac>
 
 Tom frowned. "Hide?"
 
@@ -928,11 +928,11 @@ Patrick cracked his soda. "I tried to give her privacy," he explained, leaning a
 
 Nichole typed rapidly.
 
-"DANGEROUS. SILENT. ASPIRATION. RISK."
+<aac>Dangerous. Silent. Aspiration. Risk.</aac>
 
 She looked at her father. She pointed to her eyes, then to Patrick.
 
-"EYES. ON. TARGET."
+<aac>Eyes. On. Target.</aac>
 
 Ellen nodded vigorously. "She's right, Patrick. I know it feels polite to look away, but medically, you can't. If she seizes or chokes while she's bearing down, she won't make a sound. You have to watch the face. Always."
 
@@ -944,13 +944,13 @@ Tom looked at his son. He saw the shift. Yesterday, Patrick was a brother protec
 
 Nichole grinned. She typed one last sentence before switching her screen to the Sims.
 
-"HE. WIPES. GOOD."
+<aac>He. Wipes. Good.</aac>
 
 Patrick choked on his soda. "Okay! That's enough sharing for one day."
 
 Ellen laughed, the sound bright and relieved. "Alright. Training complete for the weekend. Who wants grilled cheese?"
 
-"ME," the VocaLink said.
+<aac>Me,</aac> the VocaLink said.
 
 "Me," Patrick said.
 

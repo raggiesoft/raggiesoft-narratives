@@ -41,7 +41,7 @@ That Saturday became a masterclass. With Chloé watching, completely fascinated,
 
 Alex, in his element, became the teacher. He first installed Kinesis Virtual Engine on his main OS XN system. Then, he launched it and began the process of creating his first virtual machine.
 
-RIGHT NOW, his AAC explained, MY COMPUTER IS THE "HOST." WE ARE BUILDING A "GUEST." WE ARE TELLING THE HOST TO PRETEND THAT A SMALL PART OF ITS HARD DRIVE IS A BRAND NEW, COMPLETELY EMPTY COMPUTER.
+RIGHT NOW, his AAC explained, MY COMPUTER IS THE <aac>Host.</aac> WE ARE BUILDING A <aac>Guest.</aac> WE ARE TELLING THE HOST TO PRETEND THAT A SMALL PART OF ITS HARD DRIVE IS A BRAND NEW, COMPLETELY EMPTY COMPUTER.
 
 Chloé watched as he allocated memory and virtual hard drive space. Then came the part that felt like magic to her. Alex inserted the Quantum OS 98 CD-ROM into his AAC device. He configured the virtual machine to "boot" from the CD drive. A moment later, a familiar, old-school blue setup screen appeared in a window on his modern desktop.
 
@@ -79,7 +79,7 @@ James added, his voice calm and reassuring, "You both have keys to both houses, 
 
 Chloé finally spoke, her voice clear and steady, though she instinctively reached out to rest her hand briefly on Alex’s arm, a familiar gesture of their easy solidarity. "Don't worry, Mr. and Mrs. Miller, Mom, Dad," she said, addressing all four parents with a confident smile. "We'll be absolutely fine. It'll be quiet, just us. Probably a lot of studying for midterms after the break, catching up on some reading, and maybe a movie marathon or two with that new "QuantumFlix" streaming service."
 
-Alex, using his AAC, added his own quiet assurance, the synthesized voice calm and clear. "WE WILL BE VERY RESPONSIBLE. THANK YOU FOR TRUSTING US THIS MUCH. WE APPRECIATE IT." He looked at Chloé, and a small, almost imperceptible nod passed between them. This was a big step, a new level of independence, and they were ready for it, together.
+Alex, using his AAC, added his own quiet assurance, the synthesized voice calm and clear. <aac>We will be very responsible. Thank you for trusting us this much. We appreciate it.</aac> He looked at Chloé, and a small, almost imperceptible nod passed between them. This was a big step, a new level of independence, and they were ready for it, together.
 
 Sophie gave them both a loving, encompassing look. "We know you will be, mes chéris," she said softly. "We trust you completely. And truthfully," she added, her voice softening with a mother’s deep knowing, "we know Chloé will take wonderful care of Alex, ensuring he has everything he needs, and Alex, you'll take care of Chloé right back, just as you always do. You’re a team."
 
@@ -103,7 +103,7 @@ Chloé looked from Alex’s hopeful, trusting face to the supportive expressions
 
 "Yes," Chloé said, her voice firm but gentle, her gaze meeting Alex's directly. "Yes, Alex. Of course, I’ll help you. With everything. I… I want to. I want you to be safe and comfortable, and if that means me learning how to do all of it, then that’s what we’ll do. I might as well learn how to take care of my best friend properly if he’s going to be my sole responsibility for the week." She smiled at him, a reassuring, loving smile. "We're a team, right?"
 
-Alex’s shoulders, which had been slightly tensed, relaxed visibly. A wave of gratitude washed over his face. "YES. TEAM," his device voiced.
+Alex’s shoulders, which had been slightly tensed, relaxed visibly. A wave of gratitude washed over his face. <aac>Yes. Team,</aac> his device voiced.
 
 Emily smiled. "Wonderful. Then perhaps, Chloé, before we leave, you and Alex can do a 'practice run' with one of us supervising, just so you feel confident with any transfers in the bathroom or anything you’re unsure about in his bathing routine. We want this week to be as stress-free as possible for both of you."
 
@@ -119,7 +119,7 @@ Afterward, as Chloé helped him dry off and into his pajamas, a new level of eas
 
 Chloé wheeled him from the warm, steamy bathroom back to his bedroom. "Okay, Mr. Miller," she said, a soft tease in her voice, "all clean and ready for an evening of… probably Quantum OS games?"
 
-Alex grinned, fatigue and contentment settling over him. "SOUNDS PERFECT, MRS. MASON-IN-TRAINING," his device quipped back.
+Alex grinned, fatigue and contentment settling over him. <aac>Sounds perfect, mrs. Mason-in-training,</aac> his device quipped back.
 
 Chloé laughed. "I'll go get my own shower and change. Be right back."
 

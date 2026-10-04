@@ -19,14 +19,14 @@ The arena floor, usually reserved for basketball games and convocations, had bee
 
 Nichole gripped the armrests of her Titan AeroMotion. Her eyes widened. The overhead stadium lights were dazzlingly bright, reflecting off the polished hardwood. The sheer density of people was terrifying.
 
-"TOO. LOUD," she tapped, her hand shaking slightly.
+<aac>Too. Loud,</aac> she tapped, her hand shaking slightly.
 
 "Stay close," Patrick said, stepping into the "pocket" behind her chair to act as a human shield. "We just need the IDs. Then we bail."
 
 They navigated the maze of stanchions toward the tables marked CHECK-IN: A-C.
 
 
-They reached the front of the line. A cheerful sophomore in a bright yellow "ORIENTATION LEADER" polo shirt smiled at them.
+They reached the front of the line. A cheerful sophomore in a bright yellow <aac>Orientation leader</aac> polo shirt smiled at them.
 
 "Welcome to BSU! Name?"
 
@@ -96,7 +96,7 @@ Nichole took her hands off her ears. She let out a ragged breath.
 
 Nichole nodded. She tapped her screen.
 
-"THE. HIVE. IS. ANGRY."
+<aac>The. Hive. Is. Angry.</aac>
 
 Patrick chuckled. "Yeah. It's a zoo out there."
 
@@ -126,7 +126,7 @@ Patrick took the cards. He looked at Nichole.
 
 "Ready to go home?"
 
-"YES."
+<aac>Yes.</aac>
 
 They rolled out the back way, bypassing the chaos entirely. They had the cards. They had the waiver. And they had no intention of ever setting foot on that arena floor again.
 
@@ -156,7 +156,7 @@ She lifted her hand. She made a fist, then opened it. Wait.
 
 She reached for her communication device.
 
-"STOP."
+<aac>Stop.</aac>
 
 Patrick paused. He came around to the front of the chair, kneeling down so he was eye-level with her.
 
@@ -164,7 +164,7 @@ Patrick paused. He came around to the front of the chair, kneeling down so he wa
 
 Nichole looked at him. She pointed to her chest, then made a squeezing motion with her arms.
 
-"NOT. LEAVING. YET. NEED. SQUEEZE."
+<aac>Not. Leaving. Yet. Need. Squeeze.</aac>
 
 Patrick understood immediately. It wasn't about affection; it was about regulation. Her proprioceptive system—the internal sense of where her body was in space—was frazzled by the noise and lights. She felt like she was floating, disintegrating. She needed Deep Pressure Therapy to put the pieces back together.
 
@@ -200,17 +200,17 @@ She wasn't afraid of it anymore.
 
 She tapped her screen.
 
-"SYSTEM. ONLINE."
+<aac>System. Online.</aac>
 
 She looked at Patrick, then at the door.
 
-"WE. STAY."
+<aac>We. Stay.</aac>
 
 Patrick raised an eyebrow. "You sure? We can skip the speeches. No one will know."
 
 Nichole shook her head.
 
-"NO. SKIPPING. WE. ARE. FRESHMEN."
+<aac>No. Skipping. We. Are. Freshmen.</aac>
 
 Patrick grinned. It was that stubborn Bennett pride. She was terrified, but she was refusing to yield.
 
@@ -222,7 +222,7 @@ He unlocked the brakes.
 
 Nichole gripped her armrests. She felt the lingering pressure of his hug on her ribs, a phantom armor protecting her.
 
-"GO."
+<aac>Go.</aac>
 
 Patrick pushed the door open. The noise of the arena rushed back in—a wall of cheers and music.
 
@@ -250,7 +250,7 @@ Patrick adjusted his collar. He smoothed a stray hair on Nichole’s head.
 
 Nichole nodded. She felt lighter. Regulated. Empty bladder. The "Deep Pressure" reboot from the media room was holding steady.
 
-"LET'S. DO. THIS."
+<aac>Let's. Do. This.</aac>
 
 
 They rolled down the ramp to the arena floor. This time, instead of wading into the chaotic sea of folding chairs in the center, Patrick steered them toward the designated accessible viewing platform—a raised riser at the back of the floor, offering a clear view of the stage over the heads of two thousand freshmen.
@@ -297,7 +297,7 @@ She wasn't just a visitor anymore. She was part of the forge.
 
 She tapped her armrest, her eyes fixed on the stage.
 
-"WE. ARE. STRONG."
+<aac>We. Are. Strong.</aac>
 
 Patrick squeezed her shoulder.
 
@@ -319,7 +319,7 @@ Patrick looked at Nichole.
 
 Nichole tapped her armrest.
 
-"FUEL. UP."
+<aac>Fuel. Up.</aac>
 
 They rolled across the quad to the massive glass-walled dining hall. The smell of industrial pizza and fries wafted out the doors.
 
@@ -360,7 +360,7 @@ Patrick looked at the list. He looked at Nichole.
 
 Nichole shook her head. They had ordered everything online three weeks ago. The heavy calculus textbook, the style guides, the engineering graph paper—it was all currently sitting on the desk in Unit 404, unpacked and organized by subject.
 
-"ALREADY. DEPLOYED."
+<aac>Already. Deployed.</aac>
 
 "Item Two: The Mixer," Patrick read. "Icebreakers. Games. Meeting people."
 
@@ -370,7 +370,7 @@ She didn't need to meet a guy named "Brad" who majored in Business. She didn't n
 
 She had her team.
 
-"HARD. PASS."
+<aac>Hard. Pass.</aac>
 
 "Item Three: Dorm Move-In," Patrick finished.
 
@@ -414,7 +414,7 @@ Nichole snuggled into his side, feeling the tension of the day bleed out of her 
 
 She closed her eyes.
 
-"READY. FOR. MONDAY," she thought.
+<aac>Ready. For. Monday,</aac> she thought.
 
 But for now? For now, she was just ready for a nap.
 
@@ -436,7 +436,7 @@ She wasn't hurrying. She was holding a mug of coffee on her lap tray, the cerami
 
 "Radio silence," Patrick noted, bringing his own mug over. "Mom hasn't called since yesterday."
 
-Nichole smiled. "SHE. KNOWS. THE. RULES."
+Nichole smiled. <aac>She. Knows. The. Rules.</aac>
 
 Ellen knew that this weekend wasn't about parenting. It was about calibration.
 
@@ -446,7 +446,7 @@ Patrick leaned against the window frame. He looked down at the street.
 
 Nichole made a face. She tapped her screen.
 
-"HARD. PASS."
+<aac>Hard. Pass.</aac>
 
 "Agreed," Patrick said. "But you know what they're doing right now? They're scanning the crowd. They're looking for dates. They're trying to find someone to hook up with."
 
@@ -496,7 +496,7 @@ She opened her eyes. She looked at Patrick.
 
 She reached for her mouse.
 
-"NO. OUTSIDERS."
+<aac>No. Outsiders.</aac>
 
 "No outsiders," Patrick agreed, clinking his mug against hers. "The loop stays closed. We don't need a date to the dance. We need a degree."
 
@@ -523,7 +523,7 @@ She fired up the Apex ConvertiBook. She opened Quantum Studio. She opened the te
 
 She ran a diagnostic on her custom voice profile.
 
-"TESTING. ONE. TWO. THREE."
+<aac>Testing. One. Two. Three.</aac>
 
 The voice was crisp. Loud enough to cut through a lecture hall, but not shouting.
 
@@ -700,7 +700,7 @@ He unpacked her bag. He set up the *Apex ConvertiBook*, snapping the screen into
 
 Nichole checked her battery. 98%. She tapped her screen.
 
-"GREEN."
+<aac>Green.</aac>
 
 The professor, Dr. Harrison, walked in. He looked at the class. He looked at the pair in the front row—the girl in the purple titanium chair and the boy sitting protectively beside her, their notebooks open, their grid locked in.
 
@@ -892,7 +892,7 @@ He wasn't panicking. He was executing a higher-level protocol. Preservation of t
 
 She nodded. She reached for her mouse and clicked a single word.
 
-"GO."
+<aac>Go.</aac>
 
 Patrick nodded back. He dialed the number, waiting for the answering service to pick up.
 
@@ -956,7 +956,7 @@ He walked over to the dresser and grabbed a stack of clothes. Loose sweatpants. 
 
 Nichole let out a shaky breath and nodded. She reached for her mouse.
 
-"THANK. YOU."
+<aac>Thank. You.</aac>
 
 "Don't thank me yet," Patrick said, gently lifting her leg to slide the sweatpants on, being agonizingly careful not to graze the angry red skin. "Thank me when the burning stops. Now let's move. The boat doesn't wait."
 
@@ -1252,15 +1252,15 @@ She appreciated that they asked. Even after seeing her cling to him, they still 
 
 She reached for her <aac>Apex ConvertiBook</aac>. She typed slowly, her hand shaking from the adrenaline crash.
 
-"PAIN. SCARED. ME."
+<aac>Pain. Scared. Me.</aac>
 
 She hit the space bar.
 
-"PATRICK. IS. SAFE."
+<aac>Patrick. Is. Safe.</aac>
 
 She looked up at Sarah. She tapped the screen again, harder.
 
-"I. WANT. HIM. NOW."
+<aac>I. Want. Him. Now.</aac>
 
 Sarah nodded. She checked the box on the clipboard: *Negative for Abuse. Patient requested support person.*
 
@@ -1333,7 +1333,7 @@ She realized that by staying seated, Patrick hadn't just been following a rule. 
 
 She reached for her *Apex ConvertiBook*. She needed to say it.
 
-"THAT. MAN. WAS. SCARY."
+<aac>That. Man. Was. Scary.</aac>
 
 Dr. Lin, who was washing her hands at the sink, paused. She turned around, her expression serious.
 
@@ -1341,15 +1341,15 @@ Dr. Lin, who was washing her hands at the sink, paused. She turned around, her e
 
 Nichole looked at Patrick. She typed again.
 
-"YOU. STAYED. IN. THE. CHAIR."
+<aac>You. Stayed. In. The. Chair.</aac>
 
 Patrick nodded, kneeling down to adjust her footrest. "I did."
 
-"GOOD."
+<aac>Good.</aac>
 
 She hit the space bar.
 
-"I. GET. IT. NOW. THE. RULES. STOP. THE. MONSTERS."
+<aac>I. Get. It. Now. The. Rules. Stop. The. Monsters.</aac>
 
 Patrick stopped adjusting the strap. He looked up at her.
 
@@ -1430,7 +1430,7 @@ As the bus rumbled down Broadway, Patrick leaned over.
 
 Nichole smiled tiredly. She tapped her screen.
 
-"TELL. HIM. WE. WERE. FIGHTING. MONSTERS."
+<aac>Tell. Him. We. Were. Fighting. Monsters.</aac>
 
 Patrick laughed, wrapping his arm around her shoulders.
 
@@ -1525,7 +1525,7 @@ She looked at her brother. He looked exhausted. The sprint to the ferry, the con
 
 She moved her hand to the mouse.
 
-"YOU. DID. GOOD."
+<aac>You. Did. Good.</aac>
 
 Patrick offered a tired, lopsided smile. He reached out and squeezed her hand—the one part of her he could touch without causing pain.
 
@@ -1543,7 +1543,7 @@ It was the "Post-Lunch Reboot." Nichole’s sensory battery was at 5%. She neede
 
 Then, the double doors at the far end of the room burst open.
 
-"GO, GO, GO! BEFORE THE S.A.C. NARCS SHOW UP!"
+<aac>Go, go, go! Before the s.a.c. Narcs show up!</aac>
 
 A guy in a backwards baseball cap—the ringleader—pushed a heavy cart into the room. He slammed the doors shut and wedged a chair under the handle.
 
@@ -1613,7 +1613,7 @@ Patrick didn't just push the hand away. He struck Kyle’s wrist with the back o
 
 Kyle yelped, recoiling instantly, clutching his wrist against his chest.
 
-"OFF," Patrick snarled.
+<aac>Off,</aac> Patrick snarled.
 
 The word wasn't spoken; it was barked.
 
@@ -2159,11 +2159,11 @@ Patrick read the email. *My care team is down.*
 
 Nichole stopped typing. She reached over and tapped his arm. She hit the 'Speak' button.
 
-"YOU. ARE. HUMAN. NOT. A. ROBOT."
+<aac>You. Are. Human. Not. A. Robot.</aac>
 
 "I'm supposed to be the machine," Patrick mumbled.
 
-"THE. MACHINE. NEEDS. MAINTENANCE," Nichole typed. "YOU. MAINTAIN. ME. TODAY. I. MAINTAIN. YOU."
+<aac>The. Machine. Needs. Maintenance,</aac> Nichole typed. <aac>You. Maintain. Me. Today. I. Maintain. You.</aac>
 
 She pointed to the nightstand.
 
@@ -2177,7 +2177,7 @@ There, sitting in a neat row, were three items she had managed to organize while
 
 She tapped the mouse.
 
-"OPEN. THE. BOTTLE. THEN. SLEEP."
+<aac>Open. The. Bottle. Then. Sleep.</aac>
 
 Patrick looked at the bottle. He looked at her. She wasn't helpless. She had emailed the professor. She had triaged the situation. She had recognized that *he* was the patient today.
 
@@ -2253,7 +2253,7 @@ She wiggled out of his arms, sliding onto the mattress. She pulled the heavy duv
 
 She typed quickly on her screen.
 
-"YOU. CANNOT. STAND. IF. YOU. DROP. ME. WE. BOTH. BREAK."
+<aac>You. Cannot. Stand. If. You. Drop. Me. We. Both. Break.</aac>
 
 Patrick flinched. She was right. He was dizzy just sitting up. If he tried to deadlift her again, he might pass out mid-transfer.
 
@@ -2263,11 +2263,11 @@ Nichole looked at the bathroom door. She looked at her wheelchair parked by the 
 
 She looked back at Patrick.
 
-"I. AM. AN. ENGINEER," she typed. "I. WILL. SOLVE. IT."
+<aac>I. Am. An. Engineer,</aac> she typed. <aac>I. Will. Solve. It.</aac>
 
 "How?"
 
-"SLEEP. ASSET. THAT. IS. AN. ORDER."
+<aac>Sleep. Asset. That. Is. An. Order.</aac>
 
 Patrick looked at her determination. He didn't have the strength to fight her, and the Ibuprofen was starting to pull him under.
 
@@ -2374,19 +2374,19 @@ She looked at him. He woke up, blinking groggily. He looked at the empty water b
 
 Nichole shook her head. She pointed to the screen.
 
-"ALREADY. DONE."
+<aac>Already. Done.</aac>
 
 Patrick stared at her. "You... you went by yourself?"
 
-"I. USED. THE. TOWEL. BUT. IT. WAS. HARD."
+<aac>I. Used. The. Towel. But. It. Was. Hard.</aac>
 
 She clicked the mouse again, typing a new line.
 
-"HANDS. CANNOT. REACH. WE. NEED. AN. UPGRADE."
+<aac>Hands. Cannot. Reach. We. Need. An. Upgrade.</aac>
 
 Patrick squinted at the screen, confused. "Upgrade?"
 
-"I. NEED. A. BIDET," she typed. "IF. I. HAD. WATER. JETS. I. WOULD. NOT. NEED. HANDS."
+<aac>I. Need. A. Bidet,</aac> she typed. <aac>If. I. Had. Water. Jets. I. Would. Not. Need. Hands.</aac>
 
 Patrick let out a long breath, his head falling back onto the pillow. He processed the logic through the fog of his fever. She had managed the transfer, but the hygiene was the bottleneck.
 
@@ -2396,7 +2396,7 @@ He looked at her with profound respect. She hadn't just survived the gap in care
 
 "I'll order one," he rasped. "Soon as I can see straight."
 
-"GOOD," Nichole typed. "NOW. SLEEP. OR. I. WILL. SEDATE. YOU."
+<aac>Good,</aac> Nichole typed. <aac>Now. Sleep. Or. I. Will. Sedate. You.</aac>
 
 Patrick smiled weakly. "Yes, ma'am."
 
@@ -2437,11 +2437,11 @@ Patrick took his hand off the mouse. He wiped his sweaty palm on his jeans.
 
 Nichole reached out and tapped his bouncing knee. She clicked her mouse.
 
-"YOU. DID. NOT. FAIL."
+<aac>You. Did. Not. Fail.</aac>
 
 "I don't know, Nikki. The pharmacology questions were brutal. And that prioritized triage scenario? I might have killed the hypothetical patient."
 
-"YOU. KNOW. THE. CODE," Nichole insisted. "YOU. LIVED. THE. BOOK."
+<aac>You. Know. The. Code,</aac> Nichole insisted. <aac>You. Lived. The. Book.</aac>
 
 Patrick looked at her. She was right. He hadn't just studied the textbooks; he had been running clinical simulations in this apartment for nineteen years.
 
@@ -2481,7 +2481,7 @@ Patrick let out a sound that was half-laugh, half-sob. He slumped back in his ch
 
 Nichole let out a high-pitched squeal of victory. She slammed her hand on her lap tray.
 
-"MY. MEDIC."
+<aac>My. Medic.</aac>
 
 Patrick stood up. He walked to the printer. He hit Print.
 
@@ -2511,7 +2511,7 @@ She reached out and took the paper. She held it to her chest.
 
 She clicked her mouse.
 
-"PROMOTED."
+<aac>Promoted.</aac>
 
 Patrick grinned, wiping his eyes. "Yeah. Promoted."
 
@@ -2590,7 +2590,7 @@ Nichole looked at the binder. It looked official. It looked impenetrable.
 
 She tapped her screen.
 
-"BULLETPROOF."
+<aac>Bulletproof.</aac>
 
 "Yeah," Patrick smiled, patting the cover. "Now let them try to tell us we're a liability."
 
@@ -2649,7 +2649,7 @@ He turned back to face them.
 
 "The hamstring lengthening. Dr. Evans is a fantastic surgeon, but he runs a tight ship. He's used to discharging patients to rehab facilities, not home."
 
-"We aren't going to a rehab facility," Nichole tapped on her screen. "HOME."
+"We aren't going to a rehab facility," Nichole tapped on her screen. <aac>Home.</aac>
 
 "I know," Thorne agreed. "And now, I can authorize that. Because I'm not discharging you to 'home.' I'm discharging you to 'Skilled Nursing Care.'"
 
@@ -2669,7 +2669,7 @@ Patrick looked at Nichole. He tapped the binder.
 
 Nichole smiled. She clicked her mouse.
 
-"TEAM. ASSEMBLED."
+<aac>Team. Assembled.</aac>
 
 
 - **Date:** Monday, December 26, 2005 (Sophomore Year)
@@ -2714,7 +2714,7 @@ Patrick hit the speaker button. "Unit 404, Nurse Bennett speaking."
 
 Nichole rolled up to the island. She was wearing her new hoodie, looking clean, scrubbed, and jittery. She typed furiously on her device.
 
-"HUNGRY. I. WANT. A. BURGER. AND. FRIES. BEFORE. THE. FAST."
+<aac>Hungry. I. Want. A. Burger. And. Fries. Before. The. Fast.</aac>
 
 "She's displaying 'food-seeking behavior' as a stress response," Patrick translated dryly, checking his watch. "She wants a double cheeseburger."
 
@@ -2746,7 +2746,7 @@ He turned to Nichole. He closed the binder. The clinical mask slipped just a fra
 
 Nichole grinned. She tapped her screen.
 
-"LAST. MEAL. LET'S. RIDE."
+<aac>Last. Meal. Let's. Ride.</aac>
 
 ### Part 2: The Admission
 
@@ -2806,7 +2806,7 @@ Patrick tapped the binder.
 
 Nichole nodded. She typed on her device with a shaky hand.
 
-"MY. NURSE. IS. BETTER. THAN. THEIR. NURSES."
+<aac>My. Nurse. Is. Better. Than. Their. Nurses.</aac>
 
 Patrick grinned, grabbing the handles of her chair.
 
@@ -3773,7 +3773,7 @@ Aunt Carol rushed toward the recliner but stopped short when she saw the leg bra
 
 Nichole gave a small, tired smile. She typed on her VocaLink, which was mounted on a swing-arm Patrick had rigged to the chair.
 
-"THEY. ARE. HEAVY. BUT. I. AM. OKAY."
+<aac>They. Are. Heavy. But. I. Am. Okay.</aac>
 
 "We're keeping it low-key," Mark said, taking off his coat. "We just wanted to see the patient before the ball drops."
 
@@ -4486,7 +4486,7 @@ Patrick stood at the whiteboard. Nichole was parked at the head of the table, he
 
 Patrick looked at Nichole. She tapped her screen.
 
-PROJECTOR TEXT: "IN THE REAL WORLD, HARDWARE WITHOUT DOCUMENTATION IS A PAPERWEIGHT. DOCUMENTATION WITHOUT HARDWARE IS FICTION."
+PROJECTOR TEXT: <aac>In the real world, hardware without documentation is a paperweight. Documentation without hardware is fiction.</aac>
 
 Dr. Vance suppressed a smile. "She has a point."
 
@@ -4510,7 +4510,7 @@ Dr. Aristhorne looked at the schematic. He saw the complex circuit design. He sa
 
 Nichole typed rapidly.
 
-PROJECTOR TEXT: "I AM THE BETA TESTER AND THE LEAD WRITER. I AM THE ONLY PERSON QUALIFIED TO TRANSLATE THE MACHINE'S LANGUAGE INTO HUMAN LANGUAGE."
+PROJECTOR TEXT: <aac>I am the beta tester and the lead writer. I am the only person qualified to translate the machine's language into human language.</aac>
 
 Dr. Aristhorne looked at Dr. Vance.
 

@@ -747,7 +747,7 @@ It wasn't a mind. It was a recording. And as her mind brushed against the mechan
 
 Below them, the amber shell cracked.
 
-Seraphina threw her arms up in triumph. "YES! RISE!"
+Seraphina threw her arms up in triumph. <aac>Yes! Rise!</aac>
 
 The shell shattered. The Eye opened.
 
@@ -763,7 +763,7 @@ Instead of burning them, the light turned a soft, welcoming gold. A voice boomed
 
 Kaelan blinked, lowering his sword. "Maintenance crew?"
 
-"SYSTEM STATUS: DORMANT," the machine reported dutifully to the twins. "AWAITING CALIBRATION."
+"SYSTEM STATUS: DORMANT," the machine reported dutifully to the twins. <aac>Awaiting calibration.</aac>
 
 Then, the light swept over the ledge. It hit Seraphina and the bubbling Void-sludge.
 
@@ -781,13 +781,13 @@ Seraphina stared at the spinning gears. She looked at the bone-scroll map in her
 
 She looked up, screaming at the ceiling, at the ghost of Malakor.
 
-"YOU LIED TO ME! YOU DIDN'T KNOW WHERE IT WAS! YOU WERE JUST GUESSING!"
+<aac>You lied to me! You didn't know where it was! You were just guessing!</aac>
 
 The spinning eye began to glow red. The magma lake around the island began to rise, churning violently.
 
 "It's a trap," Kaelan realized, sheathing his sword. "It's a decoy. It recognizes us, but it's set to blow because she touched it."
 
-"EVACUATE, SCIONS," the machine advised, its voice almost apologetic. "PURGE IMMINENT."
+<aac>Evacuate, scions,</aac> the machine advised, its voice almost apologetic. <aac>Purge imminent.</aac>
 
 "We need to leave," Kaela said, pulling Kaelan back toward the tunnel. "Now! It's going to scrub the island!"
 
@@ -799,7 +799,7 @@ She turned and dissolved into a swarm of black moths, shooting straight up towar
 
 "Let her run!" Kaela yelled over the roar of the rising lava. "If we stay, we cook!"
 
-"PURGE IN 10 SECONDS," the machine announced.
+<aac>Purge in 10 seconds,</aac> the machine announced.
 
 The magma surged. It wasn't just rising; it was being pressurized. The decoy was turning the volcano into a cannon to sterilize the "infection" Seraphina had brought.
 
@@ -1027,7 +1027,7 @@ The pillar scanned them. A beam of soft, white light swept over their faces.
 
 Kaelan tensed, hand on his sword. "Is this one going to explode?"
 
-"NEGATIVE," the pillar replied. "FACILITY STATUS: SUPPLY CACHE. ACCESS GRANTED."
+<aac>Negative,</aac> the pillar replied. "FACILITY STATUS: SUPPLY CACHE. ACCESS GRANTED."
 
 A section of the marble pillar slid open silently, revealing a cool, dry chamber within.
 
@@ -1172,7 +1172,7 @@ Suddenly, the map vibrated.
 
 The voice of the Network—the collective consciousness of the ancient automated Guardians—echoed in both their minds. It wasn't the single voice of the Atoll pillar; it was a chorus of data points from the underwater sensors.
 
-"ALERT. SECTOR 4 PERIMETER BREACHED."
+<aac>Alert. Sector 4 perimeter breached.</aac>
 
 Kaela closed her eyes, syncing with the feed. "Show me."
 
@@ -1188,7 +1188,7 @@ Massive geysers of water slammed into her shields. Lightning from the storm clou
 
 Seraphina was screaming, her face twisted in effort. She was blasting the waves with bolts of Void energy, vaporizing the water, brute-forcing her path through the storm.
 
-"TARGET IS HOSTILE," the Network reported. "TARGET IS ATTEMPTING TO COUNTERACT KINETIC STABILIZERS."
+<aac>Target is hostile,</aac> the Network reported. <aac>Target is attempting to counteract kinetic stabilizers.</aac>
 
 "She's fighting the spin," Kaelan realized. "The Gyre is trying to spin up to protect the core, and she's jamming the gears with magic."
 
@@ -1259,7 +1259,7 @@ The machine screamed. The white marble cracked.
 
 The vibration in the water changed pitch. It went from a hum to a rattle.
 
-"CRITICAL FAILURE," the Network voice boomed from the spire, sounding panicked. "KINETIC DAMPENERS OFFLINE. CORE MELTDOWN IMMINENT."
+<aac>Critical failure,</aac> the Network voice boomed from the spire, sounding panicked. <aac>Kinetic dampeners offline. Core meltdown imminent.</aac>
 
 The water wall began to wobble. The centrifugal force was destabilizing. If the wall collapsed, millions of tons of water would crash down on top of them.
 
@@ -1309,7 +1309,7 @@ They slammed their hands onto the prints.
 
 The screaming whine of the machine instantly harmonized into a musical chord.
 
-"EMERGENCY OVERRIDE ENGAGED. DUMPING KINETIC LOAD."
+<aac>Emergency override engaged. Dumping kinetic load.</aac>
 
 The flywheel spun faster for a second, blurring into invisibility, and then—with a massive WHOOSH—it vented.
 
@@ -1319,7 +1319,7 @@ The wall of water began to slow. The bowl began to fill, gently and naturally.
 
 The trap was disarmed.
 
-Seraphina stared at the twins. She watched the machine obey them. She watched the red "CRITICAL" light turn to a soothing, pulsing green.
+Seraphina stared at the twins. She watched the machine obey them. She watched the red <aac>Critical</aac> light turn to a soothing, pulsing green.
 
 She realized, with a burning humiliation, that she was not the conqueror. She was the vandal.
 
@@ -1495,11 +1495,11 @@ The Celestial Bridge was waking up.
 
 They ran onto the deck. The two silver towers were glowing. A beam of blue light scanned the Iron Keel.
 
-"VESSEL DETECTED," the ancient voice boomed across the glacier. "CLASS: PRIMITIVE. PLATING: INSUFFICIENT. ATMOSPHERIC SEAL: NON-EXISTENT."
+<aac>Vessel detected,</aac> the ancient voice boomed across the glacier. "CLASS: PRIMITIVE. PLATING: INSUFFICIENT. ATMOSPHERIC SEAL: NON-EXISTENT."
 
 "Hey!" Kaelan yelled at the giant machine. "Horg built this boat! It's solid oak!"
 
-"INITIATING RETROFIT," the machine ignored him. "PREPARING FOR ORBITAL TRANSIT."
+<aac>Initiating retrofit,</aac> the machine ignored him. <aac>Preparing for orbital transit.</aac>
 
 Mechanical arms unfolded from the ice. They didn't dismantle the boat; they encased it.
 
@@ -1511,7 +1511,7 @@ In ten minutes, the Iron Keel was transformed. It still looked like a blacksmith
 
 Kaela looked at the control panel that had appeared near the tiller. She saw a flashing red light.
 
-"WARNING," the computer chimed. "PRIORITY TARGET 'CORRUPTED QUEEN' HAS DEPARTED SECTOR. TIME ELAPSED: 4 HOURS."
+<aac>Warning,</aac> the computer chimed. "PRIORITY TARGET 'CORRUPTED QUEEN' HAS DEPARTED SECTOR. TIME ELAPSED: 4 HOURS."
 
 "She's gone," Kaela said, her stomach dropping. "She figured out the map. She's already in the sky."
 
@@ -1525,7 +1525,7 @@ He jumped to the tiller. It felt different now—lighter, humming with power.
 
 She pointed to the sky, where the twin suns were visible through the break in the clouds.
 
-"LAUNCH SEQUENCE INITIATED," the bridge announced.
+<aac>Launch sequence initiated,</aac> the bridge announced.
 
 The gravity drives under the hull hummed. The water beneath them began to boil—not from heat, but from displacement.
 
@@ -1638,7 +1638,7 @@ The Celestial Keel glided toward it, the Stellium plating shimmering under the l
 
 Suddenly, the proximity alarm chimed—a soft, polite bell sound that seemed oddly incongruous with the threat.
 
-"CONTACT DETECTED. MULTIPLE VECTORS."
+<aac>Contact detected. Multiple vectors.</aac>
 
 Three ships burst from the cover of the asteroid field.
 
@@ -1696,7 +1696,7 @@ She felt Seraphina inside. But she didn't feel the raging inferno of power she e
 
 The obsidian galleon vanished into the swirl of the nebula. The wake it left behind was turbulent, churning the gas clouds into a blinding fog.
 
-"TARGET LOST," the ship's computer chimed politely. "VISUAL CONTACT SEVERED."
+<aac>Target lost,</aac> the ship's computer chimed politely. <aac>Visual contact severed.</aac>
 
 "She's ahead of us," Kaelan said, slamming his hand on the console. "We won the fight, and we lost the race."
 
@@ -1921,7 +1921,7 @@ The Star-Eater.
 
 It wasn't asleep. It was idling.
 
-"PROXIMITY ALERT," the ship's computer chimed. "SECURITY GRID DETECTED."
+<aac>Proximity alert,</aac> the ship's computer chimed. <aac>Security grid detected.</aac>
 
 A wall of red laser-light materialized across the gap between the ribs. It was a net tight enough to slice an atom in half.
 
@@ -1955,7 +1955,7 @@ And there was a voice.
 
 The Star-Eater wasn't just a machine; it was semi-sentient. And it was bored.
 
-"DIAGNOSTIC REPORT," the entity rumbled, its voice echoing in their minds. "SYSTEM STATUS: OPTIMAL. CORE TEMPERATURE: NOMINAL. WHY ARE YOU HERE, SCIONS? NO SCHEDULED MAINTENANCE FOR 4,000 CYCLES."
+<aac>Diagnostic report,</aac> the entity rumbled, its voice echoing in their minds. "SYSTEM STATUS: OPTIMAL. CORE TEMPERATURE: NOMINAL. WHY ARE YOU HERE, SCIONS? NO SCHEDULED MAINTENANCE FOR 4,000 CYCLES."
 
 Kaela stepped up to the glass. "We aren't here to fix the engine," she projected back to the god. "We're here to report a pest infestation."
 
@@ -1965,15 +1965,15 @@ She visualized Seraphina. She projected the image of the corrupted Queen tearing
 
 "She wants to wake you up," Kaelan added. "She wants to use you to eat the suns."
 
-"INEFFICIENT," the Star-Eater dismissed. "I AM IN SLEEP MODE. AWAKENING PROTOCOLS REQUIRE UNANIMOUS VOTE OF THE HIGH COUNCIL. THE VIRUS IS UNAUTHORIZED."
+<aac>Inefficient,</aac> the Star-Eater dismissed. <aac>I am in sleep mode. Awakening protocols require unanimous vote of the high council. The virus is unauthorized.</aac>
 
 "She doesn't care about authorization," Kaela said. "She has an army. She's heading for the brain stem."
 
-"DEFENSIVE SYSTEMS COMPROMISED BY VIRAL MAGIC," the entity admitted, sounding almost embarrassed. "INTERNAL PARASITES DETECTED IN SECTOR 7. REQUESTING MANUAL DEBUGGING."
+<aac>Defensive systems compromised by viral magic,</aac> the entity admitted, sounding almost embarrassed. <aac>Internal parasites detected in sector 7. Requesting manual debugging.</aac>
 
 "That's us," Kaelan grinned, cracking his knuckles. "We're the debuggers."
 
-"ACCESS GRANTED TO INTERIOR," the Star-Eater boomed. "REMOVE THE PARASITE. DO NOT DAMAGE THE UPHOLSTERY."
+<aac>Access granted to interior,</aac> the Star-Eater boomed. <aac>Remove the parasite. Do not damage the upholstery.</aac>
 
 A pathway lit up in the dark—a series of floating rune-stones leading deeper into the skeletal structure, toward a massive, suspended fortress that served as the entity's control center.
 
@@ -2048,11 +2048,11 @@ She keyed the comms.
 
 The mercenary fleet burned their engines, accelerating past the twins. They were a pathetic parade of greed, fleeing the monster they had helped feed, clutching fool's gold to their chests.
 
-"UNAUTHORIZED ENTITIES DEPARTING," the Star-Eater’s voice boomed in the cockpit. "SHOULD I ENGAGE ANTI-BODY DEFENSES?"
+<aac>Unauthorized entities departing,</aac> the Star-Eater’s voice boomed in the cockpit. <aac>Should I engage anti-body defenses?</aac>
 
 "No," Kaela told the god. "Let the parasites flush themselves out. We're here for the infection."
 
-"ACKNOWLEDGED. PATH TO BRAIN STEM CLEAR. GOOD LUCK, JANITORS."
+<aac>Acknowledged. Path to brain stem clear. Good luck, janitors.</aac>
 
 Kaelan steered the boat toward the silent, abandoned flagship.
 
@@ -2249,7 +2249,7 @@ Kaelan gritted his teeth. He didn't just hold the connection; he fused it. He po
 
 The crystal hissed. The grey fracture began to glow gold.
 
-"SYSTEM STABILIZING," the voice stuttered. "PAIN SUBSIDING. LOGIC RESTORED."
+<aac>System stabilizing,</aac> the voice stuttered. <aac>Pain subsiding. Logic restored.</aac>
 
 The red lights flickered and died, replaced by the soothing, rhythmic violet pulse of the standby mode.
 
@@ -2257,7 +2257,7 @@ Kaelan slumped forward, smoking. He pulled his hands back. The crystal was whole
 
 "Did we do it?" Kaelan wheezed, leaning against the console.
 
-"DIAGNOSTIC COMPLETE," the Star-Eater confirmed. "NEURAL BRIDGE REPAIRED. EFFICIENCY IMPROVED BY 4%. THANK YOU, JANITORS."
+<aac>Diagnostic complete,</aac> the Star-Eater confirmed. "NEURAL BRIDGE REPAIRED. EFFICIENCY IMPROVED BY 4%. THANK YOU, JANITORS."
 
 "You're welcome," Kaelan groaned.
 
@@ -2271,7 +2271,7 @@ She realized then that she wasn't fighting warriors. She was fighting the univer
 
 Seraphina snarled, but she didn't attack. She knew the machine was watching her now.
 
-"THREAT REMAINS," the Star-Eater noted coldly. "SHALL I VENT THE SECTOR?"
+<aac>Threat remains,</aac> the Star-Eater noted coldly. <aac>Shall I vent the sector?</aac>
 
 "No," Kaelan said, standing up. He drew his sword. The blade hummed, fully charged by the cosmic energy he had just channeled.
 
@@ -2478,7 +2478,7 @@ Where the Queen of the Voidlands had knelt, there was nothing. Just a scorch mar
 
 The room went silent.
 
-"THREAT ELIMINATED," the Star-Eater’s voice boomed, gentle and sleepy. "SYSTEM INTEGRITY RESTORED. THANK YOU, SCIONS. YOU MAY NOW LEAVE THE PREMISES. I AM GOING BACK TO SLEEP."
+<aac>Threat eliminated,</aac> the Star-Eater’s voice boomed, gentle and sleepy. <aac>System integrity restored. Thank you, scions. You may now leave the premises. I am going back to sleep.</aac>
 
 Kaelan slumped against Kaela. "He's kicking us out?"
 
@@ -2496,17 +2496,17 @@ Kaelan slumped against Kaela. "He's kicking us out?"
 
 The silence in the Memory Core was absolute. Seraphina was gone, erased from existence. The twins stood amidst the floating silver droplets of the god’s memory, breathing hard, their hands still clasped.
 
-"SYSTEM RESTORE COMPLETE," the Star-Eater’s voice chimed, echoing softly in the sphere. "VIRUS REMOVED. HOWEVER... I DETECT A LINGERING ANOMALY IN USER: KAELAN."
+<aac>System restore complete,</aac> the Star-Eater’s voice chimed, echoing softly in the sphere. "VIRUS REMOVED. HOWEVER... I DETECT A LINGERING ANOMALY IN USER: KAELAN."
 
 Kaelan looked up, wiping soot from his face. "I'm fine. Just a few burns. They'll heal."
 
-"NEGATIVE," the machine corrected. "NOT PHYSICAL. PSYCHOLOGICAL SOFTWARE. YOU ARE RUNNING A CORRUPTED SCRIPT. FILE DATE: PRE-MIGRATION."
+<aac>Negative,</aac> the machine corrected. "NOT PHYSICAL. PSYCHOLOGICAL SOFTWARE. YOU ARE RUNNING A CORRUPTED SCRIPT. FILE DATE: PRE-MIGRATION."
 
 A droplet of silver memory floated down from the ceiling. It hovered in front of Kaelan’s face. It didn't reflect the room; it reflected a place he didn't recognize—a hall of shifting light and fluid geometry.
 
 "What is this?" Kaelan whispered.
 
-"YOUR HISTORY," the Star-Eater said. "WOULD YOU LIKE TO REVIEW THE CORRUPTION LOG?"
+<aac>Your history,</aac> the Star-Eater said. <aac>Would you like to review the corruption log?</aac>
 
 Kaelan hesitated. A cold dread settled in his stomach. He felt Kaela squeeze his hand.
 
@@ -2552,7 +2552,7 @@ Kaelan looked up. His face was wet with tears and grime.
 
 "Delete it," he roared, his voice cracking. "Burn it out of me!"
 
-"EXECUTING."
+<aac>Executing.</aac>
 
 A beam of pure white light shot from the ceiling, striking Kaelan in the chest.
 
@@ -2590,7 +2590,7 @@ She smiled through her own tears.
 
 "I'll pay the interest," Kaelan vowed, pulling her back into the embrace, resting his chin on her head. "I'll pay it all. I'm never letting go again."
 
-"DIAGNOSTIC COMPLETE," the Star-Eater interrupted, sounding mildly annoyed. "SYSTEMS OPTIMAL. SCION EMOTIONAL LEVELS: EXCESSIVE. PLEASE VACATE THE PREMISES. I AM GOING BACK TO SLEEP."
+<aac>Diagnostic complete,</aac> the Star-Eater interrupted, sounding mildly annoyed. "SYSTEMS OPTIMAL. SCION EMOTIONAL LEVELS: EXCESSIVE. PLEASE VACATE THE PREMISES. I AM GOING BACK TO SLEEP."
 
 Kaelan laughed—a wet, shaky sound of pure relief. He helped Kaela up, keeping his arm firmly around her waist.
 
@@ -2610,15 +2610,15 @@ Kaelan walked beside her, his arm draped heavily over her shoulders, his weight 
 
 They reached the airlock of the Celestial Keel. The boat sat docked against the obsidian fortress, looking small but indomitable with its new Stellium plating shimmering under the dying lights of the cavern.
 
-"LEAVING SO SOON?" the entity’s voice boomed in their minds. It sounded less like a god now and more like a very large, very sleepy thunderstorm. "I WAS GOING TO SHOW YOU THE NEBULA GARDENS. I AM TOLD THEY ARE VERY PRETTY. BUT I AM ALSO VERY TIRED."
+<aac>Leaving so soon?</aac> the entity’s voice boomed in their minds. It sounded less like a god now and more like a very large, very sleepy thunderstorm. <aac>I was going to show you the nebula gardens. I am told they are very pretty. But I am also very tired.</aac>
 
 "We have to go home," Kaelan called out, patting the hull of the boat as if it were a horse. He leaned against the railing, looking relaxed for the first time since they left Sunstead. "We have a garden of our own to fix. Deer problems."
 
-"DEER," the Star-Eater mused, the vibration shaking the deck plates. "ORGANIC PESTS. UNDERSTOOD. PRIORITIZE PERIMETER DEFENSE. SAFE TRAVELS, SCIONS. I WILL RESET THE ALARM CLOCK FOR ANOTHER MILLENNIUM."
+<aac>Deer,</aac> the Star-Eater mused, the vibration shaking the deck plates. <aac>Organic pests. Understood. Prioritize perimeter defense. Safe travels, scions. I will reset the alarm clock for another millennium.</aac>
 
 "Sleep well," Kaela whispered. "And thank you for the help."
 
-"YOU ARE WELCOME, JANITORS. PLEASE CLOSE THE DOOR ON YOUR WAY OUT."
+<aac>You are welcome, janitors. Please close the door on your way out.</aac>
 
 The lights in the vast ribcage extinguished one by one, plunging the interior back into a deep, restful darkness.
 
@@ -3000,7 +3000,7 @@ The boat settled gently into the water of the frozen cove.
 
 Steam hissed as the hot hull touched the ice.
 
-"DEACTIVATING ORBITAL PLATING," the machine intoned. "RETURNING VESSEL TO DEFAULT CONFIGURATION."
+<aac>Deactivating orbital plating,</aac> the machine intoned. <aac>Returning vessel to default configuration.</aac>
 
 Mechanical arms unfolded from the ice walls. Lasers flashed.
 
