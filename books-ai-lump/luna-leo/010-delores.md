@@ -2097,9 +2097,11 @@ He gave a small, exhausted nod, accepting the tablet and resting it gently on hi
 
 He nodded again. Stella took the handles of his chair, her touch a promise of absolute safety. Luna and Olivia gathered their bags, and the four of them began the journey towards the exit, moving together—a complete and unbreakable fortress of love.
 
-### Part 19: Checking In, Cleaning Up
+### Part 19: Haven City
 
-Settled into the back seat of Stella’s familiar blue Holt Sentinel with Luna beside him and Olivia in the front passenger seat, Leo felt the tension finally begin to drain away. Stella turned on the radio to the familiar Rock 107 The Wolf, and the opening guitars of Mirage's "Haven City" filled the car. The words – *Take. Me. Home.* – hit Leo with the force of a physical blow, but a cathartic one. Tears welled again, but these were tears of arrival, of safety achieved. He was home. He instinctively leaned his head against Luna’s shoulder, and her arm came around him instantly, holding him close.
+**Date:** 2003-11-26 at 23:45 America/New_York
+
+Settled into the back seat of Stella’s familiar blue Holt Sentinel with Luna beside him and Olivia in the front passenger seat, Leo felt the tension finally begin to drain away. As Stella merged onto I-64, making the final stretch towards Virginia Beach, she turned the radio to the familiar Classic Hits station, Rock 107 The Wolf. The iconic, driving opening guitars of The Paper Wall's "Haven City" instantly filled the car. The explosive energy of the track and the soaring chorus—*Take. Me. Home.*—hit Leo with the force of a physical blow, but a fiercely cathartic one. Tears welled again, but these were tears of arrival, of absolute safety achieved. He was home. He instinctively leaned his head against Luna’s shoulder, and her arm came around him instantly, holding him close.
 
 The immediate relief was immense, but Stella’s caregiver instincts were already kicking in. The journey, the neglect, the memory of past pressure sores—all set off alarm bells.
 
