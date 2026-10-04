@@ -11,7 +11,7 @@ series: "Luna and Leo"
 
 **Date:** 2004-09-17 at 09:00 America/New_York
 
-On Friday, September 17th, 2004, the air in the Virginia Beach Circuit Court was cool and sterile, a stark contrast to the warm, joyful anticipation that had filled the house on Daniel Maloney Drive for weeks. Olivia **Marie** Walker sat on a polished wooden bench, her hands clasped tightly in her lap. Beside her, Stella Porter was a quiet, solid presence, her shoulder occasionally brushing against Olivia’s in a silent gesture of support.
+On Friday, September 17th, 2004, the air in the Virginia Beach Circuit Court was cool and sterile, a stark contrast to the warm, joyful anticipation that had filled the house on Stella's house for weeks. Olivia **Marie** Walker sat on a polished wooden bench, her hands clasped tightly in her lap. Beside her, Stella Porter was a quiet, solid presence, her shoulder occasionally brushing against Olivia’s in a silent gesture of support.
 
 This legal step, a simple petition for a name change, was entirely Olivia’s idea. It was a private, deliberate act to legally bind herself to the man she loved in the only way the law would allow. While the world would celebrate their union tomorrow, today was about the formal, legal declaration. It was her way of simulating a marriage, of taking his name and making it her own with the full weight and authority of the court.
 
@@ -39,7 +39,7 @@ It was done. With the stroke of a pen and the thud of a stamp, she was legally b
 
 **Date:** 2004-09-17 at 07:00 America/New_York
 
-While Stella and Olivia were at the Municipal Center, the house on Daniel Maloney Drive was a bubble of carefully managed calm. Arthur and Eleanor had arrived early, their presence a steadying force. They knew this morning would be a significant challenge for Leo. Since Olivia had flown home with him from Seattle nearly ten months ago, he had not voluntarily spent a single moment apart from her. This separation, though temporary and for a joyful purpose, was a monumental test of the progress he had made.
+While Stella and Olivia were at the Municipal Center, the house on Stella's house was a bubble of carefully managed calm. Arthur and Eleanor had arrived early, their presence a steadying force. They knew this morning would be a significant challenge for Leo. Since Olivia had flown home with him from Seattle nearly ten months ago, he had not voluntarily spent a single moment apart from her. This separation, though temporary and for a joyful purpose, was a monumental test of the progress he had made.
 
 Leo was a knot of raw anxiety. He sat in his wheelchair in the living room, his new **Quantum Communicator** on its mount, but his hands were clenched tightly in his lap. His gaze kept darting to the front door, then to the clock, then back to the door. Every tick of the clock seemed to echo the frantic, worried beating of his own heart.
 
@@ -95,7 +95,7 @@ Leo was relaxed and happy, his earlier separation anxiety now a distant memory. 
 
 **Date:** 2004-09-17 at 12:00 America/New_York
 
-The warm, satisfied glow from their celebratory lunch settled over the house as they returned to Daniel Maloney Drive. The afternoon sun streamed through the living room windows, creating a peaceful, lazy atmosphere. But for Luna, the quiet was a call to action.
+The warm, satisfied glow from their celebratory lunch settled over the house as they returned to Stella's house. The afternoon sun streamed through the living room windows, creating a peaceful, lazy atmosphere. But for Luna, the quiet was a call to action.
 
 "Okay," she announced, a determined sparkle in her eyes. "I need to practice. And no one is allowed to listen. This is a surprise for tomorrow."
 
@@ -135,7 +135,7 @@ A quiet, almost absurdly funny thought popped into her head, and she had to supp
 
 **Date:** 2004-09-17 at 07:00 America/New_York
 
-The morning of Saturday, September 18th, 2004, dawned bright and clear, a perfect, crisp late-summer day. The house on Daniel Maloney Drive was filled with a unique, humming energy—a quiet, joyful thrum of anticipation. Today was the day. Today was Olivia's nineteenth birthday, and the day she and Leo would declare their lifelong commitment to each other in front of everyone they loved.
+The morning of Saturday, September 18th, 2004, dawned bright and clear, a perfect, crisp late-summer day. The house on Stella's house was filled with a unique, humming energy—a quiet, joyful thrum of anticipation. Today was the day. Today was Olivia's nineteenth birthday, and the day she and Leo would declare their lifelong commitment to each other in front of everyone they loved.
 
 The day began not with frantic preparation, but with a moment of quiet, focused curiosity. In the living room, Olivia sat in front of the family's main computer, a thoughtful frown on her face as she read the dense text on the screen. Stella, coming out of the kitchen with a mug of coffee, noticed her intense concentration.
 
@@ -289,7 +289,7 @@ With that, she stepped back from the microphone and raised her flute to her lips
 
 Olivia moved into position in front of Leo, stepping close between the front casters of his wheelchair, her hands resting gently on his shoulders. He placed his hands on her waist, and they began to move together in a slow, graceful dance, their eyes locked, lost in their own world.
 
-Then, halfway through the piece, the melody shifted. For just a few bars, Luna wove in the poignant, achingly familiar notes of the flute melody from **Origin's "Kaleidoscope Sun"**—their secret, sacred signal, the sound of **"Playing the Flute."**
+Then, halfway through the piece, the melody shifted. For just a few bars, Luna wove in the poignant, achingly familiar notes of the flute melody from **Fractured Prisms' "Kaleidoscope Sun"**—their secret, sacred signal, the sound of **"Playing the Flute."**
 
 The moment the notes reached him, Leo’s eyes lit up, widening in surprised, profound recognition. A tear escaped and traced a path down his cheek. He looked from Luna, who was playing with her eyes closed, pouring her entire heart into the music, to Olivia, who was smiling down at him, her own eyes shining. It was the ultimate blessing, a public declaration of their private code, a welcome from his other half to the new center of his world.
 
@@ -389,7 +389,7 @@ As they began their walk down the path of their loved ones, the air filled with 
 
 Leo and Olivia walked slowly, savoring the final moments of their perfect day. They looked at the faces of their family—Stella, Luna, Arthur, Eleanor, Olivia's parents, and her Canadian relatives—all of them smiling, their faces full of love and happiness for them.
 
-At the end of the path, the Holt Sentinel was waiting, its interior light glowing invitingly. Stella, having run ahead, was already in the driver's seat. She would be their chauffeur for their "getaway," driving them back to the quiet, peaceful sanctuary of their home on Daniel Maloney Drive.
+At the end of the path, the Holt Sentinel was waiting, its interior light glowing invitingly. Stella, having run ahead, was already in the driver's seat. She would be their chauffeur for their "getaway," driving them back to the quiet, peaceful sanctuary of their home on Stella's house.
 
 As they got into the car, Leo and Olivia turned for one last wave. They saw their entire world, their entire fortress, standing there, united and beaming, sending them off with a final, shimmering cloud of good wishes. It was the perfect end to a perfect beginning.
 
@@ -397,7 +397,7 @@ As they got into the car, Leo and Olivia turned for one last wave. They saw thei
 
 **Date:** 2003-11-27 at 10:00 America/New_York
 
-The Holt Sentinel pulled into the driveway of 1091 Daniel Maloney Drive, the quiet hum of its engine the only sound in the peaceful, late evening. The magical send-off at the country club had been the perfect, gentle end to a long and emotionally overwhelming day. Inside the car, a profound, bone-deep exhaustion had settled over them all.
+The Holt Sentinel pulled into the driveway of Stella's house, the quiet hum of its engine the only sound in the peaceful, late evening. The magical send-off at the country club had been the perfect, gentle end to a long and emotionally overwhelming day. Inside the car, a profound, bone-deep exhaustion had settled over them all.
 
 As they got into the house, the familiar, safe quiet of their own space was a welcome relief. The day had been perfect, a flawless celebration of love, but the constant social engagement, the high emotions, and the adherence to a schedule had taken a significant toll, especially on Luna and Leo.
 

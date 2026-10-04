@@ -163,13 +163,13 @@ Right there in the store, the twins' excitement was palpable. "Lessons? Can we t
 
 Stella, thrilled by their enthusiasm, turned to the helpful employee near the front counter. "Do you guys offer lessons here? Or know good instructors for tenor sax and xylophone?"
 
-The employee smiled. "We sure do. Let me check the schedule." He consulted a binder behind the counter. "Okay... looks like Mr. Thompson, he's fantastic with woodwinds, has an opening tomorrow afternoon. And... wow, lucky break, Mrs. Gable, our percussion teacher, has an opening at the exact same time. Makes transportation easier!"
+The employee smiled. "We sure do. Let me check the schedule." He consulted a binder behind the counter. "Okay... looks like Mr. Panoff, he's fantastic with woodwinds, has an opening tomorrow afternoon. And... wow, lucky break, Mrs. Gable, our percussion teacher, has an opening at the exact same time. Makes transportation easier!"
 
 "Tomorrow?" Stella asked, surprised but pleased. "That's perfect!" She looked at the twins, who were practically bouncing. "Alright then," she declared, turning back to the employee. "Sign them up! And we'll need to purchase a tenor sax and purchase that xylophone – the one you said could be modified – plus whatever accessories they need to get started. Oh, and two music stands, please."
 
 They left the store not just with newfound musical ambitions, but with instruments in hand (or carefully packed for transport), lesson times secured for the very next day, and a shared sense of excitement for this new adventure.
 
-(The connection to Mr. Thompson being the band director and inviting them to join would likely happen after a few lessons, as established previously)
+(The connection to Mr. Panoff being the band director and inviting them to join would likely happen after a few lessons, as established previously)
 
 ## The Doorbell Rings
 
@@ -539,9 +539,9 @@ His breathing grew shallow and rapid. He started rocking slightly in his chair, 
 
 Luna saw it happening, her initial concern turning to urgent alarm. She immediately stopped playing, her saxophone silent. She looked desperately towards the sideline, catching Stella’s eye and giving a sharp, frantic shake of her head – the emergency signal.
 
-Stella, already watching Leo with growing concern after the missed notes, saw the dropped mallet and Luna's signal. Her heart leaped, but training kicked in. She immediately made the agreed-upon emergency signal – a closed fist tapped twice over her heart – towards Mr. Thompson, who was observing intently from the sideline near the 50-yard line, and Dave, the lead Pit Crew volunteer positioned closer to the Pit. Simultaneously, she caught the eye of Officer Dwayne Whitehead, the school's SRO, who was patrolling near the concession stand behind the bleachers. He saw Stella's signal and Leo's distress and immediately started moving towards them.
+Stella, already watching Leo with growing concern after the missed notes, saw the dropped mallet and Luna's signal. Her heart leaped, but training kicked in. She immediately made the agreed-upon emergency signal – a closed fist tapped twice over her heart – towards Mr. Panoff, who was observing intently from the sideline near the 50-yard line, and Dave, the lead Pit Crew volunteer positioned closer to the Pit. Simultaneously, she caught the eye of Officer Dwayne Whitehead, the school's SRO, who was patrolling near the concession stand behind the bleachers. He saw Stella's signal and Leo's distress and immediately started moving towards them.
 
-Their response was instantaneous and practiced. Mr. Thompson subtly signaled the nearest instructional staff member on the sideline to be ready to assist if needed, while keeping his primary focus on the overall performance flow. Dave and another Pit Crew member moved swiftly towards Leo. Stella reached Leo's side. "Okay, Leo, we're getting you out," she said calmly but firmly.
+Their response was instantaneous and practiced. Mr. Panoff subtly signaled the nearest instructional staff member on the sideline to be ready to assist if needed, while keeping his primary focus on the overall performance flow. Dave and another Pit Crew member moved swiftly towards Leo. Stella reached Leo's side. "Okay, Leo, we're getting you out," she said calmly but firmly.
 
 Luna stood up, her own instrument forgotten, her face pale with worry. As Dave carefully took hold of Leo's wheelchair handles, Officer Whitehead arrived, nodding curtly to Stella. "Got my key," he said quietly, already pulling it out.
 
@@ -567,17 +567,17 @@ Stella leaned closer, her voice soft. "Oh, honey. I know. It's okay about the no
 
 Leo looked from Luna to Stella, absorbing their reassurance. He gave a small, weary nod. The disappointment and lingering discomfort were still there, but their immediate acceptance and dismissal of the mistake seemed to help anchor him. Officer Whitehead offered a small, understanding smile from a distance. They would sit there for a few more minutes, gathering themselves, safe in the quiet lobby under Stella's care and the officer's watchful eye.
 
-A short while later, after the band had marched off the field and the crowd noise swelled again for the start of the third quarter, the lobby door opened quietly. Mr. Thompson entered, carrying Luna's tenor saxophone, now safely secured in its case. He had noticed it left behind near the Pit area during the emergency exit and, knowing it was Luna's personal instrument purchased by Stella, had made sure one of the reliable Pit Crew parents carefully brought it off the field and cased it up once the performance concluded.
+A short while later, after the band had marched off the field and the crowd noise swelled again for the start of the third quarter, the lobby door opened quietly. Mr. Panoff entered, carrying Luna's tenor saxophone, now safely secured in its case. He had noticed it left behind near the Pit area during the emergency exit and, knowing it was Luna's personal instrument purchased by Stella, had made sure one of the reliable Pit Crew parents carefully brought it off the field and cased it up once the performance concluded.
 
 He approached the small group on the benches, his expression showing concern but also calm understanding. Officer Whitehead gave him a brief nod.
 
-"Stella? Luna? Leo?" Mr. Thompson said softly. "Just wanted to check in. How are we doing?"
+"Stella? Luna? Leo?" Mr. Panoff said softly. "Just wanted to check in. How are we doing?"
 
 Stella looked up, managing a small, appreciative smile. "We're okay, Mr. T. Just needed a quiet minute. Leo's feeling much better now."
 
-Mr. Thompson looked at Leo kindly. "Rough moment out there, huh, Leo? Don't you worry about those notes one bit. Happens to the best of us under pressure. The important thing is you're alright." Leo looked at his director and gave another small nod, seeming to appreciate the direct reassurance.
+Mr. Panoff looked at Leo kindly. "Rough moment out there, huh, Leo? Don't you worry about those notes one bit. Happens to the best of us under pressure. The important thing is you're alright." Leo looked at his director and gave another small nod, seeming to appreciate the direct reassurance.
 
-Mr. Thompson then placed the saxophone case gently on the bench beside Luna. "Figured you'd be wanting this back, Luna. Handled beautifully." Luna's eyes immediately fixed on the case, relief washing over her face, visibly relaxing her posture. That saxophone – *her* saxophone, the first truly significant thing that felt like it belonged just to her, bought by Stella – was safe. She reached out almost reverently, her fingers tracing the outline of the case. "Thank you, Mr. Thompson," she whispered, the words thick with emotion. Having it back, knowing it was cared for even amidst the emergency, felt like regaining a crucial piece of herself. Mr. Thompson smiled warmly, understanding the instrument's importance went beyond just the music. "Alright," he said, glancing between them. "Take all the time you need here. No rush to get back outside unless you feel up to it. Officer Whitehead and I will make sure you're undisturbed. Just let us know if you need anything at all." With another reassuring nod, he stepped back to confer quietly with Officer Whitehead near the hallway entrance, giving the family space while ensuring they weren't alone.
+Mr. Panoff then placed the saxophone case gently on the bench beside Luna. "Figured you'd be wanting this back, Luna. Handled beautifully." Luna's eyes immediately fixed on the case, relief washing over her face, visibly relaxing her posture. That saxophone – *her* saxophone, the first truly significant thing that felt like it belonged just to her, bought by Stella – was safe. She reached out almost reverently, her fingers tracing the outline of the case. "Thank you, Mr. Panoff," she whispered, the words thick with emotion. Having it back, knowing it was cared for even amidst the emergency, felt like regaining a crucial piece of herself. Mr. Panoff smiled warmly, understanding the instrument's importance went beyond just the music. "Alright," he said, glancing between them. "Take all the time you need here. No rush to get back outside unless you feel up to it. Officer Whitehead and I will make sure you're undisturbed. Just let us know if you need anything at all." With another reassuring nod, he stepped back to confer quietly with Officer Whitehead near the hallway entrance, giving the family space while ensuring they weren't alone.
 
 ## Charter Bus to the Mountains
 
@@ -585,7 +585,7 @@ Mr. Thompson then placed the saxophone case gently on the bench beside Luna. "Fi
 
 **Date:** 1999-11-13 at 06:00 America/New_York
 
-The air was crisp and cold in the pre-dawn darkness of a November morning in 1999. The sprawling parking lot of Northwood High School buzzed with the organized chaos that only a marching band preparing for a major trip could generate. Five gleaming charter buses idled, their engines rumbling softly, ready to transport the Northwood High School Soaring Eagle Band – all 200+ members, plus director Mr. Thompson, chaperones, and the essential pit crew support staff – hours away to Stephens City, Virginia, for the final competition of the season at Sherando High School.
+The air was crisp and cold in the pre-dawn darkness of a November morning in 1999. The sprawling parking lot of Northwood High School buzzed with the organized chaos that only a marching band preparing for a major trip could generate. Five gleaming charter buses idled, their engines rumbling softly, ready to transport the Northwood High School Soaring Eagle Band – all 200+ members, plus director Mr. Panoff, chaperones, and the essential pit crew support staff – hours away to Stephens City, Virginia, for the final competition of the season at Sherando High School.
 
 Amidst the bustle of students hauling instrument cases and uniform bags, Stella Porter, now 21 and an official chaperone, stood near the door of Bus \#3 with a clipboard. Dressed warmly against the chill, she exuded a calm authority, checking names off her list as students boarded. She was the designated lead chaperone for this bus, responsible for ensuring everyone assigned was present and accounted for.
 
@@ -611,7 +611,7 @@ Raising her voice slightly to be heard over the bus chatter and road noise, Stel
 
 After what felt like an eternity on the road, punctuated by classic rock discoveries and the lingering ghost of Travis's unfortunate contribution, the convoy of five charter buses finally pulled off the interstate and into the gravel parking lot of a small, unassuming roadside motel. The band members stirred, stretching stiff limbs as they began the process of unloading instruments, luggage, and themselves under the glow of the motel's flickering neon sign. Given the sheer size of the band and the motel's small office, the students were instructed to stay with their luggage near the buses while the director and chaperones handled the check-in.
 
-Mr. Thompson headed straight for the small motel office, followed closely by Stella and the other chaperones to begin the check-in process. Outside, as students retrieved their bags and waited, Stella caught Travis Miller's eye amidst the crowd near Bus \#3. "Alright, Travis!" she called out, her voice carrying over the general chatter. "Time to pay the piper! Seventy-five, remember?"
+Mr. Panoff headed straight for the small motel office, followed closely by Stella and the other chaperones to begin the check-in process. Outside, as students retrieved their bags and waited, Stella caught Travis Miller's eye amidst the crowd near Bus \#3. "Alright, Travis!" she called out, her voice carrying over the general chatter. "Time to pay the piper! Seventy-five, remember?"
 
 A collective groan and then a wave of snickers went through the students nearby. Travis looked mortified but knew there was no getting out of it. He tossed his bag aside and reluctantly dropped to the gravel near the bus. As he started pumping out push-ups, a crowd quickly gathered.
 
@@ -669,7 +669,7 @@ Luna gave Leo's shoulder a quick squeeze and a hug. "Good luck!" she whispered, 
 
 Stella immediately stepped in, taking hold of Leo's wheelchair handles. "Alright, Pit, let's find our spot!" she announced to Leo and the other student musicians playing stationary instruments in the Pit. They navigated towards their own warm-up zone, finding space for Leo's modified xylophone, the marimbas, vibraphones, and auxiliary percussion. Stella stayed with Leo, helping him get situated and ready while the pit instructors led scales and run-throughs of key musical passages. Across the various fields surrounding the stadium, sections of the band warmed up, already dressed in their uniform pants, special shoes, and shirts, awaiting the final call to put on their jackets and hats.  
 
-Time seemed to accelerate. Soon, a staff member wearing the competition's official polo shirt approached Mr. Thompson and the instructional staff. "Northwood High? You're on deck. Five minutes to gate," the official announced crisply.
+Time seemed to accelerate. Soon, a staff member wearing the competition's official polo shirt approached Mr. Panoff and the instructional staff. "Northwood High? You're on deck. Five minutes to gate," the official announced crisply.
 
 The call went out, and sections began converging near the stadium entrance. Luna reappeared, slightly breathless but focused from warming up with the saxophone section. She rejoined Leo near the front sideline where the Pit was assembling, handing her tenor saxophone carefully to Leo before taking charge of his wheelchair. Stella gave Leo's shoulder a final reassuring pat. While Luna was positioned here beside her brother as an ADA accommodation, she was musically still part of the saxophone line.  
 

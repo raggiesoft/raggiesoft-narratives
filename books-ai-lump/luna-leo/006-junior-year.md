@@ -17,7 +17,7 @@ The living room had become the twins' sanctuary. The dual **MagnaByte Opus** sta
 
 Stella was curled up in the armchair with a book, a mug of tea steaming on the side table. Luna and Leo were on the floor near the stereo, surrounded by the growing collection of vinyl records Stella had retrieved from storage or bought for them.
 
-Leo held the album cover in his hands. It was **Origin’s** self-titled 1983 album, simply referred to by fans as the "Shapes" album due to the bright yellow geometric blocks on the cover. They had listened to it before—it was part of the rotation—but usually as background noise while doing homework. Today, with the rain locking them inside, they were really *listening*.
+Leo held the album cover in his hands. It was **Fractured Prisms'** 1983 album, *Carnaby Street*,, simply referred to by fans as the "Shapes" album due to the bright yellow geometric blocks on the cover. They had listened to it before—it was part of the rotation—but usually as background noise while doing homework. Today, with the rain locking them inside, they were really *listening*.
 
 "Side Two," Luna said, taking the record from its sleeve with practiced care.
 
@@ -39,7 +39,7 @@ Luna sat with her knees pulled to her chest, listening to the lyrics. They hit d
 
 Luna looked at Stella, then at the walls of their house. A fragile fortress. It felt like he was singing about them—about the life they had built out of the wreckage of their parents' neglect.
 
-Then came the chorus, swelling with harmonies.
+Then came the chorus, swelling with harmonies as Rhys's sister, **Claire Manning**, joined in. Their voices blended perfectly, carrying the song into an ethereal, uplifting space.
 
 "Do you hear it? A whisper on the wind, a melody so clear... Will you come back? To where the true light gleams, and home is always near?"
 
@@ -109,9 +109,9 @@ The song played on, the distinctive flute melody returning one last time in the 
 
 The air in the Band Room was thick with the smell of valve oil and cork grease. It was the second week of Junior year, and the chaos of marching band season was in full swing.
 
-Luna stood in front of Mr. Thompson’s office door, shifting her weight from her good leg to her bad one. She held her Tenor Saxophone case in one hand, but her eyes were fixed on the instrument storage closet behind the glass partition.
+Luna stood in front of Mr. Panoff’s office door, shifting her weight from her good leg to her bad one. She held her Tenor Saxophone case in one hand, but her eyes were fixed on the instrument storage closet behind the glass partition.
 
-Inside the office, Mr. Thompson looked up from his scheduling software. "Luna? Everything okay with the sax? Pads sticking again?"
+Inside the office, Mr. Panoff looked up from his scheduling software. "Luna? Everything okay with the sax? Pads sticking again?"
 
 "Sax is fine," Luna said, stepping inside. She took a breath. "Actually, I wanted to ask about... inventory."
 
@@ -119,21 +119,21 @@ She pointed toward the silver cases stacked on the high shelf in the closet.
 
 "Do we have any flutes available for rental?"
 
-Mr. Thompson raised an eyebrow. "Flute? You're my anchor in the Tenor section, Luna. You've got that big sound we need for the field show. You aren't thinking of switching, are you?"
+Mr. Panoff raised an eyebrow. "Flute? You're my anchor in the Tenor section, Luna. You've got that big sound we need for the field show. You aren't thinking of switching, are you?"
 
 "No, no," Luna assured him quickly. "I'm staying on Tenor for Marching and Symphonic. I love the sax. But..." She hesitated, thinking of the rainy Saturday, the vinyl record spinning, and the ethereal sound that had cut through the noise. "I want to learn the flute on the side. Just for me. There's a specific song I want to play."
 
-Mr. Thompson leaned back, a smile touching his lips. He loved it when students branched out. "Doubling up, huh? That's ambitious. The embouchure is completely different, you know. Sax is 'in' the mouth; flute is 'across' the mouth. It's like learning to whistle sideways while doing algebra."
+Mr. Panoff leaned back, a smile touching his lips. He loved it when students branched out. "Doubling up, huh? That's ambitious. The embouchure is completely different, you know. Sax is 'in' the mouth; flute is 'across' the mouth. It's like learning to whistle sideways while doing algebra."
 
 "I like algebra," Luna said with a shrug.
 
-Mr. Thompson chuckled. He stood up and unlocked the closet. He reached up and pulled down a hard black plastic case.
+Mr. Panoff chuckled. He stood up and unlocked the closet. He reached up and pulled down a hard black plastic case.
 
 "Yamaha student model," he said, placing it on the desk. "Open-hole keys, but it has the plugs in for now. Good for beginners."
 
 He popped the latches. The silver instrument gleamed against the blue velvet lining. It looked delicate, intricate, and completely different from her battered, brassy saxophone.
 
-"Rental fee is standard," Mr. Thompson said. "But since you're a section leader, I'll let you take it home for the weekend to see if you can even get a sound out of it before we do the paperwork. It's harder than it looks."
+"Rental fee is standard," Mr. Panoff said. "But since you're a section leader, I'll let you take it home for the weekend to see if you can even get a sound out of it before we do the paperwork. It's harder than it looks."
 
 Luna reached out and touched the smooth metal of the headjoint. "Thanks, Mr. T."
 
@@ -149,13 +149,13 @@ Luna sat on the sofa, the assembled flute in her hands. She had the instruction 
 
 She took a breath, set her mouth, and blew.
 
-Fffffffffffffffffft.
+A hollow, breathy rush of air hissed across the metal.
 
 Air. Just the sound of rushing air. No tone. No music. Just wind.
 
 Leo stopped typing. He turned his chair slightly to look at her.
 
-"Shut up," Luna said, though he hadn't said a word. "Mr. Thompson said it was hard."
+"Shut up," Luna said, though he hadn't said a word. "Mr. Panoff said it was hard."
 
 She adjusted the headjoint. She tightened her lips. She blew again.
 
@@ -331,21 +331,21 @@ Monday Morning Northwood High School Band Room
 
 The Band Room was its usual morning cacophony. Trumpet players were seeing how high they could squeak, drummers were practicing rudiments on the backs of chairs, and the smell of valve oil was thick in the air.
 
-Luna walked into Mr. Thompson’s office, the heavy-duty thermal gig bag slung over her shoulder. She looked a mixture of proud and terrified.
+Luna walked into Mr. Panoff’s office, the heavy-duty thermal gig bag slung over her shoulder. She looked a mixture of proud and terrified.
 
-"Mr. T?" she knocked on the open door.
+"Mr. P?" she knocked on the open door.
 
-Mr. Thompson looked up from his coffee. "Morning, Luna. Did you bring the rental back? I have the paperwork ready if you want to renew it for the semester."
+Mr. Panoff looked up from his coffee. "Morning, Luna. Did you bring the rental back? I have the paperwork ready if you want to renew it for the semester."
 
 "Actually," Luna said, unzipping the gig bag, "we returned the rental on Saturday."
 
-Mr. Thompson’s face fell slightly. "Oh. decided it wasn't for you? That's okay. It’s a tricky embouchure—"
+Mr. Panoff’s face fell slightly. "Oh. decided it wasn't for you? That's okay. It’s a tricky embouchure—"
 
 "No," Luna interrupted, a grin breaking out. "Stella decided we don't rent."
 
 She pulled out the cherry wood case.
 
-Mr. Thompson stopped drinking his coffee. He stared at the case. It wasn't the black molded plastic of a student flute. It was dark, polished wood with brass latches. It looked like something that belonged in a symphony hall, not a high school locker.
+Mr. Panoff stopped drinking his coffee. He stared at the case. It wasn't the black molded plastic of a student flute. It was dark, polished wood with brass latches. It looked like something that belonged in a symphony hall, not a high school locker.
 
 "Luna," he said slowly. "What is that?"
 
@@ -355,7 +355,7 @@ She lifted the lid.
 
 The overhead fluorescent lights of the office caught the instrument, and it didn't just shine; it gleamed with the dark, rich luster that only solid sterling silver possesses.
 
-Mr. Thompson stood up. He didn't ask permission; he just reached out with reverence, his hands hovering for a second to ensure they were clean before he gently lifted the body joint.
+Mr. Panoff stood up. He didn't ask permission; he just reached out with reverence, his hands hovering for a second to ensure they were clean before he gently lifted the body joint.
 
 He inspected it with a practiced eye. He saw the hallmarks immediately: the pointed French key arms, the open holes, the weight of the solid silver tubing. He looked at the footjoint.
 
@@ -367,23 +367,23 @@ He looked at Luna, his eyes wide. "Luna... this is an **Orpheus 680**. This is a
 
 "Stella said she didn't want to buy an intermediate one just to replace it later," Luna explained, feeling a flush of pride. "She said she wanted the one I wouldn't outgrow."
 
-Mr. Thompson laughed, a sound of pure disbelief.
+Mr. Panoff laughed, a sound of pure disbelief.
 
 "Outgrow? Luna, you could play principal chair in the **Tidewater Symphony** with this. You will *never* outgrow this."
 
-Luna blinked. *Principal chair?* She had only ever thought about playing for the band, and playing for Leo. But the way Mr. Thompson said it—with such absolute certainty—planted a tiny, thrilling seed in her chest. She looked at the silver instrument in his hands. It wasn't just a flute anymore; it was a possibility.
+Luna blinked. *Principal chair?* She had only ever thought about playing for the band, and playing for Leo. But the way Mr. Panoff said it—with such absolute certainty—planted a tiny, thrilling seed in her chest. She looked at the silver instrument in his hands. It wasn't just a flute anymore; it was a possibility.
 
-Mr. Thompson carefully, almost reluctantly, placed the body back into the velvet nest of the case. He looked at her with a sudden, intense seriousness.
+Mr. Panoff carefully, almost reluctantly, placed the body back into the velvet nest of the case. He looked at her with a sudden, intense seriousness.
 
 "Listen to me," he said, his voice dropping. "You do not leave this on your chair. You do not let the trumpet players hold it. You do not let anyone 'try it out.' If you have to use the restroom during rehearsal, this goes back in the case, and the case goes with you. If this gets dented, I will personally cry."
 
 "I know," Luna promised, zipping the thermal cover back over the wood. "I'm guarding it with my life. Leo is too."
 
-She pointed out the office window. Leo was parked by the percussion cabinet, watching them. He gave Mr. Thompson a solemn thumbs-up.
+She pointed out the office window. Leo was parked by the percussion cabinet, watching them. He gave Mr. Panoff a solemn thumbs-up.
 
-Mr. Thompson shook his head, smiling. "Your sister doesn't mess around, does she?"
+Mr. Panoff shook his head, smiling. "Your sister doesn't mess around, does she?"
 
 "Nope," Luna said, shouldering the bag. "She says we don't play on junk."
 
-"Clearly," Mr. Thompson murmured, watching her head back to the woodwind section. "Clearly."
+"Clearly," Mr. Panoff murmured, watching her head back to the woodwind section. "Clearly."
 

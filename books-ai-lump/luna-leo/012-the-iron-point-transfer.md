@@ -11,7 +11,7 @@ series: "Luna and Leo"
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
-By the time Stella, Luna, Leo, and Olivia had settled into their new normal—a rhythm of college classes, quiet evenings, and the slow, steady healing from the ordeal with Delores—their grandparents, Arthur and Eleanor, had passed away peacefully, leaving the fortress four as the sole inheritors of their quiet wisdom and vast fortune. The house on Daniel Maloney Drive, once a sanctuary built by their grandparents' love, now belonged entirely to them. But with that inheritance came a new, more insidious kind of fear.
+By the time Stella, Luna, Leo, and Olivia had settled into their new normal—a rhythm of college classes, quiet evenings, and the slow, steady healing from the ordeal with Delores—their grandparents, Arthur and Eleanor, had passed away peacefully, leaving the fortress four as the sole inheritors of their quiet wisdom and vast fortune. The house on Stella's house, once a sanctuary built by their grandparents' love, now belonged entirely to them. But with that inheritance came a new, more insidious kind of fear.
 
 The decision to move was not made in a lawyer's office or during a formal family meeting. It was made on a quiet Tuesday evening in the living room, in the wake of a simple, beautiful, and terrifyingly vulnerable moment.
 
@@ -297,7 +297,7 @@ Dr. Aris walked out, whistling. He had secured a genius for his department, and 
 
 **Date:** 2003-11-27 at 10:00 America/New_York
 
-November 2005 1091 Daniel Maloney Drive - Living Room
+November 2005 Stella's house - Living Room
 
 The living room had been transformed into a makeshift recording studio. Stella had hung heavy blankets over the windows to dampen the street noise. Leo, maneuvering his manual wheelchair with precise, short strokes, adjusted the tripod of Stella’s high-end digital camera.
 
@@ -387,7 +387,7 @@ She pulled out a heavy, cream-colored sheet of stationery.
 
 **Date:** 2003-11-27 at 10:00 America/New_York
 
-November 24, 2005 (Thanksgiving Day) 1091 Daniel Maloney Drive
+November 24, 2005 (Thanksgiving Day) Stella's house
 
 The small house in Virginia Beach smelled of sage, roasted turkey, and the specific, sweet scent of Eleanor Bennett’s sweet potato casserole.
 
@@ -479,13 +479,13 @@ He reached across the table and took Eleanor’s hand.
 
 "To the Bulls," the family echoed.
 
-Outside, the wind rattled the siding of the little house on Daniel Maloney Drive. It was a safe house, a good house. But as they ate their apple-cranberry pie, they all knew it was temporary. The compass had swung North, and they were ready to follow it.
+Outside, the wind rattled the siding of the little house on Stella's house. It was a safe house, a good house. But as they ate their apple-cranberry pie, they all knew it was temporary. The compass had swung North, and they were ready to follow it.
 
 ### Part 7: The Long Twilight
 
 **Date:** 2003-11-27 at 10:00 America/New_York
 
-November 24, 2005 (Thanksgiving Night) 1091 Daniel Maloney Drive
+November 24, 2005 (Thanksgiving Night) Stella's house
 
 The dishes were done. The leftovers were packed into Tupperware containers that Eleanor had brought, labeled in her neat, looping cursive that was just a little shakier than it used to be.
 
@@ -2674,7 +2674,7 @@ Stella walked to the **Holt Sentinel** parked in the long-term lot. She unlocked
 
 She placed the urn in the front passenger seat and buckled the seatbelt around it.
 
-"Okay, Grandpa," she said, starting the engine. "One last drive to Daniel Maloney Drive. Let's go finish the job."
+"Okay, Grandpa," she said, starting the engine. "One last drive to Stella's house. Let's go finish the job."
 
 They drove out of the station, the headlights cutting through the Virginia night, heading home to pack up the past so they could finally live in the future.
 

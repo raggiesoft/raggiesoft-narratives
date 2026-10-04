@@ -9,7 +9,7 @@ series: "Luna and Leo"
 
 ### Part 1: A Grieving Start
 
-**Date:** 2003-08-25 at 10:00 America/Los_Angeles
+**Date:** 2003-08-25 at 08:00 America/New_York
 
 The morning of Monday, August 25th, 2003, was bright and full of the nervous, excited energy of the first day of college. For Leo Porter, however, the world was a muted shade of gray. The two weeks since the heartbreaking farewell to Olivia at Seattle's King Street Station had been a blur of quiet, aching grief.
 
@@ -33,7 +33,7 @@ But as they found their classroom and settled into the accessible seating at the
 
 ### Part 2: American Literature
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+**Date:** 2003-08-25 at 09:00 America/New_York
 
 The classroom in the Martin Building was a standard college classroom, built for about 30 students, with tables arranged in rows facing a large whiteboard. The fortress twins found an accessible spot near the front, giving Leo ample room for his wheelchair. As other students filed in, a middle-aged professor with kind eyes and a tweed jacket entered and began arranging his notes on the table at the front.
 
@@ -47,7 +47,7 @@ The professor looked up with a warm smile. "Yes?"
 
 Leo offered a small, shy smile and a nod in return. The professor's easy acceptance was a small but significant relief.
 
-They returned to their seats just as the class officially began. The professor introduced himself and launched into a review of the syllabus. "This is American Literature, from the Colonial period to the Civil War," he announced. "We'll be exploring a wide range of voices that shaped the early American identity. We'll be starting with the works of Anne Bradstreet and John Smith, moving through the revolutionary fervor of Thomas Paine, delving into the complexities of Nathaniel Hawthorne's *The Scarlet Letter*, and spending significant time with the transcendentalists like Emerson and Thoreau."
+They returned to their seats just as the class officially began. The professor introduced himself and launched into a review of the syllabus. "This is American Literature, from the Colonial period to the Civil War," he announced. "We'll be exploring a wide range of voices that shaped the early American identity. We'll be starting with the works of Anne Bradstreet and John Smith, moving through the revolutionary fervor of Thomas Paine, delving into the complexities of Nathaniel Hawthorne's The Scarlet Letter, and spending significant time with the transcendentalists like Emerson and Thoreau."
 
 Leo listened, a flicker of genuine interest cutting through the fog of his grief. He had always enjoyed history, and this sounded fascinating.
 
@@ -63,11 +63,11 @@ The "get to know you" session moved alphabetically around the small classroom. L
 
 It was his turn. He hoped that what he had typed on his AAC would be good enough. His heart pounded as he took a deep breath and pressed the play button. The clear, synthesized voice filled the quiet classroom.
 
-"HELLO. MY NAME IS LEO PORTER. I AM FROM VIRGINIA BEACH. I LIVE WITH MY TWO SISTERS, STELLA AND LUNA. MY INTERESTS ARE CLASSIC ROCK MUSIC, ESPECIALLY THE BAND ORIGIN, AND COMPUTERS. MY BEST FRIEND LIVES IN WASHINGTON STATE NOW. I MISS HER VERY MUCH. THANK YOU."
+`"HELLO. MY NAME IS LEO PORTER. I AM FROM VIRGINIA BEACH. I LIVE WITH MY TWO SISTERS, STELLA AND LUNA. MY INTERESTS ARE CLASSIC ROCK MUSIC, ESPECIALLY THE BAND ORIGIN, AND COMPUTERS. MY BEST FRIEND LIVES IN WASHINGTON STATE NOW. I MISS HER VERY MUCH. THANK YOU."`
 
 The raw, honest sadness in his final sentences hung in the air for a moment. The professor's kind expression softened with a deep, compassionate understanding. "Thank you, Leo," he said gently. "We're very glad to have you with us." He then looked to Luna. "And... Porter, Luna?"
 
-Luna gave her brother's arm a quick, supportive squeeze before speaking, her own voice clear and warm. "Hi, I'm Luna Porter. As Leo said, we're from Virginia Beach, and I'm his twin. I guess my favorite book is probably *The Stand* by Sebastian Crowe. I also love Origin, and I play the tenor saxophone and the flute".
+Luna gave her brother's arm a quick, supportive squeeze before speaking, her own voice clear and warm. "Hi, I'm Luna Porter. As Leo said, we're from Virginia Beach, and I'm his twin. I guess my favorite book is probably The Stand by Sebastian Crowe. I also love Origin, and I play the tenor saxophone and the flute".
 
 "Excellent," the professor said with a nod, making a note. "A family of musicians, then. Welcome, Luna." He then moved on to the next name on his list, the get-to-know-you session continuing its steady, alphabetical march around the room.
 
@@ -411,7 +411,7 @@ There was a stunned, perfect silence in the living room in Virginia. Leo stared 
 
 "I LOVE YOU TOO."
 
-They hung up, and the silence that filled the room felt vast and empty, but also full of a new, powerful warmth. The call had been a lifeline, and it was a turning point. Across the country, Olivia was left with a profound and unsettling question about the choice she had made. And in the living room on Daniel Maloney Drive, for the first time since their goodbye, Leo felt a fragile, genuine flicker of hope.
+They hung up, and the silence that filled the room felt vast and empty, but also full of a new, powerful warmth. The call had been a lifeline, and it was a turning point. Across the country, Olivia was left with a profound and unsettling question about the choice she had made. And in the living room on Stella's house, for the first time since their goodbye, Leo felt a fragile, genuine flicker of hope.
 
 ## The Tutor
 
@@ -423,7 +423,7 @@ The first few weeks of the fall semester were defined by two competing forces in
 
 True to her word, Delores became his algebra tutor. They met in the college library after his classes, and she was brilliant. She was patient, she was kind, and she had a gift for explaining complex equations in a way that finally made sense to him. For the first time, Leo felt a flicker of academic confidence in a subject he had always feared.
 
-Their study sessions quickly bled into more. Delores was a masterful conversationalist, and she began her "love bombing" campaign with a surgeon's precision. When he mentioned his love for the band Origin, she would feign a deep, lifelong passion, having gone home and done just enough hurried, dial-up research to memorize the names of their most popular 80s hits. She would listen, enraptured, as he typed out stories about his childhood, making him feel seen and understood in a way he desperately craved.
+Their study sessions quickly bled into more. Delores was a masterful conversationalist, and she began her "love bombing" campaign with a surgeon's precision. When he mentioned his love for the band Fractured Prisms, she would feign a deep, lifelong passion, having gone home and done just enough hurried, dial-up research to memorize the names of their most popular 80s hits. She would listen, enraptured, as he typed out stories about his childhood, making him feel seen and understood in a way he desperately craved.
 
 The daily phone calls with Olivia were his lifeline, but they were also a painful reminder of the distance between them. Delores, in contrast, was *here*. She was a tangible presence, a warm body in the seat next to him, and he began to cling to that.
 
@@ -703,7 +703,7 @@ In the back seat, Luna continued to hold her brother, a silent, victorious guard
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
-Pulling into the driveway of the small house on Daniel Maloney Drive felt less like arriving home and more like bringing the tension indoors. The moment the car stopped, Stella and Luna got out to help Leo, the transfer out of the back seat just as awkward as getting in. Delores retrieved her own bag from the trunk and surveyed the house with a critical eye.
+Pulling into the driveway of the small house on Stella's house felt less like arriving home and more like bringing the tension indoors. The moment the car stopped, Stella and Luna got out to help Leo, the transfer out of the back seat just as awkward as getting in. Delores retrieved her own bag from the trunk and surveyed the house with a critical eye.
 
 "It's... small," she commented as they entered. "Are you sure there's room for all of us?"
 
@@ -863,7 +863,7 @@ Leo looked down, avoiding everyone's gaze, clearly uncomfortable being discussed
 
 The air in Stella’s small living room remained thick with the poison Delores had injected. Leo looked pale and withdrawn, his usual quiet composure replaced by a visible tension around his eyes and mouth after the pointed remarks about Stella's guardianship. Luna watched him from the MagnaByte corner, her heart aching. Delores, having asserted her opinion, now patrolled the living room, occasionally making passive-aggressive comments about the "primitive" technology or the "stressful" environment Stella maintained.
 
-Leo seemed to shrink further into himself with each remark. Seeing his distress, that familiar protective urge surged in Luna. This wasn't right. Subtly, almost unconsciously, Luna began to hum. It was a quiet sound, barely audible above the drone of the television Delores had commandeered. The melody was specific, a poignant, brief passage from "Kaleidoscope Sun," the song by Origin that held so much private meaning for her and Leo. It was the flute melody, their signal. She was "Playing the Flute". She watched Leo intently, desperately, willing him to hear it, to recognize the coded message: I’m here, Leo. This feels wrong. Be careful. Remember safety.
+Leo seemed to shrink further into himself with each remark. Seeing his distress, that familiar protective urge surged in Luna. This wasn't right. Subtly, almost unconsciously, Luna began to hum. It was a quiet sound, barely audible above the drone of the television Delores had commandeered. The melody was specific, a poignant, brief passage from "Kaleidoscope Sun," the song by Fractured Prisms that held so much private meaning for her and Leo. It was the flute melody, their signal. She was "Playing the Flute". She watched Leo intently, desperately, willing him to hear it, to recognize the coded message: I’m here, Leo. This feels wrong. Be careful. Remember safety.
 
 But Leo gave no sign of recognition. His gaze remained fixed somewhere between the blaring television and his own lap, his face a carefully blank mask. Delores's poisonous suggestions about Stella, combined with her disdain for their cherished computers and the printer, had him so on edge, so deeply conditioned to tune out anything that might provoke her further, that Luna's subtle hum simply didn't register through the fog of his anxiety and fear. He was, in that moment, "blind" to her signal, his senses overwhelmed by the immediate need to appease Delores and avoid more conflict.
 
@@ -1123,7 +1123,7 @@ Leo stared at the city bus. It was such an ordinary sight, a vessel of routine a
 
 He was not. 
 
-He was thousands of miles away from Daniel Maloney Drive, hurtling further into the unknown with a woman who treated his very existence as a burden she was reluctantly suffering. The accumulation of physical discomfort, Delores’s dismissive sighs every time he needed assistance, and the profound, isolating silence between them suddenly crystallized into a singular, undeniable truth: this relationship wasn't working. 
+He was thousands of miles away from Stella's house, hurtling further into the unknown with a woman who treated his very existence as a burden she was reluctantly suffering. The accumulation of physical discomfort, Delores’s dismissive sighs every time he needed assistance, and the profound, isolating silence between them suddenly crystallized into a singular, undeniable truth: this relationship wasn't working. 
 
 It wasn't just a rough patch, and it wasn't just the stress of travel. It was entirely, fundamentally wrong. 
 
@@ -2441,7 +2441,7 @@ A low, guttural moan escaped his lips. He started rocking violently back and for
 
 But he was not alone. 
 
-Stella, Luna, and Olivia moved instantly, without panic or hesitation. They formed a protective triangle around him. Stella knelt again, placing a steady, grounding hand on his knee, murmuring calm reassurances that cut through his panic. Luna stood beside him, humming that soft, familiar Origin melody he loved, rubbing his back in a slow, steady rhythm. And Olivia stood on his other side, a quiet, unshakeable guardian, her presence a solid wall against the chaos of the busy airport terminal. Together, they created a small, impenetrable island of calm, weathering the storm with him.
+Stella, Luna, and Olivia moved instantly, without panic or hesitation. They formed a protective triangle around him. Stella knelt again, placing a steady, grounding hand on his knee, murmuring calm reassurances that cut through his panic. Luna stood beside him, humming that soft, familiar Fractured Prisms melody he loved, rubbing his back in a slow, steady rhythm. And Olivia stood on his other side, a quiet, unshakeable guardian, her presence a solid wall against the chaos of the busy airport terminal. Together, they created a small, impenetrable island of calm, weathering the storm with him.
 
 Slowly, agonizingly, the peak of the meltdown began to pass. The violent rocking subsided, leaving him slumped in his chair, utterly spent, tears still tracking silently down his face. 
 

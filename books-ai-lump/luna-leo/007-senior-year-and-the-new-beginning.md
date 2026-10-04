@@ -74,7 +74,7 @@ Leo tensed with each kick, his hands stilling on his Quantum Communicator XT. Lu
 
 Leo flinched, a deep flush rising on his neck. He didn't respond, but Luna saw his hand tremble slightly. The physical kicks, combined with the verbal taunts, were clearly taking a toll. Leo’s gaze then darted, almost involuntarily, towards the glowing red EXIT sign, lingering there for a noticeable beat. It was a silent plea, a signal Luna had come to recognize, meaning he felt trapped and wanted to escape.
 
-Luna felt a surge of protective anger. She needed to somehow reach Leo, to offer comfort or a distraction. The melody that came to her mind wasn't a pre-planned signal, but rather a few bars from Origin's "Kaleidoscope Sun" – a song Stella often played, one whose ethereal flute interlude had always felt particularly calming and otherworldly to Luna. But in that moment, music felt like the only language that might cut through Leo's distress without drawing unwanted attention.
+Luna felt a surge of protective anger. She needed to somehow reach Leo, to offer comfort or a distraction. The melody that came to her mind wasn't a pre-planned signal, but rather a few bars from Fractured Prisms' "Kaleidoscope Sun" – a song Stella often played, one whose ethereal flute interlude had always felt particularly calming and otherworldly to Luna. But in that moment, music felt like the only language that might cut through Leo's distress without drawing unwanted attention.
 
 Quietly, under the cover of Ms. Albright's amplified voice detailing financial aid forms and the general hum of the auditorium, Luna turned her head slightly away from Josh's group, as if observing something to her side. She began to hum, very softly, almost under her breath. It wasn’t loud, just a few clear, distinct notes of that searching, almost mystical-sounding flute melody from "Kaleidoscope Sun" – a sound so quiet it would be lost to anyone not sitting directly beside her and specifically attuned to it.
 
@@ -226,7 +226,7 @@ A few minutes later, they were in Luna’s slightly battered but reliable sedan.
 
 **Date:** 2002-09-18 at 16:00 America/New_York
 
-It was a brisk Friday afternoon in mid-November 2002, the end of a long school week for Leo Porter and Olivia Walker. As was often their custom during their senior year at Northwood High, Olivia had come home with Leo and Luna to the Porter house at 1091 Daniel Maloney Drive, Virginia Beach. Their friendship, which had blossomed after Olivia had courageously defended Leo against Josh Riley's bullying earlier in the year, had quickly deepened into a bond of "practically inseparable" best friends. They were currently immersed in a joint presentation for their American Government class, a common focus for their after-school time together.
+It was a brisk Friday afternoon in mid-November 2002, the end of a long school week for Leo Porter and Olivia Walker. As was often their custom during their senior year at Northwood High, Olivia had come home with Leo and Luna to the Porter house at Stella's House, Virginia Beach. Their friendship, which had blossomed after Olivia had courageously defended Leo against Josh Riley's bullying earlier in the year, had quickly deepened into a bond of "practically inseparable" best friends. They were currently immersed in a joint presentation for their American Government class, a common focus for their after-school time together.
 
 They had spread their textbooks and notes across the floor of Leo’s bedroom, the familiar comfort of his space allowing for easy concentration. Luna, after offering some initial input on their project, had retreated to her own room to practice her saxophone, the distant, mellow notes a soft counterpoint to the quiet discussion between Leo and Olivia. Stella was still at her web development job, not expected home until later in the evening, leaving the teenagers to their studious pursuits in the quiet house. Stella and Luna trusted Olivia implicitly; her genuine kindness, her respect for Leo, and the deeply platonic nature of their bond were abundantly clear. Olivia’s frequent presence was a normal, welcome part of their family rhythm.
 
@@ -290,7 +290,7 @@ Leo looked at her, his eyes wide with a mixture of raw fear and dawning relief. 
 
 This was new territory for them – their first time sharing a bed, their first overnight stay. But there was no awkwardness, no romantic tension, only the profound comfort of a deep, trusting, and entirely platonic friendship facing down a shared fear. She held him close, murmuring soft, meaningless reassurances, "It's just noise... it'll pass soon... you're safe in here..." Sometimes she gently spooned him as she put a protective arm around him, her steady presence a shield against the storm's relentless fury. She might have started humming a quiet, tuneless, calming sound, or simply matched her breathing to his, trying to lend him her calm, her warmth. She instinctively knew that her unwavering physical presence was the most potent comfort she could offer.
 
-Another blinding flash of lightning illuminated the room, followed instantaneously by an explosive crack of thunder that seemed to shake the very foundations of 1091 Daniel Maloney Drive. Leo tensed violently, a choked whimper escaping him, his face buried against her shoulder.
+Another blinding flash of lightning illuminated the room, followed instantaneously by an explosive crack of thunder that seemed to shake the very foundations of Stella's house. Leo tensed violently, a choked whimper escaping him, his face buried against her shoulder.
 
 "Shhh, it's alright, Leo," Olivia whispered, holding him a little tighter, her own heart thumping but her voice a steady reassurance. "Just a big noise. See? It passed. We're okay. I'm right here with you." She rubbed his back gently, rhythmically. "Think about something nice. Think about that government presentation we're going to ace. Think about how good Stella's pasta was."
 
@@ -338,7 +338,7 @@ As Stella began to mix pancake batter, the conversation turning to school, the l
 
 **Date:** 2002-09-18 at 17:00 America/New_York
 
-The aroma of Stella’s pancakes soon filled the cozy house at 1091 Daniel Maloney Drive, a cheerful counterpoint to the lingering evidence of the previous night’s fierce thunderstorm outside. Gutters overflowed, and the streets of their Virginia Beach neighborhood showed puddles from the deluge, but inside, a sense of calm and comfortable normalcy prevailed. Leo and Olivia Walker, their earlier nervousness about the "morning after" completely dispelled by Stella and Luna’s easy acceptance, joined the sisters at the kitchen table, the atmosphere light and relaxed.
+The aroma of Stella’s pancakes soon filled the cozy house at Stella's house, a cheerful counterpoint to the lingering evidence of the previous night’s fierce thunderstorm outside. Gutters overflowed, and the streets of their Virginia Beach neighborhood showed puddles from the deluge, but inside, a sense of calm and comfortable normalcy prevailed. Leo and Olivia Walker, their earlier nervousness about the "morning after" completely dispelled by Stella and Luna’s easy acceptance, joined the sisters at the kitchen table, the atmosphere light and relaxed.
 
 "Storm Superhero Friend Olivia definitely gets extra syrup," Luna declared, passing the bottle to Olivia with a grin.
 
@@ -374,7 +374,7 @@ And so, Saturday unfolded with a comfortable, easy rhythm. After breakfast, Leo 
 
 The four of them bundled up and headed out. The short, familiar ten-minute walk through their Virginia Beach neighborhood led them to Olivia’s house at 1944 Livingston Oak Drive. While Olivia quickly packed an overnight bag with pajamas, a couple of changes of clothes for Sunday and for school on Monday, and her toiletries, her parents were still at work. She left them a detailed note.
 
-Bag packed, they walked back to 1091 Daniel Maloney Drive. Later that evening, as Stella was tidying the living room after dinner and their viewing of "Carnival of Cosmic Creeps" (which was as delightfully terrible as Olivia remembered), she quietly picked up the spare pillow and blanket she had left out for Olivia on the sofa the previous night. With a small, knowing smile, she folded them neatly and put them away in the linen closet. It was clear to her, and to Luna, after witnessing their easy companionship all day and the profound comfort Olivia had provided Leo during the storm, that Olivia would be sharing Leo’s room, and his bed, for the remainder of the weekend. Their absolute trust in Olivia, and their deep understanding of the unique, platonic comfort and security she offered Leo, made this an unspoken, naturally accepted arrangement now. They knew Leo would feel safest and sleep best with his steadfast friend nearby.
+Bag packed, they walked back to Stella's house. Later that evening, as Stella was tidying the living room after dinner and their viewing of "Carnival of Cosmic Creeps" (which was as delightfully terrible as Olivia remembered), she quietly picked up the spare pillow and blanket she had left out for Olivia on the sofa the previous night. With a small, knowing smile, she folded them neatly and put them away in the linen closet. It was clear to her, and to Luna, after witnessing their easy companionship all day and the profound comfort Olivia had provided Leo during the storm, that Olivia would be sharing Leo’s room, and his bed, for the remainder of the weekend. Their absolute trust in Olivia, and their deep understanding of the unique, platonic comfort and security she offered Leo, made this an unspoken, naturally accepted arrangement now. They knew Leo would feel safest and sleep best with his steadfast friend nearby.
 
 The rest of Saturday evening passed with comfortable chatter. When bedtime arrived, there was a new level of easy expectation. Olivia, now in her own pajamas, went to Leo’s room. This would be her first time sleeping in his bed in actual pajamas, the previous night having been an unplanned necessity where she'd only removed her shoes. She settled into Leo’s full-sized bed beside him with the same easy, platonic naturalness as before, but this time it felt planned, accepted, and even anticipated by everyone. The comfort of their shared space was paramount. They might have talked quietly for a while. Olivia might have spooned him for a bit, or he might have just leaned his head against her shoulder as they talked, the physical closeness entirely about reassurance and platonic affection.
 
@@ -388,7 +388,7 @@ He smiled in the darkness. With Olivia beside him, safe and sound for the whole 
 
 **Date:** 2002-09-18 at 19:00 America/New_York
 
-Sunday morning at 1091 Daniel Maloney Drive dawned with a quiet, settled peace, the previous day’s planned activities—retrieving Olivia Walker’s gear from her house on Livingston Oak Drive, finishing their Government presentation, and the delightfully terrible "Carnival of Cosmic Creeps" movie night—having cemented the easy rhythm of her weekend stay. Olivia and Leo had woken up comfortable and refreshed, their established platonic bed-sharing a source of quiet security for Leo.
+Sunday morning at Stella's house dawned with a quiet, settled peace, the previous day’s planned activities—retrieving Olivia Walker’s gear from her house on Livingston Oak Drive, finishing their Government presentation, and the delightfully terrible "Carnival of Cosmic Creeps" movie night—having cemented the easy rhythm of her weekend stay. Olivia and Leo had woken up comfortable and refreshed, their established platonic bed-sharing a source of quiet security for Leo.
 
 Stella, ever the early riser and pragmatist, had a plan for the day. "Morning, everyone!" she called cheerfully around 6:30 AM, tapping lightly on Leo’s door where he and Olivia were just starting to stir. "If we want to beat the truly epic Sunday brunch crowds at 'The Sunrise Nook,' we need to be tactical. They open at seven on Holland Road, and their blueberry waffles are legendary, but it gets packed by eight. Operation Early Bird Breakfast is a go!"
 
@@ -398,7 +398,7 @@ The promise of good food was a powerful motivator. Soon, the four of them—Stel
 
 The local BayState Market was already beginning to hum with Sunday shoppers. Stella, list in hand, navigated the aisles with her usual efficiency, while Luna, Leo, and Olivia formed her enthusiastic, if occasionally less organized, support crew. Having Olivia along, with her impressive 6'4" height, was a definite bonus; she could effortlessly reach items on the highest shelves that even Stella sometimes struggled with, often spotting them before anyone else. Her extra pair of hands also helped compare prices and keep Leo’s wheelchair from getting trapped in produce aisle traffic jams. Olivia, completely at ease, naturally fell into the rhythm of their family shopping trips, offering to push the cart or read labels for Stella.
 
-Back at 1091 Daniel Maloney Drive, laden with bags, the task of putting everything away began. Olivia immediately started helping, grabbing cans from a bag. "Where does the tomato soup go, Stella?"
+Back at Stella's house, laden with bags, the task of putting everything away began. Olivia immediately started helping, grabbing cans from a bag. "Where does the tomato soup go, Stella?"
 
 Stella smiled warmly, genuinely touched by her readiness to pitch in. "Olivia, you are an absolute treasure, especially after your top-shelf reconnaissance skills at the market! But honestly, you are our guest. Luna and I can handle this grocery mountain. Why don’t you and Leo go hang out? Enjoy the rest of your Sunday together; you’ve got another whole day before school tomorrow."
 
@@ -446,7 +446,7 @@ Leo grinned and nodded, ready to share more of this cherished part of his world.
 
 **Date:** 2002-09-18 at 20:00 America/New_York
 
-The afternoon sun streamed into Leo’s bedroom at 1091 Daniel Maloney Drive, illuminating dust motes dancing in the air as Luna, Leo, and Olivia Walker continued their exploration of the vintage MagnaByte Opus computers. Luna, with her growing technical savvy, might have been showing Olivia some of the more advanced features of MagnaDraw or how they organized their notes for different classes in MagnaFile. Leo, energized by Olivia’s genuine interest in this technology so vital to him, eagerly typed out explanations and anecdotes in MagnaWriter, the clicky keys a cheerful counterpoint to their conversation.
+The afternoon sun streamed into Leo’s bedroom at Stella's house, illuminating dust motes dancing in the air as Luna, Leo, and Olivia Walker continued their exploration of the vintage MagnaByte Opus computers. Luna, with her growing technical savvy, might have been showing Olivia some of the more advanced features of MagnaDraw or how they organized their notes for different classes in MagnaFile. Leo, energized by Olivia’s genuine interest in this technology so vital to him, eagerly typed out explanations and anecdotes in MagnaWriter, the clicky keys a cheerful counterpoint to their conversation.
 
 The government presentation, their initial focus for the weekend, was now complete, a testament to their collaborative effort. With homework out of the way, the rest of Sunday stretched before them, a welcome expanse of unstructured time.
 
@@ -566,235 +566,6 @@ Stella studied her face for a long moment, searching for any hesitation. Finding
 
 ## A Quiet Evening Promised
 
-### Part 1: A Quiet Evening Promised
-
-**Date:** 2002-09-20 at 19:00 America/New_York
-
-The invitation had come a week before, delivered by Richard Porter during a brief, somewhat stilted phone call to Stella. New Year’s Eve, he’d proposed, could be a quiet family affair at his and Elizabeth’s Virginia Beach home for his seventeen-year-old grandchildren, Luna and Leo. He’d painted a picture of subdued celebration: perhaps a board game or two, some old family movies Stella might remember from her own childhood (though she had few fond memories of such with her own parents), and a selection of special snacks as they all waited to watch the televised ball drop from Times Square. "Just a nice, calm way for them to ring in 2003 with their grandparents," Richard had assured Stella. "Get to know them a bit better, you know. No fuss."
-
-Stella, now twenty-four and the twins’ unwavering guardian, had been hesitant. The relationship with Leo and Luna’s paternal grandparents had always been distant, marked by years of their indifference during David and Karen Porter’s worst periods of neglect, followed by a cautious, very gradual re-establishment of contact after Stella gained custody. Richard and Elizabeth had never been actively malicious like David and Karen, but their passivity and lack of support during the difficult years had left a lingering caution in Stella’s heart. Still, they were family, and Luna and Leo were curious, if wary. Perhaps, Stella thought, a quiet, supervised evening like the one Richard described could be a tentative step towards building some semblance of a broader family connection for the twins. Her maternal grandparents, Arthur and Eleanor Bennett, were a loving constant, but this other side of their heritage remained largely unknown territory.
-
-"Okay, Grandpa," Stella had finally agreed, using the familial term with a practiced neutrality. "That sounds… nice. Luna and Leo would like that. I can drop them off around seven?"
-
-And so, on the chilly evening of December 31, 2002, Stella’s Holt Sentinel pulled up to the curb of Richard and Elizabeth Porter’s neat suburban house in Virginia Beach. The street was quiet, most families likely engaged in their own New Year's Eve preparations. As Luna and Leo got out, Stella gave them both a quick hug. "Call me if you need anything at all, okay? Anything. I’ll be back to get you around one."
-
-"We will, Stel. Thanks," Luna said, offering a small, hopeful smile. Leo nodded, his Quantum Communicator XT ready on his lap.
-
-Richard and Elizabeth met them at the door, their smiles wide and welcoming, almost effusively so. "Luna! Leo! Come in, come in, dears! So glad you could make it!" Elizabeth exclaimed, ushering them inside. The house was tidy, warm, and, most importantly to Stella’s assessing gaze, quiet. There was no blaring music, no sign of other guests, just the low murmur of a pre-show about the Times Square preparations playing on the television in the living room.
-
-"We were just about to break out the checkers championship of the century," Richard announced with a chuckle, gesturing towards a game board already set up on the dining room table. "And your grandmother made her famous seven-layer dip."
-
-"Smells good, Grandma," Luna offered politely.
-
-"Help yourselves, dears. Sodas are in the fridge," Elizabeth said, beaming.
-
-Stella lingered for a few minutes, observing. The Grandparents seemed genuinely pleased to have the twins there, the atmosphere calm and appropriately subdued for a family evening. There were no red flags, nothing to suggest the evening would be anything other than what Richard had promised.
-
-"Alright," Stella said finally, satisfied for the moment. "You kids have a good time. Be good. I'll see you after midnight."
-
-"We will, Stella! Happy New Year, if we don't see you right at twelve!" Luna called out.
-
-With a final wave, Stella departed, leaving Luna and Leo to navigate this tentative family gathering. For the first hour or so after she left, the evening unfolded much as promised. They did play a rather unexciting game of checkers with Richard, who seemed to genuinely try to engage Leo by waiting patiently for his typed moves on the Quantum Communicator XT. Elizabeth brought out the seven-layer dip and some sparkling cider, making polite conversation about their senior year of high school and their plans after graduation. They talked about the upcoming college semester, and Richard and Elizabeth expressed mild, appropriate interest.
-
-Leo and Luna, while still carrying the inherent caution born of their, began to relax, just a fraction. The house was quiet, their grandparents were being attentive in a way that felt almost… normal. Perhaps, Luna thought, this New Year’s Eve wouldn’t be so bad after all. Perhaps this was a genuine attempt by Richard and Elizabeth to connect. Leo, too, allowed a sliver of hope to surface. He even typed out a detailed explanation of his favorite class when Richard asked about school. The quiet rhythm of the evening, the low hum of the television, the desultory conversation – it was all deceptively, peacefully ordinary.
-
-
-![Olivia and Leo resting comfortably in his bed, watching a movie together]({{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg#fullwidth)
-
-### Part 2: The Shift – After Stella Leaves
-
-**Date:** 2002-09-20 at 21:00 America/New_York
-
-For about an hour after Stella’s Holt Sentinel pulled away from the curb, the quiet in Richard and Elizabeth Porter’s Virginia Beach home held. Luna and Leo, both seventeen and navigating the still somewhat unfamiliar territory of their paternal grandparents' company, had politely finished a game of checkers with Richard. Elizabeth had offered them more cookies and another glass of soda, fussing over them in a way that felt slightly performative but not overtly unpleasant. They were just beginning to think that perhaps this New Year’s Eve wouldn't be a complete write-off, that maybe a calm evening watching the television specials was indeed the plan. Leo had even started to relax slightly in his wheelchair, the tension in his shoulders easing as he observed the mundane holiday programming flickering on the screen in the living room.
-
-Then, the doorbell rang.
-
-Richard answered it, his voice suddenly booming with a jovial heartiness that hadn't been present with just Luna and Leo. "Hey, kids! Come on in, the more the merrier!" A small group of teenagers, neighbors Luna and Leo vaguely recognized from the street but didn't know well, trooped in, already laughing loudly. Elizabeth greeted them with an equally enthusiastic welcome, a stark contrast to her earlier, more reserved demeanor with her own grandchildren.
-
-Before Luna or Leo could process this shift, the doorbell rang again. And again. It was as if an invisible signal had gone out. Within twenty minutes, the quiet, grandparently home had transformed. At least a dozen, then closer to twenty unfamiliar teenagers, most appearing to be around their own age or slightly older, filled the living room and spilled into the dining area. The television was abruptly switched off, and someone produced a portable music player with surprisingly powerful speakers. The volume was cranked up immediately, the bass so heavy that Luna could feel it vibrating through the floorboards and up her legs. The walls themselves seemed to thrum with the relentless beat of some popular, driving rock or pop music that was definitely not on Richard and Elizabeth’s usual playlist.
-
-Leo’s hands instinctively went to his ears, though he tried to make the gesture look casual. The sudden, overwhelming noise was a physical assault. He exchanged a wide-eyed, panicked look with Luna. This wasn't just "a few friends dropping by"; this was a full-blown, unplanned teenage party materializing out of nowhere.
-
-Any pretense of a quiet family evening evaporated. Grandpa Richard, far from trying to manage the sudden influx, seemed to be reveling in it. He disappeared into the kitchen and returned with a case of beer, setting it down on the coffee table with a grin. "Help yourselves, kids! Happy New Year!" he announced to the room at large. A cheer went up from several of the newly arrived teens. Soon, cans were being popped open, and someone else emerged from the kitchen with bottles of what looked like hard liquor and mixers, setting up an impromptu bar on the counter.
-
-Grandma Elizabeth, far from intervening, was actually encouraging it. She laughed along with the boisterous teens, refilling bowls of chips, and making no move to question the alcohol being freely distributed and consumed by the underage crowd. She even playfully swatted at a boy who tried to offer her a beer, saying, "Oh, you rascals!" with a dismissive wave, her earlier quiet, grandmotherly persona completely shed. To Luna and Leo, watching in horrified disbelief from their corner of the sofa where they felt increasingly trapped, it was as if their grandparents had undergone a bizarre, Jekyll-and-Hyde transformation the moment Stella was out of sight. The "nice, calm way to ring in the New Year" had become a loud, alcohol-fueled free-for-all, orchestrated by the very adults who were supposed to be ensuring their safety.
-
-### Part 3: Overload and Observation – The Decision Forms
-
-**Date:** 2002-09-20 at 24:00 America/New_York
-
-For Luna and Leo, the sudden transformation of their paternal grandparents' home from a quiet haven into a pulsating, crowded party was an immediate and overwhelming assault. The thumping bass of the music, cranked to a volume that seemed to vibrate the very walls and floorboards, hammered directly into Leo’s skull, a relentless physical pressure. He instinctively tried to shrink into the corner of the sofa where he and Luna had taken refuge, his hands subtly moving towards his ears, though he knew it would do little to block the invasive sound. The living room, moments before spacious and calm, was now a suffocating crush of unfamiliar teenagers – neighbors they barely knew – shouting over the music, their laughter too loud, their movements erratic and unpredictable. Bright, flashing decorative lights someone had produced and plugged in, perhaps in an attempt to create a “party atmosphere,” pulsed erratically, adding to the visual chaos.
-
-Both twins, with their autism, found the unpredictable noise, the close proximity of so many bodies, and the flashing lights intensely difficult to process. Luna felt her chest tighten, her breathing becoming shallower. She could see Leo beside her, his face pale, his eyes wide and darting, trying to take it all in but clearly distressed. This wasn't just a party; it was a sensory minefield.
-
-Offers of alcohol came frequently, delivered with the careless enthusiasm of teenagers reveling in forbidden fruit. "Want a beer? Your grandpa’s cool, he got it for us!" a boy with flushed cheeks slurred, thrusting a can towards Leo. Leo flinched almost imperceptibly, shaking his head firmly. Luna quickly intervened, her voice tight but polite, "No thanks, we don't drink." Each time an offer was made – and it was made often, by different teens pressing cans or plastic cups into their personal space – their refusal was the same: a polite but unyielding "No, thank you." Their inherent wariness, born from years of witnessing their own parents’ destructive relationship with alcohol, was now being amplified by the raw, unpleasant reality unfolding before them.
-
-They became reluctant observers of a scene rapidly spiraling out of adult control, if any control had ever been intended by Richard and Elizabeth. They watched as a normally quiet girl from down the street, emboldened by several quick drinks, became loud and belligerent, her voice shrill as she picked a fight with her boyfriend over some perceived slight. The argument escalated quickly, dissolving into angry, hiccuping sobs as her boyfriend stormed off. Another boy, who had been showing off by chugging beer, suddenly turned a sickly green, his bravado vanishing as he clapped a hand over his mouth and made a desperate, stumbling run for the already occupied bathroom, not quite making it. The acrid smell quickly added another layer to the already overwhelming sensory input.
-
-Laughter that had started as good-natured became too loud, too forced, tinged with an edge of hysteria. Conversations were disjointed, punctuated by shouts and slurred words. Someone knocked over a lamp, the crash barely registering above the din, met only with a burst of drunken giggles. The “loopy” drunks were perhaps the most unsettling – teenagers stumbling, their coordination gone, making foolish, sometimes risky, pronouncements or trying to engage in overly familiar physical contact with anyone nearby. Then there were the emotional ones, like the girl now weeping uncontrollably in a corner, or a boy suddenly declaring undying friendship to a near-stranger with uncomfortable intensity.
-
-Leo, increasingly agitated by the sheer volume, the erratic behavior, and the cloying smell of spilled beer and unwashed bodies, typed urgently on his Quantum Communicator XT, shielding the screen as best he could to show Luna: TOO LOUD. PEOPLE SCARY. WANT STELLA. THIS IS BAD.
-
-Luna read his message, her own face pale and taut with anxiety. The music felt like it was inside her head, the vibrations in her teeth. The flashing lights made her dizzy. The unpredictability of the intoxicated teenagers around them set every nerve on edge. This wasn't just unpleasant; it felt threatening.
-
-Before this night, Luna and Leo had held onto a quiet, almost unacknowledged anticipation. They knew their own parents’ relationship with alcohol was a destructive force. But they also knew their beloved maternal grandparents, Arthur and Eleanor Bennett, occasionally enjoyed a responsible glass of wine with dinner or a celebratory toast. The twins had always trusted Arthur and Eleanor implicitly. They had even imagined, in a distant, abstract way, that perhaps on their own 21st birthdays, in the safety and trusted company of Arthur and Eleanor, they might learn about alcohol responsibly, to understand it as something adults could enjoy without descending into the chaos and neglect they had known. It was a quiet hope for a normal, guided adult experience, a chance to reclaim something their own parents had so thoroughly corrupted.
-
-But the scene at Richard and Elizabeth Porter's house – the irresponsibility of the adults, the out-of-control behavior of their peers, the sheer, ugly reality of so many people, so young, losing themselves to intoxication – brought that nascent hope to a crashing, definitive stop. This experience didn't just confirm their existing wariness; it shattered any lingering curiosity about alcohol. It tainted the very idea of what "adult drinking" could be, associating it now not with Arthur and Eleanor's gentle moderation, but with Richard and Elizabeth's reckless endangerment and the disgusting mess unfolding around them.
-
-In a shared look of misery, revulsion, and absolute resolve, their decision was made, unspoken but profound and unshakeable: *This is horrible. We are NEVER drinking. Not now. Not when we turn 21 with Grandma and Grandpa Bennett. Not ever. Hard Stop.* The party, the noise, the drunkenness, it had all become too much. They had to get out.
-
-### Part 4: The Call for Rescue
-
-**Date:** 2002-09-20 at 18:00 America/New_York
-
-The decision, once made in that silent, shared glance of revulsion between Luna and Leo, was absolute. They had to get out. The thumping bass of the music was a physical assault, vibrating not just the walls but deep within their chests, making coherent thought nearly impossible. The air was thick with the cloying smell of spilled beer, cheap perfume, and teenage sweat. Shouts and shrieks of laughter, amplified by alcohol and the enclosed space, ricocheted around them. For Luna and Leo, both acutely sensitive to sensory input due to their autism, it was a nightmare.
-
-"I'm calling Stella," Luna finally managed to say, her voice a tight whisper that Leo barely caught. He nodded, his eyes wide with a mixture of fear and desperate hope. The idea of navigating through the throng of increasingly uninhibited teenagers to find a phone felt daunting, but staying was unbearable.
-
-Clutching Leo’s arm for balance and courage, Luna began to push her way through the edge of the living room crowd. Leo maneuvered his Quantum Communicator XT carefully, keeping it close, though he knew using it for anything beyond a quick "NEED HELP" message if Luna couldn't get through would be impossible in this din. They were jostled, bumped, and nearly tripped several times by teenagers who were either too drunk to notice them or too self-absorbed to care. The music seemed to get louder, the lyrics unintelligible, just a pounding, disorienting rhythm.
-
-They finally spotted the landline telephone on a small end table in the kitchen, which, while still noisy, was marginally less chaotic than the epicenter of the party in the living room. A couple of teens were rummaging in the refrigerator, pulling out more beer cans provided by Grandpa Richard, but they paid Luna and Leo no mind.
-
-Luna snatched up the receiver, her heart hammering against her ribs. Her hands trembled as she punched in Stella's cell phone number, a sequence she knew by heart. She pressed the receiver hard against her ear, trying to create a seal against the party noise that still pulsed through the kitchen. The dial tone felt agonizingly slow. Then, ringing. Please pick up, Stella, please, please pick up, she prayed.
-
-"Hello?" Stella’s voice, blessedly calm and familiar, finally came through, though it sounded distant and tinny, already fighting the wall of sound from Luna's end.
-
-"Stella?!" Luna almost shouted into the mouthpiece, desperate to be heard over the blare of a particularly loud guitar riff and a fresh wave of whooping from the living room. "Can you *hear* me?!"
-
-"Luna? Is that you? What on earth is all that noise?" Stella's voice crackled back, clearly struggling to discern Luna's words. "It sounds like a riot!"
-
-"Stella, it's a *disaster*!" Luna yelled, her voice cracking with distress, her speech tangling as the words fought to escape over the pounding music. "They *lied*! As soon as you left... all these kids showed up! Grandpa Richard is... giving everyone alcohol! All these teenagers... drunk! The music... so loud... it *hurts* my head! Grandma Elizabeth... she's just letting it happen... she’s even *laughing*! We *have* to get out of here! Please come get us! We can't stay!"
-
-On the other end, through the distorted noise and her sister's frantic, jumbled speech, Stella pieced together the horrifying picture. She might not have caught every single word, but the sheer terror in Luna's voice, the desperate plea, and the key phrases she *could* decipher – "lied," "kids," "alcohol," "loud," "get us" – painted a clear and alarming scenario. Her initial confusion from the noisy call turned instantly to a cold, protective fury. Richard and Elizabeth had deliberately deceived her, endangered her seventeen-year-old siblings, and were irresponsibly facilitating an underage drinking party.
-
-"Luna, I can barely hear you, but I understand!" Stella shouted back into her phone, her own voice now sharp with urgency as she was already grabbing her keys and heading for the door. "I'm on my way! Are you two safe *right now*? Can you get to a room and lock the door, or at least stay together where it's a bit quieter? Don't go back out into that main party area if you can help it!"
-
-Luna glanced around the chaotic kitchen, then back towards the hallway that led to the bedrooms. "I... I think so! Leo's right here with me! We'll try!"
-
-"Okay, good!" Stella’s voice was a lifeline. "I love you both! Just hold on, stay together. I'll be there as fast as I can! Probably about twenty minutes, maybe less. Just stay put and stay safe!"
-
-"Okay! Hurry!" Luna yelled, tears of relief now mixing with her fear. She slammed the receiver down, grabbing Leo's hand again, her own trembling. "She's coming! Stella's coming! She said to find a quiet room and wait!"
-
-Together, they squeezed past the teens still raiding the fridge and made their way down the hallway, the thumping bass of the music pursuing them like a physical force. They found a small guest bedroom that seemed momentarily unoccupied, slipped inside, and Luna quickly, gratefully, clicked the lock on the door, finally creating a small, if temporary, island of relative quiet in the overwhelming storm of their grandparents' disastrous New Year's Eve party.
-
-### Part 5: Extraction and Stella's Quiet Wrath
-
-**Date:** 2002-09-20 at 20:00 America/New_York
-
-The twenty minutes it took Stella to drive from her Virginia Beach house to Richard and Elizabeth Porter’s neighborhood felt like an eternity, her knuckles white on the steering wheel of the Holt Sentinel. The garbled, terrified plea from Luna over the phone, barely audible above the roar of what was clearly an out-of-control party, had sent a jolt of pure adrenaline mixed with icy rage through her. Deception. Endangerment. The sheer, breathtaking irresponsibility of it made her blood boil. She had trusted them, however tentatively, with her seventeen-year-old siblings, based on their promise of a quiet, supervised New Year’s Eve. That trust now felt like a naive folly.
-
-As she pulled up to the curb, several houses down from her paternal grandparents’ home to avoid drawing immediate attention, the scene confirmed her worst fears. Music, a relentless thumping bass, pulsed out from the house, so loud it seemed to shake the very air. Figures moved erratically past the brightly lit windows, and the sounds of shouting and shrill laughter were audible even from the street. There was no mistaking it: this was a full-blown teenage drinking party, and her siblings were trapped in the middle of it.
-
-Stella took a deep, steadying breath, banking her fury into a cold, hard resolve. She got out of the car, her movements economical and purposeful. She walked swiftly towards the house, the chaotic noise growing with every step. The front door was ajar, party sounds spilling out onto the lawn. Without hesitation, Stella pushed it open and stepped inside.
-
-The scene that greeted her was one of utter disarray. The air was thick with the smell of stale beer, cheap sugary mixers, and unwashed teenagers. At least two dozen young people, none of whom looked a day over eighteen, were crammed into the living room and dining area. Some were dancing wildly, others were shouting over the deafening music, a few were slumped on furniture looking dazed or ill, and several were openly swigging from beer cans or red plastic cups. In the center of it all, near the kitchen entryway, Grandpa Richard Porter stood looking flushed and overly jovial, gesturing expansively as he recounted some loud anecdote to a group of clearly intoxicated boys. Grandma Elizabeth was nowhere immediately visible in the main fray.
-
-Stella’s eyes scanned the room, her gaze sharp and missing nothing. She quickly spotted Luna and Leo, huddled together near the coat closet by the front door, looking small, terrified, and immensely relieved to see her. Luna’s face was pale, her eyes wide with fear and a desperate plea. Leo, usually so composed even in difficult situations, looked completely overwhelmed, his hands covering his ears against the auditory assault.
-
-"We're leaving," Stella announced, her voice not raised, yet it cut through a momentary lull in the music with an icy authority that made several nearby teenagers turn and stare. She walked directly towards Luna and Leo.
-
-Richard Porter, finally noticing her, turned, his jovial expression faltering slightly when he saw the look on Stella’s face. "Stella! Back so soon?" he boomed, attempting a hearty welcome that fell completely flat. "The kids are just getting into the New Year's spirit! Having a grand time!"
-
-Elizabeth Porter emerged then from the kitchen, a plate of rapidly dwindling snacks in her hand, a vague, unconcerned smile on her face that faltered when she saw Stella. "Oh, Stella, dear, you didn't have to come back so early. Everything's fine."
-
-"Fine?" Stella repeated, her voice dangerously quiet, each word clipped and precise. She ignored Richard’s bluster and Elizabeth’s platitudes, her gaze sweeping over the room, taking in the underage drinking, the sheer number of unsupervised minors, the clear evidence of alcohol being provided. "Richard, Elizabeth," her tone was now glacially calm, a stark contrast to the inferno raging within her. "I'm taking Luna and Leo home. This," she made a small, contemptuous gesture that encompassed the entire chaotic scene, "is not what was agreed upon. You have deliberately endangered them, and a houseful of other minors, by providing alcohol. This is utterly irresponsible, and frankly, disgusting."
-
-Richard started to bluster, his face reddening. "Now, hold on, Stella, it's New Year's Eve! They're just kids having a bit of fun! Don't be such a spoilsport."
-
-"Fun?" Stella’s eyes narrowed, locking onto him. "Luna and Leo are clearly distressed. This environment is overwhelming and unsafe for them, for *any* of these children. Their definition of fun does not involve getting drunk and being surrounded by others who are. You lied to me, Richard. You both lied about the kind of evening this would be." It was in this moment, seeing their casual dismissal of her siblings' distress, their blatant disregard for the safety of every minor in their house after their explicit promises to her, that the thought first crystallized in Stella's mind, sharp and final: *Elizabitch*. The name felt utterly fitting for the woman who stood by, smiling vaguely, and allowed this travesty.
-
-She didn't voice it, didn't need to. Her expression was enough. She turned pointedly to her siblings, who were already moving towards her, relief flooding their faces. "Luna, Leo, let's go."
-
-Elizabeth, perhaps finally sensing the depth of Stella’s cold fury or the potential repercussions of the situation, made a weak attempt to intervene, her smile now completely gone, replaced by a defensive frown. "You can't just… take them! We're their grandparents!"
-
-"I can, and I am," Stella stated, her voice like ice. She was Luna and Leo’s legal guardian, a fact Richard and Elizabeth often seemed to conveniently forget. "And because of this egregious breach of trust, because you lied to me and willfully put my siblings at risk, consider your already tenuous relationship with Luna and Leo over. You will stay away from them. You will not contact them. This trust is irrevocably broken. Do you understand?" She didn't wait for their sputtering arguments or justifications. She simply turned, placed a protective hand on Luna’s back and another on Leo’s wheelchair handle, and began to usher them towards the front door, a silent, formidable shield against the chaos they were leaving behind.
-
-The party noise seemed to swell around them again as they made their exit, a few curious or drunken teenagers turning to watch the quiet drama unfold. Richard and Elizabeth stood speechless for a moment, stunned by Stella's quiet ferocity or finally registering the potential seriousness of hosting an underage drinking party. Stella didn't look back. Her only concern was getting Luna and Leo out, and ensuring this kind of reckless endangerment by these particular relatives would never happen again. The cool night air outside felt like a blessing.
-
-### Part 6: The Drive Away & A Fitting Finale
-
-**Date:** 2002-09-20 at 22:00 America/New_York
-
-The final hours of December 31, 2002, at Richard and Elizabeth Porter’s Virginia Beach home had devolved into a special kind of nightmare for seventeen-year-old Leo and Luna. The quiet family evening their paternal grandparents had promised to Stella had been a blatant deception. Shortly after Stella’s departure, their grandparents’ house had transformed into a pulsating, out-of-control teenage party, fueled by alcohol Richard Porter himself provided to the underage guests.
-
-For Leo and Luna, both autistic and highly sensitive to sensory input, the scene was an agonizing assault. The music was a thumping, physical force, so loud it hurt. The living room was a suffocating crush of unfamiliar, increasingly intoxicated teenagers shouting, their movements erratic and unpredictable. Flashing decorative lights added to the visual chaos. The cloying smell of spilled beer and teenage sweat was thick in the air. They had watched in horrified disbelief as kids their age got belligerently drunk, argued, became physically ill, and engaged in behaviors that were both unsettling and frightening. Their polite but firm refusals of alcohol were often met with pressure or derision from the other teens.
-
-Trapped and overwhelmed, Luna had finally managed to reach Stella on the phone, her voice a frantic, tangled plea over the din, describing the disaster and begging for rescue. They had taken refuge in a small guest bedroom, locking the door, the thumping bass from the party a menacing heartbeat against their fragile sanctuary, awaiting Stella's arrival.
-
-When Stella’s headlights finally swept across the window of their temporary prison, it felt like a lifeline. Her arrival at the house was swift and decisive. She had cut through the chaos of the party, confronted a blustering Richard and a dismissive Elizabeth with icy fury, and announced she was taking Luna and Leo home immediately. Her words about their deception, endangerment of minors, and the irrevocable breaking of trust had hung in the air, a chilling counterpoint to the party's din.
-
-Now, the cool night air of New Year’s Eve felt like a physical balm as Stella, Luna, and Leo hurried from the oppressive pandemonium of Richard and Elizabeth Porter’s house to the familiar, blessed sanctuary of Stella’s dark blue 2001 Holt Sentinel (Sent). The thumping bass and shrill party noises pursued them down the driveway, a nightmarish soundtrack to their hasty retreat.
-
-But as Stella opened the front passenger door for someone to get in, a figure leaned out from the shadows of the car's interior, a figure Leo and Luna hadn't expected, a figure that shifted the entire landscape of the disastrous evening.
-
-"Need a hand, guys?" a warm, familiar voice asked.
-
-Leo, who was about to be helped into the back seat by Stella, froze mid-transfer, his head snapping up. Luna, already halfway into the back, gasped.
-
-Standing there, leaning out of the passenger seat of Stella’s Sent, was Olivia Walker, her smile a beacon of calm and genuine affection in the disorienting aftermath of the party.
-
-"Olivia!" Luna breathed, a wave of stunned, joyful disbelief washing over her.
-
-Leo stared, his own eyes wide. Olivia. His best friend. Here. Now. The contrast between the suffocating chaos they had just escaped and Olivia’s steady, kind presence was so profound, so unexpected, it felt surreal.
-
-Stella, who had clearly orchestrated this wonderful surprise, offered a small, almost tired, but deeply satisfied smile. "Thought you two could use a friendly face to properly ring in the New Year. Olivia was amazing enough to agree to join our emergency extraction team and subsequent sanity-restoration party."
-
-Olivia stepped out fully, giving Luna a quick, comforting hug before turning her warm gaze to Leo. "Rough night, huh? Don't worry, the real party's just getting started, and it involves way less terrible music and definitely better company." She winked, then instinctively moved to help Stella ensure Leo was comfortably and safely settled in the Sent. Given the night's events, Stella made sure Leo was in the front passenger seat this time for easiest access and comfort, with Olivia and Luna climbing into the spacious back.
-
-As Stella pulled the Sentinel away from the curb, the chaotic noise from Richard and Elizabeth’s house began to fade, replaced by the quiet hum of the engine and the immense, shared relief inside the car. Just as they turned the corner, the distinct flash of blue and red lights sliced through the darkness behind them – two police cruisers, sirens silent, were turning onto the Porters' street, heading directly for the house they had just fled. An annoyed neighbor, it seemed, had made the inevitable call. A grimly satisfied smirk touched Stella's lips; Richard and Elizabeth were about to have their irresponsible festivities officially reckoned with.
-
-But inside the Sent, the focus was entirely on the future, on the hours remaining of New Year’s Eve. Leo turned in his seat as much as he could to look back at Olivia, a wide, shaky smile finally breaking through his earlier tension. The sheer, unexpected joy of her presence, the promise of spending a safe, happy New Year’s Eve with his sisters and his best friend, was an almost overwhelming relief. He reached for his Quantum Communicator XT, his fingers moving with renewed energy.
-
-"OLIVIA! BEST. SURPRISE. EVER!" his communicator declared, the synthesized voice filled with an emotion that was purely Leo. "YOU ARE HERE! DIDN'T KNOW! SO HAPPY!"
-
-Olivia laughed, her own relief for them evident. "Happy to be here, Leo! Wouldn't miss ringing in 2003 with my favorite people for anything. Especially after hearing Stella's SOS call. We’ve got snacks, Stella has some truly terrible old movies, and I believe there's a strict 'no underage drinking parties hosted by irresponsible grandparents' rule in effect for the rest of the night."
-
-Luna, leaning forward from the back, added, "And Olivia’s staying over, Leo! Proper sleepover!"
-
-Leo’s smile, if possible, grew wider. This disastrous New Year’s Eve, which had started with such profound deception and discomfort, was now transforming. The drive away from his paternal grandparents’ house, with Stella at the wheel, Luna’s reassuring presence, and now, the incredible, unexpected gift of Olivia Walker beside him, felt like a truly fitting finale to that awful chapter. The rest of the night, he knew, would be filled with the easy laughter, the comforting companionship, and the deep, platonic trust that defined his friendship with Olivia and his unbreakable bond with his sisters – the perfect, safe, and joyful way to welcome whatever the new year might bring.
-
-### Part 7: A Quiet Countdown, A Noisy Neighborhood
-
-**Date:** 2002-09-20 at 23:00 America/New_York
-
-The quiet sanctuary of Stella’s accessible house at 1091 Daniel Maloney Drive, Virginia Beach, welcomed them like a warm embrace. The moment the front door of the Holt Sentinel closed behind them, sealing out the memory of Richard and Elizabeth Porter’s disastrous party, a collective sigh of profound relief rippled through Stella, Luna, Leo, and Olivia Walker. The chaotic noise, the oppressive atmosphere, the sheer irresponsibility—it all began to recede, replaced by the immediate comfort of safety and trusted company.
-
-"Okay," Stella announced, her voice finally losing its earlier steely edge, softening with weary relief as she locked the front door. "Operation Grandparental Nightmare is officially, and I mean permanently, over. Operation Actual Happy New Year's Eve is now in full effect. Pajamas are mandatory, terrible movies—Luna, you're in charge of selection—and excessive snack consumption is a non-negotiable requirement."
-
-Leo, his earlier terror and sensory overload from the party visibly receding in the familiar safety of home and the calming, joyous presence of Olivia, managed a watery but genuine smile. He typed quickly on his Quantum Communicator XT, his gaze flicking with affection between Olivia and his sisters: "BEST RESCUE MISSION EVER. OLIVIA, YOU ARE A SUPERHERO SIDEKICK. STELLA, YOU ARE THE GENERAL."
-
-Olivia laughed, a bright, genuine sound that helped to dispel the last of the evening's gloom. "Happy to be of service! Though I think Stella’s the real superhero here. I just provided the emergency good company and moral support for the getaway drive." She gave Leo’s arm an affectionate squeeze, a familiar gesture from their near-inseparable senior year friendship, a friendship built on countless shared confidences and mutual understanding.
-
-While Stella started pulling out snacks – chips, soda, perhaps some leftover holiday cookies – and Luna began enthusiastically recounting the full, horrifying details of the party to a wide-eyed Olivia (who listened with the appropriate mixture of shock and sympathetic outrage), Leo felt the exhaustion of the ordeal begin to truly settle in. But it was an exhaustion now profoundly tinged with immense gratitude. Olivia being here, a surprise orchestrated by Stella, transformed the potentially traumatic end to the evening into something hopeful and deeply comforting.
-
-They settled into the living room, the television tuned to the New Year’s Eve broadcasts from Times Square, the volume kept at a comfortable, non-assaulting level. Leo, in his wheelchair, was positioned comfortably. After a moment, Olivia, with the natural ease born of many such evenings, settled onto the floor beside his chair, leaning back against its side, fitting perfectly into their established dynamic of close companionship. Luna curled up on the sofa nearby. Stella joined them, perhaps with a bowl of popcorn, and the four of them watched the distant celebrations, their own quiet gathering feeling infinitely more precious and secure.
-
-They talked, sharing stories, Olivia recounting some amusing anecdotes from her own quieter New Year’s Eve plans before Stella had called with the "emergency extraction" proposal. Leo, more relaxed now, contributed his own witty observations via his communicator, Olivia and Luna laughing easily at his dry humor. The earlier fear and discomfort from his grandparents' house felt a world away, insulated by the warmth, understanding, and shared history within these four walls of 1091 Daniel Maloney Drive.
-
-As midnight approached, the atmosphere grew softer, more reflective. Luna might have dozed off briefly, her head resting on a cushion, the earlier adrenaline spent. Olivia and Leo might have shared a quiet conversation, perhaps about their hopes for the coming year – the looming reality of college applications, Olivia's plans for her out-of-state university, and the bittersweet knowledge that their easy, daily companionship of this senior year would soon change when she moved.
-
-When the countdown from Times Square finally began, they all joined in, their voices a quiet chorus in the cozy living room. "Three... two... one... Happy New Year!"
-
-Stella raised her soda can. "Happy New Year, you amazing humans. May 2003 be significantly less disastrous and filled with much more genuine joy."
-
-They clinked their cans together, laughter bubbling up, the shared ordeal now safely in the past. The distant, muffled sounds of illegal fireworks from the neighborhood briefly punctuated their peace, but within their sanctuary, all was calm.
-
-As the late hour deepened and yawns became more frequent, the unspoken question of sleeping arrangements was answered with the same easy naturalness that characterized Olivia’s presence in their home. This wasn't her first sleepover at the Porters', not by a long shot. Her spending the night, especially when she and Leo were working late on school projects or simply enjoying each other’s company, had become a familiar and welcome routine during their senior year.
-
-After Stella and Luna headed to their respective rooms (Stella to her master bedroom down the small secondary hall , Luna to her own room off the main hall , perhaps after giving Leo and Olivia a sleepy "‘Night, guys! So glad you’re here, Olivia! You’re a lifesaver!"), Leo and Olivia prepared for bed. He completed his nighttime routine in the accessible main bathroom , and when he wheeled into his bedroom at the end of the main hall , Olivia Walker was already there, having changed into the comfortable pajamas she often kept at their house for these occasions.
-
-His full-sized bed, a familiar haven, awaited. There was no awkwardness, no hesitation; this was their established pattern of strictly platonic comfort. Leo transferred from his chair to the bed, and Olivia Walker settled in beside him. Tonight, perhaps more than other nights, the need for that comforting, physical closeness was profound for Leo after the day's earlier stress and sensory assault. They might have talked a little more, soft whispers in the dark about the relief of the evening ending so well, about looking forward to a peaceful New Year's Day.
-
-Then, with an unspoken understanding born of many shared nights of platonic comfort, they settled in. Olivia might have been the big spoon, her arm draped comfortingly over Leo, or they might have lain facing each other, perhaps sharing a final, sleepy hug before turning to find their most comfortable positions. Their physical closeness – the cuddling, the spooning, the gentle hugs – was entirely about providing mutual comfort, security, and reassurance in that present moment. It mirrored the same safe, supportive, non-sexual intimacy Leo shared with Luna and sometimes Stella when he needed extra reassurance. It was a bond of deep trust and affection, devoid of any romantic or sexual tension. The idea of anything beyond this deep, supportive, platonic affection wasn't a consideration for either of them; their friendship was complete and fulfilling in its current, innocent, and deeply trusting form. There was no nudity, only the shared warmth and the quiet rhythm of breathing in the peaceful darkness.
-
-"Goodnight, Leo," Olivia would murmur, her voice sleepy, full of warmth. "Happy New Year, for real this time. So glad Stella called me."
-
-"GOODNIGHT, OLIVIA. HAPPY NEW YEAR," he would type back, his screen a dim glow in the dark before he set the communicator on his nightstand. "SO GLAD YOU'RE HERE. MY BEST FRIEND."
-
-He closed his eyes, the familiar, comforting weight of Olivia beside him, her steady breathing a quiet rhythm in the peaceful room. The chaos of his paternal grandparents’ party, the fear, the sensory overload, all of it receded, replaced by a profound sense of safety, contentment, and gratitude. With Olivia here, sharing this quiet New Year's Eve dawn in the sanctuary of his home, surrounded by the unwavering love of his sisters, Leo felt truly peaceful, ready to face whatever the new year might bring, knowing he wasn't alone.
-
-## Calculus Tutoring
-
 ### Part 1: Calculus Tutoring
 
 **Date:** 2002-09-28 at 12:00 America/New_York
@@ -851,7 +622,7 @@ The moment passed, but Jessica’s confused and clearly exasperated expression l
 
 **Date:** 2002-09-28 at 14:00 America/New_York
 
-Leo was reviewing notes on his Quantum Communicator XT, mentally preparing for his first period class. It was a Purple Day. Luna was still on her way, likely having a quick chat with Mr. Thompson in the band room before the bell. Olivia had mentioned she needed to make a quick stop at her locker and then planned to meet him here by the library so they could walk to their first shared class together. He valued these few quiet moments before the rush.
+Leo was reviewing notes on his Quantum Communicator XT, mentally preparing for his first period class. It was a Purple Day. Luna was still on her way, likely having a quick chat with Mr. Panoff in the band room before the bell. Olivia had mentioned she needed to make a quick stop at her locker and then planned to meet him here by the library so they could walk to their first shared class together. He valued these few quiet moments before the rush.
 
 "Well, hello there, Leo. All by yourself this morning?"
 
@@ -925,7 +696,7 @@ Leo flinched, his hand tensing over his communicator. He hated this feeling – 
 
 Luna, who had been keenly observing the interaction over the top of her music stand, saw it all: Jessica’s aggressive posture, Leo’s distress, and his pointed glance at the exit. Olivia, too, noticed Leo’s discomfort, her gaze sharpening on Jessica.
 
-Luna's fingers, which had been moving through the lyrical melody of her concert piece, almost imperceptibly shifted. The transition was seamless. The notes she played morphed from the classical piece into a few, very soft, breathy bars of the distinctive, searching flute melody from Origin's "Kaleidoscope Sun." It was so quiet, woven so smoothly out of what she had just been playing, that Jessica, still focused intently on Leo with an annoyed frown, likely wouldn't register it as a different tune at all, merely a continuation of Luna’s practice.
+Luna's fingers, which had been moving through the lyrical melody of her concert piece, almost imperceptibly shifted. The transition was seamless. The notes she played morphed from the classical piece into a few, very soft, breathy bars of the distinctive, searching flute melody from Fractured Prisms' "Kaleidoscope Sun." It was so quiet, woven so smoothly out of what she had just been playing, that Jessica, still focused intently on Leo with an annoyed frown, likely wouldn't register it as a different tune at all, merely a continuation of Luna’s practice.
 
 But Leo heard it. His head snapped up from looking at the exit sign, his eyes immediately finding Luna’s. The melody, even played so softly, cut through his anxiety with immediate clarity. It was Luna, offering him that familiar shield, that quiet reassurance. Olivia, catching the subtle shift in the melody and the look that passed between the twins, offered Leo a small, supportive smile.
 
@@ -977,7 +748,7 @@ Their meal finished amidst laughter and excited chatter, the remnants of burgers
 
 As they began to gather their things, Luna, while helping Leo adjust his backpack on his chair, glanced up. Her eyes suddenly narrowed, her posture stiffening almost imperceptibly. Across the now slightly less crowded food court, a familiar figure had just walked in, flanked by a couple of giggling friends: Jessica.
 
-Luna’s internal "JERK ALERT!!" klaxon blared. Instinctively, a defense mechanism honed by past unpleasant encounters involving Jessica’s unwelcome and often mocking attention towards Leo, Luna began to hum, very softly, almost under her breath – the searching, ethereal flute melody from Origin's "Kaleidoscope Sun." It was so quiet, Stella, busy clearing her tray, likely didn't register it.
+Luna’s internal "JERK ALERT!!" klaxon blared. Instinctively, a defense mechanism honed by past unpleasant encounters involving Jessica’s unwelcome and often mocking attention towards Leo, Luna began to hum, very softly, almost under her breath – the searching, ethereal flute melody from Fractured Prisms' "Kaleidoscope Sun." It was so quiet, Stella, busy clearing her tray, likely didn't register it.
 
 Olivia, who had been chatting happily with Leo, caught the tail end of Luna’s soft hum. It was the same faint, almost mystical-sounding wisp of a melody she remembered hearing Luna hum in the assembly a few days before Josh Riley was removed. Her attention sharpened. Then, she noticed Leo’s reaction to the hum: he gave a small, almost imperceptible nod towards Luna, his expression shifting from relaxed anticipation to a more guarded, alert awareness, though his smile for Olivia didn't falter. Olivia didn't understand the specific signal, but she was starting to connect the dots: Luna’s quiet hum often preceded or coincided with Leo having a subtle but definite shift in his demeanor, especially if there was someone unpleasant nearby. She glanced in the direction Luna was subtly watching and saw Jessica, her face already contorting into a familiar sneer as she spotted Leo’s group. *Ah,* Olivia thought with dawning comprehension. *That explains the hum.*
 
@@ -1004,4 +775,151 @@ As they walked towards their auditorium, they heard a commotion erupting from th
 Jessica's frustrated sigh was audible even from where Leo's group paused for a moment near their theater entrance. "Ugh, this is ridiculous! This always happens to me! Some people get all the luck," she grumbled bitterly, shooting a sour, unknowing glance towards the general direction of the departing crowd, which included Stella’s group disappearing into their auditorium. Her plans for an "epic" movie afternoon were clearly ruined.
 
 Luna exchanged a small, almost imperceptible smirk with Leo, who offered a tiny, relieved shrug. Stella simply ushered them into the dim theater, a quiet satisfaction in her expression. Olivia, now with a clearer understanding of Luna's subtle signals and the dynamics at play, gave a small, empathetic smile towards Leo, just happy to be with her friends and about to see the most anticipated movie of the year. The Flute's refrain had served its subtle purpose of shared awareness, and now, a different kind of adventure awaited them on the big screen, secure in the knowledge their seats were guaranteed.
+
+## Calculus Tutoring
+
+### Part 1: A Quiet Evening Promised
+
+**Date:** 2002-12-31 at 19:00 America/New_York
+
+The invitation had come a week before, delivered by Richard Porter during a brief, somewhat stilted phone call to Stella. New Year’s Eve, he’d proposed, could be a quiet family affair at his and Elizabeth’s Virginia Beach home for his seventeen-year-old grandchildren, Luna and Leo. He’d painted a picture of subdued celebration: perhaps a board game or two, some old family movies Stella might remember from her own childhood (though she had few fond memories of such with her own parents), and a selection of special snacks as they all waited to watch the televised ball drop from Times Square. "Just a nice, calm way for them to ring in 2003 with their grandparents," Richard had assured Stella. "Get to know them a bit better, you know. No fuss."
+
+Stella, now twenty-four and the twins’ unwavering guardian, had been hesitant. The relationship with Leo and Luna’s paternal grandparents had always been distant, marked by years of their indifference during David and Karen Porter’s worst periods of neglect, followed by a cautious, very gradual re-establishment of contact after Stella gained custody. Richard and Elizabeth had never been actively malicious like David and Karen, but their passivity and lack of support during the difficult years had left a lingering caution in Stella’s heart. Still, they were family, and Luna and Leo were curious, if wary. Perhaps, Stella thought, a quiet, supervised evening like the one Richard described could be a tentative step towards building some semblance of a broader family connection for the twins. Her maternal grandparents, Arthur and Eleanor Bennett, were a loving constant, but this other side of their heritage remained largely unknown territory.
+
+"Okay, Grandpa," Stella had finally agreed, using the familial term with a practiced neutrality. "That sounds… nice. Luna and Leo would like that. I can drop them off around seven?"
+
+And so, on the chilly evening of December 31, 2002, Stella’s Holt Sentinel pulled up to the curb of Richard and Elizabeth Porter’s neat suburban house in Virginia Beach. The street was quiet, most families likely engaged in their own New Year's Eve preparations. As Luna and Leo got out, Stella gave them both a quick hug. "Call me if you need anything at all, okay? Anything. I’ll be back to get you around one."
+
+"We will, Stel. Thanks," Luna said, offering a small, hopeful smile. Leo nodded, his Quantum Communicator XT ready on his lap.
+
+Richard and Elizabeth met them at the door, their smiles wide and welcoming, almost effusively so. "Luna! Leo! Come in, come in, dears! So glad you could make it!" Elizabeth exclaimed, ushering them inside. The house was tidy, warm, and, most importantly to Stella’s assessing gaze, quiet. There was no blaring music, no sign of other guests, just the low murmur of a pre-show about the Times Square preparations playing on the television in the living room.
+
+"We were just about to break out the checkers championship of the century," Richard announced with a chuckle, gesturing towards a game board already set up on the dining room table. "And your grandmother made her famous seven-layer dip."
+
+"Smells good, Grandma," Luna offered politely.
+
+"Help yourselves, dears. Sodas are in the fridge," Elizabeth said, beaming.
+
+Stella lingered for a few minutes, observing. The Grandparents seemed genuinely pleased to have the twins there, the atmosphere calm and appropriately subdued for a family evening. There were no red flags, nothing to suggest the evening would be anything other than what Richard had promised.
+
+"Alright," Stella said finally, satisfied for the moment. "You kids have a good time. Be good. I'll see you after midnight."
+
+"We will, Stella! Happy New Year, if we don't see you right at twelve!" Luna called out.
+
+With a final wave, Stella departed, leaving Luna and Leo to navigate this tentative family gathering. For the first hour or so after she left, the evening unfolded much as promised. They did play a rather unexciting game of checkers with Richard, who seemed to genuinely try to engage Leo by waiting patiently for his typed moves on the Quantum Communicator XT. Elizabeth brought out the seven-layer dip and some sparkling cider, making polite conversation about their senior year of high school and their plans after graduation. They talked about the upcoming college semester, and Richard and Elizabeth expressed mild, appropriate interest.
+
+Leo and Luna, while still carrying the inherent caution born of their, began to relax, just a fraction. The house was quiet, their grandparents were being attentive in a way that felt almost… normal. Perhaps, Luna thought, this New Year’s Eve wouldn’t be so bad after all. Perhaps this was a genuine attempt by Richard and Elizabeth to connect. Leo, too, allowed a sliver of hope to surface. He even typed out a detailed explanation of his favorite class when Richard asked about school. The quiet rhythm of the evening, the low hum of the television, the desultory conversation – it was all deceptively, peacefully ordinary.
+
+
+![Olivia and Leo resting comfortably in his bed, watching a movie together]({{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg#fullwidth)
+
+### Part 2: The Shift – After Stella Leaves
+
+**Date:** 2002-12-31 at 20:30 America/New_York
+
+For about an hour after Stella’s Holt Sentinel pulled away from the curb, the quiet in Richard and Elizabeth Porter’s Virginia Beach home held. Luna and Leo, both seventeen and navigating the still somewhat unfamiliar territory of their paternal grandparents' company, had politely finished a game of checkers with Richard. Elizabeth had offered them more cookies and another glass of soda, fussing over them in a way that felt slightly performative but not overtly unpleasant. They were just beginning to think that perhaps this New Year’s Eve wouldn't be a complete write-off, that maybe a calm evening watching the television specials was indeed the plan. Leo had even started to relax slightly in his wheelchair, the tension in his shoulders easing as he observed the mundane holiday programming flickering on the screen in the living room.
+
+Then, the doorbell rang.
+
+Richard answered it, his voice suddenly booming with a jovial heartiness that hadn't been present with just Luna and Leo. "Hey, kids! Come on in, the more the merrier!" A small group of teenagers, neighbors Luna and Leo vaguely recognized from the street but didn't know well, trooped in, already laughing loudly. Elizabeth greeted them with an equally enthusiastic welcome, a stark contrast to her earlier, more reserved demeanor with her own grandchildren.
+
+Before Luna or Leo could process this shift, the doorbell rang again. And again. It was as if an invisible signal had gone out. Within twenty minutes, the quiet, grandparently home had transformed. At least a dozen, then closer to twenty unfamiliar teenagers, most appearing to be around their own age or slightly older, filled the living room and spilled into the dining area. The television was abruptly switched off, and someone produced a portable music player with surprisingly powerful speakers. The volume was cranked up immediately, the bass so heavy that Luna could feel it vibrating through the floorboards and up her legs. The walls themselves seemed to thrum with the relentless beat of some popular, driving rock or pop music that was definitely not on Richard and Elizabeth’s usual playlist.
+
+Leo’s hands instinctively went to his ears, though he tried to make the gesture look casual. The sudden, overwhelming noise was a physical assault. He exchanged a wide-eyed, panicked look with Luna. This wasn't just "a few friends dropping by"; this was a full-blown, unplanned teenage party materializing out of nowhere.
+
+Any pretense of a quiet family evening evaporated. Grandpa Richard, far from trying to manage the sudden influx, seemed to be reveling in it. He disappeared into the kitchen and returned with a case of beer, setting it down on the coffee table with a grin. "Help yourselves, kids! Happy New Year!" he announced to the room at large. A cheer went up from several of the newly arrived teens. Soon, cans were being popped open, and someone else emerged from the kitchen with bottles of what looked like hard liquor and mixers, setting up an impromptu bar on the counter.
+
+Grandma Elizabeth, far from intervening, was actually encouraging it. She laughed along with the boisterous teens, refilling bowls of chips, and making no move to question the alcohol being freely distributed and consumed by the underage crowd. She even playfully swatted at a boy who tried to offer her a beer, saying, "Oh, you rascals!" with a dismissive wave, her earlier quiet, grandmotherly persona completely shed. To Luna and Leo, watching in horrified disbelief from their corner of the sofa where they felt increasingly trapped, it was as if their grandparents had undergone a bizarre, Jekyll-and-Hyde transformation the moment Stella was out of sight. The "nice, calm way to ring in the New Year" had become a loud, alcohol-fueled free-for-all, orchestrated by the very adults who were supposed to be ensuring their safety.
+
+### Part 3: Overload and Observation – The Decision Forms
+
+**Date:** 2002-12-31 at 21:00 America/New_York
+
+For Luna and Leo, the sudden transformation of their paternal grandparents' home from a quiet haven into a pulsating, crowded party was an immediate and overwhelming assault. The thumping bass of the music, cranked to a volume that seemed to vibrate the very walls and floorboards, hammered directly into Leo’s skull, a relentless physical pressure. He instinctively tried to shrink into the corner of the sofa where he and Luna had taken refuge, his hands subtly moving towards his ears, though he knew it would do little to block the invasive sound. The living room, moments before spacious and calm, was now a suffocating crush of unfamiliar teenagers – neighbors they barely knew – shouting over the music, their laughter too loud, their movements erratic and unpredictable. Bright, flashing decorative lights someone had produced and plugged in, perhaps in an attempt to create a “party atmosphere,” pulsed erratically, adding to the visual chaos.
+
+Both twins, with their autism, found the unpredictable noise, the close proximity of so many bodies, and the flashing lights intensely difficult to process. Luna felt her chest tighten, her breathing becoming shallower. She could see Leo beside her, his face pale, his eyes wide and darting, trying to take it all in but clearly distressed. This wasn't just a party; it was a sensory minefield.
+
+Offers of alcohol came frequently, delivered with the careless enthusiasm of teenagers reveling in forbidden fruit. "Want a beer? Your grandpa’s cool, he got it for us!" a boy with flushed cheeks slurred, thrusting a can towards Leo. Leo flinched almost imperceptibly, shaking his head firmly. Luna quickly intervened, her voice tight but polite, "No thanks, we don't drink." Each time an offer was made – and it was made often, by different teens pressing cans or plastic cups into their personal space – their refusal was the same: a polite but unyielding "No, thank you." Their inherent wariness, born from years of witnessing their own parents’ destructive relationship with alcohol, was now being amplified by the raw, unpleasant reality unfolding before them.
+
+They became reluctant observers of a scene rapidly spiraling out of adult control, if any control had ever been intended by Richard and Elizabeth. They watched as a normally quiet girl from down the street, emboldened by several quick drinks, became loud and belligerent, her voice shrill as she picked a fight with her boyfriend over some perceived slight. The argument escalated quickly, dissolving into angry, hiccuping sobs as her boyfriend stormed off. Another boy, who had been showing off by chugging beer, suddenly turned a sickly green, his bravado vanishing as he clapped a hand over his mouth and made a desperate, stumbling run for the already occupied bathroom, not quite making it. The acrid smell quickly added another layer to the already overwhelming sensory input.
+
+Laughter that had started as good-natured became too loud, too forced, tinged with an edge of hysteria. Conversations were disjointed, punctuated by shouts and slurred words. Someone knocked over a lamp, the crash barely registering above the din, met only with a burst of drunken giggles. The “loopy” drunks were perhaps the most unsettling – teenagers stumbling, their coordination gone, making foolish, sometimes risky, pronouncements or trying to engage in overly familiar physical contact with anyone nearby. Then there were the emotional ones, like the girl now weeping uncontrollably in a corner, or a boy suddenly declaring undying friendship to a near-stranger with uncomfortable intensity.
+
+Leo, increasingly agitated by the sheer volume, the erratic behavior, and the cloying smell of spilled beer and unwashed bodies, typed urgently on his Quantum Communicator XT, shielding the screen as best he could to show Luna: TOO LOUD. PEOPLE SCARY. WANT STELLA. THIS IS BAD.
+
+Luna read his message, her own face pale and taut with anxiety. The music felt like it was inside her head, the vibrations in her teeth. The flashing lights made her dizzy. The unpredictability of the intoxicated teenagers around them set every nerve on edge. This wasn't just unpleasant; it felt threatening.
+
+Before this night, Luna and Leo had held onto a quiet, almost unacknowledged anticipation. They knew their own parents’ relationship with alcohol was a destructive force. But they also knew their beloved maternal grandparents, Arthur and Eleanor Bennett, occasionally enjoyed a responsible glass of wine with dinner or a celebratory toast. The twins had always trusted Arthur and Eleanor implicitly. They had even imagined, in a distant, abstract way, that perhaps on their own 21st birthdays, in the safety and trusted company of Arthur and Eleanor, they might learn about alcohol responsibly, to understand it as something adults could enjoy without descending into the chaos and neglect they had known. It was a quiet hope for a normal, guided adult experience, a chance to reclaim something their own parents had so thoroughly corrupted.
+
+But the scene at Richard and Elizabeth Porter's house – the irresponsibility of the adults, the out-of-control behavior of their peers, the sheer, ugly reality of so many people, so young, losing themselves to intoxication – brought that nascent hope to a crashing, definitive stop. This experience didn't just confirm their existing wariness; it shattered any lingering curiosity about alcohol. It tainted the very idea of what "adult drinking" could be, associating it now not with Arthur and Eleanor's gentle moderation, but with Richard and Elizabeth's reckless endangerment and the disgusting mess unfolding around them.
+
+In a shared look of misery, revulsion, and absolute resolve, their decision was made, unspoken but profound and unshakeable: *This is horrible. We are NEVER drinking. Not now. Not when we turn 21 with Grandma and Grandpa Bennett. Not ever. Hard Stop.* The party, the noise, the drunkenness, it had all become too much. They had to get out.
+
+### Part 4: The Call for Rescue
+
+**Date:** 2002-12-31 at 21:30 America/New_York
+
+The decision, once made in that silent, shared glance of revulsion between Luna and Leo, was absolute. They had to get out. The thumping bass of the music was a physical assault, vibrating not just the walls but deep within their chests, making coherent thought nearly impossible. The air was thick with the cloying smell of spilled beer, cheap perfume, and teenage sweat. Shouts and shrieks of laughter, amplified by alcohol and the enclosed space, ricocheted around them. For Luna and Leo, both acutely sensitive to sensory input due to their autism, it was a nightmare.
+
+"I'm calling Stella," Luna finally managed to say, her voice a tight whisper that Leo barely caught. He nodded, his eyes wide with a mixture of fear and desperate hope. The idea of navigating through the throng of increasingly uninhibited teenagers to find a phone felt daunting, but staying was unbearable.
+
+Clutching Leo’s arm for balance and courage, Luna began to push her way through the edge of the living room crowd. Leo maneuvered his Quantum Communicator XT carefully, keeping it close, though he knew using it for anything beyond a quick "NEED HELP" message if Luna couldn't get through would be impossible in this din. They were jostled, bumped, and nearly tripped several times by teenagers who were either too drunk to notice them or too self-absorbed to care. The music seemed to get louder, the lyrics unintelligible, just a pounding, disorienting rhythm.
+
+They finally spotted the landline telephone on a small end table in the kitchen, which, while still noisy, was marginally less chaotic than the epicenter of the party in the living room. A couple of teens were rummaging in the refrigerator, pulling out more beer cans provided by Grandpa Richard, but they paid Luna and Leo no mind.
+
+Luna snatched up the receiver, her heart hammering against her ribs. Her hands trembled as she punched in Stella's cell phone number, a sequence she knew by heart. She pressed the receiver hard against her ear, trying to create a seal against the party noise that still pulsed through the kitchen. The dial tone felt agonizingly slow. Then, ringing. Please pick up, Stella, please, please pick up, she prayed.
+
+"Hello?" Stella’s voice, blessedly calm and familiar, finally came through, though it sounded distant and tinny, already fighting the wall of sound from Luna's end.
+
+"Stella?!" Luna almost shouted into the mouthpiece, desperate to be heard over the blare of a particularly loud guitar riff and a fresh wave of whooping from the living room. "Can you *hear* me?!"
+
+"Luna? Is that you? What on earth is all that noise?" Stella's voice crackled back, clearly struggling to discern Luna's words. "It sounds like a riot!"
+
+"Stella, it's a *disaster*!" Luna yelled, her voice cracking with distress, her speech tangling as the words fought to escape over the pounding music. "They *lied*! As soon as you left... all these kids showed up! Grandpa Richard is... giving everyone alcohol! All these teenagers... drunk! The music... so loud... it *hurts* my head! Grandma Elizabeth... she's just letting it happen... she’s even *laughing*! We *have* to get out of here! Please come get us! We can't stay!"
+
+On the other end, through the distorted noise and her sister's frantic, jumbled speech, Stella pieced together the horrifying picture. She might not have caught every single word, but the sheer terror in Luna's voice, the desperate plea, and the key phrases she *could* decipher – "lied," "kids," "alcohol," "loud," "get us" – painted a clear and alarming scenario. Her initial confusion from the noisy call turned instantly to a cold, protective fury. Richard and Elizabeth had deliberately deceived her, endangered her seventeen-year-old siblings, and were irresponsibly facilitating an underage drinking party.
+
+"Luna, I can barely hear you, but I understand!" Stella shouted back into her phone, her own voice now sharp with urgency as she was already grabbing her keys and heading for the door. "I'm on my way! Are you two safe *right now*? Can you get to a room and lock the door, or at least stay together where it's a bit quieter? Don't go back out into that main party area if you can help it!"
+
+Luna glanced around the chaotic kitchen, then back towards the hallway that led to the bedrooms. "I... I think so! Leo's right here with me! We'll try!"
+
+"Okay, good!" Stella’s voice was a lifeline. "I love you both! Just hold on, stay together. I'll be there as fast as I can! Probably about twenty minutes, maybe less. Just stay put and stay safe!"
+
+"Okay! Hurry!" Luna yelled, tears of relief now mixing with her fear. She slammed the receiver down, grabbing Leo's hand again, her own trembling. "She's coming! Stella's coming! She said to find a quiet room and wait!"
+
+Together, they squeezed past the teens still raiding the fridge and made their way down the hallway, the thumping bass of the music pursuing them like a physical force. They found a small guest bedroom that seemed momentarily unoccupied, slipped inside, and Luna quickly, gratefully, clicked the lock on the door, finally creating a small, if temporary, island of relative quiet in the overwhelming storm of their grandparents' disastrous New Year's Eve party.
+
+### Part 5: Extraction and Stella's Quiet Wrath
+
+**Date:** 2002-12-31 at 22:00 America/New_York
+
+The twenty minutes it took Stella to drive from her Virginia Beach house to Richard and Elizabeth Porter’s neighborhood felt like an eternity, her knuckles white on the steering wheel of the Holt Sentinel. The garbled, terrified plea from Luna over the phone, barely audible above the roar of what was clearly an out-of-control party, had sent a jolt of pure adrenaline mixed with icy rage through her. Deception. Endangerment. The sheer, breathtaking irresponsibility of it made her blood boil. She had trusted them, however tentatively, with her seventeen-year-old siblings, based on their promise of a quiet, supervised New Year’s Eve. That trust now felt like a naive folly.
+
+As she pulled up to the curb, several houses down from her paternal grandparents’ home to avoid drawing immediate attention, the scene confirmed her worst fears. Music, a relentless thumping bass, pulsed out from the house, so loud it seemed to shake the very air. Figures moved erratically past the brightly lit windows, and the sounds of shouting and shrill laughter were audible even from the street. There was no mistaking it: this was a full-blown teenage drinking party, and her siblings were trapped in the middle of it.
+
+Stella took a deep, steadying breath, banking her fury into a cold, hard resolve. She got out of the car, her movements economical and purposeful. She walked swiftly towards the house, the chaotic noise growing with every step. The front door was ajar, party sounds spilling out onto the lawn. Without hesitation, Stella pushed it open and stepped inside.
+
+The scene that greeted her was one of utter disarray. The air was thick with the smell of stale beer, cheap sugary mixers, and unwashed teenagers. At least two dozen young people, none of whom looked a day over eighteen, were crammed into the living room and dining area. Some were dancing wildly, others were shouting over the deafening music, a few were slumped on furniture looking dazed or ill, and several were openly swigging from beer cans or red plastic cups. In the center of it all, near the kitchen entryway, Grandpa Richard Porter stood looking flushed and overly jovial, gesturing expansively as he recounted some loud anecdote to a group of clearly intoxicated boys. Grandma Elizabeth was nowhere immediately visible in the main fray.
+
+Stella’s eyes scanned the room, her gaze sharp and missing nothing. She quickly spotted Luna and Leo, huddled together near the coat closet by the front door, looking small, terrified, and immensely relieved to see her. Luna’s face was pale, her eyes wide with fear and a desperate plea. Leo, usually so composed even in difficult situations, looked completely overwhelmed, his hands covering his ears against the auditory assault.
+
+"We're leaving," Stella announced, her voice not raised, yet it cut through a momentary lull in the music with an icy authority that made several nearby teenagers turn and stare. She walked directly towards Luna and Leo.
+
+Richard Porter, finally noticing her, turned, his jovial expression faltering slightly when he saw the look on Stella’s face. "Stella! Back so soon?" he boomed, attempting a hearty welcome that fell completely flat. "The kids are just getting into the New Year's spirit! Having a grand time!"
+
+Elizabeth Porter emerged then from the kitchen, a plate of rapidly dwindling snacks in her hand, a vague, unconcerned smile on her face that faltered when she saw Stella. "Oh, Stella, dear, you didn't have to come back so early. Everything's fine."
+
+"Fine?" Stella repeated, her voice dangerously quiet, each word clipped and precise. She ignored Richard’s bluster and Elizabeth’s platitudes, her gaze sweeping over the room, taking in the underage drinking, the sheer number of unsupervised minors, the clear evidence of alcohol being provided. "Richard, Elizabeth," her tone was now glacially calm, a stark contrast to the inferno raging within her. "I'm taking Luna and Leo home. This," she made a small, contemptuous gesture that encompassed the entire chaotic scene, "is not what was agreed upon. You have deliberately endangered them, and a houseful of other minors, by providing alcohol. This is utterly irresponsible, and frankly, disgusting."
+
+Richard started to bluster, his face reddening. "Now, hold on, Stella, it's New Year's Eve! They're just kids having a bit of fun! Don't be such a spoilsport."
+
+"Fun?" Stella’s eyes narrowed, locking onto him. "Luna and Leo are clearly distressed. This environment is overwhelming and unsafe for them, for *any* of these children. Their definition of fun does not involve getting drunk and being surrounded by others who are. You lied to me, Richard. You both lied about the kind of evening this would be." It was in this moment, seeing their casual dismissal of her siblings' distress, their blatant disregard for the safety of every minor in their house after their explicit promises to her, that the thought first crystallized in Stella's mind, sharp and final: *Elizabitch*. The name felt utterly fitting for the woman who stood by, smiling vaguely, and allowed this travesty.
+
+She didn't voice it, didn't need to. Her expression was enough. She turned pointedly to her siblings, who were already moving towards her, relief flooding their faces. "Luna, Leo, let's go."
+
+Elizabeth, perhaps finally sensing the depth of Stella’s cold fury or the potential repercussions of the situation, made a weak attempt to intervene, her smile now completely gone, replaced by a defensive frown. "You can't just… take them! We're their grandparents!"
+
+"I can, and I am," Stella stated, her voice like ice. She was Luna and Leo’s legal guardian, a fact Richard and Elizabeth often seemed to conveniently forget. "And because of this egregious breach of trust, because you lied to me and willfully put my siblings at risk, consider your already tenuous relationship with Luna and Leo over. You will stay away from them. You will not contact them. This trust is irrevocably broken. Do you understand?" She didn't wait for their sputtering arguments or justifications. She simply turned, placed a protective hand on Luna’s back and another on Leo’s wheelchair handle, and began to usher them towards the front door, a silent, formidable shield against the chaos they were leaving behind.
+
+The party noise seemed to swell around them again as they made their exit, a few curious or drunken teenagers turning to watch the quiet drama unfold. Richard and Elizabeth stood speechless for a moment, stunned by Stella's quiet ferocity or finally registering the potential seriousness of hosting an underage drinking party. Stella didn't look back. Her only concern was getting Luna and Leo out, and ensuring this kind of reckless endangerment by these particular relatives would never happen again. The cool night air outside felt like a blessing.
 

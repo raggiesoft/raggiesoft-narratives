@@ -11,7 +11,7 @@ series: "Luna and Leo"
 
 **Date:** 2000-09-05 at 07:00 America/New_York
 
-The alarm clock on Stella’s bedside table buzzed, a rude interruption to the quiet peace of 1091 Daniel Maloney Drive. Stella Porter, now twenty-one and entering her second full year as legal guardian to her twin siblings, hit the snooze button with a practiced slap. She didn't need the extra nine minutes to sleep; she needed them to mentally run the checklist.
+The alarm clock on Stella’s bedside table buzzed, a rude interruption to the quiet peace of Stella's house. Stella Porter, now twenty-one and entering her second full year as legal guardian to her twin siblings, hit the snooze button with a practiced slap. She didn't need the extra nine minutes to sleep; she needed them to mentally run the checklist.
 
 **Day:** Tuesday.
 
@@ -267,9 +267,9 @@ The bell for the start of second period rang, a shrill, dividing line that offic
 
 The Band Room was a sanctuary of controlled noise, located in the far reaches of the Fine Arts wing, physically isolated from the academic main building to keep the sound of drums and brass from bleeding into English classes.
 
-Leo rolled into the percussion section, a kingdom of rhythm in the back corner. He parked his wheelchair next to his assigned instrument: a concert xylophone that Mr. Thompson, the band director, had specifically modified. The stand had been lowered just enough for Leo’s knees to clear the undercarriage, allowing him to pull right up to the keys.
+Leo rolled into the percussion section, a kingdom of rhythm in the back corner. He parked his wheelchair next to his assigned instrument: a concert xylophone that Mr. Panoff, the band director, had specifically modified. The stand had been lowered just enough for Leo’s knees to clear the undercarriage, allowing him to pull right up to the keys.
 
-"Alright, percussion! Let's wake up!" Mr. Thompson called out from the podium, raising his baton. "Scales. B-flat concert. Ready... and!"
+"Alright, percussion! Let's wake up!" Mr. Panoff called out from the podium, raising his baton. "Scales. B-flat concert. Ready... and!"
 
 Leo picked up his mallets. In this room, his disability felt less like a cage. His legs didn't work, but his arms—strengthened by years of wheelchair use—were precise and powerful.
 
@@ -742,11 +742,11 @@ After another brief, fruitless exchange where the salesperson seemed unable or u
 
 ### Part 4: Lunch Break
 
-**Date:** 2000-10-14 at 09:00 America/New_York
+**Date:** 2000-10-14 at 13:30 America/New_York
 
 "Alright," Arthur said, clapping Stella gently on the shoulder as they got back into his car. "I think we both need a break and some lunch before we try the Holt place. My treat."
 
-They found a quiet local diner nearby. As they waited for their sandwiches, Stella sighed. "Is it always like this, Grandpa? They just wouldn't talk about a cash price!"
+They found a Penny's down the street. As they waited for their square burgers and fries, Stella sighed. "Is it always like this, Grandpa? They just wouldn't talk about a cash price!"
 
 Her grandfather chuckled softly. "Often, sweetheart. Especially these days when financing is such a huge profit driver, just like I warned you. See, running Keystone Motors of Middletown for thirty-five years, I learned you have to train your sales team. Because I didn't need the money from the dealership – I was already doing well with other investments – I taught my team that customer service was more important than being pushy. Some managers today just focus only on maximizing profit per unit through finance and insurance products, not just moving inventory with a fair cash deal. They figure if they keep you focused on that low monthly number, wear you down, you'll eventually agree just to escape."
 
@@ -876,7 +876,7 @@ The incident cast a brief shadow, a reminder of the boundaries they needed, but 
 
 ### Part 3: The Narc Special
 
-**Date:** 2000-10-14 at 18:00 America/New_York
+**Date:** 2000-10-16 at 07:10 America/New_York
 
 The following Monday morning, the reality of Stella’s purchase hit the Northwood High drop-off loop with the subtlety of a sledgehammer.
 
@@ -922,7 +922,7 @@ She got back into the driver’s seat, the heavy door sealing her in. As she pul
 
 ### Part 4: The Clinic Hand-Off
 
-**Date:** 2000-10-14 at 14:00 America/New_York
+**Date:** 2000-10-16 at 07:15 America/New_York
 
 The interior of Northwood High School smelled of floor wax and teenage anxiety. Built in 1992, the building was technically compliant with the federal laws of the time—there was an elevator in the academic wing, and the doors were wide enough for a wheelchair—but it was designed for a world that still preferred to keep students like Leo slightly separate.
 
@@ -970,7 +970,7 @@ She hoisted her backpack higher on her shoulder, the weight feeling heavier with
 
 ### Part 5: Range of Motion
 
-**Date:** 2000-10-14 at 16:00 America/New_York
+**Date:** 2000-10-16 at 07:22 America/New_York
 
 Luna finished adjusting the waistband of her black athletic shorts and tugged at her comfortable, oversized grey cotton tee. Relieved to be done with the frantic change-out, she grabbed her water bottle and headed for the exit.
 
@@ -1158,17 +1158,17 @@ Almost immediately, Arthur's voice came over the walkie-talkie. "Stay left, Stel
 
 ### Part 2: Mystic Stopover
 
-**Date:** 2001-04-09 at 14:00 America/New_York
+**Date:** 2001-04-09 at 18:00 America/New_York
 
-The Sentinel proved its worth on the rest of the long drive north, navigating the Garden State Parkway, the Thruway, the Tappan Zee, I-287, and the scenic but sometimes narrow Merritt Parkway before connecting via US-7 South back to I-95. While Mystic, Connecticut wasn't quite the halfway point (that would’ve been New Jersey), Arthur had suggested an overnight stop there for a specific reason. "It's a long haul, especially for your first big trip in the new car, Stella," he'd said when planning. "Why don't we spend the night in Mystic and take the twins to the Aquarium in the morning? It'll be a nice break for everyone before we hit Rhode Island."
+The Sentinel proved its worth on the rest of the long drive north, navigating the Garden State Parkway, the Thruway, the Tappan Zee, I-287, and the scenic but sometimes narrow Merritt Parkway before connecting via US-7 South back to I-95. While Mystic, Connecticut wasn't quite the halfway point (that would’ve been New Jersey), Arthur had suggested an overnight stop there for a specific reason. 
 
-Stella readily agreed, knowing the twins would enjoy the aquarium and appreciating the chance to break up her first long-distance drive in the bigger vehicle. After checking into a conveniently located motel just off I-95 the previous evening, they woke refreshed and headed to the aquarium first thing. Navigating the parking lot and entrance with Leo's wheelchair was straightforward, and the accessible design of the aquarium made getting around easy.
+"It's a long haul, especially for your first big trip in the new car, Stella," he'd said when planning. "Why don't we spend the night in Mystic and take the twins to the Coastal Wonders Marine Center in the morning? It'll be a nice break for everyone before we hit Rhode Island."
 
-The twins were immediately captivated. Leo parked his chair right up against the glass of the main fish tanks, watching mesmerized as colorful schools of fish darted past. Luna was fascinated by the playful penguins, laughing at their waddling walks and sleek dives into the water. The highlight for everyone, however, was the Arctic Coast exhibit featuring the beluga whales. They watched the large, graceful white whales glide through the cool water, their haunting calls echoing slightly in the viewing area. Leo typed "SO BIG" on his AAC device, his eyes wide with wonder. Stella found herself just as enthralled, enjoying the simple pleasure of watching the twins experience something new and exciting together. Even Arthur and Eleanor seemed relaxed, pointing out different sea creatures and sharing the moment. It was a perfect, lighthearted break before the more emotionally charged part of their trip back to Rhode Island. After a couple of enjoyable hours exploring the exhibits, they headed back to the cars, the Senteasily accommodating Leo's chair in the trunk once more.
+Stella readily agreed, knowing the twins would enjoy the marine center and appreciating the chance to break up her first long-distance drive in the bigger vehicle. After miles of highway driving, pulling off I-95 and checking into a conveniently located, accessible motel felt like a major accomplishment. 
+
+They got Leo settled into the room, stretching their legs after the long hours on the road. The twins were buzzing with the anticipation of seeing the beluga whales the next morning, making the motel stay feel like a mini-vacation before they even reached their final destination.
 
 ### Part 3: The Newport Expressway
-
-**Date:** 2001-04-09 at 16:00 America/New_York
 
 Refreshed from their aquarium visit, the convoy merged back onto I-95 North, crossing the border into Rhode Island. The trees seemed to get a little denser, the air a little saltier.
 
@@ -1232,8 +1232,6 @@ Stella carefully executed the turns. "Okay, on East Main."
 
 ### Part 4: Ghosts of Keystone Motors of Middletown
 
-**Date:** 2001-04-09 at 11:00 America/New_York
-
 Stella slowed the car, pulling towards the shoulder. Luna and Leo looked. Where the iconic "Keystone Motors of Middletown" sign should have been, there was nothing but an empty facade. The building itself looked vacant, undergoing renovation. The large showroom windows were dark or papered over. The sprawling lot where rows of new Holts once gleamed sat empty, save for a few construction vehicles. It wasn't just that Keystone Motors of Middletown was gone – the national chain that bought it, the one that had abandoned Arthur's customer service principles, was gone too. It wasn't even a Holt dealership anymore.
 
 A large banner stretched across the front of the quiet building read: "Coming Soon: BayState Market – Your Neighborhood Food Store!"
@@ -1245,8 +1243,6 @@ After a long moment, Arthur’s voice, heavy with resignation, came back. "Well.
 He didn't say anything more as Stella sat there for another moment, the ghost of "There’s only one choice: Keystone Motors!" seeming to hang silently in the air, soon to be replaced by the promise of weekly grocery specials. The sight was a stark confirmation of his fears realized – the legacy he built, sold, and then saw decline into corporate greed had now vanished entirely, making way for something utterly unrelated.
 
 ### Part 5: A Colossal Good Distraction
-
-**Date:** 2001-04-09 at 13:00 America/New_York
 
 "Okay, Stella," Arthur's voice came back, shaking off the melancholy. "Let's turn around here when it's safe. We'll head back and make a left onto West Main Road, heading south again."
 
@@ -1285,8 +1281,6 @@ Luna and Leo exchanged puzzled glances. "Colossal Cooler?" Luna repeated hesitan
 He gestured enthusiastically towards the counter, eager to share this piece of local flavor, a sweet counterpoint to the bittersweet taste of memory lane. Stella smiled, grateful for the shift in mood, and ushered the twins towards the counter, ready for their Colossal Cooler initiation.
 
 ### Part 6: The Jingle and the Mansions
-
-**Date:** 2001-04-09 at 15:00 America/New_York
 
 As they finished the last delicious, icy sips of their Colossal Coolers back at the booth, Luna spoke up, voicing the question that had been lingering since the worker's comment. "Grandpa," she asked, "that man... and you at the dealership earlier... you both mentioned that jingle, 'There’s only one choice: Keystone Motors!'. What did it sound like?" Leo nodded eagerly, and even Stella leaned forward, curious to finally hear the tune her grandfather was so known for.
 
