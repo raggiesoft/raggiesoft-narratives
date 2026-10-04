@@ -1463,6 +1463,8 @@ On the other end, all three women heard it. The sheer, naked happiness in that s
 
 ### Part 4: The Longest Hour
 
+**Date:** 2003-11-26 at 06:00 America/Los_Angeles
+
 The line clicked, and Olivia's voice was gone, replaced by the quiet, hollow hum of the open connection. Leo was still holding the receiver, his knuckles white. The TTY screen blinked back to life with the operator's sterile text.
 
 (OPERATOR IS TYPING) 3RD PARTY DISCONNECTED. DO YOU WISH TO CONTINUE YOUR CALL? GA
@@ -1544,6 +1546,8 @@ The phone clearly transmitted the sound of Leo's raw, wordless cries of pure rel
 "I've got him, Stella," Olivia promised, leaning against the locked door of their temporary sanctuary. "I'm bringing him home."
 
 ### Part 5: Sanctuary in a Sterile Room
+
+**Date:** 2003-11-26 at 07:15 America/Los_Angeles
 
 The family restroom was a small, sterile, and blessedly quiet haven. The heavy door was locked, silencing the chaotic hum of the airport terminal. For the first time in days, Leo was in a private space with someone he trusted completely. The relief was so profound it was almost painful.
 
