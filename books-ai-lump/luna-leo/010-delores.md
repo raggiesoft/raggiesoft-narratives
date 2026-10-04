@@ -1983,6 +1983,8 @@ With that, the final piece of the plan was in place. Olivia settled back into he
 
 ### Part 15: A Longing for Simplicity
 
+**Date:** 2003-11-26 at 13:30 America/Los_Angeles
+
 The ascent was smooth, and soon the plane leveled off at cruising altitude. A chime echoed through the cabin, and the captain's voice came over the intercom, announcing that it was now safe to use approved portable electronic devices.
 
 For Leo, this was the moment he had been waiting for. Olivia, without needing to be asked, reached under the seat in front of her and pulled out her laptop bag. She placed the slightly bulky computer on Leo’s tray table and powered it on.
