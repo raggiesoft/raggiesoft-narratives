@@ -1,11 +1,11 @@
 ---
-title: "Delores"
+title: "Safe Harbor, Stark Reality"
 series: "luna-leo"
 ---
 
-# Delores
+# Safe Harbor, Stark Reality
 
-## The Emotional Vacuum
+## Safe Harbor, Stark Reality
 
 ### Part 1: Safe Harbor, Stark Reality
 
@@ -341,7 +341,7 @@ Exhausted but content, the four of them convened once more in Stella's bedroom. 
 
 A sleepy groan came from Luna, but Olivia just chuckled softly. Leo just snuggled deeper between Luna and Olivia, a small, contented sigh escaping him. Safe, loved, and finally home, surrounded by his entire protective circle, he drifted off to sleep almost instantly, the promise of new clothes and a haircut a pleasant thought, but secondary to the profound peace of simply being right where he belonged.
 
-## The Web
+## A Change of Plans
 
 ### Part 1: A Change of Plans
 
@@ -745,7 +745,7 @@ The new bed was just as soft and welcoming as they remembered from the store. Af
 
 He didn't need to type a reply. He simply leaned into her platonic embrace, a deep, contented sigh escaping him. The nightmares felt a world away. Here, in this new bed, in this new room, with his best friend holding him safe and refusing to leave his side even for a moment, he was finally, truly, peacefully home.
 
-## Sibling Weekend
+## The First Morning
 
 ### Part 1: The First Morning
 
@@ -1013,7 +1013,7 @@ While they worked, Stella assembled the evidence. She printed the invoice for th
 
 By the time they finished, the table was covered in a meticulous collection of evidence to support both a civil lawsuit and a criminal complaint: Olivia's witness statement, Leo's harrowing testimony, and a clear paper trail of the financial costs. Stella organized it all into a neat, labeled folder. She was ready. She didn't know if Delores was still in Washington, on a bus back to Virginia, or hiding somewhere else. It didn't matter. She would find her.
 
-## Westward Ho!
+## Assembling the Fortress
 
 ### Part 1: Assembling the Fortress
 
@@ -1157,7 +1157,7 @@ Acting as his conservator, she navigated to the supplier's website, entered the 
 
 Leo watched her, a profound sense of relief and gratitude washing over him. He wasn't just getting his voice back. With the support of his fortress, he was building a new one—stronger, more capable, and more powerful than ever before.
 
-## Homecoming
+## A New Language of Home
 
 ### Part 1: A New Language of Home
 
@@ -1825,7 +1825,7 @@ An hour later, Leo was finally where he wanted to be. He was in his own bed—th
 
 He was no longer a guest in a five-star hotel. He was the king in his own castle, co-ruler of a sanctuary built just for him. The sounds and smells were familiar, the bed was theirs, and he felt a profound sense of security settle deep into his bones. The luxury had been wonderful, but this? This was home. And it was perfect.
 
-## Chapter 6
+## The Morning After
 
 ### Part 1: The Morning After
 
@@ -1977,7 +1977,7 @@ In their shared bedroom, with its deep blue accent wall, Olivia helped Leo get r
 
 He was surrounded by the evidence of his family's love: the new paint on the walls, the gifts from his new Canadian family, and most importantly, the unwavering presence of his *ma blonde* right beside him. The shadow of his fear, the memory of Delores, was still there, but tonight it felt very, very far away. He drifted off to sleep, not to the sound of crashing waves at a grand hotel, but to the quiet, familiar, and infinitely more comforting sound of his best friend's steady breathing.
 
-## Chapter 7
+## A Day of Quiet
 
 ### Part 1: A Day of Quiet
 
@@ -2121,7 +2121,7 @@ A moment later, Luna stirred, rolling onto her side to face him. Her eyes flutte
 
 Olivia looked on, a sense of awe washing over her. She had just witnessed something sacred, a testament to a bond forged in years of shared experience she could only begin to imagine. It was a powerful, humbling lesson. She had always seen herself as Leo's protector, but in that moment, she understood that Luna and Leo had their own language of safety, a way of grounding each other that had been perfected in countless dark nights long before she had ever entered their lives. She was a vital part of his fortress, yes, but the foundation had always been, and would always be, the unbreakable connection between the two of them.
 
-## Chapter 8
+## The Day in Court
 
 ### Part 1: The Day in Court
 

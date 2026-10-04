@@ -1,11 +1,11 @@
 ---
-title: "The Commitment of Leo and Olivia"
+title: "The Iron Point Transfer"
 series: "luna-leo"
 ---
 
-# The Commitment of Leo and Olivia
+# The Iron Point Transfer
 
-## A New Name, A New Beginning
+## The Weapon
 
 ### Part 1: The Weapon
 
@@ -517,7 +517,7 @@ Stella looked at them. She saw the fragility in their frames—the way Arthur’
 
 "Okay," Stella whispered. "We'll book six seats. The whole Fortress."
 
-## The Eighteenth of September
+## The Iron Link
 
 ### Part 1: The Iron Link
 
@@ -1672,7 +1672,7 @@ They ate. The chowder was rich, the lobster was tender, and the company was perf
 
 Outside, the city of Braxton was shutting down, buried under two feet of snow. But inside Room 101, the Porter-Walker family was warm, fed, and ready for the future. They had planted their flag. Now, they just had to wait for the snow to melt so they could start digging.
 
-## Chapter 3
+## The Orange Army
 
 ### Part 1: The Orange Army
 
@@ -1752,7 +1752,7 @@ Leo’s eyes lit up. He grabbed his wheels.
 
 "Suit up," Stella commanded. "Light jackets only. It's seventy degrees underground."
 
-### Part 2
+### Part 2: Part 2
 
 location: "Unknown"
 end_time: ""
@@ -2614,7 +2614,7 @@ She placed the urn in the front passenger seat and buckled the seatbelt around i
 
 They drove out of the station, the headlights cutting through the Virginia night, heading home to pack up the past so they could finally live in the future.
 
-## Chapter 4
+## The Transfer of Power
 
 ### Part 1: The Transfer of Power
 
@@ -3056,7 +3056,7 @@ The train whistle blew—a loud, triumphant chord. The car lurched gently.
 
 The train pulled out of the station, leaving the ARTS-Box, the humidity, and the past behind in a cloud of diesel smoke. They were northbound.
 
-## Chapter 5
+## The Landing
 
 ### Part 1: The Landing
 
@@ -3755,7 +3755,7 @@ Leo looked at the layers of defense.
 
 "Complete," Stella agreed, pocketing her drill. "Now let's go inside. I think it's time to make some coffee milk."
 
-## Chapter 6
+## The Ticket Kiosk
 
 ### Part 1: The Ticket Kiosk
 
@@ -4435,7 +4435,7 @@ They ate. The stuffies were spicy and briny. The johnnycakes were crisp and eart
 
 It was their first meal in the Fortress. They weren't visitors anymore. They were Rhode Islanders. And they were home.
 
-## Chapter 7
+## The Official Stamp
 
 ### Part 1: The Official Stamp
 
@@ -5079,7 +5079,7 @@ Stella massaged her wrists. "Approved. Build it strong, Leo. Because these books
 
 Leo looked at his chair. It was a great machine, but it was incomplete. Tomorrow, he would finish it.
 
-## Chapter 8
+## The Ferry and the Fortress
 
 ### Part 1: The Ferry and the Fortress
 

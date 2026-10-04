@@ -1,11 +1,11 @@
 ---
-title: "The Great North American Excursion"
+title: "The Delores Nightmare"
 series: "luna-leo"
 ---
 
-# The Great North American Excursion
+# The Delores Nightmare
 
-## A Bittersweet Beginning
+## A Grieving Start
 
 ### Part 1: A Grieving Start
 
@@ -393,7 +393,7 @@ There was a stunned, perfect silence in the living room in Virginia. Leo stared 
 
 They hung up, and the silence that filled the room felt vast and empty, but also full of a new, powerful warmth. The call had been a lifeline, and it was a turning point. Across the country, Olivia was left with a profound and unsettling question about the choice she had made. And in the living room on Daniel Maloney Drive, for the first time since their goodbye, Leo felt a fragile, genuine flicker of hope.
 
-## A Capital Day of Discovery
+## The Tutor
 
 ### Part 1: The Tutor
 
@@ -587,7 +587,7 @@ When he arrived at the CCHR campus, he was just happy to be back in a familiar e
 
 He gave a genuine, relieved smile. They headed into the building for their shared American Literature class, with Luna grateful for every moment she had with Leo, safely away from Delores's suffocating presence. For a blissful fifty minutes, they were just twins again, a small, two-person fortress in a quiet classroom, and the tension of their other reality felt, for a moment, a world away.
 
-## Conquering the Capital
+## The Hijacked Plan
 
 ### Part 1: The Hijacked Plan
 
@@ -1031,7 +1031,7 @@ Delores watched the affectionate goodbyes with a look of pure resentment before 
 
 Leo glanced back once, a silent, worried look passing between him and his sisters, before Delores urged him forward. The sisters remained there until Leo and Delores turned the corner and disappeared from view. The door closed, leaving the house quiet but heavy with the weight of the difficult weekend and the gnawing worry for Leo, heading back into Delores's suffocating control via a needlessly difficult bus trip.
 
-## The Pennsylvanian
+## The Trip Proposal
 
 ### Part 1: The Trip Proposal
 
@@ -1435,7 +1435,7 @@ He gripped his wet push rims. He turned his chair toward the street.
 
 He didn't know where he was going. But he knew he had to move.
 
-## The King Street Heartbreak
+## Escape Through the Rain
 
 ### Part 1: Escape Through the Rain
 

@@ -1,11 +1,11 @@
 ---
-title: "Leo is Home"
+title: "The Trial and The Toast"
 series: "luna-leo"
 ---
 
-# Leo is Home
+# The Trial and The Toast
 
-## The Best Thanksgiving
+## The Judge's Order
 
 ### Part 1: The Judge's Order
 
@@ -117,7 +117,7 @@ She thought about the sheer, focused intelligence of the family she was joining.
 
 A quiet, almost absurdly funny thought popped into her head, and she had to suppress a giggle so as not to wake Leo. They’re picking it up so fast, I wonder… I wonder if we could get them to pass the TEFAQ—the Test d’Évaluation de Français pour l’accès au Québec. Give it a year, and the whole fortress could probably just up and become official Québec residents. The thought was ridiculous, of course, but it was born from a truth she was coming to understand more every day: there was nothing this family couldn't do when they set their minds to it.
 
-## The First Day Home
+## A Test and a Toast
 
 ### Part 1: A Test and a Toast
 

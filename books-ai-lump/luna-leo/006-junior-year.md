@@ -1,11 +1,11 @@
 ---
-title: "Sophomore Year"
+title: "Junior Year"
 series: "luna-leo"
 ---
 
-# Sophomore Year
+# Junior Year
 
-## The Sophomore Shuffle
+## A Rainy Saturday Session
 
 ### Part 1: A Rainy Saturday Session
 
@@ -101,7 +101,7 @@ Luna smiled at him, a secret, shared understanding passing between them. "Yeah. 
 
 The song played on, the distinctive flute melody returning one last time in the outro, very softly, before silence reclaimed the room. But the seed had been planted. The "Kaleidoscope Sun" wasn't just a song anymore; it was the beginning of a language that would one day save them.
 
-## Stella Buys a Car
+## The Rental Agreement
 
 ### Part 1: The Rental Agreement
 

@@ -1,11 +1,11 @@
 ---
-title: "Book 3"
+title: "The Equipment Arrivals"
 series: "luna-leo"
 ---
 
-# Book 3
+# The Equipment Arrivals
 
-## Chapter 1
+## Introduction and Anticipation
 
 ### Part 1: Introduction and Anticipation
 

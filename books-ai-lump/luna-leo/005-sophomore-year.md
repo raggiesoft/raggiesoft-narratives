@@ -1,11 +1,11 @@
 ---
-title: "Twins Freshman Year"
+title: "Sophomore Year"
 series: "luna-leo"
 ---
 
-# Twins Freshman Year
+# Sophomore Year
 
-## Hallway Locker Hurdles
+## The Porter Morning Machine
 
 ### Part 1: The Porter Morning Machine
 
@@ -666,7 +666,7 @@ As the little blue Avalon puttered down the road, carrying them away from Northw
 
 Sophomore year had officially begun.
 
-## The Record Player Discovery
+## Online Reconnaissance
 
 ### Part 1: Online Reconnaissance
 
@@ -802,7 +802,7 @@ He chuckled softly, shaking his head as they walked towards the showroom exit, M
 
 Stella nodded, absorbing the piece of automotive history from someone who'd truly lived it. "Wow. Okay." They stepped out into the afternoon sun, ready to arrange bringing the new car home soon, another significant step taken care of, made surprisingly easier by her grandfather's well-earned, far-reaching reputation.
 
-## The Music Store
+## Showing Off the New Car
 
 ### Part 1: Showing Off the New Car
 
@@ -1036,7 +1036,7 @@ Thump. Catch. Push. Thump. Catch. Push.
 
 For the next forty-five minutes, the architectural hostility of the building, the rigid rules of the clinic, and the brutal 7:15 AM start time didn't matter. They were just athletes in gym class, working up a sweat, together.
 
-## The Doorbell Rings
+## Difficult News
 
 ### Part 1: Difficult News
 
@@ -1104,7 +1104,7 @@ Luna shrugged slightly. "Okay," she repeated Luna's word, perhaps the only one t
 
 They both nodded, turning back to their computers, the quiet click-clack resuming, a familiar rhythm anchoring them in the safe, stable present they had built together, away from the chaos that had finally consumed its source.
 
-## Legal Issues Settled
+## Turnpike Wonders
 
 ### Part 1: Turnpike Wonders
 

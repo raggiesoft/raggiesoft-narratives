@@ -5,7 +5,7 @@ series: "luna-leo"
 
 # Early Years
 
-## Stella’s Ninth Birthday Farewell
+## Birthday Morning and the Grandparents' Arrival
 
 ### Part 1: Birthday Morning and the Grandparents' Arrival
 

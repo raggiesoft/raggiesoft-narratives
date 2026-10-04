@@ -5,7 +5,7 @@ series: "luna-leo"
 
 # Finding a New House
 
-## A Fortress of Our Own
+## The 05:30 Alarm
 
 ### Part 1: The 05:30 Alarm
 
@@ -1350,7 +1350,7 @@ Stella stood up. She kissed Leo’s forehead.
 
 They ate in the quiet kitchen, four people bound by a love that didn't need sex to be real. They were safe in their truth: The paper that stopped the monster also defined the love.
 
-## The Reconnaissance
+## The Green Room
 
 ### Part 1: The Green Room
 

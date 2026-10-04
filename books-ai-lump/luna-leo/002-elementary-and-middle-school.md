@@ -5,7 +5,7 @@ series: "luna-leo"
 
 # Elementary and Middle School
 
-## Chapter 1
+## Breakthrough for Leo
 
 ### Part 1: Breakthrough for Leo
 
@@ -98,7 +98,7 @@ Stella felt a surge of protective anger towards her parents, quickly followed by
 
 Hanging up the phone, Stella stared blankly at her textbooks. The call had changed everything. The vague worry had coalesced into a clear objective. It would be a long, hard road, starting now, but she knew she had to fight for guardianship. This phone call sparked the difficult, year-long journey of seeking legal advice, gathering evidence, and fighting for guardianship and conservatorship – a battle she would ultimately win just before turning 21, allowing her to bring Luna and Leo into her care right before they started their freshman year of high school. And deep down, a new determination formed, fueled by this new understanding: somehow, someday, she had to find a way to bring that specific kind of accessibility back into their lives.
 
-## The MagnaByte Opus Lifeline
+## Stella to the Sore Rescue
 
 ### Part 1: Stella to the Sore Rescue
 

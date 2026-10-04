@@ -1,11 +1,11 @@
 ---
-title: "Senior Year Challenges"
+title: "The Great North American Excursion"
 series: "luna-leo"
 ---
 
-# Senior Year Challenges
+# The Great North American Excursion
 
-## The Best Friend
+## All Aboard
 
 ### Part 1: All Aboard
 
@@ -269,7 +269,7 @@ The arrangement was shifted without a second thought. Stella would have one bed 
 
 He was in the middle, a warm, solid wall of his sister on one side and his best friend on the other. He reached out, his hand finding Luna's in the dim light of the hotel room. He was safe. He was surrounded. He closed his eyes, the dull ache of the impending goodbye soothed by the profound, immediate comfort of having his entire fortress assembled around him. He drifted off to sleep, not to the sound of a train, but to the quiet, steady breathing of the two people who, along with Stella, formed the unshakable foundation of his world.
 
-## A Stormy Night, A Steadfast Friend
+## Museum Hopping
 
 ### Part 1: Museum Hopping
 
@@ -559,7 +559,7 @@ The arrangement was now their new normal. For the second night in a row, the oth
 
 He reached out, his hand finding Luna's in the dim light of the hotel room, while he leaned his head against Olivia's shoulder. This was his fortress, assembled against the quiet anxieties of the long goodbye. The dull ache of the impending separation was still there, but it was held at bay by the profound, immediate comfort of being surrounded. He drifted off to sleep, secure in the knowledge that for tonight, and for all the nights of this trip, his world was whole.
 
-## New Year's Eve Reckoning
+## The Practice Mission
 
 ### Part 1: The Practice Mission
 
@@ -725,7 +725,7 @@ The meal was a relaxed, happy affair. They ate and talked, their conversation fi
 
 With their stomachs full and their spirits high, they made their way to the departure gate. A Red Cap assisted them with their luggage, leading them down the platform to the Business Class car of the ARTS *Northeast Regional*. They boarded the train, finding their familiar four-person table, and settled in for the next leg of their great adventure. The whistle blew, and with a gentle lurch, the train pulled out of the station, the grand dome of the Capitol Building sliding past their window as they journeyed north toward Philadelphia.
 
-## The Flute’s Refrain
+## A Layover in Philly
 
 ### Part 1: A Layover in Philly
 
@@ -867,7 +867,7 @@ After the incline, they had a quiet, relaxed lunch at a small cafe. For the afte
 
 As they rode the bus back to the hotel in the late afternoon, a weary but peaceful quiet settled over them. Leo leaned his head against Olivia’s shoulder, completely drained. The day had been wonderful, but the effort of hiding his heartbreak had been a monumental, invisible labor. His fortress, in their quiet, knowing way, had helped him carry the weight of it all.
 
-## Chapter 5
+## The Shattering
 
 ### Part 1: The Shattering
 
@@ -1155,7 +1155,7 @@ Once they were all clean, the process was reversed. Stella helped Leo get dresse
 
 Stella took one last look around the small, private sanctuary they had created. She walked to the door and, with a final, decisive click, slid the panel back, covering the red "PRIVACY" indicator and revealing the green "SERVICE" sign to the world outside. They were ready to face the day, a broken but resilient fortress, held together by the quiet, unbreakable bonds of their shared care.
 
-## Chapter 6
+## The Shadow on the Platform
 
 ### Part 1: The Shadow on the Platform
 
