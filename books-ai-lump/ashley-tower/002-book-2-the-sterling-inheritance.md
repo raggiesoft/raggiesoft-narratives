@@ -153,7 +153,7 @@ She pivoted without hesitation, leading them away from the polished glass shafts
 
 Mary frowned, looking at the drab entrance. "Wait, where are we going?"
 
-In his lap, Donald quickly typed on his AAC device. The digitized, synthesized voice echoed quietly in the corridor. *"Where exactly are we going?"*
+In his lap, Donald quickly typed on his AAC device. The digitized, synthesized voice echoed quietly in the corridor. <aac>"Where exactly are we going?"</aac>
 
 "You'll see," Ashley said, a warm smile returning to her face as she pulled her master security badge and tapped it against the hidden RFID reader.
 
@@ -165,7 +165,7 @@ Ashley tapped her badge against the glowing control panel to bypass the lockouts
 
 *130*.
 
-The digitized voice of Donald's AAC immediately fired off. *"Wait. We are going WHERE!?"*
+The digitized voice of Donald's AAC immediately fired off. <aac>"Wait. We are going WHERE!?"</aac>
 
 Maryâ€™s eyes went completely wide, her jaw dropping as she stared at the illuminated button. "The 130th floor? Ashley, wait, but that's... that's over 1,500 feet in the air! We're going to be in the clouds, aren't we?"
 
@@ -247,7 +247,7 @@ She leaned forward, her eyes locking fiercely onto his. "The failure was your fa
 
 Donaldâ€™s hands tightened on his armrests. For a decade, he had been told his struggles in the classroom were his own fault.
 
-In his lap, Donald's fingers flew across his AAC device. The synthesized voice broke the quiet of the kitchen. *"I will sign whatever you need."*
+In his lap, Donald's fingers flew across his AAC device. The synthesized voice broke the quiet of the kitchen. <aac>"I will sign whatever you need."</aac>
 
 Amanda smiled, sliding a premium black pen across the butcher block, pointing to the top document. "This is a federal release form. The second you sign this, you strip your father of his access, and you grant me the legal authority to seize your transcripts. We are transferring you to the Meridian Unified School District to finish your senior year."
 
@@ -273,7 +273,7 @@ He looked down at his keyboard, his fingers hovering over the keys. *"Will I gra
 
 "Yes," Amanda promised, looking up from the notepad. "You have the intellect, Donald. You are going to finish your senior year. We will make sure of it."
 
-Donald let out a shaky breath, staring at the screen. He typed his next thought slowly, the painful reality of his sheltered existence bleeding into the words. *"I don't know what classes to take besides the basics. I don't know what I want to do with my life. He never let me choose anything or try anything new. My mind is just... a blank slate."*
+Donald let out a shaky breath, staring at the screen. He typed his next thought slowly, the painful reality of his sheltered existence bleeding into the words. <aac>"I don't know what classes to take besides the basics. I don't know what I want to do with my life. He never let me choose anything or try anything new. My mind is just... a blank slate."</aac>
 
 Ashley stepped away from the kitchen counter, walking over to kneel gently beside his wheelchair so they were perfectly at eye level.
 
@@ -341,17 +341,17 @@ Ashley closed her laptop and smiled, walking over to the island. One by one, the
 
 "I'm Susan," the twenty-four-year-old grinned, leaning against the counter in her work pants. "If the building is a body, I'm the heart and lungs. I manage the high-voltage electrical grid, the HVAC chillers, and the plumbing. I spend most of my time in the mechanical floors wearing a hard hat".
 
-Diana rolled her ultra-lightweight wheelchair forward, tapping her mPad to cast her synthesized voice to the room. *"I'm Diana. I write the software and the code. I build the offline FOSS models that run our security and elevator routing logic"*.
+Diana rolled her ultra-lightweight wheelchair forward, tapping her mPad to cast her synthesized voice to the room. <aac>"I'm Diana. I write the software and the code. I build the offline FOSS models that run our security and elevator routing logic"</aac>.
 
-Chelsea, sitting perfectly synchronized next to her identical twin, didn't use an AAC device. She simply held up a heavily modified MagnaByte server processor, her lips curling into a quiet, proud smile. *"Chelsea is the hardware,"* Diana translated seamlessly through her mPad, reading her sister's physical cues instantly. *"She builds the physical servers and solders the infrastructure that my code runs on"*.
+Chelsea, sitting perfectly synchronized next to her identical twin, didn't use an AAC device. She simply held up a heavily modified MagnaByte server processor, her lips curling into a quiet, proud smile. <aac>"Chelsea is the hardware,"</aac> Diana translated seamlessly through her mPad, reading her sister's physical cues instantly. <aac>"She builds the physical servers and solders the infrastructure that my code runs on"</aac>.
 
-Abigail, sitting on the other side of the island, typed rapidly on her tablet. *"I'm Abigail. I'm the enterprise backbone. I manage the Quantum OS 11 web infrastructure, the edge network, and our digital firewalls to make sure nobody ever hacks the tower"*.
+Abigail, sitting on the other side of the island, typed rapidly on her tablet. <aac>"I'm Abigail. I'm the enterprise backbone. I manage the Quantum OS 11 web infrastructure, the edge network, and our digital firewalls to make sure nobody ever hacks the tower"</aac>.
 
 Finally, Amanda stepped forward, adjusting her blazer. "And I am the legal shield. My job is to protect this family's assets from Wall Street, the IRS, and anyone else who tries to take what belongs to us".
 
 Donald took it all in. Six brilliant, immensely powerful women, operating a 135-story vertical city completely on their own terms. He looked down at his keyboard, his fingers tracing over the keys as he recalled the overwhelming moment on the street corner.
 
-*"Ashley said I am a one-seventh owner,"* Donald typed, his synthesized voice breaking the quiet. *"What does that mean?"*
+<aac>"Ashley said I am a one-seventh owner,"</aac> Donald typed, his synthesized voice breaking the quiet. <aac>"What does that mean?"</aac>
 
 Amanda didn't offer a simplified, coddling explanation. She treated him with the absolute intellectual respect of a peer.
 
@@ -361,7 +361,7 @@ Amanda rested her hands on the butcher block, holding his gaze. "Your share was 
 
 Donaldâ€™s breath hitched. His hands immediately flew over his AAC device, his typing frantic and slightly uncoordinated as a sudden wave of sheer terror spiked through his chest.
 
-*"He will take it,"* Donald's device blurted out. *"My father. He always takes everything. If he finds out I have money, he will claim it's his. He will say I am not competent to own it and he will take it away."*
+<aac>"He will take it,"</aac> Donald's device blurted out. <aac>"My father. He always takes everything. If he finds out I have money, he will claim it's his. He will say I am not competent to own it and he will take it away."</aac>
 
 Mary instantly rested a grounding hand on his shoulder, feeling him physically tremble.
 
@@ -383,7 +383,7 @@ He let out a long, ragged exhale. He looked around the massive kitchen, then tow
 
 His fingers moved over his keyboard, the frantic energy replaced by a quiet, determined curiosity.
 
-*"I want to see it,"* Donald typed. *"I want a tour of the tower. But only if Mary stays with me."*
+<aac>"I want to see it,"</aac> Donald typed. <aac>"I want a tour of the tower. But only if Mary stays with me."</aac>
 
 Mary smiled, her grip on his shoulder tightening reassuringly. She looked down at him, her devotion absolute. "Always, Donald. Wherever you go, I go."
 
@@ -399,7 +399,7 @@ As the massive traction motors engaged and the car began a smooth descent, Susan
 
 "You're riding in a tank right now," Susan said, her voice echoing slightly in the oversized car. "This isn't a standard elevator. Arthur over-engineered this specific shaft to be the tower's primary Fire Service Access Elevator, or FSAE. It's heavily armored and completely sealed against smoke intrusion. In an emergency, we can override the system to bypass compromised zones and stop at every single one of the 135 floors to get people out".
 
-Donald looked at the thick steel doors, his brow furrowing. His fingers moved quickly across his AAC device. *"Like in that old movie? The Crown Point Picture?"*
+Donald looked at the thick steel doors, his brow furrowing. His fingers moved quickly across his AAC device. <aac>"Like in that old movie? The Crown Point Picture?"</aac>
 
 Susanâ€™s expression sobered immediately, sharing a brief, heavy look with Amanda.
 
@@ -419,7 +419,7 @@ Donaldâ€™s wheelchair rolled silently over the plush, ultra-expensive carpe
 
 He stopped typing for a moment, his hands hovering over his keyboard as he looked from the polished corporate armor of the floor to his oldest cousin.
 
-*"This is mine?"* Donald typed, the synthesized voice sounding incredibly small in the massive space. *"I own one-seventh of this?"*
+<aac>"This is mine?"</aac> Donald typed, the synthesized voice sounding incredibly small in the massive space. <aac>"I own one-seventh of this?"</aac>
 
 Amanda offered a warm, proud smile. She stepped up to a set of massive, heavy double doors at the end of the hall and pushed them open, revealing the Legacy Boardroom.
 
@@ -449,7 +449,7 @@ Ashley stepped forward, offering him an easy, pressure-free smile. "I handle the
 
 Donald looked down at his keyboard, the panic fully replaced by a grounded, burning curiosity. He thought about what his cousins had told him in the kitchen.
 
-*"Susan said she runs the lungs of the building,"* Donald typed. *"I want to see how they work."*
+<aac>"Susan said she runs the lungs of the building,"</aac> Donald typed. <aac>"I want to see how they work."</aac>
 
 Susanâ€™s face immediately lit up with a massive grin. "Oh, you are going to love this. Follow me."
 
@@ -471,7 +471,7 @@ Before anyone stepped out of the elevator, Susan reached into a heavy metal stor
 
 Mary carefully secured a hard hat onto Donald's head, adjusting the strap under his chin. She looked warily out into the cavernous concrete expanse, her protective instincts flaring. "Is it too loud for him?"
 
-Donald shook his head, his fingers quickly moving across his AAC device. *"It is a steady, low frequency. I like it. It feels like a heartbeat."*
+Donald shook his head, his fingers quickly moving across his AAC device. <aac>"It is a steady, low frequency. I like it. It feels like a heartbeat."</aac>
 
 Susan grinned, securing her own helmet. "That's exactly what it is. Welcome to the Lungs and Guts of Sterling Plaza".
 
@@ -511,7 +511,7 @@ The second the doors sealed shut behind them, the oppressive roar of the mechani
 
 Mary unclipped the strap of his hard hat and lifted it off, placing it back into the metal storage cage along with the others. She brushed his hair back affectionately. "Better?"
 
-*"Much better,"* Donald typed on his AAC, offering Susan a small, appreciative look. *"Thank you for showing me. It was just loud."*
+<aac>"Much better,"</aac> Donald typed on his AAC, offering Susan a small, appreciative look. <aac>"Thank you for showing me. It was just loud."</aac>
 
 "Anytime," Susan smiled, leaning against the steel wall.
 

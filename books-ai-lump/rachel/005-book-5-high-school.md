@@ -391,7 +391,7 @@ I watched my older sister fight a brutal, invisible war. The pulverized bones in
 
 She stared at the blinking black cursor on the white screen.
 
-*Memory Routing Protocol - Phase 1.* She typed the words slowly, her fingers heavy and uncoordinated on the mechanical keys.
+<aac>Memory Routing Protocol - Phase 1.</aac> She typed the words slowly, her fingers heavy and uncoordinated on the mechanical keys.
 
 She stopped, letting out a ragged, frustrated exhale. She closed her eyes, resting her head back against the pillow as a wave of chemical nausea washed over her.
 
@@ -1693,7 +1693,7 @@ I looked at the screen. It looked like the Matrix running backward.
 
 "Yes," Jessica said, her fingers hovering over the keyboard. "No variables. No safety nets. No compiler holding my hand. Just manually pushing data in and out of the CPU's physical registers. EAX, EBX, ECX. If I write the patch in pure Assembly, I can bypass the 16-bit foundation entirely. The executable will be microscopically small. It will run with zero overhead, and it will speak directly to the kernel."
 
-She typed a few lines of code, manually pushing parameters onto the system stack. *PUSH EBP. MOV EBP, ESP.*
+She typed a few lines of code, manually pushing parameters onto the system stack. <aac>PUSH EBP. MOV EBP, ESP.</aac>
 
 She stared at it for a long moment. Then, she hit backspace, deleting the lines.
 

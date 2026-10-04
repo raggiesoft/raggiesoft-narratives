@@ -141,7 +141,7 @@ Luna reached out and touched the smooth metal of the headjoint. "Thanks, Mr. T."
 
 **Date:** 2001-09-12 at 18:00 America/New_York
 
-The living room was quiet. Leo was parked at the **MagnaByte** station, working on a history paper, the rhythmic *clack-clack-clack* of his keyboard providing a steady backbeat.
+The living room was quiet. Leo was parked at the **MagnaByte** station, working on a history paper, the rhythmic <aac>clack-clack-clack</aac> of his keyboard providing a steady backbeat.
 
 Luna sat on the sofa, the assembled flute in her hands. She had the instruction book open to "Page 1: Forming the Embouchure."
 

@@ -961,7 +961,7 @@ Today, however, they were meeting a new Alex.
 
 "James," Grandma Miller whispered to her son, her eyes wide with happy disbelief as they watched the scene on the patio. "He's... holding court."
 
-And he was. Alex was in the center of a circle with his younger cousins, including a rapt Cassie Carter, a video game controller on his lap, his AAC device glowing. Chloé was perched on the arm of his wheelchair, laughing as he patiently explained a tricky maneuver in *Kart Kraze*. The catalyst for this transformation was undeniably Chloé, his constant, orbiting satellite of warmth and encouragement. Their frequent, easy hugs were a source of quiet amazement for the relatives, a testament to a bond of profound trust.
+And he was. Alex was in the center of a circle with his younger cousins, including a rapt Cassie Carter, a video game controller on his lap, his AAC device glowing. Chloé was perched on the arm of his wheelchair, laughing as he patiently explained a tricky maneuver in <aac>Kart Kraze</aac>. The catalyst for this transformation was undeniably Chloé, his constant, orbiting satellite of warmth and encouragement. Their frequent, easy hugs were a source of quiet amazement for the relatives, a testament to a bond of profound trust.
 
 About an hour into the party, Chloé noticed Alex starting to look overwhelmed by the rising noise level. In a moment of silent, perfect communication, she gently guided his chair towards the quiet patio swing at the edge of the yard. From the kitchen window, Emily and Sophie watched as Chloé wrapped him in a firm, grounding hug, a quiet island of calm in the sea of the party. "That," Emily said softly to Sophie, "is what safety looks like."
 
@@ -1583,7 +1583,7 @@ Chloé, meanwhile, was catching up with her cousins. Isabelle, no longer shy, wa
 
 Mathieu, her older brother, just grinned. "Don't listen to her, Chloé. She just wants to know if you've met any famous movie stars." He then turned his attention to Alex, who was quietly observing the lively scene from his wheelchair. "Hey, Alex," he said, switching to English for clarity. "Chloé says you're a genius with those computer games. I've got an Apex 64 inside. Later, you gotta show me some moves on Kart Kraze." The simple, inclusive invitation was Mathieu's own brand of welcome.
 
-The younger cousins, who had been watching Alex from a distance, were fascinated by his AAC device. Finally, a little girl of about seven, a cousin named Amélie, approached him, her eyes wide with innocent curiosity. "*Comment ça marche, ta machine?*" she asked. (How does your machine work?)
+The younger cousins, who had been watching Alex from a distance, were fascinated by his AAC device. Finally, a little girl of about seven, a cousin named Amélie, approached him, her eyes wide with innocent curiosity. "<aac>Comment ça marche, ta machine?</aac>" she asked. (How does your machine work?)
 
 Before any of the adults could shush her, Chloé knelt down beside the little girl. "*C'est la voix d'Alex,*" she explained gently in French. (It's Alex's voice.) "He thinks of the words, and his computer helps him say them out loud. It's very smart, just like him."
 
@@ -1647,7 +1647,7 @@ They settled into the large king-sized bed, the familiar comfort of the routine 
 
 "That was..." Chloé whispered in the dark, "a lot."
 
-Alex, already half-asleep, reached for her hand, his fingers lacing with hers. He didn't need his device. He just gave her hand a gentle, grateful squeeze. It said everything. *It was a lot. And it was perfect. And I'm glad you were there.*
+Alex, already half-asleep, reached for her hand, his fingers lacing with hers. He didn't need his device. He just gave her hand a gentle, grateful squeeze. It said everything. <aac>It was a lot. And it was perfect. And I'm glad you were there.</aac>
 
 Chloé squeezed back, understanding completely. Within minutes, their breathing evened out, two exhausted but deeply contented teenagers falling asleep, their incredible summer adventure in this town of two countries drawing to a peaceful close. The long road home to Virginia was waiting for them in the morning.
 

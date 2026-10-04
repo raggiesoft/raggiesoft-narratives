@@ -399,7 +399,7 @@ The simple, heartfelt declaration hung in the air. Olivia's voice, when it came 
 
 They all laughed, a small, watery sound that broke the tension. They talked for a while, the three Porters recounting the highs and lows of their first day, including Leo's new, kind tutor. The conversation was a lifeline, but the reality of the distance was a constant, unspoken presence. For Leo, hearing Olivia's voice was a profound comfort, but it was not the same. He was hanging in there as best he could, but the ache of missing her was a physical thing.
 
-On the other end of the line, Olivia was feeling the exact same way. She tried to sound upbeat, but her heart ached. This obligation to her family was necessary, but it had torn her away from her best friend. As she listened to Leo's synthesized voice, a profound, gut-wrenching thought took root, the first seed of doubt: *Is this right? Being away from him?*
+On the other end of the line, Olivia was feeling the exact same way. She tried to sound upbeat, but her heart ached. This obligation to her family was necessary, but it had torn her away from her best friend. As she listened to Leo's synthesized voice, a profound, gut-wrenching thought took root, the first seed of doubt: <aac>Is this right? Being away from him?</aac>
 
 As the call wound down, the goodbyes were thick with unspoken emotion.
 
@@ -711,9 +711,9 @@ Pulling into the driveway of the small house on Stella's house felt less like ar
 
 The atmosphere was immediately strained. Luna, still maintaining her protective bubble around her brother, refused to leave his side. She kept a firm, loving grip on the back of his wheelchair, an unspoken, non-verbal challenge to Delores. We are at my house now, her posture seemed to say. Delores, recognizing the shift in territory and still wary of Stella's authority, didn't dare comment on the hug, but her resentment was a palpable, chilling presence in the small living room.
 
-Leo didn't even wait for the tour or pleasantries. Bypassing the living room, he immediately wheeled himself towards the familiar corner housing the dual MagnaByte Opus setup. He hadn't just sought refuge; he'd genuinely *missed* his machine. Back at Delores's place, homework meant struggling with a clunky Quantum OS NX machine running WritePad 2003 – a system he *hated* for its confusing interface and lack of intuitive controls, made worse by Delores often dictating *when* he was allowed to work on assignments. Here, finally, was his chance to use the tools he was comfortable and competent with, free from both the frustrating Quantum environment and Delores's control over his work time. After navigating college assignments on that difficult system, he craved the comfort and competence he felt using the MagnaByte – the satisfying click of the keys, the predictable interface of MagnaSuite. Here, at least, was an environment where he felt capable and could actually focus on the homework he needed to do, on his *own* terms.
+Leo didn't even wait for the tour or pleasantries. Bypassing the living room, he immediately wheeled himself towards the familiar corner housing the dual MagnaByte Opus setup. He hadn't just sought refuge; he'd genuinely <aac>missed</aac> his machine. Back at Delores's place, homework meant struggling with a clunky Quantum OS NX machine running WritePad 2003 – a system he <aac>hated</aac> for its confusing interface and lack of intuitive controls, made worse by Delores often dictating <aac>when</aac> he was allowed to work on assignments. Here, finally, was his chance to use the tools he was comfortable and competent with, free from both the frustrating Quantum environment and Delores's control over his work time. After navigating college assignments on that difficult system, he craved the comfort and competence he felt using the MagnaByte – the satisfying click of the keys, the predictable interface of MagnaSuite. Here, at least, was an environment where he felt capable and could actually focus on the homework he needed to do, on his <aac>own</aac> terms.
 
-Stella watched him go straight to the computers, bypassing any social interaction. A sudden thought struck her, connecting his immediate need for the familiar MagnaByte with the subtle decline she’d noticed in his recent college grades. *Could this be why?* she wondered silently, a knot of worry tightening in her stomach. *Is he struggling that much with the Quantum computer at Delores's? Is she making it hard for him to even get his work done?*
+Stella watched him go straight to the computers, bypassing any social interaction. A sudden thought struck her, connecting his immediate need for the familiar MagnaByte with the subtle decline she’d noticed in his recent college grades. <aac>Could this be why?</aac> she wondered silently, a knot of worry tightening in her stomach. <aac>Is he struggling that much with the Quantum computer at Delores's? Is she making it hard for him to even get his work done?</aac>
 
 Her thoughts were interrupted as Delores followed Leo over to the computer corner. "Leo, maybe you should rest first? Instead of playing on that old thing?"
 
@@ -947,11 +947,11 @@ Luna frowned, thinking. The term sounded vaguely familiar, maybe something from 
 
 "Usually," Stella explained, "it's because the person making the call doesn't have any money or coins on them. But for Leo..." she paused, meeting Luna's eyes significantly, "...it could also be an emergency way to reach us if something happens. If he's somewhere, maybe stranded, and can't use his own phone or device, or has no money... making a collect call might be his only option to get help."
 
-Stella continued, "Now, think about it - if something happened to his AAC device, like if it got broken or taken..." *(Her voice tightened slightly at the thought)* "...he wouldn't be able to just speak to the operator easily to set up that collect call. That's where something called a TTY might come in. Have you ever seen those special phones, sometimes near payphones in airports or public buildings, that have a keyboard and a little text screen?"
+Stella continued, "Now, think about it - if something happened to his AAC device, like if it got broken or taken..." <aac>(Her voice tightened slightly at the thought)</aac> "...he wouldn't be able to just speak to the operator easily to set up that collect call. That's where something called a TTY might come in. Have you ever seen those special phones, sometimes near payphones in airports or public buildings, that have a keyboard and a little text screen?"
 
 Luna wrinkled her brow, then gave a hesitant nod. "Maybe? Like... for Deaf people?"
 
-"Exactly," Stella confirmed. "TTY stands for TeleTYpewriter. People who are Deaf or have trouble speaking use them to type messages back and forth over the phone line, usually with a relay operator helping. So, if Leo's AAC was broken, he might *have* to find one of those TTY phones to type his request for an emergency collect call to the operator. The operator would then type back to him on the little screen."
+"Exactly," Stella confirmed. "TTY stands for TeleTYpewriter. People who are Deaf or have trouble speaking use them to type messages back and forth over the phone line, usually with a relay operator helping. So, if Leo's AAC was broken, he might <aac>have</aac> to find one of those TTY phones to type his request for an emergency collect call to the operator. The operator would then type back to him on the little screen."
 
 She leaned closer, her voice dropping to an urgent whisper. "The reason I'm telling you *both* things – collect calls and TTYs – is this: If you ever get a call from an operator asking if you'll accept charges from Leo Porter, especially if they mention it's a TTY call, I need you to say yes. Immediately. Don't ask questions, don't worry about the cost... I don't care if it's three o'clock in the morning... You accept the charges. Always. Understand?"
 
@@ -1049,7 +1049,7 @@ Leo typed quickly on his device: NO. WHAT IS IT?
 
 Leo's eyes widened slightly as he grasped the implication.
 
-"If that ever happens," Stella continued, "you dial 0 for the operator. Now, listen, if your AAC is broken, you might need *another* special kind of phone sometimes found near pay phones, especially in places like airports. It's called a TTY – looks like an old phone but with a keyboard and a small screen. It's for people who can't speak or hear well on a regular phone."
+"If that ever happens," Stella continued, "you dial 0 for the operator. Now, listen, if your AAC is broken, you might need <aac>another</aac> special kind of phone sometimes found near pay phones, especially in places like airports. It's called a TTY – looks like an old phone but with a keyboard and a small screen. It's for people who can't speak or hear well on a regular phone."
 
 Leo looked puzzled. He typed: TTY? LIKE AAC?
 
@@ -1153,7 +1153,7 @@ The landscape outside the wide windows of the Pathfinder coach shifted dramatica
 
 The air in the cabin grew noticeably thinner. For a body already compromised and exhausted by days of rigid, upright sitting, the drop in oxygen felt like a heavy weight pressing down on his chest. Leo found himself taking short, shallow gasps, struggling to draw enough air into his lungs. The sensation was terrifying—a slow, creeping suffocation that he couldn't simply adjust his posture to fix. 
 
-He tapped frantically on his AAC device, the mechanical voice cutting through the hum of the engine. *"HARD TO BREATHE. CHEST TIGHT."*
+He tapped frantically on his AAC device, the mechanical voice cutting through the hum of the engine. <aac>Hard to breathe. chest tight.</aac>
 
 Delores, slouched in the seat beside him with a magazine, barely glanced up. "It's just the altitude, Leo. We're a mile high," she said, her tone dripping with bored condescension. "Everyone feels it. Just take deep breaths and stop panicking."
 
@@ -1167,11 +1167,11 @@ By the time the bus descended into Salt Lake City, the breathing difficulties ha
 
 During a transfer in the cramped, grimy bathroom of the Salt Lake City terminal, Leo felt the unmistakable, searing sting of a developing pressure sore on his hip. It wasn't just discomfort anymore; it was tissue damage. The kind of damage that, if left untreated and unrelieved, could quickly spiral into a life-threatening infection.
 
-He tried to communicate the severity of the situation to Delores the moment she wheeled him out of the stall. He pointed insistently at his hip, his face tight with pain and fear, typing furiously on his device. *"SORE. IT IS BAD. NEED TO LAY FLAT. NEED MEDICINE."*
+He tried to communicate the severity of the situation to Delores the moment she wheeled him out of the stall. He pointed insistently at his hip, his face tight with pain and fear, typing furiously on his device. <aac>Sore. it is bad. need to lay flat. need medicine.</aac>
 
 Delores barely looked. She waved a hand dismissively, her attention already focused on finding the departure gate for the next leg of the trip. "Oh, stop complaining, Leo. It's just from sitting so long. It's nothing."
 
-*"NOT NOTHING,"* he typed, the mechanical voice sharp. *"DANGEROUS."*
+<aac>Not nothing,</aac> he typed, the mechanical voice sharp. <aac>Dangerous.</aac>
 
 "It's just a red mark!" she snapped, turning on him with sudden, venomous intensity. "I am doing the best I can to get us across the country, and all you do is whine. We are almost there. You can deal with a little sore spot until we get to Washington."
 
@@ -1191,7 +1191,7 @@ Delores didn't immediately move to help him. Instead, she stepped closer, leanin
 
 Leo froze, completely paralyzed. The sheer physical vulnerability of being trapped in his chair, locked in a soundproof room with his abuser, washed over him in a sickening wave. She wasn't using physical force; she was using a far more insidious psychological trap. She was speaking to him with the honeyed tones of a lover, trying to coax and manipulate him into compliance, twisting his complete lack of agency into an assumption of consent. 
 
-*"NO,"* his mind screamed, but his hands shook too violently to type it out on his AAC device. He couldn't push her away. He couldn't run. He was locked in a concrete box with a predator who was smiling at him.
+<aac>No,</aac> his mind screamed, but his hands shook too violently to type it out on his AAC device. He couldn't push her away. He couldn't run. He was locked in a concrete box with a predator who was smiling at him.
 
 She leaned in closer, the scent of her stale perfume suffocating him, her words continuing their vile, coercive rhythm. He was entirely at her mercy, seconds away from a violation he was physically powerless to stop.
 
@@ -1681,7 +1681,7 @@ The two sisters, united in their shared fury and disappointment, made a grim pac
 
 Meanwhile, at Sea-Tac Airport, Leo managed to find the signs for payphones near the restrooms. His heart sank slightly. Without his AAC device, how could he even call? He found a bank of phones. Relief warred with confusion as he saw the blue TTY symbol—a stylized phone with a keyboard—on one of the enclosures.
 
-*TTY?* The symbol triggered a memory, hazy through the fog of exhaustion and fear, but distinct: Stella, kneeling beside his chair that awful Tuesday morning. Her urgent voice explaining emergency options. *"...if your AAC is broken... another special kind of phone sometimes found near payphones, especially in airports... called a TTY... use the TTY keyboard to type to the operator..."* Could this be what she meant?
+<aac>TTY?</aac> The symbol triggered a memory, hazy through the fog of exhaustion and fear, but distinct: Stella, kneeling beside his chair that awful Tuesday morning. Her urgent voice explaining emergency options. <aac>"...if your AAC is broken... another special kind of phone sometimes found near payphones, especially in airports... called a TTY... use the TTY keyboard to type to the operator..."</aac> Could this be what she meant?
 
 It looked intimidating and nothing like his familiar device, but Stella had said it was a possibility. Desperation overriding uncertainty, he maneuvered closer.
 
@@ -1689,15 +1689,15 @@ The ambient noise of the landside terminal at 6:00 AM on the Wednesday before Th
 
 Beneath the announcements and the roar of the crowd, the airport's sound system piped in festive cheer that felt entirely at odds with Leo's terror. The upbeat, jingling pop-synth of Darla Vance’s *"Solo on Christmas Eve"* drifted through the concourse, a cheery soundtrack to his nightmare.
 
-He picked up the receiver, expecting a screen to light up, but was met only with a dial tone. Confused, he looked at the device built into the enclosure. It had a small keyboard and a tiny screen above it displaying a blinking cursor. *How does this work?* He tentatively tried typing Stella’s number, but nothing happened beyond letters appearing slowly on the tiny, dim screen. Frustration mounted. He scanned the minimal instructions printed beside the device, words blurring through his anxiety. *Collect call? Operator?*
+He picked up the receiver, expecting a screen to light up, but was met only with a dial tone. Confused, he looked at the device built into the enclosure. It had a small keyboard and a tiny screen above it displaying a blinking cursor. <aac>How does this work?</aac> He tentatively tried typing Stella’s number, but nothing happened beyond letters appearing slowly on the tiny, dim screen. Frustration mounted. He scanned the minimal instructions printed beside the device, words blurring through his anxiety. <aac>Collect call? Operator?</aac>
 
-At this point, a surge of desperate hope shot through him. *Olivia!* He knew she was here, somewhere in this state. If he could just call her, she would come. He squeezed his eyes shut, frantically trying to remember her Washington state phone number. He had seen it, typed it into his Communicator weeks ago. But now, under the crushing weight of exhaustion and terror, the number was a meaningless jumble in his mind, a piece of vital data stored on a hard drive that was now shattered and useless. It was no use. The number was gone.
+At this point, a surge of desperate hope shot through him. <aac>Olivia!</aac> He knew she was here, somewhere in this state. If he could just call her, she would come. He squeezed his eyes shut, frantically trying to remember her Washington state phone number. He had seen it, typed it into his Communicator weeks ago. But now, under the crushing weight of exhaustion and terror, the number was a meaningless jumble in his mind, a piece of vital data stored on a hard drive that was now shattered and useless. It was no use. The number was gone.
 
 The hope of a quick, local rescue vanished, replaced by a cold, grim resolve. There was only one option left. The long shot. The cross-country call to the numbers he knew by heart. He would have the Operator help him call Stella.
 
 He wiped sweat from his brow and followed the instruction to dial 0 for the operator. After a moment, the tiny screen flickered, and text began to appear, typed by someone else: HELLO OPR 934 GA.
 
-Leo stared, bewildered. *What was GA?* He hesitated, then driven by sheer panic, typed his urgent need, his fingers clumsy on the unfamiliar keys: EMERGENCY NEED COLLECT CALL PLEASE
+Leo stared, bewildered. <aac>What was GA?</aac> He hesitated, then driven by sheer panic, typed his urgent need, his fingers clumsy on the unfamiliar keys: EMERGENCY NEED COLLECT CALL PLEASE
 
 The screen responded: OK UNDERSTOOD EMERGENCY COLLECT CALL PLS TYPE NUMBER YOU ARE CALLING GA. Okay, GA again. Maybe it means 'Go Ahead'? Leo painstakingly typed Stella’s Virginia phone number.
 
@@ -1981,7 +1981,7 @@ After a minute of processing, the screen refreshed. *Connection Established.*
 
 Olivia launched InfoLink Messenger. The familiar running-man icon appeared, and a moment later, the sharp, distinctive *door-opening* sound effect chimed from the laptop’s small speakers. Her buddy list populated. *STELLA_P* was online.
 
-She quickly typed a message into the chat box. **O_Walker:** *We’re eating. He’s doing okay. Are you and Luna at the computer?*
+She quickly typed a message into the chat box. **O_Walker:** <aac>We’re eating. He’s doing okay. Are you and Luna at the computer?</aac>
 
 A few seconds later, the incoming message chime sounded. **STELLA_P:** *Yes! We've been sitting right here since we got off the phone. Tell him we love him.*
 

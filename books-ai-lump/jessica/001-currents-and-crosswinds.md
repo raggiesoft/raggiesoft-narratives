@@ -1145,7 +1145,7 @@ The Saturday morning light felt different. Kelly sat in front of the family's co
 
 - *Kelly — we’ve got you.* — from the Quantum War Council.
 
-- *Send me your resume.* — from a senior manager at MagnaByte.
+- <aac>Send me your resume.</aac> — from a senior manager at MagnaByte.
 
 - *Texas here. We’ll vouch for you anywhere.* — from a collective of developers in Austin, Dallas, and Houston.
 
@@ -1465,7 +1465,7 @@ Jessica watched as a baggage cart zipped past their plane. "If Quantum is my hom
 
 She turned to them, her expression becoming more animated. "That's what this partnership is really about. It's not just two CEOs on a screen. It's about the people who build things, working together. And that's what you're about to see."
 
-She leaned in, her voice filled with a quiet excitement that was contagious. "That 'About' box you both wrote? The code you've been checking in for the past few weeks? You're about to walk into a MagnaByte development lab, on their campus, and see the code *you wrote* running live on their machines, on MagnaOS. You're going to see your work living in their world."
+She leaned in, her voice filled with a quiet excitement that was contagious. "That 'About' box you both wrote? The code you've been checking in for the past few weeks? You're about to walk into a MagnaByte development lab, on their campus, and see the code <aac>you wrote</aac> running live on their machines, on MagnaOS. You're going to see your work living in their world."
 
 The full weight of the trip seemed to land on Kelly and Ryan at that moment. This wasn't just a field trip. They were contributors. The lines of code they had so carefully crafted in their shared corner of Jessica's office had already crossed the country and were waiting for them in a lab in Cupertino.
 
@@ -1624,7 +1624,7 @@ David looked at the elegant lines of code she had written. "That's a senior-leve
 
 The MagnaByte cafeteria, affectionately known as Caffe Magna, was less like a corporate lunchroom and more like a high-end international food court. Stations for wood-fired pizza, fresh-made sushi, and authentic street tacos buzzed with activity. The cavernous, sunlit room was filled with the murmur of a dozen languages and the clatter of trays, all against a backdrop of ambient electronic music. For Kelly and Ryan, who were used to brown-bagging it at community college, it was a dazzling spectacle.
 
-David led them through the crowd to a large round table where Jessica was already talking with Kenji, the senior architect from her morning meeting. As they approached, a ripple of recognition moved through the nearby tables. Several MagnaByte developers—some of whom Kelly recognized from the DevNet threads—looked over, caught her eye, and gave her a small, supportive nod or a thumbs-up. They all knew her story, and the silent welcome was universal: *You're safe here. We've got your back.*
+David led them through the crowd to a large round table where Jessica was already talking with Kenji, the senior architect from her morning meeting. As they approached, a ripple of recognition moved through the nearby tables. Several MagnaByte developers—some of whom Kelly recognized from the DevNet threads—looked over, caught her eye, and gave her a small, supportive nod or a thumbs-up. They all knew her story, and the silent welcome was universal: <aac>You're safe here. We've got your back.</aac>
 
 "I was just telling Kenji you two are naturals," David said as they sat down, placing his tray on the table. "They tracked down a subtle rendering bug in the MagnaOS beta in under two hours. Clean fix, too. No hard-coded nonsense."
 

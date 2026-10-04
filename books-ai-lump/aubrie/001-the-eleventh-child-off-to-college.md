@@ -163,7 +163,7 @@ Isabel saw the problem instantly. "Oh yeah, that's a terrible spot for an outlet
 
 He handed her the power strip that he pulled out of his backpack. She plugged the power strip into the wall outlet and then neatly ran the cord up to his desk, securing the strip on top with a piece of reusable adhesive she produced from her pocket. "There," she said with a smile, raising her volume slightly after noticing his cupped ear. "Now you can plug anything you want in right from your desk".
 
-Aubrey immediately plugged in his adapter and waited for the slow Quantum OS 7 system to boot up. Once the desktop appeared, he opened *SimplySpeak*, hunching uncomfortably close to the monitor and squinting intensely to make out the keys as he typed. He hit the execute key.
+Aubrey immediately plugged in his adapter and waited for the slow Quantum OS 7 system to boot up. Once the desktop appeared, he opened <aac>SimplySpeak</aac>, hunching uncomfortably close to the monitor and squinting intensely to make out the keys as he typed. He hit the execute key.
 
 *Wow. Thanks. Thank you,* the robotic, digitized voice announced to the room. Aubrey looked up, offering a genuinely grateful smile.
 
@@ -249,7 +249,7 @@ Around mid-morning, his door swung open. A young woman with her arms full of bag
 
 Her voice cut through his sleep. Aubrey jolted awake, his heart hammering. He slowly sat up, disoriented, squinting at the blurry figure of a girl standing in his room. His stomach clenched; he was stiff, uncomfortable, and felt a flush of shame.
 
-He frantically reached for his heavy laptop resting nearby, popping the lid open. He hunched close to the screen, his fingers clumsy as he typed into his *SimpleSpeak* software. He hit the execute key.
+He frantically reached for his heavy laptop resting nearby, popping the lid open. He hunched close to the screen, his fingers clumsy as he typed into his <aac>SimpleSpeak</aac> software. He hit the execute key.
 
 *Is this room 214?* the robotic voice asked, flat and emotionless.
 
@@ -461,7 +461,7 @@ Aubrie caught the movement. Acting on pure instinct, she leaned in close, cuppin
 
 Jordan froze, his eyes widening. He had never heard a voice so clearly in a crowded room before. It was a revelation. He looked back toward the blurry menus, completely overwhelmed by the choices. His entire life, food had been a simple, non-negotiable command. His mother made something, and he ate it. He was never asked what he wanted.
 
-He turned back to his laptop, squinting hard as he typed into *SimpleSpeak*. He clicked the execute key.
+He turned back to his laptop, squinting hard as he typed into <aac>SimpleSpeak</aac>. He clicked the execute key.
 
 *Can I... can I have the grill? A cheeseburger? And... fries?* the robotic voice asked, sounding small but hopeful. His mother never allowed such things.
 
@@ -469,11 +469,11 @@ He turned back to his laptop, squinting hard as he typed into *SimpleSpeak*. He 
 
 As they waited in the grill line, Aubrie gently kept her hands cupped near his ear. "Jordan, do you have trouble seeing and hearing? I noticed you squinting a lot, and you always cup your ear."
 
-Jordan hunched over his laptop and typed. He clicked play. *The world is just fuzzy and muffled. Isn't it like that for everyone?*
+Jordan hunched over his laptop and typed. He clicked play. <aac>The world is just fuzzy and muffled. Isn't it like that for everyone?</aac>
 
 Aubrie frowned slightly, her heart aching for him as she realized he genuinely didn't know he had profound sensory deficits. "I don't think so," she said gently.
 
-Jordan typed again. *I have a meeting with Educational Accessibility on Monday at 1:00 PM to finalize my academic accommodations.*
+Jordan typed again. <aac>I have a meeting with Educational Accessibility on Monday at 1:00 PM to finalize my academic accommodations.</aac>
 
 "You should definitely bring your vision and hearing up with them," Aubrie suggested. "Though, I'm a little confused. Usually, if you had academic accommodations in public school, they just automatically transfer over and are already set up."
 
@@ -727,7 +727,7 @@ She quickly finished pulling her shirt down and knelt in front of his wheelchair
 
 "Jordan?" Aubrie asked softly. "Do you... do you need help getting changed?"
 
-Jordan swallowed hard, his hands trembling as he rested them on his laptop keyboard. He felt a deep, burning wave of mortification, but he nodded. *Yes,* he typed quickly.
+Jordan swallowed hard, his hands trembling as he rested them on his laptop keyboard. He felt a deep, burning wave of mortification, but he nodded. <aac>Yes,</aac> he typed quickly.
 
 "We've got you, J," Madison said, her voice completely devoid of pity, filled only with a practical, sisterly warmth.
 
@@ -841,7 +841,7 @@ For Jordan, the experience was earth-shattering. As they helped him out of his c
 
 Back in the suite, clean and dressed, the sense of camaraderie was stronger than ever. Madison knelt to tie his shoes, her movements efficient but gentle. When she finished, she looked up and smiled. "All set."
 
-Jordan looked at her, then at Aubrie, then towards the connecting door of Room 216 where the others were. He thought of the hug, of waking up safe in Aubrie’s arms. He wanted—no, needed—to know that feeling again from the rest of his new family. He took a deep breath, his heart pounding with the audacity of his request, and hauled his new Vanguard Pro laptop onto his lap. He hunched over the keyboard, squinting closely at the screen as he typed into *EchoType*. He hit the execute key.
+Jordan looked at her, then at Aubrie, then towards the connecting door of Room 216 where the others were. He thought of the hug, of waking up safe in Aubrie’s arms. He wanted—no, needed—to know that feeling again from the rest of his new family. He took a deep breath, his heart pounding with the audacity of his request, and hauled his new Vanguard Pro laptop onto his lap. He hunched over the keyboard, squinting closely at the screen as he typed into <aac>EchoType</aac>. He hit the execute key.
 
 *Madison?* the crisp, Australian-accented female voice asked. *Can... can I have a hug, too?*
 
@@ -873,7 +873,7 @@ It started, as it always did with them, with the stars.
 
 Jordan’s small smile faded. He flinched, his gaze dropping to the table. He reached for his Pinnacle Vanguard Pro, popping the lid open on his lap. He hunched low, squinting intensely at the screen as his fingers found the keys for *EchoType*.
 
-*Astrophysics...* the synthesized Australian voice mumbled, the word tasting like failure. *I... I'm really worried about that class. My mom... she just... she signed me up for it. I don't know anything about it. The math...*
+<aac>Astrophysics...</aac> the synthesized Australian voice mumbled, the word tasting like failure. <aac>I... I'm really worried about that class. My mom... she just... she signed me up for it. I don't know anything about it. The math...</aac>
 
 He trailed off, the full weight of his mother's trap settling on him. He had been set up to fail.
 
@@ -915,7 +915,7 @@ Aubrie didn't have to think. "I do," she said, looking up at the blue sky. "When
 
 He looked at her, his expression full of wonder. She wasn't just offering to help him pass; she was offering him a sanctuary. She was showing him the beauty his mother had tried to use as a weapon.
 
-He hunched close to his screen, squinting as he typed. *I... I'd like to feel that way,* he communicated.
+He hunched close to his screen, squinting as he typed. <aac>I... I'd like to feel that way,</aac> he communicated.
 
 As his fingers left the keyboard and his hand moved to rest on the arm of his chair, it brushed against hers as she walked. The contact was brief, accidental, but it sent a jolt of electricity through them both. They pulled their hands away quickly, a shared, shy smile passing between them.
 
@@ -1263,7 +1263,7 @@ Jordan stared down at the massive projection screen at the front of the hall, hi
 
 He pulled his Vanguard Pro onto his lap, his fingers trembling slightly as he opened a blank document and typed. He angled the screen so Aubrie could read it without him having to trigger the Australian text-to-speech voice in the quiet room.
 
-*This is a lot,* he typed, the cursor blinking rapidly.
+<aac>This is a lot,</aac> he typed, the cursor blinking rapidly.
 
 "It's okay," Aubrie beamed, leaning in close so her shoulder brushed against his. Her excitement was a physical shield against his fear. "It's the real deal. No more high school physics. We're in this together, remember? I've got you. I'm not going to let you fail."
 
@@ -1301,7 +1301,7 @@ He looked at Aubrie as she finally let go of his hand to pack up her notebook.
 
 "See?" she whispered directly into his ear, her smile bright. "Not so bad. And once Ms. Higgins gets your accommodations sorted, it'll be a breeze."
 
-*Not so bad,* Jordan typed on his screen, offering her a small, genuine smile.
+<aac>Not so bad,</aac> Jordan typed on his screen, offering her a small, genuine smile.
 
 As they moved out into the crowded hallway, the mass of students jostled past them. Jordan tensed, his anxiety flaring at the claustrophobic press of bodies, but Aubrie seamlessly stepped in front of his wheelchair, acting as a small, sturdy buffer against the crowd.
 
@@ -1435,7 +1435,7 @@ She made absolutely no big deal out of the fact that he was living with five wom
 
 Jordan pulled open his Vanguard Pro. Because he didn't want to use his EchoType software and disrupt the quiet classroom with its digitized voice, he opted for a completely different approach. He opened a sleek, dark-themed terminal window and launched NeoEdit—a streamlined, text-based command-line interface that Zoë had pre-installed for him. It was simple, completely distraction-free, and most importantly, it allowed him to scale the neon-green text up massively against the stark black background so he could actually read it.
 
-*I'm Jordan,* he typed, angling the screen so Sarah could see the large letters. *Thank you for helping me.*
+<aac>I'm Jordan,</aac> he typed, angling the screen so Sarah could see the large letters. <aac>Thank you for helping me.</aac>
 
 "No worries at all, Jordan," Sarah whispered, her Australian accent warm and perfectly clear. "Let's smash this class."
 
@@ -1445,7 +1445,7 @@ Dr. Gable was a masterful professor. He kept his voice loud, always making sure 
 
 When Dr. Gable posed a question to their side of the room, Jordan’s fingers flew across his keyboard.
 
-*The shift to agriculture created static borders, which required the invention of standing armies to defend them,* Jordan typed into his terminal.
+<aac>The shift to agriculture created static borders, which required the invention of standing armies to defend them,</aac> Jordan typed into his terminal.
 
 Sarah glanced at his screen, didn't miss a single beat, and raised her hand. "Jordan points out that the shift to agriculture created static borders," she announced clearly to the room, seamlessly acting as his voice. "Which required the invention of standing armies to defend them."
 
@@ -1457,7 +1457,7 @@ When the class finally ended, Jordan felt a rush of genuine, unadulterated trium
 
 "Brilliant work today," Sarah smiled, packing her notebooks into her bag. She pulled out a pen and scribbled a string of numbers onto a scrap of paper, handing it to him. "Here’s my mobile number. Text me if you need the notes for whatever reason, or if you just want to go over the reading before Friday."
 
-Jordan typed a quick *Thank you* into his terminal, taking the slip of paper with a massive smile.
+Jordan typed a quick <aac>Thank you</aac> into his terminal, taking the slip of paper with a massive smile.
 
 "Catch you later, Jordan," Sarah waved, heading for the door.
 
@@ -1473,7 +1473,7 @@ As Dr. Gable formally dismissed the class, Sarah slung her backpack over her sho
 
 "Where are you heading next?" she asked easily.
 
-Jordan quickly typed into his terminal. *Newman Commons. Lunch.*
+Jordan quickly typed into his terminal. <aac>Newman Commons. Lunch.</aac>
 
 "Perfect, that’s exactly on the way to my next lecture," Sarah smiled. "I’m heading to the building right across from the lower delivery bays. You want a lift? These hills are absolute murder before noon."
 
@@ -1567,11 +1567,11 @@ He pulled out his mPhone, his thumbs moving quickly. He turned the screen toward
 
 "A burger? Heck yeah. Good choice," Aubrie said, not blinking an eye. She had absolutely no idea she had just enthusiastically approved two items his mother would have outright denied him. "What do you want on it?"
 
-He was stunned. He typed a single word: *Everything.*
+He was stunned. He typed a single word: <aac>Everything.</aac>
 
 "You got it. One cheeseburger with everything, and a side of fries," she called to the worker over the glass partition. "What about a drink?"
 
-He pointed to the soda fountains, another heavily restricted battleground he'd always lost at home. He typed: *A soda?*
+He pointed to the soda fountains, another heavily restricted battleground he'd always lost at home. He typed: <aac>A soda?</aac>
 
 "Perfect." Aubrie grabbed a plastic cup, filled it with cola, and placed it on the tray next to the paper boat of fries and the foil-wrapped burger. She then quickly grabbed her own lunch—a large salad and a bottle of water.
 
@@ -1601,11 +1601,11 @@ Jordan’s fingers flew across the keys.
 
 "Jordan, that’s incredible!" Aubrie beamed, practically vibrating with second-hand excitement. "See? Some of the professors here actually get it."
 
-*But it gets better,* Jordan typed, a massive grin on his face. *He asked for a volunteer to partner with me. A girl sat next to me. She’s from Australia. Her name is Sarah.*
+<aac>But it gets better,</aac> Jordan typed, a massive grin on his face. <aac>He asked for a volunteer to partner with me. A girl sat next to me. She’s from Australia. Her name is Sarah.</aac>
 
 Aubrie raised an eyebrow, smiling. "An Australian study buddy? That’s awesome."
 
-*She was great,* Jordan continued. *She lives on the fifth floor of Bennett Hall. I told her I was in the ADA suite, and she already knew about it. She didn't think it was weird at all. She took all my notes, and when I typed answers into my terminal, she read them out loud to the class for me. I actually participated.*
+<aac>She was great,</aac> Jordan continued. <aac>She lives on the fifth floor of Bennett Hall. I told her I was in the ADA suite, and she already knew about it. She didn't think it was weird at all. She took all my notes, and when I typed answers into my terminal, she read them out loud to the class for me. I actually participated.</aac>
 
 Aubrie’s heart swelled. She reached across the table and lightly tapped the edge of his laptop. "Look at you," she said, her voice thick with pride. "Day one, and you're already leading classroom discussions and making friends on the fifth floor."
 
@@ -1627,7 +1627,7 @@ She stopped the chair near the waiting area, her hands lingering on the push han
 
 "Okay," Aubrie said softly, checking her watch. "I really have to run, or I'm going to fail calc before the syllabus is even handed out."
 
-Jordan nodded, offering her a brave, reassuring smile. He pulled his Vanguard Pro onto his lap. *Thank you for lunch,* he typed in NeoEdit. *Go to class.*
+Jordan nodded, offering her a brave, reassuring smile. He pulled his Vanguard Pro onto his lap. <aac>Thank you for lunch,</aac> he typed in NeoEdit. <aac>Go to class.</aac>
 
 Aubrie looked at him. She looked at the boy who had survived a terrifying morning, who had successfully navigated a college cafeteria, and who was now sitting tall in his chair, ready to face an administrator all by himself.
 
@@ -1655,7 +1655,7 @@ He wheeled himself into her office, a massive wave of relief washing over him. H
 
 Ms. Higgins closed the door behind them and took her seat at the desk. Jordan immediately opened his terminal.
 
-*Can my Poly Pass be changed to say Jordan Fuller?* he typed, turning the screen toward her. *Right now it says Aubrey Jordan Fuller.*
+<aac>Can my Poly Pass be changed to say Jordan Fuller?</aac> he typed, turning the screen toward her. <aac>Right now it says Aubrey Jordan Fuller.</aac>
 
 Ms. Higgins read the bright green text and offered a sympathetic smile. "I'm so glad the preferred name system is working for your rosters, Jordan. Unfortunately, university policy mandates that the Poly Pass ID matches your legal government documentation for security and financial reasons. Until your name is legally changed in a courtroom, the ID has to bear your full legal name. But I promise you, in the eyes of this office and your professors, you are Jordan."
 
@@ -1671,7 +1671,7 @@ Jordan smiled, typing quickly. *A friend gave it to me.*
 
 Jordan frowned, slightly confused by the question. He opened his terminal.
 
-*I see what everyone else sees,* he typed. *Just colored blurs. You can't read the letters until you get to the front row. That's just how distance works.*
+<aac>I see what everyone else sees,</aac> he typed. <aac>Just colored blurs. You can't read the letters until you get to the front row. That's just how distance works.</aac>
 
 Ms. Higgins stopped. Her pen hovered over her notepad. She stared at the bright green text on his screen, a cold realization washing over her.
 
@@ -1691,7 +1691,7 @@ Jordan watched her, stunned, as she opened a locked cabinet behind her desk and 
 
 "Second, the visual," Ms. Higgins continued, tapping the silver tablet. "What operating system is your laptop running?"
 
-Jordan typed: *Aura Glade.*
+Jordan typed: <aac>Aura Glade.</aac>
 
 Ms. Higgins nodded knowingly. "Aura Glade is fantastic for stability, but it famously hates the university's proprietary screen-mirroring software. So, we bypass it. I am checking out this dedicated MagnaByte mPad to you for the semester. Dr. Alistair's projector will broadcast directly to this mPad in real-time, allowing you to zoom in on the slides from the back row. Furthermore, I am legally mandating that he email you high-resolution PDFs of all lecture materials twenty-four hours in advance."
 
@@ -1701,7 +1701,7 @@ Ms. Higgins nodded knowingly. "Aura Glade is fantastic for stability, but it fam
 
 She tapped the extra packets on the desk. "I'm giving you a few extra copies to keep in your bag, too. Just in case you make another friend in your afternoon classes who wants to volunteer."
 
-Jordan looked at the packets. *Will they get in trouble for doing it?* he typed quickly.
+Jordan looked at the packets. <aac>Will they get in trouble for doing it?</aac> he typed quickly.
 
 "The exact opposite," Ms. Higgins laughed. "Once they sign these forms and return them to my office, the university will formally compensate them. They will both be granted Priority Course Registration for next semester."
 
@@ -1755,7 +1755,7 @@ He had just pulled his NeoEdit terminal up on his Vanguard Pro when a familiar, 
 
 Jordan spun around. Madison was walking down the tiered steps, a massive iced coffee in one hand and her backpack slung over her shoulder. Her face lit up with a brilliant smile as she spotted him.
 
-Jordan’s face mirrored her excitement. He furiously typed into his terminal: *You're in this class?*
+Jordan’s face mirrored her excitement. He furiously typed into his terminal: <aac>You're in this class?</aac>
 
 "Psych 101? Absolutely," Madison said, dropping her bag onto the chair right next to him. She slid into the seat, perfectly comfortable invading his space. "It fulfills one of my general education requirements for engineering. Plus, it's fascinating."
 
@@ -1763,7 +1763,7 @@ She glanced at his desk, noticing the sleek silver tablet and the black FM recei
 
 Jordan grinned. He reached into his backpack, pulled out one of the NCR-carbon-copy packets Ms. Higgins had given him, and slid it across the desk toward Madison.
 
-*Ms. Higgins gave me the tech to mirror the projector and hear the professor directly,* he typed, turning the screen so she could read it. *And she gave me these. If you sign this form to be my official note-taker, the university will give you Priority Course Registration for next semester.*
+<aac>Ms. Higgins gave me the tech to mirror the projector and hear the professor directly,</aac> he typed, turning the screen so she could read it. <aac>And she gave me these. If you sign this form to be my official note-taker, the university will give you Priority Course Registration for next semester.</aac>
 
 Madison’s blue eyes went completely wide. She stared at the packet, then looked up at him. "Are you serious? Priority Registration? Jordan, do you have any idea how hard it is to get into upper-level engineering labs as a sophomore? People literally cry over scheduling."
 
@@ -1775,7 +1775,7 @@ As Madison enthusiastically filled out the paperwork, the quiet, safe intimacy o
 
 He took a deep breath, his fingers hovering over his keyboard.
 
-*Aubrie dropped me off for the meeting,* he typed, hesitating for a fraction of a second before committing the rest of the sentence to the screen. *She kissed my cheek. And she told me she loved me.*
+<aac>Aubrie dropped me off for the meeting,</aac> he typed, hesitating for a fraction of a second before committing the rest of the sentence to the screen. <aac>She kissed my cheek. And she told me she loved me.</aac>
 
 Madison stopped writing. She put her pen down and looked at the bright green text on his screen.
 
@@ -1791,7 +1791,7 @@ She reached out and placed her hand gently over his. There was no trace of bitte
 
 Jordan stared at her, his heart swelling so much it felt like it might crack his ribs.
 
-*You're really okay with it?* he typed, his hands shaking slightly.
+<aac>You're really okay with it?</aac> he typed, his hands shaking slightly.
 
 "I am completely, one hundred percent okay with it," Madison promised, her gaze steady and true. She squeezed his hand before pulling back to finish signing the note-taker form. "Because I love you, too, Jordan. And since Aubrie is okay with that... everything is going to be just fine."
 
@@ -1883,7 +1883,7 @@ Jordan kept typing. *The darker colors actually really help cut the glare. It's 
 
 Jordan smiled, turning to his backpack hanging off the back of his chair. He pulled out the FM receiver box and the silver mPad Ms. Higgins had given him, but he didn't stop there. He reached into the front pocket and pulled out two crisp, official-looking referral slips from Educational Accessibility, handing them to Aubrie.
 
-*Ms. Higgins gave me these, too,* he typed, turning the screen so the whole room could see. *Referrals to the Student Health Center. For a real optometrist and an audiologist. They're going to get me glasses and see about hearing aids.*
+<aac>Ms. Higgins gave me these, too,</aac> he typed, turning the screen so the whole room could see. <aac>Referrals to the Student Health Center. For a real optometrist and an audiologist. They're going to get me glasses and see about hearing aids.</aac>
 
 A collective gasp of excitement swept through the tiny room. Aubrie threw her arms around his neck, burying her face in his shoulder, while Madison reached up from the floor to high-five him. Even Mark leaned over to clap him on the shoulder. It was a massive, tangible step toward independence, entirely outside his mother's control.
 
@@ -1933,7 +1933,7 @@ As Aubrie pulled her hair up into a messy bun, she turned to Jordan, who was sit
 
 Jordan froze. He looked back and forth between the two beautiful girls standing in the dim light of the dorm room. His brain practically short-circuited as it tried to process three simultaneous, impossible realities.
 
-First, he still couldn't entirely believe that Aubrie Kelly—bright, energetic, brilliant Aubrie—had willingly spent the last two nights squeezed into a bed with him. Second, the fact that he was actually being *asked* to choose between them felt like a fever dream. And third, he knew with absolute certainty that if he typed, *I just want to sleep alone tonight*, neither of them would be offended. They would just help him into bed and kiss his forehead. The Twin XL mattress was tiny, and he had the complete autonomy to say no.
+First, he still couldn't entirely believe that Aubrie Kelly—bright, energetic, brilliant Aubrie—had willingly spent the last two nights squeezed into a bed with him. Second, the fact that he was actually being <aac>asked</aac> to choose between them felt like a fever dream. And third, he knew with absolute certainty that if he typed, <aac>I just want to sleep alone tonight</aac>, neither of them would be offended. They would just help him into bed and kiss his forehead. The Twin XL mattress was tiny, and he had the complete autonomy to say no.
 
 But he didn't want to say no.
 
@@ -2273,7 +2273,7 @@ That Tuesday evening, after their first full day of classes, the group was relax
 
 He opened his Vanguard Pro laptop, the neon-green text glowing against the sleek interface as he typed a confession that mirrored what he had told Dr. Evans earlier that day.
 
-*That health class today,* he typed, his words glowing with hesitant but earnest vulnerability. *All those chapter titles... about the human body... I've never learned about any of that. My mother forcibly opted me out of those classes every year. She made me feel like it was dirty to even ask.*
+<aac>That health class today,</aac> he typed, his words glowing with hesitant but earnest vulnerability. <aac>All those chapter titles... about the human body... I've never learned about any of that. My mother forcibly opted me out of those classes every year. She made me feel like it was dirty to even ask.</aac>
 
 A deep, collective empathy filled the room. They understood this wasn't just about academics; it was about a fundamental part of his education and his own humanity that had been cruelly denied to him. It was Aubrie who, looking at the confusing, sterile diagrams in the open textbook on her desk, formulated a plan rooted in the unique trust their family had built.
 
@@ -2411,7 +2411,7 @@ She reached down to the floor beside the bed and pulled up a thick, knitted wint
 
 Jordan stared at the knitted fabric, his brow furrowing in confusion. He slowly reached over to his Vanguard Pro laptop resting on the nightstand, pulling it securely onto his lap. Bypassing the EchoType speech software so as not to wake the others, he launched his sleek, dark-themed Aura Glade terminal. He opened NeoEdit, scaling the bright, neon-green text up massively against the stark black background.
 
-*What is a toque?* he typed, angling the screen so she could read it.
+<aac>What is a toque?</aac> he typed, angling the screen so she could read it.
 
 Lauren let out a quiet, melodic laugh. "Oh, right! It's what we call a winter beanie. I'm a dual citizen, Jordan. I grew up in Canada."
 
@@ -2509,7 +2509,7 @@ He was guided into a small, sterile exam room. A few minutes later, a Nurse Prac
 
 "Jordan, hi. I'm Nurse Collins," she said, raising her volume slightly and speaking clearly. "Ms. Higgins sent over some notes regarding your visual and auditory baselines. Let's do a quick screening to get you officially into the university system, and then we'll get you where you need to go."
 
-Jordan typed a quick *Thank you* into his terminal, but his brow furrowed. *Where I need to go?*
+Jordan typed a quick <aac>Thank you</aac> into his terminal, but his brow furrowed. <aac>Where I need to go?</aac>
 
 The screenings were brief but painfully conclusive. When Nurse Collins asked him to read the eye chart on the wall, Jordan couldn't even make out the large 'E' at the top; to him, it was just a fuzzy, gray smudge against a white background. When she moved to the auditory test, utilizing a basic headset and a series of high-frequency tones, Jordan sat in complete silence. He didn't raise his hand once for any tone above a low, mid-range rumble.
 

@@ -35,7 +35,7 @@ It was an absolute, unspoken law of the Vanguard. Wyatt and Sarah were no longer
 
 Leo let out a low, deep, baritone purr of contentment, his broad shoulders relaxing as Nora rested her chin gently on the top of his head. He reached his shaking, spasming hand down to his lap tray, expertly slapping his customized AAC tablet.
 
-*"The supply line is efficient,"* Leo's deep, synthesized voice announced, praising the younger twins.
+<aac>"The supply line is efficient,"</aac> Leo's deep, synthesized voice announced, praising the younger twins.
 
 "Perimeter is green," Ellie agreed, offering Tyler and Evan a sharp, highly respected nod.
 
@@ -549,7 +549,7 @@ Leo didn’t even hesitate.
 
 His spastic hand struck the customized MagnaPad mounted to his lap tray with absolute, echoing finality.
 
-*"Negative,"* Leo’s deep, synthesized baritone voice boomed through the quiet living room. *"The mountain is my perimeter. The sensory matrix of the Coalition fleet is unregulated. I am not leaving the estate."*
+<aac>"Negative,"</aac> Leo’s deep, synthesized baritone voice boomed through the quiet living room. <aac>"The mountain is my perimeter. The sensory matrix of the Coalition fleet is unregulated. I am not leaving the estate."</aac>
 
 Wyatt let out a slow, silent exhale, a profound wave of relief washing over him. He understood his oldest son perfectly. To Leo, the flawless 21.6°C ambient temperature, the specific, muffled hum of the geothermal reactors, and the absolute predictability of the Sanctuary weren't just preferences—they were the neurological armor that allowed him to exist without pain.
 
@@ -1349,7 +1349,7 @@ Ellie looked up from her own tactical datapad. She stepped into his line of sigh
 
 Nora smiled, leaning her cheek affectionately against his temple. She took a deep breath, navigating the physical friction of her speech impediment to agree with him.
 
-"Too... loud," Nora breathed, the two words soft but fiercely validating. To save her energy for the rest of the thought, she quickly tapped her forearm AAC. *"But that's why we stay up here in the mountain. We like the quiet,"* the digital voice seamlessly finished for her.
+"Too... loud," Nora breathed, the two words soft but fiercely validating. To save her energy for the rest of the thought, she quickly tapped her forearm AAC. <aac>"But that's why we stay up here in the mountain. We like the quiet,"</aac> the digital voice seamlessly finished for her.
 
 Leo let out a loud, vibrating purr of absolute agreement, the deep sound rumbling comfortably in his massive chest.
 
@@ -1449,7 +1449,7 @@ Ellie crossed her arms over her tactical vest. The twenty-five-year-old commande
 
 "One hundred," Ellie confirmed, giving a single, sharp nod. "Acceptable. The perimeter can support a battalion of that size. Have we briefed the Administrators?"
 
-Nora tapped the sleek AAC device strapped to her forearm. *"Mom and Dad are down in the orchards. But they gave the Vanguard full executive authority over the decanting schedule last year. We can pull the trigger."*
+Nora tapped the sleek AAC device strapped to her forearm. <aac>"Mom and Dad are down in the orchards. But they gave the Vanguard full executive authority over the decanting schedule last year. We can pull the trigger."</aac>
 
 Leo hummed a steady, approving note. He turned his attention back to the holotable.
 
@@ -1519,7 +1519,7 @@ Nora’s breath hitched. Her deeply empathetic heart instantly recognized the mo
 
 "We... never," Nora breathed out, the two syllables fierce and absolute.
 
-She lifted her left hand, tapping her forearm AAC to finish the thought without exhausting herself. *"We are not Apex, Ellie. We do not rule them. We are just keeping the rain off their heads."*
+She lifted her left hand, tapping her forearm AAC to finish the thought without exhausting herself. <aac>"We are not Apex, Ellie. We do not rule them. We are just keeping the rain off their heads."</aac>
 
 Leo let out a deep, vibrating baritone hum. His scissored legs remained perfectly relaxed against his footboards, completely undisturbed by the philosophical weight of the conversation. To Leo, the math was incredibly simple. The geometry of their existence had already been perfectly defined by their father.
 
@@ -1587,7 +1587,7 @@ Wyatt raised an eyebrow, a slow, deeply proud smile spreading across his scarred
 
 "One hundred," Wyatt echoed. "That's a massive deployment, Commander. Are you sure the mountain’s infrastructure can handle the localized load?"
 
-*"The geothermal grid has already been re-routed by twenty percent to compensate for the artificial wombs,"* Leo's synthesized baritone chimed flawlessly over the comms, jumping in to back up his sister with the raw math. *"The nursery capacity on Sub-Level 6 has been expanded. The logistics are perfectly optimal, Dad. We have it handled."*
+<aac>"The geothermal grid has already been re-routed by twenty percent to compensate for the artificial wombs,"</aac> Leo's synthesized baritone chimed flawlessly over the comms, jumping in to back up his sister with the raw math. <aac>"The nursery capacity on Sub-Level 6 has been expanded. The logistics are perfectly optimal, Dad. We have it handled."</aac>
 
 Wyatt let out a low, booming chuckle. For a man who used to lay awake at night terrified of how they would feed fifty thousand babies, hearing his twenty-five-year-old son casually manage a hundred of them was the ultimate relief.
 
@@ -1701,7 +1701,7 @@ Leo looked up. Twenty-five-year-old Ellie strode across the staging bay, a heavy
 
 Nora walked up quietly beside Ellie. She leaned her weight onto her titanium forearm crutches, her empathetic eyes scanning Leo's posture to ensure his pre-deployment anxiety was regulated.
 
-"I verified the medical and sensory supplies," Nora whispered, her breathy voice muffled perfectly by Leo's acoustic dampeners. She tapped the sleek AAC device on her forearm to relay the longer data stream. *"Your weighted compression vests are packed, Leo. I also packed the thermal blankets in case the temperature drops significantly near the water at night."*
+"I verified the medical and sensory supplies," Nora whispered, her breathy voice muffled perfectly by Leo's acoustic dampeners. She tapped the sleek AAC device on her forearm to relay the longer data stream. <aac>"Your weighted compression vests are packed, Leo. I also packed the thermal blankets in case the temperature drops significantly near the water at night."</aac>
 
 Leo reached down to his lap tray, his large fingers striking the keys of his tablet.
 
@@ -1751,7 +1751,7 @@ Leo watched from his chair, a deep, resonant purr of satisfaction vibrating in h
 
 Nora walked out of the massive tent, her crutches sinking slightly into the soft pine needles. She navigated the uneven terrain carefully until she reached Leo's side. She leaned against his wheel, wrapping her arm securely around his shoulder.
 
-"The Mega-Bed is inflated in our sector," Nora breathed softly, pressing a kiss to his temple. She tapped her AAC. *"It takes up the entire floor of Partition Three. We have the heavy blankets and your compression vest perfectly laid out. It feels just like our room back home."*
+"The Mega-Bed is inflated in our sector," Nora breathed softly, pressing a kiss to his temple. She tapped her AAC. <aac>"It takes up the entire floor of Partition Three. We have the heavy blankets and your compression vest perfectly laid out. It feels just like our room back home."</aac>
 
 Leo reached down and typed on his MagnaPad.
 
@@ -1885,7 +1885,7 @@ Leo hummed a steady, approving note. He reached his hand down to his MagnaPad.
 
 Nora, leaning her weight comfortably against the back of the rover, let out a breathy, deeply affectionate giggle. She shifted her cheek, pressing it affectionately against Leo's temple.
 
-*"She loves him very much,"* Nora’s AAC chimed from her forearm, her empathetic heart perfectly translating Leo's mechanical observation into human warmth. *"It is a good beach, Leo."*
+<aac>"She loves him very much,"</aac> Nora’s AAC chimed from her forearm, her empathetic heart perfectly translating Leo's mechanical observation into human warmth. <aac>"It is a good beach, Leo."</aac>
 
 "It is mathematically sound," Leo agreed via the tablet, his scissored legs completely relaxed against the footboards as the massive balloon tires held him perfectly steady in the sand.
 

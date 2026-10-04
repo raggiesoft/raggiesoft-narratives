@@ -285,7 +285,7 @@ Tom Berringer let the weight of his suggestion settle in the quiet loft. He coul
 
 "You all know Jessica Taylor is the most respected cross-platform dev in the industry," Tom began, his voice low and serious. "But you don't know the half of it. What I'm about to tell you does not leave this room."
 
-He paused, ensuring he had everyone's complete attention. "For the past year, Jessica has been flying from Redmond to Cupertino, at least twice a month. This was not public knowledge. She was the lead architect—the *only* **Quantum** engineer initially allowed on **MagnaByte's** campus—to begin the secret, foundational work on what the world now knows as **Quantum Office Suite 98 for MagnaOS**".
+He paused, ensuring he had everyone's complete attention. "For the past year, Jessica has been flying from Redmond to Cupertino, at least twice a month. This was not public knowledge. She was the lead architect—the <aac>only</aac> **Quantum** engineer initially allowed on **MagnaByte's** campus—to begin the secret, foundational work on what the world now knows as **Quantum Office Suite 98 for MagnaOS**".
 
 A wave of shock rippled through the developers. They were industry insiders, but this was a level of trust and secrecy they had never imagined.
 
@@ -1011,7 +1011,7 @@ Jessica watched as a baggage cart zipped past their plane. "If Quantum is my hom
 
 She turned to them, her expression becoming more animated. "That's what this partnership is really about. It's not just two CEOs on a screen. It's about the people who build things, working together. And that's what you're about to see."
 
-She leaned in, her voice filled with a quiet excitement that was contagious. "That 'About' box you both wrote? The code you've been checking in for the past few weeks? You're about to walk into a MagnaByte development lab, on their campus, and see the code *you wrote* running live on their machines, on MagnaOS. You're going to see your work living in their world."
+She leaned in, her voice filled with a quiet excitement that was contagious. "That 'About' box you both wrote? The code you've been checking in for the past few weeks? You're about to walk into a MagnaByte development lab, on their campus, and see the code <aac>you wrote</aac> running live on their machines, on MagnaOS. You're going to see your work living in their world."
 
 The full weight of the trip seemed to land on Kelly and Ryan at that moment. This wasn't just a field trip. They were contributors. The lines of code they had so carefully crafted in their shared corner of Jessica's office had already crossed the country and were waiting for them in a lab in Cupertino.
 
@@ -1225,7 +1225,7 @@ When they arrived at the lab, a simple, lightweight manual wheelchair was waitin
 
 The **MagnaByte** development lab was a space of controlled chaos, humming with the energy of creation. Workbenches were covered in circuit boards and prototype casings, and the air smelled of solder and electricity. For **Kelly**, it felt like the most exciting place on Earth. For **Ryan**, who now sat in the manual wheelchair, every small bump in the floor sent a jolt of pain through his hip. He was pale and quiet, the effort of masking his exhaustion taking its toll.
 
-**David** led them to a workstation where a sleek MagnaByte computer was running the latest internal build of **Aurora Presenter**. "Alright," he said, gesturing to the screen. "This was synced from your team's repository this morning. Kelly, you want to do the honors?" He pointed to the menu item: *Help \> About Aurora Presenter*.
+**David** led them to a workstation where a sleek MagnaByte computer was running the latest internal build of **Aurora Presenter**. "Alright," he said, gesturing to the screen. "This was synced from your team's repository this morning. Kelly, you want to do the honors?" He pointed to the menu item: <aac>Help \> About Aurora Presenter</aac>.
 
 This was the moment she had been waiting for, the ultimate antidote to the trauma of **Aurora Systems**. Her hand was steady as she reached for the mouse and clicked. A small, clean window popped up in the center of the screen.
 

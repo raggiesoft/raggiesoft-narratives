@@ -1250,7 +1250,7 @@ Nichole looked at the nurse. The meltdown was receding, leaving her exhausted an
 
 She appreciated that they asked. Even after seeing her cling to him, they still asked. That was good. That meant the system worked.
 
-She reached for her *Apex ConvertiBook*. She typed slowly, her hand shaking from the adrenaline crash.
+She reached for her <aac>Apex ConvertiBook</aac>. She typed slowly, her hand shaking from the adrenaline crash.
 
 "PAIN. SCARED. ME."
 
@@ -1769,7 +1769,7 @@ Patrick saw the motion. He understood instantly.
 
 "He's gone, Nikki," Patrick said, his voice dropping to that low, resonant register he used for regulation. "He's not here."
 
-Nichole shook her head violently. She kept scrubbing. She reached for her *ConvertiBook*. Her fingers trembled as she typed.
+Nichole shook her head violently. She kept scrubbing. She reached for her <aac>ConvertiBook</aac>. Her fingers trembled as she typed.
 
 DIRTY HE TOUCHED
 

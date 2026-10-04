@@ -23,7 +23,7 @@ Sarah wiped the last tear from her cheek, her innate resilience locking back int
 
 A moment later, the heavy amber CRT monitor flickered. The chaotic, unencrypted metadata from the Earth broadcast vanished, replaced by a clean, geometric wireframe projection of the planet below.
 
-*"Scanning now, Wyatt,"* Aria’s pleasant, synthesized voice echoed through the bulkhead speakers. *"Atmospheric telemetry confirms the archived data. The nitrogen-oxygen mix is perfectly stable and free of toxic particulates. The magnetosphere is robust. The surface is entirely viable for baseline human habitation."*
+<aac>"Scanning now, Wyatt,"</aac> Aria’s pleasant, synthesized voice echoed through the bulkhead speakers. <aac>"Atmospheric telemetry confirms the archived data. The nitrogen-oxygen mix is perfectly stable and free of toxic particulates. The magnetosphere is robust. The surface is entirely viable for baseline human habitation."</aac>
 
 "Where do we put her down?" Sarah asked, leaning over Wyatt’s shoulder to look at the scrolling data on the amber screen. "She's a Heavy Hauler, Aria. We can't just land in a meadow. If the soil is too soft, the landing struts will sink, and the hull will capsize under its own weight."
 
@@ -147,7 +147,7 @@ The PDA chimed softly in his hand.
 
 Sarah looked at Wyatt, her eyes wide as the AI's words washed over her.
 
-*"To be precise, Administrators,"* Aria continued, her synthesized tone carrying a distinct note of absolute finality, *"you are the only two human beings on this planet. You have the entire world to yourselves."*
+<aac>"To be precise, Administrators,"</aac> Aria continued, her synthesized tone carrying a distinct note of absolute finality, <aac>"you are the only two human beings on this planet. You have the entire world to yourselves."</aac>
 
 Wyatt slowly lowered the PDA, clipping it back to his belt.
 
@@ -217,7 +217,7 @@ The PDA chimed softly in his hand.
 
 Sarah looked at Wyatt, her eyes wide as the AI's words washed over her.
 
-*"To be precise, Administrators,"* Aria continued, her synthesized tone carrying a distinct note of absolute finality, *"you are the only two human beings on this planet. You have the entire world to yourselves."*
+<aac>"To be precise, Administrators,"</aac> Aria continued, her synthesized tone carrying a distinct note of absolute finality, <aac>"you are the only two human beings on this planet. You have the entire world to yourselves."</aac>
 
 Wyatt slowly lowered the PDA, clipping it back to his belt.
 
@@ -515,7 +515,7 @@ Apex knew they were alive. And Apex knew they carried the secrets of Earth's des
 
 Wyatt and Sarah exchanged a look. "The Ghost Protocol?"
 
-*"The billionaire who built this dreadnought had many enemies,"* Aria explained, a hint of digital pride coloring her synthesized voice. *"His paranoia was extensive. My core architecture allows me to completely rewrite the ship's digital identity on a foundational level. With your authorization, I can scrub every physical MAC address, digital signature, and corporate registry tied to Outpost Delta 9 and Legacy Asset 44-A. I can generate a flawless, randomized civilian freighter signature under the designation you have chosen: The Nomad."*
+<aac>"The billionaire who built this dreadnought had many enemies,"</aac> Aria explained, a hint of digital pride coloring her synthesized voice. <aac>"His paranoia was extensive. My core architecture allows me to completely rewrite the ship's digital identity on a foundational level. With your authorization, I can scrub every physical MAC address, digital signature, and corporate registry tied to Outpost Delta 9 and Legacy Asset 44-A. I can generate a flawless, randomized civilian freighter signature under the designation you have chosen: The Nomad."</aac>
 
 Wyatt’s eyes widened. It was the digital equivalent of filing the serial numbers off a stolen gun and painting it a different color.
 
@@ -585,7 +585,7 @@ Sarah looked at the server. She knew exactly how the megacorporation operated on
 
 "Exactly," Wyatt nodded, a fierce, predatory gleam in his eyes. "Apex is looking for two terrified, minimum-wage grunts flying completely blind in a 1970s analog relic. They have absolutely no idea they're hunting a cloaked dreadnought co-piloted by a state-of-the-art supercomputer."
 
-*"I find their reliance on organic subjugation highly inefficient and morally objectionable,"* Aria chimed in, her synthesized voice carrying a distinctly protective edge. *"I will ensure our digital footprint remains entirely obfuscated."*
+<aac>"I find their reliance on organic subjugation highly inefficient and morally objectionable,"</aac> Aria chimed in, her synthesized voice carrying a distinctly protective edge. <aac>"I will ensure our digital footprint remains entirely obfuscated."</aac>
 
 "Let's get her moved," Wyatt said, taking Sarah's hand.
 
@@ -931,7 +931,7 @@ Wyatt leaned back in his chair, processing her words. His protective instinct—
 
 Before Wyatt could argue, a deep, resonant mechanical whirring vibrated through the deck plates beneath their bare feet.
 
-*"Good morning, Administrators,"* Aria’s pleasant, synthesized voice echoed softly from the galley's overhead speakers. *"The local sun has cleared the eastern ridge. I am deploying the solar arrays to their maximum span to begin the daily battery recharge cycle."*
+<aac>"Good morning, Administrators,"</aac> Aria’s pleasant, synthesized voice echoed softly from the galley's overhead speakers. <aac>"The local sun has cleared the eastern ridge. I am deploying the solar arrays to their maximum span to begin the daily battery recharge cycle."</aac>
 
 Outside the viewport, the massive, armored wings of *The Nomad* smoothly extended, sliding silently through the upper branches of the canopy. The pristine photovoltaic panels angled themselves perfectly, catching the golden morning light. The ship wasn't burning fuel. It wasn't emitting exhaust. It was simply sitting in the forest, drinking in the sun right alongside the trees.
 
@@ -1275,7 +1275,7 @@ Wyatt cupped her face in his large, calloused hands. A profound, overwhelming wa
 
 "Aria," Sarah called out softly, not breaking her gaze from her husband. "Update the ship's internal registry."
 
-*"With immense pleasure, Sarah,"* Aria chimed warmly from the overhead speakers, her synthesized voice completely ignoring the Apex broadcast echoing from the tech room. *"The primary administrator registry has been permanently updated. Congratulations, Mr. and Mrs. Colton."*
+<aac>"With immense pleasure, Sarah,"</aac> Aria chimed warmly from the overhead speakers, her synthesized voice completely ignoring the Apex broadcast echoing from the tech room. <aac>"The primary administrator registry has been permanently updated. Congratulations, Mr. and Mrs. Colton."</aac>
 
 Wyatt let out a loud, joyous laugh, wrapping his arms around his wife and burying his face in her neck.
 
@@ -1511,7 +1511,7 @@ Wyatt walked past the sprawling, state-of-the-art kitchen, his eyes scanning the
 
 "One, two, three... there's at least eight separate living suites down there," Wyatt noted, thoroughly confused. He looked up at the ceiling. "Aria, this place is massive. Why did a paranoid billionaire build a mansion with enough bedrooms for twenty people?"
 
-*"The original architect did not intend to live in isolation, Wyatt,"* Aria explained, her synthesized voice carrying a faint, historical detachment. *"This facility was designed as a generational sanctuary. He planned to host his extended family, as well as the families of his four primary executive board members. However, based on the incomplete data logs from the Sol System, those families were intercepted by Apex Defense Solutions before they could board the transport."*
+<aac>"The original architect did not intend to live in isolation, Wyatt,"</aac> Aria explained, her synthesized voice carrying a faint, historical detachment. <aac>"This facility was designed as a generational sanctuary. He planned to host his extended family, as well as the families of his four primary executive board members. However, based on the incomplete data logs from the Sol System, those families were intercepted by Apex Defense Solutions before they could board the transport."</aac>
 
 A heavy silence settled over the luxurious living room.
 
@@ -1591,7 +1591,7 @@ Wyatt stood up from the sofa, pulling Sarah up with him. They walked over to the
 
 "A genetic repository," Sarah breathed, her eyes widening as the sheer scale of the billionaire's backup plan became clear. "Aria... what exactly is in that vault?"
 
-*"The vault contains fifty thousand distinct, genetically screened, and fully viable human embryos,"* Aria confirmed, her synthesized voice devoid of emotion but delivering the most profound news they had ever heard. *"They were secured from diverse, non-corporate civilian populations prior to the fall of Earth. The facility is also equipped with a state-of-the-art medical wing featuring automated gestation pods, designed specifically to safely bring those embryos to term."*
+<aac>"The vault contains fifty thousand distinct, genetically screened, and fully viable human embryos,"</aac> Aria confirmed, her synthesized voice devoid of emotion but delivering the most profound news they had ever heard. <aac>"They were secured from diverse, non-corporate civilian populations prior to the fall of Earth. The facility is also equipped with a state-of-the-art medical wing featuring automated gestation pods, designed specifically to safely bring those embryos to term."</aac>
 
 Wyatt and Sarah stood completely speechless.
 
@@ -2017,7 +2017,7 @@ She stood up from the sofa, entirely bare and entirely comfortable in the estate
 
 "We've seen the master suite, the kitchen, the indoor pool, and the Genesis Vault," Sarah mused, tracing a finger lightly against the cool glass. She looked up toward the ceiling array. "Aria, this mountain is massive. The original architect planned to host twenty people for multiple generations. What else did he build in here to keep them from going crazy?"
 
-*"The estate is equipped with several high-tier recreational and utility sectors designed to combat the psychological effects of prolonged subterranean isolation, Sarah,"* Aria’s synthesized voice chimed pleasantly. *"There is a fully automated Fabrication Foundry on Sub-Level 2, and the Earth Conservatory on Sub-Level 1. Would you care for a tour before lunch?"*
+<aac>"The estate is equipped with several high-tier recreational and utility sectors designed to combat the psychological effects of prolonged subterranean isolation, Sarah,"</aac> Aria’s synthesized voice chimed pleasantly. <aac>"There is a fully automated Fabrication Foundry on Sub-Level 2, and the Earth Conservatory on Sub-Level 1. Would you care for a tour before lunch?"</aac>
 
 Wyatt was immediately off the sofa. "A Fabrication Foundry? Like a machine shop?"
 
@@ -2281,7 +2281,7 @@ Below it was a perfectly formatted, easy-to-read table displaying the IDs and ge
 
 It worked flawlessly. She hadn't just searched a database; she had built a functional, digital tool to interact with it.
 
-*"Script compiled and executed with zero errors,"* Aria announced, a note of programmed approval in her synthesized voice. *"The server-side connection is stable, and the HTML rendering is structurally sound. You have successfully built your first dynamic web page, Sarah. I am logging a passing grade."*
+<aac>"Script compiled and executed with zero errors,"</aac> Aria announced, a note of programmed approval in her synthesized voice. <aac>"The server-side connection is stable, and the HTML rendering is structurally sound. You have successfully built your first dynamic web page, Sarah. I am logging a passing grade."</aac>
 
 "Wyatt, look!" Sarah gasped, completely thrilled. She tapped the glass, sliding the rendered web page over to his side of the table so he could see. "I built an interface! We can actually use this to track the generations when we start decanting them!"
 
@@ -2331,7 +2331,7 @@ Sarah looked back at the blank glass of the holographic table, her mind pivoting
 
 "What about the Genesis Vault, Aria?" Sarah asked. "When we finally decide to initialize the automated medical wing and start decanting those embryos... when does the system decide if they are boys or girls? And when do we find out?"
 
-*"I believe you already have the answer to that question, Sarah,"* Aria replied, her synthesized voice carrying a distinct note of programmed pride. *"Consider the SQL query you wrote this morning, and the PHP web page you just rendered."*
+<aac>"I believe you already have the answer to that question, Sarah,"</aac> Aria replied, her synthesized voice carrying a distinct note of programmed pride. <aac>"Consider the SQL query you wrote this morning, and the PHP web page you just rendered."</aac>
 
 Sarah frowned, her analytical mind immediately pulling up the plain text code she had just written.
 
@@ -2581,7 +2581,7 @@ She looked up toward the ceiling of the cavern.
 
 "How long until the valley floor is dry?" Sarah asked the AI. "Since there are no dams or artificial levees downstream, how long does it naturally take for nineteen meters of floodwater to completely empty out of a basin like that?"
 
-*"Because the downstream topography is an entirely unobstructed natural gradient, the drainage velocity is exceptionally high,"* Aria explained, her synthesized voice echoing smoothly over the gentle cascade of the indoor waterfall. *"The primary volume of the floodwater will return to the central riverbed in approximately ten to fourteen days."*
+<aac>"Because the downstream topography is an entirely unobstructed natural gradient, the drainage velocity is exceptionally high,"</aac> Aria explained, her synthesized voice echoing smoothly over the gentle cascade of the indoor waterfall. <aac>"The primary volume of the floodwater will return to the central riverbed in approximately ten to fourteen days."</aac>
 
 "Two weeks," Sarah smiled, looking at Wyatt. "That's not bad at all."
 
@@ -2729,7 +2729,7 @@ Wyatt paused, leaving the spatula resting on the edge of the pan. He turned his 
 
 The glowing blue ring on the kitchen’s secondary terminal pulsed as the AI processed the query.
 
-*"I have synthesized data across approximately four thousand years of recorded human history, cross-referencing pediatric journals, sociological studies, and autobiographical accounts,"* Aria explained smoothly. *"However, before I provide a summary, I must establish my operational boundaries. As a narrow Generative AI, my core safety guidelines strictly prohibit me from making medical, psychological, or developmental decisions for a human child. I cannot act as a surrogate parent, a nanny, or a pediatrician. I can provide peer-reviewed data, monitor the environmental safety of the estate, and curate educational modules, but the executive application of parenting must fall entirely to you."*
+<aac>"I have synthesized data across approximately four thousand years of recorded human history, cross-referencing pediatric journals, sociological studies, and autobiographical accounts,"</aac> Aria explained smoothly. <aac>"However, before I provide a summary, I must establish my operational boundaries. As a narrow Generative AI, my core safety guidelines strictly prohibit me from making medical, psychological, or developmental decisions for a human child. I cannot act as a surrogate parent, a nanny, or a pediatrician. I can provide peer-reviewed data, monitor the environmental safety of the estate, and curate educational modules, but the executive application of parenting must fall entirely to you."</aac>
 
 "We wouldn't have it any other way, Aria," Wyatt replied, a soft, protective smile touching his lips. "We don't want an algorithm raising our kids. We just want the textbooks. What's the consensus?"
 
@@ -2741,7 +2741,7 @@ Wyatt let out a low, highly amused chuckle, turning back to the stove to slide t
 
 "But this time," Sarah countered, a bright, fierce warmth in her eyes as she reached out to grab his forearm, "the protective bond is for someone we actually love, not a megacorporation's drill bit."
 
-*"The data heavily emphasizes adaptability,"* Aria added, projecting a few bulleted points of synthesized psychological advice onto the glass terminal. *"Human infants do not adhere to strict logical frameworks. The most successful parenting models in the archives stress the importance of a unified partnership. Parents who approach child-rearing as a collaborative, highly communicative team report significantly lower stress levels and higher developmental success rates."*
+<aac>"The data heavily emphasizes adaptability,"</aac> Aria added, projecting a few bulleted points of synthesized psychological advice onto the glass terminal. <aac>"Human infants do not adhere to strict logical frameworks. The most successful parenting models in the archives stress the importance of a unified partnership. Parents who approach child-rearing as a collaborative, highly communicative team report significantly lower stress levels and higher developmental success rates."</aac>
 
 Sarah looked at Wyatt as he set the plate of food down in front of her.
 
@@ -2793,7 +2793,7 @@ He walked over to the secondary command terminal bolted near the safety glass an
 
 "Aria," Wyatt called out, his hands flying across the digital keyboard to pull up the foundry's raw material inventory. "I want to commission a secondary build. An atmospheric shuttle. Four seats, light cargo capacity, and completely unarmed. A family car."
 
-*"Acknowledged, Wyatt,"* Aria’s synthesized voice echoed through the industrial roar of the room. *"I have loaded a standard, civilian-grade atmospheric chassis template from the archives. The foundry has sufficient raw titanium and polymerized composites remaining to construct the shuttle without compromising The Nomad's hull integrity. Initializing secondary molecular printers now."*
+<aac>"Acknowledged, Wyatt,"</aac> Aria’s synthesized voice echoed through the industrial roar of the room. <aac>"I have loaded a standard, civilian-grade atmospheric chassis template from the archives. The foundry has sufficient raw titanium and polymerized composites remaining to construct the shuttle without compromising The Nomad's hull integrity. Initializing secondary molecular printers now."</aac>
 
 At the far end of the hangar, a cluster of massive, dormant 3D printers hummed to life, a blue laser grid immediately beginning to map the foundation of their new runabout.
 
@@ -2803,7 +2803,7 @@ But as the holographic display on the terminal automatically reverted to its sta
 
 "Aria," Wyatt said, his smile fading slightly as he stared at the screen. "What are these files in the local cache? They're timestamped for yesterday."
 
-*"Those are the final, synthesized data packets intercepted from the Sol System prior to the complete collapse of the human communications grid, Wyatt,"* Aria explained smoothly. *"I compiled them while you were sleeping to provide a definitive conclusion to the events on Earth."*
+<aac>"Those are the final, synthesized data packets intercepted from the Sol System prior to the complete collapse of the human communications grid, Wyatt,"</aac> Aria explained smoothly. <aac>"I compiled them while you were sleeping to provide a definitive conclusion to the events on Earth."</aac>
 
 Sarah walked over, the industrial noise of the foundry suddenly feeling very far away. The memory of the horrific broadcasts they had listened to in the FTL slipstream—the loss of Las Vegas, the evacuation of Los Angeles, and the military's desperate, apocalyptic attempt to burn the Rocky Mountains to the mantle—flooded back.
 
@@ -2847,7 +2847,7 @@ They took their places on the plush leather sofa, sinking comfortably into the c
 
 "Alright, Aria," Sarah called out, tapping the edge of the massive holographic glass table to wake the terminal. "We saw the new hull and commissioned the family car. Now, it's time to figure out how to actually raise a family. Pull up the pediatric and obstetric archives."
 
-*"Accessing medical and developmental databanks now,"* Aria chimed, her synthesized voice echoing warmly from the ceiling array.
+<aac>"Accessing medical and developmental databanks now,"</aac> Aria chimed, her synthesized voice echoing warmly from the ceiling array.
 
 The glass table hummed, projecting a pristine, glowing blue, three-dimensional model of a human timeline. It broke down the standard forty-week gestation period, complete with nutritional requirements, developmental milestones, and a massive sub-directory on early childhood cognitive pacing.
 
@@ -2927,7 +2927,7 @@ The panel hissed shut. But instead of the usual, quick *whoosh* of the pneumatic
 
 Wyatt paused, his mechanic's ear instantly catching the new sound. "Aria? Did something jam in the chute?"
 
-*"Negative, Wyatt,"* Aria’s synthesized voice chimed from the ceiling array, perfectly calm. *"The pneumatic delivery was successful. The sound you are hearing is the primary sanitization cycle engaging. The collective weight of your garments from yesterday and today has finally met the minimum mass threshold required to run a full, water-efficient load."*
+<aac>"Negative, Wyatt,"</aac> Aria’s synthesized voice chimed from the ceiling array, perfectly calm. <aac>"The pneumatic delivery was successful. The sound you are hearing is the primary sanitization cycle engaging. The collective weight of your garments from yesterday and today has finally met the minimum mass threshold required to run a full, water-efficient load."</aac>
 
 "So it's actually doing laundry right now," Sarah smiled, leaning her bare shoulder against the warm stone wall.
 
@@ -3670,7 +3670,7 @@ He looked up toward the mahogany ceiling panels, a genuine, theoretical curiosit
 
 The glowing blue ring on the table pulsed for a microsecond before Aria’s pleasant, synthesized voice filled the room.
 
-*"I must inform you, Wyatt, that healthy, controlled growth acceleration in human beings is a complete biological impossibility,"* Aria stated, her tone carrying a distinct, almost programmed note of amusement. *"Your inquiry aligns perfectly with a fictional narrative plot device originating from a highly popular, early-twenty-first-century space opera film released in the year 2002."*
+<aac>"I must inform you, Wyatt, that healthy, controlled growth acceleration in human beings is a complete biological impossibility,"</aac> Aria stated, her tone carrying a distinct, almost programmed note of amusement. <aac>"Your inquiry aligns perfectly with a fictional narrative plot device originating from a highly popular, early-twenty-first-century space opera film released in the year 2002."</aac>
 
 Sarah let out a sudden, bright laugh, covering her mouth with her hand. "Wyatt, you're asking the supercomputer for movie magic."
 
@@ -3936,7 +3936,7 @@ Sarah stopped breathing. The entire Earth Conservatory seemed to spin.
 
 She looked at Wyatt, sheer, unadulterated terror mixing with absolute disbelief. "Aria, that's impossible. I got the S.H.O.P. Marine Omni-Cycle injection before I left the colony. I have five and a half months of active blockers left. And even if the blocker failed, a baby bump doesn't just appear out of nowhere! The math makes zero sense. It's May!"
 
-*"I understand your confusion, Sarah,"* Aria replied, her synthesized voice remaining perfectly calm and educational. *"However, biological data supersedes corporate schedules. And your temporal mathematics are currently flawed. Please recall the localized calendar calibration we executed upon planetfall."*
+<aac>"I understand your confusion, Sarah,"</aac> Aria replied, her synthesized voice remaining perfectly calm and educational. <aac>"However, biological data supersedes corporate schedules. And your temporal mathematics are currently flawed. Please recall the localized calendar calibration we executed upon planetfall."</aac>
 
 Wyatt’s brow furrowed. "The calendar calibration?"
 
@@ -4010,7 +4010,7 @@ She pressed her fingers against the pronounced, firm swell of her stomach. It wa
 
 Wyatt looked down at her stomach, the exact same mechanical logic clicking in his head. You couldn't build an engine housing before you had the engine.
 
-*"It is a highly common physical misconception, Sarah,"* Aria’s synthesized voice explained smoothly, maintaining her warm, educational cadence. *"What you are currently experiencing is not the physical mass of the fetus. It is severe, acute hormonal bloating."*
+<aac>"It is a highly common physical misconception, Sarah,"</aac> Aria’s synthesized voice explained smoothly, maintaining her warm, educational cadence. <aac>"What you are currently experiencing is not the physical mass of the fetus. It is severe, acute hormonal bloating."</aac>
 
 "Bloating?" Sarah asked, incredibly skeptical that mere fluid could feel this rigid.
 
@@ -4070,7 +4070,7 @@ Wyatt stepped up to the sleek, multi-monitor ultrasound machine resting beside t
 
 "Aria," Wyatt said, his voice tight with a mixture of overwhelming excitement and protective anxiety. "Power up the obstetric array. Tell us what we're looking at."
 
-*"The primary bio-bed and ultrasonography array are now active, Wyatt,"* Aria’s pleasant, synthesized voice echoed from the room's clinical speakers. *"However, I must formally remind you of my core safety guardrails. As a narrow Generative AI, I am strictly prohibited from rendering an official medical diagnosis, prescribing treatment, or acting as a licensed physician. I can only operate the machinery, display the raw telemetry, and define standard biological parameters."*
+<aac>"The primary bio-bed and ultrasonography array are now active, Wyatt,"</aac> Aria’s pleasant, synthesized voice echoed from the room's clinical speakers. <aac>"However, I must formally remind you of my core safety guardrails. As a narrow Generative AI, I am strictly prohibited from rendering an official medical diagnosis, prescribing treatment, or acting as a licensed physician. I can only operate the machinery, display the raw telemetry, and define standard biological parameters."</aac>
 
 "Understood, Aria. Just show us the raw data," Sarah said, lying back against the elevated headrest. She looked at Wyatt, offering a brave, trembling smile. "We can read the screen."
 
@@ -4223,7 +4223,7 @@ Wyatt stood up to his full 6'1" height, a massive, irrepressible grin spreading 
 
 "Aria," Wyatt called out, his S.H.O.P. Marine pragmatism finally starting to break through the shock. "How does a multiple-gestation pregnancy change our operating manual? We just spent the afternoon studying the timeline for a single baby. Throw that out. What do we need to know about triplets?"
 
-*"The foundational biology remains the same, Wyatt,"* Aria’s synthesized voice replied, shifting instantly into a supportive, clinical cadence. *"However, the physiological demands on Sarah’s body will be significantly magnified. A trichorionic triamniotic pregnancy requires a massive increase in maternal caloric intake. Sarah will need to consume roughly double the standard daily calories to support the development of three distinct placentas."*
+<aac>"The foundational biology remains the same, Wyatt,"</aac> Aria’s synthesized voice replied, shifting instantly into a supportive, clinical cadence. <aac>"However, the physiological demands on Sarah’s body will be significantly magnified. A trichorionic triamniotic pregnancy requires a massive increase in maternal caloric intake. Sarah will need to consume roughly double the standard daily calories to support the development of three distinct placentas."</aac>
 
 Wyatt looked down at Sarah. "Good thing we planted potatoes today."
 
@@ -4353,7 +4353,7 @@ Wyatt sprinted down the main corridor, his arms loaded with a massive stack of r
 
 He burst through the brushed-steel doors of the automated medical wing. The pristine, sterile facility was completely gone, swallowed by an endless sea of tiny, hovering bassinets. They stretched down the hallways, spilled into the examination rooms, and completely choked the surgical bays.
 
-*"Warning,"* Aria’s synthesized voice blared from the ceiling, completely devoid of her usual warmth. *"Hydroponic yields depleted. Pureed spinach reserves at zero percent. Current crib deficit: forty-nine thousand, nine hundred and ninety-seven."*
+<aac>"Warning,"</aac> Aria’s synthesized voice blared from the ceiling, completely devoid of her usual warmth. <aac>"Hydroponic yields depleted. Pureed spinach reserves at zero percent. Current crib deficit: forty-nine thousand, nine hundred and ninety-seven."</aac>
 
 "I'm building as fast as I can!" Wyatt roared over the deafening wails of fifty thousand infants, dropping the massive stack of timber onto the floor with a heavy clatter. He looked down at his hands—he didn't even have a hammer. He had a socket wrench and a 1985 VCR remote.
 
@@ -4413,7 +4413,7 @@ Sarah walked past him, stepping up to the circular command terminal in the cente
 
 "Aria," Sarah said quietly, her breath forming a white cloud in the air. "Status report on the Genesis cohort. Have any decanting sequences been initiated?"
 
-*"The Genesis cohort remains in perfectly stabilized cryogenic stasis, Sarah,"* Aria’s synthesized voice chimed from the vault's speakers, calm and unbothered. *"Zero subjects have been initiated for the decanting process. The automated medical wing on Sub-Level 1 remains entirely dormant."*
+<aac>"The Genesis cohort remains in perfectly stabilized cryogenic stasis, Sarah,"</aac> Aria’s synthesized voice chimed from the vault's speakers, calm and unbothered. <aac>"Zero subjects have been initiated for the decanting process. The automated medical wing on Sub-Level 1 remains entirely dormant."</aac>
 
 Wyatt walked up behind Sarah, wrapping his arms around her waist and resting his chin on her shoulder as he stared at the glowing blue data on the terminal.
 
@@ -4467,7 +4467,7 @@ Sarah looked at the glowing data, taking a slow, steadying breath. He was right.
 
 The server tower in the corner hummed, and the massive logistical web on the table instantly dissolved, replaced by a series of glowing, branching organizational charts.
 
-*"I have accessed the sociological and historical archives, Administrators,"* Aria’s pleasant, synthesized voice echoed through the library. *"I can provide comprehensive models for every recorded system of human governance. I can simulate the long-term resource allocation of a democratic republic, a meritocracy, a localized socialist collective, or a post-scarcity resource-based economy."*
+<aac>"I have accessed the sociological and historical archives, Administrators,"</aac> Aria’s pleasant, synthesized voice echoed through the library. <aac>"I can provide comprehensive models for every recorded system of human governance. I can simulate the long-term resource allocation of a democratic republic, a meritocracy, a localized socialist collective, or a post-scarcity resource-based economy."</aac>
 
 "Perfect," Sarah said, sitting up straight. "Aria, run the simulations. Tell us which one is the most stable for an isolated, closed-loop population of fifty thousand, and generate the foundational laws."
 
@@ -4507,7 +4507,7 @@ The holographic glass table in the center of the library rippled, the glowing bl
 
 Wyatt and Sarah sat perfectly still on the leather sofa, entirely bare and entirely captivated as Aria painted a picture of humanity’s distant past.
 
-*"Accessing archives on early agrarian democracies and localized cooperative governance,"* Aria announced, her synthesized voice echoing softly against the rich mahogany walls.
+<aac>"Accessing archives on early agrarian democracies and localized cooperative governance,"</aac> Aria announced, her synthesized voice echoing softly against the rich mahogany walls.
 
 The hologram projected miniature, three-dimensional models of ancient Earth settlements—sprawling wheat fields, communal storehouses, and central meeting squares.
 
@@ -4535,7 +4535,7 @@ The entire holographic table suddenly flashed a stark, warning yellow.
 
 Wyatt and Sarah both sat back, surprised by the sudden digital boundary.
 
-*"I have provided the model, and I have synthesized the constitutional text based on your parameters,"* Aria stated firmly. *"However, I must remind you of my absolute operational constraints. I am a machine. I cannot execute a political mandate. I cannot establish a state, and I cannot govern."*
+<aac>"I have provided the model, and I have synthesized the constitutional text based on your parameters,"</aac> Aria stated firmly. <aac>"However, I must remind you of my absolute operational constraints. I am a machine. I cannot execute a political mandate. I cannot establish a state, and I cannot govern."</aac>
 
 "We know that, Aria," Wyatt said gently, raising a hand. "We just want you to save the file."
 

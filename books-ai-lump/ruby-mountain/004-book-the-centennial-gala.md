@@ -33,7 +33,7 @@ Vanessa had outright banned milk from the Friday Harbor apartment. She had claim
 
 Johnny set the glass down. A profound, icy resolve settled in his chest. He dragged his hands across his custom keyboard.
 
-*"I never want to see her again,"* his Quantum laptop announced to the quiet table. *"Under any circumstances."*
+<aac>"I never want to see her again,"</aac> his Quantum laptop announced to the quiet table. <aac>"Under any circumstances."</aac>
 
 "You won't," Victoria stated from the opposite end of the table. She didn't sound angry; she sounded absolute. "As of this morning, our legal team in Seattle filed an *ex parte* restraining order. But more importantly, Johnny, look at the clock."
 
@@ -97,7 +97,7 @@ The Cousin Council officially disbanded as the grandfather clock chimed four tim
 
 Johnny backed his wheelchair away from the oak table. He looked up at Amanda, Sarah, and Ashleigh—the "Core Four."
 
-*"I want to see our room,"* he typed, the text-to-speech engine echoing softly in the emptying dining hall.
+<aac>"I want to see our room,"</aac> he typed, the text-to-speech engine echoing softly in the emptying dining hall.
 
 "Let's go," Amanda smiled, stepping behind his chair and gripping the worn rubber handles. Sarah and Ashleigh immediately flanked them.
 
@@ -342,7 +342,7 @@ She looked like she had slept for a full eight hours, betraying absolutely none 
 
 Johnny rested his hands on his armrests.
 
-*"I want to go down,"* his Quantum laptop announced softly.
+<aac>"I want to go down,"</aac> his Quantum laptop announced softly.
 
 Amanda smiled, clicking off his brakes. "Let's go join the command center."
 
@@ -466,7 +466,7 @@ She pushed out of the office and jogged over to him, grabbing a fresh tasting sp
 
 Johnny looked at her, then looked at the abandoned pastry station. He reached for his keyboard.
 
-*"The standard is the standard,"* his Quantum laptop announced.
+<aac>"The standard is the standard,"</aac> his Quantum laptop announced.
 
 "Exactly," Diana grinned, her eyes crinkling. "And speaking of the standard, I need my executive palate. Julian was supposed to be managing the L’Orange Royale glaze for the petit fours, but clearly, I need to do it myself. I need to know if the orange reduction is too sharp."
 
@@ -488,7 +488,7 @@ Amanda gripped the handles of Johnny's wheelchair and backed him away from the h
 
 Amanda pushed Johnny out of the sweltering heat of the commercial kitchens and back into the cool, wood-paneled corridors of the main floor.
 
-*"The perimeter,"* Johnny typed, glancing at the reinforced windows.
+<aac>"The perimeter,"</aac> Johnny typed, glancing at the reinforced windows.
 
 "Front gates it is," Amanda nodded. Maya and Clara broke off to head back down to the boiler rooms, leaving Amanda to navigate Johnny through the maze of the 1903 architecture.
 
@@ -1196,7 +1196,7 @@ The driver of the *Holt Sentinel*, shaking uncontrollably, straightened the whee
 
 In the sanctuary, Johnny let out a breath he didn't realize he had been holding. He watched the yellow dot turn back to green, rejoining the slow, steady march down the mountain.
 
-*"Crisis averted,"* Johnny typed, glancing at the system clock in the corner of his screen.
+<aac>"Crisis averted,"</aac> Johnny typed, glancing at the system clock in the corner of his screen.
 
 It was **11:25 AM**.
 

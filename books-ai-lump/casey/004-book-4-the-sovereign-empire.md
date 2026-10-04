@@ -347,7 +347,7 @@ Several board members audibly gasped. It was the equivalent of placing a live ha
 
 She tapped the glass screen of the mPhone.
 
-"We maintain it by showing them an unavoidable software ecosystem," Cassandra answered flawlessly, deliberately avoiding the word *monopoly* with the precise caution of an executive who had personally cleaned up a federal antitrust lawsuit. "We transition our productivity suites to a subscription-based cloud model. Wall Street values recurring, predictable revenue infinitely more than they value the volatile supply-chain margins of physical smartphones. We make our software so frictionless and indispensable that MagnaByte and Omni users cannot function without it. It isn't a retreat, Evelyn. It is a Trojan horse. We will infiltrate their hardware and tax their users."
+"We maintain it by showing them an unavoidable software ecosystem," Cassandra answered flawlessly, deliberately avoiding the word <aac>monopoly</aac> with the precise caution of an executive who had personally cleaned up a federal antitrust lawsuit. "We transition our productivity suites to a subscription-based cloud model. Wall Street values recurring, predictable revenue infinitely more than they value the volatile supply-chain margins of physical smartphones. We make our software so frictionless and indispensable that MagnaByte and Omni users cannot function without it. It isn't a retreat, Evelyn. It is a Trojan horse. We will infiltrate their hardware and tax their users."
 
 The Board fell silent. The financial logic was airtight, and the sheer, terrifying competence radiating from her was impossible to ignore. She fielded five more questions—ranging from international server latency to employee retention—and systematically dismantled every single concern with mathematical precision.
 
@@ -875,13 +875,13 @@ David pulled out his LPN tablet, initiating the system shut-down. He quietly log
 
 Satisfied with the numbers, he handed her the nightly medications. The first was Guanfacine, an alpha-2 agonist meant to lower her blood pressure, treat ADHD rejection sensitive dysphoria (RSD), and effectively "turn off" her racing thoughts so her executive function could power down. The second was Gabapentin, a secondary nerve-blocker necessary to ensure the permanent internal scarring in her feet didn't wake her up with phantom impact pain.
 
-Once the medication was administered, David initiated the overnight Holter baseline setup. Because Vanguard Global's Key Person Insurance policy mandated continuous, uninterrupted operation of Cassandra’s Mobile Cardiac Telemetry (MCT) Holter monitor, David could not simply disconnect the device. He opened the secure medical portal on his LPN tablet. He sent a direct, coded ping to the Building 33 nurses on 24/7 duty monitoring the incoming server feed: *VANCE_MCT Offline: Scheduled Hardware Maintenance - Battery Swap*.
+Once the medication was administered, David initiated the overnight Holter baseline setup. Because Vanguard Global's Key Person Insurance policy mandated continuous, uninterrupted operation of Cassandra’s Mobile Cardiac Telemetry (MCT) Holter monitor, David could not simply disconnect the device. He opened the secure medical portal on his LPN tablet. He sent a direct, coded ping to the Building 33 nurses on 24/7 duty monitoring the incoming server feed: <aac>VANCE_MCT Offline: Scheduled Hardware Maintenance - Battery Swap</aac>.
 
 A few seconds later, the legal handshake returned from the occupational health desk. *Log Confirmed. Vanguard Timer Initiated.*
 
 With the fifteen-minute grace period officially active, David moved with the speed and precision of a pit crew. He carefully unclipped the depleted battery from her continuous Mobile Cardiac Telemetry (MCT) Holter monitor, placing it onto the charging base, and instantly slid a fresh battery into the unit.
 
-Within seconds, his tablet caught the Bluetooth handshake. The device re-established its connection, streaming her real-time EKG data straight to his screen. Once he visually confirmed her heart rate was stable, David pinged the nurses again: *VANCE_MCT Online. Baseline Stable*.
+Within seconds, his tablet caught the Bluetooth handshake. The device re-established its connection, streaming her real-time EKG data straight to his screen. Once he visually confirmed her heart rate was stable, David pinged the nurses again: <aac>VANCE_MCT Online. Baseline Stable</aac>.
 
 Almost instantly, the nurses at Quantum Corporate replied: *Confirmed. Telemetry receiving. Readouts are normal.*
 

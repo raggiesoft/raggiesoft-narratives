@@ -19,9 +19,9 @@ A few nervous giggles rippled through the freshmen.
 
 "And in this domain," Chloé picked up, her tone a mix of serious warning and fond reminiscence, "there is one queen. One supreme overlord. One whose name is whispered in hushed tones from freshman year even unto senior year."
 
-Alex typed on his AAC, and the clear, synthesized voice cut through: *Mrs. DeMarco.*
+Alex typed on his AAC, and the clear, synthesized voice cut through: <aac>Mrs. DeMarco.</aac>
 
-"Exactly!" Luna pointed at Alex's device. "Mrs. DeMarco. She sees all. She knows all. And trust us," she leaned in conspiratorially, "you do *not* want to get on her bad side. We learned that Rule Number One on our very first day, didn't we, guys?"
+"Exactly!" Luna pointed at Alex's device. "Mrs. DeMarco. She sees all. She knows all. And trust us," she leaned in conspiratorially, "you do <aac>not</aac> want to get on her bad side. We learned that Rule Number One on our very first day, didn't we, guys?"
 
 Chloé nodded gravely. "Witnessed it firsthand. Josh Riley – he eventually left when his parents got military orders. The school threw a big party for it. First lunch, freshman year. Decided to impress everyone with 'The Penis Game'..." "Attempt number 253 in her official logbook, or so she claimed," Leo’s device chimed in, Luna glancing at his screen to read it out with perfect comedic timing. "Instant trash duty for a week," Chloé confirmed. "And that’s your baseline punishment, folks. It only gets worse."
 
@@ -31,9 +31,9 @@ A freshman boy, looking pale, raised a trembling hand. "W-what about the mystery
 
 "Ah, the Mystery Meat!" Luna clasped her hands dramatically. "Rule Number One-A! NEVER, and I mean NEVER, complain about the mystery meat. Don't look at it funny. Don't sniff it suspiciously. Don't even *think* bad thoughts about it if she's within a fifty-foot radius." "Our sophomore year," Chloé interjected, a slight grimace on her face, "some kid tried to analyze its molecular structure for a science project. Got three weeks trash duty and had to write a report on 'The Nutritional Virtues of Ambiguity.'"
 
-Alex’s AAC added: *And he had to eat it. Every day. For those three weeks.* A collective gasp from the freshmen.
+Alex’s AAC added: <aac>And he had to eat it. Every day. For those three weeks.</aac> A collective gasp from the freshmen.
 
-"And languages!" Luna continued, "Don't think you're clever trying to slip something past her in another language. We saw her take down Riley for his English transgression, then Kevin Schmidt for his truly terrible German insults, all in the same breath, freshman year!" "She corrected Chloé's Québécois, then switched to perfect Metropolitan French with her, then to flawless German for Schmidt," Leo's device supplied, Luna reading with flair. "It was terrifyingly impressive." "And that wasn't even the half of it," Chloé said, shaking her head. "Junior year, some transfer student, O’Malley, thought he was safe insulting the meatloaf in Gaelic." Alex typed: *Mrs. DeMarco responded. In fluent Gaelic. O’Malley got trash duty. Grease traps. And a five-page essay. In Gaelic. On food safety.*
+"And languages!" Luna continued, "Don't think you're clever trying to slip something past her in another language. We saw her take down Riley for his English transgression, then Kevin Schmidt for his truly terrible German insults, all in the same breath, freshman year!" "She corrected Chloé's Québécois, then switched to perfect Metropolitan French with her, then to flawless German for Schmidt," Leo's device supplied, Luna reading with flair. "It was terrifyingly impressive." "And that wasn't even the half of it," Chloé said, shaking her head. "Junior year, some transfer student, O’Malley, thought he was safe insulting the meatloaf in Gaelic." Alex typed: <aac>Mrs. DeMarco responded. In fluent Gaelic. O’Malley got trash duty. Grease traps. And a five-page essay. In Gaelic. On food safety.</aac>
 
 "The legends are true," Chloé stated, her voice dropping ominously. "Every single one. The Great Pig Latin Incident of '98? Real. Her encyclopedic knowledge of all past pranks? Terrifyingly accurate." "But here's the kicker," Leo’s device offered, Luna reading with dramatic emphasis. "If you're polite. If you say 'please' and 'thank you.' If you don't act like a complete barbarian..." "...she can be a sweet angel," Chloé finished, a small, genuine smile on her face. "We've seen it. Kid drops a tray, crying? Mrs. DeMarco helps clean it up, gets him a new lunch, extra cookie, no words exchanged. Like a... a cafeteria ninja angel."
 
@@ -41,7 +41,7 @@ Alex nodded. "SHE IS... A COMPLEX AND FORMIDABLE WOMAN. SHOW RESPECT. ALWAYS. AN
 
 "So, to recap," Luna said, ticking points off on her fingers, momentarily steadying herself with a hand on Leo's shoulder rest. "No rudeness. No funny business with languages unless you want a multilingual smackdown. Be polite. Don't insult the food, especially the meat. And for the love of all that is holy, avoid the grease traps at all costs." "And if you see Josh Riley heading for the dumpsters this year," Chloé added, a twinkle in her eye, "just nod sympathetically and be glad it's not you. Again."
 
-The freshmen looked suitably terrified and awed. "Any questions?" Leo’s device asked, Luna relaying it with a final, arch look. Silence. "Good," Alex’s AAC stated. *Welcome to Northwood High.*
+The freshmen looked suitably terrified and awed. "Any questions?" Leo’s device asked, Luna relaying it with a final, arch look. Silence. "Good," Alex’s AAC stated. <aac>Welcome to Northwood High.</aac>
 
 And with that, the four seniors, their duty done, shared a knowing look and headed off to their own first-period class.
 
@@ -107,9 +107,9 @@ The two pairs converged naturally in the cavernous main lobby, a common waiting 
 
 Luna grinned. "Barely! Mr. Henderson in AP Lit already assigned a five-page paper. On *Beowulf*. Due Friday. Welcome back, right?" She rolled her eyes good-naturedly, shifting her weight slightly against Leo’s chair.
 
-Leo’s Quantum Communicator XT chimed with a pre-typed quip, his synthesized voice dry: *Beowulf. More like Beowho-cares. At least the lunch options today were... present.* He chose his words with the careful diplomacy one learned after years at Northwood. Even here, in the lobby, one did not speak ill of the cafeteria's offerings; Mrs. DeMarco's auditory reach was legendary, and the walls themselves were rumored to have ears attuned to culinary criticism.
+Leo’s Quantum Communicator XT chimed with a pre-typed quip, his synthesized voice dry: <aac>Beowulf. More like Beowho-cares. At least the lunch options today were... present.</aac> He chose his words with the careful diplomacy one learned after years at Northwood. Even here, in the lobby, one did not speak ill of the cafeteria's offerings; Mrs. DeMarco's auditory reach was legendary, and the walls themselves were rumored to have ears attuned to culinary criticism.
 
-Alex chuckled, the sound soft, as he typed on his Quantum OS Tablet Pro: *Good point, Leo. Always important to appreciate the... available nourishment. Did you guys hear about the latest 'penis game' casualty at lunch? Henderson the Second.*
+Alex chuckled, the sound soft, as he typed on his Quantum OS Tablet Pro: <aac>Good point, Leo. Always important to appreciate the... available nourishment. Did you guys hear about the latest 'penis game' casualty at lunch? Henderson the Second.</aac>
 
 "Heard about it *and* saw it!" Luna exclaimed. "Attempt number 316! And Mrs. DeMarco knew his older brother! It was epic!"
 
@@ -125,7 +125,7 @@ Josh Riley, senior, trudged into view, his shoulders slumped, his expression one
 
 The four seniors, now pausing near the front entrance themselves, looked knowingly at each other. A silent, shared understanding passed between them. The legends were true. Some duties were eternal.
 
-Alex might have typed a single, eloquent word: *Predictable.* Leo’s device probably just issued a perfectly timed, synthesized sigh of weary recognition. Luna just shook her head, a mixture of pity and "told-you-so" amusement on her face.
+Alex might have typed a single, eloquent word: <aac>Predictable.</aac> Leo’s device probably just issued a perfectly timed, synthesized sigh of weary recognition. Luna just shook her head, a mixture of pity and "told-you-so" amusement on her face.
 
 A few moments later, as the four seniors were just about to step out the main doors into the afternoon sun, a new figure stumbled past them, heading in the same unfortunate direction as Josh Riley, though clearly with far less experience. It was Henderson Jr., his face pale, his brand-new freshman backpack clutched to his chest like a shield. He looked confused, utterly bewildered, and righteously terrified. The faintest, premonitory whiff of dumpster seemed to already cling to him.
 

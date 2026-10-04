@@ -657,7 +657,7 @@ October arrived with a sharp drop in temperature, forcing the CCHR student body 
 
 My phone vibrated against the table. I picked it up, opening a text from Liz: *SVU midterms are officially a war crime. Send reinforcements.*
 
-I typed a quick reply, smiling slightly at the screen. *Hold the line. Will drop supplies at Thanksgiving.*
+I typed a quick reply, smiling slightly at the screen. <aac>Hold the line. Will drop supplies at Thanksgiving.</aac>
 
 I set the phone back down. When I looked up, Kristine was staring at me, her face pale and her eyes brimming with sudden, intense tears. 
 
@@ -721,7 +721,7 @@ I closed my bedroom door, sat on the edge of my mattress, and pulled my phone ou
 
 The screen was blank, but the lingering psychological weight of the afternoon was still heavy in my chest. Deleting Liz and the Delaneys' numbers in the coffee shop had been an incredibly effective tactical maneuver—it had instantly defused a massive emotional meltdown and kept Kristine anchored. But sitting here in the quiet isolation of my room, the absence of their contact files felt fundamentally wrong. 
 
-My fingers moved over the keypad automatically. I didn't even have to think about it. I navigated to the "Add New Contact" screen, typed in the name *Liz Carter*, and tapped out her Dayton cell phone number with flawless, rapid muscle memory. Then I repeated the exact same process for Erin, Megan, Shannon, and Kelly Delaney, and finally their Virginia Beach cousin, Meredith Delaney.
+My fingers moved over the keypad automatically. I didn't even have to think about it. I navigated to the "Add New Contact" screen, typed in the name <aac>Liz Carter</aac>, and tapped out her Dayton cell phone number with flawless, rapid muscle memory. Then I repeated the exact same process for Erin, Megan, Shannon, and Kelly Delaney, and finally their Virginia Beach cousin, Meredith Delaney.
 
 I hit save on all of them. 
 
@@ -1430,7 +1430,7 @@ I looked up. The Virginia Beach pack had formed a physical barricade at the foot
 
 "Erin is right," Meredith promised, looking me dead in the eye. "We are going to practically live at this house until December 17th. Or you can sleep in the garage barracks with us. We will drive you to your classes, we will help you study for your finals, and we will keep your perimeter completely locked down. Kristine won't be able to get within ten miles of you."
 
-*“WE HAVE YOU,”* David Delaney’s AAC device spoke up from the doorway, his synthesized voice cutting clearly through the emotional weight of the room. Kate nodded emphatically from her wheelchair next to him. 
+<aac>“WE HAVE YOU,”</aac> David Delaney’s AAC device spoke up from the doorway, his synthesized voice cutting clearly through the emotional weight of the room. Kate nodded emphatically from her wheelchair next to him. 
 
 The tears welling in my eyes weren't from grief anymore. They were from a wave of relief so massive it made my head spin. I wouldn't get Liz, Cass, or Casey's physical presence for three weeks, but I was entirely safe, entirely loved, and fully anchored to my Virginia Beach pack. 
 

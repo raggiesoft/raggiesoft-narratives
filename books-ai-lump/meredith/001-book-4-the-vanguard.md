@@ -81,7 +81,7 @@ The screen flickered to life, loading his desktop. David felt an immediate, invo
 
 He clicked the mouse and launched Quantum Suite WritePad. The stark white document window snapped open, maximizing across the entire screen and completely covering Hannah’s face.
 
-David stretched his fingers and began jotting down a few preparatory notes. He typed out the name of his first class: *SDV 100 - Student Development*. He knew it was quite literally an introduction to college—a course designed to teach freshmen how to study, how to use the library, and how to survive higher education. He wanted to be ready.
+David stretched his fingers and began jotting down a few preparatory notes. He typed out the name of his first class: <aac>SDV 100 - Student Development</aac>. He knew it was quite literally an introduction to college—a course designed to teach freshmen how to study, how to use the library, and how to survive higher education. He wanted to be ready.
 
 A few minutes later, the sound of footsteps echoed in the hallway.
 
@@ -105,7 +105,7 @@ David didn't mind the question; people usually asked when they realized he wasn'
 
 He turned the screen back to her. Vesper read it, her expression smoothing out into an easy, understanding nod. "Oh, gotcha," she said, leaning forward and resting her elbows on the table, completely unfazed. "Well, you type really fast, so that works perfectly. First day, huh? What class are you waiting for?"
 
-*SDV 100,* David typed. *It's in the Martin Building at 11:00.*
+<aac>SDV 100,</aac> David typed. <aac>It's in the Martin Building at 11:00.</aac>
 
 Vesper’s eyes lit up with genuine surprise. "No way. I'm in the Martin Building at 11:00 too. I'm taking Applied Calculus right next door to the SDV rooms."
 
@@ -119,11 +119,11 @@ David nodded, offering a small smile. His literal, pragmatic brain processed the
 
 For the next hour, the conversation flowed easily. Vesper proved to be incredibly talkative, which suited David perfectly. He didn't have to strain to keep the interaction going; he simply listened, nodded, and occasionally typed brief responses into his open Quantum Suite WritePad document to answer her questions.
 
-She asked about his schedule, and he typed out his plan for the afternoon. *I'm going to The Promenade at Granby after class. My dad gave me twenty dollars for a burger combo at the food court.*
+She asked about his schedule, and he typed out his plan for the afternoon. <aac>I'm going to The Promenade at Granby after class. My dad gave me twenty dollars for a burger combo at the food court.</aac>
 
 Vesper’s face lit up. "Oh, I love the mall food court. I actually have a huge gap between my calculus class and my afternoon lab. Do you mind if I tag along? I'd love to grab lunch with you."
 
-David offered a sharp, agreeable grunt and typed, *Sure. That sounds great.* His literal processing cataloged the interaction cleanly: he was going to eat lunch, and she also needed to eat lunch. It made logical sense to go together.
+David offered a sharp, agreeable grunt and typed, <aac>Sure. That sounds great.</aac> His literal processing cataloged the interaction cleanly: he was going to eat lunch, and she also needed to eat lunch. It made logical sense to go together.
 
 A familiar, high-pitched chime suddenly echoed from his laptop speakers. David minimized the WritePad window just enough to reveal the buddy list of InfoLink Messenger, keeping the main document stretched over the background photo of Hannah so he wouldn't accidentally close it. He saw Morgan’s screenname highlighted in bright green, signaling she was online.
 
@@ -137,7 +137,7 @@ He opened a chat box and began typing rapidly.
 
 Vesper leaned over slightly, looking at the chat window. "Who are you messaging?"
 
-David pointed to the screen and typed a quick explanation in WritePad. *My cousin, Morgan. We live together.*
+David pointed to the screen and typed a quick explanation in WritePad. <aac>My cousin, Morgan. We live together.</aac>
 
 "Oh, that's sweet," Vesper smiled, leaning back in her chair.
 
@@ -287,7 +287,7 @@ David focused on his screen, his fingers resting lightly on his laptop keyboard.
 
 "In high school, you had guardrails," Professor Hayes explained, pacing slowly across the front of the room. "You had teachers chasing you down for missing assignments. You had parents getting progress reports. You had a rigid, bell-to-bell schedule. Here at CCHR, all of that is gone. You are officially adults. If you skip class, no one is going to call your house. If you don't turn in a paper, I am not going to remind you. Your syllabus is your contract, and time management is entirely your responsibility."
 
-David typed the words *Time Management* and *Self-Advocacy* into his document. He felt a profound sense of validation washing over him. For his entire life, his schedule had been dictated by Individualized Education Programs, physical therapy appointments, and the deeply loving but unyielding protective perimeter of the Delaney Vanguard. Hearing a professor explicitly state that he was an adult responsible for his own success was exhilarating. It was the exact autonomy his father and cousins had promised him this morning.
+David typed the words <aac>Time Management</aac> and <aac>Self-Advocacy</aac> into his document. He felt a profound sense of validation washing over him. For his entire life, his schedule had been dictated by Individualized Education Programs, physical therapy appointments, and the deeply loving but unyielding protective perimeter of the Delaney Vanguard. Hearing a professor explicitly state that he was an adult responsible for his own success was exhilarating. It was the exact autonomy his father and cousins had promised him this morning.
 
 For the next half hour, Professor Hayes walked them through the survival mechanics of the Norfolk campus. She handed out detailed maps, circling the library in the Walker Building, the academic advising offices, and the campus tutoring center.
 
@@ -351,7 +351,7 @@ Vesper’s face instantly twisted into a look of dark, heavy skepticism. *Cousin
 
 But Meredith didn't. She noticed every single micro-expression.
 
-As the device spoke, David locked eyes with Meredith. He offered a very specific, tense double-blink. *Be my bodyguard.* He didn't know Vesper well enough to know if she was a good person, but the screaming in the elevator had set off every alarm bell in his head.
+As the device spoke, David locked eyes with Meredith. He offered a very specific, tense double-blink. <aac>Be my bodyguard.</aac> He didn't know Vesper well enough to know if she was a good person, but the screaming in the elevator had set off every alarm bell in his head.
 
 Meredith’s "Ice" protocol engaged instantly. She read David's tension, smoothly picked up her shopping bag, and offered Vesper a polite, chillingly perfect smile. "I'd love to."
 
@@ -483,7 +483,7 @@ David tapped a rhythmic acknowledgment on his laptop case. Hearing it from Tracy
 
 With the debrief complete, David settled deeper into Meredith's side, opening up his class portal to tackle his very first college assignment. Professor Hayes had assigned a "168-Hour Time Management Audit." He needed to map out exactly how he planned to spend every hour of the upcoming week—blocking out time for sleep, SDV 100, transportation, and homework.
 
-As he diligently typed out his schedule, blocking off the evening hours specifically for his daily Link chats with Hannah, he felt a profound sense of peace. He sincerely hoped Vesper would just take the hint and leave him alone. He didn't *want* to subject a stranger to the horrifying, fictional capabilities of Kate's medical equipment.
+As he diligently typed out his schedule, blocking off the evening hours specifically for his daily Link chats with Hannah, he felt a profound sense of peace. He sincerely hoped Vesper would just take the hint and leave him alone. He didn't <aac>want</aac> to subject a stranger to the horrifying, fictional capabilities of Kate's medical equipment.
 
 But as he looked at Morgan's fierce reflection in the mirror, he knew the Vanguard was ready. Vesper seemed exactly like the kind of person who would push the boundary, just to find out if the twins were bluffing.
 

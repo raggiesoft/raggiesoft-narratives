@@ -781,7 +781,7 @@ Jessica and Paige sat on the sofa behind him, kicking off their shoes. "How is t
 
 "The diagrams are... two-dimensional," Freddie noted, tracing a line drawing of the female reproductive system with his finger. He frowned. The diagram was a cross-section. It was color-coded (pink for muscle, blue for veins, yellow for nerves), but it looked like a map of a subway system, not a biological entity.
 
-He looked up at the TV, which was off. He looked at the VCR. When he learned to wire the entertainment center, he didn't just look at the diagram in the manual. He looked at the ports on the back of the device. He traced the cables. He verified the input/output physically. *Theory is useless without verification.*
+He looked up at the TV, which was off. He looked at the VCR. When he learned to wire the entertainment center, he didn't just look at the diagram in the manual. He looked at the ports on the back of the device. He traced the cables. He verified the input/output physically. <aac>Theory is useless without verification.</aac>
 
 He turned around to face his sisters. He held the book up, pointing to the diagram. "This schematic," Freddie stated, tapping the page. "It represents the internal and external architecture. But it is an abstraction. It is a drawing."
 
@@ -3917,7 +3917,7 @@ Freddie set up his workstation with the precision of a field medic. He opened hi
 
 Instead, he reached into his bag and pulled out his **Digi-Track**—a heavy, stationary mouse with a large red ball on top. He didn't have to move his arm to use it; he just had to roll the ball with his palm or fingers. It was stable. It was precise.
 
-He plugged the USB cable into the side port. *Ding-dong.* The computer recognized the device.
+He plugged the USB cable into the side port. <aac>Ding-dong.</aac> The computer recognized the device.
 
 "Input device active," Freddie confirmed, rolling the red ball. The cursor moved smoothly to the browser icon.
 
@@ -3969,7 +3969,7 @@ Freddie let out a long exhale. He leaned back in his chair, taking his hand off 
 
 Jessica clicked submit on her own screen a second later. Paige followed.
 
-"We are clear," Jessica smiled, closing her MagnaByte with a satisfying *snap*. "No homework for five days. The weekend is ours."
+"We are clear," Jessica smiled, closing her MagnaByte with a satisfying <aac>snap</aac>. "No homework for five days. The weekend is ours."
 
 "Zero anxiety," Freddie noted. "The queue is empty."
 

@@ -268,7 +268,7 @@ Sarah carried the grease-stained, tub-sized popcorn, while Shiloh proudly balanc
 
 As Sarah pushed Matt's chair toward their designated auditorium, Matt quickly tapped out a sequence on his travel keyboard.
 
-*"Shiloh sits next to me,"* the flat, robotic female voice announced from the device on his lap.
+<aac>"Shiloh sits next to me,"</aac> the flat, robotic female voice announced from the device on his lap.
 
 Since Shiloh lived in Charlottesville and only made the drive down to Virginia Beach a few times a year, Matt fiercely guarded his physical proximity to her whenever she visited.
 
@@ -306,7 +306,7 @@ It was time for the *Majesty Express*.
 
 The legendary, fast-paced CGI roller coaster sequence blasted onto the screen. Instead of metal rails, the first-person "camera" locked onto a glowing, translucent celluloid filmstrip track. At the very bottom of the initial lift hill, a flashing electronic sign ordered *"NO SMOKING."* As the coaster slowly clattered upward, a futuristic, low-polygon dashboard popped up at the bottom of the screen to rapidly display the theater policies: *"DISPOSE OF TRASH IN TRASH CANS. GIFT CERTIFICATES ARE AVAILABLE FOR ANY SPECIAL OCCASION."*
 
-At the top of the lift hill, a massive electronic sign suspended over the track alternated between *"QUIET PLEASE"* and *"NO TALKING DURING MOVIE,"* accompanied by a sharp, synthesized *ding!* sound with every flash.
+At the top of the lift hill, a massive electronic sign suspended over the track alternated between <aac>Quiet please</aac> and <aac>No talking during movie,</aac> accompanied by a sharp, synthesized <aac>ding!</aac> sound with every flash.
 
 Because of his severe dyspraxia and the fragile rigidity of his body, Matt could never safely ride a real roller coaster. The violent, physical G-forces would be far too dangerous for his frame. But here, anchored securely between the two women who loved him most, surrounded by the deafening surround sound and the massive screen filling his peripheral vision, Matt could safely surrender to the illusion.
 
@@ -496,7 +496,7 @@ Vance quickly pivoted the chair, following the principal away from the noisy com
 
 Matt spent a long minute tapping deliberately on his Quantum WritePad. He didn't understand the exact mechanics of what Courtney had offered him. But his logical framework recognized that being pulled into an abandoned storage closet off the stage by someone who had just been cruel to him was fundamentally wrong—and physically impossible.
 
-*"Courtney Evans cornered me,"* the flat, synthesized female voice announced into the quiet office. *"She said she wanted to go into the stage closet. To hook up. I do not understand what hooking up means. But I do not want to go into the closet. There are three steps down. I would fall."*
+<aac>"Courtney Evans cornered me,"</aac> the flat, synthesized female voice announced into the quiet office. <aac>"She said she wanted to go into the stage closet. To hook up. I do not understand what hooking up means. But I do not want to go into the closet. There are three steps down. I would fall."</aac>
 
 Bernard’s expression instantly dropped into a cold, hard mask of absolute fury. He looked up at Vance.
 
@@ -933,7 +933,7 @@ Matt sat in his wheelchair, quietly eating a warm cinnamon sugar pretzel. Across
 
 But as the lunch wore on, the tension slowly began to melt away. 
 
-David, Matt's massive 6'11" father, cracked a joke about his own disastrous high school prom, pulling a genuine laugh from Courtney. Sarah playfully stole a piece of Jason's pretzel, sparking a brief, laughing argument. By the time Valerie Evans returned to the table with a tray of fresh lemonades, the invisible electric fence had fully powered down. The boys relaxed their posture, and Courtney finally looked across the table at Matt with a soft, unguarded smile. He tapped his AAC device, proudly announcing *"Good pretzel"*, and the table laughed.
+David, Matt's massive 6'11" father, cracked a joke about his own disastrous high school prom, pulling a genuine laugh from Courtney. Sarah playfully stole a piece of Jason's pretzel, sparking a brief, laughing argument. By the time Valerie Evans returned to the table with a tray of fresh lemonades, the invisible electric fence had fully powered down. The boys relaxed their posture, and Courtney finally looked across the table at Matt with a soft, unguarded smile. He tapped his AAC device, proudly announcing <aac>"Good pretzel"</aac>, and the table laughed.
 
 As they ate, Valerie glanced up and spotted a familiar figure walking through the food court. Principal Bernard Morgan, dressed casually in a polo shirt, was carrying a small shopping bag and walking toward the mall exit. 
 
@@ -1157,7 +1157,7 @@ When Matt saw Courtney sitting on the sofa, his face immediately lit up. He reac
 
 "Good morning," Courtney smiled softly. "How are you feeling?"
 
-Matt tapped a button on the AAC device mounted to his wheelchair. *"Safe,"* the synthesized voice replied simply. 
+Matt tapped a button on the AAC device mounted to his wheelchair. <aac>"Safe,"</aac> the synthesized voice replied simply. 
 
 "Good," Sarah said, walking up behind the chair and resting her hands on the push handles. She was dressed casually in jeans and a sweater, her protective energy from the night before having settled into a focused, calm determination. "Because you two are safe here. But today, we need to make sure you're safe everywhere else, too."
 
@@ -1219,7 +1219,7 @@ Courtney, who had been listening from the living room, stood up and walked over 
 
 Sarah smiled softly, shaking her head. "No. You're going to go to school and enjoy your Monday as a senior. Matt and I will handle the bureaucrats. When we're done, we'll bring him to school, and you two can finally walk down the hallway together without looking over your shoulders."
 
-Matt, who had rolled up beside Courtney, tapped his AAC device. *"Victory,"* he announced, a bright, confident smile on his face. 
+Matt, who had rolled up beside Courtney, tapped his AAC device. <aac>"Victory,"</aac> he announced, a bright, confident smile on his face. 
 
 The entire room laughed, the heavy weight of the past month finally lifting from their shoulders. The battle wasn't entirely over—they still had to face the Superintendent—but for the first time, they were armed with exactly what they needed to win.
 
@@ -1235,7 +1235,7 @@ As Sarah reached over to slap the snooze button, she immediately noticed his rap
 
 Matt frantically shook his head. He pulled his hands out from under the covers and tapped his AAC device, which he had pulled into bed with him during the night. 
 
-*"No school,"* the device announced in the dim room. *"Scared."*
+<aac>"No school,"</aac> the device announced in the dim room. <aac>"Scared."</aac>
 
 Sarah’s heart shattered. The trauma of Saturday night was completely overwhelming him. For his entire life, Matt had viewed school as a safe, structured environment. But after Richard Sterling violently grabbed his wheelchair and triggered a massive meltdown under the spotlight, that illusion of safety was gone. He was terrified of being grabbed by an administrator. He was terrified of being separated from his sister. 
 

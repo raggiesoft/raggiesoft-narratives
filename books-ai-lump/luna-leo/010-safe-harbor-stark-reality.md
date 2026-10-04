@@ -781,7 +781,7 @@ The aisle was silent for a moment. Stella and Luna stared, completely stunned bu
 
 Olivia took a deep, calming breath, the anger slowly receding, replaced by a weary grimace. "No," she said. "They wouldn't be. Those are *les sacres*."
 
-Leo typed on his new laptop, his voice quiet but curious. **"SACRES?"**
+Leo typed on his new laptop, his voice quiet but curious. *<aac>Sacres?</aac>*
 
 "It's... church words," Olivia tried to explain, a faint, dark humor in her voice as she gently squeezed Leo's shoulder. "Back in the day, the most offensive thing you could do in Québec was swear using holy words from the Catholic Church. *Tabarnak* from 'tabernacle,' *câlisse* from 'chalice,' *ostie* from 'host.' They're the worst curse words we have." She gave a wry smile. "My mom would wash my mouth out with soap if she heard me. But they're... useful. For when you're really, *really* angry." She looked at Leo, her expression softening. "It's the part of the language that's good for scaring off snakes."
 
@@ -807,7 +807,7 @@ He shook his head, then typed on his Scribe: "NO. WHAT?"
 
 "In Québec," she explained, her voice gentle, "it's what a girl calls her boyfriend. Her guy. The most important one."
 
-Leo stared at her, the meaning of her words sinking in. She wasn't just his best friend. She saw him as her *chum*. Her boyfriend. A warmth spread through his chest, pushing back the last of the fear. He liked that. He liked that very much. He typed again, a hopeful question on the screen.
+Leo stared at her, the meaning of her words sinking in. She wasn't just his best friend. She saw him as her <aac>chum</aac>. Her boyfriend. A warmth spread through his chest, pushing back the last of the fear. He liked that. He liked that very much. He typed again, a hopeful question on the screen.
 
 "HOW DO I SAY GIRLFRIEND? FOR YOU?"
 

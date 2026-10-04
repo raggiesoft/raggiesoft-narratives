@@ -661,7 +661,7 @@ Wyatt went completely rigid. Sarah lifted her head, her breath catching as she s
 
 The general took a ragged breath. The sound of heavy, concussive thuds echoed in the background of his transmission—artillery, or maybe the earth itself cracking open.
 
-*"Operation Glass Wall is in effect. We are detonating maximum-yield subterranean nuclear devices along the entire length of the Rocky Mountains, from the Canadian border down to New Mexico. Strategic bombers are currently flooding the western valleys with thermobaric payloads. We are attempting to create a one-hundred-mile-wide trench of radioactive slag and glass. We have to burn the earth to the mantle to starve it."*
+<aac>"Operation Glass Wall is in effect. We are detonating maximum-yield subterranean nuclear devices along the entire length of the Rocky Mountains, from the Canadian border down to New Mexico. Strategic bombers are currently flooding the western valleys with thermobaric payloads. We are attempting to create a one-hundred-mile-wide trench of radioactive slag and glass. We have to burn the earth to the mantle to starve it."</aac>
 
 Sarah’s hand shot up to cover her mouth, a horrified sob trapped in her throat.
 
@@ -1371,7 +1371,7 @@ He was already looking at her, a soft, deeply understanding smile on his scarred
 
 "It's perfect," Sarah whispered, her voice thick with emotion. "Aria, it's absolutely perfect."
 
-*"I am pleased the selection meets your approval, Sarah,"* Aria replied. The screen shifted, compiling complex strings of localized spacetime folding mathematics. *"I have successfully synthesized the necessary FTL jump calculations and compiled the spatial telemetry for System 88-Tango."*
+<aac>"I am pleased the selection meets your approval, Sarah,"</aac> Aria replied. The screen shifted, compiling complex strings of localized spacetime folding mathematics. <aac>"I have successfully synthesized the necessary FTL jump calculations and compiled the spatial telemetry for System 88-Tango."</aac>
 
 "Great," Wyatt said, standing up from the ergonomic chair. "Load it into the nav-computer and spool up the drive."
 
@@ -1477,7 +1477,7 @@ Wyatt stepped up to the curved holographic display, tapping the slate-gray desk 
 
 The server tower in the corner hummed a pleasant, musical note.
 
-*"Congratulations, Wyatt and Sarah,"* Aria’s warm, synthesized voice echoed from the high-fidelity speakers. *"Telemetry confirms the localized spacetime fold is stable. The deflector grid is successfully repelling all micro-debris within the slipstream. You are entirely off the grid."*
+<aac>"Congratulations, Wyatt and Sarah,"</aac> Aria’s warm, synthesized voice echoed from the high-fidelity speakers. <aac>"Telemetry confirms the localized spacetime fold is stable. The deflector grid is successfully repelling all micro-debris within the slipstream. You are entirely off the grid."</aac>
 
 "What's our ETA to Exoplanet 4?" Sarah asked, leaning against the edge of the desk.
 
@@ -1693,7 +1693,7 @@ The 144-hour mark arrived exactly as Aria had predicted.
 
 Wyatt and Sarah stood barefoot in the Operations center, Wyatt's hands resting lightly on the heavy mechanical throttle levers.
 
-*"Slipstream telemetry indicates we have reached the coordinates for System 88-Tango,"* Aria’s synthesized voice echoed smoothly from the bulkhead speakers. *"Ready for manual disengagement, Wyatt."*
+<aac>"Slipstream telemetry indicates we have reached the coordinates for System 88-Tango,"</aac> Aria’s synthesized voice echoed smoothly from the bulkhead speakers. <aac>"Ready for manual disengagement, Wyatt."</aac>
 
 Wyatt looked at Sarah. She nodded, her hand resting warmly on his shoulder.
 

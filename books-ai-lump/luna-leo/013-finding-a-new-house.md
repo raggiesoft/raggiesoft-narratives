@@ -556,7 +556,7 @@ Silence filled the room. The AP kids looked terrified.
 
 Sarah leaned over to Leo. "Okay," she whispered. "I'm terrified. But I like him."
 
-*"HE IS PRACTICAL,"* Leo typed on his laptop. *"HE IS NOT DECORATIVE."*
+<aac>He is practical,</aac> Leo typed on his laptop. <aac>He is not decorative.</aac>
 
 "Like a lumberjack," Sarah agreed.
 
@@ -670,7 +670,7 @@ He turned back to the board.
 
 Olivia sat back down. She looked at Leo. She touched her ring against his armrest.
 
-*"NICE SHOOTING, TEX,"* Leo typed.
+<aac>Nice shooting, tex,</aac> Leo typed.
 
 "Thanks," Olivia whispered. "He annoyed me."
 
@@ -2008,7 +2008,7 @@ Leo tapped his **Quantum Communicator**.
 
 Sarah squeezed his hand. "He... he looked so mad. He's never been arrested. He always wins."
 
-*"NOT HERE,"* Leo typed. *"IN IRON POINT, THE BULLIES LOSE."*
+<aac>Not here,</aac> Leo typed. <aac>In iron point, the bullies lose.</aac>
 
 Sarah’s legs gave out. She sank to the floor, right next to Leo’s chair. She buried her face in his armrest, sobbing.
 
@@ -2016,7 +2016,7 @@ Sarah’s legs gave out. She sank to the floor, right next to Leo’s chair. She
 
 Leo put his hand on Sarah’s head. He stroked her hair, awkward but gentle.
 
-*"YOU DID NOT BRING HIM,"* Leo typed. *"HE HUNTED YOU. BUT THE FORTRESS WALLS HELD."*
+<aac>You did not bring him,</aac> Leo typed. <aac>He hunted you. but the fortress walls held.</aac>
 
 Judge Miller walked back inside. He looked down at Sarah. He didn't look like a terrifying judge anymore; he looked like a grandfather.
 
@@ -2030,7 +2030,7 @@ Leo looked at the window. The cruiser was gone. The monster was gone.
 
 He tapped his Scribe one last time.
 
-*"YOU ARE A GHOST NOW,"* he typed. *"HE CANNOT SEE YOU."*
+<aac>You are a ghost now,</aac> he typed. <aac>He cannot see you.</aac>
 
 "I'm a ghost," Sarah whispered, a small, shaky smile breaking through the tears. "I like that."
 
@@ -2187,7 +2187,7 @@ Sarah looked at Leo. Leo was watching her, his face calm and steady.
 
 He tapped his **Quantum Communicator**.
 
-*"NAME IS JUST DATA,"* he typed. *"YOU ARE THE HARDWARE. THE HARDWARE IS GOOD."*
+<aac>Name is just data,</aac> he typed. <aac>You are the hardware. the hardware is good.</aac>
 
 Sarah managed a weak smile. "Hardware is good."
 
@@ -2199,7 +2199,7 @@ Then she looked at the Fortress crew. The people who had saved her.
 
 "I don't know who I am yet," Sarah whispered. "But I know where I'm staying."
 
-*"YOU ARE STAYING HERE,"* Leo typed. *"IN IRON POINT."*
+<aac>You are staying here,</aac> Leo typed. <aac>In iron point.</aac>
 
 "Exactly," Stella said. "Let's go home. We have a guest room with your name on it. Whatever name that is."
 
@@ -2225,7 +2225,7 @@ Stella nodded. "Then we burn it. All of it."
 
 "Last name is **Porter**," Sarah said immediately, looking at Leo. "If the offer still stands."
 
-*"OFFER CONFIRMED,"* Leo typed on his **Titan** console. *"CREW IS FAMILY."*
+<aac>Offer confirmed,</aac> Leo typed on his **Titan** console. <aac>Crew is family.</aac>
 
 "Okay," Sarah said. "Sarah is gone. Who am I?"
 
@@ -2365,7 +2365,7 @@ They walked out to the parking lot.
 
 Leo rolled up to her. He looked at the card.
 
-*"LICENSE VERIFIED,"* he typed. *"YOU ARE A PILOT."*
+<aac>License verified,</aac> he typed. <aac>You are a pilot.</aac>
 
 "I can drive," Maya realized, a slow smile spreading across her face. "I can drive us to the beach. I can drive us to the store."
 
@@ -2389,7 +2389,7 @@ The insurance office was wood-paneled and smelled of coffee. **Mr. Russo**, the 
 
 "**Maya Steele Porter**," Stella said. She slid the brand-new, still-warm Rhode Island license across the desk.
 
-Russo typed the license number into his terminal. He hit *Enter*. He waited. He frowned. He hit *Enter* again.
+Russo typed the license number into his terminal. He hit <aac>Enter</aac>. He waited. He frowned. He hit <aac>Enter</aac> again.
 
 "Stella," Russo said, peering over his glasses. "The system is flagging this. It says 'No Record Found.' According to the DMV database, this license was issued... yesterday?"
 
@@ -2494,7 +2494,7 @@ Leo rolled to the passenger door. Maya helped him transfer in—she knew the dri
 
 She climbed into the driver's seat. She adjusted the mirror. She saw **Maya Porter** looking back.
 
-*"IGNITION,"* Leo typed from the shotgun seat.
+<aac>Ignition,</aac> Leo typed from the shotgun seat.
 
 Maya turned the key. The V8 roared to life. She put it in gear and drove the Fortress out of the lot, leaving Sarah Halloway behind in the database of ghosts.
 
@@ -2510,11 +2510,11 @@ Stella sat in the back seat, buckling her seatbelt. "Mirrors adjusted?"
 
 Leo sat in the passenger seat ("Shotgun"). He had his **MagnaByte Scribe** mounted on his lap. He looked at Maya. He didn't look scared.
 
-*"NAVIGATOR READY,"* he typed. *"DESTINATION: UNKNOWN. YOU DRIVE. I GUIDE."*
+<aac>Navigator ready,</aac> he typed. <aac>"DESTINATION: UNKNOWN. YOU DRIVE. I GUIDE."</aac>
 
 "Where are we going?" Maya asked.
 
-*"THE ISLAND TOUR,"* Leo typed. *"FIRST STOP: FUEL."*
+<aac>The island tour,</aac> Leo typed. <aac>"FIRST STOP: FUEL."</aac>
 
 
 Maya drove out of the lot. The Sentinel’s V8 rumbled. It was heavy, but powerful.
@@ -2526,7 +2526,7 @@ She pulled into the gas station down the street.
 Maya got out. She pumped the gas. It was a simple act—something she had done a hundred times in Ohio for her father—but this time, she was using Stella’s card, filling Stella’s car, for a trip *she* was driving. It felt like freedom.
 
 
-*"HEAD NORTH,"* Leo typed. *"ENTER I-895 AT EXIT 3."*
+<aac>Head north,</aac> Leo typed. <aac>"ENTER I-895 AT EXIT 3."</aac>
 
 Maya merged onto the arterial road. She accelerated onto the on-ramp for **I-895 East** (signed North).
 
@@ -2538,7 +2538,7 @@ They cruised past **Exit 4 (Exeter)** and **Exit 5 (Liberty)**.
 
 Then came the signs. **EXIT 6 - US-1. LEFT LANE ENDS.**
 
-*"THE FUNNEL,"* Leo typed. *"MERGE RIGHT. NOW."*
+<aac>The funnel,</aac> Leo typed. <aac>Merge right. now.</aac>
 
 Maya checked her blind spot. A massive delivery truck was barreling down the left lane, trying to beat the squeeze.
 
@@ -2568,7 +2568,7 @@ Maya slowed to 5 MPH. She rolled down the window. She tossed the token.
 The gate flew up. Maya accelerated up the massive span of the bridge, the bay sparkling 200 feet below.
 
 
-*"TAKE EXIT 12,"* Leo typed. *"* **ADMIRAL KALBFUS RD / US NAVAL BASE***."*
+<aac>Take exit 12,</aac> Leo typed. <aac>"</aac> **ADMIRAL KALBFUS RD / US NAVAL BASE***."*
 
 Maya took the sharp exit ramp. It curled to the right like a cloverleaf loop, swinging them around 270 degrees and dropping them down to street level.
 
@@ -2605,12 +2605,12 @@ They passed a large brick building on the hill. **Newport Hospital**.
 
 Leo looked at the hospital. It was the origin point.
 
-*"DATA SOURCE,"* he typed.
+<aac>Data source,</aac> he typed.
 
 
 They crossed into **Middletown**. They were on **West Main Road**—a busy, four-lane commercial strip with fast traffic.
 
-*"DESTINATION ON LEFT,"* Leo typed. *"BAYVIEW CREAMERY."*
+<aac>Destination on left,</aac> Leo typed. <aac>Bayview creamery.</aac>
 
 Maya saw the sign. But it was on the other side of the road. There was no traffic light. She had to make a **Left Turn** across two lanes of oncoming traffic.
 
@@ -2628,7 +2628,7 @@ She put the car in park. She turned off the engine. Her hands were shaking sligh
 
 Leo looked at her. He raised his hand for a high-five.
 
-*"EXCELLENT PILOTING,"* he typed. *"YOU CAN DRIVE THE TANK."*
+<aac>Excellent piloting,</aac> he typed. <aac>You can drive the tank.</aac>
 
 "I can," Maya said, unbuckling. "I really can."
 

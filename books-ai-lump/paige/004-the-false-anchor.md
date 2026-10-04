@@ -678,7 +678,7 @@ Freddie frowned. He adjusted his glasses.
 
 "You have the data cells," Freddie explained, pointing to the screen. "But you have no container. Data cannot float in the void. It requires a row \<tr\>. And the row requires a table \<table\>."
 
-He typed quickly, showing her what it *should* look like.
+He typed quickly, showing her what it <aac>should</aac> look like.
 
 \<table border="1" cellpadding="5"\>
 
@@ -1501,7 +1501,7 @@ Jessica hit the spacebar. The monitors flared to life. The **Quantum OS XN Pro**
 
 "NCC-1701-D," Paige recited, her voice cracking. "Enterprise D. It’s always the Enterprise."
 
-Jessica typed it in. *Enter.*
+Jessica typed it in. <aac>Enter.</aac>
 
 The desktop loaded. Starfield background.
 
@@ -6124,7 +6124,7 @@ She put the pile of "safe food" on the counter. The total was nearly thirty-five
 
 They were rolling past a duty-free shop when the vibration hit.
 
-Through his foam earplugs, Freddie felt a rhythmic thumping. It wasn't the chaotic noise of the terminal; it was a beat. A specific, high-energy, synthesized bassline. *Thump-thump-thump-thump.*
+Through his foam earplugs, Freddie felt a rhythmic thumping. It wasn't the chaotic noise of the terminal; it was a beat. A specific, high-energy, synthesized bassline. <aac>Thump-thump-thump-thump.</aac>
 
 He recognized the frequency.
 
@@ -6627,7 +6627,7 @@ The connector tunnel between Concourse B and Concourse C was unlike anything els
 
 As they rolled out of the elevator, the lights flared—electric blue, turning to violet, turning to hot pink.
 
-And there was music. It wasn't a song; it was a synthesized, ambient hum that seemed to vibrate the very air. *Woom-woom-woom-woom.*
+And there was music. It wasn't a song; it was a synthesized, ambient hum that seemed to vibrate the very air. <aac>Woom-woom-woom-woom.</aac>
 
 "Sensory warning," Jessica said, her voice echoing off the glass walls. "It's intense."
 

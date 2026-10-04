@@ -1269,7 +1269,7 @@ The entire Colton family was assembled on the polished durasteel floor. Wyatt an
 
 At the primary holographic console, the twelve-year-old Vanguard stood at their post. Leo sat in his titanium wheelchair, perfectly anchored by Nora’s reassuring weight against his right shoulder and Ellie’s rigid, protective stance on his left.
 
-"Fluid purge sequence initiating in T-minus ten seconds," Aria’s voice echoed from the overhead acoustic array. The synthesized AI had entirely abandoned her neutral, clinical baseline over the last nine months. Her voice was bright, energetic, and rolled with the distinct, melodic vowels of Sydney, New South Wales. *"Alright, team. Stand by. It’s about to get a bit noisy in here."*
+"Fluid purge sequence initiating in T-minus ten seconds," Aria’s voice echoed from the overhead acoustic array. The synthesized AI had entirely abandoned her neutral, clinical baseline over the last nine months. Her voice was bright, energetic, and rolled with the distinct, melodic vowels of Sydney, New South Wales. <aac>"Alright, team. Stand by. It’s about to get a bit noisy in here."</aac>
 
 Wyatt wrapped his arm tightly around Sarah’s waist. "Ready, Vanguard?"
 
@@ -1395,7 +1395,7 @@ Wyatt and Sarah looked at the list. Ellie was right. In the rush of the decantin
 
 "A civilization needs surnames, Wyatt," Sarah realized, stepping away from Jack and Willow. "They aren't Coltons. They need their own family lines. If we're going to build an entire town, we can't have fifty people just running around with first names. It will be a logistical nightmare."
 
-"And they need middle names," Nora chimed in softly from her position next to Leo’s wheelchair. She tapped her AAC device, her empathetic mind focusing on the personal identity of the new recruits. *"A middle name makes it sound finished. Like a song."*
+"And they need middle names," Nora chimed in softly from her position next to Leo’s wheelchair. She tapped her AAC device, her empathetic mind focusing on the personal identity of the new recruits. <aac>"A middle name makes it sound finished. Like a song."</aac>
 
 Leo let out a loud, vibrating grunt of absolute agreement, his hand slamming down on his tablet. *"Good."*
 

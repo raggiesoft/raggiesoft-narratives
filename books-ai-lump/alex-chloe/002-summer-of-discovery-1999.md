@@ -47,7 +47,7 @@ She shared bits about her old town in Vermont, the much colder winters, her love
 
 Alex nodded, a rare, genuine smile spreading across his face. YES. VERY GOOD AT BEING ALONE. BUT SOMETIMES… He paused, then finished the thought, surprised at his own candor: SOMETIMES, COMPANY IS GOOD.
 
-Chloé’s smile softened. "Yeah," she said quietly. "Sometimes, company is really good." She looked at him, her gaze open and kind, and Alex felt that cold knot of anxiety ease just a little. He genuinely wanted to keep talking to her. *Maybe,* a small, fragile thought entered his mind, *maybe this is different*, and to get to know this bright, easygoing girl who didn't seem to see his chair or his AAC as anything other than parts of him. And Chloé, for her part, saw a boy with intelligent, expressive eyes and a quick, dry wit that came through beautifully via his communication device. She found herself truly enjoying his company, his unique way of seeing the world. They’d hit it off, quickly and surprisingly easily.
+Chloé’s smile softened. "Yeah," she said quietly. "Sometimes, company is really good." She looked at him, her gaze open and kind, and Alex felt that cold knot of anxiety ease just a little. He genuinely wanted to keep talking to her. <aac>Maybe,</aac> a small, fragile thought entered his mind, <aac>maybe this is different</aac>, and to get to know this bright, easygoing girl who didn't seem to see his chair or his AAC as anything other than parts of him. And Chloé, for her part, saw a boy with intelligent, expressive eyes and a quick, dry wit that came through beautifully via his communication device. She found herself truly enjoying his company, his unique way of seeing the world. They’d hit it off, quickly and surprisingly easily.
 
 As their first conversation began to wind down, the sun climbing higher, Chloé beamed at him.
 
@@ -337,7 +337,7 @@ I CAN WAIT OUTSIDE, he typed immediately. The thought of her being behind a clos
 
 Megan, who had been quietly reading on the other end of the sofa, saw his distress and immediately moved closer. She sat beside his wheelchair and put a firm, grounding arm around his shoulders. "It's okay, cuz," she said softly. "I'm right here. I'm not going anywhere."
 
-Alex leaned into his cousin's familiar, comforting hug, but his anxious gaze was still fixed on Chloé. WHY? his device asked, the question simple but full of a genuine, hurt confusion. *Why do you need to be away from me?*
+Alex leaned into his cousin's familiar, comforting hug, but his anxious gaze was still fixed on Chloé. WHY? his device asked, the question simple but full of a genuine, hurt confusion. <aac>Why do you need to be away from me?</aac>
 
 Chloé knelt in front of his wheelchair, her expression full of a patience that was far beyond her fourteen years. She took his free hand, stilling its nervous movement.
 

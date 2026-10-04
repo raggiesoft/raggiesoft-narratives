@@ -639,7 +639,7 @@ Sarah was clutching the heavy thermal duvet, her dark eyes wide with shock.
 
 Before Wyatt could even reach for the diagnostic monitor, a warm, undeniable rush of clear fluid soaked through the memory-foam mattress beneath her.
 
-*"Administrator,"* Aria’s synthesized voice chimed from the ceiling array, instantly shifting from her ambient standby mode into the crisp, rapid cadence of a trauma surgeon. *"Sensors detect a spontaneous rupture of the primary amniotic membrane. Sarah has entered the first stage of active labor. Fetal heart rates are currently stable, but contractions are commencing."*
+<aac>"Administrator,"</aac> Aria’s synthesized voice chimed from the ceiling array, instantly shifting from her ambient standby mode into the crisp, rapid cadence of a trauma surgeon. <aac>"Sensors detect a spontaneous rupture of the primary amniotic membrane. Sarah has entered the first stage of active labor. Fetal heart rates are currently stable, but contractions are commencing."</aac>
 
 The words had barely left the speakers before the first contraction hit.
 
@@ -3141,7 +3141,7 @@ Wyatt and Sarah were sitting at the kitchen island, enjoying a rare, quiet cup o
 
 Suddenly, the kitchen’s ambient lighting flashed a sharp, rapid yellow.
 
-*"Warning. Localized internal perimeter breach,"* Aria’s synthesized voice blared from the ceiling array, completely shattering the peaceful morning. *"Unauthorized personnel detected in Sub-Level 3: Combat Information Center."*
+<aac>"Warning. Localized internal perimeter breach,"</aac> Aria’s synthesized voice blared from the ceiling array, completely shattering the peaceful morning. <aac>"Unauthorized personnel detected in Sub-Level 3: Combat Information Center."</aac>
 
 Wyatt choked on his coffee, slamming the ceramic mug down on the stone counter.
 
@@ -3239,7 +3239,7 @@ He was sitting alone in the CIC, the blue light of the holotable illuminating hi
 
 "Aria," Wyatt sighed, rubbing his temples. "We need to talk about constitutional law."
 
-*"I am fully versed in the Planet Eden Constitution, Administrator,"* Aria chimed, her synthesized voice echoing in the quiet room. *"Are we reviewing Amendment 1: The absolute prohibition of physical and digital barriers for disabled citizens?"*
+<aac>"I am fully versed in the Planet Eden Constitution, Administrator,"</aac> Aria chimed, her synthesized voice echoing in the quiet room. <aac>"Are we reviewing Amendment 1: The absolute prohibition of physical and digital barriers for disabled citizens?"</aac>
 
 "We are," Wyatt grunted, his thick fingers hovering over the holographic keyboard. "Because right now, my brilliant five-year-old daughter is interpreting 'no physical barriers' to mean 'unrestricted top-secret security clearance.' I need to close the loophole, Aria. I need to lock Leo's tablet out of the restricted zones."
 
@@ -3289,7 +3289,7 @@ Wyatt Colton leaned back in his heavy command chair, letting out a long, satisfi
 
 "Subject A is Ellie. Subject B is Nora. Subject C is Leo. And Subject D is Jack," Wyatt instructed, an affectionate smile touching his scarred face. "From now on, refer to them by their names. They aren't test subjects; they're the Vanguard."
 
-*"Parameters accepted and integrated, Wyatt,"* Aria’s synthesized voice replied, the tone noticeably softening. *"The Colton family registry is fully updated."*
+<aac>"Parameters accepted and integrated, Wyatt,"</aac> Aria’s synthesized voice replied, the tone noticeably softening. <aac>"The Colton family registry is fully updated."</aac>
 
 "Good. Now, let's run a field test," Wyatt said, pushing himself out of the chair.
 

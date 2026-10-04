@@ -19,7 +19,7 @@ He was staring blankly at the course syllabus when a shadow fell over his table.
 
 Alex looked up. The woman standing there was older, in her early twenties, with a kind smile. She held a crisp new notebook, looking like a fellow student, but with an air of confidence.
 
-Alex selected a pre-set greeting, his hands feeling clumsy and disconnected. The synthesized voice, clear and polite, responded, *No. Please. Feel free.*
+Alex selected a pre-set greeting, his hands feeling clumsy and disconnected. The synthesized voice, clear and polite, responded, <aac>No. Please. Feel free.</aac>
 
 "Oh, thank you so much," the woman said, settling into the chair beside him. "I'm Vera, by the way. Vera Kowalski." She offered a small, self-deprecating laugh. "First day jitters, can you believe it?"
 
@@ -53,7 +53,7 @@ As Dr. Albright dismissed the class, Vera turned to him with a final, warm smile
 
 He looked at her – her kind eyes, her encouraging smile, her promise to be his "ally." The panic that had been suffocating him all morning finally began to recede, replaced by a fragile, desperate flicker of hope.
 
-*I would like that very much, Vera,* his device voiced. *The Student Union after next class sounds good.*
+<aac>I would like that very much, Vera,</aac> his device voiced. <aac>The Student Union after next class sounds good.</aac>
 
 "Wonderful!" she beamed. "See you next class, then!"
 
@@ -133,7 +133,7 @@ Later, lying beside Vera in the dim light of the bedroom, Alex felt a blush cree
 
 That thought—*years with Chloé versus two meetings with Vera*—flickered at the edge of his mind, a brief, unsettling whisper. It felt… incredibly fast. Almost too fast. But he quickly, forcefully, pushed the thought aside. Chloé was gone. The crushing loneliness of the past day was a pain he couldn't bear to feel again. Vera was here, she was real, and this thrilling new connection was a potent shield against the emptiness. He focused on that, on the feeling of being wanted.
 
-He carefully reached for his AAC device on the nightstand. *Vera,* his device whispered into the quiet room. *That was… I… I’ve never felt quite like that before.*
+He carefully reached for his AAC device on the nightstand. <aac>Vera,</aac> his device whispered into the quiet room. <aac>That was… I… I’ve never felt quite like that before.</aac>
 
 She stirred, pressing a soft, sleepy kiss to his shoulder. "Shhh," she murmured. "It was amazing, wasn't it?"
 
@@ -259,7 +259,7 @@ Alex looked up from his Quantum Communicator XT, a flicker of surprise in his ey
 
 "It's just…" she started, choosing her words with a careful, empathetic precision. "You seem really stressed lately. Is everything okay? With… with your girlfriend?"
 
-The question hung in the air. Alex froze. His programming was to say "everything is fine." But this wasn't just a random classmate. This was *Sarah*. A person from Megan's world. A person who knew the "before." He slowly, hesitantly, typed a single, devastatingly simple word.
+The question hung in the air. Alex froze. His programming was to say "everything is fine." But this wasn't just a random classmate. This was <aac>Sarah</aac>. A person from Megan's world. A person who knew the "before." He slowly, hesitantly, typed a single, devastatingly simple word.
 
 NO.
 
@@ -849,7 +849,7 @@ Chloé’s smile was full of gratitude as she looked at Megan. "I'm so glad. I'v
 
 Alex, wanting to connect with her on a deeper level, switched to their shared, safe language. His fluency was now remarkable, nearly flawless after years of practice.
 
-\`*Salut, Chloé,*" his device voiced in its Québécois French synthesizer. "*Tu me manques. Comment vont tes cours?*" (Hi, Chloé. I miss you. How are your classes?)
+\`<aac>Salut, Chloé,</aac>" his device voiced in its Québécois French synthesizer. "<aac>Tu me manques. Comment vont tes cours?</aac>" (Hi, Chloé. I miss you. How are your classes?)
 
 A look of pure, unadulterated joy washed over Chloé’s face. Hearing his voice in her "heart language," even through a speaker three thousand miles away, was a profound comfort. She replied in kind, their conversation flowing into a rapid, intimate exchange that was just for them. They talked for nearly an hour, an easy, rambling conversation that was a lifeline for them both, a powerful reminder of their unbreakable bond. The other family members just watched, content to witness the quiet, powerful connection that was the center of their universe.
 
@@ -1565,11 +1565,11 @@ The dreary Kent dawn did little to lift Alex Miller’s spirits. It was early We
 
 Vera, who had seemed so charming just months ago, was now a capricious jailer, her moods swinging wildly. This morning, however, she swept into the small guest room where Alex lay, miserable, in pain, and deeply hungry, with a burst of forced cheerfulness. "Morning, sweetie!" Vera chirped, her smile not quite reaching her eyes. "Guess what? I was looking at a map! Lynnwood – where your precious Chloé is – it’s really not that far from here at all! Just in the same greater Puget Sound area! So, I was thinking, today’s a good day as any. We can go see her *today*! Surprise her for Thanksgiving a day early!".
 
-Alex’s head snapped up, a jolt of pure, desperate hope – the first he’d felt in days – coursing through him despite the agony in his body and the gnawing emptiness in his stomach. See Chloé? Today? It was the promise that had gotten him through the nightmare bus journey. "CHLOÉ?" his Quantum Communicator XT voiced, the synthesized tone filled with a raw, pleading eagerness. "TODAY? WE GO TO LYNNWOOD?” "Absolutely!" Vera said brightly. "We'll just... head over there. It'll be great!” She was vague on the details of *how* they would get there, as she genuinely had no idea of the local geography or transit, beyond a general sense of proximity. The only thing Vera knew about the distance to Lynnwood was that they both saw a bus the other night in Downtown Seattle that was signed for Lynnwood, so it had to be nearby.
+Alex’s head snapped up, a jolt of pure, desperate hope – the first he’d felt in days – coursing through him despite the agony in his body and the gnawing emptiness in his stomach. See Chloé? Today? It was the promise that had gotten him through the nightmare bus journey. "CHLOÉ?" his Quantum Communicator XT voiced, the synthesized tone filled with a raw, pleading eagerness. "TODAY? WE GO TO LYNNWOOD?” "Absolutely!" Vera said brightly. "We'll just... head over there. It'll be great!” She was vague on the details of <aac>how</aac> they would get there, as she genuinely had no idea of the local geography or transit, beyond a general sense of proximity. The only thing Vera knew about the distance to Lynnwood was that they both saw a bus the other night in Downtown Seattle that was signed for Lynnwood, so it had to be nearby.
 
 Aunt Carol, passing by the open doorway on her way to the kitchen, overheard Vera’s pronouncement and Alex’s sudden, almost heartbreakingly excited reaction. She paused, unseen for a moment. A flicker of unease, which had been steadily growing since their arrival, intensified within her. Vera’s explanations for Alex’s condition had been inconsistent, her tone with him often sharp and dismissive, and Alex himself seemed to shrink whenever his supposed girlfriend was nearby. She had witnessed Vera's volatility and Alex's obvious distress, planting seeds of doubt about what was truly happening under her roof. Now, this sudden, vague promise of a trip to Lynnwood *today* – when Vera had previously only mentioned Kent as their destination and had seemed entirely unprepared for Alex's extensive needs, including his apparent starvation – struck Carol as another potential falsehood. Alex was clearly unwell, and Vera’s breezy ignorance of how one might actually get from Kent to Lynnwood on short notice, especially with someone in Alex’s condition, felt irresponsible at best. She was starting to realize that her niece was probably lying, not just about the ease of this new proposed jaunt, but likely about much more. Carol knew perfectly well that going from Kent to Lynnwood wasn’t just a quick trip up the street, but it also wasn’t a cross-country jaunt either.
 
-Alex, however, was clinging to Vera’s words, the promise of seeing Chloé a potent balm against his suffering and hunger. *How do we get there?* he typed, his hope making him momentarily forget his pain. "Oh, we'll figure it out!" Vera said dismissively. "A bus, maybe a taxi… it’s close! The important thing is you’ll see Chloé!” She patted his arm, then flitted out of the room, perhaps calling, "I need the bathroom first, then we can plan our big surprise!"
+Alex, however, was clinging to Vera’s words, the promise of seeing Chloé a potent balm against his suffering and hunger. <aac>How do we get there?</aac> he typed, his hope making him momentarily forget his pain. "Oh, we'll figure it out!" Vera said dismissively. "A bus, maybe a taxi… it’s close! The important thing is you’ll see Chloé!” She patted his arm, then flitted out of the room, perhaps calling, "I need the bathroom first, then we can plan our big surprise!"
 
 His AAC device, his only voice, was treated by Vera as an annoyance more often than not. He missed Chloé, his best friend since they were fourteen, with an ache so profound it felt like a physical wound. If only he could reach her. Lynnwood, where she attended Northwest Pacific University, felt like another world, though Vera had just confirmed it was in the wider Puget Sound region, and Alex remembered seeing a bus for Lynnwood the other night. The seeds of Aunt Carol's suspicion, watered by Vera's careless new promise and Alex's desperate hope, began to properly sprout. This "visit" was feeling less like a romantic getaway for her niece and more like something deeply, unsettlingly wrong. She resolved to keep a closer eye on Vera and, if possible, on Alex.
 
@@ -1577,7 +1577,7 @@ Later that morning, as Vera monopolized the bathroom for one of her lengthy, ste
 
 Alex looked up, his eyes filled with a desperate, hunted expression. He slowly reached for his wallet, his hands shaking. He fumbled with a worn plastic sleeve and pulled out a slightly creased photograph. He held it out to her. The photo was of two teenagers, maybe sixteen, radiating a pure, uncomplicated joy. It was Alex, younger and healthier, in his wheelchair. Beside him, a girl with a brilliant smile and coppery red hair was wrapped around him in a fierce, all-encompassing hug. The happiness in the photo was a tangible, living thing.
 
-"Oh, my," Carol breathed, her heart clenching at the stark contrast. "Who is this, dear?" Alex reached for his AAC device. CHLOÉ. MY BEST FRIEND. The name clicked into place with a horrifying clarity. *Chloé*. That was the name Vera had spat out with such venom. Carol looked from the radiant joy in the photograph to the memory of her niece's jealous rage, and her unease solidified into horrified certainty. This girl, Chloé, was not a rival; she was his lifeline. And Vera was trying to cut the line.
+"Oh, my," Carol breathed, her heart clenching at the stark contrast. "Who is this, dear?" Alex reached for his AAC device. CHLOÉ. MY BEST FRIEND. The name clicked into place with a horrifying clarity. <aac>Chloé</aac>. That was the name Vera had spat out with such venom. Carol looked from the radiant joy in the photograph to the memory of her niece's jealous rage, and her unease solidified into horrified certainty. This girl, Chloé, was not a rival; she was his lifeline. And Vera was trying to cut the line.
 
 "Alex," Carol said, a new resolve hardening her voice. "Do you need to call Chloé? Right now, while Vera’s… occupied?" His head snapped up, hope warring with fear in his eyes. He nodded vigorously. "Alright then," Carol said, her own anxieties now solidifying into a protective determination. "The phone is in the kitchen. It’s an old rotary, but it works. Do you know her number?” Alex nodded again, relief making him tremble. "Come on then, dear." Carol gently helped him guide his wheelchair from the guest room. "Let's get you to that phone. Quickly now."
 
@@ -1635,7 +1635,7 @@ Chloé pulled up to the small, slightly run-down house, her heart pounding. She 
 
 The door opened to reveal an older woman with kind, worried eyes. The woman's gaze flickered from Chloé's face to the coppery red hair, and a look of profound, dawning recognition washed over her. She had seen this face before, in a photograph, radiating a joy that was a world away from the fear she had seen in Alex's eyes. This was the girl from the picture. This was help.
 
-"You must be Chloé," Aunt Carol said, her voice full of a quiet, urgent relief, pronouncing her name correctly—*klo-AY*—just as she had heard it from Alex's device. "Thank God you're here. He's in the guest room."
+"You must be Chloé," Aunt Carol said, her voice full of a quiet, urgent relief, pronouncing her name correctly—<aac>klo-AY</aac>—just as she had heard it from Alex's device. "Thank God you're here. He's in the guest room."
 
 She opened the door wider, a silent, powerful invitation. Before Chloé could even step inside, she spoke, her voice clear and loud enough for Alex to hear, a beacon of safety sent into the house. "I'm here for Alex Miller. He called me. I'm here to take him home."
 
@@ -1653,7 +1653,7 @@ Carol stood by the open door, her presence a quiet, unshakeable bulwark. She loo
 
 "He's sick, he doesn't know what he's saying!" Vera insisted, glaring at Chloé. "Aunt Carol, stop her! She’s trying to kidnap my husband!” Carol looked from Vera’s frantic, lying face to Alex’s terrified one, then to Chloé’s calm but resolute stance. Her own face was now pale, but her eyes held a new, firm light. "Vera," she said, her voice surprisingly strong, "he is not your husband, and he is clearly not sick in the way you mean. He is frightened, and this young woman is his friend. He wishes to leave with her."
 
-Chloé, sensing an unexpected ally, knelt beside Alex's chair, speaking to him in soft, reassuring Québécois French: "*Alex, mon ami, tu veux venir avec moi? Dis-le clairement pour elles, si tu peux, en anglais. Mais je sais déjà ta réponse.*" (Alex, my friend, do you want to come with me? Say it clearly for them, if you can, in English. But I already know your answer.). He nodded vigorously, fresh tears of relief streaming down his face. He switched his AAC back to American English, his synthesized voice firm despite his trembling: "YES! YES, CHLOÉ! I WANT TO GO HOME WITH YOU! NOW!"
+Chloé, sensing an unexpected ally, knelt beside Alex's chair, speaking to him in soft, reassuring Québécois French: "<aac>Alex, mon ami, tu veux venir avec moi? Dis-le clairement pour elles, si tu peux, en anglais. Mais je sais déjà ta réponse.</aac>" (Alex, my friend, do you want to come with me? Say it clearly for them, if you can, in English. But I already know your answer.). He nodded vigorously, fresh tears of relief streaming down his face. He switched his AAC back to American English, his synthesized voice firm despite his trembling: "YES! YES, CHLOÉ! I WANT TO GO HOME WITH YOU! NOW!"
 
 "Then let's go," Chloé said, her voice soft for Alex. She looked up at Vera, her eyes like steel. "He’s made his choice. I'm taking Alex right NOW! Get his bag. And his medications, if you even bothered to pack them." The last part was pure, biting sarcasm. Vera just sputtered, her face a mask of fury and thwarted control. But before she could unleash another torrent, Carol spoke. "I'll get his bag, dear," she said to Chloé, her voice quiet but firm. She turned to Vera. "You will stay here, Vera. You will not make this any harder for him.” Ignoring Vera’s sputtering protests, Carol went to the guest room and returned a moment later with Alex's single, meager duffel bag. Her lips thinned as she noted its sparse contents. "He doesn't have much," she said to Chloé, handing over the bag, her eyes conveying a deep apology. The small amount of simple food – some crackers and a piece of fruit – she had managed to get into Alex while Vera was distracted earlier had clearly not been nearly enough, and he still looked desperately thin.
 
@@ -1681,7 +1681,7 @@ Traffic was indeed picking up, the early signs of the pre-Thanksgiving rush alre
 
 He glanced over at Chloé as she expertly merged onto I-405 North. He reached for his AAC, its voice output also set to the Québécois French Chloé had helped him program years ago.
 
-"*Chloé,*" his device voiced, the Québécois lilt familiar and comforting, "*quand le GPS a dit 'direction Bellevue... j'ai su. J'ai su que nous étions vraiment sortis de là. Merci.*" (Chloé, when the GPS said 'toward you Bellevue... I knew. I knew we were really out of there. Thank you.)
+"<aac>Chloé,</aac>" his device voiced, the Québécois lilt familiar and comforting, "<aac>quand le GPS a dit 'direction Bellevue... j'ai su. J'ai su que nous étions vraiment sortis de là. Merci.</aac>" (Chloé, when the GPS said 'toward you Bellevue... I knew. I knew we were really out of there. Thank you.)
 
 Chloé glanced at him, a small, tired but deeply reassuring smile touching her lips. "*Oui, Alex, mon trésor. On est sortis. Tu es en sécurité maintenant. On rentre à la maison.*" (Yes, Alex, my treasure. We're out. You are safe now. We're going home.)
 
@@ -1737,7 +1737,7 @@ In the sudden, profound silence, the only sound was Alex’s own shaky breath. H
 
 "On est arrivés, Alex," she said softly, her voice thick with emotion. She unbuckled her seatbelt. "Bienvenue chez nous." (We've arrived, Alex. Welcome to our home.)
 
-*Chez nous.* Our home. Not *my* home, but *our* home. The words wrapped around him like the warmest, safest blanket he had ever known. He slowly lifted a hand to his AAC, his fingers fumbling slightly from exhaustion and emotion. He typed a single word.
+<aac>Chez nous.</aac> Our home. Not <aac>my</aac> home, but <aac>our</aac> home. The words wrapped around him like the warmest, safest blanket he had ever known. He slowly lifted a hand to his AAC, his fingers fumbling slightly from exhaustion and emotion. He typed a single word.
 
 "Maison," the device spoke, the simple Québécois word filling the car, full of relief, gratitude, and the promise of a new beginning. (Home.)
 
@@ -1927,7 +1927,7 @@ She squeezed his hand gently. "Bien sûr que nous allons le faire. Je chercherai
 
 Alex nodded slowly, absorbing her unwavering support. As Chloé spoke, another thought, an extension of this sudden focus on his sexual health, began to form. He looked at her, his expression pensive. He knew about her infertility; it was a fact they had both understood when they had shared their own first, gentle intimate experiences that past summer before Vera, a context of trust and shared knowledge.
 
-"Chloé," his device voiced again. "Pendant que... pendant que je fais ces tests... pour les ITS... je me demandais..." He paused. "Tu sais pour toi, pour ta fertilité. Et après tout ça avec Vera... je pense que j'aimerais savoir pour moi aussi. Juste... pour savoir. Pour avoir une image complète de ma propre santé. Serait-ce possible de vérifier ça aussi? Ma fertilité?" *(Translation: Chloé... While... while I'm doing these tests... for the STIs... I was wondering... You know about yourself, about your fertility. And after all this with Vera... I think I'd like to know about myself too. Just... to know. To have a complete picture of my own health. Would it be possible to check that too? My fertility?)*
+"Chloé," his device voiced again. "Pendant que... pendant que je fais ces tests... pour les ITS... je me demandais..." He paused. "Tu sais pour toi, pour ta fertilité. Et après tout ça avec Vera... je pense que j'aimerais savoir pour moi aussi. Juste... pour savoir. Pour avoir une image complète de ma propre santé. Serait-ce possible de vérifier ça aussi? Ma fertilité?" <aac>(Translation: Chloé... While... while I'm doing these tests... for the STIs... I was wondering... You know about yourself, about your fertility. And after all this with Vera... I think I'd like to know about myself too. Just... to know. To have a complete picture of my own health. Would it be possible to check that too? My fertility?)</aac>
 
 Chloé’s eyes softened with immediate understanding. She recognized Alex’s thoughtful nature, his need for comprehensive knowledge, especially now. After such a profound violation, wanting a full understanding of his own physical self was a way of reclaiming agency.
 
@@ -1961,7 +1961,7 @@ Chloé took another gentle breath, her expression turning incredibly tender. "Et
 
 Alex absorbed this news quietly. It wasn't a shock like the fear of an STI had been. Knowing about Chloé's infertility for so long, and now this strong indication about himself... it felt like another piece of their intertwined reality, another way their paths, their very bodies, mirrored each other in unexpected ways. There might be a quiet flicker of sadness, a resignation for a possibility he hadn't actively considered but that was now being framed, yet it was strangely buffered by Chloé's presence, by their shared journey.
 
-He looked at Chloé, whose eyes were filled with love and understanding. He typed on his AAC: "ALORS... LE PREMIER PAS EST FAIT. PAS D'ITS. C'EST LE PLUS IMPORTANT MAINTENANT. POUR LE RESTE... NOUS VERRONS ENSEMBLE, AVEC LES AUTRES TESTS." *(Translation: SO... THE FIRST STEP IS DONE. NO STIS. THAT'S THE MOST IMPORTANT THING NOW. FOR THE REST... WE WILL SEE TOGETHER, WITH THE OTHER TESTS.)*
+He looked at Chloé, whose eyes were filled with love and understanding. He typed on his AAC: "ALORS... LE PREMIER PAS EST FAIT. PAS D'ITS. C'EST LE PLUS IMPORTANT MAINTENANT. POUR LE RESTE... NOUS VERRONS ENSEMBLE, AVEC LES AUTRES TESTS." <aac>(Translation: SO... THE FIRST STEP IS DONE. NO STIS. THAT'S THE MOST IMPORTANT THING NOW. FOR THE REST... WE WILL SEE TOGETHER, WITH THE OTHER TESTS.)</aac>
 
 Chloé brought his hand to her cheek. "Oui, Alex. Pas d'ITS. C'est une immense victoire. Et pour le reste, nous sommes ensemble, quoi qu'il arrive. Toujours." *(Translation: Yes, Alex. No STIs. That's a huge victory. And for the rest, we are together, no matter what. Always.)*
 
@@ -2027,17 +2027,17 @@ Alex looked down at their joined hands, then up at Chloé's loving face. The new
 
 He brought up his AAC, his fingers moving with a familiar grace. His voice, when it came, was also in clear American English.
 
-*So. It's official then,* Alex typed. *No biological kids for either of us. Ever.* A beat of silence, then he added, a small, almost wry smile touching his lips, *We really are a matched set, aren't we, Chloé?*
+<aac>So. It's official then,</aac> Alex typed. <aac>No biological kids for either of us. Ever.</aac> A beat of silence, then he added, a small, almost wry smile touching his lips, <aac>We really are a matched set, aren't we, Chloé?</aac>
 
 Chloé let out a soft, watery chuckle, tears welling in her eyes not from sadness, but from the sheer depth of their intertwined destinies. "Yeah, Alex," she whispered, leaning forward to rest her forehead against his. "I guess we really are. A perfectly matched set."
 
-He reached up, wiping a tear from her cheek with his thumb. *Are you okay with... with this? With me?* he typed, the question soft.
+He reached up, wiping a tear from her cheek with his thumb. <aac>Are you okay with... with this? With me?</aac> he typed, the question soft.
 
 Chloé pulled back slightly, her gaze fiercely loving. "Alex Miller," she said, her voice thick with emotion. "Knowing this about you changes absolutely nothing about how much I love you, about how much I need you as my best friend. If anything, it just... it makes us, *us*, even more unique. We were never going to have a conventional life, were we?" She smiled through her tears. "Our family will be the one we choose, the one we build together, in all the ways that matter. This just confirms one path we won't be taking. But all the other paths? They're wide open, and we walk them together."
 
 A profound peace settled over Alex. The weight of that particular unknown was gone. He was infertile. Chloé was infertile. And together, they were whole. Alex started to think about his future.
 
-*I like our paths, Chloé,* he typed, his own eyes shining. *Especially the ones with you on them.*
+<aac>I like our paths, Chloé,</aac> he typed, his own eyes shining. <aac>Especially the ones with you on them.</aac>
 
 She kissed his forehead. "Me too, Alex. Me too."
 
@@ -2051,7 +2051,7 @@ One evening, with their flight to Norfolk just a few days away, Chloé was confi
 
 "Looks like our Gateway Airlines flight is still on time for Saturday morning," Chloé announced, smiling at him. "Ready to head back to Virginia for the big event, Mr. Miller?"
 
-Alex typed on his Quantum Communicator XT, his synthesized American English voice thoughtful: *Yes. And no. I am excited for Megan's graduation. It will be good to see everyone.* He paused, the shadow briefly crossing his features. *But… Virginia also means… Portsmouth is close. Vera.*
+Alex typed on his Quantum Communicator XT, his synthesized American English voice thoughtful: <aac>Yes. And no. I am excited for Megan's graduation. It will be good to see everyone.</aac> He paused, the shadow briefly crossing his features. <aac>But… Virginia also means… Portsmouth is close. Vera.</aac>
 
 Chloé’s smile softened with understanding. She closed her laptop and moved to sit beside him, taking his hand. "Hey," she said gently, her voice a reassuring anchor. "You won't have to see Portsmouth at all. I promise. We are flying in for one reason: to watch your favorite cousin walk across that stage and get her diploma, Magna Cum Laude."
 
@@ -2063,7 +2063,7 @@ He squeezed her hand, the tension in his shoulders easing a little. The thought 
 
 A genuine smile spread across Alex's face. The familiarity of Lisa Court, the comfort of their intertwined childhood homes, the presence of all four of their loving parents, and the promise of Megan being there every single day—that part of Virginia, he was very much looking forward to.
 
-*That sounds really good, Chloé,* he typed, his voice reflecting his relief and anticipation. *Really good. I miss our houses. And Megan.*
+<aac>That sounds really good, Chloé,</aac> he typed, his voice reflecting his relief and anticipation. <aac>Really good. I miss our houses. And Megan.</aac>
 
 "They all miss you too, more than anything," Chloé said. "It's going to be a good break, Alex. A real celebration. You deserve it."
 
@@ -2269,7 +2269,7 @@ Chloé spoke up. "Once I graduate and get a good full-time job, those kinds of j
 
 James leaned forward slightly. "Alex, there is… a legal way that you could potentially be considered Chloé’s 'family member' for insurance purposes in the future..."
 
-A tense silence filled the room. Alex felt a sudden, cold dread. He knew, with sickening certainty, what his father was alluding to. *Marriage.* The word itself felt like a brand, seared into his memory by Vera. His body began to tremble, his fingers flying across his AAC keypad, the English words tumbling out in a rush of pure panic: NO! DAD, NO! MARRIAGE? CHLOÉ AND I… WE ARE BEST FRIENDS! I CAN’T… VERA… SHE SAID… IT WOULD RUIN EVERYTHING!
+A tense silence filled the room. Alex felt a sudden, cold dread. He knew, with sickening certainty, what his father was alluding to. <aac>Marriage.</aac> The word itself felt like a brand, seared into his memory by Vera. His body began to tremble, his fingers flying across his AAC keypad, the English words tumbling out in a rush of pure panic: NO! DAD, NO! MARRIAGE? CHLOÉ AND I… WE ARE BEST FRIENDS! I CAN’T… VERA… SHE SAID… IT WOULD RUIN EVERYTHING!
 
 His voice, via the device, was high with distress. He was spiraling. In an instant, he was flanked. Chloé was on one side, her hand on his arm, her voice a low, calming hum of their soothing Québécois French. Megan was on the other, her arm wrapping around his shoulders in a firm, grounding hug, a solid, unwavering presence.
 

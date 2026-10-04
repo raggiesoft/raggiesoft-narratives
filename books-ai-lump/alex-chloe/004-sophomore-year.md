@@ -45,7 +45,7 @@ The freshman looked up, his face a mask of profound relief. "Oh my god, yes! Tha
 
 "You're in luck," Chloe said with a grin. "My friend here is the official keeper of the schedule."
 
-Alex turned his AAC screen so the freshman could see the clear, purple-highlighted entry for the day. The boy's face flooded with understanding. "Oh! It *is* a Purple Day! Thank you! So... Henderson is in the 400 wing?"
+Alex turned his AAC screen so the freshman could see the clear, purple-highlighted entry for the day. The boy's face flooded with understanding. "Oh! It <aac>is</aac> a Purple Day! Thank you! So... Henderson is in the 400 wing?"
 
 ONLY ON GOLD DAYS, Alex's device voiced, its tone helpful. ON PURPLE DAYS, HE IS IN THE 200 WING. ROOM 214.
 
@@ -289,7 +289,7 @@ That night, for the first time, their shared bed was a cold and hostile territor
 
 The morning after their fight was a landscape of quiet misery. After a tense, silent breakfast, Chloé retreated to the living room, staring blankly out the window. The pain of the disconnection was a physical ache in her chest.
 
-In the den, Alex sat, his AAC device dark. The fear that had been tormenting him all night had reached a crescendo. *I broke it. I broke the best thing in my life. She's going to leave.* The fear was a cold, coiling serpent, and it was, finally, more powerful than his pride.
+In the den, Alex sat, his AAC device dark. The fear that had been tormenting him all night had reached a crescendo. <aac>I broke it. I broke the best thing in my life. She's going to leave.</aac> The fear was a cold, coiling serpent, and it was, finally, more powerful than his pride.
 
 He took a deep, shaky breath and wheeled himself into the living room. Chloé didn't turn. He stopped his chair a few feet behind her, his heart hammering. With trembling fingers, he activated his device and typed.
 

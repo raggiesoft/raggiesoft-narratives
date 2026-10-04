@@ -538,7 +538,7 @@ For Luna and Leo, their IEPs gave them a choice: brave the chaos of the Commons,
 
 The Commons was currently filling up with students who had just been released from their lunch shift. The volume was rising. Leo looked at the crowd, his hands tightening on his armrests. He looked at Luna.
 
-*"LIBRARY?"* he typed.
+<aac>Library?</aac> he typed.
 
 "Library," Luna agreed instantly.
 
@@ -824,7 +824,7 @@ He chuckled, shaking his head. "Tell me about it. Had to fight off the financing
 
 Grandma smiled knowingly, clearly familiar with her husband's negotiation skills. "Well, it's a fine car, looks sturdy. Good choice."
 
-"Can we go for a ride, Stella? Please?" Luna begged, peering in the window. Leo echoed the sentiment with enthusiastic gestures and typed *"RIDE NOW?"* on his AAC device.
+"Can we go for a ride, Stella? Please?" Luna begged, peering in the window. Leo echoed the sentiment with enthusiastic gestures and typed <aac>Ride now?</aac> on his AAC device.
 
 Stella laughed, feeling the stress of the day melt away in the face of their excitement. "Okay, okay! How about this? We take the new car out for its first official trip – we'll all go grab some dinner somewhere. My treat."
 

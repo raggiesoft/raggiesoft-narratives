@@ -2051,7 +2051,7 @@ Jessica didn't use words to answer. She just leaned forward, wrapping her arms a
 
 "Let me text Rachel," she said, pulling back. "When she gets up and calls, I’ll explain what happened. Don’t be upset, Michael. None of this is your fault. You are completely safe with me here in Renton."
 
-She quickly typed out a message to our younger sister: *Delores dumped Michael – he is safe with me in Renton.*
+She quickly typed out a message to our younger sister: <aac>Delores dumped Michael – he is safe with me in Renton.</aac>
 
 Jessica set her phone down and looked at me critically. "When you’re done with your breakfast, please take a shower. I’m sorry, but Delores was a disgusting slob, and I’d be surprised if that house didn’t fail a health inspection. You don’t need her. Didn’t you find it disgusting, all the cat shit on the floor? I am not mad at you; I am just worried about you."
 
@@ -3119,7 +3119,7 @@ I spun the avatar around on the screen, verifying the parameters. She was perfec
 
 I clicked the final confirmation box. The text cursor blinked, asking for the character's first name.
 
-I placed my hands on the keyboard and typed: *Bug*.
+I placed my hands on the keyboard and typed: <aac>Bug</aac>.
 
 Rachel gasped softly. The grip she had around my waist tightened significantly, pulling me completely flush against her side, mirroring the exact, heavy physical pressure of the hugs we always shared.
 
@@ -3163,7 +3163,7 @@ Rachel immediately picked up on the sudden drop in my emotional baseline. She sq
 
 "It's okay, Bear," Rachel promised, her raspy voice steady and reassuring. "She's standing up in the game, but it's still her. Look at the glasses. Look at the blazer. She's commanding the digital world just like she commands the real one. Jess will love it."
 
-I took a slow breath, absorbing the heavy pressure of my Bug's grip. She was right. I typed *Jessica* into the naming box and clicked save, immortalizing our big sister in the neighborhood bin right next to Rachel.
+I took a slow breath, absorbing the heavy pressure of my Bug's grip. She was right. I typed <aac>Jessica</aac> into the naming box and clicked save, immortalizing our big sister in the neighborhood bin right next to Rachel.
 
 I clicked 'Create New' one more time.
 
@@ -3187,7 +3187,7 @@ Rachel didn't offer empty platitudes. She didn't tell me it was going to be okay
 
 "She's not gone," Rachel rasped fiercely against my collarbone. "She's right there on the screen. You built her. She's in the pack."
 
-I typed *Ashley* into the box and hit save. The Sentinel joined the digital sanctuary. The perimeter was whole.
+I typed <aac>Ashley</aac> into the box and hit save. The Sentinel joined the digital sanctuary. The perimeter was whole.
 
 From down the hallway, the quiet, comforting sounds of domestic normalcy drifted into the bedroom. Kristin and Jessica were working together in the accessible kitchen. I could hear the clatter of plates, the hum of the microwave, and the quiet, easy banter between the Senior TPM and the retail worker.
 
@@ -3776,7 +3776,7 @@ But my analytical processor wasn't satisfied with my first pass.
 
 A small, translucent gray command console dropped down from the top edge of the screen.
 
-"I need to refine the architecture," I explained, my fingers flying across the keys. I typed in the developer-level cheat string: *bool_prop edit_citizen true*. I hit enter, and the console vanished.
+"I need to refine the architecture," I explained, my fingers flying across the keys. I typed in the developer-level cheat string: <aac>bool_prop edit_citizen true</aac>. I hit enter, and the console vanished.
 
 Holding down the shift key, I clicked directly on the digital version of Bug. A hidden pie-menu popped up, filled with raw data strings and debug commands. I selected *Force Create-A-Character*.
 

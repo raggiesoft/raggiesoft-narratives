@@ -231,7 +231,7 @@ A sudden, dizzying realization hit him, completely overriding the lingering sens
 
 He pulled his mPhone from his pocket, his thumbs flying over the glass screen. He angled it across the aisle toward Daniel.
 
-*The next plane goes to Canada,* Jordan typed, the cursor blinking rapidly. *I have never left Virginia before today. I need my Passport. And my Nexus card. Do I need to hold them now?*
+<aac>The next plane goes to Canada,</aac> Jordan typed, the cursor blinking rapidly. <aac>I have never left Virginia before today. I need my Passport. And my Nexus card. Do I need to hold them now?</aac>
 
 Daniel smiled warmly, understanding the sudden spike of travel anxiety. He reached into his coat pocket, where he was safeguarding the stack of eighteen documents, ready to hand Jordan's over to ease his mind.
 
@@ -297,7 +297,7 @@ Aubrie smiled, wrapping her arm comfortably around his shoulders now that his ha
 
 "They have to go through the standard international ePassport gates," Lauren added, nodding in agreement. "It’s a separate line, and because Pearson is a major global hub, it will definitely take them a bit longer to clear the border agents than it will take us."
 
-Jordan frowned slightly, his protective instincts flaring up for his friends. *We shouldn't just leave them behind,* he typed quickly.
+Jordan frowned slightly, his protective instincts flaring up for his friends. <aac>We shouldn't just leave them behind,</aac> he typed quickly.
 
 "We absolutely won't," Lauren promised, her smile widening at his unselfish concern. "Daniel already has it mapped out. Once our Nexus group clears the automated gates, we are going to head straight to the Maple Leaf Lounge in the domestic terminal. We will secure a quiet area, grab some Canadian snacks, and wait right there until Sarah and Jessica make it through the international line and join us."
 
@@ -419,7 +419,7 @@ As they approached the massive Canada Border Services Agency (CBSA) checkpoint, 
 
 As Jordan rolled his chair toward the Nexus lane alongside Aubrie, he pulled out his mPhone. His logical, systems-based brain was already processing the geopolitical data. He typed a quick question and angled the screen toward Lauren, who was walking just ahead of him holding her dark blue Canadian passport.
 
-*Canada and Australia are both Commonwealth nations with the same monarch,* Jordan typed. *Do Australians not get an expedited customs track here? Why do they have to wait in the long line?*
+<aac>Canada and Australia are both Commonwealth nations with the same monarch,</aac> Jordan typed. <aac>Do Australians not get an expedited customs track here? Why do they have to wait in the long line?</aac>
 
 Lauren smiled, looking down at his screen. "That is an incredibly smart question, J. They are both in the Commonwealth, and that actually does give them a perk—they get to use the electronic ePassport gates instead of talking to an agent manually, which saves them a ton of time. But Nexus is a very specific bilateral security treaty strictly between the United States and Canada. Commonwealth status doesn't grant you Nexus clearance."
 
@@ -473,7 +473,7 @@ Jordan frowned, his fingers moving quickly over his keyboard. *Did the system re
 
 Jordan stared at the screen of his terminal. His initial annoyance at the delay flared up again, completely directed at the sheer inefficiency and entitlement of the stranger who had ignored the rules and disrupted the system. But as he looked at Sarah and Jessica—who had sprinted through the terminal just to get back to the family—the irritation vanished.
 
-*I am annoyed that people refuse to read instructional signage,* Jordan typed, offering the two Australian women a warm, reassuring smile. *But I am glad you are both okay, and I am glad you are back.*
+<aac>I am annoyed that people refuse to read instructional signage,</aac> Jordan typed, offering the two Australian women a warm, reassuring smile. <aac>But I am glad you are both okay, and I am glad you are back.</aac>
 
 "Thanks, J," Sarah smiled, her frustration melting away instantly. "We wouldn't miss this flight for the world."
 
@@ -567,7 +567,7 @@ Before Aubrie could lean down to comfort him, the front door swung open. Two tal
 
 "Alright, let's get you out of the cold, mate," Liam smiled, jogging down the wooden steps with Connor right behind him.
 
-"The house isn't accessible," Jordan quickly typed on his mPhone, holding the screen up with trembling fingers. *I am too heavy. The chair is too heavy. I don't want to be a burden.*
+"The house isn't accessible," Jordan quickly typed on his mPhone, holding the screen up with trembling fingers. <aac>I am too heavy. The chair is too heavy. I don't want to be a burden.</aac>
 
 Liam stopped at the bottom of the steps. He looked at the phone screen, then looked Jordan directly in the eyes. His expression softened, completely devoid of pity, replaced entirely by a fierce, protective warmth.
 
@@ -667,7 +667,7 @@ Lauren’s mother immediately placed a fully loaded plate on his tray table, com
 
 Jordan looked at the massive plate of food, and then at Lauren's parents. His hands hovered over his keyboard. The old, traumatic programming installed by his mother, Aubrie Sinclair, flared up hard. Food, shelter, and care were never free in Virginia. They were heavy, transactional burdens held over his head to prove how useless he was. He was consuming their resources. He was taking up their space.
 
-He looked down, his breathing hitching slightly as the anxiety built in his chest. *I am sorry,* he typed quickly, his bright green text illuminating the screen. *I am taking too much. I do not want to be a burden on your family.*
+He looked down, his breathing hitching slightly as the anxiety built in his chest. <aac>I am sorry,</aac> he typed quickly, his bright green text illuminating the screen. <aac>I am taking too much. I do not want to be a burden on your family.</aac>
 
 Lauren, who was sitting right next to him, gently put her fork down. She didn't roll her eyes or sigh. She reached out and placed her hand firmly over his.
 
