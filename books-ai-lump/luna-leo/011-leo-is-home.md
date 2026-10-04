@@ -9,6 +9,8 @@ series: ""
 
 ### Part 1: Safe Harbor, Stark Reality
 
+**Date:** 2003-11-27 at 09:00 America/New_York
+
 Thanksgiving morning 2003 dawned bright, cold, and blessedly quiet outside Stella’s small Virginia house. Inside, however, a profound warmth settled, deeper than any furnace could provide. Leo surfaced slowly from a deep, exhausted sleep, the kind that follows immense stress and trauma. For a disoriented moment, he didn't know where he was. The gentle undulation beneath him wasn't his mattress; it was Stella's king-sized waterbed. He wasn't alone. Warmth pressed against him from both sides. He blinked his eyes open. On his left, Luna was curled close, fast asleep, her breathing soft and even. On his right, Olivia lay facing him, her eyes just opening, a soft, tired smile touching her lips. Stella was already awake and quietly moving about the room, getting herself ready for the day.
 
 Memory flooded back – arriving late last night, the overwhelming relief and subsequent meltdown at the airport, seeking refuge here in Stella's room with all three of his trusted women, the unspoken invitation as Stella lifted the covers, settling between them. Curled protectively between his twin and his best friend, the lingering fear from his ordeal in Washington felt distant, muted, held firmly at bay by their immediate, reassuring presence. This wasn't strange or awkward; it was the absolute safety he had desperately needed after being so alone and terrified.
@@ -32,6 +34,8 @@ His plea to have *all three* of them help, just like they used to before Delores
 “Promise, Leo, we got you,” Olivia said.
 
 ### Part 2: Restoring Care – The Bath
+
+**Date:** 2003-11-27 at 09:30 America/New_York
 
 As they began to stir fully, shifting slightly in the large bed, the faint but unmistakable sour smell of neglect became apparent in the close quarters. Stella, Luna, and Olivia exchanged a quick, horrified glance over Leo’s stirring form. This wasn't just travel fatigue; this was the deep, ingrained odor of someone whose basic hygiene had been utterly disregarded.
 
@@ -63,6 +67,8 @@ When they finally helped him out of the tub, wrapping him in thick, soft towels,
 
 ### Part 3: Dignity Restored, Needs Assessed
 
+**Date:** 2003-11-27 at 10:30 America/New_York
+
 They helped him dry off thoroughly with soft, fluffy towels, the clean scent of the bath bomb a welcome replacement for the sour odor of neglect. While Leo sat comfortably wrapped in a towel in his wheelchair, Stella, her face set with grim determination, gathered the pile of soiled, dingy clothes. She then picked up the single, small duffel bag Delores had apparently packed and emptied its meager contents onto the floor. Her lips thinned in anger. The few items inside were just as bad—worn thin, some visibly stained, all carrying the same stale smell.
 
 With an expression of quiet disgust, Stella gathered the entire lot and carried it straight to the laundry closet. She stuffed everything into the washing machine, adding extra detergent and selecting the hottest, longest cycle available. Some things simply needed to be obliterated.
@@ -93,6 +99,8 @@ Leo grinned and nodded enthusiastically. Bathed, shaved, and in clean clothes, w
 
 ### Part 4: Cereal, Milk, and Cruelty Revealed
 
+**Date:** 2003-11-27 at 11:00 America/New_York
+
 Finally feeling clean, cared for, and restored to a semblance of himself, Leo wheeled himself eagerly towards the kitchen, anticipation building for another simple act of normalcy: breakfast. His sisters and best friend followed, the relief of seeing him looking more like himself palpable between them. The kitchen, filled with the promise of Grandma and Grandpa’s eventual feast but currently just calm and bright, felt like the safest place in the world.
 
 Stella placed three bowls on the table and retrieved Leo’s favorite sugary cereal – the one Delores had often criticized. She poured generous amounts for all three of them. Then, she took the familiar carton of cold milk from the refrigerator. As Stella tilted the carton, pouring the white liquid over Leo's cereal, he watched intently, his breath caught somewhere between hope and remembered deprivation.
@@ -122,6 +130,8 @@ Luna’s knuckles had gone white under the table, her own protective fury simmer
 Leo looked up, meeting his sister's fierce, protective gaze, then at Luna's proud one, and finally at Olivia's tear-filled, loving eyes. He nodded slowly, the simple bowl of cereal now representing not just a recovered comfort, but the taste of his own reclaimed future, firmly rooted in the safety and love of his true family. He took another bite, the decision made, the break complete in his own heart.
 
 ### Part 5: MagnaByte Sanctuary and Digital Dysentery
+
+**Date:** 2003-11-27 at 12:00 America/New_York
 
 With breakfast finished and the immediate needs of bathing and grooming met, a sense of fragile normalcy began to settle. Leo, clean, comfortable, and having made a profound internal break from Delores's influence, felt an undeniable pull towards his ultimate comfort zone. He looked towards the living room corner housing the twin MagnaByte Opus setups, then looked at Luna. He typed on her nearby AAC device: MAGNABYTE TIME?
 
@@ -159,6 +169,8 @@ It was a comfortable, shared ritual, a retreat into a familiar challenge where t
 
 ### Part 6: Grandparents Relief
 
+**Date:** 2003-11-27 at 13:00 America/New_York
+
 The sound of the doorbell instantly broke the twins' concentration on their game of Westward Bound. Grandparents! Leo and Luna exchanged excited glances, the digital trail immediately forgotten. The only thing that could break Leo away from the MagnaByte Opus when he was truly engaged was the arrival of family he loved.
 
 Stella opened the door to find Arthur and Eleanor Bennett on the porch, bundled against the crisp air but radiating a palpable energy that was a mixture of holiday cheer and anxious urgency.
@@ -187,13 +199,15 @@ With a final loving glance back at Leo, Luna, and Olivia, and quick waves to Ste
 
 ### Part 7: A Kitchen Filled with Warmth
 
+**Date:** 2003-11-27 at 14:00 America/New_York
+
 Their return about an hour later, laden with bulging grocery bags, truly kicked off the heart of the Thanksgiving preparations. They swept into the house, bringing with them a gust of cold air and bustling energy. Eleanor, after depositing her bags, went straight back to Leo, giving his shoulder a warm squeeze. "Alright, dear," she said softly, "Grandma's back, and ready to cook up a storm for you." Arthur ruffled Leo's still-damp hair playfully. "Hope you're hungry, son! We aim to please!" Leo beamed back at them, the quiet joy of simply having them there evident on his face. He typed quickly on Luna's device: VERY HUNGRY! SMELLS GOOD ALREADY!
 
 Soon, the kitchen became the warm, fragrant hub of activity, with Eleanor firmly and cheerfully taking command. "Nonsense, dear, you've had enough on your plate," she insisted kindly but firmly when Stella attempted to help, gently steering her granddaughter out of the main work triangle. "This is our treat today. You three just relax."
 
 Arthur, meanwhile, donned an imaginary chef's hat and appointed himself "Sous-Chef Extraordinaire," a role he tackled with meticulous precision, diligently peeling potatoes at the counter.
 
-The comforting aromas began to layer through the small house: the rich scent of the turkey starting to roast, mingling with the sweet spice of Eleanor’s famous pecan pie and the savory smell of onions and celery sautéing for the stuffing. From the living room drifted the sounds of the Thanksgiving Day parade on the television, punctuated by Arthur’s occasional questions directed at Leo. "Hey Leo, look at that giant cartoon balloon! Reminds me of that ridiculous promotional inflatable we had at Keystone Motors one year!" He'd chuckle, wait patiently for Leo’s typed response, and nod appreciatively.
+The comforting aromas began to layer through the small house: the rich scent of the turkey starting to roast, mingling with the sweet spice of Eleanor’s famous pecan pie and the savory smell of onions and celery sautéing for the stuffing. From the living room drifted the sounds of the Hudson Thanksgiving Day Parade on the television, punctuated by Arthur’s occasional questions directed at Leo. "Hey Leo, look at that giant cartoon balloon! Reminds me of that ridiculous promotional inflatable we had at Keystone Motors one year!" He'd chuckle, wait patiently for Leo’s typed response, and nod appreciatively.
 
 In the kitchen, a new, beautiful dynamic was forming. Luna stood beside Eleanor at the counter, happily mashing a preliminary batch of potatoes. "Grandma, how do you get them so smooth?" she asked.
 
@@ -206,6 +220,8 @@ Olivia smiled, a warm, genuine blush rising to her cheeks, and joined them at th
 Seeing all this from the sofa—her grandparents confidently managing the feast, Luna and Olivia laughing easily with Eleanor, Leo engaged and comfortable with Arthur—allowed Stella to finally, truly relax. For years, holidays had been fraught, leaving her to manage logistics and emotional fallout. Now, having competent, loving adults sharing the load, and seeing Olivia so seamlessly welcomed into the very heart of their family traditions, felt like an extraordinary gift. She could simply be, watching her siblings and her best friend, all safe, happy, and cherished. This bustling, fragrant, slightly chaotic scene was the picture of normalcy she had fought so hard to create, and watching it unfold filled her with a profound sense of peace and accomplishment.
 
 ### Part 8: The Phone Call
+
+**Date:** 2003-11-27 at 15:00 America/New_York
 
 The cheerful sounds and comforting smells filling Stella's kitchen abruptly ceased as the landline phone on the end table shrilled. Stella frowned, a knot of apprehension tightening instinctively as she reached for the receiver. She glanced at the caller ID. **"Mahone, C."** Her eyes narrowed. With a deliberate motion, she pressed the speakerphone button before answering, a silent signal to Luna and Olivia. The entire family—Arthur, Eleanor, Luna, and Olivia—paused, their attention now fixed on the phone.
 
@@ -239,6 +255,8 @@ She picked up the receiver from the base, held it for a final, definitive second
 
 ### Part 9: Reckoning and Reunion
 
+**Date:** 2003-11-27 at 16:00 America/New_York
+
 Stella ended the call with a decisive click, plunging the room into a heavy silence. She stood there, receiver in hand, trembling slightly. The full weight of the confrontation, the raw relief of having Leo home, and a sudden, piercing wave of self-reproach crashed over her. *I could have stopped this sooner,* she thought, the realization a physical blow. *That Sibling Weekend... I knew she was manipulating him, but I backed down. I have the legal authority, and I didn't use it forcefully enough.*
 
 The strength she had projected on the phone dissolved. Her breath hitched, and tears of anger, relief, and guilt began to stream down her face. She sank onto a kitchen chair, burying her face in her hands as choked sobs escaped her.
@@ -271,6 +289,8 @@ The confrontation had been jarring, but the family's response was a swift, unifi
 
 ### Part 10: The Feast of Homecoming
 
+**Date:** 2003-11-27 at 17:00 America/New_York
+
 Arthur’s toast and Leo’s heartfelt typed message hung in the warm air, weaving threads of gratitude and relief around the laden dining room table. Now, finally, it was time to simply be together, to savor the normalcy of a shared holiday meal.
 
 The table itself was a testament to Eleanor’s and Arthur’s loving efforts. The turkey, roasted to a perfect golden brown, took center stage, surrounded by bowls overflowing with mashed potatoes, gravy, fragrant sage stuffing, and green bean casserole. Eleanor had carefully slid the jellied cranberry sauce out onto a small dish, where it stood proudly displaying the clear ridges from the can.
@@ -294,6 +314,8 @@ Luna, who had heard Olivia’s promise, put her arm around her friend's shoulder
 Here, surrounded by unconditional love, having faced down the fear and been brought home, there was no need for a painted smile. The relief wasn't just about escaping danger; it was the profound freedom of finally being able to let the mask fall, to simply be, safe and accepted, with the people who truly saw him. He didn't have to pretend anymore. He was home.
 
 ### Part 11: Evening Rituals and Secure Sleep
+
+**Date:** 2003-11-27 at 20:00 America/New_York
 
 The remnants of the magnificent pecan pie were cleared away, and a comfortable, contented exhaustion settled over the small house. As true evening darkened the windows, Arthur and Eleanor began gathering their coats. They made a point of saying a special goodbye to Leo, who was resting quietly in his wheelchair with Olivia in a chair next to him, her arm draped comfortingly around his shoulders.
 

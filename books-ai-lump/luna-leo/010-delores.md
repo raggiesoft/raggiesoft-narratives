@@ -2181,3 +2181,87 @@ It was a chaotic but loving ballet of logistics. Stella and Olivia quickly retri
 
 Leo was in the middle, a position of ultimate safety. Luna immediately curled up on one side of him, and Olivia on the other. They flanked him, their arms wrapping around him, creating a warm, living fortress. He was surrounded, held, and protected. He wasn't just safe for a night. He was safe forever. And in the quiet darkness, cocooned by the unwavering love of the three most important women in his life, he finally, truly, began to feel the first fragile sense of peace.
 
+### Part 21: Later That Night
+
+Later that night, the quiet darkness of the house should have felt comforting, but sleep wouldn't come easily for Leo. His body still felt adrift between time zones, and the lingering fear was a cold, visceral knot in his stomach. He was exhausted but mentally wired, hyper-aware of the profound safety of his current situation: he was nestled on Stella's massive king-sized waterbed, a human fortress surrounding him. Luna was on one side, Olivia on the other, their steady breathing a quiet rhythm in the dark. Stella was a warm, solid presence on the outside edge next to Luna. He was completely and utterly safe. He knew it logically.
+
+"Try to rest, Leo," Stella whispered from the edge of the bed, her voice soft with understanding. "You're completely wrung out. We're right here."
+
+He nodded in the dark, closing his eyes, desperately wanting sleep. But just as he teetered on the edge of unconsciousness, the image of Delores’s face, her contemptuous eyes as she straddled him in that Kent guest room, the feeling of her tongue invading his mouth, the sensation of choking – it all resurfaced with sickening clarity. His heart lurched, and his eyes snapped open. Panic, cold and sharp, prickled at him.
+
+A small, involuntary whimper escaped him.
+
+"Leo?" Luna’s voice came instantly, soft and close from his right. "You okay? Bad thought?" Her hand found his, her grip firm.
+
+From his left, Olivia stirred, her own voice a sleepy but immediately alert murmur. "Leo? What's wrong?"
+
+Stella’s arm tightened around him from behind Luna. "We're here, Leo. She's not here."
+
+He fumbled for Luna’s AAC device on the nightstand. The faint glow illuminated their three concerned faces, a trinity of love and worry leaning over him. His fingers, clumsy with terror, typed: NEED TO SEE YOU. ARE YOU REAL? AFRAID SLEEP. AFRAID KENT AGAIN.
+
+"Oh, honey," Stella murmured. Olivia gently turned his face towards her, then towards Luna and Stella. "Look at us, Leo," Olivia said, her voice impossibly kind. "We are absolutely real. You are in Stella's bed, in Virginia Beach. Delores is thousands of miles away. She cannot touch you here."
+
+Luna added, her voice earnest, "Never, Leo. This is real. We're real. It's okay to be scared, but you don't have to be scared alone anymore."
+
+He studied their faces, needing that visual anchor. It was in this fragile sanctuary, surrounded by their absolute love, that the specific horror he hadn't yet voiced pushed its way to the surface, demanding to be shared.
+
+He took a shaky breath, his fingers moving with deliberate, heavy slowness on Luna's device: KENT. TUESDAY. AFTERNOON. SHE WAS... SO ANGRY. ON THE BED. SHE... STRADDLED ME. HELD ME DOWN. He paused, the memory clearly agonizing. Stella’s arm tightened around him. Luna’s breath hitched. Olivia’s hand found his other arm, her grip a steadying pressure.
+
+Leo continued: KISSED ME. TONGUE. FELT… CHOKING. SO BAD. COULDN'T BREATHE. SCARED. SHE… HURT ME.
+
+The synthesized words filled the dim room. For Olivia, Stella, and Luna, the description instantly, sickeningly, connected to the hickey and forced kiss they'd witnessed during the Sibling Weekend. This was worse, amplified by his isolation. Stella’s face hardened into an icy fury. Luna let out a strangled gasp, tears of empathy welling. Olivia’s expression was one of cold, murderous rage.
+
+"Oh, Leo," Stella whispered, her voice thick with pain and anger. "That is monstrous. Vile. For her to do that to you... to overpower you like that... I am so, so incredibly sorry."
+
+Luna and Olivia pulled him closer, their bodies a shield. The memory of the Sibling Weekend, now understanding it was part of a pattern of such violations, made them sick with anger for him. He looked from one to the other, seeing their shared horror, their unconditional belief. Voicing it, having them know this specific violation, felt like lancing a terrible wound.
+
+"She will never, ever touch you again, Leo," Stella vowed, her voice a low, dangerous promise. "Not like that. Not in any way you don't want. Never."
+
+The fragile peace was shattered for Leo. Sleep was now an impossibility. Every time he closed his eyes, the image of Delores, the sensation of being choked and violated, returned. The cycle repeated itself throughout that long, fractured night. He would try to drift, then a flash of memory, a wave of terror, and the desperate, panicked need to see his protectors, to touch them, to hear their voices confirming his reality. Each time, Stella, Luna, and Olivia met his fear with unwavering patience. They talked to him softly, held his hands, let him see their faces in the dim glow of the AAC screen.
+
+There was no deep, restorative sleep for Leo that night. He kept a restless vigil, his eyes often open in the darkness, listening to the soft, steady breathing of the three women who were his only anchor to safety. And they, in turn, kept their own loving, silent vigil, their arms around him, their warmth a constant, unspoken promise: *You are not alone. We are here. We will keep you safe.*
+
+The first grey, watery light of Thanksgiving morning would eventually filter through the blinds, finding the four of them still huddled together on the waterbed—a tableau of profound, protective love and the first, fragile dawn of a long and arduous healing process.
+
+### Part 22: I'll Drag You Back
+
+**Date:** 2003-11-27 at 04:00 America/New_York
+
+The house was deathly quiet. It was the deep, hollow silence of 4:00 AM, a time when the world feels suspended. 
+
+On Stella's massive waterbed, Leo had finally succumbed to exhaustion. His breathing was shallow and uneven, catching in his throat every so often as a ghost of trauma chased him through his fitful dreams. He was sandwiched securely between Stella and Olivia, their protective embrace a physical barrier against the dark.
+
+But Luna couldn't sleep.
+
+She lay on her side, tracing the soft rise and fall of her twin brother's chest, feeling a terrible, heavy ache in her own. The sheer terror in his eyes when he’d typed out the details of Delores’s violation—the straddling, the forced tongue, the choking—was burned into Luna's retinas. She could still see the phantom static behind his gaze, the remnants of a boy who had been locked in a private hell while the rest of the world moved on. 
+
+*I saw the static in your eyes,* she thought, the words forming a fierce, protective rhythm in her mind. *The silent screams, the practiced lies.* 
+
+She remembered the agonizing disconnect over the phone, the way he had sounded like a hollow shell of the vibrant, expressive brother she knew. She had tried to call. She had tried to warn him. But the static of Delores's interference had drowned her out. 
+
+*A painted smile, a hollow shell. Trapped inside a private hell.* 
+
+Luna reached out, her fingertips gently brushing a lock of messy brown hair from his sweaty forehead. He flinched even in his sleep, but settled as she began a steady, repetitive stroke. 
+
+*You couldn't hear my quiet plea. But you are finally back with me.*
+
+Tears stung Luna's eyes, but they were hot with anger, not just sorrow. Delores had taken his voice, his sanctuary, his basic human dignity. She had tried to swallow him whole. 
+
+Luna's jaw tightened. She leaned in closer to his ear, her voice a barely audible, absolute whisper in the dark room. 
+
+"I will never let you go again," she breathed. 
+
+It wasn't a wish. It was a binding vow, forged in the fires of the last two weeks. The electric guitar of her anger roared silently in her head, heavy and distorted, a violent reaction to the trauma inflicted upon him. But cutting through it was the clear, piercing note of her resolve. She was the flute song. She would not be drowned out. 
+
+"This is a promise," she whispered, her hand finding his under the blankets, gripping his fingers tight. "Not a 'what if' or a 'when'. If the darkness ever calls your name... I'll be the fire, I'll be the flame."
+
+Leo shifted slightly, a soft whimper escaping him. Luna held tighter, sending every ounce of her fierce, unwavering love into his fragile frame. 
+
+"No more silence," she promised him. "No more fear. As long as I am standing here, you'll never have to walk alone."
+
+She watched his breathing slow, the nightmare momentarily chased away by the physical reality of her grip. He was broken, battered, and terrified of his own bed. He had miles of healing ahead of him. But he was *home*. 
+
+Luna rested her forehead lightly against his shoulder. Let the darkness try. Let the trauma try to pull him under. She wasn't afraid of the noise anymore. She knew her power. 
+
+"And if I have to, with my own two hands," Luna vowed to the quiet room, to the universe, to the sleeping brother who was half her soul, "I'll drag you back from those broken lands."
+
