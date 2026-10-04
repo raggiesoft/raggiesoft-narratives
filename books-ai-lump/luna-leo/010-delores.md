@@ -2055,7 +2055,7 @@ Armed with the precious passes, she and Luna made their way through the TSA chec
 
 **Date:** 2003-11-26 at 23:05 America/New_York
 
-![Leo arriving at Gate A5 at ORF]({{CDN}}/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg)
+![Leo arriving at Gate A5 at ORF]({{CDN}}/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg#fullwidth)
 
 The light above the jet bridge door flickered, and a rush of cool, conditioned air hit Leo's face as the door swung open. Olivia pushed his manual wheelchair out of the long, sloping tunnel and into the bright lights of Gate A5 at Norfolk International Airport. 
 
