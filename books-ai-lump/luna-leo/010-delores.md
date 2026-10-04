@@ -1855,6 +1855,8 @@ They sat there for a long time, not speaking, just watching the complex, powerfu
 
 ### Part 12: A Song of Homecoming
 
+**Date:** 2003-11-26 at 09:30 America/Los_Angeles
+
 As they sat in the quiet of the empty gate area, a steady stream of generic holiday music drifted from the overhead speakers, part of the airport's ambient soundscape they had been tuning out for hours. Then, a new song began that cut through the background noise. It started with a dramatic, slightly melancholic piano melody, quickly joined by swelling orchestral strings that built a sense of grand anticipation.
 
 Then, a clear, powerful voice sang out, and the words of the chorus seemed to stop time, aimed directly at Leo's heart:
@@ -1871,7 +1873,7 @@ Then, a clear, powerful voice sang out, and the words of the chorus seemed to st
 >
 > No, you're finally coming home!
 
-The words hit Leo with the force of a physical blow, but it wasn't a blow of fear. It was a tidal wave of pure, unadulterated, and overwhelming joy. The song, Arctic Symphony Project's "Homeward on This Day," wasn't just a song; it was his story, sung out loud for the whole world to hear. He had been through the wind and rain in Kent. He had been through the doubt and pain on the long journey. But he was not alone, and yes, he was finally, *finally* coming home.
+The words hit Leo with the force of a physical blow, but it wasn't a blow of fear. It was a tidal wave of pure, unadulterated, and overwhelming joy. The song, The Winter Palace's "Homeward on This Day," wasn't just a song; it was his story, sung out loud for the whole world to hear. He had been through the wind and rain in Kent. He had been through the doubt and pain on the long journey. But he was not alone, and yes, he was finally, *finally* coming home.
 
 A choked sob of pure, cathartic relief was torn from his chest. He slumped forward in his chair, his body shaking as tears he hadn't realized he was holding back began to stream down his face.
 
