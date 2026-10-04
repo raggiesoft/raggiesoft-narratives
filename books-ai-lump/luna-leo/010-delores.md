@@ -2033,51 +2033,71 @@ Olivia quickly gathered their trash and packed away their things. "That's us," s
 
 With Olivia pushing his chair, they joined the pre-boarding line, fed, cared for, and ready for the final leg of their long, arduous journey.
 
-### Part 17: Arrival at ORF & Reunion
+### Part 17: The Gate Pass
+
+**Date:** 2003-11-26 at 22:30 America/New_York
 
 Stella pulled her blue Holt Sentinel into the short-term parking garage at Norfolk International Airport (ORF). The garage was packed, a chaotic prelude to the terminal. Beside her, Luna was practically vibrating with anxiety.
 
 “Okay, let’s go,” Stella said, trying to inject a calm she didn’t feel into her voice. They hurried towards the terminal, their focus on one thing: getting to Leo.
 
-Inside, Stella located Gateway Airlines Flight 412 from Chicago Midway. Gate A5. At the customer service counter, she explained the situation. Given the documented emergency, the agent was incredibly helpful.
+Inside, Stella located the Gateway Airlines ticket counter. Given the hour, the lines were minimal. She approached the desk, her heart pounding, ready to plead if she had to. She explained the situation—the documented emergency, the grueling multi-day journey her disabled brother and his best friend had just endured to get back to them.
 
-“I see the notes here,” the agent said with compassion. “His escort, an Olivia Walker, is on the flight with him, correct? We can absolutely issue gate passes for you and your sister so you can be right there at Gate A5 when they arrive.”
+“I see the notes here in the manifest,” the agent said with unexpected compassion. “His escort, an Olivia Walker, is on Flight 412 from Midway with him, correct? It’s due to arrive at Gate A5 in about thirty minutes. We can absolutely issue gate passes for you and your sister so you can be right there at the gate when they arrive.”
 
-Relief washed over Stella so powerfully her knees almost buckled. “Yes! Thank you. That would be… incredibly helpful.”
+Stella blinked, stunned. She hadn't even known gate passes were a thing, especially not with the tightened security these days. She had fully expected to be forced to wait agonizingly out at the baggage claim or the curb. 
 
-Armed with the precious passes, they made their way through the TSA checkpoint and hurried to Gate A5. They found seats with a direct view of the jet bridge door and settled in for the final, agonizing wait. Every minute stretched. *Please let them be okay.*
+Relief washed over her so powerfully her knees almost buckled. “Yes! Thank you. That would be… incredibly helpful.”
 
-Finally, the light above the jet bridge door flickered, and it swung open. A few business travelers emerged, followed by families. Stella leaned forward, her eyes glued to the doorway. Luna gripped her hand tightly, her knuckles white.
+Armed with the precious passes, she and Luna made their way through the TSA checkpoint and hurried down the concourse to Gate A5. They found seats with a direct view of the jet bridge door and settled in for the final, agonizing wait. Every minute stretched into an eternity. *Please let them be okay.*
 
-Then, she appeared. Olivia. Her face was a mask of weary determination, and her hands were firmly on the handles of Leo's manual wheelchair. She was pushing him. She had brought him home.
+### Part 18: Sanctuary
 
-Leo looked pale, exhausted, and utterly overwhelmed, but he was here. He was with Olivia. He was safe.
+**Date:** 2003-11-26 at 23:05 America/New_York
 
-A choked sob escaped Luna. Stella surged to her feet, moving towards the gate podium without conscious thought, Luna right beside her. They saw Leo look up, his eyes widening as he spotted them. Olivia saw them too, and a wave of profound relief washed over her own tired face as she guided him toward his sisters.
+The light above the jet bridge door flickered, and a rush of cool, conditioned air hit Leo's face as the door swung open. Olivia pushed his manual wheelchair out of the long, sloping tunnel and into the bright lights of Gate A5 at Norfolk International Airport. 
 
-Stella dropped to her knees as he approached, pulling him into a fierce hug, burying her face against his shoulder, the overwhelming relief finally breaking through. Luna immediately enveloped them both, her own tears flowing freely as she clung to her brother. Olivia stepped back for a moment, giving them their space, her own eyes shining with tears.
+He was pale, exhausted, and utterly overwhelmed by the sheer magnitude of the journey they had just survived. But as they emerged into the terminal, his eyes immediately caught sight of them.
 
-"Leo, oh Leo," Stella whispered, pulling back to scan him for any hurt.
+Stella and Luna. 
 
-He gestured urgently towards his battered carry-on bag. Olivia, understanding, quickly retrieved it and carefully lifted out the damaged AAC device. Leo held it up, showing them the spiderwebbed screen. Then, mimicking the rage he’d witnessed, he made a sharp throwing motion towards the floor.
+They were surging to their feet, rushing toward the gate podium without a second thought. A choked sob echoed across the gate area—Luna's voice. Olivia stopped pushing, a wave of profound relief visibly crashing over her as she let go of his handles, giving his sisters the space they needed. 
 
-Luna gasped. "She broke it?" Stella breathed.
+Stella dropped to her knees in front of him, pulling him into a fierce, desperate hug and burying her face against his shoulder. Luna was right there a second later, enveloping them both, her tears flowing freely as she clung to her brother. 
 
-Leo nodded, grief washing over him. He tried the power button one last time. The screen remained dark. It was too much. The finality of his broken voice, the violent memory, layered on top of the extreme stress and the overwhelming relief of being with his sisters and Olivia—it overloaded his circuits completely.
+He was home. He was with them. He was safe.
 
-A low, guttural moan escaped him. He started rocking violently back and forth in his chair, his hands flying up to cover his ears, lost in the internal storm of a full autistic meltdown.
+"Leo, oh Leo," Stella whispered, pulling back to frantically scan his face, her hands gently framing his cheeks to check for any hurt.
 
-Stella, Luna, and Olivia didn't panic. They moved instantly, forming a protective triangle around him. Stella knelt again, a steady hand on his knee, murmuring calm reassurances. Luna stood beside him, humming that soft Origin melody, rubbing his back in a slow, familiar rhythm. And Olivia stood on his other side, a quiet, protective guardian, her presence an unshakeable wall against the chaos of the airport. They created a small island of calm, weathering the storm with him.
+The dam inside him broke. The words he had kept locked away, the trauma he had endured in silence, clawed at his throat. He gestured urgently towards his battered carry-on bag hanging off the back of his chair. Olivia, understanding instantly, quickly unzipped it and carefully lifted out the damaged AAC device. 
 
-Slowly, agonizingly, the peak passed. He slumped in his chair, utterly spent, tears still tracking silently down his face. Luna waited a beat, then unzipped her own backpack and retrieved her AAC device. She held it out tentatively. "Leo? Maybe... use mine for now?"
+Leo took it from her and held it up with shaking hands, showing his sisters the spiderwebbed glass of the ruined screen. Then, fueled by the fresh, terrifying memory of the rage he’d witnessed, he made a sharp, violent throwing motion towards the floor, mimicking Delores's unforgivable act.
 
-He gave a small, exhausted nod, accepting it and resting it on his lap.
+Luna gasped, covering her mouth. 
 
-"Okay, buddy," Stella said softly, helping him wipe his face. "Ready to go home for real?"
+"She broke it?" Stella breathed, her eyes widening in horror.
 
-He nodded again. Stella took the handles of his chair, her touch a promise of safety. Luna and Olivia gathered their bags, and the four of them began the journey towards the exit, moving together, a complete and unbreakable fortress of love.
+Leo nodded, a profound, crushing grief washing over him. He tried the power button one last time, a desperate, futile hope. The screen remained dark and lifeless. 
 
-### Part 18: Checking In, Cleaning Up
+It was too much. The finality of his broken voice, the violent memory of the assault, layered on top of the extreme physical exhaustion and the overwhelming, blinding relief of finally being back in his sisters' arms—it overloaded his circuits completely. The world spun into a chaotic blur of noise and light.
+
+A low, guttural moan escaped his lips. He started rocking violently back and forth in his chair, his hands flying up to cover his ears, lost in the inescapable storm of a full autistic meltdown.
+
+But he was not alone. 
+
+Stella, Luna, and Olivia moved instantly, without panic or hesitation. They formed a protective triangle around him. Stella knelt again, placing a steady, grounding hand on his knee, murmuring calm reassurances that cut through his panic. Luna stood beside him, humming that soft, familiar Origin melody he loved, rubbing his back in a slow, steady rhythm. And Olivia stood on his other side, a quiet, unshakeable guardian, her presence a solid wall against the chaos of the busy airport terminal. Together, they created a small, impenetrable island of calm, weathering the storm with him.
+
+Slowly, agonizingly, the peak of the meltdown began to pass. The violent rocking subsided, leaving him slumped in his chair, utterly spent, tears still tracking silently down his face. 
+
+Luna waited a beat, then unzipped her own backpack. She retrieved her own AAC device and held it out tentatively. "Leo? Maybe... use mine for now?"
+
+He gave a small, exhausted nod, accepting the tablet and resting it gently on his lap. It wasn't his, but it was a voice.
+
+"Okay, buddy," Stella said softly, using her sleeve to help wipe the tears from his face. "Ready to go home for real?"
+
+He nodded again. Stella took the handles of his chair, her touch a promise of absolute safety. Luna and Olivia gathered their bags, and the four of them began the journey towards the exit, moving together—a complete and unbreakable fortress of love.
+
+### Part 19: Checking In, Cleaning Up
 
 Settled into the back seat of Stella’s familiar blue Holt Sentinel with Luna beside him and Olivia in the front passenger seat, Leo felt the tension finally begin to drain away. Stella turned on the radio to the familiar Rock 107 The Wolf, and the opening guitars of Mirage's "Haven City" filled the car. The words – *Take. Me. Home.* – hit Leo with the force of a physical blow, but a cathartic one. Tears welled again, but these were tears of arrival, of safety achieved. He was home. He instinctively leaned his head against Luna’s shoulder, and her arm came around him instantly, holding him close.
 
@@ -2123,7 +2143,7 @@ A sound—a raw, choked sob of pure, unadulterated relief—was torn from his ch
 
 Olivia was beside him in an instant, wrapping him in a fierce, loving hug. He clung to her, the last of his terror finally, truly, washing away. He wasn't just safe for a night. He was safe forever. The fortress of protection was now, officially and permanently, three-strong, just as it was always meant to be.
 
-### Part 19: The Contaminated Sanctuary
+### Part 20: The Contaminated Sanctuary
 
 He was clean, he was cared for, and he was surrounded by his fortress of love. As Leo lay on Stella’s bed, a profound weariness settled deep in his bones.
 
@@ -2154,46 +2174,4 @@ Stella’s heart ached with love for him. She didn't hesitate for a second. "You
 It was a chaotic but loving ballet of logistics. Stella and Olivia quickly retrieved pillows and blankets. They all crammed onto the large waterbed, a strange, four-person raft in a sea of trauma. Stella took the outside edge, giving the three of them as much space as she could.
 
 Leo was in the middle, a position of ultimate safety. Luna immediately curled up on one side of him, and Olivia on the other. They flanked him, their arms wrapping around him, creating a warm, living fortress. He was surrounded, held, and protected. He wasn't just safe for a night. He was safe forever. And in the quiet darkness, cocooned by the unwavering love of the three most important women in his life, he finally, truly, began to feel the first fragile sense of peace.
-
-### Part 20: Later That Night
-
-Later that night, the quiet darkness of the house should have felt comforting, but sleep wouldn't come easily for Leo. His body still felt adrift between time zones, and the lingering fear was a cold, visceral knot in his stomach. He was exhausted but mentally wired, hyper-aware of the profound safety of his current situation: he was nestled on Stella's massive king-sized waterbed, a human fortress surrounding him. Luna was on one side, Olivia on the other, their steady breathing a quiet rhythm in the dark. Stella was a warm, solid presence on the outside edge next to Luna. He was completely and utterly safe. He knew it logically.
-
-"Try to rest, Leo," Stella whispered from the edge of the bed, her voice soft with understanding. "You're completely wrung out. We're right here."
-
-He nodded in the dark, closing his eyes, desperately wanting sleep. But just as he teetered on the edge of unconsciousness, the image of Delores’s face, her contemptuous eyes as she straddled him in that Kent guest room, the feeling of her tongue invading his mouth, the sensation of choking – it all resurfaced with sickening clarity. His heart lurched, and his eyes snapped open. Panic, cold and sharp, prickled at him.
-
-A small, involuntary whimper escaped him.
-
-"Leo?" Luna’s voice came instantly, soft and close from his right. "You okay? Bad thought?" Her hand found his, her grip firm.
-
-From his left, Olivia stirred, her own voice a sleepy but immediately alert murmur. "Leo? What's wrong?"
-
-Stella’s arm tightened around him from behind Luna. "We're here, Leo. She's not here."
-
-He fumbled for Luna’s AAC device on the nightstand. The faint glow illuminated their three concerned faces, a trinity of love and worry leaning over him. His fingers, clumsy with terror, typed: NEED TO SEE YOU. ARE YOU REAL? AFRAID SLEEP. AFRAID KENT AGAIN.
-
-"Oh, honey," Stella murmured. Olivia gently turned his face towards her, then towards Luna and Stella. "Look at us, Leo," Olivia said, her voice impossibly kind. "We are absolutely real. You are in Stella's bed, in Virginia Beach. Delores is thousands of miles away. She cannot touch you here."
-
-Luna added, her voice earnest, "Never, Leo. This is real. We're real. It's okay to be scared, but you don't have to be scared alone anymore."
-
-He studied their faces, needing that visual anchor. It was in this fragile sanctuary, surrounded by their absolute love, that the specific horror he hadn't yet voiced pushed its way to the surface, demanding to be shared.
-
-He took a shaky breath, his fingers moving with deliberate, heavy slowness on Luna's device: KENT. TUESDAY. AFTERNOON. SHE WAS... SO ANGRY. ON THE BED. SHE... STRADDLED ME. HELD ME DOWN. He paused, the memory clearly agonizing. Stella’s arm tightened around him. Luna’s breath hitched. Olivia’s hand found his other arm, her grip a steadying pressure.
-
-Leo continued: KISSED ME. TONGUE. FELT… CHOKING. SO BAD. COULDN'T BREATHE. SCARED. SHE… HURT ME.
-
-The synthesized words filled the dim room. For Olivia, Stella, and Luna, the description instantly, sickeningly, connected to the hickey and forced kiss they'd witnessed during the Sibling Weekend. This was worse, amplified by his isolation. Stella’s face hardened into an icy fury. Luna let out a strangled gasp, tears of empathy welling. Olivia’s expression was one of cold, murderous rage.
-
-"Oh, Leo," Stella whispered, her voice thick with pain and anger. "That is monstrous. Vile. For her to do that to you... to overpower you like that... I am so, so incredibly sorry."
-
-Luna and Olivia pulled him closer, their bodies a shield. The memory of the Sibling Weekend, now understanding it was part of a pattern of such violations, made them sick with anger for him. He looked from one to the other, seeing their shared horror, their unconditional belief. Voicing it, having them know this specific violation, felt like lancing a terrible wound.
-
-"She will never, ever touch you again, Leo," Stella vowed, her voice a low, dangerous promise. "Not like that. Not in any way you don't want. Never."
-
-The fragile peace was shattered for Leo. Sleep was now an impossibility. Every time he closed his eyes, the image of Delores, the sensation of being choked and violated, returned. The cycle repeated itself throughout that long, fractured night. He would try to drift, then a flash of memory, a wave of terror, and the desperate, panicked need to see his protectors, to touch them, to hear their voices confirming his reality. Each time, Stella, Luna, and Olivia met his fear with unwavering patience. They talked to him softly, held his hands, let him see their faces in the dim glow of the AAC screen.
-
-There was no deep, restorative sleep for Leo that night. He kept a restless vigil, his eyes often open in the darkness, listening to the soft, steady breathing of the three women who were his only anchor to safety. And they, in turn, kept their own loving, silent vigil, their arms around him, their warmth a constant, unspoken promise: *You are not alone. We are here. We will keep you safe.*
-
-The first grey, watery light of Thanksgiving morning would eventually filter through the blinds, finding the four of them still huddled together on the waterbed—a tableau of profound, protective love and the first, fragile dawn of a long and arduous healing process.
 
