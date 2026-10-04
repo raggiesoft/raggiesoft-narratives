@@ -1,7 +1,13 @@
 # Lore Dossier: San Francisco Bay Area Transit
 
 ## The BayPass Network
-The in-universe **"BayPass"** is the 1:1 equivalent of the real-world Clipper card. The incredibly fragmented real-world transit map of the Bay Area has been streamlined into five major entities for the Raggiesoft universe:
+The in-universe **"BayPass"** is the 1:1 equivalent of the real-world Clipper card (originally known as TransLink). 
+
+### Fare Media Timeline
+*   **Pre-2010:** BayPass is in limited, slow pilot testing. The vast majority of riders (and all tourists) use paper magnetic-stripe tickets for BATS (BART) and exact cash or paper transfers for buses. 
+*   **2010 to Present:** BayPass officially launches across all agencies as a unified smart card. 
+
+The incredibly fragmented real-world transit map of the Bay Area has been streamlined into five major entities for the Raggiesoft universe:
 
 *   **SFMA (San Francisco Municipal Authority):** The in-universe counterpart to SFMTA (Muni) for the City and County of San Francisco. Operates the city bus grid, Muni Metro light rail, and the historic (but famously non-wheelchair-accessible) Cable Cars and F-Line streetcars. 
 *   **CalRail:** The parent agency that operates the double-decker commuter trains down the Peninsula (the in-universe counterpart to Caltrain), and also operates **BATS (Bay Area Transit System)**, the heavy-rail backbone counterpart to BART.

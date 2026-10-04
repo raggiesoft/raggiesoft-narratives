@@ -163,7 +163,7 @@ Arthur demanded absolute technical accuracy regarding the physics of the fire an
 
 - **The Blueprint Mandate:** Arthur forced the film’s set designers to study the Crown Point Ledger. He wanted the fictionalized "cut corners" in the movie to exactly mirror the lethal mistakes made in San Francisco, ensuring the audience understood precisely *why* the building failed.
 
-- **The Contrast:** He allowed the production to film establishing shots of his own three-story Grand Atrium—with its heavy concrete pillars and brass fixtures—to represent the ill-fated tower before the disaster, using the sheer scale of Sterling Plaza to communicate what was at stake.
+- **The Vanity Contrast:** To visually represent the sheer vanity and hubris of the Crown Point Developers, Arthur rented out the massive, 17-story brutalist atrium of **The Sovereign Regency** hotel in San Francisco to film the lavish lobby and party scenes for the fictionalized tower. He wanted the audience to see a towering monument to excess, directly contrasting it with the dark, heavy, functional mechanical rooms filmed inside his own Sterling Plaza.
 
 
 The movie was a massive critical and commercial success, fundamentally shifting public consciousness about high-rise safety. For Arthur, the return on his investment wasn't just financial. The film immortalized his architectural philosophy.
@@ -231,8 +231,9 @@ Arthur Sterling, however, did not care about the title, the press, or the San Fr
 
 When his engineers told him that delaying the ribbon-cutting to run further tests on the B3 and B4 mechanical lungs would allow Crown Point to beat them to the finish line, Arthur waved them off. He was perfectly content to let San Francisco have the headlines, provided his own building's infrastructure remained flawless.
 
+- **The Fatal Timeline Compression:** Sterling Plaza was officially scheduled to open on December 21st, 1974. If the Crown Point Developers had actually followed the architectural specifications, properly installed the heavy-gauge wiring, and completed the required fire safety testing, their tower would not have been ready until **March or April of 1975**. 
 
-Driven by the desperation to cross the finish line first and secure their December 16th opening, the Crown Point Developers squeezed their contractors. The Electrical Subcontractor, pushed to the brink by compressed timelines and budget shortfalls, made the fatal decision to use inadequate, under-specced wiring.
+Driven by the desperation to cross the finish line first and secure their December 16th opening, the Crown Point Developers squeezed their contractors to shave three to four months off the schedule. The Electrical Subcontractor, pushed to the brink by compressed timelines and budget shortfalls, made the fatal decision to use inadequate, under-specced wiring just to get the lights on for opening night. 
 
 They won the race. Crown Point Tower opened five days before Sterling Plaza was scheduled to.
 
