@@ -2147,7 +2147,7 @@ A sound—a raw, choked sob of pure, unadulterated relief—was torn from his ch
 
 Olivia was beside him in an instant, wrapping him in a fierce, loving hug. He clung to her, the last of his terror finally, truly, washing away. He wasn't just safe for a night. He was safe forever. The fortress of protection was now, officially and permanently, three-strong, just as it was always meant to be.
 
-### Part 20: Guiding Stars (Reprise)
+### Part 20: The Contaminated Sanctuary
 
 **Date:** 2003-11-27 at 01:00 America/New_York
 
