@@ -1739,6 +1739,8 @@ He looked at the two slips of paper in Olivia's hand—his name and hers, side-b
 
 ### Part 9: Airside Sanctuary
 
+**Date:** 2003-11-26 at 08:45 America/Los_Angeles
+
 Armed with both of their boarding passes, tangible proof of their shared journey home, Olivia led Leo towards the Transportation Security Administration checkpoint.
 
 The lines were long and intimidating, the air filled with the echoing sounds of PA announcements, the sharp clatter of plastic bins, and the relentless *beep-beep-beep* of the metal detectors. Leo tensed, the sheer sensory input of the crowded space threatening to overwhelm him again.
