@@ -9,6 +9,8 @@ series: "Luna and Leo"
 
 ### Part 1: The Weapon
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 By the time Stella, Luna, Leo, and Olivia had settled into their new normal—a rhythm of college classes, quiet evenings, and the slow, steady healing from the ordeal with Delores—their grandparents, Arthur and Eleanor, had passed away peacefully, leaving the fortress four as the sole inheritors of their quiet wisdom and vast fortune. The house on Daniel Maloney Drive, once a sanctuary built by their grandparents' love, now belonged entirely to them. But with that inheritance came a new, more insidious kind of fear.
 
 The decision to move was not made in a lawyer's office or during a formal family meeting. It was made on a quiet Tuesday evening in the living room, in the wake of a simple, beautiful, and terrifyingly vulnerable moment.
@@ -42,6 +44,8 @@ Olivia felt a jolt of ice-cold fear, because she knew Stella was right. She thou
 Olivia didn't hesitate for a second. She looked from Stella's determined, fearful face to the two innocent souls on the sofa, and her own resolve hardened into steel. "You're right," she said, her voice a low, fierce promise. "Let's build them a fortress no one can ever breach."
 
 ### Part 2: The Green and Gold
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The gymnasium was a humid maze of vinyl banners, cheap folding tables, and the dull roar of students negotiating their futures. Stella marched at the front of the phalanx, her expression focused. Luna pushed Leo’s manual wheelchair, while Olivia walked flank, scanning the crowd.
 
@@ -223,6 +227,8 @@ They had a target. Now, they just had to finish the semester and pack the car.
 
 ### Part 3: The Shibboleth
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The Next Morning Braxton State University - The Fine Arts Center *Dean* Sterling’s Office
 
 Dean Elise Sterling was staring at a stack of audition tapes from high school seniors. She rubbed her temples. If she heard one more botched attempt at the Chaminade *Concertino* played on a nickel-plated student flute with leaky pads, she was going to scream.
@@ -289,6 +295,8 @@ Dr. Aris walked out, whistling. He had secured a genius for his department, and 
 
 ### Part 4: The Tape
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 November 2005 1091 Daniel Maloney Drive - Living Room
 
 The living room had been transformed into a makeshift recording studio. Stella had hung heavy blankets over the windows to dampen the street noise. Leo, maneuvering his manual wheelchair with precise, short strokes, adjusted the tripod of Stella’s high-end digital camera.
@@ -330,6 +338,8 @@ Luna lowered the flute, letting out a long, shaky breath. "I didn't crash on the
 "It didn't just speak," Stella said, stopping the recording. "It sang. Dr. Aris is going to lose his mind."
 
 ### Part 5: The Verdict
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 Two Days Later Braxton State University - Dean Sterling’s Office
 
@@ -374,6 +384,8 @@ She pulled out a heavy, cream-colored sheet of stationery.
 "They better," Sterling muttered, already typing. "Because I just found my soloist for the Debussy cycle."
 
 ### Part 6: The Northward Compass
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 November 24, 2005 (Thanksgiving Day) 1091 Daniel Maloney Drive
 
@@ -471,6 +483,8 @@ Outside, the wind rattled the siding of the little house on Daniel Maloney Drive
 
 ### Part 7: The Long Twilight
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 November 24, 2005 (Thanksgiving Night) 1091 Daniel Maloney Drive
 
 The dishes were done. The leftovers were packed into Tupperware containers that Eleanor had brought, labeled in her neat, looping cursive that was just a little shakier than it used to be.
@@ -520,6 +534,8 @@ Stella looked at them. She saw the fragility in their frames—the way Arthur’
 ## The Iron Link
 
 ### Part 1: The Iron Link
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The air in Newport News was damp and cold, a wet chill that settled into the bones. The station itself was small—a brick building at the end of the line, surrounded by a chain-link fence and the hum of idling diesel locomotives.
 
@@ -682,6 +698,8 @@ Leo tapped his Quantum Communicator.
 
 ### Part 2: The Hospitality Standard
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The glass sliding doors hissed shut behind them, sealing out the hum of the station concourse. The transition was instant: the acoustic brightness of the terrazzo tunnel was replaced by the hushed, carpeted silence of the hotel’s lower lobby.
 
 Leo, having won the drag race against the moving walkway, was waiting by the elevator bank, spinning slow, bored circles in his titanium manual chair.
@@ -775,6 +793,8 @@ He tapped his screen.
 "Make it six bowls," Arthur said, moving toward his own room to freshen up. "We'll eat in here. A family dinner in the new world."
 
 ### Part 3: The Concourse Encounter
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 December 27, 2005 Narraganset Esplanade Station - The Concourse (Level 1) 05:30 PM
 
@@ -870,6 +890,8 @@ They burst into the elevator, hitting the button for the lobby. They had come fo
 
 ### Part 4: The Victory Lap & The Blueprint
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The excitement of the Dean’s business card had finally faded, replaced by the heavy, crushing weight of travel exhaustion. The adrenaline that had powered Leo through the station and the encounter with Dr. Sterling drained away, leaving his nerves raw and exposed.
 
 The hotel room was quiet. Outside, the wind whipped against the glass, but inside, the air was still. Too still.
@@ -937,6 +959,8 @@ Leo looked up at them. He felt Luna’s heartbeat against his side. He smelled O
 He didn't need to type. He just closed his eyes and let the darkness take him, held tight in the center of the only geography that mattered.
 
 ### Part 5: The Subterranean City
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The blizzard had arrived in earnest. Beyond the floor-to-ceiling windows of the hotel dining room, the world was erased. The Plaza, the Station, and the Ocean were gone, replaced by a swirling vortex of white. The wind howled against the glass, vibrating the silverware on the tables.
 
@@ -1063,6 +1087,8 @@ The door to the inner office opened. Dean Elise Sterling stepped out. She saw Lu
 
 ### Part 6: The Silver Standard
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The office was spacious, lined with bookshelves filled with orchestral scores. A grand piano sat in the corner. Through the floor-to-ceiling windows, the blizzard was a white curtain, erasing the world outside. Inside, it was dead silent.
 
 The Fortress (plus Arthur and Eleanor) sat on the leather sofas lining the wall. They were the audience.
@@ -1170,6 +1196,8 @@ Luna hugged the flute to her chest. She looked at Arthur and Eleanor. Eleanor wa
 They had come to see if the city was right. The city had just answered back: *Yes.*
 
 ### Part 7: The Adrenaline Crash
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The door to the Dean’s office clicked shut behind them.
 
@@ -1285,6 +1313,8 @@ She wasn't just better than them. She was the mercenary they would eventually ha
 
 ### Part 8: The Foundation
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The train hissed to a halt. The doors slid open.
 
 The Fortress stepped out into the teeth of the blizzard.
@@ -1336,6 +1366,8 @@ Luna, awake now and bundled to the nose, looked at the empty lot. She hummed the
 They stood there for a moment longer, claiming the land with their eyes—four Porters and two Bennetts, planting a flag in the New England snow. They were frozen, tired, and windblown. But they were home.
 
 ### Part 9: The Last Train Out
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The walk back from **Lot 4B** had been brutal. The wind had picked up, turning the snowfall into horizontal needles of ice. Leo’s shoulders burned from pushing through the accumulating drifts on the sidewalk, even with Stella and Olivia taking turns helping him gain traction.
 
@@ -1418,6 +1450,8 @@ They headed to the elevators, leaving the storm outside to rage against the wall
 
 ### Part 10: The Pulse of the City
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 Having secured the hotel rooms and eaten lunch, the Fortress was safe. But Leo was restless. He knew the Regional Rail was dead. He knew the buses were buried. But his internal map told him that physics didn't apply 60 feet underground.
 
 "I want to see the heartbeat," Leo typed.
@@ -1479,6 +1513,8 @@ He realized why he loved the BTA. It wasn't just because it was convenient. It w
 They ascended back to the surface, leaving the slow, steady heartbeat of the city to pump in the darkness below.
 
 ### Part 11: The Cash Hammer
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The blizzard was howling against the triple-paned glass of the hotel room, but inside, the atmosphere was calm. The fireplace in the lobby (visible through the open door to the suite’s parlor) cast a warm glow.
 
@@ -1558,6 +1594,8 @@ He tapped his Quantum Communicator.
 
 ### Part 12: The Paper Fortress
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The Business Center was a small, glass-walled room off the lobby. It smelled of toner and heated electronics. Outside, the blizzard was a whiteout, but inside, the fax machine was humming.
 
 Stella stood over the machine, watching the paper feed through.
@@ -1636,6 +1674,8 @@ They left the business center, clutching the thermal paper like a treasure map. 
 
 ### Part 13: The Lobster Toast
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The blizzard had intensified. Outside, the wind screamed against the glass, but inside the suite, the heavy curtains were drawn back just enough to watch the snow pile up on the balcony railing.
 
 The room was warm, lit by the soft glow of the lamps and the flickering electric fireplace.
@@ -1675,6 +1715,8 @@ Outside, the city of Braxton was shutting down, buried under two feet of snow. B
 ## The Orange Army
 
 ### Part 1: The Orange Army
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The storm had broken in the middle of the night.
 
@@ -1753,6 +1795,8 @@ Leo’s eyes lit up. He grabbed his wheels.
 "Suit up," Stella commanded. "Light jackets only. It's seventy degrees underground."
 
 ### Part 2: Part 2
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 location: "Unknown"
 end_time: ""
@@ -1905,6 +1949,8 @@ They turned back toward the hotel, leaving the depths of the Bull Run behind, kn
 
 ### Part 3: The Quiet Harbor
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 December 29, 2005 Narraganset Esplanade Station - Concourse Level 10:45 AM
 
 They emerged from the **Bull Run** tunnel back into the main station concourse. The walk had been long, but warm.
@@ -1956,6 +2002,8 @@ He tapped his Quantum Communicator.
 They sat there for a long time, sipping chocolate and watching the lonely Red Line train finally close its doors and slide into the dark tunnel, keeping the heartbeat of the city alive.
 
 ### Part 4: The Blue Line Run
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The cabin fever had reached critical mass. The "Orange Army" of snowplows was entertaining, but watching from a window wasn't enough. Leo needed to feel movement.
 
@@ -2048,6 +2096,8 @@ As they boarded the return train to Narraganset Esplanade, Leo looked back at th
 
 ### Part 5: The Restoration
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The **Blue Line** train hissed to a halt at the end of the line.
 
 "This is Narraganset Esplanade. Final stop. Please exit to the left."
@@ -2115,6 +2165,8 @@ Leo closed his eyes. He listened to the faint hum of the hotel HVAC. He thought 
 He was tired. But he wasn't scared. For the first time in a long time, he knew exactly where he was going.
 
 ### Part 6: The Closing Table
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The conference room of Iron Point Realty smelled of stale coffee and high-stakes tension. Outside, the snow from the blizzard was piled high against the windows, but the roads were clear enough for business.
 
@@ -2241,6 +2293,8 @@ Leo rolled to the window and looked out at the street of Iron Point. It was no l
 
 ### Part 7: The Final Look
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The Recon Mission was over. The Fortress stood on the platform, waiting for the southbound **ARTS Coastal Service** to take them back to Virginia.
 
 Arthur leaned heavily on his cane. He was exhausted. The color had drained from his face, leaving his skin looking like parchment. But his eyes were bright.
@@ -2258,6 +2312,8 @@ The silver train glided in.
 This time, Arthur didn't walk to the Business Class table. He sank into the first available seat near the door. Eleanor sat beside him, covering him with a blanket. He slept for almost the entire 13-hour journey south, waking only when they crossed the Mason-Dixon line, offering a small, satisfied nod before drifting off again.
 
 ### Part 8: The Iron Record
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The Registry of Deeds was a quiet place that smelled of old paper and dust. Rows of heavy, leather-bound ledgers lined the walls, containing the history of every square inch of land in the county going back to the colonial charter.
 
@@ -2326,6 +2382,8 @@ Leo’s voice came through the background, via his Communicator.
 
 ### Part 9: The Engine Stops
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The phone on the nightstand in **Room 101** rang. A soft, electronic warble in the quiet darkness of the suite.
 
 Stella woke instantly. She didn't need to look at the caller ID. She knew. The connecting door to her grandparents' room was unlocked, but Eleanor had called instead of walking through. It was a formality. A signal that the world had changed.
@@ -2385,6 +2443,8 @@ Leo rolled up to her. He placed his hand on her knee.
 "Grandma is coming," Eleanor agreed, covering his hand with hers. "I promised Arthur I'd keep an eye on you. And I never break a promise."
 
 ### Part 10: The Quiet Departure
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 Stella took the elevator down to the lobby alone. She was dressed in clean clothes, her hair brushed. She didn't look like a woman in crisis; she looked like a woman with business to conclude.
 
@@ -2449,6 +2509,8 @@ They walked back to the suite. The sun was blazing outside, melting the snow on 
 Arthur Bennett had checked out. But he had left them the keys to the kingdom.
 
 ### Part 11: The Vessel
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 They didn't leave on the 30th. They stayed to handle the business of death with the same efficiency Arthur had taught them.
 
@@ -2516,6 +2578,8 @@ Leo watched Stella secure the case. He knew what was inside. But looking at the 
 They walked out of the studio, carrying their patriarch into the winter sun, ready for the final ride south.
 
 ### Part 12: The Final Passenger
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The Fortress stood on the platform, waiting for **ARTS Coastal Service 95**—the southbound train to Newport News.
 
@@ -2618,6 +2682,8 @@ They drove out of the station, the headlights cutting through the Virginia night
 
 ### Part 1: The Transfer of Power
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The conference room was familiar. It was the same room where they had planned the rescue from Delores, and where they had strategized the lawsuit. But today, the mood wasn't frantic; it was final.
 
 Sarah Jenkins sat at the head of the table. She looked at the four Porters (and Eleanor).
@@ -2673,6 +2739,8 @@ Leo tapped his Quantum Communicator.
 "THEY ARE," Leo typed. "AND THE STATIONS HAVE ELEVATORS."
 
 ### Part 2: The War Room
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The house was quiet. The morning sun slanted through the blinds, illuminating dust motes dancing in the air.
 
@@ -2756,6 +2824,8 @@ Leo watched Stella grab her keys. He looked at the urn on the shelf.
 
 ### Part 3: The Permission Slip
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The courtroom was familiar. It was the same room where Stella had fought for custody years ago. But today, the atmosphere wasn't one of conflict; it was one of graduation.
 
 Stella stood before the bench with **Sarah Jenkins**. Luna and Leo sat behind them.
@@ -2783,6 +2853,8 @@ He handed the order to the clerk.
 "We have, Your Honor," Stella smiled. "Thank you."
 
 ### Part 4: The Heavy Lift
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The house was a shell. The furniture was gone, loaded onto a massive **Hercules Van Lines** truck the day before.
 
@@ -2905,6 +2977,8 @@ Leo looked at the schedule. He tapped the entry for **04:45 AM**.
 
 ### Part 5: The Final Crossing
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The ride down Warwick Boulevard had been smooth. The **CVTA** bus was warm and nearly empty, save for a few shipyard workers dozing in their uniforms.
 
 But as the bus passed 40th Street, the landscape changed. The suburban manicured lawns of the university district gave way to the gritty, industrial concrete of downtown Newport News.
@@ -2984,6 +3058,8 @@ They walked toward the platform, leaving the hostile asphalt of Virginia behind 
 
 ### Part 6: The ARTS-Box
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 Having survived the dash across Warwick Boulevard, the Fortress stood on the concrete slab of the station grounds.
 
 The station building itself was an insult to architecture. It wasn't a "Terminal" or a "Station." It was a tiny, flat-roofed brick rectangle with flickering fluorescent lights and barred windows.
@@ -3060,6 +3136,8 @@ The train pulled out of the station, leaving the ARTS-Box, the humidity, and the
 
 ### Part 1: The Landing
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The silver **ARTS Coastal** train hissed to a halt. The conductor deployed the bridge plate.
 
 *"Now arriving... Iron Point. Caution, gap."*
@@ -3123,6 +3201,8 @@ He wasn't visiting anymore. He lived here.
 "They'll be here," Olivia promised, sitting beside him. "The Tank and the furniture. Until then... we have pancakes."
 
 ### Part 2: The Home Court
+
+**Date:** Thu, Dec 18, 2003 at 9:00 AM PST
 
 The walk from the Grey Gull to Town Hall was a pleasant quarter-mile stroll under the summer maples. Leo pushed his manual chair, enjoying the smooth, flat sidewalks of his new hometown.
 
@@ -3209,6 +3289,8 @@ He tapped his Scribe.
 
 ### Part 3: The Traffic Report
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 Back at their temporary base camp, the mood was light. The legal hurdles were cleared. They were officially residents.
 
 Stella opened her laptop on the kitchenette table. She pulled up the **Hercules Van Lines** tracking portal.
@@ -3248,6 +3330,8 @@ Leo nodded. He liked that plan. It was preparation. It was engineering.
 They walked back to **8 Ocean View Lane**, leaving the movers to fight the traffic while they prepared the ground for their arrival.
 
 ### Part 4: The Ghost Layout
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The walk from the Grey Gull took ten minutes. They arrived at the driveway of the Fortress. It stood silent in the summer afternoon, the grey fieldstone foundation grounding it to the earth, the cedar siding smelling of warmth and resin.
 
@@ -3399,6 +3483,8 @@ They locked the door—their door—and walked back to the Inn, leaving the blue
 
 ### Part 5: The Capital Request
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The dining room of the Grey Gull was cozy, lit by candles and the fireplace. The smell of slow-cooked pot roast filled the air. The Fortress sat at a round table, exhausted but satisfied.
 
 They had mapped the house. They had met the Judge. They had survived the Cross Bronx Expressway (vicariously).
@@ -3466,6 +3552,8 @@ Leo sat back, satisfied. He had his house, his train, his drums, and his tank.
 "Deal," Leo typed. *"I WILL ENGINEER THE COFFEE MILK."*
 
 ### Part 6: The Ghost in the Deed
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The pot roast had been perfect. The evening had been a celebration of the future. But as the adrenaline of the day faded, the shadows in the corners of the Carriage House seemed to lengthen.
 
@@ -3569,6 +3657,8 @@ The room went quiet, save for the sound of four people breathing in sync. The gh
 
 ### Part 7: The Twin Frequency
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The panic attack had passed, but the aftershocks were still vibrating in the room. The air felt heavy.
 
 Stella stood by the door. "Okay. Logistics. There's a King bed in here, two twins in the second room, and the pull-out."
@@ -3657,6 +3747,8 @@ They were safe. They were grounded. And tomorrow, the moving truck would arrive.
 
 ### Part 8: The Wall Test
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The moving truck had finally arrived. The crew from **Hercules Van Lines** was hauling boxes into the house.
 
 Inside the living room, the chaos of the move—the banging of dollies, the shouting of movers—had triggered a minor sensory overload for Leo. He wasn't in full meltdown, but he was vibrating.
@@ -3713,6 +3805,8 @@ The wall had passed its first test. It had turned a potential APS investigation 
 
 ### Part 9: The Warning Signs
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The grass was green. The house was finished. The **Holt Sentinel** was parked in the garage next to the new **Titan X-Treme** charging station.
 
 Stella stood at the end of the driveway with a cordless drill.
@@ -3758,6 +3852,8 @@ Leo looked at the layers of defense.
 ## The Ticket Kiosk
 
 ### Part 1: The Ticket Kiosk
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The morning was bright and humid, a typical New England summer day. The Fortress stood before the bank of orange-and-silver **BTA Ticket Vending Machines** in the open-air waiting area.
 
@@ -3833,6 +3929,8 @@ Leo took his card. He looked at the map on the station wall. He traced the orang
 
 ### Part 2: The Commute to Commerce
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 They boarded the train. They tapped their new cards at the platform validator. *BEEP. "Valid."*
 
 They rode the **BiLevel** coach north. Leo watched the scenery change from the trees of Iron Point to the industrial sprawl of the airport, and finally, the skyline of **Braxton City**.
@@ -3854,6 +3952,8 @@ The bus pulled in—a low-floor **Stalwart**. They boarded, tapping their fresh 
 Leo rolled into the securement bay. He looked out the window as the bus navigated the busy city streets. He wasn't just going to a store; he was going to get his legs.
 
 ### Part 3: The Showroom
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The shop was large, smelling of rubber tires and machine oil. The floor was lined with scooters, hospital beds, and manual chairs.
 
@@ -3937,6 +4037,8 @@ Leo looked at her. He looked at the bus stop ahead. He looked at the city.
 They headed for the bus stop, Leo leading the way in his new chariot, leaving the manual chair behind to be delivered by the staff. He didn't need it anymore. He had the power.
 
 ### Part 4: The Blue Planet
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 Leo rolled his new **Titan X-Treme** onto the ramp of the **Route 4** bus. The sensation was completely different from the manual chair. He didn't have to push. He just nudged the joystick, and the heavy machine glided up the incline with a quiet electric hum.
 
@@ -4103,6 +4205,8 @@ Leo watched the boat disappear around the point. He liked that his pass worked o
 
 ### Part 5: The Crossing and the Calm
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The high-speed catamaran backed out of **Aquarium Landing**, its twin diesel engines rumbling deep in the hull.
 
 Leo sat in his **Titan X-Treme** on the open aft deck. The wind was strong, whipping his hair, but the sun was warm. He loved the motion of the boat—the rhythmic rise and fall as it cut through the harbor chop.
@@ -4216,6 +4320,8 @@ Stella walked out of the room, leaving the ghost of Karen Porter packed away in 
 
 ### Part 6: The Shield
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The house was quiet. The afternoon sun filtered through the garden windows, but the living room was dim and cool.
 
 Leo was in a state of profound sensory exhaustion after the Aquarium trip. His nervous system was vibrating, a low-level static that made his skin crawl. He needed heavy input to reset.
@@ -4290,6 +4396,8 @@ Luna loosened her grip. Olivia helped Leo sit up.
 
 ### Part 7: The Supply Run
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The house was hushed, settled into the deep, rhythmic quiet that always followed a period of sensory overload.
 
 In the living room, the scene hadn't changed much since the Census worker’s visit, but the tension had dissipated. The "Twin Frequency" was humming at a steady, low vibration.
@@ -4335,6 +4443,8 @@ Leo didn't open his eyes. He just tapped his fingers against Luna’s side—a s
 For the next hour, the only sounds in the house were the hum of the refrigerator and the soft breathing of the Fortress, holding itself together while the world outside rushed by.
 
 ### Part 8: The Return of the Fleet
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The "Twin Frequency" had done its work. The static in Leo's brain had cleared, replaced by a heavy, comfortable drowsiness.
 
@@ -4439,6 +4549,8 @@ It was their first meal in the Fortress. They weren't visitors anymore. They wer
 
 ### Part 1: The Official Stamp
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The Department of Motor Vehicles in Oakhaven was a low brick building next to the courthouse. It smelled of floor wax and anxiety.
 
 The Fortress took up a row of plastic chairs. They weren't just there for a renewal; they were there for a total identity change.
@@ -4493,6 +4605,8 @@ He tapped his **MagnaByte Scribe**.
 *"SYSTEM UPDATE COMPLETE,"* he typed. *"VIRGINIA UNINSTALLED."*
 
 ### Part 2: The Eastern Townships Connection
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The Department of World Languages occupied the entire second floor of the Humanities Building. It was a maze of flags and maps, buzzing with the sound of a dozen different languages.
 
@@ -4595,6 +4709,8 @@ They walked out of the office, registered for a class Olivia could have taught, 
 "And citizenship," Olivia whispered to him, squeezing his shoulder. "Just in case."
 
 ### Part 3: The Principal Chair
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The walk from the Humanities Building to the Fine Arts Center took ten minutes. They navigated the "Freshman Herd" and took the elevator up to the **4th Floor**.
 
@@ -4704,6 +4820,8 @@ She looked at Leo.
 
 ### Part 4: The Lock Test
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 They found **Room 304** at the end of the Woodwind Corridor.
 
 It looked different from the other practice rooms. The door was a heavy, solid-core studio door with a drop seal at the bottom. Beside it, screwed into the wall, was the brass plaque Stella had commissioned.
@@ -4757,6 +4875,8 @@ Leo looked at the reader. He understood the logic. It wasn't about exclusion; it
 They propped the door open (since the "visitors" couldn't unlock it) and walked into the silent, acoustically perfect room that belonged, legally and digitally, only to the twins.
 
 ### Part 5: The Master Schedule
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 They regrouped at **The Foundry** (the main dining hall in the Union) to compare notes and finalize the rest of the grid.
 
@@ -4836,6 +4956,8 @@ They packed up and headed for the bookstore, a fully integrated academic unit re
 
 ### Part 6: The Bill
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The line for the Bursar's office was long, filled with stressed students negotiating financial aid or setting up payment plans.
 
 Stella walked up to the window, flanked by the Fortress. She didn't look like a student; she looked like a CEO.
@@ -4907,6 +5029,8 @@ She checked her watch.
 Leo grinned. He liked the logic. They paid a fortune for the education, but the ride home—and the name on the ID—was theirs forever.
 
 ### Part 7: The Textbook Run
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The Bursar's office had been quiet, but the Bookstore was a war zone.
 
@@ -5007,6 +5131,8 @@ The train rattled on, carrying the students, the musician, the protector, and th
 
 ### Part 8: The Last Mile Problem
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The **South Shore Line** train hissed to a halt. The doors slid open.
 
 "Okay," Stella said, bracing herself. "Unload."
@@ -5082,6 +5208,8 @@ Leo looked at his chair. It was a great machine, but it was incomplete. Tomorrow
 ## The Ferry and the Fortress
 
 ### Part 1: The Ferry and the Fortress
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The morning was perfect—bright, clear, and smelling of the sea. The Fortress stood on the platform, ready for their first cross-border expedition since moving in.
 
@@ -5233,6 +5361,8 @@ They exited the restroom back into the lobby.
 
 ### Part 2: The Gilded Age Tour
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 They caught the **Route 67** bus right outside the Gateway Center. It was a "trolley-replica" bus—wood benches, brass rails, but crucially, a modern wheelchair lift in the back.
 
 Leo rolled into the securement bay. The bus was filled with tourists holding guidebooks.
@@ -5322,6 +5452,8 @@ He preferred this to the mansion. The mansion was cold stone. This was warm food
 
 ### Part 3: The Express Return
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 Lunch was finished. The Colossal Coolers were drained.
 
 They caught the **OSTA Route 67** bus at the stop across the street. It looped back through the city, dropping them at the **Gateway Center**.
@@ -5401,6 +5533,8 @@ Leo rolled into the cool, quiet hallway of the house. He was ready. He had his c
 
 ### Part 4: The Calm Before the Herd
 
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
+
 The house was quiet. The excitement of the Newport trip had faded into a comfortable, heavy fatigue.
 
 Leo and Luna sat on the deep sectional sofa. They weren't watching TV. They were just holding on.
@@ -5472,6 +5606,8 @@ The Fortress was ready. They had the passes. They had the books. They had the sw
 "We sure are," Stella said, turning off the main light. "Rest up. Tomorrow we go to war with the Freshman Class."
 
 ### Part 5: The Clean Break
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 The schedule for tomorrow was set. The bags were packed. Now, it was time for the final prep.
 
@@ -5583,6 +5719,8 @@ Leo rolled up to her. He smelled the wool and the fire.
 "That's right," Eleanor said. "Clean slate. Now come here and tell me if this sleeve looks long enough for your arm."
 
 ### Part 6: The Night Watch
+
+**Date:** Thu, Dec 18, 2003 at 10:00 AM PST
 
 Eleanor Bennett sat in her armchair by the bay window, looking out at the dark garden. The lights of the **South Shore Line** train flickered through the trees as it headed toward the station—the 9:30 PM Local.
 

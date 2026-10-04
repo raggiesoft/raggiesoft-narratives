@@ -9,6 +9,8 @@ series: "Luna and Leo"
 
 ### Part 1: The 05:30 Alarm
 
+**Date:** Mon, Jan 5, 2004 at 10:00 AM PST
+
 The alarm on Olivia’s phone chirped—a soft, ascending chime designed not to startle.
 
 In the dim light of the bedroom, the pile on the Queen bed shifted.
@@ -82,6 +84,8 @@ They finished their breakfast, grabbed their bags, and walked out the front door
 They headed down the wide, smooth sidewalk of Ocean View Lane, four students (and one grandmother waving from the porch) heading toward the sound of the train whistle.
 
 ### Part 2: The Rainy Day Express
+
+**Date:** Wed, Nov 26, 2003 at 4:00 AM PST
 
 The first Monday of classes brought the first real rain of the semester. A heavy, grey Atlantic drizzle soaked the platform.
 
@@ -187,6 +191,8 @@ Leo sat alone in the hallway for a second. Then he turned his chair. He pushed h
 He rolled into the elevator, descended to the tunnel, and headed for the Engineering building. He was a Bull. And he was ready to work.
 
 ### Part 3: The Split Screen
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The morning sun streamed through the windows of Braxton State University. The Fortress was deployed across the campus, each member engaging their respective targets.
 
@@ -364,6 +370,8 @@ Luna smiled. The rumor was true. The Fortress had arrived.
 
 ### Part 4: The Vetting Process
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 The Fortress had claimed their usual large round table in the center of the dining hall. Stella was reviewing a contract on her laptop. Olivia was unwrapping a sandwich. Luna was reviewing her French vocabulary cards.
 
 Leo rolled up to the table. But he wasn't alone.
@@ -461,6 +469,8 @@ Olivia squeezed his hand, her ring clicking against his. She looked at Sarah and
 The Fortress had expanded. It hadn't let down the drawbridge; it had just issued two new visitor passes.
 
 ### Part 5: The Dialect Shock
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The classroom was full. **FR-Q 101** was a popular elective, mostly because students assumed "French is French."
 
@@ -726,6 +736,8 @@ He tapped his **Quantum Communicator**.
 
 ### Part 6: The Machine Shop
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 Leo rolled into the ground-floor machine shop. It was a cathedral of industry—high ceilings, smell of ozone and cutting fluid, the hum of CNC mills.
 
 Sarah and Amanda were already there, standing by a layout table near the waterjet cutter. They had changed out of their lecture clothes into shop aprons and safety glasses.
@@ -799,6 +811,8 @@ Leo rolled out of the shop. He checked his watch. 03:15 PM. Time to head to the 
 He felt lighter. He hadn't just designed a rack; he had found his cohort. And Olivia would approve.
 
 ### Part 7: The Audition
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The noise in Rehearsal Hall A was deafening. Sixty musicians were warming up simultaneously.
 
@@ -902,6 +916,8 @@ Luna played the A-440. The orchestra tuned to her sound. She hadn't bought the s
 
 ### Part 8: The Library Rendezvous
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 The Music Library was a quiet, wood-paneled sanctuary on the second floor of the Fine Arts Center. While the practice rooms were for noise, this room was for silence. It was filled with students studying scores, writing papers, and hiding from the chaos of the first day.
 
 Stella and Olivia had claimed a large, rectangular table near the window.
@@ -981,6 +997,8 @@ The Fortress was working. It wasn't just a wall anymore; it was a hub.
 Stella went back to her C# code. The family was safe. The semester was launched.
 
 ### Part 9: The Safe Harbor
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The library doors opened. Luna walked in, her Orpheus 680 case over her shoulder, still buzzing from the adrenaline of the Wind Symphony rehearsal.
 
@@ -1099,6 +1117,8 @@ Leo smiled. He parked his chair. He was home.
 
 ### Part 10: The Missing Frequency
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 The door clicked shut, sealing them inside the vault. The double-drywall and Green Glue acoustic treatment worked perfectly. The roar of the hallway—trumpets, scales, laughter—vanished, replaced by a heavy, studio-quality silence.
 
 Leo rolled his Titan X-Treme into the corner. He parked at the small table Stella had placed there for him. He opened his laptop to work on his Physics lab report.
@@ -1184,6 +1204,8 @@ Leo tapped the table. Ping. Ping.
 He could already hear it. The missing frequency was found.
 
 ### Part 11: The Glass Wall
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The house was quiet. The day had been good—classes, a successful M.U.L.E. test, and a dinner of clam cakes.
 
@@ -1354,6 +1376,8 @@ They ate in the quiet kitchen, four people bound by a love that didn't need sex 
 
 ### Part 1: The Green Room
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 The backstage area smelled of rosin, valve oil, and nervous sweat. The Wind Symphony members were in their "Concert Black"—tuxedos for the men, long black gowns or pant suits for the women.
 
 Luna sat in her ergonomic chair (the one she bought) in the warm-up room. She was wearing a simple, elegant black silk blouse and slacks that allowed for deep diaphragmatic breathing.
@@ -1375,6 +1399,8 @@ Jenna patted Luna’s shoulder.
 Luna smiled. She wasn't fighting for the chair anymore. She was the chair.
 
 ### Part 2: The Accessible Box
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The Fortress had secured the best seats in the house. Because the theater was built in 2005, the Accessible Box wasn't a cage in the back; it was a prime viewing suite suspended over the orchestra level, giving a perfect view of the stage.
 
@@ -1407,6 +1433,8 @@ Leo watched the waveform on his laptop (he was recording the audio for analysis)
 "CALIBRATION COMPLETE," he typed.
 
 ### Part 3: The Vivaldi
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 Dr. Sterling lowered her baton. The band fell silent.
 
@@ -1459,6 +1487,8 @@ Jenna leaned over. "Show off."
 "I learned from the best," Luna whispered back.
 
 ### Part 4: The Snow Convoy
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The Fortress took the elevator down to the basement level of the Fine Arts Center. The hallway was crowded with musicians hauling percussion equipment and tubas.
 
@@ -1577,6 +1607,8 @@ The Fortress was full. The snow was falling. And the fire was about to be lit.
 
 ### Part 5: The Sanctuary Protocol
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 The snow was piling up against the triple-paned windows, sealing the house into a white, silent bubble. Inside, the fire was crackling. The Fortress was in "Decompression Mode."
 
 They were gathered on the sectional and the floor, surrounded by empty donut boxes from The Iron Kettle.
@@ -1687,6 +1719,8 @@ Leo rolled his chair closer. He put his hand on Sarah’s knee.
 
 ### Part 6: The Jurisdiction Trap
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 The fire was crackling. Sarah sat on the sofa, flanked by Amanda and Luna. She was trembling, waiting for the inevitable explosion.
 
 It came from Officer Miller’s shoulder radio.
@@ -1780,6 +1814,8 @@ She wasn't a fugitive anymore. She was a Defendant in a court that was already o
 "Let him come," Sarah whispered, wiping her eyes. "I'm not going back."
 
 ### Part 7: The Station Assault
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The morning after the "Sanctuary Protocol" was invoked, the Fortress wasn't hiding. They were fortifying.
 
@@ -2004,6 +2040,8 @@ They walked out of the shop, leaving the cold coffee and the half-eaten donuts b
 
 ### Part 8: The Flight Risk
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 The courtroom was tense.
 
 **Robert Halloway** sat at the defense table in an orange jumpsuit. He whispered urgently to his lawyer.
@@ -2097,6 +2135,8 @@ The doors swung shut. The State Prosecutor looked at his empty table, then at th
 
 ### Part 9: The Identity Crisis
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 ##### December 18, 2006 Iron County Superior Court - Witness Room 10:30 AM
 
 The hearing was over. Viktor Krov was in federal custody.
@@ -2164,6 +2204,8 @@ Then she looked at the Fortress crew. The people who had saved her.
 "Exactly," Stella said. "Let's go home. We have a guest room with your name on it. Whatever name that is."
 
 ### Part 10: The Identity Protocol
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The FBI agents had left with their prisoner. The door was closed.
 
@@ -2264,6 +2306,8 @@ Maya smiled. It was a real smile.
 
 ### Part 11: The Plastic Anchor
 
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
+
 "Transaction?" Brenda asked.
 
 "New License," Stella said. "And a legal name change."
@@ -2336,6 +2380,8 @@ Maya clutched the keys and the license. She had a name. She had a home. And she 
 "Clear," Maya agreed.
 
 ### Part 12: The Ghost Tax
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 The insurance office was wood-paneled and smelled of coffee. **Mr. Russo**, the agent who handled the Porter Home and Auto bundles, sat behind his desk typing.
 
@@ -2453,6 +2499,8 @@ She climbed into the driver's seat. She adjusted the mirror. She saw **Maya Port
 Maya turned the key. The V8 roared to life. She put it in gear and drove the Fortress out of the lot, leaving Sarah Halloway behind in the database of ghosts.
 
 ### Part 13: The Maiden Voyage
+
+**Date:** Wed, Nov 26, 2003 at 10:00 AM PST
 
 Maya sat in the driver’s seat of the **2001 Holt Sentinel**. The steering wheel was huge. The hood stretched out forever. It felt like piloting a boat.
 
