@@ -19,7 +19,7 @@ He was staring blankly at the course syllabus when a shadow fell over his table.
 
 Alex looked up. The woman standing there was older, in her early twenties, with a kind smile. She held a crisp new notebook, looking like a fellow student, but with an air of confidence.
 
-Alex selected a pre-set greeting, his hands feeling clumsy and disconnected. The synthesized voice, clear and polite, responded, "NO. PLEASE. FEEL FREE."
+Alex selected a pre-set greeting, his hands feeling clumsy and disconnected. The synthesized voice, clear and polite, responded, *No. Please. Feel free.*
 
 "Oh, thank you so much," the woman said, settling into the chair beside him. "I'm Vera, by the way. Vera Kowalski." She offered a small, self-deprecating laugh. "First day jitters, can you believe it?"
 
@@ -53,7 +53,7 @@ As Dr. Albright dismissed the class, Vera turned to him with a final, warm smile
 
 He looked at her – her kind eyes, her encouraging smile, her promise to be his "ally." The panic that had been suffocating him all morning finally began to recede, replaced by a fragile, desperate flicker of hope.
 
-"I WOULD LIKE THAT VERY MUCH, VERA," his device voiced. "THE STUDENT UNION AFTER NEXT CLASS SOUNDS GOOD."
+*I would like that very much, Vera,* his device voiced. *The Student Union after next class sounds good.*
 
 "Wonderful!" she beamed. "See you next class, then!"
 
@@ -133,7 +133,7 @@ Later, lying beside Vera in the dim light of the bedroom, Alex felt a blush cree
 
 That thought—*years with Chloé versus two meetings with Vera*—flickered at the edge of his mind, a brief, unsettling whisper. It felt… incredibly fast. Almost too fast. But he quickly, forcefully, pushed the thought aside. Chloé was gone. The crushing loneliness of the past day was a pain he couldn't bear to feel again. Vera was here, she was real, and this thrilling new connection was a potent shield against the emptiness. He focused on that, on the feeling of being wanted.
 
-He carefully reached for his AAC device on the nightstand. "VERA," his device whispered into the quiet room. "THAT WAS… I… I’VE NEVER FELT QUITE LIKE THAT BEFORE."
+He carefully reached for his AAC device on the nightstand. *Vera,* his device whispered into the quiet room. *That was… I… I’ve never felt quite like that before.*
 
 She stirred, pressing a soft, sleepy kiss to his shoulder. "Shhh," she murmured. "It was amazing, wasn't it?"
 
@@ -1569,7 +1569,7 @@ Alex’s head snapped up, a jolt of pure, desperate hope – the first he’d fe
 
 Aunt Carol, passing by the open doorway on her way to the kitchen, overheard Vera’s pronouncement and Alex’s sudden, almost heartbreakingly excited reaction. She paused, unseen for a moment. A flicker of unease, which had been steadily growing since their arrival, intensified within her. Vera’s explanations for Alex’s condition had been inconsistent, her tone with him often sharp and dismissive, and Alex himself seemed to shrink whenever his supposed girlfriend was nearby. She had witnessed Vera's volatility and Alex's obvious distress, planting seeds of doubt about what was truly happening under her roof. Now, this sudden, vague promise of a trip to Lynnwood *today* – when Vera had previously only mentioned Kent as their destination and had seemed entirely unprepared for Alex's extensive needs, including his apparent starvation – struck Carol as another potential falsehood. Alex was clearly unwell, and Vera’s breezy ignorance of how one might actually get from Kent to Lynnwood on short notice, especially with someone in Alex’s condition, felt irresponsible at best. She was starting to realize that her niece was probably lying, not just about the ease of this new proposed jaunt, but likely about much more. Carol knew perfectly well that going from Kent to Lynnwood wasn’t just a quick trip up the street, but it also wasn’t a cross-country jaunt either.
 
-Alex, however, was clinging to Vera’s words, the promise of seeing Chloé a potent balm against his suffering and hunger. "HOW DO WE GET THERE?" he typed, his hope making him momentarily forget his pain. "Oh, we'll figure it out!" Vera said dismissively. "A bus, maybe a taxi… it’s close! The important thing is you’ll see Chloé!” She patted his arm, then flitted out of the room, perhaps calling, "I need the bathroom first, then we can plan our big surprise!"
+Alex, however, was clinging to Vera’s words, the promise of seeing Chloé a potent balm against his suffering and hunger. *How do we get there?* he typed, his hope making him momentarily forget his pain. "Oh, we'll figure it out!" Vera said dismissively. "A bus, maybe a taxi… it’s close! The important thing is you’ll see Chloé!” She patted his arm, then flitted out of the room, perhaps calling, "I need the bathroom first, then we can plan our big surprise!"
 
 His AAC device, his only voice, was treated by Vera as an annoyance more often than not. He missed Chloé, his best friend since they were fourteen, with an ache so profound it felt like a physical wound. If only he could reach her. Lynnwood, where she attended Northwest Pacific University, felt like another world, though Vera had just confirmed it was in the wider Puget Sound region, and Alex remembered seeing a bus for Lynnwood the other night. The seeds of Aunt Carol's suspicion, watered by Vera's careless new promise and Alex's desperate hope, began to properly sprout. This "visit" was feeling less like a romantic getaway for her niece and more like something deeply, unsettlingly wrong. She resolved to keep a closer eye on Vera and, if possible, on Alex.
 
@@ -2027,17 +2027,17 @@ Alex looked down at their joined hands, then up at Chloé's loving face. The new
 
 He brought up his AAC, his fingers moving with a familiar grace. His voice, when it came, was also in clear American English.
 
-"SO. IT'S OFFICIAL THEN," Alex typed. "NO BIOLOGICAL KIDS FOR EITHER OF US. EVER." A beat of silence, then he added, a small, almost wry smile touching his lips, "WE REALLY ARE A MATCHED SET, AREN'T WE, CHLOÉ?"
+*So. It's official then,* Alex typed. *No biological kids for either of us. Ever.* A beat of silence, then he added, a small, almost wry smile touching his lips, *We really are a matched set, aren't we, Chloé?*
 
 Chloé let out a soft, watery chuckle, tears welling in her eyes not from sadness, but from the sheer depth of their intertwined destinies. "Yeah, Alex," she whispered, leaning forward to rest her forehead against his. "I guess we really are. A perfectly matched set."
 
-He reached up, wiping a tear from her cheek with his thumb. "ARE YOU OKAY WITH... WITH THIS? WITH ME?" he typed, the question soft.
+He reached up, wiping a tear from her cheek with his thumb. *Are you okay with... with this? With me?* he typed, the question soft.
 
 Chloé pulled back slightly, her gaze fiercely loving. "Alex Miller," she said, her voice thick with emotion. "Knowing this about you changes absolutely nothing about how much I love you, about how much I need you as my best friend. If anything, it just... it makes us, *us*, even more unique. We were never going to have a conventional life, were we?" She smiled through her tears. "Our family will be the one we choose, the one we build together, in all the ways that matter. This just confirms one path we won't be taking. But all the other paths? They're wide open, and we walk them together."
 
 A profound peace settled over Alex. The weight of that particular unknown was gone. He was infertile. Chloé was infertile. And together, they were whole. Alex started to think about his future.
 
-"I LIKE OUR PATHS, CHLOÉ," he typed, his own eyes shining. "ESPECIALLY THE ONES WITH YOU ON THEM."
+*I like our paths, Chloé,* he typed, his own eyes shining. *Especially the ones with you on them.*
 
 She kissed his forehead. "Me too, Alex. Me too."
 
@@ -2051,7 +2051,7 @@ One evening, with their flight to Norfolk just a few days away, Chloé was confi
 
 "Looks like our Gateway Airlines flight is still on time for Saturday morning," Chloé announced, smiling at him. "Ready to head back to Virginia for the big event, Mr. Miller?"
 
-Alex typed on his Quantum Communicator XT, his synthesized American English voice thoughtful: "YES. AND NO. I AM EXCITED FOR MEGAN'S GRADUATION. IT WILL BE GOOD TO SEE EVERYONE." He paused, the shadow briefly crossing his features. "BUT… VIRGINIA ALSO MEANS… PORTSMOUTH IS CLOSE. VERA."
+Alex typed on his Quantum Communicator XT, his synthesized American English voice thoughtful: *Yes. And no. I am excited for Megan's graduation. It will be good to see everyone.* He paused, the shadow briefly crossing his features. *But… Virginia also means… Portsmouth is close. Vera.*
 
 Chloé’s smile softened with understanding. She closed her laptop and moved to sit beside him, taking his hand. "Hey," she said gently, her voice a reassuring anchor. "You won't have to see Portsmouth at all. I promise. We are flying in for one reason: to watch your favorite cousin walk across that stage and get her diploma, Magna Cum Laude."
 
@@ -2063,7 +2063,7 @@ He squeezed her hand, the tension in his shoulders easing a little. The thought 
 
 A genuine smile spread across Alex's face. The familiarity of Lisa Court, the comfort of their intertwined childhood homes, the presence of all four of their loving parents, and the promise of Megan being there every single day—that part of Virginia, he was very much looking forward to.
 
-"THAT SOUNDS REALLY GOOD, CHLOÉ," he typed, his voice reflecting his relief and anticipation. "REALLY GOOD. I MISS OUR HOUSES. AND MEGAN."
+*That sounds really good, Chloé,* he typed, his voice reflecting his relief and anticipation. *Really good. I miss our houses. And Megan.*
 
 "They all miss you too, more than anything," Chloé said. "It's going to be a good break, Alex. A real celebration. You deserve it."
 

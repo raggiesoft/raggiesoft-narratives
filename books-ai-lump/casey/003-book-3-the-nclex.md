@@ -87,9 +87,9 @@ Before I could even set my coffee cup down, the perimeter collapsed. The twins h
 
 "I survived!" I laughed, completely buried under a mountain of blonde and brunette hair, inhaling the familiar scents of the East Coast pack. The sheer volume of deep-pressure contact instantly reset my baseline. For the first time since Thanksgiving, the phantom ache of geographic separation vanished. The architecture was whole again. 
 
-*"COAST TO COAST,"* David Delaney’s AAC device announced cheerfully as he rolled up to the edge of the pile. 
+*Coast to coast,* David Delaney’s AAC device announced cheerfully as he rolled up to the edge of the pile. 
 
-*"SEATTLE IS WET,"* Kate’s AAC added, looking toward the massive glass windows that displayed the standard Pacific Northwest drizzle. 
+*Seattle is wet,* Kate’s AAC added, looking toward the massive glass windows that displayed the standard Pacific Northwest drizzle. 
 
 "Welcome to Washington," Cassandra smiled, reaching out to grasp Kate's hand. 
 
@@ -231,7 +231,7 @@ She handed over the plastic cards as the girls happily grabbed their luggage and
 
 "Now, the ADA logistics," Cassandra continued, pivoting her manual chair to face Kate and David Delaney. "Standard hotel rooms are a nightmare to navigate when multiple wheelchairs are involved, because the furniture footprint does not account for the turning radius of two power chairs simultaneously."
 
-*"TIGHT SPACES,"* David Delaney agreed through his AAC device, having experienced that exact logistical nightmare on family vacations before. 
+*Tight spaces,* David Delaney agreed through his AAC device, having experienced that exact logistical nightmare on family vacations before. 
 
 "Exactly," Cassandra nodded. "Therefore, you are not sharing. Kate, you have Suite 1224 all to yourself. It is a fully compliant ADA suite with a roll-in shower. David, you have Suite 1225 right next door, also a dedicated ADA suite."
 
