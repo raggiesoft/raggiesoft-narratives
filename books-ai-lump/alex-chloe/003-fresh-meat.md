@@ -533,7 +533,9 @@ The "choice," of course, was no choice at all for Josh. Faced with the prospect 
 
 Morgan McAllister and Ben Carter watched Josh shuffle away, defeated and muttering under his breath about "stupid librarians" and "unfair lunch ladies," likely towards the only place he truly felt he belonged: the vicinity of the dumpsters. They exchanged a look – a mixture of relief, grim satisfaction, and perhaps a shared, unspoken understanding that they were definitely on the right path by distancing themselves from him and focusing on positive actions. Their own quiet efforts at reform had just been indirectly, and very publicly, validated.
 
-### Part 11: Cafeteria Justice, Multilingual Edition **
+### Part 11: Cafeteria Justice, Multilingual Edition
+
+**Date:** 1999-09-21 at 11:30 America/New_York
 
 The Northwood High cafeteria during 5th period lunch was a symphony of controlled chaos. Trays clattered, sneakers squeaked on linoleum, and hundreds of teenage conversations blended into a dull roar that pulsed beneath the flickering fluorescent lights.
 
