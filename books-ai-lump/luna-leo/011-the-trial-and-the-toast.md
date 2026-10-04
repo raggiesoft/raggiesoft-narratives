@@ -1,6 +1,6 @@
 ---
 title: "The Trial and The Toast"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # The Trial and The Toast

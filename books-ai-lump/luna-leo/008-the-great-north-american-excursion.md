@@ -1,6 +1,6 @@
 ---
 title: "The Great North American Excursion"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # The Great North American Excursion

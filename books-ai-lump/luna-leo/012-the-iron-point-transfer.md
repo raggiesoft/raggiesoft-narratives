@@ -1,6 +1,6 @@
 ---
 title: "The Iron Point Transfer"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # The Iron Point Transfer

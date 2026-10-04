@@ -1,6 +1,6 @@
 ---
 title: "Safe Harbor, Stark Reality"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # Safe Harbor, Stark Reality

@@ -1,6 +1,6 @@
 ---
 title: "Finding a New House"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # Finding a New House

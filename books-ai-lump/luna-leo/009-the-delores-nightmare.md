@@ -1,6 +1,6 @@
 ---
 title: "The Delores Nightmare"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # The Delores Nightmare

@@ -1,6 +1,6 @@
 ---
 title: "Elementary and Middle School"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # Elementary and Middle School

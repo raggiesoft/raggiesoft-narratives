@@ -1,6 +1,6 @@
 ---
 title: "The Equipment Arrivals"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # The Equipment Arrivals

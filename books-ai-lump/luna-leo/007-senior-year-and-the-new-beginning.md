@@ -1,6 +1,6 @@
 ---
 title: "Senior Year and The New Beginning"
-series: "luna-leo"
+series: "Luna and Leo"
 ---
 
 # Senior Year and The New Beginning
