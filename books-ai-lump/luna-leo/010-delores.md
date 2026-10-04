@@ -1807,6 +1807,8 @@ Leo gave a small, resolute nod. They continued this way, with Leo selecting a fr
 
 ### Part 11: Restoring Dignity
 
+**Date:** 2003-11-26 at 09:15 America/Los_Angeles
+
 With the bag of new, warm clothes in hand, Olivia guided Leo to the nearest family restroom. The click of the lock behind them was the sound of another small sanctuary secured.
 
 "Okay," she said softly. "Let's get you out of these wet things."
