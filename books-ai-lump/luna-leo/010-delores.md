@@ -1783,6 +1783,8 @@ He was inside the fortress now. And he was safe.
 
 ### Part 10: Airside Mission – Clothing
 
+**Date:** 2003-11-26 at 08:50 America/Los_Angeles
+
 Once they were airside, Olivia’s first priority was to get Leo out of his cold, wet clothes. She quickly spotted a large airport gift shop that sold souvenir apparel. She wheeled Leo inside, parked him near a rack of thick sweatshirts, and dialed Stella.
 
 "Stel, it's me," Olivia said the moment the call connected. "We're through security. He's safe." She took a breath, her voice lowering slightly as she looked down at Leo's soaked and disheveled state. "I know we talked about just getting him a sweatshirt, but his clothes are completely soaked through and just filthy. He really needs a full change of everything to get through this trip comfortably. I'm at a shop now, and I think I should get him everything: a t-shirt, the new hooded sweatshirt, sweatpants, a pack of underwear, and some socks. Is that okay?"
