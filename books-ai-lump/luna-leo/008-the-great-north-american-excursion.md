@@ -3582,7 +3582,7 @@ Leo was shaking violently. He couldn't reach his tablet, but his hands managed t
 
 "A car?" Luna asked softly, keeping her weight firmly on his chest. "You were trapped in a car?"
 
-Leo nodded frantically, tears spilling out of the corners of his eyes and soaking into the hotel pillow. He signed again, his movements clumsy from the sheer terror. <sgn>Faceless girl. Pathfinder. Driving across the country. Couldn't escape. Pack was gone.</sgn>
+Leo nodded frantically, tears spilling out of the corners of his eyes and soaking into the hotel pillow. He signed again, his movements clumsy from the sheer terror. <sgn>Faceless girl. Unfamiliar SUV. Driving across the country. Couldn't escape. Pack was gone.</sgn>
 
 "Oh, buddy," Olivia whispered, sitting up and reaching across the bed to gently stroke his hair. "It was just a dream. Nobody is taking you anywhere. We're right here."
 
@@ -3612,9 +3612,11 @@ Leo let out a long, shuddering breath, the immense weight of his sister pressing
 
 ### Part 1: The Lingering Shadows
 
+**Date:** 2003-07-04 at 08:00 America/Los_Angeles
+
 The morning sun filtered through the sheer curtains of the hotel room, but the warmth of the Fourth of July did absolutely nothing to chase away the deep, biting chill that had settled into Leo’s bones. 
 
-He woke up with a sharp gasp, his body instinctively seizing as if bracing for an impact. The horrific images of the Nissan Pathfinder were still burned into the back of his eyelids. The claustrophobia. The terrifying realization that he was completely isolated from his pack. The sheer, overwhelming helplessness of being physically unable to fight back or even call for help.
+He woke up with a sharp gasp, his body instinctively seizing as if bracing for an impact. The horrific images of being trapped in an unfamiliar SUV were still burned into the back of his eyelids. The claustrophobia. The terrifying realization that he was completely isolated from his pack. The sheer, overwhelming helplessness of being physically unable to fight back or even call for help.
 
 He was shaking. A violent, full-body tremor that rattled his chest.
 
