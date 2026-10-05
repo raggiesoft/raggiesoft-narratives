@@ -62,26 +62,22 @@ $masterCatalog = [];
 
 foreach ($narrativeDirs as $narrativeDir) {
     $narrativeName = basename($narrativeDir);
-    $manifestFile = $narrativeDir . '/katie.json';
+    $legacyManifest = $narrativeDir . '/katie.json';
+    $metaManifest = $narrativeDir . '/meta.json';
     
     echo "\n========================================================\n";
     echo "Publishing Series: {$narrativeName}\n";
     echo "========================================================\n";
 
-    $katie = [];
-    if (file_exists($manifestFile)) {
-        $katie = json_decode(file_get_contents($manifestFile), true);
-        if (json_last_error() !== JSON_ERROR_NONE) {
-            echo "  [Error] Invalid JSON syntax in katie.json. Skipping route generation.\n";
-            continue;
-        }
-    } else {
-        echo "[Skipping] No katie.json found in /books/{$narrativeName}/\n";
-        continue;
+    $seriesMeta = [];
+    if (file_exists($legacyManifest)) {
+        $seriesMeta = json_decode(file_get_contents($legacyManifest), true) ?: [];
+    } elseif (file_exists($metaManifest)) {
+        $seriesMeta = json_decode(file_get_contents($metaManifest), true) ?: [];
     }
 
-    $seriesTitle = !empty($katie['series_title']) ? $katie['series_title'] : $narrativeName;
-    $seriesSlug = !empty($katie['series_slug']) ? $katie['series_slug'] : $narrativeName;
+    $seriesTitle = !empty($seriesMeta['series_title']) ? $seriesMeta['series_title'] : (isset($seriesMeta['title']) ? $seriesMeta['title'] : ucwords(str_replace('-', ' ', $narrativeName)));
+    $seriesSlug = !empty($seriesMeta['series_slug']) ? $seriesMeta['series_slug'] : $narrativeName;
 
     // --- STEP A: DESTRUCTIVE ASSET SYNC ---
     $targetAssetDir = $assetDestDir . '/' . $seriesSlug;
@@ -89,7 +85,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         echo "  [Assets] Wiping existing CDN directory: {$targetAssetDir}\n";
         rrmdir($targetAssetDir);
     }
-    echo "  [Assets] Copying Markdown, cover art, and katie.json to CDN...\n";
+    echo "  [Assets] Copying Markdown and assets to CDN...\n";
     rcopy($narrativeDir, $targetAssetDir);
     echo "  [Assets] Sync complete.\n";
 
@@ -120,7 +116,8 @@ foreach ($narrativeDirs as $narrativeDir) {
         "theme" => "raggiesoft-books"
     ];
 
-    $legacyBooks = isset($katie['books']) ? $katie['books'] : (isset($katie[0]) ? $katie : []);
+    $legacyBooks = isset($seriesMeta['books']) ? $seriesMeta['books'] : (isset($seriesMeta[0]) ? $seriesMeta : []);
+    $tocBooks = [];
     
     // Auto-discover books
     $bDirs = glob($narrativeDir . '/b*', GLOB_ONLYDIR);
@@ -143,6 +140,12 @@ foreach ($narrativeDirs as $narrativeDir) {
         }
         $bookSlug = slugify(strip_tags($bookTitle));
 
+        $tocBook = [
+            'book_num' => $bookNum,
+            'book_title' => $bookTitle,
+            'chapters' => []
+        ];
+
         // Auto-discover chapters
         $cDirs = glob($bDir . '/c*', GLOB_ONLYDIR);
         sort($cDirs);
@@ -162,6 +165,12 @@ foreach ($narrativeDirs as $narrativeDir) {
                 }
             }
             $chapSlug = slugify(strip_tags($chapTitle));
+
+            $tocChap = [
+                'chap_num' => $chapNum,
+                'chap_title' => $chapTitle,
+                'parts' => []
+            ];
 
             // Auto-discover parts
             $pFiles = glob($cDir . '/p*.md');
@@ -195,14 +204,22 @@ foreach ($narrativeDirs as $narrativeDir) {
                     "filePath" => $relPath
                 ];
                 $lastRouteUrl = $routeUrl;
+                
+                $tocChap['parts'][] = [
+                    'part_num' => $partNum,
+                    'part_title' => $partTitle,
+                    'file_path' => $relPath
+                ];
             }
+            $tocBook['chapters'][] = $tocChap;
         }
+        $tocBooks[] = $tocBook;
     }
 
-    if (!empty($katie['next_series_url']) && isset($lastRouteUrl)) {
-        $routeData[$lastRouteUrl]['nextUrl'] = $katie['next_series_url'];
-        if (!empty($katie['next_series_text'])) {
-            $routeData[$lastRouteUrl]['nextText'] = $katie['next_series_text'];
+    if (!empty($seriesMeta['next_series_url']) && isset($lastRouteUrl)) {
+        $routeData[$lastRouteUrl]['nextUrl'] = $seriesMeta['next_series_url'];
+        if (!empty($seriesMeta['next_series_text'])) {
+            $routeData[$lastRouteUrl]['nextText'] = $seriesMeta['next_series_text'];
         }
     }
 
@@ -237,11 +254,25 @@ foreach ($narrativeDirs as $narrativeDir) {
     );
     echo "  [Routes] Saved Ocean View route: {$seriesSlug}.json\n";
     
+    // Create the auto-generated TOC for the sidebar (replaces manual katie.json)
+    $generatedToc = [
+        'series_title' => $seriesTitle,
+        'series_slug' => $seriesSlug,
+        'series_description' => $seriesMeta['series_description'] ?? '',
+        'series_image' => $seriesMeta['series_image'] ?? '',
+        'next_series_url' => $seriesMeta['next_series_url'] ?? '',
+        'next_series_text' => $seriesMeta['next_series_text'] ?? '',
+        'books' => $tocBooks
+    ];
+    $tocDestFile = $targetAssetDir . '/toc.json';
+    file_put_contents($tocDestFile, json_encode($generatedToc, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+    echo "  [Assets] Saved auto-discovered TOC to toc.json\n";
+
     $masterCatalog[] = [
         'slug' => $seriesSlug,
         'title' => $seriesTitle,
-        'description' => $katie['series_description'] ?? '',
-        'image' => $katie['series_image'] ?? '',
+        'description' => $seriesMeta['series_description'] ?? '',
+        'image' => $seriesMeta['series_image'] ?? '',
         'first_route' => $firstRouteUrl,
         'folder' => $narrativeName
     ];
