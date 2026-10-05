@@ -15,3 +15,10 @@ The incredibly fragmented real-world transit map of the Bay Area has been stream
 *   **EBT (East Bay Transit):** The unified mega-agency for the entire East Bay. Replaces the fragmented real-world alphabet soup (AC Transit, WestCAT, County Connection, Tri Delta) to provide a single, streamlined bus network across all of Alameda and Contra Costa Counties.
 *   **NBT (North Bay Transit):** The unified mega-agency for the North Bay. Absorbs the roles of Golden Gate Transit (GGT), Marin Transit, and SMART trains into a single entity.
 
+
+### Infrastructure Timeline
+*   **1989:** The Loma Prieta earthquake causes severe damage to the Embarcadero Freeway, leading to its demolition and the revitalization of the SF waterfront.
+*   **2000:** The historic F-Line streetcar (SFMA) extension to Fisherman's Wharf opens. (Note: These vintage PCC and Milan cars require climbing steps and are famously non-accessible for wheelchair users).
+*   **June 2003:** BATS (BART) officially opens its massive extension to San Francisco International Airport (SFO). 
+*   **2007:** SFMA opens the T-Third Street light rail line.
+*   **2017:** NBT (North Bay Transit) launches its new SMART commuter rail line in Marin and Sonoma counties.

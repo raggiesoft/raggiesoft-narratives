@@ -3260,6 +3260,156 @@ Leo's shoulders dropped an inch. He looked up at Olivia, a small, hopeful smile 
 
 <aac>Bunker picnic,</aac> Leo typed, the synthesized voice sounding strangely cheerful in the quiet room. <aac>I like that plan.</aac>
 
+### Part 6: The Bunker Reconnaissance
+
+**Date:** 2003-07-02 at 19:30 America/Los_Angeles
+
+The sub-basement of the Sovereign Regency was an absolute fortress. 
+
+Unlike the sprawling, glass-enclosed atrium upstairs, Conference Room D was a windowless, concrete box buried two stories below sea level. The air down here was thick and heavily air-conditioned, carrying the faint, sterile smell of industrial carpet cleaner. Thick, sound-dampening acoustic panels lined the walls, rendering the room completely dead to outside noise. 
+
+It was, in a word, perfect.
+
+"Come on in," Isabel called out cheerfully, holding the heavy wooden double doors open as Stella, Olivia, and Luna walked into the room, followed closely by Leo in his manual wheelchair. "Welcome to the bunker."
+
+The center of the room was dominated by a massive, polished mahogany boardroom table. It was currently covered in scattered textbooks, mechanical blueprints, and three separate laptops. Eleanor and Sophia were seated on one side, furiously highlighting passages in a thick engineering textbook. Oliver was parked at the head of the table in his motorized wheelchair, his eyes scanning a digital schematic on his MagnaByte screen. 
+
+"Wow," Stella breathed, looking around the cavernous, eerily quiet space. "How on earth did you manage to get a private boardroom on a holiday weekend?"
+
+"We rented it as a study room for our engineering project," Sophia explained, looking up from her textbook and pushing her glasses up the bridge of her nose. "We've had it booked for the last two days, and we have it through the fifth. It's impossible to concentrate upstairs with all the tourists checking in."
+
+<aac>I told you it was completely soundproof,</aac> Oliver's laptop announced in its deep, synthesized voice, cutting through the sterile silence of the room. <aac>My engineering professor actually helped design the foundation of this building. He used specialized seismic dampeners that completely isolate the sub-basement from acoustic vibrations.</aac>
+
+Leo tapped rapidly on his NovaVox tablet, a look of profound awe on his face. <aac>We should live down here.</aac>
+
+Oliver's face broke into a gentle smile, and he nodded in complete agreement. 
+
+"So, here's the gameplan for the Fourth," Isabel said, gesturing to the wide expanse of patterned carpet against the far wall. "The fireworks start at nine, but the crowds are going to be a nightmare by late afternoon. So, we're all going to retreat down here around six o'clock."
+
+"We can dismantle the table," Eleanor added, tapping her highlighter against the mahogany wood. "It's modular. We can unlatch the center leaves and push the two halves against the walls to open up the floor space."
+
+"That way we can all lay out sleeping bags and blankets," Isabel continued, her eyes lighting up with logistical excitement. "We'll bring down a massive haul of room service and snacks so we don't have to surface for rations."
+
+"And I have a portable DVD player and a massive binder of movies," Olivia offered, leaning against the wall with a grin. "We can set it up on the floor. I've got *The Matrix*, *Shrek*, and *Cretaceous Island*."
+
+<aac>Cretaceous Island,</aac> Leo and Oliver's text-to-speech engines announced in absolute, immediate unison. 
+
+The two young men looked at each other, a shared, silent grin passing between them. 
+
+"Dinosaurs it is," Stella laughed, crossing her arms and letting out a long, shuddering breath of profound relief. 
+
+Luna smiled, looking around the room and taking in the scene. It was incredibly rare for her and Leo to be in an environment where they didn't have to apologize for their needs or feel like they were inconveniencing anyone. Being surrounded by other neurodivergent young adults who completely understood the sheer, non-negotiable necessity of a 'bunker picnic' felt profoundly validating.
+
+For the first time since they had boarded the train in Chicago, Luna felt her baseline anxiety truly begin to melt away. They had a plan. They had an impenetrable, soundproof fortress. The Fourth of July was going to be just fine.
+
+### Part 7: The Team Transfer
+
+**Date:** 2003-07-02 at 20:30 America/Los_Angeles
+
+After bidding the cousins goodnight, the pack took the glass elevator back up to their corner suite. The excitement of the sub-basement reconnaissance had finally worn off, leaving behind a heavy wave of exhaustion. 
+
+"Alright, everyone into the bathroom," Stella ordered as the heavy suite door clicked shut behind them. "Wash-up routine. Let's go."
+
+The pack piled into the massive, accessible bathroom. Within minutes, the four of them had completely stripped down, tossing their clothes into a disorganized pile by the sink. There was zero modesty between them; the daily necessity of managing Leo's physical care had completely dissolved any boundaries years ago. 
+
+Olivia stood by Leo's manual wheelchair. She locked the brakes, wrapped her arms securely around his waist, and executed a flawless pivot transfer, lifting his dead weight out of the chair and lowering him gently onto the toilet. 
+
+Leo slumped forward slightly, lacking the core strength to sit upright without support. Olivia stayed right beside him, keeping a firm hand on his shoulder to keep him balanced while she assisted him with his toileting routine. 
+
+Once he was finished, Olivia braced herself again. With another smooth, practiced heave, she lifted Leo off the toilet, pivoted, and lowered him securely onto the wide, teak bench built into the wall of the sprawling roll-in shower. 
+
+"I've got him," Stella said, stepping into the shower enclosure and turning on the warm water. Luna stepped in right behind her, grabbing a bottle of body wash. 
+
+"Good, because I really have to pee," Olivia sighed, immediately taking the spot Leo had just vacated on the toilet. 
+
+The shower routine operated with military efficiency. Stella supported Leo's upper body, keeping his head tilted back under the warm spray, while Luna scrubbed his arms, chest, and legs. The heat of the water worked wonders on Leo's tight, spastic muscles, and he let his head loll against Stella's shoulder with a quiet sigh of relief. 
+
+"Alright, he's clean," Stella announced a few minutes later, turning the water off. 
+
+Olivia stood up and flushed the toilet, grabbing a stack of fluffy white hotel towels. She draped them heavily over the seat and backrest of Leo's manual wheelchair, turning it into a soft, dry landing pad. 
+
+"Okay, Luna, come here," Stella instructed, shaking the water out of her hair. "Olivia did the heavy lifting getting him in. You and I are going to transfer him out."
+
+Luna nodded, stepping out of the shower stall and planting her feet firmly on the tile. Because Luna also had cerebral palsy, her balance was precarious, but she was fully ambulatory and possessed an immense amount of functional strength when she was emotionally regulated. 
+
+Stella wrapped her arms around Leo's torso from behind, gripping him securely under his armpits. Luna stepped in front of him, grabbing him firmly by the waist and bracing his weak legs against her own. 
+
+"On three," Stella said, locking eyes with Luna. "One, two, three."
+
+With a coordinated, simultaneous heave, the two sisters lifted Leo off the wet teak bench. Luna bore the brunt of his lower body weight, leaning backward to counterbalance the lift, while Stella guided his torso. Together, they executed a smooth, perfectly synchronized pivot, safely lowering him onto the towel-draped wheelchair. 
+
+It was a physically demanding maneuver, but they pulled it off flawlessly. As long as Luna was calm and focused, she and Stella were more than capable of managing his transfers without Olivia's help. 
+
+Olivia quickly grabbed another towel, expertly drying Leo's hair and wrapping the thick cotton around his shoulders while Stella and Luna took their respective turns under the warm shower spray. 
+
+Twenty minutes later, the entire pack was thoroughly washed, dried, and dressed in their comfortable, oversized pajamas. 
+
+Luna pushed Leo's chair out of the steamy bathroom and into the cool, quiet bedroom. The corner suite featured two large queen beds, perfectly made and waiting for them. 
+
+Leo tapped the screen of his NovaVox, ignoring the second bed entirely. <aac>One bed,</aac> his device announced. 
+
+Stella paused, looking at the single queen mattress. "Leo, buddy, you know we don't all fit on there. Not comfortably, anyway."
+
+<aac>I liked last night,</aac> Leo typed back stubbornly. He looked up at Stella, his eyes wide and silently pleading. After the emotional rollercoaster of the Ferry Building earlier that morning, the sheer physical grounding of having his entire pack pressed tightly around him felt completely non-negotiable. He wanted the dogpile. 
+
+Luna immediately climbed onto the mattress. 
+
+"It's fine, Stella," Luna smiled, patting the space next to her. "We can make it work. I'll just lie stomach-to-stomach on top of him again. It's good deep-pressure therapy for both of us anyway."
+
+Stella sighed, a warm, affectionate smile breaking across her face. "Alright. One bed it is."
+
+Olivia easily transferred Leo out of his chair and onto the center of the mattress. Stella climbed in on his right, and Olivia climbed in on his left. True to her word, Luna simply flopped down directly on top of Leo, her heavy, warm weight instantly pressing him deep into the mattress. 
+
+Surrounded by the steady breathing of his three favorite people in the world, Leo closed his eyes, perfectly content and profoundly safe.
+
+## Karl The Fog
+
+### Part 1: The Golden Gate
+
+**Date:** 2003-07-03 at 11:00 America/Los_Angeles
+
+The morning of July 3rd began with a thick, heavy marine layer that completely swallowed the city of San Francisco. 
+
+The pack had slept in, thoroughly enjoying the deep, restorative rest of their one-bed dogpile. After a leisurely room-service breakfast, they had packed up for a half-day excursion. Leo wanted to cross the Golden Gate Bridge before they met up with Oliver and the cousins later that afternoon for a trip to the East Bay. 
+
+Getting to the bridge had been relatively easy. An accessible SFMA city bus had dropped them off right at the southern toll plaza. From there, they transferred to a dark green North Bay Transit—or NBT—bus that would take them across the famous suspension bridge and into the coastal town of Sausalito. 
+
+There was only one problem: they couldn't see a thing. 
+
+"I mean, I know we're on a bridge," Olivia said, pressing her face against the cold glass of the NBT bus window. "I can feel the tires hitting the expansion joints. But for all I know, we're driving through a cloud in the middle of nowhere."
+
+Luna leaned forward in her seat, squinting out the window. Olivia was right. Outside the bus, there was nothing but a wall of thick, swirling, pea-soup gray fog. 
+
+"They call him Karl," Stella noted, reading from a glossy San Francisco tourist brochure she had picked up in the hotel lobby. 
+
+Luna blinked, turning away from the window to look at her older sister. "Who's Karl?"
+
+"The fog," Stella said, tapping the brochure. "Apparently, the summer fog in San Francisco is so consistent and aggressive that the locals anthropomorphized it and named it Karl. He completely swallows the bridge during the summer."
+
+Leo sat secured in the wheelchair bay next to Luna, staring blankly into the gray abyss outside the window. He reached down and tapped his NovaVox. 
+
+<aac>Karl is ruining my view,</aac> his tablet announced. 
+
+Luna laughed, reaching out and giving Leo's shoulder a gentle squeeze. "Well, at least we can say we crossed it. We're physically on the bridge right now."
+
+The NBT bus rumbled forward, the heavy diesel engine humming as it cut through the dense marine layer. Every few seconds, the massive, ghostly silhouette of a towering orange suspension cable would materialize out of the fog for a brief, flashing moment before vanishing back into the gray wall. 
+
+By the time the bus rolled off the northern end of the bridge and descended into Sausalito, the fog began to thin out slightly, revealing a charming, cliffside town overlooking the bay. The pack disembarked, spending a quiet two hours walking along the waterfront and eating lunch at a small seafood café. 
+
+"Alright, we need to head back," Stella announced, checking her watch as she paid the check. "We're meeting Isabel and the others at the Embarcadero BATS station at three."
+
+They boarded a southbound NBT bus, securing Leo's wheelchair for the return trip across the bay. 
+
+As the bus climbed back up toward the Golden Gate Bridge, Luna looked out the window hopefully, wondering if the afternoon sun had managed to burn off the marine layer. 
+
+It hadn't. 
+
+If anything, Karl had doubled down. The bus plunged back into the thick, impenetrable gray void. The Golden Gate Bridge remained completely invisible, shrouded in a heavy blanket of wet, swirling fog. 
+
+"Well," Olivia sighed, leaning back in her seat and crossing her arms. "I guess we'll just have to buy a postcard."
+
+Leo tapped his screen. <aac>Stupid Karl.</aac>
+
 ## Chapter 98
 
 ### Part 1: The Shattering
