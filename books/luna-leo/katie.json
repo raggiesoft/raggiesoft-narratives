@@ -1506,6 +1506,18 @@
                             "file_path": "b008/c019/p007.md"
 
                     ]
+                },
+                {
+                    "chap_num": 20,
+                    "chap_title": "The Enchanted Resort",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Orange County Commute",
+                            "file_path": "b008/c020/p001.md"
+                        }
+                    ]
+
 
                     ]
 
