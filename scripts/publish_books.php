@@ -110,10 +110,23 @@ foreach ($narrativeDirs as $narrativeDir) {
     ];
 
     $overviewUrl = "/raggiesoft-books/books/{$seriesSlug}";
-    $routeData[$overviewUrl] = [
+    $overviewRoute = [
         "view" => "pages/raggiesoft-books/books/series",
         "title" => "{$seriesTitle}",
         "theme" => "raggiesoft-books"
+    ];
+    if (file_exists($narrativeDir . '/index.md')) {
+        $overviewRoute["filePath"] = "index.md";
+    }
+    $routeData[$overviewUrl] = $overviewRoute;
+
+    // Dedicated Table of Contents route
+    $tocRouteUrl = "/raggiesoft-books/books/{$seriesSlug}/toc";
+    $routeData[$tocRouteUrl] = [
+        "view" => "pages/raggiesoft-books/books/toc",
+        "title" => "Table of Contents - {$seriesTitle}",
+        "theme" => "raggiesoft-books",
+        "filePath" => "__TOC__"
     ];
 
     $legacyBooks = isset($seriesMeta['books']) ? $seriesMeta['books'] : (isset($seriesMeta[0]) ? $seriesMeta : []);
