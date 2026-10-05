@@ -3858,6 +3858,108 @@ Leo gave a slow, incredibly heavy nod against the pillows, his eyes already drif
 
 "Get some sleep, slumlord," Luna murmured affectionately. "We're going to LA tomorrow."
 
+## The Southbound Platform
+
+### Part 1: The Southbound Platform
+
+**Date:** 2003-07-05 at 08:15 America/Los_Angeles
+
+The air at the Oakland Jack London Square ARTS station was distinctly cooler than the city they had just left behind, carrying the salty, brine-scented breeze off the nearby bay. They could have easily caught an ARTS shuttle to the closer Emeryville station, but Luna and Leo had specifically requested boarding here. They both vividly remembered reading *The Call of the Wild* back in middle school, and the idea of starting the next leg of their journey at a station named after the author had felt oddly fitting.
+
+The transition from the Sovereign Regency hotel in downtown San Francisco to the sprawling, industrial platform across the water had been a flurry of goodbyes and logistical maneuvering. Oliver and his family were heading back to Virginia later that week, which meant the core pack was officially back down to four.
+
+Saying goodbye to Oliver had been surprisingly hard for Leo. The two had bonded intensely over the last few days, finding a rare, unspoken solidarity in their shared experiences with disability and sensory overload. Before they had boarded the ferry, Oliver had bumped his motorized wheelchair against Leo's manual one, a silent, mechanical fist bump, and promised to keep his VDU classes from entirely destroying his soul.
+
+Now, it was just Luna, Leo, Stella, and Olivia standing on the concrete platform, waiting for the massive silver double-decker train that would carry them down the California coast to Los Angeles. 
+
+"Alright," Stella said, looking at the printed itinerary she was clutching in her hand. "The ARTS Coastliner was supposed to arrive at 9:09 AM. But the board says it's delayed until 9:21 AM. They don't call it the Coast Starlate for nothing. Once we board, it's a straight shot all the way down to LA Union Station. No transfers, no getting off the train. Just twelve solid hours of sitting in one place and looking at the ocean."
+
+"Twelve hours," Olivia muttered, rubbing her tired eyes and leaning against a concrete pillar. "My back already hurts just thinking about it."
+
+Leo sat quietly in his manual wheelchair, heavily wrapped in his noise-canceling headphones. He kept his eyes fixed on the seagulls circling above the tracks, trying to ignore the deep, bone-weary exhaustion settling into his muscles. The erratic pops of illegal fireworks had kept him flinching late into the night, and despite the deep pressure therapy from his twin, he was running on fumes. 
+
+Stella walked back over from the ticketing kiosk, holding a stack of heavy paper tickets. "Okay, here's the deal. Once we hit Union Station tonight, we are officially in LATA territory. Los Angeles Transit Authority. Which means we're going to have to be incredibly careful with our transfers."
+
+"It's just trains and buses, right?" Luna asked, leaning against her backpack. "How hard can it be?"
+
+"In LA? It's a nightmare," Stella warned her, handing out the tickets. "LATA runs the subways and the main bus lines, but once you cross into a different neighborhood, you might have to switch to a Pacific Blue Bus, or a Culver Transit bus, or an LA City Circulator. And none of them use the exact same fare system or transfer rules. We have to map out every single transition perfectly, or we're going to get stranded in the valley."
+
+Leo frowned slightly, reaching out to tap on his NovaVox tablet. 
+
+<aac>Can we just live on the train?</aac>
+
+"We'll manage," Olivia promised, resting a reassuring hand on Leo's shoulder. "We've got an entire twelve-hour train ride to study the transit maps and figure it out. One step at a time."
+
+A loud, piercing horn blasted from down the tracks, and the massive silver nose of the ARTS Coastliner locomotive rounded the bend, slowing to a halt alongside the platform.
+
+The journey south was officially beginning.
+
+### Part 2: The Lower Level
+
+**Date:** 2003-07-05 at 09:21 America/Los_Angeles
+
+The interior of the ARTS Coastliner was a welcome relief from the brisk morning air of the Jack London Square platform. 
+
+Because the Coastliner was a massive, double-decker train, the ADA seating was entirely confined to the lower level. This meant they didn't have to navigate any stairs or narrow aisles. A uniformed conductor had deployed a sturdy metal ramp, allowing Leo to roll directly from the concrete platform into the spacious, lower-level cabin.
+
+"This is actually incredible," Stella said, looking around the cabin as she hauled the last of the heavy suitcases into the luggage rack. "We essentially have this entire section to ourselves."
+
+Unlike the cramped, rigid rows of an airplane or a standard commuter bus, the lower level of the Coastliner was designed for accessibility and comfort. Across the aisle, two sets of plush, oversized passenger seats faced each other, separated by a fold-out table. 
+
+Olivia quickly helped Leo transfer from his manual wheelchair into one of the plush window seats, sliding his folded chair into the adjacent luggage space. 
+
+"Window seat," Olivia said, buckling him in. "You get to watch the ocean."
+
+Leo immediately leaned his head against the thick glass, looking out at the sprawling, industrial train yard of Oakland as the massive locomotive began to pull away from the station. The gentle, rhythmic swaying of the train car was instantly soothing. He pulled his NovaVox tablet onto his lap.
+
+<aac>This is much better than the Pathfinder.</aac>
+
+Luna, who was taking the seat across from him, laughed out loud. "I would hope so. The Pathfinder is a torture device on wheels. ARTS is a luxury cruise by comparison."
+
+"Don't get too comfortable," Stella warned, dropping a heavy stack of printed maps and schedules onto the fold-out table. She slid into the seat next to Luna, cracking her knuckles. "We have twelve hours before we hit Union Station, and we need to map our LATA transfers."
+
+Olivia sat down next to Leo, pulling out a set of highlighters. "We have to get from Union Station to our hotel in West Hollywood. That means a LATA Red Line subway to Hollywood/Highland, and then a transfer to a Pacific Blue Bus, or maybe an LA City Circulator."
+
+Luna groaned, dropping her head onto the table. "Can we just sleep for the first three hours? Please? I feel like I'm still vibrating from the fireworks."
+
+"You can sleep," Stella said, uncapping a yellow highlighter and aggressively marking a route on the LATA subway map. "But if you wake up and we're stranded at a bus stop in the San Fernando Valley at midnight, you only have yourself to blame."
+
+Leo smiled, watching the Bay Area landscape begin to blur past the window. The gentle rumble of the train, the soft chatter of his pack mapping out logistics, and the promise of the Pacific Ocean coast approaching... it felt like the first time they could truly breathe since they left Chicago.
+
+### Part 3: The Dining Car
+
+**Date:** 2003-07-05 at 12:30 America/Los_Angeles
+
+A few hours into the journey, the intercom crackled to life, announcing that the Dining Car steward was taking reservations for lunch. A few minutes later, a uniformed attendant descended the stairs to their lower-level sanctuary, clipboard in hand. Stella quickly secured a 12:30 PM slot for the four of them.
+
+When the time came to head upstairs, they fell into a deeply practiced routine. 
+
+"Alright, up you go," Olivia said. 
+
+She stepped in front of Leo, wrapping her strong arms around his torso. With a practiced, fluid motion, she deadlifted him entirely out of his seat. Leo instinctively wrapped his arms around her neck to stabilize his core. Olivia was the only one in the pack with the sheer, raw physical strength to carry him like this, and she did it with a steady confidence that always made him feel completely safe.
+
+With Luna leading the way to clear the path and Stella following closely behind, Olivia carried Leo up the narrow, curving staircase to the upper level of the Superliner car. 
+
+They made their way through the narrow aisles of the upper coach level, the heavy doors between cars hissing open as they transitioned into the Sightseer Lounge. Leo turned his head over Olivia's shoulder, his eyes going wide at the massive, floor-to-ceiling panoramic windows. The California coastline was finally coming into full view, the deep blue expanse of the Pacific Ocean sparkling under the midday sun. 
+
+They passed through the lounge and finally stepped into the Dining Car, where the steward guided them to an empty booth. Olivia carefully lowered Leo onto the booth's bench, sliding in next to him, while Luna and Stella took the opposite side. 
+
+The waiter handed them each a paper menu, and Leo immediately noticed the printed dollar amounts next to the entrees. He frowned, pulling his NovaVox tablet onto the table. 
+
+<aac>Wait. Does this come with our ticket? Like on the Western Pioneer?</aac>
+
+"No, unfortunately not," Stella said, scanning her menu. "On the Western Pioneer, we had sleeper car tickets. For sleeper passengers, the meals are included in the fare. But since we're riding coach today, the dining car is strictly a la carte."
+
+Leo's frown deepened, and he tapped quickly on his screen. 
+
+<aac>Is it expensive? I can just eat the granola bars in my bag.</aac>
+
+"You are absolutely not eating squished granola bars for lunch," Stella said firmly, reaching across the table to tap the edge of his tablet. "I'm paying for lunch today. Consider it a late July Fourth celebration, or an early celebration of us surviving the LA transit system later tonight. Either way, order whatever you want."
+
+"In that case," Olivia said, grinning as she looked up from the menu. "I am absolutely getting the Angus cheeseburger. Carrying you up those stairs requires protein, Leo."
+
+Leo smiled, looking out the large dining car window as the train hugged the edge of a steep cliff overlooking the ocean. The rhythmic clatter of the tracks, the smell of hot food from the galley, and the warmth of his pack surrounding him made the grueling twelve-hour transit time feel remarkably short.
+
 ## Chapter 98
 
 ### Part 1: The Shattering
