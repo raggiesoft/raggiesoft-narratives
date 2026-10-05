@@ -3608,7 +3608,7 @@ Olivia gently lowered him back down against the pillows. Stella climbed back und
 
 Leo let out a long, shuddering breath, the immense weight of his sister pressing him securely into the mattress. Within minutes, grounded by the physical reality of his pack surrounding him, he drifted back into a deep, dreamless sleep.
 
-## Chapter 17
+## The Sub-Basement
 
 ### Part 1: The Lingering Shadows
 
@@ -3668,13 +3668,13 @@ As Stella tipped the attendant and wheeled the cart toward the small dining tabl
 
 Her phone buzzed almost immediately with a reply from Isabel. 
 
-<sms>Oh no! Poor Leo! Tell him we're sending hugs. The conference room is officially ours for the day. We've got our own food down here, so whenever you guys are done with breakfast, come on down to B2. We're building a fort.</sms>
+<sms>Oh no! Poor Leo! Tell him we're sending hugs. The conference room is officially ours for the day. We've got our own food down here, so whenever you guys are done with breakfast, come on down to B2. We're currently suffering through summer semester coursework, but we brought board games!</sms>
 
 Olivia read the text aloud. A tiny, genuine smile finally broke through the lingering anxiety on Leo's face. 
 
-"A fort," Luna said, perking up as she finally rolled off Leo and stretched her back. "Well, we can't let Oliver and the twins build a fort without our structural engineering expertise. That's a collapse waiting to happen."
+"Homework on the Fourth of July?" Luna said, stretching her back. "That is tragic. We need to get down there and rescue them."
 
-"Exactly," Stella agreed, lifting the silver domes off the plates. "Eat up, everyone. We have a bunker to fortify."
+"Exactly," Stella agreed, lifting the silver domes off the plates. "Eat up, everyone. We have a bunker to get to."
 
 They gathered around the small table. After the Mexican food incident the day before, Stella had intentionally ordered a very gentle, simple breakfast for Leo: plain scrambled eggs, a side of toast, and some sliced bananas. Nothing greasy, nothing heavy, just easily digestible fuel.
 
@@ -3686,7 +3686,7 @@ Stella grabbed the room key, and Olivia took her familiar place pushing Leo's wh
 
 "Going down," Luna announced, hitting the call button. "Destination: B2."
 
-### Part 3: The B2 Bunker Fort
+### Part 3: The B2 Bunker
 
 **Date:** 2003-07-04 at 09:45 America/Los_Angeles
 
@@ -3694,53 +3694,39 @@ The elevator doors slid open with a soft chime, revealing the quiet, windowless 
 
 It was exactly what Leo needed. 
 
-Olivia pushed his wheelchair down the short, carpeted hallway until they reached the heavy double doors of Conference Room C. They were propped open with a stack of hotel towels. 
+Olivia pushed his wheelchair down the short, carpeted hallway until they reached the heavy double doors of Conference Room C. They were propped open with a hotel luggage cart. 
 
-Luna peeked her head inside and immediately let out a low whistle of appreciation. 
+Luna peeked her head inside. The massive executive boardroom, normally reserved for corporate retreats and high-stakes presentations, had been thoroughly colonized by four stressed college students. 
 
-"Okay," Luna said, stepping into the room. "I have to admit, you guys do not mess around when it comes to structural engineering."
+Textbooks, highlighters, and crumpled notebook paper were strewn across the polished mahogany table. Oliver's motorized wheelchair was pulled up to the head of the table, his sleek MagnaByte laptop mounted on its swing-arm, displaying what looked like a dense web programming module. 
 
-The standard, boring hotel conference room had been completely transformed. Several heavy mahogany tables had been pushed together into a massive, rectangular core. Surrounding the tables was an elaborate network of high-backed chairs, draped with a seemingly endless supply of hotel bed sheets, blankets, and pillows to form an impressive, sprawling canopy.
+Sophia and Isabel were furiously typing on their own laptops, while Eleanor was aggressively highlighting a massive biology textbook, muttering angrily under her breath.
 
-At the very front of the fort, acting as a high-tech drawbridge, was Oliver.
+"Oh wow," Stella said, stepping into the room. "You guys weren't kidding about the summer coursework."
 
-His motorized wheelchair was parked horizontally across the main entrance tunnel of the blanket fort. The metal swing-arm of his sleek MagnaByte laptop was angled outward, casting the glow of his screen against the dark fabric.
+Oliver looked up from his screen. A massive, gummy smile spread across his face, and he let out a sharp, raspy gasp of genuine relief. He typed quickly on his trackpad.
 
-He saw them enter and a massive, gummy smile spread across his face. He let out a sharp, raspy gasp of excitement, his fingers immediately flying across his trackpad.
+<aac>Save us. VDU online summer semesters are a violation of the Geneva Conventions.</aac>
 
-<aac>Welcome to Fort MagnaByte. Password required for entry.</aac>
+"Virginia Dominion University does not care about federal holidays," Isabel groaned, pushing her laptop away. "But I officially do. I'm done with Microeconomics for today. I surrender."
 
-"Password?" Stella laughed, walking up to his wheelchair. "I didn't know we were dealing with top-level security down here."
+Leo, who had been quiet and withdrawn ever since the nightmare, felt a sudden, profound sense of safety wash over him. The terrifying isolation of the nightmare dissolved, replaced by the mundane, familiar warmth of a study group complaining about homework. 
 
-Eleanor's head suddenly popped out from a gap in the blankets near the back of the tables. Her fiery red hair was a static-electricity mess. "Strictly enforced!" she called out, grinning. "No password, no entry. We have to protect the perimeter from fireworks and bad vibes."
+He lifted a trembling hand, catching Oliver's eye, and clumsily signed. 
 
-Isabel emerged from another section, holding a roll of duct tape. "If you don't know it, you can bribe the gatekeeper."
+<sgn>B-A-D C-L-A-S-S</sgn>
 
-Leo, who had been quiet and withdrawn ever since the nightmare, felt a sudden, profound sense of safety wash over him. Looking at the ridiculous blanket fort, and Oliver dutifully guarding the entrance like a knight, the terrifying memory of the unfamiliar SUV finally lost its grip. 
+<aac>The absolute worst,</aac> Oliver agreed, his synthetic voice echoing playfully in the acoustic-dampened room. <aac>Are you doing okay, Leo? Isabel said you had a rough night.</aac>
 
-He lifted a trembling hand, his fingers spelling out a clumsy but deliberate word for Oliver.
-
-<sgn>B-U-N-K-E-R</sgn>
-
-Oliver's eyes widened behind his thick glasses. He typed furiously, the computerized voice echoing warmly in the enclosed room. 
-
-<aac>Password accepted. Lowering the drawbridge.</aac>
-
-With a soft hum of its electric motors, Oliver expertly backed his heavy wheelchair up just enough to widen the gap between the tables, creating a perfect, accessible pathway for Olivia to push Leo through.
-
-"Come on in," Sophia said, crawling out from the center of the fort to help guide them. "We saved the spot with the most pillows for you guys."
+Leo hesitated, then gave a slow, deliberate nod. Being down here, entirely cut off from the chaotic city, surrounded by his pack and his new friend, his pulse was finally starting to settle.
 
 ### Part 4: Real Estate Barons
 
 **Date:** 2003-07-04 at 10:00 America/Los_Angeles
 
-The interior of the blanket fort was surprisingly spacious, illuminated by the glow of three different laptops and a battery-operated camping lantern Isabel had apparently swiped from their hotel room's emergency kit. 
+With the oppressive weight of summer coursework officially abandoned, Eleanor reached under the mahogany table and produced a massive, colorful cardboard box. 
 
-"This is amazing," Stella said, ducking her head to avoid a low-hanging bedsheet as she settled onto a pile of hotel pillows next to Olivia. 
-
-"We had to get creative," Sophia explained, adjusting her glasses. "Our parents are upstairs dealing with some mind-numbingly boring extended family phone calls, so they rented this room for us so we wouldn't destroy the hotel suite. Little did they know, we decided to destroy the conference room instead."
-
-"Speaking of which..." Eleanor reached under a pillow and produced a massive, colorful cardboard box. "We bought this yesterday at that toy store near Union Square. Who is ready for a ruthless, friendship-ending game of *Real Estate Baron*?"
+"We bought this yesterday at that toy store near Union Square," she announced, placing it in the center of the table. "Who is ready for a ruthless, friendship-ending game of *Real Estate Baron*?"
 
 Luna groaned, immediately burying her face in her hands. "No. Absolutely not. The last time we played that, Leo deliberately bought up all the cheap, terrible properties on the board and slowly bled us to death with five-dollar rent charges. It took four hours."
 
@@ -3748,45 +3734,21 @@ Leo's chest hitched with a raspy, silent laugh.
 
 <aac>It is called a valid economic strategy.</aac>
 
-"It's called being an evil slumlord!" Luna countered, grabbing a pillow and playfully tossing it at him. 
+"It's called being an evil slumlord!" Luna countered, grabbing a dry-erase marker from the whiteboard tray and playfully tossing it at him. 
 
-They were just starting to unbox the game board, divvying up the colorful paper money and the little metal tokens, when a sharp, authoritative knock echoed from the heavy conference room doors outside the fort.
+"Well, he's going to have some competition today," Isabel said, cracking her knuckles. "I'm a ruthless negotiator. I will trade you two railroads for a get-out-of-jail card and a half-eaten granola bar."
 
-Everyone froze. 
+They cleared the textbooks and laptops to the edges of the massive table, creating a wide, open space in the center. Olivia locked the brakes on Leo's wheelchair and pulled up a plush conference chair right next to him so she could help him manage his paper money and metal tokens. Oliver navigated his chair to the adjacent corner, using a specialized acrylic tray to hold his cash, while Sophia acted as the banker.
 
-"Hello?" a muffled, highly professional voice called out. "Hotel management. We were informed there was some... unconventional use of the B2 facilities?"
+As they began divvying up the colorful paper money, the sheer normalcy of the moment settled over the room. 
 
-Eleanor's eyes went wide. She looked at Stella in sheer panic. "Hide the evidence!"
+There were no hotel managers knocking on the door. No stressed-out parents checking in on them. They were just seven young adults in their early twenties, hiding from the world in a windowless sub-basement on a federal holiday, preparing to bankrupt each other with plastic hotels.
 
-"It's a giant blanket fort made of conference tables," Isabel hissed back. "We can't exactly stuff it under a rug!"
+Leo looked around the table. He watched Oliver meticulously arranging his property cards on his tray. He watched Eleanor arguing with Stella over who got to be the silver racecar token. 
 
-Stella sighed, standing up and brushing off her jeans. "I'll handle this."
+For the first time since he had woken up terrified from his nightmare, his hands stopped shaking completely. 
 
-She ducked out of the blanket canopy and walked over to the main doors. A sharply dressed man in a tailored hotel uniform was standing there, holding a clipboard and looking absolutely bewildered at the sheer scale of the engineering marvel taking up his executive conference room.
-
-"Good morning," Stella said smoothly, flashing her most charming, disarming smile. "Can I help you?"
-
-"Uh, yes, Ms..." He glanced at his clipboard. "We had a report from housekeeping that the tables in Conference Room C were being... misused."
-
-"Misused?" Stella feigned innocence, gesturing broadly to the masterpiece behind her. "Sir, you are looking at a highly specialized, architecturally sound sensory-deprivation environment. My brother and his friend have significant physical disabilities, and the noise from the Fourth of July fireworks tonight is going to be incredibly distressing for them. We rented this room specifically to construct a safe, enclosed, acoustic-dampening structure for their well-being."
-
-The manager blinked, completely taken aback by the sheer confidence and clinical vocabulary of her explanation. He looked at the fort, then back at Stella. "A... sensory deprivation structure?"
-
-"Exactly," Stella nodded gravely. "We even brought our own *Real Estate Baron* board to keep their minds occupied. It's a very delicate psychological process."
-
-The manager hesitated, clearly torn between corporate policy and the absolute terror of committing an ADA violation against two disabled teenagers on a federal holiday. He looked at his clipboard one more time, then clicked his pen.
-
-"I see," he said, clearing his throat and trying to regain his professional composure. "Well, please ensure that... the acoustic structure... is fully dismantled by tomorrow morning. And if you require extra pillows for... structural integrity... please let the front desk know."
-
-"You have our thanks," Stella said, maintaining her deadpan professionalism until he turned around and walked back down the hallway. 
-
-The moment the door swung shut, the entire fort erupted into muffled, chaotic laughter.
-
-Oliver was laughing so hard he was gasping, his hands flying across his trackpad to trigger a string of synthetic laughter from his speakers, while Leo clutched his stomach, his shoulders shaking with silent hysterics. 
-
-"Stella," Olivia gasped, wiping a tear from her eye. "You are an absolute menace."
-
-"I am a fiercely protective older sister who wants to play a board game," Stella corrected, crawling back into the fort and taking her spot on the pillows. "Now, hand me the dice. I'm buying the Boardwalk."
+"Alright," Stella declared, finally securing the racecar token. "I'm buying the Boardwalk. Hand me the dice."
 
 ## Chapter 98
 
