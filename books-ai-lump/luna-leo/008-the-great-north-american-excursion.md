@@ -3756,7 +3756,7 @@ For the first time since he had woken up terrified from his nightmare, his hands
 
 By 7:30 PM, the brutal cutthroat capitalism of *Real Estate Baron* had finally concluded. Isabel had somehow managed to bankrupt both her sister and Stella through a series of complex trades, while Leo and Oliver had formed a quiet, mutually beneficial alliance that allowed them to survive the bloodbath. 
 
-As the evening approached, the reality of the holiday began to set in. The booming sounds of the earliest fireworks were starting to echo across the city above, but down in the windowless, acoustic-paneled sub-basement, it was wonderfully silent. 
+As the evening approached, the reality of the holiday began to set in. Up on the surface, the city was undoubtedly descending into chaotic, crowded celebrations, but down in the windowless, acoustic-paneled sub-basement, it was wonderfully silent. 
 
 "Alright, the time has come," Isabel announced, sweeping the plastic hotels back into their cardboard box. "We need to clear the floor space. Eleanor, help me unlatch the center leaves."
 
@@ -3779,6 +3779,44 @@ For the first time since they had boarded the train in Chicago, Luna felt her ba
 Oliver parked his wheelchair at the edge of the blanket pile, adjusting his glasses as the DVD player spun up, casting a soft blue light across the room. Leo sat in his manual chair next to him, his shoulders completely relaxed. 
 
 They had a plan. They had an impenetrable, soundproof fortress. The Fourth of July was going to be just fine.
+
+### Part 6: Distant Thunder
+
+**Date:** 2003-07-04 at 21:30 America/Los_Angeles
+
+By 9:30 PM, they were deep into the second act of *Cretaceous Island*. 
+
+The sub-basement conference room was pitch black, illuminated only by the glow of the portable DVD player screen and the occasional flicker of Oliver's motorized wheelchair battery indicator. Everyone was sprawled out across the carpet on an assortment of pillows, quietly passing around a massive bowl of popcorn Isabel had managed to procure from the hotel kitchens.
+
+Right as the iconic T-Rex paddock scene was beginning on the small screen, a strange sensation rolled through the room.
+
+It wasn't a sound, exactly. The acoustic dampening in the B2 walls was incredibly effective. Instead, it was a physical sensation—a very low, very faint rhythmic thudding that traveled through the massive concrete foundation of the hotel and vibrated ever so slightly up through the carpet. 
+
+*Thud. Thud.* 
+
+Luna sat up slightly, looking toward the ceiling. 
+
+"The grand finale," Stella whispered quietly from her spot next to Olivia. "The fireworks show over the bay just started."
+
+Up on the surface, hundreds of thousands of people were likely packed onto the Piers, craning their necks to watch the sky explode in deafening, chaotic bursts of color and concussive sound. 
+
+But down here, two stories below ground, it just felt like the distant, muffled heartbeat of the city. It was entirely stripped of its sensory violence.
+
+Luna looked over at Leo. He was sitting securely in his manual wheelchair, leaning slightly against Oliver's motorized rig. He was eating a handful of popcorn, completely unbothered by the faint vibrations in the floor. 
+
+He didn't flinch. He didn't cover his ears. He wasn't shaking. 
+
+Oliver typed something on his trackpad, and a moment later, a whispered, synthetic voice came through his speakers, specifically set to the lowest possible volume setting so it wouldn't disrupt the movie. 
+
+<aac>The seismic isolation in this building is remarkable.</aac>
+
+Leo grinned in the dark, tapping a response on his NovaVox tablet. It chirped back just as quietly.
+
+<aac>I think it's the T-Rex footsteps.</aac>
+
+Oliver let out a soft, raspy gasp of a laugh, his shoulders shaking in the glow of the DVD player. 
+
+Luna laid back down on her pillows, a profound sense of gratitude washing over her. She watched the glowing screen, completely at peace, as the distant thunder rolled harmlessly above them.
 
 ## Chapter 98
 
