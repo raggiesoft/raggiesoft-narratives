@@ -1459,6 +1459,18 @@
                             "part_title": "Part 6: The Voyage Inn",
                             "file_path": "b008/c018/p006.md"
 
+                },
+                {
+                    "chap_num": 19,
+                    "chap_title": "Global Studios",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Global City",
+                            "file_path": "b008/c019/p001.md"
+                        }
+                    ]
+
                     ]
 
                 },
