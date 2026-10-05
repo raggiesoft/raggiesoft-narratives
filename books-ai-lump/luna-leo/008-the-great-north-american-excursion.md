@@ -3260,48 +3260,6 @@ Leo's shoulders dropped an inch. He looked up at Olivia, a small, hopeful smile 
 
 <aac>Bunker picnic,</aac> Leo typed, the synthesized voice sounding strangely cheerful in the quiet room. <aac>I like that plan.</aac>
 
-### Part 6: The Bunker Reconnaissance
-
-**Date:** 2003-07-02 at 19:30 America/Los_Angeles
-
-The sub-basement of the Sovereign Regency was an absolute fortress. 
-
-Unlike the sprawling, glass-enclosed atrium upstairs, Conference Room D was a windowless, concrete box buried two stories below sea level. The air down here was thick and heavily air-conditioned, carrying the faint, sterile smell of industrial carpet cleaner. Thick, sound-dampening acoustic panels lined the walls, rendering the room completely dead to outside noise. 
-
-It was, in a word, perfect.
-
-"Come on in," Isabel called out cheerfully, holding the heavy wooden double doors open as Stella, Olivia, and Luna walked into the room, followed closely by Leo in his manual wheelchair. "Welcome to the bunker."
-
-The center of the room was dominated by a massive, polished mahogany boardroom table. It was currently covered in scattered textbooks, mechanical blueprints, and three separate laptops. Eleanor and Sophia were seated on one side, furiously highlighting passages in a thick engineering textbook. Oliver was parked at the head of the table in his motorized wheelchair, his eyes scanning a digital schematic on his MagnaByte screen. 
-
-"Wow," Stella breathed, looking around the cavernous, eerily quiet space. "How on earth did you manage to get a private boardroom on a holiday weekend?"
-
-"We rented it as a study room for our engineering project," Sophia explained, looking up from her textbook and pushing her glasses up the bridge of her nose. "We've had it booked for the last two days, and we have it through the fifth. It's impossible to concentrate upstairs with all the tourists checking in."
-
-<aac>I told you it was completely soundproof,</aac> Oliver's laptop announced in its deep, synthesized voice, cutting through the sterile silence of the room. <aac>My engineering professor actually helped design the foundation of this building. He used specialized seismic dampeners that completely isolate the sub-basement from acoustic vibrations.</aac>
-
-Leo tapped rapidly on his NovaVox tablet, a look of profound awe on his face. <aac>We should live down here.</aac>
-
-Oliver's face broke into a gentle smile, and he nodded in complete agreement. 
-
-"So, here's the gameplan for the Fourth," Isabel said, gesturing to the wide expanse of patterned carpet against the far wall. "The fireworks start at nine, but the crowds are going to be a nightmare by late afternoon. So, we're all going to retreat down here around six o'clock."
-
-"We can dismantle the table," Eleanor added, tapping her highlighter against the mahogany wood. "It's modular. We can unlatch the center leaves and push the two halves against the walls to open up the floor space."
-
-"That way we can all lay out sleeping bags and blankets," Isabel continued, her eyes lighting up with logistical excitement. "We'll bring down a massive haul of room service and snacks so we don't have to surface for rations."
-
-"And I have a portable DVD player and a massive binder of movies," Olivia offered, leaning against the wall with a grin. "We can set it up on the floor. I've got *The Matrix*, *Shrek*, and *Cretaceous Island*."
-
-<aac>Cretaceous Island,</aac> Leo and Oliver's text-to-speech engines announced in absolute, immediate unison. 
-
-The two young men looked at each other, a shared, silent grin passing between them. 
-
-"Dinosaurs it is," Stella laughed, crossing her arms and letting out a long, shuddering breath of profound relief. 
-
-Luna smiled, looking around the room and taking in the scene. It was incredibly rare for her and Leo to be in an environment where they didn't have to apologize for their needs or feel like they were inconveniencing anyone. Being surrounded by other neurodivergent young adults who completely understood the sheer, non-negotiable necessity of a 'bunker picnic' felt profoundly validating.
-
-For the first time since they had boarded the train in Chicago, Luna felt her baseline anxiety truly begin to melt away. They had a plan. They had an impenetrable, soundproof fortress. The Fourth of July was going to be just fine.
-
 ### Part 7: The Team Transfer
 
 **Date:** 2003-07-02 at 20:30 America/Los_Angeles
@@ -3649,6 +3607,48 @@ Leo nodded again. He was completely drained.
 Olivia gently lowered him back down against the pillows. Stella climbed back under the covers on his left side. Luna didn't hesitate. She crawled right back into the center of the bed and lowered her body onto his, settling stomach-to-stomach on top of him. She rested her chin on his shoulder and draped her arms heavily over his sides. 
 
 Leo let out a long, shuddering breath, the immense weight of his sister pressing him securely into the mattress. Within minutes, grounded by the physical reality of his pack surrounding him, he drifted back into a deep, dreamless sleep.
+
+## Chapter 17
+
+### Part 1: The Lingering Shadows
+
+The morning sun filtered through the sheer curtains of the hotel room, but the warmth of the Fourth of July did absolutely nothing to chase away the deep, biting chill that had settled into Leo’s bones. 
+
+He woke up with a sharp gasp, his body instinctively seizing as if bracing for an impact. The horrific images of the Nissan Pathfinder were still burned into the back of his eyelids. The claustrophobia. The terrifying realization that he was completely isolated from his pack. The sheer, overwhelming helplessness of being physically unable to fight back or even call for help.
+
+He was shaking. A violent, full-body tremor that rattled his chest.
+
+Luna was still lying stomach-to-stomach on top of him, exactly where she had been since pulling him out of the nightmare hours ago. She felt the sudden spike in his heart rate beneath her and immediately lifted her head, her brown eyes locking onto his tear-filled ones.
+
+"Hey," Luna whispered softly, bringing a hand up to stroke his messy hair. "Hey. It's okay. You're here. We're in San Francisco. You're safe."
+
+But Leo was crying, silent tears spilling down his cheeks and soaking into the pillow. He couldn't shake the visceral reality of the premonition. He weakly lifted a hand, his fingers trembling so badly he could barely form the shapes in the dim morning light.
+
+<sgn>Still trapped. Couldn't move.</sgn>
+
+Olivia, who hadn't left his side for a single second since the nightmare began, immediately sat up on the other side of the bed. She leaned over, pressing a firm, grounding kiss to his temple. "Nobody is trapping you anywhere, buddy," she said, her voice fierce and protective. "We are right here. I'm right here. Luna's right here. Stella's right here."
+
+Stella stirred on his other side, sitting up and rubbing the sleep from her eyes. When she saw Leo's tear-streaked face and the violent shaking of his shoulders, she immediately went into protective-sister mode. 
+
+<sgn>Faceless girl,</sgn> Leo signed again, his hands clumsy and frantic. <sgn>She took me. Trapped in the car. No pack. No tablet. She thought... she thought a bath was a gift.</sgn>
+
+Stella's heart broke at the sheer terror in his signs. The nightmare wasn't just about monsters; it was a horrifying distortion of his vulnerability. For someone with his physical limitations, being stripped of his communication tablet and his trusted pack wasn't just scary—it was a literal death sentence of isolation.
+
+"Oh, Leo," Stella whispered, leaning in to wrap her arms around his shaking shoulders, trapping Luna in the middle of a tight, crushing hug. "That's terrifying. But it was just a bad dream. A really, really bad dream."
+
+<sgn>Felt real. Too real.</sgn>
+
+"I know it did," Luna murmured, resting her chin gently on his chest so she could look him in the eyes. "But look around. You're in a giant, comfy hotel bed. You're pinned under your incredibly annoying twin sister. And you've got Olivia and Stella flanking you like the Secret Service. Nobody is getting past us. Nobody."
+
+Leo took a shuddering breath, the violent tremors slowly beginning to subside under the heavy, grounding weight of his pack. He closed his eyes, leaning into the warmth of Stella's embrace and the steady rhythm of Luna's heartbeat against his chest.
+
+"We don't have to go anywhere today," Olivia said softly, brushing the tears from his cheeks with her thumb. "Everything's closed anyway for the Fourth. Oliver's family has that conference room down in the B2 sub-basement locked down all day. We can just head down there, close the doors, and completely shut out the world. How does that sound?"
+
+Leo opened his eyes, the lingering terror in his chest finally beginning to loosen its grip. A secure, windowless bunker deep underground, surrounded by his fiercely protective family and his new friend. It sounded perfect.
+
+He managed a weak, exhausted nod.
+
+"Okay," Stella said, kissing his forehead. "Bunker day it is."
 
 ## Chapter 98
 
