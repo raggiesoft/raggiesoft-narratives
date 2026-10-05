@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/luna-leo/index.md",
+                "file": "books/luna-leo/b004/c013/p001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "p001"
             }
           },
           {
@@ -272,6 +272,7 @@
   },
   "active": "93b7c306d8a7009a",
   "lastOpenFiles": [
+    "books/luna-leo/index.md",
     "books/stardust-engine/meta.json",
     "books/samantha/meta.json",
     "books/ruby-mountain/meta.json",
@@ -282,9 +283,7 @@
     "books/nate/meta.json",
     "books/meredith/meta.json",
     "books/mary-childhood/meta.json",
-    "books/kelly/meta.json",
     "books/luna-leo/b004/c013/p001.md",
-    "books/luna-leo/index.md",
     "books/luna-leo/b011/c099/p015.md",
     "books/luna-leo/b011/c099/p014.md",
     "books/luna-leo/b011/c099/p012.md",
