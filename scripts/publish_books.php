@@ -2,41 +2,33 @@
 echo "Starting Stardust Engine Book Publisher...\n";
 echo "Resolving server paths...\n";
 
-// 1. Resolve Dynamic Paths (Assuming script is in /raggiesoft-servers/raggiesoft-narratives/scripts)
-$serverRoot = dirname(__DIR__, 2); // Moves up twice to reach /raggiesoft-servers
-
+$serverRoot = dirname(__DIR__, 2);
 $sourceBooksDir = $serverRoot . '/raggiesoft-narratives/books';
 $assetDestDir   = $serverRoot . '/raggiesoft-assets/raggiesoft-books/books';
 $routesDestDir  = $serverRoot . '/raggiesoft-hub/data/routes/raggiesoft-books/books';
 
-// Validate source
 if (!is_dir($sourceBooksDir)) {
     die("Error: Source directory not found at {$sourceBooksDir}\n");
 }
-
-// Ensure destination directories exist
 if (!is_dir($assetDestDir)) mkdir($assetDestDir, 0755, true);
 if (!is_dir($routesDestDir)) mkdir($routesDestDir, 0755, true);
 
-// Helper function: Bulletproof Recursive Directory Wipe
 function rrmdir($dir) {
     if (is_dir($dir)) {
-        $files = array_diff(scandir($dir), ['.', '..']);
-        foreach ($files as $file) {
-            $path = "$dir/$file";
-            if (is_dir($path)) {
-                rrmdir($path);
-            } else {
-                // Force file to be writable before deleting (fixes read-only errors)
-                @chmod($path, 0777); 
-                @unlink($path);
+        $scanned = @scandir($dir);
+        if ($scanned !== false) {
+            $files = array_diff($scanned, ['.', '..']);
+            foreach ($files as $file) {
+                $path = "$dir/$file";
+                if (is_dir($path)) {
+                    rrmdir($path);
+                } else {
+                    @chmod($path, 0777); 
+                    @unlink($path);
+                }
             }
         }
-        
-        // Force directory to be writable
         @chmod($dir, 0777);
-        
-        // Lock mitigation: Try to remove. If the OS denies it, pause for 50 milliseconds and try once more.
         if (!@rmdir($dir)) {
             usleep(50000); 
             @rmdir($dir);
@@ -44,7 +36,6 @@ function rrmdir($dir) {
     }
 }
 
-// Helper function: Recursive Directory Copy
 function rcopy($src, $dst) {
     if (is_dir($src)) {
         if (!is_dir($dst)) mkdir($dst, 0755, true);
@@ -57,82 +48,36 @@ function rcopy($src, $dst) {
     }
 }
 
-// Helper function: Create URL Slugs
 function slugify($string) {
     $slug = mb_strtolower(trim(preg_replace('/[^A-Za-z0-9-]+/u', '-', $string), '-'));
     return preg_replace('/-+/', '-', $slug);
 }
 
-// 2. Scan the source narratives
 $narrativeDirs = array_filter(glob($sourceBooksDir . '/*'), 'is_dir');
-
 if (empty($narrativeDirs)) {
     die("No narrative folders found in {$sourceBooksDir}\n");
 }
 
+$masterCatalog = [];
+
 foreach ($narrativeDirs as $narrativeDir) {
-    $narrativeName = basename($narrativeDir); // e.g., 'rachel'
+    $narrativeName = basename($narrativeDir);
     $manifestFile = $narrativeDir . '/katie.json';
     
     echo "\n========================================================\n";
     echo "Publishing Series: {$narrativeName}\n";
     echo "========================================================\n";
 
-    if (!file_exists($manifestFile)) {
+    $katie = [];
+    if (file_exists($manifestFile)) {
+        $katie = json_decode(file_get_contents($manifestFile), true);
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            echo "  [Error] Invalid JSON syntax in katie.json. Skipping route generation.\n";
+            continue;
+        }
+    } else {
         echo "[Skipping] No katie.json found in /books/{$narrativeName}/\n";
         continue;
-    }
-
-    
-
-    // --- STEP B: PARSE MANIFEST FOR ROUTES ---
-    $katie = json_decode(file_get_contents($manifestFile), true);
-    if (json_last_error() !== JSON_ERROR_NONE) {
-        echo "  [Error] Invalid JSON syntax in katie.json. Skipping route generation.\n";
-        continue;
-    }
-
-    // -------------------------------------------------------------
-    // SYNC KATIE.JSON WITH MARKDOWN YAML FRONTMATTER
-    // -------------------------------------------------------------
-    $manifestUpdated = false;
-    $booksKey = isset($katie['books']) ? 'books' : null;
-    $books = $booksKey ? $katie['books'] : $katie;
-
-    foreach ($books as $bIndex => $book) {
-        if (!isset($book['chapters'])) continue;
-        foreach ($book['chapters'] as $cIndex => $chapter) {
-            if (!isset($chapter['parts'])) continue;
-            foreach ($chapter['parts'] as $pIndex => $part) {
-                $filePath = $narrativeDir . '/' . $part['file_path'];
-                if (file_exists($filePath)) {
-                    $partContent = file_get_contents($filePath);
-                    if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
-                        if (preg_match('/^title:\s*"?([^"\r\n]+)"?/m', $matches[1], $m)) {
-                            $yamlTitle = trim($m[1]);
-                            $partNum = $part['part_num'] ?? ($pIndex + 1);
-                            $newPartTitle = "Part {$partNum}: {$yamlTitle}";
-                            
-                            if (!isset($part['part_title']) || $part['part_title'] !== $newPartTitle) {
-                                if ($booksKey) {
-                                    $katie['books'][$bIndex]['chapters'][$cIndex]['parts'][$pIndex]['part_title'] = $newPartTitle;
-                                } else {
-                                    $katie[$bIndex]['chapters'][$cIndex]['parts'][$pIndex]['part_title'] = $newPartTitle;
-                                }
-                                $manifestUpdated = true;
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
-    
-    if ($manifestUpdated) {
-        echo "  [Sync] Updating katie.json with Markdown Frontmatter titles...\n";
-        file_put_contents($manifestFile, json_encode($katie, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
-        // Re-assign books so it has the new titles for the routes
-        $books = $booksKey ? $katie['books'] : $katie;
     }
 
     $seriesTitle = !empty($katie['series_title']) ? $katie['series_title'] : $narrativeName;
@@ -140,24 +85,20 @@ foreach ($narrativeDirs as $narrativeDir) {
 
     // --- STEP A: DESTRUCTIVE ASSET SYNC ---
     $targetAssetDir = $assetDestDir . '/' . $seriesSlug;
-    
     if (is_dir($targetAssetDir)) {
         echo "  [Assets] Wiping existing CDN directory: {$targetAssetDir}\n";
         rrmdir($targetAssetDir);
     }
-    
     echo "  [Assets] Copying Markdown, cover art, and katie.json to CDN...\n";
     rcopy($narrativeDir, $targetAssetDir);
     echo "  [Assets] Sync complete.\n";
 
     echo "  [Routes] Generating Stardust Engine Route JSON for '{$seriesTitle}'...\n";
 
-    // Build the Route JSON Array
     $lastRouteUrl = null;
     $firstRouteUrl = null;
     $routeData = [];
     
-    // The Common Block
     $routeData['common'] = [
         "site" => "raggiesoft-books",
         "theme" => "raggiesoft-books",
@@ -172,7 +113,6 @@ foreach ($narrativeDirs as $narrativeDir) {
         "navbarBrandLink" => "/raggiesoft-books"
     ];
 
-    // The Series Overview Route
     $overviewUrl = "/raggiesoft-books/books/{$seriesSlug}";
     $routeData[$overviewUrl] = [
         "view" => "pages/raggiesoft-books/books/series",
@@ -180,32 +120,85 @@ foreach ($narrativeDirs as $narrativeDir) {
         "theme" => "raggiesoft-books"
     ];
 
-    // Build individual Part Routes
-    foreach ($books as $book) {
-        foreach ($book['chapters'] as $chapter) {
-            foreach ($chapter['parts'] as $part) {
-                $bookSlug = slugify(strip_tags($book['book_title'] ?? 'book'));
-                $chapSlug = slugify(strip_tags($chapter['chap_title'] ?? 'chapter'));
-                $partSlug = slugify(strip_tags($part['part_title'] ?? 'part'));
+    $legacyBooks = isset($katie['books']) ? $katie['books'] : (isset($katie[0]) ? $katie : []);
+    
+    // Auto-discover books
+    $bDirs = glob($narrativeDir . '/b*', GLOB_ONLYDIR);
+    sort($bDirs);
+    
+    foreach ($bDirs as $bIndex => $bDir) {
+        $bName = basename($bDir);
+        $bookNum = intval(str_replace('b', '', $bName));
+        
+        $bookTitle = "Book {$bookNum}";
+        $metaPath = $bDir . '/meta.json';
+        if (file_exists($metaPath)) {
+            $meta = json_decode(file_get_contents($metaPath), true);
+            if (isset($meta['title'])) $bookTitle = $meta['title'];
+        } else {
+            // Fallback to katie.json
+            if (isset($legacyBooks[$bIndex]['book_title'])) {
+                $bookTitle = $legacyBooks[$bIndex]['book_title'];
+            }
+        }
+        $bookSlug = slugify(strip_tags($bookTitle));
+
+        // Auto-discover chapters
+        $cDirs = glob($bDir . '/c*', GLOB_ONLYDIR);
+        sort($cDirs);
+        
+        foreach ($cDirs as $cIndex => $cDir) {
+            $cName = basename($cDir);
+            $chapNum = intval(str_replace('c', '', $cName));
+            
+            $chapTitle = "Chapter {$chapNum}";
+            $metaPath = $cDir . '/meta.json';
+            if (file_exists($metaPath)) {
+                $meta = json_decode(file_get_contents($metaPath), true);
+                if (isset($meta['title'])) $chapTitle = $meta['title'];
+            } else {
+                if (isset($legacyBooks[$bIndex]['chapters'][$cIndex]['chap_title'])) {
+                    $chapTitle = $legacyBooks[$bIndex]['chapters'][$cIndex]['chap_title'];
+                }
+            }
+            $chapSlug = slugify(strip_tags($chapTitle));
+
+            // Auto-discover parts
+            $pFiles = glob($cDir . '/p*.md');
+            sort($pFiles);
+            
+            foreach ($pFiles as $pIndex => $pFile) {
+                $pName = basename($pFile);
+                $partNum = intval(str_replace(['p', '.md'], '', $pName));
+                
+                $yamlTitle = "Part {$partNum}";
+                $partContent = file_get_contents($pFile);
+                if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
+                    if (preg_match('/^title:\s*"?([^"\r\n]+)"?/m', $matches[1], $m)) {
+                        $yamlTitle = trim($m[1]);
+                    }
+                }
+                
+                $partTitle = "Part {$partNum}: {$yamlTitle}";
+                $partSlug = slugify(strip_tags($partTitle));
                 
                 $routeUrl = "/raggiesoft-books/books/{$seriesSlug}/{$bookSlug}/{$chapSlug}/{$partSlug}";
-                $cleanTitle = strip_tags($part['part_title']);
                 if ($firstRouteUrl === null) {
                     $firstRouteUrl = $routeUrl;
                 }
                 
+                $relPath = str_replace($narrativeDir . '/', '', $pFile);
                 $routeData[$routeUrl] = [
                     "view" => "pages/raggiesoft-books/books/viewer",
-                    "title" => $cleanTitle,
+                    "title" => $partTitle,
                     "theme" => "raggiesoft-books",
-                    "filePath" => $part['file_path']
+                    "filePath" => $relPath
                 ];
                 $lastRouteUrl = $routeUrl;
             }
         }
     }
 
-    // Connect interconnected series!
     if (!empty($katie['next_series_url']) && isset($lastRouteUrl)) {
         $routeData[$lastRouteUrl]['nextUrl'] = $katie['next_series_url'];
         if (!empty($katie['next_series_text'])) {
@@ -213,8 +206,6 @@ foreach ($narrativeDirs as $narrativeDir) {
         }
     }
 
-    // --- STEP C: WRITE ROUTE JSON ---
-    // 1. Write the legacy route JSON for raggiesoft-hub
     $routeJsonFile = $routesDestDir . '/' . $seriesSlug . '.json';
     file_put_contents(
         $routeJsonFile, 
@@ -222,27 +213,22 @@ foreach ($narrativeDirs as $narrativeDir) {
     );
     echo "  [Routes] Saved legacy hub route: {$seriesSlug}.json\n";
 
-    // 2. Generate and write the new route JSON for raggiesoft-book-library (Ocean View Archives)
     $newRouteData = [];
     $newRouteData['common'] = $routeData['common'];
     $newRouteData['common']['siteName'] = "Ocean View Archives";
     $newRouteData['common']['theme'] = "oceanview";
     
-    // Rewrite keys to omit /raggiesoft-books/books prefix
     $newFirstRouteUrl = null;
     foreach ($routeData as $key => $val) {
         if ($key === 'common') continue;
         $newKey = str_replace('/raggiesoft-books/books', '', $key);
-        
-        // Rewrite nextUrl if it exists
         if (isset($val['nextUrl'])) {
             $val['nextUrl'] = str_replace('/raggiesoft-books/books', '', $val['nextUrl']);
         }
-        
         $newRouteData[$newKey] = $val;
     }
 
-    $newRoutesDestDir = __DIR__ . '/../../raggiesoft-book-library/data/routes';
+    $newRoutesDestDir = dirname(__DIR__, 2) . '/raggiesoft-book-library/data/routes';
     if (!is_dir($newRoutesDestDir)) mkdir($newRoutesDestDir, 0755, true);
     $newRouteJsonFile = $newRoutesDestDir . '/' . $seriesSlug . '.json';
     file_put_contents(
@@ -251,7 +237,6 @@ foreach ($narrativeDirs as $narrativeDir) {
     );
     echo "  [Routes] Saved Ocean View route: {$seriesSlug}.json\n";
     
-    // Add to Master Catalog
     $masterCatalog[] = [
         'slug' => $seriesSlug,
         'title' => $seriesTitle,
@@ -262,7 +247,6 @@ foreach ($narrativeDirs as $narrativeDir) {
     ];
 }
 
-// --- STEP D: WRITE MASTER CATALOG ---
 $catalogFile = $assetDestDir . '/catalog.json';
 file_put_contents($catalogFile, json_encode($masterCatalog, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
