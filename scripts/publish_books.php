@@ -111,19 +111,21 @@ foreach ($narrativeDirs as $narrativeDir) {
 
     $overviewUrl = "/raggiesoft-books/books/{$seriesSlug}";
     $overviewRoute = [
-        "view" => "pages/raggiesoft-books/books/series",
+        "view" => "pages/raggiesoft-books/books/viewer",
         "title" => "{$seriesTitle}",
         "theme" => "raggiesoft-books"
     ];
     if (file_exists($narrativeDir . '/index.md')) {
         $overviewRoute["filePath"] = "index.md";
+    } else {
+        $overviewRoute["filePath"] = "__SERIES_LANDING__";
     }
     $routeData[$overviewUrl] = $overviewRoute;
 
     // Dedicated Table of Contents route
     $tocRouteUrl = "/raggiesoft-books/books/{$seriesSlug}/toc";
     $routeData[$tocRouteUrl] = [
-        "view" => "pages/raggiesoft-books/books/toc",
+        "view" => "pages/raggiesoft-books/books/viewer",
         "title" => "Table of Contents - {$seriesTitle}",
         "theme" => "raggiesoft-books",
         "filePath" => "__TOC__"
@@ -153,9 +155,18 @@ foreach ($narrativeDirs as $narrativeDir) {
         }
         $bookSlug = slugify(strip_tags($bookTitle));
 
+        $bookRouteUrl = "/raggiesoft-books/books/{$seriesSlug}/{$bookSlug}";
+        $routeData[$bookRouteUrl] = [
+            "view" => "pages/raggiesoft-books/books/viewer",
+            "title" => $bookTitle,
+            "theme" => "raggiesoft-books",
+            "filePath" => "__BOOK_TOC__|{$bIndex}"
+        ];
+
         $tocBook = [
             'book_num' => $bookNum,
             'book_title' => $bookTitle,
+            'book_url' => $bookRouteUrl,
             'chapters' => []
         ];
 
@@ -179,9 +190,18 @@ foreach ($narrativeDirs as $narrativeDir) {
             }
             $chapSlug = slugify(strip_tags($chapTitle));
 
+            $chapRouteUrl = "/raggiesoft-books/books/{$seriesSlug}/{$bookSlug}/{$chapSlug}";
+            $routeData[$chapRouteUrl] = [
+                "view" => "pages/raggiesoft-books/books/viewer",
+                "title" => $chapTitle,
+                "theme" => "raggiesoft-books",
+                "filePath" => "__CHAP_TOC__|{$bIndex}|{$cIndex}"
+            ];
+
             $tocChap = [
                 'chap_num' => $chapNum,
                 'chap_title' => $chapTitle,
+                'chap_url' => $chapRouteUrl,
                 'parts' => []
             ];
 
