@@ -287,11 +287,20 @@ foreach ($narrativeDirs as $narrativeDir) {
     );
     echo "  [Routes] Saved Ocean View route: {$seriesSlug}.json\n";
     
+    $longDesc = '';
+    if (!empty($seriesMeta['series_description_file'])) {
+        $descFilePath = $narrativeDir . '/' . $seriesMeta['series_description_file'];
+        if (file_exists($descFilePath)) {
+            $longDesc = file_get_contents($descFilePath);
+        }
+    }
+
     // Create the auto-generated TOC for the sidebar (replaces manual katie.json)
     $generatedToc = [
         'series_title' => $seriesTitle,
         'series_slug' => $seriesSlug,
         'series_description' => $seriesMeta['series_description'] ?? '',
+        'series_description_long' => $longDesc,
         'series_image' => $seriesMeta['series_image'] ?? '',
         'next_series_url' => $seriesMeta['next_series_url'] ?? '',
         'next_series_text' => $seriesMeta['next_series_text'] ?? '',
