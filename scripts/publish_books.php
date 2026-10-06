@@ -316,7 +316,8 @@ foreach ($narrativeDirs as $narrativeDir) {
         'description' => $seriesMeta['series_description'] ?? '',
         'image' => $seriesMeta['series_image'] ?? '',
         'first_route' => $firstRouteUrl,
-        'folder' => $narrativeName
+        'folder' => $narrativeName,
+        'hide' => isset($seriesMeta['hide']) ? $seriesMeta['hide'] : false
     ];
 }
 
