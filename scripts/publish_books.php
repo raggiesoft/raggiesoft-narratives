@@ -63,7 +63,7 @@ $masterCatalog = [];
 foreach ($narrativeDirs as $narrativeDir) {
     $narrativeName = basename($narrativeDir);
     $legacyManifest = $narrativeDir . '/katie.json';
-    $metaManifest = $narrativeDir . '/meta.json';
+    $metaManifest = $narrativeDir . '/ovab.json';
     
     echo "\n========================================================\n";
     echo "Publishing Series: {$narrativeName}\n";
@@ -143,7 +143,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         $bookNum = intval(str_replace('b', '', $bName));
         
         $bookTitle = "Book {$bookNum}";
-        $metaPath = $bDir . '/meta.json';
+        $metaPath = $bDir . '/ovab.json';
         if (file_exists($metaPath)) {
             $meta = json_decode(file_get_contents($metaPath), true);
             if (isset($meta['title'])) $bookTitle = $meta['title'];
@@ -179,7 +179,7 @@ foreach ($narrativeDirs as $narrativeDir) {
             $chapNum = intval(str_replace('c', '', $cName));
             
             $chapTitle = "Chapter {$chapNum}";
-            $metaPath = $cDir . '/meta.json';
+            $metaPath = $cDir . '/ovab.json';
             if (file_exists($metaPath)) {
                 $meta = json_decode(file_get_contents($metaPath), true);
                 if (isset($meta['title'])) $chapTitle = $meta['title'];
@@ -288,11 +288,10 @@ foreach ($narrativeDirs as $narrativeDir) {
     echo "  [Routes] Saved Ocean View route: {$seriesSlug}.json\n";
     
     $longDesc = '';
-    if (!empty($seriesMeta['series_description_file'])) {
-        $descFilePath = $narrativeDir . '/' . $seriesMeta['series_description_file'];
-        if (file_exists($descFilePath)) {
-            $longDesc = file_get_contents($descFilePath);
-        }
+    $descFileName = !empty($seriesMeta['series_description_file']) ? $seriesMeta['series_description_file'] : 'landing.md';
+    $descFilePath = $narrativeDir . '/' . $descFileName;
+    if (file_exists($descFilePath)) {
+        $longDesc = file_get_contents($descFilePath);
     }
 
     // Create the auto-generated TOC for the sidebar (replaces manual katie.json)

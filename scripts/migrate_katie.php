@@ -19,7 +19,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         
         $bDir = $narrativeDir . '/b' . $bNum;
         if (is_dir($bDir)) {
-            $metaPath = $bDir . '/meta.json';
+            $metaPath = $bDir . '/ovab.json';
             if (!file_exists($metaPath)) {
                 file_put_contents($metaPath, json_encode(['title' => $book['book_title']], JSON_PRETTY_PRINT));
             }
@@ -35,13 +35,13 @@ foreach ($narrativeDirs as $narrativeDir) {
             
             $cDir = $bDir . '/c' . $cNum;
             if (is_dir($cDir)) {
-                $metaPath = $cDir . '/meta.json';
+                $metaPath = $cDir . '/ovab.json';
                 if (!file_exists($metaPath)) {
                     file_put_contents($metaPath, json_encode(['title' => $chap['chap_title']], JSON_PRETTY_PRINT));
                 }
             }
         }
     }
-    echo "Migrated katie.json titles to meta.json for " . basename($narrativeDir) . "\n";
+    echo "Migrated katie.json titles to ovab.json for " . basename($narrativeDir) . "\n";
 }
 ?>
