@@ -323,6 +323,9 @@ foreach ($narrativeDirs as $narrativeDir) {
 $catalogFile = $assetDestDir . '/catalog.json';
 file_put_contents($catalogFile, json_encode($masterCatalog, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
+// Build the search index
+include __DIR__ . '/build_search_index.php';
+
 echo "========================================================\n";
 echo "Publishing Complete! CDN updated and Stardust Routes mapped.\n";
 echo "Master Catalog saved to: catalog.json\n";
