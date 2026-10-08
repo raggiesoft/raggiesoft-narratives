@@ -7,7 +7,7 @@
 - **1995 (Age 6)**: The Dojang Incident. Master Curtis steps on Drew's stomach. The trauma and delayed treatment cause severe internal injuries, lifelong PTSD, and permanent physical disability.
 - **1998 (Age 9)**: The crushing weight of medical bills and accessibility modifications forces the family into medical bankruptcy. They lose their 3-bedroom house and move in with Mrs. Bea.
 - **2004 (Age 15)**: After a string of painful relationships, Claire meets "The One"—a man who respects her, the twins, and their unique family dynamic.
-- **2005 (Age 16)**: The family moves into their own 2-bedroom apartment.
+- **2003 (Age 14)**: The family moves into their own 2-bedroom apartment.
 - **2007 (Age 18)**: Maggie officially becomes Drew's state-paid caregiver via a Medicaid Waiver program, replacing outside home health nurses.
 - **2012 (Age 23)**: Drew and Maggie are navigating young adulthood in the 2-bedroom apartment in suburban Virginia.
 - **2024 (Age 35)**: Mrs. Bea passes away peacefully at the age of 102.
@@ -50,7 +50,7 @@ Because the Dojang Incident occurred on August 17, 1995, it completely derailed 
 - **Survivor's Reality**: He is physically much smaller and more delicate than his twin sister due to his stunted growth, creating a stark visual contrast between them.
 
 ### Maggie
-- Long flowing brown hair down to her shoulder blades and glasses.
+- **Physicality**: Long flowing brown hair down to her shoulder blades and glasses. Maggie is naturally taller than Drew. Even if Drew's growth had not been stunted by the Dojang incident, Maggie would still be noticeably taller than him if both were standing side-by-side.
 - **The Weight of Survivor's Guilt**: Maggie was supposed to be at the Dojang on the day of the incident, but stayed home with a fever. Her entire life's devotion is driven by the crushing guilt that she wasn't there to take the hit with him. When 6-year-old Drew was hospitalized, Maggie plunged into severe childhood depression. Food became her primary coping mechanism for the trauma, a habit that persisted throughout her childhood and adolescence.
 - **The Turning Point (Age 19)**: By age 19—just a year after officially signing on as Drew's paid caregiver—Maggie had reached her heaviest weight and was clinically obese. However, the physical demands of transferring and caring for a paralyzed adult forced a massive epiphany. She realized that if her own health failed, she couldn't keep her promise to take care of her brother. 
 - **Current State (Age 23 / 2012)**: While she still appears overweight in 2012 character portraits, this actually represents her *in the middle* of a rigorous health journey. She is actively losing weight and building the physical strength necessary to be Drew's lifelong protector.
