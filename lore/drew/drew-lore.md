@@ -78,3 +78,8 @@ Because the Dojang Incident occurred on August 17, 1995, it completely derailed 
 When Maggie had her massive epiphany about her health in 2008 (at age 19), she and Drew got memberships to the **Fairlawn Recreation Center** in Virginia Beach so they could exercise together. Maggie desperately wanted to take Drew swimming, as hydrotherapy is excellent for paraplegia and spasticity. 
 - **Drew's Medical Constraints**: Because of the catastrophic injuries he sustained at age 6, Drew is immunocompromised. This already makes a public pool a risky proposition, requiring strict timing (going during dead hours when the pool is empty and freshly chlorinated).
 - **The Fairlawn Barrier**: The biggest hurdle, however, was architectural. In 2008, the 1977-era Fairlawn Recreation Center featured strict Men's and Women's locker rooms with absolutely no "Assisted Care" or "Family" changing areas. Because Maggie (and Claire) are female, there was legally no place in the building for them to help Drew change into his swimsuit or transfer him to a shower chair. This served as a deeply frustrating barrier for Maggie, compounding the sadness she felt about her own failing physical health, but it ultimately forced them to find other, creative ways to work out together.
+
+### Jim (Biological Father)
+- **Birth Year:** ~1950s (Assuming roughly same age as Claire)
+- **Death Year:** 1992
+- **Description:** Claire's husband and the biological father of Drew and Maggie. He was a loving, caring father who died suddenly of a massive heart attack when the twins were just 3 years old. His death left Claire as a single mother.
