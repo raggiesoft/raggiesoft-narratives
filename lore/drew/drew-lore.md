@@ -40,3 +40,9 @@
 ## The Father Figure
 - The biological father is **completely out of the picture** (the exact details and reasons behind his absence remain TBD).
 - **The New Boyfriend**: Claire is currently seeing a new man. Unlike the biological father or the toxic figures in their past (like Curtis/Ray), this new partner is slated to be an incredibly positive, supportive, and grounding presence for all three of them.
+
+
+## Relational Boundaries (Circa 2012)
+- **Terminology**: The childhood terms "mommy" and "sissy" from 1995 have naturally evolved. By age 23, they use "Mom" or "Mother" for Claire, and "Sister" for Maggie.
+- **The Twin Bond**: Maggie and Drew are absolute best friends. They are completely devoted to one another.
+- **Romantic Relationships**: Both Maggie and Drew actively refuse to pursue significant others or romantic relationships. Their bond, trauma response, and reliance on one another are so profoundly complete that they feel they only need each other.
