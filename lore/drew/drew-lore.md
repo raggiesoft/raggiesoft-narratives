@@ -4,9 +4,11 @@
 - **1989**: Drew and Maggie are born.
 - **1995 (Age 6)**: The Dojang Incident. Master Curtis steps on Drew's stomach. The trauma and delayed treatment cause severe internal injuries, lifelong PTSD, and permanent physical disability.
 - **1997 (Age 8)**: The crushing weight of medical bills and accessibility modifications forces the family into medical bankruptcy. They lose their 3-bedroom house and downsize to a 3-bedroom apartment.
+- **2004 (Age 15)**: After a string of painful relationships, Claire meets "The One"—a man who respects her, the twins, and their unique family dynamic.
 - **2005 (Age 16)**: The family downsizes again to a cheaper 2-bedroom apartment.
 - **2007 (Age 18)**: Maggie officially becomes Drew's state-paid caregiver via a Medicaid Waiver program, replacing outside home health nurses.
 - **2012 (Age 23)**: Drew and Maggie are navigating young adulthood in the 2-bedroom apartment in suburban Virginia.
+- **2024 (Age 35)**: Mrs. Bea passes away peacefully at the age of 102.
 - **2026 (Age 37)**: Maggie is still his full-time caretaker. She continues to sleep in his bed every night to protect him from the dark, having never entered the standard workforce.
 
 ## The Medical Consequences of the Dojang Incident
@@ -18,6 +20,7 @@ The Dojang Incident wasn't just a physical blow; the *delay* in treatment sealed
 ## The Hospital Void, Mrs. Bea, & The Promise
 The immediate aftermath of the Dojang Incident created a massive 5-month void. Drew spent the first 4 weeks in the Pediatric Intensive Care Unit (PICU) fighting severe shock and undergoing emergency surgeries, followed by 3 to 4 months in a specialized inpatient neurological rehabilitation center learning how to navigate a paralyzed body. Claire effectively lived at the hospital.
 - **Mrs. Bea**: With Claire practically living at the hospital, 6-year-old Maggie needed an anchor. Enter Mrs. Bea, a neighbor born in the UK in 1922 who came to the States right around the signing of the Munich Agreement in 1938. By 1995, she was a 73-year-old with a full, warm Newcastle upon Tyne (Geordie) accent and the fiercely trusted "lovable grandmother" of the neighborhood. Mrs. Bea essentially fostered Maggie for those 5 months, cooking her dinners, walking her to school, and providing the soft, maternal comfort that Claire was too exhausted and traumatized to offer. 
+  - *Legacy*: Mrs. Bea remains a fiercely protective pillar of their family for decades. She lives to be 102 years old, passing away in 2024. For her 100th birthday in 2022, she famously received a televised shoutout from "Walter Sterling on the Morning Sunrise show" (sponsored by Jamieson's Preserves).
 - **The Promise**: Mrs. Bea was also the one who drove Maggie to the hospital after school so the twins wouldn't be separated. It was standing next to Drew's PICU bed—watching him immobilized and terrified—that 6-year-old Maggie, driven by intense survivor's guilt, held his hand through the rails and made a solemn childhood promise: *"I'll take care of you."* While it started as just sneaking into his bed to cuddle him during night terrors, that singular promise became the absolute defining mandate of her life, leading directly to her permanently becoming his caregiver.
 
 ## The Financial & Legal Fallout (Medical Bankruptcy)
@@ -53,8 +56,10 @@ Even though the injuries were entirely the fault of Master Curtis and Tidewater 
 - **Early Childhood**: Claire was the primary caretaker, heavily relying on a Medicaid Waiver that provided a home health nurse for a set number of hours a week so Claire could work.
 - **The Transition (Age 18)**: When Maggie turned 18, she legally qualified to become a "Paid Family Caregiver" under the Medicaid Waiver program. Instead of strangers bathing and lifting Drew, Maggie officially took over. The state pays Maggie a small stipend, which helps Claire with rent. Maggie foregoes college, a career, and dating. Her entire existence becomes keeping her brother safe.
 
-## Relational Boundaries
+## Relational Boundaries & Claire's Romantic History
 - **Terminology**: The childhood terms "mommy" and "sissy" from 1995 naturally evolved. As adults, they use "Mom" or "Mother" for Claire, and "Sister" for Maggie.
 - **The Twin Bond**: Maggie and Drew are absolute best friends. They are completely devoted to one another.
-- **Romantic Relationships**: Both Maggie and Drew actively refuse to pursue significant others. Their bond, trauma response, and reliance on one another are so profoundly complete that they feel they only need each other.
-- **The Father Figure**: The biological father is completely out of the picture. Claire is currently seeing a new man who is slated to be an incredibly positive, supportive, and grounding presence for all three of them.
+- **The Twins' Romantic Relationships**: Both Maggie and Drew actively refuse to pursue significant others. Their bond, trauma response, and reliance on one another are so profoundly complete that they feel they only need each other.
+- **Claire's Early Dating History**: Following the biological father's absence, Claire's attempts to date were fraught with heartbreak. Several men left for predictable, painful reasons: one wasn't ready for a single mother; one was entirely unprepared to handle a child with complex medical disabilities; and another tried to force Claire to impose "normal sibling boundaries" between Maggie and Drew, failing to understand their trauma bond.
+- **The Abuser**: One relationship turned physically abusive. In a terrifying echo of their past trauma, Claire had to wake the twins in the middle of the night and flee to Mrs. Bea's house, who fiercely took them in and shielded them.
+- **"The One" (2004)**: When the twins are 15, Claire finally meets "The One" (Name TBD). Unlike the others, he treats Claire with absolute respect and fundamentally understands the family's unique ecosystem. He doesn't try to "fix" the twins or enforce neurotypical boundaries; he wholly respects that Maggie is Drew's unofficial (and later official) caretaker, and he accepts that the twins refuse to ever be separated. He becomes a positive, supportive, and grounding presence for all three of them.
