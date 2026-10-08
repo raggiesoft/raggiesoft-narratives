@@ -5,9 +5,9 @@
 - **1964**: Claire is born.
 - **1989**: Drew and Maggie are born.
 - **1995 (Age 6)**: The Dojang Incident. Master Curtis steps on Drew's stomach. The trauma and delayed treatment cause severe internal injuries, lifelong PTSD, and permanent physical disability.
-- **1997 (Age 8)**: The crushing weight of medical bills and accessibility modifications forces the family into medical bankruptcy. They lose their 3-bedroom house and downsize to a 3-bedroom apartment.
+- **1998 (Age 9)**: The crushing weight of medical bills and accessibility modifications forces the family into medical bankruptcy. They lose their 3-bedroom house and move in with Mrs. Bea.
 - **2004 (Age 15)**: After a string of painful relationships, Claire meets "The One"—a man who respects her, the twins, and their unique family dynamic.
-- **2005 (Age 16)**: The family downsizes again to a cheaper 2-bedroom apartment.
+- **2005 (Age 16)**: The family moves into their own 2-bedroom apartment.
 - **2007 (Age 18)**: Maggie officially becomes Drew's state-paid caregiver via a Medicaid Waiver program, replacing outside home health nurses.
 - **2012 (Age 23)**: Drew and Maggie are navigating young adulthood in the 2-bedroom apartment in suburban Virginia.
 - **2024 (Age 35)**: Mrs. Bea passes away peacefully at the age of 102.
@@ -60,8 +60,12 @@ Because the Dojang Incident occurred on August 17, 1995, it completely derailed 
 - The sole provider. She carries immense guilt that she was sitting in the lobby reading a book while her son was bleeding internally on the other side of the closed blinds.
 
 ## Living Situations & The CPS Dance
-- **The 3-Bedroom Apartment (Ages 8-16)**: After losing their house, they lived in a 3-bedroom apartment. The trauma left Drew terrified of the dark, and Maggie began sneaking into his bed to calm him. Terrified of a CPS worker or home health nurse reporting an older brother and sister sharing a bed, Claire strictly maintained two separate, fully furnished bedrooms. She would verbally tell Maggie she had to sleep in her own room, but did the absolute bare minimum to enforce it. Claire couldn't bear the heartbreak of hearing Drew cry in the dark, knowing Maggie was the only thing that calmed him. The separate rooms were purely a theatrical set piece to pass inspections and keep CPS off her back.
-- **The Turning Point (Age 18+)**: The moment the twins turn 18, the threat of CPS and mandatory reporters vanishes. They immediately drop all theatrical pretenses of "privacy" and openly share a bed. To save money, the family downsizes to a ground-floor 2-bedroom unit. Claire takes the master, and the twins openly share the secondary bedroom and a queen-size bed without any dividers.
+- **Mrs. Bea's House (1998-2005)**: After the crushing medical bankruptcy forces the foreclosure of their home in August 1998, the family moves in with Mrs. Bea. Her house is an accessible 2-bedroom home:
+  - **The Layout**: The front door opens directly into the living room, which connects to the kitchen and dining area. There are two bathrooms: an en suite in Mrs. Bea's master bedroom, and a wheelchair-accessible bathroom in the main hallway.
+  - **The Sleeping Arrangements**: Mrs. Bea takes her master bedroom. To ensure her children have a proper bed, Claire sleeps in the living room on Mrs. Bea's "Grandma Sofa" (a 1970s floral tapestry Lawson-style sofa). The living room also features a heavy 27-inch CRT TV with rabbit ears and a VCR.
+  - **The Kids' Room**: Drew and Maggie share the second bedroom (which has linoleum flooring for wheelchair ease) and a queen-size bed. To maintain the illusion of privacy for mandatory CPS/home-health nurse visits, Claire and Bea install a makeshift curtain dividing the room. They implore the 9-year-old twins to alternate sleeping on different sides of the curtain so that both sides look "used," even though they know Maggie and Drew just cuddle up on one side anyway.
+- **The 2-Bedroom Apartment (Age 16+)**: When the twins are 16, the family finally manages to rent their own 2-bedroom apartment. Terrified of the dark, Drew continues to rely on Maggie to calm him. Claire strictly maintains two separate, fully furnished sides of the room with dividers or verbal rules, but does the bare minimum to enforce it. The "separate spaces" are purely a theatrical set piece to pass inspections and keep CPS off her back.
+- **The Turning Point (Age 18+)**: The moment the twins turn 18, the threat of CPS and mandatory reporters vanishes. They immediately drop all theatrical pretenses of "privacy" and openly share a bed. Claire takes the master, and the twins openly share the secondary bedroom and a queen-size bed without any dividers.
 
 ## Caretaking Dynamics & Adulthood Privacy
 - **Early Childhood**: Claire was the primary caretaker, heavily relying on a Medicaid Waiver that provided a home health nurse for a set number of hours a week so Claire could work.
