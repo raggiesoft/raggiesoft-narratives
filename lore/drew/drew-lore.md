@@ -2,47 +2,54 @@
 
 ## Timeline & Ages
 - **1989**: Drew and Maggie are born.
-- **1995**: The Dojang Incident. Drew and Maggie are 6 years old. Master Curtis steps on Drew, causing severe internal injuries and lifelong PTSD.
-- **2012**: Drew and Maggie are 23 years old. 
+- **1995 (Age 6)**: The Dojang Incident. Master Curtis steps on Drew's stomach. The trauma and delayed treatment cause severe internal injuries, lifelong PTSD, and permanent physical disability.
+- **1997 (Age 8)**: The crushing weight of medical bills and accessibility modifications forces the family into medical bankruptcy. They lose their 3-bedroom house and downsize to a 3-bedroom apartment.
+- **2005 (Age 16)**: The family downsizes again to a cheaper 2-bedroom apartment.
+- **2007 (Age 18)**: Maggie officially becomes Drew's state-paid caregiver via a Medicaid Waiver program, replacing outside home health nurses.
+- **2012 (Age 23)**: Drew and Maggie are navigating young adulthood in the 2-bedroom apartment in suburban Virginia.
+- **2026 (Age 37)**: Maggie is still his full-time caretaker. She continues to sleep in his bed every night to protect him from the dark, having never entered the standard workforce.
 
-## Physical Descriptions & Character Traits (Circa 2012)
+## The Medical Consequences of the Dojang Incident
+The Dojang Incident wasn't just a physical blow; the *delay* in treatment sealed Drew's fate. Because Curtis continued the class as normal, and Claire was delayed in the office by Ray's assistant (Megan) after discovering the barefoot-shaped bruise on Drew's stomach, Drew bled internally for well over an hour.
+- **The Wheelchair (Spinal Stroke)**: The severe abdominal crush, combined with prolonged hypovolemic shock from internal bleeding, caused "Spinal Cord Ischemia" (a spinal stroke). The lack of blood flow permanently killed the nerves in his lower spine, resulting in paraplegia and his absolute reliance on a power wheelchair.
+- **Stunted Growth (Pituitary Shock)**: The prolonged shock and oxygen deprivation caused a localized hypoxic injury to his pituitary gland. This halted his growth hormone production. While Maggie grew into a typical adult, Drew's growth was severely stunted. He remained delicate and small-framed, never hitting a typical male puberty growth spurt.
+- **Childhood Surgeries**: As Drew grew, his paralyzed body required brutal maintenance, including a massive **Spinal Fusion** (titanium rods/screws) around age 12 to fix neuromuscular scoliosis so he could sit upright and breathe; **Tendon Lengthening Releases** to fix contractures so his legs could lay flat on his footrests; and a surgically implanted **Baclofen Pump** to manage severe muscle spasticity.
+
+## The Financial & Legal Fallout (Medical Bankruptcy)
+Even though the injuries were entirely the fault of Master Curtis and Tidewater Tumblers, LLC, the American legal system ensured Claire paid the ultimate financial price:
+- **The Insurance Cap**: As a strip-mall business, Ray's Dojang likely carried a standard commercial liability policy with a cap (e.g., $1 Million or $2 Million). Because Drew was not the only victim—Curtis also crushed Michael, Rachel, and others—that insurance payout had to be split among all the victims. After the personal injury lawyers took their 33-40% cut, Claire's settlement was a fraction of what Drew's lifelong care actually cost.
+- **The LLC Corporate Shield**: When the insurance money ran out, Claire's lawyers couldn't easily go after Ray's personal assets (his house, personal bank accounts) because the Dojang was registered as an LLC. Ray simply filed for Chapter 7 bankruptcy for the business, dissolving the entity and shielding his personal wealth.
+- **The Medical Void & Lost Income**: The modest settlement evaporated almost instantly into the initial PICU stay, spinal surgeries, inpatient rehabilitation, custom pediatric power wheelchairs (which need constant replacing as he grows), and thousands in out-of-pocket home accessibility modifications. Furthermore, during those months in the hospital, Claire exhausted her unpaid FMLA leave, causing her single income to plummet.
+- **The Result**: To keep her son alive and her family housed, Claire maxed out credit cards and took out a second mortgage. By 1997, the catastrophic debt caused the math to permanently fail. Filing for Chapter 7 personal medical bankruptcy was her only option, which ultimately forced the foreclosure of their 3-bedroom house and their transition to apartment living.
+
+## Physical Descriptions & Character Traits
 ### Drew
-- 23-year-old young adult male.
-- Brown crewcut hair.
-- Wears glasses.
+- Crewcut brown hair and glasses.
 - Cannot work due to his condition/needs.
 - Relies on a modern power wheelchair for mobility.
 - Deeply traumatized by the dark and the 1995 Dojang incident; terrified of Master Curtis returning.
+- **Survivor's Reality**: He is physically much smaller and more delicate than his twin sister due to his stunted growth, creating a stark visual contrast between them.
 
 ### Maggie
-- 23-year-old young adult female.
-- Long flowing brown hair down to her shoulder blades.
-- Wears glasses.
-- Overweight (currently working on getting back in shape).
-- At home all day providing round-the-clock, dedicated care for her twin brother, Drew.
+- Long flowing brown hair down to her shoulder blades and glasses.
+- Overweight (working on getting back in shape).
+- **Survivor's Guilt**: Maggie was supposed to be at the Dojang on the day of the incident, but stayed home with a fever. Her entire life's devotion is driven by the crushing guilt that she wasn't there to take the hit with him.
 - Intensely protective of Drew. Sleeps in the same bed with him every night to cuddle and protect him from the dark and his PTSD night terrors.
 
 ### Claire
-- Mother, in her 40s/50s.
-- Brown hair.
-- Wears glasses.
-- Overweight.
-- The sole provider, doing her best to support her disabled son and caregiving daughter.
+- Mother, in her 40s/50s. Brown hair, wears glasses, overweight.
+- The sole provider. She carries immense guilt that she was sitting in the lobby reading a book while her son was bleeding internally on the other side of the closed blinds.
 
-## Living Situation (Circa 2012)
-- **Location**: Suburban Virginia.
-- **Dwelling**: A ground-floor unit in a 3-story apartment building constructed in 1981.
-- **Financial Status**: This 2-bedroom apartment is all Claire can afford, given that Drew cannot work and Maggie is a full-time caregiver.
-- **Sleeping Arrangements**: 
-  - Claire occupies the master bedroom.
-  - Drew and Maggie share a queen-size bed in the smaller secondary bedroom.
+## Living Situations & The CPS Dance
+- **The 3-Bedroom Apartment (Ages 8-16)**: After losing their house, they lived in a 3-bedroom apartment. The trauma left Drew terrified of the dark, and Maggie began sneaking into his bed to calm him. Terrified of a CPS worker or home health nurse reporting an older brother and sister sharing a bed, Claire strictly maintained two separate, fully furnished bedrooms. She would verbally tell Maggie she had to sleep in her own room, but did the absolute bare minimum to enforce it. Claire couldn't bear the heartbreak of hearing Drew cry in the dark, knowing Maggie was the only thing that calmed him. The separate rooms were purely a theatrical set piece to pass inspections and keep CPS off her back.
+- **The 2-Bedroom Apartment (Ages 16+)**: By the time the twins were 16, their trauma bond was unbreakable. Claire stopped fighting the arrangement entirely. To save money, they downsized to a ground-floor 2-bedroom unit in a 1981 suburban Virginia building. Claire took the master, and the twins officially shared the secondary bedroom and a queen-size bed.
 
-## The Father Figure
-- The biological father is **completely out of the picture** (the exact details and reasons behind his absence remain TBD).
-- **The New Boyfriend**: Claire is currently seeing a new man. Unlike the biological father or the toxic figures in their past (like Curtis/Ray), this new partner is slated to be an incredibly positive, supportive, and grounding presence for all three of them.
+## Caretaking Dynamics
+- **Early Childhood**: Claire was the primary caretaker, heavily relying on a Medicaid Waiver that provided a home health nurse for a set number of hours a week so Claire could work.
+- **The Transition (Age 18)**: When Maggie turned 18, she legally qualified to become a "Paid Family Caregiver" under the Medicaid Waiver program. Instead of strangers bathing and lifting Drew, Maggie officially took over. The state pays Maggie a small stipend, which helps Claire with rent. Maggie foregoes college, a career, and dating. Her entire existence becomes keeping her brother safe.
 
-
-## Relational Boundaries (Circa 2012)
-- **Terminology**: The childhood terms "mommy" and "sissy" from 1995 have naturally evolved. By age 23, they use "Mom" or "Mother" for Claire, and "Sister" for Maggie.
+## Relational Boundaries
+- **Terminology**: The childhood terms "mommy" and "sissy" from 1995 naturally evolved. As adults, they use "Mom" or "Mother" for Claire, and "Sister" for Maggie.
 - **The Twin Bond**: Maggie and Drew are absolute best friends. They are completely devoted to one another.
-- **Romantic Relationships**: Both Maggie and Drew actively refuse to pursue significant others or romantic relationships. Their bond, trauma response, and reliance on one another are so profoundly complete that they feel they only need each other.
+- **Romantic Relationships**: Both Maggie and Drew actively refuse to pursue significant others. Their bond, trauma response, and reliance on one another are so profoundly complete that they feel they only need each other.
+- **The Father Figure**: The biological father is completely out of the picture. Claire is currently seeing a new man who is slated to be an incredibly positive, supportive, and grounding presence for all three of them.
