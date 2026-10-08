@@ -1,4 +1,4 @@
-# Drew, Maggie, and Claire - Core Lore & Family Dynamics
+# The Hayes Family: Drew, Maggie, and Claire - Core Lore & Family Dynamics
 
 ## Timeline & Ages
 - **1961**: Fergus Buchanan is born in Glasgow, Scotland.
@@ -38,6 +38,7 @@ Because the Dojang Incident occurred on August 17, 1995, it completely derailed 
 - **The Timeline**: 
   - *Mid-August to Mid-September*: During his 4 weeks in the PICU, Drew was medically excused from all educational requirements. He was fighting for his life and undergoing spinal surgeries; school was completely paused.
   - *Late September to January*: Once stabilized and transferred to the inpatient pediatric rehab unit, his medical team cleared him for "hospital-bound instruction." Because he was only 6 and enduring grueling daily physical/occupational therapy, instruction was limited to 30–60 minute bedside sessions focusing entirely on basic first-grade reading and math retention.
+  - *Elementary & Middle School*: As Drew and Maggie grew older and returned to a more standard educational environment, their trauma bond manifested strongly. Maggie absolutely insisted on being at Drew's side, demanding to be placed in the exact same classes as him to protect him. The school district naturally fought this tooth and nail, arguing that twins and siblings are supposed to be separated to learn individualization and social independence. Given Drew's severe trauma and Maggie's fierce protectiveness, a compromise was eventually struck: they were separated for core classes, but allowed to share a lunch period and a study hall/resource period together, ensuring Maggie could check on him daily.
 
 ## Physical Descriptions & Character Traits
 ### Drew
