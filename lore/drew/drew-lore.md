@@ -47,8 +47,9 @@ Because the Dojang Incident occurred on August 17, 1995, it completely derailed 
 
 ### Maggie
 - Long flowing brown hair down to her shoulder blades and glasses.
-- Overweight (working on getting back in shape).
-- **Survivor's Guilt**: Maggie was supposed to be at the Dojang on the day of the incident, but stayed home with a fever. Her entire life's devotion is driven by the crushing guilt that she wasn't there to take the hit with him.
+- **The Weight of Survivor's Guilt**: Maggie was supposed to be at the Dojang on the day of the incident, but stayed home with a fever. Her entire life's devotion is driven by the crushing guilt that she wasn't there to take the hit with him. When 6-year-old Drew was hospitalized, Maggie plunged into severe childhood depression. Food became her primary coping mechanism for the trauma, a habit that persisted throughout her childhood and adolescence.
+- **The Turning Point (Age 19)**: By age 19—just a year after officially signing on as Drew's paid caregiver—Maggie had reached her heaviest weight and was clinically obese. However, the physical demands of transferring and caring for a paralyzed adult forced a massive epiphany. She realized that if her own health failed, she couldn't keep her promise to take care of her brother. 
+- **Current State (Age 23 / 2012)**: While she still appears overweight in 2012 character portraits, this actually represents her *in the middle* of a rigorous health journey. She is actively losing weight and building the physical strength necessary to be Drew's lifelong protector.
 - Intensely protective of Drew. Sleeps in the same bed with him every night to cuddle and protect him from the dark and his PTSD night terrors.
 
 ### Claire
