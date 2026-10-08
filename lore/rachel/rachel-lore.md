@@ -4706,3 +4706,12 @@ Realizing Jessica is the only Systems Architect capable of bridging their archai
 - **The Hardware:** Her Quantum laptop is strictly forbidden. She works on a heavy, permanently tethered desktop terminal bolted to the desk. The monitor, keyboard, and tower are plastered with bright red **SECRET** stickers, and the USB ports are physically disabled with epoxy.
 
 - **The Blackout:** The SME Capture requires her to surrender all personal electronics into a numbered lockbox outside the vault. For eight to ten hours a day, the Director of Defense Integration sits above ground, mere hundreds of yards from the Elizabeth River, completely and electromagnetically sealed off from her pack.
+
+
+## The Criminal Injuries Compensation Fund (CICF) & Medical Aftermath
+Because Master Curtis intentionally stepped on *everyone* in the class during the Dojang Incident (kids, teenagers, adults, boys, and girls), every single person in that room was the victim of a violent crime. While Michael, Rachel, and Drew are the only confirmed hospitalizations documented in the core lore so far (leaving the door open for other class members), they were all eligible for the Virginia Criminal Injuries Compensation Fund (CICF).
+
+The CICF is calculated **per victim**, not per incident, meaning each child had their own statutory cap (typically around $15,000 to $25,000 in the 1990s) to cover unreimbursed medical expenses.
+
+- **The Ragsdale Family (Michael & Rachel):** Tom and Ellen had standard, robust two-income family health insurance. While Michael and Rachel suffered severe internal injuries (torn fascia, cracked ribs, ruptured spleen), their hospital stays were finite. Their primary insurance absorbed the massive initial blows. The CICF cap for Michael, and the separate CICF cap for Rachel, easily covered all remaining deductibles and copays. The family took a financial hit, but the state fund worked exactly as intended to save them from bankruptcy.
+- **The Hayes Family (Drew):** As a single mother, Claire's insurance was far weaker. More devastatingly, Drew's injuries caused permanent paraplegia. The resulting out-of-network PICU stay, spinal surgeries, and constant need for pediatric power chairs generated a catastrophic tsunami of medical debt. The $25,000 CICF cap was vaporized in the first few days of Drew's 4-week PICU stay. Once the fund ran dry, Claire was forced into Chapter 7 medical bankruptcy, leading to the loss of their home. *(See `drew-lore.md` for full details on the Hayes family bankruptcy).*
