@@ -1,6 +1,8 @@
 # Drew, Maggie, and Claire - Core Lore & Family Dynamics
 
 ## Timeline & Ages
+- **1961**: Fergus Buchanan is born in Glasgow, Scotland.
+- **1964**: Claire is born.
 - **1989**: Drew and Maggie are born.
 - **1995 (Age 6)**: The Dojang Incident. Master Curtis steps on Drew's stomach. The trauma and delayed treatment cause severe internal injuries, lifelong PTSD, and permanent physical disability.
 - **1997 (Age 8)**: The crushing weight of medical bills and accessibility modifications forces the family into medical bankruptcy. They lose their 3-bedroom house and downsize to a 3-bedroom apartment.
@@ -70,7 +72,7 @@ Because the Dojang Incident occurred on August 17, 1995, it completely derailed 
 - **The Twins' Romantic Relationships**: Both Maggie and Drew actively refuse to pursue significant others. Their bond, trauma response, and reliance on one another are so profoundly complete that they feel they only need each other.
 - **Claire's Early Dating History**: Following the biological father's absence, Claire's attempts to date were fraught with heartbreak. Several men left for predictable, painful reasons: one wasn't ready for a single mother; one was entirely unprepared to handle a child with complex medical disabilities; and another tried to force Claire to impose "normal sibling boundaries" between Maggie and Drew, failing to understand their trauma bond.
 - **The Abuser**: One relationship turned physically abusive. In a terrifying echo of their past trauma, Claire had to wake the twins in the middle of the night and flee to Mrs. Bea's house, who fiercely took them in and shielded them.
-- **"The One" (2004)**: When the twins are 15, Claire finally meets "The One" (Name TBD). Unlike the others, he treats Claire with absolute respect and fundamentally understands the family's unique ecosystem. He doesn't try to "fix" the twins or enforce neurotypical boundaries; he wholly respects that Maggie is Drew's unofficial (and later official) caretaker, and he accepts that the twins refuse to ever be separated. He becomes a positive, supportive, and grounding presence for all three of them.
+- **Fergus Buchanan (2004)**: When the twins are 15, Claire finally meets "The One." Fergus Buchanan is a sweet, eccentric dual-citizen born in Glasgow, Scotland. He came to the States as an adult and still retains a very thick Scottish accent. He is a tinkerer with a distinctly chaotic "Big Clive" energy, often intentionally blowing up electronics (within the safety of his lab) to teach the twins lessons like "never reverse polarity"—much to their amusement as the room fills with the smell of burnt capacitors. More importantly, he uses his engineering skills to build crazy but highly functional custom contraptions that make Drew's life easier and Maggie's caregiving burden lighter. Unlike Claire's previous partners, Fergus treats her with absolute respect and fundamentally understands the family's unique ecosystem. He doesn't try to "fix" the twins or enforce neurotypical boundaries; he wholly respects Maggie's role as Drew's caretaker, and he accepts that the twins refuse to be separated. He officially becomes the definitive father figure they never had.
 
 ## The 2008 Fitness Journey & Fairlawn Rec Center
 When Maggie had her massive epiphany about her health in 2008 (at age 19), she and Drew got memberships to the **Fairlawn Recreation Center** in Virginia Beach so they could exercise together. Maggie desperately wanted to take Drew swimming, as hydrotherapy is excellent for paraplegia and spasticity. 
