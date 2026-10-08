@@ -30,6 +30,13 @@ Even though the injuries were entirely the fault of Master Curtis and Tidewater 
 - **The Medical Void & Lost Income**: The modest settlement evaporated almost instantly into the initial PICU stay, spinal surgeries, inpatient rehabilitation, custom pediatric power wheelchairs (which need constant replacing as he grows), and thousands in out-of-pocket home accessibility modifications. Furthermore, during those months in the hospital, Claire exhausted her unpaid FMLA leave, causing her single income to plummet.
 - **The Result**: To keep her son alive and her family housed, Claire maxed out credit cards and took out a second mortgage. By 1997, the catastrophic debt caused the math to permanently fail. Filing for Chapter 7 personal medical bankruptcy was her only option, which ultimately forced the foreclosure of their 3-bedroom house and their transition to apartment living.
 
+## Education & Hospital Instruction (1995-1996)
+Because the Dojang Incident occurred on August 17, 1995, it completely derailed the start of first grade for the 6-year-old twins.
+- **Jurisdiction**: The family lived in Virginia Beach, meaning **Virginia Beach City Public Schools (VBCPS)** retained legal and financial jurisdiction over Drew's education. However, because the children's hospital was located in Norfolk, the physical hospital-bound teachers who visited Drew's bedside were provided by **Norfolk Public Schools (NPS)**. VBCPS footed the bill while NPS delivered the localized instruction.
+- **The Timeline**: 
+  - *Mid-August to Mid-September*: During his 4 weeks in the PICU, Drew was medically excused from all educational requirements. He was fighting for his life and undergoing spinal surgeries; school was completely paused.
+  - *Late September to January*: Once stabilized and transferred to the inpatient pediatric rehab unit, his medical team cleared him for "hospital-bound instruction." Because he was only 6 and enduring grueling daily physical/occupational therapy, instruction was limited to 30–60 minute bedside sessions focusing entirely on basic first-grade reading and math retention.
+
 ## Physical Descriptions & Character Traits
 ### Drew
 - Crewcut brown hair and glasses.
