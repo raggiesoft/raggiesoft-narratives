@@ -1,3 +1,6 @@
+---
+title: "Normalization Report"
+---
 # Narrative Normalization Report
 
 **Total Markdown Files Scanned:** 2943
