@@ -1,2 +1,11 @@
 # Ignore old lore archives
 /lore/**/_old/
+# --- Google Analytics 4 API Credentials ---
+ga4-credentials.json
+*_credentials*.json
+*service-account*.json
+
+# --- Python Virtual Environment ---
+.venv/
+__pycache__/
+
