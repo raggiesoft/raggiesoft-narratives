@@ -48,22 +48,96 @@ foreach ($dirs as $novelDir) {
     $content = preg_replace('/(\.(?:jpg|jpeg|png|gif|webp))(?:#[^\s\)]+|\?[^\s\)]+)/i', '$1', $content);
     
     // --- 2. CUSTOM NARRATIVE TAGS ---
-    // <aac> tags: Convert to standard italics (often used for synthesized voices in literature)
-    $content = preg_replace('/<aac>(.*?)<\/aac>/is', '*$1*', $content);
+    // Adapt PWA tag logic for e-readers: use semantic HTML that Pandoc understands.
+    // <aac> tags (Synthesized voices)
+    $content = preg_replace('/<aac>(.*?)<\/aac>/is', '<em class="aac-device">$1</em>', $content);
     
-    // <asl>, <sgn>, <sms>: Convert to standard italics
-    $content = preg_replace('/<(asl|sgn|sms)>(.*?)<\/\1>/is', '*$2*', $content);
+    // <asl>, <sgn>, <sms>
+    $content = preg_replace('/<asl>(.*?)<\/asl>/is', '<em class="asl-sign">$1</em>', $content);
+    $content = preg_replace('/<sgn>(.*?)<\/sgn>/is', '<em class="generic-sign">$1</em>', $content);
+    $content = preg_replace('/<sms>(.*?)<\/sms>/is', '<em class="sms-message">$1</em>', $content);
     
-    // <lang> tags: Convert to italics and inject the translation in parentheses
-    // e.g., <lang="fr-CA" trans="Good morning">Bonjour</lang> -> *Bonjour* (Good morning)
-    $content = preg_replace_callback('/<lang(?:[^>]*?)trans="([^"]+)"(?:[^>]*?)>(.*?)<\/lang>/is', function($matches) {
-        $translation = trim($matches[1]);
-        $original = trim($matches[2]);
-        return "*{$original}* ({$translation})";
+    // <lang> tags: Convert to semantic language spans so EPUB screen readers switch accents, plus provide print translation
+    $content = preg_replace_callback('/<lang="([^"]+)" trans="([^"]+)">(.*?)<\/lang>/is', function($matches) {
+        $langCode = trim($matches[1]);
+        $translation = trim($matches[2]);
+        $original = trim($matches[3]);
+        return "<span lang=\"{$langCode}\"><em>{$original}</em></span> ({$translation})";
     }, $content);
     
-    // Catch-all for <lang> tags that don't have a translation attribute
-    $content = preg_replace('/<lang[^>]*>(.*?)<\/lang>/is', '*$1*', $content);
+    // Catch-all for <lang> tags without translation
+    $content = preg_replace_callback('/<lang="([^"]+)">(.*?)<\/lang>/is', function($matches) {
+        $langCode = trim($matches[1]);
+        $original = trim($matches[2]);
+        return "<span lang=\"{$langCode}\"><em>{$original}</em></span>";
+    }, $content);
+    
+    // Legacy catch-all if lang tag has no attributes
+    $content = preg_replace('/<lang[^>]*>(.*?)<\/lang>/is', '<em>$1</em>', $content);
+    
+    // --- 2.5 FIX WINDOWS PATHS FOR LATEX ---
+    // LaTeX chokes on unescaped backslashes like C:\USERS or VANCE_TRUST\J (\U and \J are undefined commands).
+    $content = preg_replace_callback('/[A-Za-z0-9_]+(?:[:]??)\\\\[a-zA-Z0-9_\\\\]+/', function($m) {
+        return str_replace('\\', '/', $m[0]);
+    }, $content);
+
+    // --- 2.6 METADATA & COVER INJECTION ---
+    $ovabFile = $workspaceRoot . '/raggiesoft-narratives/books/' . $slug . '/ovab.json';
+    $bookTitle = ucfirst(str_replace('-', ' ', $slug));
+    $coverImage = '';
+    $description = '';
+    $subjects = ['Fiction', 'Sci-Fi', 'World-Building']; // Default fallback subjects
+    
+    if (file_exists($ovabFile)) {
+        $ovabData = json_decode(file_get_contents($ovabFile), true);
+        if (isset($ovabData['series_title'])) {
+            $bookTitle = $ovabData['series_title'];
+        }
+        if (isset($ovabData['series_image'])) {
+            $coverImage = $workspaceRoot . '/raggiesoft-assets' . $ovabData['series_image'];
+        }
+        if (isset($ovabData['series_description'])) {
+            $description = $ovabData['series_description'];
+        }
+        if (isset($ovabData['series_tags'])) {
+            $subjects = $ovabData['series_tags'];
+        }
+    }
+    
+    $currentDate = date('F j, Y');
+    $currentYear = date('Y');
+    
+    $yamlMeta = "---\n";
+    $yamlMeta .= "title: " . json_encode($bookTitle) . "\n";
+    $yamlMeta .= "author: \"Michael Ragsdale\"\n";
+    $yamlMeta .= "date: \"$currentDate\"\n";
+    $yamlMeta .= "publisher: \"Ocean View Archives, a RaggieSoft Imprint\"\n";
+    $yamlMeta .= "rights: \"© $currentYear Michael Ragsdale. Licensed under CC BY-SA 4.0.\"\n";
+    $yamlMeta .= "lang: \"en-US\"\n";
+    $yamlMeta .= "identifier: \"https://raggiesoft.com/raggiesoft-books\"\n";
+    
+    if (!empty($description)) {
+        $yamlMeta .= "description: " . json_encode($description) . "\n";
+    }
+    
+    if (!empty($subjects)) {
+        $yamlMeta .= "subject:\n";
+        foreach ($subjects as $subject) {
+            $yamlMeta .= "  - " . json_encode($subject) . "\n";
+        }
+    }
+    
+    // Professional PDF Typesetting Settings (LaTeX)
+    $yamlMeta .= "fontsize: 11pt\n";
+    $yamlMeta .= "geometry:\n";
+    $yamlMeta .= "  - a5paper\n";             // Trade paperback size
+    $yamlMeta .= "  - margin=0.75in\n";       // Standard book margin
+    $yamlMeta .= "linestretch: 1.25\n";       // 1.25 line spacing for readability
+    $yamlMeta .= "toc-title: \"Table of Contents\"\n";
+    
+    $yamlMeta .= "---\n\n";
+    
+    $content = $yamlMeta . $content;
     
     // --- 3. PREPARE FOR PANDOC ---
     // Save the pre-processed markdown to a temporary file for Pandoc to ingest
@@ -79,12 +153,22 @@ foreach ($dirs as $novelDir) {
     $epubFile = $outDir . '/' . $slug . '.epub';
     $pdfFile = $outDir . '/' . $slug . '.pdf';
     
+    // Enforce PATH so PHP can find BasicTeX and Homebrew binaries
+    $pathEnv = 'PATH="/Library/TeX/texbin:/opt/homebrew/bin:/usr/local/bin:$PATH"';
+    
     // --- 4. GENERATE EPUB ---
     echo "  -> Generating EPUB...\n";
+    $epubArgs = '--toc --toc-depth=3';
+    if (!empty($coverImage) && file_exists($coverImage)) {
+        $epubArgs .= ' --epub-cover-image=' . escapeshellarg($coverImage);
+    }
+    
     $epubCmd = sprintf(
-        'pandoc %s -o %s --toc --toc-depth=3 2>&1',
+        '%s pandoc %s -o %s %s 2>&1',
+        $pathEnv,
         escapeshellarg($tmpMd),
-        escapeshellarg($epubFile)
+        escapeshellarg($epubFile),
+        $epubArgs
     );
     exec($epubCmd, $epubOutput, $epubReturn);
     if ($epubReturn !== 0) {
@@ -95,20 +179,18 @@ foreach ($dirs as $novelDir) {
     }
     
     // --- 5. GENERATE PDF ---
-    // Note: Pandoc requires a PDF engine like weasyprint, pdflatex, or wkhtmltopdf to create PDFs.
     echo "  -> Generating PDF...\n";
-    
-    // Try using typst or weasyprint or pdflatex. We'll default to standard pandoc pdf call.
-    // If the system lacks an engine, this will gracefully warn the user.
+    $pdfArgs = '--toc --toc-depth=3 --pdf-engine=xelatex';
     $pdfCmd = sprintf(
-        'pandoc %s -o %s --toc --toc-depth=3 2>&1',
+        '%s pandoc %s -o %s %s 2>&1',
+        $pathEnv,
         escapeshellarg($tmpMd),
-        escapeshellarg($pdfFile)
+        escapeshellarg($pdfFile),
+        $pdfArgs
     );
     exec($pdfCmd, $pdfOutput, $pdfReturn);
     if ($pdfReturn !== 0) {
         echo "  [Warning] PDF generation failed for $slug (Likely missing a PDF engine like WeasyPrint or BasicTeX).\n";
-        // Optionally output the exact error for debugging
         // echo implode("\n", $pdfOutput) . "\n";
     } else {
         echo "  [Success] Saved to " . str_replace($workspaceRoot, '', $pdfFile) . "\n";
