@@ -20,8 +20,8 @@
  *       `raggiesoft-books` hub and the new `Ocean View Archives` library.
  *
  * Maintenance Notes:
- *     - Directory Structure: The script strictly relies on `b*` (books), `c*` 
- *       (chapters), and `p*.md` (parts) folder/file naming.
+ *     - Directory Structure: The script strictly relies on `e*` (books), `c*` 
+ *       (chapters), and `s*.md` (parts) folder/file naming.
  *     - Deletion Warning: The `rrmdir()` function aggressively deletes folders; 
  *       ensure `$assetDestDir` paths are strictly correct.
  * =============================================================================
@@ -114,11 +114,9 @@ foreach ($narrativeDirs as $narrativeDir) {
     echo "Publishing Series: {$narrativeName}\n";
     echo "========================================================\n";
 
-    // Attempt to load metadata from available manifests, prioritizing legacy katie.json
+    // Attempt to load metadata from ovab.json
     $seriesMeta = [];
-    if (file_exists($legacyManifest)) {
-        $seriesMeta = json_decode(file_get_contents($legacyManifest), true) ?: [];
-    } elseif (file_exists($metaManifest)) {
+    if (file_exists($metaManifest)) {
         $seriesMeta = json_decode(file_get_contents($metaManifest), true) ?: [];
     }
 
@@ -183,47 +181,41 @@ foreach ($narrativeDirs as $narrativeDir) {
         "filePath" => "__TOC__"
     ];
 
-    // Extract legacy book definitions for fallback titles
-    $legacyBooks = isset($seriesMeta['books']) ? $seriesMeta['books'] : (isset($seriesMeta[0]) ? $seriesMeta : []);
+
     $tocBooks = [];
     
-    // Auto-discover book directories based on 'b*' naming convention
-    $bDirs = glob($narrativeDir . '/b*', GLOB_ONLYDIR);
+    // Auto-discover Era directories based on 'e*' naming convention
+    $bDirs = glob($narrativeDir . '/e*', GLOB_ONLYDIR);
     sort($bDirs); // Ensure sequential processing
     
     foreach ($bDirs as $bIndex => $bDir) {
         $bName = basename($bDir);
-        $bookNum = intval(str_replace('b', '', $bName));
+        $eraNum = intval(str_replace('e', '', $bName));
         
-        $bookTitle = "Book {$bookNum}";
+        $eraTitle = "Era {$eraNum}";
         $metaPath = $bDir . '/ovab.json';
         
-        // Prioritize local ovab.json title over legacy katie.json
+        // Load local ovab.json title
         if (file_exists($metaPath)) {
             $meta = json_decode(file_get_contents($metaPath), true);
-            if (isset($meta['title'])) $bookTitle = $meta['title'];
-        } else {
-            // Fallback to katie.json
-            if (isset($legacyBooks[$bIndex]['book_title'])) {
-                $bookTitle = $legacyBooks[$bIndex]['book_title'];
-            }
+            if (isset($meta['title'])) $eraTitle = $meta['title'];
         }
-        $bookSlug = slugify(strip_tags($bookTitle));
+        $eraSlug = slugify(strip_tags($eraTitle));
 
-        // Register the book's TOC route
-        $bookRouteUrl = "/raggiesoft-books/books/{$seriesSlug}/{$bookSlug}";
-        $routeData[$bookRouteUrl] = [
+        // Register the era's TOC route
+        $eraRouteUrl = "/raggiesoft-books/books/{$seriesSlug}/{$eraSlug}";
+        $routeData[$eraRouteUrl] = [
             "view" => "pages/raggiesoft-books/books/viewer",
-            "title" => $bookTitle,
+            "title" => $eraTitle,
             "theme" => "raggiesoft-books",
-            "filePath" => "__BOOK_TOC__|{$bIndex}"
+            "filePath" => "__ERA_TOC__|{$bIndex}"
         ];
 
         // Track structure for the auto-generated TOC
-        $tocBook = [
-            'book_num' => $bookNum,
-            'book_title' => $bookTitle,
-            'book_url' => $bookRouteUrl,
+        $tocEra = [
+            'era_num' => $eraNum,
+            'era_title' => $eraTitle,
+            'era_url' => $eraRouteUrl,
             'chapters' => []
         ];
 
@@ -238,19 +230,15 @@ foreach ($narrativeDirs as $narrativeDir) {
             $chapTitle = "Chapter {$chapNum}";
             $metaPath = $cDir . '/ovab.json';
             
-            // Resolve chapter title, prioritizing local ovab.json
+            // Resolve chapter title from local ovab.json
             if (file_exists($metaPath)) {
                 $meta = json_decode(file_get_contents($metaPath), true);
                 if (isset($meta['title'])) $chapTitle = $meta['title'];
-            } else {
-                if (isset($legacyBooks[$bIndex]['chapters'][$cIndex]['chap_title'])) {
-                    $chapTitle = $legacyBooks[$bIndex]['chapters'][$cIndex]['chap_title'];
-                }
             }
             $chapSlug = slugify(strip_tags($chapTitle));
 
             // Register the chapter's TOC route
-            $chapRouteUrl = "/raggiesoft-books/books/{$seriesSlug}/{$bookSlug}/{$chapSlug}";
+            $chapRouteUrl = "/raggiesoft-books/books/{$seriesSlug}/{$eraSlug}/{$chapSlug}";
             $routeData[$chapRouteUrl] = [
                 "view" => "pages/raggiesoft-books/books/viewer",
                 "title" => $chapTitle,
@@ -263,32 +251,32 @@ foreach ($narrativeDirs as $narrativeDir) {
                 'chap_num' => $chapNum,
                 'chap_title' => $chapTitle,
                 'chap_url' => $chapRouteUrl,
-                'parts' => []
+                'scenes' => []
             ];
 
-            // Auto-discover individual part markdown files based on 'p*.md'
-            $pFiles = glob($cDir . '/p*.md');
+            // Auto-discover individual scene markdown files based on 's*.md'
+            $pFiles = glob($cDir . '/s*.md');
             sort($pFiles);
             
             foreach ($pFiles as $pIndex => $pFile) {
                 $pName = basename($pFile);
-                $partNum = intval(str_replace(['p', '.md'], '', $pName));
+                $sceneNum = intval(str_replace(['s', '.md'], '', $pName));
                 
-                $yamlTitle = "Part {$partNum}";
+                $yamlTitle = "Scene {$sceneNum}";
                 $partContent = file_get_contents($pFile);
                 
-                // Extract title from part's YAML frontmatter using regex
+                // Extract title from scene's YAML frontmatter using regex
                 if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
                     if (preg_match('/^title:\s*"?([^"\r\n]+)"?/m', $matches[1], $m)) {
                         $yamlTitle = trim($m[1]);
                     }
                 }
                 
-                $partTitle = "Part {$partNum}: {$yamlTitle}";
-                $partSlug = slugify(strip_tags($partTitle));
+                $sceneTitle = "Scene {$sceneNum}: {$yamlTitle}";
+                $sceneSlug = slugify(strip_tags($sceneTitle));
                 
                 // Construct final content route
-                $routeUrl = "/raggiesoft-books/books/{$seriesSlug}/{$bookSlug}/{$chapSlug}/{$partSlug}";
+                $routeUrl = "/raggiesoft-books/books/{$seriesSlug}/{$eraSlug}/{$chapSlug}/{$sceneSlug}";
                 if ($firstRouteUrl === null) {
                     $firstRouteUrl = $routeUrl; // Capture the very first reading route
                 }
@@ -296,22 +284,22 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $relPath = str_replace($narrativeDir . '/', '', $pFile);
                 $routeData[$routeUrl] = [
                     "view" => "pages/raggiesoft-books/books/viewer",
-                    "title" => $partTitle,
+                    "title" => $sceneTitle,
                     "theme" => "raggiesoft-books",
                     "filePath" => $relPath
                 ];
-                $lastRouteUrl = $routeUrl; // Continually update to capture the very last part
+                $lastRouteUrl = $routeUrl; // Continually update to capture the very last scene
                 
-                // Finalize TOC structure with parts
-                $tocChap['parts'][] = [
-                    'part_num' => $partNum,
-                    'part_title' => $partTitle,
+                // Finalize TOC structure with scenes
+                $tocChap['scenes'][] = [
+                    'scene_num' => $sceneNum,
+                    'scene_title' => $sceneTitle,
                     'file_path' => $relPath
                 ];
             }
-            $tocBook['chapters'][] = $tocChap;
+            $tocEra['chapters'][] = $tocChap;
         }
-        $tocBooks[] = $tocBook;
+        $tocBooks[] = $tocEra;
     }
 
     // Append sequence chaining links to the absolute last route in the narrative
@@ -373,8 +361,7 @@ foreach ($narrativeDirs as $narrativeDir) {
         'series_description_long' => $longDesc,
         'series_image' => $seriesMeta['series_image'] ?? '',
         'next_series_url' => $seriesMeta['next_series_url'] ?? '',
-        'next_series_text' => $seriesMeta['next_series_text'] ?? '',
-        'books' => $tocBooks
+        'eras' => $tocBooks
     ];
     $tocDestFile = $targetAssetDir . '/toc.json';
     file_put_contents($tocDestFile, json_encode($generatedToc, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
