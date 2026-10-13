@@ -19431,7 +19431,7 @@ I reached into my heavy messenger bag with trembling hands. Before I pulled out 
 
 I shoved the earbuds in, desperately needing a wall of sound to drown out the mechanical hum of the train and the screaming guilt in my own head. I spun the tactile directional pad and blindly hit play on my saved library.
 
-A heavy, sweeping synthesizer chord filled my ears, immediately followed by the driving arena drums of a mid-tempo 1980s pop-rock anthem by Steel Horizon.
+A heavy, sweeping synthesizer chord filled my ears, immediately followed by the driving arena drums of a mid-tempo 1980s pop-rock anthem by The Stardust Engine.
 
 ![Jessica weeping while ghost Michael begs for help]({{CDN}}/raggiesoft-books/images/scenes/jessica-taps-train-ghosts.jpg#fullwidth)
 
@@ -26242,9 +26242,9 @@ Jessica let out a sharp, devastated gasp. Her hand tightened violently against m
 
 Jessica buried her face against my neck, her own tears mixing with mine.
 
-"I pulled out my Quantum Zephyr media player on the train to try and drown out the guilt," Jessica explained, her voice thick and broken. "And a song by Neon Horizon came on shuffle. It was called 'Before the Distance.'"
+"I pulled out my Quantum Zephyr media player on the train to try and drown out the guilt," Jessica explained, her voice thick and broken. "And a song by The Stardust Engine came on shuffle. It was called 'Before the Distance.'"
 
-I knew the track. It was a heavy, dramatic 1980s pop-rock anthem that we had loaded onto our hard drives years ago.
+I knew the track. It was from their 2004 album *Progress Street*, a heavy, dramatic 1980s pop-rock anthem that we had loaded onto our hard drives years ago.
 
 "The lyrics," Jessica sobbed, reciting the exact, soaring words that had broken her firewall.
 
