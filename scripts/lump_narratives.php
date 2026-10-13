@@ -40,27 +40,11 @@ if (!is_dir($booksBaseDir)) {
     die("Error: Base books directory not found at {$booksBaseDir}\n");
 }
 
-// Ensure the target base directory exists. If it does, WIPE IT CLEAN FIRST.
-if (is_dir($lumpBaseDir)) {
-    echo "Cleaning existing lump directory: /books-ai-lump/...\n";
-    
-    function deleteDir($dirPath) {
-        if (!is_dir($dirPath)) {
-            return;
-        }
-        $files = array_diff(scandir($dirPath), array('.', '..'));
-        foreach ($files as $file) {
-            $path = $dirPath . '/' . $file;
-            is_dir($path) ? deleteDir($path) : unlink($path);
-        }
-        rmdir($dirPath);
-    }
-    deleteDir($lumpBaseDir);
+// Ensure the target base directory exists
+if (!is_dir($lumpBaseDir)) {
+    echo "Creating master output directory: /books-ai-lump/\n";
+    mkdir($lumpBaseDir, 0755, true);
 }
-
-// Recreate the fresh, empty base directory
-echo "Creating fresh master output directory: /books-ai-lump/\n";
-mkdir($lumpBaseDir, 0755, true);
 
 function slugify($string) {
     $slug = strtolower(trim(preg_replace('/[^A-Za-z0-9-]+/', '-', $string), '-'));
@@ -201,9 +185,21 @@ foreach ($narrativeDirs as $narrativeDir) {
         }
     }
     
-    echo "    [Write] Saving compiled novel to: {$outputPath}\n";
-    file_put_contents($outputPath, $masterContent);
-    echo "    [Success] Finished lumping novel {$seriesTitle}\n\n";
+    // Only write to disk if the lump file doesn't exist or content has genuinely changed
+    $contentChanged = true;
+    if (file_exists($outputPath)) {
+        if (md5_file($outputPath) === md5($masterContent)) {
+            $contentChanged = false;
+        }
+    }
+    
+    if ($contentChanged) {
+        echo "    [Write] Saving compiled novel to: {$outputPath}\n";
+        file_put_contents($outputPath, $masterContent);
+        echo "    [Success] Finished lumping novel {$seriesTitle}\n\n";
+    } else {
+        echo "    [Unchanged] Skipping write for {$seriesTitle} (content identical, preserving mtime)\n\n";
+    }
 }
 
 echo "========================================================\n";

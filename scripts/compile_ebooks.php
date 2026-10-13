@@ -56,20 +56,34 @@ foreach ($dirs as $novelDir) {
     }
     $mdFile = $completeFiles[0];
 
-    // Establish output target directory and filenames
+    // Establish output target directory, filenames, and build hash tracking
     $outDir   = $outBaseDir . '/' . $slug;
     $epubFile = $outDir . '/' . $slug . '.epub';
     $pdfFile  = $outDir . '/' . $slug . '.pdf';
+    $hashFile = $outDir . '/.ebook_build_hash';
 
-    // Incremental build check: skip if both outputs exist and are newer than source Markdown
+    $currentHash = sha1_file($mdFile);
+
+    // Incremental build check: skip if both outputs exist and content is verified unchanged
     if (!$forceRebuild && file_exists($epubFile) && file_exists($pdfFile)) {
-        $srcMtime  = filemtime($mdFile);
-        $epubMtime = filemtime($epubFile);
-        $pdfMtime  = filemtime($pdfFile);
+        if (file_exists($hashFile)) {
+            $savedHash = trim((string)@file_get_contents($hashFile));
+            if ($savedHash === $currentHash) {
+                echo "Skipping $slug (up to date - hash verified). Use --force to rebuild.\n";
+                continue;
+            }
+        } else {
+            // Backward compatibility for pre-existing builds without hash file:
+            // Check mtime; if up-to-date, write hash file now so future runs are instant.
+            $srcMtime  = filemtime($mdFile);
+            $epubMtime = filemtime($epubFile);
+            $pdfMtime  = filemtime($pdfFile);
 
-        if ($epubMtime >= $srcMtime && $pdfMtime >= $srcMtime) {
-            echo "Skipping $slug (up to date). Use --force to rebuild.\n";
-            continue;
+            if ($epubMtime >= $srcMtime && $pdfMtime >= $srcMtime) {
+                @file_put_contents($hashFile, $currentHash);
+                echo "Skipping $slug (up to date - timestamps verified). Use --force to rebuild.\n";
+                continue;
+            }
         }
     }
 
@@ -138,6 +152,11 @@ foreach ($dirs as $novelDir) {
     // 7. Cleanup intermediate staging file
     if (file_exists($tmpMd)) {
         unlink($tmpMd);
+    }
+
+    // 8. Record the build hash upon successful completion
+    if (file_exists($epubFile) && file_exists($pdfFile)) {
+        file_put_contents($hashFile, $currentHash);
     }
     echo "  Done.\n";
 }

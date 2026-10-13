@@ -46,10 +46,13 @@ if (!is_dir($assetDestDir)) mkdir($assetDestDir, 0755, true);
 if (!is_dir($routesDestDir)) mkdir($routesDestDir, 0755, true);
 
 /**
- * Recursively removes a directory and all its contents.
- * Used for the destructive sync process.
+ * Recursively removes a directory and its contents, preserving compiled eBook deliverables.
+ *
+ * @param string $dir Target directory to prune.
+ * @param array $excludeExtensions File extensions to keep (e.g., ['epub', 'pdf']).
+ * @param array $excludeFiles Specific filenames to keep (e.g., ['.ebook_build_hash']).
  */
-function rrmdir($dir) {
+function rrmdir($dir, $excludeExtensions = ['epub', 'pdf'], $excludeFiles = ['.ebook_build_hash']) {
     if (is_dir($dir)) {
         $scanned = @scandir($dir);
         if ($scanned !== false) {
@@ -57,18 +60,27 @@ function rrmdir($dir) {
             foreach ($files as $file) {
                 $path = "$dir/$file";
                 if (is_dir($path)) {
-                    rrmdir($path);
+                    rrmdir($path, $excludeExtensions, $excludeFiles);
                 } else {
+                    $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+                    if (in_array($ext, $excludeExtensions, true) || in_array($file, $excludeFiles, true)) {
+                        // Preserve compiled e-books and incremental build hashes
+                        continue;
+                    }
                     @chmod($path, 0777); 
                     @unlink($path);
                 }
             }
         }
-        @chmod($dir, 0777);
-        if (!@rmdir($dir)) {
-            // Slight delay and retry in case of filesystem locks
-            usleep(50000); 
-            @rmdir($dir);
+        // Only remove directory if it is completely empty after pruning
+        $remaining = @scandir($dir);
+        if ($remaining !== false && count(array_diff($remaining, ['.', '..'])) === 0) {
+            @chmod($dir, 0777);
+            if (!@rmdir($dir)) {
+                // Slight delay and retry in case of filesystem locks
+                usleep(50000); 
+                @rmdir($dir);
+            }
         }
     }
 }
@@ -124,11 +136,11 @@ foreach ($narrativeDirs as $narrativeDir) {
     $seriesTitle = !empty($seriesMeta['series_title']) ? $seriesMeta['series_title'] : (isset($seriesMeta['title']) ? $seriesMeta['title'] : ucwords(str_replace('-', ' ', $narrativeName)));
     $seriesSlug = !empty($seriesMeta['series_slug']) ? $seriesMeta['series_slug'] : $narrativeName;
 
-    // --- STEP A: DESTRUCTIVE ASSET SYNC ---
-    // Completely replace the target asset directory to remove stale files
+    // --- STEP A: PRUNING ASSET SYNC ---
+    // Prune stale narrative scenes from target directory while preserving compiled eBooks
     $targetAssetDir = $assetDestDir . '/' . $seriesSlug;
     if (is_dir($targetAssetDir)) {
-        echo "  [Assets] Wiping existing CDN directory: {$targetAssetDir}\n";
+        echo "  [Assets] Pruning stale files in CDN directory (preserving .epub/.pdf): {$targetAssetDir}\n";
         rrmdir($targetAssetDir);
     }
     echo "  [Assets] Copying Markdown and assets to CDN...\n";
