@@ -11689,7 +11689,7 @@ The mundane, aggressive cheerfulness of the commercial was grounding. It was pro
 
 Then, the static hissed as the station signal adjusted. A smooth DJ voice broke in.
 
-*"That was a word from our sponsors. Now, we’re getting back to our Saturday block. We’re keeping it retro this afternoon. Here’s a deep cut for anyone out there weathering a storm. This is Mirage."*
+*"That was a word from our sponsors. Now, we’re getting back to our Saturday block with a back-to-back double feature from The Paper Wall's Static & Silence, Book 2. Here’s a deep cut for anyone out there weathering a storm. This is 'Sanctuary.'"*
 
 The synth pads swelled—warm, expansive, and distinctly 1980s. A clean, melodic electric guitar riff cut through the air, crying out with a gentle, melancholy hope.
 
@@ -11755,7 +11755,7 @@ Freddie took a breath. It didn't shudder this time.
 
 The reverb of "Sanctuary" had barely faded when the DJ’s voice returned, slick and energetic, jarring against the heavy emotional air in the room.
 
-"That was Mirage, holding you close. But sometimes, you gotta fight your way out of the dark before you can find the light. Here’s a track that starts in the gutter and ends in the sky. This is 'Haven City' by Steel Horizon."
+"That was The Paper Wall with 'Sanctuary,' holding you close. Continuing our Static & Silence, Book 2 double feature—because sometimes, you gotta fight your way out of the dark before you can find the light. Here’s a track that starts in the gutter and ends in the sky. This is 'Haven City' by The Paper Wall."
 
 The speaker thumped. A heavy, distorted drum machine kicked in—thud-clank, thud-clank—accompanied by a pulsing, predatory synth-bass.
 
