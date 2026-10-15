@@ -182,6 +182,11 @@
 |University of Washington|Northwest Pacific University (NPU)|Located in Seattle.|
 |James Madison University|Shenandoah Valley University (SVU)|University.|
 |Whatcom Community College|Bellingham Community College (BCC)|Community college.|
+|Virginia Tech|Commonwealth Polytechnic Institute (CPI)|Located in Blacksburg, VA. Teams: The Forgers. Football Stadium: The Crucible (North End Zone bleachers: The Anvil). Fanatical student section: The Ironheads.|
+|Old Dominion University (ODU)|Virginia Dominion University (VDU)|Located in Norfolk, VA. Teams: The Monarchs ("Norfolk"). Fierce CPI rival following the 2014 (38–0 VDU) and 2015 (52–0 CPI) Homecoming Shutout War.|
+|University of Virginia (UVA)|Virginia Piedmont University (VPU) / Piedmont Virginia University (PVU)|Traditional state university rival of CPI.|
+|West Virginia University (WVU)|Monongahela State University (MSU)|Appalachian border rival of CPI. Teams: The Coalminers. Rivalry: The Coal & Iron Border War (The Black Anvil Trophy).|
+|Duke University|Buchanan University|Located in Durham, NC. Basketball Arena: Buchanan Indoor Pavilion. Famous basketball student section: The Pavilion Lunatics.|
 |The Smithsonian|The Finch Endowment|Founded by Lord Alistair Finch.|
 |The Breakers / Vanderbilts|Stanton's Reach / The Stantons|Gilded Age mansion and the associated wealthy family.|
 |Mystic Aquarium|Coastal Wonders Marine Center|Marine aquarium.|
@@ -195,7 +200,10 @@
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
 |Major League Baseball|Federated Baseball League (FBL)|Professional baseball league.|
-|Boston Red Sox|Boston Beacons|FBL Baseball team.|
+|Boston Red Sox|Boston Beacons|FBL Baseball team. Plays at **Back Bay Park**, where fans belt the eighth-inning horn hook of *"Sweet Evangeline"*.|
+|Fenway Park|Back Bay Park|Historic Boston ballpark and home of the FBL's Boston Beacons.|
+|"Sweet Caroline" (Neil Diamond)|"Sweet Evangeline"|Iconic eighth-inning horn-hook ballpark singalong at Back Bay Park.|
+|Heisman Trophy|The Gridiron Trophy|Premier collegiate football individual player award.|
 |New York Yankees|Empire City Emperors|FBL Baseball team.|
 |WWF / WWE|AWF / AWE|**American Wrestling Federation** transitioning to **American Wrestling Entertainment**.|
 |World Wildlife Fund (WWF)|The Animal Welfare Fund (AWF)|London-based international animal rescue network. Successfully sued Victor Cross in the English High Court in 2002 for violating a 1994 agreement, forcing the AWE rebrand.|
