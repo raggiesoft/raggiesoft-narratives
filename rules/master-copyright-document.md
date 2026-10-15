@@ -44,6 +44,8 @@
 | TransLink (Vancouver, BC)            | PacificLink                                                | The regional transportation network for the Greater Vancouver area. They successfully deployed the "COMPASS" smart-card system, which is why the TAPS committee had to pivot to WAVE.                                                                                                                                                                                                                   |
 | BC Transit                           | Columbia Provincial Transit (CPT)                          | The broader provincial transit network. Operated the entire region until PacificLink broke off as an independent entity to manage the Greater Vancouver grid.                                                                                                                                                                                                                                           |
 | Vancouver Pacific Central Station    | Pacific Central Terminus                                   | The northern hub for ARTS. Jessica arrived here via the ARTS Cascadian route from the TAPS Tukwila Provisional Platform during a major Quantum enterprise deployment.                                                                                                                                                                                                                                   |
+| Blacksburg Transit (BT)              | Blue Ridge Transit (BRT)                                   | Municipal & university transit network serving Blacksburg, Christiansburg, and CPI. Fare system: **PolyPass** (integrated into CPI student ID). Operates 40-foot and 60-foot Prairie Coachworks articulated buses (*Route 1: The Spine* and game-day *Crucible Shuttles*). |
+| Falling Branch Park & Ride (Exit 118)| Christiansburg Transit Center at Falling Branch            | VDOT-owned 8-level, 6,000-space intercept parking garage & 8-bay Blue Ridge Transit terminal at I-81 Exit 118. Features WSDOT-style direct I-81 ramps for all vehicles and `BUSES ONLY` direct flyover ramps onto US-460 Bypass toward Blacksburg. |
 
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
@@ -61,6 +63,8 @@
 |Tucker Sno-Cat|Alpine-Cat|Tracked snow vehicles.|
 |Caterpillar|Terratrac|The D-8 Dozer is the Terratrac T-8.|
 |Gillig|Stalwart|Heavy-duty transit buses.|
+|New Flyer|Prairie Coachworks|Heavy-duty low-floor municipal transit and articulated buses (e.g., 30-foot RLFD30, 40-foot D40LF/RLFD40, and 60-foot D60LF/RLFD60 articulated coaches).|
+|Prevost|Sainte-Claire|High-deck luxury over-the-road motorcoaches manufactured in Sainte-Claire, Québec (e.g., the 45-foot *Sainte-Claire 45H3* / "The Iron Horse").|
 |Greyhound Lines|Pathfinder|Intercity bus service.|
 |Amtrak|ARTS|American Rail Transit Service.|
 |Southwest Airlines|Gateway Airlines|Domestic airline.|
