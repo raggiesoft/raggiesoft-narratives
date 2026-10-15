@@ -70,7 +70,7 @@ Listen to the silence.
 ### Styles to Exclude
 male vocals, duet, modern pop, hip hop, rap, acoustic, lo-fi, dance, techno, edm, fast tempo, sleepy, sluggish, dragging
 
-# Seconds into Forever
+# Seconds Into Forever
 * Length: 2:32
 * The goal of this song was meant to be a quick song that would be played during a Speed Dating round: you have until the end of the song plays to get to know the person sitting across the table from you before moving to the next person
 ## Lyrics
