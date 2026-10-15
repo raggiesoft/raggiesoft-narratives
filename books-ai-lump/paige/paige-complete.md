@@ -16150,7 +16150,7 @@ He picked up his pen. "Now, the logistical issue. Service of process. Where do w
 
 Freddie frowned. He accessed his memory archives. He searched for the file labeled *Project Helios: Group Meetings*.
 
-**Date:** February 12, 2004. **Location:** Newman Library. **Context:** Spring Break logistics discussion.
+**Date:** February 12, 2004. **Location:** Pendleton Library. **Context:** Spring Break logistics discussion.
 
 He saw Vanessa sitting across the table. She was complaining about the dorms closing for break.
 
@@ -16242,7 +16242,7 @@ They walked out of the office, armed with the truth, ready to defend the Base ag
 
 ### Scene 3: The Null Hypothesis
 
-Jessica walked through the automatic sliding doors of Newman Library. She wasn't wearing her usual student attire of jeans and a Forger t-shirt. She was wearing "Business Armor"—black slacks, a crisp blouse, and boots that clicked with authority on the tile floor.
+Jessica walked through the automatic sliding doors of **Pendleton Library**. She wasn't wearing her usual student attire of jeans and a Forger t-shirt. She was wearing "Business Armor"—black slacks, a crisp blouse, and boots that clicked with authority on the tile floor.
 
 She carried a thick, cream-colored envelope bearing the return address of **Sterling & Associates, Attorneys at Law**.
 

@@ -1318,7 +1318,7 @@ Jordan quickly pulled up his master schedule on his Vanguard Pro, though he alre
 
 *Yes. At noon,* EchoType replied in its crisp Australian cadence.
 
-"Perfect," she beamed. "Meet me at the dining hall? Newman Commons?"
+"Perfect," she beamed. "Meet me at the dining hall? Kincaid Commons?"
 
 *Yeah. Okay. Lunch.*
 
@@ -1472,7 +1472,7 @@ As Dr. Gable formally dismissed the class, Sarah slung her backpack over her sho
 
 "Where are you heading next?" she asked easily.
 
-Jordan quickly typed into his terminal. <aac>Newman Commons. Lunch.</aac>
+Jordan quickly typed into his terminal. <aac>Kincaid Commons. Lunch.</aac>
 
 "Perfect, that’s exactly on the way to my next lecture," Sarah smiled. "I’m heading to the building right across from the lower delivery bays. You want a lift? These hills are absolute murder before noon."
 
@@ -1480,7 +1480,7 @@ Jordan hesitated for a fraction of a second before nodding. Sarah seamlessly ste
 
 As they navigated the winding concrete paths downward, Jordan realized that his new friend was surprisingly strong. She handled the steep, downward grades with ease, holding the chair steady so gravity didn't rip it out of her control, chatting happily about the history syllabus the entire time. It was a massive relief not to have to fight the terrain, but more importantly, he was struck by how normal it felt. Sarah didn't act like she was doing a noble, charitable deed; she just saw a friend who needed to go in the same direction.
 
-When they reached the bottom of the hill, they arrived at the rear, ground-level entrance of Newman Commons. The massive brick building was built directly into the incline, meaning the main entrance was a full story above them on the upper quad.
+When they reached the bottom of the hill, they arrived at the rear, ground-level entrance of Kincaid Commons. The massive brick building was built directly into the incline, meaning the main entrance was a full story above them on the upper quad.
 
 "Right, this is my stop," Sarah said, bringing the chair to a halt on the concrete patio just outside the delivery bays. She walked around to the front, offering a warm, polite smile and a quick wave. "Brilliant working with you today, Jordan. See you on Wednesday."
 
@@ -1618,7 +1618,7 @@ Aubrie checked the clock on the dining hall wall. It was 12:45 PM.
 
 **Date:** 2014-08-25 at 12:55
 
-Aubrie pushed Jordan’s wheelchair across the sunlit quad toward Miller Hall, the administrative heart of the campus. The building housed the Office of Educational Accessibility, and as they rolled through the heavy glass doors into the air-conditioned lobby, the reality of the clock finally caught up to them.
+Aubrie pushed Jordan’s wheelchair across the sunlit quad toward Callahan Hall, home to the university's disability and accessibility offices. The building housed the Office of Educational Accessibility, and as they rolled through the heavy glass doors into the air-conditioned lobby, the reality of the clock finally caught up to them.
 
 It was 12:55 PM. Aubrie had a 1:00 PM calculus lecture on the exact opposite side of campus.
 
@@ -1698,7 +1698,7 @@ Ms. Higgins nodded knowingly. "Aura Glade is fantastic for stability, but it fam
 
 "I am sending out an official email blast to all of your professors this afternoon to formally recruit peer note-takers for your remaining classes," she explained. "Usually, the professor makes an anonymous announcement. But since you already have Aubrie in Astronomy, and you mentioned your new friend Sarah in History, you can bypass the recruitment phase for those two entirely. Just hand these Authorization Forms directly to them."
 
-She tapped the extra packets on the desk. "I'm giving you a few extra copies to keep in your bag, too. Just in case you make another friend in your afternoon classes who wants to volunteer."
+She tapped the extra packets on the desk. "I'm giving you a few extra copies to keep in your bag, too. Just in case you make another friend in your afternoon classes who wants volunteer."
 
 Jordan looked at the packets. <aac>Will they get in trouble for doing it?</aac> he typed quickly.
 
@@ -1716,7 +1716,7 @@ Jordan looked down at the slip of paper resting next to the FM receiver, the mPa
 
 "Don't thank me yet, Jordan," Ms. Higgins smiled warmly, closing his file. "We're just getting started."
 
-Ten minutes later, Jordan rolled out of Ms. Higgins's office and back into the sunlit lobby of Miller Hall. His backpack was heavier now, but he felt lighter than he had his entire life.
+Ten minutes later, Jordan rolled out of Ms. Higgins's office and back into the sunlit lobby of Callahan Hall. His backpack was heavier now, but he felt lighter than he had his entire life.
 
 He parked his wheelchair near the glass doors, pulled his mPhone from his pocket, and opened a new text message to Sarah.
 
@@ -1814,7 +1814,7 @@ But no one minded the tight squeeze. The cramped quarters just forced a comforta
 
 Up on the top bunk, her back pressed against the cool cinderblock wall to carve out a tiny pocket of privacy, Lauren Barnes was on a video call with her boyfriend, Tom.
 
-"...and my last lecture finished late, so I had to sprint to Newman Commons before the grill closed," Lauren finished, keeping her voice low so she didn't disrupt the laughter echoing in the small room below her. "It was a crazy day. How was yours?"
+"...and my last lecture finished late, so I had to sprint to Kincaid Commons before the grill closed," Lauren finished, keeping her voice low so she didn't disrupt the laughter echoing in the small room below her. "It was a crazy day. How was yours?"
 
 "Boring without you," Tom said through the phone speakers. He was sitting in his own dorm room, tossing a lacrosse ball up and catching it. "So, how are the roommates? Not driving you crazy yet?"
 
@@ -2184,7 +2184,7 @@ Dr. Evans smiled, completely unaware of the unconventional lengths the girls of 
 
 **Date:** 2014-08-26 at 12:15
 
-By the time the massive ten-person entourage made it to Newman Commons, the lunchtime rush was in full swing. It took some serious maneuvering, but Mark and Sarah managed to push three rectangular tables together near the back windows, creating enough space for everyone, including a spot at the head of the table for Jordan’s wheelchair.
+By the time the massive ten-person entourage made it to Kincaid Commons, the lunchtime rush was in full swing. It took some serious maneuvering, but Mark and Sarah managed to push three rectangular tables together near the back windows, creating enough space for everyone, including a spot at the head of the table for Jordan’s wheelchair.
 
 The energy was loud, chaotic, and incredibly warm. They traded stories about their bizarre first-day professors, the dreadful dining hall pizza, and the absolute absurdity of their shared health class.
 
@@ -2472,7 +2472,7 @@ Instead, a massive, delighted grin broke across Sarah's face.
 
 Jordan let out a massive, shaky breath of pure relief, a genuine smile finally matching hers.
 
-"Alright, team," Zoë announced, stepping through the bathroom door from Room 216, her analytical gray eyes sweeping the room. "The emotional bonding sequence is complete. If we wish to secure a table at Newman Commons before the 8:00 AM rush, we must depart immediately."
+"Alright, team," Zoë announced, stepping through the bathroom door from Room 216, her analytical gray eyes sweeping the room. "The emotional bonding sequence is complete. If we wish to secure a table at Kincaid Commons before the 8:00 AM rush, we must depart immediately."
 
 "She's right," Madison said, grabbing her backpack. "Let's go get some breakfast!"
 
