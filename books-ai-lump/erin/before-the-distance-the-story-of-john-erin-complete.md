@@ -12,13 +12,13 @@ title: "Before the Distance: The Story of John & Erin"
 
 The dual-motor drive base of John's power wheelchair hummed in a steady, low-frequency harmony with Erin's chair beside him as they crested the final paved incline leading up from the Commonwealth Green to the Ironstone archway of Kincaid Hall.
 
-Anyone who tried to navigate Commonwealth Polytechnic Institute in a manual chair learned the hard way within forty-eight hours of freshman orientation that Blacksburg was carved into the side of the Blue Ridge Mountains. Between the sweeping oval bowl of the Commonwealth Green, the steep Ironstone steps climbing toward Faraday Hall on the Engineering Quad, and the long, relentless grades running down to Progress Street NW, torque and battery reserves were non-negotiable.
+Anyone who tried to navigate Commonwealth Polytechnic Institute in a manual chair learned the hard way within forty-eight hours of freshman orientation that Blacksburg was carved into the side of the Blue Ridge Mountains. Between the sweeping oval bowl of the Commonwealth Green, the steep Ironstone steps climbing toward Faraday Hall on the Engineering Quad, and the grades leading off campus toward Progress Street NE, torque and battery reserves were non-negotiable.
 
 John eased his thumb off the rubberized joystick mounted on his right armrest, bringing his chair to a smooth, zero-radius halt just inside the warm atrium of Kincaid Student Center. Beside him, his fraternal twin sister Erin tapped her own joystick into neutral and reached up to adjust her round tortoiseshell glasses, her long wavy brown hair catching the warm amber glow of the hall sconces.
 
 "Check your battery gauge," Erin said, glancing over at his armrest console. "That climb up from Faraday Hall always eats an extra bar."
 
-"Four green LEDs out of five," John replied, adjusting his own matching tortoiseshell frames and smoothing the hem of his maroon sweater. He looked down the second-floor corridor toward the open double doors of the lounge, where a hand-lettered poster taped to the Ironstone pillar read *FRIDAY NIGHT CAMPUS SPEED-DATING MIXER — 7:00 PM*. "Which means I physically have enough range to turn around, take the elevator back down, and roll all the way back to the apartment."
+"Four green LEDs out of five," John replied, adjusting his own matching tortoiseshell frames and smoothing the hem of his maroon sweater. He looked down the second-floor corridor toward the open double doors of the lounge, where a hand-lettered poster taped to the Ironstone pillar read *FRIDAY NIGHT CAMPUS SPEED-DATING MIXER — 7:00 PM*. "Which means I physically have more than enough range to turn around, take the elevator back down, and roll the two blocks home to Progress Street."
 
 "Not a chance," Erin grinned, nudging the rubber bumper of her footplate lightly against the side of his caster wheel. "You promised me one hour out of the lab. Twenty tables, three minutes per round. If it's a disaster, we hit The Foundry for late-night waffle fries and call it field research."
 
@@ -103,7 +103,7 @@ Cold November rain slanted sideways across Commonwealth Mall, drumming against a
 
 Along Commonwealth Mall, catching a bus at five o'clock on a weekday evening was an absolute logistical nightmare. Every single Blue Ridge Transit route staged bumper-to-bumper along the open curb between Kincaid Hall and Pendleton Library, their forty- and sixty-foot diesel engines idling in a deafening, exhaust-choked line while delivery vans, soaked pedestrians, and bicycles fought for every inch of wet asphalt.
 
-Erin sat in her power wheelchair just inside the dry stone shadow of The Keystone Bridge's northern arch, her maroon CPI windbreaker zipped to her chin and her hands tucked into fleece-lined gloves. Every thirty seconds, her eyes flicked from the chaotic wall of glowing amber LED bus headboards lining the Commonwealth Mall curb down the long, wet concrete incline leading up from Faraday Hall and the Commonwealth Green.
+Erin sat in her power wheelchair on the sidewalk just inside the dry stone shadow of The Keystone Bridge's northern arch, her maroon CPI windbreaker zipped to her chin and her hands tucked into fleece-lined gloves. The twins' accessible ground-floor apartment on Progress Street NE was only two blocks away—a five-minute roll down the sidewalk—and John had promised to meet her here after his afternoon lab so they could head home together. Yet every thirty seconds, Erin's eyes flicked from the chaotic wall of glowing amber LED bus headboards lining the Commonwealth Mall curb down the long, wet concrete incline leading up from Faraday Hall and the Commonwealth Green.
 
 It had been sixty-two days since the speed-dating mixer in Kincaid Hall.
 
@@ -111,119 +111,137 @@ In the first two weeks after that Friday night, Valerie had seemed like a whirlw
 
 Then, week three had arrived, and the perimeter had begun closing like a vise.
 
-First came the canceled Friday dinners on Progress Street—always explained away by a sudden "migraine" or an "emergency" that required John's undivided attention at Valerie's off-campus duplex. Next came the phone calls where Valerie's voice was audible in the background, coaching John on what to say, followed by nights when John's cell phone went straight to voicemail for thirty-six hours at a stretch. When Erin had finally bumped into them outside the Kincaid Hall bookstore the previous week, Valerie had answered every single question directed at John, smiling coldly while resting both hands on the rear push-handles of John's power wheelchair as if she owned the chassis.
+First came the canceled Friday dinners on Progress Street NE—always explained away by a sudden "migraine" or an "emergency" that required John to take the Blue Ridge Transit bus south to Valerie's off-campus duplex in Christiansburg. Next came the phone calls where Valerie's voice was audible in the background, coaching John on what to say, followed by nights when John's cell phone went straight to voicemail for thirty-six hours at a stretch. When Erin had finally bumped into them outside the Kincaid Hall bookstore the previous week, Valerie had answered every single question directed at John, smiling coldly while resting both hands on the rear push-handles of John's power wheelchair as if she owned the chassis.
 
 Erin's jaw tightened as two figures finally appeared through the mist at the bottom of the rain-slicked pedestrian walk from the Commonwealth Green.
 
 John's power wheelchair was climbing the grade toward The Keystone Bridge at half its normal speed. Even from forty feet away, Erin could see why: Valerie was walking right beside his left wheel, one hand clamped tightly around the upright frame of his backrest while the other held a single black umbrella angled entirely over her own head, leaving cold rainwater to drip steadily off the rims of John's tortoiseshell glasses.
 
-As they rolled beneath the vaulted Ironstone arch of The Keystone Bridge above the roaring curbside line of buses, Erin felt a cold knot twist in her stomach.
+As they rolled beneath the vaulted Ironstone arch of The Keystone Bridge beside the roaring curbside line of buses, Erin felt a cold knot twist in her stomach.
 
 John looked hollowed out. Dark, bruised shadows hung beneath his eyes. His shoulders were hunched inward over his armrests, his gaze fixed on the wet concrete three feet ahead of his front casters—a quiet surrender in a crowded place. He wore a polite, practiced smile as he looked up at Erin, but the edges of the mask were completely frayed.
 
 "Hey, Er," John said quietly, his voice barely audible over the hiss of air brakes along the Commonwealth Mall curb.
 
-"You're soaking wet, John," Erin said, driving her chair forward half a length so she was directly facing her brother. She pulled a dry microfiber cloth from her side pouch and held it out for his glasses. "I thought we were meeting inside the Kincaid atrium at four-thirty so we could go over the thermodynamics packet together."
+"You're soaking wet, John," Erin said, driving her chair forward half a length so she was directly facing her brother. She pulled a dry microfiber cloth from her side pouch and held it out for his glasses. "Come on—home is two blocks away. Let's get you out of the rain and back to Progress Street so we can warm up and go over the thermodynamics packet."
 
 Before John could reach for the cloth, Valerie stepped half a pace forward, positioning her hip right beside John's armrest controller.
 
-"We had errands to run, Erin," Valerie said, her tone syrupy and sharp all at once. She took the cloth out of Erin's hand and wiped the rain off John's frames herself, as though John's own arms didn't work. "And honestly, John is completely burned out from carrying your shared study load this semester. He doesn't have time to ride back to Progress Street with you tonight. We only stopped by the Commonwealth Mall bus line so he could drop off your textbook before we head back to my place for the weekend."
+"We have plans, Erin," Valerie said, her tone syrupy and sharp all at once. She took the cloth out of Erin's hand and wiped the rain off John's frames herself, as though John's own arms didn't work. "And honestly, John is completely burned out from carrying your shared study load this semester. He's not going back to Progress Street with you tonight. We only stopped by Commonwealth Mall so he could drop off your textbook before he gets on the bus with me for the weekend."
 
 Erin didn't look at Valerie. She kept her eyes locked straight on her twin brother's face.
 
-When Valerie mentioned going back to her place for the weekend, John's right hand—resting near his joystick—flinched almost imperceptibly, his knuckles turning white against the black foam pad. He didn't argue. He didn't correct her. He just looked down at his lap, reaching into his backpack with trembling fingers to pull out the heavy hardcover textbook.
+When Valerie mentioned getting on the bus to go to her place for the weekend, John's right hand—resting near his joystick—flinched almost imperceptibly, his knuckles turning white against the black foam pad. He didn't argue. He didn't correct her. He just looked down at his lap, reaching into his backpack with trembling fingers to pull out the heavy hardcover textbook.
 
 In twenty years of sharing a life, John had never once flinched at the thought of going home.
 
-*He's trapped,* Erin realized, the cold math locking into place in her chest. *She's isolating him for the entire weekend, and he thinks he has to endure it.*
+*He's trapped,* Erin realized, the cold math locking into place in her chest. *Home is two blocks away, and she's forcing him onto that bus to isolate him for the entire weekend.*
 
 ### Scene 2: When the Steel Doors Close
 
 **Date:** 2004-11-18 at 17:30 America/New_York
 
-The hydraulic pump beneath the front passenger boarding door of the Blue Ridge Transit coach whined, a mechanical two-second warning before the driver raised the aluminum ramp from the Commonwealth Mall curb.
+At the curb directly beside them, a sixty-foot articulated Blue Ridge Transit coach hissed to a stop in the bumper-to-bumper lineup along Commonwealth Mall. Its amber overhead LED sign glowed through the sheets of rain—`1 FALLING BRANCH`—as the front pneumatic suspension kneeled toward the granite curb, the dual-leaf front boarding doors folded open, and the yellow-bordered aluminum ADA wheelchair ramp unfolded onto the wet sidewalk.
 
-Inside the warm forward vestibule of the bus, Erin's right hand hovered over the joystick of her power wheelchair. Through the rain-streaked glass of the open front door, amid the chaotic glare of headlights and hazard flashers from half a dozen other buses wedged bumper-to-bumper along the avenue, she watched Valerie's manicured fingers tighten into the fabric of John's wet sleeve. Valerie was already pivoting him back beneath the stone arch of The Keystone Bridge toward the graduate parking lot behind Pendleton Library—and to another night behind a closed apartment door where John's phone would stay face-down on a kitchen counter.
+"That's our bus, John," Valerie said briskly, tapping the back of John's shoulder as she stepped toward the foot of the front-door ramp. "Put your chair in gear and roll on up. Erin has her textbook—she can walk the two blocks back to Progress Street on her own."
 
-John looked back toward the bus one last time. His glasses were fogged at the edges, his shoulders hunched against the freezing Blacksburg rain, his right hand limp and motionless beside his controller. He looked like a man watching the last lifeboat pull away from a sinking pier because someone had convinced him he didn't deserve a seat on it.
+For three seconds, Erin sat frozen under the stone arch of The Keystone Bridge, the heavy textbook resting in her lap. Every polite social rule she had been raised with told her to nod, stay out of a couple's argument in public, and roll the two blocks back to Progress Street NE alone.
+
+Then John looked back at her as Valerie nudged his backrest toward the open front door of the bus.
+
+His glasses were fogged at the edges, his shoulders hunched against the freezing Blacksburg rain, his right hand limp and motionless beside his controller. In his eyes was a silent, drowning plea—a man about to be swallowed by the distance the second those steel bus doors closed behind him.
 
 *Not tonight,* Erin thought. *Not my brother.*
 
-"Hold the ramp!" Erin called out, her voice ringing clear and sharp right beside the driver's compartment.
+Before John's front casters could touch the bottom lip of the aluminum bus ramp, Erin pushed her joystick forward. Her dual electric motors engaged with a deep, authoritative hum. She drove straight out from beneath the bridge arch across the rain-slicked sidewalk of Commonwealth Mall, cutting across the concrete at a sharp angle and locking her brakes directly between John's footrests and the deployed front ramp of the bus.
 
-Before the driver could touch the toggle switch, Erin pulled her joystick straight back. Her dual electric motors engaged with a deep, authoritative hum. She backed out of the forward wheelchair bay, executed a tight zero-turn pivot on the ribbed floor plates beside the farebox, and drove straight down the wet aluminum ramp of the front boarding door onto the rain-slicked sidewalk of Commonwealth Mall.
+Cold rain pelted her maroon CPI jacket and speckled the lenses of her glasses as she reached across the narrow gap between their armrests, covering John's cold, trembling right hand with her warm palm.
 
-Cold rain pelted her maroon CPI jacket and speckled the lenses of her glasses. She didn't slow down until her front caster wheels stopped three inches from John's footrests beneath The Keystone Bridge, positioning the heavy steel frame of her power wheelchair directly between her twin brother and Valerie.
+"Don't get on that bus, John," Erin said, her voice ringing clear and steady over the rumble of the idling diesel engine. "Come home with me instead. Progress Street is two blocks away."
 
-Valerie blinked, her practiced, patient smile faltering for a fraction of a second before snapping back into place. "Erin, sweetheart, the bus is holding up the entire Commonwealth Mall line. You're going to miss your ride back to Progress Street."
+Valerie's practiced, patient smile vanished. "Erin, excuse me—you are literally blocking the bus ramp. John and I are going to my place for the weekend, and the driver is waiting. Move your chair."
 
-"I'm not missing anything," Erin said. She didn't look at Valerie. She looked straight into John's eyes and reached across the gap between their armrests, covering his cold, trembling right hand with her warm palm. "John. Put your chair in gear. You're coming home with me."
+"I'm not talking to you," Erin said without glancing in Valerie's direction. She kept her eyes locked entirely on her twin brother's face, her fingers tightening protectively over his wrist on the armrest. "John, look at me. You don't want to get on this bus. I can see it in your eyes. Home is two blocks down the sidewalk. Turn your chair around and come home with me."
 
-John stared at her, his breath catching in his throat. "Erin, I—Valerie and I have dinner on the stove, and we still need to finish going over—"
+"Erin, I—" John's voice cracked, his chest rising and falling rapidly as he looked from the open doorway of the bus to his sister's rain-streaked face. "Valerie already made plans for the weekend, and if I don't get on the bus—"
 
-"Now," Valerie cut in, her voice dropping half an octave as the honeyed veneer cracked. She stepped forward, trying to wedge her umbrella between the twins' chairs. "John is an adult, Erin, and we already have plans for the evening. It really isn't healthy the way you keep trying to—"
+"John, get on the bus right now!" Valerie snapped, her voice dropping half an octave as the honeyed veneer shattered in front of the whole queue of wet undergrads waiting along Commonwealth Mall. She clamped her manicured fingers tightly onto John's wet sleeve, trying to pull his arm toward the joystick to steer him around Erin's frame. "I am not standing out here in the rain having a scene with your sister! Drive up the ramp, now!"
 
 "Take your hand off his sleeve," Erin said.
 
 She didn't shout. She didn't have to. There was an immovable, bedrock certainty in her voice—the same quiet steel that had carried both of them through nineteen years of hospital corridors, physical therapy gyms, and steep mountain grades.
 
-Valerie froze, her fingers still pinched around John's cuff. Around them, half a dozen soaked undergrads queued along the Commonwealth Mall curb under The Keystone Bridge turned their heads to watch. Under the bright amber glow of the bus's front destination sign and headlights, Valerie's favorite weapon—secrecy—had just evaporated.
+"John," Erin said softly, squeezing his hand at the foot of the ramp. "Remember the fourth-grade hill behind the middle school when my battery cable snapped in the sleet? You hooked your tow strap to my frame and burned out half your motor pulling both of us to the top. You don't owe anyone your disappearance. Don't let those doors close on you. Come home with me."
 
-"John," Erin said softly, squeezing his fingers until the tremor in his hand steadied against hers. "Look at me. Remember the fourth-grade hill behind the middle school when my battery cable snapped in the sleet? You hooked your tow strap to my frame and burned out half your motor pulling both of us to the top. You don't owe anyone your disappearance. Come with me. Right now."
-
-John looked down at Erin's hand over his. Then he looked at Valerie's white-knuckled grip on his jacket sleeve—at the flash of cold, undisguised fury in Valerie's eyes now that the polite mask had slipped away.
+John looked down at Erin's hand clasped over his across their armrests. Then he looked at Valerie's white-knuckled grip twisting his jacket sleeve toward the bus ramp—and at the flash of cold, undisguised fury in Valerie's eyes now that the polite mask had slipped away.
 
 Something inside John's chest unlocked.
 
-Without a word to Valerie, John pulled his arm free from her grasp. His right thumb found his joystick. The green LEDs on his power base flared to life, and his motors hummed in unison with his sister's.
+"Last call for Route 1!" the bus operator called out from the driver's seat, his hand hovering over the ramp toggle switch. "Are you folks boarding or staying?"
 
-"John, if you get on that bus right now, don't bother calling me tonight," Valerie hissed, stepping back onto the wet brick beneath the bridge arch as her composure fractured completely. "I mean it, John!"
+"He's staying," Erin said.
 
-"Go ahead, John," Erin said, reversing her chair back up the yellow-bordered aluminum front ramp to clear his path. "Right behind me."
+"I'm staying," John echoed, his voice steadying for the first time in weeks.
 
-John pushed his joystick forward. His tires gripped the diamond-plate aluminum of the front-door ramp, climbing out of the cold November rain and into the warm, amber-lit cabin of the Blue Ridge Transit coach. He wheeled into the second securement bay right beside Erin's chair, his wet sleeve brushing hers as the driver flipped the hydraulic switch.
+He pulled his arm free from Valerie's grasp, gripped his joystick, and pulled it straight back. His electric motors hummed in unison with Erin's as he reversed his power wheelchair three feet away from the aluminum ramp, pivoting on the wet concrete until his wheels were aligned side-by-side with his twin sister's on the Commonwealth Mall sidewalk.
 
-The aluminum ramp folded upward into the front stepwell with a heavy metallic clank. The dual-leaf steel front doors hissed shut, sealing out the wind, the diesel exhaust, the rain, and the woman standing rigid and furious on the curb beneath The Keystone Bridge.
-
-As the bus pulled out of the chaotic curbside lineup and rolled down Commonwealth Mall toward Main Street and Progress Street NW, John let out a long, shuddering breath and leaned his head back against his headrest. Across the narrow aisle between their chairs, Erin reached out and took his hand again—and this time, she didn't let go until they reached home.
+At the curb, the hydraulic pump whined. The yellow-bordered aluminum ramp folded upward into the front stepwell with a heavy metallic clank, and the dual-leaf steel doors hissed shut—sealing the bus closed while John and Erin remained together on the sidewalk.
 
 ## Sanctuary in the Storm
 
 ### Scene 1: The Locked Perimeter
 
-**Date:** 2004-11-19 at 20:00 America/New_York
+**Date:** 2004-11-18 at 17:35 America/New_York
 
-The November storm hadn't broken; it had only deepened, lashing freezing rain against the double-paned front window of Erin's ground-floor apartment on Progress Street NW.
+As the first articulated coach pulled away from the granite curb in a cloud of diesel spray, a second Blue Ridge Transit bus immediately rolled forward to take its place along the Commonwealth Mall sidewalk, its air brakes sighing as its front boarding doors hissed open.
 
-Inside, the apartment smelled of toasted sourdough, cinnamon tea, and the familiar, ozone-clean warmth of two charging power wheelchairs parked side by side near the hallway outlet.
+Valerie hadn't gotten on the first bus. Instead, she stepped across the wet concrete directly into the path of the twins' power wheelchairs, her black umbrella trembling in her fist as freezing November rain lashed sideways beneath the arch of The Keystone Bridge.
 
-John sat in his desk chair by the living room radiator, a thick flannel blanket draped across his knees and his glasses resting on the coffee table beside an untouched mug of tea. Five feet away, on the kitchen counter, his flip phone vibrated against the laminate. It was the nineteenth time it had buzzed since noon. Every message wore a different costume: three paragraphs of wounded martyrdom at one o'clock, a clipped demand that he return a borrowed textbook at three, a sudden, tearful apology at five, and a cold ultimatum by seven.
+"John, stop being ridiculous and get on the bus right now," Valerie demanded, pointing toward the open front door of the second coach idling at the curb. Every trace of the warm, magnetic woman from Table 4 was gone, replaced by a brittle, commanding fury. "The driver just opened the ramp. If you let your sister drag you down the street like a child instead of getting on this bus with me right now, we are done. Do you hear me? Get on the bus!"
 
-Each time the little plastic casing hummed against the counter, a phantom reflex twitched in John's shoulders—the conditioned urge to apologize, to explain himself, to fix the weather inside someone else's head before the lightning struck.
+A conditioned reflex twitched in John's shoulders—two months of trained muscle memory telling him to apologize, to appease her, to roll up that ramp just to stop the storm in her voice.
 
-Footsteps didn't cross the hardwood floor; instead, the quiet, steady whirr of Erin's indoor mobility setup glided into the kitchen. She didn't ask permission. She picked up John's flip phone, pressed and held the red power key until the little blue LCD screen went dark, and dropped the silent phone into the ceramic cookie jar beside the toaster.
+Beside him on the sidewalk, Erin didn't yield an inch.
 
-"Out of range," Erin said, setting the ceramic lid back in place with a decisive clink.
+She eased her thumb forward on her joystick, advancing her power wheelchair half a length and angling her heavy steel frame at forty-five degrees between Valerie and John's left drive wheel—establishing a physical, locked perimeter right on the Commonwealth Mall sidewalk.
 
-She wheeled into the living room, carrying a plate of grilled cheese cut into triangles, and set it on the coffee table in front of him. Then she locked her brakes, transferred onto the cushioned sofa beside his chair, and pulled the corner of the wool throw over her own legs.
+"He's not getting on the bus, Valerie," Erin said, her voice steady and immovable over the drumming rain. "Home is two blocks from here. John is coming home."
 
-"I didn't even see it happening," John said quietly. His voice sounded hoarse to his own ears, like an instrument that hadn't been played in months. "At the beginning, at that speed-dating table in Kincaid Hall, she seemed like the only person in the room who wasn't looking at the chair first. And then every week, the room just got smaller. Every time I talked to you, or missed a lab meeting, or disagreed with her about a paper, there was a price tag attached to it. Until it felt easier to just stop going anywhere at all."
+"Stay out of this, Erin!" Valerie snapped, trying to sidestep Erin's front casters to reach for John's backrest handle again. "John, tell her! Get on the bus!"
 
-Erin reached over and adjusted the collar of his sweatshirt—the exact same fussy, automatic sisterly gesture she had made since they were seven years old waiting for the school bus in the rain.
+Erin matched Valerie's step with a zero-latency pivot of her drive wheels, keeping her chair's frame locked squarely across Valerie's path so she couldn't get within arm's reach of John's controls. Then Erin looked over her shoulder at her brother and held out her left hand.
 
-"People like Valerie don't walk up to you wearing a warning label, John," Erin said gently. "They test the fences first. They see how much static you're willing to absorb to keep the peace. And because you have a good heart—because you always assume that if someone is hurting, it must be something you miscalculated—she used your own decency to lock you in."
+"John," Erin said gently, the storm howling down the avenue around them while her voice remained an island of absolute calm. "Take my hand. Two blocks down the sidewalk, and we're home."
 
-Outside, a gust of wind rattled the porch awning, and the distant air brakes of a Blue Ridge Transit bus sighed at the Progress Street stop.
+John looked at Valerie standing beside the idling bus—demanding his obedience as the price of her affection—and then he looked at his fraternal twin sister, soaking wet in the November rain, shielding his chair with her own body and chassis.
 
-John looked around his sister's living room: at the wide, unobstructed thirty-six-inch doorways where neither of them ever had to apologize for the width of their wheels; at the framed photograph on the bookshelf showing the two of them in matching CPI caps on orientation day; at the heavy steel deadbolt turned squarely across the front door.
+For the first time in two months, the fog inside John's head cleared completely.
 
-For the first time in two months, his chest rose and fell without the bracing weight of an impending argument. No one in this room was keeping score. No one was going to twist his words at midnight or punish him with silence in the morning.
+"Go catch your bus, Valerie," John said quietly.
 
-"You came down the ramp for me," John whispered, his eyes stinging as he looked at his twin sister. "The doors were already closing."
+He reached across the gap between their armrests and clasped Erin's gloved hand firmly in his. With his right thumb, he pushed his joystick forward.
 
-Erin rested her head against his shoulder, her glasses bumping lightly against his temple, and laced her fingers through his.
+Together, wheel to wheel on the wide brick-and-concrete sidewalk, John and Erin rolled out from beneath The Keystone Bridge, turning their backs on the Commonwealth Mall bus line and heading northeast toward Progress Street NE.
 
-"Of course I came down the ramp," Erin said. "We're twins, John. You're my sanctuary, too. And the storm stays outside."
+Behind them, Valerie's voice echoed sharply across the wet pavement for a few yards before the roar of the departing buses and the driving rain swallowed it whole. Thirty seconds later, as the twins crossed the corner onto the tree-lined sidewalk of Progress Street NE—just two blocks from Commonwealth Mall—John's flip phone began vibrating frantically inside his jacket pocket.
+
+*Bzzzt. Bzzzt. Bzzzt.*
+
+Every ten yards along the sidewalk, another text message arrived—first furious ultimatums, then wounded accusations, then sudden demands that he turn around and meet her at the next stop.
+
+As they rolled up to the concrete front porch ramp of their ground-floor apartment on Progress Street NE, Erin kept her chair positioned on the outside edge of the sidewalk—maintaining her locked perimeter between her brother and the street until John's front tires cleared the porch threshold.
+
+Under the dry shelter of the porch awning, Erin reached into John's side pocket, pulled out the buzzing flip phone, and held down the red power key until the little blue LCD screen went dark.
+
+"Out of range," Erin said softly, tucking the silent phone into her pouch and unlocking the front door.
+
+Inside, the apartment was warm and quiet, smelling of cinnamon, dry wool, and safe harbor. As the heavy deadbolt clicked shut behind them, sealing out the November gale, John let out a long, shuddering breath and rested his forehead against his sister's shoulder.
+
+"You stood right in front of the ramp for me," John whispered, his voice thick as his eyes stung behind his wet glasses. "When she kept insisting I get on that bus... you locked the whole sidewalk down."
+
+Erin wrapped her arms around his shoulders, her glasses bumping lightly against his temple, and held on tight.
+
+"Always, John," Erin whispered back. "Home was only two blocks away. And the storm stays outside."
 
 ## Not Her
 
@@ -245,7 +263,7 @@ He knew that cadence. He knew the exact melody of that counterfeit concern—the
 
 In the recessed alcove by the elevator, Erin sat in her power wheelchair with her back flush against the Ironstone wall. Standing directly in front of her footrests was Marcus Vance, a senior from the business school wearing a tailored charcoal coat. He had planted one polished leather boot on the base of the concrete ramp and rested his left hand on the top edge of the wall beside Erin's shoulder, effectively boxing her chair into the narrow corner so she couldn't pivot without clipping his shins.
 
-"I told you, Marcus, I'm riding the bus home with John," Erin said. Her voice was steady, but John knew his sister better than anyone alive—he saw the way her right thumb was tensed against her joystick, searching for a three-inch clearance that wasn't there. "Please step back from my footrests so I can turn around."
+"I told you, Marcus, I'm heading home with John," Erin said. Her voice was steady, but John knew his sister better than anyone alive—he saw the way her right thumb was tensed against her joystick, searching for a three-inch clearance that wasn't there. "Please step back from my footrests so I can turn around."
 
 "I'm just saying, you let him keep you on a short leash," Marcus said, leaning in another inch with a slow, patronizing grin that expected compliance. "Just five minutes, Erin. Tell me why you're always running away when someone tries to—"
 
@@ -275,7 +293,7 @@ For a long moment, neither twin spoke. Then Erin exhaled, reached across the gap
 
 "You nearly took his Italian leather toes off," Erin said, the corner of her mouth curving upward.
 
-"He was standing in the ADA turning lane," John replied, the tension in his jaw finally softening as he handed her one of the warm paper cups of apple cider from his tray. "Come on, Erin. The nine-forty-five Route 1 bus to Progress Street is staging out on Commonwealth Mall."
+"He was standing in the ADA turning lane," John replied, the tension in his jaw finally softening as he handed her one of the warm paper cups of apple cider from his tray. "Come on, Erin. Home's only two blocks down the sidewalk."
 
-Side by side, their electric motors humming in matched harmony, John and Erin rolled out under the Ironstone arches of the Kincaid colonnade toward the glowing amber bus headboards along Commonwealth Mall—together, and all the way home.
+Side by side, their electric motors humming in matched harmony, John and Erin rolled out under the Ironstone arches of the Kincaid colonnade and down the wet sidewalk from Commonwealth Mall to Progress Street NE—together, and all the way home.
 
