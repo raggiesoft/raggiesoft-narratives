@@ -93,9 +93,12 @@ On August 15, 1995, CPI alumnus and industrial magnate **Jeremiah "Ironhead" Van
   * **The Band's Trademark Co-Existence License:** CPI's Office of Trademarks & Licensing granted the band (and any label they wholly owned, later **Engine Room Records, LLC**) a perpetual, worldwide, royalty-free license to sing and print `CPI`, `Commonwealth Polytechnic Institute`, `The Forgers`, and `The Crucible` in their commercial releases and liner notes.
 
 ### 2. Pre-Game Entrance Ritual: *"Ignition (The Forger's Call)"* & The 1989 Stomp
+* **Canonical Title & Apple Music DSP Formatting:**
+  * **Narrative / Prose Title:** ***"Ignition (The Forger's Call)"***
+  * **Apple Music / Suno DSP Metadata Title:** ***"Ignition: The Forger's Call"*** (or ***"Ignition: The Forger's Call (Live)"*** on 2016's *Live at The Crucible*, complying with Apple Music's rule reserving parentheses `()` strictly for `feat.` credits or official version descriptors like `(Live)`).
 * Submitted as a raw garage-metal cassette demo in 1986 featuring **Tyler Wright** striking a salvaged automobile brake drum with a sledgehammer (`TING... BOOM!`).
-* **Birth of "The Stomp" (November 1989 vs. VPU):** During a freezing November night game against arch-rival **Virginia Piedmont University (VPU)**, students in **The Anvil** began stomping their heavy winter boots on the galvanized metal bleachers in exact time with Tyler's brake drum to stay warm. When visiting VPU fans tried to boo during the pauses, 20,000 CPI students roared **`"IGNITION!"`** back at the PA system.
-* By the mid-1990s, the CPI Athletic Director formalized the pre-game ritual: stadium lights cut to black before kickoff, the Marching Forgers sway **Left, Right, Left, Right** during the bridge cadence, and 65,000 fans trigger a localized seismic event on the campus seismographs as the team charges out of the tunnel.
+* **Birth of "The Stomp" (November 1989 vs. VPU):** During a freezing November night game against arch-rival **Virginia Piedmont University (VPU)**, students in **The Anvil** began **stomping** their heavy winter boots on the galvanized metal bleachers in exact time with Tyler's brake drum to stay warm (replacing Virginia Tech's real-life "Jump"). When visiting VPU fans tried to boo during the pauses, 20,000 CPI students roared **`"IGNITION!"`** back at the PA system.
+* By the mid-1990s, the CPI Athletic Director formalized the pre-game ritual: stadium lights cut to black before kickoff, the Marching Forgers sway **Left, Right, Left, Right** during the bridge cadence, and 65,000 fans perform **The Stomp**, triggering a localized seismic event on the Copernicus Hall seismographs as the team charges out of the tunnel.
 
 ### 3. Fourth-Quarter Victory Anthem: *"Saturday Night Lights: The Crucible"* (Oct 8, 2004 Premiere)
 * The Stardust Engine's homecoming album ***Progress Street*** was scheduled for worldwide release on **Monday, October 10, 2004**.
@@ -124,29 +127,112 @@ On August 15, 1995, CPI alumnus and industrial magnate **Jeremiah "Ironhead" Van
 
 ---
 
-## V. Blue Ridge Transit (BRT) & The Regional Transit Grid
+## V. The New River Valley (NRV) Regional Transit Network Bible
 
-* **In-Universe Counterpart:** Blacksburg Transit (BT).
-* **Agency Name:** **Blue Ridge Transit (`BRT`)**.
-* **Fare System:** **The PolyPass** (integrated into every active CPI student and faculty ID card; zero cash fare required for active students).
-* **Fleet & Livery:**
-  * Primary heavy-duty backbone consists of 40-foot rigid (`D40LF` / `RLFD40`) and **60-foot low-floor articulated (`D60LF` / `RLFD60`) transit buses** manufactured by **Prairie Coachworks** (in-universe New Flyer), equipped with front flip-out aluminum ADA wheelchair ramps and overhead amber Luminator LED destination signs.
-  * **Livery (*"The Mountain Mist & River Ribbon"*):** Crisp Arctic Fleet White upper body, Appalachian Pine / Forest Green lower rocker skirts, and dual sweeping fluid ribbons of **New River Slate-Teal (`#2A9D8F`)** and **Mountain Mist Sky Blue (`#457B9D`)** arcing across the black rubber accordion bellows.
+Public transportation in the New River Valley is an interconnected, multi-agency ecosystem anchored by **Commonwealth Polytechnic Institute (CPI)** and the **PolyPass** agreement. Depending on the year in which a narrative takes place, the physical hubs, rail links, and fare-collection technology evolve across four canonical eras.
 
-### Core Routes & Regional Interchanges
-1. **BRT Route 1 ("The Spine"):**
-   * **Corridor:** `Christiansburg Transit Center at Falling Branch (Exit 118) ↔ Uptown Mall / Christiansburg ↔ Pepper Plaza (Valu-Mart) ↔ Downtown Blacksburg ↔ Progress Street NW ↔ Commonwealth Mall (beneath The Keystone Bridge / CPI Transit Center)`.
-   * **Headway:** Every 15 minutes (60-foot Prairie Coachworks articulated buses deployed continuously during class changes and peak hours).
-2. **BRT Route 3 ("The Radford Link"):**
-   * **Corridor:** `Pepper Plaza ↔ McConnell Transit Center (Radford University)` (Every 30 minutes).
-3. **BRT Route 8 ("The Riner Run"):**
-   * **Corridor:** `Pepper Plaza ↔ Riner` (Hourly connection to rural medical services).
-4. **Bluewater Transit — *The Maroon Express*:**
-   * **Corridor:** `Carroll County / Hillsville ↔ I-81 Exit 98 (NRVRC / Justin's Station) ↔ I-81 Exit 118 (Christiansburg Transit Center at Falling Branch) ↔ CPI Commonwealth Mall`.
-   * **Equipment:** 45-foot over-the-road commuter coaches equipped with mid-coach hydraulic ADA wheelchair lifts.
-   * *Cross-Universe Tie-In (`Amaya / Justin Hayes`):* At **I-81 Exit 98** (the 566-acre **New River Vocational Rehabilitation Center** acquired for \$1.00 by the Hayes and Rios families, anchored by the cashless **Justin's Station** convenience store and sawtooth bus bays), Justin Hayes and his 20-woman protective phalanx (*The Wall of 20*) board the 6:30 AM *Maroon Express*, consuming 21 of the 49 coach seats plus the ADA securement bay—creating a legendary downstream capacity bottleneck at Falling Branch that forces late-arriving CPI commuters onto local Route 1 artics.
-5. **Roanoke Valley Transit (`RVT`):**
-   * **Corridor:** `CPI Commonwealth Mall ↔ Christiansburg Transit Center ↔ Downtown Roanoke (Campbell Court) & Roanoke Regional Airport`.
+### A. Chronological Timeline of Campus Hubs, Rail Links, & Fare Payment
+1. **Era 1 — The "Flash-Pass & Commonwealth Mall" Era (`2003–2015`):**
+   * **Campus Bus Hub (`Commonwealth Mall`):** Before the dedicated off-street **CPI Transit Center** exists, all **five bus services** (Blue Ridge Transit, Bluewater Transit, Roanoke Valley Transit, Radford Transit, and the 2003 Supplemental Commuter Coaches / Valley Flyer) converge curbside along **Commonwealth Mall** beneath **The Keystone Bridge** outside **Kincaid Hall** in a chaotic, diesel-choked lineup.
+   * **Fare Collection ("Flash Pass"):** There are no electronic smart-card readers. Active CPI students simply **flash their physical PolyPass** (and eligible partner students flash their Galax Community College, Carroll County Public Schools, Radford High School, University of Radford, or Dublin Community College IDs) to the bus operator upon boarding at the front door.
+   * **2003 Supplemental Commuter Coaches:** To relieve peak-hour overcrowding on BT Route 1, high-capacity 45-foot **MCI over-the-road commuter coaches** operate a 30-minute express shuttle (`Falling Branch Park & Ride ↔ New River Mall [Christiansburg Mall] ↔ Commonwealth Mall`) every 30 minutes, free with a flashed PolyPass.
+2. **Era 2 — The "CPI Transit Center & ARTS Roanoke Rail Extension" Era (`2016–2019`):**
+   * **CPI Transit Center Opens (`2016`):** CPI opens the dedicated, off-street multi-bay **CPI Transit Center**, permanently moving bus staging off Commonwealth Mall. BT Route 1 destination headsigns update from `1 COMMONWEALTH MALL` to `1 CPI TRANS CTR`.
+   * **October 31, 2017 — ARTS Passenger Rail Reaches Roanoke (*Third Street Station*):**
+     * **ARTS** (*American Rail Transit Service*, in-universe Amtrak) extends its Northeast Corridor regional service—known across the RaggieSoft universe as the **ARTS *Coastal Service*** / ***The Patriot*** (*Northeast Regional*)—to a new passenger platform at **Roanoke's Third Street Station**.
+     * **RVT *Train Connector* (Official ARTS Thruway Service):** That same day (October 31, 2017), **Roanoke Valley Transit (RVT)** launches its dedicated **Train Connector** coach service linking **CPI Transit Center**, **New River Mall (Christiansburg Mall)**, and **Falling Branch Park & Ride** directly to **Third Street Station** in Roanoke (including ARTS-subsidized **Sunday** runs and guaranteed delayed-train holds).
+3. **Era 3 — The Post-COVID "Blue Ridge Go-Card & Smart-Card" Era (`2020–2021+`):**
+   * **End of the "Flash Pass":** Triggered by the COVID-19 pandemic, **Blue Ridge Transit (BT)**, **Bluewater Transit**, and **Roanoke Valley Transit (RVT)** retire visual ID flashing and launch a unified contactless smart-card network: the **Blue Ridge Go-Card** (*"One Card. Three Systems. The Entire Valley."*), paired with **Open-Loop Contactless Payment** (Tap-to-Pay credit/debit cards, **MagnaPay / MagnaWallet**, and **OmniPay**).
+   * **Radford Transit Goes 100% Fare-Free:** Rather than installing expensive Go-Card hardware across its `$0.50` fleet, **Radford Transit** eliminates fares permanently during COVID-19.
+   * **Embedded School IDs & MagnaByte "Express Mode":** All newly issued **CPI PolyPasses**, **Galax Community College IDs**, and **Carroll County Public Schools IDs** contain an embedded **Blue Ridge Go-Card RFID chip** (and provisioning tokens for **MagnaWallet** on **MagnaPhone** and **MagnaWatch** with **Express Transit Mode**, allowing students to tap without waking or unlocking their device, plus 5-hour Power Reserve battery backup).
+   * **One Year Post-Launch — Rear-Door Readers & Proof of Payment (`POP`):** One year after the Go-Card rollout, **Blue Ridge Transit** installs validators at the **rear doors** of its 40-foot and 60-foot articulated buses, shifting Campus and Route 1 operations to **Proof of Payment (POP)** with random handheld inspections by Transit Ambassadors.
+4. **Era 4 — The Future Christiansburg Rail Extension Era:**
+   * **ARTS Extends Rail to Christiansburg:** When ARTS extends passenger rail south from Roanoke toward Bristol, the **Christiansburg Transit Center** (featuring the multi-level VDOT parking garage, 8-bay bus terminal, and a new **ARTS Passenger Rail Station**) is constructed on the footprint of the **Falling Branch Park & Ride (`I-81 Exit 118`)**.
+   * **End of RVT's *Train Connector*:** Because ARTS trains now stop directly at the **Christiansburg Transit Center** (where passengers transfer directly onto **BT Route 1** articulated buses, **Bluewater Transit**, or **RVT**), RVT discontinues its special *Train Connector* Thruway runs while maintaining its regular Mon–Sat *Roanoke Express* commuter route.
+
+---
+
+### B. The Four PolyPass-Eligible Agencies (+ Two Special Corridor Services)
+
+#### 1. Blue Ridge Transit (`BT` / `BRT`) — Local Blacksburg & Christiansburg
+* **Operating Days:** 7 days a week.
+* **Fleet & Livery:** 29-foot, 35-foot, and 40-foot rigid buses (**Stalwart** / Gillig Advantage & **Prairie Coachworks** `D40LF`), plus **60-foot low-floor articulated (`D60LF` / `RLFD60`) buses** manufactured by **Prairie Coachworks** in the *"Mountain Mist & River Ribbon"* livery.
+  * **CRITICAL REALISM RULE:** As US low-floor transit buses, the flip-out aluminum ADA wheelchair ramp is ALWAYS located at the **front passenger boarding door** right beside the operator and farebox.
+* **Fare Structure:** **`$1.00`** base cash/Go-Card fare (includes a free paper transfer slip pre-COVID or automated 2-hour digital transfer on the Go-Card); **`$40.00` 30-Day Pass** (automated 30-day rolling cap after 40 rides on the Go-Card); **`$0.00` (Free)** with an active **CPI PolyPass**.
+* **Key Routes:**
+  * **Route 1 ("The Spine" — Christiansburg $\leftrightarrow$ CPI):**
+    * **No Short-Turns:** Every Route 1 bus runs the full length of the corridor.
+    * **Exact Alignment & Travel Times:** Leaves **Christiansburg Transit Center / Falling Branch (`I-81 Exit 118`)** $\rightarrow$ follows **US-11 (Roanoke Street)** into downtown Christiansburg to **Pepper Plaza Transit Center** (located right next door to the **Montgomery County Courthouse** across from `105 Pepper Street` and **Valu-Mart**; **15 minutes** from Falling Branch) $\rightarrow$ turns north and follows **South Main Street (Business US-460)** into Blacksburg and through **Progress Street NW** to terminate at **Commonwealth Mall** (`2003–2015`, headsign `1 COMMONWEALTH MALL`) or the **CPI Transit Center** (`2016+`, headsign `1 CPI TRANS CTR`; **30 minutes** from Pepper Plaza; **45 minutes** end-to-end). Southbound headsign reads `1 FALLING BRANCH`.
+    * **Frequency:** Every **15 minutes** on weekdays using 60-foot Prairie Coachworks articulated buses.
+  * **Route 3 ("The Radford Link" — Christiansburg $\leftrightarrow$ Radford University):**
+    * **Alignment:** Leaves **Pepper Plaza Transit Center**, follows **US-11** west across the New River, and terminates at Radford's **McConnell Transit Center** (`6:00 AM – 10:00 PM`; every **30 minutes** Mon–Fri, every **60 minutes** Sat–Sun).
+  * **Route 8 ("The Riner Run" — Christiansburg $\leftrightarrow$ Riner):**
+    * **Alignment:** Leaves **Pepper Plaza Transit Center** and follows **State Route 8** south to Riner (`7:00 AM – 6:00 PM` Mon–Fri, every **60 minutes**; no weekend service). Used by Jessica and Paige for their OB/GYN appointments in Riner.
+
+#### 2. Bluewater Transit (`BT` — "The Other BT") — Carroll County & *The Maroon Express*
+* **Service Area & Hub:** Based in **Bluewater, Virginia** (in-universe counterpart to **Hillsville, Virginia**, the county seat and largest town in Carroll County, and the hometown of **Madison Elizabeth Scott**). All routes pulse out of the **Bluewater Transit Center**, located directly across the street from **Bluewater High School**.
+  * **The 2:30 PM High School Rush:** When the final bell rings at Bluewater High School at `2:30 PM`, hundreds of students pour across the street into the transit center to catch the `2:45 PM` pulse departure.
+* **Fare-Free Partner IDs:** **`$0.00` (Free)** on all Local and *Maroon Express* buses for riders with a **Carroll County Public Schools ID**, **Galax Community College ID**, or **CPI PolyPass**.
+* **Local Service (`$1.00` Cash / Go-Card, `$3.00` Local Day Pass Cap):**
+  * Operates **7 days a week** (`5:45 AM – 9:15 PM`) using 29-foot and 35-foot low-floor transit buses.
+  * **The Clockface Pulse:** Local routes pulse from Bluewater Transit Center every 30 minutes at **`:15`** and **`:45`** past the hour—except the **Purple Line** (`Bluewater Transit Center ↔ Galax Community College`), which runs **hourly** on a 60-minute one-way trip (`120-minute` round-trip cycle requiring 2 buses; the final `8:15 PM` departure from Galax CC arrives at Bluewater Transit Center at `9:15 PM`, when the system closes for the night).
+* ***The Maroon Express* (`$5.00` Cash / Go-Card, `$10.00` Express Day Pass Cap):**
+  * **Equipment:** Three 45-foot over-the-road commuter coaches (with mid-coach hydraulic ADA wheelchair lifts) operating a `180-minute` round-trip cycle (**90 minutes** each way).
+  * **Schedule:** Runs **7 days a week**, hourly at **`:15`** northbound from Bluewater (`5:15 AM – 9:15 PM`) and hourly at **`:45`** southbound from CPI (`6:45 AM – 10:45 PM`, arriving back in Bluewater at `12:15 AM`).
+  * **Stop Sequence:**
+    1. `Bluewater Transit Center` (Across from Bluewater High School)
+    2. `Bluewater Park & Ride` (**I-77 Exit 14**)
+    3. `Max Meadows Park & Ride` (**I-81 Exit 84**)
+    4. `Dublin Park & Ride / NRVRC Justin's Station` (**I-81 Exit 98** — where Justin Hayes and *The Wall of 20* board the 6:30 AM run)
+    5. `Falling Branch Park & Ride / Christiansburg Transit Center` (**I-81 Exit 118B**)
+    6. `New River Mall / New River Commons` (**The Christiansburg Mall**)
+    7. `Commonwealth Mall` (`2003–2015`) / `CPI Transit Center` (`2016+`)
+  * **Upgrade Rules & Post-COVID GPS + Tap-Off Logic:**
+    * Riders transferring from a `$1.00` Bluewater Local bus pay a **`$2.00` single-ride upgrade**; riders holding a `$3.00` Local Day Pass pay a **`$7.00` upgrade** to an Express Day Pass (`$10.00` total daily cap).
+    * Because the *Maroon Express* serves two local stops inside Bluewater (`Bluewater Transit Center` and `Exit 14 P&R`), its post-COVID Go-Card validators are linked to the coach's **GPS**:
+      * **Northbound (`Tap On + Tap Off`):** Tapping on at Bluewater Transit Center pre-authorizes the `$5.00` Express fare. If a local commuter taps off 5 minutes later at `Bluewater Park & Ride (Exit 14)`, the GPS recognizes they stayed within the local zone and charges only **`$1.00`**. Riding past Exit 14 onto I-77/I-81 (or failing to tap off) finalizes the **`$5.00`** Express charge. (Riders boarding at Exit 14 or further north only tap on).
+      * **Southbound (`Tap On Only`):** Every boarding at CPI, New River Mall, Falling Branch, Dublin, or Max Meadows is automatically charged **`$5.00`** (no tap-off needed). Once the coach reaches `Exit 14 P&R` heading into town, the GPS automatically drops the validator to **`$1.00` Local Mode** for the final hop to Bluewater Transit Center.
+      * **Student ID Bypass:** CPI PolyPass, Galax CC, and Carroll County school ID holders never need to tap off (`$0.00` across all zones).
+
+#### 3. Roanoke Valley Transit (`RVT`) — *Roanoke Express* & *ARTS Train Connector*
+* **Service Area & Hub:** Serves Roanoke, Salem, and Vinton from **Third Street Station** in downtown Roanoke.
+* **Operating Hours:** **Monday–Saturday**, `5:45 AM – 8:45 PM` (no regular Sunday service, except for the ARTS-subsidized *Train Connector* between 2017 and the Christiansburg rail extension).
+* **Fares:** **`$2.00`** Local (`$60.00` 30-Day Local Pass/Cap); **`$3.00`** *Roanoke Express* (`$90.00` 30-Day Express Pass/Cap; `$1.00` upgrade from Local); **`$0.00` (Free)** with an active **CPI PolyPass**.
+* ***The Roanoke Express* & The Combined 30-Minute Express Corridor:**
+  * Operates 45-foot over-the-road coach buses along `Third Street Station (Roanoke) ↔ Falling Branch P&R / Christiansburg Transit Center ↔ New River Mall (Christiansburg Mall) ↔ Commonwealth Mall / CPI Transit Center`.
+  * **Timed Coordination with Bluewater Transit:** On Monday–Saturday, RVT and Bluewater Transit offset their hourly schedules by 30 minutes along the shared northern spine (`Falling Branch ↔ New River Mall ↔ CPI`), providing **30-minute combined express headways** (`Bluewater` northbound at `:15` / `RVT` at `:45`; `RVT` southbound from CPI at `:15` / `Bluewater` at `:45`).
+* **The *ARTS Train Connector* (`October 31, 2017 – Future Christiansburg Rail Extension`):**
+  * Functions as an official **ARTS Thruway Bus Service** connecting **CPI Transit Center**, **New River Mall**, and **Falling Branch** to the **ARTS *Coastal Service* / *The Patriot* (*Northeast Regional*)** passenger trains at Roanoke's **Third Street Station**.
+  * **Unified Ticketing & PolyPass Access:** Can be booked as a single through-ticket on `ARTS.com` / the ARTS mobile app, or boarded walk-up with cash (`$3.00`), an RVT pass, or **for free with a CPI PolyPass**.
+  * **Guaranteed Connection & Early-Termination Rules:** If an incoming ARTS train is delayed (even by several hours), RVT **holds the *Train Connector* bus** at Third Street Station until the train arrives. On the final run of the night, once all deboarding rail passengers have loaded, if no passengers are waiting or traveling to a downstream stop, the operator may terminate the route early and deadhead to the garage as soon as the coach is empty.
+
+#### 4. Radford Transit — Local Radford & *The Radford Connector*
+* **Service Area & Hub:** Serves the independent City of Radford and **Radford University (RU)** from the **McConnell Transit Center** using a fleet of maneuverable **29-foot low-floor transit buses**.
+* **Fares & The School ID Loophole:**
+  * **Pre-COVID (`2003–2019`):** **`$0.50`** exact-change cash fare (strictly **no free transfers**—every boarding costs two quarters).
+  * **Post-COVID (`2020+`):** **Permanently 100% Fare-Free** for all riders (eliminating the need for Blue Ridge Go-Card validators).
+  * **Eligible Free IDs (Pre-COVID):** **University of Radford ID**, **Dublin Community College ID**, **CPI PolyPass**, and **Radford Public Schools ID**.
+    * *The Elementary/Middle School Loophole:* Officially, the municipal school subsidy only covers **Radford High School (RHS)** students (`Grades 9–12`). In practice, because every school in the small independent city uses the exact same plastic ID badge template from the same printer, bus operators never squint at the grade level and wave middle and elementary school kids on for free.
+* **Schedule Split:** Local Radford routes (including the **Plumb Creek** residential route and the **Dublin Community College** commuter link) run **Monday–Friday only**. Only the **Radford Connector** (`Radford ↔ Christiansburg ↔ CPI`) operates **7 days a week**.
+
+#### 5. Excluded Commercial Intercity Service: *The Valley Flyer*
+* **In-Universe Counterpart:** The Virginia Breeze (operated by Megabus / Pathfinder under contract with VDRPT).
+* **Route:** Daily intercity motorcoach linking **CPI** and **Falling Branch** directly to **Washington, D.C. (Union Station)** via I-81 and I-66 (bypassing New River Mall and downtown Roanoke).
+* **Strictly Commercial (NO PolyPass / NO Go-Card):** Requires advance online reservation. Even a local hop between CPI and Falling Branch costs **`$15.99`**, and a ticket to Washington, D.C. costs **`$49.99`**.
+
+---
+
+### C. Summary Comparison of the NRV Transit Network
+
+| Agency / Service | Primary Hub | Fleet | Base Fare (`2003–2019` / `Post-COVID`) | PolyPass Accepted? | Operating Days |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Blue Ridge Transit (`BT`)** | **Commonwealth Mall** (`2003–15`) / **CPI Transit Center** (`2016+`) & **Pepper Plaza** | 29', 35', 40', & **60' Prairie Coachworks Artics** | **`$1.00`** (Free transfer / `$40` 30-Day Cap) | **YES (`$0.00`)** | 7 Days / Week |
+| **Bluewater Transit (`BT`)** | **Bluewater Transit Center** (Across from Bluewater HS) | 29'/35' Local & **45' *Maroon Express* Coaches** | **`$1.00`** Local (`$3` Day Cap) / **`$5.00`** Express (`$10` Day Cap) | **YES (`$0.00`)** *(+ Galax CC & Carroll Co. IDs)* | 7 Days / Week (`5:45 AM – 9:15 PM` Local; Express until `12:15 AM`) |
+| **Roanoke Valley Transit (`RVT`)** | **Third Street Station** (Downtown Roanoke) | 35'/40' Local & **45' *Roanoke Express* / *Train Connector* Coaches** | **`$2.00`** Local (`$60` Cap) / **`$3.00`** Express (`$90` Cap) | **YES (`$0.00`)** | Mon–Sat (`5:45 AM – 8:45 PM`) + **Sunday *ARTS Train Connector*** (`2017+`) |
+| **Radford Transit** | **McConnell Transit Center** (Radford University) | **29' Low-Floor Transit Buses** | **`$0.50`** No Transfers (`2003–19`) / **100% FREE (`2020+`)** | **YES (`$0.00`)** *(+ RU, Dublin CC, & Radford Schools)* | Local: Mon–Fri; **Radford Connector:** 7 Days / Week |
+| **2003 Commuter Coaches** | **Falling Branch P&R** $\leftrightarrow$ **New River Mall** $\leftrightarrow$ **Commonwealth Mall** | **45' MCI Over-the-Road Coaches** | Supplemental Peak Relief Shuttle | **YES (`$0.00`)** | 2003-Era Peak Commuter Service (Every 30 min; 30-min trip) |
+| ***The Valley Flyer*** | **Washington, D.C. Union Station** $\leftrightarrow$ **Falling Branch** $\leftrightarrow$ **CPI** | **45' Intercity Highway Coaches** | **`$15.99`** (Local Hop) / **`$49.99`** (to D.C.) | **NO** *(Online Ticket Required)* | 7 Days / Week |
+
 
 ---
 
