@@ -2303,7 +2303,7 @@ Freddie sat down. The engine roared as the bus pulled away from Pepper Plaza, me
 
 The ride was smooth. They rolled out of downtown Christiansburg and onto the four-lane highway that connected the two towns. Freddie watched the world go by—strip malls, car dealerships, and the rolling hills of the valley.
 
-"Thirty minutes," Jessica said, leaning forward from the seat behind them. "We'll get off across the street from Newman Hall, which is hosting the open house."
+"Thirty minutes," Jessica said, leaning forward from the seat behind them. "We'll get off across the street from Kincaid Hall, which is hosting the open house."
 
 Freddie pressed his forehead against the cold glass. The bus was a contained environment. The rules were posted on the wall. The stops were announced. The fare was fixed.
 
@@ -2313,19 +2313,19 @@ Freddie pressed his forehead against the cold glass. The bus was a contained env
 
 The automated voice chimed again.
 
-"Route 1 to Commonwealth Polytechnical Institute Transit Center," it droned.
+"Route 1 to Commonwealth Polytechnic Institute," it droned.
 
 Ahead of them, the stone towers of the university rose up against the mountains. The Machine was waiting.
 
 ### Scene 2: The Acoustic Engine
 
-The bus hissed to a halt on the Alumni Mall.
+The bus hissed to a halt along **Commonwealth Mall**.
 
 "End of the line," Jessica announced, standing up as the doors folded open. "Everyone out."
 
-They stepped onto the concrete platform. The Transit Center was a massive, open-air loop located in the heart of the campus. To Freddie, it looked like a docking bay. Buses were pulling in and out with clockwork precision, their diesel engines rumbling in a synchronized, low-frequency hum that he found soothing.
+They stepped onto the concrete sidewalk beneath the arched Ironstone span of **The Keystone Bridge**, where **Blue Ridge Transit** buses staged bumper-to-bumper along the curb of Commonwealth Mall, their diesel engines rumbling in a synchronized, low-frequency hum that Freddie found soothing.
 
-"Newman Hall is this way," Jessica said, pointing toward a large, limestone building across the Drillfield. "It's the Student Union. That’s where they hold the welcome ceremony."
+"**Kincaid Hall** is this way," Jessica said, pointing toward the sprawling limestone student center at the corner of the Mall and **Commonwealth Green**. "It's the Student Union. That’s where they hold the welcome ceremony."
 
 They walked into the wind. The campus was waking up. The distinctive campus architecture—rough-cut grey limestone with accents of deep maroon—looked like a fortress against the bright blue sky.
 
@@ -2333,7 +2333,7 @@ They walked into the wind. The campus was waking up. The distinctive campus arch
 
 "The geometry is consistent," Freddie noted, his eyes tracking the lines of the mortar. "It feels safe."
 
-They reached the double doors of Newman Hall. Jessica pulled one open, and the cold mountain air was instantly replaced by the warmth of the atrium.
+They reached the double doors of Kincaid Hall. Jessica pulled one open, and the cold mountain air was instantly replaced by the warmth of the atrium.
 
 It was a cavernous space, filled with the smell of brewing coffee and the murmur of hundreds of prospective students and their parents. But cutting through the noise was a sound that stopped Freddie in his tracks.
 
@@ -2410,7 +2410,7 @@ As they ate, the noise in the atrium began to shift. The murmuring crowd was flo
 "Showtime," Jessica announced, checking her watch. "The President’s Welcome Address starts in five minutes. We need to secure a perimeter seat."
 
 
-The Grand Ballroom of Newman Hall was a sea of folding chairs. Jessica led them to a row near the back, on the aisle.
+The Grand Ballroom of Kincaid Hall was a sea of folding chairs. Jessica led them to a row near the back, on the aisle.
 
 "Escape route secured," she whispered to Freddie. "If it gets too loud, we can slip out the side door."
 
@@ -2588,7 +2588,7 @@ Freddie nodded slowly. The logic held.
 
 "Zero random variables," Freddie said, taking a bite of pasta. The thought was soothing. The "Twin Dorm" wasn't just a room; it was the structural support beam for his entire college career. As long as he had that, he could handle anything.
 
-"Okay," Jessica said, checking her watch. "Eat up. The **Housing & Residence Life** presentation is at 13:00 in the Squires Auditorium. We need to get there early to ask about the bed straps."
+"Okay," Jessica said, checking her watch. "Eat up. The **Housing & Residence Life** presentation is at 13:00 in the Kincaid Auditorium. We need to get there early to ask about the bed straps."
 
 "I have the dimensions ready," Freddie said, tapping his pocket. "I am ready to finalize the contract."
 
@@ -2774,7 +2774,7 @@ Freddie looked at her. The static in his head was still deafening, but her voice
 
 ### Scene 7: The Reset
 
-The bench was made of rough-hewn wood and cold iron, sitting on the edge of a grassy overlook near Bennett Hall. From here, the campus spread out below them like a circuit board—the grid of the Drillfield, the stone towers of the academic buildings, and in the distance, the massive concrete bowl of **The Crucible**.
+The bench was made of rough-hewn wood and cold iron, sitting on the edge of a grassy overlook near Bennett Hall—*The Old Lady on the Hill*. From here, the campus spread out below them like a circuit board—the sweeping oval of **Commonwealth Green**, the stone towers of the academic buildings, and in the distance, the massive concrete bowl of **The Crucible**.
 
 Freddie sat in the middle, staring at the mountains. He was completely silent. The screaming had stripped his throat raw, leaving him in a state of absolute mute exhaustion. The static in his head had settled from a roar into a dull, heavy gray noise.
 
@@ -4619,14 +4619,14 @@ He ran his thumb over the raised letters of his name. It was tactile proof of hi
 Freddie slid the card into the front pocket of his jeans. He patted it. It wasn't just plastic. It was mobility.
 
 
-"Phase Two," Jessica announced as they walked out of Newman Hall into the bright sunshine. She pointed across the massive, grassy expanse of the Drillfield toward the imposing stone fortress on the hill: **Burruss Hall**. "We have the IDs. Now we have to pay the toll."
+"Phase Two," Jessica announced as they walked out of **Kincaid Hall** into the bright sunshine. She pointed across the massive, grassy expanse of **Commonwealth Green** toward the imposing stone fortress on the hill: **Preston Hall**. "We have the IDs. Now we have to pay the toll."
 
 "Tuition?" Paige asked. "Tuition," Jessica confirmed. "Summer classes aren't covered by standard financial aid packages. The Pell Grant doesn't run in July. This is a cash-on-the-barrelhead transaction." She patted her purse. "Luckily, the Avery Grant is liquid."
 
-They walked across the grass. Freddie watched the heavy limestone buildings loom closer. "Burruss Hall," Freddie noted. "Administrative Command." "Exactly," Jessica said. "The Office of the Bursar is on the first floor. They want their money before you sit in the chair."
+They walked across the grass. Freddie watched the heavy limestone buildings loom closer. "Preston Hall," Freddie noted. "Administrative Command." "Exactly," Jessica said. "The Office of the Bursar is on the first floor. They want their money before you sit in the chair."
 
 
-The final stop was a quieter building near the edge of the Drillfield. They entered the office marked **SERVICES FOR STUDENTS WITH DISABILITIES (SSD)**. It was carpeted, quiet, and smelled of lavender—a deliberate choice, Freddie suspected, to lower anxiety.
+The final stop was a quieter building (**Callahan Hall**) near the edge of **Commonwealth Green**. They entered the office marked **SERVICES FOR STUDENTS WITH DISABILITIES (SSD)**. It was carpeted, quiet, and smelled of lavender—a deliberate choice, Freddie suspected, to lower anxiety.
 
 A receptionist looked up from a desk. "Welcome to SSD. How can I help you?" "Intake," Jessica said, placing the thick manila envelope on the desk. "This is Freddie Avery. Incoming Freshman, starting Session 2. We have his documentation for Cerebral Palsy and ADHD."
 
@@ -5456,7 +5456,7 @@ The bus hissed to a halt. The doors opened. They stepped out into the sunshine o
 
 ### Scene 7: The Incorrect Variable
 
-**Newman Hall** was the living room of the university. While the library was for silence and the labs were for code, Newman was for noise, food, and decompression.
+**Kincaid Hall** was the living room of the university. While the library was for silence and the labs were for code, Kincaid was for noise, food, and decompression.
 
 Freddie sat on a low, plush sofa in the main atrium. He physically could not sit at the high-top tables near the café; the bar-stool height required a climb his spastic diplegia made dangerous, and his balance was too precarious for a seat without a back. The sofa was the only viable option.
 
@@ -5640,7 +5640,7 @@ The noise of the student center continued around them, but in their little bubbl
 
 ### Scene 8: The Distortion
 
-The heavy glass doors of Newman Hall swung shut, cutting off the cool air conditioning. Krystal stepped out into the humid heat of the afternoon, her heels clicking angrily on the concrete.
+The heavy glass doors of Kincaid Hall swung shut, cutting off the cool air conditioning. Krystal stepped out into the humid heat of the afternoon, her heels clicking angrily on the concrete.
 
 She walked to the low brick wall near the entrance and dug into her purse. She pushed past her lip gloss and her ID card until her fingers brushed against the cellophane of a pack of cigarettes.
 
@@ -5707,7 +5707,7 @@ She looked at the slip of paper she’d shoved in his pocket in her mind's eye.
 She adjusted her top, pulling it lower to maximize her geometry, and walked toward the dorms. She hadn't lost. She had just found a new angle of attack.
 
 
-Inside Newman Hall, the air was cool and scrubbed clean. Freddie remained horizontal on the plush sofa, his head resting comfortably in Paige’s lap.
+Inside Kincaid Hall, the air was cool and scrubbed clean. Freddie remained horizontal on the plush sofa, his head resting comfortably in Paige’s lap.
 
 He reached into the pocket of his orange hoodie and pulled out the slip of paper Krystal had violated his personal space with. He held it by the very corner, as if the purple gel ink were radioactive.
 
@@ -5864,7 +5864,7 @@ She smiled, a slow, predatory curving of her lips. The "cripple" was just shy. H
 "Okay," Krystal whispered. "I like a chase."
 
 
-The quick-service counter was located in a tiled alcove of Newman Hall. It smelled of grease and sanitizer—a familiar, safe combination.
+The quick-service counter was located in a tiled alcove of Kincaid Hall. It smelled of grease and sanitizer—a familiar, safe combination.
 
 "Atmosphere clear?" Freddie asked, slowly lowering his hand from his face.
 
@@ -5914,7 +5914,7 @@ They finished their meal under the watchful, hungry eyes of the girl who thought
 
 ### Scene 10: The Humidity Index
 
-The automatic doors of **Newman Hall** slid open, and the atmosphere changed instantly.
+The automatic doors of **Kincaid Hall** slid open, and the atmosphere changed instantly.
 
 Inside, the air had been cool, filtered, and sane. Outside, the **New River Valley** in July was a physical assault. The heat wasn't dry; it was a heavy, wet blanket of humidity that wrapped around them the second they stepped onto the pavement.
 
@@ -5922,7 +5922,7 @@ Inside, the air had been cool, filtered, and sane. Outside, the **New River Vall
 
 "It’s a sauna," Jessica agreed, wiping a bead of sweat from her forehead. "Welcome to Blacksburg in the summer. It’s 90 degrees and the air is soup."
 
-They stood on the edge of **Alumni Mall**, the broad avenue that ran through the heart of campus. Across the street, the bus shelter waited. It was only fifty feet away, but in this heat, it looked like a mirage.
+They stood on the edge of **Commonwealth Mall**, the broad avenue that ran through the heart of campus. Across the street, the bus shelter waited. It was only fifty feet away, but in this heat, it looked like a mirage.
 
 Behind them, inside the cool safety of the glass doors, Krystal watched them go.
 
@@ -6018,7 +6018,7 @@ Jessica unlocked the front door. They stumbled inside, the air conditioning hitt
 
 They moved as a unit down the hallway to the Master Bedroom—the **Silo**.
 
-There was no hesitation. The "Modesty Protocol" had been deleted days ago. In this heat, and after the stress of the encounter at Newman Hall, clothes were just another layer of friction.
+There was no hesitation. The "Modesty Protocol" had been deleted days ago. In this heat, and after the stress of the encounter at Kincaid Hall, clothes were just another layer of friction.
 
 Freddie peeled off his orange hoodie, which felt heavy and suffocating. He dropped it into the hamper. His jeans followed.
 
@@ -6281,7 +6281,7 @@ He realized that **The Local** wasn't just a bar on TV. It was a blueprint for w
 
 "Double feature," Jessica agreed. "W-JAM and The Local. The Avery Afternoon Block."
 
-As the show continued, Freddie didn't just stay seated. He shifted, sliding down until he was horizontal again, swinging his legs up onto the sofa. He laid his head back down in Paige's lap, exactly as he had done at Newman Hall.
+As the show continued, Freddie didn't just stay seated. He shifted, sliding down until he was horizontal again, swinging his legs up onto the sofa. He laid his head back down in Paige's lap, exactly as he had done at Kincaid Hall.
 
 But this time, there was no smoke. There was no Krystal. There was no sweat or gritty humidity.
 
@@ -7314,7 +7314,7 @@ They collapsed the space. They pressed in tight, creating a solid wall of warmth
 
 Freddie let out a breath he felt like he had been holding since he woke up that morning. The pressure was perfect. The weight of his sisters anchored him to the bed, to the room, to the earth.
 
-He wasn't back at Newman Hall. He wasn't in the storm. He was here.
+He wasn't back at Kincaid Hall. He wasn't in the storm. He was here.
 
 "Zero percent," Freddie mumbled, his voice thick with sleep.
 
@@ -7906,9 +7906,9 @@ They walked out of the library, leaving the stress of the assignment behind them
 
 The morning of the Midterm Exam did not begin with panic. It began with logistics.
 
-The Avery Unit stood at the crossroads of the Drillfield, a paved hub where the paths to different academic buildings diverged. To the left lay Archer Hall, where the main body of HPE 204 would assemble to take their test in the standard, fluorescent-lit classroom.
+The Avery Unit stood at the crossroads of **Commonwealth Green**, a paved hub where the paths to different academic buildings diverged. To the left lay Archer Hall, where the main body of HPE 204 would assemble to take their test in the standard, fluorescent-lit classroom.
 
-To the right lay Henderson Hall, the home of Services for Students with Disabilities (SSD).
+To the right lay **Callahan Hall**, the home of Services for Students with Disabilities (SSD).
 
 "Operational check," Jessica announced, adjusting her backpack. She looked at Freddie. "You have your implements?"
 
@@ -7922,7 +7922,7 @@ Freddie patted his pocket. "Two Titan Graphite No. 2 pencils. One polymer eraser
 
 "Rendezvous point?" Freddie asked.
 
-"The bench outside Henderson," Paige said. "We'll come to you. Don't move. Just wait."
+"The bench outside Callahan," Paige said. "We'll come to you. Don't move. Just wait."
 
 "Understood," Freddie said. He looked at the split in the path.
 
@@ -7934,7 +7934,7 @@ He was going to the Quiet Room.
 
 "Affirmative," Freddie said.
 
-He turned and walked toward Henderson Hall. He didn't look back. He focused on his gait—heel, toe, heel, toe—keeping his rhythm steady.
+He turned and walked toward Callahan Hall. He didn't look back. He focused on his gait—heel, toe, heel, toe—keeping his rhythm steady.
 
 
 The SSD Testing Center was a sanctuary of silence. The floor was carpeted in a thick, sound-absorbing weave. The walls were painted a soothing, neutral beige.
@@ -8018,9 +8018,9 @@ Freddie Avery stood up. He walked to the front desk.
 He handed over the packet. He walked out of the quiet building into the heat of the July morning, feeling lighter than air.
 
 
-Freddie sat on the wooden bench outside Henderson Hall. He had his orange hoodie draped over his lap (too hot to wear, but necessary to have nearby).
+Freddie sat on the wooden bench outside Callahan Hall. He had his orange hoodie draped over his lap (too hot to wear, but necessary to have nearby).
 
-He watched the stream of students pouring out of Archer Hall across the Drillfield.
+He watched the stream of students pouring out of Archer Hall across **Commonwealth Green**.
 
 He spotted them immediately.
 
@@ -8086,9 +8086,9 @@ The celebration at the bench was brief; the heat of the day was rising, and the 
 
 "Standard retrieval protocol," Jessica said, swinging her backpack onto one shoulder. "We catch the **Route 1** southbound. It drops us right at our front door."
 
-They walked from Henderson Hall across the Drillfield to **Alumni Mall**.
+They walked from **Callahan Hall** across **Commonwealth Green** to **Commonwealth Mall**.
 
-There was no terminal here, no sleek concrete loop. The "hub" was simply the side of the road. Buses lined up bumper-to-bumper along the curb across from **Newman Hall**, fighting for space with cars and pedestrians jaywalking to the student center. It was a chaotic, diesel-choked strip of asphalt that served as the nerve center of the transit network.
+There was no terminal here, no sleek concrete loop. The "hub" was simply the side of the road. Buses lined up bumper-to-bumper along the curb across from **Kincaid Hall**, fighting for space with cars and pedestrians jaywalking to the student center. It was a chaotic, diesel-choked strip of asphalt that served as the nerve center of the transit network.
 
 They stood at the signpost marking the Route 1 stop, waiting as a bus pulled away, revealing the next one in the queue.
 
@@ -8884,9 +8884,9 @@ For the first time in a long time, a stranger had entered the perimeter, and the
 
 ### Scene 2: The Static Stack
 
-The transition from the academic rigor of Copernicus Hall to the social hub of **Newman Hall** was a sensory shift Freddie usually found jarring.
+The transition from the academic rigor of Copernicus Hall to the social hub of **Kincaid Hall** was a sensory shift Freddie usually found jarring.
 
-The air in Newman smelled of floor wax, old coffee, and the grease of the fryers. The ambient noise was a chaotic mix of student chatter, the clatter of pool balls from the game room, and the hum of vending machines.
+The air in Kincaid smelled of floor wax, old coffee, and the grease of the fryers. The ambient noise was a chaotic mix of student chatter, the clatter of pool balls from the game room, and the hum of vending machines.
 
 But today, the "Group 4" formation held the line.
 
@@ -8906,7 +8906,7 @@ They swiped their cards. *Beep. Beep. Beep. Beep.*
 
 Trays loaded, they navigated the crowded seating area. Freddie scanned for a "Low Density" zone.
 
-"Sector 4," Freddie pointed toward a corner near the large windows overlooking the Drillfield. "Corner table. Maximum visibility. Minimum traffic."
+"Sector 4," Freddie pointed toward a corner near the large windows overlooking **Commonwealth Green**. "Corner table. Maximum visibility. Minimum traffic."
 
 "Lead the way," Vanessa said, stepping back to let Freddie and Paige walk ahead.
 

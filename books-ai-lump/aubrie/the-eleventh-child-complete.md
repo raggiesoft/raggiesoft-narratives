@@ -1058,13 +1058,13 @@ Jordan stared at the extended fist, his mind struggling to process the absolute 
 
 As Aubrie took the handles of the wheelchair and pushed Jordan out into the hallway, the tight, suffocating knot in Jordan's chest finally began to loosen. Mark wasn't angry. He wasn't jealous. He was just... happy that Jordan was being cared for. It was a profound, quiet revelation that etched itself permanently into Jordan's memory, establishing a baseline of what a real, healthy relationship looked like.
 
-### Scene 7: Newman Hall
+### Scene 7: Kincaid Hall
 
 **Date:** 2014-08-24 at 17:15
 
-The walk to Newman Hall was infinitely easier with Mark leading the way. True to his word, he navigated the group along a winding, paved path that bypassed the steepest ridges of the campus, making the trip smooth and entirely manageable for Hannah and Lauren as they took turns pushing Jordan’s wheelchair.
+The walk to Kincaid Hall was infinitely easier with Mark leading the way. True to his word, he navigated the group along a winding, paved path that bypassed the steepest ridges of the campus, making the trip smooth and entirely manageable for Hannah and Lauren as they took turns pushing Jordan’s wheelchair.
 
-Newman Hall was the massive, sprawling student center at the heart of campus, serving as a hub for dining, student organizations, and a constant, chaotic flow of freshmen. The cafeteria inside was brightly lit and echoing with the sound of a thousand overlapping conversations.
+Kincaid Hall was the massive, sprawling student center at the heart of campus, serving as a hub for dining, student organizations, and a constant, chaotic flow of freshmen. The cafeteria inside was brightly lit and echoing with the sound of a thousand overlapping conversations.
 
 Mark quickly spotted a large, circular table near the floor-to-ceiling windows and led the suite family over to claim it. While the rest of the group settled in and Jordan pulled his Vanguard Pro onto his lap to look over the menus, Lauren realized she hadn't grabbed a drink.
 
@@ -1082,7 +1082,7 @@ The girl with the Australian accent blinked, visibly taken aback by the sudden, 
 
 "Tom!" Lauren beamed, throwing her arms around his neck, entirely focused on the boy she loved.
 
-"Hey, beautiful," Tom replied smoothly, catching her by the waist. His smile was bright and perfect, masking the terrified adrenaline spiking in his chest. "I didn't know you were eating at Newman tonight".
+"Hey, beautiful," Tom replied smoothly, catching her by the waist. His smile was bright and perfect, masking the terrified adrenaline spiking in his chest. "I didn't know you were eating at Kincaid tonight".
 
 "We just got here," Lauren said, leaning back to look up at him. She glanced over her shoulder, trying to spot the dark-haired girl in the crowd, but she was already gone. Lauren looked back at Tom, her curiosity piqued. "Who was that you were talking to? She sounded like she had a really strong accent".
 
@@ -1190,7 +1190,7 @@ As Hannah and Lauren disappeared out the suite door to meet their boyfriends, Jo
 
 "Right then," Zoë said, adjusting her glasses as she walked into Room 214, her backpack slung over one shoulder. "Shall we proceed to the dining hall? I require a proper cup of tea before I can process any academic syllabi, though I am fully bracing myself for the American atrocity of lukewarm water and paper-flavored tea."
 
-The four of them made the trek across the rolling campus to Newman Hall. The cafeteria was already a chaotic sea of freshmen scrambling to eat before their morning lectures.
+The four of them made the trek across the rolling campus to Kincaid Hall. The cafeteria was already a chaotic sea of freshmen scrambling to eat before their morning lectures.
 
 While Aubrie and Madison guided Jordan toward the food stations, Zoë broke off toward the beverage line with low expectations. She anticipated finding a standard metal urn dispensing tepid water. Instead, she stopped dead in her tracks.
 
@@ -1242,7 +1242,7 @@ Jordan felt a slow, genuine smile spread across his face. For the first time in 
 
 **Date:** 2014-08-25 at 08:50
 
-Outside the glass doors of Newman Hall, the sprawling campus was alive with a nervous, electric energy. Thousands of freshmen were crisscrossing the paved walkways, hunting for their first lecture halls. The suite family naturally began to splinter toward their respective academic buildings.
+Outside the glass doors of Kincaid Hall, the sprawling campus was alive with a nervous, electric energy. Thousands of freshmen were crisscrossing the paved walkways, hunting for their first lecture halls. The suite family naturally began to splinter toward their respective academic buildings.
 
 "Alright, duty calls," Madison sighed, adjusting the strap of her heavy backpack. She stepped forward and wrapped her arms around Jordan’s shoulders in a warm, lingering hug. "Have a great morning, J. See you this afternoon."
 
@@ -2314,7 +2314,7 @@ Jordan frowned slightly, exchanging a confused look with Aubrie.
 
 Madison stood up, walking over to the wall. She pressed the large silver handicap-accessible button. The motorized mechanism whirred to life, unlatching the deadbolt, and the heavy door swung open slowly into the room.
 
-The calm, peaceful sanctuary of Room 214 instantly collided with the chaotic aftermath of the Newman Hall confrontation. Nine people were crowding the hallway. Mark looked furious. Jessica and Chloe looked shell-shocked. And right in the center of the group, Lauren was sobbing openly into Sarah Braithwaite’s shoulder.
+The calm, peaceful sanctuary of Room 214 instantly collided with the chaotic aftermath of the Kincaid Hall confrontation. Nine people were crowding the hallway. Mark looked furious. Jessica and Chloe looked shell-shocked. And right in the center of the group, Lauren was sobbing openly into Sarah Braithwaite’s shoulder.
 
 Aubrie was on her feet in an instant, the protective peace of the study session vanishing as she rushed toward the door.
 
@@ -2328,7 +2328,7 @@ The cramped space of Suite 214/216 was not designed to hold twelve highly emotio
 
 Aubrie and Madison immediately ushered everyone inside, locking the hallway door securely behind them. They propped both of the connecting bathroom doors wide open, allowing the massive group to spill over into Room 216.
 
-Lauren Barnes and Sarah sat side-by-side on the edge of Jordan’s Twin XL bed, a box of tissues resting between them. The atmosphere in the room was electric with protective outrage as the two girls explained exactly what had just happened under the bright lights of the Newman Hall pool tables.
+Lauren Barnes and Sarah sat side-by-side on the edge of Jordan’s Twin XL bed, a box of tissues resting between them. The atmosphere in the room was electric with protective outrage as the two girls explained exactly what had just happened under the bright lights of the Kincaid Hall pool tables.
 
 When Lauren finally dropped the bombshell—*Tom was playing us both*—the reaction from the core suite was immediate. Madison let out a furious gasp, Zoë crossed her arms with a deadly glare, and Aubrie looked like she was ready to march to the student center and dismantle Tom herself.
 
@@ -2348,7 +2348,7 @@ While the room buzzed with loud, protective outrage, Jordan quietly unlocked his
 
 Lauren read the words, a fresh wave of tears hitting her, but this time, they were tears of profound relief. She reached out and hugged Jordan tightly around his shoulders. Sarah read the screen next, her expression softening into deep, respectful awe at the quiet boy in the wheelchair.
 
-"Jordan is right," Mark said from the doorway of the bathroom, his voice steady and serious. "Tom just got humiliated by nine people in the middle of Newman Hall, and Jessica has a photo of it. He's going to spiral. But he's not getting anywhere near you guys. I'll text my suitemates on the third floor. We'll be your early warning system if he or any of his lacrosse buddies show up at this building."
+"Jordan is right," Mark said from the doorway of the bathroom, his voice steady and serious. "Tom just got humiliated by nine people in the middle of Kincaid Hall, and Jessica has a photo of it. He's going to spiral. But he's not getting anywhere near you guys. I'll text my suitemates on the third floor. We'll be your early warning system if he or any of his lacrosse buddies show up at this building."
 
 "And the fifth floor has your back," Jessica added firmly from where she was leaning against the dresser. "We'll keep an eye out everywhere else on campus."
 
