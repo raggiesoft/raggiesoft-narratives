@@ -30,12 +30,28 @@ Purpose:
 * **Marching Band:** **The Marching Forgers**.
 * **Student Fan Section:** **The Ironheads** (the fanatical, hard-hat-and-overalls-wearing student section in the North End Zone of The Crucible; CPI's football counterpart to **Buchanan University** basketball's *The Pavilion Lunatics* at Buchanan Indoor Pavilion).
 
-### Key Campus & Blacksburg Landmarks
-* **The Commonwealth Green:** The massive central oval lawn at the heart of campus (in-universe counterpart to the Drillfield), bordered by neo-Gothic quarried limestone academic buildings.
-* **Alumni Mall:** The main ceremonial boulevard and home to the primary on-campus **CPI Transit Center** (where Blue Ridge Transit routes converge).
-* **Bennett Hall:** The residential dormitory housing **Suite 214**, home to Jordan Shawn Kelly, Aubrie, and the Group of 8 during the 2014–2016 timeline (*The Aubrie Chronicles*).
-* **Progress Street NW:** The residential street just north of campus where the O'Connell siblings (Ryan, Cassidy, and Holly) and their maternal twin cousins (Evan and Tyler Wright) shared an off-campus rental house from 1985 to 1989 and formed **The Stardust Engine** in their garage.
-* **Pepper Street & Pepper Plaza:** Major student residential and commercial corridor on the west/south side of Blacksburg (home to Paige, Freddie, and Jessica at `105 Pepper Street`, and the **Pepper Plaza** transit transfer hub next to **Valu-Mart**).
+### Key Campus & Blacksburg Landmarks (Master Gazetteer)
+* **Commonwealth Green (*The Green*):** The massive central oval lawn at the heart of campus (in-universe counterpart to the Drillfield), bordered by neo-Gothic **Ironstone** (quarried gray Appalachian limestone) academic buildings.
+* **Preston Hall:** Towering Neo-Gothic Ironstone administrative fortress on the northern rim of Commonwealth Green (counterpart to Burruss Hall), housing **Administrative Command** (Office of the President, Office of the Bursar, and the 3,000-seat **Preston Auditorium**).
+* **Commonwealth Mall:** The main ceremonial tree-lined boulevard connecting Downtown Blacksburg to Commonwealth Green (counterpart to Alumni Mall).
+  * **Pre-Transit-Center Era (2004):** Before the dedicated multi-bay **CPI Transit Center** opened, **Blue Ridge Transit (BRT)** buses staged bumper-to-bumper along the curb of Commonwealth Mall beneath **The Keystone Bridge** across from **Kincaid Hall** in a chaotic, diesel-choked queue (the site of Erin's November 2004 front-door ADA ramp rescue of her twin brother John in *Before the Distance*).
+  * **CPI Transit Center:** Multi-bay off-street concrete bus loop constructed in later years to replace the chaotic Commonwealth Mall curbside lineup.
+* **Keystone Hall & The Keystone Bridge:** Monumental arched Ironstone skybridge spanning Commonwealth Mall (counterpart to Torgersen Hall & Bridge), linking **Keystone Hall** directly to **Pendleton Library**.
+* **Pendleton Library (*Pendleton Memorial Library*):** Main university research library at the head of Commonwealth Mall and Commonwealth Green (counterpart to Carol M. Newman Library).
+* **Kincaid Hall (*Kincaid Student Center*):** Massive student union along Commonwealth Mall (counterpart to Squires Student Center; formerly `Newman Hall` in early drafts), housing the **Kincaid Atrium**, **Kincaid Grand Ballroom**, **Kincaid Auditorium**, **Kincaid Second-Floor Lounge**, **Kincaid Game Room & Pool Tables**, and the **PolyPass ID Office**.
+* **Callahan Hall:** Quiet, carpeted building near the eastern edge of Commonwealth Green (counterpart to Henderson Hall), housing **Services for Students with Disabilities (SSD)** / **Office of Educational Accessibility** and the **SSD Quiet Room Testing Center**.
+* **The Engineering Quad:** Located northwest of Commonwealth Green, anchored by:
+  * **Faraday Hall:** Electrical & Systems Engineering (3rd-Floor Systems & Control Lab).
+  * **Joule Hall:** Mechanical, Aerospace & Materials Engineering.
+  * **Kelvin Hall:** Computer Science & Symbolic Logic.
+  * **Archer Hall:** General Undergraduate Lecture Hall (where Dr. Thorne teaches `HPE 204` in *Paige*).
+* **Copernicus Hall (*The Science Complex*):** Brutalist concrete-and-Ironstone science building housing Physics, Astronomy (`PHY 102` / `AST 101` 200-seat tiered amphitheater), and the CPI Geological Sciences seismograph.
+* **Carter Hall:** Historic brick humanities building on the upper quad reached via a steep, winding incline (where Dr. Gable teaches `History 101: Western Civilization` in *Aubrie*).
+* **Eleanor Bennett Commonwealth Hall (*Bennett Hall* / *"The Old Lady"* / *"The Old Lady on the Hill"*):** 100% fictional historic 1960s residence hall perched on a grassy overlook above Commonwealth Green; **Suite 214 / 216** serves as the accessible sanctuary for Jordan Shawn Kelly, Aubrie, and the Group of 8 during the 2014–2016 timeline (*The Aubrie Chronicles*).
+* **Westgate Hall:** Traditional undergraduate residence hall on the residential quad.
+* **The Foundry & Kincaid Commons:** Primary campus dining halls—**The Foundry** is the massive two-story rotunda dining hall serving the residential quad (counterpart to Dietrick Hall / D2), while **Kincaid Commons** is the multi-level hillside dining hall built into the slope between the upper and lower quads (counterpart to Owens Food Court).
+* **Progress Street NW:** The residential street just north of campus where the O'Connell siblings (Ryan, Cassidy, and Holly) and their maternal twin cousins (Evan and Tyler Wright) shared an off-campus rental house (`412 Progress Street NW`) from 1985 to 1989 and formed **The Stardust Engine**, and where twins John & Erin share a ground-floor wheelchair-accessible apartment in *Before the Distance*.
+* **Pepper Street & Pepper Plaza:** Major student residential and commercial corridor in Christiansburg/Blacksburg (home to Paige, Freddie, and Jessica at `105 Pepper Street`, and the **Pepper Plaza** transit transfer hub next to **Valu-Mart**).
 * **The Ironwood Collective (`Stardust Blacksburg, LLC`):** Founded in 2003 by the O'Connell Family Trust (`Stardust Properties, LLC`), providing renovated, fiber-equipped student apartments along the Blue Ridge Transit "Spine" priced 15% below market rate so no CPI student ever has to choose between physical safety and tuition.
 
 ### Academic & Enrollment Mechanics Across Narratives
@@ -49,19 +65,21 @@ Purpose:
 
 ---
 
-## II. The Crucible & The 1995 Ironhead Covenant
+## II. The Crucible, The Furnace, & The 1995 Ironhead Covenant
 
-* **In-Universe Counterpart:** Lane Stadium / Worsham Field (Blacksburg, VA).
-* **Official Name:** **The Crucible** (strictly un-hyphenated; corporate naming rights are legally barred in perpetuity).
-* **Capacity:** **65,000** (often referred to colloquially in chants and lyrics as *"Sixty thousand standing in the maroon and orange sea"*).
-* **The North End Zone ("The Anvil"):** General-admission, unpadded galvanized metal bleacher seating reserved for **The Ironheads** (the 20,000-strong student section). Engineered so metal-on-metal boot stomping reverberates like artillery fire across the New River Valley.
+* **In-Universe Counterparts:**
+  * **The Crucible:** Lane Stadium / Worsham Field (65,000-seat open-air football stadium).
+  * **The Furnace:** Cassell Coliseum (10,000-seat vaulted-roof indoor basketball and convocation arena immediately adjacent to The Crucible).
+* **Official Names:** **The Crucible** and **The Furnace** (strictly un-hyphenated; corporate naming rights are legally barred in perpetuity for both venues).
+* **Capacity:** **65,000** at The Crucible (often referred to colloquially in chants and lyrics as *"Sixty thousand standing in the maroon and orange sea"*); **10,000** at The Furnace.
+* **The North End Zone ("The Anvil"):** General-admission, unpadded galvanized metal bleacher seating inside The Crucible reserved for **The Ironheads** (the 20,000-strong student section). Engineered so metal-on-metal boot stomping reverberates like artillery fire across the New River Valley.
 
 ### The August 15, 1995 "Ironhead Covenant"
-On August 15, 1995, CPI alumnus and industrial magnate **Jeremiah "Ironhead" Vance (Class of 1952)** executed a binding **\$100,000,000.00 Deed of Gift** endowing the *Vance Forger Scholarship Fund* (ensuring full tuition, room, and board for CPI student-athletes). Acceptance of the \$100M principal was conditioned on three perpetual covenants running with the land:
-1. **Section 2.1 — Naming Rights in Perpetuity:** The stadium must remain `"THE CRUCIBLE"` forever. No bank, corporation, or individual name may ever be prefixed, appended, or hyphenated (e.g., *"The Crucible at [Corporate Name]"* is strictly forbidden).
-2. **Section 2.2 — The Acoustic Mandate:** All future renovations or expansions must prioritize vertical noise-trapping geometry over luxury suites ("the architecture must serve the roar"), preserving The Crucible's status as the loudest collegiate stadium in the world.
-3. **Section 2.3 — The Spirit of Iron:** Primary structural materials must remain exposed concrete and steel, and the North End Zone (**The Anvil**) must remain general-admission metal bleachers ("comfort shall never supersede volume").
-4. **Article III — The Clawback Penalty:** Any breach triggers immediate revocation of the \$100,000,000 principal plus **compound interest at the Federal Prime Rate + 2%** accruing retroactively from August 15, 1995—making a corporate naming-rights deal mathematically suicidal for any future University Board of Visitors.
+On August 15, 1995, CPI alumnus and industrial magnate **Jeremiah "Ironhead" Vance (Class of 1958)** executed a binding **Deed of Gift** (`CPI-2017-084-VANCE`) endowing the *Vance Forger Scholarship & Facilities Fund*. Acceptance of the principal was conditioned on perpetual covenants running with the land:
+1. **Section 2.1 — Naming Rights in Perpetuity (The Crucible & The Furnace):** The football stadium must remain **`"THE CRUCIBLE"`** and the basketball arena must remain **`"THE FURNACE"`** forever. No bank, corporation, telecom conglomerate, or individual name may ever be prefixed, appended, or hyphenated to either venue (e.g., *"The Crucible at [Corporate Name]"* or *"The [Sponsor] Furnace"* is strictly forbidden).
+2. **Section 2.2 — The Acoustic Mandate:** All future renovations or expansions must prioritize vertical noise-trapping geometry over luxury suites ("the architecture must serve the roar"), preserving The Crucible's and The Furnace's status as the loudest collegiate venues in the world.
+3. **Section 2.3 — The Spirit of Iron:** Primary structural materials must remain exposed concrete, Ironstone, and steel, and the North End Zone (**The Anvil**) must remain general-admission metal bleachers ("comfort shall never supersede volume").
+4. **Article III — The Clawback Penalty:** Any breach regarding either **The Crucible** or **The Furnace** triggers immediate revocation of the principal plus **compound interest at the Federal Prime Rate + 2%** accruing retroactively from August 15, 1995—making a corporate naming-rights deal mathematically suicidal for any future University Board of Visitors.
 
 ---
 
@@ -117,18 +135,18 @@ On August 15, 1995, CPI alumnus and industrial magnate **Jeremiah "Ironhead" Van
 
 ### Core Routes & Regional Interchanges
 1. **BRT Route 1 ("The Spine"):**
-   * **Corridor:** `Christiansburg Transit Center at Falling Branch (Exit 118) ↔ Uptown Mall / Christiansburg ↔ Pepper Plaza (Valu-Mart) ↔ Downtown Blacksburg ↔ Progress Street NW ↔ Alumni Mall (CPI Transit Center)`.
+   * **Corridor:** `Christiansburg Transit Center at Falling Branch (Exit 118) ↔ Uptown Mall / Christiansburg ↔ Pepper Plaza (Valu-Mart) ↔ Downtown Blacksburg ↔ Progress Street NW ↔ Commonwealth Mall (beneath The Keystone Bridge / CPI Transit Center)`.
    * **Headway:** Every 15 minutes (60-foot Prairie Coachworks articulated buses deployed continuously during class changes and peak hours).
 2. **BRT Route 3 ("The Radford Link"):**
    * **Corridor:** `Pepper Plaza ↔ McConnell Transit Center (Radford University)` (Every 30 minutes).
 3. **BRT Route 8 ("The Riner Run"):**
    * **Corridor:** `Pepper Plaza ↔ Riner` (Hourly connection to rural medical services).
 4. **Bluewater Transit — *The Maroon Express*:**
-   * **Corridor:** `Carroll County / Hillsville ↔ I-81 Exit 98 (NRVRC / Justin's Station) ↔ I-81 Exit 118 (Christiansburg Transit Center at Falling Branch) ↔ CPI Alumni Mall`.
+   * **Corridor:** `Carroll County / Hillsville ↔ I-81 Exit 98 (NRVRC / Justin's Station) ↔ I-81 Exit 118 (Christiansburg Transit Center at Falling Branch) ↔ CPI Commonwealth Mall`.
    * **Equipment:** 45-foot over-the-road commuter coaches equipped with mid-coach hydraulic ADA wheelchair lifts.
    * *Cross-Universe Tie-In (`Amaya / Justin Hayes`):* At **I-81 Exit 98** (the 566-acre **New River Vocational Rehabilitation Center** acquired for \$1.00 by the Hayes and Rios families, anchored by the cashless **Justin's Station** convenience store and sawtooth bus bays), Justin Hayes and his 20-woman protective phalanx (*The Wall of 20*) board the 6:30 AM *Maroon Express*, consuming 21 of the 49 coach seats plus the ADA securement bay—creating a legendary downstream capacity bottleneck at Falling Branch that forces late-arriving CPI commuters onto local Route 1 artics.
 5. **Roanoke Valley Transit (`RVT`):**
-   * **Corridor:** `CPI Alumni Mall ↔ Christiansburg Transit Center ↔ Downtown Roanoke (Campbell Court) & Roanoke Regional Airport`.
+   * **Corridor:** `CPI Commonwealth Mall ↔ Christiansburg Transit Center ↔ Downtown Roanoke (Campbell Court) & Roanoke Regional Airport`.
 
 ---
 
