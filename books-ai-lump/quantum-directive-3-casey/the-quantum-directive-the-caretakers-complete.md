@@ -22,7 +22,7 @@ Rolling effortlessly alongside us was my older sister, Cassandra. At seventeen, 
 
 Cassandra was navigating her manual wheelchair with the kind of casual, practiced fluid motion that came from years of muscle memory. Her axial load injury was just a standard fact of our family's logistics now, an unquestioned baseline that Cassandra had brutally optimized long ago. 
 
-"The ARTS Northeast Regional is on time," Cassandra announced, glancing down at a printed itinerary resting on her lap. She didn't look up as she adjusted her glasses. "We connect in Alexandria. From there, we transition to the Capital Transit bus network to Dunn Loring, catch the Orange Line, and then intercept the CCT at Vienna. It is a seamless loop."
+"ARTS *The Patriot* is on time," Cassandra announced, glancing down at a printed itinerary resting on her lap. She didn't look up as she adjusted her glasses. "We connect in Alexandria. From there, we transition to the Capital Transit bus network to Dunn Loring, catch the Orange Line, and then intercept the CCT at Vienna. It is a seamless loop."
 
 My father sighed, looking at the massive, folding accessibility map my sister had meticulously highlighted. "Cassandra, I'm all for taking the train up to ALX. We always do. But there is absolutely no reason to subject the entire family to a surface bus transfer through Seven Corners. We could just get on the Blue Line, ride it to Rosslyn, and transfer directly to the Orange Line to Vienna."
 
@@ -34,13 +34,13 @@ My father sighed, looking at the massive, folding accessibility map my sister ha
 
 I looked at Cassandra. Even at seventeen, she didn't just plan trips; she executed operations. She was already treating her college tours like tactical deployments. Once this George Wythe trip was over, and Casey and I finished our VDU summer camps, the family was flying all the way to Washington State to tour the Seattle campus of Northwest Pacific University.
 
-But for now, the distant, heavy blast of a train horn echoed down the tracks. The ARTS Northeast Regional was pulling into NPN. Cassandra unlocked her brakes, her eyes fixed sharply on the horizon. The great college expedition had officially begun.
+But for now, the distant, heavy blast of a train horn echoed down the tracks. ARTS *The Patriot* was pulling into NPN. Cassandra unlocked her brakes, her eyes fixed sharply on the horizon. The great college expedition had officially begun.
 
 ### Scene 2: The Northern Regional
 
 **Date:** 1995-07-01 at 08:30 America/New_York
 
-The ARTS Northeast Regional train rocked gently as it cleared the limits of Newport News, settling into a smooth, high-speed cadence on the rails heading north. 
+The ARTS *The Patriot* train rocked gently as it cleared the limits of Newport News, settling into a smooth, high-speed cadence on the rails heading north. 
 
 Inside the designated accessibility car, our seating arrangement was mathematically precise. Cassandra was parked securely in the open wheelchair bay, her brakes locked. Because of the orientation of the tie-downs, she was facing backward relative to the train’s movement, allowing her to look directly at Casey and me. 
 
@@ -76,7 +76,7 @@ I looked out the window again, smiling. Casey wasn't just tagging along on her o
 
 **Date:** 1995-07-01 at 12:45 America/New_York
 
-The moment the ARTS Northeast Regional pulled into Alexandria Station (ALX), our family’s transition from passengers to a unified logistical unit was immediate.
+The moment ARTS *The Patriot* pulled into Alexandria Station (ALX), our family’s transition from passengers to a unified logistical unit was immediate.
 
 "Deploy the ramp," Cassandra commanded quietly to the conductor as the doors slid open. Once her wheels hit the concrete, she took point. 
 
@@ -776,7 +776,7 @@ We retreated to the basement food court, grabbing quick, overpriced meals while 
 
 "This is the fundamental flaw of WAS," Cassandra complained, aggressively stabbing a piece of lettuce in her salad. "At Alexandria, the platform is entirely accessible from the surface. I can roll directly up to the train. Here, the boarding gates are locked. We are forced to wait in the main hall, completely reliant on the ARTS Red Cap service to manually escort us down an employee elevator to the platform. It strips me of my autonomy."
 
-She hated being forced to wait for an escort. She knew exactly which track the 3:50 PM Northeast Regional was arriving on, and she was more than capable of navigating to it herself, but the architecture of Union Station explicitly prevented her from doing so. 
+She hated being forced to wait for an escort. She knew exactly which track the 3:50 PM ARTS *The Patriot* was arriving on, and she was more than capable of navigating to it herself, but the architecture of Union Station explicitly prevented her from doing so. 
 
 Eventually, a Red Cap agent arrived, unlocked the gate, and escorted our family down the heavy freight elevator to the damp, diesel-smelling platform below. 
 

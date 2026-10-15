@@ -61,7 +61,7 @@ Unlike the previous three students, who had glanced nervously at their name tags
 
 Up at the front media cart, the student organizer was juggling a stack of sign-in clipboards with one hand while reaching blindly for the "|<<" restart button on the AudioStar CD player with the other. In his rush, his thumb missed the back button by half an inch and jammed down hard on ">>|" instead—skipping right past Track 3 and landing on Track 4.
 
-For ten seconds, a lush, cinematic Vangelis-style analog synthesizer swell filled the lounge. Half the room assumed it was an extended intro to the ballad.
+For ten seconds, a lush, cinematic analog brass-synth swell filled the lounge. Half the room assumed it was an extended intro to the ballad.
 
 Then—*CRASH.*
 
@@ -87,9 +87,9 @@ At Table 4, Valerie didn't flinch or look toward the speakers. Instead, she reac
 
 "Leave it!" Valerie laughed over the roaring chorus, her eyes shining as she leaned closer to John. "Everyone else gets a polite little three-minute lullaby. You and I get the storm. Tell me that isn't a sign."
 
-John's heart hammered against his ribs in time with the 150-BPM kick drum. Used to being treated either as an academic study partner or as a Fragile Accommodation Request by strangers on campus, the sheer, undivided intensity of her focus felt intoxicating. He didn't register the red flags in the way she had skipped the rotation rules, or the way her fingers were already subtly resting over his chair's control hand, or the literal warning screaming from the speakers.
+John's heart hammered against his ribs in time with the 150-BPM kick drum. Used to being treated either as an academic study partner or as a Fragile Accommodation Request by strangers on campus, the sheer, undivided intensity of her focus felt intoxicating.
 
-He just smiled back into the spotlight of her attention.
+He smiled back into the spotlight of her attention.
 
 "Yeah," John said over the thunder of the guitars. "Maybe it is."
 
@@ -101,7 +101,7 @@ He just smiled back into the spotlight of her attention.
 
 Cold November rain slanted sideways across Commonwealth Mall, drumming against a wall of umbrellas and pooling in dark, diesel-streaked puddles along the granite curb beneath the vaulted Ironstone arch of The Keystone Bridge.
 
-In the autumn of 2004—years before the university ever built a dedicated, off-street CPI Transit Center—catching a bus at five o'clock on a weekday evening was an absolute logistical nightmare. There was no concrete terminal loop, no sheltered island bays, and no separation from campus traffic. Instead, every single Blue Ridge Transit route staged bumper-to-bumper along the open curb of Commonwealth Mall between Kincaid Hall and Pendleton Library, their forty- and sixty-foot diesel engines idling in a deafening, exhaust-choked line while delivery vans, soaked pedestrians, and bicycles fought for every inch of wet asphalt.
+Along Commonwealth Mall, catching a bus at five o'clock on a weekday evening was an absolute logistical nightmare. Every single Blue Ridge Transit route staged bumper-to-bumper along the open curb between Kincaid Hall and Pendleton Library, their forty- and sixty-foot diesel engines idling in a deafening, exhaust-choked line while delivery vans, soaked pedestrians, and bicycles fought for every inch of wet asphalt.
 
 Erin sat in her power wheelchair just inside the dry stone shadow of The Keystone Bridge's northern arch, her maroon CPI windbreaker zipped to her chin and her hands tucked into fleece-lined gloves. Every thirty seconds, her eyes flicked from the chaotic wall of glowing amber LED bus headboards lining the Commonwealth Mall curb down the long, wet concrete incline leading up from Faraday Hall and the Commonwealth Green.
 

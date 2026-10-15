@@ -8988,7 +8988,7 @@ Nichole leaned forward. The picture showed a massive, open-air train platform. I
 
 Nichole made a soft, impressed *whistle* sound.
 
-"It gets better," Patrick grinned. "It's shared track. BTA Regional Rail uses it, but so does the ARTS Northeast Regional line. It's all high-level boarding. Flat, roll-on, roll-off."
+"It gets better," Patrick grinned. "It's shared track. BTA Regional Rail uses it, but so does the ARTS *The Patriot* line. It's all high-level boarding. Flat, roll-on, roll-off."
 
 Nichole tapped her screen. <aac>Where. Does. It. Go?</aac>
 
@@ -11146,13 +11146,13 @@ They rolled over to the fare gates. Patrick held up Nichole’s BTA Zone 15 Regi
 
 They took the massive glass elevator up to **Level 2: The Sky Platform**. Stepping out of the elevator, they felt the station's architectural power. The elevated viaduct ran parallel to the coastline, offering a dramatic view of Narragansett Bay through the floor-to-ceiling glass walls. The water was churning with whitecaps, confirming the ferry suspension.
 
-An **ARTS Northeast Regional** train glided into the station. It was the 2:30 PM train heading north to the city, and under the BTA/ARTS agreement, local riders could board the intercity trains for one-stop hops within the metro area.
+An **ARTS *The Patriot*** train glided into the station. It was the 2:30 PM train heading north to the city, and under the BTA/ARTS agreement, local riders could board the intercity trains for one-stop hops within the metro area.
 
 The doors slid open. Because the platform was raised to match the floor height of the coaches perfectly, there was 100% level boarding. Patrick pushed Nichole straight on—no bridge plates, no ramps.
 
 When the conductor came through, Patrick didn't buy a ticket. He just held up their BTA LinkPasses. Since they were in the Coach section, the conductor simply nodded; no upgrade fee was required for the one-stop ride to Braxton Central Terminal.
 
-At **2:45 PM**, the ARTS Northeast Regional train didn't glide into a glass cathedral. It rumbled into a construction site.
+At **2:45 PM**, the ARTS *The Patriot* train didn't glide into a glass cathedral. It rumbled into a construction site.
 
 **Braxton Central Terminal** was midway through a massive, billion-dollar modernization project scheduled for completion in 2005. The "Glass Cathedral" the brochures promised was currently a skeleton of raw steel and orange safety netting.
 
@@ -15417,7 +15417,7 @@ A guy in a backwards baseball cap—the ringleader—pushed a heavy cart into th
 
 He hit a button on a massive boombox strapped to the cart.
 
-The Music: He had clearly meant to cue up *"Seconds Into Forever"* from The Stardust Engine's *Progress Street*—a sweet, three-minute romantic ballad literally built to time a speed-dating round. Instead, in his frantic rush, he fat-fingered the skip button on the boombox and landed on the next track. For ten seconds, a majestic, Vangelis-style synthesizer swell filled the room. It sounded like slow-motion victory. Patrick almost relaxed. Then—CRASH. A screeching guitar slide tore through the air, followed by a pounding synth-drum beat at 150 BPM. It was *"Thunder in the Rain"* by The Stardust Engine.
+The Music: He had clearly meant to cue up *"Seconds Into Forever"* from The Stardust Engine's *Progress Street*—a sweet, three-minute romantic ballad literally built to time a speed-dating round. Instead, in his frantic rush, he fat-fingered the skip button on the boombox and landed on the next track. For ten seconds, a majestic, cinematic analog brass-synth swell filled the room. It sounded like slow-motion victory. Patrick almost relaxed. Then—CRASH. A screeching guitar slide tore through the air, followed by a pounding synth-drum beat at 150 BPM. It was *"Thunder in the Rain"* by The Stardust Engine.
 
 Thirty students flooded the room, laughing and breathless. They began pairing off randomly, shouting over the power ballad.
 

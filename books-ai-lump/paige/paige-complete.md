@@ -2856,7 +2856,7 @@ They left the quiet refuge of the bench and descended toward the south end of ca
 
 A low rumble—like a distant thunderstorm that refused to break—began to vibrate through the soles of Freddie’s shoes.
 
-"The Transit Center is empty," Freddie observed, looking at the bus loops they had used earlier. They were deserted, the bays dark.
+"Commonwealth Mall is empty," Freddie observed, looking back toward the curbside bus stops they had used earlier. The long boulevard curb was completely deserted.
 
 "Diversion protocol," Jessica explained, pointing down the road. "On Game Day, the hub moves. The center of gravity shifts."
 
@@ -5372,9 +5372,9 @@ Freddie leaned back against the wall. The lobby was quiet again. The threats—t
 
 ### Scene 6: The Safe Zone
 
-The walk to the **CPI Transit Center** was a silent march. The adrenaline from the confrontation in the lobby was fading, replaced by the heavy, humid weight of a Virginia afternoon.
+The walk to **Commonwealth Mall** was a silent march. The adrenaline from the confrontation in the lobby was fading, replaced by the heavy, humid weight of a Virginia afternoon.
 
-A white-and-maroon bus was already idling in the loop, its diesel engine rumbling with a deep, patient rhythm. The destination sign glowed amber: **1 FALLING BRANCH**
+A white-and-maroon bus was already idling at the curb, its diesel engine rumbling with a deep, patient rhythm. The destination sign glowed amber: **1 FALLING BRANCH**
 
 "That’s us," Jessica said, her voice tired. "Let’s get out of here."
 

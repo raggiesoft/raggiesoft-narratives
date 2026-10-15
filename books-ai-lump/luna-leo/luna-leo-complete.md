@@ -5574,13 +5574,13 @@ They took the elevator down to the station's lower level, a bustling food court 
 
 The meal was a relaxed, happy affair. They ate and talked, their conversation filled with their favorite moments from the past few days—the awe of the Finch Museum of Air and Space, the quiet dignity of the Lincoln Memorial, and the delicious discovery of poutine and Montreal smoked meat.
 
-With their stomachs full and their spirits high, they made their way to the departure gate. A Red Cap assisted them with their luggage, leading them down the platform to the Business Class car of the ARTS *Northeast Regional*. They boarded the train, finding their familiar four-person table, and settled in for the next leg of their great adventure. The whistle blew, and with a gentle lurch, the train pulled out of the station, the grand dome of the Capitol Building sliding past their window as they journeyed north toward Philadelphia.
+With their stomachs full and their spirits high, they made their way to the departure gate. A Red Cap assisted them with their luggage, leading them down the platform to the Business Class car of ARTS *The Patriot*. They boarded the train, finding their familiar four-person table, and settled in for the next leg of their great adventure. The whistle blew, and with a gentle lurch, the train pulled out of the station, the grand dome of the Capitol Building sliding past their window as they journeyed north toward Philadelphia.
 
 ### Scene 2: A Layover in Philly
 
 **Date:** 2003-06-22 at 11:00 America/New_York
 
-The ARTS *Northeast Regional* glided smoothly into Philadelphia's 30th Street Station right on time. The two-hour journey from Washington had been a quiet, comfortable ride, another successful leg in their grand adventure.
+ARTS *The Patriot* glided smoothly into Philadelphia's 30th Street Station right on time. The two-hour journey from Washington had been a quiet, comfortable ride, another successful leg in their grand adventure.
 
 Disembarking onto the busy platform, they found themselves in a space that felt just as grand and historic as D.C.'s Union Station. The main concourse was immense, with a soaring, coffered ceiling, Art Deco chandeliers, and massive windows that flooded the space with natural light.
 
@@ -15165,7 +15165,7 @@ The air in Newport News was damp and cold, a wet chill that settled into the bon
 
 The Fortress stood on the concrete platform, bundled in coats.
 
-Stella checked her watch. "Train 94. Coastal Service. On time."
+Stella checked her watch. "Train 94. *The Patriot*. On time."
 
 Arthur and Eleanor stood nearby. Arthur was leaning heavily on his cane, his breath pluming in the cold air. He smelled of peppermint and Old Spice—the scent of a man who had prepared meticulously for one last long haul.
 
@@ -16919,7 +16919,7 @@ Leo rolled to the window and looked out at the street of Iron Point. It was no l
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
-The Recon Mission was over. The Fortress stood on the platform, waiting for the southbound **ARTS Coastal Service** to take them back to Virginia.
+The Recon Mission was over. The Fortress stood on the platform, waiting for the southbound **ARTS *The Patriot*** to take them back to Virginia.
 
 Arthur leaned heavily on his cane. He was exhausted. The color had drained from his face, leaving his skin looking like parchment. But his eyes were bright.
 
@@ -17205,7 +17205,7 @@ They walked out of the studio, carrying their patriarch into the winter sun, rea
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
-The Fortress stood on the platform, waiting for **ARTS Coastal Service 95**—the southbound train to Newport News.
+The Fortress stood on the platform, waiting for **ARTS *The Patriot* 95**—the southbound train to Newport News.
 
 They looked different than they had when they arrived a week ago. They were tired, grieving, and dressed in black. But they also looked stronger. They stood a little straighter. They weren't just visitors anymore; they were residents returning to the old country to settle affairs.
 
@@ -17428,7 +17428,7 @@ Leo looked at the map on his screen. He traced the rail line.
 
 <aac>We take the train,</aac> he typed.
 
-"We take the train," Stella agreed. "We book Business Class on the ARTS Coastal Service. We ride together, relaxed. We get off at Iron Point Station, and we walk the two blocks to our front door."
+"We take the train," Stella agreed. "We book Business Class on ARTS *The Patriot*. We ride together, relaxed. We get off at Iron Point Station, and we walk the two blocks to our front door."
 
 "And the stuff?" Luna asked. "The furniture? The MagnaBytes?"
 
@@ -17575,7 +17575,7 @@ It wasn't the luxury of the University Inn in Braxton, but it was clean, accessi
 
 Stella gathered the team in the room. She pulled out the **CVTA (Coastal Virginia Transit Authority)** bus schedule.
 
-"Okay," Stella said. "Logistics for tomorrow. The **ARTS Coastal** train leaves NPN at 6:00 AM. NPN is at Lafayette Square."
+"Okay," Stella said. "Logistics for tomorrow. The **ARTS *The Patriot*** train leaves NPN at 6:00 AM. NPN is at Lafayette Square."
 
 "The rough part of town," Olivia noted.
 
@@ -17703,7 +17703,7 @@ Stella didn't even break stride. She patted her bag.
 They bypassed the miserable queue and walked around the side of the building to the platform gate.
 
 
-The silver **ARTS Coastal Service** train was waiting on the tracks, its engine humming—a sleek, modern machine parked next to a relic of a station.
+The silver **ARTS *The Patriot*** train was waiting on the tracks, its engine humming—a sleek, modern machine parked next to a relic of a station.
 
 The conductor saw them coming. He spotted the wheelchair.
 
@@ -17762,7 +17762,7 @@ The train pulled out of the station, leaving the ARTS-Box, the humidity, and the
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
-The silver **ARTS Coastal** train hissed to a halt. The conductor deployed the bridge plate.
+The silver **ARTS *The Patriot*** train hissed to a halt. The conductor deployed the bridge plate.
 
 *"Now arriving... Iron Point. Caution, gap."*
 
@@ -20500,11 +20500,11 @@ The Fortress stood under the shelter. Leo sat in his Titan X-Treme, the new rain
 
 "6:15 BTA is on time," Stella noted, checking the board. "But look at track 1."
 
-**ARTS COASTAL 84 (Boston) - DELAYED** **EST ARRIVAL: 06:10 AM**
+**ARTS THE PATRIOT 84 (Boston) - DELAYED** **EST ARRIVAL: 06:10 AM**
 
 "The silver train is late," Luna said. "But it's here now."
 
-A horn blasted. The sleek ARTS Coastal locomotive roared into the station. It wasn't the usual morning commuter; it was the intercity express running 40 minutes behind schedule.
+A horn blasted. The sleek ARTS *The Patriot* locomotive roared into the station. It wasn't the usual morning commuter; it was the intercity express running 40 minutes behind schedule.
 
 The conductor deployed the bridge plate.
 

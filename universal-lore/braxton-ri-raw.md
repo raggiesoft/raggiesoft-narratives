@@ -269,7 +269,7 @@ Level 1: The Deep (Lower Train Shed)
 	•	Structure: A cavernous subterranean hall running North-South.
 	•	Tracks: 8 Tracks (Tracks 1–8).
 	•	Primary Service:
-	•	ARTS Intercity Rail: The Coastal Service and The Patriot.
+	•	ARTS Intercity Rail: The Coastal Corridor (Acela) and The Patriot (Northeast Regional).
 	•	BTA Metro: The Red Line and Silver Line.
 	•	The Blue Line: Runs in a separate, deeper tunnel perpendicular to Level 1, accessible via a dedicated escalator bank.
 3. Vertical Circulation
@@ -376,7 +376,7 @@ The Announcements
 The station uses a zoned audio system with a clear, gender-neutral synthetic voice.
 	•	The Reverb: Because of the glass, announcements have a slight, bright echo (short decay), not a muddy boom.
 	•	The Script:
-"May I have your attention please. ARTS Coastal Service 94... to Boston... is now boarding on Track 2... Lower Level."
+"May I have your attention please. ARTS The Patriot 94... to Boston... is now boarding on Track 2... Lower Level."
 BTA Announcements
 Here is the Official BTA Audio Style Guide & Scriptbook, covering every mode of transit in the Fortress's network.
 I. The Rules of the Airwaves
@@ -610,7 +610,7 @@ Lore Bible Entry: v1.0
 	•	Braxton, RI is a major Tier 1 metropolis (comparable to Boston or Chicago), distinct from and larger than Providence.
 	•	BCI Airport (Braxton Central International) serves as the primary international overflow hub for New England, handling heavy jets that cannot slot into Boston Logan. This makes the rail connection to the airport critical for the entire Eastern Seaboard.
 
-2. Service Tier 1: "The Atlantic"
+2. Service Tier 1: "The Patriot"
 	•	Real-World Equivalent: Northeast Regional.
 	•	Role: The heavy-haul workhorse. It connects the Bennett family's past (Virginia) with their future (Braxton/Boston).
 	•	Route: Norfolk/Newport News, VA $\rightarrow$ Washington D.C. $\rightarrow$ New York City $\rightarrow$ Braxton Metro Area $\rightarrow$ Providence $\rightarrow$ Boston (South Station).
@@ -618,7 +618,7 @@ Lore Bible Entry: v1.0
 	•	The Umbilical Cord: This train physically links the Fortress in Portsmouth (via the Iron Point stop) to their childhood home in Virginia.
 	•	The Commuter Hack: While it is an intercity train, Patrick and Nichole use it as a "Super-Express" subway within city limits thanks to the BTA Overlay.
 The "BTA Overlay" Zone (The Free Ride)
-	•	The Rule: Through a federal grant and shared-track agreement, holders of a valid BTA LinkPass (including the BSU Bull Pass) may ride The Atlantic in Coach Class at no additional cost strictly between the stations of Iron Point and Regalis Park.
+	•	The Rule: Through a federal grant and shared-track agreement, holders of a valid BTA LinkPass (including the BSU Bull Pass) may ride The Patriot in Coach Class at no additional cost strictly between the stations of Iron Point and Regalis Park.
 	•	The Trap: If a student stays on the train past Regalis Park (heading North to Kingston/Providence) or past Iron Point (heading South to Westerly), they become a federal passenger and are charged the full ARTS fare (approx. $30+). Conductors sweep the train at the zone borders.
 Station List (South $\rightarrow$ North within RI)
 	•	Westerly, RI (Outside Zone / Full Fare).
@@ -646,12 +646,12 @@ The Stop Schedule (The Bypass)
 4. Key Infrastructure: BCI Airport Station
 	•	Significance: Because Braxton is a Boston-sized metro, BCI (Braxton Central International) is massive.
 	•	The Connection: The ARTS station is integrated directly into the International Terminal.
-	•	The Flow: Passengers flying in from London or Tokyo take The Atlantic or The Velocity straight from the airport to downtown Braxton or Boston.
-	•	Bennett Usage: Patrick and Nichole use this station not to fly, but as a high-speed transfer point between the "South Shore" suburban rail and the "Atlantic" express.
+	•	The Flow: Passengers flying in from London or Tokyo take The Patriot or The Velocity straight from the airport to downtown Braxton or Boston.
+	•	Bennett Usage: Patrick and Nichole use this station not to fly, but as a high-speed transfer point between the "South Shore" suburban rail and "The Patriot" express.
 
 5. Summary for "Copyright & Trademark List"
-	•	Real Agency: Amtrak $\rightarrow$ ARTS (American Regional Transit System).
-	•	Real Service: Northeast Regional $\rightarrow$ The Atlantic (The Local Intercity; BTA Fares accepted in Zone).
+	•	Real Agency: Amtrak $\rightarrow$ ARTS (American Rail Transit Service).
+	•	Real Service: Northeast Regional $\rightarrow$ The Patriot (The Local Intercity; BTA Fares accepted in Zone).
 	•	Real Service: Acela $\rightarrow$ The Velocity (High-Speed Business; No BTA Fares).
 	•	Key Geography: Braxton is a Tier 1 City. BCI is an International Gateway.
 

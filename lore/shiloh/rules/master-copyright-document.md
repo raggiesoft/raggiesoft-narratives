@@ -69,7 +69,7 @@
 |New Flyer|Prairie Coachworks|Heavy-duty low-floor municipal transit and articulated buses (e.g., 30-foot RLFD30, 40-foot D40LF/RLFD40, and 60-foot D60LF/RLFD60 articulated coaches).|
 |Prevost|Sainte-Claire|High-deck luxury over-the-road motorcoaches manufactured in Sainte-Claire, Québec (e.g., the 45-foot *Sainte-Claire 45H3* / "The Iron Horse").|
 |Greyhound Lines|Pathfinder|Intercity bus service.|
-|Amtrak|ARTS|American Rail Transit Service. Key named trains: ***Coastal Service*** / ***The Patriot*** / ***Northeast Regional*** (Northeast Corridor & Virginia extensions to Newport News, Norfolk, Roanoke [Oct 31, 2017], and Christiansburg), ***Coastal Corridor*** (*Acela*), ***Coast Starlight / Coastliner***, ***Cascades / Cascadian***, ***Pennsylvanian***, ***Capitol Limited***, and ***Atlas-Liner***.|
+|Amtrak|ARTS|American Rail Transit Service. Key named trains: ***The Patriot*** (in-universe counterpart to Amtrak's *Northeast Regional*, serving the Northeast Corridor & Virginia extensions to Newport News, Norfolk, Roanoke [Oct 31, 2017], and Christiansburg), ***Coastal Corridor*** (*Acela*), ***Coast Starlight / Coastliner***, ***Cascades / Cascadian***, ***Pennsylvanian***, ***Capitol Limited***, and ***Atlas-Liner***.|
 |Southwest Airlines|Gateway Airlines|Domestic airline.|
 |United Airlines|Meridian Airlines|Features "The Prismatic Corridor" (equivalent to the ORD Neon Tunnel).|
 |Alaska Airlines|Cascade Air|Domestic airline.|
