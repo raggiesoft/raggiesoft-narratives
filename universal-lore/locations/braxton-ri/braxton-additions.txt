@@ -1,0 +1,166 @@
+IV. Pedestrian Infrastructure: The Braxton Link
+Colloquial: "The Link"
+Inspired by the Toronto PATH, The Braxton Link is a massive subterranean pedestrian network connecting the entirety of Downtown Braxton. It serves as an all-weather, climate-controlled concourse that integrates commercial, residential, and transit spaces.
+1. Navigation & Wayfinding
+Navigation mirrors the surface street grid directly above. Corridors are named using the "Sub" prefix attached to the surface street name (e.g., Sub College Avenue runs directly beneath College Avenue). Distance markers are posted at every intersection in both imperial and metric units.
+2. Building Access
+Every building in Downtown Braxton has zoning permission to connect to The Link. Entrances function like underground driveways:
+	•	Public Access: Retail hubs, transit stations, and government buildings feature open concourse connections.
+	•	Private/Gated Access: Residential towers and private offices utilize secure access doors (requiring keyfobs or biometrics) for residents to transition from The Link directly into their building.
+
+V. Campus Infrastructure: The Bull Run
+Official Designation:
+	•	BSU Campus Transit System (The Buses)
+	•	BSU Pedestrian Concourse (The Tunnels)
+The Naming Conflict
+To an outsider, "The Bull Run" is confusing because it refers to two completely different modes of travel. To a student, it makes perfect sense: The Bull Run is how you move.
+	•	"Riding the Bull Run" = Taking the Bus.
+	•	"Walking the Bull Run" = Taking the Tunnels.
+1. The Surface: Campus Bus System
+Operator: BTA (Contracted by BSU). Fare: Free with BSU ID; $2.00 Public.
+Fleet: 60-foot Articulated Buses in "Beacon Blue" livery.
+The Routes:
+	•	Route 80 (The Perimeter Loop): Circles the outer edge of the peninsula. (Every 5 mins).
+	•	Route 81 (The Core Cutter): Cuts through the center via University Avenue Transitway.
+	•	Route 82 (The Late Night Loop):
+	•	Nickname: "The Drunk Bus."
+	•	Schedule: Thurs–Sat, 8:00 PM – 3:00 AM.
+	•	Fare Policy: Zero Fare / No ID Required. The driver does not check credentials; the priority is getting students home safely to prevent DUIs or walking alone.
+2. The Subsurface: Pedestrian Tunnel Network
+Official Context: The BSU section of The Braxton Link.
+	•	Connectivity: 100% Connectivity. Every single building on campus—from the main library to the maintenance sheds—has a direct, climate-controlled connection.
+	•	The "Mole" Lifestyle: Students can go days without stepping outside during winter finals.
+	•	The Hub: "The Pit" (Intersection of Sub-University & Sub-College). A sunken amphitheater in the tunnels used for studying and busking.
+
+VI. Service Infrastructure: Route 99 ("The Scrub Bus")
+Official Name: BTA Route 99 (Regalis Park Shuttle).
+Role: Service shuttle for King's College staff.
+1. The "Invisible" Policy
+King’s College bans standard public transit buses from its grounds to avoid "visual clutter."
+	•	The Route: Starts at Regalis Park Station (Bottom of the hill) $\to$ Terminates at the Service Gate (Rear Entrance by the steam plant).
+	•	The Experience: Staff are dropped off at a bleak turnaround loop next to the dumpsters. There is no shelter, bench, or digital sign—just a rusted pole.
+2. The Schedule
+	•	Frequency: Once every 60 minutes.
+	•	The Disconnect: The schedule is often poorly synchronized with train arrivals, forcing workers to wait up to 45 minutes in the cold if they miss the connection.
+	•	The Uniform Rule: Workers often wear street clothes on the bus and change into uniforms after passing security so they aren't identified as "the help" during the commute.
+VII. Regional Transit: The "Wickford Void" & OSTA
+The 2006 Crisis: "The Gap"
+In 2006, the rail map has a fatal flaw that defines the region’s politics.
+	•	The BTA North Shore Line terminates at Wickford Junction.
+	•	The BSTA (MBTA) Providence Line terminates at Providence Station.
+	•	The Result: There is a 20-mile stretch of track between Wickford and Providence that has no commuter service, isolating the Braxton Metro Area from the state capital.
+Agency Profile: OSTA (Ocean State Transit Authority)
+	•	Role: Serves the "Rest of Rhode Island" outside the Braxton district.
+	•	Relationship: "Frenemies." OSTA passes do not work on BTA trains.
+The Bus Bridge (US-1 Corridor)
+Because there is no train, OSTA operates a fragile bus corridor to bridge the gap.
+	•	Route 14 (The "Braxton Express"): The only direct link to Providence.
+	•	Frequency: Every 2 Hours.
+	•	Route: Providence $\to$ Local Stops to Border $\to$ Non-Stop Express to Braxton Central.
+	•	Route 12 (The Newport Run): Runs every 2 hours, offset with Route 14 to create an hourly pulse along US-1.
+	•	The Transfer Point: The Split (US-1 / RI-138 Park & Ride). This is the border checkpoint where Route 12 peels off to Newport and BTA suburban buses meet the OSTA system.
+
+VIII. Highway Infrastructure: Interstate 895
+Official Designation: I-895 North / South. Local Name: "The Expressway". The Paradox: The road runs East-West, but is signed North-South because it is legally the southern stump of an unbuilt Boston superhighway.
+1. The "Three Roads in One"
+	•	Segment A (Iron Point to US-1): The Superhighway.
+	•	Status: 6 Lanes, 65 MPH, full shoulders. Built to accept traffic from NY/DC.
+	•	Segment B (The Funnel): The Parkway.
+	•	Status: Lanes drop from 3 to 2. Grass median. 55 MPH. Built after an environmental lawsuit to protect the Narrow River.
+	•	Segment C (The Bridges): The Waiver.
+	•	Status: 4 narrow lanes squeezed onto a bridge deck designed for 3. No shoulders. 45 MPH speed limit.
+2. The "Twin Span" Failure (Lore)
+	•	The 1965 Plan: Two identical suspension bridges (Northbound & Southbound) were planned for the bay crossing.
+	•	The Revolt: The second bridge was cancelled in 1968 due to cost and local opposition.
+	•	The Consequence: The single bridge, designed for half the volume, carries all of it.
+3. The Ghost Terminus (Newport)
+	•	The Plan: The highway was supposed to blast north through Newport to connect to Route 24.
+	•	The Reality: It ends at a traffic light at Admiral Kalbfus Road because the owner of the Newport Jai Alai refused to sell the land for the ramp.
+VII. Regional Transit: The "Wickford Void" & OSTA
+The 2006 Crisis: "The Gap"
+In 2006, the rail map has a fatal flaw that defines the region’s politics.
+	•	The BTA North Shore Line terminates at Wickford Junction.
+	•	The BSTA (MBTA) Providence Line terminates at Providence Station.
+	•	The Result: There is a 20-mile stretch of track between Wickford and Providence that has no commuter service, isolating the Braxton Metro Area from the state capital.
+Agency Profile: OSTA (Ocean State Transit Authority)
+	•	Role: Serves the "Rest of Rhode Island" outside the Braxton district.
+	•	Relationship: "Frenemies." OSTA passes do not work on BTA trains.
+The Bus Bridge (US-1 Corridor)
+Because there is no train, OSTA operates a fragile bus corridor to bridge the gap.
+	•	Route 14 (The "Braxton Express"): The only direct link to Providence.
+	•	Frequency: Every 2 Hours.
+	•	Route: Providence $\to$ Local Stops to Border $\to$ Non-Stop Express to Braxton Central.
+	•	Route 12 (The Newport Run): Runs every 2 hours, offset with Route 14 to create an hourly pulse along US-1.
+	•	The Transfer Point: The Split (US-1 / RI-138 Park & Ride). This is the border checkpoint where Route 12 peels off to Newport and BTA suburban buses meet the OSTA system.
+
+VIII. Highway Infrastructure: Interstate 895
+Official Designation: I-895 North / South. Local Name: "The Expressway". The Paradox: The road runs East-West, but is signed North-South because it is legally the southern stump of an unbuilt Boston superhighway.
+1. The "Three Roads in One"
+	•	Segment A (Iron Point to US-1): The Superhighway.
+	•	Status: 6 Lanes, 65 MPH, full shoulders. Built to accept traffic from NY/DC.
+	•	Segment B (The Funnel): The Parkway.
+	•	Status: Lanes drop from 3 to 2. Grass median. 55 MPH. Built after an environmental lawsuit to protect the Narrow River.
+	•	Segment C (The Bridges): The Waiver.
+	•	Status: 4 narrow lanes squeezed onto a bridge deck designed for 3. No shoulders. 45 MPH speed limit.
+2. The "Twin Span" Failure (Lore)
+	•	The 1965 Plan: Two identical suspension bridges (Northbound & Southbound) were planned for the bay crossing.
+	•	The Revolt: The second bridge was cancelled in 1968 due to cost and local opposition.
+	•	The Consequence: The single bridge, designed for half the volume, carries all of it.
+3. The Ghost Terminus (Newport)
+	•	The Plan: The highway was supposed to blast north through Newport to connect to Route 24.
+	•	The Reality: It ends at a traffic light at Admiral Kalbfus Road because the owner of the Newport Jai Alai refused to sell the land for the ramp.
+Transit Agency Profile: ARTS (American Regional Transit System)
+Lore Bible Entry: v1.0
+1. Agency Overview
+	•	Real-World Equivalent: Amtrak.
+	•	Role: The federally chartered corporation that operates intercity passenger rail across the United States.
+	•	Regional Context: In the Northeast Corridor (NEC), ARTS operates the high-speed "Spine" connecting the major distinct metropolises: Washington D.C. $\rightarrow$ New York $\rightarrow$ Braxton $\rightarrow$ Providence $\rightarrow$ Boston.
+	•	The Geography:
+	•	Braxton, RI is a major Tier 1 metropolis (comparable to Boston or Chicago), distinct from and larger than Providence.
+	•	BCI Airport (Braxton Central International) serves as the primary international overflow hub for New England, handling heavy jets that cannot slot into Boston Logan. This makes the rail connection to the airport critical for the entire Eastern Seaboard.
+
+2. Service Tier 1: "The Patriot"
+	•	Real-World Equivalent: Northeast Regional.
+	•	Role: The heavy-haul workhorse. It connects the Bennett family's past (Virginia) with their future (Braxton/Boston).
+	•	Route: Norfolk/Newport News, VA $\rightarrow$ Washington D.C. $\rightarrow$ New York City $\rightarrow$ Braxton Metro Area $\rightarrow$ Providence $\rightarrow$ Boston (South Station).
+	•	Narrative Function:
+	•	The Umbilical Cord: This train physically links the Fortress in Portsmouth (via the Iron Point stop) to their childhood home in Virginia.
+	•	The Commuter Hack: While it is an intercity train, Patrick and Nichole use it as a "Super-Express" subway within city limits thanks to the BTA Overlay.
+The "BTA Overlay" Zone (The Free Ride)
+	•	The Rule: Through a federal grant and shared-track agreement, holders of a valid BTA LinkPass (including the BSU Bull Pass) may ride The Patriot in Coach Class at no additional cost strictly between the stations of Iron Point and Regalis Park.
+	•	The Trap: If a student stays on the train past Regalis Park (heading North to Kingston/Providence) or past Iron Point (heading South to Westerly), they become a federal passenger and are charged the full ARTS fare (approx. $30+). Conductors sweep the train at the zone borders.
+Station List (South $\rightarrow$ North within RI)
+	•	Westerly, RI (Outside Zone / Full Fare).
+	•	Iron Point (BTA Zone Start): Serves the "South Shore" suburbs and the Bennett Fortress via the BTA South Shore Line connection.
+	•	BCI Airport: The International Hub.
+	•	Narragansett Esplanade: (The BSU Campus Stop).
+	•	Note: This is the only intercity train that stops directly on campus.
+	•	Braxton Central Terminal: Downtown Hub. Transfer to all lines.
+	•	Regalis Park (BTA Zone End): Serves the base of the hill below King’s College.
+	•	Kingston, RI (Outside Zone / Full Fare).
+	•	Providence, RI (BSTA Connection).
+	•	Boston South Station.
+
+3. Service Tier 2: "The Velocity"
+	•	Real-World Equivalent: Acela.
+	•	Role: The High-Speed, Business-Class Express.
+	•	Technology: Tilting trainsets designed for maximum speed through the New England curves.
+	•	Narrative Function: The "Elitist" Train. It is expensive, sleek, and exclusive.
+	•	Fare Rule: Strictly No Cross-Honor. BTA Passes are NOT accepted. There is no Coach Class; only Business and First.
+The Stop Schedule (The Bypass)
+	•	The Velocity bypasses the local clutter to connect only the massive economic hubs.
+	•	Stops: New York $\rightarrow$ New Haven $\rightarrow$ Braxton Central Terminal $\rightarrow$ Providence $\rightarrow$ Boston.
+	•	The Visual: When Patrick and Nichole are waiting on the Sky Deck at Narragansett Esplanade, The Velocity blasts past them at 100 MPH without slowing down. It is a physical reminder that the "Elite" world (like King's College students heading to Boston for the weekend) literally flies over the heads of the "Public" university students.
+
+4. Key Infrastructure: BCI Airport Station
+	•	Significance: Because Braxton is a Boston-sized metro, BCI (Braxton Central International) is massive.
+	•	The Connection: The ARTS station is integrated directly into the International Terminal.
+	•	The Flow: Passengers flying in from London or Tokyo take The Patriot or The Velocity straight from the airport to downtown Braxton or Boston.
+	•	Bennett Usage: Patrick and Nichole use this station not to fly, but as a high-speed transfer point between the "South Shore" suburban rail and "The Patriot" express.
+
+5. Summary for "Copyright & Trademark List"
+	•	Real Agency: Amtrak $\rightarrow$ ARTS (American Rail Transit Service).
+	•	Real Service: Northeast Regional $\rightarrow$ The Patriot (The Local Intercity; BTA Fares accepted in Zone).
+	•	Real Service: Acela $\rightarrow$ The Velocity (High-Speed Business; No BTA Fares).
+	•	Key Geography: Braxton is a Tier 1 City. BCI is an International Gateway.
+

@@ -1,0 +1,491 @@
+Braxton: World Bible
+1. Overview & Geography
+Braxton, Rhode Island is a major Northeastern coastal metropolis (a fictional amalgam of Boston’s academic density and Chicago’s waterfront geography). The city is defined by a stark geographical and class divide. It is physically located where the real-life town of Narraganset, Rhode Island is (but encompasses a much larger area as this is meant to be such a massive metropolitan city).
+	•	The Valley & The Point (The Public): The city center and the public university sit on a flat, expansive peninsula jutting into the Narraganset Bay. This area is modern, accessible, and integrated with transit.
+	•	The Hill (The Elite): To the North, a steep ridge known as Mount Regalis (locally "The Knob") looms over the city. This is where the old money lives, physically looking down on the rest of the population.
+	•	The South Shore (The Retreat): Far to the south, separated by the river delta and industrial zones, are the quiet, spacious coastal suburbs where the Fortress resides.
+2. The Universities: "Built vs. Bought"
+Braxton State University (BSU)
+	•	Nickname: "The Bulls."
+	•	Location: Beacon Point Peninsula. A massive, modern campus at the water's edge.
+	•	Motto: Ex Terra Vires (Strength from the Earth).
+	•	Identity: Public, diverse, gritty, and universally accessible.
+	•	The Campus: A "Universal Design" paradise. Automatic doors, ramps integrated into architecture, and the car-free Esplanade waterfront park.
+King’s College
+	•	Nickname: "The Royals."
+	•	Rival Name for BSU: "Bull S**t U" or "The Barn."
+	•	Location: The summit of Mount Regalis.
+	•	Motto: Corona Non Cadit (The Crown Does Not Fall).
+	•	Identity: Private, snobby, pre-Revolutionary (founded 1755).
+	•	Athletics: Known for "The King’s Fellowship"—a legal loophole used to "buy" star athletes with massive endowments. They send scouts ("King's Men") to high schools to recruit talent.
+	•	Access: A gated fortress of privilege, accessible primarily by luxury cars.
+3. The Braxton Transit Authority (BTA)
+Nickname: "Better Take Alternatives" or "Broken Train Again."
+The maps are logical, the system is extensive, and it is his path to independence.
+A. The Metro (Subway/Heavy Rail)
+	•	Accessibility: 100% Universal. All stations have elevators.
+	•	The Blue Line (East-West Spine):
+	•	Connects Narraganset Esplanade (BSU) to Beacon Central (Downtown) and the western suburbs.
+	•	The Red Line (The "J-Loop"):
+	•	Route: Starts North at Regalis Park (base of King's College hill), runs South along the coast to BSU, turns inland to Downtown, then hooks Southwest to the Airport.
+	•	Speed: Slow/Local. 55 minutes from BSU to Airport.
+	•	Function: Neighborhood hopper.
+B. The Regional Rail (The Express)
+	•	Line: The South Shore Line.
+	•	Equipment: BiLevel Coaches with "Low Floor" boarding (roll-on/roll-off).
+	•	Route: A diagonal "Hypotenuse" express track.
+	•	Stops: Iron Point (Home) --> BCI Airport --> Beacon Central --> Narraganset Esplanade (BSU).
+	•	Speed: 22 minutes from Airport to Campus.
+	•	Function: The "Teleporter."
+C. The Bus Network
+	•	The Core Network: Key routes in the city center run 24 Hours a Day, 7 Days a Week. High frequency (every 10-15 mins).
+	•	Route 99 (The Scrub Bus): The only bus that goes near King’s College. It stops outside the gate. Used exclusively by service staff.
+D. The Hub: Narraganset Esplanade Station
+Located on the BSU campus.
+	•	Level 2 (Elevated): Regional Rail (South Shore Line). Beautiful view of Narraganset Bay and the Newport Bridge.
+	•	Level 1 (Street Level Plaza): Bus Terminal & The Esplanade (Car-free zone).
+	•	Level B-M (Underground 1): Blue Line Metro.
+	•	Level B-R (Underground 2): Red Line Metro.
+Braxton Transit Authority (BTA)
+Official Tariff & Fare Guide
+Effective Date: July 1, 2006
+1. Fare Categories
+	•	Adult Fare: Standard pricing for riders ages 18–64.
+	•	Reduced Fare: Available to Seniors (65+), Medicare Card Holders, Persons with Disabilities, and Youth (5–17).
+	•	Calculation Rule: 50% of Adult Fare, rounded DOWN to the nearest $0.25.
+	•	ID Requirement: Proof of age or BTA Reduced Fare ID required upon request.
+	•	Student Fare: FREE. Valid K-12 Public School ID or Braxton State University ID required.
+2. Urban Services (Fixed Route)
+Pay-Per-Ride Fares. Transfers valid for 2 hours.
+Service Mode
+Adult Fare
+Reduced Fare
+Notes
+Local Bus
+$2.00
+$1.00
+Includes "The Bull Run" (if no ID).
+Metro Subway
+$2.75
+$1.25
+Blue, Red, Silver Lines.
+Express Bus
+$3.00
+$1.50
+Highway commuter routes.
+Harbor Ferry
+$4.00
+$2.00
+Portside & Navy Yard.
+BTA MOBILITY
+$4.00
+$4.00
+Paratransit. No discount.
+
+3. Regional Rail (Zone Fares)
+Fares are One-Way based on distance from Braxton Central (Zone 1).
+Peak Hours: 06:00 AM – 09:30 AM | 04:00 PM – 07:00 PM (Weekdays).
+Off-Peak: All other times, Weekends, and Holidays.
+Zone
+Destination Example
+Adult Off-Peak
+Adult Peak
+Reduced (Flat)*
+Zone 1
+Narraganset Esplanade
+$4.00
+$5.00
+$2.00
+Zone 2
+BCI Airport
+$6.00
+$7.50
+$3.00
+Zone 4
+Regalis Park
+$9.25
+$11.50
+$4.50
+Zone 6
+Iron Point
+$12.50
+$15.00
+$6.25
+Zone 15
+Port Wyndham
+$25.00
+$30.00
+$12.50
+*Note: Reduced Fare riders do not pay Peak Surcharges.
+4. Monthly Passes (LinkPass Products)
+All monthly passes include unlimited travel for 31 days.
+A. StreetLink (Bus Only)
+	•	Cost: $55.00 (Adult) / $27.50 (Reduced).
+	•	Valid On: Local Bus, Express Bus.
+	•	NOT Valid: Metro, Rail, Ferry.
+B. UrbanLink (The "City Key")
+	•	Cost: $75.00 (Adult) / $37.50 (Reduced).
+	•	Valid On:
+	•	All Buses.
+	•	All Metro Lines.
+	•	Harbor Ferries.
+	•	Regional Rail (Zone 1 & Zone 2 Airport ONLY).
+	•	Note: This pass covers the Airport Flyer and South Shore Line to BCI.
+C. RegionLink (The Commuter)
+Includes all UrbanLink benefits + Travel up to the selected Zone.
+Pass Zone
+Cost (Monthly)
+Reduced Monthly
+Zone 4 (Regalis)
+$260.00
+$130.00
+Zone 6 (Iron Point)
+$395.00
+$197.50
+Zone 15 (The End)
+$585.00
+$292.50
+
+5. Transfer Policy (The "Smart" Rules)
+The Window: Transfers are valid for 120 Minutes (2 Hours) from initial Tap On.
+Rule A: Lateral Transfer (Same or Lower Price)
+	•	Example: Bus ($2.00) --> Bus ($2.00).
+	•	Cost: Free.
+	•	Time: The 2-hour clock continues counting down. It does not reset.
+Rule B: Step-Up Transfer (Higher Price)
+	•	Example: Bus ($2.00) --> Metro ($2.75).
+	•	Cost: Pay the difference ($0.75).
+	•	Time: The 2-hour clock RESETS to zero.
+	•	Why: Because you paid "New Money" into the system, you get "New Time."
+Rule C: The "Ghost" Penalty (Rail Only)
+	•	You must Tap On and Tap Off for Regional Rail.
+	•	Failure to Tap Off: The system assumes you rode to Zone 15.
+	•	Penalty Charge: $30.00 (Maximum Peak Fare) deducted from LinkPass balance.
+
+BTA / BSU Policy: The "Bull Pass" Identity
+1. What is it?
+	•	Official Name: The Braxton State University Identification Card.
+	•	Colloquial Name: "The Bull Pass."
+	•	Function: It is a 4-in-1 Smart Card.
+	•	Building Key: Access to dorms, labs, and practice rooms.
+	•	Meal Plan: Swipe for dining halls.
+	•	Library Card: Check out materials.
+	•	Transit Pass: Hard-coded as a Zone 15 Unlimited LinkPass.
+2. Activation
+	•	Status: Instant.
+	•	The Process: The moment the card is printed at the ID Office and handed to the student/staff member, the RFID chip is live. You can walk out of the office, walk onto a bus, and it works.
+3. The "Lost Card" Penalty
+Because the card is worth roughly $600/month in transit value alone, losing it is a crisis.
+	•	Replacement Fee: $25.00 (University Fee).
+	•	The Real Cost: You have to pay standard BTA fares (cash or vanilla LinkPass) until you get the new one.
+
+4. Key Locations
+
+Braxton International Airport (BCI)
+	•	Location: 25 miles Southwest of the city.
+	•	Transit: Served by both the Red Line (Local/Underground) and South Shore Line (Express/Elevated).
+	•	Features: The "Transfer Core"—glass elevators connecting the two rail systems.
+Location Profile: Narraganset Esplanade Station
+1. Overview
+	•	Official Name: Narraganset Esplanade Transit Center.
+	•	Rank: #2 Busiest Station in the BTA System (behind Braxton Central).
+	•	Nickname: "The Lantern" or "The Point."
+	•	Location: The eastern tip of the Braxton Point Peninsula, marking the boundary between the Braxton State University (BSU) campus and Narraganset Bay.
+	•	Architectural Style: Marine Modernism.
+	•	Design: Soaring white tensile fabric roofs (evoking sails) and floor-to-ceiling glass walls facing the Narraganset. At night, it glows like a beacon visible from ships entering the harbor.
+	•	Significance: It is the primary interchange for the Eastern Zone of the metropolis. It doesn't just serve students; it serves tourists, festival-goers, and commuters transferring from the ferries.
+2. The Layout: "The Stack"
+The station is a masterclass in density, built into the slope of the reclaimed parkland to allow seamless transitions between levels.
+Level 2: The Sky Platform (Regional Rail Terminus)
+	•	Structure: An elevated viaduct running parallel to the coastline.
+	•	Service:
+	•	The South Shore Line: (The Fortress Commute). Terminates here.
+	•	The North Coast Line: Terminates here.
+	•	Capacity: 4 Tracks. It handles the volume of a major city terminal.
+	•	The Experience: Waiting for the train means staring out at the open Narraganset. Leo loves this platform because on stormy days, he can watch the waves crash against the sea wall from the safety of the heated glass shelter.
+	•	Accessibility: 100% Level Boarding. The platform is raised to match the floor height of the BiLevel coaches perfectly.
+Level 1: The Plaza & Bus Terminal (Street Level)
+	•	The Hub: A semi-circular, covered bus port with 12 Bays.
+	•	Service:
+	•	BTA City Bus: Eastern routes connecting the beach neighborhoods.
+	•	The Bull Run: The BSU campus circulator shuttles (Routes 80, 81, 82).
+	•	The "No Car" Zone: The plaza opens directly onto the Esplanade. No private cars are allowed within 500 feet of the station entrance. It is a pedestrian fortress.
+Level C: The Concourse (Underground)
+	•	Function: The ticket hall, retail promenade, and BSU Welcome Center.
+	•	The Feature: "The Reclamation Wall." A massive mural depicting the history of the site—from the toxic fires of the Braxton Steel Works to the green park of today.
+	•	The Meeting Point: "The Bull Pen." A bronze statue of the BSU Bull near the fare gates where the Fortress meets up.
+Level M: The Deep (Metro Terminus, also underground)
+	•	Service:
+	•	(Level M-B, upper level Metro) Blue Line: Terminates here (East-West Spine to Downtown).
+	•	(Level M-RS, lower level Metro) Red Line / Silver Line: Through-service (North-South).
+	•	Design: Features a massive "light well"—a glass skylight in the plaza above that lets natural daylight filter down 60 feet to the subway platform.
+3. The Ferry Dock: "The Sea Gate"
+Integrated directly into the station’s sea wall is the BTA Harbor Ferry Terminal.
+	•	Routes:
+	•	Navy Yard Shuttle: Connects BSU Engineering students to internships at the shipyard across the river.
+	•	Portside Connector: Connects to the industrial district.
+	•	Newport Flyer: Connects to Perotti Park in Newport, RI
+	•	The Vibe: It smells of diesel and salt water. The gangways are hydraulic and perfectly level (to the best of the BTA’s ability given we are on the Narraganset Bay).
+4. Audio Script: The "End of the Line"
+Because this is a major terminus, the announcements carry a sense of finality and transition.
+Context: On board the South Shore Line as it glides into the elevated station. The bay fills the windows.
+The Announcement:
+(Ding-Dong)
+"Now arriving at... Narraganset Esplanade.
+"This is the final stop for this train. Please check around for personal belongings.
+"Transfer here for Blue, Red, and Silver Metro lines.
+"Connection to BTA Local Bus and Harbor Ferry services on the Plaza Level.
+"Welcome to Braxton State University and the Narraganset Esplanade.
+"Please exit to the Right toward the bay."
+Location Profile: Braxton Central Terminal (BCT)
+1. Overview
+	•	Official Name: The Braxton Central Intermodal Terminal.
+	•	Nickname: "The Glass Cathedral," "The Central," or simply "The Hub."
+	•	Opened: October 15, 2005. (It still smells like new steel and ozone when the family arrives in 2006).
+	•	Location: Downtown Braxton, bridging the gap between the Financial District and the Historic Riverfront.
+	•	Architectural Style: High-Tech Modernism.
+	•	Inspiration: Berlin Hauptbahnhof (Berlin Central Station).
+	•	The Design: A massive, transparent exoskeleton of curved glass and tubular steel. There are no dark corners. Natural light filters from the roof all the way down to the subway platforms 60 feet below ground.
+	•	The Philosophy: "Visible Motion." From the central atrium, you can see trains moving East-West in the sky, and trains moving North-South in the earth.
+2. The "Layer Cake" Layout (The Vertical Interchange)
+The station is organized vertically to minimize footprint and maximize efficiency.
+Level 5: The Sky Deck (Upper Train Shed)
+	•	Structure: A 400-meter long glass tube running East-West, elevated 60 feet above the street.
+	•	Tracks: 6 Tracks (Tracks 7–12).
+	•	Primary Service: BTA Regional Rail.
+	•	The South Shore Line: (The Fortress Commute).
+	•	The Western Mainline.
+	•	Leo’s Take: Waiting here feels like floating. You can see the bay to the East and the rolling hills to the West.
+Level 4: The Mezzanine (The Girders)
+	•	Function: Administrative offices and "Skyway" pedestrian bridges connecting the office towers on either side of the station without entering the fare zone.
+Level 3: The Grand Concourse (Street Level)
+	•	The Atrium: An immense indoor piazza.
+	•	The Feature: The Solari Board (See Section 4).
+	•	The Bus Wing: Extending from the South facade is the Braxton Central Bus Terminal. Unlike old "dungeon" bus stations, this is a soaring glass pavilion with 40 bays.
+	•	Serves: Pathfinder (Intercity), Regional Coach, and BTA Local Buses.
+Level 2: The Retail Deck
+	•	A balcony level encircling the atrium, filled with coffee shops, newsstands, and quick-service dining.
+Level 1: The Deep (Lower Train Shed)
+	•	Structure: A cavernous subterranean hall running North-South.
+	•	Tracks: 8 Tracks (Tracks 1–8).
+	•	Primary Service:
+	•	ARTS Intercity Rail: The Coastal Corridor (Acela) and The Patriot (Northeast Regional).
+	•	BTA Metro: The Red Line and Silver Line.
+	•	The Blue Line: Runs in a separate, deeper tunnel perpendicular to Level 1, accessible via a dedicated escalator bank.
+3. Vertical Circulation
+The Crystal Core (The Elevators)
+	•	Design: A cluster of six massive, free-standing cylindrical glass shafts located dead center in the Grand Concourse.
+	•	Function: "Turbo Lifts." They connect Level 1 (The Deep) directly to Level 5 (The Sky Deck).
+	•	Narrative Role: This is Leo’s primary path. He loves the sensation of rising through the bustling station, watching the layers of transit rotate around him.
+The Perimeter Towers ("The Locals")
+	•	Location: Four massive glass shafts located at the four corners of the Grand Concourse (Northwest, Northeast, Southwest, Southeast).
+	•	Service: All Levels (1 through 5).
+	•	Stops: The Deep $\to$ Retail $\to$ Concourse $\to$ Mezzanine $\to$ Sky Deck.
+	•	Design: unlike the cylindrical Crystal Core, these are rectangular, panoramic glass cabs that run along the exterior walls of the atrium.
+	•	Function: These are the workhorses. They handle:
+	•	Shoppers going to the Retail Deck (Level 2).
+	•	Staff going to the Mezzanine Offices (Level 4).
+	•	Travelers transferring from the Bus Wing (Level 3) to the Metro (Level 1).
+The Narrative Distinction
+	•	Crystal Core: The "Express." (Level 1 $\leftrightarrow$ Level 5). Fast, direct, commuter-focused.
+	•	Perimeter Towers: The "Local." Stops everywhere. Slower, but offers views of the retail and bus levels that the express skips.
+Audio Script: The Elevator Logic
+The station announcements actively sort people to prevent bottlenecks.
+Context: Level 3 (Grand Concourse). Rush Hour.
+The Announcement:
+"For Direct Access to Regional Rail and Metro platforms, please use the Central Glass Elevators."
+"For Retail Deck, Mezzanine Offices, and Street Level access, please use the Perimeter Elevators located in the North and South wings."
+The Cascade (The Escalators)
+	•	Design: Long, unsupported spans of steel that cut through the open air of the atrium at sharp, dramatic angles.
+	•	The Visual: From the bottom, it looks like a mechanical waterfall of commuters.
+4. Sensory Details
+The Heartbeat: The Solari Board
+Despite the station being brand new in 2005, the architects installed a custom-built Split-Flap Display in the main hall as a nod to the golden age of rail.
+	•	The Sound: CLACK-CLACK-CLACK-CLACK.
+	•	The Rhythm: Every 60 seconds, the board refreshes. The sound ripples through the glass hall—a comforting, mechanical promise of order.
+The Acoustics
+Because the station is glass and steel, it has a specific acoustic profile: bright, sharp, and slightly reverb-heavy.
+	•	Announcements: They don't boom; they echo crisply.
+	•	Train Noise: You don't hear the roar of diesel engines (most trains are electric here); you hear the high-pitched whine of inverters and the hiss of air brakes.
+5. Audio Script: The "Glass" Acoustics
+Context: A South Shore Line train (BiLevel) glides into the glass tube of the Sky Deck.
+The Announcement:
+(Ding-Dong)
+"Now arriving at... Braxton Central Terminal."
+"This is the Upper Level. Please verify your connection level before exiting."
+"Transfer via Central Glass Elevators to Lower Level for ARTS Intercity, Red Line, and Silver Line Metro service."
+"Transfer at Street Level for Blue Line Metro and the Braxton Central Bus Wing."
+"Connection to Pathfinder Intercity Bus Service available in the South Wing."
+"This train will continue to... Narraganset Esplanade."
+"Doors to my... Left."
+5. Narrative Themes
+	•	Class Warfare: The geography reinforces the conflict. King's students look down (literally) from their hill; BSU students look out at the open horizon.
+	•	Infrastructure as Love: Stella buys the land and builds the house not for status, but for safety. The transit system isn't just transport; it's Leo's independence.
+	•	The Fortress Dynamic: The house is designed to protect their specific way of life—allowing for non-sexual intimacy (grounding, co-sleeping), shared caregiving (bathing), and total accessibility without fear of outside judgment.
+	•	
+Location Profile: Braxton Central Terminal
+1. Overview
+	•	Official Name: Braxton Central Terminal (BCT).
+	•	Nickname: "The Glass Cathedral" or "The Central."
+	•	Location: Downtown Braxton, straddling the divide between the Financial District and the historic Riverfront.
+	•	Inspiration: A fusion of Berlin Hauptbahnhof (Architecture/Layout) and Philadelphia 30th Street Station (Role as a national hub).
+	•	Architectural Style: High-Tech Modernism. Defined by massive curved glass vaults, exposed tubular steel, and absolute transparency.
+	•	The Vibe: Urgent, futuristic, and rhythmic. It does not echo with the muddy roar of old stone stations; it hums with the crisp precision of steel, glass, and electricity.
+2. The "Layer Cake" Layout
+The station is a "Vertical City" designed around a massive central atrium called The Crossing. Standing in the center, you can look up to see trains crossing the sky and down to see trains emerging from the earth.
+Level 5: The Sky Deck (Upper Train Shed)
+	•	Structure: A massive, 400-meter glass tube running East-West, elevated 60 feet above the street.
+	•	Tracks: 6 Tracks (Tracks 7–12).
+	•	Primary Service: BTA Regional Rail.
+	•	Line A: The South Shore Line (The "Fortress" Line to Iron Point).
+	•	Line B: The North Coast Line.
+	•	Line C: The Western Mainline.
+	•	The Experience: Waiting here feels like floating over the city. Sunlight floods the platform from all angles. Leo loves watching the BiLevel trains glide into the tube, backlit by the skyline.
+Level 4: The Mezzanine (The Girders)
+	•	A structural level containing administrative offices and the "Skyway" pedestrian bridges that allow people to cross the atrium without entering the fare zones.
+Level 3: The Grand Concourse (Street Level)
+	•	The Atrium: An immense, open-air piazza inside the building.
+	•	Key Feature: The Solari Board (See Section 4).
+	•	The Bus Wing: Extending from the south side is the Beacon Central Bus Terminal. Unlike grim, subterranean bus depots, this is a soaring glass pavilion.
+	•	Serves: Pathfinder (Intercity), Regional Coach, and BTA Local Buses.
+Level 2: The Retail Deck
+	•	A balcony level overlooking the Lower Train Shed, filled with coffee shops, newsstands, and fast-casual dining.
+Level 1: The Deep (Lower Train Shed)
+	•	Structure: A cavernous subterranean hall running North-South. Because of the "open cut" architecture of the atrium, natural sunlight reaches all the way down here.
+	•	Tracks: 8 Tracks (Tracks 1–8).
+	•	Primary Service:
+	•	ARTS Intercity Rail: The Coastal Corridor (Acela-equivalent) and The Patriot.
+	•	BTA Metro: The Red Line and Silver Line.
+	•	The Blue Line: Runs in a separate perpendicular tunnel intersecting at the far west end of the complex.
+3. Vertical Circulation
+The Crystal Core (The Elevators)
+	•	Design: A cluster of four massive, free-standing cylindrical glass shafts located dead center in the Grand Concourse.
+	•	Function: "Turbo Lifts." They bypass the retail/mezzanine levels, shooting passengers directly from Level 1 (The Deep) to Level 5 (The Sky Deck) in seconds.
+	•	Narrative Role: This is Leo’s primary path. He loves the sensation of rising through the bustling station, watching the layers of transit rotate around him.
+The Cascade (The Escalators)
+	•	Design: Long, unsupported spans of steel that cut through the open air of the atrium at sharp, dramatic angles.
+	•	The Visual: From the bottom, it looks like a mechanical waterfall of commuters.
+	•	The Rule: "Stand Right, Walk Left." Violators are ruthlessly judged.
+4. Sensory Details
+The Heartbeat: The Solari Board
+Hanging high in the center of the Grand Concourse is a massive Split-Flap Display. In an era of LED screens, the architects kept this analog masterpiece for its sound.
+	•	The Sound: CLACK-CLACK-CLACK-CLACK.
+	•	The Rhythm: Every 60 seconds, the board refreshes. The sound ripples through the glass hall, a comforting, mechanical promise of order.
+	•	Leo’s Take: He calls it "The Sound of Order."
+The Announcements
+The station uses a zoned audio system with a clear, gender-neutral synthetic voice.
+	•	The Reverb: Because of the glass, announcements have a slight, bright echo (short decay), not a muddy boom.
+	•	The Script:
+"May I have your attention please. ARTS The Patriot 94... to Boston... is now boarding on Track 2... Lower Level."
+BTA Announcements
+Here is the Official BTA Audio Style Guide & Scriptbook, covering every mode of transit in the Fortress's network.
+I. The Rules of the Airwaves
+The BTA uses a zoned audio system with distinct voice profiles for each mode of transport to help visually impaired (or distracted) passengers instantly know which vehicle they are on.
+	•	Regional Rail Voice: "The Conductor."
+	•	Tone: Deep, calm, authoritative, smooth (Male-leaning synthetic).
+	•	Chime: A rich, two-tone orchestral bell (Ding-Dong).
+	•	Metro (Subway) Voice: "The Navigator."
+	•	Tone: Crisp, rapid, high-treble, efficient (Female-leaning synthetic).
+	•	Chime: A sharp, electronic triad (Beep-Beep-Beep).
+	•	Bus Voice: "The Driver."
+	•	Tone: Flat, robotic, slightly compressed audio (Gender-Neutral).
+	•	Chime: A single digital tone (Bling).
+	•	Ferry Voice: "The Captain."
+	•	Tone: Resonant, slightly echoed (to cut through wind/water noise).
+	•	Chime: A digital foghorn blast (Brah-Braahh).
+The Golden Rule: Every transfer announcement, no matter how obvious, must end with the phrase: “Please check the schedule for availability.”
+II. Regional Rail (The South Shore Line)
+Context: High-speed, long-distance, premium service. The "Fortress" Commute.
+Station Arrival (General)
+(Ding-Dong) "Now arriving at... [Station Name]. Please watch the gap between the train and the platform. Doors to my... [Left/Right]."
+The "Quiet Car" Warning
+"Safety and courtesy. The first and last cars of this train are designated Quiet Cars. Please silence mobile devices and keep conversation to a minimum. Thank you for riding BTA."
+Disruption/Delay
+(Ding-Dong) "May I have your attention please. Due to... Signal Modernization... trains may be held momentarily at... Beacon Central. We apologize for the delay."
+III. The Metro (Blue, Red, Silver Lines)
+Context: The "J-Loop" and City Center. Fast-paced, crowded, underground.
+Door Operations
+(Beep-Beep-Beep) "Doors opening." (A 3-second pause) "Please stand clear of the closing doors." (A descending two-tone chime: Doo-doo!)
+Narraganset Esplanade (The Interchange)
+"This is... Narraganset Esplanade. Transfer here for Blue Line service to the Western Suburbs. Connection to BTA Regional Rail on the Upper Level. Elevator access is available at the center of the platform."
+Regalis Park (The King's College Stop)
+"This is... Regalis Park. Transfer here for Route 99 Shuttle to the University Gate. Please check the schedule for availability." (Leo smirks every time he hears this, knowing the schedule is "once an hour.")
+IV. The Bus Network (BTA Local)
+Context: Street level. Stop-and-go. The voice is functional and repetitive.
+The "Kneeling" Announcement (External)
+Context: Leo is waiting on the curb. The bus pulls up.
+(External Speaker): "Route 88... to... Iron Point Station. Caution. Bus is kneeling. Caution. Ramp deploying."
+Stop Request
+(Bling) "Stop Requested."
+The Transfer Point
+"Approaching... Five Points Intersection. Transfer here for Routes 10, 12, and 45. Please check the schedule for availability."
+The "Full Bus" (The Nightmare)
+(External Speaker): "Bus is full. Please wait for the next vehicle. Bus is full."
+V. The Ferry Network (The Harbor Crossings)
+Context: Crossing the river delta or the harbor. Open air.
+Departure
+(Brah-Braahh) "Welcome aboard the BTA Harbor Ferry. Service to... Portside Navy Yard. Please remain seated or hold a handrail while the vessel is in motion. Life jackets are located under your seats."
+Arrival (Docking)
+"Now arriving at... Portside. Connection to Silver Line Metro and Route 60 Bus. Please check the schedule for availability. Please wait for the gangway to fully deploy before disembarking."
+VI. Emergency/Security Scripts
+These are the "interrupt" announcements that override the standard loops.
+The "Unattended Item" (The Airport Script)
+(Sharp Whistle Tone) "Security Notice. Do not leave baggage or personal items unattended. Unattended items will be confiscated and destroyed by security services. If you see something, say something."
+The "Weather Alert" (Winter Storms)
+(Ding-Dong) "BTA Weather Alert. Due to... Severe Icing... Regional Rail service is operating at reduced speeds. Please allow extra travel time. Check the station displays for updated arrival times."
+Braxton Lore: The "Snow Schedule"
+When the snow starts falling, the BTA shifts modes. Leo finds this fascinating because it changes the rhythm of the system, but the logic remains sound.
+1. The "Severe Weather" Script
+	•	The Trigger: When snow accumulation exceeds 3 inches or ice is detected on the third rail.
+	•	The Announcement:
+(Ding-Dong) "BTA Weather Alert. Due to... Severe Icing conditions... Regional Rail service is operating at reduced speeds. Please allow extra travel time. Check the station displays for updated arrival times."
+2. The Infrastructure
+	•	Switch Heaters: The tracks at Beacon Central and Narraganset Esplanade have gas-fired heaters on the switches to keep them from freezing. Leo loves watching the small blue flames flickering around the tracks from the train window.
+	•	The "Snow Train": A specialized locomotive with a massive rotary plow on the front that runs ahead of the first passenger train to clear the drifts.
+Location Profile: Narraganset Esplanade Station
+1. Overview
+	•	Official Name: Narraganset Esplanade Transit Center.
+	•	Nickname: "The Point" or "The Lantern."
+	•	Location: The eastern tip of the Braxton Point Peninsula, marking the boundary between the Braxton State University (BSU) campus and the Narraganset Bay.
+	•	Architectural Style: Marine Modernism. It features soaring white sail-like canopies, floor-to-ceiling glass walls facing the sea, and bleached wood accents.
+	•	The Vibe: Breezy, academic, and open. Unlike the urgent rush of Beacon Central, this station feels like a destination. It smells of salt air and coffee.
+	•	Key Feature: It is the only major transit hub in the city that is strictly Car-Free. No private vehicles can drive up to the entrance; only buses and emergency vehicles are permitted in the plaza loop.
+2. The Layout: "The Stack"
+The station is built into the slope of the park, allowing for seamless transitions between levels.
+Level 3: The Sky Platform (Regional Rail)
+	•	Structure: An elevated viaduct running parallel to the coastline.
+	•	Service: The South Shore Line (The Fortress’s Commute) and The North Coast Line.
+	•	The View: This is the best view in the city. Waiting for the train means staring out at the open bay. Leo loves this platform because on stormy days (like the Nor'easter), he can watch the waves crash against the sea wall from the safety of the glass shelter.
+	•	Accessibility: 100% Level Boarding. The platform is raised to match the floor height of the BiLevel coaches perfectly.
+Level 2: The Plaza & Bus Loop (Street Level)
+	•	The Esplanade Connection: The station opens directly onto the University Esplanade, the wide, paved park that wraps around the campus.
+	•	The Bus Terminal: A semi-circular, covered loop where BTA Local Buses (serving the campus and nearby dorms) dock.
+	•	Feature: The curbs are "saw-toothed" to allow buses to pull in flush with the sidewalk, ensuring the ramp angle is nearly flat for Leo.
+	•	The "No Car" Zone: Bollards prevent private cars from entering. This makes the plaza incredibly safe and quiet compared to downtown.
+Level 1: The Concourse (Underground)
+	•	Function: The ticket hall, university bookstore satellite, and coffee shops.
+	•	The "Bull Pen": A popular meeting spot near the fare gates with a large bronze statue of the BSU Bull. This is where Stella, Luna, and Olivia often meet Leo after their respective classes before heading upstairs to the train.
+Level 0: The Deep (Metro Terminus)
+	•	Service:
+	•	Blue Line: Terminates here (East-West spine).
+	•	Red Line / Silver Line: Through-service (North-South).
+	•	Design: Unlike the dark tunnels of the city, this station features a massive "light well"—a glass skylight in the plaza above that lets natural daylight filter down to the subway platform.
+3. Vertical Circulation
+The Glass Towers Instead of a central core, this station uses two massive glass elevator towers on the bay side of the building.
+	•	The Experience: As you ride the elevator from the deep Metro tunnel up to the Regional Rail, the view rises out of the ground and expands until you are looking over the horizon.
+	•	Capacity: These are "freight-sized" passenger elevators, easily fitting Leo, multiple students with instruments (Luna), and backpacks without crowding.
+4. Audio Script: The University Voice
+The announcements here are distinct because they are tailored for students and the unique "end of the line" geography.
+Context: Standing on the Elevated Regional Rail Platform (Level 3), waiting for the 12:45 AM train home.
+Arrival Announcement (Inbound Train):
+"Now arriving at... Narraganset Esplanade. This is the final stop for this train."
+"Welcome to Braxton State University. Please check around for personal belongings."
+"Transfer here for Blue, Red, and Silver Metro lines."
+"Connection to Campus Circulator and Local Bus service on the Plaza Level."
+"Please exit to the Left toward the Bayfront."
+Departure Announcement (Outbound to Home):
+(Ding-Dong) "The train on Track 1 is the... South Shore Line service to... Iron Point."
+"Stops at... Beacon Central... BCI Airport... Southport... Rockwell... and Iron Point."
+"This train departs at... 12:45 AM."
+"Please stand clear of the closing doors."
+
