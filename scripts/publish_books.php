@@ -34,7 +34,8 @@ echo "Resolving server paths...\n";
 $serverRoot = dirname(__DIR__, 2);
 $sourceBooksDir = $serverRoot . '/raggiesoft-narratives/books';
 $assetDestDir   = $serverRoot . '/raggiesoft-assets/raggiesoft-books/books';
-$routesDestDir  = $serverRoot . '/raggiesoft-hub/data/routes/raggiesoft-books/books';
+$hubBaseDir     = is_dir($serverRoot . '/raggiesoft.com/www') ? ($serverRoot . '/raggiesoft.com/www') : ($serverRoot . '/raggiesoft-hub');
+$routesDestDir  = $hubBaseDir . '/data/routes/raggiesoft-books/books';
 
 // Validate source directory existence
 if (!is_dir($sourceBooksDir)) {
@@ -348,7 +349,8 @@ foreach ($narrativeDirs as $narrativeDir) {
     }
 
     // Save routing data to new Stardust hub location
-    $newRoutesDestDir = dirname(__DIR__, 2) . '/raggiesoft-book-library/data/routes';
+    $booksAppDir = is_dir($serverRoot . '/raggiesoft.com/subdomains/books') ? ($serverRoot . '/raggiesoft.com/subdomains/books') : ($serverRoot . '/raggiesoft-book-library');
+    $newRoutesDestDir = $booksAppDir . '/data/routes';
     if (!is_dir($newRoutesDestDir)) mkdir($newRoutesDestDir, 0755, true);
     $newRouteJsonFile = $newRoutesDestDir . '/' . $seriesSlug . '.json';
     file_put_contents(
