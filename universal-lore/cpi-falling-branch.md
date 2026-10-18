@@ -1,3 +1,350 @@
+# RaggieSoft Universe Canon Specification: Christiansburg Transit Center at Falling Branch
+
+## Critical Continuity Rule & Chronological Evolution (`2003–2010 Surface Lot` $\rightarrow$ `August 2012 Redevelopment`)
+
+The **Christiansburg Transit Center** is **not** a different location from the existing **Falling Branch Park & Ride**. It is the redeveloped and greatly expanded version of the same VDOT facility at Falling Branch, located at the **Interstate 81 / US-460 interchange (`Exit 118`)** in Christiansburg, Virginia.
+
+* **Era A — The Original VDOT Surface-Lot Era (`2003–2010`; Construction `2010–2012`):**
+  * Seen in earlier chronological narratives such as *Paige* (`2003–2005`) and *Before the Distance: The Story of John & Erin* (`November 2004`).
+  * In this era, the facility is known as **`Falling Branch Park & Ride`** / **`Falling Branch P&R`** / **`Falling Branch`**, and outbound **Blue Ridge Transit Route 1** buses display **`1 FALLING BRANCH`**.
+  * **Event Shuttle Destination Signs (`2003–July 2012`):** Inbound event shuttles alternate between **`CRUCIBLE SHUTTLE`** (or **`FURNACE SHUTTLE`**) $\updownarrow$ **`GO FORGERS!`**, while post-event return trips to the park-and-ride alternate between **`FALLING BRANCH SHUTTLE`** $\updownarrow$ **`GO FORGERS!`**.
+  * **Physical Layout & Traffic Bottleneck:** It is a simple, single-level VDOT surface lot where **all traffic—private automobiles, Blue Ridge Transit buses, CPI Fleet Services shuttles, Roanoke Valley Transit (*Roanoke Express*) coaches, and Bluewater Transit (*The Maroon Express*) coaches—intermingles** in the same paved lot and must exit via **US-11 (Roanoke Street) / Falling Branch Road** through local surface-street traffic signals to get onto either **Interstate 81** or the **US-460 Bypass**.
+  * *(Do **not** blindly rename historical 2003–2010 references where the older name and surface-lot layout are chronologically appropriate).*
+* **Era B — The Redeveloped Multimodal Complex Era (`Opened August 2012+`):**
+  * Following two years of heavy VDOT construction (`2010–2012`), the redeveloped **`Christiansburg Transit Center`** *(formally the **Christiansburg Transit Center at Falling Branch**)* opens in **August 2012**—two years before Jordan arrives at CPI in *Aubrie* (`August 2014`), and four years before the on-campus **CPI Transit Center** replaces the **Commonwealth Mall** curbside lineup in **2016**.
+  * Outbound **Blue Ridge Transit Route 1** buses now alternate their two-screen Luminator destination signs between **`1 CBURG TRANS CTR`** and **`via S MAIN ST`**.
+  * **Event Shuttle Destination Signs (`August 2012+`):** Inbound event shuttles continue to alternate between **`CRUCIBLE SHUTTLE`** (or **`FURNACE SHUTTLE`**) $\updownarrow$ **`GO FORGERS!`**, while post-event return trips to the redeveloped transit center update to alternate between **`CBURG TC SHUTTLE`** *(Christiansburg Transit Center Shuttle)* $\updownarrow$ **`GO FORGERS!`**.
+  * The historic/geographic name **`Falling Branch`** remains commonly understood and continues to appear informally in everyday conversation (*"Where'd you park?" "Falling Branch."*).
+
+```text
+Falling Branch Park & Ride (2003–2010 Simple VDOT Surface Lot)
+  • Cars & buses intermingle; all traffic exits via US-11 to reach I-81 or US-460 Bypass
+  • Outbound Route 1 headsign: "1 FALLING BRANCH"
+  • Event Return headsign: "FALLING BRANCH SHUTTLE" ↕ "GO FORGERS!"
+            ↓
+Major VDOT Redevelopment (Constructed 2010–2012 • Opened August 2012)
+            ↓
+Christiansburg Transit Center at Falling Branch (August 2012+)
+  • 8-Level, ~6,000-Space Garage (Direct I-81 Ramps = ALL VEHICLES)
+  • Separated 8-Bay Transit Terminal (Direct US-460 Bypass Ramps = BUSES ONLY)
+  • Outbound Route 1 headsign: "1 CBURG TRANS CTR" / "via S MAIN ST"
+  • Event Return headsign: "CBURG TC SHUTTLE" ↕ "GO FORGERS!"
+```
+
+---
+
+## 1. Location, Purpose, and Multi-Agency Service
+
+The **Christiansburg Transit Center** is located at Falling Branch in Christiansburg, Virginia, at the major interchange (`Exit 118`) where **Interstate 81** meets the **US-460** corridor leading toward Blacksburg.
+
+It functions as:
+* A major regional **VDOT** park-and-ride facility;
+* A primary **Blue Ridge Transit (BRT)** hub (anchoring **Route 1**, **Route 4**, and game-day/arena **Crucible & Furnace Shuttles** operated jointly by **Blue Ridge Transit** and **CPI Fleet Services**);
+* A major regional express coach transfer hub served by:
+  * **Roanoke Valley Transit (`RVT`)**: ***The Roanoke Express*** (`Third Street Station [Roanoke] ↔ Falling Branch / Christiansburg Transit Center ↔ New River Mall ↔ CPI`, Mon–Sat) and, starting October 31, 2017, the ***ARTS Train Connector*** (official ARTS Thruway service meeting *The Patriot* trains in Roanoke);
+  * **Bluewater Transit (`BT` — "The Other BT")**: ***The Maroon Express*** (hourly 7-day-a-week 45-foot commuter coach running `Bluewater Transit Center [across from Bluewater HS] ↔ Exit 14 P&R ↔ Max Meadows Exit 84 ↔ Dublin / NRVRC Justin's Station Exit 98 ↔ Falling Branch / Christiansburg Transit Center ↔ New River Mall ↔ CPI`);
+  * **2003 Supplemental Commuter Coaches** (during the early 2003 surface-lot era) and ***The Valley Flyer*** (commercial intercity coach to Washington, D.C. Union Station);
+* A commuter intercept point for people traveling toward Blacksburg;
+* The primary game-day park-and-ride facility for **Commonwealth Polytechnic Institute (CPI)**;
+* A high-capacity transportation terminal for events at **The Crucible** and **The Furnace**.
+
+**Ownership vs. Operations:** The facility remains owned and operated by **VDOT**. **Blue Ridge Transit** (alongside partner agencies **Roanoke Valley Transit**, **Bluewater Transit**, and—during major stadium/arena events with the explicit permission of VDOT and Blue Ridge Transit—**CPI Fleet Services**) operates transit service from the terminal, while VDOT owns and maintains the parking structure and freeway ramps.
+
+---
+
+## 2. The 8-Level, ~6,000-Space Parking Garage (`Opened August 2012`)
+
+The August 2012 redevelopment replaces the original surface-oriented lot (where cars and buses intermingled and queued at US-11 signals) with an intentionally massive, purpose-built parking structure designed for both weekday regional commuters and peak CPI event demand:
+* **Eight (8) parking levels** (`Level 1` transit concourse/parking/services; `Levels 2–8` structured parking);
+* Approximately **6,000 total automobile spaces** (~12,000 to 14,400 game-day spectators at ~2.4 fans per vehicle);
+* Accessible parking distributed near elevators and protected pedestrian routes;
+* Multiple high-capacity elevator banks and stair towers;
+* Electronic parking-availability matrices and internal floor/section wayfinding;
+* Direct, grade-separated pedestrian connections to the **Blue Ridge Transit & Regional Coach** concourse;
+* **Strict Modal Separation:** The bus terminal and automobile garage circulation are physically separated. **Buses never drive through the automobile garage**, and **private automobiles cannot enter the bus terminal or use the transit-only US-460 ramps**.
+
+---
+
+## 3. Direct Interstate 81 Automobile Access (`I-81 ⇄ Garage = All Vehicles`)
+
+Whereas the 2003–2010 surface lot forced drivers onto **US-11** to reach the highway, motorists at the redeveloped **Christiansburg Transit Center** (`August 2012+`) enter and leave the 6,000-space parking garage using **direct freeway ramps** connecting the facility straight to **Interstate 81** (North and South) without entering the local Christiansburg street network:
+
+```text
+INTERSTATE 81
+      ↓
+direct ramp (ALL VEHICLES)
+      ↓
+CHRISTIANSBURG TRANSIT CENTER (8-Level Garage, ~6,000 Spaces)
+      ↓
+park automobile ($0 FREE)
+      ↓
+walk via protected pedestrian concourse
+      ↓
+Blue Ridge Transit & Regional Coach Terminal
+```
+
+On major CPI football Saturdays, this intercepts thousands of automobiles directly at I-81 before they ever approach Blacksburg.
+
+---
+
+## 4. US-460 Bypass Transit-Only Direct Access (`US-460 ⇄ Bus Terminal = BUSES ONLY`)
+
+The transit terminal features grade-separated, access-controlled direct flyover ramps connecting the bus bays directly to the **US-460 Bypass** toward Blacksburg. These ramps are strictly **`BUSES ONLY`**—used by **Blue Ridge Transit** (`Crucible Shuttles` / `Route 1X`), **Roanoke Valley Transit** (*Roanoke Express* & *ARTS Train Connector*), and **Bluewater Transit** (*The Maroon Express*). Private automobiles cannot use them as a shortcut between I-81 and US-460.
+
+**Inbound Movement:**
+```text
+I-81
+ ↓
+ALL-VEHICLE DIRECT RAMPS
+ ↓
+CHRISTIANSBURG TRANSIT CENTER (Park Automobile)
+ ↓
+PEDESTRIAN CONCOURSE
+ ↓
+BLUE RIDGE TRANSIT & REGIONAL COACH TERMINAL
+ ↓
+BUS-ONLY DIRECT RAMP
+ ↓
+US-460 BYPASS
+ ↓
+BLACKSBURG
+```
+
+**Outbound (Return) Movement:**
+```text
+BLACKSBURG
+ ↓
+US-460 BYPASS
+ ↓
+BUS-ONLY DIRECT RAMP
+ ↓
+CHRISTIANSBURG TRANSIT CENTER
+ ↓
+Passengers Retrieve Cars
+ ↓
+ALL-VEHICLE DIRECT RAMPS
+ ↓
+I-81
+```
+
+---
+
+## 5. Blue Ridge Transit & Regional Coach Terminal Architecture
+
+The ground-level transit facility is a high-throughput regional terminal engineered to load multiple 60-foot **Prairie Coachworks** articulated buses and 45-foot regional express coaches simultaneously:
+* **8 active articulated-bus / coach loading bays** (`Bays 1–8`), plus dedicated off-platform staging/queuing lanes;
+* Level/low-floor ADA ramp-compatible boarding curbs (and space for the mid-coach hydraulic ADA wheelchair lifts on 45-foot *Maroon Express* and *Roanoke Express* coaches), sheltered waiting areas, real-time departure displays, and deployable event crowd-control barriers;
+* Direct pedestrian concourses from the 8-level garage;
+* Controlled bus-only entrances/exits feeding both the **US-460 Bypass `BUSES ONLY` flyover ramps** (for express shuttles, *Roanoke Express*, and *Maroon Express*) and **US-11 / Roanoke Street** (for local **BRT Route 1** service into downtown Christiansburg and **Pepper Plaza Transit Center**).
+
+---
+
+## 6. Normal Weekday & Regional Transit Operation (`Route 1`, `Route 2`, `Route 4`, `CPI Fleet Services`, *Roanoke Express*, *Maroon Express*, & `2027+` Cambria Station Rail Link)
+
+During ordinary service days, the **Christiansburg Transit Center** is one of the most important multimodal nodes in the New River Valley:
+* **Blue Ridge Transit Route 1 ("The Spine"):**
+  * Operates every **15 minutes** along the US-11 $\rightarrow$ **Pepper Plaza Transit Center** (next to the Montgomery County Courthouse) $\rightarrow$ **North Franklin Street / South Main Street (Business 460)** corridor to **Commonwealth Polytechnic Institute** (**Commonwealth Mall** in `2003–2015`; **CPI Transit Center** in `2016+`).
+  * **Train-Timed Deviation to `Christiansburg Cambria Station (`800 Depot Street NE`)` (`2027+` ARTS Passenger Rail Era):** Because the Norfolk Southern `N-Line` rail corridor passes through historic Cambria (`800 Depot Street NE`) rather than Exit 118, **select trips on Route 1** (timed to **ARTS *The Patriot*** train arrivals and departures) deviate off **North Franklin Street** onto **Mill Lane NE** (serving the **Blue Ridge Regional Aquatic Center / Christiansburg Aquatic Center**) $\rightarrow$ **left onto Depot Street NE** $\rightarrow$ **right at Cambria Street to stay on Depot Street NE** into the **Cambria Station** bus loop, and exit the exact same way (`Depot St NE → Mill Ln NE → N. Franklin St`) so 60-foot articulated Route 1 buses use the **grade-separated North Franklin Street railroad bridge** and never cross the railroad tracks at-grade on Cambria Street.
+  * **Route 1 Two-Screen Luminator Amber LED Destination Signs (`August 2012+`):**
+    * **INBOUND to CPI:**
+      * Screen 1: `1 CPI`
+      * Screen 2: `1 via S MAIN ST` *(Train-timed deviation: `via CAMBRIA STA & S MAIN`)*
+    * **OUTBOUND to Christiansburg Transit Center:**
+      * Screen 1: `1 CBURG TRANS CTR`
+      * Screen 2: `via S MAIN ST` *(Train-timed deviation: `via S MAIN & CAMBRIA STA`)*
+    * *(Note: In pre-redevelopment `2003–2010` stories such as `books/paige` and `books/erin`, outbound Route 1 buses display `1 FALLING BRANCH`).*
+* **Blue Ridge Transit Route 4 ("East Roanoke Street / Woodland Drive" — `Christiansburg Transit Center ↔ Exit 118C Hotels ↔ Motor Mile ↔ Woodland Drive VDOT 60-Foot Loop`; Interlined with `Route 1`):**
+  * **Corridor & Purpose (`1.5 Miles` One-Way / `3.0 Miles` Round-Trip / `12-Minute` Round-Trip Runtime + `3-Minute` Layover = `15-Minute` Module):**
+    * Extends east from **Christiansburg Transit Center** across the **I-81 overpass (`Exit 118B / 118C` — East US-11 / US-460 / Bus 460 Christiansburg & Shawsville)** along **US-11 / US-460 East (`Roanoke Street`)** to serve:
+      1. **The Exit 118C Hotel & Fast-Food Cluster (`2400–2700 Roanoke Street`):** Including the hotel where **Aubrey and his mother Aubrie Sinclair** stay during August 2014 Move-In in *The Aubrie Chronicles* (where two-bed rooms were open, but Aubrie Sinclair deliberately booked a single bed out of narcissistic control while blaming the returning CPI students), and the hotels leased by **CPI Housing & Residence Life** for freshman overflow student housing during the **Fall 2014** and **Fall 2019** dorm overbooking crises, plus the surrounding fast-food strip.
+      2. **Auto Dealership Row ("Motor Mile", `2700–3100 Roanoke Street`):** Serving the major car dealerships and service centers.
+      3. **Woodland Drive Residential Strip & VDOT 60-Foot Turnaround Loop (`3345 Roanoke Street`):** Serving the final small collection of residential homes at **Woodland Drive SE** right at the eastern edge of civilization in Christiansburg before US-11/US-460 disappears into the forest and plunges down Christiansburg Mountain.
+  * **Purpose-Built `VDOT 60-Foot Bus Turnaround Loop` on Public VDOT Right-of-Way:**
+    * Because **Route 4 is interlined with Route 1**, the turnaround loop at **Woodland Drive (`3345 Roanoke Street`)** is specifically built with a wide **65-foot turning radius** to turn **60-foot articulated (`Prairie Coachworks LF60` / `New Flyer D60LF`) buses** around safely off the highway.
+    * The turnaround is constructed on **VDOT-owned property** rather than a private lot so that even if a private property owner or *Stardust Blacksburg, LLC* were ever to go out of business or sell land, no private landlord can ever kick Blue Ridge Transit buses off the turnaround.
+  * **Route 4 Two-Screen Luminator Amber LED Destination Signs:**
+    * **OUTBOUND (Eastbound to Woodland Drive):**
+      * Screen 1: `4 WOODLAND DR`
+      * Screen 2: `via ROANOKE ST`
+    * **INBOUND (Westbound to Christiansburg Transit Center):**
+      * Screen 1: `4 CBURG TRANS CTR`
+      * Screen 2: `via ROANOKE ST`
+  * **Standard `30-Minute` Headway vs. CPI Student Housing Overflow `15-Minute` Subsidy (`Fall 2014` & `Fall 2019`) + `CPI Fleet Services`:**
+    * **Standard Operations (`Every 30 Minutes`):** Because a single round trip takes 12 minutes (+ 3 min layover = 15 minutes), **Route 4** normally runs **every 30 minutes** across its entire span of service by interlining with **every other `Route 1` arrival** at **Christiansburg Transit Center** (`:00` and `:30`), requiring just **1 extra 60-foot articulated bus** in the `Route 1 / Route 4` rotation.
+    * **CPI Student Housing Overflow Crisis Mode (`Every 15 Minutes` — Interlined with *Every Single* `Route 1` Trip in `Fall 2014` & `Fall 2019`):** Whenever CPI overbooks its freshman dorms and overflows students into the **Exit 118C Hotels**—during both the **Fall 2014 Dorm Overbooking Crisis** (*The Aubrie Chronicles*) and the **Fall 2019 Freshman Over-Enrollment Crisis** (mirroring the real-life Fall 2019 Virginia Tech housing crunch when ~800 excess freshmen were housed in the Exit 118C Holiday Inn / hotel cluster)—**CPI Housing & Residence Life** legally subsidizes Blue Ridge Transit (`49 CFR § 604.3(c)`) to add **one more 60-foot articulated bus** so **Route 4 runs every 15 minutes, interlining with every single `Route 1` trip (`:00`, `:15`, `:30`, `:45`)**! Overflow freshmen get an open-door, one-seat 60-foot articulated bus ride from Roanoke Street right in front of their hotel through Christiansburg Transit Center all the way to CPI every 15 minutes.
+    * **`CPI Fleet Services` (Non-FTA University Vehicle Division):** Alongside the 15-minute public transit spine, CPI's internal **CPI Fleet Services** division (100% university auxiliary-funded with **zero FTA grant money**, and therefore **100% exempt from the FTA Charter Service Rule**) operates Maroon-and-Forge-Gold `RLFD30` shuttles and ADA cutaway minibuses (`Access-CPI`, `SafeRide`, and departmental trips) that can legally pull directly under the private porte-cochères of the **Exit 118C Hotels** to run closed-door (`CPI PolyPass Only`) non-stop express hops up the **US-460 Bypass** during Move-In and peak class rushes.
+* **Blue Ridge Transit Route 2 ("The Christiansburg Local" — `Pepper Plaza TC ↔ Wades Lane ↔ Aquatic Center ↔ Cambria Station ↔ New River Mall TC`):**
+  * While **Route 1** only deviates to **Cambria Station (`800 Depot Street NE`)** for scheduled **ARTS** trains, **Route 2** provides **all-day, 7-day-a-week local neighborhood service** (`Mon–Fri 6 AM–10 PM`, `Sat 7 AM–10 PM`, `Sun 8 AM–8 PM`, every 30 min daytime / 60 min evenings & Sundays) connecting **Pepper Plaza Transit Center** $\rightarrow$ `W. Main St` $\rightarrow$ `Radford St` $\rightarrow$ `Clearview Dr` $\rightarrow$ `Wades Ln` (serving the two **`Stardust Blacksburg, LLC` / *Ironwood Collective*** apartment complexes: **Ironwood at Wades Lane North & South**) $\rightarrow$ `N. Franklin St` $\rightarrow$ `Mill Ln NE` (**Blue Ridge Regional Aquatic Center**) $\rightarrow$ `Depot St NE` (**Cambria Station at `800 Depot St NE`**) $\rightarrow$ across the tracks and `N. Franklin St` on `Cambria St NW` $\rightarrow$ `Gibbons Dr` $\rightarrow$ `Berkshire Dr` (crossing over `Windsor Dr`) $\rightarrow$ `Windsor Dr` $\rightarrow$ `Majestic Dr` $\rightarrow$ `Peppers Ferry Rd` $\rightarrow$ **New River Mall Transit Center**, where local riders transfer to **Route 1**, **RVT *Roanoke Express***, or **Bluewater *Maroon Express*** to reach **Christiansburg Transit Center** or **CPI**.
+* **Roanoke Valley Transit (*Roanoke Express* & *ARTS Train Connector*) & Bluewater Transit (*The Maroon Express*):**
+  * Both regional 45-foot coach routes call at the **Christiansburg Transit Center** (known as **Falling Branch Park & Ride** in `2003–2010`) between I-81, **New River Mall Transit Center (The Christiansburg Mall)**, and **CPI**, offset by 30 minutes on Monday–Saturday to provide **30-minute combined express headways** along the northern corridor.
+  * **CPI PolyPass** holders ride **Blue Ridge Transit**, **Roanoke Valley Transit**, and **Bluewater Transit** for **FREE (`$0.00`)** (flashing their physical PolyPass in `2003–2019`, and tapping the embedded **Blue Ridge Go-Card** / **MagnaByte Express Mode** post-COVID `2020+`).
+* Normal fixed-route operation is operationally distinct from CPI football game-day **Crucible Shuttle** operation.
+
+---
+
+## 7. CPI Forgers Football Saturdays & Furnace Arena Events (`Blue Ridge Transit` + `CPI Fleet Services` Joint Surge)
+
+On CPI home football Saturdays at **The Crucible** (and major basketball/convocation events at **The Furnace**), normal Blue Ridge Transit fixed-route service is suspended (or shifted to Event Mode) and **as many buses as possible** from **both Blue Ridge Transit (including the 60-foot articulated fleet) and CPI Fleet Services (CPI's directly operated university bus fleet, operating with the full permission of Blue Ridge Transit and VDOT)** are pressed into unified **Crucible Shuttle** and **Furnace Shuttle** operations serving **Christiansburg Transit Center**:
+* The **Christiansburg Transit Center** is the busiest remote event intercept facility.
+* **Unified `Blue Ridge Transit` + `CPI Fleet Services` Dispatch:** With VDOT and Blue Ridge Transit authorization, CPI's Maroon-and-Forge-Gold **CPI Fleet Services** transit buses mix directly into the same loading bays, use the same **`BUSES ONLY` US-460 Bypass flyover ramps**, and run down the same **Southgate Drive Bus-Only Priority Corridor** into **The Crucible Bus Loop** right alongside Blue Ridge Transit's buses. To a passenger in line, **it does not matter whether the next bus pulling up to the curb is a Blue Ridge Transit bus or a CPI Fleet Services bus**—you simply board the next open door and go!
+* Despite having **~6,000 parking spaces**, the 8-level garage **routinely fills early** for major games (a signature piece of CPI football culture: *"If you don't get to Falling Branch early, you're not getting a space"*).
+* Even after formal redevelopment into the Christiansburg Transit Center, longtime fans casually refer to it in conversation as **`Falling Branch`** (*"Where'd you park?" "Falling Branch."*).
+
+---
+
+## 8. Game-Day & Arena Event Parking and Fares (`FREE` / `LOAD AND GO` — Both BT & CPI Buses)
+
+* **VDOT Parking at Christiansburg Transit Center:** **`FREE ($0)`**.
+* **Blue Ridge Transit & CPI Fleet Services Event Shuttles (`Crucible Shuttle` / `Furnace Shuttle`):** **`FREE ($0)`**.
+* No fare is collected, no PolyPass is required, and no CPI affiliation is required—**regardless of whether a passenger boards a Blue Ridge Transit bus or a CPI Fleet Services bus**. The operating philosophy is **`LOAD AND GO`** with zero fare-box friction slowing mass boarding.
+
+---
+
+## 9. Canonical Event Shuttle Destination Signs (By Era & Venue)
+
+Both **Blue Ridge Transit** and **CPI Fleet Services** event buses program identical 2-screen alternating Luminator destination displays so passengers in the queue see a uniform message:
+
+* **Pre-Event Inbound toward CPI (`The Crucible` or `The Furnace` — Both Eras):**
+  * **For Events at The Crucible:**
+    ```text
+    CRUCIBLE SHUTTLE
+           ↕
+      GO FORGERS!
+    ```
+  * **For Events at The Furnace:**
+    ```text
+    FURNACE SHUTTLE
+           ↕
+      GO FORGERS!
+    ```
+* **Post-Event Return Trip Outbound toward Exit 118 (Split by Chronological Era):**
+  * **Era A (`2003–July 2012` — *Falling Branch Park & Ride* Surface-Lot Days):**
+    ```text
+    FALLING BRANCH SHUTTLE
+              ↕
+         GO FORGERS!
+    ```
+  * **Era B (`August 2012+` — *Christiansburg Transit Center at Falling Branch* Era):**
+    ```text
+    CBURG TC SHUTTLE
+           ↕
+      GO FORGERS!
+    ```
+    *(`CBURG TC SHUTTLE` = **Christiansburg Transit Center Shuttle**, introduced when the redeveloped 8-level VDOT garage and 8-bay transit terminal opened in August 2012).*
+
+---
+
+## 10. Game-Day Crowd Loading Sequence
+
+During peak game-day windows, 60-foot articulated buses load and depart continuously across Bays 1–8:
+```text
+Bus enters staging area
+          ↓
+Loading bay becomes available
+          ↓
+60-foot articulated bus advances
+          ↓
+Doors open & passengers crush-load
+          ↓
+Doors close & dispatcher releases bus
+          ↓
+Bus-only direct ramp → US-460 Bypass toward Blacksburg
+          ↓
+Next staged 60-foot bus immediately advances into bay
+```
+
+---
+
+## 11. Southgate Drive Game-Day Bus Priority in Blacksburg
+
+Upon reaching Blacksburg, **Crucible Shuttle** buses enter **Southgate Drive**, which is reserved exclusively for buses and authorized vehicles and enforced by the **Virginia State Police**:
+```text
+CHRISTIANSBURG TRANSIT CENTER
+              ↓
+    bus-only direct ramp
+              ↓
+        US-460 Bypass
+              ↓
+Southgate Drive bus-priority corridor
+              ↓
+         THE CRUCIBLE
+```
+
+---
+
+## 12. Relationship with CPI's Campus Parking Policy ("The \$150 Paradox")
+
+CPI intentionally prices on-campus visitor football parking aggressively to incentivize free VDOT park-and-ride usage:
+* **CPI On-Campus Visitor Game-Day Parking Tiers:**
+  * **Outer campus:** `$75`
+  * **General campus:** `$100`
+  * **Close to The Crucible:** `$150`
+* **Christiansburg Transit Center:**
+  * **VDOT 8-level garage:** `FREE ($0)`
+  * **Crucible Shuttle:** `FREE ($0)`
+* **The Irony:** Paying `$150` buys a short walk to the stadium gate—**not** priority through postgame traffic. While `$150` parkers sit motionless in metered campus traffic queued toward Prices Fork Road or gridlocked on South Main Street, 60-foot BRT articulated buses and CPI Fleet Services shuttles bypass the gridlock via State Police bus-only priority on Southgate Drive.
+
+---
+
+## 13. Postgame Operation
+
+Immediately after a sold-out game or arena event, thousands of fans queue at **The Crucible Bus Loop** for the return shuttles to Christiansburg Transit Center. Multiple **Blue Ridge Transit** 60-foot articulated buses and **CPI Fleet Services** buses displaying `CBURG TC SHUTTLE` $\updownarrow$ `GO FORGERS!` *(or `FALLING BRANCH SHUTTLE` $\updownarrow$ `GO FORGERS!` in pre-August 2012 narratives)* load simultaneously (`Fare Free — Load and Go`, regardless of whether the bus is painted in BT or CPI livery) and depart via the Southgate bus-priority corridor $\rightarrow$ US-460 Bypass $\rightarrow$ bus-only direct ramp $\rightarrow$ Christiansburg Transit Center, moving 12,000–14,000 spectators *outside* Blacksburg before they become motorists again at the direct I-81 ramps.
+
+---
+
+## 14. Multimodal Circulation Diagram
+
+```text
+          INTERSTATE 81
+                ↕
+      GENERAL VEHICLE RAMPS (ALL VEHICLES)
+                ↕
+┌────────────────────────────┐
+│                            │
+│   8-LEVEL PARKING GARAGE   │
+│       ~6,000 SPACES        │
+│                            │
+└─────────────┬──────────────┘
+              │
+         PEDESTRIANS (Protected Concourse)
+              │
+              ▼
+┌────────────────────────────┐
+│   CHRISTIANSBURG TRANSIT   │
+│           CENTER           │
+│                            │
+│     BLUE RIDGE TRANSIT     │
+│                            │
+│   8 ARTICULATED-BUS BAYS   │
+│       + BUS STAGING        │
+└─────────────┬──────────────┘
+              │
+         BUSES ONLY
+              │
+              ▼
+         DIRECT RAMPS
+              │
+              ▼
+        US-460 BYPASS
+              │
+              ▼
+          BLACKSBURG
+```
+
+---
+
+## 15. Narrative & Dialogue Rules
+
+Do **not** turn this infrastructure into heavy-handed exposition every time the facility appears. Locals and students already know how it works and use natural shorthand without explanation:
+* *"We're parked at Falling Branch."*
+* *"Garage is full."*
+* *"Take the Crucible Shuttle."*
+* *"We're taking the bus. I'm not paying a hundred bucks to park at CPI."*
+* *"If you don't get to Falling Branch early, you're not getting a space."*
+
+---
+
+## Appendix: Original Design & Traffic Engineering Discussion
 
 You said:
 The arrogant person why thinks buses are for the riffraff pays $150 to park at The Crucible then instantly complains about traffic before and especially after the game
@@ -48,7 +395,7 @@ Meanwhile, BRT is doing industrial-scale crowd movement:
 
 
 
-FALLING BRANCH P&R
+FALLING BRANCH SHUTTLE
 GO FORGERS!
  
 [ 60-foot articulated bus ]
@@ -100,7 +447,7 @@ The veteran Forgers fan responds:
 
 Then after the game the veteran climbs aboard a crush-loaded artic displaying:
 
-FALLING BRANCH P&R
+FALLING BRANCH SHUTTLE
 GO FORGERS!
 
 ...while the $150 parker sits in a motionless line of brake lights close enough to The Crucible to hear the empty stadium being cleaned.
@@ -317,7 +664,7 @@ Meanwhile:
 
 At The Crucible:
 
-FALLING BRANCH P&R
+FALLING BRANCH SHUTTLE
 GO FORGERS!
 
 Doors open.
@@ -397,7 +744,7 @@ Four artics pull forward.
 
 All four destination signs alternate:
 
-FALLING BRANCH P&R
+FALLING BRANCH SHUTTLE
 
 GO FORGERS!
 
@@ -650,7 +997,7 @@ car
 🚗🚗🚗🚗🚗🚗🚗
 And somewhere alongside the traffic jam, another Prairie Coachworks artic full of Forgers fans sails past.
 
-FALLING BRANCH P&R
+FALLING BRANCH SHUTTLE
 
 flip
 
@@ -876,7 +1223,7 @@ But after the game:
 
 
 
-FALLING BRANCH P&R
+CBURG TC SHUTTLE
 GO FORGERS!
        ↓
 BUS-ONLY ROUTING

@@ -39,16 +39,15 @@
 | ORCA Card                            | WAVE Card                                                  | **W**ashington **A**rea **V**oyager **E**-Pass. Universal smart-card system. Note: During initial development, staff proposed "Easy-Pass" and "COMPASS". General Counsel shot down "COMPASS" due to PacificLink's trademark in Vancouver, and immediately vetoed "Easy-Pass" under threat of a Cease \& Desist from the East Coast E-ZPass IAG. "Electronic" was chosen as the legally safe substitute. |
 | Microsoft Blue Badge Transit Benefit | Quantum Blue Badge                                         | Functions as a universal, unlimited-access pass for the entire TAPS network. Employees simply flash the badge for frictionless boarding. Transitioned to smart-chip loading upon the introduction of the WAVE system.                                                                                                                                                                                   |
 | HRT (Hampton Roads Transit)          | CVTA (Coastal Virginia Transit Authority)                  | Local transit grid in Virginia. Quantum subsidizes these passes for out-of-state deployments (like NAVSTA Norfolk) just as seamlessly as TAPS.                                                                                                                                                                                                                                                          |
+| MBTA (Massachusetts Bay Transportation Authority) / The T | BSTA (Bay State Transit Authority) / The B | The Boston-area transit authority. Locals joke it stands for "Better Start Taking Alternatives." Nicknamed "The B" (or "The Bitch" when inevitable delays occur). |
 | C-TRAN / TriMet                      | CTS                                                        | Columbia Transit Service. A unified, bi-state transit authority that combines the real-world networks of Clark County, WA (C-TRAN) and Portland, OR (TriMet) into a single, seamless regional system.                                                                                                                                                                                                   |
 | TransLink (Vancouver, BC)            | PacificLink                                                | The regional transportation network for the Greater Vancouver area. They successfully deployed the "COMPASS" smart-card system, which is why the TAPS committee had to pivot to WAVE.                                                                                                                                                                                                                   |
 | BC Transit                           | Columbia Provincial Transit (CPT)                          | The broader provincial transit network. Operated the entire region until PacificLink broke off as an independent entity to manage the Greater Vancouver grid.                                                                                                                                                                                                                                           |
 | Vancouver Pacific Central Station    | Pacific Central Terminus                                   | The northern hub for ARTS. Jessica arrived here via the ARTS Cascadian route from the TAPS Tukwila Provisional Platform during a major Quantum enterprise deployment.                                                                                                                                                                                                                                   |
-| Blacksburg Transit (BT)              | Blue Ridge Transit (BT / BRT)                              | Municipal & university transit network serving Blacksburg, Christiansburg, and CPI. Fare system: **PolyPass** (flashed to operator 2003–2019; embedded with **Blue Ridge Go-Card** RFID / **MagnaByte Express Mode** post-COVID). Operates 29', 35', 40', and 60-foot Prairie Coachworks articulated buses (*Route 1: The Spine* via US-11 $\rightarrow$ Pepper Plaza [Montgomery County Courthouse] $\rightarrow$ South Main St [Business 460] $\rightarrow$ Commonwealth Mall [2003–15] / CPI Transit Center [2016+]). |
-| Falling Branch Park & Ride (Exit 118)| Falling Branch P&R / Christiansburg Transit Center         | VDOT-owned 8-level, 6,000-space intercept parking garage, 8-bay Blue Ridge Transit terminal, and future **ARTS** passenger rail station at I-81 Exit 118. Features WSDOT-style direct I-81 ramps for all vehicles and `BUSES ONLY` direct flyover ramps onto US-460 Bypass toward Blacksburg. |
-| New River Valley Mall / Uptown C-burg| New River Mall (rebranded New River Commons)               | Major shopping center & regional express bus transfer hub in Christiansburg ("The Christiansburg Mall"), served by **Roanoke Valley Transit (RVT)**, **Bluewater Transit (*Maroon Express*)**, and 2003 supplemental MCI commuter coaches. |
-| Valley Metro (Roanoke) / Smart Way   | Roanoke Valley Transit (RVT) — *Roanoke Express*           | Operates from Roanoke's **Third Street Station** (Mon–Sat, plus Sunday **ARTS *Train Connector*** Thruway service starting Oct 31, 2017). Free with CPI PolyPass. |
-| Hillsville / District Three Transit  | Bluewater Transit ("The Other BT") & *The Maroon Express*  | Based at **Bluewater Transit Center** (across from Bluewater High School in Bluewater, VA / in-universe Hillsville). Operates local pulse routes (including the hourly **Purple Line** to Galax CC) and the hourly 90-minute ***Maroon Express*** coach to CPI. Free with CPI PolyPass, Galax CC ID, or Carroll County Public Schools ID. |
-| Virginia Breeze (Megabus)            | The Valley Flyer                                           | State-sponsored intercity coach (`CPI ↔ Falling Branch ↔ Washington, D.C. Union Station`). Strictly commercial (`$15.99` local hop, `$49.99` to D.C.; does **not** accept PolyPass or Blue Ridge Go-Card). |
+| Blacksburg Transit (BT) & VT Fleet Services | Blue Ridge Transit (BRT) & CPI Fleet Services | Municipal & university transit network serving Blacksburg, Christiansburg, and CPI (**PolyPass** fare-free). **Blue Ridge Transit** operates 29', 35', 40', and 60-foot Prairie Coachworks articulated buses (*Route 1: The Spine* [`Cburg TC ↔ Pepper Plaza ↔ CPI`, with `2027+` train-timed deviations via `Mill Ln NE` & `Depot St NE` to `Cambria Station`], *Route 2: The Christiansburg Local* [`Pepper Plaza ↔ Wades Ln (Ironwood) ↔ Blue Ridge Regional Aquatic Center ↔ Cambria Station ↔ New River Mall TC`], *Route 3: The Radford Link*, *Route 4: East Roanoke St / Woodland Dr* [`Cburg TC ↔ Exit 118C Hotels ↔ Motor Mile ↔ Woodland Dr VDOT 60' Loop`, interlined with Route 1 every 30 min standard / every 15 min during `Fall 2014` & `Fall 2019` CPI hotel overflow crises], and *Route 8: The Riner Run*). **CPI Fleet Services** (non-FTA university fleet) operates `Access-CPI`, `SafeRide`, direct US-460 Bypass hotel overflow shuttles, and works jointly with **Blue Ridge Transit** & **VDOT** on fare-free `Load & Go` **Crucible & Furnace Event Shuttles**. |
+| Falling Branch Park & Ride (Exit 118)| Falling Branch P&R (`2003–2010`) $\rightarrow$ Christiansburg Transit Center at Falling Branch (`Opened Aug 2012+`) | VDOT facility at I-81 Exit 118 (`Falling Branch Park & Ride` simple surface lot in 2003–2010 where cars & buses intermingled and exited via US-11; redeveloped `2010–2012` and opened **August 2012** as the **Christiansburg Transit Center** with an 8-level, ~6,000-space VDOT garage and physically separated 8-bay Transit Terminal served by **BRT**, **CPI Fleet Services**, **RVT *Roanoke Express***, and **Bluewater *Maroon Express***). Features direct I-81 ramps for all vehicles (`FREE` parking) and `BUSES ONLY` direct flyover ramps onto US-460 Bypass toward Blacksburg. Event shuttle signs alternate `CRUCIBLE SHUTTLE` or `FURNACE SHUTTLE` $\updownarrow$ `GO FORGERS!` inbound, and `FALLING BRANCH SHUTTLE` $\updownarrow$ `GO FORGERS!` (`2003–July 2012`) / `CBURG TC SHUTTLE` $\updownarrow$ `GO FORGERS!` (`August 2012+`) outbound. |
+| Christiansburg Aquatic Center (Mill Ln NE) | Blue Ridge Regional Aquatic Center *(Christiansburg Aquatic Center / The Forger Natatorium)* | Joint Town of Christiansburg & CPI Olympic 50-meter aquatic complex on **Mill Lane NE** (opened **2010**; home pool of **CPI Swimming & Diving — *The Forgers***). Served all day by **BT Route 2** and on train-timed deviations by **BT Route 1**. |
+| Christiansburg Amtrak Station (Cambria Depot) & Bristol Union Station | Christiansburg Cambria Station (`800 Depot Street NE`) & Bristol Union Station (`101 MLK Jr. Blvd, Bristol, VA`) | **ARTS *The Patriot*** Southwest Virginia rail extension along the Norfolk Southern `N-Line` (`Roanoke Third Street Station [Oct 31, 2017]` $\rightarrow$ `Christiansburg Cambria Station at 800 Depot Street NE [2027]` $\rightarrow$ `Radford → Dublin/Pulaski → Wytheville → Marion → Abingdon → Bristol Union Station, Bristol, VA`). |
 
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
@@ -69,7 +68,7 @@
 |New Flyer|Prairie Coachworks|Heavy-duty low-floor municipal transit and articulated buses (e.g., 30-foot RLFD30, 40-foot D40LF/RLFD40, and 60-foot D60LF/RLFD60 articulated coaches).|
 |Prevost|Sainte-Claire|High-deck luxury over-the-road motorcoaches manufactured in Sainte-Claire, Québec (e.g., the 45-foot *Sainte-Claire 45H3* / "The Iron Horse").|
 |Greyhound Lines|Pathfinder|Intercity bus service.|
-|Amtrak|ARTS|American Rail Transit Service. Key named trains: ***The Patriot*** (in-universe counterpart to Amtrak's *Northeast Regional*, serving the Northeast Corridor & Virginia extensions to Newport News, Norfolk, Roanoke [Oct 31, 2017], and Christiansburg), ***Coastal Corridor*** (*Acela*), ***Coast Starlight / Coastliner***, ***Cascades / Cascadian***, ***Pennsylvanian***, ***Capitol Limited***, and ***Atlas-Liner***.|
+|Amtrak|ARTS|American Rail Transit Service.|
 |Southwest Airlines|Gateway Airlines|Domestic airline.|
 |United Airlines|Meridian Airlines|Features "The Prismatic Corridor" (equivalent to the ORD Neon Tunnel).|
 |Alaska Airlines|Cascade Air|Domestic airline.|
@@ -101,6 +100,11 @@
 | VirtualBox                | Vertex Virtual Environment              | Also known as Vertex VE.                                                                                                                                                                                                                                                                      |
 | InstallShield             | SetupRight                              | Express/Professional software installers.                                                                                                                                                                                                                                                     |
 | Polycom                   | Omni-Link Uplink                        | Teleconferencing hardware.                                                                                                                                                                                                                                                                    |
+| Ticketmaster / Live Nation| TicketSphere                            | Primary commercial concert and stadium ticketing monopoly (notorious for dynamic "Platinum" pricing and 28%+ "convenience/facility" junk fees).                                                                                                                                               |
+| StubHub / SeatGeek        | SphereHub                               | Secondary-market ticket resale and scalping marketplace dominated by automated broker botnets (`TicketKing99`, `BotMaster`, `ScalpEmAll`).                                                                                                                                                    |
+| Linux Mint                | Aura Glade                              | Open-source desktop Linux distribution with a traditional desktop layout familiar to `Quantum OS` users. Installed by Zoë Brooks on Jordan Sinclair-Brooks's spare **Pinnacle Vanguard Pro** laptop (with a manually compiled terminal patch for its stubborn wireless card driver and a glossy **Dark Aero** theme). |
+| GNU nano                  | NeoEdit                                 | Streamlined command-line terminal text editor. Jordan Sinclair-Brooks's preferred primary typing tool—scaling neon-green text on a stark black background so friends can read directly over his shoulder or across the table—which he strongly prefers over using a speech synthesizer (`EchoType`) for everyday communication. |
+| Proloquo4Text / TTS Apps  | EchoType / SimpleSpeak                  | Augmentative and Alternative Communication (AAC) text-to-speech software. Jordan uses **EchoType** (with the `"Sydney"` Australian-accented female voice profile) when spoken projection is needed, having abandoned **SimpleSpeak** (`"Quantum David"` robotic voice forced on him by his mother). |
 
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
@@ -142,8 +146,9 @@
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
-|*Original Canon*|Fractured Prisms|Massive synth-heavy 1980s pop-rock duo formed in Williamsport, MD by surviving siblings Rhys and Claire Manning after a 1981 family tragedy.|
-|Genesis|Continuum|Progressive/Pop-rock band.|
+| *Original Canon*          | Fractured Prisms                        | Massive synth-heavy 1980s pop-rock duo formed in Williamsport, MD by surviving siblings Rhys and Claire Manning after a 1981 family tragedy.                                                                                                                                                   |
+| The Beatles               | The Mersey Four                         | Legendary 1960s British Invasion rock quartet from Liverpool, Merseyside, UK.                                                                                                                                                                                                                  |
+| Genesis                   | Continuum                               | Progressive/Pop-rock band.                                                                                                                                                                                                                                                                     |
 |Phil Collins|Graham Mercer|Musician and vocalist.|
 |Elton John|Arthur Sterling|Musician and vocalist.|
 |Trans-Siberian Orchestra|Arctic Symphony Project|Rock orchestra.|
@@ -191,7 +196,7 @@
 |Whatcom Community College|Bellingham Community College (BCC)|Community college.|
 |Virginia Tech|Commonwealth Polytechnic Institute (CPI)|Located in Blacksburg, VA. Teams: The Forgers. Football Stadium: The Crucible (North End Zone bleachers: The Anvil). Fanatical student section: The Ironheads.|
 |Old Dominion University (ODU)|Virginia Dominion University (VDU)|Located in Norfolk, VA. Teams: The Monarchs ("Norfolk"). Fierce CPI rival following the 2014 (38–0 VDU) and 2015 (52–0 CPI) Homecoming Shutout War.|
-|University of Virginia (UVA)|Virginia Piedmont University (VPU) / Piedmont Virginia University (PVU)|Traditional state university rival of CPI.|
+|University of Virginia (UVA)|The University of the Piedmont (UP)|Located in Charlottesville, VA (students/alumni strictly emphasize *The* University of the Piedmont). Official Mascot: The Chancellors (Navy Blue & Old Gold). Unofficial Identity: The Rahoos / The Rahs (chant: "RAHOOWA!"). Student Section: The Gallery. Indoor Arena: **The Chancellery** (in-universe John Paul Jones Arena). Traditional in-state rival of CPI (whom Rahoos sneeringly call "Comm Tech").|
 |West Virginia University (WVU)|Monongahela State University (MSU)|Appalachian border rival of CPI. Teams: The Coalminers. Rivalry: The Coal & Iron Border War (The Black Anvil Trophy).|
 |Duke University|Buchanan University|Located in Durham, NC. Basketball Arena: Buchanan Indoor Pavilion. Famous basketball student section: The Pavilion Lunatics.|
 |The Smithsonian|The Finch Endowment|Founded by Lord Alistair Finch.|
@@ -212,27 +217,49 @@
 |"Sweet Caroline" (Neil Diamond)|"Sweet Evangeline"|Iconic eighth-inning horn-hook ballpark singalong at Back Bay Park.|
 |Heisman Trophy|The Gridiron Trophy|Premier collegiate football individual player award.|
 |New York Yankees|Empire City Emperors|FBL Baseball team.|
-|WWF / WWE|AWF / AWE|**American Wrestling Federation** transitioning to **American Wrestling Entertainment**.|
+|WWF / WWE|AWF / AWE|**American Wrestling Federation** transitioning to **American Wrestling Entertainment** (never use *"GWF"*).|
 |World Wildlife Fund (WWF)|The Animal Welfare Fund (AWF)|London-based international animal rescue network. Successfully sued Victor Cross in the English High Court in 2002 for violating a 1994 agreement, forcing the AWE rebrand.|
 |The "Get the F Out" Campaign|"We're getting the 'F' out!"|Victor Cross's defiant 2002 marketing campaign used to transition the company name from AWF to AWE following the London lawsuit.|
+|WCW (World Championship Wrestling)|GCW (Global Championship Wrestling)|Atlanta-based rival promotion bought out by Victor Cross in March 2001.|
+|ECW (Extreme Championship Wrestling)|HCW (Hardcore Championship Wrestling)|Philadelphia-based extreme promotion run by Carter "The Fox" Finnley; revived by AWE in 2006.|
 
 ### Television Broadcasts
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
-|Monday Night RAW|Monday Night WAR|Primary professional wrestling A-show broadcast.|
-|SmackDown|Thursday/Friday Night SHOWDOWN|Secondary professional wrestling A-show broadcast.|
-|Sunday Night Heat|AWE IGNITE|Sunday night B-show and pay-per-view pre-show.|
-|Velocity|AWE OVERDRIVE|Weekend B-show highlighting cruiserweights and mid-card talent.|
+|Monday Night RAW|AWE Monday Night WAR|Primary flagship Monday night live A-show broadcast (late-1990s Attitude Era branding: *WAR IS WAR*).|
+|SmackDown!|AWE Thursday/Friday Night SHOWDOWN|Secondary flagship blue-brand A-show broadcast (*AWE Showdown*).|
+|ECW on Sci-Fi / WWE NXT|AWE Tuesday Night IGNITION $\rightarrow$ AWE NextGen|Third-brand Tuesday night broadcast (*AWE Ignition* in 2006–2010, transitioning to *AWE NextGen* in 2010).|
+|Sunday Night Heat|AWE Sunday Night IGNITE|Sunday night B-show for the *Monday Night WAR* roster and 1-hour live Sunday Pay-Per-View pre-show.|
+|WWE Velocity|AWE OVERDRIVE|Saturday night B-show taped before *Showdown*, highlighting cruiserweights and mid-card talent.|
+|WWF Jakked / Metal|AWE HIGH VOLTAGE / AWE HEAVY METAL|Late-Attitude Era weekend syndicated B-shows (1999–2002, succeeded by *AWE Overdrive*).|
+|WWE Confidential|AWE UNCLASSIFIED|Saturday night behind-the-scenes documentary magazine broadcast (2002–2004).|
+|WWE Bottom Line & Afterburn|AWE FRONT LINE & AWE AFTERSHOCK|Weekend syndicated 1-hour recap shows for *Monday Night WAR* (*Front Line*) and *Showdown* (*Aftershock*).|
+|WWF LiveWire|AWE HOTLINE|Saturday morning live call-in and recap show (1996–2001).|
+|WWF Superstars of Wrestling & Wrestling Challenge|AWF Titans of Wrestling & AWF Wrestling Gauntlet|Classic 1980s–1990s weekend syndicated flagship shows.|
+|WWF Prime Time Wrestling|AWF Prime Time Clash|1985–1993 Monday night anthology predecessor to *Monday Night WAR*.|
+|Saturday Night's Main Event|AWF/AWE Saturday Night's Main Stage|Prime-time / late-night broadcast network specials.|
+|WWE Byte This!|AWE NetCast!|Mid-week interactive internet webcast talk show.|
+|WWE Tough Enough|AWE Iron Will|Reality competition series training hopefuls for an AWE contract.|
+|WWE Superstars (2009–2016) & WWE Main Event|AWE Showcase & AWE Center Stage|2010s-era mid-week and weekend B-shows.|
+|WWE Total Divas|AWE Total Icons|2010s reality television series following the women of the AWE roster.|
 
-### Pay-Per-View Events
+### Pay-Per-View Events (Annual 12-Month Calendar)
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
-|WrestleMania|The Pinnacle|The flagship, stadium-tier annual pay-per-view event.|
-|Royal Rumble (PPV \& Match)|The Iron Gauntlet|January PPV. Features the 30-Man Iron Gauntlet Match. **Rule:** Elimination only occurs when thrown over the top rope and *both feet* touch the floor, allowing for athletic loophole saves.|
-|SummerSlam|Summer Siege|The flagship August pay-per-view event.|
-|Survivor Series (PPV)|No Quarter|Major November pay-per-view event.|
+|Royal Rumble (January — Big Four)|The Iron Gauntlet|January PPV. Features the 30-Man Iron Gauntlet Match. **Rule:** Elimination only occurs when thrown over the top rope and *both feet* touch the floor, allowing for athletic loophole saves.|
+|No Way Out / Elimination Chamber (February)|No Escape|February PPV; final stop before *The Pinnacle*. Features the **Iron Dome Match** (*Elimination Chamber*).|
+|WrestleMania (March/April — Big Four)|The Pinnacle|The flagship, stadium-tier annual pay-per-view event (*"The Grandest Stage of Them All"*).|
+|Backlash (Late April)|Fallout|Late-April PPV featuring championship rematches and fallout from *The Pinnacle*.|
+|Judgment Day / Over the Limit / Payback (May)|Day of Reckoning|May grudge-match pay-per-view event.|
+|King of the Ring / Bad Blood / Money in the Bank (June)|Crown of the Ring / Bad Bloodline / Contract in the Vault|June PPV slot; features the multi-man **Contract in the Vault Ladder Match** in the 2010s era.|
+|Vengeance / The Great American Bash / Battleground (July)|Vendetta / The Liberty Bash / Battlefront|Mid-summer July championship pay-per-view event.|
+|SummerSlam (August — Big Four)|Summer Siege|The flagship August pay-per-view supershow (*"The Biggest Event of the Summer"*).|
+|Unforgiven / Night of Champions (September)|Unrelenting / Night of Gold|September PPV; at *Night of Gold*, every active AWE championship is defended.|
+|No Mercy / Taboo Tuesday & Cyber Sunday / Hell in a Cell (October)|Zero Mercy / Cyber Clash / The Iron Cell|October PPV; features the 20-foot roofed **Iron Cell** (*Hell in a Cell*) cage structure.|
+|Survivor Series (November — Big Four)|No Quarter|**Annual Thanksgiving Week Tradition.** Major November pay-per-view event featuring traditional 5-on-5 *No Quarter* Elimination Tag Team Matches.|
+|Armageddon / TLC: Tables, Ladders & Chairs (December)|Doomsday / TLS: Tables, Ladders & Steel|Year-end December blow-off pay-per-view event.|
 
 ### AWE Corporate Terminology
 
@@ -264,3 +291,11 @@
 
 
 
+|A Christmas Story|A December Fable|Holiday comedy film.|
+| Oak & Iron Outfitters | Abercrombie & Fitch / Hollister | The loud, dark, heavily perfumed teenage clothing retailer. |
+| The Literary Alcove | Barnes & Noble / Borders | The massive, multi-level retail bookstore chain. |
+| Neon Syndicate | Spencer's | The blacklight-soaked novelty store with the heavily censored back section. |
+| The Narragansett Catch | Generic Fast-Casual Seafood | The premier mall food court destination for fast-casual New England seafood. |
+| Agent Sterling | James Bond / 007 | The iconic British superspy film franchise. The character is known as Agent Sterling (Operative 008). |
+| Kensington-Royce | Rolls-Royce | The ultra-luxury British automobile manufacturer. |
+| Tidewater Square Mall | Chesapeake Square Mall | The mall located in Chesapeake, VA. |

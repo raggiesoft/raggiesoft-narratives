@@ -6,11 +6,37 @@ title: "The Eleventh Child"
 
 ## The Administrative Prelude
 
-### Scene 1: The Drive
+### Scene 1: An Extension of Me
 
-**Date:** 2014-08-20 at 10:00
+**Date:** 2014-08-20 at 08:00 America/New_York
 
-The journey began on a Wednesday in late August. The seven-hour drive from the flat, humid landscape of Hampton Roads to the rolling hills of the New River Valley was a tense affair. Aubrey sat silently in the passenger seat, watching the world change outside his window. Without corrective lenses, the passing scenery was a permanent, impressionistic blur of green and gray, forcing him to squint until a dull, familiar ache began to throb behind his eyes.
+The heavy zipper of the oversized suitcase rasped shut across the living room, the metallic sound dull and underwater through the static in Aubrey's ears.
+
+He sat parked in his basic manual wheelchair near the front hallway, his hands resting motionless on his knees. Two hours remained before they were scheduled to pull out of the driveway and begin the drive west, yet he had not packed a single item himself. He hadn't been allowed to. From the folded stacks of plain shirts to the spare packages of junk food wedged into the side pockets, every square inch of his luggage had been selected, counted, and arranged by his mother.
+
+Across the room, Aubrie Sinclair moved back and forth as a blurred silhouette against the closed blinds. Without prescription glasses—something she had never bothered to get him in eighteen years—anything more than an arm's length away dissolved into a pale, featureless smear. He had to squint just to track the sharp, hurried angles of her movements as she double-checked the locks on the windows.
+
+Even his name did not belong to him. Born in 1996 after his father, David Fuller, vanished following a single night with his mother, he had been christened *Aubrey*—a masculine echo of *Aubrie*, stamped onto his birth certificate like a brand of ownership. In the quiet, suffocating architecture of this house, he had never been treated as a separate human being with a future of his own. He was her compensation. He was her property. He was an extension of her.
+
+"Don't slouch in that chair, Aubrey," her voice cut through the muffled haze as she crossed the carpet toward him.
+
+Before he could adjust his posture, her hands were on him. She didn't ask permission; she never did. She yanked the collar of his polo shirt straight with a sharp, possessive tug, smoothing the fabric over his shoulders as if adjusting a slipcover on a piece of living-room furniture. He kept his gaze fixed on the floor, his jaw tight. Down at his feet, the laces of his sneakers were knotted so tightly that his ankles throbbed with a dull ache. She had tied them for him twenty minutes ago, muttering the whole time about what a burden it was, just as she had every morning of his life—never once showing him how to loop the cords himself, and never letting him try.
+
+"Honestly, I still don't know why I'm humoring this silly college experiment," she sighed, stepping back with her hands on her hips. Through the blur, he could feel the heavy, unblinking weight of her stare. "The world outside this house is loud, Aubrey. It is dirty, and it is cruel, and nobody out there is going to have the patience to deal with your little habits the way your mother does."
+
+He remained completely silent. His battered, obsolete laptop—running Quantum OS 7 Home Basic on a dying battery that barely held a charge—was already zipped inside his backpack at his feet. With the machine powered down and out of reach, he had no voice at all. Even if he had pulled it out to type into `SimpleSpeak`, she would have rolled her eyes at the flat, robotic monotone of `Quantum David` and told him to stop being dramatic and use his mouth.
+
+"Four months," she said, her tone settling into a cold, triumphant certainty as she hauled the heavy suitcase upright by its handle. "Maybe less, once those Astrophysics professors realize you can't keep up. When you fail—and you *will* fail, Aubrey, because you don't know how to survive a single day without me—you won't have to beg. I'll come pick you up, and we will put this ridiculous phase behind us once and for all."
+
+She reached down, unlocked the wheel brakes of his chair without warning, and gripped the push-handles behind his shoulders, steering him toward the front door like a piece of luggage being wheeled to the trunk.
+
+Aubrey gripped the cold metal armrests, staring into the gray blur of the hallway. He was eighteen years old, and as the front door swung open to the humid Virginia Beach morning, he felt less like a college freshman leaving home and more like a prisoner being transferred on a temporary leash.
+
+### Scene 2: The Drive
+
+**Date:** 2014-08-20 at 10:00 America/New_York
+
+The journey began on a Wednesday in late August. Rather than taking Interstate 64 all the way north to Staunton, Aubrie Sinclair had exited at the Bowers Hill interchange in Chesapeake and steered the car onto U.S. Route 460 West—turning the trip from the flat, humid landscape of Hampton Roads to the rolling hills of the New River Valley into a grueling, seven-hour marathon across Southside Virginia. Aubrey sat silently in the passenger seat, watching the world change outside his window as they rolled westbound through an endless succession of small towns toward Lynchburg, Bedford, and Roanoke. Without corrective lenses, the passing scenery was a permanent, impressionistic blur of green and gray, forcing him to squint until a dull, familiar ache began to throb behind his eyes.
 
 Beside him, his mother, Aubrie Sinclair, filled the car with a steady stream of anxious instructions. Due to his untreated hearing impairment, her voice was often a muffled, droning cadence, though her sharp, reprimanding tone always managed to cut through the static.
 
@@ -22,19 +48,19 @@ With a heavy, resigned exhale, Aubrey reached down to the floorboard and hauled 
 
 He hunched awkwardly over the keyboard, leaning his face uncomfortably close to the dim display just to make out the letters. Slowly, he typed a single sentence and pressed the execute key.
 
-*I am listening,* the operating system's built-in text-to-speech engine announced, the voice a flat, robotic, and heavily digitized monotone.
+<aac>I am listening,</aac> the operating system's built-in text-to-speech engine announced, the voice a flat, robotic, and heavily digitized monotone.
 
 "Well, you could just open your mouth and say it," she muttered, turning her eyes back to the road.
 
-They eventually pulled off the highway and checked into a hotel in Christiansburg, one of the several clustered around the busy I-81 interchange at exit 118C. Aubrey dragged his heavy suitcase down the corridor, his head pounding, longing for a quiet space to rest his eyes and ears.
+Past Roanoke, they finally merged onto Interstate 81 South for the final stretch up Christiansburg Mountain, eventually pulling off the highway at Exit 118C onto Roanoke Street and checking into a hotel in Christiansburg—one of the several clustered just east of the busy I-81 interchange and the Christiansburg Transit Center, where Commonwealth Polytechnic Institute had leased blocks of rooms to house overflow freshmen after overbooking its on-campus dormitories for the fall semester. Outside along Roanoke Street, sixty-foot articulated Blue Ridge Transit buses running Route 4 and maroon-and-gold CPI Fleet Services shuttles rolled past the hotel entrances every fifteen minutes. Inside, Aubrey dragged his heavy suitcase down the corridor, his head pounding, longing for a quiet space to rest his eyes and ears.
 
-When his mother pushed open the door to their room, Aubrey squinted through the haze of his poor vision. The large shape occupying the center of the room was undeniable. There was only one queen-sized bed.
+When his mother pushed open the door to their room, Aubrey squinted through the haze of his poor vision. The large shape occupying the center of the room was undeniable. Even though the front desk clerk had mentioned having standard double-bed rooms open on the third floor, there was only one bed here.
 
-"Oh, dear," his mother said with a sigh that held no real disappointment. "I asked for two beds, but this must have been all they had available with the students coming back to town. Well," she said with a shrug that made it clear it wasn't a question, "I guess we'll just have to make do for a couple of nights".
+"Oh, dear," his mother said with a sigh that held no real disappointment at all. "I asked for two beds when I reserved it, but this must have been all they had left with the students coming back to town. Well," she added with a brisk shrug that made it clear it wasn't a question—and that they wouldn't be going back downstairs to ask the clerk to switch rooms—"I guess we'll just have to make do for a couple of nights."
 
-### Scene 2: The Shared Bed
+### Scene 3: The Shared Bed
 
-**Date:** 2014-08-20 at 21:00
+**Date:** 2014-08-20 at 21:00 America/New_York
 
 Aubrey lay stiffly on the very edge of his side of the bed that night. Without the aid of corrective lenses, the unfamiliar hotel room was a featureless, terrifying void, and the low, muffled hum of the air conditioner barely registered through his hearing impairment. What he could sense, with agonizing clarity, was his mother's breathing—a familiar, oppressive presence just inches away. He stared into the darkness, his body rigid with tension, counting the hours until Friday. Friday meant he would finally have his own bed in his own room.
 
@@ -50,7 +76,7 @@ He hated it, a quiet, desperate revulsion that burned in his chest, but he put u
 
 ### Scene 1: The Poly Pass
 
-**Date:** 2014-08-21 at 11:00
+**Date:** 2014-08-21 at 11:00 America/New_York
 
 Thursday was spent on the bustling campus of Commonwealth Polytechnic Institute. The sheer volume of students moving around the wide brick walkways was overwhelming, their voices a muffled, chaotic drone against Aubrey's ears. Their first stop was the University Card Center to get his official student ID, known on campus as the Poly Pass.
 
@@ -72,7 +98,7 @@ A minute later, the card printer whirred to life, and the worker handed the fres
 
 ### Scene 2: Educational Accessibility
 
-**Date:** 2014-08-21 at 14:00
+**Date:** 2014-08-21 at 14:00 America/New_York
 
 Their next and final stop was the Office of Educational Accessibility, to verify that all his accommodations—both academic and residential—were in place.
 
@@ -120,7 +146,7 @@ With all the administrative tasks verified, they returned to the hotel for one f
 
 ### Scene 1: Room 214
 
-**Date:** 2014-08-22 at 09:00
+**Date:** 2014-08-22 at 09:00 America/New_York
 
 After his mother, Aubrie, left with a final wave and a promise to call that evening, Aubrey Jordan Fuller found himself truly alone for the first time in his new dorm room. With his untreated hearing impairment, the quiet of the empty room was a muffled, heavy silence, but it was a welcome change from the earlier chaos of moving in. He took a long, steadying breath and began to take a proper inventory of the small space—his space.
 
@@ -144,7 +170,7 @@ He counted the rest of the furniture. Two desks, two dressers, and two nightstan
 
 ### Scene 2: The Awkward Outlet
 
-**Date:** 2014-08-22 at 13:00
+**Date:** 2014-08-22 at 13:00 America/New_York
 
 He decided to set up his most important tool first: his laptop. He wheeled himself over to his desk, placed the heavy machine on it, and opened the lid. The battery icon blinked red, and a moment later, the screen went completely black. Dead.
 
@@ -188,7 +214,7 @@ Aubrey nodded, a wave of both relief and nervousness washing over him. One night
 
 ### Scene 3: Stranded
 
-**Date:** 2014-08-22 at 14:00
+**Date:** 2014-08-22 at 14:00 America/New_York
 
 Isabel gave him a final wave and left. Aubrey looked around his room, which now felt much more functional and comfortable. He easily plugged his heavy laptop into the power strip on his desk and watched the dim screen spring to life.
 
@@ -210,7 +236,7 @@ Living on my own, he thought with a bitter pang of clarity. She had said it with
 
 ### Scene 4: Bedtime
 
-**Date:** 2014-08-22 at 22:00
+**Date:** 2014-08-22 at 22:00 America/New_York
 
 As evening fell, the rain continued its soothing rhythm against the window. Aubrey felt a wave of exhaustion from the emotional and physical toll of the day. It was time for bed. He wheeled himself over to his dresser where Isabel had so neatly placed his clothes and pulled out a soft t-shirt and a pair of pajama pants. He looked at them, then down at the jeans and layered shirts he was still wearing.
 
@@ -226,7 +252,7 @@ Tears welled in his eyes, blurring his already poor vision, and slipped silently
 
 ### Scene 1: Morning Noise
 
-**Date:** 2014-08-23 at 08:00
+**Date:** 2014-08-23 at 08:00 America/New_York
 
 Aubrey woke up stiff and sore, the restrictive denim of his jeans clinging uncomfortably to his legs. He’d tossed and turned all night, his sleep shallow and plagued by a recurring sense of falling. Without corrective lenses, the ceiling above him was just a fuzzy, gray expanse, contributing to the dull ache already throbbing behind his eyes and the deep soreness in his back. He felt a profound exhaustion that had nothing to do with the physical effort of moving in. He was an adult on his own, just as his mother had said with that bright, brittle smile, and he was already failing.
 
@@ -240,7 +266,7 @@ Defeated, he transferred from his wheelchair back to his bed. Still fully clothe
 
 ### Scene 2: An Unlikely Welcome
 
-**Date:** 2014-08-23 at 10:30
+**Date:** 2014-08-23 at 10:30 America/New_York
 
 Around mid-morning, his door swung open. A young woman with her arms full of bags stopped short, seeing the room clearly already occupied, and a boy fast asleep in the single bed.
 
@@ -286,7 +312,7 @@ Before Aubrie could explain, two more girls, Hannah Parker and Lauren Barnes, ap
 
 ### Scene 3: The Hall Director
 
-**Date:** 2014-08-23 at 11:45
+**Date:** 2014-08-23 at 11:45 America/New_York
 
 Zoë, ever the pragmatist, slipped past the gathered girls and stepped into the chaotic hallway. It took her only a minute to locate a harried-looking young man with an "RA" lanyard directing a family with a rolling bin.
 
@@ -362,7 +388,7 @@ For the first time, a fragile, terrifying hope sparked in his chest. Maybe he wa
 
 ### Scene 4: Making It Official
 
-**Date:** 2014-08-23 at 12:00
+**Date:** 2014-08-23 at 12:00 America/New_York
 
 It was Madison who brought up making the name change official right away. A few minutes later, Jordan, Aubrie, and Madison were sitting in the Resident Advisor's office down the hall. As Jordan wheeled up next to Aubrie, he nervously reached out and took her hand under the table. She responded instantly, holding his hand firmly in her lap—their first quiet, public declaration of their budding connection.
 
@@ -406,7 +432,7 @@ In the hallway, a few freshmen and their parents, who had paused their unpacking
 
 ### Scene 5: Logistics of a Co-Ed Suite
 
-**Date:** 2014-08-23 at 15:30
+**Date:** 2014-08-23 at 15:30 America/New_York
 
 The practicalities of their arrangement soon came to the forefront. It was Lauren who brought it up. "Okay, so... logistics," she said, gesturing between the two rooms and the single connecting toilet. "Six people, one toilet, and no privacy. Jordan, you were expecting guy roommates, and we were expecting another girl. How do we make this not... super awkward?"
 
@@ -444,7 +470,7 @@ In the bustling cafeteria, they found a large table and sat together, sharing st
 
 ### Scene 6: The First Choice
 
-**Date:** 2014-08-23 at 16:15
+**Date:** 2014-08-23 at 16:15 America/New_York
 
 The university dining hall was a cavernous, bustling space filled with the chaotic energy of thousands of new freshmen. The noise and the smell of the food stations could easily be overwhelming, but for Jordan, anchored by the five women walking with him, it felt like an adventure.
 
@@ -502,7 +528,7 @@ His immediate, unquestioning acceptance was a breath of fresh air. The seven of 
 
 ### Scene 7: The First Assist
 
-**Date:** 2014-08-23 at 17:30
+**Date:** 2014-08-23 at 17:30 America/New_York
 
 By the time dinner finished, the emotional and physical toll of the long, chaotic day had caught up with Jordan. His shoulders slumped, and he quietly admitted through his text-to-speech software that he was exhausted and just wanted to head back to the quiet of the dorm.
 
@@ -556,7 +582,7 @@ Hannah just smiled warmly, watching Aubrie fret over the blanket. The entire roo
 
 ### Scene 8: The Spare Hardware
 
-**Date:** 2014-08-23 at 17:45
+**Date:** 2014-08-23 at 17:45 America/New_York
 
 As the laughter from Aubrie's embarrassed flush began to settle, Zoë turned her analytical gaze toward Jordan's dead, bulky machine.
 
@@ -604,7 +630,7 @@ Jordan stared at the man, his mind struggling to process the interaction. There 
 
 ### Scene 9: The New Voice
 
-**Date:** 2014-08-23 at 18:15
+**Date:** 2014-08-23 at 18:15 America/New_York
 
 Zoë set the sleek Pinnacle Vanguard Pro down on Jordan's desk, right next to his old, battered machine.
 
@@ -646,7 +672,7 @@ The entire room—Aubrie, Zoë, Lauren, Hannah, Mark, Madison, and Daniel—happ
 
 ### Scene 10: The Antidote
 
-**Date:** 2014-08-23 at 18:30
+**Date:** 2014-08-23 at 18:30 America/New_York
 
 With the new laptop safely resting on Jordan's lap, Daniel checked his watch and gave a warm smile. "Right, I should be heading back," he said.
 
@@ -686,7 +712,7 @@ As they sat with him, keeping the atmosphere light and comfortable, the two wome
 
 ### Scene 11: The Trust Fall
 
-**Date:** 2014-08-23 at 20:00
+**Date:** 2014-08-23 at 20:00 America/New_York
 
 It was 8:00 PM, and the steady drum of rain against the window made the small cinderblock room feel like a quiet, isolated cocoon. Jordan shifted uncomfortably in his wheelchair, a sudden, urgent pressure making him wince. He hurriedly pulled the Pinnacle Vanguard Pro onto his lap, his fingers finding the keys.
 
@@ -760,7 +786,7 @@ For the first time in his entire life, Jordan lay in the dark, surrounded by the
 
 ### Scene 1: The Awakening
 
-**Date:** 2014-08-24 at 02:00
+**Date:** 2014-08-24 at 02:00 America/New_York
 
 Room 214 was vast, cold, and unnervingly quiet. The friendly clutter of his new life was gone. He saw his five suitemates—Aubrie, Madison, Zoë, Lauren, and Hannah—standing in the far corners of the room, their backs to him, their shoulders hunched together as they whispered.
 
@@ -812,7 +838,7 @@ Slowly, the last vestiges of the nightmare's terror receded, replaced by the ste
 
 ### Scene 2: No Privacy
 
-**Date:** 2014-08-24 at 08:00
+**Date:** 2014-08-24 at 08:00 America/New_York
 
 Jordan’s first sensation upon waking on this Sunday morning was warmth. It was a deep, soothing heat that seemed to emanate from behind him, blanketing his entire body. For a moment, he was disoriented. He wasn’t stiff, he wasn’t alone, and the recurring nightmare of falling was absent, replaced by a profound sense of being anchored. He slowly became aware of an arm wrapped firmly but gently around his waist, and the soft, steady rhythm of breathing against his neck. The memories of the night flooded back—the nightmare, the whimpering, and then… Aubrie.
 
@@ -860,7 +886,7 @@ Five hugs. Five different girls. Each one a gift. As Madison took the handles of
 
 ### Scene 3: Worlds Aligned
 
-**Date:** 2014-08-24 at 09:30
+**Date:** 2014-08-24 at 09:30 America/New_York
 
 The university cafeteria doors opened promptly at 9:30 AM for Sunday breakfast. The space was a low hum of activity as the freshmen filed in. As the six of them found a large table by a window, the easy chatter of the group resumed. Jordan settled his wheelchair into the open space at the table. He was still waiting for the punchline, still half-expecting someone to laugh and tell him to leave, but as he watched them pull out chairs and comfortably make space for him, he was slowly starting to understand that maybe, just maybe, this suite family was not a cruel joke.
 
@@ -922,7 +948,7 @@ In that look, a universe of unspoken things was communicated. It was a silent ac
 
 ### Scene 4: The Campus Topography
 
-**Date:** 2014-08-24 at 11:00
+**Date:** 2014-08-24 at 11:00 America/New_York
 
 After breakfast, the group decided to explore the campus together to locate their classroom buildings before Monday morning. As they left the dining hall and ventured further into the university grounds, the physical reality of the Commonwealth Polytechnic Institute began to assert itself. Blacksburg was situated in the mountains, and the campus pathways were carved into the rolling landscape, making it notoriously hilly.
 
@@ -948,7 +974,7 @@ Jordan looked from Hannah's easy, effortless smile to Lauren's reassuring, gentl
 
 ### Scene 5: A Different Kind of Constellation
 
-**Date:** 2014-08-24 at 13:00
+**Date:** 2014-08-24 at 13:00 America/New_York
 
 While Jordan remained in the quiet sanctuary of Room 214, carefully organizing his heavy astrophysics textbooks on his desk, the five women congregated next door in Room 216. The connecting bathroom doors were shut, giving them a rare moment of privacy.
 
@@ -990,7 +1016,7 @@ A silent, powerful agreement bloomed in the cinderblock room. The traditional ru
 
 ### Scene 6: The Safe Harbor's Perimeter
 
-**Date:** 2014-08-24 at 16:30
+**Date:** 2014-08-24 at 16:30 America/New_York
 
 By late afternoon, the golden hour light was beginning to filter through the single window of Room 214. Jordan had just finished neatly aligning his textbooks on his desk when a rhythmic knock sounded on the heavy wooden door.
 
@@ -1014,7 +1040,7 @@ When Hannah finished, Mark gave a slow, respectful nod.
 
 Hannah beamed, her love for Mark deepening in that single moment of pure, unselfish understanding.
 
-Mark then looked down at the heavy, specialized tires on Jordan's wheelchair, his practical mind shifting to the physical realities of moving as a group. "I'm glad you all have this locked in, because getting around outside is a completely different logistical challenge. I've been taking Route 40 over here all week," Mark noted, looking around the room. "I caught the Radford Connector from the McConnell Transit Center over to the CPI Transit Center a few times before move-in just to get the lay of the land again. Plus, I spent half my childhood at Forger Summer Camp right here on campus. I know these hills intimately."
+Mark then looked down at the heavy, specialized tires on Jordan's wheelchair, his practical mind shifting to the physical realities of moving as a group. "I'm glad you all have this locked in, because getting around outside is a completely different logistical challenge. I've been taking the Radford Connector over here all week," Mark noted, looking around the room. "I caught the Radford Connector from the McConnell Transit Center over to Commonwealth Mall a few times before move-in just to get the lay of the land again. Plus, I spent half my childhood at Forger Summer Camp right here on campus. I know these hills intimately."
 
 Zoë adjusted her glasses, her analytical mind immediately recognizing the value of his data. "Excellent. You can serve as our primary navigator. We require the most efficient, least severely inclined routes between the residential sector and the dining halls."
 
@@ -1060,7 +1086,7 @@ As Aubrie took the handles of the wheelchair and pushed Jordan out into the hall
 
 ### Scene 7: Kincaid Hall
 
-**Date:** 2014-08-24 at 17:15
+**Date:** 2014-08-24 at 17:15 America/New_York
 
 The walk to Kincaid Hall was infinitely easier with Mark leading the way. True to his word, he navigated the group along a winding, paved path that bypassed the steepest ridges of the campus, making the trip smooth and entirely manageable for Hannah and Lauren as they took turns pushing Jordan’s wheelchair.
 
@@ -1092,7 +1118,7 @@ Tom didn't miss a single beat. He let out a soft, dismissive chuckle, his eyes l
 
 ### Scene 8: The Interception
 
-**Date:** 2014-08-24 at 17:25
+**Date:** 2014-08-24 at 17:25 America/New_York
 
 "Come on," Lauren said, grabbing Tom's hand. "You have to come meet my suitemates".
 
@@ -1142,7 +1168,7 @@ Mark didn't say a word to Lauren, not wanting to ruin her evening. He just set h
 
 ### Scene 1: Morning Divergence
 
-**Date:** 2014-08-25 at 07:30
+**Date:** 2014-08-25 at 07:30 America/New_York
 
 The sharp, mechanical buzz of a digital alarm clock shattered the quiet of Room 214.
 
@@ -1240,7 +1266,7 @@ Jordan felt a slow, genuine smile spread across his face. For the first time in 
 
 ### Scene 2: Into the Stars
 
-**Date:** 2014-08-25 at 08:50
+**Date:** 2014-08-25 at 08:50 America/New_York
 
 Outside the glass doors of Kincaid Hall, the sprawling campus was alive with a nervous, electric energy. Thousands of freshmen were crisscrossing the paved walkways, hunting for their first lecture halls. The suite family naturally began to splinter toward their respective academic buildings.
 
@@ -1332,7 +1358,7 @@ He had a schedule. He had a system. He knew he would see her on Mondays. Wednesd
 
 ### Scene 3: The Ascent
 
-**Date:** 2014-08-25 at 10:15
+**Date:** 2014-08-25 at 10:15 America/New_York
 
 "It's a date," Aubrie had said brightly in the crowded hallway of the Science Complex. Then her eyes had gone wide as she realized the weight of her own words. "I mean... not a... you know. A literal date. Just... a lunch... with a time. I'll just see you then!"
 
@@ -1396,7 +1422,7 @@ But as he navigated toward the classroom door, a quiet, defiant thought blossome
 
 ### Scene 4: Western Civilization
 
-**Date:** 2014-08-25 at 10:30
+**Date:** 2014-08-25 at 10:30 America/New_York
 
 The classroom in Carter Hall was much smaller and older than the massive science amphitheater, smelling faintly of lemon polish and old paper. Jordan wheeled himself into a spot at the end of the front row just as the professor—a tall, older man with a neatly trimmed beard—walked in and set his leather briefcase on the desk.
 
@@ -1466,7 +1492,7 @@ And most importantly, it was almost noon. It was time to go meet Aubrie.
 
 ### Scene 5: The Broken Elevator
 
-**Date:** 2014-08-25 at 12:00
+**Date:** 2014-08-25 at 12:00 America/New_York
 
 As Dr. Gable formally dismissed the class, Sarah slung her backpack over her shoulder and looked down at Jordan.
 
@@ -1548,7 +1574,7 @@ Jordan blinked, his breath hitching in his chest. It was only the second kiss of
 
 ### Scene 6: The Taste of Freedom
 
-**Date:** 2014-08-25 at 12:15
+**Date:** 2014-08-25 at 12:15 America/New_York
 
 Aubrie stepped behind his wheelchair and pushed him toward the long, winding serving lines. The noise and smell of the food were overwhelming, a chaotic mix of sizzling grease, baking bread, and a hundred overlapping conversations.
 
@@ -1616,7 +1642,7 @@ Aubrie checked the clock on the dining hall wall. It was 12:45 PM.
 
 ### Scene 7: The True Assessment
 
-**Date:** 2014-08-25 at 12:55
+**Date:** 2014-08-25 at 12:55 America/New_York
 
 Aubrie pushed Jordan’s wheelchair across the sunlit quad toward Callahan Hall, home to the university's disability and accessibility offices. The building housed the Office of Educational Accessibility, and as they rolled through the heavy glass doors into the air-conditioned lobby, the reality of the clock finally caught up to them.
 
@@ -1740,7 +1766,7 @@ He grabbed the hand rims of his wheelchair and pushed out into the afternoon hea
 
 ### Scene 8: Afternoon Anchors
 
-**Date:** 2014-08-25 at 14:00
+**Date:** 2014-08-25 at 14:00 America/New_York
 
 The afternoon sun was beating down on the brick walkways of CPI, but the steep inclines didn't seem nearly as daunting to Jordan anymore. Equipped with his new MagnaByte mPad, his FM receiver, and the stack of note-taker forms safely tucked into his backpack, he felt armed for the first time in his academic life.
 
@@ -1804,7 +1830,7 @@ His mother's weapon had been completely dismantled. The world wasn't a terrifyin
 
 ### Scene 9: Evening Data
 
-**Date:** 2014-08-25 at 20:00
+**Date:** 2014-08-25 at 20:00 America/New_York
 
 The first official day of classes had been a whirlwind. By eight o'clock that evening, the suite had gathered in Room 216 to decompress.
 
@@ -1892,7 +1918,7 @@ Lauren looked back down at her dark phone resting on the desk. The contrast betw
 
 ### Scene 10: The Open Doors
 
-**Date:** 2014-08-25 at 21:15
+**Date:** 2014-08-25 at 21:15 America/New_York
 
 By quarter past nine, the comfortable exhaustion of the first day of classes had finally settled over the cramped room. It was time to break up the gathering so everyone could actually get some sleep.
 
@@ -1960,83 +1986,11 @@ Jordan lay there in the quiet dark, feeling the steady rise and fall of Madison'
 
 He closed his eyes, pulling Madison just a fraction of an inch closer. He was safe. He was loved. And he was finally, completely at peace.
 
-**Chapter 7: The Anatomy of Trust**
-
-**Part 1: The Mega-Meetup – 9:45 AM**
-
-Every degree program at CPI required two mandatory credits of Health or Physical Education. For thousands of freshmen, this usually meant suffering through an 8:00 AM jogging class or a generic wellness seminar.
-
-Jordan was enrolled in *HSC 201: Dimensions of Human Sexuality*.
-
-It was a masterstroke of cosmic irony. When his mother had logged into the university portal in July to build his schedule, she had been rushing. Aubrie Sinclair hadn't bothered to read the course description or even the full title; she had simply seen an open, two-credit HSC lecture that fit perfectly into his Tuesday and Thursday mornings, and clicked *Enroll*.
-
-It was an incredibly lucky break for Jordan. Throughout his entire public school education, his mother had fiercely guarded his exposure to the human body. Every single year, without fail, she had signed the district’s Family Life and Sexual Education opt-out forms. She had completely isolated him from understanding his own physical existence. Now, by her own careless click, the university was about to mandate it.
-
-At 9:45 AM, Jordan rolled into the massive, stadium-seating lecture hall near the science quad. He wasn't alone.
-
-Because it was a universal freshman requirement, the scheduling algorithms had produced a massive, random coincidence. Aubrie, Madison, Zoë, Lauren, and Hannah had all been placed in the exact same section. Even Mark had found his way onto the roster.
-
-The seven of them claimed an entire block of accessible desks integrated into the second row. They were a formidable, laughing unit, passing around coffee cups and getting their notebooks ready. Jordan parked his Vanguard Pro at the end of the row, pulling out his new MagnaByte mPad and plugging his headphones into the FM receiver.
-
-He was just booting up his Aura Glade terminal when a bright voice rang out over the chatter of the filling auditorium.
-
-"Jordan! Look at this!"
-
-Jordan looked over his shoulder. Sarah Braithwaite was bounding down the carpeted stairs, a massive smile on her face. Trailing right behind her were two girls Jordan didn't recognize.
-
-Sarah reached the bottom of the stairs and immediately high-fived Jordan. "Mate, what are the odds? A massive campus and we share two classes on the first week."
-
-Jordan grinned, typing quickly on his terminal. *Sarah. These are my suitemates.*
-
-"The legendary Room 214 and 216!" Sarah beamed, looking down the row at the group. She gestured to the girls standing behind her. "Well, since we're all here, this is my roommate Jessica, and our other roommate Chloe. We're up on the fifth floor of Bennett."
-
-Jessica gave a polite wave. "Hey, guys."
-
-"Pull up some chairs!" Madison offered, instantly shifting her backpack off the desk next to her to make room.
-
-The three fifth-floor girls squeezed into the row, turning their group of seven into a massive, ten-person bloc. As everyone shuffled around to get settled, Sarah ended up sitting directly next to Lauren.
-
-"I'm Lauren," she smiled, holding out a hand.
-
-"Sarah," she replied, shaking it warmly. "I sit next to Jordan in Western Civ. He completely saved my life yesterday when the professor started grilling us on Mesopotamia."
-
-Lauren laughed, glancing over at Jordan, who was currently letting Aubrie adjust the collar of his shirt. "That sounds like him. He's honestly the best. We were all a little shocked when Housing put a guy in our suite, but he and Aubrie just clicked instantly. It's actually been amazing."
-
-"I was just telling Jess and Chloe about it yesterday," Sarah smiled, watching Aubrie and Jordan with genuine warmth. "It’s brilliant. He's just such a solid, decent guy. You guys are lucky to have him."
-
-"We really are," Lauren agreed softly.
-
-They fell into an easy, comfortable conversation about their chaotic first week, the awful humidity, and the dining hall food. Sitting in a massive crowd of ten friendly, supportive peers, Lauren felt the dark, heavy dread from Tom's phone call the night before finally start to lift. This was what college was supposed to feel like.
-
-At exactly 10:00 AM, the professor walked up to the podium, and the massive lecture hall went quiet.
-
-"Welcome to Health Science 201," the professor's voice echoed through the room, simultaneously beaming crystal-clear into Jordan's headphones via the lapel microphone Ms. Higgins had mandated. "If you check the digital portal, you will see our syllabus for the semester."
-
-On his desk, Jordan's silver mPad lit up, perfectly mirroring the professor's projector screen. It was an incredible piece of technology. For the first time in his life, he didn't have to squint at a blurry board.
-
-But as the syllabus loaded on the high-definition screen, Jordan’s relief evaporated.
-
-*Unit 1: Clinical Male and Female Anatomy.* *Unit 2: Reproductive Systems and Endocrine Functions.* *Unit 3: The Physiology of Human Response.*
-
-Below the text, the professor brought up the textbook slides. They were incredibly detailed, cross-sectional medical diagrams of the human body, meticulously labeled with terms Jordan had literally never seen in his life.
-
-While the rest of the freshmen in the lecture hall let out a few awkward, collective chuckles at the clinical terms, Jordan sat completely frozen. He stared at the glowing screen of his mPad in quiet, dawning horror.
-
-He didn't know what half of the words meant. He couldn't decipher how the complex, intersecting systems in the diagrams actually fit together inside a real human being. His mother's aggressive censorship had left a massive, gaping crater in his fundamental education. He wasn't just behind; he was starting from absolute zero.
-
-Beside him, Aubrie noticed his stillness. She leaned over, her shoulder pressing against his. She followed his gaze down to the mPad, seeing the medical diagrams and the complex vocabulary. Then, she looked at his face.
-
-She saw the quiet panic in his eyes. She understood instantly.
-
-Aubrie reached under the desk, gently placing her hand over his where it rested on the armrest of his wheelchair. She gave it a firm, reassuring squeeze, leaning in close so only his microphone could catch her voice.
-
-"It's okay, J," she whispered. "We've got you."
-
 ## The Anatomy of Trust
 
 ### Scene 1: The Mega-Meetup
 
-**Date:** 2014-08-26 at 09:45
+**Date:** 2014-08-26 at 09:45 America/New_York
 
 The massive, stadium-style lecture hall in the College of Health Sciences was already buzzing with the low, chaotic energy of three hundred freshmen. The room was steeply tiered, built to accommodate massive general education requirements, with a wide, flat accessible row running straight across the middle tier.
 
@@ -2108,7 +2062,7 @@ He looked down at his own hands, resting on the armrests of his wheelchair, a su
 
 ### Scene 2: Office Hours
 
-**Date:** 2014-08-26 at 10:50
+**Date:** 2014-08-26 at 10:50 America/New_York
 
 At ten-fifty, the massive lecture hall erupted into the chaotic sounds of three hundred freshmen packing up their bags. As the crowd funneled up the tiered stairs toward the exits, Jordan’s group stayed exactly where they were.
 
@@ -2182,7 +2136,7 @@ Dr. Evans smiled, completely unaware of the unconventional lengths the girls of 
 
 ### Scene 3: The Mega-Group Lunch
 
-**Date:** 2014-08-26 at 12:15
+**Date:** 2014-08-26 at 12:15 America/New_York
 
 By the time the massive ten-person entourage made it to Kincaid Commons, the lunchtime rush was in full swing. It took some serious maneuvering, but Mark and Sarah managed to push three rectangular tables together near the back windows, creating enough space for everyone, including a spot at the head of the table for Jordan’s wheelchair.
 
@@ -2220,7 +2174,7 @@ By a quarter to one, the dynamic of the table began to shift as the reality of a
 
 "Same," Hannah said, standing up to join him. "And Zoë and I have a seminar at one."
 
-Sarah checked her watch and groaned. "Jess and Chloe and I have a mandatory freshman orientation module in ten minutes. We have to bolt." Sarah slung her backpack over her shoulder, turning to Lauren. "It was so great meeting you. We all need to get together for dinner tonight. Same tables?"
+Sarah checked her watch and groaned. "Jessica and Chloe and I have a mandatory freshman orientation module in ten minutes. We have to bolt." Sarah slung her backpack over her shoulder, turning to Lauren. "It was so great meeting you. We all need to get together for dinner tonight. Same tables?"
 
 "Absolutely," Lauren smiled. "See you tonight."
 
@@ -2266,7 +2220,7 @@ It was a tight, solid, profoundly grounding group hug. For Jordan, physical touc
 
 ### Scene 4: An Unconventional Study Session
 
-**Date:** 2014-08-26 at 20:15
+**Date:** 2014-08-26 at 20:15 America/New_York
 
 That Tuesday evening, after their first full day of classes, the group was relaxing in the suite. The health class, however, was still heavily on Jordan's mind. He wheeled himself over to where the girls were gathered in Room 214, holding his *Dimensions of Human Sexuality* textbook and syllabus like a mysterious, terrifying map.
 
@@ -2322,7 +2276,7 @@ Aubrie was on her feet in an instant, the protective peace of the study session 
 
 ### Scene 5: The War Room
 
-**Date:** 2014-08-26 at 20:45
+**Date:** 2014-08-26 at 20:45 America/New_York
 
 The cramped space of Suite 214/216 was not designed to hold twelve highly emotional college students, but nobody cared about the tight squeeze.
 
@@ -2398,7 +2352,7 @@ She was safe.
 
 ### Scene 1: The Canadian Wake-Up
 
-**Date:** 2014-08-27 at 07:00
+**Date:** 2014-08-27 at 07:00 America/New_York
 
 Jordan woke slowly, the dim morning light filtering through the single window of Room 214. The recurring, terrifying nightmare of falling was completely absent. Instead, he felt a deep, soothing warmth pressed against his side. He blinked, his poor vision struggling to focus, until the soft features and long, reddish-brown hair of the girl sleeping next to him resolved into shapes he recognized.
 
@@ -2430,7 +2384,7 @@ Aubrie caught Lauren's eye, and the two women shared a brilliant, silent smile. 
 
 ### Scene 2: The Australian Voice
 
-**Date:** 2014-08-27 at 07:15
+**Date:** 2014-08-27 at 07:15 America/New_York
 
 The morning routine kicked into gear. With a gentle, clinical respect that continued to amaze him, Aubrie and Lauren helped Jordan navigate the difficult process of getting out of his pajamas and into his day clothes.
 
@@ -2462,7 +2416,7 @@ He looked up at Sarah. He was using the "Sydney" voice profile—a crisp, synthe
 
 Taking a deep breath, he clicked the execute key.
 
-*I am so incredibly happy to be going to class with all of you today,* the clear, bright Australian-accented voice announced to the room.
+<aac>I am so incredibly happy to be going to class with all of you today,</aac> the clear, bright Australian-accented voice announced to the room.
 
 Sarah blinked, her head tilting slightly as she processed the synthesized cadence. Jordan tensed, waiting for the fierce temper he knew she possessed to flare up.
 
@@ -2478,7 +2432,7 @@ Jordan let out a massive, shaky breath of pure relief, a genuine smile finally m
 
 ### Scene 3: Primary Care
 
-**Date:** 2014-08-27 at 15:30
+**Date:** 2014-08-27 at 15:30 America/New_York
 
 The CPI Student Health Center was a bustling, brightly lit clinic on the edge of the campus quad. Jordan sat in his wheelchair in the crowded waiting room, his sleek Vanguard Pro resting securely on his lap. He was vibrating with a nervous, hopeful energy. In his limited, highly sheltered understanding of how the world worked, he assumed this was a one-stop shop. He fully expected to walk through the clinic doors and roll back out an hour later wearing a pair of glasses and hearing aids.
 
@@ -2490,7 +2444,7 @@ Jordan quickly unlocked his brakes, expecting the familiar, protective phalanx o
 
 Jordan stopped dead. His hands clamped down on his push-rings, his knuckles turning white. A cold, sharp spike of panic hit his chest. He frantically pulled his laptop open, his fingers flying across the keys to pull up his dark-themed NeoEdit terminal.
 
-*You said you wouldn't leave me,* the bright green text read, his screen angled desperately toward Aubrie.
+<aac>You said you wouldn't leave me,</aac> the bright green text read, his screen angled desperately toward Aubrie.
 
 Aubrie immediately stood up and stepped in front of his chair, recognizing the rising tide of an autistic meltdown. She knelt so they were eye-to-eye.
 
@@ -2528,17 +2482,494 @@ Jordan smiled, handing the referrals to Mark.
 
 "Montgomery Vision and Hearing Clinic," Mark read, an easy, confident smile spreading across his face. "I know exactly where this is. It's right next to the Montgomery County Courthouse in Christiansburg. We can catch the Route 1 bus straight down Business 460. We'll take you on Friday."
 
+### Scene 4: The Good Faith Offer
 
-This is as far as we got with the beginning of the school year. We will contribute to expand the story from here. Coming up next are ideas that I have for later in the narrative that we came up with, that I did not want to lose to a context window limitation.
+**Date:** 2014-08-27 at 18:30 America/New_York
 
+By the time the group returned from Kincaid Hall after dinner, the chaotic energy of the first three days of classes had settled into a warm, comfortable hum inside Suite 214/216. Jordan sat parked near the center of Room 214 with his Vanguard Pro open on his lap, reviewing his Astronomy 101 syllabus alongside Zoë and Aubrie, while Lauren, Hannah, and Madison were sprawled across the rug and lower bunks comparing notes for the rest of the week.
 
-This is provisional, being transferred from the old narrative so that we can capture the story of Lauren’s home of Gander. \[This is meant to take place much later in the narrative, and I only added it now so that we don’t lose it to the AI Context Window\]
+A polite, rhythmic knock echoed against the heavy wooden door of Room 214.
 
-# Note to the AI
+"Come in!" Hannah called out, setting her highlighter down.
+
+The door opened, and Kelsey, the Bennett Hall Residence Director, stepped onto the threshold. The exhausted, frazzled tension that had lined her face on Saturday's move-in day was completely gone, replaced by a relaxed, genuine smile.
+
+"Hi, everyone," Kelsey said, glancing around at the six suitemates. "Do all six of you have a quick minute?"
+
+The girls immediately sat up, and Jordan angled his wheelchair toward the doorway, his hands resting lightly on his keyboard.
+
+"I had a long meeting this afternoon with my boss, the Director of Housing and Residence Life," Kelsey began, stepping just inside the room and folding her hands over her clipboard. "I walked him through the entire situation here in Suite 214 and 216. More importantly, I explained how cooperative, gracious, and mature all six of you have been in handling a database clerical error that was one hundred percent our fault."
+
+She looked directly at Jordan, then at Aubrie and the others.
+
+"First, as a formal apology and a thank-you from the university for not turning our move-in weekend into an administrative disaster, Housing and Dining Services has credited two hundred and fifty dollars in flex dining funds directly to each of your six student accounts."
+
+A collective gasp rippled through the room.
+
+"Are you serious?!" Madison practically bounced off the edge of the lower bunk, her blue eyes wide. "Two hundred and fifty dollars each? Do you have any idea how many Kincaid Hall smoothies and late-night pizzas that is?!"
+
+"We figured a group of freshmen could put it to good use," Kelsey laughed. "But second—and this is the much bigger piece—the Director authorized me to make the six of you a formal institutional offer."
+
+The room quieted instantly, all eyes locked on her.
+
+"As you probably already know from orientation, CPI's rapid enrollment growth means the on-campus housing lottery for sophomore year is brutally competitive," Kelsey explained, her tone turning serious. "Thousands of rising sophomores get lottery-bumped off campus every February. In light of the disruption you six absorbed for us this week, the Office of Housing is offering all six of you a guaranteed on-campus housing contract for next academic year. When housing selection opens in February, your suite will bypass the freshman lottery entirely."
+
+For a second, nobody spoke. The sheer magnitude of the offer hung in the air. For Jordan, whose entire ability to attend classes relied on accessible campus infrastructure and the physical proximity of his chosen family, the terrifying question of what would happen after May had been a quiet shadow at the back of his mind. Now, with a single stroke of a pen, that shadow was gone.
+
+"Let me verify the parameters," Zoë said, her analytical gray eyes sharpening immediately as she sat upright. "You are stating that all six of us are guaranteed on-campus beds for our sophomore year, with zero probabilistic dependency on the February lottery?"
+
+"All six of you are guaranteed a contract," Kelsey confirmed warmly. "Whether you choose to stay together or select another accessible suite configuration on campus, your spots are locked in. It's the best way the university can thank you for making this work."
+
+Jordan's fingers flew across his keyboard, launching his `EchoType` output so Kelsey could hear his answer directly.
+
+<aac>Thank you, Kelsey. We accept,</aac> the crisp, bright Australian voice of his `"Sydney"` profile announced to the room.
+
+"We definitely accept!" Aubrie beamed, reaching over to rest a hand on Jordan's shoulder while Lauren, Hannah, and Madison nodded enthusiastically.
+
+"Wonderful," Kelsey smiled, making a quick notation on her clipboard. "I'll have the formal confirmation letters sent to your CPI student email accounts by tomorrow afternoon, and once the standard two-week room-freeze window closes in September, I'll bring down the final consent paperwork for everyone to sign. Have a great rest of your week, guys."
+
+The moment the heavy wooden door clicked shut behind her, Madison let out a muffled shriek of triumph into a throw pillow, and Lauren threw her arms around Hannah's neck.
+
+"We beat the lottery before the first week of classes is even over!" Lauren laughed, her Newfoundland cadence ringing out in pure relief.
+
+Jordan looked around the small cinderblock room—at Aubrie smiling down at him, at Zoë already calculating the optimal dining-dollar burn rate, and at the four women celebrating by the bunks. This wasn't just a temporary clerical fluke anymore. They had a future here.
+
+## The Pepper Plaza Expedition
+
+### Scene 1: Route 1 to Pepper Plaza
+
+**Date:** 2014-08-29 at 13:15 America/New_York
+
+By Friday afternoon, the late-August sun was warm and bright over the gray Ironstone buildings of Commonwealth Polytechnic Institute. With their morning classes finished for the week, the entire core group—Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—formed their familiar protective phalanx around Jordan's manual wheelchair as they rolled down the paved walkway toward the curbside bus lineup along **Commonwealth Mall** beneath **The Keystone Bridge** outside **Kincaid Hall**.
+
+Idling at the curb beneath the massive stone arch of the skybridge was a sixty-foot **Blue Ridge Transit** low-floor articulated bus manufactured by **Prairie Coachworks**, painted in crisp Arctic White with an Appalachian Pine Green lower skirt and sweeping Teal and Sky-Blue side ribbons. Above the curved windshield, the glowing amber Luminator LED destination sign alternated cleanly between two screens:
+
+`1 CBURG TRANS CTR`
+`via S MAIN ST`
+
+As they approached the front curb, the transit operator spotted Jordan's wheelchair immediately. With a loud, pneumatic *hiss*, the front air suspension kneeled toward the concrete, the dual-leaf front doors folded open, and the yellow-edged aluminum ADA ramp flipped smoothly out onto the sidewalk right beside the driver's window.
+
+Jordan's hands tightened slightly on his push-rims. Back in Virginia Beach, he had never once ridden a public city bus; his mother had always insisted that public transit was "dirty, dangerous, and not built for someone in his condition," using his wheelchair as an excuse to keep him dependent on her sedan.
+
+"Right up the front ramp, brother," Mark said easily, flashing his maroon-and-orange **CPI PolyPass** to the driver as Jessica and Aubrie flanked Jordan's chair. "The low-floor buses here are built like tanks. You don't even need a lift."
+
+Jordan took a breath and pushed forward. The slope of the front-door ramp was gentle, and with a quiet, effortless assist from Mark and Jessica behind him, he rolled straight into the cool, air-conditioned cabin. The driver flipped up the forward passenger bench on the right side, and Mark helped Jordan back his wheelchair into the securement bay, clicking the four-point floor retractors onto his frame and snapping the lap belt across his waist.
+
+One by one, the rest of the group flashed their physical PolyPasses to the operator and filled the surrounding sideways benches—Aubrie and Madison sitting right beside Jordan's armrests, Lauren and Sarah across the aisle, and Zoë, Hannah, Mark, and six-foot-three Jessica occupying the seats immediately behind them.
+
+As the sixty-foot articulated coach pulled away from the Commonwealth Mall curb, navigated onto South Main Street, and rolled south down the four-lane commercial stretch of **U.S. Route 460 Business** toward Christiansburg, Jordan opened his `Pinnacle Vanguard Pro` on his lap. In his `NeoEdit` terminal, he typed a quick line of neon-green text and angled the screen toward Aubrie and Mark.
+
+<aac>That took less than ninety seconds. My mother told me buses couldn't take wheelchairs without holding up traffic for twenty minutes.</aac>
+
+"Your mum talked a lot of rubbish, mate," Sarah said from across the aisle, shaking her head with a wry grin in her thick Sydney accent. "Back home in Liverpool and Sydney, or right here in the New River Valley, low-floor ramps take thirty seconds flat."
+
+"And look out the left window when we crest this hill," Mark pointed as the bus glided past the Christiansburg town limits and turned toward the historic downtown district. Even through Jordan's blurry, uncorrected vision, he could make out the imposing brick-and-stone silhouette of a large civic building across from a busy shopping plaza. "That's the **Montgomery County Courthouse** on the left, and right here on the right is **Pepper Plaza**."
+
+The driver pulled the cord for the stop, the bus kneeled at the Pepper Plaza curb, and the front ramp deployed once more. Rolling out onto the wide concrete sidewalk in front of the **Montgomery Vision and Hearing Clinic**, Jordan looked up at the dual signage above the glass doors. For eighteen years, the world beyond three feet had been a smeared, muffled fog. In less than an hour, that fog was finally going to lift.
+
+### Scene 2: A World in Focus
+
+**Date:** 2014-08-29 at 14:00 America/New_York
+
+Inside the Optometry Suite of the Montgomery Vision and Hearing Clinic, the exam room was cool, quiet, and smelled faintly of lens cleaner. Unlike the cramped triage cubicles at the campus health center, this room had a wide, wheelchair-accessible examination lane designed so Jordan didn't even have to transfer out of his chair. Better still, after Jordan signed a standard clinic release form at the front desk, the optometrist—a warm, soft-spoken man in his forties named Dr. Patel—invited Aubrie and Madison to sit in the two visitor chairs right inside the room while the rest of the group waited in the lobby.
+
+Dr. Patel swung the heavy black phoropter into position in front of Jordan's face and dimmed the overhead lights.
+
+"Alright, Jordan," Dr. Patel said clearly, already briefed by Nurse Collins' referral notes to speak facing him and give him a beat to respond with a thumbs-up for 'One' or two fingers for 'Two'. "We know your baseline vision without correction is below 20/200. Let's start bringing that chart into focus. Which is clearer—one, or two?"
+
+At first, the glowing square on the far wall was the same familiar, hopeless smear of white and gray milk that Jordan had stared at his entire life. Dr. Patel clicked a heavy dial. Then another. And another.
+
+Suddenly, the amorphous gray blob in the center of the light box shrank, its fuzzy edges pulling inward like a camera lens locking onto a distant star.
+
+Jordan gasped silently, his breath catching in his throat.
+
+"How about now?" Dr. Patel asked gently, clicking a finer cylinder adjustment into place. "One... or two?"
+
+Jordan raised two fingers, his hand trembling slightly. Looking through the circular apertures of the phoropter, he wasn't looking at a smudge anymore. He was looking at crisp, jet-black letters with razor-sharp serifs:
+
+`E  F  P`
+`T  O  Z`
+`L  P  E  D`
+
+"Can you type what you see on the fourth line for me?" Dr. Patel asked.
+
+Jordan's hands dropped to the keyboard of his `Vanguard Pro` resting on his lap. Without even needing to look down at the keys, he typed into `EchoType` and hit execute:
+
+<aac>P E C F D. And the line below it is E D F C Z P.</aac>
+
+Across the room in the dim light, Madison clapped both hands over her mouth to stifle an excited squeal, and Aubrie wiped a tear from her cheek.
+
+"20/20," Dr. Patel said, a broad, satisfied smile creasing his face as he swung the phoropter arm back. "You have significant compound myopic astigmatism, Jordan—minus-4.75 in the right eye, minus-5.00 in the left—which is why everything past arm's length has been a complete blur. The good news is that your retinas and optic nerves are completely healthy, and because we have an on-site surfacing and edging lab right here in Pepper Plaza for single-vision polycarbonate lenses, you don't have to wait two weeks for a mail-order pair. Pick out a frame with your friends, and we'll have your glasses cut in thirty minutes while you're next door at Audiology."
+
+With Aubrie and Madison acting as his enthusiastic style consultants at the frame wall, they selected a sleek, lightweight pair of dark gunmetal-and-tortoiseshell rectangular frames that sat comfortably on the bridge of his nose without pinching.
+
+Thirty-five minutes later, just before his audiology slot next door, the optical technician walked out into the lobby holding a velvet-lined tray. Jordan unlocked his brakes, his heart thumping against his ribs as the technician gently slid the new frames onto his face and adjusted the temple arms behind his ears.
+
+Jordan blinked once. Then twice.
+
+The world exploded into breathtaking, impossible detail.
+
+He didn't just see shapes and colors anymore. He looked up at Aubrie standing right in front of him, and for the first time since they met on Saturday, he saw the delicate individual flecks of warm hazel-brown in her eyes, the fine texture of the knit in her sweater, and the tiny crease at the corner of her smile. He looked past her to Madison's bright blue eyes, to Lauren's auburn hair, to Sarah's grin, to the individual brick mortar lines on the Montgomery County Courthouse across the street through the plate-glass lobby window.
+
+His fingers moved slowly to his keyboard, his eyes never leaving Aubrie's face.
+
+<aac>I can see your eyelashes,</aac> his `"Sydney"` voice said softly into the quiet lobby. <aac>I can see the leaves on the trees across the street. Everything has edges.</aac>
+
+Aubrie knelt in front of his chair, taking both of his hands in hers as her eyes shone brightly through his crystal-clear lenses.
+
+"Handsome *and* twenty-twenty," she whispered, pressing a kiss to his knuckles. "Welcome to high definition, J."
+
+### Scene 3: The Audiologist's Verdict
+
+**Date:** 2014-08-29 at 15:15 America/New_York
+
+Still marveling at the razor-sharp clarity of the hallway signage through his new glasses, Jordan rolled through the connecting interior door into the Audiology Suite next door, accompanied by Aubrie, Zoë, and Mark.
+
+Dr. Elena Vance, the clinic's lead doctor of audiology, greeted them with a warm, practiced calm and guided Jordan's wheelchair up the flush threshold ramp into a double-walled, sound-attenuated acoustic booth. For the next forty minutes, looking through the thick observation glass at Dr. Vance's console—where he could now clearly read every expression on her face—Jordan completed a comprehensive battery of tests: pure-tone air- and bone-conduction audiometry, tympanometry, otoacoustic emissions, and word-recognition testing.
+
+When Dr. Vance opened the heavy acoustic door and invited Jordan, Aubrie, Zoë, and Mark around her consultation desk, she pulled up two crisp graphs on her dual monitors. With his new glasses, Jordan could read the steep, downward-plunging red and blue lines on the audiogram himself.
+
+"Nurse Collins' instinct at the campus clinic was spot-on, Jordan," Dr. Vance said, positioning herself directly in front of him and speaking in a clear, measured cadence so he could pair her lip movements with his residual low-frequency hearing. "Your middle ear structures and eardrums are completely normal. What we are looking at here is severe-to-profound, rapidly progressive bilateral sensorineural hearing loss."
+
+She used a stylus to trace the steep drop-off on the chart above 500 Hertz.
+
+"Inside your cochlea—the snail-shaped inner ear organ—the microscopic sensory hair cells responsible for converting high- and mid-frequency sound vibrations into electrical signals are degenerating," Dr. Vance explained with quiet clinical honesty. "That is why you can still hear low-frequency rumbles, like a bus engine or a deep bass tone, while human speech consonants like *S*, *F*, *T*, and *K* sound like muffled static underwater. And based on your otoacoustic emission results today, those remaining hair cells are continuing to deteriorate."
+
+Jordan's hands rested on his `Vanguard Pro` keyboard. With the new visual clarity of his glasses grounding him, the panic that had seized him on Wednesday didn't return. Instead, he wanted the engineering truth.
+
+<aac>Nurse Collins said it will eventually result in total deafness,</aac> Jordan typed, triggering `EchoType`. <aac>Will hearing aids stop it?</aac>
+
+"I'm glad you asked that directly, because I never sugarcoat the physics for my patients," Dr. Vance replied, respecting his intelligence immediately. "Conventional hearing aids are essentially miniature acoustic amplifiers—they make sounds louder for the surviving hair cells to pick up. Right now, while you still have residual low- and mid-frequency hair cells, programmable high-output behind-the-ear hearing aids paired with your university FM classroom lapel system will give you an immediate, massive boost for your fall semester classes."
+
+She tapped a second diagram on her screen—an illustration showing a sleek external processor behind the ear connected to a small circular magnetic transmitter coil resting against the side of the head above the ear, sending digital signals directly to an internal electrode array coiled inside the cochlea.
+
+"However," Dr. Vance continued carefully, "because your condition is progressive, simply cranking up acoustic volume on dying hair cells has a hard ceiling. Within the next six to twelve months, as those hair cells finish dropping off, conventional hearing aids won't be enough. The permanent solution—and the gold standard for your exact audiological profile, because your auditory nerves themselves are 100% intact—is **bilateral cochlear implants**."
+
+Zoë leaned forward slightly in her chair, her eyes scanning the schematic on the monitor. "Because a cochlear implant bypasses the damaged hair cells entirely and stimulates the spiral ganglion nerves directly with electrical pulses."
+
+"Spot on," Dr. Vance smiled at Zoë before looking back at Jordan. "Instead of shouting louder at broken microphones, a cochlear implant replaces the microphones with a direct digital interface to your auditory nerve. Today, I am fitting you with a pair of programmed clinical bridge hearing aids and syncing them to your CPI FM receiver so you can hear your professors and your friends right now. At the same time, I am logging today's baseline audiogram to open your formal candidacy file with the cochlear implant surgical team at Star City Roanoke General. When your natural thresholds cross that final line, we won't let you fall into silence—we'll upgrade the hardware."
+
+Dr. Vance reached into a sterile tray and carefully fitted the two calibrated behind-the-ear bridge processors over Jordan's ears, nestling the soft silicone domes into his ear canals before clicking them on at a gentle initial gain.
+
+A soft, musical three-tone chime sounded directly inside Jordan's head—higher, crisper, and cleaner than anything he had heard since he was a small child.
+
+Then Aubrie spoke beside him.
+
+"Can you hear me, J?"
+
+Jordan's breath caught. For years, voices had been dull, muffled thuds buried under cotton. Now, looking at Aubrie's clear hazel eyes through his new glasses, he heard the delicate, airy *"s"* and *"h"* in her whisper, the soft rustle of her sleeve against his armrest, and the quiet hum of the clinic's air conditioning.
+
+His fingers trembled slightly on the keys before he pressed execute.
+
+<aac>Your voice is so warm,</aac> his terminal spoke into the room, as a single tear slipped down beneath the frame of his new glasses. <aac>I didn't know it sounded like that.</aac>
+
+## Monday Night War
+
+### Scene 1: Strategic Analysis
+
+**Date:** 2014-09-01 at 19:30 America/New_York
+
+Over the Labor Day weekend, a new, effortless rhythm had settled over Suite 214/216. With his new rectangular prescription glasses resting on the bridge of his nose and his calibrated bridge hearing aids bringing every voice and musical note into sharp relief, Jordan felt as though he had woken up from an eighteen-year coma.
+
+And by Monday evening, the suite had established its newest sacred weekly tradition: wrestling night.
+
+"Are you guys ready in there?!" Mark called out through the open suite doorway from Room 216, where he and Hannah were raiding the mini-fridge for sodas and grabbing bags of tortilla chips. "The pre-show countdown for **AWE Monday Night WAR** is starting in fifteen minutes!"
+
+In Room 214, Jordan sat parked beside his desk with his `Pinnacle Vanguard Pro` resting on his lap, scrolling through the evening's match card and fan predictions with crystal-clear 20/20 vision. Lauren, who was sitting right on the edge of his bed with her legs tucked underneath her, leaned over to read his screen and pressed a warm, lingering kiss to his cheek.
+
+"Don't get your hopes up, J," Lauren teased, her eyes crinkling with affection. "'Sly' Diego Chavez is definitely going to outsmart Preston Sinclair tonight. There is zero chance The Tycoon keeps that title belt clean."
+
+Jordan grinned, his fingers flying across his `NeoEdit` terminal before he triggered his `EchoType` output.
+
+<aac>Never underestimate how much Marcus Sterling cheats for his corporate favorites,</aac> his `"Sydney"` voice replied brightly. <aac>If Diego gets close to pinning him, Sterling will just send Avalanche down the ramp to wreck the ring.</aac>
+
+"You're both looking at the wrong match!" Mark declared, walking into Room 214 with his arms loaded with chips and root beer before holding up a free hand to high-five Jordan. "Tonight is all about the main event—Jaxson 'The Outlaw' Vance versus 'The Blueprint' Silas Thorne! Plus, did you guys see the CPI Forgers season opener on Saturday? Total domination. I'm telling you, our defense is taking us all the way to the conference championship this year."
+
+"You say that literally every September, babe," Hannah laughed, following him in with a stack of paper bowls as Sarah and Jessica stepped into the room from their fifth-floor trek downstairs.
+
+"Are we heading down to the lobby, or am I going to have to listen to you two debate the biomechanical physics of a running lariat all night up here?" Madison teased, playfully ruffling Jordan's hair as she hopped down from her bunk.
+
+Jordan's fingers danced across the keys at the exact same instant Mark opened his mouth.
+
+<aac>It's not a debate, it's a strategic analysis!</aac> Jordan's terminal announced in near-perfect unison with Mark's voice, sending the entire room into a fit of laughter.
+
+Even the women in the group who had never watched a single minute of **American Wrestling Entertainment** before meeting Mark and Jordan had come to love the Monday night ritual. They loved the over-the-top soap-opera theatrics, the absurd villainy, and most of all, the sheer, unguarded joy it brought to Jordan's face. Aubrie stood by the doorway watching Jordan laugh freely, her heart swelling with quiet pride. A week and a half ago, he had been a terrified, sensory-starved boy trembling in an empty room. Now, he was the warm, steady center of a loud, chaotic, loving family.
+
+"Alright, troop, let's roll," Aubrie announced, stepping behind Jordan's chair with a bright smile. "I want to claim our couch cluster in the lobby before the third-floor engineering majors beat us to it."
+
+### Scene 2: The Unbeliever
+
+**Date:** 2014-09-01 at 20:15 America/New_York
+
+The first-floor main lobby of Bennett Hall was buzzing with weeknight energy, but the nine-person crew had arrived with ten minutes to spare, successfully claiming their favorite territory: a U-shaped cluster of deep, mismatched leather sofas arranged around the lobby's sixty-inch wall-mounted television.
+
+On the screen, the pyrotechnics of **AWE Monday Night WAR** were in full swing. Suddenly, the arena lights on the broadcast cut to a smug, corporate spotlight, and a crushing, downtuned arena-metal guitar riff and heavy stomping drumbeat blasted through the lobby speakers:
+
+*"I'm in control! (I own the board, I own the ring!) I'm in control! (I pull the strings on everything!) Welcome to the bottom line, where every single cent is mine!"*
+
+A chorus of theatrical groans and boos erupted from the couch cluster as AWE General Manager **Marcus Sterling** strutted out onto the television stage in an obnoxiously expensive three-piece suit, flashing his trademark patronizing smirk at the camera.
+
+"Oh, somebody please put that bloke through an announce table!" Sarah shouted in her thick Sydney accent, tossing a single piece of popcorn at the screen while Jessica, sitting beside Madison on the left sofa, chuckled deeply.
+
+For Jordan, the scene around him was a portrait of pure, unimaginable bliss. Rather than staying in his wheelchair at the edge of the rug, Mark and Aubrie had helped him transfer onto the center cushion of the main sofa, with his folded manual chair parked neatly beside the armrest and his `Vanguard Pro` resting on the coffee table in front of him.
+
+His left arm was wrapped comfortably around Sarah, who was leaning warmly against his side. His right arm was draped around Lauren, who had her head resting contentedly on his shoulder. On the left sofa, Aubrie, Madison, Zoë, and Jessica were curled up under a fleece throw blanket, heckling Marcus Sterling on the broadcast. On the right sofa, Hannah and Mark were cuddled together over a giant bowl of popcorn.
+
+It was into this exact scene that Tom Lawson walked.
+
+Standing five-foot-two in his CPI lacrosse windbreaker, Tom had been visiting a teammate on the fourth floor and was cutting through the first-floor lobby toward the vending machines when he glanced toward the television Lounge—and stopped dead in his tracks.
+
+His brain visibly short-circuited.
+
+Through the crisp lenses of his new glasses, Jordan spotted Tom frozen near the vending alcove, though Jordan didn't tense or flinch. He simply watched as Tom's eyes locked onto Lauren—*his* Lauren, as Tom's bruised ego still thought of her—tucked peacefully under the right arm of the guy from the wheelchair, looking happier and more relaxed than Tom had ever seen her.
+
+Then Tom's gaze snapped to the other side of Jordan's chest. And the color drained completely from Tom's face.
+
+It was Sarah. *His* Sarah. His two ex-girlfriends—the two women he had spent months lying to, manipulating, and playing against each other—were sitting side by side on the exact same couch, cuddling with the exact same guy. To Tom's transactional, zero-sum mind, the visual was mathematically impossible.
+
+Tom's eyes darted frantically to the adjacent sofa, searching for the dark-haired girl from Kincaid Hall—Aubrie, Jordan's actual girlfriend. Surely *she* was furious. Surely *she* was about to explode in a jealous rage.
+
+Instead, Aubrie was laughing, her head tilted back in pure delight at a one-liner Zoë had just deadpanned about Marcus Sterling's haircut.
+
+As if sensing Tom's stare across the lobby, Aubrie glanced over at the center sofa. She didn't glare. She didn't stiffen. She looked straight at Jordan, Lauren, and Sarah, and gave the three of them a radiant, loving smile and a subtle thumbs-up.
+
+At that exact second, Lauren lifted her head from Jordan's shoulder and pressed a soft, affectionate kiss right to the corner of his jaw. On his left, Sarah let out a contented sigh and snuggled even deeper against his side, resting her hand over his chest.
+
+And Aubrie just beamed—her hazel eyes shining with pure, unselfish joy. There was no possessiveness. There was no competition. There was only blessing.
+
+Across the tile floor by the vending machines, Tom looked like he was struggling to draw oxygen. His entire worldview was built on ownership, secrecy, and jealousy; he was staring into a fortress of open, unconditional trust that he could neither comprehend nor poison. His small fists clenched at his sides, a strangled, silent flush creeping up his neck, and without ever putting his dollar bill into the vending machine, he spun on his heel and bolted out the front glass doors of Bennett Hall into the night.
+
+On the center couch, Sarah glanced toward the swinging glass door, smirked, and tapped Jordan's keyboard on the coffee table so he could type.
+
+Jordan didn't even need `EchoType` for the whole lobby. He typed a single line in bright neon-green letters on his `NeoEdit` screen for the couch cluster to read:
+
+<aac>I think Marcus Sterling just lost a fan.</aac>
+
+## Trial by Fire Drill
+
+### Scene 1: Transforming Jordan into a Forger
+
+**Date:** 2014-09-19 at 15:30 America/New_York
+
+By the third Friday of September, the first crisp, cool breeze of Appalachian autumn had arrived in Blacksburg, and the energy across campus was electric. Homecoming Week was just days away, and the walkways around **Commonwealth Green** were already a vibrant sea of Foundry Maroon and Molten Orange.
+
+After their Friday afternoon classes wrapped up, the entire nine-person crew—Jordan, Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—walked over to the **CPI Campus Bookstore** at the edge of the academic district to pick up supplies.
+
+The moment Jordan rolled through the automatic glass doors of the rotunda-shaped building, he was hit by a wave of pure, unfiltered collegiate spirit. Through the crisp lenses of his new glasses, the store looked like a cathedral dedicated to an identity he desperately wanted to belong to. Towering racks overflowed with heavy-cotton **CPI Forgers** hoodies, burnt-orange jerseys, pennants, and embroidered baseball caps.
+
+"Okay, I officially need this for the Homecoming game," Madison announced, holding up a fitted maroon t-shirt with metallic gold and orange *FORGERS* lettering across the chest.
+
+"Solid choice," Mark grinned, trying on a burnt-orange CPI cap with the classic anvil-and-hammer crest. "Gotta represent in The Anvil."
+
+Jordan wheeled himself quietly down the center aisle, reaching out to brush his fingers against the thick, fleece-lined sleeve of a heavy maroon CPI Forgers hoodie. He had never owned a single piece of school-spirit clothing in his life. Back in Virginia Beach, his mother had only ever bought him the cheapest, plainest clothes from discount racks, insisting that anything with a logo was a "frivolous waste of money" on someone who didn't participate in school activities. He imagined pulling this maroon hoodie over his shoulders and rolling into **The Crucible** next Saturday alongside sixty-five thousand screaming fans—not as an outsider looking in, but as a Forger.
+
+Then he flipped over the cardboard price tag hanging from the cuff.
+
+Fifty-four dollars.
+
+Jordan's stomach dropped. His mother had left him with barely enough cash in his checking account to cover his lab fees and required textbooks, and she monitored every bank transaction online like a hawk. He let the soft maroon sleeve slip from his fingers, locked his jaw, and quietly began to turn his wheelchair away from the rack.
+
+Aubrie, who had been watching him from the end of the aisle, stepped gently in front of his chair.
+
+"You're not getting it, J?" she asked softly.
+
+Jordan's cheeks flushed warm. He looked down at his `Vanguard Pro` resting on his lap and typed a quiet line into `NeoEdit`, angling the screen just toward her so he wouldn't embarrass himself in front of the whole store.
+
+<aac>I can't afford it. My mother only left enough in my account for books, and she checks the statements.</aac>
+
+Over by the t-shirt wall, the playful chatter among Madison, Mark, Hannah, Lauren, Zoë, Sarah, and Jessica stopped instantly. Without a word, all seven of them walked over, closing ranks around Jordan's chair as their expressions shifted from carefree to fiercely protective.
+
+"Oh, no, mate, that is not how this works," Sarah said firmly, crossing her arms.
+
+"Dude, Homecoming Week starts Monday," Mark added, stepping up beside Aubrie. "You can't roll into The Crucible without Forger gear. It's practically in the CPI student constitution."
+
+Jordan shook his head, his fingers typing rapidly on his terminal before he triggered `EchoType`.
+
+<aac>I can't pay you guys back.</aac>
+
+"This isn't a loan, Jordan," Hannah said, her warm, steady "big sister" voice carrying absolute authority. "This is your initiation. You're part of our family now, which means you're part of this school, too. All eight of us are pitching in—and if your mother checks your bank statement, she won't see a single cent missing."
+
+Before Jordan could type another protest, his chosen family sprang into coordinated action.
+
+"We're getting the heavyweight maroon hoodie," Aubrie declared, pulling a size medium off the rack and laying it across his lap.
+
+"And he definitely needs the *'Beat VDU!'* t-shirt for Saturday," Madison insisted, snatching one from the display table and placing it on top of the hoodie.
+
+"And the cap to top it off," Mark finished with a grin, setting the burnt-orange CPI anvil-crest baseball cap right on top of the pile.
+
+Jordan looked down at the stack of maroon and orange fabric resting on his knees, then up through his glasses at the eight smiling, expectant faces surrounding him—from six-foot-three Jessica beaming down at him to Lauren and Zoë nodding in quiet solidarity. They weren't pitying him. They were claiming him.
+
+A sharp, overwhelming prickle of emotion stung behind his eyes—not a meltdown of fear, but a surge of pure, unadulterated gratitude. His fingers tapped two simple words into his terminal:
+
+<aac>Thank you.</aac>
+
+Ten minutes later, after the group split the tab at the register, Aubrie and Madison helped Jordan slip the new maroon CPI Forgers hoodie over his head right outside the **CPI Campus Bookstore**. It was thick, fleece-warm, and smelled like new cotton. As they rolled back across **Commonwealth Green** in the crisp September sun, Jordan didn't feel like a broken boy in a wheelchair anymore. He felt like a CPI Forger.
+
+### Scene 2: The Suite Arrangement Consent Form
+
+**Date:** 2014-09-19 at 18:30 America/New_York
+
+The third week of September had been designated by the university as campus-wide "Health and Safety Week." More importantly for the six residents of Suite 214/216, the official two-week administrative roommate-change window had formally closed the Friday before. The six of them had cast their vote by doing nothing at all—simply letting the deadline expire in silence as a testament to their shared desire to stay together.
+
+For the university's legal and housing offices, however, silence wasn't quite enough.
+
+At 6:30 that Friday evening, just after the suite had finished dinner, a familiar knock sounded on the door of Room 214. Kelsey, their Residence Director, stepped in holding a metal clipboard and a blue ballpoint pen.
+
+"Hi, everyone—happy Friday," Kelsey said, smiling warmly as she spotted Jordan still wearing his brand-new maroon CPI Forgers hoodie. "Nice hoodie, Jordan. Now that the room-change freeze is officially in effect, I just need five minutes to wrap up one final piece of administrative housekeeping with the six of you."
+
+She held up the clipboard, which held a single crisp sheet of heavyweight university bond paper stamped with the Commonwealth Polytechnic Institute seal.
+
+"Because your suite's co-ed configuration came about through our initial database error, verbal agreement isn't sufficient for the university's permanent audit file," Kelsey explained, her tone professional and kind. "The Director of Housing needs a formal, written confirmation signed by all six residents."
+
+She handed the clipboard to Hannah, who was standing closest to the door. Across the top of the page, in bold serif type, was the heading:
+
+**OFFICE OF HOUSING AND RESIDENCE LIFE — SUITE ARRANGEMENT CONSENT FORM**
+
+Beneath the header, a concise paragraph stated in clear, bureaucratic language that all six residents of Suite 214/216 in Bennett Hall were fully aware of the co-ed nature of their living assignment, that each resident consented to the arrangement of their own free will without coercion, and that all six requested that the assignment remain permanent for the entirety of the 2014–2015 academic year.
+
+"This is for your protection just as much as the university's," Kelsey added gently. "Once all six signatures are on this page, nobody—inside or outside the administration—can claim the arrangement was forced or temporary."
+
+To Jordan, looking at the heavy bond paper as it passed from hand to hand, it felt less like a housing form and more like a treaty. It was the legal charter of their chosen family.
+
+One by one, the five women read the paragraph and signed their full legal names on the numbered lines beside their printed student IDs:
+
+*Madison Elizabeth Scott.*
+*Zoë Wren Brooks.*
+*Hannah Ashlee Parker.*
+*Lauren Nicole Barnes.*
+*Aubrie Jean Kelly.*
+
+Aubrie handed the clipboard and pen to Jordan. Resting the aluminum board against the flat lid of his `Vanguard Pro`, Jordan gripped the pen carefully and signed his name on the sixth and final line:
+
+*Aubrey Jordan Fuller.*
+
+Six signatures, sealing their sanctuary in blue ink.
+
+"Thank you, guys," Kelsey said, taking the clipboard back and checking all six lines with a satisfied nod. "This goes straight into the Director's locked vault on Monday morning. Have a great weekend."
+
+### Scene 3: Fire Alarm in the Dormitory
+
+**Date:** 2014-09-19 at 20:00 America/New_York
+
+It was 8:00 PM on the dot—the final night of CPI's mostly ignored "Health and Safety Week"—when the world inside Bennett Hall exploded.
+
+Without a single second of warning, a piercing, metallic, 100-decibel shriek ripped through the cinderblock walls of Suite 214/216, accompanied by the blinding, rhythmic white flash of the wall-mounted ADA emergency strobe lights.
+
+"Oh, you have *got* to be kidding me!" Madison groaned from the top bunk, clapping her hands over her ears. Across the suite doorway, Hannah and Lauren echoed the exact same sentiment—every freshman in the building sharing the universal, annoyed thought: *I thought we were done with fire drills when we graduated high school.*
+
+Intellectually, all six of them knew what a dormitory fire drill was, and they knew the standard procedure was to walk down the hall and exit onto the hillside lawn.
+
+But for Aubrie and Jordan, knowing a procedure in theory and executing it under a sudden, violent sensory ambush were two entirely different things.
+
+For Aubrie, the assault was instantaneous and physically debilitating. Caught completely off guard without her earmuffs, the shrieking klaxon and the disorienting white strobes slammed into her nervous system like a physical battering ram. She couldn't stand up from her desk chair; she curled inward onto her knees, clamping her palms tightly over her ears as her breath hitched in sharp, painful gasps.
+
+For Jordan, amplified through his new bridge hearing aids before their automatic compression limiters could even clamp down, the shriek was coupled with an overwhelming cognitive freeze. In his mind, structured fire drills belonged to elementary and high school—places where adults herded him into hallways like cattle. This wasn't supposed to happen here. Not in their sanctuary. The suddenness of the violation short-circuited his motor planning. His hands locked onto the push-rims of his chair, his knuckles white, his head shaking back and forth in silent, frozen paralysis as his `Vanguard Pro` sat dark on his desk.
+
+In less than three seconds, the other four suitemates saw their distress and pivoted from annoyed college freshmen into a disciplined rescue unit.
+
+"Status check: they are both in acute sensory and cognitive overload," Zoë announced over the din, her voice cutting through the chaos with calm, surgical authority. "They know the protocol, but their executive processing is locked. Execute manual assist."
+
+Madison scrambled down the ladder from Bed C, grabbed a thick fleece blanket off Aubrie's lower bunk, and draped it gently over Aubrie's head and shoulders to shield her eyes from the strobing white flashes while reaching into the desk drawer to slip Aubrie's purple sound-blocking earmuffs over her ears.
+
+"I've got you, Aubs," Madison murmured right beside her, guiding Aubrie up to her feet with a firm arm around her waist. "It's awful, I know. We're going straight outside where it's dark and quiet."
+
+Simultaneously, Lauren and Hannah knelt beside Jordan's wheelchair. Without asking first, Hannah reached up with gentle, practiced familiarity and clicked the rocker switches on both of Jordan's behind-the-ear hearing aids to standby, cutting the piercing treble of the klaxon down to a muffled rumble.
+
+Lauren placed both hands squarely over Jordan's white-knuckled fingers on his push-rims, looking directly into his eyes through his glasses.
+
+"Jordan, look at me, b'y," Lauren said clearly, enunciating every syllable so he could read her lips cleanly. "I know. It's completely ridiculous. None of us thought they did fire drills in college either, and it makes zero sense. It's just a stupid Health and Safety Week check. There's no fire, and nobody is taking you anywhere. Unlock your brakes and let me push you out to the grass."
+
+Her words—validating the exact logical absurdity that had locked up his brain—acted like a circuit breaker resetting. The terror in his chest receded just enough for his fingers to unclench. Jordan gave a small, stiff nod and snapped his wheel locks forward.
+
+Moving as a tight, protective diamond formation—Lauren pushing Jordan's wheelchair, Madison guiding Aubrie under the blanket, and Zoë and Hannah clearing a path through the crowded second-floor hallway and out the accessible hillside exit—they emerged into the cool, pine-scented September night air.
+
+Fifty yards up the grassy slope away from the flashing building, the screech of the horns faded into the crickets and the breeze. Aubrie leaned against the side of Jordan's wheelchair, letting out a long, shuddering breath as she reached down to hold his hand. They had been tested not by choice, but by the random shriek of an alarm—and their family had moved as one without leaving anyone behind.
+
+### Scene 4: The Nightly Pact
+
+**Date:** 2014-09-19 at 21:00 America/New_York
+
+Back inside the quiet warmth of Suite 214/216 after the all-clear was given, the lingering adrenaline from the fire alarm slowly ebbed away, replaced by a deep, shared exhaustion. All six suitemates were huddled together in Room 214, wrapped in fleece blankets and cradling steaming mugs of hot chocolate with mini-marshmallows that Madison had insisted on warming up.
+
+Jordan had turned his hearing aids back on now that the hallways were silent, his `Vanguard Pro` open on his lap as he sipped carefully from his mug.
+
+"I still cannot believe they subject legal adults to unannounced 100-decibel acoustic assaults at eight o'clock on a Friday night," Lauren said, shaking her head as she blew across the top of her mug. "It's genuinely barbaric."
+
+"What matters is that our emergency response protocol functioned with zero casualties," Zoë observed from the foot of the bunk, her gray eyes resting warmly on Jordan and Aubrie. "Your sensory and cognitive freeze responses were completely understandable, but your immediate willingness to trust our manual override was the decisive variable."
+
+"And it's a good thing we all have each other," Madison added softly, glancing around the circle of blankets. "Especially so nobody has to be alone... you know. After a crash like that."
+
+A quiet, meaningful stillness settled over the room. Everyone knew what Madison was referring to—the nights Aubrie had held Jordan after his move-in meltdown and his 2:00 AM nightmare, and the night Jordan had held Lauren after Tom's betrayal had shattered her world.
+
+As always, it was Aubrie who gave gentle, fearless voice to the thought forming in everyone's mind.
+
+"It shouldn't only take an emergency or a heartbreak for us to have that," Aubrie said softly, looking first at Jordan with a tender smile before turning her gaze to Madison, Zoë, Lauren, and Hannah. "That feeling of waking up safe... of knowing you aren't alone in the dark... all of us deserve that. And after eighteen years of nightmares, Jordan deserves that every single night."
+
+Lauren nodded wholeheartedly, hugging her knees to her chest. "That Tuesday night after everything with Tom came out... sleeping next to Jordan was the only reason I didn't fall apart in the dark. Just feeling someone kind breathing beside me fixed something in my head."
+
+"Then we should formalize the protocol," Zoë said, her pragmatic, systematic mind immediately seeking structure so no one would ever feel uncertain or hesitant. "Establishing a clear, explicit nightly arrangement ensures equity and eliminates any potential for social ambiguity."
+
+"It doesn't have to be a laminated spreadsheet on the bathroom door, Zo," Madison laughed gently, her cheeks warming slightly. "But yeah. If we're all really doing this—no jealousy, no weirdness—then it should be an open invitation. Whenever one of us needs comfort, or just wants to be close to him at night, we rotate."
+
+Every pair of eyes in the room turned toward Jordan. They were offering him their hearts, their trust, and their nights, but none of them would take a single step unless it was truly what *he* wanted.
+
+Jordan set his hot cocoa mug on his desk and placed his hands on the keyboard of his `Vanguard Pro`. Looking around at the women who had rescued him from the storm of his old life, he typed carefully into `EchoType` and pressed execute:
+
+<aac>I want that more than anything. Knowing one of you is right there beside me is the only reason the nightmares stopped. I trust all of you completely.</aac>
+
+Hannah smiled warmly from her spot near the connecting door, taking a sip of her cocoa. "You guys already know I think what you have is the most beautiful, healing thing in the world, and my daytime hugs are on call twenty-four-seven," she said with gentle affection. "And you know that at night, Mark and I have our own bed and our own relationship in 216."
+
+"Of course," Aubrie said immediately, reaching out to squeeze Hannah's hand. "You and Mark are our bedrock, Hannah. And for the rest of us—me, Madison, Zoë, and Lauren..." Aubrie's eyes brightened with an inclusive thought. "And for Sarah, too, whenever she stays down here with us and needs a safe harbor. The invitation is open to all five of us."
+
+There it was: the **Nightly Pact**, spoken aloud and agreed upon without a single trace of fear or possessiveness. Mark and Hannah had their devoted partnership, and around Jordan stood a five-star constellation—Aubrie, Madison, Zoë, Lauren, and Sarah—bound together by an intuitive, zero-jealousy promise that none of them would ever have to face the dark alone again.
+
+Zoë nodded once, a rare, radiant smile softening her face. "The parameters are clear and mutually ratified."
+
+Madison raised her hot chocolate mug in a toast. "Best. Suite. Ever."
+
+### Scene 5: The First Night of the Pact
+
+**Date:** 2014-09-19 at 22:30 America/New_York
+
+As the last of the hot chocolate disappeared and the mugs were rinsed in the suite sink, a heavy, peaceful drowsiness settled over the six suitemates. The spike of adrenaline from the 8:00 PM fire alarm had completely burned off, leaving their muscles ready for sleep.
+
+"Alright," Zoë said, standing up from the rug and stretching her arms overhead. "As productive as tonight's constitutional ratification has been, my circadian rhythm requires sleep."
+
+"So..." Madison began, her usually exuberant voice dropping to a soft, almost shy register as she looked first at Jordan, and then over at Aubrie. "Whose turn is it tonight?"
+
+The simple question hung warmly in the quiet room—the very first real-world invocation of the pact they had just made.
+
+Sitting on the edge of Bed B, Aubrie didn't hesitate for a millisecond. She looked up at Madison and offered a serene, encouraging smile, giving a small nod toward Jordan's bed. The message was unmistakable: *Go ahead. You've earned your turn.*
+
+"I'd really like to take tonight," Madison said, her bright blue eyes filled with a gentle sincerity as she looked back at Jordan. "If that's okay with you, J?"
+
+Jordan looked at Madison, then glanced at Aubrie, whose warm, unclouded smile confirmed that the safety of their constellation was 100% real. He tapped a quick, quiet response on his `NeoEdit` screen and angled it toward Madison:
+
+<aac>I would really like that, Maddie.</aac>
+
+With that, the suite flowed through its bedtime routine. Hannah, Lauren, and Zoë said their goodnights, gave Jordan their evening hugs, and stepped through the connecting bathroom into Room 216. In Room 214, after helping Jordan change into his soft cotton sleep shirt and sweatpants, Aubrie curled up under the covers of her own lower bunk across the room, letting out a long, contented sigh. There was no tension in the air—only the deep peace of a sanctuary she had helped build.
+
+Jordan carefully removed his new glasses, setting them in their protective case beside his bridge hearing aids on the nightstand, and executed his pivot transfer from his wheelchair onto his accessible Twin XL mattress.
+
+A moment later, the overhead light clicked off, and Madison—dressed in her soft flannel pajama pants and an oversized t-shirt—padded quietly across the rug instead of climbing the wooden ladder to Bed C.
+
+The Twin XL mattress was narrow, built for one college student, which meant sharing it required zero distance between them.
+
+"Scooch over, Forger," Madison whispered playfully in the dim glow of the campus streetlight outside the window.
+
+Jordan smiled and shifted toward the wall, making room. Madison slid under the comforter right behind him, the immediate, radiating warmth of her body chasing away the September chill. She settled in as the big spoon, wrapping her arm securely around his waist and pulling his back flush against her chest, her chin resting lightly against his shoulder.
+
+It was a mirror of the grounding deep pressure Aubrie and Lauren had given him, yet distinctly Madison—warm, lively, and unconditionally affectionate, declaring without words that he was cherished and safe.
+
+Lying there in the quiet dark, held closely by one of his best friends while his girlfriend slept peacefully just six feet away, Jordan felt his heart rate slow into a steady, rhythmic calm. After eighteen years of isolation and terror in the dark, his nights were now guarded by a rotating constellation of people who loved him simply for who he was. He closed his eyes and drifted effortlessly into a dreamless sleep.
+
+# The Sanctuary & The Shield
 
 ## Homecoming Week
 
 ### Scene 1: The Fortress of Truth
+
+**Date:** 2014-09-27 at 20:45 America/New_York
 
 The heavy click of the lock on the door of Room 214 sealed them inside their fortress. Jordan sat in his wheelchair, still trembling from the retreat. His gaze fell upon the door, and then the adjoining door to Room 216. He saw their triumphant, mocking decorations: BEAT NORFOLK! and the Crushed VDU Crown. It felt like a horrible lie, a monument to his own humiliation.
 
@@ -2598,7 +3029,7 @@ In that moment, looking around at the fierce, protective faces of Lauren, Aubrie
 
 ### Scene 1: The Vanguard Awakes
 
-**Date:** 2015-05-23 at 05:00
+**Date:** 2015-05-23 at 05:00 America/New_York
 
 The sharp, digital chime of an alarm clock pierced the cool, quiet air of the Brooks family basement.
 
@@ -2632,7 +3063,7 @@ The engines revved, and the two vans pulled out of the driveway, merging onto th
 
 ### Scene 2: Operation Yellow Ribbon
 
-**Date:** 2015-05-23 at 06:30
+**Date:** 2015-05-23 at 06:30 America/New_York
 
 Traffic on Interstate 81 was surprisingly sparse for a Saturday morning, allowing the two heavy passenger vans to make excellent time as they cruised north through the New River Valley. Inside the lead van, the atmosphere was a mix of early-morning grogginess and electric anticipation.
 
@@ -2670,7 +3101,7 @@ Jordan held Lauren's hand a little tighter. Armed with his Nexus card, his custo
 
 ### Scene 3: The Security Checkpoint
 
-**Date:** 2015-05-23 at 07:00
+**Date:** 2015-05-23 at 07:00 America/New_York
 
 As the eighteen members of the global roster moved toward the TSA security checkpoint, Daniel Brooks gently placed a hand on the back of Jordan’s heavy power chair, bringing him to a slow stop just before the queue. Lauren stayed firmly anchored by his side, her fingers still laced with his.
 
@@ -2726,7 +3157,7 @@ With his right hand resting securely on the joystick, Jordan steered his heavy-d
 
 ### Scene 4: The Ten-Thousand Foot Rule
 
-**Date:** 2015-05-23 at 07:30
+**Date:** 2015-05-23 at 07:30 America/New_York
 
 The boarding area at the Meridian Express gate was quiet, populated entirely by the eighteen members of the chosen family. Through the floor-to-ceiling glass windows, the small regional jet sat parked on the tarmac, its engines whining with a low, mechanical hum.
 
@@ -2804,7 +3235,7 @@ He took a long, refreshing sip of the cold juice, the sweet taste cutting right 
 
 ### Scene 5: The International Threshold
 
-**Date:** 2015-05-23 at 08:30
+**Date:** 2015-05-23 at 08:30 America/New_York
 
 The descent into Washington Dulles International Airport was a jarring, physical reality check.
 
@@ -2834,7 +3265,7 @@ Jordan took a deep breath, processing her calm, practical explanation. He nodded
 
 ### Scene 6: The IAD Layover Strategy
 
-**Date:** 2015-05-23 at 09:00
+**Date:** 2015-05-23 at 09:00 America/New_York
 
 To answer the massive logistical challenge of managing an eighteen-person family on an international layover, Daniel Brooks had mapped out the morning with military precision.
 
@@ -2860,7 +3291,7 @@ The terrified, isolated boy from Virginia Beach was officially gone. The world t
 
 ### Scene 7: The Border Briefing
 
-**Date:** 2015-05-23 at 10:15
+**Date:** 2015-05-23 at 10:15 America/New_York
 
 The hum of the Meridian Premier Lounge was a soothing backdrop as the morning stretched on. Jordan sat comfortably in his power chair by the massive windows, watching the baggage carts zip across the tarmac. The anxiety that had gripped him earlier that morning had completely dissolved, replaced by a profound, grounding warmth.
 
@@ -2898,7 +3329,7 @@ As the departure screens in the lounge flashed, indicating that their mainline j
 
 ### Scene 8: The Outback Lift
 
-**Date:** 2015-05-23 at 11:30
+**Date:** 2015-05-23 at 11:30 America/New_York
 
 After a final round of snacks and a highly coordinated trip to the Premier Lounge's accessible restrooms, Daniel Brooks gathered the group. It was time.
 
@@ -2932,7 +3363,7 @@ The flight attendants, slightly intimidated by her towering height and sheer phy
 
 As Jessica carried Jordan smoothly through the First Class cabin, Mark caught up to them in the aisle. He quickly assessed the logistics of the situation.
 
-"Hey, Jess," Mark called out, tapping her on the shoulder. "Hannah and I are assigned to the seats directly behind Jordan and Aubrie. But if you're on lifting duty for the flight, it makes way more sense for you to be right behind him."
+"Hey, Jessica," Mark called out, tapping her on the shoulder. "Hannah and I are assigned to the seats directly behind Jordan and Aubrie. But if you're on lifting duty for the flight, it makes way more sense for you to be right behind him."
 
 "We can totally swap," Hannah agreed, smiling warmly from the aisle. "You and Sarah can take our seats behind them, and Mark and I will take your row."
 
@@ -2942,7 +3373,7 @@ Jessica carefully lowered Jordan into his wide First Class window seat, ensuring
 
 Aubrie slid into the seat next to Jordan, immediately reaching out to take his hand. She looked over the back of her seat at Jessica.
 
-"Thank you, Jess," Aubrie whispered sincerely.
+"Thank you, Jessica," Aubrie whispered sincerely.
 
 "Anytime," Jessica smiled, settling into her seat. "We take care of our own."
 
@@ -2950,7 +3381,7 @@ Jordan looked out the window as the massive jet engines began to whine. He didn'
 
 ### Scene 9: The Price of Freedom
 
-**Date:** 2015-05-23 at 12:30
+**Date:** 2015-05-23 at 12:30 America/New_York
 
 As the mainline jet reached cruising altitude, the First Class cabin settled into a comfortable, luxurious hum. The flight attendants began their meal service, rolling the carts down the wide aisle of the two-by-two cabin configuration.
 
@@ -2984,7 +3415,7 @@ Jordan smiled, his heart soaring lighter than the aircraft itself. Next stop: YY
 
 ### Scene 10: The Commonwealth Question
 
-**Date:** 2015-05-23 at 14:00
+**Date:** 2015-05-23 at 14:00 America/Toronto
 
 When the mainline jet finally arrived at the gate at Toronto Pearson International Airport, the First Class cabin began to empty out. True to her word, Jessica Gallagher stood up from her seat in the third row, her imposing 6'3" frame easily navigating the cabin aisle.
 
@@ -3036,7 +3467,7 @@ Surrounded by his chosen family and officially on foreign soil for the very firs
 
 ### Scene 11: The ePassport Bottleneck
 
-**Date:** 2015-05-23 at 14:45
+**Date:** 2015-05-23 at 14:45 America/Toronto
 
 The Air Canada Maple Leaf Lounge in the domestic terminal was a quiet, sprawling sanctuary of polished wood and comfortable armchairs. The sixteen members of the Nexus group had easily secured a large corner section, indulging in the complimentary buffet and waiting for the final two members of their party.
 
@@ -3234,6 +3665,8 @@ Sandwiched between the two women who had started it all, surrounded by his fierc
 
 ### Scene 1: The Gander Morning
 
+**Date:** 2015-05-24 at 08:00 America/St_Johns
+
 The morning light filtering through the living room curtains of Lauren's childhood home was soft and cool. Jordan woke up slowly, the heavy, weighted Newfoundland quilt pressing down securely against his chest.
 
 He didn't move immediately. For the first time in his life, waking up didn't trigger an instant spike of adrenaline. He was perfectly sandwiched in the massive, makeshift floor bed. Aubrie was still fast asleep on his right side, her arm draped comfortably over his waist. Madison was curled up on his left, breathing evenly. Zoë and Lauren were already up, their spots at the edges of the mattress neatly made.
@@ -3281,6 +3714,8 @@ Jordan's eyes widened. He hadn't realized the physical history was actually pres
 Jordan looked around the kitchen, at the warm, smiling faces of the family who had carried him into their home without a second thought. He finally understood. The radical hospitality wasn't an act. It was completely baked into the DNA of the ground he was sitting on.
 
 ### Scene 2: The Cognitive Redirect
+
+**Date:** 2015-05-24 at 08:45 America/St_Johns
 
 The thick slice of homemade bread on Jordan's tray table felt impossibly heavy.
 
@@ -3336,7 +3771,7 @@ They pulled out of the driveway and onto the quiet, tree-lined streets of Gander
 
 ### Scene 1: The Final Briefing
 
-**Date:** 2015-08-18 at 09:00
+**Date:** 2015-08-18 at 09:00 America/New_York
 
 The small, windowless consultation room inside the Montgomery County Courthouse hummed with the steady drone of the central air conditioning. A year ago, the sterile white walls and the harsh fluorescent lighting would have sent Jordan Fuller into a spiraling sensory overload. He would have been hunched over, his hands clamped over his ears, trembling in a squeaking, hospital-issue transit chair while he waited for his mother to dictate his fate.
 
@@ -3382,7 +3817,7 @@ Jordan didn't hesitate. He sent the standby command to his terminal and gripped 
 
 ### Scene 2: The Phalanx and The Gavel
 
-**Date:** 2015-08-18 at 09:30
+**Date:** 2015-08-18 at 09:30 America/New_York
 
 The heavy wooden double doors at the back of the courtroom swung open.
 
@@ -3444,7 +3879,7 @@ The color instantly drained from Mr. Davies' face. Aubrie Sinclair froze, her ti
 
 ### Scene 3: The Evidentiary Phase
 
-**Date:** 2015-08-18 at 10:15
+**Date:** 2015-08-18 at 10:15 America/New_York
 
 The evidentiary phase proceeded not as a trial, but as a systematic dismantling.
 
@@ -3526,7 +3961,7 @@ She looked directly at Aubrie Sinclair, whose face had gone completely pale.
 
 ### Scene 4: The Closing Argument
 
-**Date:** 2015-08-18 at 13:30
+**Date:** 2015-08-18 at 13:30 America/New_York
 
 By early afternoon, Aubrie Sinclair’s petition was entirely in tatters. The evidentiary phase had dismantled her claims piece by piece, but it was time for the final blow. Ms. Gable stood in the center of the courtroom to deliver her closing argument, seamlessly weaving the global itinerary into a single, undeniable decree of Jordan's capacity.
 
@@ -3562,7 +3997,7 @@ Ms. Gable stepped back, gesturing to the tanned, upright, razor-sharp young man 
 
 ### Scene 5: The Gavel and The Handcuffs
 
-**Date:** 2015-08-18 at 14:15
+**Date:** 2015-08-18 at 14:15 America/New_York
 
 The heavy, suffocating silence in the courtroom was finally broken by the frantic rustle of Mr. Davies shoving papers into his briefcase. Recognizing that his entire case had just been exposed as a malicious fabrication, his survival instincts kicked in.
 
