@@ -10,9 +10,9 @@ title: "The Eleventh Child"
 
 **Date:** 2014-08-20 at 08:00 America/New_York
 
-The heavy zipper of the oversized suitcase rasped shut across the living room, the metallic sound dull and underwater through the static in Aubrey's ears.
+The heavy zipper of the canvas gym bag rasped shut across the living room, the metallic sound dull and underwater through the static in Aubrey's ears.
 
-He sat parked in his basic manual wheelchair near the front hallway, his hands resting motionless on his knees. Two hours remained before they were scheduled to pull out of the driveway and begin the drive west, yet he had not packed a single item himself. He hadn't been allowed to. From the folded stacks of plain shirts to the spare packages of junk food wedged into the side pockets, every square inch of his luggage had been selected, counted, and arranged by his mother.
+He sat parked in his basic manual wheelchair near the front hallway, his hands resting motionless on his knees. Two hours remained before they were scheduled to pull out of the driveway and begin the drive west, yet he had not packed a single item himself. He hadn't been allowed to. Because his folded wheelchair took up nearly the entire trunk of his mother's sedan, his heavy dorm essentials—his pillows, blankets, sheets, and towels—had already been boxed up and mailed ahead to the dormitory's mail room earlier in the week. For the drive itself, they were bringing only his backpack and a single gym bag, and from the folded stacks of plain shirts in the duffel to the spare packages of snacks and sandwiches wedged into his backpack's side pockets, every square inch had been selected, counted, and arranged by his mother.
 
 Across the room, Aubrie Sinclair moved back and forth as a blurred silhouette against the closed blinds. Anything more than an arm's length away dissolved into a pale, featureless smear—the way distant rooms had always looked to him—forcing him to squint just to track the sharp, hurried angles of her movements as she double-checked the locks on the windows.
 
@@ -24,9 +24,9 @@ Before he could adjust his posture, her hands were on him. She didn't ask permis
 
 "Honestly, I still don't know why I'm humoring this silly college experiment," she sighed, stepping back with her hands on her hips. Through the blur, he could feel the heavy, unblinking weight of her stare. "The world outside this house is loud, Aubrey. It is dirty, and it is cruel, and nobody out there is going to have the patience to deal with your little habits the way your mother does."
 
-He remained completely silent. His battered, obsolete laptop—running Quantum OS 7 Home Basic on a dying battery that barely held a charge—was already zipped inside his backpack at his feet. With the machine powered down and out of reach, he had no voice at all. Even if he had pulled it out to type into `SimpleSpeak`, she would have rolled her eyes at the flat, robotic monotone of `Quantum David` and told him to stop being dramatic and use his mouth.
+He remained completely silent. His battered, obsolete laptop—running Quantum OS 7 Home Basic on a dying battery that barely held a charge—was already zipped inside his backpack at his feet alongside its bulky power brick and a six-outlet power strip. With the machine powered down and out of reach, he had no voice at all. Even if he had pulled it out to type into `SimpleSpeak`, she would have rolled her eyes at the flat, robotic monotone of `Quantum David` and told him to stop being dramatic and use his mouth.
 
-"Four months," she said, her tone settling into a cold, triumphant certainty as she hauled the heavy suitcase upright by its handle. "Maybe less, once those Astrophysics professors realize you can't keep up. When you fail—and you *will* fail, Aubrey, because you don't know how to survive a single day without me—you won't have to beg. I'll come pick you up, and we will put this ridiculous phase behind us once and for all."
+"Four months," she said, her tone settling into a cold, triumphant certainty as she slung the strap of his packed gym bag over her shoulder. "Maybe less, once those Astrophysics professors realize you can't keep up. When you fail—and you *will* fail, Aubrey, because you don't know how to survive a single day without me—you won't have to beg. I'll come pick you up, and we will put this ridiculous phase behind us once and for all."
 
 She reached down, unlocked the wheel brakes of his chair without warning, and gripped the push-handles behind his shoulders, steering him toward the front door like a piece of luggage being wheeled to the trunk.
 
@@ -52,25 +52,25 @@ He hunched awkwardly over the keyboard, leaning his face mere inches from the di
 
 "Well, you could just open your mouth and say it," she muttered, turning her eyes back to the road.
 
-Past Roanoke, they finally merged onto Interstate 81 South for the final stretch up Christiansburg Mountain, pulling off the highway at Exit 118C onto Roanoke Street before reaching the bypass interchange. As his mother signaled and turned into the entrance of one of the roadside hotels clustered just off the exit, a long white-and-green city bus with a glowing amber `4` on its front sign rumbled past them along Roanoke Street. Inside the hotel, Aubrey wheeled himself down the carpeted corridor while his mother pulled his heavy suitcase behind them, his head pounding, longing for a quiet space to rest his aching eyes and ears.
+Once they reached Roanoke, his mother—unfamiliar with the area and blindly following the prompts on her dashboard GPS—merged off Route 460 onto Interstate 581 North, taking the short freeway spur up to Interstate 81 South for the final stretch up Christiansburg Mountain before pulling off the highway at Exit 118C onto Roanoke Street. As she signaled and turned into the entrance of the Merit Inn—a two-story roadside motel sitting right next door to a Hickory Barrel Old Country Store—a long white-and-green city bus with a glowing amber `4` on its front sign rumbled past them along Roanoke Street. After stopping briefly at the front office to pick up the room key, his mother drove the car around the asphalt lot and parked directly in front of their first-floor room's exterior door. Aubrey wheeled himself across the narrow concrete walk with his backpack resting on his lap while his mother slung his gym bag and her own small overnight bag over her shoulder behind him, his head pounding, longing for a quiet space to rest his aching eyes and ears.
 
-When his mother pushed open the door to their room, Aubrey squinted into the dim interior. Even through the familiar haze of distance, the large shape occupying the center of the room was undeniable. Despite the front desk clerk having mentioned standard two-bed rooms open on the third floor when they checked in, there was only one bed here.
+When his mother unlocked the heavy metal exterior door and pushed it open from the parking lot sidewalk, Aubrey squinted into the dim interior. Even through the familiar haze of distance, the large shape occupying the center of the room was undeniable. Despite the front desk clerk having mentioned standard two-bed rooms open along the ground-floor wing when they checked in, there was only one king bed here.
 
-"Oh, dear," his mother said with a sigh that held no real disappointment at all. "I asked for two beds when I reserved it, but this must have been all they had left with the students coming back to town. Well," she added with a brisk shrug that made it clear it wasn't a question—and that they wouldn't be going back downstairs to ask the clerk to switch rooms—"I guess we'll just have to make do for a couple of nights."
+"Oh, dear," his mother said with a sigh that held no real disappointment at all. "I asked for two beds when I reserved it, but this must have been all they had left with the students coming back to town. Well," she added with a brisk shrug that made it clear it wasn't a question—and that they wouldn't be walking back over to the front office to ask the clerk to switch rooms—"I guess we'll just have to make do for a couple of nights."
 
 ### Scene 3: The Shared Bed
 
 **Date:** 2014-08-20 at 21:00 America/New_York
 
-Aubrey lay stiffly on the very edge of his side of the bed that night. In the dark, the unfamiliar hotel room was a featureless, terrifying void, and the low, muffled hum of the air conditioner barely registered through the static in his ears. What he could sense, with agonizing clarity, was his mother's breathing—a familiar, oppressive presence just inches away. He stared into the darkness, his body rigid with tension, counting the hours until Friday. Friday meant he would finally have his own bed in his own room.
+Aubrey lay stiffly on the very edge of the mattress, clinging to the narrow strip of cold sheet before the drop-off to the floor. His mother had asked for a single king bed at the front desk rather than two doubles, though it hardly surprised him. Back home in Virginia Beach, as the calendar had counted down closer and closer to the day she would have to drop him off at CPI, she had started making him sleep in her bed with her every single night. In the dark, the unfamiliar motel room was a featureless, terrifying void, and the low, muffled hum of the air conditioner barely registered through the static in his ears. What he could sense, with agonizing clarity, was his mother's breathing—a familiar, oppressive presence just inches away. He stared into the darkness, his body rigid with tension, counting the hours until Friday. Friday meant he would finally have his own bed in his own room, behind a door of his own.
 
 “Aubrey dear, come comfort your mother,” Aubrie murmured in the dark.
 
-Before he could brace himself, she reached out and pulled him close. Her arm draped heavily over his chest, pinning him against her side like a plush toy meant to soothe her own anxieties. The forced physical proximity made his skin crawl. It was a suffocating, infantilizing boundary that she crossed routinely, completely ignoring the fact that he was an eighteen-year-old man.
+Before he could brace himself, the mattress dipped and she reached out, pulling him backward against her. Her arm draped heavily across his chest, her fingers tangling absently in the back of his hair as she tucked him tightly against her side like a plush toy meant to quiet her own nerves. By now, after weeks of this nightly ritual at home, he was used to her holding him like a stuffed animal in the dark—though being used to it had never made his skin crawl any less. The suffocating heat of her body through the thin cotton of his shirt and the heavy floral scent of her soap made him feel trapped. At eighteen, he had never been allowed a locked door at home, never been allowed a single inch of himself that she could not touch, inspect, or claim whenever she pleased.
 
-Without his heavy laptop resting on his knees, he had no way to form words at all. He couldn't even attempt to type out a protest, and the uncooperative stiffness in his limbs made it strenuous and exhausting to try and physically pry himself away from her unyielding grip. He felt smothered, trapped in the oppressive heat of the hotel blankets, but he was used to it by now.
+Without his heavy laptop resting on his knees, he had no way to form words at all. He couldn't even attempt to type out a protest, and the uncooperative stiffness in his limbs made it exhausting and futile to try to pry himself out from under her unyielding grip. Within minutes, her breathing slowed and deepened against the back of his neck as she drifted off to sleep, still holding him pinned in place.
 
-He hated it, a quiet, desperate revulsion that burned in his chest, but he put up with it. What could he do anyways? She was his mother, the absolute dictator of his small, silent universe, and she was all he had ever known.
+He hated it—a quiet, desperate revulsion that burned in his chest every single night—but he put up with it. What else could he do? She was his mother, the absolute ruler of the only world he had ever known. So he did the only thing he knew how to do to survive the hours until morning: he squeezed his eyes shut, went completely still, and let his mind detach from his body, floating up into a numb, blurry fog where time and sensation dissolved until the dark finally swallowed him too.
 
 ## Verification
 
@@ -86,7 +86,7 @@ The student worker behind the desk smiled brightly. "Hi there! Welcome to CPI. A
 
 Aubrey hunched forward, leaning uncomfortably close to his dim screen as he slowly typed out his response. He hit the execute key.
 
-*Yes, I am,* the robotic, monotone voice of the OS 7 text-to-speech engine announced to the room.
+<aac>Yes, I am,</aac> the robotic, monotone voice of the Quantum OS 7 text-to-speech engine announced to the room.
 
 Aubrey instinctively braced himself for the usual reaction—a confused stare, a pitying tilt of the head, or his mother's inevitable, exasperated sigh. Instead, the student worker didn't miss a single beat.
 
@@ -122,13 +122,13 @@ Aubrey froze, a familiar spike of panic hitting his chest. He braced himself for
 
 Relieved, Aubrey maneuvered his chair, plugged in the bulky adapter, and waited for the slow Quantum OS 7 Home Basic operating system to boot back up. Once it did, he opened *SimpleSpeak*, a free, clunky third-party text-to-speech program featuring a basic text box and a crude animated face that moved along with the words. He relied on it because it was the only application his mother had ever allowed him to download. He finished typing and clicked play.
 
-*Yes. That is correct,* the robotic, digitized voice announced to the room.
+<aac>Yes. That is correct,</aac> the robotic, digitized voice announced to the room.
 
 Aubrie Sinclair's jaw tightened instantly at the mechanical sound. She despised the software, viewing it as nothing more than an enabling crutch for a prolonged act of defiance. She was entirely convinced that if he just stopped being so stubbornly dramatic, he could open his mouth and talk perfectly well.
 
-Ms. Higgins looked back down at the sparse medical file Aubrie Sinclair had submitted. It noted a physical disability requiring a wheelchair and requested basic academic extensions, but nothing more. As she looked back at the young man—who relied entirely on free software to speak, visibly struggled to see the screen, and showed clear signs of a hearing impairment—she realized the documentation was woefully incomplete.
+Ms. Higgins looked back down at the thin folder Aubrie Sinclair had submitted. There wasn't a single physician's evaluation or clinical diagnosis inside—only a bare-bones high school accommodation rollover sheet noting that he used a manual wheelchair and received basic academic extensions. As she looked back at the young man—who relied entirely on free software to speak, visibly struggled to see the screen, and showed clear signs of a hearing impairment—she realized he had likely never been evaluated by a medical doctor at all.
 
-More importantly, she recognized the rigid, suffocating posture of the mother hovering over him. Aubrie Sinclair was controlling the narrative, ensuring her son remained dependent. Without official medical paperwork, Ms. Higgins's hands were bureaucratically tied, but she knew she needed to speak to Aubrey alone.
+More importantly, she recognized the rigid, suffocating posture of the mother hovering over him. Aubrie Sinclair was controlling the narrative, ensuring her son remained dependent. Without formal clinical evaluations on file, Ms. Higgins's hands were bureaucratically tied while the mother was in the room, but she knew she needed to speak to Aubrey alone.
 
 "Excellent," Ms. Higgins continued, looking back at her screen. "And I also see that our office coordinated with Housing to get you an early move-in accommodation due to your disability. You are all set for tomorrow, Friday, at 9:00 AM. You'll be in Bennett Hall, Room 214, Bed A".
 
@@ -138,37 +138,271 @@ Aubrie Sinclair frowned, her grip tightening on her purse. "Can't we just do tha
 
 "I apologize, ma'am, but the system doesn't open the orientation portal until the first day of classes," Ms. Higgins lied smoothly. She wrote a date and time on the card, stood up, and deliberately reached past the mother to hand the card directly to Aubrey. "I've scheduled you for this coming Monday at 1:00 PM. It will just be you and me, Aubrey, and we'll make sure you have absolutely everything you need."
 
-Aubrey took the card, his blurry vision making out the bold numbers.
+Aubrey took the card, his blurry vision making out the bold numbers, and slipped it carefully into his pocket.
 
-With all the administrative tasks verified, they returned to the hotel for one final night in the shared bed. Tomorrow, he would move in. Tomorrow, his new life would begin.
+"Come on, Aubrey, unplug that thing," his mother said briskly, already reaching down to yank his power adapter out of the wall outlet before the degraded battery had been charging for even five minutes. "All your paperwork is done, and I'm starving. We're heading back to the motel so we can get something to eat."
+
+### Scene 3: All the Way
+
+**Date:** 2014-08-21 at 15:00 America/New_York
+
+The drive back down the highway to Christiansburg took less than twenty minutes. Aubrie Sinclair exited onto Roanoke Street, turned into the Merit Inn, and pulled the car right up to the concrete curb directly in front of their first-floor room's exterior door.
+
+Before his mother could shut off the engine, Aubrey unzipped his backpack in his lap, pulled out his heavy laptop, and pressed the power button—hoping to type out what he wanted to eat in *SimpleSpeak* before they went into a restaurant. The screen flashed the Quantum OS boot logo for two seconds, flickered, and died to black. Five minutes on Ms. Higgins's wall outlet hadn't been nearly enough to put a lasting charge into the worn-out battery.
+
+Before he could reach into the bag for the power brick, the passenger door swung open. His mother reached in, lifted the backpack and the dead laptop right off his lap, and tossed them through the open motel doorway onto the room's single king bed.
+
+"Leave that clunky thing in here, Aubrey," she said, pulling the heavy metal room door shut until the lock clicked. "You aren't dragging cords into a restaurant just to make a scene. Come on—we're just walking right next door."
+
+Rather than moving the car, she unfolded his manual wheelchair on the hot asphalt, helped him transfer, and immediately gripped the push-handles behind his shoulders without asking. She wheeled him out of the Merit Inn parking lot and across the adjacent pavement toward the sprawling timber storefront of the Hickory Barrel Old Country Store sitting right next door.
+
+From the moment she pushed his chair up the wooden curb ramp onto the crowded front porch—lined with rows of creaking wooden rocking chairs—and through the heavy double doors, the building was a sensory nightmare.
+
+To reach the dining room, they first had to thread through the narrow, claustrophobic maze of the Old Country Store gift shop. A suffocating wave of artificial cinnamon, apple-spice, and vanilla scented candles hit Aubrey in the face, thick and sweet enough to make his throat tighten and the ache behind his eyes flare into a sharp throb. Wooden display tables crammed with clinking glass jars, cast-iron skillets, and spinning postcard racks pressed in on both sides of his wheels as blurred shoppers brushed past his elbows.
+
+The dining room beyond was even worse. There was no carpet or acoustic padding anywhere—only bare hardwood floors, rough timber walls hung with antique saws and farm tools, the sharp, percussive clatter of heavy stoneware plates, waitresses calling across the room, and the echoing roar of dozens of tables talking at once. Through Aubrey's hearing loss, the overlapping noise compressed into a jagged, deafening wall of static that made him flinch. Overhead, dim yellow faux-kerosene chandeliers cast murky shadows across the room, reducing everything more than an arm's length away into a swimming, featureless smear.
+
+His mother had the hostess pull away a wooden chair at a four-top table and shoved Aubrey's wheelchair into the gap.
+
+With his laptop lying dead on the motel bed next door, Aubrey had no voice at all. Still, as the hostess dropped two thick, sticky laminated menus onto the table, he was determined to at least choose his own meal. He pulled the menu up to the edge of the table and hunched deeply forward in his chair, bringing his face barely three inches from the glossy page—the only distance at which the small dark letters resolved out of a gray blur.
+
+Squinting through the static and the dim yellow light, he found the *Country Cheeseburger*. Directly beneath the bold title, in tiny italicized print, he read the standard toppings: *lettuce, sliced tomato, raw red onion, pickles, and mayonnaise*. His stomach turned slightly just reading the line. The sharp, biting crunch of raw onion and the wet, slimy texture of sliced tomatoes had always overwhelmed his mouth to the point of gagging.
+
+When the blurred silhouette of the waitress arrived beside their table with her notepad, Aubrey carefully executed the only communication system left to him. Laying the open menu flat near the edge of the table so she could see it, he pressed his stiff index finger squarely onto the words **Country Cheeseburger** and gave a clear, deliberate nod.
+
+Then, slowly and carefully so there could be no misunderstanding, he slid his fingertip down to the tiny printed description beneath it, pinned his fingernail directly onto the words **`sliced tomato, raw red onion`**, and shook his head firmly from side to side.
+
+The waitress noticed immediately and leaned down toward his hand to read the fine print under his finger. "Okay, sweetie, one Country Cheeseburger, and you want me to hold the—"
+
+Before she could finish the sentence, Aubrie Sinclair's hand reached across the wooden table, snapped the laminated menu shut right over Aubrey's fingers, and slid it out of his reach.
+
+"Oh, stop being so difficult, Aubrey," his mother said with a brittle, dismissive laugh, handing both menus back to the waitress at once. "He'll just have the regular Country Cheeseburger, all the way, with fries. Honestly, if he wants a special order, he can open his mouth and ask for it himself like an adult. Otherwise, he'll eat it how it comes."
+
+The waitress hesitated for half a heartbeat, glancing between the mother's tight, unyielding smile and the silent eighteen-year-old sitting in the wheelchair, before quietly writing it down on her pad and walking away.
+
+Aubrey's hands dropped slowly from the bare wood of the tabletop back to his knees. A heavy, hollow weight settled deep into his chest. It wasn't shock—there was nothing shocking about it anymore. He was just disappointed in his mother, the exact same quiet, familiar disappointment he had felt at countless restaurant tables and drive-thru windows for as long as he could remember. Every single time he tried to express even the smallest preference about what went into his own body, she used his silence as an excuse to erase it.
+
+Fifteen minutes later, when the heavy stoneware plates were set down on the table, Aubrey sat trapped inside the roaring static of the dining room, squinting down at a burger whose bottom bun was already soggy with pink tomato water and smeared mayonnaise, buried under thick rings of raw red onion. Without a word, he picked up his fork with stiff fingers and began the slow, humiliating ritual of prying the wet toppings off the meat and pushing them to the far rim of his plate.
+
+Across the table, Aubrie Sinclair cut neatly into her country-fried steak and let out an audible, disapproving sigh.
+
+"Honestly, Aubrey, look at the mess you're making," she said, her sharp tone slicing cleanly through the muffled din of clattering dishes and country music overhead. "Nobody in a university dining hall is going to want to sit across from someone who dissects his food like a five-year-old. You are eighteen years old. It's a tomato and a little bit of onion. It isn't going to kill you."
+
+Aubrey kept his eyes fixed on his plate. With his laptop lying dead on the motel bed next door, he couldn't type a single word in his own defense—and to his mother, his enforced silence was the most comfortable arrangement in the world. Without that mechanical voice interrupting her, he was once again a blank, captive mirror onto which she could project whatever she wanted, asking questions and answering them for him in the same breath.
+
+"And while we're on the subject," she continued between bites, gesturing with her fork, "I didn't care for that Higgins woman's attitude in that accessibility office at all. Reaching right past me to hand you that little card as if I weren't the one who drove you seven hours across the state and handled every piece of your paperwork. *'It'll just be you and me on Monday,'*" she mocked in a thin, derisive voice. "As if you could even explain what you need without your mother there to speak for you. What are you going to do on Monday afternoon, Aubrey? Wheel yourself all the way up those steep hills by yourself just to sit across from her in silence?"
+
+She paused for two seconds, staring across the table while Aubrey slowly chewed a lukewarm french fry, avoiding the burger whose bun still smelled overwhelmingly of raw onion.
+
+"Well?" she prompted sharply, tapping her knife against the edge of her plate. "Don't just sit there staring into space, Aubrey. Look at me and nod when your mother is talking to you."
+
+Aubrey forced his chin to dip in a small, mechanical nod just to keep her voice from rising any louder in the crowded dining room.
+
+Satisfied by his submission, her posture relaxed slightly, and she launched right back into her monologue. "When I move you into that dormitory tomorrow morning, I expect you to keep your telephone charged and within reach at all times," she said, laying down the rules as though he were a piece of property being placed in temporary storage. "Whenever I decide to call you, you had better answer on the first ring and tap the microphone twice so I know you're in your room where you belong. You don't know a soul at this school, Aubrey, and those college kids are going to be out drinking and running wild. You stay in your room, you go to your little astronomy classes, and when this whole experiment gets to be too much for you—or when it's time for me to come get you for the break—you'll be right where I left you."
+
+Aubrey picked up the burger, took one small, forced bite from the edge, and almost gagged as the sharp, sulfurous bite of raw onion juice and warm mayonnaise coated his tongue. Quietly, he set the burger back down on the stoneware plate and didn't touch it again, picking only at the plain salted fries around the edges while his mother talked uninterrupted for the next twenty minutes—complaining about the highway traffic, the college students crowding Roanoke Street, and how exhausting it was for her to sacrifice her week for his "experiment."
+
+By the time she paid the check and wheeled him back out through the cinnamon-choked gift shop and across the hot asphalt to their first-floor room at the Merit Inn, the late-afternoon sun was slanting low over the Blue Ridge mountains—leaving only the long, dreaded evening routine inside the motel room before Friday morning finally arrived.
+
+### Scene 4: The Routine
+
+**Date:** 2014-08-21 at 20:00 America/New_York
+
+At eight o'clock, Aubrie Sinclair clicked off the motel television, stood up from the edge of the mattress, and marched toward the back corner of the room without a word of warning.
+
+"Come on, Aubrey. Let's get you cleaned up and into bed so I can finally get some rest."
+
+Before he could unlock his own brakes, she kicked the wheel locks loose with the toe of her shoe and shoved his chair toward the bathroom. With a dull *thud*, the front footrests and side frames jammed hard against the narrow wooden doorjamb.
+
+The room was not wheelchair accessible. Just as she had deliberately requested a single king bed instead of two doubles at the front office, his mother had refused to ask for an ADA-accessible room when she booked their stay. To Aubrie Sinclair, who didn't believe in doctors or vaccines and had never once taken him to a physician in his entire life, every single struggle he had—from his silence to his stiff, uncooperative legs—was just stubbornness and a prolonged act of laziness. The only reason he even had the heavy, off-the-shelf pharmacy wheelchair he sat in was because when he had outgrown a toddler stroller before Kindergarten, his legs had buckled and collapsed every time she tried to force him to walk; she had bought the cheap retail chair solely because she got tired of dragging his weight and knew the elementary school would call Child Protective Services if he kept collapsing on the floor. Behind closed doors, however, she still treated the chair like a dramatic prop he didn't actually need. As a result, the motel bathroom doorway was barely twenty-four inches wide, leaving his wheelchair completely stranded out on the worn carpet.
+
+She didn't ask if he was ready, and she didn't explain how she was going to move him. She never had. Reaching down, she yanked his right arm over her shoulder, clamped her hands under his ribs, and hauled him bodily out of the chair. Because his legs couldn't bear his weight at all, his feet dragged helplessly across the raised metal threshold strip as she muscled and lugged him into the cramped, brightly lit bathroom.
+
+"Try to help me, Aubrey, honestly," she muttered through clenched teeth, her breath hot against his ear as she let out a heavy, martyred sigh. "You could stand up and walk across this floor if you weren't so stubbornly lazy. You're eighteen years old and you're making yourself a complete dead weight. My back is killing me."
+
+For the next twenty minutes, Aubrey endured the nightly routine of his care—a process in which he had zero voice, zero privacy, and zero agency.
+
+There were no grab bars beside the low motel toilet, and she didn't step outside or even turn her back to give him a shred of privacy. Instead, she stood directly over him in the tiny room with her arms folded across her chest, tapping her foot impatiently against the linoleum while the fluorescent bulb buzzed overhead. Aubrey kept his eyes fixed on a crack in the floor tiles, detaching his mind from the humiliating steps of how she assisted him and handled the cleanup—rough, mechanical motions best left unsaid, accompanied by her constant, muttered reminders of how grateful he ought to be that his mother still put up with doing this for him.
+
+Bathing was even worse. Instead of a roll-in shower with a transfer bench, the motel bathroom had only a standard, high-sided fiberglass tub right next to the toilet. Without giving him a second to brace his hands against the wall, she tugged his shirt over his head—the collar catching sharply against his ears—and stripped away the rest of his clothes while he sat propped on the toilet. Then, hooking her hands roughly beneath his armpits, she hauled his upper body sideways over the high rim of the tub and lowered him unceremoniously onto the hard fiberglass floor at the bottom of the basin, before grabbing his ankles and swinging his uncooperative legs over the edge after him so his heels thudded against the slick plastic.
+
+She twisted the chrome faucet and switched on the handheld shower wand without testing the water on her wrist first. Aubrey flinched as a jet of overly hot water blasted across his chest and shoulders.
+
+"Hold still," she snapped, not bothering to adjust the dial as she squeezed cheap motel soap onto a stiff washcloth. "I just want to get this over with."
+
+She didn't wash him gently; she scrubbed him the way someone scours a stubborn pan in a sink. With hard, hurried, abrasive strokes, she dragged the rough terrycloth back and forth across his neck, his collarbone, his shoulders, and down his arms, rushing through the chore as fast as her hands could move. Between the overly hot water, his tailbone bruised against the hard fiberglass tub floor, and the coarse cloth scraping his skin raw, it genuinely hurt. When he instinctively tensed to pull his shoulder away, her fingernails dug sharply into his upper arm to pin him in place.
+
+Hot tears welled up and spilled silently down Aubrey's wet cheeks, and before he could stop it, a small, choked whimper of pain escaped his throat.
+
+"SHUT UP! STOP CRYING!" she barked down at him, her voice echoing painfully off the narrow bathroom tile as she scrubbed his shoulder even harder. "Honestly, Aubrey, you are eighteen years old! Stop acting like a baby! If I don't scrub you properly, you're going to smell like a barn in that dormitory, and I am not spending another ten minutes on my knees in this bathroom!"
+
+Aubrey flinched violently at her shout, drawing his shoulders inward and biting down hard on the inside of his lower lip to force the sound back down his throat. The worst part wasn't even the sting of his skin or the volume of her voice—it was how familiar both of them were. By now, after eighteen years under her hands, he was used to the pain. To him, this wasn't an unusually cruel night; it was just another bath.
+
+When she finally shut the water off and yanked a coarse white bath towel around him, she rubbed him dry with the exact same rough, impatient force. By the time she hooked her arms under his shoulders, hauled him back out over the high lip of the tub, and pulled a clean cotton sleep shirt over his head, angry patches of raw, blotchy redness were blooming across his pale neck, shoulders, and forearms where she had abraded his skin.
+
+She didn't bother putting him back into his wheelchair outside the door. Instead, she clamped her hands under his arms, dragged him bodily across the carpet with his legs trailing limp beneath him, and dropped him onto the far edge of the single king bed.
+
+Across the room, his backpack sat untouched in the corner, his heavy laptop still lying dead inside it with the power cord coiled on the floor where she had tossed it that afternoon. She hadn't plugged it in, and she wouldn't let him near it tonight.
+
+As his mother disappeared back into the bathroom to wash her hands and get ready for bed, Aubrey lay rigid on his side at the very edge of the mattress. Because his legs couldn't support him and his wheelchair had been left parked across the room by the doorjamb, he was completely marooned where she had dropped him. The raw, red patches of skin across his shoulders and arms burned warmly against the stiff motel cotton, and a familiar, hollow exhaustion settled behind his eyes. In eighteen years, nobody had ever asked him how the water felt, or asked permission before touching him, or treated his body as anything other than an inconvenient chore to be rushed through and resented.
+
+### Scene 5: One Last Night
+
+**Date:** 2014-08-21 at 21:00 America/New_York
+
+A sharp *click* echoed from the back of the motel room as the bathroom light went out, plunging the space into thick, suffocating darkness.
+
+Lying on his side at the very edge of the single king mattress, Aubrey tensed from head to toe. Without his wheelchair within reach and with legs that couldn't bear an ounce of his weight, he couldn't even scoot himself another inch toward the drop-off. Across the pitch-black room, his laptop lay dead and useless at the bottom of his backpack.
+
+The mattress dipped heavily behind him as his mother climbed under the sheets. On Wednesday night, exhausted from the seven-hour drive up Route 460, she had pulled him against her side and fallen asleep within minutes.
+
+Tonight was different. Tonight was her last night with him before nine o'clock move-in tomorrow morning, and Aubrey could feel the restless, possessive tension radiating off her before her hands even touched him.
+
+"Come here, Aubrey," she whispered in the dark, her voice dropping into a thick, syrupy cadence that made his stomach twist—a jarring, unsettling whiplash from the harsh bark she had used on him in the bathtub twenty minutes ago. "Don't lie all the way over there on the edge like a stranger. It's my last night with my boy."
+
+Before he could brace himself, her hands clamped onto his waist and shoulder, hauling him backward across the sheet until his spine was pressed flush against her front. Aubrey bit the inside of his lip to stifle a wince as her arm wrapped tightly across his collarbone and upper chest, pressing the thin cotton of his sleep shirt directly into the raw, abraded patches of skin she had scrubbed red in the tub. The trapped heat of her skin made the friction burns sting like fire.
+
+Instead of closing her eyes and drifting off, she pulled the heavy motel comforter all the way up to his chin, cocooning him against her chest in a vice-like hold. Her other hand came up to stroke the back of his head, her fingers threading slowly, repeatedly through his damp hair as if he were a five-year-old child—or a prized possession she was preparing to lock in storage for a few weeks.
+
+"Tomorrow morning you're going to get your wish, Aubrey dear," she murmured, her lips brushing close to the back of his ear so every word cut clearly through the muffled static in his head. "You wanted to go away to college so badly. You thought those glossy little brochures meant a place like this was actually built for someone like you."
+
+She let out a soft, knowing sigh against the back of his neck, her arm tightening around his ribs so he couldn't even draw a full breath.
+
+"I let you have your way because I knew it was the only way you'd ever learn," she continued softly in the dark, her thumb tracing a slow, rhythmic circle against his raw shoulder. "I registered you for Astrophysics myself, you know. All those steep mountain hills, all that impossible math, and a building full of eighteen-year-old boys and girls who have their own lives and their own friends. Do you really think any of them are going to want to slow down for you?"
+
+Aubrey stared wide-eyed into the pitch-black void near the curtains, his heart hammering against his ribs. Every muscle in his body was locked as stiff as iron. Instinctively, he tried to shift his shoulder forward a fraction of an inch—just enough to relieve the suffocating heat of her breath on his neck and the sting of her forearm pressing into his abraded skin.
+
+Instantly, her grip clamped down harder, yanking him right back against her chest.
+
+"Stop squirming, Aubrey. Be still," she whispered, an edge of cold steel slipping beneath the syrupy warmth in her voice. "Honestly, after everything I've just done for you in that bathroom—after eighteen years of me sacrificing my back, my time, and my life to take care of you—the least you can do is let your mother hold you on our last night together."
+
+He froze completely, terrified of provoking another outburst in the dark. Satisfied that he had stopped moving, she softened her grip just enough to resume stroking his hair, pressing her cheek against the back of his head in a way that felt claustrophobic, invasive, and deeply wrong.
+
+"Two weeks," she whispered into his hair, sounding almost comforted by her own prediction. "Maybe three, if you're stubborn. And even if you somehow drag this little college experiment out until Fall Break, I'll be right back here in November to pack up your things and bring you home where you belong. Because when you're sitting up in that dormitory all alone in the dark, with nobody to dress you, nobody to clean you up, and nobody who understands a word you're trying to say... you're going to realize that your mother is the only person in this world who will ever love you enough to put up with the burden of you."
+
+She pulled him one last notch tighter against her chest, her fingers tangling firmly in the back of his shirt so that even in sleep he couldn't roll away from her.
+
+"Goodnight, my sweet boy," she murmured against his neck. "I'll see you at Fall Break."
+
+Within ten minutes, her breathing slowed into a heavy, rhythmic cadence against his nape.
+
+Trapped inside the furnace of her arms, with his raw skin burning and his useless legs tangled beneath the heavy blanket, Aubrey felt his throat constrict until he couldn't hold it back anymore. Hot tears welled up in his eyes and spilled silently across the bridge of his nose, soaking into the stiff motel pillowcase beneath his cheek. He began to sob in the dark—completely silent, breathless convulsions that he fought with every ounce of strength to keep from shaking his shoulders, terrified that if his chest hitched even once, she would wake up and bark at him to shut up and stop crying all over again.
+
+As the tears burned against his eyelashes, her whispered words sank their claws deep into his chest. For the first time since he had opened that glossy CPI admissions packet back in Virginia Beach, a cold, hollow terror crept in: *what if, just maybe, she was right?* What if this whole college experiment really was a terrible mistake? Once she drove away at nine o'clock tomorrow morning, how *was* he supposed to unbutton his jeans, or change his clothes, or get onto a toilet when his legs couldn't hold his weight and his hands fumbled with every fastener?
+
+Then, through the blur of his tears, another thought hit him—a fragile, terrifying spark in the dark.
+
+*What about his roommates?*
+
+He knew how college dormitories worked; rooms were assigned by gender, two students to a room, with two rooms sharing a connecting bathroom. Tomorrow or Saturday, another eighteen-year-old guy would be moving into the second bed in Room 214, and right on the other side of the shared bathroom door in Room 216, there would be two more guys. Three guys his own age, living just a few feet away.
+
+*Would they help me?* he wondered, staring into the pitch-black room as another silent tear slipped down his temple. Would the guy sharing Room 214—or one of the two guys in 216—be willing to lend a hand if he got stuck, or help him with a transfer without making him feel like dirt? Or would three normal, able-bodied college guys take one look at a guy in a wheelchair who couldn't talk and couldn't even dress himself, and decide—just like his mother had promised—that he was way too much of a burden to deal with?
+
+He didn't have an answer. And trapped beneath the suffocating weight of his mother's arm, where every square inch of his body still felt like property that didn't belong to him, he couldn't bear to stay inside his own skin another minute to think about it.
+
+With hours of darkness still stretching between him and nine o'clock tomorrow morning, Aubrey did the only thing he knew how to do to survive the night. He bit down on his lip until the silent sobs finally subsided, squeezed his wet eyes shut, let his body go completely wooden, and pulled his mind up and away from the bed—drifting out into a blank, weightless fog where he didn't have to feel her arms, her breath, or the stinging red marks on his skin until the morning light finally came.
 
 ## Early Move-In
 
-### Scene 1: Room 214
+### Scene 1: Eleanor Bennett Commonwealth Hall
 
-**Date:** 2014-08-22 at 09:00 America/New_York
+**Date:** 2014-08-22 at 07:30 America/New_York
 
-After his mother, Aubrie, left with a final wave and a promise to call that evening, Aubrey Jordan Fuller found himself truly alone for the first time in his new dorm room. The quiet of the empty room was a muffled, heavy silence, a welcome relief from the earlier chaos of moving in. He took a long, steadying breath and began to take a proper inventory of the small space—his space.
+When pale gray morning light finally leaked around the edges of the Merit Inn curtains at seven-thirty, the syrupy, possessive warmth from the night before had vanished from Aubrie Sinclair's demeanor as if it had never existed.
 
-The room was tiny, clearly designed for two people but now cramped to fit three due to the university's housing crisis. He flipped the main switch, and a large fluorescent light recessed into the drop ceiling flickered on, bathing the painted cinderblock walls in a harsh, sterile glow. He immediately squinted; the abrupt, glaring light caused the distant corners of the room to blur into a smear, sending a familiar, dull ache throbbing behind his eyes.
+She was brisk, clipped, and all business—a woman with a schedule to keep and a long drive back to Virginia Beach ahead of her. Without a word about how tightly she had held him in the dark, she hauled Aubrey out from under the sheets, dragged him into the narrow bathroom for a rushed morning cleanup, and pulled a fresh polo shirt and jeans onto him while his skin still stung faintly beneath the cotton. His heavy laptop remained zipped inside his backpack in the corner, its battery still completely dead.
+
+By eight o'clock, she had tossed his canvas gym bag, his backpack, and her own overnight bag into the car right outside their first-floor door and wheeled him down the exterior sidewalk to the small lobby breakfast area beside the front desk.
+
+The motel's complimentary continental breakfast was a cramped counter of lukewarm coffee urns, plastic-wrapped pastries, and a humming mini-fridge. His mother didn't ask what he wanted to eat. She parked his wheelchair at a tiny laminate table in the corner, set a pre-packaged blueberry muffin and a small plastic cup of orange juice in front of him, and spent the next fifteen minutes standing near the counter sipping her coffee while she settled the folio and handed in the plastic room key at the front desk. Aubrey ate the dry muffin in silence, grateful simply to have six feet of breathing room between them.
+
+At eight-thirty, she helped him transfer into the front passenger seat of the sedan, folded his heavy manual wheelchair into the trunk, and backed out of the parking space.
+
+Turning right out of the Merit Inn lot onto **Roanoke Street**—where **U.S. Route 11 South** and **U.S. Route 460 West** ran together—she followed the commercial corridor a short distance before taking the right-hand ramp onto the **U.S. Route 460 Bypass** heading northwest toward Blacksburg.
+
+As the sedan accelerated up the four-lane divided highway into the morning mist rising off the New River Valley hills, a large white-and-blue commuter coach crested the grade in the opposite lanes, heading eastbound toward Christiansburg and Roanoke. Squinting through the passenger window as the bus swept past across the grassy median, Aubrey caught a fleeting blur of the bright amber LED destination sign above its windshield, alternating between **`81 ROANOKE EXP`** and **`81 via CBURG TRANS CTR`**.
+
+A mile later, the synthesized voice of the dashboard GPS chimed over the hum of the tires.
+
+*In half a mile, take Exit 6 for Southgate Drive toward Commonwealth Polytechnic Institute.*
+
+His mother signaled and eased down the exit ramp onto **Southgate Drive**, entering the sprawling southern gateway of the university. At the second roundabout, following the GPS prompts, she took the second exit onto **Duck Pond Road**.
+
+Aubrey pressed closer to the glass, squinting hard as the campus unfolded to their right. First came the brick-and-stone grandstands and manicured emerald turf of **Foundry Field**, the university's baseball stadium, followed moments later by the dense, manicured canopy and flowerbeds of the **CPI Horticulture Garden**. Even through the soft blur of distance, the sheer scale of the university felt vast, green, and alive.
+
+At the top of the road, the GPS instructed her to turn right onto **Washington Street SW**.
+
+They rolled past the intersection of **West Campus Drive**. To their right opened a vast expanse of asphalt—the main arena parking lot fronting **The Furnace**, CPI's massive, arched-roof basketball coliseum. Directly to their left, built into the steep downward slope of the terrain and clad in rugged, rough-cut gray **Ironstone**, stood a six-story residence hall that looked like an aging fortress: **Eleanor Bennett Commonwealth Hall**—known on his housing paperwork simply as **Bennett Hall**.
+
+Because Ms. Higgins had coordinated with Housing to grant Aubrey a Friday morning early move-in accommodation—a full twenty-four hours before Saturday's main freshman move-in day—the arena parking lot across the street was nearly empty, with no move-in volunteers or luggage carts anywhere in sight.
+
+Fortunately, they didn't need a luggage cart at the car. Because his folded manual wheelchair took up nearly the entire trunk, his heavy items—his pillows, blankets, sheets, and towels—had been mailed ahead and were waiting inside in Bennett Hall's mail room. All they had in the car for him were his backpack—weighed down by his dead laptop, its power brick, his power strip, and the snacks and sandwiches his mother had packed—and his canvas gym bag full of clothes.
+
+"Alright, Aubrey, let's get this done so I can get back on the road before the traffic starts," she said, unfolding his wheelchair behind the bumper. After helping him into the seat, she looped the straps of his heavy backpack over the push-handles behind his shoulders and slung his canvas gym bag over her own shoulder.
+
+She wheeled him across **Washington Street SW**, stopping right in front of the dormitory's street-level glass doors. Built with a grand Ironstone archway and wide automatic doors, the entrance on Washington Street SW looked every bit like a main entrance—and because the street sat at the top of the ridge, it opened directly onto the building's **Second Floor**, the exact floor where **Room 214** was located.
+
+Instead of pressing the door button, however, his mother frowned and stopped dead on the sidewalk, squinting at the stonework.
+
+"No, this can't be the main entrance," she muttered to herself with absolute, unshakeable authority. "Dormitory main entrances and check-in desks always face the inner campus quad, not the back street. I remember how college campuses are laid out. The front desk is going to be on the other side at the bottom of the hill."
+
+Even if she had simply rolled through those street-level doors, she would have found herself on the **Second-Floor Lobby**—an open mezzanine atrium overlooking the **First-Floor Lobby** below, with a wide central staircase in the middle and the elevators tucked right off to the side to take them down one level to the front desk and mail room.
+
+Instead, refusing to even peek inside the glass, Aubrie Sinclair turned and muscled Aubrey's wheelchair—weighed down by the heavy laptop backpack hanging off the handles—all the way down the long, steep outdoor paved walkway that wrapped around the side of the building toward the inner campus at the bottom of the hill. With his gym bag digging into her shoulder, she braced her heels against the steep downward grade the entire way, muttering breathlessly under her breath about how absurdly hilly the campus was and how awful this was on her back.
+
+At the bottom of the slope on the inner-campus side, they rolled through the identical grand archway into the **First-Floor Lobby**, which housed the main front desk, the **Bennett Hall Mail Room**, the Hall Director's office, and the university's main **Office of Housing and Residence Life**.
+
+After a quick five-minute check-in at the first-floor desk to activate his **Poly Pass** room access, the student worker stepped into the adjacent mail room and slid a large, heavily taped cardboard parcel box across the counter—the box of pillows, blankets, sheets, and towels his mother had shipped from Virginia Beach earlier in the week.
+
+Rather than carrying the bulky box herself, his mother hoisted the cardboard carton off the counter and set it squarely onto Aubrey's lap across his armrests. Huddled behind the tall cardboard box with his arms wrapped around its taped corners to keep it from sliding off his knees, Aubrey could barely see over the top as she steered his chair into the elevator off to the side and pressed **`2`**.
+
+When the elevator doors slid open one floor up into the **Second-Floor Atrium Lobby**—looking down over the wide central staircase at the first-floor desk and mail room they had just left—Aubrey's eyes drifted around the edge of the box straight across the floor to the exterior glass doors opening right onto **Washington Street SW**, ten feet from the crosswalk where they had started.
+
+His mother's jaw tightened for a fraction of a second as she saw the street-level doors, realizing she had just wrestled his wheelchair all the way down a steep outdoor hill only to ride an elevator right back up to street level. True to form, she didn't say a single word about it, marching briskly past the atrium railing and down the quiet second-floor residential corridor until they stopped outside **Room 214**.
+
+Moving one hand off the box on his lap, Aubrey pulled his new **Poly Pass** from his pocket and held it up to the black sensor box mounted beside the heavy wooden door. With a soft electronic beep and the whir of a motor, the door swung inward automatically.
+
+His mother wheeled him inside, lifted the bulky cardboard mailroom box off his lap, and dropped it unopened on the floor beside the bare standalone bed on the right-hand wall, sliding his zipped canvas gym bag off her shoulder to land right beside it. Then she unhooked his backpack—with his dead laptop still inside—from the push-handles and set it down by the desk. She didn't offer to help him cut open the taped box, put sheets on the bare mattress, unpack his gym bag into the dresser, or plug his computer into the wall.
+
+Instead, she walked back to the open doorway, turned around, and put on a bright, brittle smile for the empty hallway.
+
+"I'm so proud of you—a real college kid now!" she announced, her voice carrying that practiced, theatrical warmth she always used when other people might be within earshot. "An adult, living on your own!"
+
+Then she stepped half a pace back across the threshold, her smile flattening as her eyes locked onto him in the chair.
+
+"You keep that cell phone charged and right in your pocket, Aubrey," she said in a low, clipped voice. "When I call you, I expect you to pick up on the first ring. Do you understand me?"
+
+Voiceless without his laptop, Aubrey gave a single, stiff nod.
+
+Satisfied, his mother gave a brisk wave, turned on her heel, and marched back down the tiled corridor toward the Washington Street atrium doors. Seconds later, the hydraulic arm above the doorframe sighed, and the heavy wooden door of Room 214 swung shut with a solid, definitive *click*.
+
+### Scene 2: Room 214
+
+**Date:** 2014-08-22 at 09:15 America/New_York
+
+As the heavy wooden door of Room 214 clicked shut behind his mother's brisk footsteps, Aubrey Jordan Fuller found himself truly alone for the first time in his new dorm room. The quiet of the empty space was a muffled, heavy silence—a sudden, breathtaking relief after the suffocating night at the motel and the rushed chaos of unloading the car. He took a long, steadying breath and began to take a proper inventory of the small space—*his* space.
+
+The room was tiny, clearly designed for two people but now cramped to fit three due to the university's housing crisis. He flipped the main switch by the entry, and a large fluorescent light recessed into the drop ceiling flickered on, bathing the painted cinderblock walls in a harsh, sterile glow. He immediately squinted; the abrupt, glaring light caused the distant corners of the room to blur into a smear, sending a familiar, dull ache throbbing behind his eyes.
 
 He rolled forward and looked back at the heavy, dark wood door he'd just entered. From the hallway, he'd tapped his new CPI Poly Pass on the reader, and the door had automatically swung *inward* to let him pass. On the inside wall, tucked over by the frame on the right, he saw the corresponding silver push button stamped with a blue wheelchair symbol. Rolling a few inches closer and narrowing his eyes to focus, he could just make out the brass fixtures embedded in the solid wood of the door: two distinct peepholes, one drilled at standard standing height, and a second one positioned right at his eye level in the chair.
 
-To his immediate left was a closed door, which he knew led to the shared toilet room. He wheeled over and opened it, confirming what he'd seen on the housing tour: a small, functional room containing only a toilet, fitted with sturdy metal bars mounted along the wall beside it. He saw the second door on the opposite wall, the one that connected to Room 216.
+To his immediate left was a closed door, which he knew led to the shared toilet room. He wheeled over and opened it, confirming what he'd been told at check-in: a small, functional room containing only a toilet, fitted with sturdy metal grab bars mounted securely along the walls beside it. Across the small tiled space, he saw the second door on the opposite wall—the one that connected to Room 216.
 
-Back in the main room, he noted the sink and mirror area next to the toilet door. He rolled his wheelchair closer, a small smile touching his lips as he saw the open space underneath. It was a roll-under sink, intentionally designed without a cabinet so he could get close to the basin.
+Back in the main room, he noted the sink and mirror area next to the toilet door. He rolled his wheelchair closer, a small smile touching his lips as he saw the open space underneath. It was a roll-under sink, intentionally designed without a cabinet so he could pull his knees right up under the basin.
 
 He wheeled toward the single window set in the center of the far wall and turned his chair around to take in the full layout of the room.
 
-To his right, looking back toward the wooden entry door, was a standalone, single Twin XL bed with a solid wood frame—Bed A, his assigned spot. A matching wooden desk was wedged tightly between the headboard and the front wall of the room.
+To his right, looking back toward the wooden entry door, was a standalone, single Twin XL bed with a solid wood frame—Bed A, his assigned spot. His zipped canvas gym bag and the large, unopened cardboard parcel box from the first-floor mail room sat on the floor right where his mother had left them. A matching wooden desk was wedged tightly between the headboard and the front wall of the room.
 
 To his left, occupying the opposite cinderblock wall, was a sturdy set of wooden bunk beds.
 
-Both bed setups currently held nothing but bare, clinical mattresses, waiting for the pillows and blankets he'd brought in his suitcase.
+Both bed setups currently held nothing but bare, clinical mattresses, waiting for the pillows, sheets, and blankets still taped inside his mailed cardboard box.
 
-He counted the rest of the furniture. Two desks, two dressers, and two nightstands. This confirmed the room's original two-person design. His future roommates, the ones assigned to the bunk beds where the push button was hidden, would have to share a desk and a dresser. This was it. College.
+He counted the rest of the furniture. Two desks, two dressers, and two nightstands. That confirmed the room's original two-person design. Until he had rolled through the door ten minutes ago, he had assumed he would only be sharing Room 214 with one other guy, with two guys on the other side of the bathroom in Room 216. Instead, the university had squeezed a bunk bed in against the wall—meaning his two future roommates in 214, whoever those guys were, would have to share a single desk and dresser between them.
 
-### Scene 2: The Awkward Outlet
+This was it. College.
+
+### Scene 3: The Awkward Outlet
 
 **Date:** 2014-08-22 at 13:00 America/New_York
 
@@ -188,23 +422,23 @@ Isabel saw the problem instantly. "Oh yeah, that's a terrible spot for an outlet
 
 He handed her the power strip that he pulled out of his backpack. She plugged the power strip into the wall outlet and then neatly ran the cord up to his desk, securing the strip on top with a piece of reusable adhesive she produced from her pocket. "There," she said with a smile, raising her volume slightly after noticing his cupped ear. "Now you can plug anything you want in right from your desk".
 
-Aubrey immediately plugged in his adapter and waited for the slow Quantum OS 7 system to boot up. Once the desktop appeared, he opened <aac>SimplySpeak</aac>, hunching uncomfortably close to the monitor and squinting intensely to make out the keys as he typed. He hit the execute key.
+Aubrey immediately plugged in his adapter and waited for the slow Quantum OS 7 system to boot up. Once the desktop appeared, he opened *SimpleSpeak*, hunching uncomfortably close to the monitor and squinting intensely to make out the keys as he typed. He hit the execute key.
 
-*Wow. Thanks. Thank you,* the robotic, digitized voice announced to the room. Aubrey looked up, offering a genuinely grateful smile.
+<aac>Wow. Thanks. Thank you,</aac> the robotic, digitized voice announced to the room. Aubrey looked up, offering a genuinely grateful smile.
 
 Isabel didn't bat an eye at the synthesized voice. "Don't mention it. Do you need a hand with anything else? Getting your bed set up?"
 
 Aubrey hesitated, then nodded. He turned back to the screen and typed again.
 
-*Actually, yeah. The pillows and blankets are kind of a pain.*
+<aac>Actually, yeah. The pillows and blankets are kind of a pain.</aac>
 
-For the next ten minutes, Isabel helped him make his bed, placing his pillows and blankets exactly how he liked them. She even helped him unpack his main suitcase, putting his clothes away in the dresser drawers. She was efficient, friendly, and didn't make him feel like a burden.
+For the next ten minutes, Isabel helped him peel open the heavy packing tape on the cardboard box from the mail room and make his bed, placing his sheets, pillows, and blankets exactly how he liked them. She even helped him unpack his canvas gym bag, putting his folded clothes neatly away in the dresser drawers. She was efficient, friendly, and didn't make him feel like a burden.
 
 "There you go," she said finally. "All set". She paused at the door. "Seriously, Aubrey, if you need any help with anything, you just find me or any of the other RAs, or the hall director. That's what we're here for".
 
 Aubrey leaned close to the keyboard and typed a final message.
 
-*I will. Thank you, Isabel. Do you know who my two roommates are? Or when they will arrive?*
+<aac>I will. Thank you, Isabel. Do you know who my two roommates are? Or when they will arrive?</aac>
 
 Isabel gave him an apologetic look. "I'm sorry, I don't have that information," she explained. "Since I'm not the regular RA for this floor, I don't have access to the detailed room roster with names and arrival times. I'm just helping out with early check-ins today".
 
@@ -212,7 +446,7 @@ She then offered a reassuring smile. "But I do know that the main move-in day st
 
 Aubrey nodded, a wave of both relief and nervousness washing over him. One night of peace before meeting the two strangers who would become his new roommates.
 
-### Scene 3: Stranded
+### Scene 4: Stranded
 
 **Date:** 2014-08-22 at 14:00 America/New_York
 
@@ -222,31 +456,19 @@ His original plan for the afternoon had been to venture outside, explore the spr
 
 He spent the rest of the day in his room alone, content in his new space. He had snacks and sandwiches his mom had packed in his bag, so he didn't have to brave the weather anyway. The steady drum of the rain made his quiet, solitary room feel like the coziest place in the world.
 
-As evening eventually fell, the rain continued its soothing rhythm against the window. Aubrey finished the last of his sandwiches and felt a wave of exhaustion from the emotional and physical toll of the day. It was time for bed. He wheeled himself over to his dresser where Isabel had so neatly placed his clothes and pulled out a soft t-shirt and a pair of pajama pants. He looked at them, then down at the jeans and layered shirts he was still wearing.
+As evening eventually fell, the rain continued its soothing rhythm against the window. At seven o'clock, Aubrey glanced nervously toward his basic cell phone resting on the corner of his desk, bracing himself for the sharp ring of the evening check-in call his mother had demanded at dinner the night before. Seven o'clock came and went. Then seven-thirty. Then eight. The small screen remained completely dark and silent.
 
-A familiar knot of anxiety tightened in his stomach. At home, his mother would help him. Her assistance was a routine part of his day, a seamless act of care. Here, alone, the simple act of changing clothes felt like an insurmountable mountain. He thought about what Isabel had said: *if you need any help with anything*. But the thought of asking a complete stranger for help with something so personal filled him with a profound sense of mortification.
+He finished the last of his sandwiches and felt a wave of exhaustion from the emotional and physical toll of the day. It was time for bed. He wheeled himself over to his dresser where Isabel had so neatly placed his clothes and pulled out a soft t-shirt and a pair of pajama pants. He looked at them, then down at the jeans and layered shirts he was still wearing.
+
+A familiar knot of anxiety tightened in his stomach. At home—and in the motel room last night—his mother had always done it for him. Her hands had been rough, hurried, and impatient, always making sure he knew what a burden he was, yet she had never once allowed or taught him to do it himself. Here, alone, the simple act of changing clothes felt like an insurmountable mountain. He thought about what Isabel had said: *if you need any help with anything*. But the thought of asking a complete stranger for help with something so personal filled him with a profound sense of mortification.
 
 He sat there for a long time, weighing the physical discomfort of sleeping in his day clothes against the social agony of asking for help. The denim of his jeans felt restrictive, and he knew he would be hot and twisted in them by morning. With a sigh of resignation, he put the pajamas back in the drawer.
 
-He maneuvered himself from his wheelchair onto his bed, a practiced but still strenuous motion. At least he could get his shoes off. He hooked the heel of one sneaker on the toe of the other and pushed until it came loose, dropping to the floor with a soft thud. He did the same with the second shoe. It was a small measure of comfort, but it came with a sharp cost. He stared at the shoes on the floor. He wouldn't be able to put them back on. He couldn't reach them from his chair, and even if he could, he didn't know how to tie the laces. His mother had never taught him. She had never prepared him for any of this.
+He maneuvered himself from his wheelchair onto his bed, a practiced upper-body motion that still left his arms aching. At least he could get his shoes off. He hooked the heel of one sneaker on the toe of the other and pushed until it came loose, dropping to the floor with a soft thud. He did the same with the second shoe. It was a small measure of comfort, but it came with a sharp cost. He stared at the shoes on the floor. He wouldn't be able to put them back on. He couldn't reach them from his chair, and even if he could, he didn't know how to tie the laces. His mother had never taught him. She had never prepared him for any of this.
 
-Her parting words echoed in his mind, dripping with a pride that now felt corrosive. "I'm so proud of you, a real college kid now! An adult, living on your own".
+Her parting words from that morning echoed in his mind, dripping with a pride that now felt corrosive. *"I'm so proud of you, a real college kid now! An adult, living on your own."*
 
-Living on my own, he thought with a bitter pang of clarity. She had said it with a beaming smile, but what did it really mean? She had dropped him in a dorm room hours from home without ever teaching him how to dress himself, cook a simple meal, or navigate the hundred small tasks she had always just... done. The honest, painful truth began to settle in his chest: maybe she wasn't proud of his independence. Maybe she was just glad to be rid of the burden. The thought was a cold stone in his gut. All her talk of him being an adult felt like a convenient excuse to finally be free of him.
-
-### Scene 4: Bedtime
-
-**Date:** 2014-08-22 at 22:00 America/New_York
-
-As evening fell, the rain continued its soothing rhythm against the window. Aubrey felt a wave of exhaustion from the emotional and physical toll of the day. It was time for bed. He wheeled himself over to his dresser where Isabel had so neatly placed his clothes and pulled out a soft t-shirt and a pair of pajama pants. He looked at them, then down at the jeans and layered shirts he was still wearing.
-
-A familiar knot of anxiety tightened in his stomach. At home, his mother had always changed him; her assistance was a routine part of his day that she completely controlled. Here, alone, the simple act of changing clothes felt like an insurmountable mountain. He simply didn't know how to get himself changed. With a heavy sigh of resignation, he put the pajamas back in the drawer.
-
-He maneuvered himself from his wheelchair onto his bed, a practiced but still strenuous motion. At least he had managed to get his shoes off earlier. Lying on top of the covers, still in his constricting day clothes and shoeless, he stared up at the dark ceiling.
-
-At least he had the room to himself for tonight.
-
-Tears welled in his eyes, blurring the dim room even further, and slipped silently down his cheeks. He cried himself to sleep in the dark, unfamiliar room. The tears were born of a deep, agonizing conflict: on one hand, he was overwhelmingly grateful to finally be away from his mother's suffocating presence, but the chilling, painful truth settling heavily in his chest was that she had purposefully left him helpless. He did not know how to take care of himself.
+*Living on my own,* he thought with a bitter pang of clarity. She had said it with a beaming smile right before walking out the door, leaving his gym bag unpacked, his mailed box of bedding taped shut, and his bed bare, and she hadn't even bothered to call him at seven o'clock like she had sworn she would. She had dropped him in a dorm room hours from home without ever teaching him how to dress himself, cook a simple meal, or navigate the hundred small tasks she had always just... done. The honest, painful truth began to settle in his chest: maybe she wasn't proud of his independence. Maybe she was just glad to be rid of the burden until she felt like claiming him again. The thought was a cold stone in his gut. All her talk of him being an adult felt like a convenient excuse to finally be free of him.
 
 ## The Mix-Up
 
@@ -274,9 +496,9 @@ Around mid-morning, his door swung open. A young woman with her arms full of bag
 
 Her voice cut through his sleep. Aubrey jolted awake, his heart hammering. He slowly sat up, disoriented, squinting at the blurry figure of a girl standing in his room. His stomach clenched; he was stiff, uncomfortable, and felt a flush of shame.
 
-He frantically reached for his heavy laptop resting nearby, popping the lid open. He hunched close to the screen, his fingers clumsy as he typed into his <aac>SimpleSpeak</aac> software. He hit the execute key.
+He frantically reached for his heavy laptop resting nearby, popping the lid open. He hunched close to the screen, his fingers clumsy as he typed into his *SimpleSpeak* software. He hit the execute key.
 
-*Is this room 214?* the robotic voice asked, flat and emotionless.
+<aac>Is this room 214?</aac> the robotic voice asked, flat and emotionless.
 
 "Yeah, but..." She didn't flinch at the synthesized voice. She just glanced at the name card on the open door. "My room is 214. I'm Aubrie Jean Kelly".
 
@@ -360,7 +582,7 @@ He was so taken aback by the simple act of being asked that his hands shook as t
 
 He finished typing and clicked the play button on his *SimpleSpeak* software.
 
-*I don't want to cause a problem,* the robotic, digitized voice announced to the huddle.
+<aac>I don't want to cause a problem,</aac> the robotic, digitized voice announced to the huddle.
 
 "It's not your fault," Madison said firmly, completely unbothered by the synthesized voice. "It's the university's mess."
 
@@ -370,17 +592,17 @@ With the tension broken and Kelsey and Henry leaving relieved, the group began t
 
 Aubrey leaned close to his screen again, squinting to bring the keys into focus as he typed out a response. He clicked play.
 
-*My mom's name is Aubrie, too. Different spelling. She said she put 'Aubrey' on my birth certificate as a joke that just kind of... stuck.*
+<aac>My mom's name is Aubrie, too. Different spelling. She said she put 'Aubrey' on my birth certificate as a joke that just kind of... stuck.</aac>
 
 He paused, his fingers hovering over the keys. He took a slow, deep breath. He looked around at the five young women who had just chosen to stay with him, who hadn't pitied him, who had included him. He seized his first small act of defiance against a lifetime of his mother's absolute control. He typed again.
 
-*But... you can call me Jordan. It's my middle name. I think I'll go by Jordan here.*
+<aac>But... you can call me Jordan. It's my middle name. I think I'll go by Jordan here.</aac>
 
 "Jordan," Aubrie repeated, nodding approvingly. "I like it. Hey, what's your major?"
 
 Jordan hesitated, his stomach tightening as his fingers moved over the keys to type the name of the complex degree his mother had chosen explicitly to prove he would fail.
 
-*Astrophysics,* the flat, robotic voice stated.
+<aac>Astrophysics,</aac> the flat, robotic voice stated.
 
 Instead of pity or confusion, Aubrie's eyes lit up brightly. "No way! Me too!"
 
@@ -394,7 +616,7 @@ It was Madison who brought up making the name change official right away. A few 
 
 Feeling braver with Aubrie's hand in his, Jordan used his free hand to flip open the lid of his heavy, battered laptop resting securely on his lap. The old machine, running Quantum OS 7 Home Basic, whirred loudly. He hunched close to the dim display, squinting hard as his fingers clumsily navigated the keyboard to type into his *SimpleSpeak* software. He hit the execute key.
 
-*Henry, sorry to bother you again,* the robotic, digitized voice announced to the small office. *But since the name 'Aubrey' caused this whole mess, and I hate it anyway, is there any way we can get a new door card? I go by my middle name, Jordan.*
+<aac>Henry, sorry to bother you again,</aac> the robotic, digitized voice announced to the small office. <aac>But since the name 'Aubrey' caused this whole mess, and I hate it anyway, is there any way we can get a new door card? I go by my middle name, Jordan.</aac>
 
 "Yeah, absolutely, man," Henry said, eager to make up for the morning's chaos. "I can print you a new door card right now."
 
@@ -402,7 +624,7 @@ As the printer whirred, Henry turned his monitor toward them. "We should do one 
 
 Jordan leaned forward in his wheelchair, squinting intensely at Henry's monitor just to make out the small, blurry text on the screen. Once the letters finally resolved into focus, he typed a quick response.
 
-*Wow. Thank you, Henry,* the mechanical voice stated, conveying a surge of genuine relief.
+<aac>Wow. Thank you, Henry,</aac> the mechanical voice stated, conveying a surge of genuine relief.
 
 With the newly printed card in hand, Henry walked with the trio back down the bustling corridor. To Jordan, the chaotic noise of the move-in crowds was a loud, muffled drone. As they navigated around the rolling bins of moving students, the conversation turned to their rumbling stomachs.
 
@@ -410,7 +632,7 @@ With the newly printed card in hand, Henry walked with the trio back down the bu
 
 Jordan instinctively cupped his hand slightly behind his ear to catch Madison's words over the hallway din. He hurriedly balanced his laptop on his knees to type.
 
-*Oh, you don't have to—* the text-to-speech engine began, but he was interrupted before he could type the rest.
+<aac>Oh, you don't have to—</aac> the text-to-speech engine began, but he was interrupted before he could type the rest.
 
 "We insist," Aubrie cut in smoothly, giving his wheelchair a gentle nudge forward. "We're a suite now. We eat together."
 
@@ -450,7 +672,7 @@ Before he could process the blunt but accurate observation, a wave of collective
 
 Jordan looked up, nervous and surprised. He quickly hauled his heavy laptop onto his lap and popped the lid open. He hunched uncomfortably close to the screen, squinting intensely as his fingers found the keys to type into his *SimpleSpeak* software. He hit the execute key.
 
-*Oh. You do not have to...* the flat, digitized voice announced to the room.
+<aac>Oh. You do not have to...</aac> the flat, digitized voice announced to the room.
 
 "We want to," Aubrie insisted, completely unfazed by the software as she already moved to position herself behind his wheelchair. "You're our suitemate. Our family, for the next two weeks at least. We stick together."
 
@@ -486,9 +708,9 @@ Aubrie caught the movement. Acting on pure instinct, she leaned in close, cuppin
 
 Jordan froze, his eyes widening. He had never heard a voice so clearly in a crowded room before. It was a revelation. He looked back toward the blurry menus, completely overwhelmed by the choices. His entire life, food had been a simple, non-negotiable command. His mother made something, and he ate it. He was never asked what he wanted.
 
-He turned back to his laptop, squinting hard as he typed into <aac>SimpleSpeak</aac>. He clicked the execute key.
+He turned back to his laptop, squinting hard as he typed into *SimpleSpeak*. He clicked the execute key.
 
-*Can I... can I have the grill? A cheeseburger? And... fries?* the robotic voice asked, sounding small but hopeful. His mother never allowed such things.
+<aac>Can I... can I have the grill? A cheeseburger? And... fries?</aac> the robotic voice asked, sounding small but hopeful. His mother never allowed such things.
 
 "A burger? Heck yeah. Good choice," Aubrie beamed, not blinking an eye at the synthesized voice.
 
@@ -542,7 +764,7 @@ The seven of them filed into the cramped room. Mark, Hannah, Lauren, and Zoë fo
 
 A sudden, urgent pressure hit Jordan. A sudden flush of embarrassment creeping up his neck, he looked toward the connecting bathroom door. He hurriedly pulled his heavy laptop onto his lap, popping the lid open to type out a request for assistance.
 
-He got as far as typing *I need to use—* before the screen flickered, froze, and went completely black. The ruined battery had died yet again.
+He got as far as typing <aac>I need to use—</aac> before the screen flickered, froze, and went completely black. The ruined battery had died yet again.
 
 Jordan froze, panic and mortification flooding his face. He gestured helplessly toward the dead machine and then pointed toward the bathroom door, completely unable to voice his urgent need.
 
@@ -566,9 +788,19 @@ Aubrie, despite her racing pulse and the undeniable butterflies swirling in her 
 
 He swallowed hard, his breathing shallow, and gave a small, shaky nod.
 
-Instead of just reaching for his waistband, she pointed to it. "Do you want me to unbutton your jeans first?" He nodded. She did it slowly, deliberately, ensuring he was comfortable with every single movement. "Okay. Do you need me to help you pivot to the grab bars, or just support your waist?" She pantomimed the motions, giving him the power to choose.
+Instead of just reaching for his waistband, she pointed to it. "Do you want me to unbutton your jeans first?" He nodded. She did it slowly, deliberately, ensuring he was comfortable with every single movement. "Okay. Since your legs can't bear weight, do you want to hold onto the grab bar while I lift and swing you over?" She pantomimed the motions, giving him the power to choose.
 
-It was a painstakingly careful process of trial and error, but she assisted him with a gentle, clinical respect that completely bypassed the awkwardness of the situation. For Jordan, it was a revelation. She was asking for his consent. She was treating his body with a dignity his mother had never shown him. Aubrie found that she cared far more about protecting his dignity than she did about her own embarrassment.
+Once he was finished and safely back in his chair at the roll-under sink, Aubrie ran the faucet until the water was gently warm, wet a soft hand towel with soap, and reached out to help wash his hands and forearms.
+
+The instant the cloth neared his skin, Jordan flinched violently, his shoulders hunching up toward his ears and his eyes squeezing shut as he braced for the harsh, painful scouring and the inevitable shout he had known at every bath for eighteen years.
+
+Aubrie froze immediately, pulling her hand back an inch. Her hazel eyes dropped to his forearms and the edge of his collar, where faint, blotchy patches of raw redness from his mother's rough scrubbing at the motel two nights ago were still visible against his pale skin. Her chest tightened with a sudden, fierce ache as she realized *why* he had flinched. He didn't even know what a gentle touch felt like.
+
+"Hey... Jordan, open your eyes," Aubrie whispered softly, holding the warm cloth still in the air where he could see it. "I'm not going to hurt you. Ever. Feel the water first, okay?"
+
+She waited until he slowly opened his eyes, then let his fingertips brush the soft terrycloth so he could feel that it wasn't scalding. Only when he gave a tiny nod did she gently press the warm cloth to his wrists and forearms—using slow, feather-light strokes without a single ounce of force or impatience, before patting his skin dry with a clean towel.
+
+It was a painstakingly careful process, but she assisted him with a tender, clinical respect that completely bypassed the awkwardness of the situation. For Jordan, sitting there with his heart pounding in his throat, it was an earth-shattering revelation. He hadn't known kindness like this existed until he met Aubrie Kelly. She was asking for his consent. She was treating his body with a gentleness and dignity his mother had never once shown him, and Aubrie found that she cared far more about protecting his dignity than she did about her own embarrassment.
 
 When the door clicked open a few minutes later and Aubrie wheeled Jordan back into the main room, she was met with a wall of knowing, playful looks.
 
@@ -618,13 +850,13 @@ Daniel bypassed the girls and walked directly over to Jordan. He didn't loom ove
 
 "You must be Jordan," Daniel said, his voice a deep, reassuring rumble that carried the same distinct London accent as his daughter, but with absolutely zero anger. "Zoë tells me your computer gave up the ghost. I'm Daniel."
 
-He gently placed the laptop case on Jordan's desk and popped the lid open. The machine booted almost instantaneously.
+He gently placed the laptop case on Jordan's desk, unzipped it, and popped the matte-black lid open. Even at a glance, the machine was built like an absolute tank—an enterprise-grade business notebook with a rigid magnesium-alloy frame and a crisp, tactile keyboard. It booted almost instantaneously.
 
-"It's an older Pinnacle Vanguard Pro," Zoë explained, stepping up beside her father. "I wiped Quantum OS off it ages ago. It currently runs a custom distribution of Aura Glade. It is visually identical to what you are used to, but requires a fraction of the processing power."
+"It's a Pinnacle Vanguard Pro," Zoë explained, stepping up beside her father. "Originally engineered by Atlas before Pinnacle bought their hardware division—built solid to last for years. Dad and I just snapped a brand-new, fresh extended-capacity battery pack into the back before he drove over, so it will easily hold a charge all day. And I wiped Quantum OS off it ages ago; it currently runs a custom distribution of Aura Glade, which is visually identical to what you are used to, but requires a fraction of the processing power."
 
 She tapped the trackpad, bringing up a clean, minimalist text box. "I also pre-installed a program called *EchoType*. It synthesizes speech locally, meaning you won't experience latency issues. And don't worry about network connectivity; the wireless card driver on this model was notoriously stubborn, so I manually compiled a patch in the terminal to force the hardware handshake a while back. The connection is entirely stable."
 
-"It's yours to use for as long as you need it, son," Daniel finished for her, placing the power adapter gently on the desk. "No strings attached."
+"It's yours to use for as long as you need it, son," Daniel finished for her, setting the power adapter and the sealed box from the fresh battery gently on the desk. "No strings attached."
 
 Jordan stared at the man, his mind struggling to process the interaction. There was no shouting. There was no accusation. There was just a father looking at him not as an intruder, but with the same unconditional kindness his daughter had shown. In that simple, quiet moment in Room 214, a tiny seed was planted in Jordan's chest—the fragile, miraculous hope that maybe, just maybe, he was finally safe.
 
@@ -662,7 +894,7 @@ He bypassed the male options entirely. He scrolled down and paused on a female v
 
 He selected the profile, typed a quick sentence into the text box while the machine rested securely on his lap, and hit the execute key.
 
-*Testing. This is my new voice,* the crisp, female, Australian-accented voice announced to the crowded room.
+<aac>Testing. This is my new voice,</aac> the crisp, female, Australian-accented voice announced to the crowded room.
 
 Jordan instantly tensed, bracing his shoulders. He waited for someone to tell him it was wrong, or weird, or unacceptable for a guy to use a female voice.
 
@@ -716,7 +948,7 @@ As they sat with him, keeping the atmosphere light and comfortable, the two wome
 
 It was 8:00 PM, and the steady drum of rain against the window made the small cinderblock room feel like a quiet, isolated cocoon. Jordan shifted uncomfortably in his wheelchair, a sudden, urgent pressure making him wince. He hurriedly pulled the Pinnacle Vanguard Pro onto his lap, his fingers finding the keys.
 
-*I need to use the bathroom again,* the crisp, Australian-accented voice of *EchoType* announced to the room.
+<aac>I need to use the bathroom again,</aac> the crisp, Australian-accented voice of *EchoType* announced to the room.
 
 "I'll help!" Aubrie volunteered instantly, springing up from the lower bunk.
 
@@ -866,9 +1098,9 @@ For Jordan, the experience was earth-shattering. As they helped him out of his c
 
 Back in the suite, clean and dressed, the sense of camaraderie was stronger than ever. Madison knelt to tie his shoes, her movements efficient but gentle. When she finished, she looked up and smiled. "All set."
 
-Jordan looked at her, then at Aubrie, then towards the connecting door of Room 216 where the others were. He thought of the hug, of waking up safe in Aubrie’s arms. He wanted—no, needed—to know that feeling again from the rest of his new family. He took a deep breath, his heart pounding with the audacity of his request, and hauled his new Vanguard Pro laptop onto his lap. He hunched over the keyboard, squinting closely at the screen as he typed into <aac>EchoType</aac>. He hit the execute key.
+Jordan looked at her, then at Aubrie, then towards the connecting door of Room 216 where the others were. He thought of the hug, of waking up safe in Aubrie’s arms. He wanted—no, needed—to know that feeling again from the rest of his new family. He took a deep breath, his heart pounding with the audacity of his request, and hauled his new Vanguard Pro laptop onto his lap. He hunched over the keyboard, squinting closely at the screen as he typed into *EchoType*. He hit the execute key.
 
-*Madison?* the crisp, Australian-accented female voice asked. *Can... can I have a hug, too?*
+<aac>Madison?</aac> the crisp, Australian-accented female voice asked. <aac>Can... can I have a hug, too?</aac>
 
 Her cheerful expression softened instantly. "Of course, sweetie." She leaned forward, wrapping her arms around his shoulders and pulling him into a warm, strong embrace. It was different from Aubrie's, more solid and straightforward, but just as wonderful.
 
@@ -934,7 +1166,7 @@ After breakfast, as they walked across the main quad to locate their classroom b
 
 Jordan cupped his hand behind his ear, shielding it from the breeze so he could hear her clearly, while he pulled the laptop securely onto his lap to type.
 
-*You really... like it that much?* the digital voice asked quietly, full of a genuine curiosity. *The stars?*
+<aac>You really... like it that much?</aac> the digital voice asked quietly, full of a genuine curiosity. <aac>The stars?</aac>
 
 Aubrie didn't have to think. "I do," she said, looking up at the blue sky. "When you look at the stars, I feel small," she said. "But in a good way. Like all the things that are hard down here... they don't matter as much, because we're all just spinning around on a tiny rock in this huge, incredible place."
 
@@ -1242,7 +1474,7 @@ Zoë gently wrapped her free arm around Jordan's shoulders, pulling him into a s
 
 Jordan relaxed instantly, leaning into Zoë's supportive embrace. He quickly pulled his Vanguard Pro onto his lap, his fingers flying across the keys.
 
-Waffles, please, the Sydney voice of EchoType responded.
+<aac>Waffles, please,</aac> the Sydney voice of EchoType responded.
 
 Standing a few feet away, Aubrie watched the interaction unfold. Her heart swelled. In any other dorm, in any other social circle, a girl watching another woman wrap her arm around the boy she was falling in love with would spark instant, bitter jealousy.
 
@@ -1258,7 +1490,7 @@ Jordan watched her, captivated. His mother’s world was a chaotic, unpredictabl
 
 He typed on his keyboard, hitting the execute key.
 
-So... if you know the mass, you know exactly how it will die? the Australian voice asked.
+<aac>So... if you know the mass, you know exactly how it will die?</aac> the Australian voice asked.
 
 "Exactly!" Aubrie beamed, practically vibrating with enthusiasm. "The rules never lie. If it's small, it cools into a white dwarf. If it's massive, it goes supernova. The universe doesn't play tricks, Jordan. We just have to learn how to read the patterns."
 
@@ -1342,11 +1574,11 @@ He held onto her for a moment, absorbing her steadying presence. As she pulled b
 
 Jordan quickly pulled up his master schedule on his Vanguard Pro, though he already knew the answer. His heart gave a happy jolt.
 
-*Yes. At noon,* EchoType replied in its crisp Australian cadence.
+<aac>Yes. At noon,</aac> EchoType replied in its crisp Australian cadence.
 
 "Perfect," she beamed. "Meet me at the dining hall? Kincaid Commons?"
 
-*Yeah. Okay. Lunch.*
+<aac>Yeah. Okay. Lunch.</aac>
 
 "It's a date," Aubrie said brightly. Then her eyes went wide, realizing what she had just said. A deep, furious blush rushed all the way up to her hairline. "I mean... not a... you know. A literal date. Just... a lunch... with a time. I'll just see you then!"
 
@@ -1518,17 +1750,17 @@ He wheeled himself toward the glass doors of the lower level, his stomach tight 
 
 His mPhone buzzed in his pocket. He pulled it out to see a text from Aubrie.
 
-**Aubrie:** *Hey! I’m here. Just inside the main entrance, by the stairs. Waiting for you! :)*
+**Aubrie:** <sms>Hey! I’m here. Just inside the main entrance, by the stairs. Waiting for you! :)</sms>
 
 Jordan’s heart sank. He was at the delivery entrance on the exact opposite side—and elevation—of the building. He quickly texted her back, his thumbs fumbling slightly on the screen.
 
-**Jordan:** *I think I'm at a different door. The lower level? I'm looking for the elevator but I don't see one.*
+**Jordan:** <sms>I think I'm at a different door. The lower level? I'm looking for the elevator but I don't see one.</sms>
 
 He wheeled back and forth on the concrete patio, feeling a sudden, sharp jolt of panic. A cafeteria worker, pushing a large metal cart of supplies, noticed him spinning his wheels in the empty corridor.
 
 "You looking for the way in, honey?" she asked kindly.
 
-Jordan nodded quickly. He held up his mPhone, pointing to the word *elevator* on his screen.
+Jordan nodded quickly. He held up his mPhone, pointing to the word <aac>elevator</aac> on his screen.
 
 The worker sighed, her face immediately falling into an expression of deep sympathy. "Ah, yeah, that's because the main public one is broken. The motor burned out this morning." She keyed her radio. "Hang on, let me get my manager. He can take you up the freight elevator."
 
@@ -1588,7 +1820,7 @@ Then, he spotted it. At the grill station, a student in a maroon apron was flipp
 
 He pulled out his mPhone, his thumbs moving quickly. He turned the screen toward her.
 
-*Can I... can I have that? A cheeseburger? And... fries?*
+<aac>Can I... can I have that? A cheeseburger? And... fries?</aac>
 
 "A burger? Heck yeah. Good choice," Aubrie said, not blinking an eye. She had absolutely no idea she had just enthusiastically approved two items his mother would have outright denied him. "What do you want on it?"
 
@@ -1616,13 +1848,13 @@ Aubrie watched him with a soft smile, stabbing a cherry tomato with her plastic 
 
 Jordan’s face lit up. He swallowed, quickly wiping his hands on a napkin, and pulled his Vanguard Pro onto the table. He launched his sleek NeoEdit terminal, eager to tell her everything. He scaled the bright green text up so she could read it easily across the table.
 
-*The hills were brutal. But a couple of people actually helped push me. And the class was amazing. History 101.*
+<aac>The hills were brutal. But a couple of people actually helped push me. And the class was amazing. History 101.</aac>
 
 "Yeah?" Aubrie leaned forward, genuinely invested. "Did the professor use the microphone? Could you hear anything?"
 
 Jordan’s fingers flew across the keys.
 
-*I couldn't hear him at first, and he was writing on a dusty chalkboard. But he noticed me squinting. He stopped, switched to a whiteboard with heavy black markers, and moved closer so I could hear him. He didn't even make a big deal out of it.*
+<aac>I couldn't hear him at first, and he was writing on a dusty chalkboard. But he noticed me squinting. He stopped, switched to a whiteboard with heavy black markers, and moved closer so I could hear him. He didn't even make a big deal out of it.</aac>
 
 "Jordan, that’s incredible!" Aubrie beamed, practically vibrating with second-hand excitement. "See? Some of the professors here actually get it."
 
@@ -1688,7 +1920,7 @@ He nodded, accepting the bureaucratic reality. It was a small compromise for the
 
 Ms. Higgins leaned back, her sharp eyes scanning the sleek, matte-black Vanguard Pro resting on his lap. "I see you got a serious tech upgrade over the weekend. And it looks like this one actually holds a battery charge."
 
-Jordan smiled, typing quickly. *A friend gave it to me.*
+Jordan smiled, typing quickly. <aac>A friend gave it to me.</aac>
 
 "Well, your friend is a lifesaver," Ms. Higgins said, her tone shifting slightly as she opened his sparse manila file. The polite, administrative mask she had worn on Thursday when his mother was hovering over him dropped away completely. Now, it was just the two of them, and she was entirely focused on the student sitting in front of her.
 
@@ -1702,7 +1934,7 @@ Ms. Higgins stopped. Her pen hovered over her notepad. She stared at the bright 
 
 "Jordan," she asked, her voice dropping to a very soft, careful register. "When you listen to a professor speak from across a large room... does it sound like they are underwater? Like a muffled hum?"
 
-Jordan nodded, typing quickly. *Yes. The echo makes the hum worse. That's why I cup my ear, to catch the sound waves better. Doesn't everyone?*
+Jordan nodded, typing quickly. <aac>Yes. The echo makes the hum worse. That's why I cup my ear, to catch the sound waves better. Doesn't everyone?</aac>
 
 Ms. Higgins leaned back in her chair. The sheer, horrifying scale of his mother's neglect suddenly snapped into focus. It wasn't just that Aubrie Sinclair had denied him medical care—she had actively normalized his suffering. She had kept his world so incredibly small that he had simply assumed his severely compromised perception was how the entire universe operated.
 
@@ -1738,7 +1970,7 @@ She pulled a referral slip from a stack on her desk and filled it out with a cri
 
 Jordan looked down at the slip of paper resting next to the FM receiver, the mPad, and the stack of note-taker forms. It was a golden ticket. He looked back up at Ms. Higgins, his fingers trembling slightly as he typed his response.
 
-*Thank you.*
+<aac>Thank you.</aac>
 
 "Don't thank me yet, Jordan," Ms. Higgins smiled warmly, closing his file. "We're just getting started."
 
@@ -1746,19 +1978,19 @@ Ten minutes later, Jordan rolled out of Ms. Higgins's office and back into the s
 
 He parked his wheelchair near the glass doors, pulled his mPhone from his pocket, and opened a new text message to Sarah.
 
-**Jordan:** *Educational Accessibility gave me an official note-taker form for Western Civ. If you sign it, the university gives you Priority Registration for next semester. Do you want it?*
+**Jordan:** <sms>Educational Accessibility gave me an official note-taker form for Western Civ. If you sign it, the university gives you Priority Registration for next semester. Do you want it?</sms>
 
 Less than thirty seconds later, his mPhone buzzed.
 
-**Sarah:** *Are you joking?! Priority registration is absolute gold! I would have done it for free anyway, mate! Absolutely YES. Bring it to class on Wednesday!!!*
+**Sarah:** <sms>Are you joking?! Priority registration is absolute gold! I would have done it for free anyway, mate! Absolutely YES. Bring it to class on Wednesday!!!</sms>
 
 Jordan grinned, a massive wave of relief washing over him. He immediately opened Aubrie's contact thread.
 
-**Jordan:** *Ms. Higgins gave me the mPad and the microphone for Dr. Alistair. She also gave me a note-taker form for you. You get Priority Registration.*
+**Jordan:** <sms>Ms. Higgins gave me the mPad and the microphone for Dr. Alistair. She also gave me a note-taker form for you. You get Priority Registration.</sms>
 
 The reply from Aubrie came through almost instantly.
 
-**Aubrie:** *YES!!! Best news ever. Though I’d take your notes just to sit next to you anyway. 😊 Tell you all about Calc tonight! Go crush your afternoon classes! ❤️*
+**Aubrie:** <sms>YES!!! Best news ever. Though I’d take your notes just to sit next to you anyway. 😊 Tell you all about Calc tonight! Go crush your afternoon classes! ❤️</sms>
 
 Jordan stared at the little red heart emoji on his screen. He carefully locked his phone and slipped it back into his pocket. He wasn't navigating this campus alone. He had an entire constellation of people who enthusiastically wanted to be by his side.
 
@@ -1792,7 +2024,7 @@ Jordan grinned. He reached into his backpack, pulled out one of the NCR-carbon-c
 
 Madison’s blue eyes went completely wide. She stared at the packet, then looked up at him. "Are you serious? Priority Registration? Jordan, do you have any idea how hard it is to get into upper-level engineering labs as a sophomore? People literally cry over scheduling."
 
-Jordan nodded, typing quickly: *Do you want it?*
+Jordan nodded, typing quickly: <aac>Do you want it?</aac>
 
 "Do I want it? Jordan, I was going to sit next to you and copy my notes for you anyway!" Madison laughed, her bright energy practically vibrating in the quiet room. She immediately dug a pen out of her bag and started filling out the top sheet. "You just saved my entire spring semester. You are officially my favorite person on this campus."
 
@@ -1896,13 +2128,13 @@ Lauren jumped slightly, looking over the railing of the bunk bed.
 
 Down in the narrow aisle, Jordan had angled his wheelchair so he could look up at her. His sleek Vanguard Pro was resting on his lap. He typed quickly, and the neon-green text on his NeoEdit terminal expanded so she could read it clearly from the top bunk.
 
-*Madison said you like Dark Aero aesthetics. Look what Zoë just did to my desktop.*
+<aac>Madison said you like Dark Aero aesthetics. Look what Zoë just did to my desktop.</aac>
 
 Lauren forced a smile, grateful for the distraction, and carefully climbed down the wooden ladder. She squeezed into the space between Jordan's chair and the desk to look at his screen.
 
 Zoë had managed to skin Jordan's Aura Glade window manager with a flawless, glossy, early-2000s Dark Aero theme—complete with deep glass transparencies, dark metallic taskbars, and glowing neon-blue accents. But sitting right in the center of the glossy desktop, completely untouched, was his NeoEdit terminal window, still rocking the classic, retro 1980s black-and-green aesthetic.
 
-Jordan kept typing. *The darker colors actually really help cut the glare. It's so much easier on my eyes when everything isn't bright white.*
+Jordan kept typing. <aac>The darker colors actually really help cut the glare. It's so much easier on my eyes when everything isn't bright white.</aac>
 
 "Oh, wow," Lauren said, her smile becoming genuine as she looked at the sleek interface. "That looks incredible, Jordan. And if it helps you see better, that's even more perfect."
 
@@ -2010,7 +2242,7 @@ A bright, distinctly Australian voice cut through the chatter. Jordan looked up 
 
 Jordan’s face lit up. He quickly typed into his NeoEdit terminal, the neon-green text glowing against the sleek, dark glass of his new Dark Aero window manager.
 
-*Sarah! You're in this class too?*
+<aac>Sarah! You're in this class too?</aac>
 
 "Gen-ed requirement," Sarah grinned, dropping her backpack onto the desk next to Lauren. "I saw you guys roll in. These are my roommates from the fifth floor. Jessica, and Chloe."
 
@@ -2086,7 +2318,7 @@ Dr. Evans’ eyes widened in sudden realization. She let out a sharp, genuine la
 
 Jordan nodded, pulling his laptop back out of his bag for a second just to type a quick response. He turned the screen so she could read the glowing green text.
 
-*I am. They decided to keep me.*
+<aac>I am. They decided to keep me.</aac>
 
 "I can see that," Dr. Evans smiled, her tone softening with genuine warmth. "Alright, tell you what. My office hours start in ten minutes. Why don't you all follow me up to Room 412, and we'll get everyone's student ID numbers written down. If you're all willing to share the note-taking load for Jordan, I am more than happy to authorize Priority Registration for the whole group."
 
@@ -2104,7 +2336,7 @@ When the legal pad finally made its way back to Dr. Evans, Jordan pushed his whe
 
 Dr. Evans adjusted her glasses and read the bright green text.
 
-*Professor Evans, you said to let you know if we grew up extremely sheltered. My mother opted me out of every Family Life and health class since the fourth grade. She told me the human body was shameful. I don't know what any of the diagrams on the syllabus mean. I don't know any of the slang. I don't know how any of this works. I am completely lost.*
+<aac>Professor Evans, you said to let you know if we grew up extremely sheltered. My mother opted me out of every Family Life and health class since the fourth grade. She told me the human body was shameful. I don't know what any of the diagrams on the syllabus mean. I don't know any of the slang. I don't know how any of this works. I am completely lost.</aac>
 
 The easy, amused energy in the office instantly vanished. Dr. Evans read the paragraph twice. When she looked up at Jordan, her eyes were filled with profound, quiet compassion.
 
@@ -2120,7 +2352,7 @@ She hit print, and the machine in the corner of her office whirred to life. She 
 
 "Start here," Dr. Evans instructed gently. "Look over these sites at your own pace. They explain the absolute basics. Read them over the next few days. If you are still feeling lost, you email me, and we will sit down one-on-one, and I will explain whatever you need. Okay?"
 
-Jordan looked down at the printed URLs, a massive wave of relief washing over him. He looked back up and nodded emphatically. *Thank you.*
+Jordan looked down at the printed URLs, a massive wave of relief washing over him. He looked back up, nodded emphatically, and typed: <aac>Thank you.</aac>
 
 Aubrie leaned over Jordan's shoulder, looking at the printed pages. She saw the URLs for the 2D diagrams and clinical explanations. It was a great start, but she knew Jordan. She knew how his brain worked, and she knew how deeply ingrained his mother's psychological conditioning was. Staring at flat, sterile drawings on a computer screen wasn't going to break eighteen years of trauma.
 
@@ -2298,7 +2530,7 @@ There was zero friendly fire. The shared trauma of the betrayal had instantly bo
 
 While the room buzzed with loud, protective outrage, Jordan quietly unlocked his Vanguard Pro. He typed a paragraph, the keyboard clicking softly, and then gently pushed the laptop forward so the screen rested on the mattress between Lauren and Sarah.
 
-*I know exactly what it feels like to be controlled by someone who claims to care about you,* the glowing green text read. *I know what it's like when they try to isolate you so they can keep their power. Tom's toxicity is a reflection of his own brokenness, Lauren. It has nothing to do with you. And he has no power here. Room 214 is a safe haven. For both of you. Always.*
+<aac>I know exactly what it feels like to be controlled by someone who claims to care about you,</aac> the glowing green text read. <aac>I know what it's like when they try to isolate you so they can keep their power. Tom's toxicity is a reflection of his own brokenness, Lauren. It has nothing to do with you. And he has no power here. Room 214 is a safe haven. For both of you. Always.</aac>
 
 Lauren read the words, a fresh wave of tears hitting her, but this time, they were tears of profound relief. She reached out and hugged Jordan tightly around his shoulders. Sarah read the screen next, her expression softening into deep, respectful awe at the quiet boy in the wheelchair.
 
@@ -3205,7 +3437,7 @@ Jordan’s brow furrowed. He stared at the back of the seat in front of him, his
 
 He pulled out his mPhone, his thumbs moving deliberately over the glass keyboard. He angled the screen toward the aisle so both Aubrie and Daniel could read it.
 
-*Why did she say Washington?* the text read on his screen. *IAD is Dulles International Airport. Dulles is in Loudoun and Fairfax counties. We are flying within Virginia, from Roanoke to Dulles. We are not flying to Washington D.C.*
+<aac>Why did she say Washington?</aac> the text read on his screen. <aac>IAD is Dulles International Airport. Dulles is in Loudoun and Fairfax counties. We are flying within Virginia, from Roanoke to Dulles. We are not flying to Washington D.C.</aac>
 
 Aubrie leaned over to read the screen, and a massive, delighted smile broke across her face. Even while hurtling through the sky at four hundred miles an hour for the very first time in his life, Jordan’s brilliant, logical brain was firing on all cylinders.
 
@@ -3215,7 +3447,7 @@ Across the narrow aisle, Daniel Brooks let out a warm, booming chuckle.
 
 Jordan tapped his fingers thoughtfully against the plastic armrest, processing the data. He typed another quick message on his mPhone.
 
-*That is highly illogical. They should just use accurate coordinates.*
+<aac>That is highly illogical. They should just use accurate coordinates.</aac>
 
 "I couldn't agree more, mate," Daniel grinned, leaning back in his seat.
 
@@ -3309,7 +3541,7 @@ Jordan let out a breath he didn't realize he had been holding. The thought of st
 
 He gently untangled his right hand from Aubrie's grip just long enough to pull his mPhone from his pocket. He typed a quick question using his thumb, then angled the screen toward Lauren and Aubrie.
 
-*What about Sarah and Jessica?* the text read.
+<aac>What about Sarah and Jessica?</aac> the text read.
 
 Aubrie smiled, wrapping her arm comfortably around his shoulders now that his hand was occupied.
 
@@ -3455,7 +3687,7 @@ The uniformed border agent looked at Lauren's passport and offered the standard,
 
 Lauren didn't miss a single beat. Having spent significant time in Québec, she possessed a fierce fluency that went far beyond high school language classes. She immediately answered the agent in rapid, flawless, colloquial Québécois French.
 
-*"Bonjour! Nous rentrons au pays pour une visite, et voici mes amis des États-Unis,"* Lauren replied smoothly, her voice bright and polite as she gestured to the massive American contingent standing behind her.
+"<lang="fr-CA" trans="Hello! We are coming home for a visit, and these are my friends from the United States,">Bonjour! Nous rentrons au pays pour une visite, et voici mes amis des États-Unis,</lang>" Lauren replied smoothly, her voice bright and polite as she gestured to the massive American contingent standing behind her.
 
 The CBSA agent paused, his eyebrows shooting up in genuine surprise. Hearing an authentic Québécois accent in the middle of an Anglophone Toronto terminal was rare enough, but hearing it from a girl whose passport listed her birthplace as Gander, Newfoundland—a province famous for its radically distinct English dialect—was a massive, delightful curveball.
 
@@ -3485,7 +3717,7 @@ Jessica dropped her heavy backpack onto an empty chair with a weary sigh, her to
 
 "Sorry we took so long, mates," Sarah groaned, twisting the cap off her water. "The automated ePassport gates were an absolute disaster."
 
-Jordan frowned, his fingers moving quickly over his keyboard. *Did the system reject your Australian passports?* the bright green text read on his angled screen.
+Jordan frowned, his fingers moving quickly over his keyboard. <aac>Did the system reject your Australian passports?</aac> the bright green text read on his angled screen.
 
 "No, our passports were fine," Jessica grumbled, her thick Outback drawl thick with annoyance. "It was the bloke standing directly in front of us in the queue."
 
@@ -3565,7 +3797,7 @@ Aubrie knelt down beside his chair, wrapping her arms around his shoulders, her 
 
 Jordan pressed his palms against his keyboard, his hands trembling slightly, but his keystrokes were deliberate and true. He angled his screen so Lauren's parents and the neighbors could see it.
 
-*I have never been welcomed anywhere in my life,* the bright neon-green text read, illuminating the space between them. *Thank you. Thank you for catching me.*
+<aac>I have never been welcomed anywhere in my life,</aac> the bright neon-green text read, illuminating the space between them. <aac>Thank you. Thank you for catching me.</aac>
 
 ### Scene 13: The Gander Lift
 
@@ -3703,7 +3935,7 @@ Jordan let out a shaky breath, the tight knot of anxiety in his chest completely
 
 "Now," Lauren smiled, leaning back in her chair. "Once everyone is fed, we are heading out into town. We've got an itinerary."
 
-Jordan immediately booted up his NeoEdit terminal, ready to log the data. *Where are we going?*
+Jordan immediately booted up his NeoEdit terminal, ready to log the data. <aac>Where are we going?</aac>
 
 "We are going to explore the exact history we talked about on the flight," Lauren explained. "First stop is the North Atlantic Aviation Museum. They have a specific exhibit called 'Safe Haven' that documents everything this town did during the five days the airspace was closed. They actually have a piece of steel from the World Trade Center on display there, donated by the firefighters in New York."
 
@@ -3749,11 +3981,11 @@ It was a brilliant, highly targeted cognitive redirect. By deliberately introduc
 
 Jordan's hands immediately flew up from his lap to his keyboard.
 
-*Your data lacks structural nuance, Zoë,* the bright neon-green text flashed across his NeoEdit terminal. *The 1983 self-titled 'Vector Sequence' album was strictly transitional. They were still clinging to their prog-rock roots while only hinting at pop-synth.*
+<aac>Your data lacks structural nuance, Zoë,</aac> the bright neon-green text flashed across his NeoEdit terminal. <aac>The 1983 self-titled 'Vector Sequence' album was strictly transitional. They were still clinging to their prog-rock roots while only hinting at pop-synth.</aac>
 
 Jordan paused for a fraction of a second, his fingers flying across the keys with absolute, grounding certainty.
 
-*Madison is correct. The pop-synth structure did not fully solidify until 'Velocity' in 1986,* the text continued to scroll. *But they never completely abandoned prog-rock. The 'Velocity' album still contains the ten-minute suite 'Cascade (Part 1: In the Glow of the Grid / Part 2: The Last Cascade).' They continued hiding heavy prog-rock architecture inside pop albums even into 1991's 'We Can't Rewind,' specifically with the track 'Driving the Final Relay.'*
+<aac>Madison is correct. The pop-synth structure did not fully solidify until 'Velocity' in 1986,</aac> the text continued to scroll. <aac>But they never completely abandoned prog-rock. The 'Velocity' album still contains the ten-minute suite 'Cascade (Part 1: In the Glow of the Grid / Part 2: The Last Cascade).' They continued hiding heavy prog-rock architecture inside pop albums even into 1991's 'We Can't Rewind,' specifically with the track 'Driving the Final Relay.'</aac>
 
 "See? The master has spoken," Madison grinned, pulling out her phone and immediately hitting play on the album's lead single. The heavy, familiar 1980s synthesizer beat instantly filled the kitchen.
 
@@ -3793,7 +4025,7 @@ Ms. Caldwell offered a warm, sharp smile. "I can imagine. I also want to assure 
 
 Jordan typed another quick sequence.
 
-*She doesn't know how the CPI Student Portal works. I updated my permanent address to the Brooks estate in Christiansburg nine months ago.*
+<aac>She doesn't know how the CPI Student Portal works. I updated my permanent address to the Brooks estate in Christiansburg nine months ago.</aac>
 
 "Exactly," Ms. Caldwell nodded, tapping the binder. "Which is why the judge dragged her all the way out here to Montgomery County. But I want to give you a heads-up about a supplemental brief her attorney, Mr. Davies, filed just this morning."
 
@@ -3803,7 +4035,7 @@ Jordan didn't flinch. He just waited, his eyes locked on the GAL.
 
 A slow, genuine smirk pulled at the corner of Jordan's mouth. He looked down at his keyboard, his hands flying across the keys faster than before.
 
-*It is August,* the terminal announced to the room. *She thinks August means summer.*
+<aac>It is August,</aac> the terminal announced to the room. <aac>She thinks August means summer.</aac>
 
 "Precisely," Ms. Caldwell said, letting out a short, incredulous laugh. "She hasn't grasped the basic geographical reality that the Southern Hemisphere is currently in the middle of winter. She is prepared to walk into that courtroom and argue about blistering, 120-degree heat waves, completely unaware that you just spent two weeks surviving erratic, 50-degree temperature swings and sub-freezing morning frost."
 
