@@ -1,54 +1,87 @@
 # RaggieSoft Universe Canon Specification: Christiansburg Transit Center at Falling Branch
 
-## Critical Continuity Rule & Chronological Evolution (`2003–2010 Surface Lot` $\rightarrow$ `August 2012 Redevelopment`)
+## Critical Continuity Rule & Chronological Evolution (`2003–2010 Surface Lot` $\rightarrow$ `2010–2012 Closure & Temporary Law School P&R` $\rightarrow$ `August 2012 Redevelopment`)
 
 The **Christiansburg Transit Center** is **not** a different location from the existing **Falling Branch Park & Ride**. It is the redeveloped and greatly expanded version of the same VDOT facility at Falling Branch, located at the **Interstate 81 / US-460 interchange (`Exit 118`)** in Christiansburg, Virginia.
 
-* **Era A — The Original VDOT Surface-Lot Era (`2003–2010`; Construction `2010–2012`):**
+* **Era A — The Original VDOT Surface-Lot Era (`2003–2010`):**
   * Seen in earlier chronological narratives such as *Paige* (`2003–2005`) and *Before the Distance: The Story of John & Erin* (`November 2004`).
-  * In this era, the facility is known as **`Falling Branch Park & Ride`** / **`Falling Branch P&R`** / **`Falling Branch`**, and outbound **Blue Ridge Transit Route 1** buses display **`1 FALLING BRANCH`**.
-  * **Event Shuttle Destination Signs (`2003–July 2012`):** Inbound event shuttles alternate between **`CRUCIBLE SHUTTLE`** (or **`FURNACE SHUTTLE`**) $\updownarrow$ **`GO FORGERS!`**, while post-event return trips to the park-and-ride alternate between **`FALLING BRANCH SHUTTLE`** $\updownarrow$ **`GO FORGERS!`**.
-  * **Physical Layout & Traffic Bottleneck:** It is a simple, single-level VDOT surface lot where **all traffic—private automobiles, Blue Ridge Transit buses, CPI Fleet Services shuttles, Roanoke Valley Transit (*Roanoke Express*) coaches, and Bluewater Transit (*The Maroon Express*) coaches—intermingles** in the same paved lot and must exit via **US-11 (Roanoke Street) / Falling Branch Road** through local surface-street traffic signals to get onto either **Interstate 81** or the **US-460 Bypass**.
+  * In this era, the facility is known as **`Falling Branch Park & Ride`** / **`Falling Branch P&R`** / **`Falling Branch`**, outbound **Blue Ridge Transit Route 1** buses display **`1 FALLING BRANCH`**, and westbound **Route 4** buses (traveling from `Woodland Drive` via `Roanoke Street` and `Simmons Road NE` / **`CPI Christiansburg Campus` ["the Law School"]**) display **`4 FALLING BRANCH`**.
+  * **Event Shuttle Destination Signs (`2003–2010`):** Inbound event shuttles (`Route 1X`) alternate between **`1X THE CRUCIBLE`** / **`CRUCIBLE SHUTTLE`** (or **`1X THE FURNACE`** / **`FURNACE SHUTTLE`**) $\updownarrow$ **`GO FORGERS!`**, while post-event return trips to the park-and-ride alternate between **`FALLING BRANCH SHUTTLE`** $\updownarrow$ **`GO FORGERS!`**.
+  * **Physical Layout & Traffic Bottleneck:** It is a simple, single-level VDOT surface lot where **all traffic—private automobiles, Blue Ridge Transit buses, CPI Fleet Services shuttles, Roanoke Valley Transit (*Roanoke Express*) coaches, and Bluewater Transit (*The Maroon Express*) coaches—intermingles** in the same paved lot and must exit via **US-11 (Roanoke Street) / Falling Branch Road** through local surface-street traffic signals to get onto either **Interstate 81** or the **US-460 Bypass**. Its immediate popularity after opening in 2003 creates severe capacity pressure that prompts VDOT to plan a complete multimodal redevelopment.
   * *(Do **not** blindly rename historical 2003–2010 references where the older name and surface-lot layout are chronologically appropriate).*
-* **Era B — The Redeveloped Multimodal Complex Era (`Opened August 2012+`):**
-  * Following two years of heavy VDOT construction (`2010–2012`), the redeveloped **`Christiansburg Transit Center`** *(formally the **Christiansburg Transit Center at Falling Branch**)* opens in **August 2012**—two years before Jordan arrives at CPI in *Aubrie* (`August 2014`), and four years before the on-campus **CPI Transit Center** replaces the **Commonwealth Mall** curbside lineup in **2016**.
+* **Construction Interim — Falling Branch Closed; Temporary VDOT Park & Ride at `CPI Christiansburg Campus` ("The Law School", `2010–August 2012`):**
+  * From **2010 through Summer 2012**, VDOT completely closes the Falling Branch site for demolition and construction of the 8-level garage, 8-bay bus terminal, and direct highway flyover ramps.
+  * Because the Park & Ride is too vital to vanish for two academic years, **CPI and VDOT** enter into a temporary agreement dedicating a portion of the large parking area at the **`Commonwealth Polytechnic Institute, Christiansburg Campus`** (**`CPI Christiansburg Campus`**, colloquially known across Christiansburg as **`"the Law School"`**, off **Simmons Road NE**) as a **Temporary VDOT Park & Ride** (while the School of Law, School of Nursing, daytime undergraduate overflow classes, and evening/working-adult classes continue operating normally).
+  * **Temporary `Route 4` Truncation & Signage (`2010–August 2012`):** With Falling Branch closed, **Blue Ridge Transit Route 4** (which normally serves the Christiansburg Campus on `Simmons Road NE` as an intermediate stop) is truncated at the Christiansburg Campus as its temporary western terminus. During this `2010–2012` closure, westbound Route 4 buses **MUST** be signed **`4 CPI CBURG`** (**never** `CPI LAW SCHOOL`, even though riders and locals conversationally say *"When Falling Branch was closed, they terminated the 4 at the Law School"*).
+* **Era B — The Redeveloped Multimodal Complex Era (`Opened August 2012 / Fall 2012 Semester Onward`):**
+  * Following two years of heavy VDOT construction (`2010–2012`), the redeveloped **`Christiansburg Transit Center`** *(formally the **Christiansburg Transit Center at Falling Branch**)* opens in **August 2012** for CPI's Fall 2012 semester—two years before Jordan arrives at CPI in *Aubrie* (`August 2014`), and four years before the on-campus **CPI Transit Center** replaces the **Commonwealth Mall** curbside lineup in **2016**.
+  * The temporary VDOT Park & Ride at the **CPI Christiansburg Campus** closes, and **Route 4** resumes running past the Christiansburg Campus (`Simmons Road NE`) back to **Roanoke Street** to terminate at **Christiansburg Transit Center**, displaying **`4 CBURG TRANS CTR`** / **`via ROANOKE ST`**.
   * Outbound **Blue Ridge Transit Route 1** buses now alternate their two-screen Luminator destination signs between **`1 CBURG TRANS CTR`** and **`via S MAIN ST`**.
-  * **Event Shuttle Destination Signs (`August 2012+`):** Inbound event shuttles continue to alternate between **`CRUCIBLE SHUTTLE`** (or **`FURNACE SHUTTLE`**) $\updownarrow$ **`GO FORGERS!`**, while post-event return trips to the redeveloped transit center update to alternate between **`CBURG TC SHUTTLE`** *(Christiansburg Transit Center Shuttle)* $\updownarrow$ **`GO FORGERS!`**.
-  * The historic/geographic name **`Falling Branch`** remains commonly understood and continues to appear informally in everyday conversation (*"Where'd you park?" "Falling Branch."*).
+  * **Event Shuttle Destination Signs (`August 2012+`):** Inbound event shuttles (`Route 1X`) continue to alternate between **`1X THE CRUCIBLE`** / **`CRUCIBLE SHUTTLE`** (or **`1X THE FURNACE`** / **`FURNACE SHUTTLE`**) $\updownarrow$ **`GO FORGERS!`**, while post-event return trips to the redeveloped transit center update to alternate between **`CBURG TC SHUTTLE`** *(Christiansburg Transit Center Shuttle)* $\updownarrow$ **`GO FORGERS!`**.
+  * The historic/geographic name **`Falling Branch`** remains commonly understood and continues to appear informally in everyday conversation (*"Where'd you park?" "Falling Branch."*), paired with **`the Law School`** for the **CPI Christiansburg Campus** (*"I'm taking the 4 from Falling Branch to the Law School."*).
 
 ```text
 Falling Branch Park & Ride (2003–2010 Simple VDOT Surface Lot)
   • Cars & buses intermingle; all traffic exits via US-11 to reach I-81 or US-460 Bypass
   • Outbound Route 1 headsign: "1 FALLING BRANCH"
-  • Event Return headsign: "FALLING BRANCH SHUTTLE" ↕ "GO FORGERS!"
+  • Westbound Route 4 headsign (via Simmons Rd / CPI Cburg): "4 FALLING BRANCH"
+  • Event Return headsign (1X): "FALLING BRANCH SHUTTLE" ↕ "GO FORGERS!"
             ↓
-Major VDOT Redevelopment (Constructed 2010–2012 • Opened August 2012)
+Falling Branch Closed for VDOT Redevelopment (2010–Summer 2012)
+  • Temporary VDOT Park & Ride operates on part of CPI Christiansburg Campus ("the Law School") lot on Simmons Rd NE
+  • Route 4 truncated at CPI Christiansburg Campus as temporary western terminus
+  • Westbound Route 4 headsign: "4 CPI CBURG" (NEVER "CPI LAW SCHOOL")
             ↓
-Christiansburg Transit Center at Falling Branch (August 2012+)
+Christiansburg Transit Center at Falling Branch (Opened August / Fall 2012+)
   • 8-Level, ~6,000-Space Garage (Direct I-81 Ramps = ALL VEHICLES)
   • Separated 8-Bay Transit Terminal (Direct US-460 Bypass Ramps = BUSES ONLY)
+  • Temporary CPI Christiansburg P&R closes; Route 4 resumes running through Simmons Rd NE to Falling Branch
   • Outbound Route 1 headsign: "1 CBURG TRANS CTR" / "via S MAIN ST"
-  • Event Return headsign: "CBURG TC SHUTTLE" ↕ "GO FORGERS!"
+  • Westbound Route 4 headsign: "4 CBURG TRANS CTR" / "via ROANOKE ST"
+  • Event Return headsign (1X): "CBURG TC SHUTTLE" ↕ "GO FORGERS!"
 ```
 
 ---
 
-## 1. Location, Purpose, and Multi-Agency Service
+## 1. Location, Purpose, and Multi-Agency Service Hierarchy
 
 The **Christiansburg Transit Center** is located at Falling Branch in Christiansburg, Virginia, at the major interchange (`Exit 118`) where **Interstate 81** meets the **US-460** corridor leading toward Blacksburg.
 
-It functions as:
-* A major regional **VDOT** park-and-ride facility;
-* A primary **Blue Ridge Transit (BRT)** hub (anchoring **Route 1**, **Route 4**, and game-day/arena **Crucible & Furnace Shuttles** operated jointly by **Blue Ridge Transit** and **CPI Fleet Services**);
-* A major regional express coach transfer hub served by:
-  * **Roanoke Valley Transit (`RVT`)**: ***The Roanoke Express*** (`Third Street Station [Roanoke] ↔ Falling Branch / Christiansburg Transit Center ↔ New River Mall ↔ CPI`, Mon–Sat) and, starting October 31, 2017, the ***ARTS Train Connector*** (official ARTS Thruway service meeting *The Patriot* trains in Roanoke);
-  * **Bluewater Transit (`BT` — "The Other BT")**: ***The Maroon Express*** (hourly 7-day-a-week 45-foot commuter coach running `Bluewater Transit Center [across from Bluewater HS] ↔ Exit 14 P&R ↔ Max Meadows Exit 84 ↔ Dublin / NRVRC Justin's Station Exit 98 ↔ Falling Branch / Christiansburg Transit Center ↔ New River Mall ↔ CPI`);
-  * **2003 Supplemental Commuter Coaches** (during the early 2003 surface-lot era) and ***The Valley Flyer*** (commercial intercity coach to Washington, D.C. Union Station);
-* A commuter intercept point for people traveling toward Blacksburg;
-* The primary game-day park-and-ride facility for **Commonwealth Polytechnic Institute (CPI)**;
-* A high-capacity transportation terminal for events at **The Crucible** and **The Furnace**.
+| Operator | Service | Role at Falling Branch / Christiansburg Transit Center |
+| :--- | :--- | :--- |
+| **Blue Ridge Transit (`BRT`)** | **`1 CPI`** | Frequent 15-minute local service to **CPI** via **Business 460** (`Roanoke St → Pepper Plaza TC → N. Franklin St → New River Mall → S. Main St → CPI`) |
+| **Blue Ridge Transit (`BRT`)** | **`4 Woodland Dr`** | Christiansburg local service (interlined with `Route 1`) via **Roanoke Street / US-11**, deviating onto **Simmons Road NE** to serve the **CPI Christiansburg Campus ("the Law School")** before continuing to **Motor Mile** and **Woodland Drive** |
+| **Blue Ridge Transit (`BRT`)** + **CPI Fleet Services** | **`1X Express`** (`Crucible` / `Furnace Shuttle`) | Special-event express to **The Crucible** or **The Furnace** via the **`BUSES ONLY` US-460 Bypass ramps** and **Southgate Drive** bus-priority corridor (**100% Zero-Fare / `LOAD AND GO` — No PolyPass, no cash, no tickets, no transfers**) |
+| **Bluewater Transit (`BT` — "The Other BT")** | **`Maroon Express`** | Regional 45-foot over-the-road express linking **Bluewater, VA** (fictional town on **I-77** on the Appalachian Plateau where real-world Hillsville sits), `Exit 14 P&R`, `Max Meadows Exit 84`, `Dublin Exit 98`, **Falling Branch / Christiansburg Transit Center**, **New River Mall**, and **CPI** via `I-77 → I-81 → US-460 Bypass` |
+| **Roanoke Valley Transit (`RVT`)** | **`Roanoke Express`** *(+ `2017+` `ARTS Train Connector`)* | In-universe analogue of Roanoke's *Valley Metro* operating a modified *Smart Way* regional 45-foot coach corridor linking **Roanoke** (**`Campbell Court`** in earlier eras $\rightarrow$ **`3rd Street Station`** in later eras), **Falling Branch / Christiansburg Transit Center**, **New River Mall**, and **CPI** via `I-81` and the `US-460 Bypass` |
 
-**Ownership vs. Operations:** The facility remains owned and operated by **VDOT**. **Blue Ridge Transit** (alongside partner agencies **Roanoke Valley Transit**, **Bluewater Transit**, and—during major stadium/arena events with the explicit permission of VDOT and Blue Ridge Transit—**CPI Fleet Services**) operates transit service from the terminal, while VDOT owns and maintains the parking structure and freeway ramps.
+This service hierarchy gives the **Christiansburg Transit Center** three distinct functions across three geographic scales:
+1. **Local New River Valley Hub (`Blue Ridge Transit` Routes `1` & `4`):** Route `1` is the principal CPI corridor via Business 460, while Route `4` distributes passengers eastward through Christiansburg (serving the Exit 118C hotels, the **CPI Christiansburg Campus ["the Law School"]** on Simmons Road NE, Motor Mile, and Woodland Drive) without competing with Route `1`.
+2. **CPI Event Gateway (`Blue Ridge Transit 1X Express` & `CPI Fleet Services`):** Physically separates local Business 460 service (`Route 1`) from nonstop event express service (`Route 1X`) using the dedicated **`BUSES ONLY` US-460 Bypass flyover ramps** and State Police-enforced **Southgate Drive** priority.
+3. **Regional Highway Interchange (`Roanoke Valley Transit` Northeast & `Bluewater Transit` Southwest):** Together with **CPI** (university anchor) and **New River Mall** (commercial/regional interchange node touched by both regional express routes), Falling Branch functions as the highway-oriented regional gateway where passengers seamlessly transfer between **RVT's *Roanoke Express*** (northeast to Roanoke via I-81), **Bluewater Transit's *Maroon Express*** (southwest to Bluewater via I-81/I-77), and **Blue Ridge Transit** (`1`, `4`, `1X`).
+
+```text
+                        ROANOKE
+             (Campbell Court [earlier era] /
+              3rd Street Station [later era])
+                           │
+                    Roanoke Express (RVT)
+                           │
+                         I-81
+                           │
+                           ▼
+BLUEWATER ◄═══════ CHRISTIANSBURG ═══════► CPI (BLACKSBURG)
+   ▲               TRANSIT CENTER
+   │              "Falling Branch"
+ I-77                      │
+   │                       ├── BRT 1  (Local via Business 460)
+Maroon Express (BT)        ├── BRT 4  (Roanoke St / Simmons Rd "Law School" / Woodland Dr)
+   │                       └── BRT 1X (Crucible / Furnace Express via US-460 Bypass)
+   └───────────────────────┘
+```
+
+**Ownership vs. Operations:** The facility remains owned and operated by **VDOT**. **Blue Ridge Transit** (alongside independent partner agencies **Roanoke Valley Transit**, **Bluewater Transit**, and—during major stadium/arena events with the explicit permission of VDOT and Blue Ridge Transit—**CPI Fleet Services**) operates transit service from the terminal, while VDOT owns and maintains the parking structure and freeway ramps.
 
 ---
 
@@ -142,7 +175,7 @@ The ground-level transit facility is a high-throughput regional terminal enginee
 ## 6. Normal Weekday & Regional Transit Operation (`Route 1`, `Route 2`, `Route 4`, `CPI Fleet Services`, *Roanoke Express*, *Maroon Express*, & `2027+` Cambria Station Rail Link)
 
 During ordinary service days, the **Christiansburg Transit Center** is one of the most important multimodal nodes in the New River Valley:
-* **Blue Ridge Transit Route 1 ("The Spine"):**
+* **Blue Ridge Transit Route 1 ("The Spine" — Local Service via Business 460):**
   * Operates every **15 minutes** along the US-11 $\rightarrow$ **Pepper Plaza Transit Center** (next to the Montgomery County Courthouse) $\rightarrow$ **North Franklin Street / South Main Street (Business 460)** corridor to **Commonwealth Polytechnic Institute** (**Commonwealth Mall** in `2003–2015`; **CPI Transit Center** in `2016+`).
   * **Train-Timed Deviation to `Christiansburg Cambria Station (`800 Depot Street NE`)` (`2027+` ARTS Passenger Rail Era):** Because the Norfolk Southern `N-Line` rail corridor passes through historic Cambria (`800 Depot Street NE`) rather than Exit 118, **select trips on Route 1** (timed to **ARTS *The Patriot*** train arrivals and departures) deviate off **North Franklin Street** onto **Mill Lane NE** (serving the **Blue Ridge Regional Aquatic Center / Christiansburg Aquatic Center**) $\rightarrow$ **left onto Depot Street NE** $\rightarrow$ **right at Cambria Street to stay on Depot Street NE** into the **Cambria Station** bus loop, and exit the exact same way (`Depot St NE → Mill Ln NE → N. Franklin St`) so 60-foot articulated Route 1 buses use the **grade-separated North Franklin Street railroad bridge** and never cross the railroad tracks at-grade on Cambria Street.
   * **Route 1 Two-Screen Luminator Amber LED Destination Signs (`August 2012+`):**
@@ -153,72 +186,129 @@ During ordinary service days, the **Christiansburg Transit Center** is one of th
       * Screen 1: `1 CBURG TRANS CTR`
       * Screen 2: `via S MAIN ST` *(Train-timed deviation: `via S MAIN & CAMBRIA STA`)*
     * *(Note: In pre-redevelopment `2003–2010` stories such as `books/paige` and `books/erin`, outbound Route 1 buses display `1 FALLING BRANCH`).*
-* **Blue Ridge Transit Route 4 ("East Roanoke Street / Woodland Drive" — `Christiansburg Transit Center ↔ Exit 118C Hotels ↔ Motor Mile ↔ Woodland Drive VDOT 60-Foot Loop`; Interlined with `Route 1`):**
-  * **Corridor & Purpose (`1.5 Miles` One-Way / `3.0 Miles` Round-Trip / `12-Minute` Round-Trip Runtime + `3-Minute` Layover = `15-Minute` Module):**
-    * Extends east from **Christiansburg Transit Center** across the **I-81 overpass (`Exit 118B / 118C` — East US-11 / US-460 / Bus 460 Christiansburg & Shawsville)** along **US-11 / US-460 East (`Roanoke Street`)** to serve:
+* **Blue Ridge Transit Route 4 ("East Roanoke Street / CPI Christiansburg Campus / Woodland Drive" — `Falling Branch / Christiansburg Transit Center ↔ Exit 118C Hotels ↔ Simmons Road NE [CPI Christiansburg Campus / "The Law School"] ↔ Motor Mile ↔ Woodland Drive VDOT 60-Foot Loop`; Interlined with `Route 1`):**
+  * **Permanent Geography & Corridor Purpose (`12-Minute` Round-Trip Runtime + `3-Minute` Layover = `15-Minute` Module):**
+    * **Route 4** is the principal local BRT route connecting the eastern side of Christiansburg, the **CPI Christiansburg Campus ("the Law School")**, and **Falling Branch / Christiansburg Transit Center**.
+    * Extends east from **Christiansburg Transit Center** across the **I-81 overpass (`Exit 118B / 118C` — East US-11 / US-460 / Bus 460 Christiansburg & Shawsville)** along **US-11 / US-460 East (`Roanoke Street`)**, performing an **intentional, permanent deviation onto `Simmons Road NE` to serve the `CPI Christiansburg Campus` ("the Law School")** before returning to **Roanoke Street** to serve:
       1. **The Exit 118C Hotel & Fast-Food Cluster (`2400–2700 Roanoke Street`):** Including the hotel where **Aubrey and his mother Aubrie Sinclair** stay during August 2014 Move-In in *The Aubrie Chronicles* (where two-bed rooms were open, but Aubrie Sinclair deliberately booked a single bed out of narcissistic control while blaming the returning CPI students), and the hotels leased by **CPI Housing & Residence Life** for freshman overflow student housing during the **Fall 2014** and **Fall 2019** dorm overbooking crises, plus the surrounding fast-food strip.
-      2. **Auto Dealership Row ("Motor Mile", `2700–3100 Roanoke Street`):** Serving the major car dealerships and service centers.
-      3. **Woodland Drive Residential Strip & VDOT 60-Foot Turnaround Loop (`3345 Roanoke Street`):** Serving the final small collection of residential homes at **Woodland Drive SE** right at the eastern edge of civilization in Christiansburg before US-11/US-460 disappears into the forest and plunges down Christiansburg Mountain.
+      2. **Commonwealth Polytechnic Institute, Christiansburg Campus (`CPI Christiansburg Campus` / colloquially `"the Law School"`, off `Simmons Road NE`):** Route 4 turns off Roanoke Street onto **Simmons Road NE** to serve CPI's Christiansburg satellite campus—originating as the **CPI School of Law**, later joined by the **CPI School of Nursing**, and also housing daytime undergraduate overflow sections, classroom-oriented graduate programs, and evening/working-adult classes—before returning to Roanoke Street.
+      3. **Auto Dealership Row ("Motor Mile", `2700–3100 Roanoke Street`):** Serving the major car dealerships and service centers.
+      4. **Woodland Drive Residential Strip & VDOT 60-Foot Turnaround Loop (`3345 Roanoke Street`):** Serving the final small collection of residential homes at **Woodland Drive SE** right at the eastern edge of civilization in Christiansburg before US-11/US-460 disappears into the forest and plunges down Christiansburg Mountain.
+    ```text
+    WOODLAND DRIVE (VDOT 60-Ft Loop at 3345 Roanoke St)
+      │
+      ▼
+    Eastern Christiansburg / Motor Mile (Roanoke Street / US-11)
+      │
+      ├─────────────────────────────┐
+      │                             ▼
+      │                       SIMMONS ROAD NE
+      │                             │
+      │                             ▼
+      │                 CPI CHRISTIANSBURG CAMPUS
+      │                     "The Law School"
+      │                             │
+      ├─────────────────────────────┘
+      ▼
+    ROANOKE STREET / US-11 (Exit 118C Hotels)
+      │
+      ▼
+    FALLING BRANCH / CHRISTIANSBURG TRANSIT CENTER
+    ```
   * **Purpose-Built `VDOT 60-Foot Bus Turnaround Loop` on Public VDOT Right-of-Way:**
     * Because **Route 4 is interlined with Route 1**, the turnaround loop at **Woodland Drive (`3345 Roanoke Street`)** is specifically built with a wide **65-foot turning radius** to turn **60-foot articulated (`Prairie Coachworks LF60` / `New Flyer D60LF`) buses** around safely off the highway.
     * The turnaround is constructed on **VDOT-owned property** rather than a private lot so that even if a private property owner or *Stardust Blacksburg, LLC* were ever to go out of business or sell land, no private landlord can ever kick Blue Ridge Transit buses off the turnaround.
-  * **Route 4 Two-Screen Luminator Amber LED Destination Signs:**
-    * **OUTBOUND (Eastbound to Woodland Drive):**
-      * Screen 1: `4 WOODLAND DR`
-      * Screen 2: `via ROANOKE ST`
-    * **INBOUND (Westbound to Christiansburg Transit Center):**
-      * Screen 1: `4 CBURG TRANS CTR`
-      * Screen 2: `via ROANOKE ST`
+  * **Three Chronological Eras of `Route 4` Service & Destination Signage (`2003–2010` $\rightarrow$ `2010–2012 Closure` $\rightarrow$ `Fall 2012+`):**
+    1. **`2003–2010` (Original Falling Branch Surface-Lot Era):**
+       * `CPI Christiansburg Campus` ("the Law School") is an intermediate stop on `Simmons Road NE`; the western terminus is **`Falling Branch Park & Ride`**.
+       * **Eastbound Sign:** `4 WOODLAND DR` / `via ROANOKE ST`
+       * **Westbound Sign:** `4 FALLING BRANCH`
+    2. **`2010–Summer 2012` (Falling Branch Closed for Redevelopment $\rightarrow$ Temporary VDOT Park & Ride at CPI Christiansburg Campus):**
+       * While Falling Branch is closed for construction of the 8-level garage, CPI and VDOT dedicate a portion of the large parking area at the **CPI Christiansburg Campus (`Simmons Road NE`)** as a **Temporary VDOT Park & Ride**.
+       * **Route 4** is truncated at the **CPI Christiansburg Campus** as its temporary western terminus (`Woodland Drive → Roanoke St → Simmons Rd → CPI Christiansburg Campus Temporary VDOT P&R [END OF LINE]`).
+       * **CRITICAL SIGNAGE RULE (`2010–2012`):** During the closure, westbound Route 4 buses **MUST** display:
+         ```text
+         4 CPI CBURG
+         ```
+         **Never** sign Route 4 as `CPI LAW SCHOOL` during the closure. Even though riders and locals conversationally say *"The Law School"* (*"Where does the 4 terminate while Falling Branch is closed?" "The Law School."*), the official Blue Ridge Transit headsign is strictly **`4 CPI CBURG`**.
+    3. **`Fall 2012 Onward` (`Christiansburg Transit Center` Opens):**
+       * When the **Christiansburg Transit Center** opens for CPI's Fall 2012 semester, the temporary VDOT Park & Ride at the Christiansburg Campus closes. Route 4 does **not** abandon the CPI campus; instead, **CPI Christiansburg Campus (`Simmons Road NE`)** returns to being an intermediate stop on Route 4, and Route 4 continues west along Roanoke Street to terminate at **Christiansburg Transit Center ("Falling Branch")**:
+       * **OUTBOUND (Eastbound to Woodland Drive):**
+         * Screen 1: `4 WOODLAND DR`
+         * Screen 2: `via ROANOKE ST`
+       * **INBOUND (Westbound to Christiansburg Transit Center):**
+         * Screen 1: `4 CBURG TRANS CTR`
+         * Screen 2: `via ROANOKE ST`
   * **Standard `30-Minute` Headway vs. CPI Student Housing Overflow `15-Minute` Subsidy (`Fall 2014` & `Fall 2019`) + `CPI Fleet Services`:**
     * **Standard Operations (`Every 30 Minutes`):** Because a single round trip takes 12 minutes (+ 3 min layover = 15 minutes), **Route 4** normally runs **every 30 minutes** across its entire span of service by interlining with **every other `Route 1` arrival** at **Christiansburg Transit Center** (`:00` and `:30`), requiring just **1 extra 60-foot articulated bus** in the `Route 1 / Route 4` rotation.
     * **CPI Student Housing Overflow Crisis Mode (`Every 15 Minutes` — Interlined with *Every Single* `Route 1` Trip in `Fall 2014` & `Fall 2019`):** Whenever CPI overbooks its freshman dorms and overflows students into the **Exit 118C Hotels**—during both the **Fall 2014 Dorm Overbooking Crisis** (*The Aubrie Chronicles*) and the **Fall 2019 Freshman Over-Enrollment Crisis** (mirroring the real-life Fall 2019 Virginia Tech housing crunch when ~800 excess freshmen were housed in the Exit 118C Holiday Inn / hotel cluster)—**CPI Housing & Residence Life** legally subsidizes Blue Ridge Transit (`49 CFR § 604.3(c)`) to add **one more 60-foot articulated bus** so **Route 4 runs every 15 minutes, interlining with every single `Route 1` trip (`:00`, `:15`, `:30`, `:45`)**! Overflow freshmen get an open-door, one-seat 60-foot articulated bus ride from Roanoke Street right in front of their hotel through Christiansburg Transit Center all the way to CPI every 15 minutes.
     * **`CPI Fleet Services` (Non-FTA University Vehicle Division):** Alongside the 15-minute public transit spine, CPI's internal **CPI Fleet Services** division (100% university auxiliary-funded with **zero FTA grant money**, and therefore **100% exempt from the FTA Charter Service Rule**) operates Maroon-and-Forge-Gold `RLFD30` shuttles and ADA cutaway minibuses (`Access-CPI`, `SafeRide`, and departmental trips) that can legally pull directly under the private porte-cochères of the **Exit 118C Hotels** to run closed-door (`CPI PolyPass Only`) non-stop express hops up the **US-460 Bypass** during Move-In and peak class rushes.
 * **Blue Ridge Transit Route 2 ("The Christiansburg Local" — `Pepper Plaza TC ↔ Wades Lane ↔ Aquatic Center ↔ Cambria Station ↔ New River Mall TC`):**
   * While **Route 1** only deviates to **Cambria Station (`800 Depot Street NE`)** for scheduled **ARTS** trains, **Route 2** provides **all-day, 7-day-a-week local neighborhood service** (`Mon–Fri 6 AM–10 PM`, `Sat 7 AM–10 PM`, `Sun 8 AM–8 PM`, every 30 min daytime / 60 min evenings & Sundays) connecting **Pepper Plaza Transit Center** $\rightarrow$ `W. Main St` $\rightarrow$ `Radford St` $\rightarrow$ `Clearview Dr` $\rightarrow$ `Wades Ln` (serving the two **`Stardust Blacksburg, LLC` / *Ironwood Collective*** apartment complexes: **Ironwood at Wades Lane North & South**) $\rightarrow$ `N. Franklin St` $\rightarrow$ `Mill Ln NE` (**Blue Ridge Regional Aquatic Center**) $\rightarrow$ `Depot St NE` (**Cambria Station at `800 Depot St NE`**) $\rightarrow$ across the tracks and `N. Franklin St` on `Cambria St NW` $\rightarrow$ `Gibbons Dr` $\rightarrow$ `Berkshire Dr` (crossing over `Windsor Dr`) $\rightarrow$ `Windsor Dr` $\rightarrow$ `Majestic Dr` $\rightarrow$ `Peppers Ferry Rd` $\rightarrow$ **New River Mall Transit Center**, where local riders transfer to **Route 1**, **RVT *Roanoke Express***, or **Bluewater *Maroon Express*** to reach **Christiansburg Transit Center** or **CPI**.
-* **Roanoke Valley Transit (*Roanoke Express* & *ARTS Train Connector*) & Bluewater Transit (*The Maroon Express*):**
-  * Both regional 45-foot coach routes call at the **Christiansburg Transit Center** (known as **Falling Branch Park & Ride** in `2003–2010`) between I-81, **New River Mall Transit Center (The Christiansburg Mall)**, and **CPI**, offset by 30 minutes on Monday–Saturday to provide **30-minute combined express headways** along the northern corridor.
-  * **CPI PolyPass** holders ride **Blue Ridge Transit**, **Roanoke Valley Transit**, and **Bluewater Transit** for **FREE (`$0.00`)** (flashing their physical PolyPass in `2003–2019`, and tapping the embedded **Blue Ridge Go-Card** / **MagnaByte Express Mode** post-COVID `2020+`).
-* Normal fixed-route operation is operationally distinct from CPI football game-day **Crucible Shuttle** operation.
+* **Roanoke Valley Transit (`RVT` — In-Universe *Valley Metro*) & Bluewater Transit (`BT` — "The Other BT"):**
+  * **Roanoke Valley Transit (`RVT`) — *The Roanoke Express* (In-Universe Modified *Smart Way*) & *ARTS Train Connector* (`2017+`):**
+    * `RVT` is the in-universe analogue of Roanoke's real-world *Valley Metro*, and ***The Roanoke Express*** is its reimagined regional over-the-road coach equivalent of the *Smart Way* corridor linking the Roanoke Valley and the New River Valley (`Roanoke ↔ Falling Branch / Christiansburg Transit Center ↔ New River Mall ↔ CPI` via **I-81** and the **US-460 Bypass**).
+    * **Chronological Evolution of the Downtown Roanoke Terminus:** In earlier chronological narratives, the *Roanoke Express* terminates in downtown Roanoke at **`Campbell Court`**; in later chronological narratives, its downtown Roanoke terminus transitions to **`Third Street Station` (`3rd Street Station`)**, mirroring real-world Roanoke transit infrastructure evolution.
+  * **Bluewater Transit (`BT`) — *The Maroon Express*:**
+    * Connects **Bluewater, Virginia** (fictional seat of Bluewater County on **I-77** on the Appalachian Plateau where real-world Hillsville sits) via `I-77 → I-81 → Falling Branch / Christiansburg Transit Center → US-460 Bypass → New River Mall → CPI`.
+  * **Regional Fare Agreement (`Valid CPI PolyPass = $0.00`) & Operator Independence:**
+    * While **Blue Ridge Transit**, **Roanoke Valley Transit**, and **Bluewater Transit** remain completely independent transit agencies (each with its own fleet, livery, drivers, operating rules, local routes, and public fares), CPI has negotiated a **regional university mobility agreement**: **presenting/tapping a valid `CPI PolyPass` makes the passenger fare `$0.00` across all participating services**—including **Blue Ridge Transit** (`Route 1`, `Route 2`, `Route 3`, `Route 4`, `Route 8`), **Roanoke Valley Transit's *Roanoke Express***, and **Bluewater Transit's *Maroon Express*** over-the-road highway coaches!
+* Normal fixed-route operation is operationally distinct from CPI football game-day / arena **Route `1X` (`Crucible` / `Furnace Shuttle`)** operation.
 
 ---
 
-## 7. CPI Forgers Football Saturdays & Furnace Arena Events (`Blue Ridge Transit` + `CPI Fleet Services` Joint Surge)
+## 7. CPI Forgers Football Saturdays & Furnace Arena Events (`Route 1X Express` — `Blue Ridge Transit` + `CPI Fleet Services` Joint Surge)
 
-On CPI home football Saturdays at **The Crucible** (and major basketball/convocation events at **The Furnace**), normal Blue Ridge Transit fixed-route service is suspended (or shifted to Event Mode) and **as many buses as possible** from **both Blue Ridge Transit (including the 60-foot articulated fleet) and CPI Fleet Services (CPI's directly operated university bus fleet, operating with the full permission of Blue Ridge Transit and VDOT)** are pressed into unified **Crucible Shuttle** and **Furnace Shuttle** operations serving **Christiansburg Transit Center**:
-* The **Christiansburg Transit Center** is the busiest remote event intercept facility.
+On CPI home football Saturdays at **The Crucible** (and major basketball/convocation events at **The Furnace**, located right next to The Crucible), **Blue Ridge Transit Route `1X` (`1X Express`)** activates as a high-capacity special-event express corridor, and **as many buses as possible** from **both Blue Ridge Transit (including the 60-foot articulated fleet) and CPI Fleet Services (CPI's directly operated university bus fleet, operating with the full permission of Blue Ridge Transit and VDOT)** are pressed into unified **Crucible Shuttle** and **Furnace Shuttle** operations serving **Christiansburg Transit Center**:
+* **Physical Separation Between `1 Local` and `1X Express`:**
+  * Whereas **`Route 1 Local`** travels along **Business 460** (`Roanoke St → Pepper Plaza → N. Franklin St → S. Main St`) making local passenger stops, **`Route 1X Express`** exits the Christiansburg Transit Center directly onto the **`BUSES ONLY` US-460 Bypass flyover ramps** and runs nonstop up the **US-460 Bypass** into the State Police-enforced **Southgate Drive Bus-Only Priority Corridor** directly to **The Crucible** or **The Furnace**.
 * **Unified `Blue Ridge Transit` + `CPI Fleet Services` Dispatch:** With VDOT and Blue Ridge Transit authorization, CPI's Maroon-and-Forge-Gold **CPI Fleet Services** transit buses mix directly into the same loading bays, use the same **`BUSES ONLY` US-460 Bypass flyover ramps**, and run down the same **Southgate Drive Bus-Only Priority Corridor** into **The Crucible Bus Loop** right alongside Blue Ridge Transit's buses. To a passenger in line, **it does not matter whether the next bus pulling up to the curb is a Blue Ridge Transit bus or a CPI Fleet Services bus**—you simply board the next open door and go!
 * Despite having **~6,000 parking spaces**, the 8-level garage **routinely fills early** for major games (a signature piece of CPI football culture: *"If you don't get to Falling Branch early, you're not getting a space"*).
 * Even after formal redevelopment into the Christiansburg Transit Center, longtime fans casually refer to it in conversation as **`Falling Branch`** (*"Where'd you park?" "Falling Branch."*).
 
 ---
 
-## 8. Game-Day & Arena Event Parking and Fares (`FREE` / `LOAD AND GO` — Both BT & CPI Buses)
+## 8. Two Different Forms of "Free": `PolyPass` Regional Fare Agreement vs. `Route 1X` Zero-Fare (`LOAD AND GO`)
 
-* **VDOT Parking at Christiansburg Transit Center:** **`FREE ($0)`**.
-* **Blue Ridge Transit & CPI Fleet Services Event Shuttles (`Crucible Shuttle` / `Furnace Shuttle`):** **`FREE ($0)`**.
-* No fare is collected, no PolyPass is required, and no CPI affiliation is required—**regardless of whether a passenger boards a Blue Ridge Transit bus or a CPI Fleet Services bus**. The operating philosophy is **`LOAD AND GO`** with zero fare-box friction slowing mass boarding.
+Canon strictly distinguishes between **PolyPass-funded `$0.00` travel** on ordinary local/regional routes and **`Route 1X` Zero-Fare event service**:
+
+1. **Ordinary Local & Regional Services (`PolyPass` Regional Fare Agreement = `$0.00` with Valid `CPI PolyPass`):**
+   * Applies to **Blue Ridge Transit** (`Route 1`, `Route 2`, `Route 3`, `Route 4`, `Route 8`), **Roanoke Valley Transit** (*Roanoke Express*), and **Bluewater Transit** (*Maroon Express*).
+   * These routes have an ordinary fare structure for the general public, but presenting/tapping a valid **CPI PolyPass** makes the passenger fare **`$0.00`** under CPI's regional transit subsidy agreement (*"PolyPass?" $\rightarrow$ show/tap card $\rightarrow$ `$0.00` fare*).
+2. **Blue Ridge Transit `Route 1X` / `CPI Fleet Services` Event Shuttles (`Crucible Shuttle` & `Furnace Shuttle` = 100% Zero-Fare for EVERYBODY):**
+   * **`1X` is NOT part of the PolyPass fare arrangement—it is a pure zero-fare event service open to the entire public:**
+     * **VDOT Parking at Christiansburg Transit Center:** **`FREE ($0)`**
+     * **`1X` Passenger Fare:** **`$0.00`**
+     * **`CPI PolyPass`:** **NOT required**
+     * **Cash:** **NOT accepted**
+     * **Tickets:** **None**
+     * **Transfers:** **None** *(this bus is not providing a local trip with transfer slips; it exists solely to move thousands of fans between Falling Branch and the stadium/arena)*
+     * **Proof of CPI Affiliation:** **None** (General public welcome aboard, whether boarding a Blue Ridge Transit bus or a CPI Fleet Services bus)
+     * **Boarding Procedure:** **`LOAD AND GO`** (*"Do I need my PolyPass?" "No. Get on."*)
 
 ---
 
-## 9. Canonical Event Shuttle Destination Signs (By Era & Venue)
+## 9. Canonical `Route 1X` / Event Shuttle Destination Signs (By Era & Venue)
 
-Both **Blue Ridge Transit** and **CPI Fleet Services** event buses program identical 2-screen alternating Luminator destination displays so passengers in the queue see a uniform message:
+Both **Blue Ridge Transit (`1X`)** and **CPI Fleet Services** event buses program identical 2-screen alternating Luminator destination displays so passengers in the queue see a uniform message:
 
 * **Pre-Event Inbound toward CPI (`The Crucible` or `The Furnace` — Both Eras):**
-  * **For Events at The Crucible:**
+  * **For Events at The Crucible (`1X THE CRUCIBLE` / `CRUCIBLE SHUTTLE`):**
     ```text
     CRUCIBLE SHUTTLE
            ↕
       GO FORGERS!
     ```
-  * **For Events at The Furnace:**
+    *(Also referenced operationally in route tables as `1X THE CRUCIBLE`)*
+  * **For Events at The Furnace (`1X THE FURNACE` / `FURNACE SHUTTLE`):**
     ```text
     FURNACE SHUTTLE
            ↕
       GO FORGERS!
     ```
+    *(Also referenced operationally in route tables as `1X THE FURNACE`)*
 * **Post-Event Return Trip Outbound toward Exit 118 (Split by Chronological Era):**
-  * **Era A (`2003–July 2012` — *Falling Branch Park & Ride* Surface-Lot Days):**
+  * **Era A (`2003–2010` — *Falling Branch Park & Ride* Surface-Lot Days):**
     ```text
     FALLING BRANCH SHUTTLE
               ↕
@@ -281,7 +371,7 @@ CPI intentionally prices on-campus visitor football parking aggressively to ince
   * **Close to The Crucible:** `$150`
 * **Christiansburg Transit Center:**
   * **VDOT 8-level garage:** `FREE ($0)`
-  * **Crucible Shuttle:** `FREE ($0)`
+  * **Crucible Shuttle (`1X`):** `FREE ($0)`
 * **The Irony:** Paying `$150` buys a short walk to the stadium gate—**not** priority through postgame traffic. While `$150` parkers sit motionless in metered campus traffic queued toward Prices Fork Road or gridlocked on South Main Street, 60-foot BRT articulated buses and CPI Fleet Services shuttles bypass the gridlock via State Police bus-only priority on Southgate Drive.
 
 ---
@@ -333,14 +423,101 @@ Immediately after a sold-out game or arena event, thousands of fans queue at **T
 
 ---
 
-## 15. Narrative & Dialogue Rules
+## 15. Commonwealth Polytechnic Institute, Christiansburg Campus ("The Law School") & `Route 4` Historical Continuity
 
-Do **not** turn this infrastructure into heavy-handed exposition every time the facility appears. Locals and students already know how it works and use natural shorthand without explanation:
+### 15.1 Institutional History & Why Everyone Calls It `"The Law School"`
+* **Official Name:** **`Commonwealth Polytechnic Institute, Christiansburg Campus`** (**`CPI Christiansburg Campus`**), located off **Simmons Road NE** in Christiansburg, Virginia.
+* **Origin (`CPI School of Law`):** The campus originated as the home of the **CPI School of Law**. Because the School of Law was the original major CPI institution on the property, students, employees, Blue Ridge Transit passengers, and Christiansburg residents began referring to the entire site colloquially as **`"the Law School"`**—a nickname that became permanently embedded in local vocabulary.
+* **Arrival of the `CPI School of Nursing`:** At a later point in the campus's history, CPI added its **School of Nursing** to the Christiansburg site, prompting CPI to adopt the broader formal name **`CPI Christiansburg Campus`**. However, adding Nursing did **not** displace the traditional local name: everyone—**including Nursing students**—continued calling the campus **`"the Law School"`**:
+  * *"Where's your class tonight?"*
+  * *"At the Law School."* *(The speaker does not necessarily study law; `"the Law School"` is the universal geographic nickname for the CPI Christiansburg Campus itself).*
+
+### 15.2 Academic Scope: Daytime Undergraduates, Evening/Working-Adult Education, & Graduate Programs
+* **More Than Just Law & Nursing (Main-Campus Undergraduate Overflow Sections):** In addition to the specialized facilities of the **School of Law** and **School of Nursing**, the Christiansburg Campus contains ordinary academic classroom facilities where CPI schedules overflow sections of popular main-campus courses that do not require specialized Blacksburg laboratories (`business`, `accounting`, `finance`, `economics`, `mathematics`, `English/composition`, `political science`, `psychology`, `general education`, `information systems`, etc.). A traditional CPI undergraduate based in Blacksburg may therefore have one or more classes at the Christiansburg Campus as part of normal CPI scheduling.
+* **Evening & Working-Adult Second Character:** Rather than becoming deserted when daytime classes end, the campus experiences a population shift in the late afternoon and evening, serving **evening undergraduate courses, professional education, continuing education, part-time degree programs, and classroom-oriented master's-level coursework** designed around conventional working hours.
+* **Graduate Education Division of Labor:** Research-intensive graduate work requiring specialized laboratories or department-specific research facilities remains centered in **Blacksburg**, while the **Christiansburg Campus** anchors Law, Nursing, and classroom-oriented professional/master's programs.
+* **Critical Institutional Safeguard:** Classes offered at the Christiansburg Campus are **100% CPI classes**, and its students are **CPI students**. **Never** characterize the CPI Christiansburg Campus as an inferior branch campus or a community college.
+
+### 15.3 Canonical `Route 4` Service History Diagram (`2003–2010` $\rightarrow$ `2010–2012` $\rightarrow$ `Fall 2012+`)
+
+```text
+2003
+Original Falling Branch Park & Ride opens
+BRT begins serving Falling Branch
+  │
+  ▼
+2003–2010 (Original Surface-Lot Era)
+Headsign: 4 FALLING BRANCH
+  WOODLAND DRIVE (VDOT 60-Ft Loop)
+    │
+  Roanoke Street
+    │
+  Simmons Road NE
+    │
+  CPI CBURG ("the Law School" — intermediate stop)
+    │
+  Roanoke Street
+    │
+  FALLING BRANCH P&R (western terminus)
+════════════════════════════════════════════════════════════
+2010
+Falling Branch closes for complete redevelopment
+  │
+  ▼
+2010–SUMMER 2012 (Closure & Temporary Park & Ride Era)
+Headsign: 4 CPI CBURG  [NEVER "CPI LAW SCHOOL"]
+  WOODLAND DRIVE (VDOT 60-Ft Loop)
+    │
+  Roanoke Street
+    │
+  Simmons Road NE
+    │
+  CPI CHRISTIANSBURG CAMPUS + TEMPORARY VDOT P&R
+    │
+  END OF LINE (temporary western terminus)
+  [Meanwhile: CHRISTIANSBURG TRANSIT CENTER under construction at Falling Branch]
+════════════════════════════════════════════════════════════
+FALL 2012 ONWARD (Redeveloped Multimodal Terminal Era)
+Christiansburg Transit Center opens • Temporary CPI P&R closes
+Route 4 returns to Falling Branch
+Headsign: 4 CBURG TRANS CTR / via ROANOKE ST
+  WOODLAND DRIVE (VDOT 60-Ft Loop)
+    │
+  Roanoke Street
+    │
+  Simmons Road NE
+    │
+  CPI CBURG ("the Law School" — intermediate stop again)
+    │
+  Roanoke Street
+    │
+  CHRISTIANSBURG TRANSIT CENTER ("Falling Branch" — western terminus)
+```
+
+---
+
+## 16. Official Terminology vs. Local Shorthand & Narrative Continuity Rules
+
+### 16.1 Official Terminology vs. Common Local Terminology
+
+| Official Institutional / Transit Terminology | Common Local / Student Terminology |Official Westbound `Route 4` LED Sign |
+| :--- | :--- | :--- |
+| **`CPI Christiansburg Campus`** | **`"the Law School"`** | **`4 CPI CBURG`** *(when terminating there during `2010–2012` closure)* |
+| **`Christiansburg Transit Center`** *(2012+)* / **`Falling Branch Park & Ride`** *(2003–2010)* | **`"Falling Branch"`** | **`4 FALLING BRANCH`** *(2003–2010)* / **`4 CBURG TRANS CTR`** *(Fall 2012+)* |
+
+### 16.2 Natural In-Universe Dialogue Examples (No Heavy-Handed Exposition)
+Do **not** turn this infrastructure into heavy-handed exposition or translate local shorthand for characters who already live in the New River Valley:
 * *"We're parked at Falling Branch."*
 * *"Garage is full."*
-* *"Take the Crucible Shuttle."*
+* *"Take the Crucible Shuttle."* / *"Do I need my PolyPass for the 1X?" "No. Get on."*
 * *"We're taking the bus. I'm not paying a hundred bucks to park at CPI."*
 * *"If you don't get to Falling Branch early, you're not getting a space."*
+* *"Where's your class tonight?" "At the Law School."*
+* *"I'm taking the 4 from Falling Branch to the Law School."* (= Blue Ridge Transit Route 4 from Christiansburg Transit Center to CPI Christiansburg Campus).
+* *"Before they rebuilt Falling Branch, the 4 went all the way to the old surface lot."*
+* *"When Falling Branch was closed, they terminated the 4 at the Law School."*
+* *"For those two years, part of the Law School lot was the temporary Park & Ride."*
+* *"Once the new Transit Center opened, the 4 started running through to Falling Branch again."*
 
 ---
 
@@ -1237,8 +1414,39 @@ Honestly, 8 levels / 6,000 spaces feels exactly right for RaggieSoft documentary
 
 six thousand parking spaces filled, and people are still arriving.
 
+---
 
+### Follow-Up Design Session: CPI Christiansburg Campus ("The Law School"), Route 4, Route 1X, & Regional Express Integration
 
+You said:
+So as of right now, at Falling Branch I have: # Blue Ridge Transit * 1 CPI via Business 460, local service * 4 Woodland Dr via Roanoke St, local service (including CPI Christiansburg lore) * 1X Express to The Crucible or The Furnace (the basketball arena next to The Crucible), game day express # Bluewater Transit * Maroon Express: CPI via 460 and New River Mall, or in other directions: express to Bluewater, Virginia (fictional town on I-77, where real life Hillsville, Virginia is on the Appalachian Plateau), express via 460 Bypass, 81, and 77 # Roanoke Valley Transit * Roanoke Express: CPI, New River Mall, Falling Branch, Roanoke (Campbell Court or 3rd Street Station depending on the year), express via 460 Bypass and 81
 
+Copilot said:
+Yes. Falling Branch has officially stopped being “a park-and-ride with some bus service” and become the regional transit gateway to CPI. What you have now also has a very clean service hierarchy.
 
+Current Falling Branch / Christiansburg Transit Center service:
+* **Blue Ridge Transit — `1 CPI`**: Frequent local service to CPI via Business 460
+* **Blue Ridge Transit — `4 Woodland Dr`**: Christiansburg local service via Roanoke Street, including the CPI Christiansburg Campus on Simmons Road
+* **Blue Ridge Transit — `1X Express`**: Special-event express to The Crucible or The Furnace
+* **Bluewater Transit — `Maroon Express`**: Regional express connecting Bluewater, Falling Branch/New River Mall, and CPI
+* **Roanoke Valley Transit — `Roanoke Express`**: Regional express linking Roanoke, Falling Branch/New River Mall, and CPI
+
+You said:
+Roanoke Valley Transit: in-universe Valley Metro (Roanoke) with a modified idea of the Smart Way which I call the Roanoke Express
+
+Copilot said:
+Exactly. That clarification makes Roanoke Valley Transit (RVT) much cleaner in the canon:
+Roanoke Valley Transit is your in-universe analogue of real-world Valley Metro, and the Roanoke Express is your reimagined equivalent of the Smart Way corridor (`CPI → US-460 Bypass → New River Mall → Christiansburg Transit Center ["Falling Branch"] → I-81 → Roanoke [Campbell Court in earlier era / 3rd Street Station in later era]`).
+
+You said:
+All services I’ve described so far: use your CPI PolyPass for fare free travel. Including the over the road coaches of Roanoke Valley Transit and Bluewater Transit
+
+Copilot said:
+Ah, yes. That makes PolyPass much more significant than a local BRT student pass. It is effectively CPI's university-wide mobility credential: present a valid CPI PolyPass and the passenger fare is `$0` on every CPI-participating service (`Blue Ridge Transit`, `Roanoke Valley Transit`'s *Roanoke Express*, and `Bluewater Transit`'s *Maroon Express*), while the three operators remain independent transit agencies.
+
+You said:
+The 1X is fare free. No PolyPass. No cash. No transfers. Load and go.
+
+Copilot said:
+Exactly. `1X` is not part of the PolyPass fare arrangement at all. It is simply a zero-fare event service open to everybody (`Fare: $0`, `PolyPass: not required`, `Cash: not accepted`, `Tickets: none`, `Transfers: none`, `Proof of CPI affiliation: none`, `General public: yes`, `Boarding procedure: LOAD AND GO`).
 
