@@ -828,7 +828,9 @@ When they reached the register, Jordan pulled his new Poly Pass from his wallet.
 
 Aubrie effortlessly balanced his plate alongside her own salad on a single tray, insisting on carrying it for him. As she walked beside his wheelchair, a soft, unconscious smile played on her lips.
 
-They found a large round table near a window and settled in. The conversation flowed easily as the women shared pieces of their backgrounds. Madison talked brightly about her hometown of Bluewater, Virginia, while Zoë pragmatically explained the layout of nearby Christiansburg, where she was from. They discussed their majors—Hannah's passion for animal sciences, Lauren's excitement for graphic design, and Zoë's logical approach to industrial and systems engineering.
+They found a large round table near a window and settled in. As Zoë set a steaming ceramic mug of dark amber tea down beside her plate, she remarked in a crisp, unmistakable British accent, "Say what you will about American university logistics, but whoever forced this dining hall to install dedicated one-hundred-degree boiling-water taps at the beverage station deserves a knighthood. Most places in this country serve lukewarm bathwater and have the audacity to call it tea."
+
+Madison blinked, looking across the table in surprise, while Jordan's head snapped up. Back in Room 214, in the middle of his sensory meltdown and the frantic scramble with the hall director, no one had registered the cadence of Zoë's voice. Now, in the calm of the dining hall, her British inflection was impossible to miss. Zoë pragmatically explained that she was British-American—having grown up between the UK and nearby Christiansburg—while Madison talked brightly about her hometown of Bluewater, Virginia. They discussed their majors—Hannah's passion for animal sciences, Lauren's excitement for English literature, and Zoë's logical approach to industrial and systems engineering.
 
 When the conversation naturally pivoted to Jordan, asking about his own hometown and high school experience, he visibly tensed. The light in his eyes dimmed, and his hands gripped the armrests of his chair. Hannah, immediately recognizing his discomfort, smoothly and gracefully changed the subject to the terrible campus parking situation, expertly steering the spotlight away. The others followed her lead without missing a beat, establishing a silent, protective boundary around his past.
 
@@ -846,7 +848,69 @@ Mark didn't even blink. He reached out, offering Jordan a firm, friendly handsha
 
 His immediate, unquestioning acceptance was a breath of fresh air. The seven of them sat together, chatting easily about classes and sports, a newly formed, chaotic, and wonderful little family.
 
-### Scene 10: The First Assist
+### Scene 10: The Kincaid Hall Tea Rebellion
+
+**Date:** 2009-10-13 at 08:15 America/New_York
+
+In her fifteen years working the breakfast shift at Kincaid Hall, Brenda had seen a lot. She had witnessed the great pancake food fight of '03, talked down a stressed biology major who tried to sleep inside the walk-in refrigerator, and cleaned up after countless post-game celebrations.
+
+But absolutely nothing in her employee handbook prepared her for the British Exchange Cohort of 2009.
+
+It was a miserable, rainy Tuesday in the middle of midterm week. The kind of morning that chilled you to the bone. At exactly 8:15 AM, Brenda was wiping down the deli counter when she heard a loud, metallic clang echo from the beverage station.
+
+She looked up to see a tall, lanky exchange student from Manchester named Liam standing in front of the hot water urn. He was staring down at a ceramic mug in his hand with an expression of profound, soul-deep despair.
+
+"Is everything alright, sweetheart?" Brenda asked, walking over with her towel.
+
+Liam slowly rotated the mug so Brenda could see inside. The liquid was a pale, cloudy beige. A single tea bag floated limply at the top, completely failing to extract any color or flavor.
+
+"Brenda," Liam said, his voice trembling with a terrifying, repressed calm. "I have been in this country for two months. I have tolerated your people driving on the wrong side of the road. I have tolerated the spelling of the word 'color' without the 'u'. But this..." He pointed a long, shaking finger at the urn. "This water is sitting at a tepid eighty degrees Celsius. It is barely warm enough to melt butter. I am trying to brew a strong breakfast blend, and your machine is merely giving the leaves a lukewarm bath."
+
+Before Brenda could apologize, Liam turned around. He looked across the crowded cafeteria to a large cluster of tables occupied entirely by the British exchange program. He didn't shout. He simply raised the mug of sad, beige water into the air and gave a single, solemn nod.
+
+What happened next was a masterpiece of logistical coordination.
+
+Thirty British students stood up in unison. With frightening efficiency, they began dragging the heavy oak dining tables across the linoleum floor, forming a solid, impassable barricade in a semi-circle around the entire coffee and hot water station.
+
+The American students, suddenly cut off from their morning caffeine supply, stopped in their tracks. A low murmur of panic began to ripple through the room.
+
+A posh, sharply dressed student named Eleanor climbed atop one of the barricade tables.
+
+"Attention, colonial cousins," Eleanor announced, her crisp voice carrying easily over the stunned crowd. "We sincerely apologize for the inconvenience. However, we have officially claimed sovereignty over this beverage station until our demands are met. This is a peaceful occupation."
+
+"Hey!" an American sophomore yelled from the crowd. "I have a chemistry exam in twenty minutes! I need coffee!"
+
+"And we need a proper cuppa to survive this dreadful weather," Eleanor replied smoothly, entirely unfazed. "Your administration has been serving us water that constitutes a crime against the Crown. We will not move until we receive a written guarantee that boiling water—precisely one hundred degrees Celsius—will be provided. We will hold the line."
+
+Brenda blinked, thoroughly impressed. It wasn't a violent riot. It was an incredibly organized, devastatingly polite sit-in. The British students sat shoulder-to-shoulder on the tables, arms linked, casually discussing their coursework while completely blocking hundreds of highly caffeinated Americans from their morning fuel.
+
+Realizing a campus-wide meltdown was about three minutes away, Brenda pulled her walkie-talkie from her belt and called the Director of Campus Dining, a perpetually stressed man named Mr. Henderson.
+
+Henderson sprinted into the cafeteria less than five minutes later, his tie crooked. He stopped dead, staring at the oak-table fortress and the angry mob of uncaffeinated American freshmen forming on the other side.
+
+"What is going on here?" Henderson demanded, marching up to the barricade.
+
+Liam stepped forward, handing the ceramic mug of pale liquid over the table. "Drink it, mate."
+
+"I am not—"
+
+"Drink the tea, Mr. Henderson," Liam insisted, his voice dropping to a dangerous, deadly serious register. "Experience our suffering."
+
+Henderson, wanting to end the standoff, took a sip. His face immediately contorted. He gagged slightly, looking down at the cup in horror. It tasted like warm paper and disappointment.
+
+"That's awful," Henderson choked out.
+
+"It's an act of international hostility," Eleanor corrected from atop the table. "Now. Are you going to call a plumber, or do we have to start dumping these urns into the campus duck pond?"
+
+Henderson looked at the British students. He looked at the angry American students. Then he looked at Brenda.
+
+"Call maintenance," Henderson sighed, rubbing his temples. "Tell them to rip out every hot water urn on campus and order dedicated boiling taps. I want them installed by Friday."
+
+A cheer erupted from the barricade. Within seconds, the British students dismantled the fortress, neatly returning the heavy oak tables to their original positions. Liam offered Henderson a polite, firm handshake, thanking him for his diplomatic cooperation, before stepping aside to let the traumatized American students finally access their coffee.
+
+Brenda just shook her head, chuckling as she went back to wiping down the deli counter. They were polite to a fault, she thought, but my god... you do not mess with their tea.
+
+### Scene 11: The First Assist
 
 **Date:** 2014-08-23 at 17:30 America/New_York
 
@@ -910,7 +974,7 @@ Zoë adjusted her glasses, her tone perfectly deadpan. "The swiftness of your re
 
 Hannah just smiled warmly, watching Aubrie fret over the blanket. The entire room had put two and two together. Aubrie Kelly was falling head over heels in love with the quiet boy in the wheelchair, and even if she wasn't quite ready to admit it out loud yet, her blush had already given her away.
 
-### Scene 11: The Spare Hardware
+### Scene 12: The Spare Hardware
 
 **Date:** 2014-08-23 at 17:45 America/New_York
 
@@ -958,7 +1022,7 @@ She tapped the trackpad, bringing up a clean, minimalist text box. "I also pre-i
 
 Jordan stared at the man, his mind struggling to process the interaction. There was no shouting. There was no accusation. There was just a father looking at him not as an intruder, but with the same unconditional kindness his daughter had shown. In that simple, quiet moment in Room 214, a tiny seed was planted in Jordan's chest—the fragile, miraculous hope that maybe, just maybe, he was finally safe.
 
-### Scene 12: The New Voice
+### Scene 13: The New Voice
 
 **Date:** 2014-08-23 at 18:15 America/New_York
 
@@ -1000,7 +1064,7 @@ Instead, Aubrie’s face lit up with a brilliant smile. Madison let out a cheerf
 
 The entire room—Aubrie, Zoë, Lauren, Hannah, Mark, Madison, and Daniel—happily and seamlessly accepted his choice without a single question or judgment. A wave of profound empowerment washed over Jordan as he rested his hands on the keyboard. He finally had a voice, and it was entirely his own.
 
-### Scene 13: The Antidote
+### Scene 14: The Antidote
 
 **Date:** 2014-08-23 at 18:30 America/New_York
 
@@ -1040,7 +1104,7 @@ Aubrie and Madison exchanged a quiet, meaningful look over Jordan's head. They b
 
 As they sat with him, keeping the atmosphere light and comfortable, the two women quietly admitted something to themselves. They actually liked having Jordan in their room. It wasn't just because Aubrie was already developing a massive, undeniable crush on him. It was because, stripped of the panic and the fear, he was genuinely easy to get along with. He was a calming, gentle presence, and they were more than happy to share their space with him.
 
-### Scene 14: The Trust Fall
+### Scene 15: The Trust Fall
 
 **Date:** 2014-08-23 at 20:00 America/New_York
 
@@ -1493,6 +1557,50 @@ He patted her back twice—a rapid, staccato rhythm—and quickly stepped away, 
 Beside her, Mark took a slow sip of his drink, his sharp, observant eyes lingering on the doors where Tom had just disappeared. Mark had seen the hug, too. He had noticed the way Tom’s eyes darted toward the exits, scanning the room like a man making sure the coast was clear. He had seen the rigid, perfectly managed way Tom had stepped away from Lauren. It was the body language of someone carefully managing a situation, not someone saying a relaxed goodbye to the girl they loved.
 
 Mark didn't say a word to Lauren, not wanting to ruin her evening. He just set his cup down, making a quiet, permanent mental note of the tension, and resolved to keep a very close eye on his new Political Science study partner.
+
+### Scene 9: The View from the Fifth Floor
+
+**Date:** 2014-08-24 at 18:00 America/New_York
+
+The elevator ride up to the fifth floor of Bennett Hall was a slow, rattling crawl, but Sarah Braithwaite didn't mind. She leaned against the metal handrail, a lingering smile playing on her lips from her walk back from Kincaid Hall.
+
+When the doors finally chimed open, she stepped out into the humid, chaotic corridor. The odd-numbered suites along their side of the fifth floor were entirely female, and with move-in weekend still wrapping up, the hallway was a maze of broken-down cardboard boxes and propped-open wooden doors.
+
+Sarah swiped her Poly Pass to enter Room 505. The layout was identical to the suites on the lower floors, but heavily crowded. Like the rest of the standard suites in Bennett Hall, it was a two-person room that had been force-tripled by the university's housing crisis. There was a bunk bed against one cinderblock wall, a single Twin XL bed against the other, and almost zero floor space—shared by Sarah, her fellow Australian roommate Jessica Gallagher, and their third roommate, Chloe from Richmond.
+
+Jessica was sitting cross-legged on the bottom bunk, attempting to organize a massive pile of textbooks on her lap.
+
+"Hey," Jessica sighed, looking up as Sarah squeezed through the doorway. "Did you see the bathroom yet? The girls in 507—Ashley, Emily, and Cassie—just moved all their shower caddies in. Six of us sharing one toilet and two sinks. It is going to be a logistical nightmare."
+
+"We'll just have to draw up a schedule, mate," Sarah laughed, dropping her backpack onto her desk. "Military precision. Five minutes in, five minutes out."
+
+"Easy for you to say," Jessica groaned, though she was smiling. "You're always in a good mood. How was Tom?"
+
+Sarah’s expression softened instantly. "He's good. I ran into him at Kincaid Commons right before he had to rush off to meet his roommate and finish unpacking. He said his roommate is driving him crazy with all the boxes."
+
+"Two years, right?" Jessica asked, leaning her head back against the cinderblock wall. "You guys have been together since high school?"
+
+"Yeah," Sarah nodded, unzipping her bag to put away her notebooks. "Two years. It’s funny... moving to a new country was so chaotic. When my dad and I settled in Radford, everything just felt upside down. But Tom... he was the first person who just made sense here. He’s always been so steady."
+
+She thought back to the brief interaction near the beverage station at Kincaid Commons. Tom had brushed off that clingy girl from his hometown so quickly just to come say hello to her, before ducking out to meet his roommate. It was a small thing, but it was exactly why she trusted him. He didn't entertain drama, and he always made her feel like a priority.
+
+Jessica tossed a notebook onto her desk. "Well, I'm jealous. Trying to date on this campus is going to be a nightmare. Have you heard the latest from the second floor?"
+
+"The boy in the wheelchair?" Sarah asked, pulling her dark hair back into a messy ponytail.
+
+"Yes!" Jessica practically bounced on her mattress, eager to share the gossip. "The RA down the hall was just talking about it. Apparently, it was a massive clerical error, but he actually moved in. He's living in the ADA suite with five girls."
+
+"The what suite?" Sarah asked, her brow furrowing slightly. "Sorry, I'm still learning all your American acronyms."
+
+"Oh, right, ADA," Jessica clarified. "Americans with Disabilities Act. It just means it's the handicap-accessible room. Like, if you look at the door for Room 214 downstairs, it has two peepholes—one at standard standing height, and a second one drilled lower so you can see out from a wheelchair. It's the only accessible suite on that side of the building."
+
+"Ah, right. Makes perfect sense," Sarah nodded, the logistics clicking into place for her. "Well, I actually saw them earlier," she mentioned, walking over to the small, single window that looked out over the rolling hills of the campus. "When I was walking over to Kincaid Hall, I saw the whole group heading toward the dining hall."
+
+"And? Is it as weird as everyone says?"
+
+Sarah looked out the window, watching the tiny figures of students navigating the winding paths below. She thought about the boy in the wheelchair, and the way the girls and Hannah's boyfriend had been navigating the campus paths with him. She remembered the fierce, protective bubble that seemed to surround their little group, and the unmistakable look of absolute adoration on the face of the girl walking right beside his chair.
+
+"No," Sarah said softly, turning away from the glass. "It didn't look weird at all. Honestly? It looked like he found exactly where he was supposed to be."
 
 ## First Days
 
@@ -2158,7 +2266,49 @@ He was sitting in a college classroom. He could see the notes. He could hear the
 
 His mother's weapon had been completely dismantled. The world wasn't a terrifying, isolating prison anymore. It was a wide-open universe, and his Constellation was shining brighter than he had ever thought possible.
 
-### Scene 9: Evening Data
+### Scene 9: The Girls of 505
+
+**Date:** 2014-08-25 at 15:30 America/New_York
+
+The heavy wooden door to Room 505 swung open, and Sarah Braithwaite breezed into the dorm, dropping her backpack onto her desk with a loud, triumphant thud.
+
+Her two roommates were already there, escaping the humid Virginia afternoon. Jessica, her fellow Australian from the deep Outback, was sprawled across her bed with a massive biology textbook propped against her knees. Their third roommate, Chloe from Richmond, was sitting at her desk, painting her nails a bright CPI maroon.
+
+"Alright, ladies," Sarah announced, a massive grin spreading across her face. "You are looking at a girl who just secured Priority Course Registration for the spring semester."
+
+Chloe looked up, nearly smudging her thumb. "Wait, seriously? How? We're freshmen. The registrar basically treats us like peasants."
+
+"I volunteered to be a peer note-taker in my Western Civ class," Sarah said, kicking off her shoes and falling backward onto her own bed. "But that isn't even the best part. You know the massive rumor going around the building? The clerical error on the second floor?"
+
+Jessica peeked over the top of her biology book. "The bloke in the wheelchair who got assigned to the suite full of girls? Room 214?"
+
+"That's the one," Sarah nodded, her eyes bright with excitement. "His name is Jordan. He's in my History class, and I’m his official note-taker. Honestly, he is an absolute ripper."
+
+Chloe capped her nail polish, fully invested in the gossip now. "Okay, give us the details. Is it as weird as everyone is saying? What's he like?"
+
+"He's not weird at all," Sarah defended immediately. "He's actually incredibly sweet. He doesn't talk out loud—he types everything into this sleek terminal program on his laptop, and I read it for him in class. But he's just... so polite. And smart. He completely saved my skin when Dr. Gable started grilling our side of the room about the agricultural revolution."
+
+Sarah stared up at the ceiling tiles, a softer, more thoughtful expression crossing her face.
+
+"It was actually really refreshing," she admitted quietly. "He's just so calm. A real top bloke." She let out a small sigh. "He seems so much nicer than Tom, to be honest."
+
+Jessica raised an eyebrow. "Trouble in paradise with the lacrosse king?"
+
+"Not trouble, exactly," Sarah said, waving a hand dismissively, though a flicker of frustration crossed her features. "Tom's just been so aggro lately. Everything is a competition, or he's stressing about his starting spot on the team, or he's getting possessive about my schedule. It’s exhausting. Sitting next to Jordan today... there was no ego. No posturing. Just a really gentle, decent guy trying to get through the day."
+
+Chloe grinned, leaning back in her chair. "Uh-oh. Sounds like someone is getting a little crush on the boy from 214."
+
+"Oh, shut up," Sarah laughed, throwing a pillow at Chloe’s head. Chloe dodged it easily. "Absolutely not. Besides, even if I was looking, he is entirely off the market."
+
+Jessica sat up, closing her biology book over her finger to keep her page. "Wait, is the other half of the rumor true? Are they actually hooking up in that suite?"
+
+"I don't know about hooking up, but he is deadset gone for one of his roommates," Sarah said, her smile returning. "Her name is Aubrie. When class ended, I walked him down the hill to Kincaid Commons. The second he typed that he was meeting her for lunch, his whole face completely lit up. He is absolutely smitten with her. It’s actually bloody adorable."
+
+Chloe sighed dramatically, resting her chin on her hands. "A sweet, smart guy who looks at his girl like that? Aubrie is living the dream. Meanwhile, I can't even get a text back from the guy in my chem lab."
+
+"Right?" Sarah laughed, sitting up and pulling her laptop out of her bag to start on her reading before Wednesday. Right now, she was just happy she had made a new friend in Western Civ, and that the boy from Room 214 had finally found someone who made him smile like that.
+
+### Scene 10: Evening Data
 
 **Date:** 2014-08-25 at 20:00 America/New_York
 
@@ -2246,7 +2396,7 @@ Lauren sat down on the edge of the bottom bunk, her shoulder pressing against Au
 
 Lauren looked back down at her dark phone resting on the desk. The contrast between the cold, toxic delusion of her boyfriend and the absolute, wholesome safety of Room 216 was jarring.
 
-### Scene 10: The Open Doors
+### Scene 11: The Open Doors
 
 **Date:** 2014-08-25 at 21:15 America/New_York
 
@@ -2548,7 +2698,61 @@ It was a tight, solid, profoundly grounding group hug. For Jordan, physical touc
 
 "We'll see you back at the suite before dinner," Aubrie smiled, unlocking Jordan's brakes. "You're safe with us, Lauren. Always."
 
-### Scene 4: An Unconventional Study Session
+### Scene 4: The Fifth Floor Hunch
+
+**Date:** 2014-08-26 at 15:15 America/New_York
+
+The air conditioning on the fifth floor of Bennett Hall was notoriously erratic. While Suite 214/216 downstairs was perfectly comfortable, Room 505 was currently functioning like a walk-in freezer.
+
+Sarah Braithwaite was sitting cross-legged on her bed, wrapped in a thick fleece blanket, staring at the glowing screen of her mPhone. On the floor, Jessica and Chloe were organizing their binders from the afternoon orientation module. The connecting bathroom door was propped wide open, and their three suitemates from Room 507—Ashley, Emily, and Cassie—were casually drifting between the two rooms, sharing a giant bag of popcorn.
+
+Sarah’s phone vibrated against her knee for what felt like the dozenth time in the last two hours.
+
+She unlocked the screen. It was another barrage of texts from **Lax Toss 🙄**.
+
+<sms>Where are you? You said your orientation ended at 2. It's 3:15. Are you hanging out in the lobby? Who are you with?</sms>
+
+Sarah let out a heavy, exhausted sigh, locking the screen and tossing the phone onto her pillow.
+
+"That's it," Sarah announced to the room, her Australian accent clipping her words with finality. "I'm tossing him. I am deadset done."
+
+Chloe looked up from her binder, her eyes widening. "Wait, you're breaking up with Tom?"
+
+"Who else?" Sarah groaned, falling backward onto her mattress and staring at the cinderblock ceiling. "He is being so incredibly aggro today. It's like a switch flipped last night. He's demanding to know exactly where I am, who I'm with, why I didn't text him back during lunch... it's exhausting. He's acting like a complete psycho."
+
+Cassie wandered in from the bathroom connecting Room 507, popping a piece of popcorn into her mouth. "Honestly? Good for you. We didn't want to say anything since you just got here, but he always gave me weird vibes. Way too intense."
+
+"He really is," Emily agreed, leaning against the doorframe next to Ashley. "You're gorgeous, Sarah, and you're hilarious. You don't need a guy who texts you like a parole officer."
+
+"Exactly," Ashley nodded enthusiastically. "We fully support this. You deserve way better."
+
+Sarah smiled up at the ceiling, genuinely touched by the immediate, unquestioning loyalty of her suitemates. It was exactly what she needed to hear to solidify her decision.
+
+Jessica, however, was frowning thoughtfully, tapping her pen against her notebook. "Mate, he's been acting like a bit of a tosser all week. But today is definitely next level. You don't reckon it has something to do with that co-ed suite downstairs, do you?"
+
+Sarah sat up, pulling the blanket around her shoulders. "What? Jordan? Tom doesn't even know I'm friends with Jordan. I haven't mentioned him once."
+
+"Yeah, but Bennett Hall is a mixed building," Chloe pointed out, connecting the dots. "There are guys' suites on every floor—I mean, Mark and his suitemates are right down on the third floor. But a guy actually living inside a girls' suite? That rumor is literally the biggest thing on campus right now."
+
+"Exactly," Jessica said, pointing her pen at Sarah. "Maybe Tom heard the rumors and is getting weirdly possessive. He knows you're friendly, and he knows you live here. Maybe he's paranoid you're hanging out in some giant 'love shack' down on the second floor with the bloke everyone is talking about."
+
+It was a perfectly logical hunch. From their perspective, Tom's sudden, frantic obsession with Sarah's whereabouts seemed like toxic jealousy over the dorm's most famous resident.
+
+None of them knew the actual truth. None of them knew that Tom’s frantic texting had absolutely nothing to do with Jordan, and everything to do with the fact that his other girlfriend, Lauren, lived in Room 216. The walls of Tom's carefully constructed, two-timing reality were closing in on him. The sheer, terrifying proximity of his two relationships existing inside the exact same cinderblock building was pushing him into a state of absolute, paranoid panic. He was terrified they were going to run into each other in the lobby, or the laundry room, or at Kincaid Commons.
+
+"Even if he did think that, it's completely pathetic," Sarah said, shaking her head. "Jordan is the sweetest, most respectful guy I've met here. If Tom is that deeply insecure about a bloke in a wheelchair just existing near me, then he's even more cooked than I thought."
+
+Sarah reached over and picked her phone back up, silencing the notifications entirely.
+
+"It honestly feels like he's projecting," Sarah muttered, looking at the dark screen. "He's acting like he's terrified I'm going to find out some massive, horrible secret, and he's taking all that paranoid guilt out on me. I'm over it. I'm going to cut him loose."
+
+"Good," Jessica said firmly, giving Sarah a supportive nod. "If he chucks a wobbly about it, tell him he can take it up with the five of us."
+
+"Make that six," Chloe corrected, grinning.
+
+Sarah laughed, the heavy weight of the toxic relationship finally starting to lift off her shoulders. She didn't know exactly when or how she was going to end it, but as she looked around the cramped, freezing dorm room at her five suitemates from Suite 505/507, she felt perfectly secure in her decision.
+
+### Scene 5: An Unconventional Study Session
 
 **Date:** 2014-08-26 at 20:15 America/New_York
 
@@ -2590,21 +2794,127 @@ By the time the session ended, the lingering ghosts of his mother's psychologica
 
 They all changed into their soft cotton pajamas. Jordan sat in his wheelchair near his desk, feeling a deep, resounding peace settle into his bones. He wasn't lost anymore. He was whole, educated, and completely safe. A soft, confident smile rested on his face as he watched Aubrie, Madison, and Zoë chat quietly on the beds.
 
-Then, a soft knock echoed against the heavy wooden door leading to the hallway.
+### Scene 6: The Kincaid Hall Collision
 
-"Madison?" Hannah's voice called from the other side, sounding slightly muffled through the thick wood. "It's Hannah. And Mark. And... well, everyone."
+**Date:** 2014-08-26 at 20:25 America/New_York
 
-Jordan frowned slightly, exchanging a confused look with Aubrie.
+Moments earlier, when Hannah and Lauren had stepped out of Room 214 to give Jordan, Aubrie, Madison, and Zoë privacy for their study session, Lauren had followed Hannah through the connecting bathroom and back into Room 216. Mark was already sitting at Hannah's desk, packing up his Political Science notes.
 
-Madison stood up, walking over to the wall. She pressed the large silver handicap-accessible button. The motorized mechanism whirred to life, unlatching the deadbolt, and the heavy door swung open slowly into the room.
+Lauren shut the bathroom door behind them, ensuring it clicked to give the others total privacy. But as she turned around to face the cramped room, the heavy, suffocating dread that had been building in her chest all day finally boiled over. Her phone was still vibrating in her pocket with Tom's toxic demands.
 
-The calm, peaceful sanctuary of Room 214 instantly collided with the chaotic aftermath of the Kincaid Hall confrontation. Nine people were crowding the hallway. Mark looked furious. Jessica and Chloe looked shell-shocked. And right in the center of the group, Lauren was sobbing openly into Sarah Braithwaite’s shoulder.
+"I can't just sit here and wait for him to blow up again," Lauren blurted out, her voice shaking with a mix of anxiety and sudden, undeniable resolve. "I need to go to Kincaid Hall. He texted that he's hanging out at the student center lounge, and I need to look him in the eye and ask him point-blank what is going on with him."
 
-Aubrie was on her feet in an instant, the protective peace of the study session vanishing as she rushed toward the door.
+Hannah immediately grabbed her lanyard off her desk, making sure her Poly Pass was attached. "We're going with you."
 
-"What happened?"
+"Damn right we are," Mark agreed, slinging his backpack over his shoulder. He stepped up next to Lauren, offering a solid, protective presence. "He's not pulling this aggressive garbage on you alone."
 
-### Scene 5: The War Room
+The three of them left Bennett Hall, stepping out into the warm, humid Virginia evening. They walked briskly across the brick pathways of the campus quad, the glowing lampposts casting long shadows.
+
+As they neared the massive brick-and-limestone footprint of Kincaid Hall, the campus student center, they heard a chorus of distinctly female voices approaching from the other side of the walkway. Lauren looked up to see a formidable squad of six girls marching with absolute, synchronized purpose.
+
+At the front of the pack was Sarah Braithwaite.
+
+"Sarah?" Lauren called out, genuinely surprised to see her new friend from Dr. Evans' lecture hall.
+
+Sarah stopped, her suitemates from Suite 505/507 fanning out behind her like a protective wall.
+
+As the fifth-floor group spread out under the glowing lampposts, Lauren, Hannah, and Mark all stopped dead in their tracks. It was their very first time seeing all six of the fifth-floor suitemates standing together, and their eyes instantly locked onto the woman standing directly at Sarah's right shoulder.
+
+Jessica Gallagher stood at a staggering 6'3"—190.5 centimeters—her heavily muscled, natural bodybuilder physique practically eclipsing the rest of the group. Dressed for pure, unbothered utility, her sheer size and unyielding posture radiated a cold, absolute presence. Mark, despite his own solid, broad-shouldered 5'8" frame, found himself having to crane his neck upward just to meet her piercing blue eyes, while Lauren and Hannah simply stared in mild, intimidated awe.
+
+"Lauren! Hey. What are you guys doing out here?" Sarah asked, completely oblivious to the stunned silence her towering roommate was currently commanding.
+
+Lauren blinked, forcing herself to snap out of her shock and focus back on Sarah. "I'm heading to the student center," Lauren admitted, gesturing vaguely toward the brightly lit windows of Kincaid Hall ahead of them. She offered a tight, self-deprecating smile. "My boyfriend is being incredibly controlling and paranoid today. He's hanging out by the pool tables, and I'm going to confront him. Mark and Hannah are my backup."
+
+Sarah’s eyes lit up with fierce, instantaneous solidarity. "You're kidding. I'm literally on my way to the Kincaid Hall pool tables right now to dump my boyfriend for doing the exact same thing! He's been an absolute psycho all day."
+
+"Wait, really?" Lauren breathed, feeling a sudden surge of comfort in the sheer coincidence.
+
+"Deadset," Sarah nodded, gesturing to the giant standing beside her, and then to the rest of the girls from Rooms 505 and 507: Chloe, Ashley, Emily, and Cassie. "I brought the whole fifth-floor cavalry with me. There is strength in numbers, mate. Come on, let's go together. We'll dump our toxic boyfriends and then all go get ice cream."
+
+Lauren actually laughed, the heavy anxiety in her chest lifting slightly. Having Mark and Hannah as backup was great, but having the towering, heavily muscled Australian woman as part of their combined army suddenly made the impending confrontation feel like a guaranteed victory.
+
+"Deal," Lauren said.
+
+The combined group of nine freshmen—a veritable army of supportive friends—marched through the glass double doors of Kincaid Hall.
+
+As they approached the felt billiard tables in the student lounge, Lauren scanned the crowd. "He said he was wearing his lacrosse hoodie..."
+
+"Mine plays lacrosse too," Sarah muttered, her eyes narrowing as she looked past a group of upperclassmen. "There he is."
+
+Lauren followed Sarah's gaze. Her heart dropped into her stomach. "Wait. That's my boyfriend."
+
+Sarah stopped walking. She looked at Lauren, her brow furrowing in profound confusion. "What? No, Lauren, that's my boyfriend."
+
+A terrifying, suffocating silence fell over the two girls amid the chaotic noise of the student center. Behind them, Mark's jaw tightened, while Jessica and Chloe exchanged a horrified look as the math suddenly, violently clicked into place.
+
+Tom had just lined up a shot on the corner pocket. He looked up, the pool cue still resting in his hands, and saw the massive group approaching.
+
+He saw Sarah. He saw Lauren. He saw them standing shoulder-to-shoulder, staring directly at him, completely surrounded by a protective wall of seven other people.
+
+Tom stopped dead in his tracks. The blood completely drained from his face. The pool cue slipped from his grip, clattering loudly against the floor. His confident, aggressive posture shattered instantly, his shoulders dropping as his brain completely short-circuited. He looked at Sarah, then at Lauren, his mouth opening and closing silently.
+
+"Tom?" Lauren whispered, the betrayal hitting her like a physical blow to the chest. Her eyes instantly filled with tears as the sheer, calculated cruelty of his paranoia finally made sense. "Are you... are you kidding me?"
+
+"Tom!?" Sarah yelled, her Australian accent echoing sharply over the ambient noise of the lounge, causing half the room to turn and look. "Are you having a bloody laugh right now!?"
+
+"Lauren, Sarah, wait—" Tom stammered, taking a panicked step back, his hands raised defensively. "It's a misunderstanding. I can explain—"
+
+"Explain what?!" Sarah exploded, stepping forward. Lauren didn't shrink away; she stepped right up beside Sarah, her sadness instantly hardening into sheer, protective fury.
+
+"This is why you were acting like a psycho!" Lauren realized, her voice trembling with anger. "You weren't worried about the guy in my suite! You were terrified that I was going to talk to the girls in my building and figure out you were playing us both!"
+
+"You projected your own guilty, toxic garbage onto a bloke in a wheelchair!" Sarah shouted, jabbing a finger at his chest. "You are absolute trash, Tom! We are both entirely done with you!"
+
+Tom’s face flushed a deep, panicked crimson. Relying on the only defense mechanism he knew, the 5'2" lacrosse player desperately puffed out his chest, stiffening his posture to try and reclaim his theatrical dominance. He opened his mouth to shout back, preparing to use volume to mask his staggering cowardice.
+
+He never got the chance.
+
+The crowd of friends parted, and Jessica stepped directly into the front line. She possessed a massive threshold for discomfort and never lost her cool over minor inconveniences, but Tom had just crossed a hard moral boundary by acting as a predator targeting someone vulnerable. Her temper instantly ignited.
+
+At an imposing 190.5 cm—or 6'3"—Jessica did not just step up; when she stood up, she took up the entire room. With her natural, heavy-muscled bodybuilder physique forged in the blistering heat of the Outback, she eclipsed the overhead lights. Because she was built like a tank, she didn't need to throw a punch; she relied entirely on physical presence over violence. She marched right up to the edge of the billiard table, forcing Tom to crane his neck sharply upward just to meet her piercing blue eyes.
+
+Jessica glanced down at the pool cue resting on the floor. Her fingers twitched. She wished, with a burning intensity, that she could reach down, grab that stick, and snap it clean in half right in front of his face—the exact way she and her identical twin sister, Bec, used to effortlessly crush industrial timber back home in Petermann. But her pragmatic justice won out; she didn't hold grudges, she fixed problems. Destroying university property inside the student center would only bring disciplinary action down on her own head.
+
+She didn't need to break anything to break him.
+
+Instead, Jessica weaponized her Outback Temper. It wasn't a short fuse or a screaming, chaotic tantrum. It was cold and absolute—a terrifyingly focused, immovable force. She stared a full thirteen inches down at him.
+
+"You aren't explaining anything," Jessica stated, her voice dropping to an unyielding, deadly serious tone that completely shattered Tom's theatrical momentum. "You're a gutless coward. You're going to shut your mouth, you're going to turn around, and you are never going to speak to either of them again. Are we clear?"
+
+The sheer, overwhelming density of her frame obliterated his bravado. Tom visibly shrank, taking a hurried, trembling step backward, completely suffocated by the reality of her physical presence.
+
+Before Tom could even attempt to recover, Mark stepped forward to flank Jessica, folding his arms across his broad chest.
+
+"I think they made themselves clear, man," Mark said, his voice low and dangerous. "Back off."
+
+Tom didn't utter a single syllable.
+
+*Click. Flash.*
+
+Jessica smoothly raised her mPhone and took a crystal-clear, heavily flashed photo of Tom’s pale, cornered face.
+
+"Got it," Jessica announced flatly, turning her back on him with complete, dismissive finality. Calling out the bad behavior and shutting it down, she immediately pivoted to protecting the victims. "Let's go, ladies. The air in here is completely stuffed."
+
+Lauren and Sarah didn't look back. They turned around, the entire army of friends forming a protective perimeter around them, and marched right back out of Kincaid Hall.
+
+The walk back to Bennett Hall was a blur of adrenaline, tears, and furious, protective chatter. Sarah kept her arm wrapped tightly around Lauren’s shoulders, the two women refusing to blame each other for a single second. The target of their rage was entirely, one-hundred-percent Tom.
+
+By the time they reached the second floor of Bennett Hall, Lauren was crying, the emotional exhaustion of the day finally catching up to her. She didn't want to go to her own room. She wanted the absolute, unconditional safety of the family they had built.
+
+She led the massive group down the hall to the door of Room 214.
+
+Hannah stepped forward and knocked gently on the heavy wooden door. "Madison? It's Hannah. And Mark. And... well, everyone."
+
+Inside, there was the soft whir of a motorized mechanism. A second later, the heavy door clicked unlatched as Madison pushed the large silver handicap-accessible button from the inside. The door swung open slowly.
+
+The lighting in the room was dim and calm. The unconventional study session was over. Jordan was sitting in his wheelchair near his desk, looking relaxed and peaceful, a soft, confident smile on his face that hadn't been there an hour ago. Aubrie, Madison, and Zoë were sitting on the beds, wrapped in their pajamas.
+
+They looked up, expecting to see Hannah and Lauren. Instead, they saw nine people crowding the hallway, with Lauren sobbing into Sarah Braithwaite’s shoulder.
+
+Aubrie was on her feet in an instant. "What happened?"
+
+### Scene 7: The War Room
 
 **Date:** 2014-08-26 at 20:45 America/New_York
 
