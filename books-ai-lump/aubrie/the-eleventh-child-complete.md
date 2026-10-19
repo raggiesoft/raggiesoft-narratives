@@ -312,7 +312,7 @@ When pale gray morning light finally leaked around the edges of the Merit Inn cu
 
 She was brisk, clipped, and all business—a woman with a schedule to keep and a long drive back to Virginia Beach ahead of her. Without a word about how tightly she had held him in the dark, she hauled Aubrey out from under the sheets, dragged him into the narrow bathroom for a rushed morning cleanup, and pulled a fresh polo shirt and jeans onto him while his skin still stung faintly beneath the cotton. His heavy laptop remained zipped inside his backpack in the corner, its battery still completely dead.
 
-By eight o'clock, she had tossed his canvas gym bag, his backpack, and her own overnight bag into the car right outside their first-floor door and wheeled him down the exterior sidewalk to the small lobby breakfast area beside the front desk.
+By eight o'clock, she had tossed his canvas gym bag, his backpack, and her own overnight bag into the car right outside their first-floor door and wheeled him down the exterior sidewalk under a low, heavy ceiling of slate-gray clouds to the small lobby breakfast area beside the front desk.
 
 The motel's complimentary continental breakfast was a cramped counter of lukewarm coffee urns, plastic-wrapped pastries, and a humming mini-fridge. His mother didn't ask what he wanted to eat. She parked his wheelchair at a tiny laminate table in the corner, set a pre-packaged blueberry muffin and a small plastic cup of orange juice in front of him, and spent the next fifteen minutes standing near the counter sipping her coffee while she settled the folio and handed in the plastic room key at the front desk. Aubrey ate the dry muffin in silence, grateful simply to have six feet of breathing room between them.
 
@@ -320,7 +320,7 @@ At eight-thirty, she helped him transfer into the front passenger seat of the se
 
 Turning right out of the Merit Inn lot onto **Roanoke Street**—where **U.S. Route 11 South** and **U.S. Route 460 West** ran together—she followed the commercial corridor a short distance before taking the right-hand ramp onto the **U.S. Route 460 Bypass** heading northwest toward Blacksburg.
 
-As the sedan accelerated up the four-lane divided highway into the morning mist rising off the New River Valley hills, a large white-and-blue commuter coach crested the grade in the opposite lanes, heading eastbound toward Christiansburg and Roanoke. Squinting through the passenger window as the bus swept past across the grassy median, Aubrey caught a fleeting blur of the bright amber LED destination sign above its windshield, alternating between **`81 ROANOKE EXP`** and **`81 via CBURG TRANS CTR`**.
+As the sedan accelerated up the four-lane divided highway beneath a thickening blanket of dark, overcast clouds pressing low over the New River Valley hills, a large white-and-blue commuter coach crested the grade in the opposite lanes, heading eastbound toward Christiansburg and Roanoke. Squinting through the passenger window as the bus swept past across the grassy median, Aubrey caught a fleeting blur of the bright amber LED destination sign glowing sharply against the gray gloom above its windshield, alternating between **`81 ROANOKE EXP`** and **`81 via CBURG TRANS CTR`**.
 
 A mile later, the synthesized voice of the dashboard GPS chimed over the hum of the tires.
 
@@ -328,17 +328,17 @@ A mile later, the synthesized voice of the dashboard GPS chimed over the hum of 
 
 His mother signaled and eased down the exit ramp onto **Southgate Drive**, entering the sprawling southern gateway of the university. At the second roundabout, following the GPS prompts, she took the second exit onto **Duck Pond Road**.
 
-Aubrey pressed closer to the glass, squinting hard as the campus unfolded to their right. First came the brick-and-stone grandstands and manicured emerald turf of **Foundry Field**, the university's baseball stadium, followed moments later by the dense, manicured canopy and flowerbeds of the **CPI Horticulture Garden**. Even through the soft blur of distance, the sheer scale of the university felt vast, green, and alive.
+Aubrey pressed closer to the glass, squinting hard as the campus unfolded to their right beneath the brooding gray sky. First came the brick-and-stone grandstands and manicured emerald turf of **Foundry Field**, the university's baseball stadium, followed moments later by the dense canopy and flowerbeds of the **CPI Horticulture Garden**. Even through the soft blur of distance and the flat, overcast light, the sheer scale of the university felt vast, green, and alive.
 
 At the top of the road, the GPS instructed her to turn right onto **Washington Street SW**.
 
-They rolled past the intersection of **West Campus Drive**. To their right opened a vast expanse of asphalt—the main arena parking lot fronting **The Furnace**, CPI's massive, arched-roof basketball coliseum. Directly to their left, built into the steep downward slope of the terrain and clad in rugged, rough-cut gray **Ironstone**, stood a six-story residence hall that looked like an aging fortress: **Eleanor Bennett Commonwealth Hall**—known on his housing paperwork simply as **Bennett Hall**.
+They rolled past the intersection of **West Campus Drive**. To their right opened a vast expanse of asphalt—the main arena parking lot fronting **The Furnace**, CPI's massive, arched-roof basketball coliseum. Directly to their left, built into the steep downward slope of the terrain and clad in rugged, rough-cut gray **Ironstone** that matched the storm clouds gathering overhead, stood a six-story residence hall that looked like an aging fortress: **Eleanor Bennett Commonwealth Hall**—known on his housing paperwork simply as **Bennett Hall**.
 
 Because Ms. Higgins had coordinated with Housing to grant Aubrey a Friday morning early move-in accommodation—a full twenty-four hours before Saturday's main freshman move-in day—the arena parking lot across the street was nearly empty, with no move-in volunteers or luggage carts anywhere in sight.
 
 Fortunately, they didn't need a luggage cart at the car. Because his folded manual wheelchair took up nearly the entire trunk, his heavy items—his pillows, blankets, sheets, and towels—had been mailed ahead and were waiting inside in Bennett Hall's mail room. All they had in the car for him were his backpack—weighed down by his dead laptop, its power brick, his power strip, and the snacks and sandwiches his mother had packed—and his canvas gym bag full of clothes.
 
-"Alright, Aubrey, let's get this done so I can get back on the road before the traffic starts," she said, unfolding his wheelchair behind the bumper. After helping him into the seat, she looped the straps of his heavy backpack over the push-handles behind his shoulders and slung his canvas gym bag over her own shoulder.
+"Alright, Aubrey, let's get this done so I can get back on the road before the traffic—and this rain—starts," she said, glancing up at the heavy gray sky as a cool, damp breeze swept across the lot. Unfolding his wheelchair behind the bumper and helping him into the seat, she looped the straps of his heavy backpack over the push-handles behind his shoulders and slung his canvas gym bag over her own shoulder.
 
 She wheeled him across **Washington Street SW**, stopping right in front of the dormitory's street-level glass doors. Built with a grand Ironstone archway and wide automatic doors, the entrance on Washington Street SW looked every bit like a main entrance—and because the street sat at the top of the ridge, it opened directly onto the building's **Second Floor**, the exact floor where **Room 214** was located.
 
@@ -382,7 +382,7 @@ Satisfied, his mother gave a brisk wave, turned on her heel, and marched back do
 
 As the heavy wooden door of Room 214 clicked shut behind his mother's brisk footsteps, Aubrey Jordan Fuller found himself truly alone for the first time in his new dorm room. The quiet of the empty space was a muffled, heavy silence—a sudden, breathtaking relief after the suffocating night at the motel and the rushed chaos of unloading the car. He took a long, steadying breath and began to take a proper inventory of the small space—*his* space.
 
-The room was tiny, clearly designed for two people but now cramped to fit three due to the university's housing crisis. He flipped the main switch by the entry, and a large fluorescent light recessed into the drop ceiling flickered on, bathing the painted cinderblock walls in a harsh, sterile glow. He immediately squinted; the abrupt, glaring light caused the distant corners of the room to blur into a smear, sending a familiar, dull ache throbbing behind his eyes.
+The room was tiny, clearly designed for two people but now cramped to fit three due to the university's housing crisis. Because the sky outside the single window was thick with low, slate-gray storm clouds, the interior was shadowed in a dim morning gloom. He flipped the main switch by the entry, and a large fluorescent light recessed into the drop ceiling flickered on, bathing the painted cinderblock walls in a harsh, sterile glow. He immediately squinted; the abrupt, glaring light caused the distant corners of the room to blur into a smear, sending a familiar, dull ache throbbing behind his eyes.
 
 He rolled forward and looked back at the heavy, dark wood door he'd just entered. From the hallway, he'd tapped his new CPI Poly Pass on the reader, and the door had automatically swung *inward* to let him pass. On the inside wall, tucked over by the frame on the right, he saw the corresponding silver push button stamped with a blue wheelchair symbol. Rolling a few inches closer and narrowing his eyes to focus, he could just make out the brass fixtures embedded in the solid wood of the door: two distinct peepholes, one drilled at standard standing height, and a second one positioned right at his eye level in the chair.
 
@@ -390,7 +390,7 @@ To his immediate left was a closed door, which he knew led to the shared toilet 
 
 Back in the main room, he noted the sink and mirror area next to the toilet door. He rolled his wheelchair closer, a small smile touching his lips as he saw the open space underneath. It was a roll-under sink, intentionally designed without a cabinet so he could pull his knees right up under the basin.
 
-He wheeled toward the single window set in the center of the far wall and turned his chair around to take in the full layout of the room.
+He wheeled toward the single window set in the center of the far wall—where the overcast sky outside was growing steadily darker over the campus—and turned his chair around to take in the full layout of the room.
 
 To his right, looking back toward the wooden entry door, was a standalone, single Twin XL bed with a solid wood frame—Bed A, his assigned spot. His zipped canvas gym bag and the large, unopened cardboard parcel box from the first-floor mail room sat on the floor right where his mother had left them. A matching wooden desk was wedged tightly between the headboard and the front wall of the room.
 
@@ -406,7 +406,7 @@ This was it. College.
 
 **Date:** 2014-08-22 at 13:00 America/New_York
 
-He decided to set up his most important tool first: his laptop. He wheeled himself over to his desk, placed the heavy machine on it, and opened the lid. The battery icon blinked red, and a moment later, the screen went completely black. Dead.
+Outside the single window, the heavy gray clouds that had hung low over Blacksburg all morning had bruised to a deep, threatening charcoal. Before he ventured out to explore the campus and before the sky opened up, he decided to set up his most important tool first: his laptop. He wheeled himself over to his desk, placed the heavy machine on it, and opened the lid. The battery icon blinked red, and a moment later, the screen went completely black. Dead.
 
 He sighed, a silent puff of air, and squinted around the room for an outlet. He spotted one on the cinderblock wall, but its standard height from the floor was just awkwardly out of comfortable reach from his wheelchair.
 
@@ -414,7 +414,7 @@ He maneuvered his chair closer, stretching to try and plug in the bulky adapter.
 
 "Hey there, need a hand?"
 
-A muffled, friendly voice came from his open doorway. Aubrey flinched and turned, instinctively cupping a hand slightly behind his ear to catch the sound. A young woman with a lanyard and an "RA" name tag stood there, her expression kind. "I'm Isabel, one of the RAs for one of the other floors. Just doing my rounds, helping the RA of this floor".
+A muffled, friendly voice came from his open doorway. Aubrey flinched and turned, instinctively cupping a hand slightly behind his ear to catch the sound. A young woman with a CPI Housing lanyard and an "RA" badge stood there, her expression warm and unhurried. "I'm Isabel Dawson, one of the two RAs for this floor. My room is 215, right across the hall—just doing my rounds for early check-ins."
 
 Aubrey felt a flush of embarrassment at being caught struggling. With his laptop completely dead, he was entirely voiceless. Unable to speak, he simply gave a frantic nod and gestured helplessly to the power cord dangling from his hand.
 
@@ -432,19 +432,17 @@ Aubrey hesitated, then nodded. He turned back to the screen and typed again.
 
 <aac>Actually, yeah. The pillows and blankets are kind of a pain.</aac>
 
-For the next ten minutes, Isabel helped him peel open the heavy packing tape on the cardboard box from the mail room and make his bed, placing his sheets, pillows, and blankets exactly how he liked them. She even helped him unpack his canvas gym bag, putting his folded clothes neatly away in the dresser drawers. She was efficient, friendly, and didn't make him feel like a burden.
+For the next ten minutes, Isabel helped him peel open the heavy packing tape on the cardboard box from the mail room and make his bed, placing his sheets, pillows, and blankets exactly how he liked them. She unpacked his canvas gym bag, putting his folded clothes neatly away in the dresser drawers, and set his clean towels and toiletries bag right on the edge of the roll-under sink counter where he could easily reach them. She was efficient, friendly, and didn't make him feel like a burden for a single second.
 
-"There you go," she said finally. "All set". She paused at the door. "Seriously, Aubrey, if you need any help with anything, you just find me or any of the other RAs, or the hall director. That's what we're here for".
+"There you go," she said finally. "All set. Also, just so you know, the accessible roll-in shower room for our floor is just a few doors down the hall toward the central atrium." She paused at the open doorway and gestured diagonally across the staggered hallway toward her own door. "Seriously, Aubrey, my room is right across the hall in 215. If you need any help with anything at all, you just knock on my door, or find our other floor RA, Henry Walsh, over in the other wing in 201, or our Hall Director, Kelsey. That's what we're here for."
 
 Aubrey leaned close to the keyboard and typed a final message.
 
 <aac>I will. Thank you, Isabel. Do you know who my two roommates are? Or when they will arrive?</aac>
 
-Isabel gave him an apologetic look. "I'm sorry, I don't have that information," she explained. "Since I'm not the regular RA for this floor, I don't have access to the detailed room roster with names and arrival times. I'm just helping out with early check-ins today".
+Isabel glanced down at her clipboard and gave him an apologetic look. "I'm sorry, I only have the Friday early check-in list on my clipboard right now," she explained. "Since Bennett Hall is co-ed by suite now—each connecting suite is all guys or all girls, even if the next suite over is the opposite gender—Henry is downstairs with Kelsey going over the master room roster and printing the door cards for tomorrow. Main move-in starts tomorrow morning, so you can expect the other guys in your suite to start arriving tomorrow at the soonest. Looks like you've got the whole place to yourself for tonight!"
 
-She then offered a reassuring smile. "But I do know that the main move-in day starts tomorrow morning. So, you can expect them to start arriving tomorrow at the soonest. Looks like you've got the whole suite to yourself for tonight!"
-
-Aubrey nodded, a wave of both relief and nervousness washing over him. One night of peace before meeting the two strangers who would become his new roommates.
+Aubrey nodded, a wave of both relief and nervousness washing over him. One night of peace before meeting the strangers who would become his new roommates.
 
 ### Scene 4: Stranded
 
@@ -486,129 +484,229 @@ He managed to transfer back into his wheelchair and tried to focus on arranging 
 
 Defeated, he transferred from his wheelchair back to his bed. Still fully clothed in yesterday's layers, he pulled the blanket up over his head, desperate for just a few minutes of quiet. The steady, grating hum of vibrations from the hallway eventually lulled him back into a fitful, uneasy sleep.
 
-### Scene 2: An Unlikely Welcome
+### Scene 2: A Clerical Error
 
 **Date:** 2014-08-23 at 10:30 America/New_York
 
-Around mid-morning, his door swung open. A young woman with her arms full of bags stopped short, seeing the room clearly already occupied, and a boy fast asleep in the single bed.
+Around mid-morning, the heavy latch of Room 214 clicked, and the wooden door swung wide open. A sudden bar of corridor light spilled across the dim linoleum floor.
 
-"Oh! I am so sorry," she said, her eyes wide with confusion. "I must have the wrong room".
+A young woman with long brown hair woven into a practical side braid stepped across the threshold, her arms loaded down with canvas bags and a plastic tote. Two steps inside, she stopped dead in her tracks. Her hazel eyes went wide as she took in a room that was unmistakably already lived-in: a folded manual wheelchair parked right beside the lowered single bed, a pair of untied sneakers lying on the floor, a heavy laptop resting on the desk, and a boy curled beneath the blankets, fast asleep.
 
-Her voice cut through his sleep. Aubrey jolted awake, his heart hammering. He slowly sat up, disoriented, squinting at the blurry figure of a girl standing in his room. His stomach clenched; he was stiff, uncomfortable, and felt a flush of shame.
+"Oh! I am so sorry," she gasped, taking a hasty half-step back toward the doorway where her parents stood waiting in the bustling hall with a rolling cart. "I must have the wrong room."
 
-He frantically reached for his heavy laptop resting nearby, popping the lid open. He hunched close to the screen, his fingers clumsy as he typed into his *SimpleSpeak* software. He hit the execute key.
+Her voice cut through the shallow fog of Aubrey's sleep. He jolted awake, his heart hammering wildly against his ribs. Disoriented, he pushed himself upright on the mattress, the stiff denim of yesterday's jeans twisting uncomfortably around his legs. A hot flush of mortification surged up his neck. He had been caught asleep in the middle of the morning, still wearing the wrinkled clothes he hadn't been able to take off the night before, with his shoeless feet tucked under the sheets.
 
-<aac>Is this room 214?</aac> the robotic voice asked, flat and emotionless.
+Squinting through the heavy blur of distance toward the figure framed in the open doorway, every muscle in his shoulders locked tight. After eighteen years under his mother's roof, his body braced by pure reflex for the inevitable explosion—for a sharp, furious voice to snap at him, for a look of disgust, or for an accusation that he had done something stupid and wrong.
 
-"Yeah, but..." She didn't flinch at the synthesized voice. She just glanced at the name card on the open door. "My room is 214. I'm Aubrie Jean Kelly".
+Instead, as he blinked hard to clear the haze, the girl standing at the threshold didn't look angry at all. She wasn't glaring, and she wasn't recoiling from him. Even through the soft blur of distance, he could see the open, unhurried gentleness in her posture and hear the quiet concern in her voice. He looked lost, terrified, and small beneath the blankets, yet for the first time in his life, a stranger was looking back at him with simple, unguarded kindness—like a quiet new light switching on inside a dark room.
 
-Aubrey’s own confused gaze followed hers to the door card. He squinted, struggling to make out the letters until they finally resolved. He saw her name, and his own right below it: *Aubrey Jordan Fuller*. He also saw another name: *Madison Elizabeth Scott*. The names hit him with the force of a physical blow. Females. His roommates were females.
+Desperate to answer her, Aubrey reached clumsily from the edge of the mattress toward his desk, dragging his heavy laptop onto his knees. He popped the lid open, hunched forward until his nose was barely two inches from the dim LCD screen, and squinted fiercely at the keys as he typed into his *SimpleSpeak* software. He hit the execute key.
 
-The booming, grating noise vibrating from the hallway, the immediate presence of a stranger of the opposite gender, and the terrifying certainty that he was the one in the wrong room all converged at once. In a blind panic, he threw the blanket off and clumsily transferred himself from the bed into his wheelchair. He had to get out. He had to pack. But the panic rose too fast, and his control shattered entirely. The harsh light of the room became agonizingly bright, and the noise from the hallway transformed into a sharp, punishing physical pressure. He squeezed his eyes shut, and a loud, piercing cry tore from his throat. He began to rock back and forth violently in his wheelchair, his hands flying up to cover his ears as he tried desperately to block out a world that felt like it was crushing him.
+<aac>Is this room 214?</aac> the flat, robotic voice of *Quantum David* asked the room.
 
-The girl, Aubrie Jean, watched his reaction, and her own expression shifted from confusion to a deep, immediate understanding.
+The girl didn't flinch or make a face at the mechanical voice. Instead, her brow furrowed thoughtfully, and she leaned back across the threshold to check the clear plastic card holder mounted on the exterior doorframe—where, unbeknownst to Aubrey while the Friday afternoon downpour had kept him shut inside his room, the floor's other RA, Henry Walsh, had slipped the freshly printed Saturday room roster card.
 
-"It's okay," she said to her parents, who were standing worriedly in the hall behind her. "He's not angry. He's overwhelmed".
+"Yeah, but..." she said slowly, her finger tracing the printed lines on the card. "My room is 214. I'm Aubrie Jean Kelly."
 
-She put her things down and took a slow, deliberate step into the room. "Aubrey," she said, her voice quiet and even, steady enough to reach him through his panic. "My name is Aubrie. It's okay. You're safe. Focus on my voice".
+Aubrey’s confused gaze followed hers to the open doorframe. Leaning as far forward on the mattress as his balance allowed, he squinted hard at the white slip of cardstock until the blurry black letters finally resolved into focus.
 
-He continued to rock and cry out, unable to stop.
+Right at the top was his own legal name: *Aubrey Jordan Fuller*. Directly beneath it was hers: *Aubrie Jean Kelly*. And below that was a third name: *Madison Elizabeth Scott*.
 
-"Is it okay if I put my hand on your shoulder?" she asked gently.
+The three names hit him with the force of a physical blow. His breath caught in his throat as the terrible logic of the university's mistake clicked into place. His mother had named him *Aubrey*—and someone in the Housing Office, glancing down a spreadsheet in the middle of a campus-wide housing crisis, had assumed *Aubrey Jordan Fuller* was a girl.
 
-Slowly, fighting through the sheer terror gripping his chest, Aubrey gave a short, sharp nod. Aubrie Jean placed her hand firmly on his shoulder. Aubrey’s shoulders shuddered, and he gave another, almost desperate nod, a silent plea for more grounding. Understanding washed over Aubrie’s face. She moved behind his wheelchair and wrapped her arms around his shoulders in a firm, secure hug.
+*Females.* His roommates were females.
 
-This was the first time in his life he had ever received an unconditional hug.
+### Scene 3: System.Crash
 
-It was at that exact moment that the door opened again. A second young woman, Madison Scott, entered hauling a large box. She froze, taking in the scene and the sound of his fading cries. "Uh... is this room 214?"
+**Date:** 2014-08-23 at 10:35 America/New_York
 
-Aubrie didn’t break her focus. "It is," she said quietly. "He's really overwhelmed. Could you maybe close the door?"
+For a single, suspended heartbeat, the quiet room held still. Then everything crashed in on him at once.
 
-Madison immediately pushed the door closed, dulling the hallway noise. She looked at Aubrey, at his wrinkled clothes and the sheer distress on his face, and her heart went out to him. "What can I do?" she whispered compassionately.
+Through the open doorway, the booming, muffled roar of the second-floor hallway—shouting voices, slamming doors, and the heavy rumble of rolling move-in carts—surged into the small space like an avalanche. Above him, the recessed fluorescent fixture glared against the painted cinderblock walls with a sudden, blinding intensity. And right across the threshold stood a girl his own age and her parents, staring into a female dorm room where an eighteen-year-old boy had been sleeping.
 
-"Just... be calm," Aubrie replied. "It'll pass. We just have to ride it out".
+*A mistake. I'm the mistake.*
 
-Madison nodded, pulling up a desk chair and sitting a few feet away, offering a quiet, non-judgmental presence. Over the next hour, as Aubrey’s piercing cries slowly subsided into shuddering breaths, the chaotic move-in continued. A girl with vibrant purple hair, Zoë Brooks, poked her head in from the connecting bathroom door, her eyes wide. "Uh, hi. I'm in 216. Is everything okay? There's a... guy in here. Is he helping you two with move in?"
+The thought ricocheted through his skull, drowning out everything else. He wasn't supposed to be here. This wasn't his room—it was a girls' suite, and he was the intruder sitting in the middle of it. At any second, the girl's father was going to start shouting at him. Someone was going to call campus security and throw him out into the corridor in front of the entire floor.
 
-Before Aubrie could explain, two more girls, Hannah Parker and Lauren Barnes, appeared behind Zoë, their expressions ranging from curious to concerned. Zoë took one look at the door card for Room 214 and the exhausted boy in the wheelchair, and her face set with determination. "Okay, something's definitely wrong here. I'm going to get the RA".
+*Have to move. Have to pack. Have to get out.*
 
-### Scene 3: The Hall Director
+Panic seized his chest like an iron fist, cutting off his air. He had to pack his things right now—except his clothes were folded inside the dresser drawers where Isabel had put them yesterday, his sheets and blankets were out of the cardboard box whose tape she had peeled open for him, and his untied sneakers were lying on the linoleum floor beside the bed where he couldn't reach them and couldn't tie the laces even if he tried. He couldn't pack a single box by himself. He couldn't put on his own shoes. He couldn't walk out the door. He was completely, utterly helpless.
 
-**Date:** 2014-08-23 at 11:45 America/New_York
+In a blind, suffocating terror, Aubrey shoved his heavy laptop off his lap onto the mattress, threw the blanket off his legs, and hauled himself clumsily from the bed into his manual wheelchair. The frame shuddered beneath him as he landed hard in the seat. His trembling hands fumbled wildly at his push-rims, jerking the chair half a turn toward the desk as if he could rip his power cord out of the strip and bolt for the door in his socks—only to find the doorway blocked by bags, boxes, and the blurry shapes of strangers watching him.
 
-Zoë, ever the pragmatist, slipped past the gathered girls and stepped into the chaotic hallway. It took her only a minute to locate a harried-looking young man with an "RA" lanyard directing a family with a rolling bin.
+There was nowhere to go. The compounding stressors—the sleepless night in his jeans, the roaring wall of hallway noise vibrating up through the floorboards into his bones, the humiliating certainty that he had failed before classes had even begun, and the impossibility of escape—slammed together all at once. His internal system suffered a complete, catastrophic failure.
+
+The glare of the overhead fluorescent tube turned into white-hot needles behind his eyes. The muffled roar funneling in from the corridor became a crushing physical vise around his ribs until he couldn't draw a breath, couldn't think, couldn't process a single word.
+
+*It's too much. It's too much.*
+
+He squeezed his eyes shut, and a loud, piercing cry tore involuntarily from his throat—the raw, shattered sound of a mind pushed completely past its breaking point. His hands flew up from the push-rims to clamp tightly over both ears, his fingers digging into his hair as he began to rock violently back and forth in his wheelchair, trying desperately to block out a world that was caving in around him.
+
+### Scene 4: The Anchor Holds
+
+**Date:** 2014-08-23 at 10:40 America/New_York
+
+Out in the corridor, Aubrie Jean's father took a startled step toward the threshold, his brow creasing with alarm at the sound of the boy's cries.
+
+Aubrie Jean Kelly, however, didn't flinch, and she didn't retreat a single inch. Being autistic herself, she knew the exact, punishing anatomy of a sensory crash from the inside out. As she watched the boy rocking violently in his wheelchair with his palms clamped hard over his ears and his eyes squeezed shut against the glare of the ceiling light, every trace of confusion vanished from her face, replaced by a deep, immediate recognition.
+
+"It's okay," she said firmly, turning a calm, steady hand toward her parents in the hallway to stop them at the threshold. "He's not angry. He's overwhelmed. Give me a few minutes—go ahead and bring the rest of the bins up from the car."
+
+Her parents hesitated for a beat, reading the quiet certainty in their daughter's posture, before nodding and stepping back down the corridor toward the elevators.
+
+Aubrie set her canvas bags quietly on the floor by the entry so they wouldn't make a sound. She took a slow, deliberate step into the room, keeping her movements unhurried and predictable.
+
+"Aubrey," she said, pitching her voice into a low, steady, even cadence designed to slip gently beneath the static flooding his brain. "My name is Aubrie. It's okay. You're safe. Nobody is mad at you. Focus on my voice."
+
+He couldn't stop rocking. Ragged, shuddering cries continued to tear from his chest as his palms pressed harder against his ears, his lungs starving for air against the phantom weight crushing his ribs.
+
+Aubrie stopped a step away from his wheelchair, careful not to crowd him or touch him without warning. "This isn't a trap, Aubrey. You have a choice," she murmured softly. "Is it okay if I put my hand on your shoulder?"
+
+Slowly, fighting through the blinding static and the sheer terror gripping his chest, Aubrey managed a short, sharp nod.
+
+Aubrie Jean reached out and placed her hand firmly and steadily on his shoulder. The solid, warm pressure cut through a fraction of the spinning chaos in his head. His shoulders shuddered violently under her palm, and he gave another, almost desperate nod—a silent, wordless plea for more grounding before he floated away entirely.
+
+Understanding washed over Aubrie's face. "Is it okay if I hug you?" she asked softly, and when he nodded again, she stepped quietly behind his wheelchair, leaned down, and wrapped both arms around his shoulders in a firm, secure, deep-pressure embrace—holding him steady like a living anchor against the storm.
+
+Aubrey froze for a fraction of a second as the steady warmth of her arms registered through his trembling frame. For eighteen years, physical touch had meant his mother's rough, impatient hands yanking at his sleeves or scrubbing his skin raw, or a stiff hand clamping onto his shoulder to pose him for a photograph. He had never known touch could be a shield. This was the very first time in his entire life he had ever received an unconditional hug.
+
+It was at that exact moment that the hallway door swung wider. A second young woman—petite, with long wavy blonde hair and a dusting of freckles across her nose—stepped inside hauling a large cardboard box against her hip. Madison Elizabeth Scott froze mid-step, taking in the sight of the girl holding a crying boy in a wheelchair.
+
+"Uh... is this room 214?" Madison asked, her bright blue eyes wide.
+
+Aubrie didn't loosen her grounding hold around Aubrey's shoulders for a second. "It is," she said quietly. "He's really overwhelmed right now. Could you maybe close the door?"
+
+Madison didn't hesitate. She set her box down on the floor and pushed the heavy wooden door shut until the latch clicked, instantly cutting the roaring hallway noise down to a distant, muted hum. Stepping over to the wall switch, she also flipped off the harsh overhead fluorescent tube, leaving the room bathed only in the soft gray daylight filtering through the single window. She looked at Aubrey—at his wrinkled clothes, his shoeless feet resting on the footplates, and the raw distress etched across his face—and her heart went out to him immediately. "What can I do?" she whispered compassionately.
+
+"Just... be calm," Aubrie replied softly, her chin resting gently near his shoulder as she maintained the steady pressure around his frame. "It'll pass. We just have to ride it out."
+
+Madison nodded, quietly pulling out a wooden desk chair and sitting a few feet away, offering a calm, non-judgmental presence. Over the next forty-five minutes, held safely within the steady anchor of Aubrie's arms in the dimmed, quieted room, the static in Aubrey's head slowly receded. His piercing cries gradually softened into ragged, shuddering breaths, and the violent rocking finally stilled.
+
+Just as his breathing began to even out, the connecting bathroom door clicked open from the other side. A tall girl with glasses and vibrant purple hair, Zoë Wren Brooks, poked her head in from Room 216, her analytical gray eyes widening in surprise. "Uh, hi. I'm in 216. Is everything okay? There's a... guy in here. Is he helping you two with move-in?"
+
+Before Aubrie or Madison could explain, two more young women—Hannah Ashlee Parker and Lauren Nicole Barnes—appeared in the bathroom doorway behind Zoë, their expressions shifting from curiosity to concern. Zoë stepped into Room 214, glanced from the exhausted, red-eyed boy in the wheelchair to the open dresser drawers and the printed name card outside the door, and her jaw set with pragmatic determination.
+
+"Right, something is definitely wrong with the roster," Zoë declared. "I'm going to get the RA."
+
+### Scene 5: The Hall Director
+
+**Date:** 2014-08-23 at 11:30 America/New_York
+
+Zoë, ever the pragmatist, slipped past the gathered girls and stepped out into the chaotic second-floor hallway. With Isabel stationed downstairs at the first-floor lobby check-in tables greeting incoming families, it took Zoë less than a minute to locate the floor's male RA, Henry Walsh—a harried-looking junior with an "RA" lanyard who had crossed over from the opposite wing and was directing a family with an overflowing rolling bin near the elevators.
 
 "Excuse me," Zoë said, tapping his shoulder. "Are you the RA for this floor? We have a significant logistical error in Room 214."
 
-Henry followed Zoë back to the suite. He stepped inside, his eyes darting between the five young women and the exhausted, frightened boy in the wheelchair with a heavy laptop resting on his lap. He glanced at the door card, then back to the boy.
+Henry followed Zoë back down the corridor and stepped across the threshold of the suite. His eyes darted rapidly between the five young women and the exhausted, pale boy sitting in the manual wheelchair with a heavy laptop resting on his lap. Henry glanced back out at the door card he himself had slipped into the plastic holder the afternoon before, then back to the boy.
 
-"Aubrey Fuller?" Henry asked.
+"Aubrey Fuller?" Henry asked, his voice rising half an octave.
 
-Aubrey, drained but calm now that the initial sensory storm had passed, gave a small nod. A look of dawning horror crossed Henry's face. "Oh no. I think... I think Housing made a mistake. 'Aubrey' is usually a girl's name. I... I have to get the Hall Director."
+Aubrey, drained to the bone after the sensory storm had passed, gave a small, hesitant nod. A look of dawning horror crossed Henry's face as he stared at the boy in the wheelchair. "Oh no. I think... I think Housing made a mistake. 'Aubrey' is usually a girl's name. I... I have to get the Hall Director."
 
-Henry backed out of the room, pulling a black two-way radio from his belt. "Henry to Kelsey, priority," he said, his voice tight with panic. "I need you at Room 214. Immediately. Housing messed up big time."
+Henry backed hastily out into the hallway, unclipping a black two-way radio from his belt. "Henry to Kelsey, priority," he said into the mic, his voice tight with poorly concealed panic. "I need you at Room 214. Immediately. Housing messed up big time."
 
-The urgency in Henry's voice, combined with his frantic pacing outside the door, immediately caught the attention of the surrounding freshmen. Families paused mid-lift with mini-fridges and boxes. Whispers began to ripple down the corridor over the sounds of rolling carts.
+Because Bennett Hall was an older, two-wing residence hall that had originally been built decades ago with a men's wing and a women's wing before being modernized into single-gender suites alternating along the same corridor, seeing both guys and girls moving into adjacent suites on the second floor was completely normal. The urgency in Henry's tone, however, combined with his frantic pacing outside the open doorway of 214, immediately caught the attention of the surrounding freshmen and their parents. Families from the neighboring male and female suites paused mid-lift with mini-fridges and plastic totes. Whispers began to ripple down the corridor over the rumble of rolling carts.
 
-"What's going on?" a girl from across the hall murmured to her roommate.
+"What's going on?" a girl from down the hall murmured to her roommate.
 
-"I don't know, the RA looks freaked out," the other replied, craning her neck to look down the hall.
+"I don't know, the RA looks completely freaked out," the other replied, craning her neck toward the even-numbered side of the hall.
 
-They glanced at the door card for 214—*Aubrey Jordan Fuller, Aubrie Jean Kelly, Madison Elizabeth Scott*—and naturally assumed the names belonged to three girls. Catching a brief glimpse of the boy in the wheelchair through the doorway, they, much like Zoë had initially, simply assumed he was a brother or a friend helping the girls with the heavy lifting. It made the staff's frantic reaction all the more baffling; why would an RA need to call the Hall Director on a two-way radio just because a family member was helping someone unpack?
+Passing families glanced at the door card for 214—*Aubrey Jordan Fuller, Aubrie Jean Kelly, Madison Elizabeth Scott*—and naturally assumed the three names belonged to three female freshmen. Catching a brief glimpse of the boy in the wheelchair through the open doorway, they, much like Zoë had initially, simply assumed he was a brother or a friend helping the girls move in. It made the RA's frantic radio call all the more baffling; why on earth would Residence Life summon the Hall Director over a two-way radio just because a relative was inside helping unpack?
 
-A few minutes later, Kelsey, the Hall Director, hurried down the corridor and pushed through the small gathering of curious onlookers. She stepped into the crowded suite, taking in the scene. Her expression was weary but kind.
+Three minutes later, Kelsey Brennan, the live-in Hall Director of Bennett Hall, hurried down the second-floor corridor with a thick master binder under her arm and eased past the small cluster of curious onlookers. She stepped into the crowded suite, taking in the six students at a single glance. Her expression was weary from a morning of move-in crises, but grounded and kind.
 
-Henry quickly stepped to her side, his voice a frantic whisper that carried in the small room. "Kelsey, the roster lists 'Aubrey Fuller' for Bed A," he explained, gesturing helplessly toward the young man in the wheelchair. "Housing put him in a female suite. They thought he was a girl."
+Henry quickly stepped to her side, his voice a frantic stage-whisper that carried easily across the small cinderblock room. "Kelsey, the master roster lists 'Aubrey Fuller' for Bed A," he explained, gesturing helplessly toward the young man in the wheelchair. "Housing put him in a female suite. They thought he was a girl."
 
-Kelsey blinked, looking from Henry to the door card, and finally to the six students staring back at her. She rubbed her temples, absorbing the reality of the situation.
+Kelsey blinked, looking from Henry's clipboard to the double-peephole door, and finally to the boy in the wheelchair and the five young women standing around him. Flipping open her master binder, she cross-referenced the early-arrival accommodation sheet with the automated suite roster, and rubbed her temples as the exact mechanics of the administrative collision clicked into place.
 
-"Okay, folks," Kelsey began, sighing heavily. "It appears we have a significant clerical error from the Housing Office."
+"Okay, folks," Kelsey began, letting out a long sigh. "It appears we have a significant clerical error from the Housing Office."
 
-Aubrey instinctively leaned forward and cupped a hand behind his right ear, trying to isolate Kelsey's words from the low, rumbling hum of the hallway traffic behind her. From her spot near the bathroom door, Zoë's eyes tracked the movement. She tilted her head, a quiet realization dawning as she noted the subtle, practiced way he angled his head to hear.
+Aubrey instinctively leaned forward and cupped a hand slightly behind his right ear, trying to isolate Kelsey's words from the low, rumbling hum of the hallway traffic behind her. From her spot near the connecting bathroom doorway, Zoë's analytical gray eyes tracked the movement. She tilted her head a fraction of an inch, quietly cataloging the subtle, practiced way he angled his head to catch spoken frequencies.
 
-"Aubrey, they assigned you here assuming you were female," Kelsey continued. She laid out the grim reality of the university's housing crisis. The dorms were overbooked, and overflow students were already being placed in hotels up to thirty minutes away by bus.
+"Normally, our housing software checks gender automatically," Kelsey explained, looking sympathetically at Aubrey. "However, our designated ADA-accessible rooms like 214 are held out of the automated lottery and entered manually from an accommodation spreadsheet that only lists student names and bed codes—not gender. When our assignments staff released the other five beds in Suite 214 and 216 back into the computer for the forced-tripling crunch, someone glanced at 'Aubrey Jordan Fuller' in Bed A, assumed you were female, and manually flagged the rest of the suite for five women."
 
-"Here's the situation. Aubrey is staying. This is the designated handicap-accessible suite on the floor, and we have no other place for him," Kelsey explained, looking directly at the five young women. "For the rest of you, I can start the process of finding you a new room assignment, but I cannot guarantee it won't be in one of those hotels. And I can't guarantee you'd all stay together."
+She looked around the cramped room and laid out the institutional deadlock they were now facing. Under normal circumstances, Residence Life would have reassigned a mixed-gender suite error within the hour. Today, however, the university was in the grip of an unprecedented Fall 2014 housing crisis: freshman enrollment had exceeded capacity by hundreds of beds, every two-person room in Bennett Hall was already tripled to hold three students, and overflow freshmen were actively being housed in commercial highway hotels up to thirty minutes away by bus.
 
-Lauren was the first to speak. "So, we can either stay here, with... Aubrey," she said, giving him a small, reassuring smile, "or get shipped off to a hotel thirty minutes away?"
+"Here's the reality of our situation," Kelsey said, looking directly at the five young women. "First, Aubrey is staying right here. Room 214 is the designated handicap-accessible room on this floor, every other ADA room on campus is occupied, and under federal disability law, he cannot be moved out of an accessible suite. For the five of you, if you want to be reassigned to another all-female space, I can start that process right now—but I have to be completely transparent with you. Because the dorms are at one hundred and fifty percent capacity, I cannot guarantee your new assignments won't be in one of those overflow hotels thirty minutes away, and I cannot guarantee the five of you would stay together."
 
-Kelsey nodded. The five girls immediately leaned in, forming a tight huddle. Aubrie Kelly stepped behind Aubrey's wheelchair and gently pulled him backward just a few inches, seamlessly integrating him right into the center of their circle.
+Lauren was the first to break the silence. "So, we can either stay right here on campus, with... Aubrey," she said, offering him a small, warm, reassuring smile, "or get split up and shipped off to a hotel thirty minutes away?"
 
-Aubrey froze. A sudden, overwhelming wave of emotion hit him, entirely different from his earlier panic. He had spent his entire life on the outside looking in, entirely dictated to by his mother. He had never been brought into a circle. He had never been included.
+Kelsey nodded solemnly. "Because all six of you are eighteen-year-old legal adults, if every single person in this suite agrees and signs a mutual co-ed accommodation waiver, I have the authority as Hall Director to approve an emergency exception—at least for the next two weeks until the post-census room freeze settles."
 
-Aubrie looked down at him. "What do you think? Are you okay with this?"
+Without a word, the five young women immediately leaned in, forming a tight huddle in the center of the room. Then Aubrie Kelly stepped behind Aubrey's wheelchair, grasped the push-handles gently, and rolled him backward just a few inches—seamlessly pulling him right into the circle with them.
 
-He was so taken aback by the simple act of being asked that his hands shook as they hovered over his keyboard. He hunched over the laptop, bringing his face mere inches from the dim screen, his eyes squinting fiercely as he painstakingly typed his response. Standing next to him, Lauren frowned, her gaze dropping from his intense, strained expression to the screen. It was obvious to her in that moment just how profoundly he was struggling to see the letters.
+Aubrey froze, his breath catching in his throat. A sudden, overwhelming wave of emotion hit him, entirely different from his earlier panic. He had spent his entire eighteen years on the outside looking in, spoken about in the third person while his mother dictated every decision over his head. He had never been brought into a circle. He had never been included.
+
+Aubrie looked down at him, her hazel eyes warm and steady. "What do you think? Are you okay with this?"
+
+He was so taken aback by the simple dignity of being asked for his opinion that his hands trembled as he pulled his heavy laptop closer across his knees. He hunched low over the keyboard, bringing his face mere inches from the dim screen and squinting fiercely as he painstakingly typed his response. Standing right beside his chair, Lauren frowned slightly, her artist's eye dropping from his strained, squinting expression to the tiny letters on the monitor as she realized just how hard he was working simply to see the screen.
 
 He finished typing and clicked the play button on his *SimpleSpeak* software.
 
 <aac>I don't want to cause a problem,</aac> the robotic, digitized voice announced to the huddle.
 
-"It's not your fault," Madison said firmly, completely unbothered by the synthesized voice. "It's the university's mess."
+"It's not your fault at all," Madison said firmly, completely unbothered by the synthesized voice. "It's the university's mess, and there is no way I'm living in a highway hotel when we already have a great room right here."
 
-Zoë looked at Kelsey. "We'll tough it out. For two weeks, at least. We'll stay."
+"Agreed," Hannah nodded warmly. "We're all adults here. We can make this work."
 
-With the tension broken and Kelsey and Henry leaving relieved, the group began to introduce themselves. Aubrie smiled wryly. "So, Aubrey and Aubrie, huh? My mom and dad liked the name so much they gave it to me."
+Zoë turned back to Kelsey, her posture decisive. "We'll tough it out. For two weeks, at least, until the dust settles. Produce the waiver—we'll stay."
 
-Aubrey leaned close to his screen again, squinting to bring the keys into focus as he typed out a response. He clicked play.
+### Scene 6: A Joke That Stuck
 
-<aac>My mom's name is Aubrie, too. Different spelling. She said she put 'Aubrey' on my birth certificate as a joke that just kind of... stuck.</aac>
+**Date:** 2014-08-23 at 11:50 America/New_York
 
-He paused, his fingers hovering over the keys. He took a slow, deep breath. He looked around at the five young women who had just chosen to stay with him, who hadn't pitied him, who had included him. He seized his first small act of defiance against a lifetime of his mother's absolute control. He typed again.
+With the administrative crisis resolved, Kelsey Brennan noted the six students' verbal consent on her clipboard, promised to file the co-ed suite waiver with the Housing Office that afternoon, and stepped back out into the corridor with a visibly relieved Henry Walsh in tow.
 
-<aac>But... you can call me Jordan. It's my middle name. I think I'll go by Jordan here.</aac>
+As the heavy wooden door clicked shut behind them, a quiet, post-storm stillness settled over Room 214. For a beat, the six new suitemates simply looked at one another—five young women and one exhausted boy in a wheelchair—realizing that against every normal rule of freshman move-in day, they were officially living together.
 
-"Jordan," Aubrie repeated, nodding approvingly. "I like it. Hey, what's your major?"
+Aubrie Jean Kelly was the first to break the quiet, offering him a wry, gentle smile as she leaned against the frame of the lower bunk. "So, Aubrey and Aubrie, huh?" she said softly. "Spelled a little differently, though—mine's `I-E` at the end. My mom and dad liked the name so much they gave it to me."
 
-Jordan hesitated, his stomach tightening as his fingers moved over the keys to type the name of the complex degree his mother had chosen explicitly to prove he would fail.
+Aubrey felt a familiar, hollow ache tighten in his chest at the sound of his legal first name. For eighteen years, that name had been a leash—a daily source of embarrassment in school roll calls, a constant reminder that his mother viewed him not as a person of his own, but as a literal extension of herself, and now the exact trigger for the humiliating mix-up that had nearly shattered him twenty minutes ago.
+
+Yet as he looked up at Aubrie Jean—and at Madison, Zoë, Lauren, and Hannah standing around the small room—nobody was laughing at him. Nobody was treating him like a freak or an inconvenience.
+
+He leaned close to his laptop screen again, squinting to bring the keys into focus as he typed out the truth he had never been allowed to say out loud. He clicked play.
+
+<aac>My mom's name is Aubrie, too. Different spelling—with an I-E, just like yours,</aac> the flat, robotic voice of *SimpleSpeak* told the room. <aac>She said she put 'Aubrey' with a E-Y on my birth certificate as a joke that just kind of... stuck.</aac>
+
+A quiet ripple of sympathy passed across the girls' faces. Even without knowing the full history of the woman who had dropped him off yesterday morning, the sheer cruelty of naming a child as a "joke" hung noticeably in the air.
+
+He paused, his fingers hovering over the plastic keys. His heart beat faster against his ribs, not with panic this time, but with a sudden, dizzying surge of possibility. His mother wasn't in this room. She wasn't standing behind his wheelchair waiting to smack his shoulder or tell him who he was allowed to be. He looked around at the five young women who had just chosen to stay with him, who had grounded him through his worst moment, and who had pulled his chair right into the center of their circle.
+
+Right here, in Room 214, he had a chance to change his history. He seized his first true act of defiance against a lifetime of his mother's absolute control, and his fingers moved decisively across the keyboard.
+
+<aac>I hate the name Aubrey,</aac> the synthesized voice declared. <aac>But... you can call me Jordan. It's my middle name. I think I'll go by Jordan from now on.</aac>
+
+The transformation in the room was immediate.
+
+"Jordan," Aubrie repeated, trying the name out with a warm, approving nod. "I really like it. It suits you."
+
+"Jordan it is," Madison beamed, giving a decisive nod from the desk chair. "Honestly, having two Aubreys in one bedroom was going to be a logistical nightmare anyway. Welcome to the suite, Jordan."
+
+"A much more efficient identifier," Zoë agreed with a small, approving smile—and in the quiet stillness of the closed room, with the static of his meltdown finally gone, Jordan registered for the first time that she spoke with a crisp British accent.
+
+Hearing the name *Jordan* spoken aloud with such effortless warmth sent a shiver of pure relief down his spine. It felt like shedding a heavy, suffocating coat he had been forced to wear his entire life.
+
+"Hey, Jordan, what's your major?" Aubrie asked curiously, tilting her head.
+
+Jordan hesitated. Immediately, his stomach knotted again as his mother's voice echoed coldly in the back of his skull—her mocking smile at the Merit Inn as she waited for his *"silly college experiment"* to come crashing down. Slowly, bracing himself for the inevitable look of pity or disbelief that a guy who couldn't even plug in his own laptop was attempting one of the hardest degrees on campus, his fingers moved over the keys to type the name of the complex major his mother had chosen explicitly to prove he would fail.
 
 <aac>Astrophysics,</aac> the flat, robotic voice stated.
 
-Instead of pity or confusion, Aubrie's eyes lit up brightly. "No way! Me too!"
+He tensed, waiting for her to laugh or offer a polite, awkward subject change.
 
-For the first time, a fragile, terrifying hope sparked in his chest. Maybe he wasn't set up to fail. Maybe he would have someone to climb the mountain with him.
+Instead, Aubrie's hazel eyes lit up like a flare in the dark, and a brilliant, unguarded grin broke across her face. "No way! Me too!"
 
-### Scene 4: Making It Official
+Jordan blinked, staring at her in stunned silence.
+
+"Seriously, there are barely any freshman Astrophysics majors in our entire class!" Aubrie said, practically bouncing on the edge of the lower bunk with excitement. "Do you have Dr. Alistair for Astronomy 101 on Monday morning?"
+
+Jordan's hands flew back to the keyboard, squinting hard at the screen as he checked his memory of the printed schedule in his backpack. <aac>Yes. Monday, Wednesday, Friday at ten,</aac> he typed.
+
+"That's my section!" Aubrie beamed. "We're in the exact same class!"
+
+For the first time since his mother's car had pulled out of the Virginia Beach driveway, the crushing stone in Jordan's gut began to crack. His mother had picked Astrophysics as an insurmountable mountain designed to break him and force him to crawl back home in defeat—and by a one-in-a-million clerical error over a name he hated, the universe had placed him in the exact same dorm room as the one girl on campus who loved the stars and wanted to climb that mountain right beside him.
+
+### Scene 7: Making It Official
 
 **Date:** 2014-08-23 at 12:00 America/New_York
 
@@ -652,7 +750,7 @@ In the hallway, a few freshmen and their parents, who had paused their unpacking
 
 "I think so," the neighbor whispered back, eyes wide. "Did Housing seriously put a guy in there?"
 
-### Scene 5: Logistics of a Co-Ed Suite
+### Scene 8: Logistics of a Co-Ed Suite
 
 **Date:** 2014-08-23 at 15:30 America/New_York
 
@@ -690,7 +788,7 @@ The bystanders watched as Aubrie confidently took the handles of Jordan's wheelc
 
 In the bustling cafeteria, they found a large table and sat together, sharing stories about their hometowns and their anxieties about starting college. For the first time, Jordan didn't feel like an outsider; he felt like a friend.
 
-### Scene 6: The First Choice
+### Scene 9: The First Choice
 
 **Date:** 2014-08-23 at 16:15 America/New_York
 
@@ -748,7 +846,7 @@ Mark didn't even blink. He reached out, offering Jordan a firm, friendly handsha
 
 His immediate, unquestioning acceptance was a breath of fresh air. The seven of them sat together, chatting easily about classes and sports, a newly formed, chaotic, and wonderful little family.
 
-### Scene 7: The First Assist
+### Scene 10: The First Assist
 
 **Date:** 2014-08-23 at 17:30 America/New_York
 
@@ -812,7 +910,7 @@ Zoë adjusted her glasses, her tone perfectly deadpan. "The swiftness of your re
 
 Hannah just smiled warmly, watching Aubrie fret over the blanket. The entire room had put two and two together. Aubrie Kelly was falling head over heels in love with the quiet boy in the wheelchair, and even if she wasn't quite ready to admit it out loud yet, her blush had already given her away.
 
-### Scene 8: The Spare Hardware
+### Scene 11: The Spare Hardware
 
 **Date:** 2014-08-23 at 17:45 America/New_York
 
@@ -860,7 +958,7 @@ She tapped the trackpad, bringing up a clean, minimalist text box. "I also pre-i
 
 Jordan stared at the man, his mind struggling to process the interaction. There was no shouting. There was no accusation. There was just a father looking at him not as an intruder, but with the same unconditional kindness his daughter had shown. In that simple, quiet moment in Room 214, a tiny seed was planted in Jordan's chest—the fragile, miraculous hope that maybe, just maybe, he was finally safe.
 
-### Scene 9: The New Voice
+### Scene 12: The New Voice
 
 **Date:** 2014-08-23 at 18:15 America/New_York
 
@@ -902,7 +1000,7 @@ Instead, Aubrie’s face lit up with a brilliant smile. Madison let out a cheerf
 
 The entire room—Aubrie, Zoë, Lauren, Hannah, Mark, Madison, and Daniel—happily and seamlessly accepted his choice without a single question or judgment. A wave of profound empowerment washed over Jordan as he rested his hands on the keyboard. He finally had a voice, and it was entirely his own.
 
-### Scene 10: The Antidote
+### Scene 13: The Antidote
 
 **Date:** 2014-08-23 at 18:30 America/New_York
 
@@ -942,7 +1040,7 @@ Aubrie and Madison exchanged a quiet, meaningful look over Jordan's head. They b
 
 As they sat with him, keeping the atmosphere light and comfortable, the two women quietly admitted something to themselves. They actually liked having Jordan in their room. It wasn't just because Aubrie was already developing a massive, undeniable crush on him. It was because, stripped of the panic and the fear, he was genuinely easy to get along with. He was a calming, gentle presence, and they were more than happy to share their space with him.
 
-### Scene 11: The Trust Fall
+### Scene 14: The Trust Fall
 
 **Date:** 2014-08-23 at 20:00 America/New_York
 
