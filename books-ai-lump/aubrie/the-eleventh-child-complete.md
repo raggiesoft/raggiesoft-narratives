@@ -352,7 +352,7 @@ Instead, refusing to even peek inside the glass, Aubrie Sinclair turned and musc
 
 At the bottom of the slope on the inner-campus side, they rolled through the identical grand archway into the **First-Floor Lobby**, which housed the main front desk, the **Bennett Hall Mail Room**, the Hall Director's office, and the university's main **Office of Housing and Residence Life**.
 
-After a quick five-minute check-in at the first-floor desk to activate his **Poly Pass** room access, the student worker stepped into the adjacent mail room and slid a large, heavily taped cardboard parcel box across the counter—the box of pillows, blankets, sheets, and towels his mother had shipped from Virginia Beach earlier in the week.
+After a quick five-minute check-in at the first-floor desk to activate his **Poly Pass** room access—where, because he was registered with the Office of Educational Accessibility, his card was already encoded to trigger the motorized automatic door opener on any locked door he was authorized to enter—the student worker stepped into the adjacent mail room and slid a large, heavily taped cardboard parcel box across the counter: the box of pillows, blankets, sheets, and towels his mother had shipped from Virginia Beach earlier in the week.
 
 Rather than carrying the bulky box herself, his mother hoisted the cardboard carton off the counter and set it squarely onto Aubrey's lap across his armrests. Huddled behind the tall cardboard box with his arms wrapped around its taped corners to keep it from sliding off his knees, Aubrey could barely see over the top as she steered his chair into the elevator off to the side and pressed **`2`**.
 
@@ -360,7 +360,7 @@ When the elevator doors slid open one floor up into the **Second-Floor Atrium Lo
 
 His mother's jaw tightened for a fraction of a second as she saw the street-level doors, realizing she had just wrestled his wheelchair all the way down a steep outdoor hill only to ride an elevator right back up to street level. True to form, she didn't say a single word about it, marching briskly past the atrium railing and down the quiet second-floor residential corridor until they stopped outside **Room 214**.
 
-Moving one hand off the box on his lap, Aubrey pulled his new **Poly Pass** from his pocket and held it up to the black sensor box mounted beside the heavy wooden door. With a soft electronic beep and the whir of a motor, the door swung inward automatically.
+Moving one hand off the box on his lap, Aubrey pulled his new **Poly Pass** from his pocket and tapped it to the black electronic reader mounted beside the heavy wooden door. Because his Poly Pass carried the Office of Educational Accessibility's automatic-opener encoding, the reader didn't just unlock the latch; with a soft electronic beep and the whir of the overhead motor, the door unlocked and swung inward automatically, holding itself wide open on its programmed ten-second dwell timer.
 
 His mother wheeled him inside, lifted the bulky cardboard mailroom box off his lap, and dropped it unopened on the floor beside the bare standalone bed on the right-hand wall, sliding his zipped canvas gym bag off her shoulder to land right beside it. Then she unhooked his backpack—with his dead laptop still inside—from the push-handles and set it down by the desk. She didn't offer to help him cut open the taped box, put sheets on the bare mattress, unpack his gym bag into the dresser, or plug his computer into the wall.
 
@@ -374,7 +374,7 @@ Then she stepped half a pace back across the threshold, her smile flattening as 
 
 Voiceless without his laptop, Aubrey gave a single, stiff nod.
 
-Satisfied, his mother gave a brisk wave, turned on her heel, and marched back down the tiled corridor toward the Washington Street atrium doors. Seconds later, the hydraulic arm above the doorframe sighed, and the heavy wooden door of Room 214 swung shut with a solid, definitive *click*.
+Satisfied, his mother gave a brisk wave, turned on her heel, and marched back down the tiled corridor toward the Washington Street atrium doors. As the ten-second hold-open timer expired, the motorized arm above the doorframe whirred softly, pulling the heavy wooden door of Room 214 shut until the electronic lock clicked into place automatically.
 
 ### Scene 2: Room 214
 
@@ -384,7 +384,7 @@ As the heavy wooden door of Room 214 clicked shut behind his mother's brisk foot
 
 The room was tiny, clearly designed for two people but now cramped to fit three due to the university's housing crisis. Because the sky outside the single window was thick with low, slate-gray storm clouds, the interior was shadowed in a dim morning gloom. He flipped the main switch by the entry, and a large fluorescent light recessed into the drop ceiling flickered on, bathing the painted cinderblock walls in a harsh, sterile glow. He immediately squinted; the abrupt, glaring light caused the distant corners of the room to blur into a smear, sending a familiar, dull ache throbbing behind his eyes.
 
-He rolled forward and looked back at the heavy, dark wood door he'd just entered. From the hallway, he'd tapped his new CPI Poly Pass on the reader, and the door had automatically swung *inward* to let him pass. On the inside wall, tucked over by the frame on the right, he saw the corresponding silver push button stamped with a blue wheelchair symbol. Rolling a few inches closer and narrowing his eyes to focus, he could just make out the brass fixtures embedded in the solid wood of the door: two distinct peepholes, one drilled at standard standing height, and a second one positioned right at his eye level in the chair.
+He rolled forward and looked back at the heavy, dark wood door he'd just entered. Like every locked residential door on campus, tapping an authorized CPI Poly Pass to the exterior reader unlocked the latch so someone could push the door open—except that for students registered with the Office of Educational Accessibility, the Poly Pass was encoded to also trigger the motorized automatic door opener, holding the door open for ten seconds before automatically closing and re-locking. On the inside wall, tucked over by the doorframe on the right so a resident could exit to the hallway, he saw the corresponding handicap actuator button: a square brushed stainless-steel push plate set in a black frame, stamped with the blue wheelchair symbol above the bold block words **PUSH TO OPEN**. Pressing that button from inside the room both unlocked the electronic latch and swung the door open for ten seconds before it automatically closed and locked again—a setup shared by both Room 214 and its connecting suite partner, Room 216. Rolling a few inches closer and narrowing his eyes to focus, he could just make out the brass fixtures embedded in the solid wood of the door: two distinct peepholes, one drilled at standard standing height, and a second one positioned right at his eye level in the chair.
 
 To his immediate left was a closed door, which he knew led to the shared toilet room. He wheeled over and opened it, confirming what he'd been told at check-in: a small, functional room containing only a toilet, fitted with sturdy metal grab bars mounted securely along the walls beside it. Across the small tiled space, he saw the second door on the opposite wall—the one that connected to Room 216.
 
@@ -412,9 +412,15 @@ He sighed, a silent puff of air, and squinted around the room for an outlet. He 
 
 He maneuvered his chair closer, stretching to try and plug in the bulky adapter. He could just barely touch the outlet, but he couldn't get the leverage to push the prongs in securely. He grunted with frustration, a small but significant reminder that even in an "accessible" room, the world wasn't always designed with him in mind.
 
+A polite, rhythmic knock sounded against the heavy wooden door.
+
+Startled, Aubrey kept the dangling power cord in one hand, wheeled back toward the entry, and pressed his palm against the square stainless-steel **PUSH TO OPEN** handicap button on the interior wall. With a soft click and a mechanical whir, the electronic lock released and the door swung inward on its ten-second timer.
+
+A young woman wearing a CPI Housing lanyard and an "RA" badge stood on the threshold, her expression warm and unhurried. Seeing the power cord dangling helplessly from his hand beside the awkward wall outlet, she smiled kindly.
+
 "Hey there, need a hand?"
 
-A muffled, friendly voice came from his open doorway. Aubrey flinched and turned, instinctively cupping a hand slightly behind his ear to catch the sound. A young woman with a CPI Housing lanyard and an "RA" badge stood there, her expression warm and unhurried. "I'm Isabel Dawson, one of the two RAs for this floor. My room is 215, right across the hall—just doing my rounds for early check-ins."
+Aubrey flinched slightly and instinctively cupped a hand behind his ear to catch her muffled, friendly voice. "I'm Isabel Dawson, one of the two RAs for this floor," she continued, stepping just inside the doorway as the ten-second timer expired and the door began to ease shut behind her. "My room is 215, right across the hall—just doing my rounds for early check-ins."
 
 Aubrey felt a flush of embarrassment at being caught struggling. With his laptop completely dead, he was entirely voiceless. Unable to speak, he simply gave a frantic nod and gestured helplessly to the power cord dangling from his hand.
 
@@ -434,15 +440,15 @@ Aubrey hesitated, then nodded. He turned back to the screen and typed again.
 
 For the next ten minutes, Isabel helped him peel open the heavy packing tape on the cardboard box from the mail room and make his bed, placing his sheets, pillows, and blankets exactly how he liked them. She unpacked his canvas gym bag, putting his folded clothes neatly away in the dresser drawers, and set his clean towels and toiletries bag right on the edge of the roll-under sink counter where he could easily reach them. She was efficient, friendly, and didn't make him feel like a burden for a single second.
 
-"There you go," she said finally. "All set. Also, just so you know, the accessible roll-in shower room for our floor is just a few doors down the hall toward the central atrium." She paused at the open doorway and gestured diagonally across the staggered hallway toward her own door. "Seriously, Aubrey, my room is right across the hall in 215. If you need any help with anything at all, you just knock on my door, or find our other floor RA, Henry Walsh, over in the other wing in 201, or our Hall Director, Kelsey. That's what we're here for."
+"There you go," she said finally. "All set. Also, just so you know, the accessible roll-in shower room for our floor is just a few doors down the hall toward the central atrium." Walking back to the door, she pressed the square **PUSH TO OPEN** handicap button on the wall to unlock and swing the door open, then paused at the threshold and gestured diagonally across the staggered hallway toward her own door. "Seriously, Aubrey, my room is right across the hall in 215. If you need any help with anything at all, you just knock on my door, or find our other floor RA, Henry Walsh, over in the other wing in 201, or our Hall Director, Kelsey. That's what we're here for."
 
-Aubrey leaned close to the keyboard and typed a final message.
+Aubrey leaned close to the keyboard and typed a final message before the door's ten-second timer could close it between them.
 
 <aac>I will. Thank you, Isabel. Do you know who my two roommates are? Or when they will arrive?</aac>
 
-Isabel glanced down at her clipboard and gave him an apologetic look. "I'm sorry, I only have the Friday early check-in list on my clipboard right now," she explained. "Since Bennett Hall is co-ed by suite now—each connecting suite is all guys or all girls, even if the next suite over is the opposite gender—Henry is downstairs with Kelsey going over the master room roster and printing the door cards for tomorrow. Main move-in starts tomorrow morning, so you can expect the other guys in your suite to start arriving tomorrow at the soonest. Looks like you've got the whole place to yourself for tonight!"
+Isabel caught the edge of the door lightly with one hand as the timer expired, glancing down at her clipboard with an apologetic look. "I'm sorry, I only have the Friday early check-in list on my clipboard right now," she explained. "Since Bennett Hall is co-ed by suite now—each connecting suite is all guys or all girls, even if the next suite over is the opposite gender—Henry is downstairs with Kelsey going over the master room roster and printing the door cards for tomorrow. Main move-in starts tomorrow morning, so you can expect the other guys in your suite to start arriving tomorrow at the soonest. Looks like you've got the whole place to yourself for tonight!"
 
-Aubrey nodded, a wave of both relief and nervousness washing over him. One night of peace before meeting the strangers who would become his new roommates.
+As she stepped out into the corridor and let the heavy door swing shut and lock automatically behind her, Aubrey nodded, a wave of both relief and nervousness washing over him. One night of peace before meeting the strangers who would become his new roommates.
 
 ### Scene 4: Stranded
 
@@ -488,7 +494,7 @@ Defeated, he transferred from his wheelchair back to his bed. Still fully clothe
 
 **Date:** 2014-08-23 at 10:30 America/New_York
 
-Around mid-morning, the heavy latch of Room 214 clicked, and the wooden door swung wide open. A sudden bar of corridor light spilled across the dim linoleum floor.
+Around mid-morning, the electronic reader outside Room 214 chirped as a Poly Pass tapped against it. Because the card belonged to a standard residential student rather than someone registered with the Office of Educational Accessibility, the motorized opener stayed silent; instead, the heavy latch clicked unlocked and the wooden door was pushed wide open by hand. A sudden bar of corridor light spilled across the dim linoleum floor.
 
 A young woman with long brown hair woven into a practical side braid stepped across the threshold, her arms loaded down with canvas bags and a plastic tote. Two steps inside, she stopped dead in her tracks. Her hazel eyes went wide as she took in a room that was unmistakably already lived-in: a folded manual wheelchair parked right beside the lowered single bed, a pair of untied sneakers lying on the floor, a heavy laptop resting on the desk, and a boy curled beneath the blankets, fast asleep.
 
@@ -554,7 +560,7 @@ Aubrie Jean Kelly, however, didn't flinch, and she didn't retreat a single inch.
 
 Her parents hesitated for a beat, reading the quiet certainty in their daughter's posture, before nodding and stepping back down the corridor toward the elevators.
 
-Aubrie set her canvas bags quietly on the floor by the entry so they wouldn't make a sound. She took a slow, deliberate step into the room, keeping her movements unhurried and predictable.
+Aubrie set her canvas bags quietly on the floor right against the bottom of the open door so they propped it ajar without making a sound. She took a slow, deliberate step into the room, keeping her movements unhurried and predictable.
 
 "Aubrey," she said, pitching her voice into a low, steady, even cadence designed to slip gently beneath the static flooding his brain. "My name is Aubrie. It's okay. You're safe. Nobody is mad at you. Focus on my voice."
 
@@ -576,7 +582,7 @@ It was at that exact moment that the hallway door swung wider. A second young wo
 
 Aubrie didn't loosen her grounding hold around Aubrey's shoulders for a second. "It is," she said quietly. "He's really overwhelmed right now. Could you maybe close the door?"
 
-Madison didn't hesitate. She set her box down on the floor and pushed the heavy wooden door shut until the latch clicked, instantly cutting the roaring hallway noise down to a distant, muted hum. Stepping over to the wall switch, she also flipped off the harsh overhead fluorescent tube, leaving the room bathed only in the soft gray daylight filtering through the single window. She looked at Aubrey—at his wrinkled clothes, his shoeless feet resting on the footplates, and the raw distress etched across his face—and her heart went out to him immediately. "What can I do?" she whispered compassionately.
+Madison didn't hesitate. She set her box down on the floor, slid Aubrie's canvas bag clear of the threshold, and guided the heavy wooden door shut until the electronic lock clicked automatically into place, instantly cutting the roaring hallway noise down to a distant, muted hum. Stepping over to the wall switch, she also flipped off the harsh overhead fluorescent tube, leaving the room bathed only in the soft gray daylight filtering through the single window. She looked at Aubrey—at his wrinkled clothes, his shoeless feet resting on the footplates, and the raw distress etched across his face—and her heart went out to him immediately. "What can I do?" she whispered compassionately.
 
 "Just... be calm," Aubrie replied softly, her chin resting gently near his shoulder as she maintained the steady pressure around his frame. "It'll pass. We just have to ride it out."
 
@@ -920,7 +926,7 @@ The group moved as a unit back to Bennett Hall. As they reached the second floor
 
 "Mind if we all hang out in 214 for a bit?"
 
-Jordan gave a welcoming nod, using his Poly Pass to trigger the automatic door.
+Jordan gave a welcoming nod, tapping his OEA-encoded Poly Pass to the reader so the latch unlocked and the motorized opener swung the door wide open on its ten-second timer before closing and re-locking behind the group.
 
 The seven of them filed into the cramped room. Mark, Hannah, Lauren, and Zoë found spots on the floor and the desk chairs, while Jordan wheeled himself toward his bed.
 
@@ -990,11 +996,11 @@ Jordan's body instantly locked up. His eyes went wide, and his chest tightened w
 
 For the next twenty minutes, Jordan sat in a state of mounting dread. It wasn't just the fear of the gift that paralyzed him; it was the realization of *who* was bringing it. A father. He was an eighteen-year-old male sitting in a college dorm suite assigned to five young women, and a protective "girl dad" was on his way. He knew the stereotypes. He expected rage. He expected to be yelled at, accused, and immediately thrown out of the room.
 
-At 6:05 PM, Zoë's phone buzzed. "Right, he's in the lobby," she announced. "I'll just pop down in the lift and escort him up."
+At 6:05 PM, Zoë's phone buzzed. "Right, he's in the lobby," she announced, stepping to the wall to press the square **PUSH TO OPEN** handicap button so the door unlocked and swung open. "I'll just pop down in the lift and escort him up."
 
-When the heavy wooden door clicked shut behind her, Jordan's breathing grew shallow. Aubrie, noticing his sheer terror, gently rested her hand on his arm. "It's okay, Jordan," she whispered softly.
+Ten seconds after she stepped into the corridor, the motorized arm pulled the heavy wooden door shut until the lock clicked into place, and Jordan's breathing grew shallow. Aubrie, noticing his sheer terror, gently rested her hand on his arm. "It's okay, Jordan," she whispered softly.
 
-A few minutes later, the door swung open again. Zoë walked in, followed by a tall, broad-shouldered man with kind eyes and a sturdy, protective presence. This was Daniel Brooks.
+A few minutes later, the exterior reader chirped as Zoë tapped her Poly Pass to unlock the latch and pushed the door open. Zoë walked in, followed by a tall, broad-shouldered man with kind eyes and a sturdy, protective presence. This was Daniel Brooks.
 
 "Dad, as I was explaining downstairs, there has been a massive administrative error," Zoë began, gesturing around the cramped space. "Housing mistakenly assigned a male to our suite due to a naming confusion."
 
@@ -1070,13 +1076,13 @@ The entire room—Aubrie, Zoë, Lauren, Hannah, Mark, Madison, and Daniel—happ
 
 With the new laptop safely resting on Jordan's lap, Daniel checked his watch and gave a warm smile. "Right, I should be heading back," he said.
 
-"I'll escort you down to the lobby, Dad," Zoë offered, stepping toward the heavy wooden door. She looked back at Jordan. "I will return shortly to assist you with the rest of the operating system navigation, as you requested."
+"I'll escort you down to the lobby, Dad," Zoë offered, stepping toward the heavy wooden door and pressing the interior **PUSH TO OPEN** handicap button to unlock and swing the door open. She looked back at Jordan. "I will return shortly to assist you with the rest of the operating system navigation, as you requested."
 
 Mark also took that as his cue to leave. He gave Hannah a quick, affectionate kiss and offered a friendly wave to the room. "See you all tomorrow. Try to get some rest, J."
 
-As Mark headed out into the hallway, Hannah and Lauren gathered their things. With a few cheerful goodnights, they slipped through the connecting ADA-compliant bathroom to retreat to Room 216 for the evening.
+As Mark and Daniel stepped out into the hallway with Zoë and the ten-second timer began to ease the door shut and re-lock it, Hannah and Lauren gathered their things. With a few cheerful goodnights, they slipped through the connecting ADA-compliant bathroom to retreat to Room 216 for the evening.
 
-A few minutes later, Zoë returned to Room 214. She pulled up the wooden desk chair and sat directly across from Jordan's wheelchair. Aubrie and Madison remained in the room, settling onto the lower bunk and the other desk chair, respectively, offering a quiet, supportive audience.
+A few minutes later, Zoë tapped her Poly Pass to the reader outside, unlocked the latch, and pushed the door open to return to Room 214. She pulled up the wooden desk chair and sat directly across from Jordan's wheelchair. Aubrie and Madison remained in the room, settling onto the lower bunk and the other desk chair, respectively, offering a quiet, supportive audience.
 
 "Let us review the file hierarchy," Zoë began, her crisp British consonants matching her analytical pace. She reached over to guide the trackpad. "Aura Glade organizes directories slightly differently than Quantum OS. Your root directory is here, and your *OmniDoc Suite* applications are located in this executable path..."
 
@@ -1414,7 +1420,7 @@ A silent, powerful agreement bloomed in the cinderblock room. The traditional ru
 
 By late afternoon, the golden hour light was beginning to filter through the single window of Room 214. Jordan had just finished neatly aligning his textbooks on his desk when a rhythmic knock sounded on the heavy wooden door.
 
-Before anyone could move to open it, the door swung inward. Mark stepped into the suite, bringing with him a wave of easy, confident energy. He immediately spotted Hannah emerging from the connecting bathroom. His face lit up, and he crossed the room, wrapping his arms around her in a warm, familiar hug before giving her a polite, affectionate kiss.
+Madison reached over and pressed the square **PUSH TO OPEN** handicap button on the interior wall, unlocking the latch so the motorized opener swung the door inward. Mark stepped into the suite, bringing with him a wave of easy, confident energy as the ten-second timer counted down and eased the door shut behind him. He immediately spotted Hannah emerging from the connecting bathroom. His face lit up, and he crossed the room, wrapping his arms around her in a warm, familiar hug before giving her a polite, affectionate kiss.
 
 "Hey," Mark said softly, leaning his forehead against hers for a brief second. "Ready for dinner?"
 
@@ -1474,7 +1480,7 @@ Mark held out his hand, offering a gentle, low-pressure fist bump.
 
 Jordan stared at the extended fist, his mind struggling to process the absolute absence of anger. Slowly, with a trembling hand, Jordan reached out and tapped his knuckles against Mark's.
 
-"Let's go get some burgers. I know a shortcut around the library that bypasses the worst of the steps," Mark smiled, stepping back to hold the heavy wooden door open for the entire group.
+"Let's go get some burgers. I know a shortcut around the library that bypasses the worst of the steps," Mark smiled, pressing the **PUSH TO OPEN** handicap button on the interior wall so the door unlocked and swung wide open on its ten-second timer for the entire group.
 
 As Aubrie took the handles of the wheelchair and pushed Jordan out into the hallway, the tight, suffocating knot in Jordan's chest finally began to loosen. Mark wasn't angry. He wasn't jealous. He was just... happy that Jordan was being cared for. It was a profound, quiet revelation that etched itself permanently into Jordan's memory, establishing a baseline of what a real, healthy relationship looked like.
 
@@ -1566,7 +1572,7 @@ The elevator ride up to the fifth floor of Bennett Hall was a slow, rattling cra
 
 When the doors finally chimed open, she stepped out into the humid, chaotic corridor. The odd-numbered suites along their side of the fifth floor were entirely female, and with move-in weekend still wrapping up, the hallway was a maze of broken-down cardboard boxes and propped-open wooden doors.
 
-Sarah swiped her Poly Pass to enter Room 505. The layout was identical to the suites on the lower floors, but heavily crowded. Like the rest of the standard suites in Bennett Hall, it was a two-person room that had been force-tripled by the university's housing crisis. There was a bunk bed against one cinderblock wall, a single Twin XL bed against the other, and almost zero floor space—shared by Sarah, her fellow Australian roommate Jessica Gallagher, and their third roommate, Chloe from Richmond.
+Sarah tapped her Poly Pass to the reader to unlock Room 505 and pushed the door open. The layout was identical to the suites on the lower floors, but heavily crowded. Like the rest of the standard suites in Bennett Hall, it was a two-person room that had been force-tripled by the university's housing crisis. There was a bunk bed against one cinderblock wall, a single Twin XL bed against the other, and almost zero floor space—shared by Sarah, her fellow Australian roommate Jessica Gallagher, and their third roommate, Chloe from Richmond.
 
 Jessica was sitting cross-legged on the bottom bunk, attempting to organize a massive pile of textbooks on her lap.
 
@@ -1592,7 +1598,7 @@ Jessica tossed a notebook onto her desk. "Well, I'm jealous. Trying to date on t
 
 "The what suite?" Sarah asked, her brow furrowing slightly. "Sorry, I'm still learning all your American acronyms."
 
-"Oh, right, ADA," Jessica clarified. "Americans with Disabilities Act. It just means it's the handicap-accessible room. Like, if you look at the door for Room 214 downstairs, it has two peepholes—one at standard standing height, and a second one drilled lower so you can see out from a wheelchair. It's the only accessible suite on that side of the building."
+"Oh, right, ADA," Jessica clarified. "Americans with Disabilities Act. It just means it's the handicap-accessible suite. Like, if you look at the doors for Rooms 214 and 216 downstairs, they have two peepholes—one at standard standing height, and a second one drilled lower so you can see out from a wheelchair—plus motorized door openers and **PUSH TO OPEN** buttons inside. It's the only accessible suite on that side of the building."
 
 "Ah, right. Makes perfect sense," Sarah nodded, the logistics clicking into place for her. "Well, I actually saw them earlier," she mentioned, walking over to the small, single window that looked out over the rolling hills of the campus. "When I was walking over to Kincaid Hall, I saw the whole group heading toward the dining hall."
 
@@ -2126,7 +2132,7 @@ He nodded, accepting the bureaucratic reality. It was a small compromise for the
 
 "Speaking of your Poly Pass, though," Ms. Higgins added, clicking into a campus security portal on her desktop monitor, "there *is* an important upgrade I can push to your card right now. As you've probably already discovered, CPI is built into steep mountain ridges. Because several of our residence halls—like Bennett Hall—are built directly into the hillsides with ground-level entrances on two different floors, the university lets anyone with a Poly Pass cut through those hillside dorms to use their elevators and skip climbing the hills during daytime hours, from 10:00 AM to 11:59 PM daily. From 12:00 AM to 9:59 AM, those buildings lock down so that you must be a resident of that hall or a signed-in guest escorted by whoever signed you in."
 
-She typed a quick authorization code and hit enter. "Obviously, if you have an 8:00 AM or 9:00 AM class across campus, locking you out of a hillside elevator before 10:00 AM isn't acceptable. So Educational Accessibility is having Campus Access Control encode your Poly Pass for 24/7 pass-through access across every hillside residential building on campus. For any hillside dorm where you aren't a resident, your card will now unlock the exterior doors, the lobby, the accessible lobby restrooms, and partial elevator access 24/7—meaning when you tap your Poly Pass inside the elevator cab, it will only allow you to select the authorized floors that bridge the hill, such as the first and second floors in a building like Bennett Hall, while keeping the upper residential floors secure."
+She typed a quick authorization code and hit enter. "Obviously, if you have an 8:00 AM or 9:00 AM class across campus, locking you out of a hillside elevator before 10:00 AM isn't acceptable. So Educational Accessibility is having Campus Access Control encode your Poly Pass for 24/7 pass-through access across every hillside residential building on campus. For any hillside dorm where you aren't a resident, your card will now unlock the exterior doors, the lobby, the accessible lobby restrooms, and partial elevator access 24/7—meaning when you tap your Poly Pass inside the elevator cab, it will only allow you to select the authorized floors that bridge the hill, such as the first and second floors in a building like Bennett Hall, while keeping the upper residential floors secure. And just like the handicap suites in all of our residence halls across campus, because you are registered with the Office of Educational Accessibility, your Poly Pass is encoded to automatically trigger the motorized door opener on *any* locked door you are authorized to access—holding the door open for ten seconds so you can roll through comfortably before it automatically closes and locks behind you."
 
 Jordan's eyes widened in appreciation as he nodded. That single credential update meant the steepest ridges on campus would never trap him, no matter how early his classes started or how late he studied.
 
@@ -2780,7 +2786,7 @@ Jordan looked at the three remaining women, a mix of nervousness and profound gr
 
 "Ready for your first real health class?" Aubrie asked.
 
-Zoë walked over and clicked the heavy deadbolt on the hallway door. Madison reached up and flicked off the harsh, fluorescent overhead lights, leaving the room bathed only in the warm, gentle amber glow of their desk lamps. The atmosphere transformed instantly. It wasn't a party; it was a sanctuary.
+Zoë walked over and double-checked that the heavy hallway door was pulled firmly shut and its automatic electronic lock was engaged. Madison reached up and flicked off the harsh, fluorescent overhead lights, leaving the room bathed only in the warm, gentle amber glow of their desk lamps. The atmosphere transformed instantly. It wasn't a party; it was a sanctuary.
 
 Aubrie sat on the edge of her bed, patting the mattress. Madison and Zoë sat on either side of her, holding the open textbook. Before anything else happened, Aubrie looked Jordan directly in the eyes, setting the absolute boundaries of the room.
 
@@ -2920,7 +2926,7 @@ Instantly, every trace of routine administrative posture vanished from Isabel's 
 
 Before Lauren could even find her voice through her tears, Hannah stepped forward and knocked gently on the heavy wooden door of Room 214. "Madison? It's Hannah. And Mark. And... well, everyone."
 
-Inside, there was the soft whir of a motorized mechanism. A second later, the heavy door clicked unlatched as Madison pushed the large silver handicap-accessible button from the inside. The door swung open slowly.
+Inside, Madison pressed the square stainless-steel **PUSH TO OPEN** handicap button on the interior wall. With a soft electronic click and the whir of the overhead motor, the lock released and the heavy door swung open automatically on its ten-second timer.
 
 The lighting in the room was dim and calm. The unconventional study session was over. Jordan was sitting in his wheelchair near his desk, looking relaxed and peaceful, a soft, confident smile on his face that hadn't been there an hour ago. Aubrie, Madison, and Zoë were sitting on the beds, wrapped in their pajamas.
 
@@ -2934,7 +2940,7 @@ Aubrie was on her feet in an instant. "What happened?"
 
 The cramped space of Suite 214/216 was never designed to hold twelve emotional freshmen and their Resident Advisor, but nobody cared about the tight squeeze—least of all Isabel Dawson.
 
-Aubrie and Madison immediately ushered everyone inside. Isabel stepped in last, quietly setting her CPI Housing clipboard face-down on the corner of the dresser and clicking the hallway door shut behind her so Lauren wouldn't have to cry in a public corridor. By the letter of the residence hall handbook, thirteen people packed into a suite after eight-thirty at night was probably three different occupancy violations. Isabel didn't care in the slightest. Right now, two girls in her building were hurting, and her only job was to make sure they felt safe.
+Aubrie and Madison immediately ushered everyone inside. Isabel stepped in last, quietly setting her CPI Housing clipboard face-down on the corner of the dresser as the ten-second timer expired and the motorized arm pulled the hallway door shut and locked it automatically behind her so Lauren wouldn't have to cry in a public corridor. By the letter of the residence hall handbook, thirteen people packed into a suite after eight-thirty at night was probably three different occupancy violations. Isabel didn't care in the slightest. Right now, two girls in her building were hurting, and her only job was to make sure they felt safe.
 
 Aubrie and Madison propped both of the connecting bathroom doors wide open, allowing the massive group to spill over into Room 216, while Isabel slipped into the accessible bathroom for a second, grabbed a fresh box of tissues from the roll-under vanity counter where she had helped Jordan unpack his toiletries on Friday afternoon, and brought it back to the bed.
 
@@ -2968,7 +2974,7 @@ Kneeling beside the bed, Isabel read Jordan's screen too. Her throat tightened w
 
 Isabel stood up, brushing off her jeans, her warm expression settling into calm, decisive RA authority. She looked over at Jessica.
 
-"Jessica, text me that photo of him," Isabel said firmly. "Normally, anyone on campus with a Poly Pass can access Bennett Hall—just like the other hillside dorms—from 10:00 AM to 11:59 PM daily so they can swipe in through the first-floor doors at the bottom of the hill on the quad side, ride our elevator up one level, and walk out the second-floor doors at the top of the hill on the Washington Street side to skip climbing the slope. And from 12:00 AM to 9:59 AM, you have to be a Bennett Hall resident or a signed-in guest who stays escorted at all times by whoever signed you in. As of tonight, Tom just lost both privileges for Bennett Hall. As soon as I step out of here, I'm filing an incident report and forwarding that photo straight to Kelsey Brennan, our Hall Director. Kelsey has the administrative authority to have Campus Access Control strip his Poly Pass of that 10:00 AM to 11:59 PM pass-through access on Bennett Hall's exterior doors, and she'll put out an official building-wide staff bulletin to the front desk and every RA across all six floors barring him from ever being signed in as a guest. If Tom tries to swipe into Bennett Hall on either side of the hill—day or night—his card will flash red, and if he tries to loiter by the doors, Campus Security will trespass him off the quad on the spot. He can hike the hill outside in the rain. This building is your home, and he is not welcome in it."
+"Jessica, text me that photo of him," Isabel said firmly. "Normally, anyone on campus with a Poly Pass can access Bennett Hall—just like the other hillside dorms—from 10:00 AM to 11:59 PM daily so they can tap their card on the reader at the first-floor doors at the bottom of the hill on the quad side, ride our elevator up one level, and walk out the second-floor doors at the top of the hill on the Washington Street side to skip climbing the slope. And from 12:00 AM to 9:59 AM, you have to be a Bennett Hall resident or a signed-in guest who stays escorted at all times by whoever signed you in. As of tonight, Tom just lost both privileges for Bennett Hall. As soon as I step out of here, I'm filing an incident report and forwarding that photo straight to Kelsey Brennan, our Hall Director. Kelsey has the administrative authority to have Campus Access Control strip his Poly Pass of that 10:00 AM to 11:59 PM pass-through access on Bennett Hall's exterior doors, and she'll put out an official building-wide staff bulletin to the front desk and every RA across all six floors barring him from ever being signed in as a guest. If Tom tries to tap his Poly Pass at Bennett Hall on either side of the hill—day or night—his card will flash red, and if he tries to loiter by the doors, Campus Security will trespass him off the quad on the spot. He can hike the hill outside in the rain. This building is your home, and he is not welcome in it."
 
 Lauren let out a long, trembling breath, her shoulders dropping two inches as the weight of fearing an ambush in her own hallway evaporated. "Thank you, Isabel."
 
@@ -3010,7 +3016,7 @@ Isabel picked up her clipboard from the dresser and paused at the hallway door, 
 
 "I'm right across the hall in 215," Isabel said softly, her eyes lingering warmly on Lauren, Sarah, and Jordan. "My phone stays on all night. If any of you have a nightmare, or need tea, or just need someone to talk to at three in the morning—knock on my door. Goodnight, guys."
 
-"Goodnight, Isabel. Thank you for everything," Aubrie said warmly as their RA stepped out and gently pulled the door shut.
+"Goodnight, Isabel. Thank you for everything," Aubrie said warmly as their RA pressed the **PUSH TO OPEN** button to unlock and open the door, stepped out into the hall, and let the motorized opener close and re-lock it behind her.
 
 The sleeping arrangements for the night naturally fell into place, an organic deployment of their fortress. In Room 216, Mark and Hannah claimed Hannah's single Twin XL (Bed A). Zoë climbed into her practical lower bunk (Bed B), and Sarah gratefully climbed up into Lauren's top bunk (Bed C).
 
@@ -3166,9 +3172,9 @@ By the time the group returned from Kincaid Hall after dinner, the chaotic energ
 
 A polite, rhythmic knock echoed against the heavy wooden door of Room 214.
 
-"Come in!" Hannah called out, setting her highlighter down.
+"Come in!" Hannah called out, setting her highlighter down and reaching over to press the square **PUSH TO OPEN** handicap button on the interior wall.
 
-The door opened, and Kelsey, the Bennett Hall Residence Director, stepped onto the threshold. The exhausted, frazzled tension that had lined her face on Saturday's move-in day was completely gone, replaced by a relaxed, genuine smile.
+With a soft click and a mechanical whir, the lock released, the door swung open on its ten-second timer, and Kelsey, the Bennett Hall Residence Director, stepped onto the threshold. The exhausted, frazzled tension that had lined her face on Saturday's move-in day was completely gone, replaced by a relaxed, genuine smile.
 
 "Hi, everyone," Kelsey said, glancing around at the six suitemates. "Do all six of you have a quick minute?"
 
@@ -3204,7 +3210,7 @@ Jordan's fingers flew across his keyboard, launching his `EchoType` output so Ke
 
 "Wonderful," Kelsey smiled, making a quick notation on her clipboard. "I'll have the formal confirmation letters sent to your CPI student email accounts by tomorrow afternoon, and once the standard two-week room-freeze window closes in September, I'll bring down the final consent paperwork for everyone to sign. Have a great rest of your week, guys."
 
-The moment the heavy wooden door clicked shut behind her, Madison let out a muffled shriek of triumph into a throw pillow, and Lauren threw her arms around Hannah's neck.
+She pressed the **PUSH TO OPEN** handicap button on the interior wall to unlock and swing the door open, stepping out into the corridor. Ten seconds later, the moment the heavy wooden door swung shut and clicked locked behind her, Madison let out a muffled shriek of triumph into a throw pillow, and Lauren threw her arms around Hannah's neck.
 
 "We beat the lottery before the first week of classes is even over!" Lauren laughed, her Newfoundland cadence ringing out in pure relief.
 
@@ -3519,7 +3525,7 @@ The third week of September had been designated by the university as campus-wide
 
 For the university's legal and housing offices, however, silence wasn't quite enough.
 
-At 6:30 that Friday evening, just after the suite had finished dinner, a familiar knock sounded on the door of Room 214. Kelsey, their Residence Director, stepped in holding a metal clipboard and a blue ballpoint pen.
+At 6:30 that Friday evening, just after the suite had finished dinner, a familiar knock sounded on the door of Room 214. Hannah pressed the square **PUSH TO OPEN** handicap button on the interior wall to unlock and open the door, and Kelsey, their Residence Director, stepped in holding a metal clipboard and a blue ballpoint pen as the ten-second timer counted down and eased the door shut behind her.
 
 "Hi, everyone—happy Friday," Kelsey said, smiling warmly as she spotted Jordan still wearing his brand-new maroon CPI Forgers hoodie. "Nice hoodie, Jordan. Now that the room-change freeze is officially in effect, I just need five minutes to wrap up one final piece of administrative housekeeping with the six of you."
 
@@ -3555,98 +3561,134 @@ Six signatures, sealing their sanctuary in blue ink.
 
 ### Scene 3: Fire Alarm in the Dormitory
 
-**Date:** 2014-09-19 at 20:00 America/New_York
+**Date:** 2014-09-25 at 20:00 America/New_York
 
-Up until 7:59 PM that Friday evening, September 19th had been one of the proudest days of Jordan's life.
+Thursday evening in Suite 214/216 had begun as a quiet celebration. Earlier that afternoon, Dr. Aris Thorne had posted the grades for their first college Astrophysics exam, and Jordan hadn't just passed—he had scored a perfect **100%**, plus five bonus points on the orbital-mechanics extra-credit question for a total of **105%**.
 
-Just before dinner, Dr. Alistair had posted the grades for the very first **Astronomy 101: Introduction to Astrophysics** exam to the university portal. Sitting in his new CPI Forgers hoodie, Jordan had opened the notification on his mPhone with his heart in his throat—only to see a glowing **105%** at the top of the rubric: a perfect **100%** on the main exam, plus full marks on the notoriously brutal orbital-mechanics **Extra Credit** question that half the upperclassmen in the lecture hall had left blank. For eighteen years, his mother had sneered at his passion for the cosmos as a *"silly little college experiment"* that he wasn't capable of handling. For the first time, he had objective, mathematical proof that she was wrong.
+Sitting in his wheelchair at his desk in his maroon CPI Forgers hoodie, Jordan had been basking in the warm glow of his suitemates' pride while reviewing his textbook notes. Across the room, Aubrie was curled up on the lower bunk reading under a soft fleece blanket, Madison was lounging on the top bunk scrolling through her mPhone, and Zoë, Hannah, and Lauren were chatting through the open connecting bathroom doorway in Room 216.
 
-Then the clock struck 8:00 PM on the dot—the final night of CPI's mostly ignored "Health and Safety Week"—and the world inside Bennett Hall exploded.
+Then the clock hit 8:00 PM.
 
 Without a single second of warning, a piercing, metallic, 100-decibel shriek ripped through the cinderblock walls of Suite 214/216, accompanied by the blinding, rhythmic white flash of the wall-mounted ADA emergency strobe lights and the heavy *thud* of the hallway's electromagnetic smoke-barrier doors automatically releasing and slamming shut.
 
 "Oh, you have *got* to be kidding me!" Madison groaned from the top bunk, clapping her hands over her ears. Across the connecting doorway in Room 216, Hannah and Lauren winced in unison.
 
-Intellectually, the four able-bodied suitemates recognized the unmistakable chaos of a college dormitory fire drill.
+For the four neurotypical women in the suite, the unannounced 8:00 PM klaxon was a loud, obnoxious inconvenience.
 
-For Aubrie and Jordan, however, the sudden sensory ambush triggered an immediate, devastating collapse—for two completely different reasons.
+For Aubrie and Jordan, the sudden sensory and psychological detonation was catastrophic.
 
-For Aubrie, the physical noise was simply too much. Caught completely off guard without her earmuffs, the 100-decibel klaxon bouncing off the bare cinderblock walls and the disorienting white strobes slammed into her autistic nervous system like a physical battering ram. Tears immediately spilled down her cheeks as she slid out of her desk chair onto her knees, clamping both palms tightly over her ears and sobbing in ragged, painful gasps.
+On the lower bunk, Aubrie let out a sharp, strangled cry, dropping her book and clamping both palms violently over her ears as she curled into a tight ball on her side, sobbing openly against the acoustic assault.
 
-For Jordan, amplified through his behind-the-ear hearing aids before their compression limiters could even clamp down, the alarm triggered a far darker, more terrifying conclusion. Tears flooded behind his glasses as his chest seized in a full-blown panic attack. In his trauma-wired mind, the timing was too exact to be a coincidence: he had just scored 100% plus Extra Credit in Astrophysics, proving he didn't need his mother—and now the building alarm was screaming. He was completely, viscerally convinced that **his mother had driven to Blacksburg, pulled the fire alarm to flush him out of his locked room, and was waiting outside to ambush him and drag him back to Virginia Beach.**
+At his desk, Jordan's entire body jolted so hard his wheelchair frame rattled against the linoleum. Through his new digital behind-the-ear hearing aids, the 100-decibel klaxon tore straight into his auditory cortex like a circular saw, while the high-intensity white strobe flashes reflecting off the cinderblock walls sliced across the crisp polycarbonate lenses of his new glasses. Tears spilled instantly down his cheeks as a ragged, wordless cry tore from his throat.
 
-Both of them were crying, shaking, and mentally collapsing—and in less than three seconds, their four suitemates pivoted into a disciplined rescue unit to get them out of the building.
+"Fire alarm—we need to evacuate the building," Zoë called out over the shriek, her crisis-management instincts snapping into gear as she strode into Room 214, reached into her desk drawer for Aubrie's emergency noise-reducing earmuffs, and tossed them to Madison before stepping to the entry wall. Zoë pressed her palm firmly against the square stainless-steel **PUSH TO OPEN** handicap button beside the doorframe. With an electronic click and the whir of the overhead motor, the lock released and the heavy wooden door of Room 214 swung wide open into the strobing corridor, starting its ten-second hold-open timer.
 
-"Status check: they are both in acute overload!" Zoë called out over the shrieking horns, her voice calm and surgical. "First floor evacuates to the inner quad muster station, and our second-floor corridor exits straight out at ground level onto Washington Street! Execute manual assist now!"
-
-Madison scrambled down the ladder from Bed C, grabbed a thick fleece blanket off Aubrie's lower bunk, and slipped Aubrie's purple sound-blocking earmuffs over her ears before draping the blanket gently around her shoulders to shield her eyes from the strobing white flashes.
+Madison scrambled down the bunk ladder in two seconds flat, fitting the padded earmuffs snugly over Aubrie's ears and wrapping the fleece blanket tightly around her shoulders.
 
 "I've got you, Aubs—I know the noise is awful," Madison murmured against her temple, guiding a weeping Aubrie up to her feet with a firm, steady arm around her waist. "We're going straight out the Washington Street doors where it's quiet."
 
-Simultaneously, Hannah and Lauren knelt beside Jordan's wheelchair. Seeing the raw terror and tears streaming down his face behind his glasses, Hannah gently reached up and clicked both of Jordan's hearing aids to standby to cut the piercing shriek, while Lauren released his wheel locks and gripped his push-handles.
+Even with tears streaming down her face from the overwhelming noise, Aubrie leaned into Madison's side and willingly began shuffling toward the open hallway door to escape the sound.
 
-"Hold onto your armrests, J—we have you, and we're not letting anyone near you," Lauren promised fiercely.
+Everyone in the room naturally assumed Jordan was crying for the exact same reason—that the piercing 100-decibel horn and flashing strobes had simply overloaded his senses.
 
-Moving as a tight, protective diamond—Lauren pushing Jordan's wheelchair, Madison supporting Aubrie under the blanket, and Zoë and Hannah clearing a lane through the strobing second-floor corridor—they rolled straight out the ground-level hillside doors onto the **Washington Street** sidewalk at the top of the slope, where **Henry** was already holding the heavy exterior crash-bar door wide open to keep the threshold clear before helping guide the rest of the second-floor residents fifty yards down the grass away from the fire lane.
+They had no way of knowing the sheer, suffocating nightmare exploding inside Jordan's mind, and because Jordan was completely non-verbal, he had no words to tell them.
 
-Under the shade of a cluster of oak trees along the Washington Street lawn, the piercing screech of the interior horns faded, though the white strobe lights inside the dormitory windows continued to flash against the dusk. Aubrie was leaning against Madison's shoulder, her breathing finally beginning to slow inside her earmuffs, while Hannah switched Jordan's hearing aids back on so he wouldn't feel isolated in the dark.
+Jordan had never attended a college orientation session on residential fire procedures, and after eighteen years of being kept locked inside his mother's house in Virginia Beach, he had no concept that universities ran routine, unannounced evening fire drills. In his traumatized mind, Room 214's heavy, automatically locking door was the only barrier on earth standing between him and Aubrie Sinclair. Nobody in the outside world could get through that locked door from the hallway without an authorized Poly Pass.
 
-Yet Jordan was still crying silently, his shoulders trembling, his eyes darting frantically toward the parked cars along Washington Street as he waited for his mother's silhouette to emerge from the shadows.
+And now the alarm was screaming, and Zoë had just unlocked and opened the door.
 
-Then a crisp burst of static crackled through the evening air:
+To Jordan, there was only one terrifying explanation: *his mother was outside Bennett Hall, and she had pulled the fire alarm on purpose to flush him out of his locked room so she could grab him in the chaos and drag him back to Virginia Beach.*
 
-*"Command to Second Floor West—confirm wing sweep status, over."*
+"I've got Jordan's laptop!" Hannah shouted over the horn, unplugging his `Vanguard Pro` and tucking it safely into his backpack so he wouldn't be left without his voice outside, while Lauren stepped behind his wheelchair and reached for the push-handles to gently guide him toward the open door behind Aubrie and Madison. "Come on, J, let's get you outside away from the noise!"
 
-Jordan blinked through his tears as **Isabel Dawson** walked briskly up the grassy slope toward them from the building entrance. She was wearing her official, reflective neon-yellow **CPI Residence Life** high-visibility vest over her sweater, a master key lanyard around her neck, and a black two-way duty radio clipped to her lapel.
+The instant Lauren eased his chair half an inch backward toward the open doorway, Jordan snapped.
 
-Isabel thumbed the push-to-talk mic on her shoulder. *"Second Floor West to Command—this is RA Dawson. Rooms 201 through 220 and the west bath are swept and 100 percent clear. All assisted-evacuation residents are safely out at the Washington Street muster point, over."*
+A raw, guttural scream of pure, animal terror ripped from his throat. Lunging forward in his seat, Jordan locked both hands onto the thick wooden edge of his desk in a white-knuckled death grip. His boots kicked wildly against his footplates, his torso thrashing as he shook his head frantically from side to side, tears blinding his glasses as he fought with every ounce of strength in his upper body to keep his wheelchair from being rolled toward the hallway.
 
-*"Copy that, RA Dawson—Campus Fire Marshal has the stopwatch at two minutes, forty-two seconds. Silencing interior horns now; hold residents outside until panel reset."*
+Lauren and Hannah froze in shock, immediately letting go of the push-handles so they wouldn't hurt his arms or wrench his shoulders.
 
-With her official floor sweep and muster tasks complete, Isabel clipped the mic back to her vest, looked over at Suite 214/216 under the oak tree, and immediately spotted the tears glistening on Jordan's cheeks and the white-knuckled terror in his grip.
+"Jordan?!" Lauren gasped, kneeling beside his wheel while Hannah crouched on his other side, both of them trying gently to coax his trembling forearms as the door's ten-second timer expired and the heavy wooden door began to swing shut. "Hey, sweetie, it's okay, it's just us! We have to go outside—the alarm is way louder in here!"
 
-She walked straight over and knelt directly in front of Jordan's wheelchair on the grass so she was below his eye level.
+Zoë hit the square **PUSH TO OPEN** button a second time to swing the door back open for evacuation, her gray eyes widening as she looked from Aubrie—who was standing right at the threshold with Madison, ready to leave despite her severe sensory sensitivity—to Jordan, who was still clinging to his desk and screaming in sheer, wordless horror every time his eyes darted toward the open hallway.
 
-"Hey, Jordan," Isabel said, her voice warm, unhurried, and deeply gentle. "And hey, Aubrie. Take a slow breath for me. You're both completely safe out here."
+Across the room, Madison, Aubrie, Zoë, Hannah, and Lauren all exchanged a stunned, chilling look.
 
-"He thinks someone pulled the alarm to lure him out of the room," Lauren explained softly from behind Jordan's chair, her hand resting protectively on his shoulder.
+This wasn't sensory overload. If it were the noise of the alarm hurting his ears, he would have wanted to get out of the cinderblock echo chamber just like Aubrie did, or he would have clamped his hands over his hearing aids. He wasn't covering his ears at all. He was sacrificing his hands to hold onto the desk because he was terrified of *leaving the locked room*.
 
-Comprehension—and profound, aching sympathy—washed across Isabel's face. She didn't brush his fear aside or laugh at it. Instead, she intentionally tapped the reflective stripe of her neon high-visibility vest and unclipped her two-way radio, holding it up alongside her official Residence Life clipboard so Jordan could see the printed university header: **ENVIRONMENTAL HEALTH & SAFETY — MANDATORY SEMI-ANNUAL EVACUATION DRILL LOG**.
+Just as the realization hit the five women like cold water, rapid, authoritative footsteps pounded down the strobing second-floor corridor.
 
-"Look right here at my vest and my radio, Jordan," Isabel said clearly, meeting his eyes through his glasses with quiet, official authority. "Nobody pulled a pull-station in the hallway tonight, and nobody is here looking for you. Kelsey Brennan and the Campus Fire Marshal put the main alarm panel into test mode down in the lobby at eight o'clock sharp. I knew about it fifteen minutes ago when we had our staff huddle."
+**Isabel Dawson** rounded the corner wearing a neon-yellow **CPI Residence Life** high-visibility vest over her sweater, carrying a black two-way radio in one hand and an official **CPI Environmental Health & Safety (`EHS`)** drill clipboard in the other as she conducted her mandatory room-by-room floor sweep.
 
-Jordan stared at the printed EHS drill log on her clipboard and the blinking green status LED on her official two-way radio. Because she was wearing the high-visibility vest and speaking directly with the Fire Marshal on the radio, his analytical brain recognized her authority as unimpeachable fact.
+"Second floor, evacuate toward the Washington Street doors—do not use the elevators!" Isabel called out Down the hall—and then she stopped dead in her tracks outside the open doorway of Room 214.
 
-"Here is how it works at CPI so it never surprises you like this again," Isabel continued gently, holding up two fingers. "Every single residence hall on campus is required by state law to run **two** scheduled fire drills per semester. There is always one right near the beginning of the semester—which is the one we just did tonight—and there will be one more toward the end of the semester before finals. And it'll be that exact same pattern every semester you're here. No traps. No emergencies. Just a three-minute stopwatch check."
+Through the open door, Isabel saw Madison supporting a tearful Aubrie by the threshold while Lauren and Hannah knelt beside Jordan's wheelchair, trying gently to calm him as Jordan clung to the edge of his desk with white knuckles, sobbing and refusing to leave the room.
 
-The crushing weight that had been suffocating Jordan's chest since 8:00 PM vanished all at once.
+One look at Jordan's terrified eyes fixed on the open doorway—and the stunned, helpless expressions on his suitemates' faces—told Isabel that something far deeper than alarm noise was happening here.
 
-His mother wasn't in Blacksburg. She hadn't found a way to ruin his sanctuary. It really had just been a routine college fire drill.
+Isabel didn't bark an evacuation order, and she didn't reach for his chair. Instead, as the ten-second door timer began to close the door again, she stepped straight into Room 214, hit the **PUSH TO OPEN** button with her elbow to keep the path clear, and dropped to both knees directly in front of Jordan's wheelchair so she was completely below his eye level.
 
-A massive, full-body sigh of relief shuddered out of Jordan's lungs. Looking down at the compassionate RA kneeling in the grass in her neon vest, his gratitude overwhelmed his shyness. For the very first time since moving into Bennett Hall, **Jordan lifted both of his trembling arms off his armrests and reached out toward Isabel for a hug.**
+"Jordan! Hey—Jordan, look at me!" Isabel said clearly, pitching her voice right into the midrange frequency where she knew his hearing aids picked up speech best.
 
-Isabel's eyes softened instantly. Without a second's hesitation—mindful not to bump him with the plastic housing of her radio—she leaned forward and wrapped her arms warmly around his shoulders, holding him in a steady, grounding embrace right there on the Washington Street lawn.
+Still clutching the desk as if his life depended on it, Jordan's tear-streaked eyes darted down to her face.
 
-"I've got you, Jordan," Isabel murmured warmly, giving his shoulder a reassuring squeeze before easing back with a bright, misty-eyed smile. "Nobody is taking you anywhere. You belong right here on my floor."
+Deliberately, slowly, Isabel tapped the reflective silver stripe on her neon **CPI Residence Life** vest, held up her black two-way radio, and then angled her metal clipboard right in front of his glasses, pointing a steady finger at the bold printed header and table at the top of the sheet:
 
-As Jordan settled back against his seat cushion and wiped the drying tears from his cheeks behind his glasses, the emotional whiplash of the last ten minutes gave way to the triumph he had been celebrating right before the klaxon went off. Wanting Isabel to understand *why* tonight meant so much to him, he reached into the pocket of his CPI Forgers hoodie, pulled out his mPhone, unlocked the screen, and turned it toward her.
+**COMMONWEALTH POLYTECHNIC INSTITUTE — ENVIRONMENTAL HEALTH & SAFETY (`EHS`)**
+**SCHEDULED RESIDENTIAL FIRE DRILL LOG — FALL SEMESTER (DRILL 1 OF 2)**
 
-Isabel leaned in to read the glowing grade portal screen:
+"Look at the paper, Jordan—read the heading," Isabel said, her voice steady, warm, and unshakeable beneath the wail of the horn. "Nobody pulled the alarm to trick you or hurt you, and nobody is waiting outside for you. This is an official, scheduled university fire drill. Environmental Health and Safety runs two of them in every dorm every single semester—one right now at the beginning of the semester, and one toward the end of the semester. That's all this is."
 
-> **PHYS/ASTR 101 — EXAM 1: INTRODUCTION TO ASTROPHYSICS**
-> **Score:** `100 / 100`
-> **Extra Credit (Keplerian Orbital Perturbation Derivation):** `+5 / 5`
-> **Total Grade:** **`105% (A+)`** — *Note from Dr. Alistair: Extraordinary mathematical rigor.*
+Jordan stared at the printed university seal and the typed schedule table on her clipboard, his chest heaving as the words registered through the fog of panic.
 
-Isabel's jaw dropped before her entire face lit up with radiant pride.
+"Henry is standing right at the Washington Street doors holding them open for us, and Kelsey is outside on the sidewalk with a stopwatch," Isabel continued gently, keeping her eyes locked on his. "You are completely safe. Nobody is going to touch you, and nobody is taking you anywhere. We are going to roll out to the grass together for five minutes while Kelsey signs my sheet, and then we are coming right back inside to your room. Okay?"
 
-"Wait—you got a *hundred percent* on Dr. Alistair's first Astrophysics exam?!" Isabel gasped, looking from the phone screen to Jordan's shy, beaming smile. "*And* you nailed his impossible bonus derivation?! Jordan, half the sophomores in the Physics department cry over Dr. Alistair's first midterm! That is incredible!"
+For three heartbeats, nobody in Room 214 breathed.
 
-All around his wheelchair, the remaining tension evaporated into pure celebration. Aubrie—her earmuffs now resting around her neck—beamed and squeezed his hand, while Madison, Zoë, Lauren, and Hannah cheered and clapped his shoulders right there under the oak trees.
+Slowly, as the truth of the printed EHS log sank in—that there was no ambush waiting on the sidewalk, and that his mother wasn't outside—the raw, suffocating terror in Jordan's green eyes broke into a wave of exhausted relief. One finger at a time, his trembling hands uncurled from the wooden edge of his desk.
 
-Two seconds later, Isabel's two-way radio chirped to life: *"Command to all Bennett Hall units—panel is reset, strobes are off. Give residents the verbal All-Clear to re-enter the building."*
+He looked at Isabel, then at Lauren, Hannah, Zoë, Madison, and Aubrie, and gave a shaky nod.
 
-As they rolled back toward the ground-level Washington Street doors together, Jordan looked down at the `105%` glowing on his phone screen and then up at Isabel walking proudly beside his chair in her neon vest. His mother's voice in his head had never sounded smaller.
+"That's it—you've got this," Lauren whispered thickly, wiping a tear of her own from her cheek as she stepped behind his chair, while Zoë pressed the square **PUSH TO OPEN** button one final time so the motorized arm held the heavy door wide open.
+
+Moving as a tight, protective diamond—Lauren pushing Jordan's wheelchair, Madison supporting Aubrie under the blanket, Isabel walking right at Jordan's left armrest in her neon vest, and Zoë and Hannah clearing a lane through the strobing second-floor corridor—they rolled straight out the ground-level hillside doors onto the **Washington Street** sidewalk at the top of the slope, where **Henry** was already holding the heavy exterior crash-bar door wide open to keep the threshold clear before helping guide the rest of the second-floor residents fifty yards down the grass away from the fire lane.
+
+Outside in the cool night air, with fifty yards of open lawn buffering them from the building's exterior horns, the brutal 100-decibel shriek dropped to a distant background ring.
+
+Madison sat with Aubrie on a low stone retaining wall under the trees, rubbing her back while Zoë, Hannah, and Lauren stood shoulder-to-shoulder around them—still quietly shaken by what they had just witnessed inside Room 214. None of them asked Jordan about it out here on the crowded lawn, but an unspoken question hung heavily between them: *what on earth had happened to Jordan before he came to CPI that made him that terrified of leaving a locked room?*
+
+A few minutes later, the flashing white strobes inside Bennett Hall's windows clicked off, the horns fell silent, and **Kelsey Brennan** gave the official all-clear over the staff two-way radios.
+
+Before heading back to the doors, Isabel walked straight back over to Suite 214/216's spot under the oak trees, her clipboard tucked under her arm, and knelt down beside Jordan's wheelchair again so she didn't tower over him.
+
+"Hey," Isabel said gently, her voice warm in the sudden quiet of the September night. "How are you holding up, Jordan? Are your ears okay?"
+
+Jordan looked at his RA—at the neon vest, the clipboard she had held up like a lifeline inside his room, and the genuine, unhurried kindness in her eyes. She hadn't laughed at him for screaming and clinging to his desk. She hadn't treated him like a freak or a disciplinary problem for holding up her floor sweep. In the middle of a building-wide evacuation, she had stopped everything to prove to him that he was safe.
+
+He didn't reach for his backpack to pull out his laptop. Instead, with his heart still thumping against his ribs, Jordan leaned forward in his wheelchair and stretched both arms out toward her.
+
+Isabel's eyes softened instantly. Setting her clipboard and two-way radio down on the grass beside her knee, she leaned in and wrapped her arms around Jordan's shoulders in a warm, steady, reassuring hug.
+
+"You're safe here, Jordan," Isabel murmured softly, giving his shoulder a gentle squeeze before easing back with a warm smile. "Always. Anytime something feels scary or overwhelming in this building, Henry and I have your back."
+
+As Jordan settled back against his seat cushion and wiped the drying tears from his cheeks behind his glasses, the emotional whiplash of the last ten minutes gave way to the triumph he had been celebrating right before the klaxon went off. Wanting Isabel to understand how hard he was working to build a real life here, he reached into the pocket of his CPI Forgers hoodie, pulled out his mPhone, unlocked the screen, and turned it toward her.
+
+Glowing on the display was the CPI Canvas gradebook page for **PHYS 1054: Introduction to Astrophysics**:
+
+**Exam 1 Score: 105 / 100 (100% + 5 pts Extra Credit)**
+
+Isabel leaned in to read the screen, and her eyes went wide.
+
+"Shut up!" Isabel gasped, a huge, radiant grin breaking across her face as she read the line twice. "A hundred and five percent?! On Dr. Thorne's first Astrophysics exam?! Jordan, half the sophomores in the Engineering wing barely survive that class with a C!"
+
+Beside her, Lauren, Hannah, Madison, Zoë, and even Aubrie—who had slid her earmuffs down around her neck—beamed with collective pride as a shy, genuine smile finally broke through the exhaustion on Jordan's face.
+
+"Henry! Get over here!" Isabel called out as Henry walked up the sidewalk from the crosswalk in his own high-visibility vest. "Our guy in 214 just dropped a hundred and five percent on his first college Astrophysics exam!"
+
+"No way—one-oh-five?!" Henry grinned, walking right over to offer Jordan an enthusiastic fist bump. "Man, you are officially tutoring the entire second floor before midterms. That is legendary."
+
+Jordan bumped his knuckles against Henry's fist, the lingering phantom of his mother's trap dissolving completely into the crisp autumn air.
+
+As they rolled back toward the ground-level Washington Street doors together—where Jordan tapped his OEA-encoded Poly Pass to the exterior reader, unlocking the latch and triggering the automatic door opener for his whole family—he looked down at the `105%` glowing on his phone screen and then up at Isabel and Henry walking proudly beside his chair. His mother's voice in his head had never sounded smaller.
 
 ### Scene 4: The Nightly Pact
 
@@ -4072,47 +4114,65 @@ Moving as a single, disciplined unit, they cut through the sea of maroon and ora
 
 "Excuse us—wheelchair coming through, give us a lane, please," Mark repeated steadily, opening a clean corridor all the way out the main gates.
 
-The moment they cleared the outer turnstiles of The Crucible, the deafening roar of the stadium dropped away into the crisp autumn air. Nobody spoke during the brisk roll back up the campus pathways. When they reached the lower quad-side entrance of "The Old Lady on the Hill," the familiar mechanical whirr of Bennett Hall's accessible door opener sounded like a collective sigh of relief.
+The moment they cleared the outer turnstiles of The Crucible, the deafening roar of the stadium dropped away into the crisp autumn air. Nobody spoke during the brisk roll back up the campus pathways. When they reached the lower quad-side entrance of "The Old Lady on the Hill," Jordan's trembling hand barely managed to tap his OEA-encoded Poly Pass against the exterior reader; the familiar mechanical whirr of Bennett Hall's accessible door opener swinging wide for ten seconds sounded like a collective sigh of relief.
 
-They rode the elevator up to the second floor. As the elevator doors slid open, **Isabel Dawson** and **Henry** were standing near the water fountain down the hall chatting with two residents from Room 210. One look at Jordan's pale face, his rocking torso, and the tight formation around his chair told Isabel and Henry everything they needed to know.
+They rode the elevator up to the second floor. As the elevator doors slid open, **Isabel Dawson** and **Henry Walsh** were standing near the water fountain down the hall chatting with two residents from Room 210.
 
-Without saying a word to draw attention to Jordan, Henry casually stepped across the width of the hallway to gently steer the two chatting residents back toward the lounge area, while Isabel walked ahead of the group to Room 214, tapped her master key fob wait-free would-be passersby out of the way, and gestured cleanly toward the door so Zoë could wheel Jordan straight inside without a single curious stare or hallway question.
+One look at Jordan's pale face, his violent rocking torso, and the tight, protective formation around his chair stopped both RAs mid-sentence. Having seen Jordan cling to his desk screaming in terror during Thursday night's fire drill, Isabel and Henry instantly recognized that he was on the verge of a massive crisis.
 
-*Thank you,* Lauren mouthed to Isabel and Henry as the tail end of the group slipped inside. Isabel gave a quiet, compassionate nod over her shoulder and kept the corridor clear until the heavy oak door of Room 214 shut and the deadbolt clicked into place.
+Without saying a word to draw attention to Jordan, Henry casually stepped across the width of the hallway and gently steered the two chatting residents down toward the first-floor stairwell and lounge area to clear the corridor completely, then jogged quietly back to join Isabel. Ahead of the group, Isabel hurried to Room 214, tapped her RA master Poly Pass—which, like Jordan's OEA card, was encoded to trigger the accessible suite's automatic door opener—and held the doorway clear as the heavy wooden door unlocked and swung inward on its ten-second dwell timer.
 
-The football game was still raging a few blocks away, but inside their cinderblock sanctuary, they were finally sealed off from the world.
+"Bring him right in—the hall is clear," Isabel murmured softly as Zoë wheeled Jordan straight across the threshold.
+
+"Isabel, Henry—please come in with us," Lauren whispered urgently over her shoulder as the rest of the Group of 8 filed inside. "Whatever made him panic during the fire drill on Thursday... it's happening again."
+
+Isabel and Henry didn't hesitate for a second. Both RAs stepped into Room 214 right behind Mark and Sarah just as the ten-second timer expired and the motorized arm pulled the heavy wooden door shut until the electronic lock clicked automatically into place.
+
+The football game was still raging a few blocks away, but inside their cinderblock sanctuary, all ten of them were finally sealed off from the world.
 
 ### Scene 7: The Fortress of Truth
 
 **Date:** 2014-09-27 at 20:45 America/New_York
 
-The heavy click of the lock on the door of Room 214 sealed them inside their fortress. Jordan sat in his wheelchair, still trembling from the retreat. His gaze fell upon the door, and then the adjoining door to Room 216. He saw their triumphant, mocking decorations: BEAT NORFOLK! and the Crushed VDU Crown. It felt like a horrible lie, a monument to his own humiliation.
+The automatic click of the electronic lock on the door of Room 214 sealed the ten of them inside their fortress. Jordan sat in his wheelchair, still trembling violently from the retreat. His gaze fell upon the interior of the door, and then through the open connecting bathroom toward the door of Room 216—remembering what was taped across the hallway side of both doors. Their triumphant, mocking decorations: **BEAT NORFOLK!** and the Crushed VDU Crown. It felt like a horrible lie, a monument to his own humiliation.
 
-He couldn't find his voice, but he raised a shaking hand and pointed at the door.
+Completely non-verbal, he couldn't speak a word to explain, so he raised a shaking hand and pointed desperately toward the hallway doors.
 
 "The decorations?" Lauren asked softly.
 
-Jordan gave a sharp, desperate nod. He needed them gone.
+Jordan gave a sharp, frantic nod. He needed them gone.
 
-There was no hesitation. "Got it," Mark said.
+There was no hesitation. "Got it," Mark said, while Henry stepped forward beside him. "I'll help you, man," Henry added quietly.
 
-The entire Group of 8 sprang into action. They didn't ask why; they just understood. They stepped out of the room, tore the celebratory drawings of the crushed crown and the proud Forger from the fronts of both doors, ripping the paper and streamers down until all traces of their earlier hubris were gone, and quickly returned to the room.
+Mark, Hannah, and Henry sprang into action. They didn't ask why; they just understood. Hannah pressed the square **PUSH TO OPEN** handicap button on the interior wall to unlock and open the door. Stepping out into the quiet corridor, the three of them tore the celebratory drawings of the crushed crown and the proud Forger from the fronts of both Room 214 and Room 216, ripping the butcher paper and streamers down in seconds until all traces of their earlier hubris were gone, then slipped back inside just before the ten-second timer closed and re-locked the door behind them.
 
-The act of removing the decorations, the admission of their collective defeat, was the final trigger. The tenuous control Jordan had maintained shattered completely. He collapsed inward, a full-blown autistic meltdown merging with a raw panic attack. A low, wounded sound came from his chest as he began to rock violently in his chair. He was overwhelmed, scared, and hurting. The stadium, the score, the realization—it all confirmed his deepest terror: his mother was right, and she was coming to take him away.
+The act of removing the decorations—the physical admission of their collective defeat—was the final trigger. The tenuous control Jordan had maintained since leaving the stadium shattered completely. He collapsed inward, a full-blown autistic meltdown merging with a raw panic attack. A low, wounded cry tore from his chest as he began to rock violently in his chair. He was overwhelmed, terrified, and hurting. The stadium, the scoreboard, the realization of what "Norfolk" actually meant—it all confirmed his deepest terror: his mother was right, and she was coming to take him away.
 
-The Group of 8 didn't flinch. They immediately formed their fortress around him. Aubrie and Madison knelt at his sides, their hands a firm, grounding pressure on his arms and shoulders. Mark and Hannah stood guard, blocking the door, while the others formed a tight, protective semi-circle. They spoke in low, calm, reassuring tones, trying to help him ride the storm out. It took a long, long time for the rocking to subside, finally replaced by silent, shuddering sobs.
+Nobody in the room flinched. The Group of 8, joined seamlessly by Isabel and Henry, immediately formed their fortress around him. Aubrie and Madison knelt at his sides, their hands a firm, grounding pressure on his arms and shoulders. Mark, Hannah, and Henry stood guard near the locked door, while Lauren, Zoë, Sarah, and Isabel formed a tight, protective semi-circle around his chair. They spoke in low, calm, reassuring tones, helping him ride the storm out. It took a long, long time for the violent rocking to subside, finally replaced by silent, shuddering sobs.
 
-He was completely drained. He looked at them, his face a mask of exhaustion and lingering terror, and tried to explain, to thank them. But no sound came out. His voice was gone, locked away by the trauma. He was situationally mute.
+By the time the storm passed, Jordan was completely drained. He looked around at the nine faces surrounding his wheelchair—his suitemates, Mark, Sarah, and the two RAs who had protected him since his very first afternoon in Bennett Hall. He couldn't keep carrying this secret in silence anymore. They needed to know *why* he had screamed and clung to his desk during Thursday's fire drill, and why losing to Norfolk today had broken him.
 
-Zoë, ever the logistician, saw his desperate, failed attempt to speak. She immediately retrieved his sleek Pinnacle Vanguard Pro and placed it securely on his lap.
+Zoë, ever the logistician, saw his trembling hands reach toward his backpack. She immediately retrieved his sleek `Pinnacle Vanguard Pro`, opened the lid, and placed it securely on his lap.
 
-His fingers, still trembling, found the keys. Bypassing the EchoType voice synthesizer, he launched his sleek, dark-themed Aura Glade terminal. He opened NeoEdit, scaling the bright, neon-green text up massively against the stark black background so his friends could easily read over his shoulder without him needing to speak. The words came out in a raw, jumbled, honest flood. For the first time in his entire life, Jordan was telling his story to ANYONE.
+His fingers, still shaking, found the keys. Rather than sending the words through the `EchoType` voice synthesizer—afraid that hearing his own terror spoken aloud in the room would make him break down all over again—he launched his sleek, dark-themed `Aura Glade` terminal. He opened `NeoEdit`, scaling the bright, neon-green text up massively against the stark black background so all nine of them could easily read over his shoulder in the quiet room.
 
-He typed about his mother: the suffocating control, the isolation, the years of being sheltered and told he was incapable. He explained that CPI wasn't just college; it was his first taste of freedom, his only escape. He typed about that first day, about Aubrie’s hug, how it was the first time in his life anyone had ever shown him unconditional kindness.
+The words came out in a raw, jumbled, honest flood. For the very first time in his entire life, Jordan was telling his story to *anyone*.
 
-He explained why the game had broken him—that "Norfolk" was his mother's world, and watching it destroy CPI felt like his one chance at life was failing. He typed out his deepest fear: that his mother would use this, that she would find a way to drag him back, to prove that his needs made him a helpless burden. He finished with one simple, heartbreaking plea: if they could help it, he never, ever wanted to see his mother again.
+He typed about his mother, Aubrie Sinclair: the suffocating control, the years of isolation inside her house in Virginia Beach, the refusal to ever take him to a doctor or let him have glasses or hearing aids, and the constant, daily conditioning that he was broken, helpless, and an unbearable burden to everyone around him. He typed about how she had forced him to use the first name *Aubrey* as an extension of herself, and how she had dropped him off on move-in day fully expecting him to fail and beg to come home.
 
-The Group of 8 read the text on the screen in stunned, horrified silence. They finally understood. This wasn't about a football game. This was about a lifetime of abuse. They looked from the screen to the exhausted boy in the wheelchair who had just trusted them with his entire life story.
+Then he typed the sentence that made everyone in the room gasp softly:
+
+*On Thursday night when the fire alarm went off and the door opened, I didn't know colleges had fire drills. Because our room door stays locked, I thought my mother was outside the building and pulled the fire alarm on purpose to force me out of the locked room so she could grab me and take me back to Virginia Beach.*
+
+Isabel pressed a hand to her mouth, her eyes filling with tears as Thursday night's terrifying scene at Jordan's desk suddenly made complete, heartbreaking sense. Beside her, Henry's jaw set hard, his knuckles whitening around the strap of his lanyard.
+
+Jordan's trembling fingers kept typing. He explained that CPI wasn't just college; it was his first taste of freedom, his only escape. He typed about that first Saturday morning, about Aubrie Kelly's hug—how it was the very first time in eighteen years anyone had ever shown him unconditional kindness.
+
+Finally, he explained why the Homecoming football game had shattered him: that his mother had isolated him so thoroughly he hadn't realized "Norfolk" and Virginia Dominion University were right next door to Virginia Beach, right in his mother's world. Watching "Norfolk" crush CPI on the scoreboard had felt like watching his mother's world crush his one chance at life—confirming her promise that he would fail and that she would come drag him back to prove his disability made him a helpless burden. He finished with one simple, heartbreaking plea glowing in bright green letters at the bottom of the screen:
+
+*If we can help it, I never, ever want to see my mother again.*
+
+The Group of 8, along with Isabel and Henry, read the text on the screen in stunned, horrified silence. They finally understood every single piece of the puzzle. This wasn't about a football game, and Thursday night hadn't been about a loud alarm horn. This was about surviving eighteen years of abuse. They looked from the glowing green screen to the exhausted eighteen-year-old in the wheelchair who had just trusted the nine of them with his entire life story.
 
 Lauren took a slow, deliberate step forward, her warm brown eyes shimmering with unshed tears. She knelt directly in front of his wheelchair, placing her hands gently over his trembling fingers on the keyboard.
 
@@ -4136,15 +4196,25 @@ Lauren offered him a warm, watery smile. "In my hometown, Jordan, when someone i
 
 She looked from the laptop back up to his face. "That first day you were here, stranded in a room full of strangers because of a clerical error... you weren't a burden to us. You just needed a safe harbor. And taking care of you, getting to know the brilliant, kind man you are... it is the greatest privilege of my life."
 
-In that moment, looking around at the fierce, protective faces of Lauren, Aubrie, Madison, Zoë, Sarah, Hannah, and Mark, an unspoken, unbreakable vow was forged. They would be his shield. They would give Jordan a place to land, a true home, ensuring his mother could never, ever reach him again.
+Beside Lauren, Isabel knelt down on the linoleum as well, resting a steady hand on the frame of Jordan's wheelchair while Henry stepped up right behind her shoulder.
+
+"And Jordan," Isabel said, her voice thick with emotion but carrying the full institutional steel of her position, "you remember what we told you about how the doors work in Bennett Hall. Nobody gets onto this floor at night without a resident Poly Pass, and nobody gets through the locked door of Room 214 or Room 216 unless one of you lets them in. You are eighteen years old—you are a legal adult, and under federal privacy law, your mother has zero right to know your schedule, your grades, or even set foot in your room without your permission."
+
+"If she ever shows up at the front desk or tries to come near this floor," Henry added firmly, looking Jordan straight in the eye, "she has to go through Izzy, me, and Kelsey first—and we will have Campus Police escort her off this mountain before she ever gets within fifty feet of Door 214. You're one of ours, man."
+
+In that moment, looking around at the fierce, protective faces of Lauren, Aubrie, Madison, Zoë, Sarah, Hannah, Mark, Isabel, and Henry, an unspoken, unbreakable vow was forged. They would be his shield. They would give Jordan a place to land, a true home, ensuring his mother could never, ever reach him again.
 
 ### Scene 8: The Fortress at Night
 
 **Date:** 2014-09-27 at 22:30 America/New_York
 
-The screen of Jordan's `Vanguard Pro` was finally closed, his raw confession and Lauren's promise still hanging in the quiet, protective warmth of Room 214. The sheer emotional exhaustion of the day—the morning hype, the stadium collapse, the retreat, and the outpouring of eighteen years of hidden truth—had left everyone in the suite bone-tired. It was time for sleep.
+The screen of Jordan's `Vanguard Pro` was finally closed, his raw confession and his friends' promises still hanging in the quiet, protective warmth of Room 214. The sheer emotional exhaustion of the day—the morning hype, the stadium collapse, the retreat, and the outpouring of eighteen years of hidden truth—had left everyone in the suite bone-tired. It was time for sleep.
 
-Mark and Sarah, the two members of the Group of 8 who lived outside the suite, were the first to say goodnight. Mark rested a firm, brotherly hand on Jordan's shoulder, and Sarah gave him a gentle squeeze on the arm, their quiet goodbyes a promise that they would be back bright and early in the morning before they headed out to their own dorm rooms.
+Isabel and Henry were the first to prepare to step back out into the corridor, accompanied by Mark and Sarah, the two members of the Group of 8 who lived outside the suite. Isabel leaned down to give Jordan a gentle, reassuring hug, while Henry clapped a warm hand on his shoulder.
+
+"I'm right across the hall in 215, and Henry's just down in 201," Isabel whispered softly. "Your door locks automatically the second it closes, and we're keeping watch all weekend. Get some sleep, Jordan."
+
+Mark rested a firm, brotherly hand on Jordan's shoulder, and Sarah gave him a gentle squeeze on the arm, their quiet goodbyes a promise that they would be back bright and early in the morning. Mark pressed the square **PUSH TO OPEN** handicap button on the interior wall, and the four of them stepped out into the quiet hallway as the ten-second timer counted down and the heavy wooden door swung shut, clicking locked automatically behind them.
 
 Hannah and Lauren lingered a moment longer. Seeing that Jordan was safe and anchored, Lauren leaned down and wrapped him in a warm, lingering hug.
 
@@ -4168,7 +4238,7 @@ Jordan transferred from his wheelchair onto the mattress of Bed A. For a few sec
 
 Then the mattress dipped beside him as Aubrie climbed in under the covers. A dorm Twin XL was never designed to hold two adults, but neither of them cared about the cramped inches. Aubrie immediately turned onto her side behind him, becoming the big spoon. She draped her arm securely over his waist, pulling his back flush against her chest and resting her chin on his shoulder—turning her own body into a warm, living shield between him and the dark.
 
-Jordan let out a long, shuddering breath he felt like he had been holding since kickoff. His mind was quiet, his body exhausted, and his heart profoundly grateful for Zoë's promise, Madison's warmth, and Aubrie's unwavering embrace. He was still scared of what his mother might do next—but he was no longer alone. Closing his eyes, he sank back into Aubrie's arms and fell asleep.
+Jordan let out a long, shuddering breath he felt like he had been holding since kickoff. His mind was quiet, his body exhausted, and his heart profoundly grateful for Zoë's promise, Lauren's radical hospitality, Isabel and Henry's watchfulness, Madison's warmth, and Aubrie's unwavering embrace. He was still scared of what his mother might do next—but he was no longer alone. Closing his eyes, he sank back into Aubrie's arms and fell asleep.
 
 # A New Winter Break Tradition
 

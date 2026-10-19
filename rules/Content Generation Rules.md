@@ -27,3 +27,13 @@
  * **Graceful Adaptation for Sensitive Content:** If a sequence contains explicit intimacy, detailed anatomical explanations, or intense medical/sexual trauma topics that will trigger AI safety filters (e.g., "An Unconventional Study Session"), the AI is instructed to rewrite the scene as a tasteful, high-level narrative summary. The rewrite must focus entirely on the emotional weight, character development, and plot progression rather than granular, clinical, or explicit mechanics.
 
 * **No Copyrighted or Trademarked Material:** if, in the course of content generation, we cone across a copyrighted or trademarked word, we must substitute it for an in-universe brand. If a suitable substitute is not on the attached list, we should come up with a plausible in-universe brand OR simply use a generic word as a copyright safe replacement. The goal is to produce content that does not earn a Cease and Desist letter.
+
+## 5. CPI Campus Door & Poly Pass Accessibility Mechanics (`aubrie`)
+
+* **Hallway / Exterior Entry (Going into a Locked Room or Building):**
+  * For **ALL** locked doors on campus that a student's **Poly Pass** is authorized to unlock, tapping the Poly Pass to the electronic reader unlocks the latch for someone to push or pull the door open.
+  * For the **handicap suites in all residence halls across campus** (not just Bennett Hall, including both **Room 214** and **Room 216** in Bennett Hall) as well as any other locked door on campus, a student registered with the **Office of Educational Accessibility (OEA)** (such as Jordan Fuller) has their Poly Pass encoded to **also activate the motorized automatic door opener of ANY locked door** they are authorized to access.
+* **Inside the Room (Exiting to the Hallway in Handicap Suites like Rooms 214 & 216):**
+  * To exit from inside the room to the hallway (or to open the door from the inside when someone knocks), press the square brushed stainless-steel handicap actuator button mounted on the interior wall beside the doorframe (stamped with the blue wheelchair symbol and **`PUSH TO OPEN`** in bold blue block letters). Pressing this button both unlocks the electronic latch and activates the automatic door opener.
+* **Hold-Open Dwell Timer & Auto-Relock:**
+  * Whenever an accessible door is activated (either via an OEA-encoded Poly Pass from the outside or the **`PUSH TO OPEN`** handicap button from the inside), it is programmed to stay open for **10 seconds** (the standard extended OEA wheelchair dwell timer) and then **automatically close and lock**.
