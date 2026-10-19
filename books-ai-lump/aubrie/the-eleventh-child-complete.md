@@ -3216,32 +3216,62 @@ Jordan looked around the small cinderblock room—at Aubrie smiling down at him,
 
 **Date:** 2014-08-29 at 13:15 America/New_York
 
-By Friday afternoon, the late-August sun was warm and bright over the gray Ironstone buildings of Commonwealth Polytechnic Institute. With their morning classes finished for the week, the entire core group—Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—formed their familiar protective phalanx around Jordan's manual wheelchair as they rolled down the paved walkway toward the curbside bus lineup along **Commonwealth Mall** beneath **The Keystone Bridge** outside **Kincaid Hall**.
+By Friday afternoon, the late-August sun was warm and bright over the gray Ironstone buildings of Commonwealth Polytechnic Institute. With their first full week of classes officially behind them, the entire nine-person crew—Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—formed their familiar protective phalanx around Jordan's manual wheelchair as they rolled down the paved walkway toward the curbside transit bays along **Commonwealth Mall** beneath **The Keystone Bridge** outside **Kincaid Hall**.
 
-Idling at the curb beneath the massive stone arch of the skybridge was a sixty-foot **Blue Ridge Transit** low-floor articulated bus manufactured by **Prairie Coachworks**, painted in crisp Arctic White with an Appalachian Pine Green lower skirt and sweeping Teal and Sky-Blue side ribbons. Above the curved windshield, the glowing amber Luminator LED destination sign alternated cleanly between two screens:
+Today wasn't just a trip into town for Jordan's vision and hearing appointments. It was a threshold he had never crossed in eighteen years of life: **his very first time riding a bus.**
+
+As they waited by the shelter, Jordan's hands tightened instinctively on his push-rims, his shoulders tensing as a lifetime of painful muscle memory surfaced. Back in Virginia Beach, leaving the house had meant enduring the rough, humiliating ordeal of getting in and out of his mother's luxury sedan. Because Aubrie Sinclair refused to buy a wheelchair-accessible van—claiming it would look "unsightly" in her driveway—every single car trip had begun with a physical struggle. She would park too close to the curb, grab Jordan roughly under the arms before he was braced, and shove and twist his body across the narrow door sill into the low front passenger seat, bruising his hips against the seatbelt buckle while sighing loudly about how much he was *"ruining her back."* Then he would have to sit helplessly inside the hot car listening to her wrench the pins on his wheelchair, slam the folded frame violently into the trunk, and complain for the entire drive about what an exhausting ordeal it was to take him anywhere.
+
+Whenever he had looked out the car window at a city bus passing by, his mother had weaponized that, too—telling him that public buses were *"dirty, dangerous, and ten times rougher,"* and that if he ever tried to board one in a wheelchair, he would get stuck on the ramp while a furious bus driver and fifty impatient commuters glared at him for holding up traffic.
+
+Then a deep, refined diesel hum echoed beneath the stone arch of the skybridge.
+
+Gliding smoothly up to the curb was a sixty-foot **Blue Ridge Transit** low-floor articulated bus manufactured by **Prairie Coachworks**, painted in crisp Arctic White with an Appalachian Pine Green lower skirt and sweeping Teal and Sky-Blue side ribbons. Above the wide panoramic windshield, the glowing amber LED destination sign alternated cleanly between two frames:
 
 `1 CBURG TRANS CTR`
 `via S MAIN ST`
 
-As they approached the front curb, the transit operator spotted Jordan's wheelchair immediately. With a loud, pneumatic *hiss*, the front air suspension kneeled toward the concrete, the dual-leaf front doors folded open, and the yellow-edged aluminum ADA ramp flipped smoothly out onto the sidewalk right beside the driver's window.
+The transit operator—a friendly middle-aged man in a short-sleeved Blue Ridge Transit polo—spotted Jordan's wheelchair on the sidewalk immediately. He didn't scowl, check his watch, or sigh. Instead, he offered Jordan a warm, unhurried two-finger wave through the windshield and flipped a toggle switch on his dashboard.
 
-Jordan's hands tightened slightly on his push-rims. Back in Virginia Beach, he had never once ridden a public city bus; his mother had always insisted that public transit was "dirty, dangerous, and not built for someone in his condition," using his wheelchair as an excuse to keep him dependent on her sedan.
+With a gentle, rhythmic pneumatic *hiss*, the entire front end of the sixty-foot bus kneeled downward, dropping the front step until it was nearly flush with the concrete curb. The dual-leaf front boarding doors folded wide open, a soft chime sounded, and the wide, yellow-edged aluminum low-floor ADA ramp flipped smoothly out of the floor and settled onto the sidewalk right beside the driver's compartment. The entire deployment had taken less than four seconds.
 
-"Right up the front ramp, brother," Mark said easily, flashing his maroon-and-orange **CPI PolyPass** to the driver as Jessica and Aubrie flanked Jordan's chair. "The low-floor buses here are built like tanks. You don't even need a lift."
+"Afternoon, folks! Take your time coming aboard," the driver called out cheerfully.
 
-Jordan took a breath and pushed forward. The slope of the front-door ramp was gentle, and with a quiet, effortless assist from Mark and Jessica behind him, he rolled straight into the cool, air-conditioned cabin. The driver flipped up the forward passenger bench on the right side, and Mark helped Jordan back his wheelchair into the securement bay, clicking the four-point floor retractors onto his frame and snapping the lap belt across his waist.
+"Right up the front ramp, brother," Mark said easily, flashing his maroon-and-orange **CPI Poly Pass** to the driver as Jessica and Aubrie flanked Jordan's chair. "These low-floor Prairie Coachworks buses are engineered like tanks. You don't even have to leave your seat."
 
-One by one, the rest of the group flashed their physical PolyPasses to the operator and filled the surrounding sideways benches—Aubrie and Madison sitting right beside Jordan's armrests, Lauren and Sarah across the aisle, and Zoë, Hannah, Mark, and six-foot-three Jessica occupying the seats immediately behind them.
+Jordan took a deep breath, released his wheel locks, and pushed forward onto the textured aluminum ramp.
 
-As the sixty-foot articulated coach pulled away from the Commonwealth Mall curb, navigated onto South Main Street, and rolled south down the four-lane commercial stretch of **U.S. Route 460 Business** toward Christiansburg, Jordan opened his `Pinnacle Vanguard Pro` on his lap. In his `NeoEdit` terminal, he typed a quick line of neon-green text and angled the screen toward Aubrie and Mark.
+To his utter astonishment, the incline was barely steeper than a hallway threshold. With a light, effortless assist from Mark and Jessica behind him just to keep his momentum steady, his front casters glided over the lip of the ramp and rolled straight onto the flat, slip-resistant floor of the air-conditioned cabin.
 
-<aac>That took less than ninety seconds. My mother told me buses couldn't take wheelchairs without holding up traffic for twenty minutes.</aac>
+Nobody grabbed him under the arms. Nobody wrenched his torso across a car seat or bruised his ribs. Nobody took his wheelchair away from him and slammed it into a dark trunk like unwanted luggage. He remained seated upright in his own chair, in full control of his own body.
 
-"Your mum talked a lot of rubbish, mate," Sarah said from across the aisle, shaking her head with a wry grin in her thick Sydney accent. "Back home in Liverpool and Sydney, or right here in the New River Valley, low-floor ramps take thirty seconds flat."
+Just behind the front wheel well on the passenger side, the driver flipped up a padded three-person forward bench with a single fluid motion, exposing a spacious, dedicated wheelchair securement bay. Mark guided Jordan in backing his chair flush against the padded backrest, knelt down, and pulled the four self-tensioning floor retractor straps out of their tracks—*click, click, click, click*—hooking them cleanly onto the frame of Jordan's chair and snapping the lap belt comfortably across his waist.
 
-"And look out the left window when we crest this hill," Mark pointed as the bus glided past the Christiansburg town limits and turned toward the historic downtown district. Even through Jordan's blurry, uncorrected vision, he could make out the imposing brick-and-stone silhouette of a large civic building across from a busy shopping plaza. "That's the **Montgomery County Courthouse** on the left, and right here on the right is **Pepper Plaza**."
+"Locked and loaded in thirty-five seconds flat," Mark grinned, patting Jordan's shoulder.
 
-The driver pulled the cord for the stop, the bus kneeled at the Pepper Plaza curb, and the front ramp deployed once more. Rolling out onto the wide concrete sidewalk in front of the **Montgomery Vision and Hearing Clinic**, Jordan looked up at the dual signage above the glass doors. For eighteen years, the world beyond three feet had been a smeared, muffled fog. In less than an hour, that fog was finally going to lift.
+One by one, the rest of the group flashed their Poly Passes to the driver and filled the surrounding seats—Aubrie and Madison sitting right beside Jordan's armrests, Lauren and Sarah across the wide aisle, and Zoë, Hannah, Mark, and six-foot-three Jessica claiming the row immediately behind him.
+
+With another smooth pneumatic whisper, the ramp folded back into the floor, the front suspension rose to ride height, and the sixty-foot articulated coach glided effortlessly away from the Commonwealth Mall curb. As they turned onto South Main Street and cruised south down the four-lane stretch of **U.S. Route 460 Business** toward Christiansburg, Jordan marveled at how velvet-smooth the air-ride suspension felt beneath his tires. Every bump in the asphalt was absorbed into a gentle, cradle-like sway.
+
+Jordan opened his `Pinnacle Vanguard Pro` on his lap tray. Launching `NeoEdit` on his Aura Glade terminal, he typed out a message in large neon-green text and angled the screen toward Aubrie, Madison, and Mark:
+
+<aac>That took less than a minute. Nobody had to lift me, and nobody had to fold my chair into a trunk. My mother told me getting on a bus was impossible and that I would hold up traffic for twenty minutes.</aac>
+
+Aubrie reached over and laced her fingers warmly through his, her eyes shining with quiet emotion as she saw the weight lifting off his shoulders. "Everything she told you to keep you trapped in that house was a lie, J. Out here, the world actually has room for you."
+
+"Your mum talked a lot of rubbish, mate," Sarah agreed from across the aisle, shaking her head in her thick Sydney accent. "Whether you're in Sydney or right here in Blacksburg, low-floor buses are built so you can go wherever you want, whenever you want, with zero dramas."
+
+"And look out the left window when we crest this hill," Mark pointed as the bus glided past the Christiansburg town limits and turned toward the commercial district. Even through Jordan's blurry, uncorrected vision, he could make out the brick-and-limestone silhouette of a large civic building across from a bustling shopping center. "That's the **Montgomery County Courthouse** on the left, and right here on the right is **Pepper Plaza**."
+
+Hannah reached up and pressed the yellow ADA stop-request strip beside Jordan's bay, triggering a polite chime overhead.
+
+As the bus pulled into the **Pepper Plaza Transit Center** bay, Jordan braced slightly out of old habit—half-expecting getting *off* the bus to be harder than getting on. Instead, the moment the air brakes set, Mark clicked the four red release tabs on the floor retractors and the straps zipped neatly back into their housings. The bus kneeled with a soft *hiss*, the front doors opened, and the aluminum ramp flipped down onto the sunny concrete sidewalk.
+
+Jordan spun his wheels forward, rolled smoothly down the gentle ramp under his own power, and came to a stop on the wide plaza pavement in less than twenty seconds.
+
+"Have a great afternoon, young man!" the driver called out with a friendly salute before closing the doors.
+
+Sitting on the warm sidewalk in front of the **Montgomery Vision and Hearing Clinic**, Jordan looked back at the departing white-and-green bus in quiet awe. Getting in and out of his mother's car had been a rough, painful reminder of his supposed helplessness. Getting on and off a Blue Ridge Transit bus had been as natural as breathing. For eighteen years, the world beyond three feet had been a smeared, muffled fog—and in less than an hour, that fog was finally going to lift.
 
 ### Scene 2: A World in Focus
 
@@ -3527,39 +3557,96 @@ Six signatures, sealing their sanctuary in blue ink.
 
 **Date:** 2014-09-19 at 20:00 America/New_York
 
-It was 8:00 PM on the dot—the final night of CPI's mostly ignored "Health and Safety Week"—when the world inside Bennett Hall exploded.
+Up until 7:59 PM that Friday evening, September 19th had been one of the proudest days of Jordan's life.
 
-Without a single second of warning, a piercing, metallic, 100-decibel shriek ripped through the cinderblock walls of Suite 214/216, accompanied by the blinding, rhythmic white flash of the wall-mounted ADA emergency strobe lights.
+Just before dinner, Dr. Alistair had posted the grades for the very first **Astronomy 101: Introduction to Astrophysics** exam to the university portal. Sitting in his new CPI Forgers hoodie, Jordan had opened the notification on his mPhone with his heart in his throat—only to see a glowing **105%** at the top of the rubric: a perfect **100%** on the main exam, plus full marks on the notoriously brutal orbital-mechanics **Extra Credit** question that half the upperclassmen in the lecture hall had left blank. For eighteen years, his mother had sneered at his passion for the cosmos as a *"silly little college experiment"* that he wasn't capable of handling. For the first time, he had objective, mathematical proof that she was wrong.
 
-"Oh, you have *got* to be kidding me!" Madison groaned from the top bunk, clapping her hands over her ears. Across the suite doorway, Hannah and Lauren echoed the exact same sentiment—every freshman in the building sharing the universal, annoyed thought: *I thought we were done with fire drills when we graduated high school.*
+Then the clock struck 8:00 PM on the dot—the final night of CPI's mostly ignored "Health and Safety Week"—and the world inside Bennett Hall exploded.
 
-Intellectually, all six of them knew what a dormitory fire drill was, and they knew the standard procedure was to walk down the hall and exit onto the hillside lawn.
+Without a single second of warning, a piercing, metallic, 100-decibel shriek ripped through the cinderblock walls of Suite 214/216, accompanied by the blinding, rhythmic white flash of the wall-mounted ADA emergency strobe lights and the heavy *thud* of the hallway's electromagnetic smoke-barrier doors automatically releasing and slamming shut.
 
-But for Aubrie and Jordan, knowing a procedure in theory and executing it under a sudden, violent sensory ambush were two entirely different things.
+"Oh, you have *got* to be kidding me!" Madison groaned from the top bunk, clapping her hands over her ears. Across the connecting doorway in Room 216, Hannah and Lauren winced in unison.
 
-For Aubrie, the assault was instantaneous and physically debilitating. Caught completely off guard without her earmuffs, the shrieking klaxon and the disorienting white strobes slammed into her nervous system like a physical battering ram. She couldn't stand up from her desk chair; she curled inward onto her knees, clamping her palms tightly over her ears as her breath hitched in sharp, painful gasps.
+Intellectually, the four able-bodied suitemates recognized the unmistakable chaos of a college dormitory fire drill.
 
-For Jordan, amplified through his new bridge hearing aids before their automatic compression limiters could even clamp down, the shriek was coupled with an overwhelming cognitive freeze. In his mind, structured fire drills belonged to elementary and high school—places where adults herded him into hallways like cattle. This wasn't supposed to happen here. Not in their sanctuary. The suddenness of the violation short-circuited his motor planning. His hands locked onto the push-rims of his chair, his knuckles white, his head shaking back and forth in silent, frozen paralysis as his `Vanguard Pro` sat dark on his desk.
+For Aubrie and Jordan, however, the sudden sensory ambush triggered an immediate, devastating collapse—for two completely different reasons.
 
-In less than three seconds, the other four suitemates saw their distress and pivoted from annoyed college freshmen into a disciplined rescue unit.
+For Aubrie, the physical noise was simply too much. Caught completely off guard without her earmuffs, the 100-decibel klaxon bouncing off the bare cinderblock walls and the disorienting white strobes slammed into her autistic nervous system like a physical battering ram. Tears immediately spilled down her cheeks as she slid out of her desk chair onto her knees, clamping both palms tightly over her ears and sobbing in ragged, painful gasps.
 
-"Status check: they are both in acute sensory and cognitive overload," Zoë announced over the din, her voice cutting through the chaos with calm, surgical authority. "They know the protocol, but their executive processing is locked. Execute manual assist."
+For Jordan, amplified through his behind-the-ear hearing aids before their compression limiters could even clamp down, the alarm triggered a far darker, more terrifying conclusion. Tears flooded behind his glasses as his chest seized in a full-blown panic attack. In his trauma-wired mind, the timing was too exact to be a coincidence: he had just scored 100% plus Extra Credit in Astrophysics, proving he didn't need his mother—and now the building alarm was screaming. He was completely, viscerally convinced that **his mother had driven to Blacksburg, pulled the fire alarm to flush him out of his locked room, and was waiting outside to ambush him and drag him back to Virginia Beach.**
 
-Madison scrambled down the ladder from Bed C, grabbed a thick fleece blanket off Aubrie's lower bunk, and draped it gently over Aubrie's head and shoulders to shield her eyes from the strobing white flashes while reaching into the desk drawer to slip Aubrie's purple sound-blocking earmuffs over her ears.
+Both of them were crying, shaking, and mentally collapsing—and in less than three seconds, their four suitemates pivoted into a disciplined rescue unit to get them out of the building.
 
-"I've got you, Aubs," Madison murmured right beside her, guiding Aubrie up to her feet with a firm arm around her waist. "It's awful, I know. We're going straight outside where it's dark and quiet."
+"Status check: they are both in acute overload!" Zoë called out over the shrieking horns, her voice calm and surgical. "First floor evacuates to the inner quad muster station, and our second-floor corridor exits straight out at ground level onto Washington Street! Execute manual assist now!"
 
-Simultaneously, Lauren and Hannah knelt beside Jordan's wheelchair. Without asking first, Hannah reached up with gentle, practiced familiarity and clicked the rocker switches on both of Jordan's behind-the-ear hearing aids to standby, cutting the piercing treble of the klaxon down to a muffled rumble.
+Madison scrambled down the ladder from Bed C, grabbed a thick fleece blanket off Aubrie's lower bunk, and slipped Aubrie's purple sound-blocking earmuffs over her ears before draping the blanket gently around her shoulders to shield her eyes from the strobing white flashes.
 
-Lauren placed both hands squarely over Jordan's white-knuckled fingers on his push-rims, looking directly into his eyes through his glasses.
+"I've got you, Aubs—I know the noise is awful," Madison murmured against her temple, guiding a weeping Aubrie up to her feet with a firm, steady arm around her waist. "We're going straight out the Washington Street doors where it's quiet."
 
-"Jordan, look at me, b'y," Lauren said clearly, enunciating every syllable so he could read her lips cleanly. "I know. It's completely ridiculous. None of us thought they did fire drills in college either, and it makes zero sense. It's just a stupid Health and Safety Week check. There's no fire, and nobody is taking you anywhere. Unlock your brakes and let me push you out to the grass."
+Simultaneously, Hannah and Lauren knelt beside Jordan's wheelchair. Seeing the raw terror and tears streaming down his face behind his glasses, Hannah gently reached up and clicked both of Jordan's hearing aids to standby to cut the piercing shriek, while Lauren released his wheel locks and gripped his push-handles.
 
-Her words—validating the exact logical absurdity that had locked up his brain—acted like a circuit breaker resetting. The terror in his chest receded just enough for his fingers to unclench. Jordan gave a small, stiff nod and snapped his wheel locks forward.
+"Hold onto your armrests, J—we have you, and we're not letting anyone near you," Lauren promised fiercely.
 
-Moving as a tight, protective diamond formation—Lauren pushing Jordan's wheelchair, Madison guiding Aubrie under the blanket, and Zoë and Hannah clearing a path through the crowded second-floor hallway and out the accessible hillside exit—they emerged into the cool, pine-scented September night air.
+Moving as a tight, protective diamond—Lauren pushing Jordan's wheelchair, Madison supporting Aubrie under the blanket, and Zoë and Hannah clearing a lane through the strobing second-floor corridor—they rolled straight out the ground-level hillside doors onto the **Washington Street** sidewalk at the top of the slope, where **Henry** was already holding the heavy exterior crash-bar door wide open to keep the threshold clear before helping guide the rest of the second-floor residents fifty yards down the grass away from the fire lane.
 
-Fifty yards up the grassy slope away from the flashing building, the screech of the horns faded into the crickets and the breeze. Aubrie leaned against the side of Jordan's wheelchair, letting out a long, shuddering breath as she reached down to hold his hand. They had been tested not by choice, but by the random shriek of an alarm—and their family had moved as one without leaving anyone behind.
+Under the shade of a cluster of oak trees along the Washington Street lawn, the piercing screech of the interior horns faded, though the white strobe lights inside the dormitory windows continued to flash against the dusk. Aubrie was leaning against Madison's shoulder, her breathing finally beginning to slow inside her earmuffs, while Hannah switched Jordan's hearing aids back on so he wouldn't feel isolated in the dark.
+
+Yet Jordan was still crying silently, his shoulders trembling, his eyes darting frantically toward the parked cars along Washington Street as he waited for his mother's silhouette to emerge from the shadows.
+
+Then a crisp burst of static crackled through the evening air:
+
+*"Command to Second Floor West—confirm wing sweep status, over."*
+
+Jordan blinked through his tears as **Isabel Dawson** walked briskly up the grassy slope toward them from the building entrance. She was wearing her official, reflective neon-yellow **CPI Residence Life** high-visibility vest over her sweater, a master key lanyard around her neck, and a black two-way duty radio clipped to her lapel.
+
+Isabel thumbed the push-to-talk mic on her shoulder. *"Second Floor West to Command—this is RA Dawson. Rooms 201 through 220 and the west bath are swept and 100 percent clear. All assisted-evacuation residents are safely out at the Washington Street muster point, over."*
+
+*"Copy that, RA Dawson—Campus Fire Marshal has the stopwatch at two minutes, forty-two seconds. Silencing interior horns now; hold residents outside until panel reset."*
+
+With her official floor sweep and muster tasks complete, Isabel clipped the mic back to her vest, looked over at Suite 214/216 under the oak tree, and immediately spotted the tears glistening on Jordan's cheeks and the white-knuckled terror in his grip.
+
+She walked straight over and knelt directly in front of Jordan's wheelchair on the grass so she was below his eye level.
+
+"Hey, Jordan," Isabel said, her voice warm, unhurried, and deeply gentle. "And hey, Aubrie. Take a slow breath for me. You're both completely safe out here."
+
+"He thinks someone pulled the alarm to lure him out of the room," Lauren explained softly from behind Jordan's chair, her hand resting protectively on his shoulder.
+
+Comprehension—and profound, aching sympathy—washed across Isabel's face. She didn't brush his fear aside or laugh at it. Instead, she intentionally tapped the reflective stripe of her neon high-visibility vest and unclipped her two-way radio, holding it up alongside her official Residence Life clipboard so Jordan could see the printed university header: **ENVIRONMENTAL HEALTH & SAFETY — MANDATORY SEMI-ANNUAL EVACUATION DRILL LOG**.
+
+"Look right here at my vest and my radio, Jordan," Isabel said clearly, meeting his eyes through his glasses with quiet, official authority. "Nobody pulled a pull-station in the hallway tonight, and nobody is here looking for you. Kelsey Brennan and the Campus Fire Marshal put the main alarm panel into test mode down in the lobby at eight o'clock sharp. I knew about it fifteen minutes ago when we had our staff huddle."
+
+Jordan stared at the printed EHS drill log on her clipboard and the blinking green status LED on her official two-way radio. Because she was wearing the high-visibility vest and speaking directly with the Fire Marshal on the radio, his analytical brain recognized her authority as unimpeachable fact.
+
+"Here is how it works at CPI so it never surprises you like this again," Isabel continued gently, holding up two fingers. "Every single residence hall on campus is required by state law to run **two** scheduled fire drills per semester. There is always one right near the beginning of the semester—which is the one we just did tonight—and there will be one more toward the end of the semester before finals. And it'll be that exact same pattern every semester you're here. No traps. No emergencies. Just a three-minute stopwatch check."
+
+The crushing weight that had been suffocating Jordan's chest since 8:00 PM vanished all at once.
+
+His mother wasn't in Blacksburg. She hadn't found a way to ruin his sanctuary. It really had just been a routine college fire drill.
+
+A massive, full-body sigh of relief shuddered out of Jordan's lungs. Looking down at the compassionate RA kneeling in the grass in her neon vest, his gratitude overwhelmed his shyness. For the very first time since moving into Bennett Hall, **Jordan lifted both of his trembling arms off his armrests and reached out toward Isabel for a hug.**
+
+Isabel's eyes softened instantly. Without a second's hesitation—mindful not to bump him with the plastic housing of her radio—she leaned forward and wrapped her arms warmly around his shoulders, holding him in a steady, grounding embrace right there on the Washington Street lawn.
+
+"I've got you, Jordan," Isabel murmured warmly, giving his shoulder a reassuring squeeze before easing back with a bright, misty-eyed smile. "Nobody is taking you anywhere. You belong right here on my floor."
+
+As Jordan settled back against his seat cushion and wiped the drying tears from his cheeks behind his glasses, the emotional whiplash of the last ten minutes gave way to the triumph he had been celebrating right before the klaxon went off. Wanting Isabel to understand *why* tonight meant so much to him, he reached into the pocket of his CPI Forgers hoodie, pulled out his mPhone, unlocked the screen, and turned it toward her.
+
+Isabel leaned in to read the glowing grade portal screen:
+
+> **PHYS/ASTR 101 — EXAM 1: INTRODUCTION TO ASTROPHYSICS**
+> **Score:** `100 / 100`
+> **Extra Credit (Keplerian Orbital Perturbation Derivation):** `+5 / 5`
+> **Total Grade:** **`105% (A+)`** — *Note from Dr. Alistair: Extraordinary mathematical rigor.*
+
+Isabel's jaw dropped before her entire face lit up with radiant pride.
+
+"Wait—you got a *hundred percent* on Dr. Alistair's first Astrophysics exam?!" Isabel gasped, looking from the phone screen to Jordan's shy, beaming smile. "*And* you nailed his impossible bonus derivation?! Jordan, half the sophomores in the Physics department cry over Dr. Alistair's first midterm! That is incredible!"
+
+All around his wheelchair, the remaining tension evaporated into pure celebration. Aubrie—her earmuffs now resting around her neck—beamed and squeezed his hand, while Madison, Zoë, Lauren, and Hannah cheered and clapped his shoulders right there under the oak trees.
+
+Two seconds later, Isabel's two-way radio chirped to life: *"Command to all Bennett Hall units—panel is reset, strobes are off. Give residents the verbal All-Clear to re-enter the building."*
+
+As they rolled back toward the ground-level Washington Street doors together, Jordan looked down at the `105%` glowing on his phone screen and then up at Isabel walking proudly beside his chair in her neon vest. His mother's voice in his head had never sounded smaller.
 
 ### Scene 4: The Nightly Pact
 
@@ -3639,11 +3726,363 @@ It was a mirror of the grounding deep pressure Aubrie and Lauren had given him, 
 
 Lying there in the quiet dark, held closely by one of his best friends while his girlfriend slept peacefully just six feet away, Jordan felt his heart rate slow into a steady, rhythmic calm. After eighteen years of isolation and terror in the dark, his nights were now guarded by a rotating constellation of people who loved him simply for who he was. He closed his eyes and drifted effortlessly into a dreamless sleep.
 
-# The Sanctuary & The Shield
+## Homecoming Spirit
 
-## Homecoming Week
+### Scene 1: The Door Decorating Contest
 
-### Scene 1: The Fortress of Truth
+**Date:** 2014-09-26 at 13:30 America/New_York
+
+By Friday, September 26th, 2014, the entire Blacksburg campus was humming with the kinetic energy of Homecoming Weekend. Jordan had been at Commonwealth Polytechnic Institute for just over a month, and for the first time in his eighteen years, he wasn't merely surviving—he was thriving. With his new glasses bringing the lecture halls into razor-sharp focus, his behind-the-ear hearing aids filtering the classroom acoustics, and his chosen family anchoring every day, he finally felt like he belonged.
+
+Shortly after their Friday classes wrapped up for the weekend, Madison Scott burst through the door of Room 214, her arms overflowing with rolls of Foundry Maroon and Molten Orange butcher paper, crêpe streamers, tempera paint bottles, and a brightly printed Residence Life flyer.
+
+"Okay, team, listen up!" she announced, her voice brimming with her trademark bubbly energy. "The Bennett Hall Homecoming door decorating contest is officially underway, and judging is at five o'clock. We are going to win."
+
+Zoë looked up from her desk in Room 216 through the open connecting doorway and pushed her glasses up the bridge of her nose. "Statistically, Madison, the odds of winning a subjective aesthetic contest against seventy other residential doors in this building are low."
+
+"Not if we have a professional artistic edge," Lauren chimed in, walking out of Room 216 alongside Hannah. As a Graphic Design major, her warm brown eyes were already sparkling at the sight of the heavy butcher paper. "I am completely in. What's the vision?"
+
+"I'm glad you asked," Madison grinned. "We don't just decorate one door. We do both. A coordinated, two-door suite masterpiece."
+
+Zoë's eyebrow arched with sudden interest. "A linked diptych across adjoining hallway portals. That maximizes our visual surface area and doubles our structural impact for the judges. Acceptable. I'm in. What is the conceptual design?"
+
+Sitting in his wheelchair near his desk with his `Vanguard Pro` resting on his lap tray, Jordan felt an unfamiliar, buoyant flutter of excitement in his chest. His mother had always dismissed school spirit as loud, vulgar, and beneath them, but here in Suite 214/216, it felt like joy. His fingers tapped swiftly across his keyboard, and the warm Australian female cadence of `EchoType` spoke for him.
+
+<aac>What about our mascot?</aac> Jordan's laptop synthesized. <aac>The Forgers?</aac>
+
+"Yes!" Aubrie said, lighting up as she immediately latched onto his idea. "We can have our Forger mascot on one door..."
+
+"...and on the other door," Lauren picked up, her hands already framing the proportions in the air, "we draw the VDU Monarch mascot getting completely crushed!"
+
+"Crush Norfolk!" Mark cheered, poking his head into the open doorway as he, Sarah, and Jessica arrived from across campus to join the afternoon festivities. "I love it. The Forger's Hammer!"
+
+For the next two hours, the second-floor hallway outside Rooms 214 and 216 transformed into a happy, chaotic art studio of butcher paper, acrylic paint, and maroon-and-orange streamers. Lauren took command as lead illustrator, sketching a towering, muscular CPI Forger wielding a glowing blacksmith's hammer in rich Foundry Maroon and Molten Orange for the door of Room 216. For the door of Room 214, she drew a comically bewildered VDU Monarch—representing "Norfolk"—cowering beneath the descending anvil of the Forger's hammer, complete with a cracked golden crown.
+
+To Jordan's surprise and delight, Lauren handed him a wide flat brush and put him in charge of the banner lettering along the lower half of the butcher paper before it went up on the doors. Seated in his wheelchair with the paper taped flat across two pushed-together desks, his careful, methodical strokes proved ideal for the bold block typography: **GO FORGERS!** across the Room 216 banner, and **BEAT NORFOLK!** across the Room 214 banner.
+
+Just as Mark and Hannah finished taping the two giant murals flush against the heavy oak hallway doors, footsteps approached down the corridor. **Isabel Dawson** rounded the corner wearing her CPI Residence Life lanyard and holding a judging rubric on her clipboard, accompanied by **Henry**, who was carrying a lukewarm travel mug of coffee and a bag of pretzel rods.
+
+Both of them stopped dead in their tracks in front of Rooms 214 and 216.
+
+"Whoa," Henry breathed, tilting his head back to take in the full two-door panorama. "Okay, pack it in, Izzy. Contest is over. Nobody on the third floor is beating a two-door comic strip."
+
+Isabel's face broke into a wide, delighted smile as she stepped closer to inspect the crisp block lettering on Room 214's door, then looked down at Jordan's maroon-and-orange paint-stained knuckles.
+
+"Did you do the typography on these banners, Jordan?" Isabel asked warmly.
+
+Jordan's cheeks warmed with quiet pride as he gave a shy nod and tapped a quick key on his lap tray.
+
+<aac>Lauren sketched the outlines. I painted the block letters,</aac> `EchoType` replied.
+
+"The kerning is cleaner than half the posters our student government prints," Isabel laughed, jotting a string of tens across her clipboard rubric. "Seriously, you guys—turning both suite doors into a single connected scene is brilliant. Kelsey is going to lose her mind when she comes up to do the final walkthrough."
+
+"We aim to please," Madison beamed, wiping a smudge of orange paint off her cheek.
+
+As Isabel and Henry continued down the hall toward the stairwell, Jordan looked back up at the two towering doors, his fingers still speckled with dried maroon paint, surrounded by his friends laughing in the corridor. He wasn't an outsider watching college life happen through a window anymore. This was his home, and this was his team.
+
+### Scene 2: Chalk the Walk
+
+**Date:** 2014-09-26 at 15:30 America/New_York
+
+Later that afternoon, the Group of 8—joined by Jessica—headed down the hillside elevator of Bennett Hall and out onto the sun-drenched concrete walkways bordering **The Commonwealth Green** for "Chalk the Walk," one of CPI's oldest Homecoming traditions. All along the wide perimeter of the central quad, student organizations, academic clubs, and residence hall teams had claimed numbered squares of pavement to create vibrant sidewalk chalk murals before the evening festivities began.
+
+Lauren, thoroughly in her element as their resident Graphic Design major, knelt beside their assigned six-by-six-foot square of concrete with a spiral sketchpad in hand.
+
+"Okay, we're adapting the suite door diptych for a single square," Lauren announced, rapidly sketching out a grid with a stick of white chalk. "The Student Activities guidelines say we have to keep it 'tasteful,' so we can't make it look like a crime scene, but we can definitely make a statement."
+
+Under Lauren's artistic direction, the entire group went to work. Mark and Sarah, laughing as they bumped shoulders on the warm pavement, were put in charge of shading in the massive block letters for **GO FORGERS!** along the top margin, while Aubrie and Madison collaborated on a detailed CPI crest in the upper corners.
+
+Jordan didn't sit on the sidelines watching. Lauren handed him a plastic bucket of oversized, high-pigment Molten Orange sidewalk chalk sticks and put him in charge of laying down the outer frame. Leaning down over the side of his wheelchair, Jordan rolled slowly and methodically along the perimeter tape, pressing the thick orange chalk into the textured concrete to draw a crisp, unbroken border around the entire mural. His right shoulder ached pleasantly from the physical exertion, and his palms were soon coated in bright orange dust, but his chest felt full to bursting. Hannah, Zoë, and Jessica worked right beside his front casters, blending a rich Foundry Maroon backdrop across the interior tiles with foam sponges.
+
+The centerpiece belonged to Lauren. In the middle of the square, she rendered a bold, stylized CPI Forger's Hammer resting triumphantly atop a cartoonish, cracked-in-half golden VDU Monarch's crown.
+
+When the final highlights were blended in, all nine of them stood—and rolled—back to admire their handiwork. Against the grey Ironstone buildings framing The Commonwealth Green, their square blazed with maroon, orange, and gold. Jordan looked down at his chalk-dusted fingers and then at the mural they had built together on the heart of the campus quad. It was another tangible piece of his new identity: he was a CPI Forger, and for the first time in his life, he was proud of who he was.
+
+### Scene 3: The Pep Rally Fortress
+
+**Date:** 2014-09-26 at 18:00 America/New_York
+
+Early Friday evening brought the loudest tradition of Homecoming Week: the campus-wide pep rally inside **The Crucible**. For Jordan, the prospect was equal parts exhilarating and terrifying. He had never attended a live sporting event in his life, let alone entered a massive stadium packed with thousands of screaming college students. The sensory chaos of move-in day and the dormitory fire drill was about to be magnified tenfold—yet this time, he wasn't being ambushed. He was choosing to walk into the fire with his family.
+
+As the Group of 8 made their way down Beamer Way toward the towering concrete and Ironstone stadium, the low, rhythmic thrum of the crowd was already vibrating through the soles of their shoes and the frame of Jordan's wheelchair from blocks away. The sidewalks were a river of Foundry Maroon and Molten Orange.
+
+A cluster of upperclassmen walking ahead of them glanced back, spotted Jordan's wheelchair and freshman lanyard, and slowed down with friendly, cautionary grins.
+
+"Heads up, freshmeat!" a tall senior in a vintage jersey called out over the din. "**The Crucible** lives up to its name tonight! Once the drumline echoes off the upper deck, it gets louder than a jet engine in there. Hope you're ready to lose your hearing!"
+
+"We came prepared!" Madison called back cheerfully.
+
+As the seniors moved on, Madison leaned down beside Jordan's chair, her voice dropping to a gentle check-in. "Are you still sure about this, J? You heard them—it's going to be intense inside the bowl, and nobody will judge you if you want to skip the rally and just watch the parade on Main Street."
+
+Jordan's jaw set with quiet determination. He reached down, tapped a preset phrase into `EchoType` on his `Vanguard Pro`, and let the clear Australian voice answer for him.
+
+<aac>I want to go,</aac> his terminal synthesized firmly. <aac>I know it is loud. But I want to be here. I want to be a Forger. I want to be loud and proud.</aac>
+
+Walking right beside his left armrest, Aubrie was visibly tense as well. As a fellow autistic student whose auditory processing could easily be overwhelmed by echoing stadium acoustics, she knew the exact mountain he was climbing because she was climbing it beside him. Seeing his resolve steadied her own. She reached down and squeezed his shoulder.
+
+"We'll be okay," Aubrie said softly, as much for herself as for him. "We have a plan. We can be loud, too."
+
+They rolled through the main concourse gates into the shadow of the stadium's massive concrete supports. Just inside the entrance tunnel, Mark paused and pointed up at a heavy, weathered bronze plaque riveted directly into the load-bearing pillar.
+
+"Check this out, J," Mark said, raising his voice slightly over the echoing concourse. "This is why we don't play at 'OmniCorp Arena' or 'Pizza Kingdom Stadium.' They call this the Ironhead Rule."
+
+Jordan tilted his head back, reading the cast-bronze relief through his glasses. The plaque commemorated Jeremiah "Ironhead" Vance, an All-American linebacker from the CPI Class of 1952. In 1995, Vance had donated one hundred million dollars to modernize the stadium and permanently endow student-athlete scholarships—Subject to one perpetual, legally binding covenant: the stadium's naming rights could never be sold to any corporation, bank, or sponsor.
+
+At the bottom of the bronze tablet, Vance's words were etched in deep capital letters:
+
+> *"THIS IS A PLACE OF HEAT, PRESSURE, AND TRANSFORMATION. IT IS A CRUCIBLE. IT IS NOT A BILLBOARD."*
+
+A spark of deep, quiet reverence warmed Jordan's chest. In a world where his mother treated every relationship and achievement as a transaction or a public relations billboard for her own image, this place had refused to sell its soul. It was stubborn. It was solid. It was exactly where he wanted to be.
+
+They rolled past the plaque and emerged onto the wide, level accessible seating platform overlooking the lower bowl. The upperclassmen hadn't exaggerated. The acoustic pressure inside the stadium was a physical wall. On the field below, the **CPI Marching Forgers** were thundering through a brass-and-percussion cadence that rattled Jordan's teeth, while ten thousand students in the lower stands chanted in unison.
+
+Both Jordan and Aubrie flinched involuntarily, their hands rising toward their ears as the sheer decibel level slammed into the concourse.
+
+"Execute sensory countermeasures now," Zoë said calmly, slipping her backpack off her shoulder and unzipping the main compartment. She pulled out two pairs of heavy-duty, industrial-grade over-ear noise-canceling earmuffs—alongside a third pair for herself—while Hannah reached over to click Jordan's behind-the-ear hearing aids into muted standby mode. "Put these on. They attenuate thirty-two decibels of high-frequency harshness while preserving the low-end bass resonance so you can feel the stadium without acoustic pain."
+
+Jordan and Aubrie slipped the cushioned earcups over their ears immediately. Instantly, the razor-sharp shriek of the whistles and brass dropped into a warm, manageable, low-frequency rumble. The world steadied. They could still feel the electric pulse of the stadium through the concrete deck, but the pain was completely gone.
+
+The rest of their family didn't stop there. Without needing to be asked, they formed their protective perimeter around Jordan's chair. Mark and Lauren—the tallest of the group—stood just in front of the concourse railing, creating a physical buffer between Jordan and the bustling walkway. Hannah, Sarah, and Jessica stationed themselves directly behind his push-handles, while Zoë stood at the flank, scanning the crowd like a tactical logistics officer.
+
+Finally, Aubrie and Madison sat down on the companion seats on either side of Jordan's wheelchair. Aubrie immediately reached over and laced her fingers tightly through his left hand; on his right, Madison did the exact same thing. He was physically anchored on every side by the people who loved him.
+
+Down on the turf, the pep rally reached its crescendo. The cheerleaders led the stadium in a call-and-response roar, the giant video board blazed with highlight reels, and then the senior captain of the CPI football team stepped to the center microphone. After delivering a fiery speech about Blacksburg grit and tradition, he pointed straight up at the giant scoreboard graphic displaying the unranked **Virginia Dominion University (VDU) Monarchs** emblem.
+
+"Tomorrow afternoon," the captain bellowed over the stadium PA, "is our Homecoming! We are the number-three team in the nation! And we are going to send *Norfolk* crawling all the way back to the beach!"
+
+The stadium erupted. Ten thousand students roared as one: *"BEAT NORFOLK! BEAT NORFOLK!"*
+
+Jordan felt the rhythmic vibration humming up through the wheels of his chair—a massive, unified heartbeat. He looked to his left at Aubrie, whose eyes were shining behind her glasses as she shouted the chant at the top of her lungs. He looked to his right at Madison, who was pumping her free fist high in the air.
+
+He was safe. More than safe—he was one of them.
+
+For the first time in his life, Jordan was part of something bigger than his own survival. A slow, luminous smile spread across his face. He squeezed Aubrie's and Madison's hands and, lifting his right arm into the cool night air, pumped his fist in rhythm with the roar of Forger Nation.
+
+### Scene 4: The Parade and the Peak
+
+**Date:** 2014-09-26 at 20:00 America/New_York
+
+Immediately following the pep rally, the entire campus poured out toward downtown Blacksburg for the Friday night Homecoming Parade and fireworks spectacular. The Group of 8 didn't even need to catch a Blue Ridge Transit bus; the parade route curved right along the edge of campus, just a short roll from Bennett Hall. They claimed a prime, level curb cut along the sidewalk of **Business US-460 (South Main Street)**, giving Jordan an unobstructed front-row view.
+
+It was yet another milestone on Jordan's growing list of life firsts. In eighteen years in Virginia Beach, his mother had never once taken him to a parade, claiming the crowds were "unsanitary" and that his wheelchair would "block normal people on the sidewalk."
+
+Here on Main Street, nobody treated him like an obstacle. In fact, when **Isabel Dawson** and **Henry** walked by with a group of second-floor Bennett Hall residents and spotted Suite 214/216 holding down the corner, Henry immediately stepped onto the curb edge beside Mark to make sure no latecomers stepped in front of Jordan's sightline, while Isabel handed Jordan and Aubrie each a glowing maroon-and-orange foam light stick from her RA tote bag.
+
+"Front-row VIP section for Room 214!" Isabel grinned over the distant cadence of snare drums. "Wait until you see the Engineering float—they actually rigged a working propane forge on the back of a flatbed!"
+
+Jordan watched, wide-eyed behind his glasses, as the procession rolled down the street. Starting from **The Crucible**, the parade had marched up Beamer Way, turned right onto Washington Street, and swept left onto Main Street right in front of them. Elaborate, illuminated floats built by student organizations, academic departments, and residence halls drifted past in a blaze of maroon and orange lights. The **CPI Marching Forgers** filled the street from curb to curb with a brassy, triumphant wall of sound—muffled to a pleasant, chest-thumping groove by Jordan's earmuffs—and the varsity football players riding atop a decorated flatbed truck looked like invincible heroes under the streetlights.
+
+Mark, Madison, and Sarah cheered at the top of their lungs as the final floats made the wide left turn off Main Street onto **Alumni Mall**, rolling past the Gothic limestone facade of **Kincaid Hall** toward the finish line at **The Commonwealth Green**.
+
+As the last drum cadence faded toward the quad, the streetlights along Alumni Mall dimmed. Seconds later, a deep *thump* echoed from the launch site behind the drillfield, and the night sky above campus exploded into cascades of crimson, gold, and burnt-orange fireworks.
+
+Jordan tilted his head back, watching the chrysanthemum bursts of light reflect off the lenses of his glasses and illuminate the smiling faces of Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica all around him. He was surrounded by his safe people in the heart of his new home. He was completely, wholeheartedly bought in. He was a CPI Forger, and tomorrow afternoon, he would watch his undefeated, #3-ranked team defend that sanctuary against "Norfolk."
+
+## Homecoming Game Day
+
+### Scene 1: Game Day
+
+**Date:** 2014-09-27 at 11:00 America/New_York
+
+Saturday, September 27th, 2014, arrived with the roar of a campus-wide celebration. Outside the windows of Bennett Hall, the crisp autumn air echoed with distant tailgate music and the chants of tens of thousands of alumni and students streaming into Blacksburg.
+
+Inside Suite 214/216, the Group of 8 was getting ready for kickoff. Mark and Sarah had come over early, and everyone in the suite was decked out in Foundry Maroon and Molten Orange. With Aubrie's help, Jordan had pulled his brand-new maroon **CPI Forgers** t-shirt over his head. Sitting in his wheelchair with his `Vanguard Pro` resting on his lap tray, he felt an unfamiliar, exhilarating sense of belonging. He was no longer the helpless boy his mother had dumped in a dorm room hoping he would fail; he was a thriving college student, part of a close-knit family, and today, he was a Forger.
+
+"You all ready for this?" Mark grinned, tossing a foam football from hand to hand, his energy infectious. "The number-three team in the nation is about to teach Norfolk a lesson!"
+
+Jordan smiled, caught up in the momentum of the room. He, too, was eager to watch his new home team crush the abstract rival they had spent all week painting on their doors and chalking on the quad. Curious about a detail he had heard repeated all week, he typed a quick question into `EchoType` as he watched Aubrie adjust her CPI baseball cap in the mirror.
+
+<aac>It is weird,</aac> Jordan's laptop synthesized in its clear Australian voice. <aac>Why does everyone just call them Norfolk? Is that the VDU mascot's name or something?</aac>
+
+Aubrie laughed lightly, assuming he was just asking about the sports shorthand rather than the geography—after all, he had grown up in Virginia Beach, right next door to her own hometown of Chesapeake.
+
+"No, J, 'Norfolk' is just the city where Virginia Dominion University is located," Aubrie explained warmly, turning back from the mirror. "It's like how opposing teams probably just call us 'Blacksburg.'"
+
+Then, completely unintentionally, she supplied the final, devastating piece of the puzzle.
+
+"It's right next door to Virginia Beach, and right next to Chesapeake where I'm from," she added casually. "It's all part of Hampton Roads."
+
+The words hit Jordan with the force of a physical blow.
+
+His mother had isolated and sheltered him so thoroughly inside their Virginia Beach house—never letting him travel independently, look at regional maps, or learn the layout of the world beyond her walls—that in his mind, "Norfolk" had always been a distant, abstract name he had only ever heard his mother mention with aristocratic disdain. He had never once connected the college football rival on their door to the metropolitan region where his mother lived.
+
+Now, the variables compiled in his head with sudden, electric clarity:
+*VDU = "Norfolk."*
+*"Norfolk" = Hampton Roads.*
+*Hampton Roads = Virginia Beach.*
+*Virginia Beach = His Mother.*
+
+The realization sent a violent jolt through his nervous system—immediately followed by a fierce, intoxicating surge of adrenaline. Suddenly, this wasn't just a college football game anymore. In his mind, it had become a symbolic war. His new life—his sanctuary, his undefeated, #3-ranked CPI family—was about to march onto the field and exact righteous vengeance on his behalf. They were going to publicly, systematically annihilate the symbolic representative of his old, abusive world.
+
+He wasn't scared. He was thrilled.
+
+"Jordan? Are you okay?" Aubrie asked, noticing the sudden, intense stillness in his posture behind his glasses.
+
+Jordan's fingers flew across his keyboard.
+
+<aac>I have never been better,</aac> `EchoType` declared, the synthesized voice carrying the hard, fierce edge of his conviction. <aac>I really want us to win.</aac>
+
+He gripped the push-rims of his wheelchair until his knuckles turned white. Logically, how could the #3 team in the country possibly lose to an unranked visitor? He rolled out of Room 214 not merely as a freshman fan, but as a soldier ready to watch his new home deal his old life the defeat it deserved.
+
+### Scene 2: The Pre-Game
+
+**Date:** 2014-09-27 at 12:30 America/New_York
+
+The Group of 8 moved with the massive, surging river of Foundry Maroon and Molten Orange toward the gates of **The Crucible**. Beneath a brilliant late-September afternoon sky, the roar of sixty-five thousand fans and the cadences of the Marching Forgers' drumline pulsed through the pavement like a living heartbeat. Both Jordan and Aubrie wore their heavy-duty noise-canceling earmuffs from the start, muting the overwhelming acoustic pressure into a thrilling, chest-deep rumble.
+
+Rolling onto the elevated accessible concourse platform overlooking the fifty-yard line, they claimed an unobstructed view of the gleaming green turf below. For Jordan, this was the pinnacle of Homecoming Week—his full initiation into the CPI Forger family.
+
+"Alright, first things first," Mark announced, rubbing his hands together as his eyes gleamed. "We cannot watch a Homecoming football game without proper stadium food. Who wants what?"
+
+Jordan looked over at the bustling concession stands lining the inner concourse. It was yet another item he had only ever seen on television. He tapped a quick question on his phone's `EchoType` screen and held it up toward Madison and Mark.
+
+<aac>What do they have?</aac>
+
+"They have *everything*," Madison beamed. She, Mark, and Hannah immediately volunteered for the concession run, weaving into the crowd and returning ten minutes later with cardboard trays loaded to capacity. They handed Jordan a foil-wrapped stadium hot dog piled high with mustard, relish, and onions, along with a giant heavy-plastic CPI Homecoming souvenir cup brimming with ice-cold soda.
+
+Jordan took his first bite of the warm, salty stadium hot dog, and a look of pure, uncomplicated happiness spread across his face.
+
+Just as they finished eating, the stadium's massive public-address system crackled to life overhead.
+
+*"GOOD AFTERNOON, FORGER NATION!"* the announcer's baritone boomed across the concrete bowl. *"AND WELCOME TO YOUR 2014 HOMECOMING!"*
+
+The stadium erupted into a tidal wave of sound.
+
+Anchored between Aubrie and Madison, Jordan felt a rush of pure adrenaline as the **CPI Marching Forgers** burst onto the field in a precision wave of brass and maroon plumes. Leaning in beside Jordan's right shoulder, Mark pointed out the starters warming up along the sideline, his voice brimming with unshakeable certainty.
+
+"See number seven warming up his arm down there, J?" Mark called out clearly so Jordan could read his lips and hear him through the earmuffs. "He's a front-runner for the Heisman Trophy. That VDU defense from Norfolk hasn't seen speed like his in their lives. This isn't even going to be a game—it's going to be target practice."
+
+Jordan nodded eagerly, feeding off Mark's absolute confidence. He looked up at the towering digital scoreboard, where **#3 CPI FORGERS** blazed beside **VDU MONARCHS (UNRANKED)**. Beside him, Aubrie was on her feet cheering, her loyalty to their new home total and unreserved.
+
+The stands were packed to the upper rim. Pre-game hype had reached its zenith. Jordan gripped the armrests of his wheelchair, his heart hammering with anticipation as his invincible new army prepared to take the field.
+
+### Scene 3: The First Quarter
+
+**Date:** 2014-09-27 at 13:30 America/New_York
+
+At midfield, the team captains met for the coin toss beneath a deafening canopy of maroon and orange. CPI won the toss and, to a thunderous roar of approval from sixty-five thousand throats, elected to receive.
+
+"Here we go!" Mark shouted, clapping Jordan warmly on the shoulder. "We're putting seven on the board on the opening drive!"
+
+The opening kickoff sailed high into the September sun, and the symbolic war was officially underway. CPI's Heisman-candidate quarterback trotted onto the turf as the student section chanted his name in rhythmic unison.
+
+For the first two minutes, everything unfolded exactly according to the script. A crisp fifteen-yard completion over the middle. A ten-yard burst around the left edge. The #3-ranked Forgers were marching effortlessly down the field, and Jordan sat forward in his chair, his heart soaring with vicarious triumph.
+
+Then, at the VDU thirty-yard line, the drive hit a brick wall. The unranked Monarchs defense—which had looked overmatched on paper—suddenly dug in their cleats. A first-down run was stuffed in the backfield. A second-down screen pass was blown up for no gain. On third down, a pass toward the sideline was violently batted down at the line of scrimmage.
+
+"It's fine!" Mark called out, waving a hand dismissively. "Chip-shot field goal! We'll take the three points and let the defense feast!"
+
+The stadium quieted to a tense hush as CPI's field-goal unit trotted out. The snap was clean, the hold was set, and the kick went up—sailing wide left of the yellow upright.
+
+A collective, deflated groan rippled through The Crucible.
+
+"Just a fluke! Swirly crosswind at the south end!" Mark insisted, though his easy grin had tightened at the corners.
+
+Then the VDU Monarchs—*Norfolk*—took the field.
+
+They didn't run anything flashy. They didn't try to match CPI's highlight-reel speed. Instead, they lined up in a heavy, bruising formation and simply handed the ball to their tailback. Four yards up the gut. Five yards behind the left tackle. Three yards on third-and-short. It was a slow, methodical, suffocating drive that chewed up yardage and bled the first-quarter clock dry. The CPI defense, built for speed and open-field pursuit, looked visibly rattled by the relentless, grinding physicality.
+
+As the final seconds of the first quarter ticked down to zero, the VDU running back lowered his pads and bull-dozed across the goal line into the end zone. *Touchdown, Norfolk.*
+
+The horn sounded to end the first quarter. Jordan stared up at the massive LED scoreboard in disbelief:
+
+**HOME: 0 — VISITOR: 7**
+
+Across the stadium, the small pocket of visiting VDU fans in the upper corner was roaring. Around Jordan, the sixty-five thousand CPI faithful sat in stunned, restless silence. The intoxicating thrill in Jordan's chest vanished, replaced by a cold, tightening knot in his stomach. This wasn't the script. This wasn't how the war was supposed to go. His mother's world had drawn first blood.
+
+### Scene 4: The Second Quarter
+
+**Date:** 2014-09-27 at 14:15 America/New_York
+
+The second quarter opened with the #3-ranked CPI Forgers backed up near their own twenty-yard line. The celebratory electricity inside The Crucible had curdled into a tense, anxious buzz.
+
+"Okay, this is where we wake up," Mark said, his voice tight as he leaned against the railing. "Watch this. The coaching staff will have made adjustments."
+
+Clearly rattled by the deficit, CPI's star quarterback dropped back and tried to force a momentum-shifting deep ball down the seam. Instead, the VDU free safety—who had studied the film down to the last tendency—read the quarterback's eyes, jumped the route at full sprint, intercepted the pass cleanly in stride, and returned it thirty yards deep into CPI territory.
+
+The visiting VDU contingent went wild. The rest of the sixty-five-thousand-seat stadium fell dead silent.
+
+Inside Jordan's chest, the knot of anxiety spiked into cold, suffocating dread. His fingers locked onto the armrests of his wheelchair until his knuckles blanched white. This wasn't a fluke crosswind anymore. It was a collapse.
+
+With a short field, VDU didn't change a single thing. They lined up and ran the football straight down CPI's throat. Five yards. Four yards. Six yards. The Forgers' defense had no answer for the methodical, unyielding hammer blows. Four plays later, VDU punched the ball into the end zone again.
+
+**HOME: 0 — VISITOR: 14**
+
+When CPI got the ball back, the panic on the field was palpable. A hurried, incomplete pass at the receiver's feet. A sweep stuffed for no gain. On third-and-ten, the pocket collapsed and the quarterback was buried for a crushing eight-yard sack, forcing a hasty punt.
+
+Jordan was sinking fast. He had stopped watching the turf altogether; his eyes were locked behind his glasses on the towering scoreboard, which felt less like a tally of points and more like a personal indictment. Beside him, Aubrie saw the pallor draining his face and reached over to squeeze his forearm.
+
+"It's okay, J—it's only the first half," Aubrie said quickly, though her own voice was thin and strained as she tried to convince herself as much as him. "We're always a second-half team."
+
+VDU received the punt and executed the exact same suffocating march. They bled the clock, broke tackles, and drove seventy yards down the field against an exhausted, demoralized CPI defense for a third unanswered touchdown.
+
+**HOME: 0 — VISITOR: 21**
+
+With less than fifty seconds remaining before halftime, CPI tried to run a hurry-up two-minute drill—and fumbled the center-quarterback exchange on the second play. VDU recovered on the twenty-three-yard line. As the halftime clock expired, the VDU kicker trotted onto the turf and drilled a forty-yard field goal straight through the uprights.
+
+**HOME: 0 — VISITOR: 24**
+
+As the halftime horn blared and the Marching Forgers began filing onto the field, thousands of stunned fans were already streaming toward the exit tunnels.
+
+Sitting on the accessible platform, Jordan was frozen solid. In the terrifying arithmetic of his trauma, his "invincible" new sanctuary—the #3 team in the nation—was being effortlessly, systematically dismantled by the emissaries of his mother's city. All the oxygen seemed to vanish from the stadium air. Pale, non-verbal, and trembling, Jordan began to rock forward and back in his wheelchair—a low, involuntary survival stim as his mind spiraled into the conviction that his mother's world was omnipotent, and that nothing could ever truly protect him from her.
+
+### Scene 5: Halftime
+
+**Date:** 2014-09-27 at 15:00 America/New_York
+
+The halftime whistle blew, and the **CPI Marching Forgers**—one of the premier collegiate marching bands in the country—marched onto the turf to a scattering of polite, deflated applause. All around the bowl, the aisles were clogged with thousands of frustrated alumni and students heading for the exits, disgusted by the 24–0 first-half rout.
+
+For Jordan, the brass fanfare on the field was nothing more than distant, garbled static behind his earmuffs. His gaze remained locked on the glowing numerals of the scoreboard: **HOME: 0 — VISITOR: 24**.
+
+His newfound confidence had shattered into fragments. In his trauma-wired mind, the symbolic force of his abuser's city had marched right into his sanctuary and crushed it without breaking a sweat. The humiliation felt like proof of his deepest nightmare: that his independence was a fragile illusion, that he wasn't safe, and that his mother's reach was still all-powerful. Pale and trembling, his hands locked onto his armrests as his rocking accelerated in rising panic.
+
+"J? Are you okay?" Aubrie asked, her own frustration with the football game vanishing instantly as she saw the raw terror in his eyes.
+
+Jordan couldn't reach for his phone or his laptop. He could only shake his head in short, jerky movements, his breath shallow and rapid.
+
+In a heartbeat, the Group of 8 pivoted from disappointed football fans into a protective phalanx. They didn't yet know the full symbolic weight that "Norfolk" carried in Jordan's head, but they knew their brother was in acute distress and needed a shield.
+
+"Okay, new plan," Mark said in a low, steady voice. Without another word, Mark, Hannah, Zoë, Lauren, and Sarah stood up from their seats and turned their backs completely to the football field and the passing crowd, forming a tight, shoulder-to-shoulder human wall around Jordan's wheelchair to give him total visual privacy from the stadium.
+
+Aubrie dropped to her knees directly in front of his footrests, taking both of his trembling hands in hers.
+
+"Hey—look at me, Jordan," Aubrie said softly, making sure he could read her lips clearly. "It's just a stupid football game. It doesn't mean anything. We're right here."
+
+"She's right, J," Madison added, kneeling right beside Aubrie and resting a warm, steady hand over his knee. "Who cares about the scoreboard? Look at us. We're right here with you, and you are completely safe."
+
+Jordan looked down at Aubrie and Madison kneeling in front of him, and then up at the circle of friends standing with their backs turned to sixty thousand people just to shield him from the world. The panic was still clawing at his chest, but their presence was an immovable anchor. He took a ragged breath and managed a small, jerky nod.
+
+### Scene 6: The Retreat
+
+**Date:** 2014-09-27 at 15:20 America/New_York
+
+Even inside the human ring of his friends, the pounding bass of the halftime show and the press of the stadium concourse were pushing Jordan closer and closer to the edge. His rocking hadn't stopped, and his eyes remained wide and unfocused behind his glasses, trapped in the suffocating conviction that his mother's world was closing in on him.
+
+"Okay, we're done. We're getting him out of here," Mark said, his voice a low, decisive command. Nobody hesitated for a second. The game no longer existed; their sole priority was extracting Jordan back to Bennett Hall.
+
+The Group of 8 re-formed their protective diamond for movement.
+
+"Mark, you and I take point," Hannah directed, her protective instincts locking into gear. "Clear a lane through the tunnel."
+
+Zoë stepped briskly behind Jordan's wheelchair, gripping the push-handles with firm, steady hands. "I have propulsion and navigation."
+
+Aubrie and Madison flanked the left and right sides of Jordan's chair, keeping one hand resting firmly on each of his shoulders to provide continuous, grounding deep-pressure input as they rolled, while Lauren and Sarah guarded the rear to buffer him from the jostling halftime crowd.
+
+Moving as a single, disciplined unit, they cut through the sea of maroon and orange against the tide of fans heading for the concession lines. Whenever the concourse narrowed into a bottleneck near the exit ramps, Mark used his broad shoulders to part the crowd with polite, unyielding authority.
+
+"Excuse us—wheelchair coming through, give us a lane, please," Mark repeated steadily, opening a clean corridor all the way out the main gates.
+
+The moment they cleared the outer turnstiles of The Crucible, the deafening roar of the stadium dropped away into the crisp autumn air. Nobody spoke during the brisk roll back up the campus pathways. When they reached the lower quad-side entrance of "The Old Lady on the Hill," the familiar mechanical whirr of Bennett Hall's accessible door opener sounded like a collective sigh of relief.
+
+They rode the elevator up to the second floor. As the elevator doors slid open, **Isabel Dawson** and **Henry** were standing near the water fountain down the hall chatting with two residents from Room 210. One look at Jordan's pale face, his rocking torso, and the tight formation around his chair told Isabel and Henry everything they needed to know.
+
+Without saying a word to draw attention to Jordan, Henry casually stepped across the width of the hallway to gently steer the two chatting residents back toward the lounge area, while Isabel walked ahead of the group to Room 214, tapped her master key fob wait-free would-be passersby out of the way, and gestured cleanly toward the door so Zoë could wheel Jordan straight inside without a single curious stare or hallway question.
+
+*Thank you,* Lauren mouthed to Isabel and Henry as the tail end of the group slipped inside. Isabel gave a quiet, compassionate nod over her shoulder and kept the corridor clear until the heavy oak door of Room 214 shut and the deadbolt clicked into place.
+
+The football game was still raging a few blocks away, but inside their cinderblock sanctuary, they were finally sealed off from the world.
+
+### Scene 7: The Fortress of Truth
 
 **Date:** 2014-09-27 at 20:45 America/New_York
 
@@ -3698,6 +4137,72 @@ Lauren offered him a warm, watery smile. "In my hometown, Jordan, when someone i
 She looked from the laptop back up to his face. "That first day you were here, stranded in a room full of strangers because of a clerical error... you weren't a burden to us. You just needed a safe harbor. And taking care of you, getting to know the brilliant, kind man you are... it is the greatest privilege of my life."
 
 In that moment, looking around at the fierce, protective faces of Lauren, Aubrie, Madison, Zoë, Sarah, Hannah, and Mark, an unspoken, unbreakable vow was forged. They would be his shield. They would give Jordan a place to land, a true home, ensuring his mother could never, ever reach him again.
+
+### Scene 8: The Fortress at Night
+
+**Date:** 2014-09-27 at 22:30 America/New_York
+
+The screen of Jordan's `Vanguard Pro` was finally closed, his raw confession and Lauren's promise still hanging in the quiet, protective warmth of Room 214. The sheer emotional exhaustion of the day—the morning hype, the stadium collapse, the retreat, and the outpouring of eighteen years of hidden truth—had left everyone in the suite bone-tired. It was time for sleep.
+
+Mark and Sarah, the two members of the Group of 8 who lived outside the suite, were the first to say goodnight. Mark rested a firm, brotherly hand on Jordan's shoulder, and Sarah gave him a gentle squeeze on the arm, their quiet goodbyes a promise that they would be back bright and early in the morning before they headed out to their own dorm rooms.
+
+Hannah and Lauren lingered a moment longer. Seeing that Jordan was safe and anchored, Lauren leaned down and wrapped him in a warm, lingering hug.
+
+"We've got you, J," Lauren whispered against his hair before she and Hannah stepped through the connecting bathroom into Room 216 for the night.
+
+That left the three roommates of Room 214, plus Zoë.
+
+Zoë stood near the desk, her analytical mind having processed every line of the massive, traumatic history Jordan had typed onto his terminal. She walked over to his wheelchair, leaned down, and—in a rare, unguarded display of overt physical affection—wrapped both arms around his shoulders in a firm, grounding embrace.
+
+"We will engineer a comprehensive, logical solution to ensure your mother never regains control over you," Zoë murmured against his ear, her crisp British-Virginian voice an ironclad promise. She held the compression for three steady seconds, then released him and stepped quietly into Room 216, pulling the connecting door partly to behind her.
+
+Jordan's nervous system was still completely depleted. He looked up at Aubrie and Madison, his eyes wide and pleading behind his glasses. He couldn't be alone tonight.
+
+Aubrie and Madison understood immediately without a single word needing to be typed. Moving in a seamless, quiet choreography of care, they helped him take off his glasses and hearing aids and change out of his CPI Forgers t-shirt and jeans into soft cotton pajamas, their movements practical, gentle, and deeply respectful. Once he was settled, the two women changed into their own sleep clothes—the "no privacy" reality of Room 214 feeling less like a dorm constraint and more like a testament to their unconditional trust.
+
+Before climbing the ladder to her upper bunk on Bed C, Madison stepped over and wrapped Jordan in a fierce, protective hug.
+
+"We're not going anywhere, Jordan," Madison whispered, pressing a quick kiss to the top of his head before climbing up to the top bunk.
+
+Jordan transferred from his wheelchair onto the mattress of Bed A. For a few seconds, the narrow Twin XL bed felt vast and cold.
+
+Then the mattress dipped beside him as Aubrie climbed in under the covers. A dorm Twin XL was never designed to hold two adults, but neither of them cared about the cramped inches. Aubrie immediately turned onto her side behind him, becoming the big spoon. She draped her arm securely over his waist, pulling his back flush against her chest and resting her chin on his shoulder—turning her own body into a warm, living shield between him and the dark.
+
+Jordan let out a long, shuddering breath he felt like he had been holding since kickoff. His mind was quiet, his body exhausted, and his heart profoundly grateful for Zoë's promise, Madison's warmth, and Aubrie's unwavering embrace. He was still scared of what his mother might do next—but he was no longer alone. Closing his eyes, he sank back into Aubrie's arms and fell asleep.
+
+# A New Winter Break Tradition
+
+## A Winter Wonderland in the Basement
+
+### Scene 1: The Fortress Upgrades
+
+**Date:** 2014-12-12 at 19:30 America/New_York
+
+The Group of 8 returned to the Brooks residence in Christiansburg not as temporary holiday guests, but as family coming home for the three-week Winter Break. Daniel and Laura welcomed them at the door with open arms, and as the group headed down into the walk-out basement, it was immediately clear that the familiar sanctuary had been upgraded for a long-term stay. The inflatable air mattresses from Thanksgiving were gone, replaced by four sturdy, foldable queen-sized bed frames already set up and made with crisp, fresh linens.
+
+"Your mother and I decided we could do considerably better than air mattresses for a three-week break," Daniel announced warmly, gesturing across the room. "Especially since this is going to be home base for all of you."
+
+The basement had been transformed into a cozy, bustling fortress. The four queen beds filled so much of the bedroom footprint that the dressers had been arranged along the main basement living area, and the interior closet door had been unhinged and removed to widen the turning radius for Jordan's wheelchair. It was undeniably snug, but to the eight of them, it was paradise.
+
+Once everyone had unloaded their duffel bags, Daniel walked Jordan over to the wide sliding glass doors at the back of the basement.
+
+"Now, for the first architectural upgrade," Daniel said, pointing out into the twilight across the sloping backyard.
+
+Jordan looked through the glass and spotted something new. A line of wooden surveyor's stakes connected by bright neon-pink flagging ribbon mapped out a gentle, switchback path rising from the concrete basement patio all the way up the steep grassy hill to the first-floor deck.
+
+"Those are the grading and foundation stakes," Daniel explained, his deep London-inflected voice brimming with quiet pride. "The engineering plans were approved by the Town of Christiansburg last week. We have the building permits in hand, and the concrete and timber crew starts right after New Year's Day. We're putting in a permanent, ADA-compliant switchback ramp for you, Jordan." He rested a warm hand on Jordan's shoulder. "No more waiting for me, Mark, or my sons to carry your chair up and down the hill. You'll be able to roll between the basement and the main kitchen completely on your own, whenever you please."
+
+The entire group looked out at the ribboned stakes in the December dusk—a physical, permanent monument of belonging. Jordan stared at the wooden markers, his throat tight with emotion, before a practical question—one straight out of Zoë's playbook—surfaced in his mind. He tapped the keys of his `Vanguard Pro` on his lap tray.
+
+<aac>Daniel, this is amazing,</aac> `EchoType` synthesized softly. <aac>But didn't you say at Thanksgiving that you were building a new house? Why build a permanent ramp here if we are going to be moving?</aac>
+
+A slow, knowing smile spread across Daniel's face. "That is an excellent question, Jordan. And it brings us directly to the second upgrade."
+
+He led the group over to the large oak coffee table and unrolled a thick tube of architectural blueprints, anchoring the four curling corners with heavy ceramic coffee mugs. The Group of 8 gathered around the table, their eyes widening as they took in the elevation drawings and floor plans for a sprawling, multi-story estate.
+
+"This is why," Daniel said, tapping the title block of the blueprint. "A custom build of this scale—a compound big enough for our family, all eight of you, and the families you'll all have one day—doesn't happen overnight. The architects estimate construction out on U.S. Route 11 will take at least a year, possibly fourteen months. For the next year, Geneva Street is home. And we are going to make sure it functions as a true, barrier-free home for every single one of you."
+
+Jordan looked from the surveyor's stakes outside the glass—promising immediate independence—back to the blueprints spread across the coffee table, promising a future he had never once dared to imagine. It was the most profound act of love he had ever witnessed.
 
 # Jordan's World Trek
 
