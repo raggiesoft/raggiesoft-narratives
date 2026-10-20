@@ -5187,7 +5187,7 @@ In Room 215, Isabel and Henry read Kelsey's reply from top to bottom. When they 
 
 "And look at how she made sure he knows he's in the driver's seat as a legal adult whenever he's ready," Isabel said softly, wiping a tear from the corner of her eye as she saved a backup copy of `jordan_fuller_statement_2014-09-27.txt` into the encrypted Residence Director case folder. "Step by step, Henry. For the first time in his life, the whole building has his back."
 
-## The Helicopter and the Chosen Family
+## A Hug in the Hallway
 
 ### Scene 1: A Hug in the Hallway
 
@@ -5247,7 +5247,7 @@ Jordan turned the screen of his `Vanguard Pro` toward **Aubrie Kelly**, who was 
 
 Aubrie’s face softened into a radiant, tender smile. She reached over and squeezed his hand. "I'd love to, J. We'll go down together right after Western Civ."
 
-At ten-fifteen, with Mark and Sarah waiting downstairs to walk with them to late Sunday brunch at the dining hall, Hannah pressed the square **PUSH TO OPEN** handicap button on the interior wall of Room 214. As the motorized arm swung the heavy wooden door open on its ten-second dwell timer, Jordan wheeled himself out into the sunlit second-floor corridor—just as the door of **Room 215** directly across the hall clicked open and **Isabel Dawson** and **Henry Walsh** stepped out with their weekend duty binders.
+At ten-fifteen, with Mark, Sarah, and Jessica waiting downstairs to walk with them to late Sunday brunch at the dining hall, Hannah pressed the square **PUSH TO OPEN** handicap button on the interior wall of Room 214. As the motorized arm swung the heavy wooden door open on its ten-second dwell timer, Jordan wheeled himself out into the sunlit second-floor corridor—just as the door of **Room 215** directly across the hall clicked open and **Isabel Dawson** and **Henry Walsh** stepped out with their weekend duty binders.
 
 "Morning, guys!" Henry said warmly, his face relaxing in visible relief as he saw the color back in Jordan’s cheeks. "How are you feeling today, Jordan?"
 
@@ -5273,7 +5273,9 @@ Stepping smoothly to the side of his wheelchair rather than leaning over the fro
 
 Jordan grinned and bumped his knuckles solidly against Henry’s fist. The boundary was effortless, respectful, and crystal clear to everyone in the corridor: Isabel and Henry were his guardians on Floor 2, and greeting Izzy with a warm, strictly platonic hug was officially part of the morning routine.
 
-### Scene 2: A Safe Place on the First Floor
+## A Safe Place on the First Floor
+
+### Scene 1: A Safe Place on the First Floor
 
 **Date:** 2014-09-29 at 14:00 America/New_York
 
@@ -5376,11 +5378,13 @@ In his mind, where the world was carefully divided between places where he had t
 
 *Kelsey's office is a Safe Place.*
 
-### Scene 3: The Coming Storm
+## The Coming Storm
+
+### Scene 1: The Coming Storm
 
 **Date:** 2014-10-17 at 16:30 America/New_York
 
-The middle of October brought a sharp Appalachian chill to the mountain air and the welcome promise of **Fall Break**. Because the break was only a short four-day Saturday-through-Tuesday respite, the university’s residence halls were remaining open, and Suite 214/216 had been buzzing all week with low-key autumn plans—a horror movie marathon in the suite, a Sunday afternoon trip to a local pumpkin patch, and a massive collaborative dinner.
+The middle of October brought a sharp Appalachian chill to the mountain air and the welcome promise of **Fall Break**. Because the break was only a short four-day Saturday-through-Tuesday respite, the university’s residence halls were remaining open, and Suite 214/216 had been buzzing all week with low-key autumn plans—a horror movie marathon in the suite, a Tuesday afternoon trip to a local pumpkin patch, and a massive collaborative dinner.
 
 Amidst all the cheerful planning, however, Jordan had grown quieter and more withdrawn with each passing day. His smiles didn't quite reach his green eyes behind his glasses, and a familiar, suffocating tension had settled back into his shoulders.
 
@@ -5434,7 +5438,9 @@ Jordan looked from Aubrie to Madison, his heart hammering against his ribs. Defy
 
 For the first time in his life, he realized he had a choice.
 
-### Scene 4: The Confrontation
+## Jordan's Independence Day
+
+### Scene 1: The Confrontation
 
 **Date:** 2014-10-18 at 09:15 America/New_York
 
@@ -5560,7 +5566,7 @@ Realizing her psychological hold over him was shattering in real time, Aubrie Si
 
 "That is quite enough," Zoë said coolly. "You tailgated into a secure residential wing without a resident escort, and you are trespassing inside a contracted student room against the occupant's explicit wishes. I am fetching the Hall Director."
 
-### Scene 5: The Choice
+### Scene 2: The Choice
 
 **Date:** 2014-10-18 at 09:30 America/New_York
 
@@ -5624,7 +5630,7 @@ Before the first tear could even reach his cheek, all five women moved at once. 
 
 His mother was gone, and he was finally home.
 
-### Scene 6: The Cut Cord
+### Scene 3: The Cut Cord
 
 **Date:** 2014-10-18 at 10:45 America/New_York
 
@@ -5706,7 +5712,7 @@ It was a punishment designed to prove her thesis: that without her money and her
 
 "Then until we solve the phone line, he is never out there alone," **Aubrie Kelly** said, her voice ringing with fierce, immovable certainty as she stepped up beside Jordan’s chair and took his hand. "Not for a single minute. Whenever Jordan leaves this suite, at least one of us is with him at all times."
 
-"The **Buddy System**," Madison nodded, her eyes lighting up with tactical resolve as she pulled her own phone out of her back pocket. "And we set up a dedicated dispatch group chat right now. Whoever is Jordan's buddy at any given hour drops a check-in text whenever they move: *'Got Jordan, heading to Pendleton Library,'* or *'With J at Kincaid Hall.'* That way, even when Jordan is between WiFi zones, all nine of us know his exact location and whose phone to call if we need to reach him!"
+"The **Buddy System**," Madison nodded, her eyes lighting up with tactical resolve as she pulled her own phone out of her back pocket. "And we set up a dedicated dispatch group chat right now. Whoever is Jordan's buddy at any given hour drops a check-in text whenever they move: <sms>Got Jordan, heading to Pendleton Library,</sms> or <sms>With J at Kincaid Hall.</sms> That way, even when Jordan is between WiFi zones, all nine of us know his exact location and whose phone to call if we need to reach him!"
 
 "I'm texting **Mark**, **Sarah**, and **Jessica** right now to add them to the chat," Hannah said, her thumbs already flying across her screen. "You know they'll be 100% in."
 
@@ -5716,9 +5722,7 @@ Yes, it was an inconvenience. Yes, his mother had tried to hurt him where she th
 
 Yet as Jordan watched Madison type **`[Jordan Comms]`** into the header of a brand-new group chat while Aubrie laced her fingers tightly through his, a look of pure awe settled over his face. His mother had severed his cellular line to isolate him and punish him for choosing his new family. And in doing so, all she had accomplished was giving that family a reason to wrap itself around him ten times tighter—weaving a human network of care so strong that nothing she did could ever cut him off again.
 
-## The Fall Break Relay
-
-### Scene 1: The New Lifeline and a Winter Pact
+### Scene 4: The New Lifeline and a Winter Pact
 
 **Date:** 2014-10-18 at 13:00 America/New_York
 
@@ -5762,10 +5766,10 @@ Madison’s face lit up instantly. "Yes! One of those extended-stay suites with 
 
 Before Hannah even finished typing the idea into **`Jordan Comms`** so everyone had it in writing, Mark, Sarah, and Jessica were already chiming in out loud and on the screen at the same time:
 
-> **`Mark:`** *My folks will be happy to have me home for dinner, but fair warning—I'm basically gonna live at your hotel suite all break. Don't even think you're getting out of Monday Night WAR.*<br>
-> **`Sarah:`** *Same!! My house in Radford gets boring after two days. I'm bringing sleeping bags and all the snacks.*<br>
-> **`Jessica:`** *Roanoke is an easy drive down 81—count me in for the slumber party rotation!*<br>
-> **`Zoë:`** *I will compile a comparative budget spreadsheet and an accessibility audit of local extended-stay properties tonight.*
+> **`Mark:`** <sms>My folks will be happy to have me home for dinner, but fair warning—I'm basically gonna live at your hotel suite all break. Don't even think you're getting out of Monday Night WAR.</sms><br>
+> **`Sarah:`** <sms>Same!! My house in Radford gets boring after two days. I'm bringing sleeping bags and all the snacks.</sms><br>
+> **`Jessica:`** <sms>Roanoke is an easy drive down 81—count me in for the slumber party rotation!</sms><br>
+> **`Zoë:`** <sms>I will compile a comparative budget spreadsheet and an accessibility audit of local extended-stay properties tonight.</sms>
 
 Jordan looked around at the eight faces in Room 214 and down at the buzzing **`Jordan Comms`** thread in his hand.
 
@@ -5773,7 +5777,9 @@ They weren't just improvising a patch for Saturday afternoon. Without a second o
 
 "Okay!" Madison grinned, clapping her hands together with infectious energy. "The Winter Pact is officially ratified, and VoIP is live. Now for the **Fall Break Relay**. Who's up first?"
 
-### Scene 2: The Handoffs in Action
+## The Fall Break Relay
+
+### Scene 1: The Daily Grind
 
 **Date:** 2014-10-19 at 10:30 America/New_York
 
@@ -5781,7 +5787,7 @@ The Fall Break weekend unfolded as a masterclass in compassionate, seamless logi
 
 On Sunday morning at ten-thirty, the first official dispatch of the day chimed across every phone in the pact:
 
-> **`Aubrie:`** *[LOGISTICS] With Jordan! Heading over to 'The Daily Grind' in Kincaid Hall for lattes and a change of scenery.*
+> **`Aubrie:`** <sms>[LOGISTICS] With Jordan! Heading over to 'The Daily Grind' in Kincaid Hall for lattes and a change of scenery.</sms>
 
 As Jordan and **Aubrie Kelly** rolled out of Room 214 into the second-floor hallway, **Isabel Dawson** was stepping out of Room 215 with a canvas tote bag slung over her shoulder on her way to the quiet study lounge.
 
@@ -5797,12 +5803,16 @@ For over an hour, Jordan and Aubrie sat at a sunlit corner table inside **The Da
 
 Right around noon, a new chain of messages lit up **`Jordan Comms`**:
 
-> **`Madison:`** *Okay, I am officially going stir-crazy in the dorm. Anyone up for an afternoon expedition into downtown Blacksburg?*<br>
-> **`Lauren:`** *YES! The autumn leaves on Main Street are gorgeous right now. I'm in!*<br>
-> **`Zoë:`** *I will accompany you. I need to pick up a reference volume from the downtown bookshop anyway.*<br>
-> **`Aubrie:`** *Perfect timing! Hannah and I have our Western Civ study review at 12:30. J and I are at Kincaid Hall—meet us at the Commonwealth Mall bus stop beneath The Keystone Bridge in fifteen!*
+> **`Madison:`** <sms>Okay, I am officially going stir-crazy in the dorm. Anyone up for an afternoon expedition into downtown Blacksburg?</sms><br>
+> **`Lauren:`** <sms>YES! The autumn leaves on Main Street are gorgeous right now. I'm in!</sms><br>
+> **`Zoë:`** <sms>I will accompany you. I need to pick up a reference volume from the downtown bookshop anyway.</sms><br>
+> **`Aubrie:`** <sms>Perfect timing! Hannah and I have our Western Civ study review at 12:30. J and I are at Kincaid Hall—meet us at the Commonwealth Mall bus stop beneath The Keystone Bridge in fifteen!</sms>
 
-The noon handoff along **Commonwealth Mall** was executed with clockwork precision. Aubrie gave Jordan a warm kiss on the cheek before heading off across the drillfield to meet Hannah, while **Madison**, **Lauren**, and **Zoë** stepped in as his designated afternoon buddies.
+### Scene 2: The Real BT
+
+**Date:** 2014-10-19 at 12:15 America/New_York
+
+The noon handoff along **Commonwealth Mall** beneath the limestone arch of **The Keystone Bridge** was executed with clockwork precision. **Aubrie Kelly** gave Jordan a warm kiss on the cheek before heading off across the drillfield to meet **Hannah**, while **Madison**, **Lauren**, and **Zoë** stepped in as his designated afternoon buddies.
 
 Moments later, a forty-foot low-floor **Blue Ridge Transit** city bus glided up to the curb, its white-and-pine-green livery and prominent **`BT`** emblem gleaming in the crisp October sun. With a soft hiss of air brakes, the front suspension kneeled toward the concrete and the front passenger boarding doors folded wide, deploying the yellow-edged aluminum ADA wheelchair ramp directly onto the sidewalk from the front doorway.
 
@@ -5818,7 +5828,7 @@ The driver didn't miss a single beat. Glancing up at her in his wide overhead re
 
 Madison burst out laughing, completely delighted by the banter as she slid onto the fold-down bench right beside Jordan’s chair.
 
-As the bus pulled out of the campus transit loop and rolled down toward the historic heart of downtown Blacksburg, the university’s WiFi signal faded from the top of Jordan’s screen. Twenty-four hours ago, watching that connection indicator disappear would have sent a spike of panic through his chest. Today, with Madison grinning on his left, Lauren sitting on his right, and Zoë standing steady at the stanchion in front of him, Jordan felt zero anxiety at all. He wasn't disconnected; his network was sitting right beside him.
+As the bus pulled out of the campus lineup and rolled down toward the historic heart of downtown Blacksburg, the university’s WiFi signal faded from the top of Jordan’s screen. Twenty-four hours ago, watching that connection indicator disappear would have sent a spike of panic through his chest. Today, with Madison grinning on his left, Lauren sitting on his right, and Zoë standing steady at the stanchion in front of him, Jordan felt zero anxiety at all. He wasn't disconnected; his network was sitting right beside him.
 
 When the bus pulled up to the Main Street stop downtown and the driver deployed the front-door ramp again, Madison paused by the driver’s window on her way out.
 
@@ -5826,25 +5836,31 @@ When the bus pulled up to the Main Street stop downtown and the driver deployed 
 
 The driver shook his head, chuckling warmly as he retracted the ramp. "Have a good afternoon, Bluewater."
 
-They spent the next two hours wandering the brick sidewalks of downtown Blacksburg beneath a canopy of scarlet and gold October maples, browsing the quirky shop windows along Main Street until they ducked into a sprawling, two-story independent bookstore lined with worn leather armchairs, the smell of espresso, and—best of all—a free public WiFi network.
+### Scene 3: Main Street
+
+**Date:** 2014-10-19 at 14:00 America/New_York
+
+Jordan, **Madison**, **Lauren**, and **Zoë** spent the next two hours wandering the brick sidewalks of downtown Blacksburg beneath a canopy of scarlet and gold October maples, browsing the quirky shop windows along Main Street until they ducked into a sprawling, two-story independent bookstore lined with worn leather armchairs, the smell of espresso, and—best of all—a free public WiFi network.
 
 The instant Jordan’s `mPhone` authenticated to the bookstore’s wireless router, his handset chimed with a rapid-fire cascade of notifications from **`Jordan Comms`** that had queued up while they were strolling down Main Street:
 
-> **`Hannah:`** *Mark says to tell you Dr. Destruction's cage-match promo last night was an all-time classic and he can't wait to break it down with you tonight.*<br>
-> **`Zoë:`** *[Attached: `NRV_Extended_Stay_Audit_v1.pdf`] Initial matrix of wheelchair-accessible hotel suites for December. Top three candidates highlighted in green.*<br>
-> **`Aubrie:`** *[Photo Attachment: A remarkably round campus gray squirrel glaring down from a low oak branch] I think this guy is trying to mug me for my Western Civ flashcards.*
+> **`Hannah:`** <sms>Mark says to tell you Dr. Destruction's cage-match promo last night was an all-time classic and he can't wait to break it down with you tonight.</sms><br>
+> **`Zoë:`** <sms>[Attached: NRV_Extended_Stay_Audit_v1.pdf] Initial matrix of wheelchair-accessible hotel suites for December. Top three candidates highlighted in green.</sms><br>
+> **`Aubrie:`** <sms>[Photo Attachment: A remarkably round campus gray squirrel glaring down from a low oak branch] I think this guy is trying to mug me for my Western Civ flashcards.</sms>
 
 Jordan let out a silent, shaking laugh, turning his screen to show the squirrel photo to Lauren and Madison. His mother had cut off his cellular service to make his world small and silent—and instead, his world was overflowing with laughter, autumn sunlight, and constant connection.
 
 At four-fifteen, one more message popped up at the bottom of the chat:
 
-> **`Mark:`** *[LOGISTICS] Just clocked out of my shift at the Campus Bookstore. I've got my car downtown—want me to swing by Main Street and give the four of you a lift back up the hill to Bennett Hall?*
+> **`Mark:`** <sms>[LOGISTICS] Just clocked out of my shift at the Campus Bookstore. I've got my car downtown—want me to swing by Main Street and give the four of you a lift back up the hill to Bennett Hall?</sms>
 
 Fifteen minutes later, with Jordan transferred into the front passenger seat of Mark’s slightly beat-up but rock-solid sedan and his folded wheelchair stowed carefully in the trunk alongside Madison, Lauren, and Zoë’s bookstore bags, the five of them cruised back up the hill toward campus.
 
 The Fall Break trial run of the Buddy System wasn't just working; it was a triumph.
 
-### Scene 3: The Christiansburg Plan and the Digital Wall
+## The Christiansburg Plan
+
+### Scene 1: The Thanksgiving Ultimatum
 
 **Date:** 2014-10-20 at 20:30 America/New_York
 
@@ -5905,7 +5921,9 @@ Hannah looked at Mark, her eyes shining with love and pride.
 
 Then Zoë added the final tactical stroke: "And rather than waiting until Wednesday when the dorms close at 1:00 PM, all nine of us will head out to Christiansburg on **Tuesday afternoon**, a full day before your mother plans to arrive. And before we leave campus next month, Jordan, we will stop by Kelsey's office and **CPI Campus Police** just like Kelsey suggested, so your no-contact statement and my parents' address are officially on file. When your mother pulls up on Wednesday morning, she will find an empty room and a locked building."
 
-***
+### Scene 2: The Digital Wall
+
+**Date:** 2014-10-20 at 20:50 America/New_York
 
 Twenty minutes later, back upstairs in the quiet safety of **Room 214**, the wrestling match on TV was forgotten.
 
@@ -5917,31 +5935,39 @@ He opened `EchoType`, his fingers steady and resolute on the keys:
 
 <aac>I don't want to get emails from her anymore. Not like this. Not ever again.</aac>
 
-Zoë, who was sitting at her own desk five feet away, swiveled her chair around immediately.
+**Zoë**, who was sitting at her own desk five feet away, swiveled her chair around immediately.
 
 "We can engineer a permanent fix for that tonight," Zoë said crisply. "University mail servers do not permit blocking external senders at the student level, *but* we can permanently decommission the address she knows about. Because your preferred name—**Jordan Fuller**—is already officially recorded with the University Registrar and the FERPA block Kelsey filed for you, you are entitled to have your primary student username regenerated to match your preferred name."
 
 She rolled her chair beside his wheelchair and guided him to the **CPI Information Technology Support Portal**. Together, with **Aubrie Kelly** resting her chin warmly on Jordan’s shoulder as she watched, Jordan typed out the formal support ticket:
 
-> **CPI INFORMATION TECHNOLOGY — ACCOUNT MANAGEMENT TICKET**<br>
-> **Request Type:** Primary Student Identifier & Email Alias Replacement<br>
-> **Student Name:** Jordan Fuller (Current System Identifier: `afuller001`)<br>
-> **FERPA Confidentiality Status:** Active (Filed via Office of the University Registrar)<br>
-> **Description:**<br>
-> Hello, I am writing to request an immediate change to my primary student email identifier. My current account (`afuller001`) was automatically generated from my legal first name, *Aubrey*, which I do not use. My preferred name, **Jordan Fuller**, and my FERPA Directory Non-Disclosure hold are already on file with the Registrar.<br><br>
-> An external family member is using the old `afuller001` identifier to send harassing and coercive messages. To protect my safety and privacy, I request that a new primary student email identifier be generated under my preferred name (**Jordan Fuller**) and that the legacy `afuller001` alias be permanently deactivated so any messages sent to it bounce back as undeliverable.<br><br>
+> **From:** Jordan Fuller (`afuller001`)<br>
+> **To:** CPI Information Technology — Account Management & Identity Services<br>
+> **Date:** Monday, October 20, 2014 — `20:54 EDT`<br>
+> **Subject:** Primary Student Identifier & Email Alias Replacement (Active FERPA Hold)<br>
+>
+> Hello,
+>
+> I am writing to request an immediate change to my primary student email identifier. My current account (`afuller001`) was automatically generated from my legal first name, *Aubrey*, which I do not use. My preferred name, **Jordan Fuller**, and my FERPA Directory Non-Disclosure hold are already on file with the Office of the University Registrar.
+>
+> An external family member is using the old `afuller001` identifier to send harassing and coercive messages. To protect my safety and privacy, I request that a new primary student email identifier be generated under my preferred name (**Jordan Fuller**) and that the legacy `afuller001` alias be permanently deactivated so any messages sent to it bounce back as undeliverable.
+>
 > Thank you,<br>
 > Jordan Fuller
 
 Jordan read the ticket over one last time, took a deep breath, and clicked **`Submit Ticket`**.
 
-Within forty-eight hours, CPI Information Technology would process the request—assigning him the brand-new primary identifier **`jfuller004`** and permanently severing the old `afuller001` alias so that any future ultimatum from Virginia Beach would bounce back with a cold *User Unknown* error.
+Because his active FERPA confidentiality flag was already linked in the university identity database, the automated identity-services script processed the preferred-name regeneration within seconds—flashing a green confirmation banner across the portal screen:
 
-It was a small, bureaucratic click of a trackpad, but to Jordan, it felt like slamming a six-inch steel vault door shut.
+**`PRIMARY IDENTIFIER UPDATED: jfuller004 — LEGACY ALIAS (afuller001) QUEUED FOR PERMANENT DEACTIVATION`**
+
+It was a small, bureaucratic click of a trackpad, but to Jordan, watching **`jfuller004`** appear at the top of his student profile felt like slamming a six-inch steel vault door shut.
 
 Aubrie Jean reached down and covered his hand on the keyboard with hers. "Good," she whispered softly. "One less way for her to ever reach you."
 
-### Scene 4: A Continent of Their Own
+## A Continent of Their Own
+
+### Scene 1: A Continent of Their Own
 
 **Date:** 2014-10-21 at 22:00 America/New_York
 
@@ -5971,12 +5997,12 @@ Later, changed into his cotton pajamas and sitting in his wheelchair beside his 
 
 He opened the **`Jordan Comms`** group chat and slid his thumb upward—scrolling up, and up, and up through the four-day log of his newfound freedom:
 
-> **`Zoë [Sun 14:10]:`** *With Jordan. Heading to the third floor of Pendleton Library so he can work on his astrophysics problem set.*<br>
-> **`Madison [Mon 11:25]:`** *Got him! We're out on Commonwealth Green soaking up the sun! ☀️*<br>
-> **`Hannah [Mon 17:40]:`** *Everyone's back at the suite. Pizza run is a go—Mark is bringing it up now.*<br>
-> **`Lauren [Tue 14:15]:`** *[Photo Attachment: Jordan sitting in his wheelchair in a sunny field of orange pumpkins, holding a wonderfully lopsided pumpkin in his lap with a huge grin behind his glasses] Sarah, Jessica, and I have Jordan! Pumpkin patch expedition is a complete success!*<br>
-> **`Mark [Mon 19:50]:`** *We've secured the prime lobby couches. AWE Monday Night WAR is a go. Tell J that Dr. Destruction is going down tonight.*<br>
-> **`Aubrie [Tue 18:30]:`** *Just me and J now. Grabbing hot chocolate at the dining hall before we head back up the hill to The Old Lady.*
+> **`Zoë [Sun 14:10]:`** <sms>With Jordan. Heading to the third floor of Pendleton Library so he can work on his astrophysics problem set.</sms><br>
+> **`Madison [Mon 11:25]:`** <sms>Got him! We're out on Commonwealth Green soaking up the sun! ☀️</sms><br>
+> **`Hannah [Mon 17:40]:`** <sms>Everyone's back at the suite. Pizza run is a go—Mark is bringing it up now.</sms><br>
+> **`Lauren [Tue 14:15]:`** <sms>[Photo Attachment: Jordan sitting in his wheelchair in a sunny field of orange pumpkins, holding a wonderfully lopsided pumpkin in his lap with a huge grin behind his glasses] Sarah, Jessica, and I have Jordan! Pumpkin patch expedition is a complete success!</sms><br>
+> **`Mark [Mon 19:50]:`** <sms>We've secured the prime lobby couches. AWE Monday Night WAR is a go. Tell J that Dr. Destruction is going down tonight.</sms><br>
+> **`Aubrie [Tue 18:30]:`** <sms>Just me and J now. Grabbing hot chocolate at the dining hall before we head back up the hill to The Old Lady.</sms>
 
 Jordan stared at the glowing stream of check-ins, candid photos, and effortless handoffs, and a quiet, overwhelming realization washed over him.
 
