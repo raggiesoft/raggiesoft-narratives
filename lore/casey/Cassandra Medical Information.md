@@ -128,7 +128,7 @@ Here is how you can characterize his reputation among the Quantaneers in your lo
     
 - **The Silent Gatekeeper:** The Quantaneers know that David has only one mission: Cassandra's health. He doesn't care about stock prices, quarterly earnings, or office politics. If an ambitious VP tries to approach Cassandra in the courtyard while David is observing a spike in her heart rate or sensory overload, the employees know David will physically intercept them without a second thought.
     
-- **The "Shadow" Alias:** While his `v-davanc@quantum.com` email exists, employees know better than to email it with corporate requests. It is purely there so he can view Cassandra's calendar and track her physical whereabouts.
+- **The "Shadow" Alias:** While his internal `v-davanc` vendor exchange mailbox exists, employees know better than to message it with corporate requests. It is purely there so he can view Cassandra's calendar and track her physical whereabouts.
     
 
 ### In-Universe Lore Prompt Injection: The Orange Badge Anomaly

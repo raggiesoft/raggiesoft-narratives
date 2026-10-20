@@ -3716,7 +3716,7 @@ Isabel cracked her knuckles and opened the **CPI EHS Residential Fire Safety Por
 
 Instead, she weaponized crisp, unimpeachable institutional language, turning the university's own accessibility codes into a shield:
 
-> **COMMONWEALTH POLYTECHNIC INSTITUTE**
+> **COMMONWEALTH POLYTECHNIC INSTITUTE**<br>
 > **ENVIRONMENTAL HEALTH & SAFETY (`EHS`) — RESIDENTIAL FIRE DRILL REPORT**
 >
 > - **Building:** Bennett Hall (`BLDG-014`) | **Floor:** 2
@@ -3738,8 +3738,8 @@ Isabel reviewed the form, clicked **Submit to EHS & Residence Director**, and le
 
 Then she opened a second window—her encrypted **CPI Residence Life Staff Mail**—and addressed a private, `FERPA Confidential` note directly to her boss, Hall Director **Kelsey Brennan**:
 
-> **To:** Kelsey Brennan, Residence Director (Bennett Hall)
-> **From:** Isabel Dawson, Resident Advisor (Floor 2)
+> **To:** Kelsey Brennan, Residence Director (Bennett Hall)<br>
+> **From:** Isabel Dawson, Resident Advisor (Floor 2)<br>
 > **Subject:** CONFIDENTIAL — Private Follow-Up on Suite 214/216 Evacuation (Jordan Fuller)
 >
 > Kelsey,
@@ -3762,8 +3762,8 @@ Then she opened a second window—her encrypted **CPI Residence Life Staff Mail*
 
 Down on the first floor in the Residence Director's apartment office, Kelsey must have still been sitting at her desk logging the building stopwatch times, because her reply landed in Isabel's inbox less than three minutes later:
 
-> **To:** Isabel Dawson, Resident Advisor (Floor 2)
-> **From:** Kelsey Brennan, Residence Director (Bennett Hall)
+> **To:** Isabel Dawson, Resident Advisor (Floor 2)<br>
+> **From:** Kelsey Brennan, Residence Director (Bennett Hall)<br>
 > **Subject:** Re: CONFIDENTIAL — Private Follow-Up on Suite 214/216 Evacuation (Jordan Fuller)
 >
 > Izzy,
@@ -4358,11 +4358,11 @@ Isabel sat down at her desk and woke her laptop, while Henry pulled her spare wo
 
 "Putting him and you both on `CC` right now," Isabel said, typing carefully as she and Henry drafted the message together:
 
-> **To:** Kelsey Brennan, Residence Director (Bennett Hall) `<kbrennan@cpi.edu>`
-> **From:** Isabel Dawson, Resident Advisor (Floor 2) `<idawson@cpi.edu>`; Henry Walsh, Resident Advisor (Floor 2) `<hwalsh@cpi.edu>`
-> **CC:** Henry Walsh `<hwalsh@cpi.edu>`; Jordan Fuller (Room 214) `<jfuller@cpi.edu>`
-> **Date:** Saturday, September 27, 2014 — `22:46 EDT`
-> **Subject:** CONFIDENTIAL (Sent at Jordan’s Request) — Full Disclosure on Suite 214/216 & Jordan’s Statement
+> **To:** Kelsey Brennan, Residence Director (Bennett Hall)<br>
+> **From:** Isabel Dawson, Resident Advisor (Floor 2); Henry Walsh, Resident Advisor (Floor 2)<br>
+> **CC:** Henry Walsh, Resident Advisor (Floor 2); Jordan Fuller (Room 214)<br>
+> **Date:** Saturday, September 27, 2014 — `22:46 EDT`<br>
+> **Subject:** CONFIDENTIAL (Sent at Jordan’s Request) — Full Disclosure on Suite 214/216 & Jordan’s Statement<br>
 > **Attachment:** `jordan_fuller_statement_2014-09-27.txt` (`14.2 KB` — Plain Text Document exported from `NeoEdit`, attached with Jordan's explicit permission)
 >
 > Kelsey,
@@ -4394,9 +4394,9 @@ Back in Room 215, Isabel and Henry expected they wouldn't hear back until Sunday
 
 Less than four minutes after Isabel clicked send, after Kelsey had read every single line of both the email and Jordan's attached `.txt` file at the front desk terminal, an incoming **Reply All** chimed on Isabel's laptop, Henry's phone, and Jordan's CC'ed inbox:
 
-> **To:** Jordan Fuller (Room 214) `<jfuller@cpi.edu>`; Isabel Dawson, Resident Advisor (Floor 2) `<idawson@cpi.edu>`; Henry Walsh, Resident Advisor (Floor 2) `<hwalsh@cpi.edu>`
-> **From:** Kelsey Brennan, Residence Director (Bennett Hall) `<kbrennan@cpi.edu>`
-> **Date:** Saturday, September 27, 2014 — `22:50 EDT`
+> **To:** Jordan Fuller (Room 214); Isabel Dawson, Resident Advisor (Floor 2); Henry Walsh, Resident Advisor (Floor 2)<br>
+> **From:** Kelsey Brennan, Residence Director (Bennett Hall)<br>
+> **Date:** Saturday, September 27, 2014 — `22:50 EDT`<br>
 > **Subject:** Re: CONFIDENTIAL (Sent at Jordan’s Request) — Full Disclosure on Suite 214/216 & Jordan’s Statement
 >
 > Jordan, Izzy, and Henry,
@@ -4424,8 +4424,8 @@ Less than four minutes after Isabel clicked send, after Kelsey had read every si
 >
 > Izzy and Henry—thank you both for being the exact kind of RAs who made Jordan feel safe enough to finally tell the truth.
 >
-> — **Kelsey Brennan, M.Ed.**
-> Residence Director, Eleanor Bennett Commonwealth Hall
+> — **Kelsey Brennan, M.Ed.**<br>
+> Residence Director, Eleanor Bennett Commonwealth Hall<br>
 > *Overnight Front Desk Watch — Desk Ext. `4-2100`*
 
 In Room 215, Isabel and Henry read Kelsey's reply from top to bottom. When they reached the paragraph about going to Campus Police to proactively block any bogus welfare-check or missing-person calls from Virginia Beach, Henry let out a slow, relieved breath and tapped the screen with his knuckle.
