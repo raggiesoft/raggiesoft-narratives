@@ -70,7 +70,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 | Thread Identifier | Specific Sub-Thread Variants | When Spawned |
 | :--- | :--- | :--- |
 | **`Thread 6 (Family_Admins)`** | `Thread 6 (Daniel)`, `Thread 6 (Laura)`, `Thread 6 (Brooks_Siblings)`, `Thread 6 (Scott_Family)`, `Thread 6 (Barnes_Family)`, `Thread 6 (Gallagher_Family)`, `Thread 6 (Kelly_Family)`, `Thread 6 (Braithwaite_Family)` | Active when parental or sibling family nodes are present in the room or on a call (e.g., Geneva Street compound, Bluewater Sanctuary, or World Trek). |
-| **`Thread 7 (Campus_Allies)`** | `Thread 7 (Isabel)`, `Thread 7 (Henry)`, `Thread 7 (Kelsey)`, `Thread 7 (Suite_510)` | Active when Bennett Hall RAs (`Isabel Dawson`, `Henry Walsh`), Hall Director `Kelsey Brennan`, or Room 510 suitemates are interacting with the group. |
+| **`Thread 7 (Campus_Allies)`** | `Thread 7 (Isabel)`, `Thread 7 (Henry)`, `Thread 7 (Kelsey)`, `Thread 7 (Suite_505_507)` | Active when Bennett Hall RAs (`Isabel Dawson`, `Henry Walsh`, `Aaron Vance`, etc.), Hall Director `Kelsey Brennan`, or Suite 505/507 suitemates are interacting with the group. |
 | **`Thread 8 (Institutional_Support)`** | `Thread 8 (OEA_Higgins)`, `Thread 8 (Medical_Staff)`, `Thread 8 (Legal_Counsel)`, `Thread 8 (CPI_Faculty)` | Active during Office of Educational Accessibility meetings, hospital/clinic visits, courtroom hearings, or professor consultations. |
 | **`Thread 9 (Threat_Monitor)`** | `Thread 9 (Firewall_Monitor)`, `Thread 9 (Hostile_Agent)` | Background security/firewall daemon spawned whenever an external threat (`Hostile_Agent.AubrieSinclair`, `Hostile_Agent.Davies`, `Hostile_Agent.TomLawson`, `Hostile_Agent.Alex`) is detected. |
 
@@ -82,23 +82,30 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 * **`Agent(Aubrie)`** / **`Observer(Aubrie)`** — **Aubrie Jean Kelly** (18, 5'8"; Jordan’s Anchor and Primary Safe Person; Industrial Systems Engineering major).
 * **`Agent(Madison)`** / **`Observer(Madison)`** — **Madison Elizabeth Scott** (18, 5'10"; Architecture major; co-organizer of physical sanctuary spaces).
 * **`Agent(Lauren)`** / **`Observer(Lauren)`** — **Lauren Nicole Barnes** (18, 5'11"; Aerospace Engineering major from Gander, NL; high-sensory warmth & grounding node).
-* **`Agent(Sarah)`** / **`Observer(Sarah)`** — **Sarah Kristyn Braithwaite** (18, 6'1"; Materials Science & Engineering major from Liverpool/Sydney, NSW; Room 510 resident who joins the Pact).
-* **`Agent(Jessica)`** / **`Observer(Jessica)`** — **Jessica Gallagher** (18, 6'3"; Mechanical Engineering major from Petermann, NT; Room 510 resident who joins the Pact; **strictly logged as `Agent(Jessica)`, NEVER `"Jess"`**).
+* **`Agent(Sarah)`** / **`Observer(Sarah)`** — **Sarah Kristyn Braithwaite** (18, 5'5"; Public Relations major from Liverpool/Sydney, NSW; Suite 505/507 [`Room 505`] resident who joins the Pact).
+* **`Agent(Jessica)`** / **`Observer(Jessica)`** — **Jessica Gallagher** (18, 6'3"; Biology major from Petermann, NT; Suite 505/507 [`Room 505`] resident who joins the Pact; **strictly logged as `Agent(Jessica)`, NEVER `"Jess"`**).
 * **`Agent(Megan)`** / **`Observer(Megan)`** — **Megan Brooks** (27, 6'0"; Zoë’s eldest sister; logged as `Family_Node(Megan)` in Book 1, and reclassified to `Agent(Megan)` / `Pact.Member` when she joins the Constellation in Book 2).
-* **`Agent(Mark)`** / **`Observer(Mark)`** — **Mark Shawn Anderson** (18, 6'2"; Biological Sciences / Pre-Med major & EMT; Jordan’s platonic brother and primary physical/medical protector).
-* **`Agent(Hannah)`** / **`Observer(Hannah)`** — **Hannah Ashlee Parker** (18, 5'6"; Human Nutrition, Foods, and Exercise / Pre-Nursing major; platonic sister and clinical care coordinator).
+* **`Agent(Mark)`** / **`Observer(Mark)`** — **Mark Shawn Anderson** (18, 5'8"; Mechanical Engineering major; Jordan’s platonic brother and primary physical/medical protector in Suite 310/312 [`Room 312`]).
+* **`Agent(Hannah)`** / **`Observer(Hannah)`** — **Hannah Ashlee Parker** (18, 5'5"; Animal & Poultry Sciences / Pre-Vet major; platonic sister and clinical care coordinator).
 
-#### 2. Bennett Hall & CPI Campus Allies (`Ally_Nodes` & `System.Admins`)
-* **`System.Admin(HallDirector_Kelsey)`** / **`Agent(Kelsey)`** — **Kelsey Morgan Brennan** (Bennett Hall Director, Room 104; administrator of Jordan’s `FERPA` directory suppression, Housing lockdown, and `Node(Bennett_Hall.Room104.Safe_Place)`).
-* **`System.Admin(RA_Isabel)`** / **`Agent(Isabel)`** — **Isabel Claire Dawson** (2nd-Floor Female RA, Room 215; executes `'Protocol: Platonic_Greeting.Hug'` with Jordan; older sister to `Agent(Elena_Dawson)`).
-* **`System.Admin(RA_Henry)`** / **`Agent(Henry)`** — **Henry Thomas Walsh** (2nd-Floor Male RA, Room 201; corridor boundary enforcer and acoustic guitar peer mentor).
-* **`System.Admin(RA_Aaron)`** / **`Agent(Aaron)`** — **Aaron Matthew Vance** (4th-Floor Male RA, Room 401; Civil Engineering senior & 1st-Floor Lobby Front Desk duty RA).
-* **`Agent(Elena_Dawson)`** — **Elena Dawson** (Isabel’s younger autistic and selectively mute sister; catalyst for Isabel’s trauma-informed fluency with Jordan’s AAC).
-* **`Agents(Suite_510)`** — The remaining four suitemates in Bennett Hall Room 510 alongside Sarah and Jessica:
-  * **`Agent(Ashley)`** — Ashley (Room 510 suitemate)
-  * **`Agent(Emily)`** — Emily (Room 510 suitemate)
-  * **`Agent(Cassie)`** — Cassie (Room 510 suitemate)
-  * **`Agent(Chloe_510)`** — Chloe (Room 510 suitemate; disambiguated from Zoë’s older sister `Agent(Chloe_Brooks)`)
+#### 2. Bennett Hall & CPI Campus Allies (`Ally_Nodes` & `System.Admins` — `10 RAs Across Floors 2–6 + 1 Residence Director`)
+* **`System.Admin(HallDirector_Kelsey)`** / **`Agent(Kelsey)`** — **Kelsey Morgan Brennan** (Bennett Hall Residence Director, 1st-Floor `Room 104 / Suite 102`; administrator of Jordan’s `FERPA` directory suppression, Housing lockdown, and `Node(Bennett_Hall.Room104.Safe_Place)`).
+* **`System.Admin(RA_Henry)`** / **`Agent(Henry)`** — **Henry Thomas Walsh** (2nd-Floor Male RA, `Room 201`; Accounting / BIT junior; corridor boundary enforcer and acoustic guitar peer mentor).
+* **`System.Admin(RA_Isabel)`** / **`Agent(Isabel)`** — **Isabel Claire Dawson** (2nd-Floor Female RA, `Room 215`; Human Development / Pre-OT & Nursing junior; executes `'Protocol: Platonic_Greeting.Hug'` with Jordan; older sister to `Agent(Elena_Dawson)`).
+* **`System.Admin(RA_Marcus)`** / **`Agent(Marcus)`** — **Marcus Devon Sterling** (3rd-Floor Male RA, `Room 301`; Electrical Engineering junior).
+* **`System.Admin(RA_Maya)`** / **`Agent(Maya)`** — **Maya Lin Chen** (3rd-Floor Female RA, `Room 315`; Architecture junior).
+* **`System.Admin(RA_Aaron)`** / **`Agent(Aaron)`** — **Aaron Matthew Vance** (4th-Floor Male RA, `Room 401`; Civil Engineering senior & 1st-Floor Lobby Front Desk duty RA).
+* **`System.Admin(RA_Brianna)`** / **`Agent(Brianna)`** — **Brianna Nicole Foster** (4th-Floor Female RA, `Room 415`; Biological Sciences / Pre-Med senior).
+* **`System.Admin(RA_Connor)`** / **`Agent(Connor)`** — **Connor Patrick O'Malley** (5th-Floor Male RA, `Room 501`; Mechanical Engineering junior).
+* **`System.Admin(RA_Samantha)`** / **`Agent(Samantha)`** — **Samantha "Sam" Grace Holloway** (5th-Floor Female RA, `Room 515`; Communications / Public Relations senior).
+* **`System.Admin(RA_Devon)`** / **`Agent(Devon)`** — **Devon Alexander Price** (6th-Floor Male RA, `Room 601`; Computer Science senior).
+* **`System.Admin(RA_Natalie)`** / **`Agent(Natalie)`** — **Natalie Claire Morales** (6th-Floor Female RA, `Room 615`; Mathematics / Education junior).
+* **`Agent(Elena_Dawson)`** — **Elena Dawson** (Isabel’s younger severely disabled sister; catalyst for Isabel’s trauma-informed fluency with Jordan’s AAC).
+* **`Agents(Suite_505_507)`** — The remaining four suitemates in Bennett Hall `Suite 505/507` alongside Sarah and Jessica:
+  * **`Agent(Chloe_505)`** — Chloe (Room 505 roommate of Sarah and Jessica; disambiguated from Zoë’s older sister `Agent(Chloe_Brooks)`)
+  * **`Agent(Ashley)`** — Ashley (Room 507 suitemate)
+  * **`Agent(Emily)`** — Emily (Room 507 suitemate)
+  * **`Agent(Cassie)`** — Cassie (Room 507 suitemate)
 * **`System.Admin(OEA_Higgins)`** — **Ms. Higgins** (Director, CPI Office of Educational Accessibility; manages Jordan’s ADA accommodations, priority note-taker registration, and 24/7 Hillside Pass-Through encoding).
 * **`System.Admin(Nurse_Collins)`** — **Nurse Collins** (Schiffert Health Center / Montgomery Vision & Hearing Clinic clinical coordinator).
 * **`System.Admin(Hospital_Staff)`** / **`System.Admin(Nurse)`** / **`System.Admin(Attending_Physician)`** — Hospital clinical personnel at Montgomery Regional and Star City / Roanoke medical centers.
@@ -139,13 +146,16 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 * **`Hostile_Agent.Alex`** — **Alex** (Megan Brooks’s toxic former coworker in Book 2).
 
 ### D. Canonical Geographic, Campus, & Transit Nodes (`Node(...)` & `[...]`)
-* **Bennett Hall & CPI Campus Nodes (`Blacksburg, VA`)**:
-  * **`[Bennett_Hall.Safe_Space]`** / **`Node(Bennett_Hall.Suite_214_216)`** / **`Room214_Originals`** — The 2nd-floor six-person suite sanctuary in Eleanor Bennett Commonwealth Hall.
-  * **`Node(Bennett_Hall.Room104.Safe_Place)`** — Hall Director Kelsey Brennan’s 1st-floor office (designated administrative safe harbor).
-  * **`Node(Bennett_Hall.Room215)`** — RA Isabel Dawson’s single room across the staggered isosceles hallway.
-  * **`Node(Bennett_Hall.Room201)`** — RA Henry Walsh’s room in the opposite 2nd-floor wing.
-  * **`Node(Bennett_Hall.Room401)`** — RA Aaron Vance’s room in the 4th-floor men's wing.
-  * **`Node(Bennett_Hall.Room510)`** — 5th-floor six-person suite (Sarah, Jessica, Ashley, Emily, Cassie, Chloe).
+* **Bennett Hall & CPI Campus Nodes (`Blacksburg, VA` — `Floor 1 Business/Admin [Zero Dorms]` & `Floors 2–6 Residential [10 RAs]`)**:
+  * **`[Bennett_Hall.Safe_Space]`** / **`Node(Bennett_Hall.Suite_214_216)`** / **`Room214_Originals`** — The 2nd-floor six-person suite sanctuary in Eleanor Bennett Commonwealth Hall (`Room 214` + `Room 216`).
+  * **`Node(Bennett_Hall.Lobby_Floor1)`** — 1st-floor lower-level lobby (`Room 100`, Front Desk `Ext. 4-2100`, 60" TV Lounge, Mail Room `Room 101`, and Bennett Hall Residence Life staff room `Room 106`).
+  * **`Node(Bennett_Hall.Room104.Safe_Place)`** — Residence Director Kelsey Brennan’s 1st-floor office (`Room 104` & `Suite 102` apartment; designated administrative safe harbor).
+  * **`Node(Bennett_Hall.Central_Housing_Office)`** — Central **Office of Housing and Residence Life** (`Suite 110–120` on Floor 1; **physically air-gapped from the Bennett Hall Lobby by a solid masonry firewall with zero interior doors—accessible strictly by exiting Bennett Hall and entering a separate exterior door on the inner quad side**).
+  * **`Node(Bennett_Hall.Room201)`** & **`Node(Bennett_Hall.Room215)`** — Floor 2 RA single rooms (`Henry Walsh` in `201`; `Isabel Dawson` in `215` across the staggered isosceles hallway from `Suite 214/216`).
+  * **`Node(Bennett_Hall.Room301)`**, **`Node(Bennett_Hall.Room315)`**, & **`Node(Bennett_Hall.Suite_310_312)`** — Floor 3 RA single rooms (`Marcus Sterling` in `301`, `Maya Chen` in `315`) and Mark Anderson's suite (`Room 312`).
+  * **`Node(Bennett_Hall.Room401)`** & **`Node(Bennett_Hall.Room415)`** — Floor 4 RA single rooms (`Aaron Vance` in `401`, `Brianna Foster` in `415`).
+  * **`Node(Bennett_Hall.Room501)`**, **`Node(Bennett_Hall.Room515)`**, & **`Node(Bennett_Hall.Suite_505_507)`** — Floor 5 RA single rooms (`Connor O'Malley` in `501`, `Samantha Holloway` in `515`) and the 5th-floor six-person suite (`Room 505`: Sarah, Jessica, Chloe; `Room 507`: Ashley, Emily, Cassie).
+  * **`Node(Bennett_Hall.Room601)`** & **`Node(Bennett_Hall.Room615)`** — Floor 6 RA single rooms (`Devon Price` in `601`, `Natalie Morales` in `615`).
   * **`Node(CPI.Campus)`** / **`Node(CPI)`** — Commonwealth Polytechnic Institute main campus (`Node(CPI.Torgersen_Hall)`, `Node(CPI.McBryde_Hall)`, `Node(CPI.Patton_Hall)`, `Node(CPI.Dietrick_Dining)`, `Node(CPI.The_Furnace)`, `Node(CPI.Transit_Center)`).
 * **New River Valley & Roanoke Regional Nodes (`Virginia`)**:
   * **`Node(Geneva.Street)`** — The Brooks family compound in Christiansburg, VA (containing sub-nodes **`'Basement_Pact_Suite'`** and **`'Anderson_Suite'`**).
