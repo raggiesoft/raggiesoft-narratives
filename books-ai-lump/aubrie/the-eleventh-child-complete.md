@@ -5716,11 +5716,23 @@ It was a punishment designed to prove her thesis: that without her money and her
 
 "I'm texting **Mark**, **Sarah**, and **Jessica** right now to add them to the chat," Hannah said, her thumbs already flying across her screen. "You know they'll be 100% in."
 
+Sitting in his wheelchair with his `Pinnacle Vanguard Pro` across his knees, Jordan thought about the three Bennett Hall staff members who had just stood like a wall of iron in his doorway fifteen minutes ago—and especially about **Isabel Dawson** right across the hall in Room 215. Over the past two months, Isabel had quietly become his favorite CPI staff member by a mile, and the one authority figure on campus he had started to trust with even his most private, vulnerable details. He completely understood the professional boundary between an RA and a resident, and he would never ask her to cross it—but when it came to keeping him safe, he wanted her, **Henry**, and **Kelsey** inside the loop too.
+
+His fingers moved across the keyboard and hit execute:
+
+<aac>Can we add Isabel, Henry, and Kelsey into the group chat too? After what my mom just did, I want them to know where I am and who I'm with, too.</aac>
+
+Aubrie Kelly’s eyes softened with pride as she squeezed his hand, while Zoë gave an immediate, approving nod.
+
+"That is a remarkably sound tactical addition, Jordan," Zoë agreed. "Integrating Residence Life command directly into our dispatch channel means that if your mother—or anyone acting on her behalf—ever returns to campus, Kelsey, Henry, and Isabel will know your real-time location and escort status instantly."
+
+"Adding Izzy, Henry, and Kelsey right now!" Madison grinned, her thumbs tapping rapidly as she built the twelve-person roster.
+
 Jordan sat in his wheelchair, looking down at the dead **`No Service`** banner at the top of his `mPhone`—and then looking up at the five women rallying around him in a blur of fierce, coordinated devotion.
 
 Yes, it was an inconvenience. Yes, his mother had tried to hurt him where she thought he was most vulnerable.
 
-Yet as Jordan watched Madison type **`[Jordan Comms]`** into the header of a brand-new group chat while Aubrie laced her fingers tightly through his, a look of pure awe settled over his face. His mother had severed his cellular line to isolate him and punish him for choosing his new family. And in doing so, all she had accomplished was giving that family a reason to wrap itself around him ten times tighter—weaving a human network of care so strong that nothing she did could ever cut him off again.
+Yet as Jordan watched Madison type **`[Jordan Comms]`** into the header of the brand-new group chat while Aubrie laced her fingers tightly through his, a look of pure awe settled over his face. His mother had severed his cellular line to isolate him and punish him for choosing his new family. And in doing so, all she had accomplished was giving that family—and the trusted guardians of Bennett Hall—a reason to wrap themselves around him ten times tighter, weaving a human network of care so strong that nothing she did could ever cut him off again.
 
 ### Scene 4: The New Lifeline and a Winter Pact
 
@@ -5740,11 +5752,11 @@ A collective grin broke out across the room.
 
 Working side-by-side at Jordan’s desk, Zoë and **Aubrie Kelly** downloaded the VoIP client onto Jordan’s `mPhone` over the CPI campus wireless network, linked a synchronized desktop client onto his `Vanguard Pro`, and configured the text-to-speech bridge so `EchoType` could route straight across the line if he ever needed voice relay. Within ten minutes, a brand-new `(540)` Blacksburg exchange number glowed at the top of his screen.
 
-"Okay," Aubrie said, her expression turning serious as she looked around the circle of nine. "Now for the most important security rule. This new number does *not* go to anyone outside of us nine—plus **Isabel**, **Henry**, and **Kelsey** here in Bennett Hall for emergencies. Especially not your mother. As far as she knows, cutting your phone line left you completely unreachable except by email—and when she emails you, *you* decide if and when you ever answer."
+"Okay," Aubrie said, her expression turning serious as she looked around the circle of nine. "Now for the most important security rule. Since Jordan already gave permission to include **Isabel**, **Henry**, and **Kelsey** in **`Jordan Comms`**, this new number does *not* go to anyone outside of the twelve people in that chat. Especially not your mother. As far as she knows, cutting your phone line left you completely unreachable except by email—and when she emails you, *you* decide if and when you ever answer."
 
 Jordan looked down at the new `(540)` number on his screen and gave a firm, grateful nod. For the first time in his life, he had a telephone number that Aubrie Sinclair hadn't paid for, didn't own, and didn't even know existed.
 
-"The VoIP deployment solves all stationary communication inside campus WiFi zones," Zoë continued, adjusting her glasses as she returned to the core safety equation. "However, the transit gap between buildings and off-campus remains. Therefore, the **Buddy System** and the **`Jordan Comms`** dispatch channel Madison initialized are mandatory whenever Jordan is on the move."
+"The VoIP deployment solves all stationary communication inside campus WiFi zones," Zoë continued, adjusting her glasses as she returned to the core safety equation. "However, the transit gap between buildings and off-campus remains. Therefore, the **Buddy System** and the **`Jordan Comms`** dispatch channel Madison initialized—with Kelsey, Henry, and Isabel monitoring alongside us—are mandatory whenever Jordan is on the move."
 
 As Madison finished adding Jordan’s new VoIP number into the **`Jordan Comms`** group chat, **Lauren** looked up from the foot of the bed and voiced the heavier question that had been quietly forming in the back of everyone’s mind.
 
@@ -5783,21 +5795,23 @@ They weren't just improvising a patch for Saturday afternoon. Without a second o
 
 **Date:** 2014-10-19 at 10:30 America/New_York
 
-The Fall Break weekend unfolded as a masterclass in compassionate, seamless logistics. Born out of his mother’s attempt to isolate him, the **Buddy System** and the **`Jordan Comms`** group chat instantly became the central nervous system of their nine-person family.
+The Fall Break weekend unfolded as a masterclass in compassionate, seamless logistics. Born out of his mother’s attempt to isolate him, the **Buddy System** and the **`Jordan Comms`** group chat instantly became the central nervous system of their nine-person family—plus **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh**, whom Jordan had explicitly invited into the channel.
 
 On Sunday morning at ten-thirty, the first official dispatch of the day chimed across every phone in the pact:
 
 > **`Aubrie:`** <sms>[LOGISTICS] With Jordan! Heading over to 'The Daily Grind' in Kincaid Hall for lattes and a change of scenery.</sms>
 
-As Jordan and **Aubrie Kelly** rolled out of Room 214 into the second-floor hallway, **Isabel Dawson** was stepping out of Room 215 with a canvas tote bag slung over her shoulder on her way to the quiet study lounge.
+As Jordan and **Aubrie Kelly** rolled out of Room 214 into the second-floor hallway, **Isabel Dawson** was stepping out of Room 215 with a canvas tote bag slung over her shoulder on her way to the quiet study lounge, her own phone still in her hand from reading Aubrie’s dispatch.
 
 Spotting her, Jordan immediately slowed his chair, clicked his brakes, and opened his arms with a bright morning grin behind his glasses.
 
-"Good morning, Jordan!" Isabel laughed softly, her eyes crinkling with warmth. Stepping smoothly to the side of his wheelchair, she leaned down and gave him her gentle, strictly platonic one-armed hug across the shoulders, patting the back of his maroon Forgers hoodie twice before straightening back up. "Did Zoë get your new WiFi number up and running yesterday?"
+"Good morning, Jordan!" Isabel laughed softly, her eyes crinkling with warmth. Stepping smoothly to the side of his wheelchair, she leaned down and gave him her gentle, strictly platonic one-armed hug across the shoulders, patting the back of his maroon Forgers hoodie twice before straightening back up. "I just saw Aubrie's check-in pop up on **`Jordan Comms`**! Did Zoë get your new WiFi number up and running cleanly?"
 
 Jordan held up his `mPhone` proudly, showing her the active **`Jordan Comms`** thread on his screen.
 
-"Henry, Kelsey, and I saved your new VoIP number into our duty phones last night, and we won't share it with a soul," Isabel promised warmly. "Have a wonderful time at Kincaid Hall, you two!"
+"Thank you for letting me, Henry, and Kelsey be part of your chat, Jordan," Isabel said, her voice softening with genuine gratitude as she tapped her own screen. "We saved your new VoIP number into our duty phones last night, and we won't share it with a soul. Have a wonderful time at Kincaid Hall, you two!"
+
+As they rolled toward the elevator, Jordan felt a quiet warmth settle in his chest. He understood the professional Residence Life boundary completely—Isabel was his Resident Advisor, and he would never do a single thing to blur that line or risk the job she depended on. Yet out of every staff member at CPI, Isabel had unmistakably become his favorite, and the one person in a position of university authority he was beginning to trust with his most private, unguarded truths.
 
 For over an hour, Jordan and Aubrie sat at a sunlit corner table inside **The Daily Grind**, sipping warm vanilla lattes and splitting a cinnamon roll. Surrounded by **Kincaid Hall**’s high-output campus WiFi routers, Jordan’s `mPhone` worked flawlessly, chiming with banter and photos from the rest of the group while he and Aubrie talked and people-watched through the tall arched windows.
 
@@ -6000,8 +6014,9 @@ He opened the **`Jordan Comms`** group chat and slid his thumb upward—scrollin
 > **`Zoë [Sun 14:10]:`** <sms>With Jordan. Heading to the third floor of Pendleton Library so he can work on his astrophysics problem set.</sms><br>
 > **`Madison [Mon 11:25]:`** <sms>Got him! We're out on Commonwealth Green soaking up the sun! ☀️</sms><br>
 > **`Hannah [Mon 17:40]:`** <sms>Everyone's back at the suite. Pizza run is a go—Mark is bringing it up now.</sms><br>
-> **`Lauren [Tue 14:15]:`** <sms>[Photo Attachment: Jordan sitting in his wheelchair in a sunny field of orange pumpkins, holding a wonderfully lopsided pumpkin in his lap with a huge grin behind his glasses] Sarah, Jessica, and I have Jordan! Pumpkin patch expedition is a complete success!</sms><br>
 > **`Mark [Mon 19:50]:`** <sms>We've secured the prime lobby couches. AWE Monday Night WAR is a go. Tell J that Dr. Destruction is going down tonight.</sms><br>
+> **`Lauren [Tue 14:15]:`** <sms>[Photo Attachment: Jordan sitting in his wheelchair in a sunny field of orange pumpkins, holding a wonderfully lopsided pumpkin in his lap with a huge grin behind his glasses] Sarah, Jessica, and I have Jordan! Pumpkin patch expedition is a complete success!</sms><br>
+> **`Isabel [Tue 14:17]:`** <sms>That pumpkin is a 10/10, Jordan!! 🎃 Henry and Kelsey are on duty at the desk and say it has been 100% quiet at Bennett Hall all week.</sms><br>
 > **`Aubrie [Tue 18:30]:`** <sms>Just me and J now. Grabbing hot chocolate at the dining hall before we head back up the hill to The Old Lady.</sms>
 
 Jordan stared at the glowing stream of check-ins, candid photos, and effortless handoffs, and a quiet, overwhelming realization washed over him.
