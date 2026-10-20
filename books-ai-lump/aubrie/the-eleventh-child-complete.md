@@ -3845,6 +3845,248 @@ Sitting on the campus pavement with his new glasses resting comfortably on the b
 
 This morning, he had been a boy who had never once traveled anywhere without his mother's car, looking out at a blurry, muffled world he had been taught to fear. Tonight, he could see, he could hear, and he knew he could go anywhere in the world.
 
+### Scene 6: Dinner with Isabel
+
+**Date:** 2014-08-29 at 17:30 America/New_York
+
+From the bus stop beneath **The Keystone Bridge**, the nine friends rolled together along the warm brick walkways of the academic quad toward **Kincaid Hall** for Friday night dinner.
+
+Every few yards, Jordan found himself marveling at details he had passed all week without ever knowing they existed. Through his new rectangular polycarbonate lenses, the carved Gothic lettering above the limestone arches of Kincaid Hall was razor-sharp, and through his calibrated behind-the-ear bridge hearing aids, the bustling Friday-evening chatter of the student center didn't crash over him as a muddy, overwhelming roar. The directional microphones gently attenuated the background clatter of dishes and footsteps while keeping the voices of his friends right beside him crisp and effortless.
+
+As Mark held the wide double doors of **Kincaid Commons** open and Jordan wheeled across the threshold toward the dining hall check-in podium, a familiar, warm voice called out from the beverage counter just ahead of them.
+
+"Hey, Room 214 crew!"
+
+Jordan looked up—and for the very first time in his life, he saw **Isabel Dawson**'s face from twenty feet away in crystal-clear 20/20 focus. Their second-floor Resident Advisor had her canvas messenger bag slung over one shoulder and a reusable travel mug in her hand, grabbing an early bite before her Friday evening seminar.
+
+"Oh, hello, Isabel!" Aubrie beamed as the whole group lit up.
+
+Setting her travel mug down on the edge of the counter, Isabel took two steps toward them—and then stopped in her tracks, her hazel-brown eyes widening in pure, delighted astonishment as she looked closely at Jordan's face.
+
+Without a second of hesitation, Jordan rolled straight up to her, set his wheel locks, and opened both arms with a bright, unguarded grin.
+
+"Oh, Jordan!" Isabel laughed softly, her voice catching with genuine emotion. Stepping smoothly to the side of his wheelchair, she bent down and wrapped her arm firmly around his shoulders in a warm, big-sisterly hug, giving his back two gentle, reassuring pats as Jordan hugged her back with all the gratitude in his heart.
+
+When she straightened up and stepped back half a pace, Jordan tilted his chin slightly to the left and then the right—proudly showing off the sleek gunmetal-and-tortoiseshell frames resting on the bridge of his nose and the discreet matte-silver bridge hearing aids tucked neatly behind his ears. Tapping the keys of his `Pinnacle Vanguard Pro` on his lap, he triggered his `EchoType` output:
+
+<aac>Well, what do you think?</aac>
+
+Isabel brought a hand to her mouth, her eyes shining brightly as she took in the transformation. Just seven days ago, on Friday afternoon, she had knelt beside this exact wheelchair in Room 214 while a terrified, exhausted eighteen-year-old boy squinted with his nose two inches from a dim screen and cupped his hand behind his ear just to catch the sound of her voice. Now, he was sitting upright with effortless posture, looking straight into her eyes with clear, sparkling focus.
+
+"Jordan, you look *incredible*!" Isabel said, her voice brimming with pride. "Those frames fit your face so well—and look at those hearing aids! Can you actually see and hear everything in here clearly right now?"
+
+<aac>Everything,</aac> Jordan's `"Sydney"` voice replied, his grin widening. <aac>I can read the menu boards all the way across the dining hall without squinting, and I can hear every word you are saying without cupping my ear. Will you sit with us for dinner, Isabel?</aac>
+
+"Please join us, Izzy!" Madison chimed in eagerly. "My class doesn't meet until Monday, and we've been celebrating all the way back from Christiansburg!"
+
+Isabel glanced at her watch and smiled warmly. "My evening occupational-therapy seminar doesn't start until seven, so I have plenty of time. I would love to eat with you guys."
+
+Ten minutes later, after loading up their trays at the grill and pasta stations—and after Zoë had secured her mandatory mug of 100-degree-Celsius black tea—the ten of them claimed a long wooden booth-and-table combination along the quieter perimeter wall of Kincaid Commons. Mark and Jessica slid two extra chairs out from the end of the table so Jordan could roll seamlessly into the head of the group right beside Aubrie and Isabel.
+
+Before opening a new `NeoEdit` buffer to join the dinner conversation, Jordan reached into the side pocket of his backpack, pulled out his power adapter, and casually plugged it into the duplex wall outlet mounted along the wooden wainscoting beside the booth.
+
+Sitting directly to his left, Isabel watched him plug the cord in—and then her gaze drifted quietly to the top-right corner of his `Aura Glade` desktop taskbar.
+
+Her breath caught in a silent, observant realization.
+
+On move-in Friday, the cheap, heavy plastic laptop his mother had sent him off with had possessed a completely dead battery; the moment its frayed cord was pulled from the wall, the screen had died and stripped him of his voice. Tonight, on this sleek matte-black `Pinnacle Vanguard Pro` that Zoë had set up for him, the battery telemetry icon in the corner of the Dark Aero panel read a solid **`78% — Charging`**.
+
+Even after an entire afternoon out in Christiansburg—typing at the bus stops, communicating through two clinical exams at Montgomery Vision and Hearing Clinic, picking out his glasses at LensWorks Optical at Strickland Farm Shopping Center, and riding Route 1 all the way back to campus—the battery on this laptop didn't die on him. He wasn't tethered to the wall in fear of going mute anymore. He had only plugged it in simply to let it top off and charge because there happened to be an outlet right at the table.
+
+Isabel didn't say a word aloud to embarrass him, but she took a slow sip of her water to hide the lump in her throat, silently thanking God for Zoë Brooks and the fierce, loving family sitting around this table.
+
+For the next twenty minutes, between bites of warm pasta and garlic bread, Jordan happily recounted the milestones of his afternoon—typing rapidly in `NeoEdit` and triggering `EchoType` as he described how he had ridden a public bus for the very first time in his life without his mother driving him, how he had realized the fellow CPI students and Christiansburg townsfolk on Blue Ridge Transit weren't scary at all, and how he had wheeled himself up the bus ramp at Strickland Farm completely under his own power.
+
+"Honestly, watching him roll up that ramp in Christiansburg like he owned the whole transit system was the highlight of my week," Sarah grinned in her thick Sydney cadence, raising her lemonade glass in a toast.
+
+"And the optometrist at LensWorks said his prescription was ready in forty-two minutes flat," Lauren added warmly from across the table. "The moment he walked outside and looked across North Franklin Street at New River Valley Mall, you could tell his whole world had changed."
+
+As the laughter around the table settled into a comfortable, contented hum and everyone finished their plates, Jordan's expression grew thoughtful. He glanced around the table at his eight friends—every single one of whom knew how controlling his mother was—and then looked over at Isabel.
+
+Instead of triggering his synthesized voice across the dining room, Jordan switched to his silent `NeoEdit` terminal window, where his large neon-green text glowed clearly against the pitch-black background, and angled the screen toward Isabel and the table:
+
+<aac>Isabel, can I ask you a serious question about university rules?</aac>
+
+"Of course, Jordan," Isabel said gently, setting her fork down and giving him her full, undivided attention. "Ask me anything."
+
+Jordan's fingers moved steadily across the tactile keys:
+
+<aac>Today on the bus and at the clinic, I realized how much I want to stay here and build my own life. I know my mother only sent me to CPI because she expects me to fail and beg to come home. What would happen if I went to make an official statement with CPI Police—just to put it on record that I am eighteen, that I am safe here, and that if she ever calls them claiming I am missing or tries to take me back, I don't want to go with her?</aac>
+
+Around the booth, Aubrie, Madison, Lauren, Zoë, Hannah, Mark, Sarah, and Jessica all quieted, listening intently. Aubrie reached under the table and gave Jordan's knee a warm, steady squeeze.
+
+"First of all, Jordan, that is a really smart, proactive question to ask," Isabel said softly, keeping her voice low and reassuring for their table. "Because you are eighteen years old, you are a legal adult under Virginia and federal law. If you go over to the CPI Police Department on Southgate Drive to make a voluntary Adult Safe-Status and No-Contact Statement, the officers will take your statement seriously and log a permanent dispatch flag under your name and student ID. That way, if a parent ever calls Campus Police demanding a welfare check or trying to report you as a missing person, dispatch immediately sees on their screen that you already came in of your own free will, verified that you are safe, and stated that you do not wish to have contact."
+
+Jordan nodded slowly, his green eyes behind his new glasses absorbing the procedural logic. Then his shoulders tensed just a fraction, and he typed the second half of his thought—the one piece of the puzzle that still scared him:
+
+<aac>That makes sense. My only fear is that if I go to CPI Police and take my mother off my records, they will ask me to put down a new Emergency Contact. Right now, the only people in the whole world I trust are my friends sitting at this table. I don't have an adult authority figure outside of college that I know and trust yet. And I already read the Residence Life handbook, so I know that you, Kelsey, Henry, and any other university staff aren't allowed to be a student's personal emergency contact.</aac>
+
+Isabel's heart ached with quiet empathy as she read the glowing green words. Even in the middle of reclaiming his independence, Jordan had already researched the policy himself so he wouldn't put her, Henry, or Kelsey in an impossible position.
+
+"You're completely right about the university rule, Jordan," Isabel said gently, meeting his eyes with warm honesty. "Because Kelsey, Henry, and I are employed by CPI Housing and Residence Life—and the same goes for Ms. Higgins in Educational Accessibility or your professors—university conflict-of-interest and liability rules prohibit staff members from being listed as a student's personal emergency contact in the Registrar's system. If it were legal, I think half the staff in Bennett Hall would volunteer in a heartbeat."
+
+She reached across the corner of the table and rested a brief, comforting hand beside his keyboard.
+
+"Here is the good news, though," Isabel continued reassuringly. "You don't have to have everything figured out today. Making a statement with CPI Police or updating your emergency contact isn't a test with a deadline tomorrow morning. Right now, you are just finishing your very first week of classes. Take the next few weeks to breathe, enjoy your new glasses and hearing aids, and let your world grow naturally. As you get to know trusted adults outside the university—like your friends' families—you'll know in your heart when you have an adult authority figure you truly trust to hold that spot for you. And until the exact day you feel ready to make that change and walk into CPI Police, Henry, Kelsey, and I have your back every single day inside Bennett Hall."
+
+Across the table, Zoë adjusted her glasses, a quiet, thoughtful glint in her analytical gray eyes as she exchanged a brief, unspoken glance with Aubrie—already filing away the exact logistical parameters of Jordan's need for trusted adult authority figures outside the university.
+
+Jordan let out a long, steady breath, the tight knot in his chest dissolving completely. He tapped a final line onto his screen and smiled up at his RA:
+
+<aac>Thank you, Isabel. That helps a lot. I'm really glad you're our RA.</aac>
+
+"Being your RA is the best part of my junior year, Jordan," Isabel smiled back warmly.
+
+### Scene 7: Taking Out the Trash
+
+**Date:** 2014-08-29 at 18:45 America/New_York
+
+At a quarter to seven, the ten of them bussed their trays at the conveyor window and stepped back out of **Kincaid Hall** into the golden, slanting light of the late-August evening.
+
+Isabel walked alongside Jordan's wheelchair as the group strolled down the wide brick promenade toward the central campus crossroads, chatting with Hannah and Madison about the upcoming three-day Labor Day weekend. When they reached the stone walkway branching off toward **Callahan Hall**, where her Friday evening occupational-therapy seminar was held, Isabel paused and adjusted the strap of her messenger bag.
+
+"Alright, guys, this is my turnoff," Isabel said warmly. "Have an amazing Friday night, and don't forget there are no classes on Monday for Labor Day."
+
+Jordan rolled forward half a pace, set his wheel locks on the brick path, and looked up at Isabel with a grateful smile, opening his arms to give her a proper goodbye hug.
+
+Isabel beamed, stepping right beside his chair and leaning down to wrap her arm securely around his shoulders in a warm, platonic side-hug. "I'm so proud of how far you've come this week, Jordan," she murmured, giving his shoulder an affectionate squeeze before stepping back and waving to the whole pack. "See you guys back on the second floor tonight!"
+
+"Have a great class, Izzy!" Lauren and Aubrie called out as Isabel headed down the tree-lined path toward her lecture hall.
+
+Releasing his wheel locks, Jordan fell back into formation with his eight friends as they turned onto the walkway leading toward **Washington Street SW** and **Bennett Hall**. With the sun dipping toward the western ridge of the Blue Ridge Mountains, the evening air was cool and pleasant, and Jordan was enjoying the simple thrill of watching the campus streetlights flicker to life in crisp, starburst-free 20/20 clarity.
+
+Halfway along the walkway bordering the athletic practice fields, a group of four upperclassmen guys in reversible maroon-and-white **CPI Men's Lacrosse** practice pinnies and heavy equipment duffels came walking down the parallel path from the locker rooms, snickering loudly amongst themselves.
+
+Normally, seeing lacrosse gear anywhere near Lauren and Sarah would have put the entire group on instant, protective alert. Mark and Jessica immediately shifted half a step closer to the two girls on instinct.
+
+Except Tom Lawson wasn't with them—and through his newly calibrated behind-the-ear hearing aids, Jordan could hear every single word the four lacrosse players were saying as they passed within fifteen feet of the bench alcove.
+
+"Wait, are you serious?" one of the taller defensemen laughed, shaking his head as he adjusted his stick bag over his shoulder. "He still hasn't shown his face at the athletic complex?"
+
+"Bro, nobody's seen Tom on campus since Wednesday afternoon," the second player snorted, a stocky junior wearing a captain's band on his sleeve. "After Coach and the captains found out what went down at the Kincaid pool tables on Tuesday night—and then Housing sent over notice that he got himself officially barred from Bennett Hall for harassing two freshman girls—Coach called him into the office Wednesday morning and cut him from the roster on the spot. Told him to clean out his locker and hand in his playbook before noon."
+
+All nine friends on the main walkway slowed their pace to a near-crawl, listening in stunned silence as the lacrosse players kept talking down the path.
+
+"Good riddance, honestly," the third player said, zero sympathy in his voice. "Dude spent the whole first week bragging in the locker room like he was God's gift to campus, and the whole time he was two-timing two freshmen in the same dorm and acting like a creep. Coach said we don't keep guys like that in a Forgers jersey. The team took out the trash."
+
+"My buddy in his Thursday morning business recitation said Tom didn't even show up to class yesterday or today," the first player added, snickering again as their voices trailed off toward the athletic parking lot. "And his roommate over in Westgate Hall said Tom threw two days of clothes into a duffel bag Wednesday afternoon and bolted without saying a word. Didn't officially drop his classes, didn't check out with Housing or move any of his stuff out of his dorm room—just pulled a total no-call, no-show because he's too embarrassed to show his face at CPI. Addition by subtraction, man. The guy was bad news—it's for the best that he's gone."
+
+For three full seconds after the lacrosse players turned the corner toward the parking lots, nobody in Jordan's group made a sound.
+
+Lauren and Sarah stood completely still on the brick path, staring at each other with wide, disbelieving eyes. Then, all at once, the invisible, suffocating tension that both women had been carrying in their shoulders since Tuesday night—the quiet dread of rounding a corner on the quad or walking into a lecture hall and seeing Tom's sneering face—simply vanished into the warm evening air.
+
+"They kicked him off the team," Sarah breathed, a slow, astonished grin breaking across her face. "His own lacrosse team found out what a sleaze he was and threw him out on his ear!"
+
+"And he hasn't even been on campus," Lauren whispered, her hand flying to her chest as she let out a shaky, incredulous laugh of pure relief.
+
+They practically floated the rest of the way down the hill to the inner-campus entrance of **Bennett Hall**.
+
+Instead of taking the upper Washington Street SW entrance straight onto the second floor, Mark tapped his **Poly Pass** at the **First-Floor Lower Entrance** at the bottom of the hill so the whole nine-person crew could come in together and ride the central elevator up.
+
+Inside the warm, brightly lit **First-Floor Lobby**, working the Friday evening shift behind the curved oak **Front Desk**, was **Aaron Matthew Vance**—one of the **4th-Floor Male Resident Advisors** (`Room 401`, directly above Henry Walsh's room stack in the men's wing), a friendly senior in Civil Engineering wearing his maroon *CPI Residence Life* polo and a name badge reading **`AARON V. — RA FLOOR 4`**.
+
+"Evening, Aaron!" Mark and Hannah called out cheerfully as the group rolled past the desk toward the elevator alcove.
+
+Aaron glanced up from the desk duty logbook and flashed them a warm, easy grin, his eyes immediately catching Jordan's new frames. "Hey, guys! Happy Friday—and hey, Jordan, sharp glasses, man! Looking good!"
+
+Jordan beamed, lifting a hand from his push-rim to give Aaron a proud wave before tapping a quick thank-you nod as the elevator doors chimed open.
+
+Once all nine of them rode the elevator up to the second floor, rolled down the corridor past Isabel's whiteboard on `Room 215`, and filed into **Suite 214/216**—with the motorized arm pulling the heavy wooden door of `Room 214` shut and locking it automatically after its ten-second timer—Madison spun around in the center of the rug with her hands on her hips and a massive grin on her face.
+
+"So, interesting," Madison declared, looking around the circle of friends. "Tom is gone, huh? Kicked off the lacrosse team and hasn't even shown his face on campus in days. Great! One less thing to worry about!"
+
+"Deadset," Sarah laughed, dropping onto the edge of Aubrie's lower bunk and letting her head fall back against the wooden frame in utter relief. "I didn't even realize how much I was bracing myself every time I walked past Kincaid Hall until those blokes walked by. Knowing even his own teammates realized he was trash and tossed him out? I feel like I can finally breathe."
+
+"Me too," Lauren said softly, sitting down on the edge of Jordan's mattress (`Bed A`) right beside his wheelchair and resting her hand warmly over his forearm. Her brown eyes were bright and clear, completely unburdened for the first time all week. "It really feels like that chapter is completely over."
+
+Aubrie looked at Lauren's relaxed smile, then glanced at Madison and Zoë, a warm, intuitive understanding passing effortlessly between them.
+
+"Well," Aubrie said gently, smiling over at Lauren and Jordan, "after getting the best news of the week on the walk home, I think it's pretty obvious that tonight should be Lauren's turn to climb into bed with Jordan."
+
+Lauren's cheeks warmed with a soft, grateful flush as she looked at Aubrie, and then turned to Jordan. "Would that be okay with you tonight, J? Just to celebrate having zero toxic ex-boyfriends left on this campus?"
+
+Jordan didn't hesitate for a heartbeat. Smiling warmly at Lauren through his new glasses, he tapped his `NeoEdit` keyboard across his lap:
+
+<aac>I would love that, Lauren. I am so happy you and Sarah don't have to worry about him anymore.</aac>
+
+With the evening winding down after their big expedition to Christiansburg, the three members of the family who didn't live in Suite 214/216 began gathering their backpacks to head back to their own floors for the night.
+
+"Alright, brother," Mark said, stepping up to Jordan's chair and leaning down to wrap him in a solid, brotherly hug before high-fiving him. "Get some rest tonight. Tomorrow we've got a whole three-day weekend ahead of us."
+
+Sarah stepped up next, wrapping her arms around Jordan's neck in a fierce, affectionate hug and pressing a warm kiss to his cheek. "Night, J. And night, Lauren—sleep like a rock tonight, mate. We're free."
+
+Finally, six-foot-three Jessica stepped forward, leaning down with a gentle, protective smile to give Jordan a warm, steady hug that practically enveloped his entire wheelchair frame. "Goodnight, Jordan. Proud of you today, mate."
+
+Hannah gave Mark a lingering goodnight kiss at the door before pressing the square **PUSH TO OPEN** button on the interior wall. With a final chorus of goodnights, Mark headed toward the stairwell for `Room 312` on the third floor while Sarah and Jessica headed upstairs toward `Room 510` on the fifth floor, and the motorized door swung shut and clicked locked for the night.
+
+### Scene 8: Face to Face
+
+**Date:** 2014-08-29 at 20:30 America/New_York
+
+Once the hallway door clicked locked and Hannah, Lauren, and Zoë stepped through the connecting Jack-and-Jill bathroom into `Room 216` to change into their pajamas, the quiet, comforting rhythm of bedtime settled over `Room 214`.
+
+After a full Friday afternoon riding buses into Christiansburg, navigating two clinical exams, walking through Strickland Farm Shopping Center, and trekking back across campus from Kincaid Hall, Jordan needed to be cleaned up before heading to sleep.
+
+"Come on, J," Aubrie smiled warmly, gathering a stack of clean bath towels, his soft cotton sleep shirt and flannel pajama pants, and their shower caddy while Madison grabbed her own towel and pajamas from the foot of her bunk. "Let's go get washed up."
+
+Before they headed down the hall to the **Second-Floor Accessible Shower Room**, Jordan carefully removed his new prescription glasses and his behind-the-ear bridge hearing aids—tucking the hearing aids into their dehumidifying charging case on his nightstand so they would stay completely dry, though he kept his glasses on just until they reached the shower room so he could enjoy seeing the hallway on the way there.
+
+When the heavy wooden door of the spacious, single-occupant accessible shower room clicked shut and locked behind the three of them, Jordan set his glasses safely inside their hard velvet-lined LensWorks case on the dry roll-under vanity counter right beside his `Pinnacle Vanguard Pro`.
+
+Aubrie turned on the water in the wide, zero-threshold roll-in shower stall, adjusting the mixing valve until the tiles filled with rising, fragrant steam. Then, with the effortless, unhurried grace that had become part of their daily life, Aubrie and Madison helped Jordan out of his day clothes, slipped out of their own clothes without a trace of awkwardness or false modesty, and stepped under the warm spray together with him so all three of them could wash up.
+
+With his glasses and hearing aids safely tucked away on the dry counter outside the stall, the world inside the shower softened back into gentle, warm shapes and the soothing, rhythmic hush of falling water—and yet, for Jordan, the sensation couldn't have been more different from the eighteen years that had come before.
+
+Back in Virginia Beach—and on that final, suffocating night in the Merit Inn bathroom—being bathed by his mother had been an exercise in humiliation and rough, resentful control. Every scrub of a washcloth had been accompanied by a heavy, martyred sigh, a sharp complaint about his dead weight, or a reminder of what an exhausting burden he was on her life. And when he had first arrived at Bennett Hall, eighteen years of being opted out of every health class and shamed over his own biology had left him so terrified of the naked female body that the mere thought of being undressed around women had made his heart hammer in blind panic.
+
+Now, sitting in the warm, cascading water as Aubrie gently lathered warm soap across his shoulders and back while Madison massaged shampoo through his hair with soft, affectionate fingers, there wasn't a single trace of fear in his chest. Since Tuesday night's gentle, clinical *Dimensions of Human Sexuality* study session—when Aubrie, Madison, and Zoë had patiently demystified the human body and replaced his mother's weaponized shame with tenderness and scientific clarity—the terror had completely vanished. In its place was pure, grounding warmth, gentle laughter in the steam, and the unmistakable feeling of being cherished.
+
+When the water was turned off and Aubrie and Madison wrapped warm, dry cotton towels around his shoulders and dried off beside him before slipping into their pajamas and helping him dress in his clean sleep shirt and soft sweatpants, Jordan wheeled over to the roll-under vanity counter.
+
+Putting his new glasses back on his nose and slipping his bridge hearing aids briefly behind his ears so he could hear their voices clearly, Jordan pulled his `Pinnacle Vanguard Pro` toward him on the dry counter. His heart was so full he couldn't wait until they got back to the room.
+
+His fingers moved gently across the keys in `NeoEdit`, and he pressed execute on `EchoType`:
+
+<aac>Thank you both for helping me wash up tonight. I am just so glad that you never think of me as a burden. And I am so glad that I am no longer terrified of the naked female body, so that the women in my life can bathe me without me being scared anymore.</aac>
+
+In the warm, steam-softened glow of the accessible bathroom, both Aubrie and Madison stopped what they were doing.
+
+Madison's bright blue eyes misted over instantly. Setting her hairbrush down on the counter, she stepped right up beside Jordan's chair, wrapped her arms tenderly around his neck, and pressed a warm, lingering kiss to the top of his clean, damp hair.
+
+"Jordan, you will *never* be a burden to us," Madison whispered fiercely against his temple. "Not today, not tomorrow, not ever. Taking care of you is one of my favorite parts of the day."
+
+Aubrie knelt down right in front of his wheelchair, taking both of his hands in hers and looking straight into his green eyes behind his glasses.
+
+"Seeing you feel safe in your own skin—and safe with us—is the greatest gift in the world, J," Aubrie said softly, lifting his knuckles to press a tender kiss against them. "You never have to be scared with us again."
+
+Five minutes later, the three of them rolled quietly back down the second-floor corridor and into **Room 214**.
+
+Through the open connecting bathroom door, **Lauren** stepped in from `Room 216`, dressed in a soft oversized graphic-design t-shirt and plaid pajama shorts, her long reddish-brown hair brushed loose over her shoulders. Behind her, Hannah and Zoë poked their heads in to wish everyone goodnight and exchange their final bedtime hugs before closing the connecting door to turn in for the night.
+
+In `Room 214`, Jordan rolled alongside the head of his accessible Twin XL bed (`Bed A`). He carefully took off his new glasses and bridge hearing aids, placing both neatly inside their protective cases on the nightstand within easy arm's reach, and executed a smooth, practiced pivot transfer onto the mattress.
+
+Normally, whenever Aubrie, Madison, or Lauren shared his narrow Twin XL bed, Jordan slept **spooned**—curled on his side with his back pressed against whoever was holding him as the little spoon, or facing the wall while an arm draped protectively over his waist.
+
+Tonight, as Lauren slid under the warm comforter beside him, something quietly, beautifully new happened.
+
+Jordan shifted his shoulders back until his spine was pressed securely against the cool, solid cinderblock wall along the inside of `Bed A`—and instead of turning his back to be spooned, **he stayed facing outward toward Lauren**.
+
+Lauren smiled softly in the dim amber glow of the campus streetlight filtering through the window blinds. Lying on her side facing him, she scooted right into the warm space against his chest, wrapping her arms around his torso as Jordan brought his arm tenderly around her shoulders.
+
+For the first time, they were cuddled up **face to face**—their foreheads resting barely an inch apart on the shared pillow, breathing the same quiet air, able to look directly into each other's eyes with zero walls and zero fear between them.
+
+"Goodnight, J," Lauren whispered softly, her fingers resting warmly over his collarbone as she closed her eyes with a peaceful sigh.
+
+Across the small room, before Madison climbed the wooden ladder to `Bed C` and Aubrie pulled the comforter up over her shoulders in `Bed B`, the two roommates paused and looked over at the accessible bed along the wall—watching Jordan and Lauren cuddled up face to face in complete, serene contentment.
+
+Aubrie and Madison looked at each other and shared a warm, glowing smile in the half-dark. There wasn't a flicker of envy or hesitation anywhere between them—only pure joy, because the no-jealousy pact they had built was working exactly as designed.
+
+"Goodnight, everyone," Aubrie whispered softly as she clicked off the bedside lamp.
+
+"Goodnight, suite family," Madison murmured from the top bunk.
+
+With his back anchored against the wall and Lauren warm and safe in his arms, Jordan closed his eyes and drifted effortlessly to sleep.
+
 ## Monday Night War
 
 ### Scene 1: Strategic Analysis
@@ -3879,13 +4121,15 @@ Even the women in the group who had never watched a single minute of **American 
 
 "Alright, troop, let's roll," Aubrie announced, stepping behind Jordan's chair with a bright smile. "I want to claim our couch cluster in the lobby before the third-floor engineering majors beat us to it."
 
-### Scene 2: The Unbeliever
+### Scene 2: The Main Event
 
 **Date:** 2014-09-01 at 20:15 America/New_York
 
-The first-floor main lobby of Bennett Hall was buzzing with weeknight energy, but the nine-person crew had arrived with ten minutes to spare, successfully claiming their favorite territory: a U-shaped cluster of deep, mismatched leather sofas arranged around the lobby's sixty-inch wall-mounted television.
+The first-floor main lobby of Bennett Hall was buzzing with Labor Day evening energy, and the nine-person crew had arrived with ten minutes to spare—successfully claiming their favorite territory: a U-shaped cluster of deep, mismatched leather sofas arranged around the lobby's sixty-inch wall-mounted television.
 
-On the screen, the pyrotechnics of **AWE Monday Night WAR** were in full swing. Suddenly, the arena lights on the broadcast cut to a smug, corporate spotlight, and a crushing, downtuned arena-metal guitar riff and heavy stomping drumbeat blasted through the lobby speakers:
+On the screen, the pyrotechnics of **AWE Monday Night WAR** were in full swing. For the very first time in his life, Jordan wasn't watching a wrestling broadcast by squinting from two inches away at a grainy laptop stream with muffled audio. Through his new rectangular prescription glasses and calibrated behind-the-ear hearing aids, every detail on the sixty-inch screen across the rug was razor-sharp, and the roar of the television crowd blended effortlessly with the laughter of his friends around him.
+
+Suddenly, the arena lights on the broadcast cut to a smug, corporate spotlight, and a crushing, downtuned arena-metal guitar riff and heavy stomping drumbeat blasted through the lobby speakers:
 
 *"I'm in control! (I own the board, I own the ring!) I'm in control! (I pull the strings on everything!) Welcome to the bottom line, where every single cent is mine!"*
 
@@ -3893,39 +4137,29 @@ A chorus of theatrical groans and boos erupted from the couch cluster as AWE Gen
 
 "Oh, somebody please put that bloke through an announce table!" Sarah shouted in her thick Sydney accent, tossing a single piece of popcorn at the screen while Jessica, sitting beside Madison on the left sofa, chuckled deeply.
 
-For Jordan, the scene around him was a portrait of pure, unimaginable bliss. Rather than staying in his wheelchair at the edge of the rug, Mark and Aubrie had helped him transfer onto the center cushion of the main sofa, with his folded manual chair parked neatly beside the armrest and his `Vanguard Pro` resting on the coffee table in front of him.
+For Jordan, the scene around him was a portrait of pure, unimaginable bliss. Rather than staying in his wheelchair at the edge of the rug, Mark and Aubrie had helped him transfer onto the center cushion of the main sofa, with his folded manual chair parked neatly beside the armrest and his `Pinnacle Vanguard Pro` resting on the coffee table in front of him.
 
 His left arm was wrapped comfortably around Sarah, who was leaning warmly against his side. His right arm was draped around Lauren, who had her head resting contentedly on his shoulder. On the left sofa, Aubrie, Madison, Zoë, and Jessica were curled up under a fleece throw blanket, heckling Marcus Sterling on the broadcast. On the right sofa, Hannah and Mark were cuddled together over a giant bowl of popcorn.
 
-It was into this exact scene that Tom Lawson walked.
+Less than a week ago, both Lauren and Sarah had been walking on eggshells inside their own dorm, dreading the next manipulative text message or hallway ambush from a boy who treated relationships like secret territory to be hoarded and controlled. Now, with Tom gone from campus in disgrace, the two women sat side by side on the exact same couch with Jordan between them, more relaxed and unburdened than either of them had looked since arriving in Blacksburg.
 
-Standing five-foot-two in his CPI lacrosse windbreaker, Tom had been visiting a teammate on the fourth floor and was cutting through the first-floor lobby toward the vending machines when he glanced toward the television Lounge—and stopped dead in his tracks.
+Across the coffee table on the adjacent sofa, Aubrie was laughing, her head tilted back in pure delight at a one-liner Zoë had just deadpanned about Marcus Sterling's haircut.
 
-His brain visibly short-circuited.
+Catching Jordan's eye across the rug, Aubrie didn't stiffen or feel a single flicker of territorial insecurity at seeing Lauren and Sarah tucked under his arms. Instead, she looked straight at Jordan, Lauren, and Sarah, and gave the three of them a radiant, loving smile and a subtle thumbs-up.
 
-Through the crisp lenses of his new glasses, Jordan spotted Tom frozen near the vending alcove, though Jordan didn't tense or flinch. He simply watched as Tom's eyes locked onto Lauren—*his* Lauren, as Tom's bruised ego still thought of her—tucked peacefully under the right arm of the guy from the wheelchair, looking happier and more relaxed than Tom had ever seen her.
-
-Then Tom's gaze snapped to the other side of Jordan's chest. And the color drained completely from Tom's face.
-
-It was Sarah. *His* Sarah. His two ex-girlfriends—the two women he had spent months lying to, manipulating, and playing against each other—were sitting side by side on the exact same couch, cuddling with the exact same guy. To Tom's transactional, zero-sum mind, the visual was mathematically impossible.
-
-Tom's eyes darted frantically to the adjacent sofa, searching for the dark-haired girl from Kincaid Hall—Aubrie, Jordan's actual girlfriend. Surely *she* was furious. Surely *she* was about to explode in a jealous rage.
-
-Instead, Aubrie was laughing, her head tilted back in pure delight at a one-liner Zoë had just deadpanned about Marcus Sterling's haircut.
-
-As if sensing Tom's stare across the lobby, Aubrie glanced over at the center sofa. She didn't glare. She didn't stiffen. She looked straight at Jordan, Lauren, and Sarah, and gave the three of them a radiant, loving smile and a subtle thumbs-up.
-
-At that exact second, Lauren lifted her head from Jordan's shoulder and pressed a soft, affectionate kiss right to the corner of his jaw. On his left, Sarah let out a contented sigh and snuggled even deeper against his side, resting her hand over his chest.
+At that exact second, Lauren lifted her head from Jordan's shoulder and pressed a soft, affectionate kiss right to the corner of his jaw. On his left, Sarah let out a contented sigh and snuggled even deeper against his side, resting her hand warmly over his chest.
 
 And Aubrie just beamed—her hazel eyes shining with pure, unselfish joy. There was no possessiveness. There was no competition. There was only blessing.
 
-Across the tile floor by the vending machines, Tom looked like he was struggling to draw oxygen. His entire worldview was built on ownership, secrecy, and jealousy; he was staring into a fortress of open, unconditional trust that he could neither comprehend nor poison. His small fists clenched at his sides, a strangled, silent flush creeping up his neck, and without ever putting his dollar bill into the vending machine, he spun on his heel and bolted out the front glass doors of Bennett Hall into the night.
+On the television screen, just as **Jaxson "The Outlaw" Vance** hoisted **"The Blueprint" Silas Thorne** up for his finishing slam in the center of the ring, Marcus Sterling frantically signaled toward the entrance ramp—sending the four-hundred-pound enforcer **Avalanche** charging down the aisle to smash the referee's count and trigger a chaotic disqualification.
 
-On the center couch, Sarah glanced toward the swinging glass door, smirked, and tapped Jordan's keyboard on the coffee table so he could type.
+"Called it!" Mark groaned, throwing his hands in the air as popcorn flew. "Jordan literally called that exact finish upstairs twenty minutes ago!"
 
-Jordan didn't even need `EchoType` for the whole lobby. He typed a single line in bright neon-green letters on his `NeoEdit` screen for the couch cluster to read:
+On the center couch, Sarah grinned and tapped the edge of Jordan's `Vanguard Pro` on the coffee table so he could type.
 
-<aac>I think Marcus Sterling just lost a fan.</aac>
+Jordan didn't even need `EchoType` for the whole lobby. Leaning forward slightly with Lauren and Sarah still tucked warmly against his sides, he typed a single line in bright neon-green letters on his `NeoEdit` screen for the couch cluster to read:
+
+<aac>Told you. Never bet against corporate interference on a Monday night.</aac>
 
 ## Trial by Fire Drill
 

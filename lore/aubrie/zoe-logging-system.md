@@ -92,6 +92,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 * **`System.Admin(HallDirector_Kelsey)`** / **`Agent(Kelsey)`** — **Kelsey Morgan Brennan** (Bennett Hall Director, Room 104; administrator of Jordan’s `FERPA` directory suppression, Housing lockdown, and `Node(Bennett_Hall.Room104.Safe_Place)`).
 * **`System.Admin(RA_Isabel)`** / **`Agent(Isabel)`** — **Isabel Claire Dawson** (2nd-Floor Female RA, Room 215; executes `'Protocol: Platonic_Greeting.Hug'` with Jordan; older sister to `Agent(Elena_Dawson)`).
 * **`System.Admin(RA_Henry)`** / **`Agent(Henry)`** — **Henry Thomas Walsh** (2nd-Floor Male RA, Room 201; corridor boundary enforcer and acoustic guitar peer mentor).
+* **`System.Admin(RA_Aaron)`** / **`Agent(Aaron)`** — **Aaron Matthew Vance** (4th-Floor Male RA, Room 401; Civil Engineering senior & 1st-Floor Lobby Front Desk duty RA).
 * **`Agent(Elena_Dawson)`** — **Elena Dawson** (Isabel’s younger autistic and selectively mute sister; catalyst for Isabel’s trauma-informed fluency with Jordan’s AAC).
 * **`Agents(Suite_510)`** — The remaining four suitemates in Bennett Hall Room 510 alongside Sarah and Jessica:
   * **`Agent(Ashley)`** — Ashley (Room 510 suitemate)
@@ -134,7 +135,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 #### 4. Hostile External Threats (`Hostile_Agent.*` — Blocked by System Firewall)
 * **`Hostile_Agent.AubrieSinclair`** — **Aubrie Renee Sinclair** (Jordan’s abusive biological mother; origin of `AubrieSinclair.LegacyScript.dll`; permanently blocked via FERPA lockdown, Trespass Bar, and Permanent Protective Order).
 * **`Hostile_Agent.Davies`** — **Mr. Davies** (Aubrie Sinclair’s legal counsel during the fraudulent competency/guardianship petition in Montgomery County Circuit Court).
-* **`Hostile_Agent.TomLawson`** — **Tom Lawson** (Bennett Hall resident flagged as an ideological/ableist boundary violator).
+* **`Hostile_Agent.TomLawson`** — **Tom Lawson** (Westgate Hall resident and former CPI lacrosse player flagged as an ideological/ableist boundary violator; barred from Bennett Hall in `e001/c007/s007.md`, cut from the lacrosse team, and pulls an academic no-call, no-show without officially dropping his classes or moving out of his dorm room).
 * **`Hostile_Agent.Alex`** — **Alex** (Megan Brooks’s toxic former coworker in Book 2).
 
 ### D. Canonical Geographic, Campus, & Transit Nodes (`Node(...)` & `[...]`)
@@ -143,6 +144,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
   * **`Node(Bennett_Hall.Room104.Safe_Place)`** — Hall Director Kelsey Brennan’s 1st-floor office (designated administrative safe harbor).
   * **`Node(Bennett_Hall.Room215)`** — RA Isabel Dawson’s single room across the staggered isosceles hallway.
   * **`Node(Bennett_Hall.Room201)`** — RA Henry Walsh’s room in the opposite 2nd-floor wing.
+  * **`Node(Bennett_Hall.Room401)`** — RA Aaron Vance’s room in the 4th-floor men's wing.
   * **`Node(Bennett_Hall.Room510)`** — 5th-floor six-person suite (Sarah, Jessica, Ashley, Emily, Cassie, Chloe).
   * **`Node(CPI.Campus)`** / **`Node(CPI)`** — Commonwealth Polytechnic Institute main campus (`Node(CPI.Torgersen_Hall)`, `Node(CPI.McBryde_Hall)`, `Node(CPI.Patton_Hall)`, `Node(CPI.Dietrick_Dining)`, `Node(CPI.The_Furnace)`, `Node(CPI.Transit_Center)`).
 * **New River Valley & Roanoke Regional Nodes (`Virginia`)**:
