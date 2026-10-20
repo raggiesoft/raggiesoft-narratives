@@ -41,3 +41,21 @@
 * **Jordan's Undiagnosed Autism in Early Fall 2014 & Safe People List:**
   * Because Aubrie Sinclair did not believe in doctors or vaccines and never took Jordan to a physician or psychologist in his entire life, at the start of Fall 2014 (`e001`), **Jordan does not yet know that he is autistic** (so his internal POV should never use clinical self-labels like "autistic meltdown" prior to his formal discovery/diagnosis).
   * The **Fire Drill** (`c011/s003.md`) is the pivotal moment that cements Jordan's trust in his RA, **Isabel Dawson**, to the point where he officially adds her to his inner list of **Safe People**. Even after the all-clear when heading back into Room 214 (`c011/s003.md`–`s004.md`), Jordan remains visibly shaken up with dried tears, lingering fresh tears, and the quiet hitching sniffles of crying that is trying to subside.
+
+## 6. Zoë Wren Brooks's Autistic Cognitive Logging System (`ZOË.Systems.Logs` — Full Spec in `raggiesoft-narratives/lore/aubrie/zoe-logging-system.md`)
+
+* **Neurodivergent Architecture (Diagnosed Since Infancy):** Zoë Wren Brooks has been formally diagnosed as autistic since she was an infant and has **always** processed her internal thoughts, sensory/emotional telemetry, and logistics like a C#/.NET application writing to a structured runtime log. While Jordan's crashes come from conflicting rules (`System.IO.FileNotFoundException()` against `AubrieSinclair.LegacyScript.dll`) and Aubrie Kelly's come from sensory volume (`100`), Zoë's processor spikes when a system is **inefficient, illogical, unscripted, or chaotic** (which is why coding **`Fin#`** and **`Z-SOX-302`** calms her down).
+* **Timeline & Disclosure Constraint:** At Freshman Fall Break (`October 2014`, `e001/c014`–`c015`), Zoë **simply has not disclosed her lifelong autism diagnosis to her friends yet**; do **not** insert `ZOË.Systems.Logs.*` blocks prior to her autism disclosure arc (and when porting her disclosure scene from `aubrie-old.docx`, ensure she is disclosing her lifelong infant diagnosis rather than wondering for the first time if she is autistic).
+* **The 5 Canonical Log Streams:** Every log line must start with `ZOË.Systems.Logs.<StreamName>:` using one of the five streams:
+  1. `ZOË.Systems.Logs.KernelLog:` (core cognitive processor, `Hypothesis:`, `Analysis:`, `Conclusion:`, `.dll`/`.dat` script lookups, `System.IO.FileNotFoundException()`, `WARNING:`, `CRITICAL ERROR:`, `CRITICAL ALERT:`)
+  2. `ZOË.Systems.Logs.EmotionalStateLog:` (affective telemetry, heart/skin responses, `'High_Gratification'`, `'Love(Jordan)' == True`, `Re-classifying 'Self' from 'Pact.Member' to 'Jordan.SafePerson.Absolute'`)
+  3. `ZOË.Systems.Logs.SystemSchedulerLog:` (executive function, thread priority recalculations, transit routing, and node tracking: `Node(CPI.Campus)`, `Node(Geneva.Street)`, `Node(Star City.Roanoke)`)
+  4. `ZOË.Systems.Logs.ActionLog:` (physical/motor execution and grounding interventions: `Execute: ContinueCuddle(Jordan)`, `Executing 'Protocol: Comfort.Hug'`, `Executing 'Protocol: Emergency_Grounding'`)
+  5. `ZOË.Systems.Logs.InternalStateLog:` (long-term somatic/biological self-monitoring)
+* **Fixed Concurrency Thread IDs:**
+  * `Thread 1 (Self)` — Zoë Wren Brooks (`Agent(Self)`)
+  * `Thread 2 (Observers)` (or `Thread 2 (Aubrie)`, `Thread 2 (Madison)`) — Observing Pact members
+  * `Thread 3 (Jordan)` — `Jordan.OS` / `Agent(Jordan)` / `agentJordan`
+  * `Thread 4 (Mark)` — Mark Anderson (`Agent(Mark)`)
+  * `Thread 5 (Hannah)` — Hannah Miller (`Agent(Hannah)`)
+* **Parser & Syntax Highlighting Support (`stardust-parsedown.php` & `oliver.php`):** Consecutive `ZOË.Systems.Logs.*` paragraphs (or blocks wrapped in `<zoe-log>...</zoe-log>` / `<kernellog>...</kernellog>` / ```` ```zoe-log ````) are automatically grouped and rendered with full WCAG 2.1 AAA Light/Sepia/Dark C#/.NET syntax highlighting and right-aligned `MM-DD-YYYY HH:MM:SS` timestamp pills.
