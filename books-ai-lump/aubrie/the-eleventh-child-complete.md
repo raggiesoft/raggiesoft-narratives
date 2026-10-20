@@ -4302,11 +4302,19 @@ In that moment, looking around at the fierce, protective faces of Lauren, Aubrie
 
 **Date:** 2014-09-27 at 22:30 America/New_York
 
-The screen of Jordan's `Vanguard Pro` was finally closed, his raw confession and his friends' promises still hanging in the quiet, protective warmth of Room 214. The sheer emotional exhaustion of the day—the morning hype, the stadium collapse, the retreat, and the outpouring of eighteen years of hidden truth—had left everyone in the suite bone-tired. It was time for sleep.
+Before closing the lid of his `Vanguard Pro`, Jordan's tired fingers tapped out one last request at the bottom of the `NeoEdit` window while looking up at Isabel and Henry:
+
+*Can you two tell Kelsey everything I wrote tonight? You can send her this file too. Please CC me on the email so I can see that it went through.*
+
+"Of course we will, Jordan," Isabel promised softly, her voice thick with emotion. "Are you sure you're comfortable with Kelsey reading the actual document you typed?"
+
+Jordan gave a firm, deliberate nod. Remembering how Kelsey had helped carry his heavy boxes up to Room 214 on Move-In Day after his mother abandoned him—and how she had respected his space after the fire drill—he wanted the Hall Director of Bennett Hall to know the whole truth too. With a few quick keystrokes, he saved the raw `NeoEdit` buffer as `jordan_fuller_statement_2014-09-27.txt`, forwarded the text file to Isabel's CPI address, and finally closed the lid of his `Vanguard Pro`.
+
+The sheer emotional exhaustion of the day—the morning hype, the stadium collapse, the retreat, and the outpouring of eighteen years of hidden truth—had left everyone in the suite bone-tired. It was time for sleep.
 
 Isabel and Henry were the first to prepare to step back out into the corridor, accompanied by Mark and Sarah, the two members of the Group of 8 who lived outside the suite. Isabel leaned down to give Jordan a gentle, reassuring hug, while Henry clapped a warm hand on his shoulder.
 
-"I'm right across the hall in 215, and Henry's just down in 201," Isabel whispered softly. "Your door locks automatically the second it closes, and we're keeping watch all weekend. Get some sleep, Jordan."
+"Henry and I are going straight across the hall to 215 right now to write Kelsey together and attach your file, with you CC'ed," Isabel whispered softly. "I'm right across the hall in 215, and Henry's just down in 201. Your door locks automatically the second it closes, and we're keeping watch all weekend. Get some sleep, Jordan."
 
 Mark rested a firm, brotherly hand on Jordan's shoulder, and Sarah gave him a gentle squeeze on the arm, their quiet goodbyes a promise that they would be back bright and early in the morning. Mark pressed the square **PUSH TO OPEN** handicap button on the interior wall, and the four of them stepped out into the quiet hallway as the ten-second timer counted down and the heavy wooden door swung shut, clicking locked automatically behind them.
 
@@ -4333,6 +4341,98 @@ Jordan transferred from his wheelchair onto the mattress of Bed A. For a few sec
 Then the mattress dipped beside him as Aubrie climbed in under the covers. A dorm Twin XL was never designed to hold two adults, but neither of them cared about the cramped inches. Aubrie immediately turned onto her side behind him, becoming the big spoon. She draped her arm securely over his waist, pulling his back flush against her chest and resting her chin on his shoulder—turning her own body into a warm, living shield between him and the dark.
 
 Jordan let out a long, shuddering breath he felt like he had been holding since kickoff. His mind was quiet, his body exhausted, and his heart profoundly grateful for Zoë's promise, Lauren's radical hospitality, Isabel and Henry's watchfulness, Madison's warmth, and Aubrie's unwavering embrace. He was still scared of what his mother might do next—but he was no longer alone. Closing his eyes, he sank back into Aubrie's arms and fell asleep.
+
+### Scene 9: Interlude: Overnight Desk Duty
+
+**Date:** 2014-09-27 at 22:40 America/New_York
+
+Across the quiet second-floor corridor from Suite 214/216, **Isabel Dawson** tapped her Poly Pass to the reader on Room 215 and pushed the door open, gesturing for **Henry Walsh** to step inside with her. Once they had wished Mark and Sarah a quiet goodnight at the stairwell doors, neither of the second-floor Resident Advisors had any intention of going to sleep before fulfilling the promise they had just made to Jordan.
+
+Isabel sat down at her desk and woke her laptop, while Henry pulled her spare wooden study chair up beside her. Both of them were still visibly shaken by what they had just read on the glowing green screen of Jordan's `Vanguard Pro`.
+
+"I still can't wrap my head around it, Izzy," Henry said quietly, scrubbing a hand over his jaw as he stared at the screen. "Last Friday night during the fire drill... when he was screaming and holding onto his desk for dear life, he actually thought his own mother had pulled the building fire alarm to flush him out of a locked dorm room and kidnap him back to Virginia Beach."
+
+"And for eighteen years she never once took him to a doctor, never let him have glasses or hearing aids, and forced him to use her own name so he couldn't even be his own person," Isabel murmured, her voice tight with a mixture of heartbreak and cold, protective fury. She opened her encrypted **CPI Residence Life Staff Mail** client and downloaded the plain-text file Jordan had just forwarded from his laptop: `jordan_fuller_statement_2014-09-27.txt`.
+
+"He asked us to tell Kelsey everything he typed tonight, and he gave us permission to attach the text file," Henry said, leaning in over her shoulder as Isabel opened a new message window. "Make sure you put Jordan in the `CC` line like he asked so he sees it went through."
+
+"Putting him and you both on `CC` right now," Isabel said, typing carefully as she and Henry drafted the message together:
+
+> **To:** Kelsey Brennan, Residence Director (Bennett Hall) `<kbrennan@cpi.edu>`
+> **From:** Isabel Dawson, Resident Advisor (Floor 2) `<idawson@cpi.edu>`; Henry Walsh, Resident Advisor (Floor 2) `<hwalsh@cpi.edu>`
+> **CC:** Henry Walsh `<hwalsh@cpi.edu>`; Jordan Fuller (Room 214) `<jfuller@cpi.edu>`
+> **Date:** Saturday, September 27, 2014 — `22:46 EDT`
+> **Subject:** CONFIDENTIAL (Sent at Jordan’s Request) — Full Disclosure on Suite 214/216 & Jordan’s Statement
+> **Attachment:** `jordan_fuller_statement_2014-09-27.txt` (`14.2 KB` — Plain Text Document exported from `NeoEdit`, attached with Jordan's explicit permission)
+>
+> Kelsey,
+>
+> Henry and I are writing this together from Room 215 right after leaving Suite 214/216. We are sending this **at Jordan’s direct request and with his explicit permission**, and we have CC’ed Jordan on this email so he can see that it went through to you. With his permission, we have also attached the exact `.txt` document (`jordan_fuller_statement_2014-09-27.txt`) that he typed on his laptop screen tonight so you can read his words firsthand.
+>
+> Remember how you told us after last Friday’s fire drill not to pry into why Jordan panicked at the open door, because when he was ready to tell his story, he needed to do it on his own terms? Tonight, after the Homecoming football game, Jordan chose to tell his story for the very first time in his life—to his suitemates, Mark, Sarah, Henry, and me—and he asked us to share all of it with you.
+>
+> Here is what happened tonight and what Jordan typed on his screen for us:
+>
+> 1. **Why the Homecoming Game Triggered a Collapse:** When CPI lost badly to Virginia Dominion University today, Jordan had a severe emotional collapse at the stadium and again when we got back to Room 214 and took down the door decorations. None of us realized it until tonight, but Jordan grew up in Virginia Beach right next to Norfolk. Because his mother, **Aubrie Sinclair**, kept him in near-total isolation for eighteen years, he didn't even know VDU ("Norfolk") was right next door to his hometown until he saw it at the stadium. To him, watching "Norfolk" crush CPI on the scoreboard felt like his mother’s world reaching into Blacksburg to crush his one chance at freedom—confirming her threat on Move-In Eve that he would fail within weeks and have to be dragged back to Virginia Beach.
+> 2. **Eighteen Years of Medical Neglect & Coercive Control:** In his attached statement, Jordan explains that his mother never once took him to a doctor or psychologist, refused to let him have prescription glasses or hearing aids, and forced him to go by her own first name (*Aubrey*) as an extension of herself. Every day of his life, she conditioned him to believe that his physical disability and non-verbal communication made him a hopeless, unbearable burden whom nobody else could ever love or tolerate.
+> 3. **The Real Reason He Refused to Leave Room 214 During the Fire Drill:** This is the part that broke everyone in the room tonight. Jordan typed that he didn't know colleges held scheduled fire drills. Because Room 214 stays automatically locked from the hallway, when the fire alarm went off last Friday night and the door opened, **Jordan genuinely believed his mother was standing outside Bennett Hall and had pulled the fire alarm on purpose to force him out of the locked room so she could grab him and take him back to Virginia Beach.** That was why he clung to his desk screaming in terror until I showed him the printed EHS drill schedule.
+> 4. **Jordan’s Explicit Wish:** At the very end of his statement on the screen, Jordan typed: *"If we can help it, I never, ever want to see my mother again."*
+>
+> Lauren, Aubrie, Madison, Zoë, Hannah, Mark, and Sarah were unbelievable tonight, Kelsey. Lauren shared her own childhood story of growing up in Gander, Newfoundland during 9/11 to show Jordan he will never be a burden here, and Aubrie and Madison have him settled safely in Room 214 for the night. Henry and I promised him that Room 214 is a fortress and that Aubrie Sinclair will never get past us or you.
+>
+> Please read his attached text document when you see this. We wanted you to have the complete truth tonight, just as Jordan asked.
+>
+> — **Izzy & Henry**
+
+Isabel looked at Henry. "Ready?"
+
+"Send it," Henry said softly.
+
+Isabel clicked **Send**. Across the hallway in the quiet dark of Room 214, resting on the desk beside Jordan's charging `Vanguard Pro` while Jordan lay curled safely in Bed A with Aubrie's arm draped over his waist, his mPhone gave a single, whisper-quiet vibrate as the CC'ed copy arrived in his inbox—confirming that his truth had officially reached the Hall Director of Bennett Hall.
+
+Back in Room 215, Isabel and Henry expected they wouldn't hear back until Sunday morning. What neither of them had realized was that because tonight was Homecoming Saturday—and Kelsey had wanted her undergraduate desk workers and RAs to enjoy the game and the post-game evening without pulling a graveyard shift—**Kelsey Brennan was personally working the overnight front desk duty shift** down in the first-floor lobby of Bennett Hall.
+
+Less than four minutes after Isabel clicked send, after Kelsey had read every single line of both the email and Jordan's attached `.txt` file at the front desk terminal, an incoming **Reply All** chimed on Isabel's laptop, Henry's phone, and Jordan's CC'ed inbox:
+
+> **To:** Jordan Fuller (Room 214) `<jfuller@cpi.edu>`; Isabel Dawson, Resident Advisor (Floor 2) `<idawson@cpi.edu>`; Henry Walsh, Resident Advisor (Floor 2) `<hwalsh@cpi.edu>`
+> **From:** Kelsey Brennan, Residence Director (Bennett Hall) `<kbrennan@cpi.edu>`
+> **Date:** Saturday, September 27, 2014 — `22:50 EDT`
+> **Subject:** Re: CONFIDENTIAL (Sent at Jordan’s Request) — Full Disclosure on Suite 214/216 & Jordan’s Statement
+>
+> Jordan, Izzy, and Henry,
+>
+> Tonight is my night for overnight front desk duty down here in the first-floor lobby, so your email came across my screen the second you sent it. I just finished reading Izzy and Henry’s message and every single word of your attached text document, Jordan.
+>
+> **Jordan—I am writing this first part directly to you, whether you read it tonight or tomorrow morning when you wake up:**
+>
+> Thank you from the bottom of my heart for trusting me with your story and giving Izzy and Henry permission to send me your document. I want to put this in writing so you have it from the Residence Director of Bennett Hall: **You are safe here. Commonwealth Polytechnic Institute is your home, Room 214 is your sanctuary, and you are NEVER going back to that house in Virginia Beach.**
+>
+> What I saw on Move-In Day when your mother dropped you off in under two minutes bothered me deeply, and when Izzy told me how terrified you were of crossing the unlocked threshold during last Friday’s fire drill, I knew someone had hurt you badly. Reading your words tonight broke my heart, Jordan—especially knowing you thought your mother had pulled the fire alarm outside to take you away. Listen to Lauren, listen to Aubrie and your suitemates, and listen to me: you are not a burden. You are an extraordinarily brave, brilliant young man, and having you in Bennett Hall is an honor for all of us.
+>
+> Effective this exact minute from the front desk terminal, I have placed a **Level-1 Residence Life Security & FERPA Directory Lockdown** on your housing file:
+> - If **Aubrie Sinclair** ever calls Residence Life or walks into the lobby of Bennett Hall, our system cannot even confirm that you live in this building.
+> - Nobody—not a parent, not a relative, not a lawyer—is permitted past this front desk or onto Floor 2 without your explicit written authorization. Since I am sitting right here at the front desk all night tonight, I promise you personally that nobody is setting foot in this lobby who doesn't belong here.
+>
+> **One important protective step for next week (Campus Police):**
+> Jordan, Izzy, and Henry—to my knowledge, **Jordan has not been to CPI Campus Police yet to make a formal statement that he is cutting off contact with his mother.**
+>
+> Because you are eighteen years old and a legal adult, Jordan, you have every right to cut off contact with your mother completely. However, in my experience in Residence Life, when controlling parents realize they have lost access to their adult child, their favorite tactic is to call the police and demand a "welfare check" or claim their son is "missing" or "incapacitated."
+>
+> We can shut that tactic down before she ever tries it. Whenever you feel rested and ready this coming week, Jordan, I would like to help you file a proactive **Voluntary Adult No-Contact & Safe-Status Statement** with the **CPI Police Department**. You haven't done that yet, and having it on file with Campus Police means that if your mother ever calls dispatch from Virginia Beach, the officers will immediately see your verified statement on their screen—confirming that you are safe, of sound mind, thriving at CPI, and want zero contact with Aubrie Sinclair—and they won't even have to knock on Door 214. We can attach the exact `.txt` file you wrote tonight right to your police file so you don't have to re-type a single painful word, and you can bring Aubrie, Madison, Lauren, Zoë, or whomever you want from your group right into the room with you.
+>
+> For tonight, Jordan, don't worry about a single thing. I am on watch down here at the front desk all night, Izzy and Henry are right outside your door on Floor 2, and your found family has you surrounded. Rest easy tonight.
+>
+> Izzy and Henry—thank you both for being the exact kind of RAs who made Jordan feel safe enough to finally tell the truth.
+>
+> — **Kelsey Brennan, M.Ed.**
+> Residence Director, Eleanor Bennett Commonwealth Hall
+> *Overnight Front Desk Watch — Desk Ext. `4-2100`*
+
+In Room 215, Isabel and Henry read Kelsey's reply from top to bottom. When they reached the paragraph about going to Campus Police to proactively block any bogus welfare-check or missing-person calls from Virginia Beach, Henry let out a slow, relieved breath and tapped the screen with his knuckle.
+
+"That's why Kelsey runs this building," Henry said quietly. "Jordan hasn't been to Campus Police yet to put a no-contact statement on the record. Once he files that with CPI PD next week, his mother won't even be able to use the police to rattle his door."
+
+"And look at how she wrote directly to him at the top so he sees it the second he checks his phone," Isabel said softly, wiping a tear from the corner of her eye as she saved a backup copy of `jordan_fuller_statement_2014-09-27.txt` into the encrypted Residence Director case folder. "He's really free, Henry. For the first time in his life, the whole building has his back."
 
 # A New Winter Break Tradition
 
