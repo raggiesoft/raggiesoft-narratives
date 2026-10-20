@@ -58,7 +58,86 @@ When his mother unlocked the heavy metal exterior door and pushed it open from t
 
 "Oh, dear," his mother said with a sigh that held no real disappointment at all. "I asked for two beds when I reserved it, but this must have been all they had left with the students coming back to town. Well," she added with a brisk shrug that made it clear it wasn't a question—and that they wouldn't be walking back over to the front office to ask the clerk to switch rooms—"I guess we'll just have to make do for a couple of nights."
 
-### Scene 3: The Shared Bed
+### Scene 3: Interlude: The Accommodation File
+
+**Date:** 2014-08-20 at 16:15 America/New_York
+
+While the grey family sedan crawled westward along the endless two-lane ribbon of U.S. Route 460 toward the Blue Ridge Mountains, the administrative machinery of Commonwealth Polytechnic Institute was already humming through the final forty-eight hours before Fall 2014 Early Move-In.
+
+On the second floor of **Callahan Hall**, **Patricia Higgins**, Director of the **Office of Educational Accessibility (OEA)**, sat at her corner desk reviewing the final physical-plant clearance tickets for incoming first-year students with mobility accommodations. A record-breaking freshman class had pushed campus housing to 150% occupancy across the residential quad, turning double rooms into forced triples and forcing Central Housing to run late-August batch overrides well into the evening.
+
+Before locking her terminal for the afternoon, Ms. Higgins opened her encrypted **CPI Administrative Mail** client to verify that her most specific second-floor placement in **Eleanor Bennett Commonwealth Hall** had survived the automated room-assignment crunch intact:
+
+> **To:** Office of Housing and Residence Life — Assignments & Operations<br>
+> **From:** Patricia Higgins, Director, Office of Educational Accessibility (Callahan Hall)<br>
+> **CC:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
+> **Date:** Wednesday, August 20, 2014 — `16:15 EDT`<br>
+> **Subject:** FINAL CLEARANCE REQUEST — OEA Early Arrival & ADA Placement (`Fuller, Aubrey Jordan` — Bennett Hall `Room 214, Bed A`)<br>
+> **Reference:** Accommodation Hold `OEA-ADA-MOB-01` (Manual Wheelchair / Non-Verbal AAC)
+>
+> Good afternoon,
+>
+> Ahead of tomorrow afternoon's in-person OEA intake appointment and Friday morning's **Early Move-In (`August 22, 2014 at 09:00 AM`)**, please confirm that all physical and electronic accommodations remain locked in for incoming first-year student **Aubrey Jordan Fuller** (`Bennett Hall, Room 214, Bed A`):
+>
+> 1. **Suite & Topographical Placement (`Bennett Hall, Floor 2 — Room 214, Bed A`):** Student utilizes a manual wheelchair full-time. Because Bennett Hall is built into the Washington Street SW hillside, **Floor 2** provides direct, zero-step grade-level exterior ingress/egress via the rear Washington Street SW automatic doors (bypassing the steep exterior hill to the 1st-floor main lobby). `Room 214` is designated as the floor's ADA-modified suite room, equipped with a roll-under vanity sink, widened connecting bathroom doorways with steel grab bars, a lowered secondary door peephole, and immediate proximity across the corridor to the **2nd-Floor Accessible Roll-In Shower Room**.
+> 2. **Furniture Configuration (`Bed A`):** `Bed A` (nearest the corridor entry door) must remain an **unbunked, standalone Twin XL frame set to standard ADA wheelchair-transfer height (`19 inches`)**, with clear 36-inch turning radius maintained between the entry doorway, `Bed A`, and the primary study desk.
+> 3. **Poly Pass Motorized Door Opener Encoding:** Student's University ID (`Poly Pass`, scheduled for issuance tomorrow morning at the University Card Center) must be pre-authorized for the exterior Bennett Hall perimeter readers and the **Room 214 motorized handicap door actuator**, calibrated to the standard **10-second residential dwell timer** before auto-relocking.
+>
+> Please confirm that yesterday's campus-wide forced-triple batch run did not displace `Bed A` or alter the Friday `09:00 AM` early-arrival authorization.
+>
+> Warm regards,
+>
+> — **Patricia Higgins, M.S., CRC**<br>
+> Director, Office of Educational Accessibility<br>
+> Callahan Hall, Suite 210
+
+Twenty-two minutes later, the **Office of Housing and Residence Life** sent back its confirmation, copying **Kelsey Brennan** in her first-floor Residence Director office at Bennett Hall:
+
+> **To:** Patricia Higgins, Director, Office of Educational Accessibility (Callahan Hall); Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
+> **From:** Office of Housing and Residence Life — Assignments & Operations<br>
+> **Date:** Wednesday, August 20, 2014 — `16:37 EDT`<br>
+> **Subject:** Re: FINAL CLEARANCE REQUEST — OEA Early Arrival & ADA Placement (`Fuller, Aubrey Jordan` — Bennett Hall `Room 214, Bed A`)
+>
+> Patricia and Kelsey,
+>
+> Confirmed on all counts for **Fuller, Aubrey Jordan (`Bennett Hall — Room 214, Bed A`)**:
+>
+> - **Physical Setup & Door Opener:** Facilities Operations and Campus Lock & Key completed the final walkthrough of `Room 214` at `14:00` today. `Bed A` is unbunked at transfer height (`19"`), `Beds B` and `C` are stacked as a standard two-high bunk along the opposite wall to preserve floor clearance, and the `Room 214` motorized door opener (`10-second` dwell timer) and interior square `PUSH TO OPEN` paddle passed inspection.
+> - **Poly Pass & Early Check-In Packet:** The student's key packet and Poly Pass access profile are active for **Friday, August 22 at `09:00 AM`** at the Bennett Hall 1st-floor front desk.
+> - **Suite 214/216 Roster Status:** `Room 214, Bed A` was manually pinned on the **OEA ADA Protected Hold Table** prior to the 150% capacity forced-triple batch run, so Mr. Fuller's bed assignment was untouched. To absorb the Fall 2014 freshman overflow across Bennett Hall, the remaining five beds in `Suite 214/216` (`Room 214, Beds B & C` and adjoining `Room 216, Beds A, B, & C`) were released back to the automated assignment batch engine for standard **Saturday, August 23 (`08:00 AM`)** freshman move-in.
+>
+> **Note for Kelsey:** Because Central IT is still reconciling the final overflow batch exports across all six floors of Bennett Hall, we have only pushed your **Friday Early-Arrival Roster** to the building desk terminal today. The finalized **Saturday Main Move-In Roster & Door-Card Print Batch** for Floors 1 through 6 will be transmitted to your office terminal on **Friday afternoon (`August 22`)** so your RAs can print and hang the suite door cards before Saturday morning's `08:00 AM` rush.
+>
+> — **Assignments & Operations Desk**<br>
+> Office of Housing and Residence Life
+
+Down on the first floor of **Eleanor Bennett Commonwealth Hall**, **Kelsey Brennan** read the confirmation at her desk while boxes of orientation lanyards and fresh laminate sheets sat stacked beside her printer. With all twelve of her Resident Advisors across Floors 1 through 6 wrapping up their mid-week fire-safety walkthroughs, Kelsey immediately forwarded the pertinent details to her two second-floor Resident Advisors—sophomore Nursing major **Isabel Dawson** (`Room 215`, directly across the hall from `Room 214`) and junior Civil Engineering major **Henry Walsh** (`Room 201`):
+
+> **To:** Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2); Henry Walsh, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **From:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
+> **Date:** Wednesday, August 20, 2014 — `17:02 EDT`<br>
+> **Subject:** Floor 2 Friday OEA Early Arrival (`Room 214, Bed A`) & Friday Afternoon Door-Card Prep
+>
+> Hey Izzy and Henry,
+>
+> Great job today getting the Floor 2 bulletin boards and hallway directional signage up! Seeing the two of you run the second floor together already makes me grateful I paired you up for this year.
+>
+> Quick heads-up from Central Housing and OEA regarding **Friday, August 22 (Early Move-In)** and **Saturday, August 23 (Main Freshman Move-In)** for **Floor 2**:
+>
+> 1. **Friday 9:00 AM Early Arrival — `Room 214, Bed A` (`Aubrey Jordan Fuller`):**
+>    We have one approved OEA early arrival on Floor 2 checking in this **Friday morning at `09:00 AM`**. His name is **Aubrey Jordan Fuller**, and he is assigned to **`Room 214, Bed A`** (right across the hall from your door in `215`, Izzy). He is a first-year student who uses a manual wheelchair and communicates via an assistive technology laptop. Facilities has already set `Bed A` unbunked at transfer height and tested the 10-second motorized door actuator on `214`.
+> 2. **Mail Room Parcel Logged Today:**
+>    When the afternoon carrier delivery came in at `15:30` today, I signed for a large, heavy cardboard shipping box addressed to **Aubrey Fuller (`Room 214`)**. I have it stored safely behind the 1st-floor lobby desk so I can hand it off to him and his family when they pick up his room packet on Friday morning.
+> 3. **Friday Duty Split (`Izzy` on Floor Rounds / `Henry` on Saturday Door Cards):**
+>    - **Izzy:** Since you're in `215` right across from `214`, I'll put the **Friday Early Check-In Clipboard** in your box. You'll only have the Friday early arrivals listed on that sheet, so please swing by `Room 214` during your **1:00 PM Friday afternoon round** to welcome Aubrey, make sure everything in the room is working properly for him, and answer any questions before the building gets loud on Saturday.
+>    - **Henry:** As noted in Housing's email below, Central Housing is still finalizing the 150% forced-triple batch export for Saturday's main freshman move-in (including the other five beds in `Suite 214/216` and the rest of Floor 2). They won't transmit our final Saturday roster until **Friday afternoon**, so meet me down in the 1st-floor office around **`14:30` on Friday** and we'll print, slice, and slide all the Saturday room door cards into the hallway sleeves together before the rain rolls in.
+>
+> Let me know if you two need anything before tomorrow's final staff meeting!
+>
+> — **Kelsey Brennan, M.Ed.**<br>
+> Residence Director, Eleanor Bennett Commonwealth Hall
+
+### Scene 4: The Shared Bed
 
 **Date:** 2014-08-20 at 21:00 America/New_York
 
@@ -142,7 +221,78 @@ Aubrey took the card, his blurry vision making out the bold numbers, and slipped
 
 "Come on, Aubrey, unplug that thing," his mother said briskly, already reaching down to yank his power adapter out of the wall outlet before the degraded battery had been charging for even five minutes. "All your paperwork is done, and I'm starving. We're heading back to the motel so we can get something to eat."
 
-### Scene 3: All the Way
+### Scene 3: Interlude: The Counselor's Note
+
+**Date:** 2014-08-21 at 14:30 America/New_York
+
+For a long moment after the heavy oak door of Room 210 clicked shut behind **Aubrie Sinclair** and her son, **Patricia Higgins** remained standing in the center of her quiet office.
+
+Her eyes dropped to the base of the drywall beside her visitors' chairs, where the three-prong outlet sat empty. A faint black scuff mark lingered on the painted baseboard from the force with which the boy's mother had yanked the frayed power brick out of the socket in the middle of his sentence.
+
+In nineteen years as a rehabilitation counselor and Director of the **Office of Educational Accessibility**, Ms. Higgins had sat across from hundreds of incoming freshmen and their parents. She had seen nervous parents, overprotective parents, and parents struggling to let go.
+
+What she had just witnessed in the last twenty minutes did not feel like any of those things.
+
+She walked back behind her desk, picked up her pen, and looked down at the intake notes she had jotted on the inside cover of `File #2014-OEA-0418 (Fuller, Aubrey Jordan)`:
+
+- *Student never given an opportunity to respond during intake; mother answered every prompt and stood directly behind his wheelchair with both hands locked on his push handles.*
+- *When addressing student directly, student cupped his hand behind his right ear and leaned forward—possible undocumented bilateral hearing loss?*
+- *When typing on his laptop (`1999 doors-98` chassis running `SimpleSpeak` TTS), student had to bring his face within two inches of the dim LCD screen—possible severe uncorrected visual impairment?*
+- *Laptop battery failed within seconds of opening; student is completely non-verbal and relies 100% on plugged-in laptop audio to speak. When student began typing an independent sentence ("I am excited..."), mother abruptly unplugged the AC adapter from the wall, cutting off his software mid-thought, and terminated the meeting.*
+
+Because **Aubrey Jordan Fuller** was eighteen years old and legally an adult—and because his mother had provided the bare-minimum physical mobility documentation from forty-eight hours prior without disclosing a single visual, auditory, or assistive-technology need—Ms. Higgins could not legally force an adult student back into her office over his parent's interference until the student was on his own. She had made certain before the door closed that Aubrey heard her say that his **Monday, August 25 at `13:00`** follow-up appointment was for *him alone*.
+
+Still, tomorrow morning at nine o'clock, that quiet eighteen-year-old boy was moving into **Room 214 of Bennett Hall** a full twenty-four hours before the rest of the freshman class arrived on Saturday—and if his laptop could not stay plugged into wall power, he would have no voice at all.
+
+Ms. Higgins woke her computer, opened her **CPI Administrative Mail** client, and drafted a discreet heads-up directly to **Kelsey Brennan** over at Bennett Hall:
+
+> **To:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
+> **From:** Patricia Higgins, Director, Office of Educational Accessibility (Callahan Hall)<br>
+> **CC:** Office of Housing and Residence Life — Assignments & Operations<br>
+> **Date:** Thursday, August 21, 2014 — `14:34 EDT`<br>
+> **Subject:** CONFIDENTIAL — OEA Intake Completed & Practical Check-In Notes for Tomorrow (`Aubrey Jordan Fuller` — `Room 214, Bed A`)
+>
+> Hi Kelsey,
+>
+> I am writing to confirm that **Aubrey Jordan Fuller (`Bennett Hall, Room 214, Bed A`)** and his mother (**Aubrie Sinclair**) just completed their Thursday afternoon OEA verification check-in here at Callahan Hall. His paperwork is signed, his Poly Pass is active, and he is cleared for his **Friday, August 22 at `09:00 AM`** early move-in tomorrow morning.
+>
+> Beyond the standard paperwork confirmation, I wanted to pass along a few practical observations for you and your **Floor 2 Resident Advisors (`Isabel Dawson` and `Henry Walsh`)** ahead of tomorrow:
+>
+> 1. **Communication & Laptop Wall Power (Critical):**
+>    Aubrey is non-verbal and communicates by typing into text-to-speech software (`SimpleSpeak`) on an older laptop computer. During our meeting today, I noticed that **his laptop battery no longer holds a charge**—the moment his power cord is disconnected from an AC outlet, the machine powers down completely, which effectively takes away his voice.
+>    Because the standard receptacles in Bennett Hall's cinderblock walls are mounted low behind the desk knee-well, he will likely not be able to reach down from his wheelchair to plug his cord in by himself. If the family has not mounted a desk-level power strip before his mother leaves tomorrow, could you ask one of your Floor 2 RAs to check in on him during Friday rounds and help him bring a power strip or surge protector up onto the surface of his desk?
+> 2. **Communication Pacing & Sensory Notes:**
+>    When you or your RAs speak with him, please make sure to stand clearly in his line of sight, speak at a steady, audible volume, and give him plenty of unhurried time to type his replies into his laptop. I observed signs today that he may also be dealing with significant uncorrected vision and hearing challenges that were not included on the preliminary mobility paperwork submitted by his mother. I have scheduled a **one-on-one follow-up appointment with Aubrey for Monday, August 25 at `13:00`** here in Callahan Hall—without his parent present—so we can evaluate him for assistive classroom technology, visual/auditory accommodations, and peer note-takers before his first week of lectures gets underway.
+> 3. **Family Dynamic:**
+>    Speaking strictly counselor-to-Residence-Director: his mother was unusually controlling during today's intake and physically unplugged his laptop from my office wall while he was in the middle of typing a sentence to me. Once his mother departs campus tomorrow and Aubrey is settled into `Room 214`, a warm, low-pressure welcome from your Floor 2 staff will go a very long way.
+>
+> Thank you as always for taking such thoughtful care of our OEA students over in Bennett.
+>
+> Warmly,
+>
+> — **Patricia Higgins, M.S., CRC**<br>
+> Director, Office of Educational Accessibility<br>
+> Callahan Hall, Suite 210
+
+Sixteen minutes later, a reply chimed in Ms. Higgins's inbox from the first floor of Bennett Hall:
+
+> **To:** Patricia Higgins, Director, Office of Educational Accessibility (Callahan Hall)<br>
+> **From:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
+> **Date:** Thursday, August 21, 2014 — `14:50 EDT`<br>
+> **Subject:** Re: CONFIDENTIAL — OEA Intake Completed & Practical Check-In Notes for Tomorrow (`Aubrey Jordan Fuller` — `Room 214, Bed A`)
+>
+> Patricia,
+>
+> Thank you so much for flagging this—especially the detail about his laptop battery and the low wall outlet in `Room 214`. Knowing that an unplugged laptop means he can't speak is huge for my staff to be aware of before tomorrow morning.
+>
+> I will be working the 1st-floor lobby desk personally at `09:00 AM` tomorrow to check Aubrey in and hand over his room packet and the large parcel box that arrived for him in the mail room yesterday. My Floor 2 RAs, **Isabel Dawson (`Room 215`)** and **Henry Walsh (`Room 201`)**, are two of the sharpest, kindest student leaders on my staff. Isabel lives directly across the corridor from `Room 214`, and I am briefing both of them right now (without violating his privacy) to make sure Isabel checks on his desk outlet setup during her `13:00` Friday floor round once his mother has headed out.
+>
+> We'll make sure he has a safe, quiet landing on Floor 2 tomorrow before the rest of the building fills up on Saturday morning.
+>
+> — **Kelsey Brennan, M.Ed.**<br>
+> Residence Director, Eleanor Bennett Commonwealth Hall
+
+### Scene 4: All the Way
 
 **Date:** 2014-08-21 at 15:00 America/New_York
 
@@ -204,7 +354,7 @@ Aubrey picked up the burger, took one small, forced bite from the edge, and almo
 
 By the time she paid the check and wheeled him back out through the cinnamon-choked gift shop and across the hot asphalt to their first-floor room at the Merit Inn, the late-afternoon sun was slanting low over the Blue Ridge mountains—leaving only the long, dreaded evening routine inside the motel room before Friday morning finally arrived.
 
-### Scene 4: The Routine
+### Scene 5: The Routine
 
 **Date:** 2014-08-21 at 20:00 America/New_York
 
@@ -246,7 +396,7 @@ Across the room, his backpack sat untouched in the corner, his heavy laptop stil
 
 As his mother disappeared back into the bathroom to wash her hands and get ready for bed, Aubrey lay rigid on his side at the very edge of the mattress. Because his legs couldn't support him and his wheelchair had been left parked across the room by the doorjamb, he was completely marooned where she had dropped him. The raw, red patches of skin across his shoulders and arms burned warmly against the stiff motel cotton, and a familiar, hollow exhaustion settled behind his eyes. In eighteen years, nobody had ever asked him how the water felt, or asked permission before touching him, or treated his body as anything other than an inconvenient chore to be rushed through and resented.
 
-### Scene 5: One Last Night
+### Scene 6: One Last Night
 
 **Date:** 2014-08-21 at 21:00 America/New_York
 
@@ -450,7 +600,75 @@ Isabel caught the edge of the door lightly with one hand as the timer expired, g
 
 As she stepped out into the corridor and let the heavy door swing shut and lock automatically behind her, Aubrey nodded, a wave of both relief and nervousness washing over him. One night of peace before meeting the strangers who would become his new roommates.
 
-### Scene 4: Stranded
+### Scene 4: Interlude: Early Check-In Rounds
+
+**Date:** 2014-08-22 at 13:35 America/New_York
+
+Stepping back across the polished linoleum corridor from `Room 214` into her own single room at **`Room 215`**, **Isabel Dawson** let the door click shut behind her, set her **Friday Early Check-In Clipboard** on the corner of her desk, and exhaled a long, slow breath.
+
+For a few seconds, the nineteen-year-old Nursing major just stood by her desk looking back toward her closed door. She thought about the eighteen-year-old boy sitting alone across the hallway—how he had been stranded in an empty cinderblock room for four straight hours with a bare mattress, an unopened cardboard box sealed with packing tape, and a dead laptop whose power cord was plugged into an outlet he couldn't reach from his wheelchair. She thought about the way his shoulders had braced when she first stepped into the room, as if he expected to be scolded for needing help, and how earnestly his synthesized voice had asked when his roommates were arriving so he wouldn't be alone anymore.
+
+Isabel sat down at her desk, woke her laptop, and pulled up the **Floor 2 Staff Thread** that **Kelsey Brennan** had opened with her and **Henry Walsh** right after nine o'clock that morning:
+
+> **To:** Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2); Henry Walsh, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **From:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
+> **Date:** Friday, August 22, 2014 — `09:12 EDT`<br>
+> **Subject:** Floor 2 Check-In Update — `Aubrey Jordan Fuller` (`Room 214, Bed A`)
+>
+> Izzy and Henry,
+>
+> Quick update from the 1st-floor lobby desk: **Aubrey Jordan Fuller (`Room 214, Bed A`)** just checked in at `09:05`, and I have to be honest with you both—the check-in left a really bad knot in my stomach.
+>
+> Instead of using the flat 2nd-floor Washington Street entrance that OEA specifically highlighted in their arrival packet, his mother (**Aubrie Sinclair**) wrestled his manual wheelchair all the way down the steep exterior hill to the 1st-floor lobby doors and came in complaining loudly about the hill. When I gave them his room packet and the large cardboard parcel box that arrived for him on Wednesday, she didn't let Aubrey say a word or touch his own Poly Pass—she balanced the huge shipping box squarely on his lap so he could barely see over it, steered him into the elevator up to Floor 2, and **walked back out the 1st-floor lobby doors to her car less than two minutes later.**
+>
+> Two minutes isn't enough time to open a shipping box, put sheets on a mattress, or plug in a computer. Worse, right after Patricia Higgins from OEA emailed me yesterday afternoon about his laptop battery not holding a charge and how his computer is his only voice, seeing his mother walk out the front doors in under two minutes makes me almost certain she just dumped him in `Room 214` and drove away.
+>
+> **Izzy:** When you do your **`13:00` Early Check-In Round** on Floor 2, please bring a roll of heavy-duty double-sided mounting tape from the RA supply bin when you knock on `Room 214`. Check whether his laptop is plugged in within reach of his desk, and if he needs a hand getting settled, take all the time you need.
+>
+> — **Kelsey Brennan, M.Ed.**<br>
+> Residence Director, Eleanor Bennett Commonwealth Hall
+
+Below Kelsey's morning message, Isabel clicked **Reply All** and typed out her report for Kelsey and Henry:
+
+> **To:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall); Henry Walsh, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **From:** Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **Date:** Friday, August 22, 2014 — `13:38 EDT`<br>
+> **Subject:** Re: Floor 2 Check-In Update — `Aubrey Jordan Fuller` (`Room 214, Bed A`)
+>
+> Kelsey and Henry,
+>
+> I just finished my `13:00` check-in with **Aubrey** across the hall in **`Room 214`**, and your instincts this morning were 100% spot-on, Kelsey. Thank goodness you and Ms. Higgins warned me about the outlet and the shipping box.
+>
+> When I knocked and went in at one o'clock, he had been sitting alone in the middle of the room since `09:10` this morning. His mother literally left the huge mailed box taped shut in the corner, left his gym bag on the bare plastic mattress of `Bed A`, and plugged his power strip into the low wall outlet behind the desk where he couldn't reach it from his wheelchair—leaving the strip turned **OFF** so his laptop was completely dead and he had no way to speak or ask for help.
+>
+> Here is what we got taken care of in `Room 214`:
+>
+> 1. **Desk Power & `SimpleSpeak` Access:** I unplugged the surge protector from the low wall socket, ran the main cord up behind the desk, and used the double-sided mounting tape to secure the power strip right onto the top surface of his desk beside his lamp. Now he can reach the power switch and plug/unplug his laptop cord easily from his chair without bending down. As soon as his computer booted up, he opened `SimpleSpeak` and was able to talk with me!
+> 2. **Bed & Unpacking:** I cut open his shipping box for him, put his fitted sheet, top sheet, blanket, and pillowcase onto `Bed A`, and unpacked his clothes from his gym bag into his dresser drawers so everything is at wheelchair reach.
+> 3. **Question About His Suitemates:** Once his voice software was up, he asked me if I knew when his roommates were arriving. Since my Friday clipboard only has today's OEA early-arrival check-in list on it—and since Bennett is co-ed by single-gender suite—I let him know that the rest of the guys in his suite are scheduled for standard freshman move-in tomorrow (`Saturday, August 23`) starting at `08:00 AM`, and that Henry is heading down to the office with you this afternoon to print and hang all the Saturday room door cards once Central Housing's batch export finishes.
+>
+> He is such a polite, sweet kid, guys—he thanked me twice and seemed so relieved just to have his bed made and his voice working again. I told him I'm right across the hall in `215` if he needs anything at all tonight.
+>
+> — **Izzy**
+
+Down on the first floor, afternoon thunder rumbled faintly over the campus limestone as a heavy late-summer rainstorm began lashing against the office windows. At `16:15`, after **Henry Walsh** and **Kelsey** finished slicing the freshly printed cardstock door rosters from Central Housing's final batch export and Henry walked the second-floor corridors sliding the cards into the metal doorframe sleeves, Henry sent a quick follow-up to close out the Friday thread:
+
+> **To:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall); Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **From:** Henry Walsh, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **Date:** Friday, August 22, 2014 — `16:15 EDT`<br>
+> **Subject:** Re: Floor 2 Check-In Update — `Aubrey Jordan Fuller` (`Room 214, Bed A`) & Saturday Door Cards Up
+>
+> Izzy, you're a total lifesaver for getting his power strip mounted on the desk and his bed set up today. Seriously—who leaves their kid in an empty dorm room for four hours with his bed unmade and his only way to communicate unplugged?
+>
+> Quick update for both of you: Central Housing's final forced-triple batch export finally came through to the office printer around `15:15`, so Kelsey and I got all the Saturday room door cards printed and trimmed. I just finished walking both wings of Floor 2 (`Rooms 201–228`) and slid all the occupancy cards into the exterior doorframe holders next to the welcome signs.
+>
+> When I came past `Suite 214/216`, the rain was coming down hard outside the window and `Room 214` was completely quiet with the door shut. Figured our guy had a long enough week getting dragged across the state, so I didn't knock or bother him—just slipped the `214` and `216` cards quietly into the metal holders on the doorframes so we're 100% ready for the `08:00 AM` move-in rush tomorrow morning.
+>
+> Rest up tonight, team—tomorrow morning the whole building goes from one resident on Floor 2 to full capacity!
+>
+> — **Henry**
+
+### Scene 5: Stranded
 
 **Date:** 2014-08-22 at 14:00 America/New_York
 
@@ -756,7 +974,114 @@ In the hallway, a few freshmen and their parents, who had paused their unpacking
 
 "I think so," the neighbor whispered back, eyes wide. "Did Housing seriously put a guy in there?"
 
-### Scene 8: Logistics of a Co-Ed Suite
+### Scene 8: Interlude: The Clerical Error File
+
+**Date:** 2014-08-23 at 12:35 America/New_York
+
+Back down the second-floor corridor in the small Resident Advisor workroom after sliding the freshly printed **`Jordan Fuller`** cardstock strip into the doorframe holder outside `Room 214`, **Henry Walsh** sat down at the staff terminal, let out a long breath, and opened his **CPI Residence Life Staff Mail** client.
+
+With **Isabel Dawson** just wrapping up her morning rotation down at the first-floor lobby check-in tables and **Kelsey Brennan** back in her first-floor Residence Director office logging the morning's move-in paperwork, Henry typed out a full follow-up on the `Suite 214/216` commotion:
+
+> **To:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall); Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **From:** Henry Walsh, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **Date:** Saturday, August 23, 2014 — `12:22 EDT`<br>
+> **Subject:** Floor 2 Incident Follow-Up — Suite 214/216 Clerical Error & Preferred Name Update (`"Jordan Fuller"`)
+>
+> Kelsey and Izzy,
+>
+> First off, Kelsey—I am really sorry for panicking on the radio at `11:30` and drawing a crowd in the hallway. And Izzy, since you were stationed down at the 1st-floor lobby check-in tables all morning greeting families, here is what happened up on Floor 2 while you were downstairs:
+>
+> 1. **The `Suite 214/216` Gender Assignment Mix-Up:**
+>    When Kelsey and I printed the Saturday room door cards from Central Housing's batch sheet yesterday afternoon, neither of us realized what the computer had done to `Suite 214/216`. Because our early arrival in `Room 214, Bed A` was listed on the manual OEA accommodation hold as **`Fuller, Aubrey Jordan`** (with no gender column on the spreadsheet), whoever in Central Housing released the other five forced-triple beds in `214/216` back into the automated batch engine saw the first name *"Aubrey"*, assumed he was a girl, and flagged the rest of the suite as an all-female suite (`Aubrie Jean Kelly` and `Madison Elizabeth Scott` in `214`, plus `Zoë Wren Brooks`, `Lauren Nicole Barnes`, and `Hannah Ashlee Parker` in `216`).
+> 2. **The Huddle in `Room 214` & Something I Can't Stop Thinking About:**
+>    When Kelsey came up and explained the situation—that federal ADA rules lock `Bed A` in `214` for him, and that with Bennett Hall at 150% capacity, moving the five girls today would mean splitting them up and busing them to one of the overflow highway hotels thirty minutes away—all six of them agreed to stay together and sign the **Emergency Co-Ed Suite Accommodation Waiver**.
+>    Kelsey, I don't know if you caught his face right before they agreed, when the five girls huddled up in the middle of the room. None of them talked over him or treated him like an obstacle—`Aubrie Kelly` literally stepped behind his wheelchair, rolled him right into the center of their circle so he was part of the huddle, and asked him what *he* thought and whether he was okay with staying.
+>    He completely froze. His hands were shaking on his laptop keyboard when he went to type. Honestly, he had this look on his face like **he has never been allowed to be included in decision-making in his entire life.**
+> 3. **Official Preferred Name Update (`Jordan Fuller`) & New Door Card:**
+>    About ten minutes after you headed back downstairs, Kelsey, he came down to the 2nd-floor RA office with `Aubrie Kelly` and `Madison Scott` (and `Aubrie Kelly` was holding his hand under the table like she's had his back for years). Using his speech software, he apologized for the trouble and told me that since the name *"Aubrey"* caused the whole mix-up—and since he hates that name anyway—he wants to go by his middle name, **Jordan**, from now on.
+>    I printed a brand-new door card for `Room 214` reading **`Jordan Fuller`**, swapped it into the hallway doorframe sleeve, and walked him through updating his **Preferred Name** to **`Jordan`** in the CPI Student Portal so all of his professors' class rosters for Monday will list him as `Jordan Fuller`. (Also, Ms. Higgins's heads-up from Thursday was 100% right—he had to lean within three inches of my monitor and squint really hard just to read the portal screen, and he cupped his ear in the hallway to hear Madison over the crowd.)
+>
+> The six of them are back inside `Suite 214/216` right now sharing snacks until Kincaid Commons opens at `16:00`, and the hallway is calming down now that the new door card is up.
+>
+> — **Henry**
+
+Down in the first-floor Residence Director office of **Eleanor Bennett Commonwealth Hall**, **Kelsey Brennan** read Henry's email from start to finish while the scanned PDF of the six-signature co-ed waiver finished uploading on her desktop.
+
+Before replying to her two Floor 2 RAs, Kelsey switched over to her administrative window and fired off the formal incident report and waiver packet to the **Office of Housing and Residence Life** and **Ms. Patricia Higgins** at **Educational Accessibility**:
+
+> **To:** Office of Housing and Residence Life — Assignments & Operations; Patricia Higgins, Director, Office of Educational Accessibility (Callahan Hall)<br>
+> **From:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
+> **Date:** Saturday, August 23, 2014 — `12:41 EDT`<br>
+> **Subject:** URGENT ADMINISTRATIVE REPORT — `Suite 214/216` Gender Assignment Clerical Error & Executed Emergency Co-Ed Suite Waiver (`Bennett Hall`)<br>
+> **Attachment:** `bennett_214_216_emergency_coed_waiver_2014-08-23.pdf` (`Signed by All 6 Adult Residents`)
+>
+> Assignments & Operations and Patricia,
+>
+> Please find attached the executed **Emergency Co-Ed Suite Accommodation Waiver** for **Bennett Hall, Suite 214/216**, which I authorized at `11:45 EDT` today following a major clerical error in Central Housing's forced-triple batch assignment for `Room 214` and `Room 216`.
+>
+> **1. Root Cause of the Clerical Error:**
+> As confirmed in Wednesday's clearance thread, first-year OEA student **Jordan Fuller** (enrolled legally as `Fuller, Aubrey Jordan` — Student Portal Preferred Name updated today to **`Jordan Fuller`**) was manually pinned in **`Room 214, Bed A`** via the OEA ADA Protected Hold spreadsheet (`Code: OEA-ADA-MOB-01`), which contains student names and accommodation codes but **no `Sex/Gender` column**. When Central Housing released the remaining five forced-triple beds in `Suite 214/216` (`214 Beds B & C` and `216 Beds A, B, & C`) back into the automated batch engine during the 150% capacity crunch, a staff member saw the given name *"Aubrey"* in `Bed A`, assumed the student was female, and manually flagged `Suite 214/216` as a `FEMALE_SUITE`. As a result, five incoming first-year women—**Aubrie Jean Kelly (`214-B`)**, **Madison Elizabeth Scott (`214-C`)**, **Zoë Wren Brooks (`216-A`)**, **Lauren Nicole Barnes (`216-B`)**, and **Hannah Ashlee Parker (`216-C`)**—were assigned to the remaining five beds and moved in this morning.
+>
+> **2. Institutional Resolution & Signed Adult Waiver:**
+> - **Federal ADA / Section 504 Lock (`214, Bed A`):** Mr. Fuller utilizes a manual wheelchair full-time and requires `Room 214`'s ADA modifications and Floor 2 grade-level egress. With all other ADA rooms on campus at 100% occupancy, he cannot be relocated.
+> - **150% Capacity Overflow Constraint (`214-B/C` & `216-A/B/C`):** Every room in Bennett Hall is tripled at capacity, and overflow students are currently being placed in off-campus highway hotels thirty minutes away. Reassigning the five female suitemates today would require breaking up their group and displacing them off-campus.
+> - **Unanimous Mutual Consent:** All six residents are eighteen-year-old legal adults. When presented with their options today, all five women and Mr. Fuller unanimously requested to remain together in `Suite 214/216` and executed the attached **Emergency Co-Ed Suite Accommodation Waiver** for the two-week post-census freeze period.
+>
+> **3. Immediate Process Recommendation:**
+> Please immediately audit all remaining manual ADA and early-arrival hold spreadsheets across campus against the Registrar's `Sex/Gender` field so unisex first names (*Aubrey, Jordan, Taylor, Morgan, Casey*) cannot trigger another cross-gender batch override.
+>
+> — **Kelsey Brennan, M.Ed.**<br>
+> Residence Director, Eleanor Bennett Commonwealth Hall
+
+Once the official housing report was dispatched, Kelsey leaned back in her office chair, took off her glasses for a moment, and looked back at the second paragraph of Henry's email—about the way Jordan had frozen with trembling hands when the five girls pulled his wheelchair into their circle and asked for his opinion.
+
+Then Kelsey clicked **Reply All** on Henry and Isabel's Floor 2 staff thread:
+
+> **To:** Henry Walsh, Resident Advisor (Bennett Hall, Floor 2); Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **From:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
+> **Date:** Saturday, August 23, 2014 — `12:54 EDT`<br>
+> **Subject:** Re: Floor 2 Incident Follow-Up — Suite 214/216 Clerical Error & Preferred Name Update (`"Jordan Fuller"`)
+>
+> Henry and Izzy,
+>
+> First—Henry, take a breath and don't beat yourself up for a second about yesterday's door cards or the radio call. Neither you nor I had any way of knowing Central Housing's manual ADA spreadsheet didn't have a gender column on it. And thank you for printing his new **`Jordan Fuller`** door card right away and walking him through the Preferred Name update in the portal. From this point forward, both of you please make sure we refer to him exclusively as **Jordan** in all floor communications and conversations.
+>
+> Second—Henry, what you wrote about the moment in `Room 214` when `Aubrie Kelly` pulled Jordan's wheelchair into the girls' huddle and asked him what *he* thought: **I saw the exact same look on his face, and it has been sitting heavy on my mind for the last hour.**
+>
+> I want to share my read of the situation with the two of you in strict confidence as your Hall Director, because when you put all the pieces from the last forty-eight hours together, **something is very clearly not right with what Jordan was dealing with before he got here:**
+>
+> 1. On Thursday afternoon, Ms. Higgins at OEA warned me that his mother answered every single question for him, physically yanked his laptop cord out of the wall while he was in the middle of typing an independent sentence, and never disclosed that he appears to have severe, untreated vision and hearing impairments.
+> 2. Yesterday morning at `09:05`, I watched his mother dump him in `Room 214` and walk back out to her car in less than two minutes—leaving him stranded for four hours with a bare mattress, a sealed shipping box, and an unplugged laptop he couldn't reach from his chair.
+> 3. And today, when five teenage girls he had known for less than an hour pulled his wheelchair into their circle and treated him like a human being whose vote actually mattered, he looked like a kid who has **never once in eighteen years been allowed to make a decision for himself**—and then the very first decision he made ten minutes later was to shed his legal first name and claim **`Jordan`**.
+>
+> **Here are my instructions for both of you on Floor 2 going forward:**
+>
+> - **Keep a close, protective eye on Jordan and `Suite 214/216`:** Check in warmly during your floor rounds, make sure the hallway gossip dies down quickly, and make sure Jordan and the five girls (`Aubrie, Madison, Zoë, Lauren, and Hannah`) know that you two and I are in their corner if any logistical friction comes up in a six-person suite.
+> - **DO NOT pry into whatever is bothering him or ask him questions about his home life:** This part is critical. When a student has spent his life having every boundary stomped on and every choice dictated over his head, the absolute worst thing Residence Life staff can do—even with the best intentions—is corner him with probing questions before he feels safe. Right now, those five young women in `Suite 214/216` are doing something extraordinary: they are giving him dignity, normalcy, and a voice in his own life. Protect that bubble. Do not pry. If and when Jordan ever wants to tell us what happened at home, it needs to be 100% on his own terms and his own timeline.
+>
+> Thank you both for having such good instincts and big hearts. Let's make sure Floor 2 feels like a real home for all six of them.
+>
+> — **Kelsey Brennan, M.Ed.**<br>
+> Residence Director, Eleanor Bennett Commonwealth Hall
+
+Fourteen minutes later, having just handed off her first-floor lobby check-in clipboard and walked up the central stairs to `Room 215` across from `Room 214`, **Isabel Dawson** sent back her reply:
+
+> **To:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall); Henry Walsh, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **From:** Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2)<br>
+> **Date:** Saturday, August 23, 2014 — `13:08 EDT`<br>
+> **Subject:** Re: Floor 2 Incident Follow-Up — Suite 214/216 Clerical Error & Preferred Name Update (`"Jordan Fuller"`)
+>
+> Kelsey and Henry,
+>
+> I just got back up to `Room 215` from my lobby shift and read this whole thread. First of all—I cannot believe Central Housing assigned five girls to `Suite 214/216` because someone on the spreadsheet team assumed *"Aubrey"* was female! When I told him yesterday afternoon that "the rest of the guys in your suite" would be arriving at `08:00 AM` today, I had no idea I was setting poor Jordan up for the shock of his life!
+>
+> Second—reading how `Aubrie Kelly` pulled his wheelchair right into their huddle to ask what he wanted, and how he marched down to Henry's office ten minutes later to change his name to **Jordan**, honestly made me tear up at my desk. Look at the new **`Jordan Fuller`** card across the hall on `214` right now—it suits him so much better.
+>
+> Message received loud and clear, Kelsey. Zero prying, zero intrusive questions, and zero pressure from us—just a warm, steady hallway and a safe neighbor right across the corridor whenever Jordan and the girls need a hand.
+>
+> — **Izzy**
+
+### Scene 9: Logistics of a Co-Ed Suite
 
 **Date:** 2014-08-23 at 15:30 America/New_York
 
@@ -794,7 +1119,7 @@ The bystanders watched as Aubrie confidently took the handles of Jordan's wheelc
 
 In the bustling cafeteria, they found a large table and sat together, sharing stories about their hometowns and their anxieties about starting college. For the first time, Jordan didn't feel like an outsider; he felt like a friend.
 
-### Scene 9: The First Choice
+### Scene 10: The First Choice
 
 **Date:** 2014-08-23 at 16:15 America/New_York
 
@@ -854,7 +1179,7 @@ Mark didn't even blink. He reached out, offering Jordan a firm, friendly handsha
 
 His immediate, unquestioning acceptance was a breath of fresh air. The seven of them sat together, chatting easily about classes and sports, a newly formed, chaotic, and wonderful little family.
 
-### Scene 10: The Kincaid Hall Tea Rebellion
+### Scene 11: The Kincaid Hall Tea Rebellion
 
 **Date:** 2009-10-13 at 08:15 America/New_York
 
@@ -916,7 +1241,7 @@ A cheer erupted from the barricade. Within seconds, the British students dismant
 
 Brenda just shook her head, chuckling as she went back to wiping down the deli counter. They were polite to a fault, she thought, but my god... you do not mess with their tea.
 
-### Scene 11: The First Assist
+### Scene 12: The First Assist
 
 **Date:** 2014-08-23 at 17:30 America/New_York
 
@@ -980,7 +1305,7 @@ Zoë adjusted her glasses, her tone perfectly deadpan. "The swiftness of your re
 
 Hannah just smiled warmly, watching Aubrie fret over the blanket. The entire room had put two and two together. Aubrie Kelly was falling head over heels in love with the quiet boy in the wheelchair, and even if she wasn't quite ready to admit it out loud yet, her blush had already given her away.
 
-### Scene 12: The Spare Hardware
+### Scene 13: The Spare Hardware
 
 **Date:** 2014-08-23 at 17:45 America/New_York
 
@@ -1028,7 +1353,7 @@ She tapped the trackpad, bringing up a clean, minimalist text box. "I also pre-i
 
 Jordan stared at the man, his mind struggling to process the interaction. There was no shouting. There was no accusation. There was just a father looking at him not as an intruder, but with the same unconditional kindness his daughter had shown. In that simple, quiet moment in Room 214, a tiny seed was planted in Jordan's chest—the fragile, miraculous hope that maybe, just maybe, he was finally safe.
 
-### Scene 13: The New Voice
+### Scene 14: The New Voice
 
 **Date:** 2014-08-23 at 18:15 America/New_York
 
@@ -1070,7 +1395,7 @@ Instead, Aubrie’s face lit up with a brilliant smile. Madison let out a cheerf
 
 The entire room—Aubrie, Zoë, Lauren, Hannah, Mark, Madison, and Daniel—happily and seamlessly accepted his choice without a single question or judgment. A wave of profound empowerment washed over Jordan as he rested his hands on the keyboard. He finally had a voice, and it was entirely his own.
 
-### Scene 14: The Antidote
+### Scene 15: The Antidote
 
 **Date:** 2014-08-23 at 18:30 America/New_York
 
@@ -1110,7 +1435,7 @@ Aubrie and Madison exchanged a quiet, meaningful look over Jordan's head. They b
 
 As they sat with him, keeping the atmosphere light and comfortable, the two women quietly admitted something to themselves. They actually liked having Jordan in their room. It wasn't just because Aubrie was already developing a massive, undeniable crush on him. It was because, stripped of the panic and the fear, he was genuinely easy to get along with. He was a calming, gentle presence, and they were more than happy to share their space with him.
 
-### Scene 15: The Trust Fall
+### Scene 16: The Trust Fall
 
 **Date:** 2014-08-23 at 20:00 America/New_York
 
@@ -3640,7 +3965,7 @@ Deliberately, slowly, Isabel tapped the reflective silver stripe on her neon **C
 
 Jordan stared at the printed university seal and the typed schedule table on her clipboard, his chest heaving with ragged, hitching sobs as the words registered through the fog of panic.
 
-"Henry is standing right at the Washington Street doors holding them open for us, and Kelsey is outside on the sidewalk with a stopwatch," Isabel continued gently, keeping her eyes locked on his. "You are completely safe. Nobody is going to touch you, and nobody is taking you anywhere. We are going to roll out to the grass together for five minutes while Kelsey signs my sheet, and then we are coming right back inside to your room. Okay?"
+"All twelve RAs in Bennett Hall—a guy and a girl on every single floor, all six floors—are in these yellow vests sweeping the building right now," Isabel continued gently, keeping her eyes locked on his. "Henry is standing right at our second-floor Washington Street doors holding them open for us, and Kelsey is right outside on the sidewalk with the Environmental Health and Safety fire marshals and Housing staff timing the drill with a stopwatch. You are completely safe. Nobody is going to touch you, and nobody is taking you anywhere. We are going to roll out to the grass together for five minutes while Kelsey and the EHS officers sign our floor sheets, and then we are coming right back inside to your room. Okay?"
 
 For three heartbeats, nobody in Room 214 breathed.
 
@@ -3650,13 +3975,13 @@ He looked at Isabel, then at Lauren, Hannah, Zoë, Madison, and Aubrie, and gave
 
 "That's it—you've got this," Lauren whispered thickly, wiping a tear of her own from her cheek as she stepped behind his chair, while Zoë pressed the square **PUSH TO OPEN** button one final time so the motorized arm held the heavy door wide open.
 
-Moving as a tight, protective diamond—Lauren pushing Jordan's wheelchair, Madison supporting Aubrie under the blanket, Isabel walking right at Jordan's left armrest in her neon vest, and Zoë and Hannah clearing a lane through the strobing second-floor corridor—they rolled straight out the ground-level hillside doors onto the **Washington Street** sidewalk at the top of the slope, where **Henry** was already holding the heavy exterior crash-bar door wide open to keep the threshold clear before helping guide the rest of the second-floor residents fifty yards down the grass away from the fire lane.
+Moving as a tight, protective diamond—Lauren pushing Jordan's wheelchair, Madison supporting Aubrie under the blanket, Isabel walking right at Jordan's left armrest in her neon vest, and Zoë and Hannah clearing a lane through the strobing second-floor corridor—they rolled straight out the ground-level hillside doors onto the **Washington Street** sidewalk at the top of the slope. **Henry** was already holding the heavy exterior crash-bar door wide open to keep the threshold clear, while out along the curb and lawn, **Kelsey Brennan**, two **CPI Environmental Health & Safety (`EHS`)** officers in reflective jackets with clipboards and stopwatches, a **Housing & Residence Life Area Coordinator**, and the other ten Bennett Hall RAs in their neon-yellow vests were guiding streams of students from all six floors fifty yards across the grass away from the fire lane.
 
 Outside in the cool night air, with fifty yards of open lawn buffering them from the building's exterior horns, the brutal 100-decibel shriek dropped to a distant background ring.
 
 Madison sat with Aubrie on a low stone retaining wall under the trees, rubbing her back while Zoë, Hannah, and Lauren stood shoulder-to-shoulder around Jordan's chair—still deeply shaken by what they had just witnessed inside Room 214. None of them pressed Jordan about it out here on the crowded lawn while he sat hunched in his hoodie, his shoulders still trembling with quiet aftershocks and hitching sniffles, but an unspoken certainty hung heavily between them: *something terrible had happened to Jordan before he came to CPI to make him that terrified of stepping outside a locked door.*
 
-A few minutes later, the flashing white strobes inside Bennett Hall's windows clicked off, the horns fell silent, and **Kelsey Brennan** gave the official all-clear over the staff two-way radios.
+A few minutes later, after the final upper-floor stairwells emptied and all twelve RAs checked in with Kelsey and the EHS fire safety officers to confirm all six floors were clear, the flashing white strobes inside Bennett Hall's windows clicked off, the horns fell silent, and **Kelsey Brennan** gave the official all-clear over the staff two-way radios.
 
 Before heading back to the doors, Isabel walked straight back over to Suite 214/216's spot under the oak trees, her clipboard tucked under her arm, and knelt down beside Jordan's wheelchair again so she didn't tower over him.
 
@@ -3708,9 +4033,9 @@ Because Bennett Hall's second floor opened directly at ground level onto Washing
 
 Because Isabel had stopped inside Room 214 for fifty seconds to kneel in front of Jordan's wheelchair and show him the printed drill header, she and Suite 214/216 hadn't crossed the exterior threshold until `02:14`.
 
-Fortunately, while they were inside Room 214, more than two hundred able-bodied students from Floors 4, 5, and 6 were still bottlenecked single-file inside the concrete fire stairwells. The final stairwell hadn't emptied onto the quad until `02:48`—meaning Bennett Hall as a whole had beaten the university's three-minute (`03:00`) stopwatch target with twelve seconds to spare.
+Fortunately, while they were inside Room 214, more than two hundred able-bodied students from Floors 4, 5, and 6 were still bottlenecked single-file inside the concrete fire stairwells with their respective floor RAs guiding them down. The final stairwell hadn't emptied onto the quad until `02:48`—meaning all six floors of Bennett Hall had beaten the university's three-minute (`03:00`) stopwatch target with twelve seconds to spare.
 
-Still, on the floor-by-floor breakdown, a sixty-four-second gap between the rest of Floor 2 and Suite 214/216 required a formal explanation.
+Still, on the floor-by-floor breakdown submitted by all twelve RAs (one male RA and one female RA for each of Bennett Hall's six floors), a sixty-four-second gap between the rest of Floor 2 and Suite 214/216 required a formal explanation.
 
 Isabel cracked her knuckles and opened the **CPI EHS Residential Fire Safety Portal**. As a third-year Resident Advisor, she knew exactly how university bureaucracy worked. Every form submitted to EHS was archived in a central facilities database accessible to fire marshals, safety engineers, and student clerical workers. There was zero chance she was going to write a single word on an EHS form about Jordan screaming in terror or clinging to his desk—nothing that could ever embarrass him or paint him as a compliance problem.
 
@@ -3719,13 +4044,14 @@ Instead, she weaponized crisp, unimpeachable institutional language, turning the
 > **COMMONWEALTH POLYTECHNIC INSTITUTE**<br>
 > **ENVIRONMENTAL HEALTH & SAFETY (`EHS`) — RESIDENTIAL FIRE DRILL REPORT**
 >
-> - **Building:** Bennett Hall (`BLDG-014`) | **Floor:** 2
+> - **Building:** Bennett Hall (`BLDG-014` — 6 Floors, 12 RAs + 1 Hall Director) | **Floor:** 2 (of 6)
 > - **Date / Time of Activation:** Friday, September 19, 2014 — `20:00:00 EDT`
-> - **Drill Type:** Scheduled Fall Drill 1 of 2 (Unannounced to Residents)
-> - **Total Building Clearance Time:** `02:48` *(Target Threshold: `<= 03:00` — **PASS**)*
+> - **Drill Type:** Scheduled Fall Drill 1 of 2 (Unannounced to Residents; Mandatory All-Staff & EHS On-Site Supervision)
+> - **On-Site Drill Command:** Kelsey Brennan (Hall Director), West Campus Area Coordinator (Housing & Residence Life), & 2 CPI EHS Fire Safety Specialists
+> - **Total Building Clearance Time (Floors 1–6):** `02:48` *(Target Threshold: `<= 03:00` — **PASS**)*
 > - **Floor 2 Clearance Time:** `02:14` *(Standard Floor 2 Baseline: `01:15` — **MITIGATING FACTOR LOGGED**)*
-> - **Floor 2 Sweep Officer:** Isabel Dawson, Resident Advisor (Room 215)
-> - **Floor 2 Exit Monitor:** Henry Walsh, Resident Advisor (Room 201)
+> - **Floor 2 Sweep Officer (Women's/West Wing):** Isabel Dawson, Resident Advisor (Room 215)
+> - **Floor 2 Sweep & Exit Officer (Men's/East Wing):** Henry Walsh, Resident Advisor (Room 201)
 >
 > **FLOOR 2 SWEEP & MITIGATING FACTORS SUMMARY:**
 > - **Rooms 201–213, 215, 217–228:** Cleared without incident between `00:35` and `01:10`. All corridor smoke-barrier doors released and latched properly upon alarm activation.
@@ -3752,7 +4078,7 @@ Then she opened a second window—her encrypted **CPI Residence Life Staff Mail*
 >
 > What shook both me and his suitemates was that **it wasn't the noise of the alarm**. He wasn't covering his ears or reaching for his hearing aids at all. He was terrified of *leaving the locked room*. He was staring at the open doorway like someone was waiting outside to ambush him and take him away the second he crossed the threshold.
 >
-> On a hunch, I knelt down in front of his chair, pointed to my vest and two-way radio, and held up the EHS drill sheet so he could read the header and see that this was a scheduled university drill and that only you, Henry, and I were waiting outside. The second he read the paper and realized nobody had pulled the alarm to lure him out of his locked room, he let go of the desk and let Lauren wheel him out to Washington Street without another fight.
+> On a hunch, I knelt down in front of his chair, pointed to my vest and two-way radio, and held up the EHS drill sheet so he could read the header and see that this was a scheduled university drill—with all twelve Bennett Hall RAs across all six floors, you, the Housing Area Coordinator, and the EHS fire safety officers outside running the stopwatch. The second he read the paper and realized nobody had pulled the alarm to lure him out of his locked room, he let go of the desk and let Lauren wheel him out to Washington Street without another fight.
 >
 > Outside on the grass after you called the all-clear, he was still trembling and sniffling hard from crying, and he actually reached out and hugged me for the first time since move-in—and then pulled out his phone to show me and Henry that he just scored a **105%** on Dr. Thorne’s first Astrophysics exam.
 >

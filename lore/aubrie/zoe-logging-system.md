@@ -51,30 +51,116 @@ Every log entry MUST begin with the root namespace `ZOË.Systems.Logs.` followed
 
 ## 3. Canonical Thread, Agent, & Node Identifiers
 
-Zoë’s internal operating system assigns fixed **Thread IDs**, **Agent identifiers**, and **Node names** to the people and places in her life. Always use these exact identifiers for continuity:
+Zoë’s internal operating system assigns fixed **Primary Concurrency Thread IDs (`Thread 1`–`Thread 5`)** to the core suite, dynamically spawns **Auxiliary Threads (`Thread 6`–`Thread 9`)** when extended family, campus allies, institutional staff, or external threats enter the runtime scope, and maps every person and location in `/books/aubrie` to a deterministic **Agent**, **System.Admin**, **Hostile_Agent**, or **Node** identifier. Always use these exact identifiers for continuity:
 
-### A. Fixed Concurrency Threads (`Thread 1` – `Thread 5`)
-* **`Thread 1 (Self)`** — Zoë Wren Brooks (`Agent(Self)` / `'Self'`)
-* **`Thread 2 (Observers)`** (or specific observer sub-threads **`Thread 2 (Aubrie)`**, **`Thread 2 (Madison)`**) — The observing Constellation Pact partners present in the room
-* **`Thread 3 (Jordan)`** — Jordan Fuller (`Jordan.OS` / `Agent(Jordan)` / `agentJordan`) — Zoë’s primary monitored high-priority thread
-* **`Thread 4 (Mark)`** — Mark Anderson (`Agent(Mark)` / `Observer(Mark)`) — Platonic security, logistics, and pre-med/EMT node
-* **`Thread 5 (Hannah)`** — Hannah Miller (`Agent(Hannah)` / `Observer(Hannah)`) — Platonic nursing and physical-care support node
+### A. Fixed Primary Concurrency Threads (`Thread 1` – `Thread 5`)
+*(Locked from the original `ZOË.Systems.Logs` specification—these five thread slots never change)*
 
-### B. Canonical Agent & Role Identifiers (Updated `/books/aubrie` Canon)
-* **Pact Romantic Partners**: `Agent(Aubrie)`, `Agent(Madison)`, `Agent(Zoë)` / `Agent(Self)`, `Agent(Lauren)`, `Agent(Sarah)` (*Sarah Kristyn Braithwaite*), and `Agent(Jessica)` (*Jessica Gallagher*).
-* **Platonic Support Nodes**: `Agent(Mark)`, `Agent(Hannah)`.
-* **Family System Administrators**:
-  * `System.Admins (Daniel, Laura)` / `Agent 'Daniel' (Patriarch_Node)` / `Agents (Daniel, Laura)`
-* **Medical & Institutional Administrators**:
-  * `System.Admin(Nurse)` / `System.Admin(Hospital_Staff)`
-* **Hostile External Threats**:
-  * `Hostile_Agent.AubrieSinclair`
+| Thread Identifier | Assigned Entity | Runtime Role & Telemetry Focus |
+| :--- | :--- | :--- |
+| **`Thread 1 (Self)`** | **Zoë Wren Brooks** (`Agent(Self)` / `Agent(Zoë)` / `'Self'`) | Primary local execution thread; monitors Zoë’s own somatic state, `CPU_Load`, `Fin#` compilation, and emotional telemetry. |
+| **`Thread 2 (Observers)`** | **Constellation Pact Partners** (`Thread 2 (Aubrie)`, `Thread 2 (Madison)`, `Thread 2 (Lauren)`, `Thread 2 (Sarah)`, `Thread 2 (Jessica)`, and in Book 2 `Thread 2 (Megan)`) | Tracks the observing/co-regulating romantic Pact partners currently in the room (`IsJealous == false`, `EmotionalState == Supportive`). |
+| **`Thread 3 (Jordan)`** | **Aubrey "Jordan" Fuller $\rightarrow$ Jordan Shawn Kelly** (`Jordan.OS` / `Agent(Jordan)` / `agentJordan`) | Highest-priority monitored thread (`'PRIORITY_JORDAN_SECURITY'`); tracks Jordan’s non-verbal AAC/NeoEdit output, muscle tension, heart rate, and `Jordan.OS` stability. |
+| **`Thread 4 (Mark)`** | **Mark Shawn Anderson** (`Agent(Mark)` / `Observer(Mark)`) | Platonic brother, physical perimeter security, transit/wheelchair logistics, and Pre-Med/EMT medical triage thread. |
+| **`Thread 5 (Hannah)`** | **Hannah Ashlee Parker** (`Agent(Hannah)` / `Observer(Hannah)`) | Platonic sister, nursing assessment, sensory regulation, and physical-care support thread. |
 
-### C. Canonical Geographic & Environment Nodes
-* `[Bennett_Hall.Safe_Space]` / `Room214_Originals`
-* `Node(CPI.Campus)` / `Node(CPI)`
-* `Node(Geneva.Street)` — The Brooks family home in Christiansburg, VA (containing `'Basement_Pact_Suite'` and `'Anderson_Suite'`)
-* `Node(Star City.Roanoke)` — Hospital / medical center node in Roanoke, VA
+### B. Dynamic Auxiliary Threads (`Thread 6` – `Thread 9`)
+*(Spawned on-demand by `ZOË.Systems.Logs.SystemSchedulerLog` when people outside the core 9 enter the active scene)*
+
+| Thread Identifier | Specific Sub-Thread Variants | When Spawned |
+| :--- | :--- | :--- |
+| **`Thread 6 (Family_Admins)`** | `Thread 6 (Daniel)`, `Thread 6 (Laura)`, `Thread 6 (Brooks_Siblings)`, `Thread 6 (Scott_Family)`, `Thread 6 (Barnes_Family)`, `Thread 6 (Gallagher_Family)`, `Thread 6 (Kelly_Family)`, `Thread 6 (Braithwaite_Family)` | Active when parental or sibling family nodes are present in the room or on a call (e.g., Geneva Street compound, Bluewater Sanctuary, or World Trek). |
+| **`Thread 7 (Campus_Allies)`** | `Thread 7 (Isabel)`, `Thread 7 (Henry)`, `Thread 7 (Kelsey)`, `Thread 7 (Suite_510)` | Active when Bennett Hall RAs (`Isabel Dawson`, `Henry Walsh`), Hall Director `Kelsey Brennan`, or Room 510 suitemates are interacting with the group. |
+| **`Thread 8 (Institutional_Support)`** | `Thread 8 (OEA_Higgins)`, `Thread 8 (Medical_Staff)`, `Thread 8 (Legal_Counsel)`, `Thread 8 (CPI_Faculty)` | Active during Office of Educational Accessibility meetings, hospital/clinic visits, courtroom hearings, or professor consultations. |
+| **`Thread 9 (Threat_Monitor)`** | `Thread 9 (Firewall_Monitor)`, `Thread 9 (Hostile_Agent)` | Background security/firewall daemon spawned whenever an external threat (`Hostile_Agent.AubrieSinclair`, `Hostile_Agent.Davies`, `Hostile_Agent.TomLawson`, `Hostile_Agent.Alex`) is detected. |
+
+### C. Complete Agent, System.Admin, & Hostile_Agent Registry
+
+#### 1. The Constellation Pact & Core Suite (`Room214_Originals` + Expanded Constellation)
+* **`Agent(Self)`** / **`Agent(Zoë)`** — **Zoë Wren Brooks** (18, 5'4"; British-American Computer Science & Finance double major; creator of `Fin#` and `Z-SOX-302`).
+* **`Agent(Jordan)`** / **`Jordan.OS`** / **`agentJordan`** — **Aubrey "Jordan" Fuller $\rightarrow$ Jordan Shawn Kelly** (18, 5'5"; non-verbal autistic ambulatory/manual wheelchair user; General Engineering $\rightarrow$ Mechanical Engineering major).
+* **`Agent(Aubrie)`** / **`Observer(Aubrie)`** — **Aubrie Jean Kelly** (18, 5'8"; Jordan’s Anchor and Primary Safe Person; Industrial Systems Engineering major).
+* **`Agent(Madison)`** / **`Observer(Madison)`** — **Madison Elizabeth Scott** (18, 5'10"; Architecture major; co-organizer of physical sanctuary spaces).
+* **`Agent(Lauren)`** / **`Observer(Lauren)`** — **Lauren Nicole Barnes** (18, 5'11"; Aerospace Engineering major from Gander, NL; high-sensory warmth & grounding node).
+* **`Agent(Sarah)`** / **`Observer(Sarah)`** — **Sarah Kristyn Braithwaite** (18, 6'1"; Materials Science & Engineering major from Liverpool/Sydney, NSW; Room 510 resident who joins the Pact).
+* **`Agent(Jessica)`** / **`Observer(Jessica)`** — **Jessica Gallagher** (18, 6'3"; Mechanical Engineering major from Petermann, NT; Room 510 resident who joins the Pact; **strictly logged as `Agent(Jessica)`, NEVER `"Jess"`**).
+* **`Agent(Megan)`** / **`Observer(Megan)`** — **Megan Brooks** (27, 6'0"; Zoë’s eldest sister; logged as `Family_Node(Megan)` in Book 1, and reclassified to `Agent(Megan)` / `Pact.Member` when she joins the Constellation in Book 2).
+* **`Agent(Mark)`** / **`Observer(Mark)`** — **Mark Shawn Anderson** (18, 6'2"; Biological Sciences / Pre-Med major & EMT; Jordan’s platonic brother and primary physical/medical protector).
+* **`Agent(Hannah)`** / **`Observer(Hannah)`** — **Hannah Ashlee Parker** (18, 5'6"; Human Nutrition, Foods, and Exercise / Pre-Nursing major; platonic sister and clinical care coordinator).
+
+#### 2. Bennett Hall & CPI Campus Allies (`Ally_Nodes` & `System.Admins`)
+* **`System.Admin(HallDirector_Kelsey)`** / **`Agent(Kelsey)`** — **Kelsey Morgan Brennan** (Bennett Hall Director, Room 104; administrator of Jordan’s `FERPA` directory suppression, Housing lockdown, and `Node(Bennett_Hall.Room104.Safe_Place)`).
+* **`System.Admin(RA_Isabel)`** / **`Agent(Isabel)`** — **Isabel Claire Dawson** (2nd-Floor Female RA, Room 215; executes `'Protocol: Platonic_Greeting.Hug'` with Jordan; older sister to `Agent(Elena_Dawson)`).
+* **`System.Admin(RA_Henry)`** / **`Agent(Henry)`** — **Henry Thomas Walsh** (2nd-Floor Male RA, Room 201; corridor boundary enforcer and acoustic guitar peer mentor).
+* **`Agent(Elena_Dawson)`** — **Elena Dawson** (Isabel’s younger autistic and selectively mute sister; catalyst for Isabel’s trauma-informed fluency with Jordan’s AAC).
+* **`Agents(Suite_510)`** — The remaining four suitemates in Bennett Hall Room 510 alongside Sarah and Jessica:
+  * **`Agent(Ashley)`** — Ashley (Room 510 suitemate)
+  * **`Agent(Emily)`** — Emily (Room 510 suitemate)
+  * **`Agent(Cassie)`** — Cassie (Room 510 suitemate)
+  * **`Agent(Chloe_510)`** — Chloe (Room 510 suitemate; disambiguated from Zoë’s older sister `Agent(Chloe_Brooks)`)
+* **`System.Admin(OEA_Higgins)`** — **Ms. Higgins** (Director, CPI Office of Educational Accessibility; manages Jordan’s ADA accommodations, priority note-taker registration, and 24/7 Hillside Pass-Through encoding).
+* **`System.Admin(Nurse_Collins)`** — **Nurse Collins** (Schiffert Health Center / Montgomery Vision & Hearing Clinic clinical coordinator).
+* **`System.Admin(Hospital_Staff)`** / **`System.Admin(Nurse)`** / **`System.Admin(Attending_Physician)`** — Hospital clinical personnel at Montgomery Regional and Star City / Roanoke medical centers.
+* **`System.Admin(Dr_Alistair)`** / **`System.Admin(Dr_Gable)`** / **`System.Admin(Dr_Evans)`** — CPI faculty administrators across Engineering, Computer Science, and Humanities.
+
+#### 3. Extended Family Networks (`Family_Nodes` & `System.Admins`)
+* **The Brooks Family (`Geneva_Street_Cluster` — Christiansburg, VA / London / Osaka)**:
+  * **`System.Admins (Daniel, Laura)`** / **`Agent 'Daniel' (Patriarch_Node)`** / **`Agent 'Laura' (Matriarch_Node)`** — **Daniel & Laura Brooks** (Zoë’s parents; Jordan’s chosen emergency contacts, legal advocates, and architects of the Geneva Street compound).
+  * **`Agent(Megan)`** — **Megan Brooks** (Child #1, age 27, 6'0"; joins the Pact in Book 2).
+  * **`Agent(Caleb)`** — **Caleb Brooks** (Child #2, age 25; Structural Engineer who helps retrofit the Geneva Street basement sanctuary).
+  * **`Agent(Chloe_Brooks)`** — **Chloe Brooks** (Child #3, age 23; Pediatric Occupational Therapist; married to **`Agent(Ethan_Carter)`**).
+  * **`Agent(Lucas)`** — **Lucas Brooks** (Child #4, age 21; CPI Senior in Architecture).
+  * *(Child #5 is **`Agent(Self)`** — Zoë Wren Brooks, age 18).*
+  * **`Agent(Owen)`** — **Owen Brooks** (Child #6, age 16; Christiansburg High School Junior).
+  * **`Agent(Jacob)`** — **Jacob Brooks** (Child #7, age 14; Christiansburg High School Freshman).
+  * **`Agents(Brooks_Younger_Siblings)`** — Children #8–#10 of Daniel and Laura Brooks (making Jordan *"The Eleventh Child"* when welcomed into the Brooks family).
+* **The Scott & Jenkins Family (`Bluewater_Cluster` — Bluewater, VA)**:
+  * **`System.Admins (David_Scott, Diane_Scott)`** — **David & Diane Scott** (Madison’s parents; hosts of the Bluewater mountain sanctuary).
+  * **`Agent(Bob_Scott)`** — **Bob Scott** (Madison’s grandfather; master woodworker and quiet-shop mentor to Jordan).
+  * **`Agent(Emily_Jenkins)`** — **Emily Jenkins** (Madison’s cousin).
+* **The Barnes Family (`Gander_Cluster` — Gander, Newfoundland, Canada)**:
+  * **`System.Admins (Arthur_Barnes, Maeve_Barnes)`** — **Arthur & Maeve Barnes** (Lauren’s parents).
+  * **`Agents(Liam_Barnes, Connor_Barnes)`** — **Liam & Connor Barnes** (Lauren’s brothers).
+* **The Gallagher Family (`Outback_Cluster` — Petermann, Northern Territory, Australia)**:
+  * **`Agent(Bec_Gallagher)`** — **Rebecca "Bec" Gallagher** (Jessica’s 6'3" identical twin sister; heavy-diesel mechanic at Gallagher’s Roadhouse).
+  * **`System.Admins (Gallagher_Parents)`** — Jessica and Bec’s parents at Gallagher’s Roadhouse.
+* **The Kelly, Parker, & Braithwaite Families**:
+  * **`System.Admins (Kelly_Parents)`** — Aubrie Jean Kelly’s parents (Midlothian, VA).
+  * **`System.Admins (Parker_Parents)`** — Hannah Ashlee Parker’s parents (Blacksburg, VA).
+  * **`System.Admins (Braithwaite_Parents)`** — Sarah Kristyn Braithwaite’s parents (Liverpool / Sydney, NSW, Australia).
+* **Historical / Hampton Roads Archive Nodes**:
+  * **`Agent(Jessamine)`** — **Jessamine "Jess" Mercer** (Jordan’s Virginia Beach high school crush from `History.Archive.2013`; **only Jordan calls her `"Jess"`**).
+
+#### 4. Hostile External Threats (`Hostile_Agent.*` — Blocked by System Firewall)
+* **`Hostile_Agent.AubrieSinclair`** — **Aubrie Renee Sinclair** (Jordan’s abusive biological mother; origin of `AubrieSinclair.LegacyScript.dll`; permanently blocked via FERPA lockdown, Trespass Bar, and Permanent Protective Order).
+* **`Hostile_Agent.Davies`** — **Mr. Davies** (Aubrie Sinclair’s legal counsel during the fraudulent competency/guardianship petition in Montgomery County Circuit Court).
+* **`Hostile_Agent.TomLawson`** — **Tom Lawson** (Bennett Hall resident flagged as an ideological/ableist boundary violator).
+* **`Hostile_Agent.Alex`** — **Alex** (Megan Brooks’s toxic former coworker in Book 2).
+
+### D. Canonical Geographic, Campus, & Transit Nodes (`Node(...)` & `[...]`)
+* **Bennett Hall & CPI Campus Nodes (`Blacksburg, VA`)**:
+  * **`[Bennett_Hall.Safe_Space]`** / **`Node(Bennett_Hall.Suite_214_216)`** / **`Room214_Originals`** — The 2nd-floor six-person suite sanctuary in Eleanor Bennett Commonwealth Hall.
+  * **`Node(Bennett_Hall.Room104.Safe_Place)`** — Hall Director Kelsey Brennan’s 1st-floor office (designated administrative safe harbor).
+  * **`Node(Bennett_Hall.Room215)`** — RA Isabel Dawson’s single room across the staggered isosceles hallway.
+  * **`Node(Bennett_Hall.Room201)`** — RA Henry Walsh’s room in the opposite 2nd-floor wing.
+  * **`Node(Bennett_Hall.Room510)`** — 5th-floor six-person suite (Sarah, Jessica, Ashley, Emily, Cassie, Chloe).
+  * **`Node(CPI.Campus)`** / **`Node(CPI)`** — Commonwealth Polytechnic Institute main campus (`Node(CPI.Torgersen_Hall)`, `Node(CPI.McBryde_Hall)`, `Node(CPI.Patton_Hall)`, `Node(CPI.Dietrick_Dining)`, `Node(CPI.The_Furnace)`, `Node(CPI.Transit_Center)`).
+* **New River Valley & Roanoke Regional Nodes (`Virginia`)**:
+  * **`Node(Geneva.Street)`** — The Brooks family compound in Christiansburg, VA (containing sub-nodes **`'Basement_Pact_Suite'`** and **`'Anderson_Suite'`**).
+  * **`Node(Bluewater.Sanctuary)`** — The Scott family mountain retreat in Bluewater, VA.
+  * **`Node(Star City.Roanoke)`** / **`Node(Montgomery_Regional.Hospital)`** — Regional medical center nodes.
+  * **`Node(Montgomery_County.Circuit_Court)`** — Christiansburg courthouse node (`e004`).
+  * **`Node(Exit_118C.Merit_Inn)`** — Legacy trauma-origin node on Roanoke Street in Christiansburg (`e001/c001`–`c002`).
+* **Transit Vector Nodes**:
+  * **`'Blue_Ridge_Transit.Route1'`** — Local Progress Street / Main Street accessible bus vector.
+  * **`'Blue_Ridge_Transit.Maroon_Express'`** — Campus express transit vector.
+  * **`'Roanoke_Valley_Transit.Roanoke_Express'`** — Intercity highway commuter coach (`81 ROANOKE EXP`).
+* **Summer 2015 World Trek International Sanctuary Nodes**:
+  * **`Node(Gander.Newfoundland)`** — Leg 2: Barnes family home in Gander, Newfoundland, Canada.
+  * **`Node(London.Carnaby_Street)`** — Leg 3: Brooks family ancestral flat in Soho/Westminster, London, UK.
+  * **`Node(Sydney.Liverpool_NSW)`** — Leg 4A: Braithwaite family home in Liverpool / Sydney, NSW, Australia.
+  * **`Node(Petermann.Gallagher_Roadhouse)`** — Leg 4B: Gallagher’s Roadhouse in the Red Centre near Uluru, Northern Territory, Australia.
+  * **`Node(Osaka.Japan)`** & **`Node(Seto_Inland_Sea.Ferry_Hoshizora)`** — Leg 5: Brooks family former neighborhood in Osaka and the overnight RORO car ferry *Ferry Hoshizora* across the Seto Inland Sea.
 
 ---
 
