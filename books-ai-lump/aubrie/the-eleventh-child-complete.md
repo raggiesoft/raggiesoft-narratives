@@ -3477,7 +3477,7 @@ Nurse Collins lowered her tablet, her professional demeanor softening into a loo
 
 "Okay, Jordan," she said gently. "You have severe myopia, and what looks like progressive sensorineural hearing loss. Left untreated, it will eventually result in total deafness. I am officially logging these deficits into your CPI medical file, which legally locks in your academic accommodations."
 
-She printed out two slips of paper and handed them to him. "But we are a primary care clinic. We don't dispense hardware here. I am referring you to an excellent dual-practice clinic in Christiansburg—an optometrist and an audiologist right next door to each other in Pepper Plaza. They have the specialized equipment to get you properly fitted."
+She printed out two slips of paper and handed them to him. "But we are a primary care clinic. We don't dispense hardware here. I am referring you to an excellent dual-practice clinic in downtown Christiansburg—an optometrist and an audiologist right next door to each other across from the Pepper Plaza bus hub and the County Courthouse. They have the specialized equipment to get you properly evaluated and fitted."
 
 Jordan looked down at the slips of paper in his lap, the reality of the adult world settling over him. It was a process. But these papers were physical tickets out of the blur and the static.
 
@@ -3549,11 +3549,11 @@ Jordan looked around the small cinderblock room—at Aubrie smiling down at him,
 
 By Friday afternoon, the late-August sun was warm and bright over the gray Ironstone buildings of Commonwealth Polytechnic Institute. With their first full week of classes officially behind them, the entire nine-person crew—Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—formed their familiar protective phalanx around Jordan's manual wheelchair as they rolled down the paved walkway toward the curbside transit bays along **Commonwealth Mall** beneath **The Keystone Bridge** outside **Kincaid Hall**.
 
-Today wasn't just a trip into town for Jordan's vision and hearing appointments. It was a threshold he had never crossed in eighteen years of life: **his very first time riding a bus.**
+Today wasn't just a trip into town for Jordan's vision and hearing appointments. It was a monumental threshold he had never crossed in eighteen years of life: **his very first time riding a public bus—and the very first time in his life he had ever gone anywhere beyond pushing distance without needing his mother to drive him.**
 
-As they waited by the shelter, Jordan's hands tightened instinctively on his push-rims, his shoulders tensing as a lifetime of painful muscle memory surfaced. Back in Virginia Beach, leaving the house had meant enduring the rough, humiliating ordeal of getting in and out of his mother's luxury sedan. Because Aubrie Sinclair refused to buy a wheelchair-accessible van—claiming it would look "unsightly" in her driveway—every single car trip had begun with a physical struggle. She would park too close to the curb, grab Jordan roughly under the arms before he was braced, and shove and twist his body across the narrow door sill into the low front passenger seat, bruising his hips against the seatbelt buckle while sighing loudly about how much he was *"ruining her back."* Then he would have to sit helplessly inside the hot car listening to her wrench the pins on his wheelchair, slam the folded frame violently into the trunk, and complain for the entire drive about what an exhausting ordeal it was to take him anywhere.
+As they waited by the glass transit shelter, Jordan's hands tightened instinctively on his push-rims, his heart hammering against his ribs as eighteen years of conditioning pressed in on him. Back in Virginia Beach, his mother's car keys had been the ultimate lock on his cage. Because he couldn't drive, and because Aubrie Sinclair never let him out of her sight, he had never once gone anywhere unless she decided to take him. And she had made sure every single car trip felt like a punishment for existing. Refusing to buy a wheelchair-accessible van—claiming it would look *"unsightly"* in her driveway—she had turned getting into her luxury sedan into a rough, humiliating physical ordeal. She would park too close to the curb, grab Jordan roughly under the arms before he was braced, and shove and twist his body across the narrow door sill into the low front passenger seat, bruising his hips against the seatbelt buckle while sighing loudly about how much he was *"ruining her back."* Then he would have to sit helplessly inside the hot car—completely stripped of his mobility—listening to her wrench the pins on his wheelchair, slam the folded frame violently into the dark trunk, and complain for the entire drive about what an exhausting burden it was to take him anywhere.
 
-Whenever he had looked out the car window at a city bus passing by, his mother had weaponized that, too—telling him that public buses were *"dirty, dangerous, and ten times rougher,"* and that if he ever tried to board one in a wheelchair, he would get stuck on the ramp while a furious bus driver and fifty impatient commuters glared at him for holding up traffic.
+Whenever he had looked wistfully out the car window at a Hampton Roads city bus rolling down Virginia Beach Boulevard, his mother had immediately poisoned that hope, too. She had told him coldly that public buses were *"filthy, dangerous, and ten times rougher,"* and that if a boy like him ever tried to board one in a wheelchair, he would get stuck on the ramp while a furious bus driver and fifty impatient commuters glared at him for holding up traffic. In her narrative, the math was absolute: without her behind the steering wheel, he could never leave a building. Without her car, he was stranded forever.
 
 Then a deep, refined diesel hum echoed beneath the stone arch of the skybridge.
 
@@ -3562,19 +3562,21 @@ Gliding smoothly up to the curb was a sixty-foot **Blue Ridge Transit** low-floo
 `1 CBURG TRANS CTR`
 `via S MAIN ST`
 
-The transit operator—a friendly middle-aged man in a short-sleeved Blue Ridge Transit polo—spotted Jordan's wheelchair on the sidewalk immediately. He didn't scowl, check his watch, or sigh. Instead, he offered Jordan a warm, unhurried two-finger wave through the windshield and flipped a toggle switch on his dashboard.
+The transit operator—a friendly middle-aged man in a short-sleeved Blue Ridge Transit polo—spotted Jordan's wheelchair on the sidewalk immediately. He didn't scowl, check his watch, or roll his eyes. Instead, he offered Jordan a warm, unhurried two-finger wave through the windshield and flipped a toggle switch on his dashboard.
 
-With a gentle, rhythmic pneumatic *hiss*, the entire front end of the sixty-foot bus kneeled downward, dropping the front step until it was nearly flush with the concrete curb. The dual-leaf front boarding doors folded wide open, a soft chime sounded, and the wide, yellow-edged aluminum low-floor ADA ramp flipped smoothly out of the floor and settled onto the sidewalk right beside the driver's compartment. The entire deployment had taken less than four seconds.
+With a gentle, rhythmic pneumatic *hiss*, the entire front end of the sixty-foot bus kneeled downward, dropping the front entrance until it was nearly flush with the concrete curb. The dual-leaf front boarding doors folded wide open, a soft chime sounded, and the wide, yellow-edged aluminum low-floor ADA ramp flipped smoothly out of the floor and settled onto the sidewalk right beside the driver's compartment. The entire deployment had taken less than four seconds.
 
 "Afternoon, folks! Take your time coming aboard," the driver called out cheerfully.
 
-"Right up the front ramp, brother," Mark said easily, flashing his maroon-and-orange **CPI Poly Pass** to the driver as Jessica and Aubrie flanked Jordan's chair. "These low-floor Prairie Coachworks buses are engineered like tanks. You don't even have to leave your seat."
+"Right up the front ramp, brother," Mark said easily, gesturing toward the wide open doorway as Jessica and Aubrie flanked Jordan's chair. "Your Poly Pass covers every Blue Ridge Transit route in the New River Valley. Just flash your card to the driver like the rest of us—you don't even have to leave your seat."
 
-Jordan took a deep breath, released his wheel locks, and pushed forward onto the textured aluminum ramp.
+Jordan's breath caught. With a trembling hand, he reached into his shirt pocket and pulled out his maroon-and-orange **CPI Poly Pass**—the card with his own photo on it. He released his wheel locks, held his Poly Pass up toward the driver's window, and pushed forward onto the textured aluminum ramp.
 
-To his utter astonishment, the incline was barely steeper than a hallway threshold. With a light, effortless assist from Mark and Jessica behind him just to keep his momentum steady, his front casters glided over the lip of the ramp and rolled straight onto the flat, slip-resistant floor of the air-conditioned cabin.
+"Welcome aboard, young man!" the driver smiled, giving Jordan a friendly nod of recognition as Jordan cleared the farebox.
 
-Nobody grabbed him under the arms. Nobody wrenched his torso across a car seat or bruised his ribs. Nobody took his wheelchair away from him and slammed it into a dark trunk like unwanted luggage. He remained seated upright in his own chair, in full control of his own body.
+To Jordan's utter astonishment, the incline of the low-floor ramp was barely steeper than a hallway threshold. With a light, effortless assist from Mark and Jessica behind him just to keep his momentum steady, his front casters glided over the lip of the ramp and rolled straight onto the flat, slip-resistant floor of the air-conditioned cabin.
+
+Nobody grabbed him under the arms. Nobody wrenched his torso across a car seat or bruised his ribs. Nobody took his wheelchair away from him and slammed it into a dark trunk like unwanted luggage. He remained seated upright in his own chair, in full command of his own body, holding his own ticket to the outside world.
 
 Just behind the front wheel well on the passenger side, the driver flipped up a padded three-person forward bench with a single fluid motion, exposing a spacious, dedicated wheelchair securement bay. Mark guided Jordan in backing his chair flush against the padded backrest, knelt down, and pulled the four self-tensioning floor retractor straps out of their tracks—*click, click, click, click*—hooking them cleanly onto the frame of Jordan's chair and snapping the lap belt comfortably across his waist.
 
@@ -3582,47 +3584,53 @@ Just behind the front wheel well on the passenger side, the driver flipped up a 
 
 One by one, the rest of the group flashed their Poly Passes to the driver and filled the surrounding seats—Aubrie and Madison sitting right beside Jordan's armrests, Lauren and Sarah across the wide aisle, and Zoë, Hannah, Mark, and six-foot-three Jessica claiming the row immediately behind him.
 
-With another smooth pneumatic whisper, the ramp folded back into the floor, the front suspension rose to ride height, and the sixty-foot articulated coach glided effortlessly away from the Commonwealth Mall curb. As they turned onto South Main Street and cruised south down the four-lane stretch of **U.S. Route 460 Business** toward Christiansburg, Jordan marveled at how velvet-smooth the air-ride suspension felt beneath his tires. Every bump in the asphalt was absorbed into a gentle, cradle-like sway.
+With another smooth pneumatic whisper, the ramp folded back into the floor, the front suspension rose to ride height, and the sixty-foot articulated coach glided effortlessly away from the Commonwealth Mall curb.
 
-Jordan opened his `Pinnacle Vanguard Pro` on his lap tray. Launching `NeoEdit` on his Aura Glade terminal, he typed out a message in large neon-green text and angled the screen toward Aubrie, Madison, and Mark:
+As the bus turned onto South Main Street, left the stone gates of the university behind, and cruised south down the four-lane stretch of **U.S. Route 460 Business** toward Christiansburg, a sudden, overwhelming wave of emotion swelled in Jordan's chest. He looked out the wide tinted window beside him as the shops, trees, and traffic of Blacksburg rolled past, marveling at how velvet-smooth the air-ride suspension felt beneath his tires.
 
-<aac>That took less than a minute. Nobody had to lift me, and nobody had to fold my chair into a trunk. My mother told me getting on a bus was impossible and that I would hold up traffic for twenty minutes.</aac>
+He was leaving campus. He was traveling from one town to another. And **his mother wasn't driving.**
 
-Aubrie reached over and laced her fingers warmly through his, her eyes shining with quiet emotion as she saw the weight lifting off his shoulders. "Everything she told you to keep you trapped in that house was a lie, J. Out here, the world actually has room for you."
+For the first time in eighteen years, he was going somewhere in the world without Aubrie Sinclair's car keys, without her permission, and without her voice in the front seat telling him how helpless he was. With nothing more than the plastic student ID card in his pocket and a public transit system engineered to welcome him, the invisible wall that had trapped him inside whatever room his mother dropped him in had just vanished.
 
-"Your mum talked a lot of rubbish, mate," Sarah agreed from across the aisle, shaking her head in her thick Sydney accent. "Whether you're in Sydney or right here in Blacksburg, low-floor buses are built so you can go wherever you want, whenever you want, with zero dramas."
+Jordan opened his `Pinnacle Vanguard Pro` on his lap tray. Launching `NeoEdit` on his Aura Glade terminal, he typed out a message in large neon-green text—his fingers shaking slightly with the sheer enormity of the moment—and angled the screen toward Aubrie, Madison, and Mark:
 
-"And look out the left window when we crest this hill," Mark pointed as the bus glided past the Christiansburg town limits and turned toward the commercial district. Even through Jordan's blurry, uncorrected vision, he could make out the brick-and-limestone silhouette of a large civic building across from a bustling shopping center. "That's the **Montgomery County Courthouse** on the left, and right here on the right is **Pepper Plaza**."
+<aac>That took less than a minute. Nobody had to lift me, and nobody had to fold my chair into a trunk. For eighteen years, I couldn't go anywhere unless my mother drove me. She told me getting on a public bus was impossible and that I would hold up traffic for twenty minutes. I am actually going somewhere by myself.</aac>
+
+Aubrie reached over and laced her fingers warmly through his, her eyes shining with quiet emotion as she saw the eighteen-year weight lifting off his shoulders. "Everything she told you to keep you trapped in that house was a lie, J. You don't need her car anymore. Out here, the world actually has room for you."
+
+"Your mum talked a lot of rubbish, mate," Sarah agreed from across the aisle, shaking her head in her thick Sydney accent. "Whether you're in Sydney or right here in Blacksburg, low-floor buses are built so you can go wherever you want, whenever you want, with zero dramas. You've got the whole valley unlocked now."
+
+"And look out the windows as we roll down North Franklin Street into Christiansburg," Mark pointed as the sixty-foot bus glided past the sprawling commercial corridor on the north side of town—passing **New River Valley Mall** on one side of the four-lane boulevard and **Strickland Farm Shopping Center** on the other—before crossing the grade-separated railroad bridge into downtown Christiansburg. Even through Jordan's blurry, uncorrected vision, he could make out the stately brick-and-limestone silhouette of a historic civic building across the street from a dedicated sawtooth bus transfer island. "That's the **Montgomery County Courthouse** on the left, and right here on the right is the **Pepper Plaza Transit Center**. Your clinic is right across the street."
 
 Hannah reached up and pressed the yellow ADA stop-request strip beside Jordan's bay, triggering a polite chime overhead.
 
-As the bus pulled into the **Pepper Plaza Transit Center** bay, Jordan braced slightly out of old habit—half-expecting getting *off* the bus to be harder than getting on. Instead, the moment the air brakes set, Mark clicked the four red release tabs on the floor retractors and the straps zipped neatly back into their housings. The bus kneeled with a soft *hiss*, the front doors opened, and the aluminum ramp flipped down onto the sunny concrete sidewalk.
+As the bus pulled into the sawtooth bay of the **Pepper Plaza Transit Center**, Jordan braced slightly out of old habit—half-expecting getting *off* the bus to be harder than getting on. Instead, the moment the air brakes set, Mark clicked the four red release tabs on the floor retractors and the straps zipped neatly back into their housings. The bus kneeled with a soft *hiss*, the front doors opened, and the aluminum ramp flipped down onto the sunny concrete platform of the transit center.
 
-Jordan spun his wheels forward, rolled smoothly down the gentle ramp under his own power, and came to a stop on the wide plaza pavement in less than twenty seconds.
+Jordan spun his wheels forward, rolled smoothly down the gentle ramp under his own power, and came to a stop on the wide terminal apron in less than twenty seconds.
 
 "Have a great afternoon, young man!" the driver called out with a friendly salute before closing the doors.
 
-Sitting on the warm sidewalk in front of the **Montgomery Vision and Hearing Clinic**, Jordan looked back at the departing white-and-green bus in quiet awe. Getting in and out of his mother's car had been a rough, painful reminder of his supposed helplessness. Getting on and off a Blue Ridge Transit bus had been as natural as breathing. For eighteen years, the world beyond three feet had been a smeared, muffled fog—and in less than an hour, that fog was finally going to lift.
+As the nine friends crossed from the Pepper Plaza bus bays to the entrance of the **Montgomery Vision and Hearing Clinic** opposite the courthouse, Jordan looked back at the departing white-and-green bus in quiet awe. Getting in and out of his mother's car had been a rough, painful reminder of his supposed helplessness. Getting on and off a Blue Ridge Transit bus had been as natural as breathing. For eighteen years, the world beyond three feet had been a smeared, muffled fog—and this afternoon, that fog was finally going to lift.
 
-### Scene 2: A World in Focus
+### Scene 2: The Prescription
 
-**Date:** 2014-08-29 at 14:00 America/New_York
+**Date:** 2014-08-29 at 13:50 America/New_York
 
-Inside the Optometry Suite of the Montgomery Vision and Hearing Clinic, the exam room was cool, quiet, and smelled faintly of lens cleaner. Unlike the cramped triage cubicles at the campus health center, this room had a wide, wheelchair-accessible examination lane designed so Jordan didn't even have to transfer out of his chair. Better still, after Jordan signed a standard clinic release form at the front desk, the optometrist—a warm, soft-spoken man in his forties named Dr. Patel—invited Aubrie and Madison to sit in the two visitor chairs right inside the room while the rest of the group waited in the lobby.
+Inside the Optometry Suite of the **Montgomery Vision and Hearing Clinic** just across the street from the **Pepper Plaza Transit Center** and the **Montgomery County Courthouse**, the exam room was cool, quiet, and smelled faintly of lens cleaner. Unlike the cramped triage cubicles at the campus health center, this room had a wide, wheelchair-accessible examination lane designed so Jordan didn't even have to transfer out of his chair. Better still, after Jordan signed a standard clinic release form at the front desk, the optometrist—a warm, soft-spoken man in his forties named **Dr. Patel**—invited Aubrie and Madison to sit in the two visitor chairs right inside the room while the rest of the group waited in the lobby.
 
 Dr. Patel swung the heavy black phoropter into position in front of Jordan's face and dimmed the overhead lights.
 
-"Alright, Jordan," Dr. Patel said clearly, already briefed by Nurse Collins' referral notes to speak facing him and give him a beat to respond with a thumbs-up for 'One' or two fingers for 'Two'. "We know your baseline vision without correction is below 20/200. Let's start bringing that chart into focus. Which is clearer—one, or two?"
+"Alright, Jordan," Dr. Patel said clearly, already briefed by Nurse Collins' referral notes to speak facing him and give him a beat to respond with a thumbs-up for *'One'* or two fingers for *'Two'*. "We know your baseline vision without correction is below 20/200. Let's start bringing that chart into focus. Which is clearer—one, or two?"
 
 At first, the glowing square on the far wall was the same familiar, hopeless smear of white and gray milk that Jordan had stared at his entire life. Dr. Patel clicked a heavy dial. Then another. And another.
 
-Suddenly, the amorphous gray blob in the center of the light box shrank, its fuzzy edges pulling inward like a camera lens locking onto a distant star.
+Suddenly, the amorphous gray blob in the center of the light box shrank, its fuzzy edges pulling inward like a telescope lens locking onto a distant star.
 
 Jordan gasped silently, his breath catching in his throat.
 
 "How about now?" Dr. Patel asked gently, clicking a finer cylinder adjustment into place. "One... or two?"
 
-Jordan raised two fingers, his hand trembling slightly. Looking through the circular apertures of the phoropter, he wasn't looking at a smudge anymore. He was looking at crisp, jet-black letters with razor-sharp serifs:
+Jordan raised two fingers, his hand trembling slightly. Looking through the circular apertures of the phoropter, he wasn't looking at a smudge anymore. For the first time in eighteen years, he was looking at crisp, jet-black letters with razor-sharp serifs across a room:
 
 `E  F  P`
 `T  O  Z`
@@ -3630,55 +3638,47 @@ Jordan raised two fingers, his hand trembling slightly. Looking through the circ
 
 "Can you type what you see on the fourth line for me?" Dr. Patel asked.
 
-Jordan's hands dropped to the keyboard of his `Vanguard Pro` resting on his lap. Without even needing to look down at the keys, he typed into `EchoType` and hit execute:
+Jordan's hands dropped to the keyboard of his `Vanguard Pro` resting on his lap. Without even needing to hunch down to the keys, he typed into `EchoType` and hit execute:
 
 <aac>P E C F D. And the line below it is E D F C Z P.</aac>
 
 Across the room in the dim light, Madison clapped both hands over her mouth to stifle an excited squeal, and Aubrie wiped a tear from her cheek.
 
-"20/20," Dr. Patel said, a broad, satisfied smile creasing his face as he swung the phoropter arm back. "You have significant compound myopic astigmatism, Jordan—minus-4.75 in the right eye, minus-5.00 in the left—which is why everything past arm's length has been a complete blur. The good news is that your retinas and optic nerves are completely healthy, and because we have an on-site surfacing and edging lab right here in Pepper Plaza for single-vision polycarbonate lenses, you don't have to wait two weeks for a mail-order pair. Pick out a frame with your friends, and we'll have your glasses cut in thirty minutes while you're next door at Audiology."
+"Twenty-twenty," Dr. Patel said, a broad, satisfied smile creasing his face as he swung the phoropter arm back—returning the room to its familiar soft blur, though Jordan's heart was now racing with hope. "You have significant compound myopic astigmatism, Jordan—minus-4.75 in the right eye, minus-5.00 in the left—which is why everything past arm's length has been a complete blur. The great news is that your retinas and optic nerves are completely healthy. All you need is the right glass in front of your eyes."
 
-With Aubrie and Madison acting as his enthusiastic style consultants at the frame wall, they selected a sleek, lightweight pair of dark gunmetal-and-tortoiseshell rectangular frames that sat comfortably on the bridge of his nose without pinching.
+Dr. Patel turned to his desktop printer, pulled a crisp, heavyweight prescription slip off the tray, and signed the bottom with a blue fountain pen.
 
-Thirty-five minutes later, just before his audiology slot next door, the optical technician walked out into the lobby holding a velvet-lined tray. Jordan unlocked his brakes, his heart thumping against his ribs as the technician gently slid the new frames onto his face and adjusted the temple arms behind his ears.
+"Now, because we are a clinical medical practice rather than a retail optical chain, any frames ordered through our office have to be sent out to our regional wholesale lab in Roanoke, which takes ten to fourteen business days," Dr. Patel explained, handing the signed paper prescription directly to Jordan. "With your university lectures already underway, I don't want you sitting in the back of an astronomy hall waiting two weeks to see the projector."
 
-Jordan blinked once. Then twice.
+"Can we take his prescription somewhere local that cuts lenses on the spot?" Madison asked eagerly, leaning forward in her chair.
 
-The world exploded into breathtaking, impossible detail.
+"You sure can," Dr. Patel smiled. "Right after you finish your audiology evaluation next door with Dr. Vance, walk back across to the **Pepper Plaza Transit Center** and hop on the northbound **Route 1** bus heading back up North Franklin Street. Get off at **Strickland Farm Shopping Center**—right across the four-lane boulevard from **New River Valley Mall**. There's a big retail optical store in Strickland Farm called **LensWorks Optical** that has a full one-hour surfacing and edging lab right inside the building. Hand them this signed prescription, pick out your frames, and they'll have single-vision high-index polycarbonate lenses cut and mounted for you in under an hour."
 
-He didn't just see shapes and colors anymore. He looked up at Aubrie standing right in front of him, and for the first time since they met on Saturday, he saw the delicate individual flecks of warm hazel-brown in her eyes, the fine texture of the knit in her sweater, and the tiny crease at the corner of her smile. He looked past her to Madison's bright blue eyes, to Lauren's auburn hair, to Sarah's grin, to the individual brick mortar lines on the Montgomery County Courthouse across the street through the plate-glass lobby window.
-
-His fingers moved slowly to his keyboard, his eyes never leaving Aubrie's face.
-
-<aac>I can see your eyelashes,</aac> his `"Sydney"` voice said softly into the quiet lobby. <aac>I can see the leaves on the trees across the street. Everything has edges.</aac>
-
-Aubrie knelt in front of his chair, taking both of his hands in hers as her eyes shone brightly through his crystal-clear lenses.
-
-"Handsome *and* twenty-twenty," she whispered, pressing a kiss to his knuckles. "Welcome to high definition, J."
+Jordan looked down at the signed slip of paper in his hand—the official medical document bearing his chosen name, **`Jordan Fuller`**, and the exact mathematical numbers that would unlock the visible universe. Tucking it carefully into the zippered front pocket of his laptop bag, he gave Dr. Patel an earnest, grateful nod before Aubrie and Madison rolled with him toward the connecting door to Audiology.
 
 ### Scene 3: The Audiologist's Verdict
 
-**Date:** 2014-08-29 at 15:15 America/New_York
+**Date:** 2014-08-29 at 14:25 America/New_York
 
-Still marveling at the razor-sharp clarity of the hallway signage through his new glasses, Jordan rolled through the connecting interior door into the Audiology Suite next door, accompanied by Aubrie, Zoë, and Mark.
+With Dr. Patel's signed eyeglass prescription tucked safely into his laptop bag, Jordan rolled through the connecting interior door into the Audiology Suite next door, accompanied by Aubrie, Zoë, and Mark while the rest of the crew waited in the front reception lounge.
 
-Dr. Elena Vance, the clinic's lead doctor of audiology, greeted them with a warm, practiced calm and guided Jordan's wheelchair up the flush threshold ramp into a double-walled, sound-attenuated acoustic booth. For the next forty minutes, looking through the thick observation glass at Dr. Vance's console—where he could now clearly read every expression on her face—Jordan completed a comprehensive battery of tests: pure-tone air- and bone-conduction audiometry, tympanometry, otoacoustic emissions, and word-recognition testing.
+**Dr. Elena Vance**, the clinic's lead doctor of audiology, greeted them with a warm, practiced calm and guided Jordan's wheelchair up the flush threshold ramp into a double-walled, sound-attenuated acoustic booth. For the next forty minutes, Dr. Vance conducted a comprehensive battery of diagnostic tests: pure-tone air- and bone-conduction audiometry, tympanometry, otoacoustic emissions, and speech-threshold recognition.
 
-When Dr. Vance opened the heavy acoustic door and invited Jordan, Aubrie, Zoë, and Mark around her consultation desk, she pulled up two crisp graphs on her dual monitors. With his new glasses, Jordan could read the steep, downward-plunging red and blue lines on the audiogram himself.
+When Dr. Vance opened the heavy acoustic door and invited Jordan, Aubrie, Zoë, and Mark around her consultation desk, she thoughtfully rolled her articulated diagnostic monitor arm right to the front edge of the desk—within eighteen inches of Jordan's face—and zoomed the interface to three hundred percent so he could read the steep, downward-plunging red and blue lines on the audiogram clearly even before his glasses were cut.
 
 "Nurse Collins' instinct at the campus clinic was spot-on, Jordan," Dr. Vance said, positioning herself directly in front of him and speaking in a clear, measured cadence so he could pair her lip movements with his residual low-frequency hearing. "Your middle ear structures and eardrums are completely normal. What we are looking at here is severe-to-profound, rapidly progressive bilateral sensorineural hearing loss."
 
-She used a stylus to trace the steep drop-off on the chart above 500 Hertz.
+She used a stylus to trace the steep drop-off on the zoomed-in chart above 500 Hertz.
 
 "Inside your cochlea—the snail-shaped inner ear organ—the microscopic sensory hair cells responsible for converting high- and mid-frequency sound vibrations into electrical signals are degenerating," Dr. Vance explained with quiet clinical honesty. "That is why you can still hear low-frequency rumbles, like a bus engine or a deep bass tone, while human speech consonants like *S*, *F*, *T*, and *K* sound like muffled static underwater. And based on your otoacoustic emission results today, those remaining hair cells are continuing to deteriorate."
 
-Jordan's hands rested on his `Vanguard Pro` keyboard. With the new visual clarity of his glasses grounding him, the panic that had seized him on Wednesday didn't return. Instead, he wanted the engineering truth.
+Jordan's hands rested on his `Vanguard Pro` keyboard. With Aubrie's hand resting warmly on his shoulder and the clinical truth laid out plainly in front of him, the panic that had seized him on Wednesday didn't return. Instead, he wanted the engineering truth.
 
 <aac>Nurse Collins said it will eventually result in total deafness,</aac> Jordan typed, triggering `EchoType`. <aac>Will hearing aids stop it?</aac>
 
 "I'm glad you asked that directly, because I never sugarcoat the physics for my patients," Dr. Vance replied, respecting his intelligence immediately. "Conventional hearing aids are essentially miniature acoustic amplifiers—they make sounds louder for the surviving hair cells to pick up. Right now, while you still have residual low- and mid-frequency hair cells, programmable high-output behind-the-ear hearing aids paired with your university FM classroom lapel system will give you an immediate, massive boost for your fall semester classes."
 
-She tapped a second diagram on her screen—an illustration showing a sleek external processor behind the ear connected to a small circular magnetic transmitter coil resting against the side of the head above the ear, sending digital signals directly to an internal electrode array coiled inside the cochlea.
+She pulled up a second high-contrast diagram on the close-up monitor—an illustration showing a sleek external processor behind the ear connected to a small circular magnetic transmitter coil resting against the side of the head above the ear, sending digital signals directly to an internal electrode array coiled inside the cochlea.
 
 "However," Dr. Vance continued carefully, "because your condition is progressive, simply cranking up acoustic volume on dying hair cells has a hard ceiling. Within the next six to twelve months, as those hair cells finish dropping off, conventional hearing aids won't be enough. The permanent solution—and the gold standard for your exact audiological profile, because your auditory nerves themselves are 100% intact—is **bilateral cochlear implants**."
 
@@ -3694,11 +3694,148 @@ Then Aubrie spoke beside him.
 
 "Can you hear me, J?"
 
-Jordan's breath caught. For years, voices had been dull, muffled thuds buried under cotton. Now, looking at Aubrie's clear hazel eyes through his new glasses, he heard the delicate, airy *"s"* and *"h"* in her whisper, the soft rustle of her sleeve against his armrest, and the quiet hum of the clinic's air conditioning.
+Jordan's breath caught. For years, voices had been dull, muffled thuds buried under cotton. Now, he heard the delicate, airy *"s"* and *"h"* in her whisper, the soft rustle of her sleeve against his armrest, and the quiet hum of the clinic's air conditioning.
 
 His fingers trembled slightly on the keys before he pressed execute.
 
-<aac>Your voice is so warm,</aac> his terminal spoke into the room, as a single tear slipped down beneath the frame of his new glasses. <aac>I didn't know it sounded like that.</aac>
+<aac>Your voice is so warm,</aac> his terminal spoke into the room, as a single tear slipped down his cheek. <aac>I didn't know it sounded like that.</aac>
+
+### Scene 4: LensWorks at Strickland Farm
+
+**Date:** 2014-08-29 at 15:15 America/New_York
+
+Stepping out of the **Montgomery Vision and Hearing Clinic** and crossing back over to the sawtooth bus bays of the **Pepper Plaza Transit Center** opposite the **Montgomery County Courthouse**, Jordan stopped his wheelchair under the glass transit shelter and tilted his head toward the open sky.
+
+His vision beyond arm's length was still a soft watercolor blur—for another hour, at least—but through his newly fitted behind-the-ear bridge hearing aids, the acoustic world of downtown Christiansburg had come alive with astonishing depth and direction.
+
+Two hours ago, when they had disembarked at Pepper Plaza, the town had sounded like a flat, underwater hum. Now, Jordan could hear the distinct chirping of sparrows in the courthouse oaks across Roanoke Street, the crisp click of Hannah's sandals on the concrete platform, the rhythmic *tick-tick-tick* of the crosswalk beacon at the corner, and the clear, bright cadence of all eight of his friends talking around him at once—without having to cup his hand behind his ear a single time.
+
+"How's the sound out here in the wild, mate?" Sarah asked, grinning as she leaned against the shelter glass beside Lauren.
+
+Jordan didn't have to strain or guess what she had said. Smiling wide, he typed on his `Vanguard Pro` and hit execute:
+
+<aac>I can hear every single consonant in your Australian accent. And I can hear the bus coming up Roanoke Street before I can even see it.</aac>
+
+Sure enough, ten seconds later, a northbound sixty-foot **Blue Ridge Transit** articulated coach glided into the **Pepper Plaza Transit Center** bay, its amber LED sign alternating between `1 CPI` and `1 via S MAIN ST`.
+
+When the front air suspension kneeled—producing a crisp, high-frequency pneumatic *pssshhh* that Jordan heard in crystal stereo—and the front-door aluminum ramp flipped onto the curb, Jordan flashed his **CPI Poly Pass** to the driver, rolled smoothly aboard into the forward wheelchair bay, and let Mark click the four floor retractors into place.
+
+This time, they weren't heading straight back to campus. They were using **Route 1** the way thousands of CPI students and local residents used it every day—hopping ten minutes north up **North Franklin Street (Business US-460)** across the grade-separated railroad bridge into northern Christiansburg's commercial retail district, where **New River Valley Mall** rose on the west side of the four-lane boulevard and the sprawling open-air **Strickland Farm Shopping Center** stretched out on the east side.
+
+"Next stop, **Strickland Farm**," Mark announced as Hannah pulled the yellow stop-request cord just past the overpass.
+
+The sixty-foot coach pulled into the North Franklin Street curbside stop directly in front of **Strickland Farm Shopping Center**. Within twenty seconds of the brakes setting, Jordan rolled down the front ramp onto the wide concrete sidewalk, and the nine-person phalanx strolled down the sunlit shopping-center promenade toward a wide glass storefront crowned with bold blue-and-silver channel letters:
+
+`LENSWORKS OPTICAL — GLASSES IN ABOUT AN HOUR`
+
+As the automatic glass doors slid open and a cheerful entrance chime rang overhead, a quiet realization washed over Jordan: **this was the first time in his eighteen years of life he had ever gone shopping in a store with friends.**
+
+Inside, the showroom was bright and welcoming, lined with illuminated floor-to-ceiling display walls holding hundreds of eyeglass frames, while along the back wall, a massive interior picture window looked directly into the store's on-site surfacing and edging laboratory, where technicians in white coats operated automated computer-guided lens grinders.
+
+"Welcome to LensWorks!" a friendly optician in a neat polo shirt greeted them from the counter.
+
+Instead of hanging back behind someone else, Jordan rolled right up to the accessible low section of the counter, reached into his laptop bag, and handed Dr. Patel's signed prescription slip to the optician himself.
+
+<aac>Hi. My optometrist just gave me this prescription. He said you can make polycarbonate glasses in about an hour?</aac> Jordan's `"Sydney"` voice asked clearly.
+
+"Minus-4.75 and minus-5.00 in high-index thin polycarbonate with anti-reflective coating? We have those blanks in stock right back there in our lab, Jordan," the optician smiled, keying the numbers into his terminal. "We can have them edged, polished, and mounted in forty-five minutes. Go ahead and pick out your frames with your crew!"
+
+What followed was twenty minutes of pure, joyful chaos that Jordan knew he would remember for the rest of his life. With his new hearing aids picking up every laugh and commentary across the showroom, Aubrie, Madison, Zoë, Lauren, Hannah, Sarah, Jessica, and Mark appointed themselves his personal styling committee.
+
+"Okay, absolutely not those round wire ones—you look like an eighteenth-century tax collector," Madison laughed, gently plucking a pair of brass circles off his nose.
+
+"Try the thick black horn-rims," Sarah suggested, holding a mirror up in front of Jordan's wheelchair even though he had to lean within four inches of the glass to see his own reflection. "Very indie rock."
+
+"Negative," Zoë declared, adjusting her own glasses as she inspected the structural hinges along the menswear wall. "With Jordan's facial geometry and the fact that he will be wearing behind-the-ear audio processors, thick acetate temples will create excessive pressure behind the pinna. He requires a lightweight, spring-hinged titanium or gunmetal frame with low-profile temple arms."
+
+"Leave it to Zoë to turn frame shopping into a mechanical engineering thesis," Mark grinned—until Aubrie reached onto the center shelf right where Zoë was pointing and lifted down a sleek, lightweight pair of **dark gunmetal-and-tortoiseshell rectangular frames** with thin, flexible titanium arms.
+
+Aubrie carefully slid them onto Jordan's face, tucking the slim arms comfortably beside his new hearing aids without a millimeter of crowding.
+
+The entire circle of eight friends went quiet for a beat.
+
+"Oh," Aubrie breathed, her cheeks warming slightly as she looked down at him. "Yeah. Those are the ones."
+
+"One hundred percent," Madison agreed instantly, nodding with wide blue eyes. "Pack it up, team, we have a winner."
+
+"Very sharp, brother," Mark nodded approvingly, while Lauren gave an enthusiastic two thumbs-up.
+
+After Jordan paid at the counter using the medical-accommodation stipend voucher Ms. Higgins and Nurse Collins had linked to his student account, the optician carried the gunmetal frames through the door into the glass-walled laboratory. For the next forty minutes, while Madison, Sarah, and Lauren ducked next door to grab warm soft pretzels and iced lemonades for the group at the outdoor patio tables, Zoë, Mark, and Aubrie stood with Jordan right in front of the laboratory window—describing the mesmerizing dance of the robotic diamond-wheel edger as jets of cooling water sprayed across Jordan's polycarbonate lenses, shaving them to the exact millimeter contour of his frames.
+
+Then, at four-fifteen, the lab door swung open. The optician walked out holding a black velvet-lined dispensing tray and called across the showroom:
+
+"Order ready for **Jordan Fuller**!"
+
+Jordan's heart gave a triumphant leap. Nobody had to tap his shoulder or translate for him—**he had heard a stranger call his chosen name across a busy store with his own ears.**
+
+He wheeled over to the accessible fitting table, surrounded by his eight friends. The optician sanitized the nose pads, leaned down with a warm smile, and gently slid the finished frames onto Jordan's face, adjusting the temple tips behind his ears.
+
+"Go ahead and open your eyes, Jordan."
+
+Jordan blinked once. Then twice.
+
+The world exploded into breathtaking, impossible detail.
+
+He didn't just see shapes and smeared puddles of color anymore. He looked up at **Aubrie** standing right in front of him, and for the first time since she had opened the door of Room 214 on Saturday morning, he saw the delicate individual flecks of warm gold and hazel-brown in her eyes, the fine weave of the fabric in her maroon sweater, and the tiny dimple at the corner of her smile. He looked around the semi-circle at **Madison's** bright blue eyes, **Zoë's** sharp, proud smile, **Lauren's** auburn hair, **Hannah** and **Mark** standing arm-in-arm, **Sarah's** beaming grin, and six-foot-three **Jessica** towering warmly at the back of the group.
+
+Then he looked past them through the plate-glass storefront window of `LensWorks Optical`, straight across the parking lot of **Strickland Farm Shopping Center** and across four-lane North Franklin Street, where he could read every single crisp letter on the marquee of **New River Valley Mall** a quarter-mile away.
+
+His fingers moved slowly to his keyboard, his eyes returning to Aubrie's face.
+
+<aac>I can see your eyelashes,</aac> his `"Sydney"` voice said softly into the showroom. <aac>I can see all of your faces at the same time. Everything has edges.</aac>
+
+Aubrie knelt in front of his chair right there on the showroom carpet, taking both of his hands in hers as her eyes shone brightly through his crystal-clear lenses.
+
+"Handsome *and* twenty-twenty," she whispered, pressing a kiss to his knuckles. "Welcome to high definition, J."
+
+### Scene 5: The Ride Home in High Definition
+
+**Date:** 2014-08-29 at 16:30 America/New_York
+
+When the automatic glass doors of **LensWorks Optical** slid open and the nine friends stepped back out onto the sunny late-afternoon promenade of **Strickland Farm Shopping Center**, Jordan paused his wheelchair at the edge of the walkway and simply drank in the horizon.
+
+Through his new gunmetal-and-tortoiseshell polycarbonate lenses and his calibrated behind-the-ear bridge hearing aids, the late-August afternoon in the New River Valley was so vivid it felt like stepping out of a dark monochrome room into wide-screen cinema.
+
+Across the four-lane ribbon of **North Franklin Street (Business US-460)**, he could read every store banner along the facade of **New River Valley Mall** without squinting a muscle. Beyond the rooftops of the mall, he could trace the individual pine-covered ridges of the Blue Ridge Mountains rising against a deep cerulean sky. And through his hearing aids, the world had texture and geometry: he could hear the laughter of families walking down the **Strickland Farm** sidewalk, the crisp rustle of the LensWorks care-kit bag in Madison's hand, and the breeze moving through the parking-lot honey locust trees.
+
+"Look at his face," Lauren whispered warmly to Hannah and Sarah, her artist's eyes crinkling with affection as she watched Jordan tilt his head back to trace the clouds against the mountain ridge. "He's looking at everything like he just landed on a brand-new planet."
+
+"How is the sensory integration holding up with both visual and auditory inputs corrected simultaneously, J?" Zoë asked, stepping up beside his chair in her calm, analytical British cadence. "No headaches or vestibular lag?"
+
+Jordan didn't have to cup his hand behind his ear, and he didn't have to hunch his nose down to two inches from his laptop screen. Sitting upright in his chair with effortless posture, he glanced down at the crisp, razor-sharp keys of his `Pinnacle Vanguard Pro` and typed into `EchoType`:
+
+<aac>No headache at all. I can hear your voice clearly even with traffic on North Franklin Street, and I can read license plates all the way across the Strickland Farm parking lot.</aac>
+
+"Wait until we get you back to Astronomy on Wednesday after Labor Day," Aubrie grinned, taking his hand and giving it an excited squeeze as they rolled down the accessible curb cut toward the North Franklin Street transit shelter. "Dr. Alistair's slides don't stand a chance now."
+
+Down the boulevard toward downtown Christiansburg, a familiar, refined diesel hum approached—and this time, Jordan heard the distinct high-frequency turbocharger whistle above the low bass purr before the bus even crested the grade.
+
+Gliding into the North Franklin Street stop in front of **Strickland Farm Shopping Center** was their northbound sixty-foot **Blue Ridge Transit** articulated coach. Three hours ago at Commonwealth Mall, the overhead sign had been an unreadable orange smear to Jordan's eyes. Now, from forty feet away on the sidewalk, he read every individual amber LED pixel on the front destination sign:
+
+`1 CPI`
+`1 via S MAIN ST`
+
+As the front air suspension kneeled with a crisp pneumatic *pssshhh* and the yellow-edged aluminum low-floor ramp flipped smoothly onto the concrete pad, Mark and Jessica instinctively stepped half a pace behind Jordan's chair, ready to offer a steady hand on the incline.
+
+Jordan glanced back at Mark and Jessica with a small, determined smile, then tapped a single line on his screen:
+
+<aac>Let me try rolling up the ramp all the way by myself this time.</aac>
+
+"All yours, captain," Mark beamed, stepping back with his hands raised in proud salute as Jessica gave Jordan an encouraging thumbs-up.
+
+Holding his maroon-and-orange **CPI Poly Pass** in his fingers to show the driver, Jordan gripped his push-rims, leaned slightly forward, and drove his wheels up the textured aluminum ramp completely under his own power. His front casters glided effortlessly over the threshold, and he rolled smoothly down the wide front aisle straight into the open wheelchair bay, spinning his chair around in a clean, practiced 180-degree turn to back flush against the padded securement cushion.
+
+"Look at that form!" the afternoon driver chuckled approvingly from the cab as Mark stepped in to click the four floor retractors onto the frame. "You ride this route like a seasoned pro, son."
+
+As the sixty-foot coach pulled away from **Strickland Farm Shopping Center** and **New River Valley Mall**, heading north up **U.S. Route 460 Business** into Blacksburg, Jordan rested his elbows on his armrests and watched the valley unfold through the wide panoramic window in crystal-clear 20/20 focus. He saw the green highway mile markers, the red-brick storefronts along South Main Street, the maroon-and-orange campus banners fluttering from the streetlights, and finally the soaring gray **Ironstone** collegiate-gothic towers of Commonwealth Polytechnic Institute rising against the golden late-afternoon sky.
+
+Across the aisle and around his bay, his friends were chatting and laughing—debating what to grab for Friday night dinner at Kincaid Commons and planning out their three-day Labor Day weekend—and for the first time in his life, Jordan could follow every single voice in the group conversation without straining, guessing, or falling behind.
+
+When the bus glided to a stop beneath **The Keystone Bridge** along **Commonwealth Mall** and the front ramp deployed onto the campus sidewalk, Jordan rolled smoothly off the bus into the warm sunlight.
+
+Sitting on the campus pavement with his new glasses resting comfortably on the bridge of his nose, his hearing aids humming with the clear voices of the people who loved him, and his Poly Pass tucked safely in his pocket, Jordan looked back at the departing bus one more time.
+
+This morning, he had been a boy who had never once traveled anywhere without his mother's car, looking out at a blurry, muffled world he had been taught to fear. Tonight, he could see, he could hear, and he knew he could go anywhere in the world.
 
 ## Monday Night War
 
