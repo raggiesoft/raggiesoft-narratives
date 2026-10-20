@@ -5416,7 +5416,7 @@ Jordan stared down at the dark keyboard of his laptop for a long moment. His che
 
 Jordan shook his head hard, his fingers flying faster across the keys as the words he had been holding back all week tumbled out:
 
-<aac>I can't go back there, Maddie. Every time she calls or texts me, she calls me Aubrey and asks when I'm going to stop this 'silly college experiment' and come home for good. She doesn't even know about my glasses or my hearing aids or my real name. She doesn't get it. She doesn't get us.</aac>
+<aac>I can't go back there, Maddie. She hasn't called to check on me once since she left me here in August—and then out of nowhere this week she started texting and emailing me, calling me Aubrey and telling me to be ready at nine tomorrow morning because it's time to stop this 'silly college experiment' and come home. She doesn't even know about my glasses or my hearing aids or my real name. She doesn't get it. She doesn't get us.</aac>
 
 He paused, looking around the cinderblock room—at the string lights above the beds, the CPI Forgers pennant on the wall, and the comfortable, lived-in warmth of their shared life—before typing one final sentence:
 
@@ -5460,11 +5460,15 @@ When his mother spoke again, the theatrical sweetness had vanished completely, r
 
 The line clicked dead before he could type another word.
 
-Remembering her humiliating mistake on early move-in day—when she had muscled his wheelchair all the way down the steep exterior hill to the First-Floor Lobby only to discover that **Washington Street SW** entered directly onto the **Second-Floor Atrium Lobby**—Aubrie Sinclair hadn't even gone near the first-floor front desk where Kelsey Brennan’s red-flag security alert was waiting.
+Remembering her humiliating mistake on early move-in day—when she had muscled his wheelchair all the way down the steep exterior hill to the First-Floor Lobby only to discover that **Washington Street SW** entered directly onto the **Second-Floor Atrium Lobby**—Aubrie Sinclair hadn't even gone near the first-floor front desk, where fifth-floor RA **Noah Sterling** was working the morning shift with **Kelsey Brennan**’s crimson **`[BUILDING SECURITY ALERT — LEVEL 1]`** banner flashing across his monitor explicitly barring her from the building. Nor could she cut through the first-floor **Office of Housing and Residence Life**, which was both closed for the weekend and physically sealed off from Bennett Hall by a solid masonry firewall.
 
-Instead, she had parked on Washington Street SW and walked straight into the Second-Floor Atrium Lobby, where she now stood fuming in front of the locked security doors that separated the public mezzanine from the second-floor residential corridor.
+Instead, she had parked her sedan on Washington Street SW and marched straight up to the upper-level second-floor entrance.
 
-Her plan was foiled by a black electronic Poly Pass reader on the doorframe. Aubrie Sinclair was not a woman accustomed to being denied by a piece of plastic. Pacing sharply across the terrazzo floor, she watched the stairwell and elevators for several minutes until a freshman boy from down the hall walked up to the residential security door with both arms stacked high with two overflowing plastic laundry baskets.
+Because it was only `9:15 AM`—still forty-five minutes inside Bennett Hall’s **`12:00 AM – 9:59 AM` Overnight Security Lockout Window**, when even the exterior doors were locked to non-residents—she had initially been stopped cold on the sidewalk outside the glass. Undeterred, she had waited by the exterior pillar until a groggy junior in a CPI sweatshirt pushed the heavy Washington Street door open from the inside on his way out for morning coffee. Catching the door before the hydraulic closer could latch it shut, she had slipped into the **Second-Floor Atrium Lobby** without swiping a pass.
+
+Inside the atrium mezzanine, however, she had hit a second barrier: the locked **Second-Floor West Wing** security doors that separated the public elevator lobby from the residential corridor, guarded by a black electronic `Poly Pass` reader on the doorframe.
+
+Aubrie Sinclair was not a woman accustomed to being denied by a piece of plastic. Pacing sharply across the terrazzo floor after Jordan hung up on her, she watched the stairwell and elevators for two minutes until a freshman boy from the East Wing walked up to the West Wing security door with both arms stacked high with two overflowing plastic laundry baskets on his way to the basement machines.
 
 Awkwardly shifting the heavy baskets against his hip, the freshman tapped his Poly Pass to the reader. As the magnetic lock clicked open, he struggled to pull the heavy glass-and-steel door wide with his elbow.
 
@@ -5472,11 +5476,11 @@ Seeing her opening, Aubrie Sinclair rushed forward, instantly putting on her swe
 
 "Oh, let me help you with that, dear—could you just hold the latch for me?" she cooed warmly, reaching out as if to steady the door for him. "My hands are full and I'm just helping my son down the hall pack for the weekend."
 
-The freshman, just trying to be polite to someone who looked like a visiting mom on Fall Break weekend, smiled and held the security door open with his foot—a textbook "tailgating" breach of residence hall security policy.
+The freshman, having no idea that the polite, well-dressed woman in front of him was the subject of a building-wide Level 1 security bar, smiled and held the residential security door open with his foot—a textbook "tailgating" breach of residence hall security policy.
 
-"Thank you so much, sweetie," she beamed, slipping past him into the secure second-floor residential corridor.
+"Thank you so much, sweetie," she beamed, slipping past him into the secure second-floor West Wing corridor.
 
-The instant the security door clicked shut behind the boy on his way to the laundry room, her sweet expression evaporated into cold fury. Remembering the exact room number from August, she marched straight down the tiled corridor to **Room 214** and began pounding on the heavy oak door with her fist.
+The instant the security door clicked shut behind the boy, her sweet expression evaporated into cold fury. Remembering the exact room number from August, she marched straight down the tiled corridor to **Room 214** and began pounding on the heavy oak door with her fist.
 
 Inside Room 214, Jordan’s heart leaped into his throat. Expecting it to be **Zoë** or **Mark** coming to check on them after the phone call, Madison stepped to the wall and pressed the square stainless-steel **PUSH TO OPEN** handicap actuator button.
 
@@ -5584,7 +5588,7 @@ This was it—the final threshold between the eighteen years behind him and the 
 
 Jordan looked first at his mother’s flushed, furious, controlling face—the woman who had denied him glasses so the world stayed a blur, denied him hearing aids so voices stayed muffled, forced him to carry her own name so he could never be a separate human being, and tried to convince him that no one on earth could ever love him without considering him a crushing burden.
 
-Then Jordan turned his head and looked at the five women standing around his wheelchair—**Aubrie Kelly**, **Madison**, **Zoë**, **Lauren**, and **Hannah**—knowing that **Mark** and **Sarah** were part of this unbreakable circle too, and seeing **Isabel**, **Henry**, and **Kelsey** standing watch like a wall of iron at his door. In less than two months, these people had given him more unconditional love, dignity, and freedom than he had ever known existed.
+Then Jordan turned his head and looked at the five women standing around his wheelchair—**Aubrie Kelly**, **Madison**, **Zoë**, **Lauren**, and **Hannah**—knowing that **Mark**, **Sarah**, and **Jessica** were part of this unbreakable circle too, and seeing **Isabel**, **Henry**, and **Kelsey** standing watch like a wall of iron at his door. In less than two months, these people had given him more unconditional love, dignity, and freedom than he had ever known existed.
 
 He looked up at Aubrie Jean Kelly, whose warm hand had never left his shoulder. He saw a future completely free from his mother’s cage—a future where he could study the stars, live in the light as Jordan Fuller, and maybe one day, when they were older, ask Aubrie Jean to marry him and seal his freedom forever.
 
@@ -5596,7 +5600,7 @@ A strangled, furious gasp tore from his mother’s throat. "You cannot do this t
 
 Now—and only now—did Kelsey Brennan turn her head to look at Aubrie Sinclair. Her expression was cool, immovable granite.
 
-"His name is **Jordan**," Kelsey said evenly. "And as an adult resident of this university, he has made his decision. You are currently in violation of residence hall security policy for entering a restricted floor without an escort, and your son has revoked any permission for you to be in his room."
+"His name is **Jordan**," Kelsey said evenly. "And as an adult resident of this university, he has made his decision. Furthermore, you are flagged on our Residence Life security portal as an unauthorized visitor in this building, you bypassed two locked security doors during our morning resident-only lockout window without an escort, and your son has revoked any permission for you to be in his room."
 
 Kelsey stepped back half a pace and gestured cleanly toward the open hallway, where Henry and Isabel stood waiting.
 
@@ -5702,9 +5706,9 @@ It was a punishment designed to prove her thesis: that without her money and her
 
 "Then until we solve the phone line, he is never out there alone," **Aubrie Kelly** said, her voice ringing with fierce, immovable certainty as she stepped up beside Jordan’s chair and took his hand. "Not for a single minute. Whenever Jordan leaves this suite, at least one of us is with him at all times."
 
-"The **Buddy System**," Madison nodded, her eyes lighting up with tactical resolve as she pulled her own phone out of her back pocket. "And we set up a dedicated dispatch group chat right now. Whoever is Jordan's buddy at any given hour drops a check-in text whenever they move: *'Got Jordan, heading to the library,'* or *'With J at the Student Union.'* That way, even when Jordan is between WiFi zones, all eight of us know his exact location and whose phone to call if we need to reach him!"
+"The **Buddy System**," Madison nodded, her eyes lighting up with tactical resolve as she pulled her own phone out of her back pocket. "And we set up a dedicated dispatch group chat right now. Whoever is Jordan's buddy at any given hour drops a check-in text whenever they move: *'Got Jordan, heading to Pendleton Library,'* or *'With J at Kincaid Hall.'* That way, even when Jordan is between WiFi zones, all nine of us know his exact location and whose phone to call if we need to reach him!"
 
-"I'm texting **Mark** and **Sarah** right now to add them to the chat," Hannah said, her thumbs already flying across her screen. "You know they'll be 100% in."
+"I'm texting **Mark**, **Sarah**, and **Jessica** right now to add them to the chat," Hannah said, her thumbs already flying across her screen. "You know they'll be 100% in."
 
 Jordan sat in his wheelchair, looking down at the dead **`No Service`** banner at the top of his `mPhone`—and then looking up at the five women rallying around him in a blur of fierce, coordinated devotion.
 
@@ -5718,7 +5722,7 @@ Yet as Jordan watched Madison type **`[Jordan Comms]`** into the header of a bra
 
 **Date:** 2014-10-18 at 13:00 America/New_York
 
-By one o'clock on Saturday afternoon, with the boxes from their celebratory pizza lunch stacked neatly on the dresser and **Mark** and **Sarah** having joined the suite in Room 214, the mood had shifted from righteous outrage to focused, collaborative engineering.
+By one o'clock on Saturday afternoon, with the boxes from their celebratory pizza lunch stacked neatly on the dresser and **Mark**, **Sarah**, and **Jessica** having joined the suite in Room 214, the mood had shifted from righteous outrage to focused, collaborative engineering.
 
 "Okay, let's look at the board," **Madison** said, pacing across the rug with a slice of pepperoni crust in hand. "Getting Jordan onto a brand-new standalone cell plan is obviously the long-term goal, but carrier deposits and monthly lines are expensive, and none of us have that kind of spare cash sitting around right this second. So how do we get his phone working *now*, for Fall Break?"
 
@@ -5726,13 +5730,13 @@ By one o'clock on Saturday afternoon, with the boxes from their celebratory pizz
 
 She swiveled her laptop screen ninety degrees so Jordan and the rest of the circle could see the interface.
 
-"There are encrypted VoIP applications that assign a real, local area-code telephone number that routes entirely over the internet rather than cellular towers," Zoë explained, looking directly at Jordan to make sure every step was clear. "As long as your `mPhone` or your `Vanguard Pro` is connected to WiFi—here in Bennett Hall, in the Newman Library, at the Student Union, in any lecture hall, or at any coffee shop downtown with public wireless—you will be able to send and receive texts and place calls normally. It completely bypasses your mother's cellular carrier."
+"There are encrypted VoIP applications that assign a real, local area-code telephone number that routes entirely over the internet rather than cellular towers," Zoë explained, looking directly at Jordan to make sure every step was clear. "As long as your `mPhone` or your `Vanguard Pro` is connected to WiFi—here in Bennett Hall, in Pendleton Library, at Kincaid Hall, in any lecture hall, or at any coffee shop downtown with public wireless—you will be able to send and receive texts and place calls normally. It completely bypasses your mother's cellular carrier."
 
 A collective grin broke out across the room.
 
 Working side-by-side at Jordan’s desk, Zoë and **Aubrie Kelly** downloaded the VoIP client onto Jordan’s `mPhone` over the CPI campus wireless network, linked a synchronized desktop client onto his `Vanguard Pro`, and configured the text-to-speech bridge so `EchoType` could route straight across the line if he ever needed voice relay. Within ten minutes, a brand-new `(540)` Blacksburg exchange number glowed at the top of his screen.
 
-"Okay," Aubrie said, her expression turning serious as she looked around the circle of eight. "Now for the most important security rule. This new number does *not* go to anyone outside of us eight—plus **Isabel**, **Henry**, and **Kelsey** here in Bennett Hall for emergencies. Especially not your mother. As far as she knows, cutting your phone line left you completely unreachable except by email—and when she emails you, *you* decide if and when you ever answer."
+"Okay," Aubrie said, her expression turning serious as she looked around the circle of nine. "Now for the most important security rule. This new number does *not* go to anyone outside of us nine—plus **Isabel**, **Henry**, and **Kelsey** here in Bennett Hall for emergencies. Especially not your mother. As far as she knows, cutting your phone line left you completely unreachable except by email—and when she emails you, *you* decide if and when you ever answer."
 
 Jordan looked down at the new `(540)` number on his screen and gave a firm, grateful nod. For the first time in his life, he had a telephone number that Aubrie Sinclair hadn't paid for, didn't own, and didn't even know existed.
 
@@ -5748,21 +5752,22 @@ For a moment, the air in Room 214 grew heavy. The thought of Jordan being forced
 
 "Then where will we go?" Lauren asked gently.
 
-"Well," **Hannah** spoke up thoughtfully from her spot beside Mark on the floor, "my parents' house is only twenty minutes from campus, so I'll be staying there. Mark and Sarah are both local to the New River Valley, too, and Zoë's family lives right down Route 460 in Christiansburg."
+"Well," **Hannah** spoke up thoughtfully from her spot beside Mark on the floor, "my parents' house is only twenty minutes from campus, so I'll be staying there. Mark and Sarah are both local to the New River Valley, too, Jessica's family is just forty minutes up I-81 in Roanoke, and Zoë's family lives right down Route 460 in Christiansburg."
 
-It was a geographic reality the group knew in passing but hadn't fully weighed until now: four of their eight-person circle lived in the dorms for the freshman independence and campus experience rather than distance, while the other four—Jordan from Virginia Beach, Aubrie from Chesapeake, Madison from Bluewater, and Lauren from Gander, Newfoundland—were hours or countries away from home.
+It was a geographic reality the group knew in passing but hadn't fully weighed until now: five of their nine-person circle lived in the dorms for the freshman independence and campus experience rather than distance, while the other four—Jordan from Virginia Beach, Aubrie from Chesapeake, Madison from Bluewater, and Lauren from Gander, Newfoundland—were hours or countries away from home.
 
 "Then the four of you who aren't local will establish a forward operating base right here in town," Zoë declared, her analytical mind immediately shifting into long-range logistics. "The logical solution is an extended-stay hotel near campus—one of the residential suites equipped with a full kitchenette and a living area. If we pool our resources and book early, it can serve as our headquarters for the break."
 
 Madison’s face lit up instantly. "Yes! One of those extended-stay suites with two queen beds would be amazing! Jordan and one of us take one queen bed, the other two share the second queen bed, and we rotate nights just like our Nightly Pact here in the suite!"
 
-Before Hannah even finished typing the idea into **`Jordan Comms`** so everyone had it in writing, Mark and Sarah were already chiming in out loud and on the screen at the same time:
+Before Hannah even finished typing the idea into **`Jordan Comms`** so everyone had it in writing, Mark, Sarah, and Jessica were already chiming in out loud and on the screen at the same time:
 
 > **`Mark:`** *My folks will be happy to have me home for dinner, but fair warning—I'm basically gonna live at your hotel suite all break. Don't even think you're getting out of Monday Night WAR.*<br>
 > **`Sarah:`** *Same!! My house in Radford gets boring after two days. I'm bringing sleeping bags and all the snacks.*<br>
+> **`Jessica:`** *Roanoke is an easy drive down 81—count me in for the slumber party rotation!*<br>
 > **`Zoë:`** *I will compile a comparative budget spreadsheet and an accessibility audit of local extended-stay properties tonight.*
 
-Jordan looked around at the seven faces in Room 214 and down at the buzzing **`Jordan Comms`** thread in his hand.
+Jordan looked around at the eight faces in Room 214 and down at the buzzing **`Jordan Comms`** thread in his hand.
 
 They weren't just improvising a patch for Saturday afternoon. Without a second of hesitation, they were already building a fortress around his future—planning months ahead to make sure his mother could never trap him during a holiday shutdown.
 
@@ -5772,11 +5777,11 @@ They weren't just improvising a patch for Saturday afternoon. Without a second o
 
 **Date:** 2014-10-19 at 10:30 America/New_York
 
-The Fall Break weekend unfolded as a masterclass in compassionate, seamless logistics. Born out of his mother’s attempt to isolate him, the **Buddy System** and the **`Jordan Comms`** group chat instantly became the central nervous system of their eight-person family.
+The Fall Break weekend unfolded as a masterclass in compassionate, seamless logistics. Born out of his mother’s attempt to isolate him, the **Buddy System** and the **`Jordan Comms`** group chat instantly became the central nervous system of their nine-person family.
 
 On Sunday morning at ten-thirty, the first official dispatch of the day chimed across every phone in the pact:
 
-> **`Aubrie:`** *[LOGISTICS] With Jordan! Heading over to 'The Daily Grind' in the Student Union for lattes and a change of scenery.*
+> **`Aubrie:`** *[LOGISTICS] With Jordan! Heading over to 'The Daily Grind' in Kincaid Hall for lattes and a change of scenery.*
 
 As Jordan and **Aubrie Kelly** rolled out of Room 214 into the second-floor hallway, **Isabel Dawson** was stepping out of Room 215 with a canvas tote bag slung over her shoulder on her way to the quiet study lounge.
 
@@ -5786,18 +5791,18 @@ Spotting her, Jordan immediately slowed his chair, clicked his brakes, and opene
 
 Jordan held up his `mPhone` proudly, showing her the active **`Jordan Comms`** thread on his screen.
 
-"Henry, Kelsey, and I saved your new VoIP number into our duty phones last night, and we won't share it with a soul," Isabel promised warmly. "Have a wonderful time at the Student Union, you two!"
+"Henry, Kelsey, and I saved your new VoIP number into our duty phones last night, and we won't share it with a soul," Isabel promised warmly. "Have a wonderful time at Kincaid Hall, you two!"
 
-For over an hour, Jordan and Aubrie sat at a sunlit corner table inside **The Daily Grind**, sipping warm vanilla lattes and splitting a cinnamon roll. Surrounded by the Student Union’s high-output campus WiFi routers, Jordan’s `mPhone` worked flawlessly, chiming with banter and photos from the rest of the group while he and Aubrie talked and people-watched through the tall arched windows.
+For over an hour, Jordan and Aubrie sat at a sunlit corner table inside **The Daily Grind**, sipping warm vanilla lattes and splitting a cinnamon roll. Surrounded by **Kincaid Hall**’s high-output campus WiFi routers, Jordan’s `mPhone` worked flawlessly, chiming with banter and photos from the rest of the group while he and Aubrie talked and people-watched through the tall arched windows.
 
 Right around noon, a new chain of messages lit up **`Jordan Comms`**:
 
 > **`Madison:`** *Okay, I am officially going stir-crazy in the dorm. Anyone up for an afternoon expedition into downtown Blacksburg?*<br>
 > **`Lauren:`** *YES! The autumn leaves on Main Street are gorgeous right now. I'm in!*<br>
 > **`Zoë:`** *I will accompany you. I need to pick up a reference volume from the downtown bookshop anyway.*<br>
-> **`Aubrie:`** *Perfect timing! Hannah and I have our Western Civ study review at 12:30. J and I are at the Student Union—meet us at the Transit Center bus bay out front in fifteen!*
+> **`Aubrie:`** *Perfect timing! Hannah and I have our Western Civ study review at 12:30. J and I are at Kincaid Hall—meet us at the Commonwealth Mall bus stop beneath The Keystone Bridge in fifteen!*
 
-The noon handoff at the **CPI Transit Center** was executed with clockwork precision. Aubrie gave Jordan a warm kiss on the cheek before heading off across the drillfield to meet Hannah, while **Madison**, **Lauren**, and **Zoë** stepped in as his designated afternoon buddies.
+The noon handoff along **Commonwealth Mall** was executed with clockwork precision. Aubrie gave Jordan a warm kiss on the cheek before heading off across the drillfield to meet Hannah, while **Madison**, **Lauren**, and **Zoë** stepped in as his designated afternoon buddies.
 
 Moments later, a forty-foot low-floor **Blue Ridge Transit** city bus glided up to the curb, its white-and-pine-green livery and prominent **`BT`** emblem gleaming in the crisp October sun. With a soft hiss of air brakes, the front suspension kneeled toward the concrete and the front passenger boarding doors folded wide, deploying the yellow-edged aluminum ADA wheelchair ramp directly onto the sidewalk from the front doorway.
 
@@ -5843,7 +5848,7 @@ The Fall Break trial run of the Buddy System wasn't just working; it was a trium
 
 **Date:** 2014-10-20 at 20:30 America/New_York
 
-On Monday night of Fall Break, all eight members of the pact—Jordan, Aubrie, Madison, Zoë, Lauren, Hannah, Mark, and Sarah—were gathered on the couches of the first-floor lobby of Bennett Hall for their weekly **`AWE Monday Night WAR`** wrestling tradition when a new email notification chimed on Jordan’s `Pinnacle Vanguard Pro`.
+On Monday night of Fall Break, all nine members of the pact—Jordan, Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—were gathered on the couches of the first-floor lobby of Bennett Hall for their weekly **`AWE Monday Night WAR`** wrestling tradition when a new email notification chimed on Jordan’s `Pinnacle Vanguard Pro`.
 
 The message had been sent to his original university email identifier—`afuller001`, the default account CPI’s servers had generated back in the summer from his legal first name—and the subject line made the cheerful warmth around the lobby couches evaporate in an instant:
 
@@ -5862,13 +5867,13 @@ The message had been sent to his original university email identifier—`afuller
 >
 > — Mom
 
-Jordan’s hands went cold on the keyboard as the rest of the Group of 8 leaned in to read the screen over his shoulder.
+Jordan’s hands went cold on the keyboard as the rest of the circle leaned in to read the screen over his shoulder.
 
 "Wait—do the dorms really lock down for Thanksgiving too?" Lauren asked, her eyes darting to Zoë.
 
 "Unfortunately, her citation of the housing calendar is accurate," **Zoë** confirmed, her expression serious. "Unlike Fall Break, the residence halls close completely for Thanksgiving from Wednesday at 1:00 PM until Sunday at 4:00 PM. Card access is suspended for all regular residents during that window."
 
-"Okay," **Mark** said immediately, leaning forward with his elbows on his knees and his jaw set. "He's obviously not going within a hundred miles of her car on Wednesday morning. And booking a hotel for Thanksgiving week AND three weeks of Winter Break is gonna wipe out everything we have. Where can all eight of us go for Thanksgiving?"
+"Okay," **Mark** said immediately, leaning forward with his elbows on his knees and his jaw set. "He's obviously not going within a hundred miles of her car on Wednesday morning. And booking a hotel for Thanksgiving week AND three weeks of Winter Break is gonna wipe out everything we have. Where can all nine of us go for Thanksgiving?"
 
 Zoë didn't even need three seconds to calculate the answer. Her calm, pragmatic voice cut cleanly through the tension.
 
@@ -5876,13 +5881,15 @@ Zoë didn't even need three seconds to calculate the answer. Her calm, pragmatic
 
 She looked around the circle of couches, her invitation encompassing every single person in their chosen family.
 
-"There is a pull-out sofa down there, and my parents have four queen-sized air mattresses and plenty of sleeping bags," Zoë continued. "You can all come stay with us in Christiansburg for Thanksgiving. All eight of us."
+"There is a pull-out sofa down there, and my parents have four queen-sized air mattresses and plenty of sleeping bags," Zoë continued. "You can all come stay with us in Christiansburg for Thanksgiving. All nine of us."
 
 A wave of pure, electric relief washed over the group.
 
 "**Sarah**, didn't you say your family's right over in Radford?" Madison asked.
 
 Sarah grinned from ear to ear. "Yeah, my parents are fifteen minutes away, which means I can pop over for an hour on Thursday morning and spend the rest of the whole week crashing in a giant basement slumber party with you guys! I'm 100% in!"
+
+"Same here!" **Jessica** added warmly from the arm of the sofa. "My folks in Roanoke are doing Thanksgiving lunch at noon on Thursday, so I can drive up 81 for three hours and spend the rest of the entire break in Christiansburg with you guys!"
 
 "Perfect!" **Hannah** beamed, squeezing Mark’s hand. "Mark and I can visit our parents here in Blacksburg for lunch and spend the whole break at Zoë's with the group!"
 
@@ -5896,7 +5903,7 @@ Mark let out a warm, genuine laugh, shaking his head with total affection. "Madi
 
 Hannah looked at Mark, her eyes shining with love and pride.
 
-Then Zoë added the final tactical stroke: "And rather than waiting until Wednesday when the dorms close at 1:00 PM, all eight of us will take the transit bus out to Christiansburg on **Tuesday afternoon**, a full day before your mother plans to arrive. And before we leave campus next month, Jordan, we will stop by Kelsey's office and **CPI Campus Police** just like Kelsey suggested, so your no-contact statement and my parents' address are officially on file. When your mother pulls up on Wednesday morning, she will find an empty room and a locked building."
+Then Zoë added the final tactical stroke: "And rather than waiting until Wednesday when the dorms close at 1:00 PM, all nine of us will head out to Christiansburg on **Tuesday afternoon**, a full day before your mother plans to arrive. And before we leave campus next month, Jordan, we will stop by Kelsey's office and **CPI Campus Police** just like Kelsey suggested, so your no-contact statement and my parents' address are officially on file. When your mother pulls up on Wednesday morning, she will find an empty room and a locked building."
 
 ***
 
@@ -5940,15 +5947,15 @@ Aubrie Jean reached down and covered his hand on the keyboard with hers. "Good,"
 
 On Tuesday night—the final evening of Fall Break before Wednesday morning classes resumed—the air in Suite 214/216 was warm with the lazy, contented satisfaction of a four-day holiday well spent.
 
-All eight of them were piled into Room 214, sprawled across the unbunked beds and the braided rug, finishing off the last slices of cold pizza from an afternoon movie marathon.
+All nine of them were piled into Room 214, sprawled across the unbunked beds and the braided rug, finishing off the last slices of cold pizza from an afternoon movie marathon.
 
 Around ten o'clock, **Mark** stretched his long legs and stood up, reaching down to pull **Hannah** to her feet. "Alright, we gotta jet so everybody gets some sleep before eight-o'clock lectures tomorrow."
 
-"Thank you guys for this weekend," **Sarah** said warmly, giving Lauren, Madison, and Aubrie each a tight hug before squeezing Jordan’s shoulder. "Seriously—best Fall Break ever."
+"Thank you guys for this weekend," **Sarah** said warmly as she and **Jessica** gave Lauren, Madison, and Aubrie each a tight hug before squeezing Jordan’s shoulder. "Seriously—best Fall Break ever."
 
-When Hannah pressed the square **PUSH TO OPEN** button to let Mark and Sarah out into the second-floor corridor, **Isabel Dawson** and **Henry Walsh** were just walking past Room 214 on their ten-o'clock evening floor rounds.
+When Hannah pressed the square **PUSH TO OPEN** button to let Mark, Sarah, and Jessica out into the second-floor corridor, **Isabel Dawson** and **Henry Walsh** were just walking past Room 214 on their ten-o'clock evening floor rounds.
 
-"Evening, Suite 214!" Henry grinned, giving Mark and Sarah a wave as they headed for the stairwell. "Everybody ready for classes tomorrow?"
+"Evening, Suite 214!" Henry grinned, giving Mark, Sarah, and Jessica a wave as they headed for the stairwell. "Everybody ready for classes tomorrow?"
 
 Before the ten-second door timer could begin its closing cycle, Jordan wheeled straight up to the threshold, set his brakes, and opened his arms toward Isabel with a warm, happy smile.
 
@@ -5964,11 +5971,11 @@ Later, changed into his cotton pajamas and sitting in his wheelchair beside his 
 
 He opened the **`Jordan Comms`** group chat and slid his thumb upward—scrolling up, and up, and up through the four-day log of his newfound freedom:
 
-> **`Zoë [Sun 14:10]:`** *With Jordan. Heading to the third floor of Newman Library so he can work on his astrophysics problem set.*<br>
+> **`Zoë [Sun 14:10]:`** *With Jordan. Heading to the third floor of Pendleton Library so he can work on his astrophysics problem set.*<br>
 > **`Madison [Mon 11:25]:`** *Got him! We're out on Commonwealth Green soaking up the sun! ☀️*<br>
 > **`Hannah [Mon 17:40]:`** *Everyone's back at the suite. Pizza run is a go—Mark is bringing it up now.*<br>
-> **`Lauren [Tue 14:15]:`** *[Photo Attachment: Jordan sitting in his wheelchair in a sunny field of orange pumpkins, holding a wonderfully lopsided pumpkin in his lap with a huge grin behind his glasses] Sarah and I have Jordan! Pumpkin patch expedition is a complete success!*<br>
-> **`Mark [Mon 19:50]:`** *We've secured the prime lobby couches. GWF Uprising is a go. Tell J that Dr. Destruction is going down tonight.*<br>
+> **`Lauren [Tue 14:15]:`** *[Photo Attachment: Jordan sitting in his wheelchair in a sunny field of orange pumpkins, holding a wonderfully lopsided pumpkin in his lap with a huge grin behind his glasses] Sarah, Jessica, and I have Jordan! Pumpkin patch expedition is a complete success!*<br>
+> **`Mark [Mon 19:50]:`** *We've secured the prime lobby couches. AWE Monday Night WAR is a go. Tell J that Dr. Destruction is going down tonight.*<br>
 > **`Aubrie [Tue 18:30]:`** *Just me and J now. Grabbing hot chocolate at the dining hall before we head back up the hill to The Old Lady.*
 
 Jordan stared at the glowing stream of check-ins, candid photos, and effortless handoffs, and a quiet, overwhelming realization washed over him.
@@ -5983,7 +5990,7 @@ And sitting there in the quiet glow of Room 214, Jordan realized something else.
 
 Three weeks ago in **Kelsey Brennan**’s lamp-lit office—the room down on the first floor that he now thought of as one of his **Safe Places**—he had asked Kelsey to hold his **Emergency Contact Change Form** and his **CPI Campus Police** statement in her locked top drawer until he knew which trusted adults he wanted to name in his mother’s place.
 
-Remembering the unconditional kindness in **Daniel Brooks**’s voice on move-in day when he had knelt beside Jordan’s chair, and thinking of **Laura Brooks** enthusiastically welcoming all eight of them into her home for Thanksgiving (*"A full house for Thanksgiving! Wonderful!"*), Jordan knew that his wait was almost over. Next month, right before they boarded the bus to Christiansburg for Thanksgiving, he was going to walk into Kelsey’s office and the CPI Campus Police station—and he was going to put Daniel and Laura Brooks on the record as his official emergency contacts.
+Remembering the unconditional kindness in **Daniel Brooks**’s voice on move-in day when he had knelt beside Jordan’s chair, and thinking of **Laura Brooks** enthusiastically welcoming all nine of them into her home for Thanksgiving (*"A full house for Thanksgiving! Wonderful!"*), Jordan knew that his wait was almost over. Next month, right before they boarded the bus to Christiansburg for Thanksgiving, he was going to walk into Kelsey’s office and the CPI Campus Police station—and he was going to put Daniel and Laura Brooks on the record as his official emergency contacts.
 
 His mother had tried to leave him stranded on an island. In response, his family had built him a continent.
 
