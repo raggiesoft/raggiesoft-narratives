@@ -6644,7 +6644,7 @@ Jordan lowered his phone and looked up. **Aubrie Jean Kelly** was watching him f
 
 Jordan smiled back—a peaceful, unburdened smile that didn't need a single word—transferred onto the mattress beside her, and let her wrap him in her arms for the night.
 
-## Chapter 22
+## The Thanksgiving Exodus
 
 ### Scene 1: Setting the Board
 
@@ -6932,7 +6932,7 @@ He tapped the soft night-mode screen of his phone so a tiny whispered line playe
 
 Across the darkened basement, a chorus of soft *"Goodnights"* echoed from mattress to mattress. Upstairs and downstairs, seventeen people were settling in for the night under the roof on Geneva Street—but for the nine friends in the basement, it was something deeper still. They had completed their exodus a full day ahead of schedule. They were safe, they were together, and they were home for Thanksgiving.
 
-## Chapter 23
+## A Thanksgiving Sanctuary
 
 ### Scene 1: Interlude: The Unwelcome Arrival
 
@@ -7151,7 +7151,7 @@ As the lights clicked off and everyone burrowed under their quilts, Madison popp
 
 A chorus of sleepy laughter and fond *"Goodnights"* drifted across the mattresses as Jordan closed his eyes beside Aubrie Jean, safe in the heart of his family and ready for whatever tomorrow brought.
 
-## Chapter 24
+## Operation Black Friday & The Family Charter
 
 ### Scene 1: The Mission Briefing & The First Purchase
 
@@ -7473,7 +7473,7 @@ Hannah looked up into her boyfriend’s warm brown eyes, her heart overflowing w
 
 Mark nodded slowly, his voice thick with respect and admiration as he kissed her forehead. "Good," he murmured. "You did the right thing tonight, Han. You always do."
 
-## Chapter 25
+## The New Normal
 
 ### Scene 1: Return to The Old Lady & The Reunion
 
