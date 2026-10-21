@@ -4678,7 +4678,7 @@ A genuine, unguarded smile creased the corners of the veteran director's eyes.
 
 "Well, they proved it," Dr. Mercer said flatly. "In twenty-two years of higher education housing administration, I don't think I have ever read a two-week RA evaluation like the ones Isabel Dawson and Henry Walsh just turned in. Those six students didn't just 'make do' with a clerical error—they built the strongest, healthiest residential community in Bennett Hall. If this office walked upstairs today and broke up `Suite 214/216` just to force their floor chart back into a traditional single-gender box now that five scattered beds opened up in Pritchard and Cochrane, we wouldn't be doing our jobs. We would be actively sabotaging six of our own students."
 
-"Completely agreed," David Thorne said, nodding immediately.
+"Completely agreed," David Thorne said, nodding immediately as he clicked a checkbox on his West Campus assignment screen. "And locking `Suite 214/216` as permanent means I can release those five female beds in Pritchard and Cochrane right now so all thirty-six post-census vacancies go straight into our formal remediation response to Radford Transit and the City of Radford at three o'clock."
 
 "Kelsey," Dr. Mercer said, sliding a heavy, cream-colored sheet of university bond paper stamped with the Commonwealth Polytechnic Institute seal across the table toward her, "this is **`Form HRL-2014-COED-PERM`—the permanent `Suite Arrangement Consent Form` for the entirety of the `2014–2015` academic year**. Because the official post-census room-change freeze takes effect at five o'clock this afternoon, having all six residents sign this permanent form tonight locks `Suite 214/216` in our master database through May 2015. Once all six signatures are on that page, nobody inside or outside the university administration can claim their arrangement was temporary or forced."
 
@@ -4692,7 +4692,85 @@ As Kelsey closed her binder, Dr. Mercer leaned back in his chair, looking though
 
 "I am," Dr. Mercer nodded. "Obviously, we would *never* place students into a co-ed suite at random—what happened on August 23 was a clerical fluke that happened to land on six extraordinary kids. Again, no crystal ball for the rest of the year: let's see how they handle midterms, winter weather, and spring semester. But if `Suite 214/216` finishes May 2015 with zero behavioral incidents and the kind of academic and personal thriving they've shown in these first two weeks... with their permission, their suite might just be the founding case study we take to the Vice President of Student Affairs to launch an official **Opt-In Gender-Inclusive Housing Pilot** next fall."
 
-### Scene 4: The Suite Arrangement Consent Form
+### Scene 4: Interlude: The Good-Faith Accord
+
+**Date:** 2014-09-08 at 15:15 America/New_York
+
+Walter Hendricks had expected **Commonwealth Polytechnic Institute**'s administration to take all seventy-two hours of the Thursday afternoon deadline—and probably a half-dozen lawyers from Preston Hall—before replying to Radford's joint complaint.
+
+Instead, at `03:15 PM` on Monday, September 8—less than three and a half hours after the complaint left Radford City Hall—both Walter's desktop inbox at Radford Transit Operations and a bonded university courier arriving at the City Manager's office delivered CPI's formal response.
+
+Fifteen minutes later, **City Manager Douglas Keaton** and **Radford University** Vice President **Dr. Catherine Sterling** were on speakerphone in Walter's office as all three of them read through the multi-page document together:
+
+> **OFFICIAL GOOD-FAITH REMEDIATION PLAN & INTER-AGENCY OPERATIONAL ACCORD**<br>
+> **Reference No.:** `CPI-VPA-HRL-2014-0908R` *(In Response to `RT-COR-RU-2014-0908`)*<br>
+> **Date:** Monday, September 8, 2014 — `15:05 EDT`<br>
+> **To:** Walter Hendricks, General Manager, Radford Transit; Douglas Keaton, City Manager, City of Radford; Dr. Catherine Sterling, Vice President for Student Affairs & Campus Administration, Radford University<br>
+> **From:** Dr. Richard Halstead, Vice President for Administration, Commonwealth Polytechnic Institute; Dr. Alan Mercer, Director, Office of Housing and Residence Life; Gregory Donovan, Director, CPI Parking & Transportation and Fleet Services<br>
+> **Subject:** REMEDIATION ACCORD — Immediate Post-Census Evacuation of Radford Overflow Hotels, 15-Minute Porte-Cochère Motorcoach Loop, & `:45` Off-Pulse Relief at McConnell Transit Center
+>
+> Dear Mr. Hendricks, Mr. Keaton, and Dr. Sterling:
+>
+> On behalf of Commonwealth Polytechnic Institute, we write in immediate, good-faith response to your Joint Administrative Complaint (`Reference No. RT-COR-RU-2014-0908`) received at `11:45 AM` today.
+>
+> First and foremost, we wish to offer an unqualified apology to **Radford Transit**, the **City of Radford**, and **Radford University**. When an unprecedented surge in freshman admissions yield forced our Office of Housing and Residence Life to lease third-tier overflow hotel blocks along **West Main Street** and **Tyler Avenue** in August after filling **The Hotel at Poly** and our **Christiansburg (`Exit 118C`)** hotel blocks, we failed to coordinate in advance with your offices. You are entirely right that **Radford Transit**'s fleet of **30-foot buses**—and its single-bus 30-minute local pulse architecture at **McConnell Transit Center**—was never designed to serve as an emergency freshman dormitory shuttle for CPI, and it is unacceptable that **Radford University** students, faculty, staff, and Radford citizens have been passed up at stops or crowded off their own campus transit hub.
+>
+> Rather than waiting until Thursday's `5:00 PM` deadline, we have convened an emergency afternoon session between Administration, Housing and Residence Life, and CPI Parking & Transportation and have already initiated the following **Four-Point Remediation Plan**:
+>
+> 1. **Immediate Post-Census Relocation of 36 Radford Hotel Residents (`Starting Tuesday, September 9 at 1:00 PM`) & Phase-Two Buyout to Reach Zero Occupancy:**
+>    At `12:00 PM` today, our Post-Census Room-Freeze audit finalized **thirty-six (`36`) immediate on-campus residence hall vacancies** across the Blacksburg campus. By preserving all functioning on-campus suite assignments through the post-census review so that zero beds were held back for internal building reshuffling, **100% of all 36 post-census beds have been assigned exclusively to CPI freshmen currently housed in the West Main Street and Tyler Avenue hotels in Radford**.
+>    **CPI Fleet Services** luggage vans and Housing staff will begin physically moving those 36 students out of the Radford hotels tomorrow (**Tuesday, September 9 at `1:00 PM`**) and will complete all 36 moves by **Wednesday, September 10 at `6:00 PM`**—reducing our Radford hotel headcount by **more than one-third within 48 hours**.
+>    To evacuate the remaining sixty-eight (`68`) CPI freshmen from the Radford hotels as rapidly as possible without waiting for mid-semester attrition, the Office of the Vice President for Administration has authorized an emergency **Phase-Two Upperclassman Off-Campus Contract Buyout (`$2,500` housing credit + `$500` relocation stipend)** opening tomorrow morning, with a binding mandate that **every single bed freed on campus will be used to empty the Radford hotels to zero occupancy first** before any reductions are made to our Christiansburg hotel tier.
+>
+> 2. **Dedicated 15-Minute Porte-Cochère Motorcoach Loop at the Radford Hotels & Mandatory Student Directive (`Keeping Radford's 30-Foot Local Routes Clear`):**
+>    To stop CPI hotel residents from walking out to the West Main Street and Tyler Avenue sidewalks and filling Radford Transit's single-bus 30-foot local routes (`Unit 104` and `Unit 107`), **CPI Parking & Transportation** and our contracted private motorcoach carriers have reassigned **four 45-foot over-the-road motorcoaches (`56` seated passengers each)** to operate a continuous **15-Minute Closed-Door (`CPI PolyPass Only`) Hotel Express Loop** picking up directly under the front porte-cochères of the West Main Street and Tyler Avenue hotels (`06:30 AM – 10:30 AM` inbound and `03:30 PM – 07:30 PM` outbound, routing nonstop via `US-11` / `SR-114 Peppers Ferry Road` / `US-460 Bypass` straight to CPI).
+>    By `5:00 PM` today, on-site CPI Housing coordinators are delivering a mandatory written directive to every remaining CPI student in the Radford hotels instructing them to use the **15-minute front-door motorcoaches** and **not** to board Radford Transit's 30-foot local city routes at the West Main Street or Tyler Avenue stops between `07:00 AM` and `09:30 AM`.
+>
+> 3. **Bridging the `:45` Off-Pulse Gap at `McConnell Transit Center` (`Effective Immediately at 3:45 PM Today`):**
+>    Because local Radford Transit buses meet at **McConnell Transit Center** every **30 minutes** (`:15` and `:45`) while ***The Radford Connector*** operates every **60 minutes** (`:15`), **CPI Fleet Services** (using our 40-foot low-floor university transit buses supplemented by 45-foot contracted coaches) has launched a dedicated **`:45` Off-Pulse Relief Service** between **McConnell Transit Center (`Bay 1`)** and **CPI (`Commonwealth Mall` via `New River Valley Mall`)**, effective **this afternoon at `3:45 PM`**:
+>    - **`:45` Off-Pulse Departures from McConnell Transit Center (`07:45 AM`, `08:45 AM`, `09:45 AM`, `03:45 PM`, `04:45 PM`, `05:45 PM`):** Meets every `:45` local Radford Transit pulse lineup when *The Radford Connector* is not scheduled, ensuring zero 30-minute passenger accumulation on Radford University's campus and eliminating spillover onto **Blue Ridge Transit's `Route 3`** (`US-11` to Pepper Plaza).
+>    - **`:15` Shadow Relief Coach (`07:15 AM` & `08:15 AM`):** In addition, a 45-foot CPI-contracted motorcoach will stage immediately behind Radford Transit's `07:15 AM` and `08:15 AM` *Radford Connector* at McConnell Transit Center to absorb any CPI overflow passengers so that **Radford University** students and staff always have priority boarding on the 30-foot *Radford Connector*.
+>
+> 4. **Emergency Municipal Transit Impact Reimbursement (`$45,000`):**
+>    Finally, in accordance with the cost-sharing provisions of the Regional Mobility Compact and **FTA `49 CFR § 604.3(c)`**, the Office of the Vice President for Administration has approved an immediate **`$45,000` Emergency Operational Impact Grant** payable to the **City of Radford / Radford Transit** to reimburse 100% of your agency's operator overtime, dispatch supervision, and extraordinary maintenance costs incurred between August 22 and September 8, 2014.
+>
+> Director Gregory Donovan (`CPI Parking & Transportation`) will arrive at **McConnell Transit Center** in person at `4:30 PM` this afternoon to coordinate bay staging with Mr. Hendricks and Radford University Campus Operations. We value our partnership with the City of Radford, Radford University, and Radford Transit, and we are committed to seeing this remediation through until the last overflow hotel room in Radford is vacated.
+>
+> Respectfully submitted,
+>
+> — **Dr. Richard Halstead**, Vice President for Administration, *Commonwealth Polytechnic Institute*<br>
+> — **Dr. Alan Mercer**, Director, Office of Housing and Residence Life, *Commonwealth Polytechnic Institute*<br>
+> — **Gregory Donovan**, Director, Parking & Transportation / Fleet Services, *Commonwealth Polytechnic Institute*
+
+For a moment after Walter finished reading the fourth point aloud, the speakerphone in his office was completely silent.
+
+"Well, I'll be damned," City Manager Douglas Keaton said softly over the line. "Not only did they not lawyer up or try to dodge blame, they gave us every single thing we asked for—plus a forty-five-thousand-dollar impact check for your budget and a second-wave dorm buyout to empty the Radford hotels completely."
+
+"And notice why they were able to commit all thirty-six of today's post-census beds to the Radford hotels right out of the gate," Dr. Catherine Sterling observed approvingly from her office in Martin Hall. "Dr. Mercer didn't waste a single on-campus bed reshuffling existing dorm suites that were already working. Every single open bed on their campus is going straight toward moving thirty-six kids out of West Main and Tyler Avenue tomorrow afternoon."
+
+"Let's see how the `4:45` lineup looks on the pavement," Walter said, picking up his yellow safety vest and his Motorola radio with the first genuine smile he'd cracked in two weeks. "I'm heading back over to McConnell right now."
+
+***
+
+At `04:40 PM`, the late-afternoon sun slanted across the brick plaza of **McConnell Transit Center** outside McConnell Library as Radford University classes let out for the afternoon.
+
+Standing beside Bay 1 with **Gregory Donovan**—who had driven down from Blacksburg in a maroon **CPI Fleet Services** supervisor SUV twenty minutes earlier to shake Walter's hand and apologize in person—Walter watched as Radford Transit's thirty-foot local buses pulled in for the **`04:45 PM` off-pulse lineup**.
+
+Seconds later, right on cue at `04:43 PM`, a gleaming **forty-foot low-floor transit bus** painted in **Forger Maroon and Burnished Forge Gold** turned smoothly onto Fairfax Street and glided into Bay 1, its amber LED destination sign alternating cleanly between:
+
+<led>RADFORD CONNECTOR RELIEF / TO CPI via NRV MALL</led>
+
+Right behind it on East Main Street, two fifty-six-passenger **forty-five-foot highway motorcoaches** with **`CPI HOTEL EXPRESS — WEST MAIN & TYLER AVE`** placards in their windshields rolled past on their fifteen-minute loop straight to the hotel porte-cochères, carrying returning CPI freshmen directly to their hotel lobby doors without a single one of them needing to board Radford Transit's thirty-foot `Unit 104` on West Main Street.
+
+At Bay 1, the twenty-eight CPI and cross-enrolled students who stepped off the `:45` local pulse walked straight onto the forty-foot maroon **CPI Fleet Services** relief bus instead of piling up on the brick sidewalk for thirty minutes or running across the island to crowd onto **Blue Ridge Transit's `Route 3`**. And over at Bay 2 and Bay 3, Radford University students in crimson-and-blue hoodies stepped onto `Unit 104` and `Unit 107` with plenty of open seats to spare.
+
+Walter keyed his lapel mic as `Unit 104` pulled out right on schedule at `04:46 PM`.
+
+"Base to Unit 104—how's your load looking heading out West Main, Darrell?"
+
+<pa>Twenty-one seated, zero standees, and right on the money, Boss,</pa> Darrell's voice came back cheerfully over the radio. <pa>Those big maroon coaches just scooped up every CPI kid at the West Main hotels before I even got to the light. Looks like we got our city back.</pa>
+
+### Scene 5: The Suite Arrangement Consent Form
 
 **Date:** 2014-09-08 at 18:30 America/New_York
 
