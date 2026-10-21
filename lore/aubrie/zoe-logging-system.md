@@ -25,9 +25,9 @@ In *The Eleventh Child: The Story of Jordan*, the three autistic core members of
 * **Lifelong Diagnosis Since Infancy**:
   * Unlike Jordan (whose mother refused all medical care and left him undiagnosed), **Zoë Wren Brooks was formally diagnosed as autistic when she was an infant** by supportive parents (**Daniel and Laura Brooks**).
   * Zoë has **always** known she is autistic, and she has **always** processed her internal thoughts through her `ZOË.Systems.Logs` runtime architecture.
-* **Freshman Fall Break (`October 2014`, `e001/c016`–`c020`) — Pre-Disclosure**:
+* **Freshman Fall Break (`October 2014`, `e001/c017`–`c021`) — Pre-Disclosure**:
   * At this current point in the story (**Fall Break 2014**), **Zoë has simply not yet decided to disclose her autism diagnosis to her friends** in the suite.
-  * Because the reader does not see her internal `ZOË.Systems.Logs.*` architecture until she chooses to disclose that she is autistic, do **NOT** insert `ZOË.Systems.Logs.*` blocks or have her disclose her autism during the Fall Break 2014 arc (`e001/c016`–`c020`).
+  * Because the reader does not see her internal `ZOË.Systems.Logs.*` architecture until she chooses to disclose that she is autistic, do **NOT** insert `ZOË.Systems.Logs.*` blocks or have her disclose her autism during the Fall Break 2014 arc (`e001/c017`–`c021`).
 * **Porting Override for `aubrie-old.docx` (`Part 37: The Missing Social Script`)**:
   * When porting the later disclosure scene from `aubrie-old.docx` (`paragraphs 3150–3165`, where the old draft had Zoë ask *"am I autistic, too?"*), **rewrite it to match the updated canon**: Zoë is **not** discovering or wondering for the first time whether she is autistic—she has been diagnosed since infancy, and in that vulnerable moment she is finally **disclosing her lifelong autism diagnosis and how her internal `ZOË.Systems.Logs` processor works** to Jordan and Aubrie.
 
