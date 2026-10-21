@@ -7693,11 +7693,13 @@ Slipping quietly through the connecting bathroom door into **Room 216** and pull
 
 On the laptop screen, **Laura Brooks** put her hands to her cheeks, her eyes immediately shining with happy tears.
 
-"Oh, that is the most wonderful idea I have ever heard!" Laura beamed. "Of course we will! We can host a special mid-day birthday feast right in the middle of the afternoon so the whole house is full of sunshine and light for them—and I will order the most magnificent custom cake in Christiansburg!"
+"Oh, that is the most wonderful idea I have ever heard!" Laura beamed. "Of course we will! And instead of a dinner after dark, we should make it a **Birthday Lunch**—because December twenty-first is the **Winter Solstice**, the shortest day of the year. For Jordan's whole life, his birthday has always been a day left in the dark. We should celebrate them right when the sun is at its absolute brightest!"
 
-"It HAS to be astronomy-themed!" Lauren whispered eagerly. "Dark blue galaxy frosting with constellations and the Winter Solstice!"
+"Wait—if we're celebrating two Astrophysics majors at peak sunlight on the Winter Solstice, we shouldn't just serve lunch at `12:00 PM` on the wall clock," **Zoë** said, her eyes lighting up as she opened an astronomical ephemeris calculator on her laptop. "Because Christiansburg sits at `80.41° West` longitude—more than five degrees west of the Eastern Time meridian—true **Solar Noon** on December twenty-first happens at **`12:20 PM`**, when the Solstice sun hits its maximum meridian altitude of `29.4 degrees`! We can time the lunch and the birthday cake for `12:20 PM` sharp—true Solar Noon!"
 
-"And we can coordinate gifts so nobody duplicates anything," Zoë added, already opening a shared spreadsheet tab.
+"And the cake HAS to be astronomy-themed!" Lauren whispered eagerly. "Dark chocolate night-sky frosting with constellations, a swirling nebula, and two shooting stars!"
+
+"And we can coordinate gifts on a shared spreadsheet so nobody duplicates anything," Zoë added, already opening a new tab.
 
 "Consider it done," **Daniel Brooks** said, his deep voice warm with a father’s pride. "Laura and I will handle the cake, the decorations, and the feast on our end. You seven just focus on acing your final exams and getting them both home to Geneva Street on December twelfth."
 
@@ -7855,9 +7857,183 @@ Outside the automatic glass doors of the Testing Center—the handoff point wher
 
 "You've got this in the bag, J," Hannah smiled warmly, leaning down to wrap him in a firm, grounding embrace. "Go show those stars who's boss. I'll be sitting right on that bench in the lobby with hot cocoa the second you finish, and then all nine of us are heading straight to Geneva Street for three whole weeks of Winter Break!"
 
-Jordan beamed behind his glasses, gave her a confident nod, and released his brakes, rolling smoothly through the automatic doors toward his final exam as Hannah pulled out her `mPhone` and sent the triumphant closing dispatch of their first semester:
+Jordan beamed behind his glasses, gave her a confident nod, and released his brakes, rolling smoothly through the automatic doors toward his final exam as Hannah pulled out her `mPhone` and sent the opening dispatch of his final academic mission:
 
-> **`Hannah [Fri 09:22]:`** <sms>[LOGISTICS] He's here and looking strong! Just dropped Jordan off at the Testing Center for his final Astronomy exam! Next stop after this: Winter Break on Geneva Street!!</sms>
+> **`Hannah [Fri 09:22]:`** <sms>[LOGISTICS] He's here and looking strong! Just dropped Jordan off at the OEA Testing Center in Callahan Hall for his final Astronomy exam!</sms>
+
+Inside the quiet, lavender-scented suite of the **Office of Educational Accessibility (`OEA`) Testing Center**, Jordan rolled up to the reception counter all by himself. This final academic challenge of his freshman fall was one he had to face solo—without his friends beside him—yet he didn't feel alone for a single second. He was carrying the warmth of eight best friends, two RAs, a Hall Director, and an entire family on Geneva Street right inside his chest.
+
+He held up his **CPI Poly Pass**, and the testing proctor smiled warmly, guiding him into **Accessible Carrel 2**—a spacious, height-adjustable desk in the quiet testing room—before placing the printed exam packet for **Dr. Aris Thorne’s `ASTR 101: Introduction to Astrophysics`** beside his pencil and Scantron sheet.
+
+Jordan adjusted his rectangular `20/20` polycarbonate glasses, took a slow, centering breath, and looked down at Question 1—a multi-step problem on main-sequence stellar evolution, hydrostatic equilibrium, and the Hertzsprung-Russell diagram.
+
+A quiet, confident smile touched his lips.
+
+He knew this cold.
+
+This wasn't just an exam on orbital mechanics and nuclear fusion in the cores of stars. Every equation he worked out in the margin, every diagram he analyzed with crystal-clear vision, and every bubble he filled in with steady, deliberate precision was a quiet, devastating repudiation of eighteen years of lies. His mother had sneered at his love of the cosmos as a *"silly college experiment"* and sabotaged his registration to prove he could never survive in a university classroom. Yet here he was on the final day of the semester—having beaten a `102.4°F` bout of Influenza A that her own medical neglect had left him exposed to—solving stellar-luminosity derivations without breaking a sweat.
+
+Fifty-eight minutes later, Jordan double-checked his final bonus calculation, rolled out of Carrel 2, and handed his completed exam packet to the proctor with a polite nod.
+
+When he pushed out through the automatic glass doors of Callahan Hall into the crisp, bright December sunshine at `10:25 AM`, **Hannah** immediately sprang up from the courtyard bench with a huge, radiant grin—and standing right beside her with two steaming paper cups of peppermint hot cocoa from Kincaid Atrium was **Mark**.
+
+As the two of them walked to meet him at the foot of the brick ramp, their phones chimed in unison:
+
+> **`Hannah [Fri 10:26]:`** <sms>[LOGISTICS] AND HE'S OUT!! The last final exam of Fall Semester is officially DONE! Mission accomplished—heading back to Bennett Hall!</sms><br>
+> **`Mark [Fri 10:26]:`** <sms>[LOGISTICS] Mark signing on with Hannah and J outside Callahan Hall. Final exam complete. The Professor just crushed the stars.</sms>
+
+"So?!" Hannah beamed as Jordan rolled onto the flat brick plaza. "How did it go, genius?"
+
+Jordan set his wheel locks, pulled his `mPhone` from his sweater pocket, and tapped out six words before holding his arms wide open:
+
+<aac>I think I aced it.</aac>
+
+"I knew you would!" Hannah laughed, leaning down to wrap him in a warm, triumphant "hello" hug—completing the second half of their pre- and post-exam ritual—before Mark stepped in to clap Jordan's shoulder and hand him a warm cup of hot cocoa.
+
+As Hannah took the push-handles of his wheelchair and Mark walked proudly at his side as they headed back across **Commonwealth Green** toward **Bennett Hall**, a profound wave of closure washed over Jordan. His first semester at Commonwealth Polytechnic Institute was officially in the books. He had survived abandonment, sensory overload, two fire drills, a dormitory flu outbreak, and his mother's attempts to drag him backward—and he had won on his own terms.
+
+### Scene 6: The First Shot & Goodbye to Henry
+
+**Date:** 2014-12-12 at 13:30 America/New_York
+
+By early Friday afternoon, the mood inside Suite 214/216 was pure, electric celebration. With every final exam across all nine schedules officially turned in, the suite was a whirlwind of open suitcases, folded sweaters, and holiday excitement as the crew packed for their three-week stay on **Geneva Street**.
+
+Before they rolled their luggage down to the curb, however, Jordan had one deeply personal stop left to make on campus.
+
+> **`Aubrie [Fri 13:20]:`** <sms>[LOGISTICS] Aubrie and Mark signing on with J. Heading over to the CPI Student Health Center for Jordan's 1:30 appointment with Nurse Vance, then we are officially 100% done with Fall Semester!</sms>
+
+Twenty minutes later inside Exam Room 3 at the **CPI Student Health Center**, Jordan sat tall in his wheelchair with the left sleeve of his T-shirt rolled up to his shoulder, while **Aubrie Jean** held his right hand and **Mark** stood beside him like an older brother.
+
+**Nurse Practitioner Evelyn Vance** smiled warmly as she prepped his upper arm with a cool alcohol swab.
+
+"Alright, Jordan, now that your fever has been gone for more than thirty-six hours and your lungs are crystal clear, you are officially cleared to begin your adult catch-up immunization schedule," Nurse Vance explained gently, holding up the small syringe. "Today we're starting with **Dose 1 of the MMR series**—measles, mumps, and rubella—and we have your January appointments locked in right after you return from Winter Break. Little pinch on three..."
+
+Jordan barely felt the tiny prick of the needle against his deltoid.
+
+What he felt instead was a surge of quiet, unshakeable empowerment that traveled all the way to his fingertips. For eighteen years, his mother had used invisible paper waivers to keep his body unshielded and vulnerable. This tiny band-aid on his left arm was the first vaccine he had ever consciously received—his first active step in taking full ownership of his own physical health.
+
+Nurse Vance handed him a crisp, multi-page printout stamped with the seal of the **CPI Student Health Center** detailing his full twelve-month adult catch-up immunization calendar. Jordan folded the schedule carefully and tucked it into the front breast pocket of his shirt, right beside his **Poly Pass**.
+
+***
+
+When Jordan, Aubrie Jean, and Mark rolled back off the second-floor elevator in **Bennett Hall** at `2:45 PM`, they found **Zoë**, **Madison**, **Lauren**, **Hannah**, **Sarah**, and **Jessica** staging the group's rolling suitcases along the wall outside Room 214—and standing in the corridor beside **Isabel Dawson** (`Room 215`) was **Henry Walsh** (`Room 201`), surrounded by two taped moving boxes and a hardshell international suitcase of his own.
+
+Jordan blinked behind his glasses, glancing from Henry's taped boxes to the stripped mattress visible through the open doorway of `Room 201`.
+
+"Hey, there's the man of the hour!" Henry grinned, walking over with Isabel as Jordan rolled down the hall. "Isabel just told me you crushed your Astrophysics final *and* got your first catch-up shot at Student Health. That's how you close out a freshman semester, Jordan."
+
+"And Henry came down the hall before you guys left for Christiansburg because he has some big news to share about next semester," Isabel added, her voice warm but tinged with fond emotion as she looked at her co-RA.
+
+Henry rubbed the back of his neck with a sheepish, excited smile. "So... today is actually my last day in Room 201 for the school year, guys. Back in October I applied for the Pamplin College of Business international exchange cohort, and I just got final clearance—I'm spending the **Spring 2015 semester studying abroad in London** at the **London School of Economics and Commerce (`LSEC`)**."
+
+Across the hallway, **Zoë**’s eyes lit up like a pair of floodlights.
+
+"Wait—you're going to **LSEC** in Holborn?!" Zoë exclaimed, her British-American heritage kicking into instant logistical overdrive. "Henry, my parents grew up in London, and half of my aunts, uncles, and cousins still live within twenty minutes of Russell Square! Right after we finish loading the cars, I am emailing you my annotated London survival packet—how to link your student railcard to your Oyster card, which Piccadilly and Central Line stations actually have working lifts when you're hauling luggage, and where to get proper fish and chips in Clerkenwell so you don't get fleeced in Leicester Square. And my dad's brother Uncle Arthur lives in Islington if you ever get homesick!"
+
+"Are you serious? Zoë, you're a lifesaver!" Henry laughed, genuinely thrilled.
+
+Yet as the rest of the group congratulated Henry, the smile on Jordan’s face slowly faded.
+
+Sitting in his wheelchair between Aubrie Jean and Mark, Jordan looked at the taped moving boxes outside `Room 201` and felt a heavy, unexpected ache settle into his chest.
+
+In the first eighteen years of his life, Jordan had never known what it was like to trust a male authority figure. And outside of Mark and Daniel Brooks, his only experience with other guys on campus had been watching creeps like Tom Lawson try to intimidate the women he loved.
+
+Henry had been different from the very first weekend. Even after getting rattled by Central Housing's door-card mix-up on Move-In Saturday, Henry had marched straight into the second-floor RA workroom to print Jordan's very first **`Jordan Fuller`** door card and had patiently walked him through changing his preferred name in the CPI Student Portal. Henry had held the Washington Street exit doors open for his wheelchair during both fire drills, had escorted Nurse Vance upstairs when his fever hit `102.4°F`, and had stood shoulder-to-shoulder with Isabel and Kelsey to make sure neither Aubrie Sinclair nor her sleazy private investigator ever got past the front doors of Bennett Hall.
+
+Henry had made Floor 2 feel safe. And now Henry was leaving.
+
+Because **Isabel** knew Jordan so well by now, she caught the quiet drop of his shoulders and the sudden sadness in his green eyes immediately.
+
+Before Jordan even had to reach for his phone, Isabel stepped forward, knelt right beside his left armrest just as she had on the night of the first fire drill, and wrapped her arms around his shoulders in a warm, reassuring hug.
+
+"Hey—I know what you're thinking, Jordan, and I promise you that you're not losing your backup on this floor," Isabel said softly, giving his shoulder a steady, comforting squeeze before looking him right in the eye. "I am **not** going anywhere. I will still be right across the hall in **Room 215** all next semester as your second-floor female RA. And Kelsey and I personally vetted the senior RA stepping into Room 201 for the spring—he already knows the rules of the fortress, and Kelsey, Henry, and I are keeping our eyes on `Jordan Comms` no matter what."
+
+Henry stepped right up beside Isabel, his expression softening with genuine brotherly respect as he looked down at Jordan.
+
+"Izzy's right, man," Henry said warmly. "And I'm not leaving **`Jordan Comms`**, either. London is on Greenwich Mean Time—five hours ahead of Blacksburg—which means while you guys are still asleep at four in the morning, I'll already be awake with my coffee in London keeping the early-morning watch over the chat."
+
+Jordan looked from Isabel to Henry, the knot in his throat loosening into a rush of deep, aching gratitude.
+
+He didn't pull out his laptop, and he didn't offer Henry their usual hallway fist-bump. Instead, Jordan locked his wheelchair brakes, leaned forward slightly, and opened both arms wide toward his departing RA.
+
+For a second, Henry blinked in surprise—remembering the terrified freshman boy on Move-In Day who had flinched whenever a staff member even looked at him—and then a deeply moved smile spread across Henry's face. Stepping right up to Jordan's chair, Henry leaned down and wrapped Jordan in a firm, genuine, brotherly hug, patting the back of his maroon sweater.
+
+"You've come further in four months than any student I've ever met at CPI, Jordan," Henry said quietly, his voice thick with sincerity. "Keep crushing those stars next semester, okay? And hold down Floor 2 with Izzy until I get back."
+
+Jordan hugged him back tightly and gave a firm nod against Henry's shoulder before Henry straightened up to give Isabel one more warm hug at the threshold.
+
+***
+
+At `4:00 PM` sharp, Zoë checked her watch and sent the final campus dispatch of 2014 to the group chat:
+
+> **`Zoë [Fri 16:00]:`** <sms>[LOGISTICS] All finals complete. Grades are in fate's hands now. Operation Winter Break is officially a GO. My dad and Caleb are pulling up to the Washington Street curb in 10 minutes.</sms>
+
+After one last warm goodbye hug with **Isabel** outside Room 215—who promised to text them from Charlottesville and eagerly looked forward to their first hug back in January—the nine friends rolled their caravan of luggage out the ground-level second-floor doors onto **Washington Street** just as **Daniel Brooks** pulled up in the family minivan with **Caleb Brooks** right behind him in his SUV.
+
+While Mark, Caleb, and the girls loaded the suitcases and duffels into the backs of both vehicles, Jordan wheeled himself right up to Daniel on the sidewalk, reached into his shirt pocket, and proudly held out the crisp printout from the CPI Student Health Center.
+
+<aac>Daniel, look,</aac> Jordan tapped on his `mPhone`, his green eyes shining behind his glasses. <aac>This is my adult catch-up immunization schedule. I got my first shot today.</aac>
+
+Daniel took the paper and read down the twelve-month table of vaccinations and follow-up appointments stamped with Jordan's name. When Daniel looked back up, his eyes were bright with unmistakable fatherly pride. He rested a warm, steady hand on Jordan's shoulder.
+
+"Jordan, I am so extraordinarily proud of you for doing this," Daniel said sincerely. He glanced over at Aubrie Jean, Zoë, Madison, Lauren, Hannah, Mark, Sarah, and Jessica as they finished closing the tailgate. "And I promise you, son—Laura and I and this entire family will make sure you don't miss a single one of these appointments over the next year. We're all in your corner now."
+
+With that vow sealed, Mark and Caleb helped Jordan transfer into the warm passenger cabin, folded his wheelchair into the back, and the two vehicles pulled away from the curb of **Eleanor Bennett Commonwealth Hall** toward Christiansburg.
+
+Their first, impossibly eventful semester at CPI was over. Together, they had survived a housing crisis, sensory overload, two fire drills, two toxic exes, a dormitory flu outbreak, and a controlling mother who had tried every trick in her playbook to break them apart.
+
+They hadn't just survived. They had won.
+
+### Scene 7: Interlude: A Dangerous Idea
+
+**Date:** 2014-12-12 at 15:00 America/New_York
+
+While Jordan and his friends were celebrating the end of their final exams inside Bennett Hall, a ghost from the past was drifting through the cold December streets of Blacksburg.
+
+Running on pure obsession, wounded pride, and fumes, **Aubrie Sinclair** had taken another unapproved personal day from work and made the grueling seven-hour drive across Virginia from Hampton Roads back to the New River Valley. She didn't have an appointment, an invitation, or even a coherent plan—only a gnawing, furious compulsion to reclaim the son who had dared to cut her off.
+
+For nearly an hour on Friday afternoon, she sat parked at the far end of **Washington Street SW**, two hundred yards down the hill from **Eleanor Bennett Commonwealth Hall**, staring through her windshield with the heater blowing lukewarm air against her gloves.
+
+Up on the stone rise, *"The Old Lady on the Hill"* was bustling with students rolling suitcases toward waiting cars for Winter Break. Yet every time Aubrie Sinclair’s hand drifted toward her door handle, the memory of her humiliation outside those exact brick steps on the Wednesday before Thanksgiving—the ice-cold authority of **Kelsey Brennan**, the unyielding steel fire-rated doors, and the gleaming white **CPI Campus Police** cruiser parked along the curb—stopped her cold. She knew that if she set a single foot on the Bennett Hall walkway, she would leave in the back of a police car in handcuffs.
+
+Too afraid to approach the dormitory, she spent the afternoon driving aimlessly around downtown Blacksburg and the perimeter of campus, craning her neck at coffee shop windows and scanning the crowded sidewalks along Main Street, hoping for a chance glimpse of *"Aubrey"* where his friends and the university staff couldn't shield him.
+
+The search was completely fruitless. Unbeknownst to her, the son she was hunting was already on his way to Geneva Street in Christiansburg, surrounded by a nine-person security detail she couldn't penetrate.
+
+By late afternoon, shivering, exhausted, and running out of daylight before the long drive home, she pulled into the parking lot of the **Blacksburg Public Library** to use the restroom and warm her hands. Passing the row of public internet terminals near the reference desk, she sat down at an open computer and began typing a frantic, disorganized string of search queries into the browser:
+
+*how to force adult disabled child to come home Virginia*
+*college hiding disabled son from mother legal rights*
+*override FERPA medical privacy disabled eighteen year old*
+
+Halfway down the second page of results from a Virginia legal-aid reference portal, two bolded legal terms caught her eye—words she had never once considered before:
+
+**`Adult Guardianship and Conservatorship (Va. Code § 64.2-2000 et seq.)`**
+
+Sitting under the fluorescent lights of the library, Aubrie Sinclair clicked the link and leaned closer to the monitor. As she read the introductory summary, a feverish, intoxicating hope ignited in her chest. Her eyes skimmed right past the strict statutory warnings about *"clear and convincing medical evidence of incapacity"* and *"court-appointed Guardian ad Litem investigations,"* latching exclusively onto the phrases that fed her narrative of absolute maternal entitlement:
+
+> *"A court-appointed Guardian of the Person is vested with the legal authority to determine the incapacitated adult's place of residence, medical treatment, and social contacts..."*
+> *"A Conservator of the Estate assumes complete legal control over the respondent's financial accounts, scholarships, benefits, and contractual capacity..."*
+
+Her breath caught.
+
+*A court order.*
+
+That was the answer. That was the weapon she had been missing all semester.
+
+A university housing director could hide behind a FERPA form, and campus police could wave a trespass warning at the curb—but neither Commonwealth Polytechnic Institute nor those meddling college girls could defy a **Circuit Court Judge**. With a single stroke of a judge's pen declaring *"Aubrey"* an incapacitated adult who belonged under his mother's roof, she could nullify every form he had signed, seize control of his scholarship refunds, and force him back into her car whether he wanted to go or not.
+
+She stood up from the library terminal with a dangerous, manic sense of purpose, walking back out to her sedan in the gathering December dusk to begin the seven-hour drive back to Virginia Beach. Her checking account was nearly bled dry from three fruitless seven-hour round trips and the useless retainer she had wasted on **Vance Sterling**'s private investigation firm in October—meaning she couldn't afford to hire the PI again—and she knew she was going to have to save every spare dollar over the next several months to hire an attorney who would file the guardianship petition for her.
+
+Two hours later, as her car merged onto **Interstate 295** to bypass Richmond in the dark, a sudden, nagging thought flickered through the back of her mind:
+
+*Wait... why didn't I drive down to Christiansburg and check that residential address on Geneva Street that the private investigator sent me in October?*
+
+She had been less than fifteen minutes away from it all afternoon.
+
+For three seconds, the logical question hung in the silence of her car—and then her pride immediately batted it away. *No,* she told herself dismissively, tightening her grip on the steering wheel as she sped east toward Hampton Roads. *There's no way he's at some random girl's parents' house in Christiansburg for a three-week break. That lazy detective probably made the address up to pad his invoice. The university is hiding him on campus, and the courtroom is the only way to take back what is mine.*
+
+Blinded by her own arrogance, Aubrie Sinclair drove into the night, completely unaware that she had just dismissed the only real clue she had ever possessed—or that back in Christiansburg, the family on **Geneva Street** was already building a fortress that no courtroom lie would ever tear down.
 
 # A New Winter Break Tradition
 
