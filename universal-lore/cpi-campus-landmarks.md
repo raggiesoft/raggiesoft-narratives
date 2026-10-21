@@ -103,4 +103,18 @@
 | **Old Dominion University (ODU)** | **Virginia Dominion University (`VDU` Monarchs)** | Norfolk, VA | Coastal FBS upstart in ***The Hammer vs. The Crown***—shocked #3 CPI `38–0` inside **The Crucible** on Homecoming (Sept 27, 2014), before CPI retaliated with a merciless `52–0` shutout at VDU's Homecoming in Oct 2015. |
 | **College of William & Mary / Georgia Tech / MIT** | **The Royal College / Atlanta Poly / Massachusetts Tech** | Williamsburg, VA / Atlanta, GA / Cambridge, MA | Referenced in President Harrison's welcome address in *Paige*. |
 
+---
+
+## 7. CPI Environmental Health & Safety (`EHS`) — Health & Safety Week & Fire Drill Protocol
+
+- **College-Wide Health & Safety Week (`Twice Per Semester`):**
+  Every semester at Commonwealth Polytechnic Institute features **two mandatory college-wide Health & Safety Weeks**:
+  1. **Beginning-of-Semester Health & Safety Week** (typically the third week of the semester).
+  2. **End-of-Semester Health & Safety Week** (typically the final week of classes right before Final Exams).
+- **Residence Hall Fire Drills (`2 Per Semester` / `4 Per Academic Year`):**
+  During both the beginning-of-semester and end-of-semester Health & Safety Weeks, **CPI Environmental Health & Safety (`EHS`)** and **Housing & Residence Life** conduct mandatory, unannounced evening evacuation drills in every campus residence hall (`Drill 1 of 2` and `Drill 2 of 2` each semester). EHS guards the exact date and activation minute in strict secrecy—briefing on-duty Hall Directors and RAs on-site only minutes before pulling the alarm and never notifying external clinical offices such as the Student Health Center.
+- **Academic Building Fire Drills (`1 Per Academic Year`):**
+  During the **beginning-of-Fall-semester Health & Safety Week**, every academic building on campus (`Walton Hall`, `Colonial Hall`, `Commonwealth Hall`, `Callahan Hall`, etc.) also conducts its annual daytime fire drill (`1 per year`). In *The Eleventh Child* (`Fall 2014`, `books/aubrie/e001/c012/s002.md`), Jordan Fuller happens to luck out and never be inside an academic building at the moment its annual drill sounds—meaning the Friday night `8:00 PM` Bennett Hall dormitory drill (`c012/s003.md`) hits him completely unwarned for maximum narrative impact.
+
+
 

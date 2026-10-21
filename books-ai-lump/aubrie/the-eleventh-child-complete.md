@@ -4842,7 +4842,7 @@ Then he flipped open his laptop lid, typed a single line into `EchoType`, and hi
 
 "Thank you all," Kelsey said warmly, taking the clipboard back and inspecting the six signatures with a satisfied nod. "This goes straight into Dr. Mercer's locked vault across the firewall first thing tomorrow morning. Have a wonderful week, `Suite 214/216`."
 
-## Trial by Fire Drill
+## Health and Safety Week
 
 ### Scene 1: Transforming Jordan into a Forger
 
@@ -4902,17 +4902,43 @@ A sharp, overwhelming prickle of emotion stung behind his eyes—not a meltdown 
 
 Ten minutes later, after the group split the tab at the register, Aubrie and Madison helped Jordan slip the new maroon CPI Forgers hoodie over his head right outside the **CPI Campus Bookstore**. It was thick, fleece-warm, and smelled like new cotton. As they rolled back across **Commonwealth Green** in the crisp September sun, Jordan didn't feel like a broken boy in a wheelchair anymore. He felt like a CPI Forger.
 
-### Scene 2: Fire Alarm in the Dormitory
+### Scene 2: One Hundred and Five Percent
+
+**Date:** 2014-09-19 at 19:30 America/New_York
+
+Friday evening in Suite 214/216 had begun as a quiet, triumphant celebration.
+
+It was the tail end of CPI's beginning-of-semester **Health and Safety Week**—the mandatory campus-wide compliance week held near the start and end of every semester. All week long, Environmental Health & Safety (`EHS`) had been running its annual once-a-year daytime fire drills across every academic building on campus. By sheer luck of the schedule, every single academic-building drill that week had gone off while Jordan was somewhere else: Walton Hall had been evacuated on Tuesday morning twenty minutes before his afternoon Astrophysics lecture; Colonial Hall's alarm had sounded on Wednesday while he was across campus eating lunch at Kincaid Hall; and Commonwealth Hall had run its drill on Thursday afternoon right after his Calculus section let out.
+
+In Bennett Hall, the only sign of Health and Safety Week that Suite 214/216 had noticed was a bright yellow Residence Life checklist pinned to the corkboard outside **Isabel Dawson**'s door in Room 215 reminding residents not to daisy-chain extension cords, overload surge protectors, or hang laundry from the sprinkler pipes. Yesterday afternoon, **Zoë** had dutifully inspected every power strip in both rooms, declared Suite 214/216 one hundred percent compliant with the Virginia Statewide Fire Prevention Code, and checked the item off her mental list.
+
+None of them gave Health and Safety Week a second thought tonight—because tonight, Suite 214/216 had something far bigger to celebrate.
+
+At seven-thirty that evening, **Dr. Aris Thorne** had posted the grades on Canvas for their first college **PHYS 1054: Introduction to Astrophysics** exam.
+
+Sitting in his wheelchair at his desk in his brand-new maroon **CPI Forgers** hoodie, Jordan had clicked open the gradebook tab on his `Pinnacle Vanguard Pro` while **Aubrie Jean** leaned over his shoulder—and for three full seconds, Jordan had simply stared at the screen through his new glasses in stunned disbelief.
+
+He hadn't just passed his first college exam.
+
+He had scored a perfect **100%**, plus all five bonus points on Dr. Thorne's brutal orbital-mechanics extra-credit derivation, for a total score of **105%**.
+
+"A hundred and five percent!!" Aubrie Jean had shrieked with pure joy, throwing both arms around Jordan's shoulders and kissing his cheek while **Madison**, **Zoë**, **Hannah**, and **Lauren** crowded around his desk to read the glowing numbers for themselves.
+
+"Look at Dr. Thorne's comment in the rubric margin!" Zoë had pointed out, her analytical gray eyes shining with pride. *"'Flawless Keplerian transfer derivation—cleanest vector notation in the lecture hall.'"*
+
+For a young man who had spent eighteen years being told by his mother that his mind was broken and that going to college was a pointless fantasy, seeing **`105 / 100`** stamped across a university astrophysics gradebook felt like watching the sun rise for the first time.
+
+By a quarter to eight, the initial burst of cheering had settled into a warm, peaceful Friday night glow. Sitting at his desk in his fleece-lined Forgers hoodie, Jordan was happily reviewing his next chapter of astrophysics notes while basking in the quiet pride of his suitemates. Across Room 214, Aubrie Jean was curled up on the lower bunk reading under a soft fleece blanket, Madison was lounging on the top bunk scrolling through her `mPhone`, and Zoë, Hannah, and Lauren were chatting casually through the open connecting bathroom doorway in Room 216 as the digital clock on Jordan's desk ticked toward `8:00 PM`.
+
+### Scene 3: Fire Alarm in the Dormitory
 
 **Date:** 2014-09-19 at 20:00 America/New_York
 
-Friday evening in Suite 214/216 had begun as a quiet celebration. Earlier that afternoon, Dr. Aris Thorne had posted the grades for their first college Astrophysics exam, and Jordan hadn't just passed—he had scored a perfect **100%**, plus five bonus points on the orbital-mechanics extra-credit question for a total of **105%**.
-
-Sitting in his wheelchair at his desk in his brand-new maroon CPI Forgers hoodie, Jordan had been basking in the warm glow of his suitemates' pride while reviewing his textbook notes. Across the room, Aubrie was curled up on the lower bunk reading under a soft fleece blanket, Madison was lounging on the top bunk scrolling through her mPhone, and Zoë, Hannah, and Lauren were chatting through the open connecting bathroom doorway in Room 216.
-
-Then the clock hit 8:00 PM.
+The clock hit `8:00 PM`.
 
 Without a single second of warning, a piercing, metallic, 100-decibel shriek ripped through the cinderblock walls of Suite 214/216, accompanied by the blinding, rhythmic white flash of the wall-mounted ADA emergency strobe lights and the heavy *thud* of the hallway's electromagnetic smoke-barrier doors automatically releasing and slamming shut.
+
+***BZZZZT! BZZZZT! BZZZZT!***
 
 "Oh, you have *got* to be kidding me!" Madison groaned from the top bunk, clapping her hands over her ears. Across the connecting doorway in Room 216, Hannah and Lauren winced in unison.
 
@@ -4936,7 +4962,7 @@ Everyone in the room naturally assumed Jordan was crying for the exact same reas
 
 They had no way of knowing the sheer, suffocating nightmare exploding inside Jordan's mind, and because Jordan was completely non-verbal, he had no words to tell them.
 
-Jordan had never attended a college orientation session on residential fire procedures, and after eighteen years of being kept isolated inside his mother's house in Virginia Beach, he had no concept that universities ran routine, unannounced evening fire drills. In his mind, Room 214's heavy, automatically locking door was the only barrier on earth standing between him and Aubrie Sinclair. Nobody in the outside world could get through that locked door from the hallway without an authorized Poly Pass.
+Jordan had never attended a college orientation session on residential fire procedures, and because he had lucked out and missed every daytime academic-building fire drill during **Health and Safety Week**, after eighteen years of being kept isolated inside his mother's house in Virginia Beach, he had no concept that universities ran routine, unannounced evening fire drills in the dorms. In his mind, Room 214's heavy, automatically locking door was the only barrier on earth standing between him and Aubrie Sinclair. Nobody in the outside world could get through that locked door from the hallway without an authorized Poly Pass.
 
 And now the alarm was screaming, and Zoë had just unlocked and opened the door.
 
@@ -4976,10 +5002,10 @@ Still clutching the desk as if his life depended on it, Jordan's tear-streaked e
 
 Deliberately, slowly, Isabel tapped the reflective silver stripe on her neon **CPI Residence Life** vest, held up her black two-way radio, and then angled her metal clipboard right in front of his glasses, pointing a steady finger at the bold printed header and table at the top of the sheet:
 
-**COMMONWEALTH POLYTECHNIC INSTITUTE — ENVIRONMENTAL HEALTH & SAFETY (`EHS`)**
-**SCHEDULED RESIDENTIAL FIRE DRILL LOG — FALL SEMESTER (DRILL 1 OF 2)**
+**COMMONWEALTH POLYTECHNIC INSTITUTE — ENVIRONMENTAL Health & SAFETY (`EHS`)**
+**SCHEDULED RESIDENTIAL FIRE DRILL LOG — FALL SEMESTER (DRILL 1 OF 2 — HEALTH & SAFETY WEEK)**
 
-"Look at the paper, Jordan—read the heading," Isabel said, her voice steady, warm, and unshakeable beneath the wail of the horn. "Nobody pulled the alarm to trick you or hurt you, and nobody is waiting outside for you. This is an official, scheduled university fire drill. Environmental Health and Safety runs two of them in every dorm every single semester—one right now at the beginning of the semester, and one toward the end of the semester. That's all this is."
+"Look at the paper, Jordan—read the heading," Isabel said, her voice steady, warm, and unshakeable beneath the wail of the horn. "Nobody pulled the alarm to trick you or hurt you, and nobody is waiting outside for you. This is an official, scheduled university fire drill for Health and Safety Week. Environmental Health and Safety runs two of them in every dorm every single semester—one right now at the beginning of the semester, and one toward the end of the semester. That's all this is."
 
 Jordan stared at the printed university seal and the typed schedule table on her clipboard, his chest heaving with ragged, hitching sobs as the words registered through the fog of panic.
 
@@ -5037,7 +5063,7 @@ Jordan bumped his trembling knuckles lightly against Henry's fist, letting out a
 
 As they rolled back through the ground-level Washington Street doors and down the second-floor corridor to Room 214—where Jordan tapped his OEA-encoded Poly Pass to the reader to unlock the latch and trigger the ten-second dorm door opener—he was still visibly shaken up, with dried tears staining his cheeks, a few lingering tears still clinging to his lashes, and soft sniffles hitching in his chest as the crying slowly tried to subside. Yet as he glanced back at Isabel giving him a warm, watchful nod from the doorway of Room 215 right across the hall before his own door swung shut and clicked locked, he knew he had one more person standing guard over his home.
 
-### Scene 3: Interlude: The Mitigating Factor
+### Scene 4: Interlude: The Mitigating Factor
 
 **Date:** 2014-09-19 at 20:25 America/New_York
 
@@ -5064,7 +5090,7 @@ Instead, she weaponized crisp, unimpeachable institutional language, turning the
 >
 > - **Building:** Bennett Hall (`BLDG-014` — 6 Floors [Floor 1 Admin / Floors 2–6 Residential], 10 RAs + 1 Hall Director) | **Floor:** 2 (of 6)
 > - **Date / Time of Activation:** Friday, September 19, 2014 — `20:00:00 EDT`
-> - **Drill Type:** Scheduled Fall Drill 1 of 2 (Unannounced to Residents; Mandatory All-Staff & EHS On-Site Supervision)
+> - **Drill Type:** Scheduled Fall Drill 1 of 2 — Beginning-of-Semester Health & Safety Week (Unannounced to Residents; Mandatory All-Staff & EHS On-Site Supervision)
 > - **On-Site Drill Command:** Kelsey Brennan (Hall Director), West Campus Area Coordinator (Housing & Residence Life), & 2 CPI EHS Fire Safety Specialists
 > - **Total Building Clearance Time (Floors 1–6):** `02:48` *(Target Threshold: `<= 03:00` — **PASS**)*
 > - **Floor 2 Clearance Time:** `02:14` *(Standard Floor 2 Baseline: `01:15` — **MITIGATING FACTOR LOGGED**)*
@@ -5128,7 +5154,7 @@ Down on the first floor in the Residence Director's apartment office, Kelsey mus
 
 Isabel read Kelsey's reply twice, a quiet warmth settling into her chest as she closed her laptop lid. Across the narrow hallway behind the locked oak door of Room 214, she could hear the faint, gentle murmur of her residents talking over mugs of hot cocoa. Smiling softly to herself, Isabel turned off her desk lamp.
 
-### Scene 4: The Nightly Pact
+### Scene 5: The Nightly Pact
 
 **Date:** 2014-09-19 at 21:00 America/New_York
 
@@ -5218,7 +5244,7 @@ Zoë nodded once, a rare, radiant smile softening her face. "The parameters are 
 
 Madison picked her mug back up off the rug and raised it in a toast. "Best. Suite. Ever."
 
-### Scene 5: The First Night of the Pact
+### Scene 6: The First Night of the Pact
 
 **Date:** 2014-09-19 at 22:30 America/New_York
 
@@ -7705,11 +7731,11 @@ On the laptop screen, **Laura Brooks** put her hands to her cheeks, her eyes imm
 
 When the video call clicked off in Room 216, the seven co-conspirators looked around the circle at one another, a shared, electric secret humming between them. In less than three weeks, on the longest night of the year, Jordan Fuller and Aubrie Jean Kelly were going to celebrate the first real birthday party of Jordan’s life—surrounded by the family they had built together.
 
-### Scene 4: A Preventable Crisis & The Second Drill
+### Scene 4: A Preventable Crisis
 
 **Date:** 2014-12-06 at 18:00 America/New_York
 
-The smooth, joyful rhythm of their pre-finals week was shattered on Saturday evening, December 6, right as the campus began gearing up for the start of final exams.
+The smooth, joyful rhythm of their pre-finals **Health and Safety Week** was shattered on Saturday evening, December 6, right as the campus began gearing up for the start of final exams.
 
 It had started innocuously enough on Friday night with Jordan mentioning a scratchy throat and a dull ache behind his eyes. At first, everyone assumed it was nothing more than a mild December head cold brought on by chilly winds across the Drillfield and late-night review sessions.
 
@@ -7762,7 +7788,11 @@ Looking Nurse Vance squarely in the eye, Jordan steadied his trembling fingers o
 
 Around his bed, Hannah wiped a tear of fierce pride from her cheek, while Nurse Vance smiled with deep, unmistakable respect.
 
-"I am logging your adult revocation of the waiver into your permanent medical chart right now, Jordan," Nurse Vance said warmly, tapping her tablet and signing it with her stylus. "Starting in January when you return from Winter Break, we will set you up with a customized adult catch-up immunization schedule right at Student Health. First, though, let's get you started on Tamiflu, anti-nausea medication, and fever reducers so we can get you—"
+"I am logging your adult revocation of the waiver into your permanent medical chart right now, Jordan," Nurse Vance said warmly, tapping her tablet and signing it with her stylus. "As soon as your fever has been gone for thirty-six hours, we will start you on your customized adult catch-up immunization schedule right at Student Health. First, though, let's get you started on Tamiflu, anti-nausea medication, and fever reducers so we can get you—"
+
+### Scene 5: The Second Drill
+
+**Date:** 2014-12-06 at 19:15 America/New_York
 
 Nurse Vance never finished the sentence.
 
@@ -7770,7 +7800,7 @@ At `7:15 PM` sharp, without a single second of warning, the wall-mounted Simplex
 
 ***BZZZZT! BZZZZT! BZZZZT!***
 
-Because **CPI Environmental Health & Safety (`EHS`)** guarded its mandatory unannounced dormitory fire drill schedule in strict secrecy—briefing Residence Life staff on-site only minutes before activation and never notifying clinical departments like Student Health—neither Nurse Vance nor anyone in Suite 214/216 had any idea that EHS had chosen Saturday night before Finals Week to run **Fall Drill 2 of 2**.
+Because it was the end-of-semester **Health and Safety Week**—and because **CPI Environmental Health & Safety (`EHS`)** guarded its mandatory unannounced dormitory fire drill schedule in strict secrecy, briefing Residence Life staff on-site only minutes before activation and never notifying clinical departments like Student Health—neither Nurse Vance nor anyone in Suite 214/216 had any idea that EHS had chosen Saturday night before Finals Week to run **Fall Drill 2 of 2**.
 
 Across the room, **Aubrie Jean** gasped and clamped her hands over her ears as the sudden 100-decibel horn overloaded her auditory processing, while **Madison** immediately lunged for the desk drawer and snapped Aubrie’s red noise-reducing earmuffs snugly over her head.
 
@@ -7778,7 +7808,7 @@ At the bedside, Nurse Vance blinked once at the flashing ceiling strobe, let out
 
 "Well," Nurse Vance called out calmly over the horn, "a real fire never checks the patient chart first, does it? Everyone into evacuation positions—we have to take him outside, and it is thirty-four degrees on Washington Street tonight, so we are wrapping him like an Arctic expedition before he crosses that threshold!"
 
-Even with his head throbbing and his body burning at `102.4°F`, the contrast between tonight and the first fire drill back in September could not have been more extraordinary.
+Even with his head throbbing and his body burning at `102.4°F`, the contrast between tonight and the first Health and Safety Week fire drill back in September could not have been more extraordinary.
 
 On September 19, when the alarm had unlocked Room 214’s door, Jordan had screamed in raw, primal terror and clung to his desk in a white-knuckled death grip because he genuinely believed his mother had pulled the fire alarm outside to flush him out of his locked room and kidnap him.
 
@@ -7789,7 +7819,7 @@ The nine-person crew and the Student Health nurse practitioner moved with breath
 * As Mark and Jessica settled Jordan into his chair, **Lauren**, **Hannah**, and **Zoë** zipped his heavy winter coat over his pajamas, wound his maroon CPI scarf around his neck, tucked a knit beanie over his ears, and wrapped **both thick quilts** from his bed tightly around his shoulders, torso, and legs all the way down to his footplates like a sealed thermal sleeping bag.
 * Zoë pressed her palm against the square stainless-steel **`PUSH TO OPEN`** actuator on the wall, and the heavy oak door of Room 214 swung wide open into the strobing corridor.
 
-Right outside in the hallway, **Isabel Dawson** was sprinting toward their door in her neon-yellow **CPI Residence Life** vest with her black two-way radio in one hand and her metal **EHS** clipboard—headed **`SCHEDULED RESIDENTIAL FIRE DRILL LOG — FALL SEMESTER (DRILL 2 OF 2)`**—in the other.
+Right outside in the hallway, **Isabel Dawson** was sprinting toward their door in her neon-yellow **CPI Residence Life** vest with her black two-way radio in one hand and her metal **EHS** clipboard—headed **`SCHEDULED RESIDENTIAL FIRE DRILL LOG — FALL SEMESTER (DRILL 2 OF 2 — HEALTH & SAFETY WEEK)`**—in the other.
 
 When Isabel saw Nurse Vance, Madison supporting an earmuff-wearing Aubrie Jean, and a quilt-cocooned Jordan *already* rolling out of Room 214 less than forty-five seconds into the alarm, her eyes went wide with a mixture of sympathetic dismay and sheer amazement.
 
@@ -7837,7 +7867,7 @@ Even exhausted and feverish, Jordan’s eyes flicked worriedly toward the stack 
 
 As Nurse Vance packed up her diagnostic kit with a warm goodbye and the soft amber string lights cast a peaceful glow across Room 214, the fever reducer finally began to loosen the tight ache in Jordan’s shoulders. Surrounded by the quiet, steady hum of his found family setting up their bedside watch, Jordan closed his eyes and drifted off to sleep—ready to rest up, beat the virus, and finish his first college semester strong.
 
-### Scene 5: The Final Exam
+### Scene 6: The Final Exam
 
 **Date:** 2014-12-12 at 09:00 America/New_York
 
@@ -7892,7 +7922,7 @@ Jordan set his wheel locks, pulled his `mPhone` from his sweater pocket, and tap
 
 As Hannah took the push-handles of his wheelchair and Mark walked proudly at his side as they headed back across **Commonwealth Green** toward **Bennett Hall**, a profound wave of closure washed over Jordan. His first semester at Commonwealth Polytechnic Institute was officially in the books. He had survived abandonment, sensory overload, two fire drills, a dormitory flu outbreak, and his mother's attempts to drag him backward—and he had won on his own terms.
 
-### Scene 6: The First Shot & Goodbye to Henry
+### Scene 7: The First Shot & Goodbye to Henry
 
 **Date:** 2014-12-12 at 13:30 America/New_York
 
@@ -7990,7 +8020,7 @@ Their first, impossibly eventful semester at CPI was over. Together, they had su
 
 They hadn't just survived. They had won.
 
-### Scene 7: Interlude: A Dangerous Idea
+### Scene 8: Interlude: A Dangerous Idea
 
 **Date:** 2014-12-12 at 15:00 America/New_York
 
@@ -8063,7 +8093,7 @@ Jordan looked through the glass and spotted something new. A line of wooden surv
 
 "Those are the grading and foundation stakes," Daniel explained, his deep London-inflected voice brimming with quiet pride. "The engineering plans were approved by the Town of Christiansburg last week. We have the building permits in hand, and the concrete and timber crew starts right after New Year's Day. We're putting in a permanent, ADA-compliant switchback ramp for you, Jordan." He rested a warm hand on Jordan's shoulder. "No more waiting for me, Mark, or my sons to carry your chair up and down the hill. You'll be able to roll between the basement and the main kitchen completely on your own, whenever you please."
 
-The entire group looked out at the ribboned stakes in the December dusk—a physical, permanent monument of belonging. Jordan stared at the wooden markers, his throat tight with emotion, before a practical question—one straight out of Zoë's playbook—surfaced in his mind. He tapped the keys of his `Vanguard Pro` on his lap tray.
+The entire group looked out at the ribboned stakes in the December dusk—a physical, permanent monument of belonging. Jordan stared at the wooden markers, his throat tight with emotion, before a practical question—one straight out of Zoë's playbook—surfaced in his mind. He tapped the keys of his `Precisionist 5000` on his lap tray.
 
 <aac>Daniel, this is amazing,</aac> `EchoType` synthesized softly. <aac>But didn't you say at Thanksgiving that you were building a new house? Why build a permanent ramp here if we are going to be moving?</aac>
 
@@ -8074,6 +8104,386 @@ He led the group over to the large oak coffee table and unrolled a thick tube of
 "This is why," Daniel said, tapping the title block of the blueprint. "A custom build of this scale—a compound big enough for our family, all nine of you, and the families you'll all have one day—doesn't happen overnight. The architects estimate construction out on U.S. Route 11 will take at least a year, possibly fourteen months. For the next year, Geneva Street is home. And we are going to make sure it functions as a true, barrier-free home for every single one of you."
 
 Jordan looked from the surveyor's stakes outside the glass—promising immediate independence—back to the blueprints spread across the coffee table, promising a future he had never once dared to imagine. It was the most profound act of love he had ever witnessed.
+
+### Scene 2: New Rules & Lessons in a Blizzard
+
+**Date:** 2014-12-13 at 09:30 America/New_York
+
+On the first Saturday morning of Winter Break, the nine friends stood in their newly upgraded subterranean bedroom—a cozy, interlocking fortress of four foldable queen-sized bed frames and the wide pull-out sectional sleeper. With their duffel bags unpacked into the dressers lining the main basement living area, a comfortable domestic rhythm was already settling over the room.
+
+"Okay, practical question," **Sarah** said, holding up a folded stack of comfortable lounging clothes as she glanced around the open basement footprint. "With all nine of us living in one contiguous room for three weeks... where do we, you know, get changed?"
+
+**Madison** laughed, a bright, affectionate sound. "Welcome to the **'No Privacy' Pact**, Sarah. It's a holdover from *The Old Lady on the Hill*. We learned pretty fast in Suite 214 and 216 that with all of us sharing one connecting bathroom, waiting in line just to change a shirt was a losing game. We just gave up on modesty. We're family—nobody's looking, and nobody cares."
+
+Sarah glanced over at **Jessica** and **Mark**, who both gave an easy, unbothered shrug. In a household that had already rewritten every conventional social script to keep each other safe, changing clothes in the open was simply another practical house rule.
+
+As the others began pulling hoodies and sweatpants from their drawers, **Lauren** noticed the quiet, resigned expression on **Jordan**’s face as he looked down at his open duffel bag beside his wheelchair. She exchanged a thoughtful, purposeful look with **Hannah** and **Jessica**.
+
+"You know, Jordan," Lauren said gently, walking over and kneeling beside his chair, "we've been helping you get dressed every morning and night for almost four months now. And we love taking care of you. But it occurred to us last night... we've never actually tried to *teach* you how to do any of it yourself."
+
+Hannah knelt on his other side, resting a warm hand on his armrest. "Lauren's right. Your mother never gave you the chance to even try learning what your body can manage on its own—because keeping you dependent was how she kept control. Now we have three full weeks with zero class schedules and zero rush. Between Lauren, Jessica, and me, we have all the strength in the world to spot you safely while you experiment. What if we tried figuring it out together?"
+
+Jordan looked from Lauren to Hannah, his eyes widening behind his glasses with an emotion he hadn't anticipated: pure, electric hope. For eighteen years, the world had been rigidly divided into things he wasn't allowed to touch and things that were done *to* him by an impatient hand. Nobody had ever offered to coach him toward his own physical autonomy.
+
+<aac>You'd really do that?</aac> Jordan tapped softly on his `mPhone`. <aac>You wouldn't get frustrated if I'm slow?</aac>
+
+"Never," Hannah promised with a fierce, loving smile. "We have all winter, Jordan."
+
+Before Jordan could type a second reply, **Aubrie Jean**, who was standing over by the wide sliding-glass patio doors with a mug of tea, let out a soft gasp.
+
+"Guys," Aubrie whispered, her face lighting up. "Come look."
+
+Everyone turned toward the back of the basement. Beyond the glass, against the slate-gray December sky and the bare oak trees of the sloping backyard, the first fat, silent flakes of mountain snow had begun to drift down.
+
+Jordan unlocked his brakes and wheeled himself up to the glass door, pressing his hand lightly against the cool pane in wonder. Growing up on the flat, humid coastal plain of Hampton Roads, he had seen freezing rain and gray slush, but he had never witnessed a real Appalachian snowfall. The heavy white flakes drifted down like silent, crystalline stars, coating the neon-pink surveyor's ribbon on his future ramp stakes and gently erasing the autumn grass underneath a clean white blanket.
+
+As the snow fell steadily outside, sealing their basement sanctuary inside a quiet winter globe, Lauren and Hannah began Lesson One.
+
+"Alright," Hannah said warmly, holding up Jordan’s thick navy-blue CPI Astrophysics hoodie. "Let's start with upper body. Just this hoodie."
+
+What followed was an exercise in patient, compassionate biomechanical engineering. Rather than pulling the garment over his head for him, Lauren, Hannah, and Jessica broke down a lifetime of enforced helplessness into small, repeatable leverage points.
+
+"Try bracing your left forearm against the edge of the queen mattress to stabilize your core," Lauren suggested encouragingly. "And once your right arm is through the sleeve, use your left hand to clear the collar past your glasses."
+
+The first two attempts ended in a comical tangle of cotton fleece and elbows, eliciting good-natured laughs from Jordan himself. There was no sighing, no checking of watches, and no irritation—only gentle adjustments and steady encouragement. Outside the glass doors, the light flurries were rapidly thickening into a dense, driving curtain of white.
+
+On the third attempt, Jordan braced his shoulder against the bed frame, worked both arms cleanly through the sleeves, grabbed the front hem, and pulled the hoodie down over his torso all by himself.
+
+He sat back in his chair, slightly breathless, staring down at his chest with a look of pure, unadulterated triumph.
+
+<aac>I did it!</aac> `EchoType` rang out, his grin radiating from ear to ear.
+
+"You crushed it!" Jessica cheered, offering him a crisp high-five.
+
+Jordan glanced past her toward the patio doors and blinked in awe. In the twenty minutes they had been practicing, the steady snowfall had escalated into a full-scale mountain blizzard. Fierce gusts of wind whipped the snow into swirling, hypnotic vortexes across the yard, turning the world beyond the glass into a roaring wall of white.
+
+"Okay, champion," Lauren smiled, holding up a pair of warm wool crew socks. "Ready to test the final boss?"
+
+Emboldened by his triumph with the hoodie, Jordan nodded eagerly and slipped the first sock over his hand. Bracing one palm on his wheel rim, he leaned forward slowly—only to hit the unyielding physical boundary of his spastic diplegic cerebral palsy. Tightness in his hips and hamstrings stopped his torso cold nearly a foot short of his ankles. He tried a second angle, breathing hard, before easing back against his backrest with a quiet sigh.
+
+Lauren immediately knelt in front of his footrests, her voice warm and matter-of-fact.
+
+"Hey—look at me, Jordan," she said gently. "That one isn't about skill or practice. That's just geometry and physics. Everybody has physics limits, and we will always, *always* be here to handle the physics."
+
+She deftly slipped the wool socks and his sneakers onto his feet, erasing any trace of discouragement before it could even take root.
+
+"Now," Hannah said, holding up a pair of fleece sweatpants with a determined glint in her eye, "let's solve the engineering problem in the middle."
+
+Back at Bennett Hall, getting Jordan’s underwear and pants past his hips had always been a two-person lift—Hannah or Lauren bearing his weight while a second suitemate pulled the waistband into place. It was efficient and loving, yet it left Jordan entirely passive during the transfer.
+
+Their first two seated attempts in the basement hit the same friction barrier: seated on the cushion, there was no clearance under his hips. Jordan frowned thoughtfully at the problem, his astrophysics brain analyzing the force vectors.
+
+Then his eyes landed on the new, heavy-duty steel frame of the foldable queen bed beside him.
+
+<aac>Wait,</aac> Jordan tapped rapidly. <aac>What if I use the bed as a fulcrum?</aac>
+
+He wheeled his chair flush alongside the queen mattress and snapped both wheel locks tight. Taking a deep, focused breath, he planted his left hand firmly on his wheelchair’s left armrest and pressed his right palm flat into the firm mattress beside him.
+
+<aac>Ready. Now!</aac>
+
+With a fierce surge of upper-body effort, Jordan drove downward through both arms—lifting his hips a full inch and a half clear of the wheelchair cushion.
+
+"Got it!" Lauren said, moving with lightning precision alongside Hannah to slide his waistband cleanly up and over his hips in a single smooth motion.
+
+Jordan lowered himself back onto his cushion, his chest heaving and his triceps trembling from the exertion. He looked down at the fleece sweatpants, then up at Lauren and Hannah. He hadn't been passively lifted like cargo. He had engineered the leverage and used his own strength to make it happen.
+
+Right as a brilliant grin broke across his face, a howling gale slammed a solid sheet of snow against the sliding glass doors, erasing the backyard completely in a blinding whiteout. Overhead, the recessed basement ceiling lights flickered once, twice—and then held steady.
+
+From the main sectional sofa across the room, Madison threw both hands in the air. "YES! Still got power!"
+
+"Unbelievable!" Mark called out from the desk corner, glancing at the glowing router LEDs. "Cable and fiber internet are still holding strong too! My parents' house over in Blacksburg would have lost power two hours ago in a storm like this!"
+
+Surrounded by the warmth of the basement and the quiet pride aching in his own muscles, Jordan looked out at the roaring white wall beyond the glass. For the first time in his life, he had dressed himself.
+
+### Scene 3: Whiteout & Hunkering Down
+
+**Date:** 2014-12-13 at 16:30 America/New_York
+
+Mark’s triumphant words about the power grid holding up hung in the air for a fraction of a second too long.
+
+As if the Blue Ridge Mountains had heard the challenge, a transformer somewhere down toward Falling Branch echoed with a muffled, distant *thump*. The recessed lights in the basement flickered violently—once, twice—and then plunged the entire room into pitch darkness.
+
+The comforting hum of the furnace fan, the glow of the television, and the quiet whir of the network router vanished simultaneously, leaving behind an eerie, crystalline silence broken only by the fierce howl of the blizzard battering the patio glass.
+
+"Spoke way too soon," **Madison** remarked into the dark.
+
+Before a single ripple of anxiety could take hold, **Daniel Brooks**’s calm, commanding voice echoed down the interior stairwell.
+
+"Everyone stay right where you are," Daniel called out smoothly, already descending the steps with a flashlight beam sweeping ahead of him. "We are completely prepared for this. **Zoë**, **Caleb**, you know where the emergency lanterns are stored."
+
+```
+ZOË.Systems.Logs.SystemSchedulerLog:
+[Thread 1 (Self)] Action: Grid power loss detected at 16:32 EST. Initiating Domestic Emergency Protocol (Winter Weather Variant).
+[Thread 2 (Observers)] Execute: Deploying 4x high-lumen Li-ion LED area lanterns from utility closet bay 2.
+12-13-2014 16:32:18
+```
+
+Within thirty seconds, four bright, battery-powered LED lanterns clicked on across the room, bathing the basement in a steady, frost-blue glow. Over in the utility corner, Daniel unlatched a heavy-duty, indoor-rated portable kerosene convection heater and sparked the wick. A moment later, the faint, mineral scent of clean kerosene rose as the burner element bloomed into a radiant ring of warm amber-orange light.
+
+**Laura Brooks** came down the stairs right behind her husband, carrying an armful of extra fleece blankets.
+
+"Alright, everyone, listen up," Laura instructed briskly. "Put your heavy winter coats on over your hoodies—hats and gloves, too. The more body heat we trap right now while the house is still warm, the more comfortable we'll all be tonight."
+
+As the others turned toward their duffel bags and coat hooks to bundle up, **Jordan** wheeled over to the foot of his bed where his heavy insulated winter parka was draped.
+
+Looking at the thick,quilted jacket, he felt a sudden surge of quiet determination. A winter parka was heavier and stiffer than the pullover hoodie he had conquered that morning—and nobody was watching him right now; everyone was busy pulling on beanies and scarves in the lantern light.
+
+Jordan locked his wheels. Using the exact leverage technique Lauren and Hannah had taught him hours earlier, he leaned against the queen mattress to steady his torso, threaded his right arm deep into the quilted sleeve, and reached behind his shoulder to pull the coat around his back. Working his left arm into the second sleeve took two patient tries, his breath fogging slightly in the cooling air. Finally, pinching the metal zipper slider between his thumb and forefinger, he seated the pin into the box and hauled the zipper all the way up to his chin.
+
+He sat back, his heart hammering with silent, incandescent pride. For the first time in nearly nineteen years of life, he had put on his own winter coat without a single person helping him. That private victory warmed him more deeply than the down insulation ever could.
+
+Suddenly, a sharp, acrid odor cut through the basement air—the unmistakable smell of burning creosote and woodsmoke.
+
+Daniel’s head snapped up instantly. "That's not our heater," he said, his voice dropping into tactical readiness. "**Owen**, get upstairs and check the front living room windows. See where that smoke is coming from."
+
+Owen bolted up the interior stairs two at a time. Sixty seconds later, his boots thundered back down.
+
+"Dad, it's the two-story colonial down at the bottom of the cul-de-sac!" Owen reported breathlessly. "There's thick black smoke pouring out of their brick chimney!"
+
+Daniel let out a tense breath—a mix of immediate relief for his own household and grim concern for their neighbors. "A chimney flue fire," he said soberly. "Thank God we don't have a wood-burning fireplace in this house—and that right there is why we never use open-flame candles during a power outage."
+
+Through the swirling whiteout beyond the patio glass, the group soon spotted the diffused red and blue strobes of Christiansburg Fire Department engines reflecting off the towering snowdrifts at the end of Geneva Street, their sirens muffled to ghostly echoes by the howling wind. All seventeen of them watched quietly until it became clear the fire crews had contained the blaze strictly to the neighbor's chimney flue without flames breaching the roof.
+
+As the adrenaline faded, a much more mundane reality set in: everyone’s stomachs were rumbling.
+
+"Okay, kitchen rule number one," Laura announced, stepping over to the basement kitchenette. "Nobody opens the refrigerator or the deep freezer. Every time that door opens, we lose thermal retention. Fortunately, we keep an emergency storm pantry stocked for exactly this."
+
+Opening the tall pantry cabinet in the corner, Laura began passing out tins of soup—which Daniel warmed in a stockpot right on top of the flat steel grate of the kerosene heater—alongside boxes of saltine crackers, jars of creamy peanut butter, and oat-and-honey granola bars. Huddled together in winter coats around the glowing amber ring of the heater while the blizzard raged harmlessly against the glass, dipping crackers into steaming mugs of tomato and chicken-noodle soup felt like a royal banquet.
+
+---
+
+### Part II: Hunkering Down & The Morning After
+
+By nine-thirty that night, the temperature outside had plunged into the teens, and the wind was rattling the storm frames with relentless force.
+
+"Alright, everyone, gather round," Daniel announced, his shadow stretching tall across the lantern-lit walls. "After that chimney fire down the cul-de-sac earlier, your mother and I are not comfortable leaving the kerosene heater burning overnight while everyone is asleep. Carbon monoxide and fire risk simply aren't worth it. So I'm shutting the burner down now, and we are going to do this the old-fashioned way: heavy layers, extra comforters, and shared body heat."
+
+A flurry of efficient preparation followed. Anyone still wearing denim swapped into thick fleece sweatpants, and winter coats, knit hats, and gloves stayed on over their pajamas—the only items shed for the night being shoes, Jordan’s glasses, and, for the women, their uncomfortable underwire bras. Heavy quilts and down comforters were piled three-deep atop the four queen beds and the pull-out sleeper.
+
+The sleeping arrangements fell into place with quiet, instinctive solidarity: **Mark** and **Hannah** took the first queen bed; **Madison** and **Zoë** burrowed under the covers of the second; **Lauren**, **Sarah**, and **Jessica** shared the wide pull-out sectional; and on the fourth queen frame, **Aubrie Jean** held back the thick mountain of quilts for **Jordan**.
+
+Transferring from his wheelchair into the bed in his winter coat and gloves, Jordan settled in beside Aubrie as the last LED lantern was dimmed to a faint nightlight glow.
+
+Lying there in the near-darkness as the furnace-silent house creaked and the wind shrieked like a living thing against the glass, Jordan began to shiver—and not from the chill in the basement air.
+
+In the rational, astrophysics-trained center of his mind, he knew it was a low-pressure winter cyclone colliding with the Appalachian Mountains. He knew his mother could not command the atmosphere. Yet in the deep, survival-wired corners of his nervous system where eighteen years of isolation still lingered, the violence of the storm felt terrifyingly personal. It felt like *her* fury—an elemental wrath screaming against the windows because he had dared to claim his own name, his own body, and his own life.
+
+Beside him, Aubrie Jean felt the fine tremor running through his chest and immediately wrapped both arms tightly around his waist, pulling his back flush against her front under the heavy quilts.
+
+"It's just the wind, Jordan," Aubrie whispered against his ear, her warm breath cutting through the cold air. "She's not out there. It's just snow and barometric pressure. We're locked in, and I've got you."
+
+Across the narrow aisle on the sectional sleeper, **Sarah** heard the uneven catch in Jordan’s breathing. Without a word, she slipped out from beneath her blankets, padded softly across the carpet in her wool socks, and knelt beside Jordan’s side of the mattress. Reaching out with a gloved hand, she rested her palm gently against his cheek and forehead.
+
+"The storm can't touch you in here, Jordan," Sarah whispered softly, adding her steady voice to Aubrie’s. "There are seventeen of us in this house. You're surrounded on every side."
+
+From the sectional, Lauren and Jessica watched the quiet moment with a wave of pure, unguarded affection. Nobody felt left out; nobody kept score. When Jordan needed grounding, the entire family moved as one organism to hold the line.
+
+Under the combined warmth of Aubrie’s embrace and Sarah’s steadying hand, the tight knot in Jordan’s chest slowly unspooled, his breathing evening out until Sarah gave his shoulder a final, gentle squeeze and slipped back under her own covers. Held securely in Aubrie’s arms, Jordan drifted to sleep while the storm spent its fury against the hills.
+
+---
+
+The first thing the nine friends noticed on Sunday morning was the most glorious sound in the world: the deep, resonant hum of the central furnace kicking back on, pushing waves of warm air through the ceiling registers.
+
+Ten minutes later, **Daniel Brooks** came striding down the interior stairs with a steaming mug of coffee in his hand and a huge grin on his face.
+
+"Good morning, survivors!" Daniel boomed cheerfully. "Grid power came back online around five-thirty, and the storm front has completely passed." He gestured toward the back of the basement, where the lower two-thirds of the sliding glass doors were completely buried behind a sculpted white drift. "I just took a yardstick out onto the upper back deck. We got forty-six inches—just shy of four feet of snow. Nobody in Christiansburg is going anywhere for at least forty-eight hours."
+
+A chorus of amazed whistles and cozy laughter rippled across the beds. Then Aubrie Jean glanced thoughtfully around the subterranean room and looked at Jordan.
+
+"Wait—Jordan," Aubrie asked gently, "are you going to be okay feeling cooped up down here in the basement for two whole days while the ramp isn't built yet?"
+
+Before Jordan could reach for his keyboard, **Caleb** and **Owen**, who had just walked down the stairs behind their father, exchanged an immediate grin.
+
+"Not on our watch," Owen said firmly.
+
+"Yeah, man," Caleb added, stepping over to Jordan’s bed. "Anytime you want to come upstairs, see a different set of walls, and look out the big picture window at the front street, Owen and I are your personal human elevator. Carrying you up one flight of stairs is light work."
+
+"And the three of us have your wheelchair covered," Hannah chimed in alongside Lauren and Jessica.
+
+Touched by how effortlessly they erased every physical barrier in his path, Jordan nodded gratefully. Sitting up on the edge of the mattress as the basement warmed rapidly, he reached for the collar of his winter parka—and with a smooth downward pull of the zipper and a practiced shrug of his shoulders, took off the heavy coat all by himself. Another quiet milestone checked off.
+
+Two minutes later, Caleb and Owen linked forearms to carry Jordan effortlessly up the interior staircase while Hannah and Lauren brought up his folded wheelchair. They settled him right in the center of the plush upstairs living room sofa—with Aubrie Jean snuggling in on his left side and Madison curling up on his right—directly in front of the wide bay window overlooking Geneva Street.
+
+Jordan’s breath caught as he looked out.
+
+The entire neighborhood had been transformed into an untouched alabaster wonderland. The asphalt cul-de-sac, the mailboxes, the cars in the driveways—everything was buried beneath a pristine, four-foot blanket of glittering white snow under a brilliant cobalt-blue post-storm sky.
+
+Daniel stood beside the sofa with his hands on his hips, surveying the completely impassable street with deep satisfaction.
+
+"Well," Daniel said, a quiet smile touching his lips, "I think we can officially relax the perimeter watch for the next couple of days. Nobody is driving a vehicle down Geneva Street. Not a private investigator, and certainly not your mother. Whoever is out there is just as snowed in as we are."
+
+A collective, deeply felt sigh of relief washed through the living room as the irresistible aroma of sizzling bacon, scrambled eggs, and fresh toast drifted in from the kitchen, where the Brooks brothers and **Ben Carter**—who had gotten snowed in with the family while visiting **Chloe** on Saturday afternoon—were cooking a massive hot breakfast for all eighteen people in the house. For today, the world was locked outside, and Jordan was completely safe.
+
+### Scene 4: Blueprints for Mobility & The Unbudgeted Blizzard
+
+**Date:** 2014-12-16 at 21:30 America/New_York
+
+Late Tuesday evening, long after the municipal snowplows had finally carved a single lane down Geneva Street and the nine friends had settled into the warm basement for a quiet night of movies, **Daniel** and **Laura Brooks** sat side by side at the upstairs kitchen table.
+
+The main floor was peaceful, lit only by the soft pendant lamp over the oak table and the glow of their two open laptops. Spread between their keyboards were local contractor quotes, ADA bathroom fixture schematics, and durable medical equipment catalogs.
+
+The permanent switchback ramp in the backyard was already permitted and scheduled for construction right after New Year's Day—but as Laura and Daniel looked at the year ahead before their U.S. Route 11 compound would be ready for occupancy, they knew the exterior ramp was only half the equation.
+
+"Even though we'll only be in this house for another twelve to fourteen months," Laura said softly, tapping a diagram on her screen, "the basement bathroom still needs proper modifications. We don't need to gut the whole room, but we can have the tile contractor come in during the second week of January to replace the threshold with a zero-barrier roll-in shower curb and mount stainless-steel transfer grab bars along the walls."
+
+"Completely agreed," Daniel nodded, already cross-referencing plumbing supply inventory on his own laptop. "And while the plumber is here, we can swap out the vanity and commode in the first-floor half-bath for ADA-height accessible models and widen the doorway swing. Once the backyard ramp is finished, Jordan shouldn't have to go back downstairs every time he needs a restroom while he's hanging out in the main kitchen."
+
+As they quietly coordinated tile specs and rough-in dimensions, Laura’s gaze drifted through the kitchen doorway toward the interior stairs leading down to the basement.
+
+She thought back to late August, when Zoë had first called home to tell them about her new suitemate—a terrified, non-verbal eighteen-year-old freshman who flinched at footsteps and had never been allowed to choose his own clothes, his own food, or even his own name. And then she thought of the young man downstairs right now: the honors Astrophysics student who had looked Hall Director Kelsey Brennan and the Blacksburg Police in the eye, who had taught himself to put on his own winter coat in the middle of a blackout, and whose laughter now anchored their entire home.
+
+*He isn't our son by blood,* Laura thought with a fierce, immovable maternal certainty, *but he is our son in every way that counts.*
+
+And their son deserved far better equipment than what he had been sent to college with.
+
+Over the past four days, both Laura and Daniel had noticed how worn Jordan’s current manual wheelchair truly was. It was a heavy, basic, fleet-grade steel folding frame that Aubrie Sinclair had purchased years ago at the lowest possible price tier—never properly custom-measured to Jordan’s adult shoulders, with worn bearings and stiff upholstery that forced him to expend twice as much upper-body energy on every push.
+
+While Daniel finalized the contractor email, Laura opened a new browser tab and began researching ultralight, custom-fitted titanium rigid and folding wheelchairs engineered for active adult users.
+
+When she scrolled down to the itemized pricing sheets, however, a cold knot tightened in her stomach. Properly fitted custom mobility frames, high-density pressure-relief seating systems, and ergonomic push-rims cost thousands of dollars—and required a formal clinical seating evaluation and insurance pre-authorization.
+
+Right now, Jordan was still listed as a dependent under Aubrie Sinclair’s employer-sponsored health insurance plan back in Hampton Roads.
+
+*For how long?* Laura asked herself grimly. A woman vindictive enough to terminate her disabled son’s cell phone line on Thanksgiving weekend just to isolate him was more than capable of dropping him from her health insurance during open enrollment—or weaponizing insurance EOB statements to track his medical appointments.
+
+Looking at the photograph of a sleek, custom-fitted ultralight wheelchair on her screen, Laura reached across the oak table and placed her hand over Daniel’s. Her husband looked at her screen, read her expression instantly, and nodded once in quiet, total agreement.
+
+The ramp and the Route 11 estate were the physical fortress. Securing Jordan a custom-fitted wheelchair of his own—and building an ironclad contingency plan to get him onto independent health insurance the second his mother tried to pull the rug out from under him—would be their Christmas gift to their son.
+
+---
+
+### Interlude: The Unbudgeted Blizzard
+
+Three days earlier—while the eighteen members of the Brooks household were waking up on Sunday morning to sizzling bacon, restored furnace heat, and four feet of glittering snow—**Aubrie Sinclair** had woken up in a freezing, drafty roadside motel room off U.S. Route 460 on the outskirts of Blacksburg in a state of cold panic.
+
+Driven by an obsessive, unraveling desperation that refused to accept her Thanksgiving defeat at Bennett Hall, she had burned the last of her spare cash to make the five-hour drive back up Interstate 81 at the end of Final Exam week. She hadn't even come with a coherent plan—only a manic certainty that if she staked out the campus perimeter as the dorms closed for Winter Break, she would catch sight of "Aubrey" and force him into her car.
+
+Instead, she had spent Friday parked two hundred yards from *The Old Lady on the Hill*, too intimidated by the memory of Kelsey Brennan and the CPI Campus Police to set foot on the brick walkway—never knowing that Jordan and his friends had already departed from the rear accessibility lot hours earlier. Exhausted and running on fumes, she had checked into the cheapest motel she could find on Friday night rather than driving seven hours back to the coast in the dark.
+
+When she dragged back the thin, faded polyester curtain on Saturday afternoon, the parking lot—and the highway beyond it—had vanished behind a four-foot wall of white. Her sedan was buried past the wheel wells. I-81 and Route 460 were shut down by Virginia State Police.
+
+The blizzard she had driven straight into had trapped her.
+
+With a trembling hand, she dialed her supervisor at her office back in Hampton Roads, pitching her voice into a blend of real panic and practiced victimhood.
+
+"I can't make it in for my shift," she told her manager. "I'm completely snowed in. The highways are closed."
+
+There was a long, baffled pause on the other end of the line.
+
+"...Snowed in?" her manager repeated, his voice flat and skeptical. "Aubrie, it's forty-eight degrees and raining here in Norfolk. What on earth are you talking about? Where are you?"
+
+"I—I drove out to the mountains to check on a sick aunt," she stammered, the lie sounding thin and ridiculous even to her own ears.
+
+Her manager didn't buy a word of it. "You didn't request leave, and you're three hundred miles away on a scheduled workday, Aubrie. You know company policy. This goes down as an unexcused absence, and you'll have a formal written warning waiting on your desk when you return. Do not let this happen again."
+
+The line clicked dead.
+
+Aubrie Sinclair stood frozen beside the motel radiator, her knuckles white around her phone as humiliation and rage warred in her chest. Pulling up her checking account on her screen, she stared at the pending charges for two unbudgeted nights at the motel and three tanks of highway gas—money she desperately needed for her own bills.
+
+The irony was suffocating. Had she simply stayed home in Norfolk, Saturday would have been nothing more than a dreary, rainy shift at her desk. Instead, her refusal to relinquish control over a son who wanted nothing to do with her had left her stranded hundreds of miles from home, bleeding money she didn't have, with her livelihood hanging by a thread.
+
+A cold, pragmatic terror cut through her rage. She *could not* lose her job. Without her paycheck, she had nothing. Sitting down hard on the edge of the lumpy motel mattress, she made a silent vow: she would never risk an unannounced trip during work hours again.
+
+Yet the instant she closed that door, her mind—incapable of self-reflection—snapped straight back to its singular obsession.
+
+Before the storm had closed the roads, she had spent two hours at a public desktop terminal inside the Blacksburg Library, frantically typing search queries about how a parent could override a nineteen-year-old’s refusal of contact. And there, buried in the legal reference tabs, she had discovered two words she had never considered before:
+
+**Guardianship** and **Conservatorship**.
+
+Flipping open her laptop on the motel bedspread, its harsh blue light illuminating her face in the dim room while the wind howled outside, she pulled up the saved pages from the Virginia legal aid portal.
+
+As she scrolled through the articles on Adult Incapacitated Guardianship under the Code of Virginia, her eyes performed a masterclass in selective reading. She skimmed right past the stringent statutory requirements—completely ignoring phrases like *"clear and convincing evidence,"* *"least restrictive alternative,"* *"independent evaluator,"* and *"fiduciary accounting of every dollar."* To her mind, those were mere bureaucratic technicalities meant for other people.
+
+Instead, her gaze locked onto the sentences that fed her starving sense of absolute authority:
+
+> *"The guardian of an incapacitated adult may determine the ward's place of residence..."*  
+> *"The conservator shall hold complete authority over the ward's estate and financial aid..."*  
+> *"The court may vest the guardian with full power to consent to or refuse medical treatment..."*
+
+Sitting alone in a freezing motel room she couldn't afford, with a formal reprimand waiting for her in Norfolk—while less than six miles away on Geneva Street, the son she called *Aubrey* was warm, cherished, and laughing in the heart of a family she refused to believe existed—Aubrie Sinclair felt a feverish, triumphant smile creep across her face.
+
+She didn't need to chase him through campus parking lots anymore. She had found her magic wand. With a single stroke of a circuit court judge's pen, she would erase Jordan Fuller forever.
+
+### Scene 5: Solar Noon on the Winter Solstice
+
+**Date:** 2014-12-21 at 12:20 America/New_York
+
+On Sunday morning, December 21st—the **Winter Solstice**—the Brooks basement hummed with joyful, conspiratorial energy before the sun had even cleared the crest of the Blue Ridge.
+
+It was **Jordan** and **Aubrie Jean**’s nineteenth birthday.
+
+In Jordan’s old life in Hampton Roads, December 21st had always been a day spent in the dark—both astronomically and emotionally. Born on the shortest day and longest night of the Northern Hemisphere’s year, his birthday had never once been celebrated. Whenever the date arrived on the calendar, his mother had brushed past it without a card, a cake, or a gift, dismissing it with a brisk, martyrdom-laced sigh: *"Honestly, Aubrey, it's four days before Christmas—it's far too close to the holiday to make a fuss."*
+
+Here on Geneva Street, his nineteenth year began with an ambush of pure joy.
+
+At eight-thirty in the morning, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** launched a coordinated raid across the basement carpet—piling onto the edges of the queen bed where the birthday boy and birthday girl were waking up and belting out a boisterous, delightfully off-key chorus of *"Happy Birthday to You!"*
+
+Jordan pushed his glasses onto his nose, his face flushing crimson with happiness as Aubrie Jean dissolved into bright, musical giggles beside him, burying her face against his shoulder before hugging every single person within reach.
+
+Later that morning, after **Caleb** and **Owen** carried Jordan up the interior staircase and settled him into his wheelchair at the head of the extended oak dining table upstairs, Jordan noticed something intriguing. Usually, special family meals took place in the evening. Today, however, the long table was already set with crisp linens and gleaming silverware, and every blind and curtain across the south-facing dining room and living room windows had been drawn wide open to the brilliant, crystal-clear December sky.
+
+At twelve-fifteen, **Laura** and **Daniel Brooks** emerged from the kitchen carrying steaming serving platters, while **Zoë** stood beside the bay window checking the live astronomical ephemeris readout on her `mPad`.
+
+```
+ZOË.Systems.Logs.SystemSchedulerLog:
+[Thread 1 (Self)] Analysis: Target coordinates 37.1299° N, 80.4089° W (Christiansburg, VA). Date: 2014-12-21 (Northern Winter Solstice; Earth axial tilt -23.44° relative to solar plane).
+[Thread 3 (Jordan)] Hypothesis: Clock noon (12:00 EST) is an arbitrary meridian convention based on 75.0° W. For two Astrophysics majors, celebration must align with True Local Apparent Solar Noon (Upper Culmination).
+[Thread 1 (Self)] Execute: Longitude offset (+5.41° = +21m 38s) + Equation of Time (-1m 49s) = 12:19:49 EST. Peak solar altitude: 29.43° due South (180.0° Azimuth). Commencing Birthday Lunch at 12:20 EST.
+12-21-2014 12:19:45
+```
+
+"Alright, everyone, take your seats!" Daniel announced warmly as all seventeen members of the household gathered around the table. He looked down the length of the sunlit oak table toward Jordan and Aubrie Jean, who were sitting side by side at the head of the table, their hands linked above the tablecloth.
+
+"Now, the two of you might be wondering why we insisted on holding your nineteenth birthday celebration as a lunch instead of a dinner—and why Zoë had us time the serving of the meal to the exact minute of **twelve-twenty in the afternoon**," Daniel said, a fond smile crinkling the corners of his eyes.
+
+Zoë adjusted her glasses and stepped forward with quiet pride.
+
+"Because you are both **Astrophysics majors** born on the **Winter Solstice**," Zoë explained, her voice ringing with clear, earnest warmth. "At twelve o'clock standard time, the Sun has not yet reached the local celestial meridian here at eighty-point-four degrees West longitude. Right now—at exactly **twelve-twenty PM Eastern Standard Time**—it is **True Solar Noon** in Christiansburg. Even though the Northern Hemisphere is tilted at its maximum twenty-three-point-four-four degrees away from the Sun today, this exact minute is **upper culmination**: the moment the Solstice sun reaches its highest possible altitude in the southern sky and delivers maximum photon flux through those windows."
+
+Laura set a steaming porcelain dish in front of them, her eyes shining with maternal love as she rested a gentle hand on Jordan’s shoulder and then Aubrie’s.
+
+"For too long, Jordan, this day was treated like a day in the dark," Laura said softly. "So your father, Zoë, and I decided that from this year forward, we celebrate our two astrophysicists at **Solar Noon**—standing right in the brightest light of the Solstice."
+
+Jordan stared up at Laura, Daniel, and Zoë, his throat tightening so powerfully that for several seconds he couldn't even move his fingers to his keyboard. Golden midday sunlight poured through the south-facing bay windows, reflecting off the four feet of snow outside and bathing the entire dining room—and the seventeen people seated around him—in a dazzling, amber-gold corona of natural light.
+
+Beside him, Aubrie Jean wiped a happy tear from her cheek and squeezed his hand.
+
+<aac>True Solar Noon,</aac> Jordan tapped softly on his `Precisionist 5000`, looking around the table with shining eyes. <aac>That is the coolest birthday present two astrophysics majors could ever ask for.</aac>
+
+The lunch itself was a feast crafted entirely around the two of them. There were no generic compromises: Laura had prepared a massive batch of Jordan’s absolute favorite meal—rich, slow-simmered marinara over al dente spaghetti with loaves of buttery roasted-garlic bread—alongside a bubbling, three-cheese vegetarian spinach-and-mushroom lasagna baked specially for Aubrie Jean.
+
+For the next forty-five minutes, the dining room echoed with laughter, stories from their first semester at CPI, and playful debate between Mark, Caleb, and Zoë over orbital mechanics. Jordan sat at the head of the table not as an afterthought or an obligation, but as the celebrated guest of honor.
+
+And then, as the lunch plates were cleared away, the kitchen door swung open and Daniel walked out carrying a massive bakery platter that made both Jordan and Aubrie Jean gasp aloud.
+
+It was a bespoke **Astrophysics Solstice Cake**.
+
+Frosted in deep, mirror-dark chocolate ganache that looked like the velvet canvas of deep space, the top of the cake was hand-decorated with a swirling, violet-and-magenta stellar nebula dusted in edible silver stardust. Delicate gold sugar lines traced the celestial equator and the ecliptic plane across the surface, intersecting at the exact point of the Winter Solstice—and arcing side by side across the center of the nebula were **two sculpted golden shooting stars**, locked together in a binary trajectory.
+
+Around the perimeter of the cosmos, **nineteen tall golden candles** flickered like a cluster of main-sequence stars.
+
+As Daniel set the glowing masterpiece down in front of Jordan and Aubrie Jean, all fifteen voices around the table rose together in a warm, booming chorus:
+
+*"Happy Birthday to you,  
+Happy Birthday to you,  
+Happy Birthday, dear Jordan and Aubrie—  
+Happy Birthday to you!"*
+
+Jordan looked across the flickering ring of nineteen candles at Aubrie Jean—the girl born under the exact same December sky nineteen years ago, whose hand had never once let go of his—and then looked around the sunlit room at the faces of his family.
+
+"Make a wish, you two!" Madison cheered, clapping her hands.
+
+Jordan closed his eyes for a brief second behind his glasses, searching his heart for a wish.
+
+For eighteen years, every silent wish he had ever made in the dark had been a desperate plea for survival: *Please don't let her be angry today. Please let there be a place where I'm not a burden. Please let someone hear me.*
+
+Opening his eyes in the golden brilliance of Solar Noon, looking at Aubrie Jean’s radiant smile, at his suitemates and brothers and sisters, and at Daniel and Laura smiling down at him with unconditional pride, Jordan realized with a sudden, breathtaking clarity that his mind was completely quiet.
+
+He couldn't think of a single thing to wish for. Everything he had ever dreamed of was already sitting right here around this table.
+
+Jordan turned to Aubrie Jean. Without needing a single spoken word, they shared a look of complete, luminous understanding, leaned forward together on the count of three, and blew out all nineteen candles in a single shared breath.
+
+As the dining room erupted into cheers and applause, the last wisps of candle smoke drifted upward into the golden sunbeams pouring through the south windows. For the first time in Jordan Fuller’s life, December 21st was not the darkest day of the year. It was the day his family filled the Winter Solstice with so much light that the shadows had nowhere left to hide.
 
 # Jordan's World Trek
 
