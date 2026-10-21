@@ -40,7 +40,7 @@ His fingers found the keys again.
 
 Courtney's face lit up with a brilliant, triumphant smile. The connection was made. The bubble had officially been cast.
 
-![Courtney hugging Matt in the hallway]({{CDN}}/shiloh/images/story/log-02.jpg#fullwidth)
+![Courtney hugging Matt in the hallway]({{CDN}}/raggiesoft-lore/shiloh/images/story/log-02.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Courtney unexpectedly embraces Matt after he accepts her movie invitation.</div>
 
 ## Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999
@@ -168,13 +168,13 @@ Inside, the Omni-Q window remained silently open on the monitor. Matt was no lon
 
 He sat on the edge of his bed, his chest heaving with silent, ragged sobs. The emotional processing of an eighteen-year-old was violently clashing with the developmental reality of a child trapped within a growing man's failing body. The rejection—simple, brief, and absolute—cut through him with a devastating finality.
 
-![Sarah comforting Matt in their bedroom]({{CDN}}/shiloh/images/story/sarah-comfort-matt.jpg#fullwidth)
+![Sarah comforting Matt in their bedroom]({{CDN}}/raggiesoft-lore/shiloh/images/story/sarah-comfort-matt.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">The sanctuary of the shared bedroom.</div>
 
 
 The walls of the shared bedroom were plastered with his artwork. Dozens of crayon drawings were taped haphazardly above his headboard—a stark contrast to the sterile, clinical hardware surrounding his bed. His absolute favorite drawing, recently completed, hung proudly near the center: a vibrant, child-like interpretation of the inside of Sarah’s computer tower, complete with bright green motherboards and messy tangles of red wires.
 
-![Matt's crayon drawing of Sarah's computer]({{CDN}}/shiloh/images/story/matt-computer-drawing.jpg#fullwidth)
+![Matt's crayon drawing of Sarah's computer]({{CDN}}/raggiesoft-lore/shiloh/images/story/matt-computer-drawing.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Matt's favorite drawing: The inside of Sarah's computer.</div>
 
 
@@ -228,7 +228,7 @@ When Matt realized his cousin was sitting right there, his face lit up. He happi
 
 "Hold it right there!" Linda called out, quickly stepping back and pulling a disposable camera from her apron pocket. The flash popped, capturing the three birthday kids tangled in a warm, protective embrace.
 
-![Matt getting hugged by Sarah and Shiloh at breakfast]({{CDN}}/shiloh/images/story/matt-sarah-shiloh.jpg#fullwidth)
+![Matt getting hugged by Sarah and Shiloh at breakfast]({{CDN}}/raggiesoft-lore/shiloh/images/story/matt-sarah-shiloh.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Matt fiercely loves hugs from women he trusts. Sarah and Shiloh sandwich him in a birthday embrace.</div>
 
 Sarah laughed, parking Matt at the table and taking the seat next to him. She immediately began cutting up a stack of pancakes into small, manageable bites for him.
@@ -521,7 +521,7 @@ Once the call was made, Matt offered a bright, thankful hum. Vance exchanged a h
 
 Ten minutes later, Courtney Evans was sitting rigidly in one of the hard plastic chairs opposite Bernard’s desk. Her polished cheerleader aesthetic had completely unraveled, replaced by the tear-streaked panic of a teenager watching her entire social ecosystem collapse in real time.
 
-![Courtney facing Principal Morgan in his office]({{CDN}}/shiloh/images/story/courtney-principal-office.jpg#fullwidth)
+![Courtney facing Principal Morgan in his office]({{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-principal-office.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Courtney faces the devastating consequences of her actions in Principal Morgan's office.</div>
 
 Bernard sat behind his desk, his expression devoid of its usual warmth. The phone receiver was pressed to his ear.
@@ -542,7 +542,7 @@ Bernard hung up the phone and looked across the desk.
 
 "Stand up, Courtney," he instructed coldly. "We're taking a walk out to the trailers."
 
-![Courtney sitting alone in the ISS trailer]({{CDN}}/shiloh/images/story/courtney-evans-iss.jpg#fullwidth)
+![Courtney sitting alone in the ISS trailer]({{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-evans-iss.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Courtney is escorted to the suspension trailers, her social standing completely erased.</div>
 
 ---
@@ -689,7 +689,7 @@ Anchored by the familiar warmth and steady heartbeat of his sister, the frantic 
 
 ### Scene 1: The New Hierarchy
 
-![Courtney sitting alone in her doorless bedroom]({{CDN}}/shiloh/images/story/courtney-doorless-room.jpg#fullwidth)
+![Courtney sitting alone in her doorless bedroom]({{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-doorless-room.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Courtney serves her suspension, completely stripped of her social standing.</div>
 
 The transition from the undisputed queen of the Northwood High social ecosystem to a disgraced, indentured servant within the walls of her own home was absolute.
@@ -714,7 +714,7 @@ Courtney stared at the jersey, her chest heaving, the remnants of her teenage pr
 
 Jason didn't flinch. He just looked at her with total, dead-eyed apathy, and pointed a single finger down at the dirty jersey.
 
-![Jason dropping his muddy jersey for Courtney to clean]({{CDN}}/shiloh/images/story/courtney-jason-chores.jpg#fullwidth)
+![Jason dropping his muddy jersey for Courtney to clean]({{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-jason-chores.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Jason ensures that his older sister's descent to the bottom of the household hierarchy is absolute.</div>
 
 The message was terrifyingly clear. She wasn't just completing a checklist for their mother. She was serving them on demand. Her authority as the older sibling was completely, irrevocably gone. 
@@ -849,7 +849,7 @@ The weaponization of silence was over. The physical blockade had been lifted.
 
 A fractured sob broke out of Courtney's chest. She turned and threw her arms around Ryan, burying her face into his flannel shirt. Without hesitation, Ryan wrapped his lanky arms around her, holding her tightly. Jason leaned in, wrapping his arms around both of them in a fierce, clumsy pile of siblings on the mattress.
 
-![Courtney crying and hugging her brothers Jason and Ryan]({{CDN}}/shiloh/images/story/courtney-brothers-hug.jpg#fullwidth)
+![Courtney crying and hugging her brothers Jason and Ryan]({{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-brothers-hug.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Stripped of her ego, Courtney finally receives the warmth and forgiveness of her younger brothers.</div>
 
 She wept openly against their shoulders, but this time, they weren't tears of self-pity or humiliation. They were tears of pure, desperate relief. She was still expelled. Her cheerleading career was permanently over. She had a massive, grueling path of rehabilitation ahead of her. But as she held onto the brothers she used to build indoor tents with, Courtney finally felt the first genuine crack in the ice. 
