@@ -7968,7 +7968,13 @@ At `4:00 PM` sharp, Zoë checked her watch and sent the final campus dispatch of
 
 > **`Zoë [Fri 16:00]:`** <sms>[LOGISTICS] All finals complete. Grades are in fate's hands now. Operation Winter Break is officially a GO. My dad and Caleb are pulling up to the Washington Street curb in 10 minutes.</sms>
 
-After one last warm goodbye hug with **Isabel** outside Room 215—who promised to text them from Charlottesville and eagerly looked forward to their first hug back in January—the nine friends rolled their caravan of luggage out the ground-level second-floor doors onto **Washington Street** just as **Daniel Brooks** pulled up in the family minivan with **Caleb Brooks** right behind him in his SUV.
+Before rolling down the corridor to the exit, Jordan paused outside **Room 215** for one last goodbye with **Isabel**. Just as he had felt before Thanksgiving Break, a quiet part of him wished she could load her bags into the caravan and come spend Winter Break on Geneva Street with them too. Yet Jordan understood and respected the boundary completely: as long as she was his active Resident Advisor on Floor 2, CPI Housing & Residence Life policy drew a strict professional line off-campus—and besides, her parents and her younger sister **Elena** were eagerly waiting for her back home in **Charlottesville** for Christmas.
+
+<aac>Have a wonderful Christmas in Charlottesville with your parents and Elena, Isabel,</aac> Jordan tapped on his `mPhone`, angling the screen up to her with a warm smile. <aac>I'll miss you over the break.</aac>
+
+"I'm going to miss you guys so much too!" Isabel beamed, kneeling down to wrap Jordan in one last tight, affectionate hug outside her door. "I'll text `Jordan Comms` on Christmas morning—and I cannot wait for our first hug back here in January!"
+
+With their hallway goodbyes complete, the nine friends rolled their caravan of luggage out the ground-level second-floor doors onto **Washington Street** just as **Daniel Brooks** pulled up in the family minivan with **Caleb Brooks** right behind him in his SUV.
 
 While Mark, Caleb, and the girls loaded the suitcases and duffels into the backs of both vehicles, Jordan wheeled himself right up to Daniel on the sidewalk, reached into his shirt pocket, and proudly held out the crisp printout from the CPI Student Health Center.
 
@@ -8827,7 +8833,7 @@ Today, he sat perfectly upright, the hum of the AC filtered seamlessly by his hi
 
 His heavily modified, matte-black power chair dominated the small room. The heavy-duty, all-terrain suspension and thick tires—which still held the faintest, impossible-to-wash-out traces of red Petermann dirt—made it look less like medical equipment and more like a tactical vehicle. Mounted securely to his right armrest was his sleek, upgraded workstation, the screen glowing softly in the dim room.
 
-Sitting across the polished wooden table was Ms. Caldwell, the court-appointed Guardian ad Litem. This was their third meeting in the span of four days, but the first one on the actual morning of the hearing. She looked up from her thick legal binder, her eyes scanning Jordan's deep, weathered tan and the relaxed, confident set of his shoulders behind his prescription glasses.
+Sitting across the polished wooden table was Ms. Caldwell, the court-appointed Guardian ad Litem. After conducting two remote video interviews while the family completed their scheduled stay in Australia—followed by an initial in-person check-in after their pre-booked return flight touched down in Roanoke yesterday—this was their final briefing on the actual morning of the hearing. She looked up from her thick legal binder, her eyes scanning Jordan's deep, weathered tan and the relaxed, confident set of his shoulders behind his prescription glasses.
 
 "Alright, Jordan," Ms. Caldwell said, folding her hands over the binder. "We are thirty minutes out. I just want to run through our final checklist to make sure Ms. Gable has everything perfectly aligned for the judge. How are you feeling?"
 
@@ -9033,7 +9039,7 @@ Ms. Gable walked back to the respondent's table, resting her hand lightly on the
 
 She turned to face Judge Harrison directly.
 
-"But the true test of his endurance, Your Honor, was his return. Mere days ago, my client executed a brutal, thirty-five-hour, multi-continental extraction. He traveled from the regional airstrip at Ayers Rock. He survived a fourteen-hour trans-Pacific marathon to Los Angeles. He navigated the high-stress executive function of United States Customs on his own passport. He managed a domestic red-eye to an East Coast hub, transferred again, and flew over the Appalachian Mountains to Roanoke, before driving down Interstate 81 to be in this courtroom today."
+"But the true test of his endurance, Your Honor, was his return. When a neighbor on Geneva Street called Mr. Brooks in the middle of the Australian night to report that a sheriff's deputy had come by to serve this summons, my client and his family did not panic, and they did not rush out or cut their trip short. They simply finished their two weeks in the Outback and boarded their originally scheduled return flights—which happened to land yesterday, the day before this hearing. Over a grueling thirty-five-hour, multi-continental journey, my client traveled from the regional airstrip at Ayers Rock to Sydney, survived a fourteen-hour trans-Pacific marathon to Los Angeles, navigated the high-stress executive function of United States Customs on his own passport, took a domestic red-eye to Charlotte, connected over the Appalachian Mountains to Roanoke yesterday afternoon, and drove down Interstate 81 to be in this courtroom less than twenty-four hours later."
 
 The courtroom was dead silent. The sheer logistical weight of the journey hung in the air, completely suffocating Aubrie Sinclair's fictional narrative.
 
