@@ -106,17 +106,17 @@ Twenty-two minutes later, the **Office of Housing and Residence Life** sent back
 > - **Poly Pass & Early Check-In Packet:** The student's key packet and Poly Pass access profile are active for **Friday, August 22 at `09:00 AM`** at the Bennett Hall 1st-floor front desk.
 > - **Suite 214/216 Roster Status:** `Room 214, Bed A` was manually pinned on the **OEA ADA Protected Hold Table** prior to the 150% capacity forced-triple batch run, so Mr. Fuller's bed assignment was untouched. To absorb the Fall 2014 freshman overflow across Bennett Hall, the remaining five beds in `Suite 214/216` (`Room 214, Beds B & C` and adjoining `Room 216, Beds A, B, & C`) were released back to the automated assignment batch engine for standard **Saturday, August 23 (`08:00 AM`)** freshman move-in.
 >
-> **Note for Kelsey:** Because Central IT is still reconciling the final overflow batch exports across all five residential floors of Bennett Hall (`Floors 2 through 6`), we have only pushed your **Friday Early-Arrival Roster** to the building desk terminal today. The finalized **Saturday Main Move-In Roster & Door-Card Print Batch** for Floors 2 through 6 will be transmitted to your office terminal on **Friday afternoon (`August 22`)** so your RAs can print and hang the suite door cards before Saturday morning's `08:00 AM` rush.
->
-> — **Assignments & Operations Desk**<br>
-> Office of Housing and Residence Life
+> **Note for Kelsey:** Because Central IT is still reconciling the final overflow batch exports across all five residential floors of Bennett Hall (`Floors 2 through 6`), we have only pushed your **Friday Early-Arrival Roster** to the building desk terminal today. Once the finalized **Saturday Main Move-In Roster & Door-Card Print Batch** finishes running on **Friday afternoon (`August 22`)**, our **Central Housing Student Operations Crew** will batch-print all 150% forced-triple occupancy door cards in the main Housing annex and walk Floors 2 through 6 around `16:00` to slide the cards directly into the hallway doorframe sleeves while your RAs are at the mandatory Friday afternoon Move-In Eve briefing.
+
+— **Assignments & Operations Desk**<br>
+Office of Housing and Residence Life
 
 Down on the first floor of **Eleanor Bennett Commonwealth Hall**, **Kelsey Brennan** read the confirmation at her desk in `Room 104` while boxes of orientation lanyards and fresh laminate sheets sat stacked beside her printer. With all ten of her Resident Advisors across Floors 2 through 6 wrapping up their mid-week fire-safety walkthroughs, Kelsey immediately forwarded the pertinent details to her two second-floor Resident Advisors—junior Nursing and Pre-OT major **Isabel Dawson** (`Room 215`, directly across the hall from `Room 214`) and junior Accounting major **Henry Walsh** (`Room 201`):
 
 > **To:** Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2); Henry Walsh, Resident Advisor (Bennett Hall, Floor 2)<br>
 > **From:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
 > **Date:** Wednesday, August 20, 2014 — `17:02 EDT`<br>
-> **Subject:** Floor 2 Friday OEA Early Arrival (`Room 214, Bed A`) & Friday Afternoon Door-Card Prep
+> **Subject:** Floor 2 Friday OEA Early Arrival (`Room 214, Bed A`) & Friday Move-In Eve Schedule
 >
 > Hey Izzy and Henry,
 >
@@ -128,9 +128,9 @@ Down on the first floor of **Eleanor Bennett Commonwealth Hall**, **Kelsey Brenn
 >    We have one approved OEA early arrival on Floor 2 checking in this **Friday morning at `09:00 AM`**. His name is **Aubrey Jordan Fuller**, and he is assigned to **`Room 214, Bed A`** (right across the hall from your door in `215`, Izzy). He is a first-year student who uses a manual wheelchair and communicates via an assistive technology laptop. Facilities has already set `Bed A` unbunked at transfer height and tested the 10-second motorized door actuator on `214`.
 > 2. **Mail Room Parcel Logged Today:**
 >    When the afternoon carrier delivery came in at `15:30` today, I signed for a large, heavy cardboard shipping box addressed to **Aubrey Fuller (`Room 214`)**. I have it stored safely behind the 1st-floor lobby desk so I can hand it off to him and his family when they pick up his room packet on Friday morning.
-> 3. **Friday Duty Split (`Izzy` on Floor Rounds / `Henry` on Saturday Door Cards):**
+> 3. **Friday Duty Split (`Izzy` on Floor Rounds / Central Housing Runners on Door Cards):**
 >    - **Izzy:** Since you're in `215` right across from `214`, I'll put the **Friday Early Check-In Clipboard** in your box. You'll only have the Friday early arrivals listed on that sheet, so please swing by `Room 214` during your **1:00 PM Friday afternoon round** to welcome Aubrey, make sure everything in the room is working properly for him, and answer any questions before the building gets loud on Saturday.
->    - **Henry:** As noted in Housing's email below, Central Housing is still finalizing the 150% forced-triple batch export for Saturday's main freshman move-in (including the other five beds in `Suite 214/216` and the rest of Floor 2). They won't transmit our final Saturday roster until **Friday afternoon**, so meet me down in the 1st-floor office around **`14:30` on Friday** and we'll print, slice, and slide all the Saturday room door cards into the hallway sleeves together before the rain rolls in.
+>    - **Henry & All-Staff Prep:** As noted in Housing's email below, Central Housing is still finalizing the 150% forced-triple batch export for Saturday's main freshman move-in. While all eleven of us are down in `Room 106` at **`15:00` on Friday afternoon** sorting the 400 Saturday check-in key envelopes, **Central Housing's Student Operations runners** will come over from the main Housing office with the freshly printed occupancy door cards and slide them into all the hallway doorframe sleeves on Floors 2 through 6 for us before the rain rolls in.
 >
 > Let me know if you two need anything before tomorrow's final staff meeting!
 >
@@ -596,7 +596,7 @@ Aubrey leaned close to the keyboard and typed a final message before the door's 
 
 <aac>I will. Thank you, Isabel. Do you know who my two roommates are? Or when they will arrive?</aac>
 
-Isabel caught the edge of the door lightly with one hand as the timer expired, glancing down at her clipboard with an apologetic look. "I'm sorry, I only have the Friday early check-in list on my clipboard right now," she explained. "Since Bennett Hall is co-ed by suite now—each connecting suite is all guys or all girls, even if the next suite over is the opposite gender—Henry is downstairs with Kelsey going over the master room roster and printing the door cards for tomorrow. Main move-in starts tomorrow morning, so you can expect the other guys in your suite to start arriving tomorrow at the soonest. Looks like you've got the whole place to yourself for tonight!"
+Isabel caught the edge of the door lightly with one hand as the timer expired, glancing down at her clipboard with an apologetic look. "I'm sorry, I only have the Friday early check-in list on my clipboard right now," she explained. "Since Bennett Hall is co-ed by suite now—each connecting suite is all guys or all girls, even if the next suite over is the opposite gender—Central Housing is still finishing the master room roster and sending their student runners over this afternoon to put up the door cards for tomorrow. Main move-in starts tomorrow morning, so you can expect the other guys in your suite to start arriving tomorrow at the soonest. Looks like you've got the whole place to yourself for tonight!"
 
 As she stepped out into the corridor and let the heavy door swing shut and lock automatically behind her, Aubrey nodded, a wave of both relief and nervousness washing over him. One night of peace before meeting the strangers who would become his new roommates.
 
@@ -645,26 +645,26 @@ Below Kelsey's morning message, Isabel clicked **Reply All** and typed out her r
 >
 > 1. **Desk Power & `SimpleSpeak` Access:** I unplugged the surge protector from the low wall socket, ran the main cord up behind the desk, and used the double-sided mounting tape to secure the power strip right onto the top surface of his desk beside his lamp. Now he can reach the power switch and plug/unplug his laptop cord easily from his chair without bending down. As soon as his computer booted up, he opened `SimpleSpeak` and was able to talk with me!
 > 2. **Bed & Unpacking:** I cut open his shipping box for him, put his fitted sheet, top sheet, blanket, and pillowcase onto `Bed A`, and unpacked his clothes from his gym bag into his dresser drawers so everything is at wheelchair reach.
-> 3. **Question About His Suitemates:** Once his voice software was up, he asked me if I knew when his roommates were arriving. Since my Friday clipboard only has today's OEA early-arrival check-in list on it—and since Bennett is co-ed by single-gender suite—I let him know that the rest of the guys in his suite are scheduled for standard freshman move-in tomorrow (`Saturday, August 23`) starting at `08:00 AM`, and that Henry is heading down to the office with you this afternoon to print and hang all the Saturday room door cards once Central Housing's batch export finishes.
+> 3. **Question About His Suitemates:** Once his voice software was up, he asked me if I knew when his roommates were arriving. Since my Friday clipboard only has today's OEA early-arrival check-in list on it—and since Bennett is co-ed by single-gender suite—I let him know that the rest of the guys in his suite are scheduled for standard freshman move-in tomorrow (`Saturday, August 23`) starting at `08:00 AM`, and that Central Housing's student operations runners are coming over later this afternoon to slide all the Saturday room door cards into the hallway holders once their forced-triple batch export finishes.
 >
 > He is such a polite, sweet kid, guys—he thanked me twice and seemed so relieved just to have his bed made and his voice working again. I told him I'm right across the hall in `215` if he needs anything at all tonight.
 >
 > — **Izzy**
 
-Down on the first floor, afternoon thunder rumbled faintly over the campus limestone as a heavy late-summer rainstorm began lashing against the office windows. At `16:15`, after **Henry Walsh** and **Kelsey** finished slicing the freshly printed cardstock door rosters from Central Housing's final batch export and Henry walked the second-floor corridors sliding the cards into the metal doorframe sleeves, Henry sent a quick follow-up to close out the Friday thread:
+Down on the first floor, afternoon thunder rumbled faintly over the campus limestone as a heavy late-summer rainstorm began lashing against the office windows. While **Kelsey Brennan**, **Isabel Dawson**, **Henry Walsh**, and the other eight Bennett Hall RAs gathered inside `Room 106` at `15:00` for their mandatory three-hour Move-In Eve briefing and stuffed the four hundred Saturday key envelopes, a pair of work-study student runners from the central **Office of Housing and Residence Life**—who worked in the air-gapped Central Housing annex, had never met Aubrey, and had no idea a male student was sleeping inside `Room 214`—entered Bennett Hall with master keycards and walked Floors 2 through 6 sliding the batch-printed cardstock occupancy strips into the metal doorframe sleeves. Because Central Housing's own spreadsheet staff had assumed *Aubrey Jordan Fuller* was a female name, the runner walking the second floor saw three female-looking names printed on the `Room 214` card (*Aubrey Jordan Fuller, Aubrie Jean Kelly, Madison Elizabeth Scott*) and three female names on `Room 216`, sliding both cards into the holders outside the closed, quiet doors without a second thought.
+
+At `16:45`, when **Henry Walsh** stepped off the second-floor elevator to grab his rain jacket from `Room 201` in the East Wing before heading to Kincaid Commons with the rest of the staff for dinner, he glanced down the West Wing corridor just far enough to see the white cardstock strips sitting neatly in every doorframe sleeve—never walking down to read the fine print on `Room 214`—and sent a quick reply to close out the Friday thread:
 
 > **To:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall); Isabel Dawson, Resident Advisor (Bennett Hall, Floor 2)<br>
 > **From:** Henry Walsh, Resident Advisor (Bennett Hall, Floor 2)<br>
-> **Date:** Friday, August 22, 2014 — `16:15 EDT`<br>
+> **Date:** Friday, August 22, 2014 — `16:48 EDT`<br>
 > **Subject:** Re: Floor 2 Check-In Update — `Aubrey Jordan Fuller` (`Room 214, Bed A`) & Saturday Door Cards Up
 >
 > Izzy, you're a total lifesaver for getting his power strip mounted on the desk and his bed set up today. Seriously—who leaves their kid in an empty dorm room for four hours with his bed unmade and his only way to communicate unplugged?
 >
-> Quick update for both of you: Central Housing's final forced-triple batch export finally came through to the office printer around `15:15`, so Kelsey and I got all the Saturday room door cards printed and trimmed. I just finished walking both wings of Floor 2 (`Rooms 201–228`) and slid all the occupancy cards into the exterior doorframe holders next to the welcome signs.
+> Quick heads-up for both of you before we walk over to Kincaid for the staff dinner: when I ran up to `201` just now to grab my rain jacket, I peeked down both hallways on Floor 2 and saw that Central Housing's work-study runners already came through and slid all the white occupancy door cards into the metal doorframe holders.
 >
-> When I came past `Suite 214/216`, the rain was coming down hard outside the window and `Room 214` was completely quiet with the door shut. Figured our guy had a long enough week getting dragged across the state, so I didn't knock or bother him—just slipped the `214` and `216` cards quietly into the metal holders on the doorframes so we're 100% ready for the `08:00 AM` move-in rush tomorrow morning.
->
-> Rest up tonight, team—tomorrow morning the whole building goes from one resident on Floor 2 to full capacity!
+> The rain is coming down hard outside and `Room 214` is completely quiet with the door shut, so our guy is probably resting up after getting dragged across the state. I didn't walk down to his door or bother him—looks like Floor 2 is 100% set for the `08:00 AM` move-in rush tomorrow morning!
 >
 > — **Henry**
 
@@ -728,7 +728,7 @@ Desperate to answer her, Aubrey reached clumsily from the edge of the mattress t
 
 <aac>Is this room 214?</aac> the flat, robotic voice of *Quantum David* asked the room.
 
-The girl didn't flinch or make a face at the mechanical voice. Instead, her brow furrowed thoughtfully, and she leaned back across the threshold to check the clear plastic card holder mounted on the exterior doorframe—where, unbeknownst to Aubrey while the Friday afternoon downpour had kept him shut inside his room, the floor's other RA, Henry Walsh, had slipped the freshly printed Saturday room roster card.
+The girl didn't flinch or make a face at the mechanical voice. Instead, her brow furrowed thoughtfully, and she leaned back across the threshold to check the clear plastic card holder mounted on the exterior doorframe—where, unbeknownst to Aubrey or the Bennett Hall RAs while the Friday afternoon downpour had kept him shut inside his room, a student runner from the central Housing office had slipped the freshly printed Saturday room roster card.
 
 "Yeah, but..." she said slowly, her finger tracing the printed lines on the card. "My room is 214. I'm Aubrie Jean Kelly."
 
@@ -820,7 +820,7 @@ Zoë, ever the pragmatist, slipped past the gathered girls and stepped out into 
 
 "Excuse me," Zoë said, tapping his shoulder. "Are you the RA for this floor? We have a significant logistical error in Room 214."
 
-Henry followed Zoë back down the corridor and stepped across the threshold of the suite. His eyes darted rapidly between the five young women and the exhausted, pale boy sitting in the manual wheelchair with a heavy laptop resting on his lap. Henry glanced back out at the door card he himself had slipped into the plastic holder the afternoon before, then back to the boy.
+Henry followed Zoë back down the corridor and stepped across the threshold of the suite. His eyes darted rapidly between the five young women and the exhausted, pale boy sitting in the manual wheelchair with a heavy laptop resting on his lap. Henry stepped back half a pace to peer at the door card that Central Housing's runner crew had slipped into the plastic doorframe holder the afternoon before—reading the three names for the very first time—and then looked back at the boy in shock.
 
 "Aubrey Fuller?" Henry asked, his voice rising half an octave.
 
@@ -854,15 +854,15 @@ She looked around the cramped room and laid out the institutional deadlock they 
 
 Lauren was the first to break the silence. "So, we can either stay right here on campus, with... Aubrey," she said, offering him a small, warm, reassuring smile, "or get split up and shipped off to a hotel thirty minutes away?"
 
-Kelsey nodded solemnly. "Because all six of you are eighteen-year-old legal adults, if every single person in this suite agrees and signs a mutual co-ed accommodation waiver, I have the authority as Hall Director to approve an emergency exception—at least for the next two weeks until the post-census room freeze settles."
+Kelsey nodded solemnly. "Because all six of you are eighteen-year-old legal adults, if every single person in this suite agrees right now and is prepared to sign formal university paperwork confirming that agreement, I can take your verbal consent down to the central Office of Housing and Residence Life and request a provisional emergency exception—at least for the next two weeks until the post-census room freeze settles."
 
 Without a word, the five young women immediately leaned in, forming a tight huddle in the center of the room. Then Aubrie Kelly stepped behind Aubrey's wheelchair, grasped the push-handles gently, and rolled him backward just a few inches—seamlessly pulling him right into the circle with them.
 
-Aubrey froze, his breath catching in his throat. A sudden, overwhelming wave of emotion hit him, entirely different from his earlier panic. He had spent his entire eighteen years on the outside looking in, spoken about in the third person while his mother dictated every decision over his head. He had never been brought into a circle. He had never been included.
+Aubrey froze, his breath catching in his throat. A sudden, overwhelming wave of emotion hit him, entirely different from his earlier panic. He had spent his entire eighteen years on the outside looking in, spoken about in the third person while his mother dictated every decision over his head. He had never been brought into a circle. He had never been included—and the sudden realization that five strangers and a university official were actually waiting for *him* to have a say in the matter terrified him almost as much as the crowd outside.
 
 Aubrie looked down at him, her hazel eyes warm and steady. "What do you think? Are you okay with this?"
 
-He was so taken aback by the simple dignity of being asked for his opinion that his hands trembled as he pulled his heavy laptop closer across his knees. He hunched low over the keyboard, bringing his face mere inches from the dim screen and squinting fiercely as he painstakingly typed his response. Standing right beside his chair, Lauren frowned slightly, her artist's eye dropping from his strained, squinting expression to the tiny letters on the monitor as she realized just how hard he was working simply to see the screen.
+He was so taken aback—and so conditioned to expect punishment if he ever voiced an opinion of his own—that his hands trembled visibly as he pulled his heavy laptop closer across his knees. He hunched low over the keyboard, bringing his face mere inches from the dim screen and squinting fiercely as he painstakingly typed his response. Standing right beside his chair, Lauren frowned slightly, her artist's eye dropping from his strained, squinting expression to the tiny letters on the monitor as she realized just how hard he was working simply to see the screen.
 
 He finished typing and clicked the play button on his *SimpleSpeak* software.
 
@@ -872,13 +872,13 @@ He finished typing and clicked the play button on his *SimpleSpeak* software.
 
 "Agreed," Hannah nodded warmly. "We're all adults here. We can make this work."
 
-Zoë turned back to Kelsey, her posture decisive. "We'll tough it out. For two weeks, at least, until the dust settles. Produce the waiver—we'll stay."
+Zoë turned back to Kelsey, her posture decisive. "We'll tough it out. For two weeks, at least, until the dust settles. We all verbally agree, and we are prepared to sign whatever paperwork the university requires—we'll stay."
 
 ### Scene 6: A Joke That Stuck
 
 **Date:** 2014-08-23 at 11:50 America/New_York
 
-With the administrative crisis resolved, Kelsey Brennan noted the six students' verbal consent on her clipboard, promised to file the co-ed suite waiver with the Housing Office that afternoon, and stepped back out into the corridor with a visibly relieved Henry Walsh in tow.
+With the immediate hallway commotion defused, Kelsey Brennan recorded the six students' verbal agreement on her clipboard, let them know she would report the clerical error to the central Office of Housing and Residence Life so they could review the situation and prepare the formal university paperwork that afternoon, and stepped back out into the corridor with a visibly relieved Henry Walsh in tow.
 
 As the heavy wooden door clicked shut behind them, a quiet, post-storm stillness settled over Room 214. For a beat, the six new suitemates simply looked at one another—five young women and one exhausted boy in a wheelchair—realizing that against every normal rule of freshman move-in day, they were officially living together.
 
@@ -992,11 +992,11 @@ With **Isabel Dawson** just wrapping up her morning rotation down at the first-f
 > First off, Kelsey—I am really sorry for panicking on the radio at `11:30` and drawing a crowd in the hallway. And Izzy, since you were stationed down at the 1st-floor lobby check-in tables all morning greeting families, here is what happened up on Floor 2 while you were downstairs:
 >
 > 1. **The `Suite 214/216` Gender Assignment Mix-Up:**
->    When Kelsey and I printed the Saturday room door cards from Central Housing's batch sheet yesterday afternoon, neither of us realized what the computer had done to `Suite 214/216`. Because our early arrival in `Room 214, Bed A` was listed on the manual OEA accommodation hold as **`Fuller, Aubrey Jordan`** (with no gender column on the spreadsheet), whoever in Central Housing released the other five forced-triple beds in `214/216` back into the automated batch engine saw the first name *"Aubrey"*, assumed he was a girl, and flagged the rest of the suite as an all-female suite (`Aubrie Jean Kelly` and `Madison Elizabeth Scott` in `214`, plus `Zoë Wren Brooks`, `Lauren Nicole Barnes`, and `Hannah Ashlee Parker` in `216`).
+>    When Central Housing's work-study runners came through yesterday afternoon and slid the batch-printed Saturday room door cards into the hallway sleeves while we were downstairs in `Room 106` stuffing key packets, none of us realized what Central Housing's computer had done to `Suite 214/216`—and because the Central Housing runner who hung the cards had never met our early arrival, the three names on the card looked completely normal to them. Because our early arrival in `Room 214, Bed A` was listed on the manual OEA accommodation hold as **`Fuller, Aubrey Jordan`** (with no gender column on the spreadsheet), whoever in Central Housing released the other five forced-triple beds in `214/216` back into the automated batch engine saw the first name *"Aubrey"*, assumed he was a girl, and flagged the rest of the suite as an all-female suite (`Aubrie Jean Kelly` and `Madison Elizabeth Scott` in `214`, plus `Zoë Wren Brooks`, `Lauren Nicole Barnes`, and `Hannah Ashlee Parker` in `216`).
 > 2. **The Huddle in `Room 214` & Something I Can't Stop Thinking About:**
->    When Kelsey came up and explained the situation—that federal ADA rules lock `Bed A` in `214` for him, and that with Bennett Hall at 150% capacity, moving the five girls today would mean splitting them up and busing them to one of the overflow highway hotels thirty minutes away—all six of them agreed to stay together and sign the **Emergency Co-Ed Suite Accommodation Waiver**.
+>    When Kelsey came up and explained the situation—that federal ADA rules lock `Bed A` in `214` for him, and that with Bennett Hall at 150% capacity, moving the five girls today would mean splitting them up and busing them to one of the overflow highway hotels thirty minutes away—all six of them verbally agreed to stay together and told us they are prepared to sign whatever paperwork the university requires to confirm their verbal agreement.
 >    Kelsey, I don't know if you caught his face right before they agreed, when the five girls huddled up in the middle of the room. None of them talked over him or treated him like an obstacle—`Aubrie Kelly` literally stepped behind his wheelchair, rolled him right into the center of their circle so he was part of the huddle, and asked him what *he* thought and whether he was okay with staying.
->    He completely froze. His hands were shaking on his laptop keyboard when he went to type. Honestly, he had this look on his face like **he has never been allowed to be included in decision-making in his entire life.**
+>    He completely froze. His hands were shaking on his laptop keyboard when he went to type. Honestly, he looked **terrified of even being allowed to have a say in the matter**—like he has never once been included in decision-making in his entire life.
 > 3. **Official Preferred Name Update (`Jordan Fuller`) & New Door Card:**
 >    About ten minutes after you headed back downstairs, Kelsey, he came down to the 2nd-floor RA office with `Aubrie Kelly` and `Madison Scott` (and `Aubrie Kelly` was holding his hand under the table like she's had his back for years). Using his speech software, he apologized for the trouble and told me that since the name *"Aubrey"* caused the whole mix-up—and since he hates that name anyway—he wants to go by his middle name, **Jordan**, from now on.
 >    I printed a brand-new door card for `Room 214` reading **`Jordan Fuller`**, swapped it into the hallway doorframe sleeve, and walked him through updating his **Preferred Name** to **`Jordan`** in the CPI Student Portal so all of his professors' class rosters for Monday will list him as `Jordan Fuller`. (Also, Ms. Higgins's heads-up from Thursday was 100% right—he had to lean within three inches of my monitor and squint really hard just to read the portal screen, and he cupped his ear in the hallway to hear Madison over the crowd.)
@@ -1005,30 +1005,30 @@ With **Isabel Dawson** just wrapping up her morning rotation down at the first-f
 >
 > — **Henry**
 
-Down in the first-floor Residence Director office of **Eleanor Bennett Commonwealth Hall**, **Kelsey Brennan** read Henry's email from start to finish while the scanned PDF of the six-signature co-ed waiver finished uploading on her desktop.
+Down in the first-floor Residence Director office (`Room 104`) of **Eleanor Bennett Commonwealth Hall**, **Kelsey Brennan** read Henry's email from start to finish, her clipboard resting on the desk beside her with the six names and verbal-consent notes she had jotted down upstairs.
 
-Before replying to her two Floor 2 RAs, Kelsey switched over to her administrative window and fired off the formal incident report and waiver packet to the **Office of Housing and Residence Life** and **Ms. Patricia Higgins** at **Educational Accessibility**:
+Before replying to her two Floor 2 RAs, Kelsey switched over to her administrative window and sent an urgent preliminary incident report to **Dr. Alan Mercer** and **David Thorne** in the central **Office of Housing and Residence Life** (`Suite 110–120`, on the opposite side of the first-floor masonry firewall) and **Ms. Patricia Higgins** at **Educational Accessibility**:
 
-> **To:** Office of Housing and Residence Life — Assignments & Operations; Patricia Higgins, Director, Office of Educational Accessibility (Callahan Hall)<br>
+> **To:** Dr. Alan Mercer, Director, Office of Housing and Residence Life; David Thorne, Associate Director of Housing Assignments & Operations; Patricia Higgins, Director, Office of Educational Accessibility (Callahan Hall)<br>
 > **From:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
 > **Date:** Saturday, August 23, 2014 — `12:41 EDT`<br>
-> **Subject:** URGENT ADMINISTRATIVE REPORT — `Suite 214/216` Gender Assignment Clerical Error & Executed Emergency Co-Ed Suite Waiver (`Bennett Hall`)<br>
-> **Attachment:** `bennett_214_216_emergency_coed_waiver_2014-08-23.pdf` (`Signed by All 6 Adult Residents`)
+> **Subject:** URGENT PRELIMINARY INCIDENT REPORT — `Suite 214/216` Gender Assignment Clerical Error & Verbal Agreement Pending Review (`Bennett Hall`)
 >
-> Assignments & Operations and Patricia,
+> Alan, David, and Patricia,
 >
-> Please find attached the executed **Emergency Co-Ed Suite Accommodation Waiver** for **Bennett Hall, Suite 214/216**, which I authorized at `11:45 EDT` today following a major clerical error in Central Housing's forced-triple batch assignment for `Room 214` and `Room 216`.
+> I am writing to report a major clerical error discovered at `11:30 EDT` this morning in Central Housing's forced-triple batch assignment for **Bennett Hall, Suite 214/216**, and to request an immediate review with your office regarding next steps and formal university paperwork.
 >
 > **1. Root Cause of the Clerical Error:**
-> As confirmed in Wednesday's clearance thread, first-year OEA student **Jordan Fuller** (enrolled legally as `Fuller, Aubrey Jordan` — Student Portal Preferred Name updated today to **`Jordan Fuller`**) was manually pinned in **`Room 214, Bed A`** via the OEA ADA Protected Hold spreadsheet (`Code: OEA-ADA-MOB-01`), which contains student names and accommodation codes but **no `Sex/Gender` column**. When Central Housing released the remaining five forced-triple beds in `Suite 214/216` (`214 Beds B & C` and `216 Beds A, B, & C`) back into the automated batch engine during the 150% capacity crunch, a staff member saw the given name *"Aubrey"* in `Bed A`, assumed the student was female, and manually flagged `Suite 214/216` as a `FEMALE_SUITE`. As a result, five incoming first-year women—**Aubrie Jean Kelly (`214-B`)**, **Madison Elizabeth Scott (`214-C`)**, **Zoë Wren Brooks (`216-A`)**, **Lauren Nicole Barnes (`216-B`)**, and **Hannah Ashlee Parker (`216-C`)**—were assigned to the remaining five beds and moved in this morning.
+> As confirmed in Wednesday's clearance thread, first-year OEA student **Jordan Fuller** (enrolled legally as `Fuller, Aubrey Jordan` — Student Portal Preferred Name updated today to **`Jordan Fuller`**) was manually pinned in **`Room 214, Bed A`** via the OEA ADA Protected Hold spreadsheet (`Code: OEA-ADA-MOB-01`), which contains student names and accommodation codes but **no `Sex/Gender` column**. When Central Housing released the remaining five forced-triple beds in `Suite 214/216` (`214 Beds B & C` and `216 Beds A, B, & C`) back into the automated batch engine during the 150% capacity crunch, a staff member saw the given name *"Aubrey"* in `Bed A`, assumed the student was female, and manually flagged `Suite 214/216` as a `FEMALE_SUITE`. Yesterday afternoon while Bennett Hall's RAs were downstairs in `Room 106` stuffing check-in packets, Central Housing's work-study runners hung the batch-printed Saturday door cards, and five incoming first-year women—**Aubrie Jean Kelly (`214-B`)**, **Madison Elizabeth Scott (`214-C`)**, **Zoë Wren Brooks (`216-A`)**, **Lauren Nicole Barnes (`216-B`)**, and **Hannah Ashlee Parker (`216-C`)**—moved into the suite this morning.
 >
-> **2. Institutional Resolution & Signed Adult Waiver:**
+> **2. Current Status, Verbal Agreement, & Behavioral Observations:**
 > - **Federal ADA / Section 504 Lock (`214, Bed A`):** Mr. Fuller utilizes a manual wheelchair full-time and requires `Room 214`'s ADA modifications and Floor 2 grade-level egress. With all other ADA rooms on campus at 100% occupancy, he cannot be relocated.
-> - **150% Capacity Overflow Constraint (`214-B/C` & `216-A/B/C`):** Every room in Bennett Hall is tripled at capacity, and overflow students are currently being placed in off-campus highway hotels thirty minutes away. Reassigning the five female suitemates today would require breaking up their group and displacing them off-campus.
-> - **Unanimous Mutual Consent:** All six residents are eighteen-year-old legal adults. When presented with their options today, all five women and Mr. Fuller unanimously requested to remain together in `Suite 214/216` and executed the attached **Emergency Co-Ed Suite Accommodation Waiver** for the two-week post-census freeze period.
+> - **150% Capacity Overflow Constraint (`214-B/C` & `216-A/B/C`):** Every room in Bennett Hall is tripled at capacity, and overflow students are currently being placed in off-campus highway hotels thirty minutes away. Reassigning the five female suitemates today would require breaking up their group and displacing them off-campus due to our clerical error.
+> - **Residents' Verbal Agreement (No Crystal Ball):** Obviously, it is still Move-In Day and these six eighteen-year-old freshmen have not yet had a chance to prove that a co-ed suite arrangement will work out in practice. However, when I explained the situation at `11:45 EDT`, all six residents **verbally agreed to stay together** for the two-week post-census freeze window and stated they are **prepared to sign formal university paperwork** confirming their verbal agreement.
+> - **Crucial Observation Regarding Mr. Fuller:** Both Floor 2 RA Henry Walsh and I noticed something important during the discussion in `Room 214`. When the five young women pulled Mr. Fuller's wheelchair into their huddle to ask whether he was comfortable staying with them, **he was visibly terrified of even being allowed to have a say in the matter**—his hands were shaking just typing a six-word response on his laptop. Combined with what Patricia witnessed from his mother at OEA on Thursday and the way his mother abandoned him in `Room 214` in under two minutes yesterday morning, I want to be very careful about how we approach him this afternoon.
 >
-> **3. Immediate Process Recommendation:**
-> Please immediately audit all remaining manual ADA and early-arrival hold spreadsheets across campus against the Registrar's `Sex/Gender` field so unisex first names (*Aubrey, Jordan, Taylor, Morgan, Casey*) cannot trigger another cross-gender batch override.
+> **3. Immediate Process Recommendation & Next Steps:**
+> First, please immediately audit all remaining manual ADA and early-arrival hold spreadsheets across campus against the Registrar's `Sex/Gender` field so unisex first names (*Aubrey, Jordan, Taylor, Morgan, Casey*) cannot trigger another cross-gender batch override. Second, please let me know when I can step around to `Suite 110–120` so we can review this and determine how Central Housing wants to verify their consent and execute the formal paperwork.
 >
 > — **Kelsey Brennan, M.Ed.**<br>
 > Residence Director, Eleanor Bennett Commonwealth Hall
@@ -1044,7 +1044,7 @@ Then Kelsey clicked **Reply All** on Henry and Isabel's Floor 2 staff thread:
 >
 > Henry and Izzy,
 >
-> First—Henry, take a breath and don't beat yourself up for a second about yesterday's door cards or the radio call. Neither you nor I had any way of knowing Central Housing's manual ADA spreadsheet didn't have a gender column on it. And thank you for printing his new **`Jordan Fuller`** door card right away and walking him through the Preferred Name update in the portal. From this point forward, both of you please make sure we refer to him exclusively as **Jordan** in all floor communications and conversations.
+> First—Henry, take a breath and don't beat yourself up for a second about the radio call this morning. None of us on the Bennett Hall staff had any way of knowing Central Housing's manual ADA spreadsheet didn't have a gender column on it, or what their work-study runners slid into `214`'s door sleeve while we were downstairs stuffing packets yesterday afternoon. And thank you for printing his new **`Jordan Fuller`** door card right away and walking him through the Preferred Name update in the portal. From this point forward, both of you please make sure we refer to him exclusively as **Jordan** in all floor communications and conversations.
 >
 > Second—Henry, what you wrote about the moment in `Room 214` when `Aubrie Kelly` pulled Jordan's wheelchair into the girls' huddle and asked him what *he* thought: **I saw the exact same look on his face, and it has been sitting heavy on my mind for the last hour.**
 >
@@ -1081,7 +1081,277 @@ Fourteen minutes later, having just handed off her first-floor lobby check-in cl
 >
 > — **Izzy**
 
-### Scene 9: Logistics of a Co-Ed Suite
+Four minutes later, a high-priority message chimed in Kelsey's administrative inbox from the other side of the first-floor firewall:
+
+> **To:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall); Patricia Higgins, Director, Office of Educational Accessibility (Callahan Hall)<br>
+> **Cc:** David Thorne, Associate Director of Housing Assignments & Operations<br>
+> **From:** Dr. Alan Mercer, Director, Office of Housing and Residence Life<br>
+> **Date:** Saturday, August 23, 2014 — `13:12 EDT`<br>
+> **Subject:** Re: URGENT PRELIMINARY INCIDENT REPORT — `Suite 214/216` Gender Assignment Clerical Error & Verbal Agreement Pending Review (`Bennett Hall`)
+>
+> Kelsey and Patricia,
+>
+> David is pulling the forced-triple batch audit logs and Friday's work-study runner manifests right now.
+>
+> Let me be candid: while I appreciate that the six students gave you a verbal agreement at `11:45` so nobody had to pack up their boxes on Move-In Day, an accidental one-male, five-female freshman suite sharing a single bathroom is completely unprecedented for this university. None of us have a crystal ball, and six eighteen-year-olds who met two hours ago have not yet had a chance to prove that an arrangement like this will actually work once the Move-In Day dust settles.
+>
+> Before this office authorizes or executes any provisional co-ed paperwork, we need to investigate this thoroughly, review every possible housing alternative, and talk directly to the people who need to be talked to—including your Floor 2 RAs and all six residents of `Suite 214/216`—especially given your note that Mr. Fuller looked terrified of even being allowed to have a say in the room.
+>
+> Patricia is walking over from Callahan Hall right now. Kelsey, please step out around the quad to the Central Housing conference room (`Suite 115`) at `13:20` so we can go over this in person.
+>
+> — **Dr. Alan Mercer**<br>
+> Director, Office of Housing and Residence Life
+
+### Scene 9: Interlude: Across the Firewall
+
+**Date:** 2014-08-23 at 13:20 America/New_York
+
+Grabbing her master binder and the clipboard bearing her handwritten notes from `Room 214`, **Kelsey Brennan** stepped out of her first-floor office (`Room 104`) and crossed the bustling lower-level lobby of **Eleanor Bennett Commonwealth Hall**.
+
+Even though the university's central **Office of Housing and Residence Life** occupied the eastern ground-level wing (`Suite 110–120`) of the very same first floor, there was no way to walk there from inside the building. Decades ago, when the university converted the eastern half of Bennett Hall's lower level into the campus-wide Housing administration annex, architects had sealed the two halves of the first floor behind an unbroken, solid interior masonry firewall with zero connecting doors—a deliberate physical security measure ensuring that off-campus visitors, parents, and contractors entering the public Housing office could never slip through an interior corridor to bypass Bennett Hall's front desk and Poly Pass card readers.
+
+Kelsey pushed through the lower-level lobby doors out into the muggy August air of the inner-campus quad, walked thirty paces east along the rough gray Ironstone facade, and badged through the separate exterior entrance marked **OFFICE OF HOUSING AND RESIDENCE LIFE — SUITE 110**.
+
+Normally, Central Housing's public reception windows were closed on weekends, operating strictly Monday through Friday from `8:30 AM` to `5:00 PM`. Today, however, was Freshman Move-In Saturday during the worst capacity crunch in Commonwealth Polytechnic Institute's history. Inside the glass vestibule, every cubicle and dispatch desk was manned as assignments coordinators fielded frantic calls from all across campus and tracked shuttle buses running overflow freshmen out to commercial highway hotels along the `Exit 118C` corridor in Christiansburg and down toward Radford.
+
+Kelsey walked back to the glass-walled conference room in **`Suite 115`**, where three people were already waiting around the oval mahogany table: **Dr. Alan Mercer**, a silver-haired veteran administrator in a crisp dress shirt and maroon tie who served as CPI's Director of Housing and Residence Life; **David Thorne**, the Associate Director of Housing Assignments & Operations, who had two laptops open in front of him; and **Ms. Patricia Higgins**, Director of the Office of Educational Accessibility, who had just walked down the hill from **Callahan Hall** with a manila folder tucked under her arm.
+
+"Close the door, Kelsey, and have a seat," Dr. Mercer said, gesturing toward the chair beside Patricia. His tone wasn't angry at Kelsey—if anything, he looked like a man who had spent the last six hours putting out brushfires across nineteen residence halls only to discover that his own office had accidentally poured gasoline on Bennett Hall. "David just finished pulling the database audit trail and Friday's runner logs. David, walk us through how this happened."
+
+David Thorne exhaled heavily, rubbing the bridge of his nose behind his wire-rimmed glasses, and rotated his primary monitor toward the center of the table.
+
+"This one is entirely on our side of the firewall, Kelsey," David admitted without hesitation. "Here's the exact chain of events. On Wednesday afternoon, Patricia's office sent over the manual Excel hold sheet pinning **`Fuller, Aubrey Jordan`** into **`Bennett Hall, Room 214, Bed A`** under accommodation code `OEA-ADA-MOB-01`. Because our legacy ADA hold template only exports `Student_ID`, `Last_Name`, `First_Name`, `Middle_Name`, and `Accommodation_Code`, there is no `Sex/Gender` column on the sheet."
+
+"Which has never been an issue in normal years," Patricia Higgins noted crisply, "because in normal years, the student's online housing profile is linked before room selection."
+
+"Right," David nodded. "Except on Thursday night at `21:14`, when the Chancellor's office ordered the emergency forced-triple conversion across West Campus to keep another two hundred kids out of the Christiansburg hotels, one of our temporary assignments processors manually released the remaining five beds in `Suite 214/216`—`Beds B and C` in `214`, and `Beds A, B, and C` in `216`—back into the automated batch engine. The processor glanced at `Fuller, Aubrey Jordan` in `Bed A`, assumed *'Aubrey'* was a female first name, and manually toggled the suite's master attribute to `FEMALE_SUITE` without cross-checking the Registrar's demographic table. Once that flag was set, the batch engine pulled five unassigned first-year women from the overflow queue—`Aubrie Jean Kelly`, `Madison Elizabeth Scott`, `Zoë Wren Brooks`, `Lauren Nicole Barnes`, and `Hannah Ashlee Parker`—and dropped them into the five open beds."
+
+"And nobody caught the names when the door cards went up yesterday afternoon?" Dr. Mercer asked.
+
+"Because Kelsey and all ten of her Bennett Hall RAs were locked in `Room 106` from three to six o'clock yesterday afternoon stuffing the four hundred Saturday key envelopes," David explained, pointing to the second spreadsheet on his screen. "Our Student Operations work-study runners from this office printed the Saturday door cards in `Suite 112` and walked Floors 2 through 6 of Bennett Hall at `15:45` to slide them into the hallway sleeves. The work-study runner who slid the card into `Room 214` doesn't work for Bennett Hall, wasn't part of Friday's early check-in, and had no idea a male student was asleep behind that door. On paper, `Aubrey Jordan Fuller`, `Aubrie Jean Kelly`, and `Madison Elizabeth Scott` looked like three freshman girls."
+
+Dr. Mercer leaned back in his chair, steepling his fingers as he looked from David's screen to Kelsey.
+
+"All right. So we know exactly how the system broke, and David is already running a script against the Registrar's database right now to audit every remaining manual hold on campus so unisex names—*Aubrey, Jordan, Taylor, Morgan, Casey*—can never trigger a gender mismatch again," Dr. Mercer said. Then his expression sobered, settling into the hard, pragmatic caution of a twenty-year housing director. "Now let's talk about what we actually do with `Suite 214/216` today. Because Kelsey, I read your email, and I understand that at `11:45` this morning all six students verbally agreed to stay together and told you they are willing to sign university paperwork confirming that agreement. Why wouldn't they say that in the heat of the moment? Nobody wants to pack their boxes back up two hours after arriving at college and get bused thirty minutes down Route 460 to a highway motel."
+
+He tapped his pen against the mahogany table.
+
+"Here is my concern," Dr. Mercer continued evenly. "None of us sitting at this table have a crystal ball. It is one-thirty in the afternoon on Move-In Day. The six residents of `Suite 214/216` have known each other for less than three hours, and they have had zero opportunity to prove that this arrangement will actually work out. We are talking about five eighteen-year-old freshman women and one eighteen-year-old freshman man crammed into a forced-triple two-room connecting suite with a single shared Jack-and-Jill bathroom that doesn't even have a hallway corridor bypass. Once the Move-In Day adrenaline wears off tonight or tomorrow morning—when people actually have to shower, change clothes, study, and share one toilet—a verbal honeymoon agreement can fall apart very fast. Before we even think about putting the university's stamp on an unprecedented co-ed freshman suite, I want to know why we can't fix the assignment properly right now."
+
+"Let's start with `Room 214, Bed A`," Patricia Higgins said immediately, opening her manila folder. "Moving Mr. Fuller—or **Jordan**, as I understand he has updated his preferred name in the portal today—is completely off the table, Alan. Every single ADA-accessible dormitory room on this campus is at one hundred percent occupancy. More importantly, `Room 214` in Bennett Hall was specifically assigned to Jordan because he is a full-time manual wheelchair user who cannot bear weight on his legs, and Floor 2 of Bennett Hall provides level, elevator-free grade egress onto `Washington Street SW` at the top of the hill while the elevator gives him level access to the inner quad at the bottom of the hill. If Housing attempts to move a student with a mobility disability out of a modified ADA room—or puts him on a highway shuttle bus—because of Housing's own clerical error, we would be in immediate violation of Title II of the Americans with Disabilities Act and Section 504."
+
+"Understood. Jordan stays in `Room 214, Bed A`," Dr. Mercer agreed without hesitation. He turned to David Thorne. "What about the rest of Floor 2, David? Can we take five freshmen men from one of the all-male suites in the East Wing, swap them into `Suite 214/216` with Jordan, and move the five women into the East Wing suite?"
+
+David pulled up the live Floor 2 occupancy map on his second laptop and shook his head grimly.
+
+"I looked at that ten minutes ago, Alan. Every single male suite on Floor 2—`202/204` through `211/213`—checked in between eight and ten-thirty this morning," David said. "All thirty-six men in those suites are already unpacked, their beds are lofted, and half of their parents are already driving back up Interstate 81. If we walk into an all-male suite right now and tell five eighteen-year-old guys who did nothing wrong that we are evicting them from their room, separating them from their sixth suitemate, and forcing them to repack all their belongings to move down the hall—while simultaneously telling five women in `214/216` who *also* did nothing wrong and who are actively asking to stay put that we are forcing them to repack too—we are going to have eleven furious families in the Dean of Students' office by four o'clock."
+
+"And if we move just the five women out of `214/216` without a floor swap?" Dr. Mercer asked.
+
+"Then we don't have five contiguous female beds anywhere on campus," David replied flatly. "We would have to split the five of them across three different Extended Stay and Merit Inn shuttle blocks out by `Exit 118C` in Christiansburg and down in Radford."
+
+Dr. Mercer let out a slow breath. The three-way institutional box was airtight: Jordan could not legally be moved out of `Room 214`, the East Wing male suites were already unpacked and at capacity, and displacing the five women meant punishing them for Central Housing's mistake by breaking up their group and shipping them thirty minutes off campus.
+
+Still, Dr. Mercer didn't reach for a pen to sign off. Instead, he looked back down at the printed copy of Kelsey's `12:41` email, where he had underlined a single sentence in red ink.
+
+"Then talk to me about the boy," Dr. Mercer said quietly, looking between Kelsey and Patricia. "Because this is the part of your report that bothers me the most, Kelsey. You wrote that when the five girls pulled his wheelchair into their huddle to ask if he was okay with staying, *he was visibly terrified of even being allowed to have a say in the matter.* From a Housing standpoint, when I hear that one male student in a wheelchair was shaking in a room with five outspoken female suitemates who desperately didn't want to get sent to a highway hotel, my first duty is to ask: did those five girls pressure him into agreeing? Is he afraid to say no to them?"
+
+"No," Kelsey said firmly, shaking her head at once. "Alan, I was standing five feet away from them when it happened, and so was my Floor 2 male RA, Henry Walsh. Those five girls didn't pressure him at all. In fact, it was the exact opposite."
+
+Kelsey leaned forward, resting her forearms on the conference table as she described the scene upstairs.
+
+"When I told the room that our only options were splitting the girls up into the overflow hotels or having all six of them agree to a temporary co-ed exception for the two-week room freeze, the five girls immediately huddled up in the middle of `Room 214`," Kelsey explained. "In ninety-nine percent of freshman rooms, five able-bodied kids in a crisis like that would have whispered among themselves and treated the kid in the wheelchair like a piece of furniture in the corner. They didn't. One of his roommates—`Aubrie Jean Kelly`, who shares almost the exact same first name—stepped right behind his wheelchair, gently rolled him into the center of their circle so he was looking them all in the eye, and asked him, *'What do you think? Are you okay with this?'*"
+
+Kelsey paused, the memory of Jordan's pale, stunned face still vivid in her mind.
+
+"He wasn't scared of the girls, Alan," Kelsey said softly. "He was terrified because **nobody had ever asked him what he wanted before.** His hands were shaking on his laptop keyboard like he was waiting for someone to slap him just for expressing an opinion. And when he finally typed `<aac>I don't want to cause a problem,</aac>` those five girls immediately told him that none of this was his fault and that they wanted to stick together."
+
+Across the table, Patricia Higgins nodded slowly, her jaw tightening as she opened her OEA intake file from Thursday afternoon.
+
+"What Kelsey and Henry saw in `Room 214` this morning matches every single red flag I documented in `Callahan Hall` on Thursday afternoon," Patricia told Dr. Mercer. "When Jordan and his mother, **Aubrie Renee Sinclair**, came into my office at four-thirty on Thursday to sign his early move-in paperwork, the woman wouldn't let him answer a single question. Every time I addressed him directly as an eighteen-year-old adult, she cut in over his head and spoke about him in the third person. And when I asked him a simple question about his laptop software and he started typing an answer for himself, **his mother physically reached down and yanked his laptop's AC power cord straight out of my wall socket in the middle of his sentence**—knowing full well the battery was dead and unplugging it would instantly kill his screen and his voice."
+
+Dr. Mercer stared at Patricia, genuinely appalled. "She unplugged his communication device in the middle of your office?"
+
+"Right in front of me, with a smile on her face, claiming she was 'just packing up so they could beat traffic,'" Patricia said grimly. "She also insisted he had zero vision or hearing issues, even though he had to lean within two inches of my desk just to see the signature line and cupped his ear whenever I spoke from across the table."
+
+"And yesterday morning at nine-oh-five," Kelsey added, "I watched that same mother wheel him into `Room 214`, drop his backpack and a sealed cardboard box of bedding on the floor, and walk back out to her car in less than two minutes. She didn't help him make his bed, she didn't unpack a single shirt, and she left his laptop unplugged on the desk where he couldn't reach the wall outlet from his wheelchair. He sat alone in that room for four hours without a voice until my Floor 2 female RA, **Isabel Dawson**, knocked on his door at one o'clock, plugged in his power strip, and helped him set up his room."
+
+Kelsey tapped the printout of Henry Walsh's email on her clipboard.
+
+"And here is the proof of how he actually feels around those five young women in `Suite 214/216`," Kelsey continued. "Ten minutes after Henry and I stepped out of `Room 214` to give them some breathing room, he rolled down the hall to the second-floor RA office with `Aubrie Kelly` and `Madison Scott`—and Henry noted that `Aubrie Kelly` was holding his hand under the desk the entire time to keep him steady. Using his speech software, he told Henry that his mother had named him *'Aubrey'* as a joke, that he hated the name, and that he wanted to go by his middle name, **Jordan**, from now on. With those two girls standing right behind him, he had Henry print a brand-new **`Jordan Fuller`** door card for `Room 214` and updated his Preferred Name in the CPI Student Portal."
+
+Silence hung over `Suite 115` for several seconds as Dr. Alan Mercer and David Thorne absorbed the weight of what they had just heard.
+
+"Good Lord," David muttered softly. "The kid has been at college for twenty-eight hours, and five strangers in a clerical error have already treated him more like a human being than his own mother did."
+
+"They have," Dr. Mercer agreed quietly, though his posture remained measured and deliberate. "Which makes it all the more important that we handle this the right way—both for Jordan's protection and for the five young women in that suite. Because even with everything you two just told me, we still do not have a crystal ball. Being kind to a classmate during a ten-minute crisis on Move-In Morning is one thing; six eighteen-year-old freshmen living together day in and day out in a co-ed forced triple with one bathroom is another. Right now, they have only given a verbal agreement, and they haven't had a chance to prove that this arrangement will work."
+
+Dr. Mercer pulled a legal pad toward him and laid out Central Housing's protocol.
+
+"Here is how we are going to proceed this afternoon," Dr. Mercer said. "First, I am not going to rubber-stamp a waiver from behind a desk, and I am certainly not going to summon a terrified young man in a wheelchair down here into an administrative conference room where he'll feel like he's on trial. Instead, Kelsey, you and I are going to walk back over to Bennett Hall right now and go up to Floor 2. I want to talk briefly with your two Floor 2 RAs—**Henry Walsh** and **Isabel Dawson**—since they are the ones who have interacted with him directly on the floor, and then you and I are going to step into `Suite 214/216` and talk to all six residents face-to-face."
+
+"What are the terms of the paperwork you want them to sign?" Kelsey asked.
+
+"David is going to print three copies of a **14-Day Provisional Co-Ed Suite Accommodation & Mutual Consent Agreement** right now," Dr. Mercer said, nodding to David, whose fingers were already moving across his keyboard. "Here are the four conditions we are putting in writing:
+
+1. **Strict 14-Day Provisional Trial Window (`August 23 – September 8, 2014`):** This approval is strictly temporary through the two-week post-census room freeze on Monday, September 8. That gives the six of them two full weeks of actual dorm life—classes, bathroom schedules, study hours, and sleeping arrangements—to see if this arrangement genuinely works, while giving Central Housing two weeks for post-census no-shows and drops to open up standard beds on campus if it doesn't.
+2. **In-Person Verification of Unanimous Consent:** All six eighteen-year-old adult residents—**Jordan Fuller (`214-A`)**, **Aubrie Jean Kelly (`214-B`)**, **Madison Elizabeth Scott (`214-C`)**, **Zoë Wren Brooks (`216-A`)**, **Lauren Nicole Barnes (`216-B`)**, and **Hannah Ashlee Parker (`216-C`)**—must sign the agreement in our presence confirming their morning verbal agreement was 100% voluntary.
+3. **Unconditional, Confidential 'No-Fault Opt-Out' Guarantee:** I am going to make sure all six of them—and especially Jordan—hear this directly from me: if at *any* point during the next fourteen days *any single one* of the six residents feels uncomfortable, crowded, or decides that sharing a co-ed suite isn't working out, they can come privately to you, Isabel, or Henry, and Housing will execute a reassignment with zero penalty, zero blame, and zero questions asked. Nobody is trapped in that suite if it stops working.
+4. **Weekly Staff Check-Ins & Day-14 Evaluation:** Without prying into Jordan's personal history, you, Isabel, and Henry will keep a close eye on `Suite 214/216` over the next two weeks, and on September 8 we will evaluate whether the suite has proven it can function or whether we need to make a change."
+
+Patricia Higgins offered a rare, approving nod across the mahogany table. "That protects Jordan's federal ADA placement in `Room 214`, respects his autonomy as an adult without overwhelming him, and gives all six students a fair, structured chance to prove whether they can make it work."
+
+Two minutes later, the laser printer in the corner of `Suite 115` hummed to life, sliding out three crisp copies of **`FORM HRL-2014-COED-TEMP: 14-DAY PROVISIONAL CO-ED SUITE ACCOMMODATION & MUTUAL CONSENT AGREEMENT (BENNETT HALL SUITE 214/216)`**.
+
+Dr. Mercer clipped the triplicate forms onto a clean university clipboard, stood up, and glanced at Kelsey.
+
+"Let's walk back around the firewall and go talk to your RAs and the residents of `Suite 214/216`," Dr. Mercer said.
+
+### Scene 10: Interlude: The Floor Two Inquiry
+
+**Date:** 2014-08-23 at 14:00 America/New_York
+
+Stepping back out of the central **Office of Housing and Residence Life** onto the warm brick walkway of the inner-campus quad, **Dr. Alan Mercer** and **Kelsey Brennan** walked the thirty paces past the solid masonry firewall, badged back into the lower-level lobby of **Eleanor Bennett Commonwealth Hall**, and rode the central passenger elevator up to the second floor.
+
+Before knocking on `Room 214`, Dr. Mercer turned into the small **Second-Floor RA Duty Workroom (`Room 200A`)** right beside the elevator bank, where Floor 2 Resident Advisors **Henry Walsh** (`Room 201`) and **Isabel Dawson** (`Room 215`) were waiting as requested.
+
+Henry stood up immediately from the terminal chair, looking like a junior Accounting major who half-expected the Director of Housing and Residence Life to fire him on the spot. Beside him, Isabel stood calm and composed in her maroon `CPI Residence Life` polo, her hands folded neatly over her clipboard.
+
+"At ease, both of you," Dr. Mercer said right away, holding up a hand before Henry could launch into another apology. "First of all, David Thorne and I just pulled the forced-triple batch audit logs and Friday's runner manifests downstairs in `Suite 115`. Neither of you—and nobody on the Bennett Hall staff—is in trouble. This mix-up happened because our central assignments team imported an un-gendered OEA hold spreadsheet, assumed *'Aubrey'* was a female first name, and sent our own Student Operations work-study runners over at `15:45` yesterday to hang the Saturday door cards while you ten were downstairs in `Room 106` stuffing key packets."
+
+Henry let out a breath he looked like he had been holding since eleven-thirty that morning. "Thank you, Dr. Mercer."
+
+"That said," Dr. Mercer continued, leaning against the edge of the workroom counter with his triplicate clipboard in hand, "before Kelsey and I walk down the hall to `Suite 214/216` with university paperwork, I need to hear directly from the two people who actually work this floor. Because right now, all we have is a verbal agreement made in the middle of Move-In Morning chaos, and none of us have a crystal ball to know whether one freshman guy and five freshman girls can actually make a forced-triple suite work once classes start on Monday. Isabel, let's start with you. You checked Mr. Fuller in yesterday afternoon, correct?"
+
+"Yes, sir. At one o'clock yesterday afternoon," Isabel replied clearly. "When Kelsey gave me the Friday Early-Arrival Check-In clipboard, `Room 214, Bed A` was the only early arrival on Floor 2, listed simply as **`Aubrey Fuller`**. Because Bennett Hall is co-ed by suite—where any two-room suite along the corridor can be assigned as all-male or all-female—and because the Saturday door cards hadn't been hung yet, I had no reason to think `Suite 214/216` was anything other than one of our male suites for the year. In fact, I told him yesterday afternoon that the rest of the guys in his suite would be arriving at eight o'clock this morning."
+
+"And what was his condition when you checked on him at one o'clock yesterday?" Dr. Mercer asked.
+
+Isabel's expression softened, though her voice remained steady and professional.
+
+"Kelsey had warned me that his mother dropped him off at nine-oh-five and walked back out to her car in less than two minutes," Isabel said. "When I knocked on `Room 214` four hours later, he was sitting in his manual wheelchair in a dark room with a bare mattress. The large cardboard box containing his sheets, pillow, blanket, and towels—which his mother had picked up from our first-floor mail room—was still taped shut on the floor because he had no way to cut the packing tape or lift it while pushing his chair. His clothes were still zipped inside his gym bag on the bare springs, and his laptop was sitting dead on the desk because the only wall outlet was tucked behind the heavy oak frame out of his reach."
+
+Dr. Mercer frowned deeply. "He couldn't even use his laptop to call for help?"
+
+"No, sir," Isabel said. "He is completely non-verbal and relies on text-to-speech software on an older laptop whose battery dies the second it's unplugged. Until I plugged his power strip into the wall and ran it up onto the desk for him, he had no way to communicate with anyone. I opened his bedding box, made his bed, put his clothes in the dresser drawers he could reach from his chair, and set his towels by the roll-under sink. And throughout the entire ten minutes I was in there, he was squinting within two inches of his screen just to read what he was typing, cupping his ear to hear me across the room, and apologizing over and over for being a bother."
+
+Dr. Mercer looked from Isabel to Henry. "And Henry, tell me what you saw in `Room 214` this morning—specifically when the five girls huddled up."
+
+"Yes, sir," Henry said earnestly. "When `Zoë Brooks` from `Room 216` came out into the hallway at eleven-thirty to get me, the five girls had already calmed him down from a really bad panic attack after they realized Housing had put five girls and one guy in the same suite. And when Kelsey explained the options—that federal ADA rules lock `Bed A` in `214` for him, and that moving the five girls today would mean splitting them up into the highway hotels—the five girls immediately formed a huddle in the center of the room to talk it over."
+
+Henry gestured with both hands, still visibly moved by what he had witnessed.
+
+"Dr. Mercer, they didn't leave him sitting by the desk while they decided their own plans. `Aubrie Kelly`—his roommate in `214`—stepped right behind his wheelchair, rolled him into the middle of their circle, and asked him what *he* thought and whether he was okay with staying," Henry said. "And like I wrote to Kelsey and Izzy, the look on his face was something I'll never forget. His hands were shaking so hard he could barely hit the keys on his laptop. He looked **terrified of even being allowed to have a say in the matter**—like nobody in his entire eighteen years had ever asked for his opinion without it being a trap."
+
+"And yet ten minutes later, he came right down here to `Room 200A` with two of those suitemates?" Dr. Mercer asked.
+
+"With `Aubrie Kelly` and `Madison Scott`, yes, sir," Henry nodded, gesturing toward the desk terminal behind him. "`Aubrie Kelly` held his hand under the edge of the desk the whole time so his hands wouldn't shake while he typed with his other hand. He told me his mother had named him *'Aubrey'* as a joke, that he hated that name, and that he wanted to go by his middle name, **Jordan**. When I handed him the new **`Jordan Fuller`** door card and helped him save **`Jordan`** as his Preferred Name in the CPI Student Portal, it was the first time all morning I saw him actually smile."
+
+Dr. Mercer looked at both RAs, weighing their words carefully.
+
+"All right," Dr. Mercer said. "Here is what Kelsey and I are about to do. We are going to walk down to `Room 214` and have all six of them sign a **14-Day Provisional Co-Ed Suite Accommodation & Mutual Consent Agreement** through the September 8 post-census room freeze. Because again—as heartening as it is that those five young women stood by him this morning—none of us know if this arrangement will still feel comfortable three days or ten days from now when six eighteen-year-olds are sharing one connecting bathroom. During the next two weeks, I need both of you to be our eyes and ears on Floor 2."
+
+"My room—`Room 215`—is centered directly across the corridor from `Suite 214/216`," Isabel said warmly. "And Henry is right down at the end of the hall in `Room 201`. We will check in on them every day without hovering or prying into Jordan's past, and if any of the six—Jordan or any of the five girls—ever feels the slightest bit uncomfortable, they know my door is ten feet away."
+
+"Good," Dr. Mercer said, picking up the clipboard holding the triplicate provisional agreements. He glanced at Kelsey. "Let's go talk to the six residents of `Suite 214/216`."
+
+### Scene 11: The Provisional Agreement
+
+**Date:** 2014-08-23 at 14:20 America/New_York
+
+Inside Room 214, the afternoon heat was tempered by the steady hum of the window air conditioner as the six suitemates finished breaking down the last of Madison's cardboard moving boxes and passing around a bag of pretzel twists. Across the connecting bathroom threshold, Zoë, Lauren, and Hannah had propped both wooden doors open so the two tripled bedrooms felt like a single continuous living space.
+
+Then three polite, measured knocks sounded against the hallway door of Room 214.
+
+"Come in!" Madison called out cheerfully, brushing a lock of wavy blonde hair back over her shoulder.
+
+The heavy oak door swung inward, and Jordan's stomach immediately dropped into his shoes.
+
+Standing on the threshold beside Kelsey Brennan—whom he recognized by the familiar outline of her dark blazer and the cadence of her footsteps—was a tall, broad-shouldered older man with silver hair, a crisp white dress shirt, and a deep maroon tie, carrying an official university clipboard thick with printed forms. Beyond arm's length, the man's facial features softened into a pale blur against the bright hallway lights, which only made his tall, formal silhouette look more imposing.
+
+Every muscle in Jordan's back and shoulders locked rigid against the backrest of his wheelchair.
+
+In the eighteen years he had lived in his mother's house, whenever a man in a tie or a school administrator walked into a room carrying a clipboard after a "mix-up," it meant only one thing: the adults had talked behind closed doors, decided he was a problem, and come to announce what was going to happen to him without his input. Worse, a cold wave of dread whispered in the back of his head that his brief, terrifying attempt to have a say during the girls' huddle two hours ago—and his trip down the hall to change his name on the door card—had somehow crossed a line, and now the head of Housing was here to overrule all of them.
+
+Instinctively, Jordan shrank back an inch in his chair, his right hand rising halfway to cup behind his ear so he wouldn't miss a word of the verdict.
+
+Standing right beside his wheelchair, Aubrie Jean noticed the sudden stiffness in his shoulders at once. She didn't crowd him or make a scene; she simply shifted half a step closer so the soft cotton of her green t-shirt brushed against his arm—a quiet, unmovable reminder that he wasn't alone in the room.
+
+"Afternoon, everyone," Kelsey said warmly, pausing just inside the doorway rather than barging into the middle of their space. "Sorry to interrupt your unpacking. This is **Dr. Alan Mercer**, the Director of the Office of Housing and Residence Life for the university. Do you six have a few minutes for us to come in and talk?"
+
+"Of course," Zoë said crisply, stepping forward from the bathroom doorway while Hannah and Lauren moved in to stand beside Madison's bunk. "Please, come in."
+
+Dr. Mercer stepped into the small cinderblock room and let the hallway door click shut behind him, immediately cutting off the rumble of rolling carts outside so his deep, measured voice carried clearly across the short space.
+
+"First of all," Dr. Mercer began, looking around at the five young women and then down toward Jordan's wheelchair, "before we talk about paperwork, I owe all six of you a direct apology on behalf of the central Office of Housing and Residence Life. Earlier this afternoon, my staff pulled the computer logs from Thursday night and Friday afternoon. This assignment mix-up was one hundred percent our office's mistake. Our manual accommodation spreadsheet did not have a gender column, our assignments processor assumed Mr. Fuller's legal first name was female when setting up the forced-triple batch, and our work-study runners hung the door cards yesterday afternoon while Bennett Hall's RAs were downstairs stuffing check-in envelopes."
+
+Jordan blinked, his fingers tightening on the edges of his heavy laptop resting across his thighs. An adult in a tie was apologizing to *them*?
+
+"Now," Dr. Mercer continued, his voice remaining calm, candid, and thoroughly realistic, "Kelsey reported to my office that at eleven-forty-five this morning, all six of you verbally agreed to stay together in `Suite 214/216` rather than having the five women split up and reassigned to our overflow hotel blocks in Christiansburg and Radford—and that all six of you stated you were prepared to sign formal university paperwork confirming that verbal agreement."
+
+"We are," Madison said immediately, nodding firmly from the desk chair.
+
+"Completely prepared," Lauren added, while Hannah, Zoë, and Aubrie nodded in unison.
+
+Dr. Mercer held up a steady hand—not unkindly, but with the unmistakable authority of a man who wasn't about to let a room full of eager eighteen-year-olds gloss over reality.
+
+"I appreciate that enthusiasm," Dr. Mercer said evenly. "However, my job is to look past Move-In Day. Right now, it is two-twenty on Saturday afternoon. The six of you met less than four hours ago, and none of us in this room have a crystal ball. You have not yet had a chance to prove that this arrangement will actually work out. Living with six people in a forced-triple two-room suite is difficult enough when everyone is the same gender. Putting one eighteen-year-old freshman man and five eighteen-year-old freshman women into two connecting bedrooms with a single shared bathroom—and no hallway bypass door—is completely unprecedented at CPI."
+
+He tapped the top page on his clipboard.
+
+"Because federal disability law rightfully locks `Room 214, Bed A` for Jordan, and because our campus dorms are at one hundred and fifty percent capacity today, my office is willing to authorize a strictly **Provisional 14-Day Co-Ed Suite Accommodation Agreement**—valid from today through the post-census room freeze on **Monday, September 8**," Dr. Mercer explained. "That gives the six of you two weeks of real college life to prove whether you can make this suite work, and it gives our office two weeks for post-census drops and no-shows to open up standard on-campus rooms if it doesn't."
+
+Then Dr. Mercer stopped looking at the five girls.
+
+He took half a step toward Jordan's wheelchair, angled his shoulders so he was facing Jordan directly at a comfortable distance, and spoke slightly louder and clearer—without shouting or talking down to him like a child.
+
+"Before I pass this clipboard around for signatures, though, **Jordan**, I want to hear directly from you," Dr. Mercer said.
+
+Jordan froze. Hearing the older man use his chosen name—**Jordan**, not *Aubrey*—sent a jolt straight through his chest, followed immediately by that same dizzying, terrifying vertigo he had felt during the huddle at eleven-forty.
+
+The Director of Housing for the entire university was looking straight at him. The five girls had gone completely quiet. Nobody was jumping in to speak over his head. Nobody was telling the man in the tie, *"What Aubrey means to say is..."* or reaching down to yank his power cord out of the wall.
+
+They were all waiting for *him*. Why was that so terrifying? For eighteen years, having an opinion in front of an authority figure had been dangerous—a guarantee of a sharp slap on the shoulder or a lecture behind closed doors about how ungrateful and stubborn he was. His pulse hammered in his throat, and his fingers trembled as he popped open the lid of his heavy laptop.
+
+"Take all the time you need, Jordan," Dr. Mercer said quietly, noticing the tremor in the boy's hands and keeping his posture completely unhurried. "I know this morning was overwhelming, and I know five suitemates talking at once can be a lot to take in. I want you to understand something before you answer: `Room 214` is the designated wheelchair-accessible room on this floor, which means this room is here for *you* first and foremost. You do not owe anyone a 'yes' just to keep the peace. And even if you sign this provisional agreement today, if at *any* point over the next fourteen days—tonight, Tuesday, or next week—you feel crowded, uncomfortable, or decide this arrangement isn't working for you, all you have to do is tell Kelsey, Isabel across the hall in `215`, or Henry in `201` privately. We will make a change immediately, with zero penalty and zero blame on you. Knowing that... is staying in this co-ed suite with these five suitemates genuinely what *you* want to do?"
+
+Beside his chair, Aubrie Jean gently rested two warm fingers against Jordan's forearm—not pushing him, not steering him, just grounding him against the conditioned panic trying to hijack his chest.
+
+Jordan looked up from his keyboard at the blurry circle of faces around him: Aubrie right beside his chair; Madison smiling encouragingly from the desk; Zoë, Lauren, and Hannah standing together by the connecting doorway. Two hours ago, when he had crashed on the floor in terror thinking he was a mistake who was about to be thrown out, these five girls had closed the door against the staring hallway, turned off the harsh lights, held him until the storm stopped, and pulled his wheelchair right into the center of their circle.
+
+For the first time in his life, being asked what he wanted wasn't a trap. It was real.
+
+Jordan hunched low over his laptop, bringing his eyes within two inches of the dim screen so the tiny letters on the *SimpleSpeak* window came into sharp focus. His hands steadied on the keys as he typed out his answer—every word entirely his own—and clicked the execute button.
+
+<aac>Yes. Nobody has ever asked me what I wanted before today,</aac> the flat, robotic voice of *SimpleSpeak* announced clearly into the quiet room. <aac>They included me. I feel safe with them. I want to stay here and prove we can make it work.</aac>
+
+A warm, quiet smile broke across Aubrie's face beside him, while Lauren let out a soft breath and wiped the corner of her eye. Across the room, Kelsey Brennan's shoulders relaxed visibly, and even Dr. Alan Mercer's stern administrative expression softened into genuine respect.
+
+"Thank you, Jordan," Dr. Mercer said, giving him a solemn, man-to-man nod. "That is exactly what I needed to hear. And the same confidential opt-out guarantee applies to each of the five of you as well: if at any point during the next two weeks this arrangement stops working for *any* of you, you come straight to Kelsey, Isabel, or Henry, and we will handle it quietly and respectfully."
+
+"Understood, Dr. Mercer," Hannah said warmly. "Thank you for giving us the chance to prove it."
+
+Dr. Mercer unclipped a black ballpoint pen and held the clipboard out to Jordan first—treating the resident of **`Room 214, Bed A`** as the primary signatory on the suite.
+
+Aubrie automatically stepped in to help steady the bottom edge of the heavy clipboard across the armrests of Jordan's wheelchair so it wouldn't slide while he held the pen. Leaning close to the crisp white paper of **`FORM HRL-2014-COED-TEMP`** to read the printed line—`1. Room 214, Bed A: Fuller, Aubrey Jordan (Preferred: Jordan Fuller)`—Jordan gripped the pen and carefully signed his name across all three carbonless copies:
+
+**`Jordan Fuller (Aubrey Jordan Fuller)`**
+
+One by one, the clipboard traveled around the room as the other five eighteen-year-old adults added their signatures and dates beneath his:
+
+- **`Aubrie Jean Kelly`** (`Room 214, Bed B`)
+- **`Madison Elizabeth Scott`** (`Room 214, Bed C`)
+- **`Zoë Wren Brooks`** (`Room 216, Bed A`)
+- **`Lauren Nicole Barnes`** (`Room 216, Bed B`)
+- **`Hannah Ashlee Parker`** (`Room 216, Bed C`)
+
+Dr. Mercer inspected the six signatures, countersigned the bottom administrative block alongside Kelsey Brennan (`14:38 EDT — Provisional Approval Through 2014-09-08`), detached the goldenrod resident copy from the triplicate packet, and handed it to Zoë.
+
+"Keep that copy for your suite records," Dr. Mercer told them as he and Kelsey stepped back toward the hallway door. "Kelsey, Isabel, and Henry will be checking in with you regularly over the next two weeks, and we will revisit this on September 8 once the post-census room freeze settles. Have a good first weekend at CPI, everyone."
+
+As the heavy wooden door clicked shut behind the Director of Housing and the Hall Director, the six suitemates stood in the sudden quiet of Room 214, looking from the signed university agreement in Zoë's hand to the single connecting bathroom doorway between their two rooms—realizing that the two-week clock to prove they could actually live together had officially begun.
+
+### Scene 12: Logistics of a Co-Ed Suite
 
 **Date:** 2014-08-23 at 15:30 America/New_York
 
@@ -1119,7 +1389,7 @@ The bystanders watched as Aubrie confidently took the handles of Jordan's wheelc
 
 In the bustling cafeteria, they found a large table and sat together, sharing stories about their hometowns and their anxieties about starting college. For the first time, Jordan didn't feel like an outsider; he felt like a friend.
 
-### Scene 10: The First Choice
+### Scene 13: The First Choice
 
 **Date:** 2014-08-23 at 16:15 America/New_York
 
@@ -1179,7 +1449,7 @@ Mark didn't even blink. He reached out, offering Jordan a firm, friendly handsha
 
 His immediate, unquestioning acceptance was a breath of fresh air. The seven of them sat together, chatting easily about classes and sports, a newly formed, chaotic, and wonderful little family.
 
-### Scene 11: The Kincaid Hall Tea Rebellion
+### Scene 14: The Kincaid Hall Tea Rebellion
 
 **Date:** 2009-10-13 at 08:15 America/New_York
 
@@ -1241,7 +1511,7 @@ A cheer erupted from the barricade. Within seconds, the British students dismant
 
 Brenda just shook her head, chuckling as she went back to wiping down the deli counter. They were polite to a fault, she thought, but my god... you do not mess with their tea.
 
-### Scene 12: The First Assist
+### Scene 15: The First Assist
 
 **Date:** 2014-08-23 at 17:30 America/New_York
 
@@ -1305,7 +1575,7 @@ Zoë adjusted her glasses, her tone perfectly deadpan. "The swiftness of your re
 
 Hannah just smiled warmly, watching Aubrie fret over the blanket. The entire room had put two and two together. Aubrie Kelly was falling head over heels in love with the quiet boy in the wheelchair, and even if she wasn't quite ready to admit it out loud yet, her blush had already given her away.
 
-### Scene 13: The Spare Hardware
+### Scene 16: The Spare Hardware
 
 **Date:** 2014-08-23 at 17:45 America/New_York
 
@@ -1353,7 +1623,7 @@ She tapped the trackpad, bringing up a clean, minimalist text box. "I also pre-i
 
 Jordan stared at the man, his mind struggling to process the interaction. There was no shouting. There was no accusation. There was just a father looking at him not as an intruder, but with the same unconditional kindness his daughter had shown. In that simple, quiet moment in Room 214, a tiny seed was planted in Jordan's chest—the fragile, miraculous hope that maybe, just maybe, he was finally safe.
 
-### Scene 14: The New Voice
+### Scene 17: The New Voice
 
 **Date:** 2014-08-23 at 18:15 America/New_York
 
@@ -1395,7 +1665,7 @@ Instead, Aubrie’s face lit up with a brilliant smile. Madison let out a cheerf
 
 The entire room—Aubrie, Zoë, Lauren, Hannah, Mark, Madison, and Daniel—happily and seamlessly accepted his choice without a single question or judgment. A wave of profound empowerment washed over Jordan as he rested his hands on the keyboard. He finally had a voice, and it was entirely his own.
 
-### Scene 15: The Antidote
+### Scene 18: The Antidote
 
 **Date:** 2014-08-23 at 18:30 America/New_York
 
@@ -1435,7 +1705,7 @@ Aubrie and Madison exchanged a quiet, meaningful look over Jordan's head. They b
 
 As they sat with him, keeping the atmosphere light and comfortable, the two women quietly admitted something to themselves. They actually liked having Jordan in their room. It wasn't just because Aubrie was already developing a massive, undeniable crush on him. It was because, stripped of the panic and the fear, he was genuinely easy to get along with. He was a calming, gentle presence, and they were more than happy to share their space with him.
 
-### Scene 16: The Trust Fall
+### Scene 19: The Trust Fall
 
 **Date:** 2014-08-23 at 20:00 America/New_York
 
