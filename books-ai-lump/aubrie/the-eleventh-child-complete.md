@@ -179,7 +179,7 @@ A minute later, the card printer whirred to life, and the worker handed the fres
 
 **Date:** 2014-08-21 at 14:00 America/New_York
 
-Their next and final stop was the Office of Educational Accessibility, to verify that all his accommodations—both academic and residential—were in place.
+Their next and final stop was Callahan Hall—informally known across campus as "the disability office"—to verify that all his accommodations, both academic and residential, were in place. Just in time for the Fall 2014 semester, the university had officially rebranded the department from **Services for Students with Disabilities (SSD)** to the **Office of Educational Accessibility (OEA)**, with a freshly mounted brushed-steel plaque outside the suite reading *Office of Educational Accessibility (Formerly Services for Students with Disabilities)*.
 
 "Hello," Aubrie Sinclair said to the counselor, leaning over the desk to hand over a thin folder. "We're just here to verify that all of my son Aubrey's accommodations are in order for the semester".
 
@@ -2687,7 +2687,7 @@ Aubrie checked the clock on the dining hall wall. It was 12:45 PM.
 
 **Date:** 2014-08-25 at 12:55 America/New_York
 
-Aubrie pushed Jordan’s wheelchair across the sunlit quad toward Callahan Hall, home to the university's disability and accessibility offices. The building housed the Office of Educational Accessibility, and as they rolled through the heavy glass doors into the air-conditioned lobby, the reality of the clock finally caught up to them.
+Aubrie pushed Jordan’s wheelchair across the sunlit quad toward Callahan Hall, home to what everyone at CPI informally called "the disability office." After years of operating as **Services for Students with Disabilities (SSD)**—a name many older professors and upperclassmen still used out of habit—the department had officially transitioned its name for the Fall 2014 semester to the **Office of Educational Accessibility (OEA)**. As they rolled through the heavy glass doors into the quiet, air-conditioned lobby, the reality of the clock finally caught up to them.
 
 It was 12:55 PM. Aubrie had a 1:00 PM calculus lecture on the exact opposite side of campus.
 
@@ -7758,7 +7758,7 @@ Around his bed, Hannah wiped a tear of fierce pride from her cheek, while Nurse 
 
 The next five days inside Suite 214/216 were a masterclass in round-the-clock love and tactical caregiving.
 
-With all eight of his friends—and **Isabel** checking in from across the hall with extra electrolyte packets and thermometer covers—donning surgical masks and running a meticulously scheduled nursing and academic-ferry rotation, Jordan never spent a single minute alone. While he rested, hydrated, and fought off the virus in Room 214, **Aubrie Jean** and **Zoë** coordinated directly with his professors and the **CPI Office of Services for Students with Disabilities**, proctoring his early exams remotely and scheduling his final exam of the semester—**`ASTR 101: Introduction to Astrophysics`**—for the Friday morning testing window.
+With all eight of his friends—and **Isabel** checking in from across the hall with extra electrolyte packets and thermometer covers—donning surgical masks and running a meticulously scheduled nursing and academic-ferry rotation, Jordan never spent a single minute alone. While he rested, hydrated, and fought off the virus in Room 214, **Aubrie Jean** and **Zoë** coordinated directly with his professors and the **Office of Educational Accessibility (OEA)** in Callahan Hall—still referred to on half of his older professors' syllabi by its pre-Fall 2014 name, **Services for Students with Disabilities (SSD)**, or informally across campus as *"the disability office"*—proctoring his early exams remotely and scheduling his final exam of the semester—**`ASTR 101: Introduction to Astrophysics`**—for the Friday morning testing window.
 
 On Thursday morning, December 11, Jordan’s fever finally broke for good.
 
@@ -7766,7 +7766,7 @@ He woke up feeling washed-out and ten pounds lighter, his muscles sore from five
 
 At nine o'clock on **Friday morning, December 12**—the final day of Fall Semester before Winter Break—Jordan bundled up in his warm charcoal sweater and maroon CPI scarf, ready for his last mission of 2014.
 
-With **Hannah** serving as his designated buddy for the morning run, the two of them rolled out of Bennett Hall into the bright, cold December sunshine and crossed the brick paths of campus to the **CPI Testing Center**.
+With **Hannah** serving as his designated buddy for the morning run, the two of them rolled out of Bennett Hall into the bright, cold December sunshine and crossed the brick paths of campus to the **OEA Testing Center in Callahan Hall**.
 
 Outside the automatic glass doors of the Testing Center—the handoff point where Jordan would roll into the quiet proctored testing room on his own—Jordan set his wheel locks, turned to look up at Hannah, and opened his arms for their pre-exam ritual hug.
 
