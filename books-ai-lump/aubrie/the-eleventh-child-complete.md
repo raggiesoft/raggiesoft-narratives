@@ -6089,103 +6089,75 @@ Jordan’s breath caught in his throat. Seated in his wheelchair with his `Pinna
 
 Taking a slow breath, Jordan tapped the green speakerphone icon on his `mPhone` and held the handset near the speakers of his laptop.
 
-"Aubrey, I'm downstairs in the lobby," **Aubrie Sinclair**’s voice chirped through the speaker—bright, sharp, and expectant, as if she were calling a ten-year-old down to the minivan after school. "Come down and let me in. We need to get you packed so we can beat the highway traffic on 460."
+"Aubrey, I'm outside this ridiculous building and the doors are locked," **Aubrie Sinclair**’s voice snapped through the speaker—bright, sharp, and expectant, as if she were calling a ten-year-old down to the minivan after school. "Come down here and open this door right now. We need to get you packed so we can beat the highway traffic on 460."
 
-Jordan’s hands trembled slightly over the keyboard, but he didn't hesitate. He typed a single sentence into `EchoType` and hit the execute key, letting the clear, female Australian voice of *Sydney* speak directly into the phone’s microphone:
+Outside on the brick sidewalk fronting **Washington Street SW**, Aubrie Sinclair was already fuming. Remembering her humiliating mistake on early move-in day—when she had muscled his wheelchair all the way down the steep exterior hill only to discover that Washington Street entered directly onto the second floor—she had parked her sedan at the curb and marched straight up to the second-floor glass doors, fully expecting to breeze right inside and walk down the hall to Room 214.
 
-<aac>It's Jordan. And I'm not coming down, Mom. I'm staying here for the break.</aac>
+Instead, she had run headfirst into the ironclad lockdown that **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh** had put in place after Homecoming Weekend.
+
+Every exterior entrance to **Eleanor Bennett Commonwealth Hall** was locked on strict `PolyPass` access control, and bolted at eye level beside every exterior door handle was Kelsey's laminated crimson-and-white security directive:
+
+**`RESIDENCE LIFE SECURITY DIRECTIVE: DO NOT HOLD EXTERIOR OR CORRIDOR DOORS FOR ANY NON-RESIDENT, VISITOR, OR PARENT. ZERO TAILGATING PERMITTED.`**
+
+When a sophomore in a CPI hoodie had pushed the heavy Washington Street door open from the inside on his way out for morning coffee two minutes earlier, Aubrie Sinclair had rushed forward with her sweetest, most helpless suburban-mother smile (*"Oh, thank you, dear, could you hold that for me? I'm just helping my son down the hall pack for the weekend"*). Instead of holding the door, the sophomore had glanced at the crimson security placard on the glass, looked right back at her, said politely, *"Sorry, ma'am—building lockdown rules, we're not allowed to let anyone in without a PolyPass,"* and pulled the heavy steel-and-glass door firmly shut behind him until the magnetic lock clicked in her face.
+
+In Room 214, hearing the frustrated edge in his mother's voice over the speakerphone—and realizing that Kelsey, Henry, and Isabel's lockdown had stopped her cold on the sidewalk outside—Jordan’s hands trembled slightly over the keyboard, but he didn't hesitate. He typed a single sentence into `EchoType` and hit the execute key, letting the clear, female Australian voice of *Sydney* speak directly into the phone’s microphone:
+
+<aac>It's Jordan. And I'm not coming down to let you in, Mom. I'm staying here for the break.</aac>
 
 For three full seconds, there was stunned, dead silence on the other end of the line.
 
 When his mother spoke again, the theatrical sweetness had vanished completely, replaced by an arctic, razor-edged drop in temperature.
 
-"Excuse me? What is that voice—and what did you just say to me?" she snapped, her voice dropping into the low, lethal register that had made him flinch for eighteen years. "We are not having this discussion over a telephone, Aubrey. I am your mother. You will come down here and open this door this instant."
+"Excuse me? What is that voice—and what did you just say to me?!" she barked through the speakerphone, her voice rising so sharply that **Zoë**, **Lauren**, and **Hannah** heard it through the open connecting bathroom door and hurried immediately out of Room 216 to stand beside **Aubrie Kelly** and **Madison** around Jordan’s wheelchair. "We are not having this discussion over a telephone, Aubrey! I am your mother! You will come down to this door and let me into this building this instant!"
 
-The line clicked dead before he could type another word.
+"He just told you he's not coming down, ma'am," **Aubrie Jean Kelly** said clearly into the speakerphone, stepping right beside the left wheel of Jordan’s chair and resting her hand warmly on his shoulder.
 
-Remembering her humiliating mistake on early move-in day—when she had muscled his wheelchair all the way down the steep exterior hill to the First-Floor Lobby only to discover that **Washington Street SW** entered directly onto the **Second-Floor Atrium Lobby**—Aubrie Sinclair hadn't even gone near the first-floor front desk, where fifth-floor RA **Noah Sterling** was working the morning shift with **Kelsey Brennan**’s crimson **`[BUILDING SECURITY ALERT — LEVEL 1]`** banner flashing across his monitor explicitly barring her from the building. Nor could she cut through the first-floor **Office of Housing and Residence Life**, which was both closed for the weekend and physically sealed off from Bennett Hall by a solid masonry firewall.
+On the other end of the line, Aubrie Sinclair gasped as if she had been slapped across the face.
 
-Instead, she had parked her sedan on Washington Street SW and marched straight up to the upper-level second-floor entrance.
+"Who was that?!" his mother shrieked through the speaker. "Aubrey, is there a *girl* in your room?!"
 
-Because it was only `9:15 AM`—still forty-five minutes inside Bennett Hall’s **`12:00 AM – 9:59 AM` Overnight Security Lockout Window**, when even the exterior doors were locked to non-residents—she had initially been stopped cold on the sidewalk outside the glass. Undeterred, she had waited by the exterior pillar until a groggy junior in a CPI sweatshirt pushed the heavy Washington Street door open from the inside on his way out for morning coffee. Catching the door before the hydraulic closer could latch it shut, she had slipped into the **Second-Floor Atrium Lobby** without swiping a pass.
+"There are five of us here, actually," **Madison** chimed in from Jordan’s right side, her voice steady as steel. "We're his suitemates."
 
-Inside the atrium mezzanine, however, she had hit a second barrier: the locked **Second-Floor West Wing** security doors that separated the public elevator lobby from the residential corridor, guarded by a black electronic `Poly Pass` reader on the doorframe.
+"Five girls?!" Aubrie Sinclair’s voice climbed into a hysterical, venomous register over the phone as her mind—poisoned by the very puritanical paranoia she had spent eighteen years drilling into her son—leaped to the only grotesque conclusion she could fathom. "What is the meaning of this?! What have you done, Aubrey?! Did you... did you get *all* of them pregnant?!"
 
-Aubrie Sinclair was not a woman accustomed to being denied by a piece of plastic. Pacing sharply across the terrazzo floor after Jordan hung up on her, she watched the stairwell and elevators for two minutes until a freshman boy from the East Wing walked up to the West Wing security door with both arms stacked high with two overflowing plastic laundry baskets on his way to the basement machines.
+Jordan froze solid in his chair.
 
-Awkwardly shifting the heavy baskets against his hip, the freshman tapped his Poly Pass to the reader. As the magnetic lock clicked open, he struggled to pull the heavy glass-and-steel door wide with his elbow.
+Every muscle in his body locked as eighteen years of conditioned terror crashed over him at once. Even from the sidewalk outside the locked building, his mother’s voice carried the exact same crushing weight that had kept him in a cage his entire life. He flinched violently, his torso curling inward as he stared down at the desk, momentarily paralyzed. In his head, he was sixteen-year-old "Aubrey" again, trapped in the living room in Virginia Beach while she screamed that touching a girl had ruined his life.
 
-Seeing her opening, Aubrie Sinclair rushed forward, instantly putting on her sweetest, most helpless suburban-mother smile.
+"This is the most ridiculous, disgusting thing I have ever heard!" Aubrie Sinclair barked through the speakerphone, taking his silence as complete submission. "This little college fantasy is over! You clearly cannot take care of yourself, and you need to be home with me where you belong! Pack your things and bring yourself out to my car right now!"
 
-"Oh, let me help you with that, dear—could you just hold the latch for me?" she cooed warmly, reaching out as if to steady the door for him. "My hands are full and I'm just helping my son down the hall pack for the weekend."
-
-The freshman, having no idea that the polite, well-dressed woman in front of him was the subject of a building-wide Level 1 security bar, smiled and held the residential security door open with his foot—a textbook "tailgating" breach of residence hall security policy.
-
-"Thank you so much, sweetie," she beamed, slipping past him into the secure second-floor West Wing corridor.
-
-The instant the security door clicked shut behind the boy, her sweet expression evaporated into cold fury. Remembering the exact room number from August, she marched straight down the tiled corridor to **Room 214** and began pounding on the heavy oak door with her fist.
-
-Inside Room 214, Jordan’s heart leaped into his throat. Expecting it to be **Zoë** or **Mark** coming to check on them after the phone call, Madison stepped to the wall and pressed the square stainless-steel **PUSH TO OPEN** handicap actuator button.
-
-With a soft electronic beep, the latch released and the overhead motorized arm swung the heavy wooden door inward—holding it wide open on its programmed ten-second dormitory dwell timer.
-
-Madison’s eyes went wide in shock at the impeccably dressed, furious woman standing in the corridor. Because the motorized handicap opener was holding the door in its ten-second open cycle, Madison couldn't even pull it shut before Aubrie Sinclair shoved straight past her shoulder and marched into the center of Room 214.
-
-"Aubrey!" his mother snapped, her sharp voice slicing through the quiet room. "What is the meaning of this?! Who are all these girls?!"
-
-Hearing the shouting through the open connecting bathroom, **Zoë**, **Lauren**, and **Hannah** hurried immediately out of Room 216 to stand beside Aubrie Kelly and Madison.
-
-Aubrie Sinclair’s eyes darted wildly around the room—from Aubrie Kelly and Madison to Zoë, Lauren, and Hannah—and then to the unbunked beds, the string lights, and her son sitting in his wheelchair wearing a maroon **CPI Forgers** hoodie, wire-rimmed glasses, and silver behind-the-ear hearing aids she had never seen before in her life.
-
-Her mind, poisoned by the very puritanical paranoia she had spent eighteen years drilling into her son, leaped to the only grotesque conclusion she could fathom.
-
-"What have you done?!" she shrieked, her face contorting with a mixture of outrage and bitter accusation as she pointed a shaking finger at Jordan and the five young women. "Did you... did you get *all* of them pregnant?!"
-
-Jordan froze solid.
-
-Every muscle in his body locked as eighteen years of conditioned terror crashed over him at once. His worst nightmare was standing three feet away from him inside his sanctuary. His mother had found him. She was inside Room 214. She was right—he was broken, he was a burden, he had ruined everything, and he had failed. He flinched violently, his torso curling inward as he stared down at the linoleum floor, completely paralyzed. In his head, he was sixteen-year-old "Aubrey" again, trapped in the living room in Virginia Beach while she screamed that touching a girl had ruined his life.
-
-"This is the most ridiculous, disgusting thing I have ever seen!" Aubrie Sinclair barked, taking his silence and his slumped shoulders as complete submission. "This little college fantasy is over! You clearly cannot take care of yourself, and you need to be home with me where you belong!"
-
-She yanked open the door of his wardrobe closet, dragged his empty rolling suitcase out onto the floor, and threw it onto his mattress with a heavy thud.
-
-"Take off those ridiculous glasses and pack your things!" she commanded. "Right now!"
-
-Defeated and hollow, Jordan felt the old, automatic obedience take over his hands. Slowly, numbly, he released his wheel locks and began to turn his chair toward his wooden dresser. He was going to do what he was told. He was going to pack his clothes and let her drag him back to Virginia Beach forever.
+Defeated and hollow, Jordan felt the old, automatic obedience tug at his hands. For a split second, his fingers hovered over the wheel locks, conditioned by eighteen years of survival to do whatever she commanded just to make the screaming stop.
 
 Then he looked up through the crystal-clear lenses of his new glasses.
 
-He saw **Aubrie Kelly**, **Madison**, **Zoë**, **Lauren**, and **Hannah** standing shoulder-to-shoulder across the small room.
+He saw **Aubrie Kelly**, **Madison**, **Zoë**, **Lauren**, and **Hannah** standing shoulder-to-shoulder around his wheelchair inside the warm, bright safety of Room 214—with two locked security doors, a solid stone fortress, and **Isabel**, **Henry**, and **Kelsey** standing between him and the sidewalk outside.
 
-Their faces were not full of shame, or judgment, or fear of his mother. Every single one of them was glaring at Aubrie Sinclair with fierce, blazing, protective fury. They weren't abandoning him. They weren't embarrassed by him. They were his fortress.
+Their faces were not full of shame, or judgment, or fear of his mother. Every single one of them was looking at him with fierce, blazing, protective love. They weren't abandoning him. They weren't embarrassed by him. They were his fortress.
 
 Inside Jordan’s chest, the terrified boy named "Aubrey" vanished—and **Jordan Fuller**, the eighteen-year-old astrophysics student who had found his voice, his sight, his hearing, and his family, took the controls.
 
-He slammed his palms down onto his push-rims, stopping his wheelchair dead in its tracks.
-
-Deliberately, he spun his chair one hundred and eighty degrees to face his mother directly. Pulling his `Pinnacle Vanguard Pro` squarely across his knees, he slid the system volume key all the way to `100%`, typed a single word with a heavy strike of the `Enter` key, and let it boom through the speakers:
+He pulled his `Pinnacle Vanguard Pro` squarely across his knees, slid the system volume key all the way to `100%`, typed a single word with a heavy strike of the `Enter` key, and let it boom straight into his `mPhone`’s microphone:
 
 <aac>Stop!</aac>
 
-The synthesized command cracked across the cinderblock room like a gunshot.
+The synthesized command cracked across the phone line like a gunshot.
 
-Aubrie Sinclair actually flinched backward half a step, her eyes wide with shock. Even through a computer speaker, her son had *never* used that tone with her—and hearing the bright, defiant female Australian voice coming from a sleek black laptop she didn't even recognize rattled her to her core.
+On the other end of the call, Aubrie Sinclair’s tirade cut off mid-breath in stunned shock. Even through a computer speaker, her son had *never* used that tone with her.
 
-Jordan’s fingers didn't slow down. Looking straight into his mother’s eyes through his glasses, he typed with fierce, unshakeable precision:
+Jordan’s fingers didn't slow down. Looking straight at his `mPhone` through his glasses, he typed with fierce, unshakeable precision:
 
-<aac>This is my suite, Mom. My name is Jordan. And I am not leaving. You are not welcome here.</aac>
+<aac>This is my home, Mom. My name is Jordan. And I am not coming out to your car. You are not welcome here.</aac>
 
-"With all due respect, ma'am," **Aubrie Jean Kelly** said, stepping immediately forward to stand right beside the left wheel of Jordan’s chair, resting her hand protectively on his shoulder now that he had claimed the floor himself. "He's right. Jordan is happy here. He's succeeding in his classes, and we take care of each other."
+"With all due respect, ma'am," **Aubrie Jean Kelly** added firmly into the microphone, her hand steady on Jordan’s shoulder now that he had claimed the floor himself, "Jordan is happy here. He's succeeding in his classes, and we take care of each other."
 
-Aubrie Sinclair whirled on her, her eyes narrowing with venomous recognition. *This* was the one. This was "Jessica 2.0"—the girl who had corrupted her son and stolen her authority.
+"And just who do you think you are to tell me what my son needs?!" Aubrie Sinclair sneered over the speaker, recognizing the voice of the girl who had stolen her authority. "Do you have any idea what a helpless burden he is?! Are you helping him get dressed? Are you helping him in the bathroom? You'll get sick and tired of it—everyone always does! He is far too much work for anyone except his mother!"
 
-"And just who do you think you are to tell me what my son needs?!" Aubrie Sinclair sneered, her voice dripping with cruel condescension. "Do you have any idea what a helpless burden he is?! Are you helping him get dressed? Are you helping him in the bathroom? You'll get sick and tired of it—everyone always does! He is far too much work for anyone except his mother!"
+"He is *not* a burden," **Madison** shot back into the phone.
 
-"He is *not* a burden," **Madison** said, her voice like tempered steel as she stepped forward to flank the right side of Jordan’s wheelchair, locking the human shield into place.
+"Oh, I see how it is!" Aubrie Sinclair hissed through the speaker. "Then you're just trying to trap him! You know how easy it is for a boy to get a girl pregnant! He can't even walk or take care of himself—how on earth could he ever take care of a baby?! You are ruining your lives!"
 
-"Oh, I see how it is," Aubrie Sinclair hissed, her eyes flashing wildly between Aubrie and Madison. "Then you're just trying to trap him! You know how easy it is for a boy to get a girl pregnant! He can't even walk or take care of himself—how on earth could he ever take care of a baby?! You are ruining your lives!"
-
-It was her ultimate, undefeated psychological weapon—the exact lie she had used two summers ago after Jessica’s kiss on the boardwalk to lock him inside her house in terror.
+It was her ultimate, undefeated psychological weapon—the exact lie she had used two summers ago after Jessamine’s kiss on the boardwalk to lock him inside her house in terror.
 
 Except the sheltered sixteen-year-old boy she had programmed to believe that lie didn't live here anymore.
 
@@ -6193,85 +6165,81 @@ A low, rumbling sound of pure disgust vibrated in Jordan’s chest—eighteen ye
 
 <aac>I know perfectly well how you get a girl pregnant, Mom. And it is not from talking to her or hugging her.</aac>
 
-All the color drained from Aubrie Sinclair’s face. Her mouth opened, then closed without a sound.
+For four full seconds, there was nothing but dead silence on the phone line.
 
 What his mother didn't know—what she could never have anticipated—was that Dr. Evans’s human sexuality course and the fearless, loving women standing around his wheelchair had already given Jordan the complete, honest education she had so viciously denied him since the fourth grade. In the safety of this very suite, they had already dismantled her lies piece by piece. Her ultimate weapon was completely useless.
 
-Realizing her psychological hold over him was shattering in real time, Aubrie Sinclair lost her composure completely, her voice rising into a shrill, frantic pitch as she reached toward the handles of his wheelchair. "You are coming out to my car right now, Aubrey, or I swear I will—"
+Realizing her psychological hold over him was shattering in real time, Aubrie Sinclair lost her composure completely—and over the phone, the group heard the loud, metallic rattle of her yanking furiously on the locked exterior handle of the Washington Street entrance Doors.
 
-**Zoë** stepped squarely between Aubrie Sinclair and Jordan’s chair, holding up one flat palm with icy British composure.
+"You open this door right now, Aubrey, or I am marching around to the front desk and demanding the university staff unlock your room for me!" she shrieked.
 
-"That is quite enough," Zoë said coolly. "You tailgated into a secure residential wing without a resident escort, and you are trespassing inside a contracted student room against the occupant's explicit wishes. I am fetching the Hall Director."
+**Zoë** stepped calmly to the desk and tapped the intercom button on the room's wall phone to alert the front desk.
+
+"She is heading down the exterior hill toward the first-floor entrance," Zoë informed **Kelsey Brennan** coolly. "And Jordan has our line open on speaker."
 
 ### Scene 2: The Choice
 
 **Date:** 2014-10-18 at 09:30 America/New_York
 
-Less than ninety seconds after Zoë stepped into the hallway to call down to the first-floor desk, the rapid, purposeful stride of three pairs of footsteps echoed down the second-floor corridor.
+Less than ninety seconds after Zoë alerted the first-floor front desk, **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh** stepped out through the lower-level exterior glass doors of Bennett Hall onto the brick inner-quad walkway—pulling the heavy doors firmly shut behind them until the magnetic locks clicked—and intercepted **Aubrie Sinclair** twenty feet before she could even reach the card reader.
 
-**Kelsey Brennan** stepped across the threshold of Room 214, wearing her official CPI Residence Life lanyard and radiating calm, unyielding institutional authority. Directly behind her in the open doorway stood **Isabel Dawson** and **Henry Walsh**, blocking the corridor shoulder-to-shoulder while Zoë slipped back inside beside Lauren and Hannah.
+Up inside the warm, locked sanctuary of Room 214, Jordan sat in his wheelchair surrounded by **Aubrie Kelly**, **Madison**, **Zoë**, **Lauren**, and **Hannah**, listening through the open speakerphone connection on Zoë’s `mPhone` as Kelsey’s voice rang out across the crisp October air outside.
 
-The instant Aubrie Sinclair saw a professional adult staff member walk into the room, she spun around and put her hands to her chest, her voice shifting back into theatrical, martyred distress.
+The instant Aubrie Sinclair saw a professional adult staff member wearing an official CPI Residence Life lanyard step onto the walkway, she put her hands to her chest, her voice shifting back into theatrical, martyred distress.
 
-"Oh, thank goodness an actual adult is finally here!" Aubrie Sinclair exclaimed, gesturing dramatically toward the five young women surrounding Jordan’s wheelchair. "Are you in charge of this building? My son, Aubrey, is severely disabled and is being held in this room against his will by these girls! They've brainwashed him, and he needs to come home to Virginia Beach with me immediately!"
+"Oh, thank goodness an actual adult is finally out here!" Aubrie Sinclair exclaimed, gesturing dramatically toward the locked exterior doors of Bennett Hall. "Are you in charge of this building? Your doors are locked and a rude student just slammed the upper entrance in my face! My son, Aubrey, is severely disabled and is being held inside Room 214 against his will by a group of girls! They've brainwashed him, and you need to unlock this door and bring him out to my car so he can come home to Virginia Beach with me immediately!"
 
-Kelsey didn't even look at Aubrie Sinclair.
+Kelsey didn't even flinch at Aubrie Sinclair’s performance.
 
-She didn't acknowledge the woman’s theatrics, didn't answer her question, and didn't spare her a single glance. Instead, Kelsey walked two paces into Room 214, stopped at the exact respectful distance she had used in her lamp-lit office three weeks ago, and looked directly into Jordan’s eyes.
+Standing shoulder-to-shoulder on the brick walkway with Isabel and Henry flanking her like an impenetrable wall in front of the locked lower entrance, Kelsey held up her own phone—already conferenced into Room 214’s speakerphone—and spoke directly to Jordan inside his room.
 
-"Jordan," Kelsey said, her voice crystal clear, measured, and carrying the full legal weight of Commonwealth Polytechnic Institute. "You are eighteen years old. You are a legal adult, and you are a contracted resident of this university. Our residence halls are remaining open for Fall Break. Under university policy and Virginia law, it is entirely your decision whether you wish to stay here in Room 214 or leave with your mother for the break. No one in this room can force you to do anything you do not want to do."
+"Jordan, this is Kelsey Brennan outside the first-floor entrance with Isabel and Henry," Kelsey said, her voice crystal clear, measured, and carrying the full legal weight of Commonwealth Polytechnic Institute through the speaker in Room 214. "Your mother is out here on the walkway, and the building is completely secured. You are eighteen years old. You are a legal adult, and you are a contracted resident of this university. Our residence halls are remaining open for Fall Break. Under university policy and Virginia law, it is entirely your decision whether you wish to stay safely inside Room 214 or leave with your mother for the break. No one can force you to do anything you do not want to do."
 
-Kelsey paused, giving him the floor completely.
+Kelsey paused, holding the speakerphone up on the exterior walkway so both she and Aubrie Sinclair could hear Room 214 clearly.
 
 "What do you want to do, Jordan?"
 
-The entire room held its breath.
+Inside Room 214, all five women held their breath.
 
 This was it—the final threshold between the eighteen years behind him and the rest of his life ahead of him.
 
-Jordan looked first at his mother’s flushed, furious, controlling face—the woman who had denied him glasses so the world stayed a blur, denied him hearing aids so voices stayed muffled, forced him to carry her own name so he could never be a separate human being, and tried to convince him that no one on earth could ever love him without considering him a crushing burden.
+Jordan looked at the glowing speakerphone on his desk—knowing his mother was standing outside the locked doors of Bennett Hall, the woman who had denied him glasses so the world stayed a blur, denied him hearing aids so voices stayed muffled, forced him to carry her own name so he could never be a separate human being, and tried to convince him that no one on earth could ever love him without considering him a crushing burden.
 
-Then Jordan turned his head and looked at the five women standing around his wheelchair—**Aubrie Kelly**, **Madison**, **Zoë**, **Lauren**, and **Hannah**—knowing that **Mark**, **Sarah**, and **Jessica** were part of this unbreakable circle too, and seeing **Isabel**, **Henry**, and **Kelsey** standing watch like a wall of iron at his door. In less than two months, these people had given him more unconditional love, dignity, and freedom than he had ever known existed.
+Then Jordan turned his head and looked at the five women standing around his wheelchair inside his warm, impregnable room—**Aubrie Kelly**, **Madison**, **Zoë**, **Lauren**, and **Hannah**—knowing that **Mark**, **Sarah**, and **Jessica** were part of this unbreakable circle too, and knowing that **Kelsey**, **Isabel**, and **Henry** were standing outside the locked doors of Bennett Hall like a wall of iron so his mother could never set a single foot inside his home. In less than two months, these people had given him more unconditional love, dignity, and freedom than he had ever known existed.
 
 He looked up at Aubrie Jean Kelly, whose warm hand had never left his shoulder. He saw a future completely free from his mother’s cage—a future where he could study the stars, live in the light as Jordan Fuller, and maybe one day, when they were older, ask Aubrie Jean to marry him and seal his freedom forever.
 
-Jordan looked straight back at Kelsey. His hands didn't shake at all as he typed three words into `EchoType` and pressed the execute key:
+Jordan looked straight down at his keyboard. His hands didn't shake at all as he typed three words into `EchoType` and pressed the execute key, sending his clear synthesized baritone ringing through the speakerphone out onto the brick walkway of Bennett Hall:
 
 <aac>I'm staying here.</aac>
 
-A strangled, furious gasp tore from his mother’s throat. "You cannot do this to me, Aubrey! I am your mother!"
+Out on the walkway, a strangled, furious gasp tore from his mother’s throat. "You cannot do this to me, Aubrey! I am your mother!"
 
-Now—and only now—did Kelsey Brennan turn her head to look at Aubrie Sinclair. Her expression was cool, immovable granite.
+Now—and only now—did Kelsey Brennan look squarely at Aubrie Sinclair. Her expression was cool, immovable granite.
 
-"His name is **Jordan**," Kelsey said evenly. "And as an adult resident of this university, he has made his decision. Furthermore, you are flagged on our Residence Life security portal as an unauthorized visitor in this building, you bypassed two locked security doors during our morning resident-only lockout window without an escort, and your son has revoked any permission for you to be in his room."
+"His name is **Jordan**," Kelsey said evenly, her voice carrying clearly over the open line into Room 214. "And as an adult resident of this university, he has made his decision. Furthermore, you are flagged on our Residence Life security portal as an unauthorized visitor, you have zero permission to enter Bennett Hall, and every exterior door of this building will remain locked to you."
 
-Kelsey stepped back half a pace and gestured cleanly toward the open hallway, where Henry and Isabel stood waiting.
+Kelsey gestured cleanly up the brick path toward Washington Street SW.
 
-"You need to leave this building right now, ma'am," Kelsey stated flatly. "Isabel and Henry will escort you thirty feet down the corridor to the Washington Street exit. If you refuse to leave, or if you attempt to re-enter Bennett Hall, I will have the CPI Police Department escort you off campus and issue a formal criminal trespass bar."
+"You need to leave the grounds of Bennett Hall right now, ma'am," Kelsey stated flatly. "Henry and Isabel will walk parallel to you along the exterior sidewalk back up to Washington Street to make sure you reach your vehicle. If you refuse to leave the exterior walkway, or if you attempt to tailgate through any door of Bennett Hall, I will have the CPI Police Department arrest you for criminal trespass."
 
-For five trembling seconds, Aubrie Sinclair glared around the room—realizing that with the Hall Director and two Resident Advisors standing right in front of her, her tantrums and threats had zero leverage left. Shaking with silent, humiliated rage, she shot Jordan and Aubrie Kelly one last venomous glare, spun on her heel, and marched out into the hallway.
+For five trembling seconds, Aubrie Sinclair glared at Kelsey, Isabel, and Henry standing in front of the locked glass doors—realizing that she hadn't even been able to set foot inside the building, and that her tantrums and threats had zero leverage left. Shaking with silent, humiliated rage, she spun on her heel and marched back up the exterior sidewalk toward Washington Street SW while Henry and Isabel watched from the top of the path until she climbed into her sedan.
 
-"Right this way to the Washington Street doors, ma'am," Henry said in a polite, implacable baritone as he and Isabel fell into step on either side of her, escorting her all the way out of the building until the exterior doors locked behind her.
+"She's heading back to her car right now, Jordan," Kelsey said warmly into the phone before ending the conference call. "You are 100% safe inside Room 214. Take all the time you need with your friends today. We've got the doors."
 
-Kelsey lingered at the threshold of Room 214 for one quiet moment, looking back at Jordan with a warm, proud nod.
+For a heartbeat after the call clicked off, a profound, shuddering silence filled the small cinderblock room.
 
-"I am so proud of you, Jordan," Kelsey said softly. "Take all the time you need with your friends today. We've got the doors."
-
-Kelsey pressed the door release and stepped out into the corridor, letting the motorized arm pull the heavy oak door of Room 214 shut until the electronic latch clicked locked into place.
-
-For a heartbeat, a profound, shuddering silence filled the small cinderblock room.
-
-Then Jordan let out a long, ragged exhale he felt like he had been holding in his lungs for eighteen years. His hands were trembling from the adrenaline dump, and his eyes burned behind his glasses—but he was free.
+Then Jordan let out a long, ragged exhale he felt like he had been holding in his lungs for eighteen years. His hands were trembling from the adrenaline dump, and his eyes burned behind his glasses—but his mother had never even made it through the front door, and he was free.
 
 Before the first tear could even reach his cheek, all five women moved at once. Aubrie knelt at his front, wrapping her arms tightly around his neck; Madison and Lauren threw their arms around his shoulders from either side; and Hannah and Zoë closed the circle around them, wrapping Jordan in a massive, fiercely protective group hug that anchored him in the joyful, undeniable truth of his new life.
 
-His mother was gone, and he was finally home.
+His mother was gone, Bennett Hall was locked down tight, and he was finally home.
 
 ### Scene 3: The Cut Cord
 
 **Date:** 2014-10-18 at 10:45 America/New_York
 
-An hour after Aubrie Sinclair had stormed out through the Washington Street doors, a fragile, hard-won peace had settled over Suite 214/216.
+An hour after Aubrie Sinclair had stormed off the exterior walkway outside Bennett Hall without ever setting foot inside the building, a fragile, hard-won peace had settled over Suite 214/216.
 
 Around ten-forty-five, a gentle, rhythmic three-beat knock—the familiar signal **Isabel Dawson** and **Henry Walsh** always used so Jordan knew it was them—sounded on the door of Room 214. Lauren pressed the interior **PUSH TO OPEN** button, and Isabel and Henry stepped just inside the threshold.
 
@@ -6353,7 +6321,7 @@ It was a punishment designed to prove her thesis: that without her money and her
 
 "I'm texting **Mark**, **Sarah**, and **Jessica** right now to add them to the chat," Hannah said, her thumbs already flying across her screen. "You know they'll be 100% in."
 
-Sitting in his wheelchair with his `Pinnacle Vanguard Pro` across his knees, Jordan thought about the three Bennett Hall staff members who had just stood like a wall of iron in his doorway fifteen minutes ago—and especially about **Isabel Dawson** right across the hall in Room 215. Over the past two months, Isabel had quietly become his favorite CPI staff member by a mile, and the one authority figure on campus he had started to trust with even his most private, vulnerable details. He completely understood the professional boundary between an RA and a resident, and he would never ask her to cross it—but when it came to keeping him safe, he wanted her, **Henry**, and **Kelsey** inside the loop too.
+Sitting in his wheelchair with his `Pinnacle Vanguard Pro` across his knees, Jordan thought about the three Bennett Hall staff members who had just stood like a wall of iron outside the locked exterior doors of the building an hour ago—and especially about **Isabel Dawson** right across the hall in Room 215. Over the past two months, Isabel had quietly become his favorite CPI staff member by a mile, and the one authority figure on campus he had started to trust with even his most private, vulnerable details. He completely understood the professional boundary between an RA and a resident, and he would never ask her to cross it—but when it came to keeping him safe, he wanted her, **Henry**, and **Kelsey** inside the loop too.
 
 His fingers moved across the keyboard and hit execute:
 
@@ -6676,6 +6644,1138 @@ Jordan lowered his phone and looked up. **Aubrie Jean Kelly** was watching him f
 
 Jordan smiled back—a peaceful, unburdened smile that didn't need a single word—transferred onto the mattress beside her, and let her wrap him in her arms for the night.
 
+## Chapter 22
+
+### Scene 1: Setting the Board
+
+**Date:** 2014-11-24 at 21:00 America/New_York
+
+By Monday night of Thanksgiving week, the successful Fall Break relay a month earlier already felt like a rehearsal for a far more urgent deadline.
+
+At 1:00 PM on Wednesday, November 26, every residence hall on the campus of Commonwealth Polytechnic Institute would officially close for the four-day Thanksgiving holiday, suspending student keycard access until Sunday afternoon. And according to the ultimatum **Aubrie Sinclair** had sent in October, she intended to pull up outside Bennett Hall at 9:00 AM sharp on Wednesday morning to force Jordan into her sedan and take him back to Virginia Beach.
+
+Sitting in Room 214 on Monday evening with **Aubrie Kelly** and **Zoë** flanking his wheelchair, Jordan knew that simply leaving campus a day early on Tuesday afternoon wasn't a complete strategy.
+
+"Just departing before Wednesday morning isn't enough," Zoë said, her gray eyes steady and analytical as she stood beside Jordan’s desk. "Your mother is manipulative. When she arrives on Wednesday morning and discovers that she cannot get to you, her immediate reflex will be to weaponize university administration or local law enforcement by claiming that a vulnerable, disabled freshman has vanished. We have to control the official record before she has a chance to invent a narrative."
+
+She was right. It wasn't enough to slip away to Christiansburg; they had to build an iron legal wall behind them.
+
+At nine o'clock that night, with Aubrie Jean’s warm hand resting on his shoulder and Zoë reviewing every clause over his other shoulder, Jordan drafted and transmitted a formal notice from his `jfuller001` university account:
+
+> **To:** Kelsey Brennan, Hall Director, Bennett Hall; Office of Housing and Residence Life<br>
+> **From:** Jordan Fuller<br>
+> **Date:** Monday, November 24, 2014 — `21:14 EST`<br>
+> **Subject:** Thanksgiving Break Plan & No-Contact Notice — Jordan Fuller, Bennett Hall Room 214
+>
+> Dear Hall Director Brennan and the Office of Housing and Residence Life,
+>
+> This email is to formally notify you that I, Jordan Fuller, will be departing campus on Tuesday afternoon, November 25, to spend the upcoming Thanksgiving holiday off-campus in Christiansburg with friends and their family. I am completely safe and will be well cared for throughout the break.
+>
+> I also want to advise you that my mother, Aubrie Sinclair, has stated her intention to arrive at Bennett Hall on Wednesday morning, November 26, under the false assumption that I will be going to Virginia Beach with her. She may refer to me by my legal first name, Aubrey. Please be advised that as a legal adult, I have chosen not to have contact with her. She does not have my permission to enter Bennett Hall, visit my room, or be granted access to any of my student or housing information under FERPA.
+>
+> Thank you for your continued support and for helping to protect my privacy and safety.
+>
+> Sincerely,<br>
+> Jordan Fuller<br>
+> Room 214, Eleanor Bennett Commonwealth Hall
+
+Jordan pressed **`Send`**, setting the first brick of his Thanksgiving defense firmly into place.
+
+***
+
+At nine o'clock the next morning—Tuesday, November 25, just before his final day of pre-break classes—Jordan took the next two steps.
+
+First, accompanied by Aubrie and Zoë, he took the elevator down to the first floor of Bennett Hall and knocked on the door of **Room 104**—**Kelsey Brennan**’s warm, lamp-lit office, the quiet room beside the front desk that Jordan had long since cataloged in his heart as one of his **Safe Places**.
+
+"Come right on in, Jordan!" Kelsey called out warmly, stepping around her desk to hold the door wide.
+
+Once Jordan rolled up to her oak desk, Kelsey used a small brass key to unlock her top right-hand drawer and pulled out the crisp manila folder she had been safeguarding for him since September.
+
+"I got your email last night, Jordan, and I already logged it into the central Residence Life portal," Kelsey said with a proud, reassuring smile as she laid the **Emergency Contact Change Form** across his lap tray and handed him a blue rollerball pen. "Are we ready to make the change official?"
+
+Jordan nodded firmly, took the pen in his steady fingers, and neatly printed the names, address, and telephone numbers of **Daniel and Laura Brooks** on **Geneva Street in Christiansburg, Virginia** across the primary emergency contact lines—officially striking Aubrie Sinclair from his housing emergency file—before signing **`Jordan Fuller`** at the bottom.
+
+"Done and time-stamped," Kelsey said, countersigning the form and scanning it directly into the encrypted student life system. "And just so you know, Jordan, we are completely ready for tomorrow morning. Yesterday I sent a mandatory security directive to every resident in Bennett Hall reminding them that propping or holding any exterior door for a non-resident is a strict housing violation. Every exterior door is staying on 24/7 card-access lockdown, and I've arranged for two uniformed **CPI Campus Police** officers to be stationed with me and Henry tomorrow morning. Your mother will not set a single foot inside this building."
+
+Fifteen minutes later, with **Mark** and **Hannah** walking on either side of his wheelchair as his supportive escort, Jordan rolled through the automatic glass doors of **CPI Campus Police Headquarters**.
+
+Stepping up to the front duty desk, Jordan angled the screen of his `Pinnacle Vanguard Pro` and pressed execute so `EchoType` spoke clearly and calmly across the lobby:
+
+<aac>Good morning, Officer. My name is Jordan Fuller. I am an eighteen-year-old freshman resident of Bennett Hall, Room 214, and I would like to make a voluntary proactive statement for your records.</aac>
+
+The desk sergeant—a veteran officer with kind eyes and gray at his temples—set down his clipboard and gave Jordan his full, respectful attention. "Go right ahead, Mr. Fuller. I'm listening."
+
+<aac>I am leaving campus this afternoon to spend Thanksgiving Break in Christiansburg with my friends and their parents, Daniel and Laura Brooks, on Geneva Street,</aac> Jordan’s synthesized baritone continued steadily. <aac>However, I have reason to believe that tomorrow morning my mother, Aubrie Sinclair, may attempt to file a false missing-persons report or request a welfare check for me, likely using my legal first name, Aubrey Fuller. I want it officially on record with law enforcement that I am not missing, I am not in danger, and as a legal adult, I have voluntarily chosen not to have contact with her. My official emergency contacts with the university are now Daniel and Laura Brooks at this address and phone number.</aac>
+
+Jordan handed across a neatly printed card containing his student ID number, his VoIP contact number, and Daniel and Laura Brooks’s full address and phone numbers on Geneva Street.
+
+The sergeant read the card carefully and gave a slow, understanding nod. It was far from the first time university police had assisted an adult student protecting himself from an estranged or controlling family member.
+
+"Thank you for coming in ahead of time and doing this the smart way, Jordan," the sergeant said kindly, typing the dispatch advisory directly into his terminal. "I'm entering a flagged proactive welfare note under both **Jordan Fuller** and **Aubrey Fuller** right now, and I'm pushing an interagency CAD bulletin over to the **Blacksburg Police Department**, the **Christiansburg Police Department**, and the **Montgomery County Sheriff's Office**. If she calls any dispatch center in the New River Valley tomorrow claiming you're missing, the dispatcher will see your signed adult statement on their screen before a cruiser ever leaves the lot. You go have yourself a safe, happy Thanksgiving with your friends."
+
+Rolling back out into the crisp November sunshine between Mark and Hannah, Jordan felt an immense weight lift off his chest. He hadn't just run away from Wednesday morning. He had used his voice, his preparation, and his legal rights as an adult to lock every door before his mother even started her engine in Virginia Beach.
+
+### Scene 2: The Final Hour & One Last Hug
+
+**Date:** 2014-11-25 at 15:30 America/New_York
+
+The instant their final Tuesday afternoon lectures wrapped up at three-thirty, all nine members of the pact converged on Suite 214/216 with a single, non-negotiable objective: get Jordan out of CPI and out of Bennett Hall before dusk, a full seventeen hours before his mother was scheduled to arrive on campus.
+
+With all official housing and police notices filed, the mood inside Room 214 shifted from solemn legal preparation to a flurry of joyful, coordinated urgency.
+
+"Okay, people," **Zoë** announced, checking the clock on her `mPhone`. "Our target departure window to Christiansburg is the four-forty-five bus window from the Commonwealth Mall stops, which gives us fifty-five minutes from right now. **Operation Thanksgiving Pack-Up** is officially a go."
+
+What followed was a masterclass in nine-person teamwork. **Lauren**, **Sarah**, and **Jessica** took charge of gathering toiletries, medications, and travel snacks from both rooms. **Hannah** stood at Jordan’s open wardrobe, holding up warm knit sweaters two at a time for his approval—"Blue or charcoal grey, J?"—and folding each selection neatly into his rolling suitcase at his quick nod.
+
+Without waiting to be asked, **Mark** reached up and effortlessly lifted a heavy crate of astrophysics reference books and star charts down from the top closet shelf that nobody else save Jessica could comfortably reach, setting it gently beside Jordan’s desk. As Mark worked alongside them, he made a quiet point of being completely relaxed, warm, and helpful. Watching Hannah laugh as she tucked a fleece scarf around Jordan’s shoulders, Mark felt nothing except genuine happiness and pride. He knew the "official" cover story about **Aubrie Jean** being Jordan’s girlfriend—and he saw how deeply real that bond had become—but he also understood the deeper truth of their circle: Jordan was family to every single one of them, and Mark had zero room in his heart for the kind of toxic, fragile insecurity that had poisoned Tom Lawson.
+
+Meanwhile, Aubrie Jean and **Madison** ran a methodical two-person verification of Jordan’s essential gear.
+
+"Power brick and charging cable for the `Vanguard Pro`?" Aubrie asked, holding open his padded backpack.
+
+"Got it—coiled and Velcro-strapped in the center compartment," Madison confirmed, holding up the cord before zipping the pouch. "Spare batteries for his hearing aids and his protective glasses case?"
+
+"Right here in the top felt pocket," Aubrie smiled.
+
+Sitting in the center of the room as the calm director of his own needs, Jordan watched his friends move around him with a quiet, glowing smile. He wasn't being treated like cargo or an obligation; he was being supported by a team—*his* team.
+
+"Alright," Zoë called out at four-fifteen, zipping her own structured weekender bag shut. "We depart for Commonwealth Mall in twenty minutes. Final sweep of both rooms."
+
+As the others double-checked wall outlets, windows, and bathroom counters, Jordan’s eyes drifted toward the heavy oak door of Room 214.
+
+Before he rolled out of Bennett Hall for the next five days, there was one last thing he needed to do.
+
+He tapped Aubrie Jean lightly on the wrist and pointed toward the hallway. Understanding immediately, Aubrie smiled and pressed the interior **PUSH TO OPEN** button for him.
+
+Jordan guided his wheelchair smoothly out into the second-floor corridor and turned toward **Room 215** right across the hall.
+
+The door to Room 215 was propped partway open while **Isabel Dawson** finished zipping a plaid canvas duffel bag on her bed. Once she and Henry finished their early-evening pre-break floor checks, Isabel was heading northeast up I-81 and I-64 to **Charlottesville, Virginia**, to spend Thanksgiving with her parents and her younger sister, **Elena**.
+
+Hearing the soft whir of wheelchair tires on the linoleum, Isabel looked up from her duffel bag—and the moment she saw Jordan sitting at her threshold, her whole face lit up with a radiant smile.
+
+"Hey, Jordan!" Isabel said warmly, walking right over to the doorway. "Are you guys all packed and ready to roll out to Christiansburg?"
+
+Jordan set his wheel brakes, looked up at her with a soft, earnest smile behind his glasses, and opened both arms wide.
+
+"Aww, come here," Isabel murmured, her voice softening with genuine affection.
+
+She stepped out into the hallway, knelt down beside his wheelchair so they were eye-to-eye instead of giving him a quick standing side-hug, and wrapped both arms warmly around his shoulders.
+
+Jordan closed his eyes and hugged her back, resting his cheek briefly against the soft wool of her cardigan.
+
+By now, Isabel meant the absolute world to him. Out of every single staff member, professor, or administrator at Commonwealth Polytechnic Institute, she was unmistakably his favorite CPI staffer. He had never forgotten—and knew he would never forget for as long as he lived—that back on that terrifying Friday afternoon of early move-in day in August, when his mother had dumped him alone in a barren room with a bunked bed he couldn't climb and driven away, Isabel had been the very first person in a position of authority in his entire life who had ever shown him pure, unconditional kindness. Without making him feel broken or pitiful for a single second, she and Henry had rolled up their sleeves, unbunked his beds, rearranged every piece of furniture in Room 214 so his wheelchair could turn freely, and handed him the dignity of his own home.
+
+Holding onto her warm hug in the quiet corridor, Jordan knew every line of the professional Residence Life boundary that had to stand between a Resident Advisor and a freshman resident. And he knew how excited she was to go home to Charlottesville to see her mom, her dad, and Elena.
+
+Yet in the silent, unguarded sanctuary of his own mind, a single truth passed through Jordan’s heart: *if that professional boundary weren't a thing, and if she weren't going home to her family in Charlottesville, he would want Isabel right there on Geneva Street with them for Thanksgiving.*
+
+He knew it could never happen. He respected Isabel, her integrity, and the housing scholarship she worked so hard to keep far too much to ever cross that line—and so he never asked her, and he never even typed a single syllable of that wish onto his keyboard. It stayed strictly an internal thought, tucked safely away in the quietest corner of his heart.
+
+Instead, when they eased back from the hug, Jordan lowered his hands to his `Vanguard Pro` and typed a message he *could* share:
+
+<aac>Thank you for everything you've done for me this semester, Isabel. Have a wonderful Thanksgiving in Charlottesville with your parents and Elena. I'll see you on Sunday.</aac>
+
+Isabel’s eyes glistened warmly as she read his screen and heard his synthesized voice. She reached out and gave his shoulder one last gentle squeeze.
+
+"Thank you, Jordan," Isabel said softly. "You have the best Thanksgiving ever on Geneva Street with Aubrie, Zoë, and the whole gang. Text **`Jordan Comms`** when you guys touch down at the Brooks house so I know you made it safely!"
+
+Just then, the elevator doors chimed down the hall, and **Kelsey Brennan** stepped onto the second floor carrying a clipboard alongside **Henry Walsh**, who was walking up from the north stairwell.
+
+"Catching you right before launch!" Henry grinned, walking over and giving Jordan a warm fist bump. "Have an awesome time in Christiansburg, man. Don't eat too much turkey—actually, scratch that, eat all the turkey."
+
+"Have a wonderful, peaceful break, Jordan," Kelsey said, giving him a warm, steady nod as Aubrie, Zoë, Madison, Lauren, Hannah, Mark, Sarah, and Jessica wheeled their suitcases out of Suite 214/216 into the corridor. "Don't worry about a single thing back here tomorrow morning. Henry, campus police, and I have Bennett Hall locked down tight."
+
+Jordan looked at Isabel, Henry, and Kelsey standing together in the corridor—his three guardians of The Old Lady—and gave them a grateful nod before releasing his wheel locks and leading his chosen family—all eight of them—toward the elevator and out into the cool November afternoon.
+
+### Scene 3: The Maroon Express
+
+**Date:** 2014-11-25 at 16:35 America/New_York
+
+The walk from Bennett Hall across campus to the transit stops along **Commonwealth Mall** outside **Kincaid Hall** was a sight to behold. All nine friends moved as a single, cohesive organism—a bustling caravan of rolling suitcases, overstuffed duffel bags, and cheerful pre-holiday chatter, with Jordan’s wheelchair right at the protected center of their formation.
+
+They arrived at the busy curbside transit bays along Commonwealth Mall at four-thirty-five and checked the posted schedules. The next local **Blue Ridge Transit** bus heading down Business 460 toward Christiansburg was due in about ten minutes.
+
+Just as they were settling in along the brick sidewalk to wait, however, a completely different vehicle glided into the adjacent express bay with a deep, turbocharged diesel purr.
+
+It wasn't a standard low-floor city transit bus. It was a towering, forty-five-foot **Sainte-Claire 45H3** over-the-road highway motorcoach painted in gleaming maroon and silver livery, its high-visibility amber LED destination sign above the panoramic windshield cycling cleanly between two crisp displays:
+
+<led>MAROON EXPRESS</led>
+<led>BLUEWATER via CBURG TRANS CTR</led>
+
+With a sharp pneumatic hiss, the forward plug door swung outward, and a clear, automated female voice immediately began announcing the coach’s route on an exterior speaker loop:
+
+<pa>BLUEWATER TRANSIT MAROON EXPRESS: BLUEWATER via CHRISTIANSBURG TRANSIT CENTER.</pa>
+
+**Madison**’s eyes went wide, and she practically bounced on the balls of her sneakers.
+
+"GUYS! LOOK!" Madison whisper-yelled, pointing excitedly at the gleaming highway coach. "It's the **Maroon Express**! It's the real **BT**!"
+
+Seeing a couple of quizzical looks from the non-Southwest Virginia members of the group, Madison beamed with hometown pride and explained rapidly: "That's **Bluewater Transit**—my hometown bus! Instead of stopping at every single shopping center down Business 460, the *Maroon Express* runs nonstop down the US-460 Bypass highway straight to the **Christiansburg Transit Center at Falling Branch** before heading down I-81 and I-77 to Bluewater! It'll get us to Falling Branch in like twenty minutes instead of the forty-five the local route takes! The only trade-off is it runs once an hour, so we just hit the jackpot! Come on, we have to take it!"
+
+Boarding the high-deck highway coach was a slightly more involved mechanical production than rolling up the low-floor ramp of a campus shuttle. The friendly Bluewater Transit operator stepped out in a crisp uniform jacket, unlocked the mid-coach wheelchair lift bay doors, and operated the hydraulic platform with practiced, unhurried skill. The slow, whirring lift always drew a little more attention from passing students than Jordan preferred, but surrounded by Mark, Aubrie, and his friends cheering him on, the self-consciousness evaporated in seconds.
+
+Once inside the elevated cabin, Jordan transferred smoothly into a plush, high-backed reclining coach seat with reading lamps and upholstered armrests, while the driver and Mark folded his wheelchair and secured it safely inside the climate-controlled luggage bay below.
+
+**Aubrie Jean** immediately slid into the window seat right beside him. The moment the coach pulled away from Commonwealth Mall, Jordan leaned gratefully against her side, and Aubrie wrapped her arm warmly around his shoulders, the two of them cuddling close as the big highway cruiser merged onto the four-lane US-460 Bypass. Across the aisle and in the rows directly behind them, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** claimed an entire section of the coach, filling the quiet cabin with happy, infectious holiday energy.
+
+As the rolling pastures and autumn ridges of Montgomery County blurred past the tinted windows at sixty-five miles an hour, Zoë immediately pulled out her `mPhone` and fired off two texts—one to **`Jordan Comms`** so Isabel, Henry, and Kelsey knew they were airborne on the *Maroon Express*, and one to her parents letting them know their arrival time in Christiansburg had just been cut in half.
+
+Then Zoë turned around in her seat to brief the team.
+
+"Okay, everyone, regarding house logistics," Zoë began in her crisp, organized cadence. "My parents have cleared out the entire finished basement living area for the nine of us. We have four queen-sized air mattresses plus the wide pull-out sectional sofa, so we will have plenty of sleeping space. And just as a preparatory heads-up: all six of my older brothers and sisters are home for the holiday, so prepare yourselves for a significant volume of domestic chaos."
+
+Madison grinned from across the aisle. "Awesome! Okay, so Hannah and Mark are obviously claiming one queen mattress—"
+
+"I really hope your mom is making her sweet potato casserole with the pecan crust!" Lauren chimed in dreamily.
+
+"And since my parents are fifteen minutes away in Radford and Jessica's are right down I-81 in Roanoke, we'll still get almost the entire five days together at base camp!" Sarah added happily.
+
+They were so absorbed in their enthusiastic planning—debating movie queues, mapping out Thursday's quick local family visits for Sarah, Jessica, Mark, and Hannah before reconvening for the afternoon feast, and trading stories—that the automated chime and PA announcement overhead caught all nine of them by surprise:
+
+<pa>NEXT STOP: CHRISTIANSBURG TRANSIT CENTER — FALLING BRANCH PARK AND RIDE.</pa>
+
+They looked at one another across the aisle and burst out laughing. Madison’s hometown highway express had been so fast that they had barely made a dent in their five-day itinerary.
+
+Disembarking at the **Christiansburg Transit Center** at Falling Branch was just as smooth as boarding. Standing together under the concrete transit canopy as the *Maroon Express* rumbled back toward the interstate on-ramp for Bluewater, the nine friends breathed in the crisp, pine-scented late-afternoon air.
+
+The entrance to Zoë’s neighborhood was just one short block away, at the corner of **U.S. Route 11** and **Simmons Road SE**. From there, it was only a few quiet, tree-lined blocks to the cul-de-sac of **Geneva Street**—where a warm golden porch light was already shining at the end of the lane to welcome them home.
+
+### Scene 4: Geneva Street
+
+**Date:** 2014-11-25 at 17:15 America/New_York
+
+The nine friends turned off Simmons Road SE onto the quiet, tree-lined cul-de-sac of **Geneva Street** just as the November twilight was painting the sky in deep shades of violet and amber.
+
+As their caravan of rolling suitcases approached the handsome two-story Brooks residence at the end of the lane, the front door swung open and **Laura Brooks**—with Zoë’s kind eyes and a radiant, welcoming smile—stepped out onto the illuminated front porch, waving with both hands.
+
+"You made it!" Laura called out, her warm London-inflected voice brimming with genuine excitement. "We were just tracking the *Maroon Express* online! Welcome, welcome, all of you!" She gestured around the side of the house toward a flagstone garden path. "Come right around the back! Your headquarters for the week is all warmed up, and Daniel is waiting down at the patio doors to help you in!"
+
+They followed the stone path around the side of the house, where the terrain began to slope steadily downward. Built directly into a classic Southwest Virginia hillside, the front porch they had just passed sat a full story above the spacious backyard stretching out below. Waiting at the bottom of the incline beside a wide double sliding-glass patio door stood **Daniel Brooks**.
+
+As the group reached the top of the grassy slope where the flagstones gave way to lawn, Daniel immediately strode up the hill to meet Jordan.
+
+"Alright, Jordan, let me give you a hand right here," Daniel said, his deep voice calm, steady, and effortlessly capable. "This grassy slope is a bit of a beast until we do something more permanent about it."
+
+Without a trace of awkwardness or fuss, Daniel took firm, two-handed control of the rear push-handles of Jordan’s wheelchair, leaning his own weight back to act as a rock-solid human brake and guiding the chair down the incline in a smooth, completely controlled descent onto the level concrete patio. It was their first real moment together since August move-in day, and it cemented an immediate bond of practical, unspoken trust.
+
+Daniel slid open the wide glass patio door, and all nine friends stepped into the finished walk-out basement that would be their sanctuary for the week.
+
+It was paradise. The expansive downstairs living area was warm and wood-paneled, anchored by a plush L-shaped sectional sofa, a wide-screen television, a full bathroom, and a neat kitchenette tucked along the far wall. On the oak coffee table, platters of cheese, crackers, fruit, and homemade cookies were already waiting.
+
+A moment later, Laura came down the interior staircase carrying a wide wooden tray loaded with ceramic mugs. "Settle in, everyone, and make yourselves completely at home," she said warmly, pouring steaming spiced apple cider into the mugs while Zoë fired off a quick arrival confirmation to **Isabel**, **Henry**, and **Kelsey** on **`Jordan Comms`**. "You are completely safe here."
+
+"Right then," Daniel said, clapping his hands together with cheerful purpose. "Let's get this barracks operational." He opened a deep storage closet and hauled out four heavy boxes along with a high-output electric air pump. "One pump, four queen-sized air mattresses, plus the pull-out sleeper in the sectional. This might take a few minutes."
+
+The moment Daniel plugged the pump into the wall outlet and its high-pitched turbine whirred to life, the noise drew an enthusiastic audience from upstairs. Seconds later, all six of Zoë’s older siblings came trooping down the interior stairs with huge grins to meet the new arrivals and pitch in.
+
+Zoë laughed, gesturing up at the staircase. "Everyone, allow me to introduce my chaotic family—my older sisters, **Megan** and **Chloe**, and my four older brothers, **Caleb**, **Lucas**, **Owen**, and **Jacob**."
+
+The six Brooks siblings didn't hesitate for a heartbeat. Friendly, boisterous, and completely unfazed by a nine-person college contingent taking over their basement, they jumped right in to help. **Caleb**, the oldest brother, immediately took over air-mattress inflation duty from his father. **Lucas** and **Owen** helped Mark and Jessica arrange the luggage racks and duffel bags along the wall to keep a wide, unobstructed turning lane open for Jordan’s wheelchair, while **Jacob** pulled up an ottoman beside Jordan and launched into an animated discussion about the astronomy software and strategy games installed on Jordan’s `Vanguard Pro`.
+
+Meanwhile, **Megan** and **Chloe** took Lauren, Sarah, and Hannah over to the linen closet. "We stacked extra bath sheets, washcloths, and fleece blankets for all nine of you right in here," Megan smiled, opening the louvered doors. "And Mum says if anyone has laundry from the dorms, the washer and dryer in the utility room are fair game all week."
+
+Within twenty minutes, four plush queen-sized air mattresses and the open sectional sleeper transformed the carpeted basement floor into a sprawling, wall-to-wall landscape of pillows and quilts.
+
+**Madison** put her hands on her hips and surveyed the cozy fortress with a grin. "Okay, bed assignments are super simple," she announced. "Hannah and Mark, you two obviously get the corner queen."
+
+"Claimed!" Hannah laughed, lacing her fingers through Mark’s hand.
+
+"Jordan gets the queen closest to the bathroom door so his chair has a straight shot," Madison continued. "And he'll need his nighttime cuddle buddy."
+
+"I'll take tonight," **Lauren** volunteered softly, looking over at Jordan with a warm, gentle smile, "if that's okay with you, J?"
+
+Jordan gave her a bright, grateful nod, his shoulders relaxing even further.
+
+"Perfect!" Madison clapped. "That leaves me, Aubrie, Zoë, Sarah, and Jessica to divide up the other two queens and the sectional sleeper. Dibs on not being next to whoever snores!"
+
+Surrounded by the warmth of steaming cider, easy laughter, and the unconditional hospitality of the entire Brooks clan, the basement didn't feel like a temporary hiding place at all. It felt like coming home.
+
+### Scene 5: Settling into Sanctuary
+
+**Date:** 2014-11-25 at 21:30 America/New_York
+
+As Tuesday evening wound down toward nine-thirty, the boisterous energy of their arrival softened into a warm, sleepy contentment. One by one, Zoë’s six brothers and sisters and **Daniel and Laura Brooks** wished the group a fond goodnight and headed up the interior staircase to the first and second floors of the house, closing the door at the top of the stairs to leave the nine friends to their own private domain.
+
+Down below, the basement was now their quiet fortress—a glowing landscape of queen-sized mattresses, soft quilts, and familiar faces illuminated by the warm amber light of a single corner floor lamp.
+
+Sitting in his wheelchair near the edge of the carpet, Jordan looked toward the open doorway of the basement bathroom and typed a quiet thought onto his `Vanguard Pro`:
+
+<aac>You know what sounds amazing right now? A real warm bath. Not just a quick shower on a transfer bench.</aac>
+
+Everyone glanced toward the basement bathroom. It was spotless and stocked with fluffy towels, as Megan had shown them earlier, but unlike the ADA-retrofitted suite bathroom in Bennett Hall, it was a standard residential fiberglass tub-and-shower combination without wall-mounted grab bars or a built-in transfer seat.
+
+"We've got you," **Aubrie Jean** said immediately, without a fraction of a second’s hesitation.
+
+**Lauren** stood up right beside her, rolling up the sleeves of her flannel pajama shirt with a warm, reassuring smile. "Yep. The two of us can handle that easily."
+
+What followed over the next half hour wasn't about romance or spectacle; it was an act of pure, practical care—a seamless choreography of trust, strength, and tenderness. Getting Jordan safely from his wheelchair down into the deep, warm water of the tub and back out again was a careful, coordinated two-person effort. Lauren provided the steady, sure-handed physical leverage to support his torso and legs, while Aubrie Jean handled every detail of the environment—testing the bathwater until it was the exact soothing temperature, keeping warm bath sheets and soap within effortless reach, and making sure Jordan’s privacy and dignity were protected through every single second of the routine.
+
+It was simply another physical puzzle to be solved, and just like every other barrier they had encountered since August, they solved it together without making him feel like a burden for a single heartbeat.
+
+By ten-thirty, with Jordan warm, clean, and dressed in soft cotton pajamas, a deep, peaceful quiet settled over the basement. **Hannah** and **Mark** were already curled up together on their corner mattress, whispering softly nose-to-nose. **Madison**, **Zoë**, **Sarah**, and **Jessica** were tucked under their comforters across the room.
+
+Lauren sat on the edge of the queen mattress she was sharing with Jordan tonight, watching with a soft, fond smile as Aubrie Jean knelt beside Jordan’s wheelchair and gave him a tender, lingering goodnight kiss before crossing the carpet to her own bed.
+
+In the warm lamplight between them, there was zero jealousy. Zero possessiveness. Zero tension. Only love.
+
+Looking at Aubrie Jean and Jordan, Lauren thought fleetingly of **Tom Lawson**—of the ugly, suffocating rage he had thrown in October because he couldn't tell the difference between compassionate care and rivalry. Tom had viewed every gentle touch through a lens of ownership and suspicion. Here in this basement, Aubrie’s complete, radical generosity was the bedrock upon which their entire nine-person family stood.
+
+*It's Tom's loss,* Lauren thought, a quiet, unshakable certainty settling into her chest. *And it's Jordan's gain. It's all of our gain.*
+
+With Lauren steadying his hand, Jordan transferred smoothly from his wheelchair onto the plush queen air mattress and settled beneath the quilt beside her.
+
+He tapped the soft night-mode screen of his phone so a tiny whispered line played just for her:
+
+<aac>Goodnight, Lauren. Thank you.</aac>
+
+"Goodnight, Jordan," Lauren whispered back. As he wrapped a warm arm around her waist in their familiar, comforting spooning embrace, she felt the last trace of the week’s stress melt completely away.
+
+Across the darkened basement, a chorus of soft *"Goodnights"* echoed from mattress to mattress. Upstairs and downstairs, seventeen people were settling in for the night under the roof on Geneva Street—but for the nine friends in the basement, it was something deeper still. They had completed their exodus a full day ahead of schedule. They were safe, they were together, and they were home for Thanksgiving.
+
+## Chapter 23
+
+### Scene 1: Interlude: The Unwelcome Arrival
+
+**Date:** 2014-11-26 at 09:00 America/New_York
+
+**Kelsey Brennan**, Hall Director of the storied stone residence hall known to generations of Commonwealth Polytechnic students as *"The Old Lady on the Hill,"* had been preparing for Wednesday morning ever since Jordan Fuller signed his emergency contact form across her desk on Tuesday.
+
+Understanding the exact nature of the woman they were dealing with, Kelsey had left nothing to chance. On Monday morning, she had transmitted a mandatory building-wide security directive to every resident of Bennett Hall reminding them that propping or holding any exterior door for a non-resident was a serious housing code violation, and she and **Henry Walsh** had mounted fresh, high-contrast crimson **`DO NOT HOLD DOOR FOR OTHERS`** placards at eye level on every exterior glass entrance.
+
+Furthermore, at eight-forty-five on Wednesday morning, two uniformed **CPI Campus Police** officers—**Sergeant Miller** and **Officer Davis**—had arrived at Bennett Hall at Kelsey’s request. Ostensibly stationed at the lower entrance for a routine "pre-holiday closing safety presence," both officers had read Jordan’s proactive Tuesday statement in full. Every staff member on duty knew the protocol by heart: keep every exterior door on strict twenty-four-hour keycard lock, be polite, be immovable, and do not acknowledge the name *"Aubrey Fuller."*
+
+It was into this meticulously fortified perimeter that **Aubrie Sinclair** marched at nine-twelve on Wednesday morning, radiating an imperious certainty that was about to be dismantled in under three minutes.
+
+Clicking briskly down the brick inner-quad walkway toward the lower-level main entrance of Bennett Hall, Aubrie Sinclair reached for the brushed-aluminum handle of the exterior glass door and pulled.
+
+The magnetic shear lock held fast. The door didn't budge a millimeter.
+
+Frowning through the glass into the lobby vestibule, she spotted her opening. Thirty feet inside, a sophomore engineering student carrying a heavy rolling suitcase and a garment bag was approaching the interior crash bar on his way out to the holiday parking lot.
+
+As the student pushed the door open and stepped across the threshold onto the brick walkway, Aubrie Sinclair lunged forward with her most polished, disarming smile and reached out to catch the edge of the door.
+
+"Oh, excuse me, dear—could you hold that for me?" she said smoothly. "I'm here to pick up my son, Aubrey Fuller, from Room 214."
+
+The sophomore stopped, looked directly at her hand reaching for the frame, and then glanced straight at the prominent crimson placard bolted to the glass inches from her face: **`RESIDENCE LIFE SECURITY DIRECTIVE: DO NOT HOLD DOOR FOR OTHERS`**. He remembered Kelsey’s hall-wide security email from Monday morning—and like almost everyone in Bennett Hall, he knew the freshman in the wheelchair up on the second floor whom the whole building quietly looked out for.
+
+The student stepped cleanly out onto the brick pavement, blocking her path to the threshold with his own shoulder, and gave her a polite, unyielding shake of his head.
+
+"I'm sorry, ma'am. We're not allowed to let anyone in," he said—and pulled the heavy exterior door firmly shut behind him until the magnetic lock clicked home with a loud, metallic *clack*.
+
+Aubrie Sinclair stood frozen on the exterior brick walkway, her face flushing scarlet with shock and humiliation. For the second time in five weeks, she hadn't even been able to get a toe across the threshold of Bennett Hall.
+
+"Can I help you, ma'am?"
+
+The voice was calm, crisp, and thoroughly professional.
+
+Aubrie Sinclair spun toward the adjacent administrative exit door as **Kelsey Brennan** and **Henry Walsh** stepped out onto the brick walkway, letting the steel door latch locked behind them. Three paces behind Kelsey and Henry stood **Sergeant Miller** and **Officer Davis** in their dark blue CPI Campus Police uniforms and duty belts, their posture relaxed, arms folded, and utterly unmistakable.
+
+"This is outrageous!" Aubrie Sinclair sputtered, drawing herself up as she pointed an accusing finger at the locked glass doors. "I am here to pick up my disabled son, Aubrey Fuller, from Room 214 for the Thanksgiving holiday, and your students are slamming doors in my face! I demand that you unlock this building and bring him down here at once!"
+
+"First, ma'am, we do not have a resident listed under that first name in our building directory," Kelsey replied, her voice even and leaving zero room for negotiation. "Second, as I informed you here on this exact walkway during Fall Break, federal law under **FERPA** strictly prohibits university staff from disclosing any adult student's housing status, schedule, or whereabouts to third parties without their written consent—consent which you do not possess. And third, as you have just seen, our residents take building security in The Old Lady very seriously. We look out for each other here."
+
+Kelsey gestured subtly toward Sergeant Miller and Officer Davis standing directly behind her on the walkway.
+
+"Furthermore, Bennett Hall is closing for the Thanksgiving holiday, and these CPI Campus Police officers are stationed here to ensure a safe, orderly, and disturbance-free closing of the building," Kelsey continued smoothly. "You have no authorization to enter this residence hall or remain on its exterior walkways. I am sure you do not wish to create a disturbance that would require their direct law-enforcement intervention."
+
+The message was crystal clear.
+
+Every door was locked. The Hall Director and her Senior RA were standing like granite in front of the entrance. Two armed university police officers were watching her every breath from ten feet away. Faced with the choice of walking back to her car under her own power or leaving in the back of a CPI Campus Police cruiser with a criminal trespass citation, Aubrie Sinclair made the only move left on the board.
+
+Shooting Kelsey and Henry a look of pure, trembling venom, she spun on her heel and marched back up the brick walkway toward Washington Street SW without ever having set a single foot inside Bennett Hall.
+
+***
+
+Sitting behind the steering wheel of her idling sedan on Washington Street SW with her hands shaking with rage, Aubrie Sinclair reached into her purse and pulled out her cell phone. If the university staff refused to bow to her, she would force the issue with the municipal authorities.
+
+She dialed the non-emergency dispatch line of the **Blacksburg Police Department**.
+
+"Blacksburg Police Dispatch, how may I direct your call?"
+
+"Yes, I need to file an urgent missing-persons report," Aubrie Sinclair said, infusing her voice with practiced, trembling maternal panic. "It's my son, **Aubrey Fuller**. He's an eighteen-year-old freshman at CPI in Bennett Hall, he is severely disabled and confined to a wheelchair, and the dormitory staff are refusing to let me see him or tell me where he is! I am terrified something has happened to him!"
+
+"One moment please, ma'am, while I check our system," the dispatcher replied calmly.
+
+For fifteen seconds, the only sound on the line was the rapid, rhythmic clicking of a mechanical dispatch keyboard. Then the dispatcher’s even, unhurried voice returned.
+
+"Ma'am, I am looking at a flagged interagency law-enforcement bulletin on my screen right now regarding this exact individual," the dispatcher stated. "The student appeared in person at **CPI Campus Police Headquarters** yesterday morning to record a voluntary adult welfare statement. That statement was verified by a university police sergeant and distributed directly to us here at the **Blacksburg Police Department**, as well as to the **Christiansburg Police Department** and the **Montgomery County Sheriff's Office**."
+
+Aubrie Sinclair’s breath caught in her throat. "What... what are you talking about?"
+
+"The student has placed it officially on the law-enforcement record that he is completely safe, that he has voluntarily departed campus to spend the Thanksgiving holiday with friends, and that as a legal adult of sound mind, he has chosen not to have contact with you," the dispatcher continued flatly. "Because he has personally verified his safety with police in advance, he is not a missing person under Virginia law, and no agency in Montgomery County will accept a missing-persons report or conduct a welfare check on your behalf. Is there anything else I can assist you with today, ma'am?"
+
+*Checkmate.*
+
+Every single avenue—the dorm doors, the students, the housing office, the campus police, the town police, and the county sheriff—had been anticipated and sealed shut before she had even left Virginia Beach.
+
+Slowly, Aubrie Sinclair lowered the phone from her ear and stared through the windshield at the stone facade of Bennett Hall rising above the hillside. With zero leverage and zero moves left to play, she shifted her sedan into drive, pulled away from the Washington Street curb, and headed back toward Interstate 81 in total defeat.
+
+Watching from the upper terrace walkway alongside Henry and Sergeant Miller until the sedan disappeared down the hill toward Route 460, Kelsey pulled her phone from her blazer pocket, opened **`Jordan Comms`**, and typed a message that she knew would bring a cheer to a basement twelve miles away in Christiansburg—and to a car heading up I-64 toward Charlottesville:
+
+> **`Kelsey [Wed 09:24]:`** <sms>[LOGISTICS] Official Bennett Hall All-Clear: She arrived at 9:12 AM, was stopped outside the locked lower doors by one of our awesome sophomores, and was met on the exterior walkway by me, Henry, and two CPI Campus Police officers. Never set a foot inside the building. Blacksburg PD just confirmed to Sgt. Miller that she tried to call in a missing-persons report from her car and was shut down cold by dispatch. Her car just cleared campus heading toward 460/I-81. Have a wonderful Thanksgiving, Jordan!!</sms><br>
+> **`Isabel [Wed 09:25]:`** <sms>YES!! 🎉💪 The Old Lady stays undefeated!! So proud of you, Jordan!! Happy Thanksgiving from Charlottesville!!</sms>
+
+### Scene 2: All-Time Quarterback & The Unfamiliar Car
+
+**Date:** 2014-11-26 at 14:00 America/New_York
+
+Wednesday at the Brooks residence on Geneva Street began as a joyful symphony of domestic chaos.
+
+The morning kicked off upstairs with a massive pancake, scrambled egg, and bacon breakfast for all seventeen people in the house, with the long oak kitchen table supplemented by a six-foot folding banquet table brought up from the utility room. When **Kelsey Brennan**’s `09:24 AM` all-clear message chimed across **`Jordan Comms`**—confirming that Aubrie Sinclair had been stopped cold outside the locked doors of Bennett Hall and shut down by Blacksburg Police Dispatch—the entire kitchen erupted into applause, with **Caleb** and **Mark** clinking their orange juice glasses in a toast to The Old Lady on the Hill.
+
+By two o'clock that afternoon, with the crisp late-November sun shining through the bare oak branches, all fifteen young adults—the nine pact members and Zoë’s six older siblings—migrated out into the wide, sloping backyard for a wildly disorganized game of two-hand-touch football.
+
+The teams were uneven, loud, and constantly shifting. **Mark**, a devoted college football fan, tried valiantly for the first ten minutes to call legitimate route trees in the huddle, only to be cheerfully ignored by everyone except **Zoë**, who calculated yardage probabilities aloud like an offensive coordinator. Zoë’s athletic older brothers, **Caleb** and **Owen**, along with six-foot-three **Jessica**, were the undisputed power threats downfield, while five-foot-four **Madison** stunned the entire yard with her lightning-quick jukes along the sideline.
+
+And right at the center of the field sat **Jordan**—the designated **"All-Time Quarterback."**
+
+Positioned in his wheelchair at midfield with his wheel locks set on a level patch of turf, Jordan threw tight, accurate spirals for both offenses in turn, a huge, unguarded grin plastered across his face behind his glasses. **Aubrie Jean** served as his fiercely loyal center and personal pocket protector—snapping the foam-composite football into his hands before every down and playfully stonewalling **Lucas** and **Jacob** whenever an over-enthusiastic pass rusher drifted within five yards of his chair. He wasn't sitting on the sidelines watching other people live; he was the central pivot point around which the entire game turned.
+
+An hour and a half later, rosy-cheeked, breathless, and laughing, all fifteen of them trooped back inside through the wide sliding-glass patio doors into the walk-out basement.
+
+**Laura Brooks** was already waiting down at the kitchenette counter with a steaming pot of spiced apple cider, while the mouthwatering aromas of toasted sage, cornbread stuffing prep, and baking pecan pies wafted down the staircase from the main kitchen above.
+
+As everyone collapsed onto the sectional sofa and the four queen air mattresses with warm mugs in their hands, **Daniel Brooks** stepped down the interior stairs and waited quietly for a lull in the post-game banter. His expression shifted from playful warmth to calm, fatherly seriousness, and he cleared his throat.
+
+"Alright, everyone, listen up for just a moment," Daniel said, his steady voice cutting cleanly through the room. "Your mum and I noticed something late yesterday evening, and then again earlier this morning while you were having breakfast. There was an unfamiliar charcoal-gray sedan parked down at the mouth of the cul-de-sac on the corner of Geneva Street, just sitting there idling for hours. It didn't belong to any of our neighbors."
+
+Instantly, the lighthearted post-game warmth in the basement tightened into focused silence. All nine friends exchanged glances, their eyes moving instinctively toward Jordan.
+
+"I walked down the driveway this morning, wrote down the Virginia license plate number, and called it in to the **Christiansburg Police Department** around noon," Daniel continued evenly. "They sent a patrol cruiser through the neighborhood twenty minutes later, but the sedan had already pulled out by then. Officially, there is very little the police can do about a legally registered car parked briefly on a public residential street."
+
+Daniel looked directly into Jordan’s eyes, his gaze steady, protective, and completely unyielding.
+
+"Now, we cannot prove anything conclusively," Daniel said. "After your mother hit a brick wall at Bennett Hall and with the police dispatchers this morning, she may well be halfway back to Virginia Beach. However, because your father's family or your mother could have hired a private investigator—or had someone follow the bus or pull an address record—we have to operate on the assumption that she now knows this address. We have to assume that Geneva Street isn't a secret anymore."
+
+A heavy stillness settled over the basement. Jordan felt a familiar, cold knot twist in his stomach—yet as he looked around the room at the sixteen fiercely protective faces focused on him, the sensation inside his chest transformed into something completely new.
+
+He wasn't terrified. He was angry. And for the first time in his life, he had an army standing around him.
+
+Right beside his wheelchair, **Aubrie Jean** rested her warm hand squarely over his shoulder, while **Lauren** and **Hannah** closed in on his other side.
+
+"Then we escalate our perimeter security protocols immediately," **Zoë** stated, her calm, logical voice ringing with absolute resolve.
+
+"Exactly right," Daniel affirmed, nodding at his youngest daughter. "You are all completely safe in this house. This is our home, and no one sets foot on this property uninvited. But from this moment forward, we stay vigilant. Every exterior door and window stays locked at all times, even during the middle of the day. We keep the basement patio blinds angled after dusk. Nobody opens the front door to anyone we don't personally know—zero exceptions. And if any of you spot that gray sedan or any unfamiliar vehicle lingering on Geneva Street, you do not engage; you come get me, Laura, or Caleb immediately."
+
+Daniel looked around the circle of seventeen people, his jaw set with quiet, unmistakable authority.
+
+"We are all in this together."
+
+A low, resolute murmur of agreement rippled across the basement. Whether his mother’s reach had grazed the edge of their neighborhood or not, the effect was the exact opposite of intimidation: the walls of their sanctuary had just grown seventeen people strong.
+
+### Scene 3: A Basement Feast & The Turkey Brawl
+
+**Date:** 2014-11-27 at 09:30 America/New_York
+
+On Thanksgiving morning, Jordan woke to the soft, rhythmic breathing of his closest friends sleeping all around him.
+
+In the warm amber glow filtering through the angled blinds of the walk-out basement, he looked out across the cozy sea of quilts and queen-sized air mattresses. Yesterday afternoon’s warning about the unfamiliar sedan on the corner of Geneva Street had been sobering—yet waking up here, literally encircled by a human fortress of the people who loved him most, Jordan felt an overwhelming wave of gratitude and security wash through his chest. Nobody could get to him here.
+
+Around nine-thirty, after **Sarah**, **Jessica**, **Mark**, and **Hannah** returned from their quick, tightly coordinated morning holiday drop-ins with their local parents in Radford, Roanoke, and Blacksburg so the entire nine-person unit was locked back inside the house for the rest of the day, **Daniel Brooks** came down the interior staircase with a cheerful smile on his face.
+
+"Happy Thanksgiving, everyone!" Daniel boomed warmly, looking around at the group gathered in their pajamas and hoodies. "Just so everybody knows the operational plan for today: we are having Thanksgiving dinner right down here in the basement."
+
+Seeing the surprised glances across the room, Daniel held up a reassuring hand and looked directly at Jordan with kind, fatherly firmness.
+
+"Your mum and I talked it over last night," Daniel explained. "After the business with that unfamiliar car on the street yesterday, your safety and peace of mind are our number-one priority, Jordan. Carrying your wheelchair up and down the outside grassy hill in full view of the street is an exposure risk we don't need to take—and we want all seventeen of us eating together at the same time. So my kitchen crew and I will handle all the roasting and prep upstairs, and at three o'clock we will bring the entire Thanksgiving feast down the interior stairs to you. You lot just relax, watch the parade, and enjoy the holiday."
+
+The nine friends exchanged deeply moved glances. The Brooks family wasn't merely giving them a roof over their heads; Daniel, Laura, and all six of Zoë’s siblings were cheerfully rearranging their own family traditions to form a physical shield around Jordan.
+
+The morning and early afternoon unfolded in a cocoon of pure warmth. Gathered around the wide-screen television with **Megan**, **Chloe**, **Lucas**, and **Jacob**, they watched *The Hudson's Thanksgiving Day Parade*, loudly grading the marching bands, critiquing the giant helium balloons, and singing along to the Broadway numbers while the rich, savory aroma of roasting turkey and sage stuffing drifted down the stairwell from the kitchen above.
+
+Right at three o'clock, the upstairs-to-downstairs **"Ferry Service"** began.
+
+Zoë’s brothers and sisters formed a continuous bucket brigade down the interior stairs, their arms laden with steaming platters and casserole dishes. First came a magnificent twenty-four-pound roasted turkey, golden-brown and carved to perfection by Daniel himself. Behind it came bowls of whipped Yukon Gold mashed potatoes, savory herb stuffing, Laura’s famous pecan-crusted sweet potato casserole, green bean casserole, tart cranberry relish, gravy boats, and baskets of yeast rolls fresh from the oven. Within ten minutes, the oak coffee table and two folding buffet tables were groaning under the weight of a feast fit for an army.
+
+Their Thanksgiving dinner was loud, crowded, chaotic, and utterly perfect.
+
+All seventeen of them ate together across the basement—sitting on the sectional sofa, cross-legged on the edges of the queen air mattresses, and perched on folding chairs, with heavy china plates balanced on their knees. The basement rang with the sound of seventeen people laughing, talking over one another, passing baskets of rolls, and debating who got the last corner piece of sweet potato casserole.
+
+Sitting in his wheelchair right in the middle of the circle with **Aubrie Jean** on his left and **Lauren** on his right, his lap tray loaded with warm holiday food he had never once tasted in Virginia Beach, Jordan smiled a genuine, completely unburdened smile. *This,* he realized, *was what Thanksgiving was supposed to feel like.*
+
+Later that afternoon, as Jordan helped stack empty dessert plates onto a serving tray, Daniel Brooks rested a warm hand on his shoulder.
+
+Jordan looked up at him and tapped a line onto his phone’s `EchoType` screen, his chest tight with emotion:
+
+<aac>Thank you, Mr. Brooks. For all of this.</aac>
+
+Daniel smiled warmly and squeezed his shoulder. "You're family, Jordan," he said simply. "This is what we do."
+
+***
+
+As eight o'clock that evening approached, the last of the pie plates and serving platters were cleared upstairs, and a brand-new kind of electricity filled the basement.
+
+The buffet tables were folded away and replaced with huge stainless-steel bowls of buttered popcorn and trays of sodas. The nine friends claimed their prime spots across the air mattresses and the sectional sofa, their eyes glued to the big television screen. It was time for the undisputed main event of Thanksgiving night: **American Wrestling Entertainment**’s annual two-hour prime-time spectacular, the **`AWE Turkey Brawl`**.
+
+Just as the pyrotechnics and bombastic opening guitar theme blasted through the television speakers, the door at the top of the stairs opened and **Laura and Daniel Brooks** came down into the basement, followed closely by all six of Zoë’s siblings.
+
+"You lot didn't think you were having all the fun down here by yourselves, did you?" Daniel grinned, grabbing a throw pillow and claiming a spot on the carpet beside Laura. "There's no way we're missing the *Turkey Brawl*!"
+
+All seventeen of them packed into the basement living room, turning the sanctuary into a raucous, wall-to-wall arena section.
+
+The main event of the night was a World Heavyweight Championship match featuring the group’s most despised villain, the massive, arrogant **Dr. Destruction**. Twenty minutes into a grueling bout, Dr. Destruction was on the verge of cheating his way to another tainted victory—having knocked the referee into the turnbuckle while the exhausted reigning champion lay dazed on the mat.
+
+"Come on, ref, turn around!" **Mark** yelled at the screen, hurling a kernel of popcorn in outrage as **Caleb** and **Owen** booed at the top of their lungs.
+
+In the center of the ring, Dr. Destruction sneered at the camera and raised the heavy gold championship belt above his head to use as an illegal weapon.
+
+And then—right before he could bring the belt down—every light inside the broadcast arena blacked out.
+
+For three heart-stopping seconds, the screen was pitch-dark. Then a single, blistering chord of electric guitar ripped through the arena speakers—the unmistakable entrance anthem of the beloved babyface hero whom Dr. Destruction had injured and put on the shelf four months ago.
+
+The twenty thousand fans on the television screen erupted.
+
+And so did the basement on Geneva Street.
+
+All sixteen people around Jordan’s chair leaped to their feet at once. **Madison** was shrieking at the top of her lungs, Mark and Caleb were high-fiving hard enough to sting, **Jessica** and **Hannah** were cheering with both fists in the air, and even **Zoë** had a rare, ear-to-ear grin of pure shock and triumph across her face.
+
+On screen, the returning hero sprinted down the ramp, slid into the ring, and speared Dr. Destruction off his feet before the villain could even turn around. What followed wasn't a technical wrestling match—it was pure, unadulterated, cathartic justice. The hero hit every single one of his signature maneuvers in rapid succession, leaving Dr. Destruction laid out flat in the center of the canvas.
+
+Standing tall over his vanquished enemy, the hero looked across the ring at the dazed champion pulling himself up in the corner, and gave him a single, sharp nod: *He's all yours. Finish it.*
+
+The hero rolled out under the bottom rope, his retribution complete. The champion climbed to the top turnbuckle, launched into a breathtaking finishing splash onto Dr. Destruction, and hooked the leg for the pin as the revived referee slid into position.
+
+*"ONE! TWO! THREE!"* all seventeen voices in the Geneva Street basement roared in unison with the referee’s palm slapping the mat.
+
+The room exploded into pandemonium as the bell rang. Watching his entire chosen family—and the whole Brooks clan—laughing, hugging, and cheering under the basement lights, Jordan realized that this gloriously over-the-top spectacle was a mirror of his own autumn. He had faced a villain who had seemed all-powerful for eighteen years—until his own heroes had stepped into the ring beside him and helped him take back his life.
+
+Across the cheering room, Jordan caught **Aubrie Jean**’s eye. She looked back at him and gave him a soft, knowing smile that understood every word he didn't need to say.
+
+"Alright, my champions," Daniel Brooks laughed ten minutes later as the closing credits rolled, stretching his arms overhead. "That is plenty of excitement for one Thanksgiving night. The upstairs crew is heading to bed."
+
+One by one, Daniel, Laura, and the six siblings said their goodnights and climbed the stairs, leaving the nine friends in the warm, sleepy glow of their basement fortress.
+
+As the lights clicked off and everyone burrowed under their quilts, Madison popped her head up from her pillow and stage-whispered across the dark room:
+
+"Okay, everybody, get some sleep! Tomorrow morning we have a top-priority tactical mission—**Operation: Jordan's First Black Friday**. BIG DAY TOMORROW!"
+
+A chorus of sleepy laughter and fond *"Goodnights"* drifted across the mattresses as Jordan closed his eyes beside Aubrie Jean, safe in the heart of his family and ready for whatever tomorrow brought.
+
+## Chapter 24
+
+### Scene 1: The Mission Briefing & The First Purchase
+
+**Date:** 2014-11-28 at 07:30 America/New_York
+
+The Brooks basement was a hive of quiet, purposeful activity long before the sun rose over the Blue Ridge on Black Friday morning.
+
+By seven o'clock, the rich aroma of freshly ground coffee drifted down the interior stairs as **Laura** and **Daniel Brooks** carried down wide wooden trays loaded with scrambled eggs, crisp bacon, buttered toast, and sliced fruit.
+
+"Eat up, everyone," Daniel said, his tone warm but all business. "There will be zero stopping for food once we leave the house. We roll out, we acquire what we need, and we come straight back to base." Beside the breakfast counter, **Sarah**, **Jessica**, and **Megan** were already packing a canvas daypack with bottled water and granola bars. To an outsider, the preparation might have looked like military overkill for a morning shopping trip—but as Daniel watched Jordan laugh with **Caleb** and **Owen** over a plate of eggs, a fierce paternal instinct burned quietly in his chest. In a few short months, this brave, gentle young man had become like a fifth son to him. The thought of anyone intimidating or harming Jordan on his watch was completely unacceptable.
+
+After breakfast, **Hannah** and **Lauren**—two of the strongest women in the suite—helped Jordan into the basement bathroom to get washed up, dressed in a warm sweater, and ready for the morning expedition. Across the room, **Mark** watched them go with an easy, affectionate smile, his complete lack of jealousy a quiet testament to his security, while **Aubrie Jean** felt that same peaceful certainty watching the boy she loved be cared for by women she trusted as sisters.
+
+At seven-thirty sharp, Daniel gathered all nine friends and his older sons and daughters in the center of the basement for the tactical briefing.
+
+"Alright, listen up," Daniel said, his deep voice a calm, authoritative rumble. "We are moving in a three-vehicle convoy. **Caleb**, you're taking your SUV on point with **Owen**, **Sarah**, **Jessica**, and **Jacob**. **Mark**, you have **Hannah**, **Megan**, **Chloe**, and **Lucas** in your sedan—you're holding our six as rear guard. I'll drive the minivan in the center with **Laura** riding shotgun."
+
+Daniel turned his steady gaze to Jordan. "Jordan, you'll ride in the second-row captain's chair of the minivan for maximum security. Who do you want sitting beside you?"
+
+Jordan didn't hesitate for a heartbeat. Facing the prospect of venturing out onto public roads and into Black Friday crowds after Wednesday's unfamiliar-car scare, there was only one person whose touch could quiet the static in his chest. In his mind, the name *"Aubrie"* had split into two opposite poles: one was the source of eighteen years of fear; the other was its antidote.
+
+There was only one Aubrie he wanted beside him, and her name was **Aubrie Jean Kelly**.
+
+<aac>Aubrie,</aac> Jordan tapped softly.
+
+"Right then," Daniel nodded, his eyes softening as he looked at Aubrie Jean. "You're with him in the middle row. **Lauren**, **Madison**, and **Zoë**—you three have the third-row bench so we keep the core unit together. Everybody knows our primary objective: the **Commonwealth Wireless** corporate store at **Strickland Farm Shopping Center** to add Jordan to our family cellular plan and get him a new `mPhone`. Caleb and Owen, you are our eyes in the parking lot. If anyone sees anything out of place, you call it out on **`Jordan Comms`** and we scrub the mission immediately. Everyone clear?"
+
+A chorus of determined *"Yes, sir"*s echoed through the basement, and the convoy filed out through the patio doors into the crisp November morning.
+
+***
+
+Pulling out of the Geneva Street cul-de-sac in a tight three-vehicle line, Daniel reached the intersection where he could either turn right onto the **U.S. 460 Bypass** for a direct five-minute highway run to Strickland Farm Shopping Center, or continue straight onto **U.S. Route 11** and wind through downtown Christiansburg via **Business U.S. 460**.
+
+Without hesitating, Daniel drove straight ahead.
+
+The local thirteen-minute route through town meant stoplights and slower speeds, but it was far less predictable and gave Caleb in front and Mark behind dozens of angles to spot anyone attempting to tail them.
+
+Inside the second row of the minivan, Jordan’s heart hammered against his ribs. Every dark sedan waiting at a cross street made his pulse spike—even though, in reality, any investigator his mother or father's family might have hired was miles away drinking morning coffee, with Geneva Street already a closed report.
+
+Jordan didn't know that yet. All he knew was the primal reflex of eighteen years in a cage. His right hand trembled slightly as he reached across the gap between the two captain's chairs.
+
+**Aubrie Jean** met his hand in midair, lacing her warm fingers firmly through his. That was all the invitation Jordan needed. He leaned sideways across the armrest, resting his cheek against her shoulder, and Aubrie immediately wrapped both arms around him, pulling him into a tight, protective embrace right there in his seatbelt. Closing his eyes behind his glasses, Jordan focused on the steady rise and fall of her breathing until his heartbeat slowed to match hers.
+
+Five minutes later, the three vehicles turned into the bustling parking lot of **Strickland Farm Shopping Center** and parked in a defensive triangle near the walkway. Nobody opened a door until Daniel picked up his phone.
+
+"Caleb, Mark—report," Daniel said over the hands-free speaker.
+
+"Negative on any tail, Dad," Caleb’s voice came back clearly. "Had a clean visual in the mirrors the entire way through town. Lot looks completely normal."
+
+"All clear behind us too," Mark confirmed.
+
+A collective exhale swept through the minivan. Daniel turned around in the driver's seat with a satisfied nod. "Alright, team. We're green. Let's go get Jordan a phone."
+
+Outside the sliding door of the van, as soon as Jordan transferred smoothly into his wheelchair, **Sarah** stepped forward and wrapped him in a snug, warm hug that seemed to block out the noise of the cold parking lot—taking the first turn in the day's anchor rotation.
+
+"I've got him," Sarah smiled, taking her place at the handles of his wheelchair as the multi-layered unit walked through the glass doors of the **Commonwealth Wireless** store.
+
+While Mark, Caleb, Owen, and Jessica stood casually near the front display windows keeping watch over the entrance, Daniel stepped straight up to the counter.
+
+"Good morning," Daniel said warmly to the store representative. "We'd like to add a new line to our family plan today."
+
+What followed was a seamless display of family teamwork. While Daniel handled the account authorization and billing paperwork—refusing to hear a word about reimbursement—**Hannah** and **Madison** brought Jordan over to the live display wall of `mPhone` handsets. Jordan’s eyes settled on a sleek, **midnight-blue `mPhone`**, the simple act of choosing his own color and device feeling monumental.
+
+"You definitely need a military-grade drop-rated case for that," **Zoë** noted immediately, pulling up impact-test specifications on her own screen and pointing him toward a slim, high-grip charcoal shell.
+
+"And don't forget headphones!" **Megan** chimed in warmly.
+
+Her brother **Owen** tapped a glowing display pedestal beside them. "Jordan, if you're getting a new `mPhone`, you've gotta get the **`mPods Pro`**. The active noise cancellation on these is unreal—it'll cut dorm and lecture-hall noise down to zero."
+
+Ten seconds later, Zoë’s sister **Chloe** appeared holding a compact white box. "And you'll want this too," she smiled, showing Jordan a high-wattage dual USB-C wall adapter. "Two ports on one brick—one cable for your `mPhone` and one for your `mPods Pro`."
+
+In less than fifteen minutes, the activation was complete. The wireless associate handed the freshly provisioned midnight-blue `mPhone`—displaying five full bars of **`Commonwealth LTE`** at the top of the glass—directly into Jordan’s hands.
+
+Daniel smiled warmly as he signed the digital pad on the counter. "Welcome to the Brooks family plan, son."
+
+Rolling back out onto the sunlit sidewalk in the crisp November air, Jordan looked down at the gleaming dark-blue phone in his palms—a device his mother didn't know existed, carrying a phone number that belonged solely to the people he loved, and permanently erasing the dead **`No Service`** banner she had inflicted on him in October.
+
+A surge of pure exhilaration bubbled up in his chest. Looking up at Daniel, Laura, and the ring of smiling faces around his chair, Jordan tapped out an eager line on his new screen:
+
+<aac>That was actually really fun! Can we try one more store while we're out?</aac>
+
+A brief flicker of tactical caution crossed Daniel’s face as he glanced across the busy shopping plaza—their primary objective was complete—but one look at the rare, boyish excitement shining behind Jordan’s glasses melted his hesitation on the spot.
+
+"Alright," Daniel agreed, his voice firm but smiling. "One more stop, and we stay on high alert. And I already know our objective: **Blue Tech** across the plaza. I noticed yesterday that your old laptop was straining under your coursework software—we are getting you a proper machine for your astrophysics major."
+
+As they loaded back into the minivan for the short drive across the sprawling shopping center toward the big-box electronics superstore, **Madison** hopped cheerfully toward the middle row.
+
+"My turn!" Madison grinned, sliding into the captain's chair beside Jordan and wrapping him in a warm hug as the doors slid shut. "Ready for the big leagues, J? Blue Tech on Black Friday is gonna be way wilder than the phone store!"
+
+### Scene 2: The Big Box Gauntlet & Return to Sanctuary
+
+**Date:** 2014-11-28 at 10:15 America/New_York
+
+When the three-car convoy pulled into the packed parking lot outside the massive **Blue Tech** electronics superstore at the far end of the plaza, **Caleb**, **Owen**, and **Mark** executed another thorough perimeter sweep before flashing the thumbs-up.
+
+As Jordan transferred into his wheelchair beside the minivan, **Hannah** stepped forward with a warm smile.
+
+"My turn," Hannah said softly, leaning down to give him a firm, grounding hug before taking the push-handles of his wheelchair. Standing five feet away by the bumper, Mark watched his girlfriend and his best friend with a look of pure, unshadowed pride—while right beside him, **Aubrie Jean** felt that exact same glow of peaceful certainty.
+
+The instant the automatic glass doors of Blue Tech slid open, however, a physical wall of noise and harsh fluorescent glare hit the group square in the face.
+
+Black Friday inside a big-box electronics warehouse was a full-scale sensory gauntlet: dozens of booming demonstration televisions, blaring store-wide announcements, and hundreds of shoppers crowding the main aisles. Jordan’s shoulders tensed instantly in his chair, and beside him, Aubrie Jean went visibly pale as her own sensory volume spiked toward overload.
+
+The family reacted within two seconds.
+
+Zoë’s older sister **Megan** immediately unboxed Jordan’s brand-new **`mPods Pro`**, paired them to his dark-blue `mPhone` with a single tap, and helped him slip the contoured earbuds into his ears—switching on Active Noise Cancellation so the deafening roar of the warehouse dropped immediately to a gentle, muffled hush. At the exact same moment, seeing Aubrie Jean struggling with the crowd noise, **Lauren** stepped in seamlessly to take the wheelchair handles from Hannah, freeing Hannah to drop back half a pace and wrap a steady, comforting arm around Aubrie’s waist.
+
+"Laptops and workstations are in the back-left quadrant," **Daniel Brooks** commanded, leading the wedge formation cleanly through the center aisle while keeping his head on a constant swivel. Halfway down the aisle, Daniel’s shoulders tightened when he spotted a tall man in a contrasting polo shirt seemingly watching their group from the endcap—only for Daniel to let out a quiet breath when the man turned around, revealing a **`Blue Tech Repair Squad`** badge embroidered across his shoulder blades.
+
+Reaching the quieter computer workstation bay at the back of the store, **Mark** stepped up to the display counter and took point.
+
+"Alright, Jordan, let's find you an absolute beast of a workstation," Mark grinned, his eyes scanning the specification placards before stopping in front of a sleek brushed-aluminum notebook with a backlit mechanical-feel keyboard. "Right here. The brand-new **`Pinnacle Precisionist 5000`**. Quad-core workstation processor, sixteen gigs of RAM, dedicated discrete graphics card for your 3D stellar-cartography models, and a matte anti-glare screen."
+
+Mark’s eyes dropped to the bottom line of the specification tag, and he winced slightly. "Ah, shoot."
+
+Jordan tilted his head and tapped his phone screen:
+
+<aac>What's wrong with it?</aac>
+
+"The hardware is a ten out of ten, but out of the box it ships with **`Quantum OS 8.1 Home`**," Mark explained. "For the astrophysics modeling packages and encrypted campus network tunnels you're running—and especially if you ever need CPI's central IT desk to remote-diagnose anything—you really want **`Quantum OS 8.1 Pro`**. It has full drive-level encryption and remote desktop architecture built right in."
+
+Seeing Jordan’s expression dip slightly, Mark’s eyes suddenly lit up. "Hang on—stay right here for thirty seconds."
+
+Mark Jogged one aisle over toward the software and license-key racks and returned moments later holding a crisp retail activation card.
+
+"Boom," Mark beamed, holding up the **`Quantum OS 8.1 Home-to-Pro Upgrade Pack`**. "Found the last one on the peg."
+
+An associate unlocked the security cage and carried a factory-sealed **`Pinnacle Precisionist 5000`** up to the dedicated workstation checkout register, where Daniel already had his credit card in hand. Just as the cashier scanned the laptop box, however, Mark stepped up beside Daniel and set the `Quantum OS 8.1 Pro` upgrade card on the counter himself, pulling his own debit card from his wallet.
+
+"I've got this part, Mr. Brooks," Mark said firmly. He turned to Jordan with a warm, brotherly grin. "Consider the Pro upgrade my welcome-to-the-family gift, Jordan. I want you running the cleanest, most secure setup on campus."
+
+It was far more than a hundred-dollar software license key. Coming from Hannah’s boyfriend, it was a tangible, unmistakable declaration: *I am so secure in my relationship with Hannah, and I love having you in our lives so much, that I am personally investing in your independence.*
+
+Understanding the weight of the young man’s gesture immediately, Daniel simply nodded at Mark with deep, man-to-man respect.
+
+Back out at the minivan, once the doors slid shut and the climate control warmed the cabin, the anchor rotation shifted again.
+
+"My turn," **Zoë** said softly, sliding into the second-row captain's chair beside Jordan. Observing the subtle sensory fatigue around his eyes from the big-box store, she immediately unzipped the supply pack at her feet. "Your caloric expenditure after a high-stimulus environment like Blue Tech will be elevated, even if it isn't quite noon yet. Eat this."
+
+She handed him a chocolate-chip granola bar and an uncapped bottle of water, and Jordan took both with a grateful smile, leaning his shoulder against hers.
+
+As the three-car convoy pulled out of Strickland Farm Shopping Center onto the highway approach, Jordan caught sight of the towering illuminated marquee for the **New River Valley Mall** across the interchange. A small, curious part of him—the boy who had never once been allowed to wander a mall with teenage friends—wondered what it looked like inside. Yet the thought was immediately outweighed by how tired his nervous system felt after Blue Tech. More than anything, he wanted the quiet safety of Room 214 in *The Old Lady*—or the next best thing on earth: the warm basement on Geneva Street.
+
+With both missions accomplished, Daniel prioritized speed over evasion, taking the direct five-minute highway hop back toward Christiansburg.
+
+As the three vehicles turned onto the quiet cul-de-sac of **Geneva Street**, however, **Caleb**’s voice suddenly crackled over the **`Jordan Comms`** audio channel:
+
+"Hold up, Dad—unfamiliar vehicle parked at the curb right in front of the Millers' house next door. Silver crossover SUV."
+
+Instantly, the family’s drill kicked in without a single wasted motion. As the doors opened in the Brooks driveway, Mark, Caleb, Owen, Lucas, Jacob, and Jessica formed a tight, shoulder-to-shoulder visual screen between the street and the minivan, shielding Jordan completely from view as Daniel and Lauren guided his wheelchair swiftly around the side flagstone path and down the grassy slope to the walk-out basement.
+
+Just as the sliding glass door clicked locked behind all seventeen of them, Laura’s phone chimed and she burst out in a relieved laugh, holding up her screen:
+
+> **`Susan Miller [11:18]:`** <sms>Thanks, Laura!! Yes, that's our brand-new silver SUV out front—Bob and I just drove it off the lot at the Black Friday dealership sale!</sms>
+
+A collective, tension-breaking laugh rippled across the entire basement. They were completely safe.
+
+Even so, as the morning’s adrenaline finally drained out of Jordan’s bloodstream, it left his hands shaky and his chest tight with lingering overstimulation. Across the carpet, he saw Hannah curled up contentedly against Mark’s chest on their corner mattress, and then his eyes found **Lauren**.
+
+He didn't have to type a single word.
+
+Reading his face instantly, Lauren crossed the carpet, knelt directly in front of his wheelchair, and pulled him into a deep, steady, grounding hug.
+
+"It's okay, J," Lauren whispered against his ear, her hands rubbing slow circles across his shoulder blades. "You're safe now. We're home. That store was a lot, but you did so well."
+
+Once Jordan’s breathing was deep and even again, the excitement of the morning returned in full force: it was time to unbox the beast.
+
+Pulling a folding table up beside Jordan’s chair, **Mark** cracked the factory seal on the **`Pinnacle Precisionist 5000`** with the reverence of a master mechanic. For the next hour, sitting shoulder-to-shoulder with Jordan, Mark ran the `Quantum OS 8.1 Pro` upgrade key, migrated Jordan’s licensed `EchoType` voice profile and custom hotkeys over from his `Vanguard Pro` tablet, installed his university astrophysics suites, and systematically purged every trace of pre-installed factory bloatware.
+
+"See this third-party trial antivirus pop-up?" Mark said, uninstalling it cleanly with three clicks. "Total garbage that hogs your CPU cycles. Built-in `Quantum Defender` on OS 8.1 Pro is rock-solid—all you ever need, as long as you don't go clicking sketchy links claiming to be from a Nigerian prince or your bank."
+
+By one o'clock, the `Pinnacle Precisionist 5000` was a whisper-quiet, lightning-fast powerhouse tailored to Jordan’s exact fingertips. Operation Black Friday was a total triumph.
+
+### Scene 3: Truth or Dare & The Serious Talk
+
+**Date:** 2014-11-28 at 20:00 America/New_York
+
+By eight o'clock on Friday evening, after a leftover turkey-sandwich dinner and hours of testing out their Black Friday haul, the nine friends were sprawled across the basement carpet in a state of happy, well-fed exhaustion—with zero classes, zero homework, and two full days of holiday still stretching ahead of them.
+
+"Okay, I am officially too tired to walk upstairs, but way too hyped up to go to sleep," **Madison** announced, propping herself up on her elbows on the center air mattress. "Which means this is a once-in-a-lifetime opportunity for a massive basement game of **Truth or Dare**!"
+
+Laughing, all nine of them arranged themselves into a big circle around the carpeted space between the mattresses, the air buzzing with playful Friday-night energy.
+
+"Alright, **Mark**—truth or dare?" Madison kicked off, wiggling her eyebrows.
+
+"Dare, obviously," Mark shot back with a grin.
+
+"I dare you to stand up right now and cut a full sixty-second **Dr. Destruction** wrestling promo about how you're going to conquer the Brooks family refrigerator."
+
+Mark didn't miss a beat. Jumping to his feet, he puffed out his chest, lowered his chin, and launched into a hilariously over-the-top, gravel-voiced arena monologue—pointing a menacing finger toward the kitchenette mini-fridge and roaring that *"every shelf, every crisper drawer, and every last container of cranberry relish will feel the wrath of Destruction!"*—leaving the entire circle howling with laughter.
+
+Catching his breath, Mark pointed across the circle. "**Zoë**! Truth or dare?"
+
+"Dare," Zoë replied calmly, a tiny, competitive glint flickering behind her glasses.
+
+"I dare you to stand up and deliver the official rebuttal promo—*as the refrigerator*—answering Dr. Destruction's challenge."
+
+Without a trace of hesitation, Zoë rose to her feet, squared her shoulders, and in a unexpectedly booming, deadpan announcer cadence, delivered a blistering counter-promo about the *"sub-zero thermal efficiency,"* *"ice-cold fury,"* and *"unyielding Freon power"* of the Kitchenette Elite, promising that Dr. Destruction’s championship reign was about to be *"permanently put on ice and stored at thirty-seven degrees Fahrenheit."*
+
+The performance was so unexpectedly brilliant that **Sarah**, **Jessica**, and **Hannah** were wiping away actual tears of laughter.
+
+Sitting back down and smoothing her sweater, Zoë turned her analytical gaze to her left. "**Lauren**, truth or dare?"
+
+"Truth!" Lauren said, feeling brave.
+
+"Statistically and empirically speaking," Zoë asked with deadpan precision, "who is a superior kisser: your former boyfriend, or Jordan?"
+
+A loud chorus of *"Ooooooh!"* echoed around the basement circle.
+
+Lauren blushed a brilliant shade of crimson from her collarbones to the tips of her ears, but she looked straight at Jordan and answered without a millisecond of hesitation:
+
+"Jordan. Not even a contest."
+
+Now it was Lauren’s turn, and as Jordan smiled warmly behind his glasses, Lauren turned her sparkling eyes toward **Aubrie Jean**.
+
+"Okay, Aubrie! Truth or dare?"
+
+"Dare!" Aubrie laughed.
+
+"I dare you," Lauren said with playful mischief, "to describe your absolute dream first date... with Jordan."
+
+Aubrie’s cheeks bloomed rosy pink, but she leaned happily into the prompt, her fingers brushing Jordan’s knee. "Well," she began dreamily, "it would start with a quiet candlelight dinner somewhere cozy where nobody's rushing us... and then we'd go up to the rooftop observatory on a crystal-clear night to look at the Orion Nebula... and when we got back to our room, it definitely wouldn't end with just a kiss on the cheek..."
+
+A soft chorus of cheers and whistles went around the circle—and then, as the turn passed to Aubrie Jean, a sudden, boundary-pushing glint of reckless excitement flickered in her eyes as she scanned the circle, clearly formulating a dare designed to ratchet the game up to a whole new level of intimacy.
+
+Before Aubrie could open her mouth to speak the first word, however, **Hannah** held up both hands across the circle, cutting her off in mid-breath.
+
+"Whoa, whoa, hold the phone right there, missy!" Hannah said with a warm, playful, yet unmistakably firm laugh,wagging a finger at Aubrie. "I know that look in your eye, Aubrie Jean Kelly. I don't know what dare is about to come out of your mouth, but I have a strong feeling we're all much better off pausing the game right here and putting on a movie instead!"
+
+Aubrie’s face flushed deep scarlet, and she immediately put her hands to her cheeks in an exaggerated pose of wide-eyed innocence—*"Who, me?"*—that fooled nobody in the room except Jordan, who tilted his head in mild confusion at the sudden pivot.
+
+The rest of the circle let out a wave of relieved laughter, immediately gravitating toward the movie shelf while Mark and Madison queued up the projector.
+
+As the others debated which DVD to put in, Hannah stepped quietly over to Jordan’s wheelchair and Aubrie’s side, her expression gentle, loving, and serious.
+
+"Hey, you two," Hannah murmured softly so only they could hear. "Can I talk to the two of you for just a minute? In private?"
+
+Curiosity flickering across his face, Jordan nodded and guided his wheelchair alongside Hannah and Aubrie down the short basement hallway into Daniel’s quiet, soundproofed downstairs study, closing the heavy oak door behind them.
+
+Inside the quiet study, the playful party atmosphere vanished, replaced by gentle, unguarded honesty.
+
+"Aubrie, be completely honest with me—no judgment at all," Hannah began softly, sitting on the edge of the leather armchair so she was level with both of them. "What were you about to dare somebody to do out there?"
+
+Aubrie looked down at her socked feet, her cheeks burning with genuine embarrassment. "I was... I was going to dare Madison to strip," she admitted in a small voice.
+
+The unspoken domino chain hung clearly in the quiet air between the three of them: once the game crossed into stripping, Madison’s turn would have come next, and in the heady, boundary-blurring rush of the circle, a dare pushing Jordan and Aubrie to go all the way—either right there or within a few turns—would have been almost inevitable.
+
+Hannah nodded slowly, her intuition confirmed. Then she turned her warm, steady gaze to Jordan.
+
+"And Jordan," Hannah asked gently, "what would you have done if the game had kept escalating and someone had dared the two of you to do that—to have sex—because of a dare?"
+
+Jordan looked at Hannah, and his hands moved across his keyboard with simple, devastating honesty:
+
+<aac>I would have done it. I trust you guys.</aac>
+
+Hannah’s heart squeezed hard in her chest. It was the exact answer she had been afraid of.
+
+She leaned forward and rested one warm hand over Jordan’s wrist and the other over Aubrie’s knee, her voice soft with love but rock-solid with conviction.
+
+"I know you trust us, Jordan. And *that* is why it scared me," Hannah said gently. "We all love you with everything we have—and because we are the first people in your life who have ever treated you with real love, you trust us so completely that you might say yes to something in the middle of a silly party game before you're actually ready for it. A first time—something that monumental and intimate—should be special, and private, and a deliberate choice made purely between you and the person you're with when you both want it with your whole hearts. Never because someone dared you to in a game. That wouldn't be fair to you, J. We could end up hurting you without ever meaning to."
+
+Beside Jordan’s chair, a look of dawning horror washed across **Aubrie Jean**’s face.
+
+Caught up in the giddy warmth of their holiday and the thrill of feeling safe together, she hadn't thought two steps ahead to the consequences. With a sickening jolt in her stomach, she realized she had come within seconds of letting the social momentum of a game pressure the boy she loved—a boy who had spent eighteen years having every choice made for him—into a life-changing threshold.
+
+Tears sprang into Aubrie’s eyes, and she reached out to take Jordan’s hand, her voice trembling. "Hannah's completely right. Jordan, I am so, so sorry. I wasn't thinking at all."
+
+Jordan squeezed Aubrie’s fingers gently, letting her know he wasn't angry, while Hannah wrapped an arm warmly around Aubrie’s shoulders.
+
+"I'm not mad at you, Aubrie—not even a little bit," Hannah reassured her softly. "None of us has ever had a family like this before, and we're figuring it out as we go. We just have to be extra careful. We have to protect Jordan—and each other—even from our own impulsive ideas sometimes."
+
+Hannah pulled both Jordan and Aubrie into a tight, three-way hug in the quiet study—and as they held onto one another, all three of them knew that this conversation needed to include the rest of their circle before the movie started.
+
+### Scene 4: The Family Charter
+
+**Date:** 2014-11-28 at 21:00 America/New_York
+
+When **Hannah**, **Jordan**, and **Aubrie Jean** emerged from the downstairs study back into the main basement living area, the lighthearted chatter around the DVD stack quieted immediately. **Madison**, **Zoë**, **Lauren**, **Mark**, **Sarah**, and **Jessica** could tell from their faces that something important had just taken place.
+
+"Everybody," Hannah said calmly, keeping a supportive arm around Aubrie’s shoulders as Jordan wheeled back into the center of the circle. "Pause the movie setup for a few minutes and sit down with us. All nine of us need to talk."
+
+Instantly, the others set down the remote controls and gathered around on the edges of the mattresses, giving Hannah their complete, serious attention.
+
+"A few minutes ago," Hannah began evenly, "I stopped Truth or Dare because I was worried about where the momentum of the game was heading. And when the three of us just talked in the study, we realized I was right to be worried."
+
+She glanced at Aubrie, who gave a small, brave nod of permission for her to continue.
+
+"Aubrie was about to dare Madison to strip," Hannah explained without an ounce of blame in her voice. "And we all know how fast a game like that escalates once clothes start coming off. So I asked Jordan what he would have done if the game had escalated to someone daring him and Aubrie to go all the way. And Jordan told us the truth: because he trusts the eight of us with his life, he would have gone along with any dare we gave him, even if it was something he wasn't truly ready for."
+
+A wave of sober, profound understanding rippled across the basement. Nobody looked judgmentally at Aubrie; instead, every single person in the circle felt the sobering weight of how easily their own carefree enthusiasm could have inadvertently pressured the person they had sworn to protect.
+
+"This is on all nine of us," **Zoë** said, her voice unusually quiet and earnest as she adjusted her glasses. "Our family dynamic—the shared care, the physical closeness, the cuddle rotations—is deeply unconventional. Because there is no standard social script for what we have built, we cannot rely on unspoken assumptions. A system without explicit safeguards will eventually experience a boundary failure. We need a formal framework. We need a constitution."
+
+Everyone looked toward the center of the circle as Jordan’s hands moved across the keyboard of his brand-new `Precisionist 5000` on his lap tray. When he pressed execute, his synthesized voice seemed to carry more quiet authority than they had ever heard from him before—no longer just someone being protected, but an equal architect of their shared life:
+
+<aac>Zoë's right. We need rules so everyone stays safe.</aac>
+
+And so, at nine o'clock on Black Friday night in the basement on Geneva Street, instead of immediately pressing play on a comedy, the nine of them held their first **Constitutional Convention**.
+
+With Zoë opening a fresh encrypted document on her laptop like a seasoned parliamentary secretary, they collaboratively drafted, debated, and ratified the three unbreakable foundational articles of their **Family Charter**:
+
+1. **Article I — The Safe Word (`"Red"`)**: A single, unmistakable safe word—**"Red"**—that any member of the family could speak aloud, whisper, or type into `EchoType` or **`Jordan Comms`** at any time, in any setting, to immediately halt any physical, emotional, or social activity. Zero hesitation, zero defensiveness, and zero questions asked.
+2. **Article II — The Consent Clause**: Every form of romantic or intimate escalation within the family had to be a *"deliberate, enthusiastic, unhurried, and private choice"* between the people involved—never initiated through party games, dares, alcohol, or group momentum.
+3. **Article III — The Hannah Veto**: By unanimous vote of the other eight members, in recognition of her emotional wisdom, level-headedness, and protective instincts, **Hannah** was formally vested with an official **Family Veto**. If she ever judged that a situation, game, or plan was becoming unhealthy, overwhelming, or unsafe for Jordan or any member of the circle, her word was binding law.
+
+The thirty-minute convention didn't end in awkwardness or lingering guilt. It ended in a profound, palpable wave of relief and unity. They had looked straight at a structural vulnerability in their unconventional family, talked about it with total honesty, and engineered a stronger, safer foundation in its place.
+
+"Constitution ratified and saved to our shared encrypted folder," Zoë announced with a warm, satisfied nod, closing her laptop lid. "Now—I believe we were promised a movie."
+
+"Cue up *The Goon Docks Gang*!" Madison cheered, hitting the dimmer switch on the floor lamp.
+
+As all nine of them piled onto the plush queen air mattresses with bowls of popcorn to watch the classic adventure comedy projected across the basement wall, the atmosphere in the room felt lighter, deeper, and more unshakably secure than ever before. They weren't just a college friend group anymore; they were a family with a charter—a tangible, ratified covenant to protect one another’s hearts as fiercely as they protected Jordan from the outside world.
+
+Later that night, after the closing credits rolled and the others were brushing their teeth or settling under their quilts, **Mark** caught **Hannah** by the kitchenette counter and drew her into a quiet embrace.
+
+"Hey," Mark whispered softly against her hair. "Is everything really okay?"
+
+Hannah looked up into her boyfriend’s warm brown eyes, her heart overflowing with love for this gentle giant of a man. "Everything is more than okay now," she whispered back. "We just built the guardrails we needed to make sure we're always taking care of him—and taking care of each other."
+
+Mark nodded slowly, his voice thick with respect and admiration as he kissed her forehead. "Good," he murmured. "You did the right thing tonight, Han. You always do."
+
+## Chapter 25
+
+### Scene 1: Return to The Old Lady & The Reunion
+
+**Date:** 2014-11-30 at 16:00 America/New_York
+
+The Sunday afternoon after Thanksgiving was crisp, bright, and bracingly cool.
+
+Right at four o'clock—the exact hour the campus residence halls officially reopened for the final two weeks of the fall semester—**Daniel Brooks** pulled his minivan up to the curb outside the second-floor Washington Street SW entrance of Bennett Hall, with **Mark**’s sedan pulling in right behind him. As the nine friends stepped out into the late-afternoon sunshine and began unloading their suitcases and duffel bags, their easy laughter echoed across the stone courtyard. After five days in the warm sanctuary of Geneva Street, they were rested, glowing, and more united than ever.
+
+As Daniel and Mark helped Jordan transfer smoothly from the second-row captain's chair of the minivan into his wheelchair on the brick walkway, a lone figure walking down the campus path from Pendleton Library froze dead in his tracks thirty feet away.
+
+It was **Tom Lawson**.
+
+Tom stood rooted to the concrete, his mind visibly struggling to process the scene unfolding in front of him.
+
+Standing right beside the minivan was **Lauren**, her cheeks rosy in the November breeze, looking happier, lighter, and more profoundly at peace than Tom had ever seen her during their entire relationship. Right next to her, laughing effortlessly as she handed a backpack to **Jessica** and **Madison**, was **Sarah**—*his* Sarah. Both of his ex-girlfriends were standing side by side, thriving inside this inseparable, joyful nine-person circle. And sitting right at the center of it all—the sun around which all of them happily orbited—was **Jordan**.
+
+A wave of bitter, incredulous resentment twisted across Tom’s face.
+
+Jordan saw him immediately.
+
+The old Jordan—the boy who had arrived at Bennett Hall in August—would have flinched, stared down at his lap tray, and tried to make himself invisible.
+
+The Jordan who had just returned from Thanksgiving on Geneva Street was not the same person who had left.
+
+Jordan met Tom’s stare squarely across the brick walkway, his gaze behind his glasses calm, steady, and completely unafraid. Then, with quiet, deliberate grace, Jordan turned his head toward **Lauren**, who was adjusting the strap of his laptop bag across the back of his chair.
+
+He tapped a single soft chime on his new dark-blue `mPhone`:
+
+<aac>Lauren.</aac>
+
+Lauren looked down at him, and Jordan leaned forward, capturing her lips in a gentle, confident kiss. She responded instantly, her fingers brushing his cheek with a soft, radiant smile as they parted.
+
+Next, Jordan turned to **Sarah**, who was standing on the left side of his wheelchair. He didn't even need to speak; he simply looked up into her eyes with warm invitation, and Sarah, understanding completely, leaned down and kissed him—a tender, unhurried gesture of shared healing and new beginnings.
+
+Finally, Jordan turned to **Aubrie Jean**. This kiss was longer and deeper—a quiet, unmistakable declaration of the profound love that anchored their entire family.
+
+After kissing all three women in the golden afternoon light, Jordan turned his head and looked straight back across the walkway into Tom Lawson’s eyes.
+
+There was no gloating on Jordan’s face. No malice. Only pure, unshakable peace—a silent message delivered with devastating clarity: *They are with me. They are happy. They are safe from you. And you have zero power over any of us ever again.*
+
+Tom stood frozen for three seconds, utterly defeated. He couldn't comprehend a single fraction of what he had just witnessed—the open affection, the complete absence of jealousy on Aubrie’s or Mark’s faces, the genuine radiance shining from Lauren and Sarah. It was a world that refused to operate by his petty rules of ownership and control. With nothing left to say and no leverage left to wield, Tom spun around and hurried away down the hill, a bitter ghost fading permanently into the background.
+
+Madison watched him disappear around the corner of the library and let out a deeply satisfied sigh. "Well," she grinned, hoisting her duffel bag onto her shoulder. "Something tells me he won't be bothering any of us ever again."
+
+***
+
+While Daniel and Laura went to park the minivan in the visitor lot before coming up to the suite, Jordan led the nine friends toward the second-floor entrance of *The Old Lady*.
+
+From the moment they had pulled onto campus ten minutes ago, there was someone inside Bennett Hall whom Jordan had been eagerly waiting to see.
+
+As Mark swiped his keycard and the heavy exterior doors swung open into the warm second-floor lobby and residential corridor, Jordan’s eyes immediately swept down the hallway toward **Room 215** and the floor check-in table—actively looking for **Isabel Dawson**.
+
+Halfway down the corridor, standing beside a folding table stacked with post-break check-in rosters after returning from **Charlottesville** earlier that afternoon, stood Isabel—talking with **Henry Walsh** and **Kelsey Brennan**.
+
+The instant Jordan spotted Isabel in her maroon CPI Residence Life fleece, a huge, delighted grin broke across his face. Leaving his rolling suitcase with Mark and Hannah by the foyer, Jordan pushed his rims briskly down the linoleum straight toward her, opening both arms wide before he was even ten feet away.
+
+Isabel looked up from her clipboard, and her entire face lit up like sunrise.
+
+"Jordan!!" Isabel beamed, setting her clipboard straight down on the table and stepping out to meet him. "You're back!"
+
+Without a second’s hesitation, Isabel knelt down beside his wheelchair in the hallway and wrapped both arms around his shoulders in a warm, tight welcome-back hug.
+
+Jordan hugged her back with all his heart, his chest overflowing with happiness at seeing his favorite CPI staffer again. When they eased back so he could reach his lap tray, his fingers flew across the keys:
+
+<aac>I missed you, Isabel! I'm so happy to see you! How was Thanksgiving in Charlottesville with your parents and Elena?</aac>
+
+"It was so wonderful, Jordan—Elena made me promise to tell you hi!" Isabel laughed warmly, giving his shoulder an affectionate squeeze. "And seeing Kelsey's message on Wednesday morning about how you guys completely outsmarted your mom made my whole week!"
+
+Right beside her, **Henry Walsh** stepped forward with a massive grin and held out his hand for a solid fist bump, while **Kelsey Brennan** smiled warmly at Jordan across the check-in table.
+
+"Welcome back to The Old Lady, Jordan!" Henry said happily. "The second floor wasn't the same without Suite 214 holding down the fort."
+
+"Welcome home, Jordan," Kelsey added warmly. "I hope you and the whole group had a wonderful, peaceful break on Geneva Street."
+
+<aac>It was the best holiday I've ever had,</aac> Jordan typed, looking from Isabel to Henry to Kelsey with a glowing smile. <aac>And thank you guys for Wednesday morning. Knowing the three of you are here makes Bennett Hall feel like the safest place on earth.</aac>
+
+Looking at Isabel’s radiant smile, Henry’s steady warmth, and Kelsey’s calm authority right there in the second-floor corridor—after knowing that Aubrie Sinclair hadn't even been able to get a single foot inside the exterior doors on Wednesday morning—Jordan felt a deep, bone-solid certainty settle into his chest: **the three of them had Bennett Hall locked down tight**.
+
+***
+
+Ten minutes later, inside Suite 214/216, the energy was electric as the nine friends unzipped their bags and began discussing the upcoming three-week **Winter Break**, which was now less than two weeks away. Until today, their working backup plan had been to pool their savings and book a multi-room suite at an extended-stay hotel so Jordan wouldn't have to be anywhere near Virginia Beach.
+
+Right in the middle of the discussion, **Zoë** cleared her throat—her posture straightening into her formal executive-briefing stance, which immediately quieted the room.
+
+"Everyone," Zoë announced calmly. "I have a major logistical update regarding our Winter Break operational plan. As of this morning, I have officially terminated all research into extended-stay hotels. The hotel plan is scrapped."
+
+A wave of startled alarm rippled across the room.
+
+"Scrapped?!" Lauren sat bolt upright on the edge of the bed. "Zoë, what do you mean scrapped? What about Jordan?"
+
+"Yeah, Zoë, what gives?!" Madison demanded, her protective instincts flaring instantly. "We promised Jordan he'd never have to go back to his mother's house! That was the whole point!"
+
+Zoë held up a calm hand, a rare, triumphant smile tugging at the corners of her mouth.
+
+"The hotel plan is canceled because there has been a major strategic upgrade," Zoë said. "My parents just parked in the visitor lot and are waiting down at the first-floor entrance. Give me ninety seconds to sign them in and bring them up—they wanted to tell you in person."
+
+Two minutes later, Zoë stepped back through the open door of Room 214 holding it wide for **Daniel and Laura Brooks**, who walked in with glowing, expectant smiles.
+
+"We decided this part of the briefing was much better delivered face-to-face," Daniel said, his eyes twinkling as he and Laura looked around the crowded dorm room at their extended family.
+
+"Zoë is quite right," Laura said gently, her gaze warm and full of love. "The hotel plan for Winter Break is off—first, because all of you are coming right back home to Geneva Street for the entire three weeks of Winter Break. And second... because we have an even bigger offer for the future."
+
+Daniel took a deep breath, a huge, proud smile spreading across his face as he looked directly at Jordan.
+
+"Your mum and I have been thinking about our next chapter for a while now," Daniel explained. "Our house on Geneva Street has been wonderful, and it's going to be our home base for the next year—in fact, I already have an engineering crew coming out to survey the backyard slope for a permanent wheelchair ramp before Christmas. But with all seven of our children nearly grown, we wanted enough acreage to build something permanent for the whole family."
+
+Daniel rested a warm hand on the back of Jordan’s chair.
+
+"Last week, Laura and I officially closed on a large parcel of rural land just off **U.S. Route 11** between Christiansburg and Radford," Daniel announced. "We are working with an architect right now to design and build a brand-new family compound from the ground up—complete with a dedicated, 100% barrier-free family wing designed specifically for Jordan and all nine of you, for the rest of your college years and beyond."
+
+For three full seconds, Room 214 was dead silent.
+
+Then the room erupted into an explosion of happy tears, cheers, and disbelief.
+
+"Are you serious?! Our own wing in a custom house?!" Madison shrieked, launching herself across the rug to hug Laura around the neck.
+
+Jordan sat in his wheelchair, his throat too tight for words and his eyes shining behind his glasses as **Hannah** and **Sarah** wrapped their arms around his shoulders from either side and **Aubrie Jean** squeezed his hand. Looking up at Daniel’s proud, fatherly smile and catching Zoë’s triumphant wink across the room, Jordan realized the truth: his Winter Break wasn't going to be spent hiding in a sterile hotel room. He had a home—and a family that was literally building their future around him from the ground up.
+
+### Scene 2: Spring Semester Planning & A Semester in Motion
+
+**Date:** 2014-12-01 at 19:00 America/New_York
+
+On Monday evening after their return from Thanksgiving, an official university-wide bulletin from the Office of the Registrar landed in every student inbox on campus: **`Spring Semester 2015 Course Registration Is Now Open`**.
+
+Within ten minutes, Suite 214/216 transformed into a high-efficiency academic command center. Nine laptops were flipped open across the desks, beds, and braided rug, and **Zoë** took point at the whiteboard with her spreadsheets already cross-indexed.
+
+"Alright, people," Zoë announced crisply. "**Operation Spring Schedule** is officially underway. Let's optimize our credit blocks."
+
+Her primary objective was building a shared core schedule across the entire nine-person family. "Based on my audit of everyone's degree-progress reports," Zoë stated, "all nine of us still require our second-semester composition and quantitative reasoning courses—**`ENGLISH 102`** and **`MATH 112`**—and none of us has yet satisfied the university's three-credit Historical Inquiry requirement."
+
+She tapped her screen and projected a course code onto the monitor. "There is a main lecture section of **`HISTORY 115: History of Ancient Rome`** on Tuesdays and Thursdays at eleven o'clock in McBryde Hall with forty-two open seats and full wheelchair-tier seating on the main aisle. I propose all nine of us enroll simultaneously."
+
+On Zoë’s three-count, nine trackpads clicked in unison, locking in `HISTORY 115`, `ENGLISH 102`, and `MATH 112` as a shared academic spine for the entire group.
+
+With the general-education core secured, the room’s focus turned to Jordan and **Aubrie Jean**’s major tracks.
+
+Sitting at his desk in front of his new **`Pinnacle Precisionist 5000`**, Jordan stared at the upper-level Astrophysics course listings, and a quiet knot of apprehension tightened in his stomach. Even with the triumph of Thanksgiving behind them and the promise of Winter Break on Geneva Street ahead, he knew his mother wasn't someone who accepted defeat gracefully forever.
+
+He turned his screen slightly so only Aubrie Jean, sitting right beside him, could read the quiet line he typed:
+
+<aac>I don't know how I'm going to keep my focus in four different buildings next semester if I'm worrying about what she might try next.</aac>
+
+Aubrie Jean looked at him, her hazel eyes warm, fierce, and completely unwavering.
+
+"You're not doing a single class alone, Jordan," Aubrie said softly, her tone leaving zero room for debate. She slid her laptop directly against the edge of his `Precisionist 5000`. "We have the exact same Astrophysics major. We are taking every single class together. All of them."
+
+It wasn't merely a comforting promise; it was a tactical blueprint.
+
+Side by side, Jordan and Aubrie mapped out an identical fifteen-credit curriculum. They selected the exact same lecture and laboratory sections for **`PHYSICS 102: University Physics II — Electricity & Magnetism`**, the same **`ASTR 204: Observational Astrophysics & Stellar Spectroscopy`** lab, the same literature seminar, and an introductory Planetary Geology elective that caught both of their eyes. On the count of three, they clicked **`Register`** at the exact same second.
+
+Jordan looked from his screen to Aubrie’s, staring at two identical timetables. It was a semester engineered so that he would never have to roll into a lecture hall alone, never have to wait outside a laboratory by himself, and never have to face an unfamiliar crowd without his safe person right beside him—a fortress built out of course numbers and lab benches.
+
+***
+
+Over the next week, the final stretch of classes between Thanksgiving and finals week settled into a joyful, high-efficiency rhythm.
+
+With his new midnight-blue `mPhone` on the **Brooks Family Plan** providing uninterrupted 4G LTE coverage across every square foot of Blacksburg, Jordan was never cut off between campus WiFi routers anymore. And as a result, the **`Jordan Comms`** group chat—originally born as an emergency workaround after his mother cut his phone line in October—evolved into the vibrant, real-time bloodstream of their twelve-person network (`the nine friends plus Isabel, Henry, and Kelsey`), overflowing with study check-ins, astronomy jokes, dining-hall reviews, and terrible memes from **Madison**.
+
+In fact, the chat became so lively that on Wednesday evening, after an important handoff message from **Lauren** outside the chemistry building was nearly buried beneath a twelve-photo thread of campus squirrels posted by Madison, **Zoë** called a brief procedural order.
+
+"We have a signal-to-noise ratio inefficiency in **`Jordan Comms`**," Zoë announced from her desk. "While I appreciate the photographic documentation of sciurids on the Drillfield, critical operational messages cannot be scrolled past. Effective immediately, any message pertaining to a Buddy System handoff, location change, or time-sensitive schedule update must begin with the prefix tag **`[LOGISTICS]`** in all capital letters."
+
+The protocol was adopted unanimously and worked like magic:
+
+> **`Mark [Thu 14:05]:`** <sms>[LOGISTICS] Mark signing on. With Jordan on the 3rd floor of Pendleton Library working on our psychology paper.</sms><br>
+> **`Aubrie [Fri 11:50]:`** <sms>[LOGISTICS] Aubrie signing off after Astronomy lab! Handoff to Zoë complete outside Davidson Hall.</sms><br>
+> **`Zoë [Fri 11:52]:`** <sms>[LOGISTICS] Zoë signing on. Grabbing hot cider with Jordan at The Daily Grind, then heading back up the hill to Bennett Hall for our calculus review.</sms><br>
+> **`Isabel [Fri 11:54]:`** <sms>Copy that, Zoë! Henry and I are at the second-floor desk—see you two in twenty! ☕</sms>
+
+Inside the quiet third floor of Pendleton Library and across the laboratories of CPI, Jordan’s mind was free to pour 100% of its energy into his coursework for the first time in his life—and his grades soared accordingly. His days were no longer about surviving his mother’s shadow; they were about living, learning, and laughing in the heart of a family that never missed a beat.
+
+### Scene 3: A Double Birthday Conspiracy
+
+**Date:** 2014-12-03 at 20:30 America/New_York
+
+It was a quiet Wednesday evening in the first week of December, right in the calm lull before final exams began.
+
+Inside Room 214, the warm desk lamps cast a cozy glow across the cinderblock walls as the group worked on their end-of-semester study guides. At the twin desks along the wall, Jordan and **Aubrie Jean** sat shoulder-to-shoulder with their heads bent over a shared star-chart atlas and Jordan’s new `Pinnacle Precisionist 5000`, quietly quizzing each other on Hertzsprung–Russell main-sequence luminosity classes.
+
+Up on the top bunk across the room, **Madison** was lying on her stomach in her fuzzy socks, lazily tapping dates into the calendar app on her `mPhone`—when she suddenly bolted upright so fast she nearly bumped her head on the ceiling tiles.
+
+"No. Way," Madison gasped, staring down at her glowing screen in stunned disbelief. "No freaking way!"
+
+**Hannah**, who was highlighting flashcards on the braided rug beside **Mark**, looked up in surprise. "What is it, Mads?"
+
+"Okay, either this is the single wildest statistical coincidence in the history of Commonwealth Polytechnic Institute, or you two were literally forged in the same nebula," Madison declared, pointing her phone dramatically across the room at Jordan and Aubrie Jean. "I was just syncing everybody's contact cards from our study roster into my birthday calendar so we don't miss anyone this year, and... **you two have the exact same birthday. December twenty-first.** Both of you!"
+
+A stunned, delighted silence fell over Room 214 as everyone processed the revelation.
+
+At the desk, Jordan and Aubrie Jean turned to look at each other, their eyes wide behind their lashes with shared astonishment. Over the past three and a half months, they had talked about everything under the heavens—supernovae, orbital mechanics, their deepest childhood fears, and their dreams for the future—yet somehow the simple calendar date of their birthdays had never once come up. Both of them had been born on the **Winter Solstice—December 21, 1995**—the longest night of the year, and the exact astronomical turning point when the light begins to return.
+
+"Wait—December twenty-first is right in the middle of Winter Break while we're all staying at Zoë's house!" **Lauren** exclaimed, her face lighting up.
+
+"Okay, that settles it," Madison announced, scrambling down the bunk ladder with her eyes already sparkling with scheming intensity, before lowering her voice as she looked warmly at Jordan. "We are doing something huge. A real, proper birthday celebration. You've never had a real birthday party with friends in your whole life, have you, J?"
+
+Jordan shook his head slowly, a shy, touched smile forming on his lips. In Virginia Beach, December twenty-first had never been anything more than another sterile, isolated day on the calendar.
+
+"Well, those days are officially over," **Sarah** smiled warmly from the armchair beside **Jessica**. "You both deserve the best nineteenth birthday on earth."
+
+Ten minutes later, while Jordan and Aubrie Jean were deeply absorbed in calculating binary-star orbital periods at the desk with their noise-canceling headphones on, **Zoë** exchanged a quiet, tactical nod with Hannah and Madison and pulled out her `mPhone`.
+
+> **`Zoë [Wed 20:48]:`** <sms>[LOGISTICS] Urgent, non-emergency operational planning matter for Daniel & Laura Brooks. Mark, Sarah, and Jessica are here with us in the suite. Are you two free for a five-minute encrypted video call from Room 216?</sms><br>
+> **`Daniel Brooks [Wed 20:49]:`** <sms>Go right ahead, Zoë. Your mum and I are in the kitchen with our tea.</sms>
+
+Slipping quietly through the connecting bathroom door into **Room 216** and pulling it shut so the two birthday kids in Room 214 wouldn't overhear a word, the seven co-conspirators—**Madison, Zoë, Hannah, Lauren, Mark, Sarah, and Jessica**—huddled around Zoë’s laptop on Lauren’s bed as **Daniel and Laura Brooks**’s smiling faces appeared on the screen.
+
+"Okay, Mr. and Mrs. Brooks," Madison stage-whispered excitedly into the microphone, "we just discovered the coolest thing ever: Jordan and Aubrie Jean have the exact same birthday—**December twenty-first**! And since we'll all be with you on Geneva Street for Winter Break, we want to throw them a real surprise double birthday party! Jordan's never had a birthday party in his life!"
+
+On the laptop screen, **Laura Brooks** put her hands to her cheeks, her eyes immediately shining with happy tears.
+
+"Oh, that is the most wonderful idea I have ever heard!" Laura beamed. "Of course we will! We can host a special mid-day birthday feast right in the middle of the afternoon so the whole house is full of sunshine and light for them—and I will order the most magnificent custom cake in Christiansburg!"
+
+"It HAS to be astronomy-themed!" Lauren whispered eagerly. "Dark blue galaxy frosting with constellations and the Winter Solstice!"
+
+"And we can coordinate gifts so nobody duplicates anything," Zoë added, already opening a shared spreadsheet tab.
+
+"Consider it done," **Daniel Brooks** said, his deep voice warm with a father’s pride. "Laura and I will handle the cake, the decorations, and the feast on our end. You seven just focus on acing your final exams and getting them both home to Geneva Street on December twelfth."
+
+When the video call clicked off in Room 216, the seven co-conspirators looked around the circle at one another, a shared, electric secret humming between them. In less than three weeks, on the longest night of the year, Jordan Fuller and Aubrie Jean Kelly were going to celebrate the first real birthday party of Jordan’s life—surrounded by the family they had built together.
+
+### Scene 4: A Preventable Crisis & The Final Exam
+
+**Date:** 2014-12-06 at 18:00 America/New_York
+
+The smooth, joyful rhythm of their pre-finals week was shattered on Saturday evening, December 6, right as the campus began gearing up for the start of final exams.
+
+It had started innocuously enough on Friday night with Jordan mentioning a scratchy throat and a dull ache behind his eyes. At first, everyone assumed it was nothing more than a mild December head cold brought on by chilly winds across the Drillfield and late-night review sessions.
+
+By Saturday evening, however, it was unmistakable that this was no ordinary cold.
+
+Within twelve hours, the symptoms had exploded into a full-blown, body-rattling illness. Sitting propped up against his pillows in Room 214, Jordan was burning up with a high fever, shivering uncontrollably beneath two quilts, and right around six o'clock, a violent wave of nausea left him retching into a basin held steady by **Lauren** and **Aubrie Jean**.
+
+In the **`Jordan Comms`** group chat, Lauren’s urgent message lit up every phone at once:
+
+> **`Lauren [Sat 18:12]:`** <sms>Guys, Jordan's fever just spiked to 102.4 and he just got sick again. He's shaking like a leaf. I don't think this is a normal cold at all.</sms>
+
+Across the bathroom in Room 216, **Zoë** reacted within ten seconds—instituting a brand-new emergency tier in their communication architecture:
+
+> **`Zoë [Sat 18:13]:`** <sms>This is now an active clinical situation. Effective immediately, any health emergency or vital-sign update uses the prefix tag [MEDICAL] in all caps so it overrides all other traffic. [MEDICAL] Jordan's fever is 102.4°F with acute emesis. I am calling the 24-hour CPI Student Health Nurse Practitioner rapid-response line right now for an on-site dorm evaluation.</sms><br>
+> **`Isabel [Sat 18:14]:`** <sms>[MEDICAL] Henry and I are on duty right across the hall. Tell the Student Health nurse we'll meet her at the lower Bennett Hall doors with the elevator held on override so she can come straight up to Room 214!</sms>
+
+Forty minutes later, escorted straight from the lower entrance by **Isabel Dawson** and **Henry Walsh**, **Nurse Practitioner Evelyn Vance** from the CPI Student Health Center stepped into Room 214 carrying her clinical diagnostic kit and an encrypted university medical tablet.
+
+Calm, gentle, and thoroughly seasoned, Nurse Vance took Jordan’s temperature, checked his blood oxygen and pulse, swabbed his throat for a rapid assay, and listened carefully to his lungs with her stethoscope while Aubrie Jean held his fever-hot hand.
+
+"Well, Jordan, the good news is your lungs are clear of pneumonia, so we don't need to admit you to the hospital tonight," Nurse Vance said kindly, setting her thermometer back in its case. "The bad news is that you have caught a particularly nasty case of the **Influenza A** strain that's sweeping through the residence halls right now, and it is hitting your immune system like a freight train. Let me pull up your incoming student health file on my tablet real quick..."
+
+She tapped her stylus across the screen, scrolling through the mandatory pre-matriculation health records submitted to the university back in July. Suddenly, her brow furrowed deeply.
+
+"Wait a minute... that's odd," Nurse Vance murmured, adjusting her reading glasses as she stared at the screen. "According to your immunization registry, Jordan, you have a blanket exemption waiver on file for almost every standard childhood and adolescent vaccination—including the annual influenza vaccine, MMR, Tdap, and meningococcal. Do you have a history of severe anaphylactic allergies to vaccine components that we need to be aware of before I prescribe your antivirals?"
+
+Propped against his pillows with a cool washcloth over his forehead, Jordan blinked blearily behind his glasses and looked at the nurse practitioner in total confusion. Weakly, he reached for his `mPhone` on the blanket and tapped out an honest answer:
+
+<aac>I don't know what that means. What is an immunization exemption?</aac>
+
+The room went dead silent.
+
+Beside the bed, **Zoë**, **Lauren**, **Hannah**, and **Aubrie Jean** froze, exchanging horrified glances—while Nurse Vance’s clinical expression softened instantly into dawning, compassionate understanding. With twenty years of college health experience under her belt, she realized in a heartbeat that she wasn't just treating a case of the flu; she was uncovering another layer of lifelong medical control.
+
+"An immunization—or a vaccine, Jordan—is a protective shot that doctors give to children and teenagers to train their immune systems to recognize and fight off dangerous viruses and bacteria before they ever get exposed," Nurse Vance explained gently, keeping her voice warm and free of judgment. "Every student attending CPI is required by Virginia law to have them, unless a parent files a special legal exemption waiver claiming a medical or philosophical objection. Your file has a signed exemption blocking every single vaccine—which is why your body has zero prior immunity to fight off this flu strain tonight. Do you know why your mother might have signed those waivers?"
+
+Sitting against his pillows with his chest aching and his skin burning with a `102.4°F` fever, the puzzle pieces of eighteen years clicked together in Jordan’s mind with sickening clarity.
+
+The mysterious clipboards his mother had always snatched away from nurses and signed herself at pediatric offices. The days in elementary and middle school when he had been rolled into the empty library while the rest of his class lined up at the school nurse’s office. The terrifying bouts of preventable childhood fevers that his mother had used as "proof" that his body was too fragile and broken to ever survive in the outside world without her total control.
+
+It hadn't been bad luck. It hadn't been a weak constitution.
+
+His mother had deliberately left his immune system completely unshielded his entire life—and had hidden the very existence of vaccines from him so he could never ask for them.
+
+Inside Jordan’s fever-weary chest, his confusion hardened into a core of cold, unbreakable steel.
+
+Looking Nurse Vance squarely in the eye, Jordan steadied his trembling fingers on his screen and typed a declaration that rang through the quiet room like a gavel coming down:
+
+<aac>There is no medical reason that I know of. My mother never told me vaccines existed. I am eighteen years old, and I hereby revoke her exemption waiver. As soon as I recover from this flu, I want the shots. All of them. Put me on a catch-up schedule for every single immunization unless a doctor finds a real medical reason not to.</aac>
+
+Around his bed, Hannah wiped a tear of fierce pride from her cheek, while Nurse Vance smiled with deep, unmistakable respect.
+
+"I am logging your adult revocation of the waiver into your permanent medical chart right now, Jordan," Nurse Vance said warmly, tapping her tablet and signing it with her stylus. "Starting in January when you return from Winter Break, we will set you up with a customized adult catch-up immunization schedule right at Student Health. First, though, let's get you started on Tamiflu, anti-nausea medication, and fever reducers so we can get you through finals week."
+
+***
+
+The next five days inside Suite 214/216 were a masterclass in round-the-clock love and tactical caregiving.
+
+With all eight of his friends—and **Isabel** checking in from across the hall with extra electrolyte packets and thermometer covers—donning surgical masks and running a meticulously scheduled nursing and academic-ferry rotation, Jordan never spent a single minute alone. While he rested, hydrated, and fought off the virus in Room 214, **Aubrie Jean** and **Zoë** coordinated directly with his professors and the **CPI Office of Services for Students with Disabilities**, proctoring his early exams remotely and scheduling his final exam of the semester—**`ASTR 101: Introduction to Astrophysics`**—for the Friday morning testing window.
+
+On Thursday morning, December 11, Jordan’s fever finally broke for good.
+
+He woke up feeling washed-out and ten pounds lighter, his muscles sore from five days of fighting a virus his mother had left him defenseless against—but his head was crystal clear, and his spirit was undefeated. Even his own immune system belonged to him now.
+
+At nine o'clock on **Friday morning, December 12**—the final day of Fall Semester before Winter Break—Jordan bundled up in his warm charcoal sweater and maroon CPI scarf, ready for his last mission of 2014.
+
+With **Hannah** serving as his designated buddy for the morning run, the two of them rolled out of Bennett Hall into the bright, cold December sunshine and crossed the brick paths of campus to the **CPI Testing Center**.
+
+Outside the automatic glass doors of the Testing Center—the handoff point where Jordan would roll into the quiet proctored testing room on his own—Jordan set his wheel locks, turned to look up at Hannah, and opened his arms for their pre-exam ritual hug.
+
+"You've got this in the bag, J," Hannah smiled warmly, leaning down to wrap him in a firm, grounding embrace. "Go show those stars who's boss. I'll be sitting right on that bench in the lobby with hot cocoa the second you finish, and then all nine of us are heading straight to Geneva Street for three whole weeks of Winter Break!"
+
+Jordan beamed behind his glasses, gave her a confident nod, and released his brakes, rolling smoothly through the automatic doors toward his final exam as Hannah pulled out her `mPhone` and sent the triumphant closing dispatch of their first semester:
+
+> **`Hannah [Fri 09:22]:`** <sms>[LOGISTICS] He's here and looking strong! Just dropped Jordan off at the Testing Center for his final Astronomy exam! Next stop after this: Winter Break on Geneva Street!!</sms>
+
 # A New Winter Break Tradition
 
 ## A Winter Wonderland in the Basement
@@ -6684,11 +7784,11 @@ Jordan smiled back—a peaceful, unburdened smile that didn't need a single word
 
 **Date:** 2014-12-12 at 19:30 America/New_York
 
-The Group of 8 returned to the Brooks residence in Christiansburg not as temporary holiday guests, but as family coming home for the three-week Winter Break. Daniel and Laura welcomed them at the door with open arms, and as the group headed down into the walk-out basement, it was immediately clear that the familiar sanctuary had been upgraded for a long-term stay. The inflatable air mattresses from Thanksgiving were gone, replaced by four sturdy, foldable queen-sized bed frames already set up and made with crisp, fresh linens.
+The nine friends returned to the Brooks residence in Christiansburg that Friday evening not as temporary holiday guests, but as family coming home for the three-week Winter Break. Daniel and Laura welcomed them at the door with open arms, and as the group headed down into the walk-out basement, it was immediately clear that the familiar sanctuary had been upgraded for a long-term stay. The inflatable air mattresses from Thanksgiving were gone, replaced by four sturdy, foldable queen-sized bed frames already set up and made with crisp, fresh linens alongside the wide pull-out sectional sleeper.
 
 "Your mother and I decided we could do considerably better than air mattresses for a three-week break," Daniel announced warmly, gesturing across the room. "Especially since this is going to be home base for all of you."
 
-The basement had been transformed into a cozy, bustling fortress. The four queen beds filled so much of the bedroom footprint that the dressers had been arranged along the main basement living area, and the interior closet door had been unhinged and removed to widen the turning radius for Jordan's wheelchair. It was undeniably snug, but to the eight of them, it was paradise.
+The basement had been transformed into a cozy, bustling fortress. The four queen beds and the open sleeper filled so much of the bedroom footprint that the dressers had been arranged along the main basement living area, and the interior closet door had been unhinged and removed to widen the turning radius for Jordan's wheelchair. It was undeniably snug, but to the nine of them, it was paradise.
 
 Once everyone had unloaded their duffel bags, Daniel walked Jordan over to the wide sliding glass doors at the back of the basement.
 
@@ -6704,9 +7804,9 @@ The entire group looked out at the ribboned stakes in the December dusk—a phys
 
 A slow, knowing smile spread across Daniel's face. "That is an excellent question, Jordan. And it brings us directly to the second upgrade."
 
-He led the group over to the large oak coffee table and unrolled a thick tube of architectural blueprints, anchoring the four curling corners with heavy ceramic coffee mugs. The Group of 8 gathered around the table, their eyes widening as they took in the elevation drawings and floor plans for a sprawling, multi-story estate.
+He led the group over to the large oak coffee table and unrolled a thick tube of architectural blueprints, anchoring the four curling corners with heavy ceramic coffee mugs. All nine friends gathered around the table, their eyes widening as they took in the elevation drawings and floor plans for a sprawling, multi-story estate.
 
-"This is why," Daniel said, tapping the title block of the blueprint. "A custom build of this scale—a compound big enough for our family, all eight of you, and the families you'll all have one day—doesn't happen overnight. The architects estimate construction out on U.S. Route 11 will take at least a year, possibly fourteen months. For the next year, Geneva Street is home. And we are going to make sure it functions as a true, barrier-free home for every single one of you."
+"This is why," Daniel said, tapping the title block of the blueprint. "A custom build of this scale—a compound big enough for our family, all nine of you, and the families you'll all have one day—doesn't happen overnight. The architects estimate construction out on U.S. Route 11 will take at least a year, possibly fourteen months. For the next year, Geneva Street is home. And we are going to make sure it functions as a true, barrier-free home for every single one of you."
 
 Jordan looked from the surveyor's stakes outside the glass—promising immediate independence—back to the blueprints spread across the coffee table, promising a future he had never once dared to imagine. It was the most profound act of love he had ever witnessed.
 
