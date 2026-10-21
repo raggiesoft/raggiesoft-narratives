@@ -5154,7 +5154,117 @@ Down on the first floor in the Residence Director's apartment office, Kelsey mus
 
 Isabel read Kelsey's reply twice, a quiet warmth settling into her chest as she closed her laptop lid. Across the narrow hallway behind the locked oak door of Room 214, she could hear the faint, gentle murmur of her residents talking over mugs of hot cocoa. Smiling softly to herself, Isabel turned off her desk lamp.
 
-### Scene 5: The Nightly Pact
+### Scene 5: Interlude: The Bureaucratic Firewall
+
+**Date:** 2014-09-19 at 20:35 America/New_York
+
+Down on the first floor of Bennett Hall, **Kelsey Brennan** had just taken a sip of lukewarm herbal tea after replying to **Isabel Dawson**’s confidential message when her desktop monitor chimed with a high-priority system alert from the **CPI Environmental Health & Safety (`EHS`) Residential Portal**.
+
+Kelsey frowned and clicked the notification banner.
+
+During **Health and Safety Week**, while EHS field specialists walked the campus quads with stopwatches, the central EHS Operations Desk over in the Facilities Annex stayed staffed until ten o'clock at night to audit incoming dormitory drill telemetry in real time. Tonight, the analyst on the evening desk was **Arthur Pendelton**—a newly promoted *EHS Fire & Life Safety Compliance Analyst* who lived entirely inside pivot tables and had never worked a single day in student affairs, disability services, or trauma-informed housing.
+
+Having never stood on the Washington Street lawn to watch the evacuation in person, Pendelton had just pulled up Isabel’s Floor 2 report (`02:14` elapsed time versus the historical `01:15` ground-level Floor 2 baseline) and seen that Kelsey had counter-signed the `+00:50` **`OEA-ADA-COMM`** mitigating factor less than three minutes after submission.
+
+To Pendelton’s rigid, box-checking mind, the numbers smelled like a cover-up. Why would a ground-level corridor take fifty-nine seconds longer than historical baseline? Why would a college student need *fifty seconds* of "in-room visual verification" to understand what a 100-decibel fire horn meant? And why did the door-timer log mention multiple residents assisting a single manual wheelchair? Convinced that Bennett Hall was harboring some unauthorized secret inside Suite 214/216—and eager to score a compliance catch during his first Health and Safety Week on the desk—Pendelton had just flagged Floor 2's report with an administrative hold and fired off a formal inquiry, copying both the **Office of Housing & Residence Life** and the **Office of Educational Accessibility (`OEA`)**:
+
+> **To:** Kelsey Brennan, Residence Director (Bennett Hall)<br>
+> **Cc:** Dr. Marcus Sterling, Director of Housing & Residence Life; Ms. Eleanor Higgins, Director of the Office of Educational Accessibility (OEA)<br>
+> **From:** Arthur Pendelton, Fire & Life Safety Compliance Analyst (Environmental Health & Safety)<br>
+> **Subject:** NOTICE OF SECONDARY COMPLIANCE INQUIRY — BLDG-014 Floor 2 Egress Variance (`+00:59` Over Baseline)
+>
+> Ms. Brennan,
+>
+> Upon real-time audit of tonight’s Beginning-of-Semester Health & Safety Week drill log for Bennett Hall (`BLDG-014`), I am placing a temporary compliance hold on Floor 2’s clearance certification (`02:14` vs. `01:15` historical Floor 2 baseline).
+>
+> While total building evacuation (`02:48`) met the three-minute threshold, the explanation entered by RA Isabel Dawson for Suite 214/216—and counter-signed by your office within three minutes—raises significant procedural anomalies:
+>
+> 1. **Unverified In-Room Delay (`+00:50`):** A 100-dB audible horn and high-candela ADA xenon strobe require immediate evacuation, not a 50-second in-room reading exercise. Claiming a matriculated university student required nearly a full minute of visual persuasion to cross an open threshold suggests either behavioral non-compliance or an undisclosed cognitive/psychological impairment incompatible with independent dormitory living.
+> 2. **Multi-Resident Door Timer Cycling:** The report notes that the 10-second `PUSH TO OPEN` actuator cycled three times during "multi-resident assisted wheelchair egress." Please clarify how many individuals are occupying or congregating inside Suite 214/216 and why multiple students were required to move a single manual chair across a level threshold.
+> 3. **Mandatory Follow-Up Inspection:** Prior to clearing `BLDG-014` for the Fall semester, EHS requests the full name and specific accommodation profile of the resident in Room 214, along with scheduling access on Monday morning (`09/22`) for an EHS compliance analyst to conduct an in-room egress interview and timed individual door-clearance test with the student.
+>
+> — **Arthur Pendelton**  
+> Fire & Life Safety Compliance Analyst, CPI Environmental Health & Safety
+
+Kelsey stared at the screen. For three full seconds, she was so angry she couldn't breathe.
+
+*An in-room egress interview and timed individual door-clearance test.*
+
+She thought of eighteen-year-old Jordan Fuller—the non-verbal honors freshman whose mother had dumped him in Room 214 on move-in day without unpacking a single box and walked out in under two minutes. She thought of what Isabel had just confided to her ten minutes ago: Jordan screaming in raw, visceral terror and locking both hands onto his desk because an unlocked door made him believe someone was waiting outside to snatch him away.
+
+And now some petty desk drone with a spreadsheet wanted to march into Jordan’s bedroom—the very first sanctuary where that boy had ever felt safe—and interrogate him about why he was afraid of an open door.
+
+*Over my dead body,* Kelsey thought.
+
+Before her fingers even finished hitting **Reply All**, her encrypted Cisco desk phone rang. Looking at the caller ID display, she saw a three-way administrative bridge already initiated by **Ms. Eleanor Higgins**, Director of the Office of Educational Accessibility (`OEA`), with **Dr. Marcus Sterling**, Director of Housing & Residence Life, on the second line.
+
+Kelsey snatched up the receiver. "Eleanor. Marcus. Tell me you both just saw what landed in my inbox."
+
+"I'm looking at it right now, Kelsey," Ms. Higgins said, her normally warm, grandmotherly voice honed to surgical steel. "And I am currently drafting a statutory preemption notice that is going to make Mr. Pendelton wish he had never learned how to open an email client."
+
+"Same here from Housing," Dr. Sterling rumbled grimly on the second line. "I'm still at my desk monitoring the West Campus Health and Safety Week logs. Who on earth does this analyst think he is, demanding a resident's identity and trying to barge into a private dorm suite?"
+
+"He thinks Bennett Hall is harboring a secret on Floor 2," Kelsey said, her voice steady and fierce as she leaned over her desk. "And here is the truth between the three of us: I don't know the whole story of what Jordan Fuller went through before he arrived at CPI. Neither do his suitemates, and neither does Isabel. When the alarm unlocked his door tonight, he didn't panic because of the noise—he panicked because he was terrified of leaving a locked room. Taking what I witnessed with his mother on move-in morning together with what Isabel saw tonight, it Doesn't take a psychologist to realize that young man is almost certainly surviving severe domestic control and trauma."
+
+The line was dead silent with immediate, grave understanding from both directors.
+
+"Room 214—and those suitemates who signed our Housing consent agreement to share that suite with him—are the first real safety net Jordan has ever had," Kelsey continued firmly. "And he just scored a one hundred and five percent on his first Astrophysics exam today. We cannot—and will *not*—divulge a single word of what we suspect about his past, and we are sure as hell not letting an EHS bureaucrat march into his room and force him to explain his trauma to justify a fifty-second pause that didn't even slow down the building. Until and unless Jordan Fuller is ready to tell his story on his own terms, to the people he chooses to tell it to, nobody touches that door."
+
+"Amen to that," Dr. Sterling said without hesitation. "Housing authorized Suite 214/216's living arrangement in writing on Week One. How six suitemates coordinate their caregiving inside their own home is none of EHS's business."
+
+"And code `OEA-ADA-COMM` belongs to my office, not his," Ms. Higgins added sharply. "Under Title II of the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and FERPA, an EHS analyst demanding a disabled student's clinical profile or subjecting him to a singled-out 'timed door test' is textbook federal disability harassment. Leave the reply to Marcus and me, Kelsey—and we are copying **Chief Robert Callahan**, the Director of EHS, directly on the header."
+
+Four minutes later, at `20:46`, the joint response from OEA, Housing & Residence Life, and the Bennett Hall Director hit the thread like an orbital strike:
+
+> **To:** Arthur Pendelton, Fire & Life Safety Compliance Analyst (EHS)<br>
+> **Cc:** Chief Robert Callahan, Director of Environmental Health & Safety; Dr. Marcus Sterling, Director of Housing & Residence Life; Kelsey Brennan, Residence Director (Bennett Hall)<br>
+> **From:** Eleanor Higgins, M.Ed., Director of the Office of Educational Accessibility (OEA)<br>
+> **Subject:** Re: NOTICE OF SECONDARY COMPLIANCE INQUIRY — STATUTORY PREEMPTION & CEASE DIRECTIVE (`BLDG-014`)
+>
+> Mr. Pendelton,
+>
+> Please be advised that your temporary compliance hold on `BLDG-014` (Bennett Hall, Floor 2) is **administratively void**, and your request for resident identification, clinical justification, and an in-room inspection of Suite 214/216 is **denied in its entirety** under federal law and university governance:
+>
+> 1. **Zero Life-Safety Deficiency:** Per verified on-site EHS stopwatch telemetry, `BLDG-014` (`Floors 1–6`) achieved complete evacuation in **`02:48`** (12 seconds under the `03:00` statutory maximum). Floor 2 (`02:14`) cleared the exterior threshold **34 seconds prior** to the upper residential floors clearing the stairwells. Suite 214/216 added **zero (`0.00`) seconds** to total building clearance.
+> 2. **Federal Statutory Preemption (`ADA Title II` / `Section 504` / `FERPA`):** Mitigating Factor Code **`OEA-ADA-COMM`** is a federally protected accommodation designation verified and sealed by the Office of Educational Accessibility. Neither EHS nor any non-clinical facility unit has statutory authority to demand a student's underlying medical, neurological, or personal history, nor to second-guess an OEA-approved visual communication protocol executed by trained Residence Life staff.
+> 3. **Authorized Suite Configuration:** The occupancy and peer-assisted egress structure of Suite 214/216 is formally registered and approved by the Director of Housing & Residence Life.
+> 4. **Mandatory No-Contact Directive:** Effective immediately, **no EHS personnel may approach, contact, interview, or conduct individualized timed testing upon any resident of Suite 214/216.** Any attempt to enter Room 214/216 or single out its residents for secondary questioning will be referred immediately to University Legal Counsel and the Title II / Section 504 Civil Rights Compliance Officer as unlawful disability harassment.
+>
+> Chief Callahan: please confirm removal of the portal flag on `BLDG-014` at your earliest convenience.
+>
+> — **Eleanor Higgins, M.Ed.**  
+> Director, Office of Educational Accessibility (OEA)  
+> *Co-Signed: Dr. Marcus Sterling (Director of Housing & Residence Life) & Kelsey Brennan, M.S. (Residence Director, Bennett Hall)*
+
+Kelsey didn't even have to wait five minutes for the dust to settle.
+
+At `20:51`, **Chief Robert Callahan**, the thirty-year veteran fire chief who headed CPI Environmental Health & Safety and had worked closely with Kelsey and OEA for years, replied-all from his university mobile device:
+
+> **To:** Eleanor Higgins, Director (OEA); Dr. Marcus Sterling, Director (Housing & Residence Life); Kelsey Brennan, Residence Director (Bennett Hall)<br>
+> **Cc:** Arthur Pendelton (EHS)<br>
+> **From:** Chief Robert Callahan, Director of Environmental Health & Safety<br>
+> **Subject:** Re: NOTICE OF SECONDARY COMPLIANCE INQUIRY — STATUTORY PREEMPTION & CEASE DIRECTIVE (`BLDG-014`)
+>
+> Eleanor, Marcus, Kelsey,
+>
+> Please accept my sincere apologies for the overreach from our evening compliance desk.
+>
+> I have personally overridden the portal hold and certified `BLDG-014` (including Floor 2 at `02:14` under `OEA-ADA-COMM`) as **100% PASS / COMPLIANT** for Fall Health & Safety Week Drill 1. Please also pass along my commendation to **RA Isabel Dawson** and **RA Henry Walsh**—using a visual drill verification protocol to assist an OEA-accommodated resident while still clearing the floor 34 seconds ahead of the upper stairwells is textbook life-safety leadership.
+>
+> Our compliance desk staff will receive a mandatory refresher on OEA/FERPA jurisdictional boundaries on Monday morning, and Suite 214/216 will not be contacted or disturbed in any way.
+>
+> — **Chief Robert Callahan**  
+> Director, CPI Environmental Health & Safety
+
+Over in the Facilities Annex, Arthur Pendelton stared at his monitor with burning ears as his hold flag vanished from the system and his boss’s public reprimand sat permanently in the administrative archive. Bruised and petty, he closed the Bennett Hall window with a sharp click of his mouse—privately telling himself that when the second unannounced Health and Safety Week drill rolled around in December before Final Exams, Floor 2 wouldn't have "beginning-of-semester confusion" to hide behind.
+
+Back in her first-floor office in Bennett Hall, Kelsey Brennan let out a long, satisfied breath, closed the EHS portal, and glanced up toward the ceiling where Room 214 sat directly above the front lobby.
+
+Upstairs, Jordan Fuller and his friends were drinking hot chocolate and getting ready for the weekend—completely unaware that an institutional storm had just broken against the walls of *The Old Lady on the Hill* and shattered without ever touching them.
+
+And as far as Kelsey Brennan was concerned, that was the exact way it was going to stay.
+
+### Scene 6: The Nightly Pact
 
 **Date:** 2014-09-19 at 21:00 America/New_York
 
@@ -5244,7 +5354,7 @@ Zoë nodded once, a rare, radiant smile softening her face. "The parameters are 
 
 Madison picked her mug back up off the rug and raised it in a toast. "Best. Suite. Ever."
 
-### Scene 6: The First Night of the Pact
+### Scene 7: The First Night of the Pact
 
 **Date:** 2014-09-19 at 22:30 America/New_York
 
@@ -7867,7 +7977,64 @@ Even exhausted and feverish, Jordan’s eyes flicked worriedly toward the stack 
 
 As Nurse Vance packed up her diagnostic kit with a warm goodbye and the soft amber string lights cast a peaceful glow across Room 214, the fever reducer finally began to loosen the tight ache in Jordan’s shoulders. Surrounded by the quiet, steady hum of his found family setting up their bedside watch, Jordan closed his eyes and drifted off to sleep—ready to rest up, beat the virus, and finish his first college semester strong.
 
-### Scene 6: The Final Exam
+### Scene 6: Interlude: Fifty-Eight Seconds
+
+**Date:** 2014-12-06 at 19:45 America/New_York
+
+Twenty-five minutes after the all-clear sounded across Bennett Hall, **Kelsey Brennan** sat down at her desk in the first-floor Residence Director’s office, unwrapped her wool scarf, and opened the **CPI EHS Residential Fire Safety Portal**.
+
+Upstairs in Room 214, Jordan was tucked safely back into bed with his Tamiflu and fever reducer taking effect, while across the hall in Room 215, **Isabel Dawson** had just uploaded the official **End-of-Semester Health and Safety Week (`Fall Drill 2 of 2`)** sweep log—complete with an attached clinical accompaniment verification digitally co-signed on **Nurse Practitioner Evelyn Vance**’s encrypted Student Health tablet before she departed the building.
+
+Kelsey read through Isabel’s report, a slow, triumphant smile spreading across her face:
+
+> **COMMONWEALTH POLYTECHNIC INSTITUTE**<br>
+> **ENVIRONMENTAL HEALTH & SAFETY (`EHS`) — RESIDENTIAL FIRE DRILL REPORT**
+>
+> - **Building:** Bennett Hall (`BLDG-014` — 6 Floors [Floor 1 Admin / Floors 2–6 Residential], 10 RAs + 1 Hall Director) | **Floor:** 2 (of 6)
+> - **Date / Time of Activation:** Saturday, December 6, 2014 — `19:15:00 EST`
+> - **Drill Type:** Scheduled Fall Drill 2 of 2 — End-of-Semester Health & Safety Week (Unannounced to Residents & Clinical Staff; Mandatory All-Staff & EHS On-Site Supervision)
+> - **Total Building Clearance Time (Floors 1–6):** `02:32` *(Target Threshold: `<= 03:00` — **PASS**)*
+> - **Floor 2 Clearance Time:** **`00:58`** *(Standard Floor 2 Baseline: `01:15` — **`17 SECONDS UNDER BASELINE — ZERO MITIGATING VARIANCE REQUIRED`**)*
+> - **Floor 2 Sweep Officer (Women's/West Wing):** Isabel Dawson, Resident Advisor (Room 215)
+> - **Floor 2 Sweep & Exit Officer (Men's/East Wing):** Henry Walsh, Resident Advisor (Room 201)
+>
+> **FLOOR 2 SWEEP & CLINICAL ACCOMPANIMENT LOG:**
+> - **All Floor 2 Suites (Rooms 201–228, inclusive of ADA Accessible Suite 214/216):** 100% evacuated across the Washington Street SW threshold in **58.0 seconds (`00:58`)**, verified via on-site EHS stopwatch telemetry.
+> - **Clinical Field Note (`Co-Signed: Evelyn Vance, MSN, APRN, FNP-C — CPI Student Health Services`):**
+>   - At the exact moment of unannounced alarm activation (`19:15:00`), NP Vance was conducting an active bedside clinical evaluation inside Room 214 for an OEA-registered mobility/AAC resident presenting with an acute **`102.4°F` Influenza A fever**.
+>   - Because an unannounced alarm must be treated as a potential active structure fire regardless of patient febrile status, NP Vance and the residents of Suite 214/216 immediately executed an emergency bed-to-wheelchair transfer, applied droplet-isolation PPE (surgical mask) and sub-freezing thermal protection (double quilt cocoon), and evacuated the patient across the exterior Washington Street threshold within **48 seconds of alarm onset** (with the full Floor 2 corridor clearing at **`00:58`**).
+>   - Outside on the assembly lawn (`34°F` ambient temperature), the residents of Suite 214/216 and RA Dawson maintained a continuous 360-degree windbreak around the febrile patient until the sixth-floor stairwells cleared at `02:32`. **Zero life-safety deficiencies; exemplary peer and staff execution under acute medical conditions.**
+
+Kelsey clicked **Counter-Sign & Certify** with a flourish—and just for good measure, she glanced at the live portal audit trail.
+
+Across campus in the Facilities Annex, **Arthur Pendelton**—the EHS compliance analyst who back in September had tried to slap an administrative hold on Bennett Hall and pry into Jordan’s private life under the delusion that Floor 2 was "harboring a compliance liability"—was once again working the Saturday evening Health and Safety Week desk.
+
+All week long, Pendelton had quietly kept `BLDG-014` bookmarked on his secondary monitor, privately convinced that when the unannounced December drill hit on a freezing Saturday night before Final Exams, Suite 214/216 would lag past two minutes again and vindicate his September suspicions.
+
+Instead, as Pendelton refreshed his screen at `19:46`, three things stared back at him in undeniable black and white:
+1. An on-site EHS Fire Safety Specialist’s calibrated stopwatch certifying that all of Floor 2—including Suite 214/216—had cleared the building in **fifty-eight seconds flat (`00:58`)**, beating the historical ground-level baseline by seventeen full seconds and posting the fastest residential floor clearance on West Campus.
+2. A formal clinical co-signature from a twenty-year **CPI Student Health Services Nurse Practitioner** who had been standing right at the bedside when the alarm went off—documenting that the student in Room 214 had been flat on his back with a **`102.4°F` Influenza A fever**, and that he and his suitemates *still* transferred him into his wheelchair, bundled him against thirty-four-degree weather, and beat the clock without asking for a single second of medical exemption.
+3. A green **`CC: Chief Robert Callahan (EHS), Eleanor Higgins (OEA), Dr. Marcus Sterling (Housing)`** header at the top of the record, silently reminding Pendelton of the federal statutory firewall waiting to crush anyone who dared question Room 214 again.
+
+Swallowing hard at his desk, with every last shred of his September conspiracy theory obliterated by fifty-eight seconds of cold, hard stopwatch data, Arthur Pendelton moved his cursor to the status dropdown, clicked **`VERIFIED — EXEMPLARY COMPLIANCE — CASE CLOSED`**, and closed the `BLDG-014` file permanently.
+
+Back in Bennett Hall, Kelsey’s inbox chimed thirty seconds later with a brief, private message from **Eleanor Higgins** over at the Office of Educational Accessibility:
+
+> **To:** Kelsey Brennan, Residence Director (Bennett Hall); Dr. Marcus Sterling, Director of Housing & Residence Life<br>
+> **From:** Eleanor Higgins, M.Ed., Director of the Office of Educational Accessibility (OEA)<br>
+> **Subject:** Bennett Hall Floor 2 — `00:58`
+>
+> Kelsey, Marcus,
+>
+> Fifty-eight seconds out the door in the middle of a `102.4°F` flu exam—and Mr. Pendelton just marked the file *Exemplary Compliance* in under sixty seconds without typing a single syllable.
+>
+> Whatever those young people have built together up in Suite 214/216, it is nothing short of remarkable. Please make sure Jordan has every exam accommodation he needs this week while his fever breaks.
+>
+> — **Eleanor**
+
+Smiling warmly, Kelsey closed her laptop for the night. Not a single private detail of Jordan Fuller’s past had been compromised, not a single bureaucrat had crossed his threshold, and the boy who had once been terrified of an unlocked door had just conquered his second fire drill without a trace of fear.
+
+### Scene 7: The Final Exam
 
 **Date:** 2014-12-12 at 09:00 America/New_York
 
@@ -7922,7 +8089,7 @@ Jordan set his wheel locks, pulled his `mPhone` from his sweater pocket, and tap
 
 As Hannah took the push-handles of his wheelchair and Mark walked proudly at his side as they headed back across **Commonwealth Green** toward **Bennett Hall**, a profound wave of closure washed over Jordan. His first semester at Commonwealth Polytechnic Institute was officially in the books. He had survived abandonment, sensory overload, two fire drills, a dormitory flu outbreak, and his mother's attempts to drag him backward—and he had won on his own terms.
 
-### Scene 7: The First Shot & Goodbye to Henry
+### Scene 8: The First Shot & Goodbye to Henry
 
 **Date:** 2014-12-12 at 13:30 America/New_York
 
@@ -8020,7 +8187,7 @@ Their first, impossibly eventful semester at CPI was over. Together, they had su
 
 They hadn't just survived. They had won.
 
-### Scene 8: Interlude: A Dangerous Idea
+### Scene 9: Interlude: A Dangerous Idea
 
 **Date:** 2014-12-12 at 15:00 America/New_York
 
