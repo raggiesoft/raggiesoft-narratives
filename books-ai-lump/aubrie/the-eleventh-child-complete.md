@@ -8420,12 +8420,7 @@ Before a single ripple of anxiety could take hold, **Daniel Brooks**’s calm, c
 
 "Everyone stay right where you are," Daniel called out smoothly, already descending the steps with a flashlight beam sweeping ahead of him. "We are completely prepared for this. **Zoë**, **Caleb**, you know where the emergency lanterns are stored."
 
-```
-ZOË.Systems.Logs.SystemSchedulerLog:
-[Thread 1 (Self)] Action: Grid power loss detected at 16:32 EST. Initiating Domestic Emergency Protocol (Winter Weather Variant).
-[Thread 2 (Observers)] Execute: Deploying 4x high-lumen Li-ion LED area lanterns from utility closet bay 2.
-12-13-2014 16:32:18
-```
+"On it, Dad," **Zoë** answered without a trace of hesitation, moving with practiced precision toward the utility closet beside **Caleb** to retrieve the four high-lumen lithium-ion lanterns from the second shelf.
 
 Within thirty seconds, four bright, battery-powered LED lanterns clicked on across the room, bathing the basement in a steady, frost-blue glow. Over in the utility corner, Daniel unlatched a heavy-duty, indoor-rated portable kerosene convection heater and sparked the wick. A moment later, the faint, mineral scent of clean kerosene rose as the burner element bloomed into a radiant ring of warm amber-orange light.
 
@@ -8625,15 +8620,7 @@ Jordan pushed his glasses onto his nose, his face flushing crimson with happines
 
 Later that morning, after **Caleb** and **Owen** carried Jordan up the interior staircase and settled him into his wheelchair at the head of the extended oak dining table upstairs, Jordan noticed something intriguing. Usually, special family meals took place in the evening. Today, however, the long table was already set with crisp linens and gleaming silverware, and every blind and curtain across the south-facing dining room and living room windows had been drawn wide open to the brilliant, crystal-clear December sky.
 
-At twelve-fifteen, **Laura** and **Daniel Brooks** emerged from the kitchen carrying steaming serving platters, while **Zoë** stood beside the bay window checking the live astronomical ephemeris readout on her `mPad`.
-
-```
-ZOË.Systems.Logs.SystemSchedulerLog:
-[Thread 1 (Self)] Analysis: Target coordinates 37.1299° N, 80.4089° W (Christiansburg, VA). Date: 2014-12-21 (Northern Winter Solstice; Earth axial tilt -23.44° relative to solar plane).
-[Thread 3 (Jordan)] Hypothesis: Clock noon (12:00 EST) is an arbitrary meridian convention based on 75.0° W. For two Astrophysics majors, celebration must align with True Local Apparent Solar Noon (Upper Culmination).
-[Thread 1 (Self)] Execute: Longitude offset (+5.41° = +21m 38s) + Equation of Time (-1m 49s) = 12:19:49 EST. Peak solar altitude: 29.43° due South (180.0° Azimuth). Commencing Birthday Lunch at 12:20 EST.
-12-21-2014 12:19:45
-```
+At twelve-fifteen, **Laura** and **Daniel Brooks** emerged from the kitchen carrying steaming serving platters, while **Zoë** stood beside the bay window checking the live astronomical ephemeris readout on her `mPad`. Watching the digital clock on her screen tick from `12:19:45` toward `12:20:00 EST`, Zoë gave her father a crisp nod of confirmation.
 
 "Alright, everyone, take your seats!" Daniel announced warmly as all seventeen members of the household gathered around the table. He looked down the length of the sunlit oak table toward Jordan and Aubrie Jean, who were sitting side by side at the head of the table, their hands linked above the tablecloth.
 
