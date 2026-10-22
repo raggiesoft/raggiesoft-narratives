@@ -8444,7 +8444,7 @@ Owen bolted up the interior stairs two at a time. Sixty seconds later, his boots
 
 "Dad, it's the two-story colonial down at the bottom of the cul-de-sac!" Owen reported breathlessly. "There's thick black smoke pouring out of their brick chimney!"
 
-Daniel let out a tense breath—a mix of immediate relief for his own household and grim concern for their neighbors. "A chimney flue fire," he said soberly. "Thank God we don't have a wood-burning fireplace in this house—and that right there is why we never use open-flame candles during a power outage."
+Daniel let out a tense breath—a mix of immediate relief for his own household and grim concern for their neighbors. "A chimney flue fire," he said soberly. "Thankfully we don't have a wood-burning fireplace in this house—and that right there is why we never use open-flame candles during a power outage."
 
 Through the swirling whiteout beyond the patio glass, the group soon spotted the diffused red and blue strobes of Christiansburg Fire Department engines reflecting off the towering snowdrifts at the end of Geneva Street, their sirens muffled to ghostly echoes by the howling wind. All seventeen of them watched quietly until it became clear the fire crews had contained the blaze strictly to the neighbor's chimney flue without flames breaching the roof.
 
@@ -8674,6 +8674,1018 @@ He couldn't think of a single thing to wish for. Everything he had ever dreamed 
 Jordan turned to Aubrie Jean. Without needing a single spoken word, they shared a look of complete, luminous understanding, leaned forward together on the count of three, and blew out all nineteen candles in a single shared breath.
 
 As the dining room erupted into cheers and applause, the last wisps of candle smoke drifted upward into the golden sunbeams pouring through the south windows. For the first time in Jordan Fuller’s life, December 21st was not the darkest day of the year. It was the day his family filled the Winter Solstice with so much light that the shadows had nowhere left to hide.
+
+## The Road to Christmas
+
+### Scene 1: The Mall Gauntlet
+
+**Date:** 2014-12-22 at 10:00 America/New_York
+
+On Monday morning, December 22nd—still riding the warm, golden afterglow of his nineteenth birthday celebration at Solar Noon—**Jordan** wheeled into the center of the basement living area with a brave, determined request already typed into his `Precisionist 5000`.
+
+<aac>I want to go to the shopping mall today,</aac> `EchoType` announced clearly to the room. <aac>A real indoor shopping mall. I have never been inside one, and I want to pick out Christmas presents for all of you by myself.</aac>
+
+The eight friends looked up from their morning coffee and laptops with immediate, enthusiastic grins. For eighteen years in Hampton Roads, Jordan had never once been allowed inside a shopping mall; his mother had always claimed that bringing his wheelchair through retail aisles was "too much of a spectacle" and bought everything online or without him.
+
+Within fifteen minutes, a logistical plan was set in motion. **Daniel Brooks** volunteered to drive the family minivan over to the **New River Valley Mall** on North Franklin Street and park near the main entrance as a quiet, climate-controlled "mobile base camp" in case anyone needed an early extraction, while all nine members of the college crew—Jordan, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—would ride public transit together from the **Falling Branch Park & Ride** as an exercise in independent holiday travel.
+
+As the nine of them rolled and walked down the cleared sidewalk to the Park & Ride lot under a crisp, sunlit December sky, the first bus to pull into the bay was the **Roanoke Valley Transit (`RVT`) Express** coach heading through Christiansburg toward Blacksburg.
+
+Once the driver lowered the hydraulic ramp and Jordan locked his wheels into the forward securement bay, Zoë pulled out her `mPhone` and updated the household channel:
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the group. All 9 of us are aboard the RVT Express at Falling Branch. ETA to New River Valley Mall Christiansburg is 10 minutes.</sms>
+
+Ten minutes later, the coach hissed to a stop at the mall perimeter shelter. The nine friends crossed the plowed parking lot together—and the instant the automatic glass entrance doors slid open, they were hit by a tidal wave of late-December holiday chaos.
+
+Upbeat seasonal music blared from ceiling speakers, battling the echoing roar of a thousand overlapping shopper conversations. Garland and strobing multicolored fairy lights blinked from every storefront display, the air was thick with cinnamon-sugar pretzels and department-store cologne, and the main concourse was a dizzying, wall-to-wall sea of last-minute shoppers carrying oversized bags.
+
+It was far too loud for comfortable spoken conversation—and for Jordan, it made trying to hear `EchoType` in the open corridor nearly impossible. Without missing a beat, the group switched to `[Jordan Comms]` on their phones as a silent tactical intercom while both Jordan and Aubrie Jean slipped high-attenuation foam earplugs into their ears.
+
+<sms>[Jordan Comms — Madison]: OMG look at the line for the mall Santa photo gazebo. It is wrapped all the way past the fountain to the food court!</sms>
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] Good observation. Foot-traffic density is approaching peak capacity. Let's head straight to the food court now and secure a perimeter table before the noon lunch rush hits.</sms>
+
+Flanked by Mark and 6'3" Jessica clearing a wide, effortless lane through the bustling crowd, Jordan rolled into the sprawling mall food court and experienced another life milestone: the dizzying, exhilarating freedom of choosing his own lunch from a dozen illuminated counter menus.
+
+After scanning the options, Jordan wheeled up to the brick-oven pizzeria counter, tapped his order on his keyboard—a giant slice of New York-style pepperoni pizza and a fountain root beer—and reached into his wallet for the prepaid Visa debit card Daniel and Laura had given him to practice personal budgeting.
+
+Sliding the card through the terminal reader himself and taking his receipt with a proud nod, Jordan carried his tray back to their long table. It was just a slice of mall pizza, yet as he took his first hot, cheesy bite surrounded by his eight best friends, it tasted like pure independence.
+
+### Scene 2: The Men's Room & The Sensory Abort
+
+**Date:** 2014-12-22 at 13:15 America/New_York
+
+As they finished clearing their lunch trays in the bustling food court, **Jordan** glanced toward the hallway directory sign and privately caught **Mark**’s eye across the table.
+
+He typed a quiet, direct message on his `Precisionist 5000` angled just toward Mark:
+
+<aac>Mark, I need to use a restroom.</aac>
+
+A quick glance at the mall directory map confirmed what Jordan had already feared: in this older wing of the New River Valley Mall, there were no single-occupancy family or gender-neutral restrooms anywhere nearby—only a standard multi-stall Men’s Room and Women’s Room down the corridor.
+
+Back in Bennett Hall, Jordan had his own private accessible bathroom inside `Room 214`, and whenever he had needed transfer assistance, **Aubrie Jean**, **Hannah**, or **Lauren** had been right there behind a locked suite door. Out here in a crowded public mall, none of the women could accompany him into a multi-stall men's restroom without drawing a scene.
+
+Mark didn't hesitate for a fraction of a second. He didn't blink, didn't make a big production out of it, and didn't treat it as anything out of the ordinary.
+
+"I've got you, man," Mark said simply, standing up and slinging his jacket over his shoulder with an easy, reassuring nod. "Let's go."
+
+Inside the tiled men's restroom, Mark held the heavy outer door open, checked that the large ADA corner stall was clear, and stepped inside with Jordan, sliding the chrome latch shut behind them. To Mark—a pre-med freshman who already viewed Jordan as his brother from another mother—helping a friend transfer onto a grab-bar fixture was nothing more than straightforward, judgment-free care.
+
+"Just tell me what you need, J," Mark said quietly and matter-of-factly, positioning himself exactly where Hannah had shown him how to spot a lateral pivot. "Take your time. I've got your back."
+
+Two minutes later, after Jordan had washed and dried his hands at the roll-under sink, they rolled back out into the concourse to rejoin the women. Neither of them said a word about it to the group, yet a massive weight had lifted off Jordan’s chest.
+
+With lunch and the restroom behind them, the nine friends ventured out into the main retail concourse so Jordan could browse for small Christmas gifts. Over the next thirty minutes, slipping into a bookstore and a specialty gift shop with **Zoë** and **Sarah** helping him discreetly keep his purchases hidden in opaque bags, Jordan managed to pick out and pay for small, thoughtful presents for each of his friends.
+
+By one-forty-five, however, the cumulative sensory assault of the holiday mall was reaching a breaking point.
+
+Even through their foam earplugs, the relentless low-frequency rumble of hundreds of footsteps, the clatter of metal shopping carts, the competing holiday soundtracks blaring from adjacent storefronts, and the strobing white-and-red LED displays pressed against **Jordan** and **Aubrie Jean** like a physical vise. Every time a stranger brushed too close to Jordan’s wheelchair or a child darted across their path, Jordan felt his shoulders locking tighter, while beside him, Aubrie Jean’s face had gone paper-white, her fingers trembling where they gripped the push-handle of his chair.
+
+Aubrie reached her limit first. Stopping beside a quieter structural pillar between two storefronts, she pulled out her `mPhone` with a shaking hand and sent an alert to the group channel:
+
+<sms>[Jordan Comms — Aubrie]: [URGENT] I need to get out. It's too much.</sms>
+
+Jordan looked up at her pale face, felt the matching roar of static rising behind his own eyes, and tapped a two-word reply before his fingers could freeze:
+
+<sms>[Jordan Comms — Jordan]: Me too.</sms>
+
+The response from the other seven was instantaneous.
+
+There were no complaints about cutting the trip short, no second-guessing, and no hesitation. Within three seconds, the group snapped into a tight, moving diamond phalanx around Jordan and Aubrie Jean—**Jessica** and **Mark** taking point to part the crowd, **Lauren** and **Madison** flanking their sides to block visual and physical jostling, and **Hannah** and **Sarah** guarding the rear while **Zoë** fired off the extraction text:
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] Aborting shopping trip due to sensory overload. Rendezvousing with Daniel at the North Entrance curb in 90 seconds.</sms>
+
+Moving with calm, purposeful speed, the phalanx guided Jordan and Aubrie straight through the double glass doors and out into the crisp, freezing December air.
+
+The sudden silence outside was like surfacing from deep underwater. Both Jordan and Aubrie Jean let out long, shuddering breaths, their lungs drinking in the clean mountain cold as Aubrie sank down onto the edge of Jordan’s lap tray for a second, resting her forehead against his shoulder while he wrapped a steadying arm around her waist.
+
+Forty seconds later, **Daniel Brooks** glided to the curb in the pre-warmed minivan. Taking the bus home was off the table; right now, they needed a quiet, low-stimulation cocoon. Caleb and Owen’s father helped load the chair, turned the dashboard stereo down to a barely audible whisper of soft instrumental acoustic guitar, and drove the crew straight back to the quiet sanctuary of Geneva Street.
+
+Sitting in the warm, hushed van with Aubrie’s hand interlaced with his and a bag of paid-for Christmas gifts tucked safely beside his wheels, Jordan felt exhausted—but beneath the exhaustion glowed a deep, unmistakable pride. He had braved a holiday shopping mall, eaten at a food court, and bought Christmas presents for the people he loved with his own money.
+
+### Scene 3: A Brother's Trust
+
+**Date:** 2014-12-22 at 20:00 America/New_York
+
+By eight o'clock that Monday evening, the residual static from the mall had completely melted away inside the warm, dimly lit sanctuary of the Brooks basement.
+
+The nine friends were sprawled across the four queen beds and the sectional sofa in fleece sweatpants and hoodies, reading, coding, or talking in low, unhurried voices. Over on the corner queen bed, **Hannah** was sitting beside **Mark**, her head resting contentedly against his shoulder with her fingers laced through his.
+
+"Hey," Hannah murmured softly, pitching her voice just for him. "I wanted to tell you... thank you. For what you did for Jordan today at the mall."
+
+She tilted her head up to look at him, her eyes shining with quiet admiration. "Seeing you just step up and take him into the men's room like that—without hesitating, without making it awkward, and treating his dignity like the most natural thing in the world—really meant a lot to me. It's one of the things I love most about you."
+
+Mark smiled warmly and kissed the top of her head, squeezing her hand. "Always," he murmured back. Before he could say anything else, the soft *whir* of rubber tires crossed the carpet and a gentle chime sounded from `EchoType`.
+
+<aac>Mark?</aac>
+
+Both Mark and Hannah looked up. **Jordan** had wheeled himself over to the side of their bed. Behind his glasses, his expression was slightly nervous, his fingers hovering over the keys of his `Precisionist 5000`, but his posture was resolute.
+
+<aac>I just wanted to say thank you, too,</aac> Jordan synthesized softly, looking Mark directly in the eye. <aac>For today at the mall. Thank you.</aac>
+
+Mark immediately swung his legs off the mattress and stood up so he could face his friend properly, his expression open and sincere.
+
+"Hey, man, don't even mention it," Mark said warmly. To Mark, there wasn't even a question to debate: Jordan was his best friend—the man he considered his brother. "Anytime, anywhere, J. You never even have to ask."
+
+Jordan looked up at him, hesitated for a single heartbeat, and then did something he had never done in his nineteen years of life.
+
+Lifting his hands from his keyboard tray, Jordan held both arms out slightly toward Mark—offering a hug to another guy.
+
+Mark’s smile widened, and his eyes softened as he recognized the monumental weight of that quiet gesture. Without a word, Mark dropped to one knee on the carpet directly in front of Jordan’s wheelchair, meeting him at eye level, and leaned in to wrap Jordan in a firm, solid, brotherly embrace.
+
+As Mark’s strong arms closed around his shoulders and clapped gently against his upper back, a wave of emotion hit Jordan so hard that hot tears sprang instantly to his eyes.
+
+It wasn't just gratitude for five minutes in a shopping mall restroom. It was the sudden, staggering realization of what this embrace meant for the rest of his life.
+
+For as long as Jordan could remember, his physical vulnerability in male-only spaces—public restrooms, gym locker rooms, the communal men's shower down the hall back in Bennett Hall—had been a source of constant, gnawing dread. Growing up without a father, and with a mother who weaponized his disability to convince him that the outside world would either mock him or resent him, Jordan had always associated being alone around other men with helplessness.
+
+In this one solid, unshakeable embrace, that entire category of fear dissolved into thin air.
+
+He wasn't helpless anymore. He finally had a man in his life whom he trusted with his eyes closed. A brother. A protector who could walk through any door where his sisters couldn't follow and stand guard without an ounce of judgment.
+
+When they finally pulled back, Jordan quickly brushed a knuckle across his cheek behind his glasses, a watery grin breaking across his face.
+
+On the edge of the bed, Hannah—who had watched the entire exchange with tears shimmering in her own eyes—looked at her boyfriend with overwhelming pride.
+
+"That's my guy," Hannah whispered softly. Then she turned her beaming smile to Jordan. "And that's our brother."
+
+Just like that, the architecture of their sanctuary evolved once again. The grounding hug circle—the foundational ritual of Jordan’s safety and emotional regulation since his very first weekend at CPI—had officially expanded. From that night forward, Mark was in, and the walls of their fortress had never stood stronger.
+
+### Scene 4: The First Christmas Present
+
+**Date:** 2014-12-22 at 21:30 America/New_York
+
+An hour later, while all nine friends were lounging in the basement with **Zoë**’s older sisters **Megan** and **Chloe**—who had come downstairs with mugs of hot apple cider to watch the snow glinting outside the patio glass—**Daniel** and **Laura Brooks** descended the interior staircase.
+
+Their expressions were gentle, warm, and quietly purposeful.
+
+"Jordan, honey," Laura said softly, stepping over toward the center of the room. "Do you have a minute? Your father and I have something we'd like to talk to you about before Christmas morning gets here."
+
+A sudden flicker of reflexive nervousness tightened Jordan’s chest—the old, ingrained survival instinct that still braced whenever an adult asked to "talk" to him. He wheeled forward a foot and tapped a quick query on his `Precisionist 5000`:
+
+<aac>Is everything okay?</aac>
+
+"Everything is more than okay," Daniel assured him with a warm, steady smile.
+
+Right there in front of the whole room, the tall British-born executive knelt down on one knee on the basement carpet so that he was directly at eye level with Jordan, resting a gentle, grounding hand on the side of Jordan’s knee.
+
+"Laura and I have been talking all week," Daniel began, his voice rich with quiet conviction. "We know how excited everyone is about the new backyard ramp going in after New Year's Day, and about the Route 11 compound we're building for next year. But right now, our priority is *you*—your comfort and your body every single day."
+
+Daniel glanced briefly at the heavy, scuffed fleet-grade steel frame Jordan was sitting in, then looked back into Jordan’s eyes.
+
+"Your current chair has seen a lot of hard miles, Jordan, and it was never properly fitted to you," Daniel said gently. "So for Christmas this year—before we even get to the stockings and the tree on Thursday morning—Laura and I want to give you our main gift early. Right after the holiday, we are taking you to a specialized mobility clinic to get you custom-measured and fitted for a brand-new, ultralight wheelchair. Whatever frame, color, and seating configuration you want, engineered specifically for your body."
+
+Jordan’s breath caught in his throat. Before he could even move his fingers toward his keyboard, Daniel’s hand tightened reassuringly on his knee.
+
+"And consider this a two-part Christmas gift," Daniel continued, his voice dropping into an ironclad vow. "Because we've also been thinking ahead about your health insurance. Quite frankly, Laura and I do not trust your mother not to pull the rug out from under you during open enrollment—or try to use insurance statements to track you. So here is our promise to you: the very second you need it, or if she ever tries to cut you off, we will immediately transition you onto comprehensive, independent health insurance of your own. You will never have to fear losing medical care or mobility support as leverage ever again. That is our Christmas gift to you, son."
+
+Jordan sat completely frozen, staring at Daniel and Laura as his mind struggled to process what he had just heard.
+
+*A gift.*
+
+*A real Christmas present.*
+
+In eighteen years in Hampton Roads, Aubrie Sinclair had never once given him a Christmas present. Whenever he had outgrown clothes or needed a replacement part for his wheelchair, he had been handed the cheapest, most utilitarian option available—and every single time, it had been thrown in his face as a crushing financial burden, accompanied by a martyred sigh reminding him of how much he cost her to keep alive.
+
+This was the exact opposite of everything he had ever known.
+
+This wasn't a grudging obligation or a ledger debt held over his head. It was a gift of pure freedom, physical dignity, health, and a secure future—offered freely, unconditionally, and wrapped in the casual, unmistakable warmth of the word *"son."* They had looked at him, anticipated the deepest, most unspoken terror in his heart without waiting for him to ask, and erased it forever.
+
+The dam that had held back eighteen years of medical neglect and emotional starvation finally broke.
+
+Jordan’s face crumpled behind his glasses, and a hard, shuddering sob tore silently through his chest—a release of pent-up pain and overwhelming gratitude so deep that it shook his entire frame.
+
+Instantly, the women of his family moved.
+
+Nobody bombarded him with questions, and nobody told him not to cry. With the seamless, trauma-informed harmony forged over four months together, they formed a living circle of grounding warmth around his wheelchair.
+
+**Aubrie Jean** was there first, wrapping her arms around his shoulders from behind and pressing her cheek against his temple. **Lauren** and **Madison** knelt on the carpet directly in front of him, each taking one of his trembling hands in both of theirs. **Zoë** placed a firm, steady hand between his shoulder blades, while **Hannah**, **Sarah**, and **Jessica** stepped in close around the sides of his chair, resting grounding hands on his forearms and shoulders.
+
+And then, hesitating for only a single, respectful heartbeat, Zoë’s older sisters—**Megan** and **Chloe**—stepped into the circle too.
+
+Six-foot-tall Megan reached down and gently stroked Jordan’s hair the way a protective big sister comforts a younger brother, while Chloe—a pediatric occupational therapist who recognized a somatic release the instant she saw one—rested a warm, steady hand over his upper arm. It was the very first time Jordan had ever accepted a comforting touch from either of Zoë’s sisters, and instead of flinching, he leaned into the warmth as his circle of absolute trust expanded in his moment of greatest vulnerability.
+
+Across the room, **Mark**, **Daniel**, and **Laura** stood in quiet, reverent solidarity, giving the eight women surrounding Jordan the space to anchor him until the storm passed.
+
+When the shuddering waves finally subsided several minutes later, Jordan sat back in his chair, physically spent yet feeling lighter than he had ever felt in his entire life. Through damp eyelashes, he looked around at the faces surrounding him—his suitemates, his sisters, his parents, his brother, his family.
+
+Slowly, with fingers that barely trembled anymore, he reached down to his `Precisionist 5000` and tapped two words that carried the weight of a lifetime:
+
+<aac>Thank you.</aac>
+
+## Adventures in Southwestern Virginia
+
+### Scene 1: A Trip to Bluewater & The Heart-Hum
+
+**Date:** 2014-12-23 at 08:45 America/New_York
+
+On Tuesday morning, December 23rd, the nine friends set out on a full-day holiday road trip across Southwestern Virginia—Entirely by regional public transit—to visit **Madison**’s family down in **Bluewater** and **Sarah**’s father over in **Radford**.
+
+At eight-forty-five sharp, all nine of them—**Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—boarded the **Bluewater Transit *Maroon Express*** motorcoach at the **Falling Branch Park & Ride**. Settling into the high-backed coach seats after Jordan locked his wheelchair into the forward bay, the group watched the snow-blanketed peaks of the Blue Ridge roll past the tinted windows during the comfortable sixty-minute express run south into Carroll County.
+
+At nine-forty-five, they disembarked at the bustling **Bluewater Transit Center**—directly across the street from **Bluewater High School**—and made a seamless five-minute cross-platform transfer onto the local **Blue Line** city bus. At ten-oh-five on the dot, the low-floor Gillig hissed to a stop at the corner of Madison’s quiet, tree-lined residential street.
+
+Madison practically bounced up the shoveled front walkway of her childhood home. Before she could even reach for the doorbell, the front door swung wide open, and her parents—**David and Diane Scott**—greeted the nine college freshmen with beaming smiles and warm hugs that immediately put everyone at ease.
+
+Inside the cozy living room, Madison’s fourteen-year-old brother, **Bob Scott**—four-foot-eight, non-verbal, and grinning from ear to ear—looked up from the sofa, his dark eyes wide with excitement as he took in the crowd of new faces.
+
+"Hey, squirt!" Madison laughed, crossing the rug to ruffle her little brother’s hair affectionately.
+
+Bob let out a happy, affirmative grunt, leaning into his big sister’s touch.
+
+Just then, a fifteen-year-old girl—five-foot-three, standing a full seven inches taller than Bob—appeared shyly in the hallway doorway. Letting out a low, humming purr that rose gently in the middle—her unique, unspoken name for Bob, meaning *my anchor, my safety*—she walked straight over to the sofa, bent down, and effortlessly scooped Bob up into a familiar, comforting carry before settling back onto the cushions with him tucked securely against her side.
+
+Bob immediately answered with a sharp, clear chirp followed by a steady, descending hum—his name for her: *my protector, my person.*
+
+Madison froze in the middle of the living room carpet, her mind reeling.
+
+"Emily?" Madison breathed, staring at her fifteen-year-old cousin, **Emily Jenkins**. "What are you doing here?"
+
+Diane Scott stepped up beside her daughter and placed a gentle, steadying hand on Madison’s forearm. Her expression was a mixture of deep maternal sorrow for her sister and fierce relief for her niece.
+
+"Your Aunt Karen... things got much worse after you left for CPI in August, honey," Diane explained quietly. "After your Uncle Richard passed away, Karen’s grip on reality kept slipping further and further down those internet conspiracy rabbit holes. Emily needed a safe, stable home—so she’s living with us permanently now."
+
+Madison’s shock melted instantly into fierce, protective love. Looking at Emily’s wide, hesitant eyes, Madison swallowed the lump in her throat.
+
+"I—I need to show Em some of my architecture sketches in my old room," Madison announced, her voice slightly thick.
+
+Everyone in the living room understood the pretext immediately. As Madison led her cousin down the hallway, Bob—who had been Emily’s inseparable shadow and emotional anchor—followed right at her heels. The three of them slipped into Madison’s childhood bedroom and clicked the door shut behind them, while out in the living room, the rest of the college crew respectfully gave them space—Jordan wheeling over to ask David Scott about his work while Aubrie, Lauren, Hannah, Zoë, Sarah, and Jessica helped Diane in the kitchen with hot cocoa.
+
+Inside the quiet bedroom, Madison’s bubbly facade dropped away, replaced by gentle, undivided concern. Emily sat down on the edge of the quilt, and Bob sat right beside her, pressing his shoulder firmly against hers and wrapping his arm around her waist so she could lean into his steady frame.
+
+"Okay, Em," Madison whispered softly, kneeling in front of the bed. "Seriously. Are you okay?"
+
+The brave mask Emily had been wearing shattered.
+
+Because both Emily and Bob were non-verbal, the story came pouring out not in spoken English, but in the intricate, deeply expressive private language the two cousins had forged over a lifetime together—the **Heart-Hum**, a language Madison had grown up learning to read by heart.
+
+It began with a sequence of low, distressed moans from Emily—the exact cadence Madison remembered from worried family phone calls whenever Aunt Karen’s latest delusion had taken over the house—followed by a rapid cascade of sharp, anxious chirps and a trembling hand gesture that mimicked someone sprinkling or hiding objects inside a loaf of bread.
+
+Beside her, Bob answered with a deep, grounding rumble from his chest, his arm tightening around Emily’s waist.
+
+Madison’s heart sank like a stone as she translated the sequence internally: *Microchips in the bread. Watching the windows for government agents.*
+
+Emily let out a soft, pleading whimper, pressing both hands tightly against her sternum in the unmistakable gesture for *trapped—can't breathe.*
+
+Rising from the floor, Madison sat down on Emily’s other side and pulled her younger cousin into a fierce, protective hug, sandwiching Emily between herself and Bob while the fifteen-year-old girl cried silently into Madison’s shoulder.
+
+"I'm so sorry, Em," Madison whispered, her own blue eyes brimming with tears as she stroked Emily’s hair. "I am so, so sorry you had to go through that alone after Uncle Richard died. Your mom isn't well—and none of that was ever your fault. You were so brave to come here. I am so proud of you."
+
+When the tears finally slowed, Emily lifted her head and let out a single, soft, plaintive coo—a sound carrying fifteen years of quiet longing.
+
+*I just wanted a normal life.*
+
+"You have one now," Madison promised firmly, gently wiping a tear from her cousin’s cheek. "Your dad built the legal fortress before he passed so Aunt Diane could protect you, and you're safe here in Bluewater. You're with us now. We're your family."
+
+On Emily’s other side, Bob let out a single, bright, decisive chirp of pure agreement, placing his palm flat over Emily’s heart as she placed hers over his—their sacred, simultaneous hum vibrating between their chests: *I love you.*
+
+### Scene 2: Lunch at Annabel's Deli
+
+**Date:** 2014-12-23 at 11:45 America/New_York
+
+After another half hour of warm introductions, laughter, and promises from **Diane Scott** to see them again the day after Christmas, the nine friends said their goodbyes to **David**, Diane, **Bob**, and **Emily** and caught the eleven-twenty-five **Blue Line** bus back toward downtown Bluewater.
+
+At eleven-forty-five, they stepped off at the **Bluewater Transit Center** and crossed the street straight toward the lunch spot **Madison** had been raving about since August: **Annabel’s Deli**.
+
+The deli was the quintessential heart of a small Blue Ridge town—a long, gleaming Formica counter, red vinyl booths worn soft by decades of regulars, chalkboard menus above the grill, and brick walls covered from floor to ceiling with framed, autographed team photos of **Bluewater High School** athletes and marching bands. Even during the first week of winter vacation, the dining room buzzed with the cheerful, welcoming energy of locals and high school students grabbing midday sandwiches.
+
+Behind the counter, a cheerful, bustling woman with warm laugh lines around her eyes looked up from slicing roast turkey, and her face broke into a massive grin.
+
+"Well, look what the cat dragged in!" **Annabel Ragsdale** boomed over the sizzle of the flat-top grill. "Madi Scott, get yourself over here!"
+
+Madison laughed and led her eight college friends up to the counter. "Annabel, I brought my family from CPI! This is **Jordan**, **Aubrie Jean**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**."
+
+Annabel leaned her forearms on the counter, taking in the diverse group of nine—from six-foot-three Australian Jessica down to Jordan in his wheelchair—with a warm, observant eye that held genuine welcome and not a shred of pity.
+
+"Well, any family of Madi's is family of mine!" Annabel declared warmly. "Grab those two four-tops by the front window and push 'em together so you've got proper elbow room! The usual for you, Madi—toasted turkey club on sourdough?"
+
+"You know it!" Madison beamed.
+
+With **Mark** and **Jessica** sliding the two tables together to create a single long banquet island and pulling away a side chair so Jordan had a prime spot at the end overlooking Main Street, the nine of them dug into baskets of hot, freshly pressed paninis, turkey clubs, and kettle chips.
+
+Halfway through lunch, the brass bell above the front door jingled, and a woman with a sharp, intelligent gaze, silver-streaked dark hair, and a kind smile stepped inside out of the December chill. Spotting Madison at the head of the combined tables, she walked right over.
+
+"Madison Scott," she said warmly. "I was hoping I'd run into you while you were home for the break."
+
+"Dr. Ragsdale! It's so good to see you!" Madison said brightly, sitting up to introduce **Dr. Rachel Ragsdale**, the beloved principal of Bluewater High School across the street.
+
+As Madison introduced each of the nine friends around the table, Dr. Ragsdale’s experienced educator’s eyes took in the subtle details of the group: the way Aubrie Jean’s hand rested naturally near Jordan’s wrist, the effortless respect with which everyone waited for Jordan’s `Precisionist 5000` to chime in, and the unmistakable aura of safety that bound the nine freshmen together.
+
+<aac>It is an honor to meet you, Dr. Ragsdale,</aac> Jordan synthesized politely. <aac>Madison has told us how much she loved going to school here.</aac>
+
+Dr. Ragsdale smiled warmly, looking directly at Jordan as she replied. "The pleasure is entirely mine, Jordan. And Madison was one of our finest." She looked back around the table at all nine of them, her voice carrying sincere admiration. "You have clearly found a remarkable group of friends at CPI, Madison. Seeing how all of you look out for one another makes me very proud."
+
+With a warm nod to Jordan and Aubrie Jean, Dr. Ragsdale headed up to the counter to order her lunch.
+
+Fifteen minutes later, when the crew finished eating and stood up to leave, Annabel came out from behind the counter carrying a heavy brown bakery sack radiating the aroma of melted semi-sweet chocolate.
+
+"On the house for the bus ride north," Annabel insisted, tucking the warm bag of her famous homemade chocolate-chip cookies onto Jordan’s lap tray with a wink. "You all take care of our Madi, and come back and see us anytime!"
+
+Stepping back across the street to the Bluewater Transit Center to catch the twelve-forty-five outbound **Maroon Express**, Zoë pulled out her phone and logged the next leg of their journey:
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the group. Departing Bluewater on the 12:45 PM Maroon Express. We are NOT heading home yet. Destination: CPI Transit Center to transfer to the Radford Connector. Next stop: Radford to visit Sarah's dad.</sms>
+
+### Scene 3: An Afternoon in Radford
+
+**Date:** 2014-12-23 at 14:15 America/New_York
+
+The outbound **Bluewater Transit *Maroon Express*** glided into the **CPI Transit Center** in Blacksburg at two-fifteen in the afternoon, right on schedule.
+
+With the practiced choreography of seasoned regional commuters, the nine friends disembarked, crossed the concrete island to the **Radford Transit** bay, and boarded the waiting **Radford Connector** bus.
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the group. Arrived at CPI Transit Center. Boarding the Radford Connector now. ETA at McConnell Transit Center is 2:45 PM.</sms>
+
+The thirty-minute express run west to **Radford** was smooth and quiet, carrying them down out of the higher Blacksburg plateau to the **McConnell Transit Center** adjacent to the **Radford University** campus. From there, a quick ten-minute hop aboard the local **Wadsworth Street** route brought them to a quiet, tree-lined residential street where **Sarah Kristyn Braithwaite** had lived with her father since moving to Virginia from **Liverpool, New South Wales** in Greater Western Sydney during high school.
+
+Leading her eight friends up the front steps of the modest, well-kept single-story brick home, Sarah knocked twice before turning the knob.
+
+The door opened immediately, revealing her father, **Peter Braithwaite**—a soft-spoken man in his late forties with kind, observant dark eyes identical to Sarah’s and the same warm, unmistakable Sydney Australian inflection.
+
+"Sarah, sweetheart, look at you," Peter said, his face lighting up as he pulled his daughter into a tight hug. Looking over her shoulder at the eight friends standing on the porch, he stepped back and gestured warmly inside. "And this must be the famous Bennett Hall crew. Please, come in out of the cold, all of you!"
+
+Inside, the Braithwaite living room was a calm, inviting sanctuary lined with bookshelves, framed photographs of Sydney Harbour and the Blue Mountains, and a crackling electric hearth. Within minutes, Peter had a kettle boiling in the kitchen and mugs of hot tea and Milo passed around the room.
+
+While **Jessica** delighted in trading Australian hometown stories with another expat from Down Under—contrasting her remote family roadhouse out in Petermann, Northern Territory with Peter and Sarah’s urban roots in Liverpool, NSW—Peter made a point of drawing **Jordan** and **Aubrie Jean** into conversation, asking thoughtful, perceptive questions about their freshman Astrophysics coursework at CPI.
+
+After they had been chatting comfortably for nearly an hour, a quiet lull settled over the living room. Peter set his teacup down on the side table, looked around at the eight guests, and finally rested his gaze on his daughter, who was sitting on the sofa between **Lauren** and **Jessica**.
+
+"Sarah told me everything that happened back in September with Tom Lawson," Peter said, his voice quiet, steady, and thick with paternal emotion.
+
+Across the room, Lauren gave Sarah’s hand a gentle squeeze.
+
+"As a father, knowing someone treated my daughter that way—and that she was hurting half an hour up the road—was hard to bear," Peter continued, looking directly at **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, and **Jessica**. "And then she told me what all of you did. How you stood beside her in the hallway, how you welcomed her into your suite without a single question asked, and how you turned something ugly into a real home for her."
+
+Peter swallowed hard, his eyes shining with sincere gratitude.
+
+"I want to thank every single one of you," Peter said softly. "For giving my daughter a safe place to land when she needed it most."
+
+<aac>Sarah is family to us, Mr. Braithwaite,</aac> Jordan tapped on his `Precisionist 5000`, `EchoType` speaking into the quiet room with total sincerity. <aac>She stood up for me and for Lauren when it mattered most. We always take care of our own.</aac>
+
+As the late-afternoon December sunlight began to fade into lavender twilight outside the living room windows, the subject of supper naturally came up.
+
+"Dad, you are definitely not cooking for ten people tonight," Sarah said with a warm laugh, standing up and kissing her father’s cheek. "Why don't we head downtown to that little Italian trattoria you love near McConnell? Our treat."
+
+### Scene 4: Dinner at Luigi's Trattoria
+
+**Date:** 2014-12-23 at 17:00 America/New_York
+
+**Luigi’s Trattoria** sat just two blocks off the **McConnell Transit Center** in downtown Radford. Because **Peter Braithwaite**’s compact sedan couldn't possibly carry ten people and a manual wheelchair, the entire group walked down to the corner bus stop together to ride the **Wadsworth Street** bus into town—the college crew discreetly pooling two quarters from their pockets to cover Peter’s fifty-cent local fare before he could reach for his wallet.
+
+Inside, Luigi’s was a warm refuge from the December evening chill, glowing with amber wall sconces, red-and-white checkered tablecloths, and the rich, garlicky aroma of simmering marinara and wood-fired dough. The host guided their party of ten to a large round table in the back corner where **Jordan** could roll right up between **Aubrie Jean** and **Sarah**.
+
+Once orders had been placed for baked ziti, brick-oven pizzas, and steaming platters of lasagna, Peter looked around the circle of faces illuminated by the candle in the center of the table.
+
+"Looking at all of you together," Peter said with a warm smile, "I have to admit—when Sarah first called to tell me about a nine-person college family spanning Virginia, London, Newfoundland, Sydney, and the Northern Territory, I wasn't quite sure how all the pieces fit together."
+
+Sarah glanced across the table at **Lauren**, and the two women shared a quiet, affectionate smile before Sarah turned back to her father.
+
+"You know, Dad," Sarah said, her Australian voice clear and steady, "it wasn't just about needing a safe place to study after dumping Tom. When the truth came out back in September... Lauren was the other girl Tom had been lying to."
+
+Peter’s eyes widened slightly in surprise as he looked over at the tall, auburn-haired Canadian girl sitting beside **Madison**. Lauren offered him a gentle, honest nod.
+
+"Neither of us knew the other existed until that week," Lauren said softly. "Tom lied to both of us."
+
+"In almost any other group on earth," Sarah continued, reaching across the tablecloth to rest her hand over Lauren’s, "that would have turned into bitter drama. Instead, because of Jordan, Aubrie, Madi, Zoë, Hannah, Mark, and Jessica, it did the exact opposite. We realized neither of us was the enemy—and walking away from him together brought all nine of us closer than we ever could have imagined. We aren't just dorm friends anymore, Dad. We're one big, slightly chaotic family."
+
+Around the round table, every single head nodded in quiet, unanimous agreement.
+
+Peter looked from his daughter to Lauren, then to Jordan and the rest of the table, his expression filled with deep respect and paternal peace.
+
+"Well," Peter said softly, raising his water glass toward them, "then I can safely say my daughter has found the finest family away from home a father could ever ask for."
+
+When the waiter arrived with towering platters of pasta and garlic knots, the emotional moment gave way to lively, effortless conversation—stories about Dr. Gable’s *Western Civilization* lectures, campus transit adventures, and their weekend snowed in on Geneva Street under forty-six inches of powder.
+
+As the meal drew to a close and the check was settled, Jordan noticed that Peter would need exact change for the return **Wadsworth Street** bus back to his house once the nine of them transferred to the **Radford Connector** at McConnell. Reaching quietly into his jeans pocket beneath the tablecloth, Jordan slid two quarters across to Sarah’s palm and tapped a silent one-line note on his screen angled just for her:
+
+<aac>For your dad's bus fare home.</aac>
+
+Sarah’s dark eyes softened with deep affection. Squeezing Jordan’s fingers in silent thanks, she slipped the coins into her father’s coat pocket as they stood up to put on their winter parkas outside the restaurant.
+
+"Thanks for having us today, Dad," Sarah said, hugging him tightly under the streetlamp outside McConnell Transit Center. "I love you. I'll call you on Christmas morning."
+
+"I love you too, sweetheart," Peter replied, hugging her back before shaking Mark’s hand and giving Jordan’s shoulder a warm pat. "Safe travels back to Christiansburg, all of you."
+
+### Scene 5: The Long Ride Home & The Unwinding
+
+**Date:** 2014-12-23 at 17:50 America/New_York
+
+After waving goodbye to **Peter Braithwaite** at the **McConnell Transit Center**, the nine friends checked the digital departure board under the shelter canopy. Their outbound **Radford Connector** back to CPI was scheduled for five-forty-five, which would normally give them a comfortable fifteen-minute cushion in Blacksburg to catch the six-fifteen **Maroon Express** down to Christiansburg.
+
+Tonight, however, pre-holiday highway traffic had other plans.
+
+The Radford Connector pulled into the bay five minutes late at five-fifty.
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] All 9 aboard the Radford Connector at McConnell. Running 5 minutes behind schedule due to US-11 holiday volume. Heading to CPI Transit Center.</sms>
+
+The thirty-minute climb east toward Blacksburg moved at a crawl through stop-and-go brake lights. By the time the bus finally hissed to a halt at the **CPI Transit Center**, the digital clock read six-thirty—just in time for the nine weary travelers to watch the red taillights of the six-fifteen Maroon Express vanish down University City Boulevard.
+
+With a collective, good-natured groan, the group huddled together in their heavy winter coats on the heated bench inside the transit pavilion to wait for the next southbound connection to **Falling Branch**: the six-forty-five **RVT Roanoke Express**, which also arrived five minutes late at six-fifty.
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] Boarding the RVT Express at CPI. Updated ETA to Falling Branch Park & Ride is 7:25 PM.</sms>
+
+When the coach finally glided into the Falling Branch Park & Ride at seven-twenty-five and the nine of them made the short, brisk walk up **Geneva Street**, the warm golden glow spilling from the windows of the Brooks house was the most welcoming sight on earth.
+
+Stepping through the front door after nearly eleven hours of riding buses across three counties, nobody even stopped in the upstairs foyer. Without needing to be asked, **Caleb** and **Owen Brooks**—who had heard the front door open—walked straight over, linked forearms, and gently carried an exhausted **Jordan** down the interior stairs while **Zoë** and **Jessica** brought down his folded wheelchair.
+
+Down in the basement sanctuary, all nine friends dropped their backpacks, kicked off their winter boots, and collapsed onto the nearest mattresses and sofa cushions with a synchronized, deeply contented sigh. They were finally home.
+
+"I have never needed a hot shower more in my entire life," **Madison** declared into a throw pillow, speaking for the entire room.
+
+What followed was the practiced, zero-awkwardness efficiency of nine people rotating through the basement bathroom to wash off a long day of winter transit. When it was Jordan’s turn, **Hannah** and **Lauren** stepped right up with clean towels.
+
+"We've got you, J," Hannah said warmly, while **Mark**—handing out cold bottles of water from the kitchenette mini-fridge—gave his girlfriend an appreciative smile and a nod of total trust.
+
+Once everyone was showered and warm, the ritual of changing into pajamas became Jordan’s quiet proving ground.
+
+Sitting at the edge of his queen bed with his friends offering calm, unhurried encouragement, Jordan reached for his soft cotton pajama t-shirt, threaded both sleeves, and pulled it cleanly over his head without assistance. Next came the far harder physical test he had been practicing all week: lower-body dressing.
+
+Positioning his wheelchair parallel to the mattress and locking both brakes, Jordan planted his forearms against the armrests, took a focused breath, and pressed down—lifting his hips just far enough off the seat cushion to work his boxers and flannel pajama pants up around his thighs and hips.
+
+His arms quivered with the exertion, and he couldn't quite haul the waistband over the final few inches on his own. Settling back onto the cushion, he looked up at Hannah and **Aubrie Jean**—not with frustration or shame, but with a calm nod asking for the final assist.
+
+"I'll lift," Hannah said immediately, stepping in to support his torso.
+
+"I'll pull," Aubrie Jean added smoothly, drawing the flannel waistband cleanly into place before helping him pivot onto the mattress.
+
+A spontaneous, joyful round of applause broke out across the basement.
+
+"You did it, Jordan!" Madison cheered, clapping her hands. "You got them almost the whole way up by yourself!"
+
+Jordan beamed against the pillows, a tired, triumphant warmth radiating through his chest.
+
+As the group began settling into their beds for the night, however, everyone noticed that Madison—normally the brightest spark in the room—had grown quiet again. Now that the adrenaline of the long travel day had faded, the emotional weight of what she had learned in Bluewater—her Aunt Karen’s frightening descent into paranoia and the trauma her fifteen-year-old cousin Emily had endured—was sitting heavily on her heart.
+
+Without saying a word, Madison walked over to the side of Jordan’s queen bed and sat down quietly on the edge of the mattress.
+
+Nobody needed an explanation. Tonight, Madison needed the anchor.
+
+The nightly pairings shifted seamlessly around her. Mark and Hannah curled up together on the corner queen bed; Aubrie Jean and Zoë shared the second; Lauren, Sarah, and Jessica settled into the third bed and the wide sectional sleeper; and Madison slid under the warm duvet right beside Jordan, resting her head on his shoulder as he wrapped a steady, comforting arm around her back.
+
+Click by click, the basement lamps went dark, a soft chorus of *"Goodnight, guys"* echoed across the room, and the nine of them drifted off to sleep—safe, clean, and together.
+
+## Jordan's First Christmas
+
+### Scene 1: Stockings on the Bookshelf
+
+**Date:** 2014-12-25 at 08:00 America/New_York
+
+**Jordan** woke on the morning of December 25th to the sound of excited, hushed whispers rippling across the basement beds.
+
+When **Caleb** and **Owen** carried him up the interior staircase into the main living room a few minutes later, Jordan’s breath caught at the sight waiting for him. The towering evergreen tree in the corner of the room was aglow with hundreds of warm white and multicolored lights, its lower branches surrounded by a miniature mountain of brightly wrapped boxes, ribbons, and gift bags.
+
+As the others hurried toward the tree with steaming mugs of cocoa, however, Jordan stopped his wheelchair halfway across the living room rug.
+
+His gaze was fixed in complete, genuine bewilderment on the massive built-in oak bookshelf that spanned the entire inner wall of the room.
+
+Lined up in a neat, symmetrical row along the thick main mantel shelf—suspended from heavy cast-brass hooks—hung **seventeen oversized, plush red-and-cream knit socks**.
+
+**Laura Brooks**, noticing the baffled expression on Jordan’s face, walked over with a warm, gentle smile. Taking his hand, she guided his fingers to one of the soft, velvet-cuffed stockings near the center of the shelf, where the name **`JORDAN`** had been neatly embroidered in shimmering gold thread.
+
+"This one is yours, Jordan," Laura said softly.
+
+Jordan stared at the embroidered fabric, then looked back at Laura and his friends, his brow furrowed in honest confusion as he tapped his `Precisionist 5000`:
+
+<aac>I do not understand. Why are there giant socks hanging on the bookshelf?</aac>
+
+For a heartbeat, a stunned, tender hush fell over the living room as his friends realized the sheer depth of what Jordan had been denied for eighteen years. In his mother’s house in Hampton Roads, December 25th had never been celebrated—no tree, no stockings, no wrapped gifts, not even a holiday card.
+
+**Madison** was the first to recover, dropping to her knees beside Jordan’s right wheel with a warm, gentle smile.
+
+"They're Christmas stockings, Jordan!" Madison explained brightly. "It's a holiday tradition. Everyone in the family hangs their stocking up on Christmas Eve, and overnight, a jolly guy in a red suit named Santa Claus is supposed to visit and fill them up with little surprises and treats."
+
+Jordan blinked behind his glasses, processing the unfamiliar folklore literally, and typed a follow-up question:
+
+<aac>Who is Santa Claus?</aac>
+
+**Daniel Brooks** stepped up beside his wife and rested a warm, fatherly hand on Jordan’s shoulder.
+
+"He's a fun holiday story, son," Daniel explained with a kind smile. "A symbol of generosity, warmth, and the joy of giving. In this house, stockings are where we put fun little gifts just to make each other smile before we open the main presents under the tree. Go ahead—take yours off the hook and see what's inside."
+
+Hesitantly, Jordan lifted the heavy velvet stocking onto his lap tray and reached inside.
+
+One by one, he pulled out the treasures tucked inside: a brand-new pair of padded, fleece-lined leather wheelchair push-gloves with high-grip silicone palms; a laminated pocket field guide to Northern Hemisphere winter constellations; a crisp **`$50` prepaid Visa gift card** tucked inside a small envelope; and two king-sized bars of his favorite dark chocolate with almonds.
+
+Jordan stared down at the items in his lap. None of them were bills held over his head. None of them came with lectures or strings attached. They were gifts, chosen for no other reason on earth than to bring him joy.
+
+When the group gathered around the tree to begin passing out the wrapped boxes, the discoveries continued. Handed his first brightly wrapped rectangular package by **Aubrie Jean**, Jordan simply held it carefully in both hands on his lap tray, looking up at her uncertainly because he had never unwrapped a present before.
+
+"You get to rip the paper right off, J," Aubrie murmured softly, her dark eyes crinkling with affection as she pointed to the taped seam.
+
+The crisp *tear* of foil wrapping paper soon filled the room— revealing a warm CPI Forgers fleece zip-up from Mark and Hannah, an astronomy coffee mug that revealed star charts when filled with hot liquid from Zoë and Lauren, a sketchbook of architectural constellations from Madison, and cozy winter scarves and novels from Sarah and Jessica.
+
+Yet an even greater revelation was waiting for Jordan when his friends opened the small bags he had braved the New River Valley Mall to pick out for them on Monday. Watching Aubrie Jean’s eyes light up over the silver star-shaped bookmark he had chosen for her, and hearing the delighted cheers from his suitemates as they opened their gifts from him, sent a wave of pure, incandescent warmth spreading through Jordan’s chest.
+
+For the first time in nineteen years, Jordan wasn't an outsider looking in through frosted glass. He was both a receiver and a giver of joy, sitting right at the heart of a family that loved him.
+
+### Scene 2: A Christmas Education
+
+**Date:** 2014-12-25 at 10:00 America/New_York
+
+By ten o'clock on Christmas morning, the extended oak dining table was in full, boisterous swing.
+
+Sixteen people—all nine of the CPI crew plus **Daniel**, **Laura**, and five of the Brooks siblings, while **Chloe** and her husband **Ethan** spent the morning hours visiting his parents across town before returning for the afternoon—filled the dining room with a joyful roar of conversation, clinking silverware, and platters of cinnamon rolls, crispy bacon, country sausage, and fluffy waffles being passed hand to hand.
+
+Sitting at the head of the table between **Aubrie Jean** and **Madison**, **Jordan** quietly took it all in: the discarded ribbons still scattered around the glowing tree in the living room, the new leather push-gloves resting beside his plate, and the effortless, unconditional happiness radiating from every seat.
+
+It was completely uncharted territory for him.
+
+Turning slightly toward Aubrie Jean, Jordan tapped a quiet question on his `Precisionist 5000`, genuinely curious:
+
+<aac>So is this all of it? Is this what Christmas is? Opening presents and eating a big breakfast?</aac>
+
+The question—so earnest and completely free of cynicism—caught the attention of everyone sitting around their end of the table.
+
+"Oh, honey, no!" Madison laughed from his right, her blue eyes sparkling. "This is just the opening act! There are Christmas comedy movies! I'm pretty sure it's an actual federal law that you have to watch *Holiday House-Sitter* on Christmas Day."
+
+"And football!" **Mark** chimed in from across the table, gesturing with his fork. "There are always big games on all afternoon."
+
+Down the table, **Owen** and Zoë’s younger brother **Liam** piped up immediately. "And we have to build the giant gingerbread fortress after lunch! Plus you're supposed to leave cookies out by the fireplace on Christmas Eve!"
+
+Jordan looked down the table at Liam, his brow furrowing again as he typed:
+
+<aac>Leave cookies out for who?</aac>
+
+Laura Brooks smiled warmly as she set a fresh pitcher of orange juice on the table, picking up the thread from earlier that morning.
+
+"For Santa Claus, in the old family folklore," Laura explained gently. "When the kids were little, we'd leave out a plate of warm chocolate-chip cookies and a glass of milk on Christmas Eve as a thank-you for filling the stockings—and then your father would mysteriously happen to eat all of them after midnight."
+
+Daniel chuckled behind his coffee mug, not even trying to deny the charge.
+
+"It's all just part of the fun, Jordan," Laura continued, her voice brimming with maternal warmth as she looked around the crowded table. "At its heart, the holiday isn't about any single ritual. It's an excuse for the people who love each other to stop rushing around, put the outside world on pause, eat wonderful food, play games, and just enjoy being together under one roof."
+
+"Statistically speaking," **Zoë** deadpanned from across the table without missing a beat, adjusting her glasses as she buttered a waffle, "it is an annual period of peak consumer retail expenditure accompanied by a predictable forty-two percent spike in residential electrical grid load."
+
+The entire table erupted into laughter—including Jordan, whose shoulders shook with a bright, silent chuckle.
+
+As the laughter settled into warm chatter again, Jordan looked down the length of the sunlit dining room. For the first eighteen years of his life, December 25th had been nothing more than a cold, silent date on the calendar—a tense, dreary day in Norfolk distinguishable from any other Tuesday or Thursday only by the fact that the postal carrier didn't deliver the mail. He had never imagined that a holiday could feel like *this*: this much laughter, this much warmth, this much community.
+
+A sudden, hopeful desire rose in his chest. Looking around the table at his entire chosen family, Jordan typed a message and let `EchoType` speak it clearly to the whole room:
+
+<aac>Can we do all of it today? The movies, the board games, and the food—all of it? I want to experience all of this with you.</aac>
+
+A resounding, joyful chorus of *"YES!"* and *"You bet we are!"* echoed around the oak table.
+
+Daniel Brooks reached over and clapped a firm, proud hand on Jordan’s shoulder.
+
+"Son," Daniel said with a beaming grin, "that is the exact plan. Clear your schedule, because we're just getting started."
+
+### Scene 3: The Board Game Gauntlet
+
+**Date:** 2014-12-25 at 13:00 America/New_York
+
+Once the breakfast dishes were loaded into the dishwasher and **Chloe** and her husband **Ethan** arrived back at Geneva Street with tins of homemade peppermint bark, **Daniel Brooks** clapped his hands together in the center of the living room with a mischievous glint in his eye.
+
+"Alright, everyone, gather round!" Daniel announced in his best stadium-announcer voice. "It is officially time to inaugurate a brand-new Geneva Street holiday tradition: the **First Annual Brooks Family Christmas Board Game Championship**!"
+
+A cheer went up from the younger Brooks siblings, while **Mark**, **Caleb**, and **Owen** immediately exchanged competitive, knowing grins. Within ten minutes, closets were raided, folding card tables were set up across the living room carpet, and colorful cardboard game boxes were stacked high.
+
+True to form, the loudest centerpiece of the afternoon immediately took shape at the main dining room table, where Mark, Caleb, Owen, and **Jessica** unfolded the sprawling global map of ***Warlords of the Sphere*** and began meticulously deploying their miniature plastic regiments across the continents.
+
+From the very first roll of the red attack dice, the theatrical trash-talk reached Broadway levels.
+
+Caleb let out an operatic gasp of outrage as Mark fortified a chokepoint across North America. "Unprovoked, aggressive territorial expansion on the very first turn!" Caleb declared, pointing an accusing finger across the board. "Have you no honor, Anderson?!"
+
+"It's called sound tactical perimeter defense, Caleb!" Mark shot back, puffing out his chest with a grin. "Something you'd recognize if your geopolitical strategy wasn't stuck in the nineteenth century!"
+
+Two turns later, when Caleb struck a temporary non-aggression pact with Jessica and Mark to flank Owen’s stronghold in Kamchatka, Owen clutched a hand over his heart and slumped back in his chair as if mortally wounded.
+
+"I thought we were blood, Caleb!" Owen bellowed dramatically toward the ceiling. "Betrayed by my own brother on Christmas afternoon! For shame!"
+
+Rolling his chair closer to watch the spectacle, **Jordan** found himself grinning from ear to ear. Growing up in a house where any raised voice had meant real anger and imminent punishment, Jordan had initially tensed at loud noises—but watching the four of them hurl mock-Shakespearean insults (*"You land-grabbing fiend!"* *"You backstabbing rogue!"* *"You strategic simpleton!"*) while barely suppressing their own laughter was a revelation. It wasn't hostility; it was pure, joyful theater—a language of brotherly and sisterly affection where nobody was ever actually hurt.
+
+Across the room on the living room sofa, **Laura**, **Hannah**, **Zoë**, and **Sarah** were locked in a far quieter—but ruthlessly high-vocabulary—match of ***Lexicographer’s Duel***, with Zoë calmly laying down triple-word scientific tiles while Sarah protested in her thick Sydney accent that half of Zoë’s words belonged in a biochemistry textbook. Over on the rug, **Madison** and the youngest Brooks siblings were howling with laughter over a frantic drawing round of ***Scribble Scramble***, while Chloe and Ethan debated imaginary real-estate rent at the corner table over a board of ***Metropolis Magnate***.
+
+And at a sturdy folding card table that Daniel had adjusted to the exact clearance height of Jordan’s wheelchair armrests, **Aubrie Jean** set down a bright, rectangular box illustrated with a winding, colorful highway.
+
+It was ***Odyssey: The Great Journey***.
+
+Jordan had picked the box off the shelf himself ten minutes earlier, drawn immediately to its branching colorful road of simulated life milestones—a game entirely about making choices for your own future.
+
+### Scene 4: Odyssey: The Great Journey & 'Jordan Kelly'
+
+**Date:** 2014-12-25 at 14:15 America/New_York
+
+While the theatrical battle over ***Warlords of the Sphere*** echoed cheerfully from the dining room, **Jordan** and **Aubrie Jean** sat across from each other at the accessible card table with the sprawling, colorful board of ***Odyssey: The Great Journey*** unfolded between them.
+
+"Okay, here's how we start," Aubrie said warmly, pointing to the plastic fork in the road at the beginning of the track. "Right out of the gate, you get to make your very first big life choice. You can take the *Career* path and start earning a salary immediately, or you can take the *College* path—which puts you in tuition debt at first, but opens up the degree-required careers down the road."
+
+Jordan looked down at the two branching paths painted on the board. Even inside a tabletop game, being handed the steering wheel of his own life felt electric. There wasn't a second of hesitation.
+
+<aac>College,</aac> Jordan tapped firmly on his `Precisionist 5000`.
+
+Picking up a miniature plastic convertible molded in vibrant cobalt blue, Jordan carefully slotted a single blue peg into the driver’s seat. *That's me,* he thought, a quiet smile tugging at his lips. Spinning the numbered plastic wheel in the center of the board—its rapid *click-click-click* ringing like a tiny metronome of progress—he guided his blue car through the university loop until he landed on the **Graduation & Career Selection** space.
+
+Aubrie fanned out the deck of *College Career* cards face-down across the felt. "Alright, graduate—draw your profession."
+
+Jordan reached out, slid a single card from the center of the fan, and flipped it face-up on his lap tray.
+
+Printed across the top of the card in bold capital letters was a single word: **`ASTROPHYSICIST`**.
+
+Jordan’s jaw dropped behind his glasses, and a huge, incredulous grin broke across his face.
+
+<aac>No way!</aac> `EchoType` chimed, his eyes shining as he held the card up for Aubrie to see. <aac>What are the statistical odds of that? It is fate!</aac>
+
+Aubrie laughed with pure delight, reaching across the corner of the table to give his forearm a warm squeeze. "Even the board game knows you belong among the stars, J."
+
+Spinning the wheel again, they continued down the winding path of the board until Jordan’s cobalt-blue car landed squarely on a bright gold milestone space marked **`GET MARRIED`**.
+
+Aubrie picked up the milestone card and read the header aloud, her voice softening naturally on the words.
+
+Suddenly, the boisterous laughter from the other tables seemed to fade into a distant hum. Looking at the second empty slot in the front seat of his little blue plastic car, Jordan lifted his gaze across the board and looked directly into Aubrie Jean’s dark, gentle eyes.
+
+With his heart beating fast against his ribs, he typed two quiet words on his keyboard—asking a question that had nothing to do with the cardboard track between them:
+
+<aac>One day?</aac>
+
+Tears sprang immediately to Aubrie’s eyes. Reaching across the game board, she took both of Jordan’s hands in hers, her grip warm, steady, and absolute.
+
+"Yes," Aubrie whispered, her entire heart shining in her gaze. "One day."
+
+It wasn't a formal proposal, and they were still nineteen-year-old freshmen with years of college ahead of them—yet in that quiet breath, it was something even more foundational: a shared promise spoken aloud for the very first time. With reverent care, Jordan picked up a pink peg and slotted it into the passenger seat right beside his blue peg, staring down at the two tiny figures sitting side by side.
+
+Over the next several turns, he bought a miniature plastic starter house and drew lighthearted *Odyssey* event cards—*"Win second place in the county chili cook-off,"* *"Adopt a stray golden retriever."*
+
+And then he flipped over a hazard card that made his entire body go rigid.
+
+*"A sudden medical emergency drains your savings,"* Aubrie read aloud, her voice faltering the instant the words left her lips. *"Pay the bank fifty thousand dollars."*
+
+The playful warmth vanished from Jordan’s face as if a switch had been thrown. The words *medical emergency* and *drains your savings* struck straight at the deepest, rawest scar his mother had carved into his psyche—the terror that his body was a ticking financial bomb destined to ruin anyone who cared for him. Instinctively, his hands pulled back from the table.
+
+Aubrie saw the flinch instantly. Before the spiral could take root, she covered his hands with hers and leaned in until her eyes locked onto his.
+
+"Hey—look at me, Jordan," Aubrie said softly but fiercely. "First of all, this is just a piece of cardboard. And second, even in real life, you are never going to be alone or unprotected again. Did you hear what Daniel and Laura promised you on Monday night? Did you see all seventeen of us in this house? Whatever happens down the road, we handle it together. That is what a real family does."
+
+Her voice acted like a physical anchor dropping into turbulent water. Taking a long, steadying breath, Jordan nodded once, counted out the play bills into the plastic bank tray, and felt the phantom dread dissolve.
+
+Two spins later, his blue car landed on a pastel space illustrated with a tiny stork and a rattle.
+
+"Congratulations!" Aubrie beamed, reading the square aloud. "It's **twin girls**! Add two daughters to your car!"
+
+With fingers that trembled slightly with emotion, Jordan picked up two miniature pink pegs from the tray and carefully slotted them into the backseat of his cobalt-blue plastic car, right behind the driver and passenger pegs.
+
+Staring down at the four pegs in the tiny car—a career, a wife, and two daughters—Jordan looked up at Aubrie Jean with nineteen years of quiet vulnerability in his eyes and typed the question he had been too afraid to ask another soul:
+
+<aac>Do you think I could ever actually be a good one? A good dad?</aac>
+
+The raw honesty of the question made Aubrie’s breath catch. She reached across the board and wrapped both of her hands around his.
+
+"**Jordan Kelly**," Aubrie said, her voice ringing with an unshakeable conviction that seemed to quiet the very air around their table, "I *know* you will be. You are going to be the best dad in the entire world—precisely because you know in your bones what a child should never, ever have to feel."
+
+The name hit Jordan like a warm, electric jolt.
+
+*Jordan Kelly.*
+
+He had never heard those two words spoken together in his life.
+
+Even after reclaiming his middle name *Jordan* on his first weekend at CPI, in the back of his mind he had still been *Jordan Fuller*—carrying the surname of a biological father he had never known and a legal identity tied to Hampton Roads. He had always passively assumed that when a man and a woman got married, the wife took the husband’s last name because that was simply the default rule of society.
+
+Wait—*did they have to?*
+
+As the realization unfurled across his mind, it felt like watching a new constellation ignite in a dark sky. *What if a husband could take his wife's last name? What if, the day I marry Aubrie Jean, I don't just drop 'Aubrey'—what if I shed 'Fuller' too, and become **Jordan Kelly** forever?*
+
+A watery, incandescent smile broke across Jordan’s face. Giving Aubrie’s hand a tight, grateful squeeze, he spun the wheel for the final stretch of the board until their little blue car—packed with a career, a marriage, and twin daughters—rolled onto the green squares of **Retirement**.
+
+Neither of them bothered counting up the play money to see who had won. Jordan simply looked down at the winding road his little blue car had traveled.
+
+<aac>So that is a life?</aac> Jordan tapped softly, his eyes wide with quiet wonder. <aac>That is what a whole life looks like?</aac>
+
+Aubrie smiled through happy tears, brushing her thumb across the back of his hand. "That's one version of it," she whispered. "And now, Jordan, you get to build your own—for real."
+
+### Scene 5: The Someday Promise
+
+**Date:** 2014-12-25 at 15:30 America/New_York
+
+Around them in the living and dining rooms, the cheerful uproar of the board game tournament continued—**Caleb** and **Mark** debating a dice roll in *Warlords of the Sphere* while **Madison** and **Liam** cheered over a winning sketch in *Scribble Scramble*—but **Jordan**’s gaze couldn't leave the tiny cobalt-blue plastic car resting on the corner of their card table, still carrying its four miniature pegs.
+
+The emotions that simple plastic game had unlocked inside his chest were too vast—and too sacred—to process in the middle of a crowded, noisy room.
+
+Catching **Aubrie Jean**’s eye across the table, Jordan gave her a quiet, meaningful look and glanced toward the hallway.
+
+Aubrie understood immediately. Without needing a single word, she stood up, excused the two of them with a casual wave, and gently guided Jordan’s wheelchair out of the living room and down the quiet first-floor hallway into the unoccupied guest room, clicking the door shut behind them.
+
+Inside, the room was hushed and peaceful, illuminated by the slanting amber glow of the late-afternoon December sun reflecting off the snow outside the window.
+
+Turning his wheelchair to face her, Jordan looked up at Aubrie Jean—his eyes wide, earnest, and shining behind his glasses—and began typing carefully on his `Precisionist 5000`:
+
+<aac>That game we just played,</aac> `EchoType` murmured softly in the quiet room. <aac>Seeing that little blue car with our pegs in the front seat, and the kids in the back... that was the very first time in my life I ever let myself imagine what a real future could actually look like.</aac>
+
+He paused, looking straight into her dark eyes with total, unguarded devotion, and typed the next sentence:
+
+<aac>And I realized something, Aubrie. If I could only have one person beside me for that entire journey, it would have to be you. It would always be you.</aac>
+
+Tears welled in Aubrie Jean’s eyes. Stepping forward, she knelt down beside his chair so their faces were level and took his cheeks gently between her warm palms.
+
+"Oh, Jordan..." she whispered, her voice trembling with emotion. "It's the exact same for me. Since the very first day in Room 214, it has always been you."
+
+The promise of *someday* hung luminous and real in the quiet air between them as she wrapped her arms around his neck and pulled him into a tight, breathless embrace.
+
+When they drew back just enough to look at each other again, however, the energy in the silent room shifted. Beneath the familiar, grounding warmth of their emotional bond, a new, unmistakable magnetic pull sparked between them. Looking into Aubrie’s dark eyes, Jordan saw something deeper than comfort—he saw unmistakable romantic desire.
+
+Slowly, giving him every second to read her movement, Aubrie leaned in.
+
+When her lips met his, this kiss was altogether different from the gentle, reassuring pecks they had shared during the fall semester. It was deeper, unhurried, and confident—a shared, trembling breath followed by the soft, searching brush of her lips and the tender touch of her tongue against his.
+
+Jordan’s breath caught as a wave of warm electricity cascaded from the crown of his head all the way to his fingertips. Leaning into her embrace, his hand resting gently against the back of her neck, he experienced the very first truly passionate kiss of his life—a silent, breathtaking conversation that spoke of four months of deepening love.
+
+When they finally parted a long moment later, both of them were completely breathless, their cheeks flushed crimson.
+
+Aubrie rested her forehead lightly against his, her chest rising and falling rapidly as she looked into his eyes with raw vulnerability.
+
+"Was that okay?" she whispered shakily. "Are you okay?" She swallowed softly, her gaze wide and earnest. "Because... we can do whatever you want to do, Jordan."
+
+The subtext was right there—an open, trusting doorway to the next level of physical intimacy, letting him know that she was ready whenever he was.
+
+Yet Jordan—whose entire eighteen years before August had been spent in total isolation, and whose experience with romance was still brand-new and wonderfully innocent—didn't hear the unspoken double meaning at all. His literal, analytical mind heard only his girlfriend’s loving concern for his sensory and emotional state after such an intense first kiss.
+
+A look of pure, radiant happiness spread across Jordan’s face.
+
+<aac>More than okay,</aac> he tapped softly on his keyboard, still marveling at the tingle on his lips. <aac>That was the best kiss yet.</aac>
+
+Then, reaching up to lace his fingers through hers with complete, unclouded sincerity, he added:
+
+<aac>Can we just sit right here for a few minutes? Just holding hands like this?</aac>
+
+For half a second, Aubrie blinked—and then her heart melted completely into a puddle.
+
+She understood instantly. He hadn't missed her hint because he was turning her away; he had missed it because his mind, in its pure, sweet innocence, was still completely awestruck by the wonder of simply kissing her and holding her hand. It was the most endearing, genuine response she could have ever imagined.
+
+A wave of overwhelming tenderness washed over her face. Smiling through her tears, Aubrie leaned in and pressed a soft kiss to his forehead.
+
+"Of course we can, J," she whispered warmly, pulling a chair right up beside his wheels and lacing both her hands with his. "We can sit right here like this for as long as you want."
+
+And for the next ten quiet minutes, as the afternoon sunlight turned to gold across the floorboards, they sat side by side in the hush of the guest room—simply holding hands, their unspoken promise for the future sealed between them.
+
+### Scene 6: The Unspoken Announcement
+
+**Date:** 2014-12-25 at 16:00 America/New_York
+
+When the guest room door clicked open and **Jordan** and **Aubrie Jean** rolled back out into the main living room, neither of them said a word.
+
+Aubrie walked beside Jordan’s wheelchair with one hand resting lightly on his shoulder. They were completely quiet, yet their faces told the entire story: beneath the faint, lingering traces of happy tears, both of them radiated a serene, incandescent glow that seemed to hum in the air around them.
+
+One by one, the lively chatter around the board game tables quieted as the rest of the household noticed their return.
+
+**Madison**, pausing mid-sketch at the *Scribble Scramble* easel, looked from Aubrie’s flushed cheeks to Jordan’s luminous smile, and a huge, unabashed grin broke across her face.
+
+"Well," Madison announced to the room, her voice brimming with warm, zero-jealousy delight, "I don't know what just happened in that hallway, but whatever it is, I am one hundred percent here for it!"
+
+Over at the *Lexicographer’s Duel* sofa, **Zoë** looked up over the rims of her glasses, observed their posture and flushed faces for two seconds, and nodded with a small, approving smile of her own.
+
+"The observable biometric data indicates a highly positive emotional outcome," Zoë noted dryly. "We fully support the data."
+
+"You both just look... so happy," **Lauren** added softly from beside **Sarah** and **Jessica**, all three of them beaming at the pair.
+
+At the dining room table, **Mark** set down his plastic dice cup in the middle of *Warlords of the Sphere* and stood up from his chair. His expression was serious, steady, and filled with deep brotherly conviction. Looking straight at Jordan, Mark spoke in a clear voice that brought a respectful hush over all seventeen people in the house.
+
+"Jordan, listen to me," Mark said firmly. "Whatever the two of you just decided back there—whatever your future looks like down the road—it belongs to *you*. Completely."
+
+Mark took a step closer to Jordan’s wheelchair, his gaze unwavering.
+
+"That woman down on the coast," Mark continued, deliberately refusing to give Aubrie Sinclair’s name oxygen in their home on Christmas Day, "is a ghost. She's a bad memory in the rearview mirror. She has zero power inside this house, and she has zero say in your story anymore. We—every single one of us in this room—will never let her hurt you or take your future away from you again. That is an ironclad promise."
+
+Around the living room and dining room, a fierce, immediate chorus echoed from every corner—**Caleb**, **Owen**, **Jessica**, **Hannah**, **Megan**, **Chloe**, **Ethan**, and **Daniel** and **Laura Brooks**:
+
+*"Never."*
+
+*"Damn right."*
+
+*"Not on our watch."*
+
+Jordan looked around the sunlit room at all sixteen faces surrounding him—his suitemates, his brothers and sisters, his chosen parents—each one radiating unconditional love and unbreakable solidarity.
+
+With his eyes shimmering behind his glasses, Jordan reached out his left hand, which Aubrie Jean immediately took as she sat down beside him, while with his right hand he tapped two quiet, heartfelt words on his `Precisionist 5000`:
+
+<aac>Thank you.</aac>
+
+Seeing that their vow had landed squarely in Jordan’s heart, the family let the joyous chaos of the afternoon resume—dice clattering, timers buzzing, and laughter filling the house once more, charged now with the electric certainty of a future they had all sworn to protect.
+
+### Scene 7: Holiday House-Sitter & A Feast for a Family
+
+**Date:** 2014-12-25 at 17:30 America/New_York
+
+As the last of the board games were packed neatly back into their boxes and the late-afternoon December sky deepened into twilight outside, an extraordinary aroma began drifting through the house from the upstairs kitchen.
+
+It was a symphony of savory holiday cooking: slow-roasted turkey basted with butter and sage, clove-studded honey-baked ham, caramelized sweet-potato casserole, garlic mashed potatoes, and fresh dinner rolls baking golden in the oven under the watchful eyes of **Laura**, **Daniel**, **Megan**, and **Chloe**.
+
+While the final touches of the feast came together upstairs, the rest of the household headed down into the cozy basement theater setup for the next mandatory pillar of **Jordan**’s Christmas education: the holiday comedy movie marathon.
+
+First up on the big screen was the undisputed slapstick classic, ***Holiday House-Sitter***.
+
+Within twenty minutes, the entire basement was roaring with laughter as the resourceful eight-year-old hero rigged his suburban house with an increasingly absurd gauntlet of blowtorches, swinging paint cans, iced-over basement steps, and tarantulas to defeat a pair of bumbling burglars.
+
+"Oh, wait for it—here it comes!" **Mark** crowed gleefully, pointing at the screen right before the taller burglar took a flying, cartoon-physics wipeout across the icy front porch steps. "Every single year, that gets me!"
+
+Sitting between **Aubrie Jean** and **Madison** on the sectional sofa, Jordan laughed so hard that he had to wipe tears from behind his glasses. He had never watched a slapstick holiday movie in his life, and watching it surrounded by fourteen people who knew every punchline by heart made it ten times funnier.
+
+Right as the end credits rolled on the first film, **Owen** popped in the sequel—***Holiday House-Sitter 2: Lost in the Big City***—and the crew settled back into the cushions beneath the warm glow of fairy lights strung along the basement ceiling.
+
+Halfway through the sequel’s hotel prank sequence, the mouthwatering aroma of roasted turkey and glazed ham reached a crescendo, and Laura Brooks’s voice called cheerfully down the open stairwell:
+
+"Pause the movie, everyone—Christmas dinner is on the table!"
+
+There was an immediate scramble for the remote. As everyone stood up and stretched to head upstairs, Zoë’s youngest brother **Liam** looked hopefully around the room.
+
+"Hey, after dinner, can we watch *Holiday House-Sitter 3*?" Liam asked.
+
+"NO!" all nine college freshmen shouted in instantaneous, pitch-perfect unison—a response so synchronized that Caleb, Owen, and Ethan nearly doubled over laughing.
+
+"Liam, listen to me very carefully," Madison declared, placing a solemn hand on the boy’s shoulder with the gravitas of a tenured film historian. "There is *Holiday House-Sitter*, and there is *Holiday House-Sitter 2: Lost in the Big City*. The trilogy does not exist. The series ends at two. That is the sacred law of cinema."
+
+Upstairs, the main dining room table had been linked seamlessly with a heavy banquet folding table and draped in crisp white linen to create one continuous table seating all **eighteen** members of the household (including Chloe’s husband Ethan).
+
+After Caleb and Owen carried Jordan upstairs and settled him into his place of honor at the head of the table between Aubrie Jean and Madison, Daniel Brooks stood up at the opposite end, lifting a crystal glass filled with sparkling golden apple cider.
+
+The room fell into a warm, expectant hush. Daniel looked slowly around the table at the seventeen faces looking back at him—his wife Laura, their seven children and son-in-law, and the nine college friends who had become the heart of their extended family around Jordan.
+
+"I just want to say," Daniel began, his deep voice thick with quiet emotion, "that looking down the length of this table tonight... *this* is what the holiday is all about. Not the wrapping paper or the calendar date, but the people sitting beside you. To family—every single one of you. Happy holidays, and Merry Christmas."
+
+"To family!" seventeen voices echoed warmly, glasses of sparkling cider clinking down the length of the table.
+
+As steaming platters of roasted turkey, honey-glazed ham, herb stuffing, green-bean casserole, and cranberry sauce made their way around the table, Jordan looked out over the laughter, the overlapping stories, and the effortless affection filling the room—and knew that no matter how many Decembers he lived to see, he would never forget his first Christmas.
+
+### Scene 8: A Christmas Night Whisper
+
+**Date:** 2014-12-25 at 20:30 America/New_York
+
+After the magnificent dinner plates were cleared and slices of warm apple pie and chocolate yule log had been polished off, the entire household migrated back downstairs to the basement to finish the second half of ***Holiday House-Sitter 2: Lost in the Big City***.
+
+With **Caleb** and **Owen** serving as the "human elevator" once more and **Aubrie Jean** and **Jessica** carrying down the wheelchair, **Jordan** transferred onto the center cushion of the wide plush sectional sofa. Immediately, Aubrie Jean curled up under his left arm while **Madison** snuggled in close under his right, the three original roommates of `Room 214` tucked beneath a shared fleece blanket while the lamp lights were dimmed low.
+
+While the rest of the family roared with laughter as the two hapless cinema bandits walked into a barrage of bricks and paint cans on screen, Madison—ever observant—noticed that the quiet, rosy glow on both Jordan’s and Aubrie Jean’s cheeks hadn't faded since four o'clock that afternoon.
+
+Leaning in close so her whisper wouldn't carry past their end of the sofa, Madison nudged Jordan’s ribs playfully.
+
+"Okay, you two, spill," Madison whispered with a teasing grin. "There is definitely something I need to know before we head back to Room 214 in two weeks, isn't there?"
+
+Even in the dim glow of the television screen, Aubrie Jean’s blush deepened to scarlet. Leaning across Jordan’s chest so only Madison and Jordan could hear her, Aubrie whispered excitedly:
+
+"We kissed. Like... a real, proper kiss."
+
+Madison’s blue eyes lit up instantly, putting the pieces together from how radiant the two of them had looked walking out of the first-floor guest room after their game of *Odyssey*. There wasn't a trace of envy in Madison’s heart—only pure, infectious joy for the two people she loved most.
+
+Seeing the genuine happiness on her roommate’s face, Aubrie let out a quiet breath of relief and quickly added in a hushed murmur: "And Madi, I want you to know—this changes nothing about our pact. We still have our sleep rotation. And you can kiss him like that too—all of you can, whenever you and Jordan want."
+
+Hearing her say that, Jordan gently tightened both of his arms around Aubrie and Madison, his heart overflowing.
+
+Madison, however, noticed that Aubrie’s cheeks were still burning and that her roommate was biting her lower lip with a mixture of nervousness and quiet determination.
+
+"Wait a second," Madison whispered gently, tilting her head. "What else is on your mind, Aubs?"
+
+For a second, Aubrie looked wonderfully shy—caught between eighteen years of reserved upbringing and the absolute trust she felt inside their circle. Dropping her voice to the softest possible whisper against Jordan’s collarbone, she finally found her courage.
+
+"When we were in the guest room today... I realized I'm ready for the next step with him," Aubrie whispered. "With my boyfriend."
+
+She half-expected Madison to tease her, but instead, Madison reached across Jordan’s lap and gave Aubrie’s hand a warm, reassuring squeeze.
+
+"You know," Madison whispered back with gentle honesty, "I really like him in that way, too. Honestly, I think all of us in the pact do—except Hannah, of course, out of love and respect for Mark, which is completely wonderful. Moving forward... when we're back in our own rooms at Bennett Hall, we can share that part of life together, too."
+
+Aubrie’s eyes shone in the movie light as she turned her gaze up to Jordan.
+
+Now it was Jordan’s turn to blush from the collar of his sweater all the way to the tips of his ears.
+
+Suddenly, Aubrie’s whispered words in the guest room five hours earlier—*"We can do whatever you want to do"*—clicked into focus in his mind with crystal clarity. He remembered the health and human sexuality lectures from Professor Miller’s *HSC 201* course that semester on explicit communication, mutual readiness, and enthusiastic consent.
+
+Looking from Aubrie’s tender dark eyes to Madison’s warm blue ones, Jordan reached one hand to the compact `mPhone` resting on his lap under the blanket and typed a silent, dimmed-screen note just for the two women tucked under his arms:
+
+<sms>When we get back to our quiet dorm room at CPI, I would really like to try—with both of you. With Aubrie first, please.</sms>
+
+Reading the screen together, Aubrie Jean and Madison whispered in soft, synchronous unison: *"Of course."*
+
+"We'll talk about all of it together when we get back to Bennett Hall," Aubrie promised softly, kissing his cheek as they turned their attention back to the movie just in time to watch the burglars get covered in pigeon feathers in the park.
+
+Half an hour later, when the end credits rolled and the Brooks siblings headed upstairs to bed, Jordan was blissfully, completely exhausted—his mind brimming with the memories of his first Christmas stockings, his first holiday feast, his first board game future as *"Jordan Kelly,"* and his first passionate kiss.
+
+After Aubrie and Madison helped him brush his teeth and change into his flannel pajamas in the basement bathroom, the two women exchanged a warm smile as they walked him back out to the bedroom area.
+
+"Hey guys," Madison announced softly to Zoë, Lauren, Sarah, Jessica, Hannah, and Mark as everyone arranged their pillows. "Aubrie and I are both sharing Jordan's queen bed tonight."
+
+"Understood," **Zoë** replied with pragmatic efficiency, fluffing her pillow on the adjacent queen mattress. "That leaves an even distribution across the remaining beds. No logistical conflict."
+
+Two minutes later, the basement lights clicked off. Tucked squarely in the middle of the warm queen mattress with Aubrie Jean snuggled against his left side and Madison curled against his right—their hands resting over his chest—Jordan closed his eyes and drifted into the deepest, happiest sleep of his life. His first Christmas was complete.
+
+## Boxing Day in Bluewater
+
+### Scene 1: The Bluewater Town Plaza Plan
+
+**Date:** 2014-12-26 at 09:30 America/New_York
+
+On the morning of Friday, December 26th—the day **Daniel**, **Laura**, and **Zoë** cheerfully referred to by its British and Commonwealth name, **Boxing Day**, right alongside Canadian **Lauren** and Australians **Sarah** and **Jessica**—**Jordan** rolled up to the breakfast table with a resolute glint in his eyes and his new `$50` Christmas stocking gift card tucked inside his wallet.
+
+<aac>I would like to try going to an indoor shopping mall again today,</aac> Jordan announced on his `Precisionist 5000`. <aac>Now that the pre-Christmas rush is over, I want to prove to myself that I can do a full shopping trip without having to abort.</aac>
+
+**Madison** immediately lit up with the perfect solution.
+
+"Let's not go back to New River Valley Mall—it's huge and echoes like an airplane hangar," Madison suggested warmly. "Instead, let's go down to the **Bluewater Town Plaza** in my hometown! It's an enclosed indoor mall, so it still counts one hundred percent, but it's single-story, carpeted in the seating areas, and way calmer on the senses. Plus, my parents, **Bob**, and **Emily** would love to meet us there for lunch!"
+
+Jordan nodded enthusiastically, and added one more stipulation on his keyboard:
+
+<aac>And I want us to take the bus the whole way there and back.</aac>
+
+Daniel Brooks, pouring a cup of Yorkshire tea at the counter, smiled with genuine respect for Jordan’s determination to master independent transit.
+
+"I think Bluewater Town Plaza is a brilliant call," Daniel said, nodding in approval. "And since **Mark**, **Hannah**, **Sarah**, and **Jessica** promised **Megan** and **Chloe** they'd help defend their title in the Boxing Day *Warlords of the Sphere* rematch here today, how about **Caleb** and **Owen** ride down to Bluewater with the five of you as extra muscle?"
+
+"Count us in," Caleb grinned immediately, clapping Owen on the shoulder. "Any excuse to eat in Bluewater."
+
+Madison pulled out her `mPhone`, checked the **Bluewater Transit** holiday timetable, and fired off a text to her mother:
+
+<sms>[Madison -> Diane Scott]: Hey Mom! We're bringing the Bluewater 7 down on the Maroon Express! Can you, Dad, Bob & Em meet us at the Bluewater Town Plaza for lunch around 11:15?</sms>
+
+Thirty seconds later, her phone chimed back:
+
+<sms>[Diane Scott -> Madison]: Of course, honey! We would love that! See you at the main entrance at 11:15!</sms>
+
+Pulling on his heavy winter parka—zipping it up to his chin by himself in under twenty seconds now—and slipping his hands into the brand-new fleece-lined leather wheelchair push-gloves from his Christmas stocking, Jordan rolled out the front door alongside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Caleb**, and **Owen** for the brisk walk down to the **Falling Branch Park & Ride**.
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the Bluewater 7. At Falling Branch Park & Ride, waiting for the 9:45 AM Maroon Express.</sms>
+
+Right on the dot at nine-forty-five, the gleaming burgundy-and-silver motorcoach pulled into the bay. While the five CPI freshmen flashed their university Poly Passes, Caleb and Owen purchased two Regional Express Day Passes at the farebox, and the seven of them settled in for the scenic hour-long ride down through the mountains to Bluewater, arriving at the downtown **Bluewater Transit Center** at ten-forty-five to transfer onto the local **Orange Line** bus toward the plaza.
+
+### Scene 2: Lunch at The Corner Bistro
+
+**Date:** 2014-12-26 at 11:15 America/New_York
+
+At eleven-fifteen sharp, the **Bluewater Transit *Orange Line*** bus hissed to a stop directly in front of the main glass atrium of the **Bluewater Town Plaza**.
+
+Waiting right beside the curb under the covered portico, just as promised, were **David and Diane Scott**, fourteen-year-old **Bob**, and fifteen-year-old **Emily**.
+
+"Hey, squirt!" **Madison** cheered, hopping off the bus steps first to playfully muss her little brother’s hair before pulling him into a warm hug.
+
+Looking past his sister at the group disembarking down the ramp, Bob let out a bright, delighted chirp—a clear note of pure happiness in the **Heart-Hum**—and hugged Madison back tightly.
+
+Madison turned next to her cousin, her expression softening as she wrapped five-foot-three Emily in a deep, meaningful embrace. Seeing Emily out in town for the second time in four days—looking noticeably more relaxed, wearing a warm new winter sweater Diane had bought her, and standing tall beside Bob—filled Madison’s chest with relief.
+
+After Madison introduced **Caleb** and **Owen Brooks** to her parents with a round of firm handshakes and warm holiday greetings, the eleven of them stepped through the automatic doors into the plaza.
+
+Madison had been right: the **Bluewater Town Plaza** was a night-and-day contrast to the cavernous echoing concourse of the New River Valley Mall. Acoustic ceiling baffles softened the ambient chatter to a gentle murmur, warm skylights flooded the planters with natural winter sun, and the aisles were wide and unhurried. Neither **Jordan** nor **Aubrie Jean** even needed to put in their foam earplugs.
+
+"So, what is everyone in the mood for?" Diane asked warmly. "I was thinking **The Corner Bistro**, Madi, since I know their tomato basil soup and paninis are your favorite."
+
+"Yes! Perfect!" Madison beamed.
+
+The host seated their party of eleven around a large circular table in the quiet rear alcove of the bistro. Madison sat happily between her parents, while **Lauren** made sure to sit right beside Emily and Bob, greeting both cousins with gentle warmth as Jordan locked his wheels between Aubrie Jean and David Scott.
+
+Leaning forward with his elbows on the table, David Scott looked at Jordan with genuine interest.
+
+"Madison tells us you and Aubrie are both majoring in Astrophysics up at CPI, Jordan," David said warmly. "That is fascinating stuff. What first got you hooked on studying the stars?"
+
+The straightforward, man-to-man question put Jordan completely at ease. Over the next twenty minutes—with `EchoType` speaking clearly at the quiet table and Aubrie chiming in enthusiastically beside him—Jordan and David dove into a lively conversation about exoplanet transit spectroscopy, the cosmic microwave background, and how the laws of orbital mechanics were the most reliable, deterministic music in the universe.
+
+When everyone had finished their lunch and the server set the black leather check presenter down near the center of the table, Jordan’s heart began to thump with a nervous, exhilarating energy.
+
+*This is my chance,* he thought.
+
+Before David Scott or Caleb could reach for their wallets, Jordan unzipped his own wallet on his lap tray and slid out the crisp **`$50` prepaid Visa gift card** that Daniel and Laura had tucked into his Christmas stocking the morning before.
+
+For eighteen years, Jordan had been made to feel like a line-item liability on someone else’s balance sheet—an expensive burden who only ever cost money and had nothing of his own to offer. Today, for the first time in his life, he had the power to treat people who had opened their home and hearts to him.
+
+Reaching out, Jordan placed the `$50` card squarely on top of the leather bill folder and tapped his keyboard, his eyes shining with quiet pride:
+
+<aac>Please,</aac> `EchoType` said warmly. <aac>Let me cover part of lunch today. I want to do this.</aac>
+
+David and Diane Scott looked at the card, then up at Jordan’s earnest face, deeply touched by the dignity and generosity behind the gesture.
+
+"Well, thank you, Jordan," David said, nodding with sincere respect rather than brushing the offer aside. "That is wonderfully generous of you. We'd be honored."
+
+Fifty dollars didn't cover the entire tab for eleven people, of course,-but it took care of a major share of the bill, and Caleb, Owen, and David seamlessly covered the remainder without a fuss. As the server brought back the receipt folder and Jordan signed his own slip, he sat a full inch taller in his chair.
+
+### Scene 3: The Cushion & The Triumphant Return
+
+**Date:** 2014-12-26 at 13:00 America/New_York
+
+After lunch at *The Corner Bistro*, the eleven of them strolled through the sunlit concourse of the **Bluewater Town Plaza** to browse the post-holiday sales.
+
+Halfway down the main promenade, **Aubrie Jean** spotted a specialty ergonomic comfort and bedding store. Having noticed over the past two weeks how thin and worn the factory nylon sling seat of **Jordan**’s old steel wheelchair had become during long transit days, she steered them inside, picked out a thick, contoured high-density medical-grade memory-foam seating cushion with a breathable mesh cover, and paid for it at the register using one of her own Christmas gift cards before Jordan could protest.
+
+Right there in the quiet seating alcove outside the shop, **Caleb** and **Owen** lifted Jordan smoothly for two seconds while Aubrie strapped the contoured memory-foam cushion onto his seat and lowered him back down onto it.
+
+"There," Aubrie said softly, brushing a lock of hair back from her forehead as she looked down at him. "How does that feel until your custom chair is built?"
+
+A long, genuine sigh of physical relief escaped Jordan’s chest as the contoured foam immediately relieved the pressure points under his hips and lower back. Smiling warmly up at her, he tapped his `Precisionist 5000`:
+
+<aac>Why yes, that feels so much better! Thank you, Aubrie.</aac>
+
+While **Zoë**, **Lauren**, Caleb, and Owen browsed a nearby bookstore using their holiday gift cards, **Madison** walked a few paces ahead alongside her brother **Bob** and her cousin **Emily**. Watching the two non-verbal teenagers communicate effortlessly through subtle hand touches and quiet, rhythmic hums as they looked into the shop windows, Madison turned to her fifteen-year-old cousin with a gentle smile.
+
+"So, Em," Madison asked softly, "now that you've had a few weeks to settle in... how are you really liking living here in Bluewater?"
+
+Emily looked at her older cousin, and a genuine, unburdened smile—one that reached all the way to the corners of her eyes—lit up her face. Reaching into her crossbody bag, Emily pulled out the shared `mPad` tablet that she and Bob used for text communication and typed a message across the screen, turning it toward Madison:
+
+<sms>So much better, Madi. I'm so much happier here. And watching you and Jordan and your friends... I think I want to go to CPI when I turn 18.</sms>
+
+Beside her, Bob let out a bright, affirmative chirp and tapped the corner of the tablet screen with his index finger: *Me too.*
+
+Madison’s eyes misted over with pride. She pulled both Emily and Bob into a tight hug right in the middle of the plaza walkway. "And when you two get to CPI, we are going to show you every inch of campus."
+
+At one-ten in the afternoon, after warm hugs and goodbyes with **David**, **Diane**, Bob, and Emily outside the plaza doors, the seven travelers boarded the one-fifteen **Orange Line** bus back toward downtown Bluewater, arriving at the **Bluewater Transit Center** with plenty of time to transfer to the waiting two-forty-five **Maroon Express** coach northbound.
+
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the Bluewater 7. All 7 of us are aboard the 2:45 PM Maroon Express departing Bluewater. Destination: Falling Branch Park & Ride. ETA 3:45 PM.</sms>
+
+An hour later, as the motorcoach pulled into Falling Branch at three-forty-five and the seven of them walked the final, familiar block up **Geneva Street** toward the warm windows of the Brooks home, Jordan rolled effortlessly inside his new leather push-gloves, cushioned comfortably atop the memory-foam seat Aubrie had bought him.
+
+He hadn't experienced a single trace of sensory panic. He had ridden regional and local buses across two counties, talked astrophysics with Madison’s father, helped pay for a family restaurant meal with his own Christmas gift card, and completed a full afternoon at an indoor shopping mall.
+
+As the front door of the Brooks house opened to the welcoming cheers of **Mark**, **Hannah**, **Sarah**, **Jessica**, **Daniel**, and **Laura**, Jordan looked back out at the sunlit December snow one last time before heading inside. Winter Break had given him his first birthday, his first Christmas, a brother for life, and the first glimpse of a future named **Jordan Kelly**—and he was ready for whatever the new year brought next.
 
 # Jordan's World Trek
 
