@@ -4505,7 +4505,7 @@ When the front door opened, thirty-eight riders crammed inside in less than two 
 
 "I'm sorry, sweetheart, I physically cannot close the doors if one more person steps on this bus," the driver said gently before pulling the lever to fold the doors shut.
 
-As the single thirty-foot *Radford Connector* pulled out onto East Main Street at `08:18 AM`, **seventy-four people** were left standing on the McConnell Transit Center island—including sixteen Radford University students who needed to reach internships at New River Valley Mall and dozen of RU students whose local connecting buses had just departed four minutes late without them because of the gridlock in the bus bays.
+As the single thirty-foot *Radford Connector* pulled out onto East Main Street at `08:18 AM`, **seventy-four people** were left standing on the McConnell Transit Center island—including sixteen Radford University students who needed to reach internships at New River Valley Mall and dozens of RU students whose local connecting buses had just departed four minutes late without them because of the gridlock in the bus bays.
 
 Dr. Catherine Sterling turned away from the curb, her face set like granite as she looked at City Manager Keaton and Walter Hendricks.
 
@@ -4517,9 +4517,13 @@ Dr. Catherine Sterling turned away from the curb, her face set like granite as s
 
 "Come up to my office at City Hall—both of you," City Manager Keaton said, gesturing toward his city vehicle parked at the end of the block. "No more phone calls to mid-level dispatchers. We are drafting an official joint complaint on City of Radford, Radford Transit, and Radford University letterhead right now, and we are sending it straight to CPI's Vice President for Administration and their Director of Housing before lunch."
 
-***
+### Scene 2: Interlude: The Joint Administrative Complaint
 
-At `11:45 AM EDT`, the following formal administrative notice was transmitted via courier and high-priority electronic dispatch from Radford City Hall to Burruss/Preston Administration and the central **Office of Housing and Residence Life (`Suite 115`, Bennett Hall)** at Commonwealth Polytechnic Institute:
+**Date:** 2014-09-08 at 11:45 America/New_York
+
+Upstairs inside the City Manager's conference room at **Radford City Hall**, **Walter Hendricks**, **Douglas Keaton**, and **Dr. Catherine Sterling** spent the next two hours compiling automated passenger-counter logs, dispatch recordings from `Unit 104` and `Unit 107`, and incident statements from the **Radford University Police Department**.
+
+At `11:45 AM EDT`, the following formal administrative notice was transmitted via bonded municipal courier and high-priority electronic dispatch from Radford City Hall to Burruss/Preston Administration and the central **Office of Housing and Residence Life (`Suite 115`, Bennett Hall)** at Commonwealth Polytechnic Institute:
 
 > **OFFICIAL JOINT ADMINISTRATIVE COMPLAINT & NOTICE OF IMPENDING EMERGENCY `POLYPASS` CAPACITY RESTRICTION**<br>
 > **Reference No.:** `RT-COR-RU-2014-0908`<br>
@@ -4556,7 +4560,7 @@ At `11:45 AM EDT`, the following formal administrative notice was transmitted vi
 > — **Douglas Keaton**, City Manager, *City of Radford, Virginia*<br>
 > — **Dr. Catherine Sterling**, Vice President for Student Affairs & Campus Administration, *Radford University*
 
-### Scene 2: Interlude: The Fourteen-Day Floor Reports
+### Scene 3: Interlude: The Fourteen-Day Floor Reports
 
 **Date:** 2014-09-08 at 13:30 America/New_York
 
@@ -4628,7 +4632,7 @@ Kelsey smiled softly to herself, printed a hard copy of Isabel's report for her 
 
 Kelsey slipped both printed RA evaluations into her leather portfolio, glanced at the clock on her desktop (`13:55 EDT`), and stood up to walk across the firewall to Central Housing.
 
-### Scene 3: Interlude: The Post-Census Verdict
+### Scene 4: Interlude: The Post-Census Verdict
 
 **Date:** 2014-09-08 at 14:00 America/New_York
 
@@ -4694,7 +4698,7 @@ As Kelsey closed her binder, Dr. Mercer leaned back in his chair, looking though
 
 "I am," Dr. Mercer nodded. "Obviously, we would *never* place students into a co-ed suite at random—what happened on August 23 was a clerical fluke that happened to land on six extraordinary kids. Again, no crystal ball for the rest of the year: let's see how they handle midterms, winter weather, and spring semester. But if `Suite 214/216` finishes May 2015 with zero behavioral incidents and the kind of academic and personal thriving they've shown in these first two weeks... with their permission, their suite might just be the founding case study we take to the Vice President of Student Affairs to launch an official **Opt-In Gender-Inclusive Housing Pilot** next fall."
 
-### Scene 4: Interlude: The Good-Faith Accord
+### Scene 5: Interlude: The Good-Faith Accord
 
 **Date:** 2014-09-08 at 15:15 America/New_York
 
@@ -4752,7 +4756,9 @@ For a moment after Walter finished reading the fourth point aloud, the speakerph
 
 "Let's see how the `4:45` lineup looks on the pavement," Walter said, picking up his yellow safety vest and his Motorola radio with the first genuine smile he'd cracked in two weeks. "I'm heading back over to McConnell right now."
 
-***
+### Scene 6: Interlude: Relief at the :45 Pulse
+
+**Date:** 2014-09-08 at 16:40 America/New_York
 
 At `04:40 PM`, the late-afternoon sun slanted across the brick plaza of **McConnell Transit Center** outside McConnell Library as Radford University classes let out for the afternoon.
 
@@ -4772,7 +4778,7 @@ Walter keyed his lapel mic as `Unit 104` pulled out right on schedule at `04:46 
 
 <pa>Twenty-one seated, zero standees, and right on the money, Boss,</pa> Darrell's voice came back cheerfully over the radio. <pa>Those big maroon coaches just scooped up every CPI kid at the West Main hotels before I even got to the light. Looks like we got our city back.</pa>
 
-### Scene 5: The Suite Arrangement Consent Form
+### Scene 7: The Suite Arrangement Consent Form
 
 **Date:** 2014-09-08 at 18:30 America/New_York
 
@@ -6819,11 +6825,13 @@ At nine o'clock that night, with Aubrie Jean’s warm hand resting on his should
 
 Jordan pressed **`Send`**, setting the first brick of his Thanksgiving defense firmly into place.
 
-***
+### Scene 2: Locking the Record
+
+**Date:** 2014-11-25 at 09:00 America/New_York
 
 At nine o'clock the next morning—Tuesday, November 25, just before his final day of pre-break classes—Jordan took the next two steps.
 
-First, accompanied by Aubrie and Zoë, he took the elevator down to the first floor of Bennett Hall and knocked on the door of **Room 104**—**Kelsey Brennan**’s warm, lamp-lit office, the quiet room beside the front desk that Jordan had long since cataloged in his heart as one of his **Safe Places**.
+First, accompanied by **Aubrie Jean** and **Zoë**, he took the elevator down to the first floor of Bennett Hall and knocked on the door of **Room 104**—**Kelsey Brennan**’s warm, lamp-lit office, the quiet room beside the front desk that Jordan had long since cataloged in his heart as one of his **Safe Places**.
 
 "Come right on in, Jordan!" Kelsey called out warmly, stepping around her desk to hold the door wide.
 
@@ -6853,7 +6861,7 @@ The sergeant read the card carefully and gave a slow, understanding nod. It was 
 
 Rolling back out into the crisp November sunshine between Mark and Hannah, Jordan felt an immense weight lift off his chest. He hadn't just run away from Wednesday morning. He had used his voice, his preparation, and his legal rights as an adult to lock every door before his mother even started her engine in Virginia Beach.
 
-### Scene 2: The Final Hour & One Last Hug
+### Scene 3: The Final Hour
 
 **Date:** 2014-11-25 at 15:30 America/New_York
 
@@ -6879,11 +6887,15 @@ Sitting in the center of the room as the calm director of his own needs, Jordan 
 
 "Alright," Zoë called out at four-fifteen, zipping her own structured weekender bag shut. "We depart for Commonwealth Mall in twenty minutes. Final sweep of both rooms."
 
-As the others double-checked wall outlets, windows, and bathroom counters, Jordan’s eyes drifted toward the heavy oak door of Room 214.
+### Scene 4: One Last Hug
+
+**Date:** 2014-11-25 at 16:15 America/New_York
+
+As the others double-checked wall outlets, windows, and bathroom counters inside Suite 214/216, Jordan’s eyes drifted toward the heavy oak door of Room 214.
 
 Before he rolled out of Bennett Hall for the next five days, there was one last thing he needed to do.
 
-He tapped Aubrie Jean lightly on the wrist and pointed toward the hallway. Understanding immediately, Aubrie smiled and pressed the interior **PUSH TO OPEN** button for him.
+He tapped **Aubrie Jean** lightly on the wrist and pointed toward the hallway. Understanding immediately, Aubrie smiled and pressed the interior **PUSH TO OPEN** button for him.
 
 Jordan guided his wheelchair smoothly out into the second-floor corridor and turned toward **Room 215** right across the hall.
 
@@ -6925,7 +6937,7 @@ Just then, the elevator doors chimed down the hall, and **Kelsey Brennan** stepp
 
 Jordan looked at Isabel, Henry, and Kelsey standing together in the corridor—his three guardians of The Old Lady—and gave them a grateful nod before releasing his wheel locks and leading his chosen family—all eight of them—toward the elevator and out into the cool November afternoon.
 
-### Scene 3: The Maroon Express
+### Scene 5: The Maroon Express
 
 **Date:** 2014-11-25 at 16:35 America/New_York
 
@@ -6984,7 +6996,7 @@ Disembarking at the **Christiansburg Transit Center** at Falling Branch was just
 
 The entrance to Zoë’s neighborhood was just one short block away, at the corner of **U.S. Route 11** and **Simmons Road SE**. From there, it was only a few quiet, tree-lined blocks to the cul-de-sac of **Geneva Street**—where a warm golden porch light was already shining at the end of the lane to welcome them home.
 
-### Scene 4: Geneva Street
+### Scene 6: Geneva Street
 
 **Date:** 2014-11-25 at 17:15 America/New_York
 
@@ -7034,7 +7046,7 @@ Jordan gave her a bright, grateful nod, his shoulders relaxing even further.
 
 Surrounded by the warmth of steaming cider, easy laughter, and the unconditional hospitality of the entire Brooks clan, the basement didn't feel like a temporary hiding place at all. It felt like coming home.
 
-### Scene 5: Settling into Sanctuary
+### Scene 7: Settling into Sanctuary
 
 **Date:** 2014-11-25 at 21:30 America/New_York
 
@@ -7128,9 +7140,11 @@ Every door was locked. The Hall Director and her Senior RA were standing like gr
 
 Shooting Kelsey and Henry a look of pure, trembling venom, she spun on her heel and marched back up the brick walkway toward Washington Street SW without ever having set a single foot inside Bennett Hall.
 
-***
+### Scene 2: Interlude: Checkmate at Dispatch
 
-Sitting behind the steering wheel of her idling sedan on Washington Street SW with her hands shaking with rage, Aubrie Sinclair reached into her purse and pulled out her cell phone. If the university staff refused to bow to her, she would force the issue with the municipal authorities.
+**Date:** 2014-11-26 at 09:18 America/New_York
+
+Sitting behind the steering wheel of her idling sedan on Washington Street SW with her hands shaking with rage, **Aubrie Sinclair** reached into her purse and pulled out her cell phone. If the university staff refused to bow to her, she would force the issue with the municipal authorities.
 
 She dialed the non-emergency dispatch line of the **Blacksburg Police Department**.
 
@@ -7154,12 +7168,12 @@ Every single avenue—the dorm doors, the students, the housing office, the camp
 
 Slowly, Aubrie Sinclair lowered the phone from her ear and stared through the windshield at the stone facade of Bennett Hall rising above the hillside. With zero leverage and zero moves left to play, she shifted her sedan into drive, pulled away from the Washington Street curb, and headed back toward Interstate 81 in total defeat.
 
-Watching from the upper terrace walkway alongside Henry and Sergeant Miller until the sedan disappeared down the hill toward Route 460, Kelsey pulled her phone from her blazer pocket, opened **`Jordan Comms`**, and typed a message that she knew would bring a cheer to a basement twelve miles away in Christiansburg—and to a car heading up I-64 toward Charlottesville:
+Watching from the upper terrace walkway alongside **Henry Walsh** and **Sergeant Miller** until the sedan disappeared down the hill toward Route 460, **Kelsey Brennan** pulled her phone from her blazer pocket, opened **`Jordan Comms`**, and typed a message that she knew would bring a cheer to a basement twelve miles away in Christiansburg—and to a car heading up I-64 toward Charlottesville:
 
 > **`Kelsey [Wed 09:24]:`** <sms>[LOGISTICS] Official Bennett Hall All-Clear: She arrived at 9:12 AM, was stopped outside the locked lower doors by one of our awesome sophomores, and was met on the exterior walkway by me, Henry, and two CPI Campus Police officers. Never set a foot inside the building. Blacksburg PD just confirmed to Sgt. Miller that she tried to call in a missing-persons report from her car and was shut down cold by dispatch. Her car just cleared campus heading toward 460/I-81. Have a wonderful Thanksgiving, Jordan!!</sms><br>
 > **`Isabel [Wed 09:25]:`** <sms>YES!! 🎉💪 The Old Lady stays undefeated!! So proud of you, Jordan!! Happy Thanksgiving from Charlottesville!!</sms>
 
-### Scene 2: All-Time Quarterback & The Unfamiliar Car
+### Scene 3: All-Time Quarterback
 
 **Date:** 2014-11-26 at 14:00 America/New_York
 
@@ -7175,7 +7189,11 @@ And right at the center of the field sat **Jordan**—the designated **"All-Time
 
 Positioned in his wheelchair at midfield with his wheel locks set on a level patch of turf, Jordan threw tight, accurate spirals for both offenses in turn, a huge, unguarded grin plastered across his face behind his glasses. **Aubrie Jean** served as his fiercely loyal center and personal pocket protector—snapping the foam-composite football into his hands before every down and playfully stonewalling **Lucas** and **Jacob** whenever an over-enthusiastic pass rusher drifted within five yards of his chair. He wasn't sitting on the sidelines watching other people live; he was the central pivot point around which the entire game turned.
 
-An hour and a half later, rosy-cheeked, breathless, and laughing, all fifteen of them trooped back inside through the wide sliding-glass patio doors into the walk-out basement.
+### Scene 4: The Unfamiliar Car
+
+**Date:** 2014-11-26 at 15:30 America/New_York
+
+An hour and a half after the backyard touch-football game kicked off, rosy-cheeked, breathless, and laughing, all fifteen of them trooped back inside through the wide sliding-glass patio doors into the walk-out basement.
 
 **Laura Brooks** was already waiting down at the kitchenette counter with a steaming pot of spiced apple cider, while the mouthwatering aromas of toasted sage, cornbread stuffing prep, and baking pecan pies wafted down the staircase from the main kitchen above.
 
@@ -7207,7 +7225,7 @@ Daniel looked around the circle of seventeen people, his jaw set with quiet, unm
 
 A low, resolute murmur of agreement rippled across the basement. Whether his mother’s reach had grazed the edge of their neighborhood or not, the effect was the exact opposite of intimidation: the walls of their sanctuary had just grown seventeen people strong.
 
-### Scene 3: A Basement Feast & The Turkey Brawl
+### Scene 5: A Basement Feast
 
 **Date:** 2014-11-27 at 09:30 America/New_York
 
@@ -7245,9 +7263,11 @@ Jordan looked up at him and tapped a line onto his phone’s `EchoType` screen, 
 
 Daniel smiled warmly and squeezed his shoulder. "You're family, Jordan," he said simply. "This is what we do."
 
-***
+### Scene 6: The Turkey Brawl
 
-As eight o'clock that evening approached, the last of the pie plates and serving platters were cleared upstairs, and a brand-new kind of electricity filled the basement.
+**Date:** 2014-11-27 at 20:00 America/New_York
+
+As eight o'clock on Thanksgiving evening approached, the last of the pie plates and serving platters were cleared upstairs, and a brand-new kind of electricity filled the basement.
 
 The buffet tables were folded away and replaced with huge stainless-steel bowls of buttered popcorn and trays of sodas. The nine friends claimed their prime spots across the air mattresses and the sectional sofa, their eyes glued to the big television screen. It was time for the undisputed main event of Thanksgiving night: **American Wrestling Entertainment**’s annual two-hour prime-time spectacular, the **`AWE Turkey Brawl`**.
 
@@ -7297,7 +7317,7 @@ A chorus of sleepy laughter and fond *"Goodnights"* drifted across the mattresse
 
 ## Operation Black Friday & The Family Charter
 
-### Scene 1: The Mission Briefing & The First Purchase
+### Scene 1: The Mission Briefing
 
 **Date:** 2014-11-28 at 07:30 America/New_York
 
@@ -7325,13 +7345,15 @@ There was only one Aubrie he wanted beside him, and her name was **Aubrie Jean K
 
 A chorus of determined *"Yes, sir"*s echoed through the basement, and the convoy filed out through the patio doors into the crisp November morning.
 
-***
+### Scene 2: The First Purchase
 
-Pulling out of the Geneva Street cul-de-sac in a tight three-vehicle line, Daniel reached the intersection where he could either turn right onto the **U.S. 460 Bypass** for a direct five-minute highway run to Strickland Farm Shopping Center, or continue straight onto **U.S. Route 11** and wind through downtown Christiansburg via **Business U.S. 460**.
+**Date:** 2014-11-28 at 08:15 America/New_York
+
+Pulling out of the Geneva Street cul-de-sac in a tight three-vehicle line, **Daniel Brooks** reached the intersection where he could either turn right onto the **U.S. 460 Bypass** for a direct five-minute highway run to Strickland Farm Shopping Center, or continue straight onto **U.S. Route 11** and wind through downtown Christiansburg via **Business U.S. 460**.
 
 Without hesitating, Daniel drove straight ahead.
 
-The local thirteen-minute route through town meant stoplights and slower speeds, but it was far less predictable and gave Caleb in front and Mark behind dozens of angles to spot anyone attempting to tail them.
+The local thirteen-minute route through town meant stoplights and slower speeds, but it was far less predictable and gave **Caleb** in front and **Mark** behind dozens of angles to spot anyone attempting to tail them.
 
 Inside the second row of the minivan, Jordan’s heart hammered against his ribs. Every dark sedan waiting at a cross street made his pulse spike—even though, in reality, any investigator his mother or father's family might have hired was miles away drinking morning coffee, with Geneva Street already a closed report.
 
@@ -7353,7 +7375,7 @@ Outside the sliding door of the van, as soon as Jordan transferred smoothly into
 
 "I've got him," Sarah smiled, taking her place at the handles of his wheelchair as the multi-layered unit walked through the glass doors of the **Commonwealth Wireless** store.
 
-While Mark, Caleb, Owen, and Jessica stood casually near the front display windows keeping watch over the entrance, Daniel stepped straight up to the counter.
+While Mark, Caleb, Owen, and **Jessica** stood casually near the front display windows keeping watch over the entrance, Daniel stepped straight up to the counter.
 
 "Good morning," Daniel said warmly to the store representative. "We'd like to add a new line to our family plan today."
 
@@ -7385,7 +7407,7 @@ As they loaded back into the minivan for the short drive across the sprawling sh
 
 "My turn!" Madison grinned, sliding into the captain's chair beside Jordan and wrapping him in a warm hug as the doors slid shut. "Ready for the big leagues, J? Blue Tech on Black Friday is gonna be way wilder than the phone store!"
 
-### Scene 2: The Big Box Gauntlet & Return to Sanctuary
+### Scene 3: The Big Box Gauntlet
 
 **Date:** 2014-11-28 at 10:15 America/New_York
 
@@ -7419,7 +7441,7 @@ Jordan tilted his head and tapped his phone screen:
 
 Seeing Jordan’s expression dip slightly, Mark’s eyes suddenly lit up. "Hang on—stay right here for thirty seconds."
 
-Mark Jogged one aisle over toward the software and license-key racks and returned moments later holding a crisp retail activation card.
+Mark jogged one aisle over toward the software and license-key racks and returned moments later holding a crisp retail activation card.
 
 "Boom," Mark beamed, holding up the **`Quantum OS 8.1 Home-to-Pro Upgrade Pack`**. "Found the last one on the peg."
 
@@ -7437,23 +7459,27 @@ Back out at the minivan, once the doors slid shut and the climate control warmed
 
 She handed him a chocolate-chip granola bar and an uncapped bottle of water, and Jordan took both with a grateful smile, leaning his shoulder against hers.
 
+### Scene 4: Return to Sanctuary
+
+**Date:** 2014-11-28 at 11:15 America/New_York
+
 As the three-car convoy pulled out of Strickland Farm Shopping Center onto the highway approach, Jordan caught sight of the towering illuminated marquee for the **New River Valley Mall** across the interchange. A small, curious part of him—the boy who had never once been allowed to wander a mall with teenage friends—wondered what it looked like inside. Yet the thought was immediately outweighed by how tired his nervous system felt after Blue Tech. More than anything, he wanted the quiet safety of Room 214 in *The Old Lady*—or the next best thing on earth: the warm basement on Geneva Street.
 
-With both missions accomplished, Daniel prioritized speed over evasion, taking the direct five-minute highway hop back toward Christiansburg.
+With both missions accomplished, **Daniel Brooks** prioritized speed over evasion, taking the direct five-minute highway hop back toward Christiansburg.
 
 As the three vehicles turned onto the quiet cul-de-sac of **Geneva Street**, however, **Caleb**’s voice suddenly crackled over the **`Jordan Comms`** audio channel:
 
 "Hold up, Dad—unfamiliar vehicle parked at the curb right in front of the Millers' house next door. Silver crossover SUV."
 
-Instantly, the family’s drill kicked in without a single wasted motion. As the doors opened in the Brooks driveway, Mark, Caleb, Owen, Lucas, Jacob, and Jessica formed a tight, shoulder-to-shoulder visual screen between the street and the minivan, shielding Jordan completely from view as Daniel and Lauren guided his wheelchair swiftly around the side flagstone path and down the grassy slope to the walk-out basement.
+Instantly, the family’s drill kicked in without a single wasted motion. As the doors opened in the Brooks driveway, **Mark**, Caleb, **Owen**, **Lucas**, **Jacob**, and **Jessica** formed a tight, shoulder-to-shoulder visual screen between the street and the minivan, shielding Jordan completely from view as Daniel and **Lauren** guided his wheelchair swiftly around the side flagstone path and down the grassy slope to the walk-out basement.
 
-Just as the sliding glass door clicked locked behind all seventeen of them, Laura’s phone chimed and she burst out in a relieved laugh, holding up her screen:
+Just as the sliding glass door clicked locked behind all seventeen of them, **Laura**’s phone chimed and she burst out in a relieved laugh, holding up her screen:
 
 > **`Susan Miller [11:18]:`** <sms>Thanks, Laura!! Yes, that's our brand-new silver SUV out front—Bob and I just drove it off the lot at the Black Friday dealership sale!</sms>
 
 A collective, tension-breaking laugh rippled across the entire basement. They were completely safe.
 
-Even so, as the morning’s adrenaline finally drained out of Jordan’s bloodstream, it left his hands shaky and his chest tight with lingering overstimulation. Across the carpet, he saw Hannah curled up contentedly against Mark’s chest on their corner mattress, and then his eyes found **Lauren**.
+Even so, as the morning’s adrenaline finally drained out of Jordan’s bloodstream, it left his hands shaky and his chest tight with lingering overstimulation. Across the carpet, he saw **Hannah** curled up contentedly against Mark’s chest on their corner mattress, and then his eyes found Lauren.
 
 He didn't have to type a single word.
 
@@ -7463,13 +7489,13 @@ Reading his face instantly, Lauren crossed the carpet, knelt directly in front o
 
 Once Jordan’s breathing was deep and even again, the excitement of the morning returned in full force: it was time to unbox the beast.
 
-Pulling a folding table up beside Jordan’s chair, **Mark** cracked the factory seal on the **`Pinnacle Precisionist 5000`** with the reverence of a master mechanic. For the next hour, sitting shoulder-to-shoulder with Jordan, Mark ran the `Quantum OS 8.1 Pro` upgrade key, migrated Jordan’s licensed `EchoType` voice profile and custom hotkeys over from his `Vanguard Pro` tablet, installed his university astrophysics suites, and systematically purged every trace of pre-installed factory bloatware.
+Pulling a folding table up beside Jordan’s chair, Mark cracked the factory seal on the **`Pinnacle Precisionist 5000`** with the reverence of a master mechanic. For the next hour, sitting shoulder-to-shoulder with Jordan, Mark ran the `Quantum OS 8.1 Pro` upgrade key, migrated Jordan’s licensed `EchoType` voice profile and custom hotkeys over from his `Vanguard Pro` tablet, installed his university astrophysics suites, and systematically purged every trace of pre-installed factory bloatware.
 
 "See this third-party trial antivirus pop-up?" Mark said, uninstalling it cleanly with three clicks. "Total garbage that hogs your CPU cycles. Built-in `Quantum Defender` on OS 8.1 Pro is rock-solid—all you ever need, as long as you don't go clicking sketchy links claiming to be from a Nigerian prince or your bank."
 
 By one o'clock, the `Pinnacle Precisionist 5000` was a whisper-quiet, lightning-fast powerhouse tailored to Jordan’s exact fingertips. Operation Black Friday was a total triumph.
 
-### Scene 3: Truth or Dare & The Serious Talk
+### Scene 5: Truth or Dare
 
 **Date:** 2014-11-28 at 20:00 America/New_York
 
@@ -7493,7 +7519,7 @@ Catching his breath, Mark pointed across the circle. "**Zoë**! Truth or dare?"
 
 "I dare you to stand up and deliver the official rebuttal promo—*as the refrigerator*—answering Dr. Destruction's challenge."
 
-Without a trace of hesitation, Zoë rose to her feet, squared her shoulders, and in a unexpectedly booming, deadpan announcer cadence, delivered a blistering counter-promo about the *"sub-zero thermal efficiency,"* *"ice-cold fury,"* and *"unyielding Freon power"* of the Kitchenette Elite, promising that Dr. Destruction’s championship reign was about to be *"permanently put on ice and stored at thirty-seven degrees Fahrenheit."*
+Without a trace of hesitation, Zoë rose to her feet, squared her shoulders, and in an unexpectedly booming, deadpan announcer cadence, delivered a blistering counter-promo about the *"sub-zero thermal efficiency,"* *"ice-cold fury,"* and *"unyielding Freon power"* of the Kitchenette Elite, promising that Dr. Destruction’s championship reign was about to be *"permanently put on ice and stored at thirty-seven degrees Fahrenheit."*
 
 The performance was so unexpectedly brilliant that **Sarah**, **Jessica**, and **Hannah** were wiping away actual tears of laughter.
 
@@ -7523,17 +7549,21 @@ A soft chorus of cheers and whistles went around the circle—and then, as the t
 
 Before Aubrie could open her mouth to speak the first word, however, **Hannah** held up both hands across the circle, cutting her off in mid-breath.
 
-"Whoa, whoa, hold the phone right there, missy!" Hannah said with a warm, playful, yet unmistakably firm laugh,wagging a finger at Aubrie. "I know that look in your eye, Aubrie Jean Kelly. I don't know what dare is about to come out of your mouth, but I have a strong feeling we're all much better off pausing the game right here and putting on a movie instead!"
+"Whoa, whoa, hold the phone right there, missy!" Hannah said with a warm, playful, yet unmistakably firm laugh, wagging a finger at Aubrie. "I know that look in your eye, Aubrie Jean Kelly. I don't know what dare is about to come out of your mouth, but I have a strong feeling we're all much better off pausing the game right here and putting on a movie instead!"
 
 Aubrie’s face flushed deep scarlet, and she immediately put her hands to her cheeks in an exaggerated pose of wide-eyed innocence—*"Who, me?"*—that fooled nobody in the room except Jordan, who tilted his head in mild confusion at the sudden pivot.
 
 The rest of the circle let out a wave of relieved laughter, immediately gravitating toward the movie shelf while Mark and Madison queued up the projector.
 
-As the others debated which DVD to put in, Hannah stepped quietly over to Jordan’s wheelchair and Aubrie’s side, her expression gentle, loving, and serious.
+### Scene 6: The Serious Talk
+
+**Date:** 2014-11-28 at 20:30 America/New_York
+
+As the others debated which DVD to put in out in the main basement living area, **Hannah** stepped quietly over to **Jordan**’s wheelchair and **Aubrie Jean**’s side, her expression gentle, loving, and serious.
 
 "Hey, you two," Hannah murmured softly so only they could hear. "Can I talk to the two of you for just a minute? In private?"
 
-Curiosity flickering across his face, Jordan nodded and guided his wheelchair alongside Hannah and Aubrie down the short basement hallway into Daniel’s quiet, soundproofed downstairs study, closing the heavy oak door behind them.
+Curiosity flickering across his face, Jordan nodded and guided his wheelchair alongside Hannah and Aubrie down the short basement hallway into **Daniel Brooks**’s quiet, soundproofed downstairs study, closing the heavy oak door behind them.
 
 Inside the quiet study, the playful party atmosphere vanished, replaced by gentle, unguarded honesty.
 
@@ -7557,7 +7587,7 @@ She leaned forward and rested one warm hand over Jordan’s wrist and the other 
 
 "I know you trust us, Jordan. And *that* is why it scared me," Hannah said gently. "We all love you with everything we have—and because we are the first people in your life who have ever treated you with real love, you trust us so completely that you might say yes to something in the middle of a silly party game before you're actually ready for it. A first time—something that monumental and intimate—should be special, and private, and a deliberate choice made purely between you and the person you're with when you both want it with your whole hearts. Never because someone dared you to in a game. That wouldn't be fair to you, J. We could end up hurting you without ever meaning to."
 
-Beside Jordan’s chair, a look of dawning horror washed across **Aubrie Jean**’s face.
+Beside Jordan’s chair, a look of dawning horror washed across Aubrie Jean’s face.
 
 Caught up in the giddy warmth of their holiday and the thrill of feeling safe together, she hadn't thought two steps ahead to the consequences. With a sickening jolt in her stomach, she realized she had come within seconds of letting the social momentum of a game pressure the boy she loved—a boy who had spent eighteen years having every choice made for him—into a life-changing threshold.
 
@@ -7569,7 +7599,7 @@ Jordan squeezed Aubrie’s fingers gently, letting her know he wasn't angry, whi
 
 Hannah pulled both Jordan and Aubrie into a tight, three-way hug in the quiet study—and as they held onto one another, all three of them knew that this conversation needed to include the rest of their circle before the movie started.
 
-### Scene 4: The Family Charter
+### Scene 7: The Family Charter
 
 **Date:** 2014-11-28 at 21:00 America/New_York
 
@@ -7619,7 +7649,7 @@ Mark nodded slowly, his voice thick with respect and admiration as he kissed her
 
 ## The New Normal
 
-### Scene 1: Return to The Old Lady & The Reunion
+### Scene 1: Return to The Old Lady
 
 **Date:** 2014-11-30 at 16:00 America/New_York
 
@@ -7663,17 +7693,19 @@ Tom stood frozen for three seconds, utterly defeated. He couldn't comprehend a s
 
 Madison watched him disappear around the corner of the library and let out a deeply satisfied sigh. "Well," she grinned, hoisting her duffel bag onto her shoulder. "Something tells me he won't be bothering any of us ever again."
 
-***
+### Scene 2: The Corridor Reunion
 
-While Daniel and Laura went to park the minivan in the visitor lot before coming up to the suite, Jordan led the nine friends toward the second-floor entrance of *The Old Lady*.
+**Date:** 2014-11-30 at 16:10 America/New_York
+
+While **Daniel** and **Laura Brooks** went to park the minivan in the visitor lot before coming up to the suite, **Jordan** led the nine friends toward the second-floor entrance of *The Old Lady*.
 
 From the moment they had pulled onto campus ten minutes ago, there was someone inside Bennett Hall whom Jordan had been eagerly waiting to see.
 
-As Mark swiped his keycard and the heavy exterior doors swung open into the warm second-floor lobby and residential corridor, Jordan’s eyes immediately swept down the hallway toward **Room 215** and the floor check-in table—actively looking for **Isabel Dawson**.
+As **Mark** swiped his keycard and the heavy exterior doors swung open into the warm second-floor lobby and residential corridor, Jordan’s eyes immediately swept down the hallway toward **Room 215** and the floor check-in table—actively looking for **Isabel Dawson**.
 
 Halfway down the corridor, standing beside a folding table stacked with post-break check-in rosters after returning from **Charlottesville** earlier that afternoon, stood Isabel—talking with **Henry Walsh** and **Kelsey Brennan**.
 
-The instant Jordan spotted Isabel in her maroon CPI Residence Life fleece, a huge, delighted grin broke across his face. Leaving his rolling suitcase with Mark and Hannah by the foyer, Jordan pushed his rims briskly down the linoleum straight toward her, opening both arms wide before he was even ten feet away.
+The instant Jordan spotted Isabel in her maroon CPI Residence Life fleece, a huge, delighted grin broke across his face. Leaving his rolling suitcase with Mark and **Hannah** by the foyer, Jordan pushed his rims briskly down the linoleum straight toward her, opening both arms wide before he was even ten feet away.
 
 Isabel looked up from her clipboard, and her entire face lit up like sunrise.
 
@@ -7687,7 +7719,7 @@ Jordan hugged her back with all his heart, his chest overflowing with happiness 
 
 "It was so wonderful, Jordan—Elena made me promise to tell you hi!" Isabel laughed warmly, giving his shoulder an affectionate squeeze. "And seeing Kelsey's message on Wednesday morning about how you guys completely outsmarted your mom made my whole week!"
 
-Right beside her, **Henry Walsh** stepped forward with a massive grin and held out his hand for a solid fist bump, while **Kelsey Brennan** smiled warmly at Jordan across the check-in table.
+Right beside her, Henry Walsh stepped forward with a massive grin and held out his hand for a solid fist bump, while Kelsey Brennan smiled warmly at Jordan across the check-in table.
 
 "Welcome back to The Old Lady, Jordan!" Henry said happily. "The second floor wasn't the same without Suite 214 holding down the fort."
 
@@ -7697,9 +7729,11 @@ Right beside her, **Henry Walsh** stepped forward with a massive grin and held o
 
 Looking at Isabel’s radiant smile, Henry’s steady warmth, and Kelsey’s calm authority right there in the second-floor corridor—after knowing that Aubrie Sinclair hadn't even been able to get a single foot inside the exterior doors on Wednesday morning—Jordan felt a deep, bone-solid certainty settle into his chest: **the three of them had Bennett Hall locked down tight**.
 
-***
+### Scene 3: The Route 11 Blueprint
 
-Ten minutes later, inside Suite 214/216, the energy was electric as the nine friends unzipped their bags and began discussing the upcoming three-week **Winter Break**, which was now less than two weeks away. Until today, their working backup plan had been to pool their savings and book a multi-room suite at an extended-stay hotel so Jordan wouldn't have to be anywhere near Virginia Beach.
+**Date:** 2014-11-30 at 16:25 America/New_York
+
+Ten minutes after their hallway reunion with Isabel, Henry, and Kelsey, the energy inside Suite 214/216 was electric as the nine friends unzipped their bags and began discussing the upcoming three-week **Winter Break**, which was now less than two weeks away. Until today, their working backup plan had been to pool their savings and book a multi-room suite at an extended-stay hotel so Jordan wouldn't have to be anywhere near Virginia Beach.
 
 Right in the middle of the discussion, **Zoë** cleared her throat—her posture straightening into her formal executive-briefing stance, which immediately quieted the room.
 
@@ -7707,9 +7741,9 @@ Right in the middle of the discussion, **Zoë** cleared her throat—her posture
 
 A wave of startled alarm rippled across the room.
 
-"Scrapped?!" Lauren sat bolt upright on the edge of the bed. "Zoë, what do you mean scrapped? What about Jordan?"
+"Scrapped?!" **Lauren** sat bolt upright on the edge of the bed. "Zoë, what do you mean scrapped? What about Jordan?"
 
-"Yeah, Zoë, what gives?!" Madison demanded, her protective instincts flaring instantly. "We promised Jordan he'd never have to go back to his mother's house! That was the whole point!"
+"Yeah, Zoë, what gives?!" **Madison** demanded, her protective instincts flaring instantly. "We promised Jordan he'd never have to go back to his mother's house! That was the whole point!"
 
 Zoë held up a calm hand, a rare, triumphant smile tugging at the corners of her mouth.
 
@@ -7737,7 +7771,7 @@ Then the room erupted into an explosion of happy tears, cheers, and disbelief.
 
 Jordan sat in his wheelchair, his throat too tight for words and his eyes shining behind his glasses as **Hannah** and **Sarah** wrapped their arms around his shoulders from either side and **Aubrie Jean** squeezed his hand. Looking up at Daniel’s proud, fatherly smile and catching Zoë’s triumphant wink across the room, Jordan realized the truth: his Winter Break wasn't going to be spent hiding in a sterile hotel room. He had a home—and a family that was literally building their future around him from the ground up.
 
-### Scene 2: Spring Semester Planning & A Semester in Motion
+### Scene 4: Operation Spring Schedule
 
 **Date:** 2014-12-01 at 19:00 America/New_York
 
@@ -7771,13 +7805,15 @@ Side by side, Jordan and Aubrie mapped out an identical fifteen-credit curriculu
 
 Jordan looked from his screen to Aubrie’s, staring at two identical timetables. It was a semester engineered so that he would never have to roll into a lecture hall alone, never have to wait outside a laboratory by himself, and never have to face an unfamiliar crowd without his safe person right beside him—a fortress built out of course numbers and lab benches.
 
-***
+### Scene 5: A Semester in Motion
+
+**Date:** 2014-12-03 at 17:30 America/New_York
 
 Over the next week, the final stretch of classes between Thanksgiving and finals week settled into a joyful, high-efficiency rhythm.
 
 With his new midnight-blue `mPhone` on the **Brooks Family Plan** providing uninterrupted 4G LTE coverage across every square foot of Blacksburg, Jordan was never cut off between campus WiFi routers anymore. And as a result, the **`Jordan Comms`** group chat—originally born as an emergency workaround after his mother cut his phone line in October—evolved into the vibrant, real-time bloodstream of their twelve-person network (`the nine friends plus Isabel, Henry, and Kelsey`), overflowing with study check-ins, astronomy jokes, dining-hall reviews, and terrible memes from **Madison**.
 
-In fact, the chat became so lively that on Wednesday evening, after an important handoff message from **Lauren** outside the chemistry building was nearly buried beneath a twelve-photo thread of campus squirrels posted by Madison, **Zoë** called a brief procedural order.
+In fact, the chat became so lively that on Wednesday afternoon, after an important handoff message from **Lauren** outside the chemistry building was nearly buried beneath a twelve-photo thread of campus squirrels posted by Madison, **Zoë** called a brief procedural order.
 
 "We have a signal-to-noise ratio inefficiency in **`Jordan Comms`**," Zoë announced from her desk. "While I appreciate the photographic documentation of sciurids on the Drillfield, critical operational messages cannot be scrolled past. Effective immediately, any message pertaining to a Buddy System handoff, location change, or time-sensitive schedule update must begin with the prefix tag **`[LOGISTICS]`** in all capital letters."
 
@@ -7790,7 +7826,7 @@ The protocol was adopted unanimously and worked like magic:
 
 Inside the quiet third floor of Pendleton Library and across the laboratories of CPI, Jordan’s mind was free to pour 100% of its energy into his coursework for the first time in his life—and his grades soared accordingly. His days were no longer about surviving his mother’s shadow; they were about living, learning, and laughing in the heart of a family that never missed a beat.
 
-### Scene 3: A Double Birthday Conspiracy
+### Scene 6: A Double Birthday Conspiracy
 
 **Date:** 2014-12-03 at 20:30 America/New_York
 
@@ -7841,7 +7877,7 @@ On the laptop screen, **Laura Brooks** put her hands to her cheeks, her eyes imm
 
 When the video call clicked off in Room 216, the seven co-conspirators looked around the circle at one another, a shared, electric secret humming between them. In less than three weeks, on the longest night of the year, Jordan Fuller and Aubrie Jean Kelly were going to celebrate the first real birthday party of Jordan’s life—surrounded by the family they had built together.
 
-### Scene 4: A Preventable Crisis
+### Scene 7: A Preventable Crisis
 
 **Date:** 2014-12-06 at 18:00 America/New_York
 
@@ -7900,7 +7936,7 @@ Around his bed, Hannah wiped a tear of fierce pride from her cheek, while Nurse 
 
 "I am logging your adult revocation of the waiver into your permanent medical chart right now, Jordan," Nurse Vance said warmly, tapping her tablet and signing it with her stylus. "As soon as your fever has been gone for thirty-six hours, we will start you on your customized adult catch-up immunization schedule right at Student Health. First, though, let's get you started on Tamiflu, anti-nausea medication, and fever reducers so we can get you—"
 
-### Scene 5: The Second Drill
+### Scene 8: The Second Drill
 
 **Date:** 2014-12-06 at 19:15 America/New_York
 
@@ -7977,7 +8013,7 @@ Even exhausted and feverish, Jordan’s eyes flicked worriedly toward the stack 
 
 As Nurse Vance packed up her diagnostic kit with a warm goodbye and the soft amber string lights cast a peaceful glow across Room 214, the fever reducer finally began to loosen the tight ache in Jordan’s shoulders. Surrounded by the quiet, steady hum of his found family setting up their bedside watch, Jordan closed his eyes and drifted off to sleep—ready to rest up, beat the virus, and finish his first college semester strong.
 
-### Scene 6: Interlude: Fifty-Eight Seconds
+### Scene 9: Interlude: Fifty-Eight Seconds
 
 **Date:** 2014-12-06 at 19:45 America/New_York
 
@@ -8034,7 +8070,7 @@ Back in Bennett Hall, Kelsey’s inbox chimed thirty seconds later with a brief,
 
 Smiling warmly, Kelsey closed her laptop for the night. Not a single private detail of Jordan Fuller’s past had been compromised, not a single bureaucrat had crossed his threshold, and the boy who had once been terrified of an unlocked door had just conquered his second fire drill without a trace of fear.
 
-### Scene 7: The Final Exam
+### Scene 10: The Final Exam
 
 **Date:** 2014-12-12 at 09:00 America/New_York
 
@@ -8089,7 +8125,7 @@ Jordan set his wheel locks, pulled his `mPhone` from his sweater pocket, and tap
 
 As Hannah took the push-handles of his wheelchair and Mark walked proudly at his side as they headed back across **Commonwealth Green** toward **Bennett Hall**, a profound wave of closure washed over Jordan. His first semester at Commonwealth Polytechnic Institute was officially in the books. He had survived abandonment, sensory overload, two fire drills, a dormitory flu outbreak, and his mother's attempts to drag him backward—and he had won on his own terms.
 
-### Scene 8: The First Shot & Goodbye to Henry
+### Scene 11: The First Shot
 
 **Date:** 2014-12-12 at 13:30 America/New_York
 
@@ -8111,9 +8147,11 @@ What he felt instead was a surge of quiet, unshakeable empowerment that traveled
 
 Nurse Vance handed him a crisp, multi-page printout stamped with the seal of the **CPI Student Health Center** detailing his full twelve-month adult catch-up immunization calendar. Jordan folded the schedule carefully and tucked it into the front breast pocket of his shirt, right beside his **Poly Pass**.
 
-***
+### Scene 12: Goodbye to Henry
 
-When Jordan, Aubrie Jean, and Mark rolled back off the second-floor elevator in **Bennett Hall** at `2:45 PM`, they found **Zoë**, **Madison**, **Lauren**, **Hannah**, **Sarah**, and **Jessica** staging the group's rolling suitcases along the wall outside Room 214—and standing in the corridor beside **Isabel Dawson** (`Room 215`) was **Henry Walsh** (`Room 201`), surrounded by two taped moving boxes and a hardshell international suitcase of his own.
+**Date:** 2014-12-12 at 14:45 America/New_York
+
+When **Jordan**, **Aubrie Jean**, and **Mark** rolled back off the second-floor elevator in **Bennett Hall** at `2:45 PM`, they found **Zoë**, **Madison**, **Lauren**, **Hannah**, **Sarah**, and **Jessica** staging the group's rolling suitcases along the wall outside Room 214—and standing in the corridor beside **Isabel Dawson** (`Room 215`) was **Henry Walsh** (`Room 201`), surrounded by two taped moving boxes and a hardshell international suitcase of his own.
 
 Jordan blinked behind his glasses, glancing from Henry's taped boxes to the stripped mattress visible through the open doorway of `Room 201`.
 
@@ -8159,13 +8197,15 @@ For a second, Henry blinked in surprise—remembering the terrified freshman boy
 
 Jordan hugged him back tightly and gave a firm nod against Henry's shoulder before Henry straightened up to give Isabel one more warm hug at the threshold.
 
-***
+### Scene 13: Departure for Winter Break
 
-At `4:00 PM` sharp, Zoë checked her watch and sent the final campus dispatch of 2014 to the group chat:
+**Date:** 2014-12-12 at 16:00 America/New_York
+
+At `4:00 PM` sharp, **Zoë** checked her watch and sent the final campus dispatch of 2014 to the group chat:
 
 > **`Zoë [Fri 16:00]:`** <sms>[LOGISTICS] All finals complete. Grades are in fate's hands now. Operation Winter Break is officially a GO. My dad and Caleb are pulling up to the Washington Street curb in 10 minutes.</sms>
 
-Before rolling down the corridor to the exit, Jordan paused outside **Room 215** for one last goodbye with **Isabel**. Just as he had felt before Thanksgiving Break, a quiet part of him wished she could load her bags into the caravan and come spend Winter Break on Geneva Street with them too. Yet Jordan understood and respected the boundary completely: as long as she was his active Resident Advisor on Floor 2, CPI Housing & Residence Life policy drew a strict professional line off-campus—and besides, her parents and her younger sister **Elena** were eagerly waiting for her back home in **Charlottesville** for Christmas.
+Before rolling down the corridor to the exit, **Jordan** paused outside **Room 215** for one last goodbye with **Isabel Dawson**. Just as he had felt before Thanksgiving Break, a quiet part of him wished she could load her bags into the caravan and come spend Winter Break on Geneva Street with them too. Yet Jordan understood and respected the boundary completely: as long as she was his active Resident Advisor on Floor 2, CPI Housing & Residence Life policy drew a strict professional line off-campus—and besides, her parents and her younger sister **Elena** were eagerly waiting for her back home in **Charlottesville** for Christmas.
 
 <aac>Have a wonderful Christmas in Charlottesville with your parents and Elena, Isabel,</aac> Jordan tapped on his `mPhone`, angling the screen up to her with a warm smile. <aac>I'll miss you over the break.</aac>
 
@@ -8173,13 +8213,13 @@ Before rolling down the corridor to the exit, Jordan paused outside **Room 215**
 
 With their hallway goodbyes complete, the nine friends rolled their caravan of luggage out the ground-level second-floor doors onto **Washington Street** just as **Daniel Brooks** pulled up in the family minivan with **Caleb Brooks** right behind him in his SUV.
 
-While Mark, Caleb, and the girls loaded the suitcases and duffels into the backs of both vehicles, Jordan wheeled himself right up to Daniel on the sidewalk, reached into his shirt pocket, and proudly held out the crisp printout from the CPI Student Health Center.
+While **Mark**, Caleb, and the girls loaded the suitcases and duffels into the backs of both vehicles, Jordan wheeled himself right up to Daniel on the sidewalk, reached into his shirt pocket, and proudly held out the crisp printout from the CPI Student Health Center.
 
 <aac>Daniel, look,</aac> Jordan tapped on his `mPhone`, his green eyes shining behind his glasses. <aac>This is my adult catch-up immunization schedule. I got my first shot today.</aac>
 
 Daniel took the paper and read down the twelve-month table of vaccinations and follow-up appointments stamped with Jordan's name. When Daniel looked back up, his eyes were bright with unmistakable fatherly pride. He rested a warm, steady hand on Jordan's shoulder.
 
-"Jordan, I am so extraordinarily proud of you for doing this," Daniel said sincerely. He glanced over at Aubrie Jean, Zoë, Madison, Lauren, Hannah, Mark, Sarah, and Jessica as they finished closing the tailgate. "And I promise you, son—Laura and I and this entire family will make sure you don't miss a single one of these appointments over the next year. We're all in your corner now."
+"Jordan, I am so extraordinarily proud of you for doing this," Daniel said sincerely. He glanced over at **Aubrie Jean**, Zoë, **Madison**, **Lauren**, **Hannah**, Mark, **Sarah**, and **Jessica** as they finished closing the tailgate. "And I promise you, son—Laura and I and this entire family will make sure you don't miss a single one of these appointments over the next year. We're all in your corner now."
 
 With that vow sealed, Mark and Caleb helped Jordan transfer into the warm passenger cabin, folded his wheelchair into the back, and the two vehicles pulled away from the curb of **Eleanor Bennett Commonwealth Hall** toward Christiansburg.
 
@@ -8187,13 +8227,13 @@ Their first, impossibly eventful semester at CPI was over. Together, they had su
 
 They hadn't just survived. They had won.
 
-### Scene 9: Interlude: A Dangerous Idea
+### Scene 14: Interlude: A Dangerous Idea
 
 **Date:** 2014-12-12 at 15:00 America/New_York
 
 While Jordan and his friends were celebrating the end of their final exams inside Bennett Hall, a ghost from the past was drifting through the cold December streets of Blacksburg.
 
-Running on pure obsession, wounded pride, and fumes, **Aubrie Sinclair** had taken another unapproved personal day from work and made the grueling seven-hour drive across Virginia from Hampton Roads back to the New River Valley. She didn't have an appointment, an invitation, or even a coherent plan—only a gnawing, furious compulsion to reclaim the son who had dared to cut her off.
+Running on pure obsession, wounded pride, and fumes, **Aubrie Sinclair** had taken another unapproved personal day from work and made the grueling drive across Virginia from Hampton Roads back to the New River Valley. She didn't have an appointment, an invitation, or even a coherent plan—only a gnawing, furious compulsion to reclaim the son who had dared to cut her off.
 
 For nearly an hour on Friday afternoon, she sat parked at the far end of **Washington Street SW**, two hundred yards down the hill from **Eleanor Bennett Commonwealth Hall**, staring through her windshield with the heater blowing lukewarm air against her gloves.
 
@@ -8201,9 +8241,9 @@ Up on the stone rise, *"The Old Lady on the Hill"* was bustling with students ro
 
 Too afraid to approach the dormitory, she spent the afternoon driving aimlessly around downtown Blacksburg and the perimeter of campus, craning her neck at coffee shop windows and scanning the crowded sidewalks along Main Street, hoping for a chance glimpse of *"Aubrey"* where his friends and the university staff couldn't shield him.
 
-The search was completely fruitless. Unbeknownst to her, the son she was hunting was already on his way to Geneva Street in Christiansburg, surrounded by a nine-person security detail she couldn't penetrate.
+The search was completely fruitless. Unbeknownst to her, the son she was hunting was already packing his bags to depart for Geneva Street in Christiansburg, surrounded by a nine-person security detail she couldn't penetrate.
 
-By late afternoon, shivering, exhausted, and running out of daylight before the long drive home, she pulled into the parking lot of the **Blacksburg Public Library** to use the restroom and warm her hands. Passing the row of public internet terminals near the reference desk, she sat down at an open computer and began typing a frantic, disorganized string of search queries into the browser:
+By late afternoon, shivering, exhausted, and running out of daylight, she pulled into the parking lot of the **Blacksburg Public Library** to use the restroom and warm her hands. Passing the row of public internet terminals near the reference desk, she sat down at an open computer and began typing a frantic, disorganized string of search queries into the browser:
 
 *how to force adult disabled child to come home Virginia*
 *college hiding disabled son from mother legal rights*
@@ -8226,17 +8266,19 @@ That was the answer. That was the weapon she had been missing all semester.
 
 A university housing director could hide behind a FERPA form, and campus police could wave a trespass warning at the curb—but neither Commonwealth Polytechnic Institute nor those meddling college girls could defy a **Circuit Court Judge**. With a single stroke of a judge's pen declaring *"Aubrey"* an incapacitated adult who belonged under his mother's roof, she could nullify every form he had signed, seize control of his scholarship refunds, and force him back into her car whether he wanted to go or not.
 
-She stood up from the library terminal with a dangerous, manic sense of purpose, walking back out to her sedan in the gathering December dusk to begin the seven-hour drive back to Virginia Beach. Her checking account was nearly bled dry from three fruitless seven-hour round trips and the useless retainer she had wasted on **Vance Sterling**'s private investigation firm in October—meaning she couldn't afford to hire the PI again—and she knew she was going to have to save every spare dollar over the next several months to hire an attorney who would file the guardianship petition for her.
+Saving the Virginia legal-aid pages onto her flash drive, she stood up from the library terminal with a dangerous, manic sense of purpose and walked back out to her sedan in the gathering December dusk.
 
-Two hours later, as her car merged onto **Interstate 295** to bypass Richmond in the dark, a sudden, nagging thought flickered through the back of her mind:
+Too exhausted to make the seven-hour drive back to the coast in the dark—even though she was scheduled to work a Saturday shift in Norfolk the next morning—she drove out toward the edge of town and checked into the cheapest roadside motel she could find off **U.S. Route 460**, convincing herself she would wake up at four in the morning and beat her shift clock.
+
+As she carried her overnight bag toward the drafty motel room under a lowering, slate-gray mountain sky, a sudden, nagging thought flickered through the back of her mind:
 
 *Wait... why didn't I drive down to Christiansburg and check that residential address on Geneva Street that the private investigator sent me in October?*
 
 She had been less than fifteen minutes away from it all afternoon.
 
-For three seconds, the logical question hung in the silence of her car—and then her pride immediately batted it away. *No,* she told herself dismissively, tightening her grip on the steering wheel as she sped east toward Hampton Roads. *There's no way he's at some random girl's parents' house in Christiansburg for a three-week break. That lazy detective probably made the address up to pad his invoice. The university is hiding him on campus, and the courtroom is the only way to take back what is mine.*
+For three seconds, the logical question hung in the cold mountain air—and then her pride immediately batted it away. *No,* she told herself dismissively, unlocking the motel door and stepping inside. *There's no way he's at some random girl's parents' house in Christiansburg for a three-week break. That lazy detective probably made the address up to pad his invoice. The university is hiding him on campus, and the courtroom is the only way to take back what is mine.*
 
-Blinded by her own arrogance, Aubrie Sinclair drove into the night, completely unaware that she had just dismissed the only real clue she had ever possessed—or that back in Christiansburg, the family on **Geneva Street** was already building a fortress that no courtroom lie would ever tear down.
+Blinded by her own arrogance, Aubrie Sinclair locked the motel room door behind her, completely unaware that she had just dismissed the only real clue she had ever possessed—or that a massive Appalachian winter cyclone was already bearing down on the Blue Ridge Ridges overhead.
 
 # A New Winter Break Tradition
 
@@ -8362,7 +8404,7 @@ From the main sectional sofa across the room, Madison threw both hands in the ai
 
 Surrounded by the warmth of the basement and the quiet pride aching in his own muscles, Jordan looked out at the roaring white wall beyond the glass. For the first time in his life, he had dressed himself.
 
-### Scene 3: Whiteout & Hunkering Down
+### Scene 3: Blackout & The Neighbor's Chimney
 
 **Date:** 2014-12-13 at 16:30 America/New_York
 
@@ -8393,9 +8435,9 @@ Within thirty seconds, four bright, battery-powered LED lanterns clicked on acro
 
 As the others turned toward their duffel bags and coat hooks to bundle up, **Jordan** wheeled over to the foot of his bed where his heavy insulated winter parka was draped.
 
-Looking at the thick,quilted jacket, he felt a sudden surge of quiet determination. A winter parka was heavier and stiffer than the pullover hoodie he had conquered that morning—and nobody was watching him right now; everyone was busy pulling on beanies and scarves in the lantern light.
+Looking at the thick, quilted jacket, he felt a sudden surge of quiet determination. A winter parka was heavier and stiffer than the pullover hoodie he had conquered that morning—and nobody was watching him right now; everyone was busy pulling on beanies and scarves in the lantern light.
 
-Jordan locked his wheels. Using the exact leverage technique Lauren and Hannah had taught him hours earlier, he leaned against the queen mattress to steady his torso, threaded his right arm deep into the quilted sleeve, and reached behind his shoulder to pull the coat around his back. Working his left arm into the second sleeve took two patient tries, his breath fogging slightly in the cooling air. Finally, pinching the metal zipper slider between his thumb and forefinger, he seated the pin into the box and hauled the zipper all the way up to his chin.
+Jordan locked his wheels. Using the exact leverage technique **Lauren** and **Hannah** had taught him hours earlier, he leaned against the queen mattress to steady his torso, threaded his right arm deep into the quilted sleeve, and reached behind his shoulder to pull the coat around his back. Working his left arm into the second sleeve took two patient tries, his breath fogging slightly in the cooling air. Finally, pinching the metal zipper slider between his thumb and forefinger, he seated the pin into the box and hauled the zipper all the way up to his chin.
 
 He sat back, his heart hammering with silent, incandescent pride. For the first time in nearly nineteen years of life, he had put on his own winter coat without a single person helping him. That private victory warmed him more deeply than the down insulation ever could.
 
@@ -8417,17 +8459,17 @@ As the adrenaline faded, a much more mundane reality set in: everyone’s stomac
 
 Opening the tall pantry cabinet in the corner, Laura began passing out tins of soup—which Daniel warmed in a stockpot right on top of the flat steel grate of the kerosene heater—alongside boxes of saltine crackers, jars of creamy peanut butter, and oat-and-honey granola bars. Huddled together in winter coats around the glowing amber ring of the heater while the blizzard raged harmlessly against the glass, dipping crackers into steaming mugs of tomato and chicken-noodle soup felt like a royal banquet.
 
----
+### Scene 4: Hunkering Down
 
-### Part II: Hunkering Down & The Morning After
+**Date:** 2014-12-13 at 21:30 America/New_York
 
-By nine-thirty that night, the temperature outside had plunged into the teens, and the wind was rattling the storm frames with relentless force.
+By nine-thirty that Saturday night, the temperature outside had plunged into the teens, and the wind was rattling the storm frames with relentless force.
 
-"Alright, everyone, gather round," Daniel announced, his shadow stretching tall across the lantern-lit walls. "After that chimney fire down the cul-de-sac earlier, your mother and I are not comfortable leaving the kerosene heater burning overnight while everyone is asleep. Carbon monoxide and fire risk simply aren't worth it. So I'm shutting the burner down now, and we are going to do this the old-fashioned way: heavy layers, extra comforters, and shared body heat."
+"Alright, everyone, gather round," **Daniel Brooks** announced, his shadow stretching tall across the lantern-lit walls. "After that chimney fire down the cul-de-sac earlier, your mother and I are not comfortable leaving the kerosene heater burning overnight while everyone is asleep. Carbon monoxide and fire risk simply aren't worth it. So I'm shutting the burner down now, and we are going to do this the old-fashioned way: heavy layers, extra comforters, and shared body heat."
 
-A flurry of efficient preparation followed. Anyone still wearing denim swapped into thick fleece sweatpants, and winter coats, knit hats, and gloves stayed on over their pajamas—the only items shed for the night being shoes, Jordan’s glasses, and, for the women, their uncomfortable underwire bras. Heavy quilts and down comforters were piled three-deep atop the four queen beds and the pull-out sleeper.
+A flurry of efficient preparation followed. Anyone still wearing denim swapped into thick fleece sweatpants, and winter coats, knit hats, and gloves stayed on over their pajamas—the only items shed for the night being shoes, **Jordan**’s glasses, and, for the women, their uncomfortable underwire bras. Heavy quilts and down comforters were piled three-deep atop the four queen beds and the pull-out sleeper.
 
-The sleeping arrangements fell into place with quiet, instinctive solidarity: **Mark** and **Hannah** took the first queen bed; **Madison** and **Zoë** burrowed under the covers of the second; **Lauren**, **Sarah**, and **Jessica** shared the wide pull-out sectional; and on the fourth queen frame, **Aubrie Jean** held back the thick mountain of quilts for **Jordan**.
+The sleeping arrangements fell into place with quiet, instinctive solidarity: **Mark** and **Hannah** took the first queen bed; **Madison** and **Zoë** burrowed under the covers of the second; **Lauren**, **Sarah**, and **Jessica** shared the wide pull-out sectional; and on the fourth queen frame, **Aubrie Jean** held back the thick mountain of quilts for Jordan.
 
 Transferring from his wheelchair into the bed in his winter coat and gloves, Jordan settled in beside Aubrie as the last LED lantern was dimmed to a faint nightlight glow.
 
@@ -8439,7 +8481,7 @@ Beside him, Aubrie Jean felt the fine tremor running through his chest and immed
 
 "It's just the wind, Jordan," Aubrie whispered against his ear, her warm breath cutting through the cold air. "She's not out there. It's just snow and barometric pressure. We're locked in, and I've got you."
 
-Across the narrow aisle on the sectional sleeper, **Sarah** heard the uneven catch in Jordan’s breathing. Without a word, she slipped out from beneath her blankets, padded softly across the carpet in her wool socks, and knelt beside Jordan’s side of the mattress. Reaching out with a gloved hand, she rested her palm gently against his cheek and forehead.
+Across the narrow aisle on the sectional sleeper, Sarah heard the uneven catch in Jordan’s breathing. Without a word, she slipped out from beneath her blankets, padded softly across the carpet in her wool socks, and knelt beside Jordan’s side of the mattress. Reaching out with a gloved hand, she rested her palm gently against his cheek and forehead.
 
 "The storm can't touch you in here, Jordan," Sarah whispered softly, adding her steady voice to Aubrie’s. "There are seventeen of us in this house. You're surrounded on every side."
 
@@ -8447,7 +8489,9 @@ From the sectional, Lauren and Jessica watched the quiet moment with a wave of p
 
 Under the combined warmth of Aubrie’s embrace and Sarah’s steadying hand, the tight knot in Jordan’s chest slowly unspooled, his breathing evening out until Sarah gave his shoulder a final, gentle squeeze and slipped back under her own covers. Held securely in Aubrie’s arms, Jordan drifted to sleep while the storm spent its fury against the hills.
 
----
+### Scene 5: Forty-Six Inches
+
+**Date:** 2014-12-14 at 08:30 America/New_York
 
 The first thing the nine friends noticed on Sunday morning was the most glorious sound in the world: the deep, resonant hum of the central furnace kicking back on, pushing waves of warm air through the ceiling registers.
 
@@ -8455,7 +8499,7 @@ Ten minutes later, **Daniel Brooks** came striding down the interior stairs with
 
 "Good morning, survivors!" Daniel boomed cheerfully. "Grid power came back online around five-thirty, and the storm front has completely passed." He gestured toward the back of the basement, where the lower two-thirds of the sliding glass doors were completely buried behind a sculpted white drift. "I just took a yardstick out onto the upper back deck. We got forty-six inches—just shy of four feet of snow. Nobody in Christiansburg is going anywhere for at least forty-eight hours."
 
-A chorus of amazed whistles and cozy laughter rippled across the beds. Then Aubrie Jean glanced thoughtfully around the subterranean room and looked at Jordan.
+A chorus of amazed whistles and cozy laughter rippled across the beds. Then **Aubrie Jean** glanced thoughtfully around the subterranean room and looked at **Jordan**.
 
 "Wait—Jordan," Aubrie asked gently, "are you going to be okay feeling cooped up down here in the basement for two whole days while the ramp isn't built yet?"
 
@@ -8465,11 +8509,11 @@ Before Jordan could reach for his keyboard, **Caleb** and **Owen**, who had just
 
 "Yeah, man," Caleb added, stepping over to Jordan’s bed. "Anytime you want to come upstairs, see a different set of walls, and look out the big picture window at the front street, Owen and I are your personal human elevator. Carrying you up one flight of stairs is light work."
 
-"And the three of us have your wheelchair covered," Hannah chimed in alongside Lauren and Jessica.
+"And the three of us have your wheelchair covered," **Hannah** chimed in alongside **Lauren** and **Jessica**.
 
 Touched by how effortlessly they erased every physical barrier in his path, Jordan nodded gratefully. Sitting up on the edge of the mattress as the basement warmed rapidly, he reached for the collar of his winter parka—and with a smooth downward pull of the zipper and a practiced shrug of his shoulders, took off the heavy coat all by himself. Another quiet milestone checked off.
 
-Two minutes later, Caleb and Owen linked forearms to carry Jordan effortlessly up the interior staircase while Hannah and Lauren brought up his folded wheelchair. They settled him right in the center of the plush upstairs living room sofa—with Aubrie Jean snuggling in on his left side and Madison curling up on his right—directly in front of the wide bay window overlooking Geneva Street.
+Two minutes later, Caleb and Owen linked forearms to carry Jordan effortlessly up the interior staircase while Hannah and Lauren brought up his folded wheelchair. They settled him right in the center of the plush upstairs living room sofa—with Aubrie Jean snuggling in on his left side and **Madison** curling up on his right—directly in front of the wide bay window overlooking Geneva Street.
 
 Jordan’s breath caught as he looked out.
 
@@ -8481,7 +8525,53 @@ Daniel stood beside the sofa with his hands on his hips, surveying the completel
 
 A collective, deeply felt sigh of relief washed through the living room as the irresistible aroma of sizzling bacon, scrambled eggs, and fresh toast drifted in from the kitchen, where the Brooks brothers and **Ben Carter**—who had gotten snowed in with the family while visiting **Chloe** on Saturday afternoon—were cooking a massive hot breakfast for all eighteen people in the house. For today, the world was locked outside, and Jordan was completely safe.
 
-### Scene 4: Blueprints for Mobility & The Unbudgeted Blizzard
+### Scene 6: Interlude: The Unbudgeted Blizzard
+
+**Date:** 2014-12-14 at 09:00 America/New_York
+
+That same weekend—while the eighteen members of the Brooks household were waking up on Geneva Street to sizzling bacon, restored furnace heat, and four feet of glittering snow—**Aubrie Sinclair** was trapped in a freezing, drafty roadside motel room off U.S. Route 460 on the outskirts of Blacksburg in a state of cold panic.
+
+After staking out Bennett Hall from two hundred yards away on Friday afternoon and stumbling across the articles on **Adult Guardianship and Conservatorship** at the Blacksburg Public Library (`e001/c025`), she had checked into the cheapest roadside motel she could find on Friday night rather than driving seven hours back to the coast in the dark, intending to leave before dawn for her Saturday shift in Norfolk.
+
+Instead, when she had dragged back the thin, faded polyester curtain on Saturday morning, the parking lot—and the highway beyond it—was vanishing behind a roaring wall of white. By Sunday morning, her sedan was buried past the roof line under forty-six inches of drifted snow, and both Interstate 81 and U.S. Route 460 had been shut down by the Virginia State Police.
+
+The blizzard she had driven straight into had trapped her.
+
+When she had dialed her supervisor back in Hampton Roads with a trembling hand to call out of her weekend shift, she had pitched her voice into a blend of real panic and practiced victimhood.
+
+"I can't make it in for my shift," she had told her manager. "I'm completely snowed in. The highways are closed."
+
+There had been a long, baffled pause on the other end of the line.
+
+"...Snowed in?" her manager had repeated, his voice flat and skeptical. "Aubrie, it's forty-eight degrees and raining here in Norfolk. What on earth are you talking about? Where are you?"
+
+"I—I drove out to the mountains to check on a sick aunt," she had stammered, the lie sounding thin and ridiculous even to her own ears.
+
+Her manager hadn't bought a word of it. "You didn't request leave, and you're three hundred miles away on a scheduled workday, Aubrie. You know company policy. This goes down as an unexcused absence, and you'll have a formal written warning waiting on your desk when you return. Do not let this happen again."
+
+Now, pacing beside the rattling motel radiator on Sunday morning, Aubrie Sinclair pulled up her checking account on her phone and stared at the pending charges for two unbudgeted nights at the motel and three tanks of highway gas—money she desperately needed for her own bills.
+
+The irony was suffocating. Had she simply stayed home in Norfolk, the weekend would have been nothing more than a dreary, rainy shift at her desk. Instead, her refusal to relinquish control over a son who wanted nothing to do with her had left her stranded hundreds of miles from home, bleeding money she didn't have, with her livelihood hanging by a thread.
+
+A cold, pragmatic terror cut through her rage. She *could not* lose her job. Without her paycheck, she had nothing. Sitting down hard on the edge of the lumpy motel mattress, she made a silent vow: she would never risk an unannounced trip during work hours again.
+
+Yet the instant she closed that door, her mind—incapable of self-reflection—snapped straight back to its singular obsession.
+
+Flipping open her laptop on the motel bedspread and plugging in the flash drive she had used at the Blacksburg Public Library on Friday afternoon, she pulled up the saved statutory pages from the Virginia legal-aid portal.
+
+As she scrolled through the articles on Adult Incapacitated Guardianship under the Code of Virginia (`Va. Code § 64.2-2000 et seq.`), her eyes performed a masterclass in selective reading. She skimmed right past the stringent statutory requirements—completely ignoring phrases like *"clear and convincing evidence,"* *"least restrictive alternative,"* *"independent evaluator,"* and *"fiduciary accounting of every dollar."* To her mind, those were mere bureaucratic technicalities meant for other people.
+
+Instead, her gaze locked onto the sentences that fed her starving sense of absolute authority:
+
+> *"The guardian of an incapacitated adult may determine the ward's place of residence..."*  
+> *"The conservator shall hold complete authority over the ward's estate and financial aid..."*  
+> *"The court may vest the guardian with full power to consent to or refuse medical treatment..."*
+
+Sitting alone in a freezing motel room she couldn't afford, with a formal reprimand waiting for her in Norfolk—while less than six miles away on Geneva Street, the son she called *Aubrey* was warm, cherished, and laughing in the heart of a family she refused to believe existed—Aubrie Sinclair felt a feverish, triumphant smile creep across her face.
+
+She didn't need to chase him through campus parking lots anymore. She had found her magic wand. With a single stroke of a circuit court judge's pen, she would erase Jordan Fuller forever.
+
+### Scene 7: Blueprints for Mobility
 
 **Date:** 2014-12-16 at 21:30 America/New_York
 
@@ -8517,61 +8607,7 @@ Looking at the photograph of a sleek, custom-fitted ultralight wheelchair on her
 
 The ramp and the Route 11 estate were the physical fortress. Securing Jordan a custom-fitted wheelchair of his own—and building an ironclad contingency plan to get him onto independent health insurance the second his mother tried to pull the rug out from under him—would be their Christmas gift to their son.
 
----
-
-### Interlude: The Unbudgeted Blizzard
-
-Three days earlier—while the eighteen members of the Brooks household were waking up on Sunday morning to sizzling bacon, restored furnace heat, and four feet of glittering snow—**Aubrie Sinclair** had woken up in a freezing, drafty roadside motel room off U.S. Route 460 on the outskirts of Blacksburg in a state of cold panic.
-
-Driven by an obsessive, unraveling desperation that refused to accept her Thanksgiving defeat at Bennett Hall, she had burned the last of her spare cash to make the five-hour drive back up Interstate 81 at the end of Final Exam week. She hadn't even come with a coherent plan—only a manic certainty that if she staked out the campus perimeter as the dorms closed for Winter Break, she would catch sight of "Aubrey" and force him into her car.
-
-Instead, she had spent Friday parked two hundred yards from *The Old Lady on the Hill*, too intimidated by the memory of Kelsey Brennan and the CPI Campus Police to set foot on the brick walkway—never knowing that Jordan and his friends had already departed from the rear accessibility lot hours earlier. Exhausted and running on fumes, she had checked into the cheapest motel she could find on Friday night rather than driving seven hours back to the coast in the dark.
-
-When she dragged back the thin, faded polyester curtain on Saturday afternoon, the parking lot—and the highway beyond it—had vanished behind a four-foot wall of white. Her sedan was buried past the wheel wells. I-81 and Route 460 were shut down by Virginia State Police.
-
-The blizzard she had driven straight into had trapped her.
-
-With a trembling hand, she dialed her supervisor at her office back in Hampton Roads, pitching her voice into a blend of real panic and practiced victimhood.
-
-"I can't make it in for my shift," she told her manager. "I'm completely snowed in. The highways are closed."
-
-There was a long, baffled pause on the other end of the line.
-
-"...Snowed in?" her manager repeated, his voice flat and skeptical. "Aubrie, it's forty-eight degrees and raining here in Norfolk. What on earth are you talking about? Where are you?"
-
-"I—I drove out to the mountains to check on a sick aunt," she stammered, the lie sounding thin and ridiculous even to her own ears.
-
-Her manager didn't buy a word of it. "You didn't request leave, and you're three hundred miles away on a scheduled workday, Aubrie. You know company policy. This goes down as an unexcused absence, and you'll have a formal written warning waiting on your desk when you return. Do not let this happen again."
-
-The line clicked dead.
-
-Aubrie Sinclair stood frozen beside the motel radiator, her knuckles white around her phone as humiliation and rage warred in her chest. Pulling up her checking account on her screen, she stared at the pending charges for two unbudgeted nights at the motel and three tanks of highway gas—money she desperately needed for her own bills.
-
-The irony was suffocating. Had she simply stayed home in Norfolk, Saturday would have been nothing more than a dreary, rainy shift at her desk. Instead, her refusal to relinquish control over a son who wanted nothing to do with her had left her stranded hundreds of miles from home, bleeding money she didn't have, with her livelihood hanging by a thread.
-
-A cold, pragmatic terror cut through her rage. She *could not* lose her job. Without her paycheck, she had nothing. Sitting down hard on the edge of the lumpy motel mattress, she made a silent vow: she would never risk an unannounced trip during work hours again.
-
-Yet the instant she closed that door, her mind—incapable of self-reflection—snapped straight back to its singular obsession.
-
-Before the storm had closed the roads, she had spent two hours at a public desktop terminal inside the Blacksburg Library, frantically typing search queries about how a parent could override a nineteen-year-old’s refusal of contact. And there, buried in the legal reference tabs, she had discovered two words she had never considered before:
-
-**Guardianship** and **Conservatorship**.
-
-Flipping open her laptop on the motel bedspread, its harsh blue light illuminating her face in the dim room while the wind howled outside, she pulled up the saved pages from the Virginia legal aid portal.
-
-As she scrolled through the articles on Adult Incapacitated Guardianship under the Code of Virginia, her eyes performed a masterclass in selective reading. She skimmed right past the stringent statutory requirements—completely ignoring phrases like *"clear and convincing evidence,"* *"least restrictive alternative,"* *"independent evaluator,"* and *"fiduciary accounting of every dollar."* To her mind, those were mere bureaucratic technicalities meant for other people.
-
-Instead, her gaze locked onto the sentences that fed her starving sense of absolute authority:
-
-> *"The guardian of an incapacitated adult may determine the ward's place of residence..."*  
-> *"The conservator shall hold complete authority over the ward's estate and financial aid..."*  
-> *"The court may vest the guardian with full power to consent to or refuse medical treatment..."*
-
-Sitting alone in a freezing motel room she couldn't afford, with a formal reprimand waiting for her in Norfolk—while less than six miles away on Geneva Street, the son she called *Aubrey* was warm, cherished, and laughing in the heart of a family she refused to believe existed—Aubrie Sinclair felt a feverish, triumphant smile creep across her face.
-
-She didn't need to chase him through campus parking lots anymore. She had found her magic wand. With a single stroke of a circuit court judge's pen, she would erase Jordan Fuller forever.
-
-### Scene 5: Solar Noon on the Winter Solstice
+### Scene 8: Solar Noon on the Winter Solstice
 
 **Date:** 2014-12-21 at 12:20 America/New_York
 
