@@ -16,7 +16,7 @@ He sat parked in his basic manual wheelchair near the front hallway, his hands r
 
 Across the room, Aubrie Sinclair moved back and forth as a blurred silhouette against the closed blinds. Anything more than an arm's length away dissolved into a pale, featureless smear—the way distant rooms had always looked to him—forcing him to squint just to track the sharp, hurried angles of her movements as she double-checked the locks on the windows.
 
-Even his name did not belong to him. Born in 1996 after his father, David Fuller, vanished following a single night with his mother, he had been christened *Aubrey*—a masculine echo of *Aubrie*, stamped onto his birth certificate like a brand of ownership. In the quiet, suffocating architecture of this house, he had never been treated as a separate human being with a future of his own. He was her compensation. He was her property. He was an extension of her.
+Even his name did not belong to him. Born in 1996 after his father, David Fuller, vanished following a single night with his mother—a father Aubrey knew had died years ago when he was a little boy—he had been christened *Aubrey*, a masculine echo of *Aubrie*, stamped onto his birth certificate like a brand of ownership. In the quiet, suffocating architecture of this single-family suburban house in Virginia Beach, he had never been treated as a separate human being with a future of his own. He was her compensation. He was her property. He was an extension of her.
 
 "Don't slouch in that chair, Aubrey," her voice cut through the muffled haze as she crossed the carpet toward him.
 
@@ -2595,7 +2595,7 @@ Jordan stopped the wheelchair. The anxiety from the broken elevator, the claustr
 
 Looking at Aubrie—radiant, safe, and waiting for him—a dark, invasive thought seized his mind. *What if this isn't real?*
 
-The brief, terrifying moment of being lost, of being unable to find her, had felt entirely too much like his old life. He was suddenly terrified that this was all a beautifully constructed dream, a cruel trick of his own mind, and that he was going to wake up at any second, trapped back in his mother's apartment, forever at her mercy.
+The brief, terrifying moment of being lost, of being unable to find her, had felt entirely too much like his old life. He was suddenly terrified that this was all a beautifully constructed dream, a cruel trick of his own mind, and that he was going to wake up at any second, trapped back in his mother's suburban house in Virginia Beach, forever at her mercy.
 
 Aubrie saw the raw, unmistakable fright in his eyes. She didn't know the full logistical cause of his panic, only that the boy she was falling for was terrified.
 
@@ -9337,7 +9337,7 @@ The name hit Jordan like a warm, electric jolt.
 
 He had never heard those two words spoken together in his life.
 
-Even after reclaiming his middle name *Jordan* on his first weekend at CPI, in the back of his mind he had still been *Jordan Fuller*—carrying the surname of a biological father he had never known and a legal identity tied to Hampton Roads. He had always passively assumed that when a man and a woman got married, the wife took the husband’s last name because that was simply the default rule of society.
+Even after reclaiming his middle name *Jordan* on his first weekend at CPI, in the back of his mind he had still been *Jordan Fuller*—carrying the surname of a dead biological father he had never known and a legal identity tied to Hampton Roads. He had always passively assumed that when a man and a woman got married, the wife took the husband’s last name because that was simply the default rule of society.
 
 Wait—*did they have to?*
 
@@ -9937,6 +9937,230 @@ In the peaceful cabin of the minivan, with Aubrie Jean resting her head on his l
 
 A year ago, the world beyond his bedroom wall had been a terrifying void. Now, from Geneva Street in Christiansburg to Bennett Hall in Blacksburg, from the Scott house in Bluewater to the Dawson sanctuary in Charlottesville, his map of safe places—and safe people—was growing wider with every mile.
 
+## Jordan's First New Year's
+
+### Scene 1: Midnight in London
+
+**Date:** 2014-12-31 at 18:45 America/New_York
+
+By a quarter to seven on the evening of **December 31st**, the main living room of the **Brooks** residence on Geneva Street was glowing with warm amber lamplight, the twinkle of the Christmas tree, and the rich, savory aroma of **Laura Brooks**’s homemade sausage rolls and mince pies drifting out of the kitchen.
+
+For **Jordan**, sitting in his manual wheelchair at the center of the living room circle between **Aubrie Jean** and **Madison**, the entire atmosphere of **New Year’s Eve** felt electric with anticipation—mainly because he had no idea what a New Year’s Eve celebration actually looked like after eight-thirty at night.
+
+Because **Daniel** and **Laura Brooks** had grown up in **London** before raising their family in Osaka and Virginia, New Year’s Eve in the Brooks household didn't wait until midnight Eastern Time to begin. Every December 31st at **seven o'clock in the evening (`19:00 EST`)**, when the clock struck **midnight Greenwich Mean Time (`00:00 GMT`)** across the Atlantic, the entire family gathered around the big living-room television to watch the live satellite feed from the River Thames and ring in the **British New Year** first.
+
+At `18:55`, everyone’s phones chimed in unison with two messages in the **`[Jordan Comms]`** group chat—the first arriving from **Henry Walsh**, who had just landed in London two days earlier to settle into his study-abroad flat near Holborn for the **Spring 2015** semester at the **London School of Economics and Commerce (`LSEC`)**:
+
+> **[Jordan Comms] Henry Walsh (`23:55 GMT / 18:55 EST`):** *[Photo attached: Big Ben and the Houses of Parliament lit up in gold against the dark London sky]* Reporting live from the banks of the Thames, Floor 2! Zoë, your parents' tip about standing on the Victoria Embankment near Temple Station was spot-on. Happy almost-2015 from five hours in the future, guys!
+
+Thirty seconds later, a second message popped up from **Charlottesville**:
+
+> **[Jordan Comms] Isabel Dawson (`18:56 EST`):** Happy New Year's Eve from Charlottesville, everyone!! Elana, Stephen, Stella, and I are watching the London feed right now too! Give Jordan a big two-armed hug from us when the clock strikes midnight!
+
+"Right then, everyone—two minutes to London midnight!" Daniel announced in his crisp London accent, handing out warm mugs of spiced mulled apple cider as **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, **Jessica**, **Megan**, **Caleb**, **Chloe**, **Ethan**, **Lucas**, **Owen**, and **Jacob** gathered around the living room.
+
+On the sixty-inch television screen, the camera panned across the dark waters of the River Thames toward the illuminated clock face of **Big Ben** and the towering wheel of the **London Eye**.
+
+As the final seconds ticked down on the screen, Daniel, Laura, Zoë, Megan, and the Brooks brothers led the room in a booming ten-second countdown.
+
+"*Three... two... one...* **HAPPY NEW YEAR!**"
+
+The deep, resonant *BONG* of Big Ben rang out through the living room speakers—and a split second later, the night sky over London on the television screen erupted.
+
+Streaks of incandescent gold shot upward from barges along the Thames and the rim of the London Eye, detonating in massive, symmetrical spheres of crimson, emerald, sapphire, and glittering silver sparks that cascaded down toward the water to a chorus of deep, percussive *booms*.
+
+While the rest of the room cheered and clinked their mugs of cider together, Jordan froze in his wheelchair.
+
+Behind the crisp corrective lenses of his glasses, his green eyes locked onto the television screen in complete, bewildered astonishment. He watched a second volley of golden shells arc into the London sky and burst into shimmering willow-trees of light, accompanied by the low, rhythmic *thump-boom, thump-boom* through the television subwoofer.
+
+His hands moved slowly to the keyboard of his `Precisionist 5000` on his lap tray. Looking up from the screen to Aubrie Jean, Madison, and Daniel with a deeply furrowed brow, Jordan typed:
+
+<aac>Wait. What are those exploding lights in the sky on the television? And why are they making that booming sound?</aac>
+
+One by one, the chatter around the living room quieted.
+
+Mark blinked, lowering his mug of cider halfway to the coffee table. "Wait... Jordan, you mean the fireworks?"
+
+Jordan looked around the circle of seventeen faces, his cheeks flushing slightly as he typed again:
+
+<aac>Is that what fireworks are? I have heard that word before, and every New Year's Eve when I was growing up in Virginia Beach, I used to hear loud booms outside my bedroom window late at night that made the glass rattle. Wait—were those booms fireworks?</aac>
+
+A stunned, heavy silence fell over the living room.
+
+Beside him, Aubrie Jean reached out immediately and laced her fingers through Jordan’s left hand, her hazel eyes glistening with sudden emotion, while Madison knelt on his right side and rested a warm hand on his forearm.
+
+"Jordan..." Laura Brooks asked softly, kneeling down by the corner of the coffee table so she was at eye level with him. "Did your mother never take you outside to see fireworks on New Year's Eve or the Fourth of July? Did she never let you stay up until midnight to watch the New Year come in?"
+
+Jordan shook his head slowly, his fingers tapping against the familiar keys as he explained the only reality he had ever known:
+
+<aac>No. Never. In the suburban house where I lived with my mother in Virginia Beach, I had to go to bed at my regular bedtime at eight-thirty every single night of the year, including December 31st. She always took my laptop away before turning off the light and shutting the blinds. Hours later, in the pitch dark, I would wake up when loud booms started shaking the neighborhood outside. Because I did not have my hearing aids or my glasses, it just sounded like muffled explosions in the dark, and even if I peeked through the blinds, everything outside was a blurry smear. I had no idea what was making the sky boom.</aac>
+
+Across the room, Jessica’s jaw tightened, her six-foot-three frame straightening with quiet, protective fury at the thought of a little boy lying alone in the dark in a suburban house in Virginia Beach, listening to explosions he couldn't see or understand because his mother wouldn't even let him stay awake to welcome a new year.
+
+Daniel Brooks walked over, knelt beside his wife in front of Jordan’s wheelchair, and laid a steady, grounding hand on Jordan’s shoulder.
+
+"Well, son," Daniel said, his voice thick with emotion beneath its calm British steadiness, "that ends tonight. Tonight, nobody is sending you to bed at eight-thirty, nobody is taking your voice away, and before that clock hits midnight here in Virginia, we are going to make sure you know everything there is to know about fireworks—and see them with your own eyes."
+
+### Scene 2: The Emission Spectra of Earth
+
+**Date:** 2014-12-31 at 20:00 America/New_York
+
+Once dinner platters of roast beef sliders, Yorkshire puddings, and crisp winter salads were set out across the dining and coffee tables at eight o'clock, the entire family turned the evening into an enthusiastic masterclass on New Year's Eve and the science of fireworks.
+
+"First things first, brother," **Mark** said, pulling a chair up beside **Jordan**’s wheelchair while **Hannah** leaned warmly against Mark’s shoulder. "Those loud booms you heard waking you up in your neighborhood back in Virginia Beach? Those were your neighbors setting off illegal backyard fireworks."
+
+Jordan’s eyebrows shot up behind his glasses. He tapped rapidly on his `Precisionist 5000`:
+
+<aac>Wait—fireworks are illegal?! Why would my neighbors in a quiet suburban neighborhood be setting off illegal explosives at midnight?!</aac>
+
+**Caleb** and **Owen** both burst out laughing, and **Daniel** grinned as he leaned back against the bookshelf.
+
+"Technically, under Commonwealth of Virginia law—and especially inside the city limits of Virginia Beach—any firework that shoots up into the air or explodes, like Roman candles, bottle rockets, or mortar shells, is completely illegal without a commercial pyrotechnics permit," Daniel explained with a chuckle. "Only ground sparklers and fountains are legal in Virginia. Mind you, every June and December, thousands of Virginians drive south across the border into North Carolina or west into Tennessee, buy giant boxes of aerial shells, smuggle them back into their suburban cul-de-sacs, and set them off at midnight on New Year's Eve anyway while the local police are too busy to chase them all down."
+
+Jordan stared at Daniel for a second as eighteen years of mysterious midnight *booms* in his old Virginia Beach neighborhood suddenly made complete, logical sense.
+
+<aac>So for my entire childhood, when I thought the sky was falling outside my bedroom window at midnight, it was just suburban dads down the street setting off contraband from North Carolina?!</aac>
+
+The whole living room roared with laughter, and Jordan’s shoulders relaxed as a wide, genuine grin spread across his face.
+
+Then **Aubrie Jean** and **Zoë** exchanged an excited look—and within thirty seconds, Zoë had pulled up a high-resolution diagram on her `mPad` while Aubrie Jean slid her chair right up beside Jordan’s armrest.
+
+"And here is the best part, Jordan," Aubrie Jean said, her hazel eyes shining with the shared passion that had bonded them since their very first lecture in **Dr. Alistair**’s *Astronomy 101* class. "Do you want to know *why* fireworks explode in different colors across the night sky?"
+
+Jordan looked at Zoë’s diagram, which showed the cross-section of an aerial shell packed with black-powder lift charges, time-delay fuses, and small round pellets labeled with chemical formulas: `SrCO₃`, `BaCl₂`, `CuCl`, `NaNO₃`, and `CaCl₂`.
+
+Wait.
+
+Jordan’s analytical mind recognized those electron-shell transitions instantly. His fingers flew across his keyboard:
+
+<aac>Wait a second! Strontium carbonate, barium chloride, copper chloride, sodium nitrate... Those are metallic salts! When the thermal energy of the explosion excites the electrons in those metal atoms to a higher energy orbital and they drop back down to their ground state, they emit photons at specific wavelengths! Fireworks are just giant terrestrial atomic emission spectra!</aac>
+
+"Spot on, J!" Aubrie Jean beamed, squeezing his hand tightly. "It is the exact same quantum physics we use in stellar spectroscopy when we look at a nebula or a star through a spectrograph! Deep red is **strontium** emitting at `650 nanometers`. Bright green is **barium** at `525 nanometers`. Gold and yellow are the **sodium D-lines** at `589 nanometers`—and blue is **copper** at `450 nanometers`, which is the hardest color in pyrotechnics to engineer because if the shell burns too hot, the copper chloride molecule breaks apart before it can emit blue light!"
+
+"Which means," Zoë added with a satisfied nod, adjusting her glasses, "that watching fireworks isn't just random loud noise, Jordan. It is applied quantum mechanics painted across the troposphere."
+
+Seeing fireworks reframed through the lens of astrophysics and atomic spectroscopy transformed them instantly in Jordan’s mind from a source of childhood fear into a phenomenon he couldn't wait to observe.
+
+"And just in case the neighbors here in Christiansburg set off some loud mortars at midnight," **Megan** said warmly, stepping over from the sofa and holding up a pair of low-profile, padded acoustic earmuffs she had retrieved from the hall closet alongside Jordan’s hearing-aid case, "we can switch your hearing aids to their outdoor dampening program or slip these over your ears when we go out on the back deck. That way you get all the quantum physics in crystal-clear 20/20 vision without any harsh acoustic spikes."
+
+Jordan looked up at Zoë’s six-foot-tall oldest sister—who had been a quiet, rock-steady presence in the house ever since dumping her toxic coworker on Christmas Day—and gave her a grateful, heartfelt nod.
+
+<aac>Thank you, Megan. With those earmuffs and knowing the chemistry behind the wavelengths, I really want to go out on the deck at midnight and see them for real.</aac>
+
+At **ten-thirty (`22:30 EST`)**, **Lauren**’s `mPad` chimed with an incoming video call from **Gander, Newfoundland**.
+
+Because Newfoundland Standard Time (`UTC-3:30`) sat in its own unique half-hour time zone an hour and a half ahead of Virginia, it was **midnight (`00:00 NST`)** at the **Barnes** home in Gander!
+
+Lauren propped her tablet up on the mantel so everyone could see her parents, **Arthur and Maeve Barnes**, and her two burly older brothers, **Liam and Connor**, standing on their snowy porch in Newfoundland holding up glasses of celebratory birch beer.
+
+"Happy New Year from Newfoundland, Lauren, Jordan, and the whole Brooks clan!" Arthur Barnes boomed in his rich, melodic Gander lilt as midnight whistles and harbor horns echoed across the snowy town behind him. "We can't wait to welcome all eighteen of you up here to Gander come May!"
+
+"Happy Newfoundland New Year, Mum and Dad!" Lauren cheered, wiping a happy tear from her cheek as Jordan waved warmly at the screen beside her.
+
+Two time zones down. One more to go—and for the first time in his life, Jordan was wide awake to see it through.
+
+### Scene 3: Ten Seconds to 2015
+
+**Date:** 2014-12-31 at 23:45 America/New_York
+
+At eleven-forty-five at night, the grandfather clock in the front hall chimed the three-quarter hour.
+
+Sitting in his wheelchair beside the warm hearth with **Aubrie Jean** on his left and **Madison** on his right, **Jordan** glanced up at the clock face and felt a quiet, thrilling shiver run down his spine.
+
+It was `11:45 PM` on **New Year’s Eve**—more than three hours past the rigid `8:30 PM` curfew that had governed every single night of his eighteen years in his mother’s suburban house in Virginia Beach. Nobody had barked at him that he was being a burden. Nobody had confiscated his laptop or locked him in a dark room.
+
+Instead, **Daniel** and **Laura Brooks** walked out of the kitchen carrying two silver trays lined with seventeen crystal flutes filled with chilled, golden **sparkling apple cider**—a deliberate, thoughtful nod to Jordan’s favorite drink.
+
+As everyone took a glass, Daniel raised his flute toward the center of the room, his eyes moving warmly across his biological children and the found family who had become every bit as much his own.
+
+"Before the clock ticks down the final minutes of `2014`," Daniel said, his voice resonant and quiet enough that the whole room leaned in, "your mother and I just want to say what an honor it is to have every single one of you under this roof tonight. Four months ago, most of you didn't even know each other's names. Tonight, look at what you have built—a family that leaves no one behind, that fights for each other without hesitation, and that turns every dark corner into light."
+
+He looked directly at Jordan and smiled.
+
+"Here is to `2015`, Jordan—to the year the new ramp goes up in the backyard, to the year we travel the world together, and to the year you step into your future completely free."
+
+Jordan’s throat tightened with emotion as he lifted his flute of sparkling apple cider alongside the sixteen people around him.
+
+Looking down at the tiny golden bubbles rising through the glass, Jordan thought about how much had changed since August. When `2014` began, he had been *Aubrey Fuller*—a boy trapped in a silent suburban house in Virginia Beach, carrying a first name that belonged to his controlling mother and the last name of **David Fuller**, a biological father who had died years ago without ever being part of his life.
+
+Now, as `2014` came to a close, he was **Jordan**—surrounded by people who loved him for exactly who he was, and holding in his heart the quiet promise that one day he would shed both *Aubrey* and *Fuller* forever to become **Jordan Kelly**.
+
+On the television screen, the live broadcast from Times Square showed the glittering Waterford crystal ball poised high above Manhattan as the clock ticked to **`23:59:50`**.
+
+Around the living room, everyone stood—and **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** all gathered closely around Jordan’s wheelchair, while **Mark** wrapped his arm around **Hannah**, **Chloe** leaned against **Ethan**, and **Megan** stood beside her parents and brothers with her camera ready.
+
+"*Ten!*" the whole room chanted together.
+
+"*Nine!*"
+
+"*Eight!*"
+
+Jordan’s heart hammered with pure, incandescent joy as he held Aubrie Jean’s hand with his left hand and Madison’s hand with his right.
+
+"*Seven! Six! Five! Four! Three! Two! One—*"
+
+"**HAPPY NEW YEAR!!**"
+
+The clock struck **`00:00`**—**Thursday, January 1, 2015**—and the living room erupted into cheers, applause, and clinking crystal flutes.
+
+Before the first cheer had even faded, **Aubrie Jean** leaned down, cupped Jordan’s cheek gently in her warm hand, and looked into his green eyes with all the love in her soul.
+
+"Happy New Year, Jordan," she whispered—and leaned in to press her lips to his in his **very first New Year’s kiss**.
+
+Jordan closed his eyes, leaning into the tender, lingering warmth of her kiss as his heart soared.
+
+When Aubrie Jean pulled back with a radiant, rosy-cheeked smile, she didn't step away to guard him possessively. True to the zero-jealousy **Constellation Pact** that bound all six women together, Aubrie Jean squeezed Madison’s hand and smiled warmly as **Madison** leaned down next to give Jordan a sweet, joyful New Year’s kiss on the lips, followed one by one by **Zoë**, **Lauren**, **Sarah**, and **Jessica**, each of them kissing him warmly and wrapping him in affectionate hugs while the other women beamed without a shred of envy or rivalry in their eyes.
+
+Standing a few steps away by the hearth with her camera lowered against her sweater, twenty-seven-year-old **Megan Brooks** watched the six young women take turns kissing and hugging Jordan in seamless, loving harmony—and blinked in quiet, deeply moved wonder at the sheer gentleness and absence of jealousy among them.
+
+Then **Mark**, **Daniel**, **Caleb**, **Owen**, **Lucas**, and **Jacob** stepped up to share warm, two-armed brotherly and fatherly hugs with Jordan, while **Hannah**, **Laura**, **Chloe**, and **Megan** each wrapped him in tight, affectionate embraces.
+
+Outside the living room windows, a low, distant *thump-BOOM* echoed across the cold Christiansburg night sky—and this time, Jordan didn't flinch at all.
+
+Instead, his eyes lit up behind his glasses, and he pointed eagerly toward the back deck door.
+
+### Scene 4: Booms in the Light
+
+**Date:** 2015-01-01 at 00:10 America/New_York
+
+Within two minutes, **Hannah** and **Aubrie Jean** had helped **Jordan** zip his heavy maroon **CPI Forgers** winter jacket up to his chin, **Lauren** had tucked a knit Newfoundland toque snugly over his ears before **Megan** slipped the padded acoustic earmuffs gently over his head to take the sharp edge off the percussion, and **Mark**, **Caleb**, and **Owen** had wheeled him smoothly out onto the wide wooden back deck overlooking the snow-dusted hillside of Geneva Street.
+
+Below the deck, the wooden survey stakes and bright surveyor’s ribbons marking the path of the future wheelchair ramp gleamed faintly in the porch light—a physical promise of the construction that would begin as soon as the New Year holiday ended.
+
+Above them, the Appalachian winter sky was a vast, crystal-clear dome of velvet black, glittering with the winter constellations of **Orion**, **Taurus**, and the **Pleiades**.
+
+And across the valley, the neighborhood fireworks were in full swing.
+
+*Thump.*
+
+Through the protective padding of his earmuffs, the launch sounded like a gentle, muffled heartbeat rather than a frightening shockwave.
+
+Jordan tilted his head back against his wheelchair headrest and looked up just as a silver trail of sparks rocketed three hundred feet into the air over the next ridge and blossomed open.
+
+For the very first time in his eighteen years of life, **Jordan saw a firework**.
+
+It didn't look like an explosion of chaos at all. Through his prescription glasses, it was a breathtaking, symmetrical sphere of glowing **strontium crimson** and **sodium gold** that expanded silently across the dark sky like a miniature supernova remnant before drifting downward in a glittering rain of embers.
+
+A second shell whistled upward to the left and burst into a dazzling ring of **barium emerald green** surrounding a core of **copper sapphire blue**, followed by a third shell that cascaded in shimmering silver willow-fronds right below the belt of Orion.
+
+Jordan’s breath caught in his chest. His mouth parted in pure, childlike wonder, the vibrant red, gold, green, and blue light reflecting in his wide green eyes and off the lenses of his glasses.
+
+For eighteen years, lying awake in the dark in a single-family suburban house in Virginia Beach with the blinds drawn tight, he had heard those midnight booms and thought the world outside was a loud, violent, terrifying place he wasn't built to survive.
+
+She had lied to him about the dark, too.
+
+The booms weren't monsters in the night. They were human beings throwing handfuls of starlight—strontium, barium, copper, and sodium—up into the winter sky to celebrate the fact that they had made it through another orbit around the sun together.
+
+Standing on Jordan’s left, **Aubrie Jean** slipped her gloved hand into his. On his right, **Madison** rested her cheek warmly against his shoulder, while **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, **Megan**, **Daniel**, **Laura**, and the rest of the Brooks family formed a warm, windbreak semicircle all around his chair.
+
+Lowering his gaze for just a second to the `Precisionist 5000` resting on his lap tray, Jordan typed with steady, unhurried fingers in the glow of the deck lanterns:
+
+<aac>They look just like planetary nebulae. For eighteen years I only ever heard the booms in the dark. I never knew they were painting the sky with light. Happy 2015, everyone. Thank you for letting me stay awake to see it.</aac>
+
+Aubrie Jean squeezed his hand tightly, her eyes shining in the crimson and gold glow of the next aerial burst overhead, while Daniel Brooks rested a proud, steady hand on the back of Jordan’s chair.
+
+Up in the clear Virginia sky, another bouquet of golden sparks bloomed against the stars—and surrounded by the people who loved him, Jordan Fuller tilted his head back and watched every single ember until the sky went quiet.
+
 # Jordan's World Trek
 
 ## The Northern Ascent
@@ -10103,7 +10327,7 @@ Across the narrow aisle, Daniel caught Jordan's eye. He didn't offer a patronizi
 
 The aircraft turned onto the active runway. The twin engines roared to life, a deep, vibrating mechanical thunder that shook the cabin. Jordan squeezed Aubrie's hand with white-knuckled intensity. The acceleration pressed him heavily into the back of his seat, a sensation unlike anything he had ever felt.
 
-For eighteen years, his world had been incredibly small, confined to a single apartment and the crushing gravity of his mother's control. But as the nose of the Meridian Express jet pitched upward, the wheels leaving the Virginia tarmac, that gravity finally broke.
+For eighteen years, his world had been incredibly small, confined to a single-family suburban house in Virginia Beach and the crushing gravity of his mother's control. But as the nose of the Meridian Express jet pitched upward, the wheels leaving the Virginia tarmac, that gravity finally broke.
 
 Jordan looked out the small oval window. The ground fell away, the buildings and roads shrinking into miniature models. A sudden, overwhelming wave of exhilaration flooded his chest. He was flying. He was actually flying.
 
@@ -10545,7 +10769,7 @@ He reached out, pulling Lauren into a tight hug, the warmth of the Newfoundland 
 
 **Date:** 2015-05-23 at 21:30 America/St_Johns
 
-As the excitement of the arrival settled into a warm, comfortable evening, the practical realities of the night took over. With the house naturally lacking the wide, accessible architecture of their specialized apartment back at CPI, the pact simply adapted their routines without missing a single beat.
+As the excitement of the arrival settled into a warm, comfortable evening, the practical realities of the night took over. With the house naturally lacking the wide, accessible architecture of the Brooks family house back in Christiansburg and their dormitory suite at CPI, the pact simply adapted their routines without missing a single beat.
 
 Lauren easily scooped Jordan into her arms, carrying him down the hallway to the family bathroom. The level of trust between them was absolute. With the same pragmatic, unbothered grace she applied to deadlifting his heavy wheelchair, Lauren helped Jordan with his toileting needs, completely normalizing the physical assistance. Once he was taken care of, she used the restroom herself, then gently helped Jordan change out of his travel clothes and into soft, comfortable pajamas before quickly changing into her own sleepwear.
 
