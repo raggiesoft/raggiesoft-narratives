@@ -4250,7 +4250,7 @@ Freddie sat up. He adjusted his orange hoodie, pulling it straight. He patted th
 
 Freddie nodded. He processed this. "I accept the protocol. However, my database on... biological differences... is limited to high school biology textbooks. If we are to operate without barriers, I need to ensure my internal software is updated. I do not want to react with... error." He looked at his hands, twisting the drawstring of his hoodie. "I do not want to be weird."
 
-Jessica leaned back, crossing her legs. A spark of an idea lit up her eyes. "You know," she started, "we all have to fulfill the General Education requirements for CPI. There's a Health and Physical Education credit we need." "I do not enjoy organized sports," Freddie noted immediately. "The sensory input of a gymnasium is torture." "Not sports," Jessica said. "There’s a lecture course. I saw it in the course catalog when I was registering for my summer classes. **HPE 204: Dimensions of Human Sexuality.**"
+Jessica leaned back, crossing her legs. A spark of an idea lit up her eyes. "You know," she started, "we all have to fulfill the General Education requirements for CPI. There's a Health and Physical Education credit we need." "I do not enjoy organized sports," Freddie noted immediately. "The sensory input of a gymnasium is torture." "Not sports," Jessica said. "There’s a lecture course. I saw it in the course catalog when I was registering for my summer classes. **HLTH 201: Dimensions of Human Sexuality.**"
 
 Freddie blinked. "A university-level course on... reproduction?" "More than that," Jessica explained. "It covers anatomy, physiology, psychology, relationships, boundaries... everything. It’s a science class, Freddie. It explains the mechanics of how people work. No shame. Just data."
 
@@ -4264,7 +4264,7 @@ Freddie looked at Jessica. "The syllabus covers... everything?" "Everything," Je
 
 Freddie felt a strange sense of anticipation. Usually, the topic of "sexuality" was a minefield of embarrassment and unknown variables. But framed as a university course—as data—it felt manageable. It felt like another "Source Code" he could learn.
 
-"I agree to the curriculum," Freddie stated firmly. "We will enroll in HPE 204 for the Fall Semester." "It's a plan," Jessica grinned. "The Avery Unit takes on Human Sexuality. We're going to ace that class."
+"I agree to the curriculum," Freddie stated firmly. "We will enroll in HLTH 201 for the Fall Semester." "It's a plan," Jessica grinned. "The Avery Unit takes on Human Sexuality. We're going to ace that class."
 
 Freddie leaned back into the sofa, feeling the warmth of his sisters on both sides. He looked out the window. Across the street, he saw a **Route 1** bus pull out of the sawtooth bay, heading toward campus. He had a sensory diet. He had a King bed waiting down the hall. And now, he had a syllabus.
 
@@ -4518,7 +4518,7 @@ Paige looked at Freddie. "That sounds good. But what class? Geology? Intro to li
 
 Jessica straightened up. She looked from Paige to Freddie. Her expression was serious, devoid of mockery.
 
-"No," she said softly. "I think we should take **HPE 204: Dimensions of Human Sexuality**."
+"No," she said softly. "I think we should take **HLTH 201: Dimensions of Human Sexuality**."
 
 Freddie froze. His spoon stopped halfway to his mouth. The memory of yesterday—the panic, the bathroom, the shower, the exposure—flashed through his mind. They had seen everything. They had broken the ultimate social barrier of siblings to stop him from crashing.
 
@@ -4577,7 +4577,7 @@ The bookstore was a massive, rotunda-shaped building located at the edge of the 
 
 "Textbooks are downstairs," Jessica said, leading the way to the escalator. They descended into the basement level, a labyrinth of tall metal shelves packed with knowledge. Freddie scanned the aisle markers. *Engineering. Mathematics. Biology. Health & Physical Education.*
 
-"Target acquired," Freddie whispered, pointing to Aisle 4. They walked down the row. The shelves were stocked with colorful softcovers and massive, intimidating hardcovers. Jessica stopped at a tag labeled **HPE 204**.
+"Target acquired," Freddie whispered, pointing to Aisle 4. They walked down the row. The shelves were stocked with colorful softcovers and massive, intimidating hardcovers. Jessica stopped at a tag labeled **HLTH 201**.
 
 There was a stack of thick, glossy textbooks. The cover featured a generic, abstract image of a double helix DNA strand merging with a silhouette of diverse people. **Title:** *Human Sexuality: Biological and Psychosocial Perspectives*. **Edition:** 4th. **Condition:** New.
 
@@ -5008,9 +5008,9 @@ They boarded, taking their seats in the cool air conditioning. As the bus wound 
 
 ### Scene 1: Ground Rules
 
-The fluorescent lights of the classroom hummed, a stark contrast to the humid warmth of a Blacksburg summer afternoon outside. This was HPE 204: Dimensions of Human Sexuality.
+The fluorescent lights of the classroom hummed, a stark contrast to the humid warmth of a Blacksburg summer afternoon outside. This was HLTH 201: Dimensions of Human Sexuality.
 
-For Freddie, this class was a strategic maneuver. The university’s Health and Physical Education requirement was mandatory for graduation, usually filled by sweating through tennis, jogging, or swimming. With his cerebral palsy, those options ranged from "difficult" to "logistical nightmare." But HPE 204 counted for the same credit, and the only muscle he had to exercise here was his brain.
+For Freddie, this class was a strategic maneuver. The university’s Health and Physical Education requirement was mandatory for graduation, usually filled by sweating through tennis, jogging, or swimming. With his cerebral palsy, those options ranged from "difficult" to "logistical nightmare." But HLTH 201 counted for the same credit, and the only muscle he had to exercise here was his brain.
 
 He sat in the second row, the sweet spot for serious students who didn’t want to appear eager. Flanking him were Paige and Jessica, the three of them claiming a block of desks like a defensive line.
 
@@ -5344,7 +5344,7 @@ She had exited the classroom quietly, holding her stack of files. She had heard 
 
 She pulled a pen from her pocket and made a mark on her roster.
 
-"I suggest you visit the registrar immediately, Mr. Henderson. You have been dropped from HPE 204. I will not have students who treat anatomy like a joke and my classroom like a pickup bar."
+"I suggest you visit the registrar immediately, Mr. Henderson. You have been dropped from HLTH 201. I will not have students who treat anatomy like a joke and my classroom like a pickup bar."
 
 The boy’s face went pale. He looked at Paige, then at the professor. He realized, too late, that he had walked into a minefield.
 
@@ -6470,7 +6470,7 @@ Freddie shuddered visibly. "Biology is wet. It involves fluids and unpredictable
 
 He gestured toward the TV, which was now showing a commercial, but the image of the stars was still burned into his mind.
 
-"Astronomy," Freddie stated. "Course Code: **PHY 102**."
+"Astronomy," Freddie stated. "Course Code: **ASTR 101**."
 
 The sisters looked at him.
 
@@ -6490,7 +6490,7 @@ He looked at the notepad, where he had drawn a small Saturn-like ringed planet i
 
 Jessica smiled. The idea of spending a semester looking at stars instead of cutting open dead frogs was infinitely more appealing.
 
-"Okay, Captain," Jessica agreed. "Mental note made. When Spring registration opens in October, we are all signing up for PHY 102. No frogs. Just stars."
+"Okay, Captain," Jessica agreed. "Mental note made. When Spring registration opens in October, we are all signing up for ASTR 101. No frogs. Just stars."
 
 Freddie stood up. He felt tired, but it was a good tired. The day had been full of friction—Krystal, the smoke, the heat—but he had neutralized the threats. He had his Safe People. He had a mission. And now, he had a destination.
 
@@ -7906,7 +7906,7 @@ They walked out of the library, leaving the stress of the assignment behind them
 
 The morning of the Midterm Exam did not begin with panic. It began with logistics.
 
-The Avery Unit stood at the crossroads of **Commonwealth Green**, a paved hub where the paths to different academic buildings diverged. To the left lay Archer Hall, where the main body of HPE 204 would assemble to take their test in the standard, fluorescent-lit classroom.
+The Avery Unit stood at the crossroads of **Commonwealth Green**, a paved hub where the paths to different academic buildings diverged. To the left lay Archer Hall, where the main body of HLTH 201 would assemble to take their test in the standard, fluorescent-lit classroom.
 
 To the right lay **Callahan Hall**, the home of Services for Students with Disabilities (SSD).
 
@@ -7951,7 +7951,7 @@ He sat down. He arranged his pencils. He took a sip of water.
 
 He broke the seal on the envelope.
 
-He pulled out the exam. HPE 204: MIDTERM EXAMINATION.
+He pulled out the exam. HLTH 201: MIDTERM EXAMINATION.
 
 He looked at the clock on the wall. 10:00 AM. He had two hours. The pressure valve in his chest released. Without the ticking clock of a standard 50-minute period, the anxiety of "running out of time" vanished.
 
@@ -8770,7 +8770,7 @@ Held tight in the center of the bed, surrounded by the only people who knew his 
 
 ### Scene 1: The Remainder
 
-The lecture hall in **Copernicus Hall** was a vast, tiered cavern designed to hold two hundred students, but for **PHY 102: Introduction to Astronomy**, it felt comfortably full with just over a hundred.
+The lecture hall in **Copernicus Hall** was a vast, tiered cavern designed to hold two hundred students, but for **ASTR 101: Introduction to Astronomy**, it felt comfortably full with just over a hundred.
 
 For Freddie Avery, this room was a sanctuary compared to the biological chaos of a dissection lab.
 

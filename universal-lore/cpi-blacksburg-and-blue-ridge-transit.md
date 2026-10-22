@@ -44,9 +44,9 @@ Purpose:
   * **Faraday Hall:** Electrical & Systems Engineering (3rd-Floor Systems & Control Lab).
   * **Joule Hall:** Mechanical, Aerospace & Materials Engineering.
   * **Kelvin Hall:** Computer Science & Symbolic Logic.
-  * **Archer Hall:** General Undergraduate Lecture Hall (where Dr. Thorne teaches `HPE 204` in *Paige*).
-* **Copernicus Hall (*The Science Complex*):** Brutalist concrete-and-Ironstone science building housing Physics, Astronomy (`PHY 102` / `AST 101` 200-seat tiered amphitheater), and the CPI Geological Sciences seismograph.
-* **Carter Hall:** Historic brick humanities building on the upper quad reached via a steep, winding incline (where Dr. Gable teaches `History 101: Western Civilization` in *Aubrie*).
+  * **Archer Hall:** General Undergraduate Lecture Hall (where `HLTH 201` is taught in *Paige* and Dr. Gable teaches `HIST 115: History of Ancient Rome` in *Aubrie*).
+* **Copernicus Hall (*The Science Complex*):** Brutalist concrete-and-Ironstone science building housing Physics, Astronomy (`ASTR 101` / `PHYS 102` 200-seat tiered amphitheater), and the CPI Geological Sciences seismograph.
+* **Carter Hall:** Historic brick humanities building on the upper quad reached via a steep, winding incline (where Dr. Gable teaches `HIST 101: Western Civilization I` in *Aubrie*).
 * **Eleanor Bennett Commonwealth Hall (*Bennett Hall* / *"The Old Lady"* / *"The Old Lady on the Hill"*):** 100% fictional historic 1960s residence hall perched on a grassy overlook above Commonwealth Green; **Suite 214 / 216** serves as the accessible sanctuary for Jordan Shawn Kelly, Aubrie, and the Group of 8 during the 2014–2016 timeline (*The Aubrie Chronicles*).
 * **Westgate Hall:** Traditional undergraduate residence hall on the residential quad.
 * **The Foundry & Kincaid Commons:** Primary campus dining halls—**The Foundry** is the massive two-story rotunda dining hall serving the residential quad (counterpart to Dietrick Hall / D2), while **Kincaid Commons** is the multi-level hillside dining hall built into the slope between the upper and lower quads (counterpart to Owens Food Court).
@@ -65,7 +65,9 @@ Purpose:
    * **Holly O'Connell** (born 1969) entered this program at age 16 in Fall 1985 while her older siblings (Ryan, 21; Cassidy, 19) and cousins (Evan and Tyler, 18) matriculated as CPI freshmen. By taking afternoon Business Administration and Commercial Contract Law classes on campus and summer sessions, Holly entered CPI full-time as a credit-hour Junior in Fall 1987 and graduated alongside all four of them in **May 1989** (*The Class of '89*).
 2. **The Summer Session PolyPass Loophole (The Jessica / Paige / Freddie Precedent):**
    * Incoming Fall freshmen do not have active **PolyPass** transit privileges on their CPI student IDs until the Fall Semester begins in late August.
-   * However, enrolling in a six-week accelerated **Summer Session** course (such as *Session 2: July–August*, e.g., `HPE 204: Dimensions of Human Sexuality`) immediately activates a student's **PolyPass** upon tuition payment—unlocking unlimited fare-free rides across the entire Blue Ridge Transit network for the summer.
+   * However, enrolling in a six-week accelerated **Summer Session** course (such as *Session 2: July–August*, e.g., `HLTH 201: Dimensions of Human Sexuality`) immediately activates a student's **PolyPass** upon tuition payment—unlocking unlimited fare-free rides across the entire Blue Ridge Transit network for the summer.
+3. **Standardized CPI Course Code Format (`4-Letter Prefix + 3-Digit Number`):**
+   * Across **every** narrative set at **Commonwealth Polytechnic Institute (CPI)** (*Paige*, *The Eleventh Child: The Story of Jordan*, *Before the Distance*, *The Stardust Engine*, etc.), all CPI courses strictly follow a **4-letter department prefix + 3-digit course number** standard (e.g., `ASTR 101`, `PHYS 102`, `HIST 101`, `HIST 115`, `ENGL 102`, `MATH 112`, `HLTH 201`, `PSYC 101`, `JAPN 101`). Never use 2/3-letter CPI prefixes or 4-digit course numbers for CPI classes.
 
 ---
 

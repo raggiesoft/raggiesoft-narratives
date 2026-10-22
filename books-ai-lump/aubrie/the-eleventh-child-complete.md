@@ -2417,7 +2417,7 @@ His heart hammered a chaotic, frantic rhythm against his ribs. He felt entirely 
 
 But as the hallway began to empty out, reality slowly settled back in. For the very first time since arriving at CPI, the safety net of his suite family was entirely gone. Aubrie, Madison, Zoë, Lauren, and Hannah were all scattered across the massive campus. He was alone.
 
-He pulled up his class schedule on his Vanguard Pro. *10:30 AM – History 101: Western Civilization.* It was located in Carter Hall, an older brick building situated near the upper quad.
+He pulled up his class schedule on his Vanguard Pro. *10:30 AM – HIST 101: Western Civilization I.* It was located in Carter Hall, an older brick building situated near the upper quad.
 
 Jordan took a deep breath, gripped the hand rims of his wheelchair, and pushed through the heavy glass doors back out into the humid Virginia morning.
 
@@ -3089,7 +3089,7 @@ Aubrie pushed Jordan’s Vanguard Pro through the double doors, followed closely
 
 The fact that all seven of them were in this exact section was a massive, statistically absurd coincidence. But the fact that Jordan was in the class at all was a masterstroke of administrative negligence by his mother.
 
-Like all undergraduates at CPI, Jordan was required to complete two credits of Health or Physical Education to graduate. Over the summer, Aubrie Sinclair had logged into his student portal to build his schedule. She had seen "HSC 201" fulfilled the requirement, checked the box, and moved on, completely failing to read the actual course title or description.
+Like all undergraduates at CPI, Jordan was required to complete two credits of Health or Physical Education to graduate. Over the summer, Aubrie Sinclair had logged into his student portal to build his schedule. She had seen "HLTH 201" fulfilled the requirement, checked the box, and moved on, completely failing to read the actual course title or description.
 
 If she had bothered to look, she would have realized she had just enrolled her heavily sheltered, medically isolated son in *Dimensions of Human Sexuality*.
 
@@ -4920,17 +4920,17 @@ In Bennett Hall, the only sign of Health and Safety Week that Suite 214/216 had 
 
 None of them gave Health and Safety Week a second thought tonight—because tonight, Suite 214/216 had something far bigger to celebrate.
 
-At seven-thirty that evening, **Dr. Aris Thorne** had posted the grades on Canvas for their first college **PHYS 1054: Introduction to Astrophysics** exam.
+At seven-thirty that evening, **Dr. Alistair** had posted the grades on Canvas for their first college **ASTR 101: Introduction to Astronomy & Astrophysics** exam.
 
 Sitting in his wheelchair at his desk in his brand-new maroon **CPI Forgers** hoodie, Jordan had clicked open the gradebook tab on his `Pinnacle Vanguard Pro` while **Aubrie Jean** leaned over his shoulder—and for three full seconds, Jordan had simply stared at the screen through his new glasses in stunned disbelief.
 
 He hadn't just passed his first college exam.
 
-He had scored a perfect **100%**, plus all five bonus points on Dr. Thorne's brutal orbital-mechanics extra-credit derivation, for a total score of **105%**.
+He had scored a perfect **100%**, plus all five bonus points on Dr. Alistair's brutal orbital-mechanics extra-credit derivation, for a total score of **105%**.
 
 "A hundred and five percent!!" Aubrie Jean had shrieked with pure joy, throwing both arms around Jordan's shoulders and kissing his cheek while **Madison**, **Zoë**, **Hannah**, and **Lauren** crowded around his desk to read the glowing numbers for themselves.
 
-"Look at Dr. Thorne's comment in the rubric margin!" Zoë had pointed out, her analytical gray eyes shining with pride. *"'Flawless Keplerian transfer derivation—cleanest vector notation in the lecture hall.'"*
+"Look at Dr. Alistair's comment in the rubric margin!" Zoë had pointed out, her analytical gray eyes shining with pride. *"'Flawless Keplerian transfer derivation—cleanest vector notation in the lecture hall.'"*
 
 For a young man who had spent eighteen years being told by his mother that his mind was broken and that going to college was a pointless fantasy, seeing **`105 / 100`** stamped across a university astrophysics gradebook felt like watching the sun rise for the first time.
 
@@ -5051,13 +5051,13 @@ Isabel's eyes softened with deep emotion. Setting her clipboard and two-way radi
 
 Settling back against his seat cushion, Jordan rubbed the sleeve of his hoodie across his wet eyes and gave another small, hitching sniffle as his crying slowly tried to subside. Even though he was still visibly shaken up and trembling from head to toe, a stubborn spark in his chest wanted his newest Safe Person to see what he had accomplished right before the alarm had shattered his night. With a shaking hand, he reached into the pocket of his CPI Forgers hoodie, pulled out his mPhone, unlocked the screen, and turned it toward her.
 
-Glowing on the display was the CPI Canvas gradebook page for **PHYS 1054: Introduction to Astrophysics**:
+Glowing on the display was the CPI Canvas gradebook page for **ASTR 101: Introduction to Astronomy & Astrophysics**:
 
 **Exam 1 Score: 105 / 100 (100% + 5 pts Extra Credit)**
 
 Isabel leaned in to read the screen, and her eyes went wide.
 
-"Shut up!" Isabel gasped, a huge, radiant grin breaking across her face as she read the line twice. "A hundred and five percent?! On Dr. Thorne's first Astrophysics exam?! Jordan, half the sophomores in the Engineering wing barely survive that class with a C!"
+"Shut up!" Isabel gasped, a huge, radiant grin breaking across her face as she read the line twice. "A hundred and five percent?! On Dr. Alistair's first Astrophysics exam?! Jordan, half the sophomores in the Engineering wing barely survive that class with a C!"
 
 Beside her, Lauren, Hannah, Madison, Zoë, and even Aubrie—who had slid her earmuffs down around her neck—smiled warmly around him as a tiny, watery smile broke through the drying tears and sniffles on Jordan's pale face.
 
@@ -6026,7 +6026,7 @@ Jordan turned the screen of his `Vanguard Pro` toward **Aubrie Kelly**, who was 
 
 <aac>Kelsey said I can bring someone with me to her office tomorrow at two o'clock. Aubrie, will you come with me?</aac>
 
-Aubrie’s face softened into a radiant, tender smile. She reached over and squeezed his hand. "I'd love to, J. We'll go down together right after Western Civ."
+Aubrie’s face softened into a radiant, tender smile. She reached over and squeezed his hand. "I'd love to, J. We'll go down together right after my one o'clock Calculus class."
 
 At ten-fifteen, with Mark, Sarah, and Jessica waiting downstairs to walk with them to late Sunday brunch at the dining hall, Hannah pressed the square **PUSH TO OPEN** handicap button on the interior wall of Room 214. As the motorized arm swung the heavy wooden door open on its ten-second dwell timer, Jordan wheeled himself out into the sunlit second-floor corridor—just as the door of **Room 215** directly across the hall clicked open and **Isabel Dawson** and **Henry Walsh** stepped out with their weekend duty binders.
 
@@ -6569,7 +6569,7 @@ Right around noon, a new chain of messages lit up **`Jordan Comms`**:
 > **`Madison:`** <sms>Okay, I am officially going stir-crazy in the dorm. Anyone up for an afternoon expedition into downtown Blacksburg?</sms><br>
 > **`Lauren:`** <sms>YES! The autumn leaves on Main Street are gorgeous right now. I'm in!</sms><br>
 > **`Zoë:`** <sms>I will accompany you. I need to pick up a reference volume from the downtown bookshop anyway.</sms><br>
-> **`Aubrie:`** <sms>Perfect timing! Hannah and I have our Western Civ study review at 12:30. J and I are at Kincaid Hall—meet us at the Commonwealth Mall bus stop beneath The Keystone Bridge in fifteen!</sms>
+> **`Aubrie:`** <sms>Perfect timing! Hannah and I have our HLTH 201 midterm review at 12:30. J and I are at Kincaid Hall—meet us at the Commonwealth Mall bus stop beneath The Keystone Bridge in fifteen!</sms>
 
 ### Scene 2: The Real BT
 
@@ -6605,11 +6605,15 @@ The driver shook his head, chuckling warmly as he retracted the ramp. "Have a go
 
 Jordan, **Madison**, **Lauren**, and **Zoë** spent the next two hours wandering the brick sidewalks of downtown Blacksburg beneath a canopy of scarlet and gold October maples, browsing the quirky shop windows along Main Street until they ducked into a sprawling, two-story independent bookstore lined with worn leather armchairs, the smell of espresso, and—best of all—a free public WiFi network.
 
+While Lauren browsed the typography shelves and Zoë tracked down her systems-engineering reference volume, Jordan wheeled over to a low oak display table near the architecture and history section. Resting on top of the stack was an oversized, richly illustrated hardcover titled ***"Civitas: A Story of Roman Planning and Engineering"*** by **Arthur MacAllister**.
+
+Curious, Jordan picked it up and rested it across his lap, leaning in close behind his glasses to study the intricate black-and-white pen-and-ink cross-sections. Page after page showed how Roman military surveyors and civil engineers planned an entire city from scratch—laying out the perpendicular grid of the *cardo* and *decumanus*, bridging valleys with multi-tiered stone aqueducts, and engineering vaulted baths, forums, and underground drainage tunnels that lasted for two thousand years. To Jordan’s structured, pattern-seeking mind, the idea that an ancient civilization had brought that level of geometric order and permanence to the physical world was completely mesmerizing. He didn't purchase the book—setting it carefully back onto the display table so he wouldn't spend his emergency cash—but as he wheeled over to join Madison and Lauren by the leather armchairs, his mind was buzzing with a brand-new curiosity about **Ancient Rome**.
+
 The instant Jordan’s `mPhone` authenticated to the bookstore’s wireless router, his handset chimed with a rapid-fire cascade of notifications from **`Jordan Comms`** that had queued up while they were strolling down Main Street:
 
 > **`Hannah:`** <sms>Mark says to tell you Dr. Destruction's cage-match promo last night was an all-time classic and he can't wait to break it down with you tonight.</sms><br>
 > **`Zoë:`** <sms>[Attached: NRV_Extended_Stay_Audit_v1.pdf] Initial matrix of wheelchair-accessible hotel suites for December. Top three candidates highlighted in green.</sms><br>
-> **`Aubrie:`** <sms>[Photo Attachment: A remarkably round campus gray squirrel glaring down from a low oak branch] I think this guy is trying to mug me for my Western Civ flashcards.</sms>
+> **`Aubrie:`** <sms>[Photo Attachment: A remarkably round campus gray squirrel glaring down from a low oak branch] I think this guy is trying to mug me for my HLTH 201 flashcards.</sms>
 
 Jordan let out a silent, shaking laugh, turning his screen to show the squirrel photo to Lauren and Madison. His mother had cut off his cellular service to make his world small and silent—and instead, his world was overflowing with laughter, autumn sunlight, and constant connection.
 
@@ -7781,11 +7785,13 @@ Within ten minutes, Suite 214/216 transformed into a high-efficiency academic co
 
 "Alright, people," Zoë announced crisply. "**Operation Spring Schedule** is officially underway. Let's optimize our credit blocks."
 
-Her primary objective was building a shared core schedule across the entire nine-person family. "Based on my audit of everyone's degree-progress reports," Zoë stated, "all nine of us still require our second-semester composition and quantitative reasoning courses—**`ENGLISH 102`** and **`MATH 112`**—and none of us has yet satisfied the university's three-credit Historical Inquiry requirement."
+Her primary objective was building a shared core schedule across the entire nine-person family. "Based on my audit of everyone's degree-progress reports," Zoë stated, "all nine of us still require our second-semester composition and quantitative reasoning courses—**`ENGL 102`** and **`MATH 112`**—and seven of us still need to satisfy the university's three-credit Historical Inquiry requirement, while Jordan and Sarah have an open Humanities elective."
 
-She tapped her screen and projected a course code onto the monitor. "There is a main lecture section of **`HISTORY 115: History of Ancient Rome`** on Tuesdays and Thursdays at eleven o'clock in Archer Hall with forty-two open seats and full wheelchair-tier seating on the main aisle. I propose all nine of us enroll simultaneously."
+She tapped her screen and projected a course code onto the monitor. "Even better: **Dr. Gable** is teaching a main lecture section of **`HIST 115: History of Ancient Rome`** on Tuesdays and Thursdays at eleven o'clock in Archer Hall with forty-two open seats and full wheelchair-tier seating on the main aisle. Since all nine of us have **Educational Accessibility Priority Registration** as Jordan's official peer note-takers, I propose all nine of us enroll simultaneously."
 
-On Zoë’s three-count, nine trackpads clicked in unison, locking in `HISTORY 115`, `ENGLISH 102`, and `MATH 112` as a shared academic spine for the entire group.
+At the mention of **Ancient Rome**—and **Dr. Gable**—Jordan’s eyes lit up behind his glasses. Instantly, his mind flashed back to the afternoon of Fall Break in the downtown Blacksburg bookstore on Main Street, where he had been completely captivated by the pen-and-ink cross-sections of Roman aqueducts, grid streets, and amphitheaters inside **Arthur MacAllister**’s ***"Civitas: A Story of Roman Planning and Engineering."*** Knowing that he would get to spend an entire semester studying how Rome was built—taught by the exact same booming, compassionate professor who had traded white chalk for a black whiteboard marker on his very first day of college, and surrounded by all eight of his best friends—made Jordan nod so enthusiastically his glasses slid down his nose.
+
+On Zoë’s three-count, nine trackpads clicked in unison, locking in `HIST 115`, `ENGL 102`, and `MATH 112` as a shared academic spine for the entire group.
 
 With the general-education core secured, the room’s focus turned to Jordan and **Aubrie Jean**’s major tracks.
 
@@ -7801,7 +7807,7 @@ Aubrie Jean looked at him, her hazel eyes warm, fierce, and completely unwaverin
 
 It wasn't merely a comforting promise; it was a tactical blueprint.
 
-Side by side, Jordan and Aubrie mapped out an identical fifteen-credit curriculum. They selected the exact same lecture and laboratory sections for **`PHYSICS 102: University Physics II — Electricity & Magnetism`**, the same **`ASTR 204: Observational Astrophysics & Stellar Spectroscopy`** lab, the same literature seminar, and an introductory Planetary Geology elective that caught both of their eyes. On the count of three, they clicked **`Register`** at the exact same second.
+Side by side, Jordan and Aubrie mapped out an identical fifteen-credit curriculum. Alongside `HIST 115`, `ENGL 102`, and `MATH 112`, they selected the exact same lecture and laboratory sections for **`PHYS 102: University Physics II — Electricity & Magnetism`**, the same **`ASTR 204: Observational Astrophysics & Stellar Spectroscopy`** lab, and an introductory **`GEOL 101: Planetary & Physical Geology`** elective that caught both of their eyes. On the count of three, they clicked **`Register`** at the exact same second.
 
 Jordan looked from his screen to Aubrie’s, staring at two identical timetables. It was a semester engineered so that he would never have to roll into a lecture hall alone, never have to wait outside a laboratory by himself, and never have to face an unfamiliar crowd without his safe person right beside him—a fortress built out of course numbers and lab benches.
 
@@ -9543,7 +9549,7 @@ Aubrie’s eyes shone in the movie light as she turned her gaze up to Jordan.
 
 Now it was Jordan’s turn to blush from the collar of his sweater all the way to the tips of his ears.
 
-Suddenly, Aubrie’s whispered words in the guest room five hours earlier—*"We can do whatever you want to do"*—clicked into focus in his mind with crystal clarity. He remembered the health and human sexuality lectures from Professor Miller’s *HSC 201* course that semester on explicit communication, mutual readiness, and enthusiastic consent.
+Suddenly, Aubrie’s whispered words in the guest room five hours earlier—*"We can do whatever you want to do"*—clicked into focus in his mind with crystal clarity. He remembered the health and human sexuality lectures from Dr. Evans’s *HLTH 201* course that semester on explicit communication, mutual readiness, and enthusiastic consent.
 
 Looking from Aubrie’s tender dark eyes to Madison’s warm blue ones, Jordan reached one hand to the compact `mPhone` resting on his lap under the blanket and typed a silent, dimmed-screen note just for the two women tucked under his arms:
 
