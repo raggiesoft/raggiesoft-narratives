@@ -10323,6 +10323,290 @@ Leaning back in his chair with Aubrie Jean’s hand resting warmly over his shou
 
 First Roanoke Airport this morning. Then Spring Semester back at CPI next week. And come May, when the winter snow melted off the Blue Ridge, it would be their turn to cross the ocean together.
 
+## Breaking Ground on the Ramp
+
+### Scene 1: The Auger and the Blueprint
+
+**Date:** 2015-01-05 at 08:30 America/New_York
+
+At eight-thirty on Monday morning, **January 5, 2015**—the first business day after the New Year’s holiday—a deep, mechanical rumble vibrated through the concrete slab of the **Brooks** basement.
+
+Sitting at the accessible card table in his manual wheelchair with a warm mug of apple cider beside his **Pinnacle Vanguard Pro**, **Jordan** looked up from his screen just as **Daniel Brooks** came down the internal staircase wearing a heavy Carhartt work jacket and a wide grin.
+
+"Grab your coats and your earmuffs, everyone!" Daniel announced, gesturing toward the walkout sliding glass door at the back of the basement. "The contractor and his crew just pulled into the driveway. We are officially breaking ground on the ramp!"
+
+Within ninety seconds, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, **Jessica**, **Caleb**, and **Owen** had bundled into their winter coats and gathered with Jordan on the concrete walkout patio just outside the sliding glass door.
+
+Two weeks earlier, when they had first arrived at Geneva Street for Winter Break, the sloping backyard hill leading up from the basement walkout patio to the first-floor deck and front driveway had only been marked with small wooden survey stakes and bright neon ribbon.
+
+Now, the backyard was alive with purposeful engineering.
+
+A compact rubber-tracked skid-steer loader fitted with a thirty-six-inch hydraulic earth auger was creeping carefully down the frosted grass along the line of surveyor’s stakes, followed by three flatbed trucks stacked high with pressure-treated six-by-six timber posts, galvanized steel brackets, and composite non-slip decking boards.
+
+The site foreman—a burly, weather-beaten Montgomery County builder named **Walt Harmon**—walked down the slope carrying a rolled tube of town-stamped blueprints and tipped his hard hat to Daniel, Mark, and Jordan.
+
+"Morning, Daniel! And you must be Jordan," Walt said warmly, unrolling the wide cyan-and-white architectural blueprint across the patio table and weighting the corners down with four steel washers so Jordan could roll right up to the edge and inspect it. "Your dad told my crew that we've got two future engineers and two astrophysicists in the house, so I figured you'd want to verify the math before we sink the first posthole."
+
+Jordan’s green eyes lit up behind his glasses as he leaned forward over his lap tray alongside Mark and Zoë to study the blueprint.
+
+Drawn in crisp CAD lines across the topographic contour map of the Brooks backyard was a wide, three-switchback accessibility ramp connecting the front driveway and the first-floor back deck all the way down the hill to the basement walkout patio.
+
+"Because the vertical rise from this basement patio up to the main deck is nine feet, and we're building beyond commercial ADA code rather than residential minimum," Walt explained, tracing the switchbacks with a carpenter’s pencil, "we engineered the entire run at a gentle `1:14` slope—less than four degrees—instead of the standard `1:12` maximum. Every twenty-four feet, you've got a dead-level six-foot-by-six-foot turning platform so even a heavy-duty power wheelchair has room to spin three-hundred-and-sixty degrees without brushing a rail. Forty-eight inches of clear width between the dual-height powder-coated steel handrails, two-inch wheel-stop curbs along both edges, and grooved composite decking that sheds snow and ice."
+
+"And look at the footing depth on the section detail, Jordan," **Mark** said with genuine mechanical engineering admiration, pointing to the cross-section diagram at the bottom of the sheet. "Forty-two inches deep on twelve-inch poured concrete piers with flared bell bases—well below the Montgomery County winter frost line so the ramp will never heave or shift an eighth of an inch."
+
+Jordan’s fingers moved across his `Precisionist 5000`, his chest swelling as he looked from the blueprint to the hydraulic auger positioning itself over the first wooden stake at the edge of the patio:
+
+<aac>A 1:14 slope with six-foot turning platforms and frost-line concrete piers... That means once this is finished, I will be able to roll straight from the basement out into the backyard, up to the first-floor deck, and all the way to the front driveway completely on my own, without anyone ever having to carry me or my chair up the stairs!</aac>
+
+"That is the exact point, son," Daniel said quietly, resting a firm, warm hand on Jordan’s shoulder as Aubrie Jean squeezed Jordan’s left hand. "Nobody should ever have to wait to be carried just to come upstairs for dinner or go out into the sun. This is your home, Jordan. And we are building it to fit you."
+
+Walt gave a two-finger whistle to his operator on the skid-steer.
+
+Jordan slipped his padded earmuffs over his ears as the hydraulic auger engaged with a low, steady roar, biting straight down into the dark Virginia earth at the corner of the patio and lifting the first spiral of rich clay into the cold morning air.
+
+For a long time, Jordan sat right there at the edge of the patio with Aubrie Jean, Madison, Zoë, and Mark beside him, watching the postholes go down one by one along the hillside.
+
+Back in the suburban house in Virginia Beach, his mother had wouldn't even move a living room end table two inches to make room for his wheels. Here on Geneva Street, his new family was literally reshaping the earth and pouring concrete into the mountain so that he would never be trapped on one floor again.
+
+### Scene 2: Landfall in Southampton & The Sunday Plan
+
+**Date:** 2015-01-10 at 14:00 America/New_York
+
+By Saturday afternoon, **January 10, 2015**—the final full day of **Winter Break** before the residential halls at **Commonwealth Polytechnic Institute** reopened on Sunday for **Spring Semester**—all thirty-six concrete piers in the backyard had cured, and the heavy pressure-treated support posts and lower switchback stringers of **Jordan**’s ramp were already rising steadily up the hillside outside the basement window.
+
+Inside the warm basement sanctuary, rolling suitcases and duffel bags sat open across the four queen-sized portable beds as the nine college students packed up their winter clothes, textbooks, and Christmas gifts to bring back to **Bennett Hall**.
+
+At two o'clock in the afternoon (`19:00 GMT` in London), everyone’s phones chimed in unison as **Henry Walsh** re-established cellular and Wi-Fi contact from across the Atlantic in **`[Jordan Comms]`**:
+
+> **[Jordan Comms] Henry Walsh (`19:00 GMT / 14:00 EST`):** *[Photos attached: (1) RMS Queen Margaret 2 docked at Ocean Terminal in Southampton under a misty English morning sky; (2) The South Western boat train at London Waterloo Station; (3) Six pages of handwritten notes and star charts from the Royal Astronomical Society lectures inside the QM2 Planetarium; (4) The entrance to the London School of Economics and Commerce (LSEC) on Houghton Street in Holborn]*
+> LANDFALL IN ENGLAND, FLOOR 2!! What a crossing. We hit thirty-five-foot swells in the mid-Atlantic on Wednesday and the *Queen Margaret 2* sliced through them like a hot knife through butter while the string quartet didn't miss a single note at afternoon tea! Jordan and Aubrie, I uploaded all six pages of my notes from the Royal Astronomical Society lectures in the Planetarium dome—they did an entire session on exoplanet transit photometry and pulsar timing arrays! Zoë, your parents' Oyster Card and Holborn shortcut tips got me from Waterloo Station to my LSEC flat in twenty-two minutes flat. Good luck moving back into The Old Lady tomorrow, guys!!
+
+Jordan grinned from ear to ear as he and **Aubrie Jean** zoomed in on Henry’s handwritten planetarium notes on his `mPad`, while **Zoë** fired back a triumphant reply welcoming Henry to London.
+
+Just then, **Daniel** and **Laura Brooks** walked down the internal basement stairs carrying fresh laundry baskets of folded towels and blankets.
+
+"Alright, crew," Daniel said, looking around at the packed suitcases with a mix of fond pride and parental wistfulness at how fast the three-week break had flown by. "For tomorrow's move-in back to **Bennett Hall**, Caleb, Owen, and I can load all the suitcases and bring all nine of you up to campus in the two vans after lunch—"
+
+Before Daniel could finish the sentence, Jordan raised a hand gently from his wheelchair and tapped a polite request onto his `Precisionist 5000`:
+
+<aac>Daniel, would it be okay if you and Caleb just took our heavy suitcases up in the SUV, and the nine of us rode the bus back to CPI from the Christiansburg Transit Center with our backpacks?</aac>
+
+Daniel blinked in surprise, and around the basement, **Mark**, **Madison**, **Lauren**, and **Hannah** all turned to look at Jordan with curious smiles.
+
+"You *want* to take the bus on a Sunday afternoon when you have a door-to-door chauffeur service standing right in front of you, mate?" Daniel chuckled warmly, though his eyes were full of respect.
+
+Jordan nodded firmly, a bright, confident smile spreading across his face as he typed his explanation:
+
+<aac>I really love riding the bus. For eighteen years in Virginia Beach, I could never go anywhere unless my mother drove me, and every single car ride felt like a trap. On the bus, I do not have to ask anyone for a special favor—we can just show up during scheduled service, flash our Poly Passes, roll right up the ramp, and go wherever we want. Plus, since tomorrow is Sunday and the RVT Roanoke Express does not run on Sundays, we can choose between Blue Ridge Transit's Route 1 and Bluewater Transit's Maroon Express. If we catch the once-hourly Maroon Express at the Christiansburg Transit Center, it gets us to Commonwealth Mall in thirty minutes instead of forty-five minutes on Route 1—and I really want to get back to Bennett Hall early so I can say hello to Isabel!</aac>
+
+For a second, the basement was completely quiet—every single person in the room struck by how far Jordan had come since August.
+
+Four and a half months ago, the mere thought of navigating a public bus stop had been terrifying to him. Now, he had memorized the Sunday headways of three separate regional transit agencies, calculated the fifteen-minute express time savings between **Bluewater Transit’s *Maroon Express*** and **Blue Ridge Transit’s `Route 1`**, and was actively choosing the independence of public transit so he could get back to his dorm and greet his favorite RA.
+
+Aubrie Jean leaned over and kissed Jordan’s cheek, her eyes shining with pride, while Daniel Brooks let out a warm, booming laugh and clapped a hand onto Jordan’s shoulder.
+
+"You know what, son? That is brilliant," Daniel beamed. "Caleb and I will drop you nine off at the **Christiansburg Transit Center** in time for the `1:15 PM` **Maroon Express** tomorrow afternoon, and we'll drive the heavy luggage straight up to the second-floor Washington Street doors of Bennett Hall to meet you when you walk across campus from Commonwealth Mall. Deal?"
+
+Jordan’s whole face lit up as he gave Daniel a crisp, enthusiastic thumbs-up.
+
+Winter Break had given him his first Christmas, his first trip to Bluewater and Charlottesville, his first New Year’s Eve fireworks, his first visit to an airport, and the foundations of a permanent wheelchair ramp rising outside his window.
+
+Now, he was ready for **Spring Semester 2015**.
+
+# Spring Semester 2015
+
+## The Maroon Express & Return to The Old Lady
+
+### Scene 1: The Sunday Maroon Express
+
+**Date:** 2015-01-11 at 13:05 America/New_York
+
+At five minutes past one on the bright, crisp Sunday afternoon of **January 11, 2015**, **Daniel** and **Caleb Brooks** pulled up to the passenger drop-off curb at the **Christiansburg Transit Center** (`Exit 118B`).
+
+While all of the heavy rolling suitcases, winter bedding bags, and textbook crates stayed loaded in the back of the Brooks SUV for Daniel and Caleb to drive straight up to the second-floor Washington Street doors of **Bennett Hall**, **Jordan** and the other eight members of the college crew—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—were making the return trip to **Commonwealth Polytechnic Institute** by bus with only their daypacks.
+
+Once Mark and Caleb set Jordan’s manual wheelchair down on the level concrete platform and Jordan transferred smoothly into his seat, Daniel gave Jordan’s shoulder a warm squeeze.
+
+"We'll meet you nine up at the Washington Street entrance of The Old Lady with the luggage in forty-five minutes," Daniel smiled. "Enjoy the ride back to campus, son."
+
+As the SUV pulled away toward the U.S. Route 460 Bypass ramp, Jordan rolled up to the glass-paneled transit shelter with his **Poly Pass** already in his gloved hand, a quiet, deeply contented smile resting on his face.
+
+More than almost anything else in the New River Valley, **Jordan loved riding the bus**.
+
+For eighteen suffocating years in his mother’s suburban house in Virginia Beach, mobility beyond his bedroom had been a hostage negotiation. He couldn't go to a library, a park, or a store unless Aubrie Sinclair drove him in her sedan—and she had weaponized every single mile to remind him how helpless and dependent he was.
+
+Public transit operated on the exact opposite principle: **impersonal, predictable, mathematical freedom**.
+
+During scheduled service hours, a bus didn't care what his mother thought. It didn't demand gratitude or hold a ride over his head. As long as he knew the published timetable and showed up at the curb with his Poly Pass, the ramp folded down for his wheelchair just like the doors opened for everyone else.
+
+And today, Jordan had engineered their Sunday departure time down to the minute.
+
+Because it was a **Sunday**, **Roanoke Valley Transit (`RVT`)** did not operate its ***Roanoke Express*** (`"81 ROANOKE EXP"`) commuter line at all. That left two Sunday transit options connecting the **Christiansburg Transit Center** to **Commonwealth Mall** at CPI:
+1. **Blue Ridge Transit (`BRT`) `Route 1`**, which wound through the local stops along North Franklin Street, the shopping centers, and South Main Street, taking about **forty-five minutes** to reach **Commonwealth Mall**.
+2. **Bluewater Transit’s *Maroon Express***, which operated **once hourly** on Sundays and shot straight up the **U.S. Route 460 Bypass** express corridor to **Commonwealth Mall** in only **thirty minutes**.
+
+Jordan hadn't wanted to wait forty-five minutes on a local bus today—because he was eager to get back to CPI, and the very first person he was going looking for the second they reached Bennett Hall was **Isabel Dawson**.
+
+Right at `1:12 PM`, three minutes ahead of its `1:15 PM` departure time, the gleaming forty-five-foot **Bluewater Transit *Maroon Express*** coach glided into Bay 2 of the Christiansburg Transit Center, its LED destination sign glowing in crisp amber letters:
+
+> **`MAROON EXPRESS — TO CPI / COMMONWEALTH MALL`**
+
+With a familiar pneumatic hiss, the coach kneeled to the curb and deployed its front wheelchair ramp.
+
+"Right on the dot, just like you called it, J!" **Mark** grinned as Jordan rolled smoothly up the ramp into the forward wheelchair securement bay, locking his brakes while **Aubrie Jean** and **Madison** clicked the four-point floor straps onto his frame in under twenty seconds.
+
+Once all nine of them had tapped their **Poly Passes** and settled into the seats around Jordan’s bay, the driver closed the doors and merged straight onto **U.S. Route 460 West** toward Blacksburg.
+
+Watching the sunlit winter ridges of the Blue Ridge Mountains sweep past the wide coach window at sixty miles an hour while Aubrie Jean held his left hand and Zoë logged their departure in **`[Jordan Comms]`**, Jordan felt his heart beat with a happy, restless excitement.
+
+Three weeks at Geneva Street had been heaven—but he was a college student coming back for his second semester, and he couldn't wait to roll back onto his campus.
+
+### Scene 2: The Tour Guide of Commonwealth Mall
+
+**Date:** 2015-01-11 at 13:45 America/New_York
+
+At one-forty-five in the afternoon—exactly thirty minutes after pulling out of the Christiansburg Transit Center—the **Bluewater Transit *Maroon Express*** swung off Business 460 onto **Commonwealth Mall** and glided to a smooth stop along the granite curb beneath the limestone arch of **The Keystone Bridge**, directly across the street from **Kincaid Hall**.
+
+When the front ramp deployed onto the sidewalk and **Jordan** rolled off the bus into the crisp January sunshine, he didn't wait for the others to form a protective shield around him.
+
+Instead, he wheeled three paces ahead onto the wide paved promenade of **Commonwealth Mall**, set a steady cruising pace, and turned his head with a bright, confident grin to motion his eight friends forward.
+
+Walking side by side just behind his chair, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** all exchanged a quiet, deeply moved look.
+
+Four and a half months ago, in late August of `2014`, the boy who had arrived on this campus had been a terrified eighteen-year-old prisoner in an ill-fitting pharmacy wheelchair—hunched over his knees, blinded by untreated myopia beyond an arm's length, overwhelmed by muffled auditory static, and flinching at his own shadow whenever a stranger walked past. Back then, every curb cut had felt like a cliff, and every open quad had felt like an exposed battlefield.
+
+Now, in **January 2015**, the young man rolling down **Commonwealth Mall** in his maroon **CPI Forgers** winter jacket was almost unrecognizable from that frightened boy.
+
+Through his prescription glasses, the neo-Gothic **Ironstone** towers of the academic buildings stood out in razor-sharp relief against the cobalt-blue winter sky. Through his digital hearing aids, the laughter of returning students, the crunch of winter boots on salted brick walkways, and the distant chimes of the campus carillon were crisp, balanced, and clear. His posture was upright, his shoulders were broad from four months of daily manual wheelchair propulsion across the hills of Blacksburg, and his green eyes sparkled with pride.
+
+Instead of rushing straight to the dorm, Jordan turned the walk across campus into an impromptu **guided tour**—proudly playing campus tour guide for the very people who had walked these paths with him all fall.
+
+Rolling past the bronze war-memorial pylons at the head of the mall, Jordan paused by the low stone wall overlooking the vast oval expanse of **Commonwealth Green** (*The Drillfield*) and tapped enthusiastically on his `Precisionist 5000`:
+
+<aac>Look at the shadow angle cast by the central flagpole across the snow on Commonwealth Green right now! Because we are twenty-one days past the December 21st Winter Solstice, the sun's solar elevation angle at 1:50 PM here at 37.23 degrees North latitude has already climbed almost two full degrees higher in the southern sky than it was during finals week!</aac>
+
+"Only our boy turns a walk across the Drillfield into a live observational astrophysics lecture!" **Madison** laughed warmly, giving Jordan’s shoulder an affectionate squeeze as passersby in CPI scarves smiled at the group.
+
+As they continued along the paved inner-campus walkway curving around the southern rim of the green, Jordan pointed out **Callahan Hall** (where **Ms. Patricia Higgins** and the **Office of Educational Accessibility** had given him his first lifeline), the dome of the **McBryde Hall** observatory, and the warm brick facade of **Kincaid Commons**—adding commentary and dry jokes on his keyboard that had **Mark**, **Sarah**, **Jessica**, and **Lauren** laughing all the way down the hill.
+
+"Look at him go," **Hannah** whispered softly to Mark and Aubrie Jean as Jordan smoothly navigated the gentle slope toward the residential quad ten feet ahead of them, greeting a passing campus grounds crew worker with a cheerful wave. "Remember the first week of classes when he was afraid to look up from the concrete? He owns this whole campus now."
+
+"He really does," **Aubrie Jean** whispered back, her hazel eyes shining with love and pride.
+
+As the six-story gray Ironstone facade of **Eleanor Bennett Commonwealth Hall**—*"The Old Lady on the Hill"*—came into view ahead of them, Jordan’s cruising speed noticeably picked up.
+
+Because they were approaching from the inner campus quad at the bottom of the hillside rather than from Washington Street SW at the top of the slope, their path led directly to the **first-floor inner quad entrance** (`Bottom of the Hill`).
+
+And as Jordan rolled eagerly up the zero-step concrete walkway toward the lower-level glass doors, there was only one person on his mind:
+
+He wanted to find **Isabel**.
+
+### Scene 3: The First Crack in the Armor
+
+**Date:** 2015-01-11 at 14:15 America/New_York
+
+At two-fifteen, **Jordan** pressed the exterior handicap paddle beside the **first-floor inner quad entrance** of **Bennett Hall** and rolled across the threshold into the warm lower-level main lobby (`Room 100`), with **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** stepping in right behind him.
+
+Because the first floor of Bennett Hall was 100% administrative and business space—housing the 60-inch TV lounge, the **Bennett Hall Mail Room (`Room 101`)**, Residence Director **Kelsey Brennan**’s office and apartment (`Suite 102 / Room 104`), and the curved oak **1st-Floor Front Desk (`Ext. 4-2100`)**—Jordan had originally planned to just roll past the front desk, take the elevator up one floor to the second-floor West Wing, and knock on **`Room 215`** to see if **Isabel** was back from training.
+
+Then he glanced toward the curved oak front desk—and stopped his wheelchair in sheer delight.
+
+*Wait—who was that at the desk?!*
+
+**ISABEL!!**
+
+Standing right behind the reception counter in her maroon **CPI Residence Life** polo with her duty lanyard around her neck and a Spring Semester check-in clipboard in her hands—flanked by Residence Director **Kelsey Brennan** and a tall, broad-shouldered senior RA wearing a **`Room 201`** name badge—was **Isabel Claire Dawson**.
+
+At the sound of the lobby doors opening, Isabel looked up from her clipboard.
+
+The instant her hazel eyes landed on Jordan sitting upright and smiling in his wheelchair at the center of the lobby, her breath visibly caught in her throat.
+
+She didn't wait for him to roll up to the counter window. Setting her clipboard down on the oak desk so fast the pen rolled across the blotter, Isabel walked briskly around the end of the reception counter and crossed the lobby floor straight to him.
+
+"Jordan!!" Isabel breathed, her voice cracking with sudden, overwhelming emotion.
+
+Jordan set his wheel locks and opened both arms wide, grinning from ear to ear at his favorite CPI staff member.
+
+Dropping smoothly to her knees beside his wheelchair just as she always did, Isabel wrapped both arms around his shoulders—and as she pulled him close, **the very first crack appeared in the carefully guarded armor she had worn since September**.
+
+Beneath her Residence Life polo, Isabel’s heart was hammering against her ribs. Even though they had seen each other for a few hours at her parents’ house in Charlottesville on December 27th and for thirty minutes at the Roanoke airport a week ago, seeing Jordan roll back through the doors of **Bennett Hall**—whole, thriving, confident, and safe after three weeks away—hit the secret **Florence Nightingale** love she had locked inside her chest since the night of the first fire drill like a tidal wave.
+
+Before she could stop herself, **tears spilled over her lower lashes**.
+
+She buried her face against the shoulder of his maroon CPI jacket for two seconds longer than a standard Residence Life greeting, holding onto him a fraction tighter as a quiet, trembling breath escaped her lips—so overwhelmingly happy to see him again, and so deeply relieved in her soul that he had made it safely back home to CPI.
+
+"I'm so glad you're back, Jordan," Isabel whispered against his shoulder, her voice thick with tears she couldn't quite disguise. "I'm so, so glad you made it back."
+
+Realizing a split second later how much of her heart was showing in the middle of the first-floor lobby, Isabel quickly pulled back an inch, gave the back of his shoulder two practiced big-sister pats to re-establish her professional boundary, and swiped the back of her wrist hastily across her damp eyelashes as she stood up.
+
+"Sorry—I just... allergy dust in the mail room!" Isabel stammered with a breathless laugh, trying desperately to tuck her feelings back behind her RA mask even as **a vivid crimson blush bloomed all the way from her collarbone to the tips of her ears**.
+
+Sitting in his wheelchair, Jordan simply beamed up at her with pure, innocent warmth—completely unaware of the romantic storm behind her blush, touched to the core that his favorite RA and guardian angel had missed their floor that much over Winter Break.
+
+<aac>I missed you too, Isabel! You were the very first person I came looking for as soon as we got off the Maroon Express!</aac>
+
+That earnest message on his screen only made Isabel’s cheeks turn an even deeper shade of scarlet as she pressed a hand to her warm cheek and smiled down at him.
+
+Ten feet away behind the curved oak front desk, however, **Residence Director Kelsey Morgan Brennan** hadn't missed a single thing.
+
+Kelsey had supervised college Resident Advisors for years, and she knew Isabel Dawson better than anyone on the staff. Watching her calmest, most composed Junior RA rush out from behind the desk, tear up against Jordan’s shoulder, hold on two beats too long, and blush crimson while blaming "mail room dust," Kelsey’s sharp eyes connected every single dot in an instant.
+
+*Oh,* Kelsey thought privately, recognizing the textbook **Florence Nightingale effect** written across her Junior RA’s glowing face. *She’s in love with him.*
+
+When Isabel glanced nervously back toward the front desk to grab her clipboard, her eyes met Kelsey’s.
+
+Kelsey didn't say a word aloud—she would never embarrass Isabel in front of her residents. Instead, Kelsey gave Isabel a brief, unmistakable **knowing look** that made Isabel’s breath hitch—followed immediately by a slow, warm, steady nod of her head that communicated an unspoken pact between supervisor and RA:
+
+*I see it, Isabel. And as long as you stay professional and keep that Residence Life boundary firmly in place while you are his RA this semester, I understand—and your secret is safe with me.*
+
+Visible relief washed through Isabel’s hazel eyes as she gave Kelsey a tiny, grateful nod and stepped back beside Jordan’s chair, her professional composure clicking securely back into place.
+
+### Scene 4: Meeting Garrett Reynolds
+
+**Date:** 2015-01-11 at 14:25 America/New_York
+
+Stepping out from behind the curved oak front desk alongside **Isabel**, **Kelsey Brennan** smiled warmly at **Jordan** and the eight friends gathered around him.
+
+"Welcome back to Bennett Hall, everyone," Kelsey said, her calm, authoritative voice making the lower-level lobby feel instantly like the fortress they had left in December. "Daniel just texted me two minutes ago that he and Caleb pulled into the Washington Street lot upstairs with your suitcases—but before you head up the elevator to Floor 2, Jordan, could I borrow just a moment of your time?"
+
+Jordan nodded gladly, gesturing for Kelsey to go ahead.
+
+Kelsey turned and motioned to the tall, steady-eyed senior RA in the maroon **CPI Residence Life** polo who had been standing beside her at the front desk. He stood about six feet tall with neatly trimmed dark hair, wire-rimmed glasses, and the calm, unhurried posture of an upperclassman who didn't rattle easily. His brass name badge read:
+
+> **`GARRETT REYNOLDS`**
+> *Senior Resident Advisor • Floor 2 East (`Room 201`)*
+
+"With **Henry Walsh** across the pond in London at **LSEC** for the Spring semester," Kelsey explained, "Isabel and I wanted to make sure that the senior RA stepping into **`Room 201`** on Floor 2 was someone we trusted completely. Jordan, everyone—this is **Garrett Reynolds**. Garrett is a senior in Industrial and Systems Engineering from Williamsburg who served two years as an RA before spending Fall Semester on an engineering co-op rotation. And rather than having me or Isabel read off a clipboard about you, Jordan, I wanted Garrett to meet you properly and hear directly from you what your needs and accommodations are."
+
+Jordan’s posture straightened with quiet appreciation.
+
+In August, having three university staff members look at him at the front desk would have made his hands shake. Today, being asked by his Residence Director to brief his new floor RA himself felt like the ultimate vote of confidence in his adulthood.
+
+Before saying a word, Garrett Reynolds stepped forward, knelt down on one knee right in front of Jordan’s manual wheelchair so they were completely eye-to-eye—never looking over Jordan’s head at Aubrie Jean or Mark—and extended his right hand with a warm, respectful smile.
+
+"It's an honor to finally meet you in person, Jordan," Garrett said, his voice a calm, even baritone that carried clearly without being loud. "Henry left me a three-page handover binder in `Room 201` before he left for Roanoke, and he told me that Floor 2 West is the heart and soul of this building. I want to make sure I get everything right from Day One."
+
+Jordan shook Garrett’s hand firmly, then rested his fingers on the keys of his `Precisionist 5000` on his lap tray and typed out his own briefing—clear, structured, and confident:
+
+<aac>Welcome to Floor 2, Garrett! Here are the main things to know about me and Suite 214/216:
+1. I am non-speaking and autistic, and I have cerebral palsy, so I cannot put any weight on my legs. I communicate by typing on my laptop or mPad in NeoEdit, or using EchoType when I need spoken projection.
+2. I wear prescription hearing aids. In normal conversation I can hear you clearly, but if there is a scheduled fire drill or building alarm, Isabel and Kelsey give me a quiet visual heads-up a few minutes beforehand so the 95-decibel horn does not catch me without my hearing protection.
+3. Suite 214/216 is a permanent, university-approved co-ed accommodation suite—I live in Room 214 with Aubrie Jean and Madison, and Zoë, Lauren, and Hannah live in Room 216, while Mark lives upstairs in Room 312 and Sarah and Jessica live up in Room 505.
+4. Finally, there are active CPI Police trespass bars against two individuals—my estranged mother, Aubrie Sinclair, and a former student named Tom Lawson. Neither of them is ever allowed inside Bennett Hall.</aac>
+
+Garrett read every single line directly from Jordan’s screen, nodding thoughtfully as he absorbed the information.
+
+"Crystal clear on all four points, Jordan," Garrett replied without a second's hesitation. "I already have both trespass photos clipped inside the front-desk security binder and my `Room 201` duty clipboard, I know the pre-drill notification protocol with EHS, and if any visitor or administrator ever questions `Suite 214/216`, they go straight through me, Isabel, and Kelsey."
+
+"And we've also added Garrett to the **`[Jordan Comms]`** staff watch alongside me, Isabel, and Henry," Kelsey added warmly, resting a hand on Isabel’s shoulder. "Also, once you six get your suitcases unpacked upstairs with Daniel and Caleb, pop back down to my office in **`Room 104`** for five minutes before dinner. Because it's the start of a new academic term, Central Housing requires a quick routine Spring Semester signature confirming that all six of you still consent to the co-ed suite arrangement."
+
+<aac>We will be right down as soon as we unpack! And thank you, Garrett—we are really glad to have you on Floor 2.</aac>
+
+"Glad to be here, Jordan," Garrett smiled, rising smoothly to his feet. "And since my shift at the desk runs until four, **Isabel** is all yours to help you guys get settled upstairs."
+
+"Come on, Floor 2!" Isabel beamed—her cheeks finally back to their normal warm glow as she hit the elevator call button for Jordan’s chair. "Let's go meet Daniel and Caleb at the Washington Street doors and get Suite 214/216 unpacked for Spring Semester!"
+
 # Jordan's World Trek
 
 ## The Northern Ascent

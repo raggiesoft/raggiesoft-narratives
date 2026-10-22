@@ -62,7 +62,7 @@
 ## 3. Sophomore Year Master Schedule (`2015–2016` — Post-World Trek & The All-Family Japanese Class)
 
 > **Key Sophomore Milestones (`Fall 2015` & `Spring 2016`):**
-> - Following the August 2015 Montgomery County Circuit Court victory (`e004`), Jordan is 100% legally independent, uses his **350-lb all-terrain motorized power chair** across campus, and has his **`Pinnacle Vanguard Pro`** (`Aura Glade` / `NeoEdit` with Japanese `IME`) and **`EchoType`**.
+> - Following the August 2015 Montgomery County Circuit Court victory (`e005`), Jordan is 100% legally independent, uses his **350-lb all-terrain motorized power chair** across campus, and has his **`Pinnacle Vanguard Pro`** (`Aura Glade` / `NeoEdit` with Japanese `IME`) and **`EchoType`**.
 > - **All 9 members of the found family** use their **Priority Course Registration** to enroll together in **`JPN 1105: Elementary Japanese I` (`Fall 2015`)** and **`JPN 1106: Elementary Japanese II` (`Spring 2016`)** on **Tuesdays & Thursdays (`11:00 AM – 12:15 PM`, plus a Friday `11:15 AM` recitation) in Carter Hall**, followed immediately by their **Tu/Th `12:30 PM` Mega-Group Lunch at Kincaid Commons**!
 
 ### A. Sophomore Year Shared Block (`Fall 2015: JPN 1105` / `Spring 2016: JPN 1106`)

@@ -167,7 +167,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
   * **`Node(Geneva.Street)`** — The Brooks family compound in Christiansburg, VA (containing sub-nodes **`'Basement_Pact_Suite'`** and **`'Anderson_Suite'`**).
   * **`Node(Bluewater.Sanctuary)`** — The Scott family mountain retreat in Bluewater, VA.
   * **`Node(Star City.Roanoke)`** / **`Node(Montgomery_Regional.Hospital)`** — Regional medical center nodes.
-  * **`Node(Montgomery_County.Circuit_Court)`** — Christiansburg courthouse node (`e004`).
+  * **`Node(Montgomery_County.Circuit_Court)`** — Christiansburg courthouse node (`e005`).
   * **`Node(Christiansburg.Pepper_Plaza)`** — **Pepper Plaza Transit Center** (small multi-bay local bus transit facility across from the Montgomery County Courthouse and Montgomery Vision and Hearing Clinic in downtown Christiansburg; `e001/c009`).
   * **`Node(Christiansburg.Strickland_Farm)`** — **Strickland Farm Shopping Center** (*"Strickland Farms"*, in-universe *Spradlin Farm Shopping Center* across North Franklin Street from **New River Valley Mall**, housing **`LensWorks Optical`**, **`Commonwealth Wireless`**, and **`Blue Tech`**).
   * **`Node(Christiansburg.New_River_Valley_Mall)`** — **New River Valley Mall** & **New River Valley Mall Transit Center** (in-universe *Uptown Christiansburg* indoor regional shopping mall and transit hub).
