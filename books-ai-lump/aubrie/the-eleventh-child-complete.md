@@ -9949,13 +9949,13 @@ For **Jordan**, sitting in his manual wheelchair at the center of the living roo
 
 Because **Daniel** and **Laura Brooks** had grown up in **London** before raising their family in Osaka and Virginia, New Year’s Eve in the Brooks household didn't wait until midnight Eastern Time to begin. Every December 31st at **seven o'clock in the evening (`19:00 EST`)**, when the clock struck **midnight Greenwich Mean Time (`00:00 GMT`)** across the Atlantic, the entire family gathered around the big living-room television to watch the live satellite feed from the River Thames and ring in the **British New Year** first.
 
-At `18:55`, everyone’s phones chimed in unison with two messages in the **`[Jordan Comms]`** group chat—the first arriving from **Henry Walsh**, who had just landed in London two days earlier to settle into his study-abroad flat near Holborn for the **Spring 2015** semester at the **London School of Economics and Commerce (`LSEC`)**:
+At `18:55`, everyone’s phones chimed in unison with two messages in the **`[Jordan Comms]`** group chat—the first arriving from **Henry Walsh**, who was spending Christmas and New Year’s at home with his parents in **Roanoke** while packing his steamer bags for his lifelong bucket-list journey to London on **January 3rd** (flying out of **Roanoke (`ROA`)** via **Dulles (`IAD`)** to **New York (`JFK`)** to board the **`Caledonia Line`** flagship ocean liner **`RMS Queen Margaret 2`** from Brooklyn to **Southampton** before starting the Spring semester at **`LSEC`**):
 
-> **[Jordan Comms] Henry Walsh (`23:55 GMT / 18:55 EST`):** *[Photo attached: Big Ben and the Houses of Parliament lit up in gold against the dark London sky]* Reporting live from the banks of the Thames, Floor 2! Zoë, your parents' tip about standing on the Victoria Embankment near Temple Station was spot-on. Happy almost-2015 from five hours in the future, guys!
+> **[Jordan Comms] Henry Walsh (`18:55 EST`):** *[Photo attached: Two hardshell suitcases packed beside a formal dark suit bag in his parents' living room in Roanoke, with a Caledonia Line "Silver Star Service" luggage tag clipped to the handle]* Watching the London BBC feed from my parents' couch in Roanoke to practice being on GMT next week! Still can't believe you guys are all driving up to ROA on Saturday morning to see me off for the flight to JFK and the *Queen Margaret 2*. Happy British New Year, Floor 2!
 
 Thirty seconds later, a second message popped up from **Charlottesville**:
 
-> **[Jordan Comms] Isabel Dawson (`18:56 EST`):** Happy New Year's Eve from Charlottesville, everyone!! Elana, Stephen, Stella, and I are watching the London feed right now too! Give Jordan a big two-armed hug from us when the clock strikes midnight!
+> **[Jordan Comms] Isabel Dawson (`18:56 EST`):** Happy New Year's Eve from Charlottesville, everyone!! Elana, Stephen, Stella, and I are watching the London feed right now too! And Henry, I'm driving back down to Blacksburg early on Saturday morning so I can meet Jordan and the gang at ROA to see you off! Give Jordan a big two-armed hug from us when the clock strikes midnight!
 
 "Right then, everyone—two minutes to London midnight!" Daniel announced in his crisp London accent, handing out warm mugs of spiced mulled apple cider as **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, **Jessica**, **Megan**, **Caleb**, **Chloe**, **Ethan**, **Lucas**, **Owen**, and **Jacob** gathered around the living room.
 
@@ -10160,6 +10160,168 @@ Lowering his gaze for just a second to the `Precisionist 5000` resting on his la
 Aubrie Jean squeezed his hand tightly, her eyes shining in the crimson and gold glow of the next aerial burst overhead, while Daniel Brooks rested a proud, steady hand on the back of Jordan’s chair.
 
 Up in the clear Virginia sky, another bouquet of golden sparks bloomed against the stars—and surrounded by the people who loved him, Jordan Fuller tilted his head back and watched every single ember until the sky went quiet.
+
+## Silver Star Service & The Send-Off at ROA
+
+### Scene 1: First Time in a Terminal
+
+**Date:** 2015-01-03 at 06:45 America/New_York
+
+At six-forty-five on the frosty Saturday morning of **January 3, 2015**, the two-vehicle **Brooks** convoy pulled up to the curved departures curb of **Roanoke–Blacksburg Regional Airport (`ROA`)**.
+
+As **Mark** and **Caleb** unfolded **Jordan**’s manual wheelchair on the wide concrete sidewalk and Jordan transferred smoothly into his seat, he adjusted his glasses and looked up at the sweeping brick-and-glass terminal building with quiet, focused fascination.
+
+In all eighteen years of his life, **Jordan had never set foot inside an airport**.
+
+Even more remarkably, today he didn't have to worry about boarding passes, luggage weight limits, or security lines for himself—because this morning, the entire **Bennett Hall Floor 2** family had driven up I-81 North to Roanoke to see **Henry Walsh** off on the journey of a lifetime.
+
+As the automatic glass doors slid open and Jordan rolled across the terrazzo floor into the warm, high-ceilinged main concourse alongside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, Mark, **Sarah**, **Jessica**, **Daniel**, **Laura**, Caleb, and **Owen**, two familiar voices called out from the **Meridian Airlines / Meridian Express** check-in queue.
+
+"Floor 2 is in the building!" **Henry Walsh** grinned broadly, stepping out from beside two heavy hardshell suitcases and a tailored garment bag.
+
+Standing right beside Henry—wearing a warm wool coat over her maroon **CPI Residence Life** sweatshirt—was **Isabel Dawson**, who had driven down early that morning from **Charlottesville** on her way back to Blacksburg for winter RA training so she wouldn't miss sending her co-RA off. And standing on Henry’s other side were his proud Roanoke parents, **Richard and Evelyn Walsh**, who immediately welcomed Daniel, Laura, and the entire college crew with warm handshakes and hugs.
+
+"Jordan! You guys made it!" Isabel beamed, kneeling beside Jordan’s chair to give him her signature warm, two-armed platonic big-sister hug before straightening up beside Aubrie Jean and Madison.
+
+While Henry stepped up to the **Meridian Express** ticket counter to weigh his bags, Jordan’s observant eyes tracked the white paper bag-tags that the ticket agent looped through the handles of Henry’s suitcases.
+
+Printed in bold black letters across the top of each strip were two three-letter airport codes: **`IAD`** in smaller routing type above a massive bold **`JFK`**.
+
+Curious, Jordan glanced over at Daniel Brooks and tapped a question onto the `Precisionist 5000` resting on his lap tray:
+
+<aac>Why do Henry's luggage tags have both IAD and JFK printed on them? Does Roanoke Airport not have a direct flight to New York?</aac>
+
+"Sharp eyes as always, Jordan," Daniel smiled, stepping up beside Jordan’s wheelchair as they watched the conveyor belt carry Henry’s suitcases behind the counter. "Roanoke is a regional spoke airport, and while there is a commuter flight into LaGuardia, **ROA** doesn't have a direct flight into **John F. Kennedy International Airport (`JFK`)** on the eastern side of Brooklyn and Queens. So Henry is flying a short regional jet hop on **Meridian Express** from here at **ROA** up to **Washington Dulles (`IAD`)**, changing planes at Dulles, and flying from **IAD** straight into **JFK**."
+
+Daniel rested a warm, steady hand on the back of Jordan’s chair, nodding toward the floor-to-ceiling observation glass at the center of the terminal where a sleek, twin-engine **Meridian Express** regional jet sat parked on the frosted Roanoke tarmac.
+
+"In fact, son," Daniel added quietly with a reassuring wink, "that exact **Meridian Express** hop from **ROA** up to **Dulles (`IAD`)** is the very same first flight all eighteen of us are going to take together in May when we kick off our trip to Canada, Europe, Japan, and Australia."
+
+Jordan looked out through the glass at the regional jet on the tarmac, taking in the layout of the ticket counters, the departure monitors, and the TSA queue a hundred feet away. Being able to see and map the physical architecture of **Roanoke–Blacksburg Regional Airport** four months in advance—surrounded by his family with zero time pressure—made the unknown world of aviation feel infinitely less intimidating.
+
+And when Henry walked back over from the counter holding his boarding passes and a thick, navy-and-gold embossed leather ticket wallet stamped with a crowned golden lion, Jordan’s curiosity shifted from the airplane on the tarmac to the second half of Henry’s journey.
+
+### Scene 2: The Queen Margaret 2 & Silver Star Service
+
+**Date:** 2015-01-03 at 07:10 America/New_York
+
+With twenty-five minutes remaining before **Henry** needed to step into the security line, the group gathered around a cluster of leather chairs in the sunlit pre-security atrium overlooking the runway.
+
+"Alright, Henry, let's see the real boarding pass!" **Mark** grinned, leaning over the back of **Hannah**’s chair. "Because flying from Roanoke to Dulles to JFK is just the warm-up act today."
+
+Henry’s face lit up with the pure, unadulterated excitement of a twenty-year-old checking off the number-one dream of his entire life. Opening the navy-blue leather wallet, he unfolded a heavy cream cardstock embarkation pass embossed in gold foil and held it out so **Jordan**, **Aubrie Jean**, and **Zoë** could see every detail:
+
+> **CALEDONIA LINE**
+> *Established 1840 • Featuring Legendary Silver Star Service*
+> **Vessel:** **`R.M.S. QUEEN MARGARET 2`**
+> **Voyage:** `M502` — *Eastbound Transatlantic Crossing (7 Nights)*
+> **Embarkation:** Brooklyn Cruise Terminal (Red Hook, New York City) — `Saturday, January 3, 2015 • 17:00 EST`
+> **Disembarkation:** Ocean Terminal, Southampton, England — `Saturday, January 10, 2015 • 07:00 GMT`
+
+"I still have to pinch myself every time I look at it," Henry admitted with a laugh, running his thumb over the raised gold crest. "When my granddad and I used to build model ships in his basement here in Roanoke when I was nine years old, we made a pact that if I ever got the chance to study in England, I wouldn't just fly across the Atlantic in an aluminum tube overnight—I would cross the North Atlantic the classic way, by ocean liner, from New York Harbor to Southampton."
+
+"And you picked the absolute flagship of the seas to do it on, mate," **Daniel Brooks** said with genuine British appreciation, nodding at the gold-foil header on Henry’s ticket. "For those of you who haven't sailed out of Southampton, the **`Caledonia Line`** has been running the transatlantic mail packets between Britain and North America since 1840. And back in 1934, during the Great Depression, *Caledonia Line* merged with its greatest historic rival—the **`Silver Star Line`**."
+
+"**Silver Star Service**," **Zoë** chimed in, her gray eyes bright behind her glasses as she pointed to the secondary emblem on Henry’s embarkation folder. "Even though the *Caledonia Line* name survived on the hulls and the red-and-black funnels, they preserved the *Silver Star Line*'s heritage by naming their entire white-gloved onboard hospitality protocol **Silver Star Service**. Every steward and officer graduates from the Silver Star Academy, and they still fly the historic Silver Star pennant from the masthead alongside the Royal Mail flag."
+
+"That's why I had to pack a full tuxedo and two dark suits in my garment bag!" Henry grinned, gesturing to the carry-on suit bag slung over his shoulder. "After six o'clock every evening in the Britannia dining room and the Queens Room ballroom, the whole ship goes formal—black tie on Gala nights, string quartets during afternoon tea with white-gloved stewards pouring Darjeeling, and seven straight days of slicing through thirty-foot North Atlantic winter swells at twenty-eight knots."
+
+Jordan’s eyes widened as he processed the engineering specifications. His hands moved eagerly across his `Precisionist 5000`:
+
+<aac>Twenty-eight knots in the winter North Atlantic?! Wait—how can a passenger ship move that fast through thirty-foot ocean waves without being tossed around?</aac>
+
+"Because the **`RMS Queen Margaret 2`** is **not** a cruise ship, Jordan—she is the **only true transatlantic ocean liner left in active service on Earth**," Henry explained eagerly, kneeling down on one knee beside Jordan’s wheelchair to show him the cutaway engineering diagram printed inside the embarkation booklet. "Cruise ships are flat-bottomed floating hotels built for calm Caribbean water. The *Queen Margaret 2* was built with forty percent more structural steel than a cruise ship, a knifelike deep-draft bulbous bow designed to slice straight through forty-foot North Atlantic gales, and four massive electric pod thrusters powered by both marine diesels and twin aviation-grade gas turbines generating `157,000 horsepower`!"
+
+Then Henry flipped one more page in the booklet and pointed to a circular dome built right into the forward superstructure of the ship, grinning from ear to ear at **Jordan** and **Aubrie Jean**.
+
+"And look at what's on Deck 2 right below the bridge, Jordan," Henry said. "She is the **only ship in the entire world with a full-dome Planetarium at sea**. Every afternoon on the crossing from New York to Southampton, astrophysicists from the Royal Astronomical Society in London run live star-dome shows and lectures on celestial navigation!"
+
+Jordan and Aubrie Jean gasped at the exact same time, turning to look at each other with shining eyes before Jordan typed rapidly:
+
+<aac>A full-dome planetarium inside an ocean liner in the middle of the Atlantic Ocean?! Henry, you HAVE to go to the Royal Astronomical Society lectures and tell us everything they cover!</aac>
+
+"Count on it!" Henry laughed, tapping his notebook pocket. "I'm taking notes at every single astronomy lecture on the crossing just for you two! And when we dock in **Southampton** next Saturday morning on the tenth, I take the boat train from Southampton Central straight up to **London Waterloo**, walk right across Waterloo Bridge to my flat by **LSEC**, and start orientation on Monday the twelfth!"
+
+### Scene 3: A Brother's Hug at the Checkpoint
+
+**Date:** 2015-01-03 at 07:35 America/New_York
+
+At seven-thirty-five, the overhead terminal speakers chimed with the preliminary boarding announcement for **Meridian Express Flight 4182** to **Washington Dulles (`IAD`)**.
+
+Because federal airport security regulations meant only ticketed passengers could pass through the **TSA checkpoint** to the departure gates, the entire group walked with **Henry** and his parents across the concourse to the head of the security rope line.
+
+Henry hugged his mother **Evelyn** and his father **Richard** tightly first, promising to call them from **`JFK`** as soon as he landed in New York and again from the promenade deck of the **`RMS Queen Margaret 2`** in Brooklyn before the ship set sail at five o'clock.
+
+Then he worked his way down the line of his college friends—sharing bear hugs and fist-bumps with **Mark**, **Caleb**, **Owen**, and **Daniel**, warm hugs with **Laura**, **Hannah**, **Madison**, **Lauren**, **Sarah**, **Jessica**, and **Aubrie Jean**, and a big grateful hug with **Zoë** (who handed him a laminated pocket card listing her London relatives' phone numbers and the exact Tube transfer map for Holborn and Russell Square).
+
+Next to last in line stood **Isabel Dawson**, her hazel eyes bright with unshed tears as she wrapped her Floor 2 co-RA in a long, tight hug.
+
+"Take care of Floor 2 for me this spring, Izzy," Henry said softly, patting her shoulder.
+
+"You know I will, partner," Isabel smiled, wiping the corner of her eye. "Go enjoy that Silver Star Service—you earned every knot of it."
+
+Finally, Henry stepped over to **Jordan**’s wheelchair right at the entrance to the TSA queue.
+
+Three weeks earlier, on **December 12th** in the second-floor corridor of **Bennett Hall** (`e001/c025/s012.md`), Jordan had said goodbye to Henry with a firm, two-handed handshake—because back then, Jordan had never hugged another man in his entire life.
+
+Since that afternoon in December, everything had changed. On December 22nd inside the chaotic aisles of Blue Tech (`e002/c002/s003.md`), **Mark** had become the very first man Jordan had ever hugged, unlocking a whole new world of safe, platonic brotherhood that had grown over Christmas and New Year’s to include **Daniel**, **Caleb**, **Owen**, **Lucas**, and **Jacob**.
+
+And **Henry Walsh**—the first male authority figure at CPI who had ever treated Jordan with respect, printed his **`Jordan Fuller`** door card, and stood guard over their floor—was part of that brotherhood too.
+
+So as Henry stepped up to Jordan’s chair and reached out his right hand expecting their familiar handshake, Jordan locked both wheel brakes of his chair, bypassed Henry’s outstretched hand completely, and **opened both of his arms wide**.
+
+Henry stopped in his tracks.
+
+For a split second, Henry stared at Jordan’s open arms in sheer, stunned surprise—and then his eyes glistened with emotion.
+
+Setting his garment bag gently against his suitcase, Henry knelt down on both knees right there on the terminal carpet in front of the TSA checkpoint so he and Jordan were eye-to-eye, and wrapped both arms firmly around Jordan’s shoulders in a warm, solid, brotherly hug.
+
+Jordan hugged him back with everything he had, patting the back of Henry’s wool coat twice just the way Mark, Daniel, and Isabel did.
+
+"Thank you, Jordan," Henry whispered, his voice thick with genuine emotion as he pulled back just enough to grip Jordan’s shoulders. "Seriously, man... you have no idea how much this means to me. Keep crushing those Astrophysics classes this spring, keep an eye on Izzy for me across the hall, and I'll see you in **`Jordan Comms`** from across the pond."
+
+Jordan beamed behind his glasses, lowering his hands to his `Precisionist 5000` for one parting message:
+
+<aac>Bon voyage on the RMS Queen Margaret 2, Henry! Fair winds and following seas to Southampton—and do not forget to send us pictures of the ship and the planetarium!</aac>
+
+"Every single deck!" Henry promised with a wide grin.
+
+Rising to his feet, Henry picked up his garment bag, handed his boarding pass and passport to the TSA officer at the podium, and turned back one last time at the conveyor belt to wave to the fifteen people cheering him on from the terminal floor.
+
+Watching Henry pass smoothly through the security arch toward the **Meridian Express** gate window, Jordan rested his hand over Aubrie Jean’s on his armrest—feeling a quiet, steady thrill in his chest knowing that the next time he came through those doors at **ROA**, it would be his turn to fly.
+
+### Scene 4: Sailing Past Lady Liberty
+
+**Date:** 2015-01-03 at 17:00 America/New_York
+
+At five o'clock that evening back in the warm basement sanctuary on Geneva Street in **Christiansburg**, every phone in the room chimed in rapid succession with a burst of notifications in **`[Jordan Comms]`**.
+
+Sitting at the accessible card table with his **Pinnacle Vanguard Pro** laptop open to `NeoEdit` alongside **Aubrie Jean** and **Zoë**, **Jordan** clicked open the group chat on his mirrored `mPad` just as **Mark**, **Hannah**, **Madison**, **Lauren**, **Sarah**, and **Jessica** gathered around behind his chair to look at the screen.
+
+True to his word at the **Roanoke (`ROA`)** security checkpoint that morning, **Henry Walsh** had made his connection through **Washington Dulles (`IAD`)**, landed on time at **New York (`JFK`)** at twelve-thirty, taken a yellow cab straight across the Belt Parkway in Brooklyn to the **Brooklyn Cruise Terminal** in Red Hook, and stepped aboard the flagship of the **`Caledonia Line`**.
+
+Now, right before the ship slipped beneath the Verrazzano-Narrows Bridge and out of domestic cellular range into the open North Atlantic, Henry had uploaded a four-photo gallery to **`[Jordan Comms]`**:
+
+1. **Photo 1:** Looking straight up from the teak Boat Deck of **`RMS Queen Margaret 2`** at the massive crimson-and-black funnel towering against the winter twilight, with the golden **Silver Star** pennant fluttering from the masthead above.
+2. **Photo 2:** Two white-gloved **Silver Star Service** stewards in crisp navy-and-gold dress uniforms welcoming passengers into the Grand Lobby as a string quartet played on the mezzanine.
+3. **Photo 3:** The glowing circular entrance to the onboard **Planetarium Dome** on Deck 2, with a placard beside the doors reading: *`Tonight at 20:15 — Royal Astronomical Society Lecture: Navigating by the Winter Stars Across the North Atlantic`*.
+4. **Photo 4:** A breathtaking wide shot from the portside rail of the **`RMS Queen Margaret 2`** as her deep horn thundered across **New York Harbor**, showing the copper torch of the **Statue of Liberty** glowing amber against the purple dusk of Manhattan behind the ship’s foaming wake.
+
+Below the photos, Henry’s message read:
+
+> **[Jordan Comms] Henry Walsh (`17:02 EST`):** We are officially underway from Brooklyn, Floor 2!! The ship's whistle just rattled my ribs on the promenade deck—you can literally feel 157,000 horsepower humming through the teak planks under your boots. Jordan and Aubrie, I already reserved my seat in the Planetarium dome for tonight's Royal Astronomical Society lecture! Next cellular ping in 7 days when we dock at Ocean Terminal in Southampton on January 10th before I catch the boat train up to London Waterloo and LSEC. Hold down Bennett Hall for me!!
+
+> **[Jordan Comms] Isabel Dawson (`17:04 EST`):** *[Replying from Room 215, Bennett Hall, Blacksburg]* Look at that view of Lady Liberty!! Have the crossing of a lifetime, Henry—Room 215 is unpacked and holding down the fort on Floor 2!
+
+Jordan smiled warmly, his fingers moving smoothly across his keyboard to send his own reply before Henry’s phone lost shore signal beyond the Narrows:
+
+<aac>[Jordan Comms] Jordan: Those photos are incredible, Henry! Have a wonderful crossing to Southampton on the RMS Queen Margaret 2, enjoy the Silver Star Service and the Planetarium show tonight, and we will see you back in the chat when you reach England!</aac>
+
+Just before `17:08`, one final thumbs-up reaction popped up from Henry’s account as the great ocean liner glided under the Verrazzano-Narrows Bridge and pointed her bow east toward Southampton.
+
+Leaning back in his chair with Aubrie Jean’s hand resting warmly over his shoulder, Jordan looked one more time at the photograph of the Statue of Liberty and the open Atlantic horizon beyond.
+
+First Roanoke Airport this morning. Then Spring Semester back at CPI next week. And come May, when the winter snow melted off the Blue Ridge, it would be their turn to cross the ocean together.
 
 # Jordan's World Trek
 
