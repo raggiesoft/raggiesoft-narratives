@@ -10535,9 +10535,7 @@ Jordan set his wheel locks and opened both arms wide, grinning from ear to ear a
 
 Dropping smoothly to her knees beside his wheelchair just as she always did, Isabel wrapped both arms around his shoulders.
 
-Jordan had no idea what was going through Isabel’s head in that moment—he didn't even know who Florence Nightingale was, let alone what the *Florence Nightingale effect* meant.
-
-All Jordan knew was what he could feel and see for himself: that **Isabel’s hug was a lot closer, tighter, and more lingering than usual**.
+Jordan had no idea what was going through Isabel’s head in that moment. All he knew was what he could feel and see for himself: that **Isabel’s hug was a lot closer, tighter, and more lingering than usual**.
 
 Instead of her customary two-second big-sister squeeze and two brisk pats on the shoulder, Isabel pulled him tightly against her chest and buried her face against the shoulder of his maroon CPI jacket, holding onto him for several long beats as a quiet, trembling breath escaped her lips.
 
@@ -10547,9 +10545,9 @@ When she finally pulled back an inch and gave the back of his shoulder two quick
 
 Real tears were spilling over her lower lashes, and as she hastily swiped the back of her wrist across her eyes and stood up beside his chair, **a vivid crimson blush bloomed all the way up her neck to the tips of her ears**.
 
-"Sorry—I just... allergy dust in the mail room!" Isabel stammered with a breathless laugh, fanning her flushed cheek with one hand as she tried to compose herself.
+"Sorry—I'm sorry," Isabel let out a shaky, self-conscious laugh, fanning her flushed cheek with one hand as she wiped another tear from the corner of her eye. "Even knowing you were with Daniel and Laura, I just... part of me was so afraid all break that your mother was going to find some way to drag you back to Virginia Beach and undo *every* single bit of progress you've made since August. I'm just so grateful you made it safely back to Bennett Hall."
 
-Sitting in his wheelchair, Jordan looked up at her wet eyelashes with pure, earnest warmth—touched to the core that his favorite CPI staff member had missed him that much over Winter Break—and looked straight down at the keys of his `Precisionist 5000` to type his reply:
+Sitting in his wheelchair, Jordan looked up at her wet eyelashes with pure, earnest warmth—touched to the core that his favorite CPI staff member had worried about him and cared about his progress that deeply—and looked straight down at the keys of his `Precisionist 5000` to type his reply:
 
 <aac>I missed you too, Isabel! You were the very first person I came looking for as soon as we got off the Maroon Express!</aac>
 
@@ -10609,6 +10607,52 @@ Garrett read every single line directly from Jordan’s screen, nodding thoughtf
 "Glad to be here, Jordan," Garrett smiled, rising smoothly to his feet. "And since my shift at the desk runs until four, **Isabel** is all yours to help you guys get settled upstairs."
 
 "Come on, Floor 2!" Isabel beamed—her cheeks finally back to their normal warm glow as she hit the elevator call button for Jordan’s chair. "Let's go meet Daniel and Caleb at the Washington Street doors and get Suite 214/216 unpacked for Spring Semester!"
+
+### Scene 5: Across the Hall in 215
+
+**Date:** 2015-01-11 at 15:10 America/New_York
+
+Upstairs on the second floor of **Bennett Hall**, **Daniel** and **Caleb Brooks** were already waiting by the upper-level **Washington Street SW** entrance with the rolling suitcases, winter bedding bags, and textbook crates unloaded onto two residence-hall luggage carts.
+
+With eleven pairs of hands—including **Isabel**, who helped **Lauren** and **Hannah** wheel the second cart down the staggered isosceles corridor to **`Suite 214/216`**—getting the suite unpacked for **Spring Semester** took less than thirty minutes.
+
+After Daniel and Caleb helped **Mark** verify that **Jordan**’s **`Pinnacle Precisionist 5000`** workstation, dual 24-inch monitors, and **`Vanguard Pro`** dock were plugged cleanly into the surge-protected power strip on his desk, Daniel pulled Jordan into a warm, steady fatherly hug.
+
+"You have a great start to your second semester, son," Daniel smiled, resting a hand on Jordan’s shoulder. "We'll send you pictures in **`[Jordan Comms]`** every afternoon as the carpenter crew frames out the upper switchbacks on your ramp—and remember, Geneva Street is only thirty minutes down the bypass whenever you guys want to come home for Sunday dinner."
+
+<aac>Thank you for everything, Daniel, and thank you, Caleb! Tell Laura and the rest of the family we love them!</aac>
+
+Once Daniel and Caleb headed back out to the Washington Street lot and the six residents of `Suite 214/216` popped down to **Kelsey Brennan**’s first-floor office (`Room 104`) to sign the routine Spring Semester co-ed suite renewal form—while **Isabel** stepped into **`Room 215`** across the hall to finish organizing her own spring duty binder before her evening rounds—all nine members of the college crew gathered back inside **`Room 214`**.
+
+The familiar room felt warm, lived-in, and completely secure. Clean sheets were tucked onto the beds, **Aubrie Jean**’s and Jordan’s matching Astrophysics textbooks sat lined up on the shelf above their desks, and the soft hum of the radiator filled the quiet afternoon.
+
+Settling onto the wooden desk chair beside Jordan’s wheelchair while **Hannah** leaned against his knees and **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** relaxed on the lower bunk and the braided rug, **Mark** looked over at Jordan with a gentle, thoughtful smile.
+
+"Hey, J," Mark said softly, keeping his voice calm and conversational so it wouldn't overwhelm Jordan after a busy travel day. "I wanted to mention something I noticed downstairs in the first-floor lobby earlier when **Isabel** came out from behind the desk to hug you."
+
+Jordan tilted his head curiously behind his glasses, resting his hands on his lap tray as he looked at his best friend.
+
+"When you looked down at your keyboard to type your message to her," Mark explained gently, "Isabel glanced back toward the front desk to grab her clipboard—and I saw **Kelsey** looking right at her."
+
+Around the room, Aubrie Jean, Madison, Lauren, and Sarah all looked over at Mark with quiet interest.
+
+"Wait—was Kelsey mad that Isabel left the desk or got emotional in the lobby?" Lauren asked with a flicker of concern.
+
+"No—not even a little bit," Mark said, shaking his head warmly. "It was the exact opposite. Kelsey saw how closely Isabel held onto you, J, and how she was crying and blushing because she'd been so worried all break about your mom trying to take you back to Virginia Beach. When Isabel looked back at the desk, Kelsey didn't say a word out loud in front of Garrett or the lobby—she just gave Isabel this really quiet, knowing look, and then a slow, steady nod."
+
+Jordan blinked, looking from Mark to Aubrie Jean and then typing a quiet question on his `Precisionist 5000`:
+
+<aac>What did Kelsey's nod mean?</aac>
+
+"It was Kelsey's way of telling her: *I see how much you care about him, and as long as you stay professional while you're his RA, I understand,*" Mark explained simply, never pushing an ounce past what Jordan needed to hear. "Usually Residence Life supervisors get nervous when an RA gets that attached to a resident on their hall. But Kelsey knows everything we went through in the fall, and she knows Isabel would walk through fire to keep this suite safe."
+
+Mark’s eyes drifted toward the closed wooden door of **`Room 214`**—and the door of **`Room 215`** sitting just five feet across the staggered hallway—as a warm, knowing look settled over his face.
+
+"Honestly," Mark added quietly, exchanging a brief, understanding glance with Aubrie Jean and Madison, "with Henry in London this semester and everything your mom might still try to pull before August, I'm really glad **Isabel** is the one keeping an eye on things from right across the hall in `215`."
+
+Sitting in his wheelchair with Aubrie Jean’s hand laced through his fingers, Jordan looked toward the hallway door and felt a deep, quiet warmth settle in his chest.
+
+He didn't know what the future held beyond Spring Semester—only that right across the hall in **`Room 215`**, his favorite CPI staff member was still standing watch over their home.
 
 # Jordan's World Trek
 
