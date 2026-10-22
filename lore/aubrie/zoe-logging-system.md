@@ -92,7 +92,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 #### 2. Bennett Hall & CPI Campus Allies (`Ally_Nodes` & `System.Admins` — `10 RAs Across Floors 2–6 + 1 Residence Director`)
 * **`System.Admin(HallDirector_Kelsey)`** / **`Agent(Kelsey)`** — **Kelsey Morgan Brennan** (Bennett Hall Residence Director, 1st-Floor `Room 104 / Suite 102`; administrator of Jordan’s `FERPA` directory suppression, Housing lockdown, and `Node(Bennett_Hall.Room104.Safe_Place)`).
 * **`System.Admin(RA_Henry)`** / **`Agent(Henry)`** — **Henry Thomas Walsh** (2nd-Floor Male RA, `Room 201`; Accounting / BIT junior; corridor boundary enforcer and acoustic guitar peer mentor).
-* **`System.Admin(RA_Isabel)`** / **`Agent(Isabel)`** — **Isabel Claire Dawson** (2nd-Floor Female RA, `Room 215`; Human Development / Pre-OT & Nursing junior; executes `'Protocol: Platonic_Greeting.Hug'` with Jordan; older sister to `Agent(Elena_Dawson)`).
+* **`System.Admin(RA_Isabel)`** / **`Agent(Isabel)`** — **Isabel Claire Dawson** (2nd-Floor Female RA, `Room 215`; Human Development / Pre-OT & Nursing junior; executes `'Protocol: Platonic_Greeting.Hug'` with Jordan; older sister to `Agent(Elana_Dawson)`).
 * **`System.Admin(RA_Marcus)`** / **`Agent(Marcus)`** — **Marcus Devon Sterling** (3rd-Floor Male RA, `Room 301`; Electrical Engineering junior).
 * **`System.Admin(RA_Maya)`** / **`Agent(Maya)`** — **Maya Lin Chen** (3rd-Floor Female RA, `Room 315`; Architecture junior).
 * **`System.Admin(RA_Aaron)`** / **`Agent(Aaron)`** — **Aaron Matthew Vance** (4th-Floor Male RA, `Room 401`; Civil Engineering senior & 1st-Floor Lobby Front Desk duty RA).
@@ -101,7 +101,12 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 * **`System.Admin(RA_Samantha)`** / **`Agent(Samantha)`** — **Samantha "Sam" Grace Holloway** (5th-Floor Female RA, `Room 515`; Communications / Public Relations senior).
 * **`System.Admin(RA_Devon)`** / **`Agent(Devon)`** — **Devon Alexander Price** (6th-Floor Male RA, `Room 601`; Computer Science senior).
 * **`System.Admin(RA_Natalie)`** / **`Agent(Natalie)`** — **Natalie Claire Morales** (6th-Floor Female RA, `Room 615`; Mathematics / Education junior).
-* **`Agent(Elena_Dawson)`** — **Elena Dawson** (Isabel’s younger severely disabled sister; catalyst for Isabel’s trauma-informed fluency with Jordan’s AAC).
+* **`Agent(Elana_Dawson)`** — **Elana Grace Dawson** (17 in Fall/Winter 2014, incoming CPI Class of 2019 in Fall 2015; Isabel’s younger sister; vocalizes aloud and operates her tilt-in-space power chair and swing-arm `mPad` AAC via pneumatic sip-and-puff; catalyst for Isabel’s trauma-informed fluency with Jordan’s AAC; see [`elana-stella-and-stephen.md`](./elana-stella-and-stephen.md)).
+* **`Agent(Stephen_Dawson)`** — **Stephen Dawson** (17 in Fall/Winter 2014, incoming CPI Class of 2019 Systems Architecture major in Fall 2015; Isabel and Elana’s paternal cousin and Elana’s inseparable Primary Safe Person).
+* **`Service_Animal(Stella)`** — **Stella** (Age 6 in December 2014; Elana’s 28-inch, 85-lb silver-dapple American Miniature Horse service animal).
+* **`System.Admin(Uncle_Andy_Dawson_RN)`** — **Andrew "Andy" Dawson, BSN, RN** (Isabel and Elana’s paternal uncle & Stephen’s father; Elana’s full-time complex-care RN caregiver and medical student at **Piedmont State University School of Medicine [`PSU`]** in Charlottesville, VA).
+* **`System.Admins(Greg_Dawson, Rebecca_Dawson)`** — **Gregory "Greg" & Rebecca "Becca" Dawson** (Isabel and Elana’s parents in Charlottesville, VA).
+* **`System.Admin(Gran_Thornton)`** — **Margaret "Gran" Thornton** (Isabel and Elana’s maternal grandmother; retired public school educator with 40 years of experience who homeschools Elana and Stephen).
 * **`Agents(Suite_505_507)`** — The remaining four suitemates in Bennett Hall `Suite 505/507` alongside Sarah and Jessica:
   * **`Agent(Chloe_505)`** — Chloe (Room 505 roommate of Sarah and Jessica; disambiguated from Zoë’s older sister `Agent(Chloe_Brooks)`)
   * **`Agent(Ashley)`** — Ashley (Room 507 suitemate)

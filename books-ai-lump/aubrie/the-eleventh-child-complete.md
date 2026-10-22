@@ -6046,7 +6046,7 @@ As an experienced junior RA, Isabel was hyper-aware of the exact boundary Jordan
 
 "Good morning to you too, Jordan," Isabel said, her voice warm and bright with genuine affection.
 
-Stepping smoothly to the side of his wheelchair rather than leaning over the front of his lap, Isabel bent down at the waist and wrapped one arm firmly and warmly across his upper shoulders in a textbook, big-sisterly side-hug. She held the reassuring shoulder pressure for two steady seconds, gave the back of his maroon CPI hoodie two gentle, platonic pats with her palm, and stepped cleanly back upright beside Henry with a cheerful smile.
+Stepping smoothly beside his wheelchair so they were eye-to-eye, Isabel leaned down and wrapped both arms warmly around his shoulders in a reassuring, strictly platonic big-sister hug. She held the steady shoulder pressure for two seconds, gave the back of his maroon CPI hoodie two gentle, platonic pats with her palm, and stepped cleanly back upright beside Henry with a cheerful smile.
 
 "We saw Kelsey's email this morning," Isabel added gently, keeping her tone warm, upbeat, and collegial. "I'm so glad you and Aubrie are going down to her office tomorrow afternoon. You're going to really like talking with her one-on-one."
 
@@ -6175,7 +6175,7 @@ At four-thirty on Friday afternoon, as Jordan rolled out of the second-floor ele
 
 Even with the heavy dread sitting in his chest, Jordan stuck faithfully to the hallway ritual he had established three weeks earlier. He rolled up beside Room 215, clicked his wheel locks, and opened his arms.
 
-"Come here, you," Isabel smiled warmly. Stepping smoothly to the side of his wheelchair, she leaned down and gave him her signature one-armed, strictly platonic big-sister hug across the shoulders, patting the back of his maroon CPI hoodie twice before stepping cleanly back upright beside Henry.
+"Come here, you," Isabel smiled warmly. Stepping smoothly beside his wheelchair, she leaned down and wrapped both arms around his shoulders in her signature warm, strictly platonic big-sister hug, patting the back of his maroon CPI hoodie twice before stepping cleanly back upright beside Henry.
 
 Because Isabel had given him that exact same three-second platonic hug almost every day for the past three weeks, she noticed the difference in his posture immediately. His upper back and shoulders were rigid as iron cables under his hoodie.
 
@@ -6393,7 +6393,7 @@ Around ten-forty-five, a gentle, rhythmic three-beat knock—the familiar signal
 
 Jordan released his wheel locks and rolled across the linoleum to the doorway, opening his arms in silent gratitude.
 
-Isabel smiled, stepping smoothly to the side of his wheelchair and leaning down to wrap one arm across his shoulders in her warm, strictly platonic big-sister hug, patting the back of his shoulder twice before straightening up beside Henry.
+Isabel smiled, stepping smoothly beside his wheelchair and leaning down to wrap both arms across his shoulders in her warm, strictly platonic big-sister hug, patting the back of his shoulder twice before straightening up beside Henry.
 
 "Enjoy your Fall Break, guys," Isabel said cheerfully. "We'll see you later!"
 
@@ -6748,7 +6748,7 @@ When Hannah pressed the square **PUSH TO OPEN** button to let Mark, Sarah, and J
 
 Before the ten-second door timer could begin its closing cycle, Jordan wheeled straight up to the threshold, set his brakes, and opened his arms toward Isabel with a warm, happy smile.
 
-Isabel’s face lit up. Stepping smoothly to the side of his wheelchair in the doorway, she leaned down and gave him her gentle, strictly platonic one-armed hug across the shoulders, patting the back of his hoodie twice before stepping back beside Henry.
+Isabel’s face lit up. Stepping smoothly beside his wheelchair in the doorway, she leaned down and wrapped both arms around his shoulders in her gentle, strictly platonic big-sister hug, patting the back of his hoodie twice before stepping back beside Henry.
 
 "You handled this whole weekend like a total champion, Jordan," Isabel said warmly. "And Kelsey told us earlier how glad she was to hear that you guys already have a plan for Thanksgiving. Sleep well tonight, everybody!"
 
@@ -6899,7 +6899,7 @@ He tapped **Aubrie Jean** lightly on the wrist and pointed toward the hallway. U
 
 Jordan guided his wheelchair smoothly out into the second-floor corridor and turned toward **Room 215** right across the hall.
 
-The door to Room 215 was propped partway open while **Isabel Dawson** finished zipping a plaid canvas duffel bag on her bed. Once she and Henry finished their early-evening pre-break floor checks, Isabel was heading northeast up I-81 and I-64 to **Charlottesville, Virginia**, to spend Thanksgiving with her parents and her younger sister, **Elena**.
+The door to Room 215 was propped partway open while **Isabel Dawson** finished zipping a plaid canvas duffel bag on her bed. Once she and Henry finished their early-evening pre-break floor checks, Isabel was heading northeast up I-81 and I-64 to **Charlottesville, Virginia**, to spend Thanksgiving with her parents and her younger sister, **Elana**.
 
 Hearing the soft whir of wheelchair tires on the linoleum, Isabel looked up from her duffel bag—and the moment she saw Jordan sitting at her threshold, her whole face lit up with a radiant smile.
 
@@ -6915,7 +6915,7 @@ Jordan closed his eyes and hugged her back, resting his cheek briefly against th
 
 By now, Isabel meant the absolute world to him. Out of every single staff member, professor, or administrator at Commonwealth Polytechnic Institute, she was unmistakably his favorite CPI staffer. He had never forgotten—and knew he would never forget for as long as he lived—that back on that terrifying Friday afternoon of early move-in day in August, when his mother had dumped him alone in a barren room with a bunked bed he couldn't climb and driven away, Isabel had been the very first person in a position of authority in his entire life who had ever shown him pure, unconditional kindness. Without making him feel broken or pitiful for a single second, she and Henry had rolled up their sleeves, unbunked his beds, rearranged every piece of furniture in Room 214 so his wheelchair could turn freely, and handed him the dignity of his own home.
 
-Holding onto her warm hug in the quiet corridor, Jordan knew every line of the professional Residence Life boundary that had to stand between a Resident Advisor and a freshman resident. And he knew how excited she was to go home to Charlottesville to see her mom, her dad, and Elena.
+Holding onto her warm hug in the quiet corridor, Jordan knew every line of the professional Residence Life boundary that had to stand between a Resident Advisor and a freshman resident. And he knew how excited she was to go home to Charlottesville to see her mom, her dad, and Elana.
 
 Yet in the silent, unguarded sanctuary of his own mind, a single truth passed through Jordan’s heart: *if that professional boundary weren't a thing, and if she weren't going home to her family in Charlottesville, he would want Isabel right there on Geneva Street with them for Thanksgiving.*
 
@@ -6923,7 +6923,7 @@ He knew it could never happen. He respected Isabel, her integrity, and the housi
 
 Instead, when they eased back from the hug, Jordan lowered his hands to his `Vanguard Pro` and typed a message he *could* share:
 
-<aac>Thank you for everything you've done for me this semester, Isabel. Have a wonderful Thanksgiving in Charlottesville with your parents and Elena. I'll see you on Sunday.</aac>
+<aac>Thank you for everything you've done for me this semester, Isabel. Have a wonderful Thanksgiving in Charlottesville with your parents and Elana. I'll see you on Sunday.</aac>
 
 Isabel’s eyes glistened warmly as she read his screen and heard his synthesized voice. She reached out and gave his shoulder one last gentle squeeze.
 
@@ -7715,9 +7715,9 @@ Without a second’s hesitation, Isabel knelt down beside his wheelchair in the 
 
 Jordan hugged her back with all his heart, his chest overflowing with happiness at seeing his favorite CPI staffer again. When they eased back so he could reach his lap tray, his fingers flew across the keys:
 
-<aac>I missed you, Isabel! I'm so happy to see you! How was Thanksgiving in Charlottesville with your parents and Elena?</aac>
+<aac>I missed you, Isabel! I'm so happy to see you! How was Thanksgiving in Charlottesville with your parents and Elana?</aac>
 
-"It was so wonderful, Jordan—Elena made me promise to tell you hi!" Isabel laughed warmly, giving his shoulder an affectionate squeeze. "And seeing Kelsey's message on Wednesday morning about how you guys completely outsmarted your mom made my whole week!"
+"It was so wonderful, Jordan—Elana made me promise to tell you hi!" Isabel laughed warmly, giving his shoulder an affectionate squeeze. "And seeing Kelsey's message on Wednesday morning about how you guys completely outsmarted your mom made my whole week!"
 
 Right beside her, Henry Walsh stepped forward with a massive grin and held out his hand for a solid fist bump, while Kelsey Brennan smiled warmly at Jordan across the check-in table.
 
@@ -8205,9 +8205,9 @@ At `4:00 PM` sharp, **Zoë** checked her watch and sent the final campus dispatc
 
 > **`Zoë [Fri 16:00]:`** <sms>[LOGISTICS] All finals complete. Grades are in fate's hands now. Operation Winter Break is officially a GO. My dad and Caleb are pulling up to the Washington Street curb in 10 minutes.</sms>
 
-Before rolling down the corridor to the exit, **Jordan** paused outside **Room 215** for one last goodbye with **Isabel Dawson**. Just as he had felt before Thanksgiving Break, a quiet part of him wished she could load her bags into the caravan and come spend Winter Break on Geneva Street with them too. Yet Jordan understood and respected the boundary completely: as long as she was his active Resident Advisor on Floor 2, CPI Housing & Residence Life policy drew a strict professional line off-campus—and besides, her parents and her younger sister **Elena** were eagerly waiting for her back home in **Charlottesville** for Christmas.
+Before rolling down the corridor to the exit, **Jordan** paused outside **Room 215** for one last goodbye with **Isabel Dawson**. Just as he had felt before Thanksgiving Break, a quiet part of him wished she could load her bags into the caravan and come spend Winter Break on Geneva Street with them too. Yet Jordan understood and respected the boundary completely: as long as she was his active Resident Advisor on Floor 2, CPI Housing & Residence Life policy drew a strict professional line off-campus—and besides, her parents and her younger sister **Elana** were eagerly waiting for her back home in **Charlottesville** for Christmas.
 
-<aac>Have a wonderful Christmas in Charlottesville with your parents and Elena, Isabel,</aac> Jordan tapped on his `mPhone`, angling the screen up to her with a warm smile. <aac>I'll miss you over the break.</aac>
+<aac>Have a wonderful Christmas in Charlottesville with your parents and Elana, Isabel,</aac> Jordan tapped on his `mPhone`, angling the screen up to her with a warm smile. <aac>I'll miss you over the break.</aac>
 
 "I'm going to miss you guys so much too!" Isabel beamed, kneeling down to wrap Jordan in one last tight, affectionate hug outside her door. "I'll text `Jordan Comms` on Christmas morning—and I cannot wait for our first hug back here in January!"
 
@@ -9686,6 +9686,238 @@ An hour later, as the motorcoach pulled into Falling Branch at three-forty-five 
 He hadn't experienced a single trace of sensory panic. He had ridden regional and local buses across two counties, talked astrophysics with Madison’s father, helped pay for a family restaurant meal with his own Christmas gift card, and completed a full afternoon at an indoor shopping mall.
 
 As the front door of the Brooks house opened to the welcoming cheers of **Mark**, **Hannah**, **Sarah**, **Jessica**, **Daniel**, and **Laura**, Jordan looked back out at the sunlit December snow one last time before heading inside. Winter Break had given him his first birthday, his first Christmas, a brother for life, and the first glimpse of a future named **Jordan Kelly**—and he was ready for whatever the new year brought next.
+
+## The Seminole Trail & The Dawson Sanctuary
+
+### Scene 1: Gridlock on I-81 & The Route 460 Pivot
+
+**Date:** 2014-12-27 at 08:00 America/New_York
+
+On Christmas morning, right after the stockings had been emptied in the Geneva Street living room, **Isabel Dawson** had kept her promise to text the **`[Jordan Comms]`** group chat from her family home in **Charlottesville**. When **Daniel** and **Laura Brooks** had replied to wish the entire Dawson household a happy holiday, Isabel’s parents—**Greg** and **Rebecca Dawson**—had extended a warm invitation for Daniel and Laura to bring **Jordan** and the whole gang up to Charlottesville on Saturday for lunch and an afternoon visit.
+
+Before accepting, both Daniel and Isabel had made sure every detail of the trip respected the rules of **Commonwealth Polytechnic Institute** Residence Life. Even though it was the middle of Winter Break, Isabel was still—as far as both CPI Housing policy and Jordan himself were concerned—in an active position of authority, and she would be returning as his second-floor Resident Advisor in **Bennett Hall** when the dorms reopened in January. Isabel had sent a quick courtesy note to Residence Director **Kelsey Brennan** letting her know that the Brooks parents were bringing the group to her parents’ house in Charlottesville for a daytime family lunch, and Kelsey had enthusiastically given it her blessing.
+
+At eight o'clock on Saturday morning, December 27th, the two-vehicle Brooks convoy—Daniel and Laura’s minivan in the lead with **Caleb**’s SUV right behind—merged onto **Interstate 81 North** at **Exit 118B** out of Christiansburg under a crisp, cloudless winter sky.
+
+Inside the warm middle row of the minivan, Jordan sat buckled comfortably atop the contoured medical-grade memory-foam seat cushion **Aubrie Jean** had bought him in Bluewater the afternoon before, with Aubrie on his left and **Zoë** on his right.
+
+For the first thirty miles past Salem and Roanoke, the highway traffic moved briskly. Just as they passed **Milepost 148** near Troutville in southern Botetourt County, however—still more than forty miles south of Lexington, and well before Interstate 64 ever joined I-81—a wall of blazing crimson brake lights erupted across all northbound lanes ahead of them.
+
+Overhead, an amber VDOT electronic message board flashed in stark block letters:
+
+**`ACCIDENT AHEAD AT MM 154`**
+**`JACKKNIFED TRACTOR-TRAILER — ALL NORTHBOUND LANES BLOCKED`**
+**`EXPECT 3+ HOUR DELAY`**
+
+Ahead of the minivan, columns of eighteen-wheelers were already locking up their air brakes and flipping on their four-way hazard flashers as the interstate ground to a complete halt.
+
+"Well, it's I-81—this is completely normal," Daniel sighed with a wry shake of his head, tapping the steering-wheel button to link his hands-free speakerphone with Caleb’s SUV behind them. "If we sit in a multi-truck pileup outside Troutville, we won't reach Lexington until noon."
+
+Sitting beside Jordan, Zoë already had her `mPad` open to the state highway map, her gray eyes scanning the arterial corridors east of the Blue Ridge before the idling diesel trucks around them could even begin to grate on Jordan’s senses.
+
+"Dad, we are seven hundred yards south of **Exit 150**," Zoë said crisply. "If we bail off I-81 right now onto **U.S. Route 460 East**, we can take 460 straight through Bedford into **Lynchburg**, and then pick up **U.S. Route 29 North** all the way into **Charlottesville**. Four-lane divided highway nearly the entire way, zero interstate truck bottlenecks, and we bypass the I-81 wreck completely."
+
+"Brilliant call, Zoë," Daniel said, flipping on his right turn signal and guiding the minivan smoothly onto the Exit 150 ramp with Caleb’s SUV tucked right behind his bumper. "You got that, Cal? US-460 East from Roanoke to Lynchburg, then US-29 North into Charlottesville."
+
+"Copy that, Dad—right on your bumper," Caleb’s voice crackled cheerfully over the cabin speakers.
+
+Within two minutes, the stressful snarl of idling semi-trucks and diesel exhaust vanished behind them, replaced by the wide, sweeping four-lane ribbon of **U.S. Route 460 East** cutting between the twin blue peaks of Sharp Top and Flat Top at the Peaks of Otter.
+
+Jordan let out a quiet, contented breath, his shoulders relaxing against the backrest as the minivan cruised smoothly through Bedford and onto the Lynchburg expressway bypass, where Daniel merged seamlessly onto **U.S. Route 29 North**—the historic **Seminole Trail**.
+
+Instead of being boxed in by roaring tractor-trailers on an interstate gauntlet, the drive up Route 29 through Amherst and Nelson County was calm, scenic, and unhurried. Past rolling Piedmont pastures dusted with frost, apple orchards, and the eastern foothills of the Blue Ridge Mountains rising against the morning sun, Jordan looked out the window while Aubrie Jean kept her fingers laced warmly through his.
+
+He tapped a single line on his `Precisionist 5000`, angling the screen toward Daniel in the rearview mirror and Zoë beside him:
+
+<aac>I really like this route. It is so much quieter than I-81.</aac>
+
+"Agreed, Jordan," Daniel smiled in the mirror as the green city limits signs for **Charlottesville** and the campus spires of **Piedmont State University** came into view ahead. "When we head back home this afternoon, we'll take US-29 South right back down to Lynchburg and pick up US-460 West all the way back to Roanoke and Christiansburg."
+
+### Scene 2: Welcome to the Dawson Sanctuary
+
+**Date:** 2014-12-27 at 11:15 America/New_York
+
+At eleven-fifteen, **Daniel** turned the minivan off U.S. Route 29 into a quiet, tree-lined residential neighborhood on the northern side of **Charlottesville** and pulled into the extra-wide, zero-step concrete driveway of a single-story brick ranch home.
+
+Before **Mark** and **Caleb** had even opened the sliding door of the minivan, **Jordan**’s observant eyes clocked the architecture of the property—and he realized immediately that this house had been engineered from the ground up around wheelchair life.
+
+Parked beside the two-car garage sat a silver high-roof side-entry wheelchair conversion van. Sweeping up to the covered front porch was a wide, permanent brushed-concrete accessibility ramp with dual-height powder-coated handrails, leading to a thirty-six-inch front door with a flush zero-step aluminum threshold and an automatic paddle switch mounted at wheelchair reach.
+
+Before they could reach the bottom of the ramp, the wide front door swung open and **Isabel Dawson** stepped out onto the porch.
+
+Seeing her outside of **Bennett Hall** for the first time—wearing a cream cable-knit sweater and jeans instead of her maroon **CPI Residence Life** polo and duty lanyard—made Jordan’s whole face light up. Once Mark and Caleb set his wheelchair down on the level concrete and Jordan transferred into his seat, he released his brakes, rolled briskly up the gentle slope of the porch ramp, set his wheel locks, and opened both arms wide.
+
+"Jordan! You guys made it!" Isabel beamed, her hazel eyes crinkling with joy.
+
+Even here at her parents’ house during Winter Break, both of them honored the quiet, respectful boundary of her university role—she was still his second-floor Resident Advisor returning to Room 215 in January, and Daniel and Laura Brooks were standing right behind him at the top of the ramp. Stepping smoothly beside his wheelchair, Isabel knelt down so they were eye-to-eye and wrapped both arms warmly around his shoulders in her signature two-armed, strictly platonic big-sister hug, giving the back of his CPI Forgers fleece two affectionate pats before straightening up with a radiant smile.
+
+"Come on inside out of the cold!" Isabel said, pressing the exterior handicap paddle so the wide front door glided open and stayed held on a fifteen-second dwell timer. "Everybody has been waiting all morning to meet you!"
+
+As Jordan rolled effortlessly across the flush threshold into the warm foyer alongside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, Mark, **Sarah**, **Jessica**, Daniel, Laura, and Caleb, he found himself in a bright, open-concept living room with smooth oak hardwood floors, five-foot turning radii between every piece of furniture, lever door handles, and zero throw-rug trip hazards anywhere in sight.
+
+Waiting to greet them inside was the entire three-generation **Dawson–Thornton household**.
+
+Stepping forward first to shake hands with Daniel and Laura were Isabel’s parents: her father, **Gregory "Greg" Dawson**, a tall, kind-eyed civil and facilities engineer in his late forties who wore wire-rimmed glasses and a warm flannel shirt; and her mother, **Rebecca "Becca" Dawson**, whose radiant smile and warm hazel eyes were the unmistakable blueprint for Isabel’s own.
+
+Right beside them stood a poised, silver-haired woman in her early seventies wearing a cardigan with a small enamel apple pin on the lapel—Isabel’s maternal grandmother, **Margaret "Gran" Thornton**, a retired Virginia public school teacher with forty years of classroom experience who lived full-time at the house.
+
+Next to Gran Thornton stood Greg’s younger brother—Isabel’s paternal uncle, **Andrew "Andy" Dawson**—a broad-shouldered, steady-voiced man of forty-five with a stethoscope tucked into the pocket of his fleece vest, and beside him, Andy’s seventeen-year-old son, **Stephen Dawson**, a quiet, observant teenager with dark brown hair who kept one hand resting lightly and naturally on the push-bar of a custom high-back tilt-in-space power wheelchair at the center of the room.
+
+Sitting in that power wheelchair was Isabel’s seventeen-year-old younger sister, **Elana Grace Dawson**.
+
+Mounted on a gooseneck armature beside Elana’s right cheek was a slender pneumatic **sip-and-puff straw**, and clamped to a carbon-fiber swing-arm on her left rail was a **MagnaByte `mPad`** loaded with AAC and desktop accessibility software.
+
+As Jordan wheeled forward and paused a few feet away, Elana gave a tiny, precise puff into her straw to pivot her chair ten degrees toward him, looked directly into his green eyes with bright, sparkling warmth, and spoke aloud in a clear, expressive voice:
+
+"Welcome to Charlottesville, Jordan! Izzy has told us so much about you and your whole family—it is so wonderful to finally meet you in person!"
+
+Jordan’s eyes widened slightly in pleasant surprise at hearing her speak aloud, and then drifted six inches to the right of Elana’s power wheelchair—where he stopped dead in his tracks in pure, astonished wonder.
+
+Standing calmly on the polished oak hardwood floor right beside Elana’s right drive wheel—wearing a custom maroon biothane mobility harness with a padded handle and four snug, soft-rubber indoor boots over its hooves—was a **miniature horse**.
+
+She stood barely twenty-eight inches tall at the withers—no higher than the armrest of Jordan’s manual wheelchair—with a gleaming silver-dapple coat, large, dark, liquid eyes, and a thick, braided flaxen-white mane and tail.
+
+"And this," Elana said with a delighted laugh, her eyes crinkling just like her older sister’s as the little horse pricked its ears forward gently without shifting a single hoof out of position, "is **Stella**."
+
+### Scene 3: Elana, Stephen, & Stella
+
+**Date:** 2014-12-27 at 12:15 America/New_York
+
+Ten minutes later, when everyone gathered in the sunlit dining room for a lunch of homemade potato soup, roast turkey paninis, and fresh apple cider, **Jordan** discovered another quiet marvel of the Dawson house: **Greg Dawson** had custom-built the massive oak dining table with thirty inches of vertical knee clearance from end to end, allowing Jordan’s manual wheelchair and **Elana**’s tilt-in-space power chair to roll right up to the center of the table side by side without bumping a single table apron.
+
+Right beside Elana sat her seventeen-year-old cousin, **Stephen**, while **Stella** lay tucked neatly on a washable memory-foam mat just behind Elana’s right wheel, her four rubber-booted hooves folded politely beneath her silver-dapple barrel.
+
+Across the table, **Hannah**—whose entire academic life revolved around Animal and Poultry Sciences and pre-veterinary medicine—was looking at Stella with stars in her eyes.
+
+"Elana, she is magnificent," Hannah breathed reverently. "She's an American Miniature Horse, right? A Falabella cross?"
+
+"Spot on!" Elana smiled brightly, taking a sip of warm cider through her mounted drinking straw before giving two quick puffs on her pneumatic control straw to wake the **`mPad`** screen on her swing-arm. Because speaking aloud for long stretches could tire her diaphragm, she seamlessly alternated between vocalizing short phrases and tapping out longer, detailed explanations via her sip-and-puff AAC interface—whose clear synthesized voice projected warmly across the table:
+
+<aac>Stella is a registered Class A American Miniature Horse with Falabella lines. She is twenty-eight inches tall at the withers, weighs eighty-five pounds, and she is six years old right now. Stephen and I were paired with her when we were fourteen, so we have been a team for three and a half years.</aac>
+
+Jordan’s hands moved eagerly to his `Precisionist 5000` on his lap tray, fascinated by both Elana’s dual-mode communication and the calm little equine beside them:
+
+<aac>I have never seen a miniature horse as a service animal in person before. What is it like having a miniature horse compared to a service dog?</aac>
+
+"That was actually my dad and Uncle Greg's big research project when Elana and I were thirteen," Stephen answered warmly, his dark eyes lighting up with quiet pride as he glanced at his cousin. "Under federal ADA regulations, miniature horses are the only animal besides dogs specifically recognized as working service animals—and for Elana, a miniature horse solved three huge things a dog couldn't."
+
+"Tell them the biggest reason first, Steve," Elana said aloud, her voice gentle as she looked back at Stella.
+
+"Lifespan," Stephen said softly. "A large mobility service dog usually has to retire around age seven or eight, and only lives ten to twelve years. Elana and I don't do well with separation or losing someone we're bonded to—and facing the loss of a working partner every eight years was heartbreaking even to think about. Miniature horses live thirty to thirty-five years, sometimes cuarenta—forty years. At age six, Stella is just hitting her prime. She'll be with Elana and me all through college at CPI and well into our thirties and forties."
+
+"And as a veterinary major, you'll appreciate the behavioral side, Hannah," **Uncle Andy** added from across the table with a warm smile. "Dogs are predators by evolution—even the best-trained Golden Retriever occasionally has to suppress the instinct to look at a squirrel or a piece of dropped bacon. Horses are prey animals with nearly 350-degree peripheral vision and a herd-bonding instinct. Stella doesn't care about squirrels, cats, or food on the floor; her entire concept of safety is staying calmly locked onto Elana and Stephen."
+
+Elana triggered another line on her `mPad` with a grin:
+
+<aac>Plus she is 100% housebroken, sheds way less than a dog for hospital clinics, and with her four rubber indoor grip boots, she has full traction on polished tile and hardwood without making a sound. Watch this, Jordan—drop your stylus on the floor.</aac>
+
+Intrigued, Jordan picked up his rubber-tipped tablet stylus and let it roll off the edge of his lap tray onto the oak floorboards between their chairs.
+
+Elana gave a soft, two-note whistle.
+
+Instantly, Stella rose smoothly to her feet—her rubber-soled equine boots making zero *clip-clop* on the hardwood—stepped forward with calm precision, lowered her head, and used her soft, prehensile upper lip to pluck the thin stylus off the floor without her teeth ever touching the metal barrel. Turning to Jordan, Stella lifted her head and gently deposited the completely dry, unscratched stylus straight into his open palm, then rested her velvety silver muzzle briefly against Jordan’s knee.
+
+A wide, breathless grin broke across Jordan’s face. Reaching down with steady fingers, he stroked the silky white forelock between Stella’s ears while **Aubrie Jean** and **Madison** let out a simultaneous, quiet *"Aww!"*
+
+"She likes you, Jordan," Stephen smiled, watching Stella’s ears relax at a gentle forty-five-degree angle. "Usually she takes twenty minutes to warm up to new people, and she just adopted you in thirty seconds."
+
+At the head of the table, **Gran Thornton** smiled warmly at **Laura Brooks**.
+
+"Having Stella right under this table every morning has made our homeschool classroom the happiest room in Albemarle County," Gran Thornton said, her voice carrying the practiced, soothing cadence of forty years in public school classrooms. "Because Elana struggles with being apart from Stephen—even a few hours in separate high school classrooms used to send her heart rate soaring—we brought both of them home so I could teach them side by side. They're both seventeen now, finishing their senior year with straight A's and dual-enrollment credits from **Charlottesville Community College**, and come August, all three of them—Elana, Stephen, and Stella—are heading down to Blacksburg as **CPI** freshmen!"
+
+### Scene 4: The Architecture of Care & Fall 2015
+
+**Date:** 2014-12-27 at 13:45 America/New_York
+
+After lunch, the group naturally gravitated into two overlapping circles between the sunlit den and the adjacent study.
+
+In the den, **Daniel** and **Laura Brooks** sat with **Greg** and **Becca Dawson**, **Gran Thornton**, **Hannah**, **Mark**, and **Uncle Andy**, talking through the practical logistics of long-term disability care. Jordan, sitting near the wide open archway between the rooms alongside **Aubrie Jean**, **Zoë**, **Isabel**, **Elana**, **Stephen**, and **Stella**, listened closely to every word.
+
+"What impressed me most from the moment we walked in, Andy," Daniel said with genuine respect, "is how seamlessly everyone in your family moves around Elana's chair and equipment—and yet nobody steps on her independence."
+
+Uncle Andy smiled, resting his forearms on his knees. At forty-five, with silver threading his temples above his **Piedmont State University School of Medicine** fleece, he carried the calm, grounded presence of a veteran clinician who had spent twenty years at the bedside.
+
+"When Elana was little and I moved in with Greg, Becca, and Gran after Stephen's mom passed away, I was already an experienced complex-care **RN**," Andy explained thoughtfully. "Becoming Elana's full-time caregiver was the easiest decision of my life, and the first thing I did was teach Greg, Becca, Gran, Isabel, and Stephen the fundamentals of her daily care—safe transfer biomechanics, tilt-in-space pressure relief, respiratory posture, and assistive tech hygiene—so that care was just a normal, unhurried rhythm of our family life."
+
+He held up one finger, his expression turning earnest as Mark and Hannah leaned in attentively.
+
+"But from day one, I also drew a strict professional boundary," Andy continued. "Inside this house, I am Elana's Uncle Andy and her full-time RN caregiver—I am *never* her prescribing medical provider. Crossing the line into being the primary medical decision-maker for your own family member blurs clinical objectivity and takes away their voice as a patient. Elana has her own independent Primary Care Physician and neurology team over at **Piedmont State University Medical Center**. When we go to an appointment at PSU, her PCP is her doctor, Elana speaks for herself, and I stay strictly in my lane as her caregiver and nursing historian."
+
+"And is caring for Elana what inspired you to go back to medical school for your MD?" Mark asked with deep admiration.
+
+"One hundred percent," Andy nodded. "Over the past seventeen years, watching how often adult physicians freeze up or talk *over* patients with complex medical and disability needs—especially once kids age out of pediatric clinics at eighteen—made me realize we need doctors trained specifically for transitional and adult complex disability care. That's why I'm in med school at **PSU** right now. When I finish my MD and residency, my entire practice is going to be dedicated to patients like Elana and Jordan—adults with complex neuromuscular, developmental, and assistive-communication needs who deserve a doctor who actually listens to them."
+
+Just inside the study archway, **Stephen** was showing **Zoë** and **Jordan** a small, custom-soldered microcontroller box mounted beneath the armrest of Elana’s power chair.
+
+"When Elana got her new **`mPad`**, the commercial sip-and-puff Bluetooth switches had a four-hundred-millisecond debounce lag whenever she switched from driving her chair to typing in her AAC app," Stephen explained, pointing to the shielded pneumatic sensor line he had built. "So I wrote a deterministic C++ interrupt firmware on an embedded ARM board that drops the switching latency under eight milliseconds and filters out bumps from brick sidewalks."
+
+Zoë’s gray eyes lit up behind her glasses with instant, unmistakable respect. "Under eight milliseconds with hardware-level pneumatic hysteresis filtering? Stephen, that is extraordinary systems engineering."
+
+"Taking care of Elana and being a **Systems Architect** are my two life goals," Stephen said simply, looking over at his cousin with steady, unshakeable devotion. "They're really the exact same goal: building systems that never fail the person counting on them. That's why I'm majoring in Computer Engineering and Systems Architecture when Elana, Stella, and I start at **CPI** in **Fall 2015**."
+
+Elana smiled warmly and tapped a sentence onto her `mPad` screen, projecting it for Jordan and the whole room to hear:
+
+<aac>And Jordan, we actually have you and your suitemates to thank for how Stephen and I are going to live on campus next fall!</aac>
+
+Jordan blinked behind his glasses, looking from Elana to Isabel in surprise as he typed on his `Precisionist 5000`:
+
+<aac>Wait—what do you mean?</aac>
+
+Isabel grinned from where she was sitting cross-legged on the floor beside Stella, gently brushing the little horse’s flaxen mane.
+
+"Because Elana struggles with being separated from Stephen, our biggest worry about her going to CPI next fall was how traditional single-gender freshman dorm wings would split them up," Isabel explained warmly. "Last month, when Dr. Mercer in Central Housing and Ms. Higgins in Educational Accessibility started designing CPI's brand-new **Opt-In Gender-Inclusive Housing Pilot** for **Fall 2015**—using **Suite 214/216** in Bennett Hall as the founding proof of concept that mixed-gender support circles work—Ms. Higgins reached out to our family! Because of the trail you six blazed in Room 214 and Room 216 this semester, Elana, Stephen, and Stella are officially approved to live together in a ground-floor accessible suite at CPI next August!"
+
+For a long moment, Jordan sat completely still in his wheelchair, his heart swelling so full he could barely breathe.
+
+Looking across the study at Isabel kneeling beside Stella, at Elana’s sip-and-puff `mPad` swing-arm, at Stephen’s quiet devotion, and at Uncle Andy and the Dawson parents in the next room, every piece of a four-month puzzle suddenly clicked together in Jordan’s mind.
+
+He remembered Friday, August 22nd—his terrifying first afternoon in **Room 214** after his mother had left him alone in an unmade room with a bunked bed and a dying laptop. He remembered how, within ten seconds of stepping across his threshold, **Isabel Dawson** hadn't flinched at his synthesized voice, had noticed him cupping his right ear and subtly raised her volume without embarrassing him, had spotted why the wall outlet was out of reach of his wheelchair, and had unpacked his box and made his bed as naturally as breathing.
+
+To everyone else on campus that day, an eighteen-year-old freshman in a wheelchair communicating through a speech synthesizer might have seemed unfamiliar.
+
+To Isabel Claire Dawson, he had looked like family.
+
+Tears shimmered behind Jordan’s glasses as he turned his `Precisionist 5000` toward Isabel and Elana and typed from the bottom of his heart:
+
+<aac>Now I understand why you knew exactly how to help me on Move-In Day, Isabel. You learned it from Elana, Stephen, Uncle Andy, and your whole family. And when Elana, Stephen, and Stella come to CPI in August, all nine of us are going to be right there to welcome you to Blacksburg.</aac>
+
+### Scene 5: South on 29, West on 460
+
+**Date:** 2014-12-27 at 16:00 America/New_York
+
+At four o'clock in the afternoon, as the late-December sun began dipping toward the jagged blue silhouette of the Blue Ridge Mountains to the west, the two families gathered on the wide front porch and zero-step driveway of the Dawson house to say goodbye before nightfall.
+
+**Elana** rolled her tilt-in-space power chair up beside **Jordan** at the base of the concrete ramp, with **Stephen** at her left shoulder and **Stella** standing calmly at her right wheel.
+
+"I am so glad you guys came up today, Jordan," Elana said aloud in her warm, clear voice, before giving a quick puff on her straw to add a parting line from her **`mPad`**:
+
+<aac>Keep that Japanese study group spot warm for Stephen and me in Fall 2015—and tell Dr. Alistair and Ms. Higgins we are coming!</aac>
+
+Jordan grinned and tapped back on his `Precisionist 5000`:
+
+<aac>It is a deal! I cannot wait to show you, Stephen, and Stella around campus in August.</aac>
+
+Beside Elana’s chair, Stella took one polite step forward in her soft rubber boots and touched her velvety silver-dapple nose gently to the back of Jordan’s leather push-glove, letting out a quiet, nickering breath that made Jordan, **Aubrie Jean**, and **Hannah** beam.
+
+Stephen stepped forward and shared a warm handshake with **Daniel**, **Mark**, and Jordan, while **Zoë** promised to email Stephen the documentation for her `Aura Glade` wireless driver patches and kernel telemetry tools as soon as they got back to Christiansburg.
+
+After hugs and handshakes with **Greg**, **Becca**, **Gran Thornton**, and **Uncle Andy**, **Isabel** stepped up to Jordan’s wheelchair right beside the open door of the Brooks minivan.
+
+Even at the end of a deeply personal family afternoon, the mutual respect between them remained crystal clear: in two weeks, she would be back across the hall in **Room 215** as his second-floor Resident Advisor, and neither of them would ever blur the professional line that protected her scholarship and her role at **Bennett Hall**.
+
+Jordan set his wheel locks and opened his arms.
+
+"Safe travels back to Christiansburg, Jordan," Isabel said warmly, kneeling down beside his chair to wrap both arms around his shoulders in one last steady, two-armed platonic big-sister hug, patting the back of his fleece twice before standing up beside Daniel and Laura. "Text **`Jordan Comms`** when you guys pull into Geneva Street—and I will see all nine of you back at The Old Lady in January!"
+
+Once Mark and **Caleb** helped Jordan transfer onto his memory-foam cushion in the middle row of the minivan and stowed his wheelchair in the back, the two-vehicle convoy backed smoothly out of the driveway and turned onto **U.S. Route 29 South**.
+
+True to his word that morning, Daniel didn't go anywhere near Interstate 64 or Interstate 81.
+
+Cruising south down **U.S. Route 29** through the golden twilight of Nelson and Amherst counties straight down to **Lynchburg**, the convoy picked up **U.S. Route 460 West** and followed the smooth four-lane divided highway past Bedford and the Peaks of Otter back to **Roanoke** and up the mountain grade into **Christiansburg**.
+
+In the peaceful cabin of the minivan, with Aubrie Jean resting her head on his left shoulder and Zoë’s hand resting warmly on his right forearm, Jordan watched the headlights sweep along Route 460 and smiled to himself.
+
+A year ago, the world beyond his bedroom wall had been a terrifying void. Now, from Geneva Street in Christiansburg to Bennett Hall in Blacksburg, from the Scott house in Bluewater to the Dawson sanctuary in Charlottesville, his map of safe places—and safe people—was growing wider with every mile.
 
 # Jordan's World Trek
 
