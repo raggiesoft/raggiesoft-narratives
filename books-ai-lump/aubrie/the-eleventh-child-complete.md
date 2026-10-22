@@ -10563,13 +10563,13 @@ Mark watched a wave of visible relief wash across Isabel’s flushed face as she
 
 Mark didn't say a word to anyone, and his expression didn't change by a millimeter—he simply filed that look from Kelsey away in the back of his mind, quietly noting it to himself as Kelsey and the new second-floor male RA stepped out from behind the reception counter to greet the group.
 
-### Scene 4: Meeting Garrett Reynolds
+### Scene 4: Meeting Garrett Reynolds & The Co-Ed Pilot Proposal
 
 **Date:** 2015-01-11 at 14:25 America/New_York
 
 Stepping out from behind the curved oak front desk alongside **Isabel**, **Kelsey Brennan** smiled warmly at **Jordan** and the eight friends gathered around him.
 
-"Welcome back to Bennett Hall, everyone," Kelsey said, her calm, authoritative voice making the lower-level lobby feel instantly like the fortress they had left in December. "Daniel just texted me two minutes ago that he and Caleb pulled into the Washington Street lot upstairs with your suitcases—but before you head up the elevator to Floor 2, Jordan, could I borrow just a moment of your time?"
+"Welcome back to Bennett Hall, everyone," Kelsey said, her calm, authoritative voice making the lower-level lobby feel instantly like the fortress they had left in December. "Daniel just texted me two minutes ago that he and Caleb pulled up outside the second-floor Washington Street entrance with your suitcases—but before you head up the elevator to get your luggage, Jordan, could I borrow just a moment of your time?"
 
 Jordan nodded gladly, gesturing for Kelsey to go ahead.
 
@@ -10600,59 +10600,131 @@ Garrett read every single line directly from Jordan’s screen, nodding thoughtf
 
 "Crystal clear on all four points, Jordan," Garrett replied without a second's hesitation. "I already have both trespass photos clipped inside the front-desk security binder and my `Room 201` duty clipboard, I know the pre-drill notification protocol with EHS, and if any visitor or administrator ever questions `Suite 214/216`, they go straight through me, Isabel, and Kelsey."
 
-"And we've also added Garrett to the **`[Jordan Comms]`** staff watch alongside me, Isabel, and Henry," Kelsey added warmly, resting a hand on Isabel’s shoulder. "Also, once you six get your suitcases unpacked upstairs with Daniel and Caleb, pop back down to my office in **`Room 104`** for five minutes before dinner. Because it's the start of a new academic term, Central Housing requires a quick routine Spring Semester signature confirming that all six of you still consent to the co-ed suite arrangement."
+"And we've also added Garrett to the **`[Jordan Comms]`** staff watch alongside me, Isabel, and Henry," Kelsey added warmly, before lifting a second clipboard from the front desk counter. "While all six of you from **`Suite 214/216`** are standing right here, let's go ahead and knock out your routine Spring Semester renewal signatures confirming that all six of you want to stay a co-ed suite for the spring term."
 
-<aac>We will be right down as soon as we unpack! And thank you, Garrett—we are really glad to have you on Floor 2.</aac>
+As **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, and **Hannah** stepped up one by one to sign the renewal form on Kelsey’s clipboard, Kelsey’s expression brightened with a mixture of professional pride and genuine respect.
 
-"Glad to be here, Jordan," Garrett smiled, rising smoothly to his feet. "And since my shift at the desk runs until four, **Isabel** is all yours to help you guys get settled upstairs."
+"Actually, while you six are signing this, there is something else I wanted to ask your permission for," Kelsey said, lowering her voice slightly for the group. "Because of how extraordinarily well **`Suite 214/216`** worked this past fall—not just for Jordan's accessibility accommodations, but in terms of academic performance, mutual support, and zero disciplinary issues—**CPI Housing and Residence Life** and **Ms. Higgins** over at the **Office of Educational Accessibility** are looking into launching an official university **pilot project for co-ed dorms and gender-inclusive accommodation suites** in our newer and renovated residence halls. Dr. Mercer asked if the six of you would be willing to let us use your suite's story as proof to the university administration that co-ed suites can work under the right conditions."
 
-"Come on, Floor 2!" Isabel beamed—her cheeks finally back to their normal warm glow as she hit the elevator call button for Jordan’s chair. "Let's go meet Daniel and Caleb at the Washington Street doors and get Suite 214/216 unpacked for Spring Semester!"
+Across the lobby circle, all six suitemates exchanged immediate, enthusiastic nods—while **Zoë** raised a single finger with her usual precision.
 
-### Scene 5: Across the Hall in 215
+"We would be honored to let Housing and OEA use our suite as a proof-of-concept case study, Kelsey," Zoë said crisply, "provided that all identifying personal metadata and room numbers are strictly anonymized in any external committee packets so Jordan's **FERPA Confidentiality Hold** and our privacy boundaries remain one hundred percent intact."
 
-**Date:** 2015-01-11 at 15:10 America/New_York
+"One hundred percent anonymized," Kelsey promised immediately. "No names, no building or room numbers, and zero compromise to your privacy—just the hard academic and wellness data proving that when students have a supportive, consented co-ed support network, they thrive."
 
-Upstairs on the second floor of **Bennett Hall**, **Daniel** and **Caleb Brooks** were already waiting by the upper-level **Washington Street SW** entrance with the rolling suitcases, winter bedding bags, and textbook crates unloaded onto two residence-hall luggage carts.
+Jordan tapped his keys with a proud, beaming smile as he signed the bottom line of the renewal form:
 
-With eleven pairs of hands—including **Isabel**, who helped **Lauren** and **Hannah** wheel the second cart down the staggered isosceles corridor to **`Suite 214/216`**—getting the suite unpacked for **Spring Semester** took less than thirty minutes.
+<aac>Count all six of us in, Kelsey! If our story can help other disabled students at CPI live with their safe people without having to fight red tape, we are 100% on board!</aac>
 
-After Daniel and Caleb helped **Mark** verify that **Jordan**’s **`Pinnacle Precisionist 5000`** workstation, dual 24-inch monitors, and **`Vanguard Pro`** dock were plugged cleanly into the surge-protected power strip on his desk, Daniel pulled Jordan into a warm, steady fatherly hug.
+"Thank you, guys—that is going to make a huge difference for future students on this campus," Kelsey smiled, tucking the signed form into her folder. She glanced up at the lobby wall clock. "Now, let's get you upstairs so **Daniel** isn't left waiting out by the second-floor Washington Street doors with all those suitcases—"
+
+"I can go help them carry the suitcases in!" **Isabel** volunteered—jumping in a half-beat **too** quickly as her hand shot up beside her clipboard.
+
+Behind the counter, Kelsey let out a quiet, amused giggle at her Junior RA’s eagerness, her eyes crinkling warmly as she waved Isabel forward.
+
+"Go right ahead, Izzy—my student desk assistant is back from the mail room, so I've got the front desk covered for the next twenty minutes," Kelsey chuckled. She glanced over at **Garrett Reynolds**. "And Garrett, why don't you head upstairs with them too? That way you can help unload from Washington Street and the family can properly introduce you to their suite."
+
+"Sounds like a plan," Garrett smiled, falling into step beside Mark and Isabel as they headed for the central elevator.
+
+### Scene 5: Introducing Garrett to Suite 214/216
+
+**Date:** 2015-01-11 at 14:40 America/New_York
+
+When the central elevator doors slid open on the second floor of **Bennett Hall**, **Daniel** and **Caleb Brooks** were waiting patiently just inside the upper ground-level **Washington Street SW** vestibule beside two residence-hall luggage carts stacked high with the nine students' rolling suitcases, winter bedding bags, and textbook crates.
+
+"Right on time!" Daniel grinned as **Jordan** rolled out of the elevator cab flanked by his eight friends, **Isabel**, and **Garrett Reynolds**.
+
+After quick handshakes at the door to introduce Daniel and Caleb to Garrett, eleven pairs of hands made short work of the luggage. While **Mark**, **Sarah**, and **Jessica** grabbed their own bags to run upstairs to `Room 312` and `Room 505` for two minutes before coming right back down, Daniel, Caleb, Garrett, and Isabel helped wheel the two heavy carts down the staggered isosceles corridor of the second-floor West Wing to **`Suite 214/216`**.
+
+Jordan tapped his OEA-encoded **Poly Pass** against the black reader outside **`Room 214`**, triggering the motorized opener so the heavy wooden door swung wide on its ten-second dwell timer.
+
+Once the suitcases were stacked neatly inside and Daniel and Caleb had helped Mark verify that Jordan’s **`Pinnacle Precisionist 5000`** workstation, dual 24-inch monitors, and **`Vanguard Pro`** dock were plugged cleanly into the surge-protected power strip on his desk, Daniel pulled Jordan into a warm, steady fatherly hug.
 
 "You have a great start to your second semester, son," Daniel smiled, resting a hand on Jordan’s shoulder. "We'll send you pictures in **`[Jordan Comms]`** every afternoon as the carpenter crew frames out the upper switchbacks on your ramp—and remember, Geneva Street is only thirty minutes down the bypass whenever you guys want to come home for Sunday dinner."
 
 <aac>Thank you for everything, Daniel, and thank you, Caleb! Tell Laura and the rest of the family we love them!</aac>
 
-Once Daniel and Caleb headed back out to the Washington Street lot and the six residents of `Suite 214/216` popped down to **Kelsey Brennan**’s first-floor office (`Room 104`) to sign the routine Spring Semester co-ed suite renewal form—while **Isabel** stepped into **`Room 215`** across the hall to finish organizing her own spring duty binder before her evening rounds—all nine members of the college crew gathered back inside **`Room 214`**.
+After Daniel and Caleb said their goodbyes and headed back out the Washington Street doors to drive home to Christiansburg, the nine college students turned their attention to giving **Garrett Reynolds** the official tour of **`Suite 214/216`**.
 
-The familiar room felt warm, lived-in, and completely secure. Clean sheets were tucked onto the beds, **Aubrie Jean**’s and Jordan’s matching Astrophysics textbooks sat lined up on the shelf above their desks, and the soft hum of the radiator filled the quiet afternoon.
+"Welcome to the fortress, Garrett!" **Madison** beamed, gesturing around **`Room 214`** before pointing through the open connecting bathroom doors into **`Room 216`**. "Over here in `214`, Jordan has the single Twin XL bed right next to his desk, **Aubrie Jean** has the lower bunk, and I have the top bunk. Then right through the shared Jack-and-Jill bathroom in `216`, **Zoë**, **Lauren**, and **Hannah** have their three beds and Zoë's logistics command whiteboard."
 
-Settling onto the wooden desk chair beside Jordan’s wheelchair while **Hannah** leaned against his knees and **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** relaxed on the lower bunk and the braided rug, **Mark** looked over at Jordan with a gentle, thoughtful smile.
+"And we keep the connecting bathroom doors unlocked whenever we're all hanging out so the two rooms function as one big living space," **Hannah** added warmly as she, Mark, Sarah, and Jessica stepped back in from dropping off their upstairs bags.
 
-"Hey, J," Mark said softly, keeping his voice calm and conversational so it wouldn't overwhelm Jordan after a busy travel day. "I wanted to mention something I noticed downstairs in the first-floor lobby earlier when **Isabel** came out from behind the desk to hug you."
+While Madison, Hannah, and Zoë walked Garrett through the layout of the two rooms, **Isabel** was already moving around Jordan’s desk with practiced, effortless familiarity—making sure his gooseneck desk lamp was angled so it wouldn't cast glare across his polycarbonate glasses, checking that his power strip cord was tucked completely clear of his wheelchair casters, and setting his spare towel folded neatly on the right-hand corner of the lowered roll-under sink where he could reach it without straining his torso.
 
-Jordan tilted his head curiously behind his glasses, resting his hands on his lap tray as he looked at his best friend.
+Standing near the center of `Room 214`, **Garrett Reynolds** listened attentively to Madison and Zoë—but out of the corner of his eye, **he quietly noticed how Isabel was around Jordan**.
 
-"When you looked down at your keyboard to type your message to her," Mark explained gently, "Isabel glanced back toward the front desk to grab her clipboard—and I saw **Kelsey** looking right at her."
+Having served two years as a Resident Advisor before his Fall engineering co-op, Garrett knew what standard RA helpfulness looked like. What Isabel was doing wasn't standard RA checklist work. Garrett noticed the way Isabel’s hazel eyes lingered on Jordan whenever he smiled at his keyboard, the way she unconsciously stood half a step closer to his wheelchair than anyone else in the room, and the soft, unmistakable warmth in her voice when she double-checked that his desk height felt comfortable.
 
-Around the room, Aubrie Jean, Madison, Lauren, and Sarah all looked over at Mark with quiet interest.
+Garrett’s calm expression didn't flicker by a millimeter, and **he did not say a single word**. He simply gave an approving nod as he took in the immaculate, supportive environment the nine friends had built.
 
-"Wait—was Kelsey mad that Isabel left the desk or got emotional in the lobby?" Lauren asked with a flicker of concern.
+"Honestly, seeing the setup in person makes it even clearer why Housing wants to use you guys as the model for the co-ed pilot," Garrett said warmly. "You nine have a better system running in here than most corporate engineering teams I worked with on co-op."
 
-"No—not even a little bit," Mark said, shaking his head warmly. "It was the exact opposite. Kelsey saw how closely Isabel held onto you, J, and how she was crying and blushing because she'd been so worried all break about your mom trying to take you back to Virginia Beach. When Isabel looked back at the desk, Kelsey didn't say a word out loud in front of Garrett or the lobby—she just gave Isabel this really quiet, knowing look, and then a slow, steady nod."
+With all the suitcases inside and classes starting tomorrow morning, it was time for the two second-floor RAs to let the residents of `Suite 214/216` finish unpacking.
 
-Jordan blinked, looking from Mark to Aubrie Jean and then typing a quiet question on his `Precisionist 5000`:
+Garrett stepped over to Jordan’s wheelchair, leaned down slightly so they were eye-to-eye, and offered Jordan a firm, warm **handshake**.
 
-<aac>What did Kelsey's nod mean?</aac>
+"Thank you for welcoming me into your home, Jordan," Garrett said sincerely. "My door down in **`Room 201`** is always open if you or the suite ever need anything."
 
-"It was Kelsey's way of telling her: *I see how much you care about him, and as long as you stay professional while you're his RA, I understand,*" Mark explained simply, never pushing an ounce past what Jordan needed to hear. "Usually Residence Life supervisors get nervous when an RA gets that attached to a resident on their hall. But Kelsey knows everything we went through in the fall, and she knows Isabel would walk through fire to keep this suite safe."
+<aac>Thank you, Garrett! We are really happy to have you on our floor!</aac>
 
-Mark’s eyes drifted toward the closed wooden door of **`Room 214`**—and the door of **`Room 215`** sitting just five feet across the staggered hallway—as a warm, knowing look settled over his face.
+Then **Isabel** turned to tell Jordan goodbye before stepping back across the hall to **`Room 215`**.
 
-"Honestly," Mark added quietly, exchanging a brief, understanding glance with Aubrie Jean and Madison, "with Henry in London this semester and everything your mom might still try to pull before August, I'm really glad **Isabel** is the one keeping an eye on things from right across the hall in `215`."
+Instead of a wave from the doorway, Isabel dropped smoothly to her knees beside his wheelchair for the second time that afternoon and wrapped both arms around his shoulders in **another tight, close, lingering hug**—pulling him snugly against her maroon Residence Life polo and resting her cheek against his shoulder for several long seconds before finally giving his back two gentle pats and rising to her feet with a soft, glowing smile.
 
-Sitting in his wheelchair with Aubrie Jean’s hand laced through his fingers, Jordan looked toward the hallway door and felt a deep, quiet warmth settle in his chest.
+"Just knock on `215` if you guys need anything while you're unpacking," Isabel said softly.
 
-He didn't know what the future held beyond Spring Semester—only that right across the hall in **`Room 215`**, his favorite CPI staff member was still standing watch over their home.
+As Isabel and Garrett stepped out into the second-floor corridor, the ten-second dormitory timer whirred quietly overhead, easing the heavy wooden door of **`Room 214`** shut until the latch clicked locked behind them.
+
+### Scene 6: Across the Hall in 215
+
+**Date:** 2015-01-11 at 15:15 America/New_York
+
+For three full seconds after the heavy wooden door of **`Room 214`** clicked locked behind **Isabel** and **Garrett**, the nine friends stood in the quiet room looking at the closed door.
+
+Then **Mark** pulled up the wooden desk chair beside **Jordan**’s wheelchair, sat down, and looked around at Jordan and the seven women with a calm, observant smile.
+
+"Okay," Mark said gently, keeping his voice low so it wouldn't carry into the hallway or overwhelm Jordan. "Now that the door is closed... can I share a couple of things I noticed over the last forty-five minutes?"
+
+On the lower bunk and across the braided rug, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Sarah**, and **Jessica** all leaned in, while Jordan turned his wheelchair slightly toward Mark and nodded curiously.
+
+"First, downstairs in the first-floor lobby," Mark began evenly, "when Isabel came rushing out from behind the front desk and hugged you, J—you were looking down at your keyboard typing your reply to her, so you didn't see what happened behind the counter. When Isabel wiped her tears and glanced back toward the desk to grab her clipboard, **Kelsey** was looking right at her. Kelsey didn't say a word out loud, because she'd never embarrass one of her RAs in front of the lobby—she just gave Isabel this really quiet, unmistakable *knowing look*, and then a slow, steady nod that basically said: *I see what you're feeling, and as long as you stay professional while you're his RA, I understand.*"
+
+"And then when Kelsey mentioned Daniel was waiting upstairs with the suitcases, Izzy volunteered to come help us about half a second before Kelsey even finished the sentence!" **Madison** whispered, her blue eyes wide as the pieces clicked together. "That's why Kelsey giggled when she let her off the desk!"
+
+"Exactly," Mark nodded. "And just now in here, while Isabel was adjusting your desk lamp and setting out your towels—and before she gave you that second tight hug at the door—**Garrett** noticed how she was acting around you, too. He's a sharp guy; he clocked it right away and didn't say a single word."
+
+Sitting in his wheelchair in front of his desk, Jordan rested his hands thoughtfully on the keys of his `Precisionist 5000`.
+
+Jordan knew the rules of **Bennett Hall** inside and out: **Isabel Dawson** was his Resident Advisor, and CPI Housing policy drew a strict professional line between RAs and the residents on their floor. Yet as Jordan thought back over the past hour, he tapped out an honest observation on his screen:
+
+<aac>I know the rules—Isabel is my RA. But I did notice that both of her hugs today, downstairs in the lobby and just now before she left our room, felt a lot closer and more affectionate than usual. Why do you think she hugged me like that?</aac>
+
+Mark exchanged a gentle, reassuring look with **Aubrie Jean**—who smiled warmly and reached over from the lower bunk to take Jordan’s left hand—before Mark leaned forward slightly to explain.
+
+"J, if I had to guess what's going on inside Isabel's head," Mark said softly, "I think she's experiencing something psychologists call the **Florence Nightingale Effect**."
+
+Jordan blinked behind his glasses, tilting his head in confusion before typing:
+
+<aac>Who is Florence Nightingale? And what is the Florence Nightingale Effect?</aac>
+
+"Florence Nightingale was a famous British nurse in the eighteen-hundreds who founded modern nursing by caring for wounded soldiers," Mark explained simply and clearly, making sure not to overload Jordan with jargon. "And in psychology, the **Florence Nightingale Effect** is what happens when someone who is in a caregiving or protective role helps a vulnerable person through a really scary, traumatic time—and as they watch that person heal, grow stronger, and come out of their shell, their protective care quietly turns into deep romantic feelings. They end up falling in love with the person they were protecting."
+
+Around the room, a quiet, collective hush fell over **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Sarah**, and **Jessica** as four months of subtle moments suddenly snapped into crystal-clear focus.
+
+"Think about it, J," Mark continued gently. "On your very first day here in August, Isabel was the one who unpacked your room and made your bed after your mom left you. She stood between you and the fire alarm in September—and remember that night outside on the lawn during the first fire drill, when you reached up and hugged her for the very first time and showed her your `105%` Astrophysics exam? She's been watching you grow from that terrified kid in August into the confident guy who just led us across campus today."
+
+"And there wasn't a shred of jealousy from any of us when she hugged you like that, Jordan," **Aubrie Jean** added softly, squeezing his hand with a warm, steady smile that **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** immediately echoed with affectionate nods around the room.
+
+Mark nodded in agreement, looking Jordan squarely in the eye.
+
+"Here's the most important thing, though, J," Mark advised gently. "Because Isabel *is* your RA right now—and because she takes her ethics and her CPI Housing scholarship seriously—she can't cross that line or say anything while we live on her floor. She's probably trying really hard to keep those feelings hidden behind her professional armor. So the best thing we can all do is **let Isabel be the one to decide when—and if—the time is ever right**, and not put her on the spot."
+
+Jordan read Mark’s words and nodded immediately, his expression earnest and completely settled. Resting his fingers on his `Precisionist 5000`, he typed out a firm promise for everyone in the suite to read:
+
+<aac>That makes complete sense, Mark. Thank you for explaining that to me. I understand completely—I will not push anything or bring it up to her at all. Isabel is our RA, and she has done so much to protect all of us. The last thing I would ever want to do is make her uncomfortable or damage the professional distance she needs to enforce for her job.</aac>
+
+"That's our guy," Mark smiled, clapping a warm hand onto Jordan’s shoulder before glancing toward the closed door of **`Room 214`**—and the door of **`Room 215`** sitting just five feet across the hallway—with a quiet, knowing look. "And honestly? Knowing how much she cares about you makes me even happier that **Isabel** is going to be keeping an eye on things from right across the hall in `215` this semester."
 
 # Jordan's World Trek
 
