@@ -4287,7 +4287,7 @@ Jordan didn't hesitate for a heartbeat. Smiling warmly at Lauren through his new
 
 With the evening winding down after their big expedition to Christiansburg, the three members of the family who didn't live in Suite 214/216 began gathering their backpacks to head back to their own floors for the night.
 
-"Alright, brother," Mark said, stepping up to Jordan's chair and leaning down to wrap him in a solid, brotherly hug before high-fiving him. "Get some rest tonight. Tomorrow we've got a whole three-day weekend ahead of us."
+"Alright, brother," Mark said, stepping up to Jordan's chair to clap a warm hand on his shoulder and bump knuckles with him before high-fiving him. "Get some rest tonight. Tomorrow we've got a whole three-day weekend ahead of us."
 
 Sarah stepped up next, wrapping her arms around Jordan's neck in a fierce, affectionate hug and pressing a warm kiss to his cheek. "Night, J. And night, Lauren—sleep like a rock tonight, mate. We're free."
 
@@ -8189,13 +8189,13 @@ Henry stepped right up beside Isabel, his expression softening with genuine brot
 
 Jordan looked from Isabel to Henry, the knot in his throat loosening into a rush of deep, aching gratitude.
 
-He didn't pull out his laptop, and he didn't offer Henry their usual hallway fist-bump. Instead, Jordan locked his wheelchair brakes, leaned forward slightly, and opened both arms wide toward his departing RA.
+He didn't pull out his laptop, and instead of offering Henry their usual quick hallway fist-bump, Jordan locked his wheelchair brakes, leaned forward slightly, and extended his right hand wide for a proper, man-to-man handshake—reaching up with his left hand to clasp over top of Henry's knuckles once their palms met.
 
-For a second, Henry blinked in surprise—remembering the terrified freshman boy on Move-In Day who had flinched whenever a staff member even looked at him—and then a deeply moved smile spread across Henry's face. Stepping right up to Jordan's chair, Henry leaned down and wrapped Jordan in a firm, genuine, brotherly hug, patting the back of his maroon sweater.
+For a second, Henry blinked in surprise—remembering the terrified freshman boy on Move-In Day who had flinched whenever a staff member even looked at him—and then a deeply moved smile spread across Henry's face. Stepping right up to Jordan's chair, Henry gripped Jordan's hand firmly and rested his free hand warmly on Jordan's shoulder.
 
 "You've come further in four months than any student I've ever met at CPI, Jordan," Henry said quietly, his voice thick with sincerity. "Keep crushing those stars next semester, okay? And hold down Floor 2 with Izzy until I get back."
 
-Jordan hugged him back tightly and gave a firm nod against Henry's shoulder before Henry straightened up to give Isabel one more warm hug at the threshold.
+Jordan gave Henry's hand a firm, grateful squeeze and nodded once with shining eyes before Henry straightened up to give Isabel one more warm hug at the threshold.
 
 ### Scene 13: Departure for Winter Break
 
