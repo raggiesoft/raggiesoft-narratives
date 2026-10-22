@@ -10836,7 +10836,9 @@ As the class broke into a fifteen-minute brainstorming workshop, **Hannah** turn
 
 Jordan didn't hesitate. Sitting upright in his wheelchair—no longer the boy who hid behind his bangs and waited for other people to speak for him, but proudly a **student and a man**—he opened his **`Pinnacle Vanguard Pro`** laptop on his lap tray, navigated to the university's administrative portal, and turned the screen so his eight friends could see.
 
-"We do **campus accessibility**," Jordan said, his voice quiet but steady and clear. "Specifically, we fix **this**."
+Jordan tapped his **`Pinnacle`** tablet keyboard, and his clear `NeoEdit` AAC voice spoke for the table:
+
+<aac>We do campus accessibility. Specifically, we fix this.</aac>
 
 On his screen was the official PDF document CPI provided to disabled students and visitors: *`CPI_Campus_Accessibility_Map_v2011.pdf`*.
 
@@ -10846,19 +10848,25 @@ All eight of his friends leaned in—and within three seconds, **Mark** and **Zo
 
 "It's worse than a cartoon," **Zoë** said, her purple-streaked hair falling forward as she inspected the file properties on Jordan's laptop. "It's a flattened, non-searchable raster image inside a PDF wrapper. There is zero text tagging, zero alt-text, zero keyboard navigation, and pale gray labels on a muddy beige background with a contrast ratio below `2.1:1`. A blind or low-vision student using a screen reader gets a completely blank page. This official accessibility map isn't even **WCAG 2.0** or **Section 508 compliant**!"
 
-"And the information on it is flat-out wrong," Jordan added, zooming in on the academic quad around **Walton Hall** and **Kepler Hall**. "Look at the icons. That blue symbol for a push-button door on Walton Hall isn't even near the actual accessible entrance—we use that entrance every day, and it's on the opposite side of the building. Half the automatic doors and curb ramps on campus aren't marked at all, and it doesn't list which restrooms are actually wheelchair-accessible or single-occupancy gender-neutral."
+Jordan zoomed in on the academic quad around **Walton Hall** and **Kepler Hall** and typed rapidly:
+
+<aac>And the information on it is flat-out wrong. Look at the icons. That blue symbol for a push-button door on Walton Hall isn't even near the actual accessible entrance—we use that entrance every day, and it's on the opposite side of the building. Half the automatic doors and curb ramps on campus aren't marked at all, and it doesn't list which restrooms are actually wheelchair-accessible or single-occupancy gender-neutral.</aac>
 
 Then Jordan scrolled the map down to the steep southeastern ridge of campus—right where **`Eleanor Bennett Hall`**, *"The Old Lady on the Hill,"* sat built into the cliffside.
 
-"And look at **Bennett Hall**," Jordan said, pointing at the blank maroon rectangle on the PDF. "There's nothing there. Not a single icon."
+Pointing at the blank maroon rectangle on the PDF, Jordan tapped out:
+
+<aac>And look at Bennett Hall. There's nothing there. Not a single icon.</aac>
 
 "Wait a second," **Lauren** said, frowning. "Bennett Hall has the hillside elevator! You go in the first-floor lobby at the bottom of the hill, take the elevator up to the second-floor lobby, and roll straight out onto the upper quad without climbing that brutal hill!"
 
-"Exactly," Jordan said, his green eyes shining with focused determination. "And when we went to the **Office of Educational Accessibility** in August, they told us that *any* disabled student on campus—even if they don't live in Bennett Hall—can have the `OEA` encode their **`Poly Pass`** student ID for **24/7 access to the first- and second-floor lobbies and elevator** as a **Hillside Elevator Pass-Through**, even after midnight when standard guest hours lock the building down. There are three other buildings built into hillsides on campus that work the exact same way—and **not a single one of them is mentioned on this map**."
+His green eyes shining with focused determination, Jordan typed his next paragraph and hit `SPEAK`:
+
+<aac>Exactly. And when we went to the Office of Educational Accessibility in August, they told us that any disabled student on campus—even if they don't live in Bennett Hall—can have the OEA encode their Poly Pass student ID for 24/7 access to the first- and second-floor lobbies and elevator as a Hillside Elevator Pass-Through, even after midnight when standard guest hours lock the building down. There are three other buildings built into hillsides on campus that work the exact same way—and not a single one of them is mentioned on this map.</aac>
 
 Jordan looked around at the eight faces of his family.
 
-"We can't ask the university for fifty million dollars to flatten the mountains or rebuild every nineteenth-century hall in one semester," Jordan said. "But modernizing these maps into a clean, **WCAG and Section 508 compliant** guide that points out every **curb ramp**, every **automatic door**, every **push-button door**, every **accessible restroom**, and every **hillside elevator pass-through** on campus? That doesn't cost millions. That's just honest engineering and accurate information—so the next freshman in a wheelchair who comes to CPI doesn't have to feel lost on their first week."
+<aac>We can't ask the university for fifty million dollars to flatten the mountains or rebuild every nineteenth-century hall in one semester,</aac> Jordan's AAC speaker continued steadily. <aac>But modernizing these maps into a clean, WCAG and Section 508 compliant guide that points out every curb ramp, every automatic door, every push-button door, every accessible restroom, and every hillside elevator pass-through on campus? That doesn't cost millions. That's just honest engineering and accurate information—so the next freshman in a wheelchair who comes to CPI doesn't have to feel lost on their first week.</aac>
 
 Around the back row of `Room 118`, eight proud, matching smiles broke out at once.
 
@@ -10928,7 +10936,9 @@ Jordan sat up straight in his wheelchair, listening intently.
 
 A wave of fierce, quiet pride rose in Jordan’s chest. For eighteen years, **Aubrie Sinclair** had treated him as a helpless prop who wasn't allowed to choose his own name, his own medical care, or even his own clothes. Daniel Brooks was handing him the clipboard of his own adulthood—and **Zoë** was already sitting at the end of the table with a three-ring archival binder labeled **`JORDAN FULLER — INDEPENDENT ADULT DECISIONS & SELF-ADVOCACY LOG`**, ready to file dated copies of every contract he signed.
 
-"Understood, Dad," Jordan said, his voice clear and steady. "Show me the options."
+Jordan nodded firmly and tapped his AAC tablet:
+
+<aac>Understood, Dad. Show me the options.</aac>
 
 Daniel smiled proudly and opened **Folder One: Domestic Health Insurance**.
 
@@ -10936,7 +10946,9 @@ Daniel smiled proudly and opened **Folder One: Domestic Health Insurance**.
 
 Jordan picked up the three comparison sheets, adjusting his glasses as he scanned the coverage tables line by line—checking durable medical equipment (`DME`), physical therapy, surgical coverage, and prescription tiers.
 
-"Option A only covers campus health and basic referrals, and an HMO would lock me out of out-of-region specialists if we travel," Jordan analyzed aloud, tapping the third sheet with a decisive finger. "I'm choosing **Option C—the Commonwealth BlueCross Platinum PPO**. And I want the HIPAA privacy directive attached so only **Laura Brooks**, **Daniel Brooks**, and **Aubrie Jean Kelly** are authorized medical emergency contacts."
+Tapping the third sheet with a decisive finger, Jordan typed out his analysis on his tablet:
+
+<aac>Option A only covers campus health and basic referrals, and an HMO would lock me out of out-of-region specialists if we travel. I'm choosing Option C—the Commonwealth BlueCross Platinum PPO. And I want the HIPAA privacy directive attached so only Laura Brooks, Daniel Brooks, and Aubrie Jean Kelly are authorized medical emergency contacts.</aac>
 
 "Smart choice, son," Daniel said, handing him the black ballpoint pen. Jordan reviewed the policyholder lines (`Jordan Fuller / Legal Name: Aubrey Jordan Fuller`), initialed the HIPAA privacy rider, and signed and dated the enrollment contract in his own steady hand.
 
@@ -10944,7 +10956,9 @@ Next, Daniel opened **Folder Two: International Travel & Medical Evacuation Insu
 
 "Item Two: **Jordan’s World Trek** this summer," Daniel said, a grin tugging at the corner of his mouth. "Once Spring Semester finishes in May, we are taking you around the globe—Canada, Europe, Japan, Australia, and cross-country across America. Regular domestic health insurance doesn't cover international hospitals or cross-border medical transport. Here are two international riders: **Plan 1** is a basic tourist reimbursement policy where you pay upfront and file claims later, and **Plan 2** is **GlobalTrekker Platinum Direct**—primary zero-deductible international medical coverage in 180+ countries, direct hospital billing, 24/7 prescription & durable-medical-equipment replacement if an airline ever damages a wheelchair, and $1,000,000 in guaranteed bed-to-bed aeromedical evacuation coverage."
 
-Jordan didn't even need thirty seconds to compare the two columns. "If we're crossing oceans with a wheelchair and cerebral palsy, a reimbursement-only tourist policy is way too risky," Jordan said firmly. "I choose **Plan 2—GlobalTrekker Platinum Direct**."
+Jordan didn't even need thirty seconds to compare the two columns before typing his decision:
+
+<aac>If we're crossing oceans with a wheelchair and cerebral palsy, a reimbursement-only tourist policy is way too risky. I choose Plan 2—GlobalTrekker Platinum Direct.</aac>
 
 He signed and dated the international policy application as Zoë logged the timestamp and slipped the duplicate into his self-advocacy binder.
 
@@ -10959,7 +10973,9 @@ Daniel pointed to the three specifications:
 
 Jordan stared down at the **`Vanguard Titan-X350`** specification sheet, his heart thumping against his ribs. Three hundred and fifty pounds of matte-black independence. No more waiting at the bottom of a steep campus walk hoping his shoulders wouldn't cramp. No more asking Mark, Lauren, or Aubrie Jean to strain their backs pushing him up the hill to Kepler Hall.
 
-"Model 1 can't handle gravel or steep grades, and Model 2 is just an indoor chair," Jordan said, his voice ringing with quiet, unmistakable authority as he pointed squarely to the third spec sheet. "I want **Model 3: the `Vanguard Titan-X350` in matte black**, with the right-hand proportional joystick and the heavy-duty hill-climbing package."
+Pointing squarely to the third spec sheet, Jordan typed with quiet, unmistakable authority:
+
+<aac>Model 1 can't handle gravel or steep grades, and Model 2 is just an indoor chair. I want Model 3: the Vanguard Titan-X350 in matte black, with the right-hand proportional joystick and the heavy-duty hill-climbing package.</aac>
 
 "The `Vanguard Titan-X350` in matte black it is!" **Mark** cheered, pumping his fist.
 
@@ -10988,7 +11004,9 @@ Around the kitchen island, the entire room went electric. Madison's hand flew to
 
 Jordan looked down at the two columns Daniel had sketched out on the pad, then looked around the warm, golden-lit kitchen at the people who had pulled him out of the dark.
 
-"Read it out, Dad," Jordan said softly, his voice steady.
+Jordan tapped his tablet key:
+
+<aac>Read it out, Dad.</aac>
 
 Daniel smiled at the word—he always did, a quiet crinkle at the corners of his eyes—and read down the first column.
 
@@ -11004,7 +11022,9 @@ Jordan looked at the eighteen names on the legal pad. For a second, his mind fli
 
 Mark caught Jordan's eye from across the oak table and gave him a tiny, understanding nod. Nothing needed to be said out loud in front of the whole kitchen. Isabel was their second-floor Resident Advisor. As long as they lived on her floor in Bennett Hall—and as long as she wore that staff lanyard—the professional boundary was absolute. Inviting his RA on a private family trip around the world would cross the exact line Jordan had promised himself he would protect for her sake. Whatever Isabel felt, and whatever Jordan was beginning to feel in return, belonged to a future where she wasn't on duty across the hall in Room 215.
 
-"Eighteen is the exact right number," Jordan said clearly, meeting Daniel's eyes and placing his palm flat on the yellow legal pad. "Let's lock the manifest at eighteen."
+Meeting Daniel's eyes and placing his palm flat on the yellow legal pad, Jordan typed:
+
+<aac>Eighteen is the exact right number. Let's lock the manifest at eighteen.</aac>
 
 "Locked at eighteen," Zoë announced with deep satisfaction, hitting `Ctrl+S` on her ThinkPad. "I have already cross-referenced the U.S. Department of State acceptance facility schedule and the `GOES` Trusted Traveler enrollment portal. This Saturday, January seventeenth, after we complete Operation 'File First' at the campus `VITA` tax clinic and finish Jordan's seating evaluation for the power chair, all eighteen of us are executing a synchronized paperwork blitz."
 
@@ -11032,7 +11052,9 @@ Jordan sat in his manual wheelchair in front of the terminal, his heart thumping
 
 For eighteen years, his mother had used that name—and that nine-digit number—as a piece of property on her own paperwork, another line item of control alongside the guardianship threats and the joint bank account she had drained in November.
 
-"Daniel and Mr. Miller both said this had to be my call," Jordan said, looking at the screen. "Because signing a federal tax return under penalty of perjury is a legal act of an independent adult."
+Looking at the screen, Jordan typed on his `Pinnacle` keyboard:
+
+<aac>Daniel and Mr. Miller both said this had to be my call. Because signing a federal tax return under penalty of perjury is a legal act of an independent adult.</aac>
 
 "Nobody else can sign `Form 8879` for you, Jordan," Zoë said softly, her hand resting on the back of his chair. "It's your signature. Your income. Your household."
 
@@ -11085,7 +11107,9 @@ For the next forty minutes, nobody made a decision for Jordan except Jordan.
 
 When Marcus asked which side the proportional `R-Net` color-screen joystick controller should be mounted on, Jordan tested both armrests and chose a swing-away right-hand mount with an integrated USB-C power tap to keep his phone and tablet charged during full days on campus. When Marcus presented three cushion options, Jordan tested the pressure-mapping mat and selected the dual-valve memory-foam and fluid-cell contour cushion that kept his lower spine aligned without restricting his breathing. When Marcus showed him the color swatches for the shroud accents, Jordan didn't hesitate.
 
-"Matte black all the way through," Jordan said, running his fingers over the anodized sample plate. "With the high-visibility amber and white LED path-lights integrated into the fenders for evening classes."
+Running his fingers over the anodized sample plate, Jordan tapped his AAC tablet:
+
+<aac>Matte black all the way through. With the high-visibility amber and white LED path-lights integrated into the fenders for evening classes.</aac>
 
 "Smart call," Marcus said, entering the specifications into the factory build sheet. "Blacksburg gets dark by five o'clock in the winter, and those fender LEDs light up twenty feet of sidewalk ahead of you. Now, custom complex-rehab fabrication takes roughly four to five weeks from factory sign-off to final delivery and programming. That puts delivery right around the third week of February."
 
@@ -11099,7 +11123,9 @@ As he rolled back out into the showroom lobby, Daniel clapped him gently on the 
 
 "How did that feel?" Daniel asked quietly.
 
-"Like I just ordered a tank," Jordan said, a real grin tugging at his lips. "And nobody had to push me up the ramp to do it."
+With a real grin tugging at his lips, Jordan typed:
+
+<aac>Like I just ordered a tank. And nobody had to push me up the ramp to do it.</aac>
 
 ### Scene 3: Eighteen Passports and NEXUS Cards
 
@@ -11119,7 +11145,7 @@ The acceptance agent, an older woman with kind eyes behind half-rim glasses, rev
 
 "First passport?" she asked warmly.
 
-"Yes, ma'am," Jordan said. Never in his life had he been further from Virginia Beach than his move to Blacksburg in August. Under his mother's roof, the world had ended at the edge of the driveway. Now, he was applying for a little navy-blue book that carried the seal of the United States and asked foreign borders to let him pass freely and safely.
+<aac>Yes, ma'am,</aac> Jordan's AAC tablet spoke as he nodded earnestly. Never in his life had he been further from Virginia Beach than his move to Blacksburg in August. Under his mother's roof, the world had ended at the edge of the driveway. Now, he was applying for a little navy-blue book that carried the seal of the United States and asked foreign borders to let him pass freely and safely.
 
 "Please raise your right hand and swear that the statements in this application are true and correct."
 
@@ -11135,7 +11161,7 @@ Jordan clicked `SUBMIT APPLICATION` on his screen. A confirmation number popped 
 
 Hannah leaned her chin on Jordan's shoulder, her golden-brown curls brushing his cheek as she looked at the three confirmation pages stacked neatly in his binder.
 
-"Look at you, Jordy," she murmured softly so only he and Aubrie Jean could hear. "Taxpayer. Power-chair captain. International traveler."
+"Look at you, Jordan," she murmured softly so only he and Aubrie Jean could hear. "Taxpayer. Power-chair captain. International traveler."
 
 Jordan reached up and covered Hannah's hand with his own, looking around the crowded, noisy dining room where eighteen people were laughing over passport photos and passing plates of Laura's fresh chocolate-chip cookies.
 
@@ -11171,7 +11197,7 @@ Jordan's heart gave a slow, heavy thud against his ribs. For months, a tiny, res
 
 He looked at Aubrie Jean first. His childhood best friend—his anchor since the very first day—met his gaze with a radiant, unhesitating smile and nodded.
 
-"I told you over Thanksgiving, Jordy," Aubrie Jean whispered, pressing her palm over his heart. "Love isn't a pie that runs out when you cut another slice. These are my sisters. There is nobody on earth I would rather share this life with."
+"I told you over Thanksgiving, Jordan," Aubrie Jean whispered, pressing her palm over his heart. "Love isn't a pie that runs out when you cut another slice. These are my sisters. There is nobody on earth I would rather share this life with."
 
 "What I am proposing," Zoë said, her voice dropping half an octave into its most sincere cadence, "is that we consciously upgrade the Pact. Not just a protective huddle, and not an accident of proximity. A deliberate, six-person relationship among the residents of Room 214—governed by complete honesty, explicit consent, the absolute No-Jealousy Rule, and the promise that Jordan's physical and emotional boundaries always set the pace."
 
@@ -11181,7 +11207,9 @@ Hannah lifted her head from Jordan's shoulder, her eyes bright with tears of hap
 
 Jordan looked around the twelve-foot mattress—at Aubrie Jean's steady blue eyes, Madison's warm grace, Zoë's fierce loyalty, Lauren's protective quiet strength, and Hannah's boundless, sunny tenderness. Every single one of them had stood between him and the dark when he had nothing to give them in return.
 
-"I spent eighteen years being told that I was broken and that nobody would ever want me," Jordan said, his voice thick with emotion but steady and clear. "And then I came to Bennett Hall, and the five of you proved every single word of that lie wrong. If you're asking me whether I want to belong to all five of you—under the No-Jealousy Pact, as equals, for good—my answer is yes. A hundred times yes."
+With his eyes shining with emotion, Jordan reached for his tablet resting on the mattress beside him and typed from the bottom of his heart:
+
+<aac>I spent eighteen years being told that I was broken and that nobody would ever want me. And then I came to Bennett Hall, and the five of you proved every single word of that lie wrong. If you're asking me whether I want to belong to all five of you—under the No-Jealousy Pact, as equals, for good—my answer is yes. A hundred times yes.</aac>
 
 ### Scene 2: The First Night of the New Pact
 
@@ -11195,9 +11223,11 @@ Lauren rose first and dimmed the desk lamps until only the warm amber fairy ligh
 
 For Jordan, physical intimacy had once been a terrifying minefield of sensory overload and old shame. Tonight, surrounded by the five women he trusted with his life, every touch was slow, spoken, and completely safe.
 
-"Tell us what feels good, Jordy," Aubrie Jean whispered as she helped him unbutton his flannel shirt, her fingertips tracing the healed scars along his collarbone with infinite gentleness. "And tell us the second anything feels like too much."
+"Tell us what feels good, Jordan," Aubrie Jean whispered as she helped him unbutton his flannel shirt, her fingertips tracing the healed scars along his collarbone with infinite gentleness. "And tell us the second anything feels like too much."
 
-"Nothing feels like too much tonight," Jordan breathed, leaning his forehead against hers.
+Jordan leaned his forehead against hers and tapped a soft preset on his phone screen:
+
+<aac>Nothing feels like too much tonight.</aac>
 
 One by one, the invisible walls that separated survival from true intimacy dissolved in the amber glow. There was no competition, no sharp edges, and not a flicker of possessiveness anywhere on the vast mattress. When Madison kissed him—slow and tender, her hand cradling his jaw—Aubrie Jean was right beside them, her fingers braided through Madison's hair with a soft, breathless smile. When Lauren and Hannah drew the warm blankets over all six of them, pulling Jordan into the center of a tangled, skin-to-skin embrace where every heartbeat seemed to sync into a single rhythm, Zoë rested her cheek against his chest and let out the deepest, most peaceful sigh Jordan had ever heard from her.
 
@@ -11279,7 +11309,7 @@ Jordan's fingers flew across his `NeoEdit` keyboard, his eyes shining behind his
 
 The first three weeks of the spring semester had been the happiest twenty-one days of Jordan Fuller's life.
 
-When he rolled into Room 104 of Walton Hall at nine o'clock on Friday morning, February sixth, surrounded by all eight of his suite-mates for `ENGL 102`, nothing felt out of place. Outside, the sky over the Drillfield was a pale, cold February slate. Inside, Professor Arthur Pendelton was sketching a rhetorical triangle on the whiteboard while Jordan had his notebook open on the accessible wing-table beside Aubrie Jean.
+When he rolled into Room 104 of Walton Hall at nine o'clock on Friday morning, February sixth, surrounded by all eight of his suite-mates for `ENGL 102`, nothing felt out of place. Outside, the sky over the Drillfield was a pale, cold February slate. Inside, Professor Arthur Pendelton was sketching a rhetorical triangle on the whiteboard while Jordan had his laptop open on the accessible wing-table beside Aubrie Jean.
 
 At `9:28 AM`, Jordan felt a strange, dull tightness right behind the center of his breastbone.
 
@@ -11289,21 +11319,11 @@ At `9:31 AM`, the tightness stopped feeling like a muscle.
 
 A cold, clammy sweat broke out across his forehead and the back of his neck. His vision blurred at the edges as the dull ache behind his sternum suddenly twisted like an iron turnbuckle being cranked by a two-ton wrench.
 
-"Jordy?" Aubrie Jean whispered immediately, her pen freezing mid-word as she saw the color drain from his face. "Jordan, look at me—what's wrong?"
+"Jordan?" Aubrie Jean whispered immediately, her pen freezing mid-word as she saw the color drain from his face. "Jordan, look at me—what's wrong?"
 
-Jordan tried to answer her, tried to tell her that he just needed a second to catch his breath, but at `9:32 AM`, the turnbuckle snapped into a white-hot, crushing vise.
+Jordan tried to reach for the keys of his laptop to type that he needed a second to catch his breath, but at `9:32 AM`, the turnbuckle snapped into a white-hot, crushing vise.
 
-```
-[09:32:04] CRITICAL HARDWARE EXCEPTION — JORDAN.OS KERNEL PANIC
-  ├── Primary Fault: Acute Myocardial Infarction (Anterior STEMI)
-  ├── Telemetry: Crushing substernal pressure (10/10), left-arm/jaw radiation
-  ├── Autonomic Status: Diaphoresis, acute dyspnea, tachycardia -> bradycardic dip
-  └── Action: EMERGENCY HALT — ENGAGING EXTERNAL LIFE SUPPORT (THE PACT)
-```
-
-His fountain pen slipped from his fingers and clattered onto the linoleum floor. His right hand flew up and clawed at the front of his gray CPI sweatshirt as a searing band of pain shot straight through his chest, down the inside of his left arm to his ring finger, and up into the hinge of his jaw.
-
-"Can't—" Jordan gasped, his chest seizing as if an invisible elephant had knelt directly on his ribs. "Aubrie—my chest—"
+His right hand missed the keyboard completely and flew up to claw at the front of his gray CPI sweatshirt as a searing band of pain shot straight through his chest, down the inside of his left arm to his ring finger, and up into the hinge of his jaw. A ragged, silent gasp tore at his throat as his chest seized, as if an invisible elephant had knelt directly on his ribs, and he tapped two trembling fingers frantically against his sternum while looking at Aubrie Jean in sheer agony.
 
 The entire front row of Room 104 moved as a single, synchronized organism before Professor Pendelton had even turned around from the whiteboard.
 
@@ -11311,17 +11331,27 @@ The entire front row of Room 104 moved as a single, synchronized organism before
 
 Mark already had his phone at his ear, his voice booming with calm, unmistakable authority over the gasped murmurs of the lecture hall.
 
-"Blacksburg 911, I need an Advanced Life Support ambulance to Walton Hall, Room 104, first floor, east accessible entrance!" Mark called out clearly. "We have a nineteen-year-old male in a wheelchair presenting with acute crushing chest pain, left-arm radiation, and diaphoresis—suspected acute myocardial infarction!"
+"Blacksburg 911, I need an Advanced Life Support ambulance to Walton Hall, Room 104, first floor, east accessible entrance!" Mark called out clearly. "We have a nineteen-year-old non-verbal male in a wheelchair presenting with acute crushing chest pain, left-arm radiation, and diaphoresis—suspected acute myocardial infarction!"
 
 "Zoë, Lauren—clear the double doors to the east fire lane and hold the exterior push-button door open so the stretcher crew has a straight shot!" Madison ordered, pulling Jordan's medical binder card—the laminated sheet listing his medications, allergies, surgical history, and new `Commonwealth BlueCross Platinum PPO` policy—straight out of the side pouch of his backpack.
 
-"On it!" Zoë and Lauren sprinted for the hallway doors together, Zoë already dialing Daniel Brooks on her phone as she ran.
+"On it!" Zoë and Lauren sprinted for the hallway doors together, Zoë already dialing Daniel Brooks on her phone as she ran so he and Laura could head straight to the hospital from Christiansburg.
 
 Beside Jordan, Aubrie Jean was on her knees on his left side, both of her hands wrapped tightly around his trembling right hand while Sarah and Jessica formed a privacy screen between Jordan's chair and the stunned students in the upper tiers of the classroom.
 
-"I've got you, Jordy, I'm right here, you're not alone," Aubrie Jean whispered fiercely, pressing her forehead against his cold knuckles as tears spilled down her cheeks. "Just breathe with Hannah. Help is coming right now."
+"I've got you, Jordan, I'm right here, you're not alone," Aubrie Jean whispered fiercely, pressing her forehead against his cold knuckles as tears spilled down her cheeks. "Just breathe with Hannah. Help is coming right now."
 
-Through the roaring static in his ears and the crushing iron weight on his sternum, Jordan heard the distant wail of a siren rising across the Drillfield. He couldn't speak, and every breath felt like inhaling crushed glass—but as the paramedics burst through the east doors of Walton Hall with a cardiac monitor and a rolling gurney, five pairs of hands only let go of him when the EMTs lifted him onto the stretcher.
+Through the roaring static in his ears and the crushing iron weight on his sternum, Jordan heard the distant wail of a siren rising across the Drillfield. Every breath felt like inhaling crushed glass—and when the paramedics of `Medic 3` burst through the east doors of Walton Hall with a cardiac monitor and a rolling gurney, five pairs of hands only let go of him when the EMTs lifted him onto the stretcher and wheeled him rapidly out into the cold February air.
+
+At the open rear doors of the ambulance in the east fire lane, Aubrie Jean started to step up onto the diamond-plate bumper to climb in beside him, while Madison pressed the laminated medical packet into the lead paramedic's hand.
+
+"I'm sorry, ma'am—no civilians in the ambulance," the lead paramedic said firmly, holding up a gloved hand as his partner hoisted the stretcher rails into the floor locks. "We're running a hot Code STEMI alert and we need every inch of the patient module for resuscitation gear. We're taking him straight to `NRV Montgomery` in Christiansburg—meet us at the Emergency Department!"
+
+Before the rear doors slammed shut, Jordan locked eyes with Aubrie Jean through the oxygen mask and gave one weak, desperate squeeze of his fingers in the air toward her.
+
+"We'll be right behind you, Jordan!" Mark roared over the rising wail of the siren as he collapsed Jordan's titanium wheelchair with one practiced motion and hoisted the folded frame under his left arm. He turned to the group as `Medic 3` tore out of the fire lane onto Washington Street. "Nobody panic—Daniel and Laura are already driving up from Christiansburg to meet the ambulance at the bay doors! Come on, sprint to the Transit Center loop—**Blue Ridge Transit Route 1** leaves for Christiansburg and the hospital in ninety seconds!"
+
+Together, all eight of them took off at a dead run across the concrete plaza toward the **CPI Transit Center**, piling breathless onto the kneeling **Blue Ridge Transit Route 1 (`1 FALLING BRANCH`)** bus with Jordan's folded wheelchair secured in the front bay as the bus pulled out toward U.S. Route 460 behind the distant echo of the siren.
 
 ### Scene 2: The Emergency Room and Nuclear Medicine
 
@@ -11329,15 +11359,17 @@ Through the roaring static in his ears and the crushing iron weight on his stern
 
 The seven-mile run down U.S. Route 460 Bypass from Blacksburg to New River Valley Medical Center—`NRV Montgomery`—was a blur of wailing sirens, diesel vibration, and the rhythmic, urgent beeping of the 12-lead `LIFEPAK` monitor strapped beside Jordan's stretcher.
 
-Inside the back of the ambulance, Aubrie Jean rode buckled into the jump seat at his head, refusing to let go of his hand while the paramedic administered chewable aspirin, sublingual nitroglycerin, high-flow oxygen via nasal cannula, and intravenous morphine through an 18-gauge line in his right forearm.
+Inside the back of the ambulance, riding without his family while two paramedics worked over him in the cramped module felt terrifyingly disorienting, but the lead medic kept a steady hand on his shoulder while administering chewable aspirin, sublingual nitroglycerin, high-flow oxygen via nasal cannula, and intravenous morphine through an 18-gauge line in his right forearm.
 
-"ST-segment elevation in leads `V1` through `V4`," the paramedic spoke rapidly into his radio headset as the ambulance banked onto Route 114 toward the hospital. "Transmitting 12-lead ECG to `NRV Montgomery` ED now. Nineteen-year-old male, acute anterior wall STEMI. Calling a Code STEMI alert, ETA three minutes."
+"ST-segment elevation in leads `V1` through `V4`," the paramedic spoke rapidly into his radio headset as the ambulance banked onto Route 114 toward the hospital. "Transmitting 12-lead ECG to `NRV Montgomery` ED now. Nineteen-year-old non-verbal male, acute anterior wall STEMI. Calling a Code STEMI alert, ETA three minutes."
 
-When the rear doors of the ambulance flew open under the red-and-white canopy of the emergency department, Daniel and Laura Brooks were already standing beside the ambulance bay doors, having raced over from Christiansburg the second Zoë called them.
+When the rear doors of the ambulance flew open under the red-and-white canopy of the emergency department, **Daniel and Laura Brooks** were already standing right beside the ambulance bay doors, having raced up from their house in Christiansburg the second Zoë called them from Walton Hall.
 
-"Right here, son, we're right here!" Daniel called out, matching the stretcher's stride down the corridor as the trauma bay doors swung open.
+"Right here, son, we're right here!" Daniel called out, matching the stretcher's stride down the corridor as the trauma bay doors swung open, while Laura pressed a backup copy of Jordan's medical and insurance packet straight into the triage nurse's hands.
 
-Because Jordan had signed his own standalone insurance binder, Healthcare Power of Attorney, and HIPAA authorization forms three weeks earlier—and because Madison handed the triage nurse the laminated medical packet the second the second car pulled up—there was zero administrative confusion at the registration desk. Jordan's new `Commonwealth BlueCross Platinum PPO` coverage cleared in thirty seconds. Daniel, Laura, and the eight members of the Bennett Hall family were immediately badged as his authorized next-of-kin and care team, and not a single automated phone call or electronic alert went anywhere near Virginia Beach.
+Less than six minutes later, as **Blue Ridge Transit Route 1** pulled into the hospital transit stop out on Route 114, all eight members of the Bennett Hall family sprinted through the sliding glass doors of the Emergency Department waiting room with Mark carrying Jordan's folded manual wheelchair and Aubrie Jean carrying Jordan's backpack and `Pinnacle` AAC tablet.
+
+Because Jordan had signed his own standalone insurance binder, Healthcare Power of Attorney, and HIPAA authorization forms three weeks earlier—and because Daniel, Laura, and Madison had every laminated document ready at the desk—there was zero administrative confusion at registration. Jordan's new `Commonwealth BlueCross Platinum PPO` coverage cleared in thirty seconds. Daniel, Laura, and the eight members of the Bennett Hall family were immediately badged as his authorized next-of-kin and care team, and not a single automated phone call or electronic alert went anywhere near Virginia Beach.
 
 Inside Trauma Bay One, the emergency physician, Dr. Warren, stared at the printout of the 12-lead ECG and then looked down at nineteen-year-old Jordan on the gurney in disbelief.
 
@@ -11349,7 +11381,7 @@ Dr. Patel reviewed the chart history that Hannah and Zoë had compiled—the sev
 
 Jordan nodded weakly against the pillow, the oxygen prongs hissing softly in his nostrils. Even through the morphine haze, the dull, heavy ache in the center of his chest was still sitting there like a hot coal.
 
-"You're the boss of your body, Jordan," Daniel said, stepping up to the rail as the nurse held out the clipboard for the emergency imaging and catheterization consent. "Dr. Patel needs your signature to go in and look at that artery."
+"You're the boss of your body, Jordan," Daniel said, stepping up to the rail beside Aubrie Jean as the nurse held out the clipboard for the emergency imaging and catheterization consent. "Dr. Patel needs your signature to go in and look at that artery."
 
 Jordan looked at Dr. Patel, then at Daniel and Aubrie Jean. With his left hand—keeping his IV arm still—he took the pen and signed his name on the consent line.
 
@@ -11379,7 +11411,9 @@ Garrett stepped up to the right side of the bed. The tall senior engineering RA 
 
 "The whole second floor is pulling for you, man," Garrett said, resting a steady hand briefly on the steel foot-rail of the gurney. "Don't worry about a thing back at the Old Lady. We've got the floor locked down tight until you get back."
 
-"Thanks, Garrett," Jordan rasped softly through the oxygen cannula.
+With his `Pinnacle` phone propped on the overbed tray beside his non-IV hand, Jordan tapped out:
+
+<aac>Thanks, Garrett.</aac>
 
 Then Isabel stepped forward.
 
@@ -11395,7 +11429,9 @@ Beside her, Aubrie Jean didn't pull her hand back an inch. Instead, Aubrie Jean 
 
 Garrett noticed that quiet touch between Aubrie Jean and Isabel. Just as he had in the hallway of Suite 214/216 on move-in Sunday, Garrett didn't say a word; he simply turned slightly toward the door to give Isabel thirty seconds of visual cover while talking quietly with Mark.
 
-"I'm coming back, Isabel," Jordan promised softly, squeezing her fingers as best he could. "I've got a campus accessibility map to finish. And a power chair coming."
+Squeezing her fingers as best he could with his left hand, Jordan tapped the keys on his phone screen:
+
+<aac>I'm coming back, Isabel. I've got a campus accessibility map to finish. And a power chair coming.</aac>
 
 Isabel let out a shaky, relieved breath that was half-laugh, half-sob, and gave his hand one last tight squeeze before stepping back into formation beside Garrett and Kelsey just as two cardiac cath-lab nurses arrived at the door in blue lead aprons and scrub caps.
 
@@ -11471,7 +11507,7 @@ Instead, she found Aubrie Jean already kicking off her boots and curling into th
 
 "Tonight is my watch," Aubrie Jean said simply, her blue eyes calm and completely immovable. "Tomorrow night is Madison's. Sunday is Lauren's. And Zoë has already packed a go-bag for Roanoke."
 
-Daniel smiled faintly, kissing Jordan's forehead before squeezing Aubrie Jean's shoulder. "We'll be back at seven sharp in the morning with breakfast for the rotation crew, Jordy. Try to get some rest."
+Daniel smiled faintly, kissing Jordan's forehead before squeezing Aubrie Jean's shoulder. "We'll be back at seven sharp in the morning with breakfast for the rotation crew, Jordan. Try to get some rest."
 
 Once the rest of the family reluctantly headed down the elevator to sleep in shifts at the Christiansburg house and Bennett Hall, the heavy hospital door clicked shut, leaving only the rhythmic green glow of the cardiac monitor and the steady *whir-click* of the triple-channel `Alaris` IV pump pushing heparin and nitroglycerin into Jordan's arm.
 
@@ -11479,7 +11515,7 @@ By midnight, Jordan's mouth felt as if it were packed with hot desert sand. Beca
 
 And every single time the monitor ticked upward, before the nurse even reached the door, Aubrie Jean's thumb brushed across his knuckles in the dark.
 
-"I'm awake, Jordy," she whispered at two in the morning, Dipping a green sponge swab into a cup of crushed ice just enough to moisten his cracked lips without letting a drop go down his throat. "You're safe. The heparin is keeping the blood moving, and I'm right here."
+"I'm awake, Jordan," she whispered at two in the morning, Dipping a green sponge swab into a cup of crushed ice just enough to moisten his cracked lips without letting a drop go down his throat. "You're safe. The heparin is keeping the blood moving, and I'm right here."
 
 At four in the morning, when the phlebotomist came in for the third blood draw of the night and Jordan winced at the fresh needle stick in his bruised left arm, Aubrie Jean leaned her forehead against his temple and hummed the quiet melody they used to listen to on the porch swing in Virginia Beach when they were twelve years old—holding the dark at bay two hours at a time.
 
@@ -11509,7 +11545,9 @@ At four o'clock, Zoë, Lauren, and Madison arrived for the evening shift, bringi
 
 "Isabel and Garrett stopped by the suite at noon," Lauren reported softly, sitting beside Jordan's right rail and holding a cool washcloth across his forehead to soothe the nitroglycerin headache. "Isabel wanted to make sure you knew she watered the fern on your desk window and checked the radiator valve in Room 214 so your guitars and notebooks stay at a constant sixty-eight degrees."
 
-Jordan managed a tired smile against the pillow. "She's a good RA."
+Jordan managed a tired smile against the pillow and tapped his phone screen on the bed tray:
+
+<aac>She's a good RA.</aac>
 
 "The best," Zoë agreed from the corner chair, where she was monitoring the hourly weather radar out of Blacksburg and Roanoke on her ThinkPad. She frowned slightly at the swirling purple bands building over the Mississippi Valley. "Though I am increasingly displeased with the atmospheric pressure trough moving toward Southwest Virginia. Star City General needs to clear a bed tomorrow before that cold front collides with the Gulf moisture on Tuesday."
 
@@ -11525,15 +11563,19 @@ Once the corridor quieted down for the night, Madison lowered the top half of Jo
 
 "Thirty-six hours of `NPO`," Madison whispered, gently brushing a lock of damp hair back from his forehead. "How bad is the headache right now, sweetheart?"
 
-"About a four," Jordan admitted softly, his voice scratchy despite the ice swabs. "Mostly I'm just tired of staring at that ceiling tile and thinking about what they're going to have to do to my chest when I get to Roanoke."
+With his left hand, Jordan typed softly on his tablet propped on the overbed table:
+
+<aac>About a four. Mostly I'm just tired of staring at that ceiling tile and thinking about what they're going to have to do to my chest when I get to Roanoke.</aac>
 
 Madison's hazel eyes softened with deep, steady empathy. In the dim green glow of the telemetry monitor, she reached over and placed her warm palm gently over the center of his hospital gown, just above the telemetry leads.
 
-"Are you scared of the surgery, Jordy?" she asked quietly.
+"Are you scared of the surgery, Jordan?" she asked quietly.
 
 Jordan looked at her—at the woman who had sat across from him on the first night in Bennett Hall, who had held his hand in the VITA tax clinic and the mobility lab, and who had kissed him under the amber fairy lights on the night of the New Pact. With Madison, he didn't have to pretend to be invincible.
 
-"A little," Jordan whispered honestly. "After all the surgeries I had when I was a kid... waking up on a ventilator in an ICU brings back a lot of bad ghosts. Back then, every time I woke up in a hospital bed, my mother was standing over me telling the doctors how helpless I was, or telling me how much money and trouble I was costing her."
+Jordan swallowed past the dryness in his throat and typed honestly:
+
+<aac>A little. After all the surgeries I had when I was a kid... waking up on a ventilator in an ICU brings back a lot of bad ghosts. Back then, every time I woke up in a hospital bed, my mother was standing over me telling the doctors how helpless I was, or telling me how much money and trouble I was costing her.</aac>
 
 Madison's jaw tightened for a fraction of a second before her expression melted back into fierce, protective tenderness. She leaned in and pressed a slow, gentle kiss to his forehead, lingering there so he could feel the warmth of her breath against his skin.
 
@@ -11555,11 +11597,11 @@ Lauren, who had taken over the Sunday watch from Madison that morning, squeezed 
 
 "And here is the second piece of good news," Dr. Patel added, glancing at the red `NPO` sign above Jordan's bed. "Because your surgery is scheduled for a fixed six-o'clock slot tomorrow morning rather than an unscheduled weekend call-in, Dr. Hassan's anesthesia team has cleared you for a light, low-residue meal right now before your midnight `NPO` clock restarts."
 
-Ten minutes later, when the nurse brought in a tray with warm chicken broth, saltine crackers, applesauce, and a cup of real apple juice, Jordan thought it tasted better than a five-star banquet. Lauren sat on the edge of the bed and helped him steady the spoon with his non-IV hand while Daniel and Mark loaded Jordan's folded manual wheelchair and overnight bags into the back of Daniel's SUV for the thirty-five-mile drive up to Roanoke.
+Ten minutes later, when the nurse brought in a tray with warm chicken broth, saltine crackers, applesauce, and a cup of real apple juice, Jordan thought it tasted better than a five-star banquet. Lauren sat on the edge of the bed and helped him steady the spoon with his non-IV hand while Daniel and Mark loaded Jordan's folded manual wheelchair and overnight bags into the back of Daniel's van for the thirty-five-mile drive up to Roanoke.
 
-At two-thirty sharp, two critical-care flight and ground paramedics wheeled Jordan's transport cot out to the heavy-duty Type I mobile ICU ambulance waiting in the Christiansburg bay. Because hospital transport regulations allowed one family member to ride strapped into the forward passenger cab while the critical-care paramedic rode in the back monitoring the heparin and nitroglycerin pumps, Lauren climbed into the front cab with her phone open on the family group channel.
+At two-thirty sharp, two critical-care flight and ground paramedics wheeled Jordan's transport cot out to the heavy-duty Type I mobile ICU ambulance waiting in the Christiansburg bay. Because critical-care interfacility transport regulations prohibited civilian passengers from riding inside the ambulance while continuous vasoactive and anticoagulant infusions were running, the lead paramedic took Daniel's cell number so the ambulance crew could stay linked with the family vehicles on speakerphone, and Lauren climbed into Daniel's van alongside Daniel and Laura while Mark and the rest of the convoy queued up right behind them.
 
-"Convoy is rolling," Lauren texted into the group chat as the ambulance pulled out onto Route 114 toward Interstate 81 North, with Daniel's SUV and Mark's sedan falling into tight formation right behind the flashing rear amber strobes.
+"Convoy is rolling," Lauren texted into the group chat as the ambulance pulled out onto Route 114 toward Interstate 81 North, with Daniel's van and Mark's sedan falling into tight formation right behind the flashing rear amber strobes.
 
 Five miles up the highway, just as the ambulance began climbing the long grade of Christiansburg Mountain on `I-81 North`, the CB and emergency dispatch radio on the ambulance dashboard crackled to life:
 
@@ -11567,13 +11609,13 @@ Five miles up the highway, just as the ambulance began climbing the long grade o
 
 In the back of the ambulance, Jordan felt the vehicle slow and saw the critical-care medic look through the pass-through window at his driver.
 
-"We can't sit idling on the mountain for two hours with a patient on continuous nitroglycerin and heparin," the driver called back. "I'm taking the exit ramp onto Old `U.S. Route 11` down through Shawsville and Elliston!"
+"We can't sit idling on the mountain for two hours with a patient on continuous nitroglycerin and heparin," the driver called back. "I'm taking the exit ramp onto Old `U.S. Route 11` down through Shawsville and Elliston! Let the family convoy behind us know!"
 
-Up in the front cab, Lauren immediately keyed her speakerphone to Daniel and Mark in the cars directly behind them. "The ambulance is diverting off I-81 onto `U.S. Route 11` at the Christiansburg Mountain crest—stay right on our tail!"
+The critical-care medic tapped the speakerphone linked to Daniel's dashboard in the van directly behind them. "Mr. Brooks, I-81 North is shut down on the mountain grade—our driver is diverting off onto `U.S. Route 11` right here at the crest. Stay right on our tail!"
 
-*"Ten-four, we see your turn signal,"* Mark's voice crackled back with a grin. *"Tell Jordy the Rubber Duck convoy is staying bumper-to-bumper all the way down the mountain."*
+*"We see your turn signal, Medic One—we're right behind you,"* Daniel's voice came back warmly over the speakerphone, loud enough for Jordan to hear from his cot and smile. *"Tell Jordan the whole convoy is staying bumper-to-bumper all the way down the mountain."*
 
-Through the small tinted side window of the ambulance module, as the driver flipped on his primary clearing lights and guided the heavy rig down the steep, winding switchbacks of historic `U.S. Route 11` along the bottom of the valley, Jordan caught glimpses of Daniel's silver SUV and Mark's blue sedan tracking every curve behind them down the narrow two-lane road through Shawsville, Elliston, and Salem.
+Through the small tinted side window of the ambulance module, as the driver flipped on his primary clearing lights and guided the heavy rig down the steep, winding switchbacks of historic `U.S. Route 11` along the bottom of the valley, Jordan caught glimpses of Daniel's van and Mark's blue sedan tracking every curve behind them down the narrow two-lane road through Shawsville, Elliston, and Salem.
 
 Even with an interstate shut down between Christiansburg and Roanoke, his family hadn't let a single car get between them.
 
@@ -11629,7 +11671,7 @@ Having fallen in love with the twelve-hour, twenty-one-minute *Leviathan Cut* in
 
 *"See?"* Madison whispered fiercely over the video link from Room 214. *"Once Dr. Hassan fixes your heart tomorrow morning, we are strictly a Leviathan Cut household from here on out!"*
 
-*"We'll be right there in the waiting room at five-thirty tomorrow morning before they wheel you back, Jordy,"* Aubrie Jean whispered softly, leaning close to the webcam in Bennett Hall with her eyes shining. *"Every single one of us."*
+*"We'll be right there in the waiting room at five-thirty tomorrow morning before they wheel you back, Jordan,"* Aubrie Jean whispered softly, leaning close to the webcam in Bennett Hall with her eyes shining. *"Every single one of us."*
 
 At eleven-fifty-five that night, as the end credits of *The Silver Gauntlet of Aethel* rolled across the laptop and the midnight `NPO` clock officially locked in, Lauren held Jordan's hand until he finally drifted into a thin, restless sleep.
 
@@ -11649,9 +11691,9 @@ Jordan lay propped at thirty degrees in a fresh warm-air surgical gown, his ches
 
 "Hey, little brother," Megan whispered, leaning down first to kiss his cheek. "I told my team in Reston that I'm working from Christiansburg for the next two weeks. When you get discharged from Roanoke, you and I are going to be daytime work buddies in the basement."
 
-"Deal," Jordan murmured, his lips curving into a sleepy smile.
+Jordan's lips curved into a sleepy smile as he gave her a firm thumbs-up.
 
-Mark stepped up next, resting his large, steady hand briefly on the rail beside Jordan's shoulder while Sarah and Jessica stood right behind him. "You've got the strongest engine in the valley, Jordy. Let Dr. Hassan bolt the new fuel line on, and we'll see you on the other side."
+Mark stepped up next, resting his large, steady hand briefly on the rail beside Jordan's shoulder while Sarah and Jessica stood right behind him. "You've got the strongest engine in the valley, Jordan. Let Dr. Hassan bolt the new fuel line on, and we'll see you on the other side."
 
 Then the five women of the Pact gathered in close—Lauren and Hannah on his right, Madison and Zoë at the foot and shoulder, and Aubrie Jean right at his left temple.
 
@@ -11667,7 +11709,7 @@ Finally, Aubrie Jean leaned her forehead against his, her blue eyes filling his 
 
 "I love you, Jordan Fuller," Aubrie Jean whispered. "See you in a few hours."
 
-"Love you all," Jordan breathed as the gurney began to roll backward down the bright white corridor toward Cardiothoracic Operating Room One.
+As the gurney began to roll backward down the bright white corridor toward Cardiothoracic Operating Room One, Jordan tapped his hand gently over his heart and signed *I love you* to all of them.
 
 The last thing he saw before the double steel doors swung shut and the anesthesia mask settled gently over his face was eleven people standing shoulder-to-shoulder in the hallway—a human fortress that had followed him all the way to Roanoke.
 
@@ -11721,7 +11763,7 @@ A clear high-flow oxygen mask was placed over his mouth and nose. Jordan coughed
 
 Standing right beside his left rail, with the nurse's nodding permission at last, Aubrie Jean reached out and laid her warm palm gently over his fingers.
 
-"Hey, Jordy," she whispered, tears of pure gratitude slipping down her cheeks. "You made it. Your heart is fixed."
+"Hey, Jordan," she whispered, tears of pure gratitude slipping down her cheeks. "You made it. Your heart is fixed."
 
 Jordan looked up at her through foggy, exhausted eyes, felt the deep, spliced ache down the center of his breastbone—and felt the warm, unmistakable beat of a heart that finally had all the blood it needed. He couldn't speak past the raw soreness of his throat, so he simply closed his fingers weakly around hers and drifted back into deep, healing sleep.
 
@@ -11761,7 +11803,7 @@ Jordan's eyes locked onto hers above the fogged plastic cone of the mask.
 
 She tapped two fingers gently against his wrist in a slow, precise four-second cadence.
 
-"Sync your clock to mine, Jordy," Zoë whispered. "Don't pull the air in—just open your throat and let the pressure fill your lungs for four counts. One... two... three... four. Now let the valve catch you on the exhale for six counts. One... two... three... four... five... six."
+"Sync your clock to mine, Jordan," Zoë whispered. "Don't pull the air in—just open your throat and let the pressure fill your lungs for four counts. One... two... three... four. Now let the valve catch you on the exhale for six counts. One... two... three... four... five... six."
 
 Jordan stopped fighting the silicone seal. Focusing entirely on the steady rhythm of Zoë's fingers tapping against his wrist and the calm certainty in her eyes, he let the positive pressure do the work.
 
@@ -11797,7 +11839,9 @@ And in a smaller inset window at the top corner of the screen, dialing in over t
 
 *"We wanted to drive up to Roanoke this afternoon to check on you in person, Jordan,"* Kelsey said warmly from the Bennett Hall window, where snow was piled halfway up the casement glass behind her desk. *"Wait—between the campus closure and the State Police shutting down I-81 at Christiansburg Mountain, Housing locked all three of us down on storm duty right here in the Old Lady. How are they treating you up in the Star City?"*
 
-"Like royalty," Jordan said, his voice still a little raspy from Monday's intubation tube, though strong enough to pick up clearly on Zoë's microphone as he held his red heart-shaped sternal pillow against his chest. "Zoë talked me out of a fight with a CPAP machine this morning, and Dr. Hassan took the chest tubes out at noon."
+Holding his red heart-shaped sternal pillow against his chest with one arm, Jordan typed on his `Pinnacle` tablet so the `NeoEdit` voice rang out clearly over Zoë's microphone:
+
+<aac>Like royalty. Zoë talked me out of a fight with a CPAP machine this morning, and Dr. Hassan took the chest tubes out at noon.</aac>
 
 In the Bennett Hall camera window, standing just over Kelsey's left shoulder alongside Garrett, Isabel let out a visible breath of relief. Because she was on storm duty in the Hall Director's office, she kept her hands clasped neatly in front of her maroon CPI sweater, but her dark eyes never left Jordan's face on the monitor.
 
@@ -11827,41 +11871,49 @@ Here in the CVICU step-down room, Jordan couldn't roll onto his side, couldn't l
 
 "Your resting heart rate has averaged sixty-eight beats per minute for the last ninety minutes," Zoë murmured softly, her dark eyes warm as she watched the steady green sinus trace above them. "And your pain score hasn't crossed a three since dinner. Being snowed in with you in Roanoke is significantly less stressful than Friday afternoon was."
 
-"That's because you literally talked my lungs into working this morning," Jordan said quietly, turning his head on the pillow to look at Zoë, then glancing over at Aubrie Jean on the screen. "Both of you... when I was lying on that table in the cath lab on Friday, and again yesterday morning before they wheeled me into the OR, all I could think about was how lucky I am that I get to come home to our family."
+Turning his head on the pillow to look at Zoë and then glancing over at Aubrie Jean on the screen, Jordan typed on his tablet:
 
-*"You scared ten years off all of our lives on Friday morning, Jordy,"* Aubrie Jean whispered through the tablet speaker, her blue eyes soft and luminous in the lamplight from Christiansburg. *"When you slumped over in Walton Hall, my whole world stopped. Watching you sit here tonight with a fixed heart... I don't think I've ever been more grateful for anything."*
+<aac>That's because you literally talked my lungs into working this morning. Both of you... when I was lying on that table in the cath lab on Friday, and again yesterday morning before they wheeled me into the OR, all I could think about was how lucky I am that I get to come home to our family.</aac>
+
+*"You scared ten years off all of our lives on Friday morning, Jordan,"* Aubrie Jean whispered through the tablet speaker, her blue eyes soft and luminous in the lamplight from Christiansburg. *"When you slumped over in Walton Hall, my whole world stopped. Watching you sit here tonight with a fixed heart... I don't think I've ever been more grateful for anything."*
 
 Jordan looked down at the red heart-shaped sternal pillow resting on his chest, then looked back up at Zoë beside him and Aubrie Jean on the video call.
 
 For a long moment, he listened to the soft hiss of the radiator beneath the window and the muffled brush of snow against the glass. Surviving open-heart surgery had a way of burning off every ounce of hesitation about saying things out loud.
 
-"Can I tell you two something?" Jordan asked quietly. "Something honest that crossed my mind earlier tonight when Kelsey, Isabel, and Garrett called in from Bennett Hall?"
+Jordan paused, his fingers hovering over the keys before he typed:
 
-"Anything, Jordy," Zoë said immediately, her thumb brushing across the back of his knuckles. "Always."
+<aac>Can I tell you two something? Something honest that crossed my mind earlier tonight when Kelsey, Isabel, and Garrett called in from Bennett Hall?</aac>
+
+"Anything, Jordan," Zoë said immediately, her thumb brushing across the back of his knuckles. "Always."
 
 *"You know you can tell us anything,"* Aubrie Jean echoed warmly.
 
 Jordan took a slow, careful breath against his sternal splint.
 
-"Tonight, when I was watching the snow come down outside the window and thinking about how Zoë got trapped up here in Roanoke with me," Jordan said softly, "I finally admitted something to myself that I've sort of been tiptoeing around since move-in Sunday."
+Jordan looked from Zoë to Aubrie Jean and typed carefully:
+
+<aac>Tonight, when I was watching the snow come down outside the window and thinking about how Zoë got trapped up here in Roanoke with me, I finally admitted something to myself that I've sort of been tiptoeing around since move-in Sunday.</aac>
 
 He met Zoë's eyes first, then Aubrie Jean's.
 
-"If the timing had been different today," Jordan confessed quietly, "I realized I would have been okay with Isabel being trapped in the hospital with me, too."
+<aac>If the timing had been different today,</aac> Jordan confessed via his AAC speaker, <aac>I realized I would have been okay with Isabel being trapped in the hospital with me, too.</aac>
 
 On the overhead monitor, his heart rate ticked up slightly from `68` to `76`—not from pain, but from the sheer vulnerability of saying it out loud to two of the women he loved.
 
-"I know she's my RA," Jordan added quickly, wanting them to know his head was clear. "I know why she wasn't on the World Trek manifest, and I know nothing can happen while she's our Resident Advisor in Bennett Hall. I promised Mark and I promised myself on move-in Sunday that I would never cross that line or put her position in danger. Wait—I keep remembering what Mark explained to me in Room 214 about the **Florence Nightingale Effect**. About how hard she fought to protect me all through fall semester, how she cried in the lobby when I came back safe from Virginia Beach, and the way she held my hand in `NRV Montgomery` on Friday right before they wheeled me into the cath lab."
+Wanting them to know his head was completely clear, Jordan typed quickly:
+
+<aac>I know she's my RA. I know why she wasn't on the World Trek manifest, and I know nothing can happen while she's our Resident Advisor in Bennett Hall. I promised Mark and I promised myself on move-in Sunday that I would never cross that line or put her position in danger. Wait—I keep remembering what Mark explained to me in Room 214 about the Florence Nightingale Effect. About how hard she fought to protect me all through fall semester, how she cried in the lobby when I came back safe from Virginia Beach, and the way she held my hand in NRV Montgomery on Friday right before they wheeled me into the cath lab.</aac>
 
 Jordan swallowed hard, looking from Zoë on the pillow beside him to Aubrie Jean on the screen.
 
-"I guess I just needed to ask the two of you," Jordan whispered. "If Isabel *wasn't* our RA... if that professional boundary wasn't in the way anymore... how would you two feel about her?"
+<aac>I guess I just needed to ask the two of you,</aac> Jordan typed softly. <aac>If Isabel wasn't our RA... if that professional boundary wasn't in the way anymore... how would you two feel about her?</aac>
 
 Neither Zoë nor Aubrie Jean hesitated for even half a second.
 
 On the tablet screen, a slow, radiant, completely unsurprised smile spread across Aubrie Jean's face.
 
-*"Jordy,"* Aubrie Jean said softly, her voice brimming with warmth, *"why do you think I put my hand right over Isabel's wrist at your bedside on Friday afternoon when she was trying so hard not to cry in front of Kelsey?"*
+*"Jordan,"* Aubrie Jean said softly, her voice brimming with warmth, *"why do you think I put my hand right over Isabel's wrist at your bedside on Friday afternoon when she was trying so hard not to cry in front of Kelsey?"*
 
 Jordan blinked in surprise. "You noticed then?"
 
@@ -11875,13 +11927,13 @@ Zoë looked over at Aubrie Jean on the tablet screen, and both of them nodded in
 
 "If Isabel were not our Resident Advisor," Zoë told him firmly, "she would be welcomed into the No-Jealousy Pact with open arms. By me, by Aubrie Jean, and by Madison, Lauren, and Hannah."
 
-*"One hundred percent,"* Aubrie Jean affirmed from Christiansburg, her eyes shining as she touched her fingertips to the camera glass. *"She already feels like a sister to us, Jordy. And right now, all of us—including you and Isabel—are doing the right, honorable thing by respecting the professional boundary she has to maintain while she's on staff in Bennett Hall. When the day comes that she isn't your RA anymore, and she's ready to step across that hallway without a badge on... there is already a place at our table and in our Pact waiting for her."*
+*"One hundred percent,"* Aubrie Jean affirmed from Christiansburg, her eyes shining as she touched her fingertips to the camera glass. *"She already feels like a sister to us, Jordan. And right now, all of us—including you and Isabel—are doing the right, honorable thing by respecting the professional boundary she has to maintain while she's on staff in Bennett Hall. When the day comes that she isn't your RA anymore, and she's ready to step across that hallway without a badge on... there is already a place at our table and in our Pact waiting for her."*
 
 The tension in Jordan's shoulders—the quiet guilt of wondering whether noticing Isabel's heart meant betraying the five women who had just pledged their lives to him—melted away completely.
 
 On the monitor above the bed, his heart rate drifted smoothly back down from `76` to `64`.
 
-"Thank you," Jordan whispered, his voice thick with emotion as Zoë leaned in and pressed a slow, feather-light kiss to his lips, careful not to put an ounce of weight on his chest, while Aubrie Jean smiled warmly at both of them through the glowing glass.
+<aac>Thank you,</aac> Jordan's tablet spoke softly as Zoë leaned in and pressed a slow, feather-light kiss to his lips, careful not to put an ounce of weight on his chest, while Aubrie Jean smiled warmly at both of them through the glowing glass.
 
 Outside, the February blizzard raged across the dark peaks of the Blue Ridge. Inside Room 612, held between Zoë's warmth at his side and Aubrie Jean's voice across the snowbound valley, Jordan closed his eyes and felt his newly mended heart beat strong and whole.
 
@@ -11911,7 +11963,9 @@ At four-fifty in the morning, as Jordan leaned back against the forty-five-degre
 
 Zoë turned around, brushing a lock of hair behind her ear. "What is funny at four-fifty-two in the morning?"
 
-"Just thinking," Jordan said softly, reaching out with his left hand to take hers as she climbed back under her blanket beside him, "that most college freshmen don't spend Valentine's week snowed in at a Roanoke cardiac unit measuring diuretic output every two hours."
+Reaching out with his left hand to take hers as she climbed back under her blanket beside him, Jordan typed softly on his phone:
+
+<aac>Just thinking that most college freshmen don't spend Valentine's week snowed in at a Roanoke cardiac unit measuring diuretic output every two hours.</aac>
 
 Zoë settled her head gently back onto the corner of his pillow, her fingers curling warmly around his.
 
@@ -11951,13 +12005,17 @@ Zoë immediately stopped beside him, glancing down at the live ECG waveform on t
 
 Jordan looked down at his chest, then looked up at Zoë with wide, wondering eyes.
 
-"No," Jordan whispered. "That's why I stopped."
+Jordan shook his head and tapped his `Pinnacle` phone mounted on the chair armrest:
+
+<aac>No. That's why I stopped.</aac>
 
 For months—maybe for all of fall semester whenever he pushed hard up the hills of Blacksburg or hit an emotional spike—he had gotten so used to a dull, burning heaviness behind his breastbone whenever his heart rate passed ninety that he had assumed everyone's chest felt like that when they worked hard.
 
 Right now, his heart was beating at ninety-two beats per minute after twenty minutes of seated physical therapy—and behind the surface soreness of his sternal incision, the center of his chest felt wide open, warm, and effortlessly oxygenated.
 
-"My heart isn't starving for blood anymore," Jordan breathed, a huge, luminous smile breaking across his face.
+A huge, luminous smile broke across Jordan's face as he typed:
+
+<aac>My heart isn't starving for blood anymore.</aac>
 
 Zoë reached down and squeezed his shoulder gently, her dark eyes shining. "Sixty-eight milliliters per minute through a wide-open Left Internal Mammary Artery graft. Your engine finally has the fuel line it needed all along."
 
@@ -12043,7 +12101,9 @@ Then came the first real disagreement the family had had all semester.
 
 It started when Mark rolled Jordan's manual wheelchair up to the doorway, and Jordan looked up at Daniel and Aubrie Jean.
 
-"When we get back down `I-81`," Jordan said, trying to make his voice sound firmer than his four-day-old sternal wires felt, "we're taking the exit for Blacksburg and going straight back to Suite 214 in Bennett Hall, right? My textbooks for `ENGL 102` and `HIST 115` are on my desk, and I don't want to drop back into being a helpless patient hiding out in Christiansburg."
+With his tablet resting on the overbed table in front of his sternal pillow, Jordan typed out the question he had been holding onto all morning:
+
+<aac>When we get back down I-81, we're taking the exit for Blacksburg and going straight back to Suite 214 in Bennett Hall, right? My textbooks for ENGL 102 and HIST 115 are on my desk, and I don't want to drop back into being a helpless patient hiding out in Christiansburg.</aac>
 
 Around the room, Daniel, Laura, Aubrie Jean, Madison, Zoë, Lauren, Hannah, and Mark all exchanged a quiet look.
 
@@ -12053,15 +12113,17 @@ Nobody shouted, and nobody pulled rank over him. Instead, Daniel pulled the roll
 
 Hannah stepped forward first, holding up the bright yellow **Sternal Precautions** sheet from his discharge binder.
 
-"Jordy, right now your breastbone is literally in two halves held together by stainless-steel wire," Hannah said softly, her eyes earnest. "For the next six weeks—and especially during these first ten days before early bone callus forms—you cannot push the rims of your manual wheelchair, you cannot pull open Bennett Hall's thirty-pound solid-oak fire doors, and you cannot brace yourself with your arms during bathroom transfers. Your *Titan-X350* power wheelchair isn't scheduled for final delivery until next Saturday, February twenty-first."
+"Jordan, right now your breastbone is literally in two halves held together by stainless-steel wire," Hannah said softly, her eyes earnest. "For the next six weeks—and especially during these first ten days before early bone callus forms—you cannot push the rims of your manual wheelchair, you cannot pull open Bennett Hall's thirty-pound solid-oak fire doors, and you cannot brace yourself with your arms during bathroom transfers. Your *Titan-X350* power wheelchair isn't scheduled for final delivery until next Saturday, February twenty-first."
 
-"We could push his manual chair for him on campus," Jordan started to say, though he heard the hesitation in his own voice.
+<aac>You guys could push my manual chair for me on campus,</aac> Jordan typed, though even as his finger hit `SPEAK`, he knew how fragile his chest still felt.
 
 "We could," Zoë agreed calmly, stepping up beside Hannah. "Wait—look at the nighttime risk vector in Room 214. On the twelve-foot Alaskan King bed, six of us sleep together under the same blankets. Even if all five of us stay awake half the night trying not to move, a human being in REM sleep cannot guarantee that an elbow or a knee won't shift across the mattress at three in the morning. One accidental bump against your chest before your sternum fuses could snap a wire or cause a sternal wound infection that puts you right back in the operating room."
 
 Jordan looked down at the red heart pillow in his lap. He felt a sudden sting of frustration behind his eyes—not at his family, never at them, but at a body that always seemed to demand another week of caution right when he had finally started living like a normal college student.
 
-"I just..." Jordan swallowed hard, his voice dropping to a quiet rasp. "On Move-In Sunday, when we came back to Bennett Hall, I finally felt like a student and a man. Not a kid trapped in a bedroom waiting for someone to take care of him. I was afraid that if I left Bennett Hall again, it would feel like going backward."
+Jordan swallowed hard and typed quietly on his tablet:
+
+<aac>I just... On Move-In Sunday, when we came back to Bennett Hall, I finally felt like a student and a man. Not a kid trapped in a bedroom waiting for someone to take care of him. I was afraid that if I left Bennett Hall again, it would feel like going backward.</aac>
 
 Aubrie Jean immediately knelt down in front of him, resting her hands gently on his knees below the sternal pillow.
 
@@ -12075,7 +12137,9 @@ Jordan looked around the circle of faces in Room 612. Not one person was treatin
 
 He let out a long breath and nodded firmly.
 
-"Option B," Jordan said clearly. "Take me to Christiansburg until the power chair arrives. Let's protect the graft."
+Jordan nodded firmly and tapped his keyboard:
+
+<aac>Option B. Take me to Christiansburg until the power chair arrives. Let's protect the graft.</aac>
 
 ### Scene 2: Sternal Precautions and the Recovery Protocol
 
@@ -12123,9 +12187,11 @@ That night, after Laura brought down a low-sodium salmon dinner and the rest of 
 
 Between them lay the firm cylindrical bolster pillow, positioned at chest height like a soft velvet guardrail so neither of them could roll into his incision during the night. Above the bolster, however, Aubrie Jean reached across and laced her warm fingers through Jordan's right hand, resting her forehead lightly against his shoulder.
 
-"Four days out from open-heart surgery, and you're home in a real bed," Aubrie Jean whispered in the soft amber glow of the basement fireplace. "How does your chest feel tonight, Jordy?"
+"Four days out from open-heart surgery, and you're home in a real bed," Aubrie Jean whispered in the soft amber glow of the basement fireplace. "How does your chest feel tonight, Jordan?"
 
-"Sore," Jordan whispered back honestly, listening to the quiet crackle of the hearth across the room instead of the shrill beeping of hospital IV pumps. "Wait—every time I breathe in, my chest feels warm all the way through. And I'm home with you."
+Listening to the quiet crackle of the hearth across the room instead of the shrill beeping of hospital IV pumps, Jordan typed softly on his phone:
+
+<aac>Sore. Wait—every time I breathe in, my chest feels warm all the way through. And I'm home with you.</aac>
 
 ## Work Buddies and the Pact of Six
 
@@ -12155,7 +12221,9 @@ At the top of every hour, right on the dot, Megan didn't even have to say a word
 
 "Two thousand seven hundred and fifty," Megan noted approvingly over the rims of her glasses at eleven o'clock. "At this rate, by the time your matte-black tank shows up on Saturday, you're going to have better lung capacity than Caleb."
 
-"That's the `LIMA` graft talking," Jordan said, feeling the steady, painless beat of his heart beneath his flannel shirt as he highlighted another glaring flaw on CPI's 2003 rasterized campus PDF map. "For the first time in my life, sitting at a desk for three hours doesn't make me feel like I ran a marathon."
+Feeling the steady, painless beat of his heart beneath his flannel shirt as he highlighted another glaring flaw on CPI's 2003 rasterized campus PDF map, Jordan typed on his `Pinnacle` laptop:
+
+<aac>That's the LIMA graft talking. For the first time in my life, sitting at a desk for three hours doesn't make me feel like I ran a marathon.</aac>
 
 ### Scene 2: The Pact of Six on the Table
 
@@ -12167,31 +12235,37 @@ Specifically, her eyes lingered for a second on Section Two—the five-night rot
 
 A tiny, affectionate smile tugged at the corner of Megan's mouth as she stirred her soup. She didn't pry, and she didn't say a word—Wait, Jordan saw the look, and after everything he had survived in the last ten days, he realized he didn't want to hide behind polite ambiguity with his older sister.
 
-"Megan?" Jordan asked quietly, resting his spoon on the edge of his bowl.
+Resting his spoon on the edge of his bowl, Jordan tapped his tablet:
 
-Megan looked up warmly. "Yeah, Jordy?"
+<aac>Megan?</aac>
 
-"Can I put something honestly on the table with you?" Jordan asked, his posture straight even with the red heart pillow resting in his lap. "About that five-night rotation chart on the wall?"
+Megan looked up warmly. "Yeah, Jordan?"
+
+His posture straight even with the red heart pillow resting in his lap, Jordan typed:
+
+<aac>Can I put something honestly on the table with you? About that five-night rotation chart on the wall?</aac>
 
 Megan set her spoon down and folded her hands on the oak table, giving him her full, respectful attention. "Of course. Whatever you want to share with me, stays right here unless you say otherwise."
 
-"I don't even need it to be a secret inside this house," Jordan said steadily. "When I moved into Bennett Hall in August, sleeping in the same room with Aubrie Jean, Madison, Zoë, Lauren, and Hannah started out because I was having severe night terrors and panic attacks, and they refused to leave me alone in the dark. For months, they were my shield."
+<aac>I don't even need it to be a secret inside this house,</aac> Jordan typed steadily. <aac>When I moved into Bennett Hall in August, sleeping in the same room with Aubrie Jean, Madison, Zoë, Lauren, and Hannah started out because I was having severe night terrors and panic attacks, and they refused to leave me alone in the dark. For months, they were my shield.</aac>
 
 Megan nodded softly. "We saw how fiercely they guarded you over Fall Break and Thanksgiving."
 
-"Wait—over the winter, and especially after we came back to Bennett Hall in January and built the twelve-foot bed in Room 214, it stopped being just a crisis shield," Jordan said, looking his sister straight in the eye without flinching or apologizing. "In January, the six of us sat down in Room 214 and formalized what we call the **New Pact**—under a strict No-Jealousy Rule. Aubrie Jean isn't my only partner anymore. I'm in a committed, loving relationship with all five of them—Aubrie Jean, Madison, Zoë, Lauren, and Hannah—as equals. And they love each other as sisters."
+Looking his sister straight in the eye without flinching or apologizing, Jordan typed the next paragraph:
+
+<aac>Wait—over the winter, and especially after we came back to Bennett Hall in January and built the twelve-foot bed in Room 214, it stopped being just a crisis shield. In January, the six of us sat down in Room 214 and formalized what we call the New Pact—under a strict No-Jealousy Rule. Aubrie Jean isn't my only partner anymore. I'm in a committed, loving relationship with all five of them—Aubrie Jean, Madison, Zoë, Lauren, and Hannah—as equals. And they love each other as sisters.</aac>
 
 For two seconds, the basement was completely quiet except for the gentle hum of Megan's laptop fan.
 
 Then Megan let out a warm, low laugh and reached across the table to pat Jordan's left hand.
 
-"Jordy," Megan said, her hazel eyes crinkling with pure affection, "do you think Mom, Dad, and I are blind?"
+"Jordan," Megan said, her hazel eyes crinkling with pure affection, "do you think Mom, Dad, and I are blind?"
 
 Jordan blinked, feeling a flush of warmth rise up his neck. "You already knew?"
 
 "Little brother, I watched five women stand outside Operating Room One at five-thirty in the morning on Monday looking like they were ready to fight the Grim Reaper bare-handed if Dr. Hassan didn't bring you back to them," Megan said gently. "I saw Madison kiss your forehead on Valentine's Day morning, I saw Lauren hold your hand for three hours yesterday afternoon while reading you Roman history, and I listened to my little sister Zoë talk about keeping your lungs open in the Roanoke blizzard like you were the center of the solar system. Mom and Dad figured it out back around Thanksgiving, and I figured it out within ten minutes of walking into Star City General."
 
-"And... none of you think it's crazy?" Jordan asked softly.
+<aac>And... none of you think it's crazy?</aac> Jordan typed softly.
 
 Megan's expression turned deeply earnest. She leaned forward on her forearms, looking at him with the protective pride of an eldest sister.
 
@@ -12199,7 +12273,7 @@ Megan's expression turned deeply earnest. She leaned forward on her forearms, lo
 
 Jordan let out a breath he felt like he had been holding since Friday afternoon, a wide, grateful smile breaking across his face.
 
-"Thanks, Meg," Jordan said quietly.
+<aac>Thanks, Meg,</aac> Jordan's tablet spoke warmly.
 
 "Anytime, little brother," Megan grinned, picking her spoon back up and tapping the incentive spirometer with her knuckle. "Now hit `2,800` on that plastic tube before Hannah gets home from `CHEM 104` at four o'clock, or she's going to revoke my daytime caregiver license."
 
@@ -12217,17 +12291,21 @@ All nine members of Suite 214/216 were seated around the table, with Jordan pres
 
 They were finalizing their formal mid-semester proposal and prototype for Professor Arthur Pendelton's `ENGL 102` class: **The CPI Campus Accessibility Modernization Project**.
 
-"Look at the existing artifact the university hands to incoming disabled students," Jordan said, clicking open the official 2003 `cpi-campus-barrier-free-map.pdf` on the wall monitor.
+Clicking open the official 2003 `cpi-campus-barrier-free-map.pdf` on the wall monitor, Jordan triggered his `NeoEdit` presentation queue:
+
+<aac>Look at the existing artifact the university hands to incoming disabled students.</aac>
 
 His voice didn't tremble anymore when he spoke to a room. Even with stainless-steel wires holding his sternum together, the young man speaking at the head of the table was no longer the boy who had arrived in August afraid of his own shadow. He was proudly **a Student and a Man**—and he knew exactly what he was fighting to fix.
 
-"When you open CPI's current PDF map," Jordan explained, zooming in until the rasterized 150-dpi scan dissolved into a blurry soup of gray pixels, "it fails on every single technical and human level. First, as Zoë proved in our compliance audit, the file isn't even a tagged PDF. It has zero optical character recognition, zero `alt` descriptions, and zero semantic structure—which makes it completely invisible to screen readers and a flat violation of **Section 508 of the Rehabilitation Act** and **WCAG 2.1 Level AA**."
+Zooming in until the rasterized 150-dpi scan dissolved into a blurry soup of gray pixels, Jordan tapped the next slide's speech block:
+
+<aac>When you open CPI's current PDF map, it fails on every single technical and human level. First, as Zoë proved in our compliance audit, the file isn't even a tagged PDF. It has zero optical character recognition, zero alt descriptions, and zero semantic structure—which makes it completely invisible to screen readers and a flat violation of Section 508 of the Rehabilitation Act and WCAG 2.1 Level AA.</aac>
 
 "Second," Zoë added, clicking open her contrast-ratio matrix on the adjacent screen, "the visual design uses eight-point light-green and pale-yellow symbols printed over a gray topographic background—producing a contrast ratio of `1.6:1`, well below the mandatory `4.5:1` minimum for normal text and `3.0:1` for graphical UI components. A student with low vision or color blindness cannot read it at all, and even on a smartphone screen in bright daylight, it is hopelessly illegible."
 
 "And third—and worst of all—the map lies by omission about how a wheelchair user actually survives the hills of Blacksburg," Mark said, tapping his pencil against the laser-level field notes he, Lauren, and Sarah had gathered across campus all week while Jordan was recovering. "The current PDF drops a single generic blue wheelchair icon in the middle of a building without telling you *which* door is accessible, whether it's an automatic motion-sensor door or a wall-mounted push-button actuator door, or whether the curb ramp at the corner has a two-inch broken concrete lip."
 
-"Show them Layer Four, Jordy," Aubrie Jean said warmly from Jordan's left side, her eyes shining with pride as she handed him the laser pointer.
+"Show them Layer Four, Jordan," Aubrie Jean said warmly from Jordan's left side, her eyes shining with pride as she handed him the laser pointer.
 
 Jordan clicked the trackball and switched the wall display from the blurry 2003 PDF to their new high-contrast, dark-and-light-mode responsive vector blueprint: **`THE ACCESSIBLE POLYTECHNIC: A WCAG 2.1 AA & SECTION 508 CAMPUS NAVIGATION SYSTEM`**.
 
@@ -12255,11 +12333,13 @@ CPI ACCESSIBILITY BLUEPRINT — LAYER SCHEMA (WCAG 2.1 AA / SEC. 508)
 ========================================================================
 ```
 
-"Every single feature on our new map is separated into five distinct, high-contrast, shape-coded and color-blind-safe layers that work in both dark mode, light mode, and full screen-reader keyboard navigation," Jordan said, tracing the glowing cyan-and-gold vector routes across the Drillfield and the academic quads. "We didn't just mark buildings—we mapped every **curb ramp** on campus, every **automatic door**, every **push-button door**, and every **accessible restroom** down to the floor number and turning radius."
+Tracing the glowing cyan-and-gold vector routes across the Drillfield and the academic quads with the laser pointer, Jordan triggered the next AAC explanation:
+
+<aac>Every single feature on our new map is separated into five distinct, high-contrast, shape-coded and color-blind-safe layers that work in both dark mode, light mode, and full screen-reader keyboard navigation. We didn't just mark buildings—we mapped every curb ramp on campus, every automatic door, every push-button door, and every accessible restroom down to the floor number and turning radius.</aac>
 
 Then Jordan zoomed the blueprint in on the steep southeast ridge of campus—right onto the limestone footprint of **Bennett Hall**.
 
-"And here is the feature that CPI's official map doesn't even mention exists," Jordan said, his voice resonant with conviction. "The **Hillside Elevator Pass-Throughs**."
+<aac>And here is the feature that CPI's official map doesn't even mention exists,</aac> Jordan's AAC speaker rang out with clear conviction. <aac>The Hillside Elevator Pass-Throughs.</aac>
 
 On the screen, a bold gold vector line entered Bennett Hall's ground-level first-floor breezeway at the bottom of the hill, rose vertically through the central elevator shaft to the second-floor hallway, and exited flat onto the upper Geneva Street terrace—completely bypassing the brutal twelve-degree outdoor sidewalk grade that had nearly stopped Jordan's heart in the fall.
 
@@ -12269,7 +12349,7 @@ On the screen, a bold gold vector line entered Bennett Hall's ground-level first
 
 "They built the infrastructure into the hillside," Jessica said softly from across the table, "and then never put a single word about it on the campus map."
 
-"Until now," Jordan said, hitting `SAVE` on the master proposal packet that Professor Pendelton was going to review on Monday—and that they planned to present to the Office of Educational Accessibility and the University Architect at the end of the semester.
+<aac>Until now,</aac> Jordan's tablet concluded as he hit `SAVE` on the master proposal packet that Professor Pendelton was going to review on Monday—and that they planned to present to the Office of Educational Accessibility and the University Architect at the end of the semester.
 
 He leaned back against his chair and looked around the basement table at his eight suite-mates.
 
@@ -12293,9 +12373,11 @@ As Mark pushed Jordan's manual wheelchair—for what everyone at the table knew 
 
 Simply sitting at the head of a crowded restaurant table in a crisp navy button-down shirt, surrounded by normal Saturday chatter and sunlight pouring through the windows instead of hospital monitors, felt almost intoxicating.
 
-"Look at the menu, Jordy, and don't worry—I already talked to the kitchen manager when I called ahead," Laura said warmly, patting his arm as the server set down glasses of iced water with lemon. "They have an un-brined, low-sodium hickory-smoked turkey breast carved fresh off the pit, steamed collard greens with cider vinegar, and baked sweet potatoes with cinnamon."
+"Look at the menu, Jordan, and don't worry—I already talked to the kitchen manager when I called ahead," Laura said warmly, patting his arm as the server set down glasses of iced water with lemon. "They have an un-brined, low-sodium hickory-smoked turkey breast carved fresh off the pit, steamed collard greens with cider vinegar, and baked sweet potatoes with cinnamon."
 
-"That sounds incredible," Jordan said honestly, his appetite finally roaring back after two weeks of recovery trays.
+His appetite finally roaring back after two weeks of recovery trays, Jordan tapped his tablet with a grin:
+
+<aac>That sounds incredible.</aac>
 
 Down the eighteen-seat table, the energy was infectious. Twelve-year-old Lucas and ten-year-old Jacob were comparing notes with Mark and Sarah on which European castles had the best siege defenses for the summer trip, while Zoë announced that the U.S. Department of State online status tracker had officially moved all eighteen of their expedited passport applications from `IN PROCESS` to `APPROVED — PRINTING`.
 
@@ -12346,7 +12428,9 @@ With a whisper-quiet, futuristic turbine hum from the dual four-pole center-driv
 
 Around the driveway, Caleb, Ethan, Lucas, and Jacob burst into applause, while Daniel stood with his arm around Laura, beaming with pride.
 
-"There is only one real test for this chair," Jordan said, looking up at Daniel, Mark, and the five women of the Pact with a fierce glint in his eyes. "Take me up to Bennett Hall. I want to climb Geneva Street."
+Looking up at Daniel, Mark, and the five women of the Pact with a fierce glint in his eyes, Jordan tapped the AAC mount on his left armrest:
+
+<aac>There is only one real test for this chair. Take me up to Bennett Hall. I want to climb Geneva Street.</aac>
 
 ---
 
@@ -12358,9 +12442,9 @@ Jordan rolled down the van's power ramp onto the bottom of the sidewalk.
 
 He looked up the long, steep grade rising toward the limestone facade of Bennett Hall. Out on the second-floor balcony breezeway above the entrance, **Isabel Dawson** and **Garrett Reynolds** happened to be stepping out for their afternoon building walk—and both of them froze against the railing, staring down the hill in amazement as they saw Jordan sitting in the matte-black power chair at the bottom of the ridge.
 
-"Want us to walk behind you or beside you, Jordy?" Mark asked, his hands empty at his sides.
+"Want us to walk behind you or beside you, Jordan?" Mark asked, his hands empty at his sides.
 
-"Beside me," Jordan said clearly. "Nobody ever pushes from behind again."
+<aac>Beside me,</aac> Jordan's AAC speaker rang out clearly across the pavement. <aac>Nobody ever pushes from behind again.</aac>
 
 Jordan tapped the mode button on his right-hand joystick up to **`PROFILE 4: HILL CLIMB TORQUE`** and pushed the joystick forward with two fingers.
 
@@ -12397,9 +12481,11 @@ Jordan brought the *Titan-X350* to a smooth halt under the oak trees outside Ben
 
 Around him, the eight members of his family immediately tightened into formation—Mark stepping to his right flank, Lauren and Madison to his left, Aubrie Jean resting her hand on his shoulder, and Zoë already dialing Daniel and Arthur Miller on her phone.
 
-"My mother's tax return bounced," Jordan said quietly, his voice remarkably steady as the pieces clicked together in his mind. "When she tried to e-file her 2014 taxes in late February and claim my Social Security number as a dependent, the IRS computer rejected her return because of Operation 'File First.' And when she called the insurance company to find out why my pediatric policy wasn't billing anymore, she found out I wasn't under her thumb."
+As the pieces clicked together in his mind, Jordan typed with remarkable steadiness on his armrest tablet:
 
-"Which means she finally played the card she threatened you with over the phone before Thanksgiving," Zoë said calmly. "Are you ready to go inside, Jordy?"
+<aac>My mother's tax return bounced. When she tried to e-file her 2014 taxes in late February and claim my Social Security number as a dependent, the IRS computer rejected her return because of Operation File First. And when she called the insurance company to find out why my pediatric policy wasn't billing anymore, she found out I wasn't under her thumb.</aac>
+
+"Which means she finally played the card she threatened you with over the phone before Thanksgiving," Zoë said calmly. "Are you ready to go inside, Jordan?"
 
 Jordan rested two fingers on the joystick of his three-hundred-and-fifty-pound matte-black chair and nodded. "Let's go get the paperwork."
 
@@ -12411,7 +12497,9 @@ Isabel Dawson and Garrett Reynolds stood quietly just inside the inner hallway d
 
 "Afternoon, Mr. Fuller," Deputy Miller said gently, removing his Stetson hat and tucking it under his arm so he didn't look intimidating in the small office. "First off, let me tell you right up front: nobody is in trouble, nobody is going anywhere, and if I had my personal way, I wouldn't even be carrying this envelope up the hill. Unfortunately, under the Code of Virginia, when a Circuit Court clerk in another jurisdiction issues a civil summons, our civil division is required by law to hand-deliver it to the named respondent."
 
-"I understand, Deputy Miller," Jordan said evenly, guiding his power chair up to the edge of Kelsey's desk. "Thank you for asking Kelsey to handle it privately down here."
+Guiding his power chair up to the edge of Kelsey's desk, Jordan typed evenly:
+
+<aac>I understand, Deputy Miller. Thank you for asking Kelsey to handle it privately down here.</aac>
 
 Deputy Miller nodded with visible respect for the young man sitting tall in the matte-black power chair. He handed the thick blue-backed court packet directly to Jordan and held out his electronic service clipboard.
 
@@ -12431,7 +12519,9 @@ Jordan didn't cry. He didn't hyperventilate. And for the first time in his life,
 
 Instead, sitting in a three-hundred-and-fifty-pound power wheelchair he had selected and signed for himself, with a freshly healed sternal scar over a bypass graft he had consented to himself, Jordan closed the blue legal cover and looked up at Zoë and Mark.
 
-"She just lied under oath to a Virginia Circuit Court judge about things we have federal tax receipts, hospital surgical consents, and university transcripts to disprove," Jordan said quietly. "Let's call Mr. Miller and Dad."
+Jordan looked up from the parchment summons and typed calmly:
+
+<aac>She just lied under oath to a Virginia Circuit Court judge about things we have federal tax receipts, hospital surgical consents, and university transcripts to disprove. Let's call Mr. Miller and Dad.</aac>
 
 ### Scene 2: The War Council and the Hotel at Poly
 
@@ -12491,7 +12581,9 @@ Arthur looked down at Jordan at the head of the table.
 
 Jordan placed both hands on the mahogany table, looking around at the eleven people who had turned his life from a cage into a fortress.
 
-"File our response and a civil counterclaim for abuse of process," Jordan said clearly. "We meet the Guardian *ad Litem* here on Thursday, I finish my Cardiac Rehab session, and on Saturday morning we bug out to Bluewater until we march into Norfolk Circuit Court together."
+Jordan typed his decision clearly onto the conference speaker:
+
+<aac>File our response and a civil counterclaim for abuse of process. We meet the Guardian ad Litem here on Thursday, I finish my Cardiac Rehab session, and on Saturday morning we bug out to Bluewater until we march into Norfolk Circuit Court together.</aac>
 
 ## The Guardian's Assessment and the Breaking Point
 
@@ -12509,7 +12601,9 @@ When the lecture let out, Ms. Sharma walked down the ramped aisle with her crede
 
 "Mr. Fuller?" she said, her voice professional, measured, and completely neutral. "I am Anya Sharma, the Guardian *ad Litem* appointed by Judge Vance. Before we walk over to your residence hall for our private statutory interview, would you object if I spoke briefly with your professor?"
 
-"Not at all, Ms. Sharma," Jordan said politely, gesturing toward the lectern where **Dr. Alistair** was erasing a triple integral from the chalkboard. "Dr. Alistair teaches both my `MATH 112` Calculus class and my `PHYS 102` Physics class, and I already signed a `FERPA` waiver with the Registrar so he can speak freely with you."
+Gesturing politely toward the lectern where **Dr. Alistair** was erasing a triple integral from the chalkboard, Jordan typed on his `Pinnacle` tablet:
+
+<aac>Not at all, Ms. Sharma. Dr. Alistair teaches both my MATH 112 Calculus class and my PHYS 102 Physics class, and I already signed a FERPA waiver with the Registrar so he can speak freely with you.</aac>
 
 Dr. Alistair set down his chalk eraser, dusted his hands, and looked at Ms. Sharma over the top of his spectacles when she explained that a petition had been filed in Norfolk alleging that Jordan lacked the cognitive and personal capacity to manage his own affairs.
 
@@ -12586,21 +12680,13 @@ On the central telemetry wall monitor, Jordan's heart rate climbed to `129 BPM`�
 
 His hands slowed on the ergometer cranks as the burn in his shoulders and the ache in his throat collided at once.
 
-```
-[15:54:18] EMOTIONAL & PHYSICAL OVERLOAD — THE BREAKING POINT
-  ├── Telemetry: 131 BPM (Normal Sinus Rhythm — Graft Flow 100%)
-  ├── Ergometer Load: 45W Peak Interval (90 Seconds Remaining)
-  ├── Psychological Buffer: 0% (Post-Summons Cortisol Purge)
-  └── Status: ANCHOR REQUIRED
-```
-
-"I'm tired of her chasing me!" Jordan gasped out, his voice breaking as another sob shook his shoulders while he kept turning the heavy cranks through the tears. "I almost died four weeks ago—they sawed my chest open—and I still have to go prove to a judge in Norfolk that I'm a human being!"
+Another ragged, silent sob shook Jordan's shoulders as he kept turning the heavy cranks through the tears, every bit of his exhaustion and grief over his mother still chasing him—only four weeks after doctors had sawed his breastbone open to save his life—pouring out down his flushed cheeks.
 
 Elena reached toward the console as if to pause the interval, but Hannah glanced up at the clean, rock-steady sinus waveform on the telemetry screen and held up one finger.
 
 "His rhythm is completely clean, Elena—don't stop the clock," Hannah said fiercely, before dropping to one knee on Jordan's right side while Mark stepped in on his left and Aubrie Jean stood right behind his shoulders, resting her cool hands against the sides of his neck.
 
-"Don't stop turning those cranks, Jordy!" Mark roared softly right beside his ear, his voice booming with the steady strength that had carried Jordan out of a dozen storms. "Let it out! Cry every drop of that poison out of your blood, and keep turning the wheel! You aren't spinning this wheel for her—you're spinning it for you!"
+"Don't stop turning those cranks, Jordan!" Mark roared softly right beside his ear, his voice booming with the steady strength that had carried Jordan out of a dozen storms. "Let it out! Cry every drop of that poison out of your blood, and keep turning the wheel! You aren't spinning this wheel for her—you're spinning it for you!"
 
 "Sixty seconds left on the peak interval, Jordan!" Hannah called out, her eyes shining with tears of her own as she matched his breathing cadence beat for beat. "Look at that monitor! One hundred and thirty-one beats per minute and your heart isn't even flinching! Your chest is strong, your graft is open, and she can't touch you!"
 
@@ -12618,7 +12704,9 @@ Elena handed him a cool towel, her eyes wide with quiet admiration as she looked
 
 Jordan wiped his face with the towel, took a deep, clean breath that filled his lungs all the way to the bottom, and looked up at Aubrie Jean, Hannah, and Mark with a fierce, washed-clean smile.
 
-"The breaking point is behind us," Jordan said quietly. "Let's go pack for Bluewater."
+Reaching over to the AAC tablet mounted on his *Titan-X350* armrest, Jordan typed with steady fingers:
+
+<aac>The breaking point is behind us. Let's go pack for Bluewater.</aac>
 
 ## The Bluewater Bunker
 
@@ -12644,13 +12732,15 @@ Jordan felt a cold flicker of disgust in the pit of his stomach, though his hand
 
 "Wait—with ninety percent of the students gone for Spring Break this week," Isabel said, stepping directly up to Jordan's chair with fierce, protective urgency in her dark eyes, "Arthur Miller and your dad were a hundred percent right on Monday night. Even with the exterior doors locked, a nearly empty dorm is no place for you to be sitting for ten days while your mother's lawyers are fishing for an angle before court."
 
-"We're rolling out right now, Isabel," Jordan said warmly, looking up at her. "Mark's parents have their place in Bluewater locked down and waiting for us, and cell service doesn't even reach their hollow unless you're on their landline or encrypted Wi-Fi."
+Looking up at her warmly, Jordan typed on his armrest tablet:
+
+<aac>We're rolling out right now, Isabel. Mark's parents have their place in Bluewater locked down and waiting for us, and cell service doesn't even reach their hollow unless you're on their landline or encrypted Wi-Fi.</aac>
 
 Isabel let out a long breath of relief. Because Kelsey and Garrett were standing right beside her in the daylight of the loading zone, she didn't hug him—respecting the boundary they both guarded—Wait, she reached out and tapped the matte-black fender of his *Titan-X350* chair with a proud, affectionate smile.
 
 "Go enjoy your Spring Break in the mountains, Jordan," Isabel said softly. "And on Tuesday, March seventeenth, go down to Norfolk and finish this once and for all so you can come home in peace."
 
-"Count on it," Jordan promised, engaging the power ramp of the transit van and rolling smoothly inside as the nine of them buckled in and pulled away toward the deep Appalachian hollows of Southwest Virginia.
+<aac>Count on it,</aac> Jordan's AAC speaker promised as he engaged the power ramp of the transit van and rolled smoothly inside, where the nine of them buckled in and pulled away toward the deep Appalachian hollows of Southwest Virginia.
 
 ### Scene 2: Making It Work in Bluewater
 
@@ -12660,13 +12750,15 @@ Ninety minutes southwest of Blacksburg, after turning off the two-lane county hi
 
 Welcome to the **Bluewater Bunker**.
 
-Set into the sunny southern slope of a wooded Appalachian cove stood the home of Mark's parents, **Bob and Emily Scott**: a sprawling, hand-built cedar-and-fieldstone farmhouse with a wide wrap-around porch, a solar battery array on the barn roof, a deep well, and a half-mile clear sightline down the valley.
+Set into the sunny southern slope of a wooded Appalachian cove stood the home of Mark's parents, **Bob and Emily Anderson**: a sprawling, hand-built cedar-and-fieldstone farmhouse with a wide wrap-around porch, a solar battery array on the barn roof, a deep well, and a half-mile clear sightline down the valley.
 
-As the van pulled up to the wide, gently sloped white-oak wheelchair ramp leading onto the front porch, the front door swung open. Emily Scott—a warm, silver-haired woman with Mark's kind eyes and an apron dusted with biscuit flour—stepped out alongside her husband, **Bob Scott**, a broad-shouldered former master machinist in his late fifties who rolled out onto the porch deck in a sturdy manual wheelchair of his own.
+As the van pulled up to the wide, gently sloped white-oak wheelchair ramp leading onto the front porch, the front door swung open. Emily Anderson—a warm, silver-haired woman with Mark's kind eyes and an apron dusted with biscuit flour—stepped out alongside her husband, **Bob Anderson**, a broad-shouldered former master machinist in his late fifties who rolled out onto the porch deck in a sturdy manual wheelchair of his own.
 
 "Look at this crew!" Bob boomed with a welcoming grin that echoed across the hollow as Jordan glided smoothly up the oak porch ramp in his matte-black *Titan-X350*. "And look at the wheels on you, son! Mark told me you ordered an all-terrain rig, but he didn't tell me it had coil-over suspension and headlights!"
 
-"Good afternoon, Mr. and Mrs. Scott," Jordan said warmly, shaking Bob's rough, calloused hand and leaning in as Emily wrapped him in a gentle, motherly hug that stayed carefully clear of his chest. "Thank you for letting all nine of us take over your house for Spring Break."
+Shaking Bob's rough, calloused hand and leaning in as Emily wrapped him in a gentle, motherly hug that stayed carefully clear of his chest, Jordan tapped his AAC tablet:
+
+<aac>Good afternoon, Mr. and Mrs. Anderson. Thank you for letting all nine of us take over your house for Spring Break.</aac>
 
 "Are you kidding?" Emily laughed, ushering the whole pack inside where a massive stone hearth was crackling and the smell of slow-simmered vegetable beef stew filled the timbered rafters. "Any friend of Mark's is family in this hollow—and after what Mark told us about that woman sending a snooper around your dorm this morning, I'd like to see a Norfolk lawyer try to find the turnoff to Bluewater Creek without a search party!"
 
@@ -12700,7 +12792,7 @@ On Wednesday afternoon of Spring Break, the mountain sun warmed the wide cedar p
 
 Jordan rolled out through the threshold-free French doors in his *Titan-X350* with a mug of warm spiced cider in his cup holder, planning to read a chapter of Arthur MacAllister's *Civitas* in the afternoon quiet. Halfway across the porch, he paused.
 
-Over by the sunny corner overlooking the creek, Mark's father, **Bob Scott**, had parked his manual wheelchair perpendicular—at a dead ninety-degree angle—to the built-in timber porch bench.
+Over by the sunny corner overlooking the creek, Mark's father, **Bob Anderson**, had parked his manual wheelchair perpendicular—at a dead ninety-degree angle—to the built-in timber porch bench.
 
 Because Bob was a proud, broad-shouldered former machinist who had only been in a wheelchair for eighteen months after his lumbar spine gave out, nobody at the regional clinic had ever taught him proper complex-rehab biomechanics. He was trying to muscle his way across a fourteen-inch gap between the front of his seat and the wooden bench by locking his elbows out wide, twisting his spine ninety degrees, and heaving his entire two-hundred-pound frame upward on his rotator cuffs.
 
@@ -12710,31 +12802,39 @@ Jordan recognized that exact shoulder grimace instantly. He had torn up his own 
 
 Jordan eased his joystick forward and glided quietly over to the corner of the porch, stopping four feet from Bob's chair so he didn't startle him.
 
-"Mr. Scott?" Jordan said softly, his voice full of quiet respect from one man in a chair to another. "Mind if I show you a trick a physical therapist taught me a few years ago that'll take about eighty percent of that load off your right rotator cuff?"
+With quiet respect from one man in a chair to another, Jordan typed on his armrest tablet:
+
+<aac>Mr. Anderson? Mind if I show you a trick a physical therapist taught me a few years ago that'll take about eighty percent of that load off your right rotator cuff?</aac>
 
 Bob looked up, surprised, his hand still resting on his sore shoulder. For a second, the older man's pride flickered—and then he looked at nineteen-year-old Jordan sitting in the matte-black power chair with an eight-inch open-heart scar down his chest, and the pride melted into genuine curiosity.
 
-"They never showed me much when they handed me this chair at the VA clinic, Jordy," Bob admitted gruffly. "Just told me to lock the brakes and heave. My right shoulder's been barking at me all winter. What am I doing wrong?"
+"They never showed me much when they handed me this chair at the VA clinic, Jordan," Bob admitted gruffly. "Just told me to lock the brakes and heave. My right shoulder's been barking at me all winter. What am I doing wrong?"
 
-"You're parking at ninety degrees—straight head-on to the bench," Jordan explained, rolling his own chair alongside the timber bench to demonstrate the geometry without lifting any weight against his own sternum. "When you park straight on, your hips have to travel fourteen inches forward over the front rigging *and* turn ninety degrees in mid-air. That puts all the torque on your supraspinatus tendon."
+Rolling his own chair alongside the timber bench to demonstrate the geometry without lifting any weight against his own sternum, Jordan typed:
+
+<aac>You're parking at ninety degrees—straight head-on to the bench. When you park straight on, your hips have to travel fourteen inches forward over the front rigging and turn ninety degrees in mid-air. That puts all the torque on your supraspinatus tendon.</aac>
 
 Jordan backed up two feet and angled his chair so the right front corner of his seat frame sat snug against the timber bench at a tight **forty-five-degree angle**.
 
-"Here's the **Forty-Five-Degree Pivot**," Jordan said, pointing down at Bob's front caster wheels. "First, roll forward two inches and back up one inch right before you set your wheel locks—that swings your small front casters forward so they extend your wheelbase and keep the chair from tipping forward. Second, angle your frame at forty-five degrees to the bench so the corner of your seat touches the wood—that cuts the gap from fourteen inches down to less than three."
+Pointing down at Bob's front caster wheels, Jordan typed out the next step:
+
+<aac>Here's the Forty-Five-Degree Pivot. First, roll forward two inches and back up one inch right before you set your wheel locks—that swings your small front casters forward so they extend your wheelbase and keep the chair from tipping forward. Second, angle your frame at forty-five degrees to the bench so the corner of your seat touches the wood—that cuts the gap from fourteen inches down to less than three.</aac>
 
 Bob unlocked his brakes, rolled forward and back to swing his front casters into the forward-trail position, and pulled in flush at the exact forty-five-degree angle Jordan had shown him.
 
-"Now," Jordan coached calmly, "instead of pushing straight up with your elbows out wide—which impinges your shoulder joint—tuck your elbows in close to your ribs, lean your nose forward over your knees, and use the forward lever of your head and chest to make your hips light. You don't have to lift yourself up into the air; just pivot your hips across that three-inch corner like a hinge."
+<aac>Now,</aac> Jordan's AAC voice coached calmly, <aac>instead of pushing straight up with your elbows out wide—which impinges your shoulder joint—tuck your elbows in close to your ribs, lean your nose forward over your knees, and use the forward lever of your head and chest to make your hips light. You don't have to lift yourself up into the air; just pivot your hips across that three-inch corner like a hinge.</aac>
 
 Bob took a breath, tucked his elbows in, leaned his head and shoulders forward over his knees the way Jordan described, and pivoted smoothly to the left.
 
 His hips glided across the three-inch corner onto the cedar porch bench in one fluid motion—with zero twisting, zero gap, and not a single pop or stab of pain in his right shoulder.
 
-For five full seconds, Bob Scott sat on the porch bench staring down at his empty wheelchair, then rotated his right arm in a slow circle.
+For five full seconds, Bob Anderson sat on the porch bench staring down at his empty wheelchair, then rotated his right arm in a slow circle.
 
 "Well, I'll be damned," Bob whispered, his voice thick as he looked up at Jordan in stunned gratitude. "That didn't hurt a bit. Not even a twinge."
 
-"Head-and-hips leverage," Jordan smiled warmly. "Whatever moves your head forward moves your hips the opposite way. Saves your shoulders for the next forty years."
+Jordan smiled warmly and tapped out:
+
+<aac>Head-and-hips leverage. Whatever moves your head forward moves your hips the opposite way. Saves your shoulders for the next forty years.</aac>
 
 Bob reached out and gripped Jordan's forearm with his big machinist's hand, his eyes suddenly bright beneath his bushy eyebrows.
 
@@ -12784,11 +12884,13 @@ Now, rolling east down `U.S. Route 58` toward the Tidewater coast for the first 
 
 His heart rate under his crisp white dress shirt and navy blazer rehearsal outfit sat at a calm, unshakeable `66 BPM`.
 
-"How does it feel crossing the Suffolk line into Hampton Roads, Jordy?" Lauren asked gently from the seat beside his right armrest, resting her hand lightly over his wrist as the highway signs began listing mileage to Portsmouth, Norfolk, and Virginia Beach.
+"How does it feel crossing the Suffolk line into Hampton Roads, Jordan?" Lauren asked gently from the seat beside his right armrest, resting her hand lightly over his wrist as the highway signs began listing mileage to Portsmouth, Norfolk, and Virginia Beach.
 
 Jordan looked at the green highway sign reading **`NORFOLK — 22 MILES`**, then looked around the van at Aubrie Jean, Madison, Zoë, Lauren, Hannah, and Daniel in the driver's mirror.
 
-"When I lived down here," Jordan said quietly, "I used to look at the highway signs heading west toward `U.S. 58` and `U.S. 460` and wonder if I would ever be allowed to see what was on the other side of the horizon. Coming back down here today... this place doesn't own me anymore. It's just a city where we have a nine-o'clock appointment tomorrow morning to take out the trash."
+Looking out at the Tidewater pines, Jordan typed quietly on his tablet:
+
+<aac>When I lived down here, I used to look at the highway signs heading west toward U.S. 58 and U.S. 460 and wonder if I would ever be allowed to see what was on the other side of the horizon. Coming back down here today... this place doesn't own me anymore. It's just a city where we have a nine-o'clock appointment tomorrow morning to take out the trash.</aac>
 
 Over the inter-vehicle speakerphone from Vehicle Three, Arthur Miller let out a delighted laugh.
 
@@ -12857,15 +12959,19 @@ Judge Vance read Dr. Hassan's affidavit in silence for two full minutes. As he r
 
 "Mr. Miller," Judge Vance said quietly, looking down at Jordan, "does the respondent wish to address the Court directly?"
 
-"I do, Your Honor," Jordan said.
+Keeping his right hand raised, Jordan tapped the `SPEAK` key with his left thumb:
+
+<aac>I do, Your Honor.</aac>
 
 Guiding the *Titan-X350* with two fingers on his right-hand joystick, Jordan glided smoothly around the counsel table to the accessible witness station beside the bench. After taking the oath, he looked up at Judge Vance—and then looked straight across the courtroom at his biological mother without a trace of fear left in his body.
 
-"Your Honor," Jordan said, his voice clear, steady, and resonant across the oak-paneled courtroom, "for eighteen years in Virginia Beach, I was told every day that because my legs didn't work the way other people's legs work, my mind and my life didn't belong to me either. When I came to Commonwealth Polytechnic Institute in August, I found a family and a university that gave me the space to stand on my own two feet—even from a chair."
+Across the silent oak-paneled courtroom, Jordan triggered the testimony he had composed word-for-word on his `Pinnacle` AAC tablet:
+
+<aac>Your Honor, for eighteen years in Virginia Beach, I was told every day that because my legs didn't work the way other people's legs work, my mind and my life didn't belong to me either. When I came to Commonwealth Polytechnic Institute in August, I found a family and a university that gave me the space to stand on my own two feet—even from a chair.</aac>
 
 He rested his left hand lightly over his tie, right above the healed eight-inch scar down his breastbone.
 
-"Six weeks ago, on Friday morning, February sixth, I had a massive heart attack in my nine-o'clock English class," Jordan continued steadily. "That weekend, when a balloon angioplasty couldn't break through the blockage in my heart, I rode an ambulance to Roanoke, sat down with Dr. Hassan, asked him how open-heart surgery would affect my mobility, and signed the consent form for my own bypass graft—paid for by the health insurance policy I chose and signed for in January. When Daniel Brooks helped me set up my insurance, my power chair, and our international travel plans for this summer, he never once told me what to choose. He gave me options, and I made the decisions for my own life."
+<aac>Six weeks ago, on Friday morning, February sixth, I had a massive heart attack in my nine-o'clock English class,</aac> Jordan's AAC speaker continued steadily. <aac>That weekend, when a balloon angioplasty couldn't break through the blockage in my heart, I rode an ambulance to Roanoke, sat down with Dr. Hassan, asked him how open-heart surgery would affect my mobility, and signed the consent form for my own bypass graft—paid for by the health insurance policy I chose and signed for in January. When Daniel Brooks helped me set up my insurance, my power chair, and our international travel plans for this summer, he never once told me what to choose. He gave me options, and I made the decisions for my own life.</aac>
 
 Jordan looked squarely at Judge Vance.
 
@@ -12905,7 +13011,9 @@ Halfway between Appomattox and Bedford—right as the blue-gray silhouette of th
 
 Inside the transit van, everyone leaned toward the dashboard speaker.
 
-"And what did her lawyer say, Mr. Miller?" Jordan asked calmly.
+Jordan typed calmly on his tablet:
+
+<aac>And what did her lawyer say, Mr. Miller?</aac>
 
 *"He begged for an immediate global settlement before five o'clock today so that we don't file a public civil fraud docket against her real-estate equity in Virginia Beach,"* Arthur replied. *"To secure a civil release on the tort claims and satisfy Judge Vance's mandatory fee award, Aubrie Sinclair just signed an irrevocable wire authorization liquidating her home-equity reserve and restoring every single dollar of your childhood survivorship funds plus statutory treble damages and legal fees."*
 
@@ -12917,7 +13025,9 @@ For a long moment, the only sound inside the transit van was the steady hum of t
 
 Not only had his mother lost the guardianship case in front of sixteen witnesses—her own malice had just funded the future of the very family she had tried to tear apart.
 
-"Put every dollar of it into the Suite 214/216 Family Trust," Jordan said clearly into the microphone, looking around the van at the people who had stood behind him in Courtroom 4B. "No one in our nine-person family will ever have to worry about tuition, medical bills, or an apartment lease after Bennett Hall."
+Looking around the van at the people who had stood behind him in Courtroom 4B, Jordan typed clearly so his `NeoEdit` voice carried over the speakerphone:
+
+<aac>Put every dollar of it into the Suite 214/216 Family Trust. No one in our nine-person family will ever have to worry about tuition, medical bills, or an apartment lease after Bennett Hall.</aac>
 
 As the sun began to dip toward the crest of the Blue Ridge ahead of them, turning the western sky into a blaze of gold and crimson over Christiansburg Mountain and Blacksburg, Jordan leaned back in his *Titan-X350* chair and smiled.
 
@@ -12957,7 +13067,9 @@ As Jordan guided the matte-black *S.S. Freedom* into the front accessible desk b
 
 "Ms. Sharma emailed me a one-line courtesy note from Norfolk yesterday afternoon, Mr. Fuller," Dr. Alistair said, a rare, genuine warmth crinkling the corners of his eyes behind his spectacles. "She informed me that the Court adopted her recommendation in full and dismissed the petition with prejudice."
 
-"Your affidavit made a huge difference with Judge Vance, Dr. Alistair," Jordan said gratefully, shaking the professor's hand. "Thank you for standing up for me."
+Shaking the professor's hand gratefully, Jordan tapped his AAC tablet:
+
+<aac>Your affidavit made a huge difference with Judge Vance, Dr. Alistair. Thank you for standing up for me.</aac>
 
 "I merely stated an empirical fact to the judiciary," Dr. Alistair replied dryly, tapping Jordan's graded mid-term exam (`99/100`) onto the wing table in front of him. "Though I confess it gave me considerable satisfaction to remind a Tidewater lawyer that mastering Maxwell's equations while recovering from cardiothoracic surgery is incompatible with legal incapacity. Welcome back to campus, Mr. Fuller."
 
@@ -12971,7 +13083,9 @@ As the Zeiss star projector cast the faint, glittering ring of trans-Neptunian w
 
 Jordan looked up at the twin points of light wheeling slowly across the planetarium dome, then looked at Aubrie Jean beside him.
 
-"And in sixty-six days," Jordan whispered back with a grin, "we're taking our own orbit around this planet."
+With a grin, Jordan typed on his laptop screen for her:
+
+<aac>And in sixty-six days, we're taking our own orbit around this planet.</aac>
 
 ### Scene 3: The Food Court Affirmation and the Night of the Pact
 
@@ -12981,17 +13095,21 @@ At twelve-thirty that afternoon, all nine members of Suite 214/216 met up inside
 
 At the start of Fall Semester, a crowded campus dining hall at the noon rush—five hundred students talking at once, stainless-steel trays clattering, espresso machines hissing, and lines snaking around the brick pillars—would have spiked Jordan's sensory meter past eighty within three minutes and required Mark and Lauren to form a physical wedge around his manual chair while someone else ordered his food for him.
 
-Today, as the nine of them claimed a long corner table by the tall arched windows, Mark started to ask out of habit, "Want me to grab your grilled chicken wrap from the counter while you park, Jordy?"
+Today, as the nine of them claimed a long corner table by the tall arched windows, Mark started to ask out of habit, "Want me to grab your grilled chicken wrap from the counter while you park, Jordan?"
 
 Jordan smiled and shook his head.
 
-"I've got it today, Mark," Jordan said. "Meet you guys back at the table in five."
+Jordan tapped his armrest tablet with a smile:
+
+<aac>I've got it today, Mark. Meet you guys back at the table in five.</aac>
 
 Guiding the *S.S. Freedom* with effortless precision through the bustling lunch crowd, Jordan rolled up to the counter queue by himself. When the student cashier looked down and smiled, Jordan ordered his own lunch, swiped his own `Poly Pass` dining card at the accessible reader, hooked the warm takeout bag onto his armrest carry-loop, and navigated smoothly back to the corner table without a single spike in his heart rate or a single tremor in his hands.
 
 When he pulled into his spot at the head of the table, all eight of his suite-mates looked at him with quiet, beaming pride.
 
-"What?" Jordan asked, grinning as he unwrapped his sandwich.
+Grinning as he unwrapped his sandwich, Jordan tapped a quick key:
+
+<aac>What?</aac>
 
 "Nothing," Hannah said softly, leaning over to kiss his cheek. "Just watching a guy who owns his whole life order lunch."
 
@@ -13032,11 +13150,13 @@ Authors: Fuller, J., Kelly, A.J., Scott, M.E., Brooks, Z.W., Barnes, L.N.,
 ========================================================================
 ```
 
-"Ninety days ago in this exact room, at nine-thirty-two in the morning," Jordan began, his voice calm, clear, and steady enough to carry to the back row without a microphone, "my heart stopped getting the blood it needed, and the eight people standing behind me saved my life. When I woke up in Roanoke after open-heart bypass surgery and started figuring out how I was going to navigate this campus while my breastbone was wired together with stainless steel, we took a hard look at the official accessibility PDF maps Commonwealth Polytechnic Institute gives to disabled students."
+Connected directly to Room 104's lecture-hall sound system, Jordan triggered the opening paragraph he had prepared on his `Pinnacle` AAC tablet, its voice calm, clear, and resonant all the way to the back row:
+
+<aac>Ninety days ago in this exact room, at nine-thirty-two in the morning, my heart stopped getting the blood it needed, and the eight people standing behind me saved my life. When I woke up in Roanoke after open-heart bypass surgery and started figuring out how I was going to navigate this campus while my breastbone was wired together with stainless steel, we took a hard look at the official accessibility PDF maps Commonwealth Polytechnic Institute gives to disabled students.</aac>
 
 Jordan clicked the remote, displaying the blurry, unreadable 2003 rasterized PDF side-by-side with their new WCAG 2.1 AA and Section 508 compliant interactive and print maps.
 
-"We realized pretty quickly," Jordan continued, a touch of wry warmth in his voice that made the whole classroom smile, "that the old PDF map wasn't just hard to read—it was a barrier in itself. It failed every federal **Section 508** and **WCAG 2.1 Level AA** contrast and screen-reader standard, it omitted slope grades and doorway actuation types, and it left out the most important topographic survival tool on this mountain."
+<aac>We realized pretty quickly,</aac> Jordan's AAC presentation continued, a wry smile on his face that made the whole classroom chuckle warmly, <aac>that the old PDF map wasn't just hard to read—it was a barrier in itself. It failed every federal Section 508 and WCAG 2.1 Level AA contrast and screen-reader standard, it omitted slope grades and doorway actuation types, and it left out the most important topographic survival tool on this mountain.</aac>
 
 For the next twenty minutes, the nine of them delivered a presentation that read less like a freshman English assignment and more like an architectural masterclass:
 
@@ -13046,11 +13166,13 @@ For the next twenty minutes, the nine of them delivered a presentation that read
 
 Then Jordan brought the presentation home.
 
-"When I rolled onto this campus last August," Jordan said, looking out across his classmates and straight back to the OEA Director, the University Architect, and Isabel, Garrett, and Kelsey sitting in the top tier, "I was nineteen years old, in a manual chair, and honestly afraid of my own shadow. I thought needing an elevator pass-through or a push-button door was something I had to apologize for."
+Looking out across his classmates and straight back to the OEA Director, the University Architect, and Isabel, Garrett, and Kelsey sitting in the top tier, Jordan triggered his next slide:
+
+<aac>When I rolled onto this campus last August, I was nineteen years old, in a manual chair, and honestly afraid of my own shadow. I thought needing an elevator pass-through or a push-button door was something I had to apologize for.</aac>
 
 He rested his right hand lightly on the joystick of the *Titan-X350* and stood tall in his seat.
 
-"I don't apologize for taking up space on this campus anymore," Jordan said clearly. "Because accessibility isn't charity, and it isn't a favor. It's the engineering that lets every person at this university show up as **a Student and a Man**—or a woman—and do the work they came here to do. We aren't just handing in this map for a grade today; we are donating the entire open-source vector repository and codebase to Commonwealth Polytechnic Institute under an MIT and Creative Commons license so that starting in Fall 2015, nobody ever has to squint at that broken PDF again."
+<aac>I don't apologize for taking up space on this campus anymore,</aac> Jordan's AAC voice rang out across the hall. <aac>Because accessibility isn't charity, and it isn't a favor. It's the engineering that lets every person at this university show up as a Student and a Man—or a woman—and do the work they came here to do. We aren't just handing in this map for a grade today; we are donating the entire open-source vector repository and codebase to Commonwealth Polytechnic Institute under an MIT and Creative Commons license so that starting in Fall 2015, nobody ever has to squint at that broken PDF again.</aac>
 
 For two seconds after Jordan clicked the final slide into place, Room 104 was completely silent.
 
@@ -13104,7 +13226,9 @@ At the doorway of Suite 214, **Garrett Reynolds** reached down and shook Jordan'
 
 "It has been an absolute honor being your RA this year, Jordan," Garrett said sincerely. "Watching you climb Geneva Street in that matte-black tank and watching you nine rewrite the university's accessibility map last week—that's the kind of thing I'm going to remember long after I graduate. Have the trip of a lifetime across the world this summer, man."
 
-"Thank you for everything, Garrett," Jordan said warmly. "For the hospital visit, for watching our backs during the summons, and for keeping the second floor steady."
+Jordan tapped his armrest tablet warmly:
+
+<aac>Thank you for everything, Garrett. For the hospital visit, for watching our backs during the summons, and for keeping the second floor steady.</aac>
 
 Garrett glanced once at **Isabel Dawson**, who was standing beside the open door of Room 215 holding the very last yellow `RCR` clipboard—Jordan's—and then glanced at Kelsey Brennan.
 
@@ -13124,7 +13248,9 @@ Jordan took the pen, signed `Jordan Fuller` on the resident checkout line, dropp
 
 He handed the clipboard and the sealed key envelope back to Isabel.
 
-"As of right now," Jordan said quietly, looking up into her eyes as she set the clipboard and her Residence Life staff lanyard down on the hallway check-in table beside the door of Room 215, "my lease for the academic year is closed. Which means you aren't my Resident Advisor anymore."
+Looking up into her eyes as she set the clipboard and her Residence Life staff lanyard down on the hallway check-in table beside the door of Room 215, Jordan tapped the message waiting on his tablet screen:
+
+<aac>As of right now, my lease for the academic year is closed. Which means you aren't my Resident Advisor anymore.</aac>
 
 Isabel looked down at her staff badge lying on the table—no longer around her neck—and let out a shaky breath that sounded like nine months of held-in tension finally leaving her lungs.
 
@@ -13146,13 +13272,15 @@ Isabel buried her face against the crook of his neck, her dark hair brushing his
 
 "I am so proud of you, Jordan Fuller," Isabel whispered fiercely against his collar, her hands gripping the back of his shirt as if she were memorizing the fact that he was whole, healthy, and free. "You survived everything they threw at you. You beat the heart attack, you beat Norfolk, and you turned into the strongest man I have ever known."
 
-"Thank you for never giving up on me when I was still afraid of my own shadow, Isabel," Jordan whispered back, resting his cheek against her hair and holding her just as tightly.
+Resting his cheek against her hair and holding her with his right arm, Jordan tapped his tablet screen with his left thumb so the soft voice spoke just for her:
+
+<aac>Thank you for never giving up on me when I was still afraid of my own shadow, Isabel.</aac>
 
 When they finally drew back just enough to look into each other's eyes, Isabel reached up and brushed her thumb gently across his cheekbone—lingering there for two warm, unmistakable seconds before smiling through her tears.
 
 "Go see the whole wide world this summer, Jordan," she whispered. "Every ocean, every mountain, every Roman ruin you read about in Dr. Gable's class. And when you come back to Blacksburg in August... come find me."
 
-"I will," Jordan promised softly. "Count on it."
+<aac>I will. Count on it,</aac> Jordan's tablet promised softly as he squeezed her hand.
 
 ### Scene 3: The Eleventh Child: Ready for the World
 
