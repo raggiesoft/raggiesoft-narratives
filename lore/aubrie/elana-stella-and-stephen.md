@@ -108,3 +108,62 @@ Consistent with `raggiesoft-narratives/lore/shiloh/shiloh-family.md` and `raggie
 4. **Margaret "Gran" Thornton (`Age 71 — Maternal Grandmother & Homeschool Educator`):**
    * **Background:** Rebecca's mother; a retired Virginia public school teacher with **40 years of classroom experience** (certified in secondary mathematics, sciences, and special-education curriculum design) who lives full-time in the Dawson home.
    * **The Dawson Home Academy:** Because Elana struggles with being separated from Stephen and traditional public schools repeatedly tried to separate them into different classrooms, Gran Thornton took over their education from elementary school through 12th grade—running a rigorous, college-preparatory homeschool academy right at their custom wheelchair-height oak table so Elana and Stephen could learn side by side and graduate ready to become **Systems Architects at CPI (`Fall 2015`)**.
+
+---
+
+## 4. Fall 2015 CPI Campus Architecture: `New River Hall (Room 323)`, `The Anvil Express`, Isabel's Senior RA Apartment, & Stella's Campus Accommodations
+
+### A. Elana, Stephen, & Stella's Freshman Residence Hall — `New River Hall, Room 323` (`Fall 2015–Spring 2016`)
+* **Building Name & Hillside Geography (`New River Hall`):**
+  * One of the newer, modern Ironstone-clad residence halls on the **Commonwealth Polytechnic Institute (`CPI`)** campus, selected as the flagship host building for CPI's **Fall 2015 Opt-In Gender-Inclusive Housing (`GIH`) Pilot Program** (the program directly inspired by **Jordan Fuller** and **Bennett Hall Suite 214/216**).
+  * **Dual Ground-Floor Hillside Architecture (`Floors 1, 2, & 3`):**
+    * Because **New River Hall** is built into the steep Blacksburg campus hillside, **both the 1st Floor (lower campus quad side) and the 3rd Floor (upper street/walkway side) have zero-step, ground-level exterior exits**.
+    * **Floor 2 (Middle Level)** houses **`The Anvil Express`**, a modern quick-service campus dining facility, along with **CPI Dining Services administrative offices**.
+    * All student residential corridors (`Floors 1, 3, 4, & 5`) are physically separated and air-gapped behind **Poly Pass** card-reader security doors so public diners on Floor 2 can never wander into the residential halls.
+* **`Room 323` (`3rd-Floor Ground-Exit Accessible Suite`):**
+  * Because **`Room 323`** is on the **3rd Floor**, Elana, Stephen, and Stella can roll straight out the 3rd-floor doors onto the upper campus walkway at grade without needing an elevator—or ride the oversized building elevator down one floor to **`The Anvil Express`** (`Floor 2`) or down two floors to the lower campus quad (`Floor 1`).
+  * **Private Accessible En-Suite Bathroom:** Unlike older suite-style dorms, `Room 323` features its own **private, fully ADA-accessible en-suite bathroom** complete with a wheelchair-transfer toilet with fold-down grab bars (giving Elana and Stephen complete privacy and sterile space for her **MACE** routine and **urinary drainage bag** care), a roll-under sink, and a **full zero-threshold roll-in shower** with a padded fold-down bench and dual handheld shower wands.
+  * **The Clamped `Split-King` Bed Setup (`2 × Twin XL = 76" × 80" Eastern King`):**
+    * While standard dorm rooms provide two separate `Twin XL` (`38" × 80"`) beds, the two cousins prefer sharing a bed so Stephen is right there beside Elana at night to gently massage her muscles whenever they lock up without either of them having to fully wake up.
+    * Under an official **OEA (`Ms. Higgins`) + Central Housing (`Dr. Alan Mercer`)** accommodation supported by Elana's PCP at **Piedmont State University Medical Center**, `Room 323`'s two `19"` wheelchair-height `Twin XL` bed frames are **mechanically clamped side-by-side** with a high-density memory-foam **Split-King Bed Bridge** and waterproof King mattress pad over the seam—creating a seamless **`76" × 80"` King-sized bed** with full wheelchair transfer clearance on both outer sides (`Elana transfers from the right; Stephen transfers from the left`).
+  * **Dual Liquid-Nutrition Provision (`The Anvil Express` + In-Room Mini-Fridge):**
+    * **2nd-Floor Quick-Service Dining Accommodation (`The Anvil Express`):** As an official OEA + CPI Dining Services accommodation, **`The Anvil Express`** right downstairs on the 2nd floor of New River Hall permanently stocks the exact clinical liquid-nutrition shakes and smooth puréed broths Elana requires. Rather than isolating it behind a medical counter, CPI Dining stocks it in the grab-and-go coolers where **it is available for purchase with `Forge Dollars` by anyone on campus, including Elana and Stephen**.
+    * **In-Room Medical Mini-Fridge:** In addition, Elana and Stephen have a dedicated **mini-fridge inside `Room 323`** (set on a raised platform at wheelchair reach) to keep a multi-day reserve of her liquid nutrition chilled right beside their dual-wheelchair **`Aurora`** server desk.
+
+---
+
+### B. Isabel Claire Dawson's Senior Year RA Assignment — `Shenandoah Commons Apartments, Apartment 101` (`2015–2016`)
+* **Why Isabel Is Assigned to a Separate Building:**
+  * When **Bennett Hall ("The Old Lady")** closes permanently at the end of **Spring 2015** to be torn down and replaced, **Isabel** (`Senior RA, Class of 2016`) is reassigned to **`Shenandoah Commons Apartments`**—an upperclassman **apartment-style residence hall** on campus.
+  * Assigning Isabel to **Shenandoah Commons** instead of **New River Hall** avoids any **Residence Life nepotism / conflict of interest** with her sister Elana and cousin Stephen (and because Jordan and the Constellation Pact now live off-campus on Geneva Street in Christiansburg, Isabel is no longer their RA either!).
+* **Features of `Apartment 101` (`The Wheelchair-Accessible RA Apartment`):**
+  * Isabel's Senior RA unit (`Apartment 101`, ground floor) comes fully equipped with:
+    1. A **full kitchen** featuring a **full-size refrigerator and freezer**, a **full-size dishwasher**, a stove/oven, and roll-under counter clearance.
+    2. A separate private **bedroom with a Full-size bed** (wide enough for Elana and Stephen to share comfortably!).
+    3. A spacious living room (with a sleeper sofa) and a full ADA roll-in bathroom.
+    4. **Crucially, `Apartment 101` happens to be the designated wheelchair-accessible RA apartment in Shenandoah Commons!**
+* **The Overnight Guest Sanctuary (Following & Quietly Bending the Rules):**
+  * Whenever **Elana, Stephen, and Stella** feel overwhelmed by freshman hall noise, midterm crowds, or sensory fatigue in New River Hall, **Isabel signs them into `Apartment 101` as her official overnight guests**—keeping extra cases of Elana's liquid nutrition in her full-size fridge/freezer, letting Elana and Stephen take her private bedroom's **Full-size bed** (with Stella's portable mat right beside it) while Isabel sleeps on the living room sofa, and running the dishwasher for Elana's nutrition tumblers and medical supplies.
+  * Just like in **Bennett Hall** (as laid out in *The Story Bible*), **Shenandoah Commons** operates under CPI's standard overnight guest sign-in rules—and just as Isabel and Henry quietly bent the rules for Suite 214/216 during Freshman Year, Isabel and her fellow Senior RAs in Shenandoah Commons quietly bend the consecutive-night guest limits whenever Elana, Stephen, and Stella need an extended sanctuary stay.
+
+---
+
+### C. Required Campus Accommodations for `Stella` (`ADA Title II / FHA Service Miniature Horse Protocol`)
+To bring **Stella** (`Age 6` in Dec 2014 $\rightarrow$ `Age 7` in Fall 2015; `28"` at the withers, `85 lbs`, silver-dapple American Miniature Horse) onto the **CPI** campus as a full-time residential and classroom service animal for both **Elana** and **Stephen**, **Ms. Patricia Higgins (`OEA`)**, **Dr. Alan Mercer (`Central Housing`)**, and **CPI Facilities** implement six formal accommodations:
+
+1. **Dust-Free Compressed Pelleted Hay & In-Room Equine Rest Alcove (`Room 323`):**
+   * Because clamping the two `Twin XL` beds into a single **Split-King** frees up one entire side aisle of `Room 323`, a **`6' × 6'` orthopedic rubber-matted alcove** near the entry door is designated as Stella's indoor rest bay.
+   * **Fire-Code & HVAC Rule:** Loose hay bales and wood shavings are prohibited inside university dormitories due to dust, mold spores, and optical smoke-detector sensitivity. Instead, Stella is fed **100% dust-free, vacuum-sealed compressed Timothy hay cubes/pellets** from a weighted floor trough and sleeps on washable closed-cell medical stall mats.
+2. **Dedicated Outdoor Equine Relief & Turnout Paddock (`New River Hall 3rd-Floor Ground Exit`):**
+   * While service dogs can use any grassy strip, an 85-lb miniature horse requires a sanitary, secure outdoor relief and stretch area.
+   * Right outside the **3rd-floor ground-level east exit of New River Hall** (`less than 60 seconds` from `Room 323`), **CPI Grounds & Facilities** installs a discreet, cedar-fenced **`20' × 30'` pea-gravel and turf Service Animal Relief & Turnout Paddock** unlocked by Elana, Stephen, and Isabel's **Poly Passes**, complete with a frost-proof water hydrant, covered equine waste bin serviced daily by CPI Grounds, and room for Stella to roll and trot off-harness twice a day.
+3. **Extended Automatic Door-Dwell Timers (`20 Seconds`) & 24/7 Hillside Elevator Pass-Through:**
+   * Standard campus handicap push-buttons hold doors open for `10 seconds`—which is too short when **two power wheelchairs (`Elana` + `Stephen`) and a service miniature horse (`Stella`)** are moving through a doorway together.
+   * **CPI Facilities** reprograms the automatic door openers on **New River Hall (`Floors 1, 2, & 3`)**, **`The Anvil Express`**, **Shenandoah Commons (`Apt. 101`)**, and their classroom buildings to a **`20-second` dwell timer** whenever triggered by Elana's or Stephen's proximity-encoded **Poly Pass**, alongside **24/7 Hillside Pass-Through** elevator authorization across campus.
+4. **Contiguous Dual-Wheelchair + Equine Lecture Hall Bays:**
+   * In every lecture hall and computer lab on Elana and Stephen's **Systems Architecture** schedule (`McBryde Hall`, `Goodwin Hall`, `Torgersen Hall`, `Carter Hall`), **OEA** designates a **three-slot accessible station**: two side-by-side wheelchair bays so Elana and Stephen never have to sit apart, plus an adjacent `36" × 48"` level floor mat space where **Stella** lies quietly in her four rubber indoor grip boots out of the foot-traffic aisle.
+5. **On-Campus Equine Veterinary & Farrier Partnership (`CPI College of Veterinary Medicine` & `Hannah Parker`):**
+   * Because CPI has its own **Veterinary Teaching Hospital and Equine Medical Center** right on campus, OEA links Stella's file directly with the **CPI Equine Podiatry & Preventive Medicine Service** for her routine 6-week hoof trims and indoor rubber boot maintenance—with Pre-Vet sophomore **Hannah Ashlee Parker** enthusiastically volunteering as Elana and Stephen's campus barn/paddock liaison.
+6. **Blue Ridge Transit (`BRT`) & Campus Paratransit Pre-Clearance:**
+   * Under federal **FTA / ADA Title II (`28 CFR § 35.136(i)`)** guidelines, **Blue Ridge Transit** issues a fleet-wide driver bulletin confirming that **Stella** (`wearing her burgundy service harness and four non-slip rubber indoor boots`) is pre-cleared to board all low-floor kneeling BRT buses alongside Elana's heavy-duty power chair and Stephen's basic power chair.
+
