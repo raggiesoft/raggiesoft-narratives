@@ -10992,13 +10992,11 @@ Jordan looked down at the two columns Daniel had sketched out on the pad, then l
 
 Daniel smiled at the word—he always did, a quiet crinkle at the corners of his eyes—and read down the first column.
 
-"Group One: The Core Nine of Bennett Hall," Daniel said. "Jordan Brooks. Aubrie Jean Brooks. Madison Evans. Zoë Brooks. Lauren Reyes. Hannah Henderson. Mark Scott. Sarah Lawson. And Jessica Miller."
+"Group One: The Core Nine of Bennett Hall," Daniel said. "Jordan Fuller. Aubrie Jean Kelly. Madison Elizabeth Scott. Zoë Wren Brooks. Lauren Nicole Barnes. Hannah Ashlee Parker. Mark Anderson. Sarah Kristyn Braithwaite. And Jessica Gallagher."
 
-Sarah let out a quiet, breathless laugh from her stool by the counter, her fingers lacing with Mark's. Beside her, Jessica's eyes shone as Lauren squeezed her shoulder.
+Sarah let out a quiet, breathless laugh from her stool by the counter, her fingers lacing with Jessica's as Mark grinned beside Hannah.
 
-"And Group Two," Daniel continued, tapping the right-hand column, "the Brooks home contingent. Myself and Laura. Megan, who has already cleared her remote engineering sprints for the summer so she doesn't miss a mile. And the six boys—Caleb, Chloe, Ethan, Lucas, Owen, and Jacob."
-
-*(Even though Chloe was one of the younger siblings, everyone in the Christiansburg house affectionately called the younger six "the pack.")*
+"And Group Two," Daniel continued, tapping the right-hand column, "the Brooks home contingent. Myself and Laura. Megan, who has already cleared her remote engineering sprints for the summer so she doesn't miss a mile. Chloe and her husband Ethan. And the four boys—Caleb, Owen, Lucas, and Jacob."
 
 "Nine plus nine," Zoë confirmed, her keys clacking rapidly as she locked the eighteen rows into her master logistics matrix. "Eighteen travelers total. Two nine-passenger long-wheelbase transit vans for the North American legs, or a chartered coach configuration where needed. Every single person needs a valid ten-year United States passport book—or five-year minor book for the younger siblings—plus a joint U.S. Customs and Border Protection and Canada Border Services Agency `NEXUS` Trusted Traveler card for expedited land, air, and marine crossings."
 
@@ -11038,7 +11036,7 @@ For eighteen years, his mother had used that name—and that nine-digit number�
 
 "Nobody else can sign `Form 8879` for you, Jordan," Zoë said softly, her hand resting on the back of his chair. "It's your signature. Your income. Your household."
 
-David turned the electronic signature pad toward Jordan. "Ready to transmit, Mr. Brooks?"
+David turned the electronic signature pad toward Jordan. "Ready to transmit, Mr. Fuller?"
 
 Jordan picked up the stylus. His fingers didn't shake. On the glowing LCD strip of the signature pad, he signed his legal signature cleanly, then clicked the five-digit Self-Select PIN into the keyboard and pressed `ENTER`.
 
@@ -11071,7 +11069,7 @@ Jordan stared down at the words `ACCEPTED` and `SELF-CLAIMED INDEPENDENT`. A slo
 
 At ten-fifteen, Daniel met them at Blue Ridge Complex Rehab & Mobility on North Franklin Street in Christiansburg. True to the boundary Daniel had set at the kitchen table on Tuesday night, he didn't step up to the counter to speak for Jordan; instead, he stood casually by the display wall with Mark and Lauren while Jordan rolled up to the intake desk himself and handed over his new `Commonwealth BlueCross Platinum PPO` card and Dr. Alistair's durable medical equipment prescription.
 
-"Mr. Brooks," said Marcus Vance, a certified Assistive Technology Professional (`ATP`) with a tape measure draped around his neck and a tablet tucked under his arm. "Come on back to Bay Two. We've got the demo chassis for the *Vanguard Titan-X350* set up on the calibration platform."
+"Mr. Fuller," said Marcus Vance, a certified Assistive Technology Professional (`ATP`) with a tape measure draped around his neck and a tablet tucked under his arm. "Come on back to Bay Two. We've got the demo chassis for the *Vanguard Titan-X350* set up on the calibration platform."
 
 When Jordan rolled into Bay Two, he stopped dead in his tracks.
 
@@ -11093,7 +11091,7 @@ When Marcus asked which side the proportional `R-Net` color-screen joystick cont
 
 Marcus reversed the tablet on its swivel stand and handed the stylus to Jordan.
 
-"Customer and patient authorization is right here at the bottom, Mr. Brooks."
+"Customer and patient authorization is right here at the bottom, Mr. Fuller."
 
 Jordan read through the three-page build specification—seat width, backrest angle, power tilt-in-space actuator, airline-compliant dry-cell battery certification for international cargo holds, and the matte-black finish—and signed his name at the bottom of the screen.
 
@@ -11143,7 +11141,7 @@ Jordan reached up and covered Hannah's hand with his own, looking around the cro
 
 For the first time in his life, the future wasn't a storm cloud waiting to break over his head. It was an itinerary—and he had signed every page of it himself.
 
-## The New Pact of Suite 214/216
+## The New Pact, The Leviathan Cut, and An 80s Education
 
 ### Scene 1: The Proposal in Room 214
 
@@ -11211,13 +11209,75 @@ Outside the door of Suite 214, Bennett Hall was quiet. Across the hallway in Roo
 
 Lying in the warm center of the Alaskan King bed as midnight passed into Sunday morning, listening to five steady breathing patterns rise and fall around him, Jordan closed his eyes. His heart beat warm and full in his chest—unaware of the silent, calcified clock ticking deep inside his left anterior descending artery, yet safer and happier than he had ever been in his nineteen years on earth.
 
+### Scene 3: The Leviathan Cut (A Sister's Love)
+
+**Date:** 2015-01-18
+
+On Sunday morning in the warm walk-out basement of the Brooks home in Christiansburg, after Jordan had fought off a brief `99.8°F` low-grade winter fever from his catch-up immunization schedule with a steaming bowl of Laura's chicken noodle soup and dry ginger ale, Mark walked over to the basement media shelf and pulled down a massive, gold-foil-stamped Blu-ray box set.
+
+"No way," Mark breathed, holding the case up like a sacred relic. **"*The Silver Gauntlet of Aethel: 25th Anniversary Definitive Aethelian Tome Edition*."**
+
+"Oh, I love that movie!" Hannah exclaimed, clapping her hands together. "It is one of my all-time favorites! That *'A Sister's Love'* opening theme song by **Firelight** is pure 1980s cheesy fantasy-adventure bliss!"
+
+"This isn't just the 1987 theatrical cut, ladies," Mark grinned, slotting Disc One into the Blu-ray player while Aubrie Jean and Madison tucked a soft fleece blanket around Jordan on the center cushion of the sectional sofa. "This is the legendary **Leviathan Cut**—twelve hours and twenty-one minutes across three books."
+
+Jordan leaned back between Aubrie Jean and Madison—his two safest harbors—as the basement lights dimmed and Mark pressed play.
+
+Instantly, the floor-standing speakers filled the basement with the soaring, analog synthesizer arpeggios and driving electric guitar anthem of ***"A Sister's Love (Main Theme)"*** by **Firelight**.
+
+For eighteen years in Virginia Beach, Jordan's mother had strictly controlled everything he was allowed to hear or watch, dismissing 1980s rock and fantasy cinema as "loud, degenerate noise." Sitting in the safety of the Brooks basement as the opening title card—***Book I: The Sundering of Sunstead***—glowed across the screen and Firelight's chorus soared through his chest, Jordan sat completely transfixed.
+
+All morning and afternoon, with intermissions only for Daniel and Laura's hot lunch trays and Laura's famous baked ziti at dinner (when Hannah checked the digital thermometer and cheered that Jordan's temperature had dropped from `99.8°F` all the way down to a normal `98.6°F`), the nine of them journeyed through the *Leviathan Cut*:
+
+* They watched **Kaelan and Kaela's** upbringing in the cramped shepherd's hut of Sunstead and Kaelan's quest through the Whispering Woods to the motivational synth-rock pulse of ***"One Step at a Time (The Gauntlet's Path)"***.
+* In ***Book II: The Shadow's Heart***, they marveled at the scenes the two-hour 1987 theatrical cut had foolishly chopped out—including **Kaela's** psychological rebellion inside the Shadowspire and **Lord Malakor's** full theatrical rock-opera villain number, ***"The Tyrant's Throne"***.
+* And when ***Book III: The Dawn of the Twins*** reached its emotional climax—where Kaelan defeated Malakor not with brute force, but with selfless love, and shared a deeply earned, tearful hug with his twin sister Kaela as the sweeping reprise of ***"A Sister's Love"*** swelled across the room—Hannah leaned over with misty eyes and wrapped Jordan in a fierce, tight sisterly embrace while Mark beamed with pride from his chair.
+
+Jordan tapped his `NeoEdit` screen on his lap so the warm synthesized voice spoke into the cozy room:
+
+<aac>That was amazing. And that opening song—A Sister's Love—I don't think I've ever heard music like that in my life.</aac>
+
+### Scene 4: An 80s Education (Electric Color)
+
+**Date:** 2015-01-18
+
+At the top of the internal basement stairs, **Daniel Brooks** had heard what Jordan's AAC tablet said about Firelight's 1980s synthesizer score—and a slow, delighted grin spread across his face.
+
+"Hold everything right there," Daniel called down in his crisp London accent, descending the stairs two at a time with Laura right behind him. "Did I just hear that my son has never been properly introduced to 1980s music?!"
+
+Mark jumped up from the sectional sofa, his eyes lighting up as he crossed to the high-end turntable, dedicated pre-amp, and vinyl crate in the corner of the basement. "Oh, we are fixing that right now. It's time for **An 80s Education—The Brooks Mix**."
+
+For the next hour, Daniel, Laura, and Mark turned the basement into a time machine of neon synthesizers, gated-reverb stadium drums, and soaring electric guitar solos—curating a crash course in the decade that Jordan's mother had locked away from him.
+
+Then Daniel reached into the front slot of the vinyl crate and pulled out a pristine original **1987 LP** whose sleeve shimmered with neon teal, magenta, and violet light over a starfield.
+
+"And this, Jordan," Daniel said softly, holding the album cover out so Jordan could trace the embossed lettering with his fingertips, "is the crown jewel of Blacksburg. Five students right here at **Commonwealth Polytechnic Institute**—**Cassidy O'Connell**, **Ryan**, **Evan**, **Holly**, and **Tyler**—started this band in a garage on Progress Street in 1986 because of their shared love for the cosmos and the rockets that take you there. They called themselves **The Stardust Engine**. And in 1987, they released this record: ***Electric Color***."
+
+Mark carefully set the black 1987 vinyl LP onto the platter, brushed the grooves, and lowered the diamond stylus onto Track One: ***"Electric Color"***.
+
+A crystal-clear piano motif floated out of the floor-standing speakers, followed seconds later by a shimmering wall of 1980s analog synthesizers, Tyler's thunderous drums, and Cassidy O'Connell's soaring, incandescent voice:
+
+> *"Oh, I'm seeing in electric color!"*
+
+Jordan's breath caught in his chest.
+
+All around him on the sofa and the rugs—Aubrie Jean holding his left hand, Madison resting her head on his right shoulder, Zoë, Lauren, Sarah, Jessica, Hannah, Mark, and Daniel and Laura smiling in the warm glow of the basement lamps—the music washed over him like a physical wave of light.
+
+For eighteen years in Virginia Beach, his entire world had been painted in flat, suffocating shades of gray and fear. Now, listening to Cassidy sing about stepping out of the dark and seeing the universe burst into neon teal, magenta, and gold, Jordan felt every chord resonate straight down to his bones.
+
+This wasn't just a song from 1987. ***"Electric Color"*** was *his* song—his personal anthem for the life he was building at CPI.
+
+Jordan's fingers flew across his `NeoEdit` keyboard, his eyes shining behind his glasses as he played the track back to the room:
+
+<aac>Play that again! I think I just found my theme song—because with all of you, the whole world is finally in Electric Color.</aac>
+
 ## Friday, 9:32 AM
 
 ### Scene 1: Friday, 9:32 AM (The Attack)
 
 **Date:** 2015-02-06
 
-The first three weeks of the spring semester had been the happiest twenty-one days of Jordan Brooks's life.
+The first three weeks of the spring semester had been the happiest twenty-one days of Jordan Fuller's life.
 
 When he rolled into Room 104 of Walton Hall at nine o'clock on Friday morning, February sixth, surrounded by all eight of his suite-mates for `ENGL 102`, nothing felt out of place. Outside, the sky over the Drillfield was a pale, cold February slate. Inside, Professor Arthur Pendelton was sketching a rhetorical triangle on the whiteboard while Jordan had his notebook open on the accessible wing-table beside Aubrie Jean.
 
@@ -11263,9 +11323,6 @@ Beside Jordan, Aubrie Jean was on her knees on his left side, both of her hands 
 
 Through the roaring static in his ears and the crushing iron weight on his sternum, Jordan heard the distant wail of a siren rising across the Drillfield. He couldn't speak, and every breath felt like inhaling crushed glass—but as the paramedics burst through the east doors of Walton Hall with a cardiac monitor and a rolling gurney, five pairs of hands only let go of him when the EMTs lifted him onto the stretcher.
 
----
-* **Soundtrack:** [1-09. Friday, 9:31 AM (The Attack)](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-2?track=1-09-friday-9-31-am-the-attack) in The Listening Room.
-
 ### Scene 2: The Emergency Room and Nuclear Medicine
 
 **Date:** 2015-02-06
@@ -11288,7 +11345,7 @@ Inside Trauma Bay One, the emergency physician, Dr. Warren, stared at the printo
 
 Dr. Patel reviewed the chart history that Hannah and Zoë had compiled—the severe childhood surgical trauma, the eighteen years of untreated chronic hyper-cortisol stress and sympathetic nervous system overdrive in Virginia Beach, and the congenital endothelial vulnerability documented in his previous records—and nodded grimly.
 
-"Chronic extreme catecholamine and cortisol exposure since early childhood can accelerate coronary calcification by decades," Dr. Patel said quietly, before leaning over Jordan's bed rail so Jordan could see his face clearly behind his mask. "Mr. Brooks—Jordan. The nitroglycerin and heparin drip have stabilized your rhythm enough for us to get an exact map of your coronary arteries before we take you into the cath lab. We're taking you straight across the hall to Nuclear Medicine for an emergent myocardial perfusion and coronary CT angiogram, and then I'm taking you into the catheterization suite to try to open that artery with a balloon and a stent."
+"Chronic extreme catecholamine and cortisol exposure since early childhood can accelerate coronary calcification by decades," Dr. Patel said quietly, before leaning over Jordan's bed rail so Jordan could see his face clearly behind his mask. "Mr. Fuller—Jordan. The nitroglycerin and heparin drip have stabilized your rhythm enough for us to get an exact map of your coronary arteries before we take you into the cath lab. We're taking you straight across the hall to Nuclear Medicine for an emergent myocardial perfusion and coronary CT angiogram, and then I'm taking you into the catheterization suite to try to open that artery with a balloon and a stent."
 
 Jordan nodded weakly against the pillow, the oxygen prongs hissing softly in his nostrils. Even through the morphine haze, the dull, heavy ache in the center of his chest was still sitting there like a hot coal.
 
@@ -11332,7 +11389,7 @@ Wait—as soon as her dark eyes met Jordan's, and she saw the pale exhaustion ar
 
 She stepped up beside Aubrie Jean at the left rail of the bed. Without looking at Kelsey or Garrett, Isabel reached out and wrapped both of her warm hands around Jordan's left hand—right beside Aubrie Jean's fingers.
 
-"You aren't allowed to scare your RA like that, Jordan Brooks," Isabel whispered, her voice trembling just enough at the edge to betray how terrified she had been during the twenty-minute drive down from Blacksburg. A single tear welled along her lower lash, though she blinked hard to keep it from falling onto her staff lanyard. "You fought too hard to come home to Bennett Hall in January. You hear me? You let these doctors fix your heart, and you come back to the second floor where you belong."
+"You aren't allowed to scare your RA like that, Jordan Fuller," Isabel whispered, her voice trembling just enough at the edge to betray how terrified she had been during the twenty-minute drive down from Blacksburg. A single tear welled along her lower lash, though she blinked hard to keep it from falling onto her staff lanyard. "You fought too hard to come home to Bennett Hall in January. You hear me? You let these doctors fix your heart, and you come back to the second floor where you belong."
 
 Beside her, Aubrie Jean didn't pull her hand back an inch. Instead, Aubrie Jean reached over and rested her free hand gently over the back of Isabel's wrist—a silent, unmistakable gesture of sisterly gratitude and reassurance from one woman who loved Jordan to another who had to hide behind a badge.
 
@@ -11342,7 +11399,7 @@ Garrett noticed that quiet touch between Aubrie Jean and Isabel. Just as he had 
 
 Isabel let out a shaky, relieved breath that was half-laugh, half-sob, and gave his hand one last tight squeeze before stepping back into formation beside Garrett and Kelsey just as two cardiac cath-lab nurses arrived at the door in blue lead aprons and scrub caps.
 
-"Mr. Brooks?" the lead nurse said gently, releasing the wheel locks on his gurney. "Suite Two is ready for you."
+"Mr. Fuller?" the lead nurse said gently, releasing the wheel locks on his gurney. "Suite Two is ready for you."
 
 ### Scene 4: The Failed Balloon Angioplasty
 
@@ -11426,9 +11483,6 @@ And every single time the monitor ticked upward, before the nurse even reached t
 
 At four in the morning, when the phlebotomist came in for the third blood draw of the night and Jordan winced at the fresh needle stick in his bruised left arm, Aubrie Jean leaned her forehead against his temple and hummed the quiet melody they used to listen to on the porch swing in Virginia Beach when they were twelve years old—holding the dark at bay two hours at a time.
 
----
-* **Soundtrack:** [1-10. The Longest Night (NPO)](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-2?track=1-10-the-longest-night-npo) in The Listening Room.
-
 ## The Thirty-Six-Hour Wait
 
 ### Scene 1: Every Two Hours
@@ -11459,9 +11513,6 @@ Jordan managed a tired smile against the pillow. "She's a good RA."
 
 "The best," Zoë agreed from the corner chair, where she was monitoring the hourly weather radar out of Blacksburg and Roanoke on her ThinkPad. She frowned slightly at the swirling purple bands building over the Mississippi Valley. "Though I am increasingly displeased with the atmospheric pressure trough moving toward Southwest Virginia. Star City General needs to clear a bed tomorrow before that cold front collides with the Gulf moisture on Tuesday."
 
----
-* **Soundtrack:** [1-10. The Longest Night (NPO)](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-2?track=1-10-the-longest-night-npo) in The Listening Room.
-
 ### Scene 2: Waiting on Roanoke (Madison's Watch)
 
 **Date:** 2015-02-07
@@ -11486,7 +11537,7 @@ Jordan looked at her—at the woman who had sat across from him on the first nig
 
 Madison's jaw tightened for a fraction of a second before her expression melted back into fierce, protective tenderness. She leaned in and pressed a slow, gentle kiss to his forehead, lingering there so he could feel the warmth of her breath against his skin.
 
-"Listen to me, Jordan Brooks," Madison murmured, her fingers lacing tightly with his. "You are never waking up to that voice again. Not on Monday, not on Tuesday, not ever. You signed your own medical consents here, and you're going to sign your own surgical consent in Roanoke—with your own insurance that *you* chose. And when you open your eyes in that Cardiovascular ICU after Dr. Hassan fixes your heart, the first thing you are going to see is one of us holding your hand."
+"Listen to me, Jordan Fuller," Madison murmured, her fingers lacing tightly with his. "You are never waking up to that voice again. Not on Monday, not on Tuesday, not ever. You signed your own medical consents here, and you're going to sign your own surgical consent in Roanoke—with your own insurance that *you* chose. And when you open your eyes in that Cardiovascular ICU after Dr. Hassan fixes your heart, the first thing you are going to see is one of us holding your hand."
 
 Through the long Saturday night—through the ten-o'clock blood draw, the midnight vitals check, the two-o'clock heparin calibration, and the four-o'clock ice swab—Madison never once let go of him. Whenever Jordan's eyes fluttered open in the dark, she was right there at the edge of the mattress, whispering stories about the Roman ruins they were going to see in Europe that summer until his heart rate settled back down into the fifties.
 
@@ -11536,17 +11587,19 @@ At five-fifteen on Sunday evening, Dr. Tariq Hassan walked into Jordan's pre-sur
 
 He was a tall, silver-templed cardiothoracic surgeon in his early fifties with calm, dark eyes and the steady, unhurried hands of a watchmaker. When he stepped into the room, he didn't look at Daniel first—as doctors in Virginia Beach had always looked at Jordan's mother while talking over Jordan's head as if he were furniture. Instead, Dr. Hassan pulled a rolling stool directly up to Jordan's bedside, sat down at eye level with him, and shook Jordan's left hand gently.
 
-"Mr. Brooks," Dr. Hassan said warmly. "I'm Dr. Hassan. I've reviewed your catheterization films from Dr. Patel and your complete medical history. First, let me tell you that Dr. Patel made the exact right call on Friday afternoon by stopping the balloon angioplasty when he did. That calcified plaque in your proximal Left Anterior Descending artery is rock-hard—likely the result of childhood vascular inflammation compounded by years of extreme physiological stress. Trying to force a stent into that lesion would have ruptured the vessel."
+"Mr. Fuller," Dr. Hassan said warmly. "I'm Dr. Hassan. I've reviewed your catheterization films from Dr. Patel and your complete medical history. First, let me tell you that Dr. Patel made the exact right call on Friday afternoon by stopping the balloon angioplasty when he did. That calcified plaque in your proximal Left Anterior Descending artery is rock-hard—likely the result of childhood vascular inflammation compounded by years of extreme physiological stress. Trying to force a stent into that lesion would have ruptured the vessel."
 
 Jordan nodded, listening closely while Daniel, Laura, and Lauren stood quietly beside the bed.
 
 "Tomorrow morning at six o'clock," Dr. Hassan continued, holding up a clean laminated diagram of the human heart, "we are going to perform a single-vessel Coronary Artery Bypass Graft—what we call a `LIMA-to-LAD` bypass. Instead of using a vein from your leg, which can narrow over ten or fifteen years, I am going to take your Left Internal Mammary Artery from the inside of your chest wall and sew it directly onto your Left Anterior Descending artery just past the blockage. In a nineteen-year-old man, a `LIMA` arterial graft has a patency rate exceeding ninety-five percent for decades. Once your sternum heals, that graft is built to carry you into old age."
 
-Jordan looked at the diagram, then looked Dr. Hassan straight in the eye. "Because I use a wheelchair, Dr. Hassan—what does sawing through my sternum mean for pushing my manual chair afterward?"
+Jordan looked at the diagram, then tapped a question onto his `NeoEdit` screen for Dr. Hassan:
+
+<aac>Because I use a wheelchair, Dr. Hassan—what does sawing through my sternum mean for pushing my manual chair afterward?</aac>
 
 Dr. Hassan nodded with immediate respect for the question. "For the first six to eight weeks after a median sternotomy, while the stainless-steel sternal wires hold the two halves of your breastbone together so the bone can fuse, you will be on strict **sternal precautions**. That means you cannot push, pull, or lift more than five to ten pounds with your arms, and you cannot propel a manual wheelchair up inclines without risking sternal dehiscence."
 
-"I already ordered a heavy-duty motorized power wheelchair two weeks ago," Jordan said steadily. "A matte-black *Vanguard Titan-X350* with a proportional right-hand joystick. It's scheduled for delivery next week."
+<aac>I already ordered a heavy-duty motorized power wheelchair two weeks ago. A matte-black Vanguard Titan-X350 with a proportional right-hand joystick. It's scheduled for delivery next week.</aac>
 
 Dr. Hassan's eyebrows rose in genuine surprise, and a warm smile broke across his face. "A proportional joystick requires less than four ounces of finger pressure. That will protect your sternum completely while giving you total mobility, and we will enroll you in outpatient Cardiac Rehabilitation in Blacksburg as soon as your incision clears its two-week check."
 
@@ -11558,25 +11611,27 @@ Daniel immediately held up both palms and took half a step back.
 
 Dr. Hassan smiled, took the clipboard from the resident, and placed it directly into Jordan's hands.
 
-"Everything is explained on pages one and two, Mr. Brooks," Dr. Hassan said. "Whenever you are ready."
+"Everything is explained on pages one and two, Mr. Fuller," Dr. Hassan said. "Whenever you are ready."
 
 Jordan read through the procedure description—`Median Sternotomy; Single-Vessel Coronary Artery Bypass Graft (LIMA to LAD) with Cardiopulmonary Bypass`—and signed his name squarely on the patient signature line.
 
 ---
 
-By eight-thirty that night, Daniel and Laura had driven back down the mountain to Christiansburg so they could bring the rest of the Bennett Hall family up to Roanoke at five o'clock in the morning before Jordan rolled into the OR. Lauren stayed behind in the Star City General room as Jordan's Sunday night anchor.
+By eight-thirty that night, Daniel and Laura had driven back down the mountain to Christiansburg so they could bring the rest of the family up to Roanoke at five o'clock in the morning before Jordan rolled into the OR. Lauren stayed behind in the Star City General room as Jordan's Sunday night anchor.
 
-Because the night before open-heart surgery was the hardest psychological hill of the weekend, Zoë had engineered a **Virtual Fortress** from Suite 214/216 back in Bennett Hall.
+Because the IV line in his forearm and the pulse-oximeter sensor taped to his finger made typing calculus homework on his `Pinnacle Precisionist 5000` laptop nearly impossible, Lauren gently took the laptop, set it on the overbed table, and dimmed the hospital room lights.
 
-Propped on Jordan's over-bed tray table was Zoë's high-resolution tablet, running a dual-screen encrypted bridge: on the left side of the screen sat the live camera feed of Aubrie Jean, Madison, Zoë, Hannah, Mark, Sarah, and Jessica curled together on the Alaskan King bed back in Room 214; on the right side played a synchronized stream of Jordan's favorite epic fantasy film, ***"The Silver Gauntlet of Aethel."***
+"How about we watch the 1987 theatrical cut of ***The Silver Gauntlet of Aethel***?" Lauren smiled, pulling her reclining visitor's chair right up beside his bed rail. "It's only two hours, so you can still get some sleep before 6:00 AM."
 
-*"Just for the record,"* Mark's voice came through the speaker as the opening orchestral fanfare played while Lauren dimmed the hospital room lights and climbed into the bedside recliner, holding Jordan's hand, *"Zoë wanted to queue up the twelve-hour 'Leviathan Director's Cut,' and we had to remind her that you have an appointment with Dr. Hassan at six in the morning."*
+As the familiar, soaring 1980s synthesizer anthem of ***"A Sister's Love (Main Theme)"*** by **Firelight** filled the quiet pre-surgical room against the steady beep of the heart monitor, Zoë linked in a quiet video window from Suite 214/216 back in Bennett Hall so Aubrie Jean, Madison, Zoë, Hannah, Mark, Sarah, and Jessica could watch along with them.
 
-*"The theatrical two-hour cut omits forty-seven minutes of crucial logistical exposition regarding the dwarven supply lines,"* Zoë protested from the corner of the Alaskan King bed, making Jordan laugh out loud despite the IV lines taped to his arms.
+Having fallen in love with the twelve-hour, twenty-one-minute *Leviathan Cut* in the Brooks basement three weeks earlier, Jordan watched the two-hour 1987 theatrical version in sheer disbelief—shaking his head at Lauren as the movie chopped out Lord Malakor's entire origin story, skipped ***"The Tyrant's Throne"***, omitted Kaela's rebellion subplot in the Shadowspire, and compressed the Bridge of a Thousand Truths into a thirty-second montage.
 
-*"Wait until Tuesday night when you're out of surgery, Jordy,"* Aubrie Jean said softly, leaning close to the webcam in Bennett Hall with her eyes shining. *"We'll be right there in the waiting room at five-thirty tomorrow morning before they wheel you back. Every single one of us."*
+*"See?"* Madison whispered fiercely over the video link from Room 214. *"Once Dr. Hassan fixes your heart tomorrow morning, we are strictly a Leviathan Cut household from here on out!"*
 
-At eleven-fifty-five that night, as the end credits of *The Silver Gauntlet of Aethel* rolled across the tablet and the midnight `NPO` clock officially locked in, Lauren drank a glass of water with Jordan for the last time before morning, kissed his forehead, and kept her hand wrapped around his until he drifted to sleep.
+*"We'll be right there in the waiting room at five-thirty tomorrow morning before they wheel you back, Jordy,"* Aubrie Jean whispered softly, leaning close to the webcam in Bennett Hall with her eyes shining. *"Every single one of us."*
+
+At eleven-fifty-five that night, as the end credits of *The Silver Gauntlet of Aethel* rolled across the laptop and the midnight `NPO` clock officially locked in, Lauren held Jordan's hand until he finally drifted into a thin, restless sleep.
 
 ## Open Heart and the Silent Vigil
 
@@ -11610,7 +11665,7 @@ One by one, each of them leaned down and kissed him—not a goodbye, never a goo
 
 Finally, Aubrie Jean leaned her forehead against his, her blue eyes filling his entire field of view as the OR circulation nurses released the wheel brakes on the gurney.
 
-"I love you, Jordan Brooks," Aubrie Jean whispered. "See you in a few hours."
+"I love you, Jordan Fuller," Aubrie Jean whispered. "See you in a few hours."
 
 "Love you all," Jordan breathed as the gurney began to roll backward down the bright white corridor toward Cardiothoracic Operating Room One.
 
@@ -11688,7 +11743,7 @@ The green heart-rate trace on the monitor above his head rocketed from `78` to `
 
 His left hand came up weakly, his trembling fingers clawing at the Velcro strap of the CPAP mask as his chest heaved against the pressure.
 
-"Mr. Brooks, don't pull the mask off, you need the positive pressure to pop your alveoli open!" the respiratory therapist urged, gently catching his wrist.
+"Mr. Fuller, don't pull the mask off, you need the positive pressure to pop your alveoli open!" the respiratory therapist urged, gently catching his wrist.
 
 Through the roaring wind inside the plastic mask and the shrill yellow chime of the tachycardia alarm, the frosted glass door of Bay Four slid open.
 
@@ -11830,9 +11885,6 @@ On the monitor above the bed, his heart rate drifted smoothly back down from `76
 
 Outside, the February blizzard raged across the dark peaks of the Blue Ridge. Inside Room 612, held between Zoë's warmth at his side and Aubrie Jean's voice across the snowbound valley, Jordan closed his eyes and felt his newly mended heart beat strong and whole.
 
----
-* **Soundtrack:** [1-11. A CVICU Romance (Intimacy v2)](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-2?track=1-11-a-cvicu-romance-intimacy-v2) in The Listening Room.
-
 ### Scene 4: The Diuretic and the Two-Hour Interrupts
 
 **Date:** 2015-02-10
@@ -11841,7 +11893,7 @@ If nine-thirty on Tuesday night was the quiet poetry of a CVICU romance, eleven-
 
 When the night-shift nurse, Carla, came in for her eleven-o'clock rounds and checked Jordan's intake-and-output balance sheet against his morning chest X-ray, she held up a small plastic syringe barrel filled with clear liquid.
 
-"All right, Mr. Brooks," Carla said cheerily, swabbing the needleless port on his central IV line. "You're still carrying about four and a half pounds of extra bypass fluid from yesterday's pump run, and Dr. Hassan wants your lungs crystal clear by tomorrow morning. I'm pushing forty milligrams of intravenous `Lasix` right now."
+"All right, Mr. Fuller," Carla said cheerily, swabbing the needleless port on his central IV line. "You're still carrying about four and a half pounds of extra bypass fluid from yesterday's pump run, and Dr. Hassan wants your lungs crystal clear by tomorrow morning. I'm pushing forty milligrams of intravenous `Lasix` right now."
 
 Jordan looked at the syringe. "How fast does IV Lasix work?"
 
@@ -11865,7 +11917,7 @@ Zoë settled her head gently back onto the corner of his pillow, her fingers cur
 
 "Statistically, no," Zoë murmured, closing her eyes with a content little sigh as his heart monitor ticked along at a rock-steady `62 BPM`. "Wait—every milliliter on that chart is one less gram of fluid pressing on your heart and lungs. By Thursday, you're going to pass Dr. Hassan's in-bed weight check, and we're taking you home."
 
-## The Figure-Eight Lap
+## The Figure-Eight Lap and 'A Sister's Love'
 
 ### Scene 1: Soft Cardiac Breakfast and the Figure-Eight Lap
 
@@ -11883,7 +11935,7 @@ At eight o'clock, the dietary aide delivered a warm **Soft Cardiac Breakfast** t
 
 As Jordan ate with his left hand while keeping his right elbow tucked inside the imaginary "sternal cylinder" Dr. Hassan had taught him—never reaching backward or lifting above shoulder height—two physical therapists in navy scrubs knocked on the open doorframe.
 
-"Good morning, Mr. Brooks," said Leo, the lead cardiac physical therapist, carrying a telemetry pack and a specialized high-backed cardiac rehab transport chair. "Dr. Hassan says if you want to stay on track for a Friday discharge back to Christiansburg, today is the day you conquer the **Figure-Eight Lap** around Pods A and B."
+"Good morning, Mr. Fuller," said Leo, the lead cardiac physical therapist, carrying a telemetry pack and a specialized high-backed cardiac rehab transport chair. "Dr. Hassan says if you want to stay on track for a Friday discharge back to Christiansburg, today is the day you conquer the **Figure-Eight Lap** around Pods A and B."
 
 Because of Jordan's pre-existing lower-extremity paraplegia and neuromuscular weakness—and because his freshly wired sternum prohibited him from pushing the hand-rims of his manual wheelchair for the next six weeks—cardiac physical therapy for Jordan looked different from the standard hallway walk, yet it tested his heart just as rigorously.
 
@@ -11909,17 +11961,51 @@ Right now, his heart was beating at ninety-two beats per minute after twenty min
 
 Zoë reached down and squeezed his shoulder gently, her dark eyes shining. "Sixty-eight milliliters per minute through a wide-open Left Internal Mammary Artery graft. Your engine finally has the fuel line it needed all along."
 
+### Scene 2: Vocalizing 'A Sister's Love'
+
+**Date:** 2015-02-11
+
+By two o'clock that Wednesday afternoon, after conquering the Figure-Eight Lap around the Cardiovascular Step-Down hallway and settling back into the elevated head of his bed in Room 508, Jordan felt the deep, hollow ache of post-surgical fatigue settling into his wired breastbone.
+
+Every breath still took conscious effort against the stainless-steel wires holding his sternum together, and his throat remained raw and scratchy from Monday's endotracheal tube and Tuesday's high-pressure CPAP mask.
+
+On the overbed table right at his side sat his **`Pinnacle Precisionist 5000`** laptop, which Aubrie Jean and Madison had plugged in for him so it was within easy reach of his right hand.
+
+Jordan didn't feel like looking at equations right now. Sitting in a hospital recovery room with chest-tube dressings and telemetry leads taped to his skin, he was in the mood for 1980s fantasy-adventure—for Kaelan and Kaela, for Sunstead, and for the soaring music that had carried him through his sick day in the Brooks basement three weeks ago.
+
+With two fingers, Jordan clicked open the media player on his laptop and cued up ***The Silver Gauntlet of Aethel*** (`The Leviathan Cut`).
+
+As the opening title sequence lit up his laptop screen, the quiet hospital room filled with the shimmering 1980s synthesizer arpeggios and driving drums of **Firelight's** main theme: ***"A Sister's Love"***.
+
+Beside the bed, Aubrie Jean and Madison looked up from their chairs and smiled warmly as the familiar melody drifted past the steady green *beep-beep-beep* of his cardiac monitor.
+
+And then Jordan did something that made both of them freeze in wonder.
+
+Jordan was non-verbal—spoken words had always locked up behind the wall of his cerebral palsy and childhood trauma, which was why his `NeoEdit` AAC tablet was his voice. Wait—as Firelight's soaring 1980s chorus rose from the laptop speakers, Jordan hugged his red heart-shaped sternal splint pillow firmly against his chest, drew the longest, deepest breath his healing lungs had taken since Monday morning's open-heart surgery, and began to **vocalize the melody of *"A Sister's Love"*** out loud.
+
+At first, his voice came out soft and raspy from the intubation tube—a sustained, wordless musical hum riding the exact pitch of the synthesizer lead. Then, on the second measure of the chorus, as he felt his diaphragm expand without fear, Jordan took an even deeper breath and let the open vowel tones of the melody ring out clearly across the recovery room.
+
+Aubrie Jean's hands flew to her mouth, tears of pure joy springing into her eyes, while Madison gripped the bed rail with a radiant, trembling smile.
+
+Just outside the half-open door, the cardiovascular respiratory therapist who had come by to check Jordan's afternoon incentive spirometer stopped dead in her tracks, watching in amazement as the nineteen-year-old CABG patient used a 1980s fantasy-adventure theme song to expand his lower lung lobes far better than any plastic breathing tube ever could.
+
+When the final triumphant synthesizer chord of ***"A Sister's Love"*** faded out on the laptop, Jordan let out a long, clean exhale, his cheeks flushed pink and his `SpO2` reading a rock-solid **`100%`** on the wall monitor.
+
+He reached over to the incentive spirometer, sealed his lips around the mouthpiece, and inhaled smoothly—floating the yellow piston all the way up past **`1,900 mL`**.
+
+"One thousand nine hundred milliliters!" the respiratory therapist beamed from the doorway, clapping her hands softly. "Keep playing that 1980s soundtrack, Mr. Fuller—that was the best respiratory therapy session on the fifth floor all week!"
+
 ## Four Pounds Down
 
 ### Scene 1: Four Pounds Down and the Highway Thaw
 
 **Date:** 2015-02-12
 
-On Thursday morning, February twelfth, the final gate standing between Jordan Brooks and Friday's hospital discharge was built right into the steel frame of his hospital bed: the digital **In-Bed Scale**.
+On Thursday morning, February twelfth, the final gate standing between Jordan Fuller and Friday's hospital discharge was built right into the steel frame of his hospital bed: the digital **In-Bed Scale**.
 
 At six-forty-five in the morning, just before Dr. Hassan's surgical rounds, Jordan's day-shift nurse, Marcus, stepped into Room 612 with the morning vitals clipboard.
 
-"All right, Mr. Brooks," Marcus said, tapping the LCD control panel at the foot of the Stryker cardiac bed. "Dr. Hassan's rule for post-CABG discharge is that your morning weight has to be within one pound of your pre-bypass dry weight so we know there's no hidden pericardial or pleural fluid building back up. And to get an accurate reading on the bed scale, everything that isn't you has to come off the mattress for thirty seconds."
+"All right, Mr. Fuller," Marcus said, tapping the LCD control panel at the foot of the Stryker cardiac bed. "Dr. Hassan's rule for post-CABG discharge is that your morning weight has to be within one pound of your pre-bypass dry weight so we know there's no hidden pericardial or pleural fluid building back up. And to get an accurate reading on the bed scale, everything that isn't you has to come off the mattress for thirty seconds."
 
 Zoë, already dressed and awake with her notebook open, stepped to the left side of the bed while Marcus took the right.
 
@@ -11979,7 +12065,7 @@ Jordan looked down at the red heart pillow in his lap. He felt a sudden sting of
 
 Aubrie Jean immediately knelt down in front of him, resting her hands gently on his knees below the sternal pillow.
 
-"Look at me, Jordan Brooks," Aubrie Jean said, her blue eyes fierce with love. "Nothing about what you did this week is going backward. You survived a widowmaker heart attack at nineteen. You signed your own surgical consents, paid with your own insurance, and walked the CVICU hallway forty-eight hours after open-heart surgery. Going to the Christiansburg basement for eight days until your power chair arrives isn't hiding—it's a tactical pit stop so your breastbone can heal safely."
+"Look at me, Jordan Fuller," Aubrie Jean said, her blue eyes fierce with love. "Nothing about what you did this week is going backward. You survived a widowmaker heart attack at nineteen. You signed your own surgical consents, paid with your own insurance, and walked the CVICU hallway forty-eight hours after open-heart surgery. Going to the Christiansburg basement for eight days until your power chair arrives isn't hiding—it's a tactical pit stop so your breastbone can heal safely."
 
 "And you won't be cut off from us or from school for a single day," Madison added warmly, resting her hand on his shoulder. "The five of us have already worked out a rotation so one of us comes home from campus every single afternoon to study with you and stay in the basement queen bed with you at night. And during the day while we're in lecture, Megan has her remote engineering workstation set up right across the basement table from you."
 
@@ -12189,9 +12275,6 @@ He leaned back against his chair and looked around the basement table at his eig
 
 In August, he had looked at the hills of Commonwealth Polytechnic Institute and wondered how a guy in a wheelchair with a broken past was ever going to survive freshman year. Tonight, eleven days after open-heart surgery, he wasn't just surviving the campus—he was redrawing the map so that no student who rolled onto this mountain after him would ever feel locked out again.
 
----
-* **Soundtrack:** [1-13. The Accessibility Project](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-2?track=1-13-the-accessibility-project) in The Listening Room.
-
 ## Three Hundred and Fifty Pounds of Freedom
 
 ### Scene 1: The First Outing at The Smokin' Anvil
@@ -12225,9 +12308,9 @@ Then Jordan's phone buzzed on the table beside his water glass.
 It was a text message from **Marcus Vance** at Blue Ridge Complex Rehab & Mobility:
 
 > **From:** Marcus Vance, ATP (Blue Ridge Mobility)<br>
-> **To:** Jordan Brooks<br>
+> **To:** Jordan Fuller<br>
 > **Time:** 12:48 PM<br>
-> *Mr. Brooks — Our delivery sprinter van just finished final diagnostics and battery top-off on your custom matte-black Vanguard Titan-X350. ETA to the Christiansburg house is 1:30 PM sharp. Ready to roll?*
+> *Mr. Fuller — Our delivery sprinter van just finished final diagnostics and battery top-off on your custom matte-black Vanguard Titan-X350. ETA to the Christiansburg house is 1:30 PM sharp. Ready to roll?*
 
 Jordan turned the phone screen so Aubrie Jean, Madison, Zoë, Lauren, Hannah, and Mark could all read the message at once.
 
@@ -12245,7 +12328,7 @@ Even knowing the specifications he had signed for in January, seeing his custom 
 
 Three hundred and fifty pounds of matte-black, aircraft-grade aluminum and steel sat planted on six independent suspension wheels. The high-backed contoured biomechanical seat was upholstered in breathable charcoal ballistic mesh over the custom fluid-cell memory cushion. Mounted on the swing-away right armrest sat the sleek proportional `R-Net` color LCD joystick module, complete with integrated amber-and-white LED path-lights tucked into the front matte-black fenders and a heavy-duty backpack and medical-kit rack welded seamlessly behind the headrest.
 
-"Here she is, Mr. Brooks," Marcus said proudly, locking the electromagnetic parking brakes with a solid *click* and flipping up the left armrest flush against the backrest so Jordan could execute a level side-by-side transfer from his manual chair. "Custom-programmed to your exact weight, seating geometry, and Dr. Hassan's sternal protection profile. Try a zero-arm transfer right onto the cushion."
+"Here she is, Mr. Fuller," Marcus said proudly, locking the electromagnetic parking brakes with a solid *click* and flipping up the left armrest flush against the backrest so Jordan could execute a level side-by-side transfer from his manual chair. "Custom-programmed to your exact weight, seating geometry, and Dr. Hassan's sternal protection profile. Try a zero-arm transfer right onto the cushion."
 
 With Mark steadying the frame of the old manual chair for the last time, Jordan hugged his elbows in, engaged his core, and pivoted smoothly onto the contoured seat of the *Titan-X350*.
 
@@ -12306,7 +12389,7 @@ For the past nine days, ever since taking delivery of his three-hundred-and-fift
 Then, at two-forty-five on Monday afternoon as the nine of them walked and rolled back down from the academic quad toward Bennett Hall, Jordan's phone chimed with a direct text from **Kelsey Brennan**:
 
 > **From:** Kelsey Brennan (Hall Director, Bennett Hall)<br>
-> **To:** Jordan Brooks, Mark Scott, Zoë Brooks<br>
+> **To:** Jordan Fuller, Mark Anderson, Zoë Brooks<br>
 > **Time:** 2:45 PM<br>
 > *Hey guys — when you get back from 2:00 PM lecture, could you come straight into my first-floor office before heading up the elevator? A deputy from the Montgomery County Sheriff's Civil Division is here with out-of-county paperwork for Jordan. Don't panic—he is completely friendly and only doing a civil service check, and I kept it strictly inside my private office so nobody in the lobby sees a thing.*
 
@@ -12326,13 +12409,13 @@ Inside the private first-floor Hall Director's office, Kelsey Brennan had closed
 
 Isabel Dawson and Garrett Reynolds stood quietly just inside the inner hallway door, having been called down by Kelsey as building witnesses so that Jordan had friendly Housing staff around him.
 
-"Afternoon, Mr. Brooks," Deputy Miller said gently, removing his Stetson hat and tucking it under his arm so he didn't look intimidating in the small office. "First off, let me tell you right up front: nobody is in trouble, nobody is going anywhere, and if I had my personal way, I wouldn't even be carrying this envelope up the hill. Unfortunately, under the Code of Virginia, when a Circuit Court clerk in another jurisdiction issues a civil summons, our civil division is required by law to hand-deliver it to the named respondent."
+"Afternoon, Mr. Fuller," Deputy Miller said gently, removing his Stetson hat and tucking it under his arm so he didn't look intimidating in the small office. "First off, let me tell you right up front: nobody is in trouble, nobody is going anywhere, and if I had my personal way, I wouldn't even be carrying this envelope up the hill. Unfortunately, under the Code of Virginia, when a Circuit Court clerk in another jurisdiction issues a civil summons, our civil division is required by law to hand-deliver it to the named respondent."
 
 "I understand, Deputy Miller," Jordan said evenly, guiding his power chair up to the edge of Kelsey's desk. "Thank you for asking Kelsey to handle it privately down here."
 
 Deputy Miller nodded with visible respect for the young man sitting tall in the matte-black power chair. He handed the thick blue-backed court packet directly to Jordan and held out his electronic service clipboard.
 
-"This is a civil summons and a **Petition for Emergency and Permanent Adult Plenary Guardianship and Conservatorship**, filed in the **Circuit Court of the City of Norfolk, Virginia**, by petitioner **Aubrie Sinclair**, regarding respondent **Aubrey Jordan Fuller, now known as Jordan Brooks**," Deputy Miller read quietly. "The return hearing before Judge Horace Vance is set for **Tuesday, March seventeenth, at nine o'clock in the morning** at the Norfolk Circuit Courthouse."
+"This is a civil summons and a **Petition for Emergency and Permanent Adult Plenary Guardianship and Conservatorship**, filed in the **Circuit Court of the City of Norfolk, Virginia**, by petitioner **Aubrie Sinclair**, regarding respondent **Aubrey Jordan Fuller, known as Jordan Fuller**," Deputy Miller read quietly. "The return hearing before Judge Horace Vance is set for **Tuesday, March seventeenth, at nine o'clock in the morning** at the Norfolk Circuit Courthouse."
 
 Jordan took the stylus from Deputy Miller and signed the civil proof-of-service line without a single tremor in his fingers.
 
@@ -12349,9 +12432,6 @@ Jordan didn't cry. He didn't hyperventilate. And for the first time in his life,
 Instead, sitting in a three-hundred-and-fifty-pound power wheelchair he had selected and signed for himself, with a freshly healed sternal scar over a bypass graft he had consented to himself, Jordan closed the blue legal cover and looked up at Zoë and Mark.
 
 "She just lied under oath to a Virginia Circuit Court judge about things we have federal tax receipts, hospital surgical consents, and university transcripts to disprove," Jordan said quietly. "Let's call Mr. Miller and Dad."
-
----
-* **Soundtrack:** [1-16. Guardianship (The Summons)](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-1?track=1-16-guardianship-the-summons) in The Listening Room.
 
 ### Scene 2: The War Council and the Hotel at Poly
 
@@ -12407,7 +12487,7 @@ Mark raised his hand from the corner of the table, a calm, tactical look in his 
 
 Arthur looked down at Jordan at the head of the table.
 
-"What's your decision on the legal strategy and the Spring Break bug-out, Mr. Brooks?" Arthur asked respectfully. "You're the client."
+"What's your decision on the legal strategy and the Spring Break bug-out, Mr. Fuller?" Arthur asked respectfully. "You're the client."
 
 Jordan placed both hands on the mahogany table, looking around at the eleven people who had turned his life from a cage into a fortress.
 
@@ -12421,13 +12501,13 @@ Jordan placed both hands on the mahogany table, looking around at the eleven peo
 
 At ten-fifty on Thursday morning, March fifth, as the bell rang at the end of `MATH 112` in McBryde Hall Room 100, a petite woman in a tailored charcoal suit with a Virginia State Bar briefcase stood waiting quietly by the rear accessible aisle.
 
-Jordan recognized her immediately from Arthur Miller's briefing: **Ms. Anya Sharma**, the independent attorney appointed by the Circuit Court of the City of Norfolk as **Guardian *ad Litem*** (`GAL`) to investigate whether nineteen-year-old Jordan Brooks was truly an "incapacitated adult" in need of a court-ordered guardian.
+Jordan recognized her immediately from Arthur Miller's briefing: **Ms. Anya Sharma**, the independent attorney appointed by the Circuit Court of the City of Norfolk as **Guardian *ad Litem*** (`GAL`) to investigate whether nineteen-year-old Jordan Fuller was truly an "incapacitated adult" in need of a court-ordered guardian.
 
 True to her reputation for thoroughness, Ms. Sharma had arrived in Blacksburg thirty minutes early and stood quietly at the back of the lecture tier—watching in person as Jordan glided smoothly into the auditorium at the controls of his matte-black *Vanguard Titan-X350* power wheelchair, opened his notebook beside Aubrie Jean, and raised his hand halfway through class to answer Dr. Alistair's question on the radius of convergence of a Taylor series.
 
 When the lecture let out, Ms. Sharma walked down the ramped aisle with her credential folder open.
 
-"Mr. Brooks?" she said, her voice professional, measured, and completely neutral. "I am Anya Sharma, the Guardian *ad Litem* appointed by Judge Vance. Before we walk over to your residence hall for our private statutory interview, would you object if I spoke briefly with your professor?"
+"Mr. Fuller?" she said, her voice professional, measured, and completely neutral. "I am Anya Sharma, the Guardian *ad Litem* appointed by Judge Vance. Before we walk over to your residence hall for our private statutory interview, would you object if I spoke briefly with your professor?"
 
 "Not at all, Ms. Sharma," Jordan said politely, gesturing toward the lectern where **Dr. Alistair** was erasing a triple integral from the chalkboard. "Dr. Alistair teaches both my `MATH 112` Calculus class and my `PHYS 102` Physics class, and I already signed a `FERPA` waiver with the Registrar so he can speak freely with you."
 
@@ -12435,7 +12515,7 @@ Dr. Alistair set down his chalk eraser, dusted his hands, and looked at Ms. Shar
 
 For three seconds, the veteran physicist stared at Ms. Sharma as if she had just suggested that gravity ran upward.
 
-"Incapacitated?" Dr. Alistair repeated, his resonant baritone echoing through the empty lecture hall. "Madam, Mr. Brooks currently holds a ninety-nine point four percent average in my second-semester university calculus course and a ninety-eight point eight percent average in electricity and magnetism. Three weeks ago, he suffered a life-threatening myocardial infarction and underwent open-heart bypass surgery on a Monday morning—and while recovering in the Cardiovascular ICU, he streamed my Wednesday lecture remotely and submitted a flawless problem set on Gauss's Law by Friday afternoon. If Mr. Brooks is 'incapacitated,' then ninety-five percent of the Commonwealth of Virginia ought to be placed in a conservatorship before noon."
+"Incapacitated?" Dr. Alistair repeated, his resonant baritone echoing through the empty lecture hall. "Madam, Mr. Fuller currently holds a ninety-nine point four percent average in my second-semester university calculus course and a ninety-eight point eight percent average in electricity and magnetism. Three weeks ago, he suffered a life-threatening myocardial infarction and underwent open-heart bypass surgery on a Monday morning—and while recovering in the Cardiovascular ICU, he streamed my Wednesday lecture remotely and submitted a flawless problem set on Gauss's Law by Friday afternoon. If Mr. Fuller is 'incapacitated,' then ninety-five percent of the Commonwealth of Virginia ought to be placed in a conservatorship before noon."
 
 A tiny, almost imperceptible twitch pulled at the corner of Ms. Sharma's lips as she wrote every word down in her leather-bound court notebook.
 
@@ -12459,17 +12539,17 @@ He showed her the certified copies of his eighteen pediatric surgical records an
 * His IRS `Form 8879` e-file acceptance receipt from Operation "File First" (`2015-01-17`).
 * His signed specification and delivery receipt for the *Vanguard Titan-X350* power wheelchair (`2015-02-21`).
 * His approved United States Passport and `NEXUS` Trusted Traveler confirmations for the Summer 2015 World Trek.
-* And finally, his signed **Star City General Hospital Informed Consent for Open-Heart Coronary Artery Bypass Graft Surgery** (`2015-02-08`), accompanied by Chief Cardiothoracic Surgeon **Dr. Tariq Hassan's** four-page sworn medical affidavit attesting that Jordan Brooks possessed exemplary medical decision-making capacity and that forcing him back into the household stress of Virginia Beach would pose a direct, life-threatening risk to his coronary bypass graft.
+* And finally, his signed **Star City General Hospital Informed Consent for Open-Heart Coronary Artery Bypass Graft Surgery** (`2015-02-08`), accompanied by Chief Cardiothoracic Surgeon **Dr. Tariq Hassan's** four-page sworn medical affidavit attesting that Jordan Fuller possessed exemplary medical decision-making capacity and that forcing him back into the household stress of Virginia Beach would pose a direct, life-threatening risk to his coronary bypass graft.
 
 Ms. Sharma turned the last page of Dr. Hassan's affidavit slowly.
 
 For a long moment, the veteran court investigator simply looked across the table at nineteen-year-old Jordan sitting tall in his matte-black power chair, the top edge of his healing sternal scar just visible above the collar of his button-down shirt.
 
-"Mr. Brooks," Ms. Sharma said quietly, closing her court notebook and capping her fountain pen, "as a Guardian *ad Litem*, I do not represent your mother, and I do not represent your father's counsel—I represent the objective truth to Judge Vance. In twelve years of investigating adult guardianship petitions across Virginia, I have never seen a more thorough, irrefutable demonstration of adult competence, courage, and self-determination than what is sitting in this binder."
+"Mr. Fuller," Ms. Sharma said quietly, closing her court notebook and capping her fountain pen, "as a Guardian *ad Litem*, I do not represent your mother, and I do not represent your father's counsel—I represent the objective truth to Judge Vance. In twelve years of investigating adult guardianship petitions across Virginia, I have never seen a more thorough, irrefutable demonstration of adult competence, courage, and self-determination than what is sitting in this binder."
 
 She stood up and shook Jordan's hand with genuine warmth.
 
-"Go to your Cardiac Rehabilitation appointment this afternoon, Mr. Brooks, and enjoy your Spring Break," Ms. Sharma said. "My report to the Norfolk Circuit Court will recommend immediate dismissal of this petition **with prejudice**, along with full statutory sanctions against the petitioner."
+"Go to your Cardiac Rehabilitation appointment this afternoon, Mr. Fuller, and enjoy your Spring Break," Ms. Sharma said. "My report to the Norfolk Circuit Court will recommend immediate dismissal of this petition **with prejudice**, along with full statutory sanctions against the petitioner."
 
 ### Scene 2: Cardiac Rehab (The Breaking Point)
 
@@ -12524,7 +12604,7 @@ Elena reached toward the console as if to pause the interval, but Hannah glanced
 
 "Sixty seconds left on the peak interval, Jordan!" Hannah called out, her eyes shining with tears of her own as she matched his breathing cadence beat for beat. "Look at that monitor! One hundred and thirty-one beats per minute and your heart isn't even flinching! Your chest is strong, your graft is open, and she can't touch you!"
 
-"You're a student and a man, Jordan Brooks!" Aubrie Jean whispered fiercely against his temple, kissing the salt and sweat on his cheek as his trembling arms fought through the forty-five-watt resistance. "Thirty seconds! Push through the wall with us!"
+"You're a student and a man, Jordan Fuller!" Aubrie Jean whispered fiercely against his temple, kissing the salt and sweat on his cheek as his trembling arms fought through the forty-five-watt resistance. "Thirty seconds! Push through the wall with us!"
 
 Through the blur of tears stinging his eyes, Jordan gripped the foam handles of the ergometer until his knuckles turned white.
 
@@ -12534,14 +12614,11 @@ The console chimed a bright green tone and dropped the resistance down to the fi
 
 Jordan kept turning the handles slowly as the cooldown timer began, his chest heaving, his face wet with tears and sweat—and yet inside his ribcage, for the first time in his life at `132` beats per minute, there was no crushing vise, no darkness, and no fear.
 
-Elena handed him a cool towel, her eyes wide with quiet admiration as she looked at the telemetry printout. "Zero arrhythmia, zero ischemia, peak metabolic output achieved. Mr. Brooks, your heart just passed its hardest stress test with flying colors."
+Elena handed him a cool towel, her eyes wide with quiet admiration as she looked at the telemetry printout. "Zero arrhythmia, zero ischemia, peak metabolic output achieved. Mr. Fuller, your heart just passed its hardest stress test with flying colors."
 
 Jordan wiped his face with the towel, took a deep, clean breath that filled his lungs all the way to the bottom, and looked up at Aubrie Jean, Hannah, and Mark with a fierce, washed-clean smile.
 
 "The breaking point is behind us," Jordan said quietly. "Let's go pack for Bluewater."
-
----
-* **Soundtrack:** [1-12. Cardiac Rehab (The Breaking Point)](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-2?track=1-12-cardiac-rehab-the-breaking-point) in The Listening Room.
 
 ## The Bluewater Bunker
 
@@ -12612,9 +12689,6 @@ That night, with the steel gate locked at the bottom of the hollow and the mount
 Lying in the warm center of the pushed-together mattresses—with Aubrie Jean and Madison on his left, Zoë, Lauren, and Hannah curled on his right, and ten hands gently linking across the quilt around his healed chest—Jordan let out a long, deep breath.
 
 No private investigator, no process server, and no ghost from Virginia Beach could reach them here.
-
----
-* **Soundtrack:** [1-17. The Bluewater Bunker](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-1?track=1-17-the-bluewater-bunker) in The Listening Room.
 
 ## Lessons from a Fellow Traveler
 
@@ -12730,7 +12804,7 @@ At eight-fifty on Tuesday morning, March seventeenth, the double oak doors of Co
 
 Sitting alone at the petitioner's table on the left side of the courtroom was **Aubrie Sinclair**, dressed in a pale cream church suit with a lace handkerchief already dabbed at her dry eyes, flanked by her hired Tidewater family-law attorney, Mr. Richard Vance-Sterling. Behind her in the left-hand gallery pews sat not a single friend, neighbor, or relative. Her side of the courtroom was completely empty.
 
-Then Jordan Brooks glided through the center oak doors at the helm of his three-hundred-and-fifty-pound matte-black *Vanguard Titan-X350* power wheelchair, dressed in a sharp charcoal suit, crisp white shirt, and maroon-and-gold Commonwealth Polytechnic Institute silk tie, with **Arthur Miller** walking calmly at his right elbow.
+Then Jordan Fuller glided through the center oak doors at the helm of his three-hundred-and-fifty-pound matte-black *Vanguard Titan-X350* power wheelchair, dressed in a sharp charcoal suit, crisp white shirt, and maroon-and-gold Commonwealth Polytechnic Institute silk tie, with **Arthur Miller** walking calmly at his right elbow.
 
 And filing into the oak pews directly behind the respondent's counsel table came **Sixteen Strong**:
 
@@ -12745,7 +12819,7 @@ When Aubrie Sinclair turned her head and saw sixteen people filling two entire r
 
 Judge Vance—a sixty-five-year-old jurist with steel-gray hair and thirty years on the Virginia bench—sat down, adjusted his half-rim glasses, and looked down at the thick pleadings file.
 
-"We are here on Civil Action Number `CL15-0842`, *In re: Petition for Plenary Adult Guardianship and Conservatorship of Aubrey Jordan Fuller, also known as Jordan Brooks*," Judge Vance said crisply. "Mr. Vance-Sterling, as petitioner's counsel, you bear the statutory burden by clear and convincing evidence. Call your witness."
+"We are here on Civil Action Number `CL15-0842`, *In re: Petition for Plenary Adult Guardianship and Conservatorship of Aubrey Jordan Fuller, known as Jordan Fuller*," Judge Vance said crisply. "Mr. Vance-Sterling, as petitioner's counsel, you bear the statutory burden by clear and convincing evidence. Call your witness."
 
 Aubrie Sinclair took the witness stand first.
 
@@ -12774,7 +12848,7 @@ Judge Vance's eyebrows rose nearly to his hairline as Ms. Sharma stepped into th
 For the next fifteen minutes, speaking with the cool, devastating authority of an independent officer of the court, Ms. Sharma dismantled every single sentence of Aubrie Sinclair's petition:
 
 * She presented **Exhibit A**: Jordan's independently filed 2014 federal and state tax returns (`Form 8879`) executed at the CPI `VITA` clinic on January 17, 2015, after reviewing his own statutory residency and support thresholds.
-* She presented **Exhibit B**: Jordan's independently selected and signed `Commonwealth BlueCross Platinum PPO` domestic medical policy and `GlobalTrekker Platinum Direct` international coverage—testifying specifically that she had interviewed Daniel Brooks and verified that **Daniel's role was strictly limited to presenting research options and funding, while Jordan Brooks evaluated every table and made every single decision for his own life**.
+* She presented **Exhibit B**: Jordan's independently selected and signed `Commonwealth BlueCross Platinum PPO` domestic medical policy and `GlobalTrekker Platinum Direct` international coverage—testifying specifically that she had interviewed Daniel Brooks and verified that **Daniel's role was strictly limited to presenting research options and funding, while Jordan Fuller evaluated every table and made every single decision for his own life**.
 * She presented **Exhibit C**: Jordan's signed biomechanical seating and purchase order for the 350-pound *Vanguard Titan-X350* power wheelchair he was sitting in right now.
 * She presented **Exhibit D & E**: Jordan's approved United States Passport and `NEXUS` Trusted Traveler credentials alongside **Dr. Alistair's** sworn affidavit confirming Jordan's **4.0 grade-point average** (`99.4%` in Calculus II, `98.8%` in Physics II) and his leadership of a university-wide WCAG 2.1 AA / Section 508 Campus Accessibility Modernization Project.
 * And finally, Ms. Sharma handed Judge Vance **Exhibit F**: the certified medical chart from `NRV Montgomery` and **Star City General Hospital**, containing Jordan's **personally signed Informed Surgical Consent for Open-Heart Coronary Artery Bypass Graft Surgery (`LIMA-to-LAD`)** and Chief Cardiothoracic Surgeon **Dr. Tariq Hassan's** sworn affidavit.
@@ -12805,16 +12879,13 @@ Judge Vance didn't even ask petitioner's counsel for rebuttal. He pulled the mic
 
 Judge Vance picked up his heavy walnut gavel.
 
-"It is the judgment and order of this Court that the Petition for Adult Guardianship and Conservatorship is **DISMISSED WITH PREJUDICE**! Second, pursuant to Virginia Code Section 64.2-2008, the Court finds that this proceeding was brought in bad faith and without substantial justification, and hereby orders Petitioner Aubrie Sinclair to pay one hundred percent of Respondent's attorneys' fees, travel expenses, and Guardian *ad Litem* costs within ten days! Third, this Court enters a **Permanent Protective Injunction** barring Aubrie Sinclair and her agents from approaching within one thousand feet of Respondent Jordan Brooks, his university residence at Commonwealth Polytechnic Institute, or the Brooks residence in Montgomery County, and barring her from filing any further guardianship petitions in any court of this Commonwealth! And fourth—the Clerk of Court is directed to transmit a certified copy of Petitioner's February twenty-sixth affidavit and today's transcript to the Office of the Commonwealth's Attorney for investigation of civil perjury!"
+"It is the judgment and order of this Court that the Petition for Adult Guardianship and Conservatorship is **DISMISSED WITH PREJUDICE**! Second, pursuant to Virginia Code Section 64.2-2008, the Court finds that this proceeding was brought in bad faith and without substantial justification, and hereby orders Petitioner Aubrie Sinclair to pay one hundred percent of Respondent's attorneys' fees, travel expenses, and Guardian *ad Litem* costs within ten days! Third, this Court enters a **Permanent Protective Injunction** barring Aubrie Sinclair and her agents from approaching within one thousand feet of Respondent Jordan Fuller, his university residence at Commonwealth Polytechnic Institute, or the Brooks residence in Montgomery County, and barring her from filing any further guardianship petitions in any court of this Commonwealth! And fourth—the Clerk of Court is directed to transmit a certified copy of Petitioner's February twenty-sixth affidavit and today's transcript to the Office of the Commonwealth's Attorney for investigation of civil perjury!"
 
 **BANG!**
 
 The gavel cracked down against the sound block like a thunderbolt.
 
 In the gallery behind Jordan, sixteen people rose to their feet as one—Mark pumping his fist in the air, Daniel wrapping Laura and Megan in his arms, and Aubrie Jean, Madison, Zoë, Lauren, and Hannah rushing forward through the bar gate the second the bailiff stepped back, wrapping Jordan's chair in a five-way embrace as the shackles of eighteen years shattered into dust on the courtroom floor.
-
----
-* **Soundtrack:** [1-18. Dismissed with Prejudice](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-1?track=1-18-dismissed-with-prejudice) in The Listening Room.
 
 ### Scene 2: U.S. 460 West and the Price of Malice
 
@@ -12858,11 +12929,11 @@ The war with Virginia Beach was over—and he was going home to finish his fresh
 
 **Date:** 2015-03-18
 
-On Wednesday morning, March eighteenth—less than twenty-four hours after the walnut gavel had cracked down in Courtroom 4B of the Norfolk Circuit Courthouse—Jordan Brooks rolled out through the upper-terrace doors of Bennett Hall into the bright spring sunshine.
+On Wednesday morning, March eighteenth—less than twenty-four hours after the walnut gavel had cracked down in Courtroom 4B of the Norfolk Circuit Courthouse—Jordan Fuller rolled out through the upper-terrace doors of Bennett Hall into the bright spring sunshine.
 
 Before they had gone to sleep the night before, Mark and Hannah had presented Jordan with a small, laser-engraved matte-silver nameplate that Mark had machined in the engineering student shop and mounted neatly on the rear backrest bracket of Jordan's three-hundred-and-fifty-pound *Vanguard Titan-X350* power wheelchair:
 
-**`U.S.S. / S.S. FREEDOM — CAPT. J. BROOKS`**
+**`U.S.S. / S.S. FREEDOM — CAPT. J. FULLER`**
 
 As the nine of them set out across the wide paved paths of the Drillfield toward their morning lectures, Jordan realized that something fundamental in the way he experienced the outdoors had changed overnight.
 
@@ -12884,11 +12955,11 @@ When Jordan and Aubrie Jean glided into Robeson Hall at ten-ten for `PHYS 102`, 
 
 As Jordan guided the matte-black *S.S. Freedom* into the front accessible desk bay, the veteran physics and calculus professor paused, walked over to the edge of the dais, and spoke quietly so only Jordan and Aubrie Jean could hear before the bell rang.
 
-"Ms. Sharma emailed me a one-line courtesy note from Norfolk yesterday afternoon, Mr. Brooks," Dr. Alistair said, a rare, genuine warmth crinkling the corners of his eyes behind his spectacles. "She informed me that the Court adopted her recommendation in full and dismissed the petition with prejudice."
+"Ms. Sharma emailed me a one-line courtesy note from Norfolk yesterday afternoon, Mr. Fuller," Dr. Alistair said, a rare, genuine warmth crinkling the corners of his eyes behind his spectacles. "She informed me that the Court adopted her recommendation in full and dismissed the petition with prejudice."
 
 "Your affidavit made a huge difference with Judge Vance, Dr. Alistair," Jordan said gratefully, shaking the professor's hand. "Thank you for standing up for me."
 
-"I merely stated an empirical fact to the judiciary," Dr. Alistair replied dryly, tapping Jordan's graded mid-term exam (`99/100`) onto the wing table in front of him. "Though I confess it gave me considerable satisfaction to remind a Tidewater lawyer that mastering Maxwell's equations while recovering from cardiothoracic surgery is incompatible with legal incapacity. Welcome back to campus, Mr. Brooks."
+"I merely stated an empirical fact to the judiciary," Dr. Alistair replied dryly, tapping Jordan's graded mid-term exam (`99/100`) onto the wing table in front of him. "Though I confess it gave me considerable satisfaction to remind a Tidewater lawyer that mastering Maxwell's equations while recovering from cardiothoracic surgery is incompatible with legal incapacity. Welcome back to campus, Mr. Fuller."
 
 An hour later, at eleven-fifteen, Jordan and Aubrie Jean rolled upstairs into the darkened planetarium dome of Derring Hall for `ASTR 204: Introduction to Stellar and Galactic Systems`.
 
@@ -12942,7 +13013,7 @@ Without a bolster between them, without an IV line or a monitor lead, and withou
 
 **Date:** 2015-05-06
 
-On Wednesday morning, May sixth—ninety days to the morning after an ambulance crew had carried Jordan Brooks out through the east doors of Walton Hall Room 104 in the middle of an acute anterior heart attack—Jordan rolled back up to the front lectern of Room 104 at the helm of his matte-black *Titan-X350* to deliver the final presentation of `ENGL 102`.
+On Wednesday morning, May sixth—ninety days to the morning after an ambulance crew had carried Jordan Fuller out through the east doors of Walton Hall Room 104 in the middle of an acute anterior heart attack—Jordan rolled back up to the front lectern of Room 104 at the helm of his matte-black *Titan-X350* to deliver the final presentation of `ENGL 102`.
 
 Behind him at the front of the room stood the other eight co-authors of the project: Aubrie Jean, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica, all dressed in sharp business attire with maroon-and-gold CPI lapel pins.
 
@@ -12956,8 +13027,8 @@ Across the twin ten-foot projection screens behind him, the title banner of thei
 ========================================================================
 THE ACCESSIBLE POLYTECHNIC: MODERNIZING CAMPUS NAVIGATION
 A WCAG 2.1 LEVEL AA & SECTION 508 COMPLIANT GIS & PRINT SYSTEM
-Authors: Brooks, J., Brooks, A.J., Evans, M., Brooks, Z., Reyes, L.,
-         Henderson, H., Scott, M., Lawson, S., & Miller, J. (ENGL 102)
+Authors: Fuller, J., Kelly, A.J., Scott, M.E., Brooks, Z.W., Barnes, L.N.,
+         Parker, H.A., Anderson, M., Braithwaite, S.K., & Gallagher, J. (ENGL 102)
 ========================================================================
 ```
 
@@ -12987,12 +13058,9 @@ Then Mr. Gallagher, the University Architect, stood up in the back row and began
 
 When the applause finally subsided, Dr. Vance walked straight down the aisle to the lectern and shook Jordan's hand.
 
-"Mr. Brooks, and the entire Suite 214/216 team," Dr. Vance said, her voice thick with emotion, "Mr. Gallagher and I have already spoken at the back of the room. With your permission, the Office of Educational Accessibility and Facilities Planning are formally adopting *The Accessible Polytechnic* as the official campus accessibility map and digital navigation portal of Commonwealth Polytechnic Institute, effective for Fall 2015 New Student Orientation—with all nine of your names permanently credited in the colophon."
+"Mr. Fuller, and the entire Suite 214/216 team," Dr. Vance said, her voice thick with emotion, "Mr. Gallagher and I have already spoken at the back of the room. With your permission, the Office of Educational Accessibility and Facilities Planning are formally adopting *The Accessible Polytechnic* as the official campus accessibility map and digital navigation portal of Commonwealth Polytechnic Institute, effective for Fall 2015 New Student Orientation—with all nine of your names permanently credited in the colophon."
 
 Up in the back row, Isabel Dawson wiped a shining tear of pride from the corner of her eye and smiled down at Jordan—watching the boy who had arrived in August terrified to speak above a whisper start a permanent revolution in the heart of the university.
-
----
-* **Soundtrack:** [1-13. The Accessibility Project](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-2?track=1-13-the-accessibility-project) in The Listening Room.
 
 ## Goodbye to the Old Lady
 
@@ -13050,9 +13118,9 @@ Suddenly, the sun-drenched second-floor hallway of Bennett Hall was completely q
 
 Isabel stood alone in front of Jordan's chair with the yellow checkout form and a black pen in her hands.
 
-"One final line at the bottom of the Room Condition Report, Mr. Brooks," Isabel said softly, trying to use her official Resident Advisor voice one last time, though her dark eyes were already bright with emotion as she held out the clipboard and the little manila key envelope. "Zero damages, room left in immaculate condition, brass key `214-A` returned to Housing."
+"One final line at the bottom of the Room Condition Report, Mr. Fuller," Isabel said softly, trying to use her official Resident Advisor voice one last time, though her dark eyes were already bright with emotion as she held out the clipboard and the little manila key envelope. "Zero damages, room left in immaculate condition, brass key `214-A` returned to Housing."
 
-Jordan took the pen, signed `Jordan Brooks` on the resident checkout line, dropped his brass room key into the manila envelope, and sealed the clasp.
+Jordan took the pen, signed `Jordan Fuller` on the resident checkout line, dropped his brass room key into the manila envelope, and sealed the clasp.
 
 He handed the clipboard and the sealed key envelope back to Isabel.
 
@@ -13076,7 +13144,7 @@ Jordan wrapped his strong arms around her waist and shoulders, holding her close
 
 Isabel buried her face against the crook of his neck, her dark hair brushing his jaw as she held onto him for nearly a full minute in the quiet hallway.
 
-"I am so proud of you, Jordan Brooks," Isabel whispered fiercely against his collar, her hands gripping the back of his shirt as if she were memorizing the fact that he was whole, healthy, and free. "You survived everything they threw at you. You beat the heart attack, you beat Norfolk, and you turned into the strongest man I have ever known."
+"I am so proud of you, Jordan Fuller," Isabel whispered fiercely against his collar, her hands gripping the back of his shirt as if she were memorizing the fact that he was whole, healthy, and free. "You survived everything they threw at you. You beat the heart attack, you beat Norfolk, and you turned into the strongest man I have ever known."
 
 "Thank you for never giving up on me when I was still afraid of my own shadow, Isabel," Jordan whispered back, resting his cheek against her hair and holding her just as tightly.
 
@@ -13114,11 +13182,7 @@ Then he looked down at the five women waiting for him at the bottom of the ramp,
 
 Nine months ago, he had been the unwanted kid in Virginia Beach—the boy locked in a back bedroom, told he was too broken to ever live a real life.
 
-Today, with a mended heart beating strong behind his breastbone, a 4.0 freshman year behind him, a passport in his pocket, and a Gauntlet of Hearts standing beside his wheels, **Jordan Brooks—the Eleventh Child—nudged the joystick forward and rolled out to meet the world.**
-
----
-* **Soundtrack:** [1-14. The Eleventh Child (A Gauntlet of Hearts)](https://music.raggiesoft.com/artists/the-paper-wall/albums/2003-eleventh-child-book-2?track=1-14-the-eleventh-child-a-gauntlet-of-hearts) in The Listening Room.
-* **Next Episode:** Continue to [Episode 4: Jordan's World Trek (Summer 2015)](https://books.raggiesoft.com/aubrie/e004/c001/s001) in the RaggieSoft Book Reader.
+Today, with a mended heart beating strong behind his breastbone, a 4.0 freshman year behind him, a passport in his pocket, and a Gauntlet of Hearts standing beside his wheels, **Jordan Fuller—the Eleventh Child—nudged the joystick forward and rolled out to meet the world.**
 
 # Jordan's World Trek
 
