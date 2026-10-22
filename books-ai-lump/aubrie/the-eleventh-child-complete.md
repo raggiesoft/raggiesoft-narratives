@@ -4523,7 +4523,7 @@ Dr. Catherine Sterling turned away from the curb, her face set like granite as s
 
 Upstairs inside the City Manager's conference room at **Radford City Hall**, **Walter Hendricks**, **Douglas Keaton**, and **Dr. Catherine Sterling** spent the next two hours compiling automated passenger-counter logs, dispatch recordings from `Unit 104` and `Unit 107`, and incident statements from the **Radford University Police Department**.
 
-At `11:45 AM EDT`, the following formal administrative notice was transmitted via bonded municipal courier and high-priority electronic dispatch from Radford City Hall to Burruss/Preston Administration and the central **Office of Housing and Residence Life (`Suite 115`, Bennett Hall)** at Commonwealth Polytechnic Institute:
+At `11:45 AM EDT`, the following formal administrative notice was transmitted via bonded municipal courier and high-priority electronic dispatch from Radford City Hall to **Preston Hall Administration** and the central **Office of Housing and Residence Life (`Suite 115`, Bennett Hall)** at Commonwealth Polytechnic Institute:
 
 > **OFFICIAL JOINT ADMINISTRATIVE COMPLAINT & NOTICE OF IMPENDING EMERGENCY `POLYPASS` CAPACITY RESTRICTION**<br>
 > **Reference No.:** `RT-COR-RU-2014-0908`<br>
@@ -5474,7 +5474,7 @@ When the final highlights were blended in, all nine of them stood—and rolled�
 
 Early Friday evening brought the loudest tradition of Homecoming Week: the campus-wide pep rally inside **The Crucible**. For Jordan, the prospect was equal parts exhilarating and terrifying. He had never attended a live sporting event in his life, let alone entered a massive stadium packed with thousands of screaming college students. The sensory chaos of move-in day and the dormitory fire drill was about to be magnified tenfold—yet this time, he wasn't being ambushed. He was choosing to walk into the fire with his family.
 
-As the Group of 8 made their way down Beamer Way toward the towering concrete and Ironstone stadium, the low, rhythmic thrum of the crowd was already vibrating through the soles of their shoes and the frame of Jordan's wheelchair from blocks away. The sidewalks were a river of Foundry Maroon and Molten Orange.
+As the Group of 8 made their way down Spring Road toward the towering concrete and Ironstone stadium, the low, rhythmic thrum of the crowd was already vibrating through the soles of their shoes and the frame of Jordan's wheelchair from blocks away. The sidewalks were a river of Foundry Maroon and Molten Orange.
 
 A cluster of upperclassmen walking ahead of them glanced back, spotted Jordan's wheelchair and freshman lanyard, and slowed down with friendly, cautionary grins.
 
@@ -5540,11 +5540,11 @@ Here on Main Street, nobody treated him like an obstacle. In fact, when **Isabel
 
 "Front-row VIP section for Room 214!" Isabel grinned over the distant cadence of snare drums. "Wait until you see the Engineering float—they actually rigged a working propane forge on the back of a flatbed!"
 
-Jordan watched, wide-eyed behind his glasses, as the procession rolled down the street. Starting from **The Crucible**, the parade had marched up Beamer Way, turned right onto Washington Street, and swept left onto Main Street right in front of them. Elaborate, illuminated floats built by student organizations, academic departments, and residence halls drifted past in a blaze of maroon and orange lights. The **CPI Marching Forgers** filled the street from curb to curb with a brassy, triumphant wall of sound—muffled to a pleasant, chest-thumping groove by Jordan's earmuffs—and the varsity football players riding atop a decorated flatbed truck looked like invincible heroes under the streetlights.
+Jordan watched, wide-eyed behind his glasses, as the procession rolled down the street. Starting from **The Crucible**, the parade had marched up Spring Road, turned right onto Washington Street, and swept left onto Main Street right in front of them. Elaborate, illuminated floats built by student organizations, academic departments, and residence halls drifted past in a blaze of maroon and orange lights. The **CPI Marching Forgers** filled the street from curb to curb with a brassy, triumphant wall of sound—muffled to a pleasant, chest-thumping groove by Jordan's earmuffs—and the varsity football players riding atop a decorated flatbed truck looked like invincible heroes under the streetlights.
 
-Mark, Madison, and Sarah cheered at the top of their lungs as the final floats made the wide left turn off Main Street onto **Alumni Mall**, rolling past the Gothic limestone facade of **Kincaid Hall** toward the finish line at **The Commonwealth Green**.
+Mark, Madison, and Sarah cheered at the top of their lungs as the final floats made the wide left turn off Main Street onto **Commonwealth Mall**, rolling past the Gothic limestone facade of **Kincaid Hall** toward the finish line at **Commonwealth Green**.
 
-As the last drum cadence faded toward the quad, the streetlights along Alumni Mall dimmed. Seconds later, a deep *thump* echoed from the launch site behind the drillfield, and the night sky above campus exploded into cascades of crimson, gold, and burnt-orange fireworks.
+As the last drum cadence faded toward the quad, the streetlights along **Commonwealth Mall** dimmed. Seconds later, a deep *thump* echoed from the launch site behind **Commonwealth Green**, and the night sky above campus exploded into cascades of crimson, gold, and burnt-orange fireworks.
 
 Jordan tilted his head back, watching the chrysanthemum bursts of light reflect off the lenses of his glasses and illuminate the smiling faces of Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica all around him. He was surrounded by his safe people in the heart of his new home. He was completely, wholeheartedly bought in. He was a CPI Forger, and tomorrow afternoon, he would watch his undefeated, #3-ranked team defend that sanctuary against "Norfolk."
 
@@ -6425,7 +6425,7 @@ He typed into `EchoType`, his brow furrowing in confusion:
 
 <aac>That's weird. My phone says No Service. It won't connect at all.</aac>
 
-"Try restarting it, J," Lauren suggested gently from the edge of the lower bunk. "Sometimes the cell towers around the drillfield glitch out and a reboot fixes the handshake."
+"Try restarting it, J," Lauren suggested gently from the edge of the lower bunk. "Sometimes the cell towers around Commonwealth Green glitch out and a reboot fixes the handshake."
 
 Jordan held down the power button, slid the prompt to power off, waited ten seconds, and booted the `mPhone` back up. For a few seconds, the carrier search spinner rotated in the top corner of the glass—and then snapped straight back to **`No Service`**.
 
@@ -6575,11 +6575,11 @@ Right around noon, a new chain of messages lit up **`Jordan Comms`**:
 
 **Date:** 2014-10-19 at 12:15 America/New_York
 
-The noon handoff along **Commonwealth Mall** beneath the limestone arch of **The Keystone Bridge** across the street from **Kincaid Hall** was executed with clockwork precision. **Aubrie Kelly** gave Jordan a warm kiss on the cheek before heading off across the drillfield to meet **Hannah**, while **Madison**, **Lauren**, and **Zoë** stepped in as his designated afternoon buddies.
+The noon handoff along **Commonwealth Mall** beneath the limestone arch of **The Keystone Bridge** across the street from **Kincaid Hall** was executed with clockwork precision. **Aubrie Kelly** gave Jordan a warm kiss on the cheek before heading off across **Commonwealth Green** to meet **Hannah**, while **Madison**, **Lauren**, and **Zoë** stepped in as his designated afternoon buddies.
 
 All around them along the unmarked Commonwealth Mall curb—where there were no bus bays at all and buses simply lined up one behind the other in a disorganized free-for-all—clusters of students were grumbling as usual, craning their necks toward the **Business 460** intersection because nobody ever knew which route would be the next to turn onto the boulevard. Moments later, a forty-foot low-floor **Blue Ridge Transit** city bus swung off Business 460 and glided up to the curb, its white-and-pine-green livery and prominent **`BT`** emblem gleaming in the crisp October sun. With a soft hiss of air brakes, the front suspension kneeled toward the concrete and the front passenger boarding doors folded wide, deploying the yellow-edged aluminum ADA wheelchair ramp directly onto the sidewalk from the front doorway.
 
-As Jordan rolled smoothly up the front ramp and backed into the forward wheelchair securement bay while Lauren and Zoë clicked the four-point retractors onto his frame, Madison stepped up to the farebox to tap her Poly Pass—getting a wickedly mischievous glint in her eye.
+As Jordan rolled smoothly up the front ramp and backed into the forward wheelchair securement bay while Lauren and Zoë clicked the four-point retractors onto his frame, Madison stepped up beside the farebox and held up her **Poly Pass** so the driver could see it—getting a wickedly mischievous glint in her eye.
 
 Leaning slightly toward the driver, a good-natured man in his mid-fifties wearing a short-sleeved transit shirt, Madison flashed a playful grin.
 
@@ -6951,14 +6951,14 @@ All around them on the brick sidewalk, dozens of CPI students with rolling suitc
 
 According to the timetable on Zoë's `mPhone`, the next southbound **Blue Ridge Transit `Route 1`** local bus down Business 460 was due in about ten minutes. Just as the nine friends were settling in along the sidewalk and watching the Main Street corner like everyone else, however, a completely different vehicle swung wide off **Business 460** onto **Commonwealth Mall** and glided to the curb right behind the departing local buses with a deep, turbocharged diesel purr.
 
-It wasn't a standard low-floor city transit bus. It was a towering, forty-five-foot **Sainte-Claire 45H3** over-the-road highway motorcoach painted in gleaming maroon and silver livery, its high-visibility amber LED destination sign above the panoramic windshield cycling cleanly between two crisp displays:
+It wasn't a standard low-floor city transit bus. It was a towering, forty-five-foot **Sainte-Claire 45H3** over-the-road highway motorcoach painted in gleaming maroon and silver livery, its high-visibility amber LED destination sign above the panoramic windshield cycling cleanly between two crisp displays (`CBURG TC` standing for Christiansburg Transit Center, and `EXP` for Express):
 
 <led>MAROON EXPRESS</led>
-<led>BLUEWATER via NRV MALL & CBURG TC</led>
+<led>BLUEWATER EXP via CBURG TC</led>
 
-With a sharp pneumatic hiss, the forward plug door swung outward, and a clear, automated female voice immediately began announcing the coach’s route on an exterior speaker loop:
+With a sharp pneumatic hiss, the forward plug door swung outward, and a clear, automated female voice immediately began announcing the coach’s route on the exterior ADA speaker loop:
 
-<pa>BLUEWATER TRANSIT MAROON EXPRESS: TO NEW RIVER VALLEY MALL, CHRISTIANSBURG TRANSIT CENTER, AND BLUEWATER.</pa>
+<pa>Bluewater Transit Maroon Express to Bluewater Transit Center via Christiansburg Transit Center</pa>
 
 **Madison**’s eyes went wide, and she practically bounced on the balls of her sneakers.
 
@@ -6968,7 +6968,7 @@ Seeing a couple of quizzical looks from the non-Southwest Virginia members of th
 
 Boarding the high-deck highway coach was a slightly more involved mechanical production than rolling up the low-floor ramp of a campus shuttle. The friendly Bluewater Transit operator stepped out in a crisp uniform jacket, unlocked the mid-coach wheelchair lift bay doors, and operated the hydraulic platform with practiced, unhurried skill. The slow, whirring lift always drew a little more attention from passing students than Jordan preferred, but surrounded by Mark, Aubrie, and his friends cheering him on, the self-consciousness evaporated in seconds.
 
-Once inside the elevated cabin, Jordan transferred smoothly into a plush, high-backed reclining coach seat with reading lamps and upholstered armrests, while the driver and Mark folded his wheelchair and secured it safely inside the climate-controlled luggage bay below.
+Once inside the elevated cabin—and after all nine of them had simply let the driver see their **Poly Passes** so their ride was free—Jordan transferred smoothly into a plush, high-backed reclining coach seat with reading lamps and upholstered armrests, while the driver and Mark folded his wheelchair and secured it safely inside the climate-controlled luggage bay below.
 
 **Aubrie Jean** immediately slid into the window seat right beside him. The moment the coach pulled away from the bumper-to-bumper curb line on Commonwealth Mall, Jordan leaned gratefully against her side, and Aubrie wrapped her arm warmly around his shoulders, the two of them cuddling close as the big highway cruiser merged onto the four-lane US-460 Bypass. Across the aisle and in the rows directly behind them, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** claimed an entire section of the coach, filling the quiet cabin with happy, infectious holiday energy.
 
@@ -7783,7 +7783,7 @@ Within ten minutes, Suite 214/216 transformed into a high-efficiency academic co
 
 Her primary objective was building a shared core schedule across the entire nine-person family. "Based on my audit of everyone's degree-progress reports," Zoë stated, "all nine of us still require our second-semester composition and quantitative reasoning courses—**`ENGLISH 102`** and **`MATH 112`**—and none of us has yet satisfied the university's three-credit Historical Inquiry requirement."
 
-She tapped her screen and projected a course code onto the monitor. "There is a main lecture section of **`HISTORY 115: History of Ancient Rome`** on Tuesdays and Thursdays at eleven o'clock in McBryde Hall with forty-two open seats and full wheelchair-tier seating on the main aisle. I propose all nine of us enroll simultaneously."
+She tapped her screen and projected a course code onto the monitor. "There is a main lecture section of **`HISTORY 115: History of Ancient Rome`** on Tuesdays and Thursdays at eleven o'clock in Archer Hall with forty-two open seats and full wheelchair-tier seating on the main aisle. I propose all nine of us enroll simultaneously."
 
 On Zoë’s three-count, nine trackpads clicked in unison, locking in `HISTORY 115`, `ENGLISH 102`, and `MATH 112` as a shared academic spine for the entire group.
 
@@ -7815,12 +7815,12 @@ With his new midnight-blue `mPhone` on the **Brooks Family Plan** providing unin
 
 In fact, the chat became so lively that on Wednesday afternoon, after an important handoff message from **Lauren** outside the chemistry building was nearly buried beneath a twelve-photo thread of campus squirrels posted by Madison, **Zoë** called a brief procedural order.
 
-"We have a signal-to-noise ratio inefficiency in **`Jordan Comms`**," Zoë announced from her desk. "While I appreciate the photographic documentation of sciurids on the Drillfield, critical operational messages cannot be scrolled past. Effective immediately, any message pertaining to a Buddy System handoff, location change, or time-sensitive schedule update must begin with the prefix tag **`[LOGISTICS]`** in all capital letters."
+"We have a signal-to-noise ratio inefficiency in **`Jordan Comms`**," Zoë announced from her desk. "While I appreciate the photographic documentation of sciurids on Commonwealth Green, critical operational messages cannot be scrolled past. Effective immediately, any message pertaining to a Buddy System handoff, location change, or time-sensitive schedule update must begin with the prefix tag **`[LOGISTICS]`** in all capital letters."
 
 The protocol was adopted unanimously and worked like magic:
 
 > **`Mark [Thu 14:05]:`** <sms>[LOGISTICS] Mark signing on. With Jordan on the 3rd floor of Pendleton Library working on our psychology paper.</sms><br>
-> **`Aubrie [Fri 11:50]:`** <sms>[LOGISTICS] Aubrie signing off after Astronomy lab! Handoff to Zoë complete outside Davidson Hall.</sms><br>
+> **`Aubrie [Fri 11:50]:`** <sms>[LOGISTICS] Aubrie signing off after Astronomy lab! Handoff to Zoë complete outside Copernicus Hall.</sms><br>
 > **`Zoë [Fri 11:52]:`** <sms>[LOGISTICS] Zoë signing on. Grabbing hot cider with Jordan at The Daily Grind, then heading back up the hill to Bennett Hall for our calculus review.</sms><br>
 > **`Isabel [Fri 11:54]:`** <sms>Copy that, Zoë! Henry and I are at the second-floor desk—see you two in twenty! ☕</sms>
 
@@ -7883,7 +7883,7 @@ When the video call clicked off in Room 216, the seven co-conspirators looked ar
 
 The smooth, joyful rhythm of their pre-finals **Health and Safety Week** was shattered on Saturday evening, December 6, right as the campus began gearing up for the start of final exams.
 
-It had started innocuously enough on Friday night with Jordan mentioning a scratchy throat and a dull ache behind his eyes. At first, everyone assumed it was nothing more than a mild December head cold brought on by chilly winds across the Drillfield and late-night review sessions.
+It had started innocuously enough on Friday night with Jordan mentioning a scratchy throat and a dull ache behind his eyes. At first, everyone assumed it was nothing more than a mild December head cold brought on by chilly winds across Commonwealth Green and late-night review sessions.
 
 By Saturday evening, however, it was unmistakable that this was no ordinary cold.
 
@@ -8881,7 +8881,7 @@ Slowly, with fingers that barely trembled anymore, he reached down to his `Preci
 
 On Tuesday morning, December 23rd, the nine friends set out on a full-day holiday road trip across Southwestern Virginia—Entirely by regional public transit—to visit **Madison**’s family down in **Bluewater** and **Sarah**’s father over in **Radford**.
 
-At eight-forty-five sharp, all nine of them—**Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—boarded the **Bluewater Transit *Maroon Express*** motorcoach at the **Falling Branch Park & Ride**. Settling into the high-backed coach seats after Jordan locked his wheelchair into the forward bay, the group watched the snow-blanketed peaks of the Blue Ridge roll past the tinted windows during the comfortable sixty-minute express run south into Carroll County.
+At eight-forty-five sharp, all nine of them—**Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—boarded the forty-five-foot **Bluewater Transit *Maroon Express*** over-the-road highway coach (`Sainte-Claire 45H3`) at the **Christiansburg Transit Center** (`Falling Branch`), its amber LED destination sign alternating between `<led>MAROON EXPRESS</led>` and `<led>BLUEWATER EXP via CBURG TC</led>` while the exterior ADA speaker announced `<pa>Bluewater Transit Maroon Express to Bluewater Transit Center via Christiansburg Transit Center</pa>`. After the operator raised Jordan up to the elevated cabin on the mid-coach hydraulic lift, stowed his folded manual chair in the under-floor luggage bay, and glanced at all nine of their **Poly Passes** for their free ride, the group settled into the plush high-backed coach seats and watched the snow-blanketed peaks of the Blue Ridge roll past the tinted windows during the comfortable sixty-minute express run south down I-81 and I-77 into Carroll County.
 
 At nine-forty-five, they disembarked at the bustling **Bluewater Transit Center**—directly across the street from **Bluewater High School**—and made a seamless five-minute cross-platform transfer onto the local **Blue Line** city bus. At ten-oh-five on the dot, the low-floor Gillig hissed to a stop at the corner of Madison’s quiet, tree-lined residential street.
 
@@ -10398,7 +10398,7 @@ Daniel blinked in surprise, and around the basement, **Mark**, **Madison**, **La
 
 Jordan nodded firmly, a bright, confident smile spreading across his face as he typed his explanation:
 
-<aac>I really love riding the bus. For eighteen years in Virginia Beach, I could never go anywhere unless my mother drove me, and every single car ride felt like a trap. On the bus, I do not have to ask anyone for a special favor—we can just show up during scheduled service, flash our Poly Passes, roll right up the ramp, and go wherever we want. Plus, since tomorrow is Sunday and the RVT Roanoke Express does not run on Sundays, we can choose between Blue Ridge Transit's Route 1 and Bluewater Transit's Maroon Express. If we catch the once-hourly Maroon Express at the Christiansburg Transit Center, it gets us to Commonwealth Mall in thirty minutes instead of forty-five minutes on Route 1—and I really want to get back to Bennett Hall early so I can say hello to Isabel!</aac>
+<aac>I really love riding the bus. For eighteen years in Virginia Beach, I could never go anywhere unless my mother drove me, and every single car ride felt like a trap. On the bus, I do not have to ask anyone for a special favor—we can just show up during scheduled service, let the driver see our Poly Passes so our ride is free, and go wherever we want. Plus, since tomorrow is Sunday and the RVT Roanoke Express does not run on Sundays, we can choose between Blue Ridge Transit's Route 1 and Bluewater Transit's Maroon Express. Even though the Maroon Express is a high-floor over-the-road highway coach and takes a little more work with the hydraulic lift to get me on board, it only makes one stop at New River Valley Mall and gets us from the Christiansburg Transit Center to Commonwealth Mall in thirty minutes instead of forty-five minutes on Route 1—and I really want to get back to Bennett Hall early so I can say hello to Isabel!</aac>
 
 For a second, the basement was completely quiet—every single person in the room struck by how far Jordan had come since August.
 
@@ -10438,27 +10438,32 @@ For eighteen suffocating years in his mother’s suburban house in Virginia Beac
 
 Public transit operated on the exact opposite principle: **impersonal, predictable, mathematical freedom**.
 
-During scheduled service hours, a bus didn't care what his mother thought. It didn't demand gratitude or hold a ride over his head. As long as he knew the published timetable and showed up at the curb with his Poly Pass, the ramp folded down for his wheelchair just like the doors opened for everyone else.
+During scheduled service hours, a bus didn't care what his mother thought. It didn't demand gratitude or hold a ride over his head. Like any bus serving the New River Valley, all he had to do was show up at the curb during scheduled service and let the driver see his **Poly Pass**, and his ride was completely free.
 
 And today, Jordan had engineered their Sunday departure time down to the minute.
 
-Because it was a **Sunday**, **Roanoke Valley Transit (`RVT`)** did not operate its ***Roanoke Express*** (`"81 ROANOKE EXP"`) commuter line at all. That left two Sunday transit options connecting the **Christiansburg Transit Center** to **Commonwealth Mall** at CPI:
-1. **Blue Ridge Transit (`BRT`) `Route 1`**, which wound through the local stops along North Franklin Street, the shopping centers, and South Main Street, taking about **forty-five minutes** to reach **Commonwealth Mall**.
-2. **Bluewater Transit’s *Maroon Express***, which operated **once hourly** on Sundays and shot straight up the **U.S. Route 460 Bypass** express corridor to **Commonwealth Mall** in only **thirty minutes**.
+Because it was a **Sunday**, **Roanoke Valley Transit (`RVT`)** did not operate its ***Roanoke Express*** commuter coach line at all. That left two Sunday transit options connecting the **Christiansburg Transit Center** to **Commonwealth Mall** at CPI:
+1. **Blue Ridge Transit (`BRT`) `Route 1`**, a low-floor city transit bus that wound through all the local stops along US-11, Pepper Plaza, North Franklin Street, and South Main Street, taking about **forty-five minutes** to reach **Commonwealth Mall**.
+2. **Bluewater Transit’s *Maroon Express***, an over-the-road highway coach that operated **once hourly** on Sundays, took the **`BUSES ONLY` flyover ramp** straight onto the **U.S. Route 460 Bypass**, made just **one intermediate stop at `New River Valley Mall`**, and reached **Commonwealth Mall** in only **thirty minutes**.
 
-Jordan hadn't wanted to wait forty-five minutes on a local bus today—because he was eager to get back to CPI, and the very first person he was going looking for the second they reached Bennett Hall was **Isabel Dawson**.
+Unlike a low-floor Blue Ridge Transit city bus—where a front door ramp simply flipped out onto the curb in five seconds—both the ***Maroon Express*** and the ***Roanoke Express*** were towering, forty-five-foot **Sainte-Claire 45H3** over-the-road highway coaches. Getting Jordan on board a high-deck motorcoach was a much more involved mechanical operation involving the mid-coach hydraulic wheelchair lift above the luggage bays. Yet Jordan hadn't hesitated for a second: he wanted the thirty-minute express trip today, because he was eager to get back to CPI, and the very first person he was going looking for the second they reached Bennett Hall was **Isabel Dawson**.
 
-Right at `1:12 PM`, three minutes ahead of its `1:15 PM` departure time, the gleaming forty-five-foot **Bluewater Transit *Maroon Express*** coach glided into Bay 2 of the Christiansburg Transit Center, its LED destination sign glowing in crisp amber letters:
+Right at `1:12 PM`, three minutes ahead of its `1:15 PM` departure time, the gleaming forty-five-foot maroon-and-silver **Bluewater Transit *Maroon Express*** highway coach glided into the Christiansburg Transit Center, its amber LED destination sign above the panoramic windshield alternating cleanly between two lines (`CBURG TC` standing for Christiansburg Transit Center, and `EXP` for Express):
 
-> **`MAROON EXPRESS — TO CPI / COMMONWEALTH MALL`**
+<led>MAROON EXPRESS</led>
+<led>CPI EXP via CBURG TC</led>
 
-With a familiar pneumatic hiss, the coach kneeled to the curb and deployed its front wheelchair ramp.
+As the high-deck coach hissed to a stop and the forward plug door swung open, the exterior ADA speaker broadcast its clear automated announcement across the platform:
 
-"Right on the dot, just like you called it, J!" **Mark** grinned as Jordan rolled smoothly up the ramp into the forward wheelchair securement bay, locking his brakes while **Aubrie Jean** and **Madison** clicked the four-point floor straps onto his frame in under twenty seconds.
+<pa>Bluewater Transit Maroon Express to Commonwealth Polytechnic Institute</pa>
 
-Once all nine of them had tapped their **Poly Passes** and settled into the seats around Jordan’s bay, the driver closed the doors and merged straight onto **U.S. Route 460 West** toward Blacksburg.
+"Right on the dot, just like you called it, J!" **Mark** grinned as the friendly Bluewater Transit operator stepped down in his uniform jacket, walked back to the middle of the coach, unlocked the mid-ship wheelchair lift bay doors, and unfolded the heavy hydraulic cassette platform down to the concrete curb.
 
-Watching the sunlit winter ridges of the Blue Ridge Mountains sweep past the wide coach window at sixty miles an hour while Aubrie Jean held his left hand and Zoë logged their departure in **`[Jordan Comms]`**, Jordan felt his heart beat with a happy, restless excitement.
+Even though the whirring hydraulic lift took a couple of minutes to raise Jordan five feet in the air up to the elevated passenger cabin deck—where he transferred smoothly into a plush, high-backed reclining coach seat while Mark and the operator folded his manual wheelchair and stowed it safely inside the climate-controlled under-floor luggage bay—Jordan grinned the entire time. Once all nine of them had simply let the driver see their **Poly Passes** for their free ride and settled into the coach seats around Jordan and **Aubrie Jean**, the operator closed the plug door and guided the forty-five-foot cruiser straight up the **`BUSES ONLY` flyover ramp** onto the **U.S. Route 460 Bypass**.
+
+Ten minutes up the four-lane bypass, the highway coach glided off for its single intermediate stop at **New River Valley Mall**, pausing briefly at the mall transfer bays before merging right back onto the **U.S. Route 460 Bypass** toward Blacksburg.
+
+Watching the sunlit winter ridges of the Blue Ridge Mountains sweep past the wide, elevated coach window at sixty-five miles an hour while Aubrie Jean held his left hand and Zoë logged their departure in **`[Jordan Comms]`**, Jordan felt his heart beat with a happy, restless excitement.
 
 Three weeks at Geneva Street had been heaven—but he was a college student coming back for his second semester, and he couldn't wait to roll back onto his campus.
 
@@ -10466,9 +10471,9 @@ Three weeks at Geneva Street had been heaven—but he was a college student comi
 
 **Date:** 2015-01-11 at 13:45 America/New_York
 
-At one-forty-five in the afternoon—exactly thirty minutes after pulling out of the Christiansburg Transit Center—the **Bluewater Transit *Maroon Express*** swung off Business 460 onto **Commonwealth Mall** and glided to a smooth stop along the granite curb beneath the limestone arch of **The Keystone Bridge**, directly across the street from **Kincaid Hall**.
+At one-forty-five in the afternoon—exactly thirty minutes after pulling out of the Christiansburg Transit Center and making its single quick stop at **New River Valley Mall**—the forty-five-foot **Bluewater Transit *Maroon Express*** highway coach swung off Business 460 onto **Commonwealth Mall** and glided to a smooth stop along the granite curb beneath the limestone arch of **The Keystone Bridge**, directly across the street from **Kincaid Hall**.
 
-When the front ramp deployed onto the sidewalk and **Jordan** rolled off the bus into the crisp January sunshine, he didn't wait for the others to form a protective shield around him.
+Once the operator retrieved **Jordan**’s manual wheelchair from the under-floor luggage bay and lowered Jordan smoothly down to the sidewalk on the mid-coach hydraulic lift, Jordan didn't wait for the others to form a protective shield around him.
 
 Instead, he wheeled three paces ahead onto the wide paved promenade of **Commonwealth Mall**, set a steady cruising pace, and turned his head with a bright, confident grin to motion his eight friends forward.
 
@@ -10482,13 +10487,13 @@ Through his prescription glasses, the neo-Gothic **Ironstone** towers of the aca
 
 Instead of rushing straight to the dorm, Jordan turned the walk across campus into an impromptu **guided tour**—proudly playing campus tour guide for the very people who had walked these paths with him all fall.
 
-Rolling past the bronze war-memorial pylons at the head of the mall, Jordan paused by the low stone wall overlooking the vast oval expanse of **Commonwealth Green** (*The Drillfield*) and tapped enthusiastically on his `Precisionist 5000`:
+Rolling past the bronze war-memorial pylons at the head of the mall, Jordan paused by the low stone wall overlooking the vast oval expanse of **Commonwealth Green** and tapped enthusiastically on his `Precisionist 5000`:
 
 <aac>Look at the shadow angle cast by the central flagpole across the snow on Commonwealth Green right now! Because we are twenty-one days past the December 21st Winter Solstice, the sun's solar elevation angle at 1:50 PM here at 37.23 degrees North latitude has already climbed almost two full degrees higher in the southern sky than it was during finals week!</aac>
 
-"Only our boy turns a walk across the Drillfield into a live observational astrophysics lecture!" **Madison** laughed warmly, giving Jordan’s shoulder an affectionate squeeze as passersby in CPI scarves smiled at the group.
+"Only our boy turns a walk across Commonwealth Green into a live observational astrophysics lecture!" **Madison** laughed warmly, giving Jordan’s shoulder an affectionate squeeze as passersby in CPI scarves smiled at the group.
 
-As they continued along the paved inner-campus walkway curving around the southern rim of the green, Jordan pointed out **Callahan Hall** (where **Ms. Patricia Higgins** and the **Office of Educational Accessibility** had given him his first lifeline), the dome of the **McBryde Hall** observatory, and the warm brick facade of **Kincaid Commons**—adding commentary and dry jokes on his keyboard that had **Mark**, **Sarah**, **Jessica**, and **Lauren** laughing all the way down the hill.
+As they continued along the paved inner-campus walkway curving around the southern rim of **The Green**, Jordan pointed out **Callahan Hall** (where **Ms. Patricia Higgins** and the **Office of Educational Accessibility** had given him his first lifeline), the dome of the **Copernicus Hall** observatory, and the warm brick facade of **Kincaid Commons**—adding commentary and dry jokes on his keyboard that had **Mark**, **Sarah**, **Jessica**, and **Lauren** laughing all the way down the hill.
 
 "Look at him go," **Hannah** whispered softly to Mark and Aubrie Jean as Jordan smoothly navigated the gentle slope toward the residential quad ten feet ahead of them, greeting a passing campus grounds crew worker with a cheerful wave. "Remember the first week of classes when he was afraid to look up from the concrete? He owns this whole campus now."
 

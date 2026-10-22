@@ -300,8 +300,21 @@ Public transportation in the New River Valley is an interconnected, multi-agency
   * Operates **7 days a week** (`5:45 AM – 9:15 PM`) using 29-foot and 35-foot low-floor transit buses.
   * **The Clockface Pulse:** Local routes pulse from Bluewater Transit Center every 30 minutes at **`:15`** and **`:45`** past the hour—except the **Purple Line** (`Bluewater Transit Center ↔ Galax Community College`), which runs **hourly** on a 60-minute one-way trip (`120-minute` round-trip cycle requiring 2 buses; the final `8:15 PM` departure from Galax CC arrives at Bluewater Transit Center at `9:15 PM`, when the system closes for the night).
 * ***The Maroon Express* (`$5.00` Cash / Go-Card, `$10.00` Express Day Pass Cap):**
-  * **Equipment:** Three 45-foot over-the-road commuter coaches (with mid-coach hydraulic ADA wheelchair lifts) operating a `180-minute` round-trip cycle (**90 minutes** each way).
-  * **Schedule:** Runs **7 days a week**, hourly at **`:15`** northbound from Bluewater (`5:15 AM – 9:15 PM`) and hourly at **`:45`** southbound from CPI (`6:45 AM – 10:45 PM`, arriving back in Bluewater at `12:15 AM`).
+  * **Equipment:** Three 45-foot over-the-road highway coaches (**Sainte-Claire 45H3** — modeled after Prevost / MCI highway motorcoaches, equipped with mid-coach hydraulic ADA wheelchair lifts above the under-floor luggage bays rather than low-floor front transit ramps) operating a `180-minute` round-trip cycle (**90 minutes** each way, and **30 minutes** on the northern express segment between **Christiansburg Transit Center** and **Commonwealth Mall / CPI** with just one intermediate stop at **New River Valley Mall**).
+  * **Canonical 2-Screen Amber LED Destination Signs & Exterior ADA Audio Announcements (`The Maroon Express`):**
+    * **Heading Toward CPI (`Northbound / Inbound`):**
+      * **Destination Sign (`CBURG TC` = Christiansburg Transit Center; `EXP` = Express):**
+        * Screen 1: `<led>MAROON EXPRESS</led>`
+        * Screen 2: `<led>CPI EXP via CBURG TC</led>`
+      * **Exterior ADA Audio Announcement:**
+        * `<pa>Bluewater Transit Maroon Express to Commonwealth Polytechnic Institute</pa>`
+    * **Heading Toward Bluewater (`Southbound / Outbound`):**
+      * **Destination Sign:**
+        * Screen 1: `<led>MAROON EXPRESS</led>`
+        * Screen 2: `<led>BLUEWATER EXP via CBURG TC</led>`
+      * **Exterior ADA Audio Announcement:**
+        * `<pa>Bluewater Transit Maroon Express to Bluewater Transit Center via Christiansburg Transit Center</pa>`
+  * **Schedule:** Runs **7 days a week**, hourly at **`:15`** northbound from Bluewater (`5:15 AM – 9:15 PM`, passing **Christiansburg Transit Center** at `:15` and arriving at **CPI** at `:45`) and hourly at **`:45`** southbound from CPI (`6:45 AM – 10:45 PM`, arriving back in Bluewater at `12:15 AM`).
   * **Stop Sequence:**
     1. `Bluewater Transit Center` (Across from Bluewater High School)
     2. `Bluewater Park & Ride` (**I-77 Exit 14**)

@@ -162,7 +162,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
   * **`Node(Bennett_Hall.Room401)`** & **`Node(Bennett_Hall.Room415)`** — Floor 4 RA single rooms (`Aaron Vance` in `401`, `Brianna Foster` in `415`).
   * **`Node(Bennett_Hall.Room501)`**, **`Node(Bennett_Hall.Room515)`**, & **`Node(Bennett_Hall.Suite_505_507)`** — Floor 5 RA single rooms (`Connor O'Malley` in `501`, `Samantha Holloway` in `515`) and the 5th-floor six-person suite (`Room 505`: Sarah, Jessica, Chloe; `Room 507`: Ashley, Emily, Cassie).
   * **`Node(Bennett_Hall.Room601)`** & **`Node(Bennett_Hall.Room615)`** — Floor 6 RA single rooms (`Devon Price` in `601`, `Natalie Morales` in `615`).
-  * **`Node(CPI.Campus)`** / **`Node(CPI)`** — Commonwealth Polytechnic Institute main campus (`Node(CPI.Torgersen_Hall)`, `Node(CPI.McBryde_Hall)`, `Node(CPI.Patton_Hall)`, `Node(CPI.Dietrick_Dining)`, `Node(CPI.The_Furnace)`, `Node(CPI.Transit_Center)`).
+  * **`Node(CPI.Campus)`** / **`Node(CPI)`** — Commonwealth Polytechnic Institute main campus (`Node(CPI.Keystone_Hall)`, `Node(CPI.Kelvin_Hall)`, `Node(CPI.Archer_Hall)`, `Node(CPI.The_Foundry)`, `Node(CPI.The_Furnace)`, `Node(CPI.Transit_Center)`).
 * **New River Valley & Roanoke Regional Nodes (`Virginia`)**:
   * **`Node(Geneva.Street)`** — The Brooks family compound in Christiansburg, VA (containing sub-nodes **`'Basement_Pact_Suite'`** and **`'Anderson_Suite'`**).
   * **`Node(Bluewater.Sanctuary)`** — The Scott family mountain retreat in Bluewater, VA.
