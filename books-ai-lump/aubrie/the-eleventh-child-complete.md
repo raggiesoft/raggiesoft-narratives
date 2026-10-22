@@ -9773,17 +9773,19 @@ Built on a rugged, matte-charcoal high-torque frame with active coil-over suspen
 
 Standing right behind Jordan, Daniel Brooks quietly noticed the look of awe on Jordan’s face as the boy admired Elana’s heavy-duty power chair, and filed the observation away in his mind.
 
-As Jordan wheeled forward, Stephen and Elana rolled forward together in complete, effortless synchronization—still holding hands between their armrests—until Elana gave a tiny, precise puff into her control straw to angle her chair toward Jordan. She leaned her cheek affectionately against Stephen’s shoulder for a second, looked directly into Jordan’s green eyes with bright, sparkling warmth, and spoke aloud in a clear, expressive voice:
+As Jordan wheeled forward, Stephen and Elana rolled forward together in complete, effortless synchronization—still holding hands between their armrests—until Elana gave a tiny, precise puff into her pneumatic control straw to angle her chair toward Jordan. Like Jordan, Elana could not speak words aloud at all; instead, she let out a warm, melodic non-verbal vocalization of pure delight, leaned her cheek affectionately against Stephen’s shoulder for a second, looked directly into Jordan’s green eyes with bright, sparkling warmth, and puffed a sequence into her straw so her **`mPad`** spoke in a clear, synthesized feminine voice:
 
-"Welcome to Charlottesville, Jordan! Izzy has told us so much about you and your whole family—it is so wonderful to finally meet you in person!"
+<aac>Welcome to Charlottesville, Jordan! Izzy has told us so much about you and your whole family—it is so wonderful to finally meet you in person!</aac>
 
-Jordan’s eyes widened slightly in pleasant surprise at hearing her speak aloud, and then drifted six inches to the right of Elana’s heavy-duty power wheelchair—where he stopped dead in his tracks in pure, astonished wonder.
+Jordan’s eyes widened with instant, heartfelt kinship at hearing her non-verbal vocalization and her synthesized AAC voice—and then his gaze drifted six inches to the right of Elana’s heavy-duty power wheelchair, where he stopped dead in his tracks in pure, astonished wonder.
 
 Standing calmly on the polished oak hardwood floor right beside Elana and Stephen’s two wheelchairs—wearing a custom maroon biothane mobility harness with a padded handle and four snug, soft-rubber indoor boots over its hooves—was a **miniature horse**.
 
 She stood barely twenty-eight inches tall at the withers—no higher than the armrests of their wheelchairs—with a gleaming silver-dapple coat, large, dark, liquid eyes, and a thick, braided flaxen-white mane and tail.
 
-"And this," Elana said with a delighted laugh, squeezing Stephen’s hand as the little horse pricked its ears forward gently toward both cousins without shifting a single hoof out of position, "is **Stella**."
+Elana let out a bright, musical laugh, squeezing Stephen’s hand as the little horse pricked its ears forward gently toward both cousins without shifting a single hoof out of position, and Stephen smiled at Jordan—speaking aloud in a warm, measured voice shaped by a noticeable speech impediment, pausing calmly to pace his breath through the initial consonant cluster:
+
+"And this, Jordan," Stephen said warmly, "is St—**Stella**."
 
 ### Scene 3: Elana, Stephen, & Stella
 
@@ -9801,17 +9803,19 @@ Across the table, **Hannah**—whose entire academic life revolved around Animal
 
 "Elana, Stephen, she is magnificent," Hannah breathed reverently. "She's an American Miniature Horse, right? A Falabella cross?"
 
-"Spot on!" Elana smiled brightly, taking a sip of her liquid nutrition shake through her drinking straw before giving two quick puffs on her pneumatic control straw to wake the **`mPad`** screen on her swing-arm. Because speaking aloud for long stretches could tire her diaphragm, she seamlessly alternated between vocalizing short phrases and tapping out longer explanations via her sip-and-puff AAC interface:
+Elana let out a bright, happy vocalization—a warm two-note hum of agreement—taking a sip of her liquid nutrition shake through her drinking straw before giving two quick puffs on her pneumatic control straw to wake the **`mPad`** screen on her swing-arm:
 
-<aac>Stella is a registered Class A American Miniature Horse with Falabella lines. She is twenty-eight inches tall at the withers, weighs eighty-five pounds, and she is six years old right now. Stephen and I were paired with her when we were fourteen, so the three of us have been a team for three and a half years.</aac>
+<aac>Spot on! Stella is a registered Class A American Miniature Horse with Falabella lines. She is twenty-eight inches tall at the withers, weighs eighty-five pounds, and she is six years old right now. Stephen and I were paired with her when we were fourteen, so the three of us have been a team for three and a half years.</aac>
 
-Jordan’s hands moved eagerly to his `Precisionist 5000` on his lap tray, fascinated by Elana’s heavy-duty chair, her dual-mode communication, and the calm little equine beside the two cousins:
+Jordan’s hands moved eagerly to his `Precisionist 5000` on his lap tray, fascinated by Elana’s heavy-duty chair, the effortless speed of her sip-and-puff `mPad` AAC, and the calm little equine beside the two cousins:
 
 <aac>I really love your heavy-duty power wheelchair, Elana—and I have never seen a miniature horse as a service animal in person before. What is it like having a miniature horse compared to a service dog?</aac>
 
-"Thank you, Jordan—this chair is an absolute tank on hills, and wait until you see what Stella can do alongside both of our chairs," Stephen grinned, kissing Elana’s temple affectionately before looking back across the table. "Choosing a miniature horse was actually my dad and Uncle Greg's big research project when Elana and I were thirteen. Under federal ADA regulations, miniature horses are the only animal besides dogs specifically recognized as working service animals—and for the two of us, a miniature horse solved huge things a dog couldn't."
+"Thank you, Jordan—this chair is an absolute tank on hills, and wait until you see what St—Stella can do alongside both of our chairs," Stephen grinned, kissing Elana’s temple affectionately before looking back across the table. He spoke with a noticeable speech impediment—a slower, slightly slurred dysarthric cadence that required deliberate breath control on hard consonant clusters—and everyone around the table listened with natural, unhurried warmth. "Choosing a miniature horse was actually my dad and Uncle Greg's big research project when Elana and I were thirteen. Under federal ADA regulations, miniature horses are the only animal besides dogs specifically recognized as working service animals—and for the two of us, a miniature horse solved huge things a dog couldn't."
 
-"Tell them the biggest reason first, Steve," Elana said aloud, resting her cheek against his shoulder for a second.
+Elana gave a soft, affectionate hum, resting her cheek against Stephen’s shoulder for a second as she puffed a short prompt onto her `mPad`:
+
+<aac>Tell them the biggest reason first, Steve.</aac>
 
 "Lifespan," Stephen said softly, lacing his fingers through Elana’s. "A large mobility service dog usually has to retire around age seven or eight, and only lives ten to twelve years. Elana and I don't do well with separation or losing someone we're bonded to—and facing the loss of a working partner every eight years was heartbreaking even to think about. Miniature horses live thirty to thirty-five years, sometimes forty. At age six, Stella is just hitting her prime. She'll be with Elana and me all through college at CPI and well into our thirties and forties."
 
@@ -9823,7 +9827,7 @@ Elana triggered another line on her `mPad` with a grin:
 
 Intrigued, Jordan let his rubber-tipped tablet stylus roll off his lap tray onto the hardwood floor beside Elana’s right tire, while Stephen dropped a small insulated hex driver beside the left wheel of his basic power chair.
 
-Elana gave a soft two-note whistle, and Stephen tapped his armrest twice.
+Elana gave a soft, melodic two-note vocalization—her signature non-verbal cue for Stella—and Stephen tapped his armrest twice.
 
 Instantly, Stella rose smoothly to her feet—her rubber-soled equine boots making zero *clip-clop* on the oak floorboards. Stepping to Elana’s side first, she lowered her head, plucked Jordan’s thin stylus off the floor with her soft, prehensile upper lip without her teeth ever touching the barrel, and placed it gently into Jordan’s open palm. Then, without missing a beat, Stella pivoted smoothly behind their two chairs to Stephen’s outer wheel, picked up the hex driver with the exact same velvet precision, set it into Stephen’s hand, and rested her silver-dapple chin right across the joined hands of both cousins between their armrests.
 
@@ -9849,21 +9853,19 @@ He held up one finger, his expression turning earnest as Mark and Hannah leaned 
 
 "But from day one, I also drew a strict professional boundary," Andy continued. "Inside this house, I am their Uncle Andy and Elana's full-time RN caregiver—I am *never* her prescribing medical provider. Crossing the line into being the medical decision-maker for your own family member blurs clinical objectivity and takes away their voice as a patient. Elana still has her own independent Primary Care Physician and specialist team over at **Piedmont State University Medical Center**. When we go to an appointment at PSU, her PCP is her doctor, Elana speaks for herself, and I stay strictly in my lane as her RN caregiver. And watching how badly adult medicine often struggles with patients who have complex medical and disability needs is the exact reason I'm in medical school at **PSU** right now to earn my **MD**—so I can specialize in taking care of complex disability patients once they reach adulthood."
 
-"And honestly, Uncle Andy taught me half of what I do, and the other half is just being beside her twenty-four/seven," Stephen added softly from the study archway, wrapping his arm affectionately around Elana’s shoulders from his basic power chair while she leaned her head warmly against his chest and kissed his cheek. "Even at night, I'm in bed with Elana. Because her muscles can lock up hard in the middle of the night from spasticity, if I'm sleeping right there against her, the second I feel a muscle start to lock up, I can gently massage it out until it releases without either of us even having to fully wake up."
+"And honestly, Uncle Andy taught me half of what I do, and the other half is just being beside her twenty-four/seven," Stephen added softly from the study archway in his measured, slightly slurred cadence, wrapping his arm affectionately around Elana’s shoulders from his basic power chair while she leaned her head warmly against his chest and kissed his cheek. "Even at night, I'm in bed with Elana. Because her muscles can lock up hard in the middle of the night from sp—spasticity, if I'm sleeping right there against her, the second I feel a muscle start to lock up, I can gently massage it out until it releases without either of us even having to fully wake up."
 
 Across the archway, Jordan and Aubrie Jean exchanged a deeply moved, knowing look—recognizing in Stephen and Elana’s overnight co-regulation the exact same sacred, protective warmth that had inspired their own nightly bed rotation in Room 214.
 
-Then Elana gave two quick puffs on her straw and gestured with a bright smile toward the four-monitor workstation and the rack of blinking **`Aurora`** server blades behind them.
-
-"Come see our baby, Zoë and Jordan!" Elana said aloud, her eyes shining as she and Stephen rolled their two power wheelchairs wheel-to-wheel up to the wide desk.
+Then Elana let out an excited, musical vocalization to catch Zoë’s and Jordan’s attention, gesturing with a bright smile toward the four-monitor workstation and the rack of blinking **`Aurora`** server blades behind them as she and Stephen rolled their two power wheelchairs wheel-to-wheel up to the wide desk.
 
 On the monitors glowed three ssh terminals running **`Aurora Enterprise Server`**—the server kernel underlying the **`Aura Glade`** desktop Linux operating system Zoë had installed on Jordan’s laptop—alongside a live full-stack web application deployment pipeline.
 
-"Stephen and I are both studying to be **Systems Architects** together when we start at **CPI** in **Fall 2015**," Elana explained, switching smoothly to her **`mPad`** AAC as she pulled up their server cluster architecture diagram via her sip-and-puff straw:
+Pulling up their server cluster architecture diagram via her sip-and-puff straw, Elana triggered her **`mPad`** AAC with shining eyes:
 
-<aac>We do everything together as a two-person engineering team. We both know how to build, harden, and manage Aurora servers from bare metal up, and we build websites together from end to end—we do the front-end development, the back-end development, and the server development side by side.</aac>
+<aac>Come see our baby, Zoë and Jordan! Stephen and I are both studying to be Systems Architects together when we start at CPI in Fall 2015. We do everything together as a two-person engineering team. We both know how to build, harden, and manage Aurora servers from bare metal up, and we build websites together from end to end—we do the front-end development, the back-end development, and the server development side by side.</aac>
 
-"And when Elana got her new `mPad`, the commercial sip-and-puff Bluetooth switches had a four-hundred-millisecond debounce lag whenever she switched from driving her heavy-duty chair to typing in our `Aurora` terminal or her IDE," Stephen added proudly, pointing to the shielded microcontroller box mounted beneath Elana’s armrest before squeezing her hand again. "So we engineered a deterministic C++ interrupt bridge that drops her switching latency under eight milliseconds. Whether we're pushing front-end CSS, writing back-end APIs, or compiling kernel modules on an `Aurora` server, we're coding on the exact same repo at the exact same time."
+"And when Elana got her new `mPad` for her AAC and coding, the commercial sip-and-puff Bluetooth switches had a four-hundred-millisecond debounce lag whenever she switched from driving her heavy-duty chair to speaking on her `mPad` or typing in our `Aurora` terminal," Stephen added proudly, pacing his words steadily through his speech impediment as he pointed to the shielded microcontroller box mounted beneath Elana’s armrest before squeezing her hand again. "So we engineered a deterministic C++ interrupt bridge that drops her switching latency under eight milliseconds. Whether we're pushing front-end CSS, writing back-end APIs, or compiling kernel modules on an `Aurora` server, we're coding on the exact same repo at the exact same time."
 
 Zoë’s gray eyes lit up behind her glasses with instant, incandescent awe. "You two manage bare-metal `Aurora` servers *and* build the entire front-end, back-end, and server stack together with a sub-eight-millisecond pneumatic bridge?! Stephen, Elana—when you two arrive at CPI in August, we are going to build empires together."
 
@@ -9871,11 +9873,11 @@ Isabel grinned from where she was sitting cross-legged on the floor beside Stell
 
 "And tell Jordan the best part about next August, Elana," Isabel beamed.
 
-Elana looked straight at Jordan, her hazel eyes crinkling with gratitude as she tapped her `mPad`:
+Elana looked straight at Jordan, her hazel eyes crinkling with gratitude as she puffed her `mPad` into motion:
 
 <aac>Because Stephen and I are never apart—and because I need him in bed with me at night when my muscles lock up—our biggest worry about going to CPI was how traditional single-gender freshman dorms would try to separate us. Last month, when Dr. Mercer and Ms. Higgins started designing CPI's brand-new Opt-In Gender-Inclusive Housing Pilot for Fall 2015—using your Suite 214/216 in Bennett Hall as the proof that mixed-gender care circles work—Ms. Higgins called us! Because of the trail you and your suitemates blazed this fall, Stephen, Stella, and I are officially assigned to Room 323 in New River Hall next August!</aac>
 
-"Wait until you see **New River Hall**, Jordan," Stephen added with a grin, lacing his fingers through Elana’s. "Because it's built into the hillside like Bennett Hall, both the first floor and the third floor are ground-level exits, and the second floor is **`Forge Market`**—a quick-service dining and grab-and-go campus market right next to the dining offices. **Room 323** has its own private accessible en-suite bathroom with a toilet, roll-under sink, and full roll-in shower, plus a mini-fridge to stock Elana's liquid nutrition—and because CPI is one of only two universities in all of Virginia that operates its own dining services directly in-house, Ms. Higgins simply walked into the dining office on the second floor and arranged for `Forge Market` to stock the exact liquid nutrition Elana requires right in the coolers, so anyone on campus, including us, can buy it tax-free with **Forge Dollars** on our meal plans."
+"Wait until you see **New River Hall**, Jordan," Stephen added with a grin, lacing his fingers through Elana’s and speaking with quiet pride. "Because it's built into the hillside like Bennett Hall, both the first floor and the third floor are ground-level exits, and the second floor is **`Forge Market`**—a quick-service dining and grab-and-go campus market right next to the dining offices. **Room 323** has its own private accessible en-suite bathroom with a toilet, roll-under sink, and full roll-in shower, plus a mini-fridge to stock Elana's liquid nutrition—and because CPI is one of only two universities in all of Virginia that operates its own dining services directly in-house, Ms. Higgins simply walked into the dining office on the second floor and arranged for `Forge Market` to stock the exact liquid nutrition Elana requires right in the coolers, so anyone on campus, including us, can buy it tax-free with **Forge Dollars** on our meal plans."
 
 "And what about the beds and Stella?" **Hannah** asked eagerly. "Since dorms only come with Twin XL beds?"
 
@@ -9883,13 +9885,13 @@ Elana looked straight at Jordan, her hazel eyes crinkling with gratitude as she 
 
 For a long moment, Jordan sat completely still in his wheelchair, his heart swelling so full he could barely breathe.
 
-Looking across the study at Isabel kneeling beside Stella, at Elana in her heavy-duty power chair with her sip-and-puff `mPad` and liquid-diet straw, at Stephen in his basic power chair holding Elana’s hand with total devotion, and at Uncle Andy and the Dawson parents in the next room, every piece of a four-month puzzle clicked together in Jordan’s mind.
+Looking across the study at Isabel kneeling beside Stella, at Elana in her heavy-duty power chair communicating through expressive non-verbal vocalizations and her sip-and-puff `mPad` AAC beside her liquid-diet straw, at Stephen in his basic power chair speaking with unhurried confidence and holding Elana’s hand with total devotion, and at Uncle Andy and the Dawson parents in the next room, every piece of a four-month puzzle clicked together in Jordan’s mind.
 
-He remembered Friday, August 22nd—his terrifying first afternoon in **Room 214** after his mother had left him alone in an unmade room with a bunked bed and a dying laptop. He remembered how, within ten seconds of stepping across his threshold, **Isabel Dawson** hadn't flinched at his synthesized voice, had noticed him cupping his right ear and subtly raised her volume without embarrassing him, had spotted why the wall outlet was out of reach of his wheelchair, and had unpacked his box and made his bed as naturally as breathing.
+He remembered Friday, August 22nd—his terrifying first afternoon in **Room 214** after his mother had left him alone in an unmade room with a bunked bed and a dying laptop. He remembered how, within ten seconds of stepping across his threshold, **Isabel Dawson** hadn't flinched for a millisecond at his non-verbal vocalizations or his synthesized AAC voice, had noticed him cupping his right ear and subtly raised her volume without embarrassing him, had spotted why the wall outlet was out of reach of his wheelchair, and had unpacked his box and made his bed as naturally as breathing.
 
-To everyone else on campus that day, an eighteen-year-old freshman in a wheelchair communicating through a speech synthesizer might have seemed unfamiliar.
+To everyone else on campus that day, a non-speaking eighteen-year-old freshman in a wheelchair communicating through vocalizations and a speech synthesizer might have seemed unfamiliar.
 
-To Isabel Claire Dawson—who had grown up in a home with two power wheelchairs, AAC tablets, `Aurora` terminals, liquid nutrition, MACE and urinary care, and unconditional family love—he had simply looked like home.
+To Isabel Claire Dawson—who had grown up in a home with a non-speaking sister who vocalized and used an `mPad` AAC, a cousin in a power wheelchair with a speech impediment, `Aurora` terminals, liquid nutrition, MACE and urinary care, and unconditional family love—he had simply looked like home.
 
 Tears shimmered behind Jordan’s glasses as he turned his `Precisionist 5000` toward Isabel, Elana, and Stephen and typed from the bottom of his heart:
 
@@ -9905,17 +9907,17 @@ At four o'clock in the afternoon, as the late-December sun began dipping toward 
 
 Once again, Jordan’s eyes drifted admiringly over the rugged matte-charcoal frame, active coil-over suspension, and high-torque motors of Elana’s heavy-duty power wheelchair. Standing right beside Jordan, **Daniel Brooks** followed Jordan’s gaze, quietly exchanged a nod with **Uncle Andy** and **Greg Dawson** after asking them earlier for the exact manufacturer and heavy-duty chassis specifications, and smiled warmly to himself.
 
-"I am so glad you guys came up today, Jordan," Elana said aloud in her warm, clear voice, leaning her shoulder affectionately against Stephen’s before giving a quick puff on her straw to add a parting line from her **`mPad`**:
+Elana let out a warm, affectionate vocalization, leaning her shoulder against Stephen’s before giving a quick puff on her pneumatic straw to speak from her **`mPad`**:
 
-<aac>Keep that Systems Architecture and Aurora server study group spot warm for Stephen and me in Fall 2015—and tell Dr. Alistair and Ms. Higgins we are coming!</aac>
+<aac>I am so glad you guys came up today, Jordan! Keep that Systems Architecture and Aurora server study group spot warm for Stephen and me in Fall 2015—and tell Dr. Alistair and Ms. Higgins we are coming!</aac>
+
+"We'll see you at CPI in August, Jordan," Stephen added warmly in his steady, unhurried cadence, giving Jordan an encouraging nod before reaching across from his basic power chair to share a firm handshake with Daniel, **Mark**, and Jordan.
 
 Jordan grinned and tapped back on his `Precisionist 5000`:
 
 <aac>It is a deal! I cannot wait to show you, Stephen, and Stella around campus in August—and to build Aurora servers together.</aac>
 
-Beside the cousins’ chairs, Stella took one polite step forward in her rubber indoor grip boots and touched her velvety silver-dapple nose gently to the back of Jordan’s leather push-glove, then to Stephen’s knee, letting out a quiet, nickering breath that made Jordan, **Aubrie Jean**, and **Hannah** beam.
-
-Stephen reached across from his basic power chair to share a warm, firm handshake with Daniel, **Mark**, and Jordan, while **Zoë** promised to email both Stephen and Elana the SSH keys and repository documentation for her `Aura Glade` driver patches and `Aurora` server scripts as soon as they got back to Christiansburg.
+Beside the cousins’ chairs, Stella took one polite step forward in her rubber indoor grip boots and touched her velvety silver-dapple nose gently to the back of Jordan’s leather push-glove, then to Stephen’s knee, letting out a quiet, nickering breath that made Jordan, **Aubrie Jean**, and **Hannah** beam, while **Zoë** promised to email both Stephen and Elana the SSH keys and repository documentation for her `Aura Glade` driver patches and `Aurora` server scripts as soon as they got back to Christiansburg.
 
 After hugs and handshakes with **Greg**, **Becca**, **Gran Thornton**, and **Uncle Andy**, **Isabel** stepped up to Jordan’s wheelchair right beside the open door of the Brooks minivan.
 
