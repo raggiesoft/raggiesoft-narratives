@@ -4862,7 +4862,7 @@ Then he flipped open his laptop lid, typed a single line into EchoType, and hit 
 
 By the third Friday of September, the first crisp, cool breeze of Appalachian autumn had arrived in Blacksburg, and the energy across campus was electric. Homecoming Week was just days away, and the walkways around **Commonwealth Green** were already a vibrant sea of Foundry Maroon and Molten Orange.
 
-After their Friday afternoon classes wrapped up, the entire nine-person crew—Jordan, Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—walked over to the **CPI Campus Bookstore** at the edge of the academic district to pick up supplies.
+After their Friday afternoon classes wrapped up, the entire nine-person crew—Jordan, Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—walked over to **The Foundry**, the **CPI Campus Bookstore** at the edge of the academic district, to pick up supplies.
 
 The moment Jordan rolled through the automatic glass doors of the rotunda-shaped building, he was hit by a wave of pure, unfiltered collegiate spirit. Through the crisp lenses of his new glasses, the store looked like a cathedral dedicated to an identity he desperately wanted to belong to. Towering racks overflowed with heavy-cotton **CPI Forgers** hoodies, burnt-orange jerseys, pennants, and embroidered baseball caps.
 
@@ -4902,17 +4902,53 @@ Before Jordan could type another protest, his chosen family sprang into coordina
 
 "We're getting the heavyweight maroon hoodie," Aubrie declared, pulling a size medium off the rack and laying it across his lap.
 
-"And he definitely needs the *'Beat VDU!'* t-shirt for Saturday," Madison insisted, snatching one from the display table and placing it on top of the hoodie.
+"And this heather-grey **CPI FORGERS** crew-neck t-shirt for everyday wear, plus the *'Beat VDU!'* shirt for Saturday," Madison insisted, snatching both from the display table and placing them on top of the hoodie.
 
 "And the cap to top it off," Mark finished with a grin, setting the burnt-orange CPI anvil-crest baseball cap right on top of the pile.
 
-Jordan looked down at the stack of maroon and orange fabric resting on his knees, then up through his glasses at the eight smiling, expectant faces surrounding him—from six-foot-three Jessica beaming down at him to Lauren and Zoë nodding in quiet solidarity. They weren't pitying him. They were claiming him.
+Jordan looked down at the stack of maroon, heather-grey, and orange fabric resting on his knees, then up through his glasses at the eight smiling, expectant faces surrounding him—from six-foot-three Jessica beaming down at him to Lauren and Zoë nodding in quiet solidarity. They weren't pitying him. They were claiming him.
 
 A sharp, overwhelming prickle of emotion stung behind his eyes—not a meltdown of fear, but a surge of pure, unadulterated gratitude. His fingers tapped two simple words into his terminal:
 
 <aac>Thank you.</aac>
 
-Ten minutes later, after the group split the tab at the register, Aubrie and Madison helped Jordan slip the new maroon CPI Forgers hoodie over his head right outside the **CPI Campus Bookstore**. It was thick, fleece-warm, and smelled like new cotton. As they rolled back across **Commonwealth Green** in the crisp September sun, Jordan didn't feel like a broken boy in a wheelchair anymore. He felt like a CPI Forger.
+Ten minutes later, after the group split the tab at the register, Aubrie and Madison helped Jordan slip the new maroon CPI Forgers hoodie over his head right outside **The Foundry**. It was thick, fleece-warm, and smelled like new cotton.
+
+When the nine of them rolled back into **Suite 214/216** in **Bennett Hall** twenty minutes later, Jordan wheeled into the connecting jack-and-jill accessible bathroom to wash his hands and paused in front of the tilted mirror mounted above the roll-under sink.
+
+Through the crisp polycarbonate lenses of his new glasses, he stared at his reflection. With his new glasses, his subtle behind-the-ear hearing aids, and the heavyweight maroon **CPI Forgers** hoodie draped over his shoulders, he almost looked like a real college freshman—except for the patchy, uneven eighteen-year-old facial fuzz along his jaw and upper lip.
+
+In eighteen years in Virginia Beach, Jordan had **never once been clean-shaven**. His mother had flatly refused to let him near a safety razor, insisting that his Cerebral Palsy fine-motor spasticity would cause him to slice his own face open, and she had never bothered to teach him how to groom himself. Whenever she had wanted him to look "presentable" for company, she had simply cornered him in the bathroom and scraped a cheap, dry electric hair trimmer roughly across his chin without guards or lotion, leaving his skin raw and stinging while complaining about having to groom a grown teenager.
+
+Unconsciously, Jordan lifted his right hand and touched the patchy stubble on his chin, his shoulders sagging half an inch.
+
+Standing in the open doorway of Room 214, **Mark** caught the look in the mirror immediately.
+
+"Hey, J," Mark said casually, leaning against the doorframe with a warm, easy grin. "Since we're officially transforming you into a full-fledged CPI Forger before Homecoming Week... you want a hand getting a real clean shave?"
+
+Jordan blinked, looking up at Mark in the mirror. Turning to his Vanguard Pro on his lap tray, he typed honestly:
+
+<aac>I've never actually had a clean shave before. My mother never let me near a razor because of my hands.</aac>
+
+Mark's expression softened with quiet, brotherly understanding, though he kept his voice upbeat and completely matter-of-fact so Jordan wouldn't feel self-conscious for a second.
+
+"Well, we're fixing that right now, brother," Mark said, grabbing his dopp kit from his backpack in Room 214 and stepping into the bathroom. "Every guy deserves to know what a proper hot-towel shave feels like. And tomorrow when we're out, we'll pick you up an ergonomic rotary foil shaver with a wide rubber grip so you can do touch-ups yourself whenever you want without ever worrying about a blade."
+
+Mark ran the tap until the water was steaming hot, soaked a clean white hand towel, wrung it out, and gently draped the warm cloth across the lower half of Jordan's face for thirty seconds to soften the bristles. Jordan closed his eyes behind his glasses, letting out a long, slow breath at the soothing warmth.
+
+Then Mark lathered up a palmful of rich, cedar-scented shaving cream, spread it evenly across Jordan's jaw, cheeks, and upper lip, and held up a fresh, multi-blade safety razor.
+
+"Alright, man—just tilt your chin up about ten degrees and relax your jaw," Mark coached calmly, resting his left hand steadily on Jordan's shoulder as a grounding anchor so Jordan knew every movement before it happened. "Short, smooth strokes with the grain. I've got the angle completely locked."
+
+With unhurried, practiced precision, Mark drew the razor cleanly down Jordan's cheek, rinsing the blade under the warm faucet between each gentle pass. Nobody rushed him. Nobody scraped his skin dry or sighed about how long it took. Standing by the open doorway of Room 214, **Aubrie Jean** and **Hannah** watched with quiet, misty-eyed smiles as Mark chatted easily with Jordan about Saturday's football matchup, treating the ritual like the most natural brotherly hangout in the world.
+
+Two minutes later, Mark wiped away the last trace of foam with a warm, damp washcloth and patted a splash of soothing, alcohol-free balm onto Jordan's skin.
+
+"There you go," Mark grinned, stepping back and clapping Jordan warmly on the shoulder. "Take a look, Mr. Fuller."
+
+Jordan looked into the lowered mirror above the sink.
+
+Staring back at him was a clean-shaven nineteen-year-old young man in dark-framed rectangular glasses and a maroon **CPI Forgers** hoodie, his jawline smooth and clear for the very first time in his life. As he ran his fingertips lightly across his smooth chin, a huge, luminous smile broke across his face. He didn't look like the neglected boy locked in a back room in Virginia Beach anymore. Inside and out, he looked like a CPI Forger.
 
 ### Scene 2: One Hundred and Five Percent
 
@@ -12048,7 +12084,7 @@ Out in the second-floor hallway, a polite knock sounded against the open oak doo
 
 **Date:** 2015-05-15 at 11:20 America/New_York
 
-![On Spring 2015 Move-Out Day at the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard—blushing and biting back a tender, tear-bright smile as she hides her secret love for Jordan while still in uniform.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c011-s002-isabel-move-out-secret.jpg)
+![On Spring 2015 Move-Out Day at the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard—blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c011-s002-isabel-move-out-secret.jpg)
 
 Within five minutes, eight of the nine yellow **Room Condition Reports (RCRs)** were signed, stamped, and filed into their completed checkout folders, deactivating their Bennett Hall door-access permissions on the central **Poly Pass** server while leaving their university ID cards active for the rest of their college careers.
 
@@ -12080,23 +12116,19 @@ Jordan took the pen and signed *Jordan Fuller* on the resident checkout line.
 
 Isabel tore off the yellow resident receipt copy, handed it to Jordan, and tucked the white Housing original into the clipboard folder.
 
-Over the past few months—from the way her voice had trembled when she hugged him after Winter Break, to the weekend she was away at **CACUHO** when looking at the dark threshold of Room 215 had made Jordan realize that he was falling in love with her too, to the hand-painted **CAPTAIN OF THE HILL** clothespin she had brought back for his laptop bag, to the fierce fire in her eyes when she stood guard in Kelsey's office after his mother's investigator tried to tailgate into the building—Jordan had come to suspect the truth that Isabel had been guarding behind her professional wall all year: that she was in love with him too.
-
-Wanting to gently drop a hint and let her know he saw it, Jordan looked up into her dark eyes as she set the clipboard down on the hallway check-in table and tapped the message waiting on his tablet screen:
+Looking up at the Resident Advisor who had welcomed him into **Bennett Hall** nine months ago, knelt beside his desk during the September fire drill, welcomed his found family to Charlottesville over Thanksgiving, and stood guard over their floor all year, Jordan smiled warmly and tapped a lighthearted message onto his armrest tablet screen:
 
 <aac>As of right now, my lease for the academic year is closed. Which means you aren't my Resident Advisor anymore.</aac>
 
 Isabel froze.
 
-Her breath caught audibly in her throat, and a deep flush rose up her neck. She looked down at the signed yellow RCR sheet on the table, and then looked back at Jordan—her lips parting as a year of held-in devotion rose straight to the surface.
+Her breath caught audibly in her throat, and a deep, rosy blush rose up her neck into her cheeks. She looked down at the yellow RCR clipboard in her hand, and then looked back at Jordan—her lips parting slightly as her right hand came up to touch the collar of her shirt, as if she were suddenly flustered by a rush of emotion she wasn't ready to put into words.
 
-For two heartbeats in the quiet corridor, Jordan saw it written clearly across her face: she was right on the edge of spilling the beans and telling him out loud that she was in love with him.
+Then Isabel glanced down at the white embroidered **CPI HOUSING & RESIDENCE LIFE — RESIDENT ADVISOR** lettering on the left chest of the two-tone maroon-and-white Student Staff athletic polo shirt she still had tucked into her belted khaki pants, looked at the black electronic **Poly Pass** card reader glowing green directly underneath the **ROOM 214** sign on the cinderblock wall where she was still officially on duty until five o'clock, and looked back at Jordan, who was flying across the oceans in eight days to see the world.
 
-Then Isabel glanced down at the white embroidered **CPI HOUSING & RESIDENCE LIFE — RESIDENT ADVISOR** lettering on the left chest of the two-tone maroon-and-white Student Staff athletic polo shirt she still had tucked into her belted khaki pants, looked at the black electronic **Poly Pass** card reader glowing green directly underneath the **ROOM 214** sign on the cinderblock wall where she was still officially on duty until five o'clock, and remembered that in eight days Jordan was flying across the oceans to see the world.
+She let out a shaky breath, a bright tear slipping down her flushed cheek as a radiant, tender smile broke through at the exact same time.
 
-She let out a shaky breath that sounded like nine months of tension finally softening, a tear slipping down her cheek as a radiant, unguarded smile broke through at the exact same time.
-
-"No," Isabel whispered, her voice trembling with everything she wasn't quite ready to say inside this building while wearing her uniform. "As of eleven-twenty-five on May fifteenth... I'm not your RA anymore."
+"No," Isabel whispered, her voice thick with emotion. "As of eleven-twenty-five on May fifteenth... I'm not your RA anymore."
 
 Jordan tapped the button on his right armrest to flip up the left arm of his chair and opened his arms wide.
 
@@ -12104,13 +12136,13 @@ Isabel didn't hesitate for a heartbeat.
 
 She stepped right into the open space beside his frame, dropped to her knees on the clean hallway floor so they were at exact eye level, and wrapped both of her arms tightly around Jordan's neck—pulling him into **a very long, deep, breathless goodbye hug**.
 
-Jordan wrapped his strong arms around her waist and shoulders, holding her close against his chest, feeling the rapid, emotional beat of her heart drumming right against his through her maroon Residence Life polo.
+Jordan wrapped his strong arms around her waist and shoulders, holding her close against his chest, feeling her shoulders tremble slightly as she cried softly against him—overwhelmed by the end of their year in the Old Lady and by how much she was going to miss him while he was away all summer.
 
-Isabel buried her face against the crook of his neck, her dark hair brushing his jaw as she held onto him for nearly a full minute in the quiet hallway of the Old Lady.
+Isabel buried her face against the crook of his neck, her dark hair brushing his smooth, clean-shaven jaw as warm tears dampened the collar of his shirt while she held onto him for nearly a full minute in the quiet hallway.
 
-![Moments later in the sun-drenched second-floor hallway outside stripped Room 214, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside Jordan's matte-black S.S. Freedom power wheelchair and wraps both arms tightly around Jordan's neck in one last long, deep, emotional goodbye hug before his summer World Trek.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c011-s002-isabel-goodbye-hug.jpg#fullwidth)
+![Moments later in the sun-drenched second-floor hallway outside stripped Room 214, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c011-s002-isabel-goodbye-hug.jpg#fullwidth)
 
-"I am so proud of you, Jordan Fuller," Isabel whispered fiercely against his collar, her hands gripping the back of his heather-grey **CPI Forgers** shirt as if she were memorizing the feel of him in her arms. "You walked into this building last August terrified of the world, and you turned into the bravest, kindest, strongest man I have ever known."
+"I am so proud of you, Jordan Fuller," Isabel whispered fiercely through her tears, her hands gripping the back of his heather-grey **CPI Forgers** shirt as if she couldn't bear to let go yet. "You walked into this building last August terrified of the world, and you turned into the bravest, kindest, strongest man I have ever known. I am going to miss having you right across the hall so much."
 
 Resting his cheek against her hair and holding her with his right arm, Jordan tapped his tablet screen with his left thumb so the soft voice spoke just for her:
 
@@ -12288,9 +12320,35 @@ With his right hand resting securely on the joystick, Jordan steered his heavy-d
 
 **Date:** 2015-05-23 at 07:30 America/New_York
 
+![Inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair beside Aubrie Jean Kelly as they watch a goodbye video message on his armrest mPad from Isabel Dawson in Charlottesville—who is dressed in a casual lavender summer top, blushing rosy pink behind her rectangular glasses as she waves goodbye and promises to stay in touch over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c001-s004-isabel-roa-video-message.jpg)
+
 The boarding area at the Meridian Express gate was quiet, populated entirely by the eighteen members of the chosen family. Through the floor-to-ceiling glass windows, the small regional jet sat parked on the tarmac, its engines whining with a low, mechanical hum.
 
-Before the gate agent called for pre-boarding, Daniel Brooks knelt beside Jordan’s heavy-duty power chair. He carried the sleek Vanguard Pro laptop case over his shoulder.
+While the eighteen of them gathered near the gate windows, **Isabel Dawson** wasn't at Roanoke-Blacksburg Regional Airport to see them off in person; after finishing the final staff closeout of **Bennett Hall**, she had already driven back home up Interstate 81 and Interstate 64 to **Charlottesville** for the summer to be with her parents, **Stephen** and **Elana**, and her younger sister, **Stella**.
+
+Yet right as Jordan rolled his matte-black power chair up beside the tall terminal glass with **Aubrie Jean** standing warmly at his side, the messaging app on his armrest **mPad** and pocket **mPhone** chimed with an incoming **recorded video message** from **Isabel Dawson**.
+
+Jordan tapped the play icon on the glass screen, and Aubrie leaned in with a fond, warm smile so they could watch it together.
+
+On the high-definition display, Isabel was sitting out on the sunlit back porch of her family's home in Charlottesville, dressed in a casual light-blue summer top instead of her maroon CPI Residence Life polo, with the morning Virginia sunshine glinting off her rectangular glasses. The moment she looked into the camera lens, a noticeable, rosy pink blush colored her fair cheeks, and her dark brown eyes glistened with bright emotion.
+
+*"Hey, Jordan—and hey, everyone at ROA!"* Isabel's voice came through the speaker, warm and slightly breathless as she tucked a strand of dark hair behind her ear, her cheeks flushing a shade pinker as she smiled right at the camera. *"I'm already back home in Charlottesville with Stella and my parents, so I couldn't be at the airport in person to wave at the gate, and I didn't want to interrupt your TSA check with a live call—so I wanted to send you a video message before you board your very first flight!"*
+
+On screen, Isabel's smile softened, her eyes misty behind her glasses because she was going to miss him so much over the next three months.
+
+*"Have the safest flight up to Dulles and all the way to Newfoundland today, Jordan,"* she continued softly, her rosy blush lingering as she held the phone steady. *"Send me a video message back if you have a minute before boarding, and promise me you'll stay in touch as best as you can across the time zones this summer! Send pictures from Gander, and Europe, and Sydney whenever you guys have hotel Wi-Fi. Everyone here in Charlottesville is cheering for you—we miss you already, Captain of the Hill. Have the trip of a lifetime!"*
+
+Isabel raised her hand in a lingering, affectionate wave before the video clip ended.
+
+Standing beside Jordan's wheelchair, Aubrie Jean squeezed his shoulder with a beaming smile. "Come on, J—let's record a quick video message back to her before Daniel makes us pack up the electronics for boarding!"
+
+Jordan grinned, tapped the **Record Video Message** button on his screen, and typed a message into his AAC voice synthesizer while Aubrie held the camera angle so Isabel could see both Jordan smiling in his power chair and the Meridian Express jet waiting on the tarmac through the glass behind them:
+
+<aac>Hi Isabel! We just cleared TSA at ROA and we're right at the gate. Thank you for the video message—I promise we will stay in touch and send you photos and updates from every stop this summer. Tell Stella, Elana, and Stephen we said hello, and I'll see you in August!</aac>
+
+Jordan gave the camera a bright wave, hit **Send**, and watched the status bar confirm *Delivered* over the terminal Wi-Fi.
+
+Seconds later, before the gate agent called for pre-boarding, Daniel Brooks knelt beside Jordan’s heavy-duty power chair. He carried the sleek Vanguard Pro laptop case over his shoulder.
 
 "Alright, Jordan, let's talk about the logistics of this aircraft," Daniel said, his deep London accent exuding a calm, steady authority. "The aviation administration updated their electronic device policies a couple of years ago. We are allowed to use small devices like an mPhone from gate to gate, as long as they are in airplane mode. However, there is a strict rule regarding larger hardware."
 
