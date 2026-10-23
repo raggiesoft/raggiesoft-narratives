@@ -714,7 +714,7 @@ Defeated, he transferred from his wheelchair back to his bed. Still fully clothe
 
 **Date:** 2014-08-23 at 10:30 America/New_York
 
-![Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c004-aubrie-first-hug.jpg)
+![Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c004-s002-clerical-error.jpg)
 
 Around mid-morning, the electronic reader outside Room 214 chirped as a Poly Pass tapped against it. Because the card belonged to a standard residential student rather than someone registered with the Office of Educational Accessibility, the motorized opener stayed silent; instead, the heavy latch clicked unlocked and the wooden door was pushed wide open by hand. A sudden bar of corridor light spilled across the dim linoleum floor.
 
@@ -748,6 +748,8 @@ The three names hit him with the force of a physical blow. His breath caught in 
 
 **Date:** 2014-08-23 at 10:35 America/New_York
 
+![Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c004-s003-system-crash.jpg)
+
 For a single, suspended heartbeat, the quiet room held still. Then everything crashed in on him at once.
 
 Through the open doorway, the booming, muffled roar of the second-floor hallway—shouting voices, slamming doors, and the heavy rumble of rolling move-in carts—surged into the small space like an avalanche. Above him, the recessed fluorescent fixture glared against the painted cinderblock walls with a sudden, blinding intensity. And right across the threshold stood a girl his own age and her parents, staring into a female dorm room where an eighteen-year-old boy had been sleeping.
@@ -768,7 +770,7 @@ The glare of the overhead fluorescent tube turned into white-hot needles behind 
 
 *It's too much. It's too much.*
 
-He squeezed his eyes shut, and a loud, piercing cry tore involuntarily from his throat—the raw, shattered sound of a mind pushed completely past its breaking point. His hands flew up from the push-rims to clamp tightly over both ears, his fingers digging into his hair as he began to rock violently back and forth in his wheelchair, trying desperately to block out a world that was caving in around him.
+He squeezed his eyes shut, and a loud, piercing cry tore involuntarily from his throat—the raw, shattered sound of a mind pushed completely past its breaking point. His hands flew up from the push-rims to clamp tightly over both ears, his fingers digging into his hair as he began to rock violently back and forth in his wheelchair, trying desperately to block out a world that was caving in around him—just as a second young woman with long wavy blonde hair stepped across the open threshold hauling a cardboard move-in box against her hip and froze in wide-eyed concern.
 
 ### Scene 4: The Anchor Holds
 
@@ -784,7 +786,15 @@ Aubrie Jean Kelly, however, didn't flinch, and she didn't retreat a single inch.
 
 Her parents hesitated for a beat, reading the quiet certainty in their daughter's posture, before nodding and stepping back down the corridor toward the elevators.
 
-Aubrie set her canvas bags quietly on the floor right against the bottom of the open door so they propped it ajar without making a sound. She took a slow, deliberate step into the room, keeping her movements unhurried and predictable.
+Standing just inside the open doorway with a large cardboard move-in box balanced against her hip, the petite blonde girl who had arrived a heartbeat earlier—Madison Elizabeth Scott—looked from the crying boy in the wheelchair to Aubrie with wide, compassionate blue eyes.
+
+"Uh... is this room 214?" Madison asked softly.
+
+"It is," Aubrie said quietly, setting her canvas bags on the floor beside the sink. "He's really overwhelmed right now. Could you maybe close the door and hit the light switch?"
+
+Madison didn't hesitate. She set her box down on the floor by the sink and guided the heavy wooden door shut until the electronic lock clicked automatically into place, instantly cutting the roaring hallway noise down to a distant, muted hum. Stepping over to the wall switch beside the handicap push-plate, she flipped off the harsh overhead fluorescent tube, leaving the room bathed only in the soft gray daylight filtering through the single window. She looked at Aubrey—at his wrinkled clothes, his shoeless feet in white socks resting on the footplates, and the raw distress etched across his face—and her heart went out to him immediately. "What else can I do?" she whispered compassionately.
+
+"Just... be calm," Aubrie replied softly, taking a slow, deliberate step toward Aubrey's wheelchair and keeping her movements unhurried and predictable.
 
 "Aubrey," she said, pitching her voice into a low, steady, even cadence designed to slip gently beneath the static flooding his brain. "My name is Aubrie. It's okay. You're safe. Nobody is mad at you. Focus on my voice."
 
@@ -796,21 +806,11 @@ Slowly, fighting through the blinding static and the sheer terror gripping his c
 
 Aubrie Jean reached out and placed her hand firmly and steadily on his shoulder. The solid, warm pressure cut through a fraction of the spinning chaos in his head. His shoulders shuddered violently under her palm, and he gave another, almost desperate nod—a silent, wordless plea for more grounding before he floated away entirely.
 
-Understanding washed over Aubrie's face. "Is it okay if I hug you?" she asked softly, and when he nodded again, she stepped quietly behind his wheelchair, leaned down, and wrapped both arms around his shoulders in a firm, secure, deep-pressure embrace—holding him steady like a living anchor against the storm.
+Understanding washed over Aubrie's face. "Is it okay if I hug you?" she asked softly, and when he nodded again, she stepped quietly beside his wheelchair, leaned down, and wrapped both arms around his shoulders in a firm, secure, deep-pressure embrace—holding him steady like a living anchor against the storm.
 
-Aubrey froze for a fraction of a second as the steady warmth of her arms registered through his trembling frame. For eighteen years, physical touch had meant his mother's rough, impatient hands yanking at his sleeves or scrubbing his skin raw, or a stiff hand clamping onto his shoulder to pose him for a photograph. He had never known touch could be a shield. This was the very first time in his entire life he had ever received an unconditional hug.
+Aubrey froze for a fraction of a second as the steady warmth of her arms registered through his trembling frame, his hands coming up to clutch tentatively at her forearms as tears spilled down his flushed cheeks. For eighteen years, physical touch had meant his mother's rough, impatient hands yanking at his sleeves or scrubbing his skin raw, or a stiff hand clamping onto his shoulder to pose him for a photograph. He had never known touch could be a shield. This was the very first time in his entire life he had ever received an unconditional hug.
 
-It was at that exact moment that the hallway door swung wider. A second young woman—petite, with long wavy blonde hair and a dusting of freckles across her nose—stepped inside hauling a large cardboard box against her hip. Madison Elizabeth Scott froze mid-step, taking in the sight of the girl holding a crying boy in a wheelchair.
-
-"Uh... is this room 214?" Madison asked, her bright blue eyes wide.
-
-Aubrie didn't loosen her grounding hold around Aubrey's shoulders for a second. "It is," she said quietly. "He's really overwhelmed right now. Could you maybe close the door?"
-
-Madison didn't hesitate. She set her box down on the floor, slid Aubrie's canvas bag clear of the threshold, and guided the heavy wooden door shut until the electronic lock clicked automatically into place, instantly cutting the roaring hallway noise down to a distant, muted hum. Stepping over to the wall switch, she also flipped off the harsh overhead fluorescent tube, leaving the room bathed only in the soft gray daylight filtering through the single window. She looked at Aubrey—at his wrinkled clothes, his shoeless feet resting on the footplates, and the raw distress etched across his face—and her heart went out to him immediately. "What can I do?" she whispered compassionately.
-
-"Just... be calm," Aubrie replied softly, her chin resting gently near his shoulder as she maintained the steady pressure around his frame. "It'll pass. We just have to ride it out."
-
-Madison nodded, quietly pulling out a wooden desk chair and sitting a few feet away, offering a calm, non-judgmental presence. Over the next forty-five minutes, held safely within the steady anchor of Aubrie's arms in the dimmed, quieted room, the static in Aubrey's head slowly receded. His piercing cries gradually softened into ragged, shuddering breaths, and the violent rocking finally stilled.
+Over the next forty-five minutes, with Madison watching quietly and compassionately beside the bunk bed while Aubrie held him safely within the steady anchor of her arms in the dimmed, quieted room, the static in Aubrey's head slowly receded. His piercing cries gradually softened into ragged, shuddering breaths, and the violent rocking finally stilled.
 
 Just as his breathing began to even out, the connecting bathroom door clicked open from the other side. A tall girl with glasses and vibrant purple hair, Zoë Wren Brooks, poked her head in from Room 216, her analytical gray eyes widening in surprise. "Uh, hi. I'm in 216. Is everything okay? There's a... guy in here. Is he helping you two with move-in?"
 
