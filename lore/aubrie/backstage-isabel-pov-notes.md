@@ -22,3 +22,4 @@
        - *He didn't ignore my knocking—he genuinely didn't hear me through the door.*
        - When he instinctively cups a hand behind his ear as she greets him, she immediately raises her speaking volume slightly and faces him directly so he can see her lips, never calling attention to his hearing or embarrassing him for not answering the knock.
        - She spots the wall outlet recessed awkwardly behind the desk legs where a wheelchair user cannot reach it, remembers the roll of double-sided mounting tape in her khaki pocket, and offers to mount his power strip right on top of the desk.
+

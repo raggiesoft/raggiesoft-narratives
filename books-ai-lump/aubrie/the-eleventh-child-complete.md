@@ -714,6 +714,8 @@ Defeated, he transferred from his wheelchair back to his bed. Still fully clothe
 
 **Date:** 2014-08-23 at 10:30 America/New_York
 
+![Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c004-aubrie-first-hug.jpg)
+
 Around mid-morning, the electronic reader outside Room 214 chirped as a Poly Pass tapped against it. Because the card belonged to a standard residential student rather than someone registered with the Office of Educational Accessibility, the motorized opener stayed silent; instead, the heavy latch clicked unlocked and the wooden door was pushed wide open by hand. A sudden bar of corridor light spilled across the dim linoleum floor.
 
 A young woman with long brown hair woven into a practical side braid stepped across the threshold, her arms loaded down with canvas bags and a plastic tote. Two steps inside, she stopped dead in her tracks. Her hazel eyes went wide as she took in a room that was unmistakably already lived-in: a folded manual wheelchair parked right beside the lowered single bed, a pair of untied sneakers lying on the floor, a heavy laptop resting on the desk, and a boy curled beneath the blankets, fast asleep.
@@ -771,6 +773,8 @@ He squeezed his eyes shut, and a loud, piercing cry tore involuntarily from his 
 ### Scene 4: The Anchor Holds
 
 **Date:** 2014-08-23 at 10:40 America/New_York
+
+![Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c004-aubrie-first-hug.jpg)
 
 Out in the corridor, Aubrie Jean's father took a startled step toward the threshold, his brow creasing with alarm at the sound of the boy's cries.
 
