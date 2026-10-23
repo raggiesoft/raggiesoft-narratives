@@ -6917,7 +6917,7 @@ She stepped out into the hallway, knelt down beside his wheelchair so they were 
 
 Jordan closed his eyes and hugged her back, resting his cheek briefly against the soft wool of her cardigan.
 
-By now, Isabel meant the absolute world to him. Out of every single staff member, professor, or administrator at Commonwealth Polytechnic Institute, she was unmistakably his favorite CPI staffer. He had never forgotten—and knew he would never forget for as long as he lived—that back on that terrifying Friday afternoon of early move-in day in August, when his mother had dumped him alone in a barren room with a bunked bed he couldn't climb and driven away, Isabel had been the very first person in a position of authority in his entire life who had ever shown him pure, unconditional kindness. Without making him feel broken or pitiful for a single second, she and Henry had rolled up their sleeves, unbunked his beds, rearranged every piece of furniture in Room 214 so his wheelchair could turn freely, and handed him the dignity of his own home.
+By now, Isabel meant the absolute world to him. Out of every single staff member, professor, or administrator at Commonwealth Polytechnic Institute, she was unmistakably his favorite CPI staffer. He had never forgotten—and knew he would never forget for as long as he lived—that back on that terrifying Friday afternoon of early move-in day in August, when his mother had dumped him alone in a barren room with a bare mattress, a taped-shut cardboard shipping box, and a dead laptop whose wall outlet he couldn't reach from his wheelchair, Isabel had been the very first person in a position of authority in his entire life who had ever shown him pure, unconditional kindness. Without making him feel broken or pitiful for a single second, she had secured his power strip right onto his desk so he could speak again, cut open his shipping box, made his bed with fresh sheets and blankets, unpacked his clothes into his dresser, and handed him the dignity of his own home.
 
 Holding onto her warm hug in the quiet corridor, Jordan knew every line of the professional Residence Life boundary that had to stand between a Resident Advisor and a freshman resident. And he knew how excited she was to go home to Charlottesville to see her mom, her dad, and Elana.
 
@@ -10864,37 +10864,51 @@ With his eyes shining behind his glasses, Jordan reached for his **Pinnacle Vang
 
 When Jordan’s NeoEdit voice finished speaking in the quiet glow of **Room 214**, six radiant smiles broke out around him at the exact same moment.
 
-There was no rush that night, and no awkwardness. Because **Room 214** only held the standard university-issue twin XL beds and the shared pull-out mattress pads on the floor—and because **Sarah** and **Jessica** had an early 8:00 AM Monday tutorial from their fifth-floor suite—the six women coordinated the night with effortless, sisterly grace.
+There was no rush that night, and no awkwardness. Because **Room 214** in Bennett Hall only held the three standard university-issue Twin XL dormitory beds—Jordan's standalone, nineteen-inch ADA-transfer-height **Bed A** and the two-high Twin XL bunk frame (**Beds B and C**) along the opposite wall—and because **Sarah** and **Jessica** had an early 8:00 AM Monday tutorial from their fifth-floor suite, the six women coordinated the night with effortless, sisterly grace.
 
-First, Sarah and Jessica leaned down one after the other to share their very first true, lingering romantic kisses with Jordan—Sarah cupping his cheek with a soft, breathless sigh against his lips, and Jessica kissing him deeply with the warm, unhurried tenderness of the Red Centre—before hugging Aubrie Jean, Madison, Zoë, and Lauren goodnight and heading upstairs to Suite 505 with a promise that their turn for an overnight stay in 214 was right around the corner.
+First, Sarah and Jessica leaned down one after the other to share their very first true, lingering romantic kisses with Jordan—Sarah cupping his cheek with a soft, breathless sigh against his lips, and Jessica kissing him deeply with the warm, unhurried tenderness of the Red Centre—before hugging Aubrie Jean, Madison, Zoë, and Lauren goodnight and heading upstairs to **Suite 505** with a promise that their turn for an overnight stay in 214 was right around the corner.
 
-Inside Room 214, **Lauren** dimmed the overhead fluorescent fixture until only the warm amber desk lamp illuminated the room, while **Zoë** and **Madison** turned down the blankets on the two pushed-together lower beds.
+Inside Room 214, **Lauren** dimmed the overhead fluorescent fixture until only the warm amber desk lamp illuminated the room, while **Zoë** and **Madison** turned down the fresh sheets on Jordan's standalone **Bed A** and the two-high bunk across the room.
 
-All four women looked at **Aubrie Jean** and smiled.
+All three of them looked at **Aubrie Jean** and smiled.
 
-"Tonight is the very first night of the New Pact," **Madison** said softly, kissing Aubrie Jean on the cheek before she, Zoë, and Lauren slipped out of their clothes without a trace of self-consciousness and settled under the covers of the adjacent bed to give Jordan and Aubrie Jean the main mattress. "And everyone in this Constellation agrees that Jordan's first time belongs with the girl who walked off that bus with him in August."
+"Tonight is the very first night of the New Pact," **Madison** said softly, kissing Aubrie Jean on the cheek before she, Zoë, and Lauren slipped out of their clothes without a trace of self-consciousness and settled into the bunk across the room to give Jordan and Aubrie Jean **Bed A** to themselves. "And everyone in this Constellation agrees that tonight belongs to the two of you."
 
-Aubrie Jean’s eyes glistened as she turned back to Jordan's wheelchair.
+Aubrie Jean’s eyes glistened in the soft amber lamplight as she turned back to Jordan's wheelchair.
 
-With gentle, unhurried hands, Aubrie Jean helped Jordan out of his shirt, jeans, and socks until they were both completely bare in the warm amber light, then guided him through a smooth pivot-transfer onto the mattress beside her.
+As she knelt beside his chair to take his hands, Jordan noticed the faint, tender flutter of her pulse at the base of her throat and the shy, rosy blush warming her cheeks. For all her quiet bravery—from the day she had stood between him and his mother in Virginia Beach to the morning she had walked him onto the bus to Blacksburg—**Aubrie Jean** had never been with anyone either. This was **her** very first time having sex, just as it was **his**.
 
-For Jordan, who had spent his whole childhood having his body treated like a clinical object of surgeries and braces, feeling Aubrie Jean curl her warm, bare body against his skin—looking at him not as a patient, but as a man she desired with all her heart—made his breath catch in pure wonder.
+"I'm a little nervous too, J," Aubrie Jean whispered honestly, her forehead resting lightly against his as she smiled through her blush. "I've never done this before with anyone. And I never wanted to—until you. Tonight is a first for both of us."
 
-"You set the pace, Jordan," Aubrie Jean whispered against his lips, guiding his hands onto her waist as she settled over his hips so there was zero strain on his legs or lower back. "You're safe with me. Always."
+Hearing her say that melted the last knot of hesitation in Jordan's chest. Reaching for his MagnaByte mPhone on the edge of the mattress, he tapped a quiet line so the soft voice spoke just between the two of them:
 
-Touching the screen of his MagnaByte mPhone resting on the pillow beside them, Jordan triggered a soft whisper from his AAC app:
+<aac>Me too. Let's figure it out together, at our own pace. I only want this if you want every step of it too.</aac>
 
-<aac>I love you, Aubrie Jean.</aac>
+"I do," Aubrie Jean breathed, her hazel eyes shining with unmistakable certainty. "With all my heart, Jordan. And tonight, you are in complete control of your body. Nothing happens unless you want it, and you can tell me to pause, slow down, or change anything at any second."
 
-"I love you too, Jordan Fuller," she breathed, and kissed him.
+With gentle, unhurried care—asking before every touch and letting Jordan lead whenever his hands reached for the hem of his shirt or hers—they undressed until they were both bare in the warm glow of the desk lamp. Guiding his own weight with steady arms while Aubrie Jean spotted his balance only as much as he asked, Jordan completed a smooth pivot-transfer from his wheelchair onto the mattress of **Bed A**.
 
-What followed was slow, tender, and completely overwhelming in the best possible way—every movement spoken with their eyes and hands, every barrier of old fear melting away in the quiet warmth of the room as Jordan experienced true physical union for the very first time in his nineteen years, held closely in the arms of his best friend while Madison, Zoë, and Lauren smiled warmly from across the blankets in quiet, loving solidarity.
+For eighteen years in Virginia Beach, and through countless childhood clinic visits, surgeries, and physical therapy evaluations, Jordan had grown up feeling like his body didn't belong to him—like a clinical object that other people moved, prodded, braced, or criticized without ever asking for his permission.
 
-Afterward, as Jordan lay catching his breath with his heart drumming a joyful, steady rhythm against Aubrie Jean’s chest, the practical, judgment-free care that defined their family flowed just as naturally as their passion. When Jordan needed to use the bathroom before they went to sleep, **Aubrie Jean** and **Madison** both rose without hesitating—still completely bare and utterly unbothered—wheeled him into the suite bathroom, helped him clean up and take care of his nighttime routine with effortless respect and zero shame, and helped him transfer back onto the clean sheets.
+Now, lying skin-to-skin with Aubrie Jean on his own bed, everything was different.
 
-Then, with the radiator humming softly against the January frost outside and the warm blankets pulled up over bare shoulders, **Aubrie Jean** and **Madison** curled tightly against Jordan’s left and right sides while **Zoë** and **Lauren** reached across the narrow bridge between the mattresses to link fingers with them.
+Every touch was asked for and welcomed. When Aubrie Jean's fingers traced his shoulders and chest, she wasn't checking muscle tone or looking for something broken—she was looking at him with pure reverence and desire, trembling slightly with her own first-time wonder as his hands gently explored the warm curve of her waist and hips in return.
 
-Falling asleep skin-to-skin in the heart of Room 214, Jordan didn't have a single nightmare. For the first time in his life, he knew—body and soul—that he was home.
+"You feel so good, Jordan," she whispered against his lips, guiding his hands onto her hips as she settled gently above him so that he had full freedom of movement with zero strain on his legs or lower back, pausing to look directly into his eyes to check in with him first. "Does this feel okay for you? Are you comfortable?"
+
+Jordan nodded, his eyes locked onto hers, and tapped the single-touch confirmation key on the phone beside the pillow:
+
+<aac>Yes. I feel completely safe. I love you, Aubrie Jean.</aac>
+
+"I love you too, Jordan Fuller," she whispered, her voice catching with emotion as they came together at last.
+
+What followed was slow, tender, and deeply mutual—two nineteen-year-olds discovering physical intimacy for the very first time in their lives with total trust and unhurried gentleness. There was no pressure to perform and no rush toward a finish line; instead, there was only the quiet rhythm of their breathing, whispered check-ins, and the extraordinary feeling of being completely safe, completely respected, and completely in command of his own body in the arms of the girl he loved.
+
+Afterward, as Jordan lay catching his breath with Aubrie Jean resting warmly against his chest and her fingers laced tightly with his, the practical, judgment-free care that defined their family flowed just as naturally as their intimacy. When they were ready to get cleaned up before going to sleep, **Aubrie Jean** and **Madison** rose without hesitation—utterly relaxed and unbothered—wheeled Jordan into the suite bathroom, helped him take care of his nighttime routine with effortless respect and zero awkwardness, and stood by as he transferred cleanly back onto the fresh sheets of **Bed A**.
+
+Then, with the radiator humming softly against the January frost outside and the warm blankets pulled up over bare shoulders, **Aubrie Jean** and **Madison** curled closely against Jordan’s left and right sides on **Bed A** while **Zoë** and **Lauren** smiled warmly from the lower bunk across the narrow aisle.
+
+Falling asleep skin-to-skin in the heart of Room 214, Jordan didn't have a single nightmare. He was safe, he was respected, his body was his own—and he was home.
 
 ## A Spring in Motion
 
@@ -10904,9 +10918,9 @@ Falling asleep skin-to-skin in the heart of Room 214, Jordan didn't have a singl
 
 Monday morning, the first day of the **Spring 2015** semester, arrived in **Suite 214/216** with a bright, easy warmth that felt light-years removed from the terrified silence of August.
 
-When the 7:00 AM alarm chimed softly on **Zoë’s** phone, **Jordan** woke up in the center of the pushed-together beds in **Room 214**, still wrapped bare and warm between **Aubrie Jean** and **Madison**, with **Lauren** and **Zoë** smiling sleepily across the pillows. Just like the night before, the morning routine unfolded with zero awkwardness and complete, loving teamwork: **Madison** and **Zoë** wheeled Jordan into the suite bathroom, helped him through a warm morning shower on the fold-down transfer bench while chatting casually about the first day of classes, and helped him dress in his jeans, sneakers, and a fresh maroon **CPI Forgers** polo while **Hannah**, **Mark**, **Sarah**, and **Jessica** joined the suite for breakfast bars and hot tea.
+When the 7:00 AM alarm chimed softly on **Zoë’s** phone, **Jordan** woke up on his narrow Twin XL mattress (**Bed A**) in **Room 214**, still wrapped bare and warm between **Aubrie Jean** and **Madison**, while **Lauren** and **Zoë** smiled sleepily across the narrow aisle from the lower bunk (**Bed B**). Just like the night before, the morning routine unfolded with zero awkwardness and complete, loving teamwork: **Madison** and **Zoë** wheeled Jordan into the connecting suite bathroom and then down the second-floor hallway to the **Accessible Roll-In Shower Room (Room 212A)** for a warm morning shower while chatting casually about the first day of classes, before returning to **Room 214** to help him dress in his jeans, sneakers, and a fresh maroon **CPI Forgers** polo as **Hannah**, **Mark**, **Sarah**, and **Jessica** joined the suite for breakfast bars and hot tea.
 
-"You know," **Madison** said thoughtfully as she brushed out her damp hair and glanced back at the twin XL dorm beds in Room 214, "sharing that portable queen bed down in the Brooks basement over Winter Break was wonderful, and pushing two dorm beds together works when we're careful, but a standard mattress gets pretty cozy with more than two or three of us. When we move into our permanent off-campus house in Christiansburg for sophomore year, we should definitely plan for a King-sized bed."
+"You know," **Madison** said thoughtfully as she brushed out her damp hair and glanced back at Jordan's narrow Twin XL dorm bed (**Bed A**), "sharing those foldable queen beds down in the Brooks basement over Winter Break was wonderful, and squeezing onto a thirty-eight-inch Twin XL dorm bed works when we're careful, but a single dorm mattress gets pretty tight when more than two of us try to cuddle on it! When we move into our permanent off-campus house in Christiansburg for sophomore year, we should definitely plan for a King-sized bed."
 
 "I was thinking the exact same thing," **Aubrie Jean** agreed, already sitting at her desk with her laptop open. "Actually, wait a second—I wonder if they make anything bigger than a standard King..."
 
@@ -11343,7 +11357,7 @@ As Kelsey and Garrett carried the poster tubes out toward the idling CPI Fleet S
 
 At eight-fifteen that Friday evening, a polite, slightly hesitant three-beat knock sounded against the corridor door of **Room 214**.
 
-Around the folding table in the center of the room—where **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** were spread out with physics problem sets and mugs of hot cocoa—everyone glanced up at the door. Normally, on a Friday night at eight o'clock, a knock had a familiar rhythm: either **Isabel's** cheerful two-tap check-in before she headed down to the front desk, or **Garrett's** steady single rap on his way past the stairwell.
+Across the desks, lower bunks, and braided rug of **Room 214**—where **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** were spread out with physics problem sets and mugs of hot cocoa—everyone glanced up at the door. Normally, on a Friday night at eight o'clock, a knock had a familiar rhythm: either **Isabel's** cheerful two-tap check-in before she headed down to the front desk, or **Garrett's** steady single rap on his way past the stairwell.
 
 **Mark** rose from his chair and pulled the heavy oak door open.
 
@@ -11535,11 +11549,11 @@ Isabel laughed as she dropped into a window seat behind the front wheel well—a
 
 **Date:** 2015-02-15 at 18:30 America/New_York
 
-At six-thirty on Sunday evening, just as the nine residents of **Suite 214/216** were finishing a Sunday study block around their common table, footsteps and laughter echoed down the second-floor hallway outside their door, followed by a familiar, cheerful two-beat knock.
+At six-thirty on Sunday evening, just as the nine residents of **Suite 214/216** were finishing a Sunday study block across the desks and lower bunks of **Room 214**, footsteps and laughter echoed down the second-floor hallway outside their door, followed by a familiar, cheerful two-beat knock.
 
 Jordan's head snapped up toward the door before anyone else's, his whole face lighting up behind his glasses.
 
-**Mark** pulled the door open—and everyone at the table burst out laughing in delight.
+**Mark** pulled the door open—and everyone in the room burst out laughing in delight.
 
 Standing in the doorway were **Isabel Dawson**, **Garrett Reynolds**, and **Kelsey Brennan**, fresh off the highway from the **CACUHO** conference. Around each of their necks hung a wide woven conference lanyard that was almost completely buried under **dozens of brightly painted, glitter-covered, hand-decorated wooden clothespins** clipped edge-to-edge down the fabric.
 
@@ -11976,13 +11990,13 @@ That evening back in **Bennett Hall**, after homework was finished and **Mark** 
 
 All week in Bluewater, sleeping side-by-side on the living-room floor of Madison's parents' house had been cozy and wonderful, yet out of respect for David, Diane, Bob, and Emily upstairs, they had kept their nights strictly PG-13 under their pajamas and quilts.
 
-Tonight, back inside their private second-floor sanctuary with the deadbolt turned and the warm amber fairy lights glowing along the wall, the seven of them pushed the mattresses and thick foam toppers together into a single wall-to-wall bed and shed every layer of fabric and hesitation.
+Tonight, back inside their private second-floor sanctuary with the deadbolt turned and the warm amber fairy lights glowing along the cinderblock wall above **Bed A** and the two-high bunk (**Beds B and C**), the seven of them shed every layer of fabric and hesitation.
 
-Using the **Forty-Five-Degree Transfer** Emily had taught him, Jordan pivoted smoothly from the seat of the *S.S. Freedom* straight into the warm, bare arms of his Constellation.
+Using the **Forty-Five-Degree Transfer** Emily had taught him, Jordan parked the *S.S. Freedom* at a clean forty-five-degree angle beside his nineteen-inch standalone Twin XL **Bed A**, leaned forward over his knees, and pivoted smoothly across the corner gap straight into the warm, bare arms of his Constellation.
 
-There was no rush, no hierarchy, and not a shadow of jealousy anywhere in the room—only six women who loved him fiercely and loved one another as sisters, taking turns holding him, kissing him, and sharing a slow, breathtaking night of shared passion and skin-to-skin tenderness where every touch affirmed how far he had come from the boy who used to flinch at his own reflection.
+Even within the narrow footprint of a 1960s dormitory room, there was no rush, no hierarchy, and not a shadow of jealousy anywhere in the space—only six women who loved him fiercely and loved one another as sisters, rotating effortlessly between Jordan's **Bed A** and the bunks across the narrow aisle as they took turns holding him, kissing him, and sharing a slow, breathtaking night of mutual passion and skin-to-skin tenderness where every touch affirmed how far he had come from the boy who used to flinch at his own reflection.
 
-When they finally drifted off to sleep after midnight—with **Aubrie Jean** and **Madison** curled against his ribs, **Zoë** and **Lauren** holding his hands, and **Sarah** and **Jessica** nestled warm against his legs and shoulders—Jordan placed his palm lightly over the center of his chest and hummed two quiet, contented notes of Emily's **Heart-Hum** into the dark.
+When they finally drifted off to sleep after midnight—with **Sarah** and **Jessica** curled bare and warm against Jordan's left and right sides on **Bed A** for their long-promised overnight turn, **Aubrie Jean** and **Madison** reaching across the narrow aisle from the lower bunk (**Bed B**) to hold his hands, and **Zoë** and **Lauren** nestled up on the top bunk (**Bed C**)—Jordan placed his palm lightly over the center of his chest and hummed two quiet, contented notes of Emily's **Heart-Hum** into the dark.
 
 ## Closing the Old Lady & Ready for the World
 
@@ -12004,7 +12018,7 @@ He packed the last of his desk books—including Arthur MacAllister's *Civitas*,
 
 He looked around the empty room where the string lights had hung above the headboard all winter and spring.
 
-"Hard to believe freshman year is actually over," **Aubrie Jean** said softly, stepping up beside his chair and resting her hand on his shoulder as they looked at the bare university-issue twin bed frames pushed back into the corners for the final housing inspection. "Nine months ago, we walked into the Old Lady just praying we could keep you safe through Labor Day."
+"Hard to believe freshman year is actually over," **Aubrie Jean** said softly, stepping up beside his chair and resting her hand on his shoulder as they looked at the bare university-issue Twin XL bed frames—Jordan's standalone nineteen-inch **Bed A** and the two-high bunk frame (**Beds B and C**) along the opposite wall—stripped clean for the final housing inspection. "Nine months ago, we walked into the Old Lady just praying we could keep you safe through Labor Day."
 
 "And instead," **Madison** said, joining them with the swept dustpan in her hand and a warm smile on her lips, "we built a whole life inside these walls."
 
