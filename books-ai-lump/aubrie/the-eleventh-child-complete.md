@@ -4946,7 +4946,7 @@ By a quarter to eight, the initial burst of cheering had settled into a warm, pe
 
 **Date:** 2014-09-19 at 20:00 America/New_York
 
-![Inside Bennett Hall Room 214 as the Simplex fire alarm strobe flashes, Isabel Dawson—wearing a neon-yellow high-visibility vest over her sweater and blue jeans—kneels beside a terrified Jordan clutching his desk and holds open the official CPI EHS log folder to show him it is a scheduled drill, while Madison supports an upset Aubrie near the doorway.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c012-s003-fire-drill.jpg)
+![Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson—wearing a neon-yellow high-visibility vest over her sweater and blue jeans—crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c012-s003-fire-drill.jpg)
 
 The clock hit 8:00 PM.
 
