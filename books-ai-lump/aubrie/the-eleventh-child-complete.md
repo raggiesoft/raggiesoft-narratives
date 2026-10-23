@@ -10598,13 +10598,13 @@ Jordan shook Garrett’s hand firmly, then rested his fingers on the keys of his
 
 <aac>Welcome to Floor 2, Garrett! Here are the main things to know about me and Suite 214/216:
 1. I am non-speaking and autistic, and I have cerebral palsy, so I cannot put any weight on my legs. I communicate by typing in NeoEdit on my laptop, or using EchoType when I need spoken projection.
-2. I wear prescription hearing aids. In normal conversation I can hear you clearly, but if there is a scheduled fire drill or building alarm, Isabel and Kelsey give me a quiet visual heads-up a few minutes beforehand so the 95-decibel horn does not catch me without my hearing protection.
+2. I wear prescription hearing aids and glasses. In an emergency or fire alarm when the elevators lock out, our suite evacuates straight out the second-floor ground-level doors onto Washington Street, and Aubrie Jean keeps noise-reducing earmuffs in our room for sensory overload.
 3. Suite 214/216 is a permanent, university-approved co-ed accommodation suite—I live in Room 214 with Aubrie Jean and Madison, and Zoë, Lauren, and Hannah live in Room 216, while Mark lives upstairs in Room 312 and Sarah and Jessica live up in Room 505.
 4. Finally, there are active CPI Police trespass bars against two individuals—my estranged mother, Aubrie Sinclair, and a former student named Tom Lawson. Neither of them is ever allowed inside Bennett Hall.</aac>
 
 Garrett read every single line directly from Jordan’s screen, nodding thoughtfully as he absorbed the information.
 
-"Crystal clear on all four points, Jordan," Garrett replied without a second's hesitation. "I already have both trespass photos clipped inside the front-desk security binder and my `Room 201` duty clipboard, I know the pre-drill notification protocol with EHS, and if any visitor or administrator ever questions `Suite 214/216`, they go straight through me, Isabel, and Kelsey."
+"Crystal clear on all four points, Jordan," Garrett replied without a second's hesitation. "I already have both trespass photos clipped inside the front-desk security binder and my `Room 201` duty clipboard, I know the second-floor Washington Street grade-exit evacuation plan, and if any visitor or administrator ever questions `Suite 214/216`, they go straight through me, Isabel, and Kelsey."
 
 "And we've also added Garrett to the **`[Jordan Comms]`** staff watch alongside me, Isabel, and Henry," Kelsey added warmly, before lifting a second clipboard from the front desk counter. "While all six of you from **`Suite 214/216`** are standing right here, let's go ahead and knock out your routine Spring Semester renewal signatures confirming that all six of you want to stay a co-ed suite for the spring term."
 
@@ -11369,7 +11369,7 @@ Even though Kelsey and Garrett had left a detailed briefing page in the duty bin
 
 To their credit, the Westgate relief staff recovered quickly and made an earnest, good-faith effort to get every detail right.
 
-"You must be **Jordan**," Tyler said, stepping just inside the threshold and offering a respectful wave as he carefully consulted the bullet points on Garrett's handover sheet. "Garrett and Isabel walked us through the binder before their van left at four. Just so we make sure we're doing everything the way your regular staff does—there aren't any scheduled EHS fire drills or alarm tests this weekend, we double-checked that both trespass notices in the front-desk security binder are flagged at the lobby desk, and if you guys need anything at all tonight, the duty phone number on the whiteboard goes straight to our desk downstairs."
+"You must be **Jordan**," Tyler said, stepping just inside the threshold and offering a respectful wave as he carefully consulted the bullet points on Garrett's handover sheet. "Garrett and Isabel walked us through the binder before their van left at four. Just so we make sure we're doing everything the way your regular staff does—we double-checked that both trespass notices in the front-desk security binder are flagged at the lobby desk, we reviewed your second-floor Washington Street ground-exit evacuation route in case an alarm goes off, and if you guys need anything at all tonight, the duty phone number on the whiteboard goes straight to our desk downstairs."
 
 "And we just wanted to put faces to names so we aren't complete strangers walking your hall this weekend," Chloe added kindly, though her eyes flicked down to the handover binder one more time as if mentally trying to map how nine people across `214`, `216`, `312`, and `505` operated like a single household. "Is there anything special about the suite setup we should know that isn't written on the sheet?"
 
@@ -11431,7 +11431,7 @@ For a heartbeat, the room was completely quiet—and then, across the circle, th
 
 **Aubrie Jean** reached down, laced her fingers through Jordan's right hand, and squeezed gently.
 
-"It isn't crazy at all, Jordan," Aubrie Jean said softly, her hazel eyes shining with pure, unguarded affection. "How could you *not* love her? She was the very first person at CPI who was kind to you when you were all alone in this room on Move-In Friday. She unpacked your clothes, made your bed, warned you before the fire drill so your ears wouldn't hurt, welcomed us to Charlottesville to meet Elana, Stephen, and Stella, and fights for this suite every single day."
+"It isn't crazy at all, Jordan," Aubrie Jean said softly, her hazel eyes shining with pure, unguarded affection. "How could you *not* love her? She was the very first person at CPI who was kind to you when you were all alone in this room on Move-In Friday. She unpacked your clothes, made your bed, knelt in front of your chair during the fire drill to prove to you that you were safe and your mom wasn't waiting outside, welcomed us to Charlottesville to meet Elana, Stephen, and Stella, and fights for this suite every single day."
 
 "And for the record," **Zoë** added in her crisp British accent, pushing her glasses up the bridge of her nose with a fond smile, "none of the six of us are surprised in the slightest. In fact, if we were placing statistical wagers on whether your heart was eventually going to include Room 215, the odds were approaching one hundred percent back in January."
 
@@ -11463,7 +11463,7 @@ Kelsey glanced over at Garrett with a raised eyebrow. "All yours, Garrett."
 
 Garrett stepped up to the front edge of the riser, puffed out his chest, cupped both hands around his mouth, and let loose with a booming baritone that cut straight through the roar of the room:
 
-"# HEY CACUHO!"
+"**HEY CACUHO!**"
 
 Instantly—by pure conditioned Residence Life reflex—all one hundred and forty housing officers and RAs in Room 204 shouted back in thunderous unison:
 
@@ -11506,7 +11506,7 @@ Isabel clicked to the next slide, which showed an anonymized diagram of a two-ro
 "As an Industrial and Systems Engineering major who stepped onto Floor 2 this spring when Henry left for London," Garrett said, gesturing to the data charts on Slide 5, "I looked at `Pilot Unit Alpha` like a systems engineer. How does a nine-person, mixed-gender support network actually function day-to-day inside a 1960s residence hall?
 - **Classroom & Campus Redundancy:** Every single class on the disabled resident's schedule is paired with at least one suitemate or suite ally acting as an official OEA note-taker and campus transit buddy.
 - **Dignified Division of Care:** When the resident needs assistance in multi-stall public men's restrooms on campus where his female suitemates cannot enter, the third-floor male ally steps in seamlessly. Inside the suite, every transfer, meal run, and sensory-grounding protocol is shared voluntarily with zero burnout.
-- **Emergency & Fire-Drill Integration:** Working with **CPI Environmental Health & Safety (`EHS`)**, our Residence Life staff provides a quiet, five-minute pre-drill visual heads-up before scheduled 95-decibel alarm tests so the resident can put on hearing protection and evacuate smoothly."
+- **Emergency & Fire-Drill Evacuation Integration:** Because the building is built into a steep campus hillside where the elevators automatically recall and lock out during any fire alarm, the connected suite's buddy system and our Floor 2 Residence Life staff coordinate a zero-step horizontal evacuation straight out the second-floor Washington Street ground-level exit doors—with emergency noise-reducing earmuffs kept on hand inside the suite for sensory-sensitive residents."
 
 "And for the administrators in the room who are wondering what happens to grades, conduct, and building safety when you let freshmen live in a co-ed support suite," **Kelsey** said with a dry, knowing smile as she clicked to Slide 6—**`PILOT UNIT ALPHA: TWO-SEMESTER EMPIRICAL OUTCOMES`**—let's look at the numbers:
 
@@ -11570,7 +11570,7 @@ Standing in the doorway were **Isabel Dawson**, **Garrett Reynolds**, and **Kels
 
 Garrett grinned, puffed out his chest, cupped both hands around his mouth, and demonstrated at half-volume right there in the doorway:
 
-"# HEY CACUHO!"
+"**HEY CACUHO!**"
 
 Instantly, **Isabel** and **Kelsey** shouted back in unison:
 
