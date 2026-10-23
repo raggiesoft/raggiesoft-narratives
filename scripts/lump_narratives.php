@@ -149,8 +149,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $date = '';
                 $time = '';
                 $timezone = '';
-                $sceneImage = '';
-                $sceneImageAlt = '';
+                $sceneImages = [];
+                $sceneImageAlts = [];
                 
                 if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
                     $frontmatter = $matches[1];
@@ -159,9 +159,48 @@ foreach ($narrativeDirs as $narrativeDir) {
                     if (preg_match('/^time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1]);
                     if (empty($time) && preg_match('/^start_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1]);
                     if (preg_match('/^timezone:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $timezone = trim($m[1]);
-                    if (preg_match('/^image:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $sceneImage = trim($m[1], "\"' \t");
-                    if (preg_match('/^image_alt:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $sceneImageAlt = trim($m[1], "\"' \t");
+
+                    // Parse scalar or YAML list `image:` / `images:` and `image_alt:` / `image_alts:`
+                    $fmLines = explode("\n", $frontmatter);
+                    $activeListKey = null;
+                    foreach ($fmLines as $fmLine) {
+                        $trimmedFm = trim($fmLine);
+                        if ($trimmedFm === '') continue;
+                        if (strpos($trimmedFm, '-') === 0 && $activeListKey !== null) {
+                            $listVal = trim(substr($trimmedFm, 1));
+                            $listVal = trim($listVal, "\"' \t");
+                            if ($listVal !== '') {
+                                if ($activeListKey === 'image' || $activeListKey === 'images') {
+                                    $sceneImages[] = $listVal;
+                                } elseif ($activeListKey === 'image_alt' || $activeListKey === 'image_alts') {
+                                    $sceneImageAlts[] = $listVal;
+                                }
+                            }
+                            continue;
+                        }
+                        if (strpos($trimmedFm, ':') !== false) {
+                            list($fKey, $fVal) = explode(':', $trimmedFm, 2);
+                            $fKey = trim($fKey);
+                            $fVal = trim($fVal);
+                            if ($fVal === '') {
+                                $activeListKey = $fKey;
+                                continue;
+                            }
+                            $activeListKey = null;
+                            $fVal = trim($fVal, "\"' \t");
+                            if (($fKey === 'image' || $fKey === 'images') && $fVal !== '') {
+                                $sceneImages[] = $fVal;
+                            } elseif (($fKey === 'image_alt' || $fKey === 'image_alts') && $fVal !== '') {
+                                $sceneImageAlts[] = $fVal;
+                            }
+                        } else {
+                            $activeListKey = null;
+                        }
+                    }
                 }
+                
+                // Strip the individual YAML Frontmatter block from the scene body first
+                $partContent = preg_replace('/^---[\s\S]*?---\s*/', '', ltrim($partContent));
                 
                 $sceneTitleDisplay = $title ? "Scene {$sceneNum}: {$title}" : "Scene {$sceneNum}";
                 
@@ -180,8 +219,12 @@ foreach ($narrativeDirs as $narrativeDir) {
                     $masterContent .= $datetimeStr . "\n\n";
                 }
                 
-                // Inject YAML frontmatter `image:` as a chapter/scene header plate for the Illustrated EPUB/PDF
-                if ($sceneImage !== '') {
+                // Inject YAML frontmatter `image:` (single Hero Image or Hero Image Carousel slides)
+                // as chapter/scene header plates for the Illustrated EPUB/PDF.
+                // If a carousel slide is already embedded inline inside `$partContent`, skip injecting it
+                // at the top of the scene so static EPUB/PDF editions never duplicate the same illustration twice.
+                foreach ($sceneImages as $imgIdx => $sceneImage) {
+                    if ($sceneImage === '') continue;
                     $normalizedSceneImg = str_replace('{{cms}}', '{{CDN}}', $sceneImage);
                     $normalizedSceneImg = preg_replace('/#.*$/', '', $normalizedSceneImg);
                     if (strpos($normalizedSceneImg, '{{CDN}}') !== 0 && strpos($normalizedSceneImg, 'http') !== 0) {
@@ -191,12 +234,16 @@ foreach ($narrativeDirs as $narrativeDir) {
                         }
                         $normalizedSceneImg = '{{CDN}}/' . $cleanRel;
                     }
-                    $altDisplay = $sceneImageAlt !== '' ? $sceneImageAlt : $sceneTitleDisplay;
-                    $masterContent .= "![{$altDisplay}]({$normalizedSceneImg})\n\n";
+                    $imgBasename = basename($normalizedSceneImg);
+                    if ($imgIdx > 0 && $imgBasename !== '' && strpos($partContent, $imgBasename) !== false) {
+                        // Slide is already rendered inline at its narrative moment in the scene body
+                        continue;
+                    }
+                    $sceneImageAlt = isset($sceneImageAlts[$imgIdx]) && $sceneImageAlts[$imgIdx] !== ''
+                        ? $sceneImageAlts[$imgIdx]
+                        : (isset($sceneImageAlts[0]) && $sceneImageAlts[0] !== '' ? $sceneImageAlts[0] : $sceneTitleDisplay);
+                    $masterContent .= "![{$sceneImageAlt}]({$normalizedSceneImg})\n\n";
                 }
-                
-                // Regex to strip the individual YAML Frontmatter block
-                $partContent = preg_replace('/^---[\s\S]*?---\s*/', '', ltrim($partContent));
                 
                 // Append the cleaned narrative text
                 $masterContent .= trim($partContent) . "\n\n";
