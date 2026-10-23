@@ -4946,6 +4946,8 @@ By a quarter to eight, the initial burst of cheering had settled into a warm, pe
 
 **Date:** 2014-09-19 at 20:00 America/New_York
 
+![Inside Bennett Hall Room 214 as the Simplex fire alarm strobe flashes, Isabel Dawson—wearing a neon-yellow high-visibility vest over her sweater and blue jeans—kneels beside a terrified Jordan clutching his desk and holds open the official CPI EHS log folder to show him it is a scheduled drill, while Madison supports an upset Aubrie near the doorway.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c012-s003-fire-drill.jpg)
+
 The clock hit 8:00 PM.
 
 Without a single second of warning, a piercing, metallic, 100-decibel shriek ripped through the cinderblock walls of Suite 214/216, accompanied by the blinding, rhythmic white flash of the wall-mounted ADA emergency strobe lights and the heavy *thud* of the hallway's electromagnetic smoke-barrier doors automatically releasing and slamming shut.
@@ -4998,11 +5000,11 @@ This wasn't just Jordan being overwhelmed by the noise of the fire alarm. If it 
 
 Just as the realization hit his found family like cold water, rapid, authoritative footsteps pounded down the strobing second-floor corridor.
 
-**Isabel Dawson** rounded the corner wearing a neon-yellow **CPI Residence Life** high-visibility vest over her sweater, carrying a black two-way radio in one hand and an official **CPI Environmental Health & Safety (EHS)** drill clipboard in the other as she conducted her mandatory room-by-room floor sweep.
+**Isabel Dawson** rounded the corner. Because the 8:00 PM Friday drill was unannounced, she wasn't in her CPI Residence Life uniform polo and khakis; instead, she had thrown a neon-yellow **CPI Residence Life** high-visibility vest over her casual sweater and blue jeans, carrying a black two-way radio in one hand and an official **CPI Environmental Health & Safety (EHS)** log folder in the other as she conducted her mandatory room-by-room floor sweep.
 
 "Second floor, evacuate toward the Washington Street doors—do not use the elevators!" Isabel called out down the hall—and then she stopped dead in her tracks outside the open doorway of Room 214.
 
-Through the open door, Isabel saw Madison supporting a tearful Aubrie by the threshold while Lauren and Hannah knelt beside Jordan's wheelchair, trying gently to get him out of the room as Jordan clung to the edge of his desk with white knuckles, screaming and refusing to budge.
+Through the open door, Isabel saw Madison supporting a tearful Aubrie by the threshold—upset by the 100-decibel klaxon, yet understanding it was a fire drill and struggling bravely to execute the evacuation protocol—while Lauren and Hannah knelt beside Jordan's wheelchair, trying gently to get him out of the room as Jordan clung to the edge of his desk with white knuckles, screaming in terror and refusing to budge.
 
 One look at Jordan's terrified eyes fixed on the open doorway—and the stunned, helpless expressions on his suitemates' faces—told Isabel that something far deeper than alarm noise was happening here.
 
@@ -5012,14 +5014,14 @@ Isabel didn't bark an evacuation order, and she didn't reach for his chair. Inst
 
 Still clutching the desk as if his life depended on it, Jordan's tear-streaked eyes darted down to her face.
 
-Deliberately, slowly, Isabel tapped the reflective silver stripe on her neon **CPI Residence Life** vest, held up her black two-way radio, and then angled her metal clipboard right in front of his glasses, pointing a steady finger at the bold printed header and table at the top of the sheet:
+Deliberately, slowly, Isabel tapped the reflective silver stripe on her neon **CPI Residence Life** vest, held up her black two-way radio, and then opened the official **CPI Environmental Health & Safety (EHS)** log folder right in front of his glasses for him to inspect, pointing a steady finger at the bold printed header and table at the top of the sheet:
 
-**COMMONWEALTH POLYTECHNIC INSTITUTE — ENVIRONMENTAL Health & SAFETY (EHS)**
+**COMMONWEALTH POLYTECHNIC INSTITUTE — ENVIRONMENTAL HEALTH & SAFETY (EHS)**
 **SCHEDULED RESIDENTIAL FIRE DRILL LOG — FALL SEMESTER (DRILL 1 OF 2 — HEALTH & SAFETY WEEK)**
 
 "Look at the paper, Jordan—read the heading," Isabel said, her voice steady, warm, and unshakeable beneath the wail of the horn. "Nobody pulled the alarm to trick you or hurt you, and nobody is waiting outside for you. This is an official, scheduled university fire drill for Health and Safety Week. Environmental Health and Safety runs two of them in every dorm every single semester—one right now at the beginning of the semester, and one toward the end of the semester. That's all this is."
 
-Jordan stared at the printed university seal and the typed schedule table on her clipboard, his chest heaving with ragged, hitching sobs as the words registered through the fog of panic.
+Jordan stared at the printed university seal and the typed schedule table inside her EHS log folder, his chest heaving with ragged, hitching sobs as the words registered through the fog of panic.
 
 "All ten RAs in Bennett Hall—a guy and a girl on every single residential floor, Floors 2 through 6—are in these yellow vests sweeping the building right now," Isabel continued gently, keeping her eyes locked on his. "Henry is standing right at our second-floor Washington Street doors holding them open for us, and Kelsey is right outside on the sidewalk with the Environmental Health and Safety fire marshals and Housing staff timing the drill with a stopwatch. You are completely safe. Nobody is going to touch you, and nobody is taking you anywhere. We are going to roll out to the grass together for five minutes while Kelsey and the EHS officers sign our floor sheets, and then we are coming right back inside to your room. Okay?"
 
@@ -5039,7 +5041,7 @@ Madison sat with Aubrie on a low stone retaining wall under the trees, rubbing h
 
 A few minutes later, after the final upper-floor stairwells emptied and all ten RAs checked in with Kelsey and the EHS fire safety officers to confirm all six floors of the building were clear, the flashing white strobes inside Bennett Hall's windows clicked off, the horns fell silent, and **Kelsey Brennan** gave the official all-clear over the staff two-way radios.
 
-Before heading back to the doors, Isabel walked straight back over to Suite 214/216's spot under the oak trees, her clipboard tucked under her arm, and knelt down beside Jordan's wheelchair again so she didn't tower over him.
+Before heading back to the doors, Isabel walked straight back over to Suite 214/216's spot under the oak trees, her EHS log folder tucked under her arm, and knelt down beside Jordan's wheelchair again so she didn't tower over him.
 
 "Hey," Isabel said gently, her voice warm in the sudden quiet of the September night. "How are you holding up, Jordan? Are you okay?"
 
@@ -5051,7 +5053,7 @@ Right then and there, Jordan added **Isabel Dawson** to his list of **Safe Peopl
 
 He didn't reach for his backpack to pull out his laptop. Instead, with a shaky, hitching sniffle and a fresh tear rolling down his cheek, Jordan leaned forward in his wheelchair and stretched both trembling arms out toward her.
 
-Isabel's eyes softened with deep emotion. Setting her clipboard and two-way radio down on the grass beside her knee, she leaned in and wrapped her arms around Jordan's shoulders in a warm, steady, protective hug, holding him patiently while a few more quiet sobs shuddered through his frame and began to subside.
+Isabel's eyes softened with deep emotion. Setting her EHS log folder and two-way radio down on the grass beside her knee, she leaned in and wrapped her arms around Jordan's shoulders in a warm, steady, protective hug, holding him patiently while a few more quiet sobs shuddered through his frame and began to subside.
 
 "You're safe here, Jordan," Isabel murmured softly, rubbing his back gently until his breathing steadied a fraction before easing back with a warm smile. "Always. Anytime something feels scary or overwhelming in this building, Henry and I have your back."
 
@@ -5079,7 +5081,7 @@ As they rolled back through the ground-level Washington Street doors and down th
 
 **Date:** 2014-09-19 at 20:25 America/New_York
 
-Across the corridor in Room 215, **Isabel Dawson** clicked her door shut, peeled off her neon-yellow **CPI Residence Life** vest, and draped it over the back of her desk chair. Setting her two-way radio into its charging cradle beside her lamp, she sat down at her laptop with the metal **Environmental Health & Safety (EHS)** clipboard resting next to her keyboard.
+Across the corridor in Room 215, **Isabel Dawson** clicked her door shut, peeled off her neon-yellow **CPI Residence Life** vest from over her sweater, and draped it over the back of her desk chair. Setting her two-way radio into its charging cradle beside her lamp, she sat down at her laptop with the **Environmental Health & Safety (EHS)** log folder resting next to her keyboard.
 
 Her heart was still aching from the way Jordan's small, trembling arms had reached up to hug her out on the Washington Street lawn—and the way his chest had kept hitching with quiet, involuntary sniffles even as he proudly held up his mPhone to show her that 105% in Astrophysics.
 
@@ -5134,7 +5136,7 @@ Then she opened a second window—her encrypted **CPI Residence Life Staff Mail*
 >
 > What shook both me and his suitemates was that **it wasn't the noise of the alarm**. He wasn't covering his ears or reaching for his hearing aids at all. He was terrified of *leaving the locked room*. He was staring at the open doorway like someone was waiting outside to ambush him and take him away the second he crossed the threshold.
 >
-> On a hunch, I knelt down in front of his chair, pointed to my vest and two-way radio, and held up the EHS drill sheet so he could read the header and see that this was a scheduled university drill—with all ten Bennett Hall RAs across all five residential floors, you, the Housing Area Coordinator, and the EHS fire safety officers outside running the stopwatch. The second he read the paper and realized nobody had pulled the alarm to lure him out of his locked room, he let go of the desk and let Lauren wheel him out to Washington Street without another fight.
+> On a hunch, I knelt down in front of his chair, pointed to my vest and two-way radio, and held open the EHS log folder so he could inspect the header and see that this was a scheduled university drill—with all ten Bennett Hall RAs across all five residential floors, you, the Housing Area Coordinator, and the EHS fire safety officers outside running the stopwatch. The second he read the paper and realized nobody had pulled the alarm to lure him out of his locked room, he let go of the desk and let Lauren wheel him out to Washington Street without another fight.
 >
 > Outside on the grass after you called the all-clear, he was still trembling and sniffling hard from crying, and he actually reached out and hugged me for the first time since move-in—and then pulled out his phone to show me and Henry that he just scored a **105%** on Dr. Thorne’s first Astrophysics exam.
 >
