@@ -12040,13 +12040,15 @@ He looked around the empty room where the string lights had hung above the headb
 
 Out in the second-floor hallway, a polite knock sounded against the open oak door.
 
-**Kelsey Brennan**, **Isabel Dawson**, and **Garrett Reynolds** stood at the threshold wearing their official **CPI Housing & Residence Life** staff uniforms—two-tone Chicago Maroon athletic polo shirts with contrasting Burnt Orange and white side panels and white embroidered **CPI HOUSING & RESIDENCE LIFE** lettering over the left chest, tucked neatly into belted khaki pants—holding the official yellow **Room Condition Report (RCR)** clipboards and clearance envelopes.
+**Kelsey Brennan**, **Isabel Dawson**, and **Garrett Reynolds** stood at the threshold wearing their official **CPI Housing & Residence Life** staff uniforms—Kelsey in her full-time Professional Staff two-tone Chicago Maroon polo with Burnt Orange side panels, and Isabel and Garrett in their Student Staff Chicago Maroon polos with crisp white side panels and Burnt Orange shoulder trim, all tucked neatly into belted khaki pants—holding the official yellow **Room Condition Report (RCR)** clipboards and clearance envelopes.
 
 "Ready for the last checkout inspection in the history of the Old Lady?" Kelsey asked warmly, her eyes misty as she looked around the spotless, swept floors of Room 216 and Room 214. "Let me sign off Mark, Hannah, Sarah, and Jessica's rooms first, and then we'll take the final cart down to Daniel's trailer."
 
 ### Scene 2: A Very Long Hug in the Second-Floor Hallway
 
 **Date:** 2015-05-15 at 11:20 America/New_York
+
+![On Spring 2015 Move-Out Day at the doorway of stripped Room 214, Isabel Dawson stands in her official maroon-and-white CPI Residence Life Student Staff uniform holding Jordan's yellow Room Condition Report clipboard—blushing and biting back a tender, tear-bright smile as she hides her secret love for Jordan while still in uniform.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c011-s002-isabel-move-out-secret.jpg)
 
 Within five minutes, eight of the nine yellow **Room Condition Reports (RCRs)** were signed, stamped, and filed into their completed checkout folders, deactivating their Bennett Hall door-access permissions on the central **Poly Pass** server while leaving their university ID cards active for the rest of their college careers.
 
@@ -12090,7 +12092,7 @@ Her breath caught audibly in her throat, and a deep flush rose up her neck. She 
 
 For two heartbeats in the quiet corridor, Jordan saw it written clearly across her face: she was right on the edge of spilling the beans and telling him out loud that she was in love with him.
 
-Then Isabel glanced down at the white embroidered **CPI HOUSING & RESIDENCE LIFE — RESIDENT ADVISOR** lettering on the left chest of the two-tone maroon-and-orange athletic polo shirt she still had tucked into her belted khaki pants, looked around the cinderblock walls of Bennett Hall where she was still officially on duty until five o'clock, and remembered that in eight days Jordan was flying across the oceans to see the world.
+Then Isabel glanced down at the white embroidered **CPI HOUSING & RESIDENCE LIFE — RESIDENT ADVISOR** lettering on the left chest of the two-tone maroon-and-white Student Staff athletic polo shirt she still had tucked into her belted khaki pants, looked around the cinderblock walls of Bennett Hall where she was still officially on duty until five o'clock, and remembered that in eight days Jordan was flying across the oceans to see the world.
 
 She let out a shaky breath that sounded like nine months of tension finally softening, a tear slipping down her cheek as a radiant, unguarded smile broke through at the exact same time.
 
