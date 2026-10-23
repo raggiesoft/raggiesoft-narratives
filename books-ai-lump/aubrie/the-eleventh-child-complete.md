@@ -10525,6 +10525,8 @@ He wanted to find **Isabel**.
 
 **Date:** 2015-01-11 at 14:15 America/New_York
 
+![Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c001-s003-isabel-hugs-jordan.jpg)
+
 At two-fifteen, **Jordan** pressed the exterior handicap paddle beside the **first-floor inner quad entrance** of **Bennett Hall** and rolled across the threshold into the warm lower-level main lobby (Room 100), with **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** stepping in right behind him.
 
 Because the first floor of Bennett Hall was 100% administrative and business space—housing the 60-inch TV lounge, the **Bennett Hall Mail Room (Room 101)**, Residence Director **Kelsey Brennan**’s office and apartment (Suite 102 / Room 104), and the curved oak **1st-Floor Front Desk (Ext. 4-2100)**—Jordan had originally planned to just roll past the front desk, take the elevator up one floor to the second-floor West Wing, and knock on **Room 215** to see if **Isabel** was back from training.
@@ -10539,7 +10541,7 @@ Standing right behind the reception counter in her maroon **CPI Residence Life**
 
 At the sound of the lobby doors opening, Isabel looked up from her clipboard.
 
-The instant her hazel eyes landed on Jordan sitting upright and smiling in his wheelchair at the center of the lobby, her breath visibly caught in her throat.
+The instant her warm brown eyes behind her glasses landed on Jordan sitting upright and smiling in his wheelchair at the center of the lobby, her breath visibly caught in her throat.
 
 She didn't wait for him to roll up to the counter window. Setting her clipboard down on the oak desk so fast the pen rolled across the blotter, Isabel walked briskly around the end of the reception counter and crossed the lobby floor straight to him.
 
