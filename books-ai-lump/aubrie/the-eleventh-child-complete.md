@@ -4940,7 +4940,7 @@ He had scored a perfect **100%**, plus all five bonus points on Dr. Alistair's b
 
 For a young man who had spent eighteen years being told by his mother that his mind was broken and that going to college was a pointless fantasy, seeing **105 / 100** stamped across a university astrophysics gradebook felt like watching the sun rise for the first time.
 
-By a quarter to eight, the initial burst of cheering had settled into a warm, peaceful Friday night glow. Sitting at his desk in his fleece-lined Forgers hoodie, Jordan was happily reviewing his next chapter of astrophysics notes while basking in the quiet pride of his suitemates. Across Room 214, Aubrie Jean was curled up on the lower bunk reading under a soft fleece blanket, Madison was lounging on the top bunk scrolling through her mPhone, and Zoë, Hannah, and Lauren were chatting casually through the open connecting bathroom doorway in Room 216 as the digital clock on Jordan's desk ticked toward 8:00 PM.
+By a quarter to eight, the initial burst of cheering had settled into a warm, peaceful Friday night glow. Sitting at his desk in his fleece-lined Forgers hoodie, Jordan was happily reviewing his next chapter of astrophysics notes while basking in the quiet pride of his suitemates. Across Room 214, Aubrie Jean was curled up on the lower bunk in her reading glasses, reading under a soft fleece blanket, Madison was lounging on the top bunk scrolling through her mPhone, and Zoë, Hannah, and Lauren were chatting casually through the open connecting bathroom doorway in Room 216 as the digital clock on Jordan's desk ticked toward 8:00 PM.
 
 ### Scene 3: Fire Alarm in the Dormitory
 
@@ -5041,19 +5041,21 @@ Madison sat with Aubrie on a low stone retaining wall under the trees, rubbing h
 
 A few minutes later, after the final upper-floor stairwells emptied and all ten RAs checked in with Kelsey and the EHS fire safety officers to confirm all six floors of the building were clear, the flashing white strobes inside Bennett Hall's windows clicked off, the horns fell silent, and **Kelsey Brennan** gave the official all-clear over the staff two-way radios.
 
-Before heading back to the doors, Isabel walked straight back over to Suite 214/216's spot under the oak trees, her EHS log folder tucked under her arm, and knelt down beside Jordan's wheelchair again so she didn't tower over him.
+Before heading back to the doors, Isabel walked straight back over to Suite 214/216's spot on the Washington Street sidewalk bordering the oak-shaded lawn, her EHS log folder tucked under her arm, and crouched down beside Jordan's wheelchair again so she didn't tower over him.
 
 "Hey," Isabel said gently, her voice warm in the sudden quiet of the September night. "How are you holding up, Jordan? Are you okay?"
 
 Jordan looked down at his RA through watery lenses—his cheeks crusted with dried tear tracks, fresh tears still slipping slowly down his face as quiet, involuntary sniffles hitched in his chest. In his eighteen years, he had kept a very tiny, fiercely guarded mental list of people who would never hurt him, mock him, or use his helplessness against him: Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica.
 
-Now, looking at Isabel kneeling in the grass in her neon vest, something permanent clicked into place inside his chest. She hadn't laughed at him for screaming and clinging to his desk. She hadn't barked at him or treated him like a problem for holding up her floor sweep. In the middle of a building-wide alarm, she had knelt on the floor and given him the exact proof he needed to feel safe.
+Now, looking at Isabel crouching beside his wheelchair in her neon vest over her sweater and blue jeans, something permanent clicked into place inside his chest. She hadn't laughed at him for screaming and clinging to his desk. She hadn't barked at him or treated him like a problem for holding up her floor sweep. In the middle of a building-wide alarm, she had knelt on the floor and given him the exact proof he needed to feel safe.
 
 Right then and there, Jordan added **Isabel Dawson** to his list of **Safe People**.
 
-He didn't reach for his backpack to pull out his laptop. Instead, with a shaky, hitching sniffle and a fresh tear rolling down his cheek, Jordan leaned forward in his wheelchair and stretched both trembling arms out toward her.
+He didn't reach for his backpack to pull out his laptop. Instead, with a shaky, hitching sniffle and a fresh tear rolling down his cheek, Jordan leaned forward in his wheelchair and pulled Isabel into a hug.
 
-Isabel's eyes softened with deep emotion. Setting her EHS log folder and two-way radio down on the grass beside her knee, she leaned in and wrapped her arms around Jordan's shoulders in a warm, steady, protective hug, holding him patiently while a few more quiet sobs shuddered through his frame and began to subside.
+Isabel wasn't expecting it, and for a split second she froze—momentarily caught off guard as his trembling arms wrapped around her neck. Yet almost immediately, her wide eyes softened with deep, quiet understanding. She recognized the unspoken weight of a trauma survivor behind how terrified he had been of leaving that locked room, and she knew that this sudden embrace was Jordan's wordless way of telling her that he was adding her to his small circle of trusted people. Setting her EHS log folder and two-way radio down beside her knee, she wrapped her arms around Jordan's shoulders in a warm, steady, protective hug, holding him patiently while a few more quiet sobs shuddered through his frame and began to subside.
+
+![Outside Bennett Hall on the Washington Street sidewalk after the fire drill all-clear, Jordan leans forward from his manual wheelchair and pulls a momentarily surprised, deeply moved Isabel Dawson—crouching in her high-visibility vest over her sweater and blue jeans—into a grateful hug as he adds her to his circle of Safe People.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c012-s003-jordan-hugs-isabel-outside.jpg#fullwidth)
 
 "You're safe here, Jordan," Isabel murmured softly, rubbing his back gently until his breathing steadied a fraction before easing back with a warm smile. "Always. Anytime something feels scary or overwhelming in this building, Henry and I have your back."
 
