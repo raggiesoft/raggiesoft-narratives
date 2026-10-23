@@ -61,23 +61,24 @@
 ### C. Spring 2015 (`e003` — *"Operation Spring Schedule"*, `e001/c025/s004.md`)
 
 > **Core Spring 2015 Architecture:**
-> 1. **All 9 Members Together When Core Requirements Align (`HIST 115`, `ENGL 102`, `MATH 112`):**
->    - **`HIST 115: History of Ancient Rome`** (`Tu/Th 11:00 AM – 12:15 PM`, `Archer Hall`, taught by **Dr. Gable**): Satisfies the 3-credit Historical Inquiry requirement for the seven who didn't take `HIST 101` in Fall, and serves as a Humanities elective for Jordan and Sarah. Directly pays off Jordan's Fall Break 2014 discovery of ***"Civitas: A Story of Roman Planning and Engineering"*** by **Arthur MacAllister** at the downtown Blacksburg bookstore (`e001/c019/s003.md`). Followed immediately by the **Tu/Th `12:30 PM` Mega-Group Lunch at Kincaid Commons**.
->    - **`ENGL 102: First-Year Writing II`** (`MWF 11:00–11:50 AM`, `Carter Hall`, all 9 enrolled together; includes the Spring 2015 campus accessibility proposal group project).
->    - **`MATH 112: Calculus of a Single Variable II`** (`MWF 13:00–13:50 PM`, `Archer Hall`, all 9 enrolled together).
+> 1. **All 9 Members Together When Core Requirements Align (`HIST 115` & `MATH 112`):**
+>    - **`HIST 115: History of Ancient Rome`** (`Tu/Th 09:30–10:45 AM`, `Archer Hall`, taught by **Dr. Marcus Gable**): Satisfies the 3-credit Historical Inquiry requirement for the seven who didn't take `HIST 101` in Fall, and serves as a Humanities elective for Jordan and Sarah. Directly pays off Jordan's Fall Break 2014 discovery of ***"Civitas: A Story of Roman Planning and Engineering"*** by **Arthur MacAllister** at the campus/downtown bookstore (`e001/c019/s003.md`).
+>    - **`MATH 112: Calculus of a Single Variable II`** (`MWF 10:10–11:00 AM`, `Copernicus Hall`, taught by **Mr. Evans**; all 9 enrolled together, followed by lunch at `Kincaid Commons`).
 > 2. **Jordan & Aubrie Jean Taking 100% of Their Classes Together (`15 Credits Identical`):**
->    - Beyond `HIST 115`, `ENGL 102`, and `MATH 112`, Jordan and Aubrie Jean are registered in the exact same lecture and lab sections for all of their major and elective classes so Jordan never attends a single class or lab alone:
->      - **`PHYS 102: University Physics II — Electricity & Magnetism`** (`MWF 09:00–09:50 AM` Lecture + `Tu/Th 14:00–15:15 PM` Lab, `Copernicus Hall`)
->      - **`ASTR 204: Observational Astrophysics & Stellar Spectroscopy`** (`MWF 10:00–10:50 AM` Lecture + Lab, `Copernicus Hall`)
->      - **`GEOL 101: Planetary & Physical Geology`** (`Tu/Th 09:30–10:45 AM`, `Copernicus Hall`)
+>    - Beyond `HIST 115` and `MATH 112`, Jordan and Aubrie Jean are registered in the exact same lecture and lab sections for all of their major and elective classes so Jordan never attends a single class or lab alone:
+>      - **`PHYS 102: University Physics II — Electricity & Magnetism`** (`MWF 13:25–14:15 PM` Lecture + Lab, `Walton Hall`)
+>      - **`ASTR 204: Observational Astrophysics & Stellar Spectroscopy`** (`MWF 14:30–15:20 PM` Lecture + Monday Afternoon Observatory Lab, `Kepler Hall`, taught by **Dr. Alistair**)
+>      - **`GEOL 101: Planetary & Physical Geology`** (`Tu/Th 11:00 AM – 12:15 PM`, `Walton Hall`, taught by **Dr. Elena Petrova**)
 
 ---
 
-## 3. Sophomore Year Master Schedule (`2015–2016` — Post-World Trek & The All-Family Japanese Class)
+## 3. Sophomore Year Master Schedule (`2015–2016` — Post-World Trek, `JAPN 101`, `ENGL 102`, & The Accessibility Project)
 
 > **Key Sophomore Milestones (`Fall 2015` & `Spring 2016`):**
-> - Following the August 2015 Montgomery County Circuit Court victory (`e005`), Jordan is 100% legally independent, uses his **350-lb all-terrain motorized power chair** across campus, and has his **`Pinnacle Vanguard Pro`** (`Aura Glade` / `NeoEdit` with Japanese `IME`) and **`EchoType`**.
-> - **All 9 members of the found family** use their **Priority Course Registration** to enroll together in **`JAPN 101: Elementary Japanese I` (`Fall 2015`)** and **`JAPN 102: Elementary Japanese II` (`Spring 2016`)** on **Tuesdays & Thursdays (`11:00 AM – 12:15 PM`, plus a Friday `11:15 AM` recitation) in Carter Hall**, followed immediately by their **Tu/Th `12:30 PM` Mega-Group Lunch at Kincaid Commons**!
+> - Following the August 18, 2015 Montgomery County Circuit Court victory (`e005`), Jordan is 100% legally independent, uses his **350-lb all-terrain motorized power chair (`Vanguard Titan-X350` / *S.S. Freedom*)** across campus, and has his **`Pinnacle Vanguard Pro`** (`Aura Glade` / `NeoEdit` with Japanese `IME`) and **`EchoType`**.
+> - **All 9 members of the found family** use their **Priority Course Registration** to enroll together in two shared Sophomore blocks:
+>   1. **`JAPN 101: Elementary Japanese I` (`Fall 2015`)** and **`JAPN 102: Elementary Japanese II` (`Spring 2016`)** on **Tuesdays & Thursdays (`11:00 AM – 12:15 PM`, plus a Friday `11:15 AM` recitation) in Carter Hall**, followed immediately by their **Tu/Th `12:30 PM` Mega-Group Lunch at Kincaid Commons**!
+>   2. **`ENGL 102: Composition and Rhetoric II (Technical & Advocacy Proposal Writing)` (`Fall 2015`)** on **Mondays, Wednesdays, & Fridays (`11:15 AM – 12:05 PM`) in Walton Hall `Room 118` with Dr. Evans**—where all 9 collaborate on **`The Accessibility Project`** (*The Accessible Polytechnic*, `Track 1-13: "The Accessibility Project"` on *Book 2: System.Restore*, mapping curb ramps, automatic vs. push-button doors, accessible restrooms, and CPI's 24/7 **Hillside Elevator Pass-Throughs** like Bennett Hall). Crucially, after Jordan suffers his Fall 2015 heart attack (`Friday, 9:32 AM`) and undergoes open-heart CABG surgery and Cardiac Rehab, **his very first time returning to the CPI campus during his CABG recovery is when Daniel Brooks drives him to `ENGL 102` to help his found family deliver the Accessibility Project presentation**!
 
 ### A. Sophomore Year Shared Block (`Fall 2015: JAPN 101` / `Spring 2016: JAPN 102`)
 - **Course:** **`JAPN 101` (Fall 2015) & `JAPN 102` (Spring 2016) — *Elementary Japanese I & II***
