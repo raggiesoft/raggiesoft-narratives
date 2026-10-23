@@ -56,16 +56,18 @@ foreach ($dirs as $novelDir) {
     }
     $mdFile = $completeFiles[0];
 
-    // Establish output target directory, filenames, and build hash tracking
-    $outDir   = $outBaseDir . '/' . $slug;
-    $epubFile = $outDir . '/' . $slug . '.epub';
-    $pdfFile  = $outDir . '/' . $slug . '.pdf';
-    $hashFile = $outDir . '/.ebook_build_hash';
+    // Establish output target directory, filenames (Illustrated + Plain-Text Metered), and build hash tracking
+    $outDir       = $outBaseDir . '/' . $slug;
+    $epubFile     = $outDir . '/' . $slug . '.epub';
+    $pdfFile      = $outDir . '/' . $slug . '.pdf';
+    $textEpubFile = $outDir . '/' . $slug . '-text.epub';
+    $textPdfFile  = $outDir . '/' . $slug . '-text.pdf';
+    $hashFile     = $outDir . '/.ebook_build_hash';
 
     $currentHash = sha1_file($mdFile);
 
-    // Incremental build check: skip if both outputs exist and content is verified unchanged
-    if (!$forceRebuild && file_exists($epubFile) && file_exists($pdfFile)) {
+    // Incremental build check: skip if all 4 outputs exist and content is verified unchanged
+    if (!$forceRebuild && file_exists($epubFile) && file_exists($pdfFile) && file_exists($textEpubFile) && file_exists($textPdfFile)) {
         if (file_exists($hashFile)) {
             $savedHash = trim((string)@file_get_contents($hashFile));
             if ($savedHash === $currentHash) {
@@ -75,11 +77,13 @@ foreach ($dirs as $novelDir) {
         } else {
             // Backward compatibility for pre-existing builds without hash file:
             // Check mtime; if up-to-date, write hash file now so future runs are instant.
-            $srcMtime  = filemtime($mdFile);
-            $epubMtime = filemtime($epubFile);
-            $pdfMtime  = filemtime($pdfFile);
+            $srcMtime      = filemtime($mdFile);
+            $epubMtime     = filemtime($epubFile);
+            $pdfMtime      = filemtime($pdfFile);
+            $textEpubMtime = filemtime($textEpubFile);
+            $textPdfMtime  = filemtime($textPdfFile);
 
-            if ($epubMtime >= $srcMtime && $pdfMtime >= $srcMtime) {
+            if ($epubMtime >= $srcMtime && $pdfMtime >= $srcMtime && $textEpubMtime >= $srcMtime && $textPdfMtime >= $srcMtime) {
                 @file_put_contents($hashFile, $currentHash);
                 echo "Skipping $slug (up to date - timestamps verified). Use --force to rebuild.\n";
                 continue;
@@ -91,9 +95,9 @@ foreach ($dirs as $novelDir) {
     $content = file_get_contents($mdFile);
 
     // 1. Handle Images:
-    // Replace {{CDN}} placeholders with absolute local filesystem paths so Pandoc embeds them
+    // Replace {{CDN}} and {{cms}} placeholders with absolute local filesystem paths so Pandoc embeds them
     $localCdnPath = $workspaceRoot . '/raggiesoft-assets';
-    $content = str_replace('{{CDN}}', $localCdnPath, $content);
+    $content = str_replace(['{{CDN}}', '{{cms}}'], $localCdnPath, $content);
 
     // Strip trailing URL hashes (e.g., #fullwidth, #center) that break Pandoc's file resolver
     $content = preg_replace('/(\.(?:jpg|jpeg|png|gif|webp))#[^)]+/', '$1', $content);
@@ -114,17 +118,23 @@ foreach ($dirs as $novelDir) {
     // Fallback for <lang> tags without translation attribute
     $content = preg_replace('/<lang[^>]*>(.*?)<\/lang>/is', '*$1*', $content);
 
-    // 3. Write preprocessed Markdown to an intermediate staging file
+    // 3. Write preprocessed Markdown (Illustrated Edition) to an intermediate staging file
     $tmpMd = $novelDir . '/' . $slug . '-pandoc.md';
     file_put_contents($tmpMd, $content);
+
+    // Also prepare the Plain-Text Edition (No Images — For Metered Connections) by stripping all Markdown images
+    $textContent = preg_replace('/!\[[^\]]*\]\([^)]+\)\s*/', '', $content);
+    $textContent = preg_replace("/\n{3,}/", "\n\n", $textContent);
+    $tmpTextMd   = $novelDir . '/' . $slug . '-pandoc-text.md';
+    file_put_contents($tmpTextMd, $textContent);
 
     // 4. Ensure the output target directory exists
     if (!is_dir($outDir)) {
         mkdir($outDir, 0755, true);
     }
 
-    // 5. Generate EPUB using Pandoc
-    echo "  Generating EPUB...\n";
+    // 5. Generate Illustrated EPUB using Pandoc
+    echo "  Generating Illustrated EPUB ({$slug}.epub)...\n";
     $epubCmd = sprintf(
         'pandoc %s -o %s --toc --toc-depth=3',
         escapeshellarg($tmpMd),
@@ -132,11 +142,11 @@ foreach ($dirs as $novelDir) {
     );
     exec($epubCmd, $output, $returnVar);
     if ($returnVar !== 0) {
-        fwrite(STDERR, "  [Error] EPUB generation failed for {$slug}\n");
+        fwrite(STDERR, "  [Error] Illustrated EPUB generation failed for {$slug}\n");
     }
 
-    // 6. Generate PDF using Pandoc (with weasyprint engine fallback)
-    echo "  Generating PDF...\n";
+    // 6. Generate Illustrated PDF using Pandoc (with weasyprint engine fallback)
+    echo "  Generating Illustrated PDF ({$slug}.pdf)...\n";
     $pdfCmd = sprintf(
         'pandoc %s -o %s --toc --toc-depth=3 --pdf-engine=weasyprint 2>/dev/null || pandoc %s -o %s --toc --toc-depth=3',
         escapeshellarg($tmpMd),
@@ -146,16 +156,45 @@ foreach ($dirs as $novelDir) {
     );
     exec($pdfCmd, $output, $returnVar);
     if ($returnVar !== 0) {
-        fwrite(STDERR, "  [Warning] PDF generation failed for {$slug}. Ensure wkhtmltopdf or pdflatex is installed.\n");
+        fwrite(STDERR, "  [Warning] Illustrated PDF generation failed for {$slug}. Ensure wkhtmltopdf or pdflatex is installed.\n");
     }
 
-    // 7. Cleanup intermediate staging file
+    // 7. Generate Plain-Text EPUB (No Images — For Metered Connections)
+    echo "  Generating Plain-Text EPUB ({$slug}-text.epub)...\n";
+    $textEpubCmd = sprintf(
+        'pandoc %s -o %s --toc --toc-depth=3',
+        escapeshellarg($tmpTextMd),
+        escapeshellarg($textEpubFile)
+    );
+    exec($textEpubCmd, $output, $returnVar);
+    if ($returnVar !== 0) {
+        fwrite(STDERR, "  [Error] Plain-Text EPUB generation failed for {$slug}\n");
+    }
+
+    // 8. Generate Plain-Text PDF (No Images — For Metered Connections)
+    echo "  Generating Plain-Text PDF ({$slug}-text.pdf)...\n";
+    $textPdfCmd = sprintf(
+        'pandoc %s -o %s --toc --toc-depth=3 --pdf-engine=weasyprint 2>/dev/null || pandoc %s -o %s --toc --toc-depth=3',
+        escapeshellarg($tmpTextMd),
+        escapeshellarg($textPdfFile),
+        escapeshellarg($tmpTextMd),
+        escapeshellarg($textPdfFile)
+    );
+    exec($textPdfCmd, $output, $returnVar);
+    if ($returnVar !== 0) {
+        fwrite(STDERR, "  [Warning] Plain-Text PDF generation failed for {$slug}.\n");
+    }
+
+    // 9. Cleanup intermediate staging files
     if (file_exists($tmpMd)) {
         unlink($tmpMd);
     }
+    if (file_exists($tmpTextMd)) {
+        unlink($tmpTextMd);
+    }
 
-    // 8. Record the build hash upon successful completion
-    if (file_exists($epubFile) && file_exists($pdfFile)) {
+    // 10. Record the build hash upon successful completion of all 4 deliverables
+    if (file_exists($epubFile) && file_exists($pdfFile) && file_exists($textEpubFile) && file_exists($textPdfFile)) {
         file_put_contents($hashFile, $currentHash);
     }
     echo "  Done.\n";

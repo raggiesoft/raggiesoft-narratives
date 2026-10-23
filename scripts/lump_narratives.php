@@ -149,6 +149,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $date = '';
                 $time = '';
                 $timezone = '';
+                $sceneImage = '';
+                $sceneImageAlt = '';
                 
                 if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
                     $frontmatter = $matches[1];
@@ -157,6 +159,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                     if (preg_match('/^time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1]);
                     if (empty($time) && preg_match('/^start_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1]);
                     if (preg_match('/^timezone:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $timezone = trim($m[1]);
+                    if (preg_match('/^image:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $sceneImage = trim($m[1], "\"' \t");
+                    if (preg_match('/^image_alt:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $sceneImageAlt = trim($m[1], "\"' \t");
                 }
                 
                 $sceneTitleDisplay = $title ? "Scene {$sceneNum}: {$title}" : "Scene {$sceneNum}";
@@ -174,6 +178,21 @@ foreach ($narrativeDirs as $narrativeDir) {
                         $datetimeStr .= " " . $timezone;
                     }
                     $masterContent .= $datetimeStr . "\n\n";
+                }
+                
+                // Inject YAML frontmatter `image:` as a chapter/scene header plate for the Illustrated EPUB/PDF
+                if ($sceneImage !== '') {
+                    $normalizedSceneImg = str_replace('{{cms}}', '{{CDN}}', $sceneImage);
+                    $normalizedSceneImg = preg_replace('/#.*$/', '', $normalizedSceneImg);
+                    if (strpos($normalizedSceneImg, '{{CDN}}') !== 0 && strpos($normalizedSceneImg, 'http') !== 0) {
+                        $cleanRel = ltrim($normalizedSceneImg, '/');
+                        if (strpos($cleanRel, 'raggiesoft-books/') !== 0 && strpos($cleanRel, 'engine-room-records/') !== 0) {
+                            $cleanRel = 'raggiesoft-books/images/scenes/' . $cleanRel;
+                        }
+                        $normalizedSceneImg = '{{CDN}}/' . $cleanRel;
+                    }
+                    $altDisplay = $sceneImageAlt !== '' ? $sceneImageAlt : $sceneTitleDisplay;
+                    $masterContent .= "![{$altDisplay}]({$normalizedSceneImg})\n\n";
                 }
                 
                 // Regex to strip the individual YAML Frontmatter block
