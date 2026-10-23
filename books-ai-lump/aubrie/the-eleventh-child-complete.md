@@ -556,6 +556,8 @@ This was it. College.
 
 **Date:** 2014-08-22 at 13:00 America/New_York
 
+![Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c003-s003-isabel-greets-aubrey.jpg)
+
 Outside the single window, the heavy gray clouds that had hung low over Blacksburg all morning had bruised to a deep, threatening charcoal. Before he ventured out to explore the campus and before the sky opened up, he decided to set up his most important tool first: his laptop. He wheeled himself over to his desk, placed the heavy machine on it, and opened the lid. The battery icon blinked red, and a moment later, the screen went completely black. Dead.
 
 He sighed, a silent puff of air, and squinted around the room for an outlet. He spotted one on the cinderblock wall, but its standard height from the floor was just awkwardly out of comfortable reach from his wheelchair.
