@@ -52,7 +52,7 @@ The **Christiansburg Transit Center** is located at Falling Branch in Christians
 | :--- | :--- | :--- |
 | **Blue Ridge Transit (`BRT`)** | **`1 CPI`** | Frequent 15-minute local service to **CPI** via **Business 460** (`Roanoke St → Pepper Plaza TC → N. Franklin St → New River Valley Mall → S. Main St → CPI`) |
 | **Blue Ridge Transit (`BRT`)** | **`4 Woodland Dr`** | Christiansburg local service (interlined with `Route 1`) via **Roanoke Street / US-11**, deviating onto **Simmons Road NE** to serve the **CPI Christiansburg Campus ("the Law School")** before continuing to **Motor Mile** and **Woodland Drive** |
-| **Blue Ridge Transit (`BRT`)** + **CPI Fleet Services** | **`1X Express`** (`Crucible` / `Furnace Shuttle`) | Special-event express to **The Crucible** or **The Furnace** via the **`BUSES ONLY` US-460 Bypass ramps** and **Southgate Drive** bus-priority corridor (**100% Zero-Fare / `LOAD AND GO` — No PolyPass, no cash, no tickets, no transfers**) |
+| **Blue Ridge Transit (`BRT`)** + **CPI Fleet Services** | **`1X Express`** (`Crucible` / `Furnace Shuttle`) | Special-event express to **The Crucible** or **The Furnace** via the **`BUSES ONLY` US-460 Bypass ramps** and **Southgate Drive** bus-priority corridor (**100% Zero-Fare / `LOAD AND GO` — No Poly Pass, no cash, no tickets, no transfers**) |
 | **Bluewater Transit (`BT` — "The Other BT")** | **`Maroon Express`** | Regional 45-foot over-the-road express linking **Bluewater, VA** (fictional town on **I-77** on the Appalachian Plateau where real-world Hillsville sits), `Exit 14 P&R`, `Max Meadows Exit 84`, `Dublin Exit 98`, **Falling Branch / Christiansburg Transit Center**, **New River Valley Mall**, and **CPI** via `I-77 → I-81 → US-460 Bypass` |
 | **Roanoke Valley Transit (`RVT`)** | **`Roanoke Express`** *(+ `2017+` `ARTS Train Connector`)* | In-universe analogue of Roanoke's *Valley Metro* operating a modified *Smart Way* regional 45-foot coach corridor linking **Roanoke** (**`Campbell Court`** in earlier eras $\rightarrow$ **`3rd Street Station`** in later eras), **Falling Branch / Christiansburg Transit Center**, **New River Valley Mall**, and **CPI** via `I-81` and the `US-460 Bypass` |
 
@@ -242,7 +242,7 @@ During ordinary service days, the **Christiansburg Transit Center** is one of th
   * **Standard `30-Minute` Headway vs. CPI Student Housing Overflow `15-Minute` Subsidy (`Fall 2014` & `Fall 2019`) + `CPI Fleet Services`:**
     * **Standard Operations (`Every 30 Minutes`):** Because a single round trip takes 12 minutes (+ 3 min layover = 15 minutes), **Route 4** normally runs **every 30 minutes** across its entire span of service by interlining with **every other `Route 1` arrival** at **Christiansburg Transit Center** (`:00` and `:30`), requiring just **1 extra 60-foot articulated bus** in the `Route 1 / Route 4` rotation.
     * **CPI Student Housing Overflow Crisis Mode (`Every 15 Minutes` — Interlined with *Every Single* `Route 1` Trip in `Fall 2014` & `Fall 2019`):** Whenever CPI overbooks its freshman dorms and overflows students into the **Exit 118C Hotels**—during both the **Fall 2014 Dorm Overbooking Crisis** (*The Aubrie Chronicles*) and the **Fall 2019 Freshman Over-Enrollment Crisis** (mirroring the real-life Fall 2019 Virginia Tech housing crunch when ~800 excess freshmen were housed in the Exit 118C Holiday Inn / hotel cluster)—**CPI Housing & Residence Life** legally subsidizes Blue Ridge Transit (`49 CFR § 604.3(c)`) to add **one more 60-foot articulated bus** so **Route 4 runs every 15 minutes, interlining with every single `Route 1` trip (`:00`, `:15`, `:30`, `:45`)**! Overflow freshmen get an open-door, one-seat 60-foot articulated bus ride from Roanoke Street right in front of their hotel through Christiansburg Transit Center all the way to CPI every 15 minutes.
-    * **`CPI Fleet Services` (Non-FTA University Vehicle Division):** Alongside the 15-minute public transit spine, CPI's internal **CPI Fleet Services** division (100% university auxiliary-funded with **zero FTA grant money**, and therefore **100% exempt from the FTA Charter Service Rule**) operates Maroon-and-Forge-Gold `RLFD30` shuttles and ADA cutaway minibuses (`Access-CPI`, `SafeRide`, and departmental trips) that can legally pull directly under the private porte-cochères of the **Exit 118C Hotels** to run closed-door (`CPI PolyPass Only`) non-stop express hops up the **US-460 Bypass** during Move-In and peak class rushes.
+    * **`CPI Fleet Services` (Non-FTA University Vehicle Division):** Alongside the 15-minute public transit spine, CPI's internal **CPI Fleet Services** division (100% university auxiliary-funded with **zero FTA grant money**, and therefore **100% exempt from the FTA Charter Service Rule**) operates Maroon-and-Forge-Gold `RLFD30` shuttles and ADA cutaway minibuses (`Access-CPI`, `SafeRide`, and departmental trips) that can legally pull directly under the private porte-cochères of the **Exit 118C Hotels** to run closed-door (`CPI Poly Pass Only`) non-stop express hops up the **US-460 Bypass** during Move-In and peak class rushes.
 * **Blue Ridge Transit Route 2 ("The Christiansburg Local" — `Pepper Plaza TC ↔ Wades Lane ↔ Aquatic Center ↔ Cambria Station ↔ New River Valley Mall TC`):**
   * While **Route 1** only deviates to **Cambria Station (`800 Depot Street NE`)** for scheduled **ARTS** trains, **Route 2** provides **all-day, 7-day-a-week local neighborhood service** (`Mon–Fri 6 AM–10 PM`, `Sat 7 AM–10 PM`, `Sun 8 AM–8 PM`, every 30 min daytime / 60 min evenings & Sundays) connecting **Pepper Plaza Transit Center** $\rightarrow$ `W. Main St` $\rightarrow$ `Radford St` $\rightarrow$ `Clearview Dr` $\rightarrow$ `Wades Ln` (serving the two **`Stardust Blacksburg, LLC` / *Ironwood Collective*** apartment complexes: **Ironwood at Wades Lane North & South**) $\rightarrow$ `N. Franklin St` $\rightarrow$ `Mill Ln NE` (**Blue Ridge Regional Aquatic Center**) $\rightarrow$ `Depot St NE` (**Cambria Station at `800 Depot St NE`**) $\rightarrow$ across the tracks and `N. Franklin St` on `Cambria St NW` $\rightarrow$ `Gibbons Dr` $\rightarrow$ `Berkshire Dr` (crossing over `Windsor Dr`) $\rightarrow$ `Windsor Dr` $\rightarrow$ `Majestic Dr` $\rightarrow$ `Peppers Ferry Rd` $\rightarrow$ **New River Valley Mall Transit Center**, where local riders transfer to **Route 1**, **RVT *Roanoke Express***, or **Bluewater *Maroon Express*** to reach **Christiansburg Transit Center** or **CPI**.
 * **Roanoke Valley Transit (`RVT` — In-Universe *Valley Metro*) & Bluewater Transit (`BT` — "The Other BT"):**
@@ -251,8 +251,8 @@ During ordinary service days, the **Christiansburg Transit Center** is one of th
     * **Chronological Evolution of the Downtown Roanoke Terminus:** In earlier chronological narratives, the *Roanoke Express* terminates in downtown Roanoke at **`Campbell Court`**; in later chronological narratives, its downtown Roanoke terminus transitions to **`Third Street Station` (`3rd Street Station`)**, mirroring real-world Roanoke transit infrastructure evolution.
   * **Bluewater Transit (`BT`) — *The Maroon Express*:**
     * Connects **Bluewater, Virginia** (fictional seat of Bluewater County on **I-77** on the Appalachian Plateau where real-world Hillsville sits) via `I-77 → I-81 → Falling Branch / Christiansburg Transit Center → US-460 Bypass → New River Valley Mall → CPI`.
-  * **Regional Fare Agreement (`Valid CPI PolyPass = $0.00`) & Operator Independence:**
-    * While **Blue Ridge Transit**, **Roanoke Valley Transit**, and **Bluewater Transit** remain completely independent transit agencies (each with its own fleet, livery, drivers, operating rules, local routes, and public fares), CPI has negotiated a **regional university mobility agreement**: **presenting/tapping a valid `CPI PolyPass` makes the passenger fare `$0.00` across all participating services**—including **Blue Ridge Transit** (`Route 1`, `Route 2`, `Route 3`, `Route 4`, `Route 8`), **Roanoke Valley Transit's *Roanoke Express***, and **Bluewater Transit's *Maroon Express*** over-the-road highway coaches!
+  * **Regional Fare Agreement (`Valid CPI Poly Pass = $0.00`) & Operator Independence:**
+    * While **Blue Ridge Transit**, **Roanoke Valley Transit**, and **Bluewater Transit** remain completely independent transit agencies (each with its own fleet, livery, drivers, operating rules, local routes, and public fares), CPI has negotiated a **regional university mobility agreement**: **presenting/tapping a valid `CPI Poly Pass` makes the passenger fare `$0.00` across all participating services**—including **Blue Ridge Transit** (`Route 1`, `Route 2`, `Route 3`, `Route 4`, `Route 8`), **Roanoke Valley Transit's *Roanoke Express***, and **Bluewater Transit's *Maroon Express*** over-the-road highway coaches!
 * Normal fixed-route operation is operationally distinct from CPI football game-day / arena **Route `1X` (`Crucible` / `Furnace Shuttle`)** operation.
 
 ---
@@ -268,23 +268,23 @@ On CPI home football Saturdays at **The Crucible** (and major basketball/convoca
 
 ---
 
-## 8. Two Different Forms of "Free": `PolyPass` Regional Fare Agreement vs. `Route 1X` Zero-Fare (`LOAD AND GO`)
+## 8. Two Different Forms of "Free": `Poly Pass` Regional Fare Agreement vs. `Route 1X` Zero-Fare (`LOAD AND GO`)
 
-Canon strictly distinguishes between **PolyPass-funded `$0.00` travel** on ordinary local/regional routes and **`Route 1X` Zero-Fare event service**:
+Canon strictly distinguishes between **Poly Pass-funded `$0.00` travel** on ordinary local/regional routes and **`Route 1X` Zero-Fare event service**:
 
-1. **Ordinary Local & Regional Services (`PolyPass` Regional Fare Agreement = `$0.00` with Valid `CPI PolyPass`):**
+1. **Ordinary Local & Regional Services (`Poly Pass` Regional Fare Agreement = `$0.00` with Valid `CPI Poly Pass`):**
    * Applies to **Blue Ridge Transit** (`Route 1`, `Route 2`, `Route 3`, `Route 4`, `Route 8`), **Roanoke Valley Transit** (*Roanoke Express*), and **Bluewater Transit** (*Maroon Express*).
-   * These routes have an ordinary fare structure for the general public, but presenting/tapping a valid **CPI PolyPass** makes the passenger fare **`$0.00`** under CPI's regional transit subsidy agreement (*"PolyPass?" $\rightarrow$ show/tap card $\rightarrow$ `$0.00` fare*).
+   * These routes have an ordinary fare structure for the general public, but presenting/tapping a valid **CPI Poly Pass** makes the passenger fare **`$0.00`** under CPI's regional transit subsidy agreement (*"Poly Pass?" $\rightarrow$ show/tap card $\rightarrow$ `$0.00` fare*).
 2. **Blue Ridge Transit `Route 1X` / `CPI Fleet Services` Event Shuttles (`Crucible Shuttle` & `Furnace Shuttle` = 100% Zero-Fare for EVERYBODY):**
-   * **`1X` is NOT part of the PolyPass fare arrangement—it is a pure zero-fare event service open to the entire public:**
+   * **`1X` is NOT part of the Poly Pass fare arrangement—it is a pure zero-fare event service open to the entire public:**
      * **VDOT Parking at Christiansburg Transit Center:** **`FREE ($0)`**
      * **`1X` Passenger Fare:** **`$0.00`**
-     * **`CPI PolyPass`:** **NOT required**
+     * **`CPI Poly Pass`:** **NOT required**
      * **Cash:** **NOT accepted**
      * **Tickets:** **None**
      * **Transfers:** **None** *(this bus is not providing a local trip with transfer slips; it exists solely to move thousands of fans between Falling Branch and the stadium/arena)*
      * **Proof of CPI Affiliation:** **None** (General public welcome aboard, whether boarding a Blue Ridge Transit bus or a CPI Fleet Services bus)
-     * **Boarding Procedure:** **`LOAD AND GO`** (*"Do I need my PolyPass?" "No. Get on."*)
+     * **Boarding Procedure:** **`LOAD AND GO`** (*"Do I need my Poly Pass?" "No. Get on."*)
 
 ---
 
@@ -509,7 +509,7 @@ Headsign: 4 CBURG TRANS CTR / via ROANOKE ST
 Do **not** turn this infrastructure into heavy-handed exposition or translate local shorthand for characters who already live in the New River Valley:
 * *"We're parked at Falling Branch."*
 * *"Garage is full."*
-* *"Take the Crucible Shuttle."* / *"Do I need my PolyPass for the 1X?" "No. Get on."*
+* *"Take the Crucible Shuttle."* / *"Do I need my Poly Pass for the 1X?" "No. Get on."*
 * *"We're taking the bus. I'm not paying a hundred bucks to park at CPI."*
 * *"If you don't get to Falling Branch early, you're not getting a space."*
 * *"Where's your class tonight?" "At the Law School."*
@@ -1328,7 +1328,7 @@ and
 GO FORGERS!
 No farebox interaction.
 
-No PolyPass.
+No Poly Pass.
 
 No tickets.
 
@@ -1439,14 +1439,14 @@ Exactly. That clarification makes Roanoke Valley Transit (RVT) much cleaner in t
 Roanoke Valley Transit is your in-universe analogue of real-world Valley Metro, and the Roanoke Express is your reimagined equivalent of the Smart Way corridor (`CPI → US-460 Bypass → New River Valley Mall → Christiansburg Transit Center ["Falling Branch"] → I-81 → Roanoke [Campbell Court in earlier era / 3rd Street Station in later era]`).
 
 You said:
-All services I’ve described so far: use your CPI PolyPass for fare free travel. Including the over the road coaches of Roanoke Valley Transit and Bluewater Transit
+All services I’ve described so far: use your CPI Poly Pass for fare free travel. Including the over the road coaches of Roanoke Valley Transit and Bluewater Transit
 
 Copilot said:
-Ah, yes. That makes PolyPass much more significant than a local BRT student pass. It is effectively CPI's university-wide mobility credential: present a valid CPI PolyPass and the passenger fare is `$0` on every CPI-participating service (`Blue Ridge Transit`, `Roanoke Valley Transit`'s *Roanoke Express*, and `Bluewater Transit`'s *Maroon Express*), while the three operators remain independent transit agencies.
+Ah, yes. That makes Poly Pass much more significant than a local BRT student pass. It is effectively CPI's university-wide mobility credential: present a valid CPI Poly Pass and the passenger fare is `$0` on every CPI-participating service (`Blue Ridge Transit`, `Roanoke Valley Transit`'s *Roanoke Express*, and `Bluewater Transit`'s *Maroon Express*), while the three operators remain independent transit agencies.
 
 You said:
-The 1X is fare free. No PolyPass. No cash. No transfers. Load and go.
+The 1X is fare free. No Poly Pass. No cash. No transfers. Load and go.
 
 Copilot said:
-Exactly. `1X` is not part of the PolyPass fare arrangement at all. It is simply a zero-fare event service open to everybody (`Fare: $0`, `PolyPass: not required`, `Cash: not accepted`, `Tickets: none`, `Transfers: none`, `Proof of CPI affiliation: none`, `General public: yes`, `Boarding procedure: LOAD AND GO`).
+Exactly. `1X` is not part of the Poly Pass fare arrangement at all. It is simply a zero-fare event service open to everybody (`Fare: $0`, `Poly Pass: not required`, `Cash: not accepted`, `Tickets: none`, `Transfers: none`, `Proof of CPI affiliation: none`, `General public: yes`, `Boarding procedure: LOAD AND GO`).
 

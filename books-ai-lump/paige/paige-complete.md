@@ -2910,7 +2910,7 @@ They approached the South End Zone entrance. The stadium loomed over them, a mas
 
 Paige grabbed Freddie’s left hand. Her grip was a vice, a physical reminder of her promise on the bench. Jessica grabbed his right.
 
-They moved as a chain. Jessica pulled her **CPI ID** (PolyPass) out of her pocket. At the turnstile, she scanned it three times—*Beep. Beep. Beep.*—holding the gate for her siblings.
+They moved as a chain. Jessica pulled her **CPI ID** (Poly Pass) out of her pocket. At the turnstile, she scanned it three times—*Beep. Beep. Beep.*—holding the gate for her siblings.
 
 They burst into the concourse.
 
@@ -4504,11 +4504,11 @@ Freddie sat at the island, staring at the milk swirling in his glass. His throat
 
 Freddie looked up. He tilted his head. *Problem?*
 
-"Mobility," Jessica said, sliding a printout across the island. "The buses are free for students, but only if you have an active **PolyPass**. Your IDs do not activate until the Fall Semester starts in August. That leaves us stranded for two months unless we pay cash fares every single time. And I am not driving you to **Valu-Mart** for every soda run."
+"Mobility," Jessica said, sliding a printout across the island. "The buses are free for students, but only if you have an active **Poly Pass**. Your IDs do not activate until the Fall Semester starts in August. That leaves us stranded for two months unless we pay cash fares every single time. And I am not driving you to **Valu-Mart** for every soda run."
 
 Paige groaned into her cereal. "I am not walking to the mall in July heat."
 
-"Agreed," Jessica said. "However..." She tapped the paper. "If you are enrolled in a **Summer Session** course, your PolyPass is active immediately upon tuition payment."
+"Agreed," Jessica said. "However..." She tapped the paper. "If you are enrolled in a **Summer Session** course, your Poly Pass is active immediately upon tuition payment."
 
 Freddie reached for the paper. His hand shook slightly, but he pulled it closer. *Session 1: Closed.* *Session 3: Closed.* *Session 2: July 7 – August 15.*
 
@@ -4540,7 +4540,7 @@ Freddie took a deep breath. "The... logic... is... sound."
 
 Jessica let out a breath she had been holding. "Okay. Good. I will handle the registration online. But we need materials."
 
-She checked her watch. "The Campus Bookstore is open today for the summer intake. If we go now, we can buy the textbooks, pick up our PolyPasses, and drop off your disability paperwork at the Dean of Students' office."
+She checked her watch. "The Campus Bookstore is open today for the summer intake. If we go now, we can buy the textbooks, pick up our Poly Passes, and drop off your disability paperwork at the Dean of Students' office."
 
 "Paperwork?" Freddie whispered, his voice gaining a little more traction.
 
@@ -4595,7 +4595,7 @@ The receipt printed with a rhythmic *zzzt-zzzt-zzzt*. Jessica handed a bag to Fr
 
 Freddie looked into the plastic bag. The heavy book sat there, a dense brick of information. It wasn't a dirty magazine. It wasn't a secret whispered in a locker room. It was a textbook. It had an ISBN number. It had an index. For the first time since the shower incident, the knot of shame in Freddie’s stomach loosened just a fraction more. It was just a subject. And he was a good student.
 
-"We have the manual," Freddie whispered, clutching the bag against his chest. "Now," Jessica said, turning toward the exit. "Let's go get your PolyPasses. I want to see you swipe onto a bus before we go home."
+"We have the manual," Freddie whispered, clutching the bag against his chest. "Now," Jessica said, turning toward the exit. "Let's go get your Poly Passes. I want to see you swipe onto a bus before we go home."
 
 
 The ID Office was tucked into a corner of the Student Union, smelling of warm plastic and lamination chemicals. Since it was summer orientation season, the line was short—mostly transfer students and a few confused freshmen who had lost their cards during the first week of Session 1.
@@ -4612,7 +4612,7 @@ They moved to the waiting area. Behind the counter, a specialized printer began 
 
 Five minutes later, the operator handed three warm plastic cards across the counter. "Don't punch a hole in them," she recited the standard warning. "It breaks the antenna coil. If you lose it, it is ten dollars to replace."
 
-Freddie took his card. It was still warm from the printer. It was sleek. The background was a deep Maroon with Orange accents. **CPI POLYPASS**. His name was printed in raised, black thermal lettering: **FREDDIE AVERY**. His photo was to the right—he looked serious, alert, and present.
+Freddie took his card. It was still warm from the printer. It was sleek. The background was a deep Maroon with Orange accents. **CPI POLY PASS**. His name was printed in raised, black thermal lettering: **FREDDIE AVERY**. His photo was to the right—he looked serious, alert, and present.
 
 He ran his thumb over the raised letters of his name. It was tactile proof of his existence in the system. He flipped it over. A thick black magnetic stripe ran across the top. A barcode sat at the bottom. "Access granted," he whispered. He looked at Jessica. "This works on the bus?" "Swipe and ride," Jessica confirmed, sliding her own card into her wallet. "Starting right now. It is your key to the city. It opens the library, it gets you into the gym—if you ever wanted to go there—and it pays the fare."
 
@@ -4682,13 +4682,13 @@ Paige shifted into 4th gear. "Sign me up. If I am going to be sleeping next to F
 
 Freddie looked out the window as they turned onto Pepper Street. The bus to Riner. The textbook on human sexuality. The shot. It was all maintenance. It was all keeping the machine running smoothly so they could just... live.
 
-"Systems normalizing," Freddie whispered. He touched the PolyPass in his pocket. The summer was just beginning, and they were already ahead of schedule.
+"Systems normalizing," Freddie whispered. He touched the Poly Pass in his pocket. The summer was just beginning, and they were already ahead of schedule.
 
 ### Scene 4: The Schematic
 
 The silver Avalon crunched into the gravel driveway of **105 Pepper Street**. The house was quiet, the air conditioner humming its steady, protective rhythm.
 
-They unloaded the cargo. Jessica carried the bag from the Bursar’s office (receipts and paperwork). Paige carried the PolyPasses. Freddie carried the books.
+They unloaded the cargo. Jessica carried the bag from the Bursar’s office (receipts and paperwork). Paige carried the Poly Passes. Freddie carried the books.
 
 He walked straight to the living room and sat on the beige carpet, using the coffee table as a desk. He pulled the heavy, glossy textbook out of the bag. **Title:** *Human Sexuality: Biological and Psychosocial Perspectives*. **Weight:** 4.2 lbs. **Status:** The Manual.
 
@@ -4940,7 +4940,7 @@ The bus pulled into the sawtooth bay right on time. It was smaller than the mass
 
 8 RINER
 
-They boarded, swiping their newly minted **PolyPasses**. The bus was mostly empty, save for a few locals heading out to the farms.
+They boarded, swiping their newly minted **Poly Passes**. The bus was mostly empty, save for a few locals heading out to the farms.
 
 The ride was deceptively short but scenic. As soon as the bus left the commercial density of Christiansburg, the landscape opened up. They rolled down **SR-8**, passing rolling farmland, misty cow pastures, and scattered farmhouses. For twenty minutes, Freddie watched the telephone poles whip by, counting the intervals. It was a quiet, rhythmic transition from the "Iron City" to the country.
 
@@ -5378,7 +5378,7 @@ A white-and-maroon bus was already idling at the curb, its diesel engine rumblin
 
 "That’s us," Jessica said, her voice tired. "Let’s get out of here."
 
-They boarded. Freddie pulled his **PolyPass** from his pocket and held it up for the driver to see. The driver gave a quick nod of acknowledgment—a visual check, no beep, no machine. Just a flash of plastic to prove he belonged.
+They boarded. Freddie pulled his **Poly Pass** from his pocket and held it up for the driver to see. The driver gave a quick nod of acknowledgment—a visual check, no beep, no machine. Just a flash of plastic to prove he belonged.
 
 Jessica and Paige flashed their IDs behind him, and they moved to the back of the bus, finding a row of empty seats near the rear exit door.
 
@@ -5951,7 +5951,7 @@ They crossed the street, moving quickly to minimize exposure to the sun. By the 
 
 The bus hissed to a halt. The doors opened, releasing a blast of refrigerated air that felt like a blessing.
 
-"PolyPasses," Jessica reminded them.
+"Poly Passes," Jessica reminded them.
 
 They boarded. Freddie flashed his ID card at the operator. The driver nodded, too hot and tired to care about inspecting the expiration date.
 
@@ -6728,7 +6728,7 @@ Freddie held up the paper. "Validated."
 
 Jessica let out a long sigh of relief. "Okay. Let's get out of here."
 
-They walked out of the office building into the bright July sunshine. The heat was oppressive, but Freddie felt light. He folded the paper carefully and placed it in his pocket, right next to his PolyPass.
+They walked out of the office building into the bright July sunshine. The heat was oppressive, but Freddie felt light. He folded the paper carefully and placed it in his pocket, right next to his Poly Pass.
 
 He turned to Paige. She was smiling at him, wearing the same grey shirt, the same glasses.
 
@@ -6766,7 +6766,7 @@ The LED destination sign above the windshield glowed amber in the bright light: 
 
 They stood in the shelter of the sawtooth bay. As the bus hissed to a halt, the air brakes purged with a sharp *psshhh*—a sound Freddie associated with the start of a journey. The doors folded open.
 
-"Badges out," Jessica said, pulling her **PolyPass** from her purse.
+"Badges out," Jessica said, pulling her **Poly Pass** from her purse.
 
 She stepped up first. *Beep.* The card reader chirped a valid read. Paige followed. *Beep.* Freddie stepped up last. He pulled his card from his pocket—the warm plastic rectangle that identified him as **FREDDIE AVERY**. He tapped it against the target.
 
@@ -7817,7 +7817,7 @@ They entered the library, the automatic doors sliding open to release a blast of
 
 They bypassed the main stacks and headed for the group study rooms on the second floor. These were glass-walled aquariums of silence, perfect for isolation.
 
-Jessica swiped her **PolyPass** to unlock the door.
+Jessica swiped her **Poly Pass** to unlock the door.
 
 "Base established," Freddie whispered, stepping inside.
 
@@ -8100,7 +8100,7 @@ The white-and-maroon **Blue Ridge Transit** bus hissed as it kneeled to the curb
 
 "Boarding," Jessica commanded.
 
-They climbed the steps, flashing their **PolyPasses**. The chirp of the card reader was a familiar, comforting sound—the sound of authorized access in the middle of the street-side chaos.
+They climbed the steps, flashing their **Poly Passes**. The chirp of the card reader was a familiar, comforting sound—the sound of authorized access in the middle of the street-side chaos.
 
 They moved to the back. Freddie took the window seat. The bus pulled out, merging aggressively into the traffic on the Mall before turning onto Main Street.
 
@@ -8900,7 +8900,7 @@ They approached the counter. It was a standard quick-service setup—stainless s
 
 "Got it," Jessica said. She looked at Vanessa. "Do you have a meal plan?"
 
-"I do," Vanessa said, pulling a pristine **PolyPass** from her bag. "I'll get a garden salad and a water. I try to keep it light in the afternoon."
+"I do," Vanessa said, pulling a pristine **Poly Pass** from her bag. "I'll get a garden salad and a water. I try to keep it light in the afternoon."
 
 They swiped their cards. *Beep. Beep. Beep. Beep.*
 

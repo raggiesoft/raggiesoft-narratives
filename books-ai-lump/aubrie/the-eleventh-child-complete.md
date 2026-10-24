@@ -4461,7 +4461,7 @@ Standing beside Walter under the steel transit canopy were **Douglas Keaton**, C
 
 "Didn't CPI tell you last week that they were running their own direct hotel shuttles?" City Manager Keaton asked, frowning.
 
-"They are—using buses CPI owns plus motorcoaches they chartered from private operators," Walter replied. "And every single one of those direct hotel buses fills to the doors under the hotel porte-cochères in three minutes flat! The other eighty or ninety CPI freshmen who can't squeeze onto CPI's morning hotel bus—or who have an eight o'clock lab or a nine o'clock quiz that doesn't line up with CPI's charter schedule—walk right out to the city sidewalk on West Main Street and Tyler Avenue holding their shiny new **CPI PolyPasses**, because their orientation packet told them a PolyPass gets them free rides on Radford Transit and Blue Ridge Transit."
+"They are—using buses CPI owns plus motorcoaches they chartered from private operators," Walter replied. "And every single one of those direct hotel buses fills to the doors under the hotel porte-cochères in three minutes flat! The other eighty or ninety CPI freshmen who can't squeeze onto CPI's morning hotel bus—or who have an eight o'clock lab or a nine o'clock quiz that doesn't line up with CPI's charter schedule—walk right out to the city sidewalk on West Main Street and Tyler Avenue holding their shiny new **CPI Poly Passes**, because their orientation packet told them a Poly Pass gets them free rides on Radford Transit and Blue Ridge Transit."
 
 Right on cue, Walter's Vanguard radio squawked to life:
 
@@ -4469,7 +4469,7 @@ Right on cue, Walter's Vanguard radio squawked to life:
 
 Walter keyed his lapel mic. "Unit 104, this is Hendricks at McConnell. Go ahead, Darrell."
 
-<pa>Boss, I'm ten minutes into my inbound run from Jeffries Drive and I'm already at thirty-eight standees to the yellow line,</pa> the veteran driver's voice came back tight with frustration over the speaker. <pa>I pulled up to the West Main hotels at 7:31 and forty-five CPI freshmen in maroon hoodies rushed the front door with PolyPasses. I had to shut the door in seven kids' faces just to clear the stairwell. I've got the destination sign flipped to FULL BUS—I just had to pass up fourteen Radford University students at the Grove Avenue apartments and three seniors holding two quarters at Norwood Street. And with everybody wedged in the aisle with engineering tubes and backpacks, I'm running five minutes behind the 7:45 pulse.</pa>
+<pa>Boss, I'm ten minutes into my inbound run from Jeffries Drive and I'm already at thirty-eight standees to the yellow line,</pa> the veteran driver's voice came back tight with frustration over the speaker. <pa>I pulled up to the West Main hotels at 7:31 and forty-five CPI freshmen in maroon hoodies rushed the front door with Poly Passes. I had to shut the door in seven kids' faces just to clear the stairwell. I've got the destination sign flipped to FULL BUS—I just had to pass up fourteen Radford University students at the Grove Avenue apartments and three seniors holding two quarters at Norwood Street. And with everybody wedged in the aisle with engineering tubes and backpacks, I'm running five minutes behind the 7:45 pulse.</pa>
 
 Dr. Sterling's jaw tightened as a murmur of anger rippled through the Radford University students waiting at the McConnell shelter who overheard the radio call.
 
@@ -4507,7 +4507,7 @@ When Unit 101—the single **thirty-foot *Radford Connector* bus**—turned onto
 
 When the front door opened, thirty-eight riders crammed inside in less than two minutes until a freshman girl's backpack was pressed flat against the inside of the windshield glass. Beside the front bumper, another CPI freshman girl in a maroon lanyard burst into tears when the driver held up his palm across the doorway.
 
-"Please, I have an 8:50 General Chemistry lab check-in in Blacksburg!" she sobbed, holding up her blue CPI PolyPass. "If you miss first-week lab safety, the department drops you from the course! I've been trying to get out of the West Main hotel since Quarter to Seven!"
+"Please, I have an 8:50 General Chemistry lab check-in in Blacksburg!" she sobbed, holding up her blue CPI Poly Pass. "If you miss first-week lab safety, the department drops you from the course! I've been trying to get out of the West Main hotel since Quarter to Seven!"
 
 "I'm sorry, sweetheart, I physically cannot close the doors if one more person steps on this bus," the driver said gently before pulling the lever to fold the doors shut.
 
@@ -4531,7 +4531,7 @@ Upstairs inside the City Manager's conference room at **Radford City Hall**, **W
 
 At 11:45 AM EDT, the following formal administrative notice was transmitted via bonded municipal courier and high-priority electronic dispatch from Radford City Hall to **Preston Hall Administration** and the central **Office of Housing and Residence Life (Suite 115, Bennett Hall)** at Commonwealth Polytechnic Institute:
 
-> **OFFICIAL JOINT ADMINISTRATIVE COMPLAINT & NOTICE OF IMPENDING EMERGENCY POLYPASS CAPACITY RESTRICTION**<br>
+> **OFFICIAL JOINT ADMINISTRATIVE COMPLAINT & NOTICE OF IMPENDING EMERGENCY POLY PASS CAPACITY RESTRICTION**<br>
 > **Reference No.:** RT-COR-RU-2014-0908<br>
 > **Date:** Monday, September 8, 2014 — 11:45 EDT<br>
 > **To:** Office of the Vice President for Administration, Commonwealth Polytechnic Institute; Dr. Alan Mercer, Director, Office of Housing and Residence Life; Director of CPI Parking & Transportation / Fleet Services<br>
@@ -4542,7 +4542,7 @@ At 11:45 AM EDT, the following formal administrative notice was transmitted via 
 >
 > Please accept this letter as an **Official Joint Administrative Complaint** lodged by **Radford Transit**, the **City of Radford**, and **Radford University (RU)** regarding the severe, ongoing operational disruption caused by Commonwealth Polytechnic Institute's master-leasing of emergency freshman overflow hotel rooms along **West Main Street** and **Tyler Avenue** within the City of Radford for the Fall 2014 semester.
 >
-> While we recognize the regional partnership embodied in the New River Valley **PolyPass** reciprocity agreement, that agreement was negotiated to accommodate standard inter-campus commuter traffic—**not** to transform a small municipal transit agency into an unannounced, uncompensated freshman dormitory shuttle service for a major land-grant university:
+> While we recognize the regional partnership embodied in the New River Valley **Poly Pass** reciprocity agreement, that agreement was negotiated to accommodate standard inter-campus commuter traffic—**not** to transform a small municipal transit agency into an unannounced, uncompensated freshman dormitory shuttle service for a major land-grant university:
 >
 > 1. **Fleet Limitations (30-Foot Buses Only) & Collapse of Single-Bus Local Headways:**
 >    **Radford Transit** operates a fleet consisting exclusively of **29-foot and 30-foot low-floor city transit buses** (26 seated passengers / 38 maximum legal standee capacity). Because the City of Radford's compact geography allows a local bus to travel from **McConnell Transit Center** to its outer terminal in approximately fifteen minutes and return in fifteen minutes, our local city routes operate on **30-minute headways using a single bus per route**.
@@ -4558,7 +4558,7 @@ At 11:45 AM EDT, the following formal administrative notice was transmitted via 
 >    - **(a) Prioritize Immediate Post-Census Evacuation of Radford Overflow Hotels:** Apply 100% of CPI's Monday, September 8 post-census on-campus residence hall vacancies toward permanently relocating CPI freshmen out of the City of Radford hotels **first**, ahead of any administrative re-shuffling of existing on-campus dormitories; and
 >    - **(b) Deploy Dedicated High-Capacity Motorcoach Relief at Radford Hotels & McConnell Transit Center:** Until every CPI overflow resident has been vacated from the West Main Street and Tyler Avenue hotels, CPI Fleet Services and/or CPI's contracted private motorcoach operators must double direct porte-cochère pickup frequency at the Radford hotels during the 07:00 AM – 10:00 AM window and station a dedicated 40-foot or 45-foot relief coach at **McConnell Transit Center** to absorb :45 off-pulse CPI passenger accumulations.
 >
-> Please be advised that if a written remediation schedule confirming items **(a)** and **(b)** is not received by **5:00 PM on Thursday, September 11, 2014**, Radford Transit and the City of Radford will invoke **Section 9(b) (*Emergency System Capacity Preservation*)** of the Regional Mobility Compact to temporarily suspend CPI PolyPass boarding eligibility at West Main Street and Tyler Avenue hotel stops between 07:00 AM and 09:30 AM Monday through Friday so that Radford University students and Radford citizens are no longer denied access to their municipal transit system.
+> Please be advised that if a written remediation schedule confirming items **(a)** and **(b)** is not received by **5:00 PM on Thursday, September 11, 2014**, Radford Transit and the City of Radford will invoke **Section 9(b) (*Emergency System Capacity Preservation*)** of the Regional Mobility Compact to temporarily suspend CPI Poly Pass boarding eligibility at West Main Street and Tyler Avenue hotel stops between 07:00 AM and 09:30 AM Monday through Friday so that Radford University students and Radford citizens are no longer denied access to their municipal transit system.
 >
 > Respectfully submitted,
 >
@@ -4660,7 +4660,7 @@ David Thorne turned his laptop screen toward her, showing the campus-wide housin
 
 Dr. Mercer picked up the letterhead memo and gave a rueful shake of his head.
 
-"To top it off, right before lunch the Vice President for Administration walked down here with this **Official Joint Administrative Complaint (RT-COR-RU-2014-0908)** signed by **Walter Hendricks** at **Radford Transit**, Radford City Manager **Douglas Keaton**, and **Dr. Catherine Sterling** at **Radford University**," Dr. Mercer continued. "And frankly, I can't even blame them. Radford Transit only has thirty-foot buses in their entire fleet. They never expected to suddenly become an emergency freshman shuttle service for a major land-grant university like CPI, and after over a hundred of our hotel freshmen swarmed the 8:15 AM *Radford Connector* at McConnell Transit Center this morning and left actual Radford University students and staff stranded on the curb, Radford gave us until five o'clock Thursday afternoon to start clearing those hotels and put dedicated relief coaches at McConnell—or they're cutting off PolyPass boarding at the West Main and Tyler Avenue hotel stops."
+"To top it off, right before lunch the Vice President for Administration walked down here with this **Official Joint Administrative Complaint (RT-COR-RU-2014-0908)** signed by **Walter Hendricks** at **Radford Transit**, Radford City Manager **Douglas Keaton**, and **Dr. Catherine Sterling** at **Radford University**," Dr. Mercer continued. "And frankly, I can't even blame them. Radford Transit only has thirty-foot buses in their entire fleet. They never expected to suddenly become an emergency freshman shuttle service for a major land-grant university like CPI, and after over a hundred of our hotel freshmen swarmed the 8:15 AM *Radford Connector* at McConnell Transit Center this morning and left actual Radford University students and staff stranded on the curb, Radford gave us until five o'clock Thursday afternoon to start clearing those hotels and put dedicated relief coaches at McConnell—or they're cutting off Poly Pass boarding at the West Main and Tyler Avenue hotel stops."
 
 "Parking & Transportation already dispatched two contracted forty-five-foot motorcoaches down to McConnell Transit Center for the afternoon :45 off-pulse lineups to satisfy the first half of their demand," David explained. "And on the housing side, between twenty-two incoming freshmen who failed to show up for the first two weeks of classes and fourteen early withdrawals during add/drop week, we finally freed up thirty-six beds on campus at noon today—including one very strange ghost vacancy over in **Westgate Hall**. Apparently a freshman Business major on the lacrosse team, **Tom Lawson**, got cut from the team roster during the first week of classes and simply vanished off the face of the earth. His roommates say he hasn't slept in his bed since Tuesday of week one, and his professors flagged him as a total no-call, no-show across all five of his courses, though he never bothered to file a withdrawal form with the Registrar or move his clothes out of his closet."
 
@@ -4735,7 +4735,7 @@ Fifteen minutes later, **City Manager Douglas Keaton** and **Radford University*
 >    To evacuate the remaining sixty-eight (68) CPI freshmen from the Radford hotels as rapidly as possible without waiting for mid-semester attrition, the Office of the Vice President for Administration has authorized an emergency **Phase-Two Upperclassman Off-Campus Contract Buyout ($2,500 housing credit + $500 relocation stipend)** opening tomorrow morning, with a binding mandate that **every single bed freed on campus will be used to empty the Radford hotels to zero occupancy first** before any reductions are made to our Christiansburg hotel tier.
 >
 > 2. **Dedicated 15-Minute Porte-Cochère Motorcoach Loop at the Radford Hotels & Mandatory Student Directive (Keeping Radford's 30-Foot Local Routes Clear):**
->    To stop CPI hotel residents from walking out to the West Main Street and Tyler Avenue sidewalks and filling Radford Transit's single-bus 30-foot local routes (Unit 104 and Unit 107), **CPI Parking & Transportation** and our contracted private motorcoach carriers have reassigned **four 45-foot over-the-road motorcoaches (56 seated passengers each)** to operate a continuous **15-Minute Closed-Door (CPI PolyPass Only) Hotel Express Loop** picking up directly under the front porte-cochères of the West Main Street and Tyler Avenue hotels (06:30 AM – 10:30 AM inbound and 03:30 PM – 07:30 PM outbound, routing nonstop via US-11 / SR-114 Peppers Ferry Road / US-460 Bypass straight to CPI).
+>    To stop CPI hotel residents from walking out to the West Main Street and Tyler Avenue sidewalks and filling Radford Transit's single-bus 30-foot local routes (Unit 104 and Unit 107), **CPI Parking & Transportation** and our contracted private motorcoach carriers have reassigned **four 45-foot over-the-road motorcoaches (56 seated passengers each)** to operate a continuous **15-Minute Closed-Door (CPI Poly Pass Only) Hotel Express Loop** picking up directly under the front porte-cochères of the West Main Street and Tyler Avenue hotels (06:30 AM – 10:30 AM inbound and 03:30 PM – 07:30 PM outbound, routing nonstop via US-11 / SR-114 Peppers Ferry Road / US-460 Bypass straight to CPI).
 >    By 5:00 PM today, on-site CPI Housing coordinators are delivering a mandatory written directive to every remaining CPI student in the Radford hotels instructing them to use the **15-minute front-door motorcoaches** and **not** to board Radford Transit's 30-foot local city routes at the West Main Street or Tyler Avenue stops between 07:00 AM and 09:30 AM.
 >
 > 3. **Bridging the :45 Off-Pulse Gap at McConnell Transit Center (Effective Immediately at 3:45 PM Today):**
@@ -6285,11 +6285,11 @@ Outside on the brick sidewalk fronting **Washington Street SW**, Aubrie Sinclair
 
 Instead, she had run headfirst into the ironclad lockdown that **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh** had put in place after Homecoming Weekend.
 
-Every exterior entrance to **Eleanor Bennett Commonwealth Hall** was locked on strict PolyPass access control, and bolted at eye level beside every exterior door handle was Kelsey's laminated crimson-and-white security directive:
+Every exterior entrance to **Eleanor Bennett Commonwealth Hall** was locked on strict Poly Pass access control, and bolted at eye level beside every exterior door handle was Kelsey's laminated crimson-and-white security directive:
 
 **RESIDENCE LIFE SECURITY DIRECTIVE: DO NOT HOLD EXTERIOR OR CORRIDOR DOORS FOR ANY NON-RESIDENT, VISITOR, OR PARENT. ZERO TAILGATING PERMITTED.**
 
-When a sophomore in a CPI hoodie had pushed the heavy Washington Street door open from the inside on his way out for morning coffee two minutes earlier, Aubrie Sinclair had rushed forward with her sweetest, most helpless suburban-mother smile (*"Oh, thank you, dear, could you hold that for me? I'm just helping my son down the hall pack for the weekend"*). Instead of holding the door, the sophomore had glanced at the crimson security placard on the glass, looked right back at her, said politely, *"Sorry, ma'am—building lockdown rules, we're not allowed to let anyone in without a PolyPass,"* and pulled the heavy steel-and-glass door firmly shut behind him until the magnetic lock clicked in her face.
+When a sophomore in a CPI hoodie had pushed the heavy Washington Street door open from the inside on his way out for morning coffee two minutes earlier, Aubrie Sinclair had rushed forward with her sweetest, most helpless suburban-mother smile (*"Oh, thank you, dear, could you hold that for me? I'm just helping my son down the hall pack for the weekend"*). Instead of holding the door, the sophomore had glanced at the crimson security placard on the glass, looked right back at her, said politely, *"Sorry, ma'am—building lockdown rules, we're not allowed to let anyone in without a Poly Pass,"* and pulled the heavy steel-and-glass door firmly shut behind him until the magnetic lock clicked in her face.
 
 In Room 214, hearing the frustrated edge in his mother's voice over the speakerphone—and realizing that Kelsey, Henry, and Isabel's lockdown had stopped her cold on the sidewalk outside—Jordan’s hands trembled slightly over the keyboard, but he didn't hesitate. He typed a single sentence into EchoType and hit the execute key, letting the clear, female Australian voice of *Sydney* speak directly into the phone’s microphone:
 
@@ -12112,7 +12112,7 @@ He tapped his armrest tablet with a bright grin:
 
 <aac>I've got it today, Mark. Meet you guys back at the table in five.</aac>
 
-Guiding the *S.S. Freedom* with effortless precision through the bustling lunch crowd—using the twenty-one-inch mid-wheel turning radius to pivot cleanly around backpack-wearing students in the queue—Jordan rolled up to the counter by himself. When the student cashier looked down and smiled, Jordan triggered his order preset on his phone, flashed his **PolyPass** dining card at the accessible reader, hooked the warm takeout bag onto his armrest carry-loop, and navigated smoothly back to the corner table without a single spike in his pulse or a single tremor in his hands.
+Guiding the *S.S. Freedom* with effortless precision through the bustling lunch crowd—using the twenty-one-inch mid-wheel turning radius to pivot cleanly around backpack-wearing students in the queue—Jordan rolled up to the counter by himself. When the student cashier looked down and smiled, Jordan triggered his order preset on his phone, flashed his **Poly Pass** dining card at the accessible reader, hooked the warm takeout bag onto his armrest carry-loop, and navigated smoothly back to the corner table without a single spike in his pulse or a single tremor in his hands.
 
 When he pulled into his spot at the head of the table, all eight of his suitemates looked at him with quiet, beaming pride.
 
@@ -14409,7 +14409,7 @@ Zoë looked back down at Jordan and Aubrie, tapping a key on her **mPad** and tu
 
 "Second, there's **Aubrie's** processor. Aubrie, your system crashes when raw environmental sensory volume—bright fluorescent lights, screaming crowds, overlapping noise—spikes your input meters to `100`.
 
-"And third, there's **mine**." Zoë pointed to the glowing runtime console on her tablet. "Ever since I learned to read and code, my brain has literally processed every thought, every social interaction, every emotion, and every travel route as a live **`Quantum Sharp`** application writing to five concurrent system log streams—`ZOË.Systems.Logs`. My processor doesn't crash from loud noises alone; my processor spikes into the red when a system is **inefficient, illogical, unscripted, corrupt, or chaotic**. That's why corrupt bullies like Victoria Sterling or broken transit infrastructure make my CPU run hot, why writing **`Fin#`** and **`Z-SOX-302`** calms me down when I'm overwhelmed, and why Japan and Singapore feel like heaven to my nervous system—because these cities are coded the exact same way my brain is."
+"And third, there's **mine**." Zoë pointed to the glowing runtime console on her tablet. "Ever since I learned to read and code, my brain has literally processed every thought, every social interaction, every emotion, and every travel route as a live **`Quantum Sharp`** application writing to five concurrent system log streams—`ZOË.Systems.Logs`. My processor doesn't crash from loud noises alone; my processor spikes into the red when a system is **inefficient, illogical, unscripted, corrupt, or chaotic**. That's why corrupt bullies like Victoria Sterling or broken transit infrastructure make my CPU run hot, why writing deterministic **`Quantum Sharp`** code and auditing rules calms me down when I'm overwhelmed, and why Japan and Singapore feel like heaven to my nervous system—because these cities are coded the exact same way my brain is."
 
 Inside Zoë's mind—and mirrored right on her private runtime console—her five cognitive log streams recorded the exact moment her nineteen-year-old firewall opened to her found family:
 
@@ -15511,9 +15511,9 @@ Only this year, **Bennett Hall ("The Old Lady on the Hill")** sat behind a perim
 
 They were the veteran sophomore welcoming committee.
 
-At ten o'clock that morning, outside the upper hillside ground-level entrance of **New River Hall**—one of CPI's modern, Ironstone-clad residence halls built directly into the Blacksburg campus slope—Jordan sat in his matte-black ***S.S. Freedom*** (`Vanguard Titan-X350`) beside **Isabel**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Mark** as **Robert** and **Catherine Dawson** pulled their accessible family van up to the zero-step third-floor drop-off zone.
+At ten o'clock that morning, outside the upper hillside ground-level entrance of **New River Hall**—one of CPI's modern, Ironstone-clad residence halls built directly into the Blacksburg campus slope—Jordan sat in his matte-black ***S.S. Freedom*** (`Vanguard Titan-X350`) beside **Isabel**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Mark** as **Greg** and **Becca Dawson**, Uncle **Andy**, and **Gran Thornton** pulled their accessible family van up to the zero-step third-floor drop-off zone.
 
-When the side ramp deployed, eighteen-year-old **Elana Dawson** and her eighteen-year-old cousin **Stephen Dawson** rolled down onto the campus walkway in their ultralight rigid-frame manual wheelchairs (`TiLite Aero Z` and `Quickie 5R`), flanked by seven-year-old **Stella**—their twenty-eight-inch, eighty-five-pound silver-dapple American Miniature Horse—trotting proudly in her custom non-slip neoprene campus boots and burgundy-and-silver leather service harness.
+When the side ramp deployed, eighteen-year-old **Elana Grace Dawson** and her eighteen-year-old cousin **Stephen Dawson** rolled down onto the campus walkway in their matching basic power wheelchairs—Elana's equipped with her swing-arm **`mPad` AAC** and pneumatic sip-and-puff tube—flanked by seven-year-old **Stella**, their twenty-eight-inch, eighty-five-pound silver-dapple American Miniature Horse, trotting proudly in her custom non-slip neoprene campus boots and burgundy-and-silver leather service harness.
 
 "Look who's officially CPI Freshmen!" **Isabel** beamed, hugging her younger sister and cousin before glancing warmly at Jordan. "Welcome to **New River Hall**—and welcome to the flagship floor of CPI's brand-new **Opt-In Gender-Inclusive Housing Pilot Program**!"
 
@@ -15521,31 +15521,35 @@ When the side ramp deployed, eighteen-year-old **Elana Dawson** and her eighteen
 
 Because **New River Hall** was engineered into the steep Blacksburg hillside, **both the 1st Floor (on the lower campus quad side) and the 3rd Floor (on the upper street side) featured zero-step, ground-level exterior exits**, with all residential corridors (`Floors 1, 3, 4, & 5`) air-gapped behind **Poly Pass** RFID security doors.
 
-Before heading into the third-floor residential wing, Jordan and Isabel led the Dawson family one level down on the oversized building elevator to **Floor 2**, which housed **`Forge Market`**—CPI's in-house quick-service dining counter and campus corner market—alongside the administrative offices of **CPI Dining Services**.
+Before heading into the third-floor residential wing, Jordan and Isabel led the Dawson–Thornton family one level down on the oversized building elevator to **Floor 2**, which housed **`Forge Market`**—CPI's in-house quick-service dining counter and campus corner market—alongside the administrative offices of **CPI Dining Services**.
 
 "Because CPI is one of only two universities in the entire Commonwealth of Virginia that self-operates one hundred percent of its own campus dining in-house instead of outsourcing to a corporate contractor," Isabel explained proudly, guiding Elana and Stephen past the open reach-in refrigerated coolers inside **`Forge Market`**, "Ms. Higgins and the CPI Dining directors right down the hall added your exact clinical liquid-nutrition shakes and smooth puréed broths directly to `Forge Market`'s weekly distributor order. Look right there on the middle shelf."
 
-Elana's dark eyes lit up behind her glasses as she spotted rows of her exact clinical nutrition shakes chilled at easy wheelchair reach—available to anyone on campus and 100% covered tax-free by the declining-balance **`Forge Dollars`** loaded onto her freshman **Poly Pass**.
+Elana's dark eyes lit up behind her glasses, a bright, happy non-verbal vocalization bubbling from her throat as she spotted rows of her exact clinical nutrition shakes chilled at easy wheelchair reach—available to anyone on campus and 100% covered tax-free by the declining-balance **`Forge Dollars`** loaded onto her freshman **Poly Pass**.
 
 Upstairs on the third floor, **`Room 323`** was even better.
 
-Instead of a shared hallway bath, `Room 323` featured a **private, fully ADA-accessible en-suite bathroom** with a fold-down grab-bar transfer toilet (giving Elana and Stephen complete privacy and sterile space for her **MACE** routine and urinary drainage bag care), a roll-under sink, and a zero-threshold roll-in shower with dual handheld wands. Inside the bedroom, next to a raised medical mini-fridge and Stella's custom orthopedic service-horse mat, the two nineteen-inch wheelchair-height `Twin XL` bed frames had been mechanically clamped side-by-side with a memory-foam **Split-King Bed Bridge**—creating a seamless **`76" × 80"` Eastern King bed** with full wheelchair transfer clearance on both outer sides so Stephen could massage Elana's muscles whenever they locked up in the night without either of them having to wake up.
+Instead of a shared hallway bath, `Room 323` featured a **private, fully ADA-accessible en-suite bathroom** with a fold-down grab-bar transfer toilet (giving Elana and Stephen complete privacy and sterile space for her **MACE** routine and urinary drainage bag care), a roll-under sink, and a zero-threshold roll-in shower with dual handheld wands. Inside the bedroom, next to a raised medical mini-fridge and Stella's custom **`6' × 6'` orthopedic rubber-matted rest alcove**, the two nineteen-inch wheelchair-height `Twin XL` bed frames had been mechanically clamped side-by-side with a memory-foam **Split-King Bed Bridge**—creating a seamless **`76" × 80"` Eastern King bed** with full wheelchair transfer clearance on both outer sides so Stephen could massage Elana's muscles whenever they locked up in the night without either of them having to fully wake up.
 
-"Jordan... Izzy... this is incredible," Elana whispered, her voice thick with emotion as she looked around the sunlit room while Stella touched her velvet muzzle gently against Elana's knee. "We don't have to fight the building just to live here."
+<aac>Jordan. Izzy. This is incredible,</aac> Elana's synthesized `mPad` voice spoke through a pair of gentle sip-and-puff clicks as Stella touched her velvet muzzle against Elana's knee, and beside her, Stephen grinned warmly: "We don't have to fight the building just to live here."
 
 <aac>That's the rule at CPI now,</aac> Jordan typed with a quiet smile. <aac>The building adapts to the students—not the other way around.</aac>
 
 ---
 
-Once Elana, Stephen, and Stella were unpacked and settled in **New River Hall**, Isabel invited Jordan and the Constellation Pact to walk five minutes across the upper quad to see *her* new home for Senior Year: **`Allegheny Commons Apartments`**.
+Once Elana, Stephen, and Stella were unpacked and settled in **New River Hall**, Isabel invited Jordan, the Constellation Pact, and her family to walk five minutes across the upper quad to see *her* new home for her Junior/Senior RA rotation: **`Allegheny Commons Apartments`**.
 
 Rolling through the automatic glass doors into the bright, two-story glass-balcony atrium lobby of **Allegheny Commons**, Jordan paused beside the first-floor elevator to admire the polished bronze historical marker plaque mounted on the interior stone wall, commemorating the older historic campus building that had originally stood on the site.
 
 Right down the ground-floor corridor sat **`Apartment 101`**—the designated wheelchair-accessible Senior RA apartment.
 
-When Isabel tapped her **Poly Pass** against the reader and opened the door, **Madison** and **Lauren** let out low whistles of admiration. Unlike tiny `Room 215` in Bennett Hall, `Apartment 101` was a true one-bedroom apartment: a spacious living room with a sleeper sofa, a **full kitchen** with roll-under counter clearance, a **full-size refrigerator and freezer**, a **full-size dishwasher**, a full ADA roll-in bathroom, and a private bedroom with a **Full-size bed**.
+When Isabel tapped her **Poly Pass** against the reader and opened the left-side entry door into the wide vinyl-plank foyer, **Madison** and **Lauren** let out low whistles of admiration. Unlike tiny `Room 215` in Bennett Hall, `Apartment 101` was a true, open-concept one-bedroom accessible apartment:
+- Inside the entry foyer sat a coat closet on the left and a wide **ADA bathroom (`BATH`)** straight ahead on the left with a roll-under vanity sink, transfer toilet, and zero-threshold roll-in shower.
+- Tucked into the center of the hallway behind double bi-fold doors was an **expanded `LAUNDRY` closet** that CPI Facilities had widened to house **full-sized, commercial-capacity stacked front-loading washer and dryer units**—specifically so Isabel, Elana, and Stephen could wash **Stella's** heavy equine service-harness pads, saddle liners, and grooming blankets alongside Elana's medical linens right inside `Apartment 101` without ever clogging the regular student dormitory laundry machines (where residents tapped their **Poly Pass** to the card reader to spend **Laundry Credits**).
+- Along the bottom-left opened a full **U-shaped `KITCHEN`** with a four-burner range, full-size refrigerator and dishwasher, roll-under sink, and a **four-stool peninsula breakfast bar** opening into a bright **`12'4" × 14'10"` `LIVING` room** furnished with a sleeper sofa, two armchairs, coffee table, media console, and window HVAC unit.
+- Off the upper-right of the living room sat Isabel's private **`10'3" × 14'1"` `BEDROOM`**, complete with a **Full-size bed** flanked by two nightstands and a wall-spanning double bi-fold closet.
 
-"Wait a second," **Hannah** grinned as she inspected the extra cases of Elana's liquid nutrition already stacked neatly inside Isabel's full-size refrigerator. "With a Full-size bed in the bedroom, a sleeper sofa in the living room, and a zero-step entrance on the first floor... you've got an on-campus sanctuary for Elana, Stephen, and Stella whenever freshman hall noise gets too loud!"
+"Wait a second," **Hannah** grinned as she inspected the full-sized stacked washer and dryer in the expanded hallway closet and the extra cases of Elana's liquid nutrition already stacked neatly inside Isabel's refrigerator. "With a `10'3" × 14'1"` bedroom, a sleeper sofa in the `12'4" × 14'10"` living room, full-sized laundry machines that don't eat `Poly Pass` Laundry Credits, and a zero-step entrance on the first floor... you've got a complete on-campus sanctuary for Elana, Stephen, and Stella whenever freshman hall noise gets too loud!"
 
 "And," Isabel said softly, stepping over to Jordan's chair in the center of her new living room as a warm, rosy blush touched her cheeks, "since the nine of you are living off-campus on Geneva Street in Christiansburg this year... whenever you have a long gap between classes on campus, or whenever the weather gets rough, **`Apartment 101`** is your on-campus home base too, Jordan."
 
@@ -15553,7 +15557,7 @@ Jordan looked around the bright, barrier-free apartment and then up at Isabel, s
 
 <aac>From Room 214 and 215 to Geneva Street and Apartment 101. Sophomores and Seniors. We're ready for Monday.</aac>
 
-## The 5:45 AM Problem & The New Normal (6:00 AM)
+## The New Normal (6:00 AM) & The Birth of Fin#
 
 ### Scene 1: The 5:45 AM Problem
 
@@ -15594,52 +15598,52 @@ In the dead silence of `5:40 AM`, the warning buzzer (*BEEP—BEEP—BEEP*) and 
 
 At `5:45 AM` on the dot, the coach doors hissed shut. The *Maroon Express* pulled out of the Christiansburg Transit Center, merged onto the four-lane US-460 Bypass, and rocketed north toward Blacksburg at sixty-five miles per hour. With zero local stops along the highway, the thirty-minute express run flew by in a blur of dark mountain ridges and mist-covered valleys.
 
-At `6:15 AM`, the coach hissed to a halt at the **CPI Transit Center** on the edge of the Drillfield. The hydraulic lift buzzed and clanked once more, lowering Jordan down to the concrete sidewalk, and the *Maroon Express* roared away into the dark, its red taillights vanishing around the curve.
+At `6:15 AM`, the coach hissed to a halt along the curbside bus lineup on **Commonwealth Mall** beneath the limestone arch of **The Keystone Bridge**. The hydraulic lift buzzed and clanked once more, lowering Jordan down to the concrete sidewalk, and the *Maroon Express* roared away into the dark, its red taillights vanishing down the avenue.
 
-Silence fell over the transit plaza.
+Silence fell over Commonwealth Mall.
 
-The nine of them stood together on the concrete platform and looked around.
+The nine of them stood together on the concrete sidewalk and looked around.
 
-The sky overhead was still ink-black, with only the faintest bruise of indigo along the eastern ridge of the mountains. Not a single student was walking across the Drillfield. Every academic building was dark. And when Zoë walked up to the heavy glass doors of the **CPI University Library** just across the plaza and tugged on the steel handle, it didn't budge.
+The sky overhead was still ink-black, with only the faintest bruise of indigo along the eastern ridge of the mountains. Not a single student was walking along the Mall. Every academic building was dark. And when Zoë crossed the street to the nearest building—**Kincaid Hall**, home to **Kincaid Commons**—and tugged on the heavy glass entrance doors, they didn't budge.
 
-A brushed-aluminum placard bolted beside the card reader gleamed under the security lamp:
+A brushed-aluminum placard bolted beside the card reader gleamed under the exterior security lamp:
 
-> **CPI UNIVERSITY LIBRARY — FALL SEMESTER HOURS**
-> **Monday – Friday:Opens at 7:00 AM**
+> **KINCAID COMMONS — FALL SEMESTER HOURS**
+> **Monday – Friday: Opens at 7:00 AM**
 
 Mark stared at the sign, then looked down at his watch (`6:16 AM`), and then turned slowly toward his girlfriend's best friend.
 
-"Zoë," Mark said, his breath pluming white in the frigid mountain wind that swept across the open plaza. "Please tell me we did not just wake up at five o'clock in the morning and take the very first express bus out of Christiansburg... only to get to campus **forty-five minutes** before a single building unlocks."
+"Zoë," Mark said, his breath pluming white in the frigid mountain wind that swept down Commonwealth Mall. "Please tell me we did not just wake up at five o'clock in the morning and take the very first express bus out of Christiansburg... only to get to campus **forty-five minutes** before Kincaid Commons even unlocks its doors."
 
-### Scene 2: The 45-Minute Wait & The Transit Center
+### Scene 2: The 45-Minute Wait on Commonwealth Mall
 
-For a long moment outside the locked glass doors of the CPI University Library, the only sound was the whistle of the pre-dawn mountain wind cutting across the empty transit plaza.
+For a long moment outside the locked glass doors of **Kincaid Commons**, the only sound was the whistle of the pre-dawn mountain wind cutting down **Commonwealth Mall**.
 
 **Zoë** looked from the `Opens at 7:00 AM` placard down to the timetable on her tablet, her gray eyes narrowing slightly as she audited her own schedule.
 
 ```zoe-log
-ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Arrival_Timestamp: 06:15:22 EDT. Target_Facility(CPI_University_Library) Status == LOCKED until 07:00:00 EDT. Target_Facility(Newman_Dining_Commons) Status == LOCKED until 07:30:00 EDT. Unscheduled_Outdoor_Dwell_Time == 44m 38s. 08-24-2015 06:15:30
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Arrival_Timestamp: 06:15:22 EDT at Node(CPI.Commonwealth_Mall). Nearest_Facility(Kincaid_Commons) Status == LOCKED until 07:00:00 EDT. Unscheduled_Outdoor_Dwell_Time == 44m 38s. 08-24-2015 06:15:30
 ```
 
-"It's not ideal, but our arrival vector is secure," Zoë said, ever the pragmatist as she tucked her tablet under one arm. "We beat the standing-load rush by a full thirty minutes. Let's find shelter from the wind until the library unlocks at `7:00 AM`."
+"It's not ideal, but our arrival vector is secure," Zoë said, ever the pragmatist as she tucked her tablet under one arm. "We beat the standing-load rush by a full thirty minutes. Let's find shelter from the wind until Kincaid Commons unlocks at `7:00 AM`."
 
-She led them back under the covered masonry arcade of **Bay B** at the CPI Transit Center, which was shielded from the prevailing northwest breeze by thick Hokie-stone and brick walls on two sides. Even inside the shelter, the perforated steel benches were icy to the touch.
+Because the CPI Transit Center had not been built yet and buses simply lined up along the Commonwealth Mall curb, she led them across the street to the covered bus-stop alcove beneath the thick limestone arch of **The Keystone Bridge**, which shielded them from the prevailing northwest breeze on two sides. Even beneath the stone arch, the perforated steel benches were icy to the touch.
 
 They huddled together along the bench row, forming a tight, warm island against the mountain chill. **Mark** sat on the windward end with his arm wrapped around **Hannah**, sharing a pair of earbuds playing quiet acoustic guitar while she rested her head on his shoulder. On the other side, **Lauren**, **Sarah**, and **Jessica** leaned closely against one another with their hands tucked inside their sleeves, trying to catch a twenty-minute nap.
 
-**Jordan** parked *S.S. Freedom* right in the center of the shelter, flipping up both armrests so **Aubrie Jean** could sit on the bench pressed close against his right side and **Madison** could sit close on his left. Aubrie rested her cheek against Jordan's fleece-clad shoulder, lacing her fingers tightly through his right hand to keep it warm.
+**Jordan** parked *S.S. Freedom* right in the center of the sheltered alcove, flipping up both armrests so **Aubrie Jean** could sit on the bench pressed close against his right side and **Madison** could sit close on his left. Aubrie rested her cheek against Jordan's fleece-clad shoulder, lacing her fingers tightly through his right hand to keep it warm.
 
-He was tired, his fingers and nose were cold in the crisp fifty-two-degree mountain air, and a big part of him wished they were all still curled up under the heavy down comforter in the walk-out basement on Geneva Street. Yet as Jordan looked up and down the brick-walled bus bay at his people—all eight of them awake before dawn, shivering on a metal bench just so he would never have to navigate a commuter bus or a crowded lecture hall alone—a quiet, steady wave of rightness settled deep in his chest.
+He was tired, his fingers and nose were cold in the crisp fifty-two-degree mountain air, and a big part of him wished they were all still curled up under the heavy down comforter in the walk-out basement on Geneva Street. Yet as Jordan looked up and down the stone archway at his people—all eight of them awake before dawn, shivering on a metal bench just so he would never have to navigate a commuter bus or a crowded lecture hall alone—a quiet, steady wave of rightness settled deep in his chest.
 
 This early-morning commute was a hassle, yes. It was messy and cold and imperfect.
 
 *But it was their hassle.* It was the price of living together in a real home off campus, completely free from his mother's reach, and they were paying it together as a family.
 
-Jordan's gaze shifted a few feet down the bench, where Zoë was sitting slightly apart under the overhead lamp. Her analytical focus was absolute, her right hand flying across the screen of her tablet with a stylus as she sketched out the compiler syntax and memory-safety rules for her **`Fin#`** (`Financial Sharp`) programming language and her **`Z-SOX-302`** auditing engine.
+Jordan's gaze shifted a few feet down the bench, where Zoë was sitting slightly apart under the overhead bridge lamp. Her analytical focus was absolute, her right hand flying across the screen of her tablet with a stylus as she annotated her sophomore Industrial & Systems Engineering and Corporate Finance syllabus case studies.
 
 Watching her, a profound swell of gratitude washed over Jordan—so warm and overwhelming that it pushed back the pre-dawn chill.
 
-*Her family.* **Daniel** and **Laura Brooks** had opened their doors and turned their entire walk-out basement into his permanent home. They had stood beside him in the Montgomery County Courthouse until his mother's lawsuit was dismissed with prejudice. And Zoë herself—with her fiercely logical mind, her age-three autistic runtime logs that she had trusted him enough to share under the trees in Singapore, and her relentless devotion to keeping him safe—was the architect of his freedom.
+*Her family.* **Daniel** and **Laura Brooks** had opened their doors and turned their entire walk-out basement into his permanent home. They had stood beside him in the Montgomery County Courthouse until his mother's lawsuit was dismissed with prejudice. And Zoë herself—with her fiercely logical mind, her age-three autistic runtime logs that she had trusted him enough to share on the sky terrace in Singapore, and her relentless devotion to keeping him safe—was the architect of his freedom.
 
 He needed to be connected to her right now, too.
 
@@ -15650,54 +15654,52 @@ Zoë looked up from her tablet. Instantly, the sharp, analytical tension around 
 ```zoe-log
 ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Tactile input detected on left forearm from Thread 3 (Jordan). Hypothesis: Thread 3 (Jordan) is requesting dual-anchor physical connection to express gratitude for Node(Brooks_Sanctuary) and reinforce Pact stability during environmental cold exposure. 08-24-2015 06:32:10
 ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — Scanning Agents(Aubrie, Madison, Lauren, Sarah, Jessica): Facial_Expression == Warm_Approval; Jealousy_Signal == 0.00. Axiom_Check(Pact == True && Jealousy == False) verified in public commuter environment. Physical.Response(Self) == Heart_Rate.Increase(Positive), Warmth_Index == Optimal. 08-24-2015 06:32:18
-ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Decision: Allocate Left_Hand to Thread 3 (Jordan) for continuous tactile grounding while maintaining Right_Hand execution on Fin#_Compiler_Architecture. 08-24-2015 06:32:22
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Decision: Allocate Left_Hand to Thread 3 (Jordan) for continuous tactile grounding while maintaining Right_Hand execution on coursework annotations. 08-24-2015 06:32:22
 ```
 
 She didn't hesitate for a single millisecond. Zoë slid six inches closer on the metal bench, took Jordan's left hand in her own, and laced her fingers firmly and securely through his.
 
-Then, without missing a beat, she kept her left hand warmly anchored in Jordan's lap and resumed architecting her `Fin#` compiler on her tablet one-handed with her right—as if holding the hand of the boy she loved while designing a deterministic financial programming language at `6:32 AM` in a bus shelter were the most logical, natural thing in the universe.
+Then, without missing a beat, she kept her left hand warmly anchored in Jordan's lap and resumed annotating her engineering and finance notes on her tablet one-handed with her right—as if holding the hand of the boy she loved at `6:32 AM` beneath a campus bridge were the most logical, natural thing in the universe.
 
 Jordan glanced over at the other women of the Pact. Madison, Lauren, Sarah, and Jessica were watching them with soft, glowing smiles, and Aubrie Jean gave his right hand an affectionate squeeze against her cheek. There were no whispers, no tension, and not a trace of jealousy.
 
 <aac>Thank you for building our life, Zoë,</aac> Jordan tapped softly on his ProSlate with his thumb before resting his hand back in hers.
 
-Zoë looked up from her code and gave him a rare, crooked, utterly genuine smile.
+Zoë looked up from her screen and gave him a rare, crooked, utterly genuine smile.
 
 "You are the central node of the system, Jordan," Zoë said softly. "Keeping you safe is the primary directive."
 
 ### Scene 3: A Flaw in the System: The New Normal (6:00 AM)
 
-Precisely at `7:00 AM`, the heavy magnetic locks on the glass entrance doors of the **CPI University Library** released with an audible *click*, signaling the official start of the campus day.
+Precisely at `7:00 AM`, across the street from **Commonwealth Mall**, the heavy magnetic locks on the glass entrance doors of **Kincaid Hall** and **Kincaid Commons** released with an audible *click*, signaling the official start of the campus day.
 
-Stiff and chilled to the bone from their forty-five-minute wait in the bus bay, the nine of them stood up, stretched their cramped legs, and rolled inside the warm, brightly lit first-floor lobby as fast as the automatic doors would swing open.
+Stiff and chilled to the bone from their forty-five-minute wait beneath **The Keystone Bridge**, the nine of them stood up, stretched their cramped legs, crossed the street, and rolled inside the warm, brightly lit foyer of Kincaid Commons as fast as the automatic doors would swing open.
 
 "Okay, I don't know about the rest of you, but after two cups of Laura's coffee at five in the morning, I definitely need a restroom," **Mark** announced, rubbing his hands together to get the circulation back into his fingers.
 
 **Jordan** nodded immediately. Without their ground-floor suite in Eleanor Bennett Hall, managing restroom stops across campus was one of the new logistical hurdles of commuter life—and one his family had already solved without a second thought.
 
-"I've got you, man," Mark said easily, gesturing toward the first-floor corridor. He accompanied Jordan into the men's restroom and assisted him with his transfer inside the wide ADA stall with the same quiet, brotherly trust they had established from their very first week together.
+"I've got you, man," Mark said easily, gesturing toward the ground-floor corridor. He accompanied Jordan into the men's restroom and assisted him with his transfer inside the wide ADA stall with the same quiet, brotherly trust they had established from their very first week together.
 
-When they all regrouped in the lobby ten minutes later, the consensus was unanimous: they were starving, and **Newman Dining Commons** opened its doors at `7:30 AM`.
+When they all regrouped in the foyer a few minutes later, the aroma of fresh coffee, sizzling bacon, and buttermilk pancakes drifting from the serving lines upstairs was irresistible.
 
 "A hot breakfast is the logical next step to restore core body temperature," **Zoë** affirmed.
 
-"We've got flank escort up the hill," **Lauren** said, stepping alongside **Hannah** as they walked beside *S.S. Freedom* up the paved campus incline toward the dining hall, keeping a steady hand ready in case the cold morning dew made the brick pavers slick.
-
-Ten minutes later, they were seated around a long oak booth inside Newman Dining Commons, thawing out over steaming plates of scrambled eggs, bacon, blueberry pancakes, and bowls of hot oatmeal while [*"The New Normal (6:00 AM)"* by **The Paper Wall**](https://music.raggiesoft.com/artists/the-paper-wall/2003-eleventh-child-book-2?track=1-01-the-new-normal-6-00-am) pulsed through the rhythm of their morning recalculation.
+Riding the Kincaid Hall elevator up to the main dining room, they claimed a long oak booth near the back windows—their old familiar Freshman Year breakfast spot—and thawed out over steaming plates of scrambled eggs, bacon, blueberry pancakes, and bowls of hot oatmeal while [*"The New Normal (6:00 AM)"* by **The Paper Wall**](https://music.raggiesoft.com/artists/the-paper-wall/2003-eleventh-child-book-2?track=1-01-the-new-normal-6-00-am) pulsed through the rhythm of their morning recalculation.
 
 "I am never going to get used to that five o'clock alarm," Mark grumbled good-naturedly around a forkful of scrambled eggs.
 
-"It's genuinely inhuman," **Madison** agreed, wrapping both hands around a large mug of hot coffee. "I get why you picked it, Zoë, truly, but... ouch. And we still have an hour and fifteen minutes to kill before `SOC 101`."
+"It's genuinely inhuman," **Madison** agreed, wrapping both hands around a large mug of hot coffee. "I get why you picked it, Zoë, truly, but... ouch. And we still have an hour and a half to kill before `SOC 101`."
 
 "It was the only mathematical solution to guarantee zero-contention wheelchair capacity on the express coach," Zoë stated matter-of-factly as she stirred cinnamon into her oatmeal. "The `6:45 AM` and `7:15 AM` departures out of Christiansburg would have been at standing load."
 
-"It was fine for one morning in August," **Hannah** said quietly, setting her fork down on her plate. Her protective big-sister instincts were completely overriding her exhaustion. "But Zoë, I'm really worried about the long term. It's late August and it was fifty-two degrees and windy out there this morning. What are we going to do when it's November and pouring freezing rain? Or January and snowing sideways?"
+"It was fine for one morning in August," **Hannah** said quietly, setting her fork down on her plate. Her protective big-sister instincts were completely overriding her exhaustion. "But Zoë, I'm really worried about the long term. It's late August and it was fifty-two degrees and windy out there on Commonwealth Mall this morning. What are we going to do when it's November and pouring freezing rain? Or January and snowing sideways?"
 
 The entire booth went quiet.
 
-Hannah turned and looked directly at Jordan, her warm brown eyes filled with deep, sisterly concern, before looking back across the table at Zoë.
+Hannah turned and looked directly at Jordan, her warm hazel eyes filled with deep, sisterly concern, before looking back across the table at Zoë.
 
-"We can't have Jordan sitting outside a locked library for forty-five minutes in the freezing cold, Zoë," Hannah said gently but firmly. "Not when he is still medically vulnerable."
+"We can't have Jordan sitting outside a locked building for forty-five minutes in the freezing cold, Zoë," Hannah said gently but firmly. "Not when he is still medically vulnerable."
 
 Zoë's spoon stopped halfway to her mouth.
 
@@ -15706,7 +15708,7 @@ Zoë's spoon stopped halfway to her mouth.
 Everyone at the table knew that Jordan was still in the middle of his multi-year "catch-up" immunization schedule at CPI Student Health to undo eighteen years of his mother's anti-vaccine medical neglect. Even a routine winter respiratory virus could hit him ten times harder than a typical sophomore, and forty-five minutes of daily hypothermia-inducing wind exposure before dawn was an open invitation to pneumonia.
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 5 (Hannah) — Exception raised against Fall_2015_Commuter_Protocol_v1.0: Unscheduled_Outdoor_Dwell_Time(45m) in sub-optimal thermal conditions poses an unacceptable health hazard to Thread 3 (Jordan) during active Catch_Up_Immunization_Schedule. 08-24-2015 07:42:15
+ZOË.Systems.Logs.KernelLog: Thread 5 (Hannah) — Exception raised against Fall_2015_Commuter_Protocol_v1.0: Unscheduled_Outdoor_Dwell_Time(45m) at Node(CPI.Commonwealth_Mall) in sub-optimal thermal conditions poses an unacceptable health hazard to Thread 3 (Jordan) during active Catch_Up_Immunization_Schedule. 08-24-2015 07:42:15
 ZOË.Systems.Logs.InternalStateLog: Thread 1 (Self) — Analysis: Thread 5 (Hannah) is 100% correct. My initial optimization function weighted Bus_Capacity_Margin(1.0) while assigning Environmental_Exposure_Risk(0.0). That was a critical engineering oversight. Protecting Thread 3 (Jordan) physiological stability must always take precedence over transit velocity. 08-24-2015 07:42:22
 ```
 
@@ -15718,18 +15720,18 @@ Jordan looked across the table at Hannah and tapped his heart gratefully before 
 
 "Okay, so the `5:45 AM` express coach is officially retired," **Aubrie Jean** said, lacing her fingers through Jordan's hand under the table. "And honestly, not having to use that loud hydraulic luggage-bay lift in the dark is a huge bonus too. What's the next option on the schedule, Zoë?"
 
-Zoë opened the regional transit timetable database on her screen, cross-referencing **Bluewater Transit** and **Blue Ridge Transit (`BRT`)** departure matrices against the `7:00 AM` CPI Library opening time.
+Zoë opened the regional transit timetable database on her screen, cross-referencing **Bluewater Transit** and **Blue Ridge Transit (`BRT`)** departure matrices against the `7:00 AM` Kincaid Commons opening time.
 
-"The library unlocks at `7:00 AM`, and the commuter standing-load surge begins at `6:45 AM`," Zoë said, her finger tracing the columns of data. "Because those two timestamps do not overlap, zero wait time is a mathematical impossibility. However, we can reduce our outdoor exposure to a minimal, controlled window."
+"Kincaid Commons unlocks at `7:00 AM`, and the commuter standing-load surge begins at `6:45 AM`," Zoë said, her finger tracing the columns of data. "Because those two timestamps do not overlap, zero wait time is a mathematical impossibility. However, we can reduce our outdoor exposure to a minimal, controlled window."
 
 She tapped the second row on the screen and turned the tablet so the whole booth could see it.
 
 ```zoe-log
-ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Evaluating Candidate_Vector: Blue_Ridge_Transit.Route_1_Local("The Spine", Departure: 06:00:00_EDT, Christiansburg_Transit_Center). Route_Path: Business_US_460 -> Pepper_Plaza -> Strickland_Farm_Shopping_Center -> New_River_Valley_Mall -> CPI_Transit_Center. Arrival_Timestamp: 06:45:00_EDT. 08-24-2015 07:44:05
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Switching from 05:45 AM Maroon Express (30m highway ride + 45m outdoor wait) to 06:00 AM BRT Route 1 Local (45m local low-floor ride + 15m outdoor wait) yields a 66.7% reduction in environmental cold exposure and eliminates high-floor hydraulic lift boarding. 08-24-2015 07:44:18
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Evaluating Candidate_Vector: Blue_Ridge_Transit.Route_1_Local("The Spine", Departure: 06:00:00_EDT, Christiansburg_Transit_Center). Route_Path: Business_US_460 -> Pepper_Plaza -> Strickland_Farm_Shopping_Center -> New_River_Valley_Mall -> Node(CPI.Commonwealth_Mall). Arrival_Timestamp: 06:45:00_EDT. 08-24-2015 07:44:05
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Switching from 05:45 AM Maroon Express (30m highway ride + 45m outdoor wait) to 06:00 AM BRT Route 1 Local (45m local low-floor ride + 15m outdoor wait before Kincaid_Commons opens at 07:00 AM) yields a 66.7% reduction in environmental cold exposure and eliminates high-floor hydraulic lift boarding. 08-24-2015 07:44:18
 ```
 
-"Look here," Zoë explained, her voice regaining its crisp, triumphant cadence. "Instead of the `5:45 AM` Bluewater highway coach, we switch to the **`6:00 AM` Blue Ridge Transit Route 1 local bus**—'The Spine.' It departs the Christiansburg Transit Center fifteen minutes later, runs up Business 460 through Pepper Plaza and New River Valley Mall, and arrives at the CPI Transit Center at **`6:45 AM`**. That reduces our outdoor wait time before the library unlocks from forty-five minutes down to **fifteen minutes**—a `66.7%` reduction in environmental exposure."
+"Look here," Zoë explained, her voice regaining its crisp, triumphant cadence. "Instead of the `5:45 AM` Bluewater highway coach, we switch to the **`6:00 AM` Blue Ridge Transit Route 1 local bus**—'The Spine.' It departs the Christiansburg Transit Center fifteen minutes later, runs up Business 460 through Pepper Plaza and New River Valley Mall, and arrives at **Commonwealth Mall** at **`6:45 AM`**. Since Kincaid Commons across the street opens at `7:00 AM`, that reduces our outdoor wait time from forty-five minutes down to **fifteen minutes**—a `66.7%` reduction in environmental exposure."
 
 <aac>I can easily do 15 minutes,</aac> Jordan tapped firmly on his tablet, nodding with visible relief. <aac>I cannot do 45 minutes in the winter.</aac>
 
@@ -15739,13 +15741,13 @@ ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Switching from 05:4
 
 "It's a forty-five-minute bus ride instead of thirty," Mark noted, grinning, "which just means fifteen extra minutes of sitting in a heated bus cabin instead of freezing on a metal bench. And we get to sleep until `5:15 AM`!"
 
-"It's the easiest trade-off in the world," Aubrie Jean said warmly, kissing Jordan's cheek. "His health is worth infinitely more than a fast highway run."
+"It's the easiest trade-off in the world," Aubrie Jean said warmly, kissing Jordan's cheek. "Waiting fifteen minutes for doors to open is infinitely better than waiting forty-five."
 
 "Motion carried unanimously," **Sarah** smiled, raising her orange juice glass as **Jessica** and **Lauren** clinked their mugs against hers. "Long live the `6:00 AM` local!"
 
 ***
 
-At `8:35 AM`, with warm breakfasts in their stomachs and their new commuter protocol locked in for Tuesday morning, the nine of them rolled out of Newman Dining Commons and headed across campus toward **Walton Hall** for their first class of Sophomore Year: **`SOC 101` (`Introductory Sociology`)**, held at `9:00 AM` in the building's massive, three-hundred-seat tiered lecture auditorium.
+At `8:30 AM`, with warm breakfasts in their stomachs and their new commuter protocol locked in for Tuesday morning, the nine of them rolled out of Kincaid Commons and headed across campus toward **Walton Hall** for their first class of Sophomore Year: **`SOC 101` (`Introductory Sociology`)**, held at `9:00 AM` in the building's massive, three-hundred-seat tiered lecture auditorium.
 
 As they approached the bustling entrance of Walton Hall at `8:45 AM`, Jordan felt a familiar, low-grade hum of sensory anxiety tighten across his chest. A three-hundred-person freshman and sophomore lecture hall was a sensory minefield of echoing chatter, slamming folding desks, scraping chairs, and buzzing fluorescent tubes—a known overload trigger for both him and Aubrie Jean.
 
@@ -15761,9 +15763,116 @@ Like clockwork, they built what they immediately dubbed **The Sociology Fortress
 - **Aubrie Jean** pulled a movable companion chair right up against Jordan's right armrest, while **Madison** took the fixed auditorium seat immediately to his left, cocooning him on both sides against the echoing noise of the hall.
 - **Zoë**, **Sarah**, **Jessica**, and **Hannah** filled in the remainder of the row beside Madison and Mark, claiming the entire back section as an impenetrable bubble of calm.
 
-When the professor stepped up to the lectern at `9:00 AM` on the dot and began going over the `SOC 101` syllabus, Jordan sat anchored with Aubrie Jean's hand laced through his right and Madison's fingers resting warmly over his left wrist. And the very next morning—**Tuesday, August 25, 2015**—when their alarm chimed at `5:15 AM` and Jordan rolled effortlessly up the front low-floor ramp of the heated **`6:00 AM` Blue Ridge Transit Route 1** bus, arriving at the library just fifteen minutes before the doors unlocked at `7:00 AM`, the system ran at `100%` efficiency.
+When the professor stepped up to the lectern at `9:00 AM` on the dot and began going over the `SOC 101` syllabus, Jordan sat anchored with Aubrie Jean's hand laced through his right and Madison's fingers resting warmly over his left wrist. And the very next morning—**Tuesday, August 25, 2015**—when their alarm chimed at `5:15 AM` and Jordan rolled effortlessly up the front low-floor ramp of the heated **`6:00 AM` Blue Ridge Transit Route 1** bus, arriving at **Commonwealth Mall** just fifteen minutes before the doors of **Kincaid Commons** unlocked at `7:00 AM`, the system ran at `100%` efficiency.
 
 They had found their new normal.
+
+### Scene 4: Question The Rules: The Birth of Fin#
+
+By Wednesday evening of their first week back at CPI—**August 26, 2015**—the **`6:00 AM` Blue Ridge Transit Route 1** commute had settled into a smooth, frictionless routine. Two mornings in a row, Jordan had rolled *S.S. Freedom* straight up the low-floor pneumatic kneel ramp at the Christiansburg Transit Center, rode forty-five minutes up Business 460 in a warm cabin, waited a mere fifteen minutes at **Commonwealth Mall**, and rolled across the street into **Kincaid Commons** the second the magnetic locks clicked open at `7:00 AM`.
+
+After dinner at **`414 Geneva Street`**, the long oak dining table was transformed into a sophomore study hall. **Jordan** and **Mark** were working through their first problem set for **Engineering Thermodynamics**, **Aubrie Jean** and **Madison** were reviewing their studio syllabi side by side, and at the head of the table, **Zoë** had her laptop open next to her father, **Daniel Brooks, CPA**.
+
+As a double major in **Computer Science** and **Finance**, Zoë was enrolled in both `CS 3214` (*Compiler Design & Programming Languages*) and `ACIS 3115` (*Intermediate Financial Accounting & Corporate Governance*). On her glossy **Dark Aero** screen, she had pulled up the first week's forensic case study for her accounting seminar: the catastrophic December 2001 collapse of Houston-based **`Vectron Energy Corp.`**—the corporate implosion that had wiped out seventy billion dollars in shareholder value, evaporated twenty thousand employee pensions, and forced Congress to pass the **Sarbanes-Oxley Act of 2002 (`SOX`)**.
+
+"You named your household ledger audit protocol **`Z-SOX-302`** after Section 302 of Sarbanes-Oxley," Jordan typed on his `ProSlate 10D`, leaning over from his power chair beside Zoë's elbow to read the syllabus PDF.
+
+"Correct," Zoë nodded, adjusting her glasses. "Section 302 requires corporate officers to personally certify the mathematical accuracy and internal controls of their financial statements, and Section 404 mandates independent verification of those internal controls. And all of it exists because of **Vectron**."
+
+"I still remember watching their commercials on television between 1997 and 2001," Daniel said, setting his reading glasses down beside his coffee mug with a wry, seasoned accountant's shake of his head. "Before the bubble burst in late 2001, Wall Street treated Vectron like the smartest company on the planet. Have you ever seen the actual TV ads they ran back then, Zoë?"
+
+"Only the text transcripts in the SEC enforcement archive," Zoë replied, her curiosity piqued.
+
+"Pull up the 1999 spot referenced in Footnote 4 of your case packet," Daniel suggested, pointing to the archival link in the syllabus. "You have to see how they pitched it to the public—because on the surface, their argument actually made total sense."
+
+Zoë clicked the embedded **VidStream** archive file and routed the audio through the center of the table so Jordan, Aubrie Jean, and Mark could watch too.
+
+A grainy, late-nineties 4:3 broadcast commercial flickered onto the screen. It opened in stark black-and-white inside a dusty, bureaucratic 1930s utility commission office, where gray-suited clerks stamped **`DENIED — THAT'S THE RULE`** onto stack after stack of paperwork while a factory owner and a hospital administrator stared at flickering fluorescent lights:
+
+> *"Rule Number One,"* a gravelly narrator intoned over the sound of a heavy rubber stamp. *"You must buy your electricity from one local utility monopoly—no matter what they charge."*
+> *Stamp.*
+> *"Rule Number Two: Natural gas pipeline capacity and megawatts cannot be traded dynamically like commodities, because electrons can't be stored in a silo."*
+> *Stamp.*
+> *"Rule Number Three: Fiber-optic broadband bandwidth cannot be routed on demand, and if a summer heat wave triples your power bill, weather is an uninsurable act of God."*
+
+Suddenly, the screen burst into widescreen color. The dusty rulebooks blew apart in a rush of wind from a row of gleaming white turbines, cutting rapidly to glowing transcontinental fiber-optic conduits and the bustling, multi-monitor energy-trading floor of **`VectronOnline`**, where traders were routing megawatts, natural gas futures, and broadband capacity across North America in real time:
+
+> *"For ninety years, the utility monopolies told you energy could only flow one way, and you had no choice who powered your city,"* a crisp, modern voiceover declared as the sleek geometric **`VECTRON`** logo materialized over the trading floor. *"At Vectron, we don't just move megawatts—we reinvent the market."*
+>
+> **`VECTRON ENERGY CORP.`**
+> **`QUESTION THE RULES.`**
+
+Zoë paused the video on the final frame. Her violet-gray eyes narrowed behind her lenses as her processor began dissecting the sixty-second broadcast.
+
+"From a pure network-topology standpoint," Zoë said slowly, "their public premise for **'Question The Rules'** was completely logical. For ninety years, regional utility monopolies treated the electrical grid like a static, one-way pipe. Deregulating wholesale energy trading so a hospital in Chicago or a factory in Ohio could buy excess hydroelectric megawatts or hedge pipeline capacity on `VectronOnline` was a valid graph-routing optimization. Why *shouldn't* you question a regulatory monopoly rule from 1935?"
+
+"Because once you build a corporate culture around the slogan *'Question The Rules,'*" Daniel said quietly, tapping the edge of the forensic balance sheet on Zoë's desk, "people stop distinguishing between an outdated regulatory rule and a fundamental law of reality."
+
+Jordan looked up from his **Engineering Thermodynamics** textbook, his eyes widening as the connection clicked instantaneously in his mind. He reached over and typed rapidly in `NeoEdit`:
+
+<aac>In physics, you can question the rules of who owns the power lines, but you cannot question the First Law of Thermodynamics! Energy in a closed system cannot be created out of nothing or destroyed—it can only be transferred from one place to another.</aac>
+
+Zoë froze.
+
+Her gaze snapped from Jordan's neon-green `NeoEdit` terminal to the paused **`QUESTION THE RULES`** title card on her laptop, and then down to the SEC forensic exhibit showing how Vectron's executives had used **mark-to-market accounting** and hundreds of off-balance-sheet **Special Purpose Entities (`SPEs`)** to book twenty years of hypothetical future energy profits as Day-One cash revenue while sweeping billions of dollars of real debt into hidden subsidiaries.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — Input received: First_Law_Of_Thermodynamics("Energy in an isolated system can neither be created nor destroyed; ΔU = Q - W"). Cross-referencing with Case_Study(Vectron_Energy_Corp, Slogan: "Question The Rules", 1997..2001)... 08-26-2015 19:41:12
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Analysis: Vectron publicly used "Question The Rules" to challenge 20th-century utility monopoly regulations (Valid_Optimization == true). Internally, Vectron executives applied "Question The Rules" to Luca Pacioli's 1494 law of double-entry accounting (Assets == Liabilities + Equity), creating synthetic revenue out of thin air and deleting debt liabilities into unmonitored SPEs. 08-26-2015 19:41:16
+ZOË.Systems.Logs.KernelLog: CRITICAL INSIGHT: Why did Vectron's software allow this? Because in standard imperative languages (Quantum_Sharp / C#, Java, COBOL) and Quantum_Calculation spreadsheets, currency is stored as a primitive 'decimal' or 'float' value type! 08-26-2015 19:41:19
+```
+
+"Dad," Zoë whispered, her pulse ticking up with the electric stillness that always preceded one of her major architectural breakthroughs. "Look at Exhibit B in the SEC report. When Vectron's accountants transferred eight hundred million dollars of toxic debt into their off-balance-sheet *Raptor* partnership and booked an artificial gain on their ledger... what software did they use?"
+
+"Enterprise ERP ledgers and **Quantum Calculation** spreadsheets," Daniel answered. "And custom scripts written by their quantitative IT desk."
+
+"And even after Congress passed Sarbanes-Oxley in 2002," Zoë continued, her fingers hovering over her keyboard as her mind raced ahead at compiler speed, "Section 302 and Section 404 are still **post-facto human audits**. They rely on external CPAs checking the numbers months *after* the code has already executed and written the corrupted numbers to the database."
+
+"Well, sure," Daniel said. "Software just records whatever numbers the human or the script tells it to record. A computer doesn't know if an accounting entry violates GAAP until an auditor reviews the ledger."
+
+"Why doesn't it?" Zoë asked sharply.
+
+Everyone at the dining table looked up.
+
+"Think about what Jordan just said about the **First Law of Thermodynamics**," Zoë said, turning her laptop so Jordan, Daniel, Mark, and Aubrie Jean could see a blank **`Quantum Sharp` (`C#`)** code window she had just opened in her IDE. "In standard `Quantum Sharp`—or `Java`, or `C++`, or `COBOL`—how do programmers represent money?"
+
+She typed two lines of standard `C#` code onto the screen:
+
+```csharp
+decimal companyRevenue = 1000000.00m;
+companyRevenue += 500000000.00m; // Compiles with 0 errors!
+```
+
+"Look at Line 2," Zoë pointed at the screen, her processor humming with crystalline clarity. "I just added five hundred million dollars to `companyRevenue`. Where did that five hundred million dollars come from? Which counterparty account was debited? Which liability or asset moved in the opposite direction?"
+
+"Nowhere," Mark said, blinking at the two lines of code. "You just added a literal number to a variable."
+
+"And the `Quantum Sharp` compiler compiled it with **zero warnings and zero errors**!" Zoë declared, her eyes shining. "Because to a general-purpose programming language, `decimal` is just an unconstrained scalar number! You can instantiate a `decimal` out of thin air, you can add to it without subtracting from anywhere else, you can overwrite it, and if a rounding remainder doesn't fit, you can silently discard it into the garbage collector! Standard programming languages let Vectron **'Question The Rules'** of mathematical conservation because the compiler itself has no concept of the First Law of Thermodynamics!"
+
+Jordan sat bolt upright in his power chair, a delighted, breathless hum escaping his throat as his fingers flew across his keyboard:
+
+<aac>Wait. In your CS 3214 compiler class, can you build a type system where a number CANNOT be created or destroyed—where the compiler literally refuses to compile the program unless every single cent comes from a Debit and goes to a Credit in the exact same block?</aac>
+
+Zoë stared at Jordan's screen. Slowly, a radiant, unmistakable smile spread across her face.
+
+```zoe-log
+ZOË.Systems.Logs.EmotionalStateLog: Thread 3 (Jordan) has immediately grasped the linear-type compiler invariant. Heart_Rate(Self) == +6_bpm. Cognitive_Resonance(Jordan, Self) == 100.0%. 08-26-2015 19:43:04
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Hypothesis: By forking the open-source Quantum Sharp (C#) compiler front-end and replacing mutable 'decimal' primitives with a strict Linear_Resource_Type ('ledger'), conservation of capital can be enforced at COMPILE TIME rather than audit time. 08-26-2015 19:43:08
+```
+
+"Yes," Zoë breathed, reaching over to squeeze Jordan's hand before opening a terminal window on **`Aura Glade`** and initializing a brand-new compiler repository. "In programming language theory, it is called a **linear type system**—the exact same principle quantum computing languages use so you cannot clone or delete an entangled qubit. If we build a financial programming language on top of **`Quantum Sharp` (`C#`)** where currency is a protected linear resource type—and where no variable of type `Capital` can ever be instantiated, mutated, or dropped outside of a cryptographically balanced `Transaction<TDebit, TCredit>` block—then cooking the books or fat-fingering an unbalanced journal entry isn't a policy violation caught six months later by an auditor."
+
+She typed the name of the new project folder into the terminal header:
+
+**`Fin#` (`Financial Sharp — v0.1.0-alpha`)**
+
+"In **`Fin#`**," Zoë said softly, watching the initial directory tree generate on her screen, "if anyone—whether by human mistake or by corporate fraud—tries to *'Question The Rules'* of double-entry conservation, their code will not even compile into an executable program. It will halt at the source with a fatal **`FIN0001: ConservationOfCapitalViolationException`**."
+
+Daniel Brooks stared at his eighteen-year-old daughter's screen for a long, quiet moment, the full weight of what she and Jordan had just conceptualized sinking in for a career `CPA` who had spent the last thirteen years wading through post-Vectron compliance paperwork.
+
+"Zoë," Daniel said softly, resting a proud hand on her shoulder, "do you have any idea what a language that stops financial errors and unbalanced entries at the compiler level would mean to every bank, accounting firm, and corporate treasury in the world?"
+
+"It means the system will finally be logical, Dad," Zoë replied simply, her `CPU_Load` dropping to a serene, regulated `12%` as she began drafting the lexical grammar for **`Fin#`** with Jordan reading over her shoulder. "Because rules made by monopolies can be questioned. The laws of conservation cannot."
 
 ## The Shot (Depo-Vanguard 150) & Home on Geneva Street
 
@@ -15777,7 +15886,7 @@ For nine months of Jordan's freshman year, Isabel had trained her brain to compa
 
 Instead, over those seven days of late August, Isabel watched the No-Jealousy Pact in action with her own eyes.
 
-When she met the group at **Newman Dining Commons** between her third-year architecture studio labs, **Madison** and **Sarah** automatically slid over in the booth so Isabel could sit right beside Jordan's wheelchair bay. When she came down to **414 Geneva Street** on Wednesday and Friday evenings after finishing her early-semester Senior RA floor meetings at **Allegheny Commons**, **Lauren** and **Jessica** handed her a mug of Laura's hot apple cider and tucked a corner of the oversized fleece blanket over her knees while she curled up against Jordan's left shoulder. And when Isabel kissed Jordan goodnight by the basement patio door before catching the evening Route 1 bus back to campus, Aubrie Jean didn't flinch, stiffen, or look away—she smiled with genuine, unguarded warmth and hugged Isabel at the door.
+When she met the group at **Kincaid Commons** between her third-year architecture studio labs, **Madison** and **Sarah** automatically slid over in the booth so Isabel could sit right beside Jordan's wheelchair bay. When she came down to **414 Geneva Street** on Wednesday and Friday evenings after finishing her early-semester Senior RA floor meetings at **Allegheny Commons**, **Lauren** and **Jessica** handed her a mug of Laura's hot apple cider and tucked a corner of the oversized fleece blanket over her knees while she curled up against Jordan's left shoulder. And when Isabel kissed Jordan goodnight by the basement patio door before catching the evening Route 1 bus back to campus, Aubrie Jean didn't flinch, stiffen, or look away—she smiled with genuine, unguarded warmth and hugged Isabel at the door.
 
 By Sunday night, August 30, the last vestige of Isabel's institutional hesitation had dissolved.
 
@@ -15909,7 +16018,7 @@ Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed he
 
 Friday morning, September 18, 2015—just three days after **Jordan** and **Isabel's** first night together in the walk-out basement on Geneva Street—began like any bright, ordinary morning of their new life.
 
-There was laughter in the sunlit upstairs kitchen at `414 Geneva Street` as **Laura** and **Daniel** handed out warm travel mugs before leaving for work. There was the smooth, familiar ten-second roll up the low-floor ramp of the **`6:00 AM` Blue Ridge Transit Route 1** bus, the fifteen-minute chat outside the library, and a warm breakfast together at **Newman Dining Commons**, where Isabel stopped by their booth in her architecture studio smock to kiss Jordan good morning before heading to her `8:00 AM` drafting lab in Cowgill Hall.
+There was laughter in the sunlit upstairs kitchen at `414 Geneva Street` as **Laura** and **Daniel** handed out warm travel mugs before leaving for work. There was the smooth, familiar ten-second roll up the low-floor ramp of the **`6:00 AM` Blue Ridge Transit Route 1** bus, the fifteen-minute wait on **Commonwealth Mall**, and a warm breakfast together at **Kincaid Commons**, where Isabel stopped by their booth in her architecture studio smock to kiss Jordan good morning before heading to her `8:00 AM` drafting lab in Cowgill Hall.
 
 By `8:50 AM`, the nine commuters had filed into the massive, three-hundred-seat tiered auditorium of **Walton Hall** for **`SOC 101` (`Introductory Sociology`)** and assembled their usual back-row **Sociology Fortress**: **Mark** and **Hannah** anchoring the outer aisle flank, **Lauren**, **Sarah**, **Jessica**, and **Zoë** holding the middle seats, and **Jordan** parked in the wide accessible wheelchair cutout at the end of the row with **Aubrie Jean** in a movable companion chair on his right and **Madison** in the fixed auditorium seat on his left.
 
@@ -16080,7 +16189,7 @@ The radio crackled back with a burst of static and hospital confirmation tones.
 
 Suddenly, the ambulance lurched forward into motion, and the dual-tone electronic siren ripped through the air—a deafening *WHUMP-WHUMP-WHUMP* that vibrated straight through the aluminum floor and into Jordan's bones as `Medic 3` tore out of campus toward Route 460.
 
-And as the rig banked hard around the Drillfield curve, a brand-new jolt of terror hit Jordan in the gut.
+And as the rig banked hard around the **Commonwealth Green** curve, a brand-new jolt of terror hit Jordan in the gut.
 
 *My chair.*
 
@@ -16104,7 +16213,7 @@ Back outside Walton Hall, the wail of `Medic 3`'s siren faded rapidly toward the
 
 "How do we get to the hospital?!" Aubrie Jean cried out, her whole body shaking as **Madison** held her around the waist to keep her upright. "We don't have a car on campus!"
 
-"The `9:45 AM` *Maroon Express* is the next bus out of the CPI Transit Center toward Christiansburg," **Zoë** said, her voice trembling slightly as her processor fought through sheer adrenaline to build a transport vector. "We can—"
+"The `9:45 AM` *Maroon Express* is the next bus out of **Commonwealth Mall** toward Christiansburg," **Zoë** said, her voice trembling slightly as her processor fought through sheer adrenaline to build a transport vector. "We can—"
 
 "No—a bus is too slow for all of us, and we need Daniel and Laura at the hospital right now," **Mark** said, grabbing his and **Hannah's** backpacks. "Hannah and I are sprinting to the North End cab stand—we'll take a taxi straight to Geneva Street, grab my SUV, call Daniel and Laura on the way, and meet you at the ER!"
 
@@ -16116,21 +16225,21 @@ Mark and Hannah took off at a dead sprint across the lawn. At the exact same mom
 
 "Let's get it!" Lauren barked.
 
-In forty-five seconds flat, Isabel and Lauren dashed back inside the silent auditorium, gathered up Jordan's backpack, unlocked *S.S. Freedom*'s drive controller, and switched the speed dial to Stage 3 (`Full Outdoor Speed — 6.0 mph`). With Isabel jogging beside the right armrest and steering the joystick one-handed while Lauren guarded the left flank, the seven women—**Zoë**, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**—sprinted as a single pack across the Drillfield toward the **CPI Transit Center**.
+In forty-five seconds flat, Isabel and Lauren dashed back inside the silent auditorium, gathered up Jordan's backpack, unlocked *S.S. Freedom*'s drive controller, and switched the speed dial to Stage 3 (`Full Outdoor Speed — 6.0 mph`). With Isabel jogging beside the right armrest and steering the joystick one-handed while Lauren guarded the left flank, the seven women—**Zoë**, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**—sprinted as a single pack across the green toward the curbside bus lineup along **Commonwealth Mall** beneath **The Keystone Bridge**.
 
- Aubrie Jean was sobbing openly as she ran, her sneakers stumbling on the brick path until Madison and Sarah caught both of her elbows and half-carried her forward.
+Aubrie Jean was sobbing openly as she ran, her sneakers stumbling on the brick path until Madison and Sarah caught both of her elbows and half-carried her forward.
 
-Leading the pack by three strides, Zoë burst onto the concrete apron of the CPI Transit Center at `9:41:28 AM`, her eyes immediately locking onto the familiar white-and-maroon highway coach idling at **Bay B**.
+Leading the pack by three strides, Zoë burst onto the sidewalk of **Commonwealth Mall** at `9:41:28 AM`, her eyes immediately locking onto the familiar white-and-maroon highway coach idling at the head of the curbside lineup.
 
 ```zoe-log
-ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Arrived at CPI_Transit_Center. Target_Bus(Bluewater_Transit.Maroon_Express, 09:45_EDT) located at Bay_B. 09-18-2015 09:41:28
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Arrived at Node(CPI.Commonwealth_Mall). Target_Bus(Bluewater_Transit.Maroon_Express, 09:45_EDT) located at Curb_Position_1. 09-18-2015 09:41:28
 ```
 
-"This way! Bay B!" Zoë shouted, pointing toward the highway coach.
+"This way! Up front!" Zoë shouted, pointing toward the highway coach.
 
 Wait.
 
-Mid-stride, Zoë's eyes swept across the large, color-coded regional transit map mounted on the masonry pillar between Bay B and Bay D.
+Mid-stride, Zoë's eyes swept across the large, color-coded regional transit map mounted inside the shelter display case beneath **The Keystone Bridge**.
 
 She stopped dead in her tracks.
 
@@ -16144,15 +16253,167 @@ ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Recalculating... Corre
 
 "What?!" Lauren gasped, her chest heaving. "Zoë, what are you talking about?!"
 
-"The *Maroon Express* takes the highway bypass—it completely skips the hospital!" Zoë cried, her voice tight with a rare, shaken panic at her own near-fatal calculation error as she pointed across the transit island toward **Bay D**. "The hospital stop is on Business 460! We need **Route 1 Local**!"
+"The *Maroon Express* takes the highway bypass—it completely skips the hospital!" Zoë cried, her voice tight with a rare, shaken panic at her own near-fatal calculation error as she pointed two buses further down the Commonwealth Mall curb line. "The hospital stop is on Business 460! We need **Route 1 Local**!"
 
-Across the plaza at Bay D, the amber turn signal of the low-floor **`1 FALLING BRANCH` (`Blue Ridge Transit Route 1`)** local bus began flashing as its doors hissed shut and the bus prepared to pull away from the curb.
+Thirty yards down the curb beneath The Keystone Bridge, the amber turn signal of the low-floor **`1 FALLING BRANCH` (`Blue Ridge Transit Route 1`)** local bus began flashing as its doors hissed shut and the bus prepared to pull away from the sidewalk.
 
-**"WAIT! PLEASE WAIT!"** Aubrie Jean screamed at the top of her lungs, waving both arms wildly as all seven of them sprinted across the crosswalk with Isabel piloting *S.S. Freedom* right beside them.
+**"WAIT! PLEASE WAIT!"** Aubrie Jean screamed at the top of her lungs, waving both arms wildly as all seven of them sprinted down the sidewalk with Isabel piloting *S.S. Freedom* right beside them.
 
-In his side mirror, the Blue Ridge Transit driver spotted the seven frantic, crying young women running alongside an empty bariatric power wheelchair. With a sympathetic sigh, he shifted the coach back into neutral, popped the front folding doors open, and hit the pneumatic kneel switch—dropping the low-floor front ramp onto the curb with a metallic *clank*.
+In his side mirror, the Blue Ridge Transit driver spotted the seven frantic, crying young women running alongside an empty bariatric power wheelchair. With a sympathetic sigh, he shifted the coach back into neutral, popped the front folding doors open, and hit the pneumatic kneel switch—dropping the low-floor front ramp onto the Commonwealth Mall curb with a metallic *clank*.
 
 "Thank you, thank you, thank you!" Isabel gasped, steering *S.S. Freedom* straight up the ramp and locking its brakes inside the front wheelchair securement bay while Lauren snapped the floor hooks onto the frame in ten seconds flat.
 
-Tumbling onto the bus in a tangle of backpacks and tears, Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel collapsed onto the long perimeter seats surrounding Jordan's empty wheelchair. As the `1 FALLING BRANCH` bus pulled out of the transit center and headed south toward New River Valley Medical Center, Aubrie Jean buried her face against the padded headrest of Jordan's empty chair and wept.
+Tumbling onto the bus in a tangle of backpacks and tears, Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel collapsed onto the long perimeter seats surrounding Jordan's empty wheelchair. As the `1 FALLING BRANCH` bus pulled away from Commonwealth Mall and headed south toward New River Valley Medical Center, Aubrie Jean buried her face against the padded headrest of Jordan's empty chair and wept.
+
+### Scene 3: The Emergency Room & The Nuclear Medicine Lab
+
+### Part 1: Cardiac Trauma Bay 3
+
+The ambulance gurney burst through the `AMBULANCE ONLY` automatic sliding doors of **New River Valley Medical Center** in Christiansburg, the fluorescent ceiling panels streaking past **Jordan's** vision in a blinding, sterile blur as he was wheeled straight into **Cardiac Trauma Bay 3**.
+
+"Nineteen-year-old male, acute anterior STEMI," Paramedic **Mike** recited crisply to the attending emergency physician as four trauma nurses and orderlies slid Jordan on a draw-sheet from the ambulance cot onto the hospital trauma bed. "Onset approximately `9:25 AM` at CPI. Vitals borderline hypotensive, 12-lead in the field was conclusive, `324 mg` aspirin chewed, normal saline bolus running."
+
+"Get him on our monitor and run a stat troponin and coagulation panel!" the attending physician ordered.
+
+Jordan flinched as trauma shears sliced cleanly up the front of his t-shirt and sweatshirt, the cold airconditioning of the trauma bay hitting his bare chest seconds before clammy-cold hospital EKG electrodes were pressed against his skin. Another nurse drew three vials of blood from his left antecubital vein while a sublingual nitroglycerin tablet dissolved under his tongue.
+
+He was stabilized—the crushing white-hot anvil on his chest dulling slightly into a heavy, throbbing ache—but he was completely alone, without his wheelchair and without his AAC tablet to speak.
+
+Outside in the Emergency Department waiting room, less than four minutes later, the automatic vestibule doors hissed open as the seven young women from the **`1 FALLING BRANCH` (`BRT Route 1`)** local bus tumbled inside with *S.S. Freedom*—arriving at the exact same moment **Daniel** and **Laura Brooks**, **Mark**, and **Hannah** sprinted in from the parking lot.
+
+"What's happening?! Where is he?!" **Aubrie Jean** cried out, her voice breaking.
+
+Before Daniel could even reach the triage desk, the inner security doors swung open and the ER attending stepped out in blue scrubs.
+
+"Family for Jordan Fuller?"
+
+Daniel and Laura stepped forward immediately. "We are," Daniel said, his voice deep and steady as he held up his wallet card. "We're his parents and legal emergency contacts, and we hold his registered Virginia healthcare power of attorney."
+
+"He's stabilized for the moment, and the interventional cardiologist is on his way down," the physician told them. "He's conscious, alert, and in sinus tachycardia, but he's terrified—and without his communication device, he's been gesturing nonstop for his family. I can let two of you back into Bay 3 right now, and you can bring his wheelchair and communication tablet with you."
+
+"Go," Daniel said immediately, nodding to Aubrie Jean and **Zoë**.
+
+Buzzed through the heavy security doors, Aubrie Jean and Zoë hurried down the polished linoleum corridor—with Zoë steering *S.S. Freedom* at indoor speed and Jordan's backpack (with his ProSlate 10D AAC tablet mounted back on the swing-arm) until a trauma nurse pointed them to **Bay 3**.
+
+Aubrie Jean pulled back the privacy curtain.
+
+Jordan was lying propped at thirty degrees on the narrow trauma bed, still wearing his jeans and sneakers, his bare chest covered in a web of ten colored EKG leads and his nose framed by a clear oxygen cannula. Yet the second his eyes locked onto Aubrie Jean, Zoë, and *S.S. Freedom* rolling safely into the corner of the bay, a visible shudder of relief rippled through his shoulders. *They hadn't left his legs behind.*
+
+Seeing him lying there so pale, sweaty, and vulnerable shattered the last of Aubrie Jean's composure. She rushed to the left rail of the bed, took his hand in both of hers, and burst into tears.
+
+"Jordan! Oh, my God, J," Aubrie Jean sobbed, pressing her forehead against his knuckles. "We—we thought we were losing you..."
+
+Then a second, ice-cold terror crept into her voice, making her whole frame tremble.
+
+"Your mom," Aubrie Jean whispered frantically, looking up with wide, haunted eyes. "What if *she* finds out you're in the hospital? What if she comes here and tries to take you back to Virginia Beach while you can't fight back?!"
+
+Even with his chest aching, Jordan's very first instinct was to comfort *her*. He squeezed Aubrie Jean's fingers as firmly as he could with his left hand and reached his right hand out toward Zoë.
+
+Zoë stepped up to the right rail and took Jordan's hand instantly. Her fingers were trembling slightly from the sprint across campus, but her grip was warm and rock-steady.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Monitoring Agent(Aubrie): EmotionalState == Critical_Panic. Primary_Anxiety_Vector: Thread_3(Jordan).Mortality_Risk. Secondary_Anxiety_Vector: Hostile_Actor(Aubrie_Sinclair) medical interception. 09-18-2015 10:25:01
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Tactile_Anchor(Thread 3 / Jordan) && Deploy Logical_Legal_Reassurance(Agent(Aubrie)). 09-18-2015 10:25:03
+```
+
+"She cannot touch him, Aubrie," Zoë said, her voice low, clear, and absolute. "First, Judge Callahan dismissed her guardianship petition *with prejudice* in Montgomery County Circuit Court last month. Second, Jordan's sealed HIPAA admission profile lists Daniel and Laura Brooks as his primary healthcare proxy and explicitly flags Aubrie Sinclair as a barred party. She has zero legal authority inside this building or anywhere else on Earth."
+
+Aubrie Jean let out a long, ragged breath, nodding as she wiped her tears and kept her fingers laced tightly through Jordan's.
+
+After sitting together for ten quiet minutes while Zoë unlocked the swing-arm on *S.S. Freedom* and clipped Jordan's **ProSlate 10D** onto the hospital bed rail so he had his voice back, Zoë knew the nine people pacing the waiting room were desperate for a firsthand update.
+
+"I am going to rotate out so the others can see you, Jordan," Zoë whispered, squeezing his hand. "I will be right outside."
+
+Sixty seconds later, the curtain parted and **Madison** slipped inside, her eyes red-rimmed from crying even as she forced a brave, gentle smile.
+
+"Hey, J," Madison whispered, taking his right hand as Aubrie Jean held onto his left. "How's our guy?"
+
+Just then, the trauma nurse stepped back in with a fresh lab tray. "Just need to draw one more purple-top tube, Mr. Fuller—the cardiologist wants a repeat troponin enzyme level."
+
+While the nurse capped the vial, Jordan tapped weakly on his rail-mounted ProSlate with his right thumb:
+
+<aac>What happens now?</aac>
+
+"Now we wait for the cardiologist and imaging," the nurse said kindly, patting his shoulder before stepping out.
+
+Jordan let his head sink back against the flat, crinkly hospital pillow. He was nineteen years old. He had arrived in an ambulance with sirens screaming. His chest still throbbed with a dull, heavy ache. And now he was stuck in the universal hospital limbo: *waiting*. Ironically, the sheer mundane annoyance of waiting cut right through a fraction of his terror.
+
+***
+
+### Part 2: The Nuclear Medicine Lab & The Agonizing Wait
+
+Twenty minutes later, an imaging technician pushed a transport stretcher into Bay 3, glancing at his clipboard.
+
+"Jordan Fuller? We're going to take you down the hall to **Nuclear Medicine and Non-Invasive Cardiology** for a stat **echocardiogram**."
+
+Jordan, Aubrie Jean, and Madison all looked up in surprise.
+
+"An *echocardiogram*?" Madison asked, a fresh knot of anxiety tightening in her voice. "What is that?"
+
+"It's a specialized ultrasound of his heart," the technician explained gently.
+
+Jordan's brow furrowed, and despite his exhaustion, he tapped on his ProSlate:
+
+<aac>An ultrasound? I thought that was how you looked at babies?</aac>
+
+The technician gave a small, clinical smile. "Exact same sound-wave technology, different target. We aren't looking for a baby today—we're looking at your heart muscle and valves in real time to see where the wall motion is impaired and how badly the muscle was affected by the attack."
+
+The word *damaged* hit Aubrie Jean like a physical blow; her knuckles went white around Jordan's hand.
+
+"Can we walk with him?" Aubrie Jean asked, her voice trembling.
+
+"You can walk alongside the stretcher down to the department, and then you'll wait right outside in the corridor for about thirty minutes while we run the scan," the tech nodded.
+
+With Aubrie Jean walking on the left side of the stretcher and Madison on the right—their hands resting continuously on his forearms while Madison brought *S.S. Freedom* and his backpack along—they rolled down the quiet, subterranean hospital corridors to the Nuclear Medicine suite.
+
+"We'll be right outside this door, J," Madison promised as the tech prepared to wheel him through the heavy automatic double doors. "We aren't moving an inch."
+
+"We love you," Aubrie Jean whispered, leaning down to kiss his forehead.
+
+The double doors hissed shut behind him, leaving the two young women alone in the silent hallway. Instantly, Aubrie Jean's knees gave out; she slid down the wall onto the linoleum floor as a fresh wave of tears broke over her, and Madison sat right down beside her, wrapping both arms tightly around her best friend as they stared at the closed doors.
+
+Thirty agonizing minutes later, when the heavy doors finally hissed open and the tech wheeled Jordan back out—his chest wiped clean of cold ultrasound gel, his eyes wide after thirty minutes of grim clinical silence from the sonographer—Aubrie Jean scrambled to her feet and grabbed his hand before the stretcher had even cleared the doorway.
+
+"Jordan! Are you okay?! Did it hurt? What did they say?!" Aubrie Jean gasped.
+
+<aac>I am okay. It did not hurt. They just took pictures and said the doctor will talk to us,</aac> Jordan tapped softly, his hand immediately finding hers as they rolled back to ER Bay 3.
+
+Once he was settled back onto the trauma bed and the curtain was drawn, another long, heavy silence descended over the bay, broken only by the rhythmic *beep... beep... beep* of the cardiac monitor. Seeing that Aubrie Jean hadn't let go of Jordan's left hand for a single second, Madison leaned over the right rail.
+
+"Aubrie, I'm going to go update Daniel and Laura in the waiting room and switch out," Madison whispered gently, turning her gaze to Jordan. "Who do you want to see next, J?"
+
+Jordan didn't even have to think. He was terrified of what the cardiologist was about to walk in and say, and he needed the family's unshakable moral anchor.
+
+<aac>Hannah. I want to see Hannah.</aac>
+
+Two minutes later, **Hannah** slipped through the curtain and quietly took the chair on Jordan's right side. Her steady, protective big-sister presence washed over the bay like a warm blanket as she rested her hand over Jordan's right forearm, sitting vigil beside him and Aubrie Jean while the minutes ticked past `11:30 AM`.
+
+Then the curtain swept open, and the ER physician stepped back inside alongside the attending cardiologist, **Dr. Patel**. Both men wore grave expressions.
+
+"Jordan," Dr. Patel began, speaking directly and respectfully to the nineteen-year-old in the bed. "The results from your echocardiogram and your troponin labs are back. They confirm what the paramedic's 12-lead EKG showed: you have suffered a significant anterior heart attack, and the ultrasound shows a **severe, high-grade blockage in one of your main coronary arteries**."
+
+Beside the bed, Aubrie Jean let out a muffled, strangled sob and pressed Jordan's knuckles against her cheek.
+
+"Because of the severity of the blockage, this isn't something we can simply manage with blood thinners and medication," Dr. Patel continued calmly. "We have to intervene mechanically to restore blood flow. Our first step is a procedure called a **coronary angiogram and balloon angioplasty** up in our Cardiac Catheterization Lab. We'll thread a thin catheter through the artery in your arm or groin up to your heart and inflate a specialized high-pressure balloon to open the blockage. We are admitting you to the inpatient cardiac unit effective immediately, and a transport team is on its way down right now."
+
+*Admitting me. Cardiac unit. Balloon angioplasty.*
+
+Jordan's heart raced, triggering a brief warning chime on the monitor as he looked from Aubrie Jean's tear-streaked face to Hannah's pale expression and tapped frantically on his ProSlate:
+
+<aac>Please do not make me be alone. Can I see my family before they move me?</aac>
+
+Seeing the raw fear in the nineteen-year-old's eyes, Dr. Patel didn't hesitate. "Your whole family is out in the waiting room?"
+
+"Every single one of them," Hannah confirmed, her voice thick with emotion.
+
+"I'll have the charge nurse bring all of them back right now so they can walk up to the inpatient floor with you," Dr. Patel nodded compassionately.
+
+Sixty seconds later, the privacy curtain of Bay 3 was pulled wide open, and the small trauma bay was suddenly, overwhelmingly filled with love: **Daniel** and **Laura Brooks** hurried in first, followed immediately by **Mark**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Status_Update: ER_Diagnostic_Phase == COMPLETE. Diagnosis_Confirmed: Severe_Coronary_Artery_Occlusion (Anterior STEMI). Next_Action: Inpatient_Cardiac_Admission -> Cardiac_Catheterization_Lab (Balloon_Angioplasty). 09-18-2015 11:35:01
+ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — All 11 Family Nodes (Daniel, Laura, Mark, Hannah, Aubrie, Madison, Self, Lauren, Sarah, Jessica, Isabel) converged in ER_Bay_3 around Thread 3 (Jordan). Fortress_Integrity == 100.0%. 09-18-2015 11:35:04
+```
+
+Without a word, all eleven of them surrounded his bed in a tight, unbroken ring—Aubrie Jean holding his left hand, Madison and Isabel resting their hands over his right forearm, Hannah, Zoë, Lauren, Sarah, and Jessica touching his shoulders and shins, and Daniel, Laura, and Mark standing like a solid wall at the foot of the bed as the inpatient transport team arrived at the door.
 
