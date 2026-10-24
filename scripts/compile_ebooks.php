@@ -34,6 +34,79 @@
 $workspaceRoot = dirname(__DIR__, 2);
 $lumpDir       = $workspaceRoot . '/raggiesoft-narratives/books-ai-lump';
 $outBaseDir    = $workspaceRoot . '/raggiesoft-assets/raggiesoft-books/books';
+$booksAppDir   = is_dir($workspaceRoot . '/raggiesoft.com/subdomains/books')
+    ? ($workspaceRoot . '/raggiesoft.com/subdomains/books')
+    : ($workspaceRoot . '/raggiesoft-book-library');
+
+/**
+ * Formats a raw byte count into a pleasant, human-readable file size string
+ * (e.g., "36.8 MB", "2.8 MB", "690 KB", "5.3 KB") for eBook download links.
+ *
+ * @param int $bytes Raw file size in bytes.
+ * @return string Pleasant human-readable size string, or empty string if invalid.
+ */
+function formatEbookFileSize(int $bytes): string {
+    if ($bytes <= 0) {
+        return '';
+    }
+    if ($bytes < 1024) {
+        return $bytes . ' B';
+    }
+    $kb = $bytes / 1024;
+    if ($kb < 1024) {
+        if ($kb < 10) {
+            $formatted = rtrim(rtrim(number_format($kb, 1, '.', ''), '0'), '.');
+            return $formatted . ' KB';
+        }
+        return (string)round($kb) . ' KB';
+    }
+    $mb = $bytes / 1048576;
+    if ($mb < 1024) {
+        $formatted = rtrim(rtrim(number_format($mb, 1, '.', ''), '0'), '.');
+        return $formatted . ' MB';
+    }
+    $gb = $bytes / 1073741824;
+    $formatted = rtrim(rtrim(number_format($gb, 2, '.', ''), '0'), '.');
+    return $formatted . ' GB';
+}
+
+/**
+ * Inspects a compiled book asset directory and returns human-readable and raw byte
+ * file sizes for all 4 eBook deliverables (Illustrated EPUB/PDF + Text-Only EPUB/PDF).
+ *
+ * @param string $bookAssetDir Path to `raggiesoft-assets/raggiesoft-books/books/<slug>`.
+ * @param string $seriesSlug   Canonical series slug.
+ * @return array Associative array of formatted strings and byte counts.
+ */
+function getSeriesEbookSizes(string $bookAssetDir, string $seriesSlug): array {
+    clearstatcache();
+    $files = [
+        'epub'      => $bookAssetDir . '/' . $seriesSlug . '.epub',
+        'pdf'       => $bookAssetDir . '/' . $seriesSlug . '.pdf',
+        'text_epub' => $bookAssetDir . '/' . $seriesSlug . '-text.epub',
+        'text_pdf'  => $bookAssetDir . '/' . $seriesSlug . '-text.pdf',
+    ];
+    $sizes = [
+        'epub'            => '',
+        'pdf'             => '',
+        'text_epub'       => '',
+        'text_pdf'        => '',
+        'epub_bytes'      => 0,
+        'pdf_bytes'       => 0,
+        'text_epub_bytes' => 0,
+        'text_pdf_bytes'  => 0,
+    ];
+    foreach ($files as $key => $filePath) {
+        if (is_file($filePath)) {
+            $bytes = (int)@filesize($filePath);
+            if ($bytes > 0) {
+                $sizes[$key] = formatEbookFileSize($bytes);
+                $sizes[$key . '_bytes'] = $bytes;
+            }
+        }
+    }
+    return $sizes;
+}
 
 // Parse command line arguments for optional force flag
 $forceRebuild = in_array('--force', $argv ?? [], true);
@@ -56,7 +129,7 @@ foreach ($dirs as $novelDir) {
     }
     $mdFile = $completeFiles[0];
 
-    // Establish output target directory, filenames (Illustrated + Plain-Text Metered), and build hash tracking
+    // Establish output target directory, filenames (Illustrated + Text-Only Editions), and build hash tracking
     $outDir       = $outBaseDir . '/' . $slug;
     $epubFile     = $outDir . '/' . $slug . '.epub';
     $pdfFile      = $outDir . '/' . $slug . '.pdf';
@@ -122,7 +195,7 @@ foreach ($dirs as $novelDir) {
     $tmpMd = $novelDir . '/' . $slug . '-pandoc.md';
     file_put_contents($tmpMd, $content);
 
-    // Also prepare the Plain-Text Edition (No Images — For Metered Connections) by stripping all Markdown images
+    // Also prepare the Text-Only Edition (No Images) by stripping all Markdown images
     $textContent = preg_replace('/!\[[^\]]*\]\([^)]+\)\s*/', '', $content);
     $textContent = preg_replace("/\n{3,}/", "\n\n", $textContent);
     $tmpTextMd   = $novelDir . '/' . $slug . '-pandoc-text.md';
@@ -159,8 +232,8 @@ foreach ($dirs as $novelDir) {
         fwrite(STDERR, "  [Warning] Illustrated PDF generation failed for {$slug}. Ensure wkhtmltopdf or pdflatex is installed.\n");
     }
 
-    // 7. Generate Plain-Text EPUB (No Images — For Metered Connections)
-    echo "  Generating Plain-Text EPUB ({$slug}-text.epub)...\n";
+    // 7. Generate Text-Only EPUB (No Images)
+    echo "  Generating Text-Only EPUB ({$slug}-text.epub)...\n";
     $textEpubCmd = sprintf(
         'pandoc %s -o %s --toc --toc-depth=3',
         escapeshellarg($tmpTextMd),
@@ -168,11 +241,11 @@ foreach ($dirs as $novelDir) {
     );
     exec($textEpubCmd, $output, $returnVar);
     if ($returnVar !== 0) {
-        fwrite(STDERR, "  [Error] Plain-Text EPUB generation failed for {$slug}\n");
+        fwrite(STDERR, "  [Error] Text-Only EPUB generation failed for {$slug}\n");
     }
 
-    // 8. Generate Plain-Text PDF (No Images — For Metered Connections)
-    echo "  Generating Plain-Text PDF ({$slug}-text.pdf)...\n";
+    // 8. Generate Text-Only PDF (No Images)
+    echo "  Generating Text-Only PDF ({$slug}-text.pdf)...\n";
     $textPdfCmd = sprintf(
         'pandoc %s -o %s --toc --toc-depth=3 --pdf-engine=weasyprint 2>/dev/null || pandoc %s -o %s --toc --toc-depth=3',
         escapeshellarg($tmpTextMd),
@@ -182,7 +255,7 @@ foreach ($dirs as $novelDir) {
     );
     exec($textPdfCmd, $output, $returnVar);
     if ($returnVar !== 0) {
-        fwrite(STDERR, "  [Warning] Plain-Text PDF generation failed for {$slug}.\n");
+        fwrite(STDERR, "  [Warning] Text-Only PDF generation failed for {$slug}.\n");
     }
 
     // 9. Cleanup intermediate staging files
@@ -200,4 +273,60 @@ foreach ($dirs as $novelDir) {
     echo "  Done.\n";
 }
 
-echo "All E-Books compiled and verified!\n";
+// 11. Stitch human-readable file sizes for all books into toc.json, catalog.json, route maps, and ebook-sizes.json
+$allEbookSizes = [];
+$bookOutDirs = array_filter(glob($outBaseDir . '/*'), 'is_dir');
+foreach ($bookOutDirs as $bookOutDir) {
+    $slug = basename($bookOutDir);
+    $sizes = getSeriesEbookSizes($bookOutDir, $slug);
+    $allEbookSizes[$slug] = $sizes;
+
+    // Update series toc.json if present
+    $tocJsonPath = $bookOutDir . '/toc.json';
+    if (is_file($tocJsonPath)) {
+        $tocData = json_decode((string)@file_get_contents($tocJsonPath), true);
+        if (is_array($tocData)) {
+            $tocData['ebook_sizes'] = $sizes;
+            file_put_contents($tocJsonPath, json_encode($tocData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+        }
+    }
+
+    // Update series route map in books.raggiesoft.com/data/routes/<slug>.json if present
+    $routeJsonPath = $booksAppDir . '/data/routes/' . $slug . '.json';
+    if (is_file($routeJsonPath)) {
+        $routeData = json_decode((string)@file_get_contents($routeJsonPath), true);
+        if (is_array($routeData)) {
+            if (!isset($routeData['common']) || !is_array($routeData['common'])) {
+                $routeData['common'] = [];
+            }
+            $routeData['common']['ebook_sizes'] = $sizes;
+            file_put_contents($routeJsonPath, json_encode($routeData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+        }
+    }
+}
+
+// Update master catalog.json if present
+$catalogJsonPath = $outBaseDir . '/catalog.json';
+if (is_file($catalogJsonPath)) {
+    $catalogData = json_decode((string)@file_get_contents($catalogJsonPath), true);
+    if (is_array($catalogData)) {
+        foreach ($catalogData as &$entry) {
+            $entrySlug = $entry['slug'] ?? '';
+            if ($entrySlug !== '' && isset($allEbookSizes[$entrySlug])) {
+                $entry['ebook_sizes'] = $allEbookSizes[$entrySlug];
+            }
+        }
+        unset($entry);
+        file_put_contents($catalogJsonPath, json_encode($catalogData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+    }
+}
+
+// Write standalone ebook-sizes.json manifest into books.raggiesoft.com/data/
+if (is_dir($booksAppDir . '/data')) {
+    file_put_contents(
+        $booksAppDir . '/data/ebook-sizes.json',
+        json_encode($allEbookSizes, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
+    );
+}
+
+echo "All E-Books compiled, sizes stitched, and verified!\n";
