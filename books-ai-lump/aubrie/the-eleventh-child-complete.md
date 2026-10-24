@@ -670,6 +670,8 @@ Zoë turned back to Kelsey, her posture decisive. "We'll tough it out. For two w
 
 **Date:** 2014-08-23 at 11:50 America/New_York
 
+![Inside Room 214 of Eleanor Bennett Hall on freshman move-in weekend, eighteen-year-old Jordan Fuller sits in his manual wheelchair with his silver laptop resting on his lap and breaks into a relieved, hopeful smile as he claims the name Jordan and reveals he is an Astrophysics major, while Aubrie Jean Kelly leans forward from the lower wooden bunk bed with a brilliant grin of shared excitement, surrounded warmly by Madison Grace Miller at the desk and Zoë Wren Brooks, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg)
+
 With the immediate hallway commotion defused, Kelsey Brennan recorded the six students' verbal agreement on her clipboard, let them know she would report the clerical error to the central Office of Housing and Residence Life so they could review the situation and prepare the formal university paperwork that afternoon, and stepped back out into the corridor with a visibly relieved Henry Walsh in tow.
 
 As the heavy wooden door clicked shut behind them, a quiet, post-storm stillness settled over Room 214. For a beat, the six new suitemates simply looked at one another—five young women and one exhausted boy in a wheelchair—realizing that against every normal rule of freshman move-in day, they were officially living together.
@@ -3735,6 +3737,8 @@ Aubrie knelt in front of his chair right there on the showroom carpet, taking bo
 ### Scene 5: The Ride Home in High Definition
 
 **Date:** 2014-08-29 at 16:30 America/New_York
+
+![Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks smile beside him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg)
 
 When the automatic glass doors of **LensWorks Optical** slid open and the nine friends stepped back out onto the sunny late-afternoon promenade of **Strickland Farm Shopping Center**, Jordan paused his wheelchair at the edge of the walkway and simply drank in the horizon.
 
@@ -7881,6 +7885,8 @@ The ramp and the Route 11 estate were the physical fortress. Securing Jordan a c
 
 **Date:** 2014-12-21 at 12:20 America/New_York
 
+![At 12:20 PM EST (True Solar Noon) on the Winter Solstice inside the sunlit Brooks dining room on Geneva Street with deep snowbanks sparkling outside the bay windows, nineteen-year-old birthday astrophysicists Jordan Fuller and Aubrie Jean Kelly sit side by side holding hands in front of their dark-chocolate deep-space nebula cake decorated with gold celestial lines, two binary golden shooting stars, and nineteen flickering golden candles, while Zoë Wren Brooks, Madison Grace Miller, Lauren Elizabeth Taylor, Hannah Marie Brooks, and Daniel and Laura Brooks cheer and clap around the table.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/s008/solar-noon-winter-solstice.jpg)
+
 On Sunday morning, December 21st—the **Winter Solstice**—the Brooks basement hummed with joyful, conspiratorial energy before the sun had even cleared the crest of the Blue Ridge.
 
 It was **Jordan** and **Aubrie Jean**’s nineteenth birthday.
@@ -8403,6 +8409,8 @@ Click by click, the basement lamps went dark, a soft chorus of *"Goodnight, guys
 ### Scene 1: Stockings on the Bookshelf
 
 **Date:** 2014-12-25 at 08:00 America/New_York
+
+![On Christmas morning inside the warm, fairy-lit Brooks living room on Geneva Street, nineteen-year-old Jordan Fuller sits in his wheelchair in maroon flannel pajamas and touches his red-and-cream velvet Christmas stocking embroidered with JORDAN in gold thread hanging on the built-in oak bookshelf as Laura Brooks guides his hand, Daniel Brooks rests a fatherly hand on his shoulder, Madison Grace Miller kneels warmly beside his wheel, and Aubrie Jean Kelly and Zoë Wren Brooks look on tenderly beside the glowing Christmas tree.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg)
 
 **Jordan** woke on the morning of December 25th to the sound of excited, hushed whispers rippling across the basement beds.
 
@@ -11343,6 +11351,8 @@ Madison reached out and squeezed Jordan’s hand through her tears.
 
 **Date:** 2015-03-16 at 13:30 America/New_York
 
+![Beaming with triumphant confidence, nineteen-year-old Jordan Fuller drives his brand-new 350-pound matte-black Vanguard Titan-X350 all-terrain power wheelchair (S.S. Freedom, with six suspension wheels, glowing white LED fender path-lights, and his laptop mounted on a swing-away arm) effortlessly up the steep twelve-degree paved hillside walkway alongside the gray Ironstone facade of Eleanor Bennett Hall while Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks walk beside him and Resident Advisors Isabel Dawson and Garrett Reynolds cheer from the top of the ridge.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg)
+
 On Monday afternoon, March sixteenth—as the nine students returned from a peaceful, laughter-filled Spring Break in Bluewater to learn from **Daniel Brooks** that Aubrie Sinclair's private investigator had checked out of his Route 460 motel and gone back to Tidewater empty-handed—the hydraulic lift-gate on the back of the **Blue Ridge Complex Rehab & Mobility** sprinter van hummed down onto the concrete apron of the Brooks driveway at **414 Geneva Street**.
 
 **Marcus Vance** backed the machine out into the March sunlight.
@@ -12651,6 +12661,8 @@ Even after flying overnight across the Atlantic, Jordan didn't feel trapped, exh
 
 **Date:** 2015-06-02 at 13:00 Atlantic/Reykjavik
 
+![In the steaming 100-degree milky-turquoise geothermal mineral waters of Iceland's Azure Lagoon (Heiðrúnarlón) surrounded by moss-crusted black volcanic basalt cliffs and billowing white steam, nineteen-year-old Jordan Fuller floats weightlessly on his back with white silica mud stripes on his cheeks and an expression of pure, uninhibited joy as Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks, Lauren Elizabeth Taylor, Sarah Braithwaite, and Jessica Gallagher support him in a warm, protective circle.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg)
+
 On Tuesday afternoon, the eighteen travelers rode a lift-equipped regional coach south across the black volcanic lava fields of the **Reykjanes Peninsula** toward a massive, billowing column of white steam rising against the sky.
 
 Nestled directly inside a rugged basin of jagged, moss-crusted basalt lava near Grindavík lay **The Azure Lagoon** (*`Heiðrúnarlón`*)—a sprawling geothermal spa fed by mineral-rich water superheated two thousand meters beneath the earth's crust.
@@ -13256,6 +13268,8 @@ Mark blinked from the booth across the aisle, looking out the window at a stone 
 
 **Date:** 2015-06-11 at 11:30 Europe/London
 
+![On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg)
+
 At eleven-twenty-one in the morning, the **Class 390 Tilting Express** glided beneath the monumental, curved iron-and-glass Victorian train shed of **Liverpool Lime Street Station**.
 
 Waiting right on the platform outside Coach G stood a Merseyside station attendant holding the matching yellow aluminum boarding ramp. Within ninety seconds of the train coming to a halt, Jordan rolled smoothly off the carriage onto the level concourse of Lime Street, picked up a regional **`MerseyPass`** transit card at the **Mersey Transit** travel center for his collector's sleeve, and led the eighteen travelers aboard a low-floor city bus down toward the **River Mersey** waterfront.
@@ -13585,6 +13599,8 @@ Jordan parked his chair at the very apex of the `451.2-meter` highest point mark
 ### Scene 1: The Hassha Melody on the Bullet Train Platform
 
 **Date:** 2015-07-04 at 09:45 Asia/Tokyo
+
+![On elevated Platform 18 at Tokyo Station behind the yellow tactile warning blocks as the gentle music-box Hassha melody chimes overhead, a courteous Nippon Rail attendant in a navy-blue uniform and pristine white gloves bows respectfully beside the yellow-and-aluminum boarding ramp at Car 11 of a gleaming white-and-blue N700A Series Bullet Train (Hikari Star Super Express), welcoming nineteen-year-old Jordan Fuller in his matte-black S.S. Freedom power wheelchair while Zoë Wren Brooks rests a grounding hand on his shoulder alongside Aubrie Jean Kelly and Madison Grace Miller.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg)
 
 On Saturday morning, July fourth, the eighteen travelers rode the elevator up to **Platform 18** of the **Tōkaidō Bullet Line** at **Tokyo Station** to board the bullet train west to **Osaka**.
 
@@ -15215,6 +15231,8 @@ Ms. Gable rose with icy calm. "Objection, Your Honor. Counsel is testifying—an
 ### Scene 6: The Closing Argument, The Gavel, and The Handcuffs
 
 **Date:** 2015-08-18 at 13:30 America/New_York
+
+![Inside Courtroom 3B of the Montgomery County Courthouse in Christiansburg, Judge Harrison strikes his wooden gavel from the bench to dismiss the guardianship petition with prejudice while a uniformed Montgomery County Sheriff's deputy places steel handcuffs around the wrists of a stunned Aubrie Sinclair at the petitioner's table, as nineteen-year-old Jordan Fuller sits tall, composed, and sovereign in his matte-black S.S. Freedom power wheelchair in a navy suit and maroon tie beside attorney Ms. Helen Gable and his supportive gallery phalanx (Aubrie Jean Kelly, Zoë Wren Brooks, Madison Grace Miller, Isabel Dawson, and Henry Walsh).]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c001/s006/the-gavel-and-the-handcuffs.jpg)
 
 After a brief noon recess—during which **Jordan** rested his tired eyes in the attorney consultation room while **Aubrie**, **Zoë**, and **Isabel** brought him warm broth, grilled chicken, and a fresh cup of green tea—the courtroom reconvened at one-thirty for closing arguments and the court's ruling.
 
