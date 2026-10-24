@@ -15265,7 +15265,7 @@ Taking one final deep breath, Isabel picked up the bakery box, stepped out of he
 
 "Isabel! Welcome to Geneva Street, my dear!" Laura beamed, stepping out onto the porch to wrap the nervous young woman in a warm, maternal hug before taking the bakery box from her trembling hands. "Come right in—or rather, come right out to the back deck! Someone has been waiting by the sliding glass doors for the last twenty minutes to give you the grand tour himself."
 
-"Thank you, Mrs. Brooks—Mr. Brooks," Isabel said, her voice half an octave higher than usual as she smoothed her jeans with her palms and followed Daniel through the bright main-floor kitchen—where **Caleb**, **Owen**, and **Jacob** waved cheerfully from the island—and out onto the elevated first-floor timber back deck overlooking the sloping backyard.
+"Thank you, Mrs. Brooks—Mr. Brooks," Isabel said, her voice half an octave higher than usual as she smoothed her jeans with her palms and followed Daniel through the bright main-floor kitchen—where **Megan**, **Caleb**, **Owen**, and **Jacob** waved cheerfully from the island—and out onto the elevated first-floor timber back deck overlooking the sloping backyard.
 
 Just as Isabel stepped onto the deck, a whisper-quiet, familiar turbine hum rose from the top landing of the backyard accessibility ramp.
 
@@ -15289,7 +15289,7 @@ When they reached the concrete walk-out patio at the bottom of the hill, Jordan 
 
 Isabel stepped over the zero-step threshold into the cool, recessed-lit walk-out basement—and stopped dead in her tracks three feet inside the glass doors.
 
-Around the perimeter of the finished basement living area, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, and **Megan** looked up from unpacking their World Trek laundry and sophomore textbooks to greet her with a chorus of warm smiles and waves.
+Around the perimeter of the finished basement living area, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Mark** looked up from unpacking their World Trek laundry and sophomore textbooks to greet her with a chorus of warm smiles and waves.
 
 "Hey, Izzy!" Madison cheered, bouncing up from the wide pull-out sectional sleeper. "Welcome to the bunker!"
 
@@ -15330,13 +15330,13 @@ After a boisterous dinner upstairs around the main dining table—where **Daniel
 
 Outside the wide sliding glass patio doors, the late-August twilight settled in purple and gold layers across the Blue Ridge hills, and the string of warm fairy lights **Madison** had draped along the basement ceiling beams cast a soft amber glow over the four queen beds and the wide sectional sofa.
 
-Yet as **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, and **Megan** settled onto the edges of the beds and sofa with their mugs, Isabel remained standing near the center of the rug right in front of **Jordan's** chair.
+Yet as **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Mark** settled onto the edges of the beds and sofa with their mugs, Isabel remained standing near the center of the rug right in front of **Jordan's** chair.
 
 She had set her tea mug down on the corner of the oak coffee table because her hands were trembling again.
 
 "Izzy?" **Aubrie Jean** asked gently from the edge of the center queen bed right beside Jordan's right wheel. "You didn't touch your tea. What's going on inside your head?"
 
-Isabel looked around the circle of faces—the nine sophomores she had watched over across the hall from **Room 215** for two semesters, plus Megan—and then looked straight down into Jordan's steady green eyes.
+Isabel looked around the circle of faces—the nine sophomores she had watched over across the hall from **Room 215** for two semesters—and then looked straight down into Jordan's steady green eyes.
 
 She took a long, quivering breath, her hands twisting the hem of her burgundy CPI t-shirt before she forced herself to let go and stand tall.
 
@@ -15354,7 +15354,7 @@ Isabel pressed her right hand over her breastbone, right where her heart was rac
 
 "Psychologists probably call it the Florence Nightingale effect," she admitted, letting out a shaky, tearful laugh. "When caring for someone and protecting them crosses an invisible line until your heart doesn't belong to you anymore. By October, I knew what was happening to me. By Thanksgiving in Charlottesville, when I watched you with Elana, Stephen, and Stella, I was already completely gone. And by May fifteenth—when you signed your final Room Condition Report in the second-floor hallway and typed on your tablet that I wasn't your Resident Advisor anymore—I almost lost every ounce of willpower I had and blurted it all out right there on the hallway floor."
 
-She looked from Jordan to Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Megan, bracing herself as if she half-expected them to be shocked or angry with her for harboring feelings for the man at the center of their lives.
+She looked from Jordan to Aubrie Jean, Madison, Zoë, Lauren, Sarah, and Jessica, bracing herself as if she half-expected them to be shocked or angry with her for harboring feelings for the man at the center of their lives.
 
 "I hid it from every single one of you all year because I was your RA," Isabel said, her voice thick with emotion. "I refused to ever cross an ethical boundary while I wore that badge, and I refused to intrude on the family you built together. Even Monday night at the Roanoke airport, and yesterday morning in that courtroom, I tried to keep holding it back. But I'm not your RA anymore, Bennett Hall is gone, your mother can never hurt you again, and I can't pretend for one more day."
 
@@ -15366,7 +15366,7 @@ Silence hung over the walk-out basement for three full seconds.
 
 Isabel stood frozen on the rug, her chest heaving, waiting for the shockwave.
 
-Instead, across the room on the sectional sofa, **Madison** let out a soft, affectionate sigh and rested her chin in her hands. **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Megan** exchanged the warmest, most knowing smiles imaginable. Beside Jordan's right wheel, **Aubrie Jean** beamed with pure, unguarded tenderness—and at the corner desk, **Zoë** adjusted her glasses and spoke up in her calm, crystal-clear London cadence:
+Instead, across the room on the sectional sofa, **Madison** let out a soft, affectionate sigh and rested her chin in her hands. **Lauren**, **Sarah**, **Jessica**, and **Hannah** exchanged the warmest, most knowing smiles imaginable. Beside Jordan's right wheel, **Aubrie Jean** beamed with pure, unguarded tenderness—and at the corner desk, **Zoë** adjusted her glasses and spoke up in her calm, crystal-clear London cadence:
 
 ```
 ZOË.Systems.Logs.KernelLog: Thread 2 (Observers) — Confession_Event: Agent(Isabel) verbally executed state declaration (Romantic_Love == TRUE -> Thread 3 [Jordan]). 08-19-2015 19:41:10
@@ -15463,15 +15463,15 @@ Isabel clapped her palm against his, laughing with bright, genuine delight. "Ang
 
 ---
 
-Ten minutes later, after Jordan had transferred into his matte-black ***S.S. Freedom*** (`Titan-X350`) power chair and **Mark** and **Hannah** had headed upstairs to help **Daniel** check the fluid levels in the family vans, the seven women of the **Constellation Pact**—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Megan**—gathered around the center queen bed and the sectional sofa with Jordan and Isabel.
+Ten minutes later, after Jordan had transferred into his matte-black ***S.S. Freedom*** (`Titan-X350`) power chair and **Mark** and **Hannah** had headed upstairs to help **Daniel** check the fluid levels in the family vans, the six women of the **Constellation Pact**—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica**—gathered around the center queen bed and the sectional sofa with Jordan and Isabel.
 
 **Aubrie Jean** sat down on the edge of the queen mattress right beside Isabel, reaching out to take both of Isabel's hands in hers.
 
-"Izzy," Aubrie Jean said warmly, her soft blue eyes radiating pure affection, "watching you with Jordan this morning only confirmed what all seven of us—and Jordan—have known for months. You already belong to this family. And now that you aren't our Resident Advisor anymore, we want to officially welcome you into our **No-Jealousy Pact**."
+"Izzy," Aubrie Jean said warmly, her soft blue eyes radiating pure affection, "watching you with Jordan this morning only confirmed what all six of us—and Jordan—have known for months. You already belong to this family. And now that you aren't our Resident Advisor anymore, we want to officially welcome you into our **No-Jealousy Pact**."
 
-Isabel's heart swelled, her fingers squeezing Aubrie's hands gratefully. "Thank you, Aubrie. Honestly, back at Bennett Hall across the hall in Room 215, I sort of suspected the seven of you had some kind of agreement so nobody would ever fight over Jordan or feel left out, though I never pried. I just want to love him, help take care of him, and never step on anyone's toes."
+Isabel's heart swelled, her fingers squeezing Aubrie's hands gratefully. "Thank you, Aubrie. Honestly, back at Bennett Hall across the hall in Room 215, I sort of suspected the six of you had some kind of agreement so nobody would ever fight over Jordan or feel left out, though I never pried. I just want to love him, help take care of him, and never step on anyone's toes."
 
-Aubrie Jean smiled—a warm, candid, completely unbothered smile—and glanced briefly at Madison, Zoë, Lauren, Sarah, Jessica, and Megan before looking right back into Isabel's dark eyes.
+Aubrie Jean smiled—a warm, candid, completely unbothered smile—and glanced briefly at Madison, Zoë, Lauren, Sarah, and Jessica before looking right back into Isabel's dark eyes.
 
 "You could never step on our toes, Izzy," Aubrie said gently. "That's the whole point of the Constellation Pact. None of us own Jordan, and none of us compete with each other. We share his life, we share his care, we share his heart—and I want to make sure I say this out loud so you don't think there's some hidden fine print: not only am I completely happy with you being in the Pact, Izzy, but **the No-Jealousy Pact includes being allowed to share Jordan's bed and have sex with Jordan**."
 
@@ -15485,17 +15485,15 @@ A nuclear-grade blush—ten times hotter and deeper than the one she had blushed
 ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — Agent(Isabel) thermal/vascular spike detected following Agent(Aubrie) explicit disclosure of Pact_Parameter("Full_Sexual_Intimacy_Authorized == TRUE"). Facial_Capillary_Flush == 100.0% (MAX_LIMIT). Speech_Buffer == STALLED. 08-20-2015 10:18:44
 ```
 
-"S-s-sex?!" Isabel squeaked, her voice jumping a full octave as her hands flew up to cover her flaming cheeks behind her glasses. She stared at Aubrie Jean, then at Jordan, and then around at Madison, Zoë, Lauren, Sarah, Jessica, and Megan, unable to believe her ears. "Wait—you mean—all of you—with Jordan—and you're saying I'm allowed to—with *zero* jealousy?!"
+"S-s-sex?!" Isabel squeaked, her voice jumping a full octave as her hands flew up to cover her flaming cheeks behind her glasses. She stared at Aubrie Jean, then at Jordan, and then around at Madison, Zoë, Lauren, Sarah, and Jessica, unable to believe her ears. "Wait—you mean—all six of you—with Jordan—and you're saying I'm allowed to—with *zero* jealousy?!"
 
-"Zero jealousy," **Madison** confirmed cheerfully from the sofa pillow, grinning at Isabel's scarlet face. "Megan had the exact same reaction when we told her in January!"
+"Zero jealousy," **Madison** confirmed cheerfully from the sofa pillow, grinning at Isabel's scarlet face. "Sarah and Jessica had the exact same reaction when we welcomed them in!"
 
-"Wait, *Megan* too?!" Isabel gasped, looking over at Zoë's twenty-seven-year-old sister, who gave a warm, slightly sheepish wave from the armchair.
-
-"Can confirm," **Megan** laughed softly. "My brain blue-screened for about forty-eight hours when Aubrie and Zoë explained it to me, Izzy. Take all the breaths you need."
+"Can confirm," **Jessica** laughed warmly, raising a hand from the armchair beside **Sarah**. "My brain completely blue-screened for about twenty-four hours when Aubrie and Zoë explained it to us, Izzy. Take all the breaths you need."
 
 Isabel pressed the backs of both hands against her burning cheeks, letting out a long, dizzying exhale as she looked between Jordan's gentle, reassuring smile and Aubrie Jean's steady eyes.
 
-"Okay—okay, wait, let me just catch my breath!" Isabel stammered, still blushing furiously from ear to ear even as a shaky smile tugged at the corners of her mouth. "The romance part—loving Jordan, kissing him, holding him, helping him with his ADLs—that part I'm a hundred percent fine with! My heart has wanted that since last fall! It's just... wrapping my head around the concept that the No-Jealousy Pact actually includes being allowed to have *sex* with Jordan—and that his girlfriend and six other women are actively encouraging me to do it—I think I need a little time to think about things and let my brain process that!"
+"Okay—okay, wait, let me just catch my breath!" Isabel stammered, still blushing furiously from ear to ear even as a shaky smile tugged at the corners of her mouth. "The romance part—loving Jordan, kissing him, holding him, helping him with his ADLs—that part I'm a hundred percent fine with! My heart has wanted that since last fall! It's just... wrapping my head around the concept that the No-Jealousy Pact actually includes being allowed to have *sex* with Jordan—and that his girlfriend and five other women are actively encouraging me to do it—I think I need a little time to think about things and let my brain process that!"
 
 <aac>Take all the time in the world, Izzy,</aac> Jordan's tablet said immediately, his voice warm and completely free of pressure as he reached over and rested his hand gently over hers on her knee. <aac>There is never a clock or an expectation in this room. Just having you here with us—without a clipboard between us—is already everything I hoped for.</aac>
 
