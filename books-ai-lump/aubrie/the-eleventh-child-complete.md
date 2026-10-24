@@ -16404,7 +16404,7 @@ When they all regrouped in the foyer a few minutes later, the aroma of fresh cof
 
 "A hot breakfast is the logical next step to restore core body temperature," **Zoë** affirmed.
 
-Riding the Kincaid Hall elevator up to the main dining room, they claimed a long oak booth near the back windows—their old familiar Freshman Year breakfast spot—and thawed out over steaming plates of scrambled eggs, bacon, blueberry pancakes, and bowls of hot oatmeal while [*"The New Normal (6:00 AM)"* by **The Paper Wall**](https://music.raggiesoft.com/artists/the-paper-wall/2003-eleventh-child-book-2?track=1-01-the-new-normal-6-00-am) pulsed through the rhythm of their morning recalculation.
+Riding the Kincaid Hall elevator up to the main dining room, they claimed a long oak booth near the back windows—their old familiar Freshman Year breakfast spot—and thawed out over steaming plates of scrambled eggs, bacon, blueberry pancakes, and bowls of hot oatmeal.
 
 "I am never going to get used to that five o'clock alarm," Mark grumbled good-naturedly around a forkful of scrambled eggs.
 
@@ -16763,7 +16763,7 @@ For nearly two decades under **Aubrie Sinclair's** roof, Jordan's cardiovascular
 
 At `9:25 AM`—twenty-five minutes into the lecture—Jordan felt a strange, unfamiliar sensation in the center of his chest.
 
-At first, as the bright 1980s optimism of his new life was violently severed by the terrifying, erratic pulse of [*"Friday, 9:32 AM (The Attack)"* by **The Paper Wall**](https://music.raggiesoft.com/artists/the-paper-wall/2003-eleventh-child-book-2?track=1-09-friday-9-31-am-the-attack), he thought it was just indigestion from breakfast or a brief wave of sensory fatigue.
+At first, he thought it was just indigestion from breakfast or a brief wave of sensory fatigue.
 
 *No. This isn't anxiety.*
 
