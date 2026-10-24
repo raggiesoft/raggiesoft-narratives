@@ -14491,6 +14491,317 @@ Isabel let out a shaky, grateful breath, fanning her still-blushing cheeks with 
 
 <aac>See you both at ROA in August,</aac> Jordan typed, giving Isabel and Henry a warm wave before the call signed off—and even as the screen faded out, Isabel was still blushing and smiling from ear to ear.
 
+## Southern Cross Winter and the Real Liverpool (Sydney & Liverpool, NSW)
+
+### Scene 1: Southern Cross Airways and Smart Card Number Seven
+
+**Date:** 2015-07-19 at 09:30 Australia/Sydney
+
+When the widebody **Southern Cross Airways** jet touched down on Runway 16R extending into Botany Bay at **Sydney Kingsford Smith International Airport (`SYD`)** after a seven-and-a-half-hour overnight flight south from Singapore, **Jordan Fuller** had officially crossed into the Southern Hemisphere for the first time in his life.
+
+Six weeks earlier, back in the study on Geneva Street in Christiansburg, the words *"two weeks in Australia in July and August"* had briefly triggered a spike of anxiety in Jordan's chest. Having spent eighteen years locked inside a second-floor bedroom in the Northern Hemisphere, Jordan had heard *"August"* and immediately pictured a lethal, one-hundred-and-twenty-degree Australian summer—blistering heatwaves, scorching pavement, and overheated wheelchair motors.
+
+It had taken **Jessica Gallagher** five minutes with a desk globe and a weather chart of New South Wales and the Northern Territory to gently dismantle that Northern Hemisphere illusion.
+
+*"Mate, we're south of the equator,"* Jessica had grinned back in May, tapping the bottom half of the globe with her knuckle. *"When Virginia is sweating through July and August, Australia is in the dead of winter. Sydney sits around a crisp sixty-two degrees in the afternoon, and out at my family's roadhouse in the Petermann desert, you'll be scraping white winter frost off your tires at dawn."*
+
+As the airport ground crew delivered Jordan's matte-black power chair to the forward aircraft door at **Sydney Terminal 1** and Jordan rolled up the jet bridge through Australian Customs and Quarantine, he felt the truth of Jessica's words the instant the automatic glass doors slid open to the outdoor arrivals concourse.
+
+Gone was the warm, eighty-six-degree equatorial air of Singapore. In its place was a brisk, crystal-clear, sixty-one-degree **Southern Hemisphere winter morning** carrying the clean salt tang of the Tasman Sea—so crisp and invigorating that Jordan happily zipped his maroon **Commonwealth Polytechnic Institute** fleece jacket up to his chin while **Sarah Braithwaite** and **Jessica Gallagher** took deep, nostalgic breaths of home.
+
+"Smell that eucalyptus and harbour salt!" **Sarah** beamed, her Sydney accent richer and brighter than ever as she bounced on her toes beside **Lauren**. "Welcome to New South Wales, family! Ready to claim the final trophy in the sleeve, J?"
+
+<aac>Seven of seven,</aac> Jordan's `"Sydney"` voice—which now matched the accent of every customs officer and station attendant around them—announced proudly. <aac>Lead the way to the station elevator, Sarah.</aac>
+
+Following the blue wheelchair pictograms across the terminal concourse, the eighteen travelers rode the wide glass lift down to the underground platform of **International Airport Station**, served by the **Transit NSW / Sydney Rail** network.
+
+Right beside the wide accessible faregate stood the customer service counter and smart-card vending kiosk. With the entire family gathered around him in a grinning semicircle, Jordan rolled up to the lowered counter window and purchased his seventh and final international transit card of the summer: the glossy teal-and-navy **`HarbourCard`**, emblazoned with a stylized geometric wave of Sydney Harbour.
+
+Jordan pulled the clear collector's binder sleeve from his side bag and slid the **`HarbourCard`** into the seventh pocket, completing the global grid he had started building six weeks earlier across four continents:
+
+1. **`NordicPass`** — *Reykjavik Capital Transit (`RCT`), Reykjavik, Iceland*
+2. **`Pearl Card`** — *London Transport Authority (`LTA`), London, England, UK*
+3. **`MerseyPass`** — *Mersey Transit, Liverpool, Merseyside, England, UK*
+4. **`Midori Card`** — *Nippon Rail East (`NR East`) & Tokyo Rapid Subway, Tokyo, Japan*
+5. **`KansaiPass`** — *Nippon Rail West (`NR West`) & Osaka Rapid Subway, Osaka, Japan*
+6. **`MerlionLink Card`** — *Singapore Mass Rapid Transit (`SMRT`), Singapore*
+7. **`HarbourCard`** — *Transit NSW / Sydney Rail, Sydney & Liverpool, New South Wales, Australia*
+
+Beside Jordan's armrest, **Zoë** smiled warmly and tilted her **mPad** screen slightly toward him—openly sharing her cognitive telemetry now that the secret was out:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — Global.Transit.Artifact.Array[1..7]: COMPLETE (100.00%). Final node acquired: Card_07("HarbourCard", Agency: "Transit_NSW", City: "Sydney_AU"). 07-19-2015 09:44:12
+ZOË.Systems.Logs.EmotionalStateLog: Thread 1 (Self) & Thread 3 (Jordan) — Shared.Satisfaction.Index: MAXIMUM. Zero missing indices in collection array. 07-19-2015 09:44:15
+```
+
+<aac>Array complete with zero missing indices,</aac> Jordan typed back to Zoë with a grin before tapping his new **`HarbourCard`** against the circular reader on the wide accessible gate.
+
+With a cheerful *ding*, the glass barriers swung open. On the platform below, a silver double-decker **T8 Airport & South Line** train glided to a stop, and a uniformed **Sydney Rail** station attendant stepped out with a lightweight folding boarding ramp to bridge the threshold into the vestibule's dedicated wheelchair space.
+
+Twenty minutes later, the train emerged from the underground city tunnel onto the elevated viaduct of **Circular Quay Station**, and Jordan rolled out onto the wide, level granite foreshore promenade of **Sydney Cove**.
+
+Directly to his right, gleaming like giant porcelain seashells against the deep cobalt blue of the harbour and a cloudless winter sky, stood the soaring white sails of the **Sydney Opera House**. Directly to his left rose the monumental grey steel arch of the **Sydney Harbour Bridge**, while green-and-gold **Circular Quay** ferries churned across the sparkling water between the harbour headlands.
+
+Jordan parked his chair along the accessible harbourside railing between **Aubrie**, **Sarah**, and **Jessica**, letting the cool sixty-four-degree July winter breeze wash over his face as his `"Sydney"` voice spoke softly over the sound of the waves.
+
+<aac>Ten thousand miles from Virginia,</aac> Jordan typed, looking out across the harbour toward the Opera House sails. <aac>And the air feels just like late October in Blacksburg.</aac>
+
+### Scene 2: Right Liverpool, Everyone! (Liverpool, New South Wales)
+
+**Date:** 2015-07-21 at 11:30 Australia/Sydney
+
+On Tuesday morning, it was time to close the loop on a ten-thousand-five-hundred-mile joke.
+
+At **Circular Quay Station**, Jordan tapped his **`HarbourCard`** at the wide accessible gate and led the eighteen travelers aboard a step-free, double-decker **T2 Inner West & South Line** commuter train heading southwest across the sprawling suburbs of **Greater Western Sydney**.
+
+For fifty minutes, **Sarah Braithwaite** sat right beside **Lauren** and **Jordan** in the accessible vestibule carriage, pointing out every landmark through the wide glass windows as the urban towers of central Sydney gave way to brick bungalows, towering eucalyptus gums, rugby ovals, and the winding bends of the **Georges River**.
+
+At eleven-twenty-eight, the automated chime sounded overhead: *"Next stop: Liverpool. Doors will open on the left."*
+
+When the station attendant deployed the boarding ramp onto the level concrete platform and the group rolled out past the faregates into the sunny forecourt of **Liverpool Station, New South Wales**, **Mark**, **Madison**, and **Lauren** immediately Recreated their formation from six weeks earlier in Merseyside—lining everyone up directly in front of the large white-and-orange **`LIVERPOOL STATION`** sign beneath a canopy of Australian gum trees.
+
+Only this time, **Sarah Braithwaite** didn't give a thumbs-down.
+
+Standing right beside Jordan's matte-black power chair in the crisp sixty-five-degree winter sunshine, Sarah threw one arm around Lauren's waist, pointed at the **`LIVERPOOL`** sign with a radiant grin, and gave a triumphant thumbs-up to the camera.
+
+"**Right Liverpool, everyone!**" Sarah cheered at the top of her lungs as all eighteen of them burst into laughter and applause. "Zero Irish Sea fog, one hundred percent Greater Western Sydney, and not a single narcissist ex-boyfriend within ten thousand miles!"
+
+Jordan's fingers flew across his **Pinnacle Vanguard Pro** keyboard as Lauren snapped the companion photograph to their Merseyside picture:
+
+<aac>Iteration 2 of 2: Liverpool, New South Wales, Australia (33.9200° S, 150.9255° E),</aac> Jordan's `"Sydney"` voice announced to a chorus of cheers. <aac>Query resolved. Correct hemisphere confirmed. You owe the family meat pies and flat whites, Sarah.</aac>
+
+"And a Braithwaite always pays her debts!" Sarah laughed, kissing Jordan's cheek before leading the procession two blocks down the level footpath of **Macquarie Street** to her favorite childhood bakery, where she treated the entire eighteen-person family to flaky, piping-hot Australian meat pies, sausage rolls, and velvety flat white coffees.
+
+From the bakery, they walked ten minutes down a quiet, tree-lined residential street near the Georges River to the single-story brick **Braithwaite family homestead**—where Sarah's aunts, uncles, cousins, and childhood neighbors had spent the morning setting up a massive backyard winter barbecue on the wide, step-free concrete patio under the gum trees.
+
+The afternoon was pure, unhurried warmth. While Sarah's Uncle Mick manned the sizzling flat-top barbie—grilling marinated lamb chops, beef sausages, caramelized onions, and burgers topped with sliced beetroot and grilled pineapple—Jordan rolled smoothly across the level patio, chatting effortlessly with Sarah's cousins as his `"Sydney"` voice blended right into the backyard banter.
+
+Toward the end of the afternoon, as they sat around the patio table drinking cold ginger beer in the slanting golden winter sunlight, Sarah's Uncle Mick clapped **Jessica Gallagher** on her six-foot-three shoulder.
+
+"So, Jess," Uncle Mick grinned, nodding toward Sarah. "You're taking our Liverpool city girl out to your folks' roadhouse in **Petermann** next week? You do know the furthest west Sarah's ever been in her life is the Blue Mountains cable car, right?"
+
+At the end of the table, **Sarah's** cheeks turned pink as she hid behind her ginger beer bottle.
+
+"Wait a second," **Mark** grinned, leaning forward across the table. "Hold everything. Sarah, you're Australian—have you seriously never been to the Outback?"
+
+"I grew up in **Greater Sydney**!" Sarah protested, laughing as **Lauren** and **Madison** teased her mercilessly. "Liverpool has train lines, shopping malls, and espresso bars! The **Northern Territory** is two thousand kilometers of red dirt, road trains, and freezing desert nights! I'm a hundred percent a suburban city girl—I need Jessica and her twin sister Bec to teach me how not to freeze in a swag just as much as the rest of you!"
+
+"Too right you do, Braithwaite," **Jessica** chuckled warmly, flexing her sun-bronzed arm as she looked around the table at Jordan, Sarah, Mark, and the rest of the Pact. "Out in **Petermann**, we're three hours of corrugated red dirt past the **Uluṟu** airstrip—the very last fuel bowser and mechanics' bay before three hundred kilometers of empty desert scrub. And since Bec and Dad just finished welding a custom steel treadplate ramp onto the homestead verandah for Jordan's chair, class starts the second we touch down in the Red Centre."
+
+## Frost on the Red Dirt and the Thirty-Five-Hour Gauntlet (Petermann Outback & Return to ROA)
+
+### Scene 1: Uluṟu and the Three-Hour Corrugated Track to Gallagher's Roadhouse
+
+**Date:** 2015-08-01 at 11:30 Australia/Darwin
+
+On the first morning of August, thirty minutes before their **Southern Cross Airways** jet began its descent into **Connellan Airport (`AYQ`)** in the heart of Australia's **Northern Territory**, **Jordan Fuller** looked out his oval cabin window at the vast, rust-red expanse of the Central Desert.
+
+Rising solitary and immense from the flat crimson plain below was the ancient sandstone monolith of **Uluṟu**, glowing like a deep ember beneath the cloudless winter sun.
+
+Across the aisle, **Jessica Gallagher** leaned over and spoke quietly to Jordan, Daniel, and the rest of the family.
+
+"Out there is **Uluṟu**," Jessica said, her voice carrying deep respect. "A lot of tourists fly into this airstrip thinking it's just a big rock to climb for a holiday snapshot. Back in 2015, the chain up the steep sandstone face hasn't been permanently closed yet, so you'll still see ignorant people scrambling up the forty-six-degree cliff. But to the **Aṉangu** people—the traditional custodians who have lived on this land for tens of thousands of years—that monolith is sacred law, or *Tjukurpa*. The Aṉangu elders ask every visitor at the base to respect their law and not climb."
+
+Jordan didn't hesitate for a single second.
+
+Opening the master itinerary file inside **`NeoEdit`** on his **Pinnacle Vanguard Pro**, Jordan typed a formal executive directive and transmitted it to every phone and tablet in their eighteen-person party—a timestamped document that **Ms. Helen Gable** would enter seventeen days later in Courtroom 3B as **Respondent's Exhibit E**:
+
+> **EXECUTIVE ITINERARY DIRECTIVE — LEG 7 (NORTHERN TERRITORY)**<br>
+> **Issued By:** Jordan Fuller (Chief Navigator)<br>
+> **Timestamp:** `2015-08-01 11:12 ACST`<br>
+> **Directive:** Out of respect for the **Aṉangu** traditional custodians and Indigenous law, all eighteen members of our expedition will strictly honor the request of the Aṉangu elders. No member of our party will set foot on the Uluṟu climb path. We will pay our respects exclusively along the level, accessible base cultural trail and proceed directly to **Gallagher's Roadhouse** in **Petermann**.
+
+"Unanimously approved, Chief Navigator," **Daniel** said warmly, resting a hand on Jordan's shoulder as the aircraft tires touched down on the desert runway at **Connellan Airport (`AYQ`)**.
+
+Waiting outside the single-story bush terminal stood a rugged convoy of three heavy-duty, long-wheelbase four-wheel-drive overland rigs outfitted with steel bullbars, rooftop dual spare tires, high-mount desert air snorkels, and—on the lead vehicle—a custom hydraulic wheelchair platform lift welded onto the rear chassis.
+
+Leaning against the lead bullbar alongside Jessica's parents, **Callum and Fiona Gallagher**, stood a young woman who made **Mark**, **Madison**, and **Sarah** do an immediate double-take.
+
+She was six feet three inches tall, broad-shouldered, and heavily muscled, wearing grease-stained work boots, khaki canvas cargo trousers, and a sleeveless flannel work shirt—and her sun-bronzed face and braided blonde hair were a carbon-copy mirror image of **Jessica**.
+
+"Everyone," Jessica grinned as she strode across the red gravel and swept her identical twin sister into a bone-crushing bear hug, "meet my twin sister, **Rebecca—'Bec'—Gallagher**, chief diesel mechanic of Petermann!"
+
+"G'day, legends!" **Bec** boomed, her Northern Territory drawl identical to Jessica's as she shook Daniel's hand and walked right up to Jordan's power chair with a huge, grease-smudged grin. "Jess told me you've got a three-hundred-and-fifty-pound high-torque beast of a rig here, Jordan! Wait till you see the steel treadplate ramp Dad and I welded onto the homestead verandah—you could drive a road train up it!"
+
+<aac>Seeing two six-foot-three Gallaghers at the same time is breaking my optical sensors,</aac> Jordan's `"Sydney"` voice joked, making both twins roar with laughter. <aac>Thank you for building the ramp, Bec.</aac>
+
+After pausing respectfully along the level, red-sand base cultural trail of **Uluṟu** to admire the ancient rock art caves and read the **Aṉangu** cultural plaques, the convoy turned west onto the **Great Central Road (*Tjukaruru Road*)**.
+
+Ten minutes past the boundary, the asphalt ended completely.
+
+Callum and Bec pulled the three 4WD rigs onto the shoulder and used portable deflators to drop the air pressure in every 10-ply off-road tire down to twenty-six pounds per square inch (`psi`) to absorb the brutal, washboard-like iron-oxide corrugations of the unsealed red-dirt track. Twenty minutes later, the last bar of cellular service vanished from every screen in the convoy.
+
+For three solid hours, they drove deeper and deeper into the vast **Petermann** bush—passing towering red sand dunes, silver-green desert oaks, and thorny spinifex grass—until the corrugated-iron roof, towering rainwater tanks, solar array, and high-flow diesel bowsers of **Gallagher's Roadhouse** rose out of the crimson plain like an oasis at the edge of the earth.
+
+True to Bec's word, welded seamlessly onto the wide, shaded timber-and-steel verandah of the Gallagher family homestead sat a massive, zero-lip steel diamond-plate ramp. Jordan gripped his joystick and drove his 350-pound power chair straight up onto the verandah to the sound of eighteen voices cheering across the silent desert.
+
+### Scene 2: Twenty-Eight Degrees at Dawn (Frost on the Tires)
+
+**Date:** 2015-08-05 at 06:15 Australia/Darwin
+
+Out at **Gallagher's Roadhouse**—the final outpost of fuel, artesian bore water, and mechanical repair before three hundred kilometers of uninhabited desert scrub stretching toward the Western Australian border—life ran on strict seasonal physics.
+
+During the afternoon, the **August winter** weather was brisk and glorious: sixty-eight degrees Fahrenheit (`20°C`) under a dome of blindingly clear blue sky with bone-dry ten percent relative humidity. And it was out on the packed red-dirt yard and bush tracks around the compound that **Daniel** and **Jordan** discovered an unexpected mechanical triumph.
+
+Back in Virginia the previous autumn, Daniel had ordered Jordan's matte-black, three-hundred-and-fifty-pound power wheelchair with over-specced high-torque brushless motors, heavy-duty coil-over active suspension, and deep-lugged pneumatic tires purely so Jordan could climb the steep Appalachian grades of **Bennett Hill** and the **Academic Quadrangle** at **CPI** in Blacksburg. Neither of them had ever imagined that engineering a wheelchair for the mountains of Southwest Virginia would inadvertently turn it into a legitimate **Northern Territory bush rig**—capable of rolling across Petermann red gravel and spinifex tracks without a single wheel slip.
+
+Every afternoon at three-thirty, before the sun began to sink, Jordan rolled into the multi-bay **Mechanical & Welding Workshop**—Jessica and Bec's domain—where the twins taught him the daily discipline of **Bulldust Purge**.
+
+"Out here in the Red Centre, the dirt isn't sand—it's iron-oxide bulldust ground finer than talcum powder," **Bec** explained, handing Jordan the insulated nozzle of the workshop's industrial air compressor while wearing her safety goggles. "If you leave fine red dust sitting inside your actuator seals and motor housings overnight, the pre-dawn winter frost and condensation will turn it into red cement by morning. Give those housings a clean thirty-psi blowout from the inside out."
+
+Wearing his own safety glasses and work gloves, Jordan methodically directed the compressed-air jet across his dual motor housings, suspension pivots, and wheel bearings, blasting clouds of rust-red dust out onto the concrete workshop apron until the metal shone clean.
+
+At four-thirty every afternoon, **Callum and Fiona Gallagher** initiated **Sundown Thermal Protocol**.
+
+Because the Central Desert air held almost zero moisture and zero cloud cover to trap the day's warmth, the moment the sun dropped below the western horizon, the heat radiated straight out into space. Within four hours, the temperature plummeted nearly **fifty degrees Fahrenheit**.
+
+After dinner around the blazing mulga-wood fire pit—where the family ate Fiona's homemade meat pies and drank hot billy tea—Callum cut the main yard floodlights so the diesel generators could throttle down into night-quiet mode.
+
+Looking up from his power chair in the freezing, crystal-clear desert darkness, **Jordan**—the rising sophomore Astrophysics major—was left completely breathless.
+
+With zero light pollution for hundreds of kilometers and zero summer heat haze in the sub-freezing winter air, the **Bortle Class 1** night sky blazed overhead with a brilliance Jordan had only ever seen in space-telescope photographs. Arching from horizon to horizon hung the blazing core of the **Milky Way**, the cuatro-star diamond of the **Southern Cross (`Crux`)**, the ink-black silhouette of the **Coalsack Dark Nebula**, and two entire neighboring dwarf galaxies visible to the naked eye: the **Large and Small Magellanic Clouds**.
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) & Thread 3 (Jordan) — Astrophysical.Observation.Mode: ACTIVE at Node(Petermann_NT, 25.1581° S, 130.9889° E). Sky_Quality: Bortle_Class_1 (Zero light pollution). Ambient_Temp: 31.4°F (-0.3°C) and falling. 08-04-2015 22:18:04
+ZOË.Systems.Logs.EmotionalStateLog: Thread 3 (Jordan) — Cognitive.State: Transcendent_Awe. Observing Large_Magellanic_Cloud (163,000 light-years) & Crux constellation in real time. 08-04-2015 22:18:09
+```
+
+The next morning at six-fifteen—just as the first pink and gold light of dawn touched the desert horizon—Jordan dressed in his merino wool base layers, his insulated windproof jacket, and his thermal gloves, unplugged his chair's insulated battery charger from the homestead generator circuit, and rolled down the steel treadplate ramp onto the forecourt alongside **Daniel**, **Jessica**, and **Lauren**.
+
+The calibrated digital weather station mounted to the roadhouse verandah post read **`27.8°F (-2.3°C)`** on **`August 5, 2015`**.
+
+Stretching across the entire compound, a thick, sparkling blanket of **white winter frost** coated the iron-oxide red dirt, the spinifex clumps, the steel fuel bowsers, and the deep rubber treads of Jordan's wheelchair tires.
+
+"Look at that—white ice on red desert sand in the middle of August," **Daniel** murmured, pulling out his camera as **Lauren** held up the roadhouse's digital thermometer display next to Jordan's frost-rimmed front casters. "Smile, Jordan. Let's take a few timestamped shots for the family album."
+
+Neither Jordan nor Daniel knew it at six-fifteen that frosty Wednesday morning, but the geolocated photographs they snapped of white winter frost coating Jordan's wheelchair tires at twenty-eight degrees Fahrenheit were about to become **Respondent's Exhibit D**—the exact piece of physical evidence that would obliterate **Aubrie Sinclair** and **Mr. Davies** on the record in a Virginia courtroom thirteen days later.
+
+### Scene 3: The Satellite Phone at Three-Thirty in the Morning
+
+**Date:** 2015-08-09 at 03:30 Australia/Darwin
+
+At three-thirty on Sunday morning in the **Northern Territory**—while the outside desert temperature sat at twenty-six degrees below freezing and the entire roadhouse compound slept in dead silence—the fixed **satellite telephone** inside the Gallagher homestead office began to ring.
+
+Because three-thirty in the morning in Central Australia (`UTC+09:30`) was **two o'clock on Saturday afternoon** in **Christiansburg, Virginia** (`UTC-04:00`), only an urgent call from the East Coast of the United States would ever come through the homestead's fixed satellite dish at that hour.
+
+**Daniel Brooks** was awake and in the office within four rings.
+
+Ten minutes later, a soft knock sounded on the door of the accessible homestead donga suite shared by **Jordan**, **Mark**, **Aubrie**, and **Zoë**.
+
+When Jordan transferred into his power chair with Mark's quiet help and rolled out into the warm homestead kitchen, he found **Daniel**, **Laura**, and **Jessica** gathered around the heavy timber table with steaming mugs of tea while the satellite data terminal hummed on the desk behind them.
+
+"Everything is completely under control, Jordan," **Daniel** said immediately, his voice calm, steady, and transparent as he pulled out a chair beside Jordan's right armrest. "Five minutes ago, our next-door neighbor on Geneva Street in Christiansburg called our emergency satellite number. At two o'clock this afternoon Virginia time, a private process server knocked on our front door in Christiansburg attempting to serve legal papers."
+
+Jordan's hands remained completely still over his keyboard. His heart rate ticked up slightly, but the old terror that used to paralyze him at the mention of his mother was gone.
+
+<aac>My mother,</aac> Jordan typed cleanly. <aac>What did she file?</aac>
+
+"She hired a Virginia Beach attorney named **Mr. Davies** and filed an emergency petition in the **Montgomery County Circuit Court** seeking full adult **Guardianship and Conservatorship** over your person and your estate," Daniel explained, laying a faxed summary sheet from his legal team on the table. "She is claiming to the court that you are an incapacitated adult with the cognitive comprehension of a young child, and that Laura and I 'abducted' and 'endangered' you by taking you out of the country. Judge Harrison declined her request for an *ex parte* seizure order, appointed an independent **Guardian ad Litem** named **Ms. Evelyn Caldwell** to investigate, and set the full evidentiary hearing on the merits for **Tuesday, August 18 at 9:30 AM** in **Courtroom 3B** in Christiansburg."
+
+Around the kitchen table, **Aubrie**, **Zoë**, and **Mark** stiffened with protective fury—and then all four of them looked at Jordan.
+
+Instead of crashing into a `System.IO.FileNotFoundException()`, Jordan looked down at the calendar on his **Pinnacle Vanguard Pro** screen and ran the math.
+
+<aac>Our pre-booked return flights depart Connellan Airport on August 16 and land at Roanoke-Blacksburg Regional Airport at 6:30 PM on Monday, August 17,</aac> Jordan's `"Sydney"` voice stated with crystal clarity. <aac>That puts us back in Christiansburg fifteen hours before Judge Harrison bangs the gavel. Do we need to cut our trip short?</aac>
+
+A slow, fiercely proud smile spread across **Daniel's** face.
+
+"I just spoke on the second satellite channel with our family counsel in Christiansburg, **Ms. Helen Gable**, and with your court-appointed Guardian ad Litem, **Ms. Evelyn Caldwell**," Daniel replied. "Ms. Gable and Ms. Caldwell both agreed: **we do not cut your trip short by a single hour**. If we scrambled to buy emergency tickets and fled home early, your mother's lawyer would claim we were hiding something. By finishing the exact two-week Outback educational itinerary we booked months ago and walking into Courtroom 3B on Tuesday morning right on schedule, we prove that your life runs on calm, deliberate order."
+
+Beside Jordan, **Zoë's** eyes gleamed behind her glasses as her cognitive logger compiled the entire courtroom defense matrix in real time:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Hostile_Legal_Filing.Detected(Petitioner: "Aubrie_Sinclair", Venue: "Montgomery_County_Circuit_Court", Date: "2015-08-18 09:30 EDT"). 08-09-2015 03:52:10
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 3 (Jordan) — Processor_Stability: 100.00% (Zero kernel panic). Return_Routing(AYQ -> SYD -> LAX -> CLT -> ROA) arrives 2015-08-17 18:30 EDT (T-minus 15.0 hours before hearing). 08-09-2015 03:52:14
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Compiling evidentiary packet for Counsel(Helen_Gable) & GAL(Evelyn_Caldwell): [1] CPI OEA & Residence Life witnesses (Higgins, Brennan, Dawson, Walsh); [2] International Medical Insurance Audit; [3] Southern Hemisphere Winter Meteorological Logs (27.8°F frost on tires). Probability(Petitioner_Defeat) == 99.98%. 08-09-2015 03:52:19
+```
+
+"Wait till Ms. Gable sees the rest of the petition," **Jessica** added with a low, lethal chuckle as she read the second faxed page over Daniel's shoulder. "Your mum's lawyer wrote that Daniel endangered you by dragging you into the Australian Outback during the *'unforgiving heat of August.'* The absolute drongo thinks August in Australia is summer!"
+
+Jordan looked out the frosted kitchen window at the sub-freezing Petermann desert, then looked back at Daniel, Aubrie, Zoë, Mark, and Jessica.
+
+<aac>Transmit our weather station logs, my Uluṟu directive, and our witness list to Ms. Gable and Ms. Caldwell via satellite,</aac> Jordan typed calmly. <aac>And let's ask Ms. Higgins, Kelsey Brennan, Isabel, and Henry if they are willing to meet us at the Montgomery County Courthouse on Tuesday morning. For the next seven days, we finish our trip.</aac>
+
+### Scene 4: Thirty-Five Hours to Roanoke (The Gate Hug)
+
+**Date:** 2015-08-17 at 18:30 America/New_York
+
+Thirty-five hours.
+
+Ten thousand five hundred miles.
+
+Four separate aircraft, four manual aisle-chair transfers, and fifteen time zones.
+
+On Sunday morning, August 16, in the Northern Territory, **Jordan Fuller** and his seventeen traveling companions had hugged **Bec**, **Callum**, and **Fiona Gallagher** goodbye at **Connellan Airport (`AYQ`)** with rust-red **Petermann** desert dirt still packed deep into the rubber treads of Jordan's wheelchair tires.
+
+From the red heart of Australia, they had executed the longest, most grueling continuous transit gauntlet of Jordan's life:
+
+1. **Flight 1 (`AYQ ➔ SYD`)**: A three-hour flight aboard **Southern Cross Airways** from the Northern Territory across the Outback to **Sydney Kingsford Smith International Airport**.
+2. **Flight 2 (`SYD ➔ LAX`)**: A fourteen-hour transpacific crossing aboard a **Southern Cross Airways** widebody jet across the International Date Line into **Los Angeles International Airport (`LAX`)**—where Jordan rolled up to the **US Customs and Border Protection** booth in his reclaimed power chair and handed over his own United States Passport as a nineteen-year-old adult returning from four continents.
+3. **Flight 3 (`LAX ➔ CLT`)**: An overnight transcontinental domestic flight across the width of North America into **Charlotte Douglas International Airport (`CLT`)**.
+4. **Flight 4 (`CLT ➔ ROA`)**: A final fifty-minute regional hop north across the Virginia state line and over the emerald-green ridges of the **Blue Ridge Mountains**, touching down on the runway at **Roanoke-Blacksburg Regional Airport (`ROA`)** at six-twenty-two on the evening of **Monday, August 17, 2015**.
+
+By the time the ground crew at **Roanoke** brought Jordan's 350-pound matte-black power chair up to the forward cabin door of the regional jet and **Daniel** and **Mark** completed the fourth and final aisle-chair transfer of the marathon, Jordan was bone-tired. Every muscle in his shoulders ached from thirty-five hours of cabin altitude, his eyes felt heavy behind his glasses, and his circadian clock still thought it was morning in Sydney.
+
+Yet as Jordan powered on his **Pinnacle Vanguard Pro** and gripped his joystick to roll up the inclined jet bridge into the **Gate 4 Arrivals Concourse** at **`ROA`**, his heart was hammering with pure anticipation.
+
+Because right outside the jet-bridge door, standing side by side at the edge of the passenger corridor just past the security line—exactly as they had promised on the three-continent video call from Singapore a month earlier—were **Henry Walsh** and **Isabel Dawson**.
+
+"Welcome home to Virginia, Chief Navigator!" **Henry** boomed, his warm Roanoke grin lighting up the terminal as the eighteen weary travelers poured out of the jet bridge.
+
+Hugs erupted across the concourse all at once. **Mark**, **Daniel**, and **Hannah** swept **Henry** into enthusiastic embraces as Henry clapped Mark on the back, hugged **Aubrie**, **Zoë**, **Madison**, **Lauren**, **Sarah**, and **Jessica**, and leaned down to clasp Jordan's shoulder warmly.
+
+"Thirty-five hours from the Australian Outback and not a scratch on the paintwork!" Henry beamed at Jordan, before glancing playfully toward Isabel beside him. "And by the way, J—did Isabel tell you the best news about **Allegheny Commons** yet? When I got back from **LSEC** in London two weeks ago, Residence Life assigned me to **Apartment 115**—which means I'm her co-RA on the exact same floor again!"
+
+"Which he kept a total secret from me until the morning I unlocked the RA office door!" **Isabel** laughed, playfully swatting Henry's arm even as her dark brown eyes never once left Jordan.
+
+And then the crowd parted slightly, and **Isabel Dawson** stepped directly in front of Jordan's wheelchair.
+
+She was wearing a soft maroon **CPI** sundress, her dark hair falling in warm waves over her shoulders, and her eyes were already shimmering with unshed tears of sheer relief and joy.
+
+"Welcome home, Jordan," Isabel whispered, dropping to her knees right in front of his footrests and opening her arms wide.
+
+Jordan didn't even wait to type first.
+
+He eased his joystick forward half an inch, leaned out from his backrest, and wrapped both of his arms around Isabel's shoulders as tightly as he possibly could.
+
+The hug **Isabel** and **Jordan** shared right there in the middle of the **Roanoke-Blacksburg Regional Airport** concourse was so powerful, so fierce, and so overwhelmingly full of emotion that every single person in their twenty-person circle fell completely quiet.
+
+Isabel buried her face into the crook of Jordan's neck, wrapping both arms securely around his back and holding him with all her strength as warm, happy tears spilled freely down her glowing crimson cheeks onto the collar of his travel jacket. She breathed in the familiar, grounding presence of him after three whole months apart across oceans and time zones, her hands trembling slightly against his shoulder blades as if she wanted to shield him from every storm left in the world.
+
+Resting his cheek against her dark hair, Jordan held her tightly with one arm while his right hand reached down to tap the message he had already queued on his **Pinnacle Vanguard Pro** during the final descent over the Blue Ridge:
+
+<aac>I missed you so much, Isabel,</aac> Jordan's `"Sydney"` voice spoke softly right beside her ear, warm and steady in the quiet terminal. <aac>Every single country we visited, I couldn't wait to come home and see you. Thank you for waiting for me at the gate.</aac>
+
+Isabel let out a shaky, tearful breath against his collar, holding him even tighter for five long seconds before slowly pulling back just enough to look into his eyes—her hands still resting warmly over his forearms on his armrests, her cheeks flushed the deepest, most radiant shade of rose red anyone had ever seen.
+
+"I missed you every single day, Jordan," Isabel said, her voice thick with emotion as she wiped a happy tear from her cheek and smiled at him with her whole heart shining out of her dark eyes. "Seeing you roll off that plane safe and happy... you have no idea how much—"
+
+She caught herself by a millisecond—her breath hitching as her blush flared all the way to the tips of her ears, holding back the three words trembling on the tip of her tongue because she knew Jordan was exhausted from thirty-five hours in the air and had the biggest court hearing of his life at nine-thirty tomorrow morning.
+
+"—how much *everyone at CPI* has been counting the days until you got back!" Isabel finished brightly, though her fingers lingered affectionately over Jordan's hand for another beat before she stood up.
+
+Around the gate area, nobody said a word to tease her—because **everyone** had already figured it out.
+
+**Henry Walsh** exchanged a warm, knowing grin with **Mark** and **Daniel**. **Aubrie**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Laura** all smiled softly at one another with quiet delight.
+
+Beside Jordan's chair, **Zoë's** internal diagnostic telemetry logged the consensus of the entire terminal:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 7 (Campus_Allies: Isabel_Dawson) & Thread 3 (Jordan) — Physical.Reunion.Handshake("ROA_Gate_4_Embrace"): Duration 18.4 seconds. Compression_Amplitude: MAXIMUM. Emotional_Resonance: OFF_SCALE_HIGH. 08-17-2015 18:36:42
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 2 (Observers: All_19_Present_Nodes) — Consensus.State: 100.00% of observers (including Thread 3 [Jordan]) have independently verified that Thread 7 is head-over-heels in love with Thread 3. Verbal_Disclosure_Status(Thread 7): Still_Pending. System_Directive: Maintain patient, supportive silence until Thread 7 is ready to execute confession. 08-17-2015 18:36:48
+```
+
+And most importantly, **Jordan** knew it too.
+
+Looking up at Isabel's tear-bright eyes and radiant blush, Jordan felt a deep, quiet certainty settle into his chest that washed away half the ache of his thirty-five-hour journey. He knew exactly what she had almost said in Singapore, he felt every ounce of what she had just poured into that hug at Gate 4, and he was more than happy to wait until after tomorrow's battle for her to say it out loud when she was ready.
+
+<aac>Tomorrow morning at 8:30 AM, I meet my Guardian ad Litem in person for the first time at the Montgomery County Courthouse,</aac> Jordan typed, looking around the circle at Daniel, Laura, Aubrie, Zoë, Madison, Lauren, Sarah, Jessica, Hannah, Mark, Henry, and Isabel. <aac>And at 9:30 AM, we walk into Courtroom 3B and end my mother's control forever.</aac>
+
+"Isabel and I will be in the Witness Waiting Room with **Ms. Higgins**, **Kelsey**, **Jessica**, and **Mr. Brooks** at eight-thirty sharp," **Henry** promised, squaring his shoulders.
+
+"Get a good night's sleep on Geneva Street tonight, Jordan," **Isabel** said softly, squeezing his hand one more time with a fierce, loving smile. "Tomorrow morning, we stand behind you until the final gavel drops."
+
 # Jordan's Court Case
 
 ## The Southern Hemisphere
