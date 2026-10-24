@@ -14442,13 +14442,13 @@ Within three seconds, the split-screen chime sounded.
 
 On the left half of the screen appeared **Henry Walsh** in his sunlit student flat near Houghton Street in London, a mug of builder's tea in his hand and a huge grin on his face.
 
-On the right half of the screen appeared **Isabel Dawson** sitting at the sunny breakfast table of her parents' home in Charlottesville, wearing a soft maroon **Commonwealth Polytechnic Institute** cardigan over her summer sundress, her dark brown hair cascading over her shoulders.
+On the right half of the screen appeared **Isabel Dawson** sitting at the sunny breakfast table of her parents' home in Charlottesville, wearing blue jeans and a soft maroon **Commonwealth Polytechnic Institute** T-shirt, her dark brown hair cascading over her shoulders.
 
 "Good morning from Virginia, Good Afternoon from London, and Good Evening to Singapore!" **Henry** called out cheerfully as all eighteen members of the World Trek waved at the camera. "Look at that view behind your balcony window! Did the Chief Navigator conquer the equator?"
 
 <aac>Six for six on transit smart cards, Henry!</aac> Jordan's `"Sydney"` voice rang out proudly as he held his gleaming **`MerlionLink Card`** up to the webcam so both Henry and Isabel could see it. <aac>Singapore Changi Airport had a two-story butterfly garden inside the terminal, a butterfly landed right on my AAC screen, and every single SMRT subway station in the entire country is one hundred percent step-free with zero platform gap!</aac>
 
-On the right side of the split screen, **Isabel's** entire face lit up—and the very instant her eyes locked onto Jordan smiling in his wheelchair, a deep, radiant crimson blush bloomed across her cheeks, spreading all the way from the collar of her sundress to the tips of her ears.
+On the right side of the split screen, **Isabel's** entire face lit up—and the very instant her eyes locked onto Jordan smiling in his wheelchair, a deep, radiant crimson blush bloomed across her cheeks, spreading all the way from the collar of her CPI T-shirt to the tips of her ears.
 
 "Oh, Jordan, look at you!" Isabel beamed, her hands coming up to her glowing cheeks as she leaned closer to her laptop camera in Charlottesville, completely captivated by how healthy, sun-kissed, and relaxed he looked. "You look so happy! You don't have any tension in your shoulders at all! Have you been sleeping well? Did the ferry across the Seto Inland Sea go okay?"
 
@@ -14462,7 +14462,7 @@ Isabel froze mid-syllable.
 
 Her eyes went wide in sheer panic as her brain caught up with her tongue half a second before the word *love* left her lips.
 
-"—in *luck*!" Isabel blurted out, her voice pitching an octave higher as her face turned the exact color of her maroon CPI cardigan. "How madly in *luck* I am to have been your RA in Bennett Hall and to be your neighbor at **Allegheny Commons** this fall! Just—so, *so* lucky!"
+"—in *luck*!" Isabel blurted out, her voice pitching an octave higher as her face turned the exact color of her maroon CPI T-shirt. "How madly in *luck* I am to have been your RA in Bennett Hall and to be your neighbor at **Allegheny Commons** this fall! Just—so, *so* lucky!"
 
 For two full seconds, a hilarious, electric silence hung across three continents.
 
@@ -14730,7 +14730,7 @@ Jordan looked out the frosted kitchen window at the sub-freezing Petermann deser
 
 **Date:** 2015-08-17 at 18:30 America/New_York
 
-![Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson—who kneels before him in a soft maroon sundress with a deep rosy crimson blush and happy tears glistening on her cheeks—while Henry Walsh, Aubrie Jean Kelly, and Zoë Wren Brooks look on from a few steps back with warm, knowing smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c010-s004-roa-gate-hug.jpg)
+![Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson—who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks—while Henry Walsh, Aubrie Jean Kelly, and Zoë Wren Brooks look on from a few steps back with warm, knowing smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c010-s004-roa-gate-hug.jpg)
 
 Thirty-five hours.
 
@@ -14763,7 +14763,7 @@ Hugs erupted across the concourse all at once. **Mark**, **Daniel**, and **Hanna
 
 And then the crowd parted slightly, and **Isabel Dawson** stepped directly in front of Jordan's wheelchair.
 
-She was wearing a soft maroon **CPI** sundress, her dark hair falling in warm waves over her shoulders, and her eyes were already shimmering with unshed tears of sheer relief and joy.
+She was wearing blue jeans and a soft maroon **CPI** T-shirt, her dark hair falling in warm waves over her shoulders, and her eyes were already shimmering with unshed tears of sheer relief and joy.
 
 "Welcome home, Jordan," Isabel whispered, dropping to her knees right in front of his footrests and opening her arms wide.
 
