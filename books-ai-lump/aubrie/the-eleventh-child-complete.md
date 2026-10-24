@@ -14373,6 +14373,8 @@ She let out a quiet, deeply contented breath, looking out through the curved gla
 
 **Date:** 2015-07-16 at 20:45 Asia/Singapore
 
+![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing Supertrees and glass conservatory domes of Gardens by the Bay illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c008-s003-zoe-disclosure-singapore.jpg)
+
 At eight-forty-five that Thursday evening, after watching the towering vertical gardens of the **Supertree Grove** glow in synchronized waves of cobalt, emerald, and gold against the equatorial night sky, the eighteen travelers gathered on the wide, private outdoor sky terrace of their interconnected **Marina Bay** hotel suites.
 
 A warm, gentle breeze drifted off the water below. **Jordan** parked his power wheelchair near the glass balustrade between **Aubrie** and **Zoë**, while **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, **Daniel**, **Laura**, and the **Brooks** siblings—**Megan**, **Caleb**, **Chloe**, **Rebecca**, **Lucas**, **Owen**, and **Jacob**—settled into the cushioned terrace armchairs in a close, comfortable semicircle.
@@ -14639,6 +14641,8 @@ True to Bec's word, welded seamlessly onto the wide, shaded timber-and-steel ver
 
 **Date:** 2015-08-05 at 06:15 Australia/Darwin
 
+![At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c010-s002-outback-frost-tires.jpg)
+
 Out at **Gallagher's Roadhouse**—the final outpost of fuel, artesian bore water, and mechanical repair before three hundred kilometers of uninhabited desert scrub stretching toward the Western Australian border—life ran on strict seasonal physics.
 
 During the afternoon, the **August winter** weather was brisk and glorious: sixty-eight degrees Fahrenheit (`20°C`) under a dome of blindingly clear blue sky with bone-dry ten percent relative humidity. And it was out on the packed red-dirt yard and bush tracks around the compound that **Daniel** and **Jordan** discovered an unexpected mechanical triumph.
@@ -14725,6 +14729,8 @@ Jordan looked out the frosted kitchen window at the sub-freezing Petermann deser
 ### Scene 4: Thirty-Five Hours to Roanoke (The Gate Hug)
 
 **Date:** 2015-08-17 at 18:30 America/New_York
+
+![Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson—who kneels before him in a soft maroon sundress with a deep rosy crimson blush and happy tears glistening on her cheeks—while Henry Walsh, Aubrie Jean Kelly, and Zoë Wren Brooks look on from a few steps back with warm, knowing smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c010-s004-roa-gate-hug.jpg)
 
 Thirty-five hours.
 

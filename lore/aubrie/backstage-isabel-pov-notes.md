@@ -23,3 +23,14 @@
        - When he instinctively cups a hand behind his ear as she greets him, she immediately raises her speaking volume slightly and faces him directly so he can see her lips, never calling attention to his hearing or embarrassing him for not answering the knock.
        - She spots the wall outlet recessed awkwardly behind the desk legs where a wheelchair user cannot reach it, remembers the roll of double-sided mounting tape in her khaki pocket, and offers to mount his power strip right on top of the desk.
 
+
+---
+
+## 2. Post-Courtroom Roadmap (`e005/c002`): Isabel's Confession, ADL Training, and the No Jealousy Pact (`August 2015`)
+- **Timeline Placement:** Immediately following the triumphant conclusion of Jordan's guardianship/conservatorship hearing in Courtroom 3B ([`e005/c001/s006.md`](../../books/aubrie/e005/c001/s006.md)), now that Aubrie Sinclair has been permanently stripped of any legal threat and remanded for civil contempt.
+- **Core Narrative Beats to Write Next:**
+  1. **Isabel Admits the Truth:** After months of blushing, secret smiles, almost-slips on the Singapore video call (*"how madly in l— ... in luck!"*), and the powerful reunion hug at Gate 4 of `ROA` ([`e004/c010/s004.md`](../../books/aubrie/e004/c010/s004.md)), **Isabel Claire Dawson** finally admits out loud to Jordan (and the found family) what everyone has already figured out: **she is madly in love with Jordan**.
+  2. **Welcoming Isabel & Teaching Her Jordan's ADLs:** The found family warmly welcomes Isabel into their inner circle and teaches her hands-on how they perform **Jordan's Activities of Daily Living (`ADLs`)** with him—respecting his 100% cognitive sovereignty, consent cues, and the `45-degree` two-person transfer and personal care routines he trusts them with.
+  3. **Aubrie Explains the Full Scope of the No Jealousy Pact (and Isabel's Reaction):**
+     - **Aubrie Jean Kelly** sits down with Isabel and openly reassures her that not only is she completely okay with Isabel loving Jordan and joining their **No Jealousy Pact**, **Aubrie also candidly admits that the No Jealousy Pact includes being allowed to have sex with Jordan**.
+     - **Isabel's Reaction:** This revelation causes **Isabel to blush furiously**—she can barely believe her ears! While Isabel is 100% comfortable and certain about the **romance, emotional devotion, and ADL care** part of loving Jordan, she asks for a little time to think and process because she is struggling to wrap her head around the concept that the No Jealousy Pact includes full sexual intimacy with Jordan alongside his pact.
