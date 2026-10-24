@@ -1130,7 +1130,7 @@ Kelsey walked back to the glass-walled conference room in **Suite 115**, where t
 
 David Thorne exhaled heavily, rubbing the bridge of his nose behind his wire-rimmed glasses, and rotated his primary monitor toward the center of the table.
 
-"This one is entirely on our side of the firewall, Kelsey," David admitted without hesitation. "Here's the exact chain of events. On Wednesday afternoon, Patricia's office sent over the manual Excel hold sheet pinning **Fuller, Aubrey Jordan** into **Bennett Hall, Room 214, Bed A** under accommodation code OEA-ADA-MOB-01. Because our legacy ADA hold template only exports Student\_ID, Last\_Name, First\_Name, Middle\_Name, and Accommodation\_Code, there is no Sex/Gender column on the sheet."
+"This one is entirely on our side of the firewall, Kelsey," David admitted without hesitation. "Here's the exact chain of events. On Wednesday afternoon, Patricia's office sent over the manual Quantum Grid hold sheet pinning **Fuller, Aubrey Jordan** into **Bennett Hall, Room 214, Bed A** under accommodation code OEA-ADA-MOB-01. Because our legacy ADA hold template only exports Student\_ID, Last\_Name, First\_Name, Middle\_Name, and Accommodation\_Code, there is no Sex/Gender column on the sheet."
 
 "Which has never been an issue in normal years," Patricia Higgins noted crisply, "because in normal years, the student's online housing profile is linked before room selection."
 
@@ -4453,7 +4453,7 @@ At 07:35 AM on Monday, September 8, 2014, a damp late-summer river fog still hun
 
 Standing beside Walter under the steel transit canopy were **Douglas Keaton**, City Manager for the independent **City of Radford**, and **Dr. Catherine Sterling**, Vice President for Student Affairs and Campus Administration at **Radford University**. Walter had personally asked both of them to meet him at the transit hub at 07:30 AM so they could witness with their own eyes what **Commonwealth Polytechnic Institute**'s unannounced freshman housing crisis was doing to their city.
 
-"Look at the clock on the canopy, Doug," Walter said grimly, tapping his clipboard with a ballpoint pen while his Motorola dispatch radio crackled on his belt. "For ten years, our local network has run like a Swiss watch because of the geography of this city. Radford is compact—it takes roughly fifteen minutes for a bus to run from here at McConnell Transit Center out to its far terminal, and fifteen minutes to come back. That allows us to run thirty-minute headways on every local city route—meeting here at :15 and :45 past the hour—using just a *single* thirty-foot bus per route."
+"Look at the clock on the canopy, Doug," Walter said grimly, tapping his clipboard with a ballpoint pen while his Vanguard dispatch radio crackled on his belt. "For ten years, our local network has run like a Swiss watch because of the geography of this city. Radford is compact—it takes roughly fifteen minutes for a bus to run from here at McConnell Transit Center out to its far terminal, and fifteen minutes to come back. That allows us to run thirty-minute headways on every local city route—meeting here at :15 and :45 past the hour—using just a *single* thirty-foot bus per route."
 
 "A system designed and funded for Radford residents and Radford University students," Dr. Sterling noted, folding her arms across her crimson Radford University blazer as dozens of RU nursing and education majors waited along the brick curb with their red student IDs in hand.
 
@@ -4463,7 +4463,7 @@ Standing beside Walter under the steel transit canopy were **Douglas Keaton**, C
 
 "They are—using buses CPI owns plus motorcoaches they chartered from private operators," Walter replied. "And every single one of those direct hotel buses fills to the doors under the hotel porte-cochères in three minutes flat! The other eighty or ninety CPI freshmen who can't squeeze onto CPI's morning hotel bus—or who have an eight o'clock lab or a nine o'clock quiz that doesn't line up with CPI's charter schedule—walk right out to the city sidewalk on West Main Street and Tyler Avenue holding their shiny new **CPI PolyPasses**, because their orientation packet told them a PolyPass gets them free rides on Radford Transit and Blue Ridge Transit."
 
-Right on cue, Walter's Motorola radio squawked to life:
+Right on cue, Walter's Vanguard radio squawked to life:
 
 <pa>Dispatch from Unit 104, inbound on West Main. Come in, Base.</pa>
 
@@ -4666,7 +4666,7 @@ Dr. Mercer picked up the letterhead memo and gave a rueful shake of his head.
 
 Kelsey kept her expression impeccably neutral, though she quietly filed that detail away—remembering all too well the Tuesday evening scene outside Kincaid Commons when Tom Lawson had tried to double-time Sarah Braithwaite (Room 505) and Lauren Barnes (Room 216) in front of six-foot-three Jessica Gallagher, and how Bennett Hall's front desk had permanently banned him from the building that same night.
 
-"Every single one of those post-census vacancies is going straight toward rescuing freshmen out of the **Radford** hotels first so we can take the pressure off the *Radford Connector* and our CPI shuttle fleet," David continued, clicking over to the West Campus availability grid. "Which brings us directly to Bennett Hall, Suite 214/216. Strictly on paper, if Suite 214/216 had been a disaster over the last two weeks, we *could* hold back five scattered female beds from the post-census pool—three in **Pritchard Hall** and two in **Cochrane Hall**—and split the five women up across those two buildings today, though doing so would mean leaving five other freshmen stranded out in Radford on those packed buses."
+"Every single one of those post-census vacancies is going straight toward rescuing freshmen out of the **Radford** hotels first so we can take the pressure off the *Radford Connector* and our CPI shuttle fleet," David continued, clicking over to the West Campus availability grid. "Which brings us directly to Bennett Hall, Suite 214/216. Strictly on paper, if Suite 214/216 had been a disaster over the last two weeks, we *could* hold back five scattered female beds from the post-census pool—three in **Bradshaw Hall** and two in **Thornton Hall**—and split the five women up across those two buildings today, though doing so would mean leaving five other freshmen stranded out in Radford on those packed buses."
 
 Dr. Mercer picked up the two reports from **Isabel Dawson** and **Henry Walsh**, reading through both documents in silence while Patricia Higgins opened her OEA folder beside Kelsey.
 
@@ -4680,7 +4680,7 @@ When Dr. Mercer finished reading Henry's report, he set both pages down on the m
 
 Patricia tapped the green OEA accommodation summary sheet in her folder.
 
-"Instead," Patricia continued, "because of the five young women in Suite 214/216 and their friends on Floors 3 and 5, Jordan now has full prescription vision correction, digital behind-the-ear hearing aids paired with our classroom FM lapel-mic transmitter, a reliable Linux communication laptop, and four dedicated peer note-takers covering every single one of his classes. I spoke with **Dr. Alistair** in Astronomy and **Dr. Gable** in History this morning—both of them told me Jordan is sitting in the front row, engaged, and performing at the very top of their freshman sections."
+"Instead," Patricia continued, "because of the five young women in Suite 214/216 and their friends on Floors 3 and 5, Jordan now has full prescription vision correction, digital behind-the-ear hearing aids paired with our classroom FM lapel-mic transmitter, a reliable Aura Glade communication laptop, and four dedicated peer note-takers covering every single one of his classes. I spoke with **Dr. Alistair** in Astronomy and **Dr. Gable** in History this morning—both of them told me Jordan is sitting in the front row, engaged, and performing at the very top of their freshman sections."
 
 Dr. Mercer looked around the table—from Patricia's OEA summary, to Isabel and Henry's floor reports, to Kelsey.
 
@@ -4688,9 +4688,9 @@ Dr. Mercer looked around the table—from Patricia's OEA summary, to Isabel and 
 
 A genuine, unguarded smile creased the corners of the veteran director's eyes.
 
-"Well, they proved it," Dr. Mercer said flatly. "In twenty-two years of higher education housing administration, I don't think I have ever read a two-week RA evaluation like the ones Isabel Dawson and Henry Walsh just turned in. Those six students didn't just 'make do' with a clerical error—they built the strongest, healthiest residential community in Bennett Hall. If this office walked upstairs today and broke up Suite 214/216 just to force their floor chart back into a traditional single-gender box now that five scattered beds opened up in Pritchard and Cochrane, we wouldn't be doing our jobs. We would be actively sabotaging six of our own students."
+"Well, they proved it," Dr. Mercer said flatly. "In twenty-two years of higher education housing administration, I don't think I have ever read a two-week RA evaluation like the ones Isabel Dawson and Henry Walsh just turned in. Those six students didn't just 'make do' with a clerical error—they built the strongest, healthiest residential community in Bennett Hall. If this office walked upstairs today and broke up Suite 214/216 just to force their floor chart back into a traditional single-gender box now that five scattered beds opened up in Bradshaw and Thornton, we wouldn't be doing our jobs. We would be actively sabotaging six of our own students."
 
-"Completely agreed," David Thorne said, nodding immediately as he clicked a checkbox on his West Campus assignment screen. "And locking Suite 214/216 as permanent means I can release those five female beds in Pritchard and Cochrane right now so all thirty-six post-census vacancies go straight into our formal remediation response to Radford Transit and the City of Radford at three o'clock."
+"Completely agreed," David Thorne said, nodding immediately as he clicked a checkbox on his West Campus assignment screen. "And locking Suite 214/216 as permanent means I can release those five female beds in Bradshaw and Thornton right now so all thirty-six post-census vacancies go straight into our formal remediation response to Radford Transit and the City of Radford at three o'clock."
 
 "Kelsey," Dr. Mercer said, sliding a heavy, cream-colored sheet of university bond paper stamped with the Commonwealth Polytechnic Institute seal across the table toward her, "this is **Form HRL-2014-COED-PERM—the permanent Suite Arrangement Consent Form for the entirety of the 2014–2015 academic year**. Because the official post-census room-change freeze takes effect at five o'clock this afternoon, having all six residents sign this permanent form tonight locks Suite 214/216 in our master database through May 2015. Once all six signatures are on that page, nobody inside or outside the university administration can claim their arrangement was temporary or forced."
 
@@ -4760,7 +4760,7 @@ For a moment after Walter finished reading the fourth point aloud, the speakerph
 
 "And notice why they were able to commit all thirty-six of today's post-census beds to the Radford hotels right out of the gate," Dr. Catherine Sterling observed approvingly from her office in Martin Hall. "Dr. Mercer didn't waste a single on-campus bed reshuffling existing dorm suites that were already working. Every single open bed on their campus is going straight toward moving thirty-six kids out of West Main and Tyler Avenue tomorrow afternoon."
 
-"Let's see how the 4:45 lineup looks on the pavement," Walter said, picking up his yellow safety vest and his Motorola radio with the first genuine smile he'd cracked in two weeks. "I'm heading back over to McConnell right now."
+"Let's see how the 4:45 lineup looks on the pavement," Walter said, picking up his yellow safety vest and his Vanguard radio with the first genuine smile he'd cracked in two weeks. "I'm heading back over to McConnell right now."
 
 ### Scene 6: Interlude: Relief at the :45 Pulse
 
@@ -4806,7 +4806,7 @@ On Move-In Saturday (August 23), when Kelsey and Dr. Mercer had walked through t
 
 Tonight, through his new glasses, he could read the tiny gold lettering on Kelsey's CPI Residence Life lapel pin from eight feet away. Through his new digital behind-the-ear hearing aids, every syllable of Kelsey's warm voice came through in crisp, effortless high definition. And with **Aubrie** sitting right on the edge of the lower bunk beside his wheel, **Madison** perched on the desk chair, and **Zoë**, **Lauren**, and **Hannah** standing shoulder-to-shoulder by the connecting doorway, Jordan didn't shrink back an inch.
 
-"First of all," Kelsey said, her eyes crinkling with warmth as she looked around the circle, "in the spirit of total transparency: when David Thorne ran the final post-census numbers at noon today after two weeks of campus-wide add/drop and no-shows, thirty-six beds finally opened up on campus—which Central Housing is using first to rescue the poor freshmen who have been trapped out in the **Radford** overflow hotels dealing with connecting buses to the McConnell Transit Center, the once-hourly **Radford Connector**, and the packed-to-the-brim CPI and chartered shuttle buses every morning, while **The Hotel at Poly** and the **Christiansburg** hotels are still full. Technically, five of those post-census vacancies were scattered female beds across West Campus in Pritchard Hall and Cochrane Hall."
+"First of all," Kelsey said, her eyes crinkling with warmth as she looked around the circle, "in the spirit of total transparency: when David Thorne ran the final post-census numbers at noon today after two weeks of campus-wide add/drop and no-shows, thirty-six beds finally opened up on campus—which Central Housing is using first to rescue the poor freshmen who have been trapped out in the **Radford** overflow hotels dealing with connecting buses to the McConnell Transit Center, the once-hourly **Radford Connector**, and the packed-to-the-brim CPI and chartered shuttle buses every morning, while **The Hotel at Poly** and the **Christiansburg** hotels are still full. Technically, five of those post-census vacancies were scattered female beds across West Campus in Bradshaw Hall and Thornton Hall."
 
 Madison's jaw set instantly, and Lauren took half a step closer to Jordan's chair as if ready to barricade the door with her own body. "Kelsey, we already told Izzy and Henry—"
 
@@ -6929,7 +6929,7 @@ Meanwhile, Aubrie Jean and **Madison** ran a methodical two-person verification 
 
 "Power brick and charging cable for the Vanguard Pro?" Aubrie asked, holding open his padded backpack.
 
-"Got it—coiled and Velcro-strapped in the center compartment," Madison confirmed, holding up the cord before zipping the pouch. "Spare batteries for his hearing aids and his protective glasses case?"
+"Got it—coiled and hook-and-loop-strapped in the center compartment," Madison confirmed, holding up the cord before zipping the pouch. "Spare batteries for his hearing aids and his protective glasses case?"
 
 "Right here in the top felt pocket," Aubrie smiled.
 
@@ -8211,11 +8211,11 @@ Jordan blinked behind his glasses, glancing from Henry's taped boxes to the stri
 
 "And Henry came down the hall before you guys left for Christiansburg because he has some big news to share about next semester," Isabel added, her voice warm but tinged with fond emotion as she looked at her co-RA.
 
-Henry rubbed the back of his neck with a sheepish, excited smile. "So... today is actually my last day in Room 201 for the school year, guys. Back in October I applied for the Pamplin College of Business international exchange cohort, and I just got final clearance—I'm spending the **Spring 2015 semester studying abroad in London** at the **London School of Economics and Commerce (LSEC)**."
+Henry rubbed the back of his neck with a sheepish, excited smile. "So... today is actually my last day in Room 201 for the school year, guys. Back in October I applied for the Vance College of Business international exchange cohort, and I just got final clearance—I'm spending the **Spring 2015 semester studying abroad in London** at the **London School of Economics and Commerce (LSEC)**."
 
 Across the hallway, **Zoë**’s eyes lit up like a pair of floodlights.
 
-"Wait—you're going to **LSEC** in Holborn?!" Zoë exclaimed, her British-American heritage kicking into instant logistical overdrive. "Henry, my parents grew up in London, and half of my aunts, uncles, and cousins still live within twenty minutes of Russell Square! Right after we finish loading the cars, I am emailing you my annotated London survival packet—how to link your student railcard to your Oyster card, which Piccadilly and Central Line stations actually have working lifts when you're hauling luggage, and where to get proper fish and chips in Clerkenwell so you don't get fleeced in Leicester Square. And my dad's brother Uncle Arthur lives in Islington if you ever get homesick!"
+"Wait—you're going to **LSEC** in Holborn?!" Zoë exclaimed, her British-American heritage kicking into instant logistical overdrive. "Henry, my parents grew up in London, and half of my aunts, uncles, and cousins still live within twenty minutes of Russell Square! Right after we finish loading the cars, I am emailing you my annotated London survival packet—how to link your student railcard to your Pearl Card, which Piccadilly and Central Line stations actually have working lifts when you're hauling luggage, and where to get proper fish and chips in Clerkenwell so you don't get fleeced in Leicester Square. And my dad's brother Uncle Arthur lives in Islington if you ever get homesick!"
 
 "Are you serious? Zoë, you're a lifesaver!" Henry laughed, genuinely thrilled.
 
@@ -8759,7 +8759,7 @@ It was far too loud for comfortable spoken conversation—and for Jordan, it mad
 
 Flanked by Mark and 6'3" Jessica clearing a wide, effortless lane through the bustling crowd, Jordan rolled into the sprawling mall food court and experienced another life milestone: the dizzying, exhilarating freedom of choosing his own lunch from a dozen illuminated counter menus.
 
-After scanning the options, Jordan wheeled up to the brick-oven pizzeria counter, tapped his order on his keyboard—a giant slice of New York-style pepperoni pizza and a fountain root beer—and reached into his wallet for the prepaid Visa debit card Daniel and Laura had given him to practice personal budgeting.
+After scanning the options, Jordan wheeled up to the brick-oven pizzeria counter, tapped his order on his keyboard—a giant slice of New York-style pepperoni pizza and a fountain root beer—and reached into his wallet for the prepaid Meridian debit card Daniel and Laura had given him to practice personal budgeting.
 
 Sliding the card through the terminal reader himself and taking his receipt with a proud nod, Jordan carried his tray back to their long table. It was just a slice of mall pizza, yet as he took his first hot, cheesy bite surrounded by his eight best friends, it tasted like pure independence.
 
@@ -8935,7 +8935,7 @@ On Tuesday morning, December 23rd, the nine friends set out on a full-day holida
 
 At eight-forty-five sharp, all nine of them—**Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—boarded the forty-five-foot **Bluewater Transit *Maroon Express*** over-the-road highway coach (Sainte-Claire 45H3) at the **Christiansburg Transit Center** (Falling Branch), its amber LED destination sign alternating between **MAROON EXPRESS** and **BLUEWATER EXP via CBURG TC** while the exterior ADA speaker announced *"Bluewater Transit Maroon Express to Bluewater Transit Center via Christiansburg Transit Center"*. After the operator raised Jordan up to the elevated cabin on the mid-coach hydraulic lift, stowed his folded manual chair in the under-floor luggage bay, and glanced at all nine of their **Poly Passes** for their free ride, the group settled into the plush high-backed coach seats and watched the snow-blanketed peaks of the Blue Ridge roll past the tinted windows during the comfortable sixty-minute express run south down I-81 and I-77 into Carroll County.
 
-At nine-forty-five, they disembarked at the bustling **Bluewater Transit Center**—directly across the street from **Bluewater High School**—and made a seamless five-minute cross-platform transfer onto the local **Blue Line** city bus. At ten-oh-five on the dot, the low-floor Gillig hissed to a stop at the corner of Madison’s quiet, tree-lined residential street.
+At nine-forty-five, they disembarked at the bustling **Bluewater Transit Center**—directly across the street from **Bluewater High School**—and made a seamless five-minute cross-platform transfer onto the local **Blue Line** city bus. At ten-oh-five on the dot, the low-floor Stalwart hissed to a stop at the corner of Madison’s quiet, tree-lined residential street.
 
 Madison practically bounced up the shoveled front walkway of her childhood home. Before she could even reach for the doorbell, the front door swung wide open, and her parents—**David and Diane Scott**—greeted the nine college freshmen with beaming smiles and warm hugs that immediately put everyone at ease.
 
@@ -9215,7 +9215,7 @@ Jordan blinked behind his glasses, processing the unfamiliar folklore literally,
 
 Hesitantly, Jordan lifted the heavy velvet stocking onto his lap tray and reached inside.
 
-One by one, he pulled out the treasures tucked inside: a brand-new pair of padded, fleece-lined leather wheelchair push-gloves with high-grip silicone palms; a laminated pocket field guide to Northern Hemisphere winter constellations; a crisp **$50 prepaid Visa gift card** tucked inside a small envelope; and two king-sized bars of his favorite dark chocolate with almonds.
+One by one, he pulled out the treasures tucked inside: a brand-new pair of padded, fleece-lined leather wheelchair push-gloves with high-grip silicone palms; a laminated pocket field guide to Northern Hemisphere winter constellations; a crisp **$50 prepaid Meridian gift card** tucked inside a small envelope; and two king-sized bars of his favorite dark chocolate with almonds.
 
 Jordan stared down at the items in his lap. None of them were bills held over his head. None of them came with lectures or strings attached. They were gifts, chosen for no other reason on earth than to bring him joy.
 
@@ -9687,7 +9687,7 @@ When everyone had finished their lunch and the server set the black leather chec
 
 *This is my chance,* he thought.
 
-Before David Scott or Caleb could reach for their wallets, Jordan unzipped his own wallet on his lap tray and slid out the crisp **$50 prepaid Visa gift card** that Daniel and Laura had tucked into his Christmas stocking the morning before.
+Before David Scott or Caleb could reach for their wallets, Jordan unzipped his own wallet on his lap tray and slid out the crisp **$50 prepaid Meridian gift card** that Daniel and Laura had tucked into his Christmas stocking the morning before.
 
 For eighteen years, Jordan had been made to feel like a line-item liability on someone else’s balance sheet—an expensive burden who only ever cost money and had nothing of his own to offer. Today, for the first time in his life, he had the power to treat people who had opened their home and hearts to him.
 
@@ -9911,7 +9911,7 @@ Across the archway, Jordan and Aubrie Jean exchanged a deeply moved, knowing loo
 
 Then Elana let out an excited, musical vocalization to catch Zoë’s and Jordan’s attention, gesturing with a bright smile toward the four-monitor workstation and the rack of blinking **Aurora** server blades behind them as she and Stephen rolled their two power wheelchairs wheel-to-wheel up to the wide desk.
 
-On the monitors glowed three ssh terminals running **Aurora Enterprise Server**—the server kernel underlying the **Aura Glade** desktop Linux operating system Zoë had installed on Jordan’s laptop—alongside a live full-stack web application deployment pipeline.
+On the monitors glowed three ssh terminals running **Aurora Enterprise Server**—the server kernel underlying the **Aura Glade** desktop **Aurora** operating system Zoë had installed on Jordan’s laptop—alongside a live full-stack web application deployment pipeline.
 
 Pulling up their server cluster architecture diagram via her sip-and-puff straw, Elana triggered her **mPad** AAC with shining eyes:
 
@@ -10383,7 +10383,7 @@ First Roanoke Airport this morning. Then Spring Semester back at CPI next week. 
 
 At eight-thirty on Monday morning, **January 5, 2015**—the first business day after the New Year’s holiday—a deep, mechanical rumble vibrated through the concrete slab of the **Brooks** basement.
 
-Sitting at the accessible card table in his manual wheelchair with a warm mug of apple cider beside his **Pinnacle Vanguard Pro**, **Jordan** looked up from his screen just as **Daniel Brooks** came down the internal staircase wearing a heavy Carhartt work jacket and a wide grin.
+Sitting at the accessible card table in his manual wheelchair with a warm mug of apple cider beside his **Pinnacle Vanguard Pro**, **Jordan** looked up from his screen just as **Daniel Brooks** came down the internal staircase wearing a heavy Ironclad work jacket and a wide grin.
 
 "Grab your coats and your earmuffs, everyone!" Daniel announced, gesturing toward the walkout sliding glass door at the back of the basement. "The contractor and his crew just pulled into the driveway. We are officially breaking ground on the ramp!"
 
@@ -10432,7 +10432,7 @@ Inside the warm basement sanctuary, rolling suitcases and duffel bags sat open a
 At two o'clock in the afternoon (19:00 GMT in London), everyone’s phones chimed in unison as **Henry Walsh** re-established cellular and Wi-Fi contact from across the Atlantic in **[Jordan Comms]**:
 
 > **[Jordan Comms] Henry Walsh (19:00 GMT / 14:00 EST):** *[Photos attached: (1) RMS Queen Margaret 2 docked at Ocean Terminal in Southampton under a misty English morning sky; (2) The South Western boat train at London Waterloo Station; (3) Six pages of handwritten notes and star charts from the Royal Astronomical Society lectures inside the QM2 Planetarium; (4) The entrance to the London School of Economics and Commerce (LSEC) on Houghton Street in Holborn]*
-> LANDFALL IN ENGLAND, FLOOR 2!! What a crossing. We hit thirty-five-foot swells in the mid-Atlantic on Wednesday and the *Queen Margaret 2* sliced through them like a hot knife through butter while the string quartet didn't miss a single note at afternoon tea! Jordan and Aubrie, I uploaded all six pages of my notes from the Royal Astronomical Society lectures in the Planetarium dome—they did an entire session on exoplanet transit photometry and pulsar timing arrays! Zoë, your parents' Oyster Card and Holborn shortcut tips got me from Waterloo Station to my LSEC flat in twenty-two minutes flat. Good luck moving back into The Old Lady tomorrow, guys!!
+> LANDFALL IN ENGLAND, FLOOR 2!! What a crossing. We hit thirty-five-foot swells in the mid-Atlantic on Wednesday and the *Queen Margaret 2* sliced through them like a hot knife through butter while the string quartet didn't miss a single note at afternoon tea! Jordan and Aubrie, I uploaded all six pages of my notes from the Royal Astronomical Society lectures in the Planetarium dome—they did an entire session on exoplanet transit photometry and pulsar timing arrays! Zoë, your parents' Pearl Card and Holborn shortcut tips got me from Waterloo Station to my LSEC flat in twenty-two minutes flat. Good luck moving back into The Old Lady tomorrow, guys!!
 
 Jordan grinned from ear to ear as he and **Aubrie Jean** zoomed in on Henry’s handwritten planetarium notes on his mPad, while **Zoë** fired back a triumphant reply welcoming Henry to London.
 
@@ -12626,7 +12626,7 @@ Aubrie smiled, wrapping her arm comfortably around his shoulders now that his ha
 
 Jordan frowned slightly, his protective instincts flaring up for his friends. <aac>We shouldn't just leave them behind,</aac> he typed quickly.
 
-"We absolutely won't," Lauren promised, her smile widening at his unselfish concern. "Daniel already has it mapped out. Once our Nexus group clears the automated gates, we are going to head straight to the Maple Leaf Lounge in the domestic terminal. We will secure a quiet area, grab some Canadian snacks, and wait right there until Sarah and Jessica make it through the international line and join us."
+"We absolutely won't," Lauren promised, her smile widening at his unselfish concern. "Daniel already has it mapped out. Once our Nexus group clears the automated gates, we are going to head straight to the Northern Crown Lounge in the domestic terminal. We will secure a quiet area, grab some Canadian snacks, and wait right there until Sarah and Jessica make it through the international line and join us."
 
 "Nobody gets left behind, J," Aubrie murmured, resting her cheek against his shoulder. "We all cross the finish line together before we take that final flight into Newfoundland."
 
@@ -12770,7 +12770,7 @@ The agent's formal, bureaucratic posture completely melted into a warm, disarmed
 
 As they rolled past the podium and officially cleared customs, Lauren looked down at Jordan's stunned expression and laughed.
 
-"I told him we are coming home for a visit, and that you guys are my friends from the States," Lauren translated for the group, her face glowing with excitement. "Come on. Let's head up to the Maple Leaf Lounge in the domestic departure terminal. We've got a lounge to raid while we wait for the Aussies to clear the international gates!"
+"I told him we are coming home for a visit, and that you guys are my friends from the States," Lauren translated for the group, her face glowing with excitement. "Come on. Let's head up to the Northern Crown Lounge in the domestic departure terminal. We've got a lounge to raid while we wait for the Aussies to clear the international gates!"
 
 Surrounded by his chosen family and officially on foreign soil for the very first time in his life, Jordan grabbed his joystick and eagerly followed her lead.
 
@@ -12778,7 +12778,7 @@ Surrounded by his chosen family and officially on foreign soil for the very firs
 
 **Date:** 2015-05-23 at 14:45 America/Toronto
 
-The Air Canada Maple Leaf Lounge in the domestic terminal was a quiet, sprawling sanctuary of polished wood and comfortable armchairs. The sixteen members of the Nexus group had easily secured a large corner section, indulging in the complimentary buffet and waiting for the final two members of their party.
+The Maple Leaf Air Northern Crown Lounge in the domestic terminal was a quiet, sprawling sanctuary of polished wood and comfortable armchairs. The sixteen members of the Nexus group had easily secured a large corner section, indulging in the complimentary buffet and waiting for the final two members of their party.
 
 Jordan sat in his heavy-duty power chair by the window, his Vanguard Pro resting securely on his tray table. He tapped his fingers rhythmically against the edge of the plastic, a subtle self-soothing stim. He was watching the clock on his dark-themed NeoEdit terminal. It had been nearly forty-five minutes since they had separated at the customs hall.
 
@@ -13078,7 +13078,7 @@ They pulled out of the driveway and onto the quiet, tree-lined streets of Gander
 
 **Date:** 2015-05-24 at 10:00 America/St_Johns
 
-The morning air outside the **North Atlantic Aviation Museum** along the Trans-Canada Highway was brisk and smelled of pine needles and damp granite. As Daniel Brooks lowered the hydraulic ramp of the lead accessible van, Jordan rolled his 350-pound power chair out onto the level asphalt lot, the bright red Lockheed Hudson bomber and Voodoo jet fighter gleaming on the grass beside the building.
+The morning air outside the **North Atlantic Aviation Museum** along the Trans-Canada Highway was brisk and smelled of pine needles and damp granite. As Daniel Brooks lowered the hydraulic ramp of the lead accessible van, Jordan rolled his 350-pound power chair out onto the level asphalt lot, the bright red Vanguard Hudson bomber and Voodoo jet fighter gleaming on the grass beside the building.
 
 Unlike the cramped, historic porch of the Barnes family residence, the museum and the municipal civic sites across Gander had been purposefully designed with level concrete thresholds and wide entryways. Jordan didn't have to wait to be lifted; he drove straight through the automatic doors at the center of the eighteen-person formation, flanked by Lauren, Aubrie, and Arthur and Maeve Barnes.
 
@@ -13194,7 +13194,7 @@ Before long-range jet airliners could leap across the Atlantic in a single bound
 
 "Look at the geometry of that staircase, J," Zoë murmured appreciatively, pointing toward the sweeping, cantilevered white terrazzo stairs rising toward the upper balcony. "Pure mid-century modernist optimism. Back when commercial aviation was treated like an architectural civic temple."
 
-Through the tall glass windows, their aircraft had just taxied up to the gate: a sleek **Nordic Air** Boeing 757-200 painted in deep midnight blue and glacial white, bound nonstop across the North Atlantic to **Keflavík International Airport** in Iceland.
+Through the tall glass windows, their aircraft had just taxied up to the gate: a sleek **Nordic Air** PAC 757-200 painted in deep midnight blue and glacial white, bound nonstop across the North Atlantic to **Keflavík International Airport** in Iceland.
 
 When the gate agent picked up the microphone to announce pre-boarding for passengers requiring assistance, Arthur and Maeve Barnes turned to face Jordan.
 
@@ -13222,7 +13222,7 @@ The strangest part of flying northeast across the Atlantic Ocean at the end of M
 
 Somewhere south of Greenland, at thirty-five thousand feet, Jordan lifted the plastic window shade of Seat 2A by half an inch and blinked in astonishment. According to his laptop clock, it was two-thirty in the morning—yet the sky along the northern horizon was glowing with a surreal, luminous band of pearlescent silver, rose gold, and pale cobalt blue. At sixty-four degrees north latitude, a mere three weeks before the summer solstice, the sun barely dipped below the curve of the earth before rising right back up again.
 
-When the **Nordic Air** Boeing 757 touched down at **Keflavík International Airport** at six-fifteen on Sunday morning, the sun was already shining brightly across a landscape that looked like another planet entirely.
+When the **Nordic Air** PAC 757 touched down at **Keflavík International Airport** at six-fifteen on Sunday morning, the sun was already shining brightly across a landscape that looked like another planet entirely.
 
 There were no trees. Stretching away from the runway in every direction were vast, prehistoric fields of jagged black basalt lava rock blanketed in thick pillows of silvery-green Arctic moss, with snow-streaked volcanic table mountains rising sharp and clear against the pale blue sky.
 
@@ -13406,9 +13406,9 @@ Jordan grinned from ear to ear, his fingers flying across his keyboard as he sav
 
 **Date:** 2015-06-07 at 13:15 Europe/London
 
-When the **Nordic Air** Boeing 757 banked out of the low English clouds over Windsor Castle and touched down on Runway 27L at **London Heathrow Airport**, Jordan immediately felt the scale of the world shift up by three orders of magnitude.
+When the **Nordic Air** PAC 757 banked out of the low English clouds over Windsor Castle and touched down on Runway 27L at **London Heathrow Airport**, Jordan immediately felt the scale of the world shift up by three orders of magnitude.
 
-Keflavík had been quiet, crisp, and volcanic. Heathrow was a sprawling, global aviation megalopolis—double-decker Airbus A380s and wide-body Boeing 777s taxiing past in the liveries of sixty nations. Their aircraft pulled into a gate at the gleaming, wave-roofed expanse of **Terminal 2—*The Queen's Terminal***, which had opened just one year earlier in June 2014.
+Keflavík had been quiet, crisp, and volcanic. Heathrow was a sprawling, global aviation megalopolis—double-decker EuroJet A380s and wide-body PAC 777s taxiing past in the liveries of sixty nations. Their aircraft pulled into a gate at the gleaming, wave-roofed expanse of **Terminal 2—*The Queen's Terminal***, which had opened just one year earlier in June 2014.
 
 Waiting right outside the aircraft door on the level glass jetbridge sat Jordan's 350-pound power chair. Jessica lifted him effortlessly from Seat 2A into his frame, and the eighteen travelers rolled down the wide, step-free arrivals corridor toward **UK Border Force**.
 
@@ -13442,7 +13442,7 @@ Suddenly, right in front of Jordan's wheelchair, Aubrie gasped so loudly she sto
 
 Jordan's head snapped up from his keyboard.
 
-Standing right at the front of the stainless-steel Heathrow arrivals barrier—wedged between a limo driver holding a *Morgan Stanley* placard and a grandmother holding a bouquet of roses—was a tall, clean-cut young man in a **CPI Forgers** hoodie waving a giant, hand-lettered piece of cardboard written in thick Chicago Maroon and Burnt Orange marker:
+Standing right at the front of the stainless-steel Heathrow arrivals barrier—wedged between a limo driver holding a *Vanguard Institutional* placard and a grandmother holding a bouquet of roses—was a tall, clean-cut young man in a **CPI Forgers** hoodie waving a giant, hand-lettered piece of cardboard written in thick Chicago Maroon and Burnt Orange marker:
 
 > **`BENNETT HALL 2ND FLOOR — LONDON BRANCH OFFICE`**<br>
 > **`(NO ROOM INSPECTIONS REQUIRED!)`**
@@ -13649,7 +13649,7 @@ As the soaring melodic guitar solo broke over the driving drum-machine beat and 
 
 *The cables hum, the circuits glow.*
 
-Just like Rhys and Claire Manning had used cables, circuits, and sequenced notes to build a fortress against trauma when the world tried to break them, Zoë had handed Jordan a Linux laptop and a custom kernel patch in Bennett Hall so he could build his voice—and six extraordinary women, a brother like Mark, a sister like Hannah, and the entire Brooks family had closed ranks around his wheelchair so his square would never be hollow again.
+Just like Rhys and Claire Manning had used cables, circuits, and sequenced notes to build a fortress against trauma when the world tried to break them, Zoë had handed Jordan an Aura Glade laptop and a custom kernel patch in Bennett Hall so he could build his voice—and six extraordinary women, a brother like Mark, a sister like Hannah, and the entire Brooks family had closed ranks around his wheelchair so his square would never be hollow again.
 
 Jordan typed slowly, letting his `"Sydney"` voice blend softly with the fading synth bass of the outro:
 
@@ -13739,7 +13739,7 @@ Isabel narrowed her eyes behind her glasses, folding her arms across her maroon 
 
 On Tuesday evening, forty-eight hours before the family's scheduled trip north to **Liverpool**, Daniel Brooks had handed Jordan the login credentials for the **UK National Rail Passenger Assist** portal and let Jordan book the entire inter-city rail accommodation himself.
 
-Sitting at the dining table of the Bloomsbury flat, Jordan had reviewed the rolling-stock diagrams for **Albion InterCity Rail**'s high-speed **Class 390 Pendolino** tilting trains on the West Coast Main Line, selected the dedicated wheelchair bay with companion table seating in Coach G on the `09:07` departure from **London Euston** to **Liverpool Lime Street**, and submitted the formal request for portable boarding ramps at both stations.
+Sitting at the dining table of the Bloomsbury flat, Jordan had reviewed the rolling-stock diagrams for **Albion InterCity Rail**'s high-speed **Class 390 Tilting Express** trains on the West Coast Main Line, selected the dedicated wheelchair bay with companion table seating in Coach G on the `09:07` departure from **London Euston** to **Liverpool Lime Street**, and submitted the formal request for portable boarding ramps at both stations.
 
 Now, at eight-thirty on Thursday morning, Jordan led the eighteen-person family off the hydraulic ramp of the red **Route 91** bus onto the wide forecourt of **London Euston Station**.
 
@@ -13751,13 +13751,13 @@ The Euston assistance coordinator glanced down at his tablet, smiled warmly—lo
 
 "Spot on, Mr. Fuller! You're right on schedule," the coordinator said cheerfully. "Platform 7 is boarding just down the west ramp before they release the platform number on the main departure board. Follow me and we'll get your ramp locked in before the crowd arrives."
 
-Rolling down the broad, gently sloped concrete approach ramp onto **Platform 7**, Jordan felt a rush of quiet electric pride. Beside him stood the sleek, aerodynamic nose of the eleven-car **Class 390 Pendolino** high-speed train, painted in silver, crimson, and charcoal.
+Rolling down the broad, gently sloped concrete approach ramp onto **Platform 7**, Jordan felt a rush of quiet electric pride. Beside him stood the sleek, aerodynamic nose of the eleven-car **Class 390 Tilting Express** high-speed train, painted in silver, crimson, and charcoal.
 
 Outside the wide automatic plug door of Coach G, a uniformed platform attendant was already unfolding a lightweight, high-strength yellow aluminum portable boarding ramp, locking its locating pins securely into the sill plate of the train floor.
 
 Jordan drove smoothly up the aluminum incline, turned down the extra-wide accessible aisle of the coach, and parked his power chair in the dedicated bay beside the panoramic window, where a fold-out table allowed **Aubrie**, **Sarah**, and **Lauren** to sit directly across from and beside him while the rest of the group filled the surrounding bays.
 
-At `09:07` on the dot, the doors hissed shut and the Pendolino glided silently out of London Euston.
+At `09:07` on the dot, the doors hissed shut and the Tilting Express glided silently out of London Euston.
 
 Once they cleared the brick tunnels of Camden and Primrose Hill, the electric train accelerated onto the fast tracks of the **West Coast Main Line**, reaching its cruising speed of **125 miles per hour**. As the train swept through the high-speed curves of Buckinghamshire, Warwickshire, and Staffordshire, Jordan felt the onboard active-tilt hydraulic pendulums gently banking the entire carriage inward by up to eight degrees—neutralizing the lateral centrifugal force so seamlessly that his mug of English breakfast tea on the table didn't even ripple.
 
@@ -13775,7 +13775,7 @@ Mark blinked from the booth across the aisle, looking out the window at a stone 
 
 **Date:** 2015-06-11 at 11:30 Europe/London
 
-At eleven-twenty-one in the morning, the tilting **Pendolino** glided beneath the monumental, curved iron-and-glass Victorian train shed of **Liverpool Lime Street Station**.
+At eleven-twenty-one in the morning, the **Class 390 Tilting Express** glided beneath the monumental, curved iron-and-glass Victorian train shed of **Liverpool Lime Street Station**.
 
 Waiting right on the platform outside Coach G stood a Merseyside station attendant holding the matching yellow aluminum boarding ramp. Within ninety seconds of the train coming to a halt, Jordan rolled smoothly off the carriage onto the level concourse of Lime Street, picked up a regional **`MerseyPass`** transit card at the **Mersey Transit** travel center for his collector's sleeve, and led the eighteen travelers aboard a low-floor city bus down toward the **River Mersey** waterfront.
 
@@ -13811,11 +13811,11 @@ Jordan parked his power chair dead center in front of the sign, with **Sarah** s
 
 **Date:** 2015-06-27 at 11:00 Europe/London
 
-After spending Thursday night along the Merseyside waterfront—where Jordan, Lauren, and Sarah shared the anchor room overlooking the Albert Dock—riding the tilting **Pendolino** back down the West Coast Main Line to **London Euston**, and spending a second full week exploring Greater London's museums, parks, and step-free riverboats along the Thames with the Brooks family and Henry between his summer lectures, Saturday morning, June twenty-seventh brought the end of their British chapter.
+After spending Thursday night along the Merseyside waterfront—where Jordan, Lauren, and Sarah shared the anchor room overlooking the Albert Dock—riding the **Class 390 Tilting Express** back down the West Coast Main Line to **London Euston**, and spending a second full week exploring Greater London's museums, parks, and step-free riverboats along the Thames with the Brooks family and Henry between his summer lectures, Saturday morning, June twenty-seventh brought the end of their British chapter.
 
-By ten-thirty in the morning, the eighteen travelers had ridden the step-free **Piccadilly Line** back out to **Heathrow Airport Terminal 2**, where their bags were checked through to **Tokyo Haneda (`HND`)** aboard **Nippon Skyways** (*All Nippon Airways*).
+By ten-thirty in the morning, the eighteen travelers had ridden the step-free **Piccadilly Line** back out to **Heathrow Airport Terminal 2**, where their bags were checked through to **Tokyo Haneda (`HND`)** aboard **Nippon Skyways**.
 
-And waiting for them right beside the oversized-luggage check-in counter before the Departure Security gates stood **Henry Walsh**, holding a takeaway carrier of warm Cornish pasties and a box of Yorkshire Gold tea bags for the flight.
+And waiting for them right beside the oversized-luggage check-in counter before the Departure Security gates stood **Henry Walsh**, holding a takeaway carrier of warm Cornish pasties and a box of Yorkshire Breakfast tea bags for the flight.
 
 "I promised **Isabel** on Tuesday that I wouldn't let you leave the island without delivering one more hug," Henry smiled, setting the bag down and leaning in to wrap Jordan in a fierce, two-armed embrace right in the middle of the Terminal 2 departures hall.
 
@@ -13825,7 +13825,7 @@ Jordan hugged his friend back tightly, feeling the solid, steady warmth of the y
 
 "You too, Chief Navigator," Henry said, tapping the clear plastic sleeve on Jordan's laptop mount where the Icelandic **`NordicPass`**, the London **`Pearl Card`**, and the Liverpool **`MerseyPass`** were neatly stacked. "Make sure you have at least three more smart cards in that sleeve by the time I see you on Geneva Street!"
 
-Once Henry waved goodbye at the frosted glass security gates, the eighteen travelers cleared Terminal 2 fast-track screening and rolled out to **Satellite Pier T2B**, where a gleaming white-and-blue **Nippon Skyways Boeing 777-300ER** sat waiting for the twelve-hour trans-Eurasian flight across Scandinavia and Siberia to **Japan**.
+Once Henry waved goodbye at the frosted glass security gates, the eighteen travelers cleared Terminal 2 fast-track screening and rolled out to **Satellite Pier T2B**, where a gleaming white-and-blue **Nippon Skyways PAC 777-300ER** sat waiting for the twelve-hour trans-Eurasian flight across Scandinavia and Siberia to **Japan**.
 
 Even at the departure gate in London, Jordan noticed that the culture had already shifted.
 
@@ -13837,13 +13837,13 @@ Fifteen minutes later, Jessica carried Jordan aboard the wide-body 777 and settl
 
 As the massive twin GE90 turbofans roared to life and lifted them into the afternoon sky above the Thames, Jordan looked down at the green patchwork of England disappearing beneath the wings. Ahead of them lay a twelve-hour leap across eight time zones into East Asia—toward the bullet trains of **Tokyo**, theBrooks family's old home in **Osaka**, and an overnight ferry waiting on the **Seto Inland Sea**.
 
-## Chapter 6
+## The Quiet Sanctuary and the Bullet Train
 
 ### Scene 1: Pang-Pon-Pang-Pon: Haneda Airport and the Architecture of Respect
 
 **Date:** 2015-06-28 at 08:30 Asia/Tokyo
 
-The massive jetbridge connecting the **Nippon Skyways** Boeing 777-300ER to **Tokyo Haneda's International Terminal** was fully carpeted, climate-controlled, and completely level. There were no jarring steel expansion plates, no steep inclines, and no flashing amber warning strobes.
+The massive jetbridge connecting the **Nippon Skyways** PAC 777-300ER to **Tokyo Haneda's International Terminal** was fully carpeted, climate-controlled, and completely level. There were no jarring steel expansion plates, no steep inclines, and no flashing amber warning strobes.
 
 Waiting right outside the forward cabin door sat Jordan's 350-pound power chair, positioned on a clean protective mat by two white-gloved ground engineers who bowed respectfully as Jessica transferred him into his seat.
 
@@ -13887,7 +13887,7 @@ Another soft *pang-pon-pang-pon* marimba chime drifted through the air.
 
 For the first time in his entire life inside an airport, Jordan didn't flinch. He took a deep, shuddering breath, exhaled eighteen years of defensive tension, and rolled forward to the **Nippon Rail East (`NR East`)** Travel Service Center at the entrance to the **Haneda Bay Monorail** station.
 
-There, Zoë and Daniel helped him claim **Smart Card Number Four**: a lime-green-and-silver contactless **`Midori Card`** (*Suica*) adorned with a smiling little penguin emblem.
+There, Zoë and Daniel helped him claim **Smart Card Number Four**: a lime-green-and-silver contactless **`Midori Card`** adorned with a smiling little penguin emblem.
 
 Jordan slid the green **`Midori Card`** into the fourth slot of his clear collector's sleeve below his **`NordicPass`**, **`Pearl Card`**, and **`MerseyPass`**, tapped it against the wide blue-lit IC reader on the extra-wide accessible faregate—which answered with a cheerful, high-pitched *pi-pi!* instead of a harsh buzz—and rolled onto the level platform of the **Haneda Bay Monorail** overlooking Tokyo Bay.
 
@@ -13899,9 +13899,9 @@ Over the next four days in **Tokyo**, Jordan discovered what happened when the l
 
 In London, navigating the Victorian Underground had been a tactical puzzle of checking which nineteenth-century stations lacked elevators and rerouting onto red double-decker surface buses.
 
-In Tokyo—a metropolis of thirty-seven million people—the rail system operated like a Swiss watch written in clean C# code.
+In Tokyo—a metropolis of thirty-seven million people—the rail system operated like a Swiss watch written in clean Quantum Sharp code.
 
-Whenever the eighteen-person family approached a **`Nippon Rail East` (`NR East`)** or **Tokyo Metro** faregate, Jordan tapped his green **`Midori Card`** while Zoë exchanged two polite sentences in near-flawless Japanese with the stationmaster inside the glass wicket office.
+Whenever the eighteen-person family approached a **`Nippon Rail East` (`NR East`)** or **Tokyo Rapid Subway** faregate, Jordan tapped his green **`Midori Card`** while Zoë exchanged two polite sentences in near-flawless Japanese with the stationmaster inside the glass wicket office.
 
 Watch what happened next became Jordan and Zoë's favorite daily ritual.
 
@@ -13915,7 +13915,7 @@ Whether they were getting off two stops later or eight stops across the city in 
 
 There was no waiting twenty minutes on an empty platform wondering if someone had forgotten them. There was no sighing, no eye-rolling, and no treating Jordan's 350-pound power chair like an inconvenience blocking the rush-hour schedule.
 
-On Tuesday afternoon, after exploring the multi-story electronics and retro computing arcades of **Akihabara**—where Jordan, Zoë, and Madison spent two blissful hours examining vintage Japanese motherboards, mechanical keyboard switches, and 16-bit **Kinoka** (*Nintendo*) game cartridges—and watching the famous pedestrian scramble from the skybridge above **Shibuya Crossing**, the group paused in a quiet, tree-shaded courtyard garden near **Meiji Shrine**.
+On Tuesday afternoon, after exploring the multi-story electronics and retro computing arcades of **Akihabara**—where Jordan, Zoë, and Madison spent two blissful hours examining vintage Japanese motherboards, mechanical keyboard switches, and 16-bit **Kinoka** game cartridges—and watching the famous pedestrian scramble from the skybridge above **Shibuya Crossing**, the group paused in a quiet, tree-shaded courtyard garden near **Meiji Shrine**.
 
 Jordan sat in the dappled shade beneath the towering *torii* cedars, watching the sunlight filter through the leaves while **Aubrie** and **Lauren** sipped cold green tea from a vending machine beside him.
 
@@ -13935,11 +13935,11 @@ Daniel Brooks smiled warmly, stepping up beside his daughter and resting a hand 
 
 Jordan looked out across the quiet gravel courtyard, his heart beating with a strange, new, expansive wonder that he wasn't quite ready to put into words yet—only to realize that for the first time in nineteen years, a tiny voice inside his head was quietly asking what it would feel like to never have to leave a place this peaceful.
 
-### Scene 3: The Hassha Melody on the Shinkansen Platform
+### Scene 3: The Hassha Melody on the Bullet Train Platform
 
 **Date:** 2015-07-04 at 09:45 Asia/Tokyo
 
-On Saturday morning, July fourth, the eighteen travelers rode the elevator up to **Platform 18** of the **Tōkaidō Shinkansen** at **Tokyo Station** to board the bullet train west to **Osaka**.
+On Saturday morning, July fourth, the eighteen travelers rode the elevator up to **Platform 18** of the **Tōkaidō Bullet Line** at **Tokyo Station** to board the bullet train west to **Osaka**.
 
 The elevated high-speed rail platform was teeming with thousands of commuters and travelers, yet it possessed a focused, flowing order that felt entirely alien to Jordan. Passengers stood in neat, silent, two-abreast queues painted directly onto the concrete floor at every car door location. Jordan sat in his heavy power chair at the head of the **Car 11** accessibility queue, positioned neatly behind the tactile yellow warning blocks with his hands resting on his terminal keyboard.
 
@@ -13955,7 +13955,7 @@ Jordan instantly braced for impact. His shoulders hiked up defensively toward hi
 
 The assault never came.
 
-Instead, a soft, crystalline chime rolled gently out of the speakers overhead. It was a *Hassha* departure melody—a bright, lilting acoustic jingle composed specifically for the Shinkansen platforms that sounded like a delicate porcelain music box rather than a transit warning. It didn't pierce the air; it warmly invited the platform's attention.
+Instead, a soft, crystalline chime rolled gently out of the speakers overhead. It was a *Hassha* departure melody—a bright, lilting acoustic jingle composed specifically for the high-speed bullet train platforms that sounded like a delicate porcelain music box rather than a transit warning. It didn't pierce the air; it warmly invited the platform's attention.
 
 Jordan slowly opened his eyes, blinking in pure confusion. The tension in his shoulders didn't just ease; it melted away. He looked up at the platform canopy speaker, completely bewildered by the lack of auditory violence.
 
@@ -13963,7 +13963,7 @@ Following the music-box melody, a woman's voice spoke over the PA in Japanese. H
 
 Zoë looked down, her hyper-observant eyes catching the exact moment Jordan's bracing reflex faltered. Because her own autistic nervous system processed sensory spikes with the exact same intensity, she understood the shock he was experiencing from the inside out. She stepped in closer, resting a firm, grounding hand on his shoulder to physically anchor him in the safe present.
 
-"She's announcing the arrival of our **Nozomi Super Express** bound for Shin-Osaka," Zoë translated smoothly, her crisp British-Virginian voice matching the calm, respectful cadence of the announcer. "She is politely asking everyone to please remain behind the yellow tactile blocks for our own safety, and thanking us for riding with them today."
+"She's announcing the arrival of our **Hikari Star Super Express** bound for Shin-Osaka," Zoë translated smoothly, her crisp British-Virginian voice matching the calm, respectful cadence of the announcer. "She is politely asking everyone to please remain behind the yellow tactile blocks for our own safety, and thanking us for riding with them today."
 
 Jordan stared at the empty high-speed track in front of him, his chest rising and falling in a deep, slow breath.
 
@@ -13971,15 +13971,15 @@ Jordan stared at the empty high-speed track in front of him, his chest rising an
 
 "They don't," Zoë affirmed softly, giving his shoulder a firm, reassuring squeeze. "The architecture here isn't designed to fight you, Jordan. You don't have to brace yourself anymore."
 
-Thirty seconds later, a sleek, aerodynamic white-and-blue **N700A Series Shinkansen**—its long, duck-billed nose sculpted like a high-speed spacecraft—glided almost silently into Platform 18. The wide plug door of **Car 11** slid open with a muted pneumatic *swoosh* rather than a heavy mechanical slam, and a white-gloved platform attendant immediately laid the portable slope board across the threshold.
+Thirty seconds later, a sleek, aerodynamic white-and-blue **N700A Series Bullet Train**—its long, duck-billed nose sculpted like a high-speed spacecraft—glided almost silently into Platform 18. The wide plug door of **Car 11** slid open with a muted pneumatic *swoosh* rather than a heavy mechanical slam, and a white-gloved platform attendant immediately laid the portable slope board across the threshold.
 
 Jordan relaxed his grip on his armrests and drove smoothly into the dedicated wheelchair bay of Car 11, where a wide panoramic window and a private, full-size wheelchair-accessible multipurpose room sat just steps away down the vestibule.
 
-As the **Nozomi Super Express** glided out of Tokyo Station and accelerated past Yokohama onto the main Tōkaidō line—climbing effortlessly to **177 miles per hour (`285 km/h`)** with less vibration than a city bus—Jordan looked out the wide window beside Aubrie and Zoë. Beyond the green tea fields of Shizuoka, the towering, snow-streaked volcanic cone of **Mount Fuji** rose into the clear summer sky, while the realization washed over Jordan that for the first time in his life, the world outside was actively inviting him to exist in it peacefully.
+As the **Hikari Star Super Express** glided out of Tokyo Station and accelerated past Yokohama onto the main Tōkaidō line—climbing effortlessly to **177 miles per hour (`285 km/h`)** with less vibration than a city bus—Jordan looked out the wide window beside Aubrie and Zoë. Beyond the green tea fields of Shizuoka, the towering, snow-streaked volcanic cone of **Mount Fuji** rose into the clear summer sky, while the realization washed over Jordan that for the first time in his life, the world outside was actively inviting him to exist in it peacefully.
 
 Two hours and twenty-three minutes after leaving Tokyo, the bullet train glided to a pinpoint stop at **Shin-Osaka Station**.
 
-And down on the main concourse of **`Nippon Rail West` (`NR West`)**, Zoë proudly handed Jordan **Smart Card Number Five**: a crisp teal-and-blue **`KansaiPass`** (*ICOCA*) featuring a cheerful cartoon platypus mascot—welcoming Jordan to the city where Zoë Brooks had grown up.
+And down on the main concourse of **`Nippon Rail West` (`NR West`)**, Zoë proudly handed Jordan **Smart Card Number Five**: a crisp teal-and-blue **`KansaiPass`** featuring a cheerful cartoon platypus mascot—welcoming Jordan to the city where Zoë Brooks had grown up.
 
 ### Scene 4: The Brooks Family's Osaka and a Question About the Future
 
@@ -13987,7 +13987,7 @@ And down on the main concourse of **`Nippon Rail West` (`NR West`)**, Zoë proud
 
 If Tokyo was a gleaming, hyper-synchronized monument to precision engineering, **Osaka** felt like stepping into the warm living room of the Brooks family's past.
 
-Over their first three days in Kansai, tapping their teal **`KansaiPass`** smart cards across the universally elevator-equipped **Osaka Municipal Subway** (*Midōsuji Line* and *Tanimachi Line*), **Daniel**, **Laura**, **Zoë**, and **Caleb** took the lead—showing the family the exact tree-lined residential street near **Nakanoshima** where they had lived for four years, the neighborhood park where Caleb and Lucas had learned to play baseball with the local kids, and the quiet bookshop where a nine-year-old Zoë had bought her very first bilingual C# programming reference manual.
+Over their first three days in Kansai, tapping their teal **`KansaiPass`** smart cards across the universally elevator-equipped **Osaka Rapid Subway** (*Midōsuji Line* and *Tanimachi Line*), **Daniel**, **Laura**, **Zoë**, and **Caleb** took the lead—showing the family the exact tree-lined residential street near **Nakanoshima** where they had lived for four years, the neighborhood park where Caleb and Lucas had learned to play baseball with the local kids, and the quiet bookshop where a nine-year-old Zoë had bought her very first bilingual Quantum Sharp programming reference manual.
 
 Even better, when they rolled along the level boardwalk of **Dōtonbori** in the early evening before the neon crowds peaked, the family stopped at the exact corner *takoyaki* and *okonomiyaki* stall Daniel and Laura had frequented fifteen years earlier.
 
@@ -14037,13 +14037,13 @@ On the `mPad` screen, Isabel's eyes glistened behind her glasses as a tender, de
 
 "Which means," **Zoë** declared, her gray eyes lighting up with sudden, unmistakable determination as she looked around the circle at Jordan, Aubrie, Madison, Lauren, Hannah, Mark, Sarah, and Jessica, "we have a brand-new academic objective for Sophomore Year. Tomorrow night, we board the **`Ferry Hoshizora`** at Osaka South Port to sail across the **Seto Inland Sea**—and when we get back to Blacksburg in August, I am officially volunteering to coach and tutor all eight of you so all nine of us can take **Japanese 101** together!"
 
-## Chapter 7
+## Voyages on the Seto Inland Sea
 
 ### Scene 1: Osaka South Port and Boarding the Starry Sky
 
 **Date:** 2015-07-08 at 18:00 Asia/Tokyo
 
-Late Wednesday afternoon, the eighteen travelers tapped their teal **`KansaiPass`** cards at the **Osaka Municipal Subway** faregates, rode the step-free **Chūō Line** out to **Cosmo Square**, and transferred via the automated, rubber-tired **Nankō Port Town Line (*New Tram*)** to **Ferry Terminal Station** at **Osaka South Port**.
+Late Wednesday afternoon, the eighteen travelers tapped their teal **`KansaiPass`** cards at the **Osaka Rapid Subway** faregates, rode the step-free **Chūō Line** out to **Cosmo Square**, and transferred via the automated, rubber-tired **Nankō Port Line** to **Ferry Terminal Station** at **Osaka South Port**.
 
 A wide, glass-enclosed elevated skybridge—completely level and lined with smooth non-slip flooring—connected the station concourse directly to the second-floor boarding gallery of the **Osaka South Port (`Nankō`) Ferry Terminal**.
 

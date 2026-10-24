@@ -372,7 +372,7 @@ Until that exact second, Donald and Mary had operated under the absolute assumpt
 
 On the screen, Ashley let out a soft, knowing laugh. She shared a highly synchronized, amused look with the cousins beside her.
 
-*"No, Mary, thereâ€™s no commercial airline rerouting,"* Ashley explained smoothly, a proud smile touching her lips. *"I realize I kept you both in the dark to keep our communications completely secure from Dad, but it's time to pull back the curtain. We aren't flying commercial. We're launching a private Bombardier Global 7500 directly out of Eldridge Field here in Meridian. And we aren't coming alone."*
+*"No, Mary, there's no commercial airline rerouting,"* Ashley explained smoothly, a proud smile touching her lips. *"I realize I kept you both in the dark to keep our communications completely secure from Dad, but it's time to pull back the curtain. We aren't flying commercial. We're launching a private Laurentian Global 7500 directly out of Eldridge Field here in Meridian. And we aren't coming alone."*
 
 Donald let out a sharp, inquisitive hum, his dark eyes wide as he stared at his sister's digital image.
 
@@ -664,7 +664,7 @@ Morgan slowly lowered the phone. The data was indisputable, legally defensible, 
 
 The decision hung heavily in the heated air of the McKinney hotel suite.
 
-Victoria Vance stood by the floor-to-ceiling windows, staring down at the paralyzed, iced-over arteries of the Dallas North Tollway. Behind her, the extraction team sat around the massive dining table in silence. The heavy SUVs were in the garage, equipped with chains. The Bombardier Global 7500 was secured in the hangar. But none of it mattered against the sheer, lethal unpredictability of the Texas roads.
+Victoria Vance stood by the floor-to-ceiling windows, staring down at the paralyzed, iced-over arteries of the Dallas North Tollway. Behind her, the extraction team sat around the massive dining table in silence. The heavy SUVs were in the garage, equipped with chains. The Laurentian Global 7500 was secured in the hangar. But none of it mattered against the sheer, lethal unpredictability of the Texas roads.
 
 "The extraction is officially delayed," Victoria announced, her voice leaving absolutely no room for debate. "Nobody leaves this hotel tonight. Not even at midnight."
 

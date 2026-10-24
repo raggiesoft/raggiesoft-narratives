@@ -495,7 +495,7 @@ Mark nodded, breaking his statuesque pose. "Shipshape, Helen."
 They walked back to the vehicles in the quiet afternoon sun. The visit was over. The duty was done. They had escorted the memory, and now, they could go get lunch.
 
 
-Mark stood a few feet back, his sunglasses reflecting the gray stone. He saw Patrick standing rigidly at attention and Nichole sitting perfectly still. He stepped forward and knelt down on one knee between them, bringing his face to their level. He smelled of Old Spice and heat.
+Mark stood a few feet back, his sunglasses reflecting the gray stone. He saw Patrick standing rigidly at attention and Nichole sitting perfectly still. He stepped forward and knelt down on one knee between them, bringing his face to their level. He smelled of classic spiced aftershave and heat.
 
 "You guys did good," Mark whispered. "Real good."
 
@@ -4364,7 +4364,7 @@ He looked at the floor where the stampede had hit them.
 
 There, lying near the three-point line, was a mortarboard cap. It was crushed flat. A distinct, dusty footprint was stamped across the purple fabric.
 
-Patrick lunged for it. He picked it up, dusting it off with trembling hands. inside, on the tag, written in Sharpie: *BENNETT.*
+Patrick lunged for it. He picked it up, dusting it off with trembling hands. inside, on the tag, written in permanent marker: *BENNETT.*
 
 "Oh god."
 
@@ -7033,7 +7033,7 @@ They exited the restroom, rejoining the world.
 
 As they headed back toward the food court to find the group, they passed a glass-walled store: Lion Tech.
 
-It was filled with the latest 2003 gear: chunky Dell laptops, towers of blank CD-Rs, and heavy CRT monitors.
+It was filled with the latest 2003 gear: chunky Pinnacle laptops, towers of blank CD-Rs, and heavy CRT monitors.
 
 "Look at that," Patrick slowed down, eyeing a display of Ethernet cables and wireless routers. "They have an on-campus hardware store. If my router dies during finals, I can just buy one here."
 
@@ -7556,7 +7556,7 @@ By 6:00 PM, Nichole’s posture was sagging. She was starting to hum softly, the
 
 "Alright," Patrick said, standing up and brushing off his jeans. "We need to get her horizontal. Skin check time."
 
-"Of course, of course," Carol said, already packing up the leftovers into Tupperware for them. "You guys get some rest. It was so good to see you."
+"Of course, of course," Carol said, already packing up the leftovers into SnapLock storage containers for them. "You guys get some rest. It was so good to see you."
 
 Patrick and Tom loaded Nichole back onto the hydraulic lift. The whine of the motor seemed exceptionally loud in the quiet neighborhood. Once she was secured inside, Tom put the van in gear.
 
@@ -11376,7 +11376,7 @@ Patrick killed the engine and walked around to the side door. He hit the button 
 
 "Point taken," Patrick said, rolling Nichole out into the cold Rhode Island air.
 
-They walked into the massive, heated garage bay of the dealership. Waiting for them was a salesman in a heavy Carhartt jacket, holding a clipboard.
+They walked into the massive, heated garage bay of the dealership. Waiting for them was a salesman in a heavy Ironclad jacket, holding a clipboard.
 
 "Mark!" the salesman called out. "Got her prepped for you. The 2004 model. Fresh off the conversion line."
 
@@ -13340,7 +13340,7 @@ She was safe. She was secure. And she was home.
 
 ### Scene 1: The War Room
 
-The second bedroom of The Foundry Lofts looked like NASA Mission Control.
+The second bedroom of The Foundry Lofts looked like NAA Mission Control.
 
 Patrick sat at his desk, his fingers hovering over the keyboard. On his screen, the BSU Student Portal (Banner Web) was loaded, displaying the login screen.
 
@@ -16142,7 +16142,7 @@ Patrick looked at her determination. He didn't have the strength to fight her, a
 He closed his eyes. The Bennett Machine didn't break. It just switched command.
 
 
-Patrick was out cold. The Advil had knocked the edge off the fever, but his breathing was heavy and congested. He hadn't moved in twenty minutes.
+Patrick was out cold. The ibuprofen had knocked the edge off the fever, but his breathing was heavy and congested. He hadn't moved in twenty minutes.
 
 Nichole sat up in bed. She looked at the clock.
 
@@ -17081,7 +17081,7 @@ The environment in Phase II was different. The urgent, rhythmic beeping of the P
 
 Nichole wasn't sitting up. She was lying flat at 30 degrees, her legs elevated on two pillows to reduce the throbbing edema. The blue foam immobilizers looked massive against the white sheets.
 
-She was drifting in and out of a morphine nap, clutching her CamelBak tube loosely in her hand.
+She was drifting in and out of a morphine nap, clutching her hydration-pack tube loosely in her hand.
 
 Patrick sat in the guest chair, which he had pulled up to the bedside rail. Beyond the window, the gray sky was churning. The snow was coming down steadily now, sticking to the window ledge.
 
@@ -17163,7 +17163,7 @@ He picked up the two melted ice packs from Nichole’s knees. They were warm and
 
 "Refill run," Patrick whispered to Nichole.
 
-He walked out to the nutrition station. He found the ice machine. He filled two fresh Ziploc bags, wrapping them in thin pillowcases (to prevent ice burn on the skin).
+He walked out to the nutrition station. He found the ice machine. He filled two fresh zip-top plastic bags, wrapping them in thin pillowcases (to prevent ice burn on the skin).
 
 When he walked back in, Sarah was at the bedside, looking harried. She was trying to check the skin integrity under Nichole’s heavy, immobilized legs, but Nichole was tense, fighting the movement.
 
@@ -17201,7 +17201,7 @@ Sarah checked her watch, then the chart.
 
 "Smart," she nodded. "Dr. Evans wrote for Hydrocodone-Acetaminophen 5/325. It's due at 1300. I can pull it early if she's tolerating liquids."
 
-Patrick grabbed the CamelBak tube clipped to the bedrail.
+Patrick grabbed the hydration-pack tube clipped to the bedrail.
 
 "Hydration check," Patrick said.
 
@@ -17251,7 +17251,7 @@ Patrick watched the site. He watched for the hematoma.
 
 "Hold that," Sarah said, handing him the gauze.
 
-Patrick pressed down firmly on the vein. He held it for a full two minutes—ignoring the urge to rush. He peeked. The bleeding had stopped. He applied the Band-Aid himself.
+Patrick pressed down firmly on the vein. He held it for a full two minutes—ignoring the urge to rush. He peeked. The bleeding had stopped. He applied the adhesive bandage himself.
 
 "Hemostasis achieved," Patrick murmured.
 
@@ -18104,7 +18104,7 @@ Patrick stood at the foot of the bed. He took a deep breath.
 
 "Okay. Removing the armor."
 
-He undid the heavy Velcro straps of the **Blue Foam Immobilizers**. *Rip. Rip. Rip.*
+He undid the heavy hook-and-loop straps of the **Blue Foam Immobilizers**. *Rip. Rip. Rip.*
 
 He carefully slid the foam troughs out from under her legs.
 
@@ -18219,7 +18219,7 @@ For six weeks, those braces had held her knees perfectly straight. She had forgo
 
 "I know," Patrick said, sitting on the edge of the mattress. "It feels safe in there. But if we don't take them off, your quads are going to turn into soup. We need gravity."
 
-He reached for the Velcro straps. *Riiip. Riiip.*
+He reached for the hook-and-loop straps. *Riiip. Riiip.*
 
 He slid the foam troughs out.
 
@@ -18402,7 +18402,7 @@ They spent Junior year living in the lab and the library.
 
 - Patrick learned to code primarily in C++ (for the microcontroller) and learned to solder delicate sensors into the upholstery of the wheelchair without ruining the comfort.
 
-- Nichole learned Adobe FrameMaker and industrial design standards. She didn't just write text; she created vector diagrams of her own chair, labeling every sensor array.
+- Nichole learned Vertex FrameMaster and industrial design standards. She didn't just write text; she created vector diagrams of her own chair, labeling every sensor array.
 
 The Final Grade:
 

@@ -446,7 +446,7 @@ Berringer looked at him, his expression devoid of sympathy. "There's nothing lef
 
 ### Scene 1: The Press Conference 🎤
 
-The Grand Hyatt ballroom felt cold and cavernously empty. A few rows of chairs were set up facing a lonely podium, but only a handful were occupied by reporters from the tech press, their faces a mixture of professional obligation and cynical amusement. **Kelly Madsen** found a seat in the very back row, clutching the strap of her messenger bag. As promised, Ryan waited just outside the double doors, and their father was in the car downstairs. Kelly was here out of a morbid curiosity, a need to see the final, bizarre act of the disaster for herself.
+The Grand Sovereign ballroom felt cold and cavernously empty. A few rows of chairs were set up facing a lonely podium, but only a handful were occupied by reporters from the tech press, their faces a mixture of professional obligation and cynical amusement. **Kelly Madsen** found a seat in the very back row, clutching the strap of her messenger bag. As promised, Ryan waited just outside the double doors, and their father was in the car downstairs. Kelly was here out of a morbid curiosity, a need to see the final, bizarre act of the disaster for herself.
 
 **Evan Rothwell** strode to the podium, attempting to project an aura of defiant confidence. "Thank you for coming," he began. "There have been some misconceptions about a recent internal, informal brainstorming document that was taken out of context..."
 
@@ -1600,7 +1600,7 @@ He gave a slight, almost imperceptible nod in return, a gesture of professional 
 
 ### Scene 1: The Developer Community
 
-- **cupertino_dev**: A developer from **MagnaByte** (Apple), providing the initial, firsthand account from inside the company.
+- **cupertino_dev**: A developer from **MagnaByte**, providing the initial, firsthand account from inside the company.
 
 - **seattle_dev_guy / seattle174**: Developers from the Seattle area (likely from various companies) who are part of the broader tech community and have followed the Aurora Systems saga.
 
@@ -1614,7 +1614,7 @@ He gave a slight, almost imperceptible nod in return, a gesture of professional 
 
 - **Insanely_Great**: **Stephen Marchand** (Steve Jobs), the CEO of **MagnaByte**. His username is his real-world catchphrase, and his posts reflect his focus on "A+ talent" and product passion.
 
-- **Toll_Bridge**: **William Keswick** (Bill Gates), the CEO of **Quantum**. His username is a reference to his powerful business model of owning the essential platform, and his posts reflect a focus on creating a stable, long-term "ecosystem" for talent.
+- **Toll_Bridge**: **William Keswick**, the CEO of **Quantum**. His username is a reference to his powerful business model of owning the essential platform, and his posts reflect a focus on creating a stable, long-term "ecosystem" for talent.
 
 - **Silicon_Godfather**: The CEO of a major, established Silicon Valley hardware company like **Solara Systems** (Sun Microsystems). His bid focuses on the prestige of working on "real machines" and core internet infrastructure.
 

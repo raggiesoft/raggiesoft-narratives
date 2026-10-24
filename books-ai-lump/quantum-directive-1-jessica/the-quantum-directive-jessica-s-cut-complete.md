@@ -49,7 +49,7 @@ Jessica nodded, waiting for the usual rhythm: here’s what you’re doing well,
 
 Travel details.
 
-Jessica blinked at it, her brain taking a second to catch up. Boeing Field to T.F. Green State Airport, Providence. Ground transport to Boston. No project brief, no agenda.
+Jessica blinked at it, her brain taking a second to catch up. Pacific Aerospace Field to T.F. Green State Airport, Providence. Ground transport to Boston. No project brief, no agenda.
 
 **Jessica:** “This… isn’t a review.”
 
@@ -143,9 +143,9 @@ A white Quantum employee shuttle turned onto her street and slowed to a stop in 
 
 The driver stepped out and lowered the ramp with a practiced motion.
 
-**Driver:** “Morning, Ms. Taylor. Straight to Boeing Field.”
+**Driver:** “Morning, Ms. Taylor. Straight to Pacific Aerospace Field.”
 
-Jessica blinked. Boeing Field. Not Sea-Tac. And definitely not the Overlake Transit Center.
+Jessica blinked. Pacific Aerospace Field. Not Sea-Tac. And definitely not the Overlake Transit Center.
 
 She rolled aboard, locking her chair into place. The interior smelled faintly of new upholstery and the lemony cleaner they used on the campus shuttles.
 
@@ -155,7 +155,7 @@ As the ramp folded away and the shuttle pulled off her street, she caught her re
 
 The ride south was quiet. No chatter from other passengers — there were none. Just the driver, focused on the road, and the occasional radio squawk from dispatch. The city slid past: the glass towers of downtown, the cranes over the shipyards, the long sweep of the Duwamish River.
 
-When they turned into Boeing Field, she saw the charter jet waiting on the tarmac — sleek, white, with the Quantum logo discreetly near the tail. A small group stood near the boarding stairs: senior executives she recognized from quarterly meetings, and two members of the legal team.
+When they turned into Pacific Aerospace Field, she saw the charter jet waiting on the tarmac — sleek, white, with the Quantum logo discreetly near the tail. A small group stood near the boarding stairs: senior executives she recognized from quarterly meetings, and two members of the legal team.
 
 The shuttle pulled up beside them. The driver lowered the ramp, and one of the execs stepped forward with a smile that didn’t quite hide the tension in his eyes.
 
@@ -185,7 +185,7 @@ As the door sealed and the engines began to spool, she looked out the window one
 
 ### Scene 6: The Flight East
 
-The charter lifted off from Boeing Field with a smoothness Jessica had never felt on a commercial flight. No boarding announcements, no jostling for overhead space — just the quiet push of acceleration and the tilt of the horizon as Seattle fell away beneath them.
+The charter lifted off from Pacific Aerospace Field with a smoothness Jessica had never felt on a commercial flight. No boarding announcements, no jostling for overhead space — just the quiet push of acceleration and the tilt of the horizon as Seattle fell away beneath them.
 
 She sat near the middle of the cabin, her chair secured in place, travel bag tucked beside her. Around her, the senior executives and two members of the legal team had already opened folders and laptops, their voices low but urgent.
 
@@ -1176,7 +1176,7 @@ Their father, David Madsen, who had overheard their conversation from the kitche
 
 ### Scene 4: The Press Conference
 
-The Grand Hyatt ballroom felt cold and impersonal. Kelly Madsen found a seat in the back row, trying to make herself invisible. She didn't know why she had come, only that Evan Rothwell’s terse demand on her pager had triggered a conditioned, fearful obedience. She knew the developers had walked out, but what did that mean? Was this Evan's desperate, last-ditch effort to save the company?
+The Grand Sovereign ballroom felt cold and impersonal. Kelly Madsen found a seat in the back row, trying to make herself invisible. She didn't know why she had come, only that Evan Rothwell’s terse demand on her pager had triggered a conditioned, fearful obedience. She knew the developers had walked out, but what did that mean? Was this Evan's desperate, last-ditch effort to save the company?
 
 The room was packed with reporters from every major tech outlet. Evan strode to the podium, a look of defiant confidence on his face that made Kelly’s stomach clench. He began to speak.
 

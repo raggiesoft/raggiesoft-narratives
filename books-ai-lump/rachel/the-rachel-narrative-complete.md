@@ -4100,7 +4100,7 @@ The indignity of our injuries was immense. But the pack had built a system that 
 
 The transition from day to night in our new living room fortress required a delicate, deliberate shifting of gears.
 
-By ten-thirty, the sheer physical and emotional exhaustion of the hospital discharge had caught up with everyone. Mom administered our final dose of medication for the night—muscle relaxants for me, heavy Tylenol for Rachel—and kissed our foreheads. Dad did a final, meticulous sweep of the house, checking the deadbolts on the front and back doors twice.
+By ten-thirty, the sheer physical and emotional exhaustion of the hospital discharge had caught up with everyone. Mom administered our final dose of medication for the night—muscle relaxants for me, heavy acetaminophen for Rachel—and kissed our foreheads. Dad did a final, meticulous sweep of the house, checking the deadbolts on the front and back doors twice.
 
 "We are right at the top of the stairs," Dad promised, standing at the edge of the living room. "If you need the bathroom, if you need water, if you feel even a twinge of pain, you yell for me, and I will be down here in three seconds. Understand?"
 
@@ -12306,7 +12306,7 @@ We didn't linger at the freeway stop. We had to make the transfer.
 
 We walked the short distance over to the main Overlake Transit Center. As we moved along the wide, flush sidewalks, the reality of our location settled over the pack. We were walking right along the absolute perimeter of the Quantum headquarters.
 
-Jessica pushed her manual chair with a fierce, rapid cadence. She wasn't struggling against the terrain; the Microsoft-funded infrastructure of Redmond was flawlessly paved and perfectly graded. She was looking at the blue badges clipped to the belts of the few employees walking past us, her analytical brain already calculating the exact route she would take from this very transit center to her desk on Monday morning.
+Jessica pushed her manual chair with a fierce, rapid cadence. She wasn't struggling against the terrain; the Quantum-funded infrastructure of Redmond was flawlessly paved and perfectly graded. She was looking at the blue badges clipped to the belts of the few employees walking past us, her analytical brain already calculating the exact route she would take from this very transit center to her desk on Monday morning.
 
 "We catch the 230 here," Jessica ordered, pulling her chair to a sharp halt under the metal transit shelter and locking her brakes. Her eyes were bright, the stoic armor replaced by a fierce, undeniable electricity. "It's a local route. It takes us straight down to the Bellevue Transit Center."
 
@@ -12516,7 +12516,7 @@ I didn't say a word. I just closed the distance between us and wrapped my arms t
 
 When the front door finally slammed shut, signaling that one of them had left for work, I unlocked the bathroom door and we quietly made our way to the kitchen.
 
-The emotional fallout was hanging heavy in the air, but the dogs were blissfully oblivious. Baby, now a massive, graying senior Lab, was asleep on the cool linoleum directly in front of the refrigerator. Archie immediately trotted up to Rachel, a faded, slobber-soaked Frisbee clamped proudly in his one-eyed gaze.
+The emotional fallout was hanging heavy in the air, but the dogs were blissfully oblivious. Baby, now a massive, graying senior Lab, was asleep on the cool linoleum directly in front of the refrigerator. Archie immediately trotted up to Rachel, a faded, slobber-soaked flying disc clamped proudly in his one-eyed gaze.
 
 Rachel mechanically reached down and scratched Archie’s ears, her jaw tight.
 
@@ -15850,7 +15850,7 @@ Exactly on schedule, a female lounge attendant in a crisp navy blue Meridian uni
 
 I quickly shut down my system, packed my bag, and grabbed the rubber push-handles of her wheelchair. We followed the attendant out of the sanctuary of the lounge and back into the bright, noisy reality of the terminal.
 
-The gate area was crowded, packed with people waiting to board the massive Boeing 757. But we didn't stop. The attendant swiped our boarding passes and opened the glass door leading directly down the jet bridge.
+The gate area was crowded, packed with people waiting to board the massive PAC 757. But we didn't stop. The attendant swiped our boarding passes and opened the glass door leading directly down the jet bridge.
 
 The jet bridge was steep, sloping downward toward the airplane door. I leaned back slightly, using my body weight and the friction of the rubber handles to keep Jessica's chair rolling at a slow, controlled pace.
 
@@ -18252,7 +18252,7 @@ The interior was suffocating. The air was a stagnant, climate-controlled mixture
 
 I found Delores sitting in the middle of the bus, having already claimed the window seat. I collapsed into the aisle seat next to her, my knees immediately pressing against the hard plastic back of the row in front of me. The legroom was nonexistent. My CP was already screaming for relief, and the bus hadn't even shifted into gear. 
 
-I pulled my Nokia 3310 out of my jacket pocket and stared at the blank screen. It was on Ellen's family plan—she paid the bill every month just to make sure I had a lifeline. 
+I pulled my Kova 3310 out of my jacket pocket and stared at the blank screen. It was on Ellen's family plan—she paid the bill every month just to make sure I had a lifeline. 
 
 *Jessica.*
 
@@ -19971,7 +19971,7 @@ It was 5:05 AM. The heater on the bus was running, but I was still shaking from 
 
 I felt incredibly uncomfortable calling her at such a strange hour, but as the bus rattled down the dark street, the panic threatened to swallow me whole. I felt like I had no choice. I pulled out my thick plastic Kallio 330 brick phone and dialed her number.
 
-![Michael frantically calling Jessica from a crowded Gillig Phantom bus in the early morning darkness]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg#fullwidth)
+![Michael frantically calling Jessica from a crowded Stalwart Phantom bus in the early morning darkness]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg#fullwidth)
 
 I held the phone to my ear, listening to the dialing tone. *Please, Jess. Please pick up,* I thought to myself, desperately trying to hold back the hot tears stinging my eyes.
 
@@ -20914,7 +20914,7 @@ Rachel had dragged a chair over from the dining table, planting it right next to
 
 I double-clicked the icon for *Aura Studio Pro 6*.
 
-On my old 110L, launching the massive Digital Audio Workstation took over a minute of agonizing, stuttering load times. On this rig, the Intel Core 2 Duo processor annihilated the initialization sequence. The software snapped open in seconds.
+On my old 110L, launching the massive Digital Audio Workstation took over a minute of agonizing, stuttering load times. On this rig, the MicroFoundry Core 2 Duo processor annihilated the initialization sequence. The software snapped open in seconds.
 
 I navigated to the secondary hard drive, pulling up a heavy synthwave beat I had started producing for *The Stardust Engine* weeks ago. I loaded a half-dozen complex Virtual Studio Technology (VST) synthesizers onto the timeline, fully expecting the CPU to choke on the math.
 
@@ -25158,7 +25158,7 @@ Jessica’s eyes lit up. She wiped her hands on a paper towel and wheeled around
 
 "I don't have an active pass," I reminded her, pulling my winter coat off the hook by the door. "The monthly passes run calendar to calendar. My next one isn't valid until December."
 
-"Right. Grab your quarters then," Jessica instructed. "King County Metro is exact change only."
+"Right. Grab your quarters then," Jessica instructed. "TAPS is exact change only."
 
 I walked into the bedroom and grabbed two heavy rolls of quarters from my bag, dropping them into my coat pocket. The solid, heavy weight of the coins was a deeply comforting tactile anchor.
 
@@ -25340,7 +25340,7 @@ Standing on the freezing pavement outside the historic stone facade of Hudson’
 
 Rachel didn't even need to look at a paper schedule. Her dark eyes lit up, her transit-wired brain immediately accessing the massive, interconnected map of the city.
 
-"Pioneer Square," Rachel rasped smoothly. "It's straight south. They just opened the new Klondike Gold Rush National Historical Park over the summer in the Cadillac Hotel building. It’s entirely indoors, it’s a museum so it’s quiet, and it’s perfectly flat."
+"Pioneer Square," Rachel rasped smoothly. "It's straight south. They just opened the new Klondike Gold Rush National Historical Park over the summer in the Yukon Hotel building. It’s entirely indoors, it’s a museum so it’s quiet, and it’s perfectly flat."
 
 "A museum sounds flawless," Kristin smiled, squeezing my hand.
 
@@ -25378,7 +25378,7 @@ The ride down 3rd Avenue was incredibly brief. We bypassed the towering skyscrap
 
 "Jackson Street," Rachel announced, pulling the yellow stop-request cord.
 
-We deployed off the bus, stepping into the quiet, historic heart of Pioneer Square. The biting wind off the bay was blocked by the massive brick buildings. We rolled exactly one block over to Second Avenue South, stopping in front of the beautifully restored Cadillac Hotel.
+We deployed off the bus, stepping into the quiet, historic heart of Pioneer Square. The biting wind off the bay was blocked by the massive brick buildings. We rolled exactly one block over to Second Avenue South, stopping in front of the beautifully restored Yukon Hotel.
 
 Pushing through the heavy glass doors into the Klondike Gold Rush National Historical Park was a profound sensory relief. Because the facility had just opened in its new, permanent location a few months prior, the environment was immaculate. The air smelled of polished hardwood, fresh plaster, and old paper. The lighting was warm and museum-quality—perfectly directed at the exhibits, leaving the walkways in comfortable, soothing shadows.
 
@@ -25448,7 +25448,7 @@ I looked back at the sepia-toned photograph of the timber lodge. The ghost of Ke
 
 **Date:** 2006-11-24 at 11:45 America/Los_Angeles
 
-We pushed through the heavy glass doors of the Cadillac Hotel, leaving the warm, quiet exhibits of the Klondike museum behind us.
+We pushed through the heavy glass doors of the Yukon Hotel, leaving the warm, quiet exhibits of the Klondike museum behind us.
 
 The moment we stepped back onto the pavement of Second Avenue South, the freezing wind whipping off Elliott Bay hit us again. But the psychological atmosphere had completely shifted. We weren't just wandering through the cold to kill time anymore; we were armed with the historical blueprint of our future sanctuary.
 

@@ -3526,7 +3526,7 @@ He then explained his research. THERE'S A PROGRAM CALLED 'KINESIS VIRTUAL ENGIN
 
 James Miller, recognizing both the legitimacy of the problem and the brilliance of his son's solution, knew exactly how to frame it for the insurance company. He drafted a formal letter, co-signed by Alex's AP Physics teacher, requesting a complete "Legacy Software Compatibility Package."
 
-The letter was a masterpiece of "insurance-speak." It argued that, to access his mandated curriculum, Alex required not just the Kinesis Virtual Engine virtualization software, but also licensed installation media for two legacy operating systems: Quantum OS 98 Second Edition (to run his 32-bit school software) and Quantum OS for Workgroups 3.11(running on top of MS-DOS 6.22, for any truly ancient 16-bit educational tools the school might still use).
+The letter was a masterpiece of "insurance-speak." It argued that, to access his mandated curriculum, Alex required not just the Kinesis Virtual Engine virtualization software, but also licensed installation media for two legacy operating systems: Quantum OS 98 Second Edition (to run his 32-bit school software) and Quantum OS for Workgroups 3.11(running on top of Q-Core 6.22, for any truly ancient 16-bit educational tools the school might still use).
 
 The package was approved.
 
@@ -3570,7 +3570,7 @@ Sophie Mason’s eyes widened with an exaggerated flair, her Québécois accent 
 
 Chloé's attention sharpened instantly, a thrill going through her. The Quantum Vision Summit! She’d pored over articles about it online, even streamed highlights from last year’s keynote where they unveiled the new Quantum OS Alex was already beta-testing on his Quantum OS Tablet Pro. Attending it someday, maybe even presenting as a future Quantum innovator, was a carefully hoarded dream. The idea of her father being right there, at *the* event of the year for anyone interested in tech, was almost surreal.
 
-Sophie beamed, continuing, "And since Thomas will be deep in the heart of Seattle, listening to geniuses talk about algorithms and the next generation of software at the Convention Center all day," she gave her husband an affectionate pat on the arm, "I have decided it's the perfect opportunity for me to accompany him. I can explore Pike Place Market, perhaps visit some of those lovely art museums, and just enjoy the Pacific Northwest in the spring while he’s busy shaping the future of technology!"
+Sophie beamed, continuing, "And since Thomas will be deep in the heart of Seattle, listening to geniuses talk about algorithms and the next generation of software at the Convention Center all day," she gave her husband an affectionate pat on the arm, "I have decided it's the perfect opportunity for me to accompany him. I can explore Pioneer Public Market, perhaps visit some of those lovely art museums, and just enjoy the Pacific Northwest in the spring while he’s busy shaping the future of technology!"
 
 A brief, loaded silence fell as the implications settled. Chicago. Seattle. All four parents would be out of town, on opposite sides of the country, for the entirety of Spring Break.
 
@@ -3960,7 +3960,7 @@ A hesitant figure approached, a freshman by the looks of his new backpack and ut
 
 "Uh… is this… where you wait for…?" Henderson Jr. mumbled, his voice barely audible. He wrinkled his nose, subtly at first, then more obviously as he got closer to Josh. "What *is* that smell?"
 
-Josh eyed the freshman, a flicker of something – pity? Grim amusement? – in his eyes. "Lost, kid? Or just early for your first official meeting with Her Majesty of the Hefty Bags?" "S-supposed to report for… trash duty," Henderson Jr. stammered, avoiding eye contact. "Mrs. DeMarco said 2:15." He sniffed again. "Is that smell… you?"
+Josh eyed the freshman, a flicker of something – pity? Grim amusement? – in his eyes. "Lost, kid? Or just early for your first official meeting with Her Majesty of the Trash Bags?" "S-supposed to report for… trash duty," Henderson Jr. stammered, avoiding eye contact. "Mrs. DeMarco said 2:15." He sniffed again. "Is that smell… you?"
 
 Josh let out a harsh, humorless chuckle. "Part of the uniform after a while. You'll get your own signature blend soon enough. Welcome to the club, Henderson. Yeah, I heard it was another Henderson today. Thought your older brother would've warned ya about shouting things in the caf."
 
@@ -4384,7 +4384,7 @@ Chloé, ever thoughtful and deeply attuned to Alex's anxieties about her departu
 
 They flew out together, Alex handling the airport navigation with his AAC and practiced ease, Chloé his steadfast companion. Their accessible hotel room near the Seattle suburb of Lynnwood, thoughtfully booked by Chloé, featured a single, spacious king-sized bed – a practical choice for an accessible room and one that mirrored the comforting and familiar sleep arrangement that had been their norm for years whenever they were under the same roof.
 
-The first few days were a blur of Pacific Northwest sights. They rode the monorail in Seattle, visited the bustling Pike Place Market (Chloé describing the vibrant colors and Alex the cacophony of sounds via his AAC), and took a ferry across the Sound, the cool breeze a refreshing change from the Virginia humidity. Chloé showed him the NPU campus, pointing out the library where she’d be spending countless hours and the student union. Alex, in turn, asked insightful questions, his interest genuine, his presence a quiet support for her upcoming adventure.
+The first few days were a blur of Pacific Northwest sights. They rode the monorail in Seattle, visited the bustling Pioneer Public Market (Chloé describing the vibrant colors and Alex the cacophony of sounds via his AAC), and took a ferry across the Sound, the cool breeze a refreshing change from the Virginia humidity. Chloé showed him the NPU campus, pointing out the library where she’d be spending countless hours and the student union. Alex, in turn, asked insightful questions, his interest genuine, his presence a quiet support for her upcoming adventure.
 
 ### Scene 2: A Special Evening
 
@@ -9636,7 +9636,7 @@ Megan, catching on to the game, repeated the phrase, her voice a little hesitant
 
 Just then, the waiter arrived, a knowing, amused look on his face. He turned to Megan. "*Et pour vous, mademoiselle?*" (And for you, miss?)
 
-Megan took a deep, theatrical breath and, with a proud look at Chloé, declared in her best, loudest Québécois accent, "*Je vais prendre un smoked meat, medium-fat, s'il vous plaît! Et un Coke aux cerises!*"
+Megan took a deep, theatrical breath and, with a proud look at Chloé, declared in her best, loudest Québécois accent, "*Je vais prendre un smoked meat, medium-fat, s'il vous plaît! Et un cola aux cerises!*"
 
 The tourist had finally had enough. "We're cussing now?" she snapped, her voice dripping with a condescending, Parisian disdain.
 
@@ -10164,7 +10164,7 @@ They continued west on I-90. A few minutes later, the dense trees gave way to a 
 
 They drove onto the bridge, the blue water of the lake stretching out on either side of them, dotted with sailboats and the distant wakes of ferries. For three young adults who had grown up with the familiar waters of the Chesapeake Bay, this was a different kind of magic.
 
-As they came off the bridge and through the Mount Baker Tunnel, the final, spectacular reveal happened. The tunnel opened up, and there it was: the iconic skyline of downtown Seattle, the Space Needle standing like a proud sentinel, with the city's impressive collection of skyscrapers gleaming in the late afternoon sun.
+As they came off the bridge and through the Mount Baker Tunnel, the final, spectacular reveal happened. The tunnel opened up, and there it was: the iconic skyline of downtown Seattle, the Century Spire standing like a proud sentinel, with the city's impressive collection of skyscrapers gleaming in the late afternoon sun.
 
 A profound, reverent silence fell over both cars. This was it. This was their new home.
 
@@ -11348,7 +11348,7 @@ And in that moment, a new, audacious, and incredibly exciting idea began to form
 
 Ignoring the wedding plans for a moment, he navigated through the file system on his computer, digging into an old, archived folder from his time at CCHR. He found the file he was looking for: Capstone_Project_Final.qdev.
 
-He opened it. On the screen, the familiar, clean C# code from his old capstone project appeared—his prototype for a more intuitive, context-aware AAC interface. It was two years old, written for a different version of Quantum Studio, but the core logic, the brilliant spark of the idea, was still there.
+He opened it. On the screen, the familiar, clean Quantum Sharp code from his old capstone project appeared—his prototype for a more intuitive, context-aware AAC interface. It was two years old, written for a different version of Quantum Studio, but the core logic, the brilliant spark of the idea, was still there.
 
 Chloé, noticing his sudden, intense focus on a different project, wheeled her chair over. "What's that, my love?" she asked, her voice full of curiosity. "Taking a trip down memory lane?"
 
@@ -11368,7 +11368,7 @@ The next day, the quiet, focused energy in their shared office was palpable. Ale
 
 By late afternoon, he had a working prototype. He called Chloé and Megan over to his desk. On his screen was a simple interface.
 
-THE MAIN APPLICATION IS WRITTEN IN C#, he explained. BUT I'VE EMBEDDED A LUA SCRIPTING ENGINE.
+THE MAIN APPLICATION IS WRITTEN IN QUANTUM SHARP, he explained. BUT I'VE EMBEDDED A LUA SCRIPTING ENGINE.
 
 He executed a small script, and his device seamlessly switched between its Québécois and American voices, speaking a line from his vows. The transition was instantaneous and elegant.
 
@@ -13352,7 +13352,7 @@ Chloé and Megan just stared, a look of pure, unadulterated awe on their faces. 
 
 The year 2025 was a blur of concrete, code, and contracts. While the physical structure of the Lynnwood Discovery and Care Center was taking shape, Alex was deep in the digital architecture of its future. His primary focus was refining and improving Echo Bridge Axon, but a new, fascinating side project had captured his imagination.
 
-In his downtime, he had become obsessed with the challenge of porting his software to a completely different ecosystem. He would spend hours on his MagnaByte laptop, which was running the latest version of MagnaCode Studio, meticulously rewriting his C# codebase and redesigning his interface for the elegant world of magnaOS. He already had a rough, but functional, alpha-quality prototype that he could compile and run natively on the machine. It was a personal challenge, a puzzle he was determined to solve.
+In his downtime, he had become obsessed with the challenge of porting his software to a completely different ecosystem. He would spend hours on his MagnaByte laptop, which was running the latest version of MagnaCode Studio, meticulously rewriting his Quantum Sharp codebase and redesigning his interface for the elegant world of magnaOS. He already had a rough, but functional, alpha-quality prototype that he could compile and run natively on the machine. It was a personal challenge, a puzzle he was determined to solve.
 
 He had no idea that this quiet passion project was about to become the key to their future.
 

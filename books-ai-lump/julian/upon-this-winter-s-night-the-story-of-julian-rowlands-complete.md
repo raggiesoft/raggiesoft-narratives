@@ -1256,7 +1256,7 @@ Vance bypassed the front seat entirely. He saw the collapsed steering column and
 
 Vance’s only priority was the back seat.
 
-He shined his heavy Maglite through the shattered rear window, cutting through the thick, choking smoke of the detonated airbags.
+He shined his heavy duty flashlight through the shattered rear window, cutting through the thick, choking smoke of the detonated airbags.
 
 The beam of light landed on the floorboards.
 
@@ -1362,7 +1362,7 @@ A dozen state troopers and local officers swarmed the wrecked sedan, their flash
 
 "Show me your hands!" a trooper bellowed, his weapon drawn as he approached the driver's side window. He shined the light inside, immediately seeing the pinned, unconscious driver. "Suspect is down! I need EMS, heavy rescue, and the jaws right now! Driver is pinned!"
 
-Around the back of the car, Trooper Vance rushed to the shattered rear window. He shined his heavy Maglite into the dark, smoky back seat.
+Around the back of the car, Trooper Vance rushed to the shattered rear window. He shined his heavy duty flashlight into the dark, smoky back seat.
 
 The beam of light illuminated Julian, curled defensively on the floorboards, shivering violently in his thin shirt.
 

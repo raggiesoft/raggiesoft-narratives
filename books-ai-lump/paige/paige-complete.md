@@ -1234,7 +1234,7 @@ Freddie froze. He felt Paige step closer to his right side, her shoulder pressin
 
 Ellen looked at Freddie. She saw the puffiness. She saw the way he was leaning slightly against Paige. She suspected "allergies" was code for "high school is hard," but she also knew her son. If she pushed him now, he would shut down.
 
-"Well, take a Claritin after dinner," Ellen said briskly, drying her hands. "Set the table, Freddie. We need nine spots."
+"Well, take an allergy tablet after dinner," Ellen said briskly, drying her hands. "Set the table, Freddie. We need nine spots."
 
 "Affirmative," Freddie whispered.
 
@@ -4180,7 +4180,7 @@ Freddie read the list. Then he read it again. He felt a strange sensation in his
 
 Freddie looked up at Jessica. "This document... it describes the operating system." "It describes *your* operating system," Jessica said. "You aren't broken, Freddie. You’re Autistic. Your brain is wired to process data differently. You take in everything—every sound, every light, every pattern—all at once. Most people filter that stuff out. You don't. That’s why you crash. It’s a buffer overflow."
 
-Freddie processed the analogy. "Buffer overflow," he repeated. "Too much data. System hang." "Exactly," Jessica said. "Dad tried to run you like a standard Windows machine. He kept smashing the keyboard wondering why it wouldn't work. But you're not Windows. You're Linux. You're a custom build."
+Freddie processed the analogy. "Buffer overflow," he repeated. "Too much data. System hang." "Exactly," Jessica said. "Dad tried to run you like a standard Quantum OS machine. He kept smashing the keyboard wondering why it wouldn't work. But you're not Quantum OS. You're Aurora. You're a custom build."
 
 Freddie looked back at the binder. He touched the word **Autism**. For eighteen years, he had been called "shy," "weird," "difficult," and "broken." He had been yelled at for covering his ears. He had been mocked for rocking. But here, in black and white text from a major university, it wasn't an insult. It was a spec sheet.
 
@@ -4851,7 +4851,7 @@ Dr. Vance was a tall man with wire-rimmed glasses and a demeanor that was effici
 
 "Affirmative," Freddie said from the exam table. He was sitting on the crinkly paper, legs dangling. "I require a maintenance check and referrals."
 
-"Let's start with the history," Dr. Vance said. "I see Cerebral Palsy and ADHD on the transfer file." "Spastic Diplegia," Freddie corrected. "Mild. Mostly affects the lower extremities. I require Baclofen for the spasticity." "And the ADHD?" "Ritalin," Freddie said. "Standard dosage. It maintains focus."
+"Let's start with the history," Dr. Vance said. "I see Cerebral Palsy and ADHD on the transfer file." "Spastic Diplegia," Freddie corrected. "Mild. Mostly affects the lower extremities. I require Baclofen for the spasticity." "And the ADHD?" "Methylphenidate," Freddie said. "Standard dosage. It maintains focus."
 
 Dr. Vance nodded, making notes. Then he looked at Jessica, then back to Freddie. "Anything else?"
 
@@ -10523,7 +10523,7 @@ He was 2,000 miles from home. He was injured. And he was alone.
 
 ### Scene 7: The Burning Mile
 
-The Boeing 737 banked sharply, the engines whining as they began their descent into Nashville.
+The PAC 737 banked sharply, the engines whining as they began their descent into Nashville.
 
 "Ladies and gentlemen, we're starting our initial approach into BNA," the captain’s voice crackled over the intercom. "Weather in Nashville is sunny and seventy-five."
 
@@ -12343,7 +12343,7 @@ Freddie cut into his omelet. It was fluffy, hot, and savory. He took a bite of t
 
 "Tanks filling," Freddie said. He pointed to the map with his fork.
 
-"Vector confirmed," he stated. "We exit the hotel. We enter the Transit Tunnel at Convention Place. We board the bus. We transfer to the Metro-Rail at Westlake Center. We proceed to the Sky-Spire."
+"Vector confirmed," he stated. "We exit the hotel. We enter the Transit Tunnel at Convention Place. We board the bus. We transfer to the Metro-Rail at Westlake Plaza. We proceed to the Sky-Spire."
 
 "And the bus ride?" Jessica asked gently, watching him over her coffee mug.
 
@@ -12420,7 +12420,7 @@ The bus glided to a halt at Westlake Station. They stepped off onto the mezzanin
 
 "Upstairs," Jessica said, pointing to the signs. "To the Monorail."
 
-They took the escalator up, rising from the subterranean tunnel into the light-filled atrium of the Westlake Center mall.
+They took the escalator up, rising from the subterranean tunnel into the light-filled atrium of the Westlake Plaza mall.
 
 "Level 3," Freddie recited from the research. "The station is integrated into the architecture."
 
@@ -12681,7 +12681,7 @@ They helped him stand. His legs were stiff, but because he hadn't walked the aqu
 
 Freddie flinched. "We deleted that file."
 
-"I want to overwrite it," Paige said fiercely. "Listen to me. If Jessica gets a job in New York... we all go to New York. If I get a fellowship in Italy... we all go to Italy. If you get a job at NASA in Houston... we all go to Houston."
+"I want to overwrite it," Paige said fiercely. "Listen to me. If Jessica gets a job in New York... we all go to New York. If I get a fellowship in Italy... we all go to Italy. If you get a job at NAA in Houston... we all go to Houston."
 
 She squeezed his fingers until his knuckles cracked.
 
@@ -13647,7 +13647,7 @@ Freddie held his bowl of shells and cheese. It was hot, salty, and creamy—pure
 
 Freddie looked at the fire. He listened to the river outside. He looked at his sisters, eating macaroni in their socks on a cabin floor in the shadow of a volcano.
 
-He thought about the "fancy" dinner Vanessa had promised him at the Space Needle—a rotating view, expensive wine, strangers watching him eat.
+He thought about the "fancy" dinner Vanessa had promised him at the Century Spire—a rotating view, expensive wine, strangers watching him eat.
 
 This was better. This was real.
 
@@ -16625,9 +16625,9 @@ The firewall was installed. The Avery Unit had a permanent home. And it only cos
 
 ### Scene 2: The Hardware Upgrade
 
-The living room was transformed into a command center. The coffee table was covered in glossy brochures Freddie had requested by mail: *TiLite*, *Quickie*, *Colours*.
+The living room was transformed into a command center. The coffee table was covered in glossy brochures Freddie had requested by mail: *ApexLite*, *SwiftChair*, *Colours*.
 
-Freddie sat on the floor, surrounded by the paperwork. He wasn't looking at the "Lifestyle" photos of people playing basketball or smiling on beaches. He was looking at the technical specifications table on the back page of the *TiLite TR* brochure.
+Freddie sat on the floor, surrounded by the paperwork. He wasn't looking at the "Lifestyle" photos of people playing basketball or smiling on beaches. He was looking at the technical specifications table on the back page of the *ApexLite TR* brochure.
 
 "Titanium," Freddie murmured, tracing the line item. "Grade 9. Seamless aerospace tubing."
 
@@ -16673,7 +16673,7 @@ Freddie reached out. He took the phone from Jessica.
 
 *"But—"*
 
-"The walking variable is inefficient," Freddie stated, staring at the TiLite brochure. "It consumes 60% of my processing power just to maintain balance. That leaves only 40% for observation, calculation, and interaction. With the Rover, mobility cost drops to 10%. Processing power increases to 90%."
+"The walking variable is inefficient," Freddie stated, staring at the ApexLite brochure. "It consumes 60% of my processing power just to maintain balance. That leaves only 40% for observation, calculation, and interaction. With the Rover, mobility cost drops to 10%. Processing power increases to 90%."
 
 *"Freddie, life isn't a computer program,"* Ellen sighed. *"It's about appearance. It's about fitting in."*
 
@@ -19074,7 +19074,7 @@ Freddie let out a long breath. He leaned his head sideways, resting it against P
 
 The air inside Campbell Court was a familiar, hostile mixture of diesel soot, stale tobacco, and the damp smell of concrete that never quite dried. It was a sensory environment Freddie usually categorized as "Critical Threat," but today, the static in his head was drowned out by the hum of anticipation.
 
-He sat in *The Rover*—his matte black titanium TiLite wheelchair—parked near Gate 4. He wasn't wearing his orange hoodie today; it was too warm. Instead, he wore a soft grey t-shirt and dark jeans, his hands resting on the cambered wheels.
+He sat in *The Rover*—his matte black titanium ApexLite wheelchair—parked near Gate 4. He wasn't wearing his orange hoodie today; it was too warm. Instead, he wore a soft grey t-shirt and dark jeans, his hands resting on the cambered wheels.
 
 Paige stood directly behind him, her hands resting on his shoulders, her thumbs rubbing a rhythmic, grounding circle into his trapezius muscles.
 
@@ -20354,7 +20354,7 @@ Instantly—faster than a blink—the glass turned completely transparent.
 
 The milky white vanished. It looked like the door wasn't even there. He could see the subway tile, the chrome shower, the black floor.
 
-"Whoa," Jenna breathed. "Star Trek force field."
+"Whoa," Jenna breathed. "Sci-fi force field."
 
 "PDLC technology," Freddie murmured, mesmerized. "Polymer Dispersed Liquid Crystal. Voltage aligns the particles."
 
@@ -21042,7 +21042,7 @@ It was loud. It was crowded.
 
 She carried a massive serving bowl of spaghetti to the table. Steam curled off the mountain of pasta.
 
-Linda followed with a platter of meatballs and a basket of garlic bread that was stacked like Jenga blocks.
+Linda followed with a platter of meatballs and a basket of garlic bread that was stacked like Timber Drop blocks.
 
 They squeezed in.
 

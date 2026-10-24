@@ -220,7 +220,7 @@ A faculty member leaned over the table, smiling brightly. "That's right! We just
 
 Cassandra offered him a tight, incredibly polite smile. "It certainly is an investment."
 
-She wheeled herself slowly down the line of tables, her processor working overtime. IBM—or rather, Atlas—had successfully convinced the university to commit their entire departmental budget to a platform that was practically already dead. With Quantum OS 95 dropping in a month, betting the farm on Atlas OS/2 was a catastrophic failure of market foresight. 
+She wheeled herself slowly down the line of tables, her processor working overtime. Atlas had successfully convinced the university to commit their entire departmental budget to a platform that was practically already dead. With Quantum OS 95 dropping in a month, betting the farm on Atlas OS/2 was a catastrophic failure of market foresight. 
 
 At the very end of the row of tables, Cassandra paused. Set up on a small pedestal was a thick, beige keyboard with a massive, blocky casing. A small handwritten sign next to it read: *Where it all began!*
 
@@ -532,7 +532,7 @@ We had long since finished our overpriced zoo burgers and were now just sitting 
 
 Casey immediately sat up, her eyes wide with betrayal. "But the lions! We are positioned directly adjacent to the Great Cats perimeter!"
 
-"We will still see the lions, Casey," Mom promised soothingly. "As soon as the rain drops to a manageable drizzle, we'll make a quick pass by their enclosure on our way back up the hill. But after that, we need to find an indoor activity. The Smithsonian museums on the National Mall are entirely climate-controlled."
+"We will still see the lions, Casey," Mom promised soothingly. "As soon as the rain drops to a manageable drizzle, we'll make a quick pass by their enclosure on our way back up the hill. But after that, we need to find an indoor activity. The Finch Endowment museums on the National Mall are entirely climate-controlled."
 
 "It's not just about getting wet, Casey," Cassandra added softly. She wasn't looking at the map; she was staring down at the control tiller of her rented mobility scooter. 
 
@@ -550,7 +550,7 @@ How did people who relied entirely on heavy power wheelchairs navigate severe we
 
 "We wait for the rain to break," Cassandra declared finally, her voice firm. "Then we execute a rapid extraction. We view the lions, we push hard up the hill to return the scooter, and we transition to the subterranean rail network."
 
-"The Air and Space Museum," Casey suggested immediately, pivoting her logistical focus to the National Mall. "It has the largest indoor square footage of any Smithsonian facility."
+"The Finch Air and Space Museum," Casey suggested immediately, pivoting her logistical focus to the National Mall. "It has the largest indoor square footage of any Finch Endowment facility."
 
 "Air and Space it is," Dad agreed, looking relieved that we had successfully negotiated a truce. 
 
@@ -1758,7 +1758,7 @@ The heavy cloud cover over the Pacific Northwest was a stark contrast to the bla
 
 "Transit logistics," Casey announced, holding a printed map she had thoroughly highlighted. "We need TAPS King County Route 194."
 
-We walked down the arrivals drive until we found the bus zone. A few minutes later, a heavy-duty Gillig Phantom transit bus pulled up to the curb. It was painted in a distinct teal, gold, and white wavy livery with the letters *TAPS* emblazoned on the side. The driver lowered the mechanical wheelchair lift so Cassandra could board, and the rest of us followed. 
+We walked down the arrivals drive until we found the bus zone. A few minutes later, a heavy-duty Stalwart Phantom transit bus pulled up to the curb. It was painted in a distinct teal, gold, and white wavy livery with the letters *TAPS* emblazoned on the side. The driver lowered the mechanical wheelchair lift so Cassandra could board, and the rest of us followed. 
 
 Because we were visitors and didn't have permanent transit passes, Dad dropped cash into the farebox at the front of the bus. 
 
@@ -2110,7 +2110,7 @@ She had done everything right. Now, all we could do was fly back to Virginia and
 
 By mid-afternoon, we had retreated to the hotel on University Way. The high-stakes, operational phase of the trip was officially over, and Dad had declared that the next three days were going to be a pure family vacation. If Cassandra was potentially moving to Seattle next year, she needed to understand the region beyond just the brick pathways of the university quad. 
 
-But before we could explore the Pike Place Market or ride the monorail, everyone needed a physical reboot. 
+But before we could explore the Pioneer Public Market or ride the monorail, everyone needed a physical reboot. 
 
 Dad and Casey had walked down the street to grab iced coffees, leaving Mom, Cassandra, and me in the hotel room. Mom had Cassandra lying flat on one of the queen beds, carefully bending and extending Cassandra's legs in a series of slow, rhythmic stretches. 
 
@@ -2612,7 +2612,7 @@ He looked at me, a massive smile spreading across his face. "Who is ready to go 
 
 **Date:** 1995-08-25 at 12:15 America/Los_Angeles
 
-To get to the Pacific Aerospace Museum, we had to travel several miles south of downtown Seattle to King County International Airport, historically known as Boeing Field. 
+To get to the Pacific Aerospace Museum, we had to travel several miles south of downtown Seattle to King County International Airport, historically known as Pacific Aerospace Field. 
 
 "Logistical update," Casey said, standing at a bus shelter on a busy downtown avenue and consulting her meticulously highlighted TAPS schedule. "We require the Route 174 southbound."
 
@@ -2804,7 +2804,7 @@ Just like that, we were standing in the main concourse of the airport, completel
 
 **Date:** 1995-08-26 at 14:00 America/Los_Angeles
 
-The four-hour flight from Seattle to Chicago was completely uneventful. We were so exhausted from the grueling pace of the vacation that the moment the Gateway Airlines Boeing 737 reached cruising altitude, all three of us fell asleep. 
+The four-hour flight from Seattle to Chicago was completely uneventful. We were so exhausted from the grueling pace of the vacation that the moment the Gateway Airlines PAC 737 reached cruising altitude, all three of us fell asleep. 
 
 When the wheels hit the tarmac at Chicago Midway, I jerked awake, my ears popping violently from the descent. 
 
@@ -2932,7 +2932,7 @@ My eyes widened. "Really?"
 
 "Really," Cassandra nodded, looking between me and Liz. "Both of you. Assuming Liz can convince her parents to let her fly across the country."
 
-"Oh, I'll convince them," Liz said instantly, her eyes gleaming with the exact same strategic intensity that Casey usually employed. "I will draft a fully cited PowerPoint presentation on the educational benefits of cross-country travel by tomorrow morning."
+"Oh, I'll convince them," Liz said instantly, her eyes gleaming with the exact same strategic intensity that Casey usually employed. "I will draft a fully cited Quantum Presenter slide deck on the educational benefits of cross-country travel by tomorrow morning."
 
 Cassandra grinned. "I expect nothing less."
 
@@ -4745,11 +4745,11 @@ Liz paused, her fork hovering over her plate. "Wait, we just walk right onto the
 
 "So where are we landing?" I asked, my processor rapidly trying to map the Seattle-area airports.
 
-"BFI. Boeing Field," Cass stated with absolute executive finality. "It is a specialized airfield just south of downtown Seattle. It allows us to land, deplane directly into a waiting armored black-car, and be on the highway to the Federal Way apartment in under five minutes."
+"PAF. Pacific Aerospace Field," Cass stated with absolute executive finality. "It is a specialized airfield just south of downtown Seattle. It allows us to land, deplane directly into a waiting armored black-car, and be on the highway to the Federal Way apartment in under five minutes."
 
 I looked over at Liz. Her eyes were wide with quiet awe. For a couple of nineteen-year-old college students who had spent the last three weeks stressing over standard community college exams and highway driving routes, the sheer, staggering scale of Cassandra's corporate leverage was almost impossible to comprehend.
 
-"Boeing Field," I repeated, a massive grin breaking across my face.
+"Pacific Aerospace Field," I repeated, a massive grin breaking across my face.
 
 "Eat up," Cassandra smiled, reopening her silver laptop. "We have a plane to catch, and I want my family under my roof by dinner time."
 
@@ -4785,7 +4785,7 @@ I let out a sudden, involuntary laugh.
 
 "What's so funny?" Liz asked, pausing with her fork halfway to her mouth.
 
-"I just pictured Kristine's face," I chuckled, shaking my head. "If she could see me right now. She probably thought I'd be stuck flying commercial into SEA in coach. Instead, I'm eating roasted chicken on a private corporate jet flying direct to Boeing Field."
+"I just pictured Kristine's face," I chuckled, shaking my head. "If she could see me right now. She probably thought I'd be stuck flying commercial into SEA in coach. Instead, I'm eating roasted chicken on a private corporate jet flying direct to Pacific Aerospace Field."
 
 Cassandra offered a sharp, satisfied smirk without looking up from her screen. "Let her imagine whatever she wants. She no longer exists on our grid."
 
@@ -4819,7 +4819,7 @@ Casey grinned at me, entirely used to her sister's fiercely protective, unyieldi
 
 **Date:** 2004-12-18 at 16:15 America/Los_Angeles
 
-A few hours later, the heavy winter clouds of the Pacific Northwest parted just enough for the jet to break through the gray canopy. We banked smoothly over the Seattle skyline, bypassing the commercial chaos of Sea-Tac entirely, and touched down on the long runway at Boeing Field.
+A few hours later, the heavy winter clouds of the Pacific Northwest parted just enough for the jet to break through the gray canopy. We banked smoothly over the Seattle skyline, bypassing the commercial chaos of Sea-Tac entirely, and touched down on the long runway at Pacific Aerospace Field.
 
 The transfer was an absolute masterpiece of logistics. The jet taxied directly to a private hangar, the mechanical ramp deployed, and Cassandra wheeled herself effortlessly down to the wet tarmac. The Quantum wheelchair-accessible van was idling ten feet away. Within minutes, the driver had engaged the motorized lift, secured Cass inside, loaded our luggage, and we were pulling out of the airfield gates.
 
@@ -5079,7 +5079,7 @@ Casey rubbed her eyes, looking around the massive bed. She didn't have a meltdow
 
 We all shuffled out of the master bedroom and into the quiet, dim living room.
 
-Breakfast became an exercise in pantry logistics. Liz and I rummaged through the cupboards, pulling out boxes of dry cereal, foil-wrapped Pop-Tarts, and a handful of granola bars. Since we couldn't use the microwave or open the fridge for milk, we poured glasses of room-temperature bottled water and sat in a circle on the floor around the coffee table.
+Breakfast became an exercise in pantry logistics. Liz and I rummaged through the cupboards, pulling out boxes of dry cereal, foil-wrapped Toaster Tarts, and a handful of granola bars. Since we couldn't use the microwave or open the fridge for milk, we poured glasses of room-temperature bottled water and sat in a circle on the floor around the coffee table.
 
 It wasn't exactly a five-star Quantum corporate breakfast, but the vibe in the room was incredibly peaceful.
 
@@ -5151,7 +5151,7 @@ Liz untangled herself from the blankets and grabbed the silver laptop, bringing 
 
 "Cass, you're a high-level executive at one of the biggest tech companies on the planet," Liz pointed out, her eyes wide as she looked at the map's wealthy enclaves. "You could easily afford one of those massive waterfront mansions on Mercer Island. Or even Medina. Isn't that where all the tech billionaires live?"
 
-"Medina is highly optimal from a transit perspective," Cassandra conceded, pulling up the King County Metro route maps in a new tab to cross-reference the data. She tapped the screen to highlight the intersecting transit lines.
+"Medina is highly optimal from a transit perspective," Cassandra conceded, pulling up the TAPS route maps in a new tab to cross-reference the data. She tapped the screen to highlight the intersecting transit lines.
 
 - **The Commute to Northwest Pacific University:** "If we anchored in Medina, David and Liz could simply walk to the main road and catch the 271 bus going straight across the SR-520 floating bridge. It would drop you directly on the NPU campus in Seattle."
 
@@ -6487,7 +6487,7 @@ Kate’s fingers flew across the resistive touch screen of her AAC device. She h
 
 "If we do not go to the food court soon, I am going to initiate a hunger strike," Kate's device announced. She looked up at me, offering a sharp, breathy giggle. 
 
-David Delaney double-blinked in absolute agreement, tapping his own device rapidly. "I require Aunt Wendy's credit card for Auntie Anne's pretzels."
+David Delaney double-blinked in absolute agreement, tapping his own device rapidly. "I require Aunt Wendy's credit card for Annie's Pretzels."
 
 Mom laughed from the back of the pack, already unzipping her purse. "Alright, everyone pivot! We're taking the food court."
 
@@ -6865,7 +6865,7 @@ I looked up. Descending the escalators was a veritable army.
 
 Meredith and Morgan hit the ground floor first, wearing matching dark winter coats, their identical waist-length blonde hair turning heads across the terminal. Behind them, Kate and David Delaney rolled off the adjacent elevators, flanked by Wendy and Tom. 
 
-And directly behind the Virginia Beach crew was the Rhode Island household. Megan, Erin, Chloe, and Claire cascaded down the escalator steps, loudly arguing about the lack of legroom on the Boeing 757, hauling an absolute mountain of carry-on bags. 
+And directly behind the Virginia Beach crew was the Rhode Island household. Megan, Erin, Chloe, and Claire cascaded down the escalator steps, loudly arguing about the lack of legroom on the PAC 757, hauling an absolute mountain of carry-on bags. 
 
 "DAVID!" Erin screamed, her voice completely overriding the ambient noise of the entire baggage claim area. 
 
@@ -7135,7 +7135,7 @@ Cassandra took the magazine from Erin, her dark eyes scanning the listing. For a
 
 "That is a massive stronghold," Liz laughed. "It's a palace."
 
-"It's a tactical asset," Cassandra corrected smoothly. "It features an original Otis electric passenger elevator servicing all floors, making the primary footprint incredibly ADA compliant. And the square footage is large enough to permanently house both the Rhode Island and Virginia Beach branches of the family under one roof."
+"It's a tactical asset," Cassandra corrected smoothly. "It features an original Vanguard electric passenger elevator servicing all floors, making the primary footprint incredibly ADA compliant. And the square footage is large enough to permanently house both the Rhode Island and Virginia Beach branches of the family under one roof."
 
 Casey sat up, her eyes wide. "Wait. You're going to buy a mansion so the whole pack can live together?"
 
@@ -7341,7 +7341,7 @@ As the bus crested the hill, the massive, gleaming skyline of Downtown Bellevue 
 
 The 230 pulled into the Bellevue Transit Center, a massive open-air terminal right in the shadow of the skyscrapers. We all piled off, giving Kate and David D. a moment to stretch in their power chairs while Cassandra checked the timetable. 
 
-"From here, we transfer to the 550," Cassandra explained, pointing as an articulated Sound Transit bus pulled into the bay. "It runs straight across the I-90 floating bridge and directly into the Downtown Seattle Transit Tunnel."
+"From here, we transfer to the 550," Cassandra explained, pointing as an articulated TAPS express bus pulled into the bay. "It runs straight across the I-90 floating bridge and directly into the Downtown Seattle Transit Tunnel."
 
 We executed the massive fourteen-person boarding process again. The ride across the I-90 bridge was significantly faster than our miserable morning commute on the 520, and within twenty minutes, the bus plunged into the dark, echoing cavern of the DSTT. 
 
@@ -7465,7 +7465,7 @@ My dad paused, looking at her in confusion. "The what?"
 
 "Exactly," I grinned. For those of us living on the West Coast, the Ride Free Area was second nature, but to the East Coast branches of the family, the concept of a completely free, frictionless public transit zone felt like absolute magic. 
 
-The bus roared through the tunnel, bypassing the steep surface traffic, and deposited us safely at Westlake Station. We took the elevator up to the third floor of the Westlake Center shopping mall, stepping out onto the boarding platform for the Cascadia Monorail. 
+The bus roared through the tunnel, bypassing the steep surface traffic, and deposited us safely at Westlake Station. We took the elevator up to the third floor of the Westlake Plaza shopping mall, stepping out onto the boarding platform for the Cascadia Monorail. 
 
 The futuristic, elevated train glided into the station. Because it was built for the World's Fair, it was completely level-boarding and massively spacious inside. The entire pack piled into the front car. 
 
@@ -8870,7 +8870,7 @@ Liz and I dropped our duffel bags on the heavy oak bed in our assigned room. I s
 
 Before we could fully unpack, a sharp, authoritative knock echoed down the hallway. 
 
-We stepped out of our room just as a younger teenage girl—one of Victoria's cousins—jogged down the corridor. She was wearing heavy steel-toed boots, Carhartt work pants, and a thick canvas prep apron that was already dusted with flour and smeared with tomato paste. 
+We stepped out of our room just as a younger teenage girl—one of Victoria's cousins—jogged down the corridor. She was wearing heavy steel-toed boots, Ironclad work pants, and a thick canvas prep apron that was already dusted with flour and smeared with tomato paste. 
 
 "Executive Chef Diana has initiated meal service," the teenager announced to the hallway, her voice projecting with absolute, practiced clarity. "The dining room is open. Please proceed to the West Wing immediately."
 
@@ -9082,7 +9082,7 @@ We tapped our transit cards and boarded the MTA Red Line. The train hissed shut 
 
 The Red Line dumped us deep inside the subterranean transit hub of Meridian City, where we immediately transferred to the regional rail network. 
 
-At 11:15 AM, we boarded the ARTS Cascades—the sleek, high-speed regional train that mirrored the Amtrak Cascades lines. The heavy train pulled out of the massive Meridian station, running parallel to the grey, churning waters of the Puget Sound as it carried us south toward Seattle. 
+At 11:15 AM, we boarded the ARTS Cascades—the sleek, high-speed regional train on the Pacific Northwest corridor. The heavy train pulled out of the massive Meridian station, running parallel to the grey, churning waters of the Puget Sound as it carried us south toward Seattle. 
 
 I leaned my head against the cold glass of the train window, my eyes drooping heavily as the rhythmic clatter of the tracks vibrated through the carriage. Liz was sound asleep against my shoulder, her hand loosely holding mine. Across the aisle, Casey was intensely focused on a thick textbook, while Cassandra reviewed a stack of legal briefs on her lap. 
 
@@ -9522,7 +9522,7 @@ Cassandra held up a single hand, stopping the director mid-sentence.
 
 She turned her chair toward her mahogany desk, snapped her laptop open, and pulled up an empty compose window. She bypassed the sanitized corporate buzzwords, the corporate comms templates, and the polished marketing jargon.
 
-She looked at her laptop screen, thinking of the engineering floors in Building 35, the QA testers sitting in dark testing labs, the shuttle drivers, and the junior developers debugging C# code in the rain.
+She looked at her laptop screen, thinking of the engineering floors in Building 35, the QA testers sitting in dark testing labs, the shuttle drivers, and the junior developers debugging Quantum Sharp code in the rain.
 
 She typed out the message directly from her keyboard:
 
@@ -10000,7 +10000,7 @@ The crisp, freezing February air whipped across the elevated concrete of the Qua
 
 Cassandra Vance sat perfectly still in her manual wheelchair, the collar of her dark, tailored topcoat pulled up against the bite of the Pacific Northwest winter. Flanking her on the tarmac was the entire East Coast foundation of her life. David and Liz—now twenty-nine years old and married for nearly a decade—stood beside twenty-seven-year-old Casey. Grouped closely around them were Wendy, Tom, and Mr. and Mrs. Carter.
 
-The Virginia contingent had arrived three days earlier. When the Quantum corporate jet had touched down smoothly at Boeing Field (BFI), Tom had instinctively headed toward the terminal doors to locate the rental car kiosks. He was immediately intercepted by Cassandra, who handed him, Wendy, and the Carters their own freshly loaded blue TAPS PASS cards.
+The Virginia contingent had arrived three days earlier. When the Quantum corporate jet had touched down smoothly at Pacific Aerospace Field (PAF), Tom had instinctively headed toward the terminal doors to locate the rental car kiosks. He was immediately intercepted by Cassandra, who handed him, Wendy, and the Carters their own freshly loaded blue TAPS PASS cards.
 
 *"We don't do rental cars, Tom,"* Cassandra had informed her father with a warm, uncompromising smile. *"You are in my territory now. We ride the grid."*
 
@@ -10566,7 +10566,7 @@ Marcus, the Lead VIP Logistics Coordinator for the Global Tech Leadership Summit
 
 His job was usually simple. Tech billionaires were predictable. You parked a fleet of black, armored Apex Mountaineers at the Signature Flight Support FBO at San Jose Mineta International Airport (SJC), waited for their private Gulfstreams to land, and then aggressively motorcaded them to their luxury suites.
 
-At 9:15 AM, Marcus was standing on the SJC tarmac, checking his Rolex. The CEO of Quantum was supposedly arriving this morning, but no incoming private jets matched her tail number.
+At 9:15 AM, Marcus was standing on the SJC tarmac, checking his Aethelgard chronograph. The CEO of Quantum was supposedly arriving this morning, but no incoming private jets matched her tail number.
 
 Sweating slightly, Marcus finally opened the encrypted itinerary PDF sent by Quantum Corporate’s Building 33 three months ago. He scrolled past the stringent medical requirements regarding her LPN brother, down to the logistics header.
 
@@ -11164,7 +11164,7 @@ The ride through the heart of the District was smooth and cool. After just a few
 
 Cassandra rolled off the train, guiding her family to the street-level elevator. When the doors opened, they stepped out into the bustling evening air of Farragut Square. The heavy, humid D.C. heat had begun to break, and the lush green park in the center of the square was filled with commuters heading home.
 
-Cassandra led them exactly one block over to their luxury hotel. There was no motorcade, no frantic lobbying team waiting in the lobby, and no press pool. Thanks to the absolute autonomy of the WMATA grid, the CEO of Quantum checked in at the front desk looking like nothing more than a standard tourist, her family safe and insulated by her side.
+Cassandra led them exactly one block over to their luxury hotel. There was no motorcade, no frantic lobbying team waiting in the lobby, and no press pool. Thanks to the absolute autonomy of the Capital Transit grid, the CEO of Quantum checked in at the front desk looking like nothing more than a standard tourist, her family safe and insulated by her side.
 
 ### Scene 10: The Escalator Trap
 
@@ -11238,7 +11238,7 @@ Greg slowly lowered his phone, looking down into the escalator shaft. They hadn'
 
 **Date:** 2014-06-11 at 17:30 America/New_York
 
-The luxury suite overlooking Farragut Square was buzzing with quiet, focused preparation. Tonight was the Global Wildlife Conservation Gala at the Smithsonian National Zoological Park, a highly exclusive, black-tie event crawling with federal politicians, international dignitaries, and tech titans.
+The luxury suite overlooking Farragut Square was buzzing with quiet, focused preparation. Tonight was the Global Wildlife Conservation Gala at the Finch National Zoological Park, a highly exclusive, black-tie event crawling with federal politicians, international dignitaries, and tech titans.
 
 Cassandra Vance was seated near the window in her manual power-assist chair, wearing a stunning, razor-sharp midnight blue evening gown that draped flawlessly around her frame. David, Liz, and Casey were equally immaculate, having traded their comfortable museum attire for sharp suits and elegant formal wear.
 
@@ -11250,13 +11250,13 @@ Greg looked deeply relieved. For the first time in forty-eight hours, he was sta
 
 Cassandra didn't look up from her mounted Quantum laptop. "Has it, Greg?"
 
-"I checked the transit maps myself this time," Greg declared proudly, eager to prove he had learned his lesson. "The Red Line runs from Farragut North up to the Woodley Park-Zoo station. But according to the WMATA service alerts, the elevator at Woodley Park suffered a catastrophic hydraulic failure at 2:00 PM today. It is completely out of service."
+"I checked the transit maps myself this time," Greg declared proudly, eager to prove he had learned his lesson. "The Red Line runs from Farragut North up to the Woodley Park-Zoo station. But according to the Capital Transit service alerts, the elevator at Woodley Park suffered a catastrophic hydraulic failure at 2:00 PM today. It is completely out of service."
 
 Greg grinned, finally delivering his checkmate. "You are in a wheelchair. You cannot exit the Zoo station. Therefore, you must take the motorcade."
 
 Cassandra hit a keystroke on her laptop, closing her terminal window, and offered the lobbyist a look of absolute, withering amusement.
 
-"I am well aware of the hydraulic failure at Woodley Park, Greg," Cassandra replied smoothly. "I subscribe to WMATA’s ELstat notifications. The alert hit my phone exactly three hours ago."
+"I am well aware of the hydraulic failure at Woodley Park, Greg," Cassandra replied smoothly. "I subscribe to Capital Transit’s ELstat notifications. The alert hit my phone exactly three hours ago."
 
 "Then you know we have to drive," Greg insisted.
 
@@ -11292,7 +11292,7 @@ The pack descended the hotel elevator to the street level, stepping out into the
 
 "The L2 is the Connecticut Avenue Line of the Metrobus system," Cassandra stated, wheeling herself exactly half a block away from the idling SUVs to a standard, glass-paneled bus shelter on K Street. "It originates right here at Farragut Square. And unlike the subterranean rail stations, a bus does not rely on a seventy-foot elevator shaft to grant me access to the surface."
 
-Less than two minutes later, a heavy, red-and-silver WMATA Metrobus hissed to a halt at the curb.
+Less than two minutes later, a heavy, red-and-silver Capital Transit Metrobus hissed to a halt at the curb.
 
 The doors opened. The driver triggered the hydraulic kneeling system, lowering the front of the bus flush with the curb, and deployed the mechanical ramp.
 
@@ -11316,7 +11316,7 @@ For the pack, the ride was deeply relaxing. They sat in the air-conditioned cabi
 
 When the bus approached the 3000 block of Connecticut Avenue, Cassandra didn't have to worry about a broken elevator, and she didn't have to push her manual chair up a punishing, sweaty incline.
 
-The Metrobus hissed to a halt directly at the front entrance of the Smithsonian National Zoological Park.
+The Metrobus hissed to a halt directly at the front entrance of the Finch National Zoological Park.
 
 The ramp deployed. Cassandra rolled down onto the pavement looking immaculate, completely unbothered, and entirely cool.
 

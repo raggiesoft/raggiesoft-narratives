@@ -620,7 +620,7 @@ David had completely broken the unwritten code of silence. He had walked into th
 
 "Look at this," Carter said, shining his beam into a back corner under a heavy canvas tarp. 
 
-Harris walked over. Beneath the tarp were heavy leather medicine balls, thick wooden dowels, and heavy glass Coca-Cola bottles. 
+Harris walked over. Beneath the tarp were heavy leather medicine balls, thick wooden dowels, and heavy glass Red Ribbon Cola bottles. 
 
 "Bone deadening," Harris murmured, remembering David's testimony. "They roll them up and down their shins to kill the nerve endings. The adults absorb the punishment in absolute silence. That's the culture he built."
 
@@ -1104,7 +1104,7 @@ The grief hung over Drew’s room for hours, an oppressive cloud that stubbornly
 
 By late afternoon, however, the familiar, booming voice of Mrs. Bea echoed down the corridor. 
 
-"Now, Brenda, I did exactly what you said," Mrs. Bea was saying as she pushed a hospital utility cart loaded with insulated bags. "Everything is double-sealed, cooked to one-hundred and sixty-five degrees, and I even brought the receipt for the commercial-grade Tupperware."
+"Now, Brenda, I did exactly what you said," Mrs. Bea was saying as she pushed a hospital utility cart loaded with insulated bags. "Everything is double-sealed, cooked to one-hundred and sixty-five degrees, and I even brought the receipt for the commercial-grade SnapLock storage containers."
 
 Nurse Brenda walked alongside her, smiling warmly but maintaining her professional rigor. The hospital’s infection control protocol for bringing outside food onto a surgical recovery ward was incredibly strict. Brenda systematically pulled each thick, heavy-duty plastic container from the bags, ensuring the airtight seals hadn't been compromised during transit. She took a container of antibacterial hospital wipes and meticulously wiped down the exterior of every single dish before placing them on a sanitized steel tray. 
 

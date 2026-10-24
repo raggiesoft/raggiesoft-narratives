@@ -2466,7 +2466,7 @@ But for Luna, looking out the window, the silence was filled with impending doom
 
 "Stella," she groaned, sinking lower into the seat. "Everyone is looking. They think we’re being raided."
 
-"They are looking because it’s a brand-new car," Stella corrected, steering the massive sedan with one finger. She was beaming, loving the feeling of the V8 engine’s low, powerful burble. "It commands respect. Look at that—that Jeep actually yielded to us. That never happens."
+"They are looking because it’s a brand-new car," Stella corrected, steering the massive sedan with one finger. She was beaming, loving the feeling of the V8 engine’s low, powerful burble. "It commands respect. Look at that—that Trailblazer 4x4 actually yielded to us. That never happens."
 
 "He yielded because he thinks you’re a vice detective!" Luna argued. "And with both of us in the back seat? We don't look like passengers, Stella. We look like we're being brought in for questioning!"
 
@@ -3220,7 +3220,7 @@ Mr. Panoff leaned back, a smile touching his lips. He loved it when students bra
 
 Mr. Panoff chuckled. He stood up and unlocked the closet. He reached up and pulled down a hard black plastic case.
 
-"Yamaha student model," he said, placing it on the desk. "Open-hole keys, but it has the plugs in for now. Good for beginners."
+"Aoki student model," he said, placing it on the desk. "Open-hole keys, but it has the plugs in for now. Good for beginners."
 
 He popped the latches. The silver instrument gleamed against the blue velvet lining. It looked delicate, intricate, and completely different from her battered, brassy saxophone.
 
@@ -6519,7 +6519,7 @@ Leo nodded. He liked that plan. The ticking clock was still there, quietly count
 
 **Date:** 2003-06-27 at 17:00 America/Denver
 
-By late afternoon, the pack had successfully napped, unpacked, and stretched out their various Amtrak-induced aches and pains. Stella's stomach was officially back to normal, and she was eager to get them out of the hotel room to enjoy the famously crisp Colorado evening. 
+By late afternoon, the pack had successfully napped, unpacked, and stretched out their various ARTS-induced aches and pains. Stella's stomach was officially back to normal, and she was eager to get them out of the hotel room to enjoy the famously crisp Colorado evening. 
 
 "Okay, I have a plan," Stella announced, unfurling a tourist map on one of the queen beds. "It's a beautiful Friday evening. We are going to head downtown to a district called LoDo. We can ride the shuttle, find a quiet place for dinner, and just enjoy the ground-level mountain air."
 
@@ -6975,7 +6975,7 @@ Leo watched the waiter disappear down the narrow aisle of the swaying car. He re
 
 "Don't thank me yet," Stella chuckled, picking up her water glass. "If they bring out a single onion on that plate, I'm throwing it straight out the window into the river."
 
-Luna grinned, resting her chin on her hands as she looked out the massive dining car window. The sheer, red rock walls of Gore Canyon were still blurring past them. It felt incredibly surreal to be sitting in a nice restaurant, drinking an ice-cold Coke, while hurtling through an untamed wilderness at fifty miles an hour. 
+Luna grinned, resting her chin on her hands as she looked out the massive dining car window. The sheer, red rock walls of Gore Canyon were still blurring past them. It felt incredibly surreal to be sitting in a nice restaurant, drinking an ice-cold cola, while hurtling through an untamed wilderness at fifty miles an hour. 
 
 Olivia wrapped an arm loosely around Leo's shoulders, pulling him into a sideways hug in the booth. "You holding up okay, Captain?"
 
@@ -7103,7 +7103,7 @@ Leo was sitting in his manual wheelchair in the Family Bedroom, having finally t
 
 "We're crossing the border right now," Stella announced, looking at the route map she had picked up in the Sightseer Lounge earlier. "Welcome to California, everyone."
 
-"Finally," Olivia sighed, stretching her legs out across the lower bunk. "My back is starting to permanently mold to the shape of these Amtrak beds."
+"Finally," Olivia sighed, stretching her legs out across the lower bunk. "My back is starting to permanently mold to the shape of these ARTS beds."
 
 The train plunged into a long, dark snow shed—a massive, wooden tunnel built over the tracks to protect them from winter avalanches. When they burst back out into the sunlight, they were at the summit of Donner Pass. 
 
@@ -7745,7 +7745,7 @@ Leo was out of his chair, sprawled comfortably on the thick duvet of the master 
 
 Down on the floor, Luna was meticulously arranging a set of colorful dominoes in a spiraling pattern, enjoying the quiet, predictable clack of the plastic tiles. 
 
-Stella was at the small writing desk, casually flipping through a local tourism brochure. "You know, despite the sensory landmine down by the Ferry Building, this is a really beautiful city," she remarked softly, taking a sip of her coffee. "We still have two full days left before we have to pack up and head to the Amtrak station for the Coast Starlight."
+Stella was at the small writing desk, casually flipping through a local tourism brochure. "You know, despite the sensory landmine down by the Ferry Building, this is a really beautiful city," she remarked softly, taking a sip of her coffee. "We still have two full days left before we have to pack up and head to the ARTS station for the Coast Starlight."
 
 She flipped a page in the brochure. A brightly colored advertisement spanned the centerfold: a massive, bursting firework over the Golden Gate Bridge, with bold text that read: **San Francisco's Annual Fourth of July Extravaganza! Join us on the waterfront for the loudest, brightest show on the West Coast!**
 
@@ -8375,7 +8375,7 @@ Luna sighed, dropping her bag onto the floor. "It's just noise. But it's annoyin
 
 "Let's just get into pajamas and block it out," Olivia suggested, already unbuttoning her flannel shirt. "We have a massive day tomorrow. If we're going to survive the train ride down to LA, we need to actually sleep."
 
-The prospect of tomorrow's journey was both exciting and daunting. Unlike the highly integrated, reliable network of SF Muni and BART they had been utilizing here in the Bay Area, the sprawling, notoriously fragmented transit patchwork of Los Angeles was going to require meticulous planning and several transfers. But that was a problem for tomorrow's pack. Tonight, they just needed to rest.
+The prospect of tomorrow's journey was both exciting and daunting. Unlike the highly integrated, reliable network of SFMT and BRT they had been utilizing here in the Bay Area, the sprawling, notoriously fragmented transit patchwork of Los Angeles was going to require meticulous planning and several transfers. But that was a problem for tomorrow's pack. Tonight, they just needed to rest.
 
 They quickly cycled through the bathroom to brush their teeth and change into their softest sleepwear. 
 
@@ -8551,7 +8551,7 @@ They moved as a tight, cohesive unit through the massive, echoing transit hub. U
 
 "Red Line," Stella muttered, staring at the overhead signs and pointing toward a long, sloping pedestrian tunnel. "We need the LATA Red Line subway."
 
-They navigated the elevators down into the cavernous, dimly lit underground transit station. Unlike the relatively clean BART stations they had used in San Francisco, the LATA subway felt gritty and industrial.
+They navigated the elevators down into the cavernous, dimly lit underground transit station. Unlike the relatively clean BRT stations they had used in San Francisco, the LATA subway felt gritty and industrial.
 
 When the silver subway train finally rattled into the station, the doors slid open to reveal a mostly empty car. They dragged their luggage inside, securing Leo's wheelchair near the doors. 
 
@@ -15111,7 +15111,7 @@ Outside, the wind rattled the siding of the little house on Stella's house. It w
 
 November 24, 2005 (Thanksgiving Night) Stella's house
 
-The dishes were done. The leftovers were packed into Tupperware containers that Eleanor had brought, labeled in her neat, looping cursive that was just a little shakier than it used to be.
+The dishes were done. The leftovers were packed into SnapLock storage containers that Eleanor had brought, labeled in her neat, looping cursive that was just a little shakier than it used to be.
 
 The twins and Olivia were in the living room, looking at BTA maps on Leo’s laptop.
 
@@ -15167,7 +15167,7 @@ The Fortress stood on the concrete platform, bundled in coats.
 
 Stella checked her watch. "Train 94. *The Patriot*. On time."
 
-Arthur and Eleanor stood nearby. Arthur was leaning heavily on his cane, his breath pluming in the cold air. He smelled of peppermint and Old Spice—the scent of a man who had prepared meticulously for one last long haul.
+Arthur and Eleanor stood nearby. Arthur was leaning heavily on his cane, his breath pluming in the cold air. He smelled of peppermint and classic spiced aftershave—the scent of a man who had prepared meticulously for one last long haul.
 
 "Here comes the ordeal," Arthur murmured to Eleanor, gesturing to the tracks.
 
@@ -15917,7 +15917,7 @@ Then he found the photo of the "Royal Chamber Society." It showed five students 
 
 Leo scrolled down to the "Equipment List" for the department.
 
-1 Steinway Grand (Donor Lounge - Locked).
+1 Concert Grand (Donor Lounge - Locked).
 
 1 Harpsichord (Decorative).
 
@@ -18485,7 +18485,7 @@ They didn't have their **BSU Student IDs** (Bull Passes) yet—orientation wasn'
 
 "Okay," Stella said, pulling out her debit card. "We aren't doing this piecemeal. I don't want to be calculating zones every time we want to go exploring. We're getting the hardware."
 
-Leo sat in his manual **TiLite Aero Z**. He watched the screen. He tapped his **MagnaByte Scribe**.
+Leo sat in his manual **ApexLite Aero Z**. He watched the screen. He tapped his **MagnaByte Scribe**.
 
 <aac>Linkpass acquisition,</aac> he typed. <aac>Full access.</aac>
 
@@ -18595,7 +18595,7 @@ A salesman walked over. "Can I help you folks?"
 
 The salesman blinked. "Oh. Well, then. Let's get him in it."
 
-They helped Leo transfer from his manual **TiLite Aero Z** into the Titan. The seat was plush, contoured to his body.
+They helped Leo transfer from his manual **ApexLite Aero Z** into the Titan. The seat was plush, contoured to his body.
 
 The salesman adjusted the joystick mount. "Okay, power on."
 
@@ -19120,7 +19120,7 @@ Stella checked the time. "That should be the delivery."
 
 She walked to the foyer. The **APS Wall** stood its ground, blocking the view of the living room. Stella stepped around it and opened the door.
 
-A driver in a **Metro Mobility** polo shirt stood there. Next to him, unloaded from a van, was Leo’s **TiLite Aero Z** manual wheelchair.
+A driver in a **Metro Mobility** polo shirt stood there. Next to him, unloaded from a van, was Leo’s **ApexLite Aero Z** manual wheelchair.
 
 "Delivery for Porter?" the driver said. "One manual frame, rigid titanium."
 
@@ -20012,7 +20012,7 @@ Then, the bus slowed in front of the largest, most imposing structure of them al
 
 "Technically," Eleanor smiled. "But Arthur looked at the maintenance schedule for a gold-plated, turn-of-the-century lift and said, 'El, I sell cars. I know a money pit when I see one.' We bought the ranch in Middletown instead. No elevator needed."
 
-Leo looked at the mansion. He appreciated the data point—an 1895 Otis was cool. But he saw the gravel paths. He saw the sheer, cold scale of the place.
+Leo looked at the mansion. He appreciated the data point—an 1895 electric elevator was cool. But he saw the gravel paths. He saw the sheer, cold scale of the place.
 
 He tapped his **Quantum Communicator**.
 
@@ -21329,7 +21329,7 @@ The Music Library was a quiet, wood-paneled sanctuary on the second floor of the
 
 Stella and Olivia had claimed a large, rectangular table near the window.
 
-Stella: Had her laptop open, coding a C# backend for a new e-commerce client. Her fingers flew across the keys with the same precision Luna used on her flute.
+Stella: Had her laptop open, coding a Quantum Sharp backend for a new e-commerce client. Her fingers flew across the keys with the same precision Luna used on her flute.
 
 Olivia: Was reading her Urban Sociology textbook, highlighting passages about zoning laws.
 
@@ -21401,7 +21401,7 @@ The Fortress was working. It wasn't just a wall anymore; it was a hub.
 
 "Solid," Amanda noted. "Let's run the render."
 
-Stella went back to her C# code. The family was safe. The semester was launched.
+Stella went back to her Quantum Sharp code. The family was safe. The semester was launched.
 
 ### Scene 9: The Safe Harbor
 
