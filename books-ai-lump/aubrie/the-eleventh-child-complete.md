@@ -556,7 +556,7 @@ This was it. College.
 
 **Date:** 2014-08-22 at 13:00 America/New_York
 
-![Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c003-s003-isabel-greets-aubrey.jpg)
+![Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg)
 
 Outside the single window, the heavy gray clouds that had hung low over Blacksburg all morning had bruised to a deep, threatening charcoal. Before he ventured out to explore the campus and before the sky opened up, he decided to set up his most important tool first: his laptop. He wheeled himself over to his desk, placed the heavy machine on it, and opened the lid. The battery icon blinked red, and a moment later, the screen went completely black. Dead.
 
@@ -714,7 +714,7 @@ Defeated, he transferred from his wheelchair back to his bed. Still fully clothe
 
 **Date:** 2014-08-23 at 10:30 America/New_York
 
-![Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c004-s002-clerical-error.jpg)
+![Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s002/clerical-error.jpg)
 
 Around mid-morning, the electronic reader outside Room 214 chirped as a Poly Pass tapped against it. Because the card belonged to a standard residential student rather than someone registered with the Office of Educational Accessibility, the motorized opener stayed silent; instead, the heavy latch clicked unlocked and the wooden door was pushed wide open by hand. A sudden bar of corridor light spilled across the dim linoleum floor.
 
@@ -748,7 +748,7 @@ The three names hit him with the force of a physical blow. His breath caught in 
 
 **Date:** 2014-08-23 at 10:35 America/New_York
 
-![Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c004-s003-system-crash.jpg)
+![Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s003/system-crash.jpg)
 
 For a single, suspended heartbeat, the quiet room held still. Then everything crashed in on him at once.
 
@@ -776,7 +776,7 @@ He squeezed his eyes shut, and a loud, piercing cry tore involuntarily from his 
 
 **Date:** 2014-08-23 at 10:40 America/New_York
 
-![Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c004-aubrie-first-hug.jpg)
+![Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg)
 
 Out in the corridor, Aubrie Jean's father took a startled step toward the threshold, his brow creasing with alarm at the sound of the boy's cries.
 
@@ -4982,7 +4982,7 @@ By a quarter to eight, the initial burst of cheering had settled into a warm, pe
 
 **Date:** 2014-09-19 at 20:00 America/New_York
 
-![Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson—wearing a neon-yellow high-visibility vest over her sweater and blue jeans—crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c012-s003-fire-drill.jpg)
+![Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson—wearing a neon-yellow high-visibility vest over her sweater and blue jeans—crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/fire-drill.jpg)
 
 The clock hit 8:00 PM.
 
@@ -5091,7 +5091,7 @@ He didn't reach for his backpack to pull out his laptop. Instead, with a shaky, 
 
 Isabel wasn't expecting it, and for a split second she froze—momentarily caught off guard as his trembling arms wrapped around her neck. Yet almost immediately, her wide eyes softened with deep, quiet understanding. She recognized the unspoken weight of a trauma survivor behind how terrified he had been of leaving that locked room, and she knew that this sudden embrace was Jordan's wordless way of telling her that he was adding her to his small circle of trusted people. Setting her EHS log folder and two-way radio down beside her knee, she wrapped her arms around Jordan's shoulders in a warm, steady, protective hug, holding him patiently while a few more quiet sobs shuddered through his frame and began to subside.
 
-![Outside the three-story 1980s Bennett Hall Addition on the Washington Street sidewalk after the fire drill all-clear, Jordan leans forward from his manual wheelchair and pulls a momentarily surprised, deeply moved Isabel Dawson—crouching in her high-visibility vest over her sweater and blue jeans—into a grateful hug as he adds her to his circle of Safe People.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001-c012-s003-jordan-hugs-isabel-outside.jpg#fullwidth)
+![Outside the three-story 1980s Bennett Hall Addition on the Washington Street sidewalk after the fire drill all-clear, Jordan leans forward from his manual wheelchair and pulls a momentarily surprised, deeply moved Isabel Dawson—crouching in her high-visibility vest over her sweater and blue jeans—into a grateful hug as he adds her to his circle of Safe People.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/jordan-hugs-isabel-outside.jpg#fullwidth)
 
 "You're safe here, Jordan," Isabel murmured softly, rubbing his back gently until his breathing steadied a fraction before easing back with a warm smile. "Always. Anytime something feels scary or overwhelming in this building, Henry and I have your back."
 
@@ -10563,7 +10563,7 @@ He wanted to find **Isabel**.
 
 **Date:** 2015-01-11 at 14:15 America/New_York
 
-![Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c001-s003-isabel-hugs-jordan.jpg)
+![Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg)
 
 At two-fifteen, **Jordan** pressed the exterior handicap paddle beside the **first-floor inner quad entrance** of **Bennett Hall** and rolled across the threshold into the warm lower-level main lobby (Room 100), with **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** stepping in right behind him.
 
@@ -12170,7 +12170,7 @@ Out in the second-floor hallway, a polite knock sounded against the open oak doo
 
 **Date:** 2015-05-15 at 11:20 America/New_York
 
-![In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c011-s002-isabel-goodbye-hug.jpg)
+![In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg)
 
 Within five minutes, eight of the nine yellow **Room Condition Reports (RCRs)** were signed, stamped, and filed into their completed checkout folders, deactivating their Bennett Hall door-access permissions on the central **Poly Pass** server while leaving their university ID cards active for the rest of their college careers.
 
@@ -12210,7 +12210,7 @@ Isabel froze.
 
 Her breath caught audibly in her throat, and a deep, rosy blush rose up her neck into her cheeks. She looked down at the yellow RCR clipboard in her hand, and then looked back at Jordan—her lips parting slightly as her right hand came up to touch the collar of her shirt, as if she were suddenly flustered by a rush of emotion she wasn't ready to put into words.
 
-![At the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard—blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003-c011-s002-isabel-move-out-secret.jpg#fullwidth)
+![At the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard—blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-move-out-secret.jpg#fullwidth)
 
 Then Isabel glanced down at the white embroidered **CPI HOUSING & RESIDENCE LIFE — RESIDENT ADVISOR** lettering on the left chest of the two-tone maroon-and-white Student Staff athletic polo shirt she still had tucked into her belted khaki pants, looked at the black electronic **Poly Pass** card reader glowing green directly underneath the **ROOM 214** sign on the cinderblock wall where she was still officially on duty until five o'clock, and looked back at Jordan, who was flying across the oceans in eight days to see the world.
 
@@ -12424,7 +12424,7 @@ With his right hand resting securely on the joystick, Jordan steered his heavy-d
 
 **Date:** 2015-05-23 at 07:30 America/New_York
 
-![Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville—who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c001-s004-isabel-roa-video-message.jpg)
+![Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville—who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg)
 
 The boarding area at the Meridian Express gate was quiet, populated entirely by the eighteen members of the chosen family. Through the floor-to-ceiling glass windows, the small regional jet sat parked on the tarmac, its engines whining with a low, mechanical hum.
 
@@ -14373,7 +14373,7 @@ She let out a quiet, deeply contented breath, looking out through the curved gla
 
 **Date:** 2015-07-16 at 20:45 Asia/Singapore
 
-![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing Supertrees and glass conservatory domes of Gardens by the Bay illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c008-s003-zoe-disclosure-singapore.jpg)
+![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing Supertrees and glass conservatory domes of Gardens by the Bay illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg)
 
 At eight-forty-five that Thursday evening, after watching the towering vertical gardens of the **Supertree Grove** glow in synchronized waves of cobalt, emerald, and gold against the equatorial night sky, the eighteen travelers gathered on the wide, private outdoor sky terrace of their interconnected **Marina Bay** hotel suites.
 
@@ -14641,7 +14641,7 @@ True to Bec's word, welded seamlessly onto the wide, shaded timber-and-steel ver
 
 **Date:** 2015-08-05 at 06:15 Australia/Darwin
 
-![At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c010-s002-outback-frost-tires.jpg)
+![At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg)
 
 Out at **Gallagher's Roadhouse**—the final outpost of fuel, artesian bore water, and mechanical repair before three hundred kilometers of uninhabited desert scrub stretching toward the Western Australian border—life ran on strict seasonal physics.
 
@@ -14730,7 +14730,7 @@ Jordan looked out the frosted kitchen window at the sub-freezing Petermann deser
 
 **Date:** 2015-08-17 at 18:30 America/New_York
 
-![Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson—who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks—while Henry Walsh, Aubrie Jean Kelly, and Zoë Wren Brooks look on from a few steps back with warm, knowing smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c010-s004-roa-gate-hug.jpg)
+![Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson—who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks—while Henry Walsh, Aubrie Jean Kelly, and Zoë Wren Brooks look on from a few steps back with warm, knowing smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s004/roa-gate-hug.jpg)
 
 Thirty-five hours.
 
