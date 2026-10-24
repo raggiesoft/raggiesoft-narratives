@@ -17268,3 +17268,764 @@ ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — All 11 Family Node
 
 Without a word, all eleven of them surrounded his bed in a tight, unbroken ring—Aubrie Jean holding his left hand, Madison and Isabel resting their hands over his right forearm, Hannah, Zoë, Lauren, Sarah, and Jessica touching his shoulders and shins, and Daniel, Laura, and Mark standing like a solid wall at the foot of the bed as the inpatient transport team arrived at the door.
 
+## The Longest Night (NPO & The Failed Angioplasty)
+
+### Scene 1: The Transfer, NPO, and the Fork in the Road
+
+**Date:** 2015-09-18 at 11:45 America/New_York
+
+The inpatient transport team arrived at the doorway of **ER Bay 3** just minutes after **Dr. Patel** stepped out, their crisp, clinical efficiency a stark contrast to the raw terror inside the room.
+
+"Okay, Mr. Fuller, we're moving you up to the third-floor cardiac step-down unit now," the lead transporter said, stepping to the foot of the stretcher and clicking the wheel brakes into neutral.
+
+As the stretcher began to roll forward, **Aubrie Jean**—whose left hand was still locked around **Jordan's** fingers—took a shaky, instinctive step alongside the rail.
+
+"Ma'am, you'll need to follow behind us in the corridor," the transporter said, his voice kind but firm. "We need room to maneuver the bed through the doors and into the service elevator."
+
+"No," Aubrie Jean whispered, her voice a raw, desperate sob. She wasn't asking permission; she was stating an unyielding law of physics. "I'm not letting go."
+
+The transporter glanced at his partner, then down at the pale, terrified nineteen-year-old on the stretcher whose eyes were fixed entirely on Aubrie Jean, and finally at the ten other anxious faces of the **Pact** and the **Brooks family** packed shoulder-to-shoulder behind them. He let out a quiet, human sigh.
+
+"Fine," the transporter relented. "Just stay tight against the left rail and *do not* get in our way."
+
+The rest of the family fell into formation right behind them—**Zoë** piloting *S.S. Freedom* at a slow indoor crawl with Jordan's backpack clipped to the frame, **Isabel** walking beside **Madison** and **Hannah**, and **Daniel**, **Laura**, **Mark**, **Lauren**, **Sarah**, and **Jessica** forming a silent, protective phalanx as the stretcher rolled out of the Emergency Department and up the oversized hospital elevators to the third floor.
+
+For Jordan, the heavy, throbbing pressure behind his breastbone was a constant drumbeat of dread. Yet as the fluorescent ceiling tiles of the third-floor cardiac wing glided overhead, his entire world narrowed to a single point of gravity: the warmth of Aubrie Jean's hand around his fingers. She was his first true **Safe Person**—the girl who had climbed onto his bed in Room 214 on the morning of the clerical error and held him through his very first meltdown—and he clung to her hand like a lifeline.
+
+Beside him, Aubrie Jean was trembling from head to toe, tears spilling silently down her cheeks with every step. Her mind still couldn't reconcile the clinical words she had heard in the ER. *He's nineteen,* she thought, a wave of dizziness washing over her. *Nineteen! Heart attacks are for grandparents. This can't be real.*
+
+When they wheeled him into **Cardiac Step-Down Room 312**, the transport team aligned the stretcher beside the inpatient bed. Aubrie Jean didn't let go for a second; as they slid the draw-sheet across, she scrambled right onto the edge of the mattress beside his hip, burying her face against his right shoulder and muffling her sobs against his hospital gown.
+
+Seeing the state she was in, the two transporters quietly backed out of the room with the empty stretcher, giving the family a moment to breathe. Jordan sank back against the pillows, his chest aching, and used his free hand to gently pat the top of Aubrie Jean's head.
+
+***
+
+All eleven members of his family crowded into **Room 312** right behind the stretcher. Within seconds, the private cardiac room felt small, warm, and thick with the scent of antiseptic and collective fear. Seeing that Aubrie Jean was perched precariously on the edge of the mattress where the nurses needed to work, **Mark** quietly grabbed the padded visitor's armchair from the corner and slid it right up against the left bed rail.
+
+"Here, Aubrie," Mark said gently, guiding her shoulder. She sank into the chair without ever breaking her grip on Jordan's hand.
+
+A moment later, the inpatient cardiac nurse stepped inside with a vital-signs cart, her expression warm but no-nonsense.
+
+"Okay, folks, I need a little breathing room to get Mr. Fuller settled," the nurse said kindly, her eyes landing on Aubrie Jean's white-knuckled grip. "Honey, I need you to let go of his hand for just sixty seconds so we can get his gown straightened out and hook him up to our central telemetry monitors."
+
+With a shaky, pained breath, Aubrie Jean reluctantly unlaced her fingers from his. Even that sixty-second loss of physical contact sent a jolt of cold static through Jordan's chest as the nurse and an orderly swiftly attached fresh five-lead telemetry patches to his torso, connected his IV line to an infusion pump on the pole, and swung his **MagnaByte `mPad`** AAC mount onto the right bed rail.
+
+The second the nurse stepped back, Aubrie Jean's hand locked right back onto Jordan's left hand, while **Isabel**—still in her maroon CPI clinical nursing scrubs—stepped up beside the right rail and rested her warm palm over his forearm, her trained eyes scanning his telemetry waveform (`Sinus Rhythm — 94 BPM`, `SpO2 98%`) with quiet, fierce vigilance.
+
+As the initial flood of adrenaline from the ambulance ride finally began to ebb, Jordan's body registered a mundane, overwhelming sensation: his stomach was completely empty. He hadn't eaten since breakfast at Kincaid Commons before `SOC 101`, and his stomach let out a loud, hollow growl.
+
+With his right thumb, he tapped on his **mPad**:
+
+<aac>I am really hungry. Can I have something to eat?</aac>
+
+The cardiac nurse gave him a sympathetic, motherly look. "I know you are, sweetie. Putting a body through a heart event burns through everything you've got. But after an acute STEMI, we can't just bring you a tray. Let me step out and check your orders with Dr. Patel to see if you're **NPO**—that's medical shorthand for *nil per os*, or nothing by mouth."
+
+She stepped out to the nurses' station and returned sixty seconds later, her expression apologetic.
+
+"I'm so sorry, Jordan," she said softly. "Dr. Patel confirmed it: you are strictly **NPO** right now—no food, no water, not even ice chips—because they're preparing to take you into the Cath Lab this afternoon."
+
+A wave of pure, grumpy frustration washed over Jordan. His chest ached, he was terrified of dying at nineteen, and now he wasn't even allowed to eat or drink a sip of water. He let out a long, defeated sigh through his nose and squeezed Aubrie Jean's hand.
+
+***
+
+Ten minutes later, the door of **Room 312** opened, and **Dr. Patel** stepped inside carrying a digital tablet. Instantly, the quiet murmurs in the room vanished. **Daniel** and **Laura Brooks** stood side-by-side at the foot of the bed like sentinels while the rest of the Pact pressed close.
+
+"Alright, Jordan, now that you're settled upstairs, let's walk through the exact game plan," Dr. Patel began, looking directly at Jordan, Daniel, and Laura. "The echocardiogram and blood work downstairs confirmed a high-grade occlusion in your **left anterior descending (`LAD`) coronary artery**—the main vessel supplying the front wall of your heart. We have to open that vessel."
+
+He held up two fingers.
+
+"We have two paths forward," Dr. Patel explained clearly. "**Path One**—the path we are preparing for right now—is a **percutaneous transluminal coronary angioplasty (`PTCA`)**, commonly called a **balloon angioplasty**. As soon as our Cardiac Catheterization Lab opens up this afternoon, we'll bring you down, access the artery through your right wrist, thread a microscopic guidewire up to your heart under live X-ray fluoroscopy, and inflate a high-pressure balloon inside the blockage to crush the plaque flat against the artery wall and place a stent. If Path One works, the restoration of blood flow is immediate. You'll stay with us here at New River Valley for two or three days of monitoring, and then you'll go home to Christiansburg."
+
+Jordan squeezed Aubrie Jean's fingers, a sudden, desperate spark of hope rising in his chest. *Two or three days. Then home to Geneva Street.*
+
+"However," Dr. Patel continued, his voice dropping an octave into grave candor, "I need to be completely honest with you and your family. Having a severe LAD blockage at nineteen years old—likely driven by years of extreme chronic cortisol stress, severe vascular inflammation, and metabolic strain—is highly unusual. If we get in there and find that the blockage is too heavily calcified, or hard as stone, the balloon will not be able to expand it. If the angioplasty fails, your only remaining option is **Path Two**: an immediate **Coronary Artery Bypass Graft (`CABG`)**—open-heart bypass surgery."
+
+A cold, suffocating silence fell over Room 312.
+
+"Because New River Valley is a community hospital without an open-heart cardiothoracic surgical program," Dr. Patel finished gently, "a CABG cannot be performed in this building. If the balloon fails, we will stabilize you and transfer you by critical care ambulance to the cardiothoracic surgeons at **Star City General Hospital** in **Roanoke**. And unlike an angioplasty, the recovery from open-heart surgery is not measured in days. It is a long, slow, painful process measured in months."
+
+Dr. Patel gave a respectful nod. "We have you on the Cath Lab schedule for this afternoon. A transport team will come for you as soon as the suite is prepped. Until then, rest as much as you can."
+
+When the door clicked shut behind the cardiologist, the room remained frozen for several seconds. Trying to hold onto the best-case scenario, Jordan turned his head toward Aubrie Jean, his eyes wide and pleading behind his glasses as he tapped on his **mPad**:
+
+<aac>Aubrie... if the balloon works... just for the couple of days... will you stay here with me? I do not want to be alone in this place.</aac>
+
+"I'm not going anywhere, Jordan," Aubrie Jean promised instantly, fresh tears spilling down her cheeks as she kissed the back of his hand. "I'm staying right here with you the entire time."
+
+Daniel Brooks immediately shifted into decisive father mode, resting a steadying hand on Laura's shoulder. "Alright, that's the plan. Laura and I are going to run back to Geneva Street right now, pack an overnight bag with pillows, blankets, chargers, and a change of clothes for Aubrie, and bring it right back before they take him down to the Cath Lab."
+
+***
+
+As Daniel and Laura hurried out to the elevator, the room felt noticeably quieter. Jordan's gaze drifted from the door to **Mark**, who was standing taut and pale by the window with **Hannah's** arm linked through his.
+
+Remembering the look on Mark's face back in `SOC 101`, Jordan tapped softly on his **mPad**:
+
+<aac>Mark... earlier you thought of my heart attack right away because of your family. Did your uncle have the second path? The CABG?</aac>
+
+Mark's jaw tightened. Slowly, he walked over from the window, pulled a rolling stool up to the right side of Jordan's bed beside Isabel, and sat down eye-to-eye with his brother. He glanced briefly at Aubrie Jean and Hannah before looking back at Jordan. He wasn't going to lie to him.
+
+"Yeah, J. He did," Mark said, his voice low and steady. "My uncle had a quintuple bypass five years ago. And I'm not gonna sugarcoat it for you, man—it's rough. To sew the new graft vessels onto your coronary arteries, they have to temporarily stop your heart, hook your bloodstream up to a heart-lung bypass machine, and saw through your breastbone to open your chest."
+
+At the words *open your chest*, a horrified, strangled sob tore from Aubrie Jean's throat. Hearing the clinical acronym *CABG* from the doctor had been scary enough; picturing a surgical saw dividing Jordan's sternum was almost too much to bear. Beside the bed, **Madison** and **Sarah** wrapped their arms around Aubrie Jean's shaking shoulders, while **Isabel** quietly reached over and rested her hand on Jordan's right shoulder, her thumb rubbing a slow, grounding circle against his collarbone.
+
+Jordan stared at Mark, his own chest aching beneath the telemetry leads as his mind pictured what Mark had just described.
+
+Seeing the sheer terror in Jordan's green eyes, Mark immediately reached out and gripped Jordan's right hand firmly.
+
+"Hey—look at me, J," Mark said, his voice locking in with fierce, unwavering conviction. "It is rough, and the recovery is slow—it has high points and really hard low points. *But my uncle made a one-hundred-percent full recovery.* He's alive, he's healthy, and his heart is stronger now than it was for twenty years before the surgery. It *works*. And you aren't fifty-eight—you're nineteen years old, and you're the toughest guy in this room. Whatever happens in that lab this afternoon, you've got this."
+
+Mark gave Jordan's hand a final, brotherly squeeze and stepped back beside Hannah.
+
+The exact second Mark released Jordan's right hand, **Zoë** stepped forward and took it. On his left side, Aubrie Jean still hadn't let go.
+
+Jordan looked up into Zoë's gray eyes behind her glasses. Inside Zoë's head, her processor was analyzing both halves of Jordan's fear: he wasn't just terrified of the surgery itself—after eighteen years of being treated like a broken, unwanted burden by Aubrie Sinclair, he was terrified that a multi-month surgical recovery would make him too much trouble to keep.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Input: CABG_Procedure_Parameters from Thread 4 (Mark). Monitoring Thread 3 (Jordan): EmotionalState == Acute_Fear. Monitoring Agent(Aubrie): EmotionalState == Hysterical_Distress. 09-18-2015 12:18:02
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Hypothesis: Thread 3 (Jordan) requires Long_Term_Sanctuary_Security reassurance in addition to Short_Term_Medical survival metrics. Residual fear of abandonment/institutionalization detected. 09-18-2015 12:18:03
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Protocol(Family_Vow) -> Permanent_Commitment_Lock. 09-18-2015 12:18:04
+```
+
+"Mark is right, Jordan," Zoë said, her crisp British-Virginian voice cutting through the emotional storm in the room like a steel anchor. "If it is two days, we handle it. If it is open-heart surgery and a two-month recovery, it will be arduous—which is precisely why you will not be doing a single second of it alone."
+
+She squeezed his fingers firmly.
+
+"Listen to me very carefully: you are part of my family now," Zoë told him, her gaze intense and unblinking. "My parents view you as their son. My bedroom at Geneva Street is fifteen feet from yours. Whether you leave this hospital in forty-eight hours or after open-heart surgery in Roanoke, you have a permanent home in Christiansburg. You will *never* go back to Hampton Roads or a nursing facility ever again. That timeline is terminated. We are your family, and we will handle this together."
+
+Leaning down over the right bed rail, Zoë pressed a firm, loving kiss to Jordan's right cheek. On his left side, bolstered by Zoë's iron certainty, Aubrie Jean leaned in through her tears and kissed his left cheek, while Isabel smiled warmly through her own damp lashes and squeezed his shoulder.
+
+"And you have a senior nursing student right here in the family who knows every single protocol on a cardiac step-down floor," Isabel added softly, brushing a damp curl of hair back from Jordan's forehead. "You're stuck with all of us, J."
+
+Anchored between them, with his hands held tightly on both sides of the bed, Jordan felt the terror in his chest loosen its grip by a fraction of an inch.
+
+### Scene 2: The Red Line and the Cath Lab
+
+**Date:** 2015-09-18 at 14:30 America/New_York
+
+Just after two-fifteen in the afternoon, **Daniel** and **Laura Brooks** returned to the third-floor cardiac unit carrying two quilted duffle bags stuffed with pillows, fleece blankets, extra phone and `mPad` chargers, and clean clothes—and riding up in the elevator right beside them were three familiar faces from **Commonwealth Polytechnic Institute**: **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
+
+Stepping quietly into the doorway of **Room 312** so they wouldn't overwhelm the telemetry space, sixty-one-year-old **Henry Walsh** held his battered canvas cap in both hands, his weathered face creased with fatherly concern as he looked toward **Jordan's** bed, while **Garrett** and **Kelsey** stood right beside **Daniel** and **Isabel**.
+
+"We came straight down Business 460 as soon as word reached Residence Life about what happened in Walton Hall," Kelsey whispered, stepping over to hug **Isabel**, **Lauren**, and **Sarah** in turn. "First: **Ms. Higgins** over at **Educational Accessibility** and the Dean of Students' office have already issued formal emergency medical excusal notices to every single professor for all ten of you. Nobody has to worry about a missed class, lab, or attendance grade."
+
+"And second," Garrett added earnestly, resting a hand on Isabel's shoulder, "Kelsey, Henry, and the New River Hall staff have already covered every single one of your RA duty shifts at **Allegheny Commons** and **New River Hall** for the entire week. And **Stephen** and **Elana** called from Charlottesville—they're keeping **Stella** happy and fed at Apartment 101 until you're ready. Your only job right now is being right here with Jordan."
+
+"And I've got my crew-cab Silverado parked right downstairs in the lot," Henry said gruffly, giving Jordan a warm, steady nod from the foot of the bed. "Whenever you need an extra set of wheels or an extra pair of hands to haul gear, I'm on standby, son."
+
+Tears of gratitude welled in Isabel's and Lauren's eyes as Jordan raised his right hand slightly off the mattress in a silent thank-you wave to Henry, Garrett, and Kelsey.
+
+***
+
+Fifteen minutes later, at `2:45 PM`, the door of **Room 312** swung wide open, and two cardiac catheterization transport nurses entered in lead-lined scrub vests and surgical caps.
+
+"Mr. Fuller? We're ready for you down in the **Cath Lab**."
+
+Jordan's heart slammed against his ribs, the green waveform on the bedside telemetry monitor spiking from `88` to `112 BPM`. *This is it,* he thought. *The fork in the road.* Within the next hour, he would either have a stented, open artery and be going home to Geneva Street in two days—or he would be facing a surgical saw and a heart-lung machine in Roanoke.
+
+As the transport nurses unplugged the bed from the wall and released the floor brake, **Aubrie Jean**—who was still sitting in the armchair beside the left rail—instinctively started to lunge to her feet to grab the bed frame.
+
+Halfway up, she caught herself.
+
+Remembering the paramedic in Walton Hall and the transporter downstairs—*do not get in their way while they're trying to save him*—Aubrie Jean forced her hands into tight, white-knuckled fists at her sides and walked steadily alongside the moving hospital bed as they wheeled Jordan out into the third-floor corridor.
+
+All fourteen of them—**Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Henry**, **Garrett**, and **Kelsey**—followed in a silent, solemn procession down the elevator to the second-floor procedural wing.
+
+At the end of a long, brightly lit corridor, they reached a pair of heavy, automated stainless-steel double doors marked **`CARDIAC CATHETERIZATION LABORATORY — AUTHORIZED PERSONNEL ONLY — RADIATION AREA`**, with a wide red boundary line painted across the linoleum floor.
+
+The lead transport nurse halted the bed just before the red line and turned gently to the group.
+
+"This is as far as family can come," she said softly. "We'll take very good care of him inside, and Dr. Patel will come straight out to the family room as soon as we're finished."
+
+Lying flat on the rolling bed in his thin hospital gown, Jordan looked up at the circle of faces standing behind the red line. He was about to be pushed through those heavy steel doors into a freezing, sterile room completely alone, without his wheelchair and without a single person who knew his soul. A wave of raw, suffocating terror seized his chest.
+
+Before the nurse could hit the silver wall plate to open the doors, Jordan tapped frantically on his rail-mounted **mPad** before they unclipped it:
+
+<aac>Wait. Please wait. I want a hug. From everyone. One last hug before I go in, please.</aac>
+
+The Cath Lab nurse looked down at the terrified nineteen-year-old, then up at the circle of pale, tear-streaked faces behind the red line. Her professional mask softened immediately.
+
+"Of course," she nodded, unclipping the **mPad** mount and handing the tablet carefully to Zoë so the rails could drop. "Go right ahead, folks—just be gentle around his IV line."
+
+One by one, his family surged forward across the corridor to wrap him in their arms.
+
+**Mark** stepped up first, leaning over the right rail to clasp Jordan's shoulder and pull him into a firm, brotherly embrace. "You've got this, brother," Mark whispered fiercely into his ear. "See you on the other side."
+
+**Hannah** followed immediately behind him, her protective big-sister warmth enveloping Jordan as she smoothed his dark hair back from his forehead and hugged him gently. "We will be waiting right outside these doors when you wake up, J. We love you."
+
+Then came **Lauren**, **Sarah**, **Jessica**, and **Madison**, each leaning down in turn with tearful hugs and soft kisses on his forehead and cheeks, followed by **Henry**, **Garrett**, and **Kelsey** clasping his hand warmly at the foot of the bed.
+
+**Isabel** leaned down next, her dark eyes glistening as she cupped his jaw in her warm palm and pressed a tender kiss to his lips. "That balloon is going to do its job, and I'm going to be right here checking your vitals the second you roll back out," she whispered. "I love you, Jordan."
+
+Then **Zoë** stepped up to the rail. Her face was pale, but her gray eyes were steady and fierce behind her glasses. Instead of a quick embrace, she framed both sides of Jordan's face in her hands so he was looking directly into her eyes.
+
+```zoe-log
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Protocol(Pre_Op_Goodbye) at Boundary(Cath_Lab_Red_Line). 09-18-2015 14:52:12
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Reinforcing Protocol(Family_Vow) for Thread 3 (Jordan) prior to anesthesia induction. 09-18-2015 14:52:45
+```
+
+"The data is unambiguous, Jordan," Zoë whispered, her low, analytical voice cutting straight through the static in his head. "You are resilient. Your system will recover, and every single one of us will be standing at these coordinates when you exit. I love you." She wrapped her arms around his shoulders and hugged him tightly.
+
+**Daniel Brooks** leaned over the rail next, giving Jordan a strong, encompassing fatherly embrace. "We're so proud of you, son. Be strong. We'll see you in a little while."
+
+**Laura** kissed his forehead and held him fiercely. "We love you so much, honey. Right outside this door."
+
+**Aubrie Jean** was last.
+
+She practically collapsed over the left side of the bed, burying her tear-drenched face in the crook of Jordan's neck as her shoulders shook against his hospital gown.
+
+"I love you," Aubrie Jean cried, her voice breaking into a desperate whisper against his skin. "I love you so much, J. Don't leave me. Please come back to me."
+
+Jordan wrapped both of his arms around her back with every ounce of strength he had left, nodding firmly against her cheek—*I won't leave you. I'll be right back.*
+
+"We have to roll now, sweetheart," the nurse said gently, touching Aubrie Jean's elbow.
+
+Aubrie Jean pulled back, her fingers trailing down Jordan's arm until the very last possible millimeter as the nurse slapped the silver wall plate. The heavy stainless-steel double doors hissed open. Jordan's final sight before the doors swung shut and sealed him inside was his entire family standing together behind the red line—Aubrie Jean held upright in Daniel and Madison's arms, Mark and Hannah standing shoulder to shoulder, Isabel and Zoë side by side.
+
+***
+
+Inside the **Cardiac Catheterization Lab**, the air was twenty degrees colder and smelled sharply of iodine and ozone.
+
+The room looked less like a hospital room and more like a spacecraft assembly bay: a massive, C-shaped fluoroscopic X-ray arm (`C-arm`) hung suspended from ceiling tracks over a narrow, carbon-fiber procedural table flanked by banks of high-definition flat-screen monitors. Four scrub nurses and radiology technologists moved around him in heavy lead aprons, thyroid shields, and surgical masks.
+
+"Okay, Jordan, on three we're going to slide you across onto the X-ray table," a nurse said kindly.
+
+He felt the cold, hard surface of the carbon-fiber table beneath his back as they secured a wide Velcro safety strap across his waist and positioned his right arm palm-up on an extended sterile arm board, swabbing his right wrist with freezing amber chlorhexidine prep.
+
+A man in a blue surgical cap and mask leaned directly into Jordan's field of view above his head.
+
+"Hi, Jordan, I'm **Dr. Hayes**, your anesthesiologist," he said, his eyes crinkling warmly above his mask. "Because of your sensory profile and how much discomfort you've already been in today, Dr. Patel and I are going to give you deep IV sedation and oxygen so you can sleep comfortably through the entire procedure."
+
+**Dr. Patel** stepped up beside the sterile drape in his lead apron and sterile gloves. "Alright, Jordan, we're ready to get started," the cardiologist said reassuringly. "We're going to thread the catheter in through your right radial artery and try that balloon angioplasty, just like we talked about upstairs. You'll be asleep the whole time."
+
+"I'm placing a clear oxygen mask over your face now, Jordan," Dr. Hayes said gently, lowering the soft silicone cushion over Jordan's nose and mouth as a warm, milky-white stream of medication flowed into his IV line. "Just take nice, slow breaths for me and count backward from ten in your head."
+
+Jordan smelled the clean, plastic scent of the mask and felt a sudden, heavy warmth spreading up his arm into his chest. Staring up into the blinding white halo of the overhead procedural lights, he pictured Aubrie Jean's face—and began to count silently in his mind.
+
+*Ten...*
+
+*Nine...*
+
+The cold ache in his sternum began to dissolve into a distant hum.
+
+*Eight... seven...*
+
+His eyelids felt as heavy as lead weights.
+
+*...six...*
+
+And then there was nothing at all.
+
+### Scene 3: 99% Calcified: The Failed Angioplasty
+
+**Date:** 2015-09-18 at 16:30 America/New_York
+
+Consciousness returned to **Jordan** in slow, disorienting waves.
+
+At first, the world was nothing but a blurry, sterile-white void and a dull, throbbing pressure around his right wrist and behind his breastbone. Above him, the circular surgical lights were a smeared halo of silver. He could hear voices in the room, but they sounded muffled and distorted, as if they were speaking to him from the bottom of a swimming pool.
+
+And they didn't sound relieved.
+
+*"...couldn't cross the lesion... it's calcified solid, like a rock... pressure dropped into the fifties when we inflated... get Roanoke CVICU on the line..."*
+
+Jordan tried to turn his head toward the voices, and a wave of post-anesthesia nausea rolled through his stomach. A masked face swam into focus inches above him.
+
+"He's waking up," the nurse said, her voice sharpening into clarity. She leaned closer so Jordan could see her eyes. "Jordan? You're okay. The procedure is finished, and we're wheeling you back up to your room right now."
+
+The anesthesia fog in his brain was still thick and cottony, his throat raw and bone-dry, and his right wrist was clamped inside a tight, transparent plastic pressure band. Without his **mPad** on the transport bed, his first, instinctive thought was for his anchor. He tapped his chest weakly with his left hand and mouthed a single name—*Aubrie*—before letting out a low, raspy groan.
+
+"She's waiting for you right upstairs in Room 312," the nurse assured him gently, reading his lips and the panic in his green eyes. "We'll have you back with your family in two minutes."
+
+***
+
+The elevator ride back up to the third floor was a dizzy blur. When the transport nurses wheeled his bed back into **Room 312**, the overhead fluorescent lights had been mercifully switched off, leaving the room bathed in the dim gray light of late afternoon.
+
+Yet the scene that greeted him inside the room made his already-aching heart seize with ice-cold dread.
+
+**Aubrie Jean** was there, just as she had promised.
+
+But she wasn't sitting in the chair beside his bed waiting to take his hand. She was standing over by the window with her back to the room, her hands pressed over her face, sobbing so hard her entire frame was shaking while **Isabel** held her around the shoulders with tears streaming silently down her own cheeks.
+
+Across the room, **Hannah** stepped forward from the corner as the transport team locked the bed into place, reconnected his wall telemetry, and swung his **mPad** arm back over the right rail. Hannah's eyes were bright red and swollen from crying.
+
+*It didn't work.*
+
+Jordan knew it in a single heartbeat. If the balloon angioplasty had opened the blockage, Aubrie Jean would have been smiling through her tears at his bedside. Something had gone terribly wrong down in that room.
+
+With a trembling hand, Jordan tapped on his **mPad**, the synthesized Australian voice of **`Oliver`** cutting softly through the dim room:
+
+<aac>Aubrie? Hannah? What is wrong? Tell me what happened.</aac>
+
+By the window, Aubrie Jean let out a choked, wounded cry into her palms, unable to even turn around without breaking down completely.
+
+Hannah stepped quickly to the right rail and rested her trembling hand over Jordan's left arm—careful not to touch his right wrist, which was immobilized in the clear inflatable radial compression band.
+
+"Jordan..." Hannah's voice was tight and strained. "Dr. Patel is just signing the post-procedure orders at the desk—he'll be in here in sixty seconds."
+
+<aac>Hannah, please tell me. It did not work, did it?</aac>
+
+"He'll explain everything, J," Hannah whispered, her eyes glistening as she struggled to hold her own composure together for him. "It's better if you hear the exact medical details straight from Dr. Patel."
+
+***
+
+Thirty seconds later, the door of **Room 312** opened, and **Daniel**, **Laura**, **Mark**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** filed silently back inside behind **Dr. Patel**.
+
+Every single one of them looked as though they had just survived a bomb blast.
+
+Dr. Patel walked to the side of Jordan's bed, his expression grave and unvarnished.
+
+"Jordan," the cardiologist said quietly, looking him straight in the eye, "I am sorry to tell you that the balloon angioplasty was not successful."
+
+Jordan's blood turned to ice water. His left hand gripped the hospital sheet.
+
+<aac>It failed?</aac>
+
+"It did," Dr. Patel confirmed gently. "When we injected the contrast dye into your left anterior descending artery, we found a **ninety-nine percent blockage**, just as the echocardiogram indicated. However, it isn't soft cholesterol plaque. It is heavily calcified—as hard as solid rock—from years of chronic vascular damage. We threaded the guidewire to the lesion, but we could not get the angioplasty balloon to expand it."
+
+Dr. Patel paused, drawing a heavy breath.
+
+"We attempted a higher-pressure inflation to crack the calcification," he continued honestly, "and, Jordan... your heart did not tolerate it. Your blood pressure crashed on the table, and your heart rhythm became critically unstable. You went into acute distress."
+
+Jordan's eyes darted to the window, where Aubrie Jean was sobbing into Isabel's scrub top, and then to Laura and Daniel at the foot of the bed, whose faces were ashen.
+
+"I made the call to deflate and abort the procedure immediately," Dr. Patel said, his voice quiet and steady. "And it was the only call to make. If we had pushed that balloon even a few seconds longer, **you would have died on that table**."
+
+The words hung in the sterile air like a physical blow.
+
+*Died on that table.*
+
+Suddenly, Jordan understood why Aubrie Jean couldn't even look at him without breaking down, why Hannah's hands were shaking, and why Isabel's face was streaked with tears. While he had been unconscious under Dr. Hayes's anesthesia, Dr. Patel had walked out to the family waiting room to tell them that Jordan had nearly coded on the Cath Lab table.
+
+"Because the lesion is rock-hard and cannot be stented percutaneously," Dr. Patel continued, "your only remaining option is **Path Two**: a **Coronary Artery Bypass Graft (`CABG`)**—open-heart surgery—to route a healthy vessel around the blockage. As we discussed earlier, we cannot perform open-heart surgery here at New River Valley. I have already contacted the cardiothoracic surgical team at **Star City General Hospital** in **Roanoke**, and we have placed you on their urgent **Cardiovascular Intensive Care Unit (`CVICU`)** transfer list. As soon as a CVICU bed opens up in Roanoke, a critical care ambulance will transport you there for surgery."
+
+Dr. Patel rested a brief, compassionate hand on Jordan's shoulder. "Until that bed opens in Roanoke, we're keeping you right here on continuous telemetry, IV heparin, and strict NPO status so you're ready for the OR the moment they call."
+
+When the cardiologist stepped out to finalize the transfer packet, a stunned, suffocating silence settled over **Room 312**.
+
+*Open-heart surgery. Sawing through the breastbone. Stopping my heart on a machine.*
+
+Every word Mark had spoken two hours earlier echoed through Jordan's skull. Slowly, Jordan turned his head toward **Mark**, who was standing near the door looking just as devastated as Jordan felt.
+
+With a shaky thumb, Jordan tapped on his **mPad**:
+
+<aac>Mark... your uncle. The one who had the bypass surgery... can I talk to him? Could I meet him before I go?</aac>
+
+Mark's face fell, a look of profound helplessness washing over his features as he walked quickly to the bedside.
+
+"Oh, man... J, I'm so sorry," Mark said, running a hand through his hair in frustration. "He doesn't live around here—he's not even in Roanoke. He lives four hours north in Northern Virginia, up near D.C., and he's out of state for work this week. I'd get him down here in a heartbeat if I could."
+
+Jordan nodded slowly, a fresh wave of cold fear washing over him. He was going to have to walk into open-heart surgery at nineteen years old completely blind.
+
+***
+
+And now came the hardest part of all: the waiting.
+
+Until a CVICU bed opened at **Star City General Hospital** in Roanoke, Jordan was trapped in a medical holding pattern inside **Room 312** at New River Valley Medical Center in Christiansburg. Worse still, because he could be wheeled into an ambulance and taken to an operating room at any hour, his **NPO** order remained locked in place. His stomach growled again—a hollow, gnawing ache that felt almost absurd next to the fact that he had nearly died an hour ago.
+
+By the window, **Aubrie Jean** finally wiped her face with both sleeves, walked back to the left side of the bed, and took Jordan's left hand in hers. When she spoke, she looked straight at **Daniel** and **Laura Brooks**, her voice raw with tears but completely immovable.
+
+"I'm staying," Aubrie Jean said. It wasn't a question. "I'm spending the night right here."
+
+Jordan, who had been dreading the thought of lying in the dark alone listening to the heart monitor all night after almost dying on the table, felt a wave of pure relief wash through his chest and squeezed her fingers tightly.
+
+"Of course you are, sweetheart," Daniel nodded, his voice thick with emotion. "Everything you need is right here in the duffle bags Laura and I brought from Geneva Street."
+
+Desperate to break the suffocating silence in the room, Mark picked up the bedside remote and switched on the small flat-screen television mounted in the upper corner of the room, keeping the volume low. The local `6:00 PM` evening news was airing, and after a brief headline segment, the chief meteorologist stepped in front of the green-screen radar map of Southwest Virginia.
+
+*"And as we look ahead into the next forty-eight to seventy-two hours across the New River and Roanoke Valleys, folks,"* the meteorologist said briskly, pointing to a deep blue trough diving southward down the Appalachians, *"we are tracking a highly unseasonable, potent low-pressure system colliding with cold mountain air. It's a little early to pin down exact accumulation totals, but we could be looking at significant mountain weather and treacherous travel conditions along the I-81 corridor in a couple of days. Stay tuned as we track it."*
+
+Inside **Room 312**, nobody paid more than a passing glance to the weather forecast; their entire universe was contained within the four walls of Jordan's cardiac room.
+
+Letting his head sink back against the flat hospital pillow, Jordan looked away from the television and scanned the exhausted, pale faces of his family scattered around the room. He was the one lying in the hospital bed with the radial pressure band on his wrist and the electrodes on his chest, yet he could see the brutal emotional toll the day was taking on every single one of them—especially **Lauren** and **Sarah**, who were sitting huddled together on the small vinyl visitor's sofa by the window, their arms wrapped around **Jessica**.
+
+Reaching over with his left hand, Jordan typed softly on his **mPad**:
+
+<aac>How are you guys holding up?</aac>
+
+Lauren looked up from the sofa, forcing a brave, watery smile through her exhaustion. "We're okay, J," she said, her voice strained. "We're as okay as we can be."
+
+"We're right here with you, Jordan," Sarah added fiercely, her hand tightening around Lauren's and Jessica's. "And none of us are going anywhere."
+
+### Scene 4: The Longest Night & The Fifteen-Minute Torture
+
+**Date:** 2015-09-18 at 21:00 America/New_York
+
+The evening dragged on to the steady, mechanical *beep... beep... beep* of the cardiac monitor above **Jordan's** bed. As nine o'clock approached and visiting hours ended on the step-down floor, it was clear that no transfer call from **Star City General Hospital** in Roanoke was coming tonight.
+
+"Alright, team," **Daniel Brooks** said quietly, his voice heavy with the weight of the twelve-hour day. "We're going to head back to Geneva Street and get a few hours of sleep so we can be back here at `7:00 AM` sharp to relieve Aubrie."
+
+One by one, the family came to Jordan's bedside to say goodnight in a quiet, tender ritual of love. He received warm, gentle hugs from **Daniel**, **Laura**, **Mark**, and **Hannah**, followed by soft kisses on the forehead and cheeks from **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**—who checked the capillary refill in his right fingers below the radial pressure band one last time before whispering, *"I'll be right back in the morning with Madi, J. I love you."*
+
+When the door clicked shut behind them, **Room 312** fell quiet.
+
+It was just **Jordan** and **Aubrie Jean**.
+
+Aubrie Jean let out a long, shaky breath and looked over at the narrow, stiff vinyl visitor's bench beneath the window. Picking up the quilted duffle bag Daniel and Laura had brought from `414 Geneva Street`, she pulled out two pillows and a soft fleece blanket. A sharp pang of grief twisted in her chest as she spread the blanket across the cold vinyl cushions: after more than a year of sharing Bed A in Bennett Hall and the Alaskan King bed at Geneva Street—where she could wrap her arms around Jordan and anchor him through every nightmare—being separated from him by six feet of linoleum and a tangle of IV tubing and telemetry wires felt almost unbearable.
+
+Still, she squared her shoulders. She was in the room with him, and nobody was going to make her leave.
+
+Reaching into the duffle bag for her sleep shirt and flannel pajama pants, Aubrie Jean began changing right there beside the bed with the effortless, unselfconscious **no-privacy** normalcy of their life in Suite 214/216—a small, defiant act of home inside a sterile, terrifying hospital room.
+
+Just as she pulled her t-shirt over her head, the hallway door clicked open and the evening nurse stepped inside with a rolling vitals stand.
+
+"Just popping in for my nine o'clock vitals check!" the nurse said warmly.
+
+Jordan let out an audible, exhausted groan, tilting his head back against the pillow. He had been poked, sheared, cannulated, catheterized, and prodded nonstop since `9:38 AM`.
+
+"I know, sweetie, I know," the nurse chuckled sympathetically as she wrapped the nylon blood pressure cuff around his left upper arm. "But after what happened down in the Cath Lab this afternoon, Dr. Patel wants a very close eye kept on your numbers tonight."
+
+Jordan gave a resigned nod as the cuff inflated with a loud mechanical *whir*. After logging his blood pressure and pulse oximetry into the bedside terminal, the nurse glanced over at Aubrie Jean, who was sitting perched on the edge of the narrow vinyl bench.
+
+"Are you going to be alright on that bench tonight, honey?" the nurse asked kindly. "It's not exactly a five-star hotel."
+
+"I'll be fine," Aubrie Jean said, forcing a small, brave smile. "As long as I'm right here with him."
+
+"Alright, then," the nurse nodded, reaching over to switch off the main room lights. "You two try to get some sleep."
+
+The door clicked shut, plunging **Room 312** into deep shadow illuminated only by the neon-green and cyan numbers glowing on Jordan's cardiac monitor. Aubrie Jean lay down on the narrow vinyl sofa with her face turned toward the bed, her eyes fixed on the boy she loved; Jordan lay propped at thirty degrees on the stiff hospital mattress, staring up at the acoustic ceiling tiles and listening to the steady electronic *beep* that proved his heart was still beating.
+
+***
+
+Real sleep was impossible.
+
+Jordan lay stiffly between the side rails, his chest dull and sore, his mouth desert-dry, and his stomach hollow from fourteen hours of strict **NPO** status, while Aubrie Jean drifted in and out of fitful twenty-minute naps on the unforgiving vinyl cushions.
+
+At `11:54 PM`, the heavy door latch *clicked* open, spilling a wedge of harsh white corridor light across the dark floor.
+
+Aubrie Jean jolted upright on the sofa with her heart hammering against her ribs—*What's wrong?! Did his heart stop?!*—while Jordan let out a low, grumpy groan as the night-shift nurse padded in on squeaking rubber soles.
+
+"Evening, folks," the night nurse whispered, though in the dead silence of midnight it sounded like a shout. "Just time for our midnight vitals check."
+
+Exhausted and irritable, Jordan tapped a single word on his rail-mounted **mPad**:
+
+<aac>Again?</aac>
+
+"Afraid so, sweetie," the nurse said gently, already wrapping the cold blood pressure cuff around his left arm. "On a post-STEMI cardiac hold, we check you every two hours around the clock. It's the rule."
+
+From the sofa, Aubrie Jean watched with blurry, aching eyes as the cuff inflated with its familiar *whir* and the red infrared glow of the pulse oximeter lit up Jordan's fingertip.
+
+"Alright, numbers look steady," the nurse said, turning to leave.
+
+Before she reached the door, Jordan tapped hurriedly on his **mPad**:
+
+<aac>Wait... I need to use the bathroom.</aac>
+
+Instinctively, Aubrie Jean swung her legs off the vinyl sofa and stood up to help him, just as she had done hundreds of times since their very first morning in Bennett Hall.
+
+Immediately, the night nurse held up a gentle hand. "Stay right where you are, honey—I've got him. He's on an active heparin drip with a radial arterial sheath and continuous cardiac telemetry; he's a strict bedrest fall risk right now, so he can't get up to the bathroom. That's our job."
+
+Aubrie Jean froze, her cheeks flushing hot in the dark. Intellectually, she understood the hospital protocol completely—yet emotionally, after a year of being Jordan's trusted partner in every transfer and routine, she hated feeling sidelined and useless while he was hurting. She stood quietly by the window while the nurse brought over a plastic handheld urinal, positioned it for Jordan under the sheet, and turned her back politely to give him a sliver of dignity.
+
+Once the nurse had finished, washed her hands, and stepped back out into the corridor, Aubrie Jean used the en-suite restroom herself. When she came back out into the dark room a minute later, she didn't return to the vinyl bench. Instead, she walked straight to the left side of Jordan's bed.
+
+"J?" she whispered in the dark, her voice small and trembling. "I need a hug."
+
+Weak as he was, Jordan immediately lifted his left arm toward her. Careful not to tug his IV tubing, his EKG leads, or his immobilized right wrist, Aubrie Jean leaned down over the lowered top rail and buried her face against his left shoulder, inhaling the familiar scent of him beneath the hospital antiseptic. Jordan held her tightly with his left arm, feeling the tension in both of their chests ease as their breathing synchronized.
+
+"Try to get a little sleep, my love," Aubrie Jean murmured, kissing his cheek before retreating reluctantly to the lumpy vinyl sofa.
+
+***
+
+It felt as though Jordan had closed his eyes for less than five minutes when the door latch *clicked* again and the hallway light sliced across his face.
+
+*You have got to be kidding me,* Aubrie Jean groaned silently into her pillow.
+
+"Okay, Jordan," the night nurse's voice announced, far too brightly for two o'clock in the morning. "It's just after `2:00 AM`—time for our two-hour check!"
+
+Jordan let out a muffled groan of pure despair as the blood pressure cuff whirred around his left arm. Then he noticed the nurse opening a sterile gauze pack and picking up a small calibrated air syringe.
+
+"Alright," the nurse said, walking around to the right side of the bed. "And now for the fun part. Dr. Patel's post-cath protocol calls for us to start weaning the **TR Band**—the inflatable pressure band over the artery in your right wrist where they went in for the angioplasty."
+
+Jordan looked down at the clear plastic cuff clamped tight around his right radial artery.
+
+"Because the radial artery is a high-pressure vessel and you're on blood thinners, we can't take the band off all at once," the nurse explained cheerfully. "So starting right now, I am going to come into your room **every fifteen minutes** for the next hour to let a few milliliters of air out of the cushion and check that your wrist isn't bleeding."
+
+Jordan and Aubrie Jean stared at her in horror.
+
+*Every fifteen minutes?!*
+
+The nurse attached the syringe nozzle to the valve on Jordan's wrist band, withdrew the first increment of air with a faint *hiss*, inspected the puncture site under her penlight for sixty seconds, and smiled. "No oozing! See you at `2:15`!"
+
+The light clicked off. The door clicked shut.
+
+Lying in the dark, Jordan lay stiffly against the mattress, his stomach churning with hollow hunger, while Aubrie Jean stared at the ceiling from the vinyl bench. Before either of them could even drift back toward sleep, the door latch *clicked* again.
+
+"Just me again!" the nurse whispered at `2:15 AM`, flipping on the over-bed task light as her shoes squeaked across the linoleum.
+
+*Whir* went the blood pressure cuff on his left arm. *Hiss* went the air syringe on his right wrist.
+
+"Looks great—no hematoma, no bleeding! See you in fifteen minutes!"
+
+Click. Darkness.
+
+Jordan tapped weakly on his **mPad** in the dark:
+
+<aac>This is the worst.</aac>
+
+"Just try to close your eyes between checks, J," Aubrie Jean whispered softly from the sofa, though both of them knew it was hopeless.
+
+He must have slipped into a thin, feverish doze for five minutes, because at `2:30 AM` the *click* of the door yanked him violently awake again. This time Jordan didn't even open his eyes; he just let out a low groan and held his right wrist out like a resigned sacrifice.
+
+*Whir.* *Hiss.*
+
+"See you in fifteen!"
+
+Click.
+
+By `2:45 AM`, Aubrie Jean had finally slumped sideways against the stiff vinyl armrest in sheer physical exhaustion—only for the *click* of the door latch to make her jerk upright with a terrified gasp.
+
+"Just me, honey—`2:45` check!"
+
+*Whir.* *Hiss.*
+
+"Almost there, Jordan! Just one more deflation left—I'll be back at `3:00 AM` for the final check!"
+
+Click.
+
+For the next fifteen minutes, neither Jordan nor Aubrie Jean even pretended to close their eyes; they simply lay in the dark staring at the crack of light beneath the hallway door, bracing for the latch. Promptly at `3:00 AM`, the door swung open.
+
+"Alright, Jordan, last one!" the nurse said sympathetically.
+
+After one more *whir* of the blood pressure cuff, she drew the final milliliters of air out of the wrist cushion, unfastened the Velcro strap, removed the plastic TR Band from his sore, indented right wrist, and applied a sterile pressure dressing.
+
+"There we go—all done with the wrist band!" she said warmly.
+
+Jordan let out a breath he felt like he had been holding since two o'clock.
+
+"Now," the nurse added casually as she tossed her gloves into the bin, "I just need to pop back in at `4:00 AM` for your four o'clock vitals check, and after that you're completely clear until day shift comes in at `6:00 AM`! Try to get some real sleep now, okay?"
+
+Jordan let out a fresh groan of despair while Aubrie Jean muffled a delirious, exhausted half-laugh, half-sob into her blanket.
+
+When the door finally clicked shut, the silence that settled over **Room 312** was the deepest of the entire night. For the first time in hours, they had more than fifteen uninterrupted minutes together. Turning his head to the left on his pillow, Jordan looked across the dim glow of the cardiac monitor at Aubrie Jean's small, huddled silhouette on the vinyl sofa. He was starving, his chest ached, and open-heart surgery was waiting for him in Roanoke—yet as he listened to the steady, quiet breathing of the girl who had refused to let go of his hand, a warm flicker of peace settled over his heart.
+
+***
+
+The `4:00 AM` vitals check came and went in a blur, and they managed barely an hour of thin, restless sleep before the door of **Room 312** clicked open at `6:00 AM` on **Saturday, September 19, 2015**—this time accompanied by the bright, unforgiving glare of the main overhead fluorescent lights.
+
+"Good morning, folks!" a brisk, cheerful new voice announced.
+
+Jordan groaned and threw his left forearm over his eyes as **Aubrie Jean** bolted upright on the vinyl sofa, wincing as a sharp cramp shot through her stiff neck and lower back.
+
+"I'm **Beth**, your day-shift nurse," the woman continued brightly, wheeling her computer cart to the bedside. "Just here for our six o'clock morning vitals!"
+
+As the blood pressure cuff whirred to life around Jordan's arm for what felt like the hundredth time, Jordan's stomach let out a loud, violent growl that echoed across the room. He hadn't eaten a single bite of food in twenty-two hours—not since breakfast at Kincaid Commons on Friday morning before `SOC 101`—and his throat felt like sandpaper.
+
+Pulling his arm off his eyes, Jordan tapped pleadingly on his **mPad**:
+
+<aac>Nurse Beth, am I still NPO? Please, I am starving. Can I even have a cracker or some water?</aac>
+
+Nurse Beth finished typing his numbers into the chart and looked down at him with genuine sympathy.
+
+"I'm so sorry, Jordan," Beth said gently. "I checked your orders the minute I clocked in at the desk. Because you're on the urgent priority transfer list for open-heart surgery at Star City General in Roanoke, the cardiothoracic surgeons require you to remain strictly **NPO** around the clock—nothing by mouth, IV fluids only—so that the moment a CVICU bed opens up, they can take you straight into surgery without aspiration risk."
+
+Jordan's head sank back against the flat pillow in total defeat.
+
+Across the room on the vinyl sofa, Aubrie Jean felt her own stomach twist with hunger. She hadn't eaten since Friday morning either; she was running on zero sleep, her muscles ached from the vinyl bench, and she was dizzy for a cup of coffee. Yet one look at Jordan—pale, aching, and denied even a sip of water—made her own discomfort vanish.
+
+"The hospital cafeteria downstairs opens at six-thirty, sweetheart," Nurse Beth said, turning kindly toward Aubrie Jean. "You should really walk down and get yourself some hot eggs and coffee. You look worn out."
+
+Aubrie Jean shook her head immediately, her jaw set in absolute loyalty.
+
+"I'm not leaving him," Aubrie Jean said, her voice flat and final. And in her heart, she made an unspoken rule: she wasn't going to eat a single bite of food in front of Jordan while he wasn't allowed to eat.
+
+Seeing the fierce, unshakeable devotion in the nineteen-year-old's eyes, Nurse Beth didn't push. "Alright, honey," she said softly, dimming the overhead lights back down a notch before stepping out.
+
+As soon as the door clicked shut, Aubrie Jean stood up from the sofa, dragged the armchair back against the left rail of Jordan's bed, and laced her fingers back through his hand, resuming her watch.
+
+### Scene 5: The Saturday & Sunday Watches (Forty-Eight Hours NPO)
+
+**Date:** 2015-09-19 at 07:00 America/New_York
+
+By `6:55 AM` on **Saturday, September 19, 2015**, **Aubrie Jean** was running on the last fumes of pure adrenaline. After spending the entire night cramped on the narrow vinyl bench—woken at `9:00 PM`, `11:54 PM`, `2:00 AM`, `2:15 AM`, `2:30 AM`, `2:45 AM`, `3:00 AM`, `4:00 AM`, and `6:00 AM`—and refusing to eat or drink a single thing while **Jordan** was on strict **NPO** status, her eyes were sunken and bloodshot, her shoulders were trembling, and she was lightheaded with exhaustion.
+
+Just before seven o'clock, the door of **Room 312** opened softly.
+
+It wasn't a nurse this time—it was **Daniel** and **Laura Brooks**, arriving right on schedule alongside **Madison** and **Isabel**, who was carrying a fresh overnight bag over her shoulder.
+
+"Oh, sweetheart," Laura breathed, her heart aching the second she saw Aubrie Jean's pale, hollow-eyed state. Crossing the room immediately, Laura wrapped her arms around Aubrie Jean in a warm, motherly embrace. "You look completely wrung out, honey. You need to eat and get some real sleep."
+
+"I can't," Aubrie Jean whispered, her voice cracking as she leaned briefly into Laura's hug while keeping her eyes locked on Jordan's bed. "I promised him I wouldn't leave."
+
+At the bedside, Daniel rested a warm hand on Jordan's shoulder as **Dr. Patel** stepped into the doorway behind them for morning rounds. "How are you holding up this morning, son?" Daniel asked gently.
+
+Jordan tapped a single, weary word on his **mPad**, then looked past Daniel toward Dr. Patel:
+
+<aac>Hungry. Doctor Patel, am I still NPO? Please, I am starving.</aac>
+
+Dr. Patel gave him a grim, sympathetic look. "I wish I could tell you otherwise, Jordan. Your rhythm and vitals are stable on the heparin drip, which is good news, but Star City General's Cardiovascular ICU in Roanoke is still at one-hundred-percent capacity this morning. That bed could open up in thirty minutes, or it could take until tomorrow. Until you are safely through surgery, we can't risk anything in your stomach—it has to be IV hydration only."
+
+Jordan let his head fall back against the pillow with a quiet sigh of defeat.
+
+Turning gently from the bed, Daniel looked down at Aubrie Jean. "Aubrie, listen to me," he said with quiet fatherly authority. "Madison and Isabel are both here to take the Saturday watch. You stayed with him through the hardest night of his life, and you've done more than enough. Now you need to come back to Geneva Street with Laura, eat a hot breakfast, take a shower, and sleep in a real bed. Jordan has open-heart surgery ahead of him in Roanoke—he's going to need you strong for what's coming, and you can't help him if you collapse."
+
+Aubrie Jean looked torn, her fierce loyalty warring with the room spinning around her. She looked at Jordan.
+
+Reaching out with his left hand, Jordan squeezed her fingers and tapped softly on his **mPad**:
+
+<aac>Please go rest and eat, Aubrie. I will be okay. Madi and Izzy are right here with me. I need you strong for Roanoke.</aac>
+
+Hearing the request directly from Jordan finally broke through Aubrie Jean's stubbornness. Leaning over the rail, she pressed a long, tearful kiss to Jordan's forehead and lips, whispered *"I'll be back as soon as I sleep,"* and let Laura guide her gently out to the elevator.
+
+Instantly, **Madison** slid into the left bedside armchair and took Jordan's left hand in both of hers, while **Isabel** pulled the rolling stool up to the right rail and took his right hand gently above the sterile wrist dressing.
+
+"Hey, J," Madison smiled softly, her warm, sunny Safe Person energy wrapping around him like a familiar quilt. "Me and Izzy have got the watch."
+
+***
+
+Saturday proved to be the longest, most grueling day of Jordan's nineteen years.
+
+The surgical verdict had already been handed down—his calcified LAD artery required an open-heart bypass—yet the phone call from **Star City General Hospital** in Roanoke never came. Hour after hour ticked by on the wall clock of **Room 312** while Roanoke's CVICU remained completely full.
+
+Jordan was trapped in limbo. After more than thirty hours without food or water, the hunger in his stomach had graduated from a grumpy annoyance into a sharp, gnawing cramp, his chest throbbed with a persistent ischemic ache, and every time footsteps paused outside his door in the hallway, his heart rate spiked on the monitor in dread that it was the critical care transport team coming to take him to the operating table.
+
+True to their bond, the entire family rotated in and out of the hospital all day Saturday to keep Jordan, Madison, and Isabel company:
+- **Mark** and **Hannah**, **Lauren**, **Sarah**, **Jessica**, and **Zoë** arrived in mid-morning shifts, while **Henry Walsh** and **Garrett Reynolds** drove down from campus at lunchtime carrying thermoses of coffee and hot takeout bags from Christiansburg for Madison, Isabel, and the waiting-room crew.
+- Out of absolute, unspoken solidarity with Jordan's strict **NPO** status, not a single member of the family brought food, coffee, or even a water bottle inside **Room 312**. Whenever Madison or Isabel needed to eat, they stepped out to the third-floor family lounge while Zoë, Hannah, or Mark took their chair at Jordan's rail so he never had to smell food he couldn't have—and never spent a single second alone.
+
+Inside the room, they did everything they could to keep his spirits afloat—reading aloud from their `HIST 115` and `PHYS 2305` notes, telling terrible jokes about their 5:45 AM bus blunder on the first day of class, and watching the local weather channel track the unseasonable mountain cold front—yet every laugh was fragile around the edges. Every two hours, when the door clicked open, everyone in the room froze hoping—and dreading—that a Roanoke bed had opened, only to sag back into their chairs when it was just Nurse Beth wheeling in the vitals cart.
+
+***
+
+As darkness fell on Saturday night and visiting hours ended at `9:00 PM`, Daniel and Laura arrived with a fresh overnight duffle bag for **Madison** while **Isabel** headed home to Geneva Street with the others to get a night's sleep before Sunday's transfer.
+
+"Still no word from Roanoke?" Daniel asked quietly in the doorway.
+
+Madison shook her head wearily. "Still waiting on a CVICU bed."
+
+Once the door clicked shut for the night, Madison changed into her soft cotton pajamas in the en-suite bathroom and arranged her pillows and fleece blanket across the dreaded vinyl bench by the window.
+
+Looking over at the narrow bench, Jordan tapped on his **mPad**:
+
+<aac>Are you going to be okay sleeping on that thing, Madi?</aac>
+
+"Nope," Madison replied cheerfully, flopping onto the stiff vinyl cushion with an exaggerated theatrical wince that made Jordan smile despite his exhaustion. "It's a medieval torture device disguised as furniture. But I'm right here with you, J. Try to get some rest."
+
+Just like the first night, real sleep was scarce. Every two hours—at `10:00 PM`, midnight, `2:00 AM`, and `4:00 AM`—the door clicked open to a wedge of hallway light and the *whir* of the blood pressure cuff.
+
+Between the checks, lying in the green glow of the heart monitor, Jordan and Madison talked quietly across the dark room—Jordan tapping softly on his dimmed **mPad** screen while Madison spoke in a soothing whisper from the chair she pulled back to his bedside. They talked about **Bob** and **Emily** down in **Bluewater**, about how Bob was mastering the wheelie techniques Jordan had taught him over Spring Break, about the stars over Blacksburg, and about how much they missed the chaotic, unscripted magic of their old second-floor suite in **Bennett Hall**.
+
+Forged in the quiet dark of a hospital vigil, those midnight hours deepened their Safe Person bond into something unbreakable.
+
+***
+
+When Nurse Beth flipped on the lights for the `6:00 AM` vitals check on **Sunday, September 20, 2015**, the news was unchanged: still no open CVICU bed in Roanoke.
+
+Jordan had now been strictly **NPO** for nearly forty-eight consecutive hours. Weak, dizzy, and bone-weary, he barely had the energy to lift his hand as the blood pressure cuff inflated, while Madison sat slumped in the bedside chair with dark circles under her bright blue eyes.
+
+At `7:00 AM` sharp, the door of **Room 312** opened, and the Sunday morning relief squad walked in: **Daniel**, **Laura**, a freshly rested (though still fiercely anxious) **Aubrie Jean**, **Isabel**, and **Lauren**, who held up her own packed overnight bag with a quiet, steady smile.
+
+"My turn on the watch, Madi," Lauren said softly, leaning down to hug Madison.
+
+Madison nearly cried with relief, pressing a warm kiss to Jordan's cheek. "I'm going back to Geneva Street to pass out for six hours, J. Be good for Lauren and Izzy," she mumbled affectionately as Laura guided her out to the car.
+
+Out in the third-floor corridor, Daniel Brooks stepped aside with **Dr. Patel**, his brow furrowed with paternal urgency.
+
+"Dr. Patel, what is the hold-up?" Daniel asked quietly. "He's nineteen years old with a ninety-nine-percent LAD blockage, and he hasn't had food or water since Friday morning. He cannot stay in limbo like this."
+
+"I share your frustration completely, Mr. Brooks," Dr. Patel said, his own expression strained. "Star City General is the only Level 1 Tertiary Heart and Vascular Center in all of Southwest Virginia—every emergency bypass and complex cardiac case from Wytheville to Lynchburg funnels into their CVICU. Because Jordan is hemodynamically stable here on continuous telemetry and heparin, he's at the very top of the inpatient transfer queue the second a post-op patient steps down out of their CVICU. I've been on the phone with Dr. Hassan's cardiothoracic team twice this morning—I'm hoping that bed opens today."
+
+Returning to **Room 312**, where **Lauren**, **Aubrie Jean**, and **Isabel** were seated around Jordan's bed, Daniel rested a steady hand on Jordan's shoulder. The agonizing Sunday wait ticked on.
+
+### Scene 6: The Call from Star City & The Route 11 Diversion
+
+**Date:** 2015-09-20 at 14:05 America/New_York
+
+Sunday afternoon, September 20, 2015, dragged past noon as a near-exact, grueling echo of Saturday.
+
+In the quiet of **Room 312**, **Lauren** sat in the left bedside chair holding **Jordan's** hand while **Aubrie Jean** and **Isabel** sat on his right. None of them spoke much; after fifty-two hours of hospital monitors, IV pumps, and strict **NPO** starvation, there was nothing left to say. They simply held onto him, listening to the steady *beep... beep... beep* of the telemetry screen as every passing hour ratcheted the tension tighter.
+
+Then, at `2:05 PM`, the hallway door of **Room 312** swung briskly open.
+
+It wasn't Nurse Beth with the vitals cart. It was **Dr. Patel**—and for the first time since Friday morning, the cardiologist was smiling.
+
+"We got it," Dr. Patel announced, his voice brimming with kinetic energy. "A **CVICU** bed just opened up at **Star City General Hospital** in **Roanoke**, and the cardiothoracic surgical team is expecting you. Our Advanced Life Support critical care transport rig is pulling into the ambulance bay downstairs right now. We're moving you."
+
+A collective gasp broke across the room—a tidal wave of profound relief mixed with a sudden jolt of terror that open-heart surgery was finally upon them.
+
+"I'm messaging Daniel and the convoy right now!" Lauren said, her hands trembling slightly as she pulled out her **mPhone** and fired off the priority alert across the **`Jordan Comms`** group channel while Zoë's automated dispatch macro echoed across every device at Geneva Street:
+
+> **[Jordan Comms — Priority Medical Channel]**<br>
+> **Lauren [`14:06:12`]:** `[URGENT] [MEDICAL]` They're moving him! A CVICU bed just opened at Star City General in Roanoke! Critical care transport team is on the way up to Room 312 NOW!<br>
+> **Daniel Brooks [`14:06:28`]:** `[ACK]` Mobilizing immediately. All three convoy vehicles are rolling out of Geneva Street now—we'll be staged at the ER ambulance bay in eight minutes to follow the rig.<br>
+> **Mark [`14:06:35`]:** `[ACK]` Pig Pen and Watchtower rolling right behind Rubber Duck. Hang tight, J—we're on our way!
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Incoming Priority_Signal from Node(Lauren): Target_Bed(Star_City_General_Hospital.CVICU) == AVAILABLE. Initiating Operation(Roanoke_Fortress_Convoy). 09-20-2015 14:06:40
+```
+
+***
+
+Ten minutes later, two critical care flight/ground paramedics wheeled a specialized, battery-backed **ICU transport gurney**—outfitted with its own multi-channel cardiac monitor/defibrillator, dual IV infusion pumps, and onboard oxygen cylinders—into **Room 312**, just as **Daniel**, **Laura**, **Mark**, **Hannah**, **Madison**, **Zoë**, **Sarah**, and **Jessica** arrived upstairs from the parking lot.
+
+"Okay, Mr. Fuller, it's time to roll to Roanoke," the lead critical care paramedic said briskly as he and Nurse Beth began transferring Jordan's heparin and saline IV lines onto the transport gurney's portable pumps.
+
+Stepping forward from the circle of family, **Zoë** adjusted her glasses, her gray eyes narrowing as her mental router evaluated the thirty-five-mile interstate corridor between Christiansburg and Roanoke.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Evaluating Transport_Vector(NRVMC_Christiansburg -> Star_City_General_Roanoke). Route_Primary(I-81_North): High_Variance_Risk (Heavy commercial freight corridor + approaching meteorological front). 09-20-2015 14:18:05
+```
+
+"Excuse me," Zoë said, addressing the lead paramedic in her crisp, analytical cadence. "Interstate 81 North is a high-variance corridor—a single commercial tractor-trailer collision can halt northbound traffic for hours, and Jordan has a ninety-nine-percent calcified LAD occlusion. Why are you not transporting him via **MedFlight helicopter**? Air transport reduces transit time from forty-five minutes to twelve."
+
+Busy securing Jordan's telemetry cables, the veteran paramedic didn't even have to look up from the monitor.
+
+"Because a twelve-minute helicopter flight bills out at nearly a **hundred thousand dollars**, ma'am, and health insurance companies deny inter-facility air claims instantaneously unless the patient is actively coding or the roads are impassable," the paramedic replied bluntly. "Since his vitals are stable on the heparin drip and we have an open interstate, insurance classifies ground ALS transport as the only covered medical necessity. Barring a major catastrophe on I-81, we'll have him in Roanoke in forty-five minutes."
+
+The cold bureaucratic arithmetic of the American healthcare system hung in the air—unfair, infuriating, and immovable. They were at the mercy of `I-81`.
+
+Once Jordan was slid onto the critical care gurney and strapped securely beneath a warm thermal blanket, the entire family walked down the elevator with him to the Emergency Department **ambulance bay**.
+
+Outside on the sunlit asphalt, the **Rubber Duck Convoy** was already staged in tight three-vehicle formation, engines idling:
+1. **Lead Family Vehicle (`"Rubber Duck"`)**: **Daniel Brooks's** wheelchair-accessible BraunAbility minivan—with *S.S. Freedom* safely anchored in the center cabin and **Laura**, **Aubrie Jean**, **Madison**, and **Zoë** aboard.
+2. **Second Vehicle (`"Pig Pen"`)**: **Mark's** SUV—carrying **Hannah**, **Lauren**, **Sarah**, and **Jessica**.
+3. **Third Vehicle (`"Watchtower"`)**: **Henry Walsh's** crew-cab Chevrolet Silverado pickup—driven by Henry with **Isabel** in the front passenger seat and the family's packed overnight duffle bags secured in the covered truck bed.
+
+Before the paramedics lifted the gurney into the back of the critical care ambulance, every single member of the family leaned in across the bay for a quick, fierce hug and kiss—Aubrie Jean, Madison, and Isabel squeezing his hand until the rear doors swung shut with that familiar, hollow metallic *THUD*.
+
+Inside the ambulance cabin, lying flat on the gurney with the medic monitoring his EKG waveform beside him, Jordan felt the rig pull smoothly out of the hospital drive and accelerate down `U.S. Route 460` toward the **`Interstate 81 North`** interchange.
+
+Immediately behind the ambulance, Daniel Brooks tapped the push-to-talk button on the hands-free multi-car convoy channel synced across the three dashboards.
+
+*"Alright, this is the Rubber Duck to the convoy,"* Daniel's calm, steady voice came through the speakers in Mark's SUV and Henry's truck. *"We are 10-23 behind the ambulance with our package, eastbound on 460 approaching the I-81 ramp. Pig Pen, Watchtower, do you have a copy on me?"*
+
+*"That's a big 10-4, Rubber Duck,"* Mark's voice crackled back instantly from the middle SUV. *"Pig Pen has your back door covered."*
+
+*"10-4, Rubber Duck,"* Henry Walsh's deep voice answered from the Silverado behind Mark, with Isabel sitting beside him scanning the road ahead. *"Watchtower is locked in on your tail."*
+
+***
+
+Less than two miles later, as the ambulance and the three-car convoy crested the rise on `U.S. 460` approaching Exit 118 onto **`Interstate 81 North`**, every heart in the convoy dropped into their stomachs.
+
+Ahead of them stretched a solid, motionless sea of red brake lights.
+
+At the base of the `I-81 North` on-ramp, two Virginia State Police cruisers sat parked diagonally across the lanes with red-and-blue lightbars strobing against the overcast afternoon sky and magnesium highway flares hissing in a bright orange line across the asphalt.
+
+Up ahead, the critical care ambulance slowed, clicked on its hazard flashers, and pulled onto the wide paved shoulder fifty yards short of the blocked interchange.
+
+*"Rubber Duck to convoy—hold your position on the shoulder right behind me,"* Daniel ordered quietly, easing the minivan onto the gravel edge ahead of Mark and Henry.
+
+The driver's door of the ambulance popped open, and the emergency vehicle driver hopped down onto the shoulder, jogging back toward Daniel's driver-side window with a grim expression.
+
+Daniel rolled the window down. "What's going on?"
+
+"Your daughter called it back in that hospital room—you're not going to believe this," the ambulance driver said, shaking his head as he leaned in toward Daniel's window. "State Police dispatch just broadcast a Code Red closure on **I-81 North** at Mile Marker 124 near Ironto. Two tractor-trailers jackknifed across the mountain grade and tangled up—both northbound lanes are completely blocked for the next several hours."
+
+In the second-row bucket seat behind Daniel, **Aubrie Jean** let out a small, choked gasp, her hands flying to her mouth, while **Zoë** closed her eyes for half a second as her worst statistical probability materialized in real time.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — ALERT: Predicted I-81_North_Bottleneck CONFIRMED at Mile_Marker_124 (Multi-Tractor-Trailer Collision). Primary_Vector(I-81_North) == IMPASSABLE. 09-20-2015 14:34:19
+```
+
+"We're diverting right now," the ambulance driver continued briskly. "Because every car coming off I-81 is about to flood the highway, we have to take **`U.S. Route 11`**—the old Lee Highway—straight through Christiansburg, down the mountain grade through Shawsville and Elliston, and all the way into Salem and Roanoke. Even with our lights when needed, it's a winding two-lane road with traffic lights and town zones—it's going to turn a forty-five-minute run into a two-hour crawl, but it's the only way through."
+
+Daniel nodded once, his knuckles white on the leather steering wheel. "Go. Our three vehicles will stay right behind your bumper the entire way."
+
+The driver sprinted back to the ambulance cab. Daniel keyed the convoy mic.
+
+*"Rubber Duck to convoy—change of plans,"* Daniel announced, keeping his voice steady for the young women in the back. *"I-81 North is shut down completely by a two-semi wreck on the mountain. The ambulance is diverting onto **U.S. Route 11 North** through Shawsville and Salem all the way into Roanoke. It's going to be a long, slow two-hour ride on two-lane roads. Stay tight on my bumper and don't let detour traffic cut our line. Pig Pen, Watchtower, you copy?"*
+
+*"10-4, Rubber Duck,"* Mark and Henry replied in unison, their voices grim.
+
+Inside the windowless back cabin of the critical care ambulance, strapped to the gurney with the cardiac monitor beeping beside his ear, **Jordan** felt the ambulance lurch back into gear, bypass the interstate ramp completely, and turn onto the slow, winding two-lane blacktop of **`U.S. Route 11`**.
+
+He felt the rig braking and accelerating through town intersections, heard the faint click of turn signals and stoplights, and felt every curve of the steep mountain descent toward Shawsville. Alone in the back of the ambulance, starving, aching, and headed toward open-heart surgery, his forty-five-minute transfer had just become a grueling two-hour crawl—and all anyone could do was hold the line and pray his heart held together until they reached **Roanoke**.
+
