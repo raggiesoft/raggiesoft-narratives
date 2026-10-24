@@ -14810,7 +14810,7 @@ Looking up at Isabel's tear-bright eyes and radiant blush, Jordan felt a deep, q
 
 # Jordan's Court Case
 
-## The Southern Hemisphere
+## Dismissed with Prejudice (The Montgomery County Courthouse)
 
 ### Scene 1: The First In-Person GAL Interview
 
@@ -15230,4 +15230,328 @@ ZOË.Systems.Logs.InternalStateLog: Thread 3 (Jordan) — Legacy_Trauma_Process(
 "Court is adjourned," Judge Harrison said softly, offering Jordan a respectful nod from the bench before stepping out to his chambers.
 
 The moment the chamber door clicked shut, the last phantom weight of Virginia Beach vanished from Jordan's chest. Exhausted to the marrow of his bones, yet lighter than air, Jordan turned his power chair around as **Aubrie**, **Zoë**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, **Daniel**, **Laura**, **Isabel**, **Henry**, **Kelsey**, and **Ms. Higgins** surged forward to surround him—ready to take him home to Geneva Street to sleep for twenty-four straight hours before Sophomore Year began.
+
+## No Clipboard to Hide Behind (Welcome to Geneva Street)
+
+### Scene 1: No Clipboard to Hide Behind
+
+**Date:** 2015-08-19 at 17:00 America/New_York
+
+True to **Daniel Brooks's** word on the courthouse steps, **Jordan Fuller** had come home from the Montgomery County Courthouse on Tuesday afternoon, transferred into the center of the queen-sized bed in the walk-out basement at **414 Geneva Street**, and slept for twenty-two uninterrupted hours.
+
+For the first time in nineteen years, his sleep had been completely dreamless—unshadowed by Virginia Beach, unshadowed by private investigators, and permanently shielded by a Circuit Court protective order and a dismissal with prejudice. When Jordan finally woke at three o'clock on Wednesday afternoon, showered, and dressed in a fresh navy-blue CPI Astrophysics t-shirt and comfortable athletic shorts, he felt as if a fifty-pound lead vest had been unbolted from his ribs.
+
+At five o'clock that evening, the crunch of tires on the paved driveway above the hillside signaled the arrival of their dinner guest.
+
+Up at the curb in front of **414 Geneva Street**, **Isabel Claire Dawson** put her compact sedan into park, switched off the ignition, and sat frozen behind the steering wheel with both hands gripping the leather wrap at ten and two.
+
+She was an absolute nervous wreck.
+
+"Get it together, Izzy," she whispered aloud to the empty windshield, letting out a shaky breath and pressing the cool palms of her hands against her flushed cheeks. "You testified in front of a Circuit Court judge yesterday without blinking. You are a twenty-one-year-old Senior Resident Advisor. You can walk up a front porch."
+
+Except she knew perfectly well why her pulse was hammering in her throat at a hundred and thirty beats per minute.
+
+Even though Jordan and his found family had visited *her* parents' house on Whippoorwill Road in Charlottesville during Thanksgiving and Winter Break, Isabel had **never once been to 414 Geneva Street**. Throughout all of Freshman Year, she had guarded her professional Residence Life boundary with iron discipline; while she was Jordan's active second-floor RA at Bennett Hall, visiting her residents' private off-campus family home in Christiansburg had been a line she refused to cross.
+
+More than that, Isabel realized with a sudden, dizzying flutter in her stomach that she had **never stepped inside Jordan's living quarters as a civilian**.
+
+Every single time she had ever crossed the threshold of **Room 214** back at *The Old Lady on the Hill*, it had been in her official institutional capacity as **Resident Advisor Isabel Dawson**—wearing her maroon-and-white CPI Housing & Residence Life staff polo shirt or her blue nylon RA duty lanyard, carrying a brass master key ring or a yellow carbonless **Room Condition Report (RCR)** clipboard, checking smoke detectors during September Health & Safety Week, or signing Jordan out on Move-Out Day.
+
+Today, Bennett Hall was closed forever. She was reassigned across campus to **Allegheny Commons Apartment 101** for her senior year, and Jordan was officially an off-campus sophomore living in Christiansburg.
+
+She glanced down at herself in the rearview mirror. She wasn't wearing a staff polo shirt. She had no lanyard around her neck, no master keys clipped to her belt, and no clipboard to hold in front of her chest like a shield. She was just Isabel—wearing dark-wash jeans, white canvas sneakers, and a soft burgundy CPI t-shirt, holding a white cardboard bakery box of warm cinnamon-apple turnovers from Blacksburg with fingers that wouldn't stop trembling.
+
+Taking one final deep breath, Isabel picked up the bakery box, stepped out of her car into the warm August late-afternoon sunshine, and walked up the front path just as **Daniel** and **Laura Brooks** opened the front door with wide, welcoming smiles.
+
+"Isabel! Welcome to Geneva Street, my dear!" Laura beamed, stepping out onto the porch to wrap the nervous young woman in a warm, maternal hug before taking the bakery box from her trembling hands. "Come right in—or rather, come right out to the back deck! Someone has been waiting by the sliding glass doors for the last twenty minutes to give you the grand tour himself."
+
+"Thank you, Mrs. Brooks—Mr. Brooks," Isabel said, her voice half an octave higher than usual as she smoothed her jeans with her palms and followed Daniel through the bright main-floor kitchen—where **Caleb**, **Owen**, and **Jacob** waved cheerfully from the island—and out onto the elevated first-floor timber back deck overlooking the sloping backyard.
+
+Just as Isabel stepped onto the deck, a whisper-quiet, familiar turbine hum rose from the top landing of the backyard accessibility ramp.
+
+Rolling smoothly across the dead-level six-foot turning platform at the top of the three-switchback, `1:14`-slope composite timber ramp was **Jordan** in his three-hundred-and-fifty-pound matte-black ***S.S. Freedom*** (`Vanguard Titan-X350`). Rested, clean-shaven, and glowing with quiet joy after a full day and night of deep sleep, he brought the chair to a halt three feet in front of her and smiled up at her through his prescription glasses.
+
+<aac>Welcome to Geneva Street, Isabel,</aac> Jordan's tablet spoke in its warm Australian *Sydney* voice. <aac>You finally made it.</aac>
+
+Isabel's heart did a complete somersault behind her ribs. Looking down at Jordan—seeing the color back in his cheeks after yesterday's grueling courtroom battle, and realizing there was not a single institutional rule standing between them anymore—she felt a bright crimson blush rise from her collarbone all the way to the tips of her ears.
+
+"Hi, Jordan," Isabel said softly, clasping her hands together in front of her waist so he wouldn't see how badly her fingers were shaking. "You look... you look so much more rested today. How are you feeling?"
+
+<aac>Like a brand-new person. Twenty-two hours of sleep and zero lawsuits left on Earth will do that,</aac> Jordan typed with a grin, gesturing down the wide, grooved composite decking of the switchback ramp winding gently down the hillside toward the walk-out basement patio. <aac>Want to see where I actually live? Watch your step—wait, there are no steps.</aac>
+
+A genuine, breathless laugh escaped Isabel's lips, breaking the first layer of her panic. "Lead the way, Mr. Fuller."
+
+Walking beside Jordan's left wheel as he glided effortlessly down the gentle four-degree grade of the three switchbacks, Isabel couldn't help running her fingertips along the smooth, dual-height powder-coated steel handrails. Back in January and March, Jordan had told her about the ramp Daniel and Walt Harmon's crew had engineered into the hillside, and she had testified about his Geneva Street sanctuary in court yesterday—but seeing the forty-two-inch frost-line concrete piers and the sweeping six-foot turning landings in person made her throat tighten with emotion.
+
+When they reached the concrete walk-out patio at the bottom of the hill, Jordan rolled up to the wide sliding glass doors and pulled them open.
+
+<aac>Come on in. Welcome to the Fortress.</aac>
+
+Isabel stepped over the zero-step threshold into the cool, recessed-lit walk-out basement—and stopped dead in her tracks three feet inside the glass doors.
+
+Around the perimeter of the finished basement living area, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, and **Megan** looked up from unpacking their World Trek laundry and sophomore textbooks to greet her with a chorus of warm smiles and waves.
+
+"Hey, Izzy!" Madison cheered, bouncing up from the wide pull-out sectional sleeper. "Welcome to the bunker!"
+
+"Make yourself at home, Isabel," Aubrie Jean said warmly, setting a fresh kettle on the kitchenette counter.
+
+But Isabel barely heard them at first. Her dark eyes were wide behind her glasses as she slowly took in the room around her.
+
+Right there in the contiguous footprint of the walk-out basement stood the four sturdy, foldable queen-sized beds and the wide pull-out sectional sleeper, all made up with soft comforters and overlapping pillows. Along the main wall sat the shared dressers, the unhinged closet doorway widened for wheelchair turning clearance, the accessible card table holding Jordan's spare **Pinnacle Vanguard Pro** laptop and his dual-monitor **Precisionist 5000** desktop workstation, and Jordan's lightweight indoor manual chair parked right beside the center queen bed.
+
+In Bennett Hall, **Room 214** and **Room 216** had been university dorm rooms—cinderblock walls, standard-issue oak desks, and twin extra-long frames that belonged to Commonwealth Polytechnic Institute.
+
+This was *Jordan's bedroom*.
+
+This was the private, intimate, barrier-free domestic sanctuary where Jordan slept every night wrapped in the arms of his found family, where he dressed every morning, and where he lived his life completely unfiltered. And she was standing right in the middle of it—not as his Floor RA doing a ten-minute inspection with a clipboard, but as a woman who had been hopelessly, secretly in love with him for eleven months.
+
+Sitting at the corner workstation with her tablet propped beside her keyboard, **Zoë** glanced up at Isabel's scarlet cheeks and rigid posture, her dark eyes blinking once as her internal telemetry logged the visitor's state:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 2 (Observers) — Visitor_Arrival: Agent(Isabel) entered Node(Geneva_Street.Basement_Pact_Suite). Institutional_Armor("CPI_Residence_Life_Clipboard.sys") == NOT_FOUND. 08-19-2015 17:14:22
+ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — Agent(Isabel) physiological telemetry: Heart_Rate == ELEVATED (>125 BPM), Facial_Capillary_Flush == 94%, Hand_Tremor_Amplitude == HIGH. Hypothesis: First unscripted entry into Thread 3 (Jordan) private domestic quarters without RA boundary protection is inducing acute romantic stage fright. 08-19-2015 17:14:28
+```
+
+"Are you alright, Isabel?" Zoë asked with gentle, matter-of-fact sincerity, tilting her head slightly. "Your face is approximately the same shade of crimson as a London double-decker bus, and you are standing near the patio door as if you are waiting for someone to hand you a Room Condition Report."
+
+The entire basement burst into affectionate, gentle laughter—and Isabel buried her face in both hands, letting out a muffled groan of pure embarrassment mixed with relief.
+
+"I'm sorry!" Isabel laughed through her fingers, lowering her hands to reveal cheeks that were indeed glowing bright red. "It's just—for an entire year, every single time I ever walked into Jordan's room at Bennett Hall, I had a clipboard or a key ring in my hands and a Residence Life polo shirt on! Walking into your actual bedroom without a clipboard feels like I'm breaking seventeen Housing rules at once!"
+
+Jordan rolled his chair right up beside her, reached out with his right hand, and gently took her trembling left hand in his warm, steady grip.
+
+<aac>There are no Housing rules down here, Izzy,</aac> Jordan's tablet said softly as he looked up into her dark eyes. <aac>And you don't ever have to hold a clipboard between us again.</aac>
+
+### Scene 2: The Secret Everyone Already Knew
+
+**Date:** 2015-08-19 at 19:30 America/New_York
+
+After a boisterous dinner upstairs around the main dining table—where **Daniel** and **Laura Brooks** toasted the courtroom victory with sparkling apple cider and **Isabel's** warm Blacksburg turnovers disappeared in less than ten minutes—the younger generation headed back down to the walk-out basement sanctuary for tea.
+
+Outside the wide sliding glass patio doors, the late-August twilight settled in purple and gold layers across the Blue Ridge hills, and the string of warm fairy lights **Madison** had draped along the basement ceiling beams cast a soft amber glow over the four queen beds and the wide sectional sofa.
+
+Yet as **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, and **Megan** settled onto the edges of the beds and sofa with their mugs, Isabel remained standing near the center of the rug right in front of **Jordan's** chair.
+
+She had set her tea mug down on the corner of the oak coffee table because her hands were trembling again.
+
+"Izzy?" **Aubrie Jean** asked gently from the edge of the center queen bed right beside Jordan's right wheel. "You didn't touch your tea. What's going on inside your head?"
+
+Isabel looked around the circle of faces—the nine sophomores she had watched over across the hall from **Room 215** for two semesters, plus Megan—and then looked straight down into Jordan's steady green eyes.
+
+She took a long, quivering breath, her hands twisting the hem of her burgundy CPI t-shirt before she forced herself to let go and stand tall.
+
+"I can't leave here tonight without telling all of you the truth," Isabel said, her voice shaking slightly but clear in the quiet basement. "Especially you, Jordan. And you, Aubrie."
+
+Jordan tilted his head, keeping his gaze locked warmly on hers without interrupting.
+
+"All last year at Bennett Hall," Isabel continued, her cheeks flushing deep rose as tears began to shimmer behind her rectangular glasses, "I told myself—and I told Kelsey, and Henry, and my parents—that the reason I checked on Room 214 so closely was because I was your Resident Advisor. That it was my job to make sure a freshman who had been abandoned at the curb had his key cards, his fire-evacuation accommodations, and a safe floor."
+
+She swallowed hard, a single tear slipping down her cheek as she looked straight at Jordan.
+
+"And for the first four weeks, that was true," she whispered. "Until Friday, September nineteenth. When the fire alarm went off during Health and Safety Week, and I knelt beside your desk because your hands were frozen over your ears... and then out on the Washington Street lawn, when you reached up from your chair to hug me for the very first time and showed me your one-hundred-and-five percent Astrophysics exam."
+
+Isabel pressed her right hand over her breastbone, right where her heart was racing.
+
+"Psychologists probably call it the Florence Nightingale effect," she admitted, letting out a shaky, tearful laugh. "When caring for someone and protecting them crosses an invisible line until your heart doesn't belong to you anymore. By October, I knew what was happening to me. By Thanksgiving in Charlottesville, when I watched you with Elana, Stephen, and Stella, I was already completely gone. And by May fifteenth—when you signed your final Room Condition Report in the second-floor hallway and typed on your tablet that I wasn't your Resident Advisor anymore—I almost lost every ounce of willpower I had and blurted it all out right there on the hallway floor."
+
+She looked from Jordan to Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Megan, bracing herself as if she half-expected them to be shocked or angry with her for harboring feelings for the man at the center of their lives.
+
+"I hid it from every single one of you all year because I was your RA," Isabel said, her voice thick with emotion. "I refused to ever cross an ethical boundary while I wore that badge, and I refused to intrude on the family you built together. Even Monday night at the Roanoke airport, and yesterday morning in that courtroom, I tried to keep holding it back. But I'm not your RA anymore, Bennett Hall is gone, your mother can never hurt you again, and I can't pretend for one more day."
+
+She looked straight into Jordan's eyes, her voice dropping to a fierce, vulnerable whisper:
+
+"I am in love with you, Jordan Fuller. I have been in love with you for almost a year."
+
+Silence hung over the walk-out basement for three full seconds.
+
+Isabel stood frozen on the rug, her chest heaving, waiting for the shockwave.
+
+Instead, across the room on the sectional sofa, **Madison** let out a soft, affectionate sigh and rested her chin in her hands. **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Megan** exchanged the warmest, most knowing smiles imaginable. Beside Jordan's right wheel, **Aubrie Jean** beamed with pure, unguarded tenderness—and at the corner desk, **Zoë** adjusted her glasses and spoke up in her calm, crystal-clear London cadence:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 2 (Observers) — Confession_Event: Agent(Isabel) verbally executed state declaration (Romantic_Love == TRUE -> Thread 3 [Jordan]). 08-19-2015 19:41:10
+ZOË.Systems.Logs.InternalStateLog: Thread 1 (Self) — Cross-referencing historical dataset: Node(Found_Family) consensus probability that Agent(Isabel) was in love with Thread 3 (Jordan) reached 99.8% on 2015-05-15 at 11:25 EDT. Surprise_Index == 0.00. 08-19-2015 19:41:15
+```
+
+"Isabel," Zoë said gently, "every single person in this room—including Jordan, and including Henry Walsh—already knew."
+
+Isabel blinked, her jaw dropping slightly. "Wait... what?"
+
+"Sweetheart," **Hannah** laughed warmly from the armrest of the sofa beside **Mark**, "you carried Jordan's framed Christmas sketch like it was the Crown Jewels, you cried happy tears on Washington Street the day he got the *S.S. Freedom*, and Monday night at Gate Four you held onto him on the airport carpet for a full minute like you were never going to let him go! The only person you were still fooling was yourself!"
+
+"And on Move-Out Day in May," **Jordan** typed on his tablet, a radiant, loving smile spreading across his face as the Australian *Sydney* voice filled the room, <aac>why do you think I typed that sentence after I signed my Room Condition Report? I already knew, Izzy. All of us did. We were just waiting for you to feel safe enough to say it out loud.</aac>
+
+Isabel stared at Jordan, her hands flying to her flushed cheeks as a fresh wave of tears spilled over her eyelashes.
+
+"You... you knew?" she whispered. "And none of you are upset with me?"
+
+"Upset with you?" **Aubrie Jean** stood up from the edge of the queen bed, walked two steps across the rug, and wrapped Isabel in a warm, tight hug before stepping back and gesturing toward Jordan. "Izzy, you protected him, believed in him, and stood on the front lines for us from the very first day we moved into Bennett Hall. How could anyone in this room ever be anything but overjoyed that you love him?"
+
+Jordan reached down with his right fingers, tapped the release latch, and flipped the left armrest of his power chair straight up against the backrest—opening his arms wide, just as he had in the second-floor hallway on May fifteenth and at Gate Four on Monday evening.
+
+<aac>Come here, Isabel,</aac> Jordan's tablet said softly.
+
+With a soft sob of pure, overwhelming relief, Isabel crossed the two feet of carpet between them, sank to her knees beside his left wheel so their eyes were level, and threw both arms around his neck.
+
+Jordan wrapped his strong arms around her waist and shoulders, pulling her flush against his chest. For a long moment they simply held each other, feeling the eleven months of unspoken longing, institutional clipboards, and five-thousand-mile summer distance dissolve into nothing.
+
+Then Isabel drew back just far enough to look into his green eyes. Gently resting her warm palms along both sides of his clean-shaven jaw, she leaned in and pressed her lips softly, unmistakably to his.
+
+Jordan closed his eyes and kissed her back—steady, tender, and completely unhurried—as a quiet, happy cheer rose from the circle of people who loved them both.
+
+### Scene 3: Angles, Leverage, and the No-Jealousy Pact
+
+**Date:** 2015-08-20 at 09:30 America/New_York
+
+At nine-thirty on Thursday morning—the final quiet day before CPI's campus erupted into the controlled chaos of Freshman Move-In Friday—**Isabel Dawson** returned to the walk-out basement at **414 Geneva Street** dressed in flexible athletic leggings, running sneakers, and a soft grey t-shirt with her long dark hair tied back in a practical ponytail.
+
+Last night had been about tears, relief, and a first kiss eleven months in the making.
+
+This morning was about learning how to be **Jordan's** partner in the real, everyday physics of his life.
+
+"Alright, Izzy," **Lauren** said warmly as she, **Aubrie Jean**, and **Hannah** stood beside the center queen-sized bed where Jordan was sitting propped against the pillows in his pajama pants and t-shirt, with his lightweight indoor manual wheelchair (**Vanguard Pro**) parked close by. "All last year across the hall, you saw the finished result whenever Jordan rolled out of Room 214. Today, we're going to teach you how we actually do his morning **ADLs**—Activities of Daily Living—together."
+
+"I'm ready," Isabel said EARNESTLY, stepping right up to the side of the mattress with her sleeves pushed up to her elbows. "Show me everything. I don't want to guess or do anything that hurts his joints."
+
+<aac>Rule number one,</aac> Jordan typed on the tablet resting beside his knee, smiling up at her. <aac>In this basement, nobody does things TO me like I'm a sack of luggage. We do it together as a team. Angles and leverage beat brute force every time.</aac>
+
+"First up is the **Forty-Five-Degree Pivot Transfer**," Aubrie Jean explained, grasping the handles of Jordan's indoor manual chair and wheeling it up to the left side of the queen mattress. "Watch the angle of the frame. You never park parallel at zero degrees if you can avoid it, and you never park perpendicular at ninety degrees—that makes the gap too wide. Forty-five degrees puts the front corner of the wheelchair cushion almost touching the edge of the mattress."
+
+Isabel leaned in closely, studying the geometry as Aubrie backed the manual chair half an inch forward and back so the small front caster wheels trailed straight behind the front frame stems, widening the base of support so the chair couldn't tip forward.
+
+"Lock both wheel brakes tight—Wait for the solid click on both sides—and flip the near armrest up," Lauren coached. "Jordan has great upper-body and triceps strength now, so he drives the pivot himself. Our job as his spotter is to stand right in front of his knees, block his shins gently with our shins so his feet don't slide out on the floor due to his spasticity, and keep two steady hands at his waistband just to guide his center of gravity."
+
+"Want to spot me on the transfer into the chair, Izzy?" Jordan asked via his tablet.
+
+Isabel nodded, her focus laser-sharp. Stepping into position directly in front of Jordan's knees, she squared her stance the exact way Lauren demonstrated, braced her shins lightly against his lower legs, and rested her warm hands securely at the sides of his waist.
+
+"Brakes locked, casters trailed, armrest up," Isabel recited carefully. "Whenever you're ready, Jordan."
+
+Jordan planted his left palm on the far armrest of the manual chair and his right palm flat on the queen mattress, leaned his head and shoulders forward over his knees to unweight his hips, and pushed cleanly across the two-inch gap onto the wheelchair cushion.
+
+Isabel guided his hips smoothly into the back of the seat without a single jolt.
+
+"That was textbook, Izzy!" **Hannah** beamed from the foot of the bed.
+
+Next, Aubrie Jean and Lauren guided Isabel and Jordan into the large accessible basement bathroom—where Isabel got her first real-world introduction to the household's matter-of-fact **"No Privacy" Pact** and learned how to spot Jordan's transfer onto the grab-bar commode and the padded fold-down bench of the roll-in shower with complete, judgment-free clinical dignity. There was zero awkwardness and zero hesitation; to Isabel, who had spent years helping her younger sister **Elana** and cousin **Stephen** at home in Charlottesville, the calm, respectful teamwork felt like second nature.
+
+When they wheeled back out into the main basement bedroom to get Jordan dressed for the day, Jordan grinned and held up a fresh navy-blue CPI hoodie.
+
+<aac>Upper body I handle solo now,</aac> Jordan's tablet announced proudly as he braced his left forearm against the queen mattress to stabilize his trunk, threaded his arms through the sleeves, cleared his glasses, and tugged the hoodie smoothly down over his chest.
+
+"I remember when you and Lauren figured that out during the December blizzard," Isabel smiled softly, her eyes warm with pride. "What about pants and socks?"
+
+"Socks and sneakers are pure geometry," Lauren said, handing Isabel a pair of clean crew socks and Jordan's athletic shoes. "Because of the tight hamstrings and hip flexors from his spastic diplegic cerebral palsy, leaning all the way down to his ankles fights his muscle tone. So we handle socks and shoes from the floor."
+
+Isabel knelt effortlessly in front of Jordan's footrests, supporting his ankle gently with one hand to keep his foot from clonus-spasming while she slid each sock smooth and wrinkle-free over his heels and laced up his sneakers.
+
+"And for jeans or sweatpants," Hannah said, holding up a pair of dark athletic track pants, "Jordan invented the **Bed-Frame Fulcrum Lift**."
+
+While Isabel guided the pant legs up over his calves to his knees, Jordan wheeled his manual chair flush alongside the queen mattress and locked both brakes.
+
+<aac>Watch this, Izzy,</aac> Jordan typed. <aac>When I say 'Now,' I'll plant my left hand on my armrest and my right hand on the mattress and press straight down to lift my hips an inch and a half off the seat cushion. While I hold the bridge, you slide the waistband straight up over my hips.</aac>
+
+"Got it," Isabel said, gripping both sides of the waistband at his upper thighs. "Ready on your count."
+
+<aac>One... two... three... Now!</aac>
+
+Jordan drove downward through both arms, his triceps flexing as he lifted his hips cleanly clear of the cushion. Moving with swift, gentle precision, Isabel slid the waistband smoothly up and over his hips in a single fluid motion before Jordan lowered himself back onto the seat.
+
+Breathing slightly hard, Jordan looked down at his neatly dressed legs and then up at Isabel, grinning from ear to ear as he held up his right hand for a high-five.
+
+Isabel clapped her palm against his, laughing with bright, genuine delight. "Angles and leverage! That was incredible, Jordan!"
+
+---
+
+Ten minutes later, after Jordan had transferred into his matte-black ***S.S. Freedom*** (`Titan-X350`) power chair and **Mark** and **Hannah** had headed upstairs to help **Daniel** check the fluid levels in the family vans, the seven women of the **Constellation Pact**—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Megan**—gathered around the center queen bed and the sectional sofa with Jordan and Isabel.
+
+**Aubrie Jean** sat down on the edge of the queen mattress right beside Isabel, reaching out to take both of Isabel's hands in hers.
+
+"Izzy," Aubrie Jean said warmly, her soft blue eyes radiating pure affection, "watching you with Jordan this morning only confirmed what all seven of us—and Jordan—have known for months. You already belong to this family. And now that you aren't our Resident Advisor anymore, we want to officially welcome you into our **No-Jealousy Pact**."
+
+Isabel's heart swelled, her fingers squeezing Aubrie's hands gratefully. "Thank you, Aubrie. Honestly, back at Bennett Hall across the hall in Room 215, I sort of suspected the seven of you had some kind of agreement so nobody would ever fight over Jordan or feel left out, though I never pried. I just want to love him, help take care of him, and never step on anyone's toes."
+
+Aubrie Jean smiled—a warm, candid, completely unbothered smile—and glanced briefly at Madison, Zoë, Lauren, Sarah, Jessica, and Megan before looking right back into Isabel's dark eyes.
+
+"You could never step on our toes, Izzy," Aubrie said gently. "That's the whole point of the Constellation Pact. None of us own Jordan, and none of us compete with each other. We share his life, we share his care, we share his heart—and I want to make sure I say this out loud so you don't think there's some hidden fine print: not only am I completely happy with you being in the Pact, Izzy, but **the No-Jealousy Pact includes being allowed to share Jordan's bed and have sex with Jordan**."
+
+For two full seconds, Isabel didn't blink.
+
+Then the words registered in her auditory cortex.
+
+A nuclear-grade blush—ten times hotter and deeper than the one she had blushed yesterday afternoon by the patio door—erupted from the base of Isabel's throat, surged up her neck, and turned her cheeks, her ears, and her forehead a blazing, incandescent scarlet.
+
+```
+ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — Agent(Isabel) thermal/vascular spike detected following Agent(Aubrie) explicit disclosure of Pact_Parameter("Full_Sexual_Intimacy_Authorized == TRUE"). Facial_Capillary_Flush == 100.0% (MAX_LIMIT). Speech_Buffer == STALLED. 08-20-2015 10:18:44
+```
+
+"S-s-sex?!" Isabel squeaked, her voice jumping a full octave as her hands flew up to cover her flaming cheeks behind her glasses. She stared at Aubrie Jean, then at Jordan, and then around at Madison, Zoë, Lauren, Sarah, Jessica, and Megan, unable to believe her ears. "Wait—you mean—all of you—with Jordan—and you're saying I'm allowed to—with *zero* jealousy?!"
+
+"Zero jealousy," **Madison** confirmed cheerfully from the sofa pillow, grinning at Isabel's scarlet face. "Megan had the exact same reaction when we told her in January!"
+
+"Wait, *Megan* too?!" Isabel gasped, looking over at Zoë's twenty-seven-year-old sister, who gave a warm, slightly sheepish wave from the armchair.
+
+"Can confirm," **Megan** laughed softly. "My brain blue-screened for about forty-eight hours when Aubrie and Zoë explained it to me, Izzy. Take all the breaths you need."
+
+Isabel pressed the backs of both hands against her burning cheeks, letting out a long, dizzying exhale as she looked between Jordan's gentle, reassuring smile and Aubrie Jean's steady eyes.
+
+"Okay—okay, wait, let me just catch my breath!" Isabel stammered, still blushing furiously from ear to ear even as a shaky smile tugged at the corners of her mouth. "The romance part—loving Jordan, kissing him, holding him, helping him with his ADLs—that part I'm a hundred percent fine with! My heart has wanted that since last fall! It's just... wrapping my head around the concept that the No-Jealousy Pact actually includes being allowed to have *sex* with Jordan—and that his girlfriend and six other women are actively encouraging me to do it—I think I need a little time to think about things and let my brain process that!"
+
+<aac>Take all the time in the world, Izzy,</aac> Jordan's tablet said immediately, his voice warm and completely free of pressure as he reached over and rested his hand gently over hers on her knee. <aac>There is never a clock or an expectation in this room. Just having you here with us—without a clipboard between us—is already everything I hoped for.</aac>
+
+"Exactly," **Aubrie Jean** agreed softly, leaning in to kiss Isabel's blazing-red cheek. "Nobody in this Pact ever rushes a single step. Whether it takes days, weeks, or whenever you feel completely ready—we just wanted you to know that every door in this family is open to you, with zero secrets and zero jealousy."
+
+Still glowing bright pink, Isabel looked down at Jordan's hand resting warmly over hers—and even as her flustered brain spun to catch up with the sheer scale of the Constellation Pact, a quiet, practical voice in the back of her mind was already making a mental note to call the Student Health clinic tomorrow afternoon to start her seven-day birth control prescription and schedule a routine lab panel, *just in case*.
+
+### Scene 4: New River Hall Room 323 & Allegheny Commons Apartment 101
+
+**Date:** 2015-08-21 at 10:00 America/New_York
+
+On Friday morning, **August 21, 2015**—one calendar year minus a day since **Jordan Fuller** had been abandoned at the curb of **Washington Street SW** with a single suitcase and a broken manual wheelchair—Commonwealth Polytechnic Institute erupted into the brass-band fanfare and orange-vested bustle of **Freshman Move-In Friday**.
+
+Only this year, **Bennett Hall ("The Old Lady on the Hill")** sat behind a perimeter of chain-link construction fencing as university crews prepared the historic building for demolition and replacement. And this year, Jordan and his found family weren't frightened freshmen trying to survive Day One.
+
+They were the veteran sophomore welcoming committee.
+
+At ten o'clock that morning, outside the upper hillside ground-level entrance of **New River Hall**—one of CPI's modern, Ironstone-clad residence halls built directly into the Blacksburg campus slope—Jordan sat in his matte-black ***S.S. Freedom*** (`Vanguard Titan-X350`) beside **Isabel**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Mark** as **Robert** and **Catherine Dawson** pulled their accessible family van up to the zero-step third-floor drop-off zone.
+
+When the side ramp deployed, eighteen-year-old **Elana Dawson** and her eighteen-year-old cousin **Stephen Dawson** rolled down onto the campus walkway in their ultralight rigid-frame manual wheelchairs (`TiLite Aero Z` and `Quickie 5R`), flanked by seven-year-old **Stella**—their twenty-eight-inch, eighty-five-pound silver-dapple American Miniature Horse—trotting proudly in her custom non-slip neoprene campus boots and burgundy-and-silver leather service harness.
+
+"Look who's officially CPI Freshmen!" **Isabel** beamed, hugging her younger sister and cousin before glancing warmly at Jordan. "Welcome to **New River Hall**—and welcome to the flagship floor of CPI's brand-new **Opt-In Gender-Inclusive Housing Pilot Program**!"
+
+<aac>Welcome home, Elana, Stephen, and Stella,</aac> Jordan's tablet rang out warmly across the sunlit walkway. <aac>Wait until you see what Ms. Higgins, Dr. Mercer, and CPI Dining set up for you inside.</aac>
+
+Because **New River Hall** was engineered into the steep Blacksburg hillside, **both the 1st Floor (on the lower campus quad side) and the 3rd Floor (on the upper street side) featured zero-step, ground-level exterior exits**, with all residential corridors (`Floors 1, 3, 4, & 5`) air-gapped behind **Poly Pass** RFID security doors.
+
+Before heading into the third-floor residential wing, Jordan and Isabel led the Dawson family one level down on the oversized building elevator to **Floor 2**, which housed **`Forge Market`**—CPI's in-house quick-service dining counter and campus corner market—alongside the administrative offices of **CPI Dining Services**.
+
+"Because CPI is one of only two universities in the entire Commonwealth of Virginia that self-operates one hundred percent of its own campus dining in-house instead of outsourcing to a corporate contractor," Isabel explained proudly, guiding Elana and Stephen past the open reach-in refrigerated coolers inside **`Forge Market`**, "Ms. Higgins and the CPI Dining directors right down the hall added your exact clinical liquid-nutrition shakes and smooth puréed broths directly to `Forge Market`'s weekly distributor order. Look right there on the middle shelf."
+
+Elana's dark eyes lit up behind her glasses as she spotted rows of her exact clinical nutrition shakes chilled at easy wheelchair reach—available to anyone on campus and 100% covered tax-free by the declining-balance **`Forge Dollars`** loaded onto her freshman **Poly Pass**.
+
+Upstairs on the third floor, **`Room 323`** was even better.
+
+Instead of a shared hallway bath, `Room 323` featured a **private, fully ADA-accessible en-suite bathroom** with a fold-down grab-bar transfer toilet (giving Elana and Stephen complete privacy and sterile space for her **MACE** routine and urinary drainage bag care), a roll-under sink, and a zero-threshold roll-in shower with dual handheld wands. Inside the bedroom, next to a raised medical mini-fridge and Stella's custom orthopedic service-horse mat, the two nineteen-inch wheelchair-height `Twin XL` bed frames had been mechanically clamped side-by-side with a memory-foam **Split-King Bed Bridge**—creating a seamless **`76" × 80"` Eastern King bed** with full wheelchair transfer clearance on both outer sides so Stephen could massage Elana's muscles whenever they locked up in the night without either of them having to wake up.
+
+"Jordan... Izzy... this is incredible," Elana whispered, her voice thick with emotion as she looked around the sunlit room while Stella touched her velvet muzzle gently against Elana's knee. "We don't have to fight the building just to live here."
+
+<aac>That's the rule at CPI now,</aac> Jordan typed with a quiet smile. <aac>The building adapts to the students—not the other way around.</aac>
+
+---
+
+Once Elana, Stephen, and Stella were unpacked and settled in **New River Hall**, Isabel invited Jordan and the Constellation Pact to walk five minutes across the upper quad to see *her* new home for Senior Year: **`Allegheny Commons Apartments`**.
+
+Rolling through the automatic glass doors into the bright, two-story glass-balcony atrium lobby of **Allegheny Commons**, Jordan paused beside the first-floor elevator to admire the polished bronze historical marker plaque mounted on the interior stone wall, commemorating the older historic campus building that had originally stood on the site.
+
+Right down the ground-floor corridor sat **`Apartment 101`**—the designated wheelchair-accessible Senior RA apartment.
+
+When Isabel tapped her **Poly Pass** against the reader and opened the door, **Madison** and **Lauren** let out low whistles of admiration. Unlike tiny `Room 215` in Bennett Hall, `Apartment 101` was a true one-bedroom apartment: a spacious living room with a sleeper sofa, a **full kitchen** with roll-under counter clearance, a **full-size refrigerator and freezer**, a **full-size dishwasher**, a full ADA roll-in bathroom, and a private bedroom with a **Full-size bed**.
+
+"Wait a second," **Hannah** grinned as she inspected the extra cases of Elana's liquid nutrition already stacked neatly inside Isabel's full-size refrigerator. "With a Full-size bed in the bedroom, a sleeper sofa in the living room, and a zero-step entrance on the first floor... you've got an on-campus sanctuary for Elana, Stephen, and Stella whenever freshman hall noise gets too loud!"
+
+"And," Isabel said softly, stepping over to Jordan's chair in the center of her new living room as a warm, rosy blush touched her cheeks, "since the nine of you are living off-campus on Geneva Street in Christiansburg this year... whenever you have a long gap between classes on campus, or whenever the weather gets rough, **`Apartment 101`** is your on-campus home base too, Jordan."
+
+Jordan looked around the bright, barrier-free apartment and then up at Isabel, squeezing her hand warmly.
+
+<aac>From Room 214 and 215 to Geneva Street and Apartment 101. Sophomores and Seniors. We're ready for Monday.</aac>
 

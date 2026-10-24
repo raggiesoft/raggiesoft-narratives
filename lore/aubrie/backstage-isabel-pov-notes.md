@@ -34,3 +34,10 @@
   3. **Aubrie Explains the Full Scope of the No Jealousy Pact (and Isabel's Reaction):**
      - **Aubrie Jean Kelly** sits down with Isabel and openly reassures her that not only is she completely okay with Isabel loving Jordan and joining their **No Jealousy Pact**, **Aubrie also candidly admits that the No Jealousy Pact includes being allowed to have sex with Jordan**.
      - **Isabel's Reaction:** This revelation causes **Isabel to blush furiously**—she can barely believe her ears! While Isabel is 100% comfortable and certain about the **romance, emotional devotion, and ADL care** part of loving Jordan, she asks for a little time to think and process because she is struggling to wrap her head around the concept that the No Jealousy Pact includes full sexual intimacy with Jordan alongside his pact.
+
+- **Music & Trigger Exclusion Rule (`e005/c002/s002.md`):**
+  - **CRITICAL EXCLUSION**: **NEVER** reference, suggest, or model any track on REO Speedwagon's *"Can't Fight This Feeling"*—it is a massive real-life autistic trigger and must be avoided at all costs.
+
+- **Music & Trigger Exclusion Rule (`e005/c002/s002.md`):**
+  - **CRITICAL EXCLUSION**: **NEVER** reference, suggest, or model any track on REO Speedwagon's *"Can't Fight This Feeling"*—it is a massive real-life autistic trigger and must be avoided at all costs.
+
