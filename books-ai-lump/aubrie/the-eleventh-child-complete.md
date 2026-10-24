@@ -16794,7 +16794,7 @@ Across the basement living room, **Jordan** looked up from his **Pinnacle Vangua
 
 "My arm is a tiny bit sore, and my heart is very happy," Isabel whispered, resting her forehead against his temple as Aubrie Jean smiled beside them. "One more week for the medicine to finish doing its job... and then I'm all yours."
 
-## Home on Geneva Street
+## Home on Geneva Street, The Paper Invasion & Fall Break
 
 ### Scene 1: Home on Geneva Street
 
@@ -16867,13 +16867,167 @@ Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed he
 
 "I'm home," Isabel whispered back.
 
+### Scene 2: The Paper Invasion (CP87A)
+
+**Date:** 2015-10-06 at 18:15 America/New_York
+
+It happened on a quiet Tuesday evening in early October.
+
+For three weeks after **Isabel** and **Jordan's** first night together, life in the walk-out basement sanctuary at **414 Geneva Street** had settled into a warm, thriving autumn rhythm. Upstairs in the main kitchen, **Mark**, **Hannah**, **Lauren**, **Sarah**, and **Jessica** were helping **Laura Brooks** prep a pan of roasted autumn squash and rosemary chicken for dinner, while down in the basement living area, **Jordan** sat in *S.S. Freedom* beside **Aubrie Jean**, **Madison**, **Zoë**, and **Isabel** working through problem sets for **`PHYS 2305`** and **`MATH 2204`**.
+
+Upstairs in the front foyer, **Daniel Brooks** was sorting through the afternoon mail stack when his hands went completely still.
+
+A heavy, cold weight settled in the pit of his stomach. Stepping into the kitchen, he silently held up a crisp, official-looking white window envelope for Laura to see.
+
+In the upper-left corner was the black treasury seal of the **Department of the Treasury — Internal Revenue Service**. And printed inside the glassine address window was a name that everyone in the house knew was a psychological landmine:
+
+**`AUBREY JORDAN FULLER`**
+
+Laura's face drained of color. Neither of them simply carried the envelope down the stairs and dropped it on the table. Instead, Daniel and Laura walked quietly down the internal staircase together, caught the eyes of Aubrie Jean, Madison, Zoë, and Isabel, and formed a calm, protective circle around Jordan's chair before Daniel spoke a single word.
+
+"Jordan," Daniel began gently, his voice deep, steady, and unhurried. "A piece of official government mail arrived for you in today's post." He paused for a beat to give Jordan's nervous system a moment to brace. "It's from the Internal Revenue Service, son... and because it's federal tax correspondence, it has your current legal birth name printed on the envelope."
+
+Jordan's breath hitched in his throat.
+
+When his eyes dropped to the window of the envelope in Daniel's hand—seeing *that* name, **`AUBREY JORDAN FULLER`**, the name his mother had screamed down the stairwell in Norfolk, the name he was preparing to legally erase from existence—it hit his visual cortex like a live electrical wire.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — CRITICAL SENSORY/TRAUMA TRIGGER DETECTED: Visual_Input("AUBREY JORDAN FULLER" / Federal_Correspondence_Envelope). LegacyScript.Identity_Trap invoked! 10-06-2015 18:17:42
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Deploy Multi-Node Grounding Perimeter (Agents: Aubrie, Madison, Isabel, Self, Daniel, Laura). 10-06-2015 18:17:44
+```
+
+The basement seemed to tilt on its axis. A raw, low keening sound of pure distress tore from Jordan's throat as his body began to tremble violently in his chair.
+
+**Aubrie Jean**, **Madison**, and **Isabel** were there in an instant—Aubrie Jean and Madison pressing firm, steady deep-pressure weight across his shoulders while Isabel knelt in front of his footrests, holding both of his shaking hands in her warm, clinical grip as Daniel and Laura stood as calm, immovable sentinels beside them. Nobody told him to stop crying; nobody told him he was overreacting. Together, they simply held the walls of the fortress around him and weathered the storm until the violent tremors subsided into ragged, shuddering breaths.
+
+***
+
+When the static in his head finally receded, the terror in Jordan's green eyes was replaced by a cold, steel-hard anger.
+
+Reaching out with a steady hand, Jordan took the envelope from Daniel, tore it open, and unfolded the two-page federal notice on his lap tray. Across the top right corner, in bold black type, was the notice code: **`Notice CP87A`**.
+
+Jordan looked up at the six faces surrounding him and tapped rapidly on his **mPad**:
+
+<aac>What happened? What is a Notice CP87A? Why did the IRS send me this, and what do we need to do to fight back?</aac>
+
+Laura pulled a dining chair directly up to Jordan's side so she could look him right in the eye, her voice the very definition of calm, unshakeable competence.
+
+"First, take a breath: a **CP87A** is *not* a bill, and it is *not* a penalty against you," Laura explained clearly. "It's an automated matching notice from the IRS mainframe. It simply means that for the `2014` tax year, two different taxpayers filed federal tax returns claiming the exact same Social Security Number as a dependent."
+
+Jordan's jaw clenched so hard a muscle jumped in his cheek. He tapped two words:
+
+<aac>My mother.</aac>
+
+"Yes," Daniel said, his voice flat and iron-hard. "When you filed your independent 2014 tax return this spring for your work-study and stipend income, you rightfully claimed your own personal exemption. Your mother must have filed a late extension return down in Norfolk and claimed you as her dependent anyway—either out of sheer financial greed for the dependent deduction, or because she still refuses to accept that she lost control over you."
+
+"So what happens now?" Madison asked, her fingers laced tightly through Jordan's left hand.
+
+"Now, we bury her in federal tax law," Laura said, her tone shifting seamlessly from maternal comfort to razor-sharp administrative strategy. "Notice CP87A gives both taxpayers two options. Option One is for the person who filed in error to submit an amended return (`Form 1040X`) removing the exemption. Obviously, *we* are not amending a single line—because your return is one-hundred-percent truthful."
+
+"And Option Two?" Isabel asked, leaning forward.
+
+"Option Two," Laura continued with a fierce, quiet smile, "is that if neither party backs down, the IRS automatically flags both returns for a formal dependency audit—where both parties must submit documentary proof of residency, emancipation, and financial support under Internal Revenue Code Section 152."
+
+At the dining table, **Zoë's** eyes lit up behind her glasses as her processor immediately began indexing the statutory audit requirements.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Analyzing Federal_Audit_Vector(IRS_Notice_CP87A / IRC_Section_152_Dependency_Test). 10-06-2015 18:26:10
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Fact_Check: Target(Jordan) resided at CPI (Blacksburg, VA) and 414 Geneva Street (Christiansburg, VA); provided >50% of own support via CPI financial aid/stipends; Hostile_Actor(Aubrie_Sinclair) provided $0.00 support and is bound by permanent protective order (Norfolk_Circuit_Court_2015). 10-06-2015 18:26:14
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Hostile_Actor(Aubrie_Sinclair) has committed demonstrable federal tax fraud. Win_Probability(Thread 3 / Jordan) == 100.0%. 10-06-2015 18:26:15
+```
+
+"Zoë is already smiling," Aubrie Jean noted, a tiny, relieved laugh breaking through her tears. "That means your mother is in huge trouble."
+
+"She has zero legal standing," Zoë confirmed crisply. "Under Internal Revenue Code Section 152, to claim a qualifying child or qualifying relative, the taxpayer must prove residency for more than half the tax year or prove they provided more than fifty percent of the individual's total financial support. We have your official CPI Housing & Residence Life contract for Suite 214, your tuition and scholarship ledgers, your checking account statements, and the certified final protective order and judgment from the Norfolk Circuit Court."
+
+Jordan looked from Zoë to Laura and Daniel, the cold knot of panic in his chest unspooling into steady resolve. He tapped on his **mPad**:
+
+<aac>So we do nothing with the form today? We just wait for the audit?</aac>
+
+"We don't just wait—we prepare the counter-strike tonight," Daniel said, resting a warm hand on Jordan's shoulder. "Zoë, Laura, and I are going to assemble a dedicated, indexed IRS Audit Binder tonight with certified copies of every lease, bank statement, bursar receipt, and court order so it's sitting on the shelf ready to mail the second the examination letter arrives. Look at me, Jordan."
+
+Jordan met Daniel's eyes.
+
+"The IRS moves at glacial speed, son," Daniel told him gently. "It might take six months—or even close to a year—before their examination division sends the formal audit packet. In fact, it's going to take so long that you'll probably forget all about this letter by the time the next one shows up. We've got the binder locked and loaded, so you don't let this hang over your head for a single minute. She wanted a fight—and this time, she was arrogant enough to pick a fight with the United States Department of the Treasury."
+
+### Scene 3: Fall Break 2015: The I-64 Gauntlet & The Leviathan Cut
+
+**Date:** 2015-10-17 at 10:15 America/New_York
+
+Mid-October brought **Commonwealth Polytechnic Institute's** long **Fall Break** weekend, and the expanded Geneva Street family—joined by **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan** in a three-vehicle caravan—set out on Saturday morning, October 17, 2015, for a day trip up the Shenandoah Valley to see the autumn foliage along the **Blue Ridge Parkway** at **Afton Mountain**.
+
+For the first hour north up **`Interstate 81`**, the drive was breathtaking: the Allegheny and Blue Ridge ridgelines were ablaze in brilliant October strokes of crimson, burnt orange, and gold.
+
+Yet for **Jordan**, riding in the front passenger seat of **Mark's** SUV (`Pig Pen`) with **Sarah**, **Zoë**, and **Hannah** in the middle row while **Daniel's** minivan (`Rubber Duck`, carrying **Laura**, **Aubrie Jean**, **Madison**, **Lauren**, and **Jessica**) and **Henry Walsh's** Silverado (`Watchtower`, carrying **Isabel**, **Garrett**, and **Kelsey**) followed right behind, the last thirty miles between Lexington and Staunton carried a creeping, visceral dread.
+
+Between Mile Marker 191 in Lexington and Mile Marker 221 in Staunton, **`Interstate 81 North`** shares a thirty-mile wrong-way concurrency with **`Interstate 64 East`**. Every green highway shield along the shoulder bore the blue-and-red **`EAST 64`** crest—the exact interstate corridor that led straight over Afton Mountain to Richmond, Williamsburg, and **Hampton Roads**.
+
+Jordan had white-knuckled the passenger armrest through all thirty miles of the concurrency, trying with everything in him to be brave.
+
+As they approached Staunton, Mark clicked on his right turn signal. "Okay, J," Mark said gently. "Here's Exit 221. We're just hopping onto `I-64 East` for two exits to reach the Rockfish Gap entrance to the Blue Ridge Parkway. You good?"
+
+Jordan gave a tight, shaky nod and tapped a single word on his **mPad**:
+
+<aac>Ready.</aac>
+
+He wasn't ready.
+
+The second the SUV banked onto the long, curving concrete flyover ramp for **`I-64 EAST — WAYNESBORO / RICHMOND / NORFOLK`**, Jordan's fragile composure shattered into a million pieces.
+
+To his traumatized nervous system, the directional shield and the eastward curve of the ramp meant only one thing: *he was being taken back to Norfolk.* A raw, ragged sob tore from his throat as he plunged straight into a severe autistic meltdown, his body shaking uncontrollably against the seatbelt as eighteen years of Hampton Roads terror flooded his mind all at once.
+
+Sitting directly behind him in the second row, **Sarah** reacted instantaneously. Unbuckling her belt before they even finished merging, she leaned forward over the console and wrapped both arms tightly around Jordan's shoulders, pressing her cheek against his temple as a human anchor while the SUV merged into seventy-mile-per-hour interstate traffic.
+
+"I've got you, Jordan! You're safe—we are *not* going to Norfolk!" Sarah whispered fiercely, holding him with all her strength so he wouldn't thrash against the door.
+
+Behind the wheel, Mark didn't hesitate for half a second. Spotting the green highway sign half a mile ahead—**`EXIT 91 — FISHERSVILLE / STUARTS DRAFT`**—Mark keyed the convoy radio (`"Emergency abort—taking Exit 91 NOW!"`), accelerated past a tractor-trailer, and cut cleanly onto the exit ramp with Daniel's minivan and Henry's pickup right on his tail.
+
+At the top of the ramp stood the glowing retro neon sign of a **`Rocket Burger`** drive-in. Mark wheeled into the back corner of the parking lot, threw the transmission into Park, and killed the engine.
+
+For twenty minutes, nobody moved. **Sarah**, **Aubrie Jean**, **Madison**, and **Isabel** surrounded Jordan's open door, holding him through the aftershocks until his ragged sobs finally quieted. And in that parking lot, the family made a silent, unanimous vow: *they would never subject Jordan to `Interstate 64` again. When it came to that highway, the only winning move was not to play.*
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — Severe Trauma Trigger Confirmed: Highway_Vector(I-64_East) == PERMANENTLY_BLACKLISTED. 10-17-2015 10:28:14
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Recalculating Scenic_Foliage_Route: Utilize VA-285 South/East through Fishersville -> US-250 East through Waynesboro -> Rockfish Gap (Blue Ridge Parkway Milepost 0). Return_Vector: Blue Ridge Parkway South -> US-60 West through Buena Vista to Lexington (Intersects I-81 South of I-64 concurrency). Zero I-64 exposure. 10-17-2015 10:34:02
+```
+
+Inside the quiet back booth of the **`Rocket Burger`**, after Sarah held Jordan over fries and milkshakes until his breathing steadied, **Zoë** presented the new zero-`I-64` route: `State Route 285` to `U.S. 250` up to the **Afton Overlook**, and `U.S. Route 60 West` through Buena Vista to Lexington on the way home. Refusing to let his mother's ghost steal their Fall Break, Jordan moved into the middle row of Daniel's minivan between **Aubrie Jean** and **Zoë**, and twenty minutes later, rolled *S.S. Freedom* out onto the stone terrace of the **Afton Overlook**—gazing out over the vast golden sea of the Shenandoah Valley wrapped safely in the arms of his entire family.
+
+***
+
+By the time the three-car caravan returned down `U.S. 60` and pulled back into the driveway at **414 Geneva Street** late Saturday afternoon, Jordan was deeply, bone-wearily depleted.
+
+Down in the walk-out basement sanctuary, he transferred onto the queen bed between **Aubrie Jean** and **Madison**, resting his head between them as Aubrie Jean gently steered his mind toward the calm, predictable mathematics of **`PHYS 2305`**—talking quietly about electron-degenerate matter and the helium flash inside red giant stars until his tremors finally stopped. Lying between the two young women who had held his universe together since his very first morning in Room 214, Jordan looked at them with profound clarity: *they were his autistic safe people.*
+
+Then, at `5:30 PM`, when Laura called downstairs that dinner was ready and Jordan pushed himself up on the edge of the mattress, the room spun violently around him.
+
+"Whoa," Madison said, catching his elbow immediately and pressing the back of her hand against his flushed forehead. "J, you're burning up."
+
+**Hannah** and **Isabel** hurried over with the digital thermometer from the medical kit. Sixty seconds later, the thermometer beeped: **`100.1°F`**.
+
+Coming downstairs with Daniel, **Laura** took one look at the reading and nodded with calm maternal understanding. "This isn't from the highway, sweetheart," Laura told him gently. "Because your mother refused to vaccinate you for eighteen years, your immune system is still working through your catch-up immunization schedule and building its armor. You caught an autumn viral bug—and when the panic about that `CP87A` tax letter hit right on top of the fever, your body just hit the wall."
+
+Dinner was immediately converted into a sick-ward perimeter: chicken noodle soup, saltine crackers, and cold dry ginger ale brought down on a tray while Daniel reminded Jordan that their indexed **IRS Audit Binder** was already sitting on the shelf upstairs waiting to crush his mother's tax fraud with hard facts.
+
+With Sunday's outdoor plans officially scrubbed by Jordan's fever, **Mark** walked over to the basement media shelves, paused, and pulled down a massive, foil-embossed Blu-ray box set with a look of sheer reverence.
+
+"No. Way," Mark breathed, holding the box set up to the light. "***The Silver Gauntlet of Aethel: 25th Anniversary Definitive Aethelian Tome Edition***."
+
+"Oh, I *love* that movie!" Hannah gasped. "That `'A Sister's Love'` synth theme song is pure 1980s cheesy fantasy bliss!"
+
+"This isn't the hundred-minute 1987 theatrical cut, ladies," Mark announced solemnly. "This is the 2012 four-disc Blu-ray restoration. This is the legendary **Leviathan Cut**—*twelve hours and twenty-one minutes* long."
+
+On Sunday morning, October 18, with Jordan's fever hovering at `99.8°F` and the entire household camped out in pajamas across the basement sectional and beds with trays of Laura's oatmeal, lunchtime sandwiches, and an evening feast of baked ziti, Mark pressed `Play` on Disc 1 (*Book I: The Sundering of Sunstead* and *Book II: The Shadow's Heart*).
+
+Cocooned between Aubrie Jean, Madison, and Isabel, Jordan was completely mesmerized—not only by how the twelve-hour *Leviathan Cut* restored **Lord Malakor's** entire origin story, the twins **Kaelan and Kaela's** cramped childhood sharing a single shepherd's hut bed (which made the Room 214 trio exchange a deeply knowing look), and Kaela's secret psychological rebellion inside the Shadowspire, but by **Klaus Richter's** soaring 1980s synthesizer score and **Jareth Blade's** rock-opera anthems. By Sunday night, as his fever broke and all six women of the Pact piled around him on the sectional sofa in a warm puppy pile, Jordan turned to **Zoë**, took her hand, and thanked her from the bottom of his soul for opening her childhood home to him—inviting Zoë to share his bed that night in quiet, loving gratitude for the family that had saved his life.
+
 ## Friday, 9:32 AM (The Broken Foundation)
 
 ### Scene 1: Friday, 9:32 AM (The Attack)
 
-**Date:** 2015-09-18 at 09:32 America/New_York
+**Date:** 2015-11-13 at 09:32 America/New_York
 
-Friday morning, September 18, 2015—just three days after **Jordan** and **Isabel's** first night together in the walk-out basement on Geneva Street—began like any bright, ordinary morning of their new life.
+Friday morning, November 13, 2015—two months into a happy, thriving autumn of classes, quiet evenings with **Isabel** and the Pact in the walk-out basement on Geneva Street, and steady progress toward Thanksgiving break—began like any bright, ordinary morning of their new life.
 
 There was laughter in the sunlit upstairs kitchen at `414 Geneva Street` as **Laura** and **Daniel** handed out warm travel mugs before leaving for work. There was the smooth, familiar ten-second roll up the low-floor ramp of the **`6:00 AM` Blue Ridge Transit Route 1** bus, the fifteen-minute wait on **Commonwealth Mall**, and a warm breakfast together at **Kincaid Commons**, where Isabel stopped by their booth in her clinical nursing scrubs to kiss Jordan good morning before heading to her `8:00 AM` rehabilitation practicum lab in Callahan Hall.
 
@@ -16944,8 +17098,8 @@ Down at the podium, the sociology professor took one look at the sheer terror on
 Up in the deathly silent back row, while Lauren and Hannah held the crowd of stunned students back to give Jordan air, Zoë's trembling right hand was already talking to CPI 911 Dispatch at her ear while her left thumb executed the emergency broadcast macro across the **`Jordan Comms`** family network:
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — CRITICAL PHYSIOLOGICAL SYSTEM FAILURE DETECTED AT 09:32:14 EDT. Symptoms: Crushing_Substernal_Pressure, Left_Arm_Paresthesia, Mandibular_Radiation, Diaphoresis, Pallor(Ashen_Gray). Differential_Diagnosis(Thread 4 / Mark): Acute Myocardial Infarction (STEMI). 09-18-2015 09:32:14
-ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Emergency_Broadcast("Jordan Comms" -> All_Nodes [Daniel, Laura, Isabel, Pact]): "[URGENT] [MEDICAL] JORDAN COLLAPSING IN SOC 101 (WALTON HALL). CRUSHING CHEST PAIN. MARK THINKS HEART ATTACK. 911 CALLED." 09-18-2015 09:32:14
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — CRITICAL PHYSIOLOGICAL SYSTEM FAILURE DETECTED AT 09:32:14 EST. Symptoms: Crushing_Substernal_Pressure, Left_Arm_Paresthesia, Mandibular_Radiation, Diaphoresis, Pallor(Ashen_Gray). Differential_Diagnosis(Thread 4 / Mark): Acute Myocardial Infarction (STEMI). 11-13-2015 09:32:14
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Emergency_Broadcast("Jordan Comms" -> All_Nodes [Daniel, Laura, Isabel, Pact]): "[URGENT] [MEDICAL] JORDAN COLLAPSING IN SOC 101 (WALTON HALL). CRUSHING CHEST PAIN. MARK THINKS HEART ATTACK. 911 CALLED." 11-13-2015 09:32:14
 ```
 
 Mark raced back up the auditorium steps three at a time, his own heart hammering against his ribs as he knelt beside Aubrie Jean and gripped Jordan's trembling right hand.
@@ -16960,7 +17114,7 @@ At the front of the hall, the professor set down the phone and called out over t
 
 ### Scene 2: Massive STEMI: The Extrication & The Wrong Bus
 
-**Date:** 2015-09-18 at 09:38 America/New_York
+**Date:** 2015-11-13 at 09:38 America/New_York
 
 The heavy double doors at the bottom of the **Walton Hall** auditorium burst open, and two paramedics from **Medic 3** rushed inside—the lead medic carrying a 12-lead cardiac monitor/defibrillator and a red first-in trauma bag, followed closely by two EMTs wheeling a collapsible stair chair and a rolling ambulance gurney.
 
@@ -16993,7 +17147,7 @@ Jordan obeyed, grimacing at the chalky orange-bitter taste as Mike's partner unb
 "We need a little room to work, folks—just take two steps back for me," Mike said firmly but gently as Aubrie Jean clung to Jordan's hand.
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — EMS Unit(Medic_3) on scene at Walton_Hall. Administered: O2 (Nasal_Cannula) + Acetylsalicylic_Acid (324mg chewed). Acquiring 12-Lead_ECG telemetry. 09-18-2015 09:38:21
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — EMS Unit(Medic_3) on scene at Walton_Hall. Administered: O2 (Nasal_Cannula) + Acetylsalicylic_Acid (324mg chewed). Acquiring 12-Lead_ECG telemetry. 11-13-2015 09:38:21
 ```
 
 The cardiac monitor whirred, beeped rapidly, and fed out a long pink-grid strip of thermal paper.
@@ -17018,7 +17172,7 @@ Mark and **Hannah** stepped forward instinctively to help lift him, but the four
 
 ***
 
-Outside the main entrance of Walton Hall, the transfer from the stair chair onto the rolling ambulance gurney was a blinding, terrifying blur of September sunlight and flashing red-and-white strobe lights.
+Outside the main entrance of Walton Hall, the transfer from the stair chair onto the rolling ambulance gurney was a blinding, terrifying blur of crisp November sunlight and flashing red-and-white strobe lights.
 
 Jordan felt strong hands lifting him onto the narrow mattress and heavy nylon straps clicking tight across his chest, hips, and knees. Through the dizzying haze of pain, as they lifted the gurney into the back of **Medic 3**, he caught one last, agonizing glimpse of Aubrie Jean's tear-streaked face, Mark's pale shock—and **Isabel**, still wearing her maroon CPI clinical nursing scrubs, sprinting breathless across the plaza toward them after receiving Zoë's emergency text.
 
@@ -17085,7 +17239,7 @@ Aubrie Jean was sobbing openly as she ran, her sneakers stumbling on the brick p
 Leading the pack by three strides, Zoë burst onto the sidewalk of **Commonwealth Mall** at `9:41:28 AM`, her eyes immediately locking onto the familiar white-and-maroon highway coach idling at the head of the curbside lineup.
 
 ```zoe-log
-ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Arrived at Node(CPI.Commonwealth_Mall). Target_Bus(Bluewater_Transit.Maroon_Express, 09:45_EDT) located at Curb_Position_1. 09-18-2015 09:41:28
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Arrived at Node(CPI.Commonwealth_Mall). Target_Bus(Bluewater_Transit.Maroon_Express, 09:45_EST) located at Curb_Position_1. 11-13-2015 09:41:28
 ```
 
 "This way! Up front!" Zoë shouted, pointing toward the highway coach.
@@ -17097,9 +17251,9 @@ Mid-stride, Zoë's eyes swept across the large, color-coded regional transit map
 She stopped dead in her tracks.
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — CRITICAL ROUTING ERROR: SystemSchedulerLog entry 09:40:17 is INVALID. 09-18-2015 09:41:30
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Analysis: Bluewater_Transit.Maroon_Express utilizes US-460 Bypass express corridor and DOES NOT INTERSECT with Destination(New_River_Valley_Medical_Center). Panic-state planning error detected: defaulted to high-speed commuter route instead of medical facility vector! 09-18-2015 09:41:31
-ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Recalculating... Correct medical transit vector is Blue_Ridge_Transit.Route_1_Local ("1 FALLING BRANCH" via US-460 Business / Route 11 hospital stop). 09-18-2015 09:41:31
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — CRITICAL ROUTING ERROR: SystemSchedulerLog entry 09:40:17 is INVALID. 11-13-2015 09:41:30
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Analysis: Bluewater_Transit.Maroon_Express utilizes US-460 Bypass express corridor and DOES NOT INTERSECT with Destination(New_River_Valley_Medical_Center). Panic-state planning error detected: defaulted to high-speed commuter route instead of medical facility vector! 11-13-2015 09:41:31
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Recalculating... Correct medical transit vector is Blue_Ridge_Transit.Route_1_Local ("1 FALLING BRANCH" via US-460 Business / Route 11 hospital stop). 11-13-2015 09:41:31
 ```
 
 **"STOP!"** Zoë yelled, throwing both arms out as the other six women nearly collided with her. **"Wrong bus! I was wrong!"**
@@ -17120,7 +17274,7 @@ Tumbling onto the bus in a tangle of backpacks and tears, Aubrie Jean, Madison, 
 
 ### Scene 3: The Emergency Room & The Nuclear Medicine Lab
 
-**Date:** 2015-09-18 at 10:15 America/New_York
+**Date:** 2015-11-13 at 10:15 America/New_York
 
 The ambulance gurney burst through the `AMBULANCE ONLY` automatic sliding doors of **New River Valley Medical Center** in Christiansburg, the fluorescent ceiling panels streaking past **Jordan's** vision in a blinding, sterile blur as he was wheeled straight into **Cardiac Trauma Bay 3**.
 
@@ -17165,8 +17319,8 @@ Even with his chest aching, Jordan's very first instinct was to comfort *her*. H
 Zoë stepped up to the right rail and took Jordan's hand instantly. Her fingers were trembling slightly from the sprint across campus, but her grip was warm and rock-steady.
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Monitoring Agent(Aubrie): EmotionalState == Critical_Panic. Primary_Anxiety_Vector: Thread_3(Jordan).Mortality_Risk. Secondary_Anxiety_Vector: Hostile_Actor(Aubrie_Sinclair) medical interception. 09-18-2015 10:25:01
-ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Tactile_Anchor(Thread 3 / Jordan) && Deploy Logical_Legal_Reassurance(Agent(Aubrie)). 09-18-2015 10:25:03
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Monitoring Agent(Aubrie): EmotionalState == Critical_Panic. Primary_Anxiety_Vector: Thread_3(Jordan).Mortality_Risk. Secondary_Anxiety_Vector: Hostile_Actor(Aubrie_Sinclair) medical interception. 11-13-2015 10:25:01
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Tactile_Anchor(Thread 3 / Jordan) && Deploy Logical_Legal_Reassurance(Agent(Aubrie)). 11-13-2015 10:25:03
 ```
 
 "She cannot touch him, Aubrie," Zoë said, her voice low, clear, and absolute. "First, Judge Harrison dismissed her guardianship petition *with prejudice* in Montgomery County Circuit Court last month. Second, Jordan's sealed HIPAA admission profile lists Daniel and Laura Brooks as his primary healthcare proxy and explicitly flags Aubrie Sinclair as a barred party. She has zero legal authority inside this building or anywhere else on Earth."
@@ -17262,8 +17416,8 @@ Seeing the raw fear in the nineteen-year-old's eyes, Dr. Patel didn't hesitate. 
 Sixty seconds later, the privacy curtain of Bay 3 was pulled wide open, and the small trauma bay was suddenly, overwhelmingly filled with love: **Daniel** and **Laura Brooks** hurried in first, followed immediately by **Mark**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**.
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Status_Update: ER_Diagnostic_Phase == COMPLETE. Diagnosis_Confirmed: Severe_Coronary_Artery_Occlusion (Anterior STEMI). Next_Action: Inpatient_Cardiac_Admission -> Cardiac_Catheterization_Lab (Balloon_Angioplasty). 09-18-2015 11:35:01
-ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — All 11 Family Nodes (Daniel, Laura, Mark, Hannah, Aubrie, Madison, Self, Lauren, Sarah, Jessica, Isabel) converged in ER_Bay_3 around Thread 3 (Jordan). Fortress_Integrity == 100.0%. 09-18-2015 11:35:04
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Status_Update: ER_Diagnostic_Phase == COMPLETE. Diagnosis_Confirmed: Severe_Coronary_Artery_Occlusion (Anterior STEMI). Next_Action: Inpatient_Cardiac_Admission -> Cardiac_Catheterization_Lab (Balloon_Angioplasty). 11-13-2015 11:35:01
+ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — All 11 Family Nodes (Daniel, Laura, Mark, Hannah, Aubrie, Madison, Self, Lauren, Sarah, Jessica, Isabel) converged in ER_Bay_3 around Thread 3 (Jordan). Fortress_Integrity == 100.0%. 11-13-2015 11:35:04
 ```
 
 Without a word, all eleven of them surrounded his bed in a tight, unbroken ring—Aubrie Jean holding his left hand, Madison and Isabel resting their hands over his right forearm, Hannah, Zoë, Lauren, Sarah, and Jessica touching his shoulders and shins, and Daniel, Laura, and Mark standing like a solid wall at the foot of the bed as the inpatient transport team arrived at the door.
@@ -17272,7 +17426,7 @@ Without a word, all eleven of them surrounded his bed in a tight, unbroken ring�
 
 ### Scene 1: The Transfer, NPO, and the Fork in the Road
 
-**Date:** 2015-09-18 at 11:45 America/New_York
+**Date:** 2015-11-13 at 11:45 America/New_York
 
 The inpatient transport team arrived at the doorway of **ER Bay 3** just minutes after **Dr. Patel** stepped out, their crisp, clinical efficiency a stark contrast to the raw terror inside the room.
 
@@ -17381,9 +17535,9 @@ The exact second Mark released Jordan's right hand, **Zoë** stepped forward and
 Jordan looked up into Zoë's gray eyes behind her glasses. Inside Zoë's head, her processor was analyzing both halves of Jordan's fear: he wasn't just terrified of the surgery itself—after eighteen years of being treated like a broken, unwanted burden by Aubrie Sinclair, he was terrified that a multi-month surgical recovery would make him too much trouble to keep.
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Input: CABG_Procedure_Parameters from Thread 4 (Mark). Monitoring Thread 3 (Jordan): EmotionalState == Acute_Fear. Monitoring Agent(Aubrie): EmotionalState == Hysterical_Distress. 09-18-2015 12:18:02
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Hypothesis: Thread 3 (Jordan) requires Long_Term_Sanctuary_Security reassurance in addition to Short_Term_Medical survival metrics. Residual fear of abandonment/institutionalization detected. 09-18-2015 12:18:03
-ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Protocol(Family_Vow) -> Permanent_Commitment_Lock. 09-18-2015 12:18:04
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Input: CABG_Procedure_Parameters from Thread 4 (Mark). Monitoring Thread 3 (Jordan): EmotionalState == Acute_Fear. Monitoring Agent(Aubrie): EmotionalState == Hysterical_Distress. 11-13-2015 12:18:02
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Hypothesis: Thread 3 (Jordan) requires Long_Term_Sanctuary_Security reassurance in addition to Short_Term_Medical survival metrics. Residual fear of abandonment/institutionalization detected. 11-13-2015 12:18:03
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Protocol(Family_Vow) -> Permanent_Commitment_Lock. 11-13-2015 12:18:04
 ```
 
 "Mark is right, Jordan," Zoë said, her crisp British-Virginian voice cutting through the emotional storm in the room like a steel anchor. "If it is two days, we handle it. If it is open-heart surgery and a two-month recovery, it will be arduous—which is precisely why you will not be doing a single second of it alone."
@@ -17400,7 +17554,7 @@ Anchored between them, with his hands held tightly on both sides of the bed, Jor
 
 ### Scene 2: The Red Line and the Cath Lab
 
-**Date:** 2015-09-18 at 14:30 America/New_York
+**Date:** 2015-11-13 at 14:30 America/New_York
 
 Just after two-fifteen in the afternoon, **Daniel** and **Laura Brooks** returned to the third-floor cardiac unit carrying two quilted duffle bags stuffed with pillows, fleece blankets, extra phone and `mPad` chargers, and clean clothes—and riding up in the elevator right beside them were three familiar faces from **Commonwealth Polytechnic Institute**: **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
 
@@ -17459,8 +17613,8 @@ Then came **Lauren**, **Sarah**, **Jessica**, and **Madison**, each leaning down
 Then **Zoë** stepped up to the rail. Her face was pale, but her gray eyes were steady and fierce behind her glasses. Instead of a quick embrace, she framed both sides of Jordan's face in her hands so he was looking directly into her eyes.
 
 ```zoe-log
-ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Protocol(Pre_Op_Goodbye) at Boundary(Cath_Lab_Red_Line). 09-18-2015 14:52:12
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Reinforcing Protocol(Family_Vow) for Thread 3 (Jordan) prior to anesthesia induction. 09-18-2015 14:52:45
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Protocol(Pre_Op_Goodbye) at Boundary(Cath_Lab_Red_Line). 11-13-2015 14:52:12
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Reinforcing Protocol(Family_Vow) for Thread 3 (Jordan) prior to anesthesia induction. 11-13-2015 14:52:45
 ```
 
 "The data is unambiguous, Jordan," Zoë whispered, her low, analytical voice cutting straight through the static in his head. "You are resilient. Your system will recover, and every single one of us will be standing at these coordinates when you exit. I love you." She wrapped her arms around his shoulders and hugged him tightly.
@@ -17517,7 +17671,7 @@ And then there was nothing at all.
 
 ### Scene 3: 99% Calcified: The Failed Angioplasty
 
-**Date:** 2015-09-18 at 16:30 America/New_York
+**Date:** 2015-11-13 at 16:30 America/New_York
 
 Consciousness returned to **Jordan** in slow, disorienting waves.
 
@@ -17647,7 +17801,7 @@ Lauren looked up from the sofa, forcing a brave, watery smile through her exhaus
 
 ### Scene 4: The Longest Night & The Fifteen-Minute Torture
 
-**Date:** 2015-09-18 at 21:00 America/New_York
+**Date:** 2015-11-13 at 21:00 America/New_York
 
 The evening dragged on to the steady, mechanical *beep... beep... beep* of the cardiac monitor above **Jordan's** bed. As nine o'clock approached and visiting hours ended on the step-down floor, it was clear that no transfer call from **Star City General Hospital** in Roanoke was coming tonight.
 
@@ -17799,7 +17953,7 @@ When the door finally clicked shut, the silence that settled over **Room 312** w
 
 ***
 
-The `4:00 AM` vitals check came and went in a blur, and they managed barely an hour of thin, restless sleep before the door of **Room 312** clicked open at `6:00 AM` on **Saturday, September 19, 2015**—this time accompanied by the bright, unforgiving glare of the main overhead fluorescent lights.
+The `4:00 AM` vitals check came and went in a blur, and they managed barely an hour of thin, restless sleep before the door of **Room 312** clicked open at `6:00 AM` on **Saturday, November 14, 2015**—this time accompanied by the bright, unforgiving glare of the main overhead fluorescent lights.
 
 "Good morning, folks!" a brisk, cheerful new voice announced.
 
@@ -17833,9 +17987,9 @@ As soon as the door clicked shut, Aubrie Jean stood up from the sofa, dragged th
 
 ### Scene 5: The Saturday & Sunday Watches (Forty-Eight Hours NPO)
 
-**Date:** 2015-09-19 at 07:00 America/New_York
+**Date:** 2015-11-14 at 07:00 America/New_York
 
-By `6:55 AM` on **Saturday, September 19, 2015**, **Aubrie Jean** was running on the last fumes of pure adrenaline. After spending the entire night cramped on the narrow vinyl bench—woken at `9:00 PM`, `11:54 PM`, `2:00 AM`, `2:15 AM`, `2:30 AM`, `2:45 AM`, `3:00 AM`, `4:00 AM`, and `6:00 AM`—and refusing to eat or drink a single thing while **Jordan** was on strict **NPO** status, her eyes were sunken and bloodshot, her shoulders were trembling, and she was lightheaded with exhaustion.
+By `6:55 AM` on **Saturday, November 14, 2015**, **Aubrie Jean** was running on the last fumes of pure adrenaline. After spending the entire night cramped on the narrow vinyl bench—woken at `9:00 PM`, `11:54 PM`, `2:00 AM`, `2:15 AM`, `2:30 AM`, `2:45 AM`, `3:00 AM`, `4:00 AM`, and `6:00 AM`—and refusing to eat or drink a single thing while **Jordan** was on strict **NPO** status, her eyes were sunken and bloodshot, her shoulders were trembling, and she was lightheaded with exhaustion.
 
 Just before seven o'clock, the door of **Room 312** opened softly.
 
@@ -17907,7 +18061,7 @@ Forged in the quiet dark of a hospital vigil, those midnight hours deepened thei
 
 ***
 
-When Nurse Beth flipped on the lights for the `6:00 AM` vitals check on **Sunday, September 20, 2015**, the news was unchanged: still no open CVICU bed in Roanoke.
+When Nurse Beth flipped on the lights for the `6:00 AM` vitals check on **Sunday, November 15, 2015**, the news was unchanged: still no open CVICU bed in Roanoke.
 
 Jordan had now been strictly **NPO** for nearly forty-eight consecutive hours. Weak, dizzy, and bone-weary, he barely had the energy to lift his hand as the blood pressure cuff inflated, while Madison sat slumped in the bedside chair with dark circles under her bright blue eyes.
 
@@ -17927,9 +18081,9 @@ Returning to **Room 312**, where **Lauren**, **Aubrie Jean**, and **Isabel** wer
 
 ### Scene 6: The Call from Star City & The Route 11 Diversion
 
-**Date:** 2015-09-20 at 14:05 America/New_York
+**Date:** 2015-11-15 at 14:05 America/New_York
 
-Sunday afternoon, September 20, 2015, dragged past noon as a near-exact, grueling echo of Saturday.
+Sunday afternoon, November 15, 2015, dragged past noon as a near-exact, grueling echo of Saturday.
 
 In the quiet of **Room 312**, **Lauren** sat in the left bedside chair holding **Jordan's** hand while **Aubrie Jean** and **Isabel** sat on his right. None of them spoke much; after fifty-two hours of hospital monitors, IV pumps, and strict **NPO** starvation, there was nothing left to say. They simply held onto him, listening to the steady *beep... beep... beep* of the telemetry screen as every passing hour ratcheted the tension tighter.
 
@@ -17949,7 +18103,7 @@ A collective gasp broke across the room—a tidal wave of profound relief mixed 
 > **Mark [`14:06:35`]:** `[ACK]` Pig Pen and Watchtower rolling right behind Rubber Duck. Hang tight, J—we're on our way!
 
 ```zoe-log
-ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Incoming Priority_Signal from Node(Lauren): Target_Bed(Star_City_General_Hospital.CVICU) == AVAILABLE. Initiating Operation(Roanoke_Fortress_Convoy). 09-20-2015 14:06:40
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Incoming Priority_Signal from Node(Lauren): Target_Bed(Star_City_General_Hospital.CVICU) == AVAILABLE. Initiating Operation(Roanoke_Fortress_Convoy). 11-15-2015 14:06:40
 ```
 
 ***
@@ -17961,7 +18115,7 @@ Ten minutes later, two critical care flight/ground paramedics wheeled a speciali
 Stepping forward from the circle of family, **Zoë** adjusted her glasses, her gray eyes narrowing as her mental router evaluated the thirty-five-mile interstate corridor between Christiansburg and Roanoke.
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Evaluating Transport_Vector(NRVMC_Christiansburg -> Star_City_General_Roanoke). Route_Primary(I-81_North): High_Variance_Risk (Heavy commercial freight corridor + approaching meteorological front). 09-20-2015 14:18:05
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Evaluating Transport_Vector(NRVMC_Christiansburg -> Star_City_General_Roanoke). Route_Primary(I-81_North): High_Variance_Risk (Heavy commercial freight corridor + approaching meteorological front). 11-15-2015 14:18:05
 ```
 
 "Excuse me," Zoë said, addressing the lead paramedic in her crisp, analytical cadence. "Interstate 81 North is a high-variance corridor—a single commercial tractor-trailer collision can halt northbound traffic for hours, and Jordan has a ninety-nine-percent calcified LAD occlusion. Why are you not transporting him via **MedFlight helicopter**? Air transport reduces transit time from forty-five minutes to twelve."
@@ -18012,7 +18166,7 @@ Daniel rolled the window down. "What's going on?"
 In the second-row bucket seat behind Daniel, **Aubrie Jean** let out a small, choked gasp, her hands flying to her mouth, while **Zoë** closed her eyes for half a second as her worst statistical probability materialized in real time.
 
 ```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — ALERT: Predicted I-81_North_Bottleneck CONFIRMED at Mile_Marker_124 (Multi-Tractor-Trailer Collision). Primary_Vector(I-81_North) == IMPASSABLE. 09-20-2015 14:34:19
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — ALERT: Predicted I-81_North_Bottleneck CONFIRMED at Mile_Marker_124 (Multi-Tractor-Trailer Collision). Primary_Vector(I-81_North) == IMPASSABLE. 11-15-2015 14:34:19
 ```
 
 "We're diverting right now," the ambulance driver continued briskly. "Because every car coming off I-81 is about to flood the highway, we have to take **`U.S. Route 11`**—the old Lee Highway—straight through Christiansburg, down the mountain grade through Shawsville and Elliston, and all the way into Salem and Roanoke. Even with our lights when needed, it's a winding two-lane road with traffic lights and town zones—it's going to turn a forty-five-minute run into a two-hour crawl, but it's the only way through."
@@ -18028,4 +18182,1671 @@ The driver sprinted back to the ambulance cab. Daniel keyed the convoy mic.
 Inside the windowless back cabin of the critical care ambulance, strapped to the gurney with the cardiac monitor beeping beside his ear, **Jordan** felt the ambulance lurch back into gear, bypass the interstate ramp completely, and turn onto the slow, winding two-lane blacktop of **`U.S. Route 11`**.
 
 He felt the rig braking and accelerating through town intersections, heard the faint click of turn signals and stoplights, and felt every curve of the steep mountain descent toward Shawsville. Alone in the back of the ambulance, starving, aching, and headed toward open-heart surgery, his forty-five-minute transfer had just become a grueling two-hour crawl—and all anyone could do was hold the line and pray his heart held together until they reached **Roanoke**.
+
+## The Roanoke Fortress
+
+### Scene 1: Arrival at Star City & The Surgeon's Briefing
+
+**Date:** 2015-11-15 at 16:15 America/New_York
+
+The grueling two-hour crawl up two-lane **`U.S. Route 11`** finally ended just after four o'clock on Sunday afternoon, November 15, 2015, as the critical care ambulance—followed bumper-to-bumper by **Daniel's** minivan (`Rubber Duck`), **Mark's** SUV (`Pig Pen`), and **Henry Walsh's** Silverado (`Watchtower`)—rolled into the towering brick-and-glass medical complex of **Star City General Hospital** in **Roanoke**.
+
+While the paramedics wheeled **Jordan's** gurney straight through the dedicated **Star City Heart Institute** entrance and up the service elevators to a spacious cardiothoracic pre-op suite, the convoy parked in the adjacent deck and rode up to the sixth-floor **Cardiovascular ICU (`CVICU`)** family waiting lounge.
+
+When the elevator doors slid open, **Zoë**, **Daniel**, and **Laura** stopped in their tracks—and then smiled with profound relief.
+
+They weren't the first ones there.
+
+Waiting in the sunlit Roanoke lounge was the entire rest of the **Brooks clan**—Zoë's six older siblings, who had driven in from across the region the moment Daniel sent out the family alert: twenty-seven-year-old **Megan** (the eldest sister, who worked remotely as a logistics data analyst), twenty-five-year-old **Chloe**, twenty-three-year-old **Caleb**, twenty-one-year-old **Owen**, and twenty-year-old twin brothers **Noah** and **Liam**—alongside **Madison's** younger brother **Ben Carter**, who had caught a ride up from campus with Henry Walsh's neighbors.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 2 (Observers) — Extended Family Reinforcements on station at Node(Star_City_General_Hospital.CVICU_Lounge): Siblings [Megan, Chloe, Caleb, Owen, Noah, Liam] + Agent(Ben_Carter) + Agent(Henry_Walsh). Total Fortress Headcount == 19 Nodes. 11-15-2015 16:22:18
+```
+
+"How is he?" **Megan** asked immediately, stepping forward to hug her parents and her little sister Zoë, her kind, practical eyes—so much like Laura's—full of genuine worry for the young man her family had adopted as their own. "Did his heart hold up through that awful detour on Route 11?"
+
+"He made it in one piece, sweetheart," Laura said, hugging Megan tightly. "They're getting him settled into his pre-op room right now so the cardiothoracic surgical team can evaluate him."
+
+Once the nurses finished transferring Jordan onto the hospital bed, hooking his chest leads to the high-acuity wall telemetry console, and re-securing his heparin drip, the unit charge nurse allowed the family to rotate in briefly before evening restrictions took effect.
+
+Even in the larger Roanoke room, nineteen people couldn't fit all at once, so they came in warm, orderly waves—Caleb, Owen, Noah, Liam, Chloe, Megan, Ben, and Henry offering quiet words of encouragement from the foot of the bed ("We're all rooting for you, Jordan," Megan said warmly, giving his foot a gentle, sisterly pat through the blanket, "you just focus on getting through tomorrow") while **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** clustered closely around the rails.
+
+At `5:45 PM`, the charge nurse stepped into the doorway with a sympathetic but unyielding expression.
+
+"Alright, folks, our pre-surgical unit strictly enforces a **single overnight visitor** policy—only **one** person is permitted to stay in the room after six o'clock, and everyone else will need to head home or out to the main lobby for the night."
+
+Following the rotation schedule **Zoë** had logged back in Christiansburg—after **Aubrie Jean** had taken Friday night and **Madison** and **Isabel** had split Saturday—tonight was **Lauren's** turn on the overnight watch.
+
+One by one, the family leaned in to give Jordan their goodnight hugs and kisses. Aubrie Jean and Isabel lingered until the very last second, kissing his cheeks and whispering that the entire convoy would leave Christiansburg before dawn so they would be standing right beside his bed before the surgical team wheeled him to the operating room at `6:00 AM`.
+
+***
+
+When the door clicked shut and the sudden quiet of the sixth floor settled over the room, **Lauren** pulled the padded visitor's chair right up against the left rail of Jordan's bed and took his left hand in both of hers.
+
+Ten minutes later, a tall, composed man in navy-blue cardiothoracic surgical scrubs and a white coat knocked twice and stepped into the room, holding a digital tablet displaying Jordan's coronary angiogram from Christiansburg.
+
+"Good evening, Mr. Fuller," the surgeon said, his voice carrying a quiet, effortless authority that immediately commanded the room. "I'm **Dr. Hassan**, the attending cardiothoracic surgeon who will be performing your operation tomorrow morning." He glanced warmly at Lauren. "And you must be part of the famous support team Dr. Patel told me about on the phone."
+
+"I'm Lauren," she said, sitting up straight and keeping a firm, grounding grip on Jordan's hand. "I'm staying with him tonight."
+
+"Glad to meet you, Lauren," Dr. Hassan said, pulling a rolling stool up to the bedside so he could speak to Jordan at eye level. "Jordan, I've reviewed the catheterization films Dr. Patel sent over from New River Valley Medical Center. Have they explained why the balloon angioplasty couldn't open the vessel?"
+
+Jordan nodded once, then raised his right hand to his **mPad** on the over-bed swing arm:
+
+<aac>Doctor Patel said the blockage in my widowmaker artery is ninety-nine percent and calcified like rock. Will you be able to fix it tomorrow?</aac>
+
+"Yes, we will," Dr. Hassan answered without a single hesitation, his steady confidence acting like a balm on Jordan's frayed nerves. "Because that proximal plaque in your **Left Anterior Descending (`LAD`)** artery is heavily calcified, trying to force a stent through it would risk rupturing the vessel wall. Instead, tomorrow morning at `6:00 AM`—you are our very first case of the day—we are going to perform a **Coronary Artery Bypass Graft**, or **CABG**."
+
+Dr. Hassan tapped the anatomical diagram on his tablet, walking Jordan and Lauren through the exact mechanics so there would be zero surprises.
+
+"The good news, Jordan, is that because you are nineteen years old, the rest of your coronary tree is completely clean—so you only require a **single bypass** (`x1 CABG`), not a triple or quadruple bypass," Dr. Hassan explained. "To reach your heart safely, we will make a vertical incision down the center of your chest and divide the breastbone—your **sternum**. We will place you on the **cardiopulmonary bypass machine**, which is our heart-lung machine; it oxygenates and circulates your blood for you while we temporarily stop your heart so I have a completely still field to sew a healthy artery—your left internal mammary artery—around the blockage to restore one-hundred-percent blood flow to the front wall of your heart. Once the graft is complete, we restart your heart, take you off the machine, and close your sternum with medical-grade stainless-steel wires that stay in place permanently as the bone fuses back together."
+
+Lauren's breath caught slightly at the thought of the bone saw and the heart-lung machine, her fingers tightening around Jordan's hand, while Jordan stared at the diagram on the tablet, his heart thumping against his ribs.
+
+"When the surgery is finished," Dr. Hassan continued gently, "you'll be brought straight up to our **Cardiovascular ICU**. When you first wake up, Jordan, you will still have a **breathing tube** in your throat connected to a ventilator until we're sure the anesthesia has worn off enough for you to breathe strongly on your own. You'll also have chest tubes draining any excess fluid and several IV lines, and your chest is going to be very sore. It is a major operation, and recovery takes discipline—especially your **sternal precautions**, where you won't be allowed to push, pull, twist, or lift more than five pounds with your arms while your breastbone heals. But the procedure itself is routine for my team, and with a single mammary graft at your age, your long-term prognosis is outstanding."
+
+Dr. Hassan stood and rested a reassuring hand on Jordan's blanket. "Get some rest tonight. Your family is allowed back in at `5:30 AM` before we roll you back, and I'll take good care of you in the morning."
+
+### Scene 2: The Theatrical Cut & The Virtual Fortress
+
+**Date:** 2015-11-15 at 19:30 America/New_York
+
+After **Dr. Hassan** stepped out, the heavy silence of the Roanoke pre-op room closed back in around them.
+
+Lying propped up at thirty degrees with nearly sixty hours of **NPO** starvation gnawing at his stomach and tomorrow morning's bone saw looming twelve hours away, **Jordan** felt his thoughts beginning to spiral. Desperate for the clean, predictable refuge of mathematics, he looked over at the backpack Daniel had brought up from the minivan and tapped on his **mPad**:
+
+<aac>Lauren, could you set up my laptop on the rolling tray? I want to work on my calculus problem set so I do not think about tomorrow.</aac>
+
+"You got it, J," **Lauren** said warmly, pulling his **Pinnacle** laptop and **`MATH 2204`** textbook out of his bag and positioning the over-bed table across his lap.
+
+Jordan opened his digital notebook and tried to bring his hands up to the keyboard.
+
+Immediately, the taut bundle of medical lines tethered to both of his arms pulled tight—the heparin infusion tubing in his left antecubital vein, the saline line in his forearm, the tight plastic radial pressure cuff still guarding his right wrist from Friday's catheterization, and the glowing red pulse-oximeter clip taped to his right index finger. Every time he reached for the home row, an IV pump beeped an occlusion warning or the tape pulled sharply against his skin.
+
+After three minutes of trying to peck out a single partial derivative with one stiff finger, Jordan let his hands drop back onto the blanket with a defeated, frustrated sigh.
+
+"Okay, forget homework—your arms are way too tangled up in hospital wiring for typing," Lauren said gently, closing the calculus window before his frustration could spike his heart rate. "How about a movie instead? You don't need hands to watch a screen, and I already have the digital library loaded."
+
+Jordan nodded gratefully and tapped:
+
+<aac>Can we watch The Silver Gauntlet of Aethel? Obviously we cannot watch the twelve-hour Leviathan Cut tonight, so just put on the 1987 theatrical cut.</aac>
+
+"Two hours of 1980s synth-fantasy cheese coming right up," Lauren grinned, queuing up the standard 100-minute theatrical release on the laptop screen, plugging in the audio splitter so they could each wear one earbud, and pulling her chair close beside the rail.
+
+For the next hour and forty minutes, the soaring synthesizers of **Klaus Richter's** *"A Sister's Love (Main Theme)"* filled their earbuds.
+
+Yet because Jordan's very first experience with *The Silver Gauntlet of Aethel* back during October Fall Break had been the monumental, twelve-hour-and-twenty-one-minute ***Leviathan Cut***, watching the 1987 theatrical cut was an exercise in sheer narrative whiplash. Entire subplots vanished into thin air! **Lord Malakor's** tragic origin in the Royal Court of Old Aethel was completely gone; **Kaelan and Kaela's** childhood in the shepherd's hut was reduced to a thirty-second montage; Kaela's psychological rebellion inside the Shadowspire was excised entirely, reducing her to a generic damsel in a tower; and the emotionally devastating bridge ballad *"I Can't Live Without You (Kaela's Theme)"* was chopped down to a jarring twenty-second transition!
+
+When the end credits finally rolled at `9:15 PM`, Jordan looked at Lauren with an expression of deep offense and tapped emphatically on his **mPad**:
+
+<aac>That was a crime against storytelling. They cut out everything that made the plot logical! Once I get out of this hospital, I am only ever watching the Leviathan Cut for the rest of my life.</aac>
+
+Lauren burst out laughing, kissing his temple. "Wait until you tell Mark and Hannah—they're going to induct you into the Leviathan purist club for sure."
+
+***
+
+As Lauren closed the media player, however, the brief comedic distraction faded, and the quiet *beep... beep... beep* of the cardiac monitor returned to the foreground.
+
+In less than nine hours, they were going to stop his heart on an operating table.
+
+Seeing the shadow of fear creep back into Jordan's green eyes, Lauren didn't wait for him to ask. She opened **`InfoLink Messenger`** on his laptop, selected the **`Jordan Comms`** group channel, and clicked **`Start Video Call`**.
+
+Within three rings, the screen split into a glowing, high-definition window straight into the walk-out basement sanctuary at **414 Geneva Street** in Christiansburg—where **Aubrie Jean**, **Madison**, **Zoë**, **Sarah**, **Jessica**, **Isabel**, **Mark**, and **Hannah** were all gathered together on the sectional sofa with **Daniel** and **Laura** standing right behind them.
+
+*"Jordan!"* Aubrie Jean breathed, leaning close to the webcam on the basement coffee table, her face lighting up with love and relief at the sight of him. *"How are you holding up, sweetheart? What did the surgeon say?"*
+
+While Lauren summarized **Dr. Hassan's** briefing on the single-vessel **CABG** procedure and the `6:00 AM` start time, Jordan's eyes moved across the faces of his family on the screen until they locked onto **Zoë**, who was sitting between Aubrie Jean and Isabel with her glasses reflecting the soft light of the basement screen.
+
+Remembering the night of his October fever—when Zoë had held him in her childhood home—and the vow she had made to him in Christiansburg before the Cath Lab, Jordan felt an urgent need to know the truth before he went under the knife.
+
+Raising his right hand carefully to his **mPad**, he typed a message and held the speaker up toward the laptop microphone:
+
+<aac>Zoë, before they take me into surgery tomorrow morning, I need to ask you a direct question. What are your feelings for me? Are they romantic, like Aubrie, Madi, Lauren, Sarah, Jessica, and Isabel?</aac>
+
+In the basement on Geneva Street, the room went completely quiet.
+
+Everyone looked at Zoë. For a brief second, a faint pink flush rose across Zoë's cheeks as her analytical mind processed the direct query in front of the entire family.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Direct Query received from Thread 3 (Jordan) via InfoLink_Video_Bridge: Requesting explicit classification of Relational_State(Self <-> Thread 3 / Jordan). 11-15-2015 21:28:14
+ZOË.Systems.Logs.EmotionalStateLog: Thread 1 (Self) — Evaluating internal state parameters... Affection_Metric: 100.0%. Trust_Metric: 100.0%. Romantic_Attachment_Confirmation: TRUE. Suppressing social hesitation script. 11-15-2015 21:28:16
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Verbal_Disclosure(Truth == Unconditional_Romantic_Affirmation). 11-15-2015 21:28:17
+```
+
+Zoë adjusted her glasses and looked straight into the camera lens, her gray eyes remarkably soft and steady.
+
+*"The data is conclusive, Jordan,"* Zoë said, her voice clear and unwavering through the laptop speakers. *"My feelings for you are... significant. Romantically. Yes—I am in love with you."*
+
+In his hospital bed in Roanoke, Jordan felt a warm, breathtaking wave of joy wash through his aching chest. Immediately, his eyes shifted a few inches across the video screen to **Aubrie Jean**—checking, as he always did, with the original architect of their world.
+
+Aubrie Jean was beaming through happy tears, nodding before he even had to ask.
+
+*"Of course I approve, Jordan!"* Aubrie Jean said, wrapping an arm around Zoë's shoulders on the basement sofa while **Isabel** and **Madison** smiled warmly on either side of them. *"We've all known how much Zoë loves you since the World Trek! That's the whole point of the Pact—there's no jealousy here, only more love to bring you safely home to us."*
+
+With his entire family smiling at him through the screen, promising they would be rolling out of Geneva Street at `4:15 AM` to see him before the OR doors opened, Jordan finally closed his eyes against the hospital pillow—surrounded, even thirty-five miles away, by an unbreakable fortress of love.
+
+### Scene 3: The 6:00 AM Pre-Op Goodbye & The Ten-Hour Wait
+
+**Date:** 2015-11-16 at 05:30 America/New_York
+
+The night before open-heart surgery was a blur of broken, twenty-minute naps punctuated by the clinical rhythm of the hospital: a midnight vitals check, a `2:00 AM` blood draw and antimicrobial chlorhexidine skin prep, and a `4:00 AM` electrocardiogram check. Through every single interruption, **Lauren** never let go of **Jordan's** hand, whispering steady, loving reassurances in the dark whenever the monitors beeped.
+
+At `5:20 AM` on **Monday, November 16, 2015**, the hallway door of the pre-op suite swung quietly open.
+
+Having rolled out of **414 Geneva Street** at `4:15 AM` sharp in the freezing pre-dawn dark, **Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Sarah**, **Jessica**, and **Isabel**—joined from the Roanoke hotel and apartments by **Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, **Liam**, **Ben Carter**, and **Henry Walsh**—slipped into the room and the adjoining corridor in hushed, protective waves so every single person could say goodbye before the `6:00 AM` surgical transport.
+
+At `5:40 AM`, the cardiothoracic anesthesiologist, **Dr. Hayes**, stepped to the bedside in surgical scrubs and a bouffant cap, followed by two OR transport nurses.
+
+"Good morning, Jordan. I'm **Dr. Hayes**, your anesthesiologist today," she said with calm, reassuring warmth as she verified his wristband and checked his IV ports. "In just a couple of minutes, I'm going to put a warm preliminary relaxant into your IV line to take the edge off before we roll back to Operating Room 2. Go ahead and take a moment with your family."
+
+This was the red line all over again—except this time, everyone in the room knew what lay on the other side of those double doors.
+
+**Daniel** and **Laura** leaned down first. Daniel kissed Jordan's forehead, his voice thick with emotion as he whispered, *"You fight hard in there, son. Your mom and I and this whole family will be waiting right upstairs in the CVICU when you wake up."*
+
+**Mark**, **Hannah**, **Henry**, **Ben**, and Zoë's six siblings—including **Megan**, who squeezed Jordan's shoulder gently and whispered, *"See you on the other side, Jordan"*—gave him their warm, careful hugs.
+
+Then came the seven women of the **Pact**.
+
+**Lauren**, **Sarah**, **Jessica**, **Zoë**, **Isabel**, and **Madison** each leaned down in turn, pressing soft, lingering kisses to his lips and cheeks, their tears soaking into his hospital gown. **Aubrie Jean** was last. Framing his face in both of her trembling hands, she kissed him deeply and whispered against his forehead:
+
+*"You come back to us, Jordan. That's an order. We love you."*
+
+Trying with all his might to be brave for them even as tears spilled down his temples into his ears, Jordan tapped one final message on his **mPad** before Lauren detached the swing-arm tablet to carry up to the CVICU waiting room:
+
+<aac>I love all of you. Thank you for giving me a life worth fighting for. I will see you when I wake up.</aac>
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — Entering Cardiothoracic_Surgical_Phase (OR_2: Single-Vessel CABG, Attending: Dr. Hassan, Anesthesia: Dr. Hayes). Pre-Op Family Protocol == COMPLETE. 11-16-2015 05:54:10
+```
+
+***
+
+As Dr. Hayes injected a clear syringe of midazolam into his IV port, a heavy, floating warmth washed through Jordan's bloodstream, blunting the sharp edges of his terror as the transport nurses released the bed brakes and wheeled him out through the double doors toward **Operating Room 2**.
+
+Inside the vast, gleaming operating theater, the air was freezing cold—kept deliberately chilled for the surgical team and the heart-lung bypass machine. As the nurses slid Jordan onto the narrow padded operating table, his body began to shiver violently from the cold and residual adrenaline.
+
+Seeing him shiver without his tablet, the circulating OR nurse smiled kindly behind her surgical mask, pulled two thick, freshly heated cotton blankets straight out of the warming cabinet, and tucked them snugly around his shoulders and legs.
+
+"There we go, sweetheart—nice and warm," she murmured, patting his shoulder as Dr. Hayes lowered the clear contoured anesthesia mask gently over his nose and mouth.
+
+"Alright, Jordan," Dr. Hayes said softly above him. "Just breathe normally into the mask for me, and count backward from ten in your head."
+
+*Ten...*
+
+*Nine...*
+
+*Eight...*
+
+He pictured Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel waiting for him on Geneva Street.
+
+*Seven...*
+
+And then the bright surgical lights dissolved into total, dreamless black.
+
+***
+
+Upstairs in the sixth-floor **CVICU Family Waiting Room**, the next **ten hours** were the longest day of the family's lives.
+
+Every hour on the hour, the surgical liaison nurse called the waiting room desk phone with a brief status update from **Operating Room 2**:
+- `7:30 AM`: Sternotomy complete; internal mammary artery harvested cleanly.
+- `9:15 AM`: Patient placed on cardiopulmonary bypass; heart arrested cleanly; Dr. Hassan beginning the distal coronary anastomosis.
+- `11:30 AM`: Bypass graft complete; heart restarted in normal sinus rhythm; weaning from the heart-lung machine and ensuring meticulous hemostasis.
+- `1:45 PM`: Sternum wired closed; chest tubes placed; beginning multi-layer closure and post-op stabilization.
+
+Through all ten hours, the nineteen-person fortress held the waiting room together. When **Aubrie Jean** began to hyperventilate around noon, **Madison** and **Isabel** held her on a corner sofa while **Megan** quietly brought everyone cups of water and hot tea from the hospitality station. When **Daniel's** legs grew stiff, **Mark**, **Caleb**, and **Henry Walsh** walked the sixth-floor corridor with him.
+
+Finally, at `4:05 PM`—more than ten hours after Jordan had rolled through the pre-op doors—**Dr. Hassan** pushed open the glass doors of the CVICU waiting room in fresh scrubs, pulling his surgical cap off his head.
+
+Every single person in the room surged to their feet at once.
+
+Dr. Hassan held up a hand and smiled.
+
+"He did great," Dr. Hassan announced clearly, and an audible, collective sob of relief echoed off the walls as Aubrie Jean's knees buckled and Daniel and Isabel caught her arms. "The surgery was a complete success. That proximal LAD lesion was every bit as rock-hard as Dr. Patel described, so attempting a stent again would never have worked—the bypass was the only durable fix. We grafted his left internal mammary artery past the blockage, and the moment we released the clamp, the entire anterior wall of his heart pinked right up with robust, hundred-percent blood flow."
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — SURGICAL PHASE COMPLETE (Duration: 10h 11m). Single-Vessel LIMA-to-LAD CABG == SUCCESSFUL. Graft_Patency: 100.0%. Current_Location: Star_City_General.CVICU_Bay_4. 11-16-2015 16:06:12
+```
+
+"Can we see him?" Laura asked, wiping tears from her cheeks.
+
+"Yes, in about twenty minutes once the CVICU nurses finish settling him in **Bay 4**," Dr. Hassan said, his expression turning serious. "Before you go back, though, I want to prepare you for what you're going to see—and give you one strict rule. Right now, Jordan is still deeply sedated and **intubated on a mechanical ventilator**, with mediastinal chest tubes, epicardial pacing wires, an arterial line, and central venous infusions running. You may go back in quiet groups of **two at a time** for a few minutes each—but you **must not touch him**."
+
+Dr. Hassan looked directly at the young women of the Pact.
+
+"I know how much tactile grounding means to Jordan," the surgeon said gently, "but while a patient is emerging from cardiothoracic anesthesia with an endotracheal tube in his airway, a sudden physical touch can startle him into waking up half-sedated and fighting the breathing tube, which spikes blood pressure and stresses the fresh graft and sternal wires. Stand by his bed, let him hear your voices so he knows he's safe, and once we extubate him later tonight or early tomorrow morning, you can hold his hand again."
+
+Twenty minutes later, in quiet pairs of two—starting with **Daniel and Laura**, then **Aubrie Jean and Madison**, then **Zoë and Isabel**, then **Lauren and Sarah**, then **Jessica and Hannah**, then **Mark and Megan** and her brothers—the family walked softly into the darkened, humming space of **CVICU Bay 4**.
+
+Seeing Jordan lying motionless under the white sheet—his chest rising and falling to the mechanical hiss-click of the ventilator with the clear breathing tube taped to his lips and thick drainage tubes emerging below his bandaged sternum—was terrifying. Aubrie Jean had to clasp both of her hands behind her back so she wouldn't instinctively reach out and touch his cheek.
+
+*"You did it, Jordan,"* Aubrie Jean whispered through her tears, standing twelve inches from the rail beside Madison. *"Your heart is fixed, and you're safe. Just sleep and let the machine breathe for you tonight. We'll be right here when you wake up."*
+
+## Waking Up & The Blizzard Fortress (A CVICU Romance)
+
+### Scene 1: The CPAP Crisis & The Early Arrival
+
+**Date:** 2015-11-17 at 09:15 America/New_York
+
+Waking up from open-heart surgery was not a gentle return to the world. It was a violent collision with pain and suffocation.
+
+When consciousness slammed back into **Jordan's** brain on Tuesday morning, November 17, 2015, two terrifying sensations hit him at the exact same millisecond:
+
+First, the center of his chest felt as though it had been split open with an iron wedge and bound back together with white-hot wire.
+
+Second—and infinitely worse to his autistic sensory system—something tight, hard, and suffocating was strapped across his nose and mouth, blasting a relentless hurricane of pressurized air straight down his raw throat every time he tried to exhale.
+
+The endotracheal breathing tube had been removed earlier that morning once his anesthesia wore off, but to keep his post-operative lungs inflated against atelectasis, the respiratory therapist had strapped a full-face positive-pressure **CPAP mask** tightly around his head.
+
+Half-blind without his glasses, disoriented by lingering fentanyl and propofol, and unable to reach his **mPad**, Jordan's brain registered only one thing: *his face was trapped in a cage and he couldn't breathe.*
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — CRITICAL POST-OP SENSORY MELTDOWN DETECTED IN CVICU_BAY_4. Trigger: Positive-Pressure Full-Face CPAP Mask (Tactile/Airflow Claustrophobia) + Acute Sternotomy Pain. 11-17-2015 09:16:08
+```
+
+A muffled, panicked roar vibrated behind the plastic mask as Jordan's heart rate spiked on the overhead monitor—`110... 124... 138 BPM`—and both of his hands flew upward, his fingers clawing desperately at the Velcro head straps to rip the mask off his face.
+
+"Jordan, no! Don't pull!"
+
+**Aubrie Jean** and **Madison**—who had been sitting right beside his rails waiting for him to wake—lunged forward simultaneously. Remembering **Dr. Hassan's** strict warning about his wired sternum, neither of them pulled on his arms; instead, Aubrie Jean gently caught his right hand and Madison caught his left, wrapping their warm fingers over his knuckles to keep him from tearing at the medical tubing while pressing their foreheads close to his temple.
+
+"Nurse! In here, hurry!" Madison called out sharply as the bedside telemetry console began flashing a red tachycardia alarm.
+
+The CVICU nurse hurried into **Bay 4**. "Mr. Fuller, you cannot take that mask off! We need the positive airway pressure to keep your lower lung lobes inflated after bypass!"
+
+"Look at him—you're making him panic!" Aubrie Jean cried fiercely, keeping her voice steady beside Jordan's ear while confronting the nurse head-on. "He's non-verbal autistic! Having a hard plastic mask strapped tightly over his mouth and nose is triggering a full sensory meltdown—and if he thrashes like this, he's going to hurt his sternum! Isn't there *anything* else you can use to give him oxygen?!"
+
+The nurse looked from Aubrie Jean's fierce, protective eyes to the red `142 BPM` readout on the monitor and the sheer terror in Jordan's wide green eyes.
+
+"Hold his hands for ten seconds," the nurse said, making an immediate clinical pivot.
+
+Unclipping the noisy positive-pressure mask from Jordan's face, the nurse swapped the circuit over to a soft, heated **high-flow nasal cannula**, slipping the thin, gentle silicone prongs lightly into his nostrils and looping the soft tubing behind his ears.
+
+The relief was instantaneous.
+
+The suffocating plastic cage was gone. Cool air touched Jordan's cheeks and lips again, and as Aubrie Jean and Madison stroked the backs of his hands and whispered softly in his ears—*"It's gone, J, the mask is gone, you're safe, breathe with us"*—his heart rate dropped steadily back down through the nineties and settled at `82 BPM`.
+
+When the nurse swung his **mPad** arm back into reach, Jordan's trembling right index finger tapped out his very first post-operative words:
+
+<aac>Thank you. That mask felt like I was drowning. My chest hurts so much, Aubrie, but I am still here.</aac>
+
+"You're here, sweetheart," Aubrie Jean sobbed happily, kissing his knuckles carefully so she wouldn't jostle a single wire. "You made it through."
+
+***
+
+By Wednesday morning, November 18, 2015, Jordan's arterial line and epicardial pacing wires had been discontinued, and he was transferred out of the dark CVICU bay into **Room 618** of the **Cardiothoracic Step-Down Unit**—a bright private recovery room with a large picture window overlooking the Roanoke Valley and the surrounding Blue Ridge peaks.
+
+Like the pre-op unit, the step-down floor strictly enforced Star City General's **one overnight visitor** rule. Because finals were only three weeks away and professors could only excuse so many missed labs, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** had reluctantly taken the morning bus back down to **Commonwealth Polytechnic Institute** in Blacksburg for their Wednesday classes while **Daniel** and **Laura Brooks** held the daytime watch in **Room 618**.
+
+According to the family schedule, **Zoë** was slated to take the Wednesday night overnight shift in Roanoke, riding up with Daniel after her `2:30 PM` **`ACIS 3115`** lecture.
+
+At `12:48 PM`, however, as Zoë walked out of McBryde Hall on the CPI campus, her **mPhone** chimed with a university-wide alert and a department email:
+
+> **[CPI Alerts — Severe Weather Advisory & Class Cancellation]**<br>
+> **Notice:** Due to a rapidly intensifying clip-low pressure system colliding with Arctic air over the Allegheny Mountains, the National Weather Service has upgraded the Winter Storm Watch to an immediate **Blizzard Warning** for the Roanoke and New River Valleys effective `3:00 PM` today. Afternoon seminar `ACIS 3115` is canceled.
+
+Zoë stopped on the brick path of the Academic Mall, her eyes widening behind her glasses as her internal scheduler recalculated the entire regional transit grid in milliseconds.
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — ALERT: Class(ACIS_3115) == CANCELED. Meteorological_Front(Blizzard_Warning) arriving 12 hours ahead of forecast. Interstate_81 closure probability after 16:00 EST == 94.6%. 11-18-2015 12:48:32
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Hypothesis: If Self waits for Agent(Daniel) to return to Blacksburg, I-81 will close and Thread 3 (Jordan) will be left ALONE overnight in Star_City_General_Hospital. Unacceptable outcome! 11-18-2015 12:48:35
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Immediate_Transit_Intercept: Sprint to CPI.North_End_Transit_Center -> Board 13:15 RVT_Roanoke_Express (Coach #402) to Roanoke.Campbell_Court -> Transfer to Valley_Metro_Route_51 -> Star_City_General_Hospital. 11-18-2015 12:48:38
+```
+
+With her overnight duffle already packed in her locker at the transit hub, Zoë sprinted to the **North End Transit Center** and tapped her pass onto the `1:15 PM` **RVT Roanoke Express** highway coach six minutes before the doors hissed shut.
+
+As the express coach climbed **Christiansburg Mountain** and descended **`Interstate 81 North`** toward Salem and Roanoke, the sky turned the color of bruised lead and the first horizontal sheets of heavy, blinding snow slammed across the windshield. At downtown Roanoke's **Campbell Court** terminal, Zoë transferred seamlessly onto the local **`#51` hospital shuttle**, stepping off at **Star City General Hospital** and walking into **Room 618** at `2:55 PM`—her coat dusted with snow, four hours ahead of schedule!
+
+"Zoë?!" **Laura** gasped, rising from the bedside chair as **Jordan's** face lit up against his pillows. "How on earth did you get here so fast?!"
+
+"My afternoon seminar was canceled because the blizzard hit twelve hours early, so I intercepted the `1:15 PM` Roanoke Express bus and transferred at Campbell Court," Zoë announced calmly, setting her duffle bag down and shaking the snow off her scarf. She looked straight at her parents. "Mom, Dad—the snow is already accumulating on the Afton and Christiansburg mountain grades, and VDOT is preparing to shut down **Interstate 81** between Exit 118 and Exit 140. Since the hospital only allows **one** person to stay overnight with Jordan anyway, you two need to leave *right now* while the minivan can still get over the mountain safely. I have the watch."
+
+Daniel glanced out the sixth-floor window at the swirling whiteout engulfing the Roanoke Valley, then looked at his youngest daughter with deep, unmistakable pride.
+
+"You're sure you have everything you need, Zoë?" Daniel asked.
+
+"I have my laptop, my chargers, the care binder, and Jordan," Zoë replied simply. "Go beat the storm, Dad. And tell the rest of the Pact at CPI to catch the very next bus home to Geneva Street before Blue Ridge Transit suspends service."
+
+Ten minutes later, after Daniel and Laura hugged Jordan and Zoë goodbye and hurried down to the parking garage to beat the `I-81` closure back to Christiansburg, the hospital intercom chimed softly across the sixth floor:
+
+*Attention Star City General staff and visitors: Due to blizzard conditions and the closure of Interstate 81, the hospital has entered Severe Weather Code White. No further inbound or outbound travel is advised.*
+
+The roads were closed. The mountain was sealed.
+
+Inside the warm, quiet sanctuary of **Room 618**, it was just **Jordan** and **Zoë**, snowed-in together at the top of the fortress.
+
+### Scene 2: A CVICU Romance (Protocol: Intimacy.v2)
+
+**Date:** 2015-11-18 at 17:30 America/New_York
+
+While the unseasonable November blizzard howled against the double-paned glass of **Room 618** in Roanoke—and while thirty-five miles southwest, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Mark**, and **Hannah** caught the final packed **`Blue Ridge Transit`** bus off the CPI campus and made it safely into the basement sanctuary at **414 Geneva Street** five minutes before transit service was suspended—**Zoë Wren Brooks** ran the Roanoke outpost with quiet, loving precision.
+
+At `5:30 PM`, she picked up the clear plastic cylinder sitting on **Jordan's** over-bed tray: his **incentive spirometer**.
+
+"Alright, Jordan," Zoë said gently, opening the post-operative care binder to the pulmonary rehabilitation tab. "Dr. Hassan's protocol mandates ten incentive spirometer repetitions every hour while awake to prevent pneumonia and lower-lobe collapse. Brace your sternum with the heart pillow first."
+
+Jordan nodded, wrapping both forearms carefully around the firm, heart-shaped surgical pillow pressed against his bandaged breastbone. Zoë held the clear plastic tube upright for him and placed the mouthpiece between his lips.
+
+Jordan sucked in a slow breath.
+
+At `750 milliliters`, a sharp, stabbing pain radiated across his wired sternum. He winced, his breath hitching as the little blue piston dropped back to the bottom of the chamber. Tears of frustration pricked his eyes, and he tapped on his **mPad**:
+
+<aac>It hurts like my chest is splitting open every time I breathe in deep, Zoë. I can barely move the blue disk.</aac>
+
+"That is because your intercostal muscles and sternum underwent major surgical trauma fifty-two hours ago," Zoë said, her voice completely devoid of judgment as she rested her free hand warmly over his forearm. "Do not try to snap the piston to the top with a fast breath—that triggers a pleural spasm. Inhale at a slow, constant flow rate, just enough to float the little indicator bead inside the target window for three seconds. Let's run Iteration Two together."
+
+With Zoë counting a steady, rhythmic three-second cadence beside him and her hand anchoring his arm, Jordan tried again—raising the piston to `1,000`, then `1,250`, and on the tenth repetition, `1,500 milliliters`.
+
+"Optimal execution," Zoë beamed, logging the metric in the binder and leaning down to press a warm, lingering kiss to his forehead.
+
+***
+
+Five minutes later, the door of **Room 618** opened, and the step-down nurse walked in carrying a covered hospital tray—the first food tray that had entered Jordan's room since Friday morning in Walton Hall.
+
+"Mr. Fuller," the nurse smiled, "your bowel sounds are active and Dr. Hassan just signed off on your dietary progression! Tonight we start with **clear liquids**—warm chicken broth, apple juice, and red cherry Jell-O—and if your stomach handles this with zero nausea over the next hour, Dietary is sending up a hot, heart-healthy soft dinner tray at seven!"
+
+Jordan stared at the little plastic cup of red Jell-O and the steaming mug of chicken broth as if they were the Crown Jewels of England. After **more than a hundred hours of strict `NPO` status** and fifteen-minute water torture, he nearly cried at the first warm spoonful of salty broth Zoë held to his lips.
+
+True to the nurse's word, his stomach handled the clear liquids without a single complaint—and at `7:00 PM`, Dietary delivered two warm dinner trays through the blizzard: herb-roasted turkey breast with low-sodium gravy, whipped sweet potatoes, and steamed green beans for Jordan, plus a guest snow-in tray for Zoë (courtesy of a call from her older sister **Megan**, who had phoned the hospital dietary desk from Christiansburg to pay for her little sister's dinner and tell them both she was rooting for Jordan with all her heart).
+
+Before they took a single bite, Zoë propped her laptop up on the rolling over-bed table and dialed **`InfoLink Messenger`**.
+
+Instantly, the screen lit up with the warm, glowing chaos of the **414 Geneva Street** dining table—where **Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** were sitting down to their own blizzard dinner with the webcam placed right at the head of the table so Jordan and Zoë had a virtual seat with the family.
+
+*"Look who's eating real food!"* Madison cheered through the speakers as everyone raised their forks in a toast to Room 618, and for the next forty-five minutes, the thirty-five miles of snowbound highway vanished completely as they shared dinner, laughed about the blizzard, and celebrated Jordan's first real meal in five days.
+
+***
+
+By `9:30 PM`, the dinner trays had been cleared, the nine o'clock vitals check and medications were finished, the video call had ended with a chorus of goodnights, and the main overhead lights in **Room 618** were dimmed, leaving only the soft amber glow of the bedside lamp and the quiet, hypnotic swirl of snowflakes brushing against the sixth-floor windowpane.
+
+Zoë had changed into a soft CPI Computer Science hoodie and flannel pajama pants and pulled the reclined sleeper chair right up beside the left rail of Jordan's bed, her fingers laced gently through his left hand.
+
+Lying propped up on his pillows in the quiet dimness, Jordan turned his head to look at her.
+
+He thought about how she had sprinted across campus in the middle of a gathering blizzard and caught two buses just so he wouldn't spend a single night alone in this hospital. He thought about her Sunday night video call confession before he went under the knife (*"The data is conclusive, Jordan. My feelings for you are... significant. Romantically"*). And he realized that because she had been at Geneva Street on Sunday night and he had been intubated on Monday, they had never actually shared their first romantic kiss.
+
+Carefully raising his right hand to his **mPad**, Jordan typed softly:
+
+<aac>Zoë, on Sunday night before my surgery, you told me that you were in love with me. Since you are snowed in here with me tonight, would you like to have our first romantic kiss?</aac>
+
+In the warm amber light of the bedside lamp, Zoë's breath caught softly. Behind her glasses, her gray eyes widened slightly as her internal state monitor registered a sudden, joyous spike in heart rate.
+
+```zoe-log
+ZOË.Systems.Logs.EmotionalStateLog: Thread 1 (Self) — Incoming Romantic_Request from Thread 3 (Jordan). Internal Heart_Rate: 98 BPM (+26 BPM above baseline). Affective_State: High_Joy / Anticipation. 11-18-2015 21:42:11
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Evaluating Safety_Constraints: Thread 3 (Jordan) is Post-Op Day 2 (Single-Vessel CABG). Strict Sternal Precautions ACTIVE (Zero axial load on sternum; zero arm-pushing/twisting; Heart_Rate ceiling <= 110 BPM). 11-18-2015 21:42:13
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Initialize Protocol(Intimacy.v2 — Romantic_Non-Strenuous). 11-18-2015 21:42:15
+```
+
+"Yes, Jordan," Zoë whispered, her voice soft and clear in the quiet hospital room. "I would like that very much. However, we must execute **`Protocol: Intimacy.v2`**—which means you keep your back flat against the inclined pillows and your arms completely relaxed at your sides so there is zero mechanical load on your sternal wires. I will perform one hundred percent of the vector translation."
+
+Jordan smiled, a warm, adoring look in his green eyes, and let his hands rest lightly on his heart pillow.
+
+Slowly, carefully, Zoë stood up from the bedside chair, leaned over the lowered top rail without putting a single ounce of weight against his mattress or his chest, and cupped his right cheek gently in her warm palm.
+
+For a second, her eyes searched his, just inches away. Then she leaned down and pressed her lips softly to his.
+
+At first, the kiss was gentle, careful, and hesitant—two neurodivergent souls translating months of deep, unspoken devotion, shared spreadsheets, world travel, and life-or-death terror into a new, intimate language. Then, as Jordan let out a quiet, contented sigh against her lips and his heart monitor maintained a steady, happy rhythm, Zoë's hand slid softly into his hair and the kiss deepened—slow, warm, unhurried, and overflowing with love.
+
+When she finally drew back an inch, her cheeks flushed pink and her eyes shining behind her glasses, Jordan looked up at the cardiac telemetry monitor on the wall (`88 BPM — Normal Sinus Rhythm`) and tapped on his **mPad** with a grin:
+
+<aac>Protocol Intimacy version two was a one-hundred-percent success. My heart rate stayed well within safe parameters. I love you, Zoë.</aac>
+
+"I love you too, Jordan," Zoë whispered, kissing his forehead and settling back into her chair with her hand locked securely around his as the blizzard continued to fall softly over Roanoke.
+
+### Scene 3: The Psychological Deadlock, The Bed Scale, & The Discharge Argument
+
+**Date:** 2015-11-19 at 02:15 America/New_York
+
+At `2:15 AM` on Thursday morning, November 19, 2015, while the snowstorm still swirled outside the sixth-floor window, **Jordan** woke in acute, agonizing distress—and this time, it wasn't his sternum.
+
+During open-heart surgery on the cardiopulmonary bypass machine, patients routinely retain several liters of intravenous priming fluid in their tissues. Once Jordan's kidneys and blood pressure stabilized in the step-down unit, **Dr. Hassan** had ordered intravenous doses of **furosemide (`Lasix`)**—a potent loop diuretic designed to flush that excess surgical water weight rapidly out of his body.
+
+Because Jordan was still too weak and dizzy on Post-Op Day 2 to stand and pivot safely to the bathroom in the middle of the night without risking a fall on his wired breastbone, and because the doctors wanted his indwelling Foley catheter removed as early as possible to prevent infection, the night nurse had fitted him with an external silicone **condom catheter** (`Texas catheter`) connected by flexible drainage tubing to a collection bag hanging on the lower bed frame.
+
+"Alright, Mr. Fuller, that Lasix is kicking in right on schedule," the night nurse said kindly after checking the tubing at `2:15 AM`. "You don't have to get up or use a urinal bottle—the external sheath is sealed cleanly and routed straight into the drainage bag. Just relax your bladder and let it flow right there in bed."
+
+The nurse stepped out of the room, letting the door click shut.
+
+And inside Jordan's mind, an eighteen-year-old psychological landmine detonated.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — CRITICAL PSYCHOLOGICAL DEADLOCK DETECTED. Physiological_State: Acute_Bladder_Distension (Post-Furosemide Diuresis). Conflicting_Constraint: AubrieSinclair.LegacyScript.Bedwetting_Trauma ("Urinating while lying horizontally in a bed == Catastrophic Punishment"). 11-19-2015 02:18:40
+```
+
+For eighteen years in Norfolk, **Aubrie Sinclair** had weaponized every bodily function into a source of humiliation and terror, screaming at and punishing a young, disabled boy whenever an overnight accident occurred. Even though Jordan's conscious, rational brain knew he was nineteen years old, safe in a Roanoke hospital room, and wearing a sealed medical drainage device, his autonomic nervous system was locked in a vise-grip of sheer terror.
+
+*You are lying in a bed under a sheet,* the deeply etched trauma script screamed inside his skull. *If you let go right now, you are wetting the bed.*
+
+Tears of physical pain and deep humiliation spilled down Jordan's temples. His bladder was cramping painfully from the IV diuretic, his heart rate was climbing into the low hundreds from the distress, and yet his muscles remained clamped in an involuntary, iron-clad deadlock.
+
+Beside the bed, **Zoë** woke immediately at the change in his breathing and the rising pitch of the telemetry monitor. Sitting up and putting on her glasses, she saw the tears tracks on his cheeks and the way his hands were trembling on the blanket.
+
+"Jordan?" Zoë asked softly, leaning close. "Is your chest hurting, or is it the diuretic?"
+
+Flushing crimson with embarrassment in the dim light, Jordan tapped shakily on his **mPad**:
+
+<aac>I am so sorry, Zoë. My bladder hurts so badly from the medicine, and I know the nurse put the external catheter on me, but my brain will not let me go while I am lying in a bed. Every time I try, my mother's voice is in my head screaming at me for wetting the bed. I am stuck.</aac>
+
+Zoë's heart ached for him—and then her analytical mind locked in on the exact nature of the bug.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Root_Cause_Identified: Autonomic sphincter inhibition caused by false-positive sensory match between Current_State(Supine_Hospital_Bed + Closed_Medical_Conduit) and Legacy_State(Unprotected_Mattress). 11-19-2015 02:21:05
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Protocol(Logical_Override): Reclassify physical system architecture for Thread 3 (Jordan) and provide continuous tactile grounding. 11-19-2015 02:21:08
+```
+
+Zoë didn't act embarrassed, disgusted, or flustered for even a fraction of a second. Instead, she stood up, raised the head of Jordan's motorized hospital bed from thirty degrees to a more upright sixty-degree seated angle so his posture no longer felt like lying flat in a bed, and then took his left hand firmly in both of hers.
+
+"Listen to my voice, Jordan, and analyze the physical hardware with me," Zoë said in her calmest, clearest, most matter-of-fact cadence. "Your mother's legacy script is throwing a false-positive error because it assumes you are lying on an open mattress. That premise is factually false. Look at the engineering: you are seated at a sixty-degree incline, and you are connected to a closed-loop, medical-grade silicone fluid conduit with a one-way anti-reflux valve leading directly into a graduated two-thousand-milliliter external reservoir hanging on the steel frame outside the bed."
+
+She squeezed his hand steadily, her gray eyes locked onto his.
+
+"Not a single drop of fluid can touch the sheets, Jordan. Physically and mathematically, using a closed-loop external catheter is identical to astronauts using the urine collection assembly inside an extra-vehicular spacesuit. You are not wetting a bed—you are operating closed-loop life-support plumbing to protect your healing heart from excess fluid volume. I am right here holding your hand. Override the legacy script and open the valve."
+
+*It's astronaut plumbing,* Jordan repeated inside his head, latching onto Zoë's rock-solid, judgment-free engineering metaphor and the warm pressure of her fingers around his hand. *It's a closed-loop conduit. I'm seated at sixty degrees. I'm safe.*
+
+Slowly, Jordan closed his eyes, let out a long breath, and finally—after ten agonizing minutes—his autonomic deadlock broke.
+
+Over the next two hours of the night, the diuretic did its job completely, purging nearly two full liters of retained surgical bypass fluid into the graduated collection bag while Zoë calmly monitored the output and let him sleep peacefully with his hand in hers.
+
+***
+
+By Thursday afternoon, November 19, as the blizzard tapered off and VDOT snowplows began scraping the mountain passes of `Interstate 81`, Jordan hit two major recovery milestones in **Room 618**.
+
+First, with physical therapy and his nurse spotting him using a wide cotton gait belt around his waist so he wouldn't push with his arms, Jordan stood up from the edge of the mattress and walked slow, shuffling steps into the en-suite bathroom—allowing the external catheter to be discontinued completely as Zoë proudly logged **`Protocol.Change(EnSuite)`** into the care binder.
+
+Second, after dinner that evening, the nurse pressed the **`ZERO / WEIGH`** button on the digital bariatric scale built directly into the frame of Jordan's hospital bed.
+
+When he had been admitted from the ambulance on Sunday afternoon, swollen with IV saline, his weight had read **`342.4 lbs`**.
+
+Now, after the post-operative diuresis had flushed out the excess fluid from the heart-lung machine, the digital display beeped and settled at **`338.0 lbs`**—a four-pound drop that immediately made his breathing easier and his chest feel lighter.
+
+***
+
+On **Friday morning, November 20, 2015**, the sun broke dazzlingly clear over the snow-covered Blue Ridge Mountains, `Interstate 81` reopened in both directions, and **Dr. Hassan** walked into **Room 618** after morning rounds with a thick white three-ring binder in his hands: Jordan's official **Star City Heart Institute Discharge & Sternal Precautions Binder**.
+
+"Your graft sounds crisp, your rhythm is rock-solid, your chest X-ray is clear, and you're walking to the bathroom," Dr. Hassan smiled, handing the thick discharge binder straight to Zoë, who accepted it like a sacred text. "Honestly, Mr. Fuller, with the size and dedication of the support system waiting for you in Christiansburg, you're going to recover far better in your own home than in a hospital bed. I'm signing your discharge papers for `11:00 AM`."
+
+Forty-five minutes later, **Daniel**, **Laura**, **Aubrie Jean**, **Madison**, **Isabel**, **Mark**, and **Henry Walsh** walked into **Room 618**—having driven up the freshly plowed lanes of `I-81` in the `Rubber Duck` convoy to bring Jordan and Zoë home for Thanksgiving week!
+
+As the discharge nurse wheeled Jordan in a hospital chair toward the sixth-floor elevators with his red plush **heart pillow** hugged tightly against his chest and Zoë carrying the new discharge binder beside *S.S. Freedom*, Jordan's lifelong terror of being a burden on the people he loved flared up one last time.
+
+Looking up at Daniel, who had just taken the entire week off work and driven back and forth to Roanoke in the snow, Jordan tapped hesitantly on his **mPad**:
+
+<aac>Daniel, you and Mark and Henry have already driven so many miles for me this week. Zoë and I know the bus route now—we could just take the Route 51 bus to Campbell Court and ride the RVT Roanoke Express back to Blacksburg so you do not have to haul all of my gear.</aac>
+
+Every single person in the elevator lobby stopped dead in their tracks.
+
+**Daniel Brooks** turned slowly around, looked down at his nineteen-year-old foster son, and fixed him with the sternest, most lovingly immovable "Dad look" in his arsenal.
+
+"Jordan," Daniel said, his voice deep, calm, and final. "Have you completely lost your mind? You had your breastbone sawed in half and your heart stopped on a bypass machine *four days ago*. If you think for one single second that I am letting my son ride two public transit buses down a mountain highway four days after open-heart surgery, you are out of your gourd. I am putting my foot down: you are getting into the front passenger seat of my minivan with your heart pillow under the seatbelt, and I am driving you home to Geneva Street. End of discussion."
+
+Beside him, **Aubrie Jean**, **Madison**, **Zoë**, and **Isabel** all nodded in fierce, unanimous agreement.
+
+Feeling a warm, sheepish wave of relief wash over him—knowing once and for all that his father would never view caring for him as a burden—Jordan ducked his head with a tiny smile and tapped:
+
+<aac>Yes, sir. Thank you, Dad.</aac>
+
+Down at the hospital's ground-level discharge canopy, with Daniel and Mark spotting him carefully so he didn't use his arms, Jordan eased into the heated front passenger seat of the **`Rubber Duck`** minivan, hugged his red heart pillow firmly against his sternum as Daniel buckled the shoulder belt over it, and watched Star City General Hospital recede in the side mirror.
+
+He had gone into Roanoke with a ninety-nine-percent calcified widowmaker blockage that should have killed him at nineteen.
+
+Now, with a brand-new arterial graft beating strong in his chest and his family convoy surrounding him bumper-to-bumper down `Interstate 81 South`, **Jordan** was going home.
+
+## Home Recovery & A Thanksgiving of Victories
+
+### Scene 1: Return to the Sanctuary & The Sternal Meltdown
+
+**Date:** 2015-11-20 at 13:30 America/New_York
+
+When the three-vehicle **`Rubber Duck` Convoy** turned onto **Geneva Street** in Christiansburg just after `1:30 PM` on Friday, November 20, 2015, **Jordan** let out a breath he felt like he had been holding since the previous Friday morning in Walton Hall.
+
+Waiting in the driveway beside **Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam** were **Garrett Reynolds** and **Kelsey Brennan**, who had driven down from Blacksburg with boxes of heart-healthy groceries and fresh pharmacy supplies to welcome him home.
+
+Because the grassy side slope down to the walk-out basement patio was still slick with melting snow from Wednesday's blizzard, **Daniel** refused to let anyone wheel *S.S. Freedom* down the wet incline. Instead, **Mark**, **Caleb**, **Owen**, and **Henry Walsh** formed a four-man **"human elevator"**—locking their hands beneath Jordan's manual transport chair and carrying him down the wide interior basement staircase as smoothly and levelly as a hospital lift while **Garrett** and **Kelsey** brought *S.S. Freedom* and the medical bags around to the patio door.
+
+When Jordan eased onto the deep, plush cushions of the basement sectional sofa with his red plush **heart pillow** hugged to his chest and the familiar warm string lights glowing overhead, the sheer contrast between the sterile sixth-floor hospital room in Roanoke and his home sanctuary hit him all at once.
+
+He looked down at the white surgical bandage peeking above the collar of his button-down flannel shirt, felt the dull, constant grinding ache of the stainless-steel wires holding his divided breastbone together, and looked around at the seven young women of the **Pact**—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**.
+
+Suddenly, an icy wave of his mother's oldest poison flooded his mind.
+
+*Look at you,* the residual voice of **Aubrie Sinclair** whispered inside his head. *Nineteen years old and already carved open like an old man. You can't even push your own body out of a chair or wash yourself for six weeks. You're broken goods. Why would seven vibrant, healthy college women stay chained to an invalid?*
+
+Jordan's breathing hitched. Tears spilled down his pale cheeks, and with a trembling right hand, he tapped on his **mPad**:
+
+<aac>I am so sorry that I am broken now. For the next six weeks I cannot even lift five pounds or help myself transfer without hurting my chest. If any of you want to back out of the Pact because I am too much work now, I will understand.</aac>
+
+A stunned, horrified silence fell across the basement.
+
+Then **Aubrie Jean** dropped to her knees on the carpet right in front of his legs, her hazel eyes blazing with fierce, unconditional love as **Madison** and **Isabel** sat down on either side of him on the sofa.
+
+"Jordan Fuller, you listen to me right now!" Aubrie Jean said, her voice ringing clear and absolute across the basement. "You are *not* broken! You just survived a widowmaker heart attack and open-heart surgery at nineteen years old because you fought like a lion to come home to us! Not a single one of us is backing out of the Pact—not today, not tomorrow, not ever! We love you, we chose you for life, and we are going to take care of you every single step of the way!"
+
+"Every single one of us, Jordan," **Isabel** whispered fiercely, kissing his temple while **Zoë**, **Lauren**, **Sarah**, and **Jessica** crowded in around the sofa to echo her words. "You're stuck with all seven of us forever."
+
+The sheer, crushing magnitude of their unconditional love collided head-on with five days of surgical trauma, anesthesia exhaustion, and fear—and Jordan's emotional processor hit **`100% Overflow`**.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — CRITICAL EMOTIONAL OVERFLOW DETECTED (Positive/Relief Polarity). WARNING: Autonomic motor thrashing imminent! High risk of sternal wire dehiscence if pectoral/triceps muscles contract violently! 11-20-2015 13:52:19
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — ALERT ALL NODES: Execute Sternal-Safe Grounding Protocol IMMEDIATELY! Zero pressure on anterior chest wall; immobilize shoulders and hands only! 11-20-2015 13:52:21
+```
+
+A raw, guttural cry of overwhelming emotion tore from Jordan's throat as his body began to shake and arch on the sofa cushions in a severe autistic meltdown.
+
+Instantly, **Daniel** and **Isabel** moved with surgical precision.
+
+"Watch his chest—nobody lean on his sternum!" Daniel commanded calmly, stepping in behind the sofa to brace the sides of Jordan's shoulders against the back cushions so his upper back couldn't thrash, while **Isabel** kept the red heart pillow positioned gently against his breastbone and **Aubrie Jean** and **Madison** held both of his hands tightly in theirs, directing all of his motor tension into squeezing their fingers instead of pulling with his arms.
+
+*"Squeeze our hands, Jordan—don't pull with your chest, just squeeze our hands, we've got you, we love you so much,"* Aubrie Jean and Isabel repeated in a steady, rhythmic chorus until the terrifying storm passed, leaving Jordan sobbing quietly into Aubrie Jean's hair with his sternal wires completely intact.
+
+***
+
+That evening, after **Henry**, **Garrett**, **Kelsey**, and Zoë's older siblings headed home for the night with promises to visit all week, the household executed its first two home-recovery protocols from **Dr. Hassan's** white binder.
+
+First came the **Washing Protocol**. Because surgical sternotomy incisions cannot be submerged or hit by direct shower spray until the skin is fully sealed, **Hannah**, **Lauren**, and **Isabel** helped Jordan into the accessible basement bathroom, seated him carefully on the padded shower bench without letting him push with his arms, draped a dry waterproof barrier across his chest dressing, and gave him a warm, thorough, completely judgment-free sponge bath and hair wash with a handheld basin—leaving him clean, dry, and dressed in soft button-front flannel pajamas.
+
+Second, as `9:30 PM` arrived and Jordan looked wistfully toward the massive custom bed frame where the Pact usually piled together in a warm, tangled "puppy pile," **Daniel Brooks** stepped to the bottom of the basement stairs and laid down the law.
+
+"Alright, listen up, everybody," Daniel said with gentle but unyielding fatherly authority. "Until Dr. Hassan clears Jordan's sternum at his six-week follow-up, the full group 'puppy pile' on the big bed is officially suspended. One accidental elbow, knee, or rollover in the middle of the night could pop a sternal wire. Starting tonight, it is strictly **one partner at a time** in the king bed with Jordan, and whoever is on bed watch sleeps on his right side away from his chest tubes' healing sites with zero weight on his sternum. Understood?"
+
+"Understood, Mr. Brooks," the seven women answered in unison.
+
+By unanimous agreement of the Pact, **Aubrie Jean**—his original anchor from Room 214—took the first night home in the king bed, curling up carefully along Jordan's right side with her hand resting lightly over his palm while Madison, Zoë, Lauren, Sarah, Jessica, and Isabel settled onto the neighboring queen beds, wrapping Jordan in a quiet, safe dark that finally smelled like home.
+
+### Scene 2: The Parents' Watch (Monday & Tuesday)
+
+**Date:** 2015-11-23 at 06:00 America/New_York
+
+Because **Commonwealth Polytechnic Institute** still held classes on the Monday and Tuesday of Thanksgiving week (`November 23–24, 2015`) before the university officially closed on Wednesday, Monday morning brought an inevitable logistical transition.
+
+At `5:45 AM`, the basement stirred as **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** (who had stayed over at Geneva Street after her Sunday evening shift at Allegheny Commons) dressed quietly for their `6:00 AM` **`Blue Ridge Transit`** bus to campus.
+
+After Hannah and Lauren helped **Jordan** with his morning bathroom routine and settled him comfortably onto the basement sectional sofa with his pillows and blanket, the entire group gathered around him for a warm, lingering ritual of goodbye kisses and careful one-armed hugs.
+
+As the patio door clicked shut behind them and their footsteps faded toward the Christiansburg bus stop, the basement fell suddenly, eerily silent.
+
+Before the quiet could trigger even a flicker of isolation in Jordan's chest, the interior staircase door opened, and **Daniel** and **Laura Brooks** walked down carrying two steaming mugs of coffee and a breakfast tray.
+
+"Good morning, son," Daniel smiled, setting his laptop bag on the dining table. "Your mom and I both took the entire week of Thanksgiving off from work. You've got the two of us as your personal crew today and tomorrow."
+
+Laura set the tray on the coffee table in front of the sofa: a warm bowl of steel-cut oatmeal topped with fresh blueberries, cinnamon, and walnuts—prepared with zero added salt or butter—alongside a tall glass of ice water and his small paper cup of morning cardiac medications (`aspirin`, `metoprolol`, `atorvastatin`, and `furosemide`).
+
+Jordan tapped on his **mPad**, looking up at Laura with a mix of gratitude and surprise:
+
+<aac>Wait—you and Dad used a whole week of your vacation days just to stay in the basement with me while everyone is at CPI?</aac>
+
+"Of course we did, sweetheart," Laura said, sitting beside him on the sofa and brushing a lock of hair gently off his forehead. "You are our son, Jordan, and you just had open-heart surgery seven days ago. Did you really think your father and I were going to leave you down here by yourself while the kids are in class?"
+
+For the next two days, Monday and Tuesday passed in a warm, steady, deeply healing domestic rhythm under his parents' watch.
+
+Whenever the post-op diuretic made a trip to the accessible bathroom necessary, **Daniel** was right there at his elbow—wheelchair positioned at a forty-five-degree angle, spotting belt securely around Jordan's waist—helping him stand and pivot without a trace of awkwardness or rush, just a father taking care of his boy. When Jordan grew restless in the late morning, Laura propped his textbook up on the rolling over-bed table while Daniel pulled over a dry-erase whiteboard and acted as Jordan's hands, writing out calculus equations line by line as Jordan dictated the steps via his **mPad**.
+
+And in the early afternoon around `2:00 PM` on Tuesday, the doorbell rang upstairs—and down the basement stairs walked **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**, joined an hour later by **Isabel**, who had finished her early clinical check-off at Callahan Hall and caught a ride down Business 460 with them!
+
+"Thought you might be getting tired of staring at calculus integrals, son," sixty-one-year-old Henry chuckled, setting a container of Laura-approved low-sodium vegetable soup on the kitchenette counter before pulling up an armchair beside the sofa.
+
+For three hours before the rest of the Pact got off their final pre-Thanksgiving lectures, Henry swapped stories with Daniel and Jordan about old 1970s muscle cars and the history of the New River Valley, Garrett and Kelsey updated Jordan on life back in the residence halls (including how **Stephen** and **Elana** had spoiled **Stella** rotten during the hospital week), and Isabel curled up right beside Jordan on the sofa—checking his radial pulse, listening to his crisp, steady heartbeat with her nursing stethoscope, and letting him rest his head against her shoulder.
+
+When the basement patio door finally burst open at `5:30 PM` and **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** tumbled inside—cheering that Thanksgiving break had officially begun—Mark grinned at the sight of Jordan surrounded by Daniel, Laura, Henry, Garrett, Kelsey, and Isabel.
+
+"Good to see you holding court, man," Mark laughed, leaning down to give his brother a careful, one-armed hug as Aubrie Jean handed Jordan a neatly organized folder of lecture notes from **`PHYS 2305`** and took her place on his other side.
+
+He was sore, and his sternum still ached with every deep breath, but surrounded by his parents, his friends, and the seven women who loved him, Jordan's fortress was whole again.
+
+### Scene 3: A Heart-Healthy Thanksgiving & The Slammed Door (Goodbye, Alex)
+
+**Date:** 2015-11-26 at 14:00 America/New_York
+
+**Thursday, November 26, 2015—Thanksgiving Day—**dawned crisp, bright, and cold across the New River Valley, and **Jordan** woke in the basement sanctuary to the mouthwatering aroma of roasting turkey drifting down the interior staircase.
+
+This was his second Thanksgiving under the Brooks family roof, yet it felt like a completely different universe from November 2014.
+
+A year ago, he had been a terrified eighteen-year-old fugitive hiding in Christiansburg from his mother's impending abduction plot. Today, he was a nineteen-year-old survivor. He had faced **Aubrie Sinclair** down in a Norfolk Circuit Courtroom and won his permanent freedom. He had stared death in the face on an operating table at Star City General Hospital and won. This Thanksgiving wasn't a hiding place—it was a victory celebration.
+
+Even better, **Laura**, **Daniel**, **Hannah**, **Isabel**, and Zoë's eldest sister **Megan** had secretly redesigned the entire Thanksgiving menu from top to bottom so that **100% of the feast on the table complied with Dr. Hassan's cardiac dietary guidelines**—meaning Jordan didn't have to eat a separate "patient meal" while everyone else ate regular food:
+- The twenty-four-pound roasted turkey was basted with herb-infused olive oil and aromatics, with the skin removed before carving.
+- The whipped Yukon Gold mashed potatoes were made with roasted garlic, extra-virgin olive oil, and skim milk instead of heavy cream and salted butter.
+- The green bean casserole was made from scratch with fresh cremini mushrooms and low-sodium herb velouté, and the stuffing was packed with celery, sage, apples, and toasted pecans rather than salt.
+
+At `2:00 PM`, with Caleb and Owen acting as the "human elevator" up the interior stairs, Jordan rolled *S.S. Freedom* right to the head of the massive, three-table extension running the length of the upstairs dining and living rooms—surrounded by **Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
+
+Only one guest at the table felt slightly out of place: **Alex**, a twenty-nine-year-old coworker from the logistics department of **Megan's** company whom Megan had met three weeks earlier at an autumn corporate mixer in Roanoke and invited to Thanksgiving dinner after their second date. All through the meal, while Alex was superficially polite, he sat stiffly at the edge of the table—looking at Jordan's wheelchair and the affectionate, close-knit warmth of the Brooks family as though he were observing a strange, inconvenient foreign culture.
+
+Standing at the head of the table beside Jordan, **Daniel Brooks** raised his glass of sparkling apple cider, his voice thick with emotion.
+
+"I have never in my life had more to be thankful for than I do standing here today," Daniel said, his eyes resting warmly on Jordan. "Ten days ago, we were sitting in a waiting room in Roanoke praying for a miracle. Today, we have our son home at this table, healing and strong, surrounded by every single person who loves him. To family—by blood and by choice. Happy Thanksgiving!"
+
+*"Happy Thanksgiving!"* echoed rafters-wide across the house.
+
+***
+
+By `6:30 PM`, after dessert had been cleared and Henry, Garrett, Kelsey, Ben, and the older brothers were relaxing over coffee in the upstairs den, **Jordan** and the **Pact** headed back down to the walk-out basement sanctuary so Jordan could rest his aching back on the sectional sofa while watching a comedy movie.
+
+Upstairs, **Alex** announced he was heading back to Roanoke for the night, and **Megan** walked him out to the front entryway foyer by the coat closet to say goodbye.
+
+Down in the basement, nestled between **Aubrie Jean** and **Isabel** on the sectional sofa, Jordan's peaceful mood suddenly vanished as the sound of muffled, raised voices leaked down through the floor vents and the interior staircase door.
+
+Jordan tensed immediately, his sensory radar locking onto the sharp, pressuring cadence of a man's voice upstairs. He looked over at **Zoë**, his green eyes wide.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Acoustic Anomaly Detected from Upper_Level(Front_Foyer): Elevated male vocal pitch (Agent: Alex) + Firm negative verbal boundary (Agent: Sister_Megan). Analyzing conflict vector... 11-26-2015 18:42:11
+```
+
+"It's just Megan and Alex in the front foyer," Zoë said quietly, though her brow furrowed behind her glasses as she muted the television.
+
+Upstairs, the muffled exchange escalated—Alex's voice turning sharp, insistent, and wheedling, followed by Megan's clear, unwavering: ***"No, Alex. Stop."***
+
+Three seconds later, the entire house vibrated with the unmistakable, thunderous ***SLAM!*** of the heavy oak front door.
+
+A dead silence hung over the basement for ten seconds. Then the interior staircase door opened, and twenty-seven-year-old **Megan Brooks** walked slowly down the basement steps.
+
+Her face was paper-white, her hands were trembling at her sides, and her kind hazel-brown eyes were swimming with hot, angry tears.
+
+Every single person on the sofa sat straight up at once.
+
+"Megan?!" **Aubrie Jean** gasped, rising immediately from the sofa beside **Zoë** and **Hannah**. "What happened? What did he do?"
+
+Megan stopped in the center of the basement rug, clenching her shaking fingers into fists as a tear spilled down her cheek.
+
+"He... he knew my lease on my studio apartment expires at the end of January," Megan said, her voice trembling with a mix of shock and fury. "Out in the foyer just now, he pulled a brass key out of his coat pocket and dropped it in my hand. He said he had a key made to his townhouse in Roanoke—he called it my *'real Thanksgiving and early Christmas present'*—and he told me I should pack an overnight bag and come move in with him *tonight*."
+
+"After *two dates*?!" **Madison** exclaimed in disbelief.
+
+"And that wasn't even the worst part," Megan continued, her voice cracking as she wiped her cheek roughly with the back of her hand. "He looked right at me and made it crystal clear that the key came with... *expectations* tonight. In his bed. I told him no—that we had only been on two dates, that I wasn't ready for that, and that my little brother just had open-heart surgery ten days ago and I wanted to stay right here with my family!"
+
+"Good for you, Meg," **Lauren** said fiercely.
+
+"He wouldn't take no for an answer," Megan whispered, shaking her head as fresh tears welled up. "He acted like I owed him because he sat through a family dinner with us, and he tried to guilt-trip me into getting in his car. So I handed his key back to him, told him we were done, and slammed the front door in his face."
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Threat_Assessment: External_Actor(Alex) exhibited coercive, transactional boundary violation against Sister(Megan). Status: TERMINATED_BY_MEGAN. 11-26-2015 18:45:30
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Immediate_Emotional_Support_Protocol for Sister(Megan). 11-26-2015 18:45:32
+```
+
+Zoë, Aubrie Jean, and Isabel didn't waste a single second. Stepping forward, Zoë and Aubrie Jean wrapped their arms around Megan's shoulders and guided her gently over to the sectional sofa, where **Jordan** had already pushed himself carefully upright and was holding his arms open for her.
+
+He tapped four firm words on his **mPad**:
+
+<aac>He is a jerk. Come sit with me, Megan.</aac>
+
+"He's a total idiot, Meg," Aubrie Jean agreed softly, guiding Megan down onto the sofa cushion right beside Jordan's right side— away from his sternal wires—while Isabel tucked a warm fleece blanket around Megan's knees. "Come on. Let Jordan hold you."
+
+As soon as Megan sat down beside him, Jordan wrapped his right arm warmly and protectively around her shoulders, pulling her close against his side with zero expectations, zero pressure, and one-hundred-percent unconditional safety.
+
+For a long moment, twenty-seven-year-old Megan—always the practical, self-reliant eldest sister who took care of everyone else—just buried her face against Jordan's flannel shoulder, let out a long, shuddering breath, and let herself be held.
+
+### Scene 4: The Black Friday Road Trip & The Caregiver Handoff
+
+**Date:** 2015-11-27 at 10:00 America/New_York
+
+On **Friday morning, November 27, 2015—Black Friday—Jordan** woke up feeling stronger than he had any morning since surgery, and also *desperately* stir-crazy.
+
+He had been confined indoors—first in hospital beds in Christiansburg and Roanoke, and then on the basement sectional sofa—for two solid weeks. Watching the morning sunlight slant through the walk-out patio glass while the rest of the household chatted over coffee, Jordan tapped an announcement on his **mPad**:
+
+<aac>I want to get out of the house today. It is Black Friday and everyone in town is out and about. Can we walk up to the stop and ride the bus for a loop?</aac>
+
+The entire basement went dead silent. **Aubrie Jean** and **Isabel** both looked immediately at **Daniel Brooks**, who was coming down the stairs with a fresh pot of decaf coffee.
+
+"Absolutely not," Daniel said instantaneously—his voice warm and loving, yet carrying an iron-clad fatherly veto.
+
+Jordan's shoulders slumped slightly. He tapped:
+
+<aac>Why not? My chest feels much better today, Dad! I just want to see something other than these basement walls.</aac>
+
+"Jordan," Daniel said, setting the coffee carafe down and walking over to the sofa. "A public transit bus is not a private passenger car. Buses jerk when the air brakes engage, they hit potholes, and on Black Friday the aisles are packed with shoppers carrying heavy bags. You are eleven days post-op from a sternotomy. One hard stop or one person stumbling into you in the aisle and you're right back on Dr. Hassan's operating table. I'm putting my foot down again: zero buses."
+
+Seeing the disappointment wash over Jordan's face, **Laura** stepped in gently. "Daniel's right about the bus and the crowds, honey—we are *not* setting foot inside a single busy store today. *However*," she smiled, looking at her husband, "cabin fever is real, and there's no rule saying he can't go for a scenic drive in the warm minivan."
+
+Daniel's face broke into a grin. "Now *that* we can do. A Black Friday sightseeing tour—hundred-percent stay-in-the-car rules, heart pillow under the seatbelt, and a scenic cruise through the mountains."
+
+Jordan's eyes lit up immediately.
+
+Thirty minutes later, after **Caleb** and **Owen** helped him up the stairs and Daniel buckled Jordan securely into the heated front passenger seat of the **`Rubber Duck`** minivan with his red plush **heart pillow** braced firmly over his sternum beneath the shoulder belt, a three-car family caravan—Daniel's minivan, Mark's SUV, and **Megan's** sedan (with **Aubrie Jean**, **Madison**, and **Isabel** riding along)—rolled out of Geneva Street into the crisp November sunshine.
+
+Their first stop was a slow, jaw-dropping reconnaissance loop through the parking lots of **Strickland Farm Shopping Center** and the **New River Valley Mall** in Christiansburg. From the safe, climate-controlled cocoon of the minivan, Jordan stared in wide-eyed amazement at the swirling vortex of thousands of frantic holiday shoppers, gridlocked SUVs honking over parking spaces, and long lines snaking around the brick storefronts.
+
+<aac>I cannot believe this many people wake up at five in the morning to fight over televisions,</aac> Jordan tapped on his **mPad**, making Daniel and Laura burst out laughing.
+
+"And *this*, son," Daniel chuckled, steering smoothly out of the shopping center exit onto `U.S. Route 460 Business`, "is why the Brooks family stays out of retail stores on Black Friday!"
+
+From Christiansburg, Daniel drove them north into **Blacksburg** and onto the campus of **Commonwealth Polytechnic Institute**. In stark contrast to the retail madness ten minutes south, the university campus was a peaceful autumn ghost town—empty brick walkways, quiet limestone academic halls around the **Central Green**, and not a single crowded lecture hall in sight. Taking a slow lap past **Walton Hall**, **McBryde Hall**, and **Eleanor Bennett Hall**, Jordan felt a deep, quiet surge of motivation looking at the campus he was fighting to return to.
+
+After a final, breathtaking scenic loop west on `U.S. 460` toward the sleeping Appalachian ridgelines, the caravan returned to **414 Geneva Street** mid-afternoon, leaving Jordan tired in the best possible way.
+
+***
+
+Re-energized by seeing the CPI campus with his own eyes, Jordan spent **Saturday, November 28**, launching a full-scale **Academic & Physical Counter-Attack**.
+
+All Saturday morning, he refused to watch movies, working instead for two focused hours with **Daniel** acting as his scribe at the whiteboard until his entire **`MATH 2204`** problem set was finished. In the afternoon, determined to reclaim his physical independence within Dr. Hassan's sternal rules, he turned the basement rug into a physical therapy clinic—practicing leg-driven pivot transfers between the sofa, *S.S. Freedom*, and the king bed using only his core and quadriceps while **Mark** and **Caleb** stood inches away as spotters (`"Don't lean on that right arm, J—drive through your heels,"` Mark coached gently).
+
+By **Sunday evening, November 29**, however, as the Thanksgiving holiday weekend drew to a close, a cold knot of dread began tightening in Jordan's stomach.
+
+Across the basement, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** were packing their backpacks and checking their Monday morning schedules for the final two weeks of classes before finals, while **Isabel** was organizing her senior nursing clinical rotation clipboard.
+
+Looking over at **Daniel** and **Laura**, who were reviewing their own Monday calendars at the bottom of the stairs, Jordan tapped quietly on his **mPad**:
+
+<aac>Everyone has to go back to CPI tomorrow morning at six o'clock. And Dad, you and Mom have to go back to work tomorrow too. Does that mean I am going to be down here all day by myself?</aac>
+
+"Absolutely not," Daniel answered immediately, his voice so firm and unhesitating that it cut Jordan's rising panic off at the knees. "Dr. Hassan's discharge rules are crystal clear, and so are mine: you will not be left alone in this house for a single minute. In fact, I already made the call—and your daytime backup just pulled into the driveway."
+
+Two minutes later, the interior basement door opened, and down the stairs walked **Megan**—carrying her remote-work laptop bag over one shoulder and a packed two-week overnight duffle bag in her other hand!
+
+Having dumped **Alex** on Thursday night and realizing how cold, cramped, and lonely her little studio apartment felt compared to the warmth of her family's house, Megan had jumped at her father's ask: since her job as a logistics data analyst was one-hundred-percent remote, she could work right from the Geneva Street basement dining table every day from Monday through Friday while taking care of Jordan!
+
+While Megan set her duffle bag down and gave Jordan a warm, cheerful wave, **Zoë** picked up the thick white **Star City Heart Institute Discharge Binder** and pulled her big sister aside by the kitchenette for an official systems briefing.
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Initializing Daytime_Caregiver_Handoff: Primary_Daytime_Agent(Sister_Megan, 06:00–17:30 EST, Mon–Fri). Briefing agent on Medical + Neurodivergent Grounding Protocols. 11-29-2015 19:15:04
+```
+
+"Alright, Megan, here is the operational briefing," Zoë said in a low, earnest voice, opening the indexed binder tabs. "Physically, Jordan is Post-Op Day 13 and stable, though he is still on strict sternal precautions—zero pushing, pulling, or lifting over five pounds—and his morning loop diuretic (`furosemide`) means he requires regular spotting and assistance in the accessible bathroom. All medication times and incentive spirometer logs are in Tab 2."
+
+Zoë paused, looking up through her glasses straight into her twenty-seven-year-old sister's eyes.
+
+"However, the most critical variable is psychological," Zoë added softly. "When the nine of us leave at `5:50 AM` tomorrow, the sudden drop in household occupancy is going to trigger residual isolation anxiety. Jordan is non-verbal autistic, and tactile deep-pressure grounding is how his nervous system regulates. He needs hugs, Megan. A *lot* of hugs—and someone he can rest his head against when the house gets too quiet. Are you comfortable providing that?"
+
+Megan—whose own heart was still bruised from Alex's cold, transactional behavior on Thursday night—looked across the room at Jordan, who was watching her with shy, hopeful green eyes from the sofa.
+
+Megan's face softened into the warmest, most genuine smile she had felt all week.
+
+"Of course I am, Zoë," Megan whispered. "He's family. Whatever he needs—I've got the watch."
+
+## A New Caregiver, A New Routine (Megan's Watch)
+
+### Scene 1: The 5:15 AM Handoff & The Morning Watch
+
+**Date:** 2015-11-30 at 05:15 America/New_York
+
+The `5:15 AM` digital alarms chimed softly across the darkened walk-out basement on **Monday, November 30, 2015**, signaling the official end of Thanksgiving break.
+
+**Jordan** woke in the center of the custom king-sized bed with **Aubrie Jean's** warm, steady breathing right beside his right shoulder. Across the basement, he heard the sleepy rustle of blankets as **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** began stirring from the queen beds, while **Mark** and **Hannah** walked quietly down the interior stairs already dressed and carrying their backpacks.
+
+Jordan was still sore along his wired breastbone, but the cold dread of being left behind had vanished completely.
+
+One by one, the morning goodbye ritual unfolded around him. Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel leaned down in turn to give him soft, lingering romantic kisses and gentle hugs, followed by a firm, one-armed brotherly embrace from Mark.
+
+"Alright, J, let's get you set up for the morning," **Hannah** said with her trademark sisterly warmth, wheeling *S.S. Freedom* into position and spotting his leg-driven pivot transfer from the mattress before assisting him with his morning routine in the accessible bathroom and settling him comfortably back onto the plush cushions of the sectional sofa.
+
+Just as Hannah finished tucking a soft fleece blanket across his lap at `5:42 AM`, the interior basement door opened and twenty-seven-year-old **Megan Brooks** walked down the stairs, wearing a comfortable cable-knit sweater and jeans with her work laptop bag slung over her shoulder.
+
+"Morning, everybody," Megan smiled warmly. "I've got the daytime watch."
+
+After one final round of waves and *"See you at five-thirty!"* from the nine CPI students, the patio door clicked shut as they headed out into the freezing November pre-dawn to catch the `6:00 AM` **`Blue Ridge Transit`** bus to Blacksburg, while upstairs **Daniel** and **Laura** left for their morning commutes.
+
+Suddenly, the vast walk-out basement was completely silent.
+
+Setting her laptop bag on the dining table—knowing her remote shift as a logistics data analyst didn't start until `8:00 AM`—Megan looked over at the sofa and saw how small and quiet Jordan looked in the sudden emptiness of the room.
+
+"What can I get you to drink, Jordan?" Megan asked kindly.
+
+Jordan's first instinct was a craving for hot chocolate, but remembering his cardiac guidelines, he shook his head slightly and tapped on his **mPad**:
+
+<aac>Just ice water, please, Megan.</aac>
+
+"Good choice," she smiled. Returning a moment later from the basement kitchenette with two glasses of ice water, she set them on the coffee table—and then paused instead of walking back to the dining table.
+
+She remembered **Zoë's** briefing the night before: *The sudden drop in household occupancy is going to trigger residual isolation anxiety. He needs grounding. He likes hugs. A lot.* And she remembered how comforting it had felt on Thursday night after she slammed the door on **Alex** when Jordan had wrapped his arm around her on this very sofa and simply held her without asking for a single thing in return.
+
+Sitting down gently on the sofa cushion near his head, Megan looked at him with her warm hazel-brown eyes.
+
+"You look like you're missing your anchors," Megan said softly. "Want to scoot over a few inches? You can rest your head on my lap if you'd like. I don't mind a bit."
+
+A wave of pure gratitude washed over Jordan's face. He trusted Megan completely—she was Zoë's big sister, and she had the exact same kind, steady energy as Laura. Carefully shifting sideways without twisting his torso, Jordan rested his head onto her lap.
+
+<aac>Thank you, Megan,</aac> he tapped softly.
+
+Megan smiled, resting her hand gently in his dark hair and stroking it with a slow, rhythmic, sisterly warmth. "Anytime, Jordan," she whispered. "Zoë explained everything to me, and I'm perfectly happy to hold you whenever you need it. You just rest."
+
+Closing his eyes against her lap, Jordan felt the last trace of morning tension melt out of his shoulders. He wasn't alone. His new big sister had the watch.
+
+***
+
+For more than an hour, the basement remained wrapped in a peaceful quiet—Jordan drifting in a light, restorative doze with his head on Megan's lap while she quietly checked the morning news on her phone with her free hand.
+
+At `7:30 AM`, Megan glanced at the wall clock and gave his shoulder a gentle squeeze.
+
+"Hey, Jordan," she whispered. "You awake, kiddo? Ready for some breakfast before your morning meds?"
+
+Jordan blinked awake and nodded, tapping:
+
+<aac>Yes, please. Breakfast sounds great.</aac>
+
+Supporting the back of his shoulders so he didn't have to strain his chest, Megan helped him sit upright against the corner cushions, then stepped over to the basement kitchenette. Opening the refrigerator Laura had stocked, she pulled out a tub of nonfat Greek yogurt, fresh blueberries, strawberries, and a banana, layering two identical bowls into colorful heart-healthy parfaits and pouring a small glass of orange juice alongside his paper cup of `8:00 AM` cardiac pills.
+
+As they ate together on the sofa, Megan leaned back with her bowl and smiled at him. "So, Zoë tells me you and Aubrie are studying astrophysics. That sounds... seriously intense."
+
+Jordan's face lit up immediately, the post-op fatigue vanishing from his eyes as he reached for his **mPad**:
+
+<aac>It is intense, but it is amazing! Everything in the universe is just big, logical, predictable systems—like how a star is born, how it fuses elements in its core, and how it dies. Did you know that almost every atom in our bodies—the iron in our blood, the calcium in our healing bones—was forged inside a star that went supernova billions of years ago?</aac>
+
+Megan paused with her spoon halfway to her mouth, genuinely fascinated. "Wait—really? So I'm literally made of stardust?"
+
+<aac>We all are,</aac> Jordan tapped, smiling warmly at her. <aac>Zoë is the same way about systems. She is brilliant, Megan. She is one of my safest people in the world.</aac>
+
+Megan's smile softened with deep sisterly pride. "You're really good for her too, Jordan. You brought this whole wonderful, fiercely loyal family into her life—I've never seen my little sister happier."
+
+As the clock ticked toward `7:55 AM`, Megan carried their empty bowls to the kitchenette sink and opened her work laptop at the dining table—just fifteen feet away in Jordan's direct line of sight.
+
+"Alright, the corporate clock calls," Megan said warmly. "I'm logging in right here at the table, so if you need water, help getting up for the bathroom, or another hug, you just tap that tablet and call me, okay?"
+
+<aac>Okay. Thank you, Megan,</aac> Jordan replied, settling back against the cushions as the rhythmic, comforting tap of Megan's keyboard became the new soundtrack of his recovery.
+
+### Scene 2: The Daytime Watch, The Single-Lift Shower, & Midnight Butterflies
+
+**Date:** 2015-11-30 at 10:15 America/New_York
+
+Mid-morning in the basement passed in a quiet, companionable harmony. While **Megan** analyzed supply-chain spreadsheets on her work laptop at the dining table, **Jordan** wore his headphones on the sofa, watching an astronomy lecture video on his **Pinnacle** laptop.
+
+At `10:15 AM`, the familiar, insistent pressure of his morning **`furosemide`** diuretic kicked in. Pausing his video, Jordan felt a slight flush of embarrassment rise to his cheeks as he tapped his **mPad** speaker:
+
+<aac>Megan? I am really sorry to interrupt your work, but I need help getting to the toilet.</aac>
+
+Megan didn't hesitate for half a second. Saving her spreadsheet and standing up with an easy, reassuring smile, she walked straight over and brought *S.S. Freedom* up to the edge of the sofa.
+
+"Zero bother at all, Jordan—that's literally why I'm working from here instead of my apartment," Megan said cheerfully, spotting his pivot transfer into the chair and wheeling him into the accessible basement bathroom. "Alright, tell me what you need—no strings attached, zero judgment."
+
+Her calm, matter-of-fact kindness melted his awkwardness on the spot. She helped him with the parts of the transfer and waistband management that his sternal precautions still prevented him from doing safely on his own, waited respectfully while he finished, and wheeled him back out to the sectional sofa—leaning down to give him a warm, grounding hug before returning to her desk.
+
+At `11:30 AM`, Megan's work calendar chimed for her lunch hour.
+
+"Alright, my lunch break starts now, which means your break starts now!" Megan announced, stretching her arms overhead before fixing two plates of heart-healthy turkey breast sandwiches on whole-wheat bread with bananas and apple juice in the kitchenette.
+
+Sitting down right beside him on the sofa, Megan opened her arms first. "Looks like you could use a noon recharge before we eat."
+
+Gratefully leaning against her side, Jordan rested his head on her shoulder while she kept her arm draped around him—and right on cue, Megan's laptop chimed with an incoming **`InfoLink Messenger`** video call from **`Jordan Comms`**.
+
+When Megan clicked `Accept`, the screen filled with the noisy, sunlit chaos of **Kincaid Dining Commons** at CPI, where **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Mark**, and **Hannah** were all huddled around a long lunch booth waving at the camera!
+
+*"Hey, guys! How's our favorite patient behaving?"* Madison called out with a grin, while **Aubrie Jean** and **Isabel** beamed with pure, unalloyed relief seeing Jordan tucked securely under Megan's arm. Knowing how much physical affection Jordan needed during the day, seeing him safe and cuddled with Zoë's big sister put their minds completely at ease.
+
+***
+
+At `4:30 PM`, Megan closed her work laptop with a satisfied sigh, sat with Jordan on the sofa for another half-hour talking about her work and his classes, and then glanced at the clock as `5:00 PM` approached.
+
+"The CPI crew is going to be walking through that door in thirty minutes, and after a full day of lectures and a crowded bus ride, they're going to be starving," Megan said, standing up.
+
+She glanced briefly toward the interior staircase leading to her mother's spacious upstairs kitchen—and immediately shook her head. She had promised her father and Zoë that she wouldn't leave Jordan alone in the basement for a single minute. Instead, stepping into the compact basement kitchenette, Megan pulled out boneless skinless chicken breasts, a bag of tricolor quinoa, and fresh broccoli florets, firing up the two-burner Induction cooktop.
+
+She knew with an older sister's intuition that the second **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** walked in from campus, the only thing they would want to do was wrap their arms around Jordan. By having a hot, heart-healthy dinner already plated and waiting for all ten of them, she was giving the Pact the gift of going straight to him without having to cook.
+
+At `5:35 PM`, the patio door flew open, and the quiet basement erupted with the joyful energy of the returning commuters!
+
+"Dinner's hot and ready!" Megan called out from the kitchenette.
+
+A chorus of *"Megan, you are an absolute lifesaver!"* echoed across the room as backpacks hit the floor—followed immediately by the homecoming ritual. After Mark and Hannah gave Jordan careful brotherly and sisterly hugs, Lauren, Sarah, Jessica, Zoë, Isabel, and Madison each leaned down to give Jordan deep, affectionate, romantic welcome-home kisses. **Aubrie Jean** came last, sitting right beside Jordan on the sofa, framing his face in her hands, and kissing him with a slow, breathless passion that made his toes curl.
+
+Standing by the kitchenette counter with the serving bowls, twenty-seven-year-old **Megan** watched the scene, her heart suddenly tightening with a fierce, unexpected ache.
+
+She saw the open, unguarded romance of the seven women. She saw Aubrie Jean smiling warmly as Isabel and Madison kissed Jordan's cheeks with zero jealousy, zero competition, and total trust. And in the wake of Alex's cold, pushy ugliness on Thursday night, a quiet voice inside Megan whispered how desperately *she* wanted to be part of something that safe, that loving, and that real.
+
+Almost instantly, a wave of guilt slammed her internal firewall shut. *Stop it, Megan,* she scolded herself. *You're twenty-seven. He's nineteen. You're Zoë's oldest sister and his daytime nurse. Don't you dare make this weird or risk upsetting the family they've built.*
+
+***
+
+Yet at `9:00 PM`, when bedtime arrived and **Aubrie Jean** announced it was time for Jordan's evening **Washing Protocol**, **Zoë** picked up the discharge binder and looked straight at her big sister.
+
+"Megan, since you are handling his daytime care all week, we need you checked off on the evening washing protocol too," Zoë said calmly.
+
+Megan's pulse jumped, but when she looked at Aubrie Jean, Madison, Isabel, and Lauren, she saw zero suspicion—only complete, welcoming trust.
+
+In the accessible basement bathroom, as **Hannah** and **Lauren** prepared to do their usual two-person transfer to move Jordan from *S.S. Freedom* onto the padded shower bench, Megan paused, evaluating the geometry of his wired sternum.
+
+"Hold on—let me try something so he doesn't get jostled between two people," Megan said. Stepping in front of Jordan's chair, she locked the brakes. "Rest your hands lightly on my shoulders, Jordan—don't push with your arms, let my legs do the work."
+
+In one remarkably strong, fluid motion, twenty-seven-year-old Megan lifted Jordan cleanly from the wheelchair seat and settled him onto the padded shower bench *entirely by herself*.
+
+Hannah and Lauren stared in open-mouthed amazement, while in the doorway, Zoë's eyes lit up behind her glasses as she immediately updated the binder:
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Kinesthetic Benchmark Logged: Agent(Sister_Megan) executed Solo_Bariatric_Sternal_Safe_Transfer(Thread 3 / Jordan -> Shower_Bench) with 0.0N sternal load. Designating Sister_Megan as Primary_Transfer_Specialist. 11-30-2015 21:08:19
+```
+
+"I've got it from here, guys," Megan said with gentle, clinical poise.
+
+When Hannah, Lauren, and Zoë stepped out to give them room, Megan carefully kept the waterproof barrier sealed over Jordan's sternal incision while washing his hair, his back, and—as complete post-op hygiene required—gently and respectfully washing his most intimate areas with a warm washcloth.
+
+Inside Megan's head, her thoughts were spinning like a turbine—*This is medical care. He's my brother. Stay in your lane, Megan*—even as a warm, undeniable flutter stirred in the pit of her stomach at how completely Jordan trusted her hands.
+
+An hour later, after Aubrie Jean hugged Megan fiercely in gratitude and Megan headed upstairs to her guest room while Jordan settled into the king bed beside Aubrie Jean, sleep refused to come to the basement.
+
+Lying awake in the dark past midnight with his sternum aching dully and a brand-new swarm of butterflies fluttering in his stomach, **Jordan** replayed every moment of the day with Megan: her hand stroking his hair while his head rested in her lap, her laugh over their yogurt parfaits, her effortless strength lifting him onto the shower bench, and the warm, lingering hug she had given him before heading upstairs.
+
+*I'm starting to fall for Megan,* Jordan realized with a jolt—immediately followed by his own anxious self-doubt: *She's twenty-seven and I'm nineteen. Why would Zoë's twenty-seven-year-old sister ever look at me that way?*
+
+Beside him in the dark, **Aubrie Jean** opened her hazel eyes, watching the restless, dreamy expression on Jordan's face in the faint hallway light.
+
+"Can't sleep?" Aubrie Jean whispered softly.
+
+Jordan startled slightly and tapped on his **mPad** on the nightstand:
+
+<aac>My chest is just a little sore tonight.</aac>
+
+Aubrie Jean smiled a slow, knowing, deeply happy smile in the dark, kissing his shoulder. She knew that look on Jordan's face—it was the exact same look he had worn right before Zoë and Isabel joined their family. And as the original architect of the Pact, Aubrie Jean already knew her answer: whenever Megan and Jordan were ready to admit what they were feeling, the door to the Pact was wide open.
+
+### Scene 3: Work Buddies, The ENG 102 Accessibility Proposal, & Explicit Permission
+
+**Date:** 2015-12-04 at 06:00 America/New_York
+
+On **Tuesday morning, December 1, 2015**, as **Aubrie Jean** and **Madison** wheeled **Jordan** out of the accessible bathroom after his `5:30 AM` routine and started steering *S.S. Freedom* toward the sectional sofa, Jordan held up his hand and tapped firmly on his **mPad**:
+
+<aac>Wait—stop the chair, please. I do not want to lie on the sofa today. I am tired of being an invalid on the couch. Can you set my laptop up at the dining table so I can sit up and work like a normal student?</aac>
+
+Aubrie Jean stared at him for a second, and then a huge, proud smile broke across her face. "You got it, fighter."
+
+Just as they parked *S.S. Freedom* at the head of the basement dining table, **Megan** walked down the interior stairs with her laptop bag for the morning handoff. Seeing Jordan sitting upright at the table with his textbooks open, Megan beamed and set her own laptop down right beside his.
+
+"Look at you!" Megan cheered. "Even better—now we can be **work buddies**!"
+
+When the nine CPI commuters headed out into the cold morning for their `6:00 AM` bus, Megan went to the kitchenette and whipped up two plates of scrambled egg whites and whole-wheat toast topped with grape jelly—and zero butter. Sitting down next to Jordan, she slid one plate in front of him and kept the identical plate for herself.
+
+Looking from his plate to hers, Jordan felt a warm surge of emotion in his chest that had nothing to do with his sternal wires: *Megan was eating his exact cardiac diet at every meal just so he wouldn't feel singled out.*
+
+At `7:50 AM`, before Megan logged into her corporate VPN, Jordan looked at her shyly and tapped:
+
+<aac>Megan, before you start work, could I have one more morning hug?</aac>
+
+"Always," Megan said softly. Stepping beside his wheelchair, she leaned down and wrapped her arms warmly around his shoulders.
+
+Jordan folded his arms around her waist, resting his cheek against her sweater—and this time, neither of them let go after three seconds. Jordan felt Megan take a quiet, slightly shaky breath against his hair as she relaxed into the embrace, holding him for a long, charged ten seconds while the air between them hummed with unspoken butterflies. When she finally pulled back to sit at her laptop, her cheeks were flushed pink, her voice a little thicker than usual as she whispered, *"Okay... work time."*
+
+All through that first week of December, their **work-buddy** routine flourished. By day, Jordan and Megan sat side by side at the dining table—Jordan grinding through his calculus, physics, and sociology coursework despite the dull ache of his healing breastbone, and Megan handling every bathroom transfer, medication cup, and grounding hug with effortless grace. In the late afternoons around `3:30 PM`, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan** regularly swung by Geneva Street to drop off campus library books, share a cup of decaf coffee with Jordan and Megan, and keep their spirits high until the Pact and **Isabel** burst through the patio door at `5:30 PM`.
+
+***
+
+On **Friday evening, December 4, 2015**, the nine CPI students came home practically vibrating with excitement.
+
+"We got our final project assignment for **`ENG 102`**!" **Aubrie Jean** announced, setting her backpack down by the dining table.
+
+"Because your medical accommodations excuse you from sitting for a two-hour written final exam," **Zoë** explained, her eyes bright behind her glasses, "**Dr. Evans** converted the final exam into a collaborative campus advocacy proposal—and to honor our support architecture, he assigned all eight of us in the section as a single project team!"
+
+Jordan's eyes lit up immediately. Opening his **Pinnacle** laptop on the dining table, he navigated to the university's official **`Educational Accessibility`** webpage, pulled up a PDF file, and turned the screen around for the entire room—including Megan, Isabel, Garrett, and Kelsey—to see.
+
+<aac>I already know what our proposal should be,</aac> Jordan tapped rapidly on his **mPad**. <aac>Look at the official campus accessibility map CPI gives to students in wheelchairs.</aac>
+
+Everyone leaned in around the table. The PDF map was a crude, outdated vector drawing that looked like a 1990s cartoon.
+
+<aac>Look right here at McBryde and Walton Hall,</aac> Jordan continued, zooming in with his trackpad. <aac>The blue icon for the automatic push-button door is on the wrong side of the building! And look up the hill at our old dorm, Eleanor Bennett Hall—there is nothing marked on it at all! During freshman year, Bennett Hall had a keycard elevator that let wheelchair users cut through from the first floor to the second-floor terrace to get up the hill without climbing a twenty-percent grade, and the map never even mentioned it existed!</aac>
+
+He looked around the circle of faces, his green eyes shining with purpose.
+
+<aac>We cannot ask the university to spend fifty million dollars building new elevators in one semester. But fixing a broken PDF map? Building an accurate, interactive database that shows disabled students where the ramps, push-button doors, and elevator cut-throughs ALREADY are? That does not cost millions—that just takes caring enough to get the information right. And I want to go back to Walton Hall next week to present my part in person with you.</aac>
+
+From the sofa, **Megan** clapped both hands together, her face glowing with pride. "Jordan, that is *brilliant*!" she cheered. "Every student with a disability deserves accurate information so they can succeed! You guys are going to knock Dr. Evans's socks off!"
+
+***
+
+Later that Friday night, after a heart-healthy dinner of Laura's baked salmon, brown rice, and roasted asparagus—where **Zoë** and **Aubrie Jean** exchanged a quiet, knowing glance across the room watching how Megan laughed and rested her hand on Jordan's arm—Aubrie Jean smiled warmly at Megan when `9:00 PM` arrived.
+
+"Megan, you've become the undisputed pro at the single-person shower bench transfer," Aubrie Jean said with a warm, unmistakable subtext in her voice. "Would you mind taking the lead on Jordan's washing protocol tonight?"
+
+Inside the accessible bathroom, after Megan lifted Jordan effortlessly onto the padded shower bench and began carefully washing his hair and torso while keeping his sternal dressing dry, Jordan felt the charged, fluttering tension between them and decided to bravery test the waters by half an inch.
+
+Reaching over to his **mPad** mounted on the dry towel shelf beside the bench, he tapped casually:
+
+<aac>You know, Megan, whenever Aubrie or Madi or Isabel helps me with my bath at night, they usually just hop in and take their own shower right after, since we are already in here.</aac>
+
+Megan's hands froze on his wet shoulder.
+
+A scorching-hot blush flooded from the base of her collarbone all the way to the tips of her ears. She knew *exactly* what Jordan was gently implying—and every cell in her heart wanted to say yes, while her twenty-seven-year-old brain screamed in panic about their eight-year age gap.
+
+"Oh! Um—I—I already showered this morning!" Megan stammered, her heart hammering at a hundred and thirty beats a minute as she quickly finished rinsing his hair, dried him off, helped him into clean flannel pajamas, and wheeled him back out into the main basement room looking thoroughly flustered.
+
+Everyone in the room immediately clocked the electric awkwardness between the two of them: Jordan looking sheepish that he had pushed too fast, and Megan blushing like a teenager as she folded a blanket on the sectional sofa where she planned to sleep for the weekend.
+
+**Zoë** watched her older sister for three seconds, ran the probability matrix inside her head, and decided to execute a direct logical override.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Analyzing Relational_Deadlock(Thread 3 / Jordan <-> Sister_Megan). Observation: Mutual romantic attraction == CONFIRMED. Pact_Consensus == 100% SUPPORTIVE. Blocking_Process: Sister_Megan.Social_Script("Age_Gap_27_vs_19 && Older_Sister_Role"). 12-04-2015 21:42:10
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Direct_Verbal_Override to Sister_Megan. 12-04-2015 21:42:12
+```
+
+Walking straight over to the sectional sofa, Zoë looked up through her glasses at her twenty-seven-year-old sister.
+
+"Megan," Zoë said, her voice crystal-clear and kind in the quiet room, "you are welcome to explore your feelings."
+
+Megan's blush returned at nuclear intensity, her mouth opening and closing without a sound as Zoë calmly wished her goodnight and wheeled Jordan behind the privacy partition into the master sleeping area with **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**.
+
+Once the partition curtain was drawn, **Madison** sat on the edge of the king bed and grinned at Jordan. "Okay, let's address the elephant in the basement: *Megan*."
+
+<aac>She is amazing,</aac> Jordan tapped honestly on his **mPad**, looking anxiously at Aubrie Jean and Isabel. <aac>But are you all really, truly okay with it? She is Zoë's twenty-seven-year-old sister.</aac>
+
+"Jordan, look at me," **Aubrie Jean** said softly, taking his hand while **Isabel** and **Zoë** nodded right beside her. "She has taken care of you every single day this week with so much love, she dumped that jerk Alex because she chose this family over him, and we all see the way you two look at each other. If Megan wants in, we are one-hundred-percent ready to welcome her as our coequal in the Pact. The only question is: do *you* want her?"
+
+Jordan looked at the seven women he loved, thinking of Megan's strength, her kindness, and the way she held him every morning. He tapped without a shadow of doubt:
+
+<aac>Yes. Now that I know all of you are ready to include her, I want that very much.</aac>
+
+"Good," Aubrie Jean beamed, kissing his cheek. "Then expanding the Pact for Megan is officially on the table. Now we just give her the space to realize she's already home."
+
+### Scene 4: The Dream of the Future & The Smokin' Anvil
+
+**Date:** 2015-12-05 at 08:30 America/New_York
+
+On **Saturday morning, December 5, 2015**, **Jordan** woke slowly from the most vivid, breathtaking dream of his entire life.
+
+In the dream, he wasn't confined to a basement sofa with stainless-steel wires aching in his breastbone. He was sitting in the sunlit great room of the massive, newly finished family compound, his body healthy, whole, and strong. Surrounding him in a warm, laughing circle were all eight women of his heart—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, and **Megan**—each of them glowing with joy, resting a hand over her own round, pregnant belly while they pored over architectural blueprints for the nursery wing and **Daniel** and **Laura** beamed over crib catalogs. There was no fear, no competition, and no jealousy—only a vast, golden ocean of peace.
+
+Then Jordan opened his eyes.
+
+The dream evaporated, replaced by the dim morning light of the basement and the familiar, dull throb of his healing sternum. A sudden, heavy wave of sorrow washed through his chest—not because he was in pain, but because he had woken up from a future that had felt so achingly real—and a single hot tear spilled down his cheek onto the pillow.
+
+"Hey..." a soft voice whispered right beside him.
+
+**Aubrie Jean**, who had been spooning carefully along his right side, shifted up onto her elbow and gently brushed the tear from his cheek with her thumb. "Jordan? What's wrong, sweetheart? Is your chest hurting?"
+
+Turning his head on the pillow to meet her hazel eyes, Jordan tapped softly on his **mPad**:
+
+<aac>I just had the most incredible dream, Aubrie. We were in the new house, and my chest was healed, and all of you—you, Madi, Zoë, Lauren, Sarah, Jessica, Isabel, and even Megan—were pregnant at the same time. Everyone was laughing and picking out cribs with Mom and Dad, and there was zero jealousy. I was just sad when I woke up and realized it was only a dream.</aac>
+
+Aubrie Jean's heart swelled until she felt like she was floating. Leaning down, she kissed his damp cheek with a radiant, tearful smile.
+
+"Oh, Jordan, don't be sad," Aubrie Jean whispered, her voice ringing with absolute certainty. "Don't you see? That wasn't just a dream—*that's the plan*. Look how far you've come in one year: from a terrified boy in Room 214 who didn't even know how to ask for help, to a man dreaming of building a whole generation of love with all of us. Megan belongs with us, and we're going to build that exact future together. Starting this morning—because Dad and Mom just cleared you for your very first restaurant breakfast outing since the hospital!"
+
+***
+
+At `9:30 AM`, a three-vehicle family convoy pulled out of **414 Geneva Street** bound for Blacksburg—and to help Jordan feel more like an independent adult than a patient in a medical transport van, **Daniel** assigned **Jordan**, **Aubrie Jean**, and **Madison** to ride in **Megan's** four-door sedan while the rest of the household—plus **Isabel**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**—followed in the minivan, Mark's SUV, and Henry's pickup.
+
+With Jordan buckled securely into Megan's front passenger seat holding his red **heart pillow** under the shoulder belt, they cruised north up `U.S. Route 460` toward Blacksburg. Halfway there, **Aubrie Jean** leaned forward from the back seat and rested her chin lightly on the edge of the headrest between them.
+
+"Megan, I just wanted to say again how grateful I am that you're with Jordan every day," Aubrie Jean said, her voice warm and Deliberately open. "Knowing he's with someone he loves and trusts completely puts my mind totally at ease."
+
+"Mine too," **Madison** chimed in warmly from the left rear seat. "You two are really wonderful together, Meg."
+
+Behind the steering wheel, twenty-seven-year-old Megan gripped the leather rim until her knuckles turned white, a hot crimson blush creeping up her neck. She could hear the unmistakable subtext beneath their words: Jordan's two original Safe People weren't just thanking a babysitter—they were trying to give her romantic permission without scaring her off.
+
+"Oh—it's—it's no trouble at all!" Megan stammered, keeping her eyes glued to the highway as her heart did backflips against her ribs. "He's family!"
+
+Five minutes later, they pulled into the bustling parking lot of **`The Smokin' Anvil`**, a beloved local breakfast-and-lunch diner in Blacksburg, where the staff pushed three heavy oak tables together near the back wall to seat all sixteen of them in a loud, happy, protective fortress: Jordan in *S.S. Freedom* at the head of the table flanked by **Aubrie Jean** on his left, **Madison** on his right, **Isabel** beside Aubrie Jean, and **Megan** sitting directly across from him where their eyes kept meeting over the menus.
+
+Savoring his first restaurant meal in three weeks, Jordan ordered scrambled eggs with melted American cheese, crisp turkey bacon, whole-wheat toast, and orange juice, while Daniel, Mark, Henry, and Garrett tackled the towering `"Anvil Slam"` platters and Megan—still eating in quiet solidarity with Jordan's recovery—ordered a fresh fruit and yogurt parfait.
+
+Right in the middle of the meal, as Jordan was tapping out a funny story for Megan and Henry, the brass bell above the diner's front door jangled.
+
+A woman in a tailored dark wool coat stepped up to the hostess counter—and the blood drained instantly from Jordan's face.
+
+His hand froze on his fork. From behind, the woman had the exact height, the exact rigid posture, and the exact dark, shoulder-length hair of **Aubrie Sinclair**.
+
+Jordan's breath caught, his left hand clamping onto Aubrie Jean's fingers beneath the table while across from him, Megan spotted his locked gaze and went immediately on big-sister high alert.
+
+Before Jordan's brain could spiral into a meltdown, the woman at the counter turned her head toward the cashier and spoke: *"Good mornin', sugar! Could I just grab a large hazelnut coffee to go, please?"*—her voice a high, musical Georgia drawl that sounded nothing like his mother's cold Norfolk clip.
+
+It wasn't her. It was just a random stranger passing through town.
+
+Jordan let out a long, steady breath, took a sip of his orange juice, and looked around the long oak table at the fifteen people surrounding him: **Daniel** and **Laura**—his true parents in every way that mattered; **Mark** and **Hannah**; **Henry**, **Garrett**, and **Kelsey**; **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**; and right across from him, **Megan**.
+
+And in that quiet moment over his scrambled eggs, a profound realization settled into Jordan's soul:
+
+*Even if Aubrie Sinclair had walked through that door today, I am not afraid of her anymore. She has zero power over me. Look at the army sitting at my table.*
+
+The old terror simply evaporated, unanchored from his system forever.
+
+Finishing the last bite of his eggs, Jordan turned to **Mark** and tapped a clear, determined question on his **mPad**:
+
+<aac>Mark, I am tired of feeling weak. When can we start our gym workout protocol again so I can get my strength back?</aac>
+
+Mark smiled proudly at his brother, then shook his head gently. "Not the campus gym protocol yet, J—not while your sternum is still fusing. We've got a much better plan waiting for you in Tab 6 of that white binder Zoë's been guarding."
+
+Jordan tilted his head curiously.
+
+"Remember how my uncle went through a bypass?" Mark explained, leaning forward on his elbows. "Next week, a home-health cardiac nurse is going to start coming to Geneva Street to check your incision and vitals—and right after New Year's, once Dr. Hassan clears your six-week sternal X-ray, you start **Outpatient Cardiac Rehab**."
+
+"And as someone who just did her senior nursing rotation through the cardiopulmonary rehab unit," **Isabel** added with a warm, encouraging smile, squeezing Jordan's arm, "you are going to love it, Jordan. You go to a specialized medical gym three times a week where cardiac nurses hook you up to wireless EKG telemetry while you walk on the treadmill and rebuild your endurance safely. That's how you're going to get your body back—stronger than ever."
+
+## The Comeback & The Breaking Point
+
+### Scene 1: The Return to Campus & The Walton Hall Presentation
+
+**Date:** 2015-12-09 at 08:00 America/New_York
+
+On **Wednesday morning, December 9, 2015**, the `5:15 AM` alarms didn't just signal another day of basement recovery. Today was **Jordan's** comeback. Today was his **`ENG 102`** final presentation in **Walton Hall**.
+
+Waking in the custom king-sized bed with **Aubrie Jean** curled carefully along his right side, Jordan turned his head on the pillow, wincing slightly at the familiar pull in his healing breastbone, and looked across the room toward the sectional sofa—where twenty-seven-year-old **Megan** was just pushing her hair out of her face and sitting up under her blanket.
+
+A warm, unmistakable rush of happiness spread through Jordan's chest just seeing her there. Even though Megan had insisted on sleeping on the sofa all week so she wouldn't intrude on the Pact's beds, having her in the same room every morning felt completely right.
+
+While **Hannah** and **Lauren** helped Jordan transfer to *S.S. Freedom* and **Aubrie Jean**, **Madison**, and **Isabel** helped him get washed and dressed in a crisp button-down Oxford shirt and sweater vest over his sternal dressing, the basement buzzed with pre-presentation energy.
+
+"You ready for this, J?" **Mark** grinned, giving him a careful, one-armed brotherly hug. "We're going to crush this proposal."
+
+"We'll have the accessible row and the projector queued up before you get there," **Zoë** promised, kissing his cheek alongside **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Madison**, and **Aubrie Jean** before the CPI crew hurried up the stairs to catch their `6:00 AM` bus to campus.
+
+Once the house quieted down, **Megan**—who had taken a paid personal day from her remote logistics job specifically so she could drive Jordan to campus and back—smiled warmly from the kitchenette, where she was already plating scrambled egg whites, whole-wheat toast with jelly, and orange juice for the two of them.
+
+"Breakfast of champions first," Megan said, sitting down beside him at the dining table. "How are the nerves?"
+
+<aac>Nervous,</aac> Jordan tapped on his **mPad**, smiling back at her, <aac>but ready. I am really glad you are the one driving me today, Megan.</aac>
+
+***
+
+At `8:15 AM`, Megan helped Jordan transfer into the front passenger seat of her sedan, positioned his red plush **heart pillow** squarely over his breastbone under the shoulder belt, loaded *S.S. Freedom*'s folding backup transport frame into the trunk, and drove north up `U.S. Route 460` to **Commonwealth Polytechnic Institute**.
+
+Pulling onto the bustling campus with a pre-purchased visitor permit on the dash, Megan hung Jordan's brand-new blue **Virginia Disabled Parking Placard** from her rearview mirror.
+
+Seeing the packed morning student lots around the Academic Mall, Jordan felt his shoulders tense slightly and tapped:
+
+<aac>It is going to be tough finding an open spot this close to nine o'clock.</aac>
+
+"Watch and learn, kiddo," Megan grinned calmly—and right on cue, the white reverse lights of an SUV parked in the front blue-striped accessible space thirty yards from the main sidewalk flashed on. The SUV backed out, and Megan glided her sedan smoothly into the space. "Boom. Front-row VIP parking."
+
+After helping Jordan ease out of the passenger seat into his chair with his heart pillow clutched against his chest, Jordan looked down the network of brick campus walkways and raised his hand to point:
+
+<aac>Okay, to get to the accessible entrance of Walton Hall, we need to go up this path and take the first left past—</aac>
+
+Megan let out a warm, musical laugh, stepping behind his chair and resting her hands on the push grips.
+
+"Jordan, I probably should have mentioned this earlier," Megan teased gently, "but I'm a **CPI alumnus**—Class of 2010! I walked these sidewalks for four years. All you have to do is tell me which building we're going to, and I'll get us there with my eyes closed."
+
+Jordan looked over his shoulder at her in delighted surprise and tapped:
+
+<aac>Walton Hall, please!</aac>
+
+"Walton Hall it is," Megan smiled. "Let's go show them how it's done."
+
+***
+
+Four weeks earlier, **Jordan** had been carried out of **Walton Hall** on a collapsible stair chair in the middle of a massive widowmaker heart attack.
+
+Today, as the automatic glass doors slid open at `8:48 AM` and Megan wheeled him into the warm limestone lobby, he was coming back on his own terms—and waiting right inside the doors were **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** (who had sprinted over from Callahan Hall during her morning break just to watch him present!).
+
+"He's here!" Madison cheered softly as the Pact converged around his chair with careful, loving kisses and one-armed hugs.
+
+At `9:00 AM` sharp, **Dr. Evans** opened the doors to the seminar room.
+
+"Alright, you're up, superstar," Megan said, giving Jordan's shoulders a gentle, grounding squeeze. "I'll be waiting right out here on this lobby bench the second you're finished."
+
+Inside the classroom, their eight-person team presented third.
+
+**Zoë** opened the presentation with razor-sharp precision, displaying the university's outdated disability PDF map on the projection screen and cataloging seventeen factual errors across twelve academic buildings. **Mark** followed, demonstrating a working prototype of a clean, mobile-friendly interactive accessibility database built on existing campus GIS coordinates.
+
+Then it was **Jordan's** turn.
+
+So that Jordan wouldn't have to twist his neck toward the wall screen or let go of his sternal brace, **Hannah** stood quietly at his right elbow holding his **mPad** at eye level while Jordan kept his left arm hugged securely around his red **heart pillow** and triggered his pre-loaded AAC speech blocks for the class:
+
+<aac>An inaccurate accessibility map is not just a clerical mistake—it is a physical wall,</aac> Jordan's clear digital voice echoed across the hushed lecture hall. <aac>When I arrived at CPI in January as a wheelchair user, I spent my first weeks exhausted and lost because the resources I needed were not documented on any official map. Push-button doors were marked on the wrong sides of buildings. Accessible ramps were missing. And in Eleanor Bennett Hall, a keycard elevator that allowed wheelchair users to cut through the building from the first floor to the second-floor terrace without climbing a steep mountain grade was completely left off the map.</aac>
+
+He looked across the rows of his classmates—many of whom had seen the paramedics carry him out of Walton Hall a month ago and were listening in pin-drop silence.
+
+<aac>Our proposal does not ask the university to spend millions of dollars on new concrete. It asks the university to tell disabled students the truth about where the tools to succeed already are. Every student who comes to CPI deserves a map they can trust.</aac>
+
+When the final sentence finished playing, the entire classroom erupted into sustained, heartfelt applause.
+
+At `9:50 AM`, as the class concluded, **Dr. Evans** walked straight over to Jordan's chair, his eyes warm with admiration. "Mr. Fuller, that was extraordinary advocacy," the professor said, shaking Jordan's hand gently. "And just to confirm, your medical accommodation paperwork is completely finalized—this presentation completes your coursework for the semester, and you are cleared to finish your remaining modules remotely from home."
+
+Out in the corridor, the group huddled for a proud, emotional celebration before the `10:00 AM` bell warned that Mark, Hannah, and the Pact had to run to their next lectures across the Mall.
+
+As Jordan watched his friends hurry down the hallway with their backpacks, waving goodbye as the double doors swung shut behind them, the bright adrenaline of his presentation began to ebb—and Megan stepped up behind his chair with a proud smile to take him back to her car.
+
+### Scene 2: The System Crash (The Breaking Point)
+
+**Date:** 2015-12-09 at 10:05 America/New_York
+
+Outside **Walton Hall**, the crisp December air was alive with the mid-morning class change as **Megan** wheeled **Jordan** down the brick walkway to her parked sedan.
+
+Jordan didn't tap a single word on the walk out. The triumphant adrenaline of the **`ENG 102`** presentation was draining rapidly out of his veins, leaving behind a hollow, aching realization that he hadn't prepared for.
+
+Megan unlocked the sedan, helped him execute his careful leg-driven pivot transfer into the front passenger bucket seat, settled his red plush **heart pillow** across his breastbone, and clicked the seatbelt securely over it. After folding his transport frame into the trunk, she slid into the driver's seat, closed her door, and slipped the key into the ignition.
+
+Before turning the key, Megan let out a happy breath and turned to smile at him. "Jordan, you did *so* good in there. I was so proud of you watching through the doorway."
+
+Jordan wasn't looking at her.
+
+He was staring straight through the windshield at the wide brick plaza in front of **Walton Hall**—watching hundreds of nineteen- and twenty-year-old students laughing in the December sunshine, backpacks slung effortlessly over their shoulders, walking together toward their ten o'clock lectures. Towards **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Mark**, and **Hannah**.
+
+For fifty glorious minutes inside that classroom, he hadn't been a cardiac patient with stainless-steel wires in his chest. He had been a college student again. He had been part of the world he had fought his whole life to reach.
+
+And now, after just fifty minutes, he was being exiled back to the quiet basement while everyone else got to stay and live their lives.
+
+Inside Jordan's head, the fragile dam broke.
+
+With a trembling right hand, he struck the keys of his **mPad**, the synthesized voice ringing out in the small cabin of the car:
+
+<aac>I want to go back inside. I want to go to my next class with Aubrie and Madi and Zoë!</aac>
+
+"Oh, Jordan, sweetheart, we can't," Megan said gently, resting a hand toward his arm. "Remember the medical plan? Dr. Hassan and your dad only cleared you for this one fifty-minute class—"
+
+**"NO!"** a raw, guttural roar tore directly from Jordan's vocal cords as he slammed the **mPad** repeat key:
+
+<aac>NO! I WANT TO GO BACK! I DO NOT WANT TO GO BACK TO THE BASEMENT!</aac>
+
+Before Megan could even blink, Jordan plunged into a catastrophic, full-body autistic meltdown inside the cramped front passenger seat of the sedan.
+
+His back arched violently against the bucket seat. His chest heaved as that terrifying, low-frequency guttural keening—the sound Daniel and Zoë had warned her about—ripped from his throat, and both of his arms tensed like steel cables as he began thrashing against the shoulder belt.
+
+Megan's blood turned to ice water in her veins.
+
+*His sternum!* her mind screamed. *He's only three weeks post-op! If he thrashes and pulls with his pectoral muscles like that, he's going to snap his sternal wires or tear his bypass graft right here in this parking lot!*
+
+This wasn't a meltdown she could simply sit beside and wait out. This was a life-threatening surgical emergency—and Aubrie Jean, Madison, Zoë, Isabel, and Daniel were all hundreds of yards away inside locked lecture halls.
+
+*She was completely alone.*
+
+"Jordan, no! Stop! Your chest!" Megan cried out, her voice high with sheer panic as he arched again against the belt. "You have to stop tensing your chest!"
+
+He couldn't hear her; he was completely lost inside the sensory and emotional storm.
+
+Megan had less than three seconds to act. She couldn't grab his torso or hug him around the ribs—that would crush his healing breastbone. She had to immobilize his lower body and redirect the violent muscular contractions away from his sternum *immediately*.
+
+Moving on pure, fierce instinct, twenty-seven-year-old Megan unbuckled her seatbelt, threw herself across the center console of the sedan, and **straddled Jordan's lap**—planting her knees on either side of his thighs on the bucket seat and using her own body weight to pin his hips and legs firmly in place while keeping a full six inches of open air in front of his bandaged chest and heart pillow!
+
+"JORDAN! LISTEN TO MY VOICE!" Megan commanded fiercely, her face three inches from his as she clamped her hands onto the outer caps of his shoulders, pressing straight back into the padded seat cushion to keep his upper back flat without touching his breastbone. "You are safe, Jordan, but you are going to tear your chest open! You MUST stop pulling with your arms!"
+
+Letting go of his shoulders, she peeled his white-knuckled fingers off the edges of the heart pillow and locked both of her hands around his palms.
+
+"Squeeze my hands, Jordan! Squeeze *my* hands right now!" she shouted through her own tears, driving all of her strength into his grip so his forearm flexors took the load instead of his chest. "Put all of it into my hands—not your chest! Focus on my hands! I've got you! I am right here and I am not letting go!"
+
+For thirty terrifying seconds that felt like thirty years, Jordan thrashed and keened beneath her, his fingers crushing her knuckles with bruising force as Megan held on with everything she had—her legs anchoring his lap, her hands absorbing the storm, her voice a relentless, loving lighthouse cutting through the dark:
+
+*"I've got you, Jordan... squeeze my hands... your chest is safe... I'm right here... you are not alone... I've got you..."*
+
+Slowly—agonizingly—the violent muscular rigidity began to break.
+
+The arching stopped. The terrifying low-frequency roar in his chest dissolved into a ragged, hitching, heartbroken sob as the storm finally receded, leaving his body limp and trembling against the seat back.
+
+He was back. And his sternum was safe.
+
+Shaking so hard from the adrenaline dump that she could barely breathe, Megan didn't climb off his lap. Still straddling his thighs with his heart pillow safely between them, she simply collapsed forward, resting her forehead and cheek against the uninjured side of his neck and wrapping her arms carefully around his shoulders as her own hot tears of terror and relief soaked into the collar of his shirt while he wept into her hair.
+
+"It's okay," Megan sobbed softly against his neck, holding him tightly. "You're okay, Jordan. You didn't pop anything. I've got you, and I'm not letting go."
+
+She had done it—all by herself. When the storm threatened to tear his healing heart apart, she hadn't frozen and she hadn't run. She had climbed straight into the lightning to shield him with her own body.
+
+And in that small parked car outside Walton Hall, twenty-seven-year-old **Megan Brooks** became one of **Jordan's** **Safe People**.
+
+### Scene 3: The New Safe Person & The Solo Corporate Mixer
+
+**Date:** 2015-12-09 at 11:30 America/New_York
+
+The twenty-minute drive down `U.S. Route 460` from Blacksburg back to **414 Geneva Street** passed in a heavy, exhausted quiet.
+
+Behind the wheel, **Megan** kept both hands on the leather rim as the last tremors of adrenaline slowly ebbed from her veins. Beside her, clutching his red **heart pillow** to his chest, **Jordan** stared out the passenger window—bone-tired and mortified that he had lost control in the car, yet feeling a profound, brand-new anchor in his soul.
+
+*She didn't yell at me. She didn't panic and abandon me. She climbed right onto my lap, took all my strength into her hands, and saved my chest.*
+
+When they pulled into the driveway on Geneva Street, Megan didn't say a word—she simply helped him transfer into his wheelchair with gentle, unhurried care, wheeled him down the paved walk-out path to the basement patio doors, and brought him back inside the quiet sanctuary.
+
+Inside the empty basement, Jordan braked *S.S. Freedom* in the center of the rug, his hands still trembling slightly from the aftershocks. Looking up at Megan with shining, tear-bright green eyes, he didn't just want a caregiver anymore. He wanted *her*.
+
+He tapped softly on his **mPad**:
+
+<aac>Megan, can we cuddle on the sofa for a while? Please?</aac>
+
+Megan's expression melted instantaneously into pure tenderness. "Of course we can, Jordan."
+
+Helping him transfer onto the deep cushions of the sectional sofa so he could lie back comfortably, Megan sat down at the end of the sofa and guided his head onto her lap just as she had on their very first morning together. Immediately, Jordan turned slightly on his side, wrapped his right arm warmly around her waist, and pressed his face against her sweater as she stroked her fingers gently through his hair.
+
+For a long time, neither of them spoke. Then Jordan raised his left hand to his **mPad** resting on the cushion beside him and tapped out the truth that was overflowing in his chest:
+
+<aac>What you did in the car today... you are just like them now, Megan. Like Aubrie, and Madi, and Zoë, and Isabel.</aac>
+
+Megan's fingers went completely still in his hair. Her heart gave a sudden, wild, hopeful lurch against her ribs.
+
+<aac>You are one of my autistic safe people now,</aac> Jordan continued, his fingers trembling slightly on the screen as he tried to find the courage to offer her the rest of his heart. <aac>And I mean... with the Pact... you fit with us, Megan. You could join them, if you wanted to...</aac>
+
+He was offering her a place in the Pact.
+
+For three breathless seconds, twenty-seven-year-old Megan stared down at him, every beat of her heart screaming *Yes!*—and then, at the very last millisecond, the final stubborn wall of her eight-year age-gap anxiety slammed down inside her head.
+
+*He's nineteen, and he just had a terrifying meltdown twenty minutes ago,* her frightened inner censor told her. *He's overwhelmed and grateful that you kept him from popping his stitches. Don't take advantage of him when he's vulnerable, Megan. Stay in the safe lane.*
+
+Choosing the safe off-ramp to protect him, Megan resumed stroking his hair, keeping her voice warm, steady, and deliberately sisterly even as her pulse hammered in her throat.
+
+"Shh, it's okay, Jordan," Megan whispered softly, kissing the top of his head. "I know what you mean. I'm part of the family, and I'm so honored to be one of your safe people and help take care of you."
+
+Hearing her default back to the caregiver role, Jordan felt a quiet sting of disappointment—assuming she was gently turning down the romantic part of his offer—and being too exhausted from the meltdown to push, he simply nodded against her side, closed his eyes, and held her waist a little tighter.
+
+***
+
+Two evenings later, on **Friday, December 11, 2015**, the basement was glowing with end-of-semester relief as the CPI crew celebrated finishing the last day of fall classes before exam week, joined by **Isabel**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
+
+While plating a heart-healthy dinner in the kitchenette, **Megan** cleared her throat hesitantly.
+
+"So," Megan said, looking over at the dining table, "tonight is my company's mandatory annual holiday mixer up at the Hotel Roanoke. Since I dumped **Alex** on Thanksgiving night—and since he works in the logistics division—I was honestly dreading going, especially since everyone is allowed to bring a plus-one and I'll be showing up solo."
+
+For a fleeting fraction of a second, Megan's eyes darted involuntarily toward **Jordan** on the sofa. Over the past two weeks, Jordan had become her best friend, her daily work buddy, and the person she wanted to be near more than anyone else in the world. A secret, wistful part of her wished she could bring *him* as her date—before her practical mind immediately reminded her that a loud, crowded, standing-room-only corporate banquet hall—especially where her jerk ex Alex might be lurking—was the absolute worst environment on earth for a nineteen-year-old three weeks out from open-heart surgery who had just had a severe meltdown outside Walton Hall on Wednesday.
+
+"You should still go for an hour, show your face to your directors so you get credit for attending, and show Alex that he didn't chase you out of your own company," **Laura** said firmly from the foot of the stairs, with **Aubrie Jean** and **Isabel** nodding in vigorous agreement.
+
+"And you've been cooped up in this basement taking care of Jordan for two solid weeks, Meg," Aubrie Jean added warmly. "Go put on a killer dress, eat a shrimp cocktail on the company dime, and come home whenever you're ready!"
+
+Jordan smiled warmly at her and tapped on his **mPad**:
+
+<aac>You deserve a night out, Megan. Go show them who is boss, and we will have a movie waiting for you when you get back.</aac>
+
+Encouraged by the entire family, Megan went upstairs, changed into an emerald-green cocktail dress and heels, and drove up to Roanoke for the mixer.
+
+Yet the entire ninety minutes she spent in the glittering ballroom of the Hotel Roanoke—politely ignoring a sheepish Alex from across the room and making small talk with regional vice presidents—Megan realized something profound:
+
+*She didn't want to be at a fancy corporate party. She didn't want to meet some random guy in a suit.*
+
+All she wanted was to be back in the warm, string-lit basement at **414 Geneva Street** with **Jordan** and the **Pact**.
+
+Ducking out of the mixer at `8:45 PM`, Megan drove straight back down `I-81 South` to Christiansburg, kicked off her heels at the top of the stairs, changed into her softest flannel pajamas, and walked down into the basement at `9:30 PM`—where Jordan's face lit up with pure joy the second she walked in, making room for her right beside him and Aubrie Jean on the sofa.
+
+## The Christmas Protocol (Jordan Shawn Kelly)
+
+### Scene 1: The Christmas Night Invitation (Megan Joins the King Bed)
+
+**Date:** 2015-12-25 at 21:30 America/New_York
+
+**Christmas Day—Friday, December 25, 2015—**at **414 Geneva Street** was loud, chaotic, and overflowing with warmth.
+
+Nearly six weeks after his open-heart bypass surgery in Roanoke, **Jordan** was stronger, pink-cheeked, and smiling from ear to ear as the entire extended fortress—**Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**—celebrated around the Christmas tree and shared a magnificent, heart-healthy Christmas dinner.
+
+Better yet, unlike Thanksgiving, there was no stiff, transactional outsider sitting at the edge of the table: ever since **Megan** had handed **Alex** his house key back and slammed the front door in his face four weeks earlier, she had lived and worked full-time at Geneva Street as Jordan's daytime partner-in-crime, best friend, and fierce protector.
+
+By `9:30 PM`, after the extended guests had hugged everyone goodnight and headed home through the frosty December evening, the core household settled down in the walk-out basement sanctuary in their Christmas pajamas.
+
+As bedtime arrived, twenty-seven-year-old **Megan** quietly stood up from the armchair, walked over to the sectional sofa where she had slept every night for the past four weeks, and picked up her folded quilt and pillow—still stubbornly clinging to the last fragile thread of her "older sister" boundary so she wouldn't intrude on the Pact's beds.
+
+Coming out of the accessible bathroom after brushing her teeth, **Aubrie Jean** stopped, looked at Megan holding her sofa pillow, and then exchanged a single, silent, unanimous nod with **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**.
+
+"Okay, everybody," Aubrie Jean announced, her voice soft but ringing with gentle authority. "Bedtime."
+
+Walking straight over to the sectional sofa, Aubrie Jean gently took the folded quilt and pillow right out of Megan's hands.
+
+"And tonight, Megan, it's Christmas—so you are *not* sleeping on the sofa. Tonight, you're sleeping in the king bed. With **Jordan**."
+
+Megan's head snapped up, her hazel-brown eyes wide with sudden panic as her heart slammed against her ribs. "Oh, no—I—I can't do that, Aubrie! That's your spot! I'm totally fine on the sofa, really—I don't want to intrude!"
+
+"It's not about the sofa, Meg," **Madison** said gently, sitting down on the edge of the coffee table right in front of her. "It's about *us*. For four straight weeks, you've taken care of Jordan every single day, you saved his sternum in the parking lot at Walton Hall, and you two have been dancing around how much you care about each other. We *want* you with him."
+
+"But—but I can't!" Megan stammered, her cheeks flaming crimson as she glanced over at Jordan, who was sitting up in the center of the king-sized bed watching her with a quiet, hopeful expression. "I'm twenty-seven! He's nineteen! And I'm Zoë's big sister—it wouldn't be appropriate!"
+
+Stepping forward in her flannel pajama pants, **Zoë** adjusted her glasses and fixed her older sister with her sharpest, warmest analytical gaze.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Executing Final_Barrier_Deconstruction for Target(Sister_Megan). Faulty_Premise: "Age_Delta(8_Years) || Sibling_Relation(Self) == Disqualifying_Constraint". 12-25-2015 21:44:12
+```
+
+"Megan, your 'age barrier' logic is mathematically and legally flawed," Zoë stated clearly, holding up her fingers to tick off the variables one by one. "Let's analyze the data. **One:** Jordan is nineteen years old; he is an emancipated, legal consenting adult, a fact established in the Norfolk Circuit Court. **Two:** You are twenty-seven years old; you are also a legal consenting adult. **Three:** Ever since you terminated your relationship with Alex on Thanksgiving for violating your boundaries, you and Jordan have exhibited unmistakable mutual romantic attachment. **Four:** Jordan, for whom you are now a verified **Safe Person**, is offering you comfort and companionship. **Five:** All seven members of the existing Pact are unanimously *insisting* that you take it."
+
+Zoë looked her big sister dead in the eye. "Therefore, the only variable preventing this optimal outcome is your own irrelevant social conditioning. Go get in the bed, Megan."
+
+"She's right, Meg," **Lauren** smiled warmly, with **Sarah**, **Jessica**, and **Isabel** nodding beside her. "That guy Alex was a jerk because he tried to push you into something transactional. Nobody here is pushing you into anything—we're *listening* to what your heart has been wanting for a month."
+
+Megan looked desperately at **Aubrie Jean** one last time. "But Aubrie... I could never take your place."
+
+Aubrie Jean's face radiated pure, unshadowed bliss as she took both of Megan's hands. "You aren't taking my place, Megan—you're *joining* it. We're welcoming you home. This is what the Pact is: we share the love, and there is zero jealousy in this room. Now, are you really going to make Jordan sleep alone on Christmas night?"
+
+Megan looked around the circle of seven young women—seeing zero resentment, zero competition, and nothing but pure, overflowing sisterhood—and then looked over at **Jordan**, who was holding back the corner of the soft down comforter on the right side of the king bed and tapping softly on his **mPad**:
+
+<aac>Please come stay with me tonight, Megan.</aac>
+
+Under the sheer, unstoppable weight of their acceptance, the last wall inside Megan's chest crumbled into dust.
+
+"Okay," Megan whispered, her voice thick with happy tears. "Okay."
+
+Smiling triumphantly, Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel headed over to the neighboring queen beds and clicked off the main lamps. Still trembling slightly with wonder, twenty-seven-year-old Megan walked over and slipped beneath the warm comforter of the king-sized bed.
+
+Immediately, Jordan shifted closer and draped his right arm gently around her waist, pulling her back against him in a warm, non-strenuous, completely safe embrace.
+
+<aac>You are safe here, Megan. Merry Christmas,</aac> he tapped softly before setting his tablet on the nightstand.
+
+Pressing her face into her pillow as his arm held her close, Megan let a few quiet tears of pure relief soak into the cotton. For the first time in years, she was completely, unconditionally home.
+
+***
+
+Long after midnight, while the rest of the basement breathed in deep, rhythmic sleep, neither **Megan** nor **Jordan** had closed their eyes for more than ten minutes.
+
+Lying on her side with Jordan's warm arm draped securely around her waist and his steady heartbeat ticking softly against her back, Megan's mind replayed the past four weeks.
+
+She thought about that cold brass house key **Alex** had tried to force into her palm in the foyer on Thanksgiving night—a demand disguised as a gift, with strings and expectations attached.
+
+And then she thought about what **Jordan** and the **Pact** had given her tonight on Christmas: a warm place in his bed with *zero* demands, *zero* pressure, and total safety, simply because they loved her and wanted her to feel cherished.
+
+In the quiet dark past one in the morning, Megan realized that she didn't care about the eight-year age gap anymore. She didn't care what anyone in the outside world would think. She only cared that she was in love with this extraordinary, gentle, resilient young man—and that he and his entire family loved her back.
+
+She let out a long, contented breath and shifted half an inch closer against his warmth.
+
+Behind her in the dark, Jordan—who had been lying wide awake with his own heart racing with excitement, wishing his sternum were already healed so they could have the full puppy pile and everything that came with it—felt her tiny movement.
+
+Reaching out with one finger in the dark, he tapped his **mPad** at minimum overnight volume (`Volume: 10%`):
+
+<aac>You really cannot sleep either, can you?</aac>
+
+Megan let out a tiny, breathless laugh into her pillow. "No," she whispered back. "My brain won't shut up."
+
+"Mine neither," **Madison's** sleepy voice floated over from the nearest queen bed.
+
+"You doing okay over there, Meg?" **Aubrie Jean** murmured warmly from the next pillow over.
+
+Megan blushed in the dark, smiling from ear to ear. "Yeah, Aubrie. I'm... I'm really, really good. It's just a lot to take in."
+
+<aac>It is a good lot, though,</aac> Jordan tapped softly, tightening his arm around her waist in a reassuring hug.
+
+"Yeah," Megan whispered, covering his hand with hers over her stomach. "It really is."
+
+Ten seconds later, from the queen bed by the desk, a smartphone screen suddenly glowed in the dark, illuminating **Zoë's** glasses.
+
+"The auditory sensors in this room are detecting sustained non-sleep-pattern conversation at `01:18 AM`," Zoë whispered in a bone-dry monotone. "Is the new variable causing a system instability in the king bed?"
+
+"No!" Megan and Jordan's **mPad** answered in simultaneous unison.
+
+"Optimal," Zoë whispered, and her screen went dark again.
+
+Trying desperately not to wake the room, Megan and Jordan both dissolved into quiet, muffled giggles into their pillows—and finally, with her fingers laced through his, Megan let the steady rhythm of Jordan's breathing carry her into the deepest, happiest sleep of her life.
+
+### Scene 2: The Boxing Day Intervention & The First Kiss
+
+**Date:** 2015-12-26 at 09:00 America/New_York
+
+**Saturday morning, December 26, 2015—Boxing Day—**dawned bright, still, and unhurried. With the fall semester officially finished, **Daniel** and **Laura** had left a note upstairs that they were driving over to the new property site to inspect the framing progress on the family compound, leaving the basement sanctuary entirely to the young adults.
+
+**Jordan** was already sitting comfortably on the sectional sofa with a fleece blanket over his knees when **Megan** emerged last from behind the sleeping partition, her cheeks pink with morning shyness.
+
+Sleeping in the king bed with Jordan had felt more natural and right than anything in her twenty-seven years—yet in the bright morning light, a wave of uncertainty fluttered in her stomach (`Was last night just a one-time Christmas gesture?`). Keeping her eyes down, she walked straight into the kitchenette to start a pot of coffee.
+
+"Megan? Can you leave the coffee for a minute and come sit with us?"
+
+It was **Aubrie Jean's** voice.
+
+Megan turned around. Sitting in a deliberate semicircle around Jordan on the sectional sofa and the adjacent armchairs were all seven women of the **Pact**: **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**.
+
+Megan swallowed hard, her pulse jumping. "Am I... in trouble?"
+
+"In trouble?!" Aubrie Jean laughed, a warm, musical sound that filled the room. "Megan, no! Come sit down—we just need to talk to you. Formally."
+
+Nervously smoothing her pajama shirt, Megan sat down on the edge of the armchair opposite Jordan.
+
+"I... I still feel a little shy about last night," Megan admitted softly, looking at her hands in her lap. "About sleeping in the king bed. I know I'm Zoë's twenty-seven-year-old sister, and all of you are in college, and I would never want to make things weird or overstep—"
+
+**Zoë** leaned forward from her seat, her expression calm and resolute.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Executing Formal_Pact_Induction_Protocol for Candidate(Sister_Megan). Vote_Tally(Pact_Nodes 1..7 + Thread 3 / Jordan): 8/8 UNANIMOUS_APPROVAL. 12-26-2015 09:08:14
+```
+
+"Megan, we already established last night that your age-gap premise is invalid," Zoë said clearly. "One: Jordan is nineteen and a legal consenting adult. Two: You are twenty-seven and a legal consenting adult. Three: The existing Pact—which holds one hundred percent of the relational equity in this room—is giving you its unanimous, enthusiastic blessing. Four: Jordan has been in love with you for weeks. Therefore, the eight-year delta is a zero-weight variable."
+
+"What your little sister is saying," **Lauren** grinned, "is that we've been watching the two of you Pine for each other since Thanksgiving week, and we've just been waiting for you to catch up!"
+
+"You belong with us, Megan," **Isabel** added gently, her brown eyes warm with affection. "What you did for Jordan in the car outside Walton Hall proved beyond a shadow of a doubt that you're one of his Safe People."
+
+Megan looked at Aubrie Jean in stunned disbelief. "You mean... all seven of you actually *want* me to join the Pact?"
+
+Instead of answering from across the table, **Aubrie Jean** stood up, walked over to Megan's armchair, took her gently by the hands, and led her over to sit on the sectional sofa right beside **Jordan's** right side.
+
+"You're not an outsider or just a daytime caregiver anymore, Megan—you're one of us now," Aubrie Jean said, her hazel eyes shining with pure joy. "And that means we need to teach you the rules of the Pact. Rule Number One: you are allowed to be romantic with Jordan. One hundred percent. And I don't mean a polite sisterly peck on the cheek—I mean *really* kiss him."
+
+Megan froze, her breath catching in her throat.
+
+Aubrie Jean looked down at Jordan, her face beaming. "Jordan, do you want to kiss Megan?"
+
+Looking at Megan with open, unguarded adoration in his green eyes, Jordan tapped four words on his **mPad**:
+
+<aac>More than anything, Megan.</aac>
+
+"Go on, Meg," **Madison** encouraged softly from Jordan's other side. "We're all right here, and there is zero jealousy in this room."
+
+With her hands trembling slightly, Megan looked into Jordan's warm green eyes. Slowly, she leaned in, and Jordan met her halfway.
+
+At first, their very first romantic kiss was soft, tender, and almost disbelieving—four weeks of unspoken longing, morning hugs, and midnight butterflies finally meeting in the open. Then, as Jordan's right hand came up to cup her cheek, the kiss deepened gently. When they finally parted for air, Megan's cheeks were flushed scarlet and she was completely breathless.
+
+"Okay, that was a very sweet, polite start," Madison teased with a huge grin. "Now stop acting like you're going to get grounded and kiss him like you mean it!"
+
+Bolstered by the joyful laughter and smiles of all seven women around them, Jordan leaned in again—and this time, Megan didn't hold back a single ounce of her heart. Wrapping her arms carefully around his neck so she didn't press on his chest, she kissed him deeply, passionately, and completely—an explicitly romantic, lingering kiss that left zero doubt in the universe.
+
+When they finally broke apart, Megan looked around the semicircle of seven women—braced by twenty-seven years of conventional social conditioning for at least one flicker of jealousy or hurt.
+
+There was none. **Aubrie Jean** was beaming from ear to ear. **Zoë** gave her big sister a proud, validating nod. **Madison**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** were smiling with pure, uncomplicated happiness.
+
+"See?" Lauren chuckled. "Zero lightning bolts. Just us."
+
+"Now for Rule Number Two—the one with a temporary medical hold," Aubrie Jean said, sitting back down beside Madison while **Isabel** and **Zoë** nodded.
+
+"What Aubrie means," Madison explained practically, "is that our Pact with Jordan also includes a full sexual relationship—once Dr. Hassan clears his sternum. Jordan has already been intimate with all seven of us, and we all know and celebrate it."
+
+"And as a matter of clinical and logistical responsibility," Zoë added in her crisp, non-judgmental tone, "all seven of us are on **The Shot** (`Depo-Vanguard 150`) through New River Valley Women's Health so we can enjoy full intimacy with Jordan without risking an unplanned pregnancy before our education and the family compound are complete."
+
+"Right now, strenuous intimacy is one-hundred-percent off the table for *all* of us until his six-week sternal check-up clears him," Isabel said, smiling warmly at Megan. "So if you want to call the clinic on Monday morning to get started on birth control, the timing will work out right when he's cleared for Cardiac Rehab."
+
+*Okay,* Megan thought, her mind crystal-clear and soaring with happiness as tears of joy spilled down her cheeks. *I'm calling my OB/GYN first thing Monday morning.*
+
+To show Megan how their world worked in practice, **Aubrie Jean** leaned in and gave Jordan a deep, passionate kiss of her own—followed in turn by **Madison**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, and finally **Zoë** (`"My data indicates it is my turn,"` Zoë teased with a rare grin before kissing Jordan deeply and giving Megan a proud sisterly nod). Watching her own little sister and six other women kiss the man she loved without a single atom of jealousy shattered the very last wall of Megan's old conditioning forever.
+
+***
+
+"Alright!" Madison clapped her hands together cheerfully. "Now that our Pact is officially complete, I am starving for a real Boxing Day breakfast, and we're all still in our pajamas! Time to get dressed!"
+
+Before Megan could even blink, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** simply stood up in the middle of the basement living room and began changing out of their sleep shirts and pajama shorts into fresh underwear, bras, jeans, and sweaters right out in the open—chatting casually without a trace of self-consciousness.
+
+Megan's jaw dropped slightly as a fresh blush warmed her cheeks: she had heard about the Pact's **No-Privacy Protocol** from Suite 214/216, but seeing how completely natural and comfortable they were with one another in real life was breathtaking.
+
+On the sofa, Jordan carefully pulled his flannel pajama shirt over his head without straining his sternum, then got his feet into his boxers and jeans—before pausing with the waistbands at his knees, unable to stand and pull simultaneously without violating his sternal precautions.
+
+<aac>Okay, I am stuck at the hips,</aac> Jordan tapped with a grin.
+
+Aubrie Jean, who was brushing her hair, paused and smiled warmly at Megan—who was still sitting beside Jordan in her pajamas. "Megan? Since you're right there, do you mind helping your boyfriend with his jeans?"
+
+*Your boyfriend.* The word sent a happy shiver straight down Megan's spine.
+
+"I've got it," Megan smiled. Kneeling on the rug in front of Jordan, she let him rest his hands lightly on her shoulders for balance while she took the waistbands of his boxers and jeans, guiding the denim smoothly up over his hips and fastening the button and zipper—a simple, tender act of domestic partner care.
+
+Standing back up, Megan realized she was the only person in the room still in pajamas, while the other seven women smiled at her with warm, welcoming eyes.
+
+Taking a deep breath, twenty-seven-year-old Megan pulled her pajama top over her head right there in the living room, stepped into clean jeans, and slipped on the fresh sweater Aubrie Jean handed her.
+
+"Welcome to the Pact, Megan," Aubrie Jean beamed, hugging her warmly.
+
+"Alright, since I'm officially the newest roommate," Megan announced with a bright, confident grin, heading toward the kitchenette with **Zoë** right at her heels as sous-chef, "my first official act is cooking a heart-healthy Boxing Day feast for everybody: applesauce-oatmeal pancakes and a huge skillet of spinach egg whites!"
+
+### Scene 3: A Legal Firewall for Jordan & The New Identity (Jordan Shawn Kelly)
+
+**Date:** 2015-12-27 at 19:30 America/New_York
+
+On **Sunday evening, December 27, 2015**, a quiet, reflective calm settled over the walk-out basement sanctuary at **414 Geneva Street**.
+
+While **Daniel** and **Laura** read upstairs by the fireplace and **Mark** and **Hannah** sat together on the wide loveseat across the rug, **Jordan** rested on the sectional sofa surrounded by all eight women of his **Pact**—**Aubrie Jean** on his left, **Megan** cuddled against his right shoulder, **Madison** and **Isabel** at the ends of the sectional, and **Zoë**, **Lauren**, **Sarah**, and **Jessica** gathered on the plush carpet and armchairs around the coffee table.
+
+A movie was playing softly on the screen, but Jordan wasn't watching it. All afternoon, his mind had been replaying the darkest hours at **Star City General Hospital** in Roanoke—lying intubated on the mechanical ventilator in **CVICU Bay 4** while his heart was wired back together—and the terrifying legal vulnerability that had surfaced during the `CP87A` tax notice in October.
+
+Reaching for his **mPad**, Jordan tapped a quiet prompt that cut straight through the movie's dialogue:
+
+<aac>Hey, guys? Can we pause the movie for a minute? I need to talk to all of you about something important.</aac>
+
+Mark immediately hit `Pause` on the remote, and ten pairs of eyes turned toward Jordan.
+
+Taking a slow breath against the dull ache of his healing breastbone, Jordan typed out the question that had been haunting him since Roanoke:
+
+<aac>When I was in the CVICU on the breathing tube after my bypass surgery... if something had gone horribly wrong while I was unconscious, and a life-or-death decision had to be made that went beyond my standard healthcare proxy form... who is still listed on my birth certificate as my legal next-of-kin?</aac>
+
+A cold, heavy silence dropped over the basement like lead.
+
+Everyone in the room knew the answer. It was *her*: **Aubrie Sinclair**.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Analyzing Legal_Vulnerability_Vector(Next_of_Kin_Hierarchy / Code_of_Virginia_54.1-2986). Finding: In absence of a legally recognized spouse, biological parent retains residual statutory standing to contest healthcare proxy instruments in catastrophic ICU scenarios. 12-27-2015 19:34:18
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Thread 3 (Jordan) requires an iron-clad Statutory_Spousal_Firewall. 12-27-2015 19:34:21
+```
+
+"Jordan is right," **Zoë** said, her voice sharp and analytical as she set her laptop aside. "Even with our notarized healthcare power of attorney and the Norfolk protective order, a biological parent remains the statutory next-of-kin tier right below a legal spouse—and his mother has already proven with that fraudulent IRS dependency filing that she will exploit any bureaucratic loophole she can find. To permanently and irrevocably sever Aubrie Sinclair's legal standing forever, Jordan needs a **lawfully married spouse**."
+
+Jordan nodded, his jaw tightening with autistic frustration at the arbitrary limits of statutory law as he tapped on his **mPad**:
+
+<aac>And that is the part that feels so unfair and illogical to me. In my heart, and in our real lives, all eight of you are one-hundred-percent my coequals. If the law allowed it, I would marry every single one of you on the exact same day. I hate that the government only allows one name on a legal marriage license—how could I ever choose just one of you without being unfair to the other seven?</aac>
+
+"It *is* an inefficient and arbitrary statutory limitation," **Aubrie Jean** agreed softly, her own neurodivergent mind hating the rigid legal constraint. "In our house and our Pact, we are all coequals for life."
+
+"We are, and we always will be," **Madison** said—and then, sitting up from her cushion on the right wing of the sofa, Madison looked directly across Jordan's lap at **Aubrie Jean**, her voice ringing with quiet, unshakeable certainty.
+
+"Which is why the name on the legal marriage certificate has to be yours, **Aubrie**."
+
+Aubrie Jean blinked in surprise, her brow furrowing. "Madi, why me immediately? We're all equal partners—"
+
+"Because you were *first*, Aubrie," Madison said, her eyes shining with fierce, protective love as she looked from Aubrie Jean to Jordan. "Think back to that very first night in **Room 214** of Eleanor Bennett Hall. When Jordan arrived on campus after the clerical error, so terrified and traumatized that he was having a meltdown on the floor and couldn't even speak."
+
+Beside Jordan on the sofa, twenty-seven-year-old **Megan** nodded, her voice thick with emotion as she rested her hand over Jordan's. "Madison's right, Aubrie. The rest of us—we're the walls and the roof of this house. *You* are the foundation. It's the only choice that's logical."
+
+"You were the one who climbed onto Bed A and just held him in the dark," **Isabel** added softly, wiping a tear from her cheek as **Lauren**, **Sarah**, **Jessica**, and **Zoë** all nodded in complete agreement. "Before any of the rest of us knew his full story, you showed him the very first unconditional kindness of his entire life. Every single thing we have in this basement tonight grew from the seed you planted that night in Room 214."
+
+Tears spilled down Aubrie Jean's cheeks as she looked around the circle at her seven sisters-in-heart.
+
+Reaching out with both hands, Jordan covered Aubrie Jean's hand on his left and Megan's and Madison's hands on his right, his heart so full he felt like it might burst through his healing chest. He tapped on his **mPad**:
+
+<aac>I love all eight of you with my whole soul. And they are right, Aubrie. When I was lying on that ventilator in Roanoke, I was terrified. If I am ever helpless in a hospital bed like that again, I need you to be the legal firewall standing between our family and her. Will you marry me, Aubrie?</aac>
+
+"Yes!" Aubrie Jean sobbed happily, throwing her arms carefully around his neck and kissing him. "Yes, Jordan, a thousand times yes—as the legal guardian of our whole Pact!"
+
+***
+
+As the happy cheers subsided, however, Jordan looked down at his hands, a sudden shadow of resolve hardening his expression. He tapped firmly on his **mPad**:
+
+<aac>I will marry you, Aubrie—but there is one condition. I refuse to give you my legal last name.</aac>
+
+The room paused, surprised. "Wait—what do you mean, J?" Madison asked gently. "Usually the bride takes the groom's last name."
+
+<aac>I do not care about tradition,</aac> Jordan tapped with fierce, immovable conviction. <aac>My legal birth name is 'Aubrey Jordan Fuller.' 'Aubrey' is the name of the woman who abused me for eighteen years. 'Fuller' is the surname of a biological father who died before I was born and a past in Norfolk that nearly killed me. If I gave Aubrie my surname, she would become 'Aubrie Fuller'—the exact name I am trying to erase from the earth. I want both 'Aubrey' and 'Fuller' dead and buried forever.</aac>
+
+Across the rug on the loveseat, **Mark**—who had been listening quietly with his arm around **Hannah**—leaned forward, a slow, brilliant brotherly smile spreading across his face.
+
+"So don't give her your name, man," Mark said clearly.
+
+Everyone turned to look at him.
+
+"It's 2015, J—it's just courthouse paperwork," Mark said, gesturing between Jordan and Aubrie Jean. "Aubrie Jean doesn't change a single letter of her name—she stays **`Aubrie Jean Kelly`**. And *you* file a legal name-change petition with the Montgomery County Circuit Court, drop `'Aubrey'` and `'Fuller'` into the shredder forever, make **`Jordan`** your legal first name, and take *her* last name: **`Kelly`**!"
+
+Jordan stared at Mark, his breath catching in his throat.
+
+*Jordan Kelly.*
+
+He tested the sound of it inside his mind. It was clean, strong, and completely free of Norfolk—until a small logistical realization made him pause and tap hesitantly:
+
+<aac>Wait... Jordan is currently my middle name. If I drop Aubrey and make Jordan my first name, and take Kelly as my last name... I would just be 'Jordan Kelly.' I would not have a middle name anymore.</aac>
+
+Mark's smile widened, his eyes shining with deep brotherly love as he looked straight at Jordan.
+
+"I've got an extra one, J—if you want it," Mark said softly. "My middle name is **`Shawn`**. And I'd be honored to share it with my brother."
+
+The entire basement went pin-drop silent—including at the top of the interior staircase, where **Daniel** and **Laura** had quietly stepped down to listen with tears in their eyes.
+
+Jordan's hands trembled as he typed the three words onto the screen of his **mPad** and tapped `Speak`:
+
+<aac>Jordan. Shawn. Kelly.</aac>
+
+Shedding the first name of his abuser (`Aubrey`) and the surname of his ghosts (`Fuller`), and taking the middle name of his brother (`Shawn`) and the surname of his bride and foundational Safe Person (`Kelly`).
+
+Looking across the room at Mark with tears streaming freely down his cheeks, Jordan tapped:
+
+<aac>Jordan Shawn Kelly. Yes, Mark. I would be proud to carry your name for the rest of my life.</aac>
+
+A wave of emotional applause and happy tears swept across the room as Mark stepped over and gave Jordan a careful, fierce one-armed brotherly embrace.
+
+Beside Mark, **Hannah** was crying openly, her hands clasped over her heart as she looked from Jordan and Aubrie Jean to her boyfriend Mark.
+
+"You know," Hannah said, her voice watery and glowing with sudden inspiration, "Mark and I have been talking for months about our own future after graduation... and watching the two of you right now, I just had the best idea in the world."
+
+Mark looked at Hannah and grinned, nodding for her to continue.
+
+"You and Aubrie are the foundation of this entire family, Jordan, and Mark and I are right beside you for life," Hannah beamed through her tears. "What if we did it *together*? A **Double Wedding**! Two brides and two grooms standing together at the front of the aisle—Mark and I, and Jordan Shawn Kelly and Aubrie Jean Kelly—exchanging our vows and getting legally married in the exact same ceremony, surrounded by the entire Pact and our whole family!"
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Evaluating Proposal(Hannah: Dual_Matrimonial_Ceremony [Jordan_Shawn_Kelly + Aubrie_Jean_Kelly && Mark_Shawn + Hannah]). Synergistic_Efficiency: 100.0%. Emotional_Resonance: MAXIMUM. 12-27-2015 19:48:55
+```
+
+Every single person in the basement—from Daniel and Laura on the stairs to Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, Isabel, and Megan on the sofa—erupted into an ecstatic, unanimous cheer.
+
+Lying back against the cushions with **Aubrie Jean** holding his left hand, **Megan** holding his right, a healed arterial graft beating steadily behind his breastbone, and a brand-new name waiting for him in the new year, **Jordan Shawn Kelly** looked around at his unstoppable family and smiled.
+
+Fall 2015 had tried to break his heart.
+
+Instead, his family had built him an unbreakable one.
 
