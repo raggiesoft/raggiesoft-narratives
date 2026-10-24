@@ -14125,7 +14125,7 @@ Instead of flying straight through to Sydney, **Daniel** and **Zoë** had delibe
 
 At four-thirty on Wednesday afternoon, the wide-body aircraft touched down at **Singapore Changi Airport (`SIN`)**.
 
-From the moment the cabin attendants brought Jordan's power wheelchair to the aircraft door at **Terminal 3**, Jordan realized why transit engineers around the world spoke of Changi in hushed, reverent tones.
+From the moment **Jessica** carried Jordan out of the First Class cabin and settled him into his waiting power wheelchair at the **Terminal 3** aircraft door, Jordan realized why transit engineers around the world spoke of Changi in hushed, reverent tones.
 
 There were no jarring steel threshold plates on the aerobridge, no echoing concrete tunnels, and no barking security loudspeakers. The wide, sunlit concourse opened into what felt less like an international transit hub and more like a climate-controlled tropical conservatory. Natural daylight filtered through hundreds of automated roof louvers overhead, illuminating lush indoor planters of living ferns, orchids, and palms. The floors were seamlessly flush—transitioning smoothly between whisper-quiet carpeting in the seating lounges and mirror-polished, non-slip stone along the wide primary travel lanes—while the background acoustics were softened by the gentle murmur of an indoor koi pond and cascading water wall.
 
@@ -14402,7 +14402,7 @@ Even before the boarding call was announced, the Australian ground staff and cab
 
 "Mate, Sydney's going to roll out the red carpet for you!" the purser laughed warmly.
 
-Ten minutes later, settled comfortably into his lie-flat suite beside **Aubrie** and **Zoë** as the widebody jet roared down the Changi runway and climbed southward into the equatorial twilight, Jordan watched the altitude display cross thirty-five thousand feet—and then watched the cabin map line cross **`0° 00' Latitude`** into the **Southern Hemisphere** while he drifted off to sleep.
+Ten minutes later—after **Jessica** effortlessly scooped Jordan out of his power chair at the aerobridge door, waved off the terminal aisle chair with a cheerful grin, and carried him straight into his First Class lie-flat suite beside **Aubrie** and **Zoë**—the widebody jet roared down the Changi runway and climbed southward into the equatorial twilight. Jordan watched the altitude display cross thirty-five thousand feet, and then watched the cabin map line cross **`0° 00' Latitude`** into the **Southern Hemisphere** while he drifted off to sleep.
 
 ## Leg 8: Southern Cross Winter, The Red Centre, & Home to Roanoke (Australia)
 
@@ -14646,7 +14646,7 @@ Opening the master itinerary file inside **`NeoEdit`** on his **Pinnacle Vanguar
 > **Timestamp:** `2015-08-01 11:12 ACST`<br>
 > **Directive:** Out of respect for the **Aṉangu** traditional custodians and Indigenous law, all eighteen members of our expedition will strictly honor the request of the Aṉangu elders. No member of our party will set foot on the Uluṟu climb path. We will pay our respects exclusively along the level, accessible base cultural trail and proceed directly to **Gallagher's Roadhouse** in **Petermann**.
 
-"Unanimously approved, Chief Navigator," **Daniel** said warmly, resting a hand on Jordan's shoulder as the aircraft tires touched down on the desert runway at **Red Centre Desert Airport (`AYQ`)**.
+"Unanimously approved, Chief Navigator," **Daniel** said warmly, resting a hand on Jordan's shoulder as the aircraft tires touched down on the desert runway at **Red Centre Desert Airport (`AYQ`)**—where **Jessica** happily carried Jordan off the plane into the bright Outback sunshine and settled him into his power chair on the tarmac.
 
 Waiting outside the single-story bush terminal stood a rugged convoy of three heavy-duty, long-wheelbase four-wheel-drive overland rigs outfitted with steel bullbars, rooftop dual spare tires, high-mount desert air snorkels, and—on the lead vehicle—a custom hydraulic wheelchair platform lift welded onto the rear chassis.
 
@@ -14848,7 +14848,7 @@ Thirty-five hours.
 
 Ten thousand five hundred miles.
 
-Four separate aircraft, four manual aisle-chair transfers, and fifteen time zones.
+Four separate aircraft, fifteen time zones, and eight effortless carries by **Jessica Gallagher**—four onto the planes and four off—without a single airport aisle chair ever coming near him.
 
 On Sunday morning, August 16, in the Northern Territory, **Jordan Fuller** and his seventeen traveling companions had hugged **Bec**, **Callum**, and **Fiona Gallagher** goodbye at **Red Centre Desert Airport (`AYQ`)** with rust-red **Petermann** desert dirt still packed deep into the rubber treads of Jordan's wheelchair tires.
 
@@ -14859,7 +14859,7 @@ From the red heart of Australia, they had executed the longest, most grueling co
 3. **Flight 3 (`LAX ➔ CLT`)**: An overnight transcontinental domestic flight across the width of North America into **Charlotte Douglas International Airport (`CLT`)**.
 4. **Flight 4 (`CLT ➔ ROA`)**: A final fifty-minute regional hop north across the Virginia state line and over the emerald-green ridges of the **Blue Ridge Mountains**, touching down on the runway at **Roanoke-Blacksburg Regional Airport (`ROA`)** at six-twenty-two on the evening of **Monday, August 17, 2015**.
 
-By the time the ground crew at **Roanoke** brought Jordan's 350-pound matte-black power chair up to the forward cabin door of the regional jet and **Daniel** and **Mark** completed the fourth and final aisle-chair transfer of the marathon, Jordan was bone-tired. Every muscle in his shoulders ached from thirty-five hours of cabin altitude, his eyes felt heavy behind his glasses, and his circadian clock still thought it was morning in Sydney.
+By the time the ground crew at **Roanoke** brought Jordan's 350-pound matte-black power chair up to the forward cabin door of the regional jet and **Jessica**—staying true to the promise she had made on Day One at Dulles after Jordan decided he hated the cramped airport aisle chairs—carried him out of the cabin in her arms one final time and settled him gently into his seat while **Daniel** and **Mark** reconnected his battery leads, Jordan was bone-tired. Every muscle in his shoulders ached from thirty-five hours of cabin altitude, his eyes felt heavy behind his glasses, and his circadian clock still thought it was morning in Sydney.
 
 Yet as Jordan powered on his **Pinnacle Vanguard Pro** and gripped his joystick to roll up the inclined jet bridge into the **Gate 4 Arrivals Concourse** at **`ROA`**, his heart was hammering with pure anticipation.
 
