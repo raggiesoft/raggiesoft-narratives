@@ -13074,6 +13074,332 @@ Thirty minutes later, the massive eighteen-person pact was bundled into their re
 
 They pulled out of the driveway and onto the quiet, tree-lined streets of Gander. It was time to leave the sanctuary of the house and head straight into the heart of the town’s history, starting with the North Atlantic Aviation Museum and the steel girder of the Compassion Monument.
 
+### Scene 3: Safe Haven and the Steel Girder
+
+**Date:** 2015-05-24 at 10:00 America/St_Johns
+
+The morning air outside the **North Atlantic Aviation Museum** along the Trans-Canada Highway was brisk and smelled of pine needles and damp granite. As Daniel Brooks lowered the hydraulic ramp of the lead accessible van, Jordan rolled his 350-pound power chair out onto the level asphalt lot, the bright red Lockheed Hudson bomber and Voodoo jet fighter gleaming on the grass beside the building.
+
+Unlike the cramped, historic porch of the Barnes family residence, the museum and the municipal civic sites across Gander had been purposefully designed with level concrete thresholds and wide entryways. Jordan didn't have to wait to be lifted; he drove straight through the automatic doors at the center of the eighteen-person formation, flanked by Lauren, Aubrie, and Arthur and Maeve Barnes.
+
+Inside, Lauren guided him past the vintage transatlantic navigation consoles and early bush-plane engines toward the back gallery: the ***Safe Haven*** exhibit.
+
+Jordan slowed his chair to a crawl, his eyes tracking across the wall-sized photographs, handwritten thank-you letters, and preserved artifacts from September 11, 2001. There were rows of cots set up inside school hallways, hand-lettered pharmacy sign-up sheets written in twelve languages, and snapshots of local residents cooking hundreds of hot meals in church basements.
+
+"Look right there, Jordan," Arthur Barnes said quietly, pointing a weathered finger toward a framed photograph near the center of the display.
+
+In the photo, a line of school buses idled on the tarmac at Gander International Airport under a slate-gray sky. Standing beside the open door of the third bus was a younger Arthur Barnes in a high-visibility vest, lifting a folded manual wheelchair into the luggage bay while a woman leaned on his arm.
+
+"Wait—that's your dad," Madison whispered, leaning over Jordan's shoulder to look closer.
+
+"Every bus driver, schoolteacher, and retired mechanic on the island was out on that tarmac," Arthur replied simply, his Newfoundland lilt soft and unassuming. "There were thirty-eight wide-body jets parked wingtip to wingtip. Six thousand, five hundred and seventy-nine passengers and crew. Half of them didn't speak English, dozens of them needed insulin or heart medication, and quite a few of them used wheelchairs that were still locked in the cargo holds for the first twenty-four hours. Nobody asked what it cost. Nobody asked who was going to sign a form. You see a neighbor who needs a hand getting off a plane, you give them your hand."
+
+Jordan stared at the photograph, his fingers resting motionless on the keys of his **Pinnacle Vanguard Pro**.
+
+Back in Virginia Beach, his biological mother had treated every single accommodation—every ramp, every doctor's appointment, every meal—as an exhausting martyrdom she was forced to endure alone. Here, an entire town of ten thousand people had absorbed nearly seven thousand strangers overnight and treated the logistics not as a tragedy of inconvenience, but as the baseline obligation of being human.
+
+He typed slowly, his neon-green `NeoEdit` terminal reflecting in the glass case holding a twisted, oxidized piece of structural steel donated by the firefighters of New York City.
+
+<aac>They didn't know any of those people,</aac> Jordan wrote, pressing the hotkey so his warm Australian `"Sydney"` voice spoke softly into the quiet gallery. <aac>And they still made room for all of them.</aac>
+
+"And we'd do it again tomorrow morning before breakfast, my son," Maeve Barnes said, resting a warm hand on Jordan's shoulder.
+
+From the museum, the convoy drove five minutes into the center of town and parked outside the **Gander Town Hall**.
+
+Wait-free and completely level with the sidewalk, the plaza in front of the building held the **Compassion Monument**. Mounted atop a massive, nine-thousand-pound block of rough-hewn Newfoundland granite stood a jagged, twelve-foot steel girder recovered from the North Tower of the World Trade Center. Beside it, the **Operation Yellow Ribbon Interpretive Panels** traced how the town's schools, Lions Club, and the **Steele Community Centre** ice rink—turned into a giant walk-in refrigerator to keep donated food and medicine from spoiling—had operated as a single, synchronized relief network.
+
+"Come on, everyone in!" Laura Brooks called out, holding up her digital camera as Liam and Connor Barnes wheeled Jordan directly to the center of the plaza in front of the granite base. "Arthur, Maeve, get right in here beside Jordan and Lauren!"
+
+Nobody pushed Jordan's chair off to the end of the row like an awkward piece of luggage. Instead, the entire Barnes family and the Brooks-Constellation group formed a wide, warm semicircle around him. Aubrie stood on his right with her hand resting over his wrist; Lauren stood on his left next to her parents; Sarah, Jessica, Madison, Zoë, Hannah, and Mark crowded in behind them, laughing as the North Atlantic breeze tugged at their jackets.
+
+Jordan angled his laptop screen slightly toward Arthur and Liam, typing a rapid-fire observation about the structural load-bearing flange of the World Trade Center steel beam that made both Arthur and Daniel Brooks nod in earnest engineering appreciation right as Laura's camera shutter clicked three times in succession.
+
+He had no way of knowing that three months later, in a quiet Virginia courtroom, those exact photographs—a young man in a power chair surrounded by an international extended family at the Compassion Monument, actively engaged and smiling in the crisp Newfoundland sun—would become Exhibit D in the legal dismantling of his mother's guardianship petition. Right now, all he knew was that the wind smelled like salt and spruce, and he was standing at the center of the frame.
+
+### Scene 4: Cobb's Pond, Kitchen Music, and Calling Charlottesville
+
+**Date:** 2015-05-26 at 18:30 America/St_Johns
+
+Daniel Brooks had made one rule clear before the trip ever began: they were not going to treat the world like a checklist to be sprinted through.
+
+For a nervous system like Jordan's—and for Zoë and Aubrie alongside him—rapid-fire sightseeing was a recipe for sensory overload. Instead, they spent a full week in Gander, letting the unhurried rhythm of the island sink into their bones.
+
+On Tuesday afternoon, the sun broke through the high coastal clouds, warming the air to a crisp fifty-five degrees. Rather than cramming into another museum, Lauren led the group to **Cobb's Pond Rotary Park** on the northern edge of town.
+
+Running for over four kilometers around the dark, mirror-calm waters of the pond was a wide, impeccably maintained timber boardwalk built specifically so wheelchairs, strollers, and walkers could roll smoothly through the dense boreal forest of black spruce and balsam fir.
+
+For two hours, Jordan drove his power chair at a leisurely walking pace along the wooden planks, the tires humming softly over the cedar boards. On his left, Sarah and Jessica traded stories with Liam and Connor about the difference between Newfoundland blackflies and Australian bush flies; on his right, Aubrie, Lauren, Madison, and Zoë walked shoulder-to-shoulder with him, pointing out bald eagles wheeling high above the evergreens.
+
+Near the wooden gazebo overlooking the water, Jordan paused his chair and opened a small velvet box tucked into the zippered pouch under his armrest. Inside sat a brass-and-enamel lapel pin shaped like a yellow ribbon intertwined with the twin flags of Newfoundland and the United States—picked up from the aviation museum gift shop two days earlier.
+
+"She's going to love that, J," Aubrie said softly, following his gaze down to the pin. "She never takes her CPI lanyard off during the school year. That's going right on the ribbon."
+
+Jordan smiled, closing the box carefully and tucking it back into his bag as they headed back to the Barnes house for supper.
+
+By six-thirty that evening, the kitchen and dining room of the Barnes family residence were practically glowing with heat and noise. Maeve and Arthur had spent the afternoon boiling a traditional Newfoundland **Jiggs dinner**—salt beef, cabbage, turnip, carrot, and pease pudding simmered in a pudding bag—served alongside pan-fried **toutons** drenched in dark Crosby's molasses. After the plates were cleared, Liam pulled an acoustic guitar from the hall closet while Arthur brought out a button accordion, filling the kitchen with the bright, rhythmic pulse of a traditional island kitchen party.
+
+Once the music wound down into warm conversation and second pots of tea, Jordan tapped the clock icon in the top corner of his `Aura Glade` desktop.
+
+It was `6:30 PM` Newfoundland Daylight Time—which meant it was `5:00 PM` Eastern Daylight Time back in Virginia.
+
+He unlocked his `mPad`, propped it securely on the secondary mount beside his laptop screen, and tapped **Isabel Dawson**'s contact to initiate a live video call.
+
+It rang twice before the screen resolved into a sunlit living room in **Charlottesville, Virginia**.
+
+Isabel was sitting on a wide floral sofa in a soft gray t-shirt, her straight jet-black hair tucked behind her ears and her dark-framed rectangular glasses perched on her nose. Directly beside her in a custom tilt-in-space power wheelchair sat her seventeen-year-old sister **Elana**, her swing-arm `mPad` angled in front of her and her silver-dapple miniature service horse **Stella** resting calmly on a braided rug at her feet, while their seventeen-year-old cousin **Stephen** leaned over the back of his own power chair with a huge grin.
+
+*"Jordan! Aubrie!"* Isabel's face lit up immediately, her cheeks flushing a warm, unmistakable rose pink the second she saw Jordan smiling in the center of the camera frame. *"Oh my gosh, look at all of you! Are you really in Newfoundland right now?!"*
+
+Elana let out a bright, musical vocalization of pure delight—tapping her pneumatic sip-and-puff straw twice so her tablet chimed out, *"Hi Jordan! Hi everybody!"*—while Stephen waved both hands at the screen.
+
+"Hi Isabel! Hi Elana! Hi Stephen!" Aubrie, Madison, Lauren, and Hannah chorused, crowding behind Jordan's chair so everyone could fit into the wide-angle lens.
+
+<aac>Hello from Gander, Isabel, Elana, and Stephen,</aac> Jordan typed, his `"Sydney"` voice carrying clearly into the microphone. <aac>We are in Lauren's parents' kitchen right now. It is 6:30 PM here because Newfoundland has its own half-hour time zone.</aac>
+
+*"A half-hour time zone?"* Stephen laughed through the speaker, his voice warm and eager despite his slight speech impediment. *"Wait, so you guys are living thirty minutes in the future?"*
+
+"Thirty minutes ahead of the mainland and proud of it, my son!" Arthur Barnes boomed cheerfully, leaning down beside Jordan's wheelchair with Maeve right beside him so they could wave at the tablet. "And you must be Isabel! Jordan and the girls haven't stopped talking about how well you looked after them in that dormitory all year. If you ever bring your sister and cousin up to the Rock, you've got a home waiting for you right here in Gander."
+
+Isabel's blush deepened from rose to crimson, her fingers rising to touch the collar of her shirt the exact way they had outside Room 214 on move-out day. *"Thank you so much, Mr. and Mrs. Barnes. It—it was truly my honor. They were the best residents on the entire second floor."*
+
+Jordan reached into his armrest pouch, pulled out the small velvet box, and flipped the lid open right in front of the `mPad` camera so Isabel could see the enamel yellow ribbon lapel pin gleaming against the dark fabric.
+
+<aac>I got this for you at the North Atlantic Aviation Museum,</aac> Jordan said through his speaker, watching her eyes widen behind her glasses. <aac>It is for your lanyard when we get back in August. Because you gave me a safe haven on the first day before I even knew what the words meant.</aac>
+
+For two full seconds, Isabel couldn't speak at all. Her lower lip trembled slightly, her warm brown eyes shining bright under the living room lamp while Aubrie gave Jordan's shoulder a gentle, knowing squeeze.
+
+*"Jordan..."* Isabel whispered, pressing her fingertips over her lips before letting out a soft, breathless laugh. *"I am going to treasure that forever. You keep it safe for me until August, okay?"*
+
+"And where are you guys heading next?" Stephen asked, leaning closer to the camera.
+
+"Saturday night we fly east across the Atlantic to **Reykjavik, Iceland** for a week," Zoë announced, adjusting her glasses with logistical pride. "Where Jordan will officially acquire Transit Smart Card Number One of our international grid collection. And the week after that, we land at Heathrow in **London**."
+
+*"London!"* Isabel beamed, recovering her composure with an excited clap of her hands. *"Wait—Henry is still at the London School of Economics and Commerce until August! Are you going to go see him?"*
+
+<aac>Yes,</aac> Jordan typed immediately, grinning at the camera. <aac>We already promised Henry we are taking the London buses to Holborn to visit him, and we are going to video-call you while we are together.</aac>
+
+*"Promise me you will!"* Isabel said warmly, her cheeks still glowing pink as Elana tapped out a cheerful farewell chime on her tablet. *"Be safe flying across the ocean, Jordan. We miss you all so much!"*
+
+### Scene 5: The Crossroads of the World
+
+**Date:** 2015-05-30 at 19:30 America/St_Johns
+
+On Saturday evening, seven days after they had first touched down on the island, the eighteen travelers rolled back through the sliding glass doors of **Gander International Airport**.
+
+This time, Liam and Connor Barnes had loaded the luggage and muscled Jordan's power chair down the front porch steps of the Barnes house with the practiced ease of a pit crew, refusing to let anyone else touch the frame until it was locked into the van. Now, Arthur and Maeve had obtained visitor gate passes from the station manager—who happened to be Arthur's second cousin—so the entire Barnes family could walk them all the way into the historic **International Departures Lounge**.
+
+As Jordan steered his chair out onto the polished terrazzo floor of the lounge, he felt as though he had rolled straight into a 1958 time capsule.
+
+Before long-range jet airliners could leap across the Atlantic in a single bound, nearly every commercial flight between North America and Europe had been forced to refuel at Gander, earning the remote Newfoundland airfield its famous nickname: *"The Crossroads of the World."* The terminal had been preserved almost exactly as Queen Elizabeth II had opened it in 1959. Floor-to-ceiling plate-glass windows looked out over the dark tarmac; curved mid-century sofas upholstered in vibrant citrus yellow and burnt orange ringed the room; and stretching across the entire seventy-foot wall above the Mezzanine hung Kenneth Lochhead's famous mural, *Flight and Its Allegories*.
+
+"Look at the geometry of that staircase, J," Zoë murmured appreciatively, pointing toward the sweeping, cantilevered white terrazzo stairs rising toward the upper balcony. "Pure mid-century modernist optimism. Back when commercial aviation was treated like an architectural civic temple."
+
+Through the tall glass windows, their aircraft had just taxied up to the gate: a sleek **Nordic Air** Boeing 757-200 painted in deep midnight blue and glacial white, bound nonstop across the North Atlantic to **Keflavík International Airport** in Iceland.
+
+When the gate agent picked up the microphone to announce pre-boarding for passengers requiring assistance, Arthur and Maeve Barnes turned to face Jordan.
+
+There was none of the stiff, formal awkwardness that usually accompanied goodbyes with extended relatives. Arthur dropped straight down to one knee on the 1950s terrazzo floor, bringing himself eye-to-eye with Jordan, and pulled the young man into a fierce, bear-like Newfoundland hug.
+
+"You listen to me now, Jordan," Arthur rumbled against his shoulder. "You've got a whole world waiting out there past that runway. Go see every inch of it. And when you're ready to come back to the Rock, your spot at our kitchen table is yours for life."
+
+Jordan wrapped both arms tightly around Arthur's broad shoulders, holding on for several seconds before Maeve stepped in to kiss his cheek and press a foil-wrapped tin of homemade toutons and molasses into Lauren's carry-on bag *"for the plane."* Liam and Connor bumped fists with Jordan and Mark, and then Lauren hugged her parents and brothers one last time, her auburn hair brushing against her father's flannel collar as she wiped away happy tears.
+
+At the aircraft door, **Jessica Gallagher** stepped forward right on cue.
+
+With a cheerful wink at the wide-eyed Nordic Air flight attendants, the six-foot-three Australian powerhouse scooped Jordan effortlessly out of his power chair while Mark and Daniel handed the battery disconnect tags to the Gander ground crew, who promised to stow the 350-pound frame with white-glove care.
+
+Ten minutes later, Jordan was settled into Seat 2A alongside Aubrie, with Lauren and Zoë across the aisle and Madison and Sarah directly behind them. As the twin Rolls-Royce engines spooled up to a deep, resonant roar and the 757 lifted off from Runway 13 into the darkening North Atlantic sky, the lights of Gander receded like a warm golden ember in the black boreal forest below.
+
+North America was behind them. Five hours ahead lay the volcanic lava fields of Iceland—and the Midnight Sun.
+
+## The Nordic Bridge (Reykjavik)
+
+### Scene 1: Midnight Sun and the Yellow Bus Grid
+
+**Date:** 2015-05-31 at 06:15 Atlantic/Reykjavik
+
+The strangest part of flying northeast across the Atlantic Ocean at the end of May was that night never actually arrived.
+
+Somewhere south of Greenland, at thirty-five thousand feet, Jordan lifted the plastic window shade of Seat 2A by half an inch and blinked in astonishment. According to his laptop clock, it was two-thirty in the morning—yet the sky along the northern horizon was glowing with a surreal, luminous band of pearlescent silver, rose gold, and pale cobalt blue. At sixty-four degrees north latitude, a mere three weeks before the summer solstice, the sun barely dipped below the curve of the earth before rising right back up again.
+
+When the **Nordic Air** Boeing 757 touched down at **Keflavík International Airport** at six-fifteen on Sunday morning, the sun was already shining brightly across a landscape that looked like another planet entirely.
+
+There were no trees. Stretching away from the runway in every direction were vast, prehistoric fields of jagged black basalt lava rock blanketed in thick pillows of silvery-green Arctic moss, with snow-streaked volcanic table mountains rising sharp and clear against the pale blue sky.
+
+Once Jessica carried Jordan up the jetbridge and lowered him into his waiting power chair, the eighteen travelers rolled through the clean glass corridors of the Leifur Eiríksson Terminal and cleared Schengen passport control. As the Icelandic border officer stamped Jordan's brand-new blue United States passport with a crisp *KEFLAVÍK* entry stamp, Jordan stared down at the ink on the page, his chest swelling with quiet pride.
+
+Just inside the arrivals hall, Daniel Brooks called the group into a huddle in front of the public transportation kiosk.
+
+"Alright, team," Daniel announced, rubbing his hands together cheerfully. "In Gander, we used vans because a town of ten thousand people on the edge of the boreal forest doesn't run a municipal bus grid. Starting right here in Iceland—and for every single city we visit across Europe, Asia, and coastal Australia—we have a standing family rule: **if public transportation exists, we are riding it.**"
+
+Zoë's gray eyes practically sparkled behind her glasses, while Jordan's hands flew immediately to his keyboard.
+
+<aac>Wait. Really?</aac> Jordan typed, his `"Sydney"` voice ringing out eagerly. <aac>No private tourist charters?</aac>
+
+"Not a single one," Daniel grinned, pulling a clear zippered plastic collector's lanyard sleeve out of his jacket pocket and clipping it onto the side rail of Jordan's laptop mount. "Every city we visit has its own transit engineering, its own accessibility architecture, and its own smart card. And since you and Zoë are our resident transit nerds, you are officially starting an international smart card collection."
+
+Daniel stepped up to the **Reykjavik Capital Transit** (*`RCT`*, known locally to Icelanders simply as ***Vagninn***—*"The Bus"*) counter and purchased eighteen plastic **`NordicPass`** transit smart cards, each printed with a stylized yellow-and-blue map of the Capital Region bus network. He handed the very first card directly to Jordan.
+
+Jordan turned the crisp plastic **`NordicPass`** over in his fingers before sliding it proudly into the top slot of his clear collector's sleeve: **Card #1 — Reykjavik, Iceland**.
+
+Outside the terminal doors, the sub-arctic morning air hit them like a splash of cold spring water—forty-six degrees Fahrenheit and impossibly pure, without a trace of humidity or exhaust smog. Waiting at the curb bay stood a gleaming, canary-yellow **Reykjavik Capital Transit Route 55** low-floor interurban bus.
+
+The Icelandic driver stepped down from his cab in a heavy knit sweater, smiled warmly at Jordan, and pulled the recessed manual aluminum ramp out from the wide center doors until it rested flush against the concrete curb.
+
+Jordan eased his joystick forward. His tires climbed the yellow-trimmed ramp without a single bump, rolling smoothly into the spacious central wheelchair bay where he backed against the padded rear bulkhead and engaged his electromagnetic brakes. As the rest of the eighteen-person family tapped their `NordicPass` cards against the fare reader and filled the surrounding rows, the driver folded the ramp back into the floor, gave Jordan a crisp thumbs-up, and pulled out onto **Reykjanesbraut** (`Route 41`).
+
+For the next fifty minutes, Jordan sat mesmerized by the panoramic bus windows as `Route 55` cruised northeast along the coast of the Reykjanes Peninsula.
+
+To their left, the dark, cold waters of Faxaflói Bay glittered under the morning sun; to their right, plumes of white geothermal steam vented straight out of cracks in the moss-covered black lava fields. After transferring seamlessly at the **Fjörður** hub in Hafnarfjörður onto the low-floor yellow **Route 1** city trunk bus, they rolled straight into the heart of **Reykjavik**, stepping off near the placid waters of **Lake Tjörnin** just two blocks from the ground-floor Nordic apartments Daniel had booked for the week.
+
+Even after flying overnight across the Atlantic, Jordan didn't feel trapped, exhausted, or isolated. He patted the plastic sleeve holding his new **`NordicPass`** card, breathed in the cold Arctic air, and smiled as his power chair hummed down the level stone sidewalk of his second foreign country.
+
+### Scene 2: Zero Gravity in the Azure Lagoon
+
+**Date:** 2015-06-02 at 13:00 Atlantic/Reykjavik
+
+On Tuesday afternoon, the eighteen travelers rode a lift-equipped regional coach south across the black volcanic lava fields of the **Reykjanes Peninsula** toward a massive, billowing column of white steam rising against the sky.
+
+Nestled directly inside a rugged basin of jagged, moss-crusted basalt lava near Grindavík lay **The Azure Lagoon** (*`Heiðrúnarlón`*)—a sprawling geothermal spa fed by mineral-rich water superheated two thousand meters beneath the earth's crust.
+
+As they rolled down the dramatic basalt-walled pathway carved straight through the ancient lava flow, the air smelled faintly of warm sulfur and clean ocean salt. Inside the modern wooden reception building, the accessibility engineering was completely frictionless. Electronic wristbands unlocked wide, barrier-free changing rooms equipped with roll-in showers, fold-down padded benches, and a piece of equipment Jordan had never seen in his life: a specialized **stainless-steel amphibious water wheelchair** riding on wide, buoyant yellow balloon tires.
+
+Once Mark and Daniel helped Jordan change into his swim trunks and transfer out of his power chair into the stainless-steel water chair, they wheeled him out through the automatic glass doors onto the timber deck.
+
+The temperature contrast was breathtaking. The ambient Icelandic afternoon air was a brisk forty-eight degrees Fahrenheit, whipping their hair in the coastal breeze—yet directly in front of them stretched an enormous, surreal lagoon of glowing, opaque, milky-turquoise water steaming at a constant **one hundred degrees Fahrenheit (`38°C`)**.
+
+Waiting for him at the top of the gently sloped, submerged entry ramp were all six women of his Constellation Pact: **Aubrie**, **Lauren**, **Madison**, **Zoë**, **Sarah**, and **Jessica**.
+
+"Ready for launch, J?" Jessica grinned, standing effortlessly at the bottom of the submerged ramp where the steaming turquoise water lapped against her ribs, while Mark and Daniel guided the amphibious chair down the non-slip incline.
+
+As the water rose over Jordan's ankles, then his knees, and finally his chest, an involuntary gasp escaped his throat.
+
+For eighteen years, cold air had been one of his body's worst enemies. Whenever his skin got chilly, the Cerebral Palsy spasticity in his legs, hips, and lower back would instantly ratchet up into tight, painful knots, locking his joints like rusted springs.
+
+The `100°F` geothermal water hit his legs like liquid sunlight.
+
+Within ten seconds, the deep, penetrating volcanic heat soaked straight through his skin and into the hyper-tonic muscle fibers of his thighs and calves. Once the water chair reached the bottom of the ramp, Jessica and Lauren gently slid their hands beneath his torso and legs, floating him smoothly out of the stainless-steel seat so Mark could wheel the empty chair back up onto the deck.
+
+Then the six girls closed in around him, forming a warm, protective human ring in the steaming milky-blue water.
+
+Aubrie supported his shoulders from behind, letting the back of his head rest against her collarbone; Lauren and Jessica lightly cradled his hips and waist; Madison, Zoë, and Sarah held his hands and forearms as the dense, silica-and-salt-rich water buoyed his body upward.
+
+Jordan's eyes went wide as he looked down at the glowing blue surface.
+
+He wasn't sitting in a frame. He wasn't fighting gravity to keep his spine upright. He wasn't bracing against the constant, exhausting neurological tug-of-war of his own muscles.
+
+For the first time in his entire nineteen years of life, **he was completely weightless**.
+
+"Look at your legs, J," Aubrie whispered against his ear, her voice thick with emotion as she felt the rigid tension in his shoulders dissolve against her chest. "They aren't spasming at all."
+
+It was true. Beneath the milky turquoise surface, his legs were floating loosely, completely uncurled, swaying gently with the warm current of the geothermal vents. Without the crushing downward pull of gravity—and bathed in hundred-degree mineral water—his central nervous system finally stopped firing defensive contraction signals.
+
+"Here, wait—nobody leaves the Azure Lagoon without the silica mask!" Madison laughed, scooping a handful of thick, snow-white geothermal silica mud from one of the wooden tubs anchored along the basalt wall.
+
+With extreme gentleness, Madison smoothed a streak of warm white mineral mud across Jordan's forehead and cheeks before painting matching white stripes across Aubrie's, Lauren's, Zoë's, Sarah's, and Jessica's faces. Across the lagoon, Hannah, Mark, Daniel, Laura, and the six Brooks siblings were doing the exact same thing, looking like a pack of glowing, mud-faced ghosts emerging from the volcanic mist.
+
+Jordan couldn't type on his laptop out here in the water, and for once, he didn't need a single piece of technology to say what he felt.
+
+He let his head tip back against Aubrie's shoulder, looked up past the rising curls of white steam at the jagged black lava cliffs and the bright Icelandic sky, and let out a long, low, resonant vocalization of pure, uninhibited joy—a warm, open sound that made all six women tighten their circle around him, holding him weightless in the heart of the volcano.
+
+### Scene 3: Basalt Columns, Harpa, and the Ten-Thirty Sun
+
+**Date:** 2015-06-04 at 22:30 Atlantic/Reykjavik
+
+By Thursday, Jordan had the **Reykjavik Capital Transit (`Vagninn`)** bus schedule memorized down to the minute.
+
+Every morning and afternoon, the eighteen travelers tapped their **`NordicPass`** cards aboard the bright yellow low-floor **Route 1** and **Route 14** city buses, rolling effortlessly between Reykjavik's neighborhoods without ever needing a car.
+
+That afternoon, they rode `Route 14` up the hill to **Skólavörðuholt**, where the soaring, 244-foot concrete spire of **Hallgrímskirkja** dominated the skyline. Designed to resemble the hexagonal basalt lava columns formed by cooling volcanic rock across Iceland, the church was completely step-free. Jordan drove his power chair up the smooth concrete ramp beside the bronze statue of Leif Erikson, rolled straight through the heavy doors into the luminous white nave, and paused beneath the towering, fifty-two-hundred-pipe Klais organ while Zoë admired the symmetrical acoustic engineering.
+
+Better still, tucked behind the sanctuary was a modern passenger elevator that carried Jordan's chair nearly all the way to the top of the bell tower. Looking out through the high observation windows, Jordan could see the entire capital spread out below like a brightly painted architectural model: rows of corrugated-iron houses painted in cobalt blue, crimson, emerald green, and sunshine yellow, bordered by the steel-blue waters of **Faxaflói Bay** and the snow-dusted volcanic ridge of **Mount Esja**.
+
+From the hilltop church, they rolled down the gently sloping pedestrian shopping street of **Laugavegur**—where shopkeepers had placed small metal threshold ramps over their doorways so wheelchairs could browse the racks of hand-knitted Icelandic *lopapeysa* wool sweaters—all the way down to the Old Harbour waterfront and **Harpa**, Reykjavik's concert hall.
+
+Jordan parked his chair in the center of Harpa's vast atrium, tipping his head back in awe. The entire building was enclosed in a three-dimensional geometric facade of kaleidoscopic glass hexagons modeled once again on crystallized basalt columns, reflecting the harbor water and sky in shifting shards of amber, violet, and sea-green light.
+
+Yet the most surreal moment of all came at ten-thirty that night back at their apartment near Lake Tjörnin.
+
+Even though the heavy Nordic blackout curtains were drawn back, the living room didn't need a single electric lamp turned on. Outside the wide front windows, at **`10:30 PM`** local time, the sun was still hanging above the northwestern horizon over Faxaflói Bay, bathing the quiet streets of Reykjavik in the warm, golden-amber light of a late afternoon that refused to end.
+
+Jordan unlocked his `mPad`—noting that `10:30 PM` in Reykjavik was a very reasonable **`6:30 PM`** in Virginia—and tapped **Isabel Dawson**'s contact for their promised Iceland check-in.
+
+When Isabel answered from the back porch of her parents' house in Charlottesville, the contrast on the screen was immediate: behind her, the Virginia evening was already softening into early summer twilight with crickets chirping in the trees.
+
+*"Hi Jordan! Hi guys!"* Isabel smiled warmly, her glasses catching the porch light before she blinked in confusion at the bright golden sunlight streaming across Jordan's shoulders and illuminating Aubrie, Zoë, Madison, Lauren, Sarah, and Jessica behind him. *"Wait a second... what time is it in Iceland right now?! Why is it brighter where you are than it is in Virginia?!"*
+
+Jordan grinned, turning his wheelchair ninety degrees toward the living room window so the `mPad` camera had a clear view of the sunlit Reykjavik street and the low golden sun glinting off Lake Tjörnin.
+
+<aac>It is 10:30 PM at night here, Isabel,</aac> Jordan typed, his `"Sydney"` voice sounding thoroughly delighted. <aac>In early June, Reykjavik gets almost twenty-one hours of direct daylight and zero hours of true astronomical night. The sun sets just after midnight and comes right back up before three in the morning.</aac>
+
+*"Ten-thirty at night?!"* Isabel gasped, leaning closer to her screen in amazement. *"How on earth do any of you fall asleep?!"*
+
+"Industrial-grade Icelandic blackout curtains," Zoë replied crisply, tapping the thick, triple-lined fabric hanging beside the window frame. "Without them, our circadian rhythms would have thrown an unhandled exception three days ago."
+
+Jordan reached up to the clear plastic collector's sleeve clipped to his laptop mount and held it toward the camera so Isabel could see the yellow-and-blue **`NordicPass`** smart card tucked inside.
+
+<aac>Look, Isabel. Smart Card Number One: Reykjavik Capital Transit,</aac> Jordan said through his speaker. <aac>We have been riding the yellow low-floor city buses everywhere. And on Tuesday, I floated in the 100-degree geothermal water at the Azure Lagoon. My legs didn't spasm once the entire time I was in the water.</aac>
+
+Isabel's expression softened into such deep, unguarded tenderness that her cheeks immediately turned pink. *"Oh, Jordan... I am so happy to hear that. A hundred-degree geothermal lagoon sounds like heaven on your muscles. And look at you—already collecting transit cards across the North Atlantic!"*
+
+"Next stop is **London Heathrow** on Sunday," Aubrie said, resting her chin affectionately on Jordan's shoulder. "And we already texted **Henry**. We're meeting him at the **London School of Economics and Commerce** in Holborn next week!"
+
+*"Yes!"* Isabel's eyes lit up behind her glasses, her voice brimming with excitement. *"Please give Henry the biggest hug from me! Tell him Bennett Hall wasn't the same without him this spring, and make sure you call me when you're with him so I can see his face!"*
+
+<aac>We will call you straight from his campus,</aac> Jordan promised, waving at the camera alongside the girls as Isabel blew a quick, blushing wave back across the ocean.
+
+### Scene 4: The Victorian Grid Briefing
+
+**Date:** 2015-06-06 at 19:00 Atlantic/Reykjavik
+
+On Saturday evening, with their suitcases packed for Sunday morning's three-hour **Nordic Air** flight from Keflavík to **London Heathrow**, Daniel Brooks cleared the dining room table and spread out a large, laminated fold-out map of the **London Transport Authority (`LTA`)** rail and bus network.
+
+Jordan rolled his power chair up to the head of the table, flanked by Zoë, Aubrie, and Mark, while the rest of the family gathered around with mugs of hot chocolate.
+
+"Tomorrow afternoon we land in my and Laura's hometown," Daniel began, tapping his finger against the iconic colored lines crisscrossing the River Thames. "And because Zoë and I grew up three blocks from Carnaby Street in Soho, we need to give everyone an honest engineering briefing on what it takes to navigate London with a 350-pound power chair in **June 2015**."
+
+Jordan leaned forward, his eyes scanning the dense web of Underground stations in Central London.
+
+"Reykjavik is a modern Nordic city where every yellow bus has a ramp and low density," Daniel explained. "London is a two-thousand-year-old metropolis sitting on top of the oldest underground railway system on earth. The first lines of the London Underground opened in **1863**, and the deep-level tube tunnels through Zone 1—stations like *Piccadilly Circus*, *Oxford Circus*, *Covent Garden*, *Holborn*, and the *Victoria Line* platforms—were bored through London clay over a century ago, long before elevators or disability access laws existed."
+
+Zoë pushed her glasses up her nose and pointed to a dashed purple construction line cutting across the center of the map.
+
+"Furthermore," Zoë added, "the new east-west accessible heavy rail tunnel—the **Elizabeth Line**, currently under construction as the *Crossrail* project—is still years away from opening. Right now in 2015, if you go to Tottenham Court Road or Bond Street, it's just cranes and construction hoarding."
+
+She tapped the map legend at the bottom corner, where two different wheelchair symbols were printed: a **white wheelchair icon inside a blue circle**, and a **blue wheelchair icon inside a white circle**.
+
+"Pay close attention to these symbols, J," Zoë said seriously. "On the 2015 LTA Tube map, most stations in Zone 1 have **no wheelchair symbol at all**, which means the only way between the street and the platform is steep escalators and narrow Victorian spiral staircases. Even worse, a **white wheelchair symbol** only means the station is step-free from the *street to the platform*—which still leaves a six-inch vertical step and an eight-inch horizontal gap between the platform edge and the train floor. Only a **blue wheelchair symbol** is truly step-free from the street all the way onto the train."
+
+For a fleeting second, Jordan felt a familiar flicker of old anxiety in his stomach. In a group of eighteen people, would his wheelchair slow everyone down in the middle of one of the busiest capitals in the world?
+
+Daniel immediately caught the micro-expression on Jordan's face and shook his head with a warm, knowing smile.
+
+"Now here is the brilliant part of London's transit engineering," Daniel said, flipping the map over to reveal the **Central London Bus Spider Map**. "While the Victorian tunnels underground are full of stairs, **one hundred percent of London's iconic red double-decker buses** on the surface—every single route across the entire city—are low-floor vehicles equipped with automatic hydraulic wheelchair ramps at the center doors and a dedicated, **free-of-charge** wheelchair bay."
+
+Jordan blinked, looking down at the hundreds of red bus corridors weaving past Westminster, Trafalgar Square, Buckingham Palace, Soho, and Holborn.
+
+<aac>Wait,</aac> Jordan typed rapidly. <aac>Every single red double-decker bus has a hydraulic ramp?</aac>
+
+"Every single one," Daniel confirmed proudly. "And when we get our **`Pearl Cards`**—Smart Card Number Two for your lanyard—tomorrow at Heathrow, wheelchair users ride every red bus in London completely free while everyone else taps in."
+
+Daniel slid his tablet—preloaded with the offline **LTA Step-Free & Bus Spider Maps**—across the wooden table and placed it directly beside Jordan's **Pinnacle Vanguard Pro**.
+
+"Which is why," Daniel said, looking Jordan squarely in the eye, "I am officially appointing you as our **Chief Surface Transit Navigator** for the United Kingdom. Zoë and I could easily tell everyone which bus to take, since we grew up there. But you're an engineering student at CPI who already mastered the Roanoke Express and the Reykjavik grid. Whenever we hit a Victorian Tube station that lacks step-free street-to-train access—whether we're heading to **Buckingham Palace**, visiting **Henry Walsh** at the **London School of Economics and Commerce** in Holborn, or catching our inter-city train from **London Euston** up to **Liverpool**—you are in charge of calling the reroutes."
+
+Jordan looked down at the London bus spider maps on the tablet, then up at Daniel, Zoë, and Aubrie.
+
+Instead of being treated as a passive passenger who had to be routed around like an obstacle, he was being handed the helm of the expedition. His analytical mind was already locking onto the red trunk corridors: **Route 11**, **Route 24**, **Route 38**, **Route 91**, **Route 205**.
+
+Just then, his `mPad` chimed with a text message from **Henry Walsh** in London:
+
+> **From:** Henry Walsh<br>
+> **To:** Jordan Fuller, Aubrie Kelly, Suite 214/216 Group<br>
+> *Still can't believe you lot are actually landing at Heathrow tomorrow!! My last LSEC seminar wraps at 1:00 PM on Tuesday in Holborn. Remember: DO NOT take the Piccadilly or Central Line to Holborn Station—it is 100% stairs and steep escalators! Take the red bus and meet me outside the Old Building on Houghton Street. Can't wait to see you all (and call Isabel together)!! — Henry*
+
+Jordan grinned from ear to ear, his fingers flying across his keyboard as he saved the offline London bus matrices straight to his `Aura Glade` desktop.
+
+<aac>Challenge accepted,</aac> Jordan announced to the room. <aac>London, here we come.</aac>
+
 # Jordan's Court Case
 
 ## The Southern Hemisphere
