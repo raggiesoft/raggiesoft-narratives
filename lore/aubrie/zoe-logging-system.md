@@ -187,7 +187,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
   * **`Node(Reykjavik.Iceland)`** — Leg 2: Accessible geothermal lagoons and Reykjavik sanctuary, Iceland.
   * **`Node(London.Carnaby_Street)`** & **`Node(Liverpool.Merseyside)`** — Leg 3: Brooks family ancestral flat in Soho/Westminster, London, UK, and side trip to Liverpool, Merseyside.
   * **`Node(Tokyo.Japan)`**, **`Node(Osaka.Japan)`**, & **`Node(Seto_Inland_Sea.Ferry_Hoshizora)`** — Leg 4: Tokyo, the Brooks family former neighborhood in Osaka, and the overnight RORO car ferry *Ferry Hoshizora* across the Seto Inland Sea to Beppu.
-  * **`Node(Singapore.Changi_SIN)`** & **`Node(Singapore.Marina_Bay)`** — Leg 5: Singapore Changi Airport, Gardens by the Bay, and Marina Bay accessible family suites (where Zoë discloses her age-3 autism diagnosis in `e004/c008/s003.md`).
+  * **`Node(Singapore.Changi_SIN)`** & **`Node(Singapore.Marina_Bay)`** — Leg 5: Singapore Changi Airport, Marina Bay Botanical Sanctuaries, and Marina Bay accessible family suites (where Zoë discloses her age-3 autism diagnosis in `e004/c027/s002.md`).
   * **`Node(Sydney.Liverpool_NSW)`** — Leg 6: Braithwaite family home in Liverpool / Sydney, NSW, Australia.
   * **`Node(Petermann.Gallagher_Roadhouse)`** — Leg 7: Gallagher’s Roadhouse in the Red Centre near Uluru, Northern Territory, Australia.
 

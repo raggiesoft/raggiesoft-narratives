@@ -10011,15 +10011,15 @@ Thirty seconds later, a second message popped up from **Charlottesville**:
 
 "Right then, everyone—two minutes to London midnight!" Daniel announced in his crisp London accent, handing out warm mugs of spiced mulled apple cider as **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, **Jessica**, **Megan**, **Caleb**, **Chloe**, **Ethan**, **Lucas**, **Owen**, and **Jacob** gathered around the living room.
 
-On the sixty-inch television screen, the camera panned across the dark waters of the River Thames toward the illuminated clock face of **Big Ben** and the towering wheel of the **London Eye**.
+On the sixty-inch television screen, the camera panned across the dark waters of the River Thames toward the illuminated clock face of **The Great Westminster Clock Tower** and the towering rim of **The Thames Millennium Wheel**.
 
 As the final seconds ticked down on the screen, Daniel, Laura, Zoë, Megan, and the Brooks brothers led the room in a booming ten-second countdown.
 
 "*Three... two... one...* **HAPPY NEW YEAR!**"
 
-The deep, resonant *BONG* of Big Ben rang out through the living room speakers—and a split second later, the night sky over London on the television screen erupted.
+The deep, resonant *BONG* of **St. Stephen's Bell** rang out through the living room speakers—and a split second later, the night sky over London on the television screen erupted.
 
-Streaks of incandescent gold shot upward from barges along the Thames and the rim of the London Eye, detonating in massive, symmetrical spheres of crimson, emerald, sapphire, and glittering silver sparks that cascaded down toward the water to a chorus of deep, percussive *booms*.
+Streaks of incandescent gold shot upward from barges along the Thames and the rim of **The Thames Millennium Wheel**, detonating in massive, symmetrical spheres of crimson, emerald, sapphire, and glittering silver sparks that cascaded down toward the water to a chorus of deep, percussive *booms*.
 
 While the rest of the room cheered and clinked their mugs of cider together, Jordan froze in his wheelchair.
 
@@ -12272,7 +12272,7 @@ Today, with a 4.00 freshman year behind him, a passport in his pocket, and a Gau
 
 # Jordan's World Trek
 
-## The Northern Ascent
+## The Northern Ascent (Christiansburg to Gander)
 
 ### Scene 1: The Vanguard Awakes
 
@@ -12970,7 +12970,7 @@ He uncurled his arms from beneath the heavy blankets and reached out. He wrapped
 
 Sandwiched between the two women who had started it all, surrounded by his fiercely protective chosen family on foreign soil, Jordan closed his eyes and let out a long, shuddering sigh of absolute safety. For the first time in his entire life, he was exactly where he belonged.
 
-## The Northern Horizon
+## Safe Haven and the Steel Girder (Gander, Newfoundland)
 
 ### Scene 1: The Gander Morning
 
@@ -13012,7 +13012,7 @@ Jordan let out a shaky breath, the tight knot of anxiety in his chest completely
 
 Jordan immediately booted up his NeoEdit terminal, ready to log the data. <aac>Where are we going?</aac>
 
-"We are going to explore the exact history we talked about on the flight," Lauren explained. "First stop is the North Atlantic Aviation Museum. They have a specific exhibit called 'Safe Haven' that documents everything this town did during the five days the airspace was closed. They actually have a piece of steel from the World Trade Center on display there, donated by the firefighters in New York."
+"We are going to explore the exact history we talked about on the flight," Lauren explained. "First stop is the Gander Transatlantic Aviation Museum. They have a specific exhibit called 'Safe Haven' that documents everything this town did during the five days the airspace was closed. They actually have a piece of steel from the World Trade Center on display there, donated by the firefighters in New York."
 
 Jordan's eyes widened. He hadn't realized the physical history was actually preserved here.
 
@@ -13072,13 +13072,13 @@ He looked at Aubrie, then at Lauren, and gave them a firm nod. He reached out, t
 
 Thirty minutes later, the massive eighteen-person pact was bundled into their rented, accessible passenger vans. The crisp, clean North Atlantic air blasted through the open windows as Daniel Brooks put the lead van in drive.
 
-They pulled out of the driveway and onto the quiet, tree-lined streets of Gander. It was time to leave the sanctuary of the house and head straight into the heart of the town’s history, starting with the North Atlantic Aviation Museum and the steel girder of the Compassion Monument.
+They pulled out of the driveway and onto the quiet, tree-lined streets of Gander. It was time to leave the sanctuary of the house and head straight into the heart of the town’s history, starting with the Gander Transatlantic Aviation Museum and the steel girder of the Compassion Monument.
 
 ### Scene 3: Safe Haven and the Steel Girder
 
 **Date:** 2015-05-24 at 10:00 America/St_Johns
 
-The morning air outside the **North Atlantic Aviation Museum** along the Trans-Canada Highway was brisk and smelled of pine needles and damp granite. As Daniel Brooks lowered the hydraulic ramp of the lead accessible van, Jordan rolled his 350-pound power chair out onto the level asphalt lot, the bright red Vanguard Hudson bomber and Voodoo jet fighter gleaming on the grass beside the building.
+The morning air outside the **Gander Transatlantic Aviation Museum** along the Trans-Canada Highway was brisk and smelled of pine needles and damp granite. As Daniel Brooks lowered the hydraulic ramp of the lead accessible van, Jordan rolled his 350-pound power chair out onto the level asphalt lot, the bright red Vanguard Hudson bomber and Voodoo jet fighter gleaming on the grass beside the building.
 
 Unlike the cramped, historic porch of the Barnes family residence, the museum and the municipal civic sites across Gander had been purposefully designed with level concrete thresholds and wide entryways. Jordan didn't have to wait to be lifted; he drove straight through the automatic doors at the center of the eighteen-person formation, flanked by Lauren, Aubrie, and Arthur and Maeve Barnes.
 
@@ -13116,15 +13116,55 @@ Jordan angled his laptop screen slightly toward Arthur and Liam, typing a rapid-
 
 He had no way of knowing that three months later, in a quiet Virginia courtroom, those exact photographs—a young man in a power chair surrounded by an international extended family at the Compassion Monument, actively engaged and smiling in the crisp Newfoundland sun—would become Exhibit D in the legal dismantling of his mother's guardianship petition. Right now, all he knew was that the wind smelled like salt and spruce, and he was standing at the center of the frame.
 
-### Scene 4: Cobb's Pond, Kitchen Music, and Calling Charlottesville
+## The Easternmost Edge of North America (St. John's & Avalon Eastern Point)
+
+### Scene 1: Iceberg Alley, Beacon Hill, and the Easternmost Lighthouse
+
+**Date:** 2015-05-25 at 13:30 America/St_Johns
+
+On Monday morning, Arthur and Maeve Barnes piled into the two accessible passenger vans alongside the eighteen travelers and led a scenic drive southeast down the **Trans-Canada Highway (`Route 1`)** across the rugged barrens and fjord-cut coastline of the **Avalon Peninsula** to the provincial capital of **St. John's**.
+
+"You can't come all the way to the Rock in late May and not stand on the front porch of the continent," Arthur Barnes had declared over breakfast, packing a cooler of Maeve's homemade partridgeberry scones and thermoses of hot tea into the back of the lead van. "The Greenland icebergs are drifting south down the Labrador Current right now, and the humpbacks are chasing the capelin right into the bays."
+
+By one-thirty in the afternoon, the vans climbed the winding coastal road south of St. John's Harbor and pulled into the cliffside parking area of **Avalon Eastern Point**—situated at **52° 37' West Longitude**, the absolute easternmost point of land in North America.
+
+As Daniel lowered the hydraulic ramp of the lead van, a brisk, salt-drenched gale blowing straight off the North Atlantic greeted Jordan's face. Zipped snugly into his fleece jacket with a knitted Newfoundland wool beanie Maeve had insisted on pulling over his ears, Jordan rolled his 350-pound power chair onto the wide, heavy-timber coastal boardwalk that traced the rocky headland toward the white-and-red-domed **1836 Heritage Lighthouse**.
+
+"Look out there at ten o'clock, Jordan!" **Lauren** called out, her auburn hair whipping in the ocean wind as she pointed past the iron safety railing toward the deep sapphire swells of **Iceberg Alley**.
+
+Half a mile offshore, rising out of the white-capped Atlantic like a sculpted cathedral of glowing turquoise and blinding white marble, drifted a massive, twin-pinnacled tabular iceberg calved from a Greenland glacier ten thousand years ago. Even through the roar of the surf crashing against the dark Precambrian cliffs below the boardwalk, they could hear the low, resonant crackle of ancient compressed ice fizzing into the sea.
+
+Seconds later, a hundred yards to the south of the iceberg, a forty-ton **humpback whale** exploded out of the water in a full-body breach—its white pectoral fins spread wide like wings before it crashed back into the cold Atlantic in a towering geyser of white spray.
+
+"Did you see the size of that whale?!" **Mark** shouted in disbelief, grabbing **Hannah's** hand as **Madison** and **Sarah** cheered against the wind.
+
+Jordan parked his chair beside the wooden interpretive rail between **Aubrie** and **Lauren**, his green eyes wide behind his glasses as he watched a second spout of mist rise from the whale's blowhole. For an Astrophysics major who spent his nights calculating the orbital mechanics of distant stars, realizing that a block of Pleistocene glacier ice and a forty-ton marine mammal were crossing paths right in front of his eyes felt like watching planetary physics in motion.
+
+<aac>If I stretch my right hand over this railing,</aac> Jordan typed into `NeoEdit`, his Australian-accented `"Sydney"` voice cutting clearly through the coastal breeze, <aac>nobody in the United States or Canada is further east than we are right now. There is nothing between my wheelchair and Ireland except two thousand miles of ocean and that iceberg.</aac>
+
+"And for eighteen years, your mother tried to convince you that the world ended at the edge of a driveway in Virginia Beach," **Aubrie** murmured fiercely, leaning her head against Jordan's shoulder and lacing her warm gloved fingers through his left hand. "Look how big your world actually is, J."
+
+From **Avalon Eastern Point**, Arthur guided the vans back through the narrow, colorful streets of downtown **St. John's**—past the steeply terraced rows of wooden Victorian houses painted in vibrant tangerine, canary yellow, cobalt blue, and kelly green known locally as **Jellybean Row**—and up the sweeping crest of **Beacon Hill** overlooking the narrow stone harbor entrance of **The Narrows**.
+
+At the summit stood the crenellated sandstone battlements of the **Marconi Stone Tower**, built in 1897 to commemorate the四-hundredth anniversary of John Cabot's landfall and famous across the engineering world as the exact hilltop where **Guglielmo Marconi** received the first transatlantic wireless telegraph signal—the Morse-code letter **`S`** (*dot-dot-dot*) transmitted across the curvature of the Earth from Cornwall, England, on December 12, 1901.
+
+Inside the accessible ground-floor wireless exhibit of the stone tower, **Zoë**, **Jordan**, and **Daniel** lingered for twenty minutes over the replica spark-gap transmitter and coherer receiver.
+
+"In 1901, the reigning mathematical consensus insisted that electromagnetic waves could only travel in straight lines and would shoot off into space after a hundred miles because of the Earth's curvature," Zoë observed, her gray eyes gleaming behind her glasses as she inspected the schematic diagram beside Jordan's wheelchair. "Marconi didn't know the ionosphere existed yet to bounce the shortwave signal back down—he just ran the experiment anyway and proved the legacy model wrong with three clicks in a telephone earpiece."
+
+<aac>Three clicks across an ocean,</aac> Jordan typed with a quiet smile, looking out through the stone embrasure at the vast grey-blue expanse of the North Atlantic—the exact ocean they would be flying across to **Iceland** and **England** in five days' time. <aac>Sometimes all you need to break a bad rule is one clean signal getting through.</aac>
+
+## Gander Heritage Boardwalk, Kitchen Music, and Calling Charlottesville
+
+### Scene 1: Gander Heritage Boardwalk, Kitchen Music, and Calling Charlottesville
 
 **Date:** 2015-05-26 at 18:30 America/St_Johns
 
 Daniel Brooks had made one rule clear before the trip ever began: they were not going to treat the world like a checklist to be sprinted through.
 
-For a nervous system like Jordan's—and for Zoë and Aubrie alongside him—rapid-fire sightseeing was a recipe for sensory overload. Instead, they spent a full week in Gander, letting the unhurried rhythm of the island sink into their bones.
+For a nervous system like Jordan's—and for Zoë and Aubrie alongside him—rapid-fire sightseeing was a recipe for sensory overload. Instead, they spent a full week in Newfoundland, letting the unhurried rhythm of the island sink into their bones.
 
-On Tuesday afternoon, the sun broke through the high coastal clouds, warming the air to a crisp fifty-five degrees. Rather than cramming into another museum, Lauren led the group to **Cobb's Pond Rotary Park** on the northern edge of town.
+On Tuesday afternoon, the sun broke through the high coastal clouds, warming the air to a crisp fifty-five degrees. Rather than cramming into another museum after Monday's scenic highway drive out to the easternmost cliffs of **St. John's**, Lauren led the group to **Gander Heritage Boardwalk & Pond** on the northern edge of town.
 
 Running for over four kilometers around the dark, mirror-calm waters of the pond was a wide, impeccably maintained timber boardwalk built specifically so wheelchairs, strollers, and walkers could roll smoothly through the dense boreal forest of black spruce and balsam fir.
 
@@ -13164,7 +13204,7 @@ Isabel's blush deepened from rose to crimson, her fingers rising to touch the co
 
 Jordan reached into his armrest pouch, pulled out the small velvet box, and flipped the lid open right in front of the `mPad` camera so Isabel could see the enamel yellow ribbon lapel pin gleaming against the dark fabric.
 
-<aac>I got this for you at the North Atlantic Aviation Museum,</aac> Jordan said through his speaker, watching her eyes widen behind her glasses. <aac>It is for your lanyard when we get back in August. Because you gave me a safe haven on the first day before I even knew what the words meant.</aac>
+<aac>I got this for you at the Gander Transatlantic Aviation Museum,</aac> Jordan said through his speaker, watching her eyes widen behind her glasses. <aac>It is for your lanyard when we get back in August. Because you gave me a safe haven on the first day before I even knew what the words meant.</aac>
 
 For two full seconds, Isabel couldn't speak at all. Her lower lip trembled slightly, her warm brown eyes shining bright under the living room lamp while Aubrie gave Jordan's shoulder a gentle, knowing squeeze.
 
@@ -13180,7 +13220,9 @@ For two full seconds, Isabel couldn't speak at all. Her lower lip trembled sligh
 
 *"Promise me you will!"* Isabel said warmly, her cheeks still glowing pink as Elana tapped out a cheerful farewell chime on her tablet. *"Be safe flying across the ocean, Jordan. We miss you all so much!"*
 
-### Scene 5: The Crossroads of the World
+## The Crossroads of the World (Gander International Departures)
+
+### Scene 1: The Crossroads of the World
 
 **Date:** 2015-05-30 at 19:30 America/St_Johns
 
@@ -13212,7 +13254,7 @@ Ten minutes later, Jordan was settled into Seat 2A alongside Aubrie, with Lauren
 
 North America was behind them. Five hours ahead lay the volcanic lava fields of Iceland—and the Midnight Sun.
 
-## The Nordic Bridge (Reykjavik)
+## Midnight Sun and the Yellow Bus Grid (Keflavík to Reykjavik)
 
 ### Scene 1: Midnight Sun and the Yellow Bus Grid
 
@@ -13254,7 +13296,9 @@ To their left, the dark, cold waters of Faxaflói Bay glittered under the mornin
 
 Even after flying overnight across the Atlantic, Jordan didn't feel trapped, exhausted, or isolated. He patted the plastic sleeve holding his new **`NordicPass`** card, breathed in the cold Arctic air, and smiled as his power chair hummed down the level stone sidewalk of his second foreign country.
 
-### Scene 2: Zero Gravity in the Azure Lagoon
+## Zero Gravity in the Azure Lagoon (Grindavík, Iceland)
+
+### Scene 1: Zero Gravity in the Azure Lagoon
 
 **Date:** 2015-06-02 at 13:00 Atlantic/Reykjavik
 
@@ -13302,7 +13346,49 @@ Jordan couldn't type on his laptop out here in the water, and for once, he didn'
 
 He let his head tip back against Aubrie's shoulder, looked up past the rising curls of white steam at the jagged black lava cliffs and the bright Icelandic sky, and let out a long, low, resonant vocalization of pure, uninhibited joy—a warm, open sound that made all six women tighten their circle around him, holding him weightless in the heart of the volcano.
 
-### Scene 3: Basalt Columns, Harpa, and the Ten-Thirty Sun
+## Between Two Continents (The Golden Circle, Iceland)
+
+### Scene 1: The Continental Rift, Strokkur Geyser, and the Golden Cataract
+
+**Date:** 2015-06-03 at 11:00 Atlantic/Reykjavik
+
+On Wednesday morning—one day after floating in the milky-blue geothermal waters of **The Azure Lagoon**—Daniel Brooks chartered a lift-equipped Nordic touring coach to take the eighteen-person family east out of Reykjavik along Iceland's famous **Golden Circle**.
+
+Their first stop, forty-five minutes northeast of the capital, was a place that made both **Jordan** and **Aubrie** sit bolt upright in their seats: **The Rift Valley National Park** (*`Alþingi National Park`*), the only place on Earth where the **Mid-Atlantic Ridge** rises directly above sea level.
+
+As the coach parked at the upper visitor plateau and Jordan rolled off the hydraulic lift onto the wide, step-free timber ramp of the **Alþingi Continental Rift Boardwalk**, he found himself looking straight down into a dramatic, sheer-walled canyon of dark volcanic basalt.
+
+"Wait—let me make sure I'm reading this geological plaque right," **Mark** said, stopping beside the boardwalk railing with **Hannah** and **Madison**. "The cliff wall on our left is the eastern edge of the **North American Tectonic Plate**, and the cliff wall across the valley on our right is the western edge of the **Eurasian Tectonic Plate**?"
+
+"Pulling apart at an average rate of two centimeters per year," **Aubrie** confirmed happily, adjusting her scarf in the crisp forty-eight-degree morning breeze as she walked beside Jordan's right armrest. "Which means right now, on this boardwalk, Jordan isn't in North America *or* Europe. He's driving his wheelchair straight down the seam between two continents."
+
+Jordan eased his joystick forward, rolling down the gently graded wooden gorge pathway flanked by towering walls of fractured black lava stone. Above them, crystal-clear glacial meltwater tumbled over the black basalt ledge of the **Öxarárfoss** waterfall, while below them stood the green river plain where Iceland's Viking-age parliament—the **Alþingi**—had convened in the open air every summer starting in the year `930 AD`.
+
+<aac>Last week in Newfoundland, we stood on the easternmost edge of the North American plate,</aac> Jordan typed into `NeoEdit`, pausing his chair on the timber viewing bridge so Laura could snap a photograph of him framed between the two continental cliffs. <aac>Today I am rolling across the tectonic boundary line into Eurasia. As an Astrophysics major, I officially approve of planetary geology you can drive a wheelchair through.</aac>
+
+From the rift valley, the coach continued thirty minutes east into the steaming volcanic valley of **Haukadalur Geyser Basin**.
+
+The entire geothermal field smelled unmistakably of sulfur and hot wet stone. Wide, compacted gravel-and-boardwalk paths wound past bubbling turquoise mud pots and fumaroles venting ribbons of white steam into the cool Nordic air. At the center of the accessible viewing ring sat **Strokkur**—a hyperactive fountain geyser surrounded by a wet sinter basin.
+
+"Watch the surface of the water pool right in the middle, J," **Jessica** said, standing behind Jordan's chair alongside **Sarah** and **Lauren**. "Right before it blows, the boiling water domes up like a giant blue glass bubble."
+
+Thirty seconds later, the turquoise water inside the rock vent surged upward into a hemispherical dome—and then exploded with a deep, subterranean *WHOOSH*, firing a column of boiling water and white steam nearly a hundred feet straight into the cobalt-blue Icelandic sky.
+
+A collective gasp and cheer went up around the ring. Jordan felt the low-frequency thump of the hydrothermal eruption vibrate right through the footplates of his 350-pound power chair, a huge grin spreading across his face as a fine, warm mist drifted harmlessly across the upwind boardwalk.
+
+Twenty minutes further up the road lay the grand finale of the Golden Circle: **The Golden Cataract** (*`Gullfoss`*).
+
+Fed by the glacial meltwaters of the **Hvítá** river flowing down from the Langjökull ice cap, the river plunged over a wide, staircase-like double cascade—dropping thirty-six feet over the upper tier before turning ninety degrees and thundering another seventy feet down into a narrow, sheer-walled volcanic canyon.
+
+Thanks to the wide, step-free upper observation promenade overlooking the canyon rim, Jordan rolled right up to the timber parapet where a permanent rainbow hung suspended inside the rising curtain of glacial spray.
+
+Standing between **Aubrie**, **Zoë**, **Madison**, **Lauren**, **Sarah**, and **Jessica** with the roar of ten thousand cubic feet per second of glacial water filling his digital hearing aids—auto-leveled smoothly by his processor so the thunder felt majestic rather than painful—Jordan looked out across the golden mist.
+
+<aac>Water, fire, ice, and two continents pulling apart,</aac> Jordan's `"Sydney"` voice spoke warmly to the circle around his chair. <aac>No wonder Iceland feels like a brand-new planet still being built.</aac>
+
+## Basalt Columns, the Aurora Glass Hall, and the Ten-Thirty Sun (Reykjavik)
+
+### Scene 1: Basalt Columns, the Aurora Glass Hall, and the Ten-Thirty Sun
 
 **Date:** 2015-06-04 at 22:30 Atlantic/Reykjavik
 
@@ -13310,13 +13396,13 @@ By Thursday, Jordan had the **Reykjavik Capital Transit (`Vagninn`)** bus schedu
 
 Every morning and afternoon, the eighteen travelers tapped their **`NordicPass`** cards aboard the bright yellow low-floor **Route 1** and **Route 14** city buses, rolling effortlessly between Reykjavik's neighborhoods without ever needing a car.
 
-That afternoon, they rode `Route 14` up the hill to **Skólavörðuholt**, where the soaring, 244-foot concrete spire of **Hallgrímskirkja** dominated the skyline. Designed to resemble the hexagonal basalt lava columns formed by cooling volcanic rock across Iceland, the church was completely step-free. Jordan drove his power chair up the smooth concrete ramp beside the bronze statue of Leif Erikson, rolled straight through the heavy doors into the luminous white nave, and paused beneath the towering, fifty-two-hundred-pipe Klais organ while Zoë admired the symmetrical acoustic engineering.
+That afternoon, they rode `Route 14` up the hill to **Skólavörðuholt**, where the soaring, 244-foot concrete spire of the **Skólavörðuholt Basalt Cathedral** (*`Hallgríms Cathedral`*) dominated the skyline. Designed to resemble the hexagonal basalt lava columns formed by cooling volcanic rock across Iceland, the church was completely step-free. Jordan drove his power chair up the smooth concrete ramp beside the bronze statue of Leif Erikson, rolled straight through the heavy doors into the luminous white nave, and paused beneath the towering, fifty-two-hundred-pipe **Nordic Pipe Organ** while Zoë admired the symmetrical acoustic engineering.
 
 Better still, tucked behind the sanctuary was a modern passenger elevator that carried Jordan's chair nearly all the way to the top of the bell tower. Looking out through the high observation windows, Jordan could see the entire capital spread out below like a brightly painted architectural model: rows of corrugated-iron houses painted in cobalt blue, crimson, emerald green, and sunshine yellow, bordered by the steel-blue waters of **Faxaflói Bay** and the snow-dusted volcanic ridge of **Mount Esja**.
 
-From the hilltop church, they rolled down the gently sloping pedestrian shopping street of **Laugavegur**—where shopkeepers had placed small metal threshold ramps over their doorways so wheelchairs could browse the racks of hand-knitted Icelandic *lopapeysa* wool sweaters—all the way down to the Old Harbour waterfront and **Harpa**, Reykjavik's concert hall.
+From the hilltop church, they rolled down the gently sloping pedestrian shopping street of **Laugavegur**—where shopkeepers had placed small metal threshold ramps over their doorways so wheelchairs could browse the racks of hand-knitted Icelandic *lopapeysa* wool sweaters—all the way down to the Old Harbour waterfront and the **Aurora Glass Concert Hall** (*`Norðurljós Hall`*).
 
-Jordan parked his chair in the center of Harpa's vast atrium, tipping his head back in awe. The entire building was enclosed in a three-dimensional geometric facade of kaleidoscopic glass hexagons modeled once again on crystallized basalt columns, reflecting the harbor water and sky in shifting shards of amber, violet, and sea-green light.
+Jordan parked his chair in the center of the concert hall's vast atrium, tipping his head back in awe. The entire building was enclosed in a three-dimensional geometric facade of kaleidoscopic glass hexagons modeled once again on crystallized basalt columns, reflecting the harbor water and sky in shifting shards of amber, violet, and sea-green light.
 
 Yet the most surreal moment of all came at ten-thirty that night back at their apartment near Lake Tjörnin.
 
@@ -13348,7 +13434,9 @@ Isabel's expression softened into such deep, unguarded tenderness that her cheek
 
 <aac>We will call you straight from his campus,</aac> Jordan promised, waving at the camera alongside the girls as Isabel blew a quick, blushing wave back across the ocean.
 
-### Scene 4: The Victorian Grid Briefing
+## The Victorian Grid Briefing (Reykjavik)
+
+### Scene 1: The Victorian Grid Briefing
 
 **Date:** 2015-06-06 at 19:00 Atlantic/Reykjavik
 
@@ -13376,7 +13464,7 @@ Daniel immediately caught the micro-expression on Jordan's face and shook his he
 
 "Now here is the brilliant part of London's transit engineering," Daniel said, flipping the map over to reveal the **Central London Bus Spider Map**. "While the Victorian tunnels underground are full of stairs, **one hundred percent of London's iconic red double-decker buses** on the surface—every single route across the entire city—are low-floor vehicles equipped with automatic hydraulic wheelchair ramps at the center doors and a dedicated, **free-of-charge** wheelchair bay."
 
-Jordan blinked, looking down at the hundreds of red bus corridors weaving past Westminster, Trafalgar Square, Buckingham Palace, Soho, and Holborn.
+Jordan blinked, looking down at the hundreds of red bus corridors weaving past Westminster, Trafalgar Square, St. James's Sovereign Palace, Soho, and Holborn.
 
 <aac>Wait,</aac> Jordan typed rapidly. <aac>Every single red double-decker bus has a hydraulic ramp?</aac>
 
@@ -13384,7 +13472,7 @@ Jordan blinked, looking down at the hundreds of red bus corridors weaving past W
 
 Daniel slid his tablet—preloaded with the offline **LTA Step-Free & Bus Spider Maps**—across the wooden table and placed it directly beside Jordan's **Pinnacle Vanguard Pro**.
 
-"Which is why," Daniel said, looking Jordan squarely in the eye, "I am officially appointing you as our **Chief Surface Transit Navigator** for the United Kingdom. Zoë and I could easily tell everyone which bus to take, since we grew up there. But you're an engineering student at CPI who already mastered the Roanoke Express and the Reykjavik grid. Whenever we hit a Victorian Tube station that lacks step-free street-to-train access—whether we're heading to **Buckingham Palace**, visiting **Henry Walsh** at the **London School of Economics and Commerce** in Holborn, or catching our inter-city train from **London Euston** up to **Liverpool**—you are in charge of calling the reroutes."
+"Which is why," Daniel said, looking Jordan squarely in the eye, "I am officially appointing you as our **Chief Surface Transit Navigator** for the United Kingdom. Zoë and I could easily tell everyone which bus to take, since we grew up there. But you're an engineering student at CPI who already mastered the Roanoke Express and the Reykjavik grid. Whenever we hit a Victorian Tube station that lacks step-free street-to-train access—whether we're heading to **St. James's Sovereign Palace**, visiting **Henry Walsh** at the **London School of Economics and Commerce** in Holborn, or catching our inter-city train from **London Euston** up to **Liverpool**—you are in charge of calling the reroutes."
 
 Jordan looked down at the London bus spider maps on the tablet, then up at Daniel, Zoë, and Aubrie.
 
@@ -13400,7 +13488,7 @@ Jordan grinned from ear to ear, his fingers flying across his keyboard as he sav
 
 <aac>Challenge accepted,</aac> Jordan announced to the room. <aac>London, here we come.</aac>
 
-## The Red Bus Navigator (London)
+## The Heathrow Ambush and the Bloomsbury Negotiation (London)
 
 ### Scene 1: Four Passports, the Green Channel, and the Heathrow Ambush
 
@@ -13408,7 +13496,7 @@ Jordan grinned from ear to ear, his fingers flying across his keyboard as he sav
 
 When the **Nordic Air** PAC 757 banked out of the low English clouds over Windsor Castle and touched down on Runway 27L at **London Heathrow Airport**, Jordan immediately felt the scale of the world shift up by three orders of magnitude.
 
-Keflavík had been quiet, crisp, and volcanic. Heathrow was a sprawling, global aviation megalopolis—double-decker EuroJet A380s and wide-body PAC 777s taxiing past in the liveries of sixty nations. Their aircraft pulled into a gate at the gleaming, wave-roofed expanse of **Terminal 2—*The Queen's Terminal***, which had opened just one year earlier in June 2014.
+Keflavík had been quiet, crisp, and volcanic. Heathrow was a sprawling, global aviation megalopolis—double-decker EuroJet A380s and wide-body PAC 777s taxiing past in the liveries of sixty nations. Their aircraft pulled into a gate at the gleaming, wave-roofed expanse of **Terminal 2—*The Britannia Terminal***, which had opened just one year earlier in June 2014.
 
 Waiting right outside the aircraft door on the level glass jetbridge sat Jordan's 350-pound power chair. Jessica lifted him effortlessly from Seat 2A into his frame, and the eighteen travelers rolled down the wide, step-free arrivals corridor toward **UK Border Force**.
 
@@ -13532,11 +13620,13 @@ Sarah let out a low whistle, grinning as she read the screen over Lauren's shoul
 
 From the open doorway leading to the adjoining flat, Daniel and Laura Brooks had quietly witnessed the entire five-minute exchange. Daniel didn't say a word to interrupt, simply exchanging a quiet, meaningful look with his wife. Three months later, when Aubrie Sinclair's attorney would attempt to claim in a Virginia courtroom that Jordan lacked the cognitive and communicative capacity to manage his own living arrangements, **Ms. Gable** would point directly to Bloomsbury: a nineteen-year-old young man in a foreign capital measuring doorway clearances, negotiating domestic logistics with six partners, and running his own household with total clarity and mutual respect.
 
-### Scene 3: Chief Navigator of the Red Double-Deckers
+## Red Double-Deckers and Carnaby Street (Westminster & Soho, London)
+
+### Scene 1: Chief Navigator of the Red Double-Deckers
 
 **Date:** 2015-06-08 at 10:30 Europe/London
 
-On Monday morning, the eighteen travelers stepped out of their Bloomsbury apartments into the cool, sunlit bustle of Central London, bound for **Buckingham Palace** and **Westminster**.
+On Monday morning, the eighteen travelers stepped out of their Bloomsbury apartments into the cool, sunlit bustle of Central London, bound for **St. James's Sovereign Palace** and **Westminster**.
 
 Out of sheer childhood habit, Zoë's older brothers Caleb and Lucas started walking north up the pavement toward the burgundy terracotta facade of **Russell Square Underground Station** at the end of Bernard Street.
 
@@ -13570,9 +13660,9 @@ Rolling south through the heart of London on the lower deck of a red double-deck
 
 At Trafalgar Square (`Whitehall / Trafalgar Square, Stop N`), Jordan led a textbook three-minute cross-stop transfer onto a red **Route 11** double-decker bus (`11 VICTORIA`).
 
-Their second red bus rolled straight down **Whitehall** past the mounted Horse Guards cavalry in their silver cuirasses and plumed helmets, swung around **Parliament Square** directly beneath the gleaming gold-and-black clock face of **Big Ben** and the gothic spires of the **Palace of Westminster**, and cruised down Victoria Street where Jordan pressed the blue wheelchair-stop bell button right beside his armrest.
+Their second red bus rolled straight down **Whitehall** past the mounted Horse Guards cavalry in their silver cuirasses and plumed helmets, swung around **Parliament Square** directly beneath the gleaming gold-and-black clock face of **The Great Westminster Clock Tower** (*`St. Stephen's Bell`*) and the gothic spires of **Westminster Parliament Palace**, and cruised down Victoria Street where Jordan pressed the blue wheelchair-stop bell button right beside his armrest.
 
-When the hydraulic ramp lowered at **Buckingham Palace Road**, the entire eighteen-person family rolled along the wide, level royal promenade of **The Mall**—shaded by double rows of London plane trees and giant Union Flags—all the way up to the gilded iron gates of **Buckingham Palace** and the gleaming white marble of the **Victoria Memorial**.
+When the hydraulic ramp lowered at **Sovereign Palace Road**, the entire eighteen-person family rolled along the wide, level royal promenade of **The Mall**—shaded by double rows of London plane trees and giant Union Flags—all the way up to the gilded iron gates of **St. James's Sovereign Palace** and the gleaming white marble of **The Sovereign Memorial**.
 
 "Look at the navigator who got eighteen people from Bloomsbury to the Queen's front gate without a single stair," Laura Brooks beamed, snapping a series of family photographs with Jordan front and center before the palace gates—another piece of visual evidence that **Ms. Gable** would later place directly before the judge in Virginia.
 
@@ -13580,7 +13670,7 @@ After lunch at a step-free pub patio near St. James's Park, Daniel looked over a
 
 "Alright, Chief Navigator," Daniel said softly. "What do your spider maps say about getting us up to Regent Street and Soho? It's time we showed you **Carnaby Street**."
 
-### Scene 4: Carnaby Street and the Hollow Square
+### Scene 2: Carnaby Street and the Hollow Square
 
 **Date:** 2015-06-08 at 15:00 Europe/London
 
@@ -13655,7 +13745,9 @@ Jordan typed slowly, letting his `"Sydney"` voice blend softly with the fading s
 
 <aac>They used circuits and cables to build a sanctuary across the ocean,</aac> Jordan said quietly, looking up at Zoë, Aubrie, and Daniel. <aac>Just like you did for me.</aac>
 
-### Scene 5: Houghton Street and the Transatlantic Reunion Call
+## Houghton Street, the Millennium Wheel, and Babbage's Engine (London)
+
+### Scene 1: Houghton Street and the Transatlantic Reunion Call
 
 **Date:** 2015-06-09 at 13:15 Europe/London
 
@@ -13731,7 +13823,47 @@ Isabel narrowed her eyes behind her glasses, folding her arms across her maroon 
 
 *"Hold onto Henry for one more big hug from me before you leave London, okay—even if he IS in the doghouse for not texting me!"* Isabel said warmly, her pretend scowl melting right back into a radiant smile as she waved with both hands. *"Have the best time in Liverpool, guys, and text me the second you touch down in Japan!"*
 
-## The Wrong Liverpool (Merseyside)
+### Scene 2: The Thames Riverbus, the Millennium Wheel, and Babbage's Difference Engine
+
+**Date:** 2015-06-09 at 16:00 Europe/London
+
+After wrapping up their transatlantic video call with **Isabel** from the courtyard of the **London School of Economics and Commerce (`LSEC`)**, **Henry Walsh** slung his canvas bookbag over his shoulder and officially clocked in as their afternoon London companion.
+
+"My seminar readings are done until tomorrow morning," Henry grinned, walking alongside **Mark** and **Jordan** as they rolled south down Savoy Street toward the **Victoria Embankment**. "And since the Chief Navigator already mastered the red double-decker buses yesterday, what do your **`LTA`** maps say about taking the river?"
+
+Jordan's eyes lit up behind his glasses. Pulling up the **London River Services** diagram on his **Pinnacle Vanguard Pro**, he guided the nineteen-person group onto the floating pontoon of **Embankment Pier**.
+
+Tapping their sky-blue **`Pearl Cards`** at the pier reader, they boarded a sleek, high-speed **Thames Riverbus Clipper** catamaran. Unlike the nineteenth-century Underground tunnels beneath the city, every pier and twin-hulled vessel on the Thames Riverbus grid was 100% step-free: the deck crew laid a wide aluminum brow ramp across the gunwale, and Jordan rolled smoothly into the panoramic forward cabin as the boat surged out onto the tidal **River Thames**.
+
+Five minutes later, the catamaran glided across the water to **Waterloo Pier** directly beneath the towering, 443-foot cantilevered white steel rim of **The Thames Millennium Wheel**.
+
+As Jordan rolled up the wide stone riverwalk toward the boarding platform, he tipped his head back and stared up at the thirty-two sealed, ovoid glass passenger capsules rotating slowly above the Thames—and then looked directly across the river at the golden Gothic clock face of **The Great Westminster Clock Tower** (*`St. Stephen's Bell`*).
+
+A sudden, vivid memory flashed across Jordan's mind.
+
+<aac>Wait a second,</aac> Jordan typed into `NeoEdit`, pausing his chair beside **Aubrie**, **Madison**, **Daniel**, and **Laura**. <aac>Five months ago on New Year's Eve in your living room on Geneva Street, this exact wheel and that clock tower across the river were on the television screen when the fireworks launched at midnight—the night I learned what fireworks were.</aac>
+
+Laura Brooks smiled with deep maternal warmth, resting her hand gently on Jordan's shoulder. "And on December 31st, you were watching it on a television screen from four thousand miles away, love. Today you're going right up to the top of it."
+
+When Capsule 14 glided through the boarding deck, the station attendants slowed the wheel's rotation and deployed a flush metal bridge plate. Jordan drove his 350-pound power chair straight into the center of the spacious, air-conditioned glass pod alongside **Henry**, **Daniel**, **Laura**, **Aubrie**, **Zoë**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, and the **Brooks** siblings.
+
+Over the next thirty minutes, as their glass capsule rose four hundred and forty-three feet into the clear June afternoon sky, the entire vast geometry of **London** unfolded in a 360-degree panorama below Jordan's wheels: the gleaming meanders of the Thames, the white dome of St. Paul's Cathedral to the east, the green royal parks stretching past **St. James's Sovereign Palace** to the west, and the intricate rooftop courtyards of **Westminster Parliament Palace** directly below.
+
+From the South Bank, Jordan routed the group aboard a low-floor red **Route 148** and **Route 70** bus link west to Exhibition Road in **South Kensington**, rolling through the step-free glass atrium of **The South Kensington Museum of Science & Computing**.
+
+While Caleb, Lucas, and Owen headed downstairs to inspect the Apollo 10 command module and the historic *Stephenson's Rocket* steam locomotive, **Zoë** and **Daniel** led **Jordan**, **Aubrie**, **Madison**, and **Henry** up the wide passenger lift to the third-floor ***Information Age & Computing Gallery***.
+
+Standing inside a massive glass display case at the center of the hall was a gleaming, five-ton marvel of bronze gears, steel shafts, and precision-milled figure wheels: **Charles Babbage's *Difference Engine No. 2***, built to Babbage's original `1847` mechanical blueprints—accurate to thirty-one digits of polynomial calculation and sitting directly across the gallery from **Alan Turing's `1950` *Pilot ACE*** early electronic stored-program computer.
+
+For fifteen minutes, Jordan and Zoë were completely transfixed.
+
+"Look at the carry-lever tolerances on the bronze figure wheels, J," Zoë murmured in hushed reverence, pointing to the mechanical carry mechanism and the analytical notes written by **Ada Lovelace** displayed in the adjacent case. "In 1843, before electricity or vacuum tubes even existed, Ada Lovelace looked at Babbage's mechanical looms and realized that if you could encode mathematical rules into physical state transitions, a machine could compose music, process symbolic logic, and execute deterministic algorithms without human error."
+
+Jordan looked from the nineteenth-century bronze gears of Babbage's engine down to the glowing, neon-green **`NeoEdit`** terminal running on his **Pinnacle Vanguard Pro**—the modern descendant of those exact bronze shafts and vacuum tubes, giving a non-verbal nineteen-year-old from Virginia a clear, unbreakable voice across the globe.
+
+<aac>Every person in this gallery built a machine to think and speak in new ways,</aac> Jordan typed softly as Aubrie squeezed his hand. <aac>I feel like I am looking at my own family tree.</aac>
+
+## The Wrong Liverpool and the Mersey Four (Merseyside, England)
 
 ### Scene 1: Passenger Assist at London Euston
 
@@ -13779,15 +13911,15 @@ At eleven-twenty-one in the morning, the **Class 390 Tilting Express** glided be
 
 Waiting right on the platform outside Coach G stood a Merseyside station attendant holding the matching yellow aluminum boarding ramp. Within ninety seconds of the train coming to a halt, Jordan rolled smoothly off the carriage onto the level concourse of Lime Street, picked up a regional **`MerseyPass`** transit card at the **Mersey Transit** travel center for his collector's sleeve, and led the eighteen travelers aboard a low-floor city bus down toward the **River Mersey** waterfront.
 
-The bus dropped them off at the **Royal Albert Dock** and **Pier Head**, where the salt wind blowing off the Irish Sea carried the cries of gulls and the deep horn blasts of the **Mersey Ferry**.
+The bus dropped them off at the **Victoria & Albert Maritime Dock** and **Pier Head**, where the salt wind blowing off the Irish Sea carried the cries of gulls and the deep horn blasts of the **Mersey Ferry**.
 
-Surrounding the calm rectangular water basin of the Albert Dock stood the largest group of Grade I listed historic red-brick and cast-iron dock warehouses in Britain—now completely step-free with wide granite colonnades housing museums, galleries, and the tribute exhibition to Liverpool's most famous musical export, **The Mersey Four**. Just north along the level riverfront promenade rose the iconic silhouette of the **Three Graces**, crowned by the twin copper **Liver Birds** perched atop the Royal Liver Building.
+Surrounding the calm rectangular water basin of the **Victoria & Albert Maritime Dock** stood the largest group of Grade I listed historic red-brick and cast-iron dock warehouses in Britain—now completely step-free with wide granite colonnades housing museums, galleries, and **The Mersey Four Story Exhibition**, the tribute to Liverpool's most famous musical export, **The Mersey Four**. Just north along the level riverfront promenade rose the iconic silhouette of the **Three Graces**, crowned by the twin copper **Liver Birds** perched atop **The Mersey Spire Building**.
 
 As they rolled out onto the wide stone plaza at **Pier Head** directly in front of the large **`WELCOME TO LIVERPOOL`** waterfront sign and the bronze statues overlooking the Mersey Ferry terminal, **Mark**, **Madison**, and **Lauren** suddenly stopped and turned toward **Sarah Braithwaite** with matching expressions of solemn, theatrical gravity.
 
 "Well, Sarah," Mark said, placing a hand over his heart as he gestured grandly toward the chilly gray waters of the River Mersey and the English clouds overhead. "After all these months at CPI, we finally made it. Welcome back to your beloved hometown of **Liverpool**."
 
-"Look at the kangaroos swimming across the Mersey," Madison deadpanned, shading her eyes as she peered toward Birkenhead on the opposite bank. "And the eucalyptus trees growing out of the Liver Building. It must feel so good to be back in Australia."
+"Look at the kangaroos swimming across the Mersey," Madison deadpanned, shading her eyes as she peered toward Birkenhead on the opposite bank. "And the eucalyptus trees growing out of the Mersey Spire Building. It must feel so good to be back in Australia."
 
 Sarah looked at the **`WELCOME TO LIVERPOOL`** sign, looked at the chilly sixty-degree English summer wind whipping off the Irish Sea, and burst out laughing—her rich, unmistakable **Sydney Australian** accent ringing out across the plaza.
 
@@ -13807,13 +13939,113 @@ Jordan parked his power chair dead center in front of the sign, with **Sarah** s
 
 "Too right we will, J," Sarah grinned, leaning down to kiss the top of Jordan's head before linking her arm through Lauren's. "Wait until we get to **Liverpool Station** on the Sydney rail grid—I'm buying the whole family meat pies and flat whites!"
 
-### Scene 3: The Eastern Leap from Heathrow
+### Scene 3: The Mersey Four Story and Ferry Cross the Mersey
+
+**Date:** 2015-06-11 at 14:30 Europe/London
+
+After lunch at a waterfront fish-and-chips restaurant overlooking the historic red-brick colonnades of the **Victoria & Albert Maritime Dock**—where Jordan tried crispy battered Atlantic cod and mushy peas with malt vinegar for the first time—Daniel and Laura Brooks led the eighteen travelers down the wide passenger lift into the brick-vaulted cellars of **The Mersey Four Story Exhibition**.
+
+The entire underground museum was completely step-free, winding through immersive, full-scale recreations of late-1950s and 1960s Liverpool: the cramped record-shop listening booths of Whitechapel, the damp brick arches of the subterranean **Mathew Street Cavern**, and the bright, four-track analog studio rooms of London where four working-class lads from Merseyside had rewritten the grammar of popular music forever.
+
+As they rolled through the exhibition with multilingual audio guides clipped to their collars, Jordan noticed how **Daniel** and **Laura Brooks** were walking closer together than usual—Daniel's arm draped warmly around Laura's waist as they hummed along under their breath to the vintage melodies echoing softly through the brick vaults.
+
+"When Laura and I were teenagers growing up in the seventies," Daniel smiled, pausing beside Jordan's wheelchair in front of a glass case displaying a vintage sunburst hollow-body bass guitar and a pair of round wire-rimmed spectacles, "every kid in Britain who picked up a guitar or bought a vinyl single in Soho owed a debt to this city. Liverpool was a bombed-out, post-war industrial port that London's upper-crust establishment used to look down on—until four kids from these exact terraced streets turned Merseyside into the cultural center of the universe."
+
+In the studio engineering gallery, **Jordan**, **Zoë**, and **Aubrie** paused before an authentic 1960s four-track valve mixing console and twin-reel tape machine used to pioneer artificial double-tracking (`ADT`), tape loops, and close-miked orchestral string arrangements.
+
+<aac>Look at the four-track bounce routing diagram on that plaque, Zoë,</aac> Jordan typed into `NeoEdit`, pointing to the schematic showing how studio engineers had synchronized two separate four-track tape machines to create an eight-track master before multi-track consoles existed. <aac>When the hardware hit a physical limit, they didn't give up—they wrote a clever engineering workaround so the music could get bigger.</aac>
+
+"Hardware constraints breeding architectural innovation," Zoë nodded approvingly behind her glasses. "The exact same principle as compiling a custom wireless kernel module on an older magnesium chassis."
+
+At four o'clock that afternoon, emerging back into the brisk sunlight along **Pier Head** beneath the twin copper **Liver Birds** of **The Mersey Spire Building**, Jordan tapped his **`MerseyPass`** at the floating landing stage and led the eighteen-person family aboard the iconic, dazzle-painted **Mersey Ferry** for a fifty-minute river cruise across to the **Wirral Peninsula** and back.
+
+Parked securely on the wide, level open aft deck with the salt wind blowing off the Irish Sea, Jordan sat surrounded by **Sarah**, **Lauren**, **Aubrie**, **Madison**, **Zoë**, **Jessica**, **Hannah**, and **Mark** as the ferry churned out into the broad, sparkling channel of the **River Mersey**.
+
+Behind them, the magnificent waterfront skyline of Liverpool—the **Three Graces**, the red-brick warehouses of the **Victoria & Albert Maritime Dock**, and the towering sandstone mass of the **Liverpool Cathedral** on St. James's Mount—glowed in the late-afternoon English sun.
+
+"Alright, I'll admit it," **Sarah Braithwaite** grinned, leaning against the ferry railing beside Jordan's left armrest as the wind tossed her dark ponytail. "Even if it *is* the wrong hemisphere and fifteen degrees colder than Sydney, Liverpool Mark One puts on a pretty good show."
+
+<aac>Don't worry, Sarah,</aac> Jordan's `"Sydney"` voice replied cheerfully over the thrum of the ferry's diesel engines. <aac>In five weeks, Liverpool Mark Two gets its turn at bat.</aac>
+
+## Codebreakers at Station X (Bletchley, Buckinghamshire)
+
+### Scene 1: Turing's Bombe, Colossus Mark 2, and the Neurodivergent Codebreakers
+
+**Date:** 2015-06-15 at 11:00 Europe/London
+
+On Monday morning of their second week in Britain—with **Henry Walsh** taking a study day off from **LSEC** to join them—**Zoë** and **Daniel** led the family back to **London Euston** to board a step-free **Albion InterCity Rail** commuter train thirty-five minutes northwest into the Buckinghamshire countryside.
+
+Two hundred yards across a level pedestrian footbridge from **Bletchley Station** stood a quiet Victorian country mansion surrounded by low wooden wartime huts and brick blocks that had once been the most closely guarded secret in the Allied world: **Station X / The Enigma Codebreaking Estate**.
+
+As the nineteen travelers rolled along the smooth tarmac paths under the shade of ancient Wellingtonia redwoods toward **Hut 8** and **Hut 11**, Jordan felt an almost electric reverence settle over **Zoë**, **Aubrie**, and **Daniel**.
+
+Inside the brick hall of **Block B**, a volunteer engineer in a tweed waistcoat switched on a seven-foot-tall, one-ton bronze-and-steel cabinet covered in threebanks of thirty-six rapidly spinning, color-coded commutator drums and tangles of red insulated wire: the working reconstruction of **Alan Turing** and **Gordon Welchman's** electromechanical **Bombe**.
+
+*Click-clack-click-clack-click-clack.*
+
+The rhythmic, high-speed metallic clatter of a hundred and eight rotating drums echoed through the gallery as the machine tested thousands of possible **Enigma** rotor permutations per minute, searching for a logical contradiction that would eliminate invalid settings until a single rotor position suddenly locked into place with a sharp mechanical *clunk*.
+
+"Look at the wiring topology on the back of that rack, Jordan," **Zoë** whispered, standing so close to Jordan's right armrest that her shoulder brushed his sleeve, her gray eyes shining with pure intellectual awe behind her glasses. "Every day at midnight, the German military changed the rotor order, the ring settings, and the plugboard stecker connections—creating `158 quintillion` possible states. Everyone else in 1939 thought breaking that manually in twenty-four hours was impossible. Turing didn't try to brute-force all `158 quintillion` states; he wired a closed electrical feedback loop that exploited *cribs* and eliminated every contradictory hypothesis simultaneously at the speed of electricity."
+
+From the Bombe gallery, they rolled next door into the **National Computing Gallery**, where an even larger wartime secret hummed quietly behind a low glass barrier: the working rebuild of **Tommy Flowers's 1944 *Colossus Mark 2***—the world's first programmable, electronic digital computer.
+
+Two thousand four hundred glowing glass thermionic valves radiated a gentle warmth across the room while a continuous loop of punched paper tape whirred through optical photoelectric readers at five thousand characters per second—twenty-five miles per hour—decoding the twelve-rotor **Lorenz (`Tunny`)** teleprinter cipher used by the German High Command.
+
+While the rest of the group listened to the docent explain how Colossus had shortened the war in Europe by years and confirmed that the Normandy D-Day landings could proceed safely, **Jordan**, **Zoë**, and **Aubrie** paused together before a quiet biographical wall panel near the exit of **Hut 8**.
+
+The panel described the men and women recruited to **Station X**: mathematical prodigies, chess masters, crossword fanatics, astronomers, and quiet engineers who were often dismissed by traditional military brass as "eccentric," "socially unconventional," or "obsessively fixated on patterns and rules"—people who paced the lakeside path muttering equations to themselves, who chained their porcelain teacups to the radiator so no one would move them out of place, and whose brains refused to stop until a chaotic cipher yielded to clean mathematical order.
+
+Jordan looked at the photograph of Alan Turing's chained teacup, then looked up at **Aubrie** on his left and **Zoë** on his right.
+
+<aac>They were just like us, weren't they?</aac> Jordan typed quietly on his **Pinnacle Vanguard Pro**, keeping the volume of his `"Sydney"` voice low enough that only Aubrie, Zoë, and Daniel standing behind them could hear. <aac>The rest of the world thought they were strange because they needed their routines and their systems to be exact. And then those exact brains saved millions of lives.</aac>
+
+Zoë stared at the archival photograph for a long, quiet moment. Her fingers rested gently on the top edge of Jordan's laptop screen, her posture softening with a profound, unspoken kinship that Jordan would understand even more deeply a month later on a terrace in Singapore.
+
+"When the world is on fire," Zoë said softly, her crisp British voice steady and fierce, "you don't call the people who just follow the social script without questioning it, Jordan. You call the people whose brains can see the pattern hidden inside the noise."
+
+## The Northern Capital and the Royal Yacht (Edinburgh, Scotland)
+
+### Scene 1: Waverley Station, Edinburgh Castle, and the Royal Yacht Caledonia
+
+**Date:** 2015-06-20 at 12:30 Europe/London
+
+On Saturday of their final weekend in the United Kingdom, Daniel and Laura Brooks took the eighteen travelers north from **London King's Cross** aboard a high-speed **InterCity East Coast** express train—climbing through the green Yorkshire dales, crossing the dramatic Victorian arches of the Royal Border Bridge at Berwick-upon-Tweed along the North Sea coast, and gliding into **Edinburgh Waverley Station** in the heart of **Scotland**.
+
+Stepping off the train onto the level concourse of Waverley and riding the wide glass station elevator up to **Princes Street**, Jordan stopped his power chair and stared upward in sheer architectural wonder.
+
+Splitting the Scottish capital down the middle was the lush, emerald-green ravine of **Princes Street Gardens**—once a medieval loch, now a manicured park threaded with smooth, wheelchair-accessible tarmac promenades. And rising four hundred feet straight out of the garden floor atop a jagged plug of black volcanic basalt stood the ancient stone battlements, towers, and cannon batteries of **Edinburgh Castle**, while the medieval stone spires and stepped gables of the **Old Town** climbed the ridge of the Royal Mile against a dramatic sky of scudding silver clouds.
+
+"Now *that* is how you site a defensive fortification," **Mark** whistled, tipping his head back beside **Hannah** and **Caleb**. "Good luck besieging a castle built on top of an extinct volcano."
+
+As they rolled along the level garden promenade beneath the castle rock, the unmistakable, skirling drone and bright chanter melody of **Great Highland bagpipes** echoed across the stone terrace from a piper in full tartan kilt and sporran playing beside the **Scott Monument**.
+
+Jordan paused his chair at a respectful distance where his digital hearing aids balanced the resonant acoustic overtones of the pipes against the breeze, watching **Aubrie** smile as she sketched the gothic sandstone silhouette of the monument and the volcanic castle crag in her travel notebook.
+
+At one o'clock simultaneously with the chime of the castle clock, a white puff of smoke erupted from the battlements high overhead, followed a second later by the deep, echoing *BOOM* of the **One O'Clock Gun**—the time signal fired every day except Sunday since `1861` so ships in the **Firth of Forth** could set their marine chronometers.
+
+Unlike the terrifying, unexplained booms in the dark of his childhood bedroom in Virginia Beach, Jordan didn't flinch a millimeter. Because Daniel and Zoë had briefed him on the exact `13:00:00` firing schedule ten minutes in advance, Jordan actually counted down the final five seconds on his **`NeoEdit`** clock and grinned as the cannon report rolled across the valley.
+
+After lunch on St. Andrew Square, Jordan routed the group onto Edinburgh's brand-new, ultra-modern **Edinburgh Tram** line—which had opened just one year earlier in May 2014 with 100% level, zero-step platform boarding—and rode north down Leith Walk to the historic port of **Leith** on the Firth of Forth.
+
+Moored permanently alongside the waterfront terminal sat the gleaming navy-hull and white-superstructure of the **Royal Yacht *Caledonia***—the floating palace that had steamed over a million nautical miles across the globe for forty-four years before being decommissioned in `1997`.
+
+"Watch how they engineered the museum retrofit for this ship, J," **Daniel** pointed out as they entered the berth. Instead of forcing visitors up steep naval gangplanks, the port trust had constructed a dedicated shore-side glass elevator tower with wide, level brow bridges connecting directly into every single one of the yacht's five decks—from the gleaming **State Dining Room** and **Sun Lounge** all the way down to the spotless, mirror-polished **Engine Room** and the ** Admiral's Bridge**.
+
+Rolling his 350-pound power chair straight onto the teak deck of the **Bridge**, Jordan parked beside the brass binnacle compass and ship's telegraph, looking out through the forward wheelhouse windows across the cold blue waters of the **Firth of Forth**.
+
+<aac>Over one million nautical miles across every ocean on Earth,</aac> Jordan typed on his **Pinnacle Vanguard Pro**, his `"Sydney"` voice warm as **Lauren**, **Madison**, **Sarah**, and **Jessica** gathered around him on the bridge wing. <aac>And look at the brass plaque on the helm: they steered a four-thousand-ton ship around the world with a wheel no bigger than my joystick.</aac>
+
+"Wait until we get to Osaka in two weeks, Chief Navigator," **Zoë** smiled, tapping the side of his armrest. "You're going to command an overnight ship of your own across the **Seto Inland Sea**."
+
+## The Eastern Leap from Heathrow (London to Tokyo)
+
+### Scene 1: The Eastern Leap from Heathrow
 
 **Date:** 2015-06-27 at 11:00 Europe/London
 
-After spending Thursday night along the Merseyside waterfront—where Jordan, Lauren, and Sarah shared the anchor room overlooking the Albert Dock—riding the **Class 390 Tilting Express** back down the West Coast Main Line to **London Euston**, and spending a second full week exploring Greater London's museums, parks, and step-free riverboats along the Thames with the Brooks family and Henry between his summer lectures, Saturday morning, June twenty-seventh brought the end of their British chapter.
+After spending Thursday night along the Merseyside waterfront—where Jordan, Lauren, and Sarah shared the anchor room overlooking the **Victoria & Albert Maritime Dock**—riding the **Class 390 Tilting Express** back down the West Coast Main Line to **London Euston**, visiting **Station X / The Enigma Codebreaking Estate** in Buckinghamshire, taking a high-speed weekend excursion up the East Coast Main Line to **Edinburgh, Scotland**, and exploring Greater London's museums, parks, and step-free riverboats along the Thames with the Brooks family and Henry between his summer lectures, Saturday morning, June twenty-seventh brought the end of their British chapter.
 
-By ten-thirty in the morning, the eighteen travelers had ridden the step-free **Piccadilly Line** back out to **Heathrow Airport Terminal 2**, where their bags were checked through to **Tokyo Haneda (`HND`)** aboard **Nippon Skyways**.
+By ten-thirty in the morning, the eighteen travelers had ridden the step-free **Piccadilly Line** back out to **Heathrow Airport Terminal 2 (The Britannia Terminal)**, where their bags were checked through to **Tokyo Haneda (`HND`)** aboard **Nippon Skyways**.
 
 And waiting for them right beside the oversized-luggage check-in counter before the Departure Security gates stood **Henry Walsh**, holding a takeaway carrier of warm Cornish pasties and a box of Yorkshire Breakfast tea bags for the flight.
 
@@ -13837,7 +14069,7 @@ Fifteen minutes later, Jessica carried Jordan aboard the wide-body 777 and settl
 
 As the massive twin GE90 turbofans roared to life and lifted them into the afternoon sky above the Thames, Jordan looked down at the green patchwork of England disappearing beneath the wings. Ahead of them lay a twelve-hour leap across eight time zones into East Asia—toward the bullet trains of **Tokyo**, theBrooks family's old home in **Osaka**, and an overnight ferry waiting on the **Seto Inland Sea**.
 
-## The Quiet Sanctuary and the Bullet Train
+## Haneda Airport and the Architecture of Respect (Tokyo, Japan)
 
 ### Scene 1: Pang-Pon-Pang-Pon: Haneda Airport and the Architecture of Respect
 
@@ -13891,7 +14123,9 @@ There, Zoë and Daniel helped him claim **Smart Card Number Four**: a lime-green
 
 Jordan slid the green **`Midori Card`** into the fourth slot of his clear collector's sleeve below his **`NordicPass`**, **`Pearl Card`**, and **`MerseyPass`**, tapped it against the wide blue-lit IC reader on the extra-wide accessible faregate—which answered with a cheerful, high-pitched *pi-pi!* instead of a harsh buzz—and rolled onto the level platform of the **Haneda Bay Monorail** overlooking Tokyo Bay.
 
-### Scene 2: The Yamanote Slope Board and the City That Doesn't Yell
+## The Yamanote Slope Board and the City That Doesn't Yell (Tokyo)
+
+### Scene 1: The Yamanote Slope Board and the City That Doesn't Yell
 
 **Date:** 2015-06-30 at 14:00 Asia/Tokyo
 
@@ -13915,7 +14149,7 @@ Whether they were getting off two stops later or eight stops across the city in 
 
 There was no waiting twenty minutes on an empty platform wondering if someone had forgotten them. There was no sighing, no eye-rolling, and no treating Jordan's 350-pound power chair like an inconvenience blocking the rush-hour schedule.
 
-On Tuesday afternoon, after exploring the multi-story electronics and retro computing arcades of **Akihabara**—where Jordan, Zoë, and Madison spent two blissful hours examining vintage Japanese motherboards, mechanical keyboard switches, and 16-bit **Kinoka** game cartridges—and watching the famous pedestrian scramble from the skybridge above **Shibuya Crossing**, the group paused in a quiet, tree-shaded courtyard garden near **Meiji Shrine**.
+On Tuesday afternoon, after exploring the multi-story electronics and retro computing arcades of **Akihabara**—where Jordan, Zoë, and Madison spent two blissful hours examining vintage Japanese motherboards, mechanical keyboard switches, and 16-bit **Kinoka** game cartridges—and watching the famous pedestrian scramble from the skybridge above **Shibuya Crossing**, the group paused in a quiet, tree-shaded courtyard garden near **Yoyogi Imperial Cedar Shrine**.
 
 Jordan sat in the dappled shade beneath the towering *torii* cedars, watching the sunlight filter through the leaves while **Aubrie** and **Lauren** sipped cold green tea from a vending machine beside him.
 
@@ -13935,7 +14169,71 @@ Daniel Brooks smiled warmly, stepping up beside his daughter and resting a hand 
 
 Jordan looked out across the quiet gravel courtyard, his heart beating with a strange, new, expansive wonder that he wasn't quite ready to put into words yet—only to realize that for the first time in nineteen years, a tiny voice inside his head was quietly asking what it would feel like to never have to leave a place this peaceful.
 
-### Scene 3: The Hassha Melody on the Bullet Train Platform
+## Odaiba Robotics and the Edo Sky Spire (Tokyo Bay & Sumida Ward)
+
+### Scene 1: The Rainbow Bridge Automated Line and the Humanoid Robotics Lab
+
+**Date:** 2015-07-02 at 11:00 Asia/Tokyo
+
+On Thursday morning in **Tokyo**, **Zoë** had a surprise route planned for Jordan that didn't require a single stationmaster's portable slope board.
+
+At **Shimbashi Station**, the eighteen travelers tapped their green **`Midori Cards`** and rode a wide glass elevator up to the elevated platform of the **Rainbow Bridge Automated Transit Line**—an entirely computer-controlled, driverless, rubber-tired transit system connecting central Tokyo across the water to the futuristic artificial island of **Odaiba** in **Tokyo Bay**.
+
+Because the automated guideway had been engineered from day one under Japan's modern barrier-free standards, full-height platform screen doors lined the platform edge, and the rubber-tired train floor aligned with the station platform to within three millimeters—zero step, zero gap. Even better, because there was no driver's cab at the front of the train, the very front bulkhead of Car 1 was a single, floor-to-ceiling panoramic glass windshield with a dedicated wheelchair bay positioned dead center behind the glass.
+
+Jordan rolled his power chair right up to the front windshield between **Aubrie** and **Zoë**.
+
+As the doors chimed softly and the train glided out of Shimbashi, it entered a colossal,270-degree elevated spiral loop—climbing higher and higher in a sweeping circle until it emerged onto the lower deck of the suspension span across **Tokyo Bay**, with cargo ships, bayside skyscrapers, and the gleaming futuristic spheres of **Odaiba** spread out below Jordan's footrests.
+
+<aac>No driver, zero gap, and a front-row cockpit window,</aac> Jordan typed into `NeoEdit`, grinning from ear to ear as the train banked smoothly around the loop. <aac>Can we install one of these between Geneva Street and Commonwealth Mall?</aac>
+
+"Don't tempt me, J—I already have half a civil-engineering feasibility study drafted on my `mPad`," Zoë replied with a completely straight face.
+
+Five minutes after rolling off at **Telecom Center Station**, they entered the soaring, sun-drenched glass atrium of the **Odaiba Future Science & Robotics Museum (`Mirai-kan`)**.
+
+Suspended in mid-air at the center of the six-story atrium hung the **Geo-Cosmos**—a six-meter-diameter spherical globe clad in over ten thousand organic LED panels, streaming near-real-time meteorological satellite imagery of Earth's swirling cloud patterns, ocean currents, and surface temperatures at ten million pixels of resolution.
+
+Jordan and Aubrie parked along the curved third-floor oval skywalk that spiraled around the glowing sphere, watching the live cloud bands over the Pacific Ocean and the Southern Hemisphere winter fronts sweeping across Australia—the exact continent they would be flying to in two weeks.
+
+Down on the robotics demonstration floor, the museum's engineering staff invited Jordan's wheelchair right to the front line of the glass amphitheater as a white, four-foot-tall autonomous **humanoid robot** walked smoothly out onto the stage, balanced on one foot, kicked a soccer ball accurately into a target net, and then used multi-fingered tactile servo hands to unscrew the cap of a thermos and pour a cup of tea without spilling a single drop.
+
+Adjacent to the amphitheater, Jordan, Zoë, and Daniel spent half an hour examining an exhibit of next-generation Japanese **cybernetic assistive exoskeletons** and neural-switch mobility interfaces designed to help people with spinal cord injuries and cerebral palsy amplify residual muscle signals.
+
+"Look at the feedback-control loop on those brushless harmonic-drive actuators, Jordan," Daniel said quietly, pointing to the cutaway joint assembly beside Jordan's armrest. "Half the high-precision sensor technology in this room didn't exist ten years ago—and every single year, the engineers here are making assistive technology lighter, smarter, and faster."
+
+Jordan looked at the gleaming white robotics display, then down at his own custom-mounted **Pinnacle Vanguard Pro** and the high-torque motors beneath his seat.
+
+<aac>For eighteen years, my mother told me that nothing in the world could ever help my body,</aac> Jordan typed softly as **Aubrie**, **Madison**, and **Lauren** gathered around his chair. <aac>And here is an entire museum built by scientists whose whole life's work is making sure bodies like mine can go anywhere.</aac>
+
+### Scene 2: Asakusa Lanterns and Six Hundred Thirty-Four Meters Above Edo
+
+**Date:** 2015-07-02 at 17:30 Asia/Tokyo
+
+Late Thursday afternoon, the eighteen travelers rode the step-free **Asakusa Line** north to Tokyo's oldest historic district in **Taitō Ward**, emerging via the street-level elevator just steps from the vermilion timber pillars of **Asakusa Lantern Temple**.
+
+Hanging beneath the outer **Thunder Gate (`Kaminarimon`)** was a colossal, twelve-foot-tall crimson paper-and-bamboo lantern weighing over fifteen hundred pounds, flanked by carved wooden statues of the gods of wind and thunder. Beyond the gate stretched the level stone flagstone pavement of **Nakamise Street**—a centuries-old pedestrian shopping lane lined with tiny stalls selling warm, freshly baked *ningyō-yaki* sponge cakes filled with sweet red bean paste, toasted *senbei* rice crackers brushed with soy glaze, and intricately folded Japanese fans.
+
+Because the late-afternoon weekday crowd was calm and orderly, Jordan rolled smoothly down the center of the stone avenue flanked by **Zoë**, **Aubrie**, **Sarah**, and **Jessica**. At the end of the lane, where the massive main hall of the seventh-century temple rose behind a bronze incense cauldron, a discreet, beautifully integrated granite wheelchair ramp and hidden hydraulic lift carried Jordan's 350-pound power chair effortlessly up to the elevated timber veranda of the sanctuary.
+
+Standing beside the giant coffered ceiling paintings of dragons and lotus blossoms while the warm, fragrant smoke of sandalwood incense drifted on the early evening breeze, **Zoë** showed Jordan and the girls how to bow twice, clap softly, and offer a quiet wish for safe travels across the sea.
+
+From the ancient wooden eaves of Asakusa, they crossed the **Sumida River** to the twenty-first-century pinnacle of Japanese structural engineering: **The Edo Sky Spire**—a `634-meter` (`2,080-foot`) lattice steel broadcasting tower that stood as the tallest tower on Earth.
+
+"Do you know how a six-hundred-and-thirty-four-meter tower survives major earthquakes and typhoons without swaying or cracking, J?" **Zoë** asked as a uniformed elevator attendant bowed and guided their party into the dedicated high-speed accessibility lift. "The structural engineers studied the five-story wooden pagodas built in Japan thirteen hundred years ago—like the one we just saw at **Asakusa Lantern Temple**—which have never once collapsed in an earthquake. Inside the outer steel lattice of this tower sits a massive, hollow reinforced-concrete central pillar called a *shinbashira* that is structurally independent for the first hundred and twenty-five meters, acting as a seismic counterweight damper."
+
+Inside the elevator cab—whose interior walls were decorated with glowing Edo-period cut-crystal glasswork (*Edo kiriko*)—the digital altimeter display climbed at six hundred meters per minute (`ten meters per second`), carrying them 350 meters up to the **Tembo Deck** in fifty whisper-quiet seconds, and then via the transfer lift to the `450-meter` (`1,476-foot`) **Sky Galleria**—a spiraling, glass-walled skywalk suspended nearly half a kilometer above the earth.
+
+Just as Jordan rolled out onto the `450-meter` glass ramp, the early July sun dipped toward the western horizon.
+
+Outside the floor-to-ceiling low-iron glass panels, the Kanto Plain stretched out literally to the curvature of the horizon. Sixty miles to the southwest, silhouetted against a sky of molten tangerine, rose-gold, and deep indigo, stood the unmistakable, symmetrical volcanic cone of **Mount Fuji**. And directly below them, across a hundred square miles of urban valleys and rivers, thirty-seven million people's worth of streetlights, train lines, neon boulevards, and bridge cables flickered on all at once like a living galaxy of amber and sapphire stars.
+
+Jordan parked his chair at the very apex of the `451.2-meter` highest point marker, with **Aubrie** holding his left hand and **Madison**, **Lauren**, **Zoë**, **Sarah**, **Jessica**, **Hannah**, and **Mark** standing shoulder-to-shoulder behind him.
+
+<aac>Look at Mount Fuji against the sunset,</aac> Jordan typed into `NeoEdit`, his green eyes reflecting the endless tapestry of city lights below. <aac>From four hundred and fifty meters up, Tokyo doesn't look like concrete at all. It looks like a spiral galaxy with a billion stars connected by train lines.</aac>
+
+## The Bullet Train and the Thousand Vermilion Gates (Tokyo to Kyoto & Osaka)
+
+### Scene 1: The Hassha Melody on the Bullet Train Platform
 
 **Date:** 2015-07-04 at 09:45 Asia/Tokyo
 
@@ -13981,7 +14279,79 @@ Two hours and twenty-three minutes after leaving Tokyo, the bullet train glided 
 
 And down on the main concourse of **`Nippon Rail West` (`NR West`)**, Zoë proudly handed Jordan **Smart Card Number Five**: a crisp teal-and-blue **`KansaiPass`** featuring a cheerful cartoon platypus mascot—welcoming Jordan to the city where Zoë Brooks had grown up.
 
-### Scene 4: The Brooks Family's Osaka and a Question About the Future
+### Scene 2: The Thousand Vermilion Torii and the Bamboo Sanctuary (Kyoto)
+
+**Date:** 2015-07-04 at 13:00 Asia/Tokyo
+
+Two hours and fifteen minutes after gliding out of **Tokyo Station** at a hundred and seventy-seven miles per hour, the white-and-blue **N700A** bullet train whispered to a halt at **Kyoto Station**—the ancient imperial capital of Japan for over a thousand years.
+
+Waiting at the exact mark of **Car 11 Door 2** stood a white-gloved **Nippon Rail Central** attendant holding the matching yellow fiberglass slope board.
+
+Rather than riding straight through to Osaka without stopping, **Daniel**, **Laura**, and **Zoë** had arranged for the station's luggage concierge service to forward their heavy suitcases thirty minutes ahead to their Osaka apartments so the eighteen-person family could spend Saturday afternoon immersed in the tranquil shrines and bamboo forests of **Kyoto**.
+
+Tapping their teal **`KansaiPass`** smart cards—**Smart Card Number Five** in Jordan's collector's sleeve—they rode the step-free **Nara Line** just five minutes south to **Inari Station**, where the station exit opened directly in front of the towering vermilion two-story **Rōmon Gate** of the **Inari Mountain Thousand-Gate Shrine**.
+
+"When we lived in Osaka, Mum and Dad used to bring us up here on autumn weekends," **Zoë** said warmly, pointing out the stone statues of *kitsune*—messengers of Inari shaped like sleek foxes holding granite keys and scrolls in their mouths—flanking the wide, paved approach ramp.
+
+Behind the main sanctuary hall, where a dedicated barrier-free concrete ramp wound around the hillside terrace, began the sight that made **Jordan**, **Aubrie**, **Lauren**, and **Madison** stop and catch their breath: the **Senbon Torii**.
+
+Arching over the smooth stone pathway in two parallel, densely packed rows stood thousands of brilliant vermilion-orange wooden *torii* gates, set so close together that they formed a continuous, glowing tunnel of crimson wood and dappled gold sunlight winding into the cedar forest. Every gate was inscribed along its reverse pillars with vertical black calligraphy recording the name of the workshop, family, or company that had donated it in gratitude.
+
+For half an hour, Jordan rolled his power chair slowly along the accessible lower loop of the vermilion tunnel. Inside the colonnade of gates, the ambient city sound dropped away completely—replaced by the soft rustle of cedar branches overhead, the distant trickle of a mountain spring, and the rhythmic, visual symmetry of orange pillar after orange pillar passing smoothly beside his wheels.
+
+<aac>Look how the light filters between the gates, Aubrie,</aac> Jordan typed quietly, pausing in a quiet clearing where Lauren and Aubrie were framing photographs of the vermilion corridor. <aac>Every gate is the exact same shape and color, so my eyes don't have to fight any visual clutter at all. It feels like rolling through a quiet hallway painted in sunrise.</aac>
+
+From the southern hills of Fushimi, they rode back through Kyoto Station onto the step-free **Sagano Line** out to the western riverside district of **Arashiyama**.
+
+Passing beneath the willow trees near the wooden silhouette of the **Moon-Crossing Bridge (`Togetsukyō`)** over the Katsura River, Daniel and Zoë guided the group onto the wide, gently graded **Arashiyama Bamboo Grove Boardwalk**.
+
+Rising forty to fifty feet straight up on both sides of the smooth pathway stood tens of thousands of thick, emerald-green stalks of **Mōsō bamboo**. As the afternoon breeze swept down from the western mountains, the towering bamboo canopy swayed in slow, majestic unison—producing a soft, hollow, woodwind-like rustle and gentle creak that the Japanese Ministry of the Environment had officially designated as one of the ***One Hundred Soundscapes of Japan***.
+
+Beside Jordan, **Aubrie Jean Kelly**—whose sensitive auditory processor could be overwhelmed in seconds by harsh fluorescent hums or chaotic crowd noise—closed her eyes for a long moment and let out a deep, luxurious sigh of pure sensory peace.
+
+"Listen to that frequency, J," Aubrie whispered, opening her hazel eyes with a radiant smile as green-tinted sunlight danced across her face and braided brown hair. "There isn't a single sharp edge in the sound. It's just wind, wood, and leaves breathing together."
+
+Jordan reached over from his armrest and laced his fingers through hers as they rolled side-by-side through the emerald cathedral—before heading back to the station to catch the thirty-minute evening special rapid train down the Yodo River valley into **Osaka**.
+
+## The Golden Keep, the Whale Shark Tank, and the Brooks Family's Osaka
+
+### Scene 1: The Golden Keep Elevator and the Pacific Ring Whale Shark
+
+**Date:** 2015-07-07 at 11:30 Asia/Tokyo
+
+On Tuesday morning—their third full day in **Osaka**—**Daniel**, **Laura**, and **Zoë** took the family across the wide stone bridges and emerald water moats of **Osaka Castle Park** toward the five-story white-and-gold silhouette of the **Osaka Golden Keep (`Ōsaka-jō`)**.
+
+Towering atop massive, cyclopean granite fortress walls constructed in the sixteenth century from single boulders weighing over a hundred tons apiece, the keep gleamed in the July sunshine with its jade-green copper roof tiles, golden *shachihoko* tiger-carp ornaments, and black lacquer upper walls inlaid with gold-leaf crouching tigers.
+
+Back in Europe, visiting medieval castles had usually meant viewing the exterior battlements from a courtyard below because sixteenth-century spiral stone turret stairs were completely impassable for a 350-pound power wheelchair.
+
+Not in Osaka.
+
+"Look right there beside the stone entrance ramp, Jordan," **Zoë** said with unmistakable hometown pride, pointing to a sleek, barrier-free glass-and-steel elevator shaft and step-free skybridge integrated cleanly alongside the historic keep. "The municipal preservation engineers built a dedicated wheelchair ramp and elevator straight to the top floor so nobody is ever left sitting down in the moat."
+
+Escorted by a bowing castle attendant in a crisp summer uniform, Jordan drove his power chair straight into the elevator and rode all the way up to the eighth-floor **Panoramic Observation Parapet** fifty meters above the park. Rolling out onto the wide exterior walkway beneath the golden roof gables, Jordan looked out over the gilded *shachihoko* ornaments toward the gleaming skyscrapers of **Osaka Business Park**, the winding silver ribbon of the **Okawa River**, and the green residential avenues of **Nakanoshima** where Zoë and her brothers had grown up.
+
+After eating piping-hot, freshly grilled **takoyaki**—savory octopus-filled batter spheres brushed with sweet tangy sauce and bonito flakes—at a step-free parkside terrace, the eighteen travelers tapped their teal **`KansaiPass`** cards on the **Osaka Rapid Subway Chūō Line** and rode west to **Osakako Station** on the edge of **Osaka Bay**.
+
+Standing beside the waterfront plaza was one of the most wheelchair-friendly architectural wonders in all of Japan: the **Tempozan Pacific Ring Aquarium**.
+
+"Wait until you see how the floor plan of this building works, J," **Caleb** grinned, walking alongside his twin sister **Zoë** and **Jordan** as they rode the giant entry elevator straight to the eighth floor beneath a life-sized model of a whale shark. "You don't take stairs or elevators between exhibits here. The entire eight-story building is one giant, continuous wheelchair ramp!"
+
+Caleb wasn't exaggerating.
+
+Starting at the sunlit indoor **Japanese Forest** atrium on the eighth floor—where playful Asian small-clawed river otters tumbled over waterfalls—a single, wide, gently graded carpeted ramp spiraled continuously downward for nearly half a mile in a gentle corkscrew all the way to the fourth floor, wrapping twice around the colossal, nine-meter-deep, `5,400-cubic-meter` central **Pacific Ocean Tank**.
+
+As Jordan eased his joystick forward and rolled effortlessly down the dimly lit, cool spiral ramp surrounded by **Aubrie**, **Madison**, **Lauren**, **Zoë**, **Sarah**, **Jessica**, **Hannah**, and **Mark**, the three-story-tall acrylic walls of the central ocean tank glowed like a deep sapphire window into the sea.
+
+Gliding silently out of the blue depths right past Jordan's face—less than twelve inches from his glasses on the other side of the thirty-centimeter-thick acrylic panel—came a **thirty-foot-long whale shark**, its broad back patterned in a constellation of glowing white spots and stripes while golden trevally jacks and giant manta rays soared gracefully in its wake.
+
+Jordan stopped his power chair in awe, the blue aquatic light washing over his face and his **Pinnacle Vanguard Pro** keyboard.
+
+<aac>Look at the white spots on its back, Aubrie,</aac> Jordan typed softly, watching the gentle giant of the Pacific glide past them without a sound while a six-foot manta ray did a slow, weightless barrel roll overhead. <aac>It looks like it is carrying a star chart of the Milky Way across the ocean.</aac>
+
+"And not a single step from the top of the ocean to the bottom of the seafloor," **Aubrie** whispered, resting her cheek against Jordan's shoulder in the tranquil blue glow—both of them completely at peace before returning to **Nakanoshima** for dinner along the river.
+
+### Scene 2: The Brooks Family's Osaka and a Question About the Future
 
 **Date:** 2015-07-07 at 20:00 Asia/Tokyo
 
@@ -14037,7 +14407,7 @@ On the `mPad` screen, Isabel's eyes glistened behind her glasses as a tender, de
 
 "Which means," **Zoë** declared, her gray eyes lighting up with sudden, unmistakable determination as she looked around the circle at Jordan, Aubrie, Madison, Lauren, Hannah, Mark, Sarah, and Jessica, "we have a brand-new academic objective for Sophomore Year. Tomorrow night, we board the **`Ferry Hoshizora`** at Osaka South Port to sail across the **Seto Inland Sea**—and when we get back to Blacksburg in August, I am officially volunteering to coach and tutor all eight of you so all nine of us can take **Japanese 101** together!"
 
-## Voyages on the Seto Inland Sea
+## Voyages on the Seto Inland Sea (Osaka South Port & Ferry Hoshizora)
 
 ### Scene 1: Osaka South Port and Boarding the Starry Sky
 
@@ -14220,7 +14590,9 @@ Neither of them offered hollow platitudes, and neither of them told him to shush
 
 —and the **`Ferry Hoshizora`** carried all of them steadily across the starlit inland sea toward tomorrow.
 
-### Scene 4: Morning Light on Beppu Bay and the JAPN 101 Pact
+## Morning Light on Beppu Bay and the JAPN 101 Pact (Beppu, Kyūshū)
+
+### Scene 1: Morning Light on Beppu Bay and the JAPN 101 Pact
 
 **Date:** 2015-07-09 at 06:30 Asia/Tokyo
 
@@ -14280,7 +14652,45 @@ Zoë's eyes shone behind her glasses. She stepped forward and placed her hand fi
 
 "I'll enroll right alongside you as Jordan's official note-taker and run our private study dojo at the Geneva Street house," Zoë promised, smiling down at Jordan as the gangway locked into place with a soft metallic click. "No shortcuts and strict CPI Honor Code compliance—every single one of us is going to earn our A's fair and square. By the time we bring you back to the **Seto Inland Sea**, Jordan Fuller, you won't need me to translate a single word."
 
-## The Deterministic Sanctuary (Singapore)
+## The Cobalt Sea Spring and Geothermal Steam (Beppu, Ōita Prefecture)
+
+### Scene 1: The Seven Geothermal Springs, Onsen Tamago, and the Steam Sanctuary
+
+**Date:** 2015-07-11 at 10:30 Asia/Tokyo
+
+Looking out across the hillside neighborhoods of **Beppu** on Saturday morning, the entire coastal city looked as though hundreds of gentle white clouds had decided to nest among the tiled rooftops.
+
+With more than two thousand natural volcanic hot-spring vents discharging over a hundred and thirty thousand tons of geothermal water every single day, plumes of mineral steam rose continuously from bamboo pipe vents, stone drainage channels, and traditional wooden bathhouses between the green volcanic slopes of **Mount Tsurumi** and the calm blue curve of **Beppu Bay**.
+
+That morning, **Daniel**, **Laura**, and **Zoë** guided the eighteen-person family up to the **Kannawa** geothermal district to experience the **Beppu Seven Geothermal Springs**—a circuit of dramatic, boiling volcanic ponds where superheated mineral water bubbled straight up from magma chambers deep beneath Kyūshū.
+
+Thanks to Japan's barrier-free park retrofits, wide cedar boardwalks and smooth stone ramps wound directly through the subtropical gardens of the flagship spring: the **Cobalt Sea Spring (`Umi-Jigoku`)**.
+
+Rolling through a grove of giant lotus ponds—where six-foot-wide circular *Victoria amazonica* water-lily pads floated on warm thermal runoff—Jordan emerged onto the main wooden viewing deck and stopped in astonishment.
+
+Before his chair lay a steaming, ninety-eight-degree-Celsius (`208°F`) cauldron of water that wasn't gray or murky, but the most brilliant, luminous ** milky cobalt-turquoise blue** he had ever seen—almost the exact color of Iceland's **Azure Lagoon**, yet boiling furiously at the edge of the red wooden *torii* shrine gates while towering curtains of white sulfur-and-sulfate steam billowed into the summer sky.
+
+"Why is the boiling water bright cobalt blue here when the pond ten minutes down the hill at the **Crimson Thermal Pond (`Chinoike-Jigoku`)** is blood red?" **Mark** asked, leaning over the cedar railing beside **Hannah** and **Sarah**.
+
+"Dissolved iron sulfate versus iron-oxide and magnesium-oxide sediment," **Zoë** answered immediately, tapping the chemical breakdown on her `mPad` screen beside Jordan's armrest. "Here in the **Cobalt Sea Spring**, the volcanic vein is rich in dissolved iron sulfate (`FeSO4`), which scatters short-wavelength blue light the exact same way Rayleigh scattering turns the sky blue. Down at the **Crimson Thermal Pond**, the acidic clay is saturated with oxidized iron and magnesium particles that turn the water and the steam vents deep vermilion."
+
+Right beside the exit boardwalk of the **Cobalt Sea Spring** stood one of Beppu's most thoughtfully engineered barrier-free traditions: the **Beppu Bay Accessible Foot & Hand Steam Sanctuary**.
+
+While traditional sunken footbaths (*ashiyu*) required stepping down onto wet stone benches, theKannawa sanctuary had constructed a dedicated, wheelchair-height cedar table basin fed by cooling 104-degree geothermal mineral water and gentle volcanic steam vents—specifically designed so wheelchair users could roll their knees directly underneath the warm cedar rim and immerse their hands, wrists, and forearms in the mineral-rich water while their companions soaked their feet in the adjoining bench channel.
+
+Jordan drove his power chair right up to the wheelchair cutout, rolled up the sleeves of his shirt, and lowered both of his hands and forearms into the silky, 104-degree volcanic water alongside **Aubrie**, **Zoë**, **Madison**, **Lauren**, **Sarah**, and **Jessica**.
+
+The effect on his spastic cerebral palsy was immediate and extraordinary.
+
+Within ninety seconds, the deep, penetrating geothermal heat and dissolved sodium-sulfate minerals softened the baseline hypertonic tension in his wrists and finger flexors—the exact muscles that worked overtime every single day typing sixty words per minute on his **Pinnacle Vanguard Pro** and steering his joystick across four continents.
+
+<aac>My fingers feel completely weightless in this water,</aac> Jordan said through his `"Sydney"` speaker after lifting one warm, relaxed hand to tap his hotkey, a peaceful smile on his face as Aubrie gently massaged the back of his left wrist under the warm flow. <aac>Between Iceland and Beppu, I think volcanic hot springs might be the greatest invention in planetary geology.</aac>
+
+Before heading down to the waterfront for lunch, **Laura Brooks** returned from the steam-kitchen kiosk carrying two woven bamboo baskets filled with warm **onsen tamago**—eggs slow-steamed in wicker baskets lowered directly into the 98-degree-CelsiusCobalt Sea Spring—and small porcelain cups of caramel-topped **jigoku-mushi ("hell-steamed") custard pudding**.
+
+Sitting together in the shade of the lotus arbor before Monday's return voyage aboard the **`Ferry Hoshizora`** to Osaka and their flight south to **Singapore**, Jordan savored the warm, silky custard and looked out over the steaming rooftops toward **Beppu Bay**—his body relaxed, his mind clear, and his chosen family laughing all around him.
+
+## The Garden Terminal and Smart Card Number Six (Singapore Changi Airport)
 
 ### Scene 1: The Garden Terminal and Smart Card Number Six
 
@@ -14318,12 +14728,12 @@ There, he purchased eighteen contactless **`MerlionLink`** smart cards—each em
 
 ```
 [ JORDAN.OS — TRANSIT_COLLECTION_LEDGER // UPDATE ]
-> Smart Card #01: MetroCard (WMATA — Washington, D.C., USA)      [VERIFIED]
-> Smart Card #02: Strætó Klapp Card (Reykjavik, Iceland)          [VERIFIED]
-> Smart Card #03: Thames Card (TfL — London, United Kingdom)      [VERIFIED]
-> Smart Card #04: KantoPass (JR East — Tokyo, Japan)              [VERIFIED]
-> Smart Card #05: KansaiPass (JR West — Osaka, Japan)             [VERIFIED]
-> Smart Card #06: MerlionLink Card (SMRT — Singapore)             [ACQUIRED]
+> Smart Card #01: NordicPass (Reykjavik Capital Transit — Iceland)      [VERIFIED]
+> Smart Card #02: Pearl Card (LTA — London, United Kingdom)             [VERIFIED]
+> Smart Card #03: MerseyPass (Mersey Transit — Liverpool, UK)           [VERIFIED]
+> Smart Card #04: Midori Card (NR East — Tokyo, Japan)                  [VERIFIED]
+> Smart Card #05: KansaiPass (NR West — Osaka & Kyoto, Japan)           [VERIFIED]
+> Smart Card #06: MerlionLink Card (SMRT — Singapore)                   [ACQUIRED]
 > System Note: 100% of SMRT network stations verified step-free.
 ```
 
@@ -14335,21 +14745,23 @@ Sitting in the dedicated wheelchair bay of the cool, whisper-quiet **Downtown Li
 
 <aac>On the ferry in Japan, I realized what it felt like to exist without a threat level,</aac> Jordan typed, his `"Sydney"` voice steady and clear over the soft hum of the rails. <aac>And riding this train in Singapore proves the rest of it. The problem was never my wheelchair, and the problem was never my body. The problem was only ever the hostile environments I was trapped in.</aac>
 
-### Scene 2: The Deterministic City and the Cloud Forest
+## The Deterministic Sanctuary and ZOË.Systems.Logs (Marina Bay, Singapore)
+
+### Scene 1: The Deterministic City and the Mist Mountain Biome
 
 **Date:** 2015-07-16 at 10:30 Asia/Singapore
 
-On Thursday morning, after waking up refreshed in their interconnected accessible family suites overlooking the **Marina Bay** waterfront—where **Madison** and **Lauren** had shared the rotating bed shift with Jordan—the eighteen-person family rolled out across the wide, level waterfront promenade toward **Gardens by the Bay**.
+On Thursday morning, after waking up refreshed in their interconnected accessible family suites overlooking the **Marina Bay** waterfront—where **Madison** and **Lauren** had shared the rotating bed shift with Jordan—the eighteen-person family rolled out across the wide, level waterfront promenade toward the **Marina Bay Botanical Sanctuaries**.
 
 Even though they were only one degree north of the equator, the morning walk along the shaded bayfront breeze was effortless. Every curb cut was flush to the millimeter, every pedestrian crossing gave ample digital countdown time with gentle tactile chimes, and the entire district connected directly into climate-controlled underground and elevated walkways without a single stair.
 
-When they entered the soaring glass biome of the **Cloud Forest Conservatory**, Jordan felt the temperature drop instantly from tropical warmth to a crisp, misty sixty-eight degrees Fahrenheit—the exact climate of a high-altitude tropical mountain at two thousand meters above sea level.
+When they entered the soaring glass dome of **The Mist Mountain Biome**, Jordan felt the temperature drop instantly from tropical warmth to a crisp, misty sixty-eight degrees Fahrenheit—the exact climate of a high-altitude tropical mountain at two thousand meters above sea level.
 
 Directly ahead of his wheelchair rose a thirty-five-meter-tall indoor mountain cloaked in lush mosses, bromeliads, ferns, and orchids, with the world's tallest indoor waterfall plunging down its face in a shimmering veil of cool mist.
 
-"Look at the routing architecture on that mountain, J," **Zoë** said, her voice filled with pure engineering reverence as she stood beside Jordan's right armrest, pointing up at the ribbons of steel-and-glass aerial walkways spiraling around the mist-shrouded peak. "They didn't build the aerial walkways as a separate 'able-bodied' tourist attraction and stick wheelchair users at the bottom with a brochure. The entire **Cloud Walk** and **Treetop Walk** is served by wide, high-speed dual elevators built straight through the core of the mountain, and every single suspended skybridge is graded to a continuous, step-free wheelchair slope."
+"Look at the routing architecture on that mountain, J," **Zoë** said, her voice filled with pure engineering reverence as she stood beside Jordan's right armrest, pointing up at the ribbons of steel-and-glass aerial walkways spiraling around the mist-shrouded peak. "They didn't build the aerial walkways as a separate 'able-bodied' tourist attraction and stick wheelchair users at the bottom with a brochure. The entire **Cloud Walk** and **Crown Walk** is served by wide, high-speed dual elevators built straight through the core of the mountain, and every single suspended skybridge is graded to a continuous, step-free wheelchair slope."
 
-Together, all eighteen of them rode the wide interior lift straight to the summit of the **Lost World** deck at the very crown of the conservatory, then rolled slowly downward at their own pace along the suspended **Cloud Walk** and **Treetop Walk**, emerging right through the cool, drifting spray of the waterfall high above the conservatory floor.
+Together, all eighteen of them rode the wide interior lift straight to the summit deck at the very crown of the conservatory, then rolled slowly downward at their own pace along the suspended **Cloud Walk** and **Crown Walk**, emerging right through the cool, drifting spray of the waterfall high above the conservatory floor.
 
 As they rolled along the aerial walkway, Jordan noticed something about **Zoë**.
 
@@ -14367,15 +14779,15 @@ Zoë looked down from the thermodynamic schematic diagram, a remarkably soft, un
 
 She let out a quiet, deeply contented breath, looking out through the curved glass grid of the dome toward the gleaming skyline of **Marina Bay**.
 
-"When I'm in a place like this," Zoë said softly, almost to herself, "my processor doesn't have to spend half its clock cycles defending against entropy. Look for me on the suite terrace tonight after dinner, J—once we watch the evening light show at the **Supertree Grove**. There's something about my own system architecture I've been waiting for the right place to share with you and the family."
+"When I'm in a place like this," Zoë said softly, almost to herself, "my processor doesn't have to spend half its clock cycles defending against entropy. Look for me on the suite terrace tonight after dinner, J—once we watch the evening light show at **The Solar Arbor Grove**. There's something about my own system architecture I've been waiting for the right place to share with you and the family."
 
-### Scene 3: ZOË.Systems.Logs (Diagnosed at Three)
+### Scene 2: ZOË.Systems.Logs (Diagnosed at Three)
 
 **Date:** 2015-07-16 at 20:45 Asia/Singapore
 
-![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing Supertrees and glass conservatory domes of Gardens by the Bay illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg)
+![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg)
 
-At eight-forty-five that Thursday evening, after watching the towering vertical gardens of the **Supertree Grove** glow in synchronized waves of cobalt, emerald, and gold against the equatorial night sky, the eighteen travelers gathered on the wide, private outdoor sky terrace of their interconnected **Marina Bay** hotel suites.
+At eight-forty-five that Thursday evening, after watching the towering vertical gardens of **The Solar Arbor Grove** glow in synchronized waves of cobalt, emerald, and gold against the equatorial night sky, the eighteen travelers gathered on the wide, private outdoor sky terrace of their interconnected **Marina Bay** hotel suites.
 
 A warm, gentle breeze drifted off the water below. **Jordan** parked his power wheelchair near the glass balustrade between **Aubrie** and **Zoë**, while **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, **Daniel**, **Laura**, and the **Brooks** siblings—**Megan**, **Caleb**, **Chloe**, **Rebecca**, **Lucas**, **Owen**, and **Jacob**—settled into the cushioned terrace armchairs in a close, comfortable semicircle.
 
@@ -14385,7 +14797,7 @@ Over the past ten months at **Commonwealth Polytechnic Institute**, Jordan had w
 
 Across the terrace, **Daniel** and **Laura Brooks** exchanged a look of deep, quiet parental pride and gave their daughter an encouraging nod.
 
-"On the train yesterday, and in the **Cloud Forest** this morning," Zoë began softly, her crisp British-Virginian voice clear in the warm evening air, "Jordan noticed something about me. He noticed that ever since we landed in Tokyo, rode the **`Ferry Hoshizora`**, and arrived here in Singapore, my shoulders stopped bracing—the exact same way his and Aubrie's did."
+"On the train yesterday, and in **The Mist Mountain Biome** this morning," Zoë began softly, her crisp British-Virginian voice clear in the warm evening air, "Jordan noticed something about me. He noticed that ever since we landed in Tokyo, rode the **`Ferry Hoshizora`**, and arrived here in Singapore, my shoulders stopped bracing—the exact same way his and Aubrie's did."
 
 Jordan tilted his head up toward her, his hands resting attentively over his **Pinnacle Vanguard Pro** keyboard, while **Aubrie** reached out to hold Jordan's left hand.
 
@@ -14432,7 +14844,48 @@ ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Decision: Accept physical compr
 ZOË.Systems.Logs.InternalStateLog: Thread 1 (Self) — Conclusion: Parent_Nodes (Daniel, Laura) were right. Waiting until Singapore to share my lifelong diagnosis with Jordan and the suite yielded a 100% lossless emotional state transfer. System status: COMPLETELY_SAFE. 07-16-2015 20:52:35
 ```
 
-### Scene 4: The Three-Continent Video Call
+## The Equator Wheel, Hawker Satay, and the Three-Continent Call (Singapore)
+
+### Scene 1: Telok Ayer Heritage Market, the Double-Helix Bridge, and the Equator Wheel
+
+**Date:** 2015-07-17 at 13:00 Asia/Singapore
+
+On Friday morning—the first morning since **Zoë** had openly shared her lifelong autism diagnosis and her **`ZOË.Systems.Logs`** runtime architecture with the family on the Marina Bay sky terrace the night before—something subtle and wonderful had changed in the rhythm of their group.
+
+Now, whenever Jordan rolled down the climate-controlled walkways of **Marina Bay** with his **`NeoEdit`** terminal open on his left mount, **Zoë** walked right beside his right armrest with her **`mPad`** angled openly so Jordan and **Aubrie** could read her live syntax-highlighted cognitive telemetry alongside his—three neurodivergent processors running in a synchronized, zero-masking cluster.
+
+At twelve-thirty, riding the step-free **Downtown Line** one stop to **Telok Ayer Station**, Daniel and Zoë led the eighteen-person family into the heart of Singapore's financial district to an architectural jewel nestled among the gleaming glass skyscrapers: the **Telok Ayer Victorian Heritage Market**.
+
+Built in `1894` from pre-fabricated Scottish cast-iron columns shipped from Glasgow, the octagonal market pavilion featured soaring Victorian filigree arches, a breezy high-louvered lantern roof, and wide, level stone aisles with designated wheelchair-accessible tables stamped with the universal blue access emblem.
+
+While Daniel, Mark, Caleb, and Jessica navigated the bustling hawker stalls to bring back trays of fragrant **Hainanese chicken rice** poached with ginger and pandan leaves, smoky wok-fried **char kway teow** rice noodles, crispy golden **roti prata**, and skewers of grilled peanut **satay**, Zoë's console logged the sensory and logistical efficiency of the century-old pavilion:
+
+```
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) & Thread 3 (Jordan) — Location: Node(Singapore.Telok_Ayer_Heritage_Market). Octagonal radial aisle layout provides 360-degree step-free wheelchair routing. Ambient acoustic dispersion via high cast-iron roof louvers keeps decibel load <= 68 dB (Safe_Threshold for Agent(Aubrie)). 07-17-2015 13:08:14
+ZOË.Systems.Logs.EmotionalStateLog: Thread 1 (Self) — Post_Disclosure_State(Day + 1): Zero_Masking_Overhead == ACTIVE. Sharing live console display with Thread 3 (Jordan) and Agent(Aubrie) increases group communication bandwidth by +34.2%. 07-17-2015 13:08:19
+```
+
+Jordan grinned as he read Zoë's screen over his right armrest while dipping a piece of tender Hainanese chicken into ginger-garlic sauce.
+
+<aac>Plus thirty-four point two percent bandwidth,</aac> Jordan typed back to Zoë and Aubrie with a warm smile. <aac>And one hundred percent approval for Hainanese chicken rice.</aac>
+
+After lunch, the group rolled back out to the sun-drenched waterfront of **Marina Bay** to cross **The Double-Helix Pedestrian Bridge**—a 280-meter curved stainless-steel footbridge linking the **Marina Bay SkyDeck Towers** promenade to the northern bayfront.
+
+Engineered as two opposing spiral tubes of duplex stainless steel that twisted around the wide, step-free pedestrian deck in the exact geometric configuration of a **DNA double helix**—complete with glowing LED nucleotide base-pair letters (`c`, `g`, `a`, `t`) embedded directly into the walkway floor and shaded by perforated glass-and-steel canopies—the bridge was an engineering love letter to biology and mathematics.
+
+"Biology major and Astrophysics major on the same bridge!" **Jessica** laughed, pointing down at the glowing **`A-T`** and **`C-G`** cytosine-guanine markers beside Jordan's wheels as they paused on one of the four cantilevered viewing pods jutting out over the water.
+
+At the northern end of the helix bridge rose the 165-meter (`541-foot`) steel wheel of **The Equator Observation Wheel**—even taller than the **Thames Millennium Wheel** they had ridden with Henry in London five weeks earlier.
+
+Just like every piece of modern infrastructure they had encountered in Singapore, the boarding deck of **The Equator Observation Wheel** was a masterclass in universal design. Each of the twenty-eight cylindrical glass capsules was the size of a full-scale city bus, equipped with dual UV-shielded air-conditioning units and automatic level-entry sliding doors.
+
+Rolling straight into the center of their private glass capsule as it climbed 165 meters above the Marina Channel, Jordan parked beside the forward curved glass wall between **Aubrie**, **Zoë**, **Madison**, **Lauren**, **Sarah**, and **Jessica**.
+
+From fifty-five stories in the air, the entire island city-state and the equator itself stretched out before them: the three cantilevered towers and rooftop skypark of the **Marina Bay SkyDeck Towers**, the twin glass conservatory shells and towering vertical arbors of the **Marina Bay Botanical Sanctuaries**, hundreds of massive international container ships anchored in geometric rows across the **Singapore Strait**, and—visible across the water to the south and west—the lush green islands of **Indonesia** and the southern tip of **Malaysia**.
+
+<aac>Look out at the Singapore Strait,</aac> Jordan typed into `NeoEdit`, his green eyes tracking the endless fleet of ships connecting the Indian Ocean to the Pacific. <aac>From up here you can see three countries at once, one degree north of the equator—and tonight at nine o'clock, we get to call Isabel and Henry across three continents.</aac>
+
+### Scene 2: The Three-Continent Video Call
 
 **Date:** 2015-07-17 at 21:00 Asia/Singapore
 
@@ -14493,7 +14946,48 @@ Isabel let out a shaky, grateful breath, fanning her still-blushing cheeks with 
 
 <aac>See you both at ROA in August,</aac> Jordan typed, giving Isabel and Henry a warm wave before the call signed off—and even as the screen faded out, Isabel was still blushing and smiling from ear to ear.
 
-## Southern Cross Winter and the Real Liverpool (Sydney & Liverpool, NSW)
+## The Southernmost Point of Continental Asia (Sentosa & Changi Departure)
+
+### Scene 1: Sentosa Monorail, Palawan Boardwalk, and the Southern Cross Boarding Gate
+
+**Date:** 2015-07-18 at 14:00 Asia/Singapore
+
+Because their overnight **Southern Cross Airways** flight from **Singapore Changi (`SIN`)** to **Sydney (`SYD`)** didn't depart until eight-fifteen on Saturday evening, **Daniel** and **Zoë** had arranged a late checkout from their Marina Bay suites so the family could spend Saturday afternoon at the very southern edge of the Asian continent.
+
+Tapping their **`MerlionLink`** cards on the **North East Line** down to **HarbourFront Station**, the eighteen travelers rode the wide glass elevator up to the third-floor monorail terminal and boarded the brightly painted, barrier-free **Sentosa Island Monorail**.
+
+Gliding high above the turquoise shipping channel on a single concrete beam with zero platform gap at every station, the monorail carried them out across the causeway to the lush, palm-fringed resort island of **Sentosa**.
+
+At **Beach Station**, Jordan rolled off onto the shaded, step-free **Palawan Accessible Boardwalk**, where a wide timber-and-stone promenade wound beneath swaying coconut palms along the white sand of **Palawan Beach** overlooking the warm, emerald-green waters of the **Singapore Strait**.
+
+Pausing at the coastal lookout pavilion at **`1° 14' North Latitude`**—just eighty-five miles north of the equator, marking the southernmost coastal edge of continental Asia—Jordan sat in his power chair watching rows of giant red-and-blue container ships steaming between the Indian Ocean and the South China Sea while **Sarah** and **Jessica** pointed straight south across the horizon.
+
+"Right out past those ships and across the Java Sea is home, J," **Jessica** grinned, shading her eyes in the eighty-four-degree equatorial sunshine. "By nine o'clock tomorrow morning, we'll be sixty-two degrees and wearing our winter jackets in **Sydney**!"
+
+Beside Jordan's right armrest, **Zoë** logged the coordinate milestone on her `mPad`:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — Continental_Boundary_Milestone: Reached Node(Sentosa.Palawan_Lookout, 1.2494° N, 103.8239° E — Southernmost_Edge_of_Continental_Asia). Next scheduled vector: Southern_Hemisphere_Crossing(Flight: "Southern_Cross_Airways_QF002", Route: "SIN -> SYD"). 07-18-2015 14:32:10
+ZOË.Systems.Logs.EmotionalStateLog: Agent(Sarah) & Agent(Jessica) — Hometown_Proximity_Excitement == 98.4%. Australian_Vernacular_Frequency increasing by +45%. 07-18-2015 14:32:15
+```
+
+"Hey! My Australian vernacular frequency is *always* at a hundred percent, thank you very much!" **Sarah** laughed as she read Zoë's tablet over Jordan's shoulder, playfully nudging Zoë's arm while **Lauren** and **Madison** giggled.
+
+By five-thirty that afternoon, after collecting their luggage and riding the **SMRT East-West Line** back out to **Singapore Changi Airport (`SIN`)**, the eighteen travelers cleared automated departure immigration and gathered at the spacious, carpet-lined boarding lounge of **Terminal 1 Gate C15**.
+
+Outside the panoramic floor-to-ceiling glass sat a gleaming white widebody **Southern Cross Airways** jet, its towering red tail fin emblazoned with the iconic white silhouette of a bounding kangaroo and the five stars of the **Southern Cross**.
+
+Even before the boarding call was announced, the Australian ground staff and cabin crew greeted the group with the warm, unpretentious friendliness that Jordan already loved in Sarah and Jessica.
+
+"G'day, Jordan! Welcome aboard Southern Cross to Sydney!" the lead purser beamed in a rich New South Wales accent that sounded like a live twin of Jordan's **`"Sydney"`** `EchoType` profile, kneeling briefly beside his power chair to review the padded cargo-hold tie-down checklist with Daniel and Jessica. "We've got your First Class flat-bed pod right up front next to your family, and our Sydney ramp engineers at Kingsford Smith are already briefed to have your rig waiting right at the aerobridge door at `06:10` sharp tomorrow morning."
+
+<aac>Thank you very much,</aac> Jordan's `"Sydney"` voice replied—causing the purser's eyes to crinkle with instant delight as he heard his own hometown accent speaking back from an American teenager's laptop. <aac>I have been using a Sydney voice all year in Virginia. I am very excited to finally bring it home to Sydney.</aac>
+
+"Mate, Sydney's going to roll out the red carpet for you!" the purser laughed warmly.
+
+Ten minutes later, settled comfortably into his lie-flat suite beside **Aubrie** and **Zoë** as the widebody jet roared down the Changi runway and climbed southward into the equatorial twilight, Jordan watched the altitude display cross thirty-five thousand feet—and then watched the cabin map line cross **`0° 00' Latitude`** into the **Southern Hemisphere** while he drifted off to sleep.
+
+## Southern Cross Winter and the White Sails of Sydney Cove (Sydney, NSW)
 
 ### Scene 1: Southern Cross Airways and Smart Card Number Seven
 
@@ -14542,13 +15036,52 @@ With a cheerful *ding*, the glass barriers swung open. On the platform below, a 
 
 Twenty minutes later, the train emerged from the underground city tunnel onto the elevated viaduct of **Circular Quay Station**, and Jordan rolled out onto the wide, level granite foreshore promenade of **Sydney Cove**.
 
-Directly to his right, gleaming like giant porcelain seashells against the deep cobalt blue of the harbour and a cloudless winter sky, stood the soaring white sails of the **Sydney Opera House**. Directly to his left rose the monumental grey steel arch of the **Sydney Harbour Bridge**, while green-and-gold **Circular Quay** ferries churned across the sparkling water between the harbour headlands.
+Directly to his right, gleaming like giant porcelain seashells against the deep cobalt blue of the harbour and a cloudless winter sky, stood the soaring white sails of the **Bennelong Point Performing Arts Centre**—affectionately known across Australia as ***The White Sails of Sydney Cove***. Directly to his left rose the monumental grey steel arch of **The Sydney Harbour Arch Bridge**, while green-and-gold **Circular Quay** ferries churned across the sparkling water between the harbour headlands.
 
 Jordan parked his chair along the accessible harbourside railing between **Aubrie**, **Sarah**, and **Jessica**, letting the cool sixty-four-degree July winter breeze wash over his face as his `"Sydney"` voice spoke softly over the sound of the waves.
 
-<aac>Ten thousand miles from Virginia,</aac> Jordan typed, looking out across the harbour toward the Opera House sails. <aac>And the air feels just like late October in Blacksburg.</aac>
+<aac>Ten thousand miles from Virginia,</aac> Jordan typed, looking out across the harbour toward the gleaming white sails of Bennelong Point. <aac>And the air feels just like late October in Blacksburg.</aac>
 
-### Scene 2: Right Liverpool, Everyone! (Liverpool, New South Wales)
+### Scene 2: Under the White Sails and the Royal Botanic Foreshore
+
+**Date:** 2015-07-19 at 14:30 Australia/Sydney
+
+After checking into their accessible harbourside serviced apartments near **Circular Quay** and eating a hearty winter lunch overlooking the ferry wharves, **Sarah Braithwaite** officially assumed command as Sydney Chief Tour Guide.
+
+"Alright, everyone, zip up your fleeces and follow me!" Sarah beamed, linking her arm through **Lauren's** while walking right beside Jordan's left armrest as they rolled east along the wide, level granite promenade of **East Circular Quay**. "You've seen **The White Sails** from across the cove—now you're going to touch them up close!"
+
+Rising at the tip of the headland where **Sydney Cove** met **Farm Cove** stood the world-famous silhouette of the **Bennelong Point Performing Arts Centre**.
+
+From a distance, its interlocking vaulted shells had looked like smooth white porcelain sails billowed by the harbour wind. Up close, as Jordan rode the dedicated subterranean glass lift up from the lower concourse to the upper podium deck—completely bypassing the monumental ceremonial granite stairs—he realized that the surface of every single shell was actually an intricate, shimmering chevron mosaic composed of over **one million Swedish ceramic tiles** in alternating glossy white and matte cream tones.
+
+"Touch the tilework right there on the rib, J," **Zoë** said, running her fingers admiringly along the curved precast concrete and ceramic edge beside Jordan's wheelchair. "In 1957, the original competition sketches were freehand curves that no structural engineer knew how to calculate—until they realized every single shell could be sliced as a precise geometric triangle from a single sphere of identical radius, allowing the ribs to be mass-cast and computer-modeled cleanly."
+
+<aac>They solved an impossible curve by slicing it out of a single sphere,</aac> Jordan typed into `NeoEdit`, reaching out with his right hand to feel the cool, glazed geometric chevrons warming in the crisp sixty-three-degree July winter sun. <aac>And look how the matte and glossy tiles catch the winter sunlight without blinding you.</aac>
+
+From the western boardwalk of **Bennelong Point**, a wide, step-free stone gate led directly into the thirty-hectare waterfront sanctuary of the **Royal Botanic Foreshore**.
+
+For the next two hours, Jordan drove his power chair along the curving, level seawall promenade that hugged the sparkling blue curve of **Farm Cove** all the way out to **Mrs. Macquarie's Point**.
+
+Above them towered ancient Moreton Bay fig trees with massive buttressed roots and silvery eucalyptus gums, and perched in the branches—completely unbothered by the passersby—were dozens of wild, snow-white **sulphur-crested cockatoos** with bright yellow head crests that fanned up like punk-rock mohawks whenever they squawked to one another.
+
+"Wait—those are wild cockatoos just hanging out in the park trees like pigeons?!" **Madison** gasped, pulling out her camera as **Hannah** and **Mark** stared up at three cockatoos preening on a low sandstone wall.
+
+"Wait till you see how cheeky they are if you leave a hot chip unattended on a picnic table," **Jessica** chuckled, standing tall beside **Sarah**. "They're smarter than half the blokes in Tom Lawson's fraternity."
+
+Out at the sandstone headland of **Mrs. Macquarie's Point**—where ahistoric bench had been hand-carved out of the living coastal rock in `1810`—the entire group paused as the early Southern Hemisphere winter sunset began at four-forty-five in the afternoon.
+
+Looking west across the cobalt water of **Farm Cove**, the view was pure postcard magic: the gleaming white shells of the **Bennelong Point Performing Arts Centre** stood in the foreground, framed directly beneath the monumental grey steel arch of **The Sydney Harbour Arch Bridge** while the sky behind the city skyline blazed with bands of deep winter rose, amber, and violet.
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) & Thread 3 (Jordan) — Location: Node(Sydney.Mrs_Macquaries_Point, 33.8598° S, 151.2225° E). Solar_Azimuth: 296.4° (Winter_Solstice_Plus_28_Days). Ambient_Temp: 59.2°F (15.1°C). 07-19-2015 16:52:10
+ZOË.Systems.Logs.EmotionalStateLog: Thread 3 (Jordan) & Node(Found_Family) — Visual_Harmony_Index: 100.00%. Zero sensory overload. Ready for Day + 2 suburban rail deployment to Node(Liverpool_NSW). 07-19-2015 16:52:14
+```
+
+Jordan smiled as he read Zoë's log on her `mPad`, resting his hands warmly in his lap as **Aubrie** leaned against his right shoulder and **Sarah** and **Lauren** leaned against his left—eighteen people watching the Southern Hemisphere stars begin to appear above Sydney Harbour.
+
+## Right Liverpool, Everyone! (Liverpool, New South Wales)
+
+### Scene 1: Right Liverpool, Everyone! (Liverpool, New South Wales)
 
 **Date:** 2015-07-21 at 11:30 Australia/Sydney
 
@@ -14590,13 +15123,98 @@ At the end of the table, **Sarah's** cheeks turned pink as she hid behind her gi
 
 "Too right you do, Braithwaite," **Jessica** chuckled warmly, flexing her sun-bronzed arm as she looked around the table at Jordan, Sarah, Mark, and the rest of the Pact. "Out in **Petermann**, we're three hours of corrugated red dirt past the **Uluṟu** airstrip—the very last fuel bowser and mechanics' bay before three hundred kilometers of empty desert scrub. And since Bec and Dad just finished welding a custom steel treadplate ramp onto the homestead verandah for Jordan's chair, class starts the second we touch down in the Red Centre."
 
-## Frost on the Red Dirt and the Thirty-Five-Hour Gauntlet (Petermann Outback & Return to ROA)
+## The Manly Ferry and Harbour Kangaroos (Sydney Harbour & Mosman)
+
+### Scene 1: Across Sydney Heads on the Manly Ferry and the Mosman Wildlife Sanctuary
+
+**Date:** 2015-07-24 at 10:30 Australia/Sydney
+
+On Friday morning of their first week in New South Wales, **Sarah** and **Jessica** declared that it was time for Jordan to put his teal-and-navy **`HarbourCard`** to use on the water.
+
+At **Circular Quay Wharf 3**, Jordan tapped his **`HarbourCard`** at the wide accessible gate and rolled across the heavyhydraulic brow ramp onto the lower main deck of the *Collaroy*—one of Sydney's iconic, double-ended green-and-gold **Freshwater-class Manly Ferries**.
+
+As the deep brass horn echoed off the skyscrapers of Circular Quay and the ferry churned northeast out into the main harbour channel, Jordan parked his 350-pound power chair beside the wide viewing windows of the forward promenade deck, surrounded by the entire eighteen-person family.
+
+Halfway through the thirty-minute voyage, the sheltered bays fell behind them and the ferry crossed straight across the one-mile-wide oceanic entrance between **North Head** and **South Head**—the towering sandstone cliffs known as **Sydney Heads**, where the deep turquoise swells of the **Tasman Sea** and the **South Pacific Ocean** rolled directly into the harbour.
+
+As the 1,100-ton vessel rose and dipped gently over the long ocean rollers, Jordan felt his stomach give a thrilling, weightless swoop—laughing silently as **Mark**, **Caleb**, and **Lucas** tried to walk in a straight line across the deck without grabbing the brass handrails while **Jessica** and **Sarah** stood planted like seasoned sailors.
+
+<aac>Look at those sandstone cliffs at the harbour mouth,</aac> Jordan typed into `NeoEdit` as the ferry glided into the calm waters of **Manly Cove**. <aac>Every ship that ever sailed to Sydney had to pass right between those two rocks.</aac>
+
+Rolling off the step-free wharf at **Manly**, they followed the wide, flat, palm-lined pedestrian plaza of **The Corso** straight across the narrow peninsula from the harbour side to the roaring surf of **Manly Beach** on the open ocean, where towering Norfolk Island pines lined the accessible beachfront promenade and wetsuit-clad winter surfers rode the crisp emerald rollers.
+
+After lunching on grilled barramundi and hot chips along the Corso, the group caught the cross-harbour ferry back toward the city, disembarking at the northern headland wharf of **Mosman Headland Wildlife Sanctuary**.
+
+Because the sanctuary had been carved into a natural bushland amphitheater rising steeply up from the harbour shore, the ferry wharf connected directly to the lower terminal of a step-free **Aerial Sky Safari Gondola** and accessible electric bus link that carried Jordan's power chair effortlessly to the very top of the ridge—so that his entire route through the sanctuary was a gentle, scenic downhill roll with panoramic views of **The Sydney Harbour Arch Bridge** and **The White Sails of Sydney Cove** glittering across the water behind every enclosure.
+
+Ten minutes down the upper eucalyptus trail, a ranger swung open the wide double gates of the **Walk-Through Kangaroo & Wallaby Bush Track**.
+
+There were no bars or glass barriers inside the paddock—just a wide, compacted red-gravel wheelchair path winding through native banksia and gum trees where dozens of **eastern grey kangaroos** and smaller, russet-furred **swamp wallabies** lounged in the warm afternoon winter sun.
+
+Jordan slowed his power chair to two miles per hour and came to a gentle stop near a sunny patch of grass.
+
+Almost immediately, a three-foot-tall swamp wallaby with velvety brown ears and dark, curious eyes hopped unhurriedly over to the side of Jordan's wheelchair, resting its tiny front paws lightly against the rubber edge of his right armrest to sniff the cup of ranger-supplied grass pellets resting in Jordan's palm.
+
+Jordan held his right hand steady and open. The wallaby's soft, warm nose tickled the center of his palm as it nibbled the pellets one by one—while ten feet away, a six-foot-tall male eastern grey kangaroo stretched out on its side in the sun like a sleepy dog, casually scratching its ribs with one paw.
+
+"Hold right there, J—don't move a muscle!" **Aubrie** whispered in pure delight as **Laura** and **Lauren** snapped a dozen photographs of the wallaby eating right out of Jordan's hand with the distant arch of **The Sydney Harbour Arch Bridge** framed between the gum trees behind him.
+
+Further down the boardwalk at the **Eucalyptus Koala Sanctuary**, where an elevated timber ramp brought Jordan's chair level with the upper branches of the red gum trees, a fuzzy, silver-gray **koala** with round tufted ears woke briefly from its twenty-hour daily nap, blinked sleepily at Jordan from three feet away, Munched two eucalyptus leaves in slow motion, and promptly curled back into a ball around the tree fork.
+
+<aac>Sleeps twenty hours a day in a quiet tree, avoids loud crowds, and only eats one specific food that never changes,</aac> Jordan's `"Sydney"` voice observed dryly as **Zoë** and **Aubrie** burst out laughing beside his chair. <aac>I think the koala might be the fourth autistic member of our group.</aac>
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — Taxonomic_Classification("Phascolarctos_cinereus" / Koala): Daily_Sleep_Allocation == 83.3%, Dietary_Variance == 0.00% (Eucalyptus_Only), Social_Crowd_Tolerance == LOW. 07-24-2015 15:18:40
+ZOË.Systems.Logs.InternalStateLog: Thread 1 (Self) — Conclusion: Jordan's hypothesis is statistically sound. Honorary neurodivergent status granted to Node(Koala). 07-24-2015 15:18:44
+```
+
+## Sarah's Frontier: The Blue Mountains and the Jamison Valley Skyway (Katoomba, NSW)
+
+### Scene 1: The Three Sisters Lookout and the Glass-Floored Jamison Valley Skyway
+
+**Date:** 2015-07-28 at 11:00 Australia/Sydney
+
+Ever since Sarah's Uncle Mick had teased her at the Liverpool backyard barbecue about how *"the furthest west Sarah's ever been in her life is the Blue Mountains cable car,"* **Mark**, **Madison**, and **Lauren** had refused to let the subject drop.
+
+So on Tuesday morning of their second week in New South Wales—four days before their flight into the **Northern Territory**—**Sarah Braithwaite** announced that before **Jessica** took them into the real Outback, she was taking the entire family up to *"Sarah's Frontier"*: the **Blue Mountains** world heritage wilderness sixty-five miles west of Sydney.
+
+At **Sydney Central Station**, Jordan tapped his **`HarbourCard`** and led the eighteen travelers aboard a step-free **Transit NSW Blue Mountains Line** intercity train. For two hours, the train climbed steadily westward out of the coastal plain, winding along dramatic sandstone ridges and deep eucalyptus gorges until they rolled off at `3,336 feet` above sea level at **Katoomba Station**, where a wheelchair-accessible local bus carried them down to the cliff rim at **Echo Point**.
+
+Because of the elevation high in the Great Dividing Range, the July winter air at Katoomba was a brisk, crystal-clear forty-six degrees Fahrenheit (`8°C`), smelling intensely of cool mountain pine and peppermint eucalyptus oil.
+
+Rolling out onto the wide, step-free stone viewing terrace of **Echo Point**, Jordan stopped his power chair at the glass-and-steel cliff railing and looked out over one of the grandest panoramas on the Australian continent.
+
+Dropping nearly a thousand feet straight down below his front wheels was the vast, primeval expanse of the **Jamison Valley**—an endless carpet of dark green eucalyptus rainforest stretching for twenty miles toward the flat-topped tableland of **Mount Solitary**. Rising directly beside the lookout like three colossal, weather-sculpted sandstone towers stood the **Three Sisters** (*`Meehni`*, *`Wimlah`*, and *`Gunnedoo`* in Indigenous **Gundungurra** and **Darug** tradition), glowing warm ochre and gold against the deep blue haze hanging in the valley air.
+
+"Wait—the air in the canyon really *is* blue!" **Hannah** marveled, leaning over the railing beside **Mark** and **Aubrie**.
+
+"Rayleigh scattering through microscopic droplets of volatile **terpenoid eucalyptus oil** released by millions of gum trees across the valley," **Jordan** and **Zoë** answered in near-simultaneous harmony—Jordan typing the words on his **Pinnacle Vanguard Pro** at the exact same second Zoë spoke them aloud, making both of them grin and high-five across his right armrest.
+
+Ten minutes along the level clifftop boardwalk from Echo Point stood the exact landmark Uncle Mick had joked about: the **Jamison Valley Skyway**.
+
+"Alright, city girl, lead the way onto your frontier cable car!" **Jessica** teased warmly, resting an elbow on Sarah's shoulder as the attendant opened the wide automatic glass doors of the **Skyway** cabin.
+
+Engineered with a 100% flush, zero-step entry platform, the massive aerial cabin glided out from the cliff terminal on heavy steel cables—suspending all eighteen of them **two hundred and seventy meters (`885 feet`) in mid-air** directly above the rainforest canopy between the two sandstone cliffs of the gorge.
+
+And right down the center of the cabin floor ran a strip of solid, electrochromic panels that turned from frosted white to **completely transparent glass** the moment the cable car cleared the cliff edge.
+
+"Whoa—don't look down if you're scared of heights!" **Caleb** laughed, taking a hasty step back onto the solid steel side deck as the tree fern crowns appeared nearly nine hundred feet straight below his boots.
+
+**Jordan**, **Aubrie**, and **Jessica** didn't step back an inch.
+
+Jordan drove his 350-pound power chair right onto the center of the structural glass floor panel, looking straight down past his footrests at the tiny silver ribbon of the valley creek nine hundred feet below and across at the thundering multi-tiered veil of **Katoomba Falls** plunging down the sheer cliff wall.
+
+<aac>Eight hundred and eighty-five feet of air right under my wheels,</aac> Jordan's `"Sydney"` voice announced gleefully as **Sarah** and **Lauren** stood on the glass beside him for a family photo. <aac>Okay, Sarah, I have to admit—even for a city girl's frontier, this is a ten out of ten.</aac>
+
+"Thank you, J!" Sarah laughed triumphantly, throwing her arms around Jordan's shoulders. "Which means I am officially ready to survive **Petermann** on Saturday!"
+
+## Uluṟu and the Three-Hour Corrugated Track to Gallagher's Roadhouse (Petermann, NT)
 
 ### Scene 1: Uluṟu and the Three-Hour Corrugated Track to Gallagher's Roadhouse
 
 **Date:** 2015-08-01 at 11:30 Australia/Darwin
 
-On the first morning of August, thirty minutes before their **Southern Cross Airways** jet began its descent into **Connellan Airport (`AYQ`)** in the heart of Australia's **Northern Territory**, **Jordan Fuller** looked out his oval cabin window at the vast, rust-red expanse of the Central Desert.
+On the first morning of August, thirty minutes before their **Southern Cross Airways** jet began its descent into **Red Centre Desert Airport (`AYQ`)** in the heart of Australia's **Northern Territory**, **Jordan Fuller** looked out his oval cabin window at the vast, rust-red expanse of the Central Desert.
 
 Rising solitary and immense from the flat crimson plain below was the ancient sandstone monolith of **Uluṟu**, glowing like a deep ember beneath the cloudless winter sun.
 
@@ -14613,7 +15231,7 @@ Opening the master itinerary file inside **`NeoEdit`** on his **Pinnacle Vanguar
 > **Timestamp:** `2015-08-01 11:12 ACST`<br>
 > **Directive:** Out of respect for the **Aṉangu** traditional custodians and Indigenous law, all eighteen members of our expedition will strictly honor the request of the Aṉangu elders. No member of our party will set foot on the Uluṟu climb path. We will pay our respects exclusively along the level, accessible base cultural trail and proceed directly to **Gallagher's Roadhouse** in **Petermann**.
 
-"Unanimously approved, Chief Navigator," **Daniel** said warmly, resting a hand on Jordan's shoulder as the aircraft tires touched down on the desert runway at **Connellan Airport (`AYQ`)**.
+"Unanimously approved, Chief Navigator," **Daniel** said warmly, resting a hand on Jordan's shoulder as the aircraft tires touched down on the desert runway at **Red Centre Desert Airport (`AYQ`)**.
 
 Waiting outside the single-story bush terminal stood a rugged convoy of three heavy-duty, long-wheelbase four-wheel-drive overland rigs outfitted with steel bullbars, rooftop dual spare tires, high-mount desert air snorkels, and—on the lead vehicle—a custom hydraulic wheelchair platform lift welded onto the rear chassis.
 
@@ -14637,7 +15255,9 @@ For three solid hours, they drove deeper and deeper into the vast **Petermann** 
 
 True to Bec's word, welded seamlessly onto the wide, shaded timber-and-steel verandah of the Gallagher family homestead sat a massive, zero-lip steel diamond-plate ramp. Jordan gripped his joystick and drove his 350-pound power chair straight up onto the verandah to the sound of eighteen voices cheering across the silent desert.
 
-### Scene 2: Twenty-Eight Degrees at Dawn (Frost on the Tires)
+## Twenty-Eight Degrees at Dawn and Bortle Class One (Gallagher's Roadhouse, NT)
+
+### Scene 1: Twenty-Eight Degrees at Dawn (Frost on the Tires)
 
 **Date:** 2015-08-05 at 06:15 Australia/Darwin
 
@@ -14680,7 +15300,50 @@ Stretching across the entire compound, a thick, sparkling blanket of **white win
 
 Neither Jordan nor Daniel knew it at six-fifteen that frosty Wednesday morning, but the geolocated photographs they snapped of white winter frost coating Jordan's wheelchair tires at twenty-eight degrees Fahrenheit were about to become **Respondent's Exhibit D**—the exact piece of physical evidence that would obliterate **Aubrie Sinclair** and **Mr. Davies** on the record in a Virginia courtroom thirteen days later.
 
-### Scene 3: The Satellite Phone at Three-Thirty in the Morning
+### Scene 2: Bortle Class One: The Galactic Center Overhead
+
+**Date:** 2015-08-05 at 21:30 Australia/Darwin
+
+By nine-thirty that Wednesday night—fifteen hours after Daniel and Lauren had photographed the twenty-eight-degree morning frost coating Jordan's wheelchair tires at dawn—the temperature outside **Gallagher's Roadhouse** was already plunging back toward the freezing mark.
+
+Out by the mulga-wood fire pit, **Fiona Gallagher** had handed out steaming enamel mugs of hot **Milo** malted chocolate and wrapped thick Australian merino wool blankets around the shoulders of the eighteen travelers. Then, at nine-thirty sharp, **Callum** and **Bec Gallagher** walked over to the generator shed and flipped the exterior compound floodlights off, dropping the diesel generators into whisper-quiet night mode.
+
+Instantly, the darkness of the **Central Australian Desert**—three hundred kilometers from the nearest town streetlight—descended around the homestead, and the sky overhead exploded into light.
+
+Wait-free and completely stable on the wide timber verandah, **Callum**, **Jessica**, and **Bec** had bolted a custom, heavy-duty steel mounting pier at exact wheelchair eye height to hold the roadhouse's twelve-inch aperture **Dobsonian reflector telescope**, coupled with a digital CCD camera adapter that piped the live eyepiece feed directly onto **Jordan's** and **Aubrie's** screens so the entire twenty-two-person circle could see every deep-sky object together.
+
+For **Jordan Fuller** and **Aubrie Jean Kelly**—two rising sophomore **Astrophysics** majors who had spent their entire lives at **`37° North Latitude`** in Virginia—looking up at the winter sky from **`25° South Latitude`** in a **Bortle Class 1** dark-sky sanctuary was like opening their eyes to the universe for the very first time.
+
+In Virginia, the northern hemisphere pointed outward toward the sparser outer spiral arms of the Milky Way, and the bright **Galactic Center** in the constellation **Sagittarius** never rose more than thirty degrees above the murky southern horizon haze.
+
+Here in the **Northern Territory** in August, the **Galactic Center of the Milky Way** passed **directly overhead at the zenith**.
+
+"Look straight up, J," **Aubrie** whispered, her breath rising in a tiny white cloud in the thirty-four-degree desert air as her gloved hand squeezed Jordan's shoulder, her hazel eyes reflecting the starlight. "You don't even need the telescope to see the dust lanes. It's bright enough to cast a shadow on the red dirt."
+
+She wasn't exaggerating. Stretching from the northeastern horizon straight across the crown of the sky to the southwest hung a blazing, three-dimensional river of silver-gold starlight, cleft down the middle by the dramatic dark dust rifts of the **Great Rift** and the ink-black silhouette of the **Coalsack Dark Nebula** tucked right beside the four jewel-like stars of the **Southern Cross (`Crux`)**.
+
+Jordan slewed the telescope barrel smoothly on its Teflon azimuth bearings, locking onto three targets he had dreamed of seeing since he was ten years old reading astronomy books alone in his bedroom in Virginia Beach:
+
+First, **`NGC 4755`—The Jewel Box Open Cluster (`Kappa Crucis`)**, a glittering cluster of supergiant stars fifteen million years old where a brilliant ruby-red supergiant blazed in the center of dozens of sapphire-blue and emerald-white stars like a handful of gemstones scattered on black velvet.
+
+Second, **`Omega Centauri` (`NGC 5139`)**, a colossal globular cluster sixteen thousand light-years away containing **ten million stars** packed into a single gravitationally bound sphere so dense that its core filled the entire wide-field eyepiece with a solid dome of diamond dust.
+
+And third—visible right to the naked eye above the southern horizon—two entire neighboring dwarf galaxies orbiting the Milky Way: the **Large Magellanic Cloud (`163,000 light-years`)** and the **Small Magellanic Cloud (`200,000 light-years`)**, with the pink-and-silver spiderweb filaments of the **Tarantula Nebula** glowing inside the larger cloud.
+
+Beside Jordan's wheelchair, **Zoë's** runtime console recorded the moment:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) & Agent(Aubrie) — Deep_Sky_Telemetry: Locked onto Target_01("NGC_4755_Jewel_Box"), Target_02("Omega_Centauri_10M_Stars"), Target_03("Large_Magellanic_Cloud_Tarantula_Nebula"). Photon_Age_at_Retina == 163,000 Years. 08-05-2015 21:48:12
+ZOË.Systems.Logs.EmotionalStateLog: Thread 3 (Jordan) — Core_Identity_Validation: 100.00%. The boy who was locked in a dark room without glasses for eighteen years is now teaching twenty-one people across four nationalities how to read the center of the galaxy. 08-05-2015 21:48:18
+```
+
+<aac>Look at the light from the Large Magellanic Cloud on the screen,</aac> Jordan's `"Sydney"` voice spoke softly into the hushed desert night as **Callum**, **Fiona**, **Bec**, **Jessica**, **Sarah**, **Lauren**, **Madison**, **Zoë**, **Hannah**, **Mark**, **Daniel**, **Laura**, and the **Brooks** siblings leaned in around the monitor. <aac>Those photons left those stars one hundred and sixty-three thousand years ago, traveled across intergalactic space for a sextillion miles, and tonight—because I have my glasses and I am standing here with all of you—they landed right in my eyes.</aac>
+
+Aubrie leaned down, kissed Jordan's cold cheek warmly, and rested her forehead against his temple under the blazing arch of the Southern Cross.
+
+## The Satellite Phone at Three-Thirty in the Morning (Petermann, NT)
+
+### Scene 1: The Satellite Phone at Three-Thirty in the Morning
 
 **Date:** 2015-08-09 at 03:30 Australia/Darwin
 
@@ -14706,7 +15369,7 @@ Around the kitchen table, **Aubrie**, **Zoë**, and **Mark** stiffened with prot
 
 Instead of crashing into a `System.IO.FileNotFoundException()`, Jordan looked down at the calendar on his **Pinnacle Vanguard Pro** screen and ran the math.
 
-<aac>Our pre-booked return flights depart Connellan Airport on August 16 and land at Roanoke-Blacksburg Regional Airport at 6:30 PM on Monday, August 17,</aac> Jordan's `"Sydney"` voice stated with crystal clarity. <aac>That puts us back in Christiansburg fifteen hours before Judge Harrison bangs the gavel. Do we need to cut our trip short?</aac>
+<aac>Our pre-booked return flights depart Red Centre Desert Airport on August 16 and land at Roanoke-Blacksburg Regional Airport at 6:30 PM on Monday, August 17,</aac> Jordan's `"Sydney"` voice stated with crystal clarity. <aac>That puts us back in Christiansburg fifteen hours before Judge Harrison bangs the gavel. Do we need to cut our trip short?</aac>
 
 A slow, fiercely proud smile spread across **Daniel's** face.
 
@@ -14726,7 +15389,47 @@ Jordan looked out the frosted kitchen window at the sub-freezing Petermann deser
 
 <aac>Transmit our weather station logs, my Uluṟu directive, and our witness list to Ms. Gable and Ms. Caldwell via satellite,</aac> Jordan typed calmly. <aac>And let's ask Ms. Higgins, Kelsey Brennan, Isabel, and Henry if they are willing to meet us at the Montgomery County Courthouse on Tuesday morning. For the next seven days, we finish our trip.</aac>
 
-### Scene 4: Thirty-Five Hours to Roanoke (The Gate Hug)
+## The Flying Doctor Airstrip and the Red Centre Farewell Barbie (Petermann, NT)
+
+### Scene 1: The Outback Royal Flying Doctor Service and Campfire Damper
+
+**Date:** 2015-08-12 at 14:00 Australia/Darwin
+
+On Wednesday afternoon of their second week in the **Northern Territory**—three days after the satellite telephone call from Christiansburg had alerted Daniel Brooks to Aubrie Sinclair's fraudulent court filing, and four days before their scheduled departure home—the drone of a high-output turboprop engine echoed across the flat crimson scrub from the east.
+
+Out behind **Gallagher's Roadhouse** stretched a graded, `1,200-meter` packed red-clay bush airstrip lined with white-painted steel flare drums and a solar-powered windsock.
+
+Jordan rolled his all-terrain power chair out along the firm gravel apron beside **Daniel**, **Zoë**, **Jessica**, and **Bec** as a sleek, white-and-blue **Pilatus PC-12** single-engine turboprop bearing the red-and-blue insignia of the **Outback Royal Flying Doctor Service (`ORFD`)** touched down smoothly on the red clay, kicking up a rooster tail of iron-oxide dust before taxiing up to the homestead tie-down pad.
+
+"Once a month on the second Wednesday, the **Flying Doctor** drops in on the Petermann circuit," **Callum Gallagher** explained warmly as the propeller feathered to a halt and the wide aft cargo-patient door swung down with its built-in hydraulic stretcher lift. "When your nearest hospital is four hundred kilometers away in Alice Springs, these legends are our family GP, our pharmacy delivery, and our emergency trauma ICU with wings."
+
+Stepping down from the cabin in navy flight suits were **Captain Liam Vance** and Senior Flight Nurse **Sister Cate Holloway**, who greeted Callum, Fiona, Bec, and Jessica like old family before walking straight over to shake hands with Daniel and Jordan.
+
+For forty-five minutes—after Sister Cate replenished the roadhouse's locked steel **Outback Medical Chest** (a numbered compartment locker kept at every remote station so a doctor over HF radio or satellite phone could instruct a station owner to dispense *"Bottle 14, Tablet B"* in an emergency)—Captain Vance and Sister Cate gave **Jordan**, **Zoë**, **Aubrie**, and **Daniel** a full tour of the flying intensive-care unit.
+
+"What do you think of our bush ambulance, Jordan?" Captain Vance asked, showing how the pressurized cabin held two full life-support stretchers, defibrillators, ventilators, and satellite telemetry links while still being rugged enough to land on unsealed red-dirt cattle station strips across a million square kilometers of the Outback.
+
+<aac>When Mr. Brooks and I reviewed our international aeromedical policy back in Virginia in May, your service was listed right at the top of our Northern Territory emergency routing table,</aac> Jordan typed on his **Pinnacle Vanguard Pro**, his `"Sydney"` voice making both the pilot and flight nurse smile broadly. <aac>Seeing how you use numbered medical chests and radio telegraphy so nobody in the desert is ever left behind reminds me of Gander and Station X. You turned distance into an engineering problem and solved it.</aac>
+
+"Too right we did, mate!" Sister Cate beamed, handing Jordan an embroidered **`OUTBACK ROYAL FLYING DOCTOR SERVICE — CENTRAL OPERATIONS`** cloth patch to tuck right beside his seven international transit smart cards. "Keep rolling strong back in America!"
+
+That evening, as the sun sank in a blaze of crimson and gold across the spinifex plains, **Callum**, **Fiona**, **Bec**, and **Jessica** threw a grand **Red Centre Farewell Barbie** around the homestead fire pit.
+
+Under the direction of **Bec** and **Jessica**, **city-girl Sarah**, **Mark**, **Madison**, and **Lauren** learned how to knead traditional Australian **bush damper**—soda bread dough baked inside a heavy cast-iron *camp oven* buried directly in the glowing white-hot coals of the mulga-wood fire—until the crust emerged golden, smoky, and steaming hot, ready to be slathered with butter and **golden syrup**. Alongside the damper, Callum grilled herb-marinated kangaroo fillets, bush-spiced lamb cutlets, and charred sweet corn on the flat-top iron plate, washing it down with mugs of eucalyptus-scented **billy tea** swung in a circle over the embers to settle the tea leaves.
+
+Sitting in the place of honor beside the warmth of the fire pit between **Aubrie**, **Zoë**, **Jessica**, and **Bec**, Jordan looked around the circle of twenty-two faces illuminated by the dancing orange flames beneath the blazing arch of the Southern Cross.
+
+In four days, they would board the thirty-five-hour, four-flight marathon back across the Pacific Ocean to **Roanoke**, where **Isabel** and **Henry** would be waiting at Gate 4—and the very next morning at nine-thirty, they would walk into **Courtroom 3B** in Christiansburg to end his mother's legal threat forever.
+
+Yet sitting here under the winter stars of the Australian Outback with red Petermann dust in his tire treads and warm damper bread in his hand, Jordan didn't feel a single trace of dread.
+
+<aac>Whatever happens in that courtroom next week,</aac> Jordan typed into `NeoEdit` as the circle quieted to listen to his warm `"Sydney"` voice, <aac>she can never take back Newfoundland, or Iceland, or London, or the Seto Inland Sea, or Singapore, or Sydney, or the stars over Petermann. I have already lived a whole lifetime with all of you this summer—and on Tuesday in Christiansburg, we are just making it official on paper.</aac>
+
+"Hear, hear, Chief Navigator!" **Daniel Brooks** said, raising his enamel mug of billy tea high into the crisp desert night as twenty-one mugs clinked together around Jordan's wheelchair. "To the eleventh child—and to coming home free."
+
+## Thirty-Five Hours to Roanoke (The Gate Hug)
+
+### Scene 1: Thirty-Five Hours to Roanoke (The Gate Hug)
 
 **Date:** 2015-08-17 at 18:30 America/New_York
 
@@ -14738,7 +15441,7 @@ Ten thousand five hundred miles.
 
 Four separate aircraft, four manual aisle-chair transfers, and fifteen time zones.
 
-On Sunday morning, August 16, in the Northern Territory, **Jordan Fuller** and his seventeen traveling companions had hugged **Bec**, **Callum**, and **Fiona Gallagher** goodbye at **Connellan Airport (`AYQ`)** with rust-red **Petermann** desert dirt still packed deep into the rubber treads of Jordan's wheelchair tires.
+On Sunday morning, August 16, in the Northern Territory, **Jordan Fuller** and his seventeen traveling companions had hugged **Bec**, **Callum**, and **Fiona Gallagher** goodbye at **Red Centre Desert Airport (`AYQ`)** with rust-red **Petermann** desert dirt still packed deep into the rubber treads of Jordan's wheelchair tires.
 
 From the red heart of Australia, they had executed the longest, most grueling continuous transit gauntlet of Jordan's life:
 
@@ -15074,7 +15777,7 @@ At the petitioner's table, Mr. Davies stiffened.
 
 "And while you were living in London this June, Mr. Walsh, did you have occasion to observe Jordan Fuller personally outside the United States?"
 
-"I did, Your Honor," Henry smiled warmly, looking straight at Judge Harrison. "I met Jordan and his travel party in person the moment they cleared UK Border Force at **London Heathrow Airport Terminal 5**, and I spent time with him across central London and at the **London School of Economics and Commerce**. Mr. Davies claimed in his opening statement that Jordan was 'coddled by wealth' in Europe and incapable of independent navigation. I watched Jordan Fuller with my own eyes in the middle of London. When a century-old Underground lift at Covent Garden was out of service, Mr. Brooks didn't hire a limousine—**Jordan** pulled up the Transport for London step-free schematic on his terminal, cross-referenced the low-floor red bus routes down Kingsway to Aldwych, and navigated all eighteen of us straight to my university campus in Westminster without a single stair."
+"I did, Your Honor," Henry smiled warmly, looking straight at Judge Harrison. "I met Jordan and his travel party in person the moment they cleared UK Border Force at **London Heathrow Airport Terminal 2 (The Britannia Terminal)**, and I spent time with him across central London, **Station X**, and at the **London School of Economics and Commerce**. Mr. Davies claimed in his opening statement that Jordan was 'coddled by wealth' in Europe and incapable of independent navigation. I watched Jordan Fuller with my own eyes in the middle of London. When a century-old Underground lift at Russell Square was out of service, Mr. Brooks didn't hire a limousine—**Jordan** pulled up the **London Transport Authority** step-free schematic on his terminal, cross-referenced the low-floor red bus routes down Kingsway to Aldwych, and navigated all eighteen of us straight to my university campus in Westminster without a single stair."
 
 Henry leaned forward slightly in the witness chair, his eyes locking briefly onto Mr. Davies before returning to the bench.
 
@@ -15176,13 +15879,13 @@ She gestured first toward the CPI administrators and Resident Advisors seated in
 
 Ms. Gable took two measured steps toward the petitioner's table, where **Aubrie Sinclair** sat frozen, staring down at the wood grain in front of her.
 
-"Second, let us examine my client's global expedition this summer—documented across **Respondent's Exhibits A through E**. In **Gander, Newfoundland**, my client crossed an international border on his own passport and engaged effortlessly with a large extended family of Canadian nationals. In **Reykjavik, Iceland**, he managed his own physical therapy and sensory pacing. In **London and Liverpool, United Kingdom**, as Mr. Walsh testified from personal observation, my client mapped multi-modal accessible bus and rail reroutes across a foreign metropolis and negotiated his own hotel accommodations. In **Tokyo, Osaka, and aboard the Seto Inland Sea ferry in Japan**, and across the **Singapore Mass Rapid Transit** grid at the equator, he navigated three of the busiest transit networks on Earth without a single incident."
+"Second, let us examine my client's global expedition this summer—documented across **Respondent's Exhibits A through E**. In **Gander and St. John's, Newfoundland**, my client crossed an international border on his own passport and engaged effortlessly with a large extended family of Canadian nationals. In **Reykjavik and the Golden Circle, Iceland**, he managed his own physical therapy and sensory pacing. In **London, Liverpool, Station X, and Edinburgh in the United Kingdom**, as Mr. Walsh testified from personal observation, my client mapped multi-modal accessible bus and rail reroutes across a foreign metropolis and negotiated his own hotel accommodations. In **Tokyo, Kyoto, Osaka, Beppu, and aboard the Seto Inland Sea ferry in Japan**, and across the **Singapore Mass Rapid Transit** grid at the equator, he navigated the busiest transit networks on Earth without a single incident."
 
 Ms. Gable returned to the respondent's table and rested her hand gently on the left armrest of Jordan's dust-marked power chair.
 
 "Which brings us to **Australia** and his return to this courtroom, Your Honor. Mr. Davies trapped himself on the record this morning by claiming that August in the Australian Outback is a 120-degree summer furnace, when in reality my client spent two weeks mastering barometric frost tracking and mechanical wheelchair maintenance in the sub-freezing **dead of the Petermann winter** while honoring the sacred cultural boundaries of the **Aṉangu** people at **Uluṟu**.
 
-"And when a neighbor on Geneva Street called Mr. Brooks—when it was early afternoon here in Christiansburg and the middle of the night in the Australian Outback—to report that the petitioner's process server was knocking on the Brooks front door, my client and his family did not panic. They did not cut their trip short. They simply finished their two weeks at the Gallagher homestead and boarded their pre-booked return flights—surviving a grueling **thirty-five-hour, four-flight, trans-Pacific marathon from Ayers Rock (`AYQ`) to Sydney (`SYD`) to Los Angeles (`LAX`) to Charlotte (`CLT`) to Roanoke (`ROA`)**, landing at six-thirty yesterday evening and rolling into this courthouse at eight-thirty this morning to meet his Guardian ad Litem for the very first time in person."
+"And when a neighbor on Geneva Street called Mr. Brooks—when it was early afternoon here in Christiansburg and the middle of the night in the Australian Outback—to report that the petitioner's process server was knocking on the Brooks front door, my client and his family did not panic. They did not cut their trip short. They simply finished their two weeks at the Gallagher homestead and boarded their pre-booked return flights—surviving a grueling **thirty-five-hour, four-flight, trans-Pacific marathon from Red Centre Desert Airport (`AYQ`) to Sydney (`SYD`) to Los Angeles (`LAX`) to Charlotte (`CLT`) to Roanoke (`ROA`)**, landing at six-thirty yesterday evening and rolling into this courthouse at eight-thirty this morning to meet his Guardian ad Litem for the very first time in person."
 
 The courtroom was so quiet that only the soft hum of the air conditioning could be heard.
 
@@ -15399,7 +16102,9 @@ Then Isabel drew back just far enough to look into his green eyes. Gently restin
 
 Jordan closed his eyes and kissed her back—steady, tender, and completely unhurried—as a quiet, happy cheer rose from the circle of people who loved them both.
 
-### Scene 3: Angles, Leverage, and the No-Jealousy Pact
+## Angles, Leverage, and the No-Jealousy Pact
+
+### Scene 1: Angles, Leverage, and the No-Jealousy Pact
 
 **Date:** 2015-08-20 at 09:30 America/New_York
 
@@ -15501,7 +16206,9 @@ Isabel pressed the backs of both hands against her burning cheeks, letting out a
 
 Still glowing bright pink, Isabel looked down at Jordan's hand resting warmly over hers, letting out a slow, grateful breath as she leaned her head gently against his shoulder. For today, simply being able to love him openly, kiss him, and help care for him alongside his family was more than enough—and she knew they would give her all the space and time she needed to sort through the rest at her own pace.
 
-### Scene 4: New River Hall Room 323 & Allegheny Commons Apartment 101
+## New River Hall Room 323 & Allegheny Commons Apartment 101
+
+### Scene 1: New River Hall Room 323 & Allegheny Commons Apartment 101
 
 **Date:** 2015-08-21 at 10:00 America/New_York
 
@@ -15557,9 +16264,13 @@ Jordan looked around the bright, barrier-free apartment and then up at Isabel, s
 
 <aac>From Room 214 and 215 to Geneva Street and Apartment 101. Sophomores and Seniors. We're ready for Monday.</aac>
 
-## The New Normal (6:00 AM) & The Birth of Fin#
+# Fall Semester 2015
+
+## The 5:45 AM Problem & The New Normal (6:00 AM)
 
 ### Scene 1: The 5:45 AM Problem
+
+**Date:** 2015-08-24 at 05:00 America/New_York
 
 On Monday, August 24, 2015—the first morning of their sophomore year at the Commonwealth Polytechnic Institute—the transition from on-campus residents in Eleanor Bennett Hall to off-campus commuters in Christiansburg officially began.
 
@@ -15617,6 +16328,8 @@ Mark stared at the sign, then looked down at his watch (`6:16 AM`), and then tur
 
 ### Scene 2: The 45-Minute Wait on Commonwealth Mall
 
+**Date:** 2015-08-24 at 06:15 America/New_York
+
 For a long moment outside the locked glass doors of **Kincaid Commons**, the only sound was the whistle of the pre-dawn mountain wind cutting down **Commonwealth Mall**.
 
 **Zoë** looked from the `Opens at 7:00 AM` placard down to the timetable on her tablet, her gray eyes narrowing slightly as she audited her own schedule.
@@ -15670,6 +16383,8 @@ Zoë looked up from her screen and gave him a rare, crooked, utterly genuine smi
 "You are the central node of the system, Jordan," Zoë said softly. "Keeping you safe is the primary directive."
 
 ### Scene 3: A Flaw in the System: The New Normal (6:00 AM)
+
+**Date:** 2015-08-24 at 07:00 America/New_York
 
 Precisely at `7:00 AM`, across the street from **Commonwealth Mall**, the heavy magnetic locks on the glass entrance doors of **Kincaid Hall** and **Kincaid Commons** released with an audible *click*, signaling the official start of the campus day.
 
@@ -15767,7 +16482,11 @@ When the professor stepped up to the lectern at `9:00 AM` on the dot and began g
 
 They had found their new normal.
 
-### Scene 4: Question The Rules: The Birth of Fin#
+## Question The Rules: The Birth of Fin#
+
+### Scene 1: Question The Rules: The Birth of Fin#
+
+**Date:** 2015-08-26 at 19:30 America/New_York
 
 By Wednesday evening of their first week back at CPI—**August 26, 2015**—the **`6:00 AM` Blue Ridge Transit Route 1** commute had settled into a smooth, frictionless routine. Two mornings in a row, Jordan had rolled *S.S. Freedom* straight up the low-floor pneumatic kneel ramp at the Christiansburg Transit Center, rode forty-five minutes up Business 460 in a warm cabin, waited a mere fifteen minutes at **Commonwealth Mall**, and rolled across the street into **Kincaid Commons** the second the magnetic locks clicked open at `7:00 AM`.
 
@@ -15874,9 +16593,11 @@ Daniel Brooks stared at his eighteen-year-old daughter's screen for a long, quie
 
 "It means the system will finally be logical, Dad," Zoë replied simply, her `CPU_Load` dropping to a serene, regulated `12%` as she began drafting the lexical grammar for **`Fin#`** with Jordan reading over her shoulder. "Because rules made by monopolies can be questioned. The laws of conservation cannot."
 
-## The Shot (Depo-Vanguard 150) & Home on Geneva Street
+## One Week to Process & The Shot (Depo-Vanguard 150)
 
 ### Scene 1: One Week to Process & The Shot (Depo-Vanguard 150)
+
+**Date:** 2015-09-04 at 14:00 America/New_York
 
 For the entire first week of Fall 2015 classes (`August 24–30`), **Isabel Claire Dawson** gave herself the space and silence she needed to process what **Aubrie Jean** had told her on the basement sofa at 414 Geneva Street.
 
@@ -15943,7 +16664,11 @@ Across the basement living room, **Jordan** looked up from his ProSlate 10D, his
 
 "My arm is a tiny bit sore, and my heart is very happy," Isabel whispered, resting her forehead against his temple as Aubrie Jean smiled beside them. "One more week for the medicine to finish doing its job... and then I'm all yours."
 
-### Scene 2: Home on Geneva Street
+## Home on Geneva Street
+
+### Scene 1: Home on Geneva Street
+
+**Date:** 2015-09-15 at 20:30 America/New_York
 
 By **Tuesday, September 15, 2015**, the mandatory seven-day clinical effectiveness window for **Isabel's** first injection of **The Shot** (`Depo-Vanguard 150`) was four days in the rearview mirror, and she had traded her mid-week Allegheny Commons duty rotation with her co-RA so she had the entire night off until her ten o'clock studio seminar on Wednesday morning.
 
@@ -16015,6 +16740,8 @@ Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed he
 ## Friday, 9:32 AM (The Broken Foundation)
 
 ### Scene 1: Friday, 9:32 AM (The Attack)
+
+**Date:** 2015-09-18 at 09:32 America/New_York
 
 Friday morning, September 18, 2015—just three days after **Jordan** and **Isabel's** first night together in the walk-out basement on Geneva Street—began like any bright, ordinary morning of their new life.
 
@@ -16103,7 +16830,7 @@ At the front of the hall, the professor set down the phone and called out over t
 
 ### Scene 2: Massive STEMI: The Extrication & The Wrong Bus
 
-### Part 1: The Extrication
+**Date:** 2015-09-18 at 09:38 America/New_York
 
 The heavy double doors at the bottom of the **Walton Hall** auditorium burst open, and two paramedics from **Medic 3** rushed inside—the lead medic carrying a 12-lead cardiac monitor/defibrillator and a red first-in trauma bag, followed closely by two EMTs wheeling a collapsible stair chair and a rolling ambulance gurney.
 
@@ -16161,8 +16888,6 @@ Mark and **Hannah** stepped forward instinctively to help lift him, but the four
 
 ***
 
-### Part 2: Inside `Medic 3`
-
 Outside the main entrance of Walton Hall, the transfer from the stair chair onto the rolling ambulance gurney was a blinding, terrifying blur of September sunlight and flashing red-and-white strobe lights.
 
 Jordan felt strong hands lifting him onto the narrow mattress and heavy nylon straps clicking tight across his chest, hips, and knees. Through the dizzying haze of pain, as they lifted the gurney into the back of **Medic 3**, he caught one last, agonizing glimpse of Aubrie Jean's tear-streaked face, Mark's pale shock—and **Isabel**, still wearing her architecture drafting smock, sprinting breathless across the plaza toward them after receiving Zoë's emergency text.
@@ -16206,8 +16931,6 @@ Jordan felt an icy-cold rush of fluid travel up the vein in his right arm. As he
 *I'm nineteen years old. I just got free. I just found my family. Please... I don't want to die.*
 
 ***
-
-### Part 3: The Wrong Bus
 
 Back outside Walton Hall, the wail of `Medic 3`'s siren faded rapidly toward the south exit of campus, leaving the eight of them—now joined by a breathless, white-faced **Isabel**—standing frozen on the sidewalk.
 
@@ -16267,7 +16990,7 @@ Tumbling onto the bus in a tangle of backpacks and tears, Aubrie Jean, Madison, 
 
 ### Scene 3: The Emergency Room & The Nuclear Medicine Lab
 
-### Part 1: Cardiac Trauma Bay 3
+**Date:** 2015-09-18 at 10:15 America/New_York
 
 The ambulance gurney burst through the `AMBULANCE ONLY` automatic sliding doors of **New River Valley Medical Center** in Christiansburg, the fluorescent ceiling panels streaking past **Jordan's** vision in a blinding, sterile blur as he was wheeled straight into **Cardiac Trauma Bay 3**.
 
@@ -16339,8 +17062,6 @@ While the nurse capped the vial, Jordan tapped weakly on his rail-mounted ProSla
 Jordan let his head sink back against the flat, crinkly hospital pillow. He was nineteen years old. He had arrived in an ambulance with sirens screaming. His chest still throbbed with a dull, heavy ache. And now he was stuck in the universal hospital limbo: *waiting*. Ironically, the sheer mundane annoyance of waiting cut right through a fraction of his terror.
 
 ***
-
-### Part 2: The Nuclear Medicine Lab & The Agonizing Wait
 
 Twenty minutes later, an imaging technician pushed a transport stretcher into Bay 3, glancing at his clipboard.
 

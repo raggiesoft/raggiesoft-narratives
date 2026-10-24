@@ -306,3 +306,40 @@
 | Agent Sterling | James Bond / 007 | The iconic British superspy film franchise. The character is known as Agent Sterling (Operative 008). |
 | Kensington-Royce | Rolls-Royce | The ultra-luxury British automobile manufacturer. |
 | Tidewater Square Mall | Chesapeake Square Mall | The mall located in Chesapeake, VA. |
+
+### International Landmarks, Museums, Transit, & Cultural Venues (Universal Across All Narratives)
+
+| Real-World Landmark / Institution | In-Universe Equivalent | Location & Notes |
+| :--- | :--- | :--- |
+| Air Canada & Maple Leaf Lounge | Maple Leaf Air & Northern Crown Lounge | Canadian flag carrier and airport lounge network (`Toronto Pearson [YYZ]`, `Gander [YQX]`). |
+| North Atlantic Aviation Museum & Cobb's Pond Rotary Park | Gander Transatlantic Aviation Museum & Gander Heritage Boardwalk & Pond | Gander, Newfoundland and Labrador, Canada (`Operation Yellow Ribbon` / *Safe Haven* exhibit). |
+| Cape Spear & Signal Hill / Cabot Tower | Avalon Eastern Point & Beacon Hill / Marconi Stone Tower | St. John's, Newfoundland and Labrador, Canada (easternmost accessible boardwalk in North America along *Iceberg Alley*, and site of the 1901 transatlantic wireless telemetry reception). |
+| Icelandair & Strætó bs. | Nordic Air & Reykjavik Capital Transit (`Vagninn` / `NordicPass`) | Icelandic flag carrier and yellow low-floor metropolitan bus network. |
+| Blue Lagoon | The Azure Lagoon (`Heiðrúnarlón`) | Geothermal mineral spa in Grindavík, Reykjanes Peninsula, Iceland (equipped with stainless-steel balloon-tire amphibious water wheelchairs). |
+| Hallgrímskirkja & Harpa Concert Hall | Skólavörðuholt Basalt Cathedral (`Hallgríms Cathedral`) & Aurora Glass Concert Hall (`Norðurljós Hall`) | Reykjavik, Iceland landmarks modeled on hexagonal volcanic basalt columns. |
+| Þingvellir, Geysir/Strokkur, & Gullfoss (*The Golden Circle*) | The Rift Valley National Park (`Alþingi Continental Rift Boardwalk`), Haukadalur Geyser Basin, & The Golden Cataract | Iceland's Golden Circle route where visitors roll directly between the North American and Eurasian tectonic plates. |
+| Transport for London (TfL), Oyster Card, & Thames Clippers | London Transport Authority (`LTA`), `Pearl Card`, & Thames Riverbus Clippers | Greater London transit authority, smart card, and step-free catamaran riverbus fleet. |
+| Heathrow Terminal 2 (*The Queen's Terminal*) | Heathrow Terminal 2 (*The Britannia Terminal*) | London Heathrow Airport (`LHR`). |
+| London School of Economics (LSE) | London School of Economics and Commerce (`LSEC`) | Houghton Street, Holborn, London, UK. |
+| Buckingham Palace & Victoria Memorial | St. James's Sovereign Palace & The Sovereign Memorial | The Mall, Westminster, London, UK. |
+| Palace of Westminster & Big Ben (*Elizabeth Tower*) | Westminster Parliament Palace & The Great Westminster Clock Tower (*St. Stephen's Bell*) | Parliament Square, London, UK. |
+| London Eye | The Thames Millennium Wheel | South Bank observation wheel with continuous step-free roll-on glass capsules. |
+| The British Museum & Science Museum (South Kensington) | The Royal Antiquarian Museum (Bloomsbury) & The South Kensington Museum of Science & Computing | London museums housing the Rosetta Stone / antiquities and Charles Babbage's *Difference Engine No. 2* & Alan Turing's *Pilot ACE*. |
+| Bletchley Park & The National Museum of Computing | Station X / The Enigma Codebreaking Estate | Milton Keynes, England, UK (home of the rebuilt *Colossus Mark 2* vacuum-tube computer and Turing's electro-mechanical *Bombe*). |
+| Virgin Trains West Coast (*Pendolino*) & Merseyrail | Albion InterCity Rail (*Class 390 Tilting Express*) & Mersey Transit (`MerseyPass`) | UK West Coast Main Line high-speed tilting rail and Merseyside regional transit. |
+| Royal Albert Dock, Royal Liver Building, & *The Beatles Story* | Victoria & Albert Maritime Dock, The Mersey Spire Building (*The Three Graces*), & *The Mersey Four Story Exhibition* | Liverpool, Merseyside, England, UK waterfront landmarks. |
+| Royal Yacht *Britannia* (Leith, Edinburgh) | Royal Yacht *Caledonia* | Permanently berthed at Ocean Terminal in Leith, Edinburgh, Scotland, UK (retrofitted with glass elevators across all five decks). |
+| All Nippon Airways (ANA) / JAL, JR East (*Suica*), & JR West (*ICOCA*) | Nippon Skyways, Nippon Rail East (`NR East` / `Midori Card`), & Nippon Rail West (`NR West` / `KansaiPass`) | Japanese aviation and rail networks, including the **Tōkaidō Bullet Line**. |
+| Meiji Shrine, Sensō-ji (*Kaminarimon*), & Tokyo Skytree | Yoyogi Imperial Cedar Shrine, Asakusa Lantern Temple, & The Edo Sky Spire (`634m`) | Major barrier-free landmarks in Tokyo, Japan. |
+| Yurikamome Line & Miraikan (National Museum of Emerging Science) | Rainbow Bridge Automated Transit Line & Odaiba Future Science & Robotics Museum (`Mirai-kan`) | Driverless elevated bay transit line and robotics/Geo-Cosmos museum in Odaiba, Tokyo. |
+| Fushimi Inari Taisha & Kiyomizu-dera (Kyoto) | Inari Mountain Thousand-Gate Shrine & Pure Water Hillside Pavilion (`Seisui-dera`) | Kyoto, Japan historic sanctuaries along with the **Arashiyama Bamboo Grove Boardwalk**. |
+| Osaka Castle & Osaka Aquarium Kaiyukan | Osaka Golden Keep (`Ōsaka-jō`) & Tempozan Pacific Ring Aquarium | Osaka, Japan landmarks featuring an 8-story exterior castle accessibility lift and a continuous half-mile spiral ramp around the central whale-shark tank. |
+| Ferry Sunflower (Osaka–Beppu) & Beppu Hells (*Jigoku Meguri*) | `Ferry Hoshizora` (*Starry Sky*) & Beppu Seven Geothermal Springs (*Cobalt Sea Spring* & *Crimson Thermal Pond*) | Overnight Seto Inland Sea RORO car ferry and Kyūshū geothermal boardwalk springs. |
+| Singapore Airlines, SMRT (*EZ-Link*), & Marina Bay Sands | Lion City Airlines, Singapore Mass Rapid Transit (`MerlionLink Card`), & Marina Bay SkyDeck Towers | Singapore aviation, driverless transit, and waterfront hotel resort. |
+| Gardens by the Bay (*Cloud Forest*, *Flower Dome*, & *Supertree Grove*) | Marina Bay Botanical Sanctuaries (*The Mist Mountain Biome*, *The Mediterranean Glass Conservatory*, & *The Solar Arbor Grove*) | Barrier-free equatorial conservatories and vertical solar gardens in Marina Bay, Singapore. |
+| Lau Pa Sat, Helix Bridge, & Singapore Flyer | Telok Ayer Victorian Heritage Market, The Double-Helix Pedestrian Bridge, & The Equator Observation Wheel | Singapore culinary and waterfront architectural landmarks. |
+| Qantas & Transport for NSW (*Opal Card*) | Southern Cross Airways & Transit NSW / Sydney Rail (`HarbourCard`) | Australian flag carrier and New South Wales double-decker rail & ferry network. |
+| Sydney Opera House & Sydney Harbour Bridge | Bennelong Point Performing Arts Centre (*"The White Sails of Sydney Cove"*) & The Sydney Harbour Arch Bridge | Iconic Sydney Cove landmarks at Circular Quay, NSW, Australia. |
+| Taronga Zoo & Scenic World (Blue Mountains, Katoomba) | Mosman Headland Wildlife Sanctuary & Katoomba Three Sisters Lookout / Jamison Valley Skyway | Sydney Harbour native wildlife sanctuary and glass-floored aerial cable car in the Blue Mountains, NSW. |
+| Ayers Rock Airport (Connellan Airport) & Royal Flying Doctor Service | Red Centre Desert Airport (`AYQ`) & Outback Royal Flying Doctor Service (`ORFD`) | Northern Territory, Australia desert aviation and remote flying ICU medical network serving **Uluṟu** and **Gallagher's Roadhouse (Petermann)**. |
+
