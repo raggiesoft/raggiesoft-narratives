@@ -13558,7 +13558,7 @@ As the bus hissed to a stop, the driver spotted Jordan's power chair waiting at 
 
 Jordan drove straight up the hydraulic incline into the wide, low-floor central bay, spun his chair neatly in a tight 180-degree turn, and backed securely against the high padded crash-pad backrest facing the rear of the bus.
 
-"Do I tap Jordan's Pearl Card on the reader?" Madison asked, holding her own sky-blue **`Pearl Card`** by the yellow circular oyster pad.
+"Do I tap Jordan's Pearl Card on the reader?" Madison asked, holding her own sky-blue **`Pearl Card`** by the yellow circular reader pad.
 
 "No need, love!" the London bus driver called back cheerfully through his cab partition window. "Wheelchair users ride every red bus in London completely free of charge. Everyone else just tap your Pearl Cards once on the yellow reader!"
 
@@ -13570,29 +13570,90 @@ Rolling south through the heart of London on the lower deck of a red double-deck
 
 At Trafalgar Square (`Whitehall / Trafalgar Square, Stop N`), Jordan led a textbook three-minute cross-stop transfer onto a red **Route 11** double-decker bus (`11 VICTORIA`).
 
-Their second red bus rolled straight down **Whitehall** past the mounted Horse Guards cavalry in their silver cuirasses and plumed helmets, swung around **Parliament Square** directly beneath the gleaming gold-and-black clock face of **Big Ben** and the gothic spires of the **Palace of Westminster**, and cruised down Victoria Street where Jordan signaled the blue wheelchair-stop bell button right beside his armrest.
+Their second red bus rolled straight down **Whitehall** past the mounted Horse Guards cavalry in their silver cuirasses and plumed helmets, swung around **Parliament Square** directly beneath the gleaming gold-and-black clock face of **Big Ben** and the gothic spires of the **Palace of Westminster**, and cruised down Victoria Street where Jordan pressed the blue wheelchair-stop bell button right beside his armrest.
 
 When the hydraulic ramp lowered at **Buckingham Palace Road**, the entire eighteen-person family rolled along the wide, level royal promenade of **The Mall**—shaded by double rows of London plane trees and giant Union Flags—all the way up to the gilded iron gates of **Buckingham Palace** and the gleaming white marble of the **Victoria Memorial**.
 
 "Look at the navigator who got eighteen people from Bloomsbury to the Queen's front gate without a single stair," Laura Brooks beamed, snapping a series of family photographs with Jordan front and center before the palace gates—another piece of visual evidence that **Ms. Gable** would later place directly before the judge in Virginia.
 
-After lunch at a step-free pub patio near St. James's Park, Jordan mapped a third red bus hop—**Route 38** up Shaftesbury Avenue and across to Regent Street—so Daniel, Laura, and Zoë could take him into the heart of **Soho**.
+After lunch at a step-free pub patio near St. James's Park, Daniel looked over at Jordan with a warm, nostalgic glint in his eye.
 
-Rolling onto the pedestrianized, brightly colored pavement of **Carnaby Street**, Daniel stopped outside a narrow four-story brick building where a vintage vinyl record shop and a bespoke guitar boutique occupied the ground floor, with tall sash windows on the upper stories above.
+"Alright, Chief Navigator," Daniel said softly. "What do your spider maps say about getting us up to Regent Street and Soho? It's time we showed you **Carnaby Street**."
 
-"Look up at the third-floor window on the left, Jordan," Daniel said quietly, his eyes warm with nostalgia as Laura slipped her arm around his waist and Zoë stood beside Jordan's chair. "That was our flat before we moved to Osaka and then Virginia. That's the exact window where Zoë learned to read systems manuals at three years old while **Fractured Prisms** were rehearsing two doors down."
+### Scene 4: Carnaby Street and the Hollow Square
 
-"And where my processor first realized that street noise without soundproof double-glazing is deeply inefficient," Zoë added dryly, though a fond, unmistakable smile tugged at her lips as she reached down to squeeze Jordan's hand.
+**Date:** 2015-06-08 at 15:00 Europe/London
 
-Jordan looked up at the third-floor window above Carnaby Street, then down at Zoë, Daniel, and Laura. First Lauren had shown him her roots in Gander; now Zoë and her parents had brought him to the exact London street corner where their family had begun.
+From Piccadilly, Jordan guided the family aboard a low-floor red double-decker bus up the sweeping curve of Regent Street, disembarking via the hydraulic ramp at Beak Street and rolling east into the heart of **Soho**.
 
-### Scene 4: Houghton Street and the Transatlantic Reunion Call
+One block in, the roar of London traffic vanished behind them as they passed beneath a famous wrought-iron welcome arch spanning a vibrant, completely pedestrianized thoroughfare paved in level stone flags:
+
+**`WELCOME TO CARNABY STREET`**
+
+For more than half a century, this narrow fourteen-street enclave in the City of Westminster had been the beating heart of British music and fashion culture. Independent record shops, Mod tailors, bespoke guitar luthiers, and brightly painted three- and four-story Georgian and Victorian shopfronts lined both sides of the car-free walkway.
+
+Halfway up the street, near the corner of Foubert's Place, Daniel and Laura Brooks slowed to a stop outside a narrow four-story brick building. On the ground floor sat a classic Soho vinyl record store with wooden crate bins set out beneath its awning; above the shop rose three stories of residential flats with tall white sash windows.
+
+"Look up at the third-floor window on the left, Jordan," Daniel said quietly, slipping his arm around Laura's waist as Zoë stepped up beside Jordan's wheelchair. "That was our flat before my firm transferred us to Osaka and then Virginia. That's the exact window where Zoë learned to read systems architecture manuals at three years old—and where my acoustic engineering work first crossed paths with the London studio engineers who knew the Manning family."
+
+"And where my processor first determined that Soho street volume without double-glazed windows is a structural design flaw," Zoë added dryly, though her gray eyes were warm with childhood affection as she looked up at the brickwork.
+
+Right at that moment, inside the ground-floor vinyl shop beneath their old flat, the clerk dropped the needle onto a newly remastered 180-gram LP spinning on the front turntable.
+
+Pouring out through the open shop doors into the warm afternoon air of Carnaby Street came a brooding, solitary drum-machine pulse, quickly joined by a deep, resonant analog synth bassline—the unmistakable opening bars of **[*"The Hollow Square"*](https://music.raggiesoft.com/artists/fractured-prisms/1983-carnaby-street?track=1-01-the-hollow-square)**, the lead track from **[Fractured Prisms](https://music.raggiesoft.com/artists/fractured-prisms)**' landmark 1983 album, ***[Carnaby Street](https://music.raggiesoft.com/artists/fractured-prisms/1983-carnaby-street)***.
+
+Jordan's hands stilled over his keyboard as Rhys Manning's voice rose over the street:
+
+> *"Four empty spaces in the room*<br>
+> *A silent echo in the gloom*<br>
+> *We crossed the water to find a shore*<br>
+> *But left behind what came before..."*
+
+"You know why Rhys and Claire Manning named that album after this street, don't you, J?" Daniel asked softly as the massive gated snare drum kicked in on the chorus.
+
+Jordan tilted his head, looking from the spinning vinyl turntable inside the shop window back up to Daniel.
+
+"Back in the winter of 1981," Daniel explained, his voice low and respectful beneath the soaring progressive-pop synthesizers, "before they were called **Fractured Prisms**, there were six of them—siblings and cousins in the **Manning Family Orchestra** from Romford. Before driving north for a show across the Scottish border, all six of them—Rhys, Claire, Gwen, Alistair, Julian, and Simon—spent their last afternoon in London right here in this exact record shop on **Carnaby Street**, laughing and digging through the import crates together."
+
+Beside Jordan, Aubrie and Lauren listened silently as the second verse echoed off the Soho brick:
+
+> *"The cables hum, the circuits glow*<br>
+> *To mask the quiet down below*<br>
+> *We sequence notes to fill the void*<br>
+> *A symphony we re-employed*<br>
+> *Just two remain to hold the line*<br>
+> *And reconstruct the grand design..."*
+
+"Twenty-four hours later," Daniel continued quietly, "their tour van hit black ice in a blizzard on Shap Fell in Cumbria. Gwen, Alistair, Julian, and Simon were killed. Only Rhys and his sister **Claire** survived—and the crash left Claire permanently paralyzed in a wheelchair, battling devastating autistic sensory overwhelm and grief."
+
+Jordan's breath caught in his chest. He had heard *"The Hollow Square"* on the radio before, but he had never known the story behind the lyrics—or that Claire Manning was an autistic wheelchair user just like him.
+
+"Everyone in the British press thought they were finished," Zoë picked up softly, resting her hand on the cool magnesium-alloy edge of Jordan's **Pinnacle Vanguard Pro**. "Instead, Rhys and Claire fled across the Atlantic to their father's old ranch house in Williamsport, Maryland. Rhys refused to hire session musicians to stand in the four empty spaces of their family—the *Hollow Square*. Instead, he filled the basement with analog synthesizers, sequencers, and drum machines so the two of them could build a sound big enough to survive inside, while Claire taught herself to play Gwen's salvaged wooden flute from her wheelchair. And when they released that album in October 1983, they named it ***Carnaby Street***—after the last place on earth where all six of them had been whole and safe together."
+
+As the soaring melodic guitar solo broke over the driving drum-machine beat and built into the final chorus—
+
+> *"Standing in the hollow square!*<br>
+> *Reaching out, but no one's there!*<br>
+> *We forge the armour, paint the sky*<br>
+> *To keep the fading embers high!"*
+
+—Jordan looked down at his own glowing `NeoEdit` terminal, mounted to the frame of his power chair on the stones of Carnaby Street.
+
+*The cables hum, the circuits glow.*
+
+Just like Rhys and Claire Manning had used cables, circuits, and sequenced notes to build a fortress against trauma when the world tried to break them, Zoë had handed Jordan a Linux laptop and a custom kernel patch in Bennett Hall so he could build his voice—and six extraordinary women, a brother like Mark, a sister like Hannah, and the entire Brooks family had closed ranks around his wheelchair so his square would never be hollow again.
+
+Jordan typed slowly, letting his `"Sydney"` voice blend softly with the fading synth bass of the outro:
+
+<aac>They used circuits and cables to build a sanctuary across the ocean,</aac> Jordan said quietly, looking up at Zoë, Aubrie, and Daniel. <aac>Just like you did for me.</aac>
+
+### Scene 5: Houghton Street and the Transatlantic Reunion Call
 
 **Date:** 2015-06-09 at 13:15 Europe/London
 
 At twelve-fifty on Tuesday afternoon, Jordan steered the group away from the stairs-only entrance of **Holborn Underground Station** and guided them aboard the low-floor red **Route 91** bus down **Kingsway**, stepping off via the hydraulic ramp at **Aldwych** just two hundred yards from the **London School of Economics and Commerce (`LSEC`)**.
 
-Unlike the sprawling, Neo-Gothic **Ironstone**Drillfield of **Commonwealth Polytechnic Institute** back in Blacksburg, `LSEC` was a dense, vertical urban campus woven directly into the historic streets and legal inns of court between Kingsway and the Royal Courts of Justice. Even so, the university had fitted its pedestrianized streets and modern academic buildings with flush dropped curbs, automatic glass doors, and wide platform lifts.
+Unlike the sprawling, Neo-Gothic **Ironstone** Drillfield of **Commonwealth Polytechnic Institute** back in Blacksburg, `LSEC` was a dense, vertical urban campus woven directly into the historic streets and legal inns of court between Kingsway and the Royal Courts of Justice. Even so, the university had fitted its pedestrianized streets and modern academic buildings with flush dropped curbs, automatic glass doors, and wide platform lifts.
 
 As Jordan rolled onto the smooth paving stones of **Houghton Street** outside the **Old Building**, the heavy double doors swung open and a wave of international university students poured out from their final summer-term seminar—led by **Henry Walsh** with his leather messenger bag slung over his shoulder.
 
