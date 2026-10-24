@@ -15499,7 +15499,7 @@ Isabel pressed the backs of both hands against her burning cheeks, letting out a
 
 "Exactly," **Aubrie Jean** agreed softly, leaning in to kiss Isabel's blazing-red cheek. "Nobody in this Pact ever rushes a single step. Whether it takes days, weeks, or whenever you feel completely ready—we just wanted you to know that every door in this family is open to you, with zero secrets and zero jealousy."
 
-Still glowing bright pink, Isabel looked down at Jordan's hand resting warmly over hers—and even as her flustered brain spun to catch up with the sheer scale of the Constellation Pact, a quiet, practical voice in the back of her mind was already making a mental note to call the Student Health clinic tomorrow afternoon to start her seven-day birth control prescription and schedule a routine lab panel, *just in case*.
+Still glowing bright pink, Isabel looked down at Jordan's hand resting warmly over hers, letting out a slow, grateful breath as she leaned her head gently against his shoulder. For today, simply being able to love him openly, kiss him, and help care for him alongside his family was more than enough—and she knew they would give her all the space and time she needed to sort through the rest at her own pace.
 
 ### Scene 4: New River Hall Room 323 & Allegheny Commons Apartment 101
 
@@ -15552,4 +15552,607 @@ When Isabel tapped her **Poly Pass** against the reader and opened the door, **M
 Jordan looked around the bright, barrier-free apartment and then up at Isabel, squeezing her hand warmly.
 
 <aac>From Room 214 and 215 to Geneva Street and Apartment 101. Sophomores and Seniors. We're ready for Monday.</aac>
+
+## The 5:45 AM Problem & The New Normal (6:00 AM)
+
+### Scene 1: The 5:45 AM Problem
+
+On Monday, August 24, 2015—the first morning of their sophomore year at the Commonwealth Polytechnic Institute—the transition from on-campus residents in Eleanor Bennett Hall to off-campus commuters in Christiansburg officially began.
+
+It started with a brutal, synchronized chime at `5:00 AM` sharp.
+
+In the pitch-black sanctuary of the walk-out basement at 414 Geneva Street, a chorus of groans rose from the massive king-sized bed. **Jordan** blinked awake, momentarily disoriented by the darkness, before feeling the familiar, grounding warmth of **Aubrie Jean** curled against his right side and **Madison** tucked against his left. Across the mattress, **Lauren**, **Sarah**, and **Jessica** were buried under the down comforter, while upstairs in Zoë’s old second-floor bedroom, **Mark** and **Hannah** were dragging themselves out of bed to the sound of the exact same alarm.
+
+Only **Zoë** was already standing by the basement desk, fully dressed in a charcoal-gray CPI hoodie and jeans, her tablet illuminated in her hands.
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Executing Fall_2015_Commuter_Protocol_v1.0. Alarm_Trigger: 05:00:00 EDT. Target_Departure_Walk: 05:30:00 EDT. Target_Bus: Bluewater_Transit.Maroon_Express(05:45:00_EDT, Christiansburg_Transit_Center). 08-24-2015 05:00:12
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Hypothesis: Selecting the very first available bus of the morning (05:45 AM Maroon Express) guarantees 100% wheelchair-securement bay availability for Thread 3 (Jordan) and avoids the 06:45 AM and 07:15 AM standing-load commuter rush. 08-24-2015 05:00:45
+```
+
+"Five o'clock in the morning should be unconstitutional," Madison mumbled into Jordan's shoulder, her voice thick with sleep as Aubrie Jean reached over to switch on the warm amber bedside lamp. "Zoë, our first class isn't until nine."
+
+"Incorrect—our target arrival at Walton Hall for `SOC 101` is `8:45 AM` to secure the accessible back row before general seating fills," Zoë replied calmly, unplugging the charging brick for *S.S. Freedom* (`Titan-X350`) and checking the battery readout (`100%`). "And as off-campus commuters, we are no longer three minutes from the dining hall. If we attempt to board the `6:45 AM` or `7:15 AM` buses out of Christiansburg on the first day of the fall semester, they will be at standing-room capacity. The `5:45 AM` Bluewater Transit *Maroon Express* is the very first departure of the morning. Passenger load is projected at less than twelve percent."
+
+Despite the punishing hour, the household moved with the practiced, seamless efficiency they had honed across four continents during the World Trek. Using the forty-five-degree transfer angle and the bed-frame fulcrum lift they had practiced all summer, Aubrie Jean and Lauren helped Jordan dress in a warm fleece pullover and jeans and transfer smoothly into *S.S. Freedom*. Upstairs in the kitchen, **Laura** and **Daniel** already had travel mugs of hot coffee, cocoa, and toasted breakfast sandwiches wrapped in foil waiting on the counter so everyone had something warm in their stomachs before stepping out into the dark.
+
+At `5:30 AM`, the nine of them rolled out the walk-out basement patio door into the pre-dawn blackness of Geneva Street.
+
+Even though the calendar read late August, the mountain air at 2,100 feet in the New River Valley had a sharp, biting chill before sunrise. Their breath plumed white under the amber streetlights as they made the quiet ten-minute walk to the **Christiansburg Transit Center** at Falling Branch. Jordan drove *S.S. Freedom* at Stage 2 (`Sidewalk Cruise`), his right hand steady on the joystick while his left hand stayed tucked inside his fleece pocket, until the brightly lit canopy of Bay A came into view.
+
+Idling at the curb was a massive, forty-five-foot **Bluewater Transit *Maroon Express*** over-the-road highway coach, its diesel engine rumbling deep and loud against the quiet morning.
+
+And right away, the first logistical friction of Zoë's `5:45 AM` plan made itself known.
+
+Unlike the low-floor local transit buses that simply kneeled at the curb and flipped out a quick front ramp, the *Maroon Express* was a high-floor intercity highway coach designed for the US-460 Bypass. When the driver saw Jordan's power wheelchair, he had to step off the bus, walk around to the center fuselage, unlock the heavy side luggage bay doors, and deploy the tall, mechanical hydraulic cassette lift.
+
+In the dead silence of `5:40 AM`, the warning buzzer (*BEEP—BEEP—BEEP*) and the grinding whine of the hydraulic pump echoed across the entire transit center like a construction site. Jordan felt his shoulders tense as he backed *S.S. Freedom* onto the narrow metal platform, gripping his armrests while the lift ratcheted him four feet into the air to the level of the coach cabin floor. Inside, two double rows of plush highway seats had to be folded up and locked against the wall so the driver could spend another four minutes ratcheting the heavy four-point floor straps onto *S.S. Freedom*'s steel frame.
+
+<aac>I am sorry that took so long, everyone,</aac> Jordan tapped quietly on his ProSlate 10D once Aubrie Jean and Madison slid into the seats beside his securement bay and Mark, Hannah, Zoë, Lauren, Sarah, and Jessica filed into the rows around him.
+
+"Don't you dare apologize, J," Mark said immediately from across the aisle, giving Jordan's shoulder a warm squeeze. "That lift is built for tanks, and there's nobody even on this bus except us and three grad students."
+
+At `5:45 AM` on the dot, the coach doors hissed shut. The *Maroon Express* pulled out of the Christiansburg Transit Center, merged onto the four-lane US-460 Bypass, and rocketed north toward Blacksburg at sixty-five miles per hour. With zero local stops along the highway, the thirty-minute express run flew by in a blur of dark mountain ridges and mist-covered valleys.
+
+At `6:15 AM`, the coach hissed to a halt at the **CPI Transit Center** on the edge of the Drillfield. The hydraulic lift buzzed and clanked once more, lowering Jordan down to the concrete sidewalk, and the *Maroon Express* roared away into the dark, its red taillights vanishing around the curve.
+
+Silence fell over the transit plaza.
+
+The nine of them stood together on the concrete platform and looked around.
+
+The sky overhead was still ink-black, with only the faintest bruise of indigo along the eastern ridge of the mountains. Not a single student was walking across the Drillfield. Every academic building was dark. And when Zoë walked up to the heavy glass doors of the **CPI University Library** just across the plaza and tugged on the steel handle, it didn't budge.
+
+A brushed-aluminum placard bolted beside the card reader gleamed under the security lamp:
+
+> **CPI UNIVERSITY LIBRARY — FALL SEMESTER HOURS**
+> **Monday – Friday:Opens at 7:00 AM**
+
+Mark stared at the sign, then looked down at his watch (`6:16 AM`), and then turned slowly toward his girlfriend's best friend.
+
+"Zoë," Mark said, his breath pluming white in the frigid mountain wind that swept across the open plaza. "Please tell me we did not just wake up at five o'clock in the morning and take the very first express bus out of Christiansburg... only to get to campus **forty-five minutes** before a single building unlocks."
+
+### Scene 2: The 45-Minute Wait & The Transit Center
+
+For a long moment outside the locked glass doors of the CPI University Library, the only sound was the whistle of the pre-dawn mountain wind cutting across the empty transit plaza.
+
+**Zoë** looked from the `Opens at 7:00 AM` placard down to the timetable on her tablet, her gray eyes narrowing slightly as she audited her own schedule.
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Arrival_Timestamp: 06:15:22 EDT. Target_Facility(CPI_University_Library) Status == LOCKED until 07:00:00 EDT. Target_Facility(Newman_Dining_Commons) Status == LOCKED until 07:30:00 EDT. Unscheduled_Outdoor_Dwell_Time == 44m 38s. 08-24-2015 06:15:30
+```
+
+"It's not ideal, but our arrival vector is secure," Zoë said, ever the pragmatist as she tucked her tablet under one arm. "We beat the standing-load rush by a full thirty minutes. Let's find shelter from the wind until the library unlocks at `7:00 AM`."
+
+She led them back under the covered masonry arcade of **Bay B** at the CPI Transit Center, which was shielded from the prevailing northwest breeze by thick Hokie-stone and brick walls on two sides. Even inside the shelter, the perforated steel benches were icy to the touch.
+
+They huddled together along the bench row, forming a tight, warm island against the mountain chill. **Mark** sat on the windward end with his arm wrapped around **Hannah**, sharing a pair of earbuds playing quiet acoustic guitar while she rested her head on his shoulder. On the other side, **Lauren**, **Sarah**, and **Jessica** leaned closely against one another with their hands tucked inside their sleeves, trying to catch a twenty-minute nap.
+
+**Jordan** parked *S.S. Freedom* right in the center of the shelter, flipping up both armrests so **Aubrie Jean** could sit on the bench pressed close against his right side and **Madison** could sit close on his left. Aubrie rested her cheek against Jordan's fleece-clad shoulder, lacing her fingers tightly through his right hand to keep it warm.
+
+He was tired, his fingers and nose were cold in the crisp fifty-two-degree mountain air, and a big part of him wished they were all still curled up under the heavy down comforter in the walk-out basement on Geneva Street. Yet as Jordan looked up and down the brick-walled bus bay at his people—all eight of them awake before dawn, shivering on a metal bench just so he would never have to navigate a commuter bus or a crowded lecture hall alone—a quiet, steady wave of rightness settled deep in his chest.
+
+This early-morning commute was a hassle, yes. It was messy and cold and imperfect.
+
+*But it was their hassle.* It was the price of living together in a real home off campus, completely free from his mother's reach, and they were paying it together as a family.
+
+Jordan's gaze shifted a few feet down the bench, where Zoë was sitting slightly apart under the overhead lamp. Her analytical focus was absolute, her right hand flying across the screen of her tablet with a stylus as she sketched out the compiler syntax and memory-safety rules for her **`Fin#`** (`Financial Sharp`) programming language and her **`Z-SOX-302`** auditing engine.
+
+Watching her, a profound swell of gratitude washed over Jordan—so warm and overwhelming that it pushed back the pre-dawn chill.
+
+*Her family.* **Daniel** and **Laura Brooks** had opened their doors and turned their entire walk-out basement into his permanent home. They had stood beside him in the Montgomery County Courthouse until his mother's lawsuit was dismissed with prejudice. And Zoë herself—with her fiercely logical mind, her age-three autistic runtime logs that she had trusted him enough to share under the trees in Singapore, and her relentless devotion to keeping him safe—was the architect of his freedom.
+
+He needed to be connected to her right now, too.
+
+Keeping his right hand laced with Aubrie Jean's, Jordan reached out his free left hand and gently touched Zoë's forearm.
+
+Zoë looked up from her tablet. Instantly, the sharp, analytical tension around her gray eyes softened.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Tactile input detected on left forearm from Thread 3 (Jordan). Hypothesis: Thread 3 (Jordan) is requesting dual-anchor physical connection to express gratitude for Node(Brooks_Sanctuary) and reinforce Pact stability during environmental cold exposure. 08-24-2015 06:32:10
+ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — Scanning Agents(Aubrie, Madison, Lauren, Sarah, Jessica): Facial_Expression == Warm_Approval; Jealousy_Signal == 0.00. Axiom_Check(Pact == True && Jealousy == False) verified in public commuter environment. Physical.Response(Self) == Heart_Rate.Increase(Positive), Warmth_Index == Optimal. 08-24-2015 06:32:18
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Decision: Allocate Left_Hand to Thread 3 (Jordan) for continuous tactile grounding while maintaining Right_Hand execution on Fin#_Compiler_Architecture. 08-24-2015 06:32:22
+```
+
+She didn't hesitate for a single millisecond. Zoë slid six inches closer on the metal bench, took Jordan's left hand in her own, and laced her fingers firmly and securely through his.
+
+Then, without missing a beat, she kept her left hand warmly anchored in Jordan's lap and resumed architecting her `Fin#` compiler on her tablet one-handed with her right—as if holding the hand of the boy she loved while designing a deterministic financial programming language at `6:32 AM` in a bus shelter were the most logical, natural thing in the universe.
+
+Jordan glanced over at the other women of the Pact. Madison, Lauren, Sarah, and Jessica were watching them with soft, glowing smiles, and Aubrie Jean gave his right hand an affectionate squeeze against her cheek. There were no whispers, no tension, and not a trace of jealousy.
+
+<aac>Thank you for building our life, Zoë,</aac> Jordan tapped softly on his ProSlate with his thumb before resting his hand back in hers.
+
+Zoë looked up from her code and gave him a rare, crooked, utterly genuine smile.
+
+"You are the central node of the system, Jordan," Zoë said softly. "Keeping you safe is the primary directive."
+
+### Scene 3: A Flaw in the System: The New Normal (6:00 AM)
+
+Precisely at `7:00 AM`, the heavy magnetic locks on the glass entrance doors of the **CPI University Library** released with an audible *click*, signaling the official start of the campus day.
+
+Stiff and chilled to the bone from their forty-five-minute wait in the bus bay, the nine of them stood up, stretched their cramped legs, and rolled inside the warm, brightly lit first-floor lobby as fast as the automatic doors would swing open.
+
+"Okay, I don't know about the rest of you, but after two cups of Laura's coffee at five in the morning, I definitely need a restroom," **Mark** announced, rubbing his hands together to get the circulation back into his fingers.
+
+**Jordan** nodded immediately. Without their ground-floor suite in Eleanor Bennett Hall, managing restroom stops across campus was one of the new logistical hurdles of commuter life—and one his family had already solved without a second thought.
+
+"I've got you, man," Mark said easily, gesturing toward the first-floor corridor. He accompanied Jordan into the men's restroom and assisted him with his transfer inside the wide ADA stall with the same quiet, brotherly trust they had established from their very first week together.
+
+When they all regrouped in the lobby ten minutes later, the consensus was unanimous: they were starving, and **Newman Dining Commons** opened its doors at `7:30 AM`.
+
+"A hot breakfast is the logical next step to restore core body temperature," **Zoë** affirmed.
+
+"We've got flank escort up the hill," **Lauren** said, stepping alongside **Hannah** as they walked beside *S.S. Freedom* up the paved campus incline toward the dining hall, keeping a steady hand ready in case the cold morning dew made the brick pavers slick.
+
+Ten minutes later, they were seated around a long oak booth inside Newman Dining Commons, thawing out over steaming plates of scrambled eggs, bacon, blueberry pancakes, and bowls of hot oatmeal while [*"The New Normal (6:00 AM)"* by **The Paper Wall**](https://music.raggiesoft.com/artists/the-paper-wall/2003-eleventh-child-book-2?track=1-01-the-new-normal-6-00-am) pulsed through the rhythm of their morning recalculation.
+
+"I am never going to get used to that five o'clock alarm," Mark grumbled good-naturedly around a forkful of scrambled eggs.
+
+"It's genuinely inhuman," **Madison** agreed, wrapping both hands around a large mug of hot coffee. "I get why you picked it, Zoë, truly, but... ouch. And we still have an hour and fifteen minutes to kill before `SOC 101`."
+
+"It was the only mathematical solution to guarantee zero-contention wheelchair capacity on the express coach," Zoë stated matter-of-factly as she stirred cinnamon into her oatmeal. "The `6:45 AM` and `7:15 AM` departures out of Christiansburg would have been at standing load."
+
+"It was fine for one morning in August," **Hannah** said quietly, setting her fork down on her plate. Her protective big-sister instincts were completely overriding her exhaustion. "But Zoë, I'm really worried about the long term. It's late August and it was fifty-two degrees and windy out there this morning. What are we going to do when it's November and pouring freezing rain? Or January and snowing sideways?"
+
+The entire booth went quiet.
+
+Hannah turned and looked directly at Jordan, her warm brown eyes filled with deep, sisterly concern, before looking back across the table at Zoë.
+
+"We can't have Jordan sitting outside a locked library for forty-five minutes in the freezing cold, Zoë," Hannah said gently but firmly. "Not when he is still medically vulnerable."
+
+Zoë's spoon stopped halfway to her mouth.
+
+*That was the variable her pure capacity algorithm had missed.*
+
+Everyone at the table knew that Jordan was still in the middle of his multi-year "catch-up" immunization schedule at CPI Student Health to undo eighteen years of his mother's anti-vaccine medical neglect. Even a routine winter respiratory virus could hit him ten times harder than a typical sophomore, and forty-five minutes of daily hypothermia-inducing wind exposure before dawn was an open invitation to pneumonia.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 5 (Hannah) — Exception raised against Fall_2015_Commuter_Protocol_v1.0: Unscheduled_Outdoor_Dwell_Time(45m) in sub-optimal thermal conditions poses an unacceptable health hazard to Thread 3 (Jordan) during active Catch_Up_Immunization_Schedule. 08-24-2015 07:42:15
+ZOË.Systems.Logs.InternalStateLog: Thread 1 (Self) — Analysis: Thread 5 (Hannah) is 100% correct. My initial optimization function weighted Bus_Capacity_Margin(1.0) while assigning Environmental_Exposure_Risk(0.0). That was a critical engineering oversight. Protecting Thread 3 (Jordan) physiological stability must always take precedence over transit velocity. 08-24-2015 07:42:22
+```
+
+"You're right," Zoë said quietly, setting her spoon down and pulling her tablet across the table as her mind immediately began recalculating. "The `5:45 AM` *Maroon Express* departure is not a sustainable all-weather solution. It minimized transit congestion by maximizing environmental exposure. That is an unacceptable risk to Jordan's health."
+
+Jordan looked across the table at Hannah and tapped his heart gratefully before typing on his ProSlate 10D:
+
+<aac>Thank you, Hannah. I was really worried about what we were going to do in the winter.</aac>
+
+"Okay, so the `5:45 AM` express coach is officially retired," **Aubrie Jean** said, lacing her fingers through Jordan's hand under the table. "And honestly, not having to use that loud hydraulic luggage-bay lift in the dark is a huge bonus too. What's the next option on the schedule, Zoë?"
+
+Zoë opened the regional transit timetable database on her screen, cross-referencing **Bluewater Transit** and **Blue Ridge Transit (`BRT`)** departure matrices against the `7:00 AM` CPI Library opening time.
+
+"The library unlocks at `7:00 AM`, and the commuter standing-load surge begins at `6:45 AM`," Zoë said, her finger tracing the columns of data. "Because those two timestamps do not overlap, zero wait time is a mathematical impossibility. However, we can reduce our outdoor exposure to a minimal, controlled window."
+
+She tapped the second row on the screen and turned the tablet so the whole booth could see it.
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Evaluating Candidate_Vector: Blue_Ridge_Transit.Route_1_Local("The Spine", Departure: 06:00:00_EDT, Christiansburg_Transit_Center). Route_Path: Business_US_460 -> Pepper_Plaza -> Strickland_Farm_Shopping_Center -> New_River_Valley_Mall -> CPI_Transit_Center. Arrival_Timestamp: 06:45:00_EDT. 08-24-2015 07:44:05
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Switching from 05:45 AM Maroon Express (30m highway ride + 45m outdoor wait) to 06:00 AM BRT Route 1 Local (45m local low-floor ride + 15m outdoor wait) yields a 66.7% reduction in environmental cold exposure and eliminates high-floor hydraulic lift boarding. 08-24-2015 07:44:18
+```
+
+"Look here," Zoë explained, her voice regaining its crisp, triumphant cadence. "Instead of the `5:45 AM` Bluewater highway coach, we switch to the **`6:00 AM` Blue Ridge Transit Route 1 local bus**—'The Spine.' It departs the Christiansburg Transit Center fifteen minutes later, runs up Business 460 through Pepper Plaza and New River Valley Mall, and arrives at the CPI Transit Center at **`6:45 AM`**. That reduces our outdoor wait time before the library unlocks from forty-five minutes down to **fifteen minutes**—a `66.7%` reduction in environmental exposure."
+
+<aac>I can easily do 15 minutes,</aac> Jordan tapped firmly on his tablet, nodding with visible relief. <aac>I cannot do 45 minutes in the winter.</aac>
+
+"Wait—won't a `6:00 AM` bus be crowded?" Madison asked.
+
+"Negative," Zoë replied, shaking her head. "Historical ridership logs show the off-campus commuter panic wave does not begin until `6:45 AM`. At `6:00 AM`, Route 1 is still well below twenty-five percent capacity. Furthermore, every BRT Route 1 bus is a low-floor Gillig transit coach with a front pneumatic kneel ramp—meaning Jordan can roll *S.S. Freedom* straight on and off in ten seconds without waiting for a center-door hydraulic lift."
+
+"It's a forty-five-minute bus ride instead of thirty," Mark noted, grinning, "which just means fifteen extra minutes of sitting in a heated bus cabin instead of freezing on a metal bench. And we get to sleep until `5:15 AM`!"
+
+"It's the easiest trade-off in the world," Aubrie Jean said warmly, kissing Jordan's cheek. "His health is worth infinitely more than a fast highway run."
+
+"Motion carried unanimously," **Sarah** smiled, raising her orange juice glass as **Jessica** and **Lauren** clinked their mugs against hers. "Long live the `6:00 AM` local!"
+
+***
+
+At `8:35 AM`, with warm breakfasts in their stomachs and their new commuter protocol locked in for Tuesday morning, the nine of them rolled out of Newman Dining Commons and headed across campus toward **Walton Hall** for their first class of Sophomore Year: **`SOC 101` (`Introductory Sociology`)**, held at `9:00 AM` in the building's massive, three-hundred-seat tiered lecture auditorium.
+
+As they approached the bustling entrance of Walton Hall at `8:45 AM`, Jordan felt a familiar, low-grade hum of sensory anxiety tighten across his chest. A three-hundred-person freshman and sophomore lecture hall was a sensory minefield of echoing chatter, slamming folding desks, scraping chairs, and buzzing fluorescent tubes—a known overload trigger for both him and Aubrie Jean.
+
+Instinctively, Jordan reached out with his left hand and took Aubrie Jean's hand; Aubrie Jean squeezed his fingers and, with her other hand, gripped Zoë's.
+
+Moving as a single, cohesive unit, the family entered the rear level of the auditorium with a clear tactical mission: secure a defensible position.
+
+"Right here—back accessible row, left aisle," Mark directed quietly.
+
+Like clockwork, they built what they immediately dubbed **The Sociology Fortress**:
+- **Mark** and **Lauren**—the group's physical outer flanks—claimed the two end seats on the outside of the row, creating a sturdy human buffer between Jordan and the bustling main aisle.
+- **Jordan** backed *S.S. Freedom* smoothly into the wide, designated wheelchair cutout at the top of the tier.
+- **Aubrie Jean** pulled a movable companion chair right up against Jordan's right armrest, while **Madison** took the fixed auditorium seat immediately to his left, cocooning him on both sides against the echoing noise of the hall.
+- **Zoë**, **Sarah**, **Jessica**, and **Hannah** filled in the remainder of the row beside Madison and Mark, claiming the entire back section as an impenetrable bubble of calm.
+
+When the professor stepped up to the lectern at `9:00 AM` on the dot and began going over the `SOC 101` syllabus, Jordan sat anchored with Aubrie Jean's hand laced through his right and Madison's fingers resting warmly over his left wrist. And the very next morning—**Tuesday, August 25, 2015**—when their alarm chimed at `5:15 AM` and Jordan rolled effortlessly up the front low-floor ramp of the heated **`6:00 AM` Blue Ridge Transit Route 1** bus, arriving at the library just fifteen minutes before the doors unlocked at `7:00 AM`, the system ran at `100%` efficiency.
+
+They had found their new normal.
+
+## The Shot (Depo-Vanguard 150) & Home on Geneva Street
+
+### Scene 1: One Week to Process & The Shot (Depo-Vanguard 150)
+
+For the entire first week of Fall 2015 classes (`August 24–30`), **Isabel Claire Dawson** gave herself the space and silence she needed to process what **Aubrie Jean** had told her on the basement sofa at 414 Geneva Street.
+
+*You are allowed to have sex with him, too, Isabel.*
+
+For nine months of Jordan's freshman year, Isabel had trained her brain to compartmentalize every feeling she had for him behind a steel firewall of CPI Housing & Residence Life policies. Even after she had retired her Eleanor Bennett Hall duty clipboard in May, and even after she had kissed him for the first time on his first night back from the courthouse, a part of her subconscious still half-expected an invisible tripwire—some unspoken boundary where the women who had rescued him, traveled the world with him, and testified for him would draw a line between *them* and *the former Floor RA*.
+
+Instead, over those seven days of late August, Isabel watched the No-Jealousy Pact in action with her own eyes.
+
+When she met the group at **Newman Dining Commons** between her third-year architecture studio labs, **Madison** and **Sarah** automatically slid over in the booth so Isabel could sit right beside Jordan's wheelchair bay. When she came down to **414 Geneva Street** on Wednesday and Friday evenings after finishing her early-semester Senior RA floor meetings at **Allegheny Commons**, **Lauren** and **Jessica** handed her a mug of Laura's hot apple cider and tucked a corner of the oversized fleece blanket over her knees while she curled up against Jordan's left shoulder. And when Isabel kissed Jordan goodnight by the basement patio door before catching the evening Route 1 bus back to campus, Aubrie Jean didn't flinch, stiffen, or look away—she smiled with genuine, unguarded warmth and hugged Isabel at the door.
+
+By Sunday night, August 30, the last vestige of Isabel's institutional hesitation had dissolved.
+
+She didn't just want to be a visitor standing at the edge of Jordan's life. She loved him with her whole heart, she trusted the women of the Pact completely, and she was ready—truly ready—to be his partner in every sense of the word.
+
+Then, and only then, did Isabel pick up her phone on **Monday morning, August 31, 2015**, and call **New River Valley Women's Health** in Christiansburg to schedule a contraception consultation and a comprehensive preseason health panel.
+
+***
+
+On **Friday afternoon, September 4, 2015, at `2:00 PM`**, Isabel sat in a sunlit examination room at the New River Valley Women's Health clinic off Peppers Ferry Road—and she wasn't alone.
+
+Just as the women of the Pact had accompanied one another for their own medical checkups, **Aubrie Jean** had ridden the Route 1 bus back into Christiansburg with Isabel after their morning classes and was sitting in the visitor chair beside the exam table, holding Isabel's canvas tote bag and giving her an encouraging smile.
+
+A soft knock sounded at the door, and **Dr. Evelyn Mercer, MD** stepped inside with a tablet chart in hand.
+
+"Good afternoon, Isabel," Dr. Mercer smiled warmly, settling onto her rolling stool. "Good to see you again. Your routine bloodwork and preventative screening panel from our lab draw on Tuesday came back completely clean—one hundred percent negative across the board. Now, my nurse noted that you wanted to talk through long-term birth control options today?"
+
+"Yes, ma'am," Isabel said, her cheeks warming slightly even as she kept her voice steady and clear. "I'm entering my first serious relationship, and inside our household we have a strict health and safety rule that everyone maintains verified, continuous contraception before becoming sexually active. I wanted to ask your advice on the most reliable option for my schedule."
+
+"Tell me a little about what your weekly routine looks like," Dr. Mercer invited.
+
+"Chaotic," Isabel admitted with a small laugh, glancing at Aubrie Jean. "I'm a third-year architecture major at CPI with four-hour studio labs, I'm the Senior Resident Advisor for Allegheny Commons with rotating late-night duty shifts where I can get called out of bed at two in the morning for a building alarm, and I split my free evenings between my campus apartment and our family home here in Christiansburg."
+
+Dr. Mercer nodded thoughtfully. "With a rotating on-call schedule and two different sleeping locations, a daily oral contraceptive pill can be a source of constant stress—especially progestin-only or low-dose pills where missing your time window by even a few hours while you're handling a `2:00 AM` dorm lockout can compromise your protection, or where you accidentally leave your pill pack at one house when you're staying at the other."
+
+"That was my exact worry," Isabel said earnestly. "I don't want any chance of human error, and as a Senior RA with freshmen and sophomores knocking on my apartment door all day, I also really like the privacy of not having a pill pack sitting on my nightstand. At the same time, I'm needle-tolerant, and I'd rather not go through an invasive intrauterine procedure right in the middle of the first month of classes."
+
+"Then the answer is very straightforward," Dr. Mercer said, tapping an option on her clinical tablet. "I recommend **The Shot**—specifically **`Depo-Vanguard 150`**, which is a 150-milligram intramuscular injection of depot medroxyprogesterone acetate that we administer right here in the clinic once every twelve weeks."
+
+Isabel leaned forward attentively. "How effective is it?"
+
+"With on-time quarterly injections every twelve weeks, **`Depo-Vanguard 150`** is over `99.8%` effective—virtually identical to an implant or IUD, with zero daily maintenance," Dr. Mercer explained. "Once you receive the injection today, you are completely covered through the end of November. There are no pills to remember during late-night RA duty, nothing to pack in your overnight bag between campus and Christiansburg, and after the second or third dose, most women experience significantly lighter periods or stop having menstrual cramping altogether."
+
+"What is the waiting period before it takes full effect?" Aubrie Jean asked gently from the companion chair.
+
+"Excellent question," Dr. Mercer said, nodding approvingly at both of them. "Because we are administering the injection today outside the first five days of your menstrual cycle, **it requires seven full consecutive days** for the hormone levels to build a complete ovulatory and cervical barrier. Since today is Friday, September 4th, at `2:15 PM`, your seven-day window completes next **Friday, September 11th**. Any time after that, you have one hundred percent clinical protection."
+
+Isabel let out a long, relieved breath, her shoulders relaxing completely.
+
+"Let's do **The Shot**," Isabel said firmly.
+
+Five minutes later—with Aubrie Jean holding her left hand as the nurse swabbed her right deltoid with alcohol and administered the quick intramuscular injection of **`Depo-Vanguard 150`**—Isabel walked out into the warm September sunshine of Christiansburg with a small circular bandage on her upper arm and her next quarterly appointment card (`Friday, November 27, 2015`) tucked safely into her wallet.
+
+When they arrived back at **414 Geneva Street** that afternoon and walked down the basement stairs, **Zoë** looked up from her workstation as Isabel handed her the printed clinical summary sheet for the household medical binder.
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Updating Household_Medical_Safety_Registry for Agent(Isabel): Contraception_Method == Depo-Vanguard_150 ("The Shot", 150mg IM, 12-Week Cycle). STI_Panel_Status == NEGATIVE (Verified 2015-09-04). Administration_Timestamp: 2015-09-04 14:18:00 EDT. Mandatory_Pharmacokinetic_Buffer: 168 Hours (7.0 Days). 09-04-2015 15:10:04
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Clinical_Clearance_Timestamp == 2015-09-11 14:18:00 EDT. Next_Scheduled_Booster == 2015-11-27. System_Compliance == 100.0%. 09-04-2015 15:10:12
+```
+
+Across the basement living room, **Jordan** looked up from his ProSlate 10D, his hazel eyes warm and soft as Isabel walked over, flipped up his left armrest, and kissed his cheek.
+
+<aac>Are you feeling okay after the shot, Isabel?</aac> Jordan tapped gently.
+
+"My arm is a tiny bit sore, and my heart is very happy," Isabel whispered, resting her forehead against his temple as Aubrie Jean smiled beside them. "One more week for the medicine to finish doing its job... and then I'm all yours."
+
+### Scene 2: Home on Geneva Street
+
+By **Tuesday, September 15, 2015**, the mandatory seven-day clinical effectiveness window for **Isabel's** first injection of **The Shot** (`Depo-Vanguard 150`) was four days in the rearview mirror, and she had traded her mid-week Allegheny Commons duty rotation with her co-RA so she had the entire night off until her ten o'clock studio seminar on Wednesday morning.
+
+Earlier that afternoon on campus, **Madison** had casually offered that the group could walk Jordan over to `Allegheny Commons, Apartment 101` after dinner so Isabel and Jordan could have her private Senior RA apartment all to themselves.
+
+Isabel had shaken her head immediately, her cheeks pink but her voice certain.
+
+*Not in Apartment 101.*
+
+When she arrived down in the walk-out basement of **414 Geneva Street** at `8:00 PM` with her overnight canvas bag slung over her shoulder, Dressed in a soft heather-blue sweater and comfortable leggings after joining the family for Laura's roasted chicken dinner upstairs, she sat beside **Jordan** and **Aubrie Jean** on the basement sofa and explained why.
+
+"Even though Apartment 101 has a private bedroom and a real kitchen, the building still belongs to CPI Housing & Residence Life," Isabel said softly, her fingers laced through Jordan's left hand. "Every time somebody walks down the first-floor hallway past my door, my brain still half-listens for a duty knock or a fire alarm panel. For nine months in Eleanor Bennett Hall, being a Resident Advisor was the wall that kept me from telling you how much I loved you. I didn't want our first night together to be inside a university apartment with an `RA ON DUTY` placard hanging in the foyer."
+
+She looked around the warm, timber-and-drywall walk-out basement—at the string lights glowing softly along the bookshelves, the framed photos of their World Trek from London to the Australian Outback, and the massive king-sized bed tucked behind the privacy curtain.
+
+"This basement is where you became free, Jordan," Isabel whispered, her brown eyes shining. "There are no clipboards here. No residence hall rules, no room inspections, and no uniforms. This is your home. And if it's okay with you and the Pact... I wanted my first time with you to be right here at Geneva Street."
+
+Jordan's breath caught. Slowly, he raised his right hand to his ProSlate 10D and tapped:
+
+<aac>I would love that more than anything, Isabel. Geneva Street is our home.</aac>
+
+Beside him, Aubrie Jean smiled warmly, leaning across Jordan's lap to give Isabel a long, affectionate hug.
+
+"We already planned ahead for you two," Aubrie Jean said, winking as **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** gathered up their laptops, textbooks, and mugs of herbal tea from the basement coffee table. "Laura and Daniel just popped three bowls of kettle corn upstairs, and **Mark** and **Hannah** queued up a double feature in the upstairs family room. The basement sanctuary is one hundred percent yours for the next two hours."
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Initiating Sanctuary_Privacy_Allocation(Basement_Pact_Suite) for Thread 3 (Jordan) and Agent(Isabel). Verification_Check: Contraception_Status(Depo-Vanguard_150) == ACTIVE (Day 11 post-injection; 100.0% efficacy threshold exceeded by 96+ hours). 09-15-2015 20:34:10
+ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — All Pact nodes report Warmth_Index == 1.00, Jealousy_Signal == 0.00. Relocating Agents(Self, Aubrie, Madison, Lauren, Sarah, Jessica) to Upper_Level_Living_Room. 09-15-2015 20:34:18
+```
+
+One by one, the women of the Pact kissed Jordan's cheek and squeezed Isabel's shoulder on their way up the interior stairs. When the basement door clicked softly shut at the top of the steps, a quiet, golden stillness settled over the room.
+
+For a few seconds, Isabel stood beside Jordan's wheelchair, her heart fluttering against her ribs with the same nervous, breathless honesty she had felt on her very first evening at Geneva Street—except tonight, there was no fear that she was crossing a forbidden line.
+
+"Okay," Isabel whispered with a small, self-deprecating smile as her cheeks turned rosy. "I aced the forty-five-degree transfer test and the bed-frame fulcrum lift two weeks ago... so let's see how I do without an audience."
+
+Jordan smiled warmly up at her, his hazel eyes crinkling at the corners, and tapped:
+
+<aac>I trust you completely, Isabel.</aac>
+
+Moving with the gentle, unhurried care she had learned from Aubrie Jean and Lauren, Isabel guided Jordan through rolling *S.S. Freedom* up to the side of the king-sized bed at the exact forty-five-degree angle, engaged the electromagnetic wheel locks, and flipped up the left armrest. Sitting beside him on the edge of the mattress first, she helped him slide out of his shoes and socks using the low-friction heel-pocket roll, then braced her shoulder smoothly against his torso as they pivoted together onto the soft cotton sheets.
+
+Keeping her left forearm braced against the solid oak headboard for leverage—just as Lauren had taught her—Isabel supported his shoulders while he lay back against the bank of supportive wedge pillows, making sure his knees and lower back were cushioned at a zero-strain angle so he never had to tense his muscles or fight gravity.
+
+Then Isabel dimmed the bedside lamp to a warm amber glow, slipped out of her sweater, and climbed onto the mattress beside him.
+
+When she lay down next to him and rested her palm over the center of his chest—feeling the steady, warm beat of his heart under her fingertips—all nine months of unspoken longing from Suite 216, the cold rain outside the residence hall in May, the tearful video message from the Roanoke airport terminal, and the breathless reunion at Gate 4 came together in a single, quiet exhale.
+
+"I have loved you since September of your freshman year, Jordan," Isabel whispered, brushing a lock of hair back from his forehead before leaning down to press her lips softly to his. "And I am never hiding it behind a clipboard again."
+
+Jordan reached up with both hands, cradling her face as he kissed her back—slow, deep, and completely unhurried.
+
+With Jordan resting safely on his back against the pillows so there was zero physical strain on his joints or his frame, Isabel guided their rhythm from above with infinite gentleness, keeping her eyes locked with his and her fingers intertwined with his hands against the pillows. Every time she paused to check in on him, reading the micro-expressions in his eyes and the warmth of his grip the way she had learned to read him from across a crowded dorm lobby, Jordan squeezed her hands tighter and pulled her closer against his chest.
+
+There was no rush, no anxiety, and no shadow of the past—only the quiet warmth of the walk-out basement on Geneva Street, the soft rustle of the sheets, and the overwhelming certainty that she was finally, completely home.
+
+Afterward, when the basement was quiet save for the gentle hum of the dehumidifier and the crickets singing outside the patio glass, Isabel lay curled closely against Jordan's left side with her head resting on his shoulder and a light cotton sheet draped over them both.
+
+Five minutes later, a polite, three-beat knock sounded at the top of the stairs before Aubrie Jean, Madison, Zoë, Lauren, Sarah, and Jessica padded quietly back down in their pajamas, carrying fresh mugs of warm chamomile tea and water.
+
+Seeing Isabel tucked under Jordan's left arm with a radiant, peaceful glow on her face, Aubrie Jean smiled, set a glass of cold water on the nightstand, and climbed onto Jordan's right side, reaching across his chest to squeeze Isabel's hand.
+
+"Welcome home, Isabel," Aubrie Jean whispered softly.
+
+Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed her eyes, and smiled.
+
+"I'm home," Isabel whispered back.
+
+## Friday, 9:32 AM (The Broken Foundation)
+
+### Scene 1: Friday, 9:32 AM (The Attack)
+
+Friday morning, September 18, 2015—just three days after **Jordan** and **Isabel's** first night together in the walk-out basement on Geneva Street—began like any bright, ordinary morning of their new life.
+
+There was laughter in the sunlit upstairs kitchen at `414 Geneva Street` as **Laura** and **Daniel** handed out warm travel mugs before leaving for work. There was the smooth, familiar ten-second roll up the low-floor ramp of the **`6:00 AM` Blue Ridge Transit Route 1** bus, the fifteen-minute chat outside the library, and a warm breakfast together at **Newman Dining Commons**, where Isabel stopped by their booth in her architecture studio smock to kiss Jordan good morning before heading to her `8:00 AM` drafting lab in Cowgill Hall.
+
+By `8:50 AM`, the nine commuters had filed into the massive, three-hundred-seat tiered auditorium of **Walton Hall** for **`SOC 101` (`Introductory Sociology`)** and assembled their usual back-row **Sociology Fortress**: **Mark** and **Hannah** anchoring the outer aisle flank, **Lauren**, **Sarah**, **Jessica**, and **Zoë** holding the middle seats, and **Jordan** parked in the wide accessible wheelchair cutout at the end of the row with **Aubrie Jean** in a movable companion chair on his right and **Madison** in the fixed auditorium seat on his left.
+
+At `9:00 AM` sharp, the professor stepped up to the lectern and began a Friday morning lecture on social stratification. Jordan reached under the table and laced his right fingers warmly through Aubrie Jean's hand, feeling completely safe, completely loved, and completely free.
+
+His mind was finally safe.
+
+*His body, however, was still carrying a nineteen-year-old time bomb.*
+
+For nearly two decades under **Aubrie Sinclair's** roof, Jordan's cardiovascular and endocrine systems had been subjected to relentless, unremitting biological warfare: eighteen years of chronic fight-or-flight cortisol floods, terrifying psychological abuse, forced immobility, weaponized nutritional and metabolic neglect, and untreated vascular inflammation. Even though his soul had found sanctuary in Christiansburg, the structural damage etched into his coronary arteries over nineteen years of terror had been silently waiting to give way.
+
+At `9:25 AM`—twenty-five minutes into the lecture—Jordan felt a strange, unfamiliar sensation in the center of his chest.
+
+At first, as the bright 1980s optimism of his new life was violently severed by the terrifying, erratic pulse of [*"Friday, 9:32 AM (The Attack)"* by **The Paper Wall**](https://music.raggiesoft.com/artists/the-paper-wall/2003-eleventh-child-book-2?track=1-09-friday-9-31-am-the-attack), he thought it was just indigestion from breakfast or a brief wave of sensory fatigue.
+
+*No. This isn't anxiety.*
+
+Within ninety seconds, the sensation deepened into a heavy, suffocating, vise-like pressure right behind his breastbone—as if someone were stacking concrete blocks one after another onto his ribs. A sudden wave of violent nausea rolled through his stomach. Cold, clammy sweat broke out across his forehead and the back of his neck, soaking the collar of his shirt, and a dull, searing ache began radiating upward from his chest into the left side of his jaw.
+
+Then, at `9:30 AM`, his entire left arm went dead numb from his shoulder to his fingertips.
+
+The plastic water bottle he had been holding in his left hand slipped through his slack fingers and hit the concrete floor with a loud, hollow *thud*.
+
+Shaking, gasping for air that refused to fill his lungs, Jordan let go of Aubrie Jean's hand and pressed his right palm flat against the center of his sternum, rubbing hard at his chest as if he could physically push the crushing weight away, before his trembling hand moved up to grip his aching jaw.
+
+Beside him, Aubrie Jean felt Jordan pull his hand away and saw him clutch his chest. Every drop of color drained from her face.
+
+"J? Jordan, what's wrong?!" Aubrie Jean whispered, her eyes wide with alarm as she gripped his right forearm.
+
+On his other side, Madison leaned in immediately, her own face going pale as she saw the beads of ice-cold sweat rolling down Jordan's temples. "Is it a panic attack? J, look at me, breathe with me—"
+
+Jordan tried to shake his head, his chest heaving in shallow, ragged gasps as a high-pitched ringing filled his ears and the tiered auditorium began to tilt and spin. With his left arm hanging uselessly against the armrest, he dragged his trembling right thumb across the screen of his mounted ProSlate 10D AAC tablet and hit two emergency tiles:
+
+<aac>Chest. Hurts.</aac>
+
+Four seats down the row, Mark had been taking notes on his laptop when the clatter of the dropped water bottle and the frantic, unnatural motion of Jordan's right hand caught the corner of his eye.
+
+Mark looked over. He saw Jordan press his palm hard against the center of his sternum, saw the drenching, clammy gray pallor of his skin, and then saw Jordan's hand slide up to clutch the angle of his left jaw.
+
+Mark's blood turned to ice water.
+
+*He had seen that exact posture once before in his life—the afternoon his fifty-eight-year-old uncle collapsed in the driveway.*
+
+*No,* Mark's mind screamed, rejecting the thought. *He's nineteen years old. You don't have a heart attack at nineteen. Wait—the cold sweat, the crushing chest pressure, the jaw pain, his left arm hanging limp—*
+
+Mark didn't wait another second. Shoving his laptop aside, he scrambled past Hannah, Sarah, and Zoë and dropped to one knee in the aisle directly in front of *S.S. Freedom*.
+
+"Jordan?! Jordan, look at me!" Mark said, his voice low and razor-sharp as he touched Jordan's ice-cold, sweat-drenched cheek.
+
+Jordan's hazel eyes were glassy and unfocused, his lips turning a faint, terrifying blue-gray as he slumped sideways against the padded bolster of his wheelchair, his right hand still clawed over his sternum.
+
+Mark's disbelief vanished, replaced by sheer, agonizing certainty.
+
+*It is. It's a heart attack.*
+
+**"Zoë, call 911! NOW!"** Mark's shout cut straight through the professor's lecture, freezing all three hundred students in the auditorium.
+
+Aubrie Jean let out a choked cry of pure terror, dropping to her knees beside Jordan's wheel and holding his head as Madison began sobbing and wiping his brow with her sleeve. Mark didn't even wait for Zoë's phone to connect—he vaulted into the main aisle and sprinted full-speed down the steep auditorium steps toward the stage, waving both arms over his head.
+
+**"Professor!"** Mark yelled, his voice cracking with panic. **"Jordan's having a heart attack! We need 911! We need help right now!"**
+
+Down at the podium, the sociology professor took one look at the sheer terror on Mark's face and the commotion in the back wheelchair bay and didn't hesitate for a heartbeat. Snatching up the red hardwired campus emergency handset on the lectern wall, he punched the dispatch button.
+
+"Yes, this is Dr. Vance in `SOC 101`, **Walton Hall Main Auditorium**!" the professor barked into the receiver. "I have a student collapsing in a wheelchair in the back row—possible acute heart attack! Send paramedics and rescue immediately!"
+
+Up in the deathly silent back row, while Lauren and Hannah held the crowd of stunned students back to give Jordan air, Zoë's trembling right hand was already talking to CPI 911 Dispatch at her ear while her left thumb executed the emergency broadcast macro across the **`Jordan Comms`** family network:
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — CRITICAL PHYSIOLOGICAL SYSTEM FAILURE DETECTED AT 09:32:14 EDT. Symptoms: Crushing_Substernal_Pressure, Left_Arm_Paresthesia, Mandibular_Radiation, Diaphoresis, Pallor(Ashen_Gray). Differential_Diagnosis(Thread 4 / Mark): Acute Myocardial Infarction (STEMI). 09-18-2015 09:32:14
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Emergency_Broadcast("Jordan Comms" -> All_Nodes [Daniel, Laura, Isabel, Pact]): "[URGENT] [MEDICAL] JORDAN COLLAPSING IN SOC 101 (WALTON HALL). CRUSHING CHEST PAIN. MARK THINKS HEART ATTACK. 911 CALLED." 09-18-2015 09:32:14
+```
+
+Mark raced back up the auditorium steps three at a time, his own heart hammering against his ribs as he knelt beside Aubrie Jean and gripped Jordan's trembling right hand.
+
+*He's nineteen years old,* Mark thought, his mind screaming as Jordan's eyelids fluttered and a ragged, agonizing whimper escaped his throat. *He just got free. Please, God, don't let her kill him now.*
+
+"Stay with us, J! Look at me, brother, stay right here with us!" Mark pleaded, holding Jordan's hand as Aubrie Jean pressed her tear-streaked cheek against Jordan's shoulder.
+
+At the front of the hall, the professor set down the phone and called out over the silent room:
+
+"Paramedics are two minutes out! Clear the center aisle and prop the exterior double doors wide open!"
+
+### Scene 2: Massive STEMI: The Extrication & The Wrong Bus
+
+### Part 1: The Extrication
+
+The heavy double doors at the bottom of the **Walton Hall** auditorium burst open, and two paramedics from **Medic 3** rushed inside—the lead medic carrying a 12-lead cardiac monitor/defibrillator and a red first-in trauma bag, followed closely by two EMTs wheeling a collapsible stair chair and a rolling ambulance gurney.
+
+"We got a call for a nineteen-year-old male with acute chest pain?!" the lead paramedic called out, scanning the steep tiers of seats.
+
+"Up here! Back accessible row!" **Mark** yelled, waving both arms from the top aisle.
+
+Seeing the steep concrete steps of the tiered lecture hall, the crew parked the heavy rolling gurney at the bottom doorway and sprinted up the stairs with the cardiac monitor, oxygen cylinder, and collapsible stair chair as students in the middle rows scrambled into the aisles to clear a path.
+
+Within seconds, the paramedics knelt beside *S.S. Freedom*.
+
+"Sir, my name's **Mike**. We're right here with you, okay?" the lead paramedic said, his voice a calm, steady anchor in the middle of the storm as he checked Jordan's radial pulse. "Can you tell me your name?"
+
+Jordan couldn't speak, and his left arm was dead weight against the armrest, so **Aubrie Jean** answered through her tears while holding his right hand: "His name is Jordan! He's nineteen, and he's non-verbal autistic—he uses his tablet, or he can nod and shake his head!"
+
+"Got it—thank you, ma'am. Jordan, we're going to take great care of you," Mike said immediately, turning to his partner. "Let's get him on high-flow oxygen and run a 12-lead right now."
+
+As his partner slipped a nasal cannula over Jordan's ears and turned the oxygen regulator up, he glanced down at Jordan's pale, sweat-drenched face and obvious bariatric frame. "Nineteen?" the partner murmured, his surprise visible for only a fraction of a second before his clinical training locked in.
+
+"Jordan, nod or shake your head for me—are you allergic to aspirin?" Mike asked clearly.
+
+Pale and terrified, with a crushing white-hot band tightening across his sternum, Jordan managed a weak shake of his head: *No.*
+
+"He has no drug allergies!" Mark confirmed from behind them.
+
+"Good job, buddy," Mike said, popping four `81 mg` chewable baby aspirins into his gloved palm and lifting them to Jordan's lips. "I need you to chew all four of these up for me right now and swallow them. Don't swallow them whole—chew them up."
+
+Jordan obeyed, grimacing at the chalky orange-bitter taste as Mike's partner unbuttoned the top of Jordan's shirt and rapidly placed the ten adhesive 12-lead EKG electrodes across his chest and limbs.
+
+"We need a little room to work, folks—just take two steps back for me," Mike said firmly but gently as Aubrie Jean clung to Jordan's hand.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — EMS Unit(Medic_3) on scene at Walton_Hall. Administered: O2 (Nasal_Cannula) + Acetylsalicylic_Acid (324mg chewed). Acquiring 12-Lead_ECG telemetry. 09-18-2015 09:38:21
+```
+
+The cardiac monitor whirred, beeped rapidly, and fed out a long pink-grid strip of thermal paper.
+
+Mike tore the strip from the printer and held it up.
+
+His eyes went wide. Silently, he angled the paper toward his partner, who took one look at the massive tombstone ST-segment elevations across the anterior leads and swore under his breath.
+
+*"He's nineteen,"* the partner whispered in sheer disbelief.
+
+"Monitor doesn't lie," Mike said, every trace of calm routine vanishing into steel-sharp urgency. "He's having a massive STEMI. We have to move. *Now.*"
+
+Mike turned to the stunned circle of Jordan's family.
+
+"Listen to me closely: he is having a major heart attack," Mike told them, his voice brisk and commanding. "We are transporting him emergency traffic to **New River Valley Medical Center** in Christiansburg. We're transferring him into the stair chair right now—we need this aisle completely clear."
+
+Mark and **Hannah** stepped forward instinctively to help lift him, but the four EMS personnel moved as a single, practiced machine: unfolding the tracked stair chair, lifting Jordan smoothly out of *S.S. Freedom*, strapping him securely across the chest and shins, and tilting the chair back onto its stair-gliding tracks.
+
+"We're coming with you!" Aubrie Jean sobbed, stumbling forward as they wheeled him into the aisle.
+
+"We can't take passengers in the rig on a critical cardiac alert, ma'am—we need the whole cabin to work on him," Mike called back over his shoulder as the team glided rapidly down the auditorium steps toward the waiting gurney. "Meet us at New River Valley ER! We're running hot!"
+
+***
+
+### Part 2: Inside `Medic 3`
+
+Outside the main entrance of Walton Hall, the transfer from the stair chair onto the rolling ambulance gurney was a blinding, terrifying blur of September sunlight and flashing red-and-white strobe lights.
+
+Jordan felt strong hands lifting him onto the narrow mattress and heavy nylon straps clicking tight across his chest, hips, and knees. Through the dizzying haze of pain, as they lifted the gurney into the back of **Medic 3**, he caught one last, agonizing glimpse of Aubrie Jean's tear-streaked face, Mark's pale shock—and **Isabel**, still wearing her architecture drafting smock, sprinting breathless across the plaza toward them after receiving Zoë's emergency text.
+
+Then the heavy double rear doors of the ambulance slammed shut.
+
+*THUD.*
+
+The metallic boom echoed through Jordan's skull like a vault door sealing him away from everyone who kept him safe.
+
+For ten agonizing seconds, the ambulance didn't move. The siren wasn't even on yet.
+
+*Why aren't we moving?!* Jordan panicked, his vision blurring as the crushing anvil on his chest made every shallow breath feel like inhaling broken glass.
+
+Paramedic Mike was leaning right over him, switching the nasal cannula to a high-flow oxygen mask while his partner tore open an IV start kit with lightning speed. "Hang in there, Jordan, we're just getting your line established before we roll," Mike said, and a second later Jordan felt the sharp prick of an eighteen-gauge IV catheter sliding into his right forearm while the cardiac monitor beside his head beeped in a frantic, erratic staccato.
+
+Mike keyed the shoulder microphone of his radio.
+
+*"Dispatch, this is Medic 3,"* Mike's voice cut through the cabin, clinical and urgent. *"We are 10-23 departing CPI Walton Hall. We have a nineteen-year-old male, five-foot-seven, approximately three hundred forty pounds, presenting with a critical anterior STEMI. We are ten minutes out from New River Valley ER running Code 3—requesting immediate **Cardiac Alert and Cath Lab activation**. Vitals are—"*
+
+The radio crackled back with a burst of static and hospital confirmation tones.
+
+*Nineteen-year-old male. Critical STEMI. Cath Lab activation.*
+
+Suddenly, the ambulance lurched forward into motion, and the dual-tone electronic siren ripped through the air—a deafening *WHUMP-WHUMP-WHUMP* that vibrated straight through the aluminum floor and into Jordan's bones as `Medic 3` tore out of campus toward Route 460.
+
+And as the rig banked hard around the Drillfield curve, a brand-new jolt of terror hit Jordan in the gut.
+
+*My chair.*
+
+His eyes darted wildly around the cramped ambulance bay.
+
+*Where's my chair?!*
+
+With a sickening lurch, Jordan realized that the paramedics had lifted him out of *S.S. Freedom* inside the auditorium and left his power wheelchair behind in Walton Hall. He was being hurtled down the highway away from his family, away from his AAC voice, and away from his own legs.
+
+"Jordan, stay with me, buddy—keep your eyes open for me," Mike's voice sounded distant and tinny through a rising roar of tinnitus in Jordan's ears. A second later, Mike looked at the monitor and spoke sharply to his partner: *"His blood pressure is dropping—systolic's down to eighty-six. Let's push a normal saline bolus wide open and prep the nitro hold."*
+
+Jordan felt an icy-cold rush of fluid travel up the vein in his right arm. As he squeezed his eyes shut against the searing white fire behind his breastbone, a single, heartbreaking thought echoed through the dark:
+
+*I'm nineteen years old. I just got free. I just found my family. Please... I don't want to die.*
+
+***
+
+### Part 3: The Wrong Bus
+
+Back outside Walton Hall, the wail of `Medic 3`'s siren faded rapidly toward the south exit of campus, leaving the eight of them—now joined by a breathless, white-faced **Isabel**—standing frozen on the sidewalk.
+
+"How do we get to the hospital?!" Aubrie Jean cried out, her whole body shaking as **Madison** held her around the waist to keep her upright. "We don't have a car on campus!"
+
+"The `9:45 AM` *Maroon Express* is the next bus out of the CPI Transit Center toward Christiansburg," **Zoë** said, her voice trembling slightly as her processor fought through sheer adrenaline to build a transport vector. "We can—"
+
+"No—a bus is too slow for all of us, and we need Daniel and Laura at the hospital right now," **Mark** said, grabbing his and **Hannah's** backpacks. "Hannah and I are sprinting to the North End cab stand—we'll take a taxi straight to Geneva Street, grab my SUV, call Daniel and Laura on the way, and meet you at the ER!"
+
+"Go! Run!" **Lauren** urged.
+
+Mark and Hannah took off at a dead sprint across the lawn. At the exact same moment, Lauren and Isabel looked back through the open glass doors of Walton Hall—where *S.S. Freedom* was still sitting empty in the back row with Jordan's ProSlate tablet and backpack attached.
+
+"We cannot leave his wheelchair behind," Isabel said fiercely, wiping a tear from her cheek as her Senior RA crisis training kicked in alongside her love for him. "That chair is his legs—if he wakes up in the ER and finds out his chair is stranded on campus, he's going to panic!"
+
+"Let's get it!" Lauren barked.
+
+In forty-five seconds flat, Isabel and Lauren dashed back inside the silent auditorium, gathered up Jordan's backpack, unlocked *S.S. Freedom*'s drive controller, and switched the speed dial to Stage 3 (`Full Outdoor Speed — 6.0 mph`). With Isabel jogging beside the right armrest and steering the joystick one-handed while Lauren guarded the left flank, the seven women—**Zoë**, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**—sprinted as a single pack across the Drillfield toward the **CPI Transit Center**.
+
+ Aubrie Jean was sobbing openly as she ran, her sneakers stumbling on the brick path until Madison and Sarah caught both of her elbows and half-carried her forward.
+
+Leading the pack by three strides, Zoë burst onto the concrete apron of the CPI Transit Center at `9:41:28 AM`, her eyes immediately locking onto the familiar white-and-maroon highway coach idling at **Bay B**.
+
+```zoe-log
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Arrived at CPI_Transit_Center. Target_Bus(Bluewater_Transit.Maroon_Express, 09:45_EDT) located at Bay_B. 09-18-2015 09:41:28
+```
+
+"This way! Bay B!" Zoë shouted, pointing toward the highway coach.
+
+Wait.
+
+Mid-stride, Zoë's eyes swept across the large, color-coded regional transit map mounted on the masonry pillar between Bay B and Bay D.
+
+She stopped dead in her tracks.
+
+```zoe-log
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — CRITICAL ROUTING ERROR: SystemSchedulerLog entry 09:40:17 is INVALID. 09-18-2015 09:41:30
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Analysis: Bluewater_Transit.Maroon_Express utilizes US-460 Bypass express corridor and DOES NOT INTERSECT with Destination(New_River_Valley_Medical_Center). Panic-state planning error detected: defaulted to high-speed commuter route instead of medical facility vector! 09-18-2015 09:41:31
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Recalculating... Correct medical transit vector is Blue_Ridge_Transit.Route_1_Local ("1 FALLING BRANCH" via US-460 Business / Route 11 hospital stop). 09-18-2015 09:41:31
+```
+
+**"STOP!"** Zoë yelled, throwing both arms out as the other six women nearly collided with her. **"Wrong bus! I was wrong!"**
+
+"What?!" Lauren gasped, her chest heaving. "Zoë, what are you talking about?!"
+
+"The *Maroon Express* takes the highway bypass—it completely skips the hospital!" Zoë cried, her voice tight with a rare, shaken panic at her own near-fatal calculation error as she pointed across the transit island toward **Bay D**. "The hospital stop is on Business 460! We need **Route 1 Local**!"
+
+Across the plaza at Bay D, the amber turn signal of the low-floor **`1 FALLING BRANCH` (`Blue Ridge Transit Route 1`)** local bus began flashing as its doors hissed shut and the bus prepared to pull away from the curb.
+
+**"WAIT! PLEASE WAIT!"** Aubrie Jean screamed at the top of her lungs, waving both arms wildly as all seven of them sprinted across the crosswalk with Isabel piloting *S.S. Freedom* right beside them.
+
+In his side mirror, the Blue Ridge Transit driver spotted the seven frantic, crying young women running alongside an empty bariatric power wheelchair. With a sympathetic sigh, he shifted the coach back into neutral, popped the front folding doors open, and hit the pneumatic kneel switch—dropping the low-floor front ramp onto the curb with a metallic *clank*.
+
+"Thank you, thank you, thank you!" Isabel gasped, steering *S.S. Freedom* straight up the ramp and locking its brakes inside the front wheelchair securement bay while Lauren snapped the floor hooks onto the frame in ten seconds flat.
+
+Tumbling onto the bus in a tangle of backpacks and tears, Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel collapsed onto the long perimeter seats surrounding Jordan's empty wheelchair. As the `1 FALLING BRANCH` bus pulled out of the transit center and headed south toward New River Valley Medical Center, Aubrie Jean buried her face against the padded headrest of Jordan's empty chair and wept.
 
