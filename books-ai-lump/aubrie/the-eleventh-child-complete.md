@@ -4,7 +4,7 @@ title: "The Eleventh Child"
 
 # The Eleventh Child, Off to College
 
-## The Administrative Prelude
+## The Administrative Prelude & Early Move-In
 
 ### Scene 1: An Extension of Me
 
@@ -32,9 +32,11 @@ She reached down, unlocked the wheel brakes of his chair without warning, and gr
 
 Aubrey gripped the cold metal armrests, staring into the gray blur of the hallway. He was eighteen years old, and as the front door swung open to the humid Virginia Beach morning, he felt less like a college freshman leaving home and more like a prisoner being transferred on a temporary leash.
 
-### Scene 2: The Drive
+### Scene 2: The Drive & The Shared Bed
 
 **Date:** 2014-08-20 at 10:00 America/New_York
+
+#### 10:00 AM — The Drive
 
 The journey began on a Wednesday in late August. Rather than taking Interstate 64 all the way north to Staunton, Aubrie Sinclair had exited at the Bowers Hill interchange in Chesapeake and steered the car onto U.S. Route 460 West—turning the trip from the flat, humid landscape of Hampton Roads to the rolling hills of the New River Valley into a grueling, seven-hour marathon across Southside Virginia. Aubrey sat silently in the passenger seat, watching the world change outside his window as they rolled westbound through an endless succession of small towns toward Lynchburg, Bedford, and Roanoke. Beyond the glass, the passing scenery was a constant, impressionistic blur of green and gray—just the way distant things had always looked to him—forcing him to squint until a dull, familiar ache began to throb behind his eyes.
 
@@ -58,9 +60,9 @@ When his mother unlocked the heavy metal exterior door and pushed it open from t
 
 "Oh, dear," his mother said with a sigh that held no real disappointment at all. "I asked for two beds when I reserved it, but this must have been all they had left with the students coming back to town. Well," she added with a brisk shrug that made it clear it wasn't a question—and that they wouldn't be walking back over to the front office to ask the clerk to switch rooms—"I guess we'll just have to make do for a couple of nights."
 
-### Scene 3: The Shared Bed
+***
 
-**Date:** 2014-08-20 at 21:00 America/New_York
+#### 9:00 PM — The Shared Bed
 
 Aubrey lay stiffly on the very edge of the mattress, clinging to the narrow strip of cold sheet before the drop-off to the floor. His mother had asked for a single king bed at the front desk rather than two doubles, though it hardly surprised him. Back home in Virginia Beach, as the calendar had counted down closer and closer to the day she would have to drop him off at CPI, she had started making him sleep in her bed with her every single night. In the dark, the unfamiliar motel room was a featureless, terrifying void, and the low, muffled hum of the air conditioner barely registered through the static in his ears. What he could sense, with agonizing clarity, was his mother's breathing—a familiar, oppressive presence just inches away. He stared into the darkness, his body rigid with tension, counting the hours until Friday. Friday meant he would finally have his own bed in his own room, behind a door of his own.
 
@@ -72,11 +74,11 @@ Without his heavy laptop resting on his knees, he had no way to form words at al
 
 He hated it—a quiet, desperate revulsion that burned in his chest every single night—but he put up with it. What else could he do? She was his mother, the absolute ruler of the only world he had ever known. So he did the only thing he knew how to do to survive the hours until morning: he squeezed his eyes shut, went completely still, and let his mind detach from his body, floating up into a numb, blurry fog where time and sensation dissolved until the dark finally swallowed him too.
 
-## Verification
-
-### Scene 1: The Poly Pass
+### Scene 3: The Poly Pass & Educational Accessibility
 
 **Date:** 2014-08-21 at 11:00 America/New_York
+
+#### 11:00 AM — The Poly Pass
 
 Thursday was spent on the bustling campus of Commonwealth Polytechnic Institute. The sheer volume of students moving around the wide brick walkways was overwhelming, their voices a muffled, chaotic drone against Aubrey's ears. Their first stop was the University Card Center to get his official student ID, known on campus as the Poly Pass.
 
@@ -96,9 +98,9 @@ It was a tiny, startling moment of pure, uncomplicated acceptance. Aubrey felt a
 
 A minute later, the card printer whirred to life, and the worker handed the fresh plastic card across the counter. Aubrey took it in his hands. He brought the card up inches from his nose, squinting hard at the glossy surface just to force the blurry shapes into focus. After a few seconds of intense concentration, the letters finally resolved. It was a plastic card with the name AUBREY JORDAN FULLER printed starkly beneath his nervous face.
 
-### Scene 2: Educational Accessibility
+***
 
-**Date:** 2014-08-21 at 14:00 America/New_York
+#### 2:00 PM — Educational Accessibility
 
 Their next and final stop was Callahan Hall—informally known across campus as "the disability office"—to verify that all his accommodations, both academic and residential, were in place. Just in time for the Fall 2014 semester, the university had officially rebranded the department from **Services for Students with Disabilities (SSD)** to the **Office of Educational Accessibility (OEA)**, with a freshly mounted brushed-steel plaque outside the suite reading *Office of Educational Accessibility (Formerly Services for Students with Disabilities)*.
 
@@ -142,7 +144,7 @@ Aubrey took the card, his blurry vision making out the bold numbers, and slipped
 
 "Come on, Aubrey, unplug that thing," his mother said briskly, already reaching down to yank his power adapter out of the wall outlet before the degraded battery had been charging for even five minutes. "All your paperwork is done, and I'm starving. We're heading back to the motel so we can get something to eat."
 
-### Scene 3: All the Way
+### Scene 4: All the Way
 
 **Date:** 2014-08-21 at 15:00 America/New_York
 
@@ -204,7 +206,7 @@ Aubrey picked up the burger, took one small, forced bite from the edge, and almo
 
 By the time she paid the check and wheeled him back out through the cinnamon-choked gift shop and across the hot asphalt to their first-floor room at the Merit Inn, the late-afternoon sun was slanting low over the Blue Ridge mountains—leaving only the long, dreaded evening routine inside the motel room before Friday morning finally arrived.
 
-### Scene 4: The Routine
+### Scene 5: The Routine
 
 **Date:** 2014-08-21 at 20:00 America/New_York
 
@@ -246,7 +248,7 @@ Across the room, his backpack sat untouched in the corner, his heavy laptop stil
 
 As his mother disappeared back into the bathroom to wash her hands and get ready for bed, Aubrey lay rigid on his side at the very edge of the mattress. Because his legs couldn't support him and his wheelchair had been left parked across the room by the doorjamb, he was completely marooned where she had dropped him. The raw, red patches of skin across his shoulders and arms burned warmly against the stiff motel cotton, and a familiar, hollow exhaustion settled behind his eyes. In eighteen years, nobody had ever asked him how the water felt, or asked permission before touching him, or treated his body as anything other than an inconvenient chore to be rushed through and resented.
 
-### Scene 5: One Last Night
+### Scene 6: One Last Night
 
 **Date:** 2014-08-21 at 21:00 America/New_York
 
@@ -302,9 +304,7 @@ He didn't have an answer. And trapped beneath the suffocating weight of his moth
 
 With hours of darkness still stretching between him and nine o'clock tomorrow morning, Aubrey did the only thing he knew how to do to survive the night. He bit down on his lip until the silent sobs finally subsided, squeezed his wet eyes shut, let his body go completely wooden, and pulled his mind up and away from the bed—drifting out into a blank, weightless fog where he didn't have to feel her arms, her breath, or the stinging red marks on his skin until the morning light finally came.
 
-## Early Move-In
-
-### Scene 1: Eleanor Bennett Commonwealth Hall
+### Scene 7: Eleanor Bennett Commonwealth Hall
 
 **Date:** 2014-08-22 at 07:30 America/New_York
 
@@ -376,9 +376,13 @@ Voiceless without his laptop, Aubrey gave a single, stiff nod.
 
 Satisfied, his mother gave a brisk wave, turned on her heel, and marched back down the tiled corridor toward the Washington Street atrium doors. As the ten-second hold-open timer expired, the motorized arm above the doorframe whirred softly, pulling the heavy wooden door of Room 214 shut until the electronic lock clicked into place automatically.
 
-### Scene 2: Room 214
+### Scene 8: Room 214 & The Awkward Outlet
 
 **Date:** 2014-08-22 at 09:15 America/New_York
+
+![Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg)
+
+#### 9:15 AM — Room 214
 
 As the heavy wooden door of Room 214 clicked shut behind his mother's brisk footsteps, Aubrey Jordan Fuller found himself truly alone for the first time in his new dorm room. The quiet of the empty space was a muffled, heavy silence—a sudden, breathtaking relief after the suffocating night at the motel and the rushed chaos of unloading the car. He took a long, steadying breath and began to take a proper inventory of the small space—*his* space.
 
@@ -402,11 +406,9 @@ He counted the rest of the furniture. Two desks, two dressers, and two nightstan
 
 This was it. College.
 
-### Scene 3: The Awkward Outlet
+***
 
-**Date:** 2014-08-22 at 13:00 America/New_York
-
-![Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg)
+#### 1:00 PM — The Awkward Outlet
 
 Outside the single window, the heavy gray clouds that had hung low over Blacksburg all morning had bruised to a deep, threatening charcoal. Before he ventured out to explore the campus and before the sky opened up, he decided to set up his most important tool first: his laptop. He wheeled himself over to his desk, placed the heavy machine on it, and opened the lid. The battery icon blinked red, and a moment later, the screen went completely black. Dead.
 
@@ -452,7 +454,7 @@ Isabel caught the edge of the door lightly with one hand as the timer expired, g
 
 As she stepped out into the corridor and let the heavy door swing shut and lock automatically behind her, Aubrey nodded, a wave of both relief and nervousness washing over him. One night of peace before meeting the strangers who would become his new roommates.
 
-### Scene 4: Stranded
+### Scene 9: Stranded
 
 **Date:** 2014-08-22 at 14:00 America/New_York
 
@@ -476,7 +478,7 @@ Her parting words from that morning echoed in his mind, dripping with a pride th
 
 *Living on my own,* he thought with a bitter pang of clarity. She had said it with a beaming smile right before walking out the door, leaving his gym bag unpacked, his mailed box of bedding taped shut, and his bed bare, and she hadn't even bothered to call him at seven o'clock like she had sworn she would. She had dropped him in a dorm room hours from home without ever teaching him how to dress himself, cook a simple meal, or navigate the hundred small tasks she had always just... done. The honest, painful truth began to settle in his chest: maybe she wasn't proud of his independence. Maybe she was just glad to be rid of the burden until she felt like claiming him again. The thought was a cold stone in his gut. All her talk of him being an adult felt like a convenient excuse to finally be free of him.
 
-## The Mix-Up
+## The Mix-Up & The Naming of Jordan
 
 ### Scene 1: Morning Noise
 
@@ -554,11 +556,13 @@ The glare of the overhead fluorescent tube turned into white-hot needles behind 
 
 He squeezed his eyes shut, and a loud, piercing cry tore involuntarily from his throat—the raw, shattered sound of a mind pushed completely past its breaking point. His hands flew up from the push-rims to clamp tightly over both ears, his fingers digging into his hair as he began to rock violently back and forth in his wheelchair, trying desperately to block out a world that was caving in around him—just as a second young woman with long wavy blonde hair stepped across the open threshold hauling a cardboard move-in box against her hip and froze in wide-eyed concern.
 
-### Scene 4: The Anchor Holds
+### Scene 4: The Anchor Holds & The Hall Director
 
 **Date:** 2014-08-23 at 10:40 America/New_York
 
 ![Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg)
+
+#### 10:40 AM — The Anchor Holds
 
 Out in the corridor, Aubrie Jean's father took a startled step toward the threshold, his brow creasing with alarm at the sound of the boy's cries.
 
@@ -600,9 +604,9 @@ Before Aubrie or Madison could explain, two more young women—Hannah Ashlee Par
 
 "Right, something is definitely wrong with the roster," Zoë declared. "I'm going to get the RA."
 
-### Scene 5: The Hall Director
+***
 
-**Date:** 2014-08-23 at 11:30 America/New_York
+#### 11:30 AM — The Hall Director
 
 Zoë, ever the pragmatist, slipped past the gathered girls and stepped out into the chaotic second-floor hallway. With Isabel stationed downstairs at the first-floor lobby check-in tables greeting incoming families, it took Zoë less than a minute to locate the floor's male RA, Henry Walsh—a harried-looking junior with an "RA" lanyard who had crossed over from the opposite wing and was directing a family with an overflowing rolling bin near the elevators.
 
@@ -666,11 +670,13 @@ He finished typing and clicked the play button on his *SimpleSpeak* software.
 
 Zoë turned back to Kelsey, her posture decisive. "We'll tough it out. For two weeks, at least, until the dust settles. We all verbally agree, and we are prepared to sign whatever paperwork the university requires—we'll stay."
 
-### Scene 6: A Joke That Stuck
+### Scene 5: A Joke That Stuck & Making It Official
 
 **Date:** 2014-08-23 at 11:50 America/New_York
 
 ![Inside Room 214 of Eleanor Bennett Hall on freshman move-in weekend, eighteen-year-old Jordan Fuller sits in his manual wheelchair with his silver laptop resting on his lap and breaks into a relieved, hopeful smile as he claims the name Jordan and reveals he is an Astrophysics major, while Aubrie Jean Kelly leans forward from the lower wooden bunk bed with a brilliant grin of shared excitement, surrounded warmly by Madison Grace Miller at the desk and Zoë Wren Brooks, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg)
+
+#### 11:50 AM — A Joke That Stuck
 
 With the immediate hallway commotion defused, Kelsey Brennan recorded the six students' verbal agreement on her clipboard, let them know she would report the clerical error to the central Office of Housing and Residence Life so they could review the situation and prepare the formal university paperwork that afternoon, and stepped back out into the corridor with a visibly relieved Henry Walsh in tow.
 
@@ -724,9 +730,9 @@ Jordan's hands flew back to the keyboard, squinting hard at the screen as he che
 
 For the first time since his mother's car had pulled out of the Virginia Beach driveway, the crushing stone in Jordan's gut began to crack. His mother had picked Astrophysics as an insurmountable mountain designed to break him and force him to crawl back home in defeat—and by a one-in-a-million clerical error over a name he hated, the universe had placed him in the exact same dorm room as the one girl on campus who loved the stars and wanted to climb that mountain right beside him.
 
-### Scene 7: Making It Official
+***
 
-**Date:** 2014-08-23 at 12:00 America/New_York
+#### 12:00 PM — Making It Official
 
 It was Madison who brought up making the name change official right away. A few minutes later, Jordan, Aubrie, and Madison were sitting in the Resident Advisor's office down the hall. As Jordan wheeled up next to Aubrie, he nervously reached out and took her hand under the table. She responded instantly, holding his hand firmly in her lap—their first quiet, public declaration of their budding connection.
 
@@ -768,7 +774,7 @@ In the hallway, a few freshmen and their parents, who had paused their unpacking
 
 "I think so," the neighbor whispered back, eyes wide. "Did Housing seriously put a guy in there?"
 
-### Scene 8: Interlude: Across the Firewall
+### Scene 6: Interlude: Across the Firewall
 
 **Date:** 2014-08-23 at 13:20 America/New_York
 
@@ -873,7 +879,7 @@ Dr. Mercer clipped the triplicate forms onto a clean university clipboard, stood
 
 "Let's walk back around the firewall and go talk to your RAs and the residents of Suite 214/216," Dr. Mercer said.
 
-### Scene 9: Interlude: The Floor Two Inquiry
+### Scene 7: Interlude: The Floor Two Inquiry
 
 **Date:** 2014-08-23 at 14:00 America/New_York
 
@@ -921,9 +927,11 @@ Dr. Mercer looked at both RAs, weighing their words carefully.
 
 "Good," Dr. Mercer said, picking up the clipboard holding the triplicate provisional agreements. He glanced at Kelsey. "Let's go talk to the six residents of Suite 214/216."
 
-### Scene 10: The Provisional Agreement
+### Scene 8: The Provisional Agreement & The First Choice
 
 **Date:** 2014-08-23 at 14:20 America/New_York
+
+#### 2:20 PM — The Provisional Agreement
 
 Inside Room 214, the afternoon heat was tempered by the steady hum of the window air conditioner as the six suitemates finished breaking down the last of Madison's cardboard moving boxes and passing around a bag of pretzel twists. Across the connecting bathroom threshold, Zoë, Lauren, and Hannah had propped both wooden doors open so the two tripled bedrooms felt like a single continuous living space.
 
@@ -1017,9 +1025,9 @@ Dr. Mercer inspected the six signatures, countersigned the bottom administrative
 
 As the heavy wooden door clicked shut behind the Director of Housing and the Hall Director, the six suitemates stood in the sudden quiet of Room 214, looking from the signed university agreement in Zoë's hand to the single connecting bathroom doorway between their two rooms—realizing that the two-week clock to prove they could actually live together had officially begun.
 
-### Scene 11: Logistics of a Co-Ed Suite
+***
 
-**Date:** 2014-08-23 at 15:30 America/New_York
+#### 3:30 PM — Logistics of a Co-Ed Suite
 
 The practicalities of their arrangement soon came to the forefront. It was Lauren who brought it up. "Okay, so... logistics," she said, gesturing between the two rooms and the single connecting toilet. "Six people, one toilet, and no privacy. Jordan, you were expecting guy roommates, and we were expecting another girl. How do we make this not... super awkward?"
 
@@ -1055,9 +1063,9 @@ The bystanders watched as Aubrie confidently took the handles of Jordan's wheelc
 
 In the bustling cafeteria, they found a large table and sat together, sharing stories about their hometowns and their anxieties about starting college. For the first time, Jordan didn't feel like an outsider; he felt like a friend.
 
-### Scene 12: The First Choice
+***
 
-**Date:** 2014-08-23 at 16:15 America/New_York
+#### 4:15 PM — The First Choice
 
 The university dining hall was a cavernous, bustling space filled with the chaotic energy of thousands of new freshmen. The noise and the smell of the food stations could easily be overwhelming, but for Jordan, anchored by the five women walking with him, it felt like an adventure.
 
@@ -1115,7 +1123,7 @@ Mark didn't even blink. He reached out, offering Jordan a firm, friendly handsha
 
 His immediate, unquestioning acceptance was a breath of fresh air. The seven of them sat together, chatting easily about classes and sports, a newly formed, chaotic, and wonderful little family.
 
-### Scene 13: The Kincaid Hall Tea Rebellion
+### Scene 9: The Kincaid Hall Tea Rebellion
 
 **Date:** 2009-10-13 at 08:15 America/New_York
 
@@ -1177,9 +1185,11 @@ A cheer erupted from the barricade. Within seconds, the British students dismant
 
 Brenda just shook her head, chuckling as she went back to wiping down the deli counter. They were polite to a fault, she thought, but my god... you do not mess with their tea.
 
-### Scene 14: The First Assist
+### Scene 10: The First Assist & The New Voice
 
 **Date:** 2014-08-23 at 17:30 America/New_York
+
+#### 5:30 PM — The First Assist
 
 By the time dinner finished, the emotional and physical toll of the long, chaotic day had caught up with Jordan. His shoulders slumped, and he quietly admitted through his text-to-speech software that he was exhausted and just wanted to head back to the quiet of the dorm.
 
@@ -1241,9 +1251,9 @@ Zoë adjusted her glasses, her tone perfectly deadpan. "The swiftness of your re
 
 Hannah just smiled warmly, watching Aubrie fret over the blanket. The entire room had put two and two together. Aubrie Kelly was falling head over heels in love with the quiet boy in the wheelchair, and even if she wasn't quite ready to admit it out loud yet, her blush had already given her away.
 
-### Scene 15: The Spare Hardware
+***
 
-**Date:** 2014-08-23 at 17:45 America/New_York
+#### 5:45 PM — The Spare Hardware
 
 As the laughter from Aubrie's embarrassed flush began to settle, Zoë turned her analytical gaze toward Jordan's dead, bulky machine.
 
@@ -1289,9 +1299,9 @@ She tapped the trackpad, bringing up a clean, minimalist text box. "I also pre-i
 
 Jordan stared at the man, his mind struggling to process the interaction. There was no shouting. There was no accusation. There was just a father looking at him not as an intruder, but with the same unconditional kindness his daughter had shown. In that simple, quiet moment in Room 214, a tiny seed was planted in Jordan's chest—the fragile, miraculous hope that maybe, just maybe, he was finally safe.
 
-### Scene 16: The New Voice
+***
 
-**Date:** 2014-08-23 at 18:15 America/New_York
+#### 6:15 PM — The New Voice
 
 Zoë set the sleek Pinnacle Vanguard Pro down on Jordan's desk, right next to his old, battered machine.
 
@@ -1331,9 +1341,11 @@ Instead, Aubrie’s face lit up with a brilliant smile. Madison let out a cheerf
 
 The entire room—Aubrie, Zoë, Lauren, Hannah, Mark, Madison, and Daniel—happily and seamlessly accepted his choice without a single question or judgment. A wave of profound empowerment washed over Jordan as he rested his hands on the keyboard. He finally had a voice, and it was entirely his own.
 
-### Scene 17: The Antidote
+### Scene 11: The Antidote & The Trust Fall
 
 **Date:** 2014-08-23 at 18:30 America/New_York
+
+#### 6:30 PM — The Antidote
 
 With the new laptop safely resting on Jordan's lap, Daniel checked his watch and gave a warm smile. "Right, I should be heading back," he said.
 
@@ -1371,9 +1383,9 @@ Aubrie and Madison exchanged a quiet, meaningful look over Jordan's head. They b
 
 As they sat with him, keeping the atmosphere light and comfortable, the two women quietly admitted something to themselves. They actually liked having Jordan in their room. It wasn't just because Aubrie was already developing a massive, undeniable crush on him. It was because, stripped of the panic and the fear, he was genuinely easy to get along with. He was a calming, gentle presence, and they were more than happy to share their space with him.
 
-### Scene 18: The Trust Fall
+***
 
-**Date:** 2014-08-23 at 20:00 America/New_York
+#### 8:00 PM — The Trust Fall
 
 It was 8:00 PM, and the steady drum of rain against the window made the small cinderblock room feel like a quiet, isolated cocoon. Jordan shifted uncomfortably in his wheelchair, a sudden, urgent pressure making him wince. He hurriedly pulled the Pinnacle Vanguard Pro onto his lap, his fingers finding the keys.
 
@@ -1443,7 +1455,7 @@ Aubrie walked over to the wall switch, plunging the cinderblock room into a quie
 
 For the first time in his entire life, Jordan lay in the dark, surrounded by the sound of steady, peaceful breathing, and realized he wasn't afraid. Good night.
 
-## The First Real Harbor
+## The First Real Harbor & First Days of Class
 
 ### Scene 1: The Awakening
 
@@ -1545,9 +1557,11 @@ Finally, Zoë, who had been observing with a small smile, stepped up. "My turn, 
 
 Five hugs. Five different girls. Each one a gift. As Madison took the handles of his chair to head for breakfast, Jordan felt an incredible lightness. He was surrounded by a fortress of friendship. In Room 214, a gentle, unspoken romantic tension was beginning to simmer between three roommates. And from Room 216, a wave of solid, unwavering platonic support. He was learning, for the first time, what it felt like to be wanted.
 
-### Scene 3: Worlds Aligned
+### Scene 3: Worlds Aligned & The Campus Topography
 
 **Date:** 2014-08-24 at 09:30 America/New_York
+
+#### 9:30 AM — Worlds Aligned
 
 The university cafeteria doors opened promptly at 9:30 AM for Sunday breakfast. The space was a low hum of activity as the freshmen filed in. As the six of them found a large table by a window, the easy chatter of the group resumed. Jordan settled his wheelchair into the open space at the table. He was still waiting for the punchline, still half-expecting someone to laugh and tell him to leave, but as he watched them pull out chairs and comfortably make space for him, he was slowly starting to understand that maybe, just maybe, this suite family was not a cruel joke.
 
@@ -1607,9 +1621,9 @@ As his fingers left the keyboard and his hand moved to rest on the arm of his ch
 
 In that look, a universe of unspoken things was communicated. It was a silent acknowledgment that they were two strangers from different worlds who had, against all odds, found they were made of the same stardust.
 
-### Scene 4: The Campus Topography
+***
 
-**Date:** 2014-08-24 at 11:00 America/New_York
+#### 11:00 AM — The Campus Topography
 
 After breakfast, the group decided to explore the campus together to locate their classroom buildings before Monday morning. As they left the dining hall and ventured further into the university grounds, the physical reality of the Commonwealth Polytechnic Institute began to assert itself. Blacksburg was situated in the mountains, and the campus pathways were carved into the rolling landscape, making it notoriously hilly.
 
@@ -1633,7 +1647,7 @@ Hannah gripped the handles. With her sturdy, capable build, she leaned into the 
 
 Jordan looked from Hannah's easy, effortless smile to Lauren's reassuring, gentle gaze. He didn't need his text-to-speech software to communicate his profound relief. The crushing weight of feeling like a physical burden lifted. He was learning the difficult topography of his new home, but more importantly, he was discovering that this new family had the strength to carry him over the steepest mountains without him ever having to ask.
 
-### Scene 5: A Different Kind of Constellation
+### Scene 4: A Different Kind of Constellation
 
 **Date:** 2014-08-24 at 13:00 America/New_York
 
@@ -1675,7 +1689,7 @@ Hannah, sitting beside Zoë, nodded in firm agreement. As the oldest of the grou
 
 A silent, powerful agreement bloomed in the cinderblock room. The traditional rules of dating and jealousy had been completely discarded, replaced by a unique, unbreakable pact of mutual respect and radical generosity. They were not rivals. They were a constellation, and their collective purpose was to illuminate his world and ensure he never had to brave the dark alone again.
 
-### Scene 6: The Safe Harbor's Perimeter
+### Scene 5: The Safe Harbor's Perimeter
 
 **Date:** 2014-08-24 at 16:30 America/New_York
 
@@ -1745,7 +1759,7 @@ Jordan stared at the extended fist, his mind struggling to process the absolute 
 
 As Aubrie took the handles of the wheelchair and pushed Jordan out into the hallway, the tight, suffocating knot in Jordan's chest finally began to loosen. Mark wasn't angry. He wasn't jealous. He was just... happy that Jordan was being cared for. It was a profound, quiet revelation that etched itself permanently into Jordan's memory, establishing a baseline of what a real, healthy relationship looked like.
 
-### Scene 7: Kincaid Hall
+### Scene 6: Kincaid Hall
 
 **Date:** 2014-08-24 at 17:15 America/New_York
 
@@ -1777,7 +1791,7 @@ Tom didn't miss a single beat. He let out a soft, dismissive chuckle, his eyes l
 
 "Her? Nobody, really," Tom said, his tone perfectly casual. He brushed a stray strand of hair behind Lauren's ear. "Just a former classmate from my hometown".
 
-### Scene 8: The Interception
+### Scene 7: The Interception
 
 **Date:** 2014-08-24 at 17:25 America/New_York
 
@@ -1825,7 +1839,7 @@ Beside her, Mark took a slow sip of his drink, his sharp, observant eyes lingeri
 
 Mark didn't say a word to Lauren, not wanting to ruin her evening. He just set his cup down, making a quiet, permanent mental note of the tension, and resolved to keep a very close eye on his new Political Science study partner.
 
-### Scene 9: The View from the Fifth Floor
+### Scene 8: The View from the Fifth Floor
 
 **Date:** 2014-08-24 at 18:00 America/New_York
 
@@ -1869,11 +1883,11 @@ Sarah looked out the window, watching the tiny figures of students navigating th
 
 "No," Sarah said softly, turning away from the glass. "It didn't look weird at all. Honestly? It looked like he found exactly where he was supposed to be."
 
-## First Days
-
-### Scene 1: Morning Divergence
+### Scene 9: Morning Divergence & The Ascent
 
 **Date:** 2014-08-25 at 07:30 America/New_York
+
+#### 7:30 AM — Morning Divergence
 
 The sharp, mechanical buzz of a digital alarm clock shattered the quiet of Room 214.
 
@@ -1969,9 +1983,9 @@ He typed on his keyboard, hitting the execute key.
 
 Jordan felt a slow, genuine smile spread across his face. For the first time in his life, he wasn't dreading the classroom. He was looking forward to it.
 
-### Scene 2: Into the Stars
+***
 
-**Date:** 2014-08-25 at 08:50 America/New_York
+#### 8:50 AM — Into the Stars
 
 Outside the glass doors of Kincaid Hall, the sprawling campus was alive with a nervous, electric energy. Thousands of freshmen were crisscrossing the paved walkways, hunting for their first lecture halls. The suite family naturally began to splinter toward their respective academic buildings.
 
@@ -2061,9 +2075,9 @@ Jordan sat in the hallway, watching her go, a massive, uncontainable smile sprea
 
 He had a schedule. He had a system. He knew he would see her on Mondays. Wednesdays, and Fridays. He knew he would see her in the dorm tonight. And now, he knew he would see her in just a couple of hours.
 
-### Scene 3: The Ascent
+***
 
-**Date:** 2014-08-25 at 10:15 America/New_York
+#### 10:15 AM — The Ascent
 
 "It's a date," Aubrie had said brightly in the crowded hallway of the Science Complex. Then her eyes had gone wide as she realized the weight of her own words. "I mean... not a... you know. A literal date. Just... a lunch... with a time. I'll just see you then!"
 
@@ -2125,9 +2139,11 @@ But as he navigated toward the classroom door, a quiet, defiant thought blossome
 
 *Maybe,* he thought to himself, *I'll just get used to the hills.*
 
-### Scene 4: Western Civilization
+### Scene 10: Western Civilization & The Taste of Freedom
 
 **Date:** 2014-08-25 at 10:30 America/New_York
+
+#### 10:30 AM — Western Civilization
 
 The classroom in Carter Hall was much smaller and older than the massive science amphitheater, smelling faintly of lemon polish and old paper. Jordan wheeled himself into a spot at the end of the front row just as the professor—a tall, older man with a neatly trimmed beard—walked in and set his leather briefcase on the desk.
 
@@ -2195,9 +2211,9 @@ As Jordan rolled out of Carter Hall and back into the bright Virginia sunshine, 
 
 And most importantly, it was almost noon. It was time to go meet Aubrie.
 
-### Scene 5: The Broken Elevator
+***
 
-**Date:** 2014-08-25 at 12:00 America/New_York
+#### 12:00 PM — The Broken Elevator
 
 As Dr. Gable formally dismissed the class, Sarah slung her backpack over her shoulder and looked down at Jordan.
 
@@ -2277,9 +2293,9 @@ Jordan blinked, his breath hitching in his chest. It was only the second kiss of
 
 "Come on," Aubrie said, her voice bright, deliberately ignoring the stares of a few passing upperclassmen. "Let's go get lunch. Together."
 
-### Scene 6: The Taste of Freedom
+***
 
-**Date:** 2014-08-25 at 12:15 America/New_York
+#### 12:15 PM — The Taste of Freedom
 
 Aubrie stepped behind his wheelchair and pushed him toward the long, winding serving lines. The noise and smell of the food were overwhelming, a chaotic mix of sizzling grease, baking bread, and a hundred overlapping conversations.
 
@@ -2345,9 +2361,11 @@ Aubrie checked the clock on the dining hall wall. It was 12:45 PM.
 
 "Eat up, genius," she said gently, packing up her empty salad container. "You've got a one o'clock appointment with Ms. Higgins at Educational Accessibility. It's time to make sure every single professor treats you like Dr. Gable did."
 
-### Scene 7: The True Assessment
+### Scene 11: The True Assessment & Afternoon Anchors
 
 **Date:** 2014-08-25 at 12:55 America/New_York
+
+#### 12:55 PM — The True Assessment
 
 Aubrie pushed Jordan’s wheelchair across the sunlit quad toward Callahan Hall, home to what everyone at CPI informally called "the disability office." After years of operating as **Services for Students with Disabilities (SSD)**—a name many older professors and upperclassmen still used out of habit—the department had officially transitioned its name for the Fall 2014 semester to the **Office of Educational Accessibility (OEA)**. As they rolled through the heavy glass doors into the quiet, air-conditioned lobby, the reality of the clock finally caught up to them.
 
@@ -2475,9 +2493,9 @@ Jordan stared at the little red heart emoji on his screen. He carefully locked h
 
 He grabbed the hand rims of his wheelchair and pushed out into the afternoon heat, ready to tackle the hills.
 
-### Scene 8: Afternoon Anchors
+***
 
-**Date:** 2014-08-25 at 14:00 America/New_York
+#### 2:00 PM — Afternoon Anchors
 
 The afternoon sun was beating down on the brick walkways of CPI, but the steep inclines didn't seem nearly as daunting to Jordan anymore. Equipped with his new MagnaByte mPad, his FM receiver, and the stack of note-taker forms safely tucked into his backpack, he felt armed for the first time in his academic life.
 
@@ -2539,7 +2557,7 @@ He was sitting in a college classroom. He could see the notes. He could hear the
 
 His mother's weapon had been completely dismantled. The world wasn't a terrifying, isolating prison anymore. It was a wide-open universe, and his Constellation was shining brighter than he had ever thought possible.
 
-### Scene 9: The Girls of 505
+### Scene 12: The Girls of 505
 
 **Date:** 2014-08-25 at 15:30 America/New_York
 
@@ -2581,9 +2599,11 @@ Chloe sighed dramatically, resting her chin on her hands. "A sweet, smart guy wh
 
 "Right?" Sarah laughed, sitting up and pulling her laptop out of her bag to start on her reading before Wednesday. Right now, she was just happy she had made a new friend in Western Civ, and that the boy from Room 214 had finally found someone who made him smile like that.
 
-### Scene 10: Evening Data
+### Scene 13: Evening Data & The Open Doors
 
 **Date:** 2014-08-25 at 20:00 America/New_York
+
+#### 8:00 PM — Evening Data
 
 The first official day of classes had been a whirlwind. By eight o'clock that evening, the suite had gathered in Room 216 to decompress.
 
@@ -2669,9 +2689,9 @@ Lauren sat down on the edge of the bottom bunk, her shoulder pressing against Au
 
 Lauren looked back down at her dark phone resting on the desk. The contrast between the cold, toxic delusion of her boyfriend and the absolute, wholesome safety of Room 216 was jarring.
 
-### Scene 11: The Open Doors
+***
 
-**Date:** 2014-08-25 at 21:15 America/New_York
+#### 9:15 PM — The Open Doors
 
 By quarter past nine, the comfortable exhaustion of the first day of classes had finally settled over the cramped room. It was time to break up the gathering so everyone could actually get some sleep.
 
@@ -2739,11 +2759,13 @@ Jordan lay there in the quiet dark, feeling the steady rise and fall of Madison'
 
 He closed his eyes, pulling Madison just a fraction of an inch closer. He was safe. He was loved. And he was finally, completely at peace.
 
-## The Anatomy of Trust
+## The Anatomy of Trust & The Pepper Plaza Expedition
 
-### Scene 1: The Mega-Meetup
+### Scene 1: The Mega-Meetup & The Mega-Group Lunch
 
 **Date:** 2014-08-26 at 09:45 America/New_York
+
+#### 9:45 AM — The Mega-Meetup
 
 The massive, stadium-style lecture hall in the College of Health Sciences was already buzzing with the low, chaotic energy of three hundred freshmen. The room was steeply tiered, built to accommodate massive general education requirements, with a wide, flat accessible row running straight across the middle tier.
 
@@ -2813,9 +2835,9 @@ He didn't know what any of these words meant. He didn't understand the diagrams.
 
 He looked down at his own hands, resting on the armrests of his wheelchair, a sudden, overwhelming wave of inadequacy washing over him. He wasn't just behind. He was entirely, fundamentally lost.
 
-### Scene 2: Office Hours
+***
 
-**Date:** 2014-08-26 at 10:50 America/New_York
+#### 10:50 AM — Office Hours
 
 At ten-fifty, the massive lecture hall erupted into the chaotic sounds of three hundred freshmen packing up their bags. As the crowd funneled up the tiered stairs toward the exits, Jordan’s group stayed exactly where they were.
 
@@ -2887,9 +2909,9 @@ Aubrie looked back down at Jordan, squeezing his shoulder.
 
 Dr. Evans smiled, completely unaware of the unconventional lengths the girls of Suite 214 were willing to go to for their friend. "You've got a great support system here, Jordan. I'll see you all on Thursday."
 
-### Scene 3: The Mega-Group Lunch
+***
 
-**Date:** 2014-08-26 at 12:15 America/New_York
+#### 12:15 PM — The Mega-Group Lunch
 
 By the time the massive ten-person entourage made it to Kincaid Commons, the lunchtime rush was in full swing. It took some serious maneuvering, but Mark and Sarah managed to push three rectangular tables together near the back windows, creating enough space for everyone, including a spot at the head of the table for Jordan’s wheelchair.
 
@@ -2971,7 +2993,7 @@ It was a tight, solid, profoundly grounding group hug. For Jordan, physical touc
 
 "We'll see you back at the suite before dinner," Aubrie smiled, unlocking Jordan's brakes. "You're safe with us, Lauren. Always."
 
-### Scene 4: The Fifth Floor Hunch
+### Scene 2: The Fifth Floor Hunch
 
 **Date:** 2014-08-26 at 15:15 America/New_York
 
@@ -3025,7 +3047,7 @@ Sarah reached over and picked her phone back up, silencing the notifications ent
 
 Sarah laughed, the heavy weight of the toxic relationship finally starting to lift off her shoulders. She didn't know exactly when or how she was going to end it, but as she looked around the cramped, freezing dorm room at her five suitemates from Suite 505/507, she felt perfectly secure in her decision.
 
-### Scene 5: An Unconventional Study Session
+### Scene 3: An Unconventional Study Session
 
 **Date:** 2014-08-26 at 20:15 America/New_York
 
@@ -3067,7 +3089,7 @@ By the time the session ended, the lingering ghosts of his mother's psychologica
 
 They all changed into their soft cotton pajamas. Jordan sat in his wheelchair near his desk, feeling a deep, resounding peace settle into his bones. He wasn't lost anymore. He was whole, educated, and completely safe. A soft, confident smile rested on his face as he watched Aubrie, Madison, and Zoë chat quietly on the beds.
 
-### Scene 6: The Kincaid Hall Collision
+### Scene 4: The Kincaid Hall Collision
 
 **Date:** 2014-08-26 at 20:25 America/New_York
 
@@ -3195,9 +3217,11 @@ They looked up, expecting to see Hannah and Lauren. Instead, they saw ten people
 
 Aubrie was on her feet in an instant. "What happened?"
 
-### Scene 7: The War Room
+### Scene 5: The War Room & The Australian Voice
 
 **Date:** 2014-08-26 at 20:45 America/New_York
+
+#### August 26, 2014 • 8:45 PM — The War Room
 
 The cramped space of Suite 214/216 was never designed to hold twelve emotional freshmen and their Resident Advisor, but nobody cared about the tight squeeze—least of all Isabel Dawson.
 
@@ -3291,11 +3315,9 @@ Lauren closed her eyes, letting out a long, shaky exhale. Her phone was complete
 
 She was safe.
 
-## The Sensory Awakening
+***
 
-### Scene 1: The Canadian Wake-Up
-
-**Date:** 2014-08-27 at 07:00 America/New_York
+#### August 27, 2014 • 7:00 AM — The Canadian Wake-Up
 
 Jordan woke slowly, the dim morning light filtering through the single window of Room 214. The recurring, terrifying nightmare of falling was completely absent. Instead, he felt a deep, soothing warmth pressed against his side. He blinked, his poor vision struggling to focus, until the soft features and long, reddish-brown hair of the girl sleeping next to him resolved into shapes he recognized.
 
@@ -3325,9 +3347,9 @@ He opened his eyes to see Aubrie walking toward them. Her face wasn't twisted in
 
 Aubrie caught Lauren's eye, and the two women shared a brilliant, silent smile. The constellation was working perfectly.
 
-### Scene 2: The Australian Voice
+***
 
-**Date:** 2014-08-27 at 07:15 America/New_York
+#### August 27, 2014 • 7:15 AM — The Australian Voice
 
 The morning routine kicked into gear. With a gentle, clinical respect that continued to amaze him, Aubrie and Lauren helped Jordan navigate the difficult process of getting out of his pajamas and into his day clothes.
 
@@ -3373,9 +3395,11 @@ Jordan let out a massive, shaky breath of pure relief, a genuine smile finally m
 
 "She's right," Madison said, grabbing her backpack. "Let's go get some breakfast!"
 
-### Scene 3: Primary Care
+### Scene 6: Primary Care & The Good Faith Offer
 
 **Date:** 2014-08-27 at 15:30 America/New_York
+
+#### 3:30 PM — Primary Care
 
 The CPI Student Health Center was a bustling, brightly lit clinic on the edge of the campus quad. Jordan sat in his wheelchair in the crowded waiting room, his sleek Vanguard Pro resting securely on his lap. He was vibrating with a nervous, hopeful energy. In his limited, highly sheltered understanding of how the world worked, he assumed this was a one-stop shop. He fully expected to walk through the clinic doors and roll back out an hour later wearing a pair of glasses and hearing aids.
 
@@ -3425,9 +3449,9 @@ Jordan smiled, handing the referrals to Mark.
 
 "Montgomery Vision and Hearing Clinic," Mark read, an easy, confident smile spreading across his face. "I know exactly where this is. It's right next to the Montgomery County Courthouse in Christiansburg. We can catch the Route 1 bus straight down Business 460. We'll take you on Friday."
 
-### Scene 4: The Good Faith Offer
+***
 
-**Date:** 2014-08-27 at 18:30 America/New_York
+#### 6:30 PM — The Good Faith Offer
 
 By the time the group returned from Kincaid Hall after dinner, the chaotic energy of the first three days of classes had settled into a warm, comfortable hum inside Suite 214/216. Jordan sat parked near the center of Room 214 with his Vanguard Pro open on his lap, reviewing his Astronomy 101 syllabus alongside Zoë and Aubrie, while Lauren, Hannah, and Madison were sprawled across the rug and lower bunks comparing notes for the rest of the week.
 
@@ -3477,11 +3501,11 @@ She pressed the **PUSH TO OPEN** handicap button on the interior wall to unlock 
 
 Jordan looked around the small cinderblock room—at Aubrie smiling down at him, at Zoë already calculating the optimal dining-dollar burn rate, and at the four women celebrating by the bunks. This wasn't just a temporary clerical fluke anymore. They had a future here.
 
-## The Pepper Plaza Expedition
-
-### Scene 1: Route 1 to Pepper Plaza
+### Scene 7: Route 1 to Pepper Plaza & The Prescription
 
 **Date:** 2014-08-29 at 13:15 America/New_York
+
+#### 1:15 PM — Route 1 to Pepper Plaza
 
 By Friday afternoon, the late-August sun was warm and bright over the gray Ironstone buildings of Commonwealth Polytechnic Institute. With their first full week of classes officially behind them, the entire nine-person crew—Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—formed their familiar protective phalanx around Jordan's manual wheelchair as they rolled down the paved walkway toward the curbside bus lineup along **Commonwealth Mall** beneath **The Keystone Bridge** across the street from **Kincaid Hall**.
 
@@ -3558,9 +3582,9 @@ Jordan spun his wheels forward, rolled smoothly down the gentle ramp under his o
 
 As the nine friends crossed from the Pepper Plaza bus bays to the entrance of the **Montgomery Vision and Hearing Clinic** opposite the courthouse, Jordan looked back at the departing white-and-green bus in quiet awe. Getting in and out of his mother's car had been a rough, painful reminder of his supposed helplessness. Getting on and off a Blue Ridge Transit bus had been as natural as breathing. For eighteen years, the world beyond three feet had been a smeared, muffled fog—and this afternoon, that fog was finally going to lift.
 
-### Scene 2: The Prescription
+***
 
-**Date:** 2014-08-29 at 13:50 America/New_York
+#### 1:50 PM — The Prescription
 
 Inside the Optometry Suite of the **Montgomery Vision and Hearing Clinic** just across the street from the **Pepper Plaza Transit Center** and the **Montgomery County Courthouse**, the exam room was cool, quiet, and smelled faintly of lens cleaner. Unlike the cramped triage cubicles at the campus health center, this room had a wide, wheelchair-accessible examination lane designed so Jordan didn't even have to transfer out of his chair. Better still, after Jordan signed a standard clinic release form at the front desk, the optometrist—a warm, soft-spoken man in his forties named **Dr. Patel**—invited Aubrie and Madison to sit in the two visitor chairs right inside the room while the rest of the group waited in the lobby.
 
@@ -3602,9 +3626,13 @@ Dr. Patel turned to his desktop printer, pulled a crisp, heavyweight prescriptio
 
 Jordan looked down at the signed slip of paper in his hand—the official medical document bearing his chosen name, **Jordan Fuller**, and the exact mathematical numbers that would unlock the visible universe. Tucking it carefully into the zippered front pocket of his laptop bag, he gave Dr. Patel an earnest, grateful nod before Aubrie and Madison rolled with him toward the connecting door to Audiology.
 
-### Scene 3: The Audiologist's Verdict
+### Scene 8: The Audiologist's Verdict & The Ride Home in High Definition
 
 **Date:** 2014-08-29 at 14:25 America/New_York
+
+![Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks smile beside him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg)
+
+#### 2:25 PM — The Audiologist's Verdict
 
 With Dr. Patel's signed eyeglass prescription tucked safely into his laptop bag, Jordan rolled through the connecting interior door into the Audiology Suite next door, accompanied by Aubrie, Zoë, and Mark while the rest of the crew waited in the front reception lounge.
 
@@ -3646,9 +3674,9 @@ His fingers trembled slightly on the keys before he pressed execute.
 
 <aac>Your voice is so warm,</aac> his terminal spoke into the room, as a single tear slipped down his cheek. <aac>I didn't know it sounded like that.</aac>
 
-### Scene 4: LensWorks at Strickland Farm
+***
 
-**Date:** 2014-08-29 at 15:15 America/New_York
+#### 3:15 PM — LensWorks at Strickland Farm
 
 Stepping out of the **Montgomery Vision and Hearing Clinic** and crossing back over to the sawtooth bus bays of the **Pepper Plaza Transit Center** opposite the **Montgomery County Courthouse**, Jordan stopped his wheelchair under the glass transit shelter and tilted his head toward the open sky.
 
@@ -3734,11 +3762,9 @@ Aubrie knelt in front of his chair right there on the showroom carpet, taking bo
 
 "Handsome *and* twenty-twenty," she whispered, pressing a kiss to his knuckles. "Welcome to high definition, J."
 
-### Scene 5: The Ride Home in High Definition
+***
 
-**Date:** 2014-08-29 at 16:30 America/New_York
-
-![Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks smile beside him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg)
+#### 4:30 PM — The Ride Home in High Definition
 
 When the automatic glass doors of **LensWorks Optical** slid open and the nine friends stepped back out onto the sunny late-afternoon promenade of **Strickland Farm Shopping Center**, Jordan paused his wheelchair at the edge of the walkway and simply drank in the horizon.
 
@@ -3785,9 +3811,11 @@ Sitting on the campus pavement with his new glasses resting comfortably on the b
 
 This morning, he had been a boy who had never once traveled anywhere without his mother's car, looking out at a blurry, muffled world he had been taught to fear. Tonight, he could see, he could hear, and he knew he could go anywhere in the world.
 
-### Scene 6: Dinner with Isabel
+### Scene 9: Dinner with Isabel & Taking Out the Trash
 
 **Date:** 2014-08-29 at 17:30 America/New_York
+
+#### 5:30 PM — Dinner with Isabel
 
 From the bus stop beneath **The Keystone Bridge**, the nine friends rolled together along the warm brick walkways of the academic quad toward **Kincaid Hall** for Friday night dinner.
 
@@ -3877,9 +3905,9 @@ Jordan let out a long, steady breath, the tight knot in his chest dissolving com
 
 "Being your RA is the best part of my junior year, Jordan," Isabel smiled back warmly.
 
-### Scene 7: Taking Out the Trash
+***
 
-**Date:** 2014-08-29 at 18:45 America/New_York
+#### 6:45 PM — Taking Out the Trash
 
 At a quarter to seven, the ten of them bussed their trays at the conveyor window and stepped back out of **Kincaid Hall** into the golden, slanting light of the late-August evening.
 
@@ -3959,7 +3987,7 @@ Finally, six-foot-three Jessica stepped forward, leaning down with a gentle, pro
 
 Hannah gave Mark a lingering goodnight kiss at the door before pressing the square **PUSH TO OPEN** button on the interior wall. With a final chorus of goodnights, Mark headed toward the stairwell for Room 312 on the third floor while Sarah and Jessica headed upstairs toward Room 505 on the fifth floor, and the motorized door swung shut and clicked locked for the night.
 
-### Scene 8: Face to Face
+### Scene 10: Face to Face
 
 **Date:** 2014-08-29 at 20:30 America/New_York
 
@@ -4027,11 +4055,13 @@ Aubrie and Madison looked at each other and shared a warm, glowing smile in the 
 
 With his back anchored against the wall and Lauren warm and safe in his arms, Jordan closed his eyes and drifted effortlessly to sleep.
 
-## Monday Night War
+## The Post-Census Verdict & The Nightly Pact
 
-### Scene 1: Strategic Analysis
+### Scene 1: Strategic Analysis & The Main Event
 
 **Date:** 2014-09-01 at 19:30 America/New_York
+
+#### 7:30 PM — Strategic Analysis
 
 Over the Labor Day weekend, a new, effortless rhythm had settled over Suite 214/216. With his new rectangular prescription glasses resting on the bridge of his nose and his calibrated bridge hearing aids bringing every voice and musical note into sharp relief, Jordan felt as though he had woken up from an eighteen-year coma.
 
@@ -4061,9 +4091,9 @@ Even the women in the group who had never watched a single minute of **American 
 
 "Alright, troop, let's roll," Aubrie announced, stepping behind Jordan's chair with a bright smile. "I want to claim our couch cluster in the lobby before the third-floor engineering majors beat us to it."
 
-### Scene 2: The Main Event
+***
 
-**Date:** 2014-09-01 at 20:15 America/New_York
+#### 8:15 PM — The Main Event
 
 The first-floor main lobby of Bennett Hall was buzzing with Labor Day evening energy, and the nine-person crew had arrived with ten minutes to spare—successfully claiming their favorite territory: a U-shaped cluster of deep, mismatched leather sofas arranged around the lobby's sixty-inch wall-mounted television.
 
@@ -4101,9 +4131,7 @@ Jordan didn't even need EchoType for the whole lobby. Leaning forward slightly w
 
 <aac>Told you. Never bet against corporate interference on a Monday night.</aac>
 
-## The Post-Census Verdict
-
-### Scene 1: Interlude: Mutiny at McConnell Transit Center
+### Scene 2: Interlude: Mutiny at McConnell Transit Center
 
 **Date:** 2014-09-08 at 07:35 America/New_York
 
@@ -4181,7 +4209,7 @@ Dr. Catherine Sterling turned away from the curb, her face set like granite as s
 
 "Come up to my office at City Hall—both of you," City Manager Keaton said, gesturing toward his city vehicle parked at the end of the block. "No more phone calls to mid-level dispatchers. We are drafting an official joint complaint on City of Radford, Radford Transit, and Radford University letterhead right now, and we are sending it straight to CPI's Vice President for Administration and their Director of Housing before lunch."
 
-### Scene 2: Interlude: The Post-Census Verdict
+### Scene 3: Interlude: The Post-Census Verdict
 
 **Date:** 2014-09-08 at 14:00 America/New_York
 
@@ -4247,7 +4275,7 @@ As Kelsey closed her binder, Dr. Mercer leaned back in his chair, looking though
 
 "I am," Dr. Mercer nodded. "Obviously, we would *never* place students into a co-ed suite at random—what happened on August 23 was a clerical fluke that happened to land on six extraordinary kids. Again, no crystal ball for the rest of the year: let's see how they handle midterms, winter weather, and spring semester. But if Suite 214/216 finishes May 2015 with zero behavioral incidents and the kind of academic and personal thriving they've shown in these first two weeks... with their permission, their suite might just be the founding case study we take to the Vice President of Student Affairs to launch an official **Opt-In Gender-Inclusive Housing Pilot** next fall."
 
-### Scene 3: Interlude: Relief at the :45 Pulse
+### Scene 4: Interlude: Relief at the :45 Pulse
 
 **Date:** 2014-09-08 at 16:40 America/New_York
 
@@ -4269,9 +4297,11 @@ Walter keyed his lapel mic as Unit 104 pulled out right on schedule at 04:46 PM.
 
 <pa>Twenty-one seated, zero standees, and right on the money, Boss,</pa> Darrell's voice came back cheerfully over the radio. <pa>Those big maroon coaches just scooped up every CPI kid at the West Main hotels before I even got to the light. Looks like we got our city back.</pa>
 
-### Scene 4: The Suite Arrangement Consent Form
+### Scene 5: The Suite Arrangement Consent Form & One Hundred and Five Percent
 
 **Date:** 2014-09-08 at 18:30 America/New_York
+
+#### September 8, 2014 • 6:30 PM — The Suite Arrangement Consent Form
 
 Monday, September 8 marked the end of the two-week post-census trial window that **Dr. Alan Mercer** had established on Move-In Day.
 
@@ -4339,11 +4369,9 @@ Then he flipped open his laptop lid, typed a single line into EchoType, and hit 
 
 "Thank you all," Kelsey said warmly, taking the clipboard back and inspecting the six signatures with a satisfied nod. "This goes straight into Dr. Mercer's locked vault across the firewall first thing tomorrow morning. Have a wonderful week, Suite 214/216."
 
-## Health and Safety Week
+***
 
-### Scene 1: Transforming Jordan into a Forger
-
-**Date:** 2014-09-19 at 15:30 America/New_York
+#### September 19, 2014 • 3:30 PM — Transforming Jordan into a Forger
 
 By the third Friday of September, the first crisp, cool breeze of Appalachian autumn had arrived in Blacksburg, and the energy across campus was electric. Homecoming Week was just days away, and the walkways around **Commonwealth Green** were already a vibrant sea of Foundry Maroon and Molten Orange.
 
@@ -4435,9 +4463,9 @@ Jordan looked into the lowered mirror above the sink.
 
 Staring back at him was a clean-shaven nineteen-year-old young man in dark-framed rectangular glasses and a maroon **CPI Forgers** hoodie, his jawline smooth and clear for the very first time in his life. As he ran his fingertips lightly across his smooth chin, a huge, luminous smile broke across his face. He didn't look like the neglected boy locked in a back room in Virginia Beach anymore. Inside and out, he looked like a CPI Forger.
 
-### Scene 2: One Hundred and Five Percent
+***
 
-**Date:** 2014-09-19 at 19:30 America/New_York
+#### September 19, 2014 • 7:30 PM — One Hundred and Five Percent
 
 Friday evening in Suite 214/216 had begun as a quiet, triumphant celebration.
 
@@ -4463,7 +4491,7 @@ For a young man who had spent eighteen years being told by his mother that his m
 
 By a quarter to eight, the initial burst of cheering had settled into a warm, peaceful Friday night glow. Sitting at his desk in his fleece-lined Forgers hoodie, Jordan was happily reviewing his next chapter of astrophysics notes while basking in the quiet pride of his suitemates. Across Room 214, Aubrie Jean was curled up on the lower bunk in her reading glasses, reading under a soft fleece blanket, Madison was lounging on the top bunk scrolling through her mPhone, and Zoë, Hannah, and Lauren were chatting casually through the open connecting bathroom doorway in Room 216 as the digital clock on Jordan's desk ticked toward 8:00 PM.
 
-### Scene 3: Fire Alarm in the Dormitory
+### Scene 6: Fire Alarm in the Dormitory
 
 **Date:** 2014-09-19 at 20:00 America/New_York
 
@@ -4600,9 +4628,11 @@ Jordan bumped his trembling knuckles lightly against Henry's fist, letting out a
 
 As they rolled back through the ground-level Washington Street doors and down the second-floor corridor to Room 214—where Jordan tapped his OEA-encoded Poly Pass to the reader to unlock the latch and trigger the ten-second dorm door opener—he was still visibly shaken up, with dried tears staining his cheeks, a few lingering tears still clinging to his lashes, and soft sniffles hitching in his chest as the crying slowly tried to subside. Yet as he glanced back at Isabel giving him a warm, watchful nod from the doorway of Room 215 right across the hall before his own door swung shut and clicked locked, he knew he had one more person standing guard over his home.
 
-### Scene 4: The Nightly Pact
+### Scene 7: The Nightly Pact & The First Night of the Pact
 
 **Date:** 2014-09-19 at 21:00 America/New_York
+
+#### 9:00 PM — The Nightly Pact
 
 Back inside the quiet warmth of Suite 214/216 after the all-clear was given, the lingering adrenaline from the fire alarm was only slowly beginning to ebb away. Jordan was still visibly shaken up from the sheer terror of the evacuation; even wrapped in a soft fleece blanket in his wheelchair, dried tear tracks still marked his cheeks beneath his glasses, a few fresh tears still welled at the corners of his eyes, and his chest hitched every few seconds with the quiet, involuntary sniffles of hard crying that was trying to subside. All six suitemates were huddled together in Room 214, cradling steaming mugs of hot chocolate with mini-marshmallows that Madison had insisted on warming up to help him and Aubrie settle.
 
@@ -4690,9 +4720,9 @@ Zoë nodded once, a rare, radiant smile softening her face. "The parameters are 
 
 Madison picked her mug back up off the rug and raised it in a toast. "Best. Suite. Ever."
 
-### Scene 5: The First Night of the Pact
+***
 
-**Date:** 2014-09-19 at 22:30 America/New_York
+#### 10:30 PM — The First Night of the Pact
 
 As the last of the hot chocolate disappeared and the mugs were rinsed in the suite sink, a heavy, peaceful drowsiness settled over the six suitemates. The spike of adrenaline from the 8:00 PM fire alarm had completely burned off, leaving their muscles ready for sleep.
 
@@ -4726,11 +4756,13 @@ It was a mirror of the grounding deep pressure Aubrie and Lauren had given him, 
 
 Lying there in the quiet dark, held closely by one of his best friends while his girlfriend slept peacefully just six feet away, Jordan felt his heart rate slow into a steady, rhythmic calm. After eighteen years of isolation and terror in the dark, his nights were now guarded by a rotating constellation of people who loved him simply for who he was. He closed his eyes and drifted effortlessly into a dreamless sleep.
 
-## Homecoming Spirit
+## Homecoming & The Safe Harbor
 
-### Scene 1: The Door Decorating Contest
+### Scene 1: The Door Decorating Contest & Game Day
 
 **Date:** 2014-09-26 at 13:30 America/New_York
+
+#### September 26, 2014 • 1:30 PM — The Door Decorating Contest
 
 By Friday, September 26th, 2014, the entire Blacksburg campus was humming with the kinetic energy of Homecoming Weekend. Jordan had been at Commonwealth Polytechnic Institute for just over a month, and for the first time in his eighteen years, he wasn't merely surviving—he was thriving. With his new glasses bringing the lecture halls into razor-sharp focus, his behind-the-ear hearing aids filtering the classroom acoustics, and his chosen family anchoring every day, he finally felt like he belonged.
 
@@ -4780,9 +4812,9 @@ Jordan's cheeks warmed with quiet pride as he gave a shy nod and tapped a quick 
 
 As Isabel and Henry continued down the hall toward the stairwell, Jordan looked back up at the two towering doors, his fingers still speckled with dried maroon paint, surrounded by his friends laughing in the corridor. He wasn't an outsider watching college life happen through a window anymore. This was his home, and this was his team.
 
-### Scene 2: Chalk the Walk
+***
 
-**Date:** 2014-09-26 at 15:30 America/New_York
+#### September 26, 2014 • 3:30 PM — Chalk the Walk
 
 Later that afternoon, the Group of 8—joined by Jessica—headed down the hillside elevator of Bennett Hall and out onto the sun-drenched concrete walkways bordering **The Commonwealth Green** for "Chalk the Walk," one of CPI's oldest Homecoming traditions. All along the wide perimeter of the central quad, student organizations, academic clubs, and residence hall teams had claimed numbered squares of pavement to create vibrant sidewalk chalk murals before the evening festivities began.
 
@@ -4798,9 +4830,9 @@ The centerpiece belonged to Lauren. In the middle of the square, she rendered a 
 
 When the final highlights were blended in, all nine of them stood—and rolled—back to admire their handiwork. Against the grey Ironstone buildings framing The Commonwealth Green, their square blazed with maroon, orange, and gold. Jordan looked down at his chalk-dusted fingers and then at the mural they had built together on the heart of the campus quad. It was another tangible piece of his new identity: he was a CPI Forger, and for the first time in his life, he was proud of who he was.
 
-### Scene 3: The Pep Rally Fortress
+***
 
-**Date:** 2014-09-26 at 18:00 America/New_York
+#### September 26, 2014 • 6:00 PM — The Pep Rally Fortress
 
 Early Friday evening brought the loudest tradition of Homecoming Week: the campus-wide pep rally inside **The Crucible**. For Jordan, the prospect was equal parts exhilarating and terrifying. He had never attended a live sporting event in his life, let alone entered a massive stadium packed with thousands of screaming college students. The sensory chaos of move-in day and the dormitory fire drill was about to be magnified tenfold—yet this time, he wasn't being ambushed. He was choosing to walk into the fire with his family.
 
@@ -4858,9 +4890,9 @@ He was safe. More than safe—he was one of them.
 
 For the first time in his life, Jordan was part of something bigger than his own survival. A slow, luminous smile spread across his face. He squeezed Aubrie's and Madison's hands and, lifting his right arm into the cool night air, pumped his fist in rhythm with the roar of Forger Nation.
 
-### Scene 4: The Parade and the Peak
+***
 
-**Date:** 2014-09-26 at 20:00 America/New_York
+#### September 26, 2014 • 8:00 PM — The Parade and the Peak
 
 Immediately following the pep rally, the entire campus poured out toward downtown Blacksburg for the Friday night Homecoming Parade and fireworks spectacular. The Group of 8 didn't even need to catch a Blue Ridge Transit bus; the parade route curved right along the edge of campus, just a short roll from Bennett Hall. They claimed a prime, level curb cut along the sidewalk of **Business US-460 (South Main Street)**, giving Jordan an unobstructed front-row view.
 
@@ -4878,11 +4910,9 @@ As the last drum cadence faded toward the quad, the streetlights along **Commonw
 
 Jordan tilted his head back, watching the chrysanthemum bursts of light reflect off the lenses of his glasses and illuminate the smiling faces of Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica all around him. He was surrounded by his safe people in the heart of his new home. He was completely, wholeheartedly bought in. He was a CPI Forger, and tomorrow afternoon, he would watch his undefeated, #3-ranked team defend that sanctuary against "Norfolk."
 
-## Homecoming Game Day
+***
 
-### Scene 1: Game Day
-
-**Date:** 2014-09-27 at 11:00 America/New_York
+#### September 27, 2014 • 11:00 AM — Game Day
 
 Saturday, September 27th, 2014, arrived with the roar of a campus-wide celebration. Outside the windows of Bennett Hall, the crisp autumn air echoed with distant tailgate music and the chants of tens of thousands of alumni and students streaming into Blacksburg.
 
@@ -4924,9 +4954,11 @@ Jordan's fingers flew across his keyboard.
 
 He gripped the push-rims of his wheelchair until his knuckles turned white. Logically, how could the #3 team in the country possibly lose to an unranked visitor? He rolled out of Room 214 not merely as a freshman fan, but as a soldier ready to watch his new home deal his old life the defeat it deserved.
 
-### Scene 2: The Pre-Game
+### Scene 2: The Pre-Game & The First Quarter
 
 **Date:** 2014-09-27 at 12:30 America/New_York
+
+#### 12:30 PM — The Pre-Game
 
 The Group of 8 moved with the massive, surging river of Foundry Maroon and Molten Orange toward the gates of **The Crucible**. Beneath a brilliant late-September afternoon sky, the roar of sixty-five thousand fans and the cadences of the Marching Forgers' drumline pulsed through the pavement like a living heartbeat. Both Jordan and Aubrie wore their heavy-duty noise-canceling earmuffs from the start, muting the overwhelming acoustic pressure into a thrilling, chest-deep rumble.
 
@@ -4956,9 +4988,9 @@ Jordan nodded eagerly, feeding off Mark's absolute confidence. He looked up at t
 
 The stands were packed to the upper rim. Pre-game hype had reached its zenith. Jordan gripped the armrests of his wheelchair, his heart hammering with anticipation as his invincible new army prepared to take the field.
 
-### Scene 3: The First Quarter
+***
 
-**Date:** 2014-09-27 at 13:30 America/New_York
+#### 1:30 PM — The First Quarter
 
 At midfield, the team captains met for the coin toss beneath a deafening canopy of maroon and orange. CPI won the toss and, to a thunderous roar of approval from sixty-five thousand throats, elected to receive.
 
@@ -4990,9 +5022,11 @@ The horn sounded to end the first quarter. Jordan stared up at the massive LED s
 
 Across the stadium, the small pocket of visiting VDU fans in the upper corner was roaring. Around Jordan, the sixty-five thousand CPI faithful sat in stunned, restless silence. The intoxicating thrill in Jordan's chest vanished, replaced by a cold, tightening knot in his stomach. This wasn't the script. This wasn't how the war was supposed to go. His mother's world had drawn first blood.
 
-### Scene 4: The Second Quarter
+### Scene 3: The Second Quarter & The Retreat
 
 **Date:** 2014-09-27 at 14:15 America/New_York
+
+#### 2:15 PM — The Second Quarter
 
 The second quarter opened with the #3-ranked CPI Forgers backed up near their own twenty-yard line. The celebratory electricity inside The Crucible had curdled into a tense, anxious buzz.
 
@@ -5026,9 +5060,9 @@ As the halftime horn blared and the Marching Forgers began filing onto the field
 
 Sitting on the accessible platform, Jordan was frozen solid. In the terrifying arithmetic of his trauma, his "invincible" new sanctuary—the #3 team in the nation—was being effortlessly, systematically dismantled by the emissaries of his mother's city. All the oxygen seemed to vanish from the stadium air. Pale, non-verbal, and trembling, Jordan began to rock forward and back in his wheelchair—a low, involuntary survival stim as his mind spiraled into the conviction that his mother's world was omnipotent, and that nothing could ever truly protect him from her.
 
-### Scene 5: Halftime
+***
 
-**Date:** 2014-09-27 at 15:00 America/New_York
+#### 3:00 PM — Halftime
 
 The halftime whistle blew, and the **CPI Marching Forgers**—one of the premier collegiate marching bands in the country—marched onto the turf to a scattering of polite, deflated applause. All around the bowl, the aisles were clogged with thousands of frustrated alumni and students heading for the exits, disgusted by the 24–0 first-half rout.
 
@@ -5052,9 +5086,9 @@ Aubrie dropped to her knees directly in front of his footrests, taking both of h
 
 Jordan looked down at Aubrie and Madison kneeling in front of him, and then up at the circle of friends standing with their backs turned to sixty thousand people just to shield him from the world. The panic was still clawing at his chest, but their presence was an immovable anchor. He took a ragged breath and managed a small, jerky nod.
 
-### Scene 6: The Retreat
+***
 
-**Date:** 2014-09-27 at 15:20 America/New_York
+#### 3:20 PM — The Retreat
 
 Even inside the human ring of his friends, the pounding bass of the halftime show and the press of the stadium concourse were pushing Jordan closer and closer to the edge. His rocking hadn't stopped, and his eyes remained wide and unfocused behind his glasses, trapped in the suffocating conviction that his mother's world was closing in on him.
 
@@ -5088,7 +5122,7 @@ Isabel and Henry didn't hesitate for a second. Both RAs stepped into Room 214 ri
 
 The football game was still raging a few blocks away, but inside their cinderblock sanctuary, all ten of them were finally sealed off from the world.
 
-### Scene 7: The Fortress of Truth
+### Scene 4: The Fortress of Truth
 
 **Date:** 2014-09-27 at 20:45 America/New_York
 
@@ -5162,7 +5196,7 @@ Beside Lauren, Isabel knelt down on the linoleum as well, resting a steady hand 
 
 In that moment, looking around at the fierce, protective faces of Lauren, Aubrie, Madison, Zoë, Sarah, Hannah, Mark, Isabel, and Henry, an unspoken, unbreakable vow was forged. They would be his shield. They would give Jordan a place to land, a true home, ensuring his mother could never, ever reach him again.
 
-### Scene 8: The Fortress at Night
+### Scene 5: The Fortress at Night
 
 **Date:** 2014-09-27 at 22:30 America/New_York
 
@@ -5206,7 +5240,7 @@ Then the mattress dipped beside him as Aubrie climbed in under the covers. A dor
 
 Jordan let out a long, shuddering breath he felt like he had been holding since kickoff. His mind was quiet, his body exhausted, and his heart profoundly grateful for Zoë's promise, Lauren's radical hospitality, Isabel and Henry's watchfulness, Madison's warmth, and Aubrie's unwavering embrace. He was still scared of what his mother might do next—but he was no longer alone. Closing his eyes, he sank back into Aubrie's arms and fell asleep.
 
-### Scene 9: Interlude: Overnight Desk Duty
+### Scene 6: Interlude: Overnight Desk Duty
 
 **Date:** 2014-09-27 at 22:40 America/New_York
 
@@ -5298,11 +5332,11 @@ In Room 215, Isabel and Henry read Kelsey's reply from top to bottom. When they 
 
 "And look at how she made sure he knows he's in the driver's seat as a legal adult whenever he's ready," Isabel said softly, wiping a tear from the corner of her eye as she saved a backup copy of jordan\_fuller\_statement\_2014-09-27.txt into the encrypted Residence Director case folder. "Step by step, Henry. For the first time in his life, the whole building has his back."
 
-## A Hug in the Hallway
-
-### Scene 1: A Hug in the Hallway
+### Scene 7: A Hug in the Hallway & A Safe Place on the First Floor
 
 **Date:** 2014-09-28 at 10:15 America/New_York
+
+#### September 28, 2014 • 10:15 AM — A Hug in the Hallway
 
 Sunday morning dawned crisp and golden over the limestone Gables of **Eleanor Bennett Commonwealth Hall**. When Jordan woke in the narrow Twin XL bed of Room 214, the crushing sensory exhaustion of Saturday’s Homecoming collapse had finally receded, leaving behind a quiet, steady clarity. Aubrie was still curled warmly around his back as the big spoon, her chin resting lightly against his shoulder, while Madison’s soft, even breathing drifted down from the top bunk above them.
 
@@ -5384,11 +5418,9 @@ Stepping smoothly beside his wheelchair so they were eye-to-eye, Isabel leaned d
 
 Jordan grinned and bumped his knuckles solidly against Henry’s fist. The boundary was effortless, respectful, and crystal clear to everyone in the corridor: Isabel and Henry were his guardians on Floor 2, and greeting Izzy with a warm, strictly platonic hug was officially part of the morning routine.
 
-## A Safe Place on the First Floor
+***
 
-### Scene 1: A Safe Place on the First Floor
-
-**Date:** 2014-09-29 at 14:00 America/New_York
+#### September 29, 2014 • 2:00 PM — A Safe Place on the First Floor
 
 At five minutes to two on Monday afternoon, Jordan and **Aubrie Kelly** rode the Bennett Hall elevator down from the second-floor atrium to the **First-Floor Lobby**.
 
@@ -5489,7 +5521,7 @@ In his mind, where the world was carefully divided between places where he had t
 
 *Kelsey's office is a Safe Place.*
 
-## The Coming Storm
+## Jordan's Independence Day & The Fall Break Relay
 
 ### Scene 1: The Coming Storm
 
@@ -5549,9 +5581,7 @@ Jordan looked from Aubrie to Madison, his heart hammering against his ribs. Defy
 
 For the first time in his life, he realized he had a choice.
 
-## Jordan's Independence Day
-
-### Scene 1: The Confrontation
+### Scene 2: The Confrontation
 
 **Date:** 2014-10-18 at 09:15 America/New_York
 
@@ -5651,7 +5681,7 @@ Realizing her psychological hold over him was shattering in real time, Aubrie Si
 
 "She is heading down the exterior hill toward the first-floor entrance," Zoë informed **Kelsey Brennan** coolly. "And Jordan has our line open on speaker."
 
-### Scene 2: The Choice
+### Scene 3: The Choice
 
 **Date:** 2014-10-18 at 09:30 America/New_York
 
@@ -5709,7 +5739,7 @@ Before the first tear could even reach his cheek, all five women moved at once. 
 
 His mother was gone, Bennett Hall was locked down tight, and he was finally home.
 
-### Scene 3: The Cut Cord
+### Scene 4: The Cut Cord
 
 **Date:** 2014-10-18 at 10:45 America/New_York
 
@@ -5813,9 +5843,11 @@ Yes, it was an inconvenience. Yes, his mother had tried to hurt him where she th
 
 Yet as Jordan watched Madison type **[Jordan Comms]** into the header of the brand-new group chat while Aubrie laced her fingers tightly through his, a look of pure awe settled over his face. His mother had severed his cellular line to isolate him and punish him for choosing his new family. And in doing so, all she had accomplished was giving that family—and the trusted guardians of Bennett Hall—a reason to wrap themselves around him ten times tighter, weaving a human network of care so strong that nothing she did could ever cut him off again.
 
-### Scene 4: The New Lifeline and a Winter Pact
+### Scene 5: The New Lifeline and a Winter Pact & The Thanksgiving Ultimatum
 
 **Date:** 2014-10-18 at 13:00 America/New_York
+
+#### October 18, 2014 • 1:00 PM — The New Lifeline and a Winter Pact
 
 By one o'clock on Saturday afternoon, with the boxes from their celebratory pizza lunch stacked neatly on the dresser and **Mark**, **Sarah**, and **Jessica** having joined the suite in Room 214, the mood had shifted from righteous outrage to focused, collaborative engineering.
 
@@ -5868,11 +5900,9 @@ They weren't just improvising a patch for Saturday afternoon. Without a second o
 
 "Okay!" Madison grinned, clapping her hands together with infectious energy. "The Winter Pact is officially ratified, and VoIP is live. Now for the **Fall Break Relay**. Who's up first?"
 
-## The Fall Break Relay
+***
 
-### Scene 1: The Daily Grind
-
-**Date:** 2014-10-19 at 10:30 America/New_York
+#### October 19, 2014 • 10:30 AM — The Daily Grind
 
 The Fall Break weekend unfolded as a masterclass in compassionate, seamless logistics. Born out of his mother’s attempt to isolate him, the **Buddy System** and the **Jordan Comms** group chat instantly became the central nervous system of their nine-person family—plus **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh**, whom Jordan had explicitly invited into the channel.
 
@@ -5901,9 +5931,9 @@ Right around noon, a new chain of messages lit up **Jordan Comms**:
 > **Zoë:** <sms>I will accompany you. I need to pick up a reference volume from the downtown bookshop anyway.</sms><br>
 > **Aubrie:** <sms>Perfect timing! Hannah and I have our HLTH 201 midterm review at 12:30. J and I are at Kincaid Hall—meet us at the Commonwealth Mall bus stop beneath The Keystone Bridge in fifteen!</sms>
 
-### Scene 2: The Real BT
+***
 
-**Date:** 2014-10-19 at 12:15 America/New_York
+#### October 19, 2014 • 12:15 PM — The Real BT
 
 The noon handoff along **Commonwealth Mall** beneath the limestone arch of **The Keystone Bridge** across the street from **Kincaid Hall** was executed with clockwork precision. **Aubrie Kelly** gave Jordan a warm kiss on the cheek before heading off across **Commonwealth Green** to meet **Hannah**, while **Madison**, **Lauren**, and **Zoë** stepped in as his designated afternoon buddies.
 
@@ -5929,9 +5959,9 @@ When the bus pulled up to the Main Street stop downtown and the driver deployed 
 
 The driver shook his head, chuckling warmly as he retracted the ramp. "Have a good afternoon, Bluewater."
 
-### Scene 3: Main Street
+***
 
-**Date:** 2014-10-19 at 14:00 America/New_York
+#### October 19, 2014 • 2:00 PM — Main Street
 
 Jordan, **Madison**, **Lauren**, and **Zoë** spent the next two hours wandering the brick sidewalks of downtown Blacksburg beneath a canopy of scarlet and gold October maples, browsing the quirky shop windows along Main Street until they ducked into a sprawling, two-story independent bookstore lined with worn leather armchairs, the smell of espresso, and—best of all—a free public WiFi network.
 
@@ -5955,11 +5985,9 @@ Fifteen minutes later, with Jordan transferred into the front passenger seat of 
 
 The Fall Break trial run of the Buddy System wasn't just working; it was a triumph.
 
-## The Christiansburg Plan
+***
 
-### Scene 1: The Thanksgiving Ultimatum
-
-**Date:** 2014-10-20 at 20:30 America/New_York
+#### October 20, 2014 • 8:30 PM — The Thanksgiving Ultimatum
 
 On Monday night of Fall Break, all nine members of the pact—Jordan, Aubrie, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—were gathered on the couches of the first-floor lobby of Bennett Hall for their weekly **AWE Monday Night WAR** wrestling tradition when a new email notification chimed on Jordan’s Pinnacle Vanguard Pro.
 
@@ -6018,9 +6046,11 @@ Hannah looked at Mark, her eyes shining with love and pride.
 
 Then Zoë added the final tactical stroke: "And rather than waiting until Wednesday when the dorms close at 1:00 PM, all nine of us will head out to Christiansburg on **Tuesday afternoon**, a full day before your mother plans to arrive. And before we leave campus next month, Jordan, we will stop by Kelsey's office and **CPI Campus Police** just like Kelsey suggested, so your no-contact statement and my parents' address are officially on file. When your mother pulls up on Wednesday morning, she will find an empty room and a locked building."
 
-### Scene 2: The Digital Wall
+### Scene 6: The Digital Wall & A Continent of Their Own
 
 **Date:** 2014-10-20 at 20:50 America/New_York
+
+#### October 20, 2014 • 8:50 PM — The Digital Wall
 
 Twenty minutes later, back upstairs in the quiet safety of **Room 214**, the wrestling match on TV was forgotten.
 
@@ -6062,11 +6092,9 @@ It was a small, bureaucratic click of a trackpad, but to Jordan, watching **jful
 
 Aubrie Jean reached down and covered his hand on the keyboard with hers. "Good," she whispered softly. "One less way for her to ever reach you."
 
-## A Continent of Their Own
+***
 
-### Scene 1: A Continent of Their Own
-
-**Date:** 2014-10-21 at 22:00 America/New_York
+#### October 21, 2014 • 10:00 PM — A Continent of Their Own
 
 On Tuesday night—the final evening of Fall Break before Wednesday morning classes resumed—the air in Suite 214/216 was warm with the lazy, contented satisfaction of a four-day holiday well spent.
 
@@ -6122,11 +6150,13 @@ Jordan lowered his phone and looked up. **Aubrie Jean Kelly** was watching him f
 
 Jordan smiled back—a peaceful, unburdened smile that didn't need a single word—transferred onto the mattress beside her, and let her wrap him in her arms for the night.
 
-## The Thanksgiving Exodus
+## The Thanksgiving Exodus & Sanctuary on Geneva Street
 
-### Scene 1: Setting the Board
+### Scene 1: Setting the Board & The Maroon Express
 
 **Date:** 2014-11-24 at 21:00 America/New_York
+
+#### November 24, 2014 • 9:00 PM — Setting the Board
 
 By Monday night of Thanksgiving week, the successful Fall Break relay a month earlier already felt like a rehearsal for a far more urgent deadline.
 
@@ -6159,9 +6189,9 @@ At nine o'clock that night, with Aubrie Jean’s warm hand resting on his should
 
 Jordan pressed **Send**, setting the first brick of his Thanksgiving defense firmly into place.
 
-### Scene 2: Locking the Record
+***
 
-**Date:** 2014-11-25 at 09:00 America/New_York
+#### November 25, 2014 • 9:00 AM — Locking the Record
 
 At nine o'clock the next morning—Tuesday, November 25, just before his final day of pre-break classes—Jordan took the next two steps.
 
@@ -6195,9 +6225,9 @@ The sergeant read the card carefully and gave a slow, understanding nod. It was 
 
 Rolling back out into the crisp November sunshine between Mark and Hannah, Jordan felt an immense weight lift off his chest. He hadn't just run away from Wednesday morning. He had used his voice, his preparation, and his legal rights as an adult to lock every door before his mother even started her engine in Virginia Beach.
 
-### Scene 3: The Final Hour
+***
 
-**Date:** 2014-11-25 at 15:30 America/New_York
+#### November 25, 2014 • 3:30 PM — The Final Hour
 
 The instant their final Tuesday afternoon lectures wrapped up at three-thirty, all nine members of the pact converged on Suite 214/216 with a single, non-negotiable objective: get Jordan out of CPI and out of Bennett Hall before dusk, a full seventeen hours before his mother was scheduled to arrive on campus.
 
@@ -6221,9 +6251,9 @@ Sitting in the center of the room as the calm director of his own needs, Jordan 
 
 "Alright," Zoë called out at four-fifteen, zipping her own structured weekender bag shut. "We depart for Commonwealth Mall in twenty minutes. Final sweep of both rooms."
 
-### Scene 4: One Last Hug
+***
 
-**Date:** 2014-11-25 at 16:15 America/New_York
+#### November 25, 2014 • 4:15 PM — One Last Hug
 
 As the others double-checked wall outlets, windows, and bathroom counters inside Suite 214/216, Jordan’s eyes drifted toward the heavy oak door of Room 214.
 
@@ -6271,9 +6301,9 @@ Just then, the elevator doors chimed down the hall, and **Kelsey Brennan** stepp
 
 Jordan looked at Isabel, Henry, and Kelsey standing together in the corridor—his three guardians of The Old Lady—and gave them a grateful nod before releasing his wheel locks and leading his chosen family—all eight of them—toward the elevator and out into the cool November afternoon.
 
-### Scene 5: The Maroon Express
+***
 
-**Date:** 2014-11-25 at 16:35 America/New_York
+#### November 25, 2014 • 4:35 PM — The Maroon Express
 
 The walk from Bennett Hall across campus to the transit stops along **Commonwealth Mall** outside **Kincaid Hall** was a sight to behold. All nine friends moved as a single, cohesive organism—a bustling caravan of rolling suitcases, overstuffed duffel bags, and cheerful pre-holiday chatter, with Jordan’s wheelchair right at the protected center of their formation.
 
@@ -6330,9 +6360,11 @@ Disembarking at the **Christiansburg Transit Center** was just as smooth as boar
 
 The entrance to Zoë’s neighborhood was just one short block away, at the corner of **U.S. Route 11** and **Simmons Road SE**. From there, it was only a few quiet, tree-lined blocks to the cul-de-sac of **Geneva Street**—where a warm golden porch light was already shining at the end of the lane to welcome them home.
 
-### Scene 6: Geneva Street
+### Scene 2: Geneva Street & Settling into Sanctuary
 
 **Date:** 2014-11-25 at 17:15 America/New_York
+
+#### 5:15 PM — Geneva Street
 
 The nine friends turned off Simmons Road SE onto the quiet, tree-lined cul-de-sac of **Geneva Street** just as the November twilight was painting the sky in deep shades of violet and amber.
 
@@ -6380,9 +6412,9 @@ Jordan gave her a bright, grateful nod, his shoulders relaxing even further.
 
 Surrounded by the warmth of steaming cider, easy laughter, and the unconditional hospitality of the entire Brooks clan, the basement didn't feel like a temporary hiding place at all. It felt like coming home.
 
-### Scene 7: Settling into Sanctuary
+***
 
-**Date:** 2014-11-25 at 21:30 America/New_York
+#### 9:30 PM — Settling into Sanctuary
 
 As Tuesday evening wound down toward nine-thirty, the boisterous energy of their arrival softened into a warm, sleepy contentment. One by one, Zoë’s six brothers and sisters and **Daniel and Laura Brooks** wished the group a fond goodnight and headed up the interior staircase to the first and second floors of the house, closing the door at the top of the stairs to leave the nine friends to their own private domain.
 
@@ -6422,11 +6454,11 @@ He tapped the soft night-mode screen of his phone so a tiny whispered line playe
 
 Across the darkened basement, a chorus of soft *"Goodnights"* echoed from mattress to mattress. Upstairs and downstairs, seventeen people were settling in for the night under the roof on Geneva Street—but for the nine friends in the basement, it was something deeper still. They had completed their exodus a full day ahead of schedule. They were safe, they were together, and they were home for Thanksgiving.
 
-## A Thanksgiving Sanctuary
-
-### Scene 1: Interlude: The Unwelcome Arrival
+### Scene 3: Interlude: The Unwelcome Arrival & Checkmate at Dispatch
 
 **Date:** 2014-11-26 at 09:00 America/New_York
+
+#### 9:00 AM — Interlude: The Unwelcome Arrival
 
 **Kelsey Brennan**, Hall Director of the storied stone residence hall known to generations of Commonwealth Polytechnic students as *"The Old Lady on the Hill,"* had been preparing for Wednesday morning ever since Jordan Fuller signed his emergency contact form across her desk on Tuesday.
 
@@ -6474,9 +6506,9 @@ Every door was locked. The Hall Director and her Senior RA were standing like gr
 
 Shooting Kelsey and Henry a look of pure, trembling venom, she spun on her heel and marched back up the brick walkway toward Washington Street SW without ever having set a single foot inside Bennett Hall.
 
-### Scene 2: Interlude: Checkmate at Dispatch
+***
 
-**Date:** 2014-11-26 at 09:18 America/New_York
+#### 9:18 AM — Interlude: Checkmate at Dispatch
 
 Sitting behind the steering wheel of her idling sedan on Washington Street SW with her hands shaking with rage, **Aubrie Sinclair** reached into her purse and pulled out her cell phone. If the university staff refused to bow to her, she would force the issue with the municipal authorities.
 
@@ -6507,9 +6539,11 @@ Watching from the upper terrace walkway alongside **Henry Walsh** and **Sergeant
 > **Kelsey [Wed 09:24]:** <sms>[LOGISTICS] Official Bennett Hall All-Clear: She arrived at 9:12 AM, was stopped outside the locked lower doors by one of our awesome sophomores, and was met on the exterior walkway by me, Henry, and two CPI Campus Police officers. Never set a foot inside the building. Blacksburg PD just confirmed to Sgt. Miller that she tried to call in a missing-persons report from her car and was shut down cold by dispatch. Her car just cleared campus heading toward 460/I-81. Have a wonderful Thanksgiving, Jordan!!</sms><br>
 > **Isabel [Wed 09:25]:** <sms>YES!! 🎉💪 The Old Lady stays undefeated!! So proud of you, Jordan!! Happy Thanksgiving from Charlottesville!!</sms>
 
-### Scene 3: All-Time Quarterback
+### Scene 4: All-Time Quarterback & The Turkey Brawl
 
 **Date:** 2014-11-26 at 14:00 America/New_York
+
+#### November 26, 2014 • 2:00 PM — All-Time Quarterback
 
 Wednesday at the Brooks residence on Geneva Street began as a joyful symphony of domestic chaos.
 
@@ -6523,9 +6557,9 @@ And right at the center of the field sat **Jordan**—the designated **"All-Time
 
 Positioned in his wheelchair at midfield with his wheel locks set on a level patch of turf, Jordan threw tight, accurate spirals for both offenses in turn, a huge, unguarded grin plastered across his face behind his glasses. **Aubrie Jean** served as his fiercely loyal center and personal pocket protector—snapping the foam-composite football into his hands before every down and playfully stonewalling **Lucas** and **Jacob** whenever an over-enthusiastic pass rusher drifted within five yards of his chair. He wasn't sitting on the sidelines watching other people live; he was the central pivot point around which the entire game turned.
 
-### Scene 4: The Unfamiliar Car
+***
 
-**Date:** 2014-11-26 at 15:30 America/New_York
+#### November 26, 2014 • 3:30 PM — The Unfamiliar Car
 
 An hour and a half after the backyard touch-football game kicked off, rosy-cheeked, breathless, and laughing, all fifteen of them trooped back inside through the wide sliding-glass patio doors into the walk-out basement.
 
@@ -6559,9 +6593,9 @@ Daniel looked around the circle of seventeen people, his jaw set with quiet, unm
 
 A low, resolute murmur of agreement rippled across the basement. Whether his mother’s reach had grazed the edge of their neighborhood or not, the effect was the exact opposite of intimidation: the walls of their sanctuary had just grown seventeen people strong.
 
-### Scene 5: A Basement Feast
+***
 
-**Date:** 2014-11-27 at 09:30 America/New_York
+#### November 27, 2014 • 9:30 AM — A Basement Feast
 
 On Thanksgiving morning, Jordan woke to the soft, rhythmic breathing of his closest friends sleeping all around him.
 
@@ -6597,9 +6631,9 @@ Jordan looked up at him and tapped a line onto his phone’s EchoType screen, hi
 
 Daniel smiled warmly and squeezed his shoulder. "You're family, Jordan," he said simply. "This is what we do."
 
-### Scene 6: The Turkey Brawl
+***
 
-**Date:** 2014-11-27 at 20:00 America/New_York
+#### November 27, 2014 • 8:00 PM — The Turkey Brawl
 
 As eight o'clock on Thanksgiving evening approached, the last of the pie plates and serving platters were cleared upstairs, and a brand-new kind of electricity filled the basement.
 
@@ -6651,9 +6685,11 @@ A chorus of sleepy laughter and fond *"Goodnights"* drifted across the mattresse
 
 ## Operation Black Friday & The Family Charter
 
-### Scene 1: The Mission Briefing
+### Scene 1: The Mission Briefing & Truth or Dare
 
 **Date:** 2014-11-28 at 07:30 America/New_York
+
+#### 7:30 AM — The Mission Briefing
 
 The Brooks basement was a hive of quiet, purposeful activity long before the sun rose over the Blue Ridge on Black Friday morning.
 
@@ -6679,9 +6715,9 @@ There was only one Aubrie he wanted beside him, and her name was **Aubrie Jean K
 
 A chorus of determined *"Yes, sir"*s echoed through the basement, and the convoy filed out through the patio doors into the crisp November morning.
 
-### Scene 2: The First Purchase
+***
 
-**Date:** 2014-11-28 at 08:15 America/New_York
+#### 8:15 AM — The First Purchase
 
 Pulling out of the Geneva Street cul-de-sac in a tight three-vehicle line, **Daniel Brooks** reached the intersection where he could either turn right onto the **U.S. 460 Bypass** for a direct five-minute highway run to Strickland Farm Shopping Center, or continue straight onto **U.S. Route 11** and wind through downtown Christiansburg via **Business U.S. 460**.
 
@@ -6741,9 +6777,9 @@ As they loaded back into the minivan for the short drive across the sprawling sh
 
 "My turn!" Madison grinned, sliding into the captain's chair beside Jordan and wrapping him in a warm hug as the doors slid shut. "Ready for the big leagues, J? Blue Tech on Black Friday is gonna be way wilder than the phone store!"
 
-### Scene 3: The Big Box Gauntlet
+***
 
-**Date:** 2014-11-28 at 10:15 America/New_York
+#### 10:15 AM — The Big Box Gauntlet
 
 When the three-car convoy pulled into the packed parking lot outside the massive **Blue Tech** electronics superstore at the far end of the plaza, **Caleb**, **Owen**, and **Mark** executed another thorough perimeter sweep before flashing the thumbs-up.
 
@@ -6793,9 +6829,9 @@ Back out at the minivan, once the doors slid shut and the climate control warmed
 
 She handed him a chocolate-chip granola bar and an uncapped bottle of water, and Jordan took both with a grateful smile, leaning his shoulder against hers.
 
-### Scene 4: Return to Sanctuary
+***
 
-**Date:** 2014-11-28 at 11:15 America/New_York
+#### 11:15 AM — Return to Sanctuary
 
 As the three-car convoy pulled out of Strickland Farm Shopping Center onto the highway approach, Jordan caught sight of the towering illuminated marquee for the **New River Valley Mall** across the interchange. A small, curious part of him—the boy who had never once been allowed to wander a mall with teenage friends—wondered what it looked like inside. Yet the thought was immediately outweighed by how tired his nervous system felt after Blue Tech. More than anything, he wanted the quiet safety of Room 214 in *The Old Lady*—or the next best thing on earth: the warm basement on Geneva Street.
 
@@ -6829,9 +6865,9 @@ Pulling a folding table up beside Jordan’s chair, Mark cracked the factory sea
 
 By one o'clock, the Pinnacle Precisionist 5000 was a whisper-quiet, lightning-fast powerhouse tailored to Jordan’s exact fingertips. Operation Black Friday was a total triumph.
 
-### Scene 5: Truth or Dare
+***
 
-**Date:** 2014-11-28 at 20:00 America/New_York
+#### 8:00 PM — Truth or Dare
 
 By eight o'clock on Friday evening, after a leftover turkey-sandwich dinner and hours of testing out their Black Friday haul, the nine friends were sprawled across the basement carpet in a state of happy, well-fed exhaustion—with zero classes, zero homework, and two full days of holiday still stretching ahead of them.
 
@@ -6889,9 +6925,11 @@ Aubrie’s face flushed deep scarlet, and she immediately put her hands to her c
 
 The rest of the circle let out a wave of relieved laughter, immediately gravitating toward the movie shelf while Mark and Madison queued up the projector.
 
-### Scene 6: The Serious Talk
+### Scene 2: The Serious Talk & The Family Charter
 
 **Date:** 2014-11-28 at 20:30 America/New_York
+
+#### 8:30 PM — The Serious Talk
 
 As the others debated which DVD to put in out in the main basement living area, **Hannah** stepped quietly over to **Jordan**’s wheelchair and **Aubrie Jean**’s side, her expression gentle, loving, and serious.
 
@@ -6933,9 +6971,9 @@ Jordan squeezed Aubrie’s fingers gently, letting her know he wasn't angry, whi
 
 Hannah pulled both Jordan and Aubrie into a tight, three-way hug in the quiet study—and as they held onto one another, all three of them knew that this conversation needed to include the rest of their circle before the movie started.
 
-### Scene 7: The Family Charter
+***
 
-**Date:** 2014-11-28 at 21:00 America/New_York
+#### 9:00 PM — The Family Charter
 
 When **Hannah**, **Jordan**, and **Aubrie Jean** emerged from the downstairs study back into the main basement living area, the lighthearted chatter around the DVD stack quieted immediately. **Madison**, **Zoë**, **Lauren**, **Mark**, **Sarah**, and **Jessica** could tell from their faces that something important had just taken place.
 
@@ -6981,11 +7019,13 @@ Hannah looked up into her boyfriend’s warm brown eyes, her heart overflowing w
 
 Mark nodded slowly, his voice thick with respect and admiration as he kissed her forehead. "Good," he murmured. "You did the right thing tonight, Han. You always do."
 
-## The New Normal
+## The New Normal & End of First Semester
 
-### Scene 1: Return to The Old Lady
+### Scene 1: Return to The Old Lady & A Double Birthday Conspiracy
 
 **Date:** 2014-11-30 at 16:00 America/New_York
+
+#### November 30, 2014 • 4:00 PM — Return to The Old Lady
 
 The Sunday afternoon after Thanksgiving was crisp, bright, and bracingly cool.
 
@@ -7027,9 +7067,9 @@ Tom stood frozen for three seconds, utterly defeated. He couldn't comprehend a s
 
 Madison watched him disappear around the corner of the library and let out a deeply satisfied sigh. "Well," she grinned, hoisting her duffel bag onto her shoulder. "Something tells me he won't be bothering any of us ever again."
 
-### Scene 2: The Corridor Reunion
+***
 
-**Date:** 2014-11-30 at 16:10 America/New_York
+#### November 30, 2014 • 4:10 PM — The Corridor Reunion
 
 While **Daniel** and **Laura Brooks** went to park the minivan in the visitor lot before coming up to the suite, **Jordan** led the nine friends toward the second-floor entrance of *The Old Lady*.
 
@@ -7063,9 +7103,9 @@ Right beside her, Henry Walsh stepped forward with a massive grin and held out h
 
 Looking at Isabel’s radiant smile, Henry’s steady warmth, and Kelsey’s calm authority right there in the second-floor corridor—after knowing that Aubrie Sinclair hadn't even been able to get a single foot inside the exterior doors on Wednesday morning—Jordan felt a deep, bone-solid certainty settle into his chest: **the three of them had Bennett Hall locked down tight**.
 
-### Scene 3: The Route 11 Blueprint
+***
 
-**Date:** 2014-11-30 at 16:25 America/New_York
+#### November 30, 2014 • 4:25 PM — The Route 11 Blueprint
 
 Ten minutes after their hallway reunion with Isabel, Henry, and Kelsey, the energy inside Suite 214/216 was electric as the nine friends unzipped their bags and began discussing the upcoming three-week **Winter Break**, which was now less than two weeks away. Until today, their working backup plan had been to pool their savings and book a multi-room suite at an extended-stay hotel so Jordan wouldn't have to be anywhere near Virginia Beach.
 
@@ -7105,9 +7145,9 @@ Then the room erupted into an explosion of happy tears, cheers, and disbelief.
 
 Jordan sat in his wheelchair, his throat too tight for words and his eyes shining behind his glasses as **Hannah** and **Sarah** wrapped their arms around his shoulders from either side and **Aubrie Jean** squeezed his hand. Looking up at Daniel’s proud, fatherly smile and catching Zoë’s triumphant wink across the room, Jordan realized the truth: his Winter Break wasn't going to be spent hiding in a sterile hotel room. He had a home—and a family that was literally building their future around him from the ground up.
 
-### Scene 4: Operation Spring Schedule
+***
 
-**Date:** 2014-12-01 at 19:00 America/New_York
+#### December 1, 2014 • 7:00 PM — Operation Spring Schedule
 
 On Monday evening after their return from Thanksgiving, an official university-wide bulletin from the Office of the Registrar landed in every student inbox on campus: **Spring Semester 2015 Course Registration Is Now Open**.
 
@@ -7141,9 +7181,9 @@ Side by side, Jordan and Aubrie mapped out an identical Spring curriculum. Along
 
 Jordan looked from his screen to Aubrie’s, staring at two identical timetables. It was a semester engineered so that he would never have to roll into a lecture hall alone, never have to wait outside a laboratory by himself, and never have to face an unfamiliar crowd without his safe person right beside him—a fortress built out of course numbers and lab benches.
 
-### Scene 5: A Semester in Motion
+***
 
-**Date:** 2014-12-03 at 17:30 America/New_York
+#### December 3, 2014 • 5:30 PM — A Semester in Motion
 
 Over the next week, the final stretch of classes between Thanksgiving and finals week settled into a joyful, high-efficiency rhythm.
 
@@ -7162,9 +7202,9 @@ The protocol was adopted unanimously and worked like magic:
 
 Inside the quiet third floor of Pendleton Library and across the laboratories of CPI, Jordan’s mind was free to pour 100% of its energy into his coursework for the first time in his life—and his grades soared accordingly. His days were no longer about surviving his mother’s shadow; they were about living, learning, and laughing in the heart of a family that never missed a beat.
 
-### Scene 6: A Double Birthday Conspiracy
+***
 
-**Date:** 2014-12-03 at 20:30 America/New_York
+#### December 3, 2014 • 8:30 PM — A Double Birthday Conspiracy
 
 It was a quiet Wednesday evening in the first week of December, right in the calm lull before final exams began.
 
@@ -7213,7 +7253,7 @@ On the laptop screen, **Laura Brooks** put her hands to her cheeks, her eyes imm
 
 When the video call clicked off in Room 216, the seven co-conspirators looked around the circle at one another, a shared, electric secret humming between them. In less than three weeks, on the longest night of the year, Jordan Fuller and Aubrie Jean Kelly were going to celebrate the first real birthday party of Jordan’s life—surrounded by the family they had built together.
 
-### Scene 7: A Preventable Crisis
+### Scene 2: A Preventable Crisis
 
 **Date:** 2014-12-06 at 18:00 America/New_York
 
@@ -7272,7 +7312,7 @@ Around his bed, Hannah wiped a tear of fierce pride from her cheek, while Nurse 
 
 "I am logging your adult revocation of the waiver into your permanent medical chart right now, Jordan," Nurse Vance said warmly, tapping her tablet and signing it with her stylus. "As soon as your fever has been gone for thirty-six hours, we will start you on your customized adult catch-up immunization schedule right at Student Health. First, though, let's get you started on Tamiflu, anti-nausea medication, and fever reducers so we can get you—"
 
-### Scene 8: The Second Drill
+### Scene 3: The Second Drill
 
 **Date:** 2014-12-06 at 19:15 America/New_York
 
@@ -7349,9 +7389,11 @@ Even exhausted and feverish, Jordan’s eyes flicked worriedly toward the stack 
 
 As Nurse Vance packed up her diagnostic kit with a warm goodbye and the soft amber string lights cast a peaceful glow across Room 214, the fever reducer finally began to loosen the tight ache in Jordan’s shoulders. Surrounded by the quiet, steady hum of his found family setting up their bedside watch, Jordan closed his eyes and drifted off to sleep—ready to rest up, beat the virus, and finish his first college semester strong.
 
-### Scene 9: The Final Exam
+### Scene 4: The Final Exam & Departure for Winter Break
 
 **Date:** 2014-12-12 at 09:00 America/New_York
+
+#### 9:00 AM — The Final Exam
 
 The next five days inside Suite 214/216 were a masterclass in round-the-clock love and tactical caregiving.
 
@@ -7404,9 +7446,9 @@ Jordan set his wheel locks, pulled his mPhone from his sweater pocket, and tappe
 
 As Hannah took the push-handles of his wheelchair and Mark walked proudly at his side as they headed back across **Commonwealth Green** toward **Bennett Hall**, a profound wave of closure washed over Jordan. His first semester at Commonwealth Polytechnic Institute was officially in the books. He had survived abandonment, sensory overload, two fire drills, a dormitory flu outbreak, and his mother's attempts to drag him backward—and he had won on his own terms.
 
-### Scene 10: The First Shot
+***
 
-**Date:** 2014-12-12 at 13:30 America/New_York
+#### 1:30 PM — The First Shot
 
 By early Friday afternoon, the mood inside Suite 214/216 was pure, electric celebration. With every final exam across all nine schedules officially turned in, the suite was a whirlwind of open suitcases, folded sweaters, and holiday excitement as the crew packed for their three-week stay on **Geneva Street**.
 
@@ -7426,9 +7468,9 @@ What he felt instead was a surge of quiet, unshakeable empowerment that traveled
 
 Nurse Vance handed him a crisp, multi-page printout stamped with the seal of the **CPI Student Health Center** detailing his full twelve-month adult catch-up immunization calendar. Jordan folded the schedule carefully and tucked it into the front breast pocket of his shirt, right beside his **Poly Pass**.
 
-### Scene 11: Goodbye to Henry
+***
 
-**Date:** 2014-12-12 at 14:45 America/New_York
+#### 2:45 PM — Goodbye to Henry
 
 When **Jordan**, **Aubrie Jean**, and **Mark** rolled back off the second-floor elevator in **Bennett Hall** at 2:45 PM, they found **Zoë**, **Madison**, **Lauren**, **Hannah**, **Sarah**, and **Jessica** staging the group's rolling suitcases along the wall outside Room 214—and standing in the corridor beside **Isabel Dawson** (Room 215) was **Henry Walsh** (Room 201), surrounded by two taped moving boxes and a hardshell international suitcase of his own.
 
@@ -7476,9 +7518,9 @@ For a second, Henry blinked in surprise—remembering the terrified freshman boy
 
 Jordan gave Henry's hand a firm, grateful squeeze and nodded once with shining eyes before Henry straightened up to give Isabel one more warm hug at the threshold.
 
-### Scene 12: Departure for Winter Break
+***
 
-**Date:** 2014-12-12 at 16:00 America/New_York
+#### 4:00 PM — Departure for Winter Break
 
 At 4:00 PM sharp, **Zoë** checked her watch and sent the final campus dispatch of 2014 to the group chat:
 
@@ -7506,7 +7548,7 @@ Their first, impossibly eventful semester at CPI was over. Together, they had su
 
 They hadn't just survived. They had won.
 
-### Scene 13: Interlude: A Dangerous Idea
+### Scene 5: Interlude: A Dangerous Idea
 
 **Date:** 2014-12-12 at 15:00 America/New_York
 
@@ -7561,11 +7603,13 @@ Blinded by her own arrogance, Aubrie Sinclair locked the motel room door behind 
 
 # A New Winter Break Tradition
 
-## A Winter Wonderland in the Basement
+## A Winter Wonderland in the Basement & The Winter Solstice
 
-### Scene 1: The Fortress Upgrades
+### Scene 1: The Fortress Upgrades & Hunkering Down
 
 **Date:** 2014-12-12 at 19:30 America/New_York
+
+#### December 12, 2014 • 7:30 PM — The Fortress Upgrades
 
 The nine friends returned to the Brooks residence in Christiansburg that Friday evening not as temporary holiday guests, but as family coming home for the three-week Winter Break. Daniel and Laura welcomed them at the door with open arms, and as the group headed down into the walk-out basement, it was immediately clear that the familiar sanctuary had been upgraded for a long-term stay. The inflatable air mattresses from Thanksgiving were gone, replaced by four sturdy, foldable queen-sized bed frames already set up and made with crisp, fresh linens alongside the wide pull-out sectional sleeper.
 
@@ -7593,9 +7637,9 @@ He led the group over to the large oak coffee table and unrolled a thick tube of
 
 Jordan looked from the surveyor's stakes outside the glass—promising immediate independence—back to the blueprints spread across the coffee table, promising a future he had never once dared to imagine. It was the most profound act of love he had ever witnessed.
 
-### Scene 2: New Rules & Lessons in a Blizzard
+***
 
-**Date:** 2014-12-13 at 09:30 America/New_York
+#### December 13, 2014 • 9:30 AM — New Rules & Lessons in a Blizzard
 
 On the first Saturday morning of Winter Break, the nine friends stood in their newly upgraded subterranean bedroom—a cozy, interlocking fortress of four foldable queen-sized bed frames and the wide pull-out sectional sleeper. With their duffel bags unpacked into the dressers lining the main basement living area, a comfortable domestic rhythm was already settling over the room.
 
@@ -7683,9 +7727,9 @@ From the main sectional sofa across the room, Madison threw both hands in the ai
 
 Surrounded by the warmth of the basement and the quiet pride aching in his own muscles, Jordan looked out at the roaring white wall beyond the glass. For the first time in his life, he had dressed himself.
 
-### Scene 3: Blackout & The Neighbor's Chimney
+***
 
-**Date:** 2014-12-13 at 16:30 America/New_York
+#### December 13, 2014 • 4:30 PM — Blackout & The Neighbor's Chimney
 
 Mark’s triumphant words about the power grid holding up hung in the air for a fraction of a second too long.
 
@@ -7733,9 +7777,9 @@ As the adrenaline faded, a much more mundane reality set in: everyone’s stomac
 
 Opening the tall pantry cabinet in the corner, Laura began passing out tins of soup—which Daniel warmed in a stockpot right on top of the flat steel grate of the kerosene heater—alongside boxes of saltine crackers, jars of creamy peanut butter, and oat-and-honey granola bars. Huddled together in winter coats around the glowing amber ring of the heater while the blizzard raged harmlessly against the glass, dipping crackers into steaming mugs of tomato and chicken-noodle soup felt like a royal banquet.
 
-### Scene 4: Hunkering Down
+***
 
-**Date:** 2014-12-13 at 21:30 America/New_York
+#### December 13, 2014 • 9:30 PM — Hunkering Down
 
 By nine-thirty that Saturday night, the temperature outside had plunged into the teens, and the wind was rattling the storm frames with relentless force.
 
@@ -7763,7 +7807,7 @@ From the sectional, Lauren and Jessica watched the quiet moment with a wave of p
 
 Under the combined warmth of Aubrie’s embrace and Sarah’s steadying hand, the tight knot in Jordan’s chest slowly unspooled, his breathing evening out until Sarah gave his shoulder a final, gentle squeeze and slipped back under her own covers. Held securely in Aubrie’s arms, Jordan drifted to sleep while the storm spent its fury against the hills.
 
-### Scene 5: Forty-Six Inches
+### Scene 2: Forty-Six Inches
 
 **Date:** 2014-12-14 at 08:30 America/New_York
 
@@ -7799,7 +7843,7 @@ Daniel stood beside the sofa with his hands on his hips, surveying the completel
 
 A collective, deeply felt sigh of relief washed through the living room as the irresistible aroma of sizzling bacon, scrambled eggs, and fresh toast drifted in from the kitchen, where the Brooks brothers and **Ben Carter**—who had gotten snowed in with the family while visiting **Chloe** on Saturday afternoon—were cooking a massive hot breakfast for all eighteen people in the house. For today, the world was locked outside, and Jordan was completely safe.
 
-### Scene 6: Interlude: The Unbudgeted Blizzard
+### Scene 3: Interlude: The Unbudgeted Blizzard
 
 **Date:** 2014-12-14 at 09:00 America/New_York
 
@@ -7845,7 +7889,7 @@ Sitting alone in a freezing motel room she couldn't afford, with a formal reprim
 
 She didn't need to chase him through campus parking lots anymore. She had found her magic wand. With a single stroke of a circuit court judge's pen, she would erase Jordan Fuller forever.
 
-### Scene 7: Blueprints for Mobility
+### Scene 4: Blueprints for Mobility
 
 **Date:** 2014-12-16 at 21:30 America/New_York
 
@@ -7881,7 +7925,7 @@ Looking at the photograph of a sleek, custom-fitted ultralight wheelchair on her
 
 The ramp and the Route 11 estate were the physical fortress. Securing Jordan a custom-fitted wheelchair of his own—and building an ironclad contingency plan to get him onto independent health insurance the second his mother tried to pull the rug out from under him—would be their Christmas gift to their son.
 
-### Scene 8: Solar Noon on the Winter Solstice
+### Scene 5: Solar Noon on the Winter Solstice
 
 **Date:** 2014-12-21 at 12:20 America/New_York
 
@@ -7956,11 +8000,13 @@ Jordan turned to Aubrie Jean. Without needing a single spoken word, they shared 
 
 As the dining room erupted into cheers and applause, the last wisps of candle smoke drifted upward into the golden sunbeams pouring through the south windows. For the first time in Jordan Fuller’s life, December 21st was not the darkest day of the year. It was the day his family filled the Winter Solstice with so much light that the shadows had nowhere left to hide.
 
-## The Road to Christmas
+## The Road to Christmas & Adventures in Southwestern Virginia
 
-### Scene 1: The Mall Gauntlet
+### Scene 1: The Mall Gauntlet & The First Christmas Present
 
 **Date:** 2014-12-22 at 10:00 America/New_York
+
+#### 10:00 AM — The Mall Gauntlet
 
 On Monday morning, December 22nd—still riding the warm, golden afterglow of his nineteenth birthday celebration at Solar Noon—**Jordan** wheeled into the center of the basement living area with a brave, determined request already typed into his Precisionist 5000.
 
@@ -7992,9 +8038,9 @@ After scanning the options, Jordan wheeled up to the brick-oven pizzeria counter
 
 Sliding the card through the terminal reader himself and taking his receipt with a proud nod, Jordan carried his tray back to their long table. It was just a slice of mall pizza, yet as he took his first hot, cheesy bite surrounded by his eight best friends, it tasted like pure independence.
 
-### Scene 2: The Men's Room & The Sensory Abort
+***
 
-**Date:** 2014-12-22 at 13:15 America/New_York
+#### 1:15 PM — The Men's Room & The Sensory Abort
 
 As they finished clearing their lunch trays in the bustling food court, **Jordan** glanced toward the hallway directory sign and privately caught **Mark**’s eye across the table.
 
@@ -8044,9 +8090,9 @@ Forty seconds later, **Daniel Brooks** glided to the curb in the pre-warmed mini
 
 Sitting in the warm, hushed van with Aubrie’s hand interlaced with his and a bag of paid-for Christmas gifts tucked safely beside his wheels, Jordan felt exhausted—but beneath the exhaustion glowed a deep, unmistakable pride. He had braved a holiday shopping mall, eaten at a food court, and bought Christmas presents for the people he loved with his own money.
 
-### Scene 3: A Brother's Trust
+***
 
-**Date:** 2014-12-22 at 20:00 America/New_York
+#### 8:00 PM — A Brother's Trust
 
 By eight o'clock that Monday evening, the residual static from the mall had completely melted away inside the warm, dimly lit sanctuary of the Brooks basement.
 
@@ -8092,9 +8138,9 @@ On the edge of the bed, Hannah—who had watched the entire exchange with tears 
 
 Just like that, the architecture of their sanctuary evolved once again. The grounding hug circle—the foundational ritual of Jordan’s safety and emotional regulation since his very first weekend at CPI—had officially expanded. From that night forward, Mark was in, and the walls of their fortress had never stood stronger.
 
-### Scene 4: The First Christmas Present
+***
 
-**Date:** 2014-12-22 at 21:30 America/New_York
+#### 9:30 PM — The First Christmas Present
 
 An hour later, while all nine friends were lounging in the basement with **Zoë**’s older sisters **Megan** and **Chloe**—who had come downstairs with mugs of hot apple cider to watch the snow glinting outside the patio glass—**Daniel** and **Laura Brooks** descended the interior staircase.
 
@@ -8154,9 +8200,7 @@ Slowly, with fingers that barely trembled anymore, he reached down to his Precis
 
 <aac>Thank you.</aac>
 
-## Adventures in Southwestern Virginia
-
-### Scene 1: A Trip to Bluewater & The Heart-Hum
+### Scene 2: A Trip to Bluewater & The Heart-Hum
 
 **Date:** 2014-12-23 at 08:45 America/New_York
 
@@ -8220,7 +8264,7 @@ When the tears finally slowed, Emily lifted her head and let out a single, soft,
 
 On Emily’s other side, Bob let out a single, bright, decisive chirp of pure agreement, placing his palm flat over Emily’s heart as she placed hers over his—their sacred, simultaneous hum vibrating between their chests: *I love you.*
 
-### Scene 2: Lunch at Annabel's Deli
+### Scene 3: Lunch at Annabel's Deli
 
 **Date:** 2014-12-23 at 11:45 America/New_York
 
@@ -8266,9 +8310,11 @@ Stepping back across the street to the Bluewater Transit Center to catch the twe
 
 <sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the group. Departing Bluewater on the 12:45 PM Maroon Express. We are NOT heading home yet. Destination: Commonwealth Mall to transfer to the Radford Connector. Next stop: Radford to visit Sarah's dad.</sms>
 
-### Scene 3: An Afternoon in Radford
+### Scene 4: An Afternoon in Radford & Dinner at Luigi's Trattoria
 
 **Date:** 2014-12-23 at 14:15 America/New_York
+
+#### 2:15 PM — An Afternoon in Radford
 
 The outbound **Bluewater Transit *Maroon Express*** glided into **Commonwealth Mall** in Blacksburg at two-fifteen in the afternoon, right on schedule.
 
@@ -8306,9 +8352,9 @@ As the late-afternoon December sunlight began to fade into lavender twilight out
 
 "Dad, you are definitely not cooking for ten people tonight," Sarah said with a warm laugh, standing up and kissing her father’s cheek. "Why don't we head downtown to that little Italian trattoria you love near McConnell? Our treat."
 
-### Scene 4: Dinner at Luigi's Trattoria
+***
 
-**Date:** 2014-12-23 at 17:00 America/New_York
+#### 5:00 PM — Dinner at Luigi's Trattoria
 
 **Luigi’s Trattoria** sat just two blocks off the **McConnell Transit Center** in downtown Radford. Because **Peter Braithwaite**’s compact sedan couldn't possibly carry ten people and a manual wheelchair, the entire group walked down to the corner bus stop together to ride the **Wadsworth Street** bus into town—the college crew discreetly pooling two quarters from their pockets to cover Peter’s fifty-cent local fare before he could reach for his wallet.
 
@@ -8404,13 +8450,15 @@ The nightly pairings shifted seamlessly around her. Mark and Hannah curled up to
 
 Click by click, the basement lamps went dark, a soft chorus of *"Goodnight, guys"* echoed across the room, and the nine of them drifted off to sleep—safe, clean, and together.
 
-## Jordan's First Christmas
+## Jordan's First Christmas & Boxing Day in Bluewater
 
-### Scene 1: Stockings on the Bookshelf
+### Scene 1: Stockings on the Bookshelf & 'Jordan Kelly'
 
 **Date:** 2014-12-25 at 08:00 America/New_York
 
 ![On Christmas morning inside the warm, fairy-lit Brooks living room on Geneva Street, nineteen-year-old Jordan Fuller sits in his wheelchair in maroon flannel pajamas and touches his red-and-cream velvet Christmas stocking embroidered with JORDAN in gold thread hanging on the built-in oak bookshelf as Laura Brooks guides his hand, Daniel Brooks rests a fatherly hand on his shoulder, Madison Grace Miller kneels warmly beside his wheel, and Aubrie Jean Kelly and Zoë Wren Brooks look on tenderly beside the glowing Christmas tree.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg)
+
+#### 8:00 AM — Stockings on the Bookshelf
 
 **Jordan** woke on the morning of December 25th to the sound of excited, hushed whispers rippling across the basement beds.
 
@@ -8460,9 +8508,9 @@ Yet an even greater revelation was waiting for Jordan when his friends opened th
 
 For the first time in nineteen years, Jordan wasn't an outsider looking in through frosted glass. He was both a receiver and a giver of joy, sitting right at the heart of a family that loved him.
 
-### Scene 2: A Christmas Education
+***
 
-**Date:** 2014-12-25 at 10:00 America/New_York
+#### 10:00 AM — A Christmas Education
 
 By ten o'clock on Christmas morning, the extended oak dining table was in full, boisterous swing.
 
@@ -8512,9 +8560,9 @@ Daniel Brooks reached over and clapped a firm, proud hand on Jordan’s shoulder
 
 "Son," Daniel said with a beaming grin, "that is the exact plan. Clear your schedule, because we're just getting started."
 
-### Scene 3: The Board Game Gauntlet
+***
 
-**Date:** 2014-12-25 at 13:00 America/New_York
+#### 1:00 PM — The Board Game Gauntlet
 
 Once the breakfast dishes were loaded into the dishwasher and **Chloe** and her husband **Ethan** arrived back at Geneva Street with tins of homemade peppermint bark, **Daniel Brooks** clapped his hands together in the center of the living room with a mischievous glint in his eye.
 
@@ -8544,9 +8592,9 @@ It was ***Odyssey: The Great Journey***.
 
 Jordan had picked the box off the shelf himself ten minutes earlier, drawn immediately to its branching colorful road of simulated life milestones—a game entirely about making choices for your own future.
 
-### Scene 4: Odyssey: The Great Journey & 'Jordan Kelly'
+***
 
-**Date:** 2014-12-25 at 14:15 America/New_York
+#### 2:15 PM — Odyssey: The Great Journey & 'Jordan Kelly'
 
 While the theatrical battle over ***Warlords of the Sphere*** echoed cheerfully from the dining room, **Jordan** and **Aubrie Jean** sat across from each other at the accessible card table with the sprawling, colorful board of ***Odyssey: The Great Journey*** unfolded between them.
 
@@ -8634,9 +8682,11 @@ Neither of them bothered counting up the play money to see who had won. Jordan s
 
 Aubrie smiled through happy tears, brushing her thumb across the back of his hand. "That's one version of it," she whispered. "And now, Jordan, you get to build your own—for real."
 
-### Scene 5: The Someday Promise
+### Scene 2: The Someday Promise & The Bluewater Town Plaza Plan
 
 **Date:** 2014-12-25 at 15:30 America/New_York
+
+#### December 25, 2014 • 3:30 PM — The Someday Promise
 
 Around them in the living and dining rooms, the cheerful uproar of the board game tournament continued—**Caleb** and **Mark** debating a dice roll in *Warlords of the Sphere* while **Madison** and **Liam** cheered over a winning sketch in *Scribble Scramble*—but **Jordan**’s gaze couldn't leave the tiny cobalt-blue plastic car resting on the corner of their card table, still carrying its four miniature pegs.
 
@@ -8698,9 +8748,9 @@ A wave of overwhelming tenderness washed over her face. Smiling through her tear
 
 And for the next ten quiet minutes, as the afternoon sunlight turned to gold across the floorboards, they sat side by side in the hush of the guest room—simply holding hands, their unspoken promise for the future sealed between them.
 
-### Scene 6: The Unspoken Announcement
+***
 
-**Date:** 2014-12-25 at 16:00 America/New_York
+#### December 25, 2014 • 4:00 PM — The Unspoken Announcement
 
 When the guest room door clicked open and **Jordan** and **Aubrie Jean** rolled back out into the main living room, neither of them said a word.
 
@@ -8742,9 +8792,9 @@ With his eyes shimmering behind his glasses, Jordan reached out his left hand, w
 
 Seeing that their vow had landed squarely in Jordan’s heart, the family let the joyous chaos of the afternoon resume—dice clattering, timers buzzing, and laughter filling the house once more, charged now with the electric certainty of a future they had all sworn to protect.
 
-### Scene 7: Holiday House-Sitter & A Feast for a Family
+***
 
-**Date:** 2014-12-25 at 17:30 America/New_York
+#### December 25, 2014 • 5:30 PM — Holiday House-Sitter & A Feast for a Family
 
 As the last of the board games were packed neatly back into their boxes and the late-afternoon December sky deepened into twilight outside, an extraordinary aroma began drifting through the house from the upstairs kitchen.
 
@@ -8786,9 +8836,9 @@ The room fell into a warm, expectant hush. Daniel looked slowly around the table
 
 As steaming platters of roasted turkey, honey-glazed ham, herb stuffing, green-bean casserole, and cranberry sauce made their way around the table, Jordan looked out over the laughter, the overlapping stories, and the effortless affection filling the room—and knew that no matter how many Decembers he lived to see, he would never forget his first Christmas.
 
-### Scene 8: A Christmas Night Whisper
+***
 
-**Date:** 2014-12-25 at 20:30 America/New_York
+#### December 25, 2014 • 8:30 PM — A Christmas Night Whisper
 
 After the magnificent dinner plates were cleared and slices of warm apple pie and chocolate yule log had been polished off, the entire household migrated back downstairs to the basement to finish the second half of ***Holiday House-Sitter 2: Lost in the Big City***.
 
@@ -8846,11 +8896,9 @@ After Aubrie and Madison helped him brush his teeth and change into his flannel 
 
 Two minutes later, the basement lights clicked off. Tucked squarely in the middle of the warm queen mattress with Aubrie Jean snuggled against his left side and Madison curled against his right—their hands resting over his chest—Jordan closed his eyes and drifted into the deepest, happiest sleep of his life. His first Christmas was complete.
 
-## Boxing Day in Bluewater
+***
 
-### Scene 1: The Bluewater Town Plaza Plan
-
-**Date:** 2014-12-26 at 09:30 America/New_York
+#### December 26, 2014 • 9:30 AM — The Bluewater Town Plaza Plan
 
 On the morning of Friday, December 26th—the day **Daniel**, **Laura**, and **Zoë** cheerfully referred to by its British and Commonwealth name, **Boxing Day**, right alongside Canadian **Lauren** and Australians **Sarah** and **Jessica**—**Jordan** rolled up to the breakfast table with a resolute glint in his eyes and his new $50 Christmas stocking gift card tucked inside his wallet.
 
@@ -8884,9 +8932,11 @@ Pulling on his heavy winter parka—zipping it up to his chin by himself in unde
 
 Right on the dot at nine-forty-five, the gleaming burgundy-and-silver motorcoach pulled into the bay. While the five CPI freshmen flashed their university Poly Passes, Caleb and Owen purchased two Regional Express Day Passes at the farebox, and the seven of them settled in for the scenic hour-long ride down through the mountains to Bluewater, arriving at the downtown **Bluewater Transit Center** at ten-forty-five to transfer onto the local **Orange Line** bus toward the plaza.
 
-### Scene 2: Lunch at The Corner Bistro
+### Scene 3: Lunch at The Corner Bistro & The Cushion & The Triumphant Return
 
 **Date:** 2014-12-26 at 11:15 America/New_York
+
+#### 11:15 AM — Lunch at The Corner Bistro
 
 At eleven-fifteen sharp, the **Bluewater Transit *Orange Line*** bus hissed to a stop directly in front of the main glass atrium of the **Bluewater Town Plaza**.
 
@@ -8932,9 +8982,9 @@ David and Diane Scott looked at the card, then up at Jordan’s earnest face, de
 
 Fifty dollars didn't cover the entire tab for eleven people, of course,-but it took care of a major share of the bill, and Caleb, Owen, and David seamlessly covered the remainder without a fuss. As the server brought back the receipt folder and Jordan signed his own slip, he sat a full inch taller in his chair.
 
-### Scene 3: The Cushion & The Triumphant Return
+***
 
-**Date:** 2014-12-26 at 13:00 America/New_York
+#### 1:00 PM — The Cushion & The Triumphant Return
 
 After lunch at *The Corner Bistro*, the eleven of them strolled through the sunlit concourse of the **Bluewater Town Plaza** to browse the post-holiday sales.
 
@@ -8972,9 +9022,11 @@ As the front door of the Brooks house opened to the welcoming cheers of **Mark**
 
 ## The Seminole Trail & The Dawson Sanctuary
 
-### Scene 1: Gridlock on I-81 & The Route 460 Pivot
+### Scene 1: Gridlock on I-81 & The Route 460 Pivot & Elana, Stephen, & Stella
 
 **Date:** 2014-12-27 at 08:00 America/New_York
+
+#### 8:00 AM — Gridlock on I-81 & The Route 460 Pivot
 
 On Christmas morning, right after the stockings had been emptied in the Geneva Street living room, **Isabel Dawson** had kept her promise to text the **[Jordan Comms]** group chat from her family home in **Charlottesville**. When **Daniel** and **Laura Brooks** had replied to wish the entire Dawson household a happy holiday, Isabel’s parents—**Greg** and **Rebecca Dawson**—had extended a warm invitation for Daniel and Laura to bring **Jordan** and the whole gang up to Charlottesville on Saturday for lunch and an afternoon visit.
 
@@ -9016,9 +9068,9 @@ He tapped a single line on his Precisionist 5000, angling the screen toward Dani
 
 "Agreed, Jordan," Daniel smiled in the mirror as the green city limits signs for **Charlottesville** and the campus spires of **Piedmont State University** came into view ahead. "When we head back home this afternoon, we'll take US-29 South right back down to Lynchburg and pick up US-460 West all the way back to Roanoke and Christiansburg."
 
-### Scene 2: Welcome to the Dawson Sanctuary
+***
 
-**Date:** 2014-12-27 at 11:15 America/New_York
+#### 11:15 AM — Welcome to the Dawson Sanctuary
 
 At eleven-fifteen, **Daniel** turned the minivan off U.S. Route 29 into a quiet, tree-lined residential neighborhood on the northern side of **Charlottesville** and pulled into the extra-wide, zero-step concrete driveway of a single-story brick ranch home.
 
@@ -9070,9 +9122,9 @@ Elana let out a bright, musical laugh, squeezing Stephen’s hand as the little 
 
 "And this, Jordan," Stephen said warmly, "is St—**Stella**."
 
-### Scene 3: Elana, Stephen, & Stella
+***
 
-**Date:** 2014-12-27 at 12:15 America/New_York
+#### 12:15 PM — Elana, Stephen, & Stella
 
 Ten minutes later, when everyone gathered in the sunlit dining room for lunch, **Jordan** discovered another quiet marvel of the Dawson house: **Greg Dawson** had custom-built the massive oak dining table with thirty-two inches of vertical knee clearance from end to end, allowing Jordan’s manual wheelchair, **Stephen**’s basic joystick power wheelchair, and **Elana**’s heavy-duty tilt-in-space power chair to roll right up to the center of the table side by side without bumping a single table apron.
 
@@ -9118,9 +9170,11 @@ A wide, breathless grin broke across Jordan’s face as he stroked the silky whi
 
 "At the head of this table every morning," **Gran Thornton** said warmly to **Laura Brooks**, her voice carrying the proud, soothing cadence of forty years in public school classrooms, "these three have made our homeschool classroom the happiest room in Albemarle County. Because Elana struggles deeply with being apart from Stephen, we brought both of them home so I could teach them side by side. They're both seventeen now, finishing their senior year with straight A's and dual-enrollment credits from **Charlottesville Community College**, and come August, all three of them—Elana, Stephen, and Stella—are heading down to Blacksburg as **CPI** freshmen!"
 
-### Scene 4: The Architecture of Care & Fall 2015
+### Scene 2: The Architecture of Care & Fall 2015 & South on 29, West on 460
 
 **Date:** 2014-12-27 at 13:45 America/New_York
+
+#### 1:45 PM — The Architecture of Care & Fall 2015
 
 After lunch, the group naturally gravitated into two overlapping circles between the sunlit den and the adjacent double-door study—where a quiet, climate-controlled server rack hummed softly in the corner beside a custom dual-wheelchair engineering desk.
 
@@ -9180,9 +9234,9 @@ Tears shimmered behind Jordan’s glasses as he turned his Precisionist 5000 tow
 
 <aac>Now I understand why you knew exactly how to help me on Move-In Day, Isabel. You learned it from Elana, Stephen, Uncle Andy, and your whole family. And when Elana, Stephen, and Stella come to CPI in August to study Systems Architecture, all nine of us are going to be right there to welcome you to Blacksburg.</aac>
 
-### Scene 5: South on 29, West on 460
+***
 
-**Date:** 2014-12-27 at 16:00 America/New_York
+#### 4:00 PM — South on 29, West on 460
 
 At four o'clock in the afternoon, as the late-December sun began dipping toward the jagged blue silhouette of the Blue Ridge Mountains to the west, the two families gathered on the wide front porch and zero-step driveway of the Dawson house to say goodbye before nightfall.
 
@@ -9220,11 +9274,13 @@ In the peaceful cabin of the minivan, with Aubrie Jean resting her head on his l
 
 A year ago, the world beyond his bedroom wall had been a terrifying void. Now, from Geneva Street in Christiansburg to Bennett Hall in Blacksburg, from the Scott house in Bluewater to the Dawson sanctuary in Charlottesville, his map of safe places—and safe people—was growing wider with every mile.
 
-## Jordan's First New Year's
+## Jordan's First New Year's, Silver Star Service, & Breaking Ground
 
-### Scene 1: Midnight in London
+### Scene 1: Midnight in London & Booms in the Light
 
 **Date:** 2014-12-31 at 18:45 America/New_York
+
+#### December 31, 2014 • 6:45 PM — Midnight in London
 
 By a quarter to seven on the evening of **December 31st**, the main living room of the **Brooks** residence on Geneva Street was glowing with warm amber lamplight, the twinkle of the Christmas tree, and the rich, savory aroma of **Laura Brooks**’s homemade sausage rolls and mince pies drifting out of the kitchen.
 
@@ -9284,9 +9340,9 @@ Daniel Brooks walked over, knelt beside his wife in front of Jordan’s wheelcha
 
 "Well, son," Daniel said, his voice thick with emotion beneath its calm British steadiness, "that ends tonight. Tonight, nobody is sending you to bed at eight-thirty, nobody is taking your voice away, and before that clock hits midnight here in Virginia, we are going to make sure you know everything there is to know about fireworks—and see them with your own eyes."
 
-### Scene 2: The Emission Spectra of Earth
+***
 
-**Date:** 2014-12-31 at 20:00 America/New_York
+#### December 31, 2014 • 8:00 PM — The Emission Spectra of Earth
 
 Once dinner platters of roast beef sliders, Yorkshire puddings, and crisp winter salads were set out across the dining and coffee tables at eight o'clock, the entire family turned the evening into an enthusiastic masterclass on New Year's Eve and the science of fireworks.
 
@@ -9342,9 +9398,9 @@ Lauren propped her tablet up on the mantel so everyone could see her parents, **
 
 Two time zones down. One more to go—and for the first time in his life, Jordan was wide awake to see it through.
 
-### Scene 3: Ten Seconds to 2015
+***
 
-**Date:** 2014-12-31 at 23:45 America/New_York
+#### December 31, 2014 • 11:45 PM — Ten Seconds to 2015
 
 At eleven-forty-five at night, the grandfather clock in the front hall chimed the three-quarter hour.
 
@@ -9402,9 +9458,9 @@ Outside the living room windows, a low, distant *thump-BOOM* echoed across the c
 
 Instead, his eyes lit up behind his glasses, and he pointed eagerly toward the back deck door.
 
-### Scene 4: Booms in the Light
+***
 
-**Date:** 2015-01-01 at 00:10 America/New_York
+#### January 1, 2015 • 12:10 AM — Booms in the Light
 
 Within two minutes, **Hannah** and **Aubrie Jean** had helped **Jordan** zip his heavy maroon **CPI Forgers** winter jacket up to his chin, **Lauren** had tucked a knit Newfoundland toque snugly over his ears before **Megan** slipped the padded acoustic earmuffs gently over his head to take the sharp edge off the percussion, and **Mark**, **Caleb**, and **Owen** had wheeled him smoothly out onto the wide wooden back deck overlooking the snow-dusted hillside of Geneva Street.
 
@@ -9444,11 +9500,11 @@ Aubrie Jean squeezed his hand tightly, her eyes shining in the crimson and gold 
 
 Up in the clear Virginia sky, another bouquet of golden sparks bloomed against the stars—and surrounded by the people who loved him, Jordan Fuller tilted his head back and watched every single ember until the sky went quiet.
 
-## Silver Star Service & The Send-Off at ROA
-
-### Scene 1: First Time in a Terminal
+### Scene 2: First Time in a Terminal & The Auger and the Blueprint
 
 **Date:** 2015-01-03 at 06:45 America/New_York
+
+#### January 3, 2015 • 6:45 AM — First Time in a Terminal
 
 At six-forty-five on the frosty Saturday morning of **January 3, 2015**, the two-vehicle **Brooks** convoy pulled up to the curved departures curb of **Roanoke–Blacksburg Regional Airport (ROA)**.
 
@@ -9484,9 +9540,9 @@ Jordan looked out through the glass at the regional jet on the tarmac, taking in
 
 And when Henry walked back over from the counter holding his boarding passes and a thick, navy-and-gold embossed leather ticket wallet stamped with a crowned golden lion, Jordan’s curiosity shifted from the airplane on the tarmac to the second half of Henry’s journey.
 
-### Scene 2: The Queen Margaret 2 & Silver Star Service
+***
 
-**Date:** 2015-01-03 at 07:10 America/New_York
+#### January 3, 2015 • 7:10 AM — The Queen Margaret 2 & Silver Star Service
 
 With twenty-five minutes remaining before **Henry** needed to step into the security line, the group gathered around a cluster of leather chairs in the sunlit pre-security atrium overlooking the runway.
 
@@ -9525,9 +9581,9 @@ Jordan and Aubrie Jean gasped at the exact same time, turning to look at each ot
 
 "Count on it!" Henry laughed, tapping his notebook pocket. "I'm taking notes at every single astronomy lecture on the crossing just for you two! And when we dock in **Southampton** next Saturday morning on the tenth, I take the boat train from Southampton Central straight up to **London Waterloo**, walk right across Waterloo Bridge to my flat by **LSEC**, and start orientation on Monday the twelfth!"
 
-### Scene 3: A Brother's Hug at the Checkpoint
+***
 
-**Date:** 2015-01-03 at 07:35 America/New_York
+#### January 3, 2015 • 7:35 AM — A Brother's Hug at the Checkpoint
 
 At seven-thirty-five, the overhead terminal speakers chimed with the preliminary boarding announcement for **Meridian Express Flight 4182** to **Washington Dulles (IAD)**.
 
@@ -9573,9 +9629,9 @@ Rising to his feet, Henry picked up his garment bag, handed his boarding pass an
 
 Watching Henry pass smoothly through the security arch toward the **Meridian Express** gate window, Jordan rested his hand over Aubrie Jean’s on his armrest—feeling a quiet, steady thrill in his chest knowing that the next time he came through those doors at **ROA**, it would be his turn to fly.
 
-### Scene 4: Sailing Past Lady Liberty
+***
 
-**Date:** 2015-01-03 at 17:00 America/New_York
+#### January 3, 2015 • 5:00 PM — Sailing Past Lady Liberty
 
 At five o'clock that evening back in the warm basement sanctuary on Geneva Street in **Christiansburg**, every phone in the room chimed in rapid succession with a burst of notifications in **[Jordan Comms]**.
 
@@ -9606,11 +9662,9 @@ Leaning back in his chair with Aubrie Jean’s hand resting warmly over his shou
 
 First Roanoke Airport this morning. Then Spring Semester back at CPI next week. And come May, when the winter snow melted off the Blue Ridge, it would be their turn to cross the ocean together.
 
-## Breaking Ground on the Ramp
+***
 
-### Scene 1: The Auger and the Blueprint
-
-**Date:** 2015-01-05 at 08:30 America/New_York
+#### January 5, 2015 • 8:30 AM — The Auger and the Blueprint
 
 At eight-thirty on Monday morning, **January 5, 2015**—the first business day after the New Year’s holiday—a deep, mechanical rumble vibrated through the concrete slab of the **Brooks** basement.
 
@@ -9652,7 +9706,7 @@ For a long time, Jordan sat right there at the edge of the patio with Aubrie Jea
 
 Back in the suburban house in Virginia Beach, his mother had wouldn't even move a living room end table two inches to make room for his wheels. Here on Geneva Street, his new family was literally reshaping the earth and pouring concrete into the mountain so that he would never be trapped on one floor again.
 
-### Scene 2: Landfall in Southampton & The Sunday Plan
+### Scene 3: Landfall in Southampton & The Sunday Plan
 
 **Date:** 2015-01-10 at 14:00 America/New_York
 
@@ -9699,11 +9753,15 @@ Now, he was ready for **Spring Semester 2015**.
 
 # Spring Semester 2015
 
-## The Maroon Express & Return to The Old Lady
+## Return to The Old Lady & The New Pact
 
-### Scene 1: The Sunday Maroon Express
+### Scene 1: The Sunday Maroon Express & The Co-Ed Pilot Proposal
 
 **Date:** 2015-01-11 at 13:05 America/New_York
+
+![Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg)
+
+#### 1:05 PM — The Sunday Maroon Express
 
 At five minutes past one on the bright, crisp Sunday afternoon of **January 11, 2015**, **Daniel** and **Caleb Brooks** pulled up to the passenger drop-off curb at the **Christiansburg Transit Center** (Exit 118B).
 
@@ -9750,9 +9808,9 @@ Watching the sunlit winter ridges of the Blue Ridge Mountains sweep past the wid
 
 Three weeks at Geneva Street had been heaven—but he was a college student coming back for his second semester, and he couldn't wait to roll back onto his campus.
 
-### Scene 2: The Tour Guide of Commonwealth Mall
+***
 
-**Date:** 2015-01-11 at 13:45 America/New_York
+#### 1:45 PM — The Tour Guide of Commonwealth Mall
 
 At one-forty-five in the afternoon—exactly thirty minutes after pulling out of the Christiansburg Transit Center and making its single quick stop at **New River Valley Mall**—the forty-five-foot **Bluewater Transit *Maroon Express*** highway coach swung off Business 460 onto **Commonwealth Mall** and glided to a smooth stop along the granite curb beneath the limestone arch of **The Keystone Bridge**, directly across the street from **Kincaid Hall**.
 
@@ -9790,11 +9848,9 @@ And as Jordan rolled eagerly up the zero-step concrete walkway toward the lower-
 
 He wanted to find **Isabel**.
 
-### Scene 3: The First Crack in the Armor
+***
 
-**Date:** 2015-01-11 at 14:15 America/New_York
-
-![Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg)
+#### 2:15 PM — The First Crack in the Armor
 
 At two-fifteen, **Jordan** pressed the exterior handicap paddle beside the **first-floor inner quad entrance** of **Bennett Hall** and rolled across the threshold into the warm lower-level main lobby (Room 100), with **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** stepping in right behind him.
 
@@ -9848,9 +9904,9 @@ Mark watched a wave of visible relief wash across Isabel’s flushed face as she
 
 Mark didn't say a word to anyone, and his expression didn't change by a millimeter—he simply filed that look from Kelsey away in the back of his mind, quietly noting it to himself as Kelsey and the new second-floor male RA stepped out from behind the reception counter to greet the group.
 
-### Scene 4: Meeting Garrett Reynolds & The Co-Ed Pilot Proposal
+***
 
-**Date:** 2015-01-11 at 14:25 America/New_York
+#### 2:25 PM — Meeting Garrett Reynolds & The Co-Ed Pilot Proposal
 
 Stepping out from behind the curved oak front desk alongside **Isabel**, **Kelsey Brennan** smiled warmly at **Jordan** and the eight friends gathered around him.
 
@@ -9911,9 +9967,11 @@ Behind the counter, Kelsey let out a quiet, amused giggle at her Junior RA’s e
 
 "Sounds like a plan," Garrett smiled, falling into step beside Mark and Isabel as they headed for the central elevator.
 
-### Scene 5: Introducing Garrett to Suite 214/216
+### Scene 2: Introducing Garrett to Suite 214/216 & This Side of Heaven
 
 **Date:** 2015-01-11 at 14:40 America/New_York
+
+#### 2:40 PM — Introducing Garrett to Suite 214/216
 
 When the central elevator doors slid open on the second floor of **Bennett Hall**, **Daniel** and **Caleb Brooks** were waiting patiently just inside the upper ground-level **Washington Street SW** vestibule beside two residence-hall luggage carts stacked high with the nine students' rolling suitcases, winter bedding bags, and textbook crates.
 
@@ -9961,9 +10019,9 @@ Instead of a wave from the doorway, Isabel dropped smoothly to her knees beside 
 
 As Isabel and Garrett stepped out into the second-floor corridor, the ten-second dormitory timer whirred quietly overhead, easing the heavy wooden door of **Room 214** shut until the latch clicked locked behind them.
 
-### Scene 6: Across the Hall in 215
+***
 
-**Date:** 2015-01-11 at 15:15 America/New_York
+#### 3:15 PM — Across the Hall in 215
 
 For three full seconds after the heavy wooden door of **Room 214** clicked locked behind **Isabel** and **Garrett**, the nine friends stood in the quiet room looking at the closed door.
 
@@ -10011,9 +10069,9 @@ Jordan read Mark’s words and nodded immediately, his expression earnest and co
 
 "That's our guy," Mark smiled, clapping a warm hand onto Jordan’s shoulder before glancing toward the closed door of **Room 214**—and the door of **Room 215** sitting just five feet across the hallway—with a quiet, knowing look. "And honestly? Knowing how much she cares about you makes me even happier that **Isabel** is going to be keeping an eye on things from right across the hall in 215 this semester."
 
-### Scene 7: This Side of Heaven
+***
 
-**Date:** 2015-01-11 at 15:40 America/New_York
+#### 3:40 PM — This Side of Heaven
 
 With the suitcases unzipped across the beds and floor of **Suite 214/216**, it was time to finish unpacking for **Spring Semester**.
 
@@ -10069,11 +10127,11 @@ Then **Madison** clapped both hands over her mouth as happy tears sprang into he
 
 "You deserve every single second of this heaven, Jordan," Aubrie Jean whispered against his cheek, her own tears mingling with his as Jordan buried his face against her shoulder and let the rest of the joyful meltdown wash over him in the arms of the family that had set him free.
 
-## The New Pact
-
-### Scene 1: The Proposal in Room 214
+### Scene 3: The Proposal in Room 214 & The First Night of the New Pact
 
 **Date:** 2015-01-11 at 20:30 America/New_York
+
+#### 8:30 PM — The Proposal in Room 214
 
 By eight-thirty that Sunday evening, the last suitcase had been unpacked and stowed in the closets of **Suite 214/216**, and the comforting, familiar warmth of their second-floor sanctuary had settled back over the room.
 
@@ -10137,9 +10195,9 @@ With his eyes shining behind his glasses, Jordan reached for his **Pinnacle Vang
 
 <aac>I spent eighteen years being told that I was broken and that nobody would ever want me. And then I came to CPI, and the six of you showed me what real love actually looks like. If you're asking me whether I want to belong to all six of you—under the No-Jealousy Pact, as equals, for good—my answer is yes. A hundred times yes.</aac>
 
-### Scene 2: The First Night of the New Pact
+***
 
-**Date:** 2015-01-11 at 21:45 America/New_York
+#### 9:45 PM — The First Night of the New Pact
 
 When Jordan’s NeoEdit voice finished speaking in the quiet glow of **Room 214**, six radiant smiles broke out around him at the exact same moment.
 
@@ -10189,11 +10247,13 @@ Then, with the radiator humming softly against the January frost outside and the
 
 Falling asleep skin-to-skin in the heart of Room 214, Jordan didn't have a single nightmare. He was safe, he was respected, his body was his own—and he was home.
 
-## A Spring in Motion
+## A Spring in Motion, The World Trek Blueprint, & Operation 'File First'
 
-### Scene 1: The Alaskan King Discovery
+### Scene 1: The Alaskan King Discovery & The Roster of Eighteen
 
 **Date:** 2015-01-12 at 07:30 America/New_York
+
+#### January 12, 2015 • 7:30 AM — The Alaskan King Discovery
 
 Monday morning, the first day of the **Spring 2015** semester, arrived in **Suite 214/216** with a bright, easy warmth that felt light-years removed from the terrified silence of August.
 
@@ -10215,9 +10275,9 @@ A huge, radiant smile spread across Aubrie Jean’s face as the full architectur
 
 The room erupted into surprised, delighted laughter—even Zoë nodding in immediate mathematical approval as she calculated the lateral inches per person—while Jordan grinned from ear to ear, his heart warm at the thought of a future home built around their exact constellation.
 
-### Scene 2: Calculus and the Binary Stars
+***
 
-**Date:** 2015-01-12 at 10:10 America/New_York
+#### January 12, 2015 • 10:10 AM — Calculus and the Binary Stars
 
 At ten-ten that Monday morning, the nine-person unit rolled together across the paved paths bordering **Commonwealth Green** to **Copernicus Hall** for their first shared lecture of the semester—**MATH 112: Calculus of a Single Variable II** with **Mr. Evans**—claiming their nine-seat block along the accessible tier before heading down the slope to **Kincaid Commons** for a noisy, laughter-filled lunch.
 
@@ -10235,9 +10295,9 @@ At 1:25 PM, the two of them rolled into **Walton Hall** for **PHYS 102: Universi
 
 As Jordan and Aubrie Jean bent their heads together over their first spectroscopic calibration chart of the semester, their shoulders brushing and their notebooks aligned side by side, Jordan felt a quiet, unshakable certainty settle in his chest. He wasn't surviving college anymore. He was thriving in it—with his best friend and first Safe Person at his side for every single lecture and every single star chart.
 
-### Scene 3: HIST 115: History of Ancient Rome
+***
 
-**Date:** 2015-01-13 at 09:30 America/New_York
+#### January 13, 2015 • 9:30 AM — HIST 115: History of Ancient Rome
 
 On Tuesday morning at 9:30 AM, all nine members of the found family filed into the tiered amphitheater of **Archer Hall** for their shared Tuesday/Thursday general-education lecture: **HIST 115: History of Ancient Rome** with **Dr. Marcus Gable**.
 
@@ -10255,11 +10315,9 @@ Jordan grinned, already taking rapid notes on his **Pinnacle Vanguard Pro** lapt
 
 When **HIST 115** let out at 10:45 AM, the rest of the group headed to their midday study block while **Jordan** and **Aubrie Jean** rolled over to **Walton Hall** for their 11:00 AM Tuesday/Thursday class together: **GEOL 101: Planetary Geology** with **Dr. Elena Petrova**, spending seventy-five minutes comparing Martian shield volcanoes and lunar impact basins before rejoining their family at **Kincaid Commons**.
 
-## Options, Funding, and the Man in the Chair
+***
 
-### Scene 1: Options, Funding, and the Man in the Chair
-
-**Date:** 2015-01-13 at 17:30 America/New_York
+#### January 13, 2015 • 5:30 PM — Options, Funding, and the Man in the Chair
 
 That Tuesday evening after classes, **Daniel Brooks** picked up the nine students in the minivan and Caleb’s SUV and brought them out to **414 Geneva Street** in Christiansburg for a family dinner—and for a critical planning session that Daniel and Jordan had scheduled over Winter Break.
 
@@ -10320,9 +10378,9 @@ Pointing squarely to the third spec sheet, Jordan typed with quiet, unmistakable
 
 Jordan picked up the pen, checked the custom seating evaluation appointment box for **Saturday morning, January 17th**, and signed the purchase and medical-equipment order form himself.
 
-### Scene 2: The Roster of Eighteen and the Southern Hemisphere Winter
+***
 
-**Date:** 2015-01-13 at 18:30 America/New_York
+#### January 13, 2015 • 6:30 PM — The Roster of Eighteen and the Southern Hemisphere Winter
 
 When the insurance folders and the preliminary specifications for the matte-black *Vanguard Titan-X350* power wheelchair were neatly stacked at the edge of the oak table, Daniel reached into his leather portfolio and pulled out a yellow legal pad.
 
@@ -10377,11 +10435,11 @@ Meeting Daniel's eyes and placing his palm flat on the yellow legal pad, Jordan 
 
 "Locked at eighteen," Zoë announced with deep satisfaction, hitting Ctrl+S on her **Pinnacle Vanguard Pro**. "This Saturday, January seventeenth, after we complete Operation 'File First' at the campus VITA tax clinic, stop at the Christiansburg DMV for Jordan's Virginia State ID, and finish his seating evaluation for the power chair, we execute the passport blitz."
 
-## Operation 'File First' and the Passport Blitz
-
-### Scene 1: Operation 'File First' and the Geneva Street ID
+### Scene 2: Operation 'File First' & Sixteen Passports
 
 **Date:** 2015-01-17 at 09:00 America/New_York
+
+#### 9:00 AM — Operation 'File First' and the Geneva Street ID
 
 Saturday morning in Blacksburg was crisp and bright, the kind of January cold that turned breath into white plumes along the paths bordering **Commonwealth Green**. By nine o'clock, **Jordan**, **Zoë**, **Aubrie Jean**, and **Madison** were already inside the second-floor computer lab of **Keystone Hall**, where the university's accounting department ran its annual Volunteer Income Tax Assistance—VITA—clinic.
 
@@ -10428,9 +10486,9 @@ Presenting his certified Virginia birth certificate, his Social Security card, h
 
 "Phase One and Phase Two of Saturday logistics complete," Zoë said, filing the DMV receipt behind the IRS Form 8879 in Jordan's self-advocacy binder. "Next stop: the Christiansburg mobility lab at ten-thirty."
 
-### Scene 2: The Titan-X350 Seating Lab
+***
 
-**Date:** 2015-01-17 at 10:30 America/New_York
+#### 10:30 AM — The Titan-X350 Seating Lab
 
 At ten-thirty, Daniel met them at **Blue Ridge Complex Rehab & Mobility** on North Franklin Street in Christiansburg. True to the boundary Daniel had set at the dining table on Tuesday night, he didn't step up to the counter to speak for Jordan; instead, he stood casually by the display wall with Mark and Lauren while Jordan rolled up to the intake desk himself and handed over his new Virginia DMV residency card and Dr. Alistair's referrals alongside his mobility assessment packet.
 
@@ -10470,9 +10528,9 @@ With a real grin tugging at his lips, Jordan typed:
 
 <aac>Like I just ordered a tank. And nobody had to push me up the ramp to do it.</aac>
 
-### Scene 3: Sixteen Passports, Sixteen NEXUS Cards, and Two Australian ePassports
+***
 
-**Date:** 2015-01-17 at 13:00 America/New_York
+#### 1:00 PM — Sixteen Passports, Sixteen NEXUS Cards, and Two Australian ePassports
 
 By one o'clock that afternoon, the lobby of the Passport Acceptance Facility at the **Montgomery County Government Center** looked like an airport terminal that had been annexed by the Brooks and Bennett Hall families.
 
@@ -10631,9 +10689,11 @@ Jordan's fingers flew across his **NeoEdit** keyboard on his **mPad**, and he ta
 
 "Every single track on both sides, J," Mark smiled, settling back onto the cushion beside Hannah as Side A glided seamlessly into Track Two ([*"Plastic Sky"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-02-plastic-sky)), Track Three ([*"My Anchor Holds"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds)), and Track Four ([*"Dancing in the Neon"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-04-dancing-in-the-neon)), before flipping the record over to Side B so Jordan could hear [*"Break the Walls"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-08-break-the-walls), [*"Worlds Apart"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-09-worlds-apart), and the band's soaring closing origin anthem, [*"The Stardust Engine"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine).
 
-### Scene 4: Starfield Calibration (The Cosmic Tidal Lock)
+### Scene 4: Starfield Calibration & The Call from Bluewater
 
 **Date:** 2015-01-19 at 21:30 America/New_York
+
+#### January 19, 2015 • 9:30 PM — Starfield Calibration (The Cosmic Tidal Lock)
 
 On Monday night, January nineteenth—the evening after their Sunday vinyl marathon at Geneva Street—**Room 214** of **Bennett Hall** was bathed in the soft, low-sensory amber glow of **Aubrie Jean’s** desk lamp. Across the hall in Room 216, **Lauren**, **Madison**, **Zoë**, **Hannah**, **Mark**, **Sarah**, and **Jessica** were finishing a lively study session, leaving **Jordan** and **Aubrie Jean** in the quiet sanctuary of their room after completing their first problem set for **PHYS 2305 (Foundations of Physics I)**.
 
@@ -10702,9 +10762,9 @@ Aubrie Jean’s eyes shimmered in the amber lamplight. She kissed Jordan’s che
 
 "Always in alignment, Jordan," Aubrie whispered softly. "No hidden gravity—just you and me and our family in the stars."
 
-### Scene 5: The Call from Bluewater
+***
 
-**Date:** 2015-01-20 at 20:15 America/New_York
+#### January 20, 2015 • 8:15 PM — The Call from Bluewater
 
 On Tuesday evening, January twentieth—two nights after their Sunday marathon in the Brooks basement—all nine members of the found family were gathered inside **Room 214** of **Bennett Hall** after dinner at Kincaid Commons. **Jordan** was parked at his desk beside **Aubrie Jean**, reviewing their planetary geology notes on his **Pinnacle Vanguard Pro**, while **Madison** sat cross-legged on the lower bunk (**Bed B**) with **Lauren**, **Zoë**, **Hannah**, **Mark**, **Sarah**, and **Jessica** trading flashcards for Thursday's **HIST 115** quiz.
 
@@ -10774,9 +10834,11 @@ Madison looked down at Jordan’s screen, then into his earnest green eyes behin
 
 ## HEY CACUHO! The Residence Life Conference
 
-### Scene 1: Sending Off the RAs (The CACUHO Presentation)
+### Scene 1: Sending Off the RAs & The Empty Room Across the Hall
 
 **Date:** 2015-02-13 at 15:30 America/New_York
+
+#### 3:30 PM — Sending Off the RAs (The CACUHO Presentation)
 
 On Friday afternoon, February thirteenth, as **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, and **Mark** came through the ground-floor entrance of **Bennett Hall** after their afternoon classes to take the hillside elevator up to the second floor, they found the first-floor lobby buzzing with Residence Life preparations.
 
@@ -10826,9 +10888,9 @@ As Kelsey and Garrett carried the poster tubes out toward the idling CPI Fleet S
 
 <aac>Safe travels, Isabel. Knock 'em dead at CACUHO,</aac> Jordan's AAC speaker replied as he watched her walk out into the February sunshine.
 
-### Scene 2: The Empty Room Across the Hall
+***
 
-**Date:** 2015-02-13 at 20:15 America/New_York
+#### 8:15 PM — The Empty Room Across the Hall
 
 At eight-fifteen that Friday evening, a polite, slightly hesitant three-beat knock sounded against the corridor door of **Room 214**.
 
@@ -10922,7 +10984,7 @@ Jordan looked around the room at the eight people who knew every corner of his h
 
 <aac>Thank you, guys. For understanding both parts. I'm really glad I don't have to keep secrets from any of you.</aac>
 
-### Scene 3: Breakout Session 4B: Breaking the Binary Corridor
+### Scene 2: Breakout Session 4B: Breaking the Binary Corridor
 
 **Date:** 2015-02-14 at 14:00 America/New_York
 
@@ -11020,7 +11082,7 @@ Stepping out of the conference center into the crisp February afternoon air twen
 
 Isabel laughed as she dropped into a window seat behind the front wheel well—and as the bus rolled smoothly back toward the conference hotel, her thoughts drifted straight back down I-81 to the second floor of Bennett Hall, and to the wooden clothespin waiting in her pocket to be painted in Electric Color neon teal and CPI maroon for the boy in **Room 214**.
 
-### Scene 4: HEY CACUHO! Clothespins and the Gamble Aria Nightmare
+### Scene 3: HEY CACUHO! Clothespins and the Gamble Aria Nightmare
 
 **Date:** 2015-02-15 at 18:30 America/New_York
 
@@ -11080,11 +11142,13 @@ Isabel's smile softened into something luminous. She gave his shoulder a gentle,
 
 Ten seconds later, as Jordan glanced toward the bottom of their door, the familiar ribbon of warm yellow floor-lamp light was glowing underneath the threshold of Room 215 once again—and for the first time all weekend, the second floor of Bennett Hall felt completely whole.
 
-## The Stalker at the Desk & The Hotel at Poly
+## The Stalker at the Desk & The Bluewater Bunker
 
-### Scene 1: The Investigator at the Front Desk
+### Scene 1: The Investigator at the Front Desk & Convoy to Bluewater
 
 **Date:** 2015-03-02 at 14:45 America/New_York
+
+#### March 2, 2015 • 2:45 PM — The Investigator at the Front Desk
 
 The first Monday of March arrived with crisp mountain sunshine across **Commonwealth Green**, five days before the start of CPI's ten-day **Spring Break**.
 
@@ -11133,9 +11197,9 @@ Looking up at **Kelsey**, **Brianna**, **Aaron**, **Isabel**, and **Garrett**, J
 
 And beside the door, Brianna, Garrett, and Isabel gave Jordan a fierce, unified nod—their hands resting near the embroidered **CPI HOUSING & RESIDENCE LIFE** crests on the left chest of their maroon polo shirts, guarding his sanctuary with everything they had.
 
-### Scene 2: The War Council and The Hotel at Poly
+***
 
-**Date:** 2015-03-02 at 17:15 America/New_York
+#### March 2, 2015 • 5:15 PM — The War Council and The Hotel at Poly
 
 By five-fifteen that Monday evening—after **Daniel** and **Caleb** had picked up the nine students outside the second-floor **Washington Street SW** entrance of Bennett Hall in Blacksburg and driven them fifteen minutes down Route 460 to the Brooks family residence at **414 Geneva Street** in **Christiansburg**—the dining room had been transformed into a tactical command center.
 
@@ -11185,11 +11249,9 @@ An hour later, inside the quiet, plushly carpeted ground-floor accessible suite 
 
 His mother had sent a stalker across the state to hunt him down. Instead, his professors, his RAs, his brothers, and his Constellation had moved like a single unbreakable shield wall before the investigator could even get past the front desk.
 
-## The Bluewater Bunker
+***
 
-### Scene 1: Sanctuary Compromised (The Rubber Duck Convoy to Bluewater)
-
-**Date:** 2015-03-07 at 09:15 America/New_York
+#### March 7, 2015 • 9:15 AM — Sanctuary Compromised (The Rubber Duck Convoy to Bluewater)
 
 At nine-fifteen on Saturday morning, March seventh—the official start of Commonwealth Polytechnic Institute's ten-day **Spring Break**—**Jordan**, **Aubrie Jean**, and **Madison** were packing their overnight bags inside the ground-floor suite of **The Hotel at Poly** while **Mark**, **Lauren**, **Zoë**, **Hannah**, **Sarah**, and **Jessica** loaded the vehicles in the sheltered side courtyard.
 
@@ -11219,9 +11281,11 @@ Following **Mark’s** lead, the four vehicles—Daniel and Laura's van, Caleb a
 
 As the convoy climbed into the deep, pine-covered ridges of Southwest Virginia toward Bluewater—leaving the Virginia Beach investigator sitting empty-handed in a Christiansburg parking lot—Jordan leaned his head back against Aubrie Jean’s shoulder, held Madison’s hand across his lap, and got ready to keep the promise he had made to her in January: to show her little squirt that life on wheels wasn't the end of the road.
 
-### Scene 2: Making It Work in Bluewater
+### Scene 2: Making It Work in Bluewater & The Heart-Hum
 
 **Date:** 2015-03-07 at 11:15 America/New_York
+
+#### March 7, 2015 • 11:15 AM — Making It Work in Bluewater
 
 Ninety minutes later, the four-car convoy turned onto a quiet, tree-lined residential street in **Bluewater, Virginia**, and pulled into the driveway of **David and Diane Scott's** home: a warm, lived-in two-story house with white clapboard siding, dark green shutters, and a newly built wooden ramp rising gently beside the front porch steps.
 
@@ -11263,9 +11327,9 @@ Out in the living room, a quiet, profound bond began to form between **Jordan**,
 
 Because none of the three spoke aloud with their vocal cords, the living room became a sanctuary of effortless non-verbal understanding—a rhythmic symphony of Bob and Emily’s **Heart-Hum** (which Madison translated with gentle fluency whenever a nuance was new to Jordan) and rapid-fire messages typed across Jordan’s **Pinnacle Vanguard Pro** and Bob and Emily’s shared **mPad**, while five-foot-ten Emily moved back and forth to the kitchen like a devoted sentinel, bringing mugs of hot cocoa and plates of cookies for the two boys in wheelchairs.
 
-### Scene 3: Lessons from a Fellow Traveler and the Heart-Hum
+***
 
-**Date:** 2015-03-11 at 14:30 America/New_York
+#### March 11, 2015 • 2:30 PM — Lessons from a Fellow Traveler and the Heart-Hum
 
 On Wednesday afternoon of Spring Break, while **Jordan** was parked near the living-room armchair reviewing astrophysics notes on his **Pinnacle Vanguard Pro** with **Madison** and **Aubrie Jean** sitting nearby, fourteen-year-old **Bob** decided it was time to move from the sofa back into his wheelchair.
 
@@ -11345,13 +11409,15 @@ Madison reached out and squeezed Jordan’s hand through her tears.
 
 "It means you're one of us now, Jordan," she whispered. "It means you're family. To both of them."
 
-## A New Dawn, A New Ride (The S.S. Freedom)
+## The S.S. Freedom & Closing the Old Lady
 
-### Scene 1: Three Hundred and Fifty Pounds of Freedom
+### Scene 1: Three Hundred and Fifty Pounds of Freedom & Stripping Room 214
 
 **Date:** 2015-03-16 at 13:30 America/New_York
 
 ![Beaming with triumphant confidence, nineteen-year-old Jordan Fuller drives his brand-new 350-pound matte-black Vanguard Titan-X350 all-terrain power wheelchair (S.S. Freedom, with six suspension wheels, glowing white LED fender path-lights, and his laptop mounted on a swing-away arm) effortlessly up the steep twelve-degree paved hillside walkway alongside the gray Ironstone facade of Eleanor Bennett Hall while Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks walk beside him and Resident Advisors Isabel Dawson and Garrett Reynolds cheer from the top of the ridge.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg)
+
+#### March 16, 2015 • 1:30 PM — Three Hundred and Fifty Pounds of Freedom
 
 On Monday afternoon, March sixteenth—as the nine students returned from a peaceful, laughter-filled Spring Break in Bluewater to learn from **Daniel Brooks** that Aubrie Sinclair's private investigator had checked out of his Route 460 motel and gone back to Tidewater empty-handed—the hydraulic lift-gate on the back of the **Blue Ridge Complex Rehab & Mobility** sprinter van hummed down onto the concrete apron of the Brooks driveway at **414 Geneva Street**.
 
@@ -11411,9 +11477,9 @@ Outside the second-floor Washington Street SW doors, **Garrett** grinned and app
 
 "Three hundred and fifty pounds of freedom," Aubrie Jean whispered, leaning down to kiss his cheek as the wind ruffled his hair at the crest of the ridge.
 
-### Scene 2: Maiden Voyage of the S.S. Freedom and the Kuiper Belt
+***
 
-**Date:** 2015-03-17 at 09:00 America/New_York
+#### March 17, 2015 • 9:00 AM — Maiden Voyage of the S.S. Freedom and the Kuiper Belt
 
 On Tuesday morning, March seventeenth—the first morning of classes after Spring Break—**Jordan Fuller** rolled out through the upper-terrace doors of **Bennett Hall** into the bright spring sunshine.
 
@@ -11455,9 +11521,9 @@ With a grin, Jordan typed quietly on his laptop screen for her:
 
 <aac>And in sixty-seven days, we're taking our own orbit around this planet.</aac>
 
-### Scene 3: The Food Court Affirmation and the Night of the Pact
+***
 
-**Date:** 2015-03-18 at 12:30 America/New_York
+#### March 18, 2015 • 12:30 PM — The Food Court Affirmation and the Night of the Pact
 
 At twelve-thirty on Wednesday afternoon, all nine members of **Suite 214/216** met up inside the bustling, multi-level hillside dining hall of **Kincaid Commons**.
 
@@ -11495,11 +11561,9 @@ Even within the narrow footprint of a 1960s dormitory room, there was no rush, n
 
 When they finally drifted off to sleep after midnight—with **Sarah** and **Jessica** curled bare and warm against Jordan's left and right sides on **Bed A** for their long-promised overnight turn, **Aubrie Jean** and **Madison** reaching across the narrow aisle from the lower bunk (**Bed B**) to hold his hands, and **Zoë** and **Lauren** nestled up on the top bunk (**Bed C**)—Jordan rested his palm lightly over the center of his chest, remembering the sacred **Heart-Hum** name (*The Key*) that **Bob** and **Emily** had given him in Bluewater, and drifted into a deep, peaceful sleep.
 
-## Closing the Old Lady & Ready for the World
+***
 
-### Scene 1: Stripping Room 214
-
-**Date:** 2015-05-15 at 11:00 America/New_York
+#### May 15, 2015 • 11:00 AM — Stripping Room 214
 
 By eleven o'clock on Friday morning, May fifteenth—the final day of Spring Semester move-out at **Commonwealth Polytechnic Institute**, and the final day **Eleanor Bennett Commonwealth Hall ("The Old Lady")** would ever house undergraduate students before being permanently closed for demolition—**Suite 214/216** had been returned to the bare, echoing white cinderblock and polished linoleum it had been when Jordan first rolled across its threshold nine months earlier.
 
@@ -11525,11 +11589,13 @@ Out in the second-floor hallway, a polite knock sounded against the open oak doo
 
 "Ready for the last checkout inspection in the history of the Old Lady?" Kelsey asked warmly, her eyes misty as she looked around the spotless, swept floors of Room 216 and Room 214. "Let me sign off Mark, Hannah, Sarah, and Jessica's rooms first, and then we'll take the final cart down to Daniel's trailer."
 
-### Scene 2: A Very Long Hug in the Second-Floor Hallway
+### Scene 2: A Long Hug in the Hallway & Ready for the World
 
 **Date:** 2015-05-15 at 11:20 America/New_York
 
 ![In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg)
+
+#### 11:20 AM — A Very Long Hug in the Second-Floor Hallway
 
 Within five minutes, eight of the nine yellow **Room Condition Reports (RCRs)** were signed, stamped, and filed into their completed checkout folders, deactivating their Bennett Hall door-access permissions on the central **Poly Pass** server while leaving their university ID cards active for the rest of their college careers.
 
@@ -11599,9 +11665,9 @@ When they finally drew back just enough to look into each other's eyes, Isabel r
 
 <aac>I will. Count on it,</aac> Jordan's tablet promised softly as he squeezed her hand.
 
-### Scene 3: The Eleventh Child: Ready for the World
+***
 
-**Date:** 2015-05-15 at 11:35 America/New_York
+#### 11:35 AM — The Eleventh Child: Ready for the World
 
 Ten minutes later, Jordan rolled down the second-floor corridor of **Bennett Hall** and straight out the grade-level **Washington Street SW entrance** into the golden May sunshine.
 
@@ -11631,11 +11697,13 @@ Today, with a 4.00 freshman year behind him, a passport in his pocket, and a Gau
 
 # Jordan's World Trek
 
-## The Northern Ascent (Christiansburg to Gander)
+## Leg 1: The Northern Ascent (Christiansburg to Gander)
 
-### Scene 1: The Vanguard Awakes
+### Scene 1: The Vanguard Awakes & The Security Checkpoint
 
 **Date:** 2015-05-23 at 05:00 America/New_York
+
+#### 5:00 AM — The Vanguard Awakes
 
 The sharp, digital chime of an alarm clock pierced the cool, quiet air of the Brooks family basement.
 
@@ -11667,9 +11735,9 @@ Megan lowered the hydraulic lift on the trailing van, allowing Jordan to smoothl
 
 The engines revved, and the two vans pulled out of the driveway, merging onto the northbound lanes of Interstate 81. They left the familiar rolling hills of Christiansburg behind, speeding toward Roanoke-Blacksburg Regional Airport. The world tour had officially begun.
 
-### Scene 2: Operation Yellow Ribbon
+***
 
-**Date:** 2015-05-23 at 06:30 America/New_York
+#### 6:30 AM — Operation Yellow Ribbon
 
 Traffic on Interstate 81 was surprisingly sparse for a Saturday morning, allowing the two heavy passenger vans to make excellent time as they cruised north through the New River Valley. Inside the lead van, the atmosphere was a mix of early-morning grogginess and electric anticipation.
 
@@ -11705,9 +11773,9 @@ The group nodded, completely unfazed. They had studied the massive global itiner
 
 Jordan held Lauren's hand a little tighter. Armed with his Nexus card, his custom-built terminal, and an eighteen-person fortress of chosen family, he was finally ready to face the skies.
 
-### Scene 3: The Security Checkpoint
+***
 
-**Date:** 2015-05-23 at 07:00 America/New_York
+#### 7:00 AM — The Security Checkpoint
 
 As the eighteen members of the global roster moved through the Roanoke-Blacksburg Regional Airport terminal toward the TSA security checkpoint, Jordan’s armrest **mPad** chimed with an incoming text message from Charlottesville:
 
@@ -11779,11 +11847,13 @@ When he finally pulled back, a massive, genuine smile was plastered across his f
 
 With his right hand resting securely on the joystick, Jordan steered his heavy-duty chair down the concourse, holding Aubrie's hand the entire way. Surrounded by his chosen family, they headed toward the departure gate to board the Meridian Express flight to Washington Dulles.
 
-### Scene 4: The Ten-Thousand Foot Rule
+### Scene 2: The Ten-Thousand Foot Rule & The Border Briefing
 
 **Date:** 2015-05-23 at 07:30 America/New_York
 
 ![Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville—who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg)
+
+#### 7:30 AM — The Ten-Thousand Foot Rule
 
 The boarding area at the Meridian Express gate was quiet, populated entirely by the eighteen members of the chosen family. Through the floor-to-ceiling glass windows, the small regional jet sat parked on the tarmac, its engines whining with a low, mechanical hum.
 
@@ -11899,9 +11969,9 @@ Jordan looked at the apple juice, and then up at Aubrie. His mother had never an
 
 He took a long, refreshing sip of the cold juice, the sweet taste cutting right through his dry throat, and looked back out the oval window. The rolling green patchwork of the Virginia landscape slipped past below them. He wasn't just surviving his first flight; surrounded by his chosen family and sipping his favorite drink, he was completely safe.
 
-### Scene 5: The International Threshold
+***
 
-**Date:** 2015-05-23 at 08:30 America/New_York
+#### 8:30 AM — The International Threshold
 
 The descent into Washington Dulles International Airport was a jarring, physical reality check.
 
@@ -11929,9 +11999,9 @@ Jordan took a deep breath, processing her calm, practical explanation. He nodded
 
 "Lauren is absolutely right," Daniel affirmed, his crisp British accent carrying a reassuring authority. "Which brings us to our logistics for the next few hours. Welcome to Washington Dulles, everyone."
 
-### Scene 6: The IAD Layover Strategy
+***
 
-**Date:** 2015-05-23 at 09:00 America/New_York
+#### 9:00 AM — The IAD Layover Strategy
 
 To answer the massive logistical challenge of managing an eighteen-person family on an international layover, Daniel Brooks had mapped out the morning with military precision.
 
@@ -11955,9 +12025,9 @@ Jordan looked at the massive international jets rolling past the lounge windows,
 
 The terrified, isolated boy from Virginia Beach was officially gone. The world traveler had arrived.
 
-### Scene 7: The Border Briefing
+***
 
-**Date:** 2015-05-23 at 10:15 America/New_York
+#### 10:15 AM — The Border Briefing
 
 The hum of the Meridian Premier Lounge was a soothing backdrop as the morning stretched on. Jordan sat comfortably in his power chair by the massive windows, watching the baggage carts zip across the tarmac. The anxiety that had gripped him earlier that morning had completely dissolved, replaced by a profound, grounding warmth.
 
@@ -11993,9 +12063,11 @@ Jordan slipped his mPhone back into his pocket and immediately reached out, slid
 
 As the departure screens in the lounge flashed, indicating that their mainline jet to Toronto was finally beginning its boarding process, Jordan felt a quiet, powerful surge of confidence. He was ready for Canada.
 
-### Scene 8: The Outback Lift
+### Scene 3: The Outback Lift & The ePassport Bottleneck
 
 **Date:** 2015-05-23 at 11:30 America/New_York
+
+#### 11:30 AM — The Outback Lift
 
 After a final round of snacks and a highly coordinated trip to the Premier Lounge's accessible restrooms, Daniel Brooks gathered the group. It was time.
 
@@ -12045,9 +12117,9 @@ Aubrie slid into the seat next to Jordan, immediately reaching out to take his h
 
 Jordan looked out the window as the massive jet engines began to whine. He didn't feel like a burden. He felt completely supported by a dynamic, fiercely protective family that adapted to his needs in real-time. He squeezed Aubrie's hand, feeling the rumble of the aircraft, absolutely ready to cross the border.
 
-### Scene 9: The Price of Freedom
+***
 
-**Date:** 2015-05-23 at 12:30 America/New_York
+#### 12:30 PM — The Price of Freedom
 
 As the mainline jet reached cruising altitude, the First Class cabin settled into a comfortable, luxurious hum. The flight attendants began their meal service, rolling the carts down the wide aisle of the two-by-two cabin configuration.
 
@@ -12081,9 +12153,9 @@ He was completely, undeniably free. And the best part of it all was that back in
 
 Jordan smiled, his heart soaring lighter than the aircraft itself. Next stop: YYZ.
 
-### Scene 10: The Commonwealth Question
+***
 
-**Date:** 2015-05-23 at 14:00 America/Toronto
+#### 2:00 PM — The Commonwealth Question
 
 When the mainline jet finally arrived at the gate at Toronto Pearson International Airport, the First Class cabin began to empty out. True to her word, Jessica Gallagher stood up from her seat in the third row, her imposing 6'3" frame easily navigating the cabin aisle.
 
@@ -12133,9 +12205,9 @@ As they rolled past the podium and officially cleared customs, Lauren looked dow
 
 Surrounded by his chosen family and officially on foreign soil for the very first time in his life, Jordan grabbed his joystick and eagerly followed her lead.
 
-### Scene 11: The ePassport Bottleneck
+***
 
-**Date:** 2015-05-23 at 14:45 America/Toronto
+#### 2:45 PM — The ePassport Bottleneck
 
 The Maple Leaf Air Northern Crown Lounge in the domestic terminal was a quiet, sprawling sanctuary of polished wood and comfortable armchairs. The sixteen members of the Nexus group had easily secured a large corner section, indulging in the complimentary buffet and waiting for the final two members of their party.
 
@@ -12181,9 +12253,11 @@ He wasn't flying into a hostile void anymore. He was flying directly into the he
 
 Lauren smiled, interlacing her fingers with his as they approached the gate. It was time to finally show Jordan what true hospitality in the face of the unknown was all about.
 
-### Scene 12: The Yellow Ribbon Welcome
+### Scene 4: The Yellow Ribbon Welcome & The Room 214 Reunion
 
 **Date:** 2015-05-23 at 19:00 America/St_Johns
+
+#### 7:00 PM — The Yellow Ribbon Welcome
 
 The boarding process for the final leg to Gander International Airport was flawlessly executed. True to her promise, Jessica Gallagher stepped in the moment they reached the aircraft door.
 
@@ -12233,9 +12307,9 @@ Jordan pressed his palms against his keyboard, his hands trembling slightly, but
 
 <aac>I have never been welcomed anywhere in my life,</aac> the bright neon-green text read, illuminating the space between them. <aac>Thank you. Thank you for catching me.</aac>
 
-### Scene 13: The Gander Lift
+***
 
-**Date:** 2015-05-23 at 20:15 America/St_Johns
+#### 8:15 PM — The Gander Lift
 
 After the emotional welcome at the airport, the massive group of eighteen split into two convoys. Daniel Brooks, managing the primary logistics, guided the majority of the chosen family to a cozy, local hotel in the center of town.
 
@@ -12293,9 +12367,9 @@ For the very first time in his life, faced with a physical barrier that he could
 
 He reached out, pulling Lauren into a tight hug, the warmth of the Newfoundland home finally chasing away the last lingering shadows of Virginia.
 
-### Scene 14: The Room 214 Reunion
+***
 
-**Date:** 2015-05-23 at 21:30 America/St_Johns
+#### 9:30 PM — The Room 214 Reunion
 
 As the excitement of the arrival settled into a warm, comfortable evening, the practical realities of the night took over. With the house naturally lacking the wide, accessible architecture of the Brooks family house back in Christiansburg and their dormitory suite at CPI, the pact simply adapted their routines without missing a single beat.
 
@@ -12329,11 +12403,13 @@ He uncurled his arms from beneath the heavy blankets and reached out. He wrapped
 
 Sandwiched between the two women who had started it all, surrounded by his fiercely protective chosen family on foreign soil, Jordan closed his eyes and let out a long, shuddering sigh of absolute safety. For the first time in his entire life, he was exactly where he belonged.
 
-## Safe Haven and the Steel Girder (Gander, Newfoundland)
+## Leg 2: Safe Haven on the Rock (Newfoundland, Canada)
 
-### Scene 1: The Gander Morning
+### Scene 1: The Gander Morning, Iceberg Alley, & St. John's
 
 **Date:** 2015-05-24 at 08:00 America/St_Johns
+
+#### May 24, 2015 • 8:00 AM — The Gander Morning
 
 The morning light filtering through the living room curtains of Lauren's childhood home was soft and cool. Jordan woke up slowly, the heavy, weighted Newfoundland quilt pressing down securely against his chest.
 
@@ -12381,9 +12457,9 @@ Jordan's eyes widened. He hadn't realized the physical history was actually pres
 
 Jordan looked around the kitchen, at the warm, smiling faces of the family who had carried him into their home without a second thought. He finally understood. The radical hospitality wasn't an act. It was completely baked into the DNA of the ground he was sitting on.
 
-### Scene 2: The Cognitive Redirect
+***
 
-**Date:** 2015-05-24 at 08:45 America/St_Johns
+#### May 24, 2015 • 8:45 AM — The Cognitive Redirect
 
 The thick slice of homemade bread on Jordan's tray table felt impossibly heavy.
 
@@ -12433,9 +12509,9 @@ Thirty minutes later, the massive eighteen-person pact was bundled into their re
 
 They pulled out of the driveway and onto the quiet, tree-lined streets of Gander. It was time to leave the sanctuary of the house and head straight into the heart of the town’s history, starting with the Gander Transatlantic Aviation Museum and the steel girder of the Compassion Monument.
 
-### Scene 3: Safe Haven and the Steel Girder
+***
 
-**Date:** 2015-05-24 at 10:00 America/St_Johns
+#### May 24, 2015 • 10:00 AM — Safe Haven and the Steel Girder
 
 The morning air outside the **Gander Transatlantic Aviation Museum** along the Trans-Canada Highway was brisk and smelled of pine needles and damp granite. As Daniel Brooks lowered the hydraulic ramp of the lead accessible van, Jordan rolled his 350-pound power chair out onto the level asphalt lot, the bright red Vanguard Hudson bomber and Voodoo jet fighter gleaming on the grass beside the building.
 
@@ -12475,11 +12551,9 @@ Jordan angled his laptop screen slightly toward Arthur and Liam, typing a rapid-
 
 He had no way of knowing that three months later, in a quiet Virginia courtroom, those exact photographs—a young man in a power chair surrounded by an international extended family at the Compassion Monument, actively engaged and smiling in the crisp Newfoundland sun—would become Exhibit D in the legal dismantling of his mother's guardianship petition. Right now, all he knew was that the wind smelled like salt and spruce, and he was standing at the center of the frame.
 
-## The Easternmost Edge of North America (St. John's & Avalon Eastern Point)
+***
 
-### Scene 1: Iceberg Alley, Beacon Hill, and the Easternmost Lighthouse
-
-**Date:** 2015-05-25 at 13:30 America/St_Johns
+#### May 25, 2015 • 1:30 PM — Iceberg Alley, Beacon Hill, and the Easternmost Lighthouse
 
 On Monday morning, Arthur and Maeve Barnes piled into the two accessible passenger vans alongside the eighteen travelers and led a scenic drive southeast down the **Trans-Canada Highway (`Route 1`)** across the rugged barrens and fjord-cut coastline of the **Avalon Peninsula** to the provincial capital of **St. John's**.
 
@@ -12513,11 +12587,11 @@ Inside the accessible ground-floor wireless exhibit of the stone tower, **Zoë**
 
 <aac>Three clicks across an ocean,</aac> Jordan typed with a quiet smile, looking out through the stone embrasure at the vast grey-blue expanse of the North Atlantic—the exact ocean they would be flying across to **Iceland** and **England** in five days' time. <aac>Sometimes all you need to break a bad rule is one clean signal getting through.</aac>
 
-## Gander Heritage Boardwalk, Kitchen Music, and Calling Charlottesville
-
-### Scene 1: Gander Heritage Boardwalk, Kitchen Music, and Calling Charlottesville
+### Scene 2: Gander Heritage Boardwalk & The Crossroads of the World
 
 **Date:** 2015-05-26 at 18:30 America/St_Johns
+
+#### May 26, 2015 • 6:30 PM — Gander Heritage Boardwalk, Kitchen Music, and Calling Charlottesville
 
 Daniel Brooks had made one rule clear before the trip ever began: they were not going to treat the world like a checklist to be sprinted through.
 
@@ -12579,11 +12653,9 @@ For two full seconds, Isabel couldn't speak at all. Her lower lip trembled sligh
 
 *"Promise me you will!"* Isabel said warmly, her cheeks still glowing pink as Elana tapped out a cheerful farewell chime on her tablet. *"Be safe flying across the ocean, Jordan. We miss you all so much!"*
 
-## The Crossroads of the World (Gander International Departures)
+***
 
-### Scene 1: The Crossroads of the World
-
-**Date:** 2015-05-30 at 19:30 America/St_Johns
+#### May 30, 2015 • 7:30 PM — The Crossroads of the World
 
 On Saturday evening, seven days after they had first touched down on the island, the eighteen travelers rolled back through the sliding glass doors of **Gander International Airport**.
 
@@ -12613,7 +12685,7 @@ Ten minutes later, Jordan was settled into Seat 2A alongside Aubrie, with Lauren
 
 North America was behind them. Five hours ahead lay the volcanic lava fields of Iceland—and the Midnight Sun.
 
-## Midnight Sun and the Yellow Bus Grid (Keflavík to Reykjavik)
+## Leg 3: Midnight Sun, Azure Lagoon, & The Golden Circle (Iceland)
 
 ### Scene 1: Midnight Sun and the Yellow Bus Grid
 
@@ -12655,13 +12727,13 @@ To their left, the dark, cold waters of Faxaflói Bay glittered under the mornin
 
 Even after flying overnight across the Atlantic, Jordan didn't feel trapped, exhausted, or isolated. He patted the plastic sleeve holding his new **`NordicPass`** card, breathed in the cold Arctic air, and smiled as his power chair hummed down the level stone sidewalk of his second foreign country.
 
-## Zero Gravity in the Azure Lagoon (Grindavík, Iceland)
-
-### Scene 1: Zero Gravity in the Azure Lagoon
+### Scene 2: Zero Gravity in the Azure Lagoon & The Victorian Grid Briefing
 
 **Date:** 2015-06-02 at 13:00 Atlantic/Reykjavik
 
 ![In the steaming 100-degree milky-turquoise geothermal mineral waters of Iceland's Azure Lagoon (Heiðrúnarlón) surrounded by moss-crusted black volcanic basalt cliffs and billowing white steam, nineteen-year-old Jordan Fuller floats weightlessly on his back with white silica mud stripes on his cheeks and an expression of pure, uninhibited joy as Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks, Lauren Elizabeth Taylor, Sarah Braithwaite, and Jessica Gallagher support him in a warm, protective circle.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg)
+
+#### June 2, 2015 • 1:00 PM — Zero Gravity in the Azure Lagoon
 
 On Tuesday afternoon, the eighteen travelers rode a lift-equipped regional coach south across the black volcanic lava fields of the **Reykjanes Peninsula** toward a massive, billowing column of white steam rising against the sky.
 
@@ -12707,11 +12779,9 @@ Jordan couldn't type on his laptop out here in the water, and for once, he didn'
 
 He let his head tip back against Aubrie's shoulder, looked up past the rising curls of white steam at the jagged black lava cliffs and the bright Icelandic sky, and let out a long, low, resonant vocalization of pure, uninhibited joy—a warm, open sound that made all six women tighten their circle around him, holding him weightless in the heart of the volcano.
 
-## Between Two Continents (The Golden Circle, Iceland)
+***
 
-### Scene 1: The Continental Rift, Strokkur Geyser, and the Golden Cataract
-
-**Date:** 2015-06-03 at 11:00 Atlantic/Reykjavik
+#### June 3, 2015 • 11:00 AM — The Continental Rift, Strokkur Geyser, and the Golden Cataract
 
 On Wednesday morning—one day after floating in the milky-blue geothermal waters of **The Azure Lagoon**—Daniel Brooks chartered a lift-equipped Nordic touring coach to take the eighteen-person family east out of Reykjavik along Iceland's famous **Golden Circle**.
 
@@ -12747,11 +12817,9 @@ Standing between **Aubrie**, **Zoë**, **Madison**, **Lauren**, **Sarah**, and *
 
 <aac>Water, fire, ice, and two continents pulling apart,</aac> Jordan's `"Sydney"` voice spoke warmly to the circle around his chair. <aac>No wonder Iceland feels like a brand-new planet still being built.</aac>
 
-## Basalt Columns, the Aurora Glass Hall, and the Ten-Thirty Sun (Reykjavik)
+***
 
-### Scene 1: Basalt Columns, the Aurora Glass Hall, and the Ten-Thirty Sun
-
-**Date:** 2015-06-04 at 22:30 Atlantic/Reykjavik
+#### June 4, 2015 • 10:30 PM — Basalt Columns, the Aurora Glass Hall, and the Ten-Thirty Sun
 
 By Thursday, Jordan had the **Reykjavik Capital Transit (`Vagninn`)** bus schedule memorized down to the minute.
 
@@ -12795,11 +12863,9 @@ Isabel's expression softened into such deep, unguarded tenderness that her cheek
 
 <aac>We will call you straight from his campus,</aac> Jordan promised, waving at the camera alongside the girls as Isabel blew a quick, blushing wave back across the ocean.
 
-## The Victorian Grid Briefing (Reykjavik)
+***
 
-### Scene 1: The Victorian Grid Briefing
-
-**Date:** 2015-06-06 at 19:00 Atlantic/Reykjavik
+#### June 6, 2015 • 7:00 PM — The Victorian Grid Briefing
 
 On Saturday evening, with their suitcases packed for Sunday morning's three-hour **Nordic Air** flight from Keflavík to **London Heathrow**, Daniel Brooks cleared the dining room table and spread out a large, laminated fold-out map of the **London Transport Authority (`LTA`)** rail and bus network.
 
@@ -12849,11 +12915,13 @@ Jordan grinned from ear to ear, his fingers flying across his keyboard as he sav
 
 <aac>Challenge accepted,</aac> Jordan announced to the room. <aac>London, here we come.</aac>
 
-## The Heathrow Ambush and the Bloomsbury Negotiation (London)
+## Leg 4: The Victorian Grid, The Wrong Liverpool, & Station X (United Kingdom)
 
-### Scene 1: Four Passports, the Green Channel, and the Heathrow Ambush
+### Scene 1: The Heathrow Ambush & Chief Navigator of the Red Buses
 
 **Date:** 2015-06-07 at 13:15 Europe/London
+
+#### June 7, 2015 • 1:15 PM — Four Passports, the Green Channel, and the Heathrow Ambush
 
 When the **Nordic Air** PAC 757 banked out of the low English clouds over Windsor Castle and touched down on Runway 27L at **London Heathrow Airport**, Jordan immediately felt the scale of the world shift up by three orders of magnitude.
 
@@ -12924,9 +12992,9 @@ Five minutes later, inside the **London Transport Authority (`LTA`)** ticket hal
 
 Jordan slid the blue **`Pearl Card`** into the second slot of his clear collector's sleeve right beneath his Icelandic **`NordicPass`**, tapped his joystick forward toward the wide accessible faregate and the blue-symbol step-free lift down to the **Piccadilly Line** platform, and rolled straight onto the London grid.
 
-### Scene 2: The Bloomsbury Negotiation
+***
 
-**Date:** 2015-06-07 at 16:30 Europe/London
+#### June 7, 2015 • 4:30 PM — The Bloomsbury Negotiation
 
 Riding the **Piccadilly Line** east from **Heathrow Terminals 2 & 3** to **King's Cross St. Pancras** was Jordan's first real-world lesson in the contrast between modern accessibility and Victorian tunnel geometry.
 
@@ -12981,11 +13049,9 @@ Sarah let out a low whistle, grinning as she read the screen over Lauren's shoul
 
 From the open doorway leading to the adjoining flat, Daniel and Laura Brooks had quietly witnessed the entire five-minute exchange. Daniel didn't say a word to interrupt, simply exchanging a quiet, meaningful look with his wife. Three months later, when Aubrie Sinclair's attorney would attempt to claim in a Virginia courtroom that Jordan lacked the cognitive and communicative capacity to manage his own living arrangements, **Ms. Gable** would point directly to Bloomsbury: a nineteen-year-old young man in a foreign capital measuring doorway clearances, negotiating domestic logistics with six partners, and running his own household with total clarity and mutual respect.
 
-## Red Double-Deckers and Carnaby Street (Westminster & Soho, London)
+***
 
-### Scene 1: Chief Navigator of the Red Double-Deckers
-
-**Date:** 2015-06-08 at 10:30 Europe/London
+#### June 8, 2015 • 10:30 AM — Chief Navigator of the Red Double-Deckers
 
 On Monday morning, the eighteen travelers stepped out of their Bloomsbury apartments into the cool, sunlit bustle of Central London, bound for **St. James's Sovereign Palace** and **Westminster**.
 
@@ -13031,9 +13097,11 @@ After lunch at a step-free pub patio near St. James's Park, Daniel looked over a
 
 "Alright, Chief Navigator," Daniel said softly. "What do your spider maps say about getting us up to Regent Street and Soho? It's time we showed you **Carnaby Street**."
 
-### Scene 2: Carnaby Street and the Hollow Square
+### Scene 2: Carnaby Street, the Thames Riverbus, & Babbage's Engine
 
 **Date:** 2015-06-08 at 15:00 Europe/London
+
+#### June 8, 2015 • 3:00 PM — Carnaby Street and the Hollow Square
 
 From Piccadilly, Jordan guided the family aboard a low-floor red double-decker bus up the sweeping curve of Regent Street, disembarking via the hydraulic ramp at Beak Street and rolling east into the heart of **Soho**.
 
@@ -13106,11 +13174,9 @@ Jordan typed slowly, letting his `"Sydney"` voice blend softly with the fading s
 
 <aac>They used circuits and cables to build a sanctuary across the ocean,</aac> Jordan said quietly, looking up at Zoë, Aubrie, and Daniel. <aac>Just like you did for me.</aac>
 
-## Houghton Street, the Millennium Wheel, and Babbage's Engine (London)
+***
 
-### Scene 1: Houghton Street and the Transatlantic Reunion Call
-
-**Date:** 2015-06-09 at 13:15 Europe/London
+#### June 9, 2015 • 1:15 PM — Houghton Street and the Transatlantic Reunion Call
 
 At twelve-fifty on Tuesday afternoon, Jordan steered the group away from the stairs-only entrance of **Holborn Underground Station** and guided them aboard the low-floor red **Route 91** bus down **Kingsway**, stepping off via the hydraulic ramp at **Aldwych** just two hundred yards from the **London School of Economics and Commerce (`LSEC`)**.
 
@@ -13184,9 +13250,9 @@ Isabel narrowed her eyes behind her glasses, folding her arms across her maroon 
 
 *"Hold onto Henry for one more big hug from me before you leave London, okay—even if he IS in the doghouse for not texting me!"* Isabel said warmly, her pretend scowl melting right back into a radiant smile as she waved with both hands. *"Have the best time in Liverpool, guys, and text me the second you touch down in Japan!"*
 
-### Scene 2: The Thames Riverbus, the Millennium Wheel, and Babbage's Difference Engine
+***
 
-**Date:** 2015-06-09 at 16:00 Europe/London
+#### June 9, 2015 • 4:00 PM — The Thames Riverbus, the Millennium Wheel, and Babbage's Difference Engine
 
 After wrapping up their transatlantic video call with **Isabel** from the courtyard of the **London School of Economics and Commerce (`LSEC`)**, **Henry Walsh** slung his canvas bookbag over his shoulder and officially clocked in as their afternoon London companion.
 
@@ -13224,11 +13290,13 @@ Jordan looked from the nineteenth-century bronze gears of Babbage's engine down 
 
 <aac>Every person in this gallery built a machine to think and speak in new ways,</aac> Jordan typed softly as Aubrie squeezed his hand. <aac>I feel like I am looking at my own family tree.</aac>
 
-## The Wrong Liverpool and the Mersey Four (Merseyside, England)
-
-### Scene 1: Passenger Assist at London Euston
+### Scene 3: London Euston, Edinburgh Castle, & The Royal Yacht
 
 **Date:** 2015-06-11 at 08:30 Europe/London
+
+![On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg)
+
+#### June 11, 2015 • 8:30 AM — Passenger Assist at London Euston
 
 On Tuesday evening, forty-eight hours before the family's scheduled trip north to **Liverpool**, Daniel Brooks had handed Jordan the login credentials for the **UK National Rail Passenger Assist** portal and let Jordan book the entire inter-city rail accommodation himself.
 
@@ -13264,11 +13332,9 @@ Mark blinked from the booth across the aisle, looking out the window at a stone 
 
 "Besides," Zoë said, grinning over at **Sarah**, "the real comedy starts when we pull into Lime Street and let Sarah inspect her 'hometown.'"
 
-### Scene 2: Wrong Liverpool, Everyone!
+***
 
-**Date:** 2015-06-11 at 11:30 Europe/London
-
-![On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg)
+#### June 11, 2015 • 11:30 AM — Wrong Liverpool, Everyone!
 
 At eleven-twenty-one in the morning, the **Class 390 Tilting Express** glided beneath the monumental, curved iron-and-glass Victorian train shed of **Liverpool Lime Street Station**.
 
@@ -13302,9 +13368,9 @@ Jordan parked his power chair dead center in front of the sign, with **Sarah** s
 
 "Too right we will, J," Sarah grinned, leaning down to kiss the top of Jordan's head before linking her arm through Lauren's. "Wait until we get to **Liverpool Station** on the Sydney rail grid—I'm buying the whole family meat pies and flat whites!"
 
-### Scene 3: The Mersey Four Story and Ferry Cross the Mersey
+***
 
-**Date:** 2015-06-11 at 14:30 Europe/London
+#### June 11, 2015 • 2:30 PM — The Mersey Four Story and Ferry Cross the Mersey
 
 After lunch at a waterfront fish-and-chips restaurant overlooking the historic red-brick colonnades of the **Victoria & Albert Maritime Dock**—where Jordan tried crispy battered Atlantic cod and mushy peas with malt vinegar for the first time—Daniel and Laura Brooks led the eighteen travelers down the wide passenger lift into the brick-vaulted cellars of **The Mersey Four Story Exhibition**.
 
@@ -13330,11 +13396,9 @@ Behind them, the magnificent waterfront skyline of Liverpool—the **Three Grace
 
 <aac>Don't worry, Sarah,</aac> Jordan's `"Sydney"` voice replied cheerfully over the thrum of the ferry's diesel engines. <aac>In five weeks, Liverpool Mark Two gets its turn at bat.</aac>
 
-## Codebreakers at Station X (Bletchley, Buckinghamshire)
+***
 
-### Scene 1: Turing's Bombe, Colossus Mark 2, and the Neurodivergent Codebreakers
-
-**Date:** 2015-06-15 at 11:00 Europe/London
+#### June 15, 2015 • 11:00 AM — Turing's Bombe, Colossus Mark 2, and the Neurodivergent Codebreakers
 
 On Monday morning of their second week in Britain—with **Henry Walsh** taking a study day off from **LSEC** to join them—**Zoë** and **Daniel** led the family back to **London Euston** to board a step-free **Albion InterCity Rail** commuter train thirty-five minutes northwest into the Buckinghamshire countryside.
 
@@ -13366,11 +13430,9 @@ Zoë stared at the archival photograph for a long, quiet moment. Her fingers res
 
 "When the world is on fire," Zoë said softly, her crisp British voice steady and fierce, "you don't call the people who just follow the social script without questioning it, Jordan. You call the people whose brains can see the pattern hidden inside the noise."
 
-## The Northern Capital and the Royal Yacht (Edinburgh, Scotland)
+***
 
-### Scene 1: Waverley Station, Edinburgh Castle, and the Royal Yacht Caledonia
-
-**Date:** 2015-06-20 at 12:30 Europe/London
+#### June 20, 2015 • 12:30 PM — Waverley Station, Edinburgh Castle, and the Royal Yacht Caledonia
 
 On Saturday of their final weekend in the United Kingdom, Daniel and Laura Brooks took the eighteen travelers north from **London King's Cross** aboard a high-speed **InterCity East Coast** express train—climbing through the green Yorkshire dales, crossing the dramatic Victorian arches of the Royal Border Bridge at Berwick-upon-Tweed along the North Sea coast, and gliding into **Edinburgh Waverley Station** in the heart of **Scotland**.
 
@@ -13400,9 +13462,7 @@ Rolling his 350-pound power chair straight onto the teak deck of the **Bridge**,
 
 "Wait until we get to Osaka in two weeks, Chief Navigator," **Zoë** smiled, tapping the side of his armrest. "You're going to command an overnight ship of your own across the **Seto Inland Sea**."
 
-## The Eastern Leap from Heathrow (London to Tokyo)
-
-### Scene 1: The Eastern Leap from Heathrow
+### Scene 4: The Eastern Leap from Heathrow
 
 **Date:** 2015-06-27 at 11:00 Europe/London
 
@@ -13432,11 +13492,13 @@ Fifteen minutes later, Jessica carried Jordan aboard the wide-body 777 and settl
 
 As the massive twin GE90 turbofans roared to life and lifted them into the afternoon sky above the Thames, Jordan looked down at the green patchwork of England disappearing beneath the wings. Ahead of them lay a twelve-hour leap across eight time zones into East Asia—toward the bullet trains of **Tokyo**, theBrooks family's old home in **Osaka**, and an overnight ferry waiting on the **Seto Inland Sea**.
 
-## Haneda Airport and the Architecture of Respect (Tokyo, Japan)
+## Leg 5: The Architecture of Respect (Tokyo, Kyoto, & Osaka)
 
-### Scene 1: Pang-Pon-Pang-Pon: Haneda Airport and the Architecture of Respect
+### Scene 1: Haneda Airport, Asakusa Lanterns, & Tokyo Skytree
 
 **Date:** 2015-06-28 at 08:30 Asia/Tokyo
+
+#### June 28, 2015 • 8:30 AM — Pang-Pon-Pang-Pon: Haneda Airport and the Architecture of Respect
 
 The massive jetbridge connecting the **Nippon Skyways** PAC 777-300ER to **Tokyo Haneda's International Terminal** was fully carpeted, climate-controlled, and completely level. There were no jarring steel expansion plates, no steep inclines, and no flashing amber warning strobes.
 
@@ -13486,11 +13548,9 @@ There, Zoë and Daniel helped him claim **Smart Card Number Four**: a lime-green
 
 Jordan slid the green **`Midori Card`** into the fourth slot of his clear collector's sleeve below his **`NordicPass`**, **`Pearl Card`**, and **`MerseyPass`**, tapped it against the wide blue-lit IC reader on the extra-wide accessible faregate—which answered with a cheerful, high-pitched *pi-pi!* instead of a harsh buzz—and rolled onto the level platform of the **Haneda Bay Monorail** overlooking Tokyo Bay.
 
-## The Yamanote Slope Board and the City That Doesn't Yell (Tokyo)
+***
 
-### Scene 1: The Yamanote Slope Board and the City That Doesn't Yell
-
-**Date:** 2015-06-30 at 14:00 Asia/Tokyo
+#### June 30, 2015 • 2:00 PM — The Yamanote Slope Board and the City That Doesn't Yell
 
 Over the next four days in **Tokyo**, Jordan discovered what happened when the largest metropolitan rail grid on the planet treated wheelchair accessibility not as a begrudging legal afterthought, but as a point of institutional honor.
 
@@ -13532,11 +13592,9 @@ Daniel Brooks smiled warmly, stepping up beside his daughter and resting a hand 
 
 Jordan looked out across the quiet gravel courtyard, his heart beating with a strange, new, expansive wonder that he wasn't quite ready to put into words yet—only to realize that for the first time in nineteen years, a tiny voice inside his head was quietly asking what it would feel like to never have to leave a place this peaceful.
 
-## Odaiba Robotics and the Edo Sky Spire (Tokyo Bay & Sumida Ward)
+***
 
-### Scene 1: The Rainbow Bridge Automated Line and the Humanoid Robotics Lab
-
-**Date:** 2015-07-02 at 11:00 Asia/Tokyo
+#### July 2, 2015 • 11:00 AM — The Rainbow Bridge Automated Line and the Humanoid Robotics Lab
 
 On Thursday morning in **Tokyo**, **Zoë** had a surprise route planned for Jordan that didn't require a single stationmaster's portable slope board.
 
@@ -13568,9 +13626,9 @@ Jordan looked at the gleaming white robotics display, then down at his own custo
 
 <aac>For eighteen years, my mother told me that nothing in the world could ever help my body,</aac> Jordan typed softly as **Aubrie**, **Madison**, and **Lauren** gathered around his chair. <aac>And here is an entire museum built by scientists whose whole life's work is making sure bodies like mine can go anywhere.</aac>
 
-### Scene 2: Asakusa Lanterns and Six Hundred Thirty-Four Meters Above Edo
+***
 
-**Date:** 2015-07-02 at 17:30 Asia/Tokyo
+#### July 2, 2015 • 5:30 PM — Asakusa Lanterns and Six Hundred Thirty-Four Meters Above Edo
 
 Late Thursday afternoon, the eighteen travelers rode the step-free **Asakusa Line** north to Tokyo's oldest historic district in **Taitō Ward**, emerging via the street-level elevator just steps from the vermilion timber pillars of **Asakusa Lantern Temple**.
 
@@ -13594,13 +13652,13 @@ Jordan parked his chair at the very apex of the `451.2-meter` highest point mark
 
 <aac>Look at Mount Fuji against the sunset,</aac> Jordan typed into `NeoEdit`, his green eyes reflecting the endless tapestry of city lights below. <aac>From four hundred and fifty meters up, Tokyo doesn't look like concrete at all. It looks like a spiral galaxy with a billion stars connected by train lines.</aac>
 
-## The Bullet Train and the Thousand Vermilion Gates (Tokyo to Kyoto & Osaka)
-
-### Scene 1: The Hassha Melody on the Bullet Train Platform
+### Scene 2: The Hassha Melody, Kyoto, & The Brooks Family's Osaka
 
 **Date:** 2015-07-04 at 09:45 Asia/Tokyo
 
 ![On elevated Platform 18 at Tokyo Station behind the yellow tactile warning blocks as the gentle music-box Hassha melody chimes overhead, a courteous Nippon Rail attendant in a navy-blue uniform and pristine white gloves bows respectfully beside the yellow-and-aluminum boarding ramp at Car 11 of a gleaming white-and-blue N700A Series Bullet Train (Hikari Star Super Express), welcoming nineteen-year-old Jordan Fuller in his matte-black S.S. Freedom power wheelchair while Zoë Wren Brooks rests a grounding hand on his shoulder alongside Aubrie Jean Kelly and Madison Grace Miller.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg)
+
+#### July 4, 2015 • 9:45 AM — The Hassha Melody on the Bullet Train Platform
 
 On Saturday morning, July fourth, the eighteen travelers rode the elevator up to **Platform 18** of the **Tōkaidō Bullet Line** at **Tokyo Station** to board the bullet train west to **Osaka**.
 
@@ -13644,9 +13702,9 @@ Two hours and twenty-three minutes after leaving Tokyo, the bullet train glided 
 
 And down on the main concourse of **`Nippon Rail West` (`NR West`)**, Zoë proudly handed Jordan **Smart Card Number Five**: a crisp teal-and-blue **`KansaiPass`** featuring a cheerful cartoon platypus mascot—welcoming Jordan to the city where Zoë Brooks had grown up.
 
-### Scene 2: The Thousand Vermilion Torii and the Bamboo Sanctuary (Kyoto)
+***
 
-**Date:** 2015-07-04 at 13:00 Asia/Tokyo
+#### July 4, 2015 • 1:00 PM — The Thousand Vermilion Torii and the Bamboo Sanctuary (Kyoto)
 
 Two hours and fifteen minutes after gliding out of **Tokyo Station** at a hundred and seventy-seven miles per hour, the white-and-blue **N700A** bullet train whispered to a halt at **Kyoto Station**—the ancient imperial capital of Japan for over a thousand years.
 
@@ -13678,11 +13736,9 @@ Beside Jordan, **Aubrie Jean Kelly**—whose sensitive auditory processor could 
 
 Jordan reached over from his armrest and laced his fingers through hers as they rolled side-by-side through the emerald cathedral—before heading back to the station to catch the thirty-minute evening special rapid train down the Yodo River valley into **Osaka**.
 
-## The Golden Keep, the Whale Shark Tank, and the Brooks Family's Osaka
+***
 
-### Scene 1: The Golden Keep Elevator and the Pacific Ring Whale Shark
-
-**Date:** 2015-07-07 at 11:30 Asia/Tokyo
+#### July 7, 2015 • 11:30 AM — The Golden Keep Elevator and the Pacific Ring Whale Shark
 
 On Tuesday morning—their third full day in **Osaka**—**Daniel**, **Laura**, and **Zoë** took the family across the wide stone bridges and emerald water moats of **Osaka Castle Park** toward the five-story white-and-gold silhouette of the **Osaka Golden Keep (`Ōsaka-jō`)**.
 
@@ -13716,9 +13772,9 @@ Jordan stopped his power chair in awe, the blue aquatic light washing over his f
 
 "And not a single step from the top of the ocean to the bottom of the seafloor," **Aubrie** whispered, resting her cheek against Jordan's shoulder in the tranquil blue glow—both of them completely at peace before returning to **Nakanoshima** for dinner along the river.
 
-### Scene 2: The Brooks Family's Osaka and a Question About the Future
+***
 
-**Date:** 2015-07-07 at 20:00 Asia/Tokyo
+#### July 7, 2015 • 8:00 PM — The Brooks Family's Osaka and a Question About the Future
 
 If Tokyo was a gleaming, hyper-synchronized monument to precision engineering, **Osaka** felt like stepping into the warm living room of the Brooks family's past.
 
@@ -13772,7 +13828,7 @@ On the `mPad` screen, Isabel's eyes glistened behind her glasses as a tender, de
 
 "Which means," **Zoë** declared, her gray eyes lighting up with sudden, unmistakable determination as she looked around the circle at Jordan, Aubrie, Madison, Lauren, Hannah, Mark, Sarah, and Jessica, "we have a brand-new academic objective for Sophomore Year. Tomorrow night, we board the **`Ferry Hoshizora`** at Osaka South Port to sail across the **Seto Inland Sea**—and when we get back to Blacksburg in August, I am officially volunteering to coach and tutor all eight of you so all nine of us can take **Japanese 101** together!"
 
-## Voyages on the Seto Inland Sea (Osaka South Port & Ferry Hoshizora)
+## Leg 6: Starry Skies on the Seto Inland Sea & Beppu Bay (Kyūshū)
 
 ### Scene 1: Osaka South Port and Boarding the Starry Sky
 
@@ -13955,11 +14011,11 @@ Neither of them offered hollow platitudes, and neither of them told him to shush
 
 —and the **`Ferry Hoshizora`** carried all of them steadily across the starlit inland sea toward tomorrow.
 
-## Morning Light on Beppu Bay and the JAPN 101 Pact (Beppu, Kyūshū)
-
-### Scene 1: Morning Light on Beppu Bay and the JAPN 101 Pact
+### Scene 4: Morning Light on Beppu Bay & The Seven Geothermal Springs
 
 **Date:** 2015-07-09 at 06:30 Asia/Tokyo
+
+#### July 9, 2015 • 6:30 AM — Morning Light on Beppu Bay and the JAPN 101 Pact
 
 After the second great emotional storm finally spent itself around eight-thirty that evening, **Aubrie** and **Zoë** had helped a completely drained Jordan transfer out of his power chair into the wide, low accessible bed by the cabin window. Lying between the two of them beneath the crisp white shipboard duvet—with Aubrie's hand resting warmly over his chest and Zoë's arm draped across his shoulder—Jordan had fallen into the deepest, most dreamless, most restorative sleep of his entire life.
 
@@ -14017,11 +14073,9 @@ Zoë's eyes shone behind her glasses. She stepped forward and placed her hand fi
 
 "I'll enroll right alongside you as Jordan's official note-taker and run our private study dojo at the Geneva Street house," Zoë promised, smiling down at Jordan as the gangway locked into place with a soft metallic click. "No shortcuts and strict CPI Honor Code compliance—every single one of us is going to earn our A's fair and square. By the time we bring you back to the **Seto Inland Sea**, Jordan Fuller, you won't need me to translate a single word."
 
-## The Cobalt Sea Spring and Geothermal Steam (Beppu, Ōita Prefecture)
+***
 
-### Scene 1: The Seven Geothermal Springs, Onsen Tamago, and the Steam Sanctuary
-
-**Date:** 2015-07-11 at 10:30 Asia/Tokyo
+#### July 11, 2015 • 10:30 AM — The Seven Geothermal Springs, Onsen Tamago, and the Steam Sanctuary
 
 Looking out across the hillside neighborhoods of **Beppu** on Saturday morning, the entire coastal city looked as though hundreds of gentle white clouds had decided to nest among the tiled rooftops.
 
@@ -14055,11 +14109,15 @@ Before heading down to the waterfront for lunch, **Laura Brooks** returned from 
 
 Sitting together in the shade of the lotus arbor before Monday's return voyage aboard the **`Ferry Hoshizora`** to Osaka and their flight south to **Singapore**, Jordan savored the warm, silky custard and looked out over the steaming rooftops toward **Beppu Bay**—his body relaxed, his mind clear, and his chosen family laughing all around him.
 
-## The Garden Terminal and Smart Card Number Six (Singapore Changi Airport)
+## Leg 7: The Deterministic Sanctuary & ZOË.Systems.Logs (Singapore)
 
-### Scene 1: The Garden Terminal and Smart Card Number Six
+### Scene 1: Changi Airport, Telok Ayer, & The Equator Wheel
 
 **Date:** 2015-07-15 at 16:30 Asia/Singapore
+
+![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg)
+
+#### July 15, 2015 • 4:30 PM — The Garden Terminal and Smart Card Number Six
 
 After spending three tranquil days exploring the accessible cedar boardwalks around **Beppu's** steaming geothermal springs on Kyūshū and taking the **`Ferry Hoshizora`** back across the **Seto Inland Sea** to Osaka, the eighteen travelers boarded a southbound **Lion City Airlines** **PAC 777** at **Kansai International Airport (`KIX`)**.
 
@@ -14110,11 +14168,9 @@ Sitting in the dedicated wheelchair bay of the cool, whisper-quiet **Downtown Li
 
 <aac>On the ferry in Japan, I realized what it felt like to exist without a threat level,</aac> Jordan typed, his `"Sydney"` voice steady and clear over the soft hum of the rails. <aac>And riding this train in Singapore proves the rest of it. The problem was never my wheelchair, and the problem was never my body. The problem was only ever the hostile environments I was trapped in.</aac>
 
-## The Deterministic Sanctuary and ZOË.Systems.Logs (Marina Bay, Singapore)
+***
 
-### Scene 1: The Deterministic City and the Mist Mountain Biome
-
-**Date:** 2015-07-16 at 10:30 Asia/Singapore
+#### July 16, 2015 • 10:30 AM — The Deterministic City and the Mist Mountain Biome
 
 On Thursday morning, after waking up refreshed in their interconnected accessible family suites overlooking the **Marina Bay** waterfront—where **Madison** and **Lauren** had shared the rotating bed shift with Jordan—the eighteen-person family rolled out across the wide, level waterfront promenade toward the **Marina Bay Botanical Sanctuaries**.
 
@@ -14146,11 +14202,9 @@ She let out a quiet, deeply contented breath, looking out through the curved gla
 
 "When I'm in a place like this," Zoë said softly, almost to herself, "my processor doesn't have to spend half its clock cycles defending against entropy. Look for me on the suite terrace tonight after dinner, J—once we watch the evening light show at **The Solar Arbor Grove**. There's something about my own system architecture I've been waiting for the right place to share with you and the family."
 
-### Scene 2: ZOË.Systems.Logs (Diagnosed at Three)
+***
 
-**Date:** 2015-07-16 at 20:45 Asia/Singapore
-
-![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg)
+#### July 16, 2015 • 8:45 PM — ZOË.Systems.Logs (Diagnosed at Three)
 
 At eight-forty-five that Thursday evening, after watching the towering vertical gardens of **The Solar Arbor Grove** glow in synchronized waves of cobalt, emerald, and gold against the equatorial night sky, the eighteen travelers gathered on the wide, private outdoor sky terrace of their interconnected **Marina Bay** hotel suites.
 
@@ -14209,11 +14263,9 @@ ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Decision: Accept physical compr
 ZOË.Systems.Logs.InternalStateLog: Thread 1 (Self) — Conclusion: Parent_Nodes (Daniel, Laura) were right. Waiting until Singapore to share my lifelong diagnosis with Jordan and the suite yielded a 100% lossless emotional state transfer. System status: COMPLETELY_SAFE. 07-16-2015 20:52:35
 ```
 
-## The Equator Wheel, Hawker Satay, and the Three-Continent Call (Singapore)
+***
 
-### Scene 1: Telok Ayer Heritage Market, the Double-Helix Bridge, and the Equator Wheel
-
-**Date:** 2015-07-17 at 13:00 Asia/Singapore
+#### July 17, 2015 • 1:00 PM — Telok Ayer Heritage Market, the Double-Helix Bridge, and the Equator Wheel
 
 On Friday morning—the first morning since **Zoë** had openly shared her lifelong autism diagnosis and her **`ZOË.Systems.Logs`** runtime architecture with the family on the Marina Bay sky terrace the night before—something subtle and wonderful had changed in the rhythm of their group.
 
@@ -14250,9 +14302,11 @@ From fifty-five stories in the air, the entire island city-state and the equator
 
 <aac>Look out at the Singapore Strait,</aac> Jordan typed into `NeoEdit`, his green eyes tracking the endless fleet of ships connecting the Indian Ocean to the Pacific. <aac>From up here you can see three countries at once, one degree north of the equator—and tonight at nine o'clock, we get to call Isabel and Henry across three continents.</aac>
 
-### Scene 2: The Three-Continent Video Call
+### Scene 2: The Three-Continent Video Call & Sentosa Monorail
 
 **Date:** 2015-07-17 at 21:00 Asia/Singapore
+
+#### July 17, 2015 • 9:00 PM — The Three-Continent Video Call
 
 At nine o'clock on Friday evening in **Singapore**—which was two o'clock in the afternoon for **Henry Walsh** at the **London School of Economics and Commerce (`LSEC`)** in **London**, and nine o'clock on Friday morning for **Isabel Dawson** at her family's home in **Charlottesville, Virginia**—**Zoë** propped her **mPad Pro** on the center coffee table of their Marina Bay suite and connected it to the room's wide wall monitor for a three-continent **mFace** video conference.
 
@@ -14311,11 +14365,9 @@ Isabel let out a shaky, grateful breath, fanning her still-blushing cheeks with 
 
 <aac>See you both at ROA in August,</aac> Jordan typed, giving Isabel and Henry a warm wave before the call signed off—and even as the screen faded out, Isabel was still blushing and smiling from ear to ear.
 
-## The Southernmost Point of Continental Asia (Sentosa & Changi Departure)
+***
 
-### Scene 1: Sentosa Monorail, Palawan Boardwalk, and the Southern Cross Boarding Gate
-
-**Date:** 2015-07-18 at 14:00 Asia/Singapore
+#### July 18, 2015 • 2:00 PM — Sentosa Monorail, Palawan Boardwalk, and the Southern Cross Boarding Gate
 
 Because their overnight **Southern Cross Airways** flight from **Singapore Changi (`SIN`)** to **Sydney (`SYD`)** didn't depart until eight-fifteen on Saturday evening, **Daniel** and **Zoë** had arranged a late checkout from their Marina Bay suites so the family could spend Saturday afternoon at the very southern edge of the Asian continent.
 
@@ -14352,11 +14404,13 @@ Even before the boarding call was announced, the Australian ground staff and cab
 
 Ten minutes later, settled comfortably into his lie-flat suite beside **Aubrie** and **Zoë** as the widebody jet roared down the Changi runway and climbed southward into the equatorial twilight, Jordan watched the altitude display cross thirty-five thousand feet—and then watched the cabin map line cross **`0° 00' Latitude`** into the **Southern Hemisphere** while he drifted off to sleep.
 
-## Southern Cross Winter and the White Sails of Sydney Cove (Sydney, NSW)
+## Leg 8: Southern Cross Winter, The Red Centre, & Home to Roanoke (Australia)
 
-### Scene 1: Southern Cross Airways and Smart Card Number Seven
+### Scene 1: Sydney Harbour, The Three Sisters, & The Jamison Skyway
 
 **Date:** 2015-07-19 at 09:30 Australia/Sydney
+
+#### July 19, 2015 • 9:30 AM — Southern Cross Airways and Smart Card Number Seven
 
 When the widebody **Southern Cross Airways** jet touched down on Runway 16R extending into Botany Bay at **Sydney Kingsford Smith International Airport (`SYD`)** after a seven-and-a-half-hour overnight flight south from Singapore, **Jordan Fuller** had officially crossed into the Southern Hemisphere for the first time in his life.
 
@@ -14407,9 +14461,9 @@ Jordan parked his chair along the accessible harbourside railing between **Aubri
 
 <aac>Ten thousand miles from Virginia,</aac> Jordan typed, looking out across the harbour toward the gleaming white sails of Bennelong Point. <aac>And the air feels just like late October in Blacksburg.</aac>
 
-### Scene 2: Under the White Sails and the Royal Botanic Foreshore
+***
 
-**Date:** 2015-07-19 at 14:30 Australia/Sydney
+#### July 19, 2015 • 2:30 PM — Under the White Sails and the Royal Botanic Foreshore
 
 After checking into their accessible harbourside serviced apartments near **Circular Quay** and eating a hearty winter lunch overlooking the ferry wharves, **Sarah Braithwaite** officially assumed command as Sydney Chief Tour Guide.
 
@@ -14444,11 +14498,9 @@ ZOË.Systems.Logs.EmotionalStateLog: Thread 3 (Jordan) & Node(Found_Family) — 
 
 Jordan smiled as he read Zoë's log on her `mPad`, resting his hands warmly in his lap as **Aubrie** leaned against his right shoulder and **Sarah** and **Lauren** leaned against his left—eighteen people watching the Southern Hemisphere stars begin to appear above Sydney Harbour.
 
-## Right Liverpool, Everyone! (Liverpool, New South Wales)
+***
 
-### Scene 1: Right Liverpool, Everyone! (Liverpool, New South Wales)
-
-**Date:** 2015-07-21 at 11:30 Australia/Sydney
+#### July 21, 2015 • 11:30 AM — Right Liverpool, Everyone! (Liverpool, New South Wales)
 
 On Tuesday morning, it was time to close the loop on a ten-thousand-five-hundred-mile joke.
 
@@ -14488,11 +14540,9 @@ At the end of the table, **Sarah's** cheeks turned pink as she hid behind her gi
 
 "Too right you do, Braithwaite," **Jessica** chuckled warmly, flexing her sun-bronzed arm as she looked around the table at Jordan, Sarah, Mark, and the rest of the Pact. "Out in **Petermann**, we're three hours of corrugated red dirt past the **Uluṟu** airstrip—the very last fuel bowser and mechanics' bay before three hundred kilometers of empty desert scrub. And since Bec and Dad just finished welding a custom steel treadplate ramp onto the homestead verandah for Jordan's chair, class starts the second we touch down in the Red Centre."
 
-## The Manly Ferry and Harbour Kangaroos (Sydney Harbour & Mosman)
+***
 
-### Scene 1: Across Sydney Heads on the Manly Ferry and the Mosman Wildlife Sanctuary
-
-**Date:** 2015-07-24 at 10:30 Australia/Sydney
+#### July 24, 2015 • 10:30 AM — Across Sydney Heads on the Manly Ferry and the Mosman Wildlife Sanctuary
 
 On Friday morning of their first week in New South Wales, **Sarah** and **Jessica** declared that it was time for Jordan to put his teal-and-navy **`HarbourCard`** to use on the water.
 
@@ -14533,11 +14583,9 @@ ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — Taxonomic_Classification("Pha
 ZOË.Systems.Logs.InternalStateLog: Thread 1 (Self) — Conclusion: Jordan's hypothesis is statistically sound. Honorary neurodivergent status granted to Node(Koala). 07-24-2015 15:18:44
 ```
 
-## Sarah's Frontier: The Blue Mountains and the Jamison Valley Skyway (Katoomba, NSW)
+***
 
-### Scene 1: The Three Sisters Lookout and the Glass-Floored Jamison Valley Skyway
-
-**Date:** 2015-07-28 at 11:00 Australia/Sydney
+#### July 28, 2015 • 11:00 AM — The Three Sisters Lookout and the Glass-Floored Jamison Valley Skyway
 
 Ever since Sarah's Uncle Mick had teased her at the Liverpool backyard barbecue about how *"the furthest west Sarah's ever been in her life is the Blue Mountains cable car,"* **Mark**, **Madison**, and **Lauren** had refused to let the subject drop.
 
@@ -14577,9 +14625,7 @@ Jordan drove his 350-pound power chair right onto the center of the structural g
 
 "Thank you, J!" Sarah laughed triumphantly, throwing her arms around Jordan's shoulders. "Which means I am officially ready to survive **Petermann** on Saturday!"
 
-## Uluṟu and the Three-Hour Corrugated Track to Gallagher's Roadhouse (Petermann, NT)
-
-### Scene 1: Uluṟu and the Three-Hour Corrugated Track to Gallagher's Roadhouse
+### Scene 2: Uluṟu & The Track to Gallagher's Roadhouse
 
 **Date:** 2015-08-01 at 11:30 Australia/Darwin
 
@@ -14624,13 +14670,13 @@ For three solid hours, they drove deeper and deeper into the vast **Petermann** 
 
 True to Bec's word, welded seamlessly onto the wide, shaded timber-and-steel verandah of the Gallagher family homestead sat a massive, zero-lip steel diamond-plate ramp. Jordan gripped his joystick and drove his 350-pound power chair straight up onto the verandah to the sound of eighteen voices cheering across the silent desert.
 
-## Twenty-Eight Degrees at Dawn and Bortle Class One (Gallagher's Roadhouse, NT)
-
-### Scene 1: Twenty-Eight Degrees at Dawn (Frost on the Tires)
+### Scene 3: Frost on the Tires & The Royal Flying Doctor Service
 
 **Date:** 2015-08-05 at 06:15 Australia/Darwin
 
 ![At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg)
+
+#### August 5, 2015 • 6:15 AM — Twenty-Eight Degrees at Dawn (Frost on the Tires)
 
 Out at **Gallagher's Roadhouse**—the final outpost of fuel, artesian bore water, and mechanical repair before three hundred kilometers of uninhabited desert scrub stretching toward the Western Australian border—life ran on strict seasonal physics.
 
@@ -14669,9 +14715,9 @@ Stretching across the entire compound, a thick, sparkling blanket of **white win
 
 Neither Jordan nor Daniel knew it at six-fifteen that frosty Wednesday morning, but the geolocated photographs they snapped of white winter frost coating Jordan's wheelchair tires at twenty-eight degrees Fahrenheit were about to become **Respondent's Exhibit D**—the exact piece of physical evidence that would obliterate **Aubrie Sinclair** and **Mr. Davies** on the record in a Virginia courtroom thirteen days later.
 
-### Scene 2: Bortle Class One: The Galactic Center Overhead
+***
 
-**Date:** 2015-08-05 at 21:30 Australia/Darwin
+#### August 5, 2015 • 9:30 PM — Bortle Class One: The Galactic Center Overhead
 
 By nine-thirty that Wednesday night—fifteen hours after Daniel and Lauren had photographed the twenty-eight-degree morning frost coating Jordan's wheelchair tires at dawn—the temperature outside **Gallagher's Roadhouse** was already plunging back toward the freezing mark.
 
@@ -14710,11 +14756,9 @@ ZOË.Systems.Logs.EmotionalStateLog: Thread 3 (Jordan) — Core_Identity_Validat
 
 Aubrie leaned down, kissed Jordan's cold cheek warmly, and rested her forehead against his temple under the blazing arch of the Southern Cross.
 
-## The Satellite Phone at Three-Thirty in the Morning (Petermann, NT)
+***
 
-### Scene 1: The Satellite Phone at Three-Thirty in the Morning
-
-**Date:** 2015-08-09 at 03:30 Australia/Darwin
+#### August 9, 2015 • 3:30 AM — The Satellite Phone at Three-Thirty in the Morning
 
 At three-thirty on Sunday morning in the **Northern Territory**—while the outside desert temperature sat at twenty-six degrees below freezing and the entire roadhouse compound slept in dead silence—the fixed **satellite telephone** inside the Gallagher homestead office began to ring.
 
@@ -14758,11 +14802,9 @@ Jordan looked out the frosted kitchen window at the sub-freezing Petermann deser
 
 <aac>Transmit our weather station logs, my Uluṟu directive, and our witness list to Ms. Gable and Ms. Caldwell via satellite,</aac> Jordan typed calmly. <aac>And let's ask Ms. Higgins, Kelsey Brennan, Isabel, and Henry if they are willing to meet us at the Montgomery County Courthouse on Tuesday morning. For the next seven days, we finish our trip.</aac>
 
-## The Flying Doctor Airstrip and the Red Centre Farewell Barbie (Petermann, NT)
+***
 
-### Scene 1: The Outback Royal Flying Doctor Service and Campfire Damper
-
-**Date:** 2015-08-12 at 14:00 Australia/Darwin
+#### August 12, 2015 • 2:00 PM — The Outback Royal Flying Doctor Service and Campfire Damper
 
 On Wednesday afternoon of their second week in the **Northern Territory**—three days after the satellite telephone call from Christiansburg had alerted Daniel Brooks to Aubrie Sinclair's fraudulent court filing, and four days before their scheduled departure home—the drone of a high-output turboprop engine echoed across the flat crimson scrub from the east.
 
@@ -14796,9 +14838,7 @@ Yet sitting here under the winter stars of the Australian Outback with red Peter
 
 "Hear, hear, Chief Navigator!" **Daniel Brooks** said, raising his enamel mug of billy tea high into the crisp desert night as twenty-one mugs clinked together around Jordan's wheelchair. "To the eleventh child—and to coming home free."
 
-## Thirty-Five Hours to Roanoke (The Gate Hug)
-
-### Scene 1: Thirty-Five Hours to Roanoke (The Gate Hug)
+### Scene 4: Thirty-Five Hours to Roanoke (The Gate Hug)
 
 **Date:** 2015-08-17 at 18:30 America/New_York
 
@@ -14884,9 +14924,11 @@ Looking up at Isabel's tear-bright eyes and radiant blush, Jordan felt a deep, q
 
 ## Dismissed with Prejudice (The Montgomery County Courthouse)
 
-### Scene 1: The First In-Person GAL Interview
+### Scene 1: The GAL Interview, The Phalanx, & The Gavel
 
 **Date:** 2015-08-18 at 08:30 America/New_York
+
+#### 8:30 AM — The First In-Person GAL Interview
 
 The small, windowless attorney consultation room on the third floor of the **Montgomery County Courthouse** hummed with the steady drone of the central air conditioning.
 
@@ -14938,9 +14980,9 @@ Ms. Gable stood up, smoothing her navy courtroom blazer, and rested a reassuring
 
 Jordan took a deep breath, sent the standby command to his screen, and gripped his joystick. With a quiet, steady hum from his heavy-duty motors, he turned his chair toward the door.
 
-### Scene 2: The Phalanx, The Rule on Witnesses, and The Gavel
+***
 
-**Date:** 2015-08-18 at 09:30 America/New_York
+#### 9:30 AM — The Phalanx, The Rule on Witnesses, and The Gavel
 
 At nine-twenty-five, the heavy oak double doors at the back of **Courtroom 3B** swung open.
 
@@ -15021,9 +15063,11 @@ The color drained instantly from Mr. Davies' face. Across the table, Aubrie Sinc
 
 "The petitioner is asking this court to strip a Dean's List university scholar of his constitutional civil liberties based on a summer heatwave that literally did not exist," Ms. Gable concluded calmly. "We ask that the court hear the testimony of our six witnesses, dismiss this fraudulent petition with prejudice, and sanction the petitioner for bad-faith abuse of process."
 
-### Scene 3: The Institutional Shield: Ms. Higgins and Kelsey Brennan
+### Scene 2: The Institutional Shield & Testimony on the Stand
 
 **Date:** 2015-08-18 at 10:10 America/New_York
+
+#### 10:10 AM — The Institutional Shield: Ms. Higgins and Kelsey Brennan
 
 Because **Aubrie Sinclair** had elected not to call any medical experts of her own—relying entirely on her own sworn affidavit and birth-to-eighteen Virginian Beach school waivers—the court moved swiftly into the respondent's evidentiary case.
 
@@ -15083,9 +15127,9 @@ Mr. Davies didn't even stand up from the petitioner's table. "No questions, Your
 
 "Thank you, Director Brennan," Judge Harrison said, writing a heavy underline across his pad. "You are excused from recall and may join the gallery."
 
-### Scene 4: The Floor Advisors: Isabel Dawson and Henry Walsh
+***
 
-**Date:** 2015-08-18 at 10:50 America/New_York
+#### 10:50 AM — The Floor Advisors: Isabel Dawson and Henry Walsh
 
 "Your Honor," **Ms. Gable** said, turning toward the rear doors of the courtroom as **Kelsey Brennan** took a seat beside **Ms. Higgins** in the gallery, "the respondent calls **Ms. Isabel Dawson**."
 
@@ -15158,9 +15202,9 @@ Mr. Davies stared down at his legal pad in silence, then waved a limp hand. "No 
 
 "You may step down, Mr. Walsh, and join the gallery," Judge Harrison instructed.
 
-### Scene 5: The Benefactor and The Outback: Daniel Brooks and Jessica Gallagher
+***
 
-**Date:** 2015-08-18 at 11:30 America/New_York
+#### 11:30 AM — The Benefactor and The Outback: Daniel Brooks and Jessica Gallagher
 
 As **Henry Walsh** took his seat beside **Isabel Dawson** in the second row of the gallery, **Ms. Gable** called her fifth witness from the Witness Waiting Room: **Mr. Daniel Brooks**.
 
@@ -15228,7 +15272,7 @@ Ms. Gable rose with icy calm. "Objection, Your Honor. Counsel is testifying—an
 
 "The Uluṟu ascent is an unpaved, 1,142-foot sheer sandstone monolith face angled at up to forty-six degrees," Ms. Gable stated cleanly, handing **Respondent's Exhibit E** to the bailiff. "If Mr. Davies believes someone pushed a 350-pound motorized wheelchair up a sheer sandstone cliff face on a fictional ramp, he needs a refresher in gravity as well as hemisphere seasons. More importantly, Your Honor, Exhibit E is Jordan Fuller's own written itinerary directive from before the group even landed in the Northern Territory. Upon learning from Ms. Gallagher that the Aṉangu elders explicitly ask visitors *not* to climb their sacred monolith, my client issued an executive decision instructing his entire eighteen-person travel party to respect Indigenous law and remain at the base cultural trails and the Gallagher homestead. My client did not merely survive the Outback, Your Honor—he served as his family's moral and cultural compass."
 
-### Scene 6: The Closing Argument, The Gavel, and The Handcuffs
+### Scene 3: The Closing Argument, The Gavel, and The Handcuffs
 
 **Date:** 2015-08-18 at 13:30 America/New_York
 
@@ -15305,7 +15349,7 @@ ZOË.Systems.Logs.InternalStateLog: Thread 3 (Jordan) — Legacy_Trauma_Process(
 
 The moment the chamber door clicked shut, the last phantom weight of Virginia Beach vanished from Jordan's chest. Exhausted to the marrow of his bones, yet lighter than air, Jordan turned his power chair around as **Aubrie**, **Zoë**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, **Daniel**, **Laura**, **Isabel**, **Henry**, **Kelsey**, and **Ms. Higgins** surged forward to surround him—ready to take him home to Geneva Street to sleep for twenty-four straight hours before Sophomore Year began.
 
-## No Clipboard to Hide Behind (Welcome to Geneva Street)
+## Welcome to Geneva Street & The No-Jealousy Pact
 
 ### Scene 1: No Clipboard to Hide Behind
 
@@ -15473,9 +15517,7 @@ Then Isabel drew back just far enough to look into his green eyes. Gently restin
 
 Jordan closed his eyes and kissed her back—steady, tender, and completely unhurried—as a quiet, happy cheer rose from the circle of people who loved them both.
 
-## Angles, Leverage, and the No-Jealousy Pact
-
-### Scene 1: Angles, Leverage, and the No-Jealousy Pact
+### Scene 3: Angles, Leverage, and the No-Jealousy Pact
 
 **Date:** 2015-08-20 at 09:30 America/New_York
 
@@ -15577,9 +15619,7 @@ Isabel pressed the backs of both hands against her burning cheeks, letting out a
 
 Still glowing bright pink, Isabel looked down at Jordan's hand resting warmly over hers, letting out a slow, grateful breath as she leaned her head gently against his shoulder. For today, simply being able to love him openly, kiss him, and help care for him alongside his family was more than enough—and she knew they would give her all the space and time she needed to sort through the rest at her own pace.
 
-## New River Hall Room 323 & Allegheny Commons Apartment 101
-
-### Scene 1: New River Hall Room 323 & Allegheny Commons Apartment 101
+### Scene 4: New River Hall Room 323 & Allegheny Commons Apartment 101
 
 **Date:** 2015-08-21 at 10:00 America/New_York
 
@@ -15637,11 +15677,13 @@ Jordan looked around the bright, barrier-free apartment and then up at Isabel, s
 
 # Fall Semester 2015
 
-## The 5:45 AM Problem & The New Normal (6:00 AM)
+## The 5:45 AM Problem, The Birth of Fin#, & Home on Geneva Street
 
-### Scene 1: The 5:45 AM Problem
+### Scene 1: The 5:45 AM Problem & The 45-Minute Wait on Commonwealth Mall
 
 **Date:** 2015-08-24 at 05:00 America/New_York
+
+#### 5:00 AM — The 5:45 AM Problem
 
 On Monday, August 24, 2015—the first morning of their sophomore year at the Commonwealth Polytechnic Institute—the transition from on-campus residents in Eleanor Bennett Hall to off-campus commuters in Christiansburg officially began.
 
@@ -15697,9 +15739,9 @@ Mark stared at the sign, then looked down at his watch (`6:16 AM`), and then tur
 
 "Zoë," Mark said, his breath pluming white in the frigid mountain wind that swept down Commonwealth Mall. "Please tell me we did not just wake up at five o'clock in the morning and take the very first express bus out of Christiansburg... only to get to campus **forty-five minutes** before Kincaid Commons even unlocks its doors."
 
-### Scene 2: The 45-Minute Wait on Commonwealth Mall
+***
 
-**Date:** 2015-08-24 at 06:15 America/New_York
+#### 6:15 AM — The 45-Minute Wait on Commonwealth Mall
 
 For a long moment outside the locked glass doors of **Kincaid Commons**, the only sound was the whistle of the pre-dawn mountain wind cutting down **Commonwealth Mall**.
 
@@ -15753,9 +15795,11 @@ Zoë looked up from her screen and gave him a rare, crooked, utterly genuine smi
 
 "You are the central node of the system, Jordan," Zoë said softly. "Keeping you safe is the primary directive."
 
-### Scene 3: A Flaw in the System: The New Normal (6:00 AM)
+### Scene 2: The New Normal (6:00 AM) & The Sociology Fortress
 
 **Date:** 2015-08-24 at 07:00 America/New_York
+
+#### 7:00 AM — A Flaw in the System: The New Normal (6:00 AM)
 
 Precisely at `7:00 AM`, across the street from **Commonwealth Mall**, the heavy magnetic locks on the glass entrance doors of **Kincaid Hall** and **Kincaid Commons** released with an audible *click*, signaling the official start of the campus day.
 
@@ -15831,9 +15875,9 @@ ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Switching from 05:4
 
 "Motion carried unanimously," **Sarah** smiled, raising her orange juice glass as **Jessica** and **Lauren** clinked their mugs against hers. "Long live the `6:00 AM` local!"
 
-### Scene 4: The Sociology Fortress (Walton Hall)
+***
 
-**Date:** 2015-08-24 at 08:30 America/New_York
+#### 8:30 AM — The Sociology Fortress (Walton Hall)
 
 At `8:30 AM`, with warm breakfasts in their stomachs and their new commuter protocol locked in for Tuesday morning, the nine of them rolled out of Kincaid Commons and headed across campus toward **Walton Hall** for their first class of Sophomore Year: **`SOC 101` (`Introductory Sociology`)**, held at `9:00 AM` in the building's massive, three-hundred-seat tiered lecture auditorium.
 
@@ -15855,9 +15899,7 @@ When the professor stepped up to the lectern at `9:00 AM` on the dot and began g
 
 They had found their new normal.
 
-## Question The Rules: The Birth of Fin#
-
-### Scene 1: Question The Rules: The Birth of Fin#
+### Scene 3: Question The Rules: The Birth of Fin#
 
 **Date:** 2015-08-26 at 19:30 America/New_York
 
@@ -15966,11 +16008,11 @@ Daniel Brooks stared at his eighteen-year-old daughter's screen for a long, quie
 
 "It means the system will finally be logical, Dad," Zoë replied simply, her `CPU_Load` dropping to a serene, regulated `12%` as she began drafting the lexical grammar for **`Fin#`** with Jordan reading over her shoulder. "Because rules made by monopolies can be questioned. The laws of conservation cannot."
 
-## One Week to Process & The Shot (Depo-Vanguard 150)
-
-### Scene 1: One Week to Process & The Shot (Depo-Vanguard 150)
+### Scene 4: One Week to Process & Updating the Medical Registry
 
 **Date:** 2015-09-04 at 14:00 America/New_York
+
+#### 2:00 PM — One Week to Process & The Shot (Depo-Vanguard 150)
 
 On **Friday afternoon, September 4, 2015, at `2:00 PM`**, **Isabel Claire Dawson** sat in a sunlit examination room at the **New River Valley Women's Health** clinic off Peppers Ferry Road in Christiansburg—reflecting on the quiet, life-changing week that had brought her to this chair.
 
@@ -16022,9 +16064,9 @@ Isabel let out a long, relieved breath, her shoulders relaxing completely.
 
 Five minutes later—with Aubrie Jean holding her left hand as the nurse swabbed her right deltoid with alcohol and administered the quick intramuscular injection of **`Depo-Vanguard 150`**—Isabel walked out into the warm September sunshine of Christiansburg with a small circular bandage on her upper arm and her next quarterly appointment card (`Friday, November 27, 2015`) tucked safely into her wallet.
 
-### Scene 2: Updating the Household Medical Registry
+***
 
-**Date:** 2015-09-04 at 15:10 America/New_York
+#### 3:10 PM — Updating the Household Medical Registry
 
 When they arrived back at **414 Geneva Street** that afternoon and walked down the basement stairs, **Zoë** looked up from her workstation as Isabel handed her the printed clinical summary sheet for the household medical binder.
 
@@ -16039,9 +16081,7 @@ Across the basement living room, **Jordan** looked up from his **Pinnacle Vangua
 
 "My arm is a tiny bit sore, and my heart is very happy," Isabel whispered, resting her forehead against his temple as Aubrie Jean smiled beside them. "One more week for the medicine to finish doing its job... and then I'm all yours."
 
-## Home on Geneva Street
-
-### Scene 1: Home on Geneva Street
+### Scene 5: Home on Geneva Street
 
 **Date:** 2015-09-15 at 20:30 America/New_York
 
@@ -16112,11 +16152,13 @@ Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed he
 
 "I'm home," Isabel whispered back.
 
-## The Paper Invasion (Notice CP87A)
+## The Paper Invasion (Notice CP87A) & Fall Break 2015
 
-### Scene 1: The Envelope on the Table
+### Scene 1: The Envelope on the Table & Notice CP87A (The Paper Invasion)
 
 **Date:** 2015-10-06 at 18:15 America/New_York
+
+#### 6:15 PM — The Envelope on the Table
 
 It happened on a quiet Tuesday evening in early October.
 
@@ -16147,9 +16189,9 @@ The basement seemed to tilt on its axis. A raw, low keening sound of pure distre
 
 **Aubrie Jean**, **Madison**, and **Isabel** were there in an instant—Aubrie Jean and Madison pressing firm, steady deep-pressure weight across his shoulders while Isabel knelt in front of his footrests, holding both of his shaking hands in her warm, clinical grip as Daniel and Laura stood as calm, immovable sentinels beside them. Nobody told him to stop crying; nobody told him he was overreacting. Together, they simply held the walls of the fortress around him and weathered the storm until the violent tremors subsided into ragged, shuddering breaths.
 
-### Scene 2: Notice CP87A (The Paper Invasion)
+***
 
-**Date:** 2015-10-06 at 18:30 America/New_York
+#### 6:30 PM — Notice CP87A (The Paper Invasion)
 
 When the static in his head finally receded, the terror in Jordan's green eyes was replaced by a cold, steel-hard anger.
 
@@ -16199,11 +16241,11 @@ Jordan met Daniel's eyes.
 
 "The IRS moves at glacial speed, son," Daniel told him gently. "It might take six months—or even close to a year—before their examination division sends the formal audit packet. In fact, it's going to take so long that you'll probably forget all about this letter by the time the next one shows up. We've got the binder locked and loaded, so you don't let this hang over your head for a single minute. She wanted a fight—and this time, she was arrogant enough to pick a fight with the United States Department of the Treasury."
 
-## Fall Break 2015: The I-64 Gauntlet & The Autumn Fever
-
-### Scene 1: The I-64 Concurrency & The Rocket Burger Abort
+### Scene 2: The I-64 Concurrency & The Twelve-Hour Leviathan Cut
 
 **Date:** 2015-10-17 at 10:15 America/New_York
+
+#### October 17, 2015 • 10:15 AM — The I-64 Concurrency & The Rocket Burger Abort
 
 Mid-October brought **Commonwealth Polytechnic Institute's** long **Fall Break** weekend, and the expanded Geneva Street family—joined by **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan** in a three-vehicle caravan—set out on Saturday morning, October 17, 2015, for a day trip up the Shenandoah Valley to see the autumn foliage along the **Blue Ridge Parkway** at **Afton Mountain**.
 
@@ -16244,9 +16286,9 @@ ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Recalculating Scenic_F
 
 Inside the quiet back booth of the **`Rocket Burger`**, after Sarah held Jordan over fries and milkshakes until his breathing steadied, **Zoë** presented the new zero-`I-64` route: `State Route 285` to `U.S. 250` up to the **Afton Overlook**, and `U.S. Route 60 West` through Buena Vista to Lexington on the way home. Refusing to let his mother's ghost steal their Fall Break, Jordan moved into the middle row of Daniel's minivan between **Aubrie Jean** and **Zoë**, and twenty minutes later, rolled *S.S. Freedom* out onto the stone terrace of the **Afton Overlook**—gazing out over the vast golden sea of the Shenandoah Valley wrapped safely in the arms of his entire family.
 
-### Scene 2: The 100.1°F Fever & The Aethelian Tome Box Set
+***
 
-**Date:** 2015-10-17 at 17:15 America/New_York
+#### October 17, 2015 • 5:15 PM — The 100.1°F Fever & The Aethelian Tome Box Set
 
 By the time the three-car caravan returned down `U.S. 60` and pulled back into the driveway at **414 Geneva Street** late Saturday afternoon, Jordan was deeply, bone-wearily depleted.
 
@@ -16270,21 +16312,21 @@ With Sunday's outdoor plans officially scrubbed by Jordan's fever, **Mark** walk
 
 "This isn't the hundred-minute 1987 theatrical cut, ladies," Mark announced solemnly. "This is the 2012 four-disc Blu-ray restoration. This is the legendary **Leviathan Cut**—*twelve hours and twenty-one minutes* long."
 
-## The Leviathan Cut (Twelve Hours in Aethel)
+***
 
-### Scene 1: The Leviathan Cut (12 Hours and 21 Minutes)
-
-**Date:** 2015-10-18 at 09:00 America/New_York
+#### October 18, 2015 • 9:00 AM — The Leviathan Cut (12 Hours and 21 Minutes)
 
 On Sunday morning, October 18, with Jordan's fever hovering at `99.8°F` and the entire household camped out in pajamas across the basement sectional and beds with trays of Laura's oatmeal, lunchtime sandwiches, and an evening feast of baked ziti, Mark pressed `Play` on Disc 1 (*Book I: The Sundering of Sunstead* and *Book II: The Shadow's Heart*).
 
 Cocooned between Aubrie Jean, Madison, and Isabel, Jordan was completely mesmerized—not only by how the twelve-hour *Leviathan Cut* restored **Lord Malakor's** entire origin story, the twins **Kaelan and Kaela's** cramped childhood sharing a single shepherd's hut bed (which made the Room 214 trio exchange a deeply knowing look), and Kaela's secret psychological rebellion inside the Shadowspire, but by **Klaus Richter's** soaring 1980s synthesizer score and **Jareth Blade's** rock-opera anthems. By Sunday night, as his fever broke and all six women of the Pact piled around him on the sectional sofa in a warm puppy pile, Jordan turned to **Zoë**, took her hand, and thanked her from the bottom of his soul for opening her childhood home to him—inviting Zoë to share his bed that night in quiet, loving gratitude for the family that had saved his life.
 
-## Friday, 9:32 AM (The Broken Foundation)
+## Friday, 9:32 AM: The Broken Foundation & The Failed Angioplasty
 
-### Scene 1: Friday, 9:32 AM (The Attack)
+### Scene 1: Friday, 9:32 AM (The Attack) & The Wrong Bus on Commonwealth Mall
 
 **Date:** 2015-11-13 at 09:32 America/New_York
+
+#### 9:32 AM — Friday, 9:32 AM (The Attack)
 
 Friday morning, November 13, 2015—two months into a happy, thriving autumn of classes, quiet evenings with **Isabel** and the Pact in the walk-out basement on Geneva Street, and steady progress toward Thanksgiving break—began like any bright, ordinary morning of their new life.
 
@@ -16371,9 +16413,9 @@ At the front of the hall, the professor set down the phone and called out over t
 
 "Paramedics are two minutes out! Clear the center aisle and prop the exterior double doors wide open!"
 
-### Scene 2: Massive STEMI: The Extrication
+***
 
-**Date:** 2015-11-13 at 09:38 America/New_York
+#### 9:38 AM — Massive STEMI: The Extrication
 
 The heavy double doors at the bottom of the **Walton Hall** auditorium burst open, and two paramedics from **Medic 3** rushed inside—the lead medic carrying a 12-lead cardiac monitor/defibrillator and a red first-in trauma bag, followed closely by two EMTs wheeling a collapsible stair chair and a rolling ambulance gurney.
 
@@ -16429,9 +16471,9 @@ Mark and **Hannah** stepped forward instinctively to help lift him, but the four
 
 "We can't take passengers in the rig on a critical cardiac alert, ma'am—we need the whole cabin to work on him," Mike called back over his shoulder as the team glided rapidly down the auditorium steps toward the waiting gurney. "Meet us at New River Valley ER! We're running hot!"
 
-### Scene 3: The Ambulance Ride (Running Hot)
+***
 
-**Date:** 2015-11-13 at 09:44 America/New_York
+#### 9:44 AM — The Ambulance Ride (Running Hot)
 
 Outside the main entrance of Walton Hall, the transfer from the stair chair onto the rolling ambulance gurney was a blinding, terrifying blur of crisp November sunlight and flashing red-and-white strobe lights.
 
@@ -16475,9 +16517,9 @@ Jordan felt an icy-cold rush of fluid travel up the vein in his right arm. As he
 
 *I'm nineteen years old. I just got free. I just found my family. Please... I don't want to die.*
 
-### Scene 4: The Wrong Bus on Commonwealth Mall
+***
 
-**Date:** 2015-11-13 at 09:41 America/New_York
+#### 9:41 AM — The Wrong Bus on Commonwealth Mall
 
 Back outside **Walton Hall**, the wail of `Medic 3`'s siren faded rapidly toward the south exit of campus, leaving the eight of them—**Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica**—standing frozen on the sidewalk while **Isabel** messaged frantically from her senior nursing clinical practicum across campus at Callahan Hall that she was getting emergency permission from her clinical instructor to meet them at the hospital as soon as she could.
 
@@ -16535,9 +16577,11 @@ In his side mirror, the Blue Ridge Transit driver spotted the six frantic, cryin
 
 Tumbling onto the bus in a tangle of backpacks and tears, Aubrie Jean, Madison, Zoë, Lauren, Sarah, and Jessica collapsed onto the long perimeter seats surrounding Jordan's empty wheelchair. As the `1 CBURG TRANS CTR` bus pulled away from Commonwealth Mall and headed south toward New River Valley Medical Center, Aubrie Jean buried her face against the padded headrest of Jordan's empty chair and wept.
 
-### Scene 5: The Emergency Room (Cardiac Trauma Bay 3)
+### Scene 2: The Emergency Room (Cardiac Trauma Bay 3) & Room 312 (Strict NPO)
 
 **Date:** 2015-11-13 at 10:15 America/New_York
+
+#### 10:15 AM — The Emergency Room (Cardiac Trauma Bay 3)
 
 The ambulance gurney burst through the `AMBULANCE ONLY` automatic sliding doors of **New River Valley Medical Center** in Christiansburg, the fluorescent ceiling panels streaking past **Jordan's** vision in a blinding, sterile blur as he was wheeled straight into **Cardiac Trauma Bay 3**.
 
@@ -16608,9 +16652,9 @@ While the nurse capped the vial, Jordan tapped weakly on his rail-mounted **mPad
 
 Jordan let his head sink back against the flat, crinkly hospital pillow. He was nineteen years old. He had arrived in an ambulance with sirens screaming. His chest still throbbed with a dull, heavy ache. And now he was stuck in the universal hospital limbo: *waiting*. Ironically, the sheer mundane annoyance of waiting cut right through a fraction of his terror.
 
-### Scene 6: The Nuclear Medicine Lab & The Agonizing Wait
+***
 
-**Date:** 2015-11-13 at 10:45 America/New_York
+#### 10:45 AM — The Nuclear Medicine Lab & The Agonizing Wait
 
 Twenty minutes later, an imaging technician pushed a transport stretcher into Bay 3, glancing at his clipboard.
 
@@ -16687,11 +16731,9 @@ ZOË.Systems.Logs.EmotionalStateLog: Thread 2 (Observers) — All 11 Family Node
 
 Without a word, all eleven of them surrounded his bed in a tight, unbroken ring—Aubrie Jean holding his left hand, Madison and Isabel resting their hands over his right forearm, Hannah, Zoë, Lauren, Sarah, and Jessica touching his shoulders and shins, and Daniel, Laura, and Mark standing like a solid wall at the foot of the bed as the inpatient transport team arrived at the door.
 
-## The Fork in the Road & The Failed Angioplasty
+***
 
-### Scene 1: The Transfer to the Third Floor
-
-**Date:** 2015-11-13 at 11:45 America/New_York
+#### 11:45 AM — The Transfer to the Third Floor
 
 The inpatient transport team arrived at the doorway of **ER Bay 3** just minutes after **Dr. Patel** stepped out, their crisp, clinical efficiency a stark contrast to the raw terror inside the room.
 
@@ -16717,9 +16759,9 @@ When they wheeled him into **Cardiac Step-Down Room 312**, the transport team al
 
 Seeing the state she was in, the two transporters quietly backed out of the room with the empty stretcher, giving the family a moment to breathe. Jordan sank back against the pillows, his chest aching, and used his free hand to gently pat the top of Aubrie Jean's head.
 
-### Scene 2: Room 312 (Strict NPO)
+***
 
-**Date:** 2015-11-13 at 12:00 America/New_York
+#### 12:00 PM — Room 312 (Strict NPO)
 
 All eleven members of his family crowded into **Room 312** right behind the stretcher. Within seconds, the private cardiac room felt small, warm, and thick with the scent of antiseptic and collective fear. Seeing that Aubrie Jean was perched precariously on the edge of the mattress where the nurses needed to work, **Mark** quietly grabbed the padded visitor's armchair from the corner and slid it right up against the left bed rail.
 
@@ -16747,9 +16789,11 @@ She stepped out to the nurses' station and returned sixty seconds later, her exp
 
 A wave of pure, grumpy frustration washed over Jordan. His chest ached, he was terrified of dying at nineteen, and now he wasn't even allowed to eat or drink a sip of water. He let out a long, defeated sigh through his nose and squeezed Aubrie Jean's hand.
 
-### Scene 3: The Fork in the Road
+### Scene 3: The Fork in the Road & 99% Calcified: The Failed Angioplasty
 
 **Date:** 2015-11-13 at 12:15 America/New_York
+
+#### 12:15 PM — The Fork in the Road
 
 Ten minutes later, the door of **Room 312** opened, and **Dr. Patel** stepped inside carrying a digital tablet. Instantly, the quiet murmurs in the room vanished. **Daniel** and **Laura Brooks** stood side-by-side at the foot of the bed like sentinels while the rest of the Pact pressed close.
 
@@ -16781,9 +16825,9 @@ Daniel Brooks immediately shifted into decisive father mode, resting a steadying
 
 "And I have to run back up to campus for ninety minutes to sign out my clinical rotation packet at Callahan Hall and hand off the Allegheny Commons duty binder to Garrett," **Isabel** added reluctantly, leaning over the right rail to press a warm kiss to Jordan's forehead. "I'll ride back down with Henry, Garrett, and Kelsey before they wheel you into the Cath Lab, J. I promise."
 
-### Scene 4: A Brother's Warning, A Family's Vow
+***
 
-**Date:** 2015-11-13 at 12:35 America/New_York
+#### 12:35 PM — A Brother's Warning, A Family's Vow
 
 As Megan and Isabel hurried out to the elevator—Megan heading to Geneva Street for overnight supplies and Isabel heading briefly back to CPI to clear her clinical schedule—the room felt noticeably quieter. Jordan's gaze drifted from the door to **Mark**, who was standing taut and pale by the window with **Hannah's** arm linked through his.
 
@@ -16827,9 +16871,9 @@ Leaning down over the right bed rail, Zoë pressed a firm, loving kiss to Jordan
 
 Anchored between them, with his hands held tightly on both sides of the bed, Jordan felt the terror in his chest loosen its grip by a fraction of an inch.
 
-### Scene 5: Megan's Supply Run & The CPI Reinforcements
+***
 
-**Date:** 2015-11-13 at 14:15 America/New_York
+#### 2:15 PM — Megan's Supply Run & The CPI Reinforcements
 
 Just after two-fifteen in the afternoon, **Megan Brooks** returned from `414 Geneva Street` carrying two quilted duffle bags stuffed with pillows, fleece blankets, extra phone and `mPad` chargers, and clean pajamas for Aubrie Jean—and riding up in the third-floor elevator right beside Megan were **Isabel** (who had just finished clearing her clinical rotation schedule on campus) and three more familiar faces from **Commonwealth Polytechnic Institute**: **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
 
@@ -16843,9 +16887,9 @@ Stepping quietly into the doorway of **Room 312** so they wouldn't overwhelm the
 
 Tears of gratitude welled in Isabel's and Lauren's eyes as Jordan raised his right hand slightly off the mattress in a silent thank-you wave to Henry, Garrett, and Kelsey.
 
-### Scene 6: The Red Line
+***
 
-**Date:** 2015-11-13 at 14:45 America/New_York
+#### 2:45 PM — The Red Line
 
 Fifteen minutes later, at `2:45 PM`, the door of **Room 312** swung wide open, and two cardiac catheterization transport nurses entered in lead-lined scrub vests and surgical caps.
 
@@ -16912,9 +16956,9 @@ Jordan wrapped both of his arms around her back with every ounce of strength he 
 
 Aubrie Jean pulled back, her fingers trailing down Jordan's arm until the very last possible millimeter as the nurse slapped the silver wall plate. The heavy stainless-steel double doors hissed open. Jordan's final sight before the doors swung shut and sealed him inside was his entire family standing together behind the red line—Aubrie Jean held upright in Daniel and Madison's arms, Mark and Hannah standing shoulder to shoulder, Isabel and Zoë side by side.
 
-### Scene 7: Inside the Cardiac Catheterization Lab
+***
 
-**Date:** 2015-11-13 at 15:00 America/New_York
+#### 3:00 PM — Inside the Cardiac Catheterization Lab
 
 Inside the **Cardiac Catheterization Lab**, the air was twenty degrees colder and smelled sharply of iodine and ozone.
 
@@ -16948,9 +16992,9 @@ His eyelids felt as heavy as lead weights.
 
 And then there was nothing at all.
 
-### Scene 8: Waking in the Cath Lab
+***
 
-**Date:** 2015-11-13 at 16:30 America/New_York
+#### 4:30 PM — Waking in the Cath Lab
 
 Consciousness returned to **Jordan** in slow, disorienting waves.
 
@@ -16968,9 +17012,9 @@ The anesthesia fog in his brain was still thick and cottony, his throat raw and 
 
 "She's waiting for you right upstairs in Room 312," the nurse assured him gently, reading his lips and the panic in his green eyes. "We'll have you back with your family in two minutes."
 
-### Scene 9: 99% Calcified: The Failed Angioplasty
+***
 
-**Date:** 2015-11-13 at 16:40 America/New_York
+#### 4:40 PM — 99% Calcified: The Failed Angioplasty
 
 The elevator ride back up to the third floor was a dizzy blur. When the transport nurses wheeled his bed back into **Room 312**, the overhead fluorescent lights had been mercifully switched off, leaving the room bathed in the dim gray light of late afternoon.
 
@@ -17000,9 +17044,11 @@ Hannah stepped quickly to the right rail and rested her trembling hand over Jord
 
 "He'll explain everything, J," Hannah whispered, her eyes glistening as she struggled to hold her own composure together for him. "It's better if you hear the exact medical details straight from Dr. Patel."
 
-### Scene 10: The Verdict (Open-Heart Bypass)
+### Scene 4: The Verdict (Open-Heart Bypass) & The Longest Wait
 
 **Date:** 2015-11-13 at 16:50 America/New_York
+
+#### 4:50 PM — The Verdict (Open-Heart Bypass)
 
 Thirty seconds later, the door of **Room 312** opened, and **Daniel**, **Laura**, **Mark**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** filed silently back inside behind **Dr. Patel**.
 
@@ -17052,9 +17098,9 @@ Mark's face fell, a look of profound helplessness washing over his features as h
 
 Jordan nodded slowly, a fresh wave of cold fear washing over him. He was going to have to walk into open-heart surgery at nineteen years old completely blind.
 
-### Scene 11: The Longest Wait
+***
 
-**Date:** 2015-11-13 at 17:30 America/New_York
+#### 5:30 PM — The Longest Wait
 
 And now came the hardest part of all: the waiting.
 
@@ -17084,9 +17130,11 @@ Lauren looked up from the sofa, forcing a brave, watery smile through her exhaus
 
 "We're right here with you, Jordan," Sarah added fiercely, her hand tightening around Lauren's and Jessica's. "And none of us are going anywhere."
 
-### Scene 12: The First Watch
+### Scene 5: The First Watch & The Midnight Vitals Check
 
 **Date:** 2015-11-13 at 21:00 America/New_York
+
+#### 9:00 PM — The First Watch
 
 The evening dragged on to the steady, mechanical *beep... beep... beep* of the cardiac monitor above **Jordan's** bed. As nine o'clock approached and visiting hours ended on the step-down floor, it was clear that no transfer call from **Star City General Hospital** in Roanoke was coming tonight.
 
@@ -17122,9 +17170,9 @@ Jordan gave a resigned nod as the cuff inflated with a loud mechanical *whir*. A
 
 The door clicked shut, plunging **Room 312** into deep shadow illuminated only by the neon-green and cyan numbers glowing on Jordan's cardiac monitor. Aubrie Jean lay down on the narrow vinyl sofa with her face turned toward the bed, her eyes fixed on the boy she loved; Jordan lay propped at thirty degrees on the stiff hospital mattress, staring up at the acoustic ceiling tiles and listening to the steady electronic *beep* that proved his heart was still beating.
 
-### Scene 13: The Midnight Vitals Check
+***
 
-**Date:** 2015-11-13 at 23:54 America/New_York
+#### 11:54 PM — The Midnight Vitals Check
 
 Real sleep was impossible.
 
@@ -17164,11 +17212,13 @@ Weak as he was, Jordan immediately lifted his left arm toward her. Careful not t
 
 "Try to get a little sleep, my love," Aubrie Jean murmured, kissing his cheek before retreating reluctantly to the lumpy vinyl sofa.
 
-## The Fifteen-Minute Torture & The Saturday Watch
+## The Forty-Eight Hour Wait & Transfer to Star City General
 
-### Scene 1: The Fifteen-Minute Torture (Weaning the Radial Band)
+### Scene 1: Weaning the Radial Band & The Call from Star City
 
 **Date:** 2015-11-14 at 02:00 America/New_York
+
+#### November 14, 2015 • 2:00 AM — The Fifteen-Minute Torture (Weaning the Radial Band)
 
 It felt as though Jordan had closed his eyes for less than five minutes when the door latch *clicked* again and the hallway light sliced across his face.
 
@@ -17242,9 +17292,9 @@ Jordan let out a fresh groan of despair while Aubrie Jean muffled a delirious, e
 
 When the door finally clicked shut, the silence that settled over **Room 312** was the deepest of the entire night. For the first time in hours, they had more than fifteen uninterrupted minutes together. Turning his head to the left on his pillow, Jordan looked across the dim glow of the cardiac monitor at Aubrie Jean's small, huddled silhouette on the vinyl sofa. He was starving, his chest ached, and open-heart surgery was waiting for him in Roanoke—yet as he listened to the steady, quiet breathing of the girl who had refused to let go of his hand, a warm flicker of peace settled over his heart.
 
-### Scene 2: The 6:00 AM Vitals Check
+***
 
-**Date:** 2015-11-14 at 06:00 America/New_York
+#### November 14, 2015 • 6:00 AM — The 6:00 AM Vitals Check
 
 The `4:00 AM` vitals check came and went in a blur, and they managed barely an hour of thin, restless sleep before the door of **Room 312** clicked open at `6:00 AM` on **Saturday, November 14, 2015**—this time accompanied by the bright, unforgiving glare of the main overhead fluorescent lights.
 
@@ -17278,9 +17328,9 @@ Seeing the fierce, unshakeable devotion in the nineteen-year-old's eyes, Nurse B
 
 As soon as the door clicked shut, Aubrie Jean stood up from the sofa, dragged the armchair back against the left rail of Jordan's bed, and laced her fingers back through his hand, resuming her watch.
 
-### Scene 3: The Saturday Shift Change
+***
 
-**Date:** 2015-11-14 at 06:55 America/New_York
+#### November 14, 2015 • 6:55 AM — The Saturday Shift Change
 
 By `6:55 AM` on **Saturday, November 14, 2015**, **Aubrie Jean** was running on the last fumes of pure adrenaline. After spending the entire night cramped on the narrow vinyl bench—woken at `9:00 PM`, `11:54 PM`, `2:00 AM`, `2:15 AM`, `2:30 AM`, `2:45 AM`, `3:00 AM`, `4:00 AM`, and `6:00 AM`—and refusing to eat or drink a single thing while **Jordan** was on strict **NPO** status, her eyes were sunken and bloodshot, her shoulders were trembling, and she was lightheaded with exhaustion.
 
@@ -17316,9 +17366,9 @@ After Megan gave Jordan a warm, supportive wave from the doorway—*"Hang in the
 
 "Hey, J," Madison smiled softly, her warm, sunny Safe Person energy wrapping around him like a familiar quilt. "I've got the watch."
 
-### Scene 4: The Longest Day (Thirty-Six Hours NPO)
+***
 
-**Date:** 2015-11-14 at 11:30 America/New_York
+#### November 14, 2015 • 11:30 AM — The Longest Day (Thirty-Six Hours NPO)
 
 Saturday proved to be the longest, most grueling day of Jordan's nineteen years.
 
@@ -17333,9 +17383,9 @@ True to their bond, the entire family rotated in and out of the hospital all day
 
 Inside the room, they did everything they could to keep his spirits afloat—reading aloud from their `HIST 115` and `PHYS 2305` notes, telling terrible jokes about their 5:45 AM bus blunder on the first day of class, and watching the local weather channel track the unseasonable mountain cold front—yet every laugh was fragile around the edges. Every two hours, when the door clicked open, everyone in the room froze hoping—and dreading—that a Roanoke bed had opened, only to sag back into their chairs when it was just Nurse Beth wheeling in the vitals cart.
 
-### Scene 5: The Second Watch (Madison's Vigil)
+***
 
-**Date:** 2015-11-14 at 21:00 America/New_York
+#### November 14, 2015 • 9:00 PM — The Second Watch (Madison's Vigil)
 
 As darkness fell on Saturday night and visiting hours ended at `9:00 PM`, **Daniel**, **Laura**, and **Megan** arrived with a fresh overnight duffle bag from Geneva Street for **Madison**, while **Isabel** kissed Jordan goodnight and rode back to `414 Geneva Street` in Megan's car with Zoë, Lauren, Sarah, and Jessica to get a night's sleep.
 
@@ -17357,11 +17407,9 @@ Between the checks, lying in the green glow of the heart monitor, Jordan and Mad
 
 Forged in the quiet dark of a hospital vigil, those midnight hours deepened their Safe Person bond into something unbreakable.
 
-## The Call from Star City & The Roanoke Fortress
+***
 
-### Scene 1: The Sunday Wait (Forty-Eight Hours NPO)
-
-**Date:** 2015-11-15 at 06:00 America/New_York
+#### November 15, 2015 • 6:00 AM — The Sunday Wait (Forty-Eight Hours NPO)
 
 When Nurse Beth flipped on the lights for the `6:00 AM` vitals check on **Sunday, November 15, 2015**, the news was unchanged: still no open CVICU bed in Roanoke.
 
@@ -17381,9 +17429,9 @@ Out in the third-floor corridor, Daniel Brooks stepped aside with **Dr. Patel**,
 
 Returning to **Room 312**, where **Lauren**, **Aubrie Jean**, and **Isabel** were seated around Jordan's bed, Daniel rested a steady hand on Jordan's shoulder. The agonizing Sunday wait ticked on.
 
-### Scene 2: The Call from Star City
+***
 
-**Date:** 2015-11-15 at 14:05 America/New_York
+#### November 15, 2015 • 2:05 PM — The Call from Star City
 
 Sunday afternoon, November 15, 2015, dragged past noon as a near-exact, grueling echo of Saturday.
 
@@ -17408,9 +17456,11 @@ A collective gasp broke across the room—a tidal wave of profound relief mixed 
 ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Incoming Priority_Signal from Node(Lauren): Target_Bed(Star_City_General_Hospital.CVICU) == AVAILABLE. Initiating Operation(Roanoke_Fortress_Convoy). 11-15-2015 14:06:40
 ```
 
-### Scene 3: The \
+### Scene 2: The 'Rubber Duck' Convoy & Zoë's Confession
 
 **Date:** 2015-11-15 at 14:20 America/New_York
+
+#### 2:20 PM — The 'Rubber Duck' Convoy Rolls Out
 
 Ten minutes later, two critical care flight/ground paramedics wheeled a specialized, battery-backed **ICU transport gurney**—outfitted with its own multi-channel cardiac monitor/defibrillator, dual IV infusion pumps, and onboard oxygen cylinders—into **Room 312**, just as **Daniel**, **Laura**, **Mark**, **Hannah**, **Madison**, **Zoë**, **Sarah**, and **Jessica** arrived upstairs from the parking lot.
 
@@ -17449,9 +17499,9 @@ Immediately behind the ambulance, Daniel Brooks tapped the push-to-talk button o
 
 *"10-4, Rubber Duck,"* Henry Walsh's deep voice answered from the Silverado behind Mark, with Isabel sitting beside him scanning the road ahead. *"Watchtower is locked in on your tail."*
 
-### Scene 4: The U.S. Route 11 Diversion
+***
 
-**Date:** 2015-11-15 at 14:35 America/New_York
+#### 2:35 PM — The U.S. Route 11 Diversion
 
 Less than two miles later, as the ambulance and the three-car convoy crested the rise on `U.S. 460` approaching Exit 118 onto **`Interstate 81 North`**, every heart in the convoy dropped into their stomachs.
 
@@ -17489,9 +17539,9 @@ Inside the windowless back cabin of the critical care ambulance, strapped to the
 
 He felt the rig braking and accelerating through town intersections, heard the faint click of turn signals and stoplights, and felt every curve of the steep mountain descent toward Shawsville. Alone in the back of the ambulance, starving, aching, and headed toward open-heart surgery, his forty-five-minute transfer had just become a grueling two-hour crawl—and all anyone could do was hold the line and pray his heart held together until they reached **Roanoke**.
 
-### Scene 5: Arrival at Star City General Hospital
+***
 
-**Date:** 2015-11-15 at 16:15 America/New_York
+#### 4:15 PM — Arrival at Star City General Hospital
 
 The grueling two-hour crawl up two-lane **`U.S. Route 11`** finally ended just after four o'clock on Sunday afternoon, November 15, 2015, as the critical care ambulance—followed bumper-to-bumper by **Daniel's** minivan (`Rubber Duck`), **Mark's** SUV (`Pig Pen`), and **Henry Walsh's** Silverado (`Watchtower`)—rolled into the towering brick-and-glass medical complex of **Star City General Hospital** in **Roanoke**.
 
@@ -17523,9 +17573,9 @@ Following the rotation schedule **Zoë** had logged back in Christiansburg—aft
 
 One by one, the family leaned in to give Jordan their goodnight hugs and kisses. Aubrie Jean and Isabel lingered until the very last second, kissing his cheeks and whispering that the entire convoy would leave Christiansburg before dawn so they would be standing right beside his bed before the surgical team wheeled him to the operating room at `6:00 AM`.
 
-### Scene 6: The Surgeon's Briefing (Dr. Tariq Hassan)
+***
 
-**Date:** 2015-11-15 at 18:30 America/New_York
+#### 6:30 PM — The Surgeon's Briefing (Dr. Tariq Hassan)
 
 When the door clicked shut and the sudden quiet of the sixth floor settled over the room, **Lauren** pulled the padded visitor's chair right up against the left rail of Jordan's bed and took his left hand in both of hers.
 
@@ -17553,9 +17603,9 @@ Lauren's breath caught slightly at the thought of the bone saw and the heart-lun
 
 Dr. Hassan stood and rested a reassuring hand on Jordan's blanket. "Get some rest tonight. Your family is allowed back in at `5:30 AM` before we roll you back, and I'll take good care of you in the morning."
 
-### Scene 7: The Theatrical Cut
+***
 
-**Date:** 2015-11-15 at 19:30 America/New_York
+#### 7:30 PM — The Theatrical Cut
 
 After **Dr. Hassan** stepped out, the heavy silence of the Roanoke pre-op room closed back in around them.
 
@@ -17589,9 +17639,9 @@ When the end credits finally rolled at `9:15 PM`, Jordan looked at Lauren with a
 
 Lauren burst out laughing, kissing his temple. "Wait until you tell Mark and Hannah—they're going to induct you into the Leviathan purist club for sure."
 
-### Scene 8: The Virtual Fortress & Zoë's Confession
+***
 
-**Date:** 2015-11-15 at 21:00 America/New_York
+#### 9:00 PM — The Virtual Fortress & Zoë's Confession
 
 As Lauren closed the media player, however, the brief comedic distraction faded, and the quiet *beep... beep... beep* of the cardiac monitor returned to the foreground.
 
@@ -17633,11 +17683,13 @@ Aubrie Jean was beaming through happy tears, nodding before he even had to ask.
 
 With his entire family smiling at him through the screen, promising they would be rolling out of Geneva Street at `4:15 AM` to see him before the OR doors opened, Jordan finally closed his eyes against the hospital pillow—surrounded, even thirty-five miles away, by an unbreakable fortress of love.
 
-## The 6:00 AM Pre-Op Goodbye & The Ten-Hour Wait
+## Open-Heart Bypass, The Blizzard Fortress, & A CVICU Romance
 
-### Scene 1: The Pre-Op Goodbye
+### Scene 1: The Pre-Op Goodbye & The Coming Storm & Zoë's Early Arrival
 
 **Date:** 2015-11-16 at 05:20 America/New_York
+
+#### November 16, 2015 • 5:20 AM — The Pre-Op Goodbye
 
 The night before open-heart surgery was a blur of broken, twenty-minute naps punctuated by the clinical rhythm of the hospital: a midnight vitals check, a `2:00 AM` blood draw and antimicrobial chlorhexidine skin prep, and a `4:00 AM` electrocardiogram check. Through every single interruption, **Lauren** never let go of **Jordan's** hand, whispering steady, loving reassurances in the dark whenever the monitors beeped.
 
@@ -17669,9 +17721,9 @@ Trying with all his might to be brave for them even as tears spilled down his te
 ZOË.Systems.Logs.KernelLog: Thread 3 (Jordan) — Entering Cardiothoracic_Surgical_Phase (OR_2: Single-Vessel CABG, Attending: Dr. Hassan, Anesthesia: Dr. Hayes). Pre-Op Family Protocol == COMPLETE. 11-16-2015 05:54:10
 ```
 
-### Scene 2: Operating Room 2
+***
 
-**Date:** 2015-11-16 at 05:55 America/New_York
+#### November 16, 2015 • 5:55 AM — Operating Room 2
 
 As Dr. Hayes injected a clear syringe of midazolam into his IV port, a heavy, floating warmth washed through Jordan's bloodstream, blunting the sharp edges of his terror as the transport nurses released the bed brakes and wheeled him out through the double doors toward **Operating Room 2**.
 
@@ -17695,9 +17747,9 @@ He pictured Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel waiti
 
 And then the bright surgical lights dissolved into total, dreamless black.
 
-### Scene 3: Ten Hours Later: CVICU Bay 4 (\
+***
 
-**Date:** 2015-11-16 at 16:05 America/New_York
+#### November 16, 2015 • 4:05 PM — Ten Hours Later: CVICU Bay 4 ('Do Not Touch Him')
 
 Upstairs in the sixth-floor **CVICU Family Waiting Room**, the next **ten hours** were the longest day of the family's lives.
 
@@ -17735,11 +17787,9 @@ Seeing Jordan lying motionless under the white sheet—his chest rising and fall
 
 *"You did it, Jordan,"* Aubrie Jean whispered through her tears, standing twelve inches from the rail beside Madison. *"Your heart is fixed, and you're safe. Just sleep and let the machine breathe for you tonight. We'll be right here when you wake up."*
 
-## Waking Up: The CPAP Crisis
+***
 
-### Scene 1: The CPAP Crisis
-
-**Date:** 2015-11-17 at 09:15 America/New_York
+#### November 17, 2015 • 9:15 AM — The CPAP Crisis
 
 Waking up from open-heart surgery was not a gentle return to the world. It was a violent collision with pain and suffocation.
 
@@ -17785,11 +17835,9 @@ When the nurse swung his **mPad** arm back into reach, Jordan's trembling right 
 
 "You're here, sweetheart," Aubrie Jean sobbed happily, kissing his knuckles carefully so she wouldn't jostle a single wire. "You made it through."
 
-## The Blizzard Fortress & A CVICU Romance
+***
 
-### Scene 1: The Coming Storm & Zoë's Early Arrival
-
-**Date:** 2015-11-18 at 12:48 America/New_York
+#### November 18, 2015 • 12:48 PM — The Coming Storm & Zoë's Early Arrival
 
 By Wednesday morning, November 18, 2015, Jordan's arterial line and epicardial pacing wires had been discontinued, and he was transferred out of the dark CVICU bay into **Room 618** of the **Cardiothoracic Step-Down Unit**—a bright private recovery room with a large picture window overlooking the Roanoke Valley and the surrounding Blue Ridge peaks.
 
@@ -17832,9 +17880,11 @@ The roads were closed. The mountain was sealed.
 
 Inside the warm, quiet sanctuary of **Room 618**, it was just **Jordan** and **Zoë**, snowed-in together at the top of the fortress.
 
-### Scene 2: The Incentive Spirometer (1,500 Milliliters)
+### Scene 2: The Incentive Spirometer & Parallel Sanctuaries
 
 **Date:** 2015-11-18 at 17:30 America/New_York
+
+#### 5:30 PM — The Incentive Spirometer (1,500 Milliliters)
 
 While the unseasonable November blizzard howled against the double-paned glass of **Room 618** in Roanoke—and while thirty-five miles southwest, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Mark**, and **Hannah** caught the final packed **`Blue Ridge Transit`** bus off the CPI campus and made it safely into the basement sanctuary at **414 Geneva Street** five minutes before transit service was suspended—**Zoë Wren Brooks** ran the Roanoke outpost with quiet, loving precision.
 
@@ -17856,9 +17906,9 @@ With Zoë counting a steady, rhythmic three-second cadence beside him and her ha
 
 "Optimal execution," Zoë beamed, logging the metric in the binder and leaning down to press a warm, lingering kiss to his forehead.
 
-### Scene 3: First Real Food & Parallel Sanctuaries
+***
 
-**Date:** 2015-11-18 at 17:45 America/New_York
+#### 5:45 PM — First Real Food & Parallel Sanctuaries
 
 Five minutes later, the door of **Room 618** opened, and the step-down nurse walked in carrying a covered hospital tray—the first food tray that had entered Jordan's room since Friday morning in Walton Hall.
 
@@ -17874,7 +17924,7 @@ Instantly, the screen lit up with the warm, glowing chaos of the **414 Geneva St
 
 *"Look who's eating real food!"* Madison cheered through the speakers as everyone raised their forks in a toast to Room 618, and for the next forty-five minutes, the thirty-five miles of snowbound highway vanished completely as they shared dinner, laughed about the blizzard, and celebrated Jordan's first real meal in five days.
 
-### Scene 4: A CVICU Romance (Protocol: Intimacy.v2)
+### Scene 3: A CVICU Romance (Protocol: Intimacy.v2)
 
 **Date:** 2015-11-18 at 21:30 America/New_York
 
@@ -17914,9 +17964,7 @@ When she finally drew back an inch, her cheeks flushed pink and her eyes shining
 
 "I love you too, Jordan," Zoë whispered, kissing his forehead and settling back into her chair with her hand locked securely around his as the blizzard continued to fall softly over Roanoke.
 
-## The Psychological Deadlock & The Bed Scale
-
-### Scene 1: The Diuretic & The Psychological Deadlock
+### Scene 4: The Diuretic & The Psychological Deadlock
 
 **Date:** 2015-11-19 at 02:15 America/New_York
 
@@ -17971,7 +18019,7 @@ Slowly, Jordan closed his eyes, let out a long breath, and finally—after ten a
 
 Over the next two hours of the night, the diuretic did its job completely, purging nearly two full liters of retained surgical bypass fluid into the graduated collection bag while Zoë calmly monitored the output and let him sleep peacefully with his hand in hers.
 
-### Scene 2: Protocol.Change(EnSuite) & The Bed Scale (338.0 lbs)
+### Scene 5: Protocol.Change(EnSuite) & The Bed Scale (338.0 lbs)
 
 **Date:** 2015-11-19 at 14:00 America/New_York
 
@@ -17985,11 +18033,13 @@ When he had been admitted from the ambulance on Sunday afternoon, swollen with I
 
 Now, after the post-operative diuresis had flushed out the excess fluid from the heart-lung machine, the digital display beeped and settled at **`338.0 lbs`**—a four-pound drop that immediately made his breathing easier and his chest feel lighter.
 
-## The Discharge Argument & Return to the Sanctuary
+## Return to the Sanctuary, Thanksgiving, & Goodbye Alex
 
-### Scene 1: The Discharge Argument
+### Scene 1: The Discharge Argument & The Slammed Door (Goodbye, Alex)
 
 **Date:** 2015-11-20 at 10:30 America/New_York
+
+#### November 20, 2015 • 10:30 AM — The Discharge Argument
 
 On **Friday morning, November 20, 2015**, the sun broke dazzlingly clear over the snow-covered Blue Ridge Mountains, `Interstate 81` reopened in both directions, and **Dr. Hassan** walked into **Room 618** after morning rounds with a thick white three-ring binder in his hands: Jordan's official **Star City Heart Institute Discharge & Sternal Precautions Binder**.
 
@@ -18021,9 +18071,9 @@ He had gone into Roanoke with a ninety-nine-percent calcified widowmaker blockag
 
 Now, with a brand-new arterial graft beating strong in his chest and his family convoy surrounding him bumper-to-bumper down `Interstate 81 South`, **Jordan** was going home.
 
-### Scene 2: Return to the Sanctuary & The Sternal Meltdown
+***
 
-**Date:** 2015-11-20 at 13:30 America/New_York
+#### November 20, 2015 • 1:30 PM — Return to the Sanctuary & The Sternal Meltdown
 
 When the three-vehicle **`Rubber Duck` Convoy** turned onto **Geneva Street** in Christiansburg just after `1:30 PM` on Friday, November 20, 2015, **Jordan** let out a breath he felt like he had been holding since the previous Friday morning in Walton Hall.
 
@@ -18066,9 +18116,9 @@ Instantly, **Daniel** and **Isabel** moved with surgical precision.
 
 *"Squeeze our hands, Jordan—don't pull with your chest, just squeeze our hands, we've got you, we love you so much,"* Aubrie Jean and Isabel repeated in a steady, rhythmic chorus until the terrifying storm passed, leaving Jordan sobbing quietly into Aubrie Jean's hair with his sternal wires completely intact.
 
-### Scene 3: The Washing Protocol & The One-Partner Rule
+***
 
-**Date:** 2015-11-20 at 20:30 America/New_York
+#### November 20, 2015 • 8:30 PM — The Washing Protocol & The One-Partner Rule
 
 That evening, after **Henry**, **Garrett**, **Kelsey**, and Zoë's older siblings headed home for the night with promises to visit all week, the household executed its first two home-recovery protocols from **Dr. Hassan's** white binder.
 
@@ -18082,11 +18132,9 @@ Second, as `9:30 PM` arrived and Jordan looked wistfully toward the massive cust
 
 By unanimous agreement of the Pact, **Aubrie Jean**—his original anchor from Room 214—took the first night home in the king bed, curling up carefully along Jordan's right side with her hand resting lightly over his palm while Madison, Zoë, Lauren, Sarah, Jessica, and Isabel settled onto the neighboring queen beds, wrapping Jordan in a quiet, safe dark that finally smelled like home.
 
-## The Parents' Watch
+***
 
-### Scene 1: The Parents' Watch
-
-**Date:** 2015-11-23 at 05:45 America/New_York
+#### November 23, 2015 • 5:45 AM — The Parents' Watch
 
 Because **Commonwealth Polytechnic Institute** still held classes on the Monday and Tuesday of Thanksgiving week (`November 23–24, 2015`) before the university officially closed on Wednesday, Monday morning brought an inevitable logistical transition.
 
@@ -18124,11 +18172,9 @@ When the basement patio door finally burst open at `5:30 PM` and **Mark**, **Han
 
 He was sore, and his sternum still ached with every deep breath, but surrounded by his parents, his friends, and the seven women who loved him, Jordan's fortress was whole again.
 
-## A Thanksgiving of Victories & The Slammed Door
+***
 
-### Scene 1: A Heart-Healthy Thanksgiving Feast
-
-**Date:** 2015-11-26 at 14:00 America/New_York
+#### November 26, 2015 • 2:00 PM — A Heart-Healthy Thanksgiving Feast
 
 **Thursday, November 26, 2015—Thanksgiving Day—**dawned crisp, bright, and cold across the New River Valley, and **Jordan** woke in the basement sanctuary to the mouthwatering aroma of roasting turkey drifting down the interior staircase.
 
@@ -18151,9 +18197,9 @@ Standing at the head of the table beside Jordan, **Daniel Brooks** raised his gl
 
 *"Happy Thanksgiving!"* echoed rafters-wide across the house.
 
-### Scene 2: The Slammed Door (Goodbye, Alex)
+***
 
-**Date:** 2015-11-26 at 18:30 America/New_York
+#### November 26, 2015 • 6:30 PM — The Slammed Door (Goodbye, Alex)
 
 By `6:30 PM`, after dessert had been cleared and Henry, Garrett, Kelsey, Ben, and the older brothers were relaxing over coffee in the upstairs den, **Jordan** and the **Pact** headed back down to the walk-out basement sanctuary so Jordan could rest his aching back on the sectional sofa while watching a comedy movie.
 
@@ -18210,11 +18256,11 @@ As soon as Megan sat down beside him, Jordan wrapped his right arm warmly and pr
 
 For a long moment, twenty-seven-year-old Megan—always the practical, self-reliant eldest sister who took care of everyone else—just buried her face against Jordan's flannel shoulder, let out a long, shuddering breath, and let herself be held.
 
-## The Black Friday Road Trip
-
-### Scene 1: The Black Friday Compromise & Scenic Road Trip
+### Scene 2: The Black Friday Compromise & Scenic Road Trip
 
 **Date:** 2015-11-27 at 10:00 America/New_York
+
+#### November 27, 2015 • 10:00 AM — The Black Friday Compromise & Scenic Road Trip
 
 On **Friday morning, November 27, 2015—Black Friday—Jordan** woke up feeling stronger than he had any morning since surgery, and also *desperately* stir-crazy.
 
@@ -18250,21 +18296,21 @@ From Christiansburg, Daniel drove them north into **Blacksburg** and onto the ca
 
 After a final, breathtaking scenic loop west on `U.S. 460` toward the sleeping Appalachian ridgelines, the caravan returned to **414 Geneva Street** mid-afternoon, leaving Jordan tired in the best possible way.
 
-## The Academic & Physical Counter-Attack
+***
 
-### Scene 1: The Academic & Physical Counter-Attack
-
-**Date:** 2015-11-28 at 10:00 America/New_York
+#### November 28, 2015 • 10:00 AM — The Academic & Physical Counter-Attack
 
 Re-energized by seeing the CPI campus with his own eyes, Jordan spent **Saturday, November 28**, launching a full-scale **Academic & Physical Counter-Attack**.
 
 All Saturday morning, he refused to watch movies, working instead for two focused hours with **Daniel** acting as his scribe at the whiteboard until his entire **`MATH 2204`** problem set was finished. In the afternoon, determined to reclaim his physical independence within Dr. Hassan's sternal rules, he turned the basement rug into a physical therapy clinic—practicing leg-driven pivot transfers between the sofa, *S.S. Freedom*, and the king bed using only his core and quadriceps while **Mark** and **Caleb** stood inches away as spotters (`"Don't lean on that right arm, J—drive through your heels,"` Mark coached gently).
 
-## The Caregiver Handoff (Enter Megan)
+## Enter Megan: A New Caregiver & A New Routine
 
-### Scene 1: The Caregiver Handoff (Enter Megan)
+### Scene 1: The Caregiver Handoff (Enter Megan) & Work Buddies
 
 **Date:** 2015-11-29 at 19:00 America/New_York
+
+#### November 29, 2015 • 7:00 PM — The Caregiver Handoff (Enter Megan)
 
 By **Sunday evening, November 29**, however, as the Thanksgiving holiday weekend drew to a close, a cold knot of dread began tightening in Jordan's stomach.
 
@@ -18298,11 +18344,9 @@ Megan's face softened into the warmest, most genuine smile she had felt all week
 
 "Of course I am, Zoë," Megan whispered. "He's family. Whatever he needs—I've got the watch."
 
-## A New Caregiver, A New Routine (Megan's Watch)
+***
 
-### Scene 1: The 5:15 AM Handoff
-
-**Date:** 2015-11-30 at 05:15 America/New_York
+#### November 30, 2015 • 5:15 AM — The 5:15 AM Handoff
 
 The `5:15 AM` digital alarms chimed softly across the darkened walk-out basement on **Monday, November 30, 2015**, signaling the official end of Thanksgiving break.
 
@@ -18346,9 +18390,9 @@ Megan smiled, resting her hand gently in his dark hair and stroking it with a sl
 
 Closing his eyes against her lap, Jordan felt the last trace of morning tension melt out of his shoulders. He wasn't alone. His new big sister had the watch.
 
-### Scene 2: The Morning Watch
+***
 
-**Date:** 2015-11-30 at 07:30 America/New_York
+#### November 30, 2015 • 7:30 AM — The Morning Watch
 
 For more than an hour, the basement remained wrapped in a peaceful quiet—Jordan drifting in a light, restorative doze with his head on Megan's lap while she quietly checked the morning news on her phone with her free hand.
 
@@ -18380,9 +18424,9 @@ As the clock ticked toward `7:55 AM`, Megan carried their empty bowls to the kit
 
 <aac>Okay. Thank you, Megan,</aac> Jordan replied, settling back against the cushions as the rhythmic, comforting tap of Megan's keyboard became the new soundtrack of his recovery.
 
-### Scene 3: The Daytime Watch & The Lunchtime Check-In
+***
 
-**Date:** 2015-11-30 at 10:15 America/New_York
+#### November 30, 2015 • 10:15 AM — The Daytime Watch & The Lunchtime Check-In
 
 Mid-morning in the basement passed in a quiet, companionable harmony. While **Megan** analyzed supply-chain spreadsheets on her work laptop at the dining table, **Jordan** wore his headphones on the sofa, watching an astronomy lecture video on his **Pinnacle** laptop.
 
@@ -18408,9 +18452,9 @@ When Megan clicked `Accept`, the screen filled with the noisy, sunlit chaos of *
 
 *"Hey, guys! How's our favorite patient behaving?"* Madison called out with a grin, while **Aubrie Jean** and **Isabel** beamed with pure, unalloyed relief seeing Jordan tucked securely under Megan's arm. Knowing how much physical affection Jordan needed during the day, seeing him safe and cuddled with Zoë's big sister put their minds completely at ease.
 
-### Scene 4: The Sister's Watch
+***
 
-**Date:** 2015-11-30 at 16:30 America/New_York
+#### November 30, 2015 • 4:30 PM — The Sister's Watch
 
 At `4:30 PM`, Megan closed her work laptop with a satisfied sigh, sat with Jordan on the sofa for another half-hour talking about her work and his classes, and then glanced at the clock as `5:00 PM` approached.
 
@@ -18432,9 +18476,9 @@ She saw the open, unguarded romance of the seven women. She saw Aubrie Jean smil
 
 Almost instantly, a wave of guilt slammed her internal firewall shut. *Stop it, Megan,* she scolded herself. *You're twenty-seven. He's nineteen. You're Zoë's oldest sister and his daytime nurse. Don't you dare make this weird or risk upsetting the family they've built.*
 
-### Scene 5: The Single-Lift Shower & Late-Night Butterflies
+***
 
-**Date:** 2015-11-30 at 21:00 America/New_York
+#### November 30, 2015 • 9:00 PM — The Single-Lift Shower & Late-Night Butterflies
 
 Yet at `9:00 PM`, when bedtime arrived and **Aubrie Jean** announced it was time for Jordan's evening **Washing Protocol**, **Zoë** picked up the discharge binder and looked straight at her big sister.
 
@@ -18476,11 +18520,9 @@ Jordan startled slightly and tapped on his **mPad** on the nightstand:
 
 Aubrie Jean smiled a slow, knowing, deeply happy smile in the dark, kissing his shoulder. She knew that look on Jordan's face—it was the exact same look he had worn right before Zoë and Isabel joined their family. And as the original architect of the Pact, Aubrie Jean already knew her answer: whenever Megan and Jordan were ready to admit what they were feeling, the door to the Pact was wide open.
 
-## Work Buddies
+***
 
-### Scene 1: Work Buddies at the Dining Table
-
-**Date:** 2015-12-01 at 05:45 America/New_York
+#### December 1, 2015 • 5:45 AM — Work Buddies at the Dining Table
 
 On **Tuesday morning, December 1, 2015**, as **Aubrie Jean** and **Madison** wheeled **Jordan** out of the accessible bathroom after his `5:30 AM` routine and started steering *S.S. Freedom* toward the sectional sofa, Jordan held up his hand and tapped firmly on his **mPad**:
 
@@ -18506,11 +18548,11 @@ Jordan folded his arms around her waist, resting his cheek against her sweater�
 
 All through that first week of December, their **work-buddy** routine flourished. By day, Jordan and Megan sat side by side at the dining table—Jordan grinding through his calculus, physics, and sociology coursework despite the dull ache of his healing breastbone, and Megan handling every bathroom transfer, medication cup, and grounding hug with effortless grace. In the late afternoons around `3:30 PM`, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan** regularly swung by Geneva Street to drop off campus library books, share a cup of decaf coffee with Jordan and Megan, and keep their spirits high until the Pact and **Isabel** burst through the patio door at `5:30 PM`.
 
-## The ENG 102 Accessibility Proposal & Explicit Permission
-
-### Scene 1: The ENG 102 Campus Accessibility Map Proposal
+### Scene 2: The Accessibility Map Proposal & The Smokin' Anvil
 
 **Date:** 2015-12-04 at 17:45 America/New_York
+
+#### December 4, 2015 • 5:45 PM — The ENG 102 Campus Accessibility Map Proposal
 
 On **Friday evening, December 4, 2015**, the nine CPI students came home practically vibrating with excitement.
 
@@ -18532,9 +18574,9 @@ He looked around the circle of faces, his green eyes shining with purpose.
 
 From the sofa, **Megan** clapped both hands together, her face glowing with pride. "Jordan, that is *brilliant*!" she cheered. "Every student with a disability deserves accurate information so they can succeed! You guys are going to knock Dr. Evans's socks off!"
 
-### Scene 2: The Shower Protocol & Explicit Permission
+***
 
-**Date:** 2015-12-04 at 21:00 America/New_York
+#### December 4, 2015 • 9:00 PM — The Shower Protocol & Explicit Permission
 
 Later that Friday night, after a heart-healthy dinner of Laura's baked salmon, brown rice, and roasted asparagus—where **Zoë** and **Aubrie Jean** exchanged a quiet, knowing glance across the room watching how Megan laughed and rested her hand on Jordan's arm—Aubrie Jean smiled warmly at Megan when `9:00 PM` arrived.
 
@@ -18579,11 +18621,9 @@ Jordan looked at the seven women he loved, thinking of Megan's strength, her kin
 
 "Good," Aubrie Jean beamed, kissing his cheek. "Then expanding the Pact for Megan is officially on the table. Now we just give her the space to realize she's already home."
 
-## The Dream of the Future & The Smokin' Anvil
+***
 
-### Scene 1: The Dream of the Future
-
-**Date:** 2015-12-05 at 08:30 America/New_York
+#### December 5, 2015 • 8:30 AM — The Dream of the Future
 
 On **Saturday morning, December 5, 2015**, **Jordan** woke slowly from the most vivid, breathtaking dream of his entire life.
 
@@ -18605,9 +18645,9 @@ Aubrie Jean's heart swelled until she felt like she was floating. Leaning down, 
 
 "Oh, Jordan, don't be sad," Aubrie Jean whispered, her voice ringing with absolute certainty. "Don't you see? That wasn't just a dream—*that's the plan*. Look how far you've come in one year: from a terrified boy in Room 214 who didn't even know how to ask for help, to a man dreaming of building a whole generation of love with all of us. Megan belongs with us, and we're going to build that exact future together. Starting this morning—because Dad and Mom just cleared you for your very first restaurant breakfast outing since the hospital!"
 
-### Scene 2: The First Outing: Breakfast at The Smokin' Anvil
+***
 
-**Date:** 2015-12-05 at 09:30 America/New_York
+#### December 5, 2015 • 9:30 AM — The First Outing: Breakfast at The Smokin' Anvil
 
 At `9:30 AM`, a three-vehicle family convoy pulled out of **414 Geneva Street** bound for Blacksburg—and to help Jordan feel more like an independent adult than a patient in a medical transport van, **Daniel** assigned **Jordan**, **Aubrie Jean**, and **Madison** to ride in **Megan's** four-door sedan while the rest of the household—plus **Isabel**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**—followed in the minivan, Mark's SUV, and Henry's pickup.
 
@@ -18657,11 +18697,13 @@ Jordan tilted his head curiously.
 
 "And as someone who just did her senior nursing rotation through the cardiopulmonary rehab unit," **Isabel** added with a warm, encouraging smile, squeezing Jordan's arm, "you are going to love it, Jordan. You go to a specialized medical gym three times a week where cardiac nurses hook you up to wireless EKG telemetry while you walk on the treadmill and rebuild your endurance safely. That's how you're going to get your body back—stronger than ever."
 
-## The Comeback & The Breaking Point
+## The Comeback, The Breaking Point, & The New Safe Person
 
-### Scene 1: Morning Prep on Geneva Street
+### Scene 1: Morning Prep on Geneva Street & Return to Walton Hall
 
 **Date:** 2015-12-09 at 08:00 America/New_York
+
+#### 8:00 AM — Morning Prep on Geneva Street
 
 On **Wednesday morning, December 9, 2015**, the `5:15 AM` alarms didn't just signal another day of basement recovery. Today was **Jordan's** comeback. Today was his **`ENG 102`** final presentation in **Walton Hall**.
 
@@ -18681,9 +18723,9 @@ Once the house quieted down, **Megan**—who had taken a paid personal day from 
 
 <aac>Nervous,</aac> Jordan tapped on his **mPad**, smiling back at her, <aac>but ready. I am really glad you are the one driving me today, Megan.</aac>
 
-### Scene 2: The Blue Disabled Parking Placard
+***
 
-**Date:** 2015-12-09 at 08:15 America/New_York
+#### 8:15 AM — The Blue Disabled Parking Placard
 
 At `8:15 AM`, Megan helped Jordan transfer into the front passenger seat of her sedan, positioned his red plush **heart pillow** squarely over his breastbone under the shoulder belt, loaded *S.S. Freedom*'s folding backup transport frame into the trunk, and drove north up `U.S. Route 460` to **Commonwealth Polytechnic Institute**.
 
@@ -18709,9 +18751,9 @@ Jordan looked over his shoulder at her in delighted surprise and tapped:
 
 "Walton Hall it is," Megan smiled. "Let's go show them how it's done."
 
-### Scene 3: The Return to Walton Hall (The Presentation)
+***
 
-**Date:** 2015-12-09 at 08:48 America/New_York
+#### 8:48 AM — The Return to Walton Hall (The Presentation)
 
 Four weeks earlier, **Jordan** had been carried out of **Walton Hall** on a collapsible stair chair in the middle of a massive widowmaker heart attack.
 
@@ -18745,7 +18787,7 @@ Out in the corridor, the group huddled for a proud, emotional celebration before
 
 As Jordan watched his friends hurry down the hallway with their backpacks, waving goodbye as the double doors swung shut behind them, the bright adrenaline of his presentation began to ebb—and Megan stepped up behind his chair with a proud smile to take him back to her car.
 
-### Scene 4: The System Crash (The Breaking Point)
+### Scene 2: The System Crash (The Breaking Point)
 
 **Date:** 2015-12-09 at 10:05 America/New_York
 
@@ -18821,9 +18863,11 @@ She had done it—all by herself. When the storm threatened to tear his healing 
 
 And in that small parked car outside Walton Hall, twenty-seven-year-old **Megan Brooks** became one of **Jordan's** **Safe People**.
 
-### Scene 5: The New Safe Person
+### Scene 3: The New Safe Person & The Solo Corporate Mixer
 
 **Date:** 2015-12-09 at 11:30 America/New_York
+
+#### December 9, 2015 • 11:30 AM — The New Safe Person
 
 The twenty-minute drive down `U.S. Route 460` from Blacksburg back to **414 Geneva Street** passed in a heavy, exhausted quiet.
 
@@ -18863,11 +18907,9 @@ Choosing the safe off-ramp to protect him, Megan resumed stroking his hair, keep
 
 Hearing her default back to the caregiver role, Jordan felt a quiet sting of disappointment—assuming she was gently turning down the romantic part of his offer—and being too exhausted from the meltdown to push, he simply nodded against her side, closed his eyes, and held her waist a little tighter.
 
-## The Solo Corporate Mixer
+***
 
-### Scene 1: The Solo Corporate Mixer
-
-**Date:** 2015-12-11 at 18:00 America/New_York
+#### December 11, 2015 • 6:00 PM — The Solo Corporate Mixer
 
 Two evenings later, on **Friday, December 11, 2015**, the basement was glowing with end-of-semester relief as the CPI crew celebrated finishing the last day of fall classes before exam week, joined by **Isabel**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
 
@@ -18895,11 +18937,13 @@ All she wanted was to be back in the warm, string-lit basement at **414 Geneva S
 
 Ducking out of the mixer at `8:45 PM`, Megan drove straight back down `I-81 South` to Christiansburg, kicked off her heels at the top of the stairs, changed into her softest flannel pajamas, and walked down into the basement at `9:30 PM`—where Jordan's face lit up with pure joy the second she walked in, making room for her right beside him and Aubrie Jean on the sofa.
 
-## The Christmas Night Invitation (Megan Joins the King Bed)
+## The Christmas Night Invitation, The First Kiss, & Jordan Shawn Kelly
 
-### Scene 1: The Christmas Night Invitation
+### Scene 1: The Christmas Night Invitation & Boxing Day Breakfast
 
 **Date:** 2015-12-25 at 21:30 America/New_York
+
+#### December 25, 2015 • 9:30 PM — The Christmas Night Invitation
 
 **Christmas Day—Friday, December 25, 2015—**at **414 Geneva Street** was loud, chaotic, and overflowing with warmth.
 
@@ -18957,9 +19001,9 @@ Immediately, Jordan shifted closer and draped his right arm gently around her wa
 
 Pressing her face into her pillow as his arm held her close, Megan let a few quiet tears of pure relief soak into the cotton. For the first time in years, she was completely, unconditionally home.
 
-### Scene 2: Awake in the King Bed
+***
 
-**Date:** 2015-12-25 at 23:45 America/New_York
+#### December 25, 2015 • 11:45 PM — Awake in the King Bed
 
 At `11:45 PM` on Christmas night, while the rest of the basement breathed in deep, rhythmic sleep, neither **Megan** nor **Jordan** had closed their eyes for more than ten minutes.
 
@@ -19001,11 +19045,9 @@ Ten seconds later, from the queen bed by the desk, a smartphone screen suddenly 
 
 Trying desperately not to wake the room, Megan and Jordan both dissolved into quiet, muffled giggles into their pillows—and finally, with her fingers laced through his, Megan let the steady rhythm of Jordan's breathing carry her into the deepest, happiest sleep of her life.
 
-## The Boxing Day Intervention & The First Kiss
+***
 
-### Scene 1: The Boxing Day Intervention & The First Kiss
-
-**Date:** 2015-12-26 at 09:00 America/New_York
+#### December 26, 2015 • 9:00 AM — The Boxing Day Intervention & The First Kiss
 
 **Saturday morning, December 26, 2015—Boxing Day—**dawned bright, still, and unhurried. With the fall semester officially finished, **Daniel** and **Laura** had left a note upstairs that they were driving over to the new property site to inspect the framing progress on the family compound, leaving the basement sanctuary entirely to the young adults.
 
@@ -19081,9 +19123,9 @@ There was none. **Aubrie Jean** was beaming from ear to ear. **Zoë** gave her b
 
 To show Megan how their world worked in practice, **Aubrie Jean** leaned in and gave Jordan a deep, passionate kiss of her own—followed in turn by **Madison**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, and finally **Zoë** (`"My data indicates it is my turn,"` Zoë teased with a rare grin before kissing Jordan deeply and giving Megan a proud sisterly nod). Watching her own little sister and six other women kiss the man she loved without a single atom of jealousy shattered the very last wall of Megan's old conditioning forever.
 
-### Scene 2: The No-Privacy Protocol & Boxing Day Breakfast
+***
 
-**Date:** 2015-12-26 at 09:45 America/New_York
+#### December 26, 2015 • 9:45 AM — The No-Privacy Protocol & Boxing Day Breakfast
 
 "Alright!" Madison clapped her hands together cheerfully. "Now that our Pact is officially complete, I am starving for a real Boxing Day breakfast, and we're all still in our pajamas! Time to get dressed!"
 
@@ -19109,11 +19151,11 @@ Taking a deep breath, twenty-seven-year-old Megan pulled her pajama top over her
 
 "Alright, since I'm officially the newest roommate," Megan announced with a bright, confident grin, heading toward the kitchenette with **Zoë** right at her heels as sous-chef, "my first official act is cooking a heart-healthy Boxing Day feast for everybody: applesauce-oatmeal pancakes and a huge skillet of spinach egg whites!"
 
-## A Legal Firewall for Jordan (Jordan Shawn Kelly)
-
-### Scene 1: A Legal Firewall for Jordan
+### Scene 2: Jordan Shawn Kelly & The Double Wedding Proposal
 
 **Date:** 2015-12-27 at 19:30 America/New_York
+
+#### 7:30 PM — A Legal Firewall for Jordan
 
 On **Sunday evening, December 27, 2015**, a quiet, reflective calm settled over the walk-out basement sanctuary at **414 Geneva Street**.
 
@@ -19168,9 +19210,9 @@ Reaching out with both hands, Jordan covered Aubrie Jean's hand on his left and 
 
 "Yes!" Aubrie Jean sobbed happily, throwing her arms carefully around his neck and kissing him. "Yes, Jordan, a thousand times yes—as the legal guardian of our whole Pact!"
 
-### Scene 2: Jordan Shawn Kelly & The Double Wedding Proposal
+***
 
-**Date:** 2015-12-27 at 19:45 America/New_York
+#### 7:45 PM — Jordan Shawn Kelly & The Double Wedding Proposal
 
 As the happy cheers subsided, however, Jordan looked down at his hands, a sudden shadow of resolve hardening his expression. He tapped firmly on his **mPad**:
 

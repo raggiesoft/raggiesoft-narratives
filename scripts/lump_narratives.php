@@ -201,6 +201,11 @@ foreach ($narrativeDirs as $narrativeDir) {
                 
                 // Strip the individual YAML Frontmatter block from the scene body first
                 $partContent = preg_replace('/^---[\s\S]*?---\s*/', '', ltrim($partContent));
+
+                // Shift in-scene `##` and `###` sub-headings (used for `oliver.php` In-Scene Mini-TOC navigation)
+                // down by 2 heading levels (`####` and `#####`) so they nest cleanly beneath `### Scene X`
+                // without colliding with `# Episode` or `## Chapter` in Pandoc EPUB/PDF Table of Contents.
+                $partContent = preg_replace('/^(#{2,4})(\s+)/m', '##$1$2', $partContent);
                 
                 $sceneTitleDisplay = $title ? "Scene {$sceneNum}: {$title}" : "Scene {$sceneNum}";
                 
