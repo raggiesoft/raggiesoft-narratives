@@ -11352,15 +11352,19 @@ Yet as the cassette deck clicked silent, **Mark** and **Daniel** exchanged a qui
 
 "That mixtape was the appetizer, J," Mark said softly, walking over to the walnut vinyl crate beside the high-end turntable. "Now that you know the language of the eighties... there is one record you *have* to hear."
 
+Yet as the cassette deck clicked silent, **Mark** and **Daniel** exchanged a quiet, knowing look across the stereo rack.
+
+"That mixtape was the appetizer, J," Mark said softly, walking over to the walnut vinyl crate beside the high-end turntable. "Now that you know the language of the eighties... there is one record you *have* to hear."
+
 ### Scene 3: Electric Color
 
 **Date:** 2015-01-18 at 23:15 America/New_York
 
 **Daniel Brooks** reached into the front slot of the walnut vinyl crate and pulled out a pristine original **1987 LP** whose sleeve shimmered with neon teal, magenta, and violet light over a deep-space starfield.
 
-"This, Jordan," Daniel said gently, walking over to the sofa and holding the twelve-inch jacket out so Jordan could trace the embossed lettering with his fingertips, "is the crown jewel of Blacksburg. Five students right here at **Commonwealth Polytechnic Institute**—brother and sister **Ryan** and **Cassidy O'Connell**, their twin cousins **Evan** and **Tyler Wright**, and their cousin **Holly O'Connell**—started this band in an unheated garage at Progress and Turner in 1986 because of their shared love of the cosmos and the rockets that take you there. They named themselves after the very first song they wrote together: **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**. And in the summer of 1987, they released this album: **[***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color)**."
+"This, Jordan," Daniel said gently, walking over to the sofa and holding the twelve-inch jacket out so Jordan could trace the embossed lettering with his fingertips, "is the crown jewel of Blacksburg. Five students right here at **Commonwealth Polytechnic Institute**—brother and sister **Ryan** and **Cassidy O'Connell**, their twin cousins **Evan** and **Tyler Wright**, and their cousin **Holly O'Connell**—started this band in an unheated garage at Progress and Turner in 1986 because of their shared love of the cosmos and the rockets that take you there. They named themselves after the very first song they wrote together: **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**. And in the summer of 1987, they released this album: [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color)."
 
-Across the room, **Mark** switched on the dedicated tube pre-amp, slid the black 1987 vinyl LP out of its inner sleeve, set it onto the turntable platter, brushed the microgrooves with a carbon-fiber brush, and carefully lowered the diamond stylus onto Track One: **[*"Electric Color"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color)**.
+Across the room, **Mark** switched on the dedicated tube pre-amp, slid the black 1987 vinyl LP out of its inner sleeve, set it onto the turntable platter, brushed the microgrooves with a carbon-fiber brush, and carefully lowered the diamond stylus onto Track One: [**"Electric Color"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color).
 
 A crystal-clear piano motif floated out of the floor-standing speakers, followed seconds later by a shimmering wall of 1980s analog synthesizers, Tyler Wright's driving drums, Ryan O'Connell's bright guitar chords, and **Cassidy O'Connell's** soaring, incandescent voice:
 
@@ -11388,7 +11392,7 @@ They had flipped a switch and turned on the light. His world was no longer gray�
 
 When Ryan O'Connell's guitar solo soared out of the bridge—*"The beat is getting stronger / I can't hide it any longer / My heart is playing catch-up / To the music turning way up!"*—and crashed back into the final chorus, Jordan's eyes were shining with happy tears behind his glasses.
 
-This wasn't just a song from 1987. **[*"Electric Color"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color)** was *his* song—the anthem of his awakening.
+This wasn't just a song from 1987. [**"Electric Color"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color) was *his* song—the anthem of his awakening.
 
 Jordan's fingers flew across his **NeoEdit** keyboard on his **mPad**, and he tapped **`Speak`** as the final notes of Track One rang out:
 
@@ -11396,7 +11400,78 @@ Jordan's fingers flew across his **NeoEdit** keyboard on his **mPad**, and he ta
 
 "Every single track on both sides, J," Mark smiled, settling back onto the cushion beside Hannah as Side A glided seamlessly into Track Two ([*"Plastic Sky"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-02-plastic-sky)), Track Three ([*"My Anchor Holds"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds)), and Track Four ([*"Dancing in the Neon"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-04-dancing-in-the-neon)), before flipping the record over to Side B so Jordan could hear [*"Break the Walls"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-08-break-the-walls), [*"Worlds Apart"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-09-worlds-apart), and the band's soaring closing origin anthem, [*"The Stardust Engine"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine).
 
-### Scene 4: The Call from Bluewater
+### Scene 4: Starfield Calibration (The Cosmic Tidal Lock)
+
+**Date:** 2015-01-19 at 21:30 America/New_York
+
+On Monday night, January nineteenth—the evening after their Sunday vinyl marathon at Geneva Street—**Room 214** of **Bennett Hall** was bathed in the soft, low-sensory amber glow of **Aubrie Jean’s** desk lamp. Across the hall in Room 216, **Lauren**, **Madison**, **Zoë**, **Hannah**, **Mark**, **Sarah**, and **Jessica** were finishing a lively study session, leaving **Jordan** and **Aubrie Jean** in the quiet sanctuary of their room after completing their first problem set for **PHYS 2305 (Foundations of Physics I)**.
+
+Parked side by side at their desks, Jordan and Aubrie still had the orbital mechanics diagrams from their astrophysics readings open on their screens—specifically the mathematical derivation for **gravitational tidal locking**, the phenomenon in which two celestial bodies in mutual orbit rotate in synchronous lockstep so that the same side of one body permanently faces its partner across the vacuum of space.
+
+On the secondary monitor of his **Pinnacle Vanguard Pro**, Jordan had pulled up the official band archive of **[The Stardust Engine](https://stardust.raggiesoft.com)** and their complete digital catalog in **[The Listening Room](https://music.raggiesoft.com/artists/the-stardust-engine)** that **Mark** and **Daniel** had shared with him the night before.
+
+"Look at this album from October 18, 2011, J," Aubrie Jean said softly, leaning her shoulder against Jordan’s right arm as she pointed to a deep-space cover shimmering with orbital telemetry rings: [***Starfield Calibration***](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration). "Listen to the subtitle: *Celebrating 25 Years Since 'Ignition (The Forger's Call)' Shook The Crucible (Oct 18, 1986 – Oct 18, 2011)*. And look at what **Cassidy O'Connell** named the sound architecture she engineered for it: **[The Cosmic Tidal Lock Sound™](https://stardust.raggiesoft.com/story/cosmic-tidal-lock-sound)**."
+
+Jordan’s green eyes widened behind his glasses as he scrolled down into the studio liner notes written by **Cassidy** and **Holly O'Connell**. Together, he and Aubrie read every paragraph on the glowing screen.
+
+In the liner notes, Cassidy explained that when **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** recorded their early albums like 1987's [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) and 1989's [***Neon Hearts***](https://music.raggiesoft.com/artists/the-stardust-engine/1989-neon-hearts), they had been trapped inside **Apex Records'** suffocating corporate machine in Los Angeles—forced to sing about dissociation and captivity under an artificial *"Plastic Sky"* while executives tried to turn Cassidy and her brother **Ryan O'Connell** into a cheap corporate naming gimmick. Worse still, Apex had forced Cassidy—who is autistic—to sing a manufactured 1989 abandonment ballad (*"If You Walked Away"*) whose lyrics triggered severe sensory and emotional meltdowns backstage after every show, until Ryan—who uses a wheelchair and is Cassidy’s lifelong **Safe Person**—held her in twenty-minute deep-pressure grounding hugs until the static faded.
+
+Then, in 2011—nineteen years after the family emancipated themselves from Apex Records and returned home to **Progress Street** in Blacksburg—Cassidy spent the summer inside their private Blacksburg studio rebuilding fourteen of their foundational songs from 1987 to 2001 from the ground up inside a weightless, 360-degree planetarium dome mix she called **The Cosmic Tidal Lock Sound™**.
+
+"Read this part about why she and Ryan changed the lyrics on the 2011 versions, Jordan," Aubrie whispered, her voice catching with awe as she traced the screen with her fingertip:
+
+> *"Listeners will immediately notice that Cassidy and Ryan intentionally tweaked the lyrics across these fourteen songs for two specific reasons: first, to celebrate being nineteen years free from Apex Records (transforming lyrics originally written under the claustrophobia of the artificial 'Plastic Sky' into retrospective celebrations of survival and orbital freedom); and second, for acoustic and phonetic vowel extension—replacing the clipped, percussive consonants required to punch through 130+ BPM terrestrial rock guitars with open, sustained vowels and liquid consonants ('gliding,' 'velvet,' 'alignment,' 'starlight,' 'zero-G,' 'tidal lock,' 'sanctuary') that allow their voices to hold long, shimmering legato notes that bloom inside the wide planetarium reverb tail."*
+
+Jordan’s heart gave a warm, powerful thump against his ribs.
+
+As someone whose entire childhood had been spent trapped inside his mother’s suffocating house in Virginia Beach—and who was now finally living in open orbit at **Commonwealth Polytechnic Institute** alongside his own Safe Person—the idea of taking songs written during captivity and rewriting them nineteen years later to celebrate survival and freedom hit him straight in the center of his chest.
+
+He clicked play on Track One of [***Starfield Calibration***](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration)—[**"The Stardust Engine (Cosmic Tidal Lock Mix)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-01-the-stardust-engine)—letting the album play straight through their studio monitors at a gentle, enveloping volume.
+
+A sweeping, zero-gravity 1980s analog synthesizer pad bloomed across **Room 214** like a sunrise seen from orbit, followed by **Evan Wright’s** smooth, gliding fretless bassline, **Tyler Wright’s** steady 4/4 gated reverb drums, and **Cassidy and Ryan O'Connell’s** crystal-clear sibling duet:
+
+> *"We were looking for a signal*<br>
+> *A beacon in the endless black*<br>
+> *A single voice across the universe*<br>
+> *To tell us we were on the right track...*<br><br>
+> *The telemetry is locked in alignment tonight*<br>
+> *Leaving terrestrial gravity for the infinite light!*<br>
+> *We are The Stardust Engine!*<br>
+> *Gliding through the velvet night!*<br>
+> *We're burning on the fuel of a brand new light!"*
+
+As Track One glided seamlessly into Track Two—[**"Electric Color (Cosmic Tidal Lock Mix)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-02-electric-color)—Jordan and Aubrie listened in rapt silence to how the 1987 anthem they had heard on vinyl the night before had evolved. Where the 1987 original was a bright, urgent burst of terrestrial synth-pop, the 2011 Cosmic Tidal Lock version floated in weightless deep space, with Cassidy and Ryan singing their newly liberated pre-chorus and chorus:
+
+> *"Leaving the terrestrial shadow behind*<br>
+> *Drifting into the spectrum we were meant to find!*<br>
+> *Oh, I'm seeing in electric color!*<br>
+> *Finding a rhythm I never knew!*<br>
+> *Floating in a brand new summer*<br>
+> *The whole cosmos feels bright and new!*<br>
+> *It's an electric-colored feeling*<br>
+> *Suspended in the velvet with you!"*
+
+Together, Jordan and Aubrie followed the liner notes through every track on the album:
+- On Track Three, [**"Plastic Sky (Cosmic Tidal Lock Mix)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-03-plastic-sky), the painted studio ceiling shattered into open space (*"Now we're breaking through the plastic sky! / Drifting out where the real stars shine / Leaving their artificial world behind!"*).
+- On Track Five, [**"My Anchor Holds (Cosmic Tidal Lock Mix)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-05-my-anchor-holds)—the gravitational thesis of the entire record—Cassidy sang directly about astrophysical tidal locking: *"The telemetry is locked tonight / Half in the shadow, half in the light / When the universe is spinning out of my control / You're the one true gravity that I can hold! / Through the cosmic static and the solar rain / You're the quiet frequency that keeps me sane!"*
+- On Track Eight, [**"Atmosphere (Cosmic Tidal Lock Mix)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-08-atmosphere), Jordan and Aubrie grinned as they read how an Apex executive in 1992 had tried to twist Cassidy and Ryan’s literal spacecraft atmospheric re-entry song (*"The fragile hull begins to shake... Here comes the friction, feel the fire! / A halo of gold, a crimson glow"*) into cheap tabloid innuendo—and how the siblings had waited nineteen years to finally record the definitive, shimmering 1980s-style master that honored the true physics of coming home through the upper atmosphere.
+- On Track Nine, [**"No Hidden Gravity (Cosmic Tidal Lock Mix)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-09-no-hidden-gravity), Ryan and Cassidy sang the exact creed of a Safe Person: *"You don't have to perform, you don't have to pretend / I'm your safe person, your family, your friend! ... The safest place in the cosmos is right next to you!"*
+- And when Track Eleven, [**"Echoes in the Wire (Cosmic Tidal Lock Mix)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-11-echoes-in-the-wire), filled the quiet dorm room—telling the story of Ryan holding Cassidy in a deep-pressure hug until the sensory overload of the stage disappeared (*"All the terrestrial static faded out / Leaving nothing of the doubt... We traded time for something real / A tidal lock that you can feel"*)—Aubrie Jean reached over and wrapped her arms gently around Jordan’s shoulders, resting her cheek against his temple just the way she had held him in Kincaid Commons and on the Brooks family sofa.
+
+Jordan leaned his head into Aubrie’s warmth, looking from the orbital equations in their physics notebook to the glowing tracklist of [***Starfield Calibration***](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration) as Track Twelve ([**"Midnight Drivers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-12-midnight-drivers)), Track Thirteen ([**"The Horizon Line"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-13-the-horizon-line)), and Track Fourteen ([**"Fade to Dawn"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-14-fade-to-dawn)) carried them toward orbital sunrise.
+
+Reaching out to his **NeoEdit** keyboard on his **Pinnacle Vanguard Pro**, Jordan typed a message for Aubrie Jean and tapped **`Speak`**:
+
+<aac>In astrophysics, tidal locking means two bodies in mutual gravity never turn their backs on each other across the dark. In 1987, "Electric Color" was the moment the switch flipped and the gray turned to color. "Starfield Calibration" is what happens after you escape the plastic sky and reach stable orbit with your Safe Person. You are my anchor in the endless blue, Aubrie Jean. We are in a cosmic tidal lock.</aac>
+
+Aubrie Jean’s eyes shimmered in the amber lamplight. She kissed Jordan’s cheek and squeezed his hand over the armrest of his wheelchair as the final notes of [**"Fade to Dawn (Cosmic Tidal Lock Mix)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-14-fade-to-dawn) washed through Room 214:
+
+> *"The synthesizers hum a timeless song*<br>
+> *We held our tidal lock all night long..."*
+
+"Always in alignment, Jordan," Aubrie whispered softly. "No hidden gravity—just you and me and our family in the stars."
+
+### Scene 5: The Call from Bluewater
 
 **Date:** 2015-01-20 at 20:15 America/New_York
 
@@ -13741,7 +13816,7 @@ Halfway up the street, near the corner of Foubert's Place, Daniel and Laura Broo
 
 Right at that moment, inside the ground-floor vinyl shop beneath their old flat, the clerk dropped the needle onto a newly remastered 180-gram LP spinning on the front turntable.
 
-Pouring out through the open shop doors into the warm afternoon air of Carnaby Street came a brooding, solitary drum-machine pulse, quickly joined by a deep, resonant analog synth bassline—the unmistakable opening bars of **[*"The Hollow Square"*](https://music.raggiesoft.com/fractured-prisms/1983-carnaby-street/?track=1-01-the-hollow-square)**, the lead track from **[Fractured Prisms](https://music.raggiesoft.com/fractured-prisms/)**' landmark 1983 album, ***[Carnaby Street](https://music.raggiesoft.com/fractured-prisms/1983-carnaby-street/)***.
+Pouring out through the open shop doors into the warm afternoon air of Carnaby Street came a brooding, solitary drum-machine pulse, quickly joined by a deep, resonant analog synth bassline—the unmistakable opening bars of [**"The Hollow Square"**](https://music.raggiesoft.com/artists/fractured-prisms/1983-carnaby-street?track=1-01-the-hollow-square), the lead track from **[Fractured Prisms](https://music.raggiesoft.com/artists/fractured-prisms)**' landmark 1983 album, [***Carnaby Street***](https://music.raggiesoft.com/artists/fractured-prisms/1983-carnaby-street).
 
 Jordan's hands stilled over his keyboard as Rhys Manning's voice rose over the street:
 
@@ -14507,7 +14582,7 @@ Suddenly, the soft, polite four-note chime echoed from the ship's recessed PA sp
 
 Instead of the harsh, jarring announcements Jordan had spent his life dreading in American transit hubs, the speaker filled the quiet stateroom with a warm, nostalgic 1970s acoustic and City Pop guitar melody, lush strings, and gentle bell chimes.
 
-It was the ship's signature departure anthem—the original 1978 Osaka studio master of **[*"Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]"*](https://music.raggiesoft.com/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/?track=1-01-hoshizora-no-uta-song-of-the-starry-sky-japanese)** by **[The Hoshizora Ensemble](https://music.raggiesoft.com/the-hoshizora-ensemble/)**, from ***[Hoshizora no Uta: Voyages on the Seto Inland Sea](https://music.raggiesoft.com/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/)***:
+It was the ship's signature departure anthem—the original 1978 Osaka studio master of [**"Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]"**](https://music.raggiesoft.com/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea?track=1-01-hoshizora-no-uta-song-of-the-starry-sky-japanese) by **[The Hoshizora Ensemble](https://music.raggiesoft.com/artists/the-hoshizora-ensemble)**, from [***Hoshizora no Uta: Voyages on the Seto Inland Sea***](https://music.raggiesoft.com/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea):
 
 > *夕暮れの港に 優しい風が吹く*<br>
 > *(Yūgure no minato ni yasashii kaze ga fuku)*<br>
@@ -14581,7 +14656,7 @@ Standing beside the left armrest of Jordan's wheelchair as the twilight deepened
 
 Having spent four formative years of her childhood living in Osaka, the Japanese language was second nature to her—but this specific melody carried the deep, comforting weight of home. She hadn't just understood the broadcast over the cabin PA; she had known every word of it by heart since she was eight years old.
 
-Even more than that, right on Zoë's `mPad`—inside the offline **Engine Room Records** digital library they had brought for the trip—sat the official 2002 English-language studio recording that **Holly O'Connell** had commissioned from **[The Hoshizora Ensemble](https://music.raggiesoft.com/the-hoshizora-ensemble/)** after the *Midnight Drivers World Tour*: **[*"Hoshizora no Uta (Song of the Starry Sky) [English Version]"*](https://music.raggiesoft.com/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/?track=1-02-hoshizora-no-uta-song-of-the-starry-sky-english)** from ***[Hoshizora no Uta: Voyages on the Seto Inland Sea](https://music.raggiesoft.com/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/)***.
+Even more than that, right on Zoë's `mPad`—inside the offline **Engine Room Records** digital library they had brought for the trip—sat the official 2002 English-language studio recording that **Holly O'Connell** had commissioned from **[The Hoshizora Ensemble](https://music.raggiesoft.com/artists/the-hoshizora-ensemble)** after the *Midnight Drivers World Tour*: [**"Hoshizora no Uta (Song of the Starry Sky) [English Version]"**](https://music.raggiesoft.com/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea?track=1-02-hoshizora-no-uta-song-of-the-starry-sky-english) from [***Hoshizora no Uta: Voyages on the Seto Inland Sea***](https://music.raggiesoft.com/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea).
 
 "It's the ship's theme song, Jordan," Zoë explained softly, her crisp British-Virginian voice cutting gently through the quiet stateroom as she tapped play on the English studio master on her `mPad` so the warm acoustic guitar and vibraphone chimes filled the room at a hushed, comforting volume. "My family used to take this exact ferry all the time when we lived here. Listen to what they're singing to you—the chorus translates to:
 
