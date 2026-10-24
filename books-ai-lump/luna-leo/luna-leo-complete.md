@@ -6,9 +6,11 @@ title: "Luna & Leo"
 
 ## Birthday Morning and the Grandparents' Arrival
 
-### Scene 1: Birthday Morning and the Grandparents' Arrival
+### Birthday Morning and the Grandparents' Arrival & Birthday Cake and Sweet Memories on Ludlow Road
 
 **Date:** 1987-06-13 at 09:00 America/New_York
+
+#### 9:00 AM — Birthday Morning and the Grandparents' Arrival
 
 The salty tang of the Rhode Island air on Ludlow Road was a familiar comfort to Stella, but this particular Saturday morning in June 1987 shimmered with a unique blend of excitement. Today was her ninth birthday, and the promise of a grand outing to Boston felt even bigger, somehow more important, than previous celebrations. The whole family was going, a "last big adventure," as her mom, Karen, had called it, before their big move to Virginia Beach next month. Stella felt a little fizz of nervousness mixed with anticipation; a new state, a new school, it was a lot for almost-nine.
 
@@ -20,9 +22,9 @@ Grandpa Arthur met them at the door, his smile as wide as Narragansett Bay. "Hap
 
 Grandma Eleanor, calm and smiling, was already helping Karen gather the last of the twins' paraphernalia. "Boston awaits, dear," she said to Stella, "and then a whole new adventure in Virginia for all of you! Exciting times."
 
-### Scene 2: The Journey North and Boston Greetings
+***
 
-**Date:** 1987-06-13 at 10:00 America/New_York
+#### 10:00 AM — The Journey North and Boston Greetings
 
 Getting everyone settled into the Holt Rancher was a masterclass in loving coordination. David and Grandpa Arthur carefully secured Luna’s and Leo’s toddler car seats into the cavernous back. Leo, who needed to be lifted and settled, gurgled happily as David buckled him in, tucking a soft block beside him. Luna, insisting on climbing into her own seat with a little help from Karen, chattered, "Car! Go car, Dada!" Stella, backpack clutched, chose her window seat. With Karen and David in the middle row keeping an eye on the toddlers, and Grandma Eleanor beside Grandpa Arthur up front, the big wagon felt like a cozy, adventure-bound ship.
 
@@ -66,9 +68,9 @@ The adults exchanged more grumbles about the infamous Artery. "Well, Stella," Gr
 
 Stella just nodded, taking it all in. This was the *big city*, and even its traffic felt important.
 
-### Scene 3: Bay State Marine Center Wonders
+***
 
-**Date:** 1987-06-13 at 11:30 America/New_York
+#### 11:30 AM — Bay State Marine Center Wonders
 
 Eventually, their Holt Rancher began to inch forward more consistently. Grandpa Arthur, a skilled navigator, found a parking garage near the waterfront. "Alright, adventurers!" he announced. "First stop, as requested by the birthday queen: the Bay State Marine Center!"
 
@@ -78,9 +80,9 @@ They spent hours wandering. Grandpa Arthur read information plaques aloud. Grand
 
 For lunch at the Marine Center’s cafe, Stella declared the clam chowder the best thing she’d ever tasted.
 
-### Scene 4: First Ride on the B
+***
 
-**Date:** 1987-06-13 at 14:00 America/New_York
+#### 2:00 PM — First Ride on the B
 
 As they emerged from the Bay State Marine Center, Grandpa Arthur suggested, "How about we explore the wonders of science? There's a BSTA station right near here for the Indigo Line. We could take our first ride on 'The B' to Civic Center Plaza, then transfer to an Emerald Line trolley. That’ll take us straight to Science Park. The Bay State Discovery Center is right there."
 
@@ -96,9 +98,9 @@ Meanwhile, David had lifted a very pungent Leo. "And this little stink bomb and 
 
 "Perfect timing!" Grandpa Arthur declared. "All disasters averted! Shall we, birthday girl?" Stella grinned. Now, it was finally time to explore the wonders of science.
 
-### Scene 5: Discoveries and a Starlight Pavilion
+***
 
-**Date:** 1987-06-13 at 14:30 America/New_York
+#### 2:30 PM — Discoveries and a Starlight Pavilion
 
 Inside the vast main hall of the Bay State Discovery Center, Stella’s eyes darted everywhere. "That!" she decided, pointing to a giant Foucault pendulum. Their first major stop was an area filled with dinosaur skeletons. Stella stood in awe beneath a massive "Tyrannosaurus Rex." They found a section with hands-on physics experiments. Karen helped Luna with pulleys, and David showed Stella how a lever worked. Stella loved the "whisper dish" exhibit.
 
@@ -108,9 +110,9 @@ Leo eventually dozed off in his stroller. Luna, a whirlwind of energy, wanted to
 
 Emerging from the Starlight Pavilion, Stella felt a happy tiredness. They hadn't seen everything. David and Karen had wisely vetoed more food stops. Perhaps they made a quick visit to an area with live animals – maybe a glass-enclosed beehive or local wildlife. But soon, even Stella's nine-year-old energy began to wane. The toddlers were getting visibly sleepy. "Alright, team," David announced. "Time to get back on The B."
 
-### Scene 6: The Infamous BSTA Delay and Homeward Bound
+***
 
-**Date:** 1987-06-13 at 17:00 America/New_York
+#### 5:00 PM — The Infamous BSTA Delay and Homeward Bound
 
 The journey back to the BSTA Science Park station was quieter. They boarded an inbound Emerald Line trolley. Just after passing one station, the trolley lurched and hissed to a stop in the dim tunnel. A collective sigh went through the car.
 
@@ -124,9 +126,9 @@ Emerging near the waterfront parking garage, Grandpa Arthur led them to the Holt
 
 Getting the car out of Boston meant braving the Central Artery south. "And here we go again!" Grandpa Arthur said. The traffic was slow, but the mood was content. Eventually, the city gave way to Route 24, heading south towards Aquidneck Island. Stella watched the familiar landscapes of home appear, memories of the day swirling happily.
 
-### Scene 7: Birthday Cake and Sweet Memories on Ludlow Road
+***
 
-**Date:** 1987-06-13 at 19:00 America/New_York
+#### 7:00 PM — Birthday Cake and Sweet Memories on Ludlow Road
 
 As Grandpa Arthur turned the big Holt Rancher onto their quiet street in Middletown, the late afternoon sun cast long shadows. "Home sweet home, adventurers!"
 
@@ -152,9 +154,11 @@ The burden of care often fell on Stella. Bath time was a particular challenge. T
 
 ## Breakthrough for Leo
 
-### Scene 1: Breakthrough for Leo
+### Breakthrough for Leo & Student Training and Education Program
 
 **Date:** 1992-09-15 at 10:00 America/New_York
+
+#### September 15, 1992 • 10:00 AM — Breakthrough for Leo
 
 Their first real breakthrough had come years earlier, around 1992, in the noisy computer lab of their elementary school, Willow Creek Elementary (Home of the Otters). Faced with rows of aging but functional MagnaByte Opus machines, seven-year-old Leo, previously struggling to express himself through laborious handwriting and lacking any other communication aids, discovered that resting his hands on the keyboard allowed him to painstakingly tap out words. For Luna, typing offered a clarity and flow that sometimes eluded her speech. This was their first taste of fluent written communication, a revelation after years of difficulty. The school recognized the significance of this discovery.
 
@@ -164,9 +168,9 @@ The importance of this specific tool became starkly clear during the twins' sixt
 
 Ms. Evans recognized that the MagnaByte Opus was not merely a computer preference for Luna and Leo; it was an essential accessibility tool integral to managing both technological and sensory-cognitive demands. She advocated passionately with the administration and the special education coordinator to ensure the machine was retrieved from the surplus pile. The school, acknowledging its critical impact on the twins' ability to function and complete assignments, officially assigned the MagnaByte Opus to them. This particular device accompanied them through their 6th, 7th, and 8th-grade years at Brandon Middle, serving as a vital resource even as newer technology became prevalent among other students. It enabled them to demonstrate their intelligence and engage more fully in their education. Stella, who shared their bedroom during her high school years until she graduated, observed their attachment to the machine and the school's commitment to providing it, in stark contrast to their parents' indifference. Although she noticed their preference for this computer, she did not understand its significance as an assistive tool until Ms. Evans explained it years later. This recognition left a lasting impression on her.
 
-### Scene 2: Student Training and Education Program
+***
 
-**Date:** 1995-10-15 at 13:00 America/New_York
+#### October 15, 1995 • 1:00 PM — Student Training and Education Program
 
 The presence of Officer Davis in their 5th-grade classroom at Willow Creek Elementary created a buzz of excitement that Mrs. Gable, their regular teacher, struggled to contain. Project S.T.E.P. day was always a bit different. Officer Davis, uniformed and smiling, stood near the front, beside a tall metal cart holding a television and video player – technology that still held a certain novelty in the classroom. Luna and Leo sat at their shared table near the back. Luna adjusted the ill-fitting, slightly oversized glasses perched on her nose – a relatively new addition this year after squinting at the microwave clock had revealed her nearsightedness. The world was somewhat clearer with them, but she still found herself squinting occasionally to see the board properly, and they constantly slid down her nose. Leo watched the officer with quiet intensity, while Luna fidgeted slightly, glancing between the officer, now clearly visible thanks to her glasses, and the intriguing TV cart.  
 
@@ -245,7 +249,7 @@ Hanging up the phone, Stella stared blankly at her textbooks. The call had chang
 
 ## Stella to the Sore Rescue
 
-### Scene 1: Stella to the Sore Rescue
+### Part 1: Stella to the Sore Rescue
 
 **Date:** 1998-10-10 at 14:00 America/New_York
 
@@ -317,7 +321,7 @@ Inside the clean but cramped apartment, the twins felt the tension ease.
 
 Understanding, Stella agreed. Soon, all three were settled on the bed, drifting into an exhausted but peaceful sleep.
 
-### Scene 2: Sunday with Stella
+### Part 2: Sunday with Stella
 
 **Date:** 1998-10-11 at 09:00 America/New_York
 
@@ -433,17 +437,19 @@ The twins, in turn, began to relax into the predictability and warmth of Stella'
 
 ## Introduction and Anticipation
 
-### Scene 1: Introduction and Anticipation
+### Introduction and Anticipation & A New Soundtrack and Leo's Poem
 
 **Date:** 1999-12-01 at 09:00 America/New_York
+
+#### December 1, 1999 • 9:00 AM — Introduction and Anticipation
 
 The months following Stella's assumption of guardianship were a blur of doctor's appointments. After finding a compassionate pediatrician, the immediate priority had been to get Luna and Leo caught up on years of missed vaccinations and basic medical care. It was during this intense period of medical catch-up that Stella began the long process of seeking formal diagnoses for the developmental differences she had long observed. Armed with emerging clarity from neurologists and developmental specialists – confirming Cerebral Palsy for both twins (more severe for Leo) and Autism Spectrum Disorder for each – Stella now focused on securing the specialized equipment they had been denied for so long.
 
 The weeks following these initial specialist assessments with Ms. Albright, the mobility specialist, and Ms. Collier, the SLP, were filled with a nervous, hopeful anticipation for the Porter siblings. Stella had been firm, using the trust fund established by Arthur and Eleanor to ensure that the orders for Leo’s custom-fitted wheelchair and the twins' Quantum Communicator AAC devices were expedited, bypassing the potential months of insurance red tape. She'd made countless calls, signed forms on her Quantum OS 98 laptop, and confirmed delivery schedules.
 
-### Scene 2: Leo's New Wheelchair - A World of Difference
+***
 
-**Date:** 1999-12-10 at 11:00 America/New_York
+#### December 10, 1999 • 11:00 AM — Leo's New Wheelchair - A World of Difference
 
 The first arrival was a large van from the durable medical equipment company. Ms. Albright herself stepped out, accompanied by a technician, and they carefully unloaded a gleaming new manual wheelchair for Leo. It was a stark contrast to the old, rickety chair he’d been using – this one was lightweight yet incredibly supportive, with a vibrant blue frame he’d shyly pointed to in the brochure, and a pressure-relief cushion that looked miles more comfortable than his old one.
 
@@ -457,9 +463,9 @@ Stella and Luna watched, hearts in their throats, as Leo was gently transferred 
 
 Stella felt a lump in her throat. Seeing Leo move with such ease, his face lit with a rare, unreserved joy, was a victory in itself. This chair wasn't just equipment; it was dignity, it was mobility, it was a tangible symbol of the better life she was determined to provide.
 
-### Scene 3: Quantum Communicators Arrive - Finding Their Voices
+***
 
-**Date:** 1999-12-12 at 14:00 America/New_York
+#### December 12, 1999 • 2:00 PM — Quantum Communicators Arrive - Finding Their Voices
 
 Just two days later, Ms. Collier called. "Stella? The Quantum Communicators are in. They're programmed with the core vocabulary we discussed, and they're ready for Luna and Leo. Can you bring them in this afternoon?"
 
@@ -475,9 +481,9 @@ Luna held the device, looking slightly overwhelmed but intrigued. She’d always
 
 "You'll both have learning curves," Ms. Collier cautioned gently, "getting used to them, customizing the vocabulary. But these are powerful tools. They'll open up a lot of doors for you, especially in high school." She scheduled follow-up appointments for more in-depth training and personalization. Stella diligently took notes on her laptop, ensuring she had all the details for follow-up.
 
-### Scene 4: A New Soundtrack and Leo's Poem
+***
 
-**Date:** 1999-12-12 at 16:00 America/New_York
+#### December 12, 1999 • 4:00 PM — A New Soundtrack and Leo's Poem
 
 On the drive back to their little house, a comfortable silence filled Stella's Avalon. Luna held her Quantum Communicator in her lap, occasionally tapping out a short phrase just to hear it spoken clearly. Leo, in his new wheelchair, had his Quantum Communicator XT mounted and was deeply engrossed, his fingers flying across the screen, customizing settings, adding new words, a look of profound concentration and sheer joy on his face. He wasn't just exploring; he was reclaiming his voice, and he was a natural.
 
@@ -591,15 +597,17 @@ Luna felt heat rise in her cheeks, but Leo gave her hand a quick, reassuring squ
 
 Coach Miller, catching the undercurrent of questions, looked up sharply. "Locker assignments follow the approved student accommodation lists provided by the office," she stated, her voice cutting through the hallway noise. "That's final. Locker 316, Porter twins. Let's keep the line moving. Washington and Patel, locker 318."
 
-Taking a steadying breath, Luna guided Leo towards locker 316, focusing on unlocking the combination rather than the lingering glances. It was simply the first administrative hurdle of the day, handled exactly as Stella had arranged.  
+Taking a steadying breath, Luna guided Leo towards locker 316, focusing on unlocking the combination rather than the lingering glances. It was simply the first administrative hurdle of the day, handled exactly as Stella had arranged.
 
 # Twins Summer with Stella
 
 ## The DeMarco Decree
 
-### Scene 1: The DeMarco Decree
+### The DeMarco Decree & Cafeteria Justice, Multilingual Edition
 
 **Date:** 1999-09-07 at 11:30 America/New_York
+
+#### September 7, 1999 • 11:30 AM • Leo Porter — The DeMarco Decree
 
 The Northwood High cafeteria during 5th period lunch was a symphony of controlled chaos, a noisy, echoing cavern filled with the clatter of trays and the roar of hundreds of teenage conversations. Fourteen-year-old Luna Porter, leaning slightly on the armrest of her twin brother Leo’s Quantum XT wheelchair for support as they scanned for a relatively calm table, felt a familiar wave of freshman overwhelm. Leo, beside her, his own Quantum Communicator XT resting on his tray, observed the scene with his usual quiet intensity.
 
@@ -649,9 +657,9 @@ Luna snickered. "Totally. I'm never, ever getting on her bad side."
 
 She glanced across the cafeteria to another table where a boy in a wheelchair and his friends were sitting. They looked just as relieved as everyone else. The first day of freshman year, and they had already witnessed a legend in action. Northwood High was going to be an adventure, and clearly, the cafeteria was its most unpredictable and educational stage.
 
-### Scene 2: Cafeteria Justice, Multilingual Edition
+***
 
-**Date:** 1999-09-21 at 11:30 America/New_York
+#### September 21, 1999 • 11:30 AM • Luna Porter — Cafeteria Justice, Multilingual Edition
 
 The Northwood High cafeteria during 5th period lunch was, as usual, a symphony of controlled chaos. Trays clattered, sneakers squeaked on linoleum, and hundreds of teenage conversations blended into a dull roar that pulsed beneath the flickering fluorescent lights.
 
@@ -713,7 +721,7 @@ Leo Porter nodded, a thoughtful expression on his face as he observed the other 
 
 ## The Record Player Discovery
 
-### Scene 1: The Record Player Discovery
+### The Record Player Discovery
 
 **Date:** 1999-09-25 at 15:00 America/New_York
 
@@ -739,7 +747,7 @@ Luna and Leo were completely captivated. Leo leaned forward in his chair, tracin
 
 ## The Music Store
 
-### Scene 1: The Music Store
+### The Music Store
 
 **Date:** 1999-09-27 at 15:00 America/New_York
 
@@ -763,7 +771,7 @@ They left the store not just with newfound musical ambitions, but with instrumen
 
 ## The Doorbell Rings
 
-### Scene 1: The Doorbell Rings
+### The Doorbell Rings
 
 **Date:** 1999-09-29 at 15:00 America/New_York
 
@@ -781,7 +789,7 @@ With the toxic influence of her parents legally removed, Stella turned her atten
 
 ## Legal Issues Settled
 
-### Scene 1: Legal Issues Settled
+### Legal Issues Settled
 
 **Date:** 1999-10-01 at 15:00 America/New_York
 
@@ -789,7 +797,7 @@ With the legal and safety issues settled, Stella focused again on ensuring the t
 
 ## Programming the AAC
 
-### Scene 1: Programming the AAC
+### Programming the AAC
 
 **Date:** 1999-10-03 at 15:00 America/New_York
 
@@ -797,7 +805,7 @@ Perhaps it was watching them painstakingly program a phrase into their new AAC d
 
 ## Weight of Academic Neglect
 
-### Scene 1: Weight of Academic Neglect
+### Weight of Academic Neglect
 
 **Date:** 1999-10-05 at 15:00 America/New_York
 
@@ -811,7 +819,7 @@ Slowly at first, then with gathering momentum, they began to bridge the gaps. Co
 
 ## Opus Computers Setup
 
-### Scene 1: Opus Computers Setup
+### Opus Computers Setup
 
 **Date:** 1999-10-07 at 15:00 America/New_York
 
@@ -843,7 +851,7 @@ As it turned out, their English teacher loved the idea, praising their initiativ
 
 ## Rainy Tuesday Evening
 
-### Scene 1: Rainy Tuesday Evening
+### Rainy Tuesday Evening
 
 **Date:** 1999-10-09 at 15:00 America/New_York
 
@@ -869,7 +877,7 @@ They managed to finish the report eventually, with Stella patiently guiding them
 
 ## COMPUBLUE KeyMech
 
-### Scene 1: COMPUBLUE KeyMech
+### COMPUBLUE KeyMech
 
 **Date:** 1999-10-11 at 15:00 America/New_York
 
@@ -917,7 +925,7 @@ Despite Stella's unwavering dedication to her siblings' well-being, the parents 
 
 ## Oregon Trail Preparation
 
-### Scene 1: Oregon Trail Preparation
+### Oregon Trail Preparation
 
 **Date:** 1999-10-13 at 15:00 America/New_York
 
@@ -955,7 +963,7 @@ From that moment on, it was an unspoken rule. The twins would not operate the Qu
 
 ## Saturday Morning Research
 
-### Scene 1: Saturday Morning Research
+### Saturday Morning Research
 
 **Date:** 1999-10-15 at 15:00 America/New_York
 
@@ -1025,7 +1033,7 @@ The quiet hum of the room was suddenly shattered by the loud, buzzing screech of
 
 ## Printing the Reports
 
-### Scene 1: Printing the Reports
+### Printing the Reports
 
 **Date:** 1999-10-17 at 15:00 America/New_York
 
@@ -1059,7 +1067,7 @@ Luna and Leo looked impressed by the precision. The music was different from the
 
 ## Therapy Appointment Drive
 
-### Scene 1: Therapy Appointment Drive
+### Therapy Appointment Drive
 
 **Date:** 1999-10-19 at 15:00 America/New_York
 
@@ -1081,7 +1089,7 @@ Luna and Leo nodded, understanding the explanation, though maybe feeling a tiny 
 
 ## Classic Rock Discoveries
 
-### Scene 1: Classic Rock Discoveries
+### Classic Rock Discoveries
 
 **Date:** 1999-10-21 at 15:00 America/New_York
 
@@ -1097,7 +1105,7 @@ After a brief moment of silence, the gentle, instantly recognizable keyboard int
 
 ## Wherever You Go
 
-### Scene 1: Wherever You Go
+### Wherever You Go
 
 **Date:** 1999-10-23 at 15:00 America/New_York
 
@@ -1111,7 +1119,7 @@ This song, "Only Work to Do," became their instant favorite. It was the moment O
 
 ## Friday Night Lights
 
-### Scene 1: Friday Night Lights
+### Friday Night Lights
 
 **Date:** 1999-10-25 at 15:00 America/New_York
 
@@ -1171,9 +1179,11 @@ Mr. Panoff then placed the saxophone case gently on the bench beside Luna. "Figu
 
 ## Charter Bus to the Mountains
 
-### Scene 1: Charter Bus to the Mountains
+### Charter Bus to the Mountains & Showtime Preparation
 
 **Date:** 1999-11-13 at 06:00 America/New_York
+
+#### 6:00 AM — Charter Bus to the Mountains
 
 The air was crisp and cold in the pre-dawn darkness of a November morning in 1999. The sprawling parking lot of Northwood High School buzzed with the organized chaos that only a marching band preparing for a major trip could generate. Five gleaming charter buses idled, their engines rumbling softly, ready to transport the Northwood High School Soaring Eagle Band – all 200+ members, plus director Mr. Panoff, chaperones, and the essential pit crew support staff – hours away to Stephens City, Virginia, for the final competition of the season at Sherando High School.
 
@@ -1195,9 +1205,9 @@ Sometime later, well into the journey, a new, unwelcome element entered the bus'
 
 Raising her voice slightly to be heard over the bus chatter and road noise, Stella called out, "Alright people, unfortunately, as you may have noticed, our air quality seems to have taken a nosedive, and these windows don't open!" She paused, letting the groans amplify. "Now, I have a pretty good idea who the culprit might be..." she continued, letting her gaze drift towards the back. "So, I think we need to determine an appropriate consequence. Travis," she called out, zeroing in, "how many push-ups do you think that work of art was worth? Let's start the bidding! Do I hear 25 push-ups?" Giggles erupted. "Come on, folks, surely more than that! Do I hear 50?" Someone shouted, "Sixty!" Stella grinned, playing along like an auctioneer. "Fifty going once... Sixty! Do I hear seventy-five?" Another student yelled, "Seventy-five!" Stella pointed dramatically. "Sold! To the band! Seventy-five push-ups for Travis upon arrival. Don't let me forget!" Laughter filled the bus, the punishment turning the unpleasant moment into a shared joke, though everyone was still stuck with the lingering smell.
 
-### Scene 2: Motel Check-In and Push-Up Penalties
+***
 
-**Date:** 1999-11-13 at 07:00 America/New_York
+#### 7:00 AM — Motel Check-In and Push-Up Penalties
 
 After what felt like an eternity on the road, punctuated by classic rock discoveries and the lingering ghost of Travis's unfortunate contribution, the convoy of five charter buses finally pulled off the interstate and into the gravel parking lot of a small, unassuming roadside motel. The band members stirred, stretching stiff limbs as they began the process of unloading instruments, luggage, and themselves under the glow of the motel's flickering neon sign. Given the sheer size of the band and the motel's small office, the students were instructed to stay with their luggage near the buses while the director and chaperones handled the check-in.
 
@@ -1217,11 +1227,11 @@ She paused, making eye contact with both of them to ensure they understood the n
 
 Luna sighed quietly, and Leo made a small face, clearly not thrilled about the lack of privacy, but they understood Stella's reasoning about fairness. They grumbled slightly under their breath but agreed with nods. "Okay, Stella," Luna confirmed. Leo gave a reluctant thumbs-up.  
 
-"Great," Stella said, pulling them both in for a quick, reassuring hug. "See you in a few minutes." She released them with a quick smile before turning back to the controlled chaos of distributing the remaining room keys and ensuring all students were accounted for near the buses. Luna began pushing Leo's chair along the outdoor walkway towards their room, key in hand, ready for the next phase of their band trip adventure.  
+"Great," Stella said, pulling them both in for a quick, reassuring hug. "See you in a few minutes." She released them with a quick smile before turning back to the controlled chaos of distributing the remaining room keys and ensuring all students were accounted for near the buses. Luna began pushing Leo's chair along the outdoor walkway towards their room, key in hand, ready for the next phase of their band trip adventure.
 
-### Scene 3: Waiting Game
+***
 
-**Date:** 1999-11-13 at 08:00 America/New_York
+#### 8:00 AM — Waiting Game
 
 Luna carefully inserted the metal key into the lock of Room 112 and pushed the door open. They maneuvered inside the functional, if basic, accessible motel room. True to Stella's instructions, Luna immediately propped the door open with the security latch, leaving a wide gap, and checked that the blinds on the single window were pulled fully open, revealing the gravel parking lot outside.
 
@@ -1231,9 +1241,9 @@ Wanting to be close after the long day and surrounded by the unfamiliarity of th
 
 Reaching into her nearby instrument case, Luna retrieved her tenor saxophone. While they waited for Stella, she began to play, not loudly, but softly – improvising a gentle, meandering tune. (This tune would evolve over the years into her senior project, arranged for tenor sax and Leo's modified xylophone, performed at the spring concert.) The soft notes of the saxophone filled the small room, a peaceful counterpoint to the distant sounds of the highway outside the open window and the band members settling into other rooms. They sat there together, Luna playing quietly, Leo holding her close, patiently waiting for Stella in the slightly-too-public intimacy mandated by the band trip rules.
 
-### Scene 4: The Pre-Performance Hustle
+***
 
-**Date:** 1999-11-13 at 09:00 America/New_York
+#### 9:00 AM — The Pre-Performance Hustle
 
 Luna was just finishing her soft saxophone melody when Stella appeared at the propped-open doorway of Room 112. "Okay, I'm here!" she announced, stepping inside.
 
@@ -1247,9 +1257,9 @@ As she helped Leo adjust his collar, she added, "Remember, we're the last compet
 
 Within minutes, thanks to Stella's focused efficiency and the twins' cooperation, they were both in their partial uniforms. Stella did a quick check of the room, grabbed her chaperone bag and the uniform garment bags, and ushered the twins out the door. "Okay, let's move, move, move! Back to the bus!" The brief respite was over; the energy now shifted entirely towards the impending competition.
 
-### Scene 5: Showtime Preparation
+***
 
-**Date:** 1999-11-13 at 10:00 America/New_York
+#### 10:00 AM — Showtime Preparation
 
 The twenty-minute bus ride from the motel to Sherando High School was a blur of nervous energy and quiet focus. As the buses pulled into the designated parking area, the sounds of distant drumlines and brass warm-ups already filled the air. The energy was palpable.
 
@@ -1267,9 +1277,11 @@ The sections merged, forming the familiar blocks and lines of the full Northwood
 
 ## A Form from School
 
-### Scene 1: A Form from School
+### Part 1: A Form from School & The Talk
 
 **Date:** 2000-04-15 at 15:00 America/New_York
+
+#### 3:00 PM — A Form from School
 
 It was nearing the end of their freshman year, Spring 2000. Luna and Leo, now 15, came home from school one afternoon clutching identical forms. Luna handed hers to Stella wordlessly, while Leo held his out with a questioning look. Stella glanced at the heading: "Family Life Education / Sex Education - Parental Notification and Opt-Out Form."
 
@@ -1287,9 +1299,9 @@ Luna looked uncertain, glancing at Leo. Leo, after a moment's thought, typed on 
 
 There were no strong objections, just a quiet acceptance mixed with perhaps a touch of adolescent embarrassment and curiosity. Stella didn't sign the forms, and a few weeks later, Luna and Leo attended their first sex-segregated health classes, finally getting the factual, age-appropriate information about puberty, reproduction, consent, and safety that their parents had denied them. It was another quiet step forward under Stella's care.
 
-### Scene 2: The Talk
+***
 
-**Date:** 2000-04-15 at 16:00 America/New_York
+#### 4:00 PM — The Talk
 
 The dishes from dinner were cleared, and a comfortable quiet settled over the living room. Luna was reading on the sofa, while Leo was beside her, perhaps looking through a magazine or focused on the portable CD player Stella had given them earlier. Stella took a deep breath, knowing this conversation was long overdue, thanks to years of parental neglect. She sat down in the armchair facing them, her expression gentle but serious.
 
@@ -1383,7 +1395,7 @@ Luna met Stella's gaze and nodded, a look of quiet relief mixed with the dawning
 
 She knew this wasn't a one-time conversation, but a beginning. She had opened the door their parents had kept firmly shut, offering honesty and support where there had only been silence and neglect, and providing factual grounding to the confusing fragments of slang and unnamed realities they'd inevitably encountered.
 
-### Scene 3: Mary is Snubbed
+### Part 2: Mary is Snubbed
 
 **Date:** 2000-04-15 at 17:00 America/New_York
 
@@ -1419,7 +1431,7 @@ Mr. Henderson turned to Leo, his expression softening with concern. "You okay, s
 
 "Alright," Mr. Henderson nodded. "Let's get you back that way." He took hold of Leo's handles and began wheeling him gently away from the secluded science wing, back towards the safety of the main corridor and, hopefully, Luna. Leo leaned back in his chair, immensely grateful for the custodian who had seen, understood, and believed his silent "No."
 
-### Scene 4: Kevin is Snubbed
+### Part 3: Kevin is Snubbed
 
 **Date:** 2000-04-15 at 18:00 America/New_York
 
@@ -1585,9 +1597,11 @@ The assembly concluded with Officer Whitehead urging them to make smart choices,
 
 ## The Porter Morning Machine
 
-### Scene 1: The Porter Morning Machine
+### Part 1: The Porter Morning Machine & The Unwritten Rules
 
 **Date:** 2000-09-05 at 07:00 America/New_York
+
+#### 7:00 AM — The Porter Morning Machine
 
 The alarm clock on Stella’s bedside table buzzed, a rude interruption to the quiet peace of Stella's house. Stella Porter, now twenty-one and entering her second full year as legal guardian to her twin siblings, hit the snooze button with a practiced slap. She didn't need the extra nine minutes to sleep; she needed them to mentally run the checklist.
 
@@ -1688,9 +1702,9 @@ Leo tapped his screen, a small grin on his face. <aac>Maybe she will win the lot
 
 They turned and headed toward the double doors, two halves of a whole ready to face the world, leaving the problem of the cramped car for another afternoon.
 
-### Scene 2: The Stand-Off
+***
 
-**Date:** 2000-09-05 at 09:00 America/New_York
+#### 9:00 AM — The Stand-Off
 
 The drop-off loop was a chaotic snarl of exhaust fumes and brake lights. Stella maneuvered the blue Horizon Avalon to the curb, the small sedan dwarfed by the line of SUVs.
 
@@ -1757,9 +1771,9 @@ Leo looked up, the tension leaving his shoulders. He released his brakes immedia
 
 They merged back into the flow of students, side-by-side. This was their ritual. For the next ten minutes, the architectural hostility of the building and the rigid rules of the clinic didn't matter. They were together, and the school day could officially begin.
 
-### Scene 3: The Unwritten Rules
+***
 
-**Date:** 2000-09-05 at 12:00 America/New_York
+#### 12:00 PM — The Unwritten Rules
 
 The shrill blast of Coach Miller’s whistle signaled the end of the period. "Hit the showers! hustle up!"
 
@@ -1836,9 +1850,11 @@ Mr. Peters, oblivious to the high-stakes diplomacy occurring by the vending mach
 
 As the clinic door closed behind him, Leo prepared for the indignity of the clinic changing routine, his mind already shifting gears. Next stop: the Band Room, where he would be the master of his own rhythm on the xylophone. Luna, meanwhile, was heading upstairs to Algebra II, ready to tackle equations and dream of the moment they would be reunited at lunch.
 
-### Scene 4: Parallel Lines
+### Part 2: Parallel Lines & The Sanctuary of the Stacks
 
 **Date:** 2000-09-05 at 06:00 America/New_York
+
+#### 6:00 AM — Parallel Lines
 
 The bell for the start of second period rang, a shrill, dividing line that officially separated the twins for the next ninety minutes.
 
@@ -1910,9 +1926,9 @@ She opened her binder and looked at the photo taped to the inside cover. It was 
 
 She turned the page of her workbook, solved three more quadratic equations in thirty seconds, and waited for the bell that would signal their reunion.
 
-### Scene 5: Dead Language, Live Connection
+***
 
-**Date:** 2000-09-05 at 08:00 America/New_York
+#### 8:00 AM — Dead Language, Live Connection
 
 The bell rang, ending Second Period.
 
@@ -1980,9 +1996,9 @@ Leo typed a quick reply just for her, grinning. <aac>Logic.</aac>
 
 For the next fifty minutes, there was no separation, no "liability" concerns, and no architectural barriers. In Room 104, they were just two smart kids learning an ancient language, together.
 
-### Scene 6: The Cafeteria Court
+***
 
-**Date:** 2000-09-05 at 10:00 America/New_York
+#### 10:00 AM — The Cafeteria Court
 
 The bell rang, ending Third Period Latin.
 
@@ -2085,9 +2101,9 @@ Leo tapped his screen as they rolled past the scene of the crime, his face light
 
 "It sure does, Leo," Luna laughed. "It sure does."
 
-### Scene 7: The Sanctuary of the Stacks
+***
 
-**Date:** 2000-09-05 at 11:00 America/New_York
+#### 11:00 AM — The Sanctuary of the Stacks
 
 With Josh Riley banished to the grease traps and order restored to the serving line, the flow of students resumed. Luna and Leo made their way through the line.
 
@@ -2157,7 +2173,7 @@ Luna grinned behind her hand. "She keeps the chaos out. She's like a force field
 
 For the next forty-five minutes, while the rest of the school swirled in chaotic social currents outside the glass, the twins sat in the silence of the stacks, protected by the terrifying, benevolent power of the librarian.
 
-### Scene 8: The Getaway Driver
+### Part 3: The Getaway Driver
 
 **Date:** 2000-09-05 at 13:00 America/New_York
 
@@ -2246,9 +2262,11 @@ Sophomore year had officially begun.
 
 ## Online Reconnaissance
 
-### Scene 1: Online Reconnaissance
+### Online Reconnaissance & Built Holt Tough
 
 **Date:** 2000-10-14 at 10:00 America/New_York
+
+#### 10:00 AM — Online Reconnaissance
 
 The decision was made: the trusty old blue Avalon, purchased before Stella became the twins' guardian, just wasn't cutting it anymore. Transporting two growing teenagers, one of whom used a wheelchair, required something bigger, sturdier, and more accessible. Knowing Stella needed help navigating the daunting process of buying a new car, her grandfather, Arthur Bennett, had readily offered his assistance, funded by the trust established for the twins.
 
@@ -2286,9 +2304,9 @@ After an hour of online research, comparing specs, and looking at grainy photos,
 
 "Sounds like a plan," Arthur said, clapping his hands together. "Remember the strategy. Let's go kick some tires in person. We'll start with the Olympus dealer and see if they know how to treat a cash buyer."
 
-### Scene 2: Olympus No Go
+***
 
-**Date:** 2000-10-14 at 12:00 America/New_York
+#### 12:00 PM — Olympus No Go
 
 Stella and her grandfather stood looking at a new Olympus Regent. It was comfortable, roomy, and seemed potentially suitable. The doors opened wide, and the seat height looked manageable for Leo. A salesman quickly approached, launching into a practiced spiel about the Regent's smooth ride and luxury features.
 
@@ -2304,9 +2322,9 @@ Flustered by the mention of owning a dealership, the salesman went to get his ma
 
 After ten minutes of polite but firm refusal from Arthur met with evasive answers about the cash price, Arthur stood up. "Thank you for your time," he said calmly. "Stella, let's go. They seem more interested in selling loans than cars today. Poor training." They walked out, leaving the manager sputtering about missed opportunities.
 
-### Scene 3: Like a Rock? No, Like a Financing Offer
+***
 
-**Date:** 2000-10-14 at 13:00 America/New_York
+#### 1:00 PM — Like a Rock? No, Like a Financing Offer
 
 Their next stop was the Summit dealer. They looked over a new Gazelle – decent size, seemed practical. Again, a salesperson approached, and again, the conversation immediately pivoted to financing options and "attractive monthly payments."
 
@@ -2318,9 +2336,9 @@ The salesperson looked almost confused. "But sir, our financing rates are excell
 
 After another brief, fruitless exchange where the salesperson seemed unable or unwilling to discuss a simple cash transaction without trying to loop in financing, Arthur sighed and shook his head. "Unbelievable. Two in a row. Come on, Stella. One more stop." He guided a slightly discouraged Stella back out to their car.
 
-### Scene 4: Lunch Break
+***
 
-**Date:** 2000-10-14 at 13:30 America/New_York
+#### 1:30 PM — Lunch Break
 
 "Alright," Arthur said, clapping Stella gently on the shoulder as they got back into his car. "I think we both need a break and some lunch before we try the Holt place. My treat."
 
@@ -2332,9 +2350,9 @@ He took a sip of his iced tea. "It's why my place did so well," he added with qu
 
 He smiled. "Don't get discouraged. We know what you need for Luna and Leo. That **Sent looked** promising from the specs. Let's get some food in us, then we'll go talk to the Holt folks. Third time's the charm, right?" His confidence, born of years running a successful, customer-focused dealership, was reassuring.
 
-### Scene 5: Built Holt Tough
+***
 
-**Date:** 2000-10-14 at 11:00 America/New_York
+#### 11:00 AM — Built Holt Tough
 
 Refreshed from lunch and armed with her grandfather's insights, Stella felt more prepared as they walked into the Holt dealership. Her eyes immediately scanned the showroom floor, and then she saw it. A **Sentinel LS**, exactly the model they'd discussed, roomy and practical-looking. And the color – a perfect Starry Night Blue Metallic. Stella let out a small sigh of relief. It was the first car they'd seen all day in a shade of blue she actually liked and that met the practical needs for the twins. *Please let this one work out,* she thought fervently.
 
@@ -2382,9 +2400,11 @@ Stella nodded, absorbing the piece of automotive history from someone who'd trul
 
 ## Showing Off the New Car
 
-### Scene 1: Showing Off the New Car
+### Showing Off the New Car & Range of Motion
 
 **Date:** 2000-10-14 at 15:00 America/New_York
+
+#### October 14, 2000 • 3:00 PM — Showing Off the New Car
 
 Stella gripped the steering wheel of the Holt Sentinel, feeling the difference immediately. Compared to her trusty old blue Avalon, this car felt substantial, solid, almost boat-like on the road, but in a reassuring way. The V8 engine under the hood purred quietly at cruising speed but offered a satisfying surge of power when she needed to merge onto the highway heading back towards her neighborhood. She glanced in the rearview mirror, seeing her grandfather's car following steadily behind. Getting used to the controls – the position of the blinker, the feel of the brakes, the layout of the dashboard with its new AM/FM/CD player – took focus, but by the time she turned onto her own street, she was starting to feel comfortable.
 
@@ -2416,9 +2436,9 @@ Stella laughed, feeling the stress of the day melt away in the face of their exc
 
 A few minutes later, Stella carefully helped Leo transfer into the front passenger seat of the Sent– already noticeably easier than it had been with the Avalon – while Luna climbed excitedly into the spacious back seat. With a final wave to her grandparents, Stella started the engine, backed the big blue sedan out of the driveway, and headed off towards a nearby restaurant, the twins chattering happily beside and behind her, ready for dinner and their first real ride in the new family car.
 
-### Scene 2: First Official Trip
+***
 
-**Date:** 2000-10-14 at 17:00 America/New_York
+#### October 14, 2000 • 5:00 PM — First Official Trip
 
 Stella navigated the now-familiar blue Sentinel into the bustling parking lot of the shopping center that housed one of their favorite casual restaurants. The twins were still buzzing with excitement about the new car. Behind them, Stella could see her grandparents' car following. She found a good parking spot near the restaurant entrance, pulling in carefully.
 
@@ -2452,9 +2472,9 @@ Grandma sighed deeply, a complex mix of sadness for her daughter and relief for 
 
 The incident cast a brief shadow, a reminder of the boundaries they needed, but they wouldn't let it ruin their first outing in the new car. They got out, helped Leo transfer into his chair, and headed into the restaurant together, determined to enjoy their evening. The restraining order, and their mother's fear of it, had done its job.
 
-### Scene 3: The Narc Special
+***
 
-**Date:** 2000-10-16 at 07:10 America/New_York
+#### October 16, 2000 • 7:10 AM — The Narc Special
 
 The following Monday morning, the reality of Stella’s purchase hit the Northwood High drop-off loop with the subtlety of a sledgehammer.
 
@@ -2498,9 +2518,9 @@ She got back into the driver’s seat, the heavy door sealing her in. As she pul
 
 "Great," Luna sighed, grabbing the handles of his wheelchair. "Two more years of this. Come on, Officer Leo. Let's get to class."
 
-### Scene 4: The Clinic Hand-Off
+***
 
-**Date:** 2000-10-16 at 07:15 America/New_York
+#### October 16, 2000 • 7:15 AM — The Clinic Hand-Off
 
 The interior of Northwood High School smelled of floor wax and teenage anxiety. Built in 1992, the building was technically compliant with the federal laws of the time—there was an elevator in the academic wing, and the doors were wide enough for a wheelchair—but it was designed for a world that still preferred to keep students like Leo slightly separate.
 
@@ -2546,9 +2566,9 @@ Luna stood there for a moment, staring at the wood grain, listening to the muffl
 
 She hoisted her backpack higher on her shoulder, the weight feeling heavier without the counterbalance of the wheelchair. She turned and walked solo toward the girls' locker room, her limp slightly more pronounced as the stress tightened her own muscles. She needed to hurry. Every minute they were separated was a minute the world felt slightly off its axis.
 
-### Scene 5: Range of Motion
+***
 
-**Date:** 2000-10-16 at 07:22 America/New_York
+#### October 16, 2000 • 7:22 AM — Range of Motion
 
 Luna finished adjusting the waistband of her black athletic shorts and tugged at her comfortable, oversized grey cotton tee. Relieved to be done with the frantic change-out, she grabbed her water bottle and headed for the exit.
 
@@ -2616,9 +2636,11 @@ For the next forty-five minutes, the architectural hostility of the building, th
 
 ## Difficult News
 
-### Scene 1: Difficult News
+### Difficult News & The Final Phone Call
 
 **Date:** 2000-10-20 at 16:00 America/New_York
+
+#### 4:00 PM — Difficult News
 
 It was a Friday afternoon, the air buzzing slightly with the anticipation of the evening's home football game and halftime performance. Stella was making an early dinner, while Luna and Leo were likely running through music mentally or relaxing before the pre-game rush. Her maternal grandparents had stopped by for a visit, wanting to see the twins and wish them luck before heading to the stadium later themselves. Stella poured them coffee at the kitchen table.
 
@@ -2646,9 +2668,9 @@ Her grandfather reached over and squeezed her hand. "We understand, Stella. Comp
 
 Stella gave them a small, grateful smile. It was sad news, the end of a difficult chapter finally approaching, but her path forward, alongside Luna and Leo, remained clear. There would be no deathbed reconciliations built on denial. Their life was here now, built on truth and mutual support.
 
-### Scene 2: The Final Phone Call
+***
 
-**Date:** 2000-10-20 at 17:00 America/New_York
+#### 5:00 PM — The Final Phone Call
 
 The phone call came on a Tuesday evening. Stella answered, recognizing her grandmother's number.
 
@@ -2684,9 +2706,11 @@ They both nodded, turning back to their computers, the quiet click-clack resumin
 
 ## Turnpike Wonders
 
-### Scene 1: Turnpike Wonders
+### Part 1: Turnpike Wonders & A Colossal Good Distraction
 
 **Date:** 2001-04-09 at 12:00 America/New_York
+
+#### 12:00 PM — Turnpike Wonders
 
 Spring Break of the twins’ sophomore year (April 2001) arrived, bringing with it the promise of their first real vacation since Stella had become their guardian. It was also the first long road trip for Stella's Holt Sentinel. Packed comfortably into the spacious blue sedan were Stella, Luna, and Leo. Following close behind in Arthur’s own comfortable car were Arthur and Eleanor Bennett. Their destination: Aquidneck Island, Rhode Island – a trip back to the grandparents' old stomping grounds.
 
@@ -2734,9 +2758,9 @@ Almost immediately, Arthur's voice came over the walkie-talkie. "Stay left, Stel
 
 "Okay, got it!" Stella replied, relieved she'd been prepared. She steered the Sentinel into the designated "Cars Only" lanes, another novel feature of this northern superhighway duly noted as they continued their journey north, following Arthur's carefully planned route to bypass the city bottleneck and southern Connecticut congestion.
 
-### Scene 2: Mystic Stopover
+***
 
-**Date:** 2001-04-09 at 18:00 America/New_York
+#### 6:00 PM — Mystic Stopover
 
 The Sentinel proved its worth on the rest of the long drive north, navigating the Garden State Parkway, the Thruway, the Tappan Zee, I-287, and the scenic but sometimes narrow Merritt Parkway before connecting via US-7 South back to I-95. While Mystic, Connecticut wasn't quite the halfway point (that would’ve been New Jersey), Arthur had suggested an overnight stop there for a specific reason. 
 
@@ -2746,7 +2770,9 @@ Stella readily agreed, knowing the twins would enjoy the marine center and appre
 
 They got Leo settled into the room, stretching their legs after the long hours on the road. The twins were buzzing with the anticipation of seeing the beluga whales the next morning, making the motel stay feel like a mini-vacation before they even reached their final destination.
 
-### Scene 3: The Newport Expressway
+***
+
+#### The Newport Expressway
 
 Refreshed from their aquarium visit, the convoy merged back onto I-95 North, crossing the border into Rhode Island. The trees seemed to get a little denser, the air a little saltier.
 
@@ -2808,7 +2834,9 @@ Stella carefully executed the turns. "Okay, on East Main."
 
 "Alright," Arthur's voice turned quieter. "Just up here on the right... number 71. That's... that was it."
 
-### Scene 4: Ghosts of Keystone Motors of Middletown
+***
+
+#### Ghosts of Keystone Motors of Middletown
 
 Stella slowed the car, pulling towards the shoulder. Luna and Leo looked. Where the iconic "Keystone Motors of Middletown" sign should have been, there was nothing but an empty facade. The building itself looked vacant, undergoing renovation. The large showroom windows were dark or papered over. The sprawling lot where rows of new Holts once gleamed sat empty, save for a few construction vehicles. It wasn't just that Keystone Motors of Middletown was gone – the national chain that bought it, the one that had abandoned Arthur's customer service principles, was gone too. It wasn't even a Holt dealership anymore.
 
@@ -2820,7 +2848,9 @@ After a long moment, Arthur’s voice, heavy with resignation, came back. "Well.
 
 He didn't say anything more as Stella sat there for another moment, the ghost of "There’s only one choice: Keystone Motors!" seeming to hang silently in the air, soon to be replaced by the promise of weekly grocery specials. The sight was a stark confirmation of his fears realized – the legacy he built, sold, and then saw decline into corporate greed had now vanished entirely, making way for something utterly unrelated.
 
-### Scene 5: A Colossal Good Distraction
+***
+
+#### A Colossal Good Distraction
 
 "Okay, Stella," Arthur's voice came back, shaking off the melancholy. "Let's turn around here when it's safe. We'll head back and make a left onto West Main Road, heading south again."
 
@@ -2858,7 +2888,7 @@ Luna and Leo exchanged puzzled glances. "Colossal Cooler?" Luna repeated hesitan
 
 He gestured enthusiastically towards the counter, eager to share this piece of local flavor, a sweet counterpoint to the bittersweet taste of memory lane. Stella smiled, grateful for the shift in mood, and ushered the twins towards the counter, ready for their Colossal Cooler initiation.
 
-### Scene 6: The Jingle and the Mansions
+### Part 2: The Jingle and the Mansions
 
 As they finished the last delicious, icy sips of their Colossal Coolers back at the booth, Luna spoke up, voicing the question that had been lingering since the worker's comment. "Grandpa," she asked, "that man... and you at the dealership earlier... you both mentioned that jingle, 'There’s only one choice: Keystone Motors!'. What did it sound like?" Leo nodded eagerly, and even Stella leaned forward, curious to finally hear the tune her grandfather was so known for.
 
@@ -2910,9 +2940,11 @@ Stella almost laughed, exchanging an amazed glance with Luna in the rearview mir
 
 ## Programming the AAC
 
-### Scene 1: Coastal Wonders Marine Center
+### Coastal Wonders Marine Center & The Jingle and the Mansions
 
 **Date:** 2001-04-10 at 10:00 America/New_York
+
+#### 10:00 AM — Coastal Wonders Marine Center
 
 They woke refreshed the next morning, grabbed a quick motel breakfast, and headed straight to the Coastal Wonders Marine Center just down the road. Navigating the parking lot and entrance with Leo's wheelchair was straightforward, and the accessible design of the facility made getting around easy. The smell of saltwater hit them the moment they stepped through the gates, carrying the distant, barking sounds of sea lions.
 
@@ -2924,9 +2956,9 @@ Stella found herself just as enthralled, leaning against the railing next to Lun
 
 After a couple of enjoyable hours exploring the exhibits, grabbing a quick souvenir, and watching the sea lion demonstration, they headed back to the cars, the Sentinel easily accommodating Leo's chair in the trunk once more as they prepared for the final leg of their journey.
 
-### Scene 2: The Newport Expressway
+***
 
-**Date:** 2001-04-10 at 13:00 America/New_York
+#### 1:00 PM — The Newport Expressway
 
 Refreshed from their aquarium visit, the convoy merged back onto I-95 North, crossing the border into Rhode Island. The trees seemed to get a little denser, the air a little saltier.
 
@@ -2988,9 +3020,9 @@ Stella carefully executed the turns. "Okay, on East Main."
 
 "Alright," Arthur's voice turned quieter. "Just up here on the right... number 71. That's... that was it."
 
-### Scene 3: Ghosts of Keystone Motors of Middletown
+***
 
-**Date:** 2001-04-10 at 13:30 America/New_York
+#### 1:30 PM — Ghosts of Keystone Motors of Middletown
 
 Stella slowed the car, pulling towards the shoulder. Luna and Leo looked. Where the iconic "Keystone Motors of Middletown" sign should have been, there was nothing but an empty facade. The building itself looked vacant, undergoing renovation. The large showroom windows were dark or papered over. The sprawling lot where rows of new Holts once gleamed sat empty, save for a few construction vehicles. It wasn't just that Keystone Motors of Middletown was gone – the national chain that bought it, the one that had abandoned Arthur's customer service principles, was gone too. It wasn't even a Holt dealership anymore.
 
@@ -3002,9 +3034,9 @@ After a long moment, Arthur’s voice, heavy with resignation, came back. "Well.
 
 He didn't say anything more as Stella sat there for another moment, the ghost of "There’s only one choice: Keystone Motors!" seeming to hang silently in the air, soon to be replaced by the promise of weekly grocery specials. The sight was a stark confirmation of his fears realized – the legacy he built, sold, and then saw decline into corporate greed had now vanished entirely, making way for something utterly unrelated.
 
-### Scene 4: A Colossal Good Distraction
+***
 
-**Date:** 2001-04-10 at 13:00 America/New_York
+#### 1:00 PM — A Colossal Good Distraction
 
 "Okay, Stella," Arthur's voice came back, shaking off the melancholy. "Let's turn around here when it's safe. We'll head back and make a left onto West Main Road, heading south again."
 
@@ -3042,9 +3074,9 @@ Luna and Leo exchanged puzzled glances. "Colossal Cooler?" Luna repeated hesitan
 
 He gestured enthusiastically towards the counter, eager to share this piece of local flavor, a sweet counterpoint to the bittersweet taste of memory lane. Stella smiled, grateful for the shift in mood, and ushered the twins towards the counter, ready for their Colossal Cooler initiation.
 
-### Scene 5: The Jingle and the Mansions
+***
 
-**Date:** 2001-04-10 at 15:00 America/New_York
+#### 3:00 PM — The Jingle and the Mansions
 
 As they finished the last delicious, icy sips of their Colossal Coolers back at the booth, Luna spoke up, voicing the question that had been lingering since the worker's comment. "Grandpa," she asked, "that man... and you at the dealership earlier... you both mentioned that jingle, 'There’s only one choice: Keystone Motors!'. What did it sound like?" Leo nodded eagerly, and even Stella leaned forward, curious to finally hear the tune her grandfather was so known for.
 
@@ -3098,7 +3130,7 @@ Stella almost laughed, exchanging an amazed glance with Luna in the rearview mir
 
 ## A Rainy Saturday Session
 
-### Scene 1: A Rainy Saturday Session
+### Part 1: A Rainy Saturday Session
 
 **Date:** 2001-11-10 at 14:00 America/New_York
 
@@ -3114,7 +3146,7 @@ Leo held the album cover in his hands. It was **Fractured Prisms'** 1983 album, 
 
 She placed it on the platter and lowered the needle. The crackle of vinyl gave way to the music.
 
-### Scene 2: The True Light
+### Part 2: The True Light
 
 **Date:** 2001-11-10 at 15:00 America/New_York
 
@@ -3136,7 +3168,7 @@ Then came the chorus, swelling with harmonies as Rhys's sister, **Claire Manning
 
 Leo tapped his hand on his knee in time with the beat. He liked the concept of the "true light." It felt safe.
 
-### Scene 3: The Signal
+### Part 3: The Signal
 
 **Date:** 2001-11-10 at 16:00 America/New_York
 
@@ -3194,9 +3226,11 @@ The song played on, the distinctive flute melody returning one last time in the 
 
 ## The Rental Agreement
 
-### Scene 1: The Rental Agreement
+### The Rental Agreement & The Sterling Standard
 
 **Date:** 2001-09-12 at 16:00 America/New_York
+
+#### 4:00 PM — The Rental Agreement
 
 The air in the Band Room was thick with the smell of valve oil and cork grease. It was the second week of Junior year, and the chaos of marching band season was in full swing.
 
@@ -3228,9 +3262,9 @@ He popped the latches. The silver instrument gleamed against the blue velvet lin
 
 Luna reached out and touched the smooth metal of the headjoint. "Thanks, Mr. T."
 
-### Scene 2: The Embouchure Struggle
+***
 
-**Date:** 2001-09-12 at 18:00 America/New_York
+#### 6:00 PM — The Embouchure Struggle
 
 The living room was quiet. Leo was parked at the **MagnaByte** station, working on a history paper, the rhythmic <aac>clack-clack-clack</aac> of his keyboard providing a steady backbeat.
 
@@ -3292,9 +3326,9 @@ Luna looked at the flute in her hands. It wasn't just a rental instrument anymor
 
 She took a breath and tried to find the B-flat again, the first brick in the fortress of sound she was building for him.
 
-### Scene 3: The One-Month Trial
+***
 
-**Date:** 2001-09-12 at 19:00 America/New_York
+#### 7:00 PM — The One-Month Trial
 
 The month of October was a noisy one in the Porter household.
 
@@ -3342,9 +3376,9 @@ Luna blinked. "Why? Where are we going?"
 
 "I know," Stella smiled, spinning the keys to the **Holt Sentinel** on her finger. "But we don't rent in this family, Lu. If you're going to play, you're going to play on something that belongs to you. We're going to buy one."
 
-### Scene 4: Silver and Ownership
+***
 
-**Date:** 2001-09-12 at 15:00 America/New_York
+#### 3:00 PM — Silver and Ownership
 
 The bell above the door chimed as the fortress entered the music store. It was the same shop where they had bought the saxophone and the xylophone years ago. The smell of brass polish and sheet music was familiar and comforting.
 
@@ -3414,9 +3448,9 @@ In the back seat, Leo smiled. He tapped a message, though he didn't play it out 
 
 Luna nodded, clutching the bag tight. The fortress had a new voice—a professional, solid silver voice—and this time, they owned it free and clear.
 
-### Scene 5: The Sterling Standard
+***
 
-**Date:** 2001-09-12 at 17:00 America/New_York
+#### 5:00 PM — The Sterling Standard
 
 Monday Morning Northwood High School Band Room
 
@@ -3482,9 +3516,11 @@ Mr. Panoff shook his head, smiling. "Your sister doesn't mess around, does she?"
 
 ## An Unseen Ally
 
-### Scene 1: An Unseen Ally
+### Part 1: An Unseen Ally & A Grateful Introduction
 
 **Date:** 2002-09-15 at 11:00 America/New_York
+
+#### 11:00 AM — An Unseen Ally
 
 ![Olivia meeting Leo at the entrance of Northwood High School]({{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-northwood-high-entrance.jpg#fullwidth)
 
@@ -3535,9 +3571,9 @@ They found their usual accessible seating in the auditorium. A few minutes later
 
 Luna settled beside Leo, a new thought forming: *I wonder who that girl was?* The seed of a potential ally, someone who understood without needing explanation, had been unexpectedly planted, just before the start of the third-period assembly.
 
-### Scene 2: College and Elections Assembly
+***
 
-**Date:** 2002-09-15 at 12:00 America/New_York
+#### 12:00 PM — College and Elections Assembly
 
 The Northwood High auditorium buzzed with the restless energy of seniors corralled into yet another mandatory assembly during third period. It was late October 2002, a crisp autumn Purple Day, and the topic – how to register to vote for the upcoming November elections and the daunting process of college application submission – felt weighty and a bit overwhelming to many. An illuminated red EXIT sign glowed above a side door, not far from where Luna and Leo Porter found their usual accessible seating. Luna's backpack rested on the floor beside her.
 
@@ -3577,9 +3613,9 @@ Leo, who had overheard Ms. Davison’s words, saw the trio being escorted out. H
 
 As the assembly finally droned to its conclusion with information about local polling places and early voting options, and students began to shuffle out, Leo glanced at Luna again. There was a new, unspoken awareness between them. That small, hummed melody had been more than just notes; it had been a bridge across his distress, a silent, powerful affirmation of their immediate bond in that difficult moment. He felt a sense of gratitude not only for Luna, but also for the quiet intervention of the girl a few rows ahead who had clearly seen his distress and decided to act.
 
-### Scene 3: A Grateful Introduction
+***
 
-**Date:** 2002-09-15 at 13:00 America/New_York
+#### 1:00 PM — A Grateful Introduction
 
 The voter registration and college application assembly concluded, and the auditorium slowly began to empty. Third period was nearly over. For many seniors, including Luna, Leo, and Olivia Walker, this meant their lunch period was next, fourth period, but the cafeteria wouldn't open for another few minutes. Students milled about in the main school lobby outside the auditorium, waiting for the bell.
 
@@ -3623,7 +3659,7 @@ Luna turned to Leo. "Okay, decompression time for real now." She took the handle
 
 Leo nodded, a thoughtful, almost peaceful expression settling on his face. YES. AWESOME, he typed as they made their way to the office to sign out. The encounter with Josh had been awful, but the unexpected kindness and support from Olivia had started to soothe the raw edges. That gentle, platonic hug, a simple gesture of human connection from a peer who saw him and stood up for him, felt like it might, just might, mean something truly good. He was still looking forward to the quiet of home, but the world inside Northwood High suddenly felt a little less hostile, a little more hopeful, thanks to Olivia Walker.
 
-### Scene 4: Cafeteria Connection, Contact Exchange, and a Vile Misinterpretation
+### Part 2: Cafeteria Connection, Contact Exchange, and a Vile Misinterpretation
 
 **Date:** 2002-09-15 at 10:00 America/New_York
 
@@ -3697,9 +3733,11 @@ A few minutes later, they were in Luna’s slightly battered but reliable sedan.
 
 ## An Afternoon Visit and Gathering Clouds
 
-### Scene 1: An Afternoon Visit and Gathering Clouds
+### Part 1: An Afternoon Visit and Gathering Clouds & Morning Calm and Sisterly Smiles
 
 **Date:** 2002-09-18 at 16:00 America/New_York
+
+#### 4:00 PM — An Afternoon Visit and Gathering Clouds
 
 It was a brisk Friday afternoon in mid-November 2002, the end of a long school week for Leo Porter and Olivia Walker. As was often their custom during their senior year at Northwood High, Olivia had come home with Leo and Luna to the Porter house at Stella's House, Virginia Beach. Their friendship, which had blossomed after Olivia had courageously defended Leo against Josh Riley's bullying earlier in the year, had quickly deepened into a bond of "practically inseparable" best friends. They were currently immersed in a joint presentation for their American Government class, a common focus for their after-school time together.
 
@@ -3711,9 +3749,9 @@ Leo, sensitive to shifts in atmosphere and already tensing at the first distant,
 
 Olivia, noticing his unease, began to gather her scattered books and papers. "I should probably think about heading home soon," she said, though a note of reluctance was in her voice. She lived just a few houses away, an easy walk under normal circumstances. "Don't want to get caught in whatever that turns into."
 
-### Scene 2: An Invitation in the Storm – And Stella's Call
+***
 
-**Date:** 2002-09-18 at 18:00 America/New_York
+#### 6:00 PM — An Invitation in the Storm – And Stella's Call
 
 Just as Olivia finished her sentence, a much louder, more definitive clap of thunder echoed, this one feeling significantly closer, making both of them jump. Simultaneously, the heavens opened, and rain began to fall in earnest, quickly escalating to a torrential downpour that lashed against the windows with a sudden, fierce intensity. Leo flinched visibly, his focus on their government project completely shattered. Thunderstorms, especially powerful ones that arrived with such ferocity and particularly as night approached, were a well-known and significant trigger for his anxiety.
 
@@ -3737,9 +3775,9 @@ Luna beamed, despite the storm. "Yes! Olivia’s first official Porter sleepover
 
 Leo looked from Stella’s reassuring face to Olivia’s, a mixture of profound relief that Olivia would be staying (especially with the storm escalating his anxiety) and his ever-present storm-induced fear churning within him. He typed on his communicator: <aac>Thank you, stella. Olivia, really glad you are staying. Much safer here with us.</aac>
 
-### Scene 3: Weathering the Storm – A Best Friend's Comfort
+***
 
-**Date:** 2002-09-18 at 21:00 America/New_York
+#### 9:00 PM — Weathering the Storm – A Best Friend's Comfort
 
 Stella, true to her word, whipped up a comforting dinner of pasta with a simple sauce, the normalcy of the task a small anchor against the storm’s fury. They ate in the living room, the television providing a low murmur of distraction, though Leo mostly picked at his food, his gaze frequently darting towards the windows as lightning illuminated the room in stark, unsettling flashes, followed by window-rattling cracks of thunder.
 
@@ -3773,9 +3811,9 @@ Slowly, very slowly, wrapped in Olivia Walker's warm, platonic embrace, feeling 
 
 He wasn't alone with his terror. Olivia was there, a calm, loving presence, proving once again why their friendship was such a precious, irreplaceable part of his life. He eventually drifted into an exhausted but peaceful sleep, still held securely in Olivia’s platonic embrace, the storm outside no match for the quiet strength and profound comfort of their extraordinary friendship. And Olivia, too, after ensuring Leo was truly, deeply asleep and the worst of the storm seemed to be moving off, would eventually succumb to her own weariness, her protective arm still around him, having been his steadfast, safe harbor in their first shared storm.
 
-### Scene 4: Morning Calm and Sisterly Smiles
+***
 
-**Date:** 2002-09-18 at 15:00 America/New_York
+#### 3:00 PM — Morning Calm and Sisterly Smiles
 
 The first light of Saturday morning filtered softly through the blinds of Leo’s bedroom, painting gentle stripes across the room. The ferocious thunderstorm had finally passed, leaving behind a world washed clean, the air fresh and cool.
 
@@ -3809,9 +3847,11 @@ There was no need for lengthy explanations or justifications from Leo or Olivia.
 
 As Stella began to mix pancake batter, the conversation turning to school, the lingering evidence of the storm outside, or plans for the rest of the quiet Saturday, Leo and Olivia Walker felt a shared, pleasant surprise. Their slight morning-after apprehension had been met not with scrutiny, but with the unwavering warmth, trust, and acceptance that defined the Porter household. It was another quiet affirmation of the unique and special place Olivia Walker held within their family circle.
 
-### Scene 5: Saturday Respite and a Planned Weekend Stay
+### Part 2: Saturday Respite and a Planned Weekend Stay & A Sunday Well Spent
 
 **Date:** 2002-09-18 at 17:00 America/New_York
+
+#### 5:00 PM — Saturday Respite and a Planned Weekend Stay
 
 The aroma of Stella’s pancakes soon filled the cozy house at Stella's house, a cheerful counterpoint to the lingering evidence of the previous night’s fierce thunderstorm outside. Gutters overflowed, and the streets of their Virginia Beach neighborhood showed puddles from the deluge, but inside, a sense of calm and comfortable normalcy prevailed. Leo and Olivia Walker, their earlier nervousness about the "morning after" completely dispelled by Stella and Luna’s easy acceptance, joined the sisters at the kitchen table, the atmosphere light and relaxed.
 
@@ -3859,9 +3899,9 @@ The rest of Saturday evening passed with comfortable chatter. When bedtime arriv
 
 He smiled in the darkness. With Olivia beside him, safe and sound for the whole weekend, the world felt right.
 
-### Scene 6: A Sunday of Simple Comforts and Vintage Tech
+***
 
-**Date:** 2002-09-18 at 19:00 America/New_York
+#### 7:00 PM — A Sunday of Simple Comforts and Vintage Tech
 
 Sunday morning at Stella's house dawned with a quiet, settled peace, the previous day’s planned activities—retrieving Olivia Walker’s gear from her house on Livingston Oak Drive, finishing their Government presentation, and the delightfully terrible "Carnival of Cosmic Creeps" movie night—having cemented the easy rhythm of her weekend stay. Olivia and Leo had woken up comfortable and refreshed, their established platonic bed-sharing a source of quiet security for Leo.
 
@@ -3917,9 +3957,9 @@ Just then, Luna came in, having finished helping Stella put away the last of the
 
 Leo grinned and nodded, ready to share more of this cherished part of his world. Olivia settled in, genuinely captivated, as Luna and Leo began to show her the unique capabilities and quirks of their beloved vintage computers, the afternoon filled with the happy clicks of keyboards, the occasional roar of the GraphiPrint, and the easy, comfortable joy of three best friends sharing their world.
 
-### Scene 7: A Sunday Well Spent – Comforts, Chores, and Continued Connection
+***
 
-**Date:** 2002-09-18 at 20:00 America/New_York
+#### 8:00 PM — A Sunday Well Spent – Comforts, Chores, and Continued Connection
 
 The afternoon sun streamed into Leo’s bedroom at Stella's house, illuminating dust motes dancing in the air as Luna, Leo, and Olivia Walker continued their exploration of the vintage MagnaByte Opus computers. Luna, with her growing technical savvy, might have been showing Olivia some of the more advanced features of MagnaDraw or how they organized their notes for different classes in MagnaFile. Leo, energized by Olivia’s genuine interest in this technology so vital to him, eagerly typed out explanations and anecdotes in MagnaWriter, the clicky keys a cheerful counterpoint to their conversation.
 
@@ -3951,7 +3991,7 @@ They settled into Leo’s full-sized bed. They talked quietly for a while longer
 
 He smiled in the darkness. With Olivia beside him, rested and ready for the week, the thought of Monday morning felt manageable. He was safe, he was understood, and his best friend was right there, a constant, comforting presence that made all the difference. The simple comforts of a shared weekend had solidified a friendship that was truly one of a kind.
 
-### Scene 8: A Guardian’s Trust
+### Part 3: A Guardian’s Trust
 
 **Date:** 2002-09-18 at 22:00 America/New_York
 
@@ -3985,7 +4025,7 @@ In the other room, the sound of the MagnaByte GraphiPrint whirring to life, prin
 
 ## A Test of Trust
 
-### Scene 1: A Test of Trust
+### A Test of Trust
 
 **Date:** 2002-09-19 at 16:00 America/New_York
 
@@ -4019,7 +4059,7 @@ Stella slowly lowered the spoon, a tight, protective knot in her chest loosening
 
 ## The Guardian's Blessing
 
-### Scene 1: The Guardian's Blessing
+### The Guardian's Blessing
 
 **Date:** 2002-09-20 at 15:00 America/New_York
 
@@ -4041,9 +4081,11 @@ Stella studied her face for a long moment, searching for any hesitation. Finding
 
 ## A Quiet Evening Promised
 
-### Scene 1: Calculus Tutoring
+### Part 1: Calculus Tutoring & An Unwanted Attempt
 
 **Date:** 2002-09-28 at 12:00 America/New_York
+
+#### 12:00 PM — Calculus Tutoring
 
 Olivia arrived, spotting Leo and heading over with her calculus textbook. "Hey Leo! Sorry if I'm a few minutes late, that club meeting ran over. Ready to tackle Problem Set \#7?"
 
@@ -4093,9 +4135,9 @@ Olivia chuckled. "Consider us your elite social calendar defense team. Now, abou
 
 The moment passed, but Jessica’s confused and clearly exasperated expression lingered in their minds. She clearly hadn't understood the depth of the bonds she had just witnessed, nor the fact that Leo's "unavailability" was not just a polite refusal, but a joyful commitment to people and plans far more important to him. Her resolve to try again was now firmly set, unaware she was competing with plans she couldn't possibly match, and that her next attempt was already being mentally scheduled for the following morning.
 
-### Scene 2: An Unwanted Attempt
+***
 
-**Date:** 2002-09-28 at 14:00 America/New_York
+#### 2:00 PM — An Unwanted Attempt
 
 Leo was reviewing notes on his Quantum Communicator XT, mentally preparing for his first period class. It was a Purple Day. Luna was still on her way, likely having a quick chat with Mr. Panoff in the band room before the bell. Olivia had mentioned she needed to make a quick stop at her locker and then planned to meet him here by the library so they could walk to their first shared class together. He valued these few quiet moments before the rush.
 
@@ -4147,9 +4189,11 @@ Olivia’s heart ached at his vulnerability. She gave his arm a reassuring squee
 
 Leo managed a weak smile. Knowing they were there, understanding his silent signals—Luna explicitly, Olivia now with confirmed understanding—made all the difference. He was still rattled by Jessica's aggressive advance and her terrifying attempt, but their swift intervention had, once again, pulled him back from the edge. The warning bell for first period rang – 7:12 AM. They headed off, a protective phalanx once more, leaving Jessica to stew and Leo to feel the lingering safety of his friends.
 
-### Scene 3: Band Room Practice
+### Part 2: Band Room Practice & Saturday Matinee and a Souring Mood
 
 **Date:** 2002-09-28 at 15:00 America/New_York
+
+#### 3:00 PM — Band Room Practice
 
 The Northwood High band room was quiet in the late afternoon, a Thursday in Spring 2003. It was a welcome lull after the day’s scheduled chaos. Luna Porter stood near a music stand, her flute in hand, the intricate melody of a classical piece chosen for the upcoming spring concert drifting through the room. Her notes were clear and focused as she worked through a challenging passage. An illuminated red EXIT sign glowed above the far door.
 
@@ -4191,9 +4235,9 @@ Leo let out a long, shaky breath, the tension slowly ebbing from his shoulders. 
 
 Luna’s smile was warm and genuine. "Always, Leo," she mouthed back. Olivia reached out and gave his arm a reassuring squeeze. He had named it. Their signal, born from an intuitive hum and now christened by the very act of her playing, finally had a name between them. "Playing the Flute." It felt right.
 
-### Scene 4: Mall Eats and Movie Anticipation
+***
 
-**Date:** 2002-09-28 at 11:00 America/New_York
+#### 11:00 AM — Mall Eats and Movie Anticipation
 
 The reliable Holt Sentinel, Stella at the wheel, pulled smoothly into a parking spot at Thomas Corner Mall. Luna, beside her in the front, was already buzzing about the movie, while Leo, in the back, watched the familiar mall entrance approach with quiet anticipation. Stella had been firm about this outing; a bit of normalcy, a fun afternoon at the movies, was exactly what they all needed.
 
@@ -4215,9 +4259,9 @@ The meal was easy, filled with laughter and the comfortable rhythm of their frie
 
 Gathering their things, the group made their way through the mall towards the cineplex. The posters outside proclaimed <aac>Sold out</aac> in bold red letters beneath the movie title, but Stella just smiled, her pre-purchased tickets a quiet reassurance. The anticipation was high, the promise of shared adventure hanging happily in the air as they prepared to immerse themselves in another world for a few hours.
 
-### Scene 5: Saturday Matinee and a Souring Mood
+***
 
-**Date:** 2002-09-28 at 13:00 America/New_York
+#### 1:00 PM — Saturday Matinee and a Souring Mood
 
 Their meal finished amidst laughter and excited chatter, the remnants of burgers and fries from Golden Star Burgers littering the table. Stella crumpled her napkin. "Alright, movie moguls, time to head to the theater. Don't want to miss the previews!"
 
@@ -4253,9 +4297,11 @@ Luna exchanged a small, almost imperceptible smirk with Leo, who offered a tiny,
 
 ## Calculus Tutoring
 
-### Scene 1: A Quiet Evening Promised
+### Part 1: A Quiet Evening Promised & The Call for Rescue
 
 **Date:** 2002-12-31 at 19:00 America/New_York
+
+#### 7:00 PM — A Quiet Evening Promised
 
 The invitation had come a week before, delivered by Richard Porter during a brief, somewhat stilted phone call to Stella. New Year’s Eve, he’d proposed, could be a quiet family affair at his and Elizabeth’s Virginia Beach home for his seventeen-year-old grandchildren, Luna and Leo. He’d painted a picture of subdued celebration: perhaps a board game or two, some old family movies Stella might remember from her own childhood (though she had few fond memories of such with her own parents), and a selection of special snacks as they all waited to watch the televised ball drop from Times Square. "Just a nice, calm way for them to ring in 2003 with their grandparents," Richard had assured Stella. "Get to know them a bit better, you know. No fuss."
 
@@ -4288,9 +4334,9 @@ Leo and Luna, while still carrying the inherent caution born of their, began to 
 
 ![Olivia and Leo resting comfortably in his bed, watching a movie together]({{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg#fullwidth)
 
-### Scene 2: The Shift – After Stella Leaves
+***
 
-**Date:** 2002-12-31 at 20:30 America/New_York
+#### 8:30 PM — The Shift – After Stella Leaves
 
 For about an hour after Stella’s Holt Sentinel pulled away from the curb, the quiet in Richard and Elizabeth Porter’s Virginia Beach home held. Luna and Leo, both seventeen and navigating the still somewhat unfamiliar territory of their paternal grandparents' company, had politely finished a game of checkers with Richard. Elizabeth had offered them more cookies and another glass of soda, fussing over them in a way that felt slightly performative but not overtly unpleasant. They were just beginning to think that perhaps this New Year’s Eve wouldn't be a complete write-off, that maybe a calm evening watching the television specials was indeed the plan. Leo had even started to relax slightly in his wheelchair, the tension in his shoulders easing as he observed the mundane holiday programming flickering on the screen in the living room.
 
@@ -4306,9 +4352,9 @@ Any pretense of a quiet family evening evaporated. Grandpa Richard, far from try
 
 Grandma Elizabeth, far from intervening, was actually encouraging it. She laughed along with the boisterous teens, refilling bowls of chips, and making no move to question the alcohol being freely distributed and consumed by the underage crowd. She even playfully swatted at a boy who tried to offer her a beer, saying, "Oh, you rascals!" with a dismissive wave, her earlier quiet, grandmotherly persona completely shed. To Luna and Leo, watching in horrified disbelief from their corner of the sofa where they felt increasingly trapped, it was as if their grandparents had undergone a bizarre, Jekyll-and-Hyde transformation the moment Stella was out of sight. The "nice, calm way to ring in the New Year" had become a loud, alcohol-fueled free-for-all, orchestrated by the very adults who were supposed to be ensuring their safety.
 
-### Scene 3: Overload and Observation – The Decision Forms
+***
 
-**Date:** 2002-12-31 at 21:00 America/New_York
+#### 9:00 PM — Overload and Observation – The Decision Forms
 
 For Luna and Leo, the sudden transformation of their paternal grandparents' home from a quiet haven into a pulsating, crowded party was an immediate and overwhelming assault. The thumping bass of the music, cranked to a volume that seemed to vibrate the very walls and floorboards, hammered directly into Leo’s skull, a relentless physical pressure. He instinctively tried to shrink into the corner of the sofa where he and Luna had taken refuge, his hands subtly moving towards his ears, though he knew it would do little to block the invasive sound. The living room, moments before spacious and calm, was now a suffocating crush of unfamiliar teenagers – neighbors they barely knew – shouting over the music, their laughter too loud, their movements erratic and unpredictable. Bright, flashing decorative lights someone had produced and plugged in, perhaps in an attempt to create a “party atmosphere,” pulsed erratically, adding to the visual chaos.
 
@@ -4330,9 +4376,9 @@ But the scene at Richard and Elizabeth Porter's house – the irresponsibility o
 
 In a shared look of misery, revulsion, and absolute resolve, their decision was made, unspoken but profound and unshakeable: *This is horrible. We are NEVER drinking. Not now. Not when we turn 21 with Grandma and Grandpa Bennett. Not ever. Hard Stop.* The party, the noise, the drunkenness, it had all become too much. They had to get out.
 
-### Scene 4: The Call for Rescue
+***
 
-**Date:** 2002-12-31 at 21:30 America/New_York
+#### 9:30 PM — The Call for Rescue
 
 The decision, once made in that silent, shared glance of revulsion between Luna and Leo, was absolute. They had to get out. The thumping bass of the music was a physical assault, vibrating not just the walls but deep within their chests, making coherent thought nearly impossible. The air was thick with the cloying smell of spilled beer, cheap perfume, and teenage sweat. Shouts and shrieks of laughter, amplified by alcohol and the enclosed space, ricocheted around them. For Luna and Leo, both acutely sensitive to sensory input due to their autism, it was a nightmare.
 
@@ -4364,9 +4410,11 @@ Luna glanced around the chaotic kitchen, then back towards the hallway that led 
 
 Together, they squeezed past the teens still raiding the fridge and made their way down the hallway, the thumping bass of the music pursuing them like a physical force. They found a small guest bedroom that seemed momentarily unoccupied, slipped inside, and Luna quickly, gratefully, clicked the lock on the door, finally creating a small, if temporary, island of relative quiet in the overwhelming storm of their grandparents' disastrous New Year's Eve party.
 
-### Scene 5: Extraction and Stella's Quiet Wrath
+### Part 2: Extraction and Stella's Quiet Wrath & A Quiet Countdown, A Noisy Neighborhood
 
 **Date:** 2002-12-31 at 22:00 America/New_York
+
+#### 10:00 PM — Extraction and Stella's Quiet Wrath
 
 The twenty minutes it took Stella to drive from her Virginia Beach house to Richard and Elizabeth Porter’s neighborhood felt like an eternity, her knuckles white on the steering wheel of the Holt Sentinel. The garbled, terrified plea from Luna over the phone, barely audible above the roar of what was clearly an out-of-control party, had sent a jolt of pure adrenaline mixed with icy rage through her. Deception. Endangerment. The sheer, breathtaking irresponsibility of it made her blood boil. She had trusted them, however tentatively, with her seventeen-year-old siblings, based on their promise of a quiet, supervised New Year’s Eve. That trust now felt like a naive folly.
 
@@ -4398,9 +4446,9 @@ Elizabeth, perhaps finally sensing the depth of Stella’s cold fury or the pote
 
 The party noise seemed to swell around them again as they made their exit, a few curious or drunken teenagers turning to watch the quiet drama unfold. Richard and Elizabeth stood speechless for a moment, stunned by Stella's quiet ferocity or finally registering the potential seriousness of hosting an underage drinking party. Stella didn't look back. Her only concern was getting Luna and Leo out, and ensuring this kind of reckless endangerment by these particular relatives would never happen again. The cool night air outside felt like a blessing.
 
-### Scene 6: The Drive Away & A Fitting Finale
+***
 
-**Date:** 2002-12-31 at 22:30 America/New_York
+#### 10:30 PM — The Drive Away & A Fitting Finale
 
 The final hours of December 31, 2002, at Richard and Elizabeth Porter’s Virginia Beach home had devolved into a special kind of nightmare for seventeen-year-old Leo and Luna. The quiet family evening their paternal grandparents had promised to Stella had been a blatant deception. Shortly after Stella’s departure, their grandparents’ house had transformed into a pulsating, out-of-control teenage party, fueled by alcohol Richard Porter himself provided to the underage guests.
 
@@ -4440,9 +4488,9 @@ Luna, leaning forward from the back, added, "And Olivia’s staying over, Leo! P
 
 Leo’s smile, if possible, grew wider. This disastrous New Year’s Eve, which had started with such profound deception and discomfort, was now transforming. The drive away from his paternal grandparents’ house, with Stella at the wheel, Luna’s reassuring presence, and now, the incredible, unexpected gift of Olivia Walker beside him, felt like a truly fitting finale to that awful chapter. The rest of the night, he knew, would be filled with the easy laughter, the comforting companionship, and the deep, platonic trust that defined his friendship with Olivia and his unbreakable bond with his sisters – the perfect, safe, and joyful way to welcome whatever the new year might bring.
 
-### Scene 7: A Quiet Countdown, A Noisy Neighborhood
+***
 
-**Date:** 2002-12-31 at 23:00 America/New_York
+#### 11:00 PM — A Quiet Countdown, A Noisy Neighborhood
 
 The quiet sanctuary of Stella’s accessible house at Stella's House, Virginia Beach, welcomed them like a warm embrace. The moment the front door of the Holt Sentinel closed behind them, sealing out the memory of Richard and Elizabeth Porter’s disastrous party, a collective sigh of profound relief rippled through Stella, Luna, Leo, and Olivia Walker. The chaotic noise, the oppressive atmosphere, the sheer irresponsibility—it all began to recede, replaced by the immediate comfort of safety and trusted company.
 
@@ -4462,7 +4510,7 @@ As midnight approached, the atmosphere grew softer, more reflective. Luna might 
 
 ## Chapter 7: A New Ally
 
-### Scene 1: Happy New Year
+### Happy New Year
 
 **Date:** 2003-01-01 at 00:00 America/New_York
 
@@ -4490,9 +4538,11 @@ He closed his eyes, the familiar, comforting weight of Olivia beside him, her st
 
 ## All Aboard
 
-### Scene 1: All Aboard
+### Part 1: All Aboard & A Necessary Interlude
 
 **Date:** 2003-06-18 at 08:00 America/New_York
+
+#### June 18, 2003 • 8:00 AM — All Aboard
 
 The mid-June morning at Stella's house was buzzing with a nervous, excited energy. Suitcases and backpacks, packed the night before with meticulous care, stood by the front door like soldiers awaiting inspection. The day had finally arrived: the start of their epic, two-month train journey.
 
@@ -4510,9 +4560,9 @@ With a final wave, the "fortress four" boarded the train. Their Business Class s
 
 The conductor's call of "All aboard!" echoed down the platform. With a gentle lurch, the train began to move. They watched Arthur and Eleanor shrink into the distance, waving until the station was out of sight. The grand excursion had officially begun, a journey of discovery tinged with the quiet, unspoken heartache of a farewell tour.
 
-### Scene 2: The Journey North
+***
 
-**Date:** 2003-06-18 at 14:00 America/New_York
+#### June 18, 2003 • 2:00 PM — The Journey North
 
 The rhythmic clatter of the train wheels on the track was a soothing, constant presence as the Virginia landscape slid by. The mood at their four-person table in Business Class was a comfortable, quiet hum. For a while, they were all content to simply exist in the moment, watching the scenery change from the familiar Tidewater region to the rolling hills of central Virginia.
 
@@ -4532,9 +4582,9 @@ Stella nodded, then paused, looking at Olivia. "You don't want to come stretch y
 
 Stella and Luna returned a few minutes later, carefully balancing a tray of drinks. They settled back into their seats, the four of them once again a complete, self-contained world. Leo sipped his hot chocolate, the warmth spreading through him. He was with his sister, his twin, and his best friend, hurtling towards a new city and a new adventure. The impending goodbye was a constant, dull ache in his heart, but for now, in this moment, all was right with the world. He leaned back against Olivia, secure in her presence, and watched the country fly by.
 
-### Scene 3: Approaching Union Station
+***
 
-**Date:** 2003-06-18 at 21:00 America/New_York
+#### June 18, 2003 • 9:00 PM — Approaching Union Station
 
 Stella and Luna returned a few minutes later, carefully balancing a tray of drinks as they navigated the gentle sway of the train. They passed the hot chocolate to Leo, the coffee to Olivia, and settled back into their seats with their own sodas.
 
@@ -4564,9 +4614,9 @@ Leo immediately picked up his Quantum Communicator, which he had been using for 
 
 They spent the last few minutes on the train excitedly charting out a rough itinerary, a collaborative plan for their first great stop. With a shared sense of purpose, they gathered their bags, ready to disembark. The quiet, contained world of the train car was over. It was time to conquer Washington, D.C.
 
-### Scene 4: The Capital Transit Gauntlet
+***
 
-**Date:** 2003-06-18 at 21:30 America/New_York
+#### June 18, 2003 • 9:30 PM — The Capital Transit Gauntlet
 
 Disembarking from the quiet, orderly Business Class car into the grand, chaotic echo chamber of Union Station was a jolt to the senses. The station was a sea of humanity, a symphony of rolling suitcases, echoing announcements, and a dozen languages all at once. 
 
@@ -4600,9 +4650,9 @@ The concierge smiled. "Of course, Ms. Porter. Welcome to The Statesman. Your roo
 
 Their public transit gauntlet was over. They had faced their first challenge, and thanks to the fortress's quick thinking, they had come through it unscathed.
 
-### Scene 5: Home Base on the Hill
+***
 
-**Date:** 2003-06-18 at 22:00 America/New_York
+#### June 18, 2003 • 10:00 PM — Home Base on the Hill
 
 The room at The Statesman Hotel was their sanctuary after a long day of travel. Stella swiped the key card, and the door swung open to reveal a spacious, beautifully appointed, and—most importantly—fully accessible room.
 
@@ -4644,9 +4694,9 @@ When the L2 bus arrived, the driver expertly deployed the ramp for Leo's wheelch
 
 They disembarked directly in front of the grand, sprawling entrance to the zoo. They had successfully navigated a multi-stage journey on a complex public transit system in a strange new city. It was a huge victory, a powerful confirmation that with the right planning and their fortress intact, the world was theirs to explore.
 
-### Scene 6: An Afternoon Among the Animals
+***
 
-**Date:** 2003-06-19 at 08:00 America/New_York
+#### June 19, 2003 • 8:00 AM — An Afternoon Among the Animals
 
 True to their plan, the fortress four arrived at the grand entrance of the National Zoo. But before they even went through the gates, Stella initiated the first part of her on-site strategy. The National Zoo is famously built on the side of a hill, with steep inclines connecting many of the main exhibits. Stella, having researched this ahead of time, knew that pushing Leo's manual wheelchair up and down these hills all afternoon would be an immense physical strain.
 
@@ -4662,9 +4712,9 @@ Their final stop was the Reptile Discovery Center. The dim, quiet atmosphere was
 
 For Leo, the day was a resounding success. He had navigated a new city on public transit and explored a massive park, all without a hint of being overwhelmed. He wasn't a burden; he was an adventurer. Surrounded and supported by his fortress, he was simply a young man enjoying a perfect summer day at the zoo.
 
-### Scene 7: A Necessary Interlude
+***
 
-**Date:** 2003-06-19 at 08:00 America/New_York
+#### June 19, 2003 • 8:00 AM — A Necessary Interlude
 
 After an exciting hour spent watching the lions and tigers, Stella called for a tactical break before they headed to the Great Ape House. "Okay, team," she announced, "everyone use the restroom before we continue. Next one is just around this corner."
 
@@ -4680,9 +4730,11 @@ She took care of her own business while he waited patiently in the room with her
 
 When they emerged a few minutes later, Stella and Luna were waiting. The fortress was reassembled, refreshed, and ready to continue their adventure.
 
-### Scene 8: An Evening on the Town
+### Part 2: An Evening on the Town & A Fortress Assembles for the Night
 
 **Date:** 2003-06-19 at 18:00 America/New_York
+
+#### 6:00 PM — An Evening on the Town
 
 As the afternoon sun began to dip lower in the sky, a series of announcements echoed through the zoo's pathways, signaling that it would be closing in thirty minutes. Their timing had been perfect. They had seen all the animals on their priority list and had even had a few extra minutes to wander through the primate house.
 
@@ -4710,9 +4762,9 @@ Emerging from the station into the vibrant, neon-lit streets of Chinatown was li
 
 As they were seated at a large, round table, a sense of profound accomplishment settled over the group. They had done it. They had conquered a new city, navigated its complex transit system, had a wonderful adventure, and were now about to enjoy a delicious meal together. The first day of their great North American excursion had been a resounding success.
 
-### Scene 9: A Culinary Discovery
+***
 
-**Date:** 2003-06-19 at 08:00 America/New_York
+#### 8:00 AM — A Culinary Discovery
 
 The restaurant Stella had chosen was a world away from the Americanized Chinese buffets they were used to back home. It was a bustling, brightly lit space filled with large, round tables, the air thick with the delicious, unfamiliar aromas of ginger, star anise, and chili oil. The chatter was a lively mix of English and Mandarin, and the walls were adorned with beautiful calligraphy.
 
@@ -4730,9 +4782,9 @@ More dishes arrived: tender, hand-pulled noodles with a spicy Szechuan sauce tha
 
 The entire meal was a journey of discovery. They passed plates, shared bites, and compared notes on the new, complex flavors. This wasn't just dinner; it was a shared adventure, a culinary exploration that was a perfect metaphor for their entire trip. For the first time, they weren't just eating Chinese food; they were experiencing it. And for a family dedicated to creating new, happy memories, it was another perfect moment to add to their collection.
 
-### Scene 10: A Sanctuary of Water
+***
 
-**Date:** 2003-06-19 at 21:00 America/New_York
+#### 9:00 PM — A Sanctuary of Water
 
 The return to the quiet, cool sanctuary of their room at The Statesman Hotel was a welcome relief. The dinner in Chinatown had been a wonderful adventure, but the cumulative sensory input of the day had taken its toll, especially on Luna and Leo.
 
@@ -4756,9 +4808,9 @@ There was no concern for privacy between them; there was only trust, comfort, an
 
 Afterward, wrapped in a thick, fluffy hotel robe and sitting on the edge of his bed, Leo felt a profound sense of peace. The grime and stress of the long day had been washed away, replaced by a feeling of being clean, safe, and utterly cherished.
 
-### Scene 11: A Fortress Assembles for the Night
+***
 
-**Date:** 2003-06-19 at 21:00 America/New_York
+#### 9:00 PM — A Fortress Assembles for the Night
 
 After the calming showers and the peaceful quiet of the evening, a deep, contented weariness settled over the fortress four. The long day of travel and exciting new experiences had finally caught up to them.
 
@@ -4782,9 +4834,11 @@ He was in the middle, a warm, solid wall of his sister on one side and his best 
 
 ## Museum Hopping
 
-### Scene 1: An Afternoon Among the Animals
+### Part 1: An Afternoon Among the Animals & A Fortress Assembles for the Night
 
 **Date:** 2003-06-19 at 09:00 America/New_York
+
+#### 9:00 AM — An Afternoon Among the Animals
 
 True to their plan, the fortress four arrived at the grand entrance of the National Zoo. But before they even went through the gates, Stella initiated the first part of her on-site strategy. The National Zoo is famously built on the side of a hill, with steep inclines connecting many of the main exhibits. Stella, having researched this ahead of time, knew that pushing Leo's manual wheelchair up and down these hills all afternoon would be an immense physical strain.
 
@@ -4800,9 +4854,9 @@ Their final stop was the Reptile Discovery Center. The dim, quiet atmosphere was
 
 For Leo, the day was a resounding success. He had navigated a new city on public transit and explored a massive park, all without a hint of being overwhelmed. He wasn't a burden; he was an adventurer. Surrounded and supported by his fortress, he was simply a young man enjoying a perfect summer day at the zoo.
 
-### Scene 2: A Necessary Interlude
+***
 
-**Date:** 2003-06-19 at 13:00 America/New_York
+#### 1:00 PM — A Necessary Interlude
 
 After an exciting hour spent watching the lions and tigers, Stella called for a tactical break before they headed to the Great Ape House. "Okay, team," she announced, "everyone use the restroom before we continue. Next one is just around this corner."
 
@@ -4818,9 +4872,9 @@ She took care of her own business while he waited patiently in the room with her
 
 When they emerged a few minutes later, Stella and Luna were waiting. The fortress was reassembled, refreshed, and ready to continue their adventure.
 
-### Scene 3: An Evening on the Town
+***
 
-**Date:** 2003-06-19 at 17:00 America/New_York
+#### 5:00 PM — An Evening on the Town
 
 As the afternoon sun began to dip lower in the sky, a series of announcements echoed through the zoo's pathways, signaling that it would be closing in thirty minutes. Their timing had been perfect. They had seen all the animals on their priority list and had even had a few extra minutes to wander through the primate house.
 
@@ -4848,9 +4902,9 @@ Emerging from the station into the vibrant, neon-lit streets of Chinatown was li
 
 As they were seated at a large, round table, a sense of profound accomplishment settled over the group. They had done it. They had conquered a new city, navigated its complex transit system, had a wonderful adventure, and were now about to enjoy a delicious meal together. The first day of their great North American excursion had been a resounding success.
 
-### Scene 4: The Fortress Cracks
+***
 
-**Date:** 2003-06-19 at 13:15 America/New_York
+#### 1:15 PM — The Fortress Cracks
 
 After finishing their lunch at Rocket Burger, Stella called for a tactical break. "Okay, team," she announced, "everyone use the restroom before we leave."
 
@@ -4876,9 +4930,9 @@ When she finally pulled back slightly to check on him, his face was tear-streake
 
 When they emerged a few minutes later, Stella and Luna were waiting by the bench. They took one look at Leo's exhausted face and Olivia's own red-rimmed eyes and knew instantly what had transpired. No questions were asked. Stella simply reached out and squeezed Olivia's shoulder—a gesture of profound, unspoken gratitude for carrying him through it. Luna moved to her brother's other side, her hand finding his. The fortress wordlessly closed ranks, stronger and more necessary than ever.
 
-### Scene 5: A Sanctuary of Water
+***
 
-**Date:** 2003-06-19 at 20:00 America/New_York
+#### 8:00 PM — A Sanctuary of Water
 
 The return to the quiet, cool sanctuary of their room at The Statesman Hotel was a welcome relief. The dinner in Chinatown had been a wonderful adventure, but the cumulative sensory input of the day had taken its toll, especially on Luna and Leo.
 
@@ -4902,9 +4956,9 @@ There was no concern for privacy between them; there was only trust, comfort, an
 
 Afterward, wrapped in a thick, fluffy hotel robe and sitting on the edge of his bed, Leo felt a profound sense of peace. The grime and stress of the long day had been washed away, replaced by a feeling of being clean, safe, and utterly cherished.
 
-### Scene 6: A Fortress Assembles for the Night
+***
 
-**Date:** 2003-06-19 at 22:00 America/New_York
+#### 10:00 PM — A Fortress Assembles for the Night
 
 After the calming showers and the peaceful quiet of the evening, a deep, contented weariness settled over the fortress four. The long day of travel and exciting new experiences had finally caught up to them.
 
@@ -4926,9 +4980,11 @@ The arrangement was shifted without a second thought. Stella would have one bed 
 
 He was in the middle, a warm, solid wall of his sister on one side and his best friend on the other. He reached out, his hand finding Luna's in the dim light of the hotel room. He was safe. He was surrounded. He closed his eyes, the dull ache of the impending goodbye soothed by the profound, immediate comfort of having his entire fortress assembled around him. He drifted off to sleep, not to the sound of a train, but to the quiet, steady breathing of the two people who, along with Stella, formed the unshakable foundation of his world.
 
-### Scene 7: A Taste of Stanstead
+### Part 2: A Taste of Stanstead & The Fortress, Reassembled
 
 **Date:** 2003-06-19 at 18:00 America/New_York
+
+#### 6:00 PM — A Taste of Stanstead
 
 Tired, damp, but happy after a full day of museum exploration, the fortress four emerged into the misty evening, their thoughts turning to dinner. As they walked down a side street near their hotel, a warm glow from a small restaurant window caught their eye. A charming, hand-painted sign above the door read "Le Gout de Montréal" and promised, in smaller letters, "Authentic Smoked Meat & Poutine."
 
@@ -5030,9 +5086,9 @@ A few minutes later, they were all bundled back up in their raincoats, preparing
 
 Stepping out of the warm, fragrant restaurant and back into the cool, misty rain of the D.C. night was a gentle return to reality. The streetlights glistened on the wet pavement, and the city felt quiet and peaceful. They made their way to the nearby Capital Transit station, a tired but happy fortress, ready to return to their hotel after a day of profound discoveries, both emotional and culinary.
 
-### Scene 8: A Fortress in the Storm
+***
 
-**Date:** 2003-06-19 at 21:00 America/New_York
+#### 9:00 PM — A Fortress in the Storm
 
 The return to their room at The Statesman Hotel was a quiet affair. The delicious meal and the unexpected taste of Olivia's home had been a wonderful high point, but the long, sensorily demanding day had taken its toll. The fortress was tired.
 
@@ -5064,9 +5120,9 @@ Stella closed the laptop, her expression one of weary resolve. The miracle solut
 
 "Okay," she said, her voice firm again. "So, no video. But the phone calls are real. They will happen. You can call each other and talk for as long as you both feel like you need to. That is a promise I can keep."
 
-### Scene 9: The Fortress, Reassembled
+***
 
-**Date:** 2003-06-19 at 21:00 America/New_York
+#### 9:00 PM — The Fortress, Reassembled
 
 The long, emotionally charged day in Washington, D.C. left the entire fortress drained. After returning to the hotel and going through their quiet evening routines, a deep, contented weariness settled over the room.
 
@@ -5084,9 +5140,11 @@ He reached out, his hand finding Luna's in the dim light of the hotel room, whil
 
 ## The Practice Mission
 
-### Scene 1: Museum Hopping
+### Part 1: Museum Hopping & A Walk Through Time
 
 **Date:** 2003-06-20 at 09:00 America/New_York
+
+#### 9:00 AM — Museum Hopping
 
 The fortress four woke on their second full day in Washington, D.C. to the gentle, rhythmic drumming of rain against their hotel room window. A quick look outside confirmed Stella's morning weather check: it was a gray, drizzly day, making a raincoat essential.
 
@@ -5116,9 +5174,9 @@ She led them to an elevator at the end of their platform. They all piled in, and
 
 Emerging from the final elevator onto the street, they were just a short, accessible walk from the imposing, modern facade of the Finch Museum of Air and Space, ready to explore the wonders of flight and space, safe from the rain and secure in their fortress.
 
-### Scene 2: Wonders of Flight and Space
+***
 
-**Date:** 2003-06-20 at 10:00 America/New_York
+#### 10:00 AM — Wonders of Flight and Space
 
 The cavernous main hall of the Finch Museum of Air and Space was a breathtaking sight, a perfect sanctuary from the drizzling rain outside. Suspended from the ceiling were icons of aviation history: the *Spirit of St. Louis*, John Glenn's *Friendship 7* capsule, and the X-15 rocket plane. For Leo and Luna, who had spent their childhoods dreaming of flight and space, it was like stepping into a cathedral.
 
@@ -5134,9 +5192,9 @@ But the main event, the one they had all been looking forward to, was the film a
 
 As the credits rolled and the lights came up, Leo and Luna looked at each other, their faces alight with a pure, uncomplicated joy. The first half of their day, spent entirely indoors away from the rain, had been more than just a museum visit; it was a pilgrimage. They had walked among the giants of air and space, and for a few magical hours, they had touched the stars together.
 
-### Scene 3: Rocket Burger Refuel
+***
 
-**Date:** 2003-06-20 at 12:30 America/New_York
+#### 12:30 PM — Rocket Burger Refuel
 
 After the breathtaking, larger-than-life experience at The Orion Dynamics OmniMax Theater, the fortress four were buzzing with excitement but also starting to feel the pangs of hunger. The morning's adventure had been a feast for the eyes; now it was time for an actual feast.
 
@@ -5156,9 +5214,9 @@ Leo, who was in complete agreement, typed enthusiastically on his Quantum Commun
 
 They spent the rest of their lunch excitedly planning their afternoon assault on the Natural History Museum, their energy restored. The rain was still drizzling outside, but inside their warm, dry, and happy bubble, fueled by burgers and shared excitement, their spirits were soaring.
 
-### Scene 4: The Fortress Cracks
+***
 
-**Date:** 2003-06-20 at 13:15 America/New_York
+#### 1:15 PM — The Fortress Cracks
 
 After finishing their lunch at Rocket Burger, Stella called for a tactical break. "Okay, team," she announced, "everyone use the restroom before we leave."
 
@@ -5184,9 +5242,9 @@ When she finally pulled back slightly to check on him, his face was tear-streake
 
 When they emerged a few minutes later, Stella and Luna were waiting by the bench. They took one look at Leo's exhausted face and Olivia's own red-rimmed eyes and knew instantly what had transpired. No questions were asked. Stella simply reached out and squeezed Olivia's shoulder—a gesture of profound, unspoken gratitude for carrying him through it. Luna moved to her brother's other side, her hand finding his. The fortress wordlessly closed ranks, stronger and more necessary than ever.
 
-### Scene 5: A Fragile Promise
+***
 
-**Date:** 2003-06-20 at 13:30 America/New_York
+#### 1:30 PM — A Fragile Promise
 
 When they emerged from the family restroom, Stella and Luna were waiting. They took one look at Leo's exhausted, tear-stained face and Olivia's own grim, red-eyed expression and knew instantly what had happened. The happy, adventurous energy of the morning had evaporated, replaced by a heavy, fragile silence. Stella immediately guided them to a quiet, out-of-the-way bench in one of the museum's less-trafficked corridors.
 
@@ -5216,9 +5274,9 @@ Stella, Luna, and Olivia exchanged a look of profound, aching love for him. Even
 
 The fortress couldn't stop the goodbye from happening, but they had just built the bridge that would span the distance. With a renewed, albeit fragile, sense of purpose, they all put on their raincoats and headed back out into the gray, rainy afternoon, a fortress united on its next mission to cross the National Mall.
 
-### Scene 6: A Walk Through Time
+***
 
-**Date:** 2003-06-20 at 15:00 America/New_York
+#### 3:00 PM — A Walk Through Time
 
 The short walk across the National Mall from the Air and Space Museum to the Natural History Museum was a damp but determined affair. Huddled under their raincoats, the fortress four moved as a single unit against the gray, drizzly afternoon. The fragile promise made on the museum bench held them together, a quiet, shared purpose.
 
@@ -5234,9 +5292,11 @@ Throughout the afternoon, Olivia remained a constant, steady presence at Leo's s
 
 As they finally emerged from the museum back into the gray, late-afternoon mist, a sense of profound accomplishment settled over them. The day had been challenging, marked by a moment of deep emotional pain. But they hadn't retreated. They had faced it, adapted, and continued their adventure, together. They had proven, once again, that their fortress was strong enough to weather any storm, internal or external.
 
-### Scene 7: A Taste of Stanstead
+### Part 2: A Taste of Stanstead & The Fortress, Reassembled
 
 **Date:** 2003-06-20 at 18:00 America/New_York
+
+#### 6:00 PM — A Taste of Stanstead
 
 Tired, damp, but happy after a full day of museum exploration, the fortress four emerged into the misty evening, their thoughts turning to dinner. As they walked down a side street near their hotel, a warm glow from a small restaurant window caught their eye. A charming, hand-painted sign above the door read "Le Gout de Montréal" and promised, in smaller letters, "Authentic Smoked Meat & Poutine."
 
@@ -5338,9 +5398,9 @@ A few minutes later, they were all bundled back up in their raincoats, preparing
 
 Stepping out of the warm, fragrant restaurant and back into the cool, misty rain of the D.C. night was a gentle return to reality. The streetlights glistened on the wet pavement, and the city felt quiet and peaceful. They made their way to the nearby Capital Transit station, a tired but happy fortress, ready to return to their hotel after a day of profound discoveries, both emotional and culinary.
 
-### Scene 8: A Fortress in the Storm
+***
 
-**Date:** 2003-06-20 at 21:00 America/New_York
+#### 9:00 PM — A Fortress in the Storm
 
 The return to their room at The Statesman Hotel was a quiet affair. The delicious meal and the unexpected taste of Olivia's home had been a wonderful high point, but the long, sensorily demanding day had taken its toll. The fortress was tired.
 
@@ -5372,9 +5432,9 @@ Stella closed the laptop, her expression one of weary resolve. The miracle solut
 
 "Okay," she said, her voice firm again. "So, no video. But the phone calls are real. They will happen. You can call each other and talk for as long as you both feel like you need to. That is a promise I can keep."
 
-### Scene 9: The Fortress, Reassembled
+***
 
-**Date:** 2003-06-20 at 22:00 America/New_York
+#### 10:00 PM — The Fortress, Reassembled
 
 The long, emotionally charged day in Washington, D.C. left the entire fortress drained. After returning to the hotel and going through their quiet evening routines, a deep, contented weariness settled over the room.
 
@@ -5392,9 +5452,11 @@ He reached out, his hand finding Luna's in the dim light of the hotel room, whil
 
 ## A Layover in Philly
 
-### Scene 1: The Practice Mission
+### The Practice Mission & A Sanctuary of Calm
 
 **Date:** 2003-06-21 at 09:00 America/New_York
+
+#### 9:00 AM — The Practice Mission
 
 On their second full day in Washington, D.C., the group woke up to a mostly cloudy sky. The relentless rain from the day before was gone, but the morning still had a cool, gray feel, with the promise of a clear and beautiful afternoon.
 
@@ -5410,9 +5472,9 @@ Stella, thrilled by his proactive spirit, immediately agreed. "That's a fantasti
 
 "That's the urban legend, but it's not actually true," Stella clarified, a perfect example of her deep-dive planning. "The real reasons were a lot more complicated. It was a mix of engineering challenges with the geology under the neighborhood, worries about disrupting the historic foundations of the old buildings, and the enormous cost. So, no station was ever built." She pointed to the map. "Which makes it the perfect practice run for us. To get there, we have to take the train to a nearby station—Rosslyn is the best one—and then transfer to a Capital Transit Bus to cross the bridge. It's a real multi-stage journey."
 
-### Scene 2: Breakfast in Georgetown
+***
 
-**Date:** 2003-06-21 at 10:00 America/New_York
+#### 10:00 AM — Breakfast in Georgetown
 
 The fortress four's "practice mission" on the city's transit system was a resounding success. They navigated the Capital Transit and a Capital Transit Bus with the confidence of seasoned commuters, arriving in the charming, historic neighborhood of Georgetown as the morning sun began to burn through the last of the clouds.
 
@@ -5426,9 +5488,9 @@ Stella, ever practical, opted for a yogurt parfait with granola and a large blac
 
 As they ate, the conversation was light and happy, a comfortable buzz of plans for the day. Leo savored every bite of his perfectly made breakfast. Each element—the sweet bananas in the pancakes, the salty bacon, the cold apple juice on a warm summer day—was a choice he had made, a preference that had been heard and honored. Surrounded by his sister, his twin, and his best friend, enjoying a delicious meal in a new city, the impending goodbye felt, for a few precious moments, a million miles away.
 
-### Scene 3: A Walk by the Water
+***
 
-**Date:** 2003-06-21 at 11:00 America/New_York
+#### 11:00 AM — A Walk by the Water
 
 After a delicious and satisfying breakfast at The Potomac Patisserie & Grille, the fortress four stepped back out onto the charming, historic streets of Georgetown. The morning air was cool and fresh, and the clouds that had blanketed the city were beginning to break apart, allowing brilliant shafts of summer sunlight to dapple the cobblestones.
 
@@ -5442,9 +5504,9 @@ Olivia and Leo walked side-by-side, a comfortable silence between them. This was
 
 Stella and Luna walked a few paces ahead, deep in their own conversation. The park was the perfect, low-sensory environment for them all to decompress and simply enjoy the moment. They found a bench overlooking the river and sat for a while, soaking in the now-warmer sun and watching the world go by. It was a peaceful interlude in their busy day, another quiet, happy memory being woven into the fabric of their last summer together.
 
-### Scene 4: A Walk Among Giants
+***
 
-**Date:** 2003-06-21 at 13:00 America/New_York
+#### 1:00 PM — A Walk Among Giants
 
 After their peaceful interlude at the Georgetown Waterfront, the fortress four were ready to tackle the main event: the monuments on the National Mall. The sun was now high in a nearly cloudless sky, and the day had turned warm and beautiful. They navigated their way back to M Street and caught a Capital Transit Bus that would take them toward the heart of the city.
 
@@ -5474,9 +5536,9 @@ By the time they emerged back into the bright sunlight, their stomachs were begi
 
 "Okay, team," Stella announced, a new mission in her voice. "I think it's time to find some lunch."
 
-### Scene 5: Lunch on the Mall
+***
 
-**Date:** 2003-06-21 at 14:00 America/New_York
+#### 2:00 PM — Lunch on the Mall
 
 By the time they emerged from the Lincoln Memorial back into the bright sunlight, their stomachs were beginning to rumble. It was well past noon, and the morning's adventures had worked up a serious appetite.
 
@@ -5492,9 +5554,9 @@ They all got hot dogs, loaded with their favorite toppings, and bags of chips. T
 
 The meal was simple, but it was perfect. They ate and talked, laughing as a particularly bold squirrel made a daring attempt to get a stray potato chip. For Leo, this was another new, wonderful experience. He was sitting in the heart of the nation's capital, eating a hot dog with his sister, his twin, and his best friend. The food was simple, the setting was magnificent, and the company was everything. It was a perfect, happy, and completely normal moment in the middle of their grand adventure.
 
-### Scene 6: An Afternoon on the Potomac
+***
 
-**Date:** 2003-06-21 at 15:30 America/New_York
+#### 3:30 PM — An Afternoon on the Potomac
 
 The sun was warm and bright as the fortress four finished their classic lunch of hot dogs on the National Mall. The successful morning of navigating the monuments had left them feeling accomplished, but also ready for a more relaxed afternoon.
 
@@ -5510,9 +5572,9 @@ For Leo, the experience was profoundly calming. The gentle rocking of the boat, 
 
 The afternoon sun glinted off the water as they made their way back to the dock. The day had been another resounding success, a perfect blend of exciting city navigation and quiet, peaceful discovery. They were tired, but it was a good tired, the kind that comes from a day full of new and happy memories.
 
-### Scene 7: An Evening In
+***
 
-**Date:** 2003-06-21 at 19:00 America/New_York
+#### 7:00 PM — An Evening In
 
 The boat tour on the Potomac was the perfect, calming end to a long day of exploration. As the fortress four made their way back to The Statesman Hotel via the Capital Transit, a comfortable, happy exhaustion had settled over them. The initial plan to find another unique restaurant for dinner was quickly and unanimously vetoed.
 
@@ -5532,9 +5594,9 @@ When the meal was over, the waiter brought the check. Stella simply signed her n
 
 It was another small luxury, another detail that made their trip feel like a true vacation. With full stomachs and happy hearts, they headed back up to their room, ready to rest and prepare for their final day in the nation's capital.
 
-### Scene 8: A Sanctuary of Calm
+***
 
-**Date:** 2003-06-21 at 21:00 America/New_York
+#### 9:00 PM — A Sanctuary of Calm
 
 The return to the hotel room after their delicious dinner was a welcome retreat. The long day of walking, exploring, and navigating the city had left a deep, happy exhaustion in its wake. The fortress was tired but content.
 
@@ -5560,9 +5622,11 @@ Afterward, clean, warm, and dressed in fresh pajamas, Leo felt a deep sense of p
 
 ## The Journey West
 
-### Scene 1: The Journey Continues
+### The Journey Continues & A Day in the Steel City
 
 **Date:** 2003-06-22 at 07:00 America/New_York
+
+#### 7:00 AM — The Journey Continues
 
 The final morning in Washington, D.C. was one of smooth, practiced efficiency. The fortress four woke early, the excitement for the next leg of their journey a quiet, shared energy in the room. The suitcases, already packed by Stella the night before, stood ready by the door.
 
@@ -5576,9 +5640,9 @@ The meal was a relaxed, happy affair. They ate and talked, their conversation fi
 
 With their stomachs full and their spirits high, they made their way to the departure gate. A Red Cap assisted them with their luggage, leading them down the platform to the Business Class car of ARTS *The Patriot*. They boarded the train, finding their familiar four-person table, and settled in for the next leg of their great adventure. The whistle blew, and with a gentle lurch, the train pulled out of the station, the grand dome of the Capitol Building sliding past their window as they journeyed north toward Philadelphia.
 
-### Scene 2: A Layover in Philly
+***
 
-**Date:** 2003-06-22 at 11:00 America/New_York
+#### 11:00 AM — A Layover in Philly
 
 ARTS *The Patriot* glided smoothly into Philadelphia's 30th Street Station right on time. The two-hour journey from Washington had been a quiet, comfortable ride, another successful leg in their grand adventure.
 
@@ -5598,9 +5662,9 @@ As they ate, they talked excitedly about the next leg of their journey. "This is
 
 The two-hour layover passed quickly. With their stomachs full and their spirits high, they gathered their luggage and made their way to the platform for their next train. They were about to leave the bustling East Coast corridor behind and venture into the heart of the American landscape.
 
-### Scene 3: The Cheesesteak Debate
+***
 
-**Date:** 2003-06-22 at 12:00 America/New_York
+#### 12:00 PM — The Cheesesteak Debate
 
 The two-hour layover in Philadelphia's magnificent 30th Street Station passed quickly. After their delicious and messy lunch of station cheesesteaks, Stella decided to make a quick run to a convenience store inside the concourse to stock up on snacks for the long afternoon ride to Pittsburgh.
 
@@ -5618,9 +5682,9 @@ She paid for the snacks and returned to her family, a small, secret smile still 
 
 A short time later, the call came to board the ARTS *Pennsylvanian*. They made their way to the platform and found their seats—another four-person table in Business Class, a perfect, private world for the next leg of their journey. As the train pulled out of the station and began its slow, winding journey west, they left the bustling East Coast corridor behind. The landscape began to change, the dense urban sprawl giving way to rolling hills and the promise of the mountains ahead.
 
-### Scene 4: A Journey Through the Alleghenies
+***
 
-**Date:** 2003-06-22 at 13:00 America/New_York
+#### 1:00 PM — A Journey Through the Alleghenies
 
 The ARTS *Pennsylvanian* pulled out of 30th Street Station, beginning the long, seven-hour journey westward to Pittsburgh. The fortress four settled back into their familiar four-person table in Business Class, the remnants of their cheesesteak lunch a happy memory.
 
@@ -5642,9 +5706,9 @@ Olivia, watching them, felt a familiar, bittersweet ache in her heart. She was s
 
 As the train continued its climb through the majestic, sun-dappled mountains, the fortress was silent, united in a moment of shared wonder, each of them storing away another precious, perfect memory from their last summer together.
 
-### Scene 5: Arrival in the Steel City
+***
 
-**Date:** 2003-06-22 at 18:00 America/New_York
+#### 6:00 PM — Arrival in the Steel City
 
 The ARTS *Pennsylvanian* arrived at Pittsburgh's Union Station just after 8 PM, pulling into the city under a sky streaked with the last vestiges of sunset. The journey through the Allegheny Mountains had been a quiet, awe-inspiring experience, but the long day of travel had left the fortress four feeling weary and ready to settle in for the night.
 
@@ -5658,9 +5722,9 @@ The bus ride was a short but fascinating tour of a city completely different fro
 
 They arrived at their hotel, another well-researched, accessible choice by Stella, feeling a deep sense of accomplishment. They had successfully completed another multi-stage, all-day journey. They were tired, but they were together, a small, unbreakable fortress ready to explore a new corner of the country.
 
-### Scene 6: A Room with a View
+***
 
-**Date:** 2003-06-22 at 20:00 America/New_York
+#### 8:00 PM — A Room with a View
 
 The Three Rivers Transit Authority (3RTA) bus dropped them off directly in front of their hotel for the next few days: The Three Rivers Grand Hotel. It was a beautiful, historic building in the heart of downtown, fancy without being overly stuffy—another perfect 4-star pick by Stella.
 
@@ -5680,9 +5744,9 @@ While Olivia was not yet helping to physically bathe Leo—that was a boundary t
 
 Tonight, the goal was simply to rest, order some room service, and recharge. As the city lights began to sparkle on the three rivers below their window, the fortress settled in for a quiet night. They had conquered another leg of their journey, another new city, and were safe and sound together, ready for whatever adventures the Steel City had in store for them tomorrow.
 
-### Scene 7: A Desperate Search
+***
 
-**Date:** 2003-06-22 at 21:00 America/New_York
+#### 9:00 PM — A Desperate Search
 
 The morning in Pittsburgh was quiet. The four of them woke slowly, untangling themselves from the cramped but secure fortress they had formed in the single queen bed. The sun streamed through the window, promising a beautiful day, but a heavy, somber mood hung in the room. The desperation of the previous night had left its mark.
 
@@ -5704,9 +5768,9 @@ The part that hurt Stella the most was the confirmation that she was truly power
 
 She quietly closed the laptop, the last of her desperate hope extinguished. She looked over at Leo, who was sitting quietly, his hand in Olivia's. The only promise she could keep was the one she had already made. The telephone would have to be enough.
 
-### Scene 8: A Day in the Steel City
+***
 
-**Date:** 2003-06-22 at 22:00 America/New_York
+#### 10:00 PM — A Day in the Steel City
 
 Their first full day in Pittsburgh began with a mission: to see the city from above. After a quiet breakfast at the hotel, Stella, armed with her 3RTA transit maps, led them on a short bus ride to the base of the Duquesne Incline. The historic funicular, a cliffside trolley car, was a perfect, accessible way to see the city's famous panoramic view.
 
@@ -5722,9 +5786,11 @@ As they rode the bus back to the hotel in the late afternoon, a weary but peacef
 
 ## The Shadow on the Platform
 
-### Scene 1: A Desperate Search
+### A Desperate Search & A Day in the Steel City
 
 **Date:** 2003-06-23 at 08:00 America/New_York
+
+#### 8:00 AM — A Desperate Search
 
 The morning in Pittsburgh was quiet. The four of them woke slowly, untangling themselves from the cramped but secure fortress they had formed in the single queen bed. The sun streamed through the window, promising a beautiful day, but a heavy, somber mood hung in the room. The desperation of the previous night had left its mark.
 
@@ -5746,9 +5812,9 @@ The part that hurt Stella the most was the confirmation that she was truly power
 
 She quietly closed the laptop, the last of her desperate hope extinguished. She looked over at Leo, who was sitting quietly, his hand in Olivia's. The only promise she could keep was the one she had already made. The telephone would have to be enough.
 
-### Scene 2: A Day in the Steel City
+***
 
-**Date:** 2003-06-23 at 09:00 America/New_York
+#### 9:00 AM — A Day in the Steel City
 
 Their first full day in Pittsburgh began with a mission: to see the city from above. After a quiet breakfast at the hotel, Stella, armed with her 3RTA transit maps, led them on a short bus ride to the base of the Duquesne Incline. The historic funicular, a cliffside trolley car, was a perfect, accessible way to see the city's famous panoramic view.
 
@@ -5776,9 +5842,11 @@ As they rode the bus back to their hotel later that night, a weary but peaceful 
 
 ## The Steel City
 
-### Scene 1: The Colors of the Steel City
+### The Colors of the Steel City & A Sanctuary in the Steel City
 
 **Date:** 2003-06-24 at 09:00 America/New_York
+
+#### 9:00 AM — The Colors of the Steel City
 
 The morning sun filtered through the large window of their room at the Three Rivers Grand Hotel, casting a warm glow over the four of them as they stirred awake. The routine of waking up together, untangling from the blankets, and transitioning into the day was becoming a well-worn, comfortable rhythm.
 
@@ -5808,9 +5876,9 @@ For the next two hours, Leo maintained the mask. He smiled, he pointed, and he e
 
 But beneath the forced smiles and the enthusiastic typing, the emotional toll was mounting. The effort to remain present, combined with the sensory load of the bright pop art, was quietly, steadily draining his reserves. The "ticking clock" was still there, loud and persistent in his mind, and the bright neon colors of the museum were only serving to illuminate his exhaustion.
 
-### Scene 2: The Wrong Way
+***
 
-**Date:** 2003-06-24 at 13:00 America/New_York
+#### 1:00 PM — The Wrong Way
 
 The sensory overload of the Garrison Museum eventually proved too much. Despite his desperate attempts to maintain the mask for Olivia's sake, Stella noticed the white-knuckle grip Leo had on his push-rims and the rigid set of his jaw. She quickly called an audible, gently steering the group out of the neon-soaked galleries and back into the cool, overcast afternoon air. 
 
@@ -5855,9 +5923,9 @@ Olivia read the screen, and her heart broke. She didn't try to offer false plati
 
 Leo squeezed his eyes shut, leaning his head forward until it rested against her shoulder. The river continued to flow steadily westward behind them, indifferent to the heartbreak on its banks, but within the tight, protective perimeter of his fortress, Leo was allowed to fall apart.
 
-### Scene 3: A Sanctuary in the Steel City
+***
 
-**Date:** 2003-06-24 at 15:00 America/New_York
+#### 3:00 PM — A Sanctuary in the Steel City
 
 After the devastating realization at the river's edge, Leo was physically and emotionally spent. The walk back from Point State Park was a blur. Olivia pushed his chair, her hands steady and reassuring, while Luna and Stella flanked them, creating a tight physical barrier between Leo and the busy downtown sidewalks. 
 
@@ -5899,9 +5967,11 @@ It was cramped and far from glamorous, but it meant they all got to sleep in the
 
 ## The Windy City
 
-### Scene 1: Good Morning, Chicago
+### Part 1: Good Morning, Chicago & Deep Dish
 
 **Date:** 2003-06-25 at 08:45 America/Chicago
+
+#### 8:45 AM — Good Morning, Chicago
 
 The gentle rocking of the *Capitol Limited* came to a gradual halt. Leo blinked his eyes open in the lower bunk of their Family Bedroom. The night had been a blur of dark, rolling plains and the steady, rhythmic clatter of the tracks. 
 
@@ -5927,9 +5997,9 @@ Stella tapped her clipboard. "I booked us into The Heritage House. It's an iconi
 
 Leo finished his sandwich and rested his hands on his wheels, looking up at the grand skylight of Union Station. They were deeper into the country now. The air felt different, the pace felt faster, and the architecture was staggering. The timer was still ticking, but the bright, bustling energy of Chicago was an incredible distraction. He was ready to explore.
 
-### Scene 2: Holding the Line
+***
 
-**Date:** 2003-06-25 at 10:30 America/Chicago
+#### 10:30 AM — Holding the Line
 
 The CMA bus ride down Jackson Boulevard was a sensory overload of towering skyscrapers and roaring city traffic, a stark contrast to the quiet, scenic arrival they’d had in Pittsburgh. By the time they reached the opulent, gilded lobby of The Heritage House, they were all thoroughly exhausted from the overnight train ride. 
 
@@ -5957,9 +6027,9 @@ But then Luna shifted, sighing happily in her sleep, her weight pressing heavier
 
 The panic crested, hovered, and then slowly began to recede. The physical reality of the timezone change was terrifying, but the physical reality of the pack surrounding him was stronger. Being held so tightly by both of his sisters and his best friend was enough to hold the line against the grief. For now.
 
-### Scene 3: The Zenith Tower
+***
 
-**Date:** 2003-06-25 at 14:00 America/Chicago
+#### 2:00 PM — The Zenith Tower
 
 After an hour of quiet, grounding sleep tangled together on the hotel bed, the pack finally began to stir. The heavy knot of anxiety in Leo's chest hadn't entirely vanished, but the deep pressure from his sisters and Olivia had successfully pushed it back to a manageable simmer. 
 
@@ -6013,9 +6083,9 @@ Olivia didn't hesitate. She unlocked the brakes on his chair and quickly pulled 
 
 The Skydeck, which just a minute ago had been the thrilling highlight of the day, was now a 103-story prison.
 
-### Scene 4: The Descent
+***
 
-**Date:** 2003-06-25 at 14:15 America/Chicago
+#### 2:15 PM — The Descent
 
 The 103rd-floor Skydeck, a bustling tourist attraction full of chattering families and flashing cameras, felt like a vacuum of terror for the twins. 
 
@@ -6055,9 +6125,9 @@ The digital display hit *1*, and the elevator slowed to a smooth stop. The doors
 
 They had made it back to ground level. The terrifying ordeal was over, but it had drained whatever energy the afternoon nap had given them. The twins were exhausted, their nervous systems completely fried. The Midwestern leg of the great journey had officially begun with a spectacular misfire.
 
-### Scene 5: Solid Ground
+***
 
-**Date:** 2003-06-25 at 14:20 America/Chicago
+#### 2:20 PM — Solid Ground
 
 The ground-floor lobby of the Zenith Tower was a cavernous, echoing space lined with heavy travertine marble and polished black granite. It was solid, windowless, and reassuringly attached to the earth. 
 
@@ -6085,9 +6155,9 @@ Stella stood a few feet back, giving them the space they needed while maintainin
 
 For several long minutes, the alcove was quiet except for the muffled sounds of the twins crying, anchored together in the safety of the fortress. The polished marble floor beneath them was hard, cold, and beautifully, undeniably solid.
 
-### Scene 6: Deep Dish
+***
 
-**Date:** 2003-06-25 at 15:30 America/Chicago
+#### 3:30 PM — Deep Dish
 
 After twenty minutes of quiet recovery in the Zenith Tower lobby, the twins' tear-streaked faces had dried, and the acute panic had receded into a dull, manageable exhaustion. 
 
@@ -6115,9 +6185,11 @@ Olivia, possessing the legendary metabolism of a tall, athletic nineteen-year-ol
 
 Leo watched his best friend eat, a quiet, contented warmth settling in his chest. The heavy food, the dimly lit brick walls, and the lively chatter of the pack were successfully drowning out the ticking clock, at least for the moment. He took another bite of his own pizza, letting the rich flavors ground him firmly to the earth.
 
-### Scene 7: The Cheese Toll
+### Part 2: The Cheese Toll & Recovery
 
 **Date:** 2003-06-25 at 16:45 America/Chicago
+
+#### 4:45 PM — The Cheese Toll
 
 The walk back to The Heritage House from the pizzeria was significantly slower than their outbound journey. The adrenaline crash from the Zenith Tower, combined with the sheer, undeniable gravity of Chicago deep-dish pizza, had turned the pack into a slow-moving caravan.
 
@@ -6163,9 +6235,9 @@ She stood up, stepped around to the side of his chair, and carefully lifted him 
 
 Olivia gently laid him down on the mattress right beside Luna. Luna stirred, blindly reaching out to wrap an arm around her brother before sinking back into her food coma. Olivia kicked off her own shoes and climbed into the bed on his other side, wrapping her arms around his torso to complete the hold. Together, they formed a quiet, three-person knot of absolute security, listening to the distant, muffled groans of their oldest sister in the bathroom.
 
-### Scene 8: Recovery
+***
 
-**Date:** 2003-06-25 at 18:00 America/Chicago
+#### 6:00 PM — Recovery
 
 The sun had just begun to dip below the Chicago skyline, casting long, golden shadows across the hotel room, when the bathroom door finally unlocked. 
 
@@ -6199,9 +6271,11 @@ Instead, he focused entirely on the immediate present. His stomach was pleasantl
 
 ## The Heartland
 
-### Scene 1: The BRAT Diet
+### The BRAT Diet & Crossing the Plains
 
 **Date:** 2003-06-26 at 08:30 America/Chicago
+
+#### 8:30 AM — The BRAT Diet
 
 The next morning, the heavy curtains of their room at The Heritage House were pulled back to reveal a bright, cloudless Chicago day. But inside the room, the pace was significantly slower than the morning before. 
 
@@ -6237,9 +6311,9 @@ She pulled a city map from the nightstand. "Right across the street is Lakeside 
 
 "Deal," Stella said, looking mournfully at her applesauce. "As soon as I finish this incredibly depressing breakfast, we'll head out."
 
-### Scene 2: Fountains and Fishes
+***
 
-**Date:** 2003-06-26 at 10:00 America/Chicago
+#### 10:00 AM — Fountains and Fishes
 
 The morning sun reflected brilliantly off the surface of Lake Michigan as the pack slowly made their way through Lakeside Park. After the terrifying verticality of the Zenith Tower, the sprawling, manicured green space was exactly the kind of massive, horizontal grounding the twins needed. 
 
@@ -6279,9 +6353,9 @@ The mention of the next city sent a familiar, dull ache through Leo's chest. Chi
 
 But as Olivia pushed his wheelchair toward the exit, she squeezed his shoulder. He reached up and patted her hand. They were still together. The clock was ticking, but the alarm hadn't gone off yet.
 
-### Scene 3: Boarding the Pioneer
+***
 
-**Date:** 2003-06-26 at 13:30 America/Chicago
+#### 1:30 PM — Boarding the Pioneer
 
 Chicago Union Station was a cavernous, echoing cathedral of transit. Even with the mid-day crowds, the sheer scale of the Great Hall made the pack feel small. 
 
@@ -6325,9 +6399,9 @@ A sharp spike of anxiety hit his chest, completely unrelated to the impending al
 
 At exactly 2:00 PM, a long, low horn blast echoed through the station. The *Western Pioneer* lurched forward, slowly rolling out of the dark station and into the bright Midwest afternoon. The great journey West had resumed.
 
-### Scene 4: Cramped Quarters
+***
 
-**Date:** 2003-06-26 at 20:00 America/Chicago
+#### 8:00 PM — Cramped Quarters
 
 By 8:00 PM, the *Western Pioneer* was rolling steadily through the darkening cornfields of Iowa. Inside the Family Bedroom, the air was close and warm. Stella was still fast asleep in the Adult Upper bunk, having barely moved since they left Chicago. 
 
@@ -6361,9 +6435,9 @@ Luna gave him a watery, devastated smile, gently resting her forehead against hi
 
 Olivia, blissfully unaware of the silent heartbreak passing between the twins, hummed quietly over the rumble of the train tracks. They finished the cramped, chaotic showering process in silence, toweling off and getting dressed in the tiny space before Olivia lifted Leo once more to carry him back to their room.
 
-### Scene 5: Crossing the Plains
+***
 
-**Date:** 2003-06-26 at 21:00 America/Chicago
+#### 9:00 PM — Crossing the Plains
 
 When Olivia carried Leo back into the Family Bedroom, the small cabin felt noticeably different. The heavy, oppressive silence of Stella's sleep had lifted. 
 
@@ -6399,9 +6473,11 @@ Outside the window, the flat, dark expanse of the Great Plains rushed by as the 
 
 ## The Mile High City
 
-### Scene 1: The Mile High City
+### The Mile High City & Bison and Oysters
 
 **Date:** 2003-06-27 at 06:30 America/Denver
+
+#### 6:30 AM — The Mile High City
 
 Sometime during the deep, pitch-black hours of the night, while the *Western Pioneer* rattled across the high plains of western Nebraska, the train silently crossed a geographical threshold. They had officially left the Central Time Zone and entered Mountain Time. 
 
@@ -6447,9 +6523,9 @@ The pack moved into action. The overnight train ride had been cramped, logistica
 
 Leo watched the mountains draw closer, the sheer scale of them making him feel incredibly small. The great journey West was officially entering its most beautiful, and most daunting, phase.
 
-### Scene 2: Denver Regional Transit
+***
 
-**Date:** 2003-06-27 at 07:30 America/Denver
+#### 7:30 AM — Denver Regional Transit
 
 Stepping off the *Western Pioneer* onto the concrete platform of Denver Union Station was a physical shock to the system. 
 
@@ -6481,9 +6557,9 @@ The train doors closed, and the DRT accelerated smoothly out of the station. Thr
 
 Leo watched the mountains pass, feeling the steady, rhythmic vibration of the light rail train beneath his wheels. The thin air was exhilarating, the transit system was flawless, and for the first time since they left Pittsburgh, the heavy dread of the ticking clock was pushed aside by genuine, unbridled excitement for the new city.
 
-### Scene 3: The Horizon Suites
+***
 
-**Date:** 2003-06-27 at 08:00 America/Denver
+#### 8:00 AM — The Horizon Suites
 
 The DRT light rail carried them smoothly out of the downtown core and into a quieter commercial district. They got off at a modern, concrete station platform and rolled two blocks down the sidewalk to their destination: The Horizon Suites. 
 
@@ -6515,9 +6591,9 @@ Leo drove his wheelchair over to the window, parking next to Stella. The room fe
 
 Leo nodded. He liked that plan. The ticking clock was still there, quietly counting down the hours until they had to board the train to California, but for now, they were safely anchored in a clean, quiet room a mile above sea level.
 
-### Scene 4: The MallRide
+***
 
-**Date:** 2003-06-27 at 17:00 America/Denver
+#### 5:00 PM — The MallRide
 
 By late afternoon, the pack had successfully napped, unpacked, and stretched out their various ARTS-induced aches and pains. Stella's stomach was officially back to normal, and she was eager to get them out of the hotel room to enjoy the famously crisp Colorado evening. 
 
@@ -6549,9 +6625,9 @@ He glanced over at Luna. She was staring at the stadium, too, her shoulders visi
 
 Olivia chuckled, patting Leo on the shoulder as the bus slowed for their stop. "Alright, no baseball for the fortress. Let's just go find some dinner."
 
-### Scene 5: Bison and Oysters
+***
 
-**Date:** 2003-06-27 at 18:00 America/Denver
+#### 6:00 PM — Bison and Oysters
 
 The pack got off the Free MallRide in the heart of LoDo, the historic Lower Downtown district of Denver. The streets were lined with beautifully restored Victorian brick buildings that had been converted into lofts, galleries, and restaurants. 
 
@@ -6603,9 +6679,11 @@ The timezone shift was still a looming reality, and the ticking clock was still 
 
 ## The Botanic Gardens
 
-### Scene 1: The Centennial Botanic Gardens
+### The Centennial Botanic Gardens & One More Night
 
 **Date:** 2003-06-28 at 10:00 America/Denver
+
+#### 10:00 AM — The Centennial Botanic Gardens
 
 The next morning, Stella announced a strict, low-exertion itinerary. They had survived the timezone anxiety, the cramped ARTS closet, and the near-miss at Summit Stadium, but they still needed to let their bodies fully acclimate to the 5,280-foot elevation. 
 
@@ -6635,9 +6713,9 @@ He didn't think about the fact that they were in the Mountain Time Zone. He didn
 
 It was a perfectly functional, joyous, and fiercely protective display of the fortress operating at peak efficiency.
 
-### Scene 2: Thin Air
+***
 
-**Date:** 2003-06-28 at 14:00 America/Denver
+#### 2:00 PM — Thin Air
 
 Despite the peaceful, low-exertion environment of the Botanic Gardens, the geographical reality of the Mile High City eventually caught up with them. 
 
@@ -6671,9 +6749,9 @@ Leo felt a massive wave of relief wash over him. The thought of getting back to 
 
 The pack moved out of the gardens with renewed, singular purpose. The Rocky Mountains were beautiful, but the fortress had officially reached its vertical limit. It was time to head back to the coast.
 
-### Scene 3: One More Night
+***
 
-**Date:** 2003-06-28 at 15:00 America/Denver
+#### 3:00 PM — One More Night
 
 Stella was on her cell phone the moment they got back to the quiet, air-conditioned sanctuary of their room at The Horizon Suites. 
 
@@ -6713,9 +6791,11 @@ They were going to survive one more night in the Mile High City.
 
 ## The Moffat Tunnel
 
-### Scene 1: Night Terrors
+### Part 1: Night Terrors & The Observation Deck
 
 **Date:** 2003-06-29 at 02:00 America/Denver
+
+#### 2:00 AM — Night Terrors
 
 When the time finally came to officially go to sleep, the pack naturally gravitated toward their established, unspoken formations. Even though there were two spacious queen beds in the hotel room, Luna didn't want to sleep alone. She climbed into the bed where Leo was resting, squeezing herself onto the mattress so that Leo was sandwiched securely between her and Olivia. 
 
@@ -6775,9 +6855,9 @@ Olivia watched the two of them, the steady rise and fall of their backs moving i
 
 Olivia sat silently on the edge of the mattress, the last of her adrenaline fading into a profound realization. She possessed the raw, athletic strength to physically carry Leo across the country, but in the deepest, darkest moments of his psychological terror, it was Luna—the seemingly fragile, anxious twin—who was his ultimate, unbreakable shield.
 
-### Scene 2: The Western Pioneer
+***
 
-**Date:** 2003-06-29 at 07:00 America/Denver
+#### 7:00 AM — The Western Pioneer
 
 The sun rose over the Mile High City, pouring bright, harsh light through the gap in the blackout curtains. 
 
@@ -6813,9 +6893,9 @@ As the train picked up speed, the towering, snow-capped peaks of the Rocky Mount
 
 They were officially leaving the Midwest behind. The final, massive leg of their cross-country journey had begun.
 
-### Scene 3: The Climb to the Divide
+***
 
-**Date:** 2003-06-29 at 10:00 America/Denver
+#### 10:00 AM — The Climb to the Divide
 
 The *Western Pioneer* didn't just glide out of Denver; it fought for every inch of altitude. 
 
@@ -6873,9 +6953,9 @@ Leo sat in the dark, the oxygen mask hissing softly against his face. He felt th
 
 For the first time in his life, he was going to see the ocean on the other side.
 
-### Scene 4: The Canyons of the Colorado
+***
 
-**Date:** 2003-06-29 at 12:30 America/Denver
+#### 12:30 PM — The Canyons of the Colorado
 
 The darkness inside the Moffat Tunnel felt like it lasted a lifetime. 
 
@@ -6907,9 +6987,9 @@ The train tilted aggressively into another tight curve, following the contour of
 
 Leo secured his NovaVox in his lap, feeling a profound sense of peace settle over him. The terrifying darkness of the tunnel was behind them, and the vast, golden expanse of the American West was pulling them inexorably toward the ocean.
 
-### Scene 5: The Observation Deck
+***
 
-**Date:** 2003-06-29 at 12:45 America/Denver
+#### 12:45 PM — The Observation Deck
 
 The Family Bedroom was located on the lower level of the sleeper car. To get to the dining car, they had to go upstairs and cross through two swaying, rattling train carriages. 
 
@@ -6949,9 +7029,11 @@ Olivia slid into the booth first, gently depositing Leo onto the padded bench be
 
 Leo looked out the window. The train was still hugging the edge of the river, carving its way deeper into the American West. He couldn't walk, and he couldn't navigate the heavy doors of the train cars on his own, but sitting here in the dining car, completely surrounded by his pack, he didn't feel trapped at all. He felt like he was flying.
 
-### Scene 6: Dining Car Service
+### Part 2: Dining Car Service & The Utah Border
 
 **Date:** 2003-06-29 at 12:50 America/Denver
+
+#### 12:50 PM — Dining Car Service
 
 A sharply dressed waiter in a crisp white shirt and dark vest appeared at their table, placing four heavy, blue-rimmed ARTS menus down on the white tablecloth. 
 
@@ -6983,9 +7065,9 @@ Leo leaned into her side, nodding happily. The altitude sickness was completely 
 
 He didn't think life could get much better than this.
 
-### Scene 7: The Utah Border
+***
 
-**Date:** 2003-06-29 at 18:30 America/Denver
+#### 6:30 PM — The Utah Border
 
 The transition out of the Rocky Mountains was just as dramatic as the climb into them. 
 
@@ -7019,9 +7101,11 @@ Stella smiled, reaching across the small aisle to squeeze his shoulder. "Always,
 
 ## The Salt Lake Stop
 
-### Scene 1: The Salt Lake Stop
+### The Salt Lake Stop & The Sovereign Regency San Francisco
 
 **Date:** 2003-06-30 at 00:30 America/Denver
+
+#### 12:30 AM — The Salt Lake Stop
 
 The *Western Pioneer* was running almost an hour behind schedule, which meant it didn't pull into Utah's capital until well past midnight. 
 
@@ -7051,9 +7135,9 @@ Olivia let out a soft groan and checked her watch. "Past midnight. Go back to sl
 
 She reached out and gently pulled him back down onto the mattress. Leo let the curtain fall shut, plunging the room back into complete darkness. He closed his eyes, listening to the heavy diesel engines rev up again. With a sharp metallic clang, the train pulled out of the station, leaving the mountains behind and pushing out into the vast, empty darkness of the Nevada desert.
 
-### Scene 2: The Nevada Desert
+***
 
-**Date:** 2003-06-30 at 07:30 America/Los_Angeles
+#### 7:30 AM — The Nevada Desert
 
 When Leo woke up the next morning, the world had fundamentally changed. 
 
@@ -7091,9 +7175,9 @@ Leo looked across the table at his twin sister. Luna was already staring out the
 
 They were back on level ground. They could breathe again. And today, they were finally going to reach California.
 
-### Scene 3: The Donner Pass
+***
 
-**Date:** 2003-06-30 at 13:30 America/Los_Angeles
+#### 1:30 PM — The Donner Pass
 
 By early afternoon, the vast, pale scrub brush of the Nevada desert finally began to give way to rising terrain. 
 
@@ -7121,9 +7205,9 @@ They had crossed the entire North American continent. They had survived the Midw
 
 In just a few short hours, they were going to see the ocean.
 
-### Scene 4: Arrival in the Bay
+***
 
-**Date:** 2003-06-30 at 17:00 America/Los_Angeles
+#### 5:00 PM — Arrival in the Bay
 
 The *Western Pioneer* finally hissed to a halt at the concrete platform of the Emeryville station late in the afternoon. 
 
@@ -7163,9 +7247,9 @@ He didn't have to fight his wheelchair. He didn't have to scan the ground for ob
 
 Leo took a deep breath of the heavy, salty sea air. They were thousands of miles away from the intense humidity and quiet isolation of their small house in Virginia. They were on the edge of the Pacific Ocean. And for the next month, this was going to be their basecamp.
 
-### Scene 5: The Sovereign Regency San Francisco
+***
 
-**Date:** 2003-06-30 at 18:00 America/Los_Angeles
+#### 6:00 PM — The Sovereign Regency San Francisco
 
 The crosswalk over the Embarcadero was incredibly wide, featuring long, steady pedestrian signals that gave Leo plenty of time to roll across the busy boulevard. 
 
@@ -7195,9 +7279,11 @@ Leo grinned, maneuvering his wheelchair over to the desk to grab the leather-bou
 
 ## The City by the Bay
 
-### Scene 1: The Historic F-Line
+### Part 1: The Historic F-Line & The Transbay Tube
 
 **Date:** 2003-07-01 at 09:00 America/Los_Angeles
+
+#### 9:00 AM — The Historic F-Line
 
 The next morning, the pack stepped out of the sprawling atrium of The Sovereign Regency and onto the bustling, sun-drenched sidewalk of the Embarcadero. 
 
@@ -7237,9 +7323,9 @@ Olivia laughed. "Yep. The most famous mobster in American history. The governmen
 
 "Exactly," Stella nodded. "They locked him in the inescapable island fortress right out there in the bay. And we're going to go stand right in front of his cell."
 
-### Scene 2: Ferry to The Rock
+***
 
-**Date:** 2003-07-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — Ferry to The Rock
 
 The ferry ride from Pier 33 was shockingly smooth. The gangway leading onto the massive boat was a wide, ridged metal ramp, making it incredibly easy for Leo to push his manual wheelchair directly onto the main lower deck. 
 
@@ -7269,9 +7355,9 @@ Stella pointed to the dock rapidly approaching the front of the ferry. "The Park
 
 "The main cellhouse is perfectly flat," Stella smiled, patting Leo on the shoulder. "You'll be able to roll right down the middle of Broadway and look straight into Capone's cell."
 
-### Scene 3: Inmate 85
+***
 
-**Date:** 2003-07-01 at 11:00 America/Los_Angeles
+#### 11:00 AM — Inmate 85
 
 The SEAT tram hummed quietly as it made the incredibly steep, winding climb up the rock face of the island, bypassing what would have been a grueling hike. It deposited the pack directly in front of the heavy, imposing steel doors of the Main Cellhouse. 
 
@@ -7305,9 +7391,9 @@ She pointed toward the heavy doors at the end of the corridor.
 
 "On New Year's Eve," Luna said softly, "if the wind was blowing in the right direction, the guards said the inmates could hear the music and the laughter from the yacht club parties carrying across the water from the city. They could hear the freedom right outside, but they couldn't reach it."
 
-### Scene 4: Dummy Heads and Spoons
+***
 
-**Date:** 2003-07-01 at 11:30 America/Los_Angeles
+#### 11:30 AM — Dummy Heads and Spoons
 
 Luna pushed Leo's wheelchair further down the flat concrete corridor, following the directions of the gritty narrator in their yellow headsets. 
 
@@ -7341,9 +7427,9 @@ He tapped his NovaVox screen.
 
 "I'm with Leo on this one," Stella said, shuddering as she looked out the window. "I wouldn't last five minutes in that water. Come on, let's go see D Block. The tour says there are still bullet holes in the walls from the Battle of Alcatraz."
 
-### Scene 5: West Coast Chowda
+***
 
-**Date:** 2003-07-01 at 13:00 America/Los_Angeles
+#### 1:00 PM — West Coast Chowda
 
 The ferry ride back to the mainland was significantly quieter than the ride out. The heavy, oppressive atmosphere of the Alcatraz cellhouse had left the entire pack feeling somber and exhausted. 
 
@@ -7379,9 +7465,9 @@ Leo completely agreed. He hated soggy textures more than almost anything else. H
 
 Olivia sighed dramatically, mourning her lost tourist experience, but she dutifully fell into step beside Leo's wheelchair. "Alright, Rhode Island. Lead the way to the burgers."
 
-### Scene 6: The Crown Point Memorial
+***
 
-**Date:** 2003-07-01 at 14:30 America/Los_Angeles
+#### 2:30 PM — The Crown Point Memorial
 
 With their stomachs safely full of plain hamburgers on dry buns, the pack spent the early afternoon rolling inland from the waterfront. They navigated the grid of the city, eventually arriving at the intersection of Market Street and New Montgomery. 
 
@@ -7415,9 +7501,9 @@ Luna ran her hand gently along the cold granite of the reflection pool. "It's so
 
 Leo nodded. Surrounded by the roaring traffic and towering glass of San Francisco, the Crown Point Memorial was a permanent, heavy reminder of what happened when people decided that speed was more important than building things the right way.
 
-### Scene 7: The Transbay Tube
+***
 
-**Date:** 2003-07-01 at 16:30 America/Los_Angeles
+#### 4:30 PM — The Transbay Tube
 
 The shadows of the Financial District were stretching long across Market Street by the time the pack finally rolled away from the Crown Point Memorial. 
 
@@ -7451,9 +7537,11 @@ Leo sat in the tie-down area of the bus, listening to the pneumatic hiss of the 
 
 But as the bus bounced over a pothole, a sharp, deep ache radiated up his spine. His eyelids felt impossibly heavy. Luna was right. He had pushed himself way too far, and the crash was coming fast.
 
-### Scene 8: East Bay Diner
+### Part 2: East Bay Diner & The Bridge at Night
 
 **Date:** 2003-07-01 at 17:30 America/Los_Angeles
+
+#### 5:30 PM — East Bay Diner
 
 The EBT bus pulled over to the curb in a relatively quiet, tree-lined commercial district in North Oakland, the pneumatic brakes hissing loudly as it kneeled to the pavement. 
 
@@ -7489,9 +7577,9 @@ Leo managed a small, exhausted smile.
 
 <aac>Thank you,</aac> Leo tapped slowly on his NovaVox, closing his eyes as he waited for his grilled cheese.
 
-### Scene 9: The Bridge at Night
+***
 
-**Date:** 2003-07-01 at 18:30 America/Los_Angeles
+#### 6:30 PM — The Bridge at Night
 
 By the time the pack finished their grilled cheese sandwiches and walked out of the diner, the sun was beginning to set over the East Bay. 
 
@@ -7537,9 +7625,11 @@ Surrounded and pinned down by his entire family, Leo was asleep before Stella ev
 
 ## The Sovereign Regency
 
-### Scene 1: The Atrium
+### Part 1: The Atrium & The Fourth of July Realization
 
 **Date:** 2003-07-02 at 09:00 America/Los_Angeles
+
+#### 9:00 AM — The Atrium
 
 Leo woke up feeling surprisingly refreshed. 
 
@@ -7577,9 +7667,9 @@ Leo watched the four cousins—Isabel, Eleanor, Oliver, and Sophia—dive enthus
 
 <aac>I like this hotel,</aac> his device announced.
 
-### Scene 2: AAC Solidarity
+***
 
-**Date:** 2003-07-02 at 09:15 America/Los_Angeles
+#### 9:15 AM — AAC Solidarity
 
 As the college students wound down their intense debate about the ethics of the Crown Point timeline, the young man in the motorized wheelchair finally turned his head. 
 
@@ -7621,9 +7711,9 @@ Oliver nodded understandingly, a quiet, profound respect passing between the two
 
 As Oliver smoothly reversed his motorized chair and rolled out of the restaurant surrounded by his sister and cousins, Leo felt a massive wave of contentment. It was a brief, fleeting interaction, but seeing another guy out in the world thriving with his family and a text-to-speech engine made Leo feel incredibly grounded.
 
-### Scene 3: The Ferry Building
+***
 
-**Date:** 2003-07-02 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Ferry Building
 
 As Oliver and the college students disappeared into the sprawling brutalist lobby, Leo looked down at his NovaVox. His fingers tapped a quick, hopeful rhythm against the glass. 
 
@@ -7673,9 +7763,9 @@ The heavy glass doors swung shut, abruptly cutting off the roar of the marketpla
 
 "Okay," Stella sighed, crossing her arms and looking out at the water. "We are not doing that. Let's just look at the boats."
 
-### Scene 4: Engineering Failures
+***
 
-**Date:** 2003-07-02 at 10:15 America/Los_Angeles
+#### 10:15 AM — Engineering Failures
 
 As Leo slowly lowered his hands from his ears, the quiet hum of a heavy motorized wheelchair pulled up alongside them. 
 
@@ -7733,9 +7823,9 @@ They traded numbers, and the two packs said their goodbyes. Leo and Oliver share
 
 Luna happily spun Leo's manual chair around, and the Fortress Four headed back across the street to the Sovereign Regency, perfectly content to retreat to their room and spend the rest of the day resting.
 
-### Scene 5: The Fourth of July Realization
+***
 
-**Date:** 2003-07-02 at 19:00 America/Los_Angeles
+#### 7:00 PM — The Fourth of July Realization
 
 The evening settled over San Francisco, bringing a thick, comforting fog that rolled off the bay and wrapped around The Sovereign Regency. Inside their corner suite, the curtains were drawn tight. The ambient lighting was turned down low, casting a warm, muted glow across the plush carpet. 
 
@@ -7801,7 +7891,7 @@ Leo's shoulders dropped an inch. He looked up at Olivia, a small, hopeful smile 
 
 <aac>Bunker picnic,</aac> Leo typed, the synthesized voice sounding strangely cheerful in the quiet room. <aac>I like that plan.</aac>
 
-### Scene 7: The Team Transfer
+### Part 2: The Team Transfer
 
 **Date:** 2003-07-02 at 20:30 America/Los_Angeles
 
@@ -7863,9 +7953,11 @@ Surrounded by the steady breathing of his three favorite people in the world, Le
 
 ## Karl The Fog
 
-### Scene 1: The Golden Gate
+### Part 1: The Golden Gate & The Transbay Emergency
 
 **Date:** 2003-07-03 at 11:00 America/Los_Angeles
+
+#### 11:00 AM — The Golden Gate
 
 The morning of July 3rd began with a thick, heavy marine layer that completely swallowed the city of San Francisco. 
 
@@ -7909,9 +8001,9 @@ If anything, the marine layer had doubled down. The bus plunged back into the th
 
 Leo tapped his screen. <aac>Stupid vacuum.</aac>
 
-### Scene 2: The Transbay Tube
+***
 
-**Date:** 2003-07-03 at 15:00 America/Los_Angeles
+#### 3:00 PM — The Transbay Tube
 
 By the time the NBT bus dropped the pack off at the Embarcadero, Leo was thoroughly sick of the freezing, damp San Francisco air. Stella had forced all of them to wear thick winter coats over their t-shirts that morning, and the heavy layers felt stifling and restrictive against the straps of his manual wheelchair. 
 
@@ -7969,9 +8061,9 @@ Leo tapped his tablet. <aac>You are going to be a good engineer, Oliver.</aac>
 
 Oliver looked up, clearly surprised by the compliment. A slow, genuine smile spread across his face, and he gave Leo a small, appreciative nod.
 
-### Scene 3: The Transbay Bus
+***
 
-**Date:** 2003-07-03 at 19:00 America/Los_Angeles
+#### 7:00 PM — The Transbay Bus
 
 Dinner was a massive, chaotic affair. The eight of them crowded around a long table at a casual Mexican restaurant in downtown Oakland, devouring massive plates of tacos, enchiladas, and chips. 
 
@@ -8021,9 +8113,9 @@ Isabel smiled softly, exchanging a warm look with Sophia. They were just profoun
 
 Leo grinned, incredibly proud of himself. They had spent the entire day talking about engineering ethics, surviving claustrophobic tunnels, and staring into impenetrable gray voids. But as the bus descended into the foggy, freezing streets of San Francisco, Leo realized that he had just made a genuine friend.
 
-### Scene 4: The Transbay Emergency
+***
 
-**Date:** 2003-07-03 at 19:30 America/Los_Angeles
+#### 7:30 PM — The Transbay Emergency
 
 The warm, fuzzy feeling of having made a new friend lasted exactly ten minutes before Leo's body completely betrayed him. 
 
@@ -8097,7 +8189,7 @@ Leo felt a massive wave of relief wash over him. The humiliation of the bathroom
 
 Oliver let out another sharp, raspy gasp of laughter, giving Leo a mock salute before turning his chair and leading his cousins toward the exit.
 
-### Scene 5: The Premonition
+### Part 2: The Premonition
 
 **Date:** 2003-07-03 at 23:30 America/Los_Angeles
 
@@ -8151,9 +8243,11 @@ Leo let out a long, shuddering breath, the immense weight of his sister pressing
 
 ## The Sub-Basement
 
-### Scene 1: The Lingering Shadows
+### The Lingering Shadows & Retreat
 
 **Date:** 2003-07-04 at 08:00 America/Los_Angeles
+
+#### 8:00 AM — The Lingering Shadows
 
 The morning sun filtered through the sheer curtains of the hotel room, but the warmth of the Fourth of July did absolutely nothing to chase away the deep, biting chill that had settled into Leo’s bones. 
 
@@ -8193,9 +8287,9 @@ He managed a weak, exhausted nod.
 
 "Okay," Stella said, kissing his forehead. "Bunker day it is."
 
-### Scene 2: Room Service
+***
 
-**Date:** 2003-07-04 at 08:30 America/Los_Angeles
+#### 8:30 AM — Room Service
 
 Just as the adrenaline from Leo's nightmare began to fully dissipate, a sharp knock echoed from the hotel room door. 
 
@@ -8227,9 +8321,9 @@ Stella grabbed the room key, and Olivia took her familiar place pushing Leo's wh
 
 "Going down," Luna announced, hitting the call button. "Destination: B2."
 
-### Scene 3: The B2 Bunker
+***
 
-**Date:** 2003-07-04 at 09:45 America/Los_Angeles
+#### 9:45 AM — The B2 Bunker
 
 The elevator doors slid open with a soft chime, revealing the quiet, windowless expanse of the B2 sub-basement. Unlike the bustling lobby floors above, this level felt entirely disconnected from the outside world. There was no natural light, no sounds of traffic, and absolutely no indication that a major holiday was happening just a few stories overhead.
 
@@ -8261,9 +8355,9 @@ He lifted a trembling hand, catching Oliver's eye, and clumsily signed.
 
 Leo hesitated, then gave a slow, deliberate nod. Being down here, entirely cut off from the chaotic city, surrounded by his pack and his new friend, his pulse was finally starting to settle.
 
-### Scene 4: Real Estate Barons
+***
 
-**Date:** 2003-07-04 at 10:00 America/Los_Angeles
+#### 10:00 AM — Real Estate Barons
 
 With the oppressive weight of summer coursework officially abandoned, Eleanor reached under the mahogany table and produced a massive, colorful cardboard box. 
 
@@ -8291,9 +8385,9 @@ For the first time since he had woken up terrified from his nightmare, his hands
 
 "Alright," Stella declared, finally securing the racecar token. "I'm buying the Boardwalk. Hand me the dice."
 
-### Scene 5: Movie Night
+***
 
-**Date:** 2003-07-04 at 19:30 America/Los_Angeles
+#### 7:30 PM — Movie Night
 
 By 7:30 PM, the brutal cutthroat capitalism of *Real Estate Baron* had finally concluded. Isabel had somehow managed to bankrupt both her sister and Stella through a series of complex trades, while Leo and Oliver had formed a quiet, mutually beneficial alliance that allowed them to survive the bloodbath. 
 
@@ -8321,9 +8415,9 @@ Oliver parked his wheelchair at the edge of the blanket pile, adjusting his glas
 
 They had a plan. They had an impenetrable, soundproof fortress. The Fourth of July was going to be just fine.
 
-### Scene 6: Distant Thunder
+***
 
-**Date:** 2003-07-04 at 21:30 America/Los_Angeles
+#### 9:30 PM — Distant Thunder
 
 By 9:30 PM, they were deep into the second act of *Cretaceous Island*. 
 
@@ -8359,9 +8453,9 @@ Oliver let out a soft, raspy gasp of a laugh, his shoulders shaking in the glow 
 
 Luna laid back down on her pillows, a profound sense of gratitude washing over her. She watched the glowing screen, completely at peace, as the distant thunder rolled harmlessly above them.
 
-### Scene 7: Retreat
+***
 
-**Date:** 2003-07-04 at 23:45 America/Los_Angeles
+#### 11:45 PM — Retreat
 
 It was nearly midnight by the time they finally surfaced from the B2 sub-basement. 
 
@@ -8401,9 +8495,11 @@ Leo gave a slow, incredibly heavy nod against the pillows, his eyes already drif
 
 ## The Southbound Platform
 
-### Scene 1: The Southbound Platform
+### The Southbound Platform & The Voyage Inn
 
 **Date:** 2003-07-05 at 08:15 America/Los_Angeles
+
+#### 8:15 AM — The Southbound Platform
 
 The air at the Oakland Jack London Square ARTS station was distinctly cooler than the city they had just left behind, carrying the salty, brine-scented breeze off the nearby bay. They could have easily caught an ARTS shuttle to the closer Emeryville station, but Luna and Leo had specifically requested boarding here. They both vividly remembered reading *The Call of the Wild* back in middle school, and the idea of starting the next leg of their journey at a station named after the author had felt oddly fitting.
 
@@ -8435,9 +8531,9 @@ A loud, piercing horn blasted from down the tracks, and the massive silver nose 
 
 The journey south was officially beginning.
 
-### Scene 2: The Lower Level
+***
 
-**Date:** 2003-07-05 at 09:21 America/Los_Angeles
+#### 9:21 AM — The Lower Level
 
 The interior of the ARTS Coastliner was a welcome relief from the brisk morning air of the Jack London Square platform. 
 
@@ -8467,9 +8563,9 @@ Luna groaned, dropping her head onto the table. "Can we just sleep for the first
 
 Leo smiled, watching the Bay Area landscape begin to blur past the window. The gentle rumble of the train, the soft chatter of his pack mapping out logistics, and the promise of the Pacific Ocean coast approaching... it felt like the first time they could truly breathe since they left Chicago.
 
-### Scene 3: The Dining Car
+***
 
-**Date:** 2003-07-05 at 12:30 America/Los_Angeles
+#### 12:30 PM — The Dining Car
 
 A few hours into the journey, the intercom crackled to life, announcing that the Dining Car steward was taking reservations for lunch. A few minutes later, a uniformed attendant descended the stairs to their lower-level sanctuary, clipboard in hand. Stella quickly secured a 12:30 PM slot for the four of them.
 
@@ -8501,9 +8597,9 @@ Leo's frown deepened, and he tapped quickly on his screen.
 
 Leo smiled, looking out the large dining car window as the train hugged the edge of a steep cliff overlooking the ocean. The rhythmic clatter of the tracks, the smell of hot food from the galley, and the warmth of his pack surrounding him made the grueling twelve-hour transit time feel remarkably short.
 
-### Scene 4: Fresh Air
+***
 
-**Date:** 2003-07-05 at 15:45 America/Los_Angeles
+#### 3:45 PM — Fresh Air
 
 "Ladies and gentlemen, we are arriving in San Luis Obispo," the conductor's voice crackled over the intercom. "This will be a ten-minute fresh air break. If you step off the train, please do not stray far from your car."
 
@@ -8535,9 +8631,9 @@ He closed his eyes. The July 4th fireworks and the sensory overload of San Franc
 
 Luna sighed, resting her arms on the back of his wheelchair. "Well, it was nice while it lasted. Back into the metal tube we go."
 
-### Scene 5: Union Station
+***
 
-**Date:** 2003-07-05 at 21:15 America/Los_Angeles
+#### 9:15 PM — Union Station
 
 By the time the massive ARTS Coastliner finally screeched to a halt at Los Angeles Union Station, it was completely dark outside. The twelve-hour journey had drained whatever residual energy the pack had left. 
 
@@ -8563,9 +8659,9 @@ Luna slumped into a hard plastic subway seat, her eyes half-closed. "Tell me the
 
 Leo gripped the wheels of his chair as the subway lurched forward, plunging deeper into the dark tunnels beneath Los Angeles. They were almost there.
 
-### Scene 6: The Voyage Inn
+***
 
-**Date:** 2003-07-05 at 22:15 America/Los_Angeles
+#### 10:15 PM — The Voyage Inn
 
 The walk from the Hollywood/Highland LATA station was short, but every step felt like a marathon. The bright, chaotic neon lights of Hollywood Boulevard blurred past them as they dragged their luggage the remaining few blocks to the Voyage Inn Express. 
 
@@ -8603,9 +8699,11 @@ Leo didn't even have the energy to tap on his NovaVox. He just buried his face i
 
 ## Global Studios
 
-### Scene 1: Global City
+### Global City & The Shipping Box
 
 **Date:** 2003-07-06 at 09:00 America/Los_Angeles
+
+#### 9:00 AM — Global City
 
 The crushing, 360-degree deep pressure from the dogpile had worked perfectly. When Leo finally woke up on the morning of July 6th, the phantom vibrations of the ARTS Coastliner were completely gone from his bones, replaced by a surge of excitement. 
 
@@ -8639,9 +8737,9 @@ She pointed to the top half of the map. "But the Upper Lot has everything else. 
 
 Olivia rested her hands on Leo's wheelchair grips. "So, what's the call, Leo? Do we deal with the ADA shuttle to get to the bottom, or do we stay up here and dominate the shows?"
 
-### Scene 2: The Starway
+***
 
-**Date:** 2003-07-06 at 10:30 America/Los_Angeles
+#### 10:30 AM — The Starway
 
 Even if the Lower Lot was mostly just a water thrill ride and construction zones, Stella insisted they had to go down there. 
 
@@ -8683,9 +8781,9 @@ Luna nearly choked on her soda. "Wait. Seriously? You hate drops."
 
 Olivia grinned, cracking her knuckles. "Alright then. We're doing the dinosaur ride."
 
-### Scene 3: Cretaceous Island: The Ride
+***
 
-**Date:** 2003-07-06 at 11:30 America/Los_Angeles
+#### 11:30 AM — Cretaceous Island: The Ride
 
 Because the ride was primarily a slow-moving boat, it was surprisingly accessible. An attendant guided them to a specialized ADA loading dock, temporarily halting the massive conveyor belt so the yellow boat was completely still in the water. 
 
@@ -8723,9 +8821,9 @@ He looked to his right. Olivia's hair was plastered against the side of her face
 
 Leo burst into laughter. It was a rare, breathless, full-body laugh that shook his shoulders. He had survived the drop, and he had loved every terrifying second of it.
 
-### Scene 4: The Studio Tour
+***
 
-**Date:** 2003-07-06 at 13:00 America/Los_Angeles
+#### 1:00 PM — The Studio Tour
 
 After wringing the excess water out of their shirts, the pack wheeled over to the base of the Starway to wait for the ADA shuttle van back to the Upper Lot. 
 
@@ -8753,9 +8851,9 @@ But the absolute peak of the tour happened in total darkness. The tram drove int
 
 Leo laughed into Olivia's shoulder as a simulated helicopter crashed just feet away from them. He loved every explosion, every sudden burst of water, and every massive animatronic monster. It was thrilling, sensory-heavy chaos, but because he was securely anchored against Olivia on the slow-moving tram, he felt entirely, perfectly safe.
 
-### Scene 5: Timeline Paradox
+***
 
-**Date:** 2003-07-06 at 14:15 America/Los_Angeles
+#### 2:15 PM — Timeline Paradox
 
 "I am not letting you skip it," Leo typed aggressively on his NovaVox, holding the screen up for Luna to read. "We have to stop the bully from altering the timestream continuum. This is heavy."
 
@@ -8795,9 +8893,9 @@ They killed the next thirty minutes taking a bathroom break and wandering throug
 
 They handed over their golden coupons, loaded back into a fresh sports car, and this time, the timestream continuum was saved without a single hitch.
 
-### Scene 6: AquaWorld
+***
 
-**Date:** 2003-07-06 at 16:00 America/Los_Angeles
+#### 4:00 PM — AquaWorld
 
 With the timestream continuum successfully saved, the pack was officially ready to call it a day. But before they left the Upper Lot, Stella checked the park map and noticed one final showtime was about to start. 
 
@@ -8827,9 +8925,9 @@ The crowd erupted into a deafening standing ovation. Leo clapped wildly, his eye
 
 "Fair point," Stella agreed. "Let's hit the shops before the park closes."
 
-### Scene 7: The Shipping Box
+***
 
-**Date:** 2003-07-06 at 20:00 America/Los_Angeles
+#### 8:00 PM — The Shipping Box
 
 They spent the final hours of sunlight wandering through the neon-lit promenade outside the park gates, eating dinner at a loud, chaotic burger joint and spending far too much money at the flagship souvenir store. 
 
@@ -8869,9 +8967,11 @@ Stella and Luna quietly sat down on the floor next to them, pressing their hands
 
 ## The Enchanted Resort
 
-### Scene 1: The Orange County Commute
+### Part 1: The Orange County Commute & The Silver Lining
 
 **Date:** 2003-07-07 at 07:30 America/Los_Angeles
+
+#### 7:30 AM — The Orange County Commute
 
 The alarm clocks in Room 412 went off aggressively early. It was July 7th, their final full day in Los Angeles, and Stella had packed the schedule with the biggest, most exhausting destination of the entire trip: **The Enchanted Resort** down in Anaheim. 
 
@@ -8897,9 +8997,9 @@ They stood in the center of the massive plaza. To their left were the classic, n
 
 "So," Stella said, adjusting her backpack and looking between the two massive theme parks. "Which gate do we hit first?"
 
-### Scene 2: Cosmic Peak
+***
 
-**Date:** 2003-07-07 at 09:00 America/Los_Angeles
+#### 9:00 AM — Cosmic Peak
 
 After taking one look at the vast, sun-baked, empty concrete plazas of *Golden State Adventure*, the pack unanimously decided to head into the classic, tree-lined gates of **The Enchanted Kingdom**. 
 
@@ -8953,9 +9053,9 @@ They rushed the twins into the small, private, clinical room. It was spotlessly 
 
 Instantly, the noise, the music, and the overwhelming chaos of *The Enchanted Kingdom* vanished. In the dim, safe quiet of the private room, Olivia and Stella dropped to the floor, ready to start breaking the feedback loop.
 
-### Scene 3: The Storm
+***
 
-**Date:** 2003-07-07 at 09:30 America/Los_Angeles
+#### 9:30 AM — The Storm
 
 The heavy, soundproof door of the Medical Pavilion closed, plunging the small clinical room into dim, safe quiet. But the noise inside the room didn't stop. 
 
@@ -8995,9 +9095,9 @@ The door clicked open again. The nurse peeked her head in, offering a warm, prof
 
 Stella looked at Olivia, then looked down at the exhausted twins. The day had barely started, and they were already completely shattered.
 
-### Scene 4: The Singing Bird Serenade
+***
 
-**Date:** 2003-07-07 at 10:30 America/Los_Angeles
+#### 10:30 AM — The Singing Bird Serenade
 
 "Do you guys want to go back to the hotel?" Stella asked gently, looking down at the exhausted twins. "We can leave right now. Nobody will be mad."
 
@@ -9025,9 +9125,9 @@ Beside him, Luna was eating the last of her pineapple soft serve, a small, genui
 
 The storm had passed. The pack was okay.
 
-### Scene 5: The Ghostly Estate
+***
 
-**Date:** 2003-07-07 at 11:30 America/Los_Angeles
+#### 11:30 AM — The Ghostly Estate
 
 Feeling significantly better after the cold pineapple soft serve and the quiet, air-conditioned sanctuary of the animatronic birds, the pack ventured back out into the bright California sun. 
 
@@ -9069,9 +9169,9 @@ Leo beamed, tapping his chest excitedly. He was totally volunteering.
 
 When the ride ended, a cast member guided them right back onto the Stretching Room elevator to lift Leo's wheelchair back up to ground level. They emerged back into the bright sunlight of the French Quarter, the morning's trauma finally behind them.
 
-### Scene 6: A Sudden Jolt
+***
 
-**Date:** 2003-07-07 at 11:45 America/Los_Angeles
+#### 11:45 AM — A Sudden Jolt
 
 Emerging from *The Ghostly Estate* back into the bright California sunlight, Leo took a deep, refreshing breath. The sensory-friendly darkness of the ride had completely reset his nervous system, washing away the lingering anxiety from earlier that morning. 
 
@@ -9119,9 +9219,9 @@ Leo let out a heavy sigh, but he didn't tense up. The morning's meltdown was sti
 
 "Well, on the bright side, the restaurants don't have ride tracks," Stella pointed out, trying to find the silver lining. "And it's just about lunchtime. Who's hungry for some gumbo?"
 
-### Scene 7: The Silver Lining
+***
 
-**Date:** 2003-07-07 at 12:00 America/Los_Angeles
+#### 12:00 PM — The Silver Lining
 
 The lines for food in the French Quarter had swelled considerably now that every single ride in the park was closed, but the wait wasn't unbearable. 
 
@@ -9147,7 +9247,7 @@ By the time they finished eating, a sudden, joyful cheer erupted from the crowd 
 
 Leo grinned, excitedly tapping his chest. The ground had stopped shaking, the fortress was secure, and the afternoon was theirs.
 
-### Scene 8: The Evening News
+### Part 2: The Evening News
 
 **Date:** 2003-07-07 at 18:30 America/Los_Angeles
 
@@ -9187,7 +9287,7 @@ Stella burst out laughing, the tension of the long, chaotic day finally breaking
 
 ## Hollywood Forever
 
-### Scene 1: Fellowship with All Life
+### Fellowship with All Life
 
 **Date:** 2003-07-08 at 09:30 America/Los_Angeles
 
@@ -9245,9 +9345,11 @@ Luna reached out and took Leo's hand, giving it a firm, grounding squeeze. The s
 
 ## Chapter 98: The Confrontation
 
-### Scene 1: The Shattering
+### Part 1: The Shattering & A Sanctuary in the Storm
 
 **Date:** 2003-08-21 at 21:00 America/Los_Angeles
+
+#### 9:00 PM — The Shattering
 
 The clock tower of Seattle's King Street Station stood as a stoic, indifferent sentinel, counting down the final minutes of their last summer together. Inside the station's grand, echoing waiting hall, the fortress four sat on a hard wooden bench, a small, silent island in a sea of bustling travelers. Their train—the ARTS *Empire Builder* that would carry Stella, Luna, and Leo back across the country to Virginia—was scheduled to depart in less than an hour. Olivia was not getting on.
 
@@ -9309,9 +9411,9 @@ They stumbled down the corridor to their family sleeping quarters. Stella bundle
 
 Leo, his cries raw and ragged, scrambled to the window. On the platform, Olivia stood, her arms wrapped around herself, tears streaming down her face. He pressed his hand against the cool glass, and on the other side, she mirrored the action, their palms separated by a heartbreaking inch of glass.
 
-### Scene 2: The Long Ride Home
+***
 
-**Date:** 2003-08-21 at 21:00 America/Los_Angeles
+#### 9:00 PM — The Long Ride Home
 
 The ARTS *Empire Builder* pulled out of King Street Station, gathering speed as it began its long journey north towards Everett then east towards Chicago. Inside the small, private family sleeping quarters, the world had shrunk to a single, raw nerve of grief. The fortress was broken, and the two remaining members were trying desperately to hold the third together.
 
@@ -9379,9 +9481,9 @@ Stella realized her catastrophic mistake in a split second. The song meant to so
 
 The beautiful anthem was now forever seared into Leo's memory as a permanent, severe trigger, inextricably linked to this exact moment of profound loss. Stella pulled her two shattered siblings into a desperate embrace, her own heart breaking, now with the added weight of knowing her attempt to help had only made things infinitely worse.
 
-### Scene 3: The Infinite Loop
+***
 
-**Date:** 2003-08-21 at 21:00 America/Los_Angeles
+#### 9:00 PM — The Infinite Loop
 
 The train rumbled on, leaving the last vestiges of the Seattle suburbs behind as it passed through Everett. The city lights vanished, replaced by the dark, imposing silhouettes of the Cascade Mountains against a starless sky. Inside the small family sleeping quarters, the storm of grief raged on, unabated.
 
@@ -9391,9 +9493,9 @@ Luna, equally spent, was trapped in the infinite feedback loop of their twin bon
 
 Stella was trapped between them, a helpless island in a sea of their shared sorrow. She held Leo, her hand stroking his hair, while her eyes were fixed on Luna, her heart breaking for both of them. There was no escape, no comfort she could offer that would break the circuit. All she could do was hold on, a solitary, exhausted guardian, as the train carried her shattered family deeper into the long, dark night.
 
-### Scene 4: A Sanctuary in the Storm
+***
 
-**Date:** 2003-08-21 at 21:00 America/Los_Angeles
+#### 9:00 PM — A Sanctuary in the Storm
 
 Hours crawled by. The majestic scenery of the Cascade Mountains, which should have been a source of wonder, was an unseen blur outside the window of the small sleeping compartment. Inside, the storm of grief continued to rage.
 
@@ -9419,9 +9521,11 @@ He returned a few minutes later and, with a quiet, practiced efficiency, transfo
 
 After the attendant left, Stella managed to coax a still-sobbing Luna into the lower bunk. She then sat with Leo, holding a simple turkey sandwich for him. He was too lost in his grief to eat, but after several long, patient minutes, he finally took a small, mechanical bite. It wasn't a sign of recovery, but it was a start. It was a tiny victory in the middle of a long and brutal war.
 
-### Scene 5: The Long Night Begins
+### Part 2: The Long Night Begins & The Feast of Homecoming
 
 **Date:** 2003-08-21 at 21:00 America/Los_Angeles
+
+#### August 21, 2003 • 9:00 PM — The Long Night Begins
 
 The quiet, efficient work of the sleeping car attendant had transformed their small room into a dark, cozy sanctuary, but it could not silence the grief within it. The simple sandwiches and cartons of milk he had left for them sat untouched.
 
@@ -9443,9 +9547,9 @@ Stella did not ask again. She understood. They were in a place beyond decisions,
 
 She turned off the main light, leaving only a small, dim nightlight to cut through the oppressive darkness. She lay in her bunk, listening to the rhythmic clatter of the wheels on the track and the quiet, heartbreaking sounds of her two siblings grieving in the bunk below. The long night was just beginning.
 
-### Scene 6: Leo’s Nightmare
+***
 
-**Date:** 2003-08-21 at 21:00 America/Los_Angeles
+#### August 21, 2003 • 9:00 PM — Leo’s Nightmare
 
 A low, guttural sound of terror escaped Leo's lips in his sleep. In the bunk beside him, Luna, also spent from her own meltdown, was jolted awake. She saw her brother, her twin, thrashing in the dim nightlight, his face contorted in a mask of pure, sleeping terror.
 
@@ -9457,9 +9561,9 @@ Stella, in the bunk above, heard nothing. The physical and emotional exhaustion 
 
 For what felt like hours, Luna held on, her body a fragile shield against her brother's unseen demons. Eventually, the thrashing subsided, and his breathing evened out, though he still whimpered in his sleep. Luna didn't let go. She held him, her own heart aching, until she, too, finally drifted back into an uneasy, fitful sleep, still draped over her twin. It was in this state—two twins, tangled together in an act of profound, mutual protection—that the morning sun would find them.
 
-### Scene 7: The Morning After
+***
 
-**Date:** 2003-08-21 at 08:00 America/Los_Angeles
+#### August 21, 2003 • 8:00 AM — The Morning After
 
 The sun rose over the vast, empty plains of Montana, flooding the small sleeping compartment with a flat, unforgiving light. The train sped eastward, but inside the family bedroom, time felt frozen.
 
@@ -9503,9 +9607,9 @@ Luna and Leo exchanged a look. The thought of sitting upright in chairs, of retu
 
 They sat in a fragile, shared silence, waiting for their food. They were still broken, still adrift in their grief, but they were together. For now, in the quiet safety of their small, moving room, that was enough.
 
-### Scene 8: A Sanity of a Sponge Bath
+***
 
-**Date:** 2003-08-21 at 08:00 America/Los_Angeles
+#### August 21, 2003 • 8:00 AM — A Sanity of a Sponge Bath
 
 The morning after their nightmare-fueled night was a study in fragile quiet. The attendant brought their breakfast on a tray, and Stella managed to coax a few more bites of French toast and some apple juice into her siblings. They ate mechanically, the food a necessary fuel, not a source of comfort.
 
@@ -9547,9 +9651,9 @@ Once they were all clean, the process was reversed. Stella helped Leo get dresse
 
 Stella took one last look around the small, private sanctuary they had created. She walked to the door and, with a final, decisive click, slid the panel back, covering the red "PRIVACY" indicator and revealing the green "SERVICE" sign to the world outside. They were ready to face the day, a broken but resilient fortress, held together by the quiet, unbreakable bonds of their shared care.
 
-### Scene 9: Reckoning and Reunion
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — Reckoning and Reunion
 
 Stella ended the call with a decisive click, plunging the room into a heavy silence. She stood there, receiver in hand, trembling slightly. The full weight of the confrontation, the raw relief of having Leo home, and a sudden, piercing wave of self-reproach crashed over her. *I could have stopped this sooner,* she thought, the realization a physical blow. *That Sibling Weekend... I knew she was manipulating him, but I backed down. I have the legal authority, and I didn't use it forcefully enough.*
 
@@ -9581,9 +9685,9 @@ Olivia, her own emotions raw, met Stella's gaze. "Of course, Stel," she said wit
 
 The confrontation had been jarring, but the family's response was a swift, unified legal counter-offensive. The fortress of protection around Luna and Leo was now being permanently and legally reinforced. The kitchen still smelled wonderfully of Thanksgiving, a promise of warmth and safety that now felt absolute.
 
-### Scene 10: The Feast of Homecoming
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — The Feast of Homecoming
 
 Arthur’s toast and Leo’s heartfelt typed message hung in the warm air, weaving threads of gratitude and relief around the laden dining room table. Now, finally, it was time to simply be together, to savor the normalcy of a shared holiday meal.
 
@@ -9607,7 +9711,7 @@ Luna, who had heard Olivia’s promise, put her arm around her friend's shoulder
 
 Here, surrounded by unconditional love, having faced down the fear and been brought home, there was no need for a painted smile. The relief wasn't just about escaping danger; it was the profound freedom of finally being able to let the mask fall, to simply be, safe and accepted, with the people who truly saw him. He didn't have to pretend anymore. He was home.
 
-### Scene 11: Evening Rituals and Secure Sleep
+### Part 3: Evening Rituals and Secure Sleep
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
@@ -9637,9 +9741,11 @@ A sleepy groan came from Luna, but Olivia just chuckled softly. Leo just snuggle
 
 ## Chapter 99: A Change of Plans
 
-### Scene 1: The Shadow on the Platform
+### Part 1: The Shadow on the Platform & A Mission of Agency
 
 **Date:** 2003-08-22 at 18:00 America/New_York
+
+#### August 22, 2003 • 6:00 PM — The Shadow on the Platform
 
 The final leg of their journey, the short ride from Washington, D.C. to Newport News, was a quiet, somber blur. The excitement and adventure of their great excursion had evaporated, leaving only a heavy, aching exhaustion. As the ARTS train finally glided into the familiar Newport News station on the afternoon of Friday, August 22nd, it felt less like a homecoming and more like the end of the world.
 
@@ -9657,9 +9763,9 @@ They knew. They didn't need to be told the details of what had happened at King 
 
 There were no questions, no demands for happy stories. The grandparents simply and quietly took charge. Arthur took the handles of Leo's wheelchair, while Eleanor wrapped a supportive arm around Luna. They gathered the luggage and led their broken, silent grandchildren to the car. The great North American excursion was over. The long, difficult process of healing was just beginning.
 
-### Scene 2: A Gentle Waking
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — A Gentle Waking
 
 The house was quiet, save for the low hum of the refrigerator and the distant murmur of a morning news program. The frantic energy of the 4:00 AM alarm was a distant memory. In Stella's room, a fragile, hard-won peace reigned.
 
@@ -9687,9 +9793,9 @@ While Luna was assisting her brother, Stella, who had been on the phone in the o
 
 The plan for the day was finally, gently, beginning. It wasn't the frantic, deal-hunting rush they had anticipated, but something far better: a slow, quiet, and restorative morning, surrounded by the full, protective circle of their family.
 
-### Scene 3: The Sanctuary of Breakfast
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — The Sanctuary of Breakfast
 
 The half hour it took for their grandparents to arrive was a period of quiet, gentle transition. Luna, having helped Leo with his morning routine, now sat with him on the sofa. Olivia, who had quickly showered and changed, joined them, settling on his other side. They didn't talk much; their presence was the conversation. They created a warm, living fortress around him, their easy physical closeness a constant, unspoken promise of safety.
 
@@ -9709,9 +9815,9 @@ The three women maintained their loving vigil. Stella sat across from him, her e
 
 He ate with a quiet, focused enjoyment, a boy who was finally, simply, being allowed to exist without fear. He was home. He was safe. And for the first time in a very long time, that was more than enough.
 
-### Scene 4: A Mission of Restoration
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — A Mission of Restoration
 
 With breakfast finished and the last of the hot chocolate savored, a new, focused energy settled over the group. The quiet, healing morning had served its purpose. Now, it was time for the practical necessities of Leo's restoration.
 
@@ -9739,9 +9845,9 @@ They were deep in the process of picking out new sweaters when Arthur and Eleano
 
 As they all headed back to the cars, laden with bags, Leo felt a profound sense of peace. He was tired, but not overwhelmed. He had been seen, heard, and cared for in every possible way. The day wasn't just about the things they had bought; it was about the way they had bought them. It was another layer of his dignity, carefully and lovingly, restored.
 
-### Scene 5: A Voice of His Own
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — A Voice of His Own
 
 As they all headed back towards the mall's exit, laden with bags filled with Leo's new wardrobe, Stella put a comforting arm on the back of his wheelchair. "Okay, buddy," she said gently. "That was a huge success. Mission accomplished. Ready to go home and rest?"
 
@@ -9783,9 +9889,9 @@ Without a moment's hesitation, Stella bought it.
 
 Back in the car, Leo held the small box in his hands. It wasn't his voice, not his real one. But it was *his*. It was a start. It was a tangible piece of his own agency, a promise that he would not be silent while he waited for his true voice to be rebuilt.
 
-### Scene 6: A Mission of Agency
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — A Mission of Agency
 
 The small box containing the MagnaByte Scribe felt solid and real in Leo's hands, a tangible promise of a voice that would be his own. As they loaded the bags of new clothes into the back of the Sentinel, a sense of profound accomplishment settled over the group. But their mission wasn't quite over.
 
@@ -9813,9 +9919,11 @@ Laden with their haul of toiletries, they headed to the checkout counter. Every 
 
 "Okay," Stella said, checking her list one last time. "Next stop. And this one is for the whole family."
 
-### Scene 7: Reclaiming a Sanctuary
+### Part 2: Reclaiming a Sanctuary & A New Path Forward
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### September 18, 2004 • 10:00 AM — Reclaiming a Sanctuary
 
 The final stop wasn't another retail store, but a large, standalone mattress warehouse a few miles away. As Stella pulled the Sentinel into the parking lot, she saw a familiar car parked near the entrance. Next to it sat a large, rented box truck. Arthur and Eleanor were waiting for them, their expressions a mixture of grim determination and loving purpose.
 
@@ -9849,9 +9957,9 @@ The salesperson stared, clearly taken aback by this level of preparation. He sta
 
 Watching the new mattress disappear into the truck, ready for its journey home, Leo felt the last, deepest wound of his ordeal beginning to close. His grandfather hadn't just bought him a bed; he had moved mountains to ensure he would sleep safely *tonight*. The contaminated space was about to be cleansed, and his best friend had helped him choose the very foundation of their new, shared sanctuary.
 
-### Scene 8: Designing a New Sanctuary
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — Designing a New Sanctuary
 
 As the box truck's door rumbled shut on the new mattress, a thought struck Stella. "Wait a minute," she said, turning to the group as they prepared to leave the parking lot. "We have a bed, but we have absolutely nothing to put *on* it."
 
@@ -9881,9 +9989,9 @@ They made their way to the home decor section, picking out posters of the band F
 
 As Arthur's hired hands loaded the final dresser into the box truck, the group stood back, looking at their haul. They hadn't just bought bedding and furniture; they had officially, joyfully, redesigned their family structure, solidifying Olivia's place right in the heart of their home.
 
-### Scene 9: The Victory Lunch
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — The Victory Lunch
 
 The convoy—Stella’s Sentinel, her grandparents' car, and the rented box truck—pulled into the crowded parking lot of "The Burger Barrel," a popular local restaurant known for its classic American fare.
 
@@ -9909,9 +10017,9 @@ The food arrived, and Leo's face lit up. In front of him sat the perfect burger.
 
 The rest of the meal was filled with easy laughter and excited planning. Surrounded by his entire fortress of love, eating a meal he had chosen, and actively participating in the design of his new safe space with a voice of his own, Leo felt a deep, unshakable contentment. The victory was sweet, and it tasted like a perfectly cooked bacon cheeseburger. This would be his talker until Stella could begin the process of ordering his proper Quantum Communicator on Monday.
 
-### Scene 10: The Sanctuary Rebuilt
+***
 
-**Date:** 2003-11-27 at 10:00 America/New_York
+#### November 27, 2003 • 10:00 AM — The Sanctuary Rebuilt
 
 The convoy arrived back at Stella's house, a small, efficient army ready for its final mission. The energy was electric with purpose.
 
@@ -9933,9 +10041,9 @@ The final touches brought it all to life. The Origin poster was hung with care b
 
 They all stood in the doorway, looking in. The room was unrecognizable, and for Leo, that was the greatest gift of all. This was no longer the space that had been violated. It was a brand new sanctuary, fresh and clean, filled with items chosen by him, for him and his best friend. It wasn't just "Leo's room" anymore. It was, officially and joyfully, Leo and Olivia's room.
 
-### Scene 11: The First Rest
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — The First Rest
 
 The last of the boxes were cleared away, and the family stood in the doorway, admiring their handiwork. The transformation was complete. It was no longer a room of haunted memories; it was a bright, clean, and welcoming sanctuary.
 
@@ -9955,9 +10063,9 @@ Stella appeared at the doorway a few minutes later, seeing them lying there, qui
 
 Leo, half-dozing, overheard her. He didn't have to argue or explain. Stella just *knew*. For the first time since Delores had hurled his voice to the floor, he felt truly, completely safe in his own bedroom. He wasn't just in a new bed; he was in a new reality. He was home. He was safe. And his best friend was right there, holding him, a steadfast guardian of his newfound peace.
 
-### Scene 12: A Boundary Drawn
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — A Boundary Drawn
 
 A few hours later, Leo and Olivia woke, the room filled with the soft light of the late afternoon. The rest had been deep and restorative, taken in the safety of their new, shared sanctuary. When they emerged, the house was filled with the delicious, comforting aroma of toasted bread and roasted turkey.
 
@@ -9977,9 +10085,9 @@ Olivia, sitting beside Leo, gently squeezed his hand under the table, a silent g
 
 A shuddering breath of pure relief escaped Leo. The fear of being forced back into that environment, of a potential confrontation he couldn't handle, vanished completely. He had set a boundary born from his deepest trauma, and his family had built a wall around it without a moment's hesitation. He picked up his sandwich again, and took another bite. It was the best Thanksgiving sandwich he'd ever had.
 
-### Scene 13: A New Path Forward
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — A New Path Forward
 
 The relief in the room was palpable. The pressure to return to a place of trauma was gone, but a new question of "what next?" hung in the air. After a moment of quiet thought, Leo picked up his MagnaByte Scribe. He looked at Stella, a new idea clearly forming. The robotic voice spoke his hopeful question:
 
@@ -10001,9 +10109,11 @@ The room buzzed with a new, exciting energy. Arthur smiled, placing a hand on St
 
 The decision was made. The fear and uncertainty of the future had been replaced by a shared, hopeful adventure. In the Spring of 2004, the three of them—Leo, Olivia, and Luna—would start fresh, together, at CCHR's Virginia Beach campus, a place they already knew, their path forward paved by the unwavering love and support of their entire family.
 
-### Scene 14: Fortress Goes to College
+### Part 3: Fortress Goes to College & The First Peaceful Sleep
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — Fortress Goes to College
 
 The energy in the room after their dinner of leftover sandwiches was electric. Leo's idea to attend the CCHR Virginia Beach campus had injected a powerful dose of hope into their evening. Stella, seizing the momentum, stood up from the dining room table.
 
@@ -10035,9 +10145,9 @@ Success. All three of them. Same classes. Same schedule.
 
 Leo looked at the paper in his hands—a tangible map of his future, created on the very same day he was rescued. He wasn't just going back to school. He was going back surrounded by his protectors, his best friends, his family. He picked up his MagnaByte Scribe and typed a message for them all to see, the robotic voice clear and steady in the quiet room: <aac>I am not afraid anymore.</aac>
 
-### Scene 15: The First Peaceful Sleep
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The First Peaceful Sleep
 
 The triumphant energy from their successful college registration slowly gave way to a profound, bone-deep exhaustion that settled over the entire house. It had been a day of immense emotional swings and non-stop activity.
 
@@ -10067,9 +10177,11 @@ He didn't need to type a reply. He simply leaned into her platonic embrace, a de
 
 ## A Grieving Start
 
-### Scene 1: A Grieving Start
+### Part 1: A Grieving Start & A Cautious Assessment
 
 **Date:** 2003-08-25 at 08:00 America/New_York
+
+#### August 25, 2003 • 8:00 AM — A Grieving Start
 
 The morning of Monday, August 25th, 2003, was bright and full of the nervous, excited energy of the first day of college. For Leo Porter, however, the world was a muted shade of gray. The two weeks since the heartbreaking farewell to Olivia at Seattle's King Street Station had been a blur of quiet, aching grief.
 
@@ -10091,9 +10203,9 @@ As she pushed his wheelchair through the building's main doors, she took her dut
 
 But as they found their classroom and settled into the accessible seating at the front, Leo just stared blankly at the whiteboard. Luna could do her best, Stella could be a phone call away, but the fortress felt incomplete. He was surrounded by the noise and energy of a new beginning, but all he felt was the profound, crushing silence of an ending. He just missed Olivia so much. The void in his heart was a vast, empty space, waiting for someone, or something, to fill it.
 
-### Scene 2: American Literature
+***
 
-**Date:** 2003-08-25 at 09:00 America/New_York
+#### August 25, 2003 • 9:00 AM — American Literature
 
 The classroom in the Martin Building was a standard college classroom, built for about 30 students, with tables arranged in rows facing a large whiteboard. The fortress twins found an accessible spot near the front, giving Leo ample room for his wheelchair. As other students filed in, a middle-aged professor with kind eyes and a tweed jacket entered and began arranging his notes on the table at the front.
 
@@ -10141,9 +10253,9 @@ The professor glanced at the clock on the wall, his lecture winding down. "And t
 
 Students began to gather their bags, the rustling of backpacks and the scraping of chairs the only signal that the period was over. The class was over. They had survived their first shared academic hurdle, but for Leo, the long, lonely day was just beginning.
 
-### Scene 3: The Separation
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### November 1, 2003 • 10:00 AM — The Separation
 
 As students began to file out of the American Literature class, the reality of the next part of the day hit Leo with a jolt of raw panic. He looked at his schedule, then at Luna's. Her next class was just down the hall. His was a 90-minute College Algebra I class, across the street in the Andrews Building.
 
@@ -10189,9 +10301,9 @@ He managed a small, genuine smile in return, the first real one of the day. He t
 
 For the first time since he had said goodbye to his best friend, a fragile glimmer of hope was planted in the Olivia-sized hole in Leo's heart.
 
-### Scene 4: An Unexpected Addition
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### November 1, 2003 • 10:00 AM — An Unexpected Addition
 
 The 90-minute algebra class felt like an eternity, but it finally ended. Leo packed his bag, the earlier glimmer of hope from Delores's offer a small, fragile shield against his exhaustion. As he wheeled himself out of the classroom and into the bustling hallway of the Andrews Building, he saw a familiar, welcome sight.
 
@@ -10223,9 +10335,9 @@ Delores beamed, a look of genuine delight on her face. "Awesome! Thanks!"
 
 As the three of them—Luna pushing Leo's chair, Delores walking beside them, chatting easily—headed out of the building and toward the mall, Luna couldn't shake a tiny, unidentifiable flicker of unease. But she pushed it down. Leo looked a little happier, a little less lost. For now, that was all that mattered.
 
-### Scene 5: The First Red Flag
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### November 1, 2003 • 10:00 AM — The First Red Flag
 
 The third-floor food court of the mall was a noisy, bustling hub of lunchtime activity. Stella was waiting for them at a table near the windows, and her face lit up the moment she saw them approaching. The twins immediately broke away from Delores and enveloped their sister in fierce, loving hugs, a much-needed moment of connection after their first, separate classes.
 
@@ -10259,9 +10371,9 @@ She forced her smile to remain in place. "Oh," she said, her voice a carefully c
 
 The moment was small, almost unnoticeable. But Stella, whose "guardian bear" senses were always on a low, quiet alert, saw it. It was the first, tiny alarm bell. *Why does she have a problem with his best friend being a girl?* The thought was a small, quiet data point, filed away for future reference. It was the first red flag.
 
-### Scene 6: A Cautious Assessment
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### November 1, 2003 • 10:00 AM — A Cautious Assessment
 
 As the remnants of their lunch were cleared away, Stella glanced at her watch. "Alright, team, the salt mines are calling. I've got to get back to the office," she said, a note of reluctance in her voice.
 
@@ -10287,9 +10399,11 @@ Leo nodded, confirming he had noticed it too. He appreciated his sister's sharp,
 
 With a final wave, Stella was gone, leaving the twins to make their way to their next and final class of the day: a shared, afternoon introduction to computers class. It was a class primarily designed for senior citizens learning to use a computer for the first time, but Stella, in her wisdom, had enrolled them in it, hoping the slow, gentle pace would help them get over their anxiety of modern computers. The twins had agreed to at least give it a try. This would be their first time confronting a modern computer with a modern operating system head-on, without Stella's help. As they walked towards the classroom building together, a united front, they both felt a familiar knot of technological dread, but also the quiet strength of facing it, side-by-side.
 
-### Scene 7: Confronting Quantum
+### Part 2: Confronting Quantum & A Long-Distance Lifeline
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — Confronting Quantum
 
 The short walk from the mall food court back across the street to the Andrews Building was a marked contrast to their tense, solo journeys that morning. Now they were together, a familiar, two-person fortress moving through the bustling downtown sidewalks. Luna pushed Leo's wheelchair, her movements practiced and sure, taking her role as his caregiver seriously.
 
@@ -10371,9 +10485,9 @@ A wave of immense relief washed over the twins. They weren't just lost in a conf
 
 As they finally left the classroom, the daunting challenge of "Operation: Conquer Quantum" suddenly felt a lot less lonely, and a lot more possible.
 
-### Scene 8: A Cautious Assessment
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — A Cautious Assessment
 
 The "Introduction to Computers" class finished, leaving Luna and Leo feeling exhausted but cautiously optimistic. As they exited the classroom into the now-emptying hallway of the Andrews Building, they nearly collided with another student emerging from the English writing class next door. It was Delores.
 
@@ -10407,9 +10521,9 @@ Luna's expression softened. She knew how much he was hurting, how much he missed
 
 The effect was instantaneous. A brilliant, genuine smile broke across Leo's face, the first one Luna had seen all day. The thought of hearing Olivia's voice, of connecting with his best friend across the miles, was a beacon of pure joy. The anxieties of the day, the strange new acquaintance—it all seemed to fade in the bright, hopeful promise of that one phone call.
 
-### Scene 9: The Ride Home
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Ride Home
 
 The ride home in Stella's Holt Sentinel was a quiet, comforting cocoon after the sensory overload of the first day. Without a word, Luna slid into the back seat with Leo, a silent offer of support. The moment she was settled, Leo leaned his head against her shoulder, and she immediately wrapped an arm around him, letting him cuddle with her for the entire ride home. It was a familiar, grounding ritual, a physical reassurance that his fortress was intact.
 
@@ -10437,9 +10551,9 @@ The effect was instantaneous and profound. A brilliant, genuine smile broke acro
 
 OLIVIA! The name was a silent, happy shout in his mind. He was going to talk to OLIVIA tonight! That meant more to him than anything. He turned to his sister, a wave of profound gratitude washing over him. He gently grabbed Luna's hand and adjusted her arm, pulling her into a tighter, more comfortable cuddle. It was a perfect, non-verbal "thank you" for understanding exactly what he needed most.
 
-### Scene 10: A Long-Distance Lifeline
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — A Long-Distance Lifeline
 
 The moment they got home, before the exhaustion of the day could fully set in, Luna made good on her promise. "Okay," she announced, "Operation: Call Olivia is a go."
 
@@ -10475,9 +10589,11 @@ They hung up, and the silence that filled the room felt vast and empty, but also
 
 ## The Tutor
 
-### Scene 1: The Tutor
+### Part 1: The Tutor & A Guardian's Shadow
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — The Tutor
 
 The first few weeks of the fall semester were defined by two competing forces in Leo’s life: the deep, aching void left by Olivia’s departure, and the small, fragile glimmer of hope offered by Delores.
 
@@ -10487,9 +10603,9 @@ Their study sessions quickly bled into more. Delores was a masterful conversatio
 
 The daily phone calls with Olivia were his lifeline, but they were also a painful reminder of the distance between them. Delores, in contrast, was *here*. She was a tangible presence, a warm body in the seat next to him, and he began to cling to that.
 
-### Scene 2: The Unveiling
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Unveiling
 
 By the fourth week of their "friendship," Leo was spending most of his free time at Delores's apartment. It was during one of these weekends in late September that Delores decided to escalate, to forge a new kind of intimacy she believed would secure her control.
 
@@ -10521,9 +10637,9 @@ Leo, seeing her sudden, violent shift in mood, simply shrank back in his chair, 
 
 The tool she had thought was her ultimate trump card had proven completely ineffective. It wasn't thrilling. It wasn't special. It was just... weird. And his honest, uncomprehending reaction was, in her eyes, the ultimate rejection, derailing the rest of what she had planned for the evening.
 
-### Scene 3: A Controlled Visit
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — A Controlled Visit
 
 One Saturday afternoon in the Summer of 2003, Stella and Luna arrived at Clara Mahone's apartment in Portsmouth for one of their increasingly infrequent, carefully negotiated visits with Leo. Delores had "allowed" them to come over, but the atmosphere was immediately tense. Delores shadowed their every move, inserting herself into conversations, her eyes constantly monitoring Leo. Clara mostly stayed in the kitchen or watched TV, seemingly oblivious or perhaps willfully ignoring the undercurrents.
 
@@ -10569,9 +10685,9 @@ Delores watched the simple, affectionate sibling hugs, her face tightening into 
 
 Upset and deeply worried, Stella and Luna walked out, leaving Leo once again in the tense atmosphere, the brief respite over. The visit, intended to reconnect, had instead starkly illuminated the depth of Delores's control and neglect, leaving the sisters even more worried than before and increasingly determined to find a way to spend real, uninterrupted time with their brother soon.
 
-### Scene 4: An Unsettling Silence
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — An Unsettling Silence
 
 The front door clicked shut behind Stella and Luna, leaving a heavy silence in its wake. Leo sat quietly near the window, looking withdrawn after the stressful visit. Delores stood near the center of the small living room, still vibrating with unspoken fury, her arms crossed tightly, her gaze fixed on the door her "rivals" had just exited.
 
@@ -10595,9 +10711,9 @@ Clara looked at her daughter, hearing the weakness in the excuse. Probing furthe
 
 She turned away, heading back towards the relative normalcy of the kitchen, leaving Delores standing there. The confrontation had been brief, but it left an uncomfortable tension, and a new, unspoken question, hanging in the air.
 
-### Scene 5: A Guardian's Shadow
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — A Guardian's Shadow
 
 The heavy, resentful silence in the apartment after Stella and Luna's departure was a familiar poison to Clara Mahone. She watched her daughter, Delores, pace the small living room, still fuming over the perceived slights of the afternoon—the bath, her mother's lack of absolute support, and the infuriatingly close bond between Leo and his sisters.
 
@@ -10647,9 +10763,11 @@ The color drained from Delores's face, but it was quickly replaced by a flush of
 
 Clara looked at her daughter, at the complete, unshakeable delusion in her eyes, and knew she was fighting a losing battle. She had laid out the stark, terrifying truth, and Delores had simply refused to believe it, twisting it into another grievance against her perceived rival. The warning had been given, but it had not been heard.
 
-### Scene 6: A Sleepless Resolve
+### Part 2: A Sleepless Resolve & A Fragile Normalcy
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — A Sleepless Resolve
 
 The thin walls of Delores's bedroom offered no protection from the argument raging in the living room. Leo heard all of it: Clara's desperate, urgent explanation, Delores's scoffing disbelief, and the sharp, terrifying words that followed.
 
@@ -10667,9 +10785,9 @@ Leo immediately backed down, scared of enraging her further. He said nothing mor
 
 He hardly slept that night. He lay stiffly in the bed, pretending to be asleep, every nerve on high alert. The frightening words from the argument echoed in his mind, mingling with the memory of Delores's cold fury. But as the long, terrifying night wore on, his fear slowly hardened into a quiet, unshakeable resolve. He was grateful that he didn't have an early class the next day. He decided that tomorrow, no matter what it took, he was going to tell Stella and Luna everything. He would tell Olivia. He would tell them all. This had to end.
 
-### Scene 7: A Fragile Normalcy
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — A Fragile Normalcy
 
 The next morning, the terror of the previous night felt like a distant, foggy dream to Leo. When he woke, Delores was bright and cheery, a complete one-eighty from her cold fury the day before. It was another mask, a carefully constructed performance of normalcy, but it was one that Leo, in his desperate desire for peace, did not pick up on. Her cheerfulness felt like a reprieve, a sign that maybe things were okay, that he had imagined the severity of the argument between her and her mother.
 
@@ -10683,9 +10801,11 @@ He gave a genuine, relieved smile. They headed into the building for their share
 
 ## The Hijacked Plan
 
-### Scene 1: The Hijacked Plan
+### Part 1: The Hijacked Plan & MagnaByte Conflict
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — The Hijacked Plan
 
 Fall 2003 arrived, and with it, the approach of the mid-October long weekend many colleges observed as Fall Break around Columbus Day. The silences from Leo were becoming longer, the phone calls shorter and more stilted. Stella and Luna exchanged worried glances more frequently. Since Leo had effectively moved in with Delores and her mother across the river in Portsmouth, the communication had gradually dwindled, subtly throttled by Delores’s possessiveness. They missed him terribly, and beneath the missing him was a growing unease about his situation.
 
@@ -10719,9 +10839,9 @@ After hanging up, Stella relayed the situation to Luna.
 
 Luna retreated into angry silence, grabbing her headphones. The planned sibling weekend had been hijacked before it even began, setting the stage for the days of simmering tension and forced proximity ahead.
 
-### Scene 2: The College Pickup
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — The College Pickup
 
 The blue Holt Sentinel idled near the entrance of the community college campus in Norfolk that Friday afternoon. Stella gripped the steering wheel, her knuckles white for a moment before she forced herself to relax. Beside her in the back seat, Luna stared stonily out the window, headphones already clamped over her ears, emitting a faint tinny beat of some angry rock song. The original plan for a relaxed, siblings-only weekend felt like a distant memory, replaced by dread.
 
@@ -10737,9 +10857,9 @@ Stella shot Luna a warning look in the rearview mirror before turning back to th
 
 "Right," Stella said tightly, forcing calmness. "Okay, Leo, looks like you and Luna get the back seat today."
 
-### Scene 3: The Drive and Arrival
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Drive and Arrival
 
 Helping Leo transfer into the back of the Sentinel was significantly more awkward than the front seat transfer they usually managed. It required more maneuvering, and Leo bumped his knee slightly, wincing. Delores watched from the front seat, offering unhelpful commentary. "Be careful with him, Stella. You almost dropped him. Maybe I should do it."
 
@@ -10759,9 +10879,9 @@ Swallowing her rage, Delores kept her mouth shut. She turned back around in her 
 
 In the back seat, Luna continued to hold her brother, a silent, victorious guardian. The first battle of the weekend had been fought without a single word, and for now, the fortress had won.
 
-### Scene 4: An Uneasy Evening
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — An Uneasy Evening
 
 Pulling into the driveway of the small house on Stella's house felt less like arriving home and more like bringing the tension indoors. The moment the car stopped, Stella and Luna got out to help Leo, the transfer out of the back seat just as awkward as getting in. Delores retrieved her own bag from the trunk and surveyed the house with a critical eye.
 
@@ -10789,9 +10909,9 @@ Luna, seeing this, stood up abruptly. "I've got homework," she announced, and re
 
 Stella watched the dynamic, frustration simmering. Delores wasn't just a guest; she was an occupying force, disrupting their routines and trying to control Leo even here.
 
-### Scene 5: Saturday Under Siege
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — Saturday Under Siege
 
 Silence hung heavy in Stella’s house when Saturday morning dawned, grey and cheerless outside, mirroring the mood inside. Stella emerged from her room first, feeling unrested. She found Luna already in the kitchen, rigidly pouring cereal. They exchanged a brief, weary look. The closed door to Leo’s bedroom felt like a physical weight between them .
 
@@ -10855,9 +10975,9 @@ In the living room, Stella and Luna exchanged a look. They heard the raw grief i
 
 When the call finally ended, Leo looked utterly drained, but also a little more like himself. The fragile peace, however, was shattered the moment he hung up the phone.
 
-### Scene 6: MagnaByte Conflict
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — MagnaByte Conflict
 
 After the call with Olivia, seeking refuge, Leo joined Luna at the MagnaByte table. The quiet, rhythmic click-clack of the two keyboards filled their corner as they focused on a writing assignment for English class, comfortably using MagnaWriter. For a brief period, they existed in their familiar bubble.
 
@@ -10887,9 +11007,11 @@ Stella hurried back in. "What's going on here?"
 
 Delores shrugged with feigned indifference. "Fine. Whatever. Stay here with your *silly antiques*." She walked back to the couch. Luna glared after her. Leo looked down at his keyboard, the brief refuge invaded. He glanced at Luna, a shared look of helpless anger passing between them.
 
-### Scene 7: Printer Rage, Guardianship Questions, and a Forceful Kiss
+### Part 2: Printer Rage, Guardianship Questions, and a Forceful Kiss & Leftovers, Bus Schedules, and Locked Doors
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — Printer Rage, Guardianship Questions, and a Forceful Kiss
 
 Despite the earlier interruption, Luna and Leo Porter resolutely turned back to their MagnaBytes, determined to finish their English assignment. They worked steadily for another hour. Finally, Luna stretched. "Okay, I'm done. Ready to print?" Leo gave a quick nod, saving his MagnaWriter document.
 
@@ -10955,9 +11077,9 @@ After another moment of asserting her control, she finally, roughly, helped him 
 
 Leo kept his eyes downcast, the "painted smile" he’d perfected – that hollow mask of endurance – fixed on his face, though tears of pain and shame still tracked silently down his cheeks. He felt stripped bare, violated in front of the two people he loved most in the world. Delores had not only asserted her control over him but had used his body to wound his sisters as well. The suffocating feeling of her tongue, the sting of her teeth on his cheek, the burning shame of the visible mark – it was all a horrifying testament to his entrapment. The silence in the room was broken only by the tinny, cheerful theme song of some forgotten sitcom flickering on the television, a grotesque counterpoint to the ugly reality that had just unfolded. Delores leaned back on the sofa, a picture of possessive satisfaction, while Leo sat beside her, a prisoner marked by her cruelty, his sisters watching, hearts shattered, their protective fury banked but burning with a desperate, ice-cold resolve.
 
-### Scene 8: Leftovers, Bus Schedules, and Locked Doors
+***
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+#### 10:00 AM — Leftovers, Bus Schedules, and Locked Doors
 
 The rest of Sunday passed under the heavy, oppressive cloud left by the previous day's arguments and Delores’s continued attempts to control Leo and undermine Stella. Luna remained largely invisible, barricaded in her room or behind her MagnaByte screen. Stella navigated the hours, maintaining a strained civility for Leo’s sake.
 
@@ -11029,9 +11151,11 @@ Luna nodded again, more firmly this time. "Got it."
 
 The unspoken fear hung heavily between them. Another sleepless night stretched ahead, filled with worry for the boy behind the locked door down the hall.
 
-### Scene 9: A Day Under Duress
+### Part 3: A Day Under Duress & Tuesday Morning Departure
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — A Day Under Duress
 
 Monday – Columbus Day – dawned with the heavy weight of unspoken resentment settling even deeper over Stella's small house. Delores emerged late, clearly furious about being trapped there for another day due to her refusal to accept Stella's offer of a ride and the lack of the final \#85 bus route on the holiday schedule. She made her displeasure known through pointed sighs and a chilly demeanor that ignored both Stella and Luna completely, while simultaneously hovering possessively over Leo.
 
@@ -11083,9 +11207,9 @@ The thought was a declaration of war, but it was one she felt ready to wage. She
 
 Luna's head snapped up, a fierce, desperate hope in her eyes, completely unaware of Stella's internal conflict. She agreed instantly, her voice full of a longing that had been building for months. "Yes, Stel. Absolutely. I want my twin back home. Sooner rather than later." The decision was made: Leo was going to come home for Thanksgiving, come hell or high water.
 
-### Scene 10: Tuesday Morning Departure
+***
 
-**Date:** 2003-11-01 at 07:00 America/Los_Angeles
+#### 7:00 AM — Tuesday Morning Departure
 
 Tuesday morning arrived, bringing the promise of departure and the resumption of the normal weekday bus schedule. Delores was clearly eager to leave, pacing impatiently near the front door while Leo finished getting ready. There was no time offered for a proper breakfast, nor any desired.
 
@@ -11147,7 +11271,7 @@ Leo glanced back once, a silent, worried look passing between him and his sister
 
 ## The Trip Proposal
 
-### Scene 1: The Trip Proposal
+### Part 1: The Trip Proposal
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11159,7 +11283,7 @@ She waved away any potential logistical concerns he might have gestured toward. 
 
 An adventure. A chance to get away, maybe reset things with Delores after the awful weekend. Seeing a new part of the country sounded exciting. Leo, trusting her implicitly about the travel plans as she presented them and unaware she hadn't told her mother the real plan, readily agreed. The idea of an "adventure" and a trip away felt like a welcome break, a potential positive turn he hoped for.
 
-### Scene 2: Four Days on the Bus
+### Part 2: Four Days on the Bus
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11171,7 +11295,7 @@ Rest stops became logistical hurdles. Many older bus stations or roadside diners
 
 He desperately wished he could message Stella or Luna during the long stretches, but his older AAC device (a bulky, dedicated unit from 1999) lacked any built-in internet or messaging capabilities. Even if he tried composing messages offline to potentially save later, Delores hovered whenever he used the device, making comments about wasting battery or asking pointedly what he was doing, making him quickly put it away. The technological limitations combined with Delores's controlling presence meant the isolation felt immense, stretching with the miles.
 
-### Scene 3: The Music City Realization
+### Part 3: The Music City Realization
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11189,7 +11313,7 @@ It wasn't just a rough patch, and it wasn't just the stress of travel. It was en
 
 Watching the MTA bus merge away toward an exit, Leo felt a desperate, suffocating panic rise in his chest. He wanted out. He wanted to turn this massive coach around, get off this endless ride, and go back to the safety and quiet understanding of Stella and Luna. But as he looked over at Delores, who was staring rigidly ahead, lips pursed in irritation, the terrible reality of his situation set in. He had limited funds, no easy way to communicate, and his abuser controlled every aspect of this journey. He was trapped.
 
-### Scene 4: The Colby Turn
+### Part 4: The Colby Turn
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11205,7 +11329,7 @@ She hated this. She hated the inconvenience of him. And as she stood there in th
 
 The moment of shared regret was fleeting, yet deeply alienating. She didn't look at him. She didn't come back on board to check if he needed water or repositioning. Instead, she shook her head, took a long drag of the dry air, and eventually climbed back onto the bus with a heavy, put-upon sigh. She sank into the seat next to him without a word, leaving Leo trapped in his own silent misery as the Pathfinder pulled back onto I-70, continuing its relentless push westward.
 
-### Scene 5: Mile High
+### Part 5: Mile High
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11219,7 +11343,7 @@ Delores, slouched in the seat beside him with a magazine, barely glanced up. "It
 
 But he couldn't take deep breaths. His core muscles, already strained from holding him upright for hundreds of miles, were failing. He needed to recline, he needed to stretch out, he needed the specialized respiratory support he had back home. Delores offered nothing but annoyance, framing his genuine medical distress as a mere inconvenience to her reading time. He was forced to endure the agonizing stretch through Colorado in silence, rationing his breaths, trapped in a failing body next to a guardian who refused to protect him.
 
-### Scene 6: Pressure and Lies
+### Part 6: Pressure and Lies
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11237,7 +11361,7 @@ Delores barely looked. She waved a hand dismissively, her attention already focu
 
 It was a lie, and they both knew it. She knew the medical reality of his condition just as well as he did, but acknowledging it would require her to stop the trip, seek medical help, and inconvenience herself. Instead, she chose to gaslight him, minimizing his pain and endangering his body rather than altering her plans. Forced back onto the next bus, Leo felt a new, profound level of terror take root. His body was breaking down, and his captor simply didn't care.
 
-### Scene 7: The Pasco Lock
+### Part 7: The Pasco Lock
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11263,7 +11387,7 @@ Delores stopped. Her head snapped toward the door. The spell of her sickening co
 
 She quickly finished the transfer, her movements rough and hurried, and unlocked the door, wheeling him out into the glaring fluorescent light of the terminal. The physical assault hadn't happened, but the psychological violation was absolute. As they boarded the bus for Seattle, Leo sat in stunned, horrified silence, the ghost of her touch and the terrifying realization of what she was capable of echoing endlessly in the dark.
 
-### Scene 8: Arrival in the Pacific Northwest
+### Part 8: Arrival in the Pacific Northwest
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11297,7 +11421,7 @@ They disembarked onto the platform with their bags, the air damp and chilly. A f
 
 As they drove the final few blocks from the station, Aunt Carol focused entirely on Delores, chattering excitedly about catching up, completely ignoring Leo in the back seat. The earlier warmth directed at her niece only highlighted the chilly courtesy extended to him. Leo stared out the window, the feeling of being an unexpected, unwelcome piece of baggage intensifying. The suspicion about the return trip, sparked by overhearing Delores's phone call, gnawed at him, amplified now by the clear evidence that his presence here was, at best, tolerated, and certainly not invited. The dread tightened its grip.
 
-### Scene 9: An Unwelcoming House
+### Part 9: An Unwelcoming House
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11321,7 +11445,7 @@ Later, as Delores closed the guest room door, the exhaustion of the journey cras
 
 Carol, passing the guest room doorway a few minutes later, saw the large electronic device charging. She recognized it immediately as a type of Augmentative Communication device. She knew how vital they were, and made a quick, sharp mental calculation of just how incredibly expensive they were. The fact that this exhausted, clearly distressed young man had been without his voice for any length of time was another piece of a troubling puzzle that was beginning to form in her mind. It was clear to her that none of this was Leo's fault. The observation registered, filed away for the moment.
 
-### Scene 10: Jet Lag, Pancakes, and a Fragile Plan
+### Part 10: Jet Lag, Pancakes, and a Fragile Plan
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11419,7 +11543,7 @@ Carol looked at Leo. Her eyes softened.
 
 She turned back to Delores, her eyes hard again. "You do the dishes. Both plates."
 
-### Scene 11: Delores Forces Herself
+### Part 11: Delores Forces Herself
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11483,7 +11607,7 @@ He looked at the nightstand where his AAC device sat charging. He wanted to reac
 
 He was safe, physically. But the psychological wall had been breached. He knew now, with terrifying certainty, that there was no line she wouldn't cross if she was angry enough. He had to get out. He had to go home.
 
-### Scene 12: The Breaking Point
+### Part 12: The Breaking Point
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
@@ -11575,7 +11699,7 @@ He didn't know where he was going. But he knew he had to move.
 
 ## Escape Through the Rain
 
-### Scene 1: Escape Through the Rain
+### Part 1: Escape Through the Rain
 
 **Date:** 2003-11-26 at 04:00 America/Los_Angeles
 
@@ -11671,7 +11795,7 @@ The ride to SeaTac Airport felt interminable, but warmer and safer than the desp
 
 Finally, the bus pulled up to the arrivals level of the main SeaTac terminal building. He had made it. The airport felt vast, noisy, and confusing even in the early morning hours (~5:40 AM), but indoors, and it felt like the first step towards actual safety. Now, he just had to figure out how to call home amidst the growing holiday travel chaos.
 
-### Scene 2: Carol Looks for Leo
+### Part 2: Carol Looks for Leo
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -11735,7 +11859,7 @@ Carol shook her head, her expression grim. "We can't believe a word that comes o
 
 The two sisters, united in their shared fury and disappointment, made a grim pact over the phone. Delores's game was over. The consequences were coming, and for the first time in her life, there was no one left to protect her from them.
 
-### Scene 3: The TTY Lifeline
+### Part 3: The TTY Lifeline
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -11869,7 +11993,7 @@ On the other end, all three women heard it. The sheer, naked happiness in that s
 
 "I hear you, mon ami," Olivia whispered fiercely, her own voice cracking with emotion. "I'm on my way."
 
-### Scene 4: The Longest Hour
+### Part 4: The Longest Hour
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -11953,9 +12077,11 @@ The phone clearly transmitted the sound of Leo's raw, wordless cries of pure rel
 
 "I've got him, Stella," Olivia promised, leaning against the locked door of their temporary sanctuary. "I'm bringing him home."
 
-### Scene 5: Sanctuary in a Sterile Room
+### Part 5: Sanctuary in a Sterile Room & The Boarding Pass
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — Sanctuary in a Sterile Room
 
 The family restroom was a small, sterile, and blessedly quiet haven. The heavy door was locked, silencing the chaotic hum of the airport terminal. For the first time in days, Leo was in a private space with someone he trusted completely. The relief was so profound it was almost painful.
 
@@ -12007,9 +12133,9 @@ She just smiled, a small, sad, and deeply loving smile.
 
 "Come on," she said softly. "First things first. You're starving. Let's get you some real food."
 
-### Scene 6: The First Meal
+***
 
-**Date:** 2003-11-26 at 10:00 America/Los_Angeles
+#### 10:00 AM — The First Meal
 
 As they exited the restroom back into the main terminal, the sheer scale of the airport, the echoing announcements, and the growing stream of travelers hit Leo with fresh force. He stopped, his breathing hitching, the world feeling too big, too loud after the quiet of the small room. Olivia saw it instantly. She wheeled him to a slightly quieter alcove, knelt in front of him, and pulled him into a firm, grounding hug.
 
@@ -12029,9 +12155,9 @@ When he was finally finished, a deep, bone-weary contentment had settled over hi
 
 "Hey," she said, opening her laptop. "Let's show your sisters how well you're doing."
 
-### Scene 7: A Virtual Sanctuary
+***
 
-**Date:** 2003-11-26 at 10:00 America/Los_Angeles
+#### 10:00 AM — A Virtual Sanctuary
 
 Olivia cleared the wrappers from their table, then unzipped her carry-on bag and pulled out her bulky laptop. "Let's show your sisters how well you're doing," she said softly.
 
@@ -12125,9 +12251,9 @@ He took a slow, shuddering breath, forcibly closing the file on Delores in his m
 
 "Okay," Olivia whispered, reading the shift in his eyes. She stood up and grabbed the handles of his chair. "Let's go get you some dry clothes."
 
-### Scene 8: The Boarding Pass
+***
 
-**Date:** 2003-11-26 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Boarding Pass
 
 The InfoLink Messenger chat with his sisters had been a lifeline, a virtual sanctuary that reaffirmed his connection to home. But when Olivia packed her laptop away, the stark reality of the bustling, noisy airport terminal crashed back in. Leo was exhausted, his body aching, and his flight was still hours away.
 
@@ -12151,7 +12277,7 @@ He looked at the two slips of paper in Olivia's hand—his name and hers, side-b
 
 "See?" she said softly, her hand resting reassuringly on the back of his chair. "I told you I've got you. All the way home. Come on, let's go get you one step closer."
 
-### Scene 9: Airside Sanctuary
+### Part 6: Airside Sanctuary
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12195,7 +12321,7 @@ The realization hit him with a profound, beautiful finality. Delores had thrown 
 
 He was inside the fortress now. And he was safe.
 
-### Scene 10: Airside Mission – Clothing
+### Part 7: Airside Mission – Clothing
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12219,7 +12345,7 @@ Leo gave a small, resolute nod. They continued this way, with Leo selecting a fr
 
 "Okay, mission accomplished. Let's go find a family restroom and get you changed."
 
-### Scene 11: Restoring Dignity
+### Part 8: Restoring Dignity
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12267,7 +12393,7 @@ He gave a small, grateful nod. She helped him transfer back to his wheelchair an
 
 They sat there for a long time, not speaking, just watching the complex, powerful ballet of the airport. They watched the ground crews, the baggage carts zipping by, and the massive passenger jets gracefully taking off and landing. For Leo, it was a perfect, soothing activity—a world of complex systems, of predictable departures and arrivals. Each plane that took off, heading east, was a quiet, hopeful symbol of his own journey home.
 
-### Scene 12: A Song of Homecoming
+### Part 9: A Song of Homecoming
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12303,7 +12429,7 @@ He used her phone, his fingers moving with a new steadiness, and typed out a ver
 
 "An excellent and very specific choice," Olivia said with a warm smile. She ordered his custom sandwich and a simple turkey wrap for herself. They returned to their quiet gate area and ate their meal in a comfortable, peaceful silence. The emotional storm had passed, leaving a calm, hopeful quiet in its wake as they prepared for the final steps of their journey home.
 
-### Scene 13: The Storm Before the Calm
+### Part 10: The Storm Before the Calm
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12355,7 +12481,7 @@ He gave a small, exhausted nod. He was drained, but the wild, chaotic energy was
 
 Olivia ended the call. They had weathered the storm. Now, all that was left was the final journey home.
 
-### Scene 14: Flight 1138
+### Part 11: Flight 1138
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12395,7 +12521,7 @@ The flight attendant's expression was one of pure, professional compassion. "Tha
 
 With that, the final piece of the plan was in place. Olivia settled back into her seat and took Leo's hand, giving it a firm, triumphant squeeze. They were on the plane. They were safe. And for the first time in what felt like a lifetime, Leo could look out the window at a new and hopeful horizon, knowing his best friend had thought of everything.
 
-### Scene 15: A Longing for Simplicity
+### Part 12: A Longing for Simplicity
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12421,7 +12547,7 @@ In that moment, a new, specific, and powerful wave of homesickness washed over L
 
 He looked out the window at the endless expanse of clouds below, the simple bag of pretzels on his tray table feeling like a small but significant step on the very long road back to his real life, to the safe and simple world he knew was waiting for him.
 
-### Scene 16: A Midway Dash
+### Part 13: A Midway Dash
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12447,7 +12573,7 @@ Olivia quickly gathered their trash and packed away their things. "That's us," s
 
 With Olivia pushing his chair, they joined the pre-boarding line, fed, cared for, and ready for the final leg of their long, arduous journey.
 
-### Scene 17: The Gate Pass
+### Part 14: The Gate Pass
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12465,7 +12591,7 @@ Relief washed over her so powerfully her knees almost buckled. “Yes! Thank you
 
 Armed with the precious passes, she and Luna made their way through the TSA checkpoint and hurried down the concourse to Gate A5. They found seats with a direct view of the jet bridge door and settled in for the final, agonizing wait. Every minute stretched into an eternity. *Please let them be okay.*
 
-### Scene 18: Sanctuary
+### Part 15: Sanctuary
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12513,7 +12639,7 @@ He gave a small, exhausted nod, accepting the tablet and resting it gently on hi
 
 He nodded again. Stella took the handles of his chair, her touch a promise of absolute safety. Luna and Olivia gathered their bags, and the four of them began the journey towards the exit, moving together—a complete and unbreakable fortress of love.
 
-### Scene 19: Haven City
+### Part 16: Haven City
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
 
@@ -12561,9 +12687,11 @@ A sound—a raw, choked sob of pure, unadulterated relief—was torn from his ch
 
 Olivia was beside him in an instant, wrapping him in a fierce, loving hug. He clung to her, the last of his terror finally, truly, washing away. He wasn't just safe for a night. He was safe forever. The fortress of protection was now, officially and permanently, three-strong, just as it was always meant to be.
 
-### Scene 20: The Contaminated Sanctuary
+### Part 17: The Contaminated Sanctuary & Later That Night
 
 **Date:** 2003-11-26 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — The Contaminated Sanctuary
 
 He was clean, he was cared for, and he was surrounded by his fortress of love. As Leo lay on Stella’s bed, a profound weariness settled deep in his bones.
 
@@ -12595,9 +12723,9 @@ It was a chaotic but loving ballet of logistics. Stella and Olivia quickly retri
 
 Leo was in the middle, a position of ultimate safety. Luna immediately curled up on one side of him, and Olivia on the other. They flanked him, their arms wrapping around him, creating a warm, living fortress. He was surrounded, held, and protected. He wasn't just safe for a night. He was safe forever. And in the quiet darkness, cocooned by the unwavering love of the three most important women in his life, he finally, truly, began to feel the first fragile sense of peace.
 
-### Scene 21: Later That Night
+***
 
-**Date:** 2003-11-26 at 22:00 America/New_York
+#### 10:00 PM — Later That Night
 
 Later that night, the quiet darkness of the house should have felt comforting, but sleep wouldn't come easily for Leo. His body still felt adrift between time zones, and the lingering fear was a cold, visceral knot in his stomach. He was exhausted but mentally wired, hyper-aware of the profound safety of his current situation: he was nestled on Stella's massive king-sized waterbed, a human fortress surrounding him. Luna was on one side, Olivia on the other, their steady breathing a quiet rhythm in the dark. Stella was a warm, solid presence on the outside edge next to Luna. He was completely and utterly safe. He knew it logically.
 
@@ -12641,7 +12769,7 @@ And they, in turn, kept their own loving, silent vigil, their arms around him, t
 
 The first grey, watery light of Thanksgiving morning would eventually filter through the blinds, finding the four of them still huddled together on the waterbed—a tableau of profound, protective love and the first, fragile dawn of a long and arduous healing process.
 
-### Scene 22: I'll Drag You Back
+### Part 18: I'll Drag You Back
 
 **Date:** 2003-11-27 at 04:00 America/New_York
 
@@ -12687,9 +12815,11 @@ Luna rested her forehead lightly against his shoulder. Let the darkness try. Let
 
 ## The First Morning
 
-### Scene 1: The First Morning
+### Part 1: The First Morning & The Fortress Assembles for the Night
 
 **Date:** 2004-09-18 at 07:00 America/New_York
+
+#### 7:00 AM — The First Morning
 
 Saturday morning sunlight streamed into the newly reorganized bedroom, illuminating the deep blue of the comforter and the fresh paint on the walls. For the first time since his return, Leo woke without a jolt of terror or disorientation. He was simply... waking up. He was in his new bed, which was just as soft and comfortable as he remembered . To his left, Olivia was still fast asleep, her breathing a quiet, steady rhythm in the peaceful room.
 
@@ -12709,9 +12839,9 @@ With a practiced and comfortable teamwork that was quickly becoming their new no
 
 Ready for the day, they headed out of their new sanctuary together, drawn by the comforting aroma of coffee and the sound of Stella and Luna laughing in the kitchen. It was the start of their first truly normal day, and it felt wonderful.
 
-### Scene 2: Designing the Future
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Designing the Future
 
 The peaceful aftermath of breakfast settled over the house. Arthur and Eleanor had left for the day, leaving the four of them—Stella, Luna, Leo, and Olivia—to enjoy a quiet Saturday. As they relaxed in the living room, Leo, who had clearly been thinking about more than just the immediate day, broke the comfortable silence.
 
@@ -12727,9 +12857,9 @@ She leaned back, shifting into practical planning mode. "Painting is a project w
 
 The conversation immediately turned to colors and styles—deep blues, soft grays, the pros and cons of different carpet textures. It was more than just a discussion about home improvement; it was the sound of a family actively and joyfully building its future together, one paint chip and one idea at a time.
 
-### Scene 3: A Palette of Possibilities 🎨
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — A Palette of Possibilities 🎨
 
 The following weekend, armed with a sense of purpose and excitement, the "fortress four" piled into Stella's Holt Sentinel and headed to a large home improvement store. The air inside smelled of fresh-cut lumber and potting soil, a stark contrast to the sterile scent of the hospital waiting rooms and airports that had defined their recent past.
 
@@ -12755,9 +12885,9 @@ Next, it was Luna's turn. She gravitated towards the greens and purples, agonizi
 
 They left the store laden with cans of primer, paint rollers, brushes, trays, drop cloths, and rolls of blue painter's tape. The trunk of the Sentinel was packed not just with supplies, but with the tangible promise of a new beginning. The conversation on the way home was a happy buzz of plans and anticipation. It was more than just a shopping trip; it was an act of creation, a joyful and deliberate step in painting over the past and designing a brighter future, together.
 
-### Scene 4: The First Coat of Freedom
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### 7:00 AM — The First Coat of Freedom
 
 That Saturday morning, the house was a hive of purposeful activity. The mission: Operation Paint the Walls. Stella, the project manager, directed the troops with cheerful efficiency. "Alright team, old clothes on! Music up!" she declared, turning on the stereo to a classic rock station.
 
@@ -12775,9 +12905,9 @@ The four of them worked together, a happy, paint-spattered crew. Stella and Luna
 
 With every roll of the deep blue paint that covered the old, neutral beige, Leo felt a layer of the past being erased. He thought of Delores, of the feeling of being trapped in this very room during that awful weekend . But now, her memory was being painted over, buried under a color he and Olivia had chosen together. This wasn't just a renovation; it was a reclamation. For Leo, the contamination of Delores was being removed, one fresh coat of paint at a time. The room was already starting to feel like his—like *theirs*—again.
 
-### Scene 5: The Chemical Fire
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Chemical Fire
 
 With the first coat of paint drying on the walls and the rollers soaking in the kitchen sink, the immediate priority shifted to getting clean. They were all speckled with navy blue and soft gray paint, and Leo was no exception.
 
@@ -12831,9 +12961,9 @@ His hands were still shaking slightly, but he managed to slowly tap out a messag
 
 Olivia knelt and rested her forehead against his knee, letting out a long, shuddering breath. The routine had shattered, but the fortress had held. They had survived another phantom of Delores's abuse, and as Stella made a mental note to call a dermatologist first thing Monday morning, they knew they would never let him be hurt like that again.
 
-### Scene 6: The Fortress Assembles for the Night
+***
 
-**Date:** 2004-09-18 at 21:00 America/New_York
+#### 9:00 PM — The Fortress Assembles for the Night
 
 As evening approached, the first coat of paint was on the walls of both bedrooms. The deep blue and soft gray in Leo and Olivia's room, and the sage green in Luna's, had already dramatically transformed the spaces. But with the fresh paint came the strong, chemical smell of VOCs, making it clear that neither room would be habitable for the night.
 
@@ -12847,9 +12977,11 @@ The decision was easy. Just as they had done during the aftermath of Leo's rescu
 
 As they settled in for the night—Leo in the middle, safely flanked by Olivia on one side and Luna on the other, with Stella on the far side of Luna—a profound sense of peace settled over him. The earlier memory of the paint covering the last vestiges of Delores's presence, combined with the immediate, comforting warmth of his three protectors, was a powerful balm. Leo felt completely safe with all three of his most trusted women at his side. He was not just in a safe house; he was in a mobile sanctuary, a fortress of love that could assemble wherever he needed it. He drifted off to sleep almost instantly, surrounded by the quiet, steady breathing of his family.
 
-### Scene 7: Kent?
+### Part 2: Kent? & Assembling the Case
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — Kent?
 
 Sleep offers little respite. Sometime in the middle of the night, the gentle undulation of the waterbed beneath him begins to feel wrong, subtly shifting, becoming too stiff, unfamiliar. The comforting darkness around him seems to condense, the air growing thick and heavy. He feels a flicker of disorientation – is he still in Stella's room? No, the walls feel closer now, the air tasting stale, reminiscent of the oppressive Portsmouth apartment he shared with Delores. Panic begins its insidious crawl up his spine. Then the scene shifts again, the stale air replaced by a cloying floral perfume, unnaturally warm and stuffy. The walls press closer still – the narrow, confining space of the guest room in Kent. Carol Mahone's house. He’s back. Trapped. But it warps even further, reality twisting under some unseen, evil force. The simple bedroom walls ripple and solidify into damp, cold stone. The carpet vanishes beneath him, replaced by uneven, chilling flagstones that glisten wetly as water drips almost constantly from unseen sources. The ceiling presses down, visibly lowering, transforming into oppressive, dark rock studded with menacing spikes, like some kind of horrific trap room. It’s the same layout as the guest room, but rendered as a terrifyingly evil stone dungeon. Leo shrinks back, afraid of the dampness seeping from the walls, the cold radiating from the floor, the threat implicit in the spiked ceiling above. Alone. Exposed. Something evil is definitely at work here.
 
@@ -12895,9 +13027,9 @@ Stella, Luna, and Olivia read the messages, their faces paling with shared horro
 
 "And hey," Stella added softly, "after that crazy early start yesterday, there's absolutely no rush to get up in the morning, okay? We sleep in tomorrow. No alarms". Sharing the nightmare, voicing the specifics in the safety of their presence, seemed to lance the boil of fear, allowing the last vestiges of the terror to finally dissipate, leaving only exhaustion and the deep, unwavering security of being held by those who loved him most. They settled back down on the waterbed, the three women holding Leo close, hoping the remainder of the night would bring only peaceful, dreamless sleep.
 
-### Scene 8: The Quiet Dawn
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### 7:00 AM — The Quiet Dawn
 
 Sunday morning arrived not with the jarring ring of an alarm, but with the soft, gentle light of a new day filtering through the blinds of Stella's bedroom. True to her word, there were no alarms. There was only a profound, healing quiet.
 
@@ -12919,9 +13051,9 @@ Stella smiled, the first bright, genuine smile of the morning. "Okay, buddy," sh
 
 He nodded, a sense of real, uncomplicated normalcy beginning to return. The nightmare had been a storm, but the morning after was a quiet, gentle dawn, and his protectors had weathered it with him, guiding him safely back to shore.
 
-### Scene 9: A Breakfast of Comfort
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — A Breakfast of Comfort
 
 The quiet consensus to make pancakes was the signal that the day was truly beginning. They moved from the sanctuary of the bedroom to the warm, bright kitchen, the focus now on a new, restorative mission: breakfast.
 
@@ -12937,9 +13069,9 @@ The final, most specific request was the toast. Arthur carefully toasted two sli
 
 When the feast was assembled, Leo’s plate was a picture of comfort, made to his exact specifications. Surrounded by his entire fortress, he took a long sip of the rich, milky hot chocolate, a look of pure, uncomplicated contentment on his face. Every single item on his plate was a choice he had made, a preference that had been heard and honored without question. It was more than just a meal; it was an act of profound love, designed to make him feel as comfortable and cherished as possible, one perfect bite at a time.
 
-### Scene 10: The Final Coat
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Final Coat
 
 With breakfast cleared away and the comforting warmth of hot chocolate still lingering, a quiet, purposeful energy returned to the group. Stella looked at the two prepped bedrooms, where the first coat of paint had dried overnight.
 
@@ -12953,9 +13085,9 @@ For Leo, each stroke of the roller was a final, declarative statement. The secon
 
 When the last roller was set down in the early afternoon, they all stood back to admire their work. The transformation was complete. The rooms were still filled with the sharp scent of fresh paint and would need another night to air out, meaning one more cozy campout in Stella's room was in order. But the most important part of the job was done. The sanctuary had been rebuilt, stronger and more beautiful than before.
 
-### Scene 11: Assembling the Case
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Assembling the Case
 
 Sunday afternoon, November 30th, 2003, was quiet. The walls in the two bedrooms were finished with a second coat of paint and would dry overnight, and the house was filled with a sense of peaceful accomplishment. But for Stella, the work was not done. With the immediate crisis over and Leo's physical space reclaimed, it was time to pivot to the legal battle. It was time to hold Delores accountable.
 
@@ -12977,9 +13109,11 @@ By the time they finished, the table was covered in a meticulous collection of e
 
 ## Assembling the Fortress
 
-### Scene 1: Assembling the Fortress
+### Assembling the Fortress & Ordering a New Voice
 
 **Date:** 2004-09-18 at 07:00 America/New_York
+
+#### 7:00 AM — Assembling the Fortress
 
 On Monday morning, December 1st, 2003, Stella walked into the downtown Norfolk law office of Sarah Jenkins. She was not alone; Arthur and Eleanor Bennett were with her, their presence a silent, solid wall of support. Stella carried a thick, meticulously organized folder.
 
@@ -13025,9 +13159,9 @@ Sarah Jenkins blinked, then a small, impressed smile touched her lips. "Given he
 
 Leaving the office, Stella felt a dizzying mix of grim satisfaction and shock. The wheels of justice weren't just in motion; they were already spinning at a speed she couldn't have imagined.
 
-### Scene 2: Setting the Wheels in Motion
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Setting the Wheels in Motion
 
 The conference room was filled with a quiet, focused energy after Stella finished laying out the harrowing details of Leo's ordeal and rescue. Arthur and Eleanor sat stoically, their faces grim, while Sarah Jenkins reviewed the folder of evidence Stella had meticulously assembled.
 
@@ -13049,9 +13183,9 @@ Stella looked at her grandparents, then took a deep, steadying breath, her resol
 
 The wait was no longer passive. It was the beginning of an active, determined pursuit of justice, initiated by the fortress itself.
 
-### Scene 3: Official Cooperation
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Official Cooperation
 
 It was just after nine o'clock on Monday morning, December 1st, 2003. A quiet tension hung in the house on Stella's house. Stella had filed the official police report late yesterday afternoon. Now, as promised by the detective, the next step was underway. The doorbell rang, and Stella took a deep, steadying breath before opening it. Two FBI agents stood on the porch, a man and a woman, dressed in professional suits. The Virginia Beach PD had, as expected, immediately referred the case.
 
@@ -13103,9 +13237,9 @@ When they were finished, Agent Davies stood. "Thank you all for your cooperation
 
 After the agents left, a profound quiet settled over the house. The shattered device was gone, its journey as a piece of evidence just beginning. For Leo and his family, the long road to justice, initiated on their own terms, had officially begun.
 
-### Scene 4: Ordering a New Voice
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Ordering a New Voice
 
 The day after the FBI visit, a fragile but determined sense of forward momentum settled over the house on Stella's house. The legal machinery was turning, but Stella's focus was on the most immediate, tangible need: restoring Leo's voice.
 
@@ -13139,9 +13273,11 @@ Leo watched her, a profound sense of relief and gratitude washing over him. He w
 
 ## A New Language of Home
 
-### Scene 1: A New Language of Home
+### Part 1: A New Language of Home & Poutine Logistics and a Fortress in French Class
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — A New Language of Home
 
 The first week of December settled into a peaceful rhythm, a welcome balm after the storms of November. The legal machinery was in motion, but in the house on Stella's house, the focus was on healing.
 
@@ -13191,9 +13327,9 @@ Leo, seeing his dream was within reach, typed again, his message an enthusiastic
 
 "Absolutely," Olivia laughed, her heart swelling. "It wouldn't be a real Réveillon without it."
 
-### Scene 2: The Fortress Goes to the Mall
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Fortress Goes to the Mall
 
 A week later, the family decided to brave the pre-Christmas crowds for a shopping trip to the mall. The entire contingent was going: Arthur, Eleanor, Stella, Luna, Leo, and Olivia. An outing of this magnitude, especially during the chaotic holiday season, required a plan.
 
@@ -13215,9 +13351,9 @@ They were a fortress, moving with a quiet, efficient purpose. They went to the s
 
 For Leo and Luna, who might have otherwise been on the verge of a meltdown, the experience was manageable, even enjoyable. They were surrounded and protected by their fortress. After successfully completing their mission, they headed back to the car, laden with shopping bags and a sense of shared accomplishment. They had faced the chaos, and together, they had won.
 
-### Scene 3: A New Talker!
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — A New Talker!
 
 About a week after Stella placed the order, a series of large, plain cardboard boxes arrived at the house on Stella's house. The arrival of the ruggedized Horizon laptop, the specialized wheelchair mount, and the software package was an event. The entire fortress—Stella, Luna, Olivia, and Leo—gathered in the living room, the boxes taking up a significant portion of the floor space.
 
@@ -13249,9 +13385,9 @@ A collective, happy sigh of relief went through the room. Stella's eyes filled w
 
 He wasn't just a boy with a new laptop. He was Leo Porter, and he had his voice back, stronger and more capable than ever before, forged in the fires of his ordeal and lovingly reassembled by the unwavering strength of his fortress.
 
-### Scene 4: A New Language of Home
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — A New Language of Home
 
 The days leading up to Christmas were filled with a quiet, joyful energy and nightly French lessons. Fulfilling the promise she had made to herself in the chaos of Sea-Tac, Olivia turned their living room into a cozy classroom each evening. The lessons became a cherished new ritual, a way of building their new life together, one word at a time.
 
@@ -13301,9 +13437,9 @@ Leo, who had been listening intently, typed a message on his new laptop. His voi
 
 It was settled. Their shared schedule for the Spring 2004 semester would now include one more class, a testament to their commitment to building their new life together in every way possible.
 
-### Scene 5: Operation: Conquer Quantum
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Operation: Conquer Quantum
 
 The quiet hum of the new Horizon laptop was becoming a familiar sound in the living room. It was a few days after Leo’s new talker had arrived, and Olivia was patiently continuing his lessons. The powerful communication software was easy enough for him to master, but the underlying **Quantum OS XN** operating system remained a source of low-grade anxiety.
 
@@ -13331,9 +13467,9 @@ Leo typed a message on his new laptop, his voice clear and happy. **"YES. TOGETH
 
 Luna pulled up a chair, her earlier anxiety replaced by a new, determined focus. The fortress was united on a new front, ready to tackle their shared technological fears, together.
 
-### Scene 6: Poutine Logistics and a Fortress in French Class
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Poutine Logistics and a Fortress in French Class
 
 In the days that followed, the upcoming Réveillon became the central focus of their planning. Of all the traditional foods Olivia had described, it was the poutine that had captured Leo's imagination the most. The very fact that it was difficult to get in the United States made it feel like a culinary treasure hunt, and he declared it was the thing he was most looking forward to trying.
 
@@ -13357,9 +13493,11 @@ With their academic adventure now set in stone, Olivia doubled down on her infor
 
 She taught them phrases like, "*Je voudrais...*" (I would like...) and "*S'il vous plaît*" (Please). It was a happy, low-pressure routine. For Leo, these lessons were a quiet joy. He was not only reclaiming his voice, but expanding it, filling his world with new sounds, new flavors, and the unwavering promise of a future built on a foundation of love and family.
 
-### Scene 7: A Tale of Two Frances
+### Part 2: A Tale of Two Frances & The Final Secret
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — A Tale of Two Frances
 
 Their quest for French language resources led them to a large bookstore in a local shopping center. The four of them made their way to the small language and reference section, a sense of shared purpose making the simple errand feel like an adventure.
 
@@ -13385,9 +13523,9 @@ They chose a few different books—a comprehensive guide, a verb workbook, and a
 
 Olivia laughed, a bright, happy sound. "Me too, Leo. Me too."
 
-### Scene 8: The Soft Interview
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### 7:00 AM — The Soft Interview
 
 On a quiet Tuesday morning in mid-December, the fortress four were not at home or school, but at a non-descript office building in Norfolk. This was the local Victim Advocacy Center, a neutral, safe facility chosen specifically for Leo's formal forensic interview. The very idea of the meeting had sent a spike of terror through him; despite his family’s constant reassurances, a deep, primal fear had taken root—the fear that this was all an elaborate trick, a legal process to send him back to Delores.
 
@@ -13433,9 +13571,9 @@ The agents and the prosecutor in the next room exchanged a look. His flinch wasn
 
 The interview lasted for over an hour. It was emotionally exhausting for Leo, but he had done it. He had told his story, on his own terms, in a safe space, surrounded by his fortress. His recorded testimony was now a permanent, powerful part of the official record. It confirmed Delores’s one truthful statement, but more importantly, it provided prosecutors with a firsthand, unshakable account of the kidnapping, abuse, and the specific acts of sexual battery. The detail about the **creaky bed** would later corroborate Carol's own testimony that while she heard a brief struggle, she heard nothing to indicate a prolonged sexual encounter, further solidifying the timeline of events and the precise nature of Delores's crimes.
 
-### Scene 9: Sacres and Seafood
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Sacres and Seafood
 
 A few days later, the four of them were at the **Cardinal Foods** on Kempsville Road for their weekly grocery run. The store was moderately busy, a typical pre-holiday afternoon. As they moved through the aisles, Leo, now using his new **Quantum Communicator**, was happily discussing the menu for the upcoming Réveillon with Olivia.
 
@@ -13473,9 +13611,9 @@ Leo typed on his new laptop, his voice quiet but curious. *<aac>Sacres?</aac>*
 
 Stella, Luna, and Leo looked at each other, a new, deeper understanding dawning. They had just received their first lesson in a part of Olivia's language that wasn't about polite greetings or ordering food; it was about righteous, protective fury. It was the language of the fortress.
 
-### Scene 10: Mon Chum, Ma Blonde
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Mon Chum, Ma Blonde
 
 The moment they got home from Cardinal Foods, the forced composure Leo had maintained shattered. This rude woman had been a deeply rattling experience. He was trembling, his breathing shallow.
 
@@ -13517,9 +13655,9 @@ Olivia, still holding Leo in a protective cuddle that felt more right than anyth
 
 With Leo nestled securely at her side, she took the pen from Stella, and the two women began to fill out their respective parts of the paperwork, officially and legally cementing the fortress that had already been built in their hearts.
 
-### Scene 11: A Grandparent's Surprise
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — A Grandparent's Surprise
 
 One Saturday afternoon in mid-December, the four of them were relaxing in the living room. The newly painted bedrooms were fully reassembled, and a sense of peaceful, domestic normalcy had settled over the house. The landline phone rang, and Stella answered it.
 
@@ -13543,9 +13681,9 @@ Olivia's gaze then found Leo, and her smile became even brighter. "And Leo," she
 
 Leo’s eyes lit up with a joy that matched Olivia's. The Réveillon wasn't just going to be a small celebration with his new family; it was expanding into a huge, cross-border family reunion, with the promise of the most authentic poutine he could ever imagine.
 
-### Scene 12: The Final Secret
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Final Secret
 
 The days leading up to Christmas Eve were a happy blur of activity. The house buzzed with preparations for the Réveillon, and the arrival of Olivia's family from Québec was an event of joyful anticipation.
 
@@ -13567,9 +13705,11 @@ Olivia stared at him, completely floored by this final act of generous, meticulo
 
 "Nonsense, my dear," he said, patting her hand affectionately. "You're family. It's what we do."
 
-### Scene 13: The Grand Old Lady on the Hill
+### Part 3: The Grand Old Lady on the Hill & The Fortress Expanded
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Grand Old Lady on the Hill
 
 The drive from the airport was a blur of happy chatter, a mix of French and English filling the luxurious rental van. When Arthur pulled up to the grand, historic entrance of The Atlantic Grand Hotel, Olivia's aunt, uncle, and cousins fell silent, their eyes wide with awe. The "Grand Old Lady on the Hill," with its classic architecture and commanding view of the ocean, was even more magnificent than they had imagined.
 
@@ -13605,9 +13745,9 @@ Finally, she placed both hands on the back of Leo's wheelchair, a gesture of unw
 
 Leo, feeling the solid weight of her hands, managed a small, shy smile for the crowd of new, friendly faces. Seeing him so clearly anchored to Olivia, her Canadian family immediately understood the depth of their bond. The introductions weren't just a formality; they were a beautiful, public declaration of the two families, now intertwined, with Olivia and Leo at the very heart of it all.
 
-### Scene 14: The Fortress Suite
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Fortress Suite
 
 After the introductions were made and the happy chaos began to settle, Arthur clapped his hands together, getting everyone's attention. "Alright, one last thing," he said, a mischievous twinkle in his eye. He walked over to a grand, unmarked set of double doors at the end of the main living area of the suite.
 
@@ -13631,9 +13771,9 @@ Olivia, equally moved by the immense generosity, simply whispered, "Arthur, it's
 
 The fortress now had its own holiday headquarters, a grand and beautiful sanctuary where they could celebrate and heal, together.
 
-### Scene 15: A Sanctuary of Pampering
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### 7:00 AM — A Sanctuary of Pampering
 
 The first morning at The Atlantic Grand Hotel felt like waking up in a different world. Leo woke not to the familiar sounds of his own home, but to the gentle, distant roar of the Atlantic Ocean and the feeling of incredibly soft, high-thread-count sheets on the massive Alaska King bed. He was surrounded by his fortress—Olivia, Stella, and Luna—all still sleeping peacefully in the grand, quiet room.
 
@@ -13649,9 +13789,9 @@ The pampering continued throughout the day. The hotel's concierge sent up a sele
 
 For Leo and Olivia, this wasn't just luxury; it was a profound act of care. It was the physical and emotional antithesis of the neglect and trauma they had just endured. Surrounded by his fortress, attended to with kindness and respect, Leo was not just safe; he was cherished. The Grand Old Lady on the Hill was more than a hotel; it was a sanctuary, and its quiet, attentive pampering was another powerful step on the road to healing.
 
-### Scene 16: A Baptism of Care
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — A Baptism of Care
 
 Later that evening, after a day of quiet relaxation, it was time to fulfill the promise Stella had made upon Leo's return: a proper, long, hot bath. But this was not to be the functional, almost clinical deep-cleaning they'd had to perform when he first got home. This was to be an act of pure pampering, and the grand, opulent bathroom of the Presidential Suite was the perfect stage.
 
@@ -13667,9 +13807,9 @@ They didn't talk much. The quiet sounds of the water and the soft, ambient music
 
 When he was finally lifted from the tub and wrapped in a thick, warm, oversized towel, he felt more than just clean. The bath that had felt like a quick, five-minute shower in comparison was now a distant memory. He felt completely and utterly cherished, his body and spirit soothed by the hands of the three women who formed his unbreachable fortress.
 
-### Scene 17: The Night Before the Réveillon
+***
 
-**Date:** 2004-09-18 at 21:00 America/New_York
+#### 9:00 PM — The Night Before the Réveillon
 
 The evening of December 23rd in the "Fortress Suite" was a cozy, happy affair. The four of them were already in their pajamas, piled comfortably onto the massive Alaska King bed, watching a classic Christmas movie. Outside, the winter wind whipped off the Atlantic, but inside their luxurious sanctuary, they were warm and safe.
 
@@ -13695,9 +13835,9 @@ Luna chimed in, her own voice full of support. "She's right, Leo. We can have ou
 
 A wave of relief washed over Leo's face. He wasn't trapped by the tradition; the tradition would bend for him. He gave a small, grateful nod. The promise of poutine was exciting, but the promise of his family's unwavering understanding was the greatest gift of all.
 
-### Scene 18: A Tradition Adapted
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### 7:00 AM — A Tradition Adapted
 
 Christmas Eve morning in the Presidential Suite of The Atlantic Grand Hotel began with a level of pampering that was becoming a welcome new normal. The entire extended family—Arthur, Eleanor, Stella, Luna, Leo, Olivia, and all of Olivia's visiting Canadian relatives—gathered for a grand breakfast in the suite's private dining room. The table was laden with a feast of waffles, omelets, fresh fruit, and pastries, all brought up by the hotel's room service.
 
@@ -13721,9 +13861,9 @@ A wave of relief washed over Leo's face. He hadn't ruined the party; the party w
 
 The decision was made instantly and unanimously. The two families, one from Québec and one from Virginia, had effortlessly merged, their first joint act a beautiful and unspoken vow: the fortress had expanded, and its primary mission, above all else, was to protect the boy at its center.
 
-### Scene 19: The Fortress Expanded
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Fortress Expanded
 
 The rest of Christmas Eve day was a happy, chaotic, and wonderful montage of two families becoming one. The grand Presidential Suite at The Atlantic Grand Hotel became their festive headquarters. The morning was spent with the cousins getting to know each other in a way that was both fun and deeply healing. The main event was "Operation: Conquer Quantum," which had set up a temporary headquarters on the large sofa in the suite's living room.
 
@@ -13741,9 +13881,11 @@ The dining room table, large enough to accommodate the entire expanded family, w
 
 Arthur, playing the role of host to perfection, circulated with a tray of sparkling cider. Leo sat in the living room, Olivia on a stool beside his chair, watching his new Canadian cousins attempt to teach Luna a Québécois card game. He was warm. He was surrounded by a loud, happy, loving family. The memory of a cold, rainy curbstone in Kent felt like it belonged to another lifetime, a ghost banished by the bright, warm light of his fortress. The feast was about to begin.
 
-### Scene 20: The Prime-Time Réveillon
+### Part 4: The Prime-Time Réveillon & The Comfort of Home
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Prime-Time Réveillon
 
 At 6 PM on Christmas Eve, Arthur and Eleanor's house was a beacon of warmth and festive chaos. The dining room, with its long table extended to its absolute maximum, was the heart of the celebration, beautifully set and ready for the entire expanded family. The air was a symphony of incredible smells—roasting turkey, the rich spices of the *tourtière*, and the savory aroma of the poutine gravy simmering on the stove.
 
@@ -13817,9 +13959,9 @@ Leo, surrounded by his two families, his heart full and his stomach full of pout
 
 It truly was. He was safe. He was loved. He was home.
 
-### Scene 21: The Comfort of Home
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Comfort of Home
 
 The Réveillon at Arthur and Eleanor's house was a resounding success, a beautiful and boisterous celebration that officially and joyfully merged two families. As they all returned to the luxurious fortress suite at The Atlantic Grand Hotel, a sense of happy, contented exhaustion settled over everyone. The Canadian family marveled again at the opulence of their rooms, ready to fall into their comfortable beds.
 
@@ -13849,9 +13991,11 @@ He was no longer a guest in a five-star hotel. He was the king in his own castle
 
 ## The Morning After
 
-### Scene 1: The Morning After
+### The Morning After & The Holiday Afterglow
 
 **Date:** 2003-11-27 at 07:00 America/New_York
+
+#### November 27, 2003 • 7:00 AM — The Morning After
 
 Christmas Day at Stella's house began not with the frantic energy of tearing open presents, but with the quiet, contented calm that follows a wonderful celebration. The gifts had all been exchanged the night before during their grand Réveillon, leaving the morning free of obligations.
 
@@ -13863,9 +14007,9 @@ The adults settled in the living room, a classic Christmas movie playing quietly
 
 For Leo, the day was a study in peaceful normalcy. He was surrounded by his entire, expanded family. The conversations were a low, happy murmur of French and English. The activities were quiet and calm. There were no demands, no overwhelming sensory input, just the simple, profound comfort of being home and safe. It was the perfect, gentle follow-up to the "Best Christmas Ever," a day dedicated not to grand events, but to the quiet, steady joy of simply being together.
 
-### Scene 2: An American Christmas
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### September 18, 2004 • 7:00 AM — An American Christmas
 
 The quiet, relaxed morning at the house on Stella's house bled seamlessly into a peaceful afternoon. The Canadian cousins, having explored the world of the MagnaByte Opus, were now engrossed in a loud, happy board game with Luna, their laughter filling the living room. Leo and Olivia were curled up on the sofa, a classic holiday movie playing quietly, Leo's head resting comfortably on her shoulder.
 
@@ -13881,9 +14025,9 @@ Just as they turned on the TV, they landed on the iconic scene. The Old Man, bea
 
 As the sun began to set, casting a warm, golden glow through the windows, Eleanor announced that dinner was almost ready. The family began to gather around the long dining table, the atmosphere filled with a deep, contented peace. The previous night had been a celebration of Olivia's heritage and her official welcome into the family. Tonight was a celebration of the beautiful, blended family they had all become. The feast was about to begin.
 
-### Scene 3: An American Christmas Feast
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — An American Christmas Feast
 
 As evening settled, the rich, savory aromas wafting from the kitchen signaled that the American feast was ready. The entire, expanded family gathered once more around the long, beautifully decorated dining table at Arthur and Eleanor's house. The previous night's Réveillon had been a journey into Québécois tradition; tonight was the American family's turn to share their own classic holiday staples.
 
@@ -13899,9 +14043,9 @@ The meal was a wonderful, relaxed affair. Oncle Mark, who had grown up in the St
 
 Leo, seated as always between Olivia and Luna, was in a state of quiet bliss. He had a little bit of everything on his plate. He was surrounded by the happy, overlapping sounds of English and French, the clinking of silverware, and the warmth of his two families, now seamlessly blended into one. The previous night had been a thrilling new adventure in flavor. Tonight was the deep, grounding comfort of a tradition he had come to cherish since the day Stella first made him feel safe. It was the perfect end to a perfect holiday.
 
-### Scene 4: A Moment to Regulate
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — A Moment to Regulate
 
 The American Christmas feast was a resounding success, a warm and happy affair that left everyone feeling full and content. However, as the dinner plates were cleared and the conversation continued to flow, the cumulative effect of two massive holiday celebrations in twenty-four hours began to weigh on Leo. The constant social interaction, the rich food, the sheer number of people—it was all wonderful, but it was also deeply exhausting.
 
@@ -13931,9 +14075,9 @@ Olivia laughed softly, a happy, relieved sound. "Of course, *mon chum*," she sai
 
 They re-entered the dining room, the brief, effective retreat having given Leo the strength he needed to rejoin the celebration, ready for the final, sweet part of the evening.
 
-### Scene 5: A Fortress of Love
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — A Fortress of Love
 
 As Leo and Olivia emerged from the quiet den, looking refreshed and ready to rejoin the party, Luna immediately met them at the doorway. She didn't say a word; she simply pulled her brother into a fierce, protective hug, her own act of grounding him and welcoming him back into the fold. As she held him, she looked over his shoulder at Olivia, her eyes shining with a profound, sisterly gratitude.
 
@@ -13947,9 +14091,9 @@ He felt a wave of pure, uncomplicated happiness wash over him. He was surrounded
 
 He looked at Olivia, his *ma blonde*, sitting right beside him, a steady and unwavering presence. He took a bite of his pie. It was sweet, warm, and perfect. He was home.
 
-### Scene 6: An Impromptu Recital
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — An Impromptu Recital
 
 After the magnificent American Christmas dinner, the entire, sprawling family retired to the living room at Arthur and Eleanor's house. The atmosphere was warm and deeply contented, a happy mix of full stomachs and the quiet joy of being together.
 
@@ -13981,9 +14125,9 @@ The sincerity and warmth of his message, delivered with the help of his device, 
 
 Olivia simply smiled, her heart full. Watching her two families connect so beautifully, through the language of her home, was the greatest Christmas gift she could have ever asked for.
 
-### Scene 7: The Long Goodbye
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — The Long Goodbye
 
 The successful dessert was the perfect end to the American Christmas feast. The house was filled with the warm, contented buzz of two families who had spent a truly wonderful holiday together. But as the evening wore on, the cumulative weight of two days of non-stop celebration began to settle heavily on Luna and Leo.
 
@@ -14001,9 +14145,9 @@ Olivia's family understood completely. They saw the fragility beneath Leo's quie
 
 As Stella drove them home through the quiet, festive streets, Leo leaned his head against the cool glass of the car window. He was completely and utterly exhausted, but it was a good kind of tired. It was the exhaustion that comes from a day filled with love, laughter, and family—not the soul-crushing weariness of fear and survival. The fortress was heading home, and all was right with the world.
 
-### Scene 8: The Holiday Afterglow
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — The Holiday Afterglow
 
 The drive back to the house on Stella's house was quiet, the car filled with the warm, contented exhaustion that follows a day of profound happiness. The grand feasts and boisterous celebrations were over, leaving a peaceful afterglow.
 
@@ -14017,9 +14161,11 @@ He was surrounded by the evidence of his family's love: the new paint on the wal
 
 ## A Day of Quiet
 
-### Scene 1: A Day of Quiet
+### A Day of Quiet & A Nightmare in the Safe Harbor
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — A Day of Quiet
 
 December 26th arrived not with a bang, but with a profound and necessary quiet. After two days of non-stop celebration, delicious food, and joyful but intense social interaction, the entire household was in a state of happy exhaustion. For Luna and Leo, the need for a mental reset was palpable.
 
@@ -14037,9 +14183,9 @@ The visit lasted for about an hour, a peaceful and gentle social interaction tha
 
 The day was a masterclass in compassionate care. Olivia's family had shown their deep understanding and respect for the twins' needs. For Leo and Luna, it was another profound affirmation of their new, expanded fortress. They weren't just loved in the loud, happy moments; they were cared for and protected in the quiet, necessary ones, too. It was a day of rest, earned and respected.
 
-### Scene 2: A House Full of Joy
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — A House Full of Joy
 
 By December 27th, the house on Stella's house had been joyfully overrun for four full days. The presence of Olivia's Canadian family—her **Tante Isabelle** and **Oncle Mark**, and her boisterous teenage cousins **Luc, Chloé, Mason, and Sophie**—had transformed the quiet sanctuary into a bustling hub of laughter, conversation, and a happy mix of French and English.
 
@@ -14063,9 +14209,9 @@ From across the room, Tante Isabelle noticed the quiet, intense moment between t
 
 This was the biggest thing Olivia's extended family had come to understand and respect: Leo did not want to be separated from Olivia. Even in this glorious, chaotic happiness, his fears were still present, a quiet undercurrent to his joy. They had learned that Olivia was his anchor, and when he needed her, the rest of the world had to wait. They knew that to talk to Olivia, they had to come to her, and to approach gently, with respect for the silent, powerful work she was doing. It was a lesson in the language of the fortress, and they had all, to their credit, become fluent.
 
-### Scene 3: The Quiet After
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Quiet After
 
 The departure of Olivia's family on the morning of the 28th left a profound silence in its wake. The house on Stella's house, which had been a joyous hub of boisterous laughter and overlapping conversations in two languages, suddenly felt vast and quiet. For the fortress four, the abrupt shift from happy chaos to serene calm was a welcome, if slightly jarring, change. The "Canadian Invasion" had been wonderful, but it had also been emotionally and socially exhausting, especially for Luna and Leo.
 
@@ -14083,9 +14229,9 @@ Luna, who was sitting beside him on the sofa, heard it instantly. Without a word
 
 Leo leaned into their combined embrace, a profound sense of safety washing over him. He closed his eyes, resting his head on Luna's shoulder, feeling Olivia's steady presence on his other side. He was being held tightly by the two people who represented the absolute innermost circle of his Safe Harbor. Stella, watching from the armchair with a soft, loving smile, completed the picture. The noise and chaos of the outside world, the lingering fears and the impending legal battles, all of it faded away. Here, in the quiet of his home, held securely by his twin and his *ma blonde*, he was simply Leo. He was safe. He was home.
 
-### Scene 4: Water and Trust
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Water and Trust
 
 The quiet of the living room on the evening of December 30th was a gentle, healing balm. Held securely between Luna and Olivia on the sofa, Leo felt the exhaustion of the past week finally begin to recede. The constant social energy of the family gathering, while wonderful, had left his muscles tight and achy, a common side effect of his cerebral palsy when he was tired or stressed. The warmth of his sisters' embrace helped, but he knew what would truly ease the painful spasticity.
 
@@ -14115,9 +14261,9 @@ He typed one last message on his communicator before they wheeled him to his bed
 
 Stella smiled, stroking his damp hair. "Anytime, buddy," she said softly. "That's what we're here for."
 
-### Scene 5: The Cocoon of Safety
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Cocoon of Safety
 
 After the bath, wrapped in a warm towel, the tension had visibly drained from Leo's body. The process of getting him ready for bed was just as practiced and gentle as getting him into the tub.
 
@@ -14137,9 +14283,9 @@ Luna then joined Olivia and Leo in their bedroom. On the large, queen-sized bed,
 
 He was cocooned. Wrapped in a profound sense of security that no fear could penetrate. The lingering anxiety about the upcoming trials, the potential stress of the loud noises from New Year's Eve celebrations in a few days—it all faded into a distant, manageable hum. Here, in the absolute center of his Safe Harbor, held by his twin and his *ma blonde*, he was simply Leo. And he was completely at ease.
 
-### Scene 6: A Nightmare in the Safe Harbor
+***
 
-**Date:** 2004-09-18 at 21:00 America/New_York
+#### 9:00 PM — A Nightmare in the Safe Harbor
 
 The house was deep in the quietest hours of the night, a profound stillness that even the soft breathing of the three figures in the queen-sized bed barely disturbed. Leo, cocooned safely between Luna on his left and Olivia on his right, was sound asleep, a rare, untroubled rest.
 
@@ -14173,7 +14319,7 @@ Olivia looked on, a sense of awe washing over her. She had just witnessed someth
 
 ## The Day in Court
 
-### Scene 1: The Day in Court
+### The Day in Court
 
 **Date:** 2004-09-17 at 09:00 America/New_York
 
@@ -14219,7 +14365,7 @@ Delores could be seen whispering furiously to her lawyer, clearly confused and o
 
 ## The Judge's Order
 
-### Scene 1: The Judge's Order
+### Part 1: The Judge's Order
 
 **Date:** 2004-09-17 at 09:00 America/New_York
 
@@ -14247,7 +14393,7 @@ The judge looked at the petition one last time, then picked up her pen and signe
 
 It was done. With the stroke of a pen and the thud of a stamp, she was legally bound to him. Tomorrow, at a ceremony filled with love and family, Olivia Walker Porter would be introduced to the world for the very first time, ready to stand beside her *mon chum* and declare their lifelong commitment.
 
-### Scene 2: The Longest Morning
+### Part 2: The Longest Morning
 
 **Date:** 2004-09-17 at 07:00 America/New_York
 
@@ -14265,9 +14411,11 @@ They spent the next hour absorbed in the quiet, methodical work of sorting edge 
 
 Leo threw himself into the task, his anxious energy now channeled into finding the right shapes, the correct patterns. It helped. It truly did. But beneath the surface of his concentration, the anxious mantra continued. *She’s okay. She’s safe. She’s with Stella. She’ll be back soon.* This separation was a choice, a necessary step for the future he and his *ma blonde* were building together. He knew that. But knowing it and feeling it were two very different things. He focused on the puzzle, his hands methodically connecting the pieces, and waited for the sound of the Holt Sentinel pulling into the driveway, the sound that would mean his safe harbor had finally come home.
 
-### Scene 3: The New Ms. Walker Porter
+### Part 3: The New Ms. Walker Porter & An Impossible Thought
 
 **Date:** 2004-09-17 at 12:00 America/New_York
+
+#### 12:00 PM — The New Ms. Walker Porter
 
 The sound of the Holt Sentinel pulling into the driveway was the signal Leo had been desperately waiting for. The front door opened a moment later, and Stella walked in, followed by the newly minted Olivia Walker Porter.
 
@@ -14285,9 +14433,9 @@ The idea was met with universal approval. A few minutes later, the two cars were
 
 The seating arrangement was an unspoken act of support for Leo. He was still recovering from the morning's anxiety, and everyone knew he needed Olivia by his side. Luna happily took the front passenger seat, leaving the spacious back seat for Leo and Olivia. As they pulled out of the driveway, Olivia took Leo's hand, her thumb gently tracing patterns on his knuckles, a constant, reassuring presence that silently told him everything was okay. His safe harbor was home, and they were on their way to celebrate the first day of their forever.
 
-### Scene 4: A Toast at The Tidewater Grill
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — A Toast at The Tidewater Grill
 
 The restaurant Arthur had chosen, The Tidewater Grill, was a perfect choice. It was a bright, airy space with large windows that overlooked a small, manicured garden, the decor a tasteful blend of classic and coastal. The staff was welcoming, and they were quickly shown to a large, round table with plenty of room to comfortably position Leo's wheelchair right next to Olivia.
 
@@ -14303,9 +14451,9 @@ As they waited for their food, the conversation was light and full of laughter. 
 
 Leo was relaxed and happy, his earlier separation anxiety now a distant memory. He sat close to Olivia, their chairs angled towards each other, a comfortable, self-contained unit within the larger family circle. He would occasionally lean over to type something on his communicator, adding a quiet joke or observation to the conversation, his clear voice a now-familiar and welcome part of their family's symphony. This lunch wasn't just a meal; it was a celebration of a new name, a new beginning, and the unshakable strength of the fortress that now officially, in the eyes of the law, included Ms. Olivia Walker Porter.
 
-### Scene 5: The Secret Melody
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — The Secret Melody
 
 The warm, satisfied glow from their celebratory lunch settled over the house as they returned to Stella's house. The afternoon sun streamed through the living room windows, creating a peaceful, lazy atmosphere. But for Luna, the quiet was a call to action.
 
@@ -14329,9 +14477,9 @@ Stella, watching them, felt a profound sense of peace. She effortlessly added he
 
 It was a simple, quiet afternoon. But in the gentle cadence of their new, shared language and the secret, beautiful melody taking shape behind a closed door, the final, joyful preparations for the commitment of Leo and Olivia were falling perfectly into place.
 
-### Scene 6: An Impossible Thought
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — An Impossible Thought
 
 Later that evening, long after the last French phrase had been spoken and the secret melody from Luna’s room had finally gone silent, Olivia lay in bed, a soft, contented smile on her face. The day had been a perfect whirlwind of legal finality and quiet, joyful preparation. As she listened to the steady, peaceful breathing of Leo beside her, her mind drifted back to their lesson.
 
@@ -14343,7 +14491,7 @@ A quiet, almost absurdly funny thought popped into her head, and she had to supp
 
 ## A Test and a Toast
 
-### Scene 1: A Test and a Toast
+### Part 1: A Test and a Toast
 
 **Date:** 2004-09-17 at 07:00 America/New_York
 
@@ -14377,9 +14525,11 @@ As everyone gathered around, Luna quietly retrieved her flute from its case and 
 
 Olivia closed her eyes, made a silent wish, and blew out the candle. It was a simple, quiet moment, an intimate family celebration that served as the perfect, personal prelude to the grand, joyful declaration that would come later in the day.
 
-### Scene 2: The Separation
+### Part 2: The Separation & The Toasts
 
 **Date:** 2004-09-17 at 12:00 America/New_York
+
+#### 12:00 PM — The Separation
 
 After their celebratory breakfast, a new, more focused energy took hold of the house. It was time to get ready. The plan was for the day to unfold like a traditional wedding, which meant adhering to one specific, challenging tradition: the bride and groom were not to see each other until the ceremony.
 
@@ -14405,9 +14555,9 @@ Luna took his hand, her touch familiar and grounding. "It's just like the old da
 
 Leo took a deep, shuddering breath, focusing on his sisters' faces, on their unwavering presence. The anxiety was still there, a frantic, buzzing thing just beneath his skin, but their combined strength was a powerful counterweight. He gave a small, jerky nod. He would do this. For Olivia. For them. The fortress would get him to the finish line.
 
-### Scene 3: The Two Rooms
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — The Two Rooms
 
 The country club was a picture of understated elegance. A long, tree-lined driveway opened up to a stately brick building, its entrance adorned with tasteful floral arrangements in the deep blue and cream colors Leo and Olivia had chosen. The staff was professional and discreet, guiding the two cars to a private entrance at the side of the building that led directly to the ballroom and the adjacent preparation suites.
 
@@ -14425,9 +14575,9 @@ The groom's suite was handsome, with dark wood paneling and comfortable leather 
 
 His family worked with practiced, loving efficiency. Arthur helped him with his custom-tailored suit jacket, while Stella adjusted his tie. Luna was at his side the entire time, her presence a constant, silent reassurance. She kept up a steady stream of light chatter, talking about the flowers, the food, anything to keep his mind from spiraling. They were all there, his entire fortress, a wall of love and support. But they were all acutely aware that their hugs, their words, and their presence were not enough to be a true balm for the one person he needed. They were the scaffolding, holding him together until his anchor, his *ma blonde*, was by his side once more.
 
-### Scene 4: The Procession
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — The Procession
 
 The moment had arrived. The soft, ambient music playing in the elegantly decorated ballroom quieted, and a hush fell over the small gathering of close family and friends. At the back of the room, the large double doors stood closed, a final, symbolic barrier.
 
@@ -14445,9 +14595,9 @@ As they took their first step down the aisle, Luna raised her flute to her lips.
 
 All of Leo's anxiety, all of his fear, evaporated in an instant, replaced by a single, overwhelming emotion: awe. He watched his *ma blonde*, his best friend, his everything, walk toward him. Her eyes were locked on his, a brilliant, shining beacon of love and promise. In that moment, there was no one else in the room. There was only the beautiful sound of his sister's music and the sight of his future walking toward him.
 
-### Scene 5: A Declaration of Commitment
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — A Declaration of Commitment
 
 At the front of the beautifully decorated ceremony space, **Arthur Bennett** stood, his expression one of profound, grandfatherly love. As Olivia and her father reached him, Daniel Walker placed his daughter's hand in Arthur's, a symbolic transfer of trust, before taking his seat. Arthur then gently guided Olivia to stand opposite Leo.
 
@@ -14481,9 +14631,9 @@ Arthur beamed at them, his joy radiating throughout the room. He did not say 'by
 
 Leo looked up at his beautiful *ma blonde*. Olivia leaned down, and they met in a tender, loving kiss that sealed their promise, not in law, but in a bond far stronger. The room erupted in joyful, heartfelt applause.
 
-### Scene 6: The First Dance
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — The First Dance
 
 As the applause from the ceremony subsided, the atmosphere in the ballroom shifted from heartfelt solemnity to joyful celebration. Guests began to mingle, and the catering staff emerged with trays of hors d'oeuvres. A short while later, Arthur Bennett’s warm, commanding voice called for everyone's attention once more.
 
@@ -14507,9 +14657,9 @@ The moment the notes reached him, Leo’s eyes lit up, widening in surprised, pr
 
 They continued their dance, lost in the beauty of the melody Luna had created just for them. It was a perfect moment, a seamless blend of past, present, and future—a tribute to the unbreakable bond of the twins and a celebration of the new, lifelong commitment between a boy and his *ma blonde*. When the final, sweet note faded into silence, there wasn't a dry eye in the room.
 
-### Scene 7: A Montage of Dances
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — A Montage of Dances
 
 As the final, beautiful note of Luna's flute solo faded, the room erupted in heartfelt applause. The first dance was over, but the celebration of family was just beginning. The DJ, who had been given a carefully curated list, transitioned seamlessly into the next song, initiating a montage of special dances that left few dry eyes in the room.
 
@@ -14525,9 +14675,9 @@ For the emotional climax of the evening, the music softened once more. It was ti
 
 Finally, as the night began to wind down, the DJ played the last slow song. Leo and Olivia returned to the floor for **The Final Dance**, a quiet, intimate moment just for them. Halfway through the song, Arthur and Eleanor joined them, then Stella and Luna, then Olivia’s parents, and soon the entire small gathering was on the floor, a constellation of family and love, all of them swaying together, a perfect, joyful end to a perfect day.
 
-### Scene 8: The Toasts
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### 12:00 PM — The Toasts
 
 As the final dance ended and guests returned to their seats, a new kind of joyful anticipation filled the ballroom. It was time for the toasts. Stella, in her role as Best Woman and head of the family, was the first to step up to the microphone, a glass of sparkling cider in her hand.
 
@@ -14545,9 +14695,11 @@ The room was filled with love and happy tears. Then, all eyes turned to Leo. He 
 
 <aac>To my ma blonde. You are my everything. I love you.</aac>
 
-### Scene 9: The Feast
+### Part 3: The Feast & Decompression
 
 **Date:** 2004-09-17 at 12:00 America/New_York
+
+#### September 17, 2004 • 12:00 PM — The Feast
 
 Following the emotional montage of dances, the doors to an adjacent dining area were opened, revealing a magnificent feast. The reception, like the ceremony, was a "dry" event, a deliberate choice rooted in the family's history, ensuring the celebration was one of pure clarity and presence. Instead of champagne and wine, the bar was a vibrant and creative **mocktail station**. Elegant glass dispensers were filled with iced tea and lemonade, but the real stars were the custom non-alcoholic creations, including a slushy machine churning a sweet, creamy, **non-alcoholic piña colada** that Leo was most excited about.
 
@@ -14565,9 +14717,9 @@ Leo wheeled himself up to the station, his eyes wide with anticipation. He used 
 
 He looked up at Olivia, a look of such profound happiness on his face that it needed no words. This wasn't just food; it was a memory, a promise, and a celebration all in one. He was home, he was safe, and he was with his *ma blonde*, eating the best poutine in the world. It was perfect.
 
-### Scene 10: The Cake
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### September 17, 2004 • 12:00 PM — The Cake
 
 After the last heartfelt toast had been given and the applause had faded, it was time for another classic and eagerly anticipated moment: the cutting of the cake. A member of the country club staff wheeled a small, linen-draped table to the center of the dance floor. Upon it sat a magnificent, three-tiered masterpiece that served a dual purpose.
 
@@ -14587,9 +14739,9 @@ After the song ended with a final, cheerful round of applause, the next challeng
 
 Then, she got a second, slightly larger piece on the fork. "Your turn," she said softly. Leo leaned forward, and she gently gave him the first bite of their commitment cake. He closed his eyes for a moment, savoring the sweet flavor of vanilla and raspberry filling, a taste he would forever associate with this perfect, joyful moment. He looked up at his *ma blonde*, a sweet, frosting-tinged smile on his face, and the entire room seemed to melt at the pure, uncomplicated happiness between them.
 
-### Scene 11: The Send-Off
+***
 
-**Date:** 2004-09-17 at 12:00 America/New_York
+#### September 17, 2004 • 12:00 PM — The Send-Off
 
 As the last song of the final dance faded away, a happy, contented quiet settled over the remaining guests. The reception was drawing to its natural, peaceful close. It was time for the final event of the evening: the send-off.
 
@@ -14605,9 +14757,9 @@ At the end of the path, the Holt Sentinel was waiting, its interior light glowin
 
 As they got into the car, Leo and Olivia turned for one last wave. They saw their entire world, their entire fortress, standing there, united and beaming, sending them off with a final, shimmering cloud of good wishes. It was the perfect end to a perfect beginning.
 
-### Scene 12: Decompression
+***
 
-**Date:** 2003-11-27 at 10:00 America/New_York
+#### November 27, 2003 • 10:00 AM — Decompression
 
 The Holt Sentinel pulled into the driveway of Stella's house, the quiet hum of its engine the only sound in the peaceful, late evening. The magical send-off at the country club had been the perfect, gentle end to a long and emotionally overwhelming day. Inside the car, a profound, bone-deep exhaustion had settled over them all.
 
@@ -14631,9 +14783,11 @@ They were all exhausted, but as Leo lay there, held securely on both sides by th
 
 ## The Weapon
 
-### Scene 1: The Weapon
+### Part 1: The Weapon & The Tape
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### September 18, 2004 • 10:00 AM — The Weapon
 
 By the time Stella, Luna, Leo, and Olivia had settled into their new normal—a rhythm of college classes, quiet evenings, and the slow, steady healing from the ordeal with Delores—their grandparents, Arthur and Eleanor, had passed away peacefully, leaving the fortress four as the sole inheritors of their quiet wisdom and vast fortune. The house on Stella's house, once a sanctuary built by their grandparents' love, now belonged entirely to them. But with that inheritance came a new, more insidious kind of fear.
 
@@ -14667,9 +14821,9 @@ Olivia felt a jolt of ice-cold fear, because she knew Stella was right. She thou
 
 Olivia didn't hesitate for a second. She looked from Stella's determined, fearful face to the two innocent souls on the sofa, and her own resolve hardened into steel. "You're right," she said, her voice a low, fierce promise. "Let's build them a fortress no one can ever breach."
 
-### Scene 2: The Green and Gold
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### September 18, 2004 • 10:00 AM — The Green and Gold
 
 The gymnasium was a humid maze of vinyl banners, cheap folding tables, and the dull roar of students negotiating their futures. Stella marched at the front of the phalanx, her expression focused. Luna pushed Leo’s manual wheelchair, while Olivia walked flank, scanning the crowd.
 
@@ -14849,9 +15003,9 @@ As the Fortress rolled away, heading toward the exit, they didn't look back at t
 
 They had a target. Now, they just had to finish the semester and pack the car.
 
-### Scene 3: The Shibboleth
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### September 18, 2004 • 7:00 AM — The Shibboleth
 
 The Next Morning Braxton State University - The Fine Arts Center *Dean* Sterling’s Office
 
@@ -14917,9 +15071,9 @@ Sterling looked at the email address scrawled on the paper. She didn't put the n
 
 Dr. Aris walked out, whistling. He had secured a genius for his department, and he had handed the Music Dean a prodigy on a silver platter. It was a good day to be a Bull.
 
-### Scene 4: The Tape
+***
 
-**Date:** 2003-11-27 at 10:00 America/New_York
+#### November 27, 2003 • 10:00 AM — The Tape
 
 November 2005 Stella's house - Living Room
 
@@ -14961,9 +15115,11 @@ Luna lowered the flute, letting out a long, shaky breath. "I didn't crash on the
 
 "It didn't just speak," Stella said, stopping the recording. "It sang. Dr. Aris is going to lose his mind."
 
-### Scene 5: The Verdict
+### Part 2: The Verdict & The Long Twilight
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### September 18, 2004 • 10:00 AM — The Verdict
 
 Two Days Later Braxton State University - Dean Sterling’s Office
 
@@ -15007,9 +15163,9 @@ She pulled out a heavy, cream-colored sheet of stationery.
 
 "They better," Sterling muttered, already typing. "Because I just found my soloist for the Debussy cycle."
 
-### Scene 6: The Northward Compass
+***
 
-**Date:** 2003-11-27 at 10:00 America/New_York
+#### November 27, 2003 • 10:00 AM — The Northward Compass
 
 November 24, 2005 (Thanksgiving Day) Stella's house
 
@@ -15105,9 +15261,9 @@ He reached across the table and took Eleanor’s hand.
 
 Outside, the wind rattled the siding of the little house on Stella's house. It was a safe house, a good house. But as they ate their apple-cranberry pie, they all knew it was temporary. The compass had swung North, and they were ready to follow it.
 
-### Scene 7: The Long Twilight
+***
 
-**Date:** 2003-11-27 at 10:00 America/New_York
+#### November 27, 2003 • 10:00 AM — The Long Twilight
 
 November 24, 2005 (Thanksgiving Night) Stella's house
 
@@ -15157,9 +15313,11 @@ Stella looked at them. She saw the fragility in their frames—the way Arthur’
 
 ## The Iron Link
 
-### Scene 1: The Iron Link
+### Part 1: The Iron Link & The Victory Lap & The Blueprint
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Iron Link
 
 The air in Newport News was damp and cold, a wet chill that settled into the bones. The station itself was small—a brick building at the end of the line, surrounded by a chain-link fence and the hum of idling diesel locomotives.
 
@@ -15320,9 +15478,9 @@ Leo tapped his Quantum Communicator.
 
 "You beat the machine," Stella noted, checking her watch. "Efficiency. I like it. Now let's go find our rooms.
 
-### Scene 2: The Hospitality Standard
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Hospitality Standard
 
 The glass sliding doors hissed shut behind them, sealing out the hum of the station concourse. The transition was instant: the acoustic brightness of the terrazzo tunnel was replaced by the hushed, carpeted silence of the hotel’s lower lobby.
 
@@ -15416,9 +15574,9 @@ He tapped his screen.
 
 "Make it six bowls," Arthur said, moving toward his own room to freshen up. "We'll eat in here. A family dinner in the new world."
 
-### Scene 3: The Concourse Encounter
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Concourse Encounter
 
 December 27, 2005 Narraganset Esplanade Station - The Concourse (Level 1) 05:30 PM
 
@@ -15512,9 +15670,9 @@ She spun the chair around. They raced back down the Concourse Tunnel, ignoring t
 
 They burst into the elevator, hitting the button for the lobby. They had come for a vacation. They were leaving with a career.
 
-### Scene 4: The Victory Lap & The Blueprint
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Victory Lap & The Blueprint
 
 The excitement of the Dean’s business card had finally faded, replaced by the heavy, crushing weight of travel exhaustion. The adrenaline that had powered Leo through the station and the encounter with Dr. Sterling drained away, leaving his nerves raw and exposed.
 
@@ -15582,9 +15740,11 @@ Leo looked up at them. He felt Luna’s heartbeat against his side. He smelled O
 
 He didn't need to type. He just closed his eyes and let the darkness take him, held tight in the center of the only geography that mattered.
 
-### Scene 5: The Subterranean City
+### Part 2: The Subterranean City & The Foundation
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Subterranean City
 
 The blizzard had arrived in earnest. Beyond the floor-to-ceiling windows of the hotel dining room, the world was erased. The Plaza, the Station, and the Ocean were gone, replaced by a swirling vortex of white. The wind howled against the glass, vibrating the silverware on the tables.
 
@@ -15709,9 +15869,9 @@ The door to the inner office opened. Dean Elise Sterling stepped out. She saw Lu
 
 "Good," Sterling said, holding the door wide. "Come in. Let's hear what silver sounds like."
 
-### Scene 6: The Silver Standard
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Silver Standard
 
 The office was spacious, lined with bookshelves filled with orchestral scores. A grand piano sat in the corner. Through the floor-to-ceiling windows, the blizzard was a white curtain, erasing the world outside. Inside, it was dead silent.
 
@@ -15819,9 +15979,9 @@ Luna hugged the flute to her chest. She looked at Arthur and Eleanor. Eleanor wa
 
 They had come to see if the city was right. The city had just answered back: *Yes.*
 
-### Scene 7: The Adrenaline Crash
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Adrenaline Crash
 
 The door to the Dean’s office clicked shut behind them.
 
@@ -15935,9 +16095,9 @@ She wasn't just better than them. She was the mercenary they would eventually ha
 
 "Yes," Olivia agreed, looking out the window as the train slowed. "And we're almost to the site. Get ready for the Stress Test."
 
-### Scene 8: The Foundation
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Foundation
 
 The train hissed to a halt. The doors slid open.
 
@@ -15989,9 +16149,11 @@ Luna, awake now and bundled to the nose, looked at the empty lot. She hummed the
 
 They stood there for a moment longer, claiming the land with their eyes—four Porters and two Bennetts, planting a flag in the New England snow. They were frozen, tired, and windblown. But they were home.
 
-### Scene 9: The Last Train Out
+### Part 3: The Last Train Out & The Lobster Toast
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Last Train Out
 
 The walk back from **Lot 4B** had been brutal. The wind had picked up, turning the snowfall into horizontal needles of ice. Leo’s shoulders burned from pushing through the accumulating drifts on the sidewalk, even with Stella and Olivia taking turns helping him gain traction.
 
@@ -16072,9 +16234,9 @@ Stella smiled, pulling out her phone to call Barbara the real estate agent. "Yes
 
 They headed to the elevators, leaving the storm outside to rage against the walls of their new city.
 
-### Scene 10: The Pulse of the City
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Pulse of the City
 
 Having secured the hotel rooms and eaten lunch, the Fortress was safe. But Leo was restless. He knew the Regional Rail was dead. He knew the buses were buried. But his internal map told him that physics didn't apply 60 feet underground.
 
@@ -16136,9 +16298,9 @@ He realized why he loved the BTA. It wasn't just because it was convenient. It w
 
 They ascended back to the surface, leaving the slow, steady heartbeat of the city to pump in the darkness below.
 
-### Scene 11: The Cash Hammer
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Cash Hammer
 
 The blizzard was howling against the triple-paned glass of the hotel room, but inside, the atmosphere was calm. The fireplace in the lobby (visible through the open door to the suite’s parlor) cast a warm glow.
 
@@ -16216,9 +16378,9 @@ He tapped his Quantum Communicator.
 
 "Done," Stella grinned, picking up the hotel phone. "I think we can afford it."
 
-### Scene 12: The Paper Fortress
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Paper Fortress
 
 The Business Center was a small, glass-walled room off the lobby. It smelled of toner and heated electronics. Outside, the blizzard was a whiteout, but inside, the fax machine was humming.
 
@@ -16296,9 +16458,9 @@ Arthur stood up, patting her shoulder with a hand that trembled just slightly. "
 
 They left the business center, clutching the thermal paper like a treasure map. Outside, the storm raged, burying the city in white. But inside, they were warm, they were named, and they were home.
 
-### Scene 13: The Lobster Toast
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Lobster Toast
 
 The blizzard had intensified. Outside, the wind screamed against the glass, but inside the suite, the heavy curtains were drawn back just enough to watch the snow pile up on the balcony railing.
 
@@ -16338,9 +16500,11 @@ Outside, the city of Braxton was shutting down, buried under two feet of snow. B
 
 ## The Orange Army
 
-### Scene 1: The Orange Army
+### Part 1: The Orange Army & The Restoration
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Orange Army
 
 The storm had broken in the middle of the night.
 
@@ -16418,9 +16582,9 @@ Leo’s eyes lit up. He grabbed his wheels.
 
 "Suit up," Stella commanded. "Light jackets only. It's seventy degrees underground."
 
-### Scene 2
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — Scene
 
 location: "Unknown"
 end_time: ""
@@ -16571,9 +16735,9 @@ Olivia took the handles of the manual chair. "I'm driving the rest of the way," 
 
 They turned back toward the hotel, leaving the depths of the Bull Run behind, knowing that the next time Leo entered these tunnels, he would be doing it under his own electric power.
 
-### Scene 3: The Quiet Harbor
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Quiet Harbor
 
 December 29, 2005 Narraganset Esplanade Station - Concourse Level 10:45 AM
 
@@ -16625,9 +16789,9 @@ He tapped his Quantum Communicator.
 
 They sat there for a long time, sipping chocolate and watching the lonely Red Line train finally close its doors and slide into the dark tunnel, keeping the heartbeat of the city alive.
 
-### Scene 4: The Blue Line Run
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Blue Line Run
 
 The cabin fever had reached critical mass. The "Orange Army" of snowplows was entertaining, but watching from a window wasn't enough. Leo needed to feel movement.
 
@@ -16718,9 +16882,9 @@ As they boarded the return train to Narraganset Esplanade, Leo looked back at th
 
 "We went for a ride," Luna corrected, leaning her head on his shoulder. "But yeah. We conquered it."
 
-### Scene 5: The Restoration
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Restoration
 
 The **Blue Line** train hissed to a halt at the end of the line.
 
@@ -16788,9 +16952,11 @@ Leo closed his eyes. He listened to the faint hum of the hotel HVAC. He thought 
 
 He was tired. But he wasn't scared. For the first time in a long time, he knew exactly where he was going.
 
-### Scene 6: The Closing Table
+### Part 2: The Closing Table & The Vessel
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Closing Table
 
 The conference room of Iron Point Realty smelled of stale coffee and high-stakes tension. Outside, the snow from the blizzard was piled high against the windows, but the roads were clear enough for business.
 
@@ -16915,9 +17081,9 @@ Leo rolled to the window and looked out at the street of Iron Point. It was no l
 
 "Yes you are, Leo Arthur," his grandfather said, closing his eyes for a moment of rest. "Yes you are."
 
-### Scene 7: The Final Look
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Final Look
 
 The Recon Mission was over. The Fortress stood on the platform, waiting for the southbound **ARTS *The Patriot*** to take them back to Virginia.
 
@@ -16935,9 +17101,9 @@ The silver train glided in.
 
 This time, Arthur didn't walk to the Business Class table. He sank into the first available seat near the door. Eleanor sat beside him, covering him with a blanket. He slept for almost the entire 13-hour journey south, waking only when they crossed the Mason-Dixon line, offering a small, satisfied nod before drifting off again.
 
-### Scene 8: The Iron Record
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Iron Record
 
 The Registry of Deeds was a quiet place that smelled of old paper and dust. Rows of heavy, leather-bound ledgers lined the walls, containing the history of every square inch of land in the county going back to the colonial charter.
 
@@ -17004,9 +17170,9 @@ Leo’s voice came through the background, via his Communicator.
 
 "Fortress secure," Stella agreed. "Now I just have to go find a contractor who knows how to pour concrete in a nor'easter."
 
-### Scene 9: The Engine Stops
+***
 
-**Date:** 2004-09-18 at 21:00 America/New_York
+#### 9:00 PM — The Engine Stops
 
 The phone on the nightstand in **Room 101** rang. A soft, electronic warble in the quiet darkness of the suite.
 
@@ -17066,9 +17232,9 @@ Leo rolled up to her. He placed his hand on her knee.
 
 "Grandma is coming," Eleanor agreed, covering his hand with hers. "I promised Arthur I'd keep an eye on you. And I never break a promise."
 
-### Scene 10: The Quiet Departure
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Quiet Departure
 
 Stella took the elevator down to the lobby alone. She was dressed in clean clothes, her hair brushed. She didn't look like a woman in crisis; she looked like a woman with business to conclude.
 
@@ -17132,9 +17298,9 @@ They walked back to the suite. The sun was blazing outside, melting the snow on 
 
 Arthur Bennett had checked out. But he had left them the keys to the kingdom.
 
-### Scene 11: The Vessel
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Vessel
 
 They didn't leave on the 30th. They stayed to handle the business of death with the same efficiency Arthur had taught them.
 
@@ -17201,7 +17367,7 @@ Leo watched Stella secure the case. He knew what was inside. But looking at the 
 
 They walked out of the studio, carrying their patriarch into the winter sun, ready for the final ride south.
 
-### Scene 12: The Final Passenger
+### Part 3: The Final Passenger
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
@@ -17304,9 +17470,11 @@ They drove out of the station, the headlights cutting through the Virginia night
 
 ## The Transfer of Power
 
-### Scene 1: The Transfer of Power
+### Part 1: The Transfer of Power & The Final Crossing
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Transfer of Power
 
 The conference room was familiar. It was the same room where they had planned the rescue from Delores, and where they had strategized the lawsuit. But today, the mood wasn't frantic; it was final.
 
@@ -17362,9 +17530,9 @@ Leo tapped his Quantum Communicator.
 
 <aac>They are,</aac> Leo typed. <aac>And the stations have elevators.</aac>
 
-### Scene 2: The War Room
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### 7:00 AM — The War Room
 
 The house was quiet. The morning sun slanted through the blinds, illuminating dust motes dancing in the air.
 
@@ -17446,9 +17614,9 @@ Leo watched Stella grab her keys. He looked at the urn on the shelf.
 
 "The General always has a plan," Olivia smiled. "Let's get to work."
 
-### Scene 3: The Permission Slip
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Permission Slip
 
 The courtroom was familiar. It was the same room where Stella had fought for custody years ago. But today, the atmosphere wasn't one of conflict; it was one of graduation.
 
@@ -17476,9 +17644,9 @@ He handed the order to the clerk.
 
 "We have, Your Honor," Stella smiled. "Thank you."
 
-### Scene 4: The Heavy Lift
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Heavy Lift
 
 The house was a shell. The furniture was gone, loaded onto a massive **Hercules Van Lines** truck the day before.
 
@@ -17599,9 +17767,9 @@ Leo looked at the schedule. He tapped the entry for **04:45 AM**.
 
 "The earliest," Stella confirmed. "It gets us to the platform at 05:15 AM. Plenty of time to load. Get some sleep. We wake up in Virginia, but we sleep in Rhode Island."
 
-### Scene 5: The Final Crossing
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Final Crossing
 
 The ride down Warwick Boulevard had been smooth. The **CVTA** bus was warm and nearly empty, save for a few shipyard workers dozing in their uniforms.
 
@@ -17680,7 +17848,7 @@ Leo looked at the station. It was ugly, industrial, and fenced in. But there was
 
 They walked toward the platform, leaving the hostile asphalt of Virginia behind for good.
 
-### Scene 6: The ARTS-Box
+### Part 2: The ARTS-Box
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
@@ -17758,7 +17926,7 @@ The train pulled out of the station, leaving the ARTS-Box, the humidity, and the
 
 ## The Landing
 
-### Scene 1: The Landing
+### Part 1: The Landing
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
@@ -17824,7 +17992,7 @@ He wasn't visiting anymore. He lived here.
 
 "They'll be here," Olivia promised, sitting beside him. "The Tank and the furniture. Until then... we have pancakes."
 
-### Scene 2: The Home Court
+### Part 2: The Home Court
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
@@ -17911,9 +18079,11 @@ He tapped his Scribe.
 
 "The ultimate advantage," Olivia agreed. "Now, let's go check the tracking on the moving truck. I think our furniture is crossing the George Washington Bridge."
 
-### Scene 3: The Traffic Report
+### Part 3: The Traffic Report & The Twin Frequency
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Traffic Report
 
 Back at their temporary base camp, the mood was light. The legal hurdles were cleared. They were officially residents.
 
@@ -17953,9 +18123,9 @@ Leo nodded. He liked that plan. It was preparation. It was engineering.
 
 They walked back to **8 Ocean View Lane**, leaving the movers to fight the traffic while they prepared the ground for their arrival.
 
-### Scene 4: The Ghost Layout
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Ghost Layout
 
 The walk from the Grey Gull took ten minutes. They arrived at the driveway of the Fortress. It stood silent in the summer afternoon, the grey fieldstone foundation grounding it to the earth, the cedar siding smelling of warmth and resin.
 
@@ -18105,9 +18275,9 @@ Leo looked at the spot marked **SOFA**. He imagined himself there, stomach-to-st
 
 They locked the door—their door—and walked back to the Inn, leaving the blue outlines of their future waiting for them in the quiet house.
 
-### Scene 5: The Capital Request
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Capital Request
 
 The dining room of the Grey Gull was cozy, lit by candles and the fireplace. The smell of slow-cooked pot roast filled the air. The Fortress sat at a round table, exhausted but satisfied.
 
@@ -18175,9 +18345,9 @@ Leo sat back, satisfied. He had his house, his train, his drums, and his tank.
 
 "Deal," Leo typed. <aac>I will engineer the coffee milk.</aac>
 
-### Scene 6: The Ghost in the Deed
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Ghost in the Deed
 
 The pot roast had been perfect. The evening had been a celebration of the future. But as the adrenaline of the day faded, the shadows in the corners of the Carriage House seemed to lengthen.
 
@@ -18279,9 +18449,9 @@ The room went quiet, save for the sound of four people breathing in sync. The gh
 
 "Okay," Olivia whispered, smoothing Luna’s hair. "The threat is gone. Let's get you guys under the covers. Real blankets. No ghosts allowed."
 
-### Scene 7: The Twin Frequency
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Twin Frequency
 
 The panic attack had passed, but the aftershocks were still vibrating in the room. The air felt heavy.
 
@@ -18369,9 +18539,11 @@ Inside the room, the twins slept, locked together in a tangle of limbs and share
 
 They were safe. They were grounded. And tomorrow, the moving truck would arrive.
 
-### Scene 8: The Wall Test
+### Part 4: The Wall Test & The Warning Signs
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Wall Test
 
 The moving truck had finally arrived. The crew from **Hercules Van Lines** was hauling boxes into the house.
 
@@ -18427,9 +18599,9 @@ Leo let out a long breath. He squeezed Luna tighter.
 
 The wall had passed its first test. It had turned a potential APS investigation into a friendly neighborly visit. The Fortress was secure.
 
-### Scene 9: The Warning Signs
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Warning Signs
 
 The grass was green. The house was finished. The **Holt Sentinel** was parked in the garage next to the new **Titan X-Treme** charging station.
 
@@ -18475,9 +18647,11 @@ Leo looked at the layers of defense.
 
 ## The Ticket Kiosk
 
-### Scene 1: The Ticket Kiosk
+### Part 1: The Ticket Kiosk & The Crossing and the Calm
 
 **Date:** 2004-09-18 at 07:00 America/New_York
+
+#### 7:00 AM — The Ticket Kiosk
 
 The morning was bright and humid, a typical New England summer day. The Fortress stood before the bank of orange-and-silver **BTA Ticket Vending Machines** in the open-air waiting area.
 
@@ -18551,9 +18725,9 @@ Leo took his card. He looked at the map on the station wall. He traced the orang
 
 "Exactly," Stella said. "Now let's go use it. The 9:15 to **Braxton Central** is coming. We have a power chair to buy."
 
-### Scene 2: The Commute to Commerce
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Commute to Commerce
 
 They boarded the train. They tapped their new cards at the platform validator. *BEEP. "Valid."*
 
@@ -18575,9 +18749,9 @@ The bus pulled in—a low-floor **Stalwart**. They boarded, tapping their fresh 
 
 Leo rolled into the securement bay. He looked out the window as the bus navigated the busy city streets. He wasn't just going to a store; he was going to get his legs.
 
-### Scene 3: The Showroom
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Showroom
 
 The shop was large, smelling of rubber tires and machine oil. The floor was lined with scooters, hospital beds, and manual chairs.
 
@@ -18660,9 +18834,9 @@ Leo looked at her. He looked at the bus stop ahead. He looked at the city.
 
 They headed for the bus stop, Leo leading the way in his new chariot, leaving the manual chair behind to be delivered by the staff. He didn't need it anymore. He had the power.
 
-### Scene 4: The Blue Planet
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Blue Planet
 
 Leo rolled his new **Titan X-Treme** onto the ramp of the **Route 4** bus. The sensation was completely different from the manual chair. He didn't have to push. He just nudged the joystick, and the heavy machine glided up the incline with a quiet electric hum.
 
@@ -18827,9 +19001,9 @@ Leo watched the boat disappear around the point. He liked that his pass worked o
 
 "Aye aye, Captain," Arthur said, finishing his lobster roll. "Let's go find our sea legs."
 
-### Scene 5: The Crossing and the Calm
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Crossing and the Calm
 
 The high-speed catamaran backed out of **Aquarium Landing**, its twin diesel engines rumbling deep in the hull.
 
@@ -18942,9 +19116,11 @@ Eleanor looked at the photo of Arthur, then at the door where she could hear the
 
 Stella walked out of the room, leaving the ghost of Karen Porter packed away in the dark, while the rest of the family lived in the light.
 
-### Scene 6: The Shield
+### Part 2: The Shield & The Return of the Fleet
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Shield
 
 The house was quiet. The afternoon sun filtered through the garden windows, but the living room was dim and cool.
 
@@ -19018,9 +19194,9 @@ Luna loosened her grip. Olivia helped Leo sit up.
 
 "Safe," Stella promised, patting the stone partition that separated their world from the one that would never understand them. "Totally safe."
 
-### Scene 7: The Supply Run
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Supply Run
 
 The house was hushed, settled into the deep, rhythmic quiet that always followed a period of sensory overload.
 
@@ -19066,9 +19242,9 @@ Leo didn't open his eyes. He just tapped his fingers against Luna’s side—a s
 
 For the next hour, the only sounds in the house were the hum of the refrigerator and the soft breathing of the Fortress, holding itself together while the world outside rushed by.
 
-### Scene 8: The Return of the Fleet
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Return of the Fleet
 
 The "Twin Frequency" had done its work. The static in Leo's brain had cleared, replaced by a heavy, comfortable drowsiness.
 
@@ -19171,9 +19347,11 @@ It was their first meal in the Fortress. They weren't visitors anymore. They wer
 
 ## The Official Stamp
 
-### Scene 1: The Official Stamp
+### Part 1: The Official Stamp & The Bill
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Official Stamp
 
 The Department of Motor Vehicles in Oakhaven was a low brick building next to the courthouse. It smelled of floor wax and anxiety.
 
@@ -19228,9 +19406,9 @@ He tapped his **MagnaByte Scribe**.
 
 <aac>System update complete,</aac> he typed. <aac>Virginia uninstalled.</aac>
 
-### Scene 2: The Eastern Townships Connection
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Eastern Townships Connection
 
 The Department of World Languages occupied the entire second floor of the Humanities Building. It was a maze of flags and maps, buzzing with the sound of a dozen different languages.
 
@@ -19332,9 +19510,9 @@ They walked out of the office, registered for a class Olivia could have taught, 
 
 "And citizenship," Olivia whispered to him, squeezing his shoulder. "Just in case."
 
-### Scene 3: The Principal Chair
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Principal Chair
 
 The walk from the Humanities Building to the Fine Arts Center took ten minutes. They navigated the "Freshman Herd" and took the elevator up to the **4th Floor**.
 
@@ -19442,9 +19620,9 @@ She looked at Leo.
 
 "It's a good view," Luna said. "Now let's go find Room 304. I want to test the lock."
 
-### Scene 4: The Lock Test
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Lock Test
 
 They found **Room 304** at the end of the Woodwind Corridor.
 
@@ -19498,9 +19676,9 @@ Leo looked at the reader. He understood the logic. It wasn't about exclusion; it
 
 They propped the door open (since the "visitors" couldn't unlock it) and walked into the silent, acoustically perfect room that belonged, legally and digitally, only to the twins.
 
-### Scene 5: The Master Schedule
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Master Schedule
 
 They regrouped at **The Foundry** (the main dining hall in the Union) to compare notes and finalize the rest of the grid.
 
@@ -19578,9 +19756,9 @@ Leo looked at the spreadsheet. It wasn't just a schedule; it was a battle plan. 
 
 They packed up and headed for the bookstore, a fully integrated academic unit ready to take on the semester.
 
-### Scene 6: The Bill
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Bill
 
 The line for the Bursar's office was long, filled with stressed students negotiating financial aid or setting up payment plans.
 
@@ -19652,9 +19830,11 @@ She checked her watch.
 
 Leo grinned. He liked the logic. They paid a fortune for the education, but the ride home—and the name on the ID—was theirs forever.
 
-### Scene 7: The Textbook Run
+### Part 2: The Textbook Run & The Last Mile Problem
 
 **Date:** 2004-09-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Textbook Run
 
 The Bursar's office had been quiet, but the Bookstore was a war zone.
 
@@ -19753,9 +19933,9 @@ The "First Year" hadn't even started yet, and he already had his first engineeri
 
 The train rattled on, carrying the students, the musician, the protector, and the engineer toward the home they had built. The semester was about to begin.
 
-### Scene 8: The Last Mile Problem
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Last Mile Problem
 
 The **South Shore Line** train hissed to a halt. The doors slid open.
 
@@ -19831,9 +20011,11 @@ Leo looked at his chair. It was a great machine, but it was incomplete. Tomorrow
 
 ## The Ferry and the Fortress
 
-### Scene 1: The Ferry and the Fortress
+### Part 1: The Ferry and the Fortress & The Clean Break
 
 **Date:** 2004-09-18 at 07:00 America/New_York
+
+#### 7:00 AM — The Ferry and the Fortress
 
 The morning was perfect—bright, clear, and smelling of the sea. The Fortress stood on the platform, ready for their first cross-border expedition since moving in.
 
@@ -19983,9 +20165,9 @@ They exited the restroom back into the lobby.
 
 "The team always works," Olivia said. "Now, let's go catch the **Route 67** bus. I believe there is a mansion with our name on it."
 
-### Scene 2: The Gilded Age Tour
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Gilded Age Tour
 
 They caught the **Route 67** bus right outside the Gateway Center. It was a "trolley-replica" bus—wood benches, brass rails, but crucially, a modern wheelchair lift in the back.
 
@@ -20074,9 +20256,9 @@ He preferred this to the mansion. The mansion was cold stone. This was warm food
 
 "It sure is," Stella smiled, wiping a bit of foam from her lip. "Now drink up. We have to catch the ferry back to the Fortress."
 
-### Scene 3: The Express Return
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Express Return
 
 Lunch was finished. The Colossal Coolers were drained.
 
@@ -20155,9 +20337,9 @@ He tapped his Scribe.
 
 Leo rolled into the cool, quiet hallway of the house. He was ready. He had his chair, his pass, and his team.
 
-### Scene 4: The Calm Before the Herd
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Calm Before the Herd
 
 The house was quiet. The excitement of the Newport trip had faded into a comfortable, heavy fatigue.
 
@@ -20229,9 +20411,9 @@ The Fortress was ready. They had the passes. They had the books. They had the sw
 
 "We sure are," Stella said, turning off the main light. "Rest up. Tomorrow we go to war with the Freshman Class."
 
-### Scene 5: The Clean Break
+***
 
-**Date:** 2004-09-18 at 10:00 America/New_York
+#### 10:00 AM — The Clean Break
 
 The schedule for tomorrow was set. The bags were packed. Now, it was time for the final prep.
 
@@ -20342,7 +20524,7 @@ Leo rolled up to her. He smelled the wool and the fire.
 
 "That's right," Eleanor said. "Clean slate. Now come here and tell me if this sleeve looks long enough for your arm."
 
-### Scene 6: The Night Watch
+### Part 2: The Night Watch
 
 **Date:** 2004-09-18 at 21:00 America/New_York
 
@@ -20414,7 +20596,7 @@ The Fortress was locked. The family was together. And tomorrow, the Bulls would 
 
 ## The 05:30 Alarm
 
-### Scene 1: The 05:30 Alarm
+### Part 1: The 05:30 Alarm
 
 **Date:** 2004-09-18 at 05:30 America/New_York
 
@@ -20490,7 +20672,7 @@ They finished their breakfast, grabbed their bags, and walked out the front door
 
 They headed down the wide, smooth sidewalk of Ocean View Lane, four students (and one grandmother waving from the porch) heading toward the sound of the train whistle.
 
-### Scene 2: The Rainy Day Express
+### Part 2: The Rainy Day Express
 
 **Date:** 2004-09-20 at 08:00 America/New_York
 
@@ -20597,9 +20779,11 @@ Leo sat alone in the hallway for a second. Then he turned his chair. He pushed h
 
 He rolled into the elevator, descended to the tunnel, and headed for the Engineering building. He was a Bull. And he was ready to work.
 
-### Scene 3: The Split Screen
+### Part 3: The Split Screen & The Vetting Process
 
 **Date:** 2004-09-20 at 07:00 America/New_York
+
+#### 7:00 AM — The Split Screen
 
 The morning sun streamed through the windows of Braxton State University. The Fortress was deployed across the campus, each member engaging their respective targets.
 
@@ -20775,9 +20959,9 @@ Luna sat down. She packed the silver away. She caught the eye of the girl in the
 
 Luna smiled. The rumor was true. The Fortress had arrived.
 
-### Scene 4: The Vetting Process
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Vetting Process
 
 The Fortress had claimed their usual large round table in the center of the dining hall. Stella was reviewing a contract on her laptop. Olivia was unwrapping a sandwich. Luna was reviewing her French vocabulary cards.
 
@@ -20875,9 +21059,11 @@ Olivia squeezed his hand, her ring clicking against his. She looked at Sarah and
 
 The Fortress had expanded. It hadn't let down the drawbridge; it had just issued two new visitor passes.
 
-### Scene 5: The Dialect Shock
+### Part 4: The Dialect Shock & The Audition
 
 **Date:** 2004-09-20 at 07:00 America/New_York
+
+#### 7:00 AM — The Dialect Shock
 
 The classroom was full. **FR-Q 101** was a popular elective, mostly because students assumed "French is French."
 
@@ -21141,9 +21327,9 @@ He tapped his **Quantum Communicator**.
 
 "Oh, hen," Elspeth laughed. "You're not ready for *that* lesson."
 
-### Scene 6: The Machine Shop
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Machine Shop
 
 Leo rolled into the ground-floor machine shop. It was a cathedral of industry—high ceilings, smell of ozone and cutting fluid, the hum of CNC mills.
 
@@ -21217,9 +21403,9 @@ Leo rolled out of the shop. He checked his watch. 03:15 PM. Time to head to the 
 
 He felt lighter. He hadn't just designed a rack; he had found his cohort. And Olivia would approve.
 
-### Scene 7: The Audition
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Audition
 
 The noise in Rehearsal Hall A was deafening. Sixty musicians were warming up simultaneously.
 
@@ -21321,9 +21507,11 @@ Dr. Sterling tapped the podium.
 
 Luna played the A-440. The orchestra tuned to her sound. She hadn't bought the seat; she had fought for it. And the Fortress held the high ground.
 
-### Scene 8: The Library Rendezvous
+### Part 5: The Library Rendezvous & The Glass Wall
 
 **Date:** 2004-09-20 at 07:00 America/New_York
+
+#### 7:00 AM — The Library Rendezvous
 
 The Music Library was a quiet, wood-paneled sanctuary on the second floor of the Fine Arts Center. While the practice rooms were for noise, this room was for silence. It was filled with students studying scores, writing papers, and hiding from the chaos of the first day.
 
@@ -21403,9 +21591,9 @@ The Fortress was working. It wasn't just a wall anymore; it was a hub.
 
 Stella went back to her Quantum Sharp code. The family was safe. The semester was launched.
 
-### Scene 9: The Safe Harbor
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Safe Harbor
 
 The library doors opened. Luna walked in, her Orpheus 680 case over her shoulder, still buzzing from the adrenaline of the Wind Symphony rehearsal.
 
@@ -21522,9 +21710,9 @@ Stella walked to the kitchen to start the kettle.
 
 Leo smiled. He parked his chair. He was home.
 
-### Scene 10: The Missing Frequency
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Missing Frequency
 
 The door clicked shut, sealing them inside the vault. The double-drywall and Green Glue acoustic treatment worked perfectly. The roar of the hallway—trumpets, scales, laughter—vanished, replaced by a heavy, studio-quality silence.
 
@@ -21610,9 +21798,9 @@ Leo tapped the table. Ping. Ping.
 
 He could already hear it. The missing frequency was found.
 
-### Scene 11: The Glass Wall
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Glass Wall
 
 The house was quiet. The day had been good—classes, a successful M.U.L.E. test, and a dinner of clam cakes.
 
@@ -21781,9 +21969,11 @@ They ate in the quiet kitchen, four people bound by a love that didn't need sex 
 
 ## The Green Room
 
-### Scene 1: The Green Room
+### Part 1: The Green Room & The Jurisdiction Trap
 
 **Date:** 2004-09-20 at 08:00 America/New_York
+
+#### September 20, 2004 • 8:00 AM — The Green Room
 
 The backstage area smelled of rosin, valve oil, and nervous sweat. The Wind Symphony members were in their "Concert Black"—tuxedos for the men, long black gowns or pant suits for the women.
 
@@ -21805,9 +21995,9 @@ Jenna patted Luna’s shoulder.
 
 Luna smiled. She wasn't fighting for the chair anymore. She was the chair.
 
-### Scene 2: The Accessible Box
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### September 20, 2004 • 7:00 AM — The Accessible Box
 
 The Fortress had secured the best seats in the house. Because the theater was built in 2005, the Accessible Box wasn't a cage in the back; it was a prime viewing suite suspended over the orchestra level, giving a perfect view of the stage.
 
@@ -21839,9 +22029,9 @@ Leo watched the waveform on his laptop (he was recording the audio for analysis)
 
 <aac>Calibration complete,</aac> he typed.
 
-### Scene 3: The Vivaldi
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### September 20, 2004 • 7:00 AM — The Vivaldi
 
 Dr. Sterling lowered her baton. The band fell silent.
 
@@ -21893,9 +22083,9 @@ Jenna leaned over. "Show off."
 
 "I learned from the best," Luna whispered back.
 
-### Scene 4: The Snow Convoy
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### September 18, 2004 • 7:00 AM — The Snow Convoy
 
 The Fortress took the elevator down to the basement level of the Fine Arts Center. The hallway was crowded with musicians hauling percussion equipment and tubas.
 
@@ -22012,9 +22202,9 @@ He looked at Sarah and Amanda, who were looking around the massive, beautiful ho
 
 The Fortress was full. The snow was falling. And the fire was about to be lit.
 
-### Scene 5: The Sanctuary Protocol
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### September 20, 2004 • 7:00 AM — The Sanctuary Protocol
 
 The snow was piling up against the triple-paned windows, sealing the house into a white, silent bubble. Inside, the fire was crackling. The Fortress was in "Decompression Mode."
 
@@ -22124,9 +22314,9 @@ Leo rolled his chair closer. He put his hand on Sarah’s knee.
 
 "You're a ghost, Sarah," Stella said gently, tossing the tracking-enabled debit card into the fireplace. "Let him track that."
 
-### Scene 6: The Jurisdiction Trap
+***
 
-**Date:** 2004-09-18 at 07:00 America/New_York
+#### September 18, 2004 • 7:00 AM — The Jurisdiction Trap
 
 The fire was crackling. Sarah sat on the sofa, flanked by Amanda and Luna. She was trembling, waiting for the inevitable explosion.
 
@@ -22220,9 +22410,11 @@ She wasn't a fugitive anymore. She was a Defendant in a court that was already o
 
 "Let him come," Sarah whispered, wiping her eyes. "I'm not going back."
 
-### Scene 7: The Station Assault
+### Part 2: The Station Assault & The Identity Protocol
 
 **Date:** 2004-09-20 at 07:00 America/New_York
+
+#### 7:00 AM — The Station Assault
 
 The morning after the "Sanctuary Protocol" was invoked, the Fortress wasn't hiding. They were fortifying.
 
@@ -22445,9 +22637,9 @@ He tapped his Scribe one last time.
 
 They walked out of the shop, leaving the cold coffee and the half-eaten donuts behind, stepping into the crisp winter air as a family that had fought a war before 10:00 AM and won.
 
-### Scene 8: The Flight Risk
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Flight Risk
 
 The courtroom was tense.
 
@@ -22540,11 +22732,11 @@ The doors swung shut. The State Prosecutor looked at his empty table, then at th
 
 "It certainly does," Judge Vance said, exhaling slowly. "Court is adjourned."
 
-### Scene 9: The Identity Crisis
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Identity Crisis
 
-##### December 18, 2006 Iron County Superior Court - Witness Room 10:30 AM
+#### December 18, 2006 Iron County Superior Court - Witness Room 10:30 AM
 
 The hearing was over. Viktor Krov was in federal custody.
 
@@ -22610,9 +22802,9 @@ Then she looked at the Fortress crew. The people who had saved her.
 
 "Exactly," Stella said. "Let's go home. We have a guest room with your name on it. Whatever name that is."
 
-### Scene 10: The Identity Protocol
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### 7:00 AM — The Identity Protocol
 
 The FBI agents had left with their prisoner. The door was closed.
 
@@ -22711,9 +22903,11 @@ Maya smiled. It was a real smile.
 
 "Hello Leo," she said. "I like the new specs."
 
-### Scene 11: The Plastic Anchor
+### Part 3: The Plastic Anchor & The Maiden Voyage
 
 **Date:** 2004-09-18 at 07:00 America/New_York
+
+#### September 18, 2004 • 7:00 AM — The Plastic Anchor
 
 "Transaction?" Brenda asked.
 
@@ -22786,9 +22980,9 @@ Maya clutched the keys and the license. She had a name. She had a home. And she 
 
 "Clear," Maya agreed.
 
-### Scene 12: The Ghost Tax
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### September 20, 2004 • 7:00 AM — The Ghost Tax
 
 The insurance office was wood-paneled and smelled of coffee. **Mr. Russo**, the agent who handled the Porter Home and Auto bundles, sat behind his desk typing.
 
@@ -22905,9 +23099,9 @@ She climbed into the driver's seat. She adjusted the mirror. She saw **Maya Port
 
 Maya turned the key. The V8 roared to life. She put it in gear and drove the Fortress out of the lot, leaving Sarah Halloway behind in the database of ghosts.
 
-### Scene 13: The Maiden Voyage
+***
 
-**Date:** 2004-09-20 at 07:00 America/New_York
+#### September 20, 2004 • 7:00 AM — The Maiden Voyage
 
 Maya sat in the driver’s seat of the **2001 Holt Sentinel**. The steering wheel was huge. The hood stretched out forever. It felt like piloting a boat.
 

@@ -6,7 +6,9 @@ title: "Nichole"
 
 ## The Newport Vacation
 
-### Scene 1: The Bachelor Pad
+### Part 1: The Bachelor Pad & The Pitch
+
+#### The Bachelor Pad
 
 The heat in Newport wasn't like the heat in Virginia. In Virginia, the heat was a wet blanket that smelled of asphalt and swamp. Here, on Washington Street, the heat was salty. It stuck to your skin, smelling of drying seaweed and low tide.
 
@@ -56,7 +58,9 @@ Mark left the room to help Ellen with the cooler. Patrick and Nichole were left 
 
 He looked at Nichole. She was staring at the amber light of the radio. "This is gonna be a good trip," Patrick whispered.
 
-### Scene 2: The Night Watch
+***
+
+#### The Night Watch
 
 The bedtime routine at Uncle Mark’s was an operation. The bathroom in the 1890s-era apartment was not designed for a wheelchair. It was a narrow, tiled chute with a clawfoot tub and a pedestal sink that seemed determined to block the door. Ellen had to leave the wheelchair in the hallway. She carried Nichole in—a "dead lift" that made Ellen grunt with effort—and balanced her on the edge of the toilet, then the edge of the tub.
 
@@ -107,7 +111,9 @@ Nichole froze for a second. *Nikki.* Mom called her Nichole. Dad called her Nich
 
 They fell asleep like that—tangled together on the hard futon, listening to the rain and the fan, safe in the cockpit of the Bennett Machine.
 
-### Scene 3: The Pitch
+***
+
+#### The Pitch
 
 Patrick woke up with the mission. The storm had passed, leaving the morning air thick and heavy. The box fan was still rattling in the window, pulling in the scent of wet asphalt and low tide.
 
@@ -165,7 +171,9 @@ Tom smiled, a look of nostalgia crossing his face. "Dip & Sip," Tom said. "I spe
 
 Patrick turned back to his drawing. He added a switch. Nichole stirred on the futon. She opened her eyes, blinking against the light. She saw Patrick at the desk. She saw the adults standing around him. She didn't know what was happening, but she saw Patrick smiling. She pulled the quilt up and smiled back. The Bennett Machine was already at work.
 
-### Scene 4: The Circuit Barn
+### Part 2: The Circuit Barn & The Park Summit
+
+#### The Circuit Barn
 
 The 1988 Holt Workmaster pickup truck rumbled into the parking lot of the Newport Mall. It was a beast of a vehicle—faded navy blue paint, a bed lined with scratched plywood, and a suspension that felt every pebble on Connell Highway.
 
@@ -245,7 +253,9 @@ Mark put a hand on Patrick’s shoulder. "Let's go, Engineer. We've got a Vulcan
 
 As they walked out into the mall, the buzzer sounded again. Patrick clutched the bag to his chest. For the first time, he didn't feel like a kid with a disability. He felt like a maker.
 
-### Scene 5: The Island Tour
+***
+
+#### The Island Tour
 
 They left the Circuit Barn with the goods secured. Nichole sat in the passenger seat, holding the brown paper bag like it was a pouch of diamonds. Patrick sat in the middle, his feet straddling the transmission hump, watching Uncle Mark work the clutch.
 
@@ -311,7 +321,9 @@ Mark pulled the truck to the curb. "Touchdown," Mark said. "Prepare for extracti
 
 Patrick looked at Nichole. She was clutching the Circuit Barn bag with one hand and smiling. She had survived the night. She had survived the ocean. And now, she had donuts. It was, objectively, the best day ever.
 
-### Scene 6: The Park Summit
+***
+
+#### The Park Summit
 
 The Holt Workmaster rumbled to a stop alongside the curb on Broadway. Across the street, Equity Park was a patch of green calm in the middle of the busy Saturday traffic. It wasn't a playground with swings; it was a "sitting park"—a triangle of grass with sturdy wooden benches and old shade trees.
 
@@ -366,7 +378,7 @@ Patrick sat on the grass, eating his donut and flipping through diagrams of robo
 
 She didn't miss the apartment on Pond Avenue. She didn't care about the stairs she couldn't climb. She had the donut. She had the book. She had the breeze. And she had her family, sitting in a circle around her, closing the loop.
 
-### Scene 7: The Quiet Convoy
+### Part 3: The Quiet Convoy
 
 The picnic at Equity Park ended not with a sudden stop, but with a quiet shift in gravity. Tom checked his watch, then looked at his mother, Helen. "It's time, Mom," Tom said gently. "If you're ready."
 
@@ -528,7 +540,9 @@ Mark grinned. He pointed to a large blue and white sign up ahead. A giant sculpt
 
 "Refueling station," Mark announced.
 
-### Scene 8: BayFront Creamery
+### Part 4: BayFront Creamery & The Bennett Beacon
+
+#### BayFront Creamery
 
 The transition from the cemetery to BayFront Creamery was a shock to the system. One minute, they were under the silent oak trees. The next, they were walking into a wall of noise: clattering silverware, sizzling grills, crying babies, and the roar of industrial milkshake machines.
 
@@ -625,7 +639,9 @@ This was the vacation. The circuit board, the ocean, the stone, and the sugar. I
 
 She took another sip of the Colossal Cooler. It was awful big. And it was awful good.
 
-### Scene 9: The Bennett Beacon
+***
+
+#### The Bennett Beacon
 
 The drop-off at Pond Avenue was quick. Grandma Helen kissed everyone on the cheek, straightened her blazer, and disappeared up the winding staircase of 3C with the energy of a woman half her age. The "Quiet Convoy" was officially over. Now, it was time for the "Loud Construction."
 
@@ -690,7 +706,7 @@ Ellen leaned down and kissed Nichole on the head, right as the red light pulsed.
 
 ## Project Alpha
 
-### Scene 1: Origin Story: Project Alpha
+### Origin Story: Project Alpha
 
 The crisis started, as most innovation does, with a failure of the existing technology.
 
@@ -774,7 +790,7 @@ Patrick grinned. "It's the Board, Nikki. Waterproof edition."
 
 ## The Test Run
 
-### Scene 1: The Curb Trap
+### The Curb Trap
 
 Date: August 28, 1996 (Three days before 6th Grade)
 
@@ -860,7 +876,7 @@ Ellen looked down the street at the school, then at her kids. "I'm calling the c
 
 ## The Yellow Wall
 
-### Scene 1: Arrival at Morrison Middle School
+### Arrival at Morrison Middle School
 
 Date: September 3, 1996 (First Day of 6th Grade) Time: 07:45 AM Location: The Corner of Earnhardt & Morrison
 
@@ -948,7 +964,7 @@ She looked at Patrick and tapped her temple. *Crazy.*
 
 ## Middle School Life
 
-### Scene 1: The Fire Alarm
+### Part 1: The Fire Alarm
 
 Morrison Middle School was a sprawling, single-story brick fortress built in 1978. It was designed in an era before "accessibility" was a federal mandate. The floors were flat linoleum, which was good, but the hallways were narrow, and the sensory environment was unregulated.  
 
@@ -1114,7 +1130,7 @@ He turned back to Patrick.
 
 He turned the chair around, putting his back to the Principal, and pushed Nichole toward the far edge of the blacktop, away from the administration, away from the apology, and toward the only safety that mattered.
 
-### Scene 2: The Call
+### Part 2: The Call
 
 The phone rang. Ellen Bennett picked it up, wiping flour from her hands.
 
@@ -1884,7 +1900,9 @@ HIRED.
 
 It was official. The Bennett Machine was no longer a rogue operation. It was district policy.
 
-### Scene 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
+### Part 3: 1850 Delaney Street, Virginia Beach & The Architect and the Laborer
+
+#### The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
 
 The victory had lasted exactly twenty-eight days.
 
@@ -2070,7 +2088,9 @@ Tom looked at his son—eleven years old, carrying a burden most men never faced
 
 Patrick went inside. Tom stayed in the garage, listening to the silence, praying that the only fires Morrison Middle School ever saw were the ones on paper.
 
-### Scene 4: The Third Wheel
+***
+
+#### The Third Wheel
 
 The assignment was standard 7th-grade curriculum, but the logistics were a nightmare.
 
@@ -2158,7 +2178,9 @@ Nichole poised her finger over the VocaLink's thermal printer button. She wasn't
 
 "Let's build a cell," Patrick said.
 
-### Scene 5: The Architect and the Laborer
+***
+
+#### The Architect and the Laborer
 
 For the next forty minutes, the table became a microcosm of the real world.
 
@@ -2279,7 +2301,9 @@ Bennett Dynamics had just won its first contract.
 
 ## Welcome to Northwood High School
 
-### Scene 1: The 5 AM Alarm
+### Part 1: The 5 AM Alarm & The Escort
+
+#### The 5 AM Alarm
 
 The red digits of the alarm clock clicked from 4:59 to 5:00.
 
@@ -2339,7 +2363,9 @@ Nikki tapped the screen. The synthesized voice of 'Digital Dan' filled the room.
 
 Patrick grabbed the push handles. He leaned his weight on them, feeling his balance steady. "Ready," he echoed.
 
-### Scene 2: The War Room
+***
+
+#### The War Room
 
 The kitchen was bright, smelling of coffee and burnt toast.
 
@@ -2393,7 +2419,9 @@ He unlocked the brakes. "Let's go."
 
 They rolled out the front door into the humid Virginia morning, leaving the safety of the house behind. At the end of the driveway, the bright yellow bus was already turning the corner, its air brakes hissing like a predator.
 
-### Scene 3: The Soft Trap
+***
+
+#### The Soft Trap
 
 The transition to High School was a sensory nightmare. Everything was bigger, louder, and more aggressive. The bells were shrill electronic buzzers. The hallways were mosh pits.
 
@@ -2526,7 +2554,9 @@ Patrick stood up. He unlocked the brakes of the Titan, putting his back into it 
 
 "I didn't restrain her," Patrick said, wiping a tear from his sister's cheek with his thumb. "I grounded her. And we're going to Latin."
 
-### Scene 4: The Reckoning
+***
+
+#### The Reckoning
 
 Principal Harrison sat behind his desk, the "Bennett Settlement" file open in front of him. The office was quiet, insulated from the chaos of the class changeover happening in the hallways.
 
@@ -2576,7 +2606,9 @@ The Nurse stood up, stiff and angry, and marched out of the room.
 
 Harrison stood up and grabbed his walkie-talkie. "Come on, son. Let's get you to class."
 
-### Scene 5: The Escort
+***
+
+#### The Escort
 
 Principal Harrison stood up from his desk and looked at Patrick. The boy was still wearing his gym kit—shorts and a t-shirt—standing in the middle of the administrative office while the secretaries typed and phones rang.
 
@@ -2618,7 +2650,9 @@ He glanced down at Patrick.
 
 "See that you don't."
 
-### Scene 6: The Return
+### Part 2: The Return & The Hand-Off
+
+#### The Return
 
 They reached Room 204. Mrs. Dalloway’s door was closed. Through the reinforced window, Patrick could see the class was already seated, heads bent over their textbooks.
 
@@ -2694,7 +2728,9 @@ Nichole blinked slowly, the panic finally gone from her eyes.
 
 Patrick opened his textbook. He felt the weight of the "Secret Agent" badge in his pocket. It felt heavier now, but it also felt secure. He glanced at the door one last time, grateful for the large man who guarded it.
 
-### Scene 7: The Longest Hour
+***
+
+#### The Longest Hour
 
 The bell for the end of 4th period rang—a shrill, electric buzzer that vibrated in Nichole’s teeth.
 
@@ -2768,7 +2804,9 @@ Nichole didn't wait for the aide to push. She grabbed her own rims—her hands c
 
 Get me out of here.
 
-### Scene 8: The Hand-Off
+***
+
+#### The Hand-Off
 
 The cafeteria was a roar of noise—three hundred freshmen shouting over the clatter of plastic trays and the smell of rectangular pizza.
 
@@ -2842,7 +2880,9 @@ Patrick took a bite of his pizza and grinned. "Yeah. Much better."
 
 ## The Smoke Test
 
-### Scene 1: The Area of Rescue
+### The Area of Rescue & The Return
+
+#### The Area of Rescue
 
 Date: April 12, 2002 (Spring of 11th Grade)
 
@@ -2945,7 +2985,9 @@ Patrick turned. He looked at the teacher, then at the invisible, choking scent f
 
 He turned his back on the teacher and stepped into the flow of traffic at the top of the stairs, carrying his sister down into the crush.
 
-### Scene 2: The Descent
+***
+
+#### The Descent
 
 Patrick turned from the elevator alcove and stepped into the flow of traffic at Stairway A.  
 
@@ -2977,7 +3019,9 @@ He reached the bottom. The heavy metal push-bar of the exit door loomed ahead.
 
 Patrick didn't stop. He shifted Nichole’s weight, lifted his leg, and kicked the bar.
 
-### Scene 3: The Bus Loop
+***
+
+#### The Bus Loop
 
 The door swung open, and they burst out into the Virginia spring air.
 
@@ -3017,7 +3061,9 @@ Patrick didn't stand up and walk away. He didn't go look for his homeroom teache
 
 He sat down on the curb right next to her, their shoulders pressing together. He leaned his head back against the chain-link fence, gasping for air, wiping sweat from his eyes.
 
-### Scene 4: The Stand
+***
+
+#### The Stand
 
 Across the bus loop, the doors of the school banged open.
 
@@ -3061,7 +3107,9 @@ Patrick exhaled. He looked at Nichole.
 
 "We're good," he whispered, smoothing her hair. "We're staying right here."
 
-### Scene 5: The Long Hour
+***
+
+#### The Long Hour
 
 Date: April 12, 2002
 
@@ -3108,7 +3156,9 @@ She wanted her wheels. She wanted her voice. The VocaLink 3000 was sitting on th
 
 Nichole let out a huff of frustration. She slumped against him, resigning herself to being "cargo" for a little while longer.
 
-### Scene 6: The All Clear
+***
+
+#### The All Clear
 
 Time: 11:10 AM
 
@@ -3164,7 +3214,9 @@ He looked down at Nichole. "Ready to fly?"
 
 Nichole looked at the teacher, then at her brother. She reached up.
 
-### Scene 7: The Return
+***
+
+#### The Return
 
 Patrick bent down. He didn't hesitate.
 
@@ -3190,7 +3242,9 @@ He carried her across the asphalt desert of the bus loop, a one-man transport un
 
 ## Planning for the Future
 
-### Scene 1: Transitioning Nichole’s IEP
+### Transitioning Nichole’s IEP & The Offer
+
+#### Transitioning Nichole’s IEP
 
 The meeting had been going for thirty minutes. The table was covered in graphs.
 
@@ -3261,7 +3315,9 @@ Tom and Ellen walked out of the conference room and into the hallway, feeling li
 
 They were ready for the future.
 
-### Scene 2: The Poverty Trap
+***
+
+#### The Poverty Trap
 
 The office smelled of stale coffee and despair. It was a windowless room filled with rows of plastic chairs bolted to the floor, occupied by people clutching numbered tickets.
 
@@ -3381,7 +3437,9 @@ Nichole smiled.
 
 <aac>Deal.</aac>
 
-### Scene 3: The Offer
+***
+
+#### The Offer
 
 The van was quiet, the only sound the hum of the tires on the asphalt. The air conditioning was blasting, fighting off the July heat.
 
@@ -3479,7 +3537,7 @@ And that was exactly what she had wanted all along.
 
 ## The Handover
 
-### Scene 1: The First Shift
+### Part 1: The First Shift
 
 The house was cooling down after the heat of the day. The central air hummed a low, steady rhythm.
 
@@ -3753,7 +3811,9 @@ Nichole let out a long, contended sigh. She didn't need a nightlight. She didn't
 
 She closed her eyes. The Bennett Machine powered down for the night, fully operational.
 
-### Scene 2: The Certification
+### Part 2: The Certification & The Maintenance Crew
+
+#### The Certification
 
 The classroom smelled of rubbing alcohol and rubber.
 
@@ -3936,7 +3996,9 @@ He got into the driver's seat. He placed the certification card in the center co
 
 Another system upgrade complete. The Machine was now rated for emergency operations.
 
-### Scene 3: The Maintenance Crew
+***
+
+#### The Maintenance Crew
 
 The CPR card was in his wallet. The transfer training was done. But the real test wasn't holding a phone or doing chest compressions on a plastic dummy.
 
@@ -4143,7 +4205,9 @@ The deal was sealed. They were going to college.
 
 ## Graduation
 
-### Scene 1: The Breach
+### Part 1: The Breach & The Search
+
+#### The Breach
 
 The air in the gymnasium was thick enough to chew. It smelled of floor wax, corsage flowers, and the nervous sweat of four hundred teenagers.
 
@@ -4219,7 +4283,9 @@ The purple and gold ocean swallowed the wheelchair whole.
 
 And the band played on.
 
-### Scene 2: The Empty Chair
+***
+
+#### The Empty Chair
 
 Patrick felt the rubber grips of the push handles rip from his palms. It wasn't a slip; it was a violent tear, like a riptide pulling a swimmer under.
 
@@ -4342,7 +4408,9 @@ The thought broke her heart more than the fear. She wouldn't get to say goodbye.
 
 She shivered, burying her face in her knees, and waited for the end.
 
-### Scene 3: The Search
+***
+
+#### The Search
 
 The mob finally began to thin. The last of the frantic parents found their seats on the wooden bleachers, satisfied with their conquests. The flow of bodies slowed to a trickle.
 
@@ -4486,7 +4554,7 @@ Patrick wrapped his arms around her, pulling her dusty, trembling body against h
 
 "I've got you," he said again, burying his face in her hair. "I'm never letting go."
 
-### Scene 4: The Promise
+### Part 2: The Promise
 
 Patrick dragged the *Titan AeroMotion* out of the gymnasium and into the cool, quiet hallway. The heavy doors swung shut, muting the relentless blaring of the band to a dull thrum.
 
@@ -4634,7 +4702,9 @@ They stayed there under the tree for an hour, ignoring the graduation parties st
 
 ## The Reset
 
-### Scene 1: Damage Control
+### Damage Control & The War Room
+
+#### Damage Control
 
 Tom nodded at Patrick, sensing the density of the air in the room. He picked up the toolbox and the wobbly wheel Patrick had removed. "I'll take the rim out to the garage vice. I’ll get it true again. You two... take your time."
 
@@ -4674,7 +4744,9 @@ She felt a sob rising in her chest, but she swallowed it down. If she cried, her
 
 She looked at Patrick. He wasn't looking at her injury anymore. He was staring at the floor, his jaw clenched so hard a muscle was jumping in his cheek. He looked like he wanted to punch a hole through the wall.
 
-### Scene 2: The Vow
+***
+
+#### The Vow
 
 Patrick gently pulled her shirt back down. He picked up a fresh pillow and wedged it between her side and the armrest of the chair to splint the ribs.
 
@@ -4730,7 +4802,9 @@ Nichole nodded. She leaned forward, wincing as her ribs protested, and rested he
 
 They stayed like that for a long time, kneeling on the carpet in the quiet house, while the world outside rushed on without them. The bruises would heal, turning yellow and green before fading. But the psychological architecture had shifted permanently. The Fortress wasn't a building anymore. It was Patrick.
 
-### Scene 3: The War Room
+***
+
+#### The War Room
 
 By the afternoon, the silence of trauma had been replaced by the rustle of brochures.
 
@@ -4912,7 +4986,9 @@ She reached for her VocaLink. The screen glowed in the afternoon light.
 
 ## The Misfit Tour
 
-### Scene 1: The \
+### The \ & The Commuter Special
+
+#### The \
 
 The spreadsheet on the Bennett family’s kitchen table at 1850 Delaney Street was color-coded. Ellen had spent the last two weeks calling admissions offices, mapping out a tour schedule that would take them across the state.
 
@@ -5108,7 +5184,9 @@ Patrick stood up. The sugar was hitting his system, and the oppressive feeling o
 
 Nichole tapped her armrest twice. *Let's roll.* They navigated out of the dying mall, leaving the ghosts of retail past behind, ready to make the five-minute drive across the city line to Greenwich Road.
 
-### Scene 2: The Commuter Special
+***
+
+#### The Commuter Special
 
 The drive from Glenrock Mall to Greenwich Road took exactly five minutes.
 
@@ -5194,7 +5272,9 @@ Nichole tapped her VocaLink screen.
 
 ## The Institution
 
-### Scene 1: The Valley of Hope
+### Part 1: The Valley of Hope & The Barracks
+
+#### The Valley of Hope
 
 The drive was a seduction.
 
@@ -5218,7 +5298,9 @@ Then, the green signage appeared on the right. Exit 91. Fishersville.
 
 Tom clicked the blinker. The van slowed, shedding the freedom of the open highway, and turned onto the off-ramp toward Route 285. The seduction was over. The reality was waiting at the bottom of the hill.
 
-### Scene 2: The Fortress
+***
+
+#### The Fortress
 
 Tom maneuvered into the turn lane and made the right onto Route 358.
 
@@ -5258,7 +5340,9 @@ They exchanged a look. *Shields up.*
 
 He walked around to the lift. As Nichole rolled out onto the asphalt, she didn't smile at the birds chirping in the S.T.A.R. Trail woods. She locked her brakes and waited for Patrick to take the handles. They were entering hostile territory.
 
-### Scene 3: The Intake
+***
+
+#### The Intake
 
 The interior of the Birdsall-Hoover Building smelled of lemon antiseptic and old paper. The air was frigid, the kind of aggressive air conditioning used to preserve government documents.
 
@@ -5380,7 +5464,9 @@ A sign on the wall read: ROTHROCK HALL.
 
 Nichole looked at the doors. They didn't look like they were designed to keep the world out. They looked like they were designed to keep the "patients" in.
 
-### Scene 4: The Cage
+***
+
+#### The Cage
 
 Swayne swiped a keycard to open the double doors. The lock buzzed—a harsh, electric sound that made Nichole jump.
 
@@ -5448,7 +5534,9 @@ Nichole tapped her armrest. Hard. *Get me out.*
 
 Patrick pushed Nichole out of the room, listening to the hum of the hospital bed receding behind them. He felt sick. It wasn't a room. It was a storage unit for broken parts. And he wasn't going to let them store his sister there.
 
-### Scene 5: The Barracks
+***
+
+#### The Barracks
 
 They left the medical sterility of Rothrock and walked across a patch of manicured grass to Barnett Hall.
 
@@ -5510,9 +5598,11 @@ Swayne checked his watch, seemingly oblivious to the tension radiating off the f
 
 Tom and Ellen exchanged a look behind Swayne’s back. It was a look of grim determination. They were done listening. Now, they were just gathering evidence to confirm the "No."
 
-### Scene 6: The Rec Hall
+### Part 2: The Rec Hall & The Safe House
 
-##### Location: Walkway between Barnett Hall and the Student Center Time: 1:40 PM
+#### The Rec Hall
+
+#### Location: Walkway between Barnett Hall and the Student Center Time: 1:40 PM
 
 They left the grim barracks of Barnett Hall and headed across the quad. Mr. Swayne seemed to sense the growing hostility in the group, so he fell back on policy.
 
@@ -5585,7 +5675,9 @@ He didn't wait for Swayne. He didn't wait for the security guards running across
 
 Patrick pulled back on the handles, popping the casters into the air to clear the debris, and spun the heavy chair in a tight 180-degree combat turn. He bolted for the exit doors, using his body to shield her from the chaos, pushing her out into the safety of the summer air.
 
-### Scene 7: The Escape
+***
+
+#### The Escape
 
 Patrick didn't stop pushing until they were well clear of the building, halfway across the parking lot toward the van. He was breathing hard, not from exertion, but from the adrenaline of the fight-or-flight response.
 
@@ -5629,7 +5721,9 @@ Swayne stepped back, defeated.
 
 Patrick loaded Nichole onto the lift. He locked her down with efficient, angry movements. He climbed into the back seat beside her and slammed the door.
 
-### Scene 8: The Intersection
+***
+
+#### The Intersection
 
 Patrick finished locking down the wheelchair tie-downs in the back of the van. His hands were shaking slightly—not from palsy, but from the sheer, vibrating rage of being told his future was scooping potatoes.
 
@@ -5723,7 +5817,9 @@ She tapped her armrest.
 
 Patrick smiled—a real smile this time. "Yeah. Pie is good strategy."
 
-### Scene 9: The Safe House
+***
+
+#### The Safe House
 
 The transition from the highway to the country road was like stepping out of a noisy factory and into a library.
 
@@ -5849,7 +5945,9 @@ She reached for her VocaLink.
 
 "Damn right," Sherry smiled. "Vermont or bust."
 
-### Scene 10: The Pasture
+### Part 3: The Pasture & The Night Watch
+
+#### The Pasture
 
 The afternoon sun began to dip, casting long, golden shadows across the Shenandoah Valley. The heat broke, replaced by a gentle breeze coming off the Blue Ridge that smelled of clover and damp earth.
 
@@ -5929,7 +6027,9 @@ She looked at him, then at the mountains to the north.
 
 They stayed there until the fireflies started to blink in the tall grass, surrounded by their temporary pack, putting the pieces of their souls back together one purr and one tail-wag at a time.
 
-### Scene 11: The War Council
+***
+
+#### The War Council
 
 Dinner was a restoration ritual.
 
@@ -6065,7 +6165,9 @@ She looked at Patrick.
 
 "Then it's settled," Tom said, slapping the table. "We rest tonight. Tomorrow, we retreat to VB. Wednesday, the crusade begins."
 
-### Scene 12: The Nest
+***
+
+#### The Nest
 
 The farmhouse settled into the night.
 
@@ -6135,7 +6237,9 @@ Patrick felt Nichole’s breathing sync with his. She was already drifting off, 
 
 The Bennett Machine powered down for the night, safe in the valley, ready to rise and fight for the Holy Grail in the morning.
 
-### Scene 13: The Night Watch
+***
+
+#### The Night Watch
 
 The vibration woke him first.
 
@@ -6201,7 +6305,9 @@ Nichole nodded. She closed her eyes, listening to the dual rhythm of Patrick’s
 
 She drifted back to sleep, held tight by her brother and guarded by a farm cat who took his job very seriously.
 
-### Scene 14: The Morning Report
+### Part 4: The Morning Report & The Pivot
+
+#### The Morning Report
 
 The sun was already high, cutting through the sheer curtains and warming the dust motes dancing in the air.
 
@@ -6291,7 +6397,9 @@ She tapped the table.
 
 "Yeah," Patrick mumbled, mouth full. "This works."
 
-### Scene 15: The Pivot
+***
+
+#### The Pivot
 
 The goodbye was short, loud, and full of carbohydrates.
 
@@ -6399,7 +6507,9 @@ He stood up and grabbed his duffel bag, moving with a renewed energy.
 
 ## Virginia Dominion University
 
-### Scene 1: The Thirteen-Hour Problem
+### Part 1: The Thirteen-Hour Problem & The Tower of Words
+
+#### The Thirteen-Hour Problem
 
 The Fortress was quiet.
 
@@ -6498,7 +6608,9 @@ She looked at the Putney brochure.
 
 Okay, Vermont, she thought. You have one chance. Beat "Normal."
 
-### Scene 2: Home Field Advantage
+***
+
+#### Home Field Advantage
 
 The drive to Virginia Dominion University didn't require a map. It didn't require a navigation spreadsheet. It was written into the Bennetts' muscle memory.
 
@@ -6557,7 +6669,9 @@ GOOD. START.
 
 They joined the group, rolling into the cool air of the lobby, just another set of prospective students checking out the local giant.
 
-### Scene 3: The Roll Call
+***
+
+#### The Roll Call
 
 The lobby of the Welcome Center was an atrium of glass and school spirit. Banners hung from the ceiling in blue and silver. A massive bronze statue of the school mascot—a Lion wearing a crown—stood guard near the elevators.
 
@@ -6633,7 +6747,9 @@ NORMAL.
 
 "Let's roll," Patrick said.
 
-### Scene 4: The Tower of Words
+***
+
+#### The Tower of Words
 
 "Okay, hydrate!" Megan commanded, uncapping her water bottle. "We are crossing the desert."
 
@@ -6734,7 +6850,9 @@ MY. FLOOR.
 
 "Yeah," Patrick grinned, looking at the flyer for a Sci-Fi Lit class. "I think we found your lab."
 
-### Scene 5: The Sanctuary
+### Part 2: The Sanctuary & The Dealbreaker
+
+#### The Sanctuary
 
 "Going down!" Megan announced, pressing the call button in the 8th-floor lobby.
 
@@ -6810,7 +6928,9 @@ GOOD. LIBRARY.
 
 "Yeah," Patrick whispered, his body temperature finally returning to normal. "Good library."
 
-### Scene 6: The Life Sciences Hub
+***
+
+#### The Life Sciences Hub
 
 "Okay, brave the heat one more time!" Megan called out, pushing open the library doors.
 
@@ -6865,7 +6985,9 @@ Patrick’s ears perked up.
 
 Nichole straightened in her chair. The train.
 
-### Scene 7: The Magic Carpet
+***
+
+#### The Magic Carpet
 
 "Back down the ramp, folks!" Megan chirped. "Watch your step, and watch your wheels."
 
@@ -6943,7 +7065,9 @@ FAST. TRACK.
 
 "Yeah," Patrick grinned. "Fall 2003. We'll be riding the magnet."
 
-### Scene 8: The Hub
+***
+
+#### The Hub
 
 "Okay, leaving the future, heading to the present!" Megan announced, leading them away from the Maglev construction site.
 
@@ -7047,7 +7171,9 @@ Nichole nodded. Bladder empty. Tech store spotted.
 
 READY.
 
-### Scene 9: The Dealbreaker
+***
+
+#### The Dealbreaker
 
 "Okay, last stop!" Megan chirped. "Freshman Housing."
 
@@ -7137,7 +7263,7 @@ Apartment. Key. Front door. Freedom.
 
 She was ready for Vermont. Because now she knew exactly what "Normal" looked like, and she knew she could build it herself if she had to.
 
-### Scene 10: The Retreat
+### Part 3: The Retreat
 
 "Alright, nobody melts on my watch," Megan announced, wiping a bead of sweat from her forehead. "We are taking the scenic—and air-conditioned—route back."
 
@@ -7244,7 +7370,9 @@ Bring it on, Vermont.
 
 ## Trek Up the East Coast
 
-### Scene 1: The Peninsula Run
+### Part 1: The Peninsula Run & The New Jersey Layover
+
+#### The Peninsula Run
 
 The expedition began in the blue-gray light of dawn.
 
@@ -7273,7 +7401,9 @@ The road dipped. The daylight vanished. They plunged into the mile-long tube of 
 
 Nichole loved this part. It felt like traveling through a portal. On one side was Virginia Beach, the "System," and the humidity. On the other side was the Delmarva Peninsula and the road to the future.
 
-### Scene 2: The Delaware Trap
+***
+
+#### The Delaware Trap
 
 The Liberty Trekker was cruising north on US-113, a four-lane divided highway cutting through the heart of Sussex County. To their left and right were endless flat fields of soybeans and corn.
 
@@ -7368,7 +7498,9 @@ Nichole tapped her screen.
 
 "Yep," Patrick smiled, settling back into his seat. "Hello, New Jersey."
 
-### Scene 3: The New Jersey Layover
+***
+
+#### The New Jersey Layover
 
 The transition from Delaware to New Jersey was marked by the massive twin steel arches of the Delaware Memorial Bridge. As the Liberty Trekker crested the span and descended the other side, they landed on the New Jersey Turnpike.
 
@@ -7570,7 +7702,9 @@ Nichole looked at the campus through the van window. It looked huge. It looked r
 
 "Six hours is nothing," Patrick said, reaching over to squeeze Nichole's hand as they rolled into the hotel parking lot. "We can do six hours."
 
-### Scene 4: The Machine at Rest
+### Part 2: The Machine at Rest & The Hopeful Morning
+
+#### The Machine at Rest
 
 Aunt Carol’s sedan led the way down State Route 27, her taillights glowing red in the dusk as the heavy Bennett van followed closely behind.
 
@@ -7632,7 +7766,9 @@ Nichole let out a long, shuddering sigh. The hum of the highway vanished. The fe
 
 With Patrick’s arm around her and his steady heartbeat against her back, she was grounded. The machine was powered down, safe and secure for the night.
 
-### Scene 5: The Hopeful Morning
+***
+
+#### The Hopeful Morning
 
 Date: July 2, 2003
 
@@ -7711,7 +7847,7 @@ Patrick wiped a crumb from Nichole’s chin and stood up. He grabbed the push ha
 
 ## Vermont
 
-### Scene 1: The Green Mountain Haul
+### Part 1: The Green Mountain Haul
 
 Date: July 2, 2003
 
@@ -7794,7 +7930,7 @@ Nichole smiled against the pillow, the scent of pine still lingering in her memo
 
 The machine was powered down and ready to recharge overnight.
 
-### Scene 2: Putney College Open House
+### Part 2: Putney College Open House
 
 Time: 8:00 AM
 
@@ -8094,7 +8230,9 @@ Patrick nodded. He didn't look surprised. He looked relieved.
 
 He didn't wait for permission. He pulled back on the handles, spinning the Titan AeroMotion around in a tight, aggressive 180-degree turn. He pushed her out of the model room, down the hall, and through the automatic doors, leaving the tour guide standing alone between the two narrow beds.
 
-### Scene 3: The Drive Back
+### Part 3: The Drive Back & The Fuel Stop
+
+#### The Drive Back
 
 Time: 12:15 PM
 
@@ -8197,7 +8335,9 @@ That was her sanctuary now. Not the college.
 
 The Bennett van drove south through the blinding rain, a mobile fortress protecting a broken heart, carrying them away from the future they thought they wanted and back to the only safety they knew.
 
-### Scene 4: The Fuel Stop
+***
+
+#### The Fuel Stop
 
 The drive back to Brattleboro was a blur of gray rain and windshield wipers.
 
@@ -8337,7 +8477,7 @@ The lights went out. The rain continued to fall in the Vermont dark, but inside 
 
 ## An Ocean of an Idea
 
-### Scene 1: The New Jersey Pivot
+### Part 1: The New Jersey Pivot
 
 The drive south was a study in geographical transitions. They left the pastoral, rolling hills of Vermont and cut through the western edge of Massachusetts.
 
@@ -8648,7 +8788,9 @@ He closed the laptop lid.
 
 "Yeah," Patrick smiled. "It really does."
 
-### Scene 2: The Juggernaut
+### Part 2: The Juggernaut & The Ocean State Option
+
+#### The Juggernaut
 
 The fog of the previous day had burned off, leaving behind a brilliant, sunny Saturday.
 
@@ -8740,7 +8882,9 @@ They unloaded the chair. Nichole rolled toward the diner, the smell of griddle s
 
 But as Patrick pushed her up the ramp into the diner, his heavy footsteps matching the roll of her wheels, she knew they still had the most important thing. They still had the machine. And they would find a place for it, even if they had to build it themselves.
 
-### Scene 3: The Diner Debrief
+***
+
+#### The Diner Debrief
 
 The chrome diner was packed, smelling of coffee, Taylor pork roll, and griddle grease. The Bennetts and Aunt Carol were tucked into a large, accessible corner booth.
 
@@ -8832,7 +8976,9 @@ Nichole tapped her tray. <aac>Home.</aac>
 
 They clinked their mugs and glasses together over the plate of half-eaten pancakes. The Misfit Tour was officially over. They hadn't found the perfect college, but they had found the answer. They didn't need a sanctuary built by someone else. They were going to build their own.
 
-### Scene 4: The Ocean State Option
+***
+
+#### The Ocean State Option
 
 The table was quiet for a moment, the Virginia plan solidifying in the diner air. Patrick was already folding up his napkin map, and Tom was reaching for the check. The tour was over.
 
@@ -8910,7 +9056,7 @@ Nichole let out a loud, joyous laugh—a bubbling, throaty sound that made a few
 
 "Alright," Patrick grinned, putting his napkin map in his pocket. "Next stop, Narragansett Bay. Let's go see the water."
 
-### Scene 5: The Ocean State Arrival
+### Part 3: The Ocean State Arrival
 
 The drive up I-95 from New Jersey was a blur of exhaustion and sudden, renewed adrenaline. They crossed the state line from Connecticut into Rhode Island as the sun was setting, the sky bruising a deep purple over the Atlantic.
 
@@ -9012,7 +9158,9 @@ Nichole reached for her cup of soda on the tray. Patrick helped her lift it. The
 
 ## The Commuter Loop
 
-### Scene 1: The Holy Cow
+### Part 1: The Holy Cow & The Bull Run
+
+#### The Holy Cow
 
 The morning air on Aquidneck Island was cool, carrying a dense, salty fog that rolled off the Narragansett Bay.
 
@@ -9098,7 +9246,9 @@ Nichole tapped her cup against his.
 
 They devoured the rest of the Holy Cow, the heavy diner food providing the exact kind of fuel they needed. In thirty minutes, the "Bennett Machine" was going to launch into the wild, testing a fully accessible transit grid for the very first time.
 
-### Scene 2: The Gateway Connection
+***
+
+#### The Gateway Connection
 
 The morning fog was beginning to burn off, revealing a bright, hazy blue sky.
 
@@ -9181,7 +9331,9 @@ Patrick grinned. He pulled out the second roll of quarters from his pocket.
 
 "Eight dollars," Patrick said. "Let's go buy some boat tickets."
 
-### Scene 3: The Sea Gate
+***
+
+#### The Sea Gate
 
 Neither Patrick nor Nichole had ever been on a ferry before.
 
@@ -9238,7 +9390,9 @@ She looked at Patrick. A huge, unfiltered smile broke across her face. She hit t
 
 They rolled through the automatic glass doors of the station, leaving the harbor wind behind and stepping into their future.
 
-### Scene 4: The Bull Run
+***
+
+#### The Bull Run
 
 Patrick and Nichole took the massive, glass elevator down from the sunlit plaza to the underground concourse.
 
@@ -9296,7 +9450,9 @@ BSU offered a subterranean highway built for wheels, protected from the elements
 
 Nichole didn't just feel accommodated here. She felt prioritized. For the first time on the tour, the world wasn't just tolerating the Machine. It was built for it.
 
-### Scene 5: The Braxton Link
+### Part 2: The Braxton Link & The Upgrade
+
+#### The Braxton Link
 
 As they rolled deeper into the network, the sheer scale of the engineering became apparent.
 
@@ -9372,7 +9528,9 @@ Nichole looked at the secure door. It was the ultimate barrier against the winte
 
 "We check the listings tonight," Patrick promised, turning the chair around to head back to the train. "If there's a two-bedroom unit in there, we take it. I don't care how much it costs."
 
-### Scene 6: The Library Commons
+***
+
+#### The Library Commons
 
 They reached the end of *Sub-University Avenue*.
 
@@ -9423,7 +9581,9 @@ Nichole looked up at him and smiled. She tapped her screen. <aac>Homework.</aac>
 
 "Exactly," Patrick grinned. "Homework."
 
-### Scene 7: The Debrief
+***
+
+#### The Debrief
 
 Date: July 6, 2003
 
@@ -9482,7 +9642,9 @@ Uncle Mark raised his soda bottle. "To the Gap Year. And to The Foundry."
 
 Patrick turned back to the computer. He didn't close the browser window. He bookmarked it. It wasn't just a rental listing anymore. It was the target.
 
-### Scene 8: The Upgrade
+***
+
+#### The Upgrade
 
 Bald Hill Road was the commercial artery of suburban Rhode Island—a four-lane stroad lined with car dealerships, strip malls, and big-box retailers.
 
@@ -9604,7 +9766,9 @@ She tapped her VocaLink for the last time that day.
 
 ## The Gap Year Protocol
 
-### Scene 1: The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia
+### Part 1: 1850 Delaney Street, Virginia Beach, Virginia & The Departure
+
+#### The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia
 
 The thirteen-hour drive south felt different than the drive north. The crushing weight of the Putney College disaster had been left somewhere in the Green Mountains, replaced by the humming energy of a concrete plan.
 
@@ -9640,7 +9804,9 @@ Nichole clicked the scroll wheel on the mouse, nodding. She tapped a newly creat
 
 Patrick smiled. It was true. For years, the heavy, baritone voice of the VocaLink software—"Digital Dan"—had spoken for her. But on this new machine, Nichole had custom-coded a voice profile that was lighter, faster, and distinctly hers. It didn't sound like a medical device. It sounded like a workstation.
 
-### Scene 2: The Portsmouth Project
+***
+
+#### The Portsmouth Project
 
 The phone on the kitchen wall rang. Ellen picked it up, hearing the distinctive *beep* of a three-way conference call connection.
 
@@ -9708,7 +9874,9 @@ Nichole looked at her parents. She tapped her screen.
 
 "Copy that," Mark said triumphantly. "West Main Road is waiting for you."
 
-### Scene 3: The Fortress on West Main
+***
+
+#### The Fortress on West Main
 
 The thirteen-hour drive ended not at a college dormitory, but in the driveway of a long, low-slung 1960s brick ranch house.
 
@@ -9804,7 +9972,9 @@ Patrick smiled, wiping his own eyes with the back of his hand. He looked at the 
 
 The Bennett Machine was officially docked. The clan was back together, and the Gap Year had begun.
 
-### Scene 4: The Departure
+***
+
+#### The Departure
 
 The morning after the grand reveal was a crash course in logistics. The emotional high of the reunion had settled into the practical reality of adult responsibilities.
 
@@ -9894,7 +10064,9 @@ Nichole reached up and patted Mark’s arm. She clicked her mouse.
 
 Mark laughed, the tension breaking. "Damn right. Now, let's go figure out how to work that fancy new tub."
 
-### Scene 5: The Visitor
+### Part 2: The Visitor & The Hydrostatic Lock
+
+#### The Visitor
 
 The Sunday afternoon was quiet. Outside, the autumn air was turning crisp. Inside the master bathroom of the Bennett Wing, the atmosphere was purely mechanical.
 
@@ -10038,7 +10210,9 @@ Nichole shook her head. She clicked her mouse, her new voice filled with absolut
 
 <aac>He. Is. The. Firewall.</aac>
 
-### Scene 6: The Hydrostatic Lock
+***
+
+#### The Hydrostatic Lock
 
 The green landscaping van and the unmarked sedans were gone. The driveway was empty again, save for the tire tracks in the gravel. Upstairs, the red light above Uncle Mark’s SCIF door was glowing—a silent signal that the "Firewall" was active and processing the breach.
 
@@ -10236,7 +10410,9 @@ Patrick smiled. "Good. Now let's go see what Uncle Mark is doing. I bet he's sta
 
 He lifted her back into her chair. The Bennett Machine was serviced, refueled, and ready to roll back out into the hallway.
 
-### Scene 7: The Milestone Payment
+### Part 3: The Milestone Payment & The Credential Hunt
+
+#### The Milestone Payment
 
 The real reason Uncle Mark had chosen the ranch on West Main Road wasn't just the zero-step entrance or the proximity to the bus line. It was the roofline.
 
@@ -10334,7 +10510,9 @@ Patrick laughed, wiping his eyes. "No grocery store for me," he agreed. "Just co
 
 "Damn right," Mark said, clapping Patrick on the shoulder. "Now, let's get the guest rooms ready. The rest of the clan arrives tomorrow."
 
-### Scene 8: The Fortress Blueprint
+***
+
+#### The Fortress Blueprint
 
 The driveway was officially at capacity.
 
@@ -10394,7 +10572,9 @@ She tapped her screen.
 
 "That it is, Nikki," Patrick smiled, looking down at his sister. "Now... we have ten months to get ready for college."
 
-### Scene 9: The Credential Hunt
+***
+
+#### The Credential Hunt
 
 The contractors had gone home for the weekend. The house was quiet, save for the rhythmic *thump-thump* of the dishwasher in the main kitchen where Aunt Carol was cleaning up after dinner.
 
@@ -10510,7 +10690,9 @@ Nichole smiled. She tapped her screen.
 
 ## The Independent Grid
 
-### Scene 1: The Commute
+### Part 1: The Commute & The Mole Lifestyle
+
+#### The Commute
 
 The Bennett Machine was officially out of the testing phase. It was time for a live production run.
 
@@ -10594,7 +10776,9 @@ She tapped her screen.
 
 "That we are, Nikki," Patrick laughed. "Let's go show them what the Gap Year bought us."
 
-### Scene 2: The Concourse Connection
+***
+
+#### The Concourse Connection
 
 Stepping off the ferry dock, the full scale of Narragansett Esplanade Station loomed over them. It didn't look like a train station; it looked like an art museum.
 
@@ -10666,7 +10850,9 @@ They rolled over to the breakfast spread. The tables were set at thirty inches h
 
 They were inside. The Machine had worked.
 
-### Scene 3: The Call of the Bull
+***
+
+#### The Call of the Bull
 
 The Grand Ballroom of the Student Union lived up to the university’s reputation for "Universal Design."
 
@@ -10730,7 +10916,9 @@ Patrick stood up. He grabbed the handles of the Titan AeroMotion.
 
 They rolled into the aisle, merging seamlessly with the flow of students moving toward the future.
 
-### Scene 4: The Mole Lifestyle
+***
+
+#### The Mole Lifestyle
 
 They didn't have to go outside into the freezing November wind to find the Tech Core.
 
@@ -10798,7 +10986,9 @@ Patrick laughed. "Bennett Dynamics. I like the sound of that."
 
 The Gap Year wasn't just about learning to ride the bus anymore. It was about prep work. They had found their major. They had found their campus. Now, they just had to get accepted.
 
-### Scene 5: The Commuter Waiver
+### Part 2: The Commuter Waiver & The Credential Check
+
+#### The Commuter Waiver
 
 Patrick and Nichole did not need on-campus housing. The thought of two narrow Twin XL beds separated by a chasm of cold linoleum was dead to them.
 
@@ -10868,7 +11058,9 @@ Nichole looked at Patrick.
 
 "We didn't beat it, Nikki," Patrick whispered, putting his own license back in his pocket. "We studied the manual."
 
-### Scene 6: The Anti-Sales Pitch
+***
+
+#### The Anti-Sales Pitch
 
 The last time Nichole had been in a room talking about tuition, it was with Kyle at TechStream Institute. She remembered the smell of his cheap cologne, the way he looked at her wheelchair like it was an ATM, and his immediate, predatory assumption that she was on SSI. He hadn't seen a student; he had seen a "guaranteed payer."
 
@@ -10930,7 +11122,9 @@ Patrick nodded, closing his notebook. "Yeah. It's boring. And I love it."
 
 They didn't need a salesman. They needed a spreadsheet. And for the first time, the numbers actually added up.
 
-### Scene 7: Refueling the Machine
+***
+
+#### Refueling the Machine
 
 They didn't have to brave the cold to find lunch. They simply rolled out of the Financial Aid seminar, took the elevator down to the Concourse Level, and merged into the flow of "The Bull Run"—the student nickname for the campus tunnel network.
 
@@ -10984,7 +11178,9 @@ Nichole took a sip of her soda. She looked at the charging cable connecting her 
 
 She knew he was right. The Fortress wasn't just their house in Portsmouth anymore. They had found a Fortress that covered an entire peninsula.
 
-### Scene 8: The Bull Run
+***
+
+#### The Bull Run
 
 Outside, the wind coming off Narragansett Bay had whipped up to thirty miles an hour, dropping the wind chill below freezing.
 
@@ -11066,7 +11262,9 @@ She tapped her screen.
 
 "I know," Patrick laughed, grabbing the push-handles of the Titan AeroMotion. "Next ferry leaves in twenty minutes. Let's go home and brief the family."
 
-### Scene 9: The Credential Check
+***
+
+#### The Credential Check
 
 After leaving the Student Success Center, Patrick didn't steer them back toward the station. He looked at the campus map one last time.
 
@@ -11124,7 +11322,9 @@ Nichole tapped her screen.
 
 "Damn right," Patrick said. "Let's go home."
 
-### Scene 10: The Detour and The Grid
+### Part 3: The Detour and The Grid & The Debrief
+
+#### The Detour and The Grid
 
 The wind outside had shifted from a brisk autumn chill to a howling gale.
 
@@ -11242,7 +11442,9 @@ Mark smiled. He clapped Patrick on the shoulder.
 
 "Damn right you did," Mark said. "And your mom has had a pot roast in the oven for five hours just waiting for you two. Let's go eat and do the debrief."
 
-### Scene 11: The Debrief
+***
+
+#### The Debrief
 
 The dining room table had been extended to its maximum length. Around it sat the entire consolidated Bennett-Reynolds clan: Uncle Mark, Aunt Carol, Grandma Helen (who had taken the elevator down from the second-floor living room), and Patrick and Nichole’s parents, Tom and Ellen.
 
@@ -11340,7 +11542,9 @@ Patrick grinned, clinking his glass against Nichole's. "Now, pass the gravy. We 
 
 ## The Fleet Upgrade
 
-### Scene 1: The Dual-Grid Dilemma
+### Part 1: The Dual-Grid Dilemma & The Christmas Compiler
+
+#### The Dual-Grid Dilemma
 
 "It's a territorial dispute, Nikki," Patrick complained, steering the family’s aging Liberty Trekker van with one hand while holding up a small plastic card in the other. "It’s completely inefficient."
 
@@ -11428,7 +11632,9 @@ Patrick finished locking the brand-new tie-downs into the floor. He rested his h
 
 The Gap Year was proving to be exactly what they needed. They were upgrading every single piece of the machine.
 
-### Scene 2: The Medical Handover
+***
+
+#### The Medical Handover
 
 Transitioning to a new state meant transitioning out of the pediatric medical system. For eighteen years, the twins had seen a colorful carousel of pediatricians with stuffed animals on their stethoscopes.
 
@@ -11645,7 +11851,9 @@ Patrick steered the Titan AeroMotion toward the exit. He didn't ask what they ta
 
 He just pushed her out into the cold Rhode Island air, loaded her into the warm van, and drove them home.
 
-### Scene 3: The Christmas Compiler
+***
+
+#### The Christmas Compiler
 
 The Fortress smelled like pine needles and roasting turkey.
 
@@ -11707,7 +11915,9 @@ She launched the new software. The heavy loading screen of *Quantum Studio 2003*
 
 <aac>Merry. Christmas. To. Us.</aac>
 
-### Scene 4: The Winter Test
+### Part 2: The Winter Test & The Silent Investor
+
+#### The Winter Test
 
 The Nor'easter hit Aquidneck Island just as the sun went down on Christmas Eve.
 
@@ -11812,7 +12022,9 @@ Nichole reached down and placed her hand over his where it rested on her waist. 
 
 Nichole closed her eyes, the rhythmic thrum of the backup generator vibrating through the mattress, and fell into the deepest, safest sleep of her life.
 
-### Scene 5: The Grid Returns
+***
+
+#### The Grid Returns
 
 Nichole woke up to the sound of absolute silence outside. The howling wind that had battered the windows all night was gone.
 
@@ -11886,7 +12098,9 @@ She opened the text-to-speech module.
 
 Outside, the snow plows were finally clearing West Main Road. The grid was alive, the Fortress was warm, and 2004 was officially on the horizon.
 
-### Scene 6: The Long Goodbye
+***
+
+#### The Long Goodbye
 
 The adrenaline of Christmas had faded, replaced by a heavy, quiet stillness in the Fortress.
 
@@ -11948,7 +12162,9 @@ Patrick put his arm around Nichole’s shoulders. They sat there in the quiet ro
 
 They weren't children watching a tragedy. They were adults witnessing a completion.
 
-### Scene 7: The Silent Investor
+***
+
+#### The Silent Investor
 
 The house was quiet, save for the hum of the refrigerator in the kitchen and the rhythmic ticking of the grandfather clock in the hallway.
 
@@ -12049,7 +12265,7 @@ Nichole looked at the binder. She tapped her screen.
 
 <aac>We. Will. Make. It. Worth. It.</aac>
 
-### Scene 8: The Final Transfer
+### Part 3: The Final Transfer
 
 The first week of January was brutally cold. A fresh layer of snow blanketed Aquidneck Island, and the wind coming off the bay was sharp enough to sting the eyes.
 
@@ -12115,7 +12331,9 @@ The gap year had taken their grandmother, but she hadn't left them behind. She h
 
 ## The Commuter Protocol
 
-### Scene 1: The Intake
+### Part 1: The Intake & The Liability Lie
+
+#### The Intake
 
 It was fifteen degrees outside, a bitter, bone-chilling January morning where the sea spray off Narragansett Bay froze instantly on the docks.
 
@@ -12187,7 +12405,9 @@ Sarah raised an eyebrow, impressed. "Sticking to the transit network? Brave choi
 
 "Smart choice," Patrick corrected. "Down here in the tunnels, it never snows."
 
-### Scene 2: The Application
+***
+
+#### The Application
 
 Leaving the Housing Office with their signed Commuter Waivers in hand, Patrick pushed Nichole up the ramp to the Main Administration Building.
 
@@ -12229,7 +12449,9 @@ She tapped her screen. *<aac>We. Are. Ready.</aac>*
 
 "Yeah," Patrick said, squeezing her shoulder. "We're ready. Now all we have to do is wait for the mail."
 
-### Scene 3: The Hardship Loophole
+***
+
+#### The Hardship Loophole
 
 Patrick sat at a cafeteria table, staring at the Commuter Waiver they had just secured. Next to it, he placed the glossy brochure for *The Foundry Lofts*.
 
@@ -12344,7 +12566,9 @@ Nichole tapped her screen, a proud smile lighting up her face. *<aac>My. Medic.<
 
 "I'll see you in the fall," Sarah said, waving them out. "And remind me never to play chess against either of you."
 
-### Scene 4: The Liability Lie
+***
+
+#### The Liability Lie
 
 Patrick stared at the paper in his hand. **OFF-CAMPUS MEDICAL HARDSHIP WAIVER.**
 
@@ -12426,7 +12650,9 @@ Nichole didn't look back. She looked forward, toward the subway station, toward 
 
 *<aac>Forward,</aac>* she tapped. *<aac>The. Machine. Moves. Forward.</aac>*
 
-### Scene 5: The Bridge Fund
+### Part 2: The Bridge Fund & The Zero-Barrier Routine
+
+#### The Bridge Fund
 
 The mail arrived at 4:00 PM. By 4:30 PM, the kitchen table at the Fortress was covered in confetti, and Uncle Mark was pouring sparkling cider into everyone's glasses.
 
@@ -12508,7 +12734,9 @@ She tapped her screen.
 
 "Done," Tom said, closing the ledger with a satisfying thud. "Tomorrow morning, we buy the Fortress."
 
-### Scene 6: The Foundry
+***
+
+#### The Foundry
 
 The next morning, the Rhode Island sky broke with an uncharacteristic April heatwave. The temperature was seventy-two degrees, the sun was blazing, and the winter coats were officially packed away.
 
@@ -12596,7 +12824,9 @@ Mr. Caldwell didn't even run the credit check. Cash of that magnitude erased all
 
 "Well," Mr. Caldwell smiled, pulling the lease agreement from his desk. "I believe your application is approved. Sign here, please."
 
-### Scene 7: Early Launch
+***
+
+#### Early Launch
 
 "Why wait?" Patrick had asked at dinner the night before. "The meter is running. The keys work. Let's launch."
 
@@ -12729,7 +12959,9 @@ Nichole reached up and patted her uncle's cheek. She clicked her mouse.
 
 "Exactly," Patrick grinned, looking around the lobby of their new building. "Now... we just have to figure out how to move all our stuff on the subway."
 
-### Scene 8: The Zero-Barrier Routine
+***
+
+#### The Zero-Barrier Routine
 
 The pizza boxes were in the recycling bin. The screens in the Command Center were asleep. The city outside was a grid of amber lights, but inside Unit 404, the world had shrunk down to the master suite.
 
@@ -12803,7 +13035,9 @@ For the first time, they didn't just sleep. They rested.
 
 ## Exploring Braxton
 
-### Scene 1: The Zero-Friction Protocol
+### Part 1: The Zero-Friction Protocol & The Safe Harbor
+
+#### The Zero-Friction Protocol
 
 The sun hit the industrial windows of The Foundry Lofts, filling the room with a warm, brilliant light.
 
@@ -12882,7 +13116,9 @@ Nichole spun her chair toward the door. The batteries on the Titan AeroMotion we
 
 <aac>Launch.</aac>
 
-### Scene 2: The River and the System
+***
+
+#### The River and the System
 
 They decided to skip the pharmacy. They had plenty of supplies from the move, and frankly, looking at pill bottles felt too much like work.
 
@@ -12955,7 +13191,9 @@ She tapped the table with her free hand, getting his attention. She swallowed an
 
 "Yeah, Nikki," Patrick smiled, wiping mustard off his lip. "We really do."
 
-### Scene 3: The Edge of the Grid
+***
+
+#### The Edge of the Grid
 
 After decimating the wieners and coffee milk at Buddy’s, Patrick and Nichole rolled back toward the waterfront to digest. The "New York System" meat sauce was sitting heavy, but in a good way—the specific heaviness of a mission accomplished.
 
@@ -13019,7 +13257,9 @@ They were going back to The Foundry. Back to the loft. Back to their space.
 
 For the first time in their lives, "going home" didn't mean going to their parents' house. It meant going to the place where they made the rules.
 
-### Scene 4: The Safe Harbor
+***
+
+#### The Safe Harbor
 
 The descent into Narragansett Esplanade Station felt like sliding into a warm bath. As soon as the glass elevator doors hissed shut, cutting off the wind and the diesel fumes of the ferry terminal, Nichole’s shoulders dropped an inch.
 
@@ -13172,7 +13412,7 @@ She let out a long, happy sigh, her entire body going limp in his arms. She was 
 
 And for the next four years, no one was ever going to tell them "no" again.
 
-### Scene 5: The Gen-Ed Pact
+### Part 2: The Gen-Ed Pact
 
 The sun had finally dipped below the skyline, painting the loft in cool twilight blues.
 
@@ -13338,7 +13578,7 @@ She was safe. She was secure. And she was home.
 
 ## The Sync
 
-### Scene 1: The War Room
+### The War Room
 
 The second bedroom of The Foundry Lofts looked like NAA Mission Control.
 
@@ -13589,7 +13829,9 @@ Patrick grinned, spinning his chair back to the monitors.
 
 ## The Fortress Test
 
-### Scene 1: The Severed Link
+### The Severed Link & The Sacred Trust
+
+#### The Severed Link
 
 The summer of 2004 had been hot and humid, but the humidity broke with violence.
 
@@ -13627,7 +13869,9 @@ He walked over to the sofa and sat down next to her.
 
 "We are officially an island, Nikki."
 
-### Scene 2: The Siege
+***
+
+#### The Siege
 
 The wind howled outside, rattling the panes of glass. It was a terrifying sound, the kind that made you acutely aware of how fragile human structures usually were.
 
@@ -13655,7 +13899,9 @@ She reached for her mouse.
 
 "Exactly," Patrick grinned. "The wizard would be proud."
 
-### Scene 3: The Watch
+***
+
+#### The Watch
 
 The sky outside turned a bruised, dark purple as evening set in. The rain was relentless.
 
@@ -13691,7 +13937,9 @@ Nichole snuggled into Patrick’s side, resting her head on his shoulder as the 
 
 <aac>Let. It. Rain,</aac> she thought. <aac>We. Are. Ironclad.</aac>
 
-### Scene 4: The All-Clear
+***
+
+#### The All-Clear
 
 The hammering against the glass finally stopped.
 
@@ -13733,7 +13981,9 @@ He held her for a long time, his chin resting on top of her head. It wasn't just
 
 Nichole squeezed him back, burying her face in his chest. They had survived a subtropical storm without a single phone call to Portsmouth for help.
 
-### Scene 5: The Blueprint
+***
+
+#### The Blueprint
 
 The storm was gone, but the adrenaline was still fading. They lay in the dark, the city lights reflecting off the wet streets outside and casting ripples on the ceiling.
 
@@ -13767,7 +14017,9 @@ The storm outside had tested their physical fortress. The semester ahead would t
 
 But as Nichole drifted off to sleep, holding her brother's hand, she knew they would pass that test too. They were the Bennett Machine. And the Machine was waterproof.
 
-### Scene 6: The Biological Override
+***
+
+#### The Biological Override
 
 As sleep began to pull at the edges of her consciousness, Nichole’s mind did one final system check.
 
@@ -13797,7 +14049,9 @@ She let out a long, final sigh, her body completely limp and heavy in the safety
 
 The Machine is waterproof, she thought again. Inside and out.
 
-### Scene 7: The Sacred Trust
+***
+
+#### The Sacred Trust
 
 Patrick lay still in the dark, staring at the spinning blades of the ceiling fan.
 
@@ -13873,7 +14127,9 @@ And he meant it. For as long as there was breath in his lungs, she would never h
 
 ## The First Semester
 
-### Scene 1: The Sorting Failure
+### Part 1: The Sorting Failure & The Tactical Retreat
+
+#### The Sorting Failure
 
 The elevator doors slid open at the "Event Level" of the brand-new BSU Arena.
 
@@ -13996,7 +14252,9 @@ Patrick took the cards. He looked at Nichole.
 
 They rolled out the back way, bypassing the chaos entirely. They had the cards. They had the waiver. And they had no intention of ever setting foot on that arena floor again.
 
-### Scene 2: The System Reboot
+***
+
+#### The System Reboot
 
 The heavy soundproof door clicked shut, sealing out the chaos of the arena floor. The silence in the media room was sudden and absolute.
 
@@ -14096,7 +14354,9 @@ But this time, Nichole didn't flinch. She sat up straight in her chair, lifting 
 
 They rolled out of the quiet room and back into the lights, two soldiers rejoining the formation.
 
-### Scene 3: The Assembly
+***
+
+#### The Assembly
 
 Before re-entering the sensory fray of the arena floor, logic dictated a final logistical check.
 
@@ -14173,7 +14433,9 @@ The orientation continued, the speeches washing over them. But the fear was gone
 
 As the band struck up the alma mater, Nichole Bennett—Freshman, Technical Communication Major, Resident of The Foundry—sat up straight in her manual chair and faced her future.
 
-### Scene 4: The Tactical Retreat
+***
+
+#### The Tactical Retreat
 
 Dr. Thorne’s speech ended with a polite round of applause and the thunderous scraping of two thousand chairs. The orientation leaders, bright yellow shirts bobbing in the crowd, began herding the masses toward the exits.
 
@@ -14284,7 +14546,7 @@ She closed her eyes.
 
 But for now? For now, she was just ready for a nap.
 
-### Scene 5: The Fortress Weekend
+### Part 2: The Fortress Weekend
 
 The Saturday before classes began was traditionally a day of chaos for freshmen.
 
@@ -14493,7 +14755,9 @@ They slept. Monday was coming. But tonight, they were untouchable.
 
 ## The Machine in Motion
 
-### Scene 1: The Zero-Friction Morning
+### Part 1: The Zero-Friction Morning & The Transit Chase
+
+#### The Zero-Friction Morning
 
 The alarm on the bedside table didn't blare. It started with a low, gradual hum—a custom "soft wake" setting Patrick had programmed so it wouldn't trigger Nichole's startle reflex.
 
@@ -14524,7 +14788,9 @@ Nichole tapped the counter twice. *Up.*
 
 "Combat mode. Good call," Patrick grinned. He pulled her hair back into a tight, efficient ponytail that wouldn't get caught in her headrest.
 
-### Scene 2: The Commute
+***
+
+#### The Commute
 
 They rolled out of Unit 404 and took the resident elevator down to Basement Level 1.
 
@@ -14548,7 +14814,9 @@ She remembered the terrified boy who had frantically pushed her over speed bumps
 
 She reached out and tapped his hand on the rail.
 
-### Scene 3: The Gen-Ed Pact
+***
+
+#### The Gen-Ed Pact
 
 They took the glass elevator from the Narragansett Esplanade Station down to The Bull Run tunnel network, rolling beneath the campus green to the academic buildings.
 
@@ -14582,7 +14850,9 @@ Patrick smiled, clicked his pen, and wrote the date at the top of his engineerin
 
 The Bennett Machine was officially open for business.
 
-### Scene 4: The First Lecture
+***
+
+#### The First Lecture
 
 The lecture hall hummed with the low-level anxiety of forty freshmen trying to look like they belonged.
 
@@ -14622,7 +14892,9 @@ BEGIN.
 
 Patrick smiled. He wrote the date on his graph paper. The Machine was running.
 
-### Scene 5: The Clinical Override
+***
+
+#### The Clinical Override
 
 The room was still dark. The alarm hadn't gone off yet.
 
@@ -14766,7 +15038,9 @@ Patrick nodded back. He dialed the number, waiting for the answering service to 
 
 He didn't ask. He told. And as he spoke, he was already pulling her clothes out of the drawer, ready to mobilize. The Fortress was going on the offensive.
 
-### Scene 6: The Green Light
+***
+
+#### The Green Light
 
 The phone on the nightstand rang. It wasn't the soft chirping of a social call; it was the harsh, double-ring of a professional line.
 
@@ -14834,7 +15108,9 @@ He grabbed the go-bag. He grabbed his keys.
 
 They rolled out into the hallway, moving with the silent, grim determination of a rescue squad. The Fortress was active. The Machine was moving. And they were going to get that prescription if Patrick had to row the boat himself.
 
-### Scene 7: The Transit Chase
+***
+
+#### The Transit Chase
 
 They left the apartment at 0600 sharp. Patrick locked the heavy steel door of Unit 404 and they took the residential elevator down to the basement level.
 
@@ -14926,7 +15202,9 @@ Patrick locked the wheelchair down. He sat in the jump seat next to her, his kne
 
 The bus roared out of the station, turning onto Broadway. They were ten minutes early. The Machine was running hot, but it was running on time.
 
-### Scene 8: The Checkpoint Failure
+### Part 2: The Checkpoint Failure & The Treatment Protocol
+
+#### The Checkpoint Failure
 
 They made it through the sliding glass doors of the main hospital entrance with eight minutes to spare. The lobby was warm, smelling of floor wax and the specific, sterile coffee scent of a hospital café.
 
@@ -15175,7 +15453,9 @@ She tapped his hand twice. *Good.*
 
 They left the office five minutes later, headed for the pharmacy, the crisis managed, the protocol upheld.
 
-### Scene 9: The Realization
+***
+
+#### The Realization
 
 The exam was over. The prescription paper was tucked safely into Patrick’s pocket.
 
@@ -15243,7 +15523,9 @@ They rolled out of the exam room. As they passed through the waiting room, the a
 
 Nichole didn't look for the man. She just watched Patrick’s hands on her chair, guiding her smoothly toward the exit, grateful for the silence, the safety, and the rules that kept them that way.
 
-### Scene 10: The Wrap Up
+***
+
+#### The Wrap Up
 
 They were sitting in the plastic chairs, waiting for the pharmacist to mix the Nystatin. The adrenaline had faded, but the image of the screaming man was still fresh.
 
@@ -15302,7 +15584,9 @@ Patrick laughed, wrapping his arm around her shoulders.
 
 "Yeah. We were."
 
-### Scene 11: The Treatment Protocol
+***
+
+#### The Treatment Protocol
 
 The steel door of Unit 404 clicked shut and the heavy deadbolt slid home. The world—the angry man, the hospital lights, the noise of the bus—was finally locked out.
 
@@ -15399,7 +15683,9 @@ Patrick offered a tired, lopsided smile. He reached out and squeezed her hand—
 
 He stood up to dim the lights. The Fortress was secure, the medicine was deployed, and the healing could finally begin.
 
-### Scene 12: The Double Ambush
+### Part 3: The Double Ambush & The Filing
+
+#### The Double Ambush
 
 The Second Floor Lounge was supposed to be a sanctuary. It was tucked behind the administrative offices, usually empty at this hour.
 
@@ -15586,7 +15872,9 @@ He kissed her forehead.
 
 "Now, let's get to the server room. I'm tired of people."
 
-### Scene 13: The Sub-Level Sanctuary
+***
+
+#### The Sub-Level Sanctuary
 
 They reached the heavy steel door of Server Room B. Patrick swiped his student ID.
 
@@ -15719,7 +16007,9 @@ It was the most beautiful place she had ever seen.
 
 She tapped her armrest. *Safe.*
 
-### Scene 14: The Filing
+***
+
+#### The Filing
 
 Sergeant Miller watched the footage on the monitor. He saw the grainy image of Kyle cornering Nichole. He saw the hand on the thigh. He saw Patrick’s strike.
 
@@ -15781,7 +16071,7 @@ Patrick smiled. It was a fierce, proud smile.
 
 "Yeah," Patrick said. "Clean."
 
-### Scene 15: The Loudmouth
+### Part 4: The Loudmouth
 
 The Bull Pen was loud, smelling of fry grease and burnt coffee. A giant mural of the Braxton Bull snorted steam from the back wall.
 
@@ -15882,7 +16172,7 @@ David, the RA, watched him go. He picked up his cold pasta.
 
 ## Nichole Adapts
 
-### Scene 1: Engine Failure
+### Part 1: Engine Failure
 
 The alarm on the bedside table hummed its soft, gradual wake-up tone.
 
@@ -16391,7 +16681,9 @@ He placed it on the desk.
 
 "Bennett Dynamics has a Medical Division," Patrick announced. "And we are officially open for business."
 
-### Scene 2: The Malpractice Shield
+### Part 2: The Malpractice Shield & The Integration
+
+#### The Malpractice Shield
 
 Date: September 16, 2005
 
@@ -16460,7 +16752,9 @@ She tapped her screen.
 
 "Yeah," Patrick smiled, patting the cover. "Now let them try to tell us we're a liability."
 
-### Scene 3: The Integration
+***
+
+#### The Integration
 
 Date: September 22, 2005
 
@@ -16546,7 +16840,9 @@ Nichole smiled. She clicked her mouse.
 
 ## The Procedure: "The Tune-Up"
 
-### Scene 1: The Handover (The Night Before) Time: 8:00 PM
+### Part 1: The Handover (The Night Before) Time: 8:00 PM & The Separation
+
+#### The Handover (The Night Before) Time: 8:00 PM
 
 The living room of Unit 404 was a mix of post-Christmas chaos and pre-surgical precision.
 
@@ -16614,7 +16910,9 @@ Nichole grinned. She tapped her screen.
 
 <aac>Last. Meal. Let's. Ride.</aac>
 
-### Scene 2: The Admission
+***
+
+#### The Admission
 
 Outside the sliding glass doors, a light snow was falling. It was a gentle, post-Christmas snow—dusting the dormant grass of the hospital lawn but melting instantly on the salted asphalt of the drop-off lane.
 
@@ -16678,7 +16976,9 @@ Patrick grinned, grabbing the handles of her chair.
 
 "Damn straight. Let's roll."
 
-### Scene 3: The Surgical Consult
+***
+
+#### The Surgical Consult
 
 Outside the narrow window of the pre-op bay, the world was pitch black. The sun hadn't risen yet, but if you looked closely, you could see snowflakes swirling in the halo of the parking lot floodlights.
 
@@ -16783,7 +17083,9 @@ Patrick smiled, finally stepping out of "Nurse Mode" to grab her hand.
 
 "He knows we're the Machine, Nikki," Patrick whispered. "We got this."
 
-### Scene 4: The Separation
+***
+
+#### The Separation
 
 The Anesthesiologist, Dr. Liu, stepped into the bay. He was holding a syringe labeled **MIDAZOLAM**.
 
@@ -16888,7 +17190,7 @@ Patrick took a breath. He touched the LPN badge clipped to his chest.
 
 "I'm right here," he whispered to the empty air. "Running the numbers."
 
-### Scene 5: The War Room
+### Part 2: The War Room
 
 The waiting room TV was blaring a morning talk show discussing "Post-Holiday Detox Diets," but Patrick didn't hear it. He was deep in the operational manual for the new hardware.
 
@@ -16969,7 +17271,9 @@ Patrick stepped through the doors, crossing the threshold from "Waiting" to "Act
 
 ## Nichole’s Recovery
 
-### Scene 1: The Recovery Room
+### Part 1: The Recovery Room & The Discharge
+
+#### The Recovery Room
 
 Patrick didn't wait in the hallway. He swiped his badge at the sensor, following the transport nurse, Becky, through the double doors and into the sensory overload of the PACU.
 
@@ -17145,7 +17449,9 @@ Nichole blinked slowly. She reached out and tapped his arm.
 
 "Yeah," Patrick smiled, patting her hand. "Home."
 
-### Scene 2: The Shift Partner
+***
+
+#### The Shift Partner
 
 The Step-Down Unit was entering the "Lunch Lull." The frantic energy of the morning surgeries had settled into the rhythmic checking of vitals and the clinking of lunch trays.
 
@@ -17225,7 +17531,9 @@ Nichole blinked slowly. She reached out and patted the foam block. *Friend.*
 
 "Almost there," Patrick said, checking his watch again. "Meds. Paperwork. Then we break out of here."
 
-### Scene 3: The Discharge
+***
+
+#### The Discharge
 
 The late afternoon light had long since vanished, leaving the hospital window a square of pitch-black darkness reflecting the room’s fluorescent lights. The snow had stopped falling, but the roads below were slick and wet, shining under the streetlamps.
 
@@ -17348,7 +17656,9 @@ But not tonight. Tonight, the Metro was forbidden. The vibration, the gap betwee
 
 He pushed her through the doors and into the concrete echo of the parking garage, aiming for the van.
 
-### Scene 4: The \
+### Part 2: The \ & The Night Shift
+
+#### The \
 
 The drive from the hospital had been tense. The wipers on the van were slapping away a mix of rain and heavy, wet snow. The temperature was dropping, and the roads were transitioning from "wet" to "glazed."
 
@@ -17416,7 +17726,9 @@ She gave him a tiny, tired thumbs up.
 
 "Okay," Patrick said, grabbing the push handles and draping her heavy wool blanket over her legs. "Let's get you upstairs. The heat is on."
 
-### Scene 5: The Clinical Standard
+***
+
+#### The Clinical Standard
 
 The heavy steel door of the loft clicked shut, locking out the world. They were back in the Fortress.
 
@@ -17534,7 +17846,9 @@ Nichole let out a long, drug-heavy sigh. She reached out and found his hand. She
 
 *My Medic.*
 
-### Scene 6: The Night Shift
+***
+
+#### The Night Shift
 
 The screaming started at 0200.
 
@@ -17612,7 +17926,7 @@ He hadn't panicked. He hadn't called Mom in Portsmouth. He hadn't called the on-
 
 He was the Caregiver. The power was on. And the Machine was still running.
 
-### Scene 7: New Year's Eve
+### Part 3: New Year's Eve
 
 The loft didn't look like a party venue. It looked like a high-end recovery suite.
 
@@ -17784,7 +18098,9 @@ He closed his eyes. The Machine powered down.
 
 ## The Routine
 
-### Scene 1: The Winter Siege
+### Part 1: The Winter Siege & The Physical Toll
+
+#### The Winter Siege
 
 The novelty of the "New Year" had worn off. The adrenaline of the surgery was gone. Now, it was just the **Grind**.
 
@@ -17882,7 +18198,9 @@ Nichole lay there, her cheek pressed against the comforter. Her hand rested on t
 
 She wasn't just surviving anymore. She was waiting to live.
 
-### Scene 2: The Fuel Station
+***
+
+#### The Fuel Station
 
 "Lunch in five," Patrick announced, drying his hands on a dish towel.
 
@@ -17944,7 +18262,9 @@ Nichole rolled her eyes, but she grabbed the glass. She drank. The water was coo
 
 Nichole ate the lentils. They tasted a little better now.
 
-### Scene 3: The Creative Session
+***
+
+#### The Creative Session
 
 Patrick cleared the lunch bowls. The "Fueling" was complete. Now came the Work.
 
@@ -18077,7 +18397,9 @@ He looked at her.
 
 Nichole didn't use the board. She just looked him dead in the eye and nodded. *In a heartbeat.*
 
-### Scene 4: The Physical Toll
+***
+
+#### The Physical Toll
 
 The alarm on Patrick’s watch beeped. *Beep-beep. Beep-beep.*
 
@@ -18193,7 +18515,7 @@ It was the only communication needed.
 
 *We survived.*
 
-### Scene 5: The Downgrade
+### Part 2: The Downgrade
 
 The calendar on the wall had a big red circle around **FEB 14**.
 
@@ -18396,7 +18718,7 @@ Patrick looked at Nichole. They shared a look of absolute, terrifying confidence
 
 ## Concept: The Joint Defense
 
-### Scene 1: The Outcome
+### The Outcome
 
 They spent Junior year living in the lab and the library.
 
@@ -18416,7 +18738,9 @@ The Legacy: This project wasn't just homework. The BHI (Bennett Haptic Interface
 
 ## Graduation
 
-### Scene 1: The Protocol Negotiation
+### The Protocol Negotiation & The \
+
+#### The Protocol Negotiation
 
 Mrs. Gable, the Director of Commencement, was a woman who lived for clipboards and alphabetical order. She looked at the two students sitting across from her desk.
 
@@ -18486,7 +18810,9 @@ Patrick smiled. It was the smile of a man who had spent four years in a lab.
 
 "I've handled the heat," Patrick said. "I modified the gowns."
 
-### Scene 2: The \
+***
+
+#### The \
 
 Outside, in the Bull Ring, the temperature was a sweltering 88°F with 90% humidity. The Narragansett Bay breeze was dead calm. Parents in the stands were fanning themselves with programs. The band had just started the endless loop of *Pomp and Circumstance*.
 
@@ -18678,7 +19004,9 @@ Patrick squeezed back.
 
 ## An Idea
 
-### Scene 1: The Incorporation
+### The Incorporation & The Tablet Revolution
+
+#### The Incorporation
 
 The morning sun flooded through the floor-to-ceiling windows of Unit 404.
 
@@ -18722,7 +19050,9 @@ Patrick snorted. "No titles. Titles are for people who have meetings. We are Par
 
 "50/50," Patrick agreed. "But I handle the taxes."
 
-### Scene 2: The Home Office
+***
+
+#### The Home Office
 
 While the outside world was panicking about the stock market, Unit 404 was a hum of productivity.
 
@@ -18766,7 +19096,9 @@ He knelt down and kissed her forehead.
 
 VIDEO GAMES
 
-### Scene 3: The Tablet Revolution
+***
+
+#### The Tablet Revolution
 
 For years, Nichole’s voice had been a heavy laptop. The *ConvertiBook* was great, but it was five pounds of plastic and hinges. It created a physical barrier between her and the world.
 
@@ -18808,7 +19140,9 @@ She tapped her armrest. *Get it.*
 
 ## The Long Retreat
 
-### Scene 1: The Last Funeral
+### The Last Funeral & The Return
+
+#### The Last Funeral
 
 The house was quiet. The kind of quiet that feels heavy, like a dust sheet draped over furniture.
 
@@ -18828,7 +19162,9 @@ He walked over to the hallway closet—the one Mark had converted back in 2003. 
 
 "He built this for us," Patrick whispered, touching the doorframe. "He knew we'd end up here."
 
-### Scene 2: The City Problem
+***
+
+#### The City Problem
 
 The winter of '43 was brutal. For thirty years, The Foundry had been their stronghold. They loved the industrial windows, the polished concrete, and the direct subway access. But the city was changing.
 
@@ -18850,7 +19186,9 @@ Nichole looked at him. She saw the gray pallor of his skin. She realized that th
 
 She tapped her screen. WE. NEED. A. RANCH.
 
-### Scene 3: The Decision
+***
+
+#### The Decision
 
 The papers were spread out on the island. The Deed: 95 West Main Road (Inherited, Mortgage Free). The Lease: The Foundry Lofts (Renewing in June).
 
@@ -18868,7 +19206,9 @@ She reached for her mouse. WE. ARE. TIRED. PAT. THE. FORTRESS. IS. EASY. I. WANT
 
 Patrick read the words. *I want easy.* He let out a long breath. He rubbed his eyes. "Me too, Nikki. Me too."
 
-### Scene 4: The Return
+***
+
+#### The Return
 
 They didn't hire movers to pack. They hired movers to *purge*. They sold the loft furniture. They donated the office equipment. Bennett Dynamics was officially closed for new business. They were keeping the patent royalties from the *Haptic Interface*, but the consulting firm was retiring.
 
@@ -18892,7 +19232,9 @@ Patrick lay back on the bed, staring at the ceiling. He didn't have to worry abo
 
 ## The Slow Rust
 
-### Scene 1: The First Breakdown
+### The First Breakdown & The Final Perimeter
+
+#### The First Breakdown
 
 The decline didn't happen all at once. It started with a stumble.
 
@@ -18922,7 +19264,9 @@ Nichole looked at him. She reached out and took his hand. She squeezed it. She t
 
 The next day, they ordered a ceiling-mounted lift track system. It wasn't a defeat; it was an upgrade. The machine wasn't broken; it just needed new parts.
 
-### Scene 2: The Shared Breath
+***
+
+#### The Shared Breath
 
 The heart failure started as a whisper in Patrick's chest. He would get winded pushing the chair up the ramp. He would have to stop halfway down the hall to catch his breath. Dr. Vance’s successor, a young cardiologist named Dr. Aris, showed them the echocardiogram on a holographic tablet. "Your heart is tired, Mr. Bennett," the doctor said gently. "It’s been doing the work of two people for a very long time. Your ejection fraction is down to 25%."
 
@@ -18963,7 +19307,9 @@ For sixty years, Patrick had pushed her. He had been the engine. Now, the dynami
 
 Patrick took a deep breath of the cool, concentrated air flowing from the back of her chair. He watched the back of her head. "Lead the way, Nikki," he whispered. She tapped the joystick forward. The tether tightened just slightly, and they moved forward, one single unit.
 
-### Scene 3: The Final Perimeter
+***
+
+#### The Final Perimeter
 
 The Plumbing Upgrade
 
@@ -18987,7 +19333,9 @@ Patrick lay there, listening to the soft gurgle of the catheter line. He looked 
 
 ## The Synchronized Shutdown
 
-### Scene 1: Date: February 14, 2058 Age: 72 Location: The Master Suite, 95 West Main Road, Portsmouth, RI
+### The Master Suite, 95 West Main Road, Portsmouth, RI & The Legacy
+
+#### Date: February 14, 2058 Age: 72 Location: The Master Suite, 95 West Main Road, Portsmouth, RI
 
 The winter of 2058 was cold, but the Fortress was warm.
 
@@ -19033,7 +19381,9 @@ Nichole let out a final, soft sigh against his neck. Patrick followed her a mome
 
 The rhythm stopped. The Machine powered down.
 
-### Scene 2: Epilogue: The Legacy
+***
+
+#### Epilogue: The Legacy
 
 The hospice nurse, Elena, let herself in with the key code the next morning. The house was silent. The furnace was humming.
 

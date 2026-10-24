@@ -132,18 +132,19 @@ foreach ($narrativeDirs as $narrativeDir) {
             // Heading 2: The Chapter Name 
             $masterContent .= "## " . $cleanChapTitle . "\n\n";
             
-            // Auto-discover Scenes (pXXX.md files)
-            $sceneFiles = glob($chapDir . '/s*.md');
-            sort($sceneFiles);
+            // Auto-discover Parts (pXXX.md files)
+            $partFiles = glob($chapDir . '/p*.md');
+            sort($partFiles);
+            $chapPartCount = count($partFiles);
             
-            foreach ($sceneFiles as $sceneFile) {
-                $sceneName = basename($sceneFile);
-                $sceneNum = intval(str_replace(['s', '.md'], '', $sceneName));
+            foreach ($partFiles as $partFile) {
+                $partName = basename($partFile);
+                $partNum = intval(str_replace(['p', '.md'], '', $partName));
                 
-                $relPath = str_replace($baseDir . '/', '', $sceneFile);
-                echo "      -> [Scene] Appending: {$relPath}\n";
+                $relPath = str_replace($baseDir . '/', '', $partFile);
+                echo "      -> [Part] Appending: {$relPath}\n";
                 
-                $partContent = file_get_contents($sceneFile);
+                $partContent = file_get_contents($partFile);
                 
                 $title = '';
                 $date = '';
@@ -199,18 +200,22 @@ foreach ($narrativeDirs as $narrativeDir) {
                     }
                 }
                 
-                // Strip the individual YAML Frontmatter block from the scene body first
+                // Strip the individual YAML Frontmatter block from the part body first
                 $partContent = preg_replace('/^---[\s\S]*?---\s*/', '', ltrim($partContent));
 
-                // Shift in-scene `##` and `###` sub-headings (used for `oliver.php` In-Scene Mini-TOC navigation)
-                // down by 2 heading levels (`####` and `#####`) so they nest cleanly beneath `### Scene X`
+                // Shift in-part `##` and `###` scene headings (used for `oliver.php` Mini-TOC navigation)
+                // down by 2 heading levels (`####` and `#####`) so they nest cleanly beneath `### Part X`
                 // without colliding with `# Episode` or `## Chapter` in Pandoc EPUB/PDF Table of Contents.
                 $partContent = preg_replace('/^(#{2,4})(\s+)/m', '##$1$2', $partContent);
                 
-                $sceneTitleDisplay = $title ? "Scene {$sceneNum}: {$title}" : "Scene {$sceneNum}";
+                if ($chapPartCount > 1) {
+                    $partTitleDisplay = $title ? "Part {$partNum}: {$title}" : "Part {$partNum}";
+                } else {
+                    $partTitleDisplay = $title ? $title : "Part {$partNum}";
+                }
                 
-                // Heading 3: The Scene Name 
-                $masterContent .= "### " . $sceneTitleDisplay . "\n\n";
+                // Heading 3: The Part Name 
+                $masterContent .= "### " . $partTitleDisplay . "\n\n";
                 
                 // Format and append extracted temporal metadata as visible markdown text.
                 if (!empty($date)) {

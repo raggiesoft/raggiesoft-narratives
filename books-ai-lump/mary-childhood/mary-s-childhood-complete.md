@@ -6,9 +6,11 @@ title: "Mary's Childhood"
 
 ## Chapter 1: A Moment of Peace
 
-### Scene 1: High Command
+### High Command & The Blanket Tent Sanctuary
 
 **Date:** 2009-10-17 at 14:15
+
+#### 2:15 PM — High Command
 
 The rain lashed heavily against the single-pane windows of their modest, cramped living room, but Mary barely heard the storm. The worn, braided rug stretching between the faded couch and the television stand had been completely transformed into an active, high-stakes battlefield.
 
@@ -44,9 +46,9 @@ Connor grinned, reaching across Mary to high-five his older brother. Mary giggle
 
 The campaign would eventually end, and they would ultimately use their Foam-Strike Blasters to safely and violently demolish the Snap-Brick towers in a hail of foam darts. But for right now, the fortress was impenetrable, the Supreme Commander was in charge, and Mary was exactly where she belonged—safe in the middle, fiercely protected and unconditionally loved.
 
-### Scene 2: Untitled Chapter
+***
 
-**Date:** 2009-10-17 at 20:30
+#### 8:30 PM — The Blanket Tent Sanctuary
 
 By the time the sun fully set, the rain had softened into a steady, rhythmic tap against the bedroom window. But Mary and her two older brothers weren't in a bedroom anymore. They were miles away, deep in the uncharted, perilous wilderness.
 

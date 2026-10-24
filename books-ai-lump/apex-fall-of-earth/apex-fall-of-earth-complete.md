@@ -6,7 +6,9 @@ title: "Apex: Fall of Earth"
 
 ## Wyatt – Expendable Assets
 
-### Scene 1: The Deep End – Mid-October 2044
+### Part 1: The Deep End – Mid-October 2044 & The Washroom
+
+#### The Deep End – Mid-October 2044
 
 The heavy, pressurized hiss of the airlock cycling open was the best sound Wyatt Colton had heard in six months.
 
@@ -36,7 +38,9 @@ He didn't look back at the locker, and he didn't say goodbye to the rest of the 
 
 It was time to go wait for the FIPS transport. It was time to go to Earth.
 
-### Scene 2: Freight – Mid-October 2044
+***
+
+#### Freight – Mid-October 2044
 
 The boarding process for the Frontier Interplanetary Personnel Services transport was a chaotic, shouted mess. By the time Wyatt navigated the narrow aisle and found an open spot, the interior already smelled like ozone, stale sweat, and cheap recycled air.
 
@@ -54,7 +58,9 @@ Wyatt didn't mind. He preferred the isolation. He crossed his scarred arms over 
 
 He didn't dream about the ocean he’d just left behind, and he didn't wonder about the future. He just let the vibrations of the deck plates pull him into a numb, dreamless void, conserving his energy. Earth was waiting on the other side, and Wyatt knew from years of experience that whatever Apex had buried out in the Nevada desert was going to demand every ounce of strength he had left.
 
-### Scene 3: The Pipeline
+***
+
+#### The Pipeline
 
 The FIPS hauler slammed into the docking cradle at the Las Vegas Interplanetary Spaceport with a bone-jarring thud that rattled the fillings in Wyatt’s teeth. The heavy pneumatic locks engaged, and the sub-light engines finally whined down into silence.
 
@@ -90,7 +96,9 @@ Wyatt crossed his thick, scarred arms over his chest and closed his eyes as the 
 
 He let the roar of the atmospheric engines completely drown out the nervous chatter of the rookies vibrating in the seats around him. He didn't know what kind of black-budget nightmare Apex was running out in the Nevada desert, and he didn't care. He didn't look out the window at the sprawling, darkened wasteland below. He just kept his head down, waiting for the drop, ready to start the clock on another hellhole.
 
-### Scene 4: Intake
+***
+
+#### Intake
 
 The Sierra Pacific shuttle hit the landing pad with a heavy, jarring thud that rattled the fillings in Wyatt’s teeth. The atmospheric engines whined down into a low, mechanical idle. A second later, the pneumatic locks disengaged, and the heavy metal ramp at the front of the cabin hissed open.
 
@@ -136,7 +144,9 @@ Wyatt pushed his weight against the cold steel bar and stepped through to the ot
 
 He put his head down and started walking.
 
-### Scene 5: The Filing Cabinet
+***
+
+#### The Filing Cabinet
 
 The heavy metal turnstile clunked shut behind Wyatt, sealing him inside Apex Defense Solution's subterranean staging facility. He followed the scuffed yellow line painted on the concrete floor, walking down a long, windowless corridor illuminated by harsh, buzzing fluorescent tubes. The air here was heavy, smelling of stale sweat, cheap floor wax, and the metallic tang of industrial machinery vibrating through the floorboards.
 
@@ -176,7 +186,9 @@ Without another word, and without a second glance at him, she shuffled past him 
 
 Wyatt looked down into the metal box at the warm, rumpled mattress on the floor. Welcome to Apex.
 
-### Scene 6: The Washroom
+***
+
+#### The Washroom
 
 Wyatt left his canvas duffel bag on the floor next to Bunk 42-C. He grabbed his hygiene kit and his scratchy, company-issued towel, stepping back out into the narrow, 64-inch aisle of the barracks.
 
@@ -200,7 +212,9 @@ He didn't stare. He didn't offer a pitying glance or try to reassure her—that 
 
 Ten minutes later, Wyatt was zipped into his stiff, abrasive black and hazard-yellow uniform, the nametape COLTON pinned to his chest. He stepped out of the humid washroom, following the neon signs pointing toward Sector 1. It was time to get some food and clock in.
 
-### Scene 7: The Trough
+### Part 2: The Trough & The Checkpoint
+
+#### The Trough
 
 Wyatt zipped up the front of his stiff, abrasive black utility uniform, the heavy collar scratching against his neck. The nametape pinned over his right breast pocket read COLTON.
 
@@ -220,7 +234,9 @@ Wyatt chewed a mouthful of his gray paste, his face completely stoic. He knew ex
 
 Finding no open seats, Wyatt leaned against a concrete support pillar near the exit to eat alone. He finished his block in four massive bites, tossed the metal tray into the magnetic reclamation bin, and headed for Sector 1: Security Processing to clock in. He had a perimeter to walk.
 
-### Scene 8: The Checkpoint
+***
+
+#### The Checkpoint
 
 Wyatt tossed his empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
 
@@ -276,7 +292,9 @@ She looked at him, really looking this time, and realized he meant it. For the f
 
 ## Sarah – The Promise
 
-### Scene 1: First Flight – Mid-October 2044
+### Part 1: First Flight – Mid-October 2044 & The Glitch
+
+#### First Flight – Mid-October 2044
 
 The Tri-Sector Interstellar Freight & Personnel terminal was the cleanest room Sarah Hayes had ever stood in.
 
@@ -316,7 +334,9 @@ The sub-light engines hummed to life, a gentle, barely noticeable vibration that
 
 Sarah rested her hands in her lap, her posture finally relaxing as the ship lifted off the tarmac, carrying her up through the atmosphere and into the quiet dark of space. She closed her eyes, a small, genuine smile touching her lips. She was safe. She was finally going to be part of something good.
 
-### Scene 2: The Voyage – Mid-October 2044
+***
+
+#### The Voyage – Mid-October 2044
 
 The Tri-Sector Interstellar Freight & Personnel transport slipped through the void with barely a whisper.
 
@@ -354,7 +374,9 @@ Below her, suspended in the vast blackness of space, was the brilliant, swirling
 
 She pressed her hand against the cool glass, her heart fluttering with genuine, unadulterated excitement. She was a Field Safety Technician for the Helios Geoscience Institute, and her new life was about to begin.
 
-### Scene 3: The Transfer
+***
+
+#### The Transfer
 
 The TSIFP transport glided into the docking cradle at the Las Vegas Interplanetary Spaceport with a gentle, barely perceptible shudder. The docking mechanisms locked into place with a muffled, hydraulic sigh, and the soft amber cabin lights shifted to a bright, welcoming white.
 
@@ -390,7 +412,9 @@ A few minutes later, the atmospheric thrusters engaged with a smooth, even hum. 
 
 Sarah leaned her head against the cool, vibration-free glass, looking down at the rugged, red-brown mountains and sweeping valleys. To her, it didn't look like a harsh, unforgiving wasteland. It looked like a pristine frontier of science and discovery. She folded her hands in her lap, her heart full of bright, optimistic anticipation as the Desert Star shuttle carried her deeper into the desert.
 
-### Scene 4: The Handoff
+***
+
+#### The Handoff
 
 The Desert Star atmospheric shuttle touched down with a gentle, controlled hiss of hydraulics, settling onto the tarmac with barely a bump. The ambient cabin music faded out, replaced by the soft chime of the seatbelt indicator turning off.
 
@@ -446,7 +470,9 @@ The heavy metal teeth of the turnstile clunked open.
 
 Sarah pushed through the cold steel gate, stepping into the long, windowless concrete corridor that led deeper into the facility. The polite, comfortable world of the Desert Star shuttle felt like it belonged to another universe. She tightened her grip on her bag, entirely alone, terrified, and utterly out of her depth in the dark.
 
-### Scene 5: The Glitch
+***
+
+#### The Glitch
 
 The heavy steel gate of the security checkpoint slammed shut, sealing off the deafening roar of the intake bunker.
 
@@ -498,7 +524,9 @@ Sarah slung her duffel bag over her shoulder, her slate-blue uniform feeling lik
 
 She stepped out into the neon-lit corridor, entirely alone and utterly out of her depth, unaware that the massive, scarred veteran assigned to Shift 2 was already walking toward those exact same washrooms.
 
-### Scene 6: The Washroom
+### Part 2: The Washroom & The Checkpoint
+
+#### The Washroom
 
 Sarah dropped her canvas duffel bag on the floor next to Bunk 42-C, clutching her hygiene kit and a thin towel to her chest. She stepped back out into the narrow, 64-inch aisle of the barracks, her heart hammering against her ribs.
 
@@ -526,7 +554,9 @@ Taking a shaky breath, Sarah forced herself to move. She quickly stepped under t
 
 Ten minutes later, she was dressed back in her clean slate-blue Helios uniform, the bright fabric feeling less like a mark of prestige and more like a target. She stepped out of the humid washroom, clutching her damp towel, and followed the neon signs pointing toward the Mess Hall.
 
-### Scene 7: The Divide
+***
+
+#### The Divide
 
 Sarah stepped out into the neon-lit corridor, clutching her damp towel, and was immediately swept up in a massive tide of Apex contractors heading toward the Sector 1 Mess Hall.
 
@@ -552,7 +582,9 @@ She forced herself to swallow two bites, knowing she would pass out if she didn'
 
 It was time to face whatever came next.
 
-### Scene 8: The Checkpoint
+***
+
+#### The Checkpoint
 
 Sarah tossed her empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
 
@@ -590,7 +622,9 @@ She looked at him, really looking this time, and realized he meant it. For the f
 
 ## Wyatt – Orientation Day
 
-### Scene 1: The Powder Keg
+### Part 1: The Powder Keg & The Break
+
+#### The Powder Keg
 
 Wyatt led Hayes down the grated metal catwalks of Sector 4. The air here was colder, smelling intensely of ozone and burning coolant. Below them, massive, automated drill rigs pounded into the Nevada bedrock with a rhythmic, bone-rattling thud.
 
@@ -626,7 +660,9 @@ Wyatt gave Hayes a subtle shake of his head and pointed his heavy flashlight dow
 
 She nodded, understanding perfectly. They both slipped away from the lab in total silence, leaving the scientists to their panic, and continued their march into the dark.
 
-### Scene 2: The Chain of Command
+***
+
+#### The Chain of Command
 
 Wyatt kept moving deeper into Sector 4, the metal grating of the catwalk ringing softly under his heavy steel-toed boots. Hayes was right behind him, her flashlight beam sweeping the shadows in steady, disciplined arcs. She was learning fast.
 
@@ -656,7 +692,9 @@ Wyatt caught Hayes's eye and gave a curt nod toward the descending stairs. *Move
 
 They both slipped away from the booth, descending deeper into the suffocating heat of the excavation levels, leaving the armed guard to his doomed phone call.
 
-### Scene 3: The Maintenance Closet
+***
+
+#### The Maintenance Closet
 
 Wyatt guided Hayes off the main catwalk, slipping into a narrow alcove hidden behind a massive, humming filtration bank. There was an unmarked, heavy steel door; he pulled the latch, checked the dark interior with his flashlight, and waved her inside.
 
@@ -702,7 +740,9 @@ Wyatt looked at the 18-year-old kid sitting across from him. He knew this facili
 
 "Deal."
 
-### Scene 4: The Grind
+***
+
+#### The Grind
 
 Wyatt stepped back out of the maintenance closet and into the deafening hum of Sector 4. The heavy, lead-lined door clicked shut behind them, and the internal tracker on his standard-issue PDA violently pinged back to life, the warning yellow fading into a compliant, steady green. They were back on the grid.
 
@@ -732,7 +772,9 @@ She was coachable, and she genuinely wanted to pull her weight. She wanted to ea
 
 He was glad she was the one who had walked through that turnstile.
 
-### Scene 5: The Break
+***
+
+#### The Break
 
 Six hours into the shift, the overhead PA system chimed with a dull, two-tone electronic bell. Mid-shift meal rotation.
 
@@ -780,7 +822,7 @@ Wyatt finished the last bite of his chalky ration bar, feeling a strange, unfami
 
 "Yeah," he agreed quietly, offering a small, grounded smile. "I think we can."
 
-### Scene 6: 42-C
+### Part 2: 42-C
 
 The twelve-hour mark hit, and the overhead PA system let out a long, droning buzz. Shift change.
 
@@ -836,7 +878,9 @@ He closed his eyes, holding her tight, and drifted off to sleep.
 
 ## The Second Shift
 
-### Scene 1: Wake Up Call
+### Part 1: Wake Up Call & The Checkpoint
+
+#### Wake Up Call
 
 The jarring, two-tone blare of the shift-change klaxon cut through the heavy air of the barracks.
 
@@ -912,7 +956,9 @@ A bright, genuine smile broke across Sarah's face, completely cutting through th
 
 "Agreed," she said, slipping the datapad into her pocket. She bumped her shoulder lightly against his. "Come on. Let's go get breakfast."
 
-### Scene 2: The Morning Ration
+***
+
+#### The Morning Ration
 
 Wyatt merged into the sluggish stream of gray-clad contractors heading down the neon-lit corridors toward the Mess Hall. The harsh fluorescent lights hummed their usual migraine-inducing tune, and the air smelled like the same stale mix of sweat, floor wax, and industrial dust.
 
@@ -952,7 +998,9 @@ She reached across the table, her smaller hand briefly resting over his scarred 
 
 Wyatt gave her hand a short, reassuring squeeze before pulling back, picking up his plastic spork. "Good. Now eat your paste. We've got a twelve-hour patrol ahead of us, and we need the calories."
 
-### Scene 3: The Checkpoint
+***
+
+#### The Checkpoint
 
 Wyatt tossed his empty, stamped-metal tray into the magnetic reclamation bin. Sarah dropped hers right after him, the metallic clatter lost in the low, anxious hum of the Mess Hall.
 
@@ -998,7 +1046,9 @@ Wyatt unclipped his flashlight, the heavy metal casing cool against his taped pa
 
 They both turned and began the long, steep descent into the suffocating heat and deafening noise of the lower excavation levels, leaving the checkpoint behind.
 
-### Scene 4: The Telemetry Anomaly
+### Part 2: The Telemetry Anomaly & The Ghost Shift
+
+#### The Telemetry Anomaly
 
 Wyatt guided Sarah off the primary elevator and onto the grated metal catwalks of Sector 4. The heat hit them instantly, rolling up from the deep-core shafts like a physical wave. The air tasted heavily of ozone, pulverized rock, and burning coolant.
 
@@ -1064,7 +1114,9 @@ As she walked past him, her posture was distinctly different. Her shoulders were
 
 Wyatt fell in right behind her, his broad frame shielding her back as they disappeared into the maze of rusted filtration tanks. He was the armor, she was the compass, and together, they were going to survive this week.
 
-### Scene 5: The Anchor
+***
+
+#### The Anchor
 
 Wyatt followed Sarah into the dense, rusted labyrinth of the outer filtration banks. The air here was noticeably cooler, choked with a thick layer of pale Nevada dust that the automated scrubbers had long since stopped cleaning. The heavy lead shielding in the walls created a dead zone, and the ambient roar of the deep-core drills faded to a dull, distant throb.
 
@@ -1136,7 +1188,9 @@ They both clipped their flashlights back onto their belts and stepped out of the
 
 They were in absolute sync. The tension of the unknown was gone, replaced by a quiet, steady comfort. Apex Defense Solutions might be cracking at the foundations, but as Wyatt listened to her footsteps falling perfectly in rhythm with his, they both knew exactly what they had to hold onto.
 
-### Scene 6: The Ghost Shift
+***
+
+#### The Ghost Shift
 
 Wyatt led Sarah out of the lead-lined filtration banks and back onto the primary catwalks of Sector 4. The ambient roar of the deep-core drills swallowed the silence of their makeshift sanctuary, but the heavy, crushing anxiety that usually accompanied the noise was completely gone. They both knew exactly where they stood now.
 
@@ -1194,7 +1248,9 @@ The Apex facility around them was a rusted, failing nightmare on the brink of a 
 
 "Just six hours," Wyatt agreed, the thought of that thirty-inch mattress suddenly feeling like a luxury suite. He wrapped his arm fully around her shoulders, pulling her flush against his side as they continued down the empty corridor. "We'll take the scenic route."
 
-### Scene 7: The Blind Spot
+### Part 3: The Blind Spot & The Sanctuary
+
+#### The Blind Spot
 
 The "scenic route" through the abandoned filtration sectors led them away from the deafening thud of the deep-core drills and into the forgotten veins of the facility. Wyatt kept Sarah’s hand securely wrapped in his, pulling her slightly ahead of him as they navigated a narrow, rusted access corridor.
 
@@ -1256,7 +1312,9 @@ She pulled him down for one last, deeply romantic kiss. Her tongue slipped past 
 
 He pushed open the heavy blast doors, their flashlights clicking back on. They stepped out into the corridor, pretending to be nothing more than two isolated, minimum-wage contractors walking the line. But under the harsh fluorescent lights of Sector 4, their hands still brushed together with every step.
 
-### Scene 8: The Ghost Roster
+***
+
+#### The Ghost Roster
 
 Wyatt stepped back out onto the grated catwalk of Sector 4, the heavy, rusted blast door of the abandoned break area clunking shut behind them. The deafening, ambient roar of the deep-core drills instantly washed back over him, vibrating up through his heavy boots.
 
@@ -1322,7 +1380,9 @@ She looked up at him, the chaos of Sector 1 completely fading into the backgroun
 
 Wyatt led her away from the checkpoint, descending back into the blistering heat and deafening noise of the lower sectors to finish the second half of Day 2. Apex Defense Solutions might have stolen their bed, but as they walked hand-in-hand through the shadows, they both knew the company had inadvertently given them something infinitely better.
 
-### Scene 9: The Sanctuary
+***
+
+#### The Sanctuary
 
 With two hours left on the twelve-hour clock, Wyatt subtly steered the patrol route back through the neglected outer filtration banks. The deafening thud of the deep-core drills faded into a distant, manageable throb. He kept his hand firmly laced with Sarah’s, their thumbs tracing slow circles against each other as they navigated the rusted, dust-choked corridors.
 
@@ -1380,7 +1440,9 @@ So, as they approached a lit intersection, they both consciously dropped the smi
 
 But out of their line of sight, hidden in the narrow space between their bodies, Sarah’s pinky finger reached out and quietly hooked around his. Wyatt squeezed it once. The secret was completely safe.
 
-### Scene 10: Off the Clock
+### Part 4: Off the Clock & Return to The Sanctuary
+
+#### Off the Clock
 
 The twelve-hour klaxon finally screamed, a harsh, mechanical wail echoing down the grated catwalks of Sector 4. Around them, the few contractors who actually made it to the end of their perimeter routes slumped their shoulders in collective, crushing relief.
 
@@ -1430,7 +1492,9 @@ Wyatt didn't answer with words. He just pulled her back in.
 
 *\[The scene fades to black, the ambient hum of the facility's distant machinery masking the quiet, profound reclamation of their humanity as Apex's control over them finally breaks for the night. Note: we’re skipping over an exploratory sexual encounter, to comply with safety guidelines. Also, this is when the triplets (Ellie, Nora, and Leo) are conceived – we don’t know it yet, but the birth control Sarah was given was nothing more than a lie and a cheap placebo.\]*
 
-### Scene 11: Return to The Sanctuary
+***
+
+#### Return to The Sanctuary
 
 Wyatt lay in the dim, quiet shadows of the barricaded break room, their abrasive black Apex armor and crisp slate-blue Helios uniform hastily arranged into a makeshift pallet on the floor. The heavy, industrial roar of Sector 4 was nothing more than a muffled vibration in the floorboards.
 
@@ -1500,7 +1564,9 @@ Sarah let out a long, contented sigh against his chest, her breathing already st
 
 ## Day Three
 
-### Scene 1: The Illusion of Control
+### Part 1: The Illusion of Control & The Echo
+
+#### The Illusion of Control
 
 The harsh, two-tone wail of the facility’s shift-change klaxon didn’t reach Wyatt. Deep inside the lead-lined walls of the abandoned filtration sector, behind a heavy blast door wedged shut with a steel pipe, the morning arrived in absolute, undisturbed silence.
 
@@ -1570,7 +1636,9 @@ They were both completely unaware that the bored, terrified Supervisor behind th
 
 Instead, Wyatt unclipped his flashlight, ready to march back down into the suffocating heat of the failing facility, determined to keep up the charade just to keep her safe.
 
-### Scene 2: The Veterans
+***
+
+#### The Veterans
 
 Wyatt and Sarah carried their dented metal trays away from the wall dispensers, scanning the packed Mess Hall for an empty spot. The deafening hum of the room was different today—more chaotic, underscored by the nervous energy of the two hundred new S.H.O.P. contractors who had arrived last night.
 
@@ -1624,7 +1692,9 @@ Wyatt and Sarah finished their synthetic breakfast in comfortable, unified silen
 
 But as they turned their backs on the Mess Hall and headed toward the Security Checkpoint, they both knew the truth. They weren't surviving this place by toeing the line. They were surviving it by breaking every rule the company had, and as long as they had that barricaded break room waiting for them, they could play this game forever.
 
-### Scene 3: The Echo
+***
+
+#### The Echo
 
 Wyatt led the way out of the Mess Hall, tossing his empty tray into the reclamation bin. Sarah was right at his side, her steps perfectly synchronized with his. A few paces behind them, Miller and the new girl were following closely in their wake, instinctively using his broad, 6'1" frame to part the sea of aggressive, gray-clad contractors heading toward the Security Checkpoint.
 
@@ -1684,7 +1754,9 @@ Sarah stepped up flush against his side, entirely ignoring the six-inch professi
 
 Wyatt squeezed her hand, setting a slow, relaxed pace down the empty industrial corridor. He had ten hours left to kill before they could disappear back into their sanctuary, but walking the line with her fingers locked in his, the shift didn't feel like a punishment anymore.
 
-### Scene 4: The Bleeding Bedrock
+### Part 2: The Bleeding Bedrock & Clear Parameters
+
+#### The Bleeding Bedrock
 
 Wyatt and Sarah wandered off the primary catwalks, taking advantage of the blind spots in the surveillance grid to walk hand-in-hand through the blistering lower levels of Sector 4. The deeper they went, the more the air felt like a physical weight. It wasn't just the oppressive heat and the failing ventilation scrubbers whining in a desperate pitch. The gravity itself felt distinctly wrong down here—heavier and more punishing than the standard gravity on either of their home planets, dragging at their steel-toed boots with every step. The stench of sulfur and burning copper was thick enough to taste.
 
@@ -1742,7 +1814,9 @@ He broke the kiss just long enough to catch his breath, their foreheads resting 
 
 They both sat down on the narrow sofa, pulling the heavy deployment sleeping bag over their legs. Wyatt wrapped his arms completely around her, and she melted into his side, resting her head on his chest. Apex might be digging its own grave outside that barricaded door, but right now, hidden in the dark, Wyatt had the only thing in the universe he actually cared about. He just held her, determined to cherish every single second they had left together.
 
-### Scene 5: The Pact
+***
+
+#### The Pact
 
 The heavy steel pipe was wedged firmly under the door handle. The dead air of the abandoned break room was completely still, a stark contrast to the vibrating, bleeding nightmare of Sector 4 just on the other side of the bulkhead.
 
@@ -1800,7 +1874,9 @@ Wyatt walked over to the heavy blast door, gripped the decommissioned steel pipe
 
 He heaved the door open, stepping back out into the deafening, sulfur-choked reality of Sector 4. But as they resumed the patrol, walking shoulder-to-shoulder down the grated catwalk, the facility didn't feel like a tomb anymore. It was just an obstacle standing between them and the rest of their lives.
 
-### Scene 6: Clear Parameters
+***
+
+#### Clear Parameters
 
 Wyatt stepped out of the sanctuary, the heavy, rusted blast door screeching slightly before clunking shut behind them. The oppressive, sulfur-choked heat of Sector 4 hit him immediately, replacing the quiet intimacy of the break room with the deafening, bone-rattling roar of the deep-core drills.
 
@@ -1866,7 +1942,9 @@ She stepped closer, entirely ignoring the six-inch professional gap. Without mis
 
 They continued down the catwalk, the oppressive weight of the Apex facility completely neutralized by the warmth of her fingers interlocked with his. The corporation thought it owned everyone down here, but the human spirit was quietly organizing in the dark.
 
-### Scene 7: The Masterclass
+### Part 3: The Masterclass & The Prison Break
+
+#### The Masterclass
 
 The mid-shift PA chime rang a dull, two-tone electronic bell over the Sector 4 intercoms, barely cutting through the ambient roar of the facility. The mandatory, unpaid lunch break had started.
 
@@ -1916,7 +1994,9 @@ Wyatt clipped his heavy Mark-IV flashlight to his belt, watching as Sarah did th
 
 He pulled the steel pipe out from under the handle and heaved the blast door open, stepping back out into the deafening roar of the facility, fully recharged and ready to face the second half of Day 3.
 
-### Scene 8: The Ping
+***
+
+#### The Ping
 
 Wyatt stepped back onto the primary catwalks of Sector 4, the heavy blast door of their sanctuary locked safely behind them. The oppressive, sulfur-choked heat of the excavation levels swallowed them whole, replacing the quiet intimacy of the break room with the deafening, bone-rattling roar of the deep-core drills.
 
@@ -1966,7 +2046,9 @@ But the PDAs remained silent. No more pings came through the network. The panick
 
 Still, Wyatt and Sarah didn't drop their guard for a single second. Apex Defense Solutions had proven that it was a sleeping, heavily armed giant. The facility was actively breaking apart, and the corporate chain of command was fraying at the edges. They walked the remainder of Day 3 in hyper-aware silence, counting every agonizing minute until the twelve-hour klaxon finally screamed, desperate to get back to the one room in this hellhole where Apex couldn't touch them.
 
-### Scene 9: The Prison Break
+***
+
+#### The Prison Break
 
 The deafening, mechanical wail of the twelve-hour klaxon finally bled through the heavy air of Sector 4. The shift was over.
 
@@ -2028,7 +2110,7 @@ Sarah didn't flinch at the treason. A sharp, brilliant light sparked in her eyes
 
 They shared a loaded, desperate look, the romantic pact from the sofa now evolving into a full-blown corporate prison break. Wyatt stepped back, letting the dead-eyed contractor mask slide back into place. They turned away from the chaotic, overflowing dormitories, quietly slipping into the shadows of the maintenance corridors to begin the tense, hyper-vigilant sneak back to the only safe room left in the Nevada facility.
 
-### Scene 10: The Fallen Hierarchy
+### Part 4: The Fallen Hierarchy
 
 Wyatt pulled Sarah into the shadows of Sector 1's outer ring, leaving the chaotic, overflowing mess of Barracks 4 far behind them. The route back to the abandoned filtration banks required threading a very precise needle through the facility's blind spots, dodging the sweeping arcs of the few remaining security cameras.
 
@@ -2096,7 +2178,9 @@ He closed his eyes, holding her securely against him, and let the exhaustion pul
 
 ## Day Four
 
-### Scene 1: Structural Failure
+### Part 1: Structural Failure & The Transit
+
+#### Structural Failure
 
 The alarm on Wyatt's Level 1 PDA didn't wake him. He was already awake.
 
@@ -2150,7 +2234,9 @@ Sarah stepped flush against his side, her shoulder pressing into his chest. She 
 
 Before she could even unwrap her foil brick, the power grid surged violently, and the blinding *BE A MARINE™* recruitment billboards abruptly cut to black.
 
-### Scene 2: The Deployment
+***
+
+#### The Deployment
 
 The electronic screech of microphone feedback echoed through the Mess Hall, slicing through the darkness just as the emergency backup lights painfully flickered to life. The cavernous room was silenced completely.
 
@@ -2194,7 +2280,9 @@ But beneath the surface, their hearts were racing with pure, adrenaline-fueled t
 
 "Stay close," Wyatt replied, the heavy tension in his shoulders finally dropping as he gave her a firm nod. He let his thumb brush against her knuckles one last time before releasing her hand, stepping back into professional mode to navigate the crowd. "Let's go catch our ride."
 
-### Scene 3: The Transit
+***
+
+#### The Transit
 
 Before Wyatt could even turn away from the deployment kiosks, the concrete floor of the Mess Hall detonated.
 
@@ -2282,7 +2370,9 @@ A bright, wicked smile touched her lips at the promise. She rested her head back
 
 Wyatt looked out the viewport at the endless sea of stars, his fingers locked perfectly with hers. Apex Defense Solutions might have exiled them to the most remote corner of the galaxy, but sitting in the quiet hum of the transport, he felt a profound, unshakable sense of peace. He finally had a home.
 
-### Scene 4: The Relic
+### Part 2: The Relic & The Captain's Quarters
+
+#### The Relic
 
 A sharp, mechanical chirp from the hauler’s primary console broke the silence of the cabin.
 
@@ -2368,7 +2458,9 @@ They were locked in. They were completely safe.
 
 "Lead the way," he told her.
 
-### Scene 5: The Captain's Quarters
+***
+
+#### The Captain's Quarters
 
 Wyatt turned away from the glowing amber CRT monitor and the heavy silence of the command center. He followed Sarah down the narrow, curved corridor of Outpost Delta 9.
 
@@ -2416,7 +2508,9 @@ Wyatt reached out, flipping the heavy analog switch on the nightstand. The amber
 
 ## Delta Niner
 
-### Scene 1: The Blinking Clock
+### The Blinking Clock & The Broadcast
+
+#### The Blinking Clock
 
 For the first time in four days, Wyatt woke up without an adrenaline spike.
 
@@ -2460,7 +2554,9 @@ Wyatt set the tape down next to the heavy remote. The analog maintenance of the 
 
 Delta 9 was officially online.
 
-### Scene 2: The Ghost Ship
+***
+
+#### The Ghost Ship
 
 The quiet luxury of the Captain's Quarters held them for a few more hours, but eventually, the reality of their situation pulled Wyatt out of the heavy blankets.
 
@@ -2508,7 +2604,9 @@ He watched her walk out of the command center, the slate-blue of her uniform dis
 
 Wyatt grabbed his heavy Mark-IV flashlight from the console, turning to inspect the rusted maintenance panels, ready to get his hands dirty.
 
-### Scene 3: The Broadcast
+***
+
+#### The Broadcast
 
 Wyatt closed the glass cover of the breaker box with a soft *clink*. The primary uplink fuse was safely sitting in his pocket. They were officially severed from the Apex tracking grid.
 
@@ -2634,7 +2732,9 @@ Wyatt nodded, his thumb brushing across her knuckles. The static hissed quietly 
 
 ## The Lungs of the Station
 
-### Scene 1: The Hydroponics Bay
+### The Hydroponics Bay & The Expanding Fracture
+
+#### The Hydroponics Bay
 
 The heavy, airtight bulkhead door in the lower ring didn't just slide open; it groaned, the rusted hydraulic seals fighting Wyatt’s grip on the manual release wheel. With a final, metallic *shriek*, the iron door gave way, and the dry, recycled ozone of the corridor was instantly blasted away by a wall of heat.
 
@@ -2692,7 +2792,9 @@ Sarah let out a breath she didn't realize she was holding. The knot of anxiety v
 
 Wearing just her black undershirt, she walked up to the analog nutrient station, picked up a heavy, glass measuring beaker, and got to work.
 
-### Scene 2: The Strawberry Festival
+***
+
+#### The Strawberry Festival
 
 Wyatt shifted his weight on the rusted supply crate, leaning his head back against the warm iron bulkhead. He watched as Sarah completely immersed herself in the archaic mechanics of the bay.
 
@@ -2748,7 +2850,9 @@ Wyatt couldn't help but smile, leaning back against the bulkhead. The woman who 
 
 "I'll find you a notebook," Wyatt promised. "And I'll get my wrenches for that pump."
 
-### Scene 3: The Expanding Fracture
+***
+
+#### The Expanding Fracture
 
 Wyatt stood up from the rusted supply crate, the sweet, earthy taste of the strawberry still lingering on his tongue. For a fleeting, miraculous moment, the absolute horror of their situation had been completely neutralized by a 1970s water pump and a handful of clay pebbles.
 
@@ -2806,7 +2910,9 @@ They had survived the NTTR, but the nightmare was far from over.
 
 ## The Boiler Room
 
-### Scene 1: The Descent
+### Part 1: The Descent & The Acceleration
+
+#### The Descent
 
 The heavy, metallic dread of the emergency broadcast still hung in the air as Wyatt and Sarah left the Hydroponics Bay. They didn't speak about Los Angeles or the Colorado River. They didn't need to. The sheer scale of the nightmare had pushed them past the point of panic and straight into cold, mechanical survival.
 
@@ -2852,7 +2958,9 @@ She wasn't a mechanic, and she couldn't hear herself think over the roar of the 
 
 He was in his element. He was keeping their lifeboat afloat. And most importantly, he was right there where she could see him.
 
-### Scene 2: The Baffle
+***
+
+#### The Baffle
 
 Wyatt wiped a streak of dark grease from his forehead with the back of his hand, his muscles burning as he finally muscled the secondary coolant valve closed. The massive iron wrench slipped with a heavy *clack*, but the line was sealed.
 
@@ -2928,7 +3036,9 @@ Wyatt barked out a laugh, the sound rich and incredibly relieved. He pushed hims
 
 They weren't just surviving. They were a team. And they had just kept their lifeboat breathing.
 
-### Scene 3: The Harvest
+***
+
+#### The Harvest
 
 Wyatt slowly let go of Sarah, the adrenaline of the near-miss finally settling into a dull ache in his shoulders. The station’s life-support manifold was humming with a steady, rhythmic thrum, pumping clean, cold oxygen back into the air vents.
 
@@ -2988,7 +3098,9 @@ They were millions of miles from the worlds they knew, floating in a rusted tin 
 
 They were going to be okay.
 
-### Scene 4: The Acceleration
+***
+
+#### The Acceleration
 
 The crisp, sweet juice of the apple was still cold on Wyatt’s tongue. He took another bite, the loud crunch echoing comfortably in the thick, humid air of the Hydroponics Bay. Sarah leaned against the heavy iron bulkhead beside him, a soft, genuine smile finally relaxing the tense lines around her eyes.
 
@@ -3042,7 +3154,7 @@ Sarah buried her face in his chest, her hands gripping his undershirt like a lif
 
 Wyatt didn't answer. He just held her, staring into the harsh purple glare of the UV lights. Because looking at the timeline, the terrifying reality was that Earth might not even make it to the weekend.
 
-### Scene 5: Scorched Earth
+### Part 2: Scorched Earth
 
 The heavy, metallic silence in the Hydroponics Bay was completely suffocating. The rush of the newly repaired water pump, which had sounded like a triumph just minutes ago, now sounded like a ticking clock.
 
@@ -3096,7 +3208,9 @@ They were frightened, deeply scarred, and completely alone in the universe. But 
 
 ## The Glass Wall
 
-### Scene 1: An Attempt at Normalcy
+### Part 1: An Attempt at Normalcy & The Ghost Ship
+
+#### An Attempt at Normalcy
 
 The amber sconces in the Recreation Lounge cast a warm, low-level glow over the faux-walnut paneling. After the deafening, grease-stained chaos of the engine room and the sheer psychological terror of the afternoon's broadcasts, the heavy soundproofing of the room felt like a physical embrace.
 
@@ -3148,7 +3262,9 @@ They were alive. The lifeboat was holding. And down on Earth, humanity was fight
 
 Sarah shifted closer, burying her face into his chest, letting the exhaustion of the longest day of their lives finally pull her under. Wyatt held her tight, his eyes watching the dark screen of the 1970s console TV, standing guard in the quiet dark.
 
-### Scene 2: Shedding the Armor
+***
+
+#### Shedding the Armor
 
 The heavy, mechanical reality of the Nevada Test and Training Range was designed to break you. One of the most insidious ways Apex Defense Solutions achieved this wasn't through grueling physical labor or the constant threat of violence, but through the systematic destruction of basic human dignity.
 
@@ -3226,7 +3342,9 @@ She looked across the small, faux-wood table at Wyatt. He was wearing clean civi
 
 "Eat your omelet," Sarah said softly, reaching across the small table to rest her hand gently over his. "You have a hydroponics pump to check on later."
 
-### Scene 3: The Ghost Ship
+***
+
+#### The Ghost Ship
 
 The remnants of the omelets were cleared away, the heavy ceramic plates soaking in the small galley sink. For exactly two hours, Wyatt and Sarah had allowed themselves to believe they were safe. They had sat in the Recreation Lounge, the soft cotton of their clean clothes feeling like a physical shield against the universe, and just breathed.
 
@@ -3294,7 +3412,9 @@ Sarah looked from the terrifying void of space back to the dot-matrix printout i
 
 "We have to go back to the Boiler Room," Wyatt said, turning toward the door. "And we have to wake this ghost ship up."
 
-### Scene 4: The Void
+### Part 2: The Void & The Ghost Awakens
+
+#### The Void
 
 The frantic energy of their realization immediately funneled into cold, methodical action. They had less than four hours before an Apex hit squad breached the station, and to turn this rusted listening post back into a heavy freighter, they had to break its chains.
 
@@ -3358,7 +3478,9 @@ Wyatt reached into his canvas satchel, pulling out the first heavy block of plas
 
 One down. Three to go. And the clock was mercilessly ticking.
 
-### Scene 5: The Ghost Awakens
+***
+
+#### The Ghost Awakens
 
 *"Charge four is set. I'm heading back."*
 
@@ -3432,7 +3554,9 @@ Wyatt and Sarah had escaped the drop, but they were no longer just hiding. They 
 
 ## The Nomad
 
-### Scene 1: A Vector to Nowhere
+### Part 1: A Vector to Nowhere & The Billionaire’s Secrets
+
+#### A Vector to Nowhere
 
 The viewport in the Operations center used to be a framed photograph of a dead, unmoving cosmos. Now, it was a living window.
 
@@ -3486,7 +3610,9 @@ He pulled his hand back, settling it comfortably around Sarah's waist again. He 
 
 Sarah smiled, resting her cheek against his hair, watching the stars streak by in the dark. The universe was massive, hostile, and actively hunting them, but as long as the engines purred and Wyatt was sitting right beside her, she was ready for the ride.
 
-### Scene 2: The Hubris of Apex
+***
+
+#### The Hubris of Apex
 
 The rich, sweet taste of the hot chocolate had just begun to settle Wyatt’s nerves when the low, rhythmic hum of the Operations center was broken by a sudden burst of audio.
 
@@ -3548,7 +3674,9 @@ Wyatt reached over, pulling her tightly against his chest. He rested his chin on
 
 They were flying a ghost ship into the unknown, safe behind heavily armored bulkheads. But as Wyatt looked out into the black, the corporate assassins who had done this weren't just a threat to evade anymore. They were an enemy.
 
-### Scene 3: The Billionaire’s Secrets
+***
+
+#### The Billionaire’s Secrets
 
 The horrific broadcast about Yellowstone and the ash cloud hung heavily in their minds, a grim reminder of the world they were leaving behind. But Outpost Delta 9—no, *The Nomad*, as Sarah had quietly started calling it in her head—was currently millions of miles away from the ash, the corporate assassins, and the dying earth.
 
@@ -3610,7 +3738,9 @@ Sarah smiled, a deep, radiant warmth filling her chest as she rested her hands o
 
 Sarah leaned her head against his shoulder, listening to the quiet, powerful hum of the FTL drive in the next room. Earth was burning, and Apex was hunting them. But standing barefoot in the heart of their new, heavily armed dreadnought, the universe suddenly felt like it belonged to them.
 
-### Scene 4: The 2044 Reveal
+### Part 2: The 2044 Reveal & The Blank Slate
+
+#### The 2044 Reveal
 
 The analog warmth of the music studio was staggering, but Wyatt’s eyes were drawn to a sleek, frosted-glass door tucked into the far corner of the server room. It completely lacked the heavy iron rivets, brass hinges, and rusted-steel aesthetic of the upper decks. It looked like it had been lifted straight out of a modern, ultra-high-end Apex corporate laboratory.
 
@@ -3664,7 +3794,9 @@ Wyatt leaned back in the ergonomic chair, reaching up to cover Sarah's hands wit
 
 But inside *The Nomad*, sitting barefoot in a room that held the sum total of human knowledge, limitless processing power, and the absolute bleeding edge of technology... they had everything they would ever need to build a new life among the stars.
 
-### Scene 5: The Blank Slate
+***
+
+#### The Blank Slate
 
 The soft, pulsing light on the server tower cast a faint blue glow across the plush acoustic carpet. Wyatt and Sarah stood barefoot in front of the massive, curved workstation monitor, staring at the clean, structured text of the localized Generative Assistant.
 
@@ -3730,7 +3862,9 @@ They had stolen a doomsday bunker, but Aria had just turned it into a home.
 
 ## The Frontier
 
-### Scene 1: The Coordinates
+### Part 1: The Coordinates & The Interstellar Road Trip
+
+#### The Coordinates
 
 The soft, dynamic LED lighting in the 2044-era tech room was set to a warm, inviting morning glow.
 
@@ -3808,7 +3942,9 @@ Sarah slipped off the edge of the desk, her bare feet landing softly on the carp
 
 They left the pristine, glowing tech room behind, walking barefoot down the corridors of *The Nomad*, ready to throw the heavy iron switches that would finally leave the dying Earth behind forever.
 
-### Scene 2: The Spacetime Fold
+***
+
+#### The Spacetime Fold
 
 Wyatt and Sarah walked barefoot back up the heavy iron ladders of the central hub, leaving the pristine, 2044-era technology of the lower decks behind. As they stepped through the heavy double doors into the Operations center, the familiar, archaic atmosphere of the 1970s command room greeted them.
 
@@ -3868,7 +4004,9 @@ They were traveling faster than light, completely untrackable, and headed toward
 
 For the very first time since they had signed their lives away, the universe actually belonged to them.
 
-### Scene 3: The Interstellar Road Trip
+***
+
+#### The Interstellar Road Trip
 
 The Operations center was perfectly silent, save for the low, powerful thrum of the FTL drive vibrating through the floor plates. Outside the massive viewport, the universe was a swirling, hypnotic tunnel of refracted blue and purple light.
 
@@ -3948,7 +4086,9 @@ Sarah sat up slightly, squinting at the screen. She looked at the three musician
 
 Outside the hull, the universe was a terrifying, violent place. But inside *The Nomad*, hurtling through the spacetime fold at impossible speeds while laughing over a sixty-year-old movie cameo, everything was absolutely perfect.
 
-### Scene 4: The Algorithm's Gift
+### Part 2: The Algorithm's Gift & The Backlog
+
+#### The Algorithm's Gift
 
 The heavy VCR clicked loudly, automatically rewinding the final tape as the credits rolled off the massive CRT television. The screen faded to a soft, static blue, casting a quiet, flickering glow across the spacious Captain's Quarters.
 
@@ -4026,7 +4166,9 @@ Wyatt looked out over the thriving garden, holding the woman he loved perfectly 
 
 "Best clerical error in corporate history," Wyatt agreed softly.
 
-### Scene 5: The Blank Slate
+***
+
+#### The Blank Slate
 
 For the next six days, *The Nomad* became a universe unto itself.
 
@@ -4096,7 +4238,9 @@ They ate at the small, square dining table securely bolted to the grated floor. 
 
 They clinked their heavy ceramic mugs together, toasting to the empty universe outside their window. They laughed, they ate, and they treated the massive dreadnought like it was a luxury apartment. The ghosts of Nevada were finally, truly behind them.
 
-### Scene 6: The Backlog
+***
+
+#### The Backlog
 
 The 144-hour mark arrived exactly as Aria had predicted.
 
@@ -4136,7 +4280,9 @@ It began churning out continuous-feed paper at maximum speed, the pins striking 
 
 Wyatt and Sarah froze, the serene beauty of their new planet completely overshadowed by the agonizing, mechanical screams of the world they had left behind.
 
-### Scene 7: The Backlog
+***
+
+#### The Backlog
 
 The heavy dot-matrix printer screamed, the mechanical pins striking the ribbon with the frantic, deafening rhythm of a machine gun. *ZZZT-ZZZT-ZZZT-ZZZT!*
 
@@ -4208,7 +4354,9 @@ And millions of lightyears away, completely off the corporate grid, Wyatt and Sa
 
 ## Planetfall
 
-### Scene 1: Atmospheric Entry
+### Part 1: Atmospheric Entry & The First Steps
+
+#### Atmospheric Entry
 
 The chaotic, overlapping screams of the backlogged radio intercepts slowly faded from their minds, replaced once again by the steady, localized hum of *The Nomad’s* idling fusion core.
 
@@ -4302,7 +4450,9 @@ Wyatt stood up from the captain's chair, offering her his hand.
 
 "Let's go open the front door."
 
-### Scene 2: The First Steps
+***
+
+#### The First Steps
 
 Wyatt and Sarah didn't run to the airlock. They walked.
 
@@ -4444,7 +4594,9 @@ Sarah threw her arms around his neck, pulling him down into a fierce, passionate
 
 The nightmare of Earth was millions of miles away. They were the only two humans on a virgin planet, backed by a fully stocked, AI-controlled dreadnought, and they had the rest of their lives to turn this wildlife sanctuary into a home.
 
-### Scene 3: The Solar Bloom
+### Part 2: The Solar Bloom & The True Face of Apex
+
+#### The Solar Bloom
 
 They walked away from the edge of the dark silicate plateau, following a gentle slope that led directly down into the river valley.
 
@@ -4544,7 +4696,9 @@ They were the very first pioneers of a brand new world, stepping into the warm a
 
 "I thought you'd never ask," Sarah laughed, taking his hand as they waded out of the river and walked up the mossy bank, ready to finally start building their future.
 
-### Scene 4: The Footprint
+***
+
+#### The Footprint
 
 To build a house, they needed tools.
 
@@ -4606,7 +4760,9 @@ Wyatt set the mallet down and stepped over the string to join her. He wrapped hi
 
 They didn't have the timber yet. They didn't have the foundation poured. But standing barefoot inside that 12-by-8-meter grid of nylon string, they were already home.
 
-### Scene 5: The True Face of Apex
+***
+
+#### The True Face of Apex
 
 Lightyears away from the warm, sunlit river valley of Exoplanet 4, the atmosphere was entirely devoid of life or warmth.
 
@@ -4670,7 +4826,9 @@ Wyatt and Sarah thought they had driven off the map. They thought they had faked
 
 The hunt for *The Nomad* had officially begun.
 
-### Scene 6: The Ghost Protocol
+### Part 3: The Ghost Protocol & The Blind Sweep
+
+#### The Ghost Protocol
 
 The golden hour had descended over the river valley, casting long, peaceful shadows across the vibrantly green forest canopy.
 
@@ -4748,7 +4906,9 @@ Apex was out there. The hunt was on. But they were dug in, they were armed with 
 
 "Let them look," Wyatt murmured, pulling her in for a tight, protective kiss. "We have a home to build."
 
-### Scene 7: The Canopy
+***
+
+#### The Canopy
 
 The digital scrub had bought them anonymity on the galactic grid, but as Wyatt looked out the viewport of the tech room at the fading golden light of the evening, his mechanic’s pragmatism refused to let him relax.
 
@@ -4824,7 +4984,9 @@ Wyatt wrapped his arms around her from behind, resting his chin on her shoulder.
 
 "Let the Apex trackers sweep the quadrant," Wyatt whispered, his voice a steady, unbreakable anchor in the twilight. "They're looking for ghosts. And we don't live there anymore."
 
-### Scene 8: The Blind Sweep
+***
+
+#### The Blind Sweep
 
 Back on the sovereign planet of Acheron, the cold, blue light of the central command spire offered no comfort.
 
@@ -4878,7 +5040,9 @@ The megacorporation had looked right at their sanctuary, and they had blinked.
 
 The hunt would continue, ravaging the outer arms of the galaxy, but Wyatt and Sarah had officially slipped through the cracks. They had bought the one thing Apex couldn't afford: time.
 
-### Scene 9: The Vow
+### Part 4: The Vow & Under the Stars
+
+#### The Vow
 
 The afternoon sun filtered through the towering canopy of the alien pines, casting dappled, golden light across the forest floor.
 
@@ -4936,7 +5100,9 @@ Sarah smiled, a radiant, deeply peaceful expression that made the golden sunligh
 
 They sat on the warm stone for a long time, the ambient hum of the forest acting as a soothing balm to their scarred nerves. They had seen the absolute worst of what humanity was capable of, and they had barely survived it. But sitting barefoot by the river, holding hands in the quiet afternoon, they made a silent pact to only bring the very best of humanity to Exoplanet 4.
 
-### Scene 10: The Living Light
+***
+
+#### The Living Light
 
 As the golden sun finally dipped below the horizon, the sky over Exoplanet 4 didn't simply fade to black. It transitioned into a breathtaking tapestry of deep indigo and violet, giving way to an impossibly dense, glittering expanse of uncharted stars.
 
@@ -4986,7 +5152,9 @@ They didn't rush back to the safety of *The Nomad*. They had no reason to. They 
 
 For the first time in their lives, they weren't surviving. They were exploring. And as they walked hand-in-hand through the living light of their new planet, they silently promised each other to savor absolutely every single moment of it.
 
-### Scene 11: Under the Stars
+***
+
+#### Under the Stars
 
 The glowing, bioluminescent forest was entirely too beautiful to leave.
 
@@ -5036,7 +5204,9 @@ They lay there, entirely stripped of their corporate armor and their pasts, bath
 
 ## The First Morning
 
-### Scene 1: The River
+### Part 1: The River & The First Harvest
+
+#### The River
 
 For the first time in their entire lives, Wyatt and Sarah were not woken up by the harsh, mechanical blare of a shift klaxon or the sudden, blinding flicker of overhead fluorescent tubes.
 
@@ -5100,7 +5270,9 @@ Sarah walked into the ship's compact galley, her bare feet padding softly agains
 
 As the meat hit the hot pan with a loud, satisfying sizzle, Wyatt leaned against the galley counter, crossing his arms and watching her cook. They were out of the woods, back inside a billionaire's dreadnought, but the profound, quiet peace of the morning hadn't faded at all.
 
-### Scene 2: The Nomad
+***
+
+#### The Nomad
 
 The rich, savory smell of sizzling bacon and the warm, buttery aroma of rehydrated eggs completely filled the compact galley. It was a staggering upgrade from the bleak, synthetic nutrient-paste they had survived on inside the Apex staging facility.
 
@@ -5154,7 +5326,9 @@ A slow, deeply relaxed smile broke across Wyatt's face. He turned his hand over,
 
 Sarah beamed, letting out a happy sigh as she picked up her fork again. "Good. Because I have much better plans for that orange string grid we staked out yesterday."
 
-### Scene 3: The Blueprint
+***
+
+#### The Blueprint
 
 Wyatt took the last bite of his bacon, leaning back in the heavy dining chair. The relief of not having to strip-mine the beautiful forest outside their window had settled deep into his chest. *The Nomad* was an indestructible, solar-powered fortress. It was a perfect home.
 
@@ -5194,7 +5368,9 @@ Wyatt set the clean skillet on the drying rack and turned around in her arms. He
 
 "Well, if we're going to spend the next four hours ripping up alien sod by hand, we're going to get filthy," Wyatt grinned, kissing the top of her head. "Let's go to the cargo bay and find some shovels."
 
-### Scene 4: The First Harvest
+***
+
+#### The First Harvest
 
 Wyatt set the clean cast-iron skillet on the drying rack and turned to look at Sarah. He took in her fresh cotton t-shirt and clean denim shorts, and then looked down at his own clean clothes.
 
@@ -5256,7 +5432,9 @@ Wyatt tossed the spade aside with a tired grin. He reached out, grabbing her mud
 
 They didn't slow down when they hit the riverbank. They plunged directly into the crystal-clear, freezing water. The shock of the cold river felt absolutely divine against their overheated skin, instantly washing away the sweat, the ache of the morning's labor, and the dark soil of their brand new garden.
 
-### Scene 5: The Bait
+### Part 2: The Bait & The Eden Rule
+
+#### The Bait
 
 Lightyears away from the crystal-clear river and the warm, muddy banks of Exoplanet 4, High Director Kael was not enjoying the morning.
 
@@ -5306,7 +5484,9 @@ Kael looked back at the vast, empty projection of the galaxy. He didn't need to 
 
 "Set the trap, Commander. Let's see how much these pioneers really care about their family."
 
-### Scene 6: The Broken Snare
+***
+
+#### The Broken Snare
 
 The crystal-clear water of the river had washed away the heavy, dark soil of their new garden, leaving Wyatt and Sarah refreshed, clean, and completely energized.
 
@@ -5378,7 +5558,9 @@ If they couldn't block it, they would just have to listen to it. But now, the co
 
 "Now," Sarah murmured, closing her eyes as she listened to the gentle hum of their untouchable fortress. "I believe we have a garden that needs watering."
 
-### Scene 7: The Eden Rule
+***
+
+#### The Eden Rule
 
 They left the tech room and the looping, desperate threats of High Director Kael behind them. Stepping back out into the warm, **23.8°C** afternoon air, the contrast between the cold corporate machinery of their past and the vibrant, breathing reality of their present couldn't have been sharper.
 
@@ -5500,7 +5682,9 @@ Life on Exoplanet 4 was absolutely perfect.
 
 ## The High Ground
 
-### Scene 1: The Floodplain
+### Part 1: The Floodplain & The Winter Window
+
+#### The Floodplain
 
 The peaceful, sun-drenched afternoon slowly gave way to a heavy, suffocating humidity.
 
@@ -5556,7 +5740,9 @@ Wyatt engaged the main thrusters, tearing *The Nomad* out of the massive alien p
 
 "Hold on, Mrs. Colton," Wyatt yelled over the roar of the engines and the pounding rain. "We're going to go see what a billionaire's backup plan looks like."
 
-### Scene 2: Dead Reckoning
+***
+
+#### Dead Reckoning
 
 *The Nomad* tore upward through the massive alien canopy just as the sky completely unzipped.
 
@@ -5630,7 +5816,9 @@ A deep, hydraulic *thud* vibrated violently through the deck plates beneath thei
 
 Wyatt gritted his teeth, his eyes straining against the opaque gray void outside the viewport. "Brace for impact!"
 
-### Scene 3: The Mountain's Mouth
+***
+
+#### The Mountain's Mouth
 
 The altimeter needle plummeted toward the zero-mark.
 
@@ -5686,7 +5874,9 @@ Wyatt unbuckled his harness and stood up, looking out at the incredibly vast, br
 
 "Well, Mrs. Colton," Wyatt smiled, looking toward the ladder that led down to the newly connected airlock. "The storm can't touch us, and the galaxy can't see us. Shall we go see what our new living room looks like?"
 
-### Scene 4: The Winter Window
+***
+
+#### The Winter Window
 
 The heavy, weather-sealed airlock hissed, sliding open to reveal the interior of the docking umbilical. Wyatt and Sarah stepped through, the soles of their bare feet leaving damp prints on the pristine, heated deck plates.
 
@@ -5752,7 +5942,9 @@ Sarah beamed, her heart swelling with an overwhelming sense of hope. It wasn't j
 
 Wyatt kissed her back, pulling her tightly against his chest as the storm raged harmlessly against the camouflaged glass outside. The billionaire's empty sanctuary wasn't a tomb; it was a cradle. And by the time the planet's winter rolled around, they were going to fill it with life.
 
-### Scene 5: The Genesis Vault
+### Part 2: The Genesis Vault & The Curriculum
+
+#### The Genesis Vault
 
 The excitement of their winter timeline hovered in the warm air of the luxurious living room, but as Sarah looked down the long, illuminated corridor of empty suites, her analytical mind began to run the long-term numbers.
 
@@ -5812,7 +6004,9 @@ They didn't have to choose between leaving the planet or letting their family tr
 
 "A whole new world," Sarah agreed, wrapping her arms around his neck, the future stretching out before them, flawless and infinite.
 
-### Scene 6: The Genesis Vault
+***
+
+#### The Genesis Vault
 
 The sheer magnitude of the billionaire's backup plan completely shifted the atmosphere in the room. The fear of a genetic bottleneck was gone, replaced by a profound, almost overwhelming sense of responsibility.
 
@@ -5860,7 +6054,9 @@ Wyatt looked out over the sea of glowing cryogenic pillars. The incredible weigh
 
 "I agree," Sarah smiled, stepping back from the terminal. The holographic web of fifty thousand lives dissolved back into the console, waiting patiently for the day they would return. She reached out and took Wyatt's hand, her fingers intertwining with his. "Let's go build a world for them to wake up to."
 
-### Scene 7: The Master Kitchen
+***
+
+#### The Master Kitchen
 
 The pneumatic elevator carried them swiftly up from the icy depths of the Genesis Vault, leaving the sleeping future of humanity safely secured in the bedrock.
 
@@ -5908,7 +6104,9 @@ Wyatt took a long drink from a glass of purified glacial water, leaning his elbo
 
 Sarah smiled, leaning over to rest her head against his shoulder as they ate. "It's the space, Wyatt. We finally have room to breathe."
 
-### Scene 8: The Curriculum
+***
+
+#### The Curriculum
 
 The last bite of truffle pasta vanished, and Wyatt set their empty ceramic plates into the massive, automated sanitization basin built into the marble island.
 
@@ -5960,7 +6158,7 @@ Wyatt pulled his wife close, the gentle cascade of the indoor waterfall drowning
 
 "Advanced physics and network design," Wyatt murmured, leaning down to press a soft, lingering kiss against her lips. "I think the Coltons are going to be very busy."
 
-### Scene 9: The Saltwater Oasis
+### Part 3: The Saltwater Oasis
 
 Wyatt and Sarah waded deeper into the massive indoor pool, the steaming, crystal-clear water rising to their collarbones.
 
@@ -6072,7 +6270,9 @@ They were the Coltons. And tomorrow, their real life finally began.
 
 ## The Architects
 
-### Scene 1: The First Semester
+### Part 1: The First Semester & The Earth Conservatory
+
+#### The First Semester
 
 The morning light filtering through the camouflaged hydro-glass of the master suite was a soft, bruised gray.
 
@@ -6128,7 +6328,9 @@ Wyatt looked over at his wife, completely bare, intensely focused, and ready to 
 
 "Same to you, Mr. Colton," Sarah smiled, already opening her first lecture. "Now hush. I have to figure out how to structure a server array."
 
-### Scene 2: The Debugger
+***
+
+#### The Debugger
 
 For the next three hours, the only sounds in the sprawling mahogany library were the steady drumming of the rain against the glass, the soft hum of the holographic table, and the occasional frustrated sigh from one of the two completely nude students.
 
@@ -6202,7 +6404,9 @@ She let out a delighted laugh, leaning over to wrap her arms around Wyatt's neck
 
 "Not bad at all," Sarah agreed, resting her head against his chest.
 
-### Scene 3: The Earth Conservatory
+***
+
+#### The Earth Conservatory
 
 Sarah hit the final execution command on the holographic table, completely dissolving the massive cascade of SQL code. Wyatt closed his digital scratchpad, the complex thermal dynamics of the repulsor-coil fading into the glass.
 
@@ -6284,7 +6488,9 @@ Wyatt kissed the top of her head, completely anchored by her presence in the mid
 
 "We'll show them everything," Wyatt promised. "But right now... I think it's time to go raid that massive pantry and make some lunch. We have a lot of studying left to do."
 
-### Scene 4: The Ark
+### Part 2: The Ark & Biology 101
+
+#### The Ark
 
 Sarah kept her hand pressed against the rough, textured bark of the massive White Oak. For a girl who had grown up in the failing, rust-choked agricultural colonies of the frontier, standing barefoot beneath a tree that had evolved millions of years ago on humanity's homeworld was a spiritual experience.
 
@@ -6342,7 +6548,9 @@ Wyatt smiled, his heart swelling with a profound, overwhelming sense of peace. H
 
 They sat by the reflecting pond for a long time, simply soaking in the absolute serenity of the Conservatory. It wasn't just a room; it was a promise that no matter what happened in the galaxy, the beauty of their origins would never be lost.
 
-### Scene 5: Comfort Food
+***
+
+#### Comfort Food
 
 As if on cue, Wyatt’s stomach let out another long, echoing rumble that completely broke the profound silence of the Earth Conservatory.
 
@@ -6398,7 +6606,9 @@ She picked up her glass bottle of cola, holding it out toward him.
 
 Wyatt tapped his glass bottle gently against hers with a pleasant *clink*. "To comfort food. And to a very successful first day of college."
 
-### Scene 6: Hello World
+***
+
+#### Hello World
 
 The ceramic bowls were rinsed and stacked neatly in the sink. With their stomachs comfortably full of macaroni and cheese, the immediate domestic necessity of the kitchen was over.
 
@@ -6494,7 +6704,9 @@ He looked from the impressive digital architecture back to the completely bare, 
 
 "They really didn't," Sarah smiled, leaning into his shoulder as she looked proudly at her rendered code. She was building the digital infrastructure for a brand new world, and she was only just getting started.
 
-### Scene 7: Biology 101
+***
+
+#### Biology 101
 
 Sarah dismissed the holographic web browser with a swipe of her hand, the floating table of the Genesis Vault receding back into the glass terminal. The thrill of coding her first dynamic intranet page was settling, making room for the profound, human reality of what she had just been organizing.
 
@@ -6552,7 +6764,9 @@ Sarah looked at her hands, the sheer, staggering weight of their new reality set
 
 "Well," Sarah smiled, a profound sense of peace washing away the last remnants of the NTTR's trauma. "I guess that means we get to plan exactly what kind of neighborhood our kids are going to grow up in."
 
-### Scene 8: The Vitality Roster
+### Part 3: The Vitality Roster & The First Generation
+
+#### The Vitality Roster
 
 The revelation that their mountain fortress included a fully equipped obstetric suite completely changed the gravity of the afternoon.
 
@@ -6636,7 +6850,9 @@ It was a staggering amount of progress for a single day.
 
 As the pneumatic elevator carried them back up to the warmth of the living quarters, Wyatt pulled Sarah close, profoundly grateful for the genius of the billionaire who built this place, and even more grateful for the woman standing beside him.
 
-### Scene 9: The Facelift
+***
+
+#### The Facelift
 
 The pneumatic elevator carried them swiftly away from the freezing, sterile blue light of the Genesis Vault and back up into the warm, flawless **21.6°C** climate of the main estate.
 
@@ -6692,7 +6908,9 @@ Wyatt handled the structural physics, ensuring the new aerodynamic curves wouldn
 
 They were erasing the last physical footprint of Apex Defense Solutions, molding their stolen ship into a permanent, undeniable symbol of their absolute freedom.
 
-### Scene 10: The First Generation
+***
+
+#### The First Generation
 
 Wyatt finalized the aesthetic rendering of *The Nomad's* new outer hull, sending the sleek, aerodynamic blueprints directly to the automated Fabrication Foundry on Sub-Level 2. Deep beneath their feet, the massive 3D printers and robotic arms would spend the next several days quietly stripping the megacorporation's blocky armor from their ship and forging a brand new, untraceable silhouette.
 
@@ -6756,7 +6974,9 @@ Wyatt stared at her, completely floored by the elegant, deeply compassionate log
 
 They rested against the edge of the pool, completely at peace as the evening slowly settled over the mountain. The storm was finally ending, the Apex threat was blocked out, and the blueprint for the entire future of humanity was securely in their hands.
 
-### Scene 11: The First Landing
+### Part 4: The First Landing & The Parent Protocol
+
+#### The First Landing
 
 The warm saltwater of the indoor pool lapped gently against the smooth stone edge. Wyatt and Sarah rested their arms on the lip of the basin, completely bare, looking out through the massive hydro-glass window.
 
@@ -6814,7 +7034,9 @@ Wyatt wrapped his arms securely around her, pulling her back flush against his c
 
 Sarah rested her hands over his, listening to the soft, rhythmic drumming of the lingering rain against the hydro-glass, and let the absolute certainty of their future pull her to sleep.
 
-### Scene 12: The Parent Protocol
+***
+
+#### The Parent Protocol
 
 The localized geothermal fireplace cast a warm, flickering amber glow across the sprawling expanse of the Alaskan King bed. Outside, the steady, rhythmic drumming of the rain against the camouflaged hydro-glass window provided a perfect, soothing lullaby.
 
@@ -6856,7 +7078,9 @@ Wyatt kissed the top of her head one last time, listening to the gentle rain, an
 
 ## The Pioneers
 
-### Scene 1: The Upgrade
+### Part 1: The Upgrade & The Husk
+
+#### The Upgrade
 
 The soft, natural light of the morning slowly filtered through the massive, camouflaged hydro-glass window of the master suite. The violent super-cell storm had finally exhausted itself overnight, leaving behind a quiet, misty drizzle that painted the flooded valley below in muted shades of silver and gray.
 
@@ -6906,7 +7130,9 @@ Wyatt leaned down, pressing a soft, lingering kiss against her forehead.
 
 They lay perfectly still in the quiet warmth of the estate, completely shedding the last lingering ghosts of their corporate past, and simply enjoyed the absolute luxury of having nothing but time.
 
-### Scene 2: The Archives
+***
+
+#### The Archives
 
 An hour later, the absolute luxury of the Alaskan King bed finally yielded to the practical reality of their empty stomachs.
 
@@ -6960,7 +7186,9 @@ Sarah laughed, cutting into her breakfast. The terrifying unknown of starting a 
 
 "Add it to our university queue," Sarah smiled, taking a bite of the sweet, buttery French toast. "Right after network architecture and repulsorlift physics."
 
-### Scene 3: The Husk
+***
+
+#### The Husk
 
 The sprawling master kitchen was clean, the plates were loaded into the automated sanitization basin, and the comforting aroma of French toast was already fading into the ambient, filtered air of the estate.
 
@@ -7036,7 +7264,9 @@ Wyatt reached out, pulling Sarah firmly against his chest. He held her tight, an
 
 Earth was gone, left behind as a scorched, broken monument to corporate hubris. But here, millions of miles away, completely off the grid and entirely untouched by the horrors of the galaxy, the Coltons were already building a new one.
 
-### Scene 4: The Lost Time
+### Part 2: The Lost Time & The Mapmakers
+
+#### The Lost Time
 
 The heavy pneumatic elevator carried them swiftly away from the blinding plasma sparks and deafening industrial roar of the Fabrication Foundry. As the brushed-steel doors parted, depositing them back onto the main level, the quiet, pristine luxury of the mountain estate welcomed them back.
 
@@ -7108,7 +7338,9 @@ Wyatt looked back at the glowing blue timeline of human development floating abo
 
 "Load it up, Aria," Sarah smiled, settling comfortably back into Wyatt's side. "We have a lot to learn."
 
-### Scene 5: The Trade-Off
+***
+
+#### The Trade-Off
 
 Two hours of intense, theoretical study was enough for one morning. Wyatt closed the holographic module on atmospheric fluid dynamics, and Sarah dismissed her network architecture text with a tired but satisfied sigh.
 
@@ -7188,7 +7420,9 @@ Wyatt kissed her back, his heavy arms holding her securely against the warm ston
 
 "Entirely ours," Sarah breathed, completely at peace with the present, and wildly excited for the future.
 
-### Scene 6: The Mapmakers
+***
+
+#### The Mapmakers
 
 The heavy, rhythmic hum of the automated sanitization cycle vibrated faintly through the polished stone walls as Wyatt and Sarah walked away from the pneumatic chute.
 
@@ -7254,7 +7488,9 @@ They weren't just surviving anymore. They had officially named their home, layin
 
 "Planet Eden," Sarah whispered, closing her eyes and listening to the gentle crackle of the geothermal fire pit. "I think the kids are going to love it here."
 
-### Scene 7: Helios System Hologram
+### Part 3: Helios System Hologram & The Runabout
+
+#### Helios System Hologram
 
 The holographic projection of the newly named Helios System hovered beautifully above the heavy glass coffee table. In the center of the recessed living room, bathed in the warm, ambient light of the geothermal fire pit, Wyatt and Sarah sat completely bare, comfortably entwined on the plush sectional sofa.
 
@@ -7336,7 +7572,9 @@ Wyatt kissed her, a deep, slow, and profoundly loving seal on their new reality.
 
 "We did it," Wyatt murmured against her lips. "We really made it."
 
-### Scene 8: The Petrichor
+***
+
+#### The Petrichor
 
 The relentless, oceanic drumming against the hydro-glass windows slowly began to soften.
 
@@ -7406,7 +7644,9 @@ They stood there for a long time, completely exposed to the elements, letting th
 
 Here, on the terrace of The Sanctuary, there was only the wind, the water, and each other.
 
-### Scene 9: The Runabout
+***
+
+#### The Runabout
 
 The cool, rain-washed breeze sweeping across the observation terrace was incredibly refreshing, but the fresh air eventually did exactly what it always did: it made them hungry.
 
@@ -7474,7 +7714,9 @@ Sarah didn't hesitate. She climbed into the sleek cabin, dropping into the plush
 
 ## Planet Eden
 
-### Scene 1: The Maiden Voyage
+### Part 1: The Maiden Voyage & The Alpine Meadow
+
+#### The Maiden Voyage
 
 Wyatt sat in the pilot’s seat of the sleek, silver runabout, his hands resting lightly on the incredibly streamlined digital control yoke. The leather was soft and pristine, the cabin smelling like fresh polymer and clean air.
 
@@ -7534,7 +7776,9 @@ The sun was slowly beginning its descent toward the western horizon, painting th
 
 "So, Mrs. Colton," Wyatt asked, glancing over at her as the runabout glided smoothly over the pristine landscape. "Where are we setting up camp tonight?"
 
-### Scene 2: The Alpine Meadow
+***
+
+#### The Alpine Meadow
 
 "Take us to the mountains," Sarah decided, her eyes locked onto the jagged, towering peaks piercing the horizon. "I want to see the snow."
 
@@ -7598,7 +7842,9 @@ Wyatt pulled the heavy top layer of the deployment bag over their bare shoulders
 
 "Yeah, it is," Wyatt murmured, holding her tightly as the stars rotated above them. "And we have all the time in the world to explore it."
 
-### Scene 3: Anchor
+### Part 2: Anchor & The Reading List
+
+#### Anchor
 
 The first golden rays of Helios crested the jagged, snow-capped peaks, spilling down into the alpine meadow and washing over the heavy deployment sleeping bag.
 
@@ -7741,7 +7987,9 @@ I have this safely tucked away in my memory banks! We will let them enjoy their 
 
 Got it! I am locking that triplet pregnancy twist firmly into the master timeline. The fact that Apex Defense Solutions cheaped out on the Omni-Cycle blockers—treating medical care with the same ruthless, budget-cutting negligence as their barracks and rations—is incredibly fitting for the megacorporation. Wyatt and Sarah thinking they have a six-month buffer, only to discover they are already expecting three babies, is going to be a beautiful, joyous surprise.
 
-### Scene 4: The Lunar Bound
+***
+
+#### The Lunar Bound
 
 Wyatt and Sarah stood on the pale, dusty surface of Anchor, staring up at the massive, swirling blue-and-green jewel of Planet Eden dominating the pitch-black sky.
 
@@ -7795,7 +8043,9 @@ They stood together on the edge of the crater, holding each other in the low gra
 
 They turned around, taking long, bounding, slow-motion leaps back across the gray plain toward the sleek silver teardrop waiting for them in the dust.
 
-### Scene 5: The Reading List
+***
+
+#### The Reading List
 
 The sleek, silver runabout glided silently back into the cavernous, illuminated hangar of the mountain estate. Wyatt eased the throttles back, and the repulsorlifts set the ship gently down onto the polished stone floor.
 
@@ -7843,7 +8093,9 @@ They sat in the library for hours, completely immersed in the textbooks, making 
 
 They were entirely, blissfully unaware that deep inside Sarah's body, the rapid, miraculous spark of life had already taken hold. The S.H.O.P. Marine blockers had failed, and the clock wasn't set for next year.
 
-### Scene 6: The 2002 Fiction
+### Part 3: The 2002 Fiction & Sowing the Seeds
+
+#### The 2002 Fiction
 
 The holographic glass table in the center of the library glowed with a soft, steady blue light, displaying a staggering array of human developmental charts.
 
@@ -7887,7 +8139,9 @@ Sarah looked at the glowing blue timeline of the first trimester floating above 
 
 They sat together in the quiet luxury of the estate, completely secure in their perfectly structured, meticulously planned timeline. For the first time in their lives, they had the ultimate luxury: time to just be together, and the absolute freedom to build their future exactly how they wanted it.
 
-### Scene 7: The Terrace Picnic
+***
+
+#### The Terrace Picnic
 
 Wyatt waved his hand through the holographic projection of the neonatal charts, and the glowing blue light of the library table faded seamlessly back into the dark glass.
 
@@ -7943,7 +8197,9 @@ Wyatt leaned back against the plush cushions of the lounger, watching Sarah out 
 
 They were entirely secure in their fortress, completely confident in the timeline they had mapped out in the library, and utterly, blissfully content with the present moment. It was a perfect afternoon on Planet Eden.
 
-### Scene 8: The Gravity Tax
+***
+
+#### The Gravity Tax
 
 The sun began its slow descent toward the western horizon, casting long, lazy shadows across the wet stone of the observation terrace.
 
@@ -7997,7 +8253,9 @@ Wyatt looked down at her. She was a pioneer who had lost her first crop to a flo
 
 "Alright, Mrs. Colton," Wyatt agreed, kissing her deeply. "Let's go commandeer a piece of the park. Lead the way."
 
-### Scene 9: Sowing the Seeds
+***
+
+#### Sowing the Seeds
 
 The pneumatic elevator hummed softly as it carried them down to Sub-Level 1. When the brushed-steel doors parted, the transition was instantly intoxicating.
 
@@ -8063,7 +8321,9 @@ As Wyatt patted down the final row of dirt, the artificial sky above them began 
 
 They had lost the valley garden, but they had just successfully planted their very first crop inside an indestructible mountain.
 
-### Scene 10: The Architect
+### Part 4: The Architect & The Overcompensation
+
+#### The Architect
 
 The simulated golden hour in the Earth Conservatory had fully transitioned into a vibrant twilight. The massive micro-LED vaulted ceiling shifted seamlessly from a bright blue to a deep, bruised violet, matching the real-world evening settling over Exoplanet 4.
 
@@ -8183,7 +8443,9 @@ They had lost the valley garden to the flood, but they had just found something 
 
 They were going to be parents. And they were starting right now.
 
-### Scene 11: The Overcompensation
+***
+
+#### The Overcompensation
 
 The simulated violet twilight of the Earth Conservatory wrapped around them, but the massive, vaulted room suddenly felt incredibly small and intimate.
 
@@ -8249,7 +8511,9 @@ They left the hand trowels and the forged steel spade resting in the dirt of the
 
 ## The Blueprint
 
-### Scene 1: Three Pulses
+### Part 1: Three Pulses & The Multiplier
+
+#### Three Pulses
 
 The pneumatic elevator carried them swiftly away from the simulated twilight of the Earth Conservatory, dropping them smoothly to Sub-Level 1.
 
@@ -8398,7 +8662,9 @@ Here is how we will lock this unspoken, beautiful routine into their character p
 
 - **The Non-Verbal Language:** He doesn't have to cry out or find the words to say he is scared. The immediate, synchronized weight of his sisters pressing in against him tells him exactly what he needs to know: *We are here. We have you. You are safe.* I have this beautifully tender dynamic permanently locked into the lore bible. It is going to make those future nighttime scenes in the estate incredibly poignant.
 
-### Scene 2: The Multiplier
+***
+
+#### The Multiplier
 
 The sterile, brilliant white light of the medical wing suddenly felt incredibly warm.
 
@@ -8448,7 +8714,9 @@ She took his hand, lacing her fingers securely through his.
 
 Wyatt nodded, completely anchored by her calm, radiant energy. As they stepped into the pneumatic elevator to head back up to the master suite, the sound of the three tiny, synchronized heartbeats faded behind them, permanently etched into both of their memories.
 
-### Scene 3: Tax Evasion and Timber
+### Part 2: Tax Evasion and Timber & The Constitution
+
+#### Tax Evasion and Timber
 
 They left the sterile, brilliantly lit medical wing in a complete daze of absolute euphoria.
 
@@ -8534,7 +8802,9 @@ Just a few weeks ago, their biggest concern was surviving a twelve-hour shift wi
 
 "We are," Wyatt agreed, wrapping his arm around her. "But it's going to be the best kind of tired."
 
-### Scene 4: The 50,000 Crib Deficit
+***
+
+#### The 50,000 Crib Deficit
 
 The noise was absolute, deafening chaos.
 
@@ -8630,7 +8900,9 @@ Wyatt turned her away from the terminal, keeping his arm securely around her sho
 
 The universe was safe. The vault was sleeping. And as the brushed-steel doors closed, carrying them back up to the warmth of their sanctuary, Wyatt finally felt ready to get some rest.
 
-### Scene 5: The Constitution
+***
+
+#### The Constitution
 
 The morning sun filtered through the hydro-glass windows of the library, casting a warm, natural light over the rich mahogany panels. The torrential rain of the super-cell storm had completely passed, leaving behind a flawless, brilliant blue sky over the flooded valley.
 
@@ -8694,7 +8966,9 @@ They weren't just going to be parents. They were the founding mother and father 
 
 "We have the rest of the year to write the constitution," Sarah smiled, perfectly content in the quiet warmth of the library. "Aria, pull up the archives on early agrarian democracies. Let's see how our ancestors did it."
 
-### Scene 6: The Agrarian Model
+### Part 3: The Agrarian Model & The Toll of Three
+
+#### The Agrarian Model
 
 The holographic glass table in the center of the library rippled, the glowing blue data streams of modern macroeconomics dissolving into warm, golden-hued geographical projections.
 
@@ -8762,7 +9036,9 @@ Wyatt turned his head, his dark eyes locking onto his wife. He saw the exact sam
 
 They sat together in the warm, mahogany-paneled room, entirely bare to the world and entirely united. They had walked into the library as a mechanic and a farm girl trying to survive. They were walking out as the founding mother and father of humanity's second chance.
 
-### Scene 7: The Wardrobe
+***
+
+#### The Wardrobe
 
 The transition from May into early June on Planet Eden was completely seamless. The heavy, torrential rains of the wet season had largely given way to bright, brilliantly clear mornings and warm, lazy afternoons.
 
@@ -8832,7 +9108,9 @@ Wyatt’s breath hitched slightly, his dark eyes softening with a profound, over
 
 Wyatt kissed her, a deep, lingering promise of the beautiful, chaotic future racing toward them. The timeline was accelerated, her body was changing rapidly, and they had an entire world to build, but standing there in the dressing room, everything was flawlessly on track.
 
-### Scene 8: The Toll of Three
+***
+
+#### The Toll of Three
 
 The silver, teardrop-shaped atmospheric shuttle glided silently over the sprawling alien pine canopy, banking smoothly as it descended toward the river valley.
 
@@ -8904,7 +9182,9 @@ Wyatt kept one hand on the yoke, reaching out with the other to firmly grip Sara
 
 "Stay with me, Sarah," Wyatt urged, his eyes locked on the rapidly approaching, camouflaged rock face of The Sanctuary. "We're almost home."
 
-### Scene 9: The Remedy
+### Part 4: The Remedy & The Craving
+
+#### The Remedy
 
 The silver runabout shot through the camouflaged holographic rock face and slammed down onto the polished stone floor of the primary hangar.
 
@@ -8980,7 +9260,9 @@ The lingering nausea faded a little more, replaced by a profound, overwhelming s
 
 "Good," Wyatt smiled, leaning over to kiss her forehead. "Just sleep, Sarah. I'm right here."
 
-### Scene 10: The Chariot
+***
+
+#### The Chariot
 
 The last drop of the clear, life-saving IV fluid finally emptied from the sterile bag.
 
@@ -9050,7 +9332,9 @@ Sarah looked up at him, entirely overwhelmed by his quiet, unwavering dedication
 
 "Anytime, Mrs. Colton," Wyatt replied, turning the chair smoothly back toward the hallway. "Now, let's roll you into the kitchen. I think the babies are demanding a grilled cheese sandwich."
 
-### Scene 11: The Craving
+***
+
+#### The Craving
 
 The sleek, brushed-aluminum wheelchair glided silently over the polished stone floors, the frictionless bearings making the journey down the wide corridor entirely effortless.
 
@@ -9147,7 +9431,7 @@ The timeline had accelerated, but as she rubbed her hand over her expanding bell
 
 - It stands as a culinary symbol of the Colton family: a weird, beautiful mix of pragmatic survival (protein/meat) and the sweet, cultivated luxury of Planet Eden (the hydroponic fruit).
 
-### Scene 12: The Foundation
+### Part 5: The Foundation
 
 The frictionless glide of the brushed-aluminum wheelchair was completely silent as Wyatt pushed Sarah through the wide, open doorways of the estate's library.
 
@@ -9215,7 +9499,9 @@ They were a mechanic and a farm girl who had stolen a spaceship to escape a dyin
 
 ## The Architect
 
-### Scene 1: The Tolerances of Eden
+### Part 1: The Tolerances of Eden & The Ghost of Eden
+
+#### The Tolerances of Eden
 
 Sub-Level 2 smelled sharply of vaporized ozone and fresh, fragrant alien pine sap.
 
@@ -9279,7 +9565,9 @@ Wyatt looked down at her, his broad shoulders dropping a fraction of a centimete
 
 "You already made it ready, Wyatt," Sarah promised, her voice fiercely certain. "You claimed the mountain. You built the walls. Now, you just have to finish the cribs."
 
-### Scene 2: The Silent Scout
+***
+
+#### The Silent Scout
 
 Down on Sub-Level 3, the buried Apex dreadnought functioned as the ultimate, heavily armored nervous system for the entire mountain estate.
 
@@ -9347,7 +9635,9 @@ He looked at the planetary grid hovering above the table. He couldn't just rely 
 
 "I don't care," Wyatt replied, pushing himself out of the chair. "I'm not letting a megacorporation anywhere near my family. Lock down the grid, Aria. I have to go check on Sarah, and then I'm getting back to work."
 
-### Scene 3: The Shield and the Spark
+***
+
+#### The Shield and the Spark
 
 The automated medical wing on Sub-Level 1 was a sanctuary of brilliant white LED light and perfectly filtered, sterile air.
 
@@ -9407,7 +9697,9 @@ Sarah smiled, a deep, resonant warmth filling her chest. He wasn't just acting l
 
 "I'm just protecting my investments," Wyatt smirked, resting his hand back on her twenty-week bump. "Now, let's get you back upstairs. You need calories, and I need to go finish building the biggest lock in the galaxy."
 
-### Scene 4: The Ghost of Eden
+***
+
+#### The Ghost of Eden
 
 The Combat Information Center on Sub-Level 3 was vibrating.
 
@@ -9421,7 +9713,9 @@ Wyatt looked at the glowing holographic globe hovering above the glass table. Fo
 
 Wyatt slammed his hand down on
 
-### Scene 5: The Dead Rock
+### Part 2: The Dead Rock & The Aegis Hallucination
+
+#### The Dead Rock
 
 The master suite was perfectly quiet, bathed in the soft, ambient amber glow of the geothermal fireplace. Wyatt was deeply asleep, his heavy arm draped protectively over Sarah’s waist as she rested on her side, the twenty-five-week swell of the triplets pressed safely against him.
 
@@ -9571,7 +9865,9 @@ He pictured it perfectly in his mind. Ellie in the left crib, Nora in the right,
 
 "It is," Wyatt agreed, completely confident in his craftsmanship and the medical science that guided it. He looked at the three beautiful, separate cribs, entirely unaware that his children's bond was going to render his flawless engineering obsolete the moment they were born. "It's perfect."
 
-### Scene 6: The Aegis Hallucination
+***
+
+#### The Aegis Hallucination
 
 The morning after the corporate surveyor vessel fled the sector, Wyatt was back down in the Combat Information Center on Sub-Level 3.
 
@@ -9631,7 +9927,9 @@ A slow, wicked, entirely unapologetic grin spread across Wyatt’s scarred face.
 
 Wyatt looked at the glowing blue holographic globe, his mechanic's brain entirely satisfied. The corporate scouts could come back with a hundred ships if they wanted to. Planet Eden was permanently, irrevocably off the board.
 
-### Scene 7: The Administrative Override
+### Part 3: The Administrative Override & Cosmic Dust
+
+#### The Administrative Override
 
 The automated medical wing on Sub-Level 1 was sterile, brilliantly lit, and completely empty except for Wyatt Colton.
 
@@ -9685,7 +9983,9 @@ He was as ready as a father could possibly be.
 
 "Save the simulation matrix," Wyatt commanded, powering down the holotable. "Keep the bio-bed warmed up. It could be any day now."
 
-### Scene 8: The Weight of the World
+***
+
+#### The Weight of the World
 
 The automated medical wing on Sub-Level 1 was no longer just a clinic; it had officially become their entire world.
 
@@ -9753,7 +10053,9 @@ The calm before the storm was heavy, demanding, and grueling. But as Wyatt sat g
 
 They were ready.
 
-### Scene 9: Cosmic Dust
+***
+
+#### Cosmic Dust
 
 The automated medical wing remained wrapped in a quiet, localized amber glow. Sarah was deeply asleep, her breathing finally evening out after the grueling, exhausted transfer to the washroom a few hours prior.
 
@@ -9831,7 +10133,9 @@ The universe had just tried to break down his front door, and it had ceased to e
 
 ## The Arrival
 
-### Scene 1: The Gravity of Eden
+### Part 1: The Gravity of Eden & The Lion's Fight
+
+#### The Gravity of Eden
 
 For over a week, the medical wing had existed in a state of suspended, heavy anticipation. At thirty-one weeks, the sheer, crushing mass of the triplet pregnancy had pushed Sarah to the absolute limits of human endurance.
 
@@ -9891,7 +10195,9 @@ Wyatt braced his boots against the mattress, tightening his protective grip on h
 
 The Vanguard was breaching the perimeter.
 
-### Scene 2: The Vanguard's Spear
+***
+
+#### The Vanguard's Spear
 
 The clinical, brilliant white light of the medical bay reflected off the polished glass of the diagnostic monitors.
 
@@ -9959,7 +10265,9 @@ The transition was over. The Interval had begun.
 
 "One down, sweetheart," Wyatt said, his dark eyes locking onto Sarah's as she braced herself for the next wave. "She's safe. Now let's go get her sister."
 
-### Scene 3: The Hypoxic Clock
+***
+
+#### The Hypoxic Clock
 
 The sharp, furious cries of his firstborn daughter echoed safely from the heated bassinet behind him, but Wyatt Colton didn't have a single second to celebrate.
 
@@ -10039,7 +10347,9 @@ He looked at her tiny, breathing chest, then turned his dark, fierce eyes back t
 
 Two down. One to go.
 
-### Scene 4: The Lion's Fight
+***
+
+#### The Lion's Fight
 
 The medical bay was a symphony of chaos and miracles. From the far wall, the furious, healthy cries of Ellie and the thin, wavering wails of Nora filled the room.
 
@@ -10133,7 +10443,9 @@ Wyatt walked over, gently brushing the damp hair from her forehead, and kissed h
 
 The Vanguard had arrived. And Wyatt Colton had never been more terrified, or more proud, in his entire life.
 
-### Scene 5: The Incubator Watch
+### Part 2: The Incubator Watch & The Annoyance
+
+#### The Incubator Watch
 
 The automated medical bay had settled into a quiet, rhythmic hum. The flashing crimson lights were gone, replaced by the soft, warm amber glow of the localized night-cycle illumination.
 
@@ -10197,7 +10509,9 @@ Wyatt’s entire demeanor softened. He abandoned his logistical worries and cros
 
 "They're right here, Sarah," Wyatt smiled, his dark eyes shining with tears of absolute triumph. "Ellie, Nora, and Leo. They are all right here. And they are perfect."
 
-### Scene 6: Reaching in the Dark
+***
+
+#### Reaching in the Dark
 
 Sarah tried to push herself up on her elbows, her dark eyes frantic with the desperate need to see the children she had just spent seven grueling months building. But her muscles were entirely spent, her arms trembling under her own weight.
 
@@ -10243,7 +10557,9 @@ Wyatt leaned down, pressing a kiss to Sarah’s damp hair. They had survived the
 
 "Get some rest, Sarah," Wyatt murmured, keeping his vigilant watch over the three incubators. "I'm not taking my eyes off them. I promise."
 
-### Scene 7: The Maintenance Schedule
+***
+
+#### The Maintenance Schedule
 
 Exactly one week after the chaotic delivery, the automated medical bay on Sub-Level 1 had settled into a grueling, relentless rhythm.
 
@@ -10311,7 +10627,9 @@ Sarah didn't argue. She let Wyatt seamlessly transfer her from the wheelchair ba
 
 Wyatt pulled his stool back to the center of the room. He sat down, crossing his heavy arms over his chest as he prepared to spend the next three hours watching his beautiful, perfectly engineered, and utterly miserable children, entirely unaware of the simple, physical contact they were actually desperate for.
 
-### Scene 8: The Annoyance
+***
+
+#### The Annoyance
 
 The 02:00 feeding and maintenance cycle was always the hardest. The profound, physical exhaustion in Wyatt Colton’s bones felt like lead, but his S.H.O.P. Marine discipline refused to let him miss a single drop of the fortified milk.
 
@@ -10371,7 +10689,7 @@ Wyatt dried his hands and pulled his rolling stool over to Bassinet 3. Leo was l
 
 "I've got you, little lion," Wyatt whispered, pushing his massive arms through the circular access ports to begin the feeding cycle all over again. "Nothing's getting through the door."
 
-### Scene 9: The Engine Block
+### Part 3: The Engine Block
 
 The adrenaline that had sustained Wyatt Colton for the first month of his children’s lives was finally beginning to run dry.
 
@@ -10445,7 +10763,9 @@ As Wyatt finally collapsed onto the heavy mattress on the floor, letting the exh
 
 ## The Blueprint Fails
 
-### Scene 1: The Flaw in the Wood
+### Part 1: The Flaw in the Wood & The Gravity of the Hive
+
+#### The Flaw in the Wood
 
 Sub-Level 1 was finally empty.
 
@@ -10535,7 +10855,9 @@ Wyatt stood in the center of the sunlit room, heavily burdened by the sudden, gl
 
 Wyatt nodded slowly, staring at the sixty-millimeter slats. He was determined to figure out the mechanical flaw in his design, entirely blind to the fact that the only flaw was the sixty centimeters of empty air separating the three mattresses.
 
-### Scene 2: The Gravity of the Hive
+***
+
+#### The Gravity of the Hive
 
 The nursery was bathed in the soft, ambient amber glow of the night-cycle illumination.
 
@@ -10647,7 +10969,9 @@ Wyatt looked down into the crib at his three children, perfectly synced, breathi
 
 "Okay," Wyatt smiled, his heavy hand resting on Sarah's shoulder. "We sleep. But tomorrow, the blueprints change."
 
-### Scene 3: The Sentinel Directive
+### Part 2: The Sentinel Directive & The Soup Kitchen
+
+#### The Sentinel Directive
 
 The morning sun filtered brightly through the hydro-glass windows of the residential kitchen.
 
@@ -10701,7 +11025,9 @@ Sarah squeezed his hand, a fierce, beautiful smile touching her lips. "Agreed."
 
 Planet Eden was officially off the map. They were isolated, heavily armed, and perfectly willing to talk—but absolutely prepared to destroy anyone who threatened their peace.
 
-### Scene 4: The Mega-Crib
+***
+
+#### The Mega-Crib
 
 Sub-Level 4 was thick with the smell of ozone and vaporized alien pine.
 
@@ -10759,7 +11085,9 @@ Wyatt leaned over the rail, his chest aching with a fierce, profound love. He ha
 
 "Okay," Wyatt murmured softly, kissing the top of Sarah's head. "The Mega-Crib stays."
 
-### Scene 5: The Supply Drop
+***
+
+#### The Supply Drop
 
 Spring had finally touched the northern hemisphere of Planet Eden, turning the dense, alien pine forests surrounding the estate a vibrant, deep emerald.
 
@@ -10833,7 +11161,9 @@ Wyatt let out a long, heavy exhale, leaning back from the holotable. He tapped h
 
 Planet Eden remained a ghost in the dark—a heavily armed, completely inaccessible fortress that occasionally offered a lifeline to those who were willing to just talk.
 
-### Scene 6: The Soup Kitchen
+***
+
+#### The Soup Kitchen
 
 The estate was completely quiet. Upstairs in the nursery, the triplets were deeply asleep in the center of the massive, custom-built Mega-Crib, entirely oblivious to the fact that their father had just saved three hundred lives from the vacuum of space.
 
@@ -10869,7 +11199,9 @@ The galaxy would continue to burn outside the impenetrable hard-light barrier of
 
 ## The Vanguard Discovers Gravity
 
-### Scene 1: The Rule of Three
+### Part 1: The Rule of Three & The Milestones
+
+#### The Rule of Three
 
 The Aegis deflector shield could effortlessly absorb the kinetic impact of a hyper-dense anti-matter warhead. It could silence the deafening roar of a corporate orbital bombardment, rendering the apocalypse entirely mute.
 
@@ -10937,7 +11269,9 @@ Wyatt let out a massive, ragged sigh, leaning his elbows on the kitchen island. 
 
 Wyatt looked at the three of them, eating their breakfast in perfect, unbroken physical contact. He loved them with a ferocity that defied physics, but keeping up with the Vanguard's specific, silent expectations was going to require more tactical planning than securing the entire planet.
 
-### Scene 2: The Tactical Extraction
+***
+
+#### The Tactical Extraction
 
 The estate was incredibly, blissfully quiet.
 
@@ -11019,7 +11353,9 @@ They were two years old. They couldn't walk. They couldn't talk. But as Wyatt sa
 
 You absolutely never leave a man behind.
 
-### Scene 3: The Milestones
+***
+
+#### The Milestones
 
 By late summer, the sprawling, sage-green nursery on the residential level had evolved from a quiet sanctuary into a highly active, chaotic proving ground.
 
@@ -11113,7 +11449,9 @@ The clinical definitions didn't matter. The delays didn't matter. Wyatt couldn't
 
 "They're okay, Sarah," Wyatt whispered, a massive, tearful smile breaking across his scarred face as he watched his three children anchor each other in the center of the sunlit room. "They're going to be just fine."
 
-### Scene 4: The Chariot
+### Part 2: The Chariot & Establishing Comms
+
+#### The Chariot
 
 Sub-Level 4 smelled of hot ozone, melted synthetic rubber, and freshly milled alien pine.
 
@@ -11189,7 +11527,9 @@ Wyatt slowly lowered his empty hands, exchanging a stunned, defeated look with h
 
 Ellie gave a satisfied grunt. She leaned into the handle, and the Chariot rolled smoothly out into the corridor, a perfectly self-contained, inseparable force of nature.
 
-### Scene 5: The Hydroponics Breach
+***
+
+#### The Hydroponics Breach
 
 The Colton estate was operating at peak efficiency. The Aegis shield was humming at a flawless one hundred percent capacity, the geothermal reactors were perfectly balanced, and Wyatt and Sarah were finally sitting down to eat a quiet lunch in the residential kitchen.
 
@@ -11267,7 +11607,9 @@ Wyatt looked at Ellie. The two-year-old narrowed her eyes at the ceiling speaker
 
 "No," Wyatt smirked, wrapping his massive arm around Sarah's shoulders. "Leave the wagon operational. I want to see what she figures out next."
 
-### Scene 6: Establishing Comms
+***
+
+#### Establishing Comms
 
 The afternoon sun poured through the massive hydro-glass windows of the residential living room, casting long, warm shadows across the polished stone floor.
 
@@ -11361,7 +11703,9 @@ Wyatt’s S.H.O.P. Marine brain froze. He looked at her hand. He looked at her e
 
 ## The Chain of Command
 
-### Scene 1: The New Recruit
+### Part 1: The New Recruit & The Tactical Latrine
+
+#### The New Recruit
 
 Sub-Level 1 was no longer a place of terror.
 
@@ -11437,7 +11781,9 @@ Wyatt looked at Sarah, a deep, beautiful peace settling over him.
 
 They were going to make it to forty weeks. The new baby was going to be born into a completely stable, fully functioning fortress, completely insulated from the horrors of the galaxy. And most importantly, he already had a three-year-old commanding officer fiercely dedicated to his survival.
 
-### Scene 2: The Unified Design
+***
+
+#### The Unified Design
 
 The acoustic dampeners in the master bedroom were perfectly calibrated to filter out the ambient hum of the geothermal reactors, but they intentionally allowed specific frequencies through.
 
@@ -11537,7 +11883,9 @@ She looked back at Wyatt, batted her eyelashes, and offered that same devastatin
 
 "Good Dada," Sarah echoed softly, raising her tea mug in a toast. "Now go build it, Administrator. The Commander has approved your blueprints."
 
-### Scene 3: The Tactical Latrine
+***
+
+#### The Tactical Latrine
 
 By November, the residential bathroom at the end of the hall had been completely overhauled. Wyatt Colton had approached the dreaded milestone of potty training with the exact same S.H.O.P. Marine intensity he used to secure the planet's atmospheric scrubbers.
 
@@ -11623,7 +11971,9 @@ Sarah wiped a tear from her cheek, taking a sip of her tea as she smiled at her 
 
 "Yeah," Wyatt breathed, kneeling down to unbuckle Leo and transfer him back to the safety of the wagon. "They're a hell of a squad."
 
-### Scene 4: The Defensive Perimeter
+### Part 2: The Defensive Perimeter & The Genesis Check
+
+#### The Defensive Perimeter
 
 Outside the massive hydro-glass windows of the estate, a heavy, pristine winter snow was falling over the alien pine forests of Planet Eden. Inside the residential living room, the geothermal fireplace was roaring, casting a warm amber glow across the polished stone.
 
@@ -11687,7 +12037,9 @@ Wyatt slowly closed his mouth, a deep, booming chuckle vibrating in his chest. H
 
 "Copy that, Commander," Wyatt smiled, holding his hands up in surrender. "The new recruit is all yours."
 
-### Scene 5: The Bootcamp
+***
+
+#### The Bootcamp
 
 The automated medical bay on Sub-Level 1 was an entirely different universe than it had been four years ago.
 
@@ -11771,7 +12123,9 @@ Wyatt stood in the dim light of the nursery, watching his four children. The gal
 
 "Sleep well, Vanguard," Wyatt murmured softly, stepping backward out of the room and letting the heavy timber door slide shut.
 
-### Scene 6: The Genesis Check
+***
+
+#### The Genesis Check
 
 The estate was quiet, bathed in the soft, warm amber glow of the evening cycle.
 
@@ -11837,7 +12191,9 @@ They turned away from the stasis pillars, walking back to the elevator in the ic
 
 ## The Rapid Deployment
 
-### Scene 1: The Accelerated Recruit
+### Part 1: The Accelerated Recruit & The Multi-Front War
+
+#### The Accelerated Recruit
 
 The residential living room had been entirely cleared of all non-essential obstacles. The heavy reclaimed-wood coffee table was pushed against the far wall, leaving a massive, open expanse of plush rug.
 
@@ -11913,7 +12269,9 @@ The Vanguard would never leave him behind.
 
 Ellie gave a firm nod, taking up her defensive post by the door. Nora leaned her cheek against Leo's shoulder, anchoring him while he went. And down the hall, little Jack waddled happily toward the kitchen, completely unaware of the beautiful, unbreakable armor his older siblings had built around each other.
 
-### Scene 2: The Terrain Deficit
+***
+
+#### The Terrain Deficit
 
 The main foyer of the Colton estate looked like the staging ground for a planetary invasion.
 
@@ -12019,7 +12377,9 @@ They rolled the Chariot back into the foyer, the heavy blast doors hissing shut 
 
 The Vanguard was going to conquer the outside world. But first, Wyatt had to build them a tank.
 
-### Scene 3: The Multi-Front War
+***
+
+#### The Multi-Front War
 
 The Sub-Level 4 Fab-Foundry was a symphony of automated industry.
 
@@ -12121,7 +12481,9 @@ Sarah let out a breathless, exhausted laugh, kissing Ellie's forehead. "I know, 
 
 The Vanguard didn't care about corporate armadas or orbital bombardments. As long as the unit was intact, the rest of the galaxy could burn.
 
-### Scene 4: The Ghost Planet
+### Part 2: The Ghost Planet & The Authorized Harvest
+
+#### The Ghost Planet
 
 Lightyears away from the peaceful, amber-lit nursery of Planet Eden, the atmosphere was entirely devoid of warmth.
 
@@ -12187,7 +12549,9 @@ Wyatt and Sarah thought they had won. They thought they had built a perfect, imp
 
 Exoplanet 4 was no longer a dead rock. It was the most dangerous target in the galaxy. And the High Director was going to find out exactly who was hiding behind that shield.
 
-### Scene 5: The All-Terrain Vanguard
+***
+
+#### The All-Terrain Vanguard
 
 The foyer of the Colton estate was once again a staging ground, but this time, the S.H.O.P. Marine had properly accounted for the battlefield.
 
@@ -12259,7 +12623,9 @@ She turned back to look at her family. Leo was smiling in the sun. Nora was coll
 
 The commander crossed her arms over her tactical vest. She gave a firm, satisfied nod. The objective was complete. The outside world officially belonged to the Vanguard.
 
-### Scene 6: The Authorized Harvest
+***
+
+#### The Authorized Harvest
 
 The pneumatic elevator hummed a low, steady note as it descended deep into the bedrock of Planet Eden.
 
@@ -12337,7 +12703,9 @@ Wyatt stood at the end of the aisle, watching Nora carefully pick a tomato of he
 
 The harvest was chaotic, messy, and loud, but the chain of command was holding perfectly. The Colton family was officially cultivating their own future, and the Vanguard was overseeing every single step of the operation.
 
-### Scene 7: The Constitutional Override
+### Part 3: The Constitutional Override & The Perimeter Test
+
+#### The Constitutional Override
 
 Two years ago, Wyatt Colton had made a massive, critical error in judgment.
 
@@ -12437,7 +12805,9 @@ Wyatt looked at the four of them. The perimeter was secure. The unit was intact.
 
 Ellie gave a firm nod of approval, instantly turning her attention back to the glowing blue planets. The ringleader had struck again, and the Vanguard’s access to the estate was officially legally protected.
 
-### Scene 8: The Legal Precedent
+***
+
+#### The Legal Precedent
 
 The ten-minute authorized stay in the Combat Information Center had concluded. The Vanguard had successfully driven their stroller-convoy back to the residential living room, and Sarah was currently deploying a highly effective distraction involving synthesized peanut butter and a holographic puzzle.
 
@@ -12485,7 +12855,9 @@ She looked over at Leo’s tablet. She would have to run a perimeter test later.
 
 Down in the CIC, Wyatt chuckled to himself as he walked back to the elevator. The loophole was closed. Planet Eden was secure.
 
-### Scene 9: The Perimeter Test
+***
+
+#### The Perimeter Test
 
 Down in the Combat Information Center, the holographic code on the primary monitor glowed a steady, secure green. The loophole was officially closed.
 
@@ -12571,7 +12943,9 @@ The Colton family was safe, the laws of Planet Eden were functioning perfectly, 
 
 ## Checkmate
 
-### Scene 1: The Sovereign’s Hubris
+### Part 1: The Sovereign’s Hubris & The Extraction
+
+#### The Sovereign’s Hubris
 
 High Director Kael was not a man who waited.
 
@@ -12659,7 +13033,9 @@ Down in the CIC, Wyatt set his coffee mug down. He wasn't a minimum-wage grunt a
 
 From deep within the hidden, fifty-meter-tall alien pine forests, ten blinding streaks of anti-matter tore upward into the sky, slamming directly into the exposed, completely undefended underbelly of Kael’s trapped empire.
 
-### Scene 2: The Geneva Standard
+***
+
+#### The Geneva Standard
 
 The Combat Information Center was completely silent, save for the low, rhythmic thrum of the geothermal reactors feeding power to the defense grid.
 
@@ -12751,7 +13127,9 @@ She gave a single, firm nod. "Good rules. We follow them."
 
 The Sentinel drones were closing in on the crash site. The High Director of the Apex Megacorporation was about to wake up in a world where his imperial authority meant absolutely nothing, completely at the mercy of a moral code he didn't even know existed.
 
-### Scene 3: The Extraction
+***
+
+#### The Extraction
 
 The northern temperate forest of Planet Eden was completely silent, save for the crackle of burning durasteel and the hiss of superheated coolant venting into the rich, damp soil.
 
@@ -12813,7 +13191,9 @@ Following the strict, unshakeable rules of the Administrator, the Sentinel drone
 
 High Director Kael had come to Planet Eden to conquer ghosts. Instead, he was being carried back to their bunker, fast asleep, about to wake up stripped of his empire and completely bound by an ancient Earth law he couldn't even comprehend.
 
-### Scene 4: The Laws of War
+### Part 2: The Laws of War & The Interrogation
+
+#### The Laws of War
 
 While the automated Sentinel drones silently hauled the unconscious Sovereign of Acheron through the dense alien pine forest toward the Sub-Level 5 holding cells, Wyatt Colton was already back on the residential level, executing his most important duty of the morning.
 
@@ -12905,7 +13285,9 @@ Sarah’s face broke into a massive, brilliant smile. She reached out, gripping 
 
 The Vanguard was briefed. The moral high ground was completely secured. And Wyatt Colton was finally ready to walk down to Sub-Level 5 and introduce himself to the dictator who had accidentally handed him the greatest life in the universe.
 
-### Scene 5: The Interrogation
+***
+
+#### The Interrogation
 
 The pneumatic elevator hummed a low, steady note as it carried Wyatt and Sarah Colton down to Sub-Level 5.
 
@@ -13021,7 +13403,9 @@ Kael stumbled backward, hitting the edge of his cot as his knees gave out.
 
 As the heavy blast doors slid shut, sealing the terrified dictator inside, Wyatt and Sarah turned away. The ghosts of the Nevada Test and Training Range were finally, permanently laid to rest. The Colton family didn't even have to lift a finger to watch the Apex empire fall.
 
-### Scene 6: The Handover
+### Part 3: The Handover & The Classified Intel
+
+#### The Handover
 
 Three days after the narrow-beam transmission pierced the vacuum of space, the sky above Planet Eden finally parted.
 
@@ -13115,7 +13499,9 @@ Sarah laughed, a bright, uninhibited sound that echoed freely across the empty p
 
 They turned their backs on the sky, walking hand-in-hand toward the camouflaged entrance of their mountain fortress. The universe was finally safe, and it was time to go back to being a family.
 
-### Scene 7: The Classified Intel
+***
+
+#### The Classified Intel
 
 The heavy, brushed-steel blast doors of the primary hangar hissed shut, sealing the mountain fortress behind Wyatt and Sarah Colton.
 
@@ -13197,7 +13583,9 @@ Wyatt let out a booming, chest-deep laugh, pushing himself up off the floor. He 
 
 ## The Trial of the Century
 
-### Scene 1: The Government-in-Exile
+### Part 1: The Government-in-Exile & The Fab-Foundry Apprentice
+
+#### The Government-in-Exile
 
 The mahogany-paneled library of The Sanctuary was perfectly quiet, but the atmosphere was buzzing with an intense, electrified anticipation.
 
@@ -13257,7 +13645,9 @@ In the library on Planet Eden, Wyatt gave Sarah a firm, reassuring nod.
 
 "Aria," Wyatt commanded. "Drop the cloaking algorithm on the subspace tether. Put us in the room."
 
-### Scene 2: The Star Witnesses
+***
+
+#### The Star Witnesses
 
 Inside the *UNS Citadel* courtroom, a brilliant column of blue quantum light erupted directly beside the Prosecutor’s podium.
 
@@ -13339,7 +13729,9 @@ Wyatt let out a deep, booming laugh, the heavy weight of the trial instantly eva
 
 Wyatt offered his hand to Sarah, pulling her up from the sofa. They walked out of the library, following their daughter down the hall. The universe outside their shield was rebuilding, but inside the mountain, the Colton family had work to do.
 
-### Scene 3: The Fab-Foundry Apprentice
+***
+
+#### The Fab-Foundry Apprentice
 
 The heavy, brushed-steel doors of the pneumatic elevator hissed open, revealing the massive, cavernous expanse of the Fabrication Foundry.
 
@@ -13425,7 +13817,9 @@ The massive molecular 3D printers at the back of the foundry hummed to life, blu
 
 The Colton family stood together in the warm, ozone-scented air of the industrial shop, watching the machine work. The trial was over. The past was buried. And the family unit had never been stronger.
 
-### Scene 4: The Verdict and the Vault
+### Part 2: The Verdict and the Vault & The Sentinel Treaty
+
+#### The Verdict and the Vault
 
 The sprawling, mahogany-paneled library of the estate was perfectly still, but the air above the massive holographic glass table was electric.
 
@@ -13535,7 +13929,9 @@ She was right. The Colton family wasn't just a household; it was the foundationa
 
 Sarah smiled, leaning her weight against his side as they watched their children play in the sunlight. The trial was over, the galaxy was locked out, and their beautiful, beautifully chaotic family was exactly where they were supposed to be.
 
-### Scene 5: The Sentinel Treaty
+***
+
+#### The Sentinel Treaty
 
 The sprawling, sunlit living room of the mountain estate was a picture of absolute, unshakeable tranquility.
 
@@ -13623,7 +14019,9 @@ As the Vanguard disappeared down the hall, Wyatt wrapped his arms securely aroun
 
 ## The Architects of Eden
 
-### Scene 1: The Healing Room
+### The Healing Room & The History Lesson
+
+#### The Healing Room
 
 The automated medical bay on Sub-Level 1 was bathed in a warm, golden-amber light. The quiet, rhythmic strumming of acoustic guitar music played softly from the ceiling’s high-fidelity acoustic array.
 
@@ -13657,7 +14055,9 @@ Wyatt leaned over, burying his face in Sarah’s damp hair, his massive arms wra
 
 "Molly and Claire," Sarah smiled through her tears, kissing the top of Molly's dark, downy head, and then Claire's. "Welcome to Eden, girls."
 
-### Scene 2: The Diplomat's Detail
+***
+
+#### The Diplomat's Detail
 
 Three days later, the residential living room was operating at peak morning efficiency.
 
@@ -13701,7 +14101,9 @@ Jack looked up at his parents, his hands held perfectly still by his two new sis
 
 "They're very safe, Jack," Wyatt smiled, leaning back into the sofa with a massive, swelling pride. "You're a great big brother."
 
-### Scene 3: The First Blueprint
+***
+
+#### The First Blueprint
 
 The estate was beautifully quiet. The six children were finally asleep in the massive, sprawling nursery—the Vanguard tangled together on their floor-level Mega-Bed, and Jack sleeping deeply in his standard toddler bed, parked right next to the twin's shared bassinet.
 
@@ -13749,7 +14151,9 @@ Wyatt looked at the hologram, thinking of the long, terrifying journey that had 
 
 "Genesis," Wyatt rumbled, wrapping his arm securely around his wife. "We call it Genesis."
 
-### Scene 4: The History Lesson
+***
+
+#### The History Lesson
 
 The sprawling, sage-green nursery on the residential level had naturally divided itself into two distinct, highly functional operational zones.
 
@@ -13813,7 +14217,9 @@ Wyatt’s eyes crinkled at the corners, a massive, quiet joy radiating from his 
 
 ## The Final Roster
 
-### Scene 1: The Pattern Disruption
+### Part 1: The Pattern Disruption & The Archives of Earth
+
+#### The Pattern Disruption
 
 The residential living room was bathed in the warm, golden light of mid-afternoon. At exactly 15:00, the estate was operating in a state of quiet, focused domesticity.
 
@@ -13891,7 +14297,9 @@ Wyatt smiled, resting his massive hand over the top of Nora's head as she leaned
 
 The Colton family was growing one final time. And the Vanguard was already preparing to whip the new recruits into shape.
 
-### Scene 2: The Rhythm Section
+***
+
+#### The Rhythm Section
 
 The sprawling residential living room was filled with a sound that hadn't echoed across a planet in nearly a decade.
 
@@ -13959,7 +14367,9 @@ He looked around the sprawling living room. Leo was safely anchored by his fierc
 
 The galaxy was vast, old, and scarred. But inside the impenetrable walls of The Sanctuary, the music was loud, the perimeter was perfectly secure, and the future was incredibly bright.
 
-### Scene 3: The Archives of Earth
+***
+
+#### The Archives of Earth
 
 The final, soaring synthesizer chord of Escape Velocity slowly faded into the acoustic foam of the massive wooden speakers, leaving behind a profound, meditative silence in the living room.
 
@@ -14015,7 +14425,9 @@ Wyatt grinned, pulling out his datapad to connect to the massive analog stereo s
 
 "You heard him, Aria," Wyatt commanded softly, his protective heart completely full. "Cue up Hard Reset. Let's keep the music playing."
 
-### Scene 4: The Fleet Upgrade
+### Part 2: The Fleet Upgrade & The Enforcers
+
+#### The Fleet Upgrade
 
 The sprawling, open-concept living room was a masterclass in sensory regulation.
 
@@ -14113,7 +14525,9 @@ Nora beamed, taking her place at the rear push-bars. Ellie took the front. The u
 
 "Just keeping the squad rolling," Wyatt smirked, his protective heart completely full as the Vanguard expertly maneuvered their new titanium transport around the coffee table.
 
-### Scene 5: The Stabilizers
+***
+
+#### The Stabilizers
 
 The fleet of specialized transports was a resounding success, but Wyatt Colton’s engineering summit wasn't quite finished.
 
@@ -14191,7 +14605,9 @@ Nora, Ellie, and Leo were communicating seamlessly, a unified front of neurodive
 
 "They're going to be ready, Wyatt," Sarah whispered back, resting her head against his shoulder. "When the time comes to wake the vault... they're going to be ready to lead it."
 
-### Scene 6: The Enforcers
+***
+
+#### The Enforcers
 
 The automated medical bay on Sub-Level 1 had seen its fair share of intense deliveries, but the arrival of the final Colton recruits was proving to be a grueling, physical battle.
 
@@ -14281,7 +14697,9 @@ The first generation of Planet Eden was ready. And in a few years, when the Vang
 
 ## The Foundations of Genesis
 
-### Scene 1: The Expanded Jurisdiction
+### Part 1: The Expanded Jurisdiction & The Biological Override
+
+#### The Expanded Jurisdiction
 
 The sprawling residential living room of The Sanctuary was bathed in the crisp, golden light of an Eden autumn. The massive hydro-glass windows offered a breathtaking view of the valley below, where the emerald alien pines were just beginning to tip with seasonal shades of amber and rust.
 
@@ -14357,7 +14775,9 @@ Wyatt watched his three oldest children leave the room, completely awestruck by 
 
 "We're just the maintenance crew now, Wyatt," Sarah laughed softly, sipping her tea as she watched her chaotic, beautiful, perfectly balanced family. "The kids are officially in charge."
 
-### Scene 2: The Cornerstone
+***
+
+#### The Cornerstone
 
 The deafening, raw roar of the eastern valley waterfall was a magnificent sound, but today, it was competing with the heavy, rhythmic thrum of industrial repulsor engines.
 
@@ -14425,7 +14845,9 @@ Wyatt let out a booming, joyous laugh, reaching out to ruffle his daughter's dar
 
 "Let's get to work, Commander," Wyatt grinned.
 
-### Scene 3: The Biological Override
+***
+
+#### The Biological Override
 
 The automated medical bay on Sub-Level 1 was usually reserved for serious injuries or new arrivals, but this morning, it was functioning as a biological tailoring shop.
 
@@ -14505,7 +14927,9 @@ Wyatt stood up from the workbench, his chest tight with a mixture of heartbreak 
 
 "Yeah," Wyatt murmured, pulling her close as he watched his three oldest children untangle themselves. "But I think I need to hit the Fab-Foundry this afternoon. I have a feeling I'm going to be printing a lot of larger clothes and bigger armor."
 
-### Scene 4: The Anomalous Data
+### Part 2: The Anomalous Data & The First Ten
+
+#### The Anomalous Data
 
 The mahogany-paneled library of The Sanctuary was cool and quiet, serving as the Vanguard’s primary classroom for the afternoon.
 
@@ -14587,7 +15011,9 @@ Wyatt stood up, offering his hand to pull Sarah off the floor. They walked quiet
 
 "We'll just reinforce the armor," Wyatt smiled, kissing the top of her head. "They're doing great."
 
-### Scene 5: The Endocrine Protocol
+***
+
+#### The Endocrine Protocol
 
 The sprawling residential living room of The Sanctuary was a study in profound, accelerated growth. Over the past year, the entire linguistic landscape of the mountain fortress had shifted. The soft, childish echoes of Mama and Dada had been completely eradicated, replaced by the crisp, highly articulate, and fiercely capable voices of the Colton squad.
 
@@ -14667,7 +15093,9 @@ Wyatt walked over from where the twins had been wrestling, stepping up behind Sa
 
 "They're going to need to be," Sarah whispered back, resting her hand over Wyatt's. She looked out the hydro-glass windows, toward the valley where the durasteel foundations of Genesis were waiting. "Two more years, Wyatt. Then we wake the vault."
 
-### Scene 6: The First Ten
+***
+
+#### The First Ten
 
 The mahogany-paneled library of The Sanctuary was operating at maximum tactical capacity.
 
@@ -14729,7 +15157,7 @@ He couldn't wait to meet them.
 
 The blueprints were drawn. The roster was locked. The cultural history of Earth was queued up and ready to broadcast. The countdown to their twelfth birthday—and the official dawn of a new civilization—had officially begun.
 
-### Scene 7: The Sydney Protocol
+### Part 3: The Sydney Protocol
 
 The heavy, brushed-steel doors of the primary pneumatic elevator hissed shut on the residential level. For the first time in years, the entire Colton squad was descending into the deepest, coldest level of The Sanctuary.
 
@@ -14817,7 +15245,9 @@ Planet Eden was finally about to get some new neighbors.
 
 ## The Awakening
 
-### Scene 1: The First Breath
+### Part 1: The First Breath & The Gestation Protocol
+
+#### The First Breath
 
 The atmosphere inside The Sanctuary was electric. Today was not just a celebration of life; it was the ignition sequence for a brand new world.
 
@@ -14905,7 +15335,9 @@ The Colton family stood together in the soft amber glow of the staging bay, list
 
 The triplets didn't break formation, but Nora leaned her head against Leo's shoulder, and Ellie allowed a rare, fiercely proud smile to break across her face. The Vanguard had just executed their greatest mission yet. Planet Eden was officially alive.
 
-### Scene 2: The Command Staff Celebration
+***
+
+#### The Command Staff Celebration
 
 The heavy brushed-steel doors of the pneumatic elevator hissed open on the residential level, instantly replacing the frigid, hyper-filtered air of the Genesis Vault with the warm, rich aroma of an absolute feast.
 
@@ -14991,7 +15423,9 @@ Wyatt wrapped his arm around Sarah’s shoulders as the chaotic, beautiful machi
 
 Down in the dark, ten artificial wombs were glowing with new life. But up here in the sunlight, the Colton family was celebrating exactly who they were: a fortress, a family, and the architects of a brand new world.
 
-### Scene 3: The Gestation Protocol
+***
+
+#### The Gestation Protocol
 
 The nine-month gestation cycle of the Genesis Ten was not a period of waiting; it was a period of absolute, highly coordinated planetary construction.
 
@@ -15067,7 +15501,9 @@ Jack looked up at his parents, his bright eyes wide with absolute wonder. Tyler 
 
 The nine-month wait was over. The Genesis Ten were arriving at dawn.
 
-### Scene 4: Arrival Day
+### Part 2: Arrival Day & The Nursery Logistics
+
+#### Arrival Day
 
 The cavernous, brilliantly lit staging bay on Sub-Level 6 was silent except for the low, rhythmic hum of ten artificial gestation cylinders.
 
@@ -15167,7 +15603,9 @@ The empty, quiet mountain was suddenly filled with life. The 50,000 embryos were
 
 The village of Genesis was officially alive.
 
-### Scene 5: The Roster Expansion
+***
+
+#### The Roster Expansion
 
 The initial, chaotic adrenaline of the decanting process had finally settled.
 
@@ -15271,7 +15709,9 @@ She stepped back from the console, patting the titanium rim of Leo's wheelchair.
 
 "Good base," Ellie declared, the commanding officer finally, completely satisfied with her civilization.
 
-### Scene 6: The Nursery Logistics
+***
+
+#### The Nursery Logistics
 
 The Aegis deflector shield could effortlessly absorb an orbital plasma bombardment, but it was completely useless against the synchronized, ear-splitting demands of ten hungry infants.
 
@@ -15349,7 +15789,9 @@ The infant girl blinked sleepily against the sunlight streaming through the hydr
 
 ## The Second Wave
 
-### Scene 1: The Expanding Perimeter
+### Part 1: The Expanding Perimeter & The Commander’s Blessing
+
+#### The Expanding Perimeter
 
 The sprawling residential living room of The Sanctuary had transformed into a major logistical staging ground.
 
@@ -15429,7 +15871,9 @@ The seventeen-year-old commanding officer squared her shoulders. She looked at h
 
 "Base is secure, Mom," Ellie declared, her dark eyes flashing with absolute readiness. "Bring on the recruits."
 
-### Scene 2: The Commander’s Blessing
+***
+
+#### The Commander’s Blessing
 
 The heavy, rhythmic thrum of industrial repulsor engines echoed across the elevated plateau of the Genesis valley.
 
@@ -15523,7 +15967,9 @@ Sarah rested her head against Wyatt's shoulder, her heart swelling for the husba
 
 The Colton family stood together in the shade of the alien pines, watching Jack patiently explain the mechanics of a water-wheel to a fascinated Willow. The first generation was thriving, the Vanguard was unshakeable, and the village of Genesis was finally ready to truly open its doors.
 
-### Scene 3: The Lunar Embassy
+### Part 2: The Lunar Embassy & Breaking Ground
+
+#### The Lunar Embassy
 
 For the first time in twelve years, Wyatt Colton had authorized a breach of the Aegis shield for an outside vessel.
 
@@ -15599,7 +16045,9 @@ Wyatt, Sarah, Ellie, and Jack turned back toward the silver runabout.
 
 They had taken the very first, careful step toward rejoining the human race. They had given Earth a front porch. And in a few decades, when the children of Genesis were fully grown and ready to explore the stars, the galaxy would be waiting for them right in their own backyard.
 
-### Scene 4: The Wild Sparrows
+***
+
+#### The Wild Sparrows
 
 While the adults and the Vanguard managed the heavy logistics of the mountain, the Earth Conservatory on Sub-Level 1 had been entirely surrendered to the chaos of the five-year-olds.
 
@@ -15675,7 +16123,9 @@ He looked down at the tiny, swaddled newborn drinking from the bottle in his han
 
 "Welcome to the neighborhood, kid," Wyatt rumbled softly.
 
-### Scene 5: Breaking Ground
+***
+
+#### Breaking Ground
 
 The pale, gray expanse of Anchor had remained completely undisturbed for millions of years. Today, it was the site of the most significant architectural collaboration in the galaxy.
 
@@ -15755,7 +16205,9 @@ Down below the clouds, the twenty Cockney-accented infants were sleeping safely 
 
 ## Jack – The Lunar Embassy
 
-### Scene 1: The Fleet Girl
+### The Fleet Girl & The Newport Fifty
+
+#### The Fleet Girl
 
 The Earth Remnant Embassy on Anchor had grown from a single titanium foundation block into a sprawling, multi-tiered diplomatic hub.
 
@@ -15817,7 +16269,9 @@ Jack walked out of the office, his boots carrying him swiftly toward the embassy
 
 As he boarded the sleek silver runabout and requested clearance through the Aegis shield, the cold, political sterility of the moon faded away. He engaged the repulsorlifts, aiming the nose of the ship directly at the vibrant blue-and-green jewel below. He couldn't wait to get back to the mud, the noise, the thick Australian accents of the village, and the people who actually knew how to hold his hand.
 
-### Scene 2: The Gravity of Home
+***
+
+#### The Gravity of Home
 
 The silver runabout descended through the hazy, golden-hour clouds of Planet Eden, the Aegis shield shimmering invisibly as it granted the ship clearance.
 
@@ -15873,7 +16327,9 @@ For now, he would endure it. He was the peacemaker, and keeping the diplomatic c
 
 But as Claire reached over and gently wiped a smudge of dirt off Jack's cheek, offering him a warm, deeply knowing smile, Jack knew exactly where his heart actually lived.
 
-### Scene 3: The Newport Fifty
+***
+
+#### The Newport Fifty
 
 Wyatt Colton leaned heavily against the stone archway of the Sanctuary’s main living room, a steaming mug of black coffee warming his scarred hands. He kept his presence quiet, his watchful, deep-set eyes observing the operational dynamic of his family from the perimeter.
 
@@ -15943,7 +16399,9 @@ Ellie immediately straightened up, her tactical mind seamlessly pivoting from de
 
 ## The Refugee
 
-### Scene 1: The Great Chowder Rebellion
+### The Great Chowder Rebellion & The Golden Cage
+
+#### The Great Chowder Rebellion
 
 The sprawling, open-air timber dining pavilion in the center of Genesis Village was currently ground zero for a massive cultural uprising.
 
@@ -16011,7 +16469,9 @@ He cut the connection. He looked down at Willow. Her dark eyes were wide with a 
 
 Jack turned and broke into a jog toward the mountain access lift, his diplomatic instincts completely overriding his caution. He was rushing off to Anchor to offer a lifeline to a desperate survivor, completely unaware that he was about to invite the most toxic, devastating threat Planet Eden had ever faced right into his own heart.
 
-### Scene 2: The Exception
+***
+
+#### The Exception
 
 Jack’s silver runabout touched down on Pad 2 of the Lunar Embassy with a soft, magnetic hum. He didn’t wait for the boarding ramp to fully extend before he was moving, his long legs carrying him swiftly through the pressurized hydro-glass corridors in Anchor’s 0.48G environment.
 
@@ -16079,7 +16539,9 @@ As Jack strapped himself into the pilot's seat and requested clearance through t
 
 He aimed the nose of the ship toward the lush, green-and-blue surface of Planet Eden, completely unaware of the poison he was bringing into his home.
 
-### Scene 3: The Golden Cage
+***
+
+#### The Golden Cage
 
 Sub-Level 6 of the mountain estate was a marvel of pristine, automated medical technology, but to Sloane, it was starting to feel incredibly isolating.
 
@@ -16141,7 +16603,9 @@ But as she looked at the brushed-steel doors, she swallowed her frustration. Jac
 
 ## The Asylum
 
-### Scene 1: The Scavenger's Tale
+### Part 1: The Scavenger's Tale & The Village Square
+
+#### The Scavenger's Tale
 
 The mahogany-paneled library of the mountain estate had been temporarily converted into a formal debriefing room.
 
@@ -16219,7 +16683,9 @@ Sloane hugged him back tightly, burying her face into the crook of his neck. As 
 
 She had done it. She had survived the interrogation. The Commander was skeptical, and those creepy twin sisters were definitely going to be a problem, but Jack was already entirely hers. She had secured her foothold, and she had absolutely no intention of ever letting it go.
 
-### Scene 2: The Village Square
+***
+
+#### The Village Square
 
 The transition from the hyper-militarized, polished-stone corridors of the mountain estate down to the sprawling, sunlit valley of Genesis Village was like stepping onto an entirely different planet.
 
@@ -16309,7 +16775,9 @@ The moment the latch clicked into place, the sweet, vulnerable smile completely 
 
 *Fine,* Sloane thought, her dark eyes narrowing as she watched him go. *If you won't leave the Main Residence for me... I'll just have to make sure you eventually realize that you don't need them anymore.* She turned away from the glass, beginning to unpack the small canvas bag Aria had provided, ready to play the absolute perfect, long-term game.
 
-### Scene 3: The Collection Agency
+### Part 2: The Collection Agency & The Extraction of Toxicity
+
+#### The Collection Agency
 
 The morning sun had barely crested the eastern ridge when the tactical alarms in the Combat Information Center violently shattered the quiet of the mountain estate.
 
@@ -16407,7 +16875,9 @@ Ellie turned on her heel and marched back toward the runabout.
 
 Sloane buried her face back in Jack's chest, hiding the cold, triumphant smirk that touched her lips. She had officially secured her human shield. The Commander was a problem, yes, but as long as Jack was willing to stand between her and the rest of the universe, Sloane knew she had already won the war.
 
-### Scene 4: The Extraction of Toxicity
+***
+
+#### The Extraction of Toxicity
 
 The golden hour had faded into a cool, starry night over the Village of Genesis.
 
@@ -16517,7 +16987,9 @@ Jack stood beside Ellie, his arms crossed over his chest, watching the empty spa
 
 Jack nodded, a profound sense of relief washing over him. The toxicity was gone. The unit was intact. And the village of Genesis was safe once again.
 
-### Scene 5: The Detox
+### Part 3: The Detox & The Filter
+
+#### The Detox
 
 The Main Residence of Genesis Village was a sprawling, beautifully constructed timber lodge that sat right on the bend of the rushing river. It was loud, lived-in, and currently shared by Jack, Molly, Claire, and Willow.
 
@@ -16567,7 +17039,9 @@ Jack let out a sudden, loud laugh, the tension completely shattering. He reached
 
 They sat together on the deck for a long time, listening to the rushing water of the Genesis River. The toxic refugee was gone, banished back into the cold vacuum of space, and the prince of Eden was exactly where he belonged.
 
-### Scene 6: The Filter
+***
+
+#### The Filter
 
 The sprawling timber Main Residence in Genesis Village was finally winding down for the night. The heavy, automated shutters had been drawn over the windows, sealing the comfortable home against the dark of the valley.
 
@@ -16641,7 +17115,9 @@ Jack let his hands rest over his sisters' arms, the heavy, lingering toxicity of
 
 ## Leo – The Overseer
 
-### Scene 1: The Geometry of Peace
+### Part 1: The Geometry of Peace & The Shenandoah Curve
+
+#### The Geometry of Peace
 
 To Leo Colton, the universe was not made of chaotic events or unpredictable emotions. The universe was made of geometry, pressure, and frequency.
 
@@ -16699,7 +17175,9 @@ He didn't need to go down to the village. He didn't need to walk in the dirt or 
 
 He was the Overseer of Planet Eden, and his universe was absolutely perfect.
 
-### Scene 2: The Kinetic Variables
+***
+
+#### The Kinetic Variables
 
 The heavy brushed-steel doors of the pneumatic elevator on Sub-Level 3 hissed open.
 
@@ -16765,7 +17243,9 @@ Leo watched the elevator doors seal. The CIC returned to its perfect 40-hertz ge
 
 He wasn't a burden to the Colton family. He was the brain that kept the entire machine running.
 
-### Scene 3: The Shenandoah Curve
+***
+
+#### The Shenandoah Curve
 
 With the tactical perimeter of the village officially secure and the hostile variable named Sloane successfully extracted from the system, Leo Colton shifted his visual focus on the massive holographic table.
 
@@ -16837,7 +17317,7 @@ Deep within the bedrock of the mountain, on Sub-Level 6, the massive, automated 
 
 The Shenandoah Valley was gone, burned to ash decades ago, but its ghost was about to take a very deep breath on Planet Eden.
 
-### Scene 4: The Stewards
+### Part 2: The Stewards
 
 The Combat Information Center was quiet, save for the low, 40-hertz hum of the geothermal reactors and the steady pulsing of the massive holographic table.
 
@@ -16895,7 +17375,9 @@ Leo’s hands flew across his MagnaPad, entirely in his element. He didn't want 
 
 ## Wyatt – The Founders
 
-### Scene 1: The Watch
+### The Watch & The Age of Majority
+
+#### The Watch
 
 The observation terrace extending from the western face of the mountain estate was bathed in the warm, late-morning sunlight.
 
@@ -16949,7 +17431,9 @@ Sarah smiled, leaning her lounger back so she was perfectly parallel with him. S
 
 "Retired," Sarah whispered, letting her eyes drift shut in the warm breeze. "I like the sound of that."
 
-### Scene 2: The Age of Majority
+***
+
+#### The Age of Majority
 
 The mahogany-paneled library of The Sanctuary was cool and quiet, offering a perfect refuge from the midday sun.
 
@@ -17003,7 +17487,9 @@ Wyatt nodded, looking back at the glowing blue text of their finalized civil cod
 
 ## Leo – The Wilderness
 
-### Scene 1: The Logistics of the Wild
+### The Logistics of the Wild & The Sydney Echo
+
+#### The Logistics of the Wild
 
 To Leo Colton, a successful operation was entirely dependent on the structural integrity of its preparation. The wilderness was not an enemy to be feared; it was simply a complex equation of natural variables that required the correct architectural formula to balance.
 
@@ -17061,7 +17547,9 @@ Leo slammed his hand down on the glowing green execution rune on his tablet.
 
 "Advance to the lake," Leo ordered.
 
-### Scene 2: Raising the Canvas
+***
+
+#### Raising the Canvas
 
 The eastern lake was a massive, pristine body of freshwater that mirrored the brilliant blue sky and the towering, emerald-green peaks of the alien pines.
 
@@ -17113,7 +17601,9 @@ Leo sat in his chair, anchored by the heavy, loving weight of Nora against his r
 
 The universe was mathematically perfect. The wilderness was officially secured.
 
-### Scene 3: The 16-Bit Horizon
+***
+
+#### The 16-Bit Horizon
 
 Breaking camp was an exercise in flawless, practiced geometry.
 
@@ -17191,7 +17681,9 @@ He reached a heavy hand down to his MagnaPad.
 
 "The traction is optimal. The acoustic frequency is acceptable," Leo's digital voice announced over the sound of the surf. He looked out at the infinite blue horizon, perfectly anchored by the heavy weight of Nora leaning against his chair. "This is a mathematically sound location for the basecamp."
 
-### Scene 4: The Sydney Echo
+***
+
+#### The Sydney Echo
 
 Leo sat perfectly still in the Amphibious Rover, the warm, salty breeze washing over his face.
 

@@ -6,7 +6,7 @@ title: "Runebreaker: The Dream Kingdom"
 
 ## Chapter 1: Insert Coin – 28th Day of the Last Frost, Year 404 EC
 
-### Scene 1: Main Theme (The Living Room)
+### Part 1: Main Theme (The Living Room)
 
 **Date:** 1992-10-30 at 20:15 America/New_York
 
@@ -30,7 +30,7 @@ Tay reached up to the collar of his t-shirt and tugged on a thin leather cord, p
 
 Ocea leaned her head against his shoulder, soaking in the quiet comfort of the room. Neither of them noticed the faint, violet spark that flickered across the black plastic casing of an unlabeled cartridge resting beside the console.
 
-### Scene 2: Insert Coin
+### Part 2: Insert Coin
 
 **Date:** 1992-10-30 at 20:45 America/New_York
 
@@ -61,7 +61,7 @@ A hurricane wind erupted inward toward the screen, lifting loose sheets of noteb
 
 Ocea buried her fingers into the fabric of her twin brother's shirt as the purple flash swallowed the entire living room, and the glass opened wide to pull them both inside.
 
-### Scene 3: Static and Pixels
+### Part 3: Static and Pixels
 
 There was no floor, no ceiling, and no air—only a roaring tunnel of static and pixels hurtling past at impossible speed.
 
@@ -87,7 +87,7 @@ Tay cried out in agony as dark violet runes coiled around his chest, seizing the
 
 A final shockwave of violet static slammed into Ocea's chest, severing the last millimeter of contact between their fingertips and hurling her down through a bank of luminous clouds into the dark below.
 
-### Scene 4: Ocea's Theme (Barefoot on the Crystal Grass)
+### Part 4: Ocea's Theme (Barefoot on the Crystal Grass)
 
 Ocea woke to the sensation of cool, dewy blades of grass tickling the soles of her bare feet.
 
@@ -111,7 +111,7 @@ In the valley just below the ridge, the warm amber lanterns of a small, timber-f
 
 ## Chapter 2: Half a Medallion – 29th Day of the Last Frost, Year 404 EC
 
-### Scene 1: The Crystal Plains
+### Part 1: The Crystal Plains
 
 Morning broke across the Dream Kingdom not with a single rising sun, but with a choir of prismatic light refracting through miles of towering, translucent quartz monoliths.
 
@@ -131,7 +131,7 @@ With a sharp *pop*, the rune dissolved, and a three-inch patch of grey stone ins
 
 Ahead, nestled inside a natural amphitheater of giant, sky-piercing mana crystals that acted as a shield against the creeping purple blight, rose the thatched roofs, spinning waterwheels, and cobblestone lanes of Sanctuary Village. Ocea broke into a jog, following the singing stone road down toward the gates.
 
-### Scene 2: Sanctuary Village
+### Part 2: Sanctuary Village
 
 Stepping through the timber arch of Sanctuary Village felt like walking into the warmest town theme of an RPG after hours in the wilderness. The air smelled of fresh-baked hearth bread, roasted chestnuts, and sweet pine resin. A gentle melody of wooden flutes and plucked acoustic strings drifted from an open-air pavilion near the central fountain, where villagers in embroidered linen tunics and cloaks of woven moss gathered to trade mana vials and bundles of glowing herbs.
 
@@ -155,7 +155,7 @@ A plan clicked together in Ocea's mind. Fighting her way through the outer perim
 
 After asking the guardhouse watchman—who gladly waved her permission to take the abandoned rag—Ocea yanked the scratchy wool tunic off the clothesline, folded it tightly, and stuffed it into the bottom of her new canvas satchel before racing up the steps toward the observatory.
 
-### Scene 3: The Crystal Sage
+### Part 3: The Crystal Sage
 
 The interior of the Crystal Sage's observatory looked like a cross between an medieval alchemist's tower and an electronics repair shop. Towering brass astrolabes and rotating quartz prisms shared workbench space with spools of copper wire, glass vacuum tubes filled with dancing golden fireflies, and ancient scrying monitors humming in resonant sixteen-bit harmony.
 
@@ -181,7 +181,7 @@ The Crystal Sage stared down at the jagged piece of painted summer-camp clay. Sl
 
 "Four hundred and four years..." the Sage whispered in utter astonishment. "Our entire age was named the *Era of the Crystal* after a prophecy of two sundered halves—one red as fire, one blue as the sea. Generations of miners dug through every mountain in the Realm looking for it, and when nothing was ever found, the Kingdom dismissed the Twin Crystal as a fairy tale. No wonder we never found it in our soil! It wasn't mined from rock—it was sculpted at a summer camp in another world by the two of you!"
 
-### Scene 4: Half a Medallion
+### Part 4: Half a Medallion
 
 "They always think the code is written in stone!" the Crystal Sage laughed, practically dancing across the laboratory as he unlocked a heavy chest of polished star-metal. As he lifted the lid, a groovy, energetic rhythm seemed to pulse through the observatory's sound-crystals—a fuzzy sixteen-bit organ groove and a driving bassline that made the glass vials on the shelves clink in time. "The Wizard thinks because you only hold half a medallion, your variable is incomplete!"
 
@@ -203,7 +203,7 @@ Ocea snapped her eyes open. A dazzling stream of warm, golden pixel light erupte
 
 "Look at that!" the Sage cheered, clapping his hands as the funky sixteen-bit organ solo echoed off the prism dome. "Golden data! Pure, analog sibling love compiled into executable light! With that, you can sabotage his scrolls, shatter his sentinels, and when the moment comes—reunite the two halves to crash his entire directory!"
 
-### Scene 5: Sanctuary Inn
+### Part 5: Sanctuary Inn
 
 That evening, the innkeeper of the Sanctuary Inn refused to accept a single coin for the corner room under the eaves, insisting that anyone brave enough to walk toward the Obsidian Spire deserved the softest feather mattress in the valley.
 
@@ -221,7 +221,7 @@ She blew out the brass oil lamp on the nightstand, climbed beneath the warm quil
 
 ## Chapter 3: The Analog Jammer – 30th Day of the Last Frost, Year 404 EC
 
-### Scene 1: Glitch Phantoms
+### Part 1: Glitch Phantoms
 
 Five miles north of Sanctuary Village, the singing turquoise quartz of the plains abruptly gave way to the Jagged Wastes—a scarred expanse of grey basalt and exposed copper cabling where the Grand Wizard's formatting spells had already stripped the land to its raw wireframe bones.
 
@@ -243,7 +243,7 @@ The remaining two phantoms converged from left and right in an erratic pincer at
 
 Breathing hard, Ocea lowered her glowing gauntlet and looked up at the towering iron gates of the Citadel just ahead.
 
-### Scene 2: The Iron Sentinels
+### Part 2: The Iron Sentinels
 
 *CLANG. CLANG. CLANG.*
 
@@ -267,7 +267,7 @@ To keep the stiff blue cuffs of her denim jeans from giving her away beneath the
 
 Clutching the fire-engine red half of the clay medallion in her pocket to track her brother's faint blue signal, Ocea slipped down into the dungeon dark.
 
-### Scene 3: Tay's Theme (The Hollow Apprentice)
+### Part 3: Tay's Theme (The Hollow Apprentice)
 
 Inside the windowless stone box that served as his quarters, Tay sat on the edge of the narrow wooden cot, staring without blinking at the cracked glass screen of a gutted scrying terminal on the floor.
 
@@ -295,7 +295,7 @@ For a terrifying second, Tay thought his fractured mind had finally snapped and 
 
 *She's alive. Keep her hidden. Don't let him find her.*
 
-### Scene 4: The Grand Decree
+### Part 4: The Grand Decree
 
 High atop the vaulted pinnacle of the Obsidian Spire, the Grand Wizard stood before the Great Directory—a towering, thirty-foot wall of suspended purple runes and cascading hexadecimal crystal matrices that governed every river, mountain, and heartbeat in the Dream Kingdom.
 
@@ -315,7 +315,7 @@ Still, a flicker of telemetry on the lower dungeon board caught the Wizard's eye
 
 Either way, an unscheduled late-night inspection was in order. Sweeping his shadow-woven cloak behind him, the Grand Wizard stepped onto the descending iron lift and headed down into the dungeons.
 
-### Scene 5: Golden Data
+### Part 5: Golden Data
 
 Ocea shifted her weight on the unforgiving wooden slats of the tiny cot, her shoulder pressing against the rough, heavy fabric of Tay's drab grey tunic. The basement closet was a windowless, suffocating box, smelling of ozone, damp stone, and the metallic tang of obsolete magical tech piled haphazardly on the floor. A gutted, heavy scrying terminal sat in the corner, its cracked glass screen staring blankly at them, a graveyard of multicolored wires spilling from its beige casing.
 
@@ -337,7 +337,7 @@ Tay stiffened instantly, the scroll snapping shut in his hands. The heavy iron h
 
 Ocea didn't hesitate. She threw herself off the cot, scrambling desperately across the cold stone floor and wedging herself tightly behind a towering stack of cardboard boxes and cracked magical hardware. She curled into a ball, pressing her back against the gutted scrying terminal, praying its ambient static would act as an analog jammer to mask the golden glow of her magic before the door swung open.
 
-### Scene 6: The Sabotaged Scroll
+### Part 6: The Sabotaged Scroll
 
 Ocea clamped her hands over her mouth, her knees pressed hard against her chest behind the cracked beige casing of the scrying terminal. The heavy oak door didn't just open; it exploded inward, the iron hinges groaning under the violent force of the Grand Wizard's entry.
 
@@ -387,7 +387,7 @@ The anger in Tay's eyes flickered, the dark purple dimming just a fraction as a 
 
 "Yeah. You're right," Tay admitted softly, a faint echo of the brother she remembered. He squeezed her hand, just barely, before glancing nervously at the heavy oak door. "But we can't let him find you."
 
-### Scene 7: Fractures in the Armor
+### Part 7: Fractures in the Armor
 
 The tiny wooden cot creaked in protest as they both climbed onto the thin, lumpy mattress. It was impossibly cramped, significantly narrower than the cozy sofa bed they used to share back home in 1992 when thunderstorms rolled over their neighborhood. Forced to lie on her side, Ocea instinctively slid her arm around Tay's waist, pressing her face against the rough, cold fabric of his grey henchman tunic.
 
@@ -409,7 +409,7 @@ Then, Ocea felt it. The cold, unyielding armor of dark magic radiating from him 
 
 ## Chapter 4: The Ghost and the Gate – 31st Day of the Last Frost, Year 404 EC
 
-### Scene 1: Supposed to Be Dead
+### Part 1: Supposed to Be Dead
 
 The darkness of the basement closet was absolute, heavy and suffocating. Ocea lay perfectly still on her side, her arm still draped cautiously across her twin brother's waist. Though the sputtering purple torches had died, the room was anything but peaceful. Beneath the rough grey fabric of his tunic, Tay was vibrating.
 
@@ -433,7 +433,7 @@ The words hung in the suffocating air, chilling Ocea to the bone. The Grand Wiza
 
 Ocea pulled him a fraction of an inch closer on the cramped mattress. She finally understood the magnitude of the danger they were in. She was supposed to be a corpse, a tragic memory used to fuel Tay's dark magic. Remaining alive—and keeping him tethered to the light—was the most dangerous rebellion in the entire Dream Kingdom.
 
-### Scene 2: Shield of Normalcy
+### Part 2: Shield of Normalcy
 
 "I can't sleep in this," Ocea whispered into the suffocating darkness, shifting uncomfortably on the narrow mattress.
 
@@ -461,7 +461,7 @@ Ocea lowered her hands and turned around. Even without the sputtering purple tor
 
 Tay shivered in the damp, freezing air of the dungeon closet, wrapping his arms tightly around his chest. Without a word, he climbed back onto the tiny cot, moving as close to the wall as he could to make room for her.
 
-### Scene 3: A Little Bit Like Home
+### Part 3: A Little Bit Like Home
 
 Ocea shifted again on the lumpy mattress, suppressing a frustrated groan. The heavy, stiff denim of her jeans immediately bunched up around her knees, the thick seams digging painfully into her skin. Beside her, Tay was equally restless, his legs twitching in the cramped space. Denim was meant for concerts and hanging out back in 1992, not for sleeping on a wooden board in a dungeon.
 
@@ -483,7 +483,7 @@ When Ocea finally slid back down onto the mattress, wearing only her oversized, 
 
 Ocea reached out in the dark, her hand finding his arm. She rested her head against his shoulder, finally comfortable enough to let her own exhaustion pull her under. The room was still a freezing, windowless prison, but for the first time since she had arrived in this nightmare, it felt just a little bit like home.
 
-### Scene 4: Dungeon Escape
+### Part 4: Dungeon Escape
 
 A piercing, sixteen-bit klaxon shattered the silence of the basement closet, and the heavy iron hinges of the oak door flared to a blinding, incandescent crimson.
 
@@ -512,7 +512,7 @@ Three flights up, the cold stone tunnel opened into the cavernous courtyard of t
 
 Then the music of their escape cut out completely, replaced by a low, bone-rattling hum that shook the cobblestones beneath Ocea's bare feet.
 
-### Scene 5: Guardian of the Gate
+### Part 5: Guardian of the Gate
 
 The iron portcullis slammed down with a deafening crash, and from the shadowed vault above dropped the *Guardian of the Gate*—a thirty-foot colossus of fused obsidian armor, six mechanical arms, and a roaring furnace of compressed purple runes in its chest.
 
@@ -538,7 +538,7 @@ Ocea tried to push herself up on trembling arms, summoning one last desperate sp
 
 As iron-gauntleted wardens dragged her backward away from Tay's outstretched hand, the world around Ocea dissolved into static and darkness.
 
-### Scene 6: Game Over (The Spark in the Dark)
+### Part 6: Game Over (The Spark in the Dark)
 
 A slow, descending sixteen-bit arpeggio—like the sound of a console losing power—echoed softly through the windowless stone holding cell high in the eastern tower.
 
@@ -572,7 +572,7 @@ She wasn't out of continues. Not as long as her brother was still calling for Pl
 
 Ocea stood up on her bare feet, brushed the dungeon dust off her shoulders, and squared her jaw as the footsteps of the ceremonial guard approached the cell door to escort her to the cathedral. They wanted her at the altar? Fine. She was going to crash the ceremony.
 
-### Scene 7: The Corrupted Ceremony
+### Part 7: The Corrupted Ceremony
 
 The bronze doors of the Grand Cathedral swung open, and a slow, stately sixteen-bit ceremonial march began to echo from the towering pipe-organ crystals lining the nave.
 
@@ -600,7 +600,7 @@ Ocea vaulted straight up the altar steps, dodging between the swinging halberds 
 
 "Wake up, Player One!" Ocea shouted over the roar of the cathedral. "I'm right here!"
 
-### Scene 8: The Wizard's Ruin
+### Part 8: The Wizard's Ruin
 
 The moment Ocea's palm struck his chest, a tidal wave of warm, golden light surged straight into Tay's heart, and the freezing purple cage inside his skull shattered into a million pieces.
 
@@ -630,7 +630,7 @@ Before the shockwave could throw Ocea off balance, Tay stepped in and wrapped bo
 
 "There's my brother," Ocea grinned, wiping a tear from her cheek with her free wrist as the floor of the cathedral gave way beneath them, dropping them both onto the floating battle-platforms of the Wizard's inner lair below.
 
-### Scene 9: The Wizard's Lair
+### Part 9: The Wizard's Lair
 
 They landed side by side on a wide, hexagonal platform of translucent crystal suspended above the swirling purple vortex of the Spire's reactor core.
 
@@ -650,7 +650,7 @@ With a final synchronized strike—Tay launching a sapphire uppercut wave while 
 
 The fast battle tempo abruptly ground to a halt, slowing into a low, menacing, unresolved chord as the shattered halves of the Wizard's staff fell into the purple abyss below.
 
-### Scene 10: The True Form
+### Part 10: The True Form
 
 A terrifying, massive wall of sixteen-bit sound erupted from the abyss beneath the platform, shaking the entire Obsidian Spire to its foundations as gothic choir synths and a relentless, driving dark waltz filled the air.
 
@@ -676,7 +676,7 @@ From the united clay medallion and the *Runebreaker* gauntlet erupted a towering
 
 With a deafening, glass-shattering crescendo, the dark music fractured into a million pieces, giving way to a glorious, ringing victory fanfare as the monolithic boss dissolved into harmless white snow.
 
-### Scene 11: The Grand Decree (Reprise)
+### Part 11: The Grand Decree (Reprise)
 
 The roaring stadium drums and distorted power chords were gone. In their place played only a slow, distorted, broken sixteen-bit music box, plucking out the melody of *The Grand Decree* in a mournful, halting waltz that missed beats like a dying battery.
 
@@ -698,7 +698,7 @@ With a final, drawn-out glitching chord that snapped into complete, tranquil sil
 
 ## Chapter 1: Save State – 1st Day of the First Dawn, Year 1 RR
 
-### Scene 1: Dawn of the New Era
+### Part 1: Dawn of the New Era
 
 Where the black needle of the Obsidian Spire had stood for generations, a towering fountain of living turquoise crystal now rose into a cloudless azure sky, ringing with the triumphant sixteen-bit horns and sweeping orchestral strings of a world reborn.
 
@@ -720,7 +720,7 @@ Ocea looked up at Tay. He smiled—that warm, steady, unmistakable smile that be
 
 "Ready," Ocea smiled, lacing her fingers through his as they stepped together into the golden light.
 
-### Scene 2: Save State (Until Next Time)
+### Part 2: Save State (Until Next Time)
 
 **Date:** 1992-10-30 at 20:50 America/New_York
 

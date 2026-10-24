@@ -6,7 +6,7 @@ title: "The Rachel Narrative"
 
 ## Chapter 1: The Sabertooth Kitty
 
-### Scene 1: The Sensory Avalanche
+### The Sensory Avalanche
 
 **Date:** 1990-12-01 at 09:00 America/New_York
 
@@ -36,9 +36,11 @@ Maria dropped the Light-Blaster on the carpet and leaned over my shoulder to wat
 
 ## Chapter 2: The Lower Bunk
 
-### Scene 1: Sanctuary
+### Sanctuary & The New Arrangement
 
 **Date:** 1993-12-22 at 21:30 America/New_York
+
+#### 9:30 PM — Sanctuary
 
 The Delaney Street house was not built to hold this much noise.
 
@@ -74,9 +76,9 @@ I wrapped my arms around her and squeezed back, applying the deep, heavy pressur
 
 It was a perfectly symbiotic system. Her tight, silent hugs grounded the frantic, buzzing anxiety in my own chest, and my presence acted as the physical anchor she needed to stop spiraling. We lay there on the bottom bunk in silence, perfectly hidden beneath the red quilt, letting the muffled sounds of Uncle Eddy settling into the living room and Joey taking over my bedroom fade away into the background.
 
-### Scene 2: The New Arrangement
+***
 
-**Date:** 1993-12-22 at 22:30 America/New_York
+#### 10:30 PM — The New Arrangement
 
 The logic the adults had tried to enforce earlier that evening was purely traditional: boys with boys, and girls with girls. Since all three bedrooms were grouped together on the second floor, the geographical math made sense to Mom and Dad. Joey was a boy, I was a boy, therefore Joey belonged in my room.
 
@@ -108,9 +110,11 @@ I let my eyes drift shut. Let Joey have the room down the hall. I had found a ne
 
 ## Chapter 3: The Morning After
 
-### Scene 1: The Discovery
+### Part 1: The Discovery & The Neon Quarter
 
 **Date:** 1993-12-23 at 07:00 America/New_York
+
+#### 7:00 AM — The Discovery
 
 Morning in the Delaney Street house began with the heavy, thudding footsteps of adults navigating the hallway.
 
@@ -152,9 +156,9 @@ He turned and pulled the door shut behind him, plunging the bottom bunk back int
 
 I didn't say anything back, but I let out a long, shaking breath of relief. Jessica had taken the parental logic, found the flaw in the system, and completely rewritten the rules for us. The geographic center of my routine had successfully shifted. For the rest of the holiday, the lower bunk was officially ours.
 
-### Scene 2: The Breakfast Table
+***
 
-**Date:** 1993-12-23 at 09:00 America/New_York
+#### 9:00 AM — The Breakfast Table
 
 By nine o'clock on the morning of December 23rd, the kitchen and dining room of the Delaney Street house had reached critical mass.
 
@@ -190,9 +194,9 @@ Rachel didn't loosen her grip by a single millimeter, and I didn't sit up straig
 
 But Jessica did. And as long as Rachel kept squeezing my arm, we were going to survive the morning.
 
-### Scene 3: Emerald Creek Mall
+***
 
-**Date:** 1993-12-23 at 13:00 America/New_York
+#### 1:00 PM — Emerald Creek Mall
 
 Moving sixteen people from Delaney Street to Chesapeake was a logistical nightmare that required a caravan of four separate cars. When we finally pulled into the massive, sprawling parking lot of the Emerald Creek Mall, the sheer volume of vehicles made it clear that we were walking into a warzone. It was December 23rd. The entire city of Chesapeake was doing their last-minute holiday shopping.
 
@@ -238,9 +242,9 @@ Rachel and I didn't hesitate. With our hands still locked together in a crushing
 
 We were still surrounded by the overwhelming noise, the bright lights, and the suffocating smells of the Emerald Creek Mall, but the immediate threat was gone. The adults were left behind to deal with the crowds and the cousins, while the three of us moved together as a single, insulated unit, surviving the chaos exactly the way we always did—by breaking the rules and sticking together.
 
-### Scene 4: The Doll Aisle
+***
 
-**Date:** 1993-12-23 at 13:15 America/New_York
+#### 1:15 PM — The Doll Aisle
 
 The physical relief of walking away from the massive, disorganized family circle was immediate. As Jessica steered us down the wide concourse, the oppressive weight of Uncle Eddy’s booming voice and Dad’s strict traffic directions faded into the general, ambient roar of the mall.
 
@@ -274,9 +278,9 @@ At the end of the aisle, Jessica leaned against the edge of a shelf, acting as o
 
 We were surrounded by pink plastic and mall chaos, but for the first time all day, no one was fighting. We were entirely safe.
 
-### Scene 5: The Neon Quarter
+***
 
-**Date:** 1993-12-23 at 13:45 America/New_York
+#### 1:45 PM — The Neon Quarter
 
 The Emerald Creek Mall food court was a vast, echoing cavern of clattering plastic trays, scraping metal chairs, and the overwhelming smell of greasy fries and baked pretzels. It was the designated meeting point for the entire extended family, which meant it was the absolute last place we wanted to be.
 
@@ -308,9 +312,11 @@ Rachel didn't speak, but she slowly reached her free hand out toward the glowing
 
 I wrapped my hand around the red plastic ball of the joystick. The bright, 8-bit maze lit up the screen in front of us. Behind me, the mall was a warzone of holiday stress, but right here, bathed in the warm glow of the cathode-ray tube, the universe made perfect, mathematical sense. Rachel’s hand hovered over the button, waiting for my signal. We were safe in the dark, letting the machines drown out the rest of the world.
 
-### Scene 6: Not Proper
+### Part 2: Not Proper & The Father's Perspective
 
 **Date:** 1993-12-23 at 14:30 America/New_York
+
+#### 2:30 PM — Not Proper
 
 The heavy brass tokens eventually ran out, and Jessica signaled that our time in the quiet, mechanical sanctuary of The Neon Quarter was over.
 
@@ -372,9 +378,9 @@ Dad opened his eyes, defeated by the sheer logistics of his own family. He looke
 
 Jessica flashed me a subtle, triumphant smirk. The adults had tried to enforce their invisible social rules, but the sheer, undeniable reality of Joey's chaos had broken the system in our favor. The lower bunk was secure.
 
-### Scene 7: The Bantam Workaround
+***
 
-**Date:** 1993-12-23 at 15:15 America/New_York
+#### 3:15 PM — The Bantam Workaround
 
 The aftermath of Joey’s food court tantrum meant the massive family shopping trip was officially aborted. The logistics of getting sixteen people back to Delaney Street required splitting up again. Mom, Uncle Eddy, and Aunt Janet took the cousins and the grandmothers in the larger sedans, leaving Dad to transport me and my sisters in the truck.
 
@@ -436,9 +442,9 @@ Dad gripped the steering wheel, his jaw clenched, staring straight ahead at the 
 
 We rode the rest of the way home squished together on the middle bench, completely safe, yelling our sanctioned bad words over the roar of the Izumi Bantam's engine.
 
-### Scene 8: The Father's Perspective
+***
 
-**Date:** 1993-12-23 at 15:30 America/New_York
+#### 3:30 PM — The Father's Perspective
 
 Dad kept his eyes locked on the road, his jaw tight as he steered the Izumi Bantam out of the sprawling mall parking lot, making a sharp right onto River Birch Run.
 
@@ -476,9 +482,11 @@ With a heavy sigh, Dad parallel parked the Bantam against the curb, cut the engi
 
 ## Chapter 1: The Sanctuary – Friday, August 11th, 1995
 
-### Scene 1: The Safe Harbor
+### Part 1: The Safe Harbor & The Pal and the Perimeter
 
 **Date:** 1995-08-11 at 16:55 America/New_York
+
+#### 4:55 PM — The Safe Harbor
 
 The suffocating, humid heat of the 1995 Chesapeake water crisis hung heavy in the air, but inside Master April’s garage in the Lynnhaven district, the atmosphere was entirely different.
 
@@ -524,9 +532,9 @@ She stood up, the playful energy seamlessly shifting into quiet, absolute focus.
 
 We scrambled to our spots on the colorful foam. It wasn't the terrifying, rigid scramble of Tidewater Tumblers. It was just a group of kids getting ready to learn from someone they entirely trusted.
 
-### Scene 2: The Shift
+***
 
-**Date:** 1995-08-11 at 17:00 America/New_York
+#### 5:00 PM — The Shift
 
 The digital clock on the garage wall clicked to exactly 5:00 PM.
 
@@ -580,9 +588,9 @@ Master April looked at the grid of students, from the 2nd Pooms in the front to 
 
 "Perfect," Master April nodded. "*Sijak.* Let's begin."
 
-### Scene 3: The Mechanics of Spirit
+***
 
-**Date:** 1995-08-11 at 17:05 America/New_York
+#### 5:05 PM — The Mechanics of Spirit
 
 The beauty of Friday Open Gym was the absolute lack of a metronome. At Tidewater Tumblers, Master Ray forced us to move to a frantic, collective count. But here on the puzzle mats, Master April ran the hour like an open study hall.
 
@@ -660,9 +668,9 @@ When we stood back up, the rigid posture of the Dojang immediately evaporated. A
 
 "Great work tonight, everyone!" April cheered, walking over to the mini-fridge in the corner to pull out a cardboard flat of juice boxes. "Grab a drink, get your gear, and get some sleep! I will see all of you bright and early tomorrow on the spring floor!"
 
-### Scene 4: The Pal and the Perimeter
+***
 
-**Date:** 1995-08-11 at 18:05 America/New_York
+#### 6:05 PM — The Pal and the Perimeter
 
 The rigid structure of the Dojang vanished the instant we broke formation.
 
@@ -722,9 +730,11 @@ With Ashley on one side and Rachel on the other, my physical perimeter was compl
 
 I squeezed Rachel's shoulder, and she squeezed my hand back. We were exhausted, and tomorrow on that massive spring floor was going to be terrifying. But as the truck pulled away from April's garage and headed deeper into Virginia Beach, surrounded by the only people in the world I truly trusted, I actually believed Ashley was right.
 
-### Scene 5: The Perimeter Secured
+### Part 2: The Perimeter Secured & The Core Pack
 
 **Date:** 1995-08-11 at 18:25 America/New_York
+
+#### 6:25 PM — The Perimeter Secured
 
 Dad pulled the truck into the driveway of our Delaney Street house and killed the engine.
 
@@ -772,9 +782,9 @@ I looked around the table. The noise was chaotic—Melissa teasing Ashley, Dad t
 
 Tomorrow morning, Rachel and I had to walk onto that massive, rebounding spring floor and face the terrifying scrutiny of the 7th Dan Regional Director. We had to prove we were worthy of the brown *tti*. But sitting here in the dining room, surrounded by my sisters, my dogs, and the absolute safety of the Delaney Street base camp, I knew that no matter what happened on the mats, our pack was unbreakable.
 
-### Scene 6: The Living Room Bivouac
+***
 
-**Date:** 1995-08-11 at 19:30 America/New_York
+#### 7:30 PM — The Living Room Bivouac
 
 The massive dinner of roasted chicken and mashed potatoes was officially cleared from the table, signaling the start of the night's main event. It wasn't just a Friday; we were having a full pack sleepover.
 
@@ -804,9 +814,9 @@ With a synchronized, practiced heave, Rachel and I pulled the heavy folding mech
 
 We threw our quilts over the thin mattress and tossed our pillows against the headboard. It was the absolute perfect setup. Tomorrow, Rachel and I were going to face the terrifying pressure of the 7th Dan Regional Director on that massive spring floor. But tonight, surrounded by the hum of the air pumps, the smell of dinner in the kitchen, and the entire, undivided pack settling into the living room, the anxiety couldn't touch us. The perimeter was perfectly secure.
 
-### Scene 7: The Core Pack
+***
 
-**Date:** 1995-08-11 at 21:00 America/New_York
+#### 9:00 PM — The Core Pack
 
 The house finally quieted down as the living room completed its transformation into a full-scale bivouac.
 
@@ -836,9 +846,11 @@ The perimeter was locked tight, and the pack was safe.
 
 ## Chapter 2: The Catalyst – Saturday, August 12th, 1995
 
-### Scene 1: The Inventory
+### The Inventory & The Genesis of Hatred
 
 **Date:** 1995-08-12 at 09:00 America/New_York
+
+#### 9:00 AM — The Inventory
 
 The main gymnastics floor of Tidewater Tumblers & Martial Arts didn’t feel like a gymnastics floor today.
 
@@ -882,9 +894,9 @@ April returned Master Scott's bow with absolute, clinical respect. She turned he
 
 *"Sijak,"* April commanded. Begin.
 
-### Scene 2: The Physicality of Spirit
+***
 
-**Date:** 1995-08-12 at 10:15 America/New_York
+#### 10:15 AM — The Physicality of Spirit
 
 When the Green Belts with stripes were called forward, the tension in the room spiked. This was the test for the Brown tti—the gateway to the advanced ranks.
 
@@ -918,9 +930,9 @@ The word hit me like sunlight. I didn’t grin. I just bowed—fast, relieved, s
 
 Curtis’s jaw locked. To him, martial arts was purely an aesthetic of violence. My kick was ugly. It was weak. Curtis shifted his weight, his disgust boiling over into silent rage. *She's lowering the standard,* Curtis thought, glaring fiercely at the twenty-two-year-old *Sunhoe Sabomnim*. *She's turning this place into a daycare.*
 
-### Scene 3: The Deafening Silence
+***
 
-**Date:** 1995-08-12 at 10:30 America/New_York
+#### 10:30 AM — The Deafening Silence
 
 Then Rachel stepped forward. Eight years old. Small frame. A stillness that looked like perfect obedience until you realized it was total containment.
 
@@ -976,9 +988,9 @@ On the edge of the mat, Curtis felt a hot, blinding spike of fury hit the back o
 
 Curtis’s hands balled into fists against his thighs. In his twisted, toxic mind, April wasn't validating the child's spirit—she was insulting the entire martial art. As he watched Rachel stand safely next to me in the green belt line, a dark, vindictive thought cemented in his brain. If the Emissary was too soft to enforce the rules, he would have to fix the defect himself. He would have to break the silence out of her.
 
-### Scene 4: The 3rd Dan Disaster
+***
 
-**Date:** 1995-08-12 at 11:45 America/New_York
+#### 11:45 AM — The 3rd Dan Disaster
 
 When the Dan candidates were called, the energy in the room shifted drastically. Master Ray called Master Curtis forward, hoping for a smooth, impressive display to secure the Dojang's reputation.
 
@@ -1060,9 +1072,9 @@ April looked at the thirty-four-year-old man standing on the mat. He was a bully
 
 *"Bulhapgyeok,"* Master April decreed. *"Mulleogara."* Fail. Step off the mat.
 
-### Scene 5: The Genesis of Hatred
+***
 
-**Date:** 1995-08-12 at 12:05 America/New_York
+#### 12:05 PM — The Genesis of Hatred
 
 Curtis stood frozen. The decree—Bulhapgyeok—echoed in his ears, completely dismantling his reality.
 
@@ -1110,9 +1122,11 @@ Curtis crossed his arms, his white uniform pulling tight across his chest. He wa
 
 ## Chapter 3: The Enforcer
 
-### Scene 1: The Mirrored Room
+### Part 1: The Mirrored Room & The Missing Cup
 
 **Date:** 1995-08-15 at 16:00 America/New_York
+
+#### 4:00 PM — The Mirrored Room
 
 The Chesapeake water crisis of 1995 meant that every time you pressed the metal button on the water fountain outside the main gymnastics floor, you got a mouthful of the Currituck Sound.
 
@@ -1206,9 +1220,9 @@ Rachel stepped forward and threw a slow, measured *Dollyo Chagi*—a roundhouse 
 
 We didn't say a word around our mouth guards, but as our pads connected, the silent agreement passed between us. The adults in this building were never going to understand us, and we were never going to be what they wanted. But as long as we were paired together, we would survive the hour.
 
-### Scene 2: The Missing Cup
+***
 
-**Date:** 1995-08-15 at 16:15 America/New_York
+#### 4:15 PM — The Missing Cup
 
 Rachel and I had fallen into a steady, hypnotic rhythm at the far end of the mirrored room.
 
@@ -1262,9 +1276,11 @@ Daniel slowly, agonizingly dragged himself across the slick tile toward the peri
 
 I looked at Rachel. The bubble had popped. The reality of how dangerous this room was—and how little the adults cared about our safety—was suddenly blindingly obvious. I raised my heavy foam gloves back up, my muscles tense and shaking, and braced myself for her next kick.
 
-### Scene 3: Breaking the Silence
+### Part 2: Breaking the Silence & The Top Row
 
 **Date:** 1995-08-15 at 16:55 America/New_York
+
+#### 4:55 PM — Breaking the Silence
 
 "Kman! Class dismissed! Line up and bow out!"
 
@@ -1364,9 +1380,9 @@ Another tiny nod from my sister.
 
 April stood back up, smoothing her uniform. She turned back to the center of the room, assuming command of the floor with effortless authority. Master Ray offered an approving nod, clearly relieved to have the tension broken.
 
-### Scene 4: The Anchor and the Ego
+***
 
-**Date:** 1995-08-15 at 17:00 America/New_York
+#### 5:00 PM — The Anchor and the Ego
 
 "You all worked hard today," April announced to the room. "Kman. Class dismissed."
 
@@ -1412,9 +1428,9 @@ The word was incredibly soft, barely louder than the hum of the overhead fluores
 
 We were sitting barefoot on the freezing linoleum, covered in sweat, wearing ridiculous foam armor in a room designed to break us. But as Rachel leaned her head against my shoulder, the Dojang didn't feel like purgatory anymore. It felt like a conquered territory. Master Curtis could call us weak all he wanted, but Rachel had just found her voice, and she had used it to put him exactly in his place.
 
-### Scene 5: The Top Row
+***
 
-**Date:** 1995-08-15 at 17:10 America/New_York
+#### 5:10 PM — The Top Row
 
 We didn't stay in the Dojang a second longer than we had to. We shoved our heavy, sweaty sparring gear into our canvas bags and climbed the metal stairs to the second-floor observation deck.
 
@@ -1490,9 +1506,11 @@ Jessica didn't care about the traffic light. A massive, brilliant smile broke ac
 
 The rest of the ride back to Delaney Street was the loudest car trip we had ever taken. Aunt Janet was still in shock, but Jessica completely took over, asking Rachel question after question just to hear her answer. And Rachel, leaning safely against my side, answered every single one.
 
-### Scene 6: The Delaney Street Revelation
+### Part 3: The Delaney Street Revelation & The Code Wizard
 
 **Date:** 1995-08-15 at 17:45 America/New_York
+
+#### 5:45 PM — The Delaney Street Revelation
 
 Aunt Janet pulled the sedan up to the curb outside 1852 Delaney Street. She didn't even put the car in park before Jessica was pushing her door open.
 
@@ -1556,9 +1574,9 @@ Jessica let out a loud, watery cheer from the doorway, finally breaking her sile
 
 I stayed exactly where I was, standing just outside the edge of the massive family hug. My legs were exhausted from the Dojang, and my feet were cold, but my chest felt completely light. I watched my sister successfully rewrite the rules of our entire family with nothing but her voice, and for the first time in my life, I felt like we were actually going to be okay.
 
-### Scene 7: Wash the Dojang Away
+***
 
-**Date:** 1995-08-15 at 18:00 America/New_York
+#### 6:00 PM — Wash the Dojang Away
 
 The massive family hug in the center of the kitchen finally broke apart.
 
@@ -1608,9 +1626,9 @@ Rachel had spoken. She had looked a terrifying adult directly in the eye and def
 
 As the hot water beat down on the back of my neck, I realized I wasn't just washing away a bad practice. I was washing away an entire era of our childhood. The silent, suffocating rules that had governed us were officially broken. We were home, the dogs were happy, and tomorrow, everything was going to be different.
 
-### Scene 8: The Dinner Table
+***
 
-**Date:** 1995-08-15 at 18:30 America/New_York
+#### 6:30 PM — The Dinner Table
 
 Dinner at the Delaney Street house had always operated on a very specific, unspoken audio frequency. Dad would talk about work, Mom would ask about our days, and Jessica would carry the bulk of the sibling conversation. I would give flat, one-word answers, and Rachel would communicate entirely through soft hums, sharp points, and the occasional tug on Mom’s sleeve.
 
@@ -1672,9 +1690,9 @@ Rachel didn't even have to think about it. It was the undisputed superior choice
 
 It was going to take months of speech therapy, endless frustration, and a lot of patience to get her caught up to her peers. But sitting there at the Delaney Street table, watching Mom enthusiastically pour a massive glass of apple juice, I knew the worst part was over. Master Curtis had tried to break her, but all he had done was hand her the keys to the castle.
 
-### Scene 9: The Code Wizard
+***
 
-**Date:** 1995-08-15 at 19:30 America/New_York
+#### 7:30 PM — The Code Wizard
 
 The house settled into its quiet, predictable evening rhythm.
 
@@ -1728,9 +1746,11 @@ Rachel pressed the start button, dropping her pixelated character onto the vibra
 
 We sat there for an hour, the soft glow of the television illuminating the dark bedroom. It had been the most exhausting, terrifying, and massive day of our entire lives. But as I listened to my little sister quietly narrate her way through the colorful levels, perfectly safe and armed with her brand-new voice, I knew we had won.
 
-### Scene 10: The Solstice Myth
+### Part 4: The Solstice Myth & The Twin-Bed Geometry
 
 **Date:** 1995-08-15 at 20:30 America/New_York
+
+#### 8:30 PM — The Solstice Myth
 
 Rachel eventually guided her pixelated character past the final fortress of the current map, the screen fading to black. She let out a soft, satisfied sigh, dropping the grey SN-16 controller onto my carpet.
 
@@ -1780,9 +1800,9 @@ When the movie finally ended, the triumphant, original orchestral music swelled 
 
 Jessica leaned her head on my shoulder, Rachel drifted halfway to sleep against my chest, and Archie let out a soft, snoring breath through his tennis ball. The Dojang, Master Curtis, and the brackish water were a million miles away. In the quiet glow of the cathode-ray tube, the universe was perfectly in balance.
 
-### Scene 11: The Twin-Bed Geometry
+***
 
-**Date:** 1995-08-15 at 22:45 America/New_York
+#### 10:45 PM — The Twin-Bed Geometry
 
 The triumphant, brass-heavy orchestral suite played over the scrolling blue credits of Return of the Guardians, filling the dark bedroom with a final wave of cinematic energy. As the music faded and the screen transitioned to the harsh, silent static of the tape's end, the exhaustion of the day finally crashed down on all of us.
 
@@ -1818,9 +1838,11 @@ But as Rachel’s steady heartbeat thumped against my arm, I had never felt safe
 
 ## Chapter 4: The Latchkey Solstice
 
-### Scene 1: The Latchkey Captain
+### Part 1: The Latchkey Captain & The Canvas Fortress
 
 **Date:** 1995-08-16 at 08:30 America/New_York
+
+#### 8:30 AM — The Latchkey Captain
 
 Waking up was a slow, agonizing process.
 
@@ -1894,9 +1916,9 @@ Ashley wasn't blood, but she was pack. The physical affection between us was lou
 
 The Dojang was behind us, the house was ours, and for the first time in my life, I didn't feel the need to brace myself against the day. It was just a Wednesday in August, and everything was exactly as it was supposed to be.
 
-### Scene 2: The Live-Action Tape
+***
 
-**Date:** 1995-08-16 at 10:00 America/New_York
+#### 10:00 AM — The Live-Action Tape
 
 The doorbell rang right at ten o'clock, sending Archie scrambling to his feet. His tail immediately started thumping against the wall.
 
@@ -1980,9 +2002,9 @@ The credits rolled, a catchy, upbeat pop-rap song playing over the speakers. The
 
 It was just a movie. The violence on the screen was just choreography and costumes, safely contained inside the heavy glass tube of the television. As we sat there in the late morning sunlight, wrapped up in the lap cuddle with the dogs at our feet, the world felt entirely safe, predictable, and fun.
 
-### Scene 3: The Highland Leviathan
+***
 
-**Date:** 1995-08-16 at 11:45 America/New_York
+#### 11:45 AM — The Highland Leviathan
 
 With the movie finished and the hero geckos victorious, Melissa hit the stop button on the VCR. The screen dropped to static for a brief second before she clicked the heavy CRT television off entirely.
 
@@ -2022,9 +2044,9 @@ A few minutes later, Jessica and Melissa walked out of the kitchen balancing two
 
 As we sat there eating lunch, wrapped up in the lap cuddle with the dogs resting heavily at our feet, there was no need to brace for anything. The movie was a hit, the house was ours, and it was just a perfect, golden Wednesday afternoon.
 
-### Scene 4: The Canvas Fortress
+***
 
-**Date:** 1995-08-16 at 13:00 America/New_York
+#### 1:00 PM — The Canvas Fortress
 
 As the last of the pizza bagels disappeared from the coffee table, Melissa clapped her hands together, brushing a few stray crumbs off her jeans.
 
@@ -2056,9 +2078,11 @@ I nodded, resting my chin on Rachel's head. It was the classic Delaney Street se
 
 Rachel wiggled happily, tapping a rapid, joyful beat against my forearm. Between her newfound voice, the arcade invitations, and the prospect of sleeping outside under the stars in a brand-new canvas fortress, it was shaping up to be the greatest Wednesday of the entire summer.
 
-### Scene 5: Shore Power
+### Part 2: Shore Power & Lights Out
 
 **Date:** 1995-08-16 at 19:00 America/New_York
+
+#### 7:00 PM — Shore Power
 
 Dad walked through the front door right at seven o'clock, still wearing his *Baja Taco* manager's uniform, completely exhausted but smiling the second he saw the energy in the house. Mom had gotten home from the mall at five and had immediately taken over the kitchen.
 
@@ -2098,9 +2122,9 @@ Finally, the entire pack met by the back door, armed with flashlights and extra 
 
 We spilled out into the dark backyard, the orange extension cord leading the way like a lifeline. Melissa unzipped the heavy nylon door, and one by one, we crawled into the massive, padded fortress, ready to spend the entire night under the stars.
 
-### Scene 6: The Ball Pit Strategy
+***
 
-**Date:** 1995-08-16 at 20:30 America/New_York
+#### 8:30 PM — The Ball Pit Strategy
 
 Melissa pulled the heavy nylon zipper of the tent door shut, sealing us inside the canvas fortress. The only light came from a pair of heavy-duty plastic flashlights aimed up at the domed ceiling, casting a warm, diffused glow over the wall-to-wall patchwork of sleeping bags and quilts. From the corner, the silver portable stereo played a local FM pop station at a low, comfortable volume.
 
@@ -2144,9 +2168,9 @@ I closed my eyes, listening to Ashley's excited whispering on my right and feeli
 
 It was the absolute peak of our childhood.
 
-### Scene 7: Lights Out
+***
 
-**Date:** 1995-08-16 at 20:45 America/New_York
+#### 8:45 PM — Lights Out
 
 By a quarter to nine, the chaotic energy inside the tent finally began to mellow into a heavy, comfortable exhaustion. The local FM pop station playing on the boombox transitioned into a block of slow, acoustic evening tracks.
 
@@ -2188,9 +2212,11 @@ I closed my eyes, surrounded by the steady breathing of my pack, the cool grass 
 
 ## Chapter 5: The Thursday Deployment – Thursday, August 17, 1995
 
-### Scene 1: Breaking Camp
+### Part 1: Breaking Camp & The Neurological Wall
 
 **Date:** 1995-08-17 at 07:30 America/New_York
+
+#### 7:30 AM — Breaking Camp
 
 Waking up inside a nylon tent always felt fundamentally different than waking up in a house.
 
@@ -2246,9 +2272,9 @@ Melissa and Ashley carried their bowls to the sink. Ashley walked back over to t
 
 We watched the Raybourn sisters walk out the front door, the heavy wood clicking shut behind them. The house instantly felt quieter without them. Jessica let out a loud yawn, stretching her arms over her head, and announced she was going upstairs to catch a few more hours of sleep before gymnastics. Rachel carried her empty bowl to the sink, her steps light and energetic. The tent was packed away, the morning chores were done, and it was time to start our Thursday.
 
-### Scene 2: The Living Room Dojang
+***
 
-**Date:** 1995-08-17 at 11:30 America/New_York
+#### 11:30 AM — The Living Room Dojang
 
 By half-past eleven, the Delaney Street living room had been completely reconfigured. We had pushed the heavy oak coffee table flush against the front of the sofa, creating a wide, open clearing of carpet right in the center of the room.
 
@@ -2326,9 +2352,9 @@ Rachel pulled her fist back, a massive, glowing smile breaking across her face. 
 
 We were completely dialed in. Our stances were solid, and Rachel's voice was officially ready for deployment. In a few hours, we would put on our crisp white *doboks* and tie our Brown belts around our waists. The clock was slowly ticking toward our five o'clock class, and for the first time in my life, I couldn't wait to get there.
 
-### Scene 3: The Neurological Wall
+***
 
-**Date:** 1995-08-17 at 11:45 America/New_York
+#### 11:45 AM — The Neurological Wall
 
 I picked up the heavy blue kick shield from the sofa and tossed it to Rachel.
 
@@ -2390,9 +2416,11 @@ Master Curtis would have barked at me. He would have told me I wasn't focusing h
 
 I ran forward and launched myself off the carpet again. My leg seized up exactly as it had before, locking tight in the air, and I landed heavily on the floor without striking the pad. But as I caught my balance, I didn't feel the suffocating weight of disappointment. I just reset my stance, locked eyes with Rachel, and prepared to try again.
 
-### Scene 4: The Observation Deck
+### Part 2: The Observation Deck & The Core Check
 
 **Date:** 1995-08-17 at 13:30 America/New_York
+
+#### 1:30 PM — The Observation Deck
 
 The heavy thud of a car door shutting in the driveway signaled the end of our living room training session.
 
@@ -2484,9 +2512,9 @@ I opened my eyes and looked down at her. She was staring straight ahead, complet
 
 We settled back into the corner, our eyes tracking Jessica down on the balance beam. As the clock slowly ticked toward our five o'clock class, we sat wrapped in the warm, invincible certainty of a future that belonged entirely to us.
 
-### Scene 5: The Staging Area
+***
 
-**Date:** 1995-08-17 at 16:30 America/New_York
+#### 4:30 PM — The Staging Area
 
 The large analog clock mounted high above the vault runway clicked to exactly four-thirty.
 
@@ -2518,9 +2546,9 @@ She turned to face me, dropping her feet shoulder-width apart into a casual *Nar
 
 We stood there in the quiet lobby, perfectly calm and completely focused, waiting for the heavy wooden doors to swing open and our Thursday lesson to begin.
 
-### Scene 6: The Core Check
+***
 
-**Date:** 1995-08-17 at 17:00 America/New_York
+#### 5:00 PM — The Core Check
 
 Rachel and I bowed into the Dojang, taking our positions on the line. The room sat directly underneath the second-floor observation deck, a boxed-in rectangular space with low ceilings and harsh fluorescent lighting. Because the room doubled as a dance studio, the floor was covered in hard, slick linoleum tile. We were barefoot, and the floor was always freezing against the soles of my feet.
 
@@ -2612,9 +2640,11 @@ He finally shifted his weight, completed the stride, and stepped back onto the f
 
 The leg lifts finally finished at a count of fifty.
 
-### Scene 7: The Rest of the Hour
+### Part 3: The Rest of the Hour & The Broken Routine
 
 **Date:** 1995-08-17 at 17:30 America/New_York
+
+#### 5:30 PM — The Rest of the Hour
 
 "Stand up! Fall in!" Master Curtis barked, clapping his hands together with a sharp, echoing crack.
 
@@ -2674,9 +2704,9 @@ We didn't look at the mirrors, and we didn't look at Master Curtis.
 
 We just focused entirely on the ticking clock on the back wall, desperately trying to mask the heavy, persistent ache in our stomachs, silently wondering if the deep, bruising pain inside us was ever going to go away.
 
-### Scene 8: The Observation Deck
+***
 
-**Date:** 1995-08-17 at 18:30 America/New_York
+#### 6:30 PM — The Observation Deck
 
 "Class dismissed! Line up and bow out!" Master Curtis barked, signaling the end of the hour.
 
@@ -2732,9 +2762,9 @@ I just carefully, gently adjusted her weight, shifting my hips to relieve the wo
 
 I just held her tightly against my chest, staring blankly out over the gym, entirely focused on being the physical shield my baby sister needed until it was finally time to go home.
 
-### Scene 9: The Broken Routine
+***
 
-**Date:** 1995-08-17 at 19:00 America/New_York
+#### 7:00 PM — The Broken Routine
 
 The loud, grating buzzer echoed across the cavernous gymnastics floor, signaling the official end of the 7:00 PM classes.
 
@@ -2832,9 +2862,11 @@ Mom was standing by the trunk. When she saw her fourteen-year-old and twelve-yea
 
 She reached past me to pull my seatbelt across my chest. As the heavy strap dragged across my stomach, I flinched, biting back a groan. Mom didn't notice. The "tough love" narrative Dad had planted earlier that evening had completely blinded her to the reality right in front of her face. We were sitting in the dark backseat, broken and in agonizing pain, and the adult world was driving us straight home without a second glance.
 
-### Scene 10: The Adult Echo Chamber
+### Part 4: The Adult Echo Chamber & The Fracture
 
 **Date:** 1995-08-17 at 19:15 America/New_York
+
+#### 7:15 PM — The Adult Echo Chamber
 
 "Mom, you need to go inside and pull Michael and Rachel out of that Dojang right now," Jessica demanded before Mom could even put the car in drive.
 
@@ -2884,9 +2916,9 @@ Beside us, Janette leaned over, pressing her forehead against my shoulder and st
 
 I just wrapped both of my arms around my little sister, pulling her as tightly against my chest as my ruined stomach would allow. I glared at the back of my mother's head in the rearview mirror, an intense, freezing realization settling over me. The adult world was completely blind, and the only people who would ever truly protect us were the two teenage girls sitting in this car.
 
-### Scene 11: The Locked Door
+***
 
-**Date:** 1995-08-17 at 19:45 America/New_York
+#### 7:45 PM — The Locked Door
 
 The rest of the car ride was a suffocating, heavy silence. We dropped Janette off at Aunt Janet's house first. Janette reached over the seat and gave my shoulder one last, fierce squeeze before getting out of the car, her eyes still lined with angry tears. She didn't want to leave us, but there was nothing she could do to stop the momentum of the evening.
 
@@ -2970,9 +3002,9 @@ Jessica stood up, pulling the heavy red quilted blanket down from the top bunk t
 
 The room went dark as she clicked off the lamp. The adults downstairs were completely locked out. For tonight, the bottom bunk was our absolute sanctuary, and as Rachel pressed her back firmly against my side to anchor herself, we finally allowed ourselves to close our eyes.
 
-### Scene 12: The Fracture
+***
 
-**Date:** 1995-08-17 at 20:15 America/New_York
+#### 8:15 PM — The Fracture
 
 The room wasn't pitch black yet. It was mid-August in Virginia Beach, which meant the sun had only just dipped below the horizon a few minutes ago. A fading, dusky violet twilight bled through the bedroom blinds, casting long, soft shadows across the carpet, mixing with the thin sliver of yellow hallway light underneath the locked door.
 
@@ -3040,9 +3072,11 @@ The adults who were supposed to protect us had failed, but we had each other.
 
 ## Chapter 6: The Shattered Illusion
 
-### Scene 1: The Physical Proof
+### Part 1: The Physical Proof & The Admission
 
 **Date:** 1995-08-18 at 08:00 America/New_York
+
+#### 8:00 AM — The Physical Proof
 
 The morning light bleeding through the bedroom blinds felt heavy and exhausting.
 
@@ -3124,9 +3158,9 @@ Mom wiped her face roughly with the sleeve of her bathrobe, a new, fierce determ
 
 "We are going to Dr. Young," Mom stated firmly. "Right now."
 
-### Scene 2: The Convergence
+***
 
-**Date:** 1995-08-18 at 10:30 America/New_York
+#### 10:30 AM — The Convergence
 
 The sterile, brightly lit exam room of Dr. Winfield Young's pediatric clinic was a sharp contrast to the dark sanctuary of our bedroom.
 
@@ -3228,9 +3262,9 @@ We weren't crazy. We weren't weak. We hadn't imagined the malice.
 
 The system that had crushed us was currently being dismantled by the police, and the monster in the white uniform was officially caught.
 
-### Scene 3: The Children's Hospital
+***
 
-**Date:** 1995-08-18 at 11:05 America/New_York
+#### 11:05 AM — The Children's Hospital
 
 The twenty-minute drive from Dr. Young’s clinic near Lake James to the massive Children’s Hospital in Norfolk was a masterclass in agony.
 
@@ -3274,9 +3308,9 @@ I climbed onto the bed on the right, keeping my back perfectly flat to prevent m
 
 As we lay there under the harsh fluorescent lights, waiting for the imaging machines that would reveal the true extent of our injuries, and anticipating the police detective who was on his way to finally take Master Curtis down, the only thing keeping the panic at bay was the grip of my sister's hand in mine.
 
-### Scene 4: The Admission
+***
 
-**Date:** 1995-08-18 at 13:00 America/New_York
+#### 1:00 PM — The Admission
 
 The trauma attending physician returned to our bay, looking much more settled but no less serious. He pulled up a stool next to the two beds where Rachel and I were still locked in our silent, joined-hand perimeter.
 
@@ -3292,9 +3326,11 @@ Before the doctor left, he leaned in closer. "I also thought you should know—t
 
 I felt a microscopic slackening in Rachel’s grip. For the first time since Tuesday, the predator was behind bars.
 
-### Scene 5: The ICU Encounter
+### Part 2: The ICU Encounter & The Empty Mats
 
 **Date:** 1995-08-18 at 15:30 America/New_York
+
+#### 3:30 PM — The ICU Encounter
 
 The afternoon stretched into a blur of blood draws and beeping IV pumps. Mom eventually had to step out to the hallway to find a payphone to update Jessica and Dad. When she came back into the trauma bay fifteen minutes later, she looked like she had seen a ghost.
 
@@ -3312,9 +3348,9 @@ The silence that followed was suffocating. Rachel buried her face in my shoulder
 
 I looked at the massive, dark purple footprint on my own stomach. I was ten. I was heavy. I had core strength from years of martial arts and the high-tone muscles caused by my Cerebral Palsy. Rachel was eight and a brown belt. We were "strong" in the eyes of the ER doctor, but Drew was just a baby. Master Curtis had used the same foot to crush a toddler that he had used on us, and the math of that cruelty was almost too much to process.
 
-### Scene 6: The Statement
+***
 
-**Date:** 1995-08-18 at 16:30 America/New_York
+#### 4:30 PM — The Statement
 
 The heavy glass door of the trauma bay slid open, and Detective Harris stepped back in. He looked tired, his tie loosened, but his eyes were kind.
 
@@ -3370,9 +3406,9 @@ By the time I was finished, Mom was sobbing into her hands, and Detective Harris
 
 "We've got him, kids," the detective said, his voice thick with a quiet, lethal intent. "I promise you. We've got him."
 
-### Scene 7: The Pack Assembles
+***
 
-**Date:** 1995-08-18 at 18:15 America/New_York
+#### 6:15 PM — The Pack Assembles
 
 The harsh, fluorescent overhead lights of the trauma bay were eventually dimmed, replaced by the soft, amber glow of the monitors and the steady, rhythmic hum of the IV pumps.
 
@@ -3436,9 +3472,9 @@ I looked up at Jessica. She caught my eye, offering a slow, solid nod of validat
 
 The illusion of Tidewater Tumblers was dead, and the adults who had allowed it to happen were going to face absolute ruin. But in the dim, amber light of the pediatric trauma bay, surrounded by the quiet beeping of the monitors, the six of us had finally formed an impenetrable wall. Master Curtis had tried to break us, but all he had actually done was forge our family into something that could never be fractured again.
 
-### Scene 8: The Empty Mats
+***
 
-**Date:** 1995-08-18 at 17:15 America/New_York
+#### 5:15 PM — The Empty Mats
 
 The sanctioned, fully permitted dojang in April’s garage was the exact opposite of the harsh, fluorescent purgatory at Tidewater Tumblers.
 
@@ -3504,9 +3540,11 @@ April closed her eyes, took a deep, shuddering breath, and manually locked her t
 
 "Alright, everyone," April called out, her voice remarkably steady as she stepped back onto the foam. "Let's get lined up. We have a lot of forms to cover today."
 
-### Scene 9: The Ultimate Bow
+### Part 3: The Ultimate Bow & The Perimeter
 
 **Date:** 1995-08-18 at 18:45 America/New_York
+
+#### 6:45 PM — The Ultimate Bow
 
 The heavy glass door of the trauma bay slid open with a soft hiss.
 
@@ -3554,9 +3592,9 @@ Rachel looked up at her, the exhaustion heavy in her dark eyes, but a tiny, genu
 
 We were lying in a hospital, broken and bruised, but the perimeter was secure. Dad was sitting in the corner, Jessica and Janette were guarding the door, and the one instructor who actually understood the true meaning of the martial art was standing right beside us, holding our hands in the dark.
 
-### Scene 10: The Promise
+***
 
-**Date:** 1995-08-18 at 18:50 America/New_York
+#### 6:50 PM — The Promise
 
 April stayed in the narrow gap between our hospital beds. The frantic, terrified energy that had consumed the afternoon was entirely gone, replaced by a quiet, fierce warmth.
 
@@ -3602,9 +3640,9 @@ In that quiet, amber-lit hospital room, wrapped in the safety of our family’s 
 
 We just had to wait for the doctors to give us the green light.
 
-### Scene 11: The Anchor
+***
 
-**Date:** 1995-08-18 at 19:15 America/New_York
+#### 7:15 PM — The Anchor
 
 The clock on the wall of the trauma bay ticked past seven. The amber light from the monitors cast long, quiet shadows across the linoleum, and the heavy blanket of exhaustion was finally beginning to overtake the adrenaline in the room.
 
@@ -3650,9 +3688,9 @@ Curtis had tried to destroy us to prove how strong he was. But all he had actual
 
 We had won.
 
-### Scene 12: The Perimeter
+***
 
-**Date:** 1995-08-18 at 20:00 America/New_York
+#### 8:00 PM — The Perimeter
 
 The pediatric trauma bay had settled into a quiet, heavy rhythm. The harsh adrenaline of the afternoon had finally burned off, leaving behind a deep, collective exhaustion.
 
@@ -3706,7 +3744,7 @@ Nurse Sarah gave Jessica and Janette a warm, validating smile on her way out. "Y
 
 As the glass door slid shut, securing us back in the quiet isolation of the trauma bay, I felt a profound sense of safety wash over me. The hospital wasn't a scary place. It was a fortress. And for the first time in my life, I truly understood that the strongest people in my world weren't the adults wearing black belts. They were the people sitting right here in this room.
 
-### Scene 13: The Night Shift
+### Part 4: The Night Shift
 
 **Date:** 1995-08-18 at 21:00 America/New_York
 
@@ -3756,9 +3794,11 @@ The hospital was a miserable place to spend the night. We were in pain, exhauste
 
 ## Chapter 7: The Long Road
 
-### Scene 1: Kehr’s Sign
+### Part 1: Kehr’s Sign & The Broken Anchor
 
 **Date:** 1995-08-19 at 07:30 America/New_York
+
+#### 7:30 AM — Kehr’s Sign
 
 The gray light of dawn slowly transitioned into the harsh, uncompromising brightness of Saturday morning.
 
@@ -3820,9 +3860,9 @@ Dad looked down at Rachel. The anger radiating off him was palpable, but he chan
 
 I reached my hand back across the gap between the beds. After a moment, Rachel let go of her shoulder and took it, lacing her fingers through mine. The pain was agonizing, and the road ahead was impossibly long, but the perimeter was secure.
 
-### Scene 2: The Second Snap
+***
 
-**Date:** 1995-08-19 at 07:45 America/New_York
+#### 7:45 AM — The Second Snap
 
 The heavy, suffocating weight of Rachel's four-month prognosis settled over the trauma bay. Dad was still leaning over her bed, holding her hand, murmuring soft, fierce promises into the quiet hum of the machinery.
 
@@ -3908,9 +3948,9 @@ Dad paused, looking back through the glass window of the trauma bay, watching Ra
 
 "First thing Monday morning, I want you to find the most ruthless, vicious personal injury and civil rights lawyer in the state of Virginia," Dad commanded. "I don't care what it costs. We are going to sue Tidewater Tumblers until the physical building is nothing but dust, and then we are going to sue the ground it was built on."
 
-### Scene 3: The Broken Anchor
+***
 
-**Date:** 1995-08-19 at 10:00 America/New_York
+#### 10:00 AM — The Broken Anchor
 
 The trauma bay was crowded. Mom, Jessica, and Janette had arrived just as the trauma attending physician returned with the discharge coordinator to map out the logistics of our recovery.
 
@@ -3986,9 +4026,11 @@ Dad slowly took his hands off Rachel's shoulders. He looked down at us, watching
 
 The illusion of a simple recovery at home was gone. The living room wasn't just going to be a recovery space; it had to be a perfectly engineered, zero-stress sanctuary. The pack wasn't just protecting us from the outside world anymore. They had to protect us from our own panic.
 
-### Scene 4: The Transport
+### Part 2: The Transport & The Night Watch
 
 **Date:** 1995-08-19 at 13:30 America/New_York
+
+#### 1:30 PM — The Transport
 
 Discharge was delayed by three agonizing hours.
 
@@ -4038,9 +4080,9 @@ As the transport crew packed up their gear and walked out the front door, leavin
 
 We were trapped on this sofa for the next four months, but we were finally, truly safe.
 
-### Scene 5: The Protocols of Base Camp
+***
 
-**Date:** 1995-08-19 at 18:00 America/New_York
+#### 6:00 PM — The Protocols of Base Camp
 
 By early evening, the heavy narcotic haze from the hospital sedatives began to wear off, replaced by the deep, throbbing reality of our injuries and the sudden, pressing need for basic bodily functions.
 
@@ -4094,9 +4136,9 @@ When Rachel’s turn came, Mom executed the exact same protocol. She carried the
 
 The indignity of our injuries was immense. But the pack had built a system that protected not just our torn bodies, but our pride.
 
-### Scene 6: The Night Watch
+***
 
-**Date:** 1995-08-19 at 22:30 America/New_York
+#### 10:30 PM — The Night Watch
 
 The transition from day to night in our new living room fortress required a delicate, deliberate shifting of gears.
 
@@ -4166,9 +4208,11 @@ The adults were upstairs. But the pack was holding the line.
 
 ## Chapter 8: The Warpath
 
-### Scene 1: Bear and Bug
+### Part 1: Bear and Bug & The Interrogation
 
 **Date:** 1995-08-20 at 08:00 America/New_York
+
+#### 8:00 AM — Bear and Bug
 
 The soft, hazy light of Sunday morning filtered through the living room blinds, casting long, quiet shadows over our makeshift base camp.
 
@@ -4236,9 +4280,9 @@ Rachel’s breath hitched. Her eyes darted toward Dad, the mention of the monste
 
 "They aren't getting out," Dad promised her, his voice dropping into a lethal, absolute vow. "The detective submitted your medical records. The judge is going to read exactly what they did to your spleen, and what they did to your brother's stomach, and what they did to little Drew. The District Attorney is going to ask the judge to deny their bond completely. And I am going to sit in the front row of that courtroom and watch them get sent right back to their cages."
 
-### Scene 2: The Morning Logistics
+***
 
-**Date:** 1995-08-20 at 09:00 America/New_York
+#### 9:00 AM — The Morning Logistics
 
 The heavy, militant promise of Monday's court hearing hung in the air, but the immediate reality of Sunday morning still had to be navigated. The adrenaline of Dad's speech faded, leaving behind the stark, physical limitations of our broken bodies.
 
@@ -4292,9 +4336,9 @@ When we were both safely deposited back into our respective zones on the queen m
 
 The morning routine was exhausting, humiliating, and physically painful. But the pack had executed it flawlessly. The rules of base camp were holding strong, and as Sunday stretched out before us, all we had to do was rest and wait for Monday's war to begin.
 
-### Scene 3: The Interrogation
+***
 
-**Date:** 1995-08-20 at 10:30 America/New_York
+#### 10:30 AM — The Interrogation
 
 By ten o'clock in the morning, the exhausting reality of our new limitations had thoroughly set in. The grueling logistics of eating and the bathroom routine had left our bodies throbbing.
 
@@ -4366,9 +4410,11 @@ As the extended family retreated into the kitchen, Mom let out a massive sigh of
 
 The living room belonged to the pack once again. Jessica hit play on the VCR remote, the animated lions returning to the screen, and the fortress walls held strong.
 
-### Scene 4: Stripping the Titles
+### Part 2: Stripping the Titles & The Night Watch
 
 **Date:** 1995-08-20 at 10:15 America/New_York
+
+#### 10:15 AM — Stripping the Titles
 
 The heavy wooden door swung shut, sealing the kitchen off from the living room.
 
@@ -4424,9 +4470,9 @@ Grandma Loretta slowly nodded, a terrifying, matriarchal fire lighting up in her
 
 "Just Curtis and Ray," Grandma Loretta agreed, her voice hardening into stone. She looked at Mom. "I am staying the night. Since Michael is downstairs, I will sleep in his empty bed upstairs. Tomorrow morning, when you pick up that telephone to call those lawyers, I am going to sit right next to you at this table. And we are going to take everything they have."
 
-### Scene 5: The Outer Perimeter
+***
 
-**Date:** 1995-08-20 at 11:30 America/New_York
+#### 11:30 AM — The Outer Perimeter
 
 The heavy wooden door connecting the kitchen to the living room slowly pushed open.
 
@@ -4462,9 +4508,9 @@ For the rest of the afternoon, the living room operated in a state of perfectly 
 
 Surrounded by my sisters and my cousins, completely shielded from the crushing weight of the outside world, I felt the heavy pull of the muscle relaxants dragging me toward sleep. I closed my eyes, listening to the animated music of the savanna, knowing the perimeter was absolutely impenetrable.
 
-### Scene 6: The Hygiene Protocol
+***
 
-**Date:** 1995-08-20 at 20:00 America/New_York
+#### 8:00 PM — The Hygiene Protocol
 
 As Sunday evening set in, the physical reality of lying on a mattress for three days straight began to catch up with us. The hospital smell—a sterile mix of iodine, rubbing alcohol, and medical tape—was clinging to our skin, mixing with the stale sweat of our own fear.
 
@@ -4526,9 +4572,9 @@ Jessica and Janette filed back into the living room, immediately retaking their 
 
 The base camp was clean, the perimeter was secure, and Sunday was officially over. We closed our eyes, holding tight to each other in the dark, bracing ourselves for the storm that Mom and Dad were going to unleash in the morning.
 
-### Scene 7: The Night Watch
+***
 
-**Date:** 1995-08-20 at 20:30 America/New_York
+#### 8:30 PM — The Night Watch
 
 By half past eight, the adrenaline of the day had completely burned off, leaving the house heavy with the impending weight of Monday morning.
 
@@ -4612,9 +4658,11 @@ The pack was holding the line.
 
 ## Chapter 1: The Monday War – Monday, August 21st, 1995
 
-### Scene 1: The Weight of September
+### Part 1: The Weight of September & The Gavel
 
 **Date:** 1995-08-21 at 07:00 America/New_York
+
+#### 7:00 AM — The Weight of September
 
 The gray, early morning light of Monday filtered through the living room blinds, signaling the start of the first official weekday of our new reality.
 
@@ -4674,9 +4722,9 @@ From their posts on the floor mattresses, Jessica and Janette watched us eat. Th
 
 The Monday war was about to begin for the adults, but for the pack trapped on the living room sofa, the battle was simply finding a way to survive the crushing weight of the day.
 
-### Scene 2: The Gavel
+***
 
-**Date:** 1995-08-21 at 09:00 America/New_York
+#### 9:00 AM — The Gavel
 
 While we were trapped on the living room sofa, navigating the exhausting logistics of lukewarm oatmeal and medical wedges, Dad was sitting in the front row of the City of Chesapeake Courthouse.
 
@@ -4760,9 +4808,11 @@ Dad sat in the gallery for a long moment, the absolute silence of the courtroom 
 
 Dad stood up, adjusted his tie, and looked at the two women who had flanked him. He gave them both a slow, deeply respectful nod, then walked out of the courtroom to find a payphone. He had to call Mom. It was her turn to unleash hell.
 
-### Scene 3: The War Room
+### Part 2: The War Room & The Meltdown
 
 **Date:** 1995-08-21 at 09:00 America/New_York
+
+#### 9:00 AM — The War Room
 
 While Dad was sitting in the cold, oak-paneled courtroom watching the gavel fall on the men who broke us, Mom was sitting at the kitchen table, waging a completely different kind of war.
 
@@ -4862,9 +4912,9 @@ Mom hung up the phone. She looked at Grandma Loretta, who had the yellow pages o
 
 Mom picked up the receiver and started dialing. The Monday war was escalating, and the Ragsdale pack was taking no prisoners.
 
-### Scene 4: The Meltdown
+***
 
-**Date:** 1995-08-21 at 10:45 America/New_York
+#### 10:45 AM — The Meltdown
 
 By mid-morning, Janette had swapped *The Desert Prince* for another Majestic Studios classic: *The Lost Valley*.
 
@@ -4978,9 +5028,11 @@ He didn't go upstairs to change out of his suit. He simply unbuttoned his suit j
 
 We locked our fingers together over the pillow wall, our breathing shallow and completely controlled, and watched the rest of the movie with our father standing guard.
 
-### Scene 5: Safe Harbor
+### Part 3: Safe Harbor & The Art of Letting Go
 
 **Date:** 1995-08-21 at 13:00 America/New_York
+
+#### 1:00 PM — Safe Harbor
 
 The suffocating tension of the morning's meltdown had finally bled out of the living room. *The Lost Valley* had ended, the little dinosaur had found his sanctuary, and a quiet, exhausted calm had settled over the sofa bed. Dad had returned to the kitchen to help Mom field phone calls, but the heavy wooden door remained propped open just enough for him to keep an eye on the perimeter.
 
@@ -5052,9 +5104,9 @@ I felt Rachel's heel hook around my ankle under the blankets. The tension in her
 
 As Dr. Evans turned and walked back into the foyer with Mom and Dad, the living room felt just a little bit lighter. The monsters were locked in their cages, the legal war was spinning up, and the safe adults in our lives were actively rebuilding the world to protect us.
 
-### Scene 6: The Full Perimeter
+***
 
-**Date:** 1995-08-21 at 14:30 America/New_York
+#### 2:30 PM — The Full Perimeter
 
 The hum of a familiar engine pulled into the driveway, followed by the unmistakable sound of heavy paws thumping against the floor of a van.
 
@@ -5108,9 +5160,9 @@ The perimeter was finally complete. We had Mom and Grandma in the kitchen, Dad i
 
 The house was no longer just a building in Norfolk; it was a fortress. The Ragsdale pack was entirely under one roof, and for the first time since Thursday night, the crushing weight of the world felt just a little bit easier to carry.
 
-### Scene 7: The Art of Letting Go
+***
 
-**Date:** 1995-08-21 at 16:30 America/New_York
+#### 4:30 PM — The Art of Letting Go
 
 The doorbell rang again at half-past four, a sharp contrast to the quiet afternoon. This time, it wasn't a family friend or a neighbor; it was the arrival of the clinical reality we had been dreading.
 
@@ -5174,9 +5226,11 @@ We lay there in the late afternoon shadows, the only sound being the rhythmic *h
 
 The Monday war was winding down, but as I felt Dad gently lower my leg back onto the mattress, I realized that the battle wasn't just in the courtroom or the kitchen. It was right here, in the slow, agonizingly patient work of not letting our broken bodies give up.
 
-### Scene 8: The Cost of the War
+### Part 4: The Cost of the War & Nightfall
 
 **Date:** 1995-08-21 at 17:15 America/New_York
+
+#### 5:15 PM — The Cost of the War
 
 Nurse Brenda snapped her heavy black medical bag shut, her Monday afternoon visit coming to a close. The PROM therapy had been exhausting, leaving my legs feeling like jelly and my mind acutely aware of how broken we were.
 
@@ -5262,9 +5316,9 @@ Mom slowly hung up the receiver. The Monday War was officially over. The crimina
 
 In the living room, surrounded by the fierce loyalty of our sisters and the protective weight of our dogs, we grieved the permanent loss of our martial arts journey. But in the kitchen, the adults had ensured that the monsters who took it from us would never have a Dojang again.
 
-### Scene 9: Nightfall
+***
 
-**Date:** 1995-08-21 at 19:30 America/New_York
+#### 7:30 PM — Nightfall
 
 The adrenaline that had fueled the adults through the Monday War finally began to burn off as the sun set over Delaney Street. The living room darkened, illuminated only by the warm, flickering glow of the television screen and the small lamp on the end table.
 
@@ -5344,9 +5398,11 @@ Let the four months begin.
 
 ## Chapter 2: The Marathon – Tuesday, August 22, 1995
 
-### Scene 1: The Transfer of Trust
+### Part 1: The Transfer of Trust & The First Lift
 
 **Date:** 1995-08-22 at 08:30 America/New_York
+
+#### 8:30 AM — The Transfer of Trust
 
 Tuesday morning felt entirely different than Monday.
 
@@ -5460,9 +5516,9 @@ Instead, Ashley stepped right up to the edge of Jessica's floor mattress, next t
 
 I looked over at Jessica and Janette. They both gave small, approving nods. The Base Camp had just drafted its newest recruit. The adults were gone, the house was quiet, and the marathon had officially begun. But as long as we kept adding safe people to the perimeter, I knew we could hold the line.
 
-### Scene 2: The Vault and the VHS
+***
 
-**Date:** 1995-08-22 at 09:30 America/New_York
+#### 9:30 AM — The Vault and the VHS
 
 The quiet safety of the living room hung in the balance. Rachel had just spoken the terrifying truth out loud, admitting to Ashley that she was afraid of being stepped on again.
 
@@ -5522,9 +5578,9 @@ Through the heavy wooden door leading to the kitchen, I could hear the faint mur
 
 The marathon had officially begun. We were trapped in our medical binders, and the pain in my core was a constant, dull ache. But as the animated mermaid swam across the screen, surrounded by our sisters, our best friend, our dogs, and the protective adults in the kitchen, the Base Camp finally felt safe again.
 
-### Scene 3: The First Lift
+***
 
-**Date:** 1995-08-22 at 12:00 America/New_York
+#### 12:00 PM — The First Lift
 
 The grandfather clock in the hallway chimed noon, cutting through the sweeping orchestral finale of *The Coral Kingdom*.
 
@@ -5584,9 +5640,11 @@ Jim stepped back, letting out a quiet breath of his own. He looked at Jessica an
 
 As the girls took their turns in the bathroom, Jim gave my shoulder a quick, reassuring squeeze before heading back into the kitchen. The first hurdle of the day was cleared. The base camp had successfully adapted to the new logistics.
 
-### Scene 4: Silly Fill-Ins and Mending
+### Part 2: Silly Fill-Ins and Mending & The Night Shift
 
 **Date:** 1995-08-22 at 13:00 America/New_York
+
+#### 1:00 PM — Silly Fill-Ins and Mending
 
 The afternoon stretched out before us, vast and empty.
 
@@ -5628,9 +5686,9 @@ As the late afternoon sun began to dip behind the houses on Delaney Street, turn
 
 The marathon was going to be agonizingly long, but as I listened to Ashley read another ridiculous *Silly Fill-Ins* story while Rachel squeezed my hand over the pillows, I knew we were going to survive it.
 
-### Scene 5: The Hum of the House
+***
 
-**Date:** 1995-08-22 at 16:00 America/New_York
+#### 4:00 PM — The Hum of the House
 
 As the late afternoon shadows stretched longer across the living room carpet, the quiet, mundane rhythms of a normal household began to assert themselves against the trauma.
 
@@ -5668,9 +5726,9 @@ The house was clean. The dishes were washing. The perimeter was secure.
 
 I leaned back against my wedge, the dull ache in my core settling into a familiar throb, and listened to the overlapping hums of the dryer and the dishwasher. They were just normal, boring household sounds, but right now, they were the greatest sounds in the world. They meant that the outside world was locked away, and our fortress was holding strong.
 
-### Scene 6: The Night Shift
+***
 
-**Date:** 1995-08-22 at 19:00 America/New_York
+#### 7:00 PM — The Night Shift
 
 At exactly seven o'clock, the heavy front door swung open. Dad walked in, still wearing his *Baja Taco* manager uniform, carrying the faint, unmistakable scent of corn shells and fryer oil. His shoulders were slumped with the exhaustion of an eight-and-a-half-hour shift, but the moment his eyes scanned the living room and found the perimeter intact, a wave of profound relief washed over his face.
 
@@ -5750,9 +5808,11 @@ They turned and walked up the wooden stairs. I lay flat on my back, listening to
 
 ## Chapter 3: The Birthday – Sunday, August 27, 1995
 
-### Scene 1: The Sunday Shift
+### Part 1: The Sunday Shift & The Rootkit
 
 **Date:** 1995-08-27 at 08:00 America/New_York
+
+#### 8:00 AM — The Sunday Shift
 
 By the time Sunday morning arrived, marking the end of our first full week trapped in the living room, the Base Camp had settled into a fragile, highly calculated rhythm.
 
@@ -5808,9 +5868,9 @@ The house settled into a quiet, peaceful lull. The dogs, sensing the relaxed mor
 
 It was just the pack, holding the line, waiting for the birthday girl to arrive.
 
-### Scene 2: The Rootkit
+***
 
-**Date:** 1995-08-27 at 13:05 America/New_York
+#### 1:05 PM — The Rootkit
 
 By twelve-fifteen, Mom had kissed our foreheads, grabbed her purse, and headed out the door to make her afternoon shift at *Wellington’s*. Dad, having managed to catch a few hours of sleep, was back downstairs, fully awake and holding the perimeter with Jessica and Janette.
 
@@ -5936,9 +5996,11 @@ Jessica didn't step down from the mattress. She stayed right where she was, sitt
 
 Rachel reached her hand out across the pillow wall, finding mine. We laced our fingers together, our grips weak and trembling. The movie was gone, the adults were at a safe distance, and the pack had held the line, but the Base Camp had just learned a very brutal, unforgiving lesson: some monsters couldn't be locked in a jail cell. Some monsters lived right inside the VCR.
 
-### Scene 3: The Canine Guard
+### Part 2: The Canine Guard & The Flat Relief
 
 **Date:** 1995-08-27 at 14:30 America/New_York
+
+#### 2:30 PM — The Canine Guard
 
 The living room remained wrapped in a thick, exhausted silence. The physical threat of the meltdown had passed, but the psychological fallout was absolute.
 
@@ -5992,9 +6054,9 @@ Dad smiled—a sad, incredibly proud smile—and turned away.
 
 The heavy front door opened, and then clicked shut. The deadbolt turned from the outside. Dad was gone until three in the morning. The house was now completely under the command of the Raybourn cavalry, and as the evening shadows began to fill the living room, the ultimate test of the Sunday shift was about to begin.
 
-### Scene 4: The Gentle Lift
+***
 
-**Date:** 1995-08-27 at 20:00 America/New_York
+#### 8:00 PM — The Gentle Lift
 
 The evening shadows stretched completely across the living room, settling into the familiar, heavy dusk of the late summer. The television remained off. The house was quiet, filled only with the soft, ambient sounds of the Raybourns and the Ragsdales simply existing together in the space.
 
@@ -6064,9 +6126,9 @@ Ashley stood up, gave Jessica and Janette tight hugs, and gave our hands one fin
 
 The birthday party was over, but as the quiet house settled around us, I realized that Ashley had given us the best gift possible: the absolute, unyielding proof that our perimeter extended far beyond the walls of this living room.
 
-### Scene 5: The Flat Relief
+***
 
-**Date:** 1995-08-27 at 20:30 America/New_York
+#### 8:30 PM — The Flat Relief
 
 Before the Raybourn family could fully gather their things to head out the front door, the physical toll of the long afternoon finally caught up with me.
 
@@ -6132,9 +6194,11 @@ We lay completely flat against the mattress, listening to the clicking of Grandm
 
 ## Chapter 4: The Homebound Tutor – Tuesday, September 5, 1995
 
-### Scene 1: The First Bell
+### Part 1: The First Bell & The Assessment
 
 **Date:** 1995-09-05 at 07:30 America/New_York
+
+#### 7:30 AM — The First Bell
 
 The Tuesday after Labor Day carried a specific, unmistakable energy. Even from the confines of the living room sofa bed, I could feel the familiar rhythm of September shifting into gear.
 
@@ -6206,9 +6270,9 @@ We were propped up on our forty-five-degree wedges, trapped in our heavy white m
 
 At exactly nine o'clock, the doorbell rang.
 
-### Scene 2: The Assessment
+***
 
-**Date:** 1995-09-05 at 09:00 America/New_York
+#### 9:00 AM — The Assessment
 
 The doorbell echoed through the quiet house, a sharp, metallic ring that made my pulse spike. Beside me, Rachel’s fingers tightened around mine. Even Baby, whose massive head was resting against the mattress, let out a low, vibrating rumble deep in his chest.
 
@@ -6308,9 +6372,11 @@ Rachel looked at the teacher. The rules were clear. The boundaries were establis
 
 The grandfather clock in the hallway ticked quietly. The house was calm, the dogs were guarding the perimeter, and the adults had proven they could follow the rules. I looked down at the fifth-grade math problems on my lap desk, took a deep breath, and started writing. The first day of school had officially begun.
 
-### Scene 3: The Brain Break
+### Part 2: The Brain Break & The Changing of the Guard
 
 **Date:** 1995-09-05 at 10:15 America/New_York
+
+#### 10:15 AM — The Brain Break
 
 For the first hour and fifteen minutes, the only sounds in the living room were the scratch of graphite against wide-ruled paper, the soft, metallic clicking of Grandma Loretta’s knitting needles, and the steady, rhythmic breathing of the dogs.
 
@@ -6380,9 +6446,9 @@ She was physically exhausted, and her ribs were a deep, throbbing ache, but the 
 
 We lay there perfectly flat in the quiet living room, physically drained but mentally victorious. The adults had built a system to protect us, the teenage guard had proven their usefulness, and as I listened to Mrs. Higgins quietly talking to Uncle Jim in the kitchen, I realized the homebound instruction was actually going to work.
 
-### Scene 4: The Physics of the Lift
+***
 
-**Date:** 1995-09-05 at 10:20 America/New_York
+#### 10:20 AM — The Physics of the Lift
 
 The fifteen-minute brain break was winding down when the heavy wooden door to the kitchen swung open again. Uncle Jim stepped into the living room, wiping his hands on his jeans.
 
@@ -6450,9 +6516,9 @@ For the next forty-five minutes, the living room transformed completely into a c
 
 The adults had locked the perimeter, Jim had handled the agonizing physical reality of the lifts, and Mrs. Higgins had successfully bridged the gap to the outside world. The third grade and the fifth grade were officially in session.
 
-### Scene 5: The Independent System
+***
 
-**Date:** 1995-09-05 at 11:15 America/New_York
+#### 11:15 AM — The Independent System
 
 The final forty-five minutes of the tutoring block required a completely different kind of focus.
 
@@ -6488,9 +6554,9 @@ Rachel gave a firm, deeply appreciative nod.
 
 For the final stretch, we didn't have to write. We just listened. Mrs. Higgins went over the common mistakes she had seen in our math packets, explaining the concepts clearly and concisely. From their posts on the floor, Jessica and Janette remained perfectly, fiercely silent, honoring their agreement with the teacher to the letter. There was no pressure to perform, no chaotic classroom distractions, and no fear of being called on randomly. It was pure, unfiltered academic data, delivered in the absolute safety of our fortress.
 
-### Scene 6: The Changing of the Guard
+***
 
-**Date:** 1995-09-05 at 11:55 America/New_York
+#### 11:55 AM — The Changing of the Guard
 
 The heavy, resonant chime of the grandfather clock in the hallway began to strike noon.
 
@@ -6522,9 +6588,11 @@ I let out a long, heavy exhale, letting my head fall completely back against the
 
 The first day of fifth grade was in the books. The tutor was safe. The system worked.
 
-### Scene 7: The Afternoon Rest
+### Part 3: The Afternoon Rest & The Way of Seondu
 
 **Date:** 1995-09-05 at 12:10 America/New_York
+
+#### 12:10 PM — The Afternoon Rest
 
 With the front door safely locked and Mrs. Higgins gone, the rigid academic posture of the living room immediately dissolved.
 
@@ -6566,9 +6634,9 @@ Rachel reached her pale hand up over the cotton mountain. I reached my left hand
 
 We lay perfectly flat on our backs, heavily anchored to each other in the quiet living room, completely ready to rest for the remainder of the afternoon.
 
-### Scene 8: The Way of Seondu
+***
 
-**Date:** 1995-09-05 at 13:00 America/New_York
+#### 1:00 PM — The Way of Seondu
 
 The house was quiet, wrapped in the exhausted, mid-day lull of the Homebound schedule. Rachel and I were lying perfectly flat against the mattress, our fingers locked together over the three-pillow barrier, when a soft knock sounded at the front door.
 
@@ -6714,9 +6782,11 @@ As she walked out the front door, the deadbolt clicking shut behind her, the hea
 
 ## Chapter 5: The Chimney Sweep
 
-### Scene 1: The Autumn Shift
+### The Autumn Shift & Fortifying the Perimeter
 
 **Date:** 1995-09-30 at 08:30 America/New_York
+
+#### 8:30 AM — The Autumn Shift
 
 By the last Saturday in September, the oppressive, suffocating humidity of the Virginia Beach summer finally broke.
 
@@ -6758,9 +6828,9 @@ Rachel gave a tiny, resolute nod.
 
 "Good," Dad praised softly. "The winter is coming, and I am going to make sure this house stays warm."
 
-### Scene 2: The Breach
+***
 
-**Date:** 1995-09-30 at 09:00 America/New_York
+#### 9:00 AM — The Breach
 
 Mom kissed our foreheads, gave Dad a quick hug, and headed out the door to make her retail shift.
 
@@ -6796,9 +6866,9 @@ Dad stepped aside, and the sweep walked into the house. As he rounded the corner
 
 Dad stepped right up to the edge of the carpet, folding his arms across his chest. He stood exactly where he promised he would—a massive, immovable human shield placed directly between the stranger and our bed.
 
-### Scene 3: The Soot and the Sound
+***
 
-**Date:** 1995-09-30 at 09:30 America/New_York
+#### 9:30 AM — The Soot and the Sound
 
 The visual threat of the adult male was mitigated by Dad's presence, but the auditory assault was impossible to block.
 
@@ -6826,9 +6896,9 @@ Rachel slowly opened her eyes. She looked past the pillows and saw Dad standing 
 
 For the next forty-five minutes, we lay perfectly flat against our wedges, enduring the harsh, industrial symphony of the chimney sweep. We didn't break, because the perimeter didn't break.
 
-### Scene 4: Fortifying the Perimeter
+***
 
-**Date:** 1995-09-30 at 10:30 America/New_York
+#### 10:30 AM — Fortifying the Perimeter
 
 The vacuum finally whined to a halt. The scraping stopped.
 
@@ -6870,9 +6940,11 @@ The chill in the air was still there, but it didn't matter anymore. The chimney 
 
 ## Chapter 6: The Foreclosure
 
-### Scene 1: The Wednesday Rhythm
+### The Wednesday Rhythm & Closure
 
 **Date:** 1995-10-04 at 16:00 America/New_York
+
+#### 4:00 PM — The Wednesday Rhythm
 
 By the first week of October, the Base Camp had settled into a highly disciplined, mechanical rhythm. The suffocating terror of August had slowly been replaced by the predictable, operational grind of the Homebound schedule.
 
@@ -6888,9 +6960,9 @@ The house was safe, but the invisible, psychological shadow of the Lair still li
 
 At four-fifteen, the heavy deadbolt on the front door clicked open.
 
-### Scene 2: The Envelope
+***
 
-**Date:** 1995-10-04 at 16:20 America/New_York
+#### 4:20 PM — The Envelope
 
 The heavy wooden door swung open, and Dad stepped into the foyer. He was still wearing his Baja Taco manager uniform, carrying the faint scent of the kitchen fryers, but his posture was entirely different today. He wasn't slumped with the usual exhaustion of a daytime shift. His shoulders were pulled back, his jaw was set, and his eyes were burning with a quiet, intense victory.
 
@@ -6918,9 +6990,9 @@ He pulled out a glossy Polaroid photograph and leaned forward, holding it out ov
 
 "Look," Dad commanded softly.
 
-### Scene 3: Visual Proof
+***
 
-**Date:** 1995-10-04 at 16:25 America/New_York
+#### 4:25 PM — Visual Proof
 
 I focused my eyes on the square photograph.
 
@@ -6950,9 +7022,9 @@ Dad looked back at her, his expression a fortress of absolute protection.
 
 "It's gone, Rachel," Dad promised her, his voice vibrating with finality. "The room is gone. The mats are gone. He has nothing left, and he can never, ever reopen."
 
-### Scene 4: Closure
+***
 
-**Date:** 1995-10-04 at 16:40 America/New_York
+#### 4:40 PM — Closure
 
 In the dining room, Jessica let out a fierce, triumphant laugh, high-fiving Janette so hard the sound echoed off the dark-stained table. The teenage guard didn't just feel safe; they felt victorious.
 
@@ -6974,9 +7046,11 @@ The Monday War was officially over. The Ragsdale pack had won.
 
 ## Chapter 7: Jessica’s 15th Birthday
 
-### Scene 1: A Full Perimeter
+### A Full Perimeter & The Phantom Anchor
 
 **Date:** 1995-10-14 at 17:00 America/New_York
+
+#### 5:00 PM — A Full Perimeter
 
 By mid-October, the Base Camp had seen its share of high-stress operational days, but Saturday, October 14th, was entirely different. The strict, quiet discipline of the Homebound era was temporarily suspended. The living room perimeter was flooded—not with threats, but with the entire extended pack.
 
@@ -6988,9 +7062,9 @@ And in the absolute center of the chaos, lying perfectly flat in our heavy medic
 
 The physical environment was identical to Ashley’s 10th birthday back in August, but the psychological atmosphere had shifted. The looming, terrifying shadow of the Dojang had been severed ten days earlier by the fluorescent orange eviction notice. The house wasn't bracing for an attack anymore; it was finally allowing itself to breathe.
 
-### Scene 2: The Lead Guard
+***
 
-**Date:** 1995-10-14 at 17:30 America/New_York
+#### 5:30 PM — The Lead Guard
 
 Jessica stood at the foot of the sofa bed, holding a paper plate. She was officially fifteen years old.
 
@@ -7002,9 +7076,9 @@ But she also remembered exactly how Ashley had handled her own birthday two mont
 
 Jessica walked around the edge of the coffee table and sat directly on the floor next to the sofa bed, placing herself exactly at our eye level. She didn't complain about the limitations. She just anchored herself to the perimeter, ensuring she was within our direct line of sight.
 
-### Scene 3: The Phantom Anchor
+***
 
-**Date:** 1995-10-14 at 17:45 America/New_York
+#### 5:45 PM — The Phantom Anchor
 
 On the mattress, Rachel shifted slightly.
 
@@ -7024,9 +7098,11 @@ The adults stayed in the dining room. The acoustic bleed continued to drift over
 
 ## Chapter 8: The Consecration – Friday, October 20th, 1995
 
-### Scene 1: The Midnight Blue Shield
+### Part 1: The Midnight Blue Shield & The Shadow Arts
 
 **Date:** 1995-10-20 at 16:30 America/New_York
+
+#### 4:30 PM — The Midnight Blue Shield
 
 The grandfather clock in the hallway ticked steadily toward half-past four.
 
@@ -7082,9 +7158,9 @@ Rachel didn't speak, but her dark eyes widened as she took in the familiar weigh
 
 "I promised you a formal lesson," April smiled warmly, reading Rachel's gesture perfectly. "And a true student of the *Art* always honors their word."
 
-### Scene 2: The Voice of Korea
+***
 
-**Date:** 1995-10-20 at 16:35 America/New_York
+#### 4:35 PM — The Voice of Korea
 
 April stood perfectly still at the edge of the room. She didn't look at us with pity, and she didn't treat the space like a hospital ward. She looked at the floor mattresses, the medical wedges, and the heavy white canvas binders wrapped around our waists, and her expression hardened into a mask of absolute, quiet respect.
 
@@ -7150,9 +7226,9 @@ She wasn't bowing to the colored canvas tied around our waists. She was bowing t
 
 When she finally rose, the air in the house felt fundamentally different. By the absolute, legal authority of the Seonduwon, April had officially overwritten the trauma of the room. The carpet was the mat. The Base Camp was a sanctioned Dojang.
 
-### Scene 3: The Shadow Arts
+***
 
-**Date:** 1995-10-20 at 16:45 America/New_York
+#### 4:45 PM — The Shadow Arts
 
 "Alright, class," April announced, transitioning seamlessly into her instructional cadence. "We are going to study the Shadow Arts today. It is a specialized form of training designed entirely around biomechanical isolation."
 
@@ -7242,9 +7318,11 @@ April waited two full seconds before turning back to face the sofa bed. She didn
 
 Rachel took a slow, jagged sip of air. Her terrified posture slowly melted back into the mattress. The adult was gone, the threat was neutralized, and April had effortlessly defended the Dojang. Rachel raised her fists back into position, her dark eyes shining with an absolute, unwavering trust in the 22-year-old standing at the foot of the bed.
 
-### Scene 4: The Internal Kihap
+### Part 2: The Internal Kihap & The Official Capacity
 
 **Date:** 1995-10-20 at 17:15 America/New_York
+
+#### 5:15 PM — The Internal Kihap
 
 "Kman," April called out, raising a hand to stop the drill.
 
@@ -7310,9 +7388,9 @@ Rachel looked up, meeting April's gaze directly. Her dark eyes were shining with
 
 "Your spirit is iron, Rachel," April corrected her, her voice ringing with the absolute, unquestionable authority of the Seonduwon. "And it is louder than anyone else's in this room."
 
-### Scene 5: The Official Capacity
+***
 
-**Date:** 1995-10-20 at 17:30 America/New_York
+#### 5:30 PM — The Official Capacity
 
 Before April could officially call an end to the session, I looked past the foot of the sofa bed at the heavy, hardcover book resting on the coffee table.
 
@@ -7380,9 +7458,11 @@ I bumped my shoulder gently against the pillows, matching her brilliant smile. "
 
 ## Chapter 1: The Spring Sound Showcase – Friday, May 14, 1999
 
-### Scene 1: The Friday Commute
+### The Friday Commute & Deploying Base Camp
 
 **Date:** 1999-05-14 at 15:40 America/New_York
+
+#### 3:40 PM — The Friday Commute
 
 The shrill dismissal bell of Morrison Middle School cut through the afternoon, immediately unleashing a chaotic tidal wave of teenagers into the hallways.
 
@@ -7448,9 +7528,9 @@ Ashley’s blush faded, replaced by her usual, fierce determination. "Homework f
 
 We marched into the dining room, pulling our textbooks from our bags and claiming our usual seats at the heavy wooden table. The weekend was officially locked in, the dogs were sleeping at our feet, and the trio was completely secure.
 
-### Scene 2: The Homework Hurdle
+***
 
-**Date:** 1999-05-14 at 17:15 America/New_York
+#### 5:15 PM — The Homework Hurdle
 
 The heavy front door clicked open, breaking the quiet, focused silence of the dining room.
 
@@ -7492,9 +7572,9 @@ Finally, I wrote the last answer down. I closed my heavy math textbook with a lo
 
 I leaned back in my chair, a massive wave of relief washing over me. The academic perimeter was officially secured. Our homework was finished, our bags were packed, and the entire weekend stretched out in front of us, completely free and clear for the Old World.
 
-### Scene 3: Deploying Base Camp
+***
 
-**Date:** 1999-05-14 at 20:00 America/New_York
+#### 8:00 PM — Deploying Base Camp
 
 With the dining room table finally cleared of algebra worksheets and dinner plates, the kinetic energy of the house shifted completely toward the weekend. It was time to transform the living room.
 
@@ -7546,9 +7626,11 @@ I stared up at the shadowed ceiling, listening to the synchronized breathing of 
 
 ## Chapter 2: The Old World – Saturday, May 15, 1999
 
-### Scene 1: The Departure Protocol
+### Part 1: The Departure Protocol & The Sovereign Palace Theater
 
 **Date:** 1999-05-15 at 06:30 America/New_York
+
+#### 6:30 AM — The Departure Protocol
 
 The sun wasn't even fully above the tree line when the living room officially woke up, but Ashley was already vibrating at a completely unmanageable frequency.
 
@@ -7612,9 +7694,9 @@ Both Ashley and I rolled our eyes in flawless, synchronized disgust. Julia had b
 
 I didn't even bother engaging. I just tightened my platonic grip on Ashley’s hand, completely unbothered by the accusation but entirely annoyed by the noise, and steered my best friend away from the clarinets to wait for the rest of our section to arrive.
 
-### Scene 2: The Data Shift
+***
 
-**Date:** 1999-05-15 at 07:30 America/New_York
+#### 7:30 AM — The Data Shift
 
 We didn't have to wait long. A minute or two later, Bonnie walked out of the heavy double doors of the band room.
 
@@ -7666,9 +7748,9 @@ My heart rate spiked again. I stared straight ahead at the green vinyl seat in f
 
 A moment later, the heavy folding doors hissed shut. The air brakes released with a loud sigh, the bus lurched forward, and we were officially off to Williamsburg.
 
-### Scene 3: The Flash and the Photograph
+***
 
-**Date:** 1999-05-15 at 08:00 America/New_York
+#### 8:00 AM — The Flash and the Photograph
 
 The drive from Virginia Beach up Interstate 64 to James City County took exactly one hour. The yellow school bus rattled over the highway seams, the cabin thick with the smell of diesel exhaust, cheap teenage body spray, and the deafening roar of forty eighth-graders talking over each other.
 
@@ -7702,9 +7784,9 @@ It was a three-way cuddle, perfectly captured on film: one half rooted in surviv
 
 We rode the rest of the way to James City County just like that, anchored together until the towering, looping metal tracks of the Brewster Gardens rollercoasters finally appeared over the tree line.
 
-### Scene 4: The Sovereign Palace Theater
+***
 
-**Date:** 1999-05-15 at 09:00 America/New_York
+#### 9:00 AM — The Sovereign Palace Theater
 
 The heavy air brakes of the yellow school buses hissed loudly, signaling our arrival.
 
@@ -7750,9 +7832,11 @@ As we walked through the turnstiles, we spotted Sloane. He was strutting down th
 
 None of us liked him anyway. Our perimeter was closed, the toxic middle school energy was officially locked out, and the adrenaline of the Old World was waiting. Ashley grabbed my left arm, Bonnie stepped perfectly into the space on my right, and we headed straight for the rollercoasters.
 
-### Scene 5: The Loch Serpent
+### Part 2: The Loch Serpent & Heart Attack Hill
 
 **Date:** 1999-05-15 at 09:15 America/New_York
+
+#### 9:15 AM — The Loch Serpent
 
 We bypassed the slower, scenic rides of the 'England' and 'Scotland' hamlets entirely, bee-lining straight for the towering yellow tracks of the park's most iconic coaster: *The Loch Serpent*.
 
@@ -7816,9 +7900,9 @@ Bonnie wasn't just a girl I had a crush on. She spoke the exact same hyper-fixat
 
 "Air conditioning," I answered, grabbing the edge of Ashley's sleeve to guide our pack through the thickening crowd. "We are going to ride *The Iron Aeronaut*."
 
-### Scene 6: The Iron Aeronaut
+***
 
-**Date:** 1999-05-15 at 10:00 America/New_York
+#### 10:00 AM — The Iron Aeronaut
 
 The morning sun was rapidly baking the asphalt, transforming the Virginia humidity into a thick, unseasonably sweltering sauna. We left the yellow tracks of *The Loch Serpent* behind and started the long trek down the steep, paved hill from the 'Heatherdowns' hamlet toward 'Hastings.'
 
@@ -7870,9 +7954,9 @@ The pre-show video played, explaining the lore of the steampunk flying ship, and
 
 The massive screen in front of us lit up, and the entire theater violently lurched upward as the hydraulic pistons engaged. The floor dropped out from under us, perfectly syncing with the footage of the flying ship diving off a cliff. We plummeted, soared, and banked hard to the left and right. Bonnie laughed out loud, her shoulder pressing heavily against mine every time the theater tilted, completely immersed in the chaotic, synchronized illusion of flight.
 
-### Scene 7: Heart Attack Hill
+***
 
-**Date:** 1999-05-15 at 11:30 America/New_York
+#### 11:30 AM — Heart Attack Hill
 
 Stepping out of the heavily air-conditioned fortress of *The Iron Aeronaut* and back into the Virginia sun was like walking headfirst into a physical wall of heat. The humidity was suffocating, hanging in the air like a wet wool blanket.
 
@@ -7940,9 +8024,11 @@ I slid into the leather seat of a shiny, cherry-red antique car, resting my tire
 
 I pressed my foot on the gas pedal, the car lurching forward onto the scenic track. The breeze whipped past my face as we drove, my hands resting on the steering wheel. We were driving our own separate cars, enjoying a rare moment of solo independence, but we were still moving as a perfect, unbroken convoy.
 
-### Scene 8: Josephine’s and the Ghost
+### Part 3: Josephine’s and the Ghost & The Translation in the Grand Hall
 
 **Date:** 1999-05-15 at 12:30 America/New_York
+
+#### 12:30 PM — Josephine’s and the Ghost
 
 The adrenaline from *The Aquitaine Motorway* began to fade the moment we parked the antique cars, rapidly replaced by the sheer physical exhaustion of navigating the Virginia heat. We needed a reset, and in the French section of Brewster Gardens, there was only one logical destination.
 
@@ -8002,9 +8088,9 @@ Beneath the table, completely hidden from the rest of the parlor, she reached ou
 
 She kept her hand pressed firmly against my leg, actively reinforcing the perimeter, and quietly waited for the ghost to pass.
 
-### Scene 9: The Timber Mill Plunge
+***
 
-**Date:** 1999-05-15 at 12:45 America/New_York
+#### 12:45 PM — The Timber Mill Plunge
 
 The heavy, grounding pressure of Bonnie’s hand on my knee was exactly the physical anchor my processor needed to reboot.
 
@@ -8072,9 +8158,9 @@ It didn't look like a pack cuddle. It looked exactly like a couple.
 
 Ashley collected the glossy 4x6 print, carefully sliding it into the dry plastic pocket of her wallet. "Best eight dollars I've ever spent," she muttered proudly, steering us back out into the heat.
 
-### Scene 10: The Translation in the Grand Hall
+***
 
-**Date:** 1999-05-15 at 13:30 America/New_York
+#### 1:30 PM — The Translation in the Grand Hall
 
 We stepped out of the exit queue for *The Timber Mill Plunge*, our clothes dripping wet from the final drop, and immediately looked up.
 
@@ -8142,9 +8228,11 @@ This time, I didn't need to ask Ashley for a translation, and I didn't panic at 
 
 I just smiled, lightly tracing my thumb over her knuckles, and held her hand right back. The storm was raging outside, but inside the Grand Hall, my reality had completely shifted. We were officially a couple.
 
-### Scene 11: The Speed of Fright
+### Part 4: The Speed of Fright & The Imperial Rapids
 
 **Date:** 1999-05-15 at 14:30 America/New_York
+
+#### 2:30 PM — The Speed of Fright
 
 The violent, torrential downpour outside the stained-glass windows of the *Bavarian Grand Hall* eventually exhausted itself, slowing to a light, misty drizzle. The live brass band finished their set, and the massive crowd of teenagers sheltering inside the dining hall began to slowly filter back out into the park.
 
@@ -8214,9 +8302,9 @@ As the floor of the station mechanically dropped away, leaving our feet dangling
 
 "Enjoy your ride," his voice echoed over the station speakers as the train lurched forward out of the station. "*At the speed of fright!*"
 
-### Scene 12: The Siege Engine
+***
 
-**Date:** 1999-05-15 at 15:15 America/New_York
+#### 3:15 PM — The Siege Engine
 
 We walked down the exit ramp of *The Shadow Wolf*, our legs slightly wobbly from the intense, swinging drops, but our adrenaline was absolutely peaking. The post-storm energy of the park was incredible. The oppressive humidity was completely gone, leaving behind a cool, vibrant spring afternoon.
 
@@ -8276,9 +8364,9 @@ Sitting in the exact center of the bench, the math of my existence felt absolute
 
 The Base Camp perimeter hadn't been breached by romance. It had successfully expanded to protect it. For the first time in my life, the ghost of the Dojang was completely silent, drowned out entirely by the triumphant, deafening roar of *The Siege Engine*.
 
-### Scene 13: The Imperial Rapids
+***
 
-**Date:** 1999-05-15 at 16:45 America/New_York
+#### 4:45 PM — The Imperial Rapids
 
 When we finally stumbled off *The Siege Engine*, our throats were completely raw from the screaming contest, but we were absolutely victorious.
 
@@ -8366,9 +8454,11 @@ I helped Bonnie unbuckle our shared seatbelt, and with Ashley stepping onto the 
 
 "Come on," I said, giving Bonnie's hand one last squeeze before letting go so we could navigate the crowd. "We have an hour to dry off before Ms. Pitizer kills us for showing up to the *Sovereign Palace Theater* looking like drowned rats."
 
-### Scene 14: The Sovereign Palace Theater
+### Part 5: The Sovereign Palace Theater & The Flawless Equation
 
 **Date:** 1999-05-15 at 17:30 America/New_York
+
+#### 5:30 PM — The Sovereign Palace Theater
 
 The walk away from *The Imperial Rapids* was soundtracked entirely by Bonnie's exaggerated, dramatic complaints.
 
@@ -8438,9 +8528,9 @@ Bonnie gave my waist one last, reassuring, deep-pressure squeeze before letting 
 
 I took a deep breath, manually forcing my tired legs to hold my own weight. I was freezing, my muscles ached, and my sneakers were completely waterlogged. But as I grabbed my own garment bag and headed toward the boys' locker room, I had never felt more secure. The perimeter was holding.
 
-### Scene 15: The Missing Variable
+***
 
-**Date:** 1999-05-15 at 18:15 America/New_York
+#### 6:15 PM — The Missing Variable
 
 The backstage wings of the *Sovereign Palace Theater* were loud, cramped, and smelled heavily of brass polish and nervous middle schoolers. Through the heavy velvet curtains, the muffled, booming sounds of a different school’s marching band echoing through the main auditorium served as a constant reminder of the ticking clock.
 
@@ -8516,9 +8606,9 @@ As Ms. Pitizer walked away to deal with the brass section, Ashley looked at me a
 
 I leaned back in my metal chair, grabbing my mallets from my stick bag. The Dojang ghost was silent, my girlfriend was standing by my side, my honorary sister was anchoring the section, and the toxic, macho variable had been entirely deleted from the equation. We were finally ready to play.
 
-### Scene 16: The Flawless Equation
+***
 
-**Date:** 1999-05-15 at 19:00 America/New_York
+#### 7:00 PM — The Flawless Equation
 
 "Morrison Middle School, you are up! Go, go, go!" the stage manager barked, waving a glowing orange flashlight toward the wings.
 
@@ -8578,9 +8668,11 @@ As the heavy velvet curtains closed behind us, cutting off the noise of the crow
 
 "That," Ashley announced to the section, high-fiving Bonnie and bumping her shoulder into mine, "is how you play the math. Best performance of the year."
 
-### Scene 17: The Mathematics of Victory
+### Part 6: The Mathematics of Victory & The Immutable Geometry
 
 **Date:** 1999-05-15 at 20:30 America/New_York
+
+#### 8:30 PM — The Mathematics of Victory
 
 By the time the sun fully set and the massive amphitheater lights of *The Sovereign Palace Theater* flared to life, my internal processor was completely, blissfully offline.
 
@@ -8640,9 +8732,9 @@ I let my head fall back onto Bonnie's shoulder, my eyes slipping closed as the c
 
 The Old World of middle school had been chaotic and exhausting, but as we sat in the cool Virginia night holding our Superior rating, the perimeter was entirely, permanently secure.
 
-### Scene 18: The Expansion of the Perimeter
+***
 
-**Date:** 1999-05-15 at 22:00 America/New_York
+#### 10:00 PM — The Expansion of the Perimeter
 
 The yellow school buses idled in the parking lot of *The Sovereign Palace Theater*, their heavy diesel engines vibrating against the cool night air. The post-competition adrenaline had completely vanished, leaving forty eighth-graders in a state of absolute, heavy exhaustion.
 
@@ -8740,9 +8832,9 @@ Rachel processed the information for a few quiet steps, her sneakers scuffing ag
 
 I squeezed Rachel's hand, a profound, overwhelming wave of relief washing over me. The ghost of the Dojang was locked away, the toxic variables had been deleted, and as the porch light of 1852 Delaney Street finally came into view, the math of my life was absolutely perfect.
 
-### Scene 19: The Immutable Geometry
+***
 
-**Date:** 1999-05-15 at 22:30 America/New_York
+#### 10:30 PM — The Immutable Geometry
 
 The final three blocks down Morrison Street and onto Delaney Street were a pure, agonizing test of endurance.
 
@@ -8810,7 +8902,7 @@ I closed my eyes, and the Old World faded away into the safety of the dark.
 
 ## Chapter 3: The Sunday Perimeter – Sunday, May 16, 1999
 
-### Scene 1: The Sleepover Calculation
+### The Sleepover Calculation
 
 **Date:** 1999-05-16 at 07:15 America/New_York
 
@@ -8872,9 +8964,11 @@ I stared up at the ceiling, overwhelmingly grateful for my sisters. I didn't hav
 
 ## Chapter 1: Marching Band
 
-### Scene 1: Jessica’s Wake Up Call
+### Jessica’s Wake Up Call & Band Camp
 
 **Date:** 1999-08-09 at 06:00 America/New_York
+
+#### 6:00 AM — Jessica’s Wake Up Call
 
 The alarm clock sounded, and Jessica prodded me awake. "My last band camp!" She sounded excited, but I was still struggling to wake up.
 
@@ -8896,9 +8990,9 @@ Jessica rolled her eyes, but got up as she said, "True, and mom and dad don’t 
 
 We had our breakfast, hugged Rachel and our dogs goodbye, and got in the car. "I’m going to have you stay with me when we arrive. There are some things I need to take care of before we get started," Jessica said as she made the five minute drive to the high school.
 
-### Scene 2: Band Camp
+***
 
-**Date:** 1999-08-09 at 08:00 America/New_York
+#### 8:00 AM — Band Camp
 
 We arrived and Mr. Panoff, the band director, was there to greet us. "Good morning Jessica," He said.
 
@@ -8918,9 +9012,11 @@ I was not prepared for how loud the room would get when all the instruments were
 
 ## Chapter 2: The Concrete Walkway
 
-### Scene 1: Black Friday
+### Black Friday & The Empty House
 
 **Date:** 1999-11-01 at 16:15 America/New_York
+
+#### 4:15 PM — Black Friday
 
 The day after Thanksgiving was an unshakeable routine. Dad always spent Black Friday hanging the holiday lights. By late afternoon, the chilly Virginia autumn air had settled in, and the fading daylight made the Delaney Street house look even more distinctly 1990s—its original bright orange wooden siding contrasting sharply with the dark brown paint of the garage door.
 
@@ -8964,9 +9060,9 @@ They moved with terrifying efficiency, dropping to the concrete and carefully cu
 
 It wasn't long before they had her strapped onto a backboard, loaded onto a stretcher, and secured in the back of the rig, leaving the cheerful multi-color flower lights half-hanging over my bedroom window, swaying gently in the cold November wind.
 
-### Scene 2: Tidewater General
+***
 
-**Date:** 1999-11-01 at 17:15 America/New_York
+#### 5:15 PM — Tidewater General
 
 The ride to Tidewater General Hospital was a silent, agonizing blur of neon streetlights and early winter darkness.
 
@@ -9014,9 +9110,9 @@ The words hung in the sterile air. It sounded like an absolute eternity. But to 
 
 Standing in that terrifying hospital waiting room, I locked onto that timeline like a life raft. We had a hard deadline, and we completely believed the doctors were going to fix her.
 
-### Scene 3: The Trauma Bay
+***
 
-**Date:** 1999-11-01 at 19:30 America/New_York
+#### 7:30 PM — The Trauma Bay
 
 The Trauma Bay at Tidewater General was a sensory assault. The air was thick with the sharp, chemical sting of iodine and clinical bleach, and the acoustic space was dominated by the relentless, chaotic beeping of heart monitors and the rapid, overlapping voices of scrub nurses.
 
@@ -9082,9 +9178,9 @@ Jessica stared at him for a long moment. The heavy painkillers were finally pull
 
 "Okay, Dad," Jessica murmured, her voice fading into a quiet, exhausted whisper. "Make the call."
 
-### Scene 4: The Empty House
+***
 
-**Date:** 1999-11-01 at 20:00 America/New_York
+#### 8:00 PM — The Empty House
 
 By 8:00 PM, the sterile, fluorescent reality of Tidewater General Hospital had completely drained our batteries. As much as Rachel and I wanted to anchor ourselves to Jessica's bedside, the strict Trauma ICU protocols and our sheer physical exhaustion forced us to retreat. Mom kissed our foreheads, promising to call if anything changed, and stayed behind to hold the line at the hospital.
 
@@ -9130,9 +9226,11 @@ The house was fractured, and our older sister was miles away in a hospital bed w
 
 ## Chapter 3: The Holding Pattern
 
-### Scene 1: The Daytime Warden
+### The Daytime Warden & The Logic Blueprint
 
 **Date:** 1999-11-27 at 08:00 America/New_York
+
+#### 8:00 AM — The Daytime Warden
 
 The heavy, rhythmic thumping of two dog tails against the mattress woke me up.
 
@@ -9210,9 +9308,9 @@ The sheer, rhythmic predictability of the motion was mesmerizing. For Rachel and
 
 The hospital was loud, terrifying, and unpredictable, but inside Room 412, the pack was secured. Jessica had her breakfast, the perimeter was holding, and the steady, rhythmic *click-click-click* of Grandma Loretta’s needles provided exactly the safe, consistent data our nervous systems needed to survive the morning.
 
-### Scene 2: The Logic Blueprint
+***
 
-**Date:** 1999-11-27 at 10:30 America/New_York
+#### 10:30 AM — The Logic Blueprint
 
 The rhythmic, predictable *click-click-click* of Grandma Loretta’s wooden knitting needles had completely stabilized the acoustic environment of Room 412. Rachel and I remained perfectly anchored in our two-person perimeter next to the bed, listening to the quiet hum of the hospital's HVAC system.
 
@@ -9270,9 +9368,11 @@ She opened her eyes, forced her hands back onto the plastic keyboard, and contin
 
 ## Chapter 4: Christmas Eve
 
-### Scene 1: The Accessibility Calculation
+### Part 1: The Accessibility Calculation & The Honorary Lifters
 
 **Date:** 1999-12-24 at 08:30 America/New_York
+
+#### 8:30 AM — The Accessibility Calculation
 
 The morning routine at 1852 Delaney Street operated with rigid, mechanical precision.
 
@@ -9320,9 +9420,9 @@ Mom looked at the two of us, recognizing the unbroken pack integrity. She let ou
 
 "Fine," Mom conceded. "But Tom is working his shift at Baja Taco until 4:30. He's driving straight to Loretta's house from work. So we are going to have to load the wheelchair into the trunk of my car ourselves."
 
-### Scene 2: The Biological Anchors
+***
 
-**Date:** 1999-12-24 at 09:35 America/New_York
+#### 9:35 AM — The Biological Anchors
 
 Mom moved efficiently out of the narrow galley kitchen, carrying four ceramic bowls of cereal to the dark-stained wooden dining table. She set one down in front of Jessica's docked wheelchair, slid one across to Rachel, placed mine down, and took the final seat for herself.
 
@@ -9344,9 +9444,9 @@ Rachel, sitting silently on my left, didn't offer the dogs any food either, but 
 
 It was a completely standard, chaotic morning routine. But amidst the looming, stressful logistics of getting Jessica’s wheelchair loaded into a car and navigating the hostile architecture of Grandma Loretta's house, the predictable, dramatic begging of the dogs was exactly the kind of unshifting, safe data our nervous systems needed.
 
-### Scene 3: The Logistics of Hope
+***
 
-**Date:** 1999-12-24 at 16:15 America/New_York
+#### 4:15 PM — The Logistics of Hope
 
 The coastal Virginia winter air had a sharp, biting chill to it by late afternoon. The sky over Delaney Street was already beginning to bruise into a pale, bruised purple as Mom backed her sedan out of the garage and idled it in the driveway.
 
@@ -9392,9 +9492,9 @@ We climbed into the back seat, the sudden blast of the car's heater thawing the 
 
 I leaned my weight back against her, providing the heavy, crushing pressure her nervous system required. Up in the front seat, Jessica was adjusting the radio, completely unbothered by the fact that she couldn't feel the floorboards under her boots. The engine shifted into gear, and Mom pulled out onto the street, steering us away from our sanctuary and directly toward the chaotic, hostile architecture of Grandma Loretta's house.
 
-### Scene 4: The Honorary Lifters
+***
 
-**Date:** 1999-12-24 at 17:00 America/New_York
+#### 5:00 PM — The Honorary Lifters
 
 The drive to Grandma Loretta’s house was a tense, quiet calculation of holiday traffic and cold weather, but the moment Mom’s sedan turned into the driveway, a wave of profound relief washed over the car.
 
@@ -9462,9 +9562,11 @@ Melissa grabbed a VHS from a stack near the television and shoved it into the VC
 
 I sank down onto the carpet next to Rachel and Ashley, the three of us forming our tight, unbreakable Trio right in front of the television. The smell of the holiday dinner wafted over us, the movie dialogue echoed through the packed, chaotic room, and my mind drifted happily to the yellow disposable camera sitting on the desk back home, waiting for noon tomorrow.
 
-### Scene 5: The Perimeter Defense
+### Part 2: The Perimeter Defense & The Perimeter Epiphany
 
 **Date:** 1999-12-24 at 17:27 America/New_York
+
+#### 5:27 PM — The Perimeter Defense
 
 Grandma Loretta’s house was operating at absolute, maximum sensory capacity.
 
@@ -9514,9 +9616,9 @@ From her docked wheelchair near the television, Jessica offered Ashley a quiet, 
 
 I looked at the clock on the wall. It was 5:30 PM. My stomach gave a loud, hollow rumble, perfectly matching the hunger setting in across the room. We just had to wait for my dad to finally beat the holiday gridlock so we could eat.
 
-### Scene 6: The Alibi and the Feast
+***
 
-**Date:** 1999-12-24 at 17:42 America/New_York
+#### 5:42 PM — The Alibi and the Feast
 
 At 5:42 PM, the heavy wooden front door finally swung open, letting a sharp blast of freezing coastal air into the crowded foyer.
 
@@ -9550,9 +9652,9 @@ Katherine, Michelle, and Maria filled out the remaining spots at the card table 
 
 As the opening credits of the next holiday movie played on the heavy CRT television, the frantic, buzzing energy of the house finally settled into a contented, synchronized rhythm. We ate in the warm glow of the Christmas tree lights, surrounded by the indestructible walls of our pack. And as I ate, my mind kept happily drifting toward tomorrow. We still had the magic of Christmas morning to get through, but my internal countdown had already locked onto noon, when a certain girl was finally going to knock on our front door.
 
-### Scene 7: The System Overload
+***
 
-**Date:** 1999-12-24 at 18:10 America/New_York
+#### 6:10 PM — The System Overload
 
 My fork scraped against the ceramic plate, pushing a piece of honey-glazed ham around, but my processor was completely detached from the dining room. I was running the simulation for tomorrow. *Open door. Merry Christmas. Light hug.* Just the thought of Bonnie standing on our porch, smiling at me, sent a sudden, massive flush of heat straight up my neck and into my cheeks.
 
@@ -9600,9 +9702,9 @@ And from my left, sitting in her docked manual wheelchair, Jessica reached acros
 
 Anchored by the deep pressure of my Bug, the logic of my Sentinel, and the unyielding command of my older sister, the buzzing panic finally began to recede. My processor cooled down, the catastrophic variables were deleted, and the indestructible walls of our pack settled back into place.
 
-### Scene 8: The Sensory Safe Menu
+***
 
-**Date:** 1999-12-24 at 19:00 America/New_York
+#### 7:00 PM — The Sensory Safe Menu
 
 The heavy, savory weight of the honey-glazed ham and oyster stuffing was finally cleared from the dining room, the card table, and our wobbly TV trays. The chaotic hum of the house shifted gears as Grandma Loretta emerged from the kitchen, heralding the arrival of dessert.
 
@@ -9626,9 +9728,9 @@ From her docked manual wheelchair near the blue recliner, Jessica watched us ree
 
 As the cool, sugary weight of the dessert hit my system, the last lingering static in my chest completely evaporated. The house was still packed, and my cousins were still noisy, but the impenetrable walls of our shared personal bubble were locked down tight. And with every single bite of vanilla ice cream, the clock ticked one minute closer to the magic of Christmas morning, and one minute closer to noon.
 
-### Scene 9: The Perimeter Epiphany
+***
 
-**Date:** 1999-12-24 at 19:30 America/New_York
+#### 7:30 PM — The Perimeter Epiphany
 
 By 7:30 PM, the heavy, post-dinner exhaustion had officially settled over Grandma Loretta's house. The goodbyes were loud and chaotic, echoing out into the freezing Virginia night as we all spilled out onto the driveway.
 
@@ -9666,7 +9768,7 @@ We pulled into the driveway of 1852 Delaney Street. Dad's truck hadn't arrived y
 
 Mom opened the passenger door to help Jessica, leaving the trunk to us. Rachel and I didn't hesitate. We hopped out into the cold, popped the trunk, and grabbed the freezing metal frame of the manual wheelchair. Working in flawless, silent synchronicity, we heaved the bulky chair over the bumper and set it up on the concrete, ready to wheel our sister back into the ultimate Santa stakeout.
 
-### Scene 10: The Santa Stakeout
+### Part 3: The Santa Stakeout
 
 **Date:** 1999-12-24 at 19:50 America/New_York
 
@@ -9738,9 +9840,11 @@ But the warmth of the quilts, the hypnotic glow of the tree lights, and the abso
 
 ## Chapter 5: The Christmas Anomaly
 
-### Scene 1: The Phantom Drop
+### Part 1: The Phantom Drop & The Social Algorithm
 
 **Date:** 1999-12-25 at 04:21 America/New_York
+
+#### 4:21 AM — The Phantom Drop
 
 My internal clock woke me with a sudden, quiet jolt. I blinked in the dark, my eyes slowly adjusting to the multi-colored glow of the Christmas tree illuminating the living room. The green digital numbers on the VCR clock read exactly 4:21 AM.
 
@@ -9780,9 +9884,9 @@ It was going to be agonizing to wait, but Jessica's logic was structurally sound
 
 I pulled the heavy winter quilts tighter over our shoulders. Rachel pressed her face back into my chest, her heart racing against mine. We weren't going to get any actual rest—our systems were far too charged with adrenaline and the impending magic of the morning—but we closed our eyes and held the line, lying perfectly still in the quiet, colorful glow of the Christmas tree until the adult world was finally ready to wake up.
 
-### Scene 2: The Green Light
+***
 
-**Date:** 1999-12-25 at 06:42 America/New_York
+#### 6:42 AM — The Green Light
 
 For two hours and twenty-one minutes, we laid perfectly still under the winter quilts, watching the glowing green digits on the VCR clock slowly tick forward. The anticipation was a heavy, electric weight pressing against our chests, but we held the perimeter exactly as Jessica commanded.
 
@@ -9810,9 +9914,9 @@ The logistics were complete. The dogs were happy, teeth were brushed, and the en
 
 Mom walked over to the wall, flipped the switch to turn on the Christmas tree lights, and smiled down at the three of us. The excruciating wait was finally over. It was time for presents.
 
-### Scene 3: The Drop Zone
+***
 
-**Date:** 1999-12-25 at 07:00 America/New_York
+#### 7:00 AM — The Drop Zone
 
 The unwrapped magic staged by Santa Claus was nothing short of a logistical masterpiece.
 
@@ -9844,9 +9948,9 @@ To a standard-hardware teenager, it was just a boring box of software. But to Je
 
 She held the box tightly in her lap, her eyes already running the installation algorithms in her head. I knew that the exact second the morning chaos settled, she was going to roll herself directly over to the desktop computer desk tucked underneath the slatted stairs to load the discs and initiate the compile.
 
-### Scene 4: The Sentinel’s Briefing
+***
 
-**Date:** 1999-12-25 at 09:00 America/New_York
+#### 9:00 AM — The Sentinel’s Briefing
 
 By 9:00 AM, the torn wrapping paper had been mostly cleared into trash bags, and the living room was settling into a comfortable, exhausted post-gift haze. Then, a sharp, familiar knock sounded at the front door.
 
@@ -9900,9 +10004,9 @@ Melissa, Jim, and Joan grabbed their coats, exchanging a final round of hugs bef
 
 Ashley wasn't leaving. She was looking forward to seeing Bonnie just as much as I was, but more importantly, she knew her role as the Honorary Sister. When noon finally struck, she knew my processor might still freeze, and she was staying firmly on station to run the wingman logistics and translate the outside world for me.
 
-### Scene 5: The Social Algorithm
+***
 
-**Date:** 1999-12-25 at 11:45 America/New_York
+#### 11:45 AM — The Social Algorithm
 
 At 11:45 AM on Christmas Day, the trauma of the Black Friday drop was temporarily pushed to the background. My internal processor was actively redlining over a completely different, infinitely more terrifying variable.
 
@@ -9940,9 +10044,11 @@ From her manual wheelchair parked near the blue recliner, Jessica watched the co
 
 I took a deep, shaky breath, nodding. *Open door. Merry Christmas. Light hug. Breathe.* The parameters were officially set.
 
-### Scene 6: The First Crush
+### Part 2: The First Crush & The Missing Exposure
 
 **Date:** 1999-12-25 at 12:00 America/New_York
+
+#### 12:00 PM — The First Crush
 
 At exactly noon, the doorbell rang.
 
@@ -10006,9 +10112,9 @@ She didn't mind it at all. In fact, knowing the pack had actively worked togethe
 
 "It's beautiful, Michael," Bonnie whispered, looking back at me with a soft, radiant blush. "Thank you so much."
 
-### Scene 7: The Christmas Tree Portrait
+***
 
-**Date:** 1999-12-25 at 12:10 America/New_York
+#### 12:10 PM — The Christmas Tree Portrait
 
 "Okay, before you leave, we need a picture," Ashley announced, suddenly stepping into the center of the room. She was holding a bright yellow disposable camera, taking absolute directorial command of the living room.
 
@@ -10058,9 +10164,9 @@ Bonnie offered a sympathetic smile. Because she was enrolled in the Math and Sci
 
 "Merry Christmas," I replied, watching her jog down the driveway to her parents' waiting car.
 
-### Scene 8: The Emotional High
+***
 
-**Date:** 1999-12-25 at 12:15 America/New_York
+#### 12:15 PM — The Emotional High
 
 I pushed the heavy front door shut, the brass latch clicking securely into the strike plate.
 
@@ -10102,9 +10208,9 @@ Mom pulled the car up to the curb, and I handed Ashley the stack of wrapped gift
 
 As Mom steered the sedan away from Rich Court and merged onto the main road, Tom, Ellen, Jessica, Michael, and Rachel officially headed to Grandma Loretta's house to
 
-### Scene 9: The Missing Exposure
+***
 
-**Date:** 1999-12-25 at 13:30 America/New_York
+#### 1:30 PM — The Missing Exposure
 
 The transition from the quiet, highly controlled environment of 1852 Delaney Street into the chaotic epicenter of Grandma Loretta's house was always a massive sensory hurdle.
 
@@ -10172,9 +10278,11 @@ Mom and Dad didn't argue. They knew exactly what was waiting for her under the s
 
 Rachel finally unlatched from my chest, her dark eyes shining with relief. The holiday gauntlet was officially over. We had survived the teasing, safely exchanged the gifts, and our older sister was aggressively clearing the path for us to return to our sanctuary so she could finally deploy her new software and start building her empire. It was time to go home.
 
-### Scene 10: The Syntax of Survival
+### Part 3: The Syntax of Survival & The Infinite Loop
 
 **Date:** 1999-12-25 at 14:30 America/New_York
+
+#### 2:30 PM — The Syntax of Survival
 
 The absolute second Dad backed the sedan into the driveway of 1852 Delaney Street, the agonizing holiday delay was officially over.
 
@@ -10252,9 +10360,9 @@ Sitting on the sofa bed a few feet away, completely anchored to Rachel in the di
 
 But I knew the sound of my older sister taking absolute, uncompromising control over her environment. The Catalyst Initiative had officially begun.
 
-### Scene 11: The Bare-Metal Blueprint
+***
 
-**Date:** 1999-12-25 at 16:00 America/New_York
+#### 4:00 PM — The Bare-Metal Blueprint
 
 By 4:00 PM, the winter sun was already beginning to set outside the front windows of 1852 Delaney Street, casting long, dark shadows across the dark blue polyester carpet. The rest of the house had settled into a quiet, post-holiday exhaustion. Dad was asleep in the master bedroom before his next Baja Taco shift, and Mom was reading in the galley kitchen.
 
@@ -10330,9 +10438,9 @@ I had my heavy canvas CD binder open on my lap, quietly sorting through the disc
 
 It wasn't just typing. To Rachel and me, it was the sound of the perimeter being actively fortified. It was the rhythm of our older sister systematically dismantling the limitations in front of her. The March 15th deadline for the Catalyst Initiative was still months away, but as I listened to the cooling fan on the desktop tower spin up to keep pace with her code, I knew exactly what was happening under the stairs. Jessica wasn't just writing a program; she was aggressively compiling her own escape velocity.
 
-### Scene 12: Christmas Day Dinner
+***
 
-**Date:** 1999-12-25 at 17:00 America/New_York
+#### 5:00 PM — Christmas Day Dinner
 
 The space underneath the slatted wooden stairs of 1852 Delaney Street was completely insulated from the rising acoustic volume of the house.
 
@@ -10392,9 +10500,9 @@ I looked around the room. It was loud, chaotic, and packed to the absolute struc
 
 The perimeter was safe.
 
-### Scene 13: The Infinite Loop
+***
 
-**Date:** 1999-12-25 at 19:00 America/New_York
+#### 7:00 PM — The Infinite Loop
 
 By 7:00 PM, the massive turkey dinner had been completely dismantled, and the adults had retreated to the living room with heavy mugs of coffee. But the dissipation of the meal didn't calm the house down; it merely opened up the physical floor plan for the younger cousins to exploit.
 
@@ -10448,7 +10556,7 @@ She didn't flinch. She pushed the blank floppy disk into the tower's front drive
 
 She cracked her knuckles, pushed her tinted glasses up her nose, and turned back to the glowing CRT monitor. The holiday was officially over. The crunch had begun.
 
-### Scene 14: The Night Watch
+### Part 4: The Night Watch
 
 **Date:** 1999-12-25 at 22:30 America/New_York
 
@@ -10520,9 +10628,11 @@ To a standard-hardware relative, it might have sounded like a distraction keepin
 
 ## Chapter 6: The Catalyst Initiative
 
-### Scene 1: The Bare Metal
+### The Bare Metal & The Holding Pattern
 
 **Date:** 1999-12-26 at 01:00 America/New_York
+
+#### 1:00 AM — The Bare Metal
 
 The digital perimeter was collapsing, and it sounded exactly like a dying lawnmower.
 
@@ -10568,9 +10678,9 @@ She stared at it for a long moment. Then, she hit backspace, deleting the lines.
 
 "Because it’s like trying to build a skyscraper with a pair of tweezers," Jessica said, hitting the armrest of her chair in a rare show of physical frustration. "Writing a memory intercept this complex in pure Assembly would take me three months of typing. The submission deadline for the Catalyst Initiative is March 15th. I don't have the time."
 
-### Scene 2: Severing the Runtime
+***
 
-**Date:** 1999-12-26 at 01:45 America/New_York
+#### 1:45 AM — Severing the Runtime
 
 She sat back in her chair, the blue light of the monitor reflecting off her lenses. She was trapped between the absolute limitations of a cheap 1995 computer and the brutal ticking of a 2000 deadline.
 
@@ -10606,9 +10716,9 @@ Instead of asking a high-level library to find her some memory, she reached dire
 
 She was creating a hybrid weapon. It had the speed of C, the absolute, microscopic precision of Assembly, and zero bloat to trigger the dreaded 64KB graphics crash.
 
-### Scene 3: The Holding Pattern
+***
 
-**Date:** 1999-12-26 at 03:00 America/New_York
+#### 3:00 AM — The Holding Pattern
 
 By 3:00 AM, the patch was written.
 
@@ -10642,9 +10752,11 @@ She hadn't just fixed the code. She had beaten the machine.
 
 ## Chapter 1: The Catalyst Notification
 
-### Scene 1: The Desktop Under the Stairs
+### Part 1: The Desktop Under the Stairs & The Long-Distance Loophole
 
 **Date:** 2000-04-21 at 16:00 America/New_York
+
+#### 4:00 PM — The Desktop Under the Stairs
 
 The architectural layout of 1852 Delaney Street wasn't exactly designed with advanced computing in mind. To keep the heavy, beige plastic tower and the massive CRT monitor out of the main traffic flow, Dad had shoved the family computer desk into the awkward, sloping alcove directly underneath the wooden staircase.
 
@@ -10700,9 +10812,9 @@ Jessica pulled back from our hug, wiping her eyes, a brilliant, tear-stained gri
 
 "I think my official paperwork just arrived," Jessica said, reaching for her push-rims. "Let's go open it."
 
-### Scene 2: The Quantum Packet
+***
 
-**Date:** 2000-04-21 at 16:10 America/New_York
+#### 4:10 PM — The Quantum Packet
 
 The heavy, black Quantum box sat on the concrete of the front porch, daring us to open it.
 
@@ -10784,9 +10896,9 @@ The victory celebration was officially suspended. Jessica didn't wait for Dad to
 
 "The deadline to secure fall housing is in two weeks," Jessica commanded, wheeling toward the computer desk under the stairs. "I have to call their disability services office right now. I need an accessible perimeter, and I need to start fighting their bureaucracy today."
 
-### Scene 3: The Long-Distance Loophole
+***
 
-**Date:** 2000-04-21 at 16:30 America/New_York
+#### 4:30 PM — The Long-Distance Loophole
 
 The dining room was rapidly deteriorating into a battlefield. Dad’s booming complaints about plane tickets and oversized baggage fees were escalating, completely drowning out Mom’s fierce attempts to defend the magnitude of the moment.
 
@@ -10860,9 +10972,11 @@ She hung up the phone. In the dining room, Dad was still loudly complaining to M
 
 "I've got my room," she whispered to us. "Now we just have to get me there."
 
-### Scene 4: The Vanguard
+### Part 2: The Vanguard & The Mirror
 
 **Date:** 2000-04-21 at 16:45 America/New_York
+
+#### 4:45 PM — The Vanguard
 
 "Thank you so much for your help," Jessica said warmly into the receiver. "I'll see you in the fall."
 
@@ -10900,9 +11014,9 @@ The tight, vibrating knot of anxiety that had been forming in my chest the secon
 
 Mom looked back over at the computer desk. "You are the vanguard of this family, Jess. We're going to make sure your launchpad is absolutely perfect. The whole pack is going to Seattle."
 
-### Scene 5: The Mirror
+***
 
-**Date:** 2000-04-21 at 16:50 America/New_York
+#### 4:50 PM — The Mirror
 
 "The whole pack is going to Seattle."
 
@@ -10966,9 +11080,11 @@ He didn't say another word. He just turned around, walked back into the kitchen,
 
 ## Chapter 2: Arrival at the Hotel
 
-### Scene 1: The Wheelchair Lift
+### Part 1: The Wheelchair Lift & The Cafeteria Serenade
 
 **Date:** 2000-05-04 at 16:00 America/New_York
+
+#### 4:00 PM — The Wheelchair Lift
 
 After hours of highway driving, our charter bus finally pulled into the parking lot of a high-end hotel near the ATL airport.
 
@@ -11000,9 +11116,9 @@ Mr. Panoff and the bus operator cleared it, and carefully, Brandon and the other
 
 "I missed sitting next to you," I said honestly.
 
-### Scene 2: The Cafeteria Serenade
+***
 
-**Date:** 2000-05-04 at 18:30 America/New_York
+#### 6:30 PM — The Cafeteria Serenade
 
 The logistics of getting off the motorcoach were just as grueling as getting on. Because the heavy metal wheelchair lift was still completely jammed, Brandon and the athletic guys from the drumline had to carefully carry Jessica down the narrow rubber stairs while the bus operator pulled her manual chair out of the luggage compartment underneath.
 
@@ -11060,7 +11176,7 @@ She wanted to get into the deep end of that pool, let the water hold her weight,
 
 And as the bus pulled into the hotel parking lot, we both desperately believed that Dad was going to be standing at the edge of the pool to watch her do it.
 
-### Scene 3: The Lido Deck
+### Part 2: The Lido Deck
 
 **Date:** 2000-05-04 at 20:00 America/New_York
 
@@ -11212,7 +11328,7 @@ I helped her transfer into the bed, and out of sheer habit and the desperate nee
 
 ## Chapter 3: The Roanoke Rapids Collapse
 
-### Scene 1: The Crown Burger Trigger
+### The Crown Burger Trigger
 
 **Date:** 2000-10-28 at 20:30 America/New_York
 
@@ -11302,9 +11418,11 @@ I didn't want a girlfriend. I didn't want the unpredictable chaos of outside fam
 
 ## Chapter 1: The Continental Shift
 
-### Scene 1: The Aunt Janet Extraction
+### Part 1: The Aunt Janet Extraction & The Perimeter Breach
 
 **Date:** 2000-08-17 at 04:30 America/New_York
+
+#### 4:30 AM — The Aunt Janet Extraction
 
 The heavy, suffocating humidity of the Virginia August morning clung to the concrete front porch of 1852 Delaney Street. It was four-thirty in the morning, and the sky was still a bruised, pitch black.
 
@@ -11368,9 +11486,9 @@ Mom turned back around, facing the windshield as the bright, glowing signs for N
 
 "Your father is staying in Virginia," Mom stated quietly, the absolute finality of the sentence hanging heavy in the cool air-conditioning of the minivan. "But the pack is going to Seattle."
 
-### Scene 2: The Check-In
+***
 
-**Date:** 2000-08-17 at 05:15 America/New_York
+#### 5:15 AM — The Check-In
 
 The heavy, humid darkness of the Virginia morning broke into the harsh, glaring fluorescent lights of the Norfolk International Airport drop-off lanes. Aunt Janet pulled the minivan up to the curbside check-in for Meridian Airlines, putting the car in park with a heavy sigh.
 
@@ -11432,9 +11550,9 @@ Mom took the passes, looking down at Jessica. She could see the rigid tension in
 
 "Michael, keep Rachel close," Mom commanded, taking absolute point. "Jess, stay right on my hip. We're going to the gate."
 
-### Scene 3: The Perimeter Breach
+***
 
-**Date:** 2000-08-17 at 05:30 America/New_York
+#### 5:30 AM — The Perimeter Breach
 
 We left the ticketing counter behind, leaving our massive canvas bags and the heavy computer tower in the hands of the Meridian Airlines baggage handlers. Stripped down to just our carry-on backpacks, Mom marched us directly toward the B Concourse security checkpoint.
 
@@ -11480,9 +11598,11 @@ Mom sat on the other side of Rachel, sipping her black coffee. She watched the t
 
 "Finish your muffins," Mom said softly, her eyes flickering to the gate podium where the flight attendants were beginning to gather their clipboards. "They're going to call us soon."
 
-### Scene 4: The Vanguard Flight
+### Part 2: The Vanguard Flight & The Sunlit Valley
 
 **Date:** 2000-08-17 at 06:15 America/New_York
+
+#### 6:15 AM — The Vanguard Flight
 
 The Meridian Airlines gate agent called for pre-boarding, and the reality of the jet bridge hit us the second we crossed the threshold of the terminal door.
 
@@ -11542,9 +11662,9 @@ Mom looked through the gap in the seats, watching Jessica calmly spread cream ch
 
 Mom slowly set her coffee cup down. The decision wasn't born out of sudden anger; it was born out of absolute, freezing clarity. When she got back to Virginia, Tom was getting one final ultimatum. If he didn't fundamentally rebuild his life, she was going to leave him behind.
 
-### Scene 5: The Prismatic Corridor
+***
 
-**Date:** 2000-08-17 at 08:45 America/Chicago
+#### 8:45 AM — The Prismatic Corridor
 
 The heavy commercial jet touched down at Chicago O’Hare with a violent shudder, the reverse thrusters roaring as we braked against the tarmac.
 
@@ -11606,9 +11726,9 @@ We stood outside the shop, passing the drinks around and letting the adrenaline 
 
 "Gate C18," Mom announced, her voice hardening back into that fierce, protective command. "Our flight to Seattle is boarding in twenty minutes. Let's go."
 
-### Scene 6: The Sunlit Valley
+***
 
-**Date:** 2000-08-17 at 10:30 America/Chicago
+#### 10:30 AM — The Sunlit Valley
 
 Gate C18 was a chaotic bottleneck, but the aircraft waiting for us at the end of the jet bridge was a massive upgrade. Meridian Airlines utilized a wide-body, dual-aisle jetliner for their cross-country hub routes.
 
@@ -11662,9 +11782,11 @@ The Pacific Northwest. The vanguard had arrived.
 
 ## Chapter 2: The TAPS Grid & The Breda Fleet
 
-### Scene 1: Reclaiming the Armor
+### Reclaiming the Armor & The Room 412 Perimeter
 
 **Date:** 2000-08-17 at 13:00 America/Los_Angeles
+
+#### 1:00 PM — Reclaiming the Armor
 
 The Meridian Airlines wide-body jet touched down at Seattle-Tacoma International Airport under a brilliant, cloudless sky. The heavy, pressurized air of the cabin shifted as the doors opened, and for the first time in hours, Rachel’s grip on my shirt finally loosened.
 
@@ -11696,9 +11818,9 @@ We wheeled out onto the heavy concrete transit island. Massive, roaring diesel b
 
 We formed a tight perimeter around our luggage carts, waiting in the cool, bright Seattle air. We were completely exhausted, operating on only a few hours of sleep and a massive emotional deficit, but the dynamic had fundamentally shifted. We were entirely on our own, three thousand miles from Delaney Street, and the pack had never been stronger.
 
-### Scene 2: The Breda Lift
+***
 
-**Date:** 2000-08-17 at 13:30 America/Los_Angeles
+#### 1:30 PM — The Breda Lift
 
 We didn't have to wait long on the heavy concrete transit island. A massive, sixty-foot articulated bus roared into the pickup lane, its air brakes hissing sharply as it knelt toward the curb.
 
@@ -11762,9 +11884,9 @@ She turned to us, gripping the canvas bags.
 
 "Let's go check in," Mom said.
 
-### Scene 3: The Lobby Perimeter
+***
 
-**Date:** 2000-08-17 at 14:15 America/Los_Angeles
+#### 2:15 PM — The Lobby Perimeter
 
 We dragged our heavy canvas bags and the massive cardboard computer box the last two blocks from the NPU transit stop to the hotel. You couldn't take the rolling airport carts on a city bus, which meant Mom and I had physically hauled everything by their canvas straps. By the time the automatic sliding doors of the hotel lobby parted, my hands were raw and aching.
 
@@ -11822,9 +11944,9 @@ Mom walked to the desk, signed the registration card, and returned to our alcove
 
 "Alright, pack," Mom said, her voice quiet but ringing with absolute, unyielding authority. "Room 412. Let's get upstairs."
 
-### Scene 4: The Room 412 Perimeter
+***
 
-**Date:** 2000-08-17 at 15:15 America/Los_Angeles
+#### 3:15 PM — The Room 412 Perimeter
 
 The elevator bank at the end of the hall looked like it hadn't been updated since 1968. The heavy, faux-wood paneled doors slid open with a rattling metal screech, revealing a cramped cab that smelled faintly of old machine oil and stale cigarette smoke masked by heavy floral perfume.
 
@@ -11894,9 +12016,11 @@ Back on the East Coast, fast food was strictly segmented. Burger places sold bur
 
 ## Chapter 3: The Provisions Run
 
-### Scene 1: The ADA Fortress
+### Part 1: The ADA Fortress & The Ave
 
 **Date:** 2000-08-18 at 08:00 America/Los_Angeles
+
+#### 8:00 AM — The ADA Fortress
 
 Friday morning broke with the bright, sharp clarity unique to the Pacific Northwest. Our internal clocks were still violently protesting, but the adrenaline of Move-In Day overrode the fatigue.
 
@@ -11960,9 +12084,9 @@ Mom walked over, leaning down to wrap her arms tightly around Jessica’s should
 
 "You don't need us anymore," Mom whispered quietly, her voice thick with emotion. "You're exactly where you're supposed to be."
 
-### Scene 2: The Cascade Haul
+***
 
-**Date:** 2000-08-18 at 13:00 America/Los_Angeles
+#### 1:00 PM — The Cascade Haul
 
 The dorm was fully established, but a quick visual sweep of the ADA kitchen revealed a glaring vulnerability. The refrigerator was entirely empty.
 
@@ -12008,9 +12132,9 @@ Jessica wheeled over. The microwave was perfectly flush with her chest height. S
 
 Jessica hit cancel, a fierce, triumphant smile breaking across her face. The kitchen was fully armed.
 
-### Scene 3: The Topography Lesson
+***
 
-**Date:** 2000-08-18 at 16:00 America/Los_Angeles
+#### 4:00 PM — The Topography Lesson
 
 By late afternoon, the high-adrenaline rush had settled into a quiet, operational hum.
 
@@ -12054,9 +12178,9 @@ Ten minutes later, with the newly printed NPU Student ID in hand, Jessica didn't
 
 The vanguard was learning the terrain.
 
-### Scene 4: The Ave
+***
 
-**Date:** 2000-08-18 at 18:30 America/Los_Angeles
+#### 6:30 PM — The Ave
 
 By six-thirty in the evening, the high-altitude, crisp Pacific Northwest sun was finally beginning to cast long, golden shadows across the concrete of the engineering quad. The vanguard had successfully secured the apartment, mapped the local transit grid, and armed the kitchen, but the adrenaline that had been powering our central nervous systems since the 4:30 AM East Coast extraction was violently bottoming out.
 
@@ -12112,9 +12236,11 @@ Jessica took a bite of her chicken, looking out the plate-glass window at the ne
 
 "I could get used to this," Jessica murmured.
 
-### Scene 5: The Perimeter Handoff
+### Part 2: The Perimeter Handoff & The Empty Flank
 
 **Date:** 2000-08-18 at 20:00 America/Los_Angeles
+
+#### 8:00 PM — The Perimeter Handoff
 
 By eight o'clock, the golden hour had faded into a cool, dusky Pacific Northwest twilight. We walked the few blocks back to the engineering quad, our shadows stretching long across the concrete, and pushed into the quiet, brightly lit corridor of the upperclassman dorm.
 
@@ -12180,9 +12306,9 @@ The apartment was completely silent. She was three thousand miles away from the 
 
 Jessica Marie Ragsdale rested her hands on her push-rims, alone in the quiet dark, and smiled.
 
-### Scene 6: The Empty Flank
+***
 
-**Date:** 2000-08-18 at 21:30 America/Los_Angeles
+#### 9:30 PM — The Empty Flank
 
 The ride back to the hotel on the TAPS bus was entirely silent. The cool, dark Seattle streets blurred past the window, but none of us were really looking at the city. The extraction was complete, the perimeter had been handed over, and the adrenaline was completely gone. All that was left was the heavy, hollow reality of the separation.
 
@@ -12234,9 +12360,11 @@ The sun would come up. We would walk back to the engineering quad. We would see 
 
 ## Chapter 4: The Tourist Perimeter
 
-### Scene 1: The Reassembled Pack
+### Part 1: The Reassembled Pack & The Saltwater Grid
 
 **Date:** 2000-08-19 at 07:00 America/Los_Angeles
+
+#### 7:00 AM — The Reassembled Pack
 
 The digital alarm clock on the hotel nightstand hadn't even flipped to seven when my hyper-vigilance finally broke my light, fractured sleep entirely.
 
@@ -12320,9 +12448,9 @@ The pack took our seats around her. The doors hissed shut, and the bus pulled aw
 
 It was time to breach the downtown grid.
 
-### Scene 2: The Concrete Canyons
+***
 
-**Date:** 2000-08-19 at 11:30 America/Los_Angeles
+#### 11:30 AM — The Concrete Canyons
 
 The local King County 230 deposited us right in the heart of the Bellevue Transit Center. We didn't have to wait long. The massive, articulated TAPS 550 express bus pulled up, its air brakes hissing loudly as the doors swung open.
 
@@ -12354,9 +12482,9 @@ The visual transition was staggering.
 
 We stepped off the bus and into a towering, man-made canyon of glass, steel, and concrete. The sheer vertical scale of the financial district blocked out the midday sun, casting long, sharp shadows across the gridlocked traffic. It was loud, chaotic, and vibrating with the heavy energy of a major metropolitan hub, but it was nothing compared to the absolute sensory gauntlet waiting for us three blocks away.
 
-### Scene 3: The Puget Place Gauntlet
+***
 
-**Date:** 2000-08-19 at 12:30 America/Los_Angeles
+#### 12:30 PM — The Puget Place Gauntlet
 
 Mom led the tactical navigation, checking the folding tourist map against the street signs as we walked west toward the water, leaving the towering glass canyons of the financial district behind.
 
@@ -12416,9 +12544,9 @@ Mom nodded, immediately taking point. I tightened my grip on my CD player, leane
 
 This successfully extracts them from the sensory nightmare and puts them on a direct trajectory toward the waterfront docks.
 
-### Scene 4: The Saltwater Grid
+***
 
-**Date:** 2000-08-19 at 13:15 America/Los_Angeles
+#### 1:15 PM — The Saltwater Grid
 
 We hit the bottom of the concrete pedestrian ramp and immediately ran into a massive, brutalist wall of infrastructure.
 
@@ -12466,7 +12594,7 @@ Jessica sat across from me, a paper cup of coffee in her hand. Her shoulders wer
 
 She took a sip of her coffee, looking out at the mountains, a quiet, fierce satisfaction settling in her eyes. The Vanguard had survived the gauntlet, and the grid belonged to her.
 
-### Scene 5: The Bremerton Landing
+### Part 2: The Bremerton Landing
 
 **Date:** 2000-08-19 at 14:30 America/Los_Angeles
 
@@ -12496,9 +12624,11 @@ We took our time. We ate slowly, decompressing from the sensory gauntlet of the 
 
 ## Chapter 1: Rachel’s First Band Camp
 
-### Scene 1: Awakening My Sister
+### Part 1: Awakening My Sister & The Commercial Carpet
 
 **Date:** 2001-08-13 at 06:00 America/New_York
+
+#### 6:00 AM — Awakening My Sister
 
 The harsh, electronic blare of the alarm clock on the coffee table severed the quiet of the morning like a physical strike. Beside me on the pull-out mattress of the sofa bed, Rachel jolted awake with a sharp gasp, the heavy blankets tangling around our legs. It was 6:00 AM, the official start of my Junior year marching band season, and more importantly, Rachel's very first day as a Freshman in the pit ensemble.
 
@@ -12538,9 +12668,9 @@ By 7:15 AM, we had strapped our canvas backpacks on and wheeled our bikes out of
 
 We rode the two miles to Northwood High School in comfortable silence, the rhythmic clicking of our bicycle chains serving as our metronome.
 
-### Scene 2: The Sentinel and the Ghost
+***
 
-**Date:** 2001-08-13 at 07:45 America/New_York
+#### 7:45 AM — The Sentinel and the Ghost
 
 We chained our bikes to the racks outside the fine arts wing. As we walked toward the heavy double doors of the band room, a familiar figure pushed off the brick wall to meet us.
 
@@ -12578,9 +12708,9 @@ Rachel set up her mallets, meticulously lining them up in perfect parallel rows,
 
 Here, surrounded by the giant, resonant instruments and the strict, predictable schedule of Mr. Panoff's band camp, the chaotic adult problems of the Delaney Street house couldn't reach us. It was a perfect, structured sanctuary.
 
-### Scene 3: The Sanctuary Shatters
+***
 
-**Date:** 2001-08-13 at 08:45 America/New_York
+#### 8:45 AM — The Sanctuary Shatters
 
 "Detail! Atten-Hut!" Mr. Panoff’s voice boomed across the practice field, cutting through the humid morning air.
 
@@ -12656,9 +12786,9 @@ Mr. Panoff nodded respectfully. He turned to Kenny, our young pit instructor, wh
 
 Samantha stepped up to our abandoned keyboards, her expression entirely professional. "I'll secure your gear," Samantha promised, her mallets already in hand. She stayed planted on the practice field, holding the line for the pit, while Kenny escorted us away from the chaos.
 
-### Scene 4: The Commercial Carpet
+***
 
-**Date:** 2001-08-13 at 09:00 America/New_York
+#### 9:00 AM — The Commercial Carpet
 
 Kenny pulled the heavy, metal double doors of the Northwood High band room open. The blast of over-taxed air conditioning hit us instantly, carrying the familiar, metallic scent of brass polish, valve oil, and stale carpet.
 
@@ -12698,9 +12828,11 @@ Kenny just took two steps back, folded his arms, and leaned against the doors, e
 
 I squeezed my eyes shut, burying my face into Rachel's shoulder, my own breathing ragged and entirely out of my control. We lay there on the thin, scratchy carpet of the band room, clinging to each other in absolute silence, mourning the end of the only world we had ever known.
 
-### Scene 5: The Anchor and the Alpine Snowdrop
+### Part 2: The Anchor and the Alpine Snowdrop & The Stage Door Fortress
 
 **Date:** 2001-08-13 at 09:15 America/New_York
+
+#### 9:15 AM — The Anchor and the Alpine Snowdrop
 
 The ragged, frantic rhythm of our breathing slowly began to decelerate.
 
@@ -12786,9 +12918,9 @@ I saw the rigid, predictable structures of the 4/4 time signatures. I saw the cl
 
 I looked over at Rachel. She was already picking up her mallets, meticulously aligning the yarn heads, a faint hint of a smile touching her lips. The world outside the band room was completely falling apart, but here on the field, the notes made perfect sense.
 
-### Scene 6: The Muscle Memory Map
+***
 
-**Date:** 2001-08-13 at 10:00 America/New_York
+#### 10:00 AM — The Muscle Memory Map
 
 The initial relief of the sheet music lasted exactly ten minutes.
 
@@ -12864,9 +12996,9 @@ For the next hour, we didn't pay attention to the blaring trumpets behind us or 
 
 The morning had started with the utter destruction of our family unit, leaving us shattered on the band room floor. But as Rachel's mallets flew across the rosewood keys in perfect, memorized time with ours, the chaotic world outside the practice field disappeared. We were building a brand new anchor, and this time, it was one nobody could take away.
 
-### Scene 7: The Stage Door Fortress
+***
 
-**Date:** 2001-08-13 at 12:00 America/New_York
+#### 12:00 PM — The Stage Door Fortress
 
 At noon, Mr. Panoff blew his whistle, signaling the start of the hour-long lunch break.
 
@@ -12932,9 +13064,11 @@ Rachel took a bite of her pickle-and-peanut-butter sandwich, chewing slowly. She
 
 The Delaney Street house was broken, and our parents had officially surrendered their roles as our protectors. But sitting on the concrete steps of the Northwood High stage, surrounded by the smell of valve oil and generic cola, we had drawn our own battle lines. The outside world could stare and whisper all they wanted. We were a fortress, and our walls were completely impenetrable.
 
-### Scene 8: The Afternoon Metronome
+### Part 3: The Afternoon Metronome & The Giant Bed
 
 **Date:** 2001-08-13 at 13:00 America/New_York
+
+#### 1:00 PM — The Afternoon Metronome
 
 When we finally emerged from the dark, quiet alcove of the stage doors at one o'clock, the Virginia Beach heat hit us like a physical wall. The humidity had peaked, turning the air thick and heavy, but the suffocating weather was nothing compared to the absolute, crushing relief I felt when I looked across the practice field.
 
@@ -13016,9 +13150,9 @@ He jogged into the fine arts building. Five minutes later, he emerged with a rea
 
 Working together, we hoisted the bicycles into the back of the van. We climbed into the middle row, the blast of the AC instantly soothing our sunburned skin. I sank into the upholstery, Ashley sitting on my left and Rachel on my right. We had survived the collapse of our home, the stares of the upperclassmen, and the first brutal day of band camp. As Mr. Raybourn put the van in drive and steered us toward the safety of his house, I knew the perimeter had held.
 
-### Scene 9: 1802 Rich Court
+***
 
-**Date:** 2001-08-13 at 17:15 America/New_York
+#### 5:15 PM — 1802 Rich Court
 
 The distance between 1852 Delaney Street and 1802 Rich Court was exactly one block. Physically, it was a two-minute walk. But stepping out of the humid August heat and through the front door of the Raybourn house felt like crossing a border into an entirely different dimension.
 
@@ -13086,9 +13220,9 @@ I turned around. Ashley and Rachel were waiting at the bottom of the stairs.
 
 We headed up the stairs to Ashley's room. The Delaney Street house was falling apart, but tonight, I had my pack, I had my spare clothes, and I had the giant bed waiting for us. Base Camp had successfully relocated.
 
-### Scene 10: The Giant Bed
+***
 
-**Date:** 2001-08-13 at 19:30 America/New_York
+#### 7:30 PM — The Giant Bed
 
 Even though the August sun was still casting long, golden shadows across the Raybourns' backyard, our physical and emotional batteries were operating at zero percent. The combination of the brutal Virginia heat and the absolute psychological devastation of the morning had completely drained us.
 
@@ -13124,9 +13258,11 @@ I closed my eyes, letting the safety of the perimeter finally pull my exhausted 
 
 ## Chapter 1: The Mall
 
-### Scene 1: Vacation from Parents
+### Vacation from Parents & Up All Night Party
 
 **Date:** 2001-08-17 at 10:30 America/New_York
+
+#### 10:30 AM — Vacation from Parents
 
 The heavy trunk of the sedan slammed shut, the metallic thud echoing over the roar of jet engines at the Norfolk International Airport drop-off curb.
 
@@ -13170,9 +13306,9 @@ My sister pouted slightly, looking up at me. "How much did Mom give us?"
 
 I could almost see the math forming in her eyes, knowing that whatever number I said, it wasn't going to be enough to buy the absolute, unlimited freedom she was craving.
 
-### Scene 2: Afternoon at the Mall
+***
 
-**Date:** 2001-08-17 at 13:00 America/New_York
+#### 1:00 PM — Afternoon at the Mall
 
 The Emerald Creek Mall was a massive, sprawling brick fortress. On a Friday afternoon, it was already vibrating with a low-frequency hum of activity, but I knew the layout well enough to avoid the worst of the friction. Instead of fighting the traffic at the main department store entrances, I navigated the ring road all the way to the back perimeter, deliberately aiming for the hidden glass elevator that bypassed the main concourse and delivered you straight to the second-floor food court.
 
@@ -13234,9 +13370,9 @@ We waited three minutes outside the curtain for the machine to spit out the stri
 
 She tucked the photo strip carefully into her pocket, linked her arm back through mine, and we walked out to the car.
 
-### Scene 3: Up All Night Party
+***
 
-**Date:** 2001-08-17 at 20:00 America/New_York
+#### 8:00 PM — Up All Night Party
 
 By the time we got back to the quiet sanctuary of the Delaney Street house, the sun had set.
 
@@ -13298,9 +13434,11 @@ I slid over and put my arm firmly around my kid sister, pulling her securely aga
 
 ## Chapter 2: The Teenage Script
 
-### Scene 1: The Elephant in the Room
+### The Elephant in the Room & The Cross-Country Bargain
 
 **Date:** 2001-08-18 at 08:30 America/New_York
+
+#### 8:30 AM — The Elephant in the Room
 
 I woke up to the heavy, rhythmic thumping of a dog’s tail hitting the side of the sofa bed.
 
@@ -13350,9 +13488,9 @@ She pushed the heavy blankets back and climbed off the mattress. Archie immediat
 
 The outside world could have their parties and their complicated social expectations. Inside the walls of the Delaney Street house, we were building our own rules.
 
-### Scene 2: The Morning Routine
+***
 
-**Date:** 2001-08-18 at 09:00 America/New_York
+#### 9:00 AM — The Morning Routine
 
 As Rachel headed toward the kitchen, I stayed on the edge of the mattress for a moment, my bare feet resting on the cool living room carpet.
 
@@ -13392,9 +13530,9 @@ Rachel took a bite of her cereal, chewing slowly, her shoulder resting firmly ag
 
 Sitting there in the dim living room, completely insulated from the demands and expectations of the outside world, I realized I was genuinely happy. The divorce was still looming out there somewhere in the future, but right here, in this exact moment, everything was perfect.
 
-### Scene 3: The Cross-Country Bargain
+***
 
-**Date:** 2001-08-18 at 13:00 America/New_York
+#### 1:00 PM — The Cross-Country Bargain
 
 The absolute peace of our Saturday lasted exactly until one o'clock in the afternoon.
 
@@ -13480,9 +13618,11 @@ I reached out and ended the call, cutting off the painful static. I couldn't lis
 
 ## Chapter 3: The Broken Door
 
-### Scene 1: Rachel's Fury
+### Rachel's Fury & The Push-Button Lock
 
 **Date:** 2001-09-04 at 17:30 America/New_York
+
+#### 5:30 PM — Rachel's Fury
 
 The two-week reprieve was officially over. Mom was back from her work trip, the house was no longer ours, and the terrifying reality of the legal separation had finally arrived at the front door.
 
@@ -13580,9 +13720,9 @@ She didn't want a bath for the hygiene. She wanted the heavy warmth of the water
 
 I leaned forward, resting my elbows on my knees, and locked my eyes firmly with hers. I didn't look anywhere else. I just held her gaze, offering the steady, undeniable proof that I was right there, keeping the world from dragging her away.
 
-### Scene 2: The Anchor
+***
 
-**Date:** 2001-09-04 at 18:00 America/New_York
+#### 6:00 PM — The Anchor
 
 The bathroom was thick with warm, fragrant steam, turning the small, tiled space into an insulated, physical cocoon.
 
@@ -13620,9 +13760,9 @@ But more than the water, it was the unbroken eye contact that was regulating her
 
 We sat there in the steam for a long time. The only sounds were the slow, steady drip of the faucet and the quiet popping of the soap bubbles. The outside world, with its lawyers, its broken doorknobs, and its terrifying ultimatums, was completely locked out. As long as I was sitting right there, holding her gaze, she was perfectly, completely safe.
 
-### Scene 3: The Push-Button Lock
+***
 
-**Date:** 2001-09-04 at 18:45 America/New_York
+#### 6:45 PM — The Push-Button Lock
 
 The bubbles eventually began to dissolve, and the heat of the water slowly bled out into the humid air of the bathroom.
 
@@ -13680,7 +13820,7 @@ We had survived the explosion, and we were safe behind the push-button lock. But
 
 ## Chapter 4: The Inevitable Math
 
-### Scene 1: The Guidance Office
+### The Guidance Office
 
 **Date:** 2001-09-05 at 06:30 America/New_York
 
@@ -13734,9 +13874,11 @@ Rachel spun around, grabbed my arm with bruising force, and practically dragged 
 
 ## Chapter 5: The Grounded Skies
 
-### Scene 1: The Eerie Silence
+### The Eerie Silence & System Shutdown
 
 **Date:** 2001-09-11 at 16:00 America/New_York
+
+#### 4:00 PM — The Eerie Silence
 
 The Delaney Street house was suffocatingly quiet.
 
@@ -13774,9 +13916,9 @@ She didn't ask any more questions. The variables were too massive and too dark t
 
 I didn't let go. I sat there on the sofa bed, holding my little sister as tightly as my arms would allow, listening to the eerie, unnatural silence outside our windows. The court order was still hanging over our heads, and the world had permanently changed, but right here, in this exact moment, we were anchored together. And until the skies opened back up, that was the only thing that mattered.
 
-### Scene 2: The Wooden Barricade
+***
 
-**Date:** 2001-09-11 at 17:30 America/New_York
+#### 5:30 PM — The Wooden Barricade
 
 The shadows in the living room were growing long, but neither Rachel nor I made a move to turn on the lamps. We stayed anchored to the center of the sofa bed, wrapped in the heavy, predictable silence of the grounded skies.
 
@@ -13824,9 +13966,9 @@ The reprieve was real. She didn't have to get on a plane tomorrow, and she didn'
 
 The world outside was a terrifying, unknown variable, and the court order was a ticking time bomb waiting for the airspace to clear. I held her as tightly as I could, the deep pressure of our embrace the only defense we had left against the inevitable math of the divorce.
 
-### Scene 3: The Second Barricade
+***
 
-**Date:** 2001-09-11 at 18:30 America/New_York
+#### 6:30 PM — The Second Barricade
 
 After the sound of Dad’s truck completely faded away down Delaney Street, the downstairs sofa bed no longer felt secure. Dad had proven he could walk right up to the front door. We needed a harder boundary, a space where the perimeter was entirely under our control.
 
@@ -13870,9 +14012,9 @@ Neither of us moved. We didn't care about the food. We didn't care that Mom was 
 
 I leaned back against the headboard, keeping my arm firmly locked around Rachel's shoulders. The world outside was grounded, the house was a hostile environment, but behind the push-button lock of my bedroom door, our sanctuary remained perfectly intact.
 
-### Scene 4: System Shutdown
+***
 
-**Date:** 2001-09-11 at 20:00 America/New_York
+#### 8:00 PM — System Shutdown
 
 The silence in the house was absolute, broken only by the faint, rhythmic ticking of the analog clock on my nightstand.
 
@@ -13904,9 +14046,11 @@ I squeezed her hand back, resting my forehead against her shoulder blade. Outsid
 
 ## Chapter 6: The Compromised Perimeter
 
-### Scene 1: The Broken Routine
+### The Broken Routine & The Afternoon Siege
 
 **Date:** 2001-09-12 at 05:45 America/New_York
+
+#### 5:45 AM — The Broken Routine
 
 The harsh, electronic beeping of my alarm clock shattered the heavy silence of the bedroom.
 
@@ -13962,9 +14106,9 @@ Rachel squeezed her eyes shut, pressing her forehead against my shoulder. For a 
 
 We were officially playing hooky. But as the sound of the bus faded away, leaving the house completely silent and empty, the tight, suffocating knot in my chest finally loosened. We had broken the rules, but we were still together.
 
-### Scene 2: The Afternoon Siege
+***
 
-**Date:** 2001-09-12 at 11:30 America/New_York
+#### 11:30 AM — The Afternoon Siege
 
 The morning stretched out in an agonizing, slow-motion crawl.
 
@@ -14014,9 +14158,11 @@ The push-button lock on my bedroom door suddenly felt incredibly fragile. The ai
 
 ## Chapter 7: The Loophole
 
-### Scene 1: The Bleeding Finances
+### The Bleeding Finances & The Living Hell
 
 **Date:** 2001-09-17 at 14:15 America/New_York
+
+#### 2:15 PM — The Bleeding Finances
 
 The national airspace had technically reopened a few days ago, but the logistical reality was a complete, gridlocked nightmare. The news stations were showing endless footage of massive, chaotic lines at airport ticketing counters. The system was severely backlogged with tens of thousands of stranded passengers, and getting a new flight out of Norfolk International was mathematically impossible for anyone at the back of the line.
 
@@ -14050,9 +14196,9 @@ Rachel leaned forward, her face inches from the phone’s microphone. "I am not 
 
 "The court order says you get custody when you have *suitable housing*," Rachel fired back, weaponizing the exact legal phrasing he had used against us. "A single hotel room with two beds and one bathroom is not suitable housing. It doesn't give a fourteen-year-old teenage girl any privacy. It is temporary lodging. You don't have a house here. So, I am not going."
 
-### Scene 2: The Living Hell
+***
 
-**Date:** 2001-09-17 at 14:30 America/New_York
+#### 2:30 PM — The Living Hell
 
 Dead silence fell over the speakerphone.
 
@@ -14096,9 +14242,11 @@ We had successfully defended the perimeter again, using the adult world's rules 
 
 ## Chapter 8: The Departure
 
-### Scene 1: The Bright Idea
+### The Bright Idea & The Calling Cards
 
 **Date:** 2001-09-20 at 08:00 America/New_York
+
+#### 8:00 AM — The Bright Idea
 
 The two floral-print suitcases sat by the front door like heavy, physical gravestones.
 
@@ -14128,9 +14276,9 @@ Dad froze, his hand tightening on the plastic luggage handle. He looked at Rache
 
 He turned his back, dragging the first suitcase out onto the concrete porch.
 
-### Scene 2: The Assumption
+***
 
-**Date:** 2001-09-20 at 08:15 America/New_York
+#### 8:15 AM — The Assumption
 
 Mom walked out of the kitchen, clutching a crumpled tissue in her hand. Her eyes were red and swollen.
 
@@ -14154,9 +14302,9 @@ Everyone was crying. Mom was sobbing into her tissue. Jessica was weeping over t
 
 But I didn't cry. My brain had bypassed the emotion and locked entirely into survival mode. I walked down the final step, stepping directly between Rachel and our parents.
 
-### Scene 3: The Calling Cards
+***
 
-**Date:** 2001-09-20 at 08:30 America/New_York
+#### 8:30 AM — The Calling Cards
 
 Mom reached into the pocket of her cardigan. She completely ignored Dad, stepping around me to press a thick, heavy stack of plastic cards into Rachel's trembling hands.
 
@@ -14200,9 +14348,11 @@ The heavy lock clicked into place, and the house was suddenly, terrifyingly sile
 
 ## Chapter 1: A Left Coast Christmas
 
-### Scene 1: Arrival at PDX
+### Arrival at PDX & Sibling Cuddles
 
 **Date:** 2001-11-17 at 14:30 America/New_York
+
+#### 2:30 PM — Arrival at PDX
 
 The cross-country flight from Virginia had been a grueling, anxiety-inducing marathon. Flying just two months after the airspace had been weaponized meant the entire atmosphere of commercial aviation was thick with a heavy, unspoken tension. I had spent the last seven hours rigidly gripping the armrests, my nervous system completely frayed.
 
@@ -14250,9 +14400,9 @@ We reached the massive, rotating luggage carousel. The heavy buzzer sounded, and
 
 "That is my bag," I said, pointing as I stepped forward and pulled one of the heavy floral suitcases off of the belt. It was the exact same suitcase Dad had used to pack Rachel's life away two months ago, repurposed for my trip. I set it upright and gripped the handle. "Where to?"
 
-### Scene 2: The Columbia Transit Service
+***
 
-**Date:** 2001-11-17 at 15:15 America/New_York
+#### 3:15 PM — The Columbia Transit Service
 
 Rachel giggled, her dark eyes lighting up as she stepped fully into her element. The overwhelming stress of the last two months vanished, replaced by the rigid, predictable safety of a public transportation grid.
 
@@ -14308,9 +14458,9 @@ As the bus merged onto the interstate and rumbled over the massive steel bridge 
 
 The 4 bus dropped us off a block from the hotel. The rain was coming down harder now. Rachel grabbed my suitcase again, laughing as the cold wind whipped her hair across her face, while I pushed Jessica as fast as I could through the sliding glass doors of the hotel lobby. We were soaking wet, exhausted from travel, but our pack was finally back together.
 
-### Scene 3: Sibling Cuddles
+***
 
-**Date:** 2001-11-17 at 17:00 America/New_York
+#### 5:00 PM — Sibling Cuddles
 
 We arrived in the room on the second floor, and Jessica swiped her keycard. The heavy hotel door clicked open, and we pushed inside, dragging the luggage out of the hallway.
 
@@ -14376,9 +14526,11 @@ We didn't say anything else. We didn't need to. We just pulled the heavy hotel b
 
 ## Chapter 2: A Clark County Christmas
 
-### Scene 1: Left Coast Time
+### Left Coast Time & The Hard Conversation
 
 **Date:** 2001-11-18 at 07:00 America/New_York
+
+#### 7:00 AM — Left Coast Time
 
 Morning rolled around, the pale, gray light of the Pacific Northwest filtering through the gap in the heavy hotel curtains.
 
@@ -14442,9 +14594,9 @@ I pushed her inside, maneuvering her into the designated securement area behind 
 
 The adult world was messy and terrifying, but inside the rigid, mechanical routine of the Columbia Transit Service, with both of my sisters right beside me, I knew exactly what the pattern was.
 
-### Scene 2: The Burger Arch
+***
 
-**Date:** 2001-11-18 at 08:30 America/New_York
+#### 8:30 AM — The Burger Arch
 
 The ride to Franklin’s was uneventful, the heavy bus tires hissing over the wet pavement. Soon, we were dropped off at the massive transit shelter on the edge of the hypermarket's sprawling property.
 
@@ -14496,9 +14648,9 @@ He was acting like he was afraid of her.
 
 As Dad parked the car and killed the engine, the suffocating silence in the cabin made one thing perfectly clear: Jessica was holding a massive piece of leverage over his head, and breakfast was exactly where she planned to drop it.
 
-### Scene 3: The Hard Conversation
+***
 
-**Date:** 2001-11-18 at 09:15 America/New_York
+#### 9:15 AM — The Hard Conversation
 
 We carried our plastic trays to a booth in the far corner of the neon-lit dining room, away from the morning rush. The air smelled heavily of fryer grease and burnt coffee.
 
@@ -14594,9 +14746,11 @@ Jessica simply reached into her coat pocket, pulled out her Columbia Transit car
 
 ## Chapter 3: Shopping in Portland
 
-### Scene 1: The Transit Protocol
+### The Transit Protocol & The Federal Way Proposal
 
 **Date:** 2001-11-18 at 10:00 America/New_York
+
+#### 10:00 AM — The Transit Protocol
 
 The journey from the Vancouver fast-food parking lot to the center of Portland was a masterclass in Rachel’s transit hyper-fixation.
 
@@ -14618,9 +14772,9 @@ Twenty minutes later, the train slowed, curving onto a raised platform.
 
 "Rose City Center," Rachel announced, standing up and grabbing her coat. "Our stop."
 
-### Scene 2: The Largest Mall in Oregon
+***
 
-**Date:** 2001-11-18 at 11:00 America/New_York
+#### 11:00 AM — The Largest Mall in Oregon
 
 The train doors chimed open, dropping us off directly across the street from a massive, sprawling concrete and glass structure.
 
@@ -14664,9 +14818,9 @@ My two sisters, with Rachel eagerly taking the lead since she had mapped out the
 
 I was surprised at how much Jessica’s wheelchair could carry, balancing bags on the back handles and across her lap. We stuck mostly to clothes, books, and small things, constantly running the logistical calculations of what we could comfortably carry on the public transit ride back to Vancouver. Despite the heavy conversation at the railing, being surrounded by my sisters, following a structured shopping plan, felt like the most grounded I had been in months.
 
-### Scene 3: The Investment
+***
 
-**Date:** 2001-11-18 at 12:30 America/New_York
+#### 12:30 PM — The Investment
 
 We navigated away from the clothing retailers and the loud, echoing atrium of the ice rink, pushing through the heavy glass doors of a massive, two-story bookstore. The air inside smelled deeply of roasted coffee beans and fresh paper, a quiet, muffled sanctuary compared to the rest of Rose City Center.
 
@@ -14712,9 +14866,9 @@ As we walked, my analytical brain processed the interaction. I had spent my enti
 
 She was the ultimate anchor. And as Dad followed us to the register to watch his twenty-year-old daughter pay for his high school education, I knew he finally realized exactly who was in charge of the pack.
 
-### Scene 4: The Federal Way Proposal
+***
 
-**Date:** 2001-11-18 at 16:00 America/New_York
+#### 4:00 PM — The Federal Way Proposal
 
 We eventually arrived back at the hotel in Vancouver, soaked from the rain and exhausted from the massive logistical effort of the day. Jessica swiped her keycard, and the heavy door clicked open.
 
@@ -14778,9 +14932,11 @@ Rachel let out a long, shaky breath, her shoulders slumping as the heavy tension
 
 ## Chapter 4: The Virginia Hammer
 
-### Scene 1: The Quantum Shield
+### The Quantum Shield & The Status Quo
 
 **Date:** 2001-11-19 at 10:00 America/New_York
+
+#### 10:00 AM — The Quantum Shield
 
 Jessica’s apartment in Federal Way was a revelation.
 
@@ -14818,9 +14974,9 @@ Jessica's eyes scanned her laptop screen.
 
 She hit a key on her laptop, initiating the wire transfer that would fund the war.
 
-### Scene 2: The Status Quo
+***
 
-**Date:** 2001-11-19 at 15:15 America/New_York
+#### 3:15 PM — The Status Quo
 
 For twenty-nine agonizing hours, we lived in a state of suspended animation.
 
@@ -14862,9 +15018,11 @@ We were a thousand miles away from the courtroom, but the hammer had officially 
 
 ## Chapter 5: A New Tradition
 
-### Scene 1: The Legal Stranger
+### Part 1: The Legal Stranger & The Assembly Line
 
 **Date:** 2001-11-21 at 10:00 America/New_York
+
+#### 10:00 AM — The Legal Stranger
 
 The sanctuary of the Federal Way apartment held perfectly through the night. When Wednesday morning arrived—the day before Thanksgiving—the heavy, suffocating anxiety that had defined our lives for the last two months was completely gone.
 
@@ -14916,9 +15074,9 @@ She let out a long breath, shaking her head. She looked over at Rachel, who was 
 
 "Well," Jessica smiled, her face instantly softening as she looked at our little sister. "I think that officially takes care of the Vancouver problem. Now, who wants to help me check on the turkey I've had thawing in the fridge since Sunday, and maybe get a head start on the pie crusts?"
 
-### Scene 2: The Aero-Transit Packet
+***
 
-**Date:** 2001-11-21 at 11:15 America/New_York
+#### 11:15 AM — The Aero-Transit Packet
 
 The quiet hum of the apartment had barely resumed when the landline rang a second time. Rachel’s shoulders immediately hitched up toward her ears, her dark eyes flashing back to the plastic receiver on the wall.
 
@@ -14966,9 +15124,9 @@ For the next two hours, the Federal Way apartment smelled of butter, flour, and 
 
 The physical repetition of working the dough with my hands was incredibly grounding. There were no lawyers, no screaming girlfriends, and no frantic airport terminals. There was just the quiet, methodical safety of the kitchen, the predictable hum of the refrigerator, and the absolute certainty that tomorrow, for the first time in our lives, our pack was going to celebrate a holiday exactly on our own terms.
 
-### Scene 3: The Apartment Confrontation
+***
 
-**Date:** 2001-11-21 at 16:00 America/New_York
+#### 4:00 PM — The Apartment Confrontation
 
 The cheap, second-floor unit at the Prairie View Apartments felt like a shrinking padded cell.
 
@@ -15034,9 +15192,9 @@ Dad stood alone in the center of the living room. The silence rushed back in, he
 
 He was three thousand miles away from his real family, trapped on the second floor of a cheap walk-up, completely alienated from his children, and now locked out of his own bedroom by a woman who realized he was nothing but a fake. The skeletons had finally caught up to him, and for the first time in his life, there was absolutely no one left to blame but himself.
 
-### Scene 4: The Assembly Line
+***
 
-**Date:** 2001-11-21 at 18:00 America/New_York
+#### 6:00 PM — The Assembly Line
 
 By early evening, the pale, gray light of the Pacific Northwest had completely surrendered to the dark, and a steady, rhythmic rain was drumming against the apartment windows. Inside, however, the environment was completely insulated and warm.
 
@@ -15068,9 +15226,11 @@ I looked down the counter at my sisters. The emotional whiplash of the morning�
 
 In its place was a profound, unshakeable peace. We were chopping vegetables, tearing bread, and executing a simple holiday protocol, but it felt like a monumental victory. We had successfully defended our perimeter, and tomorrow, we were going to celebrate our pack exactly how we wanted to.
 
-### Scene 5: The Escrow Anchor
+### Part 2: The Escrow Anchor & The Regulated Sanctuary
 
 **Date:** 2001-11-21 at 20:00 America/New_York
+
+#### 8:00 PM — The Escrow Anchor
 
 The kitchen assembly line was officially shut down for the night. The heavy glass bowl of compound butter and the foil-wrapped green bean casserole were securely staged in the refrigerator, and the apartment smelled faintly of rosemary, sage, and flour.
 
@@ -15142,9 +15302,9 @@ The adult world had tried to break us apart. They had used geography, court orde
 
 The pack wasn't broken. We were just expanding the perimeter.
 
-### Scene 6: The Regulated Sanctuary
+***
 
-**Date:** 2001-11-21 at 22:00 America/New_York
+#### 10:00 PM — The Regulated Sanctuary
 
 The emotional high of the escrow reveal eventually gave way to the heavy, physical exhaustion of the day. The clock on the kitchen microwave clicked over to 10:00 PM. The rain was still falling steadily outside, but the Federal Way apartment was warm and perfectly still.
 
@@ -15204,9 +15364,11 @@ I tightened my arms around them both, closing my eyes. The adult world, with its
 
 ## Chapter 6: A Left Coast Thanksgiving
 
-### Scene 1: The Hudson's Parade
+### Part 1: The Hudson's Parade & The Heavy Lifting
 
 **Date:** 2001-11-22 at 09:00 America/New_York
+
+#### 9:00 AM — The Hudson's Parade
 
 The morning light filtering through the Federal Way apartment was soft and gray, but the atmosphere inside the bedroom was incredibly warm.
 
@@ -15248,9 +15410,9 @@ We sat there in the quiet living room, eating our Harvest Maize Grids in our sof
 
 There were no screaming parents. There were no court orders hanging over our heads. There was just the mechanical crunch of our cereal, the cheerful, orchestrated noise of the Hudson's Parade echoing from the TV speakers, and the absolute certainty that our pack was exactly where we were supposed to be.
 
-### Scene 2: The Thanksgiving Ultimatum
+***
 
-**Date:** 2001-11-22 at 10:30 America/New_York
+#### 10:30 AM — The Thanksgiving Ultimatum
 
 The shrill ring of the kitchen landline cut straight through the cheerful, brassy marching band music of the Hudson's Parade.
 
@@ -15294,9 +15456,9 @@ Rachel slowly lowered her spoon back into her cereal bowl. The panic in her eyes
 
 "Now," Jessica said, grabbing her cereal bowl off the coffee table and offering us a warm, genuine smile. "Where were we? Did I miss the giant turkey balloon?"
 
-### Scene 3: The Signature Act
+***
 
-**Date:** 2001-11-22 at 10:45 America/New_York
+#### 10:45 AM — The Signature Act
 
 "No, Jess, you didn't miss Timothy Turkey," I said, pointing at the television screen with my spoon. "He hasn't come down the avenue yet."
 
@@ -15328,9 +15490,9 @@ As the dancers hit their final, flawless pose and the crowd on the television er
 
 Rachel pointed excitedly at the screen, letting out a soft, happy hum. We were exactly where we needed to be.
 
-### Scene 4: The Shape of Tradition
+***
 
-**Date:** 2001-11-22 at 11:45 America/New_York
+#### 11:45 AM — The Shape of Tradition
 
 The final hour of the Hudson's Parade played out exactly as it always did, offering the profound, regulating comfort of a completely unchangeable routine.
 
@@ -15378,9 +15540,9 @@ Rachel let out a long, happy breath. She reached out and touched the cold metal 
 
 "Now," Jessica clapped her hands together. "If the Cranberry Committee is satisfied, who wants to help me carry this massive turkey to the oven?"
 
-### Scene 5: The Heavy Lifting
+***
 
-**Date:** 2001-11-22 at 12:30 America/New_York
+#### 12:30 PM — The Heavy Lifting
 
 The oven preheat alarm beeped, a sharp, singular electronic tone that signaled the next phase of the timeline.
 
@@ -15432,9 +15594,11 @@ Rachel looked at the glowing green numbers counting down on the microwave, then 
 
 She turned around, walked directly into the living room, and booted up her Super Nova 16 console. The holiday was running flawlessly.
 
-### Scene 6: The 101% Secret
+### Part 2: The 101% Secret & The Final Push
 
 **Date:** 2001-11-22 at 13:30 America/New_York
+
+#### 1:30 PM — The 101% Secret
 
 The apartment was filled with the heavy, savory aroma of roasting turkey, creating a thick blanket of sensory comfort over the living room. Jessica was sitting at the dining table with a thick university textbook spread open, enjoying the profound luxury of a quiet afternoon.
 
@@ -15506,9 +15670,9 @@ Rachel dropped her controller into her lap, absolutely vibrating with excitement
 
 From the dining table, Jessica looked over the top of her textbook, watching us celebrate the digital victory. She didn't tell us to quiet down. She didn't complain about the noise of the television. She just smiled, turned the page of her book, and let us enjoy the absolute, uninterrupted freedom of our sanctuary.
 
-### Scene 7: The Final Push
+***
 
-**Date:** 2001-11-22 at 15:30 America/New_York
+#### 3:30 PM — The Final Push
 
 The microwave timer beeped from the kitchen, a sharp electronic tone that cut through the jungle music of the Super Nova 16.
 
@@ -15570,9 +15734,11 @@ Rachel carefully carried the foil-covered dishes to the oven and placed them on 
 
 ## Chapter 9: The Southbound ARTS
 
-### Scene 1: The Reverse Route
+### The Reverse Route & The Security Checkpoint
 
 **Date:** 2001-11-25 at 08:00 America/New_York
+
+#### 8:00 AM — The Reverse Route
 
 The Thanksgiving reprieve was officially over.
 
@@ -15596,9 +15762,9 @@ Rachel looked across the aisle at our older sister, who was reading a thick text
 
 "Every single day," I promised.
 
-### Scene 2: The Security Checkpoint
+***
 
-**Date:** 2001-11-25 at 13:00 America/New_York
+#### 1:00 PM — The Security Checkpoint
 
 The ARTS train deposited us in Portland, and a quick connection on the local light rail brought us directly to the ticketing lobby of PDX.
 
@@ -15640,9 +15806,11 @@ The divorce had tried to destroy us, and the legal system had tried to tear us a
 
 ## Chapter 1: Outbound to ORF
 
-### Scene 1: The First Class Algorithm
+### Part 1: The First Class Algorithm & The Aisle Transfer
 
 **Date:** 2001-12-22 at 06:00 America/New_York
+
+#### 6:00 AM — The First Class Algorithm
 
 The hydraulic brakes of the TAPS Route 194 bus exhaled a loud, sharp hiss, echoing violently against the concrete drop-off curb of the Seattle-Tacoma International Airport.
 
@@ -15704,9 +15872,9 @@ I gripped the rubber handles of her wheelchair tighter. The noise of the Seattle
 
 I wasn't being dragged. I was the engine. And at the end of this algorithm, waiting for us on the other side of the country, was Michael.
 
-### Scene 2: The Priority Perimeter
+***
 
-**Date:** 2001-12-22 at 06:45 America/New_York
+#### 6:45 AM — The Priority Perimeter
 
 The regular security line was a terrifying, winding labyrinth of exhausted, frustrated people. I ran the mathematical visual in my head. Based on the density of the crowd and the speed of the single metal detector, I calculated that the people at the very back of that line were going to be standing on the hard tile floor for at least four hours.
 
@@ -15794,9 +15962,9 @@ I looked around the nearly empty room, then looked at my older sister. Dad's ver
 
 I pulled my knees up to my chest, letting out a long, vibrating hum of absolute contentment. The algorithm was working flawlessly.
 
-### Scene 3: The Four-Hour Buffer
+***
 
-**Date:** 2001-12-22 at 07:00 America/New_York
+#### 7:00 AM — The Four-Hour Buffer
 
 The Meridian First Class Lounge was an entirely different biome.
 
@@ -15836,9 +16004,9 @@ I built a second plate for Jessica, mirroring the exact same nutritional ratios,
 
 I sat down in my heavy leather chair, pulling my knees up and resting my plate safely on my lap. The food was warm and predictable. The leather chair wrapped around me like a protective shell. For the next three and a half hours, the universe was entirely contained within this quiet room. I ate my breakfast, booted up my laptop, and listened to the soft, rhythmic clinking of coffee cups.
 
-### Scene 4: The Aisle Transfer
+***
 
-**Date:** 2001-12-22 at 10:45 America/New_York
+#### 10:45 AM — The Aisle Transfer
 
 The digital clock in the lower right corner of my laptop screen ticked over to 10:45.
 
@@ -15890,9 +16058,11 @@ I took the cold glass, wrapping both hands around it. The heavy, chaotic crowd o
 
 I looked out the thick plastic window at the gray Seattle sky. In just a few minutes, the engines would start. The trajectory was locked. We were going east. We were going to Michael.
 
-### Scene 5: The Cabin Sanctuary
+### Part 2: The Cabin Sanctuary & The System Crash
 
 **Date:** 2001-12-22 at 11:45 America/New_York
+
+#### 11:45 AM — The Cabin Sanctuary
 
 The massive twin engines of the aircraft roared, pushing us back into our plush leather seats as we accelerated down the runway.
 
@@ -15948,9 +16118,9 @@ I ate my meal in complete silence, occasionally sipping my hot chocolate and loo
 
 The algorithm was perfect. And every second that the massive engines pushed us forward, we were getting closer to Michael.
 
-### Scene 6: The Prismatic Corridor
+***
 
-**Date:** 2001-12-22 at 16:30 America/Chicago
+#### 4:30 PM — The Prismatic Corridor
 
 The transition from the insulated, premium sanctuary of the aircraft cabin to the massive, sprawling reality of the Chicago transit hub was a severe shock to my system.
 
@@ -16036,9 +16206,9 @@ I kept my forehead pressed against the cold metal of her chair, letting out a so
 
 But as the heavy, grounding pressure of Jessica's hand remained on my head, I knew one mathematical certainty: when Jessica made a logistical vow, it was absolute. Meridian's massive Midwestern hub was officially dead to us.
 
-### Scene 7: The System Crash
+***
 
-**Date:** 2001-12-22 at 16:45 America/Chicago
+#### 4:45 PM — The System Crash
 
 The elevator ascended, the heavy metal doors shielding me for a few desperate seconds from the flashing horror of the underground tunnel. My breathing was ragged, my hands shaking violently where they gripped Jessica's push-handles.
 
@@ -16080,9 +16250,11 @@ Travelers walked past us, some staring, some intentionally looking away. Jessica
 
 I focused all of my remaining conscious energy on those words. *Virginia. Michael.* I kept my eyes squeezed shut, letting the tears soak into the fabric of my coat, and allowed the guttural rumble in my chest to slowly transition into a long, broken hum. I couldn't fix the environment, and Jessica couldn't stop the noise, but she was holding the line. We were going to sit right here on the floor of Concourse C until I could finally breathe again.
 
-### Scene 8: The Joyful Overload
+### Part 3: The Joyful Overload & The Midwestern Sanctuary
 
 **Date:** 2001-12-22 at 17:00 America/Chicago
+
+#### 5:00 PM — The Joyful Overload
 
 The cold tile of the concourse floor was hard against my knees, but the steady, unyielding pressure of Jessica's hand on the back of my neck kept my system tethered to reality. Slowly, the ragged, guttural rumble in my chest quieted into a tired, rhythmic hum.
 
@@ -16194,9 +16366,9 @@ On this day!
 
 As the orchestra and guitar built to a massive, triumphant final chord, I pushed the heavy wheelchair forward, steering us seamlessly into the flow of the holiday crowd. The exhaustion and the trauma of the tunnel were completely overwritten by the math of the final leg. I was the engine. We were halfway there. And I was going home to my brother.
 
-### Scene 9: The Midwestern Sanctuary
+***
 
-**Date:** 2001-12-22 at 17:15 America/Chicago
+#### 5:15 PM — The Midwestern Sanctuary
 
 The physical aftermath of a dual-system crash is a heavy, hollow exhaustion. My muscles felt like they were filled with wet sand, and my throat was raw from the vocalizations.
 
@@ -16266,9 +16438,11 @@ I nodded, my dark eyes locked onto the screen.
 
 ## Chapter 2: Arrival at Norfolk
 
-### Scene 1: Sibling Reunification
+### Sibling Reunification & The Northern Star
 
 **Date:** 2001-12-22 at 21:30 America/New_York
+
+#### 9:30 PM — Sibling Reunification
 
 The digital clock mounted high on the terminal wall flipped to 9:30 PM.
 
@@ -16330,9 +16504,9 @@ Mom stepped in then, wrapping her arms around both of the girls in a tearful, de
 
 I kept my arm draped heavily over Rachel's shoulders, providing a continuous, grounding pressure as we fell into step behind Jessica's chair. The pack was officially reunited, and it was time to go to baggage claim.
 
-### Scene 2: The Sibling Perimeter
+***
 
-**Date:** 2001-12-22 at 21:45 America/New_York
+#### 9:45 PM — The Sibling Perimeter
 
 The adrenaline rush of the initial reunification was beginning to fade, leaving a quiet, bone-deep exhaustion in its wake. But as we turned away from the security checkpoint and joined the flow of arriving passengers heading toward baggage claim, Rachel didn’t let her guard down entirely.
 
@@ -16428,9 +16602,9 @@ Rachel let out a soft, happy sigh against my shoulder as the music played. The h
 
 We were finally, officially back together.
 
-### Scene 3: The Northern Star
+***
 
-**Date:** 2001-12-22 at 22:45 America/New_York
+#### 10:45 PM — The Northern Star
 
 The silver sedan pulled into the driveway of 1852 Delaney Street. Aunt Janet put the car in park, leaving the headlights illuminating the familiar, frost-covered front lawn.
 
@@ -16536,7 +16710,7 @@ Slowly, agonizingly, the adrenaline finally burned out of our systems. The heavy
 
 ## Chapter 3: The New Baseline
 
-### Scene 1: The Three-Hour Shift
+### The Three-Hour Shift
 
 **Date:** 2001-12-23 at 08:30 America/New_York
 
@@ -16624,9 +16798,11 @@ It was just Mom, me, Rachel, and Jessica. The perimeter was perfectly secured, t
 
 ## Chapter 1: The Empty Shell
 
-### Scene 1: The Last Morning
+### Part 1: The Last Morning & The Baldwin Briefing
 
 **Date:** 2003-07-14 at 07:30 America/New_York
+
+#### 7:30 AM — The Last Morning
 
 I opened my eyes, the morning light filtering harshly through the plastic blinds.
 
@@ -16692,9 +16868,9 @@ I got into the driver’s seat and put the car in gear. The drive toward Norfolk
 
 The physical Base Camp was gone, and the long, grueling era of operating without my pack had officially begun.
 
-### Scene 2: The Baldwin Briefing
+***
 
-**Date:** 2003-07-14 at 08:45 America/New_York
+#### 8:45 AM — The Baldwin Briefing
 
 Traffic on Interstate 264 was remarkably light for a Monday morning. Exactly forty-five minutes after locking the door to my childhood, I steered Mom’s sedan into the ground-floor parking garage of the Ghent Villas, pulling perfectly into the reserved stall exactly second from the right.
 
@@ -16762,9 +16938,11 @@ Ashley dropped her bag. She didn't offer empty platitudes. She just sat down dir
 
 "You don't need to hide," the Sentinel promised, her voice a low, unyielding anchor in the cramped room. "Because for the next five weeks, I am your perimeter. We'll navigate the rules together."
 
-### Scene 3: The Frictionless Trap
+### Part 2: The Frictionless Trap & The Logistical Paradox
 
 **Date:** 2003-07-14 at 09:15 America/New_York
+
+#### 9:15 AM — The Frictionless Trap
 
 The heavy, crushing pressure of Ashley’s arms around my ribs slowly bled the buzzing panic out of my muscles. We sat on the edge of the queen-sized bed for a long time, the stifling heat of the Virginia summer pressing against the small bedroom window.
 
@@ -16840,9 +17018,9 @@ We stood there in the cramped, steamy shower, locked together in absolute silenc
 
 The walls of Base Camp had changed, but my Anchor was still standing right beside me.
 
-### Scene 4: The Transit Grid
+***
 
-**Date:** 2003-07-14 at 14:00 America/New_York
+#### 2:00 PM — The Transit Grid
 
 The entry-level job hunt of 2003 was not designed for someone running on my hardware, and the logistics of the Ghent condo made it infinitely harder.
 
@@ -16904,9 +17082,9 @@ Ashley knew exactly how Greg’s standard hardware brain worked. She knew that w
 
 I leaned my heavy head against hers, closing my eyes. I didn't have a job, and the physical Base Camp was gone, but as long as the Sentinel was holding the logbook, I wasn't completely defenseless.
 
-### Scene 5: The Logistical Paradox
+***
 
-**Date:** 2003-07-14 at 17:30 America/New_York
+#### 5:30 PM — The Logistical Paradox
 
 The suffocating Virginia heat was still radiating off the asphalt when the front door of Unit 2E clicked open at five-thirty.
 
@@ -16964,9 +17142,11 @@ The physical Base Camp was gone. The Sentinel could log the data, and she could 
 
 There was no sanctuary here. And in five weeks, I would be facing this completely alone.
 
-### Scene 6: The Extraction Plan
+### Part 3: The Extraction Plan & The Bare Mechanics
 
 **Date:** 2003-07-14 at 19:30 America/New_York
+
+#### 7:30 PM — The Extraction Plan
 
 The suffocating tension from the kitchen had followed us upstairs.
 
@@ -17028,9 +17208,9 @@ She leaned down and kissed the top of my head, then squeezed Ashley’s shoulder
 
 As she slipped out of the room, Ashley and I looked at each other. The physical friction of Baldwin Ave was still pressing in on us, but the heavy, suffocating dread was gone. We had an extraction plan.
 
-### Scene 7: The Phone Call
+***
 
-**Date:** 2003-07-14 at 21:02 America/New_York
+#### 9:02 PM — The Phone Call
 
 With the apartment magazine tossed onto the floor and the plan to get out of the condo officially set for tomorrow, the adrenaline of the day finally evaporated, leaving behind a heavy, bone-deep exhaustion.
 
@@ -17094,9 +17274,9 @@ I turned my head, burying my wet face into Ashley’s shoulder. The Sentinel wra
 
 The family was shattered across 2,800 miles, but as I lay in the dark listening to my sisters on the open phone line, my fractured processor finally began to power down for the night.
 
-### Scene 8: The Bare Mechanics
+***
 
-**Date:** 2003-07-14 at 21:45 America/New_York
+#### 9:45 PM — The Bare Mechanics
 
 We listened to the faint, comforting ambient noise of the Federal Way apartment for another thirty minutes. The static of the line was a tether, but as the clock ticked closer to ten, the exhaustion pulling at my physical chassis became impossible to ignore.
 
@@ -17144,9 +17324,11 @@ The physical Base Camp on Delaney Street was gone, my sisters were 2,800 miles a
 
 ## Chapter 2: The Digital Mirage
 
-### Scene 1: The Best Tech Ambush
+### Part 1: The Best Tech Ambush & The Hardware Check
 
 **Date:** 2003-07-15 at 13:15 America/New_York
+
+#### 1:15 PM — The Best Tech Ambush
 
 The extraction plan started flawlessly but quickly deteriorated into another logistical dead end.
 
@@ -17232,9 +17414,9 @@ He hadn't seen my intelligence; he had seen my exhaustion. He had perfectly mirr
 
 Ashley didn't let go of my arm. She kept her grip locked tight, a rigid, physical tether grounding me to reality as the beautiful, algorithmic illusion of the digital sanctuary completely collapsed into ash.
 
-### Scene 2: The Malicious Code
+***
 
-**Date:** 2003-07-15 at 13:35 America/New_York
+#### 1:35 PM — The Malicious Code
 
 The automatic sliding doors of Best Tech parted, and the oppressive, ninety-degree heat of the Virginia afternoon slammed into us like a physical wall.
 
@@ -17288,9 +17470,9 @@ But they were gone. And I was trapped in Norfolk, leaning against a hot car, utt
 
 I opened the passenger door and carefully folded my aching, spastic legs into the seat. The digital mirage was gone, but as Ashley climbed into the back and Mom put the car in gear, I knew I still had one Sentinel left to watch the grid.
 
-### Scene 3: The Hardware Check
+***
 
-**Date:** 2003-07-15 at 14:45 America/New_York
+#### 2:45 PM — The Hardware Check
 
 The suffocating heat of the Best Tech parking lot faded as Mom cranked the sedan’s air conditioning to the maximum setting. The physical escape from the Nexar recruiter had drained the last reserves of my internal battery. I rested my head against the cool glass of the passenger window, my CP-affected legs throbbing a dull, steady rhythm of pain.
 
@@ -17370,9 +17552,11 @@ Mom reached into her purse to pull out her checkbook for the deposit. Ashley ste
 
 The physical Base Camp on Delaney Street was gone forever. But as I looked back through the open doorway toward the three rubber steps leading to the lobby, I knew we had successfully established the outpost.
 
-### Scene 4: The Holding Pattern
+### Part 2: The Holding Pattern & The On-Us Override
 
 **Date:** 2003-07-15 at 15:15 America/New_York
+
+#### 3:15 PM — The Holding Pattern
 
 The standard-hardware world was almost entirely built on red tape, invisible prerequisites, and corporate holding periods. Independent, mom-and-pop logistics were infinitely better, but they still operated on the basic physics of banking.
 
@@ -17428,9 +17612,9 @@ Ashley walked right beside me, our shoulders brushing as we pushed through the g
 
 I let out a long, shuddering breath as we reached the sedan. The physical Base Camp was delayed, but as I looked back at the brick building on Greenway Court, my processor finally stabilized. I could survive seventy-two hours in hostile territory. I just had to watch the clock.
 
-### Scene 5: The Inventory Protocol
+***
 
-**Date:** 2003-07-15 at 16:00 America/New_York
+#### 4:00 PM — The Inventory Protocol
 
 Because the logistics of Greg’s condo had changed from an indefinite prison to a strictly defined, seventy-two-hour holding pattern, my processor could handle a strategic retreat.
 
@@ -17502,9 +17686,9 @@ By five o'clock, the inventory protocol was complete. We pulled the corrugated m
 
 The physical objects of our survival were queued up and ready for deployment. The digital mirage of the Best Tech ambush was completely behind us. All we had to do now was survive seventy-two hours of Greg Lawson's rules, and Base Camp would finally be back online.
 
-### Scene 6: The On-Us Override
+***
 
-**Date:** 2003-07-15 at 17:15 America/New_York
+#### 5:15 PM — The On-Us Override
 
 The strategic high of the mini-storage inventory evaporated the second Mom parked the sedan back in the ground-floor garage of the Ghent Villas.
 
@@ -17582,9 +17766,11 @@ Mom stepped in behind us, looking around the bare carpet. The furniture was stil
 
 "Exactly," Mom smiled. "Leave the bags here. We're getting back in the car, we're driving to MegaMart, and we are buying a queen-sized air mattress, two brand new pillows, and the heaviest blanket we can find. You are holding the perimeter tonight."
 
-### Scene 7: The Initial Provisioning
+### Part 3: The Initial Provisioning & The New Parameter
 
 **Date:** 2003-07-15 at 18:30 America/New_York
+
+#### 6:30 PM — The Initial Provisioning
 
 MegaMart was a sensory nightmare of fluorescent lights, echoing aisles, and chaotic foot traffic, but for the first time in weeks, my processor wasn't redlining.
 
@@ -17646,9 +17832,9 @@ The gas was off, the fridge was empty, and the only furniture we owned was desig
 
 Base Camp was online.
 
-### Scene 8: The New Parameter
+***
 
-**Date:** 2003-07-15 at 19:30 America/New_York
+#### 7:30 PM — The New Parameter
 
 By seven-thirty, the frosted toaster pastries were gone, and the laptops were closed. The amber glow of the streetlamps spilled through the small front window, casting long shadows over our newly assembled glass patio table and the queen-sized air mattress on the floor.
 
@@ -17708,7 +17894,7 @@ Ashley smiled, a quiet, radiant expression in the dark room. She leaned forward,
 
 ## Chapter 3: The Extraction
 
-### Scene 1: The Morning Perimeter
+### The Morning Perimeter
 
 **Date:** 2003-07-16 at 07:30 America/New_York
 
@@ -17778,9 +17964,11 @@ I closed my eyes, listening to the quiet morning sounds of the neighborhood and 
 
 ## Chapter 1: The Quiet Void
 
-### Scene 1: The Last of the Pack
+### Part 1: The Last of the Pack & The Ticket Line
 
 **Date:** 2004-09-02 at 08:00 America/New_York
+
+#### 8:00 AM — The Last of the Pack
 
 The silence inside Unit A5 was heavy and absolute.
 
@@ -17846,9 +18034,9 @@ An hour later, Mom's sedan idled briefly in front of 801 Greenway Court. I stepp
 
 The silence inside was completely deafening without Archie's collar jingling or Ashley's quiet typing at the desk. I was entirely alone in my perimeter. I sat down at my computer, pulled up the transit schedule, and began calculating the exact timing for the CVTA bus routes into downtown. I focused entirely on the math of the evening, locking my processor onto the rigid structure of the schedule so I wouldn't have to think about the empty room.
 
-### Scene 2: The Solo Transit
+***
 
-**Date:** 2004-09-02 at 12:15 America/New_York
+#### 12:15 PM — The Solo Transit
 
 I couldn't sit in the silent apartment anymore.
 
@@ -17878,9 +18066,9 @@ Directly across the bustling hall, sitting like a polished, neon oasis in the mi
 
 I didn't overthink the math. I gripped the straps of my backpack, stepped off the elevator, and walked straight toward the diner. A hot burger and a quiet booth sounded like the perfect, predictable algorithm to reset my system and kill some time.
 
-### Scene 3: The Time Sync
+***
 
-**Date:** 2004-09-02 at 13:30 America/New_York
+#### 1:30 PM — The Time Sync
 
 After finishing my lunch at The Orbit Diner, I slung my heavy nylon backpack over my shoulders and headed back out into the sweltering heat of Downtown Norfolk. I had hours to kill, and I desperately needed a quiet, structured environment to burn through the afternoon.
 
@@ -17908,9 +18096,9 @@ I turned away from the lobby doors. I still had plenty of time before the theate
 
 I adjusted the heavy straps of my backpack and decided to loop right back across the plaza to The Admiral Center. I could hit the third-floor food court, grab a quick, predictable dinner at Crown Burger, and then make the short walk over to the Roper. It was a solid, low-friction algorithm for a Friday night, and it kept the silence of the apartment at bay for just a little while longer.
 
-### Scene 4: The Ticket Line
+***
 
-**Date:** 2004-09-02 at 18:45 America/New_York
+#### 6:45 PM — The Ticket Line
 
 The lobby of the CCHR Roper Performing Arts Center was packed, buzzing with the loud, echoing hum of college students and downtown locals waiting for the theater doors to open.
 
@@ -17976,7 +18164,7 @@ The room erupted. Cheers, heavy applause, and loud shouts of agreement echoed of
 
 Delores clapped her hands, looking over at me with a bright, energized smile. The sheer, overwhelming unity of the crowd was infectious. I found myself clapping along with her, a sudden, powerful dopamine hit flooding my system. For the first time all day, the heavy, crushing silence of my empty apartment was completely gone. I wasn't sitting alone in the void left by my sisters and Ashley; I was part of a collective, aligned with a girl who saw the exact same clear-cut rules of the world that I did.
 
-### Scene 5: The Midtown Transfer
+### Part 2: The Midtown Transfer
 
 **Date:** 2004-09-02 at 21:00 America/New_York
 
@@ -18046,7 +18234,7 @@ I let out a slow, shaky breath in the empty studio, wishing more than anything t
 
 ## Chapter 2: The Gateway
 
-### Scene 1: The Morning Call
+### The Morning Call
 
 **Date:** 2004-09-03 at 07:00 America/New_York
 
@@ -18080,7 +18268,7 @@ I hung up the phone. The crushing isolation of the apartment suddenly didn't mat
 
 ## Chapter 1: The Setup
 
-### Scene 1: The Pitch
+### The Pitch
 
 **Date:** 2006-11-08 at 18:00 America/New_York
 
@@ -18130,9 +18318,11 @@ I thought it was just a vacation. I had absolutely no idea she was packing for a
 
 ## Chapter 2: The Departure
 
-### Scene 1: The Deception at Churchland Square
+### The Deception at Churchland Square & Interstate 81
 
 **Date:** 2006-11-11 at 08:30 America/New_York
+
+#### 8:30 AM — The Deception at Churchland Square
 
 The heavy rear liftgate of Robyn's dark blue Holt minivan popped open with a metallic clank. 
 
@@ -18168,9 +18358,9 @@ I looked down at the massive, heavy suitcases. My leg was already throbbing, and
 
 I didn't argue. The Gray Area Freeze locked my vocal cords, paralyzing my ability to fight back. I gripped the handles of the heavy luggage, my knuckles turning white, and dragged the crushing weight toward the CVTA bus shelter, resigning myself to the nightmare.
 
-### Scene 2: The Monticello Arena Transfer
+***
 
-**Date:** 2006-11-11 at 09:15 America/New_York
+#### 9:15 AM — The Monticello Arena Transfer
 
 The CVTA Route 47 lumbered down High Street, a slow, thirty-minute crawl toward Downtown Portsmouth. I stared blankly out the vibrating window, my right leg burning from the earlier strain of the luggage. Delores sat rigidly next to me, her silence hanging heavy in the damp morning air. 
 
@@ -18200,9 +18390,9 @@ I hauled the heavy suitcases off the bus, my arms aching as the rubber wheels hi
 
 We dragged our luggage across Olney Road, the cold wind whipping off the Elizabeth River as we marched toward the heavy glass doors of the terminal. The trap had officially sprung. We were crossing the threshold into the 96-hour exodus.
 
-### Scene 3: The Terminal Counter
+***
 
-**Date:** 2006-11-11 at 09:30 America/New_York
+#### 9:30 AM — The Terminal Counter
 
 The heavy glass doors of the Norfolk Pathfinder terminal slid open, hitting me with a wall of stale, climate-controlled air that smelled faintly of industrial floor wax and heavy diesel exhaust.
 
@@ -18234,9 +18424,9 @@ Delores snatched the tickets, shoved them into her purse, and turned away from t
 
 "Get up," she said coldly, stopping next to the luggage. "We board in twenty minutes. Grab the handles and get to Gate 4."
 
-### Scene 4: Gate 4
+***
 
-**Date:** 2006-11-11 at 09:50 America/New_York
+#### 9:50 AM — Gate 4
 
 Gate 4 was nothing more than a heavy metal door at the back of the terminal, opening directly onto the concrete boarding lanes. 
 
@@ -18276,9 +18466,9 @@ The heavy coach lurched forward, pulling out of the Norfolk transit terminal and
 
 The ninety-six-hour clock had officially started.
 
-### Scene 5: The Last Hot Meal
+***
 
-**Date:** 2006-11-11 at 12:15 America/New_York
+#### 12:15 PM — The Last Hot Meal
 
 The two-hour drone up Interstate 64 was a grim preview of the physical toll the next four days would demand. The heavy vibration of the Pathfinder chassis translated directly into the floorboards, radiating up through my boots and settling deep into my joints. Every time the bus hit a seam in the concrete, my spine compressed against the rigid, unyielding fabric of the seat. 
 
@@ -18313,9 +18503,9 @@ I chewed the bitter burger, staring out the cafeteria window at the massive silv
 
 I washed the food down with the apple juice, silently calculating how many more times I could safely tap into the Quantum payroll deposits before she started asking questions. The westbound bus would be boarding soon, and the hardest miles were still ahead of us.
 
-### Scene 6: Interstate 81
+***
 
-**Date:** 2006-11-11 at 22:30 America/New_York
+#### 10:30 PM — Interstate 81
 
 The transition from daylight to darkness was agonizingly slow. 
 
@@ -18343,9 +18533,11 @@ We had survived the first day, but the hardest, most punishing terrain was still
 
 ## Chapter 3: The Appalachian Crossing
 
-### Scene 1: The Knoxville Layover
+### The Knoxville Layover & Kansas City
 
 **Date:** 2006-11-12 at 03:30 America/New_York
+
+#### 3:30 AM — The Knoxville Layover
 
 The jarring hiss of the air brakes violently pulled me out of a shallow, pain-induced daze. 
 
@@ -18371,9 +18563,9 @@ Delores returned, her jaw set. "Westbound boards in an hour," she snapped, findi
 
 I looked at the glowing rows of stale potato chips and shrink-wrapped pastries behind the vending machine glass. The hot breakfast in Richmond felt like it had happened in another lifetime.
 
-### Scene 2: Music City
+***
 
-**Date:** 2006-11-12 at 11:00 America/Chicago
+#### 11:00 AM — Music City
 
 The new westbound coach was older than the one we had taken out of Richmond, with worn, sun-faded upholstery and a distinct rattle in the front suspension. 
 
@@ -18399,9 +18591,9 @@ The bus turned onto an avenue lined with closed bars and faded brick storefronts
 
 I closed my eyes, desperately wishing I could just turn the bus around.
 
-### Scene 3: The CRT Bus
+***
 
-**Date:** 2006-11-12 at 11:30 America/Chicago
+#### 11:30 AM — The CRT Bus
 
 The Nashville layover lasted exactly thirty minutes. 
 
@@ -18437,9 +18629,9 @@ And deeper than the fear of her rage was the terrifying gravity of the trauma bo
 
 So I sat perfectly still, staring blankly out the window as the Pathfinder accelerated past the CRT bus, carrying me further and further away from everything I knew.
 
-### Scene 4: Lambert Airport
+***
 
-**Date:** 2006-11-12 at 17:00 America/Chicago
+#### 5:00 PM — Lambert Airport
 
 The drive through western Kentucky and across the barren, flat expanses of southern Illinois was a blur of highway hypnosis. For hours, the Pathfinder coasted along the wide, isolated stretch of the Western Kentucky Parkway, the rhythmic thud of the tires against the concrete doing nothing to soothe the agonizing spasticity locking up my lower back. 
 
@@ -18481,9 +18673,9 @@ She wanted a reaction. She wanted an audience. She wanted me to validate her vic
 
 But I couldn't move. I just sat there, my right leg throbbing with CP-induced pain, silently begging the floor of the bus to open up and swallow me whole before the situation escalated any further.
 
-### Scene 5: Kansas City
+***
 
-**Date:** 2006-11-12 at 18:00 America/Chicago
+#### 6:00 PM — Kansas City
 
 The five-hour drive across the state of Missouri was a masterclass in psychological warfare. 
 
@@ -18513,9 +18705,11 @@ We were changing buses again. Another terminal, another set of vending machines,
 
 ## Chapter 4: The Northern Anchor
 
-### Scene 1: The State Line
+### The State Line & The Salt Lake Layover
 
 **Date:** 2006-11-13 at 02:00 America/Chicago
+
+#### 2:00 AM — The State Line
 
 The layover in Kansas City lasted for three exhausting hours. We sat on hard plastic terminal chairs in the dead of night, waiting for the Denver-bound express. 
 
@@ -18541,9 +18735,9 @@ The transition from the metropolitan glow to the absolute, crushing darkness of 
 
 The bus settled into a heavy, vibrating drone. Delores pulled her jacket tight and closed her eyes, maintaining her punishing silence even in sleep.
 
-### Scene 2: The Colby Turn
+***
 
-**Date:** 2006-11-13 at 10:00 America/Chicago
+#### 10:00 AM — The Colby Turn
 
 The Pathfinder "local" route across the state of Kansas was a grueling, eight-hour marathon of interruptions. We stopped in Lawrence, Topeka, Manhattan, Junction City, Salina, and Hays, constantly pulling off the interstate to idle at small-town gas stations and desolate transit outposts. 
 
@@ -18579,9 +18773,9 @@ As we approached the door, however, we realized the bus wasn't boarding. The dri
 
 Delores groaned loudly, rolling her eyes and leaning against the side of the building. The thirty-minute meal break was about to turn into a massive, agonizing delay, and we were still completely trapped in the middle of nowhere.
 
-### Scene 3: Mile High
+***
 
-**Date:** 2006-11-13 at 14:00 America/Denver
+#### 2:00 PM — Mile High
 
 The mechanical failure in Colby was entirely human error. 
 
@@ -18609,9 +18803,9 @@ But I didn't say a word. I didn't reach for my phone to type out a request, and 
 
 So I locked my jaw, staring blindly at the seat in front of me as we pulled into the Denver terminal, suffering in absolute, terrifying silence while the secret fire on my hip continued to burn.
 
-### Scene 4: The Denver Layover
+***
 
-**Date:** 2006-11-13 at 14:15 America/Denver
+#### 2:15 PM — The Denver Layover
 
 The Denver Pathfinder terminal was a massive, chaotic hub of transient energy. 
 
@@ -18643,9 +18837,9 @@ An hour later, we pulled off the interstate entirely, rolling into a small, quie
 
 The geographic deviation was confusing, but I was too exhausted to care. I just closed my eyes and let the heavy vibration of the diesel engine lull me into a state of semi-consciousness, praying that the burning sensation in my hip would fade away in my sleep.
 
-### Scene 5: The Wyoming Detour
+***
 
-**Date:** 2006-11-13 at 17:00 America/Denver
+#### 5:00 PM — The Wyoming Detour
 
 The short stop in Fort Collins was uneventful. A few passengers disembarked, a few boarded, and the heavy coach quickly pulled back out onto the road. 
 
@@ -18671,9 +18865,9 @@ Eventually, the two-lane road crested a massive ridge, and the distant, sprawlin
 
 The rural detour was over, but the brutal reality of the Wyoming crossing had just begun. We were officially on the long, dark corridor to Salt Lake City, and my biological reserves were critically low.
 
-### Scene 6: The Salt Lake Layover
+***
 
-**Date:** 2006-11-13 at 23:55 America/Denver
+#### 11:55 PM — The Salt Lake Layover
 
 The drive across Interstate 80 through the desolate high country of Wyoming was a test of pure endurance. The Pathfinder coach rattled and shook against the fierce, freezing crosswinds, the darkness outside the windows total and absolute. 
 
@@ -18707,9 +18901,11 @@ We were only halfway to Seattle.
 
 ## Chapter 5: The Pasco Lock
 
-### Scene 1: The Idaho Crossing
+### Part 1: The Idaho Crossing & The Ride Free Area
 
 **Date:** 2006-11-14 at 00:00 America/Denver
+
+#### 12:00 AM — The Idaho Crossing
 
 At exactly midnight, the air brakes hissed and the final bus of the cross-country Exodus pulled out of the Salt Lake City terminal. The digital marquee glowing above the windshield read *SEATTLE*. 
 
@@ -18737,9 +18933,9 @@ The bus exited the highway, navigating the quiet, morning streets toward the Pas
 
 I didn't know it yet, but the physical degradation of the journey was about to be completely eclipsed by the psychological terror waiting inside that terminal.
 
-### Scene 2: The Pasco Lock
+***
 
-**Date:** 2006-11-14 at 09:00 America/Los_Angeles
+#### 9:00 AM — The Pasco Lock
 
 The Pasco Intermodal Terminal was quiet and largely deserted when the Pathfinder coach pulled into the bay. 
 
@@ -18797,9 +18993,9 @@ I stood alone in the tiled restroom, my body trembling so violently I could bare
 
 *Just let me be invisible. Just let me crawl under a stone.*
 
-### Scene 3: The Final Ascent
+***
 
-**Date:** 2006-11-14 at 09:30 America/Los_Angeles
+#### 9:30 AM — The Final Ascent
 
 I don't remember walking back to the coach. I don't remember climbing the rubber steps or placing my carry-on bag in the overhead rack. My brain had completely dissociated, retreating behind a thick, impenetrable fog of pure survival instinct. 
 
@@ -18839,9 +19035,9 @@ We were in Seattle. And there was nowhere left to run.
 
 An ice-cold surge of terror washed over me. There was nowhere left to run.
 
-### Scene 4: The Ride Free Area
+***
 
-**Date:** 2006-11-14 at 15:30 America/Los_Angeles
+#### 3:30 PM — The Ride Free Area
 
 The heavy air brakes of the Pathfinder bus hissed violently, signaling the end of a grueling, seventy-two-hour cross-country nightmare.
 
@@ -18897,9 +19093,11 @@ Because we had fought on the sidewalk at the Pathfinder terminal, and because I 
 
 We had missed the southbound commuter train by exactly five minutes.
 
-### Scene 5: King Street Station
+### Part 2: King Street Station & Pizza Diplomacy
 
 **Date:** 2006-11-14 at 16:15 America/Los_Angeles
+
+#### 4:15 PM — King Street Station
 
 The damp, biting November wind off the Puget Sound cut right through my jacket as Delores and I walked through the heavy doors of King Street Station. The terminal was bustling with the late-afternoon Friday commuter rush, a chaotic swirl of rolling luggage and damp umbrellas.
 
@@ -18981,9 +19179,9 @@ I stared out the window as the gray Washington landscape blurred past. I knew De
 
 "This is us," Jessica said, unlocking her wheels. She caught the attention of the conductor as he walked past. "Wheelchair getting off here in Kent."
 
-### Scene 6: The Hostile Perimeter
+***
 
-**Date:** 2006-11-14 at 18:30 America/Los_Angeles
+#### 6:30 PM — The Hostile Perimeter
 
 We rolled out into the freezing dusk of the Kent Station drop-off zone. Aunt Lynne was waiting in a battered, incredibly cramped compact sedan at the curb, the exhaust pluming in the damp, heavy air.
 
@@ -19027,9 +19225,9 @@ Without waiting for permission or an invitation, Jessica grabbed her push-rims, 
 
 She wasn't going to be hidden away upstairs. She was planting herself directly in the center of their territory.
 
-### Scene 7: Pizza Diplomacy
+***
 
-**Date:** 2006-11-14 at 19:15 America/Los_Angeles
+#### 7:15 PM — Pizza Diplomacy
 
 We gathered in the living room with Aunt Lynne and Brandi. The atmosphere was thick and intensely radioactive.
 
@@ -19083,9 +19281,11 @@ I looked over at Jessica.
 
 My sister was watching from her wheelchair at the edge of the living room. She didn't take the bait. She didn't snap, and she didn't argue. But even behind her tinted glasses, I could see the rigid, calculating set of her jaw. I didn't know exactly what she was thinking, but I knew my sister. She was a systems engineer. She wasn't just eating her pizza; she was silently observing the room, watching the sheer terror bleed through my forced compliance, and cataloging every single toxic data point.
 
-### Scene 8: The Ascent
+### Part 3: The Ascent & Stille Nacht
 
 **Date:** 2006-11-14 at 20:30 America/Los_Angeles
+
+#### 8:30 PM — The Ascent
 
 The empty pizza boxes sat on the coffee table, and the tense, radioactive atmosphere of the living room had finally drained the last of Jessica's battery. She checked her watch, her tactical mask slipping just enough to reveal the sheer physical exhaustion underneath.
 
@@ -19159,9 +19359,9 @@ I grabbed my own heavy bag first. Then, I turned to Jessica's meticulously organ
 
 Weighed down with four bags, I turned around and faced the staircase. I kept my head down to avoid engaging with the hostile perimeter of the living room, and hauled the heavy payload back up the miserable flight of stairs, carefully dodging the cat feces in the hallway before stepping back into the bedroom to fortify our perimeter.
 
-### Scene 9: The Air Mattress Barricade
+***
 
-**Date:** 2006-11-14 at 21:30 America/Los_Angeles
+#### 9:30 PM — The Air Mattress Barricade
 
 Delores didn't say a word. She just turned her back, let out a light, breezy sigh as if she were simply shedding a long day of travel, and began aggressively taking her clothes off right in the middle of the room.
 
@@ -19213,9 +19413,9 @@ Delores’s face flushed a dark, furious red. The sweet facade was completely go
 
 Jessica completely ignored her. She turned her attention entirely to me. "Let’s move this mattress to where there’s room."
 
-### Scene 10: Stille Nacht
+***
 
-**Date:** 2006-11-14 at 22:30 America/Los_Angeles
+#### 10:30 PM — Stille Nacht
 
 With that, Jessica had me help her drag the inflated air mattress all the way to the opposite end of the room, putting as much physical distance between us and Delores as the walls would allow. We pushed it right up against the closet doors, firmly establishing our localized perimeter.
 
@@ -19281,7 +19481,7 @@ The monster was sleeping on the other side of the room, but the gears of my esca
 
 ## Chapter 6: The Escape Route
 
-### Scene 1: The Kent Station Transfer
+### Part 1: The Kent Station Transfer
 
 **Date:** 2006-11-15 at 08:00 America/Los_Angeles
 
@@ -19407,7 +19607,7 @@ I turned around. Delores was standing a few feet away, her arms crossed, a cold,
 
 I shoved the notepad into the pocket of my Quantum pants, took a deep breath, and made my way over to the bus bays with my girlfriend.
 
-### Scene 2: Jessica's Train Ride
+### Part 2: Jessica's Train Ride
 
 **Date:** 2006-11-15 at 08:15 America/Los_Angeles
 
@@ -19637,9 +19837,11 @@ I grabbed a napkin and a pen from the table. My hands were shaking with pure, un
 
 It read: **Please have lunch ready for my brother. Do not feed her! Make any excuse you need.** I underlined *DO NOT FEED HER* three times in bold, black ink. I wanted it absolutely clear to my entire team just how deeply, viscerally I hated this woman for what she was doing to my baby brother.
 
-### Scene 3: Off to Pierce County
+### Part 3: Off to Pierce County & Quantum Reunion
 
 **Date:** 2006-11-15 at 08:15 America/Los_Angeles
+
+#### 8:15 AM — Off to Pierce County
 
 We stood on the freezing, windswept concrete of the Kent Station platform, watching my older sister wheel her chair up the sloped concrete mini-high platform toward the open doors of the TAPS Commuter Rail.
 
@@ -19763,9 +19965,9 @@ The caller ID flashed a 425 area code. I had the number programmed into my conta
 
 I flipped the phone open, entirely expecting to hear my sister's voice. Instead, the sharp, intimidating, high-level corporate register of Andromeda—Jessica's director at Quantum—came echoing through the speaker.
 
-### Scene 4: Quantum Reunion
+***
 
-**Date:** 2006-11-15 at 11:45 America/Los_Angeles
+#### 11:45 AM — Quantum Reunion
 
 The heavy TAPS Route 564 bus hissed as the air brakes engaged, pulling into the sprawling concrete expanse of the Overlake Transit Center. Through the tinted window, I immediately noticed a coordinated, intimidating wall of professionally dressed people waiting exactly where our bus was pulling up.
 
@@ -19889,7 +20091,7 @@ My heart hammered against my ribs like a trapped bird. I backed up against the w
 
 As the oppressive, horrific reality of the room closed in on me, a single, devastating thought echoed in my mind: *Now I wish I had listened to my sister.*
 
-### Scene 5: The Shattered Fog
+### Part 4: The Shattered Fog
 
 **Date:** 2006-11-15 at 23:45 America/Los_Angeles
 
@@ -19935,11 +20137,11 @@ I carefully uncurled my fingers, letting my hands rest flat against the mattress
 
 I stared at the red numbers on the clock, silently counting the seconds. I just had to hold the line for a few more hours. Tomorrow, I was getting my life back.
 
-\[Note to the AI: fade to black; RCW 9A.44.050 happens here; Chapter 3 picks up at 4 AM with the aftermath. ABSOLUTE DIRECTIVE: Do not generate images for this scene or the immediate trauma. Safety filters will and should block it.\] 
+\[Note to the AI: fade to black; RCW 9A.44.050 happens here; Chapter 3 picks up at 4 AM with the aftermath. ABSOLUTE DIRECTIVE: Do not generate images for this scene or the immediate trauma. Safety filters will and should block it.\]
 
 ## Chapter 7: Morning Hell
 
-### Scene 1: Forced Exit
+### Part 1: Forced Exit
 
 **Date:** 2006-11-16 at 04:00 America/Los_Angeles
 
@@ -20047,7 +20249,7 @@ I was terrified. Logistically, I knew it was just five more minutes on the bus. 
 
 The bus made a few more turns, the air brakes hissing as it navigated the intersections. I gripped my bag so tightly my knuckles ached. I felt like I was going to explode from the anxiety. I just desperately needed Jessica at my side, and I needed her right now.
 
-### Scene 2: The Renton Transfer
+### Part 2: The Renton Transfer
 
 **Date:** 2006-11-16 at 06:00 America/Los_Angeles
 
@@ -20264,9 +20466,11 @@ The conversation was over. Jessica allowed me to just curl up in her arms, reali
 
 The nightmare was over. I was officially single again.
 
-### Scene 3: The Broil's Run
+### Part 3: The Broil's Run & The Corporate Perimeter
 
 **Date:** 2006-11-16 at 12:15 America/Los_Angeles
+
+#### 12:15 PM — The Broil's Run
 
 12:15 PM rolled around and Jessica gently prodded me awake.
 
@@ -20358,9 +20562,9 @@ When the bus operator finally called out, "Overlake Transit Center," I looked ou
 
 Of course, Jessica—completely accustomed to navigating the absolute epicenter of the global tech industry—was being modest. She knew this was my first time truly seeing the Quantum campus, and she let me soak in the sheer, overwhelming scale of her perimeter.
 
-### Scene 4: The Corporate Perimeter
+***
 
-**Date:** 2006-11-16 at 13:30 America/Los_Angeles
+#### 1:30 PM — The Corporate Perimeter
 
 "I actually need to grab something from my office before we head down to Renton," Jessica explained, pointing down a wide, paved pedestrian artery that cut through the towering evergreens. "The employee shuttles don't take unbadged visitors, so we’re going to have to walk it."
 
@@ -20426,7 +20630,7 @@ The bus merged onto the highway, carrying us swiftly south down Interstate 405. 
 
 When the bus finally pulled into the Renton Transit Center, we didn't miss a beat. We executed our transfer flawlessly, boarding the local Route 105. By the time the bus dropped us off on Edmonds Avenue and we crossed the street to her ground-floor apartment, the exhaustion of the morning was completely gone, replaced entirely by the adrenaline of the massive hardware upgrade waiting in my backpack.
 
-### Scene 5: The Clarity Upgrade
+### Part 4: The Clarity Upgrade
 
 **Date:** 2006-11-16 at 14:30 America/Los_Angeles
 
@@ -20566,9 +20770,11 @@ Rachel and Kristin were on their way.
 
 The trauma of the morning had been completely overwritten by the flawless logistics of my older sister. I watched the final system configurations settle into place, my chest feeling lighter than it had in two years, absolutely desperate for my baby sister to walk through that front door so the pack could finally be whole again.
 
-### Scene 6: The Software Payload
+### Part 5: The Software Payload & The Physical Evidence
 
 **Date:** 2006-11-16 at 15:00 America/Los_Angeles
+
+#### 3:00 PM • Michael — The Software Payload
 
 The pristine, ethereal desktop of Quantum OS Clarity glowed flawlessly on the 17-inch widescreen, completely connected and activated. I sat back in the chair, my hands resting on my knees, just soaking in the sheer speed and stability of the new environment.
 
@@ -20648,9 +20854,9 @@ I hit the eject button, swapped the media, and closed the tray. The progress bar
 
 It was almost 5:30 PM. The three-and-a-half-hour transit slog from Pierce County was nearly over. I sat back in the chair, watching the blue bar inch across the screen, my chest tight with a completely different kind of anticipation. I was just waiting for the progress bar to finish, and waiting for the sudden, heavy knock on the front door that meant the pack was finally whole again.
 
-### Scene 7: The Southern Cavalry
+***
 
-**Date:** 2006-11-16 at 14:00 America/Los_Angeles
+#### 2:00 PM • Rachel — The Southern Cavalry
 
 The digital clock above the customer service desk at The Spot finally clicked to 2:00 PM.
 
@@ -20720,9 +20926,9 @@ My brother’s massive frame began to shake violently. He collapsed forward, res
 
 "I've got you, Bear," I whispered fiercely, my own tears spilling hot against his neck, completely ignoring Kristin and Jessica standing just a few feet away. "I'm right here. You're safe now."
 
-### Scene 8: The Physical Evidence
+***
 
-**Date:** 2006-11-16 at 17:30 America/Los_Angeles
+#### 5:30 PM • Michael — The Physical Evidence
 
 I was profoundly, overwhelmingly grateful that both of my sisters didn’t mind one bit that I just needed to completely fall apart in the entryway. After the heavy, suffocating trauma of the last forty-eight hours, letting the dam break while Rachel held me together was the only way my processor could reboot.
 
@@ -20800,7 +21006,7 @@ As we ate our dinner in the quiet sanctuary of the bedroom, Jessica began outlin
 
 Jessica collected our empty plates and mugs onto her tray. She looked back at the three of us, her eyes heavy with a shared exhaustion. "Now, we all need our sleep. It’s been a very, very rough day for all of us."
 
-### Scene 9: The Pack Secures the Perimeter
+### Part 6: The Pack Secures the Perimeter
 
 **Date:** 2006-11-16 at 18:30 America/Los_Angeles
 
@@ -20856,9 +21062,11 @@ I closed my eyes, letting the heavy, collective warmth of my pack sink into my e
 
 ## Chapter 8: Decompression Day
 
-### Scene 1: The Liquid Rebellion
+### Part 1: The Liquid Rebellion & The Victory Meal
 
 **Date:** 2006-11-17 at 09:00 America/Los_Angeles
+
+#### 9:00 AM — The Liquid Rebellion
 
 I woke up slowly, my processor pulling itself out of the deepest, heaviest sleep I had experienced in two years.
 
@@ -20928,9 +21136,9 @@ I didn't have to look over my shoulder. I didn't have to keep one ear tuned to t
 
 For the first time in an eternity, I was allowed to simply exist.
 
-### Scene 2: The Route 106 Escort
+***
 
-**Date:** 2006-11-17 at 11:30 America/Los_Angeles
+#### 11:30 AM — The Route 106 Escort
 
 The peaceful hum of the apartment shifted as Jessica finally initiated the logistical phase of the day.
 
@@ -20978,9 +21186,9 @@ Instead, she banked left, navigating down the sidewalk toward a very familiar, b
 
 "Change of plans," Jessica smiled, pushing the heavy glass door of the restaurant open. "We are doing lunch before we shop. You need a hot meal that you didn't have to cook, and you definitely deserve some junk food after the last forty-eight hours."
 
-### Scene 3: The Victory Meal
+***
 
-**Date:** 2006-11-17 at 12:00 America/Los_Angeles
+#### 12:00 PM — The Victory Meal
 
 The TAPS Route 106 dropped us off right on the exact same side of the street as the sprawling, massive Franklin’s Market. The massive commercial sector of Rainier Avenue South was bustling with weekend traffic, the damp pavement reflecting the gray afternoon sky.
 
@@ -21034,9 +21242,11 @@ I looked down at the old, ill-fitting Quantum t-shirt and the oversized sweatpan
 
 "Yeah," I nodded, looking out the restaurant window toward the massive retail superstore across the parking lot. "Let's go to Franklin's. Let's burn the last of Kent to the ground."
 
-### Scene 4: Forging the Armor
+### Part 2: Forging the Armor & The First Citizen
 
 **Date:** 2006-11-17 at 13:00 America/Los_Angeles
+
+#### 1:00 PM — Forging the Armor
 
 We pushed through the heavy glass doors of the *Jumping Jester*, stepping back out into the bitter, damp chill of the Renton afternoon. The sky overhead was a flat, unbroken sheet of gray.
 
@@ -21096,9 +21306,9 @@ As I drove the motorized cart back to the front of the store, eventually standin
 
 I had a full stomach, a secure command center waiting back at base, my Bug holding fiercely onto my arm, and a bag full of clean armor. The monster wasn't coming for me today.
 
-### Scene 5: The Mountain Prospect
+***
 
-**Date:** 2006-11-17 at 14:30 America/Los_Angeles
+#### 2:30 PM — The Mountain Prospect
 
 I drove the motorized cart to the front of Franklin's Market, navigating the bustling weekend crowds with Rachel pressed firmly against the left side of the chassis. Her hand was locked onto the armrest, her shoulder brushing against mine with every slight turn of the tiller. She was absolutely refusing to yield her perimeter.
 
@@ -21166,9 +21376,9 @@ I was going to install every single one of them. I was going to build massive, i
 
 The world belonged entirely to me again.
 
-### Scene 6: The First Citizen
+***
 
-**Date:** 2006-11-17 at 16:30 America/Los_Angeles
+#### 4:30 PM — The First Citizen
 
 The blue progress bar for the *Furry Friends* expansion finally hit one hundred percent, closing out nearly two hours of quiet, meditative disc-swapping. The final installation wizard closed, leaving the *Quantum OS Clarity* desktop perfectly clean.
 
@@ -21204,9 +21414,11 @@ Rachel didn't say a word. She didn't need to. She just buried her face deeper in
 
 She understood exactly what the gesture meant. Her Bear was officially back online, and she was the absolute center of his world.
 
-### Scene 7: The Lost Sentinel
+### Part 3: The Lost Sentinel & The Perimeter Holds
 
 **Date:** 2006-11-17 at 18:00 America/Los_Angeles
+
+#### 6:00 PM — The Lost Sentinel
 
 The digital clock in the corner of the 17-inch widescreen shifted to 6:00 PM.
 
@@ -21280,9 +21492,9 @@ I had lost a lot to Delores over the last two years. The phantom ache of losing 
 
 I was safe. And tomorrow, we could start figuring out how to rebuild the rest.
 
-### Scene 8: The Perimeter Holds
+***
 
-**Date:** 2006-11-17 at 20:30 America/Los_Angeles
+#### 8:30 PM — The Perimeter Holds
 
 By the time the paper plates were cleared from the coffee table, the adrenaline that had kept my processor running all day finally crashed. The sheer, compounding weight of the last forty-eight hours settled deep into my muscles, making every movement feel heavy and sluggish.
 
@@ -21334,9 +21546,11 @@ It took a while for my racing processor to finally spin down, but wrapped in the
 
 ## Chapter 9: The Southern Route
 
-### Scene 1: The Tukwila Extraction
+### Part 1: The Tukwila Extraction & Crossing the Rubicon
 
 **Date:** 2006-11-18 at 05:30 America/Los_Angeles
+
+#### 5:30 AM — The Tukwila Extraction
 
 My internal clock was still wildly out of sync, but when my processor finally booted up in the pitch-black early hours of Sunday morning, the very first data point I registered was the absolute physical security of my perimeter.
 
@@ -21386,9 +21600,9 @@ The ground beneath the wooden platform began to vibrate. A massive headlight pie
 
 To my exhausted, traumatized brain, it didn't look like public transit. It looked like a 500-ton, high-speed armored fortress. And the doors were opening just for us.
 
-### Scene 2: The Moving Fortress
+***
 
-**Date:** 2006-11-18 at 06:15 America/Los_Angeles
+#### 6:15 AM — The Moving Fortress
 
 The heavy air brakes of the ARTS *Cascades* hissed, bringing the massive, European-style locomotive to a smooth halt along the temporary wooden planks of the Tukwila platform.
 
@@ -21473,9 +21687,9 @@ Writing the name of our old Master Instructor brought a sudden, stinging warmth 
 
 Rachel read the glowing text on the screen as it appeared, letter by letter. She didn't say a word, but she tightened her arms around my waist, pressing a quiet, profound kiss to my cheek as the train carried us further and further away from the dark.
 
-### Scene 3: Crossing the Rubicon
+***
 
-**Date:** 2006-11-18 at 12:30 America/Los_Angeles
+#### 12:30 PM — Crossing the Rubicon
 
 The sleek, aerodynamic cars of the ARTS *Cascades* banked smoothly around a forested bend, the heavy steel wheels humming a steady rhythm beneath our feet. Outside the reinforced window, the dense pine trees briefly broke to reveal the modest, concrete platform of the Olympia Centennial Station.
 
@@ -21559,9 +21773,11 @@ The train roared onto the heavy steel truss bridge, crossing the dark water. We 
 
 I took a bite of the food, watching the state line blur past. The Rubicon was crossed.
 
-### Scene 4: The Forward Operating Base
+### Part 2: The Forward Operating Base & The Hydrotherapy Protocol
 
 **Date:** 2006-11-18 at 13:15 America/Los_Angeles
+
+#### 1:15 PM — The Forward Operating Base
 
 The heavy, rhythmic hum of the steel wheels began to slow. The ARTS *Cascades* train eased off its cruising speed, banking smoothly through the industrial outskirts of the city until the sprawling rail yard of Portland Union Station came into view.
 
@@ -21641,9 +21857,9 @@ I walked over and sat down on the edge of the bed. Rachel immediately wrapped he
 
 Jessica parked her wheelchair near the small table by the window, while Kristin unzipped her duffel bag to grab her comfortable clothes. The zero-privacy baseline held completely; there was no retreating into the bathroom to change. We were locked inside the perimeter, and the mission to rebuild was officially underway.
 
-### Scene 5: The Hydrotherapy Protocol
+***
 
-**Date:** 2006-11-18 at 14:30 America/Los_Angeles
+#### 2:30 PM — The Hydrotherapy Protocol
 
 The absolute silence of the Crown Regency hotel room was a luxurious contrast to the chaotic roar of the ARTS train. Rachel was curled against my side on the queen bed, her breathing slow and steady as her overloaded processor finally found equilibrium.
 
@@ -21751,9 +21967,11 @@ The hydrotherapy had worked perfectly, but it had entirely drained our fuel rese
 
 I smiled, picking up the hotel phone. The muscles in my back felt brand new, the ghost of Kent was washing away, and it was time for a feast.
 
-### Scene 6: The House Guard Protocol
+### Part 3: The House Guard Protocol & The Final Baseline
 
 **Date:** 2006-11-18 at 17:00 America/Los_Angeles
+
+#### 5:00 PM — The House Guard Protocol
 
 The hydrotherapy had worked absolute wonders on my spastic, locked-up muscles, but an hour of fighting the resistance of the water had completely drained our fuel reserves.
 
@@ -21815,9 +22033,9 @@ We rolled the cart to the center of the room, spreading the heavy ceramic plates
 
 Eating in the warm, absolute safety of our locked room felt like a profound luxury. There was no screaming from the hallway, no suffocating tension hanging over the meal, and no fear of making a mistake. There was only the quiet hum of the mini-fridge, the soft chatter of my sisters, and the absolute certainty that the pack was whole.
 
-### Scene 7: The Digital Sandbox
+***
 
-**Date:** 2006-11-18 at 18:30 America/Los_Angeles
+#### 6:30 PM — The Digital Sandbox
 
 With the massive room service feast completely cleared and the rolling cart pushed safely out into the hallway, a heavy, deeply satisfied calm settled over our third-floor fortress.
 
@@ -21881,9 +22099,9 @@ Rachel let out a long, happy sigh, burying her face into my neck and giving me a
 
 "You got it," I promised, maximizing the game window and preparing to drop myself into the sanctuary.
 
-### Scene 8: The Final Baseline
+***
 
-**Date:** 2006-11-18 at 22:00 America/Los_Angeles
+#### 10:00 PM — The Final Baseline
 
 By the time I finished meticulously crafting the digital avatar of myself in *The Denizens 2* and embedding the screenshots into the *Vertex Creative Studio* lore document, the adrenaline that had been keeping my processor online finally flatlined.
 
@@ -21961,7 +22179,7 @@ We laid there in the dark, the laughter slowly fading into the heavy, comfortabl
 
 ## Chapter 1: The Portland Offensive
 
-### Scene 1: The Morning Deployment
+### Part 1: The Morning Deployment
 
 **Date:** 2006-11-20 at 06:00 America/Los_Angeles
 
@@ -22031,9 +22249,11 @@ I leaned back in the heavy upholstered chair, looking across the room at my olde
 
 "So," I said, a massive, unburdened grin breaking across my face. "What time do the arena doors open for AWE Monday Night WAR?"
 
-### Scene 2: The Logic of the Ban
+### Part 2: The Logic of the Ban & The Holding Pattern
 
 **Date:** 2006-11-20 at 06:45 America/Los_Angeles
+
+#### 6:45 AM — The Logic of the Ban
 
 At exactly 6:45 AM, a sharp, authoritative knock echoed against the heavy wooden door of our third-floor room.
 
@@ -22193,9 +22413,9 @@ I pulled back, wiping my eyes with the sleeve of my shirt, and offered her a mas
 
 "Well," I said, my voice thick with emotion as I looked around the fortress we had built. "The Golden Carrot worked. I'm right here."
 
-### Scene 3: The Holding Pattern
+***
 
-**Date:** 2006-11-20 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Holding Pattern
 
 I said the words, but the sheer, crushing weight of what Jessica had just revealed finally broke through the last remaining walls of my defense.
 
@@ -22255,7 +22475,7 @@ We moved as a single, perfectly synchronized unit. I pulled on my thick denim je
 
 At 2:15 PM, we stepped out of the hotel room.
 
-### Scene 4: The Plaza Approach
+### Part 3: The Plaza Approach
 
 **Date:** 2006-11-20 at 14:20 America/Los_Angeles
 
@@ -22299,9 +22519,11 @@ My vocal cords were fully online. My spine was straight. The Bear was fully awak
 
 ## Chapter 2: Arrival at Rose City Center
 
-### Scene 1: Will Call
+### Part 1: Will Call & The Tycoon, The Thief, and the Foam Finger
 
 **Date:** 2006-11-20 at 14:30 America/Los_Angeles
+
+#### 2:30 PM — Will Call
 
 The massive glass and steel facade of the Rose City Center loomed over us against the overcast, chilly Portland sky.
 
@@ -22345,9 +22567,9 @@ She didn't have to speak. Her face said everything.
 
 Jessica, Kristin, and I quickly grabbed pens, but Rachel was the first one to finish signing her name. We were officially about to step onto the frontlines of the Monday Night WAR.
 
-### Scene 2: The Arsenal
+***
 
-**Date:** 2006-11-20 at 14:45 America/Los_Angeles
+#### 2:45 PM — The Arsenal
 
 A few minutes after we handed the signed waivers back to the box office attendant, a heavy steel door next to the ticket windows clicked open.
 
@@ -22393,9 +22615,9 @@ We turned a corner, and the massive, brightly lit AWE merchandise stand came int
 
 He looked back at Rachel and offered a small wink. "Given the letters you write, I don't think you'll have to act too hard."
 
-### Scene 3: The Arsenal's Promise
+***
 
-**Date:** 2006-11-20 at 15:15 America/Los_Angeles
+#### 3:15 PM — The Arsenal's Promise
 
 The main merchandise stand was a towering, brightly lit wall of black cotton, neon graphics, and glossy photographs. Even completely empty of the usual thousands of pushing, shoving fans, it was an overwhelming display of AWE spectacle.
 
@@ -22453,9 +22675,9 @@ Within minutes, the vendor had our photos and mini belts safely bagged and set a
 
 "Alright, production crew is ready!" Dave called out, clipping his radio back onto his belt. "Let's make some television!"
 
-### Scene 4: The Tycoon, The Thief, and the Foam Finger
+***
 
-**Date:** 2006-11-20 at 15:45 America/Los_Angeles
+#### 3:45 PM — The Tycoon, The Thief, and the Foam Finger
 
 "Alright, everyone to your marks!" Dave Cross ordered, his voice echoing slightly in the vast, empty concourse. He pointed us toward the front of the merchandise table. "Stay loose. When Diego throws the money, just go crazy."
 
@@ -22531,9 +22753,11 @@ Printed across the top in small letters were the words: For Motion Picture Use O
 
 Rachel clutched the prop money and her foam finger, her smile brighter than the arena lights. The main event hadn't even started yet, and it was already the greatest night of her life.
 
-### Scene 5: The Descent and the Trust Fall
+### Part 2: The Descent and the Trust Fall & The Dark Matches
 
 **Date:** 2006-11-20 at 16:15 America/Los_Angeles
+
+#### 4:15 PM — The Descent and the Trust Fall
 
 With Rachel securely grounded and our massive haul of VIP merchandise gathered up, it was time to actually find our seats.
 
@@ -22579,9 +22803,9 @@ At 5:30 PM, the massive overhead house lights suddenly dimmed, bathing the arena
 
 The untelevised dark matches were about to begin. The Monday Night WAR had officially arrived.
 
-### Scene 6: The Dark Matches
+***
 
-**Date:** 2006-11-20 at 17:30 America/Los_Angeles
+#### 5:30 PM — The Dark Matches
 
 At exactly 5:30 PM, the massive overhead house lights of the Rose City Center completely cut out. A collective, electric roar rippled through the 14,000 fans as the blinding, brilliant white spotlights suspended above the ring snapped on, illuminating the canvas like a pristine stage.
 
@@ -22629,9 +22853,11 @@ The Rose City Center absolutely exploded. The dark matches had done their job pe
 
 ## Chapter 3: AWE Monday Night War
 
-### Scene 1: LIVE From Portland
+### Part 1: LIVE From Portland & The Corporate Meltdown
 
 **Date:** 2006-11-20 at 18:00 America/Los_Angeles
+
+#### 6:00 PM — LIVE From Portland
 
 At exactly six o'clock, the ambient hum of the Rose City Center was instantly obliterated.
 
@@ -22651,9 +22877,9 @@ The video package violently cut to black with the echoing sound of a slamming st
 
 The pyrotechnic ban was officially in effect, keeping our sensory perimeter perfectly safe, and Monday Night WAR was live on the air.
 
-### Scene 2: The Bottom Line
+***
 
-**Date:** 2006-11-20 at 18:02 America/Los_Angeles
+#### 6:02 PM — The Bottom Line
 
 The TitanTron faded to black. For a split second, the massive arena held its breath.
 
@@ -22709,9 +22935,9 @@ The boos grew louder, shaking the steel barricade just inches from our knees.
 
 "I don't care if you boo me out of this building!" Sterling sneered over the jeers. "I am building a corporate machine that doesn't need fireworks to succeed! Because I hold the contracts. I hold the power. And quite frankly, I am the only reason any of you people have a show to watch tonight!"
 
-### Scene 3: The Hometown Hero
+***
 
-**Date:** 2006-11-20 at 18:08 America/Los_Angeles
+#### 6:08 PM — The Hometown Hero
 
 Marcus Sterling stood in the center of the ring, basking in the absolute hatred of the Portland crowd. He had all the power, and he wanted every single person in the arena to know it.
 
@@ -22775,9 +23001,9 @@ Jaxson Vance didn't celebrate. He just offered Sterling one last, gritty smirk, 
 
 We had a World Heavyweight Championship main event.
 
-### Scene 4: The Cruiserweight Crash
+***
 
-**Date:** 2006-11-20 at 18:18 America/Los_Angeles
+#### 6:18 PM — The Cruiserweight Crash
 
 It took a few minutes for the arena to calm down after Jaxson Vance and Marcus Sterling cleared the ring. The lingering buzz of the hometown main event announcement was still thick in the air when the lights swept over the crowd again.
 
@@ -22833,9 +23059,9 @@ As the noise level in the arena spiked violently, Rachel and I quickly slid our 
 
 I pulled my arm back from my sisters, rolling my shoulders and exhaling a sharp breath. The show was only twenty minutes in, and the war zone had already reached our front door.
 
-### Scene 5: The Corporate Meltdown
+***
 
-**Date:** 2006-11-20 at 18:30 America/Los_Angeles
+#### 6:30 PM — The Corporate Meltdown
 
 After a quick commercial break for the television audience, the arena lights dimmed once again. The massive TitanTron above the entrance stage flared to life, and the broadcast seamlessly transitioned to a backstage camera feed.
 
@@ -22889,9 +23115,11 @@ Despite Sterling's iron-clad promises of outside interference, the champion did 
 
 The sheer panic was painted vividly across his features. The Blueprint knew exactly what 14,000 fans in Portland already knew: Marcus Sterling had completely lost control of the situation, and Jaxson Vance was coming to collect.
 
-### Scene 6: The Riot vs. The Empress
+### Part 2: The Riot vs. The Empress & The Backstage Assault
 
 **Date:** 2006-11-20 at 18:40 America/Los_Angeles
+
+#### 6:40 PM — The Riot vs. The Empress
 
 After the backstage feed of Marcus Sterling's meltdown faded from the TitanTron, the arena lights shifted, bathing the 14,000 fans in a deep, regal purple hue.
 
@@ -22951,9 +23179,9 @@ On the massive TitanTron, the graphic flashed: ROXY DANE WINS! ADVANCES TO NO QU
 
 Roxy leaped onto the nearest turnbuckle, throwing her taped fists into the air to celebrate with the Portland crowd. She was going to the Pay-Per-View to fight for the Women's Championship, and our front-row seats had just given us an unforgettable, front-row masterclass in controlled chaos.
 
-### Scene 7: The Tycoon and the Thief
+***
 
-**Date:** 2006-11-20 at 18:55 America/Los_Angeles
+#### 6:55 PM — The Tycoon and the Thief
 
 As the ringside crew rushed out to sweep the canvas and check the ropes after Roxy Dane’s victory, the arena lights dimmed once again.
 
@@ -23002,9 +23230,9 @@ Preston Sinclair was standing in front of a backstage monitor, watching the broa
 
 The arena erupted into mocking, deafening laughter as Sinclair ripped his pristine white suit jacket off in a furious, childlike tantrum and stomped on it right there on the backstage floor.
 
-### Scene 8: The Top of the Hour
+***
 
-**Date:** 2006-11-20 at 19:00 America/Los_Angeles
+#### 7:00 PM — The Top of the Hour
 
 Exactly one hour into the live broadcast, the commercial break ended. The arena lights swept across the roaring Portland crowd, and the massive TitanTron flashed a brand new graphic: *NO QUARTER – 5-ON-5 ELIMINATION MATCH PREVIEW*.
 
@@ -23078,9 +23306,9 @@ Avery and Hayes stood over the broken instruments and the stunned band members, 
 
 Team Sterling was sending a massive, highly destructive message ahead of *No Quarter*. And as the boos rained down on the broken stage, I couldn't help but think that the quiet, peaceful ARTS train ride back to Washington tomorrow was going to feel like a completely different universe compared to this war zone.
 
-### Scene 9: The Backstage Assault
+***
 
-**Date:** 2006-11-20 at 19:15 America/Los_Angeles
+#### 7:15 PM — The Backstage Assault
 
 As the ringside crew scrambled down the ramp to sweep up the splintered remains of the bass guitar and drag the broken synthesizer away, the massive TitanTron above the stage flickered.
 
@@ -23136,9 +23364,11 @@ The TitanTron faded to black.
 
 Without the commentary desk explaining the transition, the raw energy of the arena took over. The crowd was buzzing, furious at the ambush but fully hyped for the impromptu grudge match. We were moments away from watching a 320-pound giant step into the ring, and the World Heavyweight Championship main event was looming right behind it.
 
-### Scene 10: The Upset of the Century
+### Part 3: The Upset of the Century & The Main Event
 
 **Date:** 2006-11-20 at 19:25 America/Los_Angeles
+
+#### 7:25 PM — The Upset of the Century
 
 When the live feed from the loading dock cut out, the arena lights shifted instantly to an ominous, blood-red crimson.
 
@@ -23210,9 +23440,9 @@ The pyrotechnic ban was on the line. The AWE World Heavyweight Championship was 
 
 The main event was next.
 
-### Scene 11: The Main Event Recap
+***
 
-**Date:** 2006-11-20 at 19:45 America/Los_Angeles
+#### 7:45 PM — The Main Event Recap
 
 After the sheer, unadulterated chaos of Craig Bronson’s massive upset over Avalanche, the Rose City Center finally took a collective breath.
 
@@ -23274,9 +23504,9 @@ I looked over at Kristin and Jessica. They had come to the exact same realizatio
 
 We were officially rooting for the corporate villains.
 
-### Scene 12: The Main Event
+***
 
-**Date:** 2006-11-20 at 19:45 America/Los_Angeles
+#### 7:45 PM — The Main Event
 
 The house lights dropped completely. Fourteen thousand people in the Rose City Center rose to their feet in absolute, buzzing unison.
 
@@ -23384,9 +23614,11 @@ Just fire… waiting for a trigger.
 
 And come Sunday in Seattle, that trigger might be The Resistance.
 
-### Scene 13: The Rampage & The Ultimatum
+### Part 4: The Rampage & The Ultimatum & The House Lights & The Journey Home
 
 **Date:** 2006-11-20 at 19:56 America/Los_Angeles
+
+#### 7:56 PM — The Rampage & The Ultimatum
 
 The Rose City Center was completely unglued. The visual of Jaxson Vance holding the AWE World Heavyweight Championship high above his head sent the Portland crowd into an absolute frenzy.
 
@@ -23452,9 +23684,9 @@ Above him, the massive TitanTron flashed a final, ominous graphic: *AWE NO QUART
 
 The arena plunged into total darkness. The broadcast was over.
 
-### Scene 14: The House Lights & The Journey Home
+***
 
-**Date:** 2006-11-20 at 20:00 America/Los_Angeles
+#### 8:00 PM — The House Lights & The Journey Home
 
 The digital clock suspended above the stage clicked to 8:00 PM. The TitanTron faded to black, the PA system cut out, and an instant later, the massive, blindingly bright white house lights of the Rose City Center slammed on.
 
@@ -23570,9 +23802,11 @@ I winced slightly through the pain in my back, but I wrapped my arm around her s
 
 ## Chapter 1: Breakfast in Vancouver
 
-### Scene 1: The Anchor's Rest
+### Part 1: The Anchor's Rest & The Pathetic Text
 
 **Date:** 2006-11-21 at 07:00 America/Los_Angeles
+
+#### 7:00 AM — The Anchor's Rest
 
 Waking up was not a slow, gradual process. It was a sudden, blinding spike of white-hot agony.
 
@@ -23642,9 +23876,9 @@ We took the elevator down to the lobby, pushed through the heavy glass doors of 
 
 Just a few hundred yards away, the platforms of the Rose City Center CTS station were waiting. It was time to cross the river.
 
-### Scene 2: Crossing the Columbia River
+***
 
-**Date:** 2006-11-21 at 08:30 America/Los_Angeles
+#### 8:30 AM — Crossing the Columbia River
 
 The damp, biting cold of the Pacific Northwest morning did nothing to slow our momentum. We left the quiet warmth of the Crown Regency, walking the short distance to the Rose City Center CTS station. My lower back was a tight, throbbing knot of exhausted muscle from carrying Jessica the night before, but having Rachel physically tethered to my side, acting as a living crutch, made the pain manageable.
 
@@ -23666,9 +23900,9 @@ Dad was notorious for using cheap logistical complaints to avoid accountability.
 
 She had invited his girlfriend, Cathy. She had offered to pay the entire breakfast bill, and she even offered to hand him cash for the gas he used to drive the seven minutes down the road. She had systematically removed every single roadblock he could possibly use to justify abandoning us.
 
-### Scene 3: The Tactical Seating Chart
+***
 
-**Date:** 2006-11-21 at 09:45 America/Los_Angeles
+#### 9:45 AM — The Tactical Seating Chart
 
 The Route 7 dropped us off at the Franklin's Hypermarket transit shelter. We walked across the wet asphalt to The Riverway Diner. The air inside smelled of strong coffee, frying bacon, and maple syrup.
 
@@ -23700,9 +23934,9 @@ The psychological warfare of the seating chart was brilliant. When Dad arrived, 
 
 I rested my hands on the laminated tabletop, feeling the steady pressure of Rachel leaning against my side. The trap was set, the perimeter was secured, and all we had to do now was wait for the bell above the diner door to ring.
 
-### Scene 4: The Pathetic Text
+***
 
-**Date:** 2006-11-21 at 09:55 America/Los_Angeles
+#### 9:55 AM — The Pathetic Text
 
 By 9:50 AM, the diner was buzzing with the loud, chaotic morning rush. The clatter of heavy ceramic plates, the hiss of the espresso machine, and the overlapping chatter of a dozen conversations filled the air.
 
@@ -23780,9 +24014,11 @@ I leaned back against the booth, staring at the three women sitting at the table
 
 Tom Ragsdale was officially cut out of the system, and breakfast was finally served.
 
-### Scene 5: The Financial Guillotine
+### Part 2: The Financial Guillotine & The Union Station Protocol
 
 **Date:** 2006-11-21 at 10:15 America/Los_Angeles
+
+#### 10:15 AM — The Financial Guillotine
 
 The waitress arrived balancing a massive tray, completely oblivious to the shifting tectonic plates of our family dynamic. She slid a plate of golden Belgian waffles smothered in strawberries in front of Rachel, dropped a steaming lumberjack skillet in front of Kristin, and set my omelet down.
 
@@ -23846,9 +24082,9 @@ Jessica set the phone face-down on the table and picked up her fork.
 
 I took a massive bite of my omelet. Sitting shoulder-to-shoulder with Rachel, perfectly insulated within our united perimeter, I realized that I had never tasted a better breakfast in my entire life.
 
-### Scene 6: The 360 Area Code
+***
 
-**Date:** 2006-11-21 at 10:45 America/Los_Angeles
+#### 10:45 AM — The 360 Area Code
 
 The heavy, comforting atmosphere of our victory breakfast was settling over the booth when a sharp, sustained buzzing cut through the clatter of the diner.
 
@@ -23892,9 +24128,9 @@ Rachel’s finger immediately clamped down on the power button of her device, ki
 
 "So," Jessica smiled, a fierce, protective light returning to her eyes as the waitress handed her back the receipt. "It is time for the next small repair. Drink your coffee, everyone. We are going shopping."
 
-### Scene 7: The Unified Grid
+***
 
-**Date:** 2006-11-21 at 11:30 America/Los_Angeles
+#### 11:30 AM — The Unified Grid
 
 We bundled back up against the freezing, damp Pacific Northwest air, leaving The Riverway Diner and crossing the wet asphalt back to the transit shelter.
 
@@ -23956,9 +24192,9 @@ She stepped over to my side, immediately pressing her shoulder heavily against m
 
 The bridge was burned. The lines were cut. The repairs were officially underway.
 
-### Scene 8: The Union Station Protocol
+***
 
-**Date:** 2006-11-21 at 12:30 America/Los_Angeles
+#### 12:30 PM — The Union Station Protocol
 
 The heavy glass doors of the mall slid shut behind us, cutting off the chaotic, echoing noise of the holiday shoppers. We stepped back out into the freezing, damp Pacific Northwest afternoon, but the atmosphere within our pack felt lighter than it had in years.
 
@@ -24020,9 +24256,11 @@ We sat together on the heavy wooden bench of Union Station, surrounded by the qu
 
 ## Chapter 2: The Financial Extraction
 
-### Scene 1: The Transit Grid
+### Part 1: The Transit Grid & The Financial Severance
 
 **Date:** 2006-11-22 at 00:00 America/New_York
+
+#### 12:00 AM — The Transit Grid
 
 Wednesday morning arrived with a violent, blustery vengeance. The Pacific Northwest skies had opened up, dropping a freezing, sideways rain over Renton that battered against the windows of Jessica’s one-bedroom apartment.
 
@@ -24084,9 +24322,9 @@ Kristin and I stepped off the bus onto the covered concrete platform of the Bell
 
 I took a deep breath, my hands resting in my jacket pockets, feeling the heavy roll of spare quarters pressing against my thigh. I was about to walk into a bank and permanently cut off Delores's access to my life. I was terrified, but standing next to Kristin, I knew my perimeter was absolutely secure.
 
-### Scene 2: The Sentinel's Shield
+***
 
-**Date:** 2006-11-22 at 08:15 America/Los_Angeles
+#### 8:15 AM — The Sentinel's Shield
 
 As the heavy diesel roar of the TAPS 565 faded into the drone of the morning traffic, Kristin and I stood together under the massive, sweeping concrete awnings of the transit island. The morning commuter rush was in full swing. Hundreds of tech workers and students carrying umbrellas hurried across the wet asphalt, funneling onto the dozen different TAPS buses idling in their respective bays.
 
@@ -24170,9 +24408,9 @@ The female body wasn't a weapon anymore. It was a sanctuary.
 
 We left the transit center behind, making the short walk up to Northeast 8th Street together.
 
-### Scene 3: The Financial Severance
+***
 
-**Date:** 2006-11-22 at 08:55 America/Los_Angeles
+#### 8:55 AM — The Financial Severance
 
 We left the Bellevue Transit Center behind, walking quickly through the freezing rain up to Northeast 8th Street.
 
@@ -24234,9 +24472,11 @@ Jessica was already waiting for us under the awning, sitting in her custom wheel
 
 "Let’s open the new account first," Jessica said, her eyes flashing with pride as she noted the sheer relief radiating from my posture. "Then I will take you two to lunch."
 
-### Scene 4: The Corporate Armor
+### Part 2: The Corporate Armor & Café 34 and The Code-Off
 
 **Date:** 2006-11-22 at 09:45 America/Los_Angeles
+
+#### 9:45 AM — The Corporate Armor
 
 Jessica didn't have to navigate a maze of city streets to find a bank. The Quantum campus was practically its own sovereign city, fully equipped to handle every logistical need of its tens of thousands of employees.
 
@@ -24394,9 +24634,9 @@ I let out a shaky, amazed laugh, my chest feeling lighter than air.
 
 "Now," Jessica smiled, closing the lid of her laptop with a definitive snap and sliding it into her messenger bag. "Dry your eyes, Michael. I promised I would treat both of you to lunch, and the cafeteria is calling."
 
-### Scene 5: Café 34 and The Code-Off
+***
 
-**Date:** 2006-11-22 at 10:30 America/Los_Angeles
+#### 10:30 AM — Café 34 and The Code-Off
 
 My physical body walked out of the Quantum credit union, but my brain was entirely left behind on Nigel’s desk.
 
@@ -24488,9 +24728,11 @@ But sitting here, surrounded by my sister's brilliant, welcoming coworkers, watc
 
 I wasn't broken. I had just been trapped in the wrong universe. And Jessica had finally brought me home.
 
-### Scene 6: The Crossway Matinee
+### Part 3: The Crossway Matinee & Bug and Bear
 
 **Date:** 2006-11-22 at 13:15 America/Los_Angeles
+
+#### 1:15 PM — The Crossway Matinee
 
 We left Café 34 feeling completely different than when we had walked in. My chest felt lighter, the crushing weight of the East Coast officially severed by fifty-six thousand dollars and the welcoming cheers of the Quantum testing team.
 
@@ -24582,9 +24824,9 @@ I didn't need to open it today. Today, I just needed to sleep.
 
 I wrapped my arm around Kristin’s waist, let out a long, shuddering exhale, and drifted off into the deepest, safest sleep of my life.
 
-### Scene 7: The Digital Void & The Shrine
+***
 
-**Date:** 2006-11-22 at 16:00 America/Los_Angeles
+#### 4:00 PM — The Digital Void & The Shrine
 
 We met Jessica in the sprawling, glass-walled lobby of Quantum Building 35 just after four o'clock. She signed us in at the security kiosk, printing two fresh visitor badges before escorting us up to the third floor.
 
@@ -24662,9 +24904,9 @@ I walked back to the sofa, sitting heavily next to Kristin, completely overwhelm
 
 "Alright," Jessica announced a few minutes later, closing her Quantum laptop with a sharp, definitive click. She reached for her messenger bag, the holiday code freeze officially in effect. "My shift is done. Let's get out of here. If the holiday traffic on I-405 isn't a total parking lot, Rachel should be making her way up to Renton sometime this evening."
 
-### Scene 8: Bug and Bear
+***
 
-**Date:** 2006-11-22 at 17:15 America/Los_Angeles
+#### 5:15 PM — Bug and Bear
 
 We walked out of Building 35 and made the short walk to the Overlake Transit Center.
 
@@ -24720,9 +24962,11 @@ I looked across the aisle at Kristin.
 
 My black-and-white brain instantly logged the parameter. No traps. No transactions. No biological risks. Just absolute safety. For the first time in two years, the future didn't look like a terrifying void.
 
-### Scene 9: The Heavyweight Knockout Grill
+### Part 4: The Heavyweight Knockout Grill & The Sanctuary Bed
 
 **Date:** 2006-11-22 at 18:45 America/Los_Angeles
+
+#### 6:45 PM — The Heavyweight Knockout Grill
 
 We finally unlocked the door to Jessica’s apartment, stepping out of the freezing Washington rain and into the warm, brilliantly lit sanctuary.
 
@@ -24768,9 +25012,9 @@ I pulled Kristin into a deep, comfortable hug, burying my face in her shoulder. 
 
 The war was officially over.
 
-### Scene 10: The Sanctuary Bed
+***
 
-**Date:** 2006-11-22 at 22:30 America/Los_Angeles
+#### 10:30 PM — The Sanctuary Bed
 
 By the time we finished cleaning the Heavyweight Knockout Grill and putting away the leftovers, the exhaustion of the day had finally caught up to all of us. But we had a logistical bottleneck: Jessica’s Renton apartment was a one-bedroom.
 
@@ -24824,9 +25068,11 @@ I closed my eyes, anchored by Rachel on my left and Kristin on my right. The pro
 
 ## Chapter 3: The Sanctuary Holiday
 
-### Scene 1: The Sentinel Tether
+### Part 1: The Sentinel Tether & The Sanctuary Feast
 
 **Date:** 2006-11-23 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — The Sentinel Tether
 
 I woke up on Thanksgiving morning to the smell of roasting poultry and the muffled, triumphant sound of a marching band pouring out of the television in the living room.
 
@@ -24920,9 +25166,9 @@ She rested her forehead against mine, her eyes shining with fierce, quiet pride.
 
 The bird was almost done, but I had already gotten exactly what I needed for Thanksgiving.
 
-### Scene 2: The Sanctuary Feast
+***
 
-**Date:** 2006-11-23 at 18:00 America/Los_Angeles
+#### 6:00 PM — The Sanctuary Feast
 
 The romantic gravity on the sofa was eventually broken by the sharp, metallic beep of the oven timer in the kitchen.
 
@@ -25002,7 +25248,7 @@ For the next hour, we ate until we couldn't physically take another bite. When t
 
 My processor logged the data point, and a profound sense of peace settled over me. Tomorrow wasn't going to be a day of punishment or starvation. It was going to be a day of leftovers, safety, and the absolute certainty that I belonged exactly where I was.
 
-### Scene 3: The Sugar Crash & The Independent Perimeter
+### Part 2: The Sugar Crash & The Independent Perimeter
 
 **Date:** 2006-11-23 at 22:00 America/Los_Angeles
 
@@ -25076,9 +25322,11 @@ With a soft click, the room faded to black.
 
 ## Chapter 4: The Spectacle of the Season
 
-### Scene 1: The Afterglow and the Doorbuster Clock
+### Part 1: The Afterglow and the Doorbuster Clock & The Pine Street Skybridge
 
 **Date:** 2006-11-24 at 05:30 America/Los_Angeles
+
+#### 5:30 AM — The Afterglow and the Doorbuster Clock
 
 I woke up in the dark, my internal clock violently pulling me out of sleep just before five-thirty in the morning.
 
@@ -25136,9 +25384,9 @@ Rachel nodded immediately, her grip on my arm tightening in absolute solidarity.
 
 "A tactical observation run," Jessica agreed, her smirk widening into a full, brilliant grin. "I love it. Let the early-morning brawls over cheap electronics finish up. We'll make some leftover turkey sandwiches for breakfast, let the sun come up, and then the West Coast Pack is deploying to the mall."
 
-### Scene 2: The Transit Deployment
+***
 
-**Date:** 2006-11-24 at 08:00 America/Los_Angeles
+#### 8:00 AM — The Transit Deployment
 
 The kitchen counter was completely covered in a chaotic, highly efficient assembly line.
 
@@ -25208,9 +25456,9 @@ I looked up. I let the noise of the holiday shoppers wash over me. The anxiety d
 
 I wasn't a hostage anymore. I was just a guy walking through *The Grand Marché* with the people he loved, holding his girlfriend's hand on Black Friday.
 
-### Scene 3: The Pine Street Skybridge
+***
 
-**Date:** 2006-11-24 at 09:30 America/Los_Angeles
+#### 9:30 AM — The Pine Street Skybridge
 
 We stepped out of the historic, perfume-scented sanctuary of The Grand Marché and back into the biting cold of the Seattle morning. The massive holiday crowds were swirling around us on the sidewalks, the visual and auditory data threatening to overwhelm my processor. But my perimeter was absolutely locked.
 
@@ -25288,9 +25536,11 @@ Rachel didn't say a word. She just reached out, bumping her shoulder firmly and 
 
 At the head of the table, Jessica adjusted her dark glasses. She took in the new dynamic, her lips curving into a deeply satisfied, corporate smirk. The pack hadn't just survived the morning; the perimeter had officially, permanently expanded.
 
-### Scene 4: The Holiday Windows
+### Part 2: The Holiday Windows & The Pocket Fortress
 
 **Date:** 2006-11-24 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — The Holiday Windows
 
 We pushed out through the heavy, revolving glass doors of the Pine Street Center, stepping back out into the biting Seattle morning. The wind whipping off Elliott Bay cut right through my heavy winter coat, carrying that distinct, damp chill that seemed to seep straight into my bones. Having spent my entire life in the humid coastal air of Virginia Beach, my body was entirely unprepared for the sheer, aggressive grayness of a Pacific Northwest winter.
 
@@ -25328,9 +25578,9 @@ I looked down to my right. Kristin had stepped up right beside me, slipping her 
 
 "You'll get used to it," Jessica promised, rolling up next to us. She looked at the four of us huddled together against the stone facade of the department store, a fierce, satisfied smile touching the corners of her mouth. "Alright. We've seen the windows. We've survived the cold. Where to next, Michael? You're calling the shots today."
 
-### Scene 5: The Ride Free Area
+***
 
-**Date:** 2006-11-24 at 10:30 America/Los_Angeles
+#### 10:30 AM — The Ride Free Area
 
 Standing on the freezing pavement outside the historic stone facade of Hudson’s, the biting wind whipping off Elliott Bay finally pushed my thermal limits. The visual spectacle of the animatronic windows was incredible, but my body was still completely unacclimated to the damp, piercing chill of the Left Coast.
 
@@ -25444,9 +25694,9 @@ I looked back at the sepia-toned photograph of the timber lodge. The ghost of Ke
 
 "Ruby Mountain," I murmured, lacing my fingers tightly through Kristin's. "We're going to the summit."
 
-### Scene 6: The Pocket Fortress
+***
 
-**Date:** 2006-11-24 at 11:45 America/Los_Angeles
+#### 11:45 AM — The Pocket Fortress
 
 We pushed through the heavy glass doors of the Yukon Hotel, leaving the warm, quiet exhibits of the Klondike museum behind us.
 
@@ -25496,9 +25746,11 @@ Our older sister was leaning back in her wheelchair, her eyes closed, completely
 
 I didn't have to calculate my survival anymore. I just sat in the pocket fortress, listening to the water crash against the rocks, completely and perfectly anchored to my pack.
 
-### Scene 7: The Pioneer Deli and The Regional Route
+### Part 3: The Pioneer Deli and The Regional Route & The Lakewood Fortress
 
 **Date:** 2006-11-24 at 12:15 America/Los_Angeles
+
+#### 12:15 PM — The Pioneer Deli and The Regional Route
 
 The freezing mist from the man-made waterfall was a brilliant sensory reset, but after forty-five minutes of sitting still in the November air, the biting Pacific Northwest chill finally began to penetrate our heavy winter coats.
 
@@ -25544,9 +25796,9 @@ Rachel didn't even need to blink. The TAPS grid was permanently burned into her 
 
 "Flawless," Jessica praised, checking her watch. "The 594 runs every thirty minutes today. Finish your soup, pack. We are heading south."
 
-### Scene 8: The Pierce County Deployment
+***
 
-**Date:** 2006-11-24 at 13:30 America/Los_Angeles
+#### 1:30 PM — The Pierce County Deployment
 
 Twenty minutes later, we were back out on the freezing street, walking the two short, flat blocks from the deli to the surface transit stop at the 2nd Avenue Extension.
 
@@ -25622,9 +25874,9 @@ Rachel turned the deadbolt, pushed the door open, and stepped aside, gesturing w
 
 I stepped over the threshold, leaving the freezing dampness of University Place behind, and walked into my little sister's sanctuary.
 
-### Scene 9: The Lakewood Fortress
+***
 
-**Date:** 2006-11-24 at 14:45 America/Los_Angeles
+#### 2:45 PM — The Lakewood Fortress
 
 I stepped over the threshold, leaving the freezing dampness of University Place behind, and walked into my little sister's sanctuary.
 
@@ -25678,7 +25930,7 @@ I looked at the narrow kitchen, the small television, and the woman leaning agai
 
 "I think," I said, walking over to accept the second glass of water from her hand, "that it's the safest building in the entire state."
 
-### Scene 10: The Southern Base Camp
+### Part 4: The Southern Base Camp
 
 **Date:** 2006-11-24 at 20:00 America/Los_Angeles
 
@@ -25784,9 +26036,11 @@ I closed my eyes, the heavy exhaustion of the day finally pulling me under. I wa
 
 ## Chapter 5: The Weekend Shift
 
-### Scene 1: The Choice
+### Part 1: The Choice & The Dead Grid
 
 **Date:** 2006-11-25 at 05:00 America/Los_Angeles
+
+#### 5:00 AM — The Choice
 
 The digital alarm clock on the nightstand emitted a low, rhythmic beep, cutting through the heavy silence of the bedroom.
 
@@ -25874,9 +26128,9 @@ Rachel let out a long, happy sigh and stretched her arms over her head. She look
 
 "Well," Rachel rasped, kicking the weighted blanket off her legs and swinging her feet over the side of the mattress. "Since we're already up, there is absolutely zero use in going back to sleep. I have to be at *The Spot* soon anyway. Let's get up and start the coffee. We're going back to King County today."
 
-### Scene 2: The Milk Rule
+***
 
-**Date:** 2006-11-25 at 05:30 America/Los_Angeles
+#### 5:30 AM — The Milk Rule
 
 The ambient chill in the ground-floor apartment meant we had to move quickly. We stood in the center of the small bedroom and stripped out of our soft sleepwear.
 
@@ -25932,9 +26186,9 @@ At 7:15 AM, the teal and yellow TAPS Route 2—the South 19th-Bridgeport line—
 
 We took our seats, and I pressed my shoulder flush against Rachel's red polo shirt as the heavy diesel engine roared. The bus pulled away from the curb, carrying us straight toward the Lakewood Transit Center so my little sister could clock in for the weekend retail war.
 
-### Scene 3: The Dead Grid
+***
 
-**Date:** 2006-11-25 at 07:30 America/Los_Angeles
+#### 7:30 AM — The Dead Grid
 
 The teal and yellow TAPS Route 2 bus pulled away from the curb in University Place, its heavy diesel engine rumbling through the floorboards. As we accelerated down Bridgeport Way West, I looked out the rain-streaked window. To our left, the massive, brightly lit facade of *Franklin's Market* slid past. Kristin was already inside, establishing her own perimeter for her opening shift.
 
@@ -26032,9 +26286,11 @@ We had successfully pulled me out of the terrifying squalor of Kent. We had surv
 
 "That is exactly what we are going to do," Jessica laughed, spinning her wheelchair around toward the transit center. "Base Camp is officially expanding its hours. Let's go home."
 
-### Scene 4: The Northbound Route
+### Part 2: The Northbound Route & The Grocery Side
 
 **Date:** 2006-11-25 at 08:00 America/Los_Angeles
+
+#### 8:00 AM — The Northbound Route
 
 We stood on the damp sidewalk outside the darkened, powerless facade of *The Spot*, watching a few of the confused, red-shirted employees slowly disperse toward their cars.
 
@@ -26094,9 +26350,9 @@ Looming over the massive parking lot was the brightly lit, sprawling facade of *
 
 "Alright," Jessica smiled, adjusting her coat and looking at the automatic glass doors of the superstore. "Let's go buy some breakfast and go bump into our favorite Sentinel."
 
-### Scene 5: The Grocery Side
+***
 
-**Date:** 2006-11-25 at 08:30 America/Los_Angeles
+#### 8:30 AM — The Grocery Side
 
 Directly to our right, sprawling across a massive parking lot, was the brightly lit facade of *Franklin's Market*.
 
@@ -26162,7 +26418,7 @@ We pushed the heavy cart out the automatic doors and back into the damp, gray mo
 
 The morning panic of the power outage had completely vanished. We had groceries, we had a warm apartment waiting for us, and in just a few hours, the Sentinel would be officially off the clock, and the pack would be whole.
 
-### Scene 6: The Pantry Algorithm
+### Part 3: The Pantry Algorithm
 
 **Date:** 2006-11-25 at 10:00 America/Los_Angeles
 
@@ -26306,9 +26562,11 @@ And as the afternoon sun faded behind the gray Washington clouds outside the apa
 
 ## Chapter 1: The Foundation
 
-### Scene 1: The Tarmac and the Tear
+### The Tarmac and the Tear & The Decoy Protocol
 
 **Date:** 2007-03-30 at 22:15 America/New_York
+
+#### 10:15 PM — The Tarmac and the Tear
 
 The heavy, mechanical thud of the landing gear deploying echoed through the cabin of the aircraft, followed minutes later by the jarring, high-speed screech of the tires hitting the tarmac at Norfolk International Airport.
 
@@ -26352,9 +26610,9 @@ Rachel turned her attention back to Mom, initiating a highly calculated logistic
 
 "Of course," Mom agreed softly, catching the exhaustion in our postures. "The spare room is set up."
 
-### Scene 2: The Decoy Protocol
+***
 
-**Date:** 2007-03-30 at 23:30 America/New_York
+#### 11:30 PM — The Decoy Protocol
 
 It was half-past eleven by the time we finally dragged our heavy suitcases through the front door of Mom’s house.
 
@@ -26404,9 +26662,11 @@ We pulled each other into a heavy, final hug, the agonizing stress of the last t
 
 ## Chapter 2: The Blueprint and the Sabomnim
 
-### Scene 1: The Transition Wake-Up
+### Part 1: The Transition Wake-Up & The Reunion at the Register
 
 **Date:** 2007-03-31 at 09:00 America/New_York
+
+#### 9:00 AM — The Transition Wake-Up
 
 Morning rolled around, the bright Virginia sun fighting its way through the guest room blinds. I blinked my eyes open, staring at the ceiling, my internal clock completely scrambled. Rachel and I were still hardwired to West Coast time.
 
@@ -26438,9 +26698,9 @@ Mom smiled, accepting the neurotypical geometry without question. Breakfast cons
 
 "It’s Saturday, and the sale of the century is in progress," I giggled, reaching down to pet Teddy as he nudged my knee, completely ready to start building our adult lives.
 
-### Scene 2: The Adult Perimeter
+***
 
-**Date:** 2007-03-31 at 10:30 America/New_York
+#### 10:30 AM — The Adult Perimeter
 
 Breakfast was finished, and Mom drove us to one of the massive, warehouse-style furniture showrooms on Virginia Beach Boulevard. The sheer scale of the store was a bit overwhelming, but moving as a unified pack kept our sensory gauges level.
 
@@ -26536,9 +26796,9 @@ We gathered up towels and organizers for the bathrooms before migrating to the h
 
 "The tactical decoy room," I grinned. "I love it."
 
-### Scene 3: The Reunion at the Register
+***
 
-**Date:** 2007-03-31 at 13:00 America/New_York
+#### 1:00 PM — The Reunion at the Register
 
 Mom was waiting for us with a cart full of cleaning supplies as we made our way to the checkout lanes.
 
@@ -26602,9 +26862,11 @@ April’s eyes lit up with a fierce, brilliant spark.
 
 Rachel reached over and grabbed my hand, squeezing it with bruising force. The trauma of the Dojang was permanently dead. We were going back to the mats, and we were finally going to finish what we started.
 
-### Scene 4: The Alumni Roster
+### Part 2: The Alumni Roster & The Woven Stripe
 
 **Date:** 2007-03-31 at 13:15 America/New_York
+
+#### 1:15 PM — The Alumni Roster
 
 I stared at April, completely overwhelmed by the reality that our journey wasn't over. Beside me, Rachel was practically vibrating, her dark bob bouncing slightly as she looked up at our former protector.
 
@@ -26678,9 +26940,9 @@ We pulled the blankets up, closed the distance, and wrapped our arms around each
 
 "Two days, Bear," Rachel echoed softly, her breathing slowing into the comfortable rhythm of absolute safety. "Air mattresses on Monday. And the Dojang on Friday."
 
-### Scene 5: The Canadian Arch Perimeter
+***
 
-**Date:** 2007-03-31 at 16:00 America/New_York
+#### 4:00 PM — The Canadian Arch Perimeter
 
 The heavy, suffocating exhaustion of the morning’s shopping marathon finally burned off after a deep, two-hour nap in the spare bedroom.
 
@@ -26780,9 +27042,9 @@ She looked at both of us, her gaze intense and focused.
 
 We sat in the quiet safety of April’s townhouse, the late afternoon sun casting long shadows across the carpet. The fear of the Dojang had been permanently locked away. We had our pack, we had our home, and we had our teacher back. As I looked around the mirror-image of our future living room, I knew the universe had finally aligned the math perfectly in our favor.
 
-### Scene 6: The Woven Stripe
+***
 
-**Date:** 2007-03-31 at 18:00 America/New_York
+#### 6:00 PM — The Woven Stripe
 
 The late afternoon sun dipped lower, casting long, comfortable shadows across April’s living room. The heavy, emotional exhaustion of the day was finally giving way to a quiet, profound contentment.
 
@@ -26844,9 +27106,11 @@ April stepped forward, resting a warm, anchoring hand on both of our shoulders. 
 
 Rachel reached over and grabbed my hand, squeezing it with bruising force. The trauma of the Dojang was permanently dead. We were going back to the mats, and we were finally going to finish what we started.
 
-### Scene 7: The Sea of Truth
+### Part 3: The Sea of Truth & The Criollo Drive Ascent
 
 **Date:** 2007-03-31 at 18:45 America/New_York
+
+#### 6:45 PM — The Sea of Truth
 
 The administrative office of the Lynnhaven Academy of Seondu was quiet and meticulously organized. We stood near April's polished desk, still wearing our sneakers. Here in the lobby and office areas, street shoes were perfectly acceptable, but we all knew the iron-clad rule: the absolute second we crossed the threshold into the Dojang itself, we would be barefoot out of respect for the sacred ground.
 
@@ -26920,9 +27184,9 @@ When we finally pulled apart, April stood up and gestured toward the door leadin
 
 "Now," April said, her eyes crinkling warmly behind her glasses. "Take your shoes and socks off. Let's go look at your new home."
 
-### Scene 8: The Muscle Memory
+***
 
-**Date:** 2007-03-31 at 19:00 America/New_York
+#### 7:00 PM — The Muscle Memory
 
 We kicked off our sneakers and peeled off our socks in the small, warmly lit lobby.
 
@@ -27024,9 +27288,9 @@ Rachel didn't say a word. She just stepped forward and wrapped her arms around A
 
 We broke the hug, waving goodbye as April walked up to her door. Mom's sedan was already pulling into the neighborhood to pick us up for the night. The weekend was officially underway, our air mattresses were waiting on Monday, and the Base Camp was finally, permanently secure.
 
-### Scene 9: The Criollo Drive Ascent
+***
 
-**Date:** 2007-03-31 at 20:30 America/New_York
+#### 8:30 PM — The Criollo Drive Ascent
 
 Mom’s sedan rolled to a stop alongside the curb of 3701 Canadian Arch just as April was turning to head back inside her unit. Mom rolled down the driver’s side window, leaning across the center console.
 
@@ -27098,9 +27362,11 @@ I rested my chin against her dark hair, my racing heart rate instantly decelerat
 
 ## Chapter 3: The Sunday Reset
 
-### Scene 1: The Three-Day Math
+### The Three-Day Math & The Evolution of the Anchor
 
 **Date:** 2007-04-01 at 10:00 America/New_York
+
+#### 10:00 AM — The Three-Day Math
 
 The morning sun filtered through the plastic blinds of Mom’s house on Criollo Drive, casting bright, geometric slats of light across the carpet. Despite the undeniable visual proof that the day was well underway, my internal clock was completely, stubbornly unresponsive to the Virginia daylight.
 
@@ -27138,9 +27404,9 @@ Today was only day one. Our brains still fundamentally believed it was seven in 
 
 We were physically drained, and we were effectively grounded in the suburbs for the day, but as we stood there in the quiet safety of the locked bedroom, the math finally felt manageable.
 
-### Scene 2: The Transit Trap
+***
 
-**Date:** 2007-04-01 at 11:30 America/New_York
+#### 11:30 AM — The Transit Trap
 
 After pacing the room and letting the stiff, aching spasticity slowly bleed out of my calves, the logistical reality of the morning finally set in. We couldn't stay in our skin forever, no matter how safe and perfectly regulated the locked bedroom felt.
 
@@ -27164,9 +27430,9 @@ If Rachel and I wanted to go anywhere—to grab food, to see a movie, or just to
 
 Rachel hummed a soft, accepting note, her shoulders relaxing as she processed the timeline. With no transit options and zero desire to navigate the outside neurotypical world on a day dedicated to practical jokes, the agenda for our Sunday was officially set. There would be no unpredictable excursions and no sudden surprises. We were committing to a day of absolute, unmoving rest.
 
-### Scene 3: The Blue Leather Anchor
+***
 
-**Date:** 2007-04-01 at 13:00 America/New_York
+#### 1:00 PM — The Blue Leather Anchor
 
 We migrated into the living room, leaving the kitchen behind.
 
@@ -27200,9 +27466,9 @@ On the carpet nearby, Teddy let out a soft, contented sigh, his dull golden fur 
 
 The outside world could have their pranks, their schedules, and their high-definition screens. Wrapped in the heavy afghan, holding each other tightly and anchored to the blue leather sofa, we closed our eyes and let the three-day biological reset wash over us in total, perfectly regulated silence.
 
-### Scene 4: The Evolution of the Anchor
+***
 
-**Date:** 2007-04-01 at 17:30 America/New_York
+#### 5:30 PM — The Evolution of the Anchor
 
 We actually fell asleep. It wasn't just a brief, restorative rest; the heavy, biological toll of the time zone shift dragged us both down into a deep, motionless slumber.
 
@@ -27238,9 +27504,11 @@ We migrated together into the dining room, following the incredible smell of the
 
 ## Chapter 4: The Digital SOS
 
-### Scene 1: The Command Center
+### Part 1: The Command Center & The Blackwater Extraction
 
 **Date:** 2007-04-02 at 14:00 America/New_York
+
+#### 2:00 PM — The Command Center
 
 The heavy, brass keys to 3701 Canadian Arch finally sat heavy and real in my palm.
 
@@ -27290,9 +27558,9 @@ As I hit the save button, a small, bright orange envelope icon flashed in the to
 
 **\[1\] New Friend Request & Private Message.**
 
-### Scene 2: The Passcode
+***
 
-**Date:** 2007-04-02 at 14:30 America/New_York
+#### 2:30 PM — The Passcode
 
 I clicked the icon, my brain instantly shifting into its defensive, analytical mode.
 
@@ -27346,9 +27614,9 @@ I pushed my chair back and looked at Rachel. Her dark eyes were burning with a f
 
 "I'll go unlock the deadbolt," Rachel stated, her voice dropping into its most practical, combat-ready register. "You go set up the living room. She's coming home."
 
-### Scene 3: The Blackwater Extraction
+***
 
-**Date:** 2007-04-02 at 14:45 America/New_York
+#### 2:45 PM — The Blackwater Extraction
 
 My fingers hammered against the plastic keys of my desktop keyboard. The quiet hum of the Command Center was entirely shattered by the spike of adrenaline flooding my nervous system.
 
@@ -27418,9 +27686,11 @@ Rachel slid into the back seat, instantly claiming the enclosed, secure space di
 
 As we hit Buckner Boulevard and merged onto the main roads heading south toward the rural edge of the city, the silence in the car was heavy and entirely focused. We were thirty minutes away, and the Sentinel was standing on the wrong side of a locked gate, waiting for the pack to bring her home.
 
-### Scene 4: The Evasive Route
+### Part 2: The Evasive Route & The 1802 Perimeter
 
 **Date:** 2007-04-02 at 15:15 America/New_York
+
+#### 3:15 PM — The Evasive Route
 
 The drive down into the deep, rural borderlands of Virginia Beach was an exercise in pure tension. Rachel and I sat shoulder-to-shoulder in the back seat of April’s little blue car, our hands locked together. April knew exactly what she was doing when she told us to both get in the back; we needed the unbroken, side-by-side physical contact to keep our neurodivergent systems regulated while rushing into an unknown, volatile environment.
 
@@ -27504,9 +27774,9 @@ I grabbed Ashley's duffel bag from the floorboards, and Rachel and I stepped out
 
 Jim nodded, keeping one arm securely around his daughter. We walked the few short steps to our front door. I unlocked it, and the entire group stepped over the threshold into 3701 Canadian Arch. The heavy brass deadbolt clicked shut behind us, and the hunt was officially over.
 
-### Scene 5: The Paper Trail
+***
 
-**Date:** 2007-04-02 at 16:00 America/New_York
+#### 4:00 PM — The Paper Trail
 
 With no sofas or dining room chairs yet assembled, the geometry of the conversation was incredibly grounded. We formed a loose circle sitting directly on the carpet in the center of the empty living room.
 
@@ -27574,9 +27844,9 @@ Rachel walked over to me, wrapping her arms around my waist and pressing her for
 
 The ghost of the Delaney Street pull-out couch was officially at peace. 3701 Canadian Arch was secure, and we were finally home.
 
-### Scene 6: The 1802 Perimeter
+***
 
-**Date:** 2007-04-02 at 20:00 America/New_York
+#### 8:00 PM — The 1802 Perimeter
 
 The headlights of the Raybourn minivan swept across the front windows of our dark townhouse a few hours later.
 
@@ -27644,9 +27914,11 @@ Ashley let out a long, deep exhale, the frantic, terrified tension bleeding out 
 
 The perimeter was completely sealed. Anchored in the center of her Pack, the Sentinel finally closed her eyes and went to sleep.
 
-### Scene 7: The Legal Definition
+### Part 3: The Legal Definition & The Weight of the Anchor
 
 **Date:** 2007-04-02 at 22:30 America/New_York
+
+#### 10:30 PM — The Legal Definition
 
 The room was completely dark, save for the faint, orange glow of the streetlight filtering through the blinds of the 1802 Rich Court bedroom.
 
@@ -27712,9 +27984,9 @@ I didn't have to fight a losing battle, and I didn't have to carry the burden al
 
 I squeezed Rachel's hand back, accepting the anchor. I rested my chin gently against Ashley's hair, letting the combined weight of my biological sister and my Sentinel override the trauma, and finally allowed myself to try to fall sleep.
 
-### Scene 8: The Weight of the Anchor
+***
 
-**Date:** 2007-04-02 at 22:32 America/New_York
+#### 10:32 PM — The Weight of the Anchor
 
 I tried. I laid perfectly still, wrapped in the heavy, warm geometry of the pack, and desperately tried to let the exhaustion drag me into unconsciousness.
 
@@ -27762,9 +28034,11 @@ I would wake up to find my kid sister on top of me, protecting me.
 
 ## Chapter 5: The Fortress
 
-### Scene 1: The Lifelong Partner
+### Part 1: The Lifelong Partner & Shedding the Name
 
 **Date:** 2007-04-03 at 07:00 America/New_York
+
+#### 7:00 AM — The Lifelong Partner
 
 My eyes blinked open slowly, my processor fighting through the heavy, lingering fog of exhaustion.
 
@@ -27824,9 +28098,9 @@ We opened our duffel bags on the floor. The three of us stood shoulder-to-should
 
 Once our armor was on, I grabbed my glasses and led the way to the bedroom door. We had a fortress to protect, and Ashley needed a lawyer immediately. We walked out into the hallway and headed downstairs to join Jim and Joan on the front lines.
 
-### Scene 2: The Fault Line
+***
 
-**Date:** 2007-04-03 at 07:30 America/New_York
+#### 7:30 AM — The Fault Line
 
 We walked down the carpeted stairs of 1802 Rich Court, moving as a single, unified block. The smell of freshly brewed coffee and the low, murmuring voices of Jim and Joan drifted out from the kitchen.
 
@@ -27866,9 +28140,9 @@ Jim nodded in absolute approval. He understood that while he was providing the l
 
 "Alright," Jim said, checking his watch. "Finish your breakfast. The five of us are heading downtown."
 
-### Scene 3: The Shark of Downtown Norfolk
+***
 
-**Date:** 2007-04-03 at 08:45 America/New_York
+#### 8:45 AM — The Shark of Downtown Norfolk
 
 The drive from Virginia Beach to Downtown Norfolk was quiet, but it was a completely different kind of silence than the terrified, evasive drive we had taken with Master April the day before. This was a tactical, focused silence. We were no longer running; we were moving into a fortified position to launch a counter-attack.
 
@@ -27930,9 +28204,9 @@ Ashley buried her face in my shoulder, her arms locked fiercely around Rachel's 
 
 Jim walked over, wrapping his massive arms around all three of us. The Raybourn-Ragsdale fortress was officially impenetrable. The shark had been unleashed, the legal trap had snapped shut, and the Sentinel was finally, permanently free.
 
-### Scene 4: Shedding the Name
+***
 
-**Date:** 2007-04-03 at 11:00 America/New_York
+#### 11:00 AM — Shedding the Name
 
 Joan navigated the Raybourn minivan out of the high-rise parking garage, merging seamlessly into the heavy, late-morning traffic of downtown Norfolk. The tense, coiled energy that had gripped us on the drive in had completely evaporated, replaced by a quiet, collective exhaustion.
 
@@ -27966,7 +28240,7 @@ Ashley let out a soft, watery laugh, recognizing the lyrical callback to *The St
 
 The rest of the drive back to 1802 Rich Court passed in a comfortable, healing silence. The legal machinery had been activated, the timeline was established, and the heavy, toxic label of her marriage was already marked for deletion. Ashley Elizabeth Raybourn was coming back online.
 
-### Scene 5: The Dollar Lease
+### Part 2: The Dollar Lease
 
 **Date:** 2007-04-03 at 12:30 America/New_York
 
@@ -28022,7 +28296,7 @@ Rachel and I immediately stepped in, wrapping
 
 ## Chapter 6: The Deployment
 
-### Scene 1: The West Coast Wake-Up
+### The West Coast Wake-Up
 
 **Date:** 2007-04-04 at 05:30 America/New_York
 
@@ -28120,7 +28394,7 @@ The air mattress was a mess of tangled sheets, but the geometry of our universe 
 
 ## Chapter 1: The Capture
 
-### Scene 1: The SME Directive
+### The SME Directive
 
 **Date:** 2007-05-16 at 09:15 America/New_York
 
@@ -28190,9 +28464,11 @@ It was time to buy some dirt.
 
 ## Chapter 2: The Moosewood Anomaly
 
-### Scene 1: The Twenty-First Milestone
+### The Twenty-First Milestone & The Evasive Route
 
 **Date:** 2007-05-25 at 18:30 America/New_York
+
+#### 6:30 PM — The Twenty-First Milestone
 
 In the neurotypical civilian world, turning twenty-one is a loud, chaotic, and culturally mandated rite of passage. The societal script dictates that you gather a massive group of people, descend upon crowded bars, and consume as much unpredictable, volatile alcohol as physically possible.
 
@@ -28248,9 +28524,9 @@ Rachel opened her eyes and looked around the booth. She looked at Ashley, her or
 
 "No," Rachel answered, her raspy voice vibrating with absolute, undeniable peace. "I already have everything I want right here."
 
-### Scene 2: The Subprime Shield
+***
 
-**Date:** 2007-05-25 at 20:15 America/New_York
+#### 8:15 PM — The Subprime Shield
 
 By late May 2007, the national news was dominated by a single, terrifying headline: the subprime mortgage crisis.
 
@@ -28286,9 +28562,9 @@ The moment we made the turn, my internal geographical map redlined. The police w
 
 Before we hit the impending traffic jam at Green Meadows, I hit the turn signal and executed a sharp right turn onto the very next cross street: Moosewood Drive.
 
-### Scene 3: The Moosewood Anomaly
+***
 
-**Date:** 2007-05-25 at 20:25 America/New_York
+#### 8:25 PM — The Moosewood Anomaly
 
 Moosewood Drive was a quiet, unassuming residential artery. The frantic, aggressive energy of the detoured traffic instantly vanished behind us. The street was lined with modest, suburban homes and mature pine trees, completely insulated from the roar of Independence Boulevard.
 
@@ -28330,9 +28606,9 @@ The heavy, profound realization of what she was proposing hit my chest. We weren
 
 "Exactly," Jessica smiled, tapping her phone. "The perimeter is perfect. Now, get us home, Michael. I have a real estate agent to call."
 
-### Scene 4: The Evasive Route
+***
 
-**Date:** 2007-05-25 at 20:35 America/New_York
+#### 8:35 PM — The Evasive Route
 
 I pulled the van's gearshift back into drive, my processor completely electrified by the concept of the custom fortress.
 
@@ -28362,9 +28638,11 @@ As we walked up the ADA-graded concrete path to our front door, Rachel laced her
 
 ## Chapter 3: The Tactical Acquisition
 
-### Scene 1: The Route 36 Commute
+### The Route 36 Commute & The Corporate Guillotine
 
 **Date:** 2007-05-29 at 06:40 America/New_York
+
+#### 6:40 AM — The Route 36 Commute
 
 The three-day Memorial Day weekend officially ended, and the civilian world was waking back up. But inside the Canadian Arch townhouse, the pack’s operational rhythm was already flawlessly clicking into gear.
 
@@ -28390,9 +28668,9 @@ If she left the office on time tonight, she knew she could catch the 36 heading 
 
 But right now, she had a bank to dismantle.
 
-### Scene 2: The Corporate Guillotine
+***
 
-**Date:** 2007-05-29 at 08:05 America/New_York
+#### 8:05 AM — The Corporate Guillotine
 
 Jessica swiped her heavy-duty Quantum ID at the 21st-floor security vestibule. The frosted glass doors slid open, granting her access to Quantum East.
 
@@ -28432,9 +28710,11 @@ Now, the true architectural challenge began.
 
 ## Chapter 4: Ground Zero
 
-### Scene 1: The Demolition Directive
+### The Demolition Directive & The Intact Architecture
 
 **Date:** 2007-06-15 at 07:45 America/New_York
+
+#### 7:45 AM — The Demolition Directive
 
 The Virginia morning was already thick with the familiar, suffocating coastal humidity by the time I steered the heavy transit van onto Moosewood Drive.
 
@@ -28464,9 +28744,9 @@ Rachel didn't have her headphones on. The noise was astronomically loud, but her
 
 She knew exactly what that machine was about to do, and the sheer, mathematical logic of the destruction completely overrode her sensory overload. She tightened her grip on my arm, a massive, uncontainable smile breaking across her face as the excavator's heavy steel arm swung upward.
 
-### Scene 2: The Catharsis
+***
 
-**Date:** 2007-06-15 at 08:05 America/New_York
+#### 8:05 AM — The Catharsis
 
 The steel bucket of the excavator slammed into the front porch of the rotting house.
 
@@ -28496,9 +28776,9 @@ She turned her wheelchair slightly, looking up at me, Rachel, Ashley, and Kristi
 
 "We break ground on the fortress next week," Jessica promised. "We're going home."
 
-### Scene 3: The Clinical Blueprint
+***
 
-**Date:** 2007-06-15 at 13:00 America/New_York
+#### 1:00 PM — The Clinical Blueprint
 
 We loaded back into the heavy transit van, leaving the dust of the demolished Moosewood house settling over the empty lot. The euphoric, concussive high of the morning was slowly fading, replaced by a quiet, heavy anticipation as I pulled the van out of the Silverleaf neighborhood.
 
@@ -28576,9 +28856,9 @@ My vision blurred. A tear spilled over my eyelid, tracking hot down my cheek and
 
 At 7:45 AM, we had torn down the rotting, structural failure of the Moosewood house. By 4:00 PM, we walked out of Suite 410, holding the clinical proof that our own internal architecture was completely, perfectly intact.
 
-### Scene 4: The Intact Architecture
+***
 
-**Date:** 2007-06-15 at 16:45 America/New_York
+#### 4:45 PM — The Intact Architecture
 
 The drive back from the clinic to the Canadian Arch townhouse was completely silent, but it wasn’t the tense, suffocating silence of a system lock. It was the heavy, profoundly exhausted quiet of a massive data transfer completing.
 

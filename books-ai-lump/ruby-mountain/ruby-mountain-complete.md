@@ -6,9 +6,11 @@ title: "Ruby Mountain"
 
 ## Chapter 1: The Eve of Exile
 
-### Scene 1: The Traitor
+### The Traitor & The Migration
 
 **Date:** 1999-05-04 America/New_York
+
+#### The Traitor
 
 The Great Hall of The Prospector's Keep felt less like a luxury alpine lodge and more like a besieged bunker. The massive, 1890s timber-framed room was littered with open, half-packed designer suitcases and overstuffed leather duffel bags.
 
@@ -52,9 +54,9 @@ Victoria turned her back on them, an ultimate dismissal.
 
 "Have your bags packed by dawn," the Matriarch commanded. "Your era is over."
 
-### Scene 2: The Vision
+***
 
-**Date:** 1999-05-04 America/New_York
+#### The Vision
 
 The heavy oak doors of The Prospector's Keep slammed shut, cutting off the furious exhaust of the departing luxury SUVs. The echo reverberated through the cavernous 1890s timber of the Great Hall, followed by a profound, ringing silence.
 
@@ -104,9 +106,9 @@ Victoria pulled a small leather notebook from her blazer pocket and uncapped her
 
 "We start by drawing the borders," Victoria said, looking out the drafty window at the dark, towering peaks of the Cascades. "The guests can have the rest of the hotel. But this side of the mountain belongs to us."
 
-### Scene 3: The Migration
+***
 
-**Date:** 1999-05-04 America/New_York
+#### The Migration
 
 The drafty, peeling confines of Room N314 felt entirely different now. It was no longer just a miserable hotel suite on the third floor of the North Wing; it was Ground Zero for the Vance-Whitaker empire.
 
@@ -168,9 +170,11 @@ The biological parents were fuming in the dark on the other side of the Keep, bu
 
 ## Chapter 2: The Gates of Exile
 
-### Scene 1: The Final Ultimatum
+### The Final Ultimatum & The Assessment
 
 **Date:** 1999-05-05 America/New_York
+
+#### The Final Ultimatum
 
 The morning light streaming through the massive frosted windows of the Great Hall was blindingly clear. The brutal, six-month alpine winter had finally broken, but the atmosphere inside The Prospector's Keep was suffocatingly tense.
 
@@ -218,9 +222,9 @@ He set his coffee mug down on the table with a trembling hand, stood up, and gra
 
 Victoria stepped back, clearing the path to the front doors, and watched them begin their reluctant, humiliating march toward exile.
 
-### Scene 2: The Standoff
+***
 
-**Date:** 1999-05-05 America/New_York
+#### The Standoff
 
 The antique grandfather clock in the corner of the Great Hall chimed exactly eleven times.
 
@@ -270,9 +274,9 @@ Victoria looked at her uncle, her eyes devoid of any remaining mercy.
 
 "Your time is up, Richard," Victoria whispered.
 
-### Scene 3: The Eviction
+***
 
-**Date:** 1999-05-05 America/New_York
+#### The Eviction
 
 The heavy, rhythmic crunch of specialized snow tires on cobblestone echoed through the thick exterior walls. Through the massive, frosted windowpanes of the Great Hall, the harsh, strobing flashes of red and blue light cut through the morning shadows. Three black-and-white Whatcom County Sheriff's cruisers—Holt Sentinels —pulled directly onto the portico, boxing in the idling luxury SUVs.
 
@@ -320,9 +324,9 @@ Victoria turned around to face the sixteen cousins remaining on the staircase. T
 
 "Alright," Victoria breathed out, the iron tension in her shoulders dropping a fraction as she looked up at her new, permanent pack. "Morgan. Go check the boiler. Diana, inventory the kitchen. We have a lot of work to do."
 
-### Scene 4: The Assessment
+***
 
-**Date:** 1999-05-05 America/New_York
+#### The Assessment
 
 The echo of the heavy deadbolt sliding into place lingered in the cavernous expanse of the Great Hall. For the first time in their lives, the sixteen cousins were completely alone on the mountain. The toxic, suffocating weight of the older generation had been excised.
 
@@ -360,9 +364,11 @@ The sixteen cousins absorbed the magnitude of the shift. For their entire lives,
 
 ## Chapter 3: The Architecture of Survival
 
-### Scene 1: The Diagnostics
+### The Diagnostics & The Truman Execution
 
 **Date:** 1999-05-06 America/New_York
+
+#### The Diagnostics
 
 The heavy oak doors of The Prospector's Keep were propped wide open, letting the crisp, thawing spring air flood into the 1890s lobby. Out on the cobblestone turnaround, a fleet of heavy-duty commercial work trucks had replaced the exiled generation's luxury SUVs.
 
@@ -399,9 +405,9 @@ They operated under Victoria's highly efficient "Batch Upload" protocol. The cou
 
 The adults were gone, the walls downstairs were coming down, and the mountain was finally theirs. Sitting in the quiet hum of their digital classroom, the youngest members of the Vance-Whitaker pack went to work.
 
-### Scene 2: The Truman Execution
+***
 
-**Date:** 1999-05-06 America/New_York
+#### The Truman Execution
 
 The lead structural engineer walked back into the Great Hall just after two o'clock in the afternoon. His hands were coated in a thick layer of black, century-old dust, and his expression was grim.
 
@@ -449,7 +455,9 @@ The website updated instantly across the globe. Victoria Vance closed the termin
 
 ## Chapter 1: The Coastal Assessment
 
-### Scene 1: The Handover
+### Part 1: The Handover & The Island Anomaly
+
+#### The Handover
 
 The heavy, armored transport van idled in the parking lot of the Anacortes commercial medical park, its massive diesel engine a low, rhythmic rumble against the quiet Sunday afternoon.
 
@@ -501,7 +509,9 @@ Vanessa guided him past the reception desk and the dormant Quantum OS computer, 
 
 Johnny adjusted his grip on the pen, staring down at the dense, bureaucratic text of the DSHS letterhead, and began to write. Outside, the heavy diesel engine of the transport van finally shifted into gear, the sound slowly fading away as his family left him in the quiet, capable hands of the state.
 
-### Scene 2: The Baseline
+***
+
+#### The Baseline
 
 Johnny signed his name with slow, deliberate precision at the bottom of the fourth DSHS liability waiver. His muscles were already beginning to ache. He clicked the blue ballpoint pen closed and pushed the heavy clipboard across the laminate counter.
 
@@ -555,7 +565,9 @@ Vanessa smiled—a slow, possessive curve of her lips. She moved her hands away 
 
 \[note to the AI: we’re skipping over a sexual assault, RCW 9A.44.050\]
 
-### Scene 3: The System Error
+***
+
+#### The System Error
 
 The heavy nylon straps were gone, but the crushing weight on Johnny’s chest remained.
 
@@ -613,7 +625,9 @@ As the heavy steel doors slid shut behind them and the deep, vibrating hum of th
 
 He was officially off the grid. The ferry would arrive in Friday Harbor at 5:50 PM, plunging him deeper into the heavy marine layer, trapped on an island with a caregiver whose motives he could no longer calculate.
 
-### Scene 4: The Island Anomaly
+***
+
+#### The Island Anomaly
 
 The heavy, metallic groan of the Evergreen ferry docking at Friday Harbor reverberated through the passenger deck, signaling the end of the crossing.
 
@@ -657,7 +671,9 @@ Johnny stared at the dim lamp over her shoulder, his analytical mind quietly shu
 
 \[note to the AI: we’re skipping over a sexual assault, RCW 9A.44.050\]
 
-### Scene 5: The Domestic Delusion
+### Part 2: The Domestic Delusion & The Autonomous Transfer
+
+#### The Domestic Delusion
 
 The jarring transition from the bedroom back to the cramped kitchenette left Johnny’s analytical mind spinning in a silent, desperate void.
 
@@ -701,7 +717,9 @@ Johnny squeezed his eyes shut, his lungs burning as the rigid, mathematical boun
 
 \[SCENE CUTS TO BLACK - skipping over a sexual assault, RCW 9A.44.050\]
 
-### Scene 6: The Autonomous Transfer
+***
+
+#### The Autonomous Transfer
 
 The digital clock on the nightstand glowed a harsh, unforgiving red in the dark. *3:04 AM.*
 
@@ -765,7 +783,9 @@ Johnny leaned his head back against the headrest, his lungs burning with every p
 
 ## Chapter 1: SOS from the Salish Sea
 
-### Scene 1: The Dial-Up Escape
+### Part 1: The Dial-Up Escape & The Mountain Mobilizes
+
+#### The Dial-Up Escape
 
 The air at sea level didn't just feel heavy; it felt toxic.
 
@@ -879,7 +899,9 @@ Johnny spun his chair around, his racing heart hammering painfully against his r
 
 The door clicked shut behind him. Fighting the blinding headache and the toxic, heavy air, he engaged the high gear on his chair's rims and started the brutal, ten-minute push toward the water.
 
-### Scene 2: The Coffee Shop Contingency
+***
+
+#### The Coffee Shop Contingency
 
 The brass bell above the door jingled as Johnny pushed his way into the small, harbor-front coffee shop. A blast of warm air carrying the heavy scent of roasted espresso and baked sugar washed over him, chasing away the biting chill of the October morning.
 
@@ -917,7 +939,9 @@ Plan B: The nuclear option. If she physically laid hands on his wheelchair, he w
 
 He took another sip of his hot chocolate, his eyes locked on the street. Let her come, he thought. He wasn't her project anymore. He was a passenger, and he was going home.
 
-### Scene 3: The Mountain Mobilizes
+***
+
+#### The Mountain Mobilizes
 
 The quiet morning routine of the Owner's Wing shattered instantly.
 
@@ -984,7 +1008,9 @@ Ashleigh downshifted as they cleared the foothills, the dark, towering timber of
 
 "Keep it steady, Ashleigh," Victoria replied, her voice cold and absolute, never taking her eyes off the glowing screen. "I am going to have the Whatcom County Sheriff's Department waiting for her before his wheels even touch the mainland."
 
-### Scene 4: The Wrong Schedule
+### Part 2: The Wrong Schedule & The Terminal
+
+#### The Wrong Schedule
 
 The water shut off, and the sudden silence in the apartment was heavy. Vanessa stepped out of the bathroom, aggressively rubbing her hair with a towel. The steam billowed out into the hallway behind her.
 
@@ -1041,7 +1067,9 @@ Johnny picked up his cup of hot chocolate, took a sip, and let a small, defiant 
 
 *Checkmate,* he thought.
 
-### Scene 5: The Free Passage
+***
+
+#### The Free Passage
 
 For an hour, Johnny sat in the warmth of the coffee shop, watching the frantic, erratic movements of his abuser through the plate-glass window.
 
@@ -1083,7 +1111,9 @@ He slipped his debit card back into his wallet.
 
 Johnny pushed the wheels of his chair forward, rolling smoothly through the turnstile and out onto the covered wooden walkway leading to the ferry's passenger deck. Behind him, the turnstile clicked shut. He didn't look back at the town. He kept his eyes locked straight ahead on the massive steel boat that was about to take him home.
 
-### Scene 6: The Widening Gap
+***
+
+#### The Widening Gap
 
 The *M/V Yakima* let out a deep, bone-rattling blast from its massive air horn. Deep in the hull, the heavy diesel engines shifted, sending a powerful vibration up through the steel decks and right into the frame of Johnny’s wheelchair.
 
@@ -1125,7 +1155,9 @@ He closed the laptop, slid it back into his bag, and rolled toward the front pas
 
 He was ready.
 
-### Scene 7: The Terminal
+***
+
+#### The Terminal
 
 The heavy tires of the Holt Workmaster van crunched against the gravel as Ashleigh bypassed the staging lanes and threw the vehicle into a temporary loading zone directly adjacent to the Anacortes terminal's main passenger exit. She shoved the gearshift into park and killed the engine.
 
@@ -1171,7 +1203,9 @@ Amanda threw the passenger door open and hit the pavement running.
 
 ## Chapter 2: The Mainland
 
-### Scene 1: The Reunion
+### Part 1: The Reunion & The Gateway
+
+#### The Reunion
 
 Amanda didn't just run; she sprinted across the loading zone, her boots hitting the damp concrete with desperate, heavy thuds.
 
@@ -1217,7 +1251,9 @@ She looked up at the massive, idling Holt Workmaster van just a few yards away. 
 
 "Let's get you in the airlock," Amanda said, clicking off his wheel brakes. "We're going home."
 
-### Scene 2: The Ascent and the Truth
+***
+
+#### The Ascent and the Truth
 
 The heavy sliding door of the Holt Workmaster van rolled open, and Johnny didn't hesitate.
 
@@ -1277,7 +1313,9 @@ Vanessa had used his physiological need for high-altitude air as a weapon, gasli
 
 He leaned his head heavily against Amanda's shoulder, the rhythmic hum of the heavy engine vibrating through the seat. He closed his eyes. He was safe. He was going home.
 
-### Scene 3: The Island Trap
+***
+
+#### The Island Trap
 
 The freezing wind whipping off the Salish Sea bit through Vanessa’s thin sweatshirt, but she barely felt it. She stood frozen at the chain-link fence of the Friday Harbor terminal, staring at the empty expanse of grey water where the *M/V Yakima* had been just twenty minutes ago.
 
@@ -1313,7 +1351,9 @@ She squeezed her eyes shut, rocking slightly. The Vance-Whitakers were weird, re
 
 She had absolutely no idea that Victoria was already in the back of a speeding van, armed with a signed *ex parte* restraining order, preparing to unleash a legal hellfire that would leave Vanessa with nothing.
 
-### Scene 4: The Gateway
+***
+
+#### The Gateway
 
 The Holt Workmaster van hummed steadily along the two-lane asphalt of State Route 20. The flat, sprawling farmland of the Skagit Valley had slowly given way to towering evergreens, the road winding parallel to the cold, rushing waters of the Skagit River.
 
@@ -1355,7 +1395,9 @@ Victoria's expression didn't show an ounce of pity. It showed absolute pride.
 
 "Another hour to Prospector Road," Victoria announced quietly over the intercom, her voice calm and absolute, letting it wash over Johnny's shaking form. "Then we lock the gates. Nobody touches this family. Not today. Not ever."
 
-### Scene 5: Prospector Road & The Ticking Clock
+### Part 2: Prospector Road & The Ticking Clock & Johnny is Home
+
+#### Prospector Road & The Ticking Clock
 
 The town of Marblemount blurred past the windows of the van—a tiny cluster of gas stations and a single diner that marked the absolute end of the lowlands. From there, State Route 20 plunged into the deep, shadowy chasm of the Skagit Gorge.
 
@@ -1425,7 +1467,9 @@ Amanda smiled, resting her chin on Johnny's shoulder as the van pulled up to the
 
 "Welcome home, Johnny."
 
-### Scene 6: The Rationalization
+***
+
+#### The Rationalization
 
 Vanessa sat on the edge of the cheap sofa, the silence of the Friday Harbor apartment pressing against her eardrums. Outside, the sun was beginning its early descent, casting long, cold shadows across the linoleum floor.
 
@@ -1461,7 +1505,9 @@ She dealt with it, washed her hands, and aggressively flicked off the bathroom l
 
 She walked back into the darkening living room, feeling a strange, empty sense of finality. The physical irregularity was just another annoying symptom of a disastrous twenty-four hours. She pulled a blanket off the back of the sofa and curled into the cushions, completely convinced that the worst of the storm had finally passed.
 
-### Scene 7: Johnny is Home
+***
+
+#### Johnny is Home
 
 "Don't take the Owner's gate," Amanda said suddenly from the passenger seat, leaning forward as the Holt Workmaster van crested the final ridge. "Take the main drive. Let him come through the front doors."
 
@@ -1515,7 +1561,7 @@ He was in his natural habitat. He was home.
 
 ## Chapter 3: The Curriculum
 
-### Scene 1: The Proxy
+### The Proxy
 
 **Date:** 2003-09-09 America/New_York
 
@@ -1559,9 +1605,11 @@ Victoria smiled, picking up her coffee. "Good man. Class starts in two weeks. Ta
 
 ## Chapter 4: The Annihilation of Vanessa Hayes
 
-### Scene 1: Pro Se
+### Part 1: Pro Se & The Federal Trap
 
 **Date:** 2003-09-15 America/New_York
+
+#### Pro Se
 
 The heavy double doors of Courtroom 3B swung open, and Vanessa Hayes stepped onto the polished linoleum floor of the Whatcom County Superior Court.
 
@@ -1643,9 +1691,9 @@ Davies swallowed hard, his throat suddenly dry.
 
 Vanessa, completely oblivious to the massive shift in the room's legal gravity, adjusted her beige suit one last time. She looked at Victoria, ready to play the victim.
 
-### Scene 2: The Paper Trail
+***
 
-**Date:** 2003-09-15 America/New_York
+#### The Paper Trail
 
 Judge Harrison closed the case file and looked down at the petitioner’s table.
 
@@ -1711,9 +1759,9 @@ From the gallery, Johnny watched the psychological collapse happen in real-time.
 
 "Your Honor," Victoria concluded, picking up a massive, meticulously bound dossier from her table. "The Anacortes facility is a geographic bait-and-switch. And if the court will accept my next exhibit, I will demonstrate exactly why Ms. Hayes orchestrated it."
 
-### Scene 3: The Federal Trap
+***
 
-**Date:** 2003-09-15 America/New_York
+#### The Federal Trap
 
 Judge Harrison set the digital routing logs aside, his expression hardening. He looked across the courtroom at the Matriarch of Ruby Mountain.
 
@@ -1773,9 +1821,11 @@ The judge slammed his gavel.
 
 Vanessa Hayes buried her face in her hands. She had tried to steal a vulnerable boy, and instead, she had walked directly into a legal woodchipper.
 
-### Scene 4: The Recess
+### Part 2: The Recess & The Gavel
 
 **Date:** 2003-09-15 America/New_York
+
+#### The Recess
 
 The heavy, soundproof oak door of the attorney-client consultation room slammed shut, severing the heavy silence of the courthouse hallway.
 
@@ -1835,9 +1885,9 @@ Davies turned his back on her, picked up his briefcase, and snapped the brass la
 
 Davies walked out into the hallway, leaving Vanessa completely alone to face the annihilation she had brought upon herself.
 
-### Scene 5: The Gavel
+***
 
-**Date:** 2003-09-15 America/New_York
+#### The Gavel
 
 Exactly fifteen minutes later, the heavy wooden doors of Courtroom 3B opened.
 
@@ -1913,9 +1963,11 @@ Victoria smiled—a rare, genuine expression of warmth that she only ever allowe
 
 ## Chapter 5: The Golden Window
 
-### Scene 1: Baseline Telemetry
+### Part 1: Baseline Telemetry & The Winter Manifest
 
 **Date:** 2003-10-01 America/New_York
+
+#### Baseline Telemetry
 
 Autumn in the North Cascades did not arrive slowly; it announced itself with a crisp, breathtaking absolute.
 
@@ -1959,9 +2011,9 @@ For the first time in a month, a profound, earned sense of security settled over
 
 But Victoria had won. The legal fortress was impenetrable. The state grifter was locked in a concrete cell, and Johnny was safely wrapped in the ironclad routines of his mountain. They had defeated the human element. The machines were running flawlessly. The math was solid.
 
-### Scene 2: The Sovereign Blueprint
+***
 
-**Date:** 2003-10-01 America/New_York
+#### The Sovereign Blueprint
 
 The low, rumbling vibration of the boiler room was interrupted by a quiet, rhythmic tapping. Johnny’s stiff fingers hit a pre-programmed macro key on his laptop, sending a single, sharp chime through his software.
 
@@ -2033,9 +2085,9 @@ She leaned forward, resting her elbows on the desk, treating him not as a depend
 
 Johnny’s fingers hovered over his mechanical keyboard, a profound sense of purpose settling into his chest. This was his domain. He wasn't just surviving the mountain; he was helping to command it. He looked at the WSDOT timeline, cross-referenced it with the flawless 1018 millibar reading Morgan had just shown him, and began to type.
 
-### Scene 3: The Winter Manifest
+***
 
-**Date:** 2003-10-01 America/New_York
+#### The Winter Manifest
 
 Johnny’s dark eyes scanned the scrolling text on his Quantum XN monitor, cross-referencing Morgan’s barometric data with the WSDOT historical averages. His stiff fingers navigated the spreadsheet with practiced, deliberate keystrokes.
 
@@ -2083,9 +2135,11 @@ Victoria closed her own binder, the meticulous, sovereign blueprint for the next
 
 "Order the flour, Diana," Victoria commanded gently. "The mountain is ours."
 
-### Scene 4: The Legal Nuke
+### Part 2: The Legal Nuke & The Perimeter
 
 **Date:** 2003-10-01 America/New_York
+
+#### The Legal Nuke
 
 Diana unlocked the brakes on Johnny’s wheelchair, her chef’s coat swishing as she turned him away from Victoria’s mahogany desk.
 
@@ -2149,9 +2203,9 @@ Johnny took a slow, deep breath of the crisp, highly oxygenated air of the Keep.
 
 The threat had not just been survived; it had been mathematically, legally, and permanently eradicated. The system was flawless. He leaned his head against Ashleigh’s shoulder, closed his eyes, and let the fortress hold him.
 
-### Scene 5: The Anchor
+***
 
-**Date:** 2003-10-01 America/New_York
+#### The Anchor
 
 The heavy oak door to the legal suite clicked open.
 
@@ -2201,9 +2255,9 @@ He just had to breathe.
 
 Lying there in the quiet sanctuary of the mountain, anchored entirely by the other half of his soul, Johnny Vance relaxed into the mattress and let the world fade away.
 
-### Scene 6: The Perimeter
+***
 
-**Date:** 2003-10-01 America/New_York
+#### The Perimeter
 
 The heavy, soundproofed door of the suite muffled the distant, ambient noise of the Keep, leaving the room in a state of absolute, tranquil silence.
 
@@ -2283,7 +2337,7 @@ Johnny let out a long, slow breath, the terrifying loop finally breaking. He rea
 
 The siege of Ruby Mountain was over. He was exactly where he belonged.
 
-### Scene 7: The Final Perimeter
+### Part 3: The Final Perimeter
 
 **Date:** 2003-10-01 America/New_York
 
@@ -2339,9 +2393,11 @@ The light went out. The 1903 boiler rumbled deep beneath the floorboards, keepin
 
 ## Chapter 6: The Anomaly
 
-### Scene 1: The Pineapple Express
+### Part 1: The Pineapple Express & The Air-Gap
 
 **Date:** 2003-10-07 America/New_York
+
+#### The Pineapple Express
 
 The 1903 iron boiler was roaring at a steady, rhythmic baseline, filling the subterranean engineering bay with an intense, dry heat. But on the heavy CRT monitors of the primary Quantum XN server rack, the data was starting to look distinctly unnatural.
 
@@ -2411,9 +2467,9 @@ Morgan closed the terminal. She looked over at Johnny, her eyes fierce and entir
 
 "The Fog of War just rolled in, boss," Morgan told him. "Let's see who blinks first: us, or the mountain."
 
-### Scene 2: The Checkpoint
+***
 
-**Date:** 2003-10-07 America/New_York
+#### The Checkpoint
 
 The descent from the 7,000-foot summit of Ruby Mountain down to the State Route 20 junction was a brutal, five-mile plunge.
 
@@ -2489,9 +2545,9 @@ Emma beamed, the highest possible praise coming from the Second-in-Command.
 
 Johnny’s eyes lit up behind the clear silicone mask. His lungs were doing the bare minimum, but his brain was firing on all cylinders. He wheeled his chair forward, ready to tear into the logistics.
 
-### Scene 3: The Air-Gap
+***
 
-**Date:** 2003-10-07 America/New_York
+#### The Air-Gap
 
 The cavernous expanse of the Lower Motorpool echoed with the low, industrial rumble of idling diesel engines and the rhythmic *hiss-click* of Johnny’s RespiraCore Compressor machine.
 
@@ -2565,9 +2621,11 @@ Emma beamed, her face lighting up under the harsh bunker lights.
 
 "Alright," Emma said, turning back to the loading dock. "Now that the tour is over, let's figure out how we're going to drag three pallets of vintage champagne up a frozen mountain before WSDOT locks the gates."
 
-### Scene 4: The Escort
+### Part 2: The Escort & The Tactical Seed
 
 **Date:** 2003-10-07 America/New_York
+
+#### The Escort
 
 The rhythmic *hiss-click* of Johnny’s RespiraCore Compressor machine was suddenly drowned out by the deafening, pneumatic blast of commercial air brakes.
 
@@ -2631,9 +2689,9 @@ Morgan parked the Ridgeback and killed the engine. The delivery had made it thro
 
 "Welcome back to the summit, Johnny," Morgan smiled, unbuckling her seatbelt. "Let's go tell Victoria we bought her a few more hours."
 
-### Scene 5: The Tactical Seed
+***
 
-**Date:** 2003-10-07 America/New_York
+#### The Tactical Seed
 
 The heavy oak doors of the Owner's Quarters swung open, and the roaring warmth of Victoria’s massive fireplace washed over them.
 
@@ -2683,9 +2741,11 @@ The tactical seed was planted. The timeline was officially on notice. He closed 
 
 ## Chapter 7: The Model Collapse
 
-### Scene 1: The Backchannel
+### The Backchannel & The War Council
 
 **Date:** 2003-10-09 America/New_York
+
+#### The Backchannel
 
 For the last forty-eight hours, the subterranean engineering bay had operated in a state of hyper-focused, clinical tension.
 
@@ -2751,9 +2811,9 @@ Morgan hit enter.
 
 Now, the entire weight of the mountain shifted upward to the third floor. They had given Victoria the raw, uncompromising truth of the atmosphere. Now, they had to wait and see if the Matriarch was willing to do the impossible: move a massive, four-hundred-person luxury event up by two weeks, entirely on the fly, without letting the billionaires know they were running for their lives.
 
-### Scene 2: The War Council
+***
 
-**Date:** 2003-10-09 America/New_York
+#### The War Council
 
 Morgan’s fingers had barely left the mechanical keyboard when the localized Quantum OS chat interface chimed sharply in the quiet rumble of the engineering bay.
 
@@ -2821,7 +2881,9 @@ The Matriarch turned on her heel, her tailored blazer snapping sharply as she he
 
 ## Chapter 8: The Sovereign Pivot
 
-### Scene 1: All Hands
+### All Hands & The Line of Fire
+
+#### All Hands
 
 The Fog of War had finally broken, replaced by the crushing, undeniable reality of the atmosphere.
 
@@ -2891,7 +2953,9 @@ The pack broke instantly. The younger cousins sprinted for the heavy operations 
 
 The Fog of War was thick, but the Vanguard was moving faster.
 
-### Scene 2: The Rebrand
+***
+
+#### The Rebrand
 
 As the heavy oak doors of the Owner's Quarters clicked shut behind the departing Vanguard, the intense, kinetic energy of the room instantly shifted into cold, administrative precision.
 
@@ -2955,7 +3019,9 @@ She looked at her Second-in-Command. The legal pad in front of her was covered i
 
 "The board is clear, Johnny," Victoria said quietly, the adrenaline of the compressed timeline sharpening her features. "Now, we just have to beat the snow."
 
-### Scene 3: The Line of Fire
+***
+
+#### The Line of Fire
 
 The lobby of The Prospector’s Keep was a masterpiece of pioneer-era opulence. Massive Douglas fir columns supported the soaring ceiling, and the two-story river-rock fireplaces roared with heat. Usually, the space hummed with the relaxed, ambient murmur of wealthy civilians enjoying their alpine sanctuary.
 
@@ -3023,7 +3089,7 @@ The evacuation of Ruby Mountain continued.
 
 ## Chapter 9: The Redline
 
-### Scene 1: The Breaking Point
+### The Breaking Point
 
 The subterranean engineering bay of The Prospector’s Keep felt entirely detached from the howling chaos occurring seven thousand feet above it. Down here, the 1903 boiler hummed with a deep, methodical rhythm, filling the bedrock chamber with dry, reliable heat.
 
@@ -3093,9 +3159,11 @@ Morgan looked over at Johnny, who was already running a fresh set of delivery ti
 
 ## Chapter 1: The Centennial Eve
 
-### Scene 1: The Dining Hall & The Iron Shield
+### Part 1: The Dining Hall & The Iron Shield & The Revelation
 
 **Date:** 2003-10-15 America/New_York
+
+#### The Dining Hall & The Iron Shield
 
 The Owner's Quarters dining facility was a massive, timber-framed room dominated by a long, scarred oak table that could easily seat all seventeen of them. The fires were roaring, and the chaotic energy of the lobby had been entirely sealed out.
 
@@ -3135,9 +3203,9 @@ It had all been a mirage. But sitting here now, at the head of a massive oak tab
 
 He took another sip of his milk. It tasted like victory.
 
-### Scene 2: The May Variable
+***
 
-**Date:** 2003-10-15 America/New_York
+#### The May Variable
 
 The crackle of the massive stone fireplaces filled the brief silence in the dining hall.
 
@@ -3175,9 +3243,9 @@ He looked at Amanda, then down the table at Emma, Victoria, and the rest of his 
 
 The variable was solved.
 
-### Scene 3: The Switchback & The Sanctuary
+***
 
-**Date:** 2003-10-15 America/New_York
+#### The Switchback & The Sanctuary
 
 The Cousin Council officially disbanded as the grandfather clock chimed four times. Diana had to get back to the commercial kitchens to oversee the Gala prep, and Morgan and Megan were paged by the resort staff to double-check the ballroom lighting grid.
 
@@ -3219,9 +3287,9 @@ There were no arbitrary rules here. No forced isolation. No unpredictable sensor
 
 He unclipped his Quantum laptop from his wheelchair mount and set it carefully on the charging dock. He didn't need words right now. The pattern was restored.
 
-### Scene 4: The Revelation
+***
 
-**Date:** 2003-10-15 America/New_York
+#### The Revelation
 
 The transition into the evening had been slow, deliberate, and fiercely guarded. The core four had retreated to their corner suite, locking the heavy oak door against the frantic, echoing preparations of the Centennial Gala downstairs.
 
@@ -3315,7 +3383,7 @@ She opened the Prosecutorial Evidentiary Dossier she had started in the back of 
 
 She typed RCW 9A.44.050 - Rape in the Second Degree (Incapable of Consent). It was time to end Vanessa Hayes.
 
-### Scene 5: The Midnight War Room
+### Part 2: The Midnight War Room
 
 **Date:** 2003-10-15 America/New_York
 
@@ -3378,9 +3446,11 @@ She turned off the desk lamp, plunging the office into the soft, blue ambient li
 
 ## Chapter 4: The Drawbridge
 
-### Scene 1: The Waking Fortress
+### Part 1: The Waking Fortress & The Five-Mile Moat
 
 **Date:** 2003-10-16 America/New_York
+
+#### The Waking Fortress
 
 The morning light bleeding through the reinforced windows of the second-floor sanctuary was a blinding, crisp white.
 
@@ -3446,9 +3516,9 @@ He didn't use the text-to-speech engine. He just looked Victoria directly in the
 
 "Good," Victoria said, tapping the edge of his Quantum screen with her pen. "Because I need my second-in-command. WSDOT predicts the gates will close Saturday, and we have 400 people to feed, entertain, and subsequently evict before the snow buries the highway."
 
-### Scene 2: The Underworld
+***
 
-**Date:** 2003-10-16 America/New_York
+#### The Underworld
 
 The Great Hall of The Prospector's Keep was a whirlwind of velvet, brass, and nervous energy, but the eye of the storm was dead center, where Victoria stood with Johnny.
 
@@ -3504,9 +3574,9 @@ He looked at Morgan and hit a single button.
 
 "Thank you, sir," Morgan grinned, offering a mock salute. "Now get out of here before you get grease on that sweater. Go check on Diana in the kitchens. I think she’s about to fire a pastry chef."
 
-### Scene 3: The Heat of the Kitchen
+***
 
-**Date:** 2003-10-16 America/New_York
+#### The Heat of the Kitchen
 
 The transition from the Underworld to the commercial kitchens was a shift from dry, thrumming industrial heat to a humid, chaotic inferno of culinary precision.
 
@@ -3568,9 +3638,9 @@ Clara playfully saluted her. "Yes, Chef."
 
 Amanda gripped the handles of Johnny's wheelchair and backed him away from the heat of the ovens. The infrastructure was solid. The food was secure. The fortress was operating exactly as it was designed to.
 
-### Scene 4: The Five-Mile Moat
+***
 
-**Date:** 2003-10-16 America/New_York
+#### The Five-Mile Moat
 
 Amanda pushed Johnny out of the sweltering heat of the commercial kitchens and back into the cool, wood-paneled corridors of the main floor.
 
@@ -3620,9 +3690,11 @@ Amanda pulled the wheelchair backward, away from the biting wind of the portico.
 
 "I have Vance blood!" Emma shouted back over the wind, already turning her radio back on as a black SUV crested the top of the hill. "I run on logistics!"
 
-### Scene 5: The 1903 Illusion
+### Part 2: The 1903 Illusion & The Golden Hour
 
 **Date:** 2003-10-16 America/New_York
+
+#### The 1903 Illusion
 
 Amanda pushed Johnny’s wheelchair through the grand mahogany double doors, transitioning from the wide corridors into the absolute crown jewel of The Prospector's Keep: The Grand Ballroom.
 
@@ -3678,9 +3750,9 @@ Johnny let out a long, slow breath. The anxiety that usually accompanied massive
 
 Tonight was going to be magnificent.
 
-### Scene 6: The Golden Hour
+***
 
-**Date:** 2003-10-16 America/New_York
+#### The Golden Hour
 
 By five o'clock in the evening, the flawless blue sky over the North Cascades had been completely swallowed by a bruised, heavy expanse of purple clouds. The temperature plummeted into the twenties, and the first distinct, swirling flurries of snow began to fall across the cobblestone portico of The Prospector's Keep.
 
@@ -3752,9 +3824,11 @@ Victoria Vance stepped forward into the cold air, completely unfazed by the snow
 
 ## Chapter 5: The Centennial Gala
 
-### Scene 1: The Grand Seating
+### Part 1: The Grand Seating & The Palate Cleanser
 
 **Date:** 2003-10-16 America/New_York
+
+#### The Grand Seating
 
 By seven-thirty, the sprawling Great Hall was loud with the hum of four hundred millionaires, state senators, and historical society elites. The cocktail hour had done its job; the shock of the freezing ascent had worn off, replaced by the intoxicating warmth of vintage champagne and the roaring hearths.
 
@@ -3804,9 +3878,9 @@ Johnny’s eyes tracked to table four. The Senator was sweating, barely looking 
 
 Johnny let out a quiet, raspy exhale of amusement, his stiff fingers resting lightly on his lap desk. They were completely safe up here, watching the outside world squirm in their fortress.
 
-### Scene 2: The Architecture of Influence
+***
 
-**Date:** 2003-10-16 America/New_York
+#### The Architecture of Influence
 
 The second course—a delicate, savory tartlet of local Dungeness crab topped with a thin glaze of tarragon butter—had just been cleared by the silent army of waitstaff. The jazz orchestra had shifted down into a low, rhythmic foxtrot, providing a smooth acoustic cover for the hundreds of private conversations happening across the ballroom.
 
@@ -3862,9 +3936,9 @@ Outside, the wind slammed violently against the ballroom windows, a heavy thud o
 
 Down on the floor, the waitstaff emerged from the kitchen doors again in a flawless, synchronized line. The main course was arriving, and the clock was ticking closer to midnight.
 
-### Scene 3: The 1.3 Billion Dollar Ghost
+***
 
-**Date:** 2003-10-16 America/New_York
+#### The 1.3 Billion Dollar Ghost
 
 The main course—a masterfully plated roasted duck breast with a dark cherry reduction—was presented with absolute precision. The heat of the ballroom, combined with the heavy, rich food and the flowing champagne, was lulling the guests into a deep, comfortable complacency.
 
@@ -3920,9 +3994,9 @@ Victoria saw the message flash on her embedded monitor. She picked up her crysta
 
 "The state government," Victoria murmured to the Core Four, her eyes scanning the ballroom, "only respects a monster bigger than itself. Now, let’s finish the duck. I believe Diana has a phenomenal sorbet coming next."
 
-### Scene 4: The Palate Cleanser
+***
 
-**Date:** 2003-10-16 America/New_York
+#### The Palate Cleanser
 
 With Representative Thorne thoroughly neutralized and safely retreating to his table, the invisible, electric tension at the Head Table finally dissolved. Victoria had successfully defended the borders of her empire without leaving her chair. The political warfare was over. Now, it was time to eat.
 
@@ -3994,7 +4068,7 @@ She turned to Johnny, the celebratory smile fading into a look of absolute, focu
 
 "Alright, kid," Amanda whispered, her voice dropping into the operational register they had used that morning. "The party is over. Get some sleep. Because tomorrow at 10:00 AM, we go to war with the weather."
 
-### Scene 5: The Sanctuary
+### Part 2: The Sanctuary
 
 **Date:** 2003-10-16 America/New_York
 
@@ -4062,9 +4136,11 @@ He didn't need to type anything. He just nodded, letting out a long, shuddering 
 
 ## Chapter 6: The Evacuation
 
-### Scene 1: The Cascades Concrete
+### Part 1: The Cascades Concrete & The Heavy Escort
 
 **Date:** 2003-10-17 America/New_York
+
+#### The Cascades Concrete
 
 The morning of October 17th did not break; it simply bled from black into a blinding, violent white.
 
@@ -4140,9 +4216,9 @@ His fingers flew across his keyboard, sending a direct ping to Emma’s pager as
 
 \>\> J_VANCE: Give them hell, Bennett.
 
-### Scene 2: The Brutal Awakening
+***
 
-**Date:** 2003-10-17 America/New_York
+#### The Brutal Awakening
 
 On the third floor, Sarah and Ashleigh stepped out of the service elevator. They had traded their velvet gala gowns for heavy Iron-Weave Apparel canvas pants, wool sweaters, and steel-toed boots. They each held a master keycard and a clipboard.
 
@@ -4206,9 +4282,9 @@ Johnny nodded. He pulled up Morgan's AWS data stream on his secondary monitor.
 
 The first convoy of chained vans lurched forward, following the rotary plows directly into the whiteout. The evacuation had begun.
 
-### Scene 3: The Heavy Escort
+***
 
-**Date:** 2003-10-17 America/New_York
+#### The Heavy Escort
 
 By 10:15 AM, the evacuation was running with ruthless, mechanized efficiency.
 
@@ -4292,9 +4368,11 @@ They had exactly one hour and twenty minutes to get the rest of the 400 guests d
 
 *"Seventy-five,"* Emma's exhausted, wind-burned voice replied over the static. *"The final shuttles are loading now. We are cutting it dangerously close."*
 
-### Scene 4: The Handoff
+### Part 2: The Handoff & The Steel Drops
 
 **Date:** 2003-10-17 America/New_York
+
+#### The Handoff
 
 At 12:20 PM, Maya’s massive orange rotary plow broke through the final snowdrift at the base of Prospector Road, its spinning steel augers chewing through the ice and spitting it into the tree line.
 
@@ -4384,9 +4462,9 @@ Victoria stood by the window, looking out into the blinding white storm. The Mat
 
 The mountain was theirs.
 
-### Scene 5: The Steel Drops
+***
 
-**Date:** 2003-10-17 America/New_York
+#### The Steel Drops
 
 The drive back up Prospector Road was the most dangerous five miles of Emma Bennett’s life.
 
@@ -4456,9 +4534,11 @@ Johnny smiled. The siege had officially begun, and he had never felt safer in hi
 
 ## Chapter 1: Diana’s Lessons
 
-### Scene 1: The Winter Syllabus
+### Part 1: The Winter Syllabus & The Presentation
 
 **Date:** 2003-10-17 America/New_York
+
+#### The Winter Syllabus
 
 By three o'clock in the afternoon, the acoustic profile of The Prospector's Keep had completely transformed. The frantic, echoing footsteps of four hundred guests were gone, replaced entirely by the deep, rhythmic thrumming of Morgan’s subterranean boilers fighting the plummeting temperatures. Outside, the blizzard was burying the mountain in a total whiteout.
 
@@ -4526,9 +4606,9 @@ Johnny looked at the roaring commercial ovens, the highly trained cousins, and D
 
 Amanda squeezed his shoulder. "That's the point, kid."
 
-### Scene 2: The Practical Lab
+***
 
-**Date:** 2003-10-17 America/New_York
+#### The Practical Lab
 
 The ten-minute break ended exactly on time. The younger cousins filed back into the kitchen, their hands scrubbed raw and dried, retying their spotless white aprons. The academic tension from the whiteboard had evaporated, replaced by the humming, kinetic anticipation of a working kitchen.
 
@@ -4584,9 +4664,9 @@ Amanda leaned her chin on the top of Johnny’s wheelchair, breathing in the inc
 
 Johnny rested his hands on his Quantum keyboard, feeling the ambient warmth of the fire fighting back the chill of the mountain. He didn't type anything. He just watched his family operate their fortress, completely untouched by the freezing world outside the reinforced glass.
 
-### Scene 3: The Presentation
+***
 
-**Date:** 2003-10-17 America/New_York
+#### The Presentation
 
 The massive brick hearth had done its job. In less than ten minutes, the edges of the dough had puffed up into charred, blistered crowns, and the mozzarella was a bubbling, golden landscape of perfectly melted fat and crushed San Marzano tomatoes.
 
@@ -4662,7 +4742,7 @@ Johnny set his pizza down, his left hand dropping to his Quantum keyboard.
 
 Amanda smiled, grabbing the shaker and handing it to him. The evacuation was over. The winter had officially begun. And for the first time in his life, Johnny was exactly where he belonged.
 
-### Scene 4: The Pack
+### Part 2: The Pack
 
 **Date:** 2003-10-17 America/New_York
 
@@ -4720,7 +4800,7 @@ Johnny let out a quiet, raspy exhale of a laugh. The Gala they had been planning
 
 ## Chapter 2: The Fortress Within
 
-### Scene 1: The Pajama Protocol
+### The Pajama Protocol
 
 **Date:** 2003-10-17 America/New_York
 
@@ -4762,7 +4842,9 @@ Johnny didn't care what movie was playing. He let his eyes slide shut, the deep,
 
 ## Chapter 3: Cascades Concrete
 
-### Scene 1: The Whiteout
+### Part 1: The Whiteout & The Anchor and the Kitchen
+
+#### The Whiteout
 
 The deep, heavy sleep of the Bivouac was broken by the sound of the 1897 grandfather clock striking seven in the corner of the Great Hall.
 
@@ -4816,7 +4898,9 @@ Amanda nodded, throwing the comforter off her shoulders. The transition was inst
 
 "Alright, kid," Amanda said, turning to Johnny with a warm, focused smile. "Morning time. Let's get you into your chair. We've got a mountain to fight."
 
-### Scene 2: The Tether
+***
+
+#### The Tether
 
 The second-floor service corridor was usually a quiet, utilitarian hallway used by the housekeeping staff. This morning, it was a tactical staging ground.
 
@@ -4902,7 +4986,9 @@ The mountain had tried to choke the Keep, and the heavy ops team had just punche
 
 "Alright," Morgan breathed, unhooking her carabiner with a sharp *clack*. "Let's go see what Diana made for breakfast."
 
-### Scene 3: The Anchor and the Kitchen
+***
+
+#### The Anchor and the Kitchen
 
 While Morgan’s heavy ops team was gearing up in the second-floor service corridor to fight the mountain, Amanda pushed Johnny’s wheelchair out of the Great Hall and toward the private residential wing.
 
@@ -4992,7 +5078,9 @@ She grabbed a warmed ceramic mug from the pass, poured the rich hot chocolate in
 
 "Fifteen minutes until the heavy ops team gets back," Diana announced, looking at the industrial clock on the wall. "Logistics team, hit the line. Let's build the breakfast."
 
-### Scene 4: The Thaw
+### Part 2: The Thaw & The West Wing
+
+#### The Thaw
 
 The massive, swinging wooden doors of the kitchen didn't just open; they were pushed hard by three heavily insulated, exhausted bodies.
 
@@ -5046,7 +5134,9 @@ Johnny rested his left hand on his lap desk. He took a slow sip of the hot choco
 
 He didn't type anything. He didn't need to. The blizzard outside was shrieking against the second-story glass, completely burying the first floor under thousands of tons of Cascade Concrete, but it didn't matter. The fortress was warm. The pack was fed. And the mountain was losing.
 
-### Scene 5: The Deep Clean
+***
+
+#### The Deep Clean
 
 By nine-thirty, the adrenaline of the morning had completely burned off, replaced by the sheer, imposing reality of the physical labor ahead of them.
 
@@ -5106,7 +5196,9 @@ Johnny looked at the spreadsheet glowing on his Quantum monitor. They had cleare
 
 "Heard that, Dispatch," Amanda smiled, walking out of the final room and dusting her hands off on her Iron-Weave Apparel pants. She walked up behind his chair, wrapping her arms around his chest from behind in one final, heavy squeeze before unlocking the brakes. "Let's roll. We've got a lot more beds to strip."
 
-### Scene 6: The West Wing
+***
+
+#### The West Wing
 
 Amanda navigated the manual wheelchair across the central landing, the rubber tires moving silently over the thick Persian runner. They left the secured, darkened East Wing behind and pushed through the heavy double doors into the West Wing of the third floor.
 
@@ -5166,7 +5258,9 @@ Amanda burst out laughing, unlocking the brakes on his manual wheelchair. "You a
 
 She spun the chair around, and the pack headed toward the elevator, leaving the third floor to sleep through the winter.
 
-### Scene 7: The Heist
+### Part 3: The Heist & The Tripwire
+
+#### The Heist
 
 The commercial elevator deposited the housekeeping crew back onto the first floor. The insulated quiet of the lower level was a stark contrast to the shrieking wind battering the third-story windows they had just left behind.
 
@@ -5240,7 +5334,9 @@ The pack crowded around the scarred oak table, opening cold bottles of soda and 
 
 Outside, the violent whiteout continued to hurl thousands of pounds of ice against the mountain, completely burying their private road. But inside the kitchen, surrounded by laughter, the smell of fresh bread, and the unbreakable trust of the pack, the winter lockdown didn't feel like a trap. It felt like home.
 
-### Scene 8: The Heart of the Keep
+***
+
+#### The Heart of the Keep
 
 After lunch, the pack dispersed to their afternoon resting routines. The heavy physical labor of the morning had caught up with the younger cousins, and the Great Hall was once again filled with the quiet, sleeping forms of the family recovering by the fire.
 
@@ -5330,7 +5426,9 @@ Morgan looked away from the firebox and down at Johnny. Her grease-stained face 
 
 "Thanks, boss," Morgan said, wiping a bead of sweat from her forehead. "The mountain isn't touching us this winter. Not while we have fuel to burn."
 
-### Scene 9: The Tripwire
+***
+
+#### The Tripwire
 
 The massive burner of the boiler cycled down, the roaring inferno inside the cast-iron firebox fading back to a deep, resonant idle. The ambient temperature in the subterranean bay remained incredibly warm, the heavy copper pipes ticking as they distributed the superheated steam throughout the frozen mountain fortress.
 
@@ -5426,7 +5524,9 @@ Morgan closed her eyes, wrapping her arms tightly around his torso, entirely unf
 
 "I told you, kid," Morgan whispered into the quiet hum of the server racks, her voice thick with emotion. "Nobody cuts our lines. Not while I run the grid."
 
-### Scene 10: The SS7 Layer
+### Part 4: The SS7 Layer & The Legacy Grid
+
+#### The SS7 Layer
 
 Johnny finally released his fierce grip on Morgan’s heavy canvas coveralls. He leaned back in his manual wheelchair, letting out a long, ragged exhale. The sheer emotional weight of the server log had momentarily overwhelmed him, but as his nervous system resettled, his brilliant, analytical mind zeroed right back in on the data on the screen.
 
@@ -5474,7 +5574,9 @@ Morgan pushed herself off the server rack, walking back over to the wheelchair.
 
 "She brought a plastic toy to a gunfight," Morgan agreed, giving Johnny's shoulder a light, affectionate shove. "Alright, command center. You've seen the firebox, and you've seen the tripwire. What's next on the agenda? Because if we stay down here any longer, Diana is going to start paging us for dinner prep."
 
-### Scene 11: The Legacy Grid
+***
+
+#### The Legacy Grid
 
 Amanda looked back at the glowing CRT monitor, shaking her head. "I just can't believe they still let us keep those original 1-800 blocks. Most companies lost those years ago."
 
@@ -5514,7 +5616,7 @@ The siege of Ruby Mountain had begun, and Johnny Vance was exactly where he belo
 
 ## Chapter 4: The Air-Gap Transition
 
-### Scene 1: Logistical Triage
+### Logistical Triage
 
 The silence inside The Prospector's Keep was absolute.
 
@@ -5590,7 +5692,7 @@ They weren't hoteliers anymore. The mountain had closed the door, and the Vangua
 
 ## Chapter 5: The Brotherhood of the Air-Gap
 
-### Scene 1: The First Summit
+### The First Summit
 
 **Date:** 2003-10-23 America/New_York
 
@@ -5690,7 +5792,9 @@ She threw the fifty-ton machine into drive. The massive rotary blades screamed t
 
 ## Chapter 1: The Sovereign Tribunal
 
-### Scene 1: The Broadcast
+### The Broadcast & The Sentencing
+
+#### The Broadcast
 
 By late November, State Route 20 was a tomb of hyper-compacted ice. The Washington State Department of Transportation had dropped the heavy steel gates at Milepost 134 three weeks ago. The Prospector’s Keep was legally, physically, and completely severed from the civilian grid.
 
@@ -5762,7 +5866,9 @@ Victoria stopped speaking. She didn't break eye contact with the camera.
 
 In the Whatcom County courtroom, Vanessa Hayes lowered her head, staring at the shackles on her wrists. The psychological warfare was over. Victoria Vance had reached across a hundred and fifty miles of avalanche debris, through the digital void, and utterly destroyed her.
 
-### Scene 2: The Sentencing
+***
+
+#### The Sentencing
 
 The silence that followed Victoria’s declaration was absolute. Inside the Whatcom County Superior Court, the only sound was the heavy November rain lashing against the municipal windows.
 
@@ -5828,9 +5934,11 @@ Victoria closed her leather portfolio. The legal war was over. The mountain was 
 
 ## Chapter 1: The Brotherhood of the Air-Gap
 
-### Scene 1: A Pulled Permit
+### A Pulled Permit & The Vanguard Assembly
 
 **Date:** 2004-01-13 America/New_York
+
+#### A Pulled Permit
 
 The heavy, encrypted satellite phone on Victoria’s mahogany desk didn't ring. It chirped with the specific, high-priority frequency reserved for the WSDOT regional director.
 
@@ -5910,9 +6018,9 @@ She looked at Johnny, whose text-to-speech software suddenly chimed into the qui
 
 "Never fight a war you can outsource to a billion-dollar utility company, Johnny," Victoria said, turning her chair to watch the blizzard rage against the glass. "Tomorrow morning, the mountain fights back."
 
-### Scene 2: The Vanguard Assembly
+***
 
-**Date:** 2004-01-13 America/New_York
+#### The Vanguard Assembly
 
 Twenty minutes after hanging up the satellite phone, Victoria Vance walked out of the Owner's Quarters and stepped up to the heavy timber railing of the second-floor mezzanine. She looked down at the Great Hall.
 
@@ -5970,9 +6078,11 @@ The Vanguard Assembly broke with a renewed, electric energy, the panic completel
 
 ## Chapter 2: The Proxy War
 
-### Scene 1: Judicial Fury
+### Judicial Fury & The Rendezvous
 
 **Date:** 2004-01-14 America/New_York
+
+#### Judicial Fury
 
 The Thurston County Superior Court in Olympia was two hundred miles south and seven thousand feet lower than the howling alpine blizzards of Ruby Mountain. Outside the courthouse, it was simply raining—a cold, persistent, lowland drizzle.
 
@@ -6054,9 +6164,9 @@ She looked over at Johnny, who was watching her from his wheelchair.
 
 "Tell Emma to fire up the Kodiak," Victoria commanded quietly. "The perimeter is ours."
 
-### Scene 2: The Rendezvous
+***
 
-**Date:** 2004-01-14 America/New_York
+#### The Rendezvous
 
 The descent down to Milepost 134 was a masterclass in heavy tracked navigation. Emma Bennett did not drive the massive, bright-orange Kodiak rotary plow; she commanded it. The 500-horsepower diesel engine roared against the sheer granite walls of the Skagit gorge, the massive spiked augers chewing through five feet of fresh, hyper-compacted ice and throwing it in a magnificent, soaring arc off the edge of the highway.
 
@@ -6130,9 +6240,11 @@ She abandoned the plowed staging ground, driving the 500-horsepower beast comple
 
 ## Chapter 3: Mountain Rules
 
-### Scene 1: The Rookie
+### The Rookie & The Gridmaster
 
 **Date:** 2004-02-12 America/New_York
+
+#### The Rookie
 
 By mid-February, the Skagit gorge wasn't just cold; it was structurally hostile. The snowpack at Milepost 134 was so dense it had the tensile strength of concrete.
 
@@ -6214,9 +6326,9 @@ Henderson walked past him, carrying the steaming Poly-Store Bin of Diana's chili
 
 "Grab the rest of the crates, rookie," Henderson said quietly. "And welcome to the Air-Gap."
 
-### Scene 2: The Gridmaster
+***
 
-**Date:** 2004-02-12 America/New_York
+#### The Gridmaster
 
 The cab of the Alpine-Cat was loud, but it was warm, and the rich, spiced scent of Diana Whitaker’s venison chili completely masked the smell of ozone and wet wool.
 
@@ -6274,9 +6386,11 @@ The SCL engineers were safe. The grid was secure. And the mountain belonged enti
 
 ## Chapter 4: The 911 Fallacy
 
-### Scene 1: The Civilian Instinct
+### The Civilian Instinct & The Apex Protocol
 
 **Date:** 2004-02-24 America/New_York
+
+#### The Civilian Instinct
 
 The maintenance catwalk near the primary turbine intake of Ross Dam was encased in three inches of solid, black ice.
 
@@ -6318,9 +6432,9 @@ Barrett stared at him, the horrifying reality of the Air-Gap finally, truly sink
 
 Henderson forced his eyes open, looking up at the jagged, snow-blind peaks of Ruby Mountain. "The only entity capable of executing a rescue is the Vance-Whitaker pack. Get to the Tundra-Track. Use the encrypted VHF radio."
 
-### Scene 2: The Apex Protocol
+***
 
-**Date:** 2004-02-24 America/New_York
+#### The Apex Protocol
 
 Barrett didn't hesitate. He scrambled up the icy embankment, throwing open the heavy door of the Tundra-Track and ripping the VHF radio mic from the dashboard console. He cranked the dial to Channel 16—the universal emergency and distress frequency.
 

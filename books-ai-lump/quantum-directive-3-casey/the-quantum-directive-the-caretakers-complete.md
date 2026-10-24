@@ -6,9 +6,11 @@ title: "The Quantum Directive: The Caretakers"
 
 ## Chapter 1: The Northern Regional
 
-### Scene 1: Departing NPN
+### Departing NPN & The Crown Burger Debrief
 
 **Date:** 1995-07-01 at 08:00 America/New_York
+
+#### 8:00 AM — Departing NPN
 
 The humid morning air of Virginia Beach was already clinging to us by the time my father parked the family station wagon at the Newport News (NPN) transit station. It was the summer of 1995, and I was ten years old. My little sister, Casey, was eight, and she was currently vibrating with the uncontainable energy of a child who firmly believed she was about to make a massive, life-altering decision.
 
@@ -36,9 +38,9 @@ I looked at Cassandra. Even at seventeen, she didn't just plan trips; she execut
 
 But for now, the distant, heavy blast of a train horn echoed down the tracks. ARTS *The Patriot* was pulling into NPN. Cassandra unlocked her brakes, her eyes fixed sharply on the horizon. The great college expedition had officially begun.
 
-### Scene 2: The Northern Regional
+***
 
-**Date:** 1995-07-01 at 08:30 America/New_York
+#### 8:30 AM — The Northern Regional
 
 The ARTS *The Patriot* train rocked gently as it cleared the limits of Newport News, settling into a smooth, high-speed cadence on the rails heading north. 
 
@@ -72,9 +74,9 @@ Mom let out a soft laugh from the row behind us. "Yes, thank you, Casey. We are 
 
 I looked out the window again, smiling. Casey wasn't just tagging along on her older sister's college tour. In her mind, she was already enrolled.
 
-### Scene 3: The Seven Corners Transfer
+***
 
-**Date:** 1995-07-01 at 12:45 America/New_York
+#### 12:45 PM — The Seven Corners Transfer
 
 The moment ARTS *The Patriot* pulled into Alexandria Station (ALX), our family’s transition from passengers to a unified logistical unit was immediate.
 
@@ -118,9 +120,9 @@ Casey sighed, clearly annoyed by the bureaucratic red tape. "Fine. But request g
 
 "We booked the accessible suite, Casey," Dad assured her, pulling the heavy glass door open for the family. "I promise, the logistics are secured. Let's just get into the air conditioning."
 
-### Scene 4: The Crown Burger Debrief
+***
 
-**Date:** 1995-07-01 at 18:30 America/New_York
+#### 6:30 PM — The Crown Burger Debrief
 
 Once we unloaded our luggage into the adjoining motel rooms, my parents realized exactly how exhausted they were from the four-leg transit gauntlet. Rather than attempting to navigate a sit-down restaurant, we opted for the immediate, high-caloric efficiency of the Crown Burger located right next door in the same parking lot.
 
@@ -158,9 +160,11 @@ Cassandra didn't just want to attend college. She was planning to conquer it.
 
 ## Chapter 2: The Open House
 
-### Scene 1: The Continental Breakfast
+### The Continental Breakfast & Lights Out
 
 **Date:** 1995-07-01 at 07:30 America/New_York
+
+#### 7:30 AM — The Continental Breakfast
 
 The George Wythe University Student Union was a massive, echoing atrium of brutalist concrete and large glass windows, designed to look impressive on brochures but currently functioning as a highly inefficient echo chamber. 
 
@@ -190,9 +194,9 @@ Cassandra quietly took a bite of her bagel, her eyes fixed on the administrator.
 
 Casey nodded, taking a bite of her muffin. "I have the route memorized. We move on your signal."
 
-### Scene 2: The Architecture of the Past
+***
 
-**Date:** 1995-07-01 at 09:45 America/New_York
+#### 9:45 AM — The Architecture of the Past
 
 Despite Cassandra's earlier insistence on bypassing the general campus tour, she quickly realized that the George Wythe University campus layout was highly irregular. Because we lacked the necessary topographic data to navigate the winding footpaths and dense brick facades autonomously, she made the tactical decision to join the massive herd of prospective students for the guided academic walking tour. 
 
@@ -236,9 +240,9 @@ Cassandra kept her polite, pleasant expression firmly in place for the benefit o
 
 "This department is a museum, David," she murmured, her voice so low only Casey and I could hear it. "They just don't realize it yet."
 
-### Scene 3: The Dormitory Metric
+***
 
-**Date:** 1995-07-01 at 13:00 America/New_York
+#### 1:00 PM — The Dormitory Metric
 
 We left the oppressive chill of the Computer Science building and made our way back across the academic quad to the Student Services center. At precisely 1300 hours, we were sitting in the small, warmly lit office of the George Wythe University Disability Services coordinator. 
 
@@ -268,9 +272,9 @@ But as Casey eagerly pulled out her tape measure to double-check the desk dimens
 
 Because once Casey and I finished our summer camps at VDU, our family was flying to Seattle. And Cassandra suddenly needed to see exactly what Northwest Pacific University was doing with Project Citadel.
 
-### Scene 4: Early Dismissal
+***
 
-**Date:** 1995-07-01 at 14:15 America/New_York
+#### 2:15 PM — Early Dismissal
 
 We stepped out of the Student Services center and back into the humid Virginia afternoon. The Open House was technically scheduled to run until five o'clock, with more breakout sessions, a student life panel, and an evening mixer in the dining hall. 
 
@@ -304,9 +308,9 @@ She looked back out the window, watching a Capital Transit bus rumble past the d
 
 "We just have to find a school that's building for the future," she added. "Not the past."
 
-### Scene 5: The Evening Routine
+***
 
-**Date:** 1995-07-01 at 20:00 America/New_York
+#### 8:00 PM — The Evening Routine
 
 By the time we navigated the CCT bus back to the motel in Vienna, the sun had set, and the oppressive Virginia heat had finally broken into a mild, humid evening. 
 
@@ -346,9 +350,9 @@ A quiet thought sparked in the back of my mind. Our parents weren't going to be 
 
 I didn't know the answer yet. But as I listened to the water running, I realized that I wanted to learn.
 
-### Scene 6: Lights Out
+***
 
-**Date:** 1995-07-01 at 21:30 America/New_York
+#### 9:30 PM — Lights Out
 
 When the bathroom door finally opened, Cassandra was already dressed in her pajamas. Mom helped her wheel across the carpet and execute a smooth pivot transfer into the nearest queen bed. 
 
@@ -392,9 +396,11 @@ I smiled, pulling the comforter up a little higher over her shoulders. The stres
 
 ## Chapter 3: The National Zoo
 
-### Scene 1: The Connecticut Avenue Bypass
+### Part 1: The Connecticut Avenue Bypass & The
 
 **Date:** 1995-07-01 at 09:00 America/New_York
+
+#### 9:00 AM — The Connecticut Avenue Bypass
 
 The next morning was significantly more relaxed. Without a rigid university itinerary demanding our presence at an aggressively air-conditioned student union, we took our time eating the free continental breakfast in the motel lobby before catching the CCT bus back to the Vienna transit center.
  
@@ -434,9 +440,9 @@ Cassandra turned the key, and the scooter hummed to life. She tested the throttl
 
 "Alright," Cassandra smiled, her hands resting comfortably on the handlebars. "The hills are no longer a variable. Which animals are we securing first?"
 
-### Scene 2: The Olmsted Walk
+***
 
-**Date:** 1995-07-01 at 10:30 America/New_York
+#### 10:30 AM — The Olmsted Walk
 
 The National Zoo's primary artery, the Olmsted Walk, is a massive, winding paved pathway that slopes aggressively downhill into the Rock Creek valley. By ten-thirty in the morning, the dense humidity of the D.C. summer had already turned the air into a thick, sweltering soup. 
 
@@ -478,9 +484,9 @@ Casey sniffled, wiping her nose with the back of her hand, but a small smile ret
 
 Cassandra smirked, hitting the throttle on her scooter and leading the charge as we began the final descent to the bottom of the hill.
 
-### Scene 3: The Pop-Up Storm
+***
 
-**Date:** 1995-07-01 at 12:15 America/New_York
+#### 12:15 PM — The Pop-Up Storm
 
 By the time we navigated the final steep grade down to the bottom of the Rock Creek valley, the oppressive midday heat had begun to mutate. The sky, which had been a clear, blistering blue all morning, suddenly turned a bruised, heavy shade of purple. 
 
@@ -520,9 +526,9 @@ I took a massive bite of my hamburger, perfectly content to wait out the storm.
 
 Casey sighed, carefully analyzing a soggy French fry before eating it. "I suppose the caloric intake is necessary. But the moment the precipitation stops, we are deploying to the lion enclosure."
 
-### Scene 4: The Wet Weather Metric
+***
 
-**Date:** 1995-07-01 at 13:30 America/New_York
+#### 1:30 PM — The Wet Weather Metric
 
 An hour later, the torrential downpour hadn't let up. If anything, the D.C. thunderstorm had dug in, turning the massive glass windows of the Mane Restaurant into a blurry, watery gray sheet. The sky was so dark the cafeteria’s overhead lights had kicked on. 
 
@@ -556,9 +562,9 @@ How did people who relied entirely on heavy power wheelchairs navigate severe we
 
 We sat in the booth for another thirty minutes, watching the rain hammer the pavement, waiting for the weather to finally yield.
 
-### Scene 5: The L'Enfant Maze
+***
 
-**Date:** 1995-07-01 at 14:30 America/New_York
+#### 2:30 PM — The L'Enfant Maze
 
 When the violent thunderstorm finally collapsed into a manageable, steady drizzle, we initiated the extraction. 
 
@@ -602,9 +608,9 @@ The doors finally opened, depositing us directly onto the street corner at 7th A
 
 We turned the corner, looking down Independence Avenue. Just one block away, the massive, imposing stone facade of the Finch Air and Space Museum dominated the skyline, entirely climate-controlled and waiting for us.
 
-### Scene 6: The
+***
 
-**Date:** 1995-07-01 at 14:45 America/New_York
+#### 2:45 PM — The "Air" Problem
 
 The moment we passed through the heavy revolving doors of the Finch Air and Space Museum, the brutal D.C. humidity was instantly replaced by a wall of aggressively purified, freezing air-conditioning. 
 
@@ -648,9 +654,11 @@ Casey immediately marched up to the Skylab exhibit, her eyes wide as she began a
 
 I stood in front of the Lunar Module, staring up at the fragile, insect-like landing legs. I didn't care that the museum was filled with airplanes. For the next two hours, I was completely lost in the stars.
 
-### Scene 7: Rocket Burger and the Return Vector
+### Part 2: Rocket Burger and the Return Vector & The GWU Rivalry and Deep Pressure
 
 **Date:** 1995-07-01 at 17:00 America/New_York
+
+#### 5:00 PM — Rocket Burger and the Return Vector
 
 At precisely 5:00 PM, the overhead lights in the Space Hall flickered. A polite but firm announcement echoed over the PA system, informing us that the Finch Air and Space Museum was officially closing for the day. 
 
@@ -686,9 +694,9 @@ By the time the train finally breached the surface and rolled into the median of
 
 We took the elevator down to the bus bays, boarded the CCT bus, and made the short, exhausted ride back to the motel in Fairfax.
 
-### Scene 8: The GWU Rivalry and Deep Pressure
+***
 
-**Date:** 1995-07-01 at 21:00 America/New_York
+#### 9:00 PM — The GWU Rivalry and Deep Pressure
 
 Back at the motel, the exhaustion of the day finally caught up with us. Mom and Dad had opened the heavy adjoining door between our two rooms, allowing the cool air-conditioning and the quiet hum of the television to drift back and forth. 
 
@@ -746,7 +754,9 @@ I loosened my grip on Casey just enough to let Cassandra wedge herself in. The t
 
 ## Chapter 4: The Return Vector
 
-### Scene 1: The Union Station Bottleneck
+### The Union Station Bottleneck & The Sibling Anchor
+
+#### 12:30 PM — The Union Station Bottleneck
 
 We woke up the next morning feeling the cumulative ache of a three-day, high-intensity transit deployment. We ate a quiet breakfast in the motel lobby, loaded up our luggage, and boarded the CCT bus one last time to make the short trip back to the Vienna surface station. 
 
@@ -786,7 +796,9 @@ The train pulled out of Washington, D.C. at 3:50 PM. For the next four hours, we
 
 By the time the train finally pulled into the Newport News (NPN) station at 8:09 PM, it was completely dark outside. We unloaded our bags and piled exhausted into the trusty family station wagon waiting in the parking lot.
 
-### Scene 2: The Monitor-Merrimac Detour
+***
+
+#### 9:00 PM — The Monitor-Merrimac Detour
 
 The drive from the Newport News station back to our house in Virginia Beach should have been a relatively straightforward shot down Interstate 64. But as Dad merged onto the highway, the local traffic radio station delivered a crushing logistical update. 
 
@@ -832,7 +844,9 @@ Casey let out a whimper, clutching her ears.
 
 We sat huddled together on my floor in the dark, waiting for the flashing to stop.
 
-### Scene 3: The Sibling Anchor
+***
+
+#### 10:00 PM — The Sibling Anchor
 
 The storm wasn't letting up. If anything, the coastal system was intensifying, dragging heavy sheets of rain across the roof of the house. 
 
@@ -866,7 +880,9 @@ The storm raged outside for another two hours, rattling the windowpanes and hamm
 
 ## Chapter 5: The Morning After
 
-### Scene 1: The Lightning Strike
+### The Lightning Strike & The Ecology Camp Logistics
+
+#### 8:00 AM — The Lightning Strike
 
 I woke up coughing. 
 
@@ -918,7 +934,9 @@ I nodded, grabbing Casey's hand. As we walked out of the room, I looked back at 
 
 The Washington scouting mission was officially over, but it felt like a completely different chapter of our lives was just beginning.
 
-### Scene 2: The Ecology Camp Logistics
+***
+
+#### 10:00 AM — The Ecology Camp Logistics
 
 Dad's buttermilk pancakes were legendary in our house, mostly because he cooked them with absolute, clinical precision. He used a digital timer and a laser thermometer on the griddle to ensure a perfectly uniform golden-brown crust on every single one. 
 
@@ -970,7 +988,9 @@ But looking at the sheer, unyielding determination on Cassandra's face, they kne
 
 ## Chapter 6: The VDU Deployment
 
-### Scene 1: The Junior Cohort
+### The Junior Cohort & The Assistant Manager
+
+#### 9:00 AM — The Junior Cohort
 
 The VDU Coastal Ecology Camp officially commenced on a sweltering Monday morning in late June. 
 
@@ -1018,7 +1038,9 @@ Casey's eyes lit up. The *Hooray for Rays* stingray touch tank was the brand new
 
 I smiled, leaning back against the trunk of the oak tree. The social aspects of camp were exhausting, but as long as we were partnered up, we could endure anything. We had our perfectly structured lunch, we had a clear itinerary for the week, and we had the science to look forward to.
 
-### Scene 2: The Ecology Lab
+***
+
+#### 1:00 PM — The Ecology Lab
 
 After we finished our meticulously packed lunch under the oak tree, a counselor blew a whistle, signaling the end of free time. The Junior Cohort was herded out of the humid afternoon heat and into one of VDU's sprawling undergraduate science buildings. 
 
@@ -1066,7 +1088,9 @@ The counselor blinked, looking back and forth between us. He had clearly never d
 
 "Agreed," Casey said, seamlessly returning her focus to the notebook. "Now, hand me the *Geukensia demissa*."
 
-### Scene 3: The Catalyst
+***
+
+#### 4:00 PM — The Catalyst
 
 When camp officially concluded for the day, Mom and Cassandra were waiting for us at the edge of the sprawling university quad. 
 
@@ -1124,7 +1148,9 @@ Casey looked at the envelope, then looked up at Cassandra. "Your probability of 
 
 Cassandra smiled. "I know."
 
-### Scene 4: The Assistant Manager
+***
+
+#### 6:00 PM — The Assistant Manager
 
 The rush hour traffic on Interstate 264 was brutal, turning the drive from Norfolk back to Virginia Beach into a crawling, exhaust-choked slog. Getting off the interstate was even worse. The intersection of Independence Boulevard and Bonney Road was a gridlocked nightmare of idling cars and blaring horns. 
 
@@ -1178,7 +1204,9 @@ Dad reached through the window and squeezed her shoulder. "You've got it. We cle
 
 ## Chapter 7: Week 1 - Coastal Ecology
 
-### Scene 1: The Chesapeake Crossing
+### The Chesapeake Crossing & Sample Recovery
+
+#### 8:30 AM — The Chesapeake Crossing
 
 By the time Friday morning rolled around, Casey and I had successfully navigated the grueling social gauntlet of the first four days of the VDU Coastal Ecology Camp. We were officially ready to deploy. 
 
@@ -1226,7 +1254,9 @@ The vans turned off the main highway and rumbled down a long, tree-lined access 
 
 Casey and I grabbed our shared gear bag. We had survived the transit, the data was successfully logged, and now it was time to do some real science.
 
-### Scene 2: The Squall
+***
+
+#### 10:30 AM — The Squall
 
 The beach at Kiptopeake State Park was a goldmine of coastal data. 
 
@@ -1268,7 +1298,9 @@ We waited under the wooden walkway for another twenty minutes. As quickly as the
 
 Casey slowly lowered her hands from her ears. The storm was over, and thanks to the counselor's quick logistical communication, our operational status was fully secured.
 
-### Scene 3: Sample Recovery
+***
+
+#### 11:00 AM — Sample Recovery
 
 We crawled out from beneath the wooden dune crossover, brushing the dry sand off our shorts. The beach looked completely different after the squall. The smooth, flat sand had been heavily disturbed by the driving rain, and the tide had visibly shifted. 
 
@@ -1310,7 +1342,9 @@ Week One of VDU Summer Camp was officially a success.
 
 ## Chapter 8: Week 2 - Atmospheric Dynamics
 
-### Scene 1: The Security Gate
+### The Security Gate & The Full-Scale Tunnel
+
+#### 9:00 AM — The Security Gate
 
 Week Two of the VDU Summer Camp was focused entirely on Atmospheric Dynamics. For the first four days on campus, we had studied the physics of moving air, pressure differentials, and drag coefficients. 
 
@@ -1354,7 +1388,9 @@ My resentment toward atmospheric flight faltered slightly. If this tunnel had be
 
 I looked up. The armed guards were waving our vans through the gate. The massive mechanical arms swung upward, and the convoy rolled forward, officially crossing the threshold onto the most legendary aeronautical research campus in the world.
 
-### Scene 2: The Full-Scale Tunnel
+***
+
+#### 10:00 AM — The Full-Scale Tunnel
 
 The VDU vans parked outside a massive, hangar-like building with a curved roof. From the outside, it didn't look like much, but the second we stepped through the heavy steel doors, the sheer scale of the engineering took my breath away. 
 
@@ -1396,7 +1432,9 @@ The counselor just sighed, giving the stunned grad student a helpless, apologeti
 
 ## Chapter 9: Week 3 - Aerospace
 
-### Scene 1: The Glass Elevator
+### The Glass Elevator & NovaScreen and the Gift Shop
+
+#### 9:30 AM — The Glass Elevator
 
 The massive glass-and-steel Dominion Air & Space Center in Hampton had only opened its doors three years earlier in 1992, which meant that by the summer of 1995, it was still a brand-new, state-of-the-art facility. 
 
@@ -1456,7 +1494,9 @@ We turned around. Mom and Cassandra were walking toward us from the ticketing ar
 
 "We are proceeding directly to the Apollo module," I said, already walking toward the darkened room.
 
-### Scene 2: Apollo and the Cafe
+***
+
+#### 10:30 AM — Apollo and the Cafe
 
 The space gallery was exactly the kind of environment my brain craved. It was dark, quiet, and completely devoid of the chaotic energy of the main atrium. 
 
@@ -1494,7 +1534,9 @@ Casey slowly lowered her fry. "Sensory input will be maximized. We will need to 
 
 We quickly finished our lunch, ensuring no food or drink crossed the strict perimeter of the cafe, and walked back out into the atrium to rejoin the rest of the Junior Cohort. It was time to leave the Earth behind.
 
-### Scene 3: NovaScreen and the Gift Shop
+***
+
+#### 1:00 PM — NovaScreen and the Gift Shop
 
 The logistics of a massive, large-format dome theater were unique. While the rest of the VDU summer campers funneled through the ground-floor entrance to climb the steep stadium stairs, our family bypassed the crowd entirely. 
 
@@ -1538,7 +1580,9 @@ We had successfully navigated the airplanes, documented the Apollo module, and e
 
 ## Chapter 10: Week 4 - Marine Biology
 
-### Scene 1: The Soft Opening
+### The Soft Opening & The Submission
+
+#### 9:00 AM — The Soft Opening
 
 Week Four was the grand finale of the VDU Summer Camp. The curriculum was Marine Biology, which meant our final Friday deployment was a trip to the Dominion Marine Science Museum right in our own backyard in Virginia Beach. 
 
@@ -1578,7 +1622,9 @@ She wasn't overloaded; she was completely, blissfully grounded. The intense, fre
 
 I stepped up to the glass beside her, keeping my hands dry, but smiling as I watched her operate. The math was perfect, the science was sound, and the deployment was a complete success.
 
-### Scene 2: The Catalyst Challenge
+***
+
+#### 3:00 PM — The Catalyst Challenge
 
 The VDU summer camp officially concluded in the parking lot of the student union in Norfolk. Dad was waiting for us by the family minivan, having taken the afternoon off from Rocket Burger to pick us up on our final day. 
 
@@ -1614,7 +1660,9 @@ She leaned back in her chair, crossing her arms.
 
 "They're going to realize exactly who they're dealing with."
 
-### Scene 3: The Submission
+***
+
+#### 4:00 PM — The Submission
 
 Cassandra tapped the final semicolon into her code editor and cracked her knuckles. 
 
@@ -1658,9 +1706,11 @@ The future was out there, waiting for us. All we had to do was calculate the tra
 
 ## Chapter 11: Northwest Pacific
 
-### Scene 1: The Departure
+### The Departure & The Hotel Logistics
 
 **Date:** 1995-08-23 at 06:00 America/Los_Angeles
+
+#### 6:00 AM — The Departure
 
 Only a few days after the VDU summer camp officially ended, our entire operational schedule was abruptly rewritten. Mom had been planning this logistical maneuver for months, but to Casey and me, it felt like an instantaneous warp across the continent. 
 
@@ -1706,9 +1756,9 @@ Cassandra's code was already out there, waiting in the servers of the Quantum Co
 
 Now, we were flying directly into their territory.
 
-### Scene 2: The Denver Layover
+***
 
-**Date:** 1995-08-23 at 11:30 America/Los_Angeles
+#### 11:30 AM — The Denver Layover
 
 The flight from Norfolk to Denver was remarkably smooth. I spent the majority of the four-hour flight analyzing the aerodynamic flex of the airliner's massive wings out the window, while Casey meticulously logged our altitude and heading changes in her notebook. 
 
@@ -1750,9 +1800,9 @@ Cassandra looked out the window, her jaw set in a tight, determined line. The co
 
 "Alright," Mom said, standing up and grabbing the handles of Cassandra's wheelchair. "Let's go to Seattle."
 
-### Scene 3: The Ride Free Area
+***
 
-**Date:** 1995-08-23 at 14:30 America/Los_Angeles
+#### 2:30 PM — The Ride Free Area
 
 The heavy cloud cover over the Pacific Northwest was a stark contrast to the blazing August sun we had left behind in Virginia. When we touched down at SEA and retrieved our luggage from baggage claim, the air outside the terminal was cool, damp, and smelled heavily of pine needles and jet fuel. 
 
@@ -1802,9 +1852,9 @@ We were standing on The Ave. The air was crisp, the streets were lined with coff
 
 Cassandra took a deep breath, gripping the handrims of her wheelchair. She was officially in Quantum Corporation's backyard.
 
-### Scene 4: The Topography
+***
 
-**Date:** 1995-08-23 at 16:00 America/Los_Angeles
+#### 4:00 PM — The Topography
 
 We checked into our hotel on University Way Northeast, dropped our heavy backpacks in the room, and immediately set out to establish a perimeter around the Northwest Pacific University campus. 
 
@@ -1840,9 +1890,9 @@ Cassandra sat in her chair, staring up at the towering, gothic library at the ab
 
 "Quantum Corporation is headquartered right across the lake," Cassandra said, unlocking her brakes and turning her chair toward the nearest academic building to test Casey's elevator theory. "I am not letting a hill stop me from taking their money."
 
-### Scene 5: The Hotel Logistics
+***
 
-**Date:** 1995-08-23 at 20:00 America/Los_Angeles
+#### 8:00 PM — The Hotel Logistics
 
 By the time we retreated to the hotel on University Way, we were all physically destroyed. The topography of the NPU campus had drained our collective physical battery down to zero. 
 
@@ -1888,9 +1938,11 @@ Tomorrow, we were going to the NPU Open House.
 
 ## Chapter 12: The Open House
 
-### Scene 1: The Engineering Quad
+### Part 1: The Engineering Quad & The Two Paths
 
 **Date:** 1995-08-24 at 09:00 America/Los_Angeles
+
+#### 9:00 AM — The Engineering Quad
 
 The next morning, the heavy Seattle cloud cover finally broke, bathing the Northwest Pacific University campus in brilliant, crisp sunlight. 
 
@@ -1928,9 +1980,9 @@ Cassandra looked back at Mom and Dad. Her breathing was already starting to acce
 
 "No," Cassandra said, locking her brakes and taking a deep, shuddering breath to manually force her heart rate down. "I uploaded my code. I am here. We execute the mission."
 
-### Scene 2: The Quantum Pavilion
+***
 
-**Date:** 1995-08-24 at 09:30 America/Los_Angeles
+#### 9:30 AM — The Quantum Pavilion
 
 Cassandra pushed her wheelchair across the manicured grass of the engineering quad, moving with the sheer, singular focus of a heat-seeking missile. 
 
@@ -1990,9 +2042,9 @@ But he had just given her absolute, undeniable validation.
 
 "No," Ballantine grinned, standing back up and looking down at her like he was looking at the future of his entire empire. "Thank *you*, Cassandra."
 
-### Scene 3: The Quantaneers
+***
 
-**Date:** 1995-08-24 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Quantaneers
 
 As Steve Ballantine marched off to greet another group of university faculty, Cassandra turned her wheelchair toward the main Quantum demonstration booth. 
 
@@ -2034,9 +2086,9 @@ I stood next to Mom, silently observing the interaction. Cassandra wasn't shrink
 
 "Maybe sooner," Cassandra replied smoothly, unlocking her brakes and turning her chair back toward the open quad.
 
-### Scene 4: The Internal Elevators
+***
 
-**Date:** 1995-08-24 at 11:00 America/Los_Angeles
+#### 11:00 AM — The Internal Elevators
 
 With the Quantum Corporation encounter successfully resolved, we merged back into the general population of prospective students for the official NPU campus tour. 
 
@@ -2078,9 +2130,9 @@ And she had Steve Ballantine's absolute validation.
 
 She just had to win the Catalyst Initiative.
 
-### Scene 5: The Two Paths
+***
 
-**Date:** 1995-08-24 at 13:00 America/Los_Angeles
+#### 1:00 PM — The Two Paths
 
 The official open house concluded with a massive, complimentary lunch in the primary NPU dining hall. The room was a sprawling, cavernous space filled with long wooden tables, echoing with the chaotic chatter of hundreds of prospective students and their parents. 
 
@@ -2104,9 +2156,11 @@ I looked at Cassandra. She had built a 45-kilobyte, real-time 3D rendering engin
 
 She had done everything right. Now, all we could do was fly back to Virginia and wait for the results.
 
-### Scene 6: The Logistics of Care
+### Part 2: The Logistics of Care & The Vacation Protocol
 
 **Date:** 1995-08-24 at 15:00 America/Los_Angeles
+
+#### 3:00 PM — The Logistics of Care
 
 By mid-afternoon, we had retreated to the hotel on University Way. The high-stakes, operational phase of the trip was officially over, and Dad had declared that the next three days were going to be a pure family vacation. If Cassandra was potentially moving to Seattle next year, she needed to understand the region beyond just the brick pathways of the university quad. 
 
@@ -2140,9 +2194,9 @@ Cassandra turned her head on the pillow, looking at me with a tired, genuine smi
 
 Mom laughed softly, finishing the stretching routine and pulling the blankets up over Cassandra's legs. "We appreciate the contingency plan, kiddo. But for now, your only job is to help us figure out where we're going for dinner tonight."
 
-### Scene 7: The Vacation Protocol
+***
 
-**Date:** 1995-08-24 at 19:00 America/Los_Angeles
+#### 7:00 PM — The Vacation Protocol
 
 Dad and Casey returned to the hotel room a few minutes later, balancing a cardboard tray of massive iced coffees. Casey immediately moved to her side of our shared bed, carefully aligning her drink with the edge of the nightstand. 
 
@@ -2178,9 +2232,11 @@ The Emerald City was ready for her. We just had to wait for the phone to ring.
 
 ## The Emerald City
 
-### Scene 1: The Century Spire
+### Part 1: The Century Spire & Lake Washington
 
 **Date:** 1995-08-24 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — The Century Spire
 
 The next morning, we executed Casey's tourist itinerary precisely as written. We navigated the multi-level labyrinth of the Pioneer Public Market, using the hidden service elevators behind the fishmongers to bypass the stairs. Then, we boarded the downtown monorail, riding the elevated track straight to the base of the Century Spire. 
 
@@ -2218,9 +2274,9 @@ It was an absolute sensory haven. We didn't have to navigate steep hills, we did
 
 For the first time all week, we just got to be geeks.
 
-### Scene 2: The Planetarium
+***
 
-**Date:** 1995-08-24 at 12:00 America/Los_Angeles
+#### 12:00 PM — The Planetarium
 
 By noon, our family had completely recovered our equilibrium. We migrated from the interactive physics wing of the Cascadia Science Center and headed straight for the massive, iconic white dome of the planetarium. 
 
@@ -2250,9 +2306,9 @@ We sat in the dark for forty-five minutes. When the lights finally came back up 
 
 "Alright," Dad said, standing up and stretching his legs. "We have conquered the cosmos. Who is ready to conquer lunch?"
 
-### Scene 3: The Emperor of Redmond
+***
 
-**Date:** 1995-08-24 at 14:00 America/Los_Angeles
+#### 2:00 PM — The Emperor of Redmond
 
 After a quick lunch at the Seattle Center armory, Cassandra called a logistical audible. 
 
@@ -2306,9 +2362,9 @@ Cassandra's jaw practically unhinged. "Yes. Absolutely, yes."
 
 The Emperor of Redmond smiled, clasped his hands behind his back, and began walking us through the museum, personally guiding a high school senior through the history of computing.
 
-### Scene 4: The Zenith Motherboard
+***
 
-**Date:** 1995-08-24 at 14:15 America/Los_Angeles
+#### 2:15 PM — The Zenith Motherboard
 
 "You have to understand the operational context of 1975," William Keswick said, walking backward down the museum aisle with the casual ease of a man who owned the entire building. "Arthur and I didn't actually own a Zenith 8800. They were incredibly expensive, and we were broke college kids. So, we wrote the entire Q-Code interpreter using an emulator on a massive university mainframe."
 
@@ -2346,9 +2402,9 @@ He didn't say anything else about her code, or the university, or why Steve Ball
 
 "Absolutely," Cassandra replied, wheeling forward.
 
-### Scene 5: The Five-Megabyte Monolith
+***
 
-**Date:** 1995-08-24 at 14:30 America/Los_Angeles
+#### 2:30 PM — The Five-Megabyte Monolith
 
 William Keswick led us past the Zenith 8800 and toward the back of the gallery. The entire rear wall of the museum was dominated by a massive glass enclosure holding an industrial machine the size of two large refrigerators. 
 
@@ -2390,9 +2446,9 @@ Dad let out a long, slow breath. "Did that actually just happen?"
 
 "I don't care about the statistics," Cassandra smiled, looking back at the massive five-megabyte monolith. "I just met William Keswick."
 
-### Scene 6: Lake Washington
+***
 
-**Date:** 1995-08-24 at 17:00 America/Los_Angeles
+#### 5:00 PM — Lake Washington
 
 By the time we boarded the westbound TAPS Route 254 to head back to Seattle, the reality of what had just happened was finally settling in. 
 
@@ -2420,7 +2476,7 @@ Thirty minutes later, we were sitting in a crowded waterfront restaurant near th
 
 After dinner, we boarded one final northbound bus back to the University District, navigating the crowded sidewalks of The Ave until we finally reached our hotel. It had been an incredibly long, exhausting, sensory-overwhelming day.
 
-### Scene 7: The Privacy Protocol
+### Part 2: The Privacy Protocol
 
 **Date:** 1995-08-24 at 20:00 America/Los_Angeles
 
@@ -2464,9 +2520,11 @@ It was, objectively, the greatest Thursday of my entire life.
 
 ## Chapter 14: The Deep End
 
-### Scene 1: Siren Roasters
+### Siren Roasters & The Extraction
 
 **Date:** 1995-08-25 at 08:00 America/Los_Angeles
+
+#### 8:00 AM — Siren Roasters
 
 Friday morning hit me like a physical blow. When my alarm went off at seven o'clock, my legs were entirely stiff, protesting the massive amount of walking I had done the day before. 
 
@@ -2502,9 +2560,9 @@ We took his advice. Five minutes later, we were sitting on a set of wooden bench
 
 "Alright, team," Dad smiled, finishing his coffee from the bakery and throwing the empty cup into a nearby trash can. "Fuel reserves are full. We have a massive day ahead of us. First stop: The Puget Sound Aquarium."
 
-### Scene 2: The Underwater Dome
+***
 
-**Date:** 1995-08-25 at 09:30 America/Los_Angeles
+#### 9:30 AM — The Underwater Dome
 
 After obliterating our breakfast pastries, we navigated the wooden planks of Pier 59 to the entrance of the Puget Sound Aquarium. Because it was early on a Friday morning, we managed to beat the massive influx of summer tourists. 
 
@@ -2536,9 +2594,9 @@ I looked back at Cassandra. She had wheeled herself into the absolute center of 
 
 For the next forty-five minutes, we didn't look at schedules, we didn't calculate logistics, and we didn't talk about college. We just sat in the cool, silent blue of the Underwater Dome, watching the world float by.
 
-### Scene 3: The Gift Shop
+***
 
-**Date:** 1995-08-25 at 10:45 America/Los_Angeles
+#### 10:45 AM — The Gift Shop
 
 Like all major tourist attractions, the Puget Sound Aquarium aggressively funneled all exiting foot traffic directly through the massive, brightly lit gift shop. 
 
@@ -2570,9 +2628,9 @@ With our carefully curated artifacts secured and paid for, we exited the gift sh
 
 Casey pulled out her notebook, shielding her eyes from the glare. "According to the itinerary, our next stop is located inland, in Pioneer Square. We are heading to the Klondike Gold Rush National Historical Park."
 
-### Scene 4: The Prospector's Registry
+***
 
-**Date:** 1995-08-25 at 11:30 America/Los_Angeles
+#### 11:30 AM — The Prospector's Registry
 
 We took a short bus ride south through downtown, transferring to Pioneer Square. Nestled into the historic brick architecture of the neighborhood was our next stop: the Seattle unit of the Klondike Gold Rush National Historical Park. 
 
@@ -2608,9 +2666,9 @@ We all laughed, completely dismissing the entry as a fun historical coincidence.
 
 He looked at me, a massive smile spreading across his face. "Who is ready to go see some airplanes?"
 
-### Scene 5: TAPS Route 174
+***
 
-**Date:** 1995-08-25 at 12:15 America/Los_Angeles
+#### 12:15 PM — TAPS Route 174
 
 To get to the Pacific Aerospace Museum, we had to travel several miles south of downtown Seattle to King County International Airport, historically known as Pacific Aerospace Field. 
 
@@ -2648,9 +2706,9 @@ Rising up against the gray sky, sitting directly on the edge of the King County 
 
 "Finally," Cassandra breathed, dropping the glass orb back into her bag and unlocking her brakes. "Get me off this tin can."
 
-### Scene 6: The Great Gallery
+***
 
-**Date:** 1995-08-25 at 13:00 America/Los_Angeles
+#### 1:00 PM — The Great Gallery
 
 If there is one thing Seattle understood better than coffee and rain, it was aviation. 
 
@@ -2694,9 +2752,9 @@ For the next two hours, we explored every inch of the museum. Dad took us outsid
 
 By the time we regrouped in the lobby at three o'clock, we were completely exhausted, entirely out of calories, and ready to head back to the hotel.
 
-### Scene 7: The Extraction
+***
 
-**Date:** 1995-08-25 at 16:30 America/Los_Angeles
+#### 4:30 PM — The Extraction
 
 By the time we walked out of the Pacific Aerospace Museum, our collective energy reserves were completely depleted. 
 
@@ -2734,9 +2792,11 @@ Casey was right. It had been a highly successful operation.
 
 ## Chapter 15: The Pre-Dawn Run
 
-### Scene 1: The 174 Southbound
+### The 174 Southbound & The Chicago Layover
 
 **Date:** 1995-08-26 at 04:30 America/Los_Angeles
+
+#### 4:30 AM — The 174 Southbound
 
 My alarm went off at 3:30 in the morning. 
 
@@ -2768,9 +2828,9 @@ The driver locked her wheelchair into the securement zone while Mom, Casey, and 
 
 "If I survive this trip," Cassandra muttered, pulling her hood up over her head and leaning against the cold glass window, "I am never leaving the East Coast again."
 
-### Scene 2: The Gateway Counter
+***
 
-**Date:** 1995-08-26 at 06:00 America/Los_Angeles
+#### 6:00 AM — The Gateway Counter
 
 The Route 174 finally deposited us at the curbside drop-off of Seattle-Tacoma International Airport just as the sun began to breach the horizon, painting the thick Pacific Northwest clouds in brilliant streaks of orange and purple. 
 
@@ -2800,9 +2860,9 @@ Just like that, we were standing in the main concourse of the airport, completel
 
 "Alright," Dad smiled, pointing down the concourse toward our gate. "Who wants an outrageously overpriced airport bagel before we board?"
 
-### Scene 3: The Chicago Layover
+***
 
-**Date:** 1995-08-26 at 14:00 America/Los_Angeles
+#### 2:00 PM — The Chicago Layover
 
 The four-hour flight from Seattle to Chicago was completely uneventful. We were so exhausted from the grueling pace of the vacation that the moment the Gateway Airlines PAC 737 reached cruising altitude, all three of us fell asleep. 
 
@@ -2840,9 +2900,11 @@ We boarded our final Gateway Airlines flight, settling into our seats as the sun
 
 ## Chapter 16: The Catalyst
 
-### Scene 1: The Call
+### The Call & The Sleepover
 
 **Date:** 1996-04-21 America/Los_Angeles
+
+#### The Call
 
 The heavy black box had arrived via overnight courier while we were at school. 
 
@@ -2892,9 +2954,9 @@ Mom immediately wrapped her arms around Cassandra's shoulders, crying just as ha
 
 "I'll see you in September, Cassandra," Keswick said, a smile evident in his voice. "Welcome to Quantum."
 
-### Scene 2: The Celebration
+***
 
-**Date:** 1996-04-21 at 19:00 America/Los_Angeles
+#### 7:00 PM — The Celebration
 
 By six o'clock, our small suburban house was completely packed. 
 
@@ -2944,9 +3006,9 @@ But looking at her now, laughing in the center of the kitchen with her official 
 
 Cassandra Vance hadn't just survived the friction. She had used it to launch herself into the stratosphere.
 
-### Scene 3: The Sleepover
+***
 
-**Date:** 1996-04-21 at 23:30 America/Los_Angeles
+#### 11:30 PM — The Sleepover
 
 By ten o'clock, the celebratory energy had finally burned itself out. 
 
@@ -2996,9 +3058,11 @@ The physical hardware was relocating, but the connections were permanent.
 
 ## Chapter 1: The Semester Baseline
 
-### Scene 1: The Syllabus
+### The Syllabus & The Apartment
 
 **Date:** 2004-08-30 at 10:00 America/New_York
+
+#### 10:00 AM — The Syllabus
 
 The Fall 2004 semester at the Community College of Hampton Roads officially began at nine in the morning on a muggy Monday in late August. 
 
@@ -3038,9 +3102,9 @@ Kristine smiled, a warm, perfectly calibrated expression that immediately put me
 
 I wrote my cell phone number down on the corner of her notebook. She tore the corner off, slipped it into her pocket, and walked out the door into the crowded hallway.
 
-### Scene 2: The Library
+***
 
-**Date:** 2004-08-30 at 13:00 America/New_York
+#### 1:00 PM — The Library
 
 By one o'clock, the afternoon heat outside was sweltering, making the heavy air conditioning of the CCHR campus library feel like an absolute sanctuary. 
 
@@ -3084,9 +3148,9 @@ I picked up my pen, shifting my focus back to the page. "Let's start with the ce
 
 I was looking at the textbook, but my processor was still spinning in the background. I had deliberately withheld Liz's identity, and I could already tell that Kristine had filed that missing variable away in her memory banks.
 
-### Scene 3: The Integumentary System
+***
 
-**Date:** 2004-08-30 at 13:30 America/New_York
+#### 1:30 PM — The Integumentary System
 
 For the next thirty minutes, I attempted to walk Kristine through the structural fundamentals of the human body. We moved through the anatomical planes of reference, quickly bypassing cellular biology, and landed on the integumentary system. 
 
@@ -3124,9 +3188,9 @@ I looked at her, then looked at the textbook, and then looked back at her.
 
 Kristine's smile widened in absolute triumph. She immediately stood up and began sweeping her supplies into her messenger bag.
 
-### Scene 4: The Apartment
+***
 
-**Date:** 2004-08-30 at 14:00 America/New_York
+#### 2:00 PM — The Apartment
 
 Kristine's apartment was located in a sprawling complex less than a mile off the CCHR campus. The moment we stepped inside, she closed the heavy front door and engaged the deadbolt with a sharp, metallic click. 
 
@@ -3182,9 +3246,11 @@ She let out a shaky breath and leaned forward, wrapping her arms around my neck 
 
 ## Chapter 2: The Reboot
 
-### Scene 1: The Apology
+### The Apology & The Dinner
 
 **Date:** 2004-09-01 at 09:45 America/New_York
+
+#### 9:45 AM — The Apology
 
 I arrived at the CCHR science building exactly fifteen minutes before the start of my Wednesday Anatomy and Physiology lecture. 
 
@@ -3222,9 +3288,9 @@ I reached out and shook her hand. "I'm David. And we can start with chapter two 
 
 Kristine's smile finally reached her eyes. The heavy, volatile tension of the last two days completely evaporated, replaced by a quiet, grounded baseline. We turned and walked into the lecture hall together.
 
-### Scene 2: The Text Message
+***
 
-**Date:** 2004-09-01 at 13:00 America/New_York
+#### 1:00 PM — The Text Message
 
 Following the morning lecture, Kristine and I relocated to a small, circular table in the student center cafeteria. 
 
@@ -3270,9 +3336,9 @@ Kristine's eyes widened slightly, as if she couldn't believe I would do somethin
 
 She picked up her pen and looked back down at her notes. I opened my textbook, feeling a quiet sense of satisfaction. I had successfully managed a structural emotional crisis, and I had provided a safe anchor for someone who desperately needed it.
 
-### Scene 3: The Introduction
+***
 
-**Date:** 2004-09-01 at 17:00 America/New_York
+#### 5:00 PM — The Introduction
 
 By five o'clock, the student center had grown entirely too loud for effective studying. I gathered my textbooks and looked across the table at Kristine. 
 
@@ -3310,9 +3376,9 @@ I stood by the front door, feeling a deep sense of relief. Kristine was being pe
 
 I smiled, picking up my backpack. I had successfully managed a volatile variable and integrated her into my safe, stable environment. I was completely, entirely confident that everything was going to be fine.
 
-### Scene 4: The Dinner
+***
 
-**Date:** 2004-09-01 at 18:00 America/New_York
+#### 6:00 PM — The Dinner
 
 The Vance family dinner table was notoriously welcoming, operating on a frequency of warmth and inclusion that usually overwhelmed guests. Tonight, however, Kristine navigated the environment with flawless precision. 
 
@@ -3344,9 +3410,11 @@ Everything was fine.
 
 ## Chapter 3: The Chesapeake Deployment
 
-### Scene 1: The Chesapeake Deployment
+### The Chesapeake Deployment & The Crocodile Tears
 
 **Date:** 2004-09-25 at 14:00 America/New_York
+
+#### 2:00 PM — The Chesapeake Deployment
 
 The transition into late September brought a noticeable shift in Kristine’s behavior. She required a near-constant level of attention and physical proximity. If I wasn't in class, she wanted me to be with her. It was exhausting, but my caretaking protocols told me that I was successfully keeping her anchored. 
 
@@ -3398,9 +3466,9 @@ I stood there, completely paralyzed by the sudden emotional explosion. I looked 
 
 "David," Meredith said quietly, her hand finally dropping away from the medical bag. "Who the hell is that, and why is she treating you like a hostage?"
 
-### Scene 2: The Food Court De-Escalation
+***
 
-**Date:** 2004-09-25 at 14:15 America/New_York
+#### 2:15 PM — The Food Court De-Escalation
 
 I spent the next ten minutes rapidly scanning the central concourse of Tidewater Square Mall, trying to locate Kristine. Meredith walked quietly beside me, her heavy medical bag slung over her shoulder. 
 
@@ -3448,9 +3516,9 @@ It wasn't romantic. It wasn't sexually charged. It was an expression of absolute
 
 She pulled away, opened the driver's side door, and tossed her medical bag onto the back seat. I sighed, opening the passenger door and sliding in beside her.
 
-### Scene 3: The Family Debrief
+***
 
-**Date:** 2004-09-25 at 15:30 America/New_York
+#### 3:30 PM — The Family Debrief
 
 Meredith didn't just drop me off in the driveway. 
 
@@ -3496,9 +3564,9 @@ Meredith walked over and gave me one last, fiercely protective hug.
 
 She walked out the front door, leaving me standing in the living room with my deeply concerned parents. My logical brain told me Meredith was overreacting. But deep down, the fact that the pack was activating its emergency protocols made my stomach twist with dread.
 
-### Scene 4: The Crocodile Tears
+***
 
-**Date:** 2004-09-25 at 19:00 America/New_York
+#### 7:00 PM — The Crocodile Tears
 
 The house felt heavy after dinner. Mom and Dad had spent the entire meal trying to gently probe my relationship with Kristine, heavily influenced by Meredith’s tactical debrief. I deflected their questions, retreating to my bedroom the second my plate was clear. 
 
@@ -3548,7 +3616,7 @@ I had no idea that I was walking directly into a psychological trap. I had compl
 
 ## Chapter 4: The Patch
 
-### Scene 1: The Reunion
+### The Reunion
 
 **Date:** 2004-09-26 at 12:00 America/New_York
 
@@ -3592,9 +3660,11 @@ I didn't realize that her promise to change wasn't an apology. It was a recalibr
 
 ## Chapter 5: The Delete Key
 
-### Scene 1: The Ultimatum
+### The Ultimatum & The Compromise
 
 **Date:** 2004-10-04 at 15:00 America/New_York
+
+#### 3:00 PM — The Ultimatum
 
 October arrived with a sharp drop in temperature, forcing the CCHR student body indoors. Kristine and I were sitting in the corner of the crowded campus coffee shop. For the last four weeks, our routine had been absolute: we attended lectures together, we studied together, and she frequently came over to the house for dinner. She had become a permanent fixture in my operational schedule. 
 
@@ -3654,9 +3724,9 @@ Kristine let out a shaky breath, the tears instantly stopping. She walked back t
 
 I hugged her back. The situation was finally stable, and she wasn't crying anymore. My analytical brain told me it was just a symbolic gesture, an empty data deletion, but as she held onto me, a quiet, unfamiliar sense of unease settled deep in my chest.
 
-### Scene 2: The Compromise
+***
 
-**Date:** 2004-10-04 at 19:00 America/New_York
+#### 7:00 PM — The Compromise
 
 The house was relatively quiet when I finally retreated to my bedroom that evening.  
 
@@ -3694,9 +3764,11 @@ I leaned back against my pillows, completely confident in my new strategy.
 
 ## Chapter 6: The Three-Way Call
 
-### Scene 1: The Holiday Plans
+### The Holiday Plans & The Invitation
 
 **Date:** 2004-10-09 at 14:00 America/New_York
+
+#### 2:00 PM — The Holiday Plans
 
 The house was completely silent, which was exactly how I needed it to be. 
 
@@ -3742,9 +3814,9 @@ I hung up the phone a few minutes later, feeling a deep, stabilizing sense of vi
 
 I had everything under control.
 
-### Scene 2: The Invitation
+***
 
-**Date:** 2004-10-09 at 17:30 America/New_York
+#### 5:30 PM — The Invitation
 
 I was sitting at my desk, running through a series of chemistry equations, when my cell phone buzzed against the wood. 
 
@@ -3792,9 +3864,11 @@ I hung up the phone, feeling like I had just solved the most complex equation in
 
 ## Chapter 7: The Mask
 
-### Scene 1: The Terminal
+### The Terminal & The Perimeter Shift
 
 **Date:** 2004-11-24 at 15:15 America/New_York
+
+#### 3:15 PM — The Terminal
 
 The drive down Interstate 64 to Norfolk International Airport was buzzing with anticipation. I had both hands gripping the steering wheel of my mother’s standard sedan, my leg bouncing lightly against the floorboard. It had been months since I had seen Cassandra and Casey, and my processor was eagerly counting down the minutes until their flight from Seattle landed.
 
@@ -3828,9 +3902,9 @@ I set her down, keeping one arm wrapped securely around her shoulders, and turne
 
 But as I pulled my arm back from Casey, I felt Kristine step immediately into my space. She slid her hand smoothly down my arm, lacing her fingers tightly through mine, and pressed her side flush against my ribs. Her grip was just a fraction too tight, but I assumed she was just nervous meeting my family, so I squeezed her hand back to reassure her.
 
-### Scene 2: The Return to the Coast
+***
 
-**Date:** 2004-11-24 at 18:15 America/New_York
+#### 6:15 PM — The Return to the Coast
 
 We gathered their luggage and loaded up the trunk. The drive to Virginia Beach was filled with easy, rapid-fire catching up between me, Cassandra, and Casey. Kristine chimed in politely from the passenger seat, asking standard, friendly questions about the flight and the Seattle weather.
 
@@ -3846,9 +3920,9 @@ Out of the corner of my eye, I caught Kristine shifting in her armchair across t
 
 Kristine took a slow sip of her drink. She didn't say a word to interrupt the sibling cuddles or complain about the conversation, but a vague, unplaceable need to manage her mood began to quietly hum in the back of my mind. I quickly convinced myself it was just standard adult relationship maintenance, and that she just wanted to make sure she was the most important girl in the room.
 
-### Scene 3: The Perimeter Shift
+***
 
-**Date:** 2004-11-24 at 20:30 America/New_York
+#### 8:30 PM — The Perimeter Shift
 
 Since we needed to return Wendy's car to her, my mother grabbed her keys once the visit wrapped up. She drove the four of us out of Virginia Beach, crossing the water and dropping us off directly at the curb of Kristine’s apartment building in Portsmouth before waving goodbye and driving off into the night.
 
@@ -3884,9 +3958,11 @@ But the second we were alone, Kristine wrapped her arms around my neck, pulling 
 
 ## Chapter 8: The Ambush
 
-### Scene 1: The Morning Anchor
+### The Morning Anchor & The Hard Sever
 
 **Date:** 2004-11-25 at 07:00 America/New_York
+
+#### 7:00 AM — The Morning Anchor
 
 I woke up early on Thursday morning, long before the gray daylight fully filtered through the bedroom blinds. Beside me, Kristine was still fast asleep, her breathing slow and heavy.
 
@@ -3964,9 +4040,9 @@ Kristine just offered a terse, non-committal shrug, refusing to engage with the 
 
 I leaned back against the sofa cushions, feeling a vague, confusing friction settling over the room. We tried a few more times to pull her into our commentary about the parade performances, but her answers remained clipped and distinctly bothered. I couldn't figure out the social math. My sisters were being perfectly friendly, and I was doing my best to be an attentive partner, but Kristine was radiating a quiet, simmering annoyance.
 
-### Scene 2: The Kitchen Ambush
+***
 
-**Date:** 2004-11-25 at 14:00 America/New_York
+#### 2:00 PM — The Kitchen Ambush
 
 The comfortable sanctuary of the living room held steady into the early afternoon. By two o'clock, the parade broadcast had ended, but the three of us remained anchored to the sofa, happily chatting and enjoying the rare, uninterrupted proximity of our pack.
 
@@ -4047,9 +4123,9 @@ Cassandra engaged the brakes on her chair. She reached out and wrapped her hand 
 
 "Take a breath, David," Cassandra said, her tone finally softening back into the sister I knew. "I know that was scary. But I will *never* let anyone treat you, or our family, like that. Meredith and Morgan are bringing the minivan. You are safe now."
 
-### Scene 3: The Hard Sever
+***
 
-**Date:** 2004-11-25 at 14:30 America/New_York
+#### 2:30 PM — The Hard Sever
 
 The cold November wind whipped across the concrete curb, biting through my thin jacket.
 
@@ -4105,9 +4181,11 @@ I sat sandwiched safely next to Casey, who immediately rested her head on my sho
 
 ## Chapter 9: The Crossroads
 
-### Scene 1: The Golden Architecture
+### Part 1: The Golden Architecture & The Hard Sever
 
 **Date:** 2004-11-25 at 15:15 America/New_York
+
+#### 3:15 PM — The Golden Architecture
 
 The drive back to Virginia Beach in the back of the Delaney minivan was intense. The second the heavy sliding doors slammed shut and we were safely enclosed within the pack's perimeter, Meredith and Morgan immediately initiated a debrief.
 
@@ -4169,9 +4247,9 @@ Cassandra set her silver cell phone on the coffee table.
 
 "Elizabeth is living in Dayton and commuting to Harrisonburg for classes at Shenandoah Valley University," Cassandra explained. "If you choose Dayton, Elizabeth will help you enroll at SVU. I will still fund your tuition completely, and you will get the in-state rates. You will have a place to live, a degree path, and your best friend."
 
-### Scene 2: The Executive Reality
+***
 
-**Date:** 2004-11-25 at 15:30 America/New_York
+#### 3:30 PM — The Executive Reality
 
 I sat leaning against the headboard of my childhood bed, my arms wrapped securely around Casey. She was curled into my chest, her breathing finally evening out as the deep-pressure contact did its job. She was still visibly rattled by the sheer, naked hostility of the kitchen ambush, and even though Cassandra had explicitly told me I had nothing to apologize for, this was my way of saying I was sorry for dragging her into a hostile environment. 
 
@@ -4219,9 +4297,9 @@ I gently untangled my arm from Casey, who let out a soft, sleepy hum of protest,
 
 I flipped it open, staring at the blank screen, the dial pad waiting for my input. The bedroom was perfectly quiet. I had a choice to make.
 
-### Scene 3: The Hard Sever
+***
 
-**Date:** 2004-11-25 at 15:45 America/New_York
+#### 3:45 PM — The Hard Sever
 
 I took a deep breath, letting the physical presence of the pack ground me. I wasn't losing my life. I was taking it back.
 
@@ -4307,9 +4385,11 @@ Casey stirred against my chest. She blinked her eyes open, her own eyes instantl
 
 "I don't want to wait until the spring," I sobbed quietly into the phone, completely dropping the mask. "I want all of you. Right now. I just want my family."
 
-### Scene 4: The Twenty-One Day Bridge
+### Part 2: The Twenty-One Day Bridge & The Birthday Buyout
 
 **Date:** 2004-11-25 at 16:00 America/New_York
+
+#### November 25, 2004 • 4:00 PM — The Twenty-One Day Bridge
 
 The silence on the line was deafening, save for the ragged, uneven sound of my breathing. I had completely buried my face in Casey’s hair, my hands clutching the silver phone so tightly my knuckles were white. 
 
@@ -4385,9 +4465,9 @@ I pulled Casey into a crushing, deep-pressure hug. The rock and the hard place h
 
 "I'll see you on December 17th, David," Liz promised, her voice radiating pure warmth. "Study hard. I love you."
 
-### Scene 5: The Birthday Buyout
+***
 
-**Date:** 2004-11-26 at 21:30 America/New_York
+#### November 26, 2004 • 9:30 PM — The Birthday Buyout
 
 After we hung up with Liz and Erin, the chaotic energy in my childhood bedroom finally began to settle. The Delaneys stayed for another hour, standing guard like a physical wall, until my mother quietly brought in a tray of leftover Thanksgiving pie. 
 
@@ -4447,9 +4527,11 @@ When she reached the final payment gateway, she inputted her name as the primary
 
 ## Chapter 10: The Severance
 
-### Scene 1: The Checkpoint
+### The Checkpoint & The Firewall
 
 **Date:** 2004-11-27 at 08:30 America/New_York
+
+#### 8:30 AM — The Checkpoint
 
 The harsh fluorescent lights of the Norfolk International Airport departures terminal offered no comfort. It was Saturday morning, and the reality of the twenty-one-day bridge was officially here.
 
@@ -4465,9 +4547,9 @@ Despite knowing the logic, and despite the absolute guarantee of December 17th, 
 
 Casey let out one last, shuddering breath and slowly untangled herself from my grip. She wiped her eyes, giving me a brave, fragile nod. Cass reached up, squeezing my hand tightly, before wheeling herself through the security line with Casey right behind her. I stood at the edge of the checkpoint, completely frozen, watching them until they disappeared around the corner toward the gates.
 
-### Scene 2: The Firewall
+***
 
-**Date:** 2004-11-27 at 14:15 America/New_York
+#### 2:15 PM — The Firewall
 
 The next three weeks moved in a surreal, regulatory blur. Moving back into Mom’s house in Virginia Beach was the safest logistical move. I threw all of my excess processing power into my classes, burying myself in textbooks and study guides to finish out the semester. 
 
@@ -4519,9 +4601,11 @@ She looked up and saw me standing in the hallway.
 
 ## Chapter 11: The Executive Ascent
 
-### Scene 1: Burton Station Road
+### Burton Station Road & The Moving Logistics
 
 **Date:** 2004-12-17 at 13:30 America/New_York
+
+#### 1:30 PM — Burton Station Road
 
 The calendar eventually surrendered.
 
@@ -4545,9 +4629,9 @@ I jumped out of Mom's car and met them at the gate. Casey collided with me, wrap
 
 We drove back to Virginia Beach, the east-coast consolidation of our pack finally underway. But the perimeter wasn't quite complete yet.
 
-### Scene 2: The Flight Data
+***
 
-**Date:** 2004-12-17 at 14:00 America/New_York
+#### 2:00 PM — The Flight Data
 
 The drive back to Virginia Beach operated on a completely different frequency than the tense, quiet car rides of November.
 
@@ -4575,9 +4659,9 @@ I just sat there, smiling and absorbing her sheer, unfiltered joy. Hearing her c
 
 Casey gasped, grabbing my hand and squeezing it tightly. "You and Liz are going to love it," she promised fiercely. "It's the ultimate perimeter."
 
-### Scene 3: The Honorary Sister
+***
 
-**Date:** 2004-12-17 at 19:45 America/New_York
+#### 7:45 PM — The Honorary Sister
 
 By the time the winter sun had fully set over Virginia Beach, the anticipation in Mom's living room had reached a fever pitch.
 
@@ -4615,9 +4699,9 @@ I was perfectly sandwiched between my favorite girl and my best friend, eating a
 
 The perimeter was locked. My system was flawless. For the first time in what felt like a lifetime, I had absolutely everything I needed right in the palm of my hand.
 
-### Scene 4: The Moving Logistics
+***
 
-**Date:** 2004-12-17 at 21:15 America/New_York
+#### 9:15 PM — The Moving Logistics
 
 With the pizza boxes cleared away, the conversation naturally shifted to the sheer mechanics of hauling Liz's life across the country. Mr. Carter pulled out a notepad, ready to outline the driving shifts for the rental truck, but Cassandra raised a hand, smoothly intercepting the planning phase.
 
@@ -4691,9 +4775,11 @@ She pulled me down onto the mattress, the heavy winter blankets wrapping securel
 
 ## Chapter 12: The Executive Departure
 
-### Scene 1: The Morning Knock
+### The Morning Knock & The I-5 Crawl
 
 **Date:** 2004-12-18 at 07:30 America/New_York
+
+#### 7:30 AM — The Morning Knock
 
 The pale morning light filtering through the blinds of my childhood bedroom was the first thing to pull me out of sleep. Liz was a warm, heavy weight across my chest, her breathing perfectly steady in the quiet room. For the first time in three weeks, my internal processor wasn't running a frantic, defensive loop. I was completely, deeply anchored.
 
@@ -4721,9 +4807,9 @@ Casey didn't hesitate for a microsecond. She launched herself forward, wrapping 
 
 "I can't wait," Liz laughed, her cheeks still slightly pink as she hugged my little sister back. "Let's go get some breakfast."
 
-### Scene 2: The Flight Logistics
+***
 
-**Date:** 2004-12-18 at 08:00 America/New_York
+#### 8:00 AM — The Flight Logistics
 
 We headed downstairs, guided by the smell of bacon and pancakes filling the house.
 
@@ -4753,9 +4839,9 @@ I looked over at Liz. Her eyes were wide with quiet awe. For a couple of ninetee
 
 "Eat up," Cassandra smiled, reopening her silver laptop. "We have a plane to catch, and I want my family under my roof by dinner time."
 
-### Scene 3: The Sovereign Airspace
+***
 
-**Date:** 2004-12-18 at 11:30 America/New_York
+#### 11:30 AM — The Sovereign Airspace
 
 Once we reached cruising altitude, the seatbelt sign chimed off, and the true scale of the aircraft's interior became apparent. It didn't feel like a plane; it felt like a high-end corporate boardroom wrapped in cream-colored leather and polished mahogany.
 
@@ -4795,9 +4881,9 @@ Cass wiped her mouth with a linen napkin and pushed her plate aside. "Alright, I
 
 "Absolutely not," Cass replied immediately, her disdain for operational friction bleeding through. "There are rumors floating around Building 33 that I'm being groomed as William Keswick's heir, which is ridiculous. I'm twenty-six years old and I've only been at the company for four years. But even if I had access to a dedicated driver every day, I wouldn't use it. You have to book it, schedule it, and hope dispatch doesn't screw up the timing. I much prefer the city bus. I can just show up at the bus stop on my own schedule, deploy the ramp, and ride. True autonomy doesn't require a reservation."
 
-### Scene 4: The Global Reach
+***
 
-**Date:** 2004-12-18 at 13:30 America/New_York
+#### 1:30 PM — The Global Reach
 
 With Cassandra fully locked into her executive workflow at the conference table, Casey took it upon herself to act as our official tour guide.
 
@@ -4815,9 +4901,9 @@ From the mid-cabin conference table, without breaking her typing rhythm or even 
 
 Casey grinned at me, entirely used to her sister's fiercely protective, unyielding worldview. "Well, Europe it is, then."
 
-### Scene 5: The I-5 Crawl
+***
 
-**Date:** 2004-12-18 at 16:15 America/Los_Angeles
+#### 4:15 PM — The I-5 Crawl
 
 A few hours later, the heavy winter clouds of the Pacific Northwest parted just enough for the jet to break through the gray canopy. We banked smoothly over the Seattle skyline, bypassing the commercial chaos of Sea-Tac entirely, and touched down on the long runway at Pacific Aerospace Field.
 
@@ -4857,9 +4943,11 @@ My pack was finally, permanently, home.
 
 ## Chapter 13: The Federal Way Perimeter
 
-### Scene 1: The Social Boundary
+### The Social Boundary & The Blackout
 
 **Date:** 2004-12-18 at 17:30 America/Los_Angeles
+
+#### 5:30 PM — The Social Boundary
 
 By the time the Quantum van finally escaped the gridlock of Pacific Highway and pulled up to the Federal Way apartment complex, the winter sun had completely set. We hauled our luggage out of the vehicle, thanked the driver, and took the elevator up to Cassandra's floor.
 
@@ -4893,9 +4981,9 @@ Liz stepped around Cassandra's chair, walking over to the edge of the queen bed.
 
 Casey took a deep breath, processing the data, and finally gave a small, resolute nod. "Okay. May 25th."
 
-### Scene 2: Comfort Food and The Ledger
+***
 
-**Date:** 2004-12-18 at 18:15 America/Los_Angeles
+#### 6:15 PM — Comfort Food and The Ledger
 
 Casey eagerly grabbed one end of the heavy sofa cushions while Liz took the other. Together, we dragged the mattress frame out from the depths of the couch. The metal springs groaned, unfolding to take up nearly the entire footprint of the small living room.
 
@@ -4947,9 +5035,9 @@ Liz choked slightly on her milk, her eyes going wide. "Are they serious?"
 
 I watched my older sister brush off the idea with pure, pragmatic logic. She might not have believed it, but as I looked at the flawlessly executed perimeter she had built around our pack—navigating family law, federal tax codes, and cross-country logistics without breaking a sweat—I knew exactly why William Keswick was watching her. If anyone was capable of running the empire, it was Cassandra Vance.
 
-### Scene 3: The Evening Routine
+***
 
-**Date:** 2004-12-18 at 20:30 America/Los_Angeles
+#### 8:30 PM — The Evening Routine
 
 By the time the dinner dishes were cleared from the kitchen island, a heavy, comfortable exhaustion had settled over the apartment. The adrenaline of the cross-country flight and the sheer relief of our consolidation had finally run its course.
 
@@ -4995,9 +5083,9 @@ Liz and I climbed onto the sprawling pull-out sofa bed, pulling the heavy blanke
 
 I grabbed the television remote and flipped the screen on, the ambient glow washing over the dark living room. We didn't really care what was playing. For the first time in months, my processor was completely silent. The perimeter was secure, the legal boundaries were flawless, and the entire pack was finally anchored exactly where we belonged.
 
-### Scene 4: The Blackout
+***
 
-**Date:** 2004-12-18 at 21:30 America/Los_Angeles
+#### 9:30 PM — The Blackout
 
 By 9:30 PM, the quiet hum of the television was the only light source in the living room.
 
@@ -5049,9 +5137,11 @@ Outside the bedroom walls, the wind howled and the Pacific Northwest rain batter
 
 ## Chapter 14: The Blackout
 
-### Scene 1: Pantry Logistics
+### Part 1: Pantry Logistics & The Sunday Dispatch
 
 **Date:** 2004-12-19 at 08:00 America/Los_Angeles
+
+#### 8:00 AM — Pantry Logistics
 
 The heavy wool blankets of the king-sized bed had created an absolutely flawless thermal envelope.
 
@@ -5089,9 +5179,9 @@ Casey happily munched on a dry strawberry Pop-Tart, entirely unbothered by the l
 
 "It is definitely a forced operational pause," Cassandra agreed dryly, taking a bite of a granola bar. "But as long as the structural integrity of the roof holds and the utility crews keep working, I suppose a pajama day is an acceptable baseline."
 
-### Scene 2: Circadian Logistics
+***
 
-**Date:** 2004-12-19 at 08:30 America/Los_Angeles
+#### 8:30 AM — Circadian Logistics
 
 As we sat on the floor of the dim living room, passing around boxes of dry oat flakes and frosted toaster pastries, the reality of our new geography started to set in.
 
@@ -5121,9 +5211,9 @@ I looked around the dark, quiet apartment. The power was still out, the ambient 
 
 The time zone didn't matter. The blackout didn't matter. The perimeter was secured, and for the next three days, my only operational objective was to adjust to being safe.
 
-### Scene 3: The Eastside Expansion
+***
 
-**Date:** 2004-12-19 at 12:15 America/Los_Angeles
+#### 12:15 PM — The Eastside Expansion
 
 We spent the rest of the morning in a massive, tangled cuddle puddle on the living room floor. With the ambient temperature still hovering on the chilly side, we had dragged the heavy wool blankets out from the master bedroom and created a makeshift nest around the sofa bed. Casey was completely anchored against my side, Liz was resting her head on my chest, and Cassandra sat with her back against the sofa frame, her legs stretched out under the blankets with us.
 
@@ -5175,9 +5265,9 @@ I looked at the property details, then back at Cassandra. Her eyes were already 
 
 Cassandra closed all the transit tabs, leaving only the house listing glowing on the screen. "Yes. We absolutely should."
 
-### Scene 4: The Tier-One Acquisition
+***
 
-**Date:** 2004-12-19 at 13:00 America/Los_Angeles
+#### 1:00 PM — The Tier-One Acquisition
 
 Cassandra didn't just browse standard public real estate websites. The moment we decided on the Eastside, she closed the public tabs and logged directly into the highly exclusive Quantum Building 33 intranet wiki.
 
@@ -5223,9 +5313,9 @@ I looked at Liz, a massive grin breaking across my face. Our temporary Federal W
 
 "I guess we better get out of these pajamas," I smiled, tossing the heavy wool blankets aside.
 
-### Scene 5: The Sunday Dispatch
+***
 
-**Date:** 2004-12-19 at 13:15 America/Los_Angeles
+#### 1:15 PM — The Sunday Dispatch
 
 The sudden, chaotic scramble to get out of our flannel pajamas and into respectable daytime clothes took less than ten minutes. But as I pulled a clean sweater over my head and walked back out to the living room, Cassandra was staring at the transit maps on her laptop with a deep, frustrated frown.
 
@@ -5257,9 +5347,11 @@ As the cab merged onto Interstate 5 North to begin the forty-minute drive toward
 
 Cassandra didn't reply, but a small, sharp smile pulled at the corner of her mouth. The skyline of downtown Seattle passed by on our left as the cab banked onto the SR-520 floating bridge, carrying us across the gray, choppy waters of Lake Washington and straight toward our permanent perimeter.
 
-### Scene 6: The Redmond Compound Acquisition
+### Part 2: The Redmond Compound Acquisition & The TAPS Grid
 
 **Date:** 2004-12-19 at 14:00 America/Los_Angeles
+
+#### 2:00 PM — The Redmond Compound Acquisition
 
 The yellow cab pulled onto the sprawling, immaculately landscaped grounds of the Quantum campus. Instead of directing the driver to the residential address, Cassandra had him pull up directly in front of the massive, glass-fronted architecture of Building 33.
 
@@ -5313,9 +5405,9 @@ Marcus stared at her, utterly speechless at the sheer, overwhelming financial we
 
 Cassandra turned her chair back toward the paved sidewalk leading to Building 33, having successfully secured the sovereign perimeter for our pack without breaking her stride.
 
-### Scene 7: The Contract Execution
+***
 
-**Date:** 2004-12-19 at 15:00 America/Los_Angeles
+#### 3:00 PM — The Contract Execution
 
 We left the property and began the short trek back toward the Quantum campus. Cassandra had mapped out a route to the bus stops along NE 40th Street, planning to catch the transit grid back toward the Overlake Transit Center so we could begin the long journey back to Federal Way.
 
@@ -5365,9 +5457,9 @@ Cassandra settled back into her chair, perfectly calm, perfectly anchored. She l
 
 Now, we waited.
 
-### Scene 8: The Accepted Strike
+***
 
-**Date:** 2004-12-19 at 16:30 America/Los_Angeles
+#### 4:30 PM — The Accepted Strike
 
 By the time we left Marcus’s office, the adrenaline of the rapid-fire transaction had finally worn off, leaving us all starving. We hadn't eaten anything since breakfast at the Federal Way apartment, completely missing lunch during the chaotic cross-county deployment.
 
@@ -5417,9 +5509,9 @@ I raised my glass to meet hers, followed instantly by Liz and Casey. The glass c
 
 "To the perimeter," we echoed.
 
-### Scene 9: The TAPS Grid
+***
 
-**Date:** 2004-12-19 at 18:45 America/Los_Angeles
+#### 6:45 PM — The TAPS Grid
 
 The ride back across Lake Washington was entirely different from our daytime cab ride. We boarded the TAPS 550 express bus in Downtown Bellevue, and as the heavy articulated vehicle merged onto the Interstate 90 floating bridge, Liz and I got our first real look at the Seattle skyline at night.
 
@@ -5467,9 +5559,11 @@ Casey giggled, leaning against my arm. "You guys don't know the grid yet."
 
 I shook my head, thoroughly impressed by the sheer logistical perfection of her route planning, and followed my sisters onto the bus. Five minutes later, the 174 dropped us off perfectly at the corner of South 308th Street, leaving us with nothing but a short, paved sidewalk stroll back to the warm, secure perimeter of our apartment.
 
-### Scene 10: The Sunday Night Reset
+### Part 3: The Sunday Night Reset & The A-B Block and Québécois French
 
 **Date:** 2004-12-19 at 20:30 America/Los_Angeles
+
+#### 8:30 PM — The Sunday Night Reset
 
 By the time we unlocked the door to the Federal Way apartment and dropped our bags, the damp Pacific Northwest chill had thoroughly seeped into our bones. The ambient warmth of the apartment’s HVAC system was a massive relief after the cold transit commute, but the consensus among the pack was unanimous: everyone needed a hot shower.
 
@@ -5517,9 +5611,9 @@ Casey leaned into the hug, letting out a small, reluctant smile. "Okay. Fine."
 
 "Good," Cassandra nodded warmly, shifting her chair toward the hallway. "Now, let's initiate a full system shutdown. Tomorrow is Monday. I have to be at Building 33 for the morning executive briefing, and Casey, you have zero period calculus. It is time for bed."
 
-### Scene 11: The A-B Block and Québécois French
+***
 
-**Date:** 2004-12-19 at 21:00 America/Los_Angeles
+#### 9:00 PM — The A-B Block and Québécois French
 
 Before Cassandra officially initiated the system shutdown for the night, I realized I was still flying blind regarding my younger sister's actual daily operational tempo. We knew she had Zero Period in the morning, but the rest of her day was a mystery to me.
 
@@ -5589,9 +5683,11 @@ The perimeter was secured, the real estate acquisition was locked in, and the sc
 
 ## Chapter 15: The Holiday Deployment
 
-### Scene 1: The PVD Rendezvous
+### The PVD Rendezvous & The Sea of Humanity
 
 **Date:** 2004-12-23 at 15:45 America/New_York
+
+#### 3:45 PM — The PVD Rendezvous
 
 The transition from the sprawling, tech-heavy grid of the Pacific Northwest to the freezing, windswept coastline of Rhode Island was a geographical shock to the system. 
 
@@ -5631,9 +5727,9 @@ Pulling up to the curb, hissing as its air brakes engaged, was the massive blue-
 
 "Alright, pack," Cassandra commanded, pulling out a stack of pre-purchased OSTA transit passes. "Load your luggage into the lower bays and flash your passes to the driver. We have a bridge to cross."
 
-### Scene 2: The Ghost Highway
+***
 
-**Date:** 2004-12-23 at 16:20 America/New_York
+#### 4:20 PM — The Ghost Highway
 
 The OSTA Route 12 bus roared south down the US-1 corridor, the massive diesel engine humming as it carried our entire family toward the coast. We had the back half of the bus almost entirely to ourselves, giving Casey and Liz plenty of room to excitedly point out the frozen Rhode Island scenery.
 
@@ -5677,9 +5773,9 @@ She shook her head, smiling softly as the bus pulled into the Newport Gateway Ce
 
 The doors hissed open. The pack gathered our bags and stepped off the bus into the freezing Newport air, officially back on Aquidneck Island for the holidays.
 
-### Scene 3: The Mount Hope Arrival
+***
 
-**Date:** 2004-12-23 at 17:15 America/New_York
+#### 5:15 PM — The Mount Hope Arrival
 
 The freezing wind coming off Newport Harbor whipped through the open bays of the Gateway Center. Our massive eight-person deployment had just stepped off the Route 12 express bus, completely surrounded by our luggage, when Cassandra immediately pointed to the adjacent bay.
 
@@ -5743,9 +5839,9 @@ Cassandra parked her chair by the fire, letting the warmth soak into her legs. S
 
 The deployment was a complete success. We were home for Christmas.
 
-### Scene 4: The Sea of Humanity
+***
 
-**Date:** 2004-12-23 at 22:30 America/New_York
+#### 10:30 PM — The Sea of Humanity
 
 By ten-thirty that night, the massive Delaney household began to settle down for the evening. The logistics of sleeping fourteen people in a single house required a level of communal organization that bordered on a military barracks deployment, but the Delaneys had it down to an absolute science.
 
@@ -5789,9 +5885,11 @@ I was buried in a sea of humanity, and I had never felt safer.
 
 ## Chapter 16: The Aquidneck Christmas
 
-### Scene 1: The Morning Pile
+### The Morning Pile & The House Guard Marathon
 
 **Date:** 2004-12-24 at 08:15 America/New_York
+
+#### 8:15 AM — The Morning Pile
 
 The morning sun reflecting off the icy waters of Narragansett Bay poured through the large basement egress windows, signaling the start of Christmas Eve. 
 
@@ -5872,9 +5970,9 @@ I was completely smothered by eight beautiful, fiercely loyal women who absolute
 
 If Kristine had seen this picture, she would have disintegrated. But sitting in the center of the pile, with my family completely surrounding me, I had never been happier.
 
-### Scene 2: The Forty Steps
+***
 
-**Date:** 2004-12-24 at 11:30 America/New_York
+#### 11:30 AM — The Forty Steps
 
 Once the massive kitchen operation was thoroughly dismantled and cleaned up, the pack transitioned from chaotic loungewear to heavy winter coats, scarves, and gloves. 
 
@@ -5910,9 +6008,9 @@ Before we transferred buses, we made a quick detour to the Bayview Creamery on L
 
 Once lunch was finished, we hopped on the OSTA Route 63, heading north toward the Newport Town Center—which most of the locals still affectionately called the Newport Mall. We needed to hit Super Park & Pick to restock the Delaney household after we had utterly demolished their pantry that morning.
 
-### Scene 3: The Autonomic Check
+***
 
-**Date:** 2004-12-24 at 14:00 America/New_York
+#### 2:00 PM — The Autonomic Check
 
 The second we crossed the threshold back into the Delaney house in Portsmouth, dropping the heavy grocery bags on the kitchen counter, the sensory reality of the massive transit excursion finally caught up to us.
 
@@ -5946,9 +6044,9 @@ Cassandra closed her eyes, letting out a long, shuddering exhale as the heavy ph
 
 I knelt there on the floor, watching the agonizing tension finally drain out of her face. For my entire life, I had just acted on instinct—stepping in to help because she was my sister. But sitting there in the quiet of the Delaney living room, something inside my autistic brain clicked into permanent alignment. I didn't know what kind of degree it took, or what the official job title was, but I made a quiet, immovable decision. I was going to be the one to take care of her. I was going to be the wall that stood between my sister and the rest of the world.
 
-### Scene 4: Réveillon Under the Bridge
+***
 
-**Date:** 2004-12-24 at 18:00 America/New_York
+#### 6:00 PM — Réveillon Under the Bridge
 
 Once the deep pressure therapy had fully reset our sensory thresholds, the evening agenda began. 
 
@@ -5986,9 +6084,9 @@ I looked around at the festival. The Bouchards were at the center of the chaos, 
 
 Despite the bitter cold and the massive scale of the neighborhood block party, there was an incredible sense of insulation. Sitting there under the massive steel bridge, surrounded by the Delaneys, Liz, Casey, and my sister, eating hot poutine while the entire neighborhood celebrated around us... it felt like the safest place in the world.
 
-### Scene 5: The House Guard Marathon
+***
 
-**Date:** 2004-12-24 at 20:00 America/New_York
+#### 8:00 PM — The House Guard Marathon
 
 By the time we finally dragged ourselves back up Mussel Bed Shoal Road to the Delaney house, the temperature had plummeted, and the fierce coastal wind was biting right through our heavy winter coats. The heavy caloric warmth of the poutine was the only thing keeping us going.
 
@@ -6024,9 +6122,11 @@ Casey might have been pouting in the other room, but this was it. We were surrou
 
 ## Chapter 17: Christmas Day
 
-### Scene 1: The Coffee Milk Christmas
+### The Coffee Milk Christmas & The Triple Dog Dare Dinner
 
 **Date:** 2004-12-25 at 07:30 America/New_York
+
+#### 7:30 AM — The Coffee Milk Christmas
 
 The harsh, bright morning light streaming through the massive windows of the Delaney living room finally broke up the overnight puppy pile. 
 
@@ -6052,9 +6152,9 @@ Within twenty minutes, the entire pack had managed to untangle themselves from t
 
 It was loud, chaotic, and completely overstimulating, but sitting there drinking coffee milk surrounded by the pack, I wouldn't have traded it for the world.
 
-### Scene 2: The Gift Exchange
+***
 
-**Date:** 2004-12-25 at 08:15 America/New_York
+#### 8:15 AM — The Gift Exchange
 
 With the television still endlessly looping *A December Fable* in the background, Mrs. Delaney officially took control of the logistics. She sat at the edge of the sprawling mountain of wrapped boxes, handing out the gifts with practiced, rapid-fire efficiency. 
 
@@ -6090,9 +6190,9 @@ The living room went dead silent, the only sound coming from the television as t
 
 Mrs. Delaney didn't say a word. She just crossed the room, wrapped her arms tightly around Cassandra's shoulders, and buried her face in my sister's neck, crying softly. Cassandra patted her back awkwardly but firmly, a rare, massive smile breaking across her face.
 
-### Scene 3: The Pack Mentality
+***
 
-**Date:** 2004-12-25 at 14:00 America/New_York
+#### 2:00 PM — The Pack Mentality
 
 With the massive gift exchange officially concluded, the rest of Christmas Day settled into a slow, incredibly comfortable rhythm. There was nowhere else to be, and no reason to brave the freezing Rhode Island wind outside. 
 
@@ -6108,9 +6208,9 @@ Liz understood the dynamic perfectly. She knew that the Delaney women were my si
 
 Sitting there in the warmth of the living room, surrounded by the women who anchored my entire life, I felt a massive wave of gratitude. There was no drama, no tension, and no underlying anxiety to mask. It was just pure, unconditional trust.
 
-### Scene 4: The Triple Dog Dare Dinner
+***
 
-**Date:** 2004-12-25 at 18:30 America/New_York
+#### 6:30 PM — The Triple Dog Dare Dinner
 
 By the time the sun dipped below the horizon and the evening chill settled back over Narragansett Bay, the collective neurodivergent burnout had officially set in. Casey, Cassandra, and I were completely tapped out. 
 
@@ -6138,9 +6238,11 @@ It was the simplest, most perfect Christmas dinner I had ever experienced.
 
 ## Chapter 18: Boxing Day in Braxton
 
-### Scene 1: The Braxton Excursion
+### The Braxton Excursion & The Transit Contingency
 
 **Date:** 2004-12-26 at 09:00 America/New_York
+
+#### 9:00 AM — The Braxton Excursion
 
 The absolute silence of the Delaney house at 8:00 AM on December 26th proved that the entire pack had pushed their sensory boundaries to the absolute limit. Christmas had been chaotic and perfect, but the aftermath was heavy. 
 
@@ -6170,9 +6272,9 @@ We took the glass accessibility elevator down to the street level and immediatel
 
 We had officially arrived at the commercial epicenter of the Braxton suburbs. It was time to brave the post-Christmas crowds.
 
-### Scene 2: The Boxing Day Spree
+***
 
-**Date:** 2004-12-26 at 10:15 America/New_York
+#### 10:15 AM — The Boxing Day Spree
 
 The second the automatic glass doors of the Oakhaven Promenade slid open, a wall of heated air, holiday pop music, and the heavy scent of roasted nuts washed over us. 
 
@@ -6210,9 +6312,9 @@ Cassandra instantly dropped her hands from her ears, letting out a long, slow br
 
 "Agreed," Cassandra murmured, reaching out to pull a massive textbook on orbital mechanics from the bottom shelf. "I require at least forty-five minutes of uninterrupted data absorption to recover from that cologne."
 
-### Scene 3: The Neon Syndicate
+***
 
-**Date:** 2004-12-26 at 11:00 America/New_York
+#### 11:00 AM — The Neon Syndicate
 
 Forty-five minutes later, the rest of the pack emerged from Oak & Iron Outfitters. I dutifully accepted my role as the pack mule, looping three heavy shopping bags over my shoulder as we regrouped outside *The Literary Alcove*. 
 
@@ -6244,9 +6346,9 @@ Since Cassandra had officially laid down the law and banned Casey from entering,
 
 "Alright, moving on," Erin laughed, crossing *Neon Syndicate* off her list. "Who's hungry? Because I'm ready to fight someone for a table in the food court."
 
-### Scene 4: The Food Court Logistics
+***
 
-**Date:** 2004-12-26 at 11:30 America/New_York
+#### 11:30 AM — The Food Court Logistics
 
 We took the central glass elevators up to the top floor of the Promenade, and the doors opened to pure, unadulterated Boxing Day chaos. 
 
@@ -6276,9 +6378,9 @@ Cassandra, who required highly predictable textures, systematically dissected he
 
 We sat there in the warm, chaotic food court, completely insulated within our massive pack, feasting on hot chowder and fried seafood while watching the endless throngs of post-Christmas shoppers battle for supremacy on the levels below.
 
-### Scene 5: The Transit Contingency
+***
 
-**Date:** 2004-12-26 at 13:00 America/New_York
+#### 1:00 PM — The Transit Contingency
 
 The sheer volume of deep-fried seafood was the final nail in the coffin. By the time we finished our clam cakes and chowder, our collective sensory and physical batteries were completely drained. We packed up our shopping bags, rolled Cassandra back out through the massive glass doors of the Promenade, and boarded the local BTA bus to head back to the Metro. 
 
@@ -6316,9 +6418,11 @@ I closed my eyes, surrounded by the physical weight and warmth of my pack, compl
 
 ## The Logistics of Luxury
 
-### Scene 1: The Logistics of Luxury
+### The Logistics of Luxury & The Virginia Beach Arrival
 
 **Date:** 2004-12-27 at 07:30 America/New_York
+
+#### 7:30 AM — The Logistics of Luxury
 
 "I am officially filing a grievance with the housing authority," Casey grumbled, dragging her duffel bag down the hardwood stairs of the Delaney house. "Two nights on that home office cot is a human rights violation."
 
@@ -6356,9 +6460,9 @@ The Delaneys and the Carters stood completely frozen in the lobby, staring out t
 
 "Yes," Cassandra said simply. "Our pilots are waiting. Shall we?"
 
-### Scene 2: The Boarding Protocol
+***
 
-**Date:** 2004-12-27 at 08:00 America/New_York
+#### 8:00 AM — The Boarding Protocol
 
 The entire fourteen-person entourage followed Cassandra through the FBO's glass doors and out onto the freezing private tarmac. 
 
@@ -6392,9 +6496,9 @@ Liz sank into the recliner next to me, a look of pure, unadulterated shock on he
 
 "Just wait until we hit cruising altitude," I laughed, buckling my seatbelt. "The wireless network in here is faster than the connection at my apartment."
 
-### Scene 3: The Airborne Network
+***
 
-**Date:** 2004-12-27 at 08:15 America/New_York
+#### 8:15 AM — The Airborne Network
 
 The sheer thrust of the Quantum corporate jet pressing me back into the plush leather recliner was incredible. There was no rattling overhead bin, no crying babies, and no safety demonstration. The pilots simply throttled up, and the pristine white airframe shot into the freezing Rhode Island sky, banking sharply south toward Virginia.
 
@@ -6425,9 +6529,9 @@ I clicked send. The progress bar flashed for a fraction of a second, the massive
 
 "They couldn't be here," I said, closing the laptop and setting it on the empty seat next to me. "But they're still pack. They need to know we're on our way home."
 
-### Scene 4: The Virginia Beach Arrival
+***
 
-**Date:** 2004-12-27 at 10:15 America/New_York
+#### 10:15 AM — The Virginia Beach Arrival
 
 The descent into Norfolk International Airport (ORF) was completely seamless. Cassandra's corporate jet bypassed the congested commercial terminals entirely, taxiing straight to the private aviation ramp on the north side of the airfield. 
 
@@ -6467,9 +6571,11 @@ Meredith grinned, pocketing the camera. "God, I love the corporate enforcement s
 
 ## Chapter 20: The Chesapeake Bay Mall
 
-### Scene 1: The Horde
+### The Horde & The Route 29 Trolley
 
 **Date:** 2004-12-28 at 13:00 America/New_York
+
+#### 1:00 PM — The Horde
 
 The sheer logistics of mobilizing the combined Delaney-Carter-Vance pack was staggering. 
 
@@ -6505,9 +6611,9 @@ I wasn't isolated. I was the protected center of a sprawling, heavily fortified 
 
 The firewall was absolute. And Kristine finally realized that she hadn't just lost a boyfriend; she had gone to war with an army she couldn't possibly defeat.
 
-### Scene 2: The Biological Hazard
+***
 
-**Date:** 2004-12-28 at 15:15 America/New_York
+#### 3:15 PM — The Biological Hazard
 
 The second Kristine Mercer reached the bottom of the escalator, she immediately tried to calculate an angle of approach. She was tracking me with predatory focus, completely misinterpreting the massive group dynamic surrounding me. In her twisted, deluded reality, she likely assumed that because I was out with "family," I was currently single and completely unattached. 
 
@@ -6539,9 +6645,9 @@ Without saying another word, Kristine turned on her heel and practically fled ba
 
 "Target neutralized," Cassandra murmured, smoothly reversing her wheelchair back into formation. "Let's go catch the bus."
 
-### Scene 3: The Route 29 Trolley
+***
 
-**Date:** 2004-12-28 at 13:20 America/New_York
+#### 1:20 PM — The Route 29 Trolley
 
 Liz's devastatingly quiet assessment completely shattered Kristine's delusional reality. For the first time since the confrontation began, Kristine had absolutely nothing to say. 
 
@@ -6577,9 +6683,11 @@ And for the first time in my life, I was finally, truly safe.
 
 ## Chapter 21: The Final Countdown
 
-### Scene 1: The Final Countdown
+### The Final Countdown & The Dual Departure
 
 **Date:** 2004-12-31 at 23:45 America/New_York
+
+#### December 31, 2004 • 11:45 PM — The Final Countdown
 
 The living room of the Vance house was packed to absolute capacity, radiating the kind of chaotic, overwhelming warmth that only a twenty-person family gathering could produce. 
 
@@ -6623,9 +6731,9 @@ Even Cassandra was smiling, raising her glass slightly from her wheelchair.
 
 As the massive crystal sphere hit the bottom of the pole on the broadcast and the sky over Times Square exploded with fireworks, I wrapped my arms around Liz and held her tight. I didn't know exactly what 2005 was going to bring, but as long as I was inside this perimeter, I knew I was going to be alright.
 
-### Scene 2: The Dual Departure
+***
 
-**Date:** 2005-01-02 at 09:15 America/New_York
+#### January 2, 2005 • 9:15 AM — The Dual Departure
 
 The sprawling concrete apron of the private aviation terminal at ORF was significantly busier on the morning of January 2nd than it had been when we arrived. 
 
@@ -6659,9 +6767,11 @@ Within twenty minutes, both jets were airborne, banking in completely opposite d
 
 ## Chapter 1: The Licensure Exam
 
-### Scene 1: The Scope of Practice
+### The Scope of Practice & The Pack Conference
 
 **Date:** 2005-01-10 at 19:00 America/Los_Angeles
+
+#### January 10, 2005 • 7:00 PM — The Scope of Practice
 
 The living room of Cassandra's Federal Way apartment was quiet, save for the rhythmic tapping of my keyboard and the soft hum of the rain against the glass sliding door. 
 
@@ -6699,9 +6809,9 @@ I wasn't going to drop my tech major—I still loved tinkering with HTML and bui
 
 I was going to earn my LPN, so that the next time I sat in a room with Cassandra's primary care physicians, I wouldn't just be the "helpful brother." I would be speaking to them as a fellow medical professional, and I was going to permanently secure my sister's autonomy.
 
-### Scene 2: The Pitch
+***
 
-**Date:** 2005-01-10 at 19:30 America/Los_Angeles
+#### January 10, 2005 • 7:30 PM — The Pitch
 
 I didn't wait until morning to present my plan. 
 
@@ -6743,9 +6853,9 @@ She looked up at me, her dark eyes completely unreadable for a moment before she
 
 "I'm going to the NPU academic advising office tomorrow morning," I told them, closing the laptop. "I'm officially declaring the dual-track."
 
-### Scene 3: The Academic Advisor
+***
 
-**Date:** 2005-01-11 at 09:00 America/Los_Angeles
+#### January 11, 2005 • 9:00 AM — The Academic Advisor
 
 The Northwest Pacific University academic advising center was already packed with students frantically trying to adjust their Winter Quarter schedules, but I had booked my appointment weeks ago. 
 
@@ -6781,9 +6891,9 @@ For the next forty-five minutes, we completely tore down my schedule and rebuilt
 
 I was officially a pre-nursing IT major, and the clock had just started on securing the perimeter.
 
-### Scene 4: The Pack Conference
+***
 
-**Date:** 2005-01-11 at 10:30 America/Los_Angeles
+#### January 11, 2005 • 10:30 AM — The Pack Conference
 
 The Northwest Pacific University student union was a massive, cavernous building echoing with the chaotic noise of thousands of students returning for Winter Quarter. I navigated through the dense crowd to the food court, finding Liz sitting at a small corner table with two coffees. 
 
@@ -6839,9 +6949,11 @@ The perimeter was secure, my academic path was locked, and the entire pack was b
 
 ## Chapter 2: The Invasion
 
-### Scene 1: The Sea-Tac Crush-Load
+### Part 1: The Sea-Tac Crush-Load & The Twelfth Floor
 
 **Date:** 2005-03-18 at 14:15 America/Los_Angeles
+
+#### 2:15 PM — The Sea-Tac Crush-Load
 
 The arrivals terminal at Sea-Tac International Airport was a chaotic blur of rolling suitcases, tired business travelers, and families reuniting. But standing near Baggage Carousel 4, our local perimeter was completely impenetrable. 
 
@@ -6911,9 +7023,9 @@ Cassandra looked up at me, entirely unbothered. "I am aware, David. Kate and Dav
 
 She smiled, radiating total operational control. "I have it entirely handled. Let's go."
 
-### Scene 2: The Route 194 Deployment
+***
 
-**Date:** 2005-03-18 at 14:45 America/Los_Angeles
+#### 2:45 PM — The Route 194 Deployment
 
 The lower transit drive at Sea-Tac Airport was bustling with travelers, but our pack completely dominated the sidewalk. Moving fourteen people and a small mountain of luggage required military precision, but the East Coast household was used to operating as a single, highly coordinated unit. 
 
@@ -6961,9 +7073,9 @@ We deployed across the platform in a highly organized wave. We commandeered the 
 
 When the elevator doors opened onto Pine Street, the cool, damp Pacific Northwest air hit us instantly. But looking at the massive, tight-knit group of people surrounding me on the sidewalk, the Seattle gloom didn't matter at all. The perimeter was locked, the pack was home, and Spring Break had officially begun.
 
-### Scene 3: Checking In
+***
 
-**Date:** 2005-03-18 at 15:20 America/Los_Angeles
+#### 3:20 PM — Checking In
 
 The walk from Westlake Station to the Cascade Crest Hotel was a short, flat, perfectly paved two-block commute. After enduring the chaos of the airport and the subterranean rumble of the transit tunnel, the massive glass doors of the hotel lobby offered a luxurious, quiet sanctuary. 
 
@@ -7001,9 +7113,9 @@ Wendy looked at me, completely stunned by the sheer financial force of my sister
 
 "Alright, room assignments," Cassandra announced, taking the stack of keycards from the agent and spinning her wheelchair around to face the lobby. "Everyone grab your bags. We are taking over the twelfth floor."
 
-### Scene 4: The Twelfth Floor
+***
 
-**Date:** 2005-03-18 at 15:30 America/Los_Angeles
+#### 3:30 PM — The Twelfth Floor
 
 Cassandra wheeled away from the front desk holding a massive stack of plastic keycards. She motioned for the pack to follow her toward the main elevator bank. 
 
@@ -7045,9 +7157,11 @@ Kate’s face lit up. <aac>My own room?</aac>
 
 "Drop your bags and get settled," Cassandra called out down the hallway as the various Delaney girls popped their heads out of their doorways. "The hotel is setting up a private catered dinner for us in the Cascade Banquet Room on the mezzanine level. I expect everyone downstairs in exactly one hour!"
 
-### Scene 5: The Banquet Room
+### Part 2: The Banquet Room & Interlude: The Bellevue Bidding War
 
 **Date:** 2005-03-18 at 16:45 America/Los_Angeles
+
+#### March 18, 2005 • 4:45 PM • David Vance — The Banquet Room
 
 The Cascade Banquet Room on the hotel's mezzanine level was typically used for mid-sized corporate board meetings, but Cassandra had transformed it into a completely secure, private dining sanctuary for fourteen. 
 
@@ -7107,9 +7221,9 @@ As the soaring male rock vocals finally kicked in, singing about *'burning on th
 
 The engine was finally running at full power.
 
-### Scene 6: The Bellevue Acquisition
+***
 
-**Date:** 2005-03-18 at 20:30 America/Los_Angeles
+#### March 18, 2005 • 8:30 PM • David Vance — The Bellevue Acquisition
 
 By the time we rode the elevators back up to the twelfth floor, the travel exhaustion had finally started to catch up with the pack. The adults retreated to their respective suites across the hall, leaving the core perimeter in the massive living room of the Presidential Suite. 
 
@@ -7147,9 +7261,9 @@ Casey sat up, her eyes wide. "Wait. You're going to buy a mansion so the whole p
 
 She held the phone to her ear. "Sterling? Yes, it's Vance. I need you to initiate a massive earnest money wire transfer to a title company in Newport, Rhode Island. We are executing a hostile acquisition of a Gilded Age estate."
 
-### Scene 7: Interlude: The Bellevue Bidding War
+***
 
-**Date:** 2005-03-19 at 09:00 America/New_York
+#### March 19, 2005 • 9:00 AM • Charles Kensington — Interlude: The Bellevue Bidding War
 
 The ink on the massive real estate contract was still wet. 
 
@@ -7197,9 +7311,11 @@ Charles hung up the phone just as his assistant rushed into the office, holding 
 
 ## Chapter 3: The Eastside Tour
 
-### Scene 1: The Morning Perimeter
+### The Morning Perimeter & The Bellevue Transfer
 
 **Date:** 2005-03-19 at 06:00 America/Los_Angeles
+
+#### 6:00 AM — The Morning Perimeter
 
 At exactly 6:00 AM Pacific Time, a sharp, authoritative knock hammered against the adjoining door of our hotel room. 
 
@@ -7237,9 +7353,9 @@ Casey's face instantly lit up, the early morning exhaustion vanishing entirely. 
 
 "I will see you at eight, David," Cassandra ordered, not looking up from her screen. "We have an Eastside tour to execute."
 
-### Scene 2: The Highcliff Announcement
+***
 
-**Date:** 2005-03-19 at 08:00 America/Los_Angeles
+#### 8:00 AM — The Highcliff Announcement
 
 By the time eight o'clock rolled around, the entire fourteen-person pack had reassembled in the Cascade Banquet Room on the mezzanine level. The hotel had set up a massive breakfast buffet of eggs, bacon, and pastries, and the room was filled with the loud, chaotic chatter of the Virginia Beach and Rhode Island branches cross-talking over coffee. 
 
@@ -7277,9 +7393,9 @@ The Rhode Island girls looked at each other, instantly seeing right through Cass
 
 "Excellent," Cassandra nodded, picking up her coffee cup. "Now finish your breakfast. We have a bus to catch to Redmond."
 
-### Scene 3: The Redmond Hard Hat Tour
+***
 
-**Date:** 2005-03-19 at 10:30 America/Los_Angeles
+#### 10:30 AM — The Redmond Hard Hat Tour
 
 After polishing off the massive breakfast buffet, the fourteen of us mobilized out of the Cascade Crest Hotel and marched two blocks over to 4th Avenue. 
 
@@ -7327,9 +7443,9 @@ The house was breathtaking, fully showcasing Cassandra's brilliant architectural
 
 "Exactly," Cassandra smiled, looking extremely satisfied with the flawless execution. "The occupancy permit clears on Friday. We'll be moving in before Spring Break is over."
 
-### Scene 4: The Bellevue Transfer
+***
 
-**Date:** 2005-03-19 at 12:30 America/Los_Angeles
+#### 12:30 PM — The Bellevue Transfer
 
 After Greg the foreman locked up the gutted framing of the Redmond house, Cassandra turned her wheelchair back toward the Overlake Transit Center. 
 
@@ -7367,9 +7483,11 @@ We all piled onto the historic streetcar. The operator rang the brass bell, and 
 
 ## Chapter 4: The Puget Sound Aquarium
 
-### Scene 1: The VIP Experience
+### The VIP Experience & The Night Shift
 
 **Date:** 2005-03-19 at 13:15 America/Los_Angeles
+
+#### 1:15 PM — The VIP Experience
 
 The vintage George Benson streetcar squealed to a halt at the Pike Street stop, dropping the fourteen of us right onto the heavy wooden planks of the Seattle waterfront. Directly across the boardwalk, stretching out over the dark waters of Elliott Bay on massive wooden pilings, was Pier 59: home to the Puget Sound Aquarium. 
 
@@ -7397,9 +7515,9 @@ The attendant handed Cassandra a thick stack of glossy tickets and premium wrist
 
 "Alright," Cassandra commanded, spinning her chair toward the massive, dimly lit entrance tunnel that led into the main exhibits. "The Omnidome documentary showing is at two o'clock. We have exactly forty-five minutes to clear the primary tidal tanks and the Underwater Dome. Move out."
 
-### Scene 2: The Deep Ocean Encounters
+***
 
-**Date:** 2005-03-19 at 13:30 America/Los_Angeles
+#### 1:30 PM — The Deep Ocean Encounters
 
 Operating with Cassandra's strict forty-five-minute deadline, the pack moved through the primary exhibits with military precision. We bypassed the crowded touch tanks and headed straight for the Underwater Dome—a massive, spherical, 400,000-gallon tank that allowed us to sit completely surrounded by swimming salmon, sturgeon, and Puget Sound rockfish. 
 
@@ -7433,9 +7551,9 @@ I looked down the row. Casey was staring at the screen, completely captivated by
 
 It was the perfect afternoon.
 
-### Scene 3: The Ride Free Area
+***
 
-**Date:** 2005-03-19 at 17:30 America/Los_Angeles
+#### 5:30 PM — The Ride Free Area
 
 After spending hours exploring the Puget Sound Aquarium, our massive fourteen-person pack emerged back onto the wooden planks of Pier 59 as the sun began to dip low over Elliott Bay. 
 
@@ -7475,9 +7593,9 @@ We disembarked and looked up. The sky was turning a brilliant shade of twilight 
 
 "Dinner is served," Cassandra smirked, leading us toward the massive golden elevators that would shoot us up into the sky.
 
-### Scene 4: Dinner in the Sky
+***
 
-**Date:** 2005-03-19 at 18:00 America/Los_Angeles
+#### 6:00 PM — Dinner in the Sky
 
 The massive, golden elevators shot up the exterior of the Century Spire at terrifying speed. Through the glass, the streets of Seattle rapidly shrank into tiny grids of twilight traffic as we ascended over five hundred feet into the sky. 
 
@@ -7513,9 +7631,9 @@ My mom started to shrug off her heavy wool coat, moving to lay it on the wide, s
 
 "Frictionless transit, stunning architecture, and a moving restaurant," Megan said, shaking her head as she looked out at the glittering city lights. "I have to admit, Cassandra. The West Coast has its charms."
 
-### Scene 5: The Night Shift
+***
 
-**Date:** 2005-03-19 at 19:45 America/Los_Angeles
+#### 7:45 PM — The Night Shift
 
 By the time we finished dessert and took the heavy steel elevators back down to the base of the Century Spire, the Seattle sky was pitch black. 
 
@@ -7601,9 +7719,11 @@ Cassandra rolled up the blueprints and smiled at the fourteen-person pack fillin
 
 ## Chapter 5: The Evergreen Marine
 
-### Scene 1: Colman Dock
+### Part 1: Colman Dock & The Private Dining Room
 
 **Date:** 2005-03-20 at 09:30 America/Los_Angeles
+
+#### 9:30 AM — Colman Dock
 
 Sunday morning in downtown Seattle was an entirely different beast than Saturday. The bustling corporate energy vanished, replaced by quiet, empty streets and a thick layer of grey morning fog rolling off Elliott Bay. 
 
@@ -7643,9 +7763,9 @@ The agent handed Cassandra a massive stack of fourteen paper barcode tickets, al
 
 "Thank you," she smiled, spinning her chair around to face us. She held the stack of tickets up in the air. "We have twenty minutes until the next boat arrives. Proceed to the overhead walkway and prepare to board."
 
-### Scene 2: The Crossing
+***
 
-**Date:** 2005-03-20 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Crossing
 
 `
 The walk-on boarding process at Colman Dock was entirely different from catching a city bus. When the overhead displays flashed green, our massive fourteen-person pack filtered through the automated turnstiles, scanning our paper barcodes one by one before proceeding down a long, glass-enclosed overhead walkway. 
@@ -7678,9 +7798,9 @@ Eventually, the massive grey hulls of decommissioned naval warships came into vi
 
 We hurried back inside the warm passenger cabin, rejoining the adults just as the massive ferry gently bumped against the wooden pilings of the Bremerton dock. The heavy steel doors hissed open, and the fourteen of us joined the crowd of walk-on passengers streaming down the gangway, officially setting foot in downtown Bremerton.
 
-### Scene 3: The Bremerton Boardwalk
+***
 
-**Date:** 2005-03-20 at 11:00 America/Los_Angeles
+#### 11:00 AM — The Bremerton Boardwalk
 
 We funneled out of the ferry terminal, stepping into the crisp, salty air of Kitsap County. 
 
@@ -7718,9 +7838,9 @@ The waitstaff arrived with several massive baskets of fried halibut, clam strips
 
 After a hectic Saturday in downtown Seattle, sitting on the Bremerton waterfront felt like a true Sunday escape. We were miles away from the neon lights and the towering skyscrapers, enjoying a quiet meal under the watchful shadow of naval history.
 
-### Scene 4: The Pacific Fleet Naval Museum
+***
 
-**Date:** 2005-03-20 at 12:30 America/Los_Angeles
+#### 12:30 PM — The Pacific Fleet Naval Museum
 
 After polishing off the massive baskets of fried halibut and thick-cut fries, our fourteen-person pack left the waterfront pub and rolled right next door. 
 
@@ -7754,9 +7874,9 @@ By the time we finally exited the museum, the afternoon fog was beginning to lif
 
 Cassandra checked her digital watch. "It's almost three o'clock," she announced, raising her voice to address the sprawling pack. "The next Evergreen Marine ferry departs for Seattle at fifteen-twenty hours. Let's head back to the terminal."
 
-### Scene 5: The Sunday Return
+***
 
-**Date:** 2005-03-20 at 15:00 America/Los_Angeles
+#### 3:00 PM — The Sunday Return
 
 We made our way out of the museum and headed back up the Bremerton Boardwalk toward the ferry terminal. 
 
@@ -7786,9 +7906,9 @@ Instead of going out to the freezing observation deck this time, most of the pac
 
 By the time the iconic, towering silhouette of the Century Spire pierced through the afternoon haze, the ferry was already decelerating toward Colman Dock. We had conquered the Seattle grid, secured an East Coast stronghold, and successfully integrated both branches of the family. As the massive steel vessel bumped against the Seattle pilings, the fourteen of us prepared to disembark, officially concluding the weekend's massive logistical operation.
 
-### Scene 6: The Private Dining Room
+***
 
-**Date:** 2005-03-20 at 16:45 America/Los_Angeles
+#### 4:45 PM — The Private Dining Room
 
 The steep, grueling incline from Colman Dock back up to the Cascade Crest Hotel was enough to completely drain whatever energy the pack had left. The moment we pushed through the massive glass doors of the lobby, the fourteen of us practically collapsed into the elevators. 
 
@@ -7818,7 +7938,7 @@ When we finally rode the elevator back down to the lobby and stepped into the ho
 
 We spent the next three hours eating, laughing, and recounting the massive logistical hurdles of the weekend. We talked about the Century Spire, the massive ferry, the submarine control room, and the blueprints for Highcliff. For the first time all weekend, we weren't rushing to catch a bus or beat a crosswalk timer. We were just a family, enjoying our final night in Seattle before the reality of the East Coast flights pulled us all back to reality in the morning.
 
-### Scene 7: Lights Out
+### Part 2: Lights Out
 
 **Date:** 2005-03-20 at 21:30 America/Los_Angeles
 
@@ -7862,9 +7982,11 @@ Ten minutes later, the heavy blackout curtains were drawn, the lights were off, 
 
 ## Chapter 6: The Sacrifice
 
-### Scene 1: The 194 Express
+### The 194 Express & The 565
 
 **Date:** 2005-03-21 at 07:15 America/Los_Angeles
+
+#### 7:15 AM — The 194 Express
 
 Monday morning arrived with the chaotic, highly choreographed energy of a military deployment. 
 
@@ -7910,9 +8032,9 @@ So, while we waited for the 194, we did our final goodbyes right there on the DS
 
 Ten minutes later, the massive TAPS Route 194 express bus rumbled into the station. Liz, Casey, and I grabbed our duffel bags and followed my parents and the Delaney branches aboard, officially beginning the long trip south.
 
-### Scene 2: Decompression
+***
 
-**Date:** 2005-03-21 at 09:00 America/Los_Angeles
+#### 9:00 AM — Decompression
 
 The TAPS Route 194 express bus cleared the downtown Seattle grid and merged onto Interstate 5, packed to absolute capacity with our luggage and the departing East Coast family members. 
 
@@ -7942,9 +8064,9 @@ There were no words exchanged. We just lay there in the quiet apartment, the low
 
 The first day of Spring Break had officially begun.
 
-### Scene 3: The Bathroom Queue
+***
 
-**Date:** 2005-03-21 at 14:30 America/Los_Angeles
+#### 2:30 PM — The Bathroom Queue
 
 The three of us slept for over five straight hours on the pulled-out sofa bed. We were a completely motionless, tangled pile of limbs and blankets, collectively recharging from the sheer logistical weight of the weekend. 
 
@@ -7986,9 +8108,9 @@ Casey rolled off my chest, stumbling slightly as her feet hit the carpet. She dr
 
 I chuckled, throwing my arm back around Liz's waist and pulling her against me while we waited. "It's a good thing Highcliff Mansion is going to have more than one bathroom."
 
-### Scene 4: The 565
+***
 
-**Date:** 2005-03-21 at 19:15 America/Los_Angeles
+#### 7:15 PM — The 565
 
 By six-thirty that evening, the three of us had finally recovered enough energy to migrate from the living room sofa bed into the apartment's small kitchen. 
 
@@ -8018,9 +8140,11 @@ Cassandra nodded, picking up her fork. For the first time all weekend, the inten
 
 ## Chapter 7: The May Logistics
 
-### Scene 1: The May Logistics
+### Part 1: The May Logistics & Triage
 
 **Date:** 2005-03-22 at 08:30 America/Los_Angeles
+
+#### 8:30 AM • Casey Vance — The May Logistics
 
 With the massive Highcliff Mansion blueprints officially submitted to the East Coast contractors, Cassandra had smoothly pivoted her hyper-focused administrative gaze to her second real estate project: the Redmond house. 
 
@@ -8066,9 +8190,9 @@ I let out a slow exhale, the anxiety in my chest unspooling. It was a compromise
 
 "Okay," I nodded, looking back at Cassandra. "The transit logistics are locked. We're moving to Redmond for Memorial Day."
 
-### Scene 2: The Snohomish Run
+***
 
-**Date:** 2005-03-22 at 10:15 America/Los_Angeles
+#### 10:15 AM • David Vance — The Snohomish Run
 
 With the May logistics fully locked in, the rest of our Tuesday was a blank canvas. It was the middle of Spring Break, the skies over the Puget Sound were clear, and Liz and I had yet to truly explore the massive expanse of the Pacific Northwest. 
 
@@ -8112,9 +8236,9 @@ We stepped off the bus and stood on the sidewalk, the massive shopping complex s
 
 It was the most profoundly empowering feeling I had experienced since escaping the East Coast. We were entirely free, and the entire grid belonged to us.
 
-### Scene 3: Tuscany Slice
+***
 
-**Date:** 2005-03-22 at 13:00 America/Los_Angeles
+#### 1:00 PM • David Vance — Tuscany Slice
 
 The heavy glass doors of the Evergreen Mall slid open, hitting us with a blast of climate-controlled air and the unmistakable, echoing hum of mid-day shoppers. After spending nearly three hours on various TAPS buses, being able to fully stretch my legs felt incredible. 
 
@@ -8154,9 +8278,9 @@ Casey attacked her slice with equal enthusiasm, washing it down with a massive p
 
 I took another bite of the pizza, incredibly satisfied with the plan and the massive lunch.
 
-### Scene 4: The Retreat
+***
 
-**Date:** 2005-03-22 at 14:30 America/Los_Angeles
+#### 2:30 PM • David Vance — The Retreat
 
 The plan was solid. But my stomach had other ideas. 
 
@@ -8208,9 +8332,9 @@ She got me settled onto the sofa bed next to Casey, pulling a heavy fleece blank
 
 A few seconds later, it beeped.
 
-### Scene 5: Triage
+***
 
-**Date:** 2005-03-22 at 17:15 America/Los_Angeles
+#### 5:15 PM • David Vance — Triage
 
 The digital thermometer under my tongue let out a rapid series of high-pitched beeps. 
 
@@ -8260,9 +8384,11 @@ I was too physically weak to speak, but my mind was incredibly clear. As I liste
 
 She was the one. I was going to marry her.
 
-### Scene 6: The Recovery Protocol
+### Part 2: The Recovery Protocol & Bedtime Routine
 
 **Date:** 2005-03-22 at 18:15 America/Los_Angeles
+
+#### 6:15 PM — The Recovery Protocol
 
 Exactly one hour after Liz hung up the phone with my parents, the heavy deadbolt on the front door clacked open. 
 
@@ -8326,9 +8452,9 @@ I looked across the dimly lit living room at Liz, who was watching us with a loo
 
 I was home.
 
-### Scene 7: Bedtime Routine
+***
 
-**Date:** 2005-03-22 at 22:30 America/Los_Angeles
+#### 10:30 PM — Bedtime Routine
 
 The dry toast had miraculously stayed down, but the physical exertion of simply chewing it had completely depleted whatever tiny reserves of energy Casey and I had left. Our stomachs were battered, our legs felt like lead, and we were entirely too weak to move from the pull-out sofa bed. 
 
@@ -8372,9 +8498,11 @@ Sandwiched between the fierce loyalty of my sister and the unconditional love of
 
 ## Chapter 8: The Prospector's Keep
 
-### Scene 1: The BRAT Diet
+### The BRAT Diet & The Assignment
 
 **Date:** 2005-03-23 at 09:00 America/Los_Angeles
+
+#### March 23, 2005 • 9:00 AM — The BRAT Diet
 
 I woke up the next morning with my face buried in the soft fabric of the sofa bed, completely sandwiched between the two most important women in my life. Casey was still curled tightly against my chest, while Liz’s arms were wrapped securely around my waist from behind. 
 
@@ -8426,9 +8554,9 @@ Getting food poisoning was a miserable, violent experience. But spending the day
 
 I wouldn't have traded it for anything.
 
-### Scene 2: The Bidding Game
+***
 
-**Date:** 2005-03-23 at 11:00 America/Los_Angeles
+#### March 23, 2005 • 11:00 AM — The Bidding Game
 
 I knew I was going to marry Liz. That realization had locked itself into my brain with absolute certainty the night before. But right now, plotting a proposal wasn't even on my radar. I had much more immediate priorities: my seventeen-year-old sister was still pale, exhausted, and desperately needed to cuddle with her safe person. 
 
@@ -8474,9 +8602,9 @@ I looked over at Liz, who was watching us eat with a gentle, satisfied smile.
 
 The proposal could wait. Right now, I was exactly where I needed to be.
 
-### Scene 3: The Assignment
+***
 
-**Date:** 2005-03-24 at 09:30 America/Los_Angeles
+#### March 24, 2005 • 9:30 AM — The Assignment
 
 By the second morning of our strict quarantine, the divergent paths of our recovery became painfully obvious. 
 
@@ -8526,9 +8654,11 @@ Until then, I wasn't moving an inch.
 
 ## Chapter 9: A Desperate Escape
 
-### Scene 1: The Motorpool
+### Part 1: The Motorpool & The Sovereign Tour
 
 **Date:** 2005-04-08 at 15:00 America/Los_Angeles
+
+#### 3:00 PM — The Motorpool
 
 We had left Federal Way early that morning, navigating the heavy northbound traffic of I-5. Because the state had never finished building the massive I-296 bypass loop around Eldridge County, there was no way to avoid the crush of the urban core. Our three-van convoy was forced to sit through an absolute nightmare of gridlock as I-5 plunged directly through the towering, futuristic concrete canyons of Meridian City—a massive Tier 1 metropolis that easily rivaled Seattle. It took us over an hour just to clear the downtown sprawl and finally merge onto Interstate 96 East, which eventually deposited us onto the remote, alpine stretch of the North Cascades Highway.
 
@@ -8586,9 +8716,9 @@ It took ten minutes for the heavily coordinated Motorpool team to cross-load twe
 
 She put the heavy vehicle into gear, the steel chains biting into the ice as we began the brutal, serpentine ascent up Prospector Road.
 
-### Scene 2: The Great Hall Reveal
+***
 
-**Date:** 2005-04-08 at 15:20 America/Los_Angeles
+#### 3:20 PM — The Great Hall Reveal
 
 The three Ridgeback transit vans broke through the timberline at seven thousand feet. The true, towering majesty of The Prospector's Keep loomed against the jagged skyline, its three-foot-thick stone walls defying the brutal alpine elements. 
 
@@ -8658,9 +8788,9 @@ Victoria Vance looked at Cassandra, the final remnants of the Matriarch's icy de
 
 "Well, Cassandra," Victoria smiled, gesturing to the roaring fireplaces and the sprawling estate. "It appears we have three twentieth birthdays to celebrate today. Welcome home."
 
-### Scene 3: The Sovereign Tour
+***
 
-**Date:** 2005-04-08 at 08:30 America/Los_Angeles
+#### 8:30 AM — The Sovereign Tour
 
 The morning light at seven thousand feet was a blinding, crystalline white.
 
@@ -8706,9 +8836,11 @@ Victoria turned around and pointed back through the open oak doors into the mass
 
 "Let me show you the Grand Ballroom."
 
-### Scene 4: The Grand Ballroom
+### Part 2: The Grand Ballroom & The Birthday Lunch
 
 **Date:** 2005-04-08 at 09:00 America/Los_Angeles
+
+#### 9:00 AM — The Grand Ballroom
 
 Victoria led us back through the heavy oak doors of the portico, crossing the 1890s timber-framed lobby. She bypassed the residential wings and the dining room entirely, moving toward a set of massive, floor-to-ceiling iron-wrought doors at the rear of the Great Hall. 
 
@@ -8764,9 +8896,9 @@ Victoria turned, gesturing toward a set of polished brass doors gleaming in the 
 
 "If you will follow me to the glass elevator," the Matriarch commanded, "I will show you the top of the mountain."
 
-### Scene 5: The Chilkoot Wing
+***
 
-**Date:** 2005-04-08 at 09:30 America/Los_Angeles
+#### 9:30 AM — The Chilkoot Wing
 
 The massive brass-and-glass elevator was a breathtaking piece of engineering, but it couldn't comfortably fit twenty people at once. 
 
@@ -8812,9 +8944,9 @@ Victoria turned back to look at our family. "His son, Laurent Vance, took his fa
 
 "And now, ten years later," Victoria smiled, gesturing for us to follow her down the hall, "you are walking the halls of his inheritance. Welcome to the Chilkoot Wing."
 
-### Scene 6: The Summit Suite
+***
 
-**Date:** 2005-04-08 at 09:40 America/Los_Angeles
+#### 9:40 AM — The Summit Suite
 
 Victoria led our small group down the quiet, heavily carpeted corridor of the Chilkoot Wing. Unlike the massive, echoing spaces of the Great Hall or the Grand Ballroom below, this floor felt intimate, insulated, and impossibly quiet. 
 
@@ -8848,9 +8980,9 @@ Victoria stood near the door, watching the Delaneys swarm her most expensive roo
 
 She leaned over to Cassandra, pitching her voice just loud enough to be heard over the noise. "We should probably head down to the residential wing and show them their actual rooms for the weekend... before your pack breaks my antique furniture."
 
-### Scene 7: The Residential Wing
+***
 
-**Date:** 2005-04-08 at 10:30 America/Los_Angeles
+#### 10:30 AM — The Residential Wing
 
 After the staggering revelation in the Chilkoot Wing, Victoria led our massive East Coast pack back down the glass elevator and the grand staircase, leaving the quiet luxury of the fourth floor behind. 
 
@@ -8890,9 +9022,9 @@ And standing at the absolute center of the chaos, wearing a pristine white doubl
 
 I laughed, letting him drag me into the dining room. The Vanguard wasn't just a family; they were a self-sustaining tactical unit. And I was incredibly lucky to be related to them.
 
-### Scene 8: The Birthday Lunch
+***
 
-**Date:** 2005-04-08 at 11:00 America/Los_Angeles
+#### 11:00 AM — The Birthday Lunch
 
 Morgan Delaney dragged me through the heavy oak doors and into a massive, private dining room that overlooked the jagged, snow-capped peaks of the North Cascades. A heavy, dark-wood table was already set with pristine white linen, heavy silver flatware, and thick crystal water goblets. 
 
@@ -8936,9 +9068,11 @@ The table erupted into laughter, and for the first time since Kristine had ambus
 
 We were sitting in a fortress, surrounded by an army, eating a flawless birthday lunch prepared by an elite culinary brigade. The perimeter was perfectly, unequivocally secure.
 
-### Scene 9: The Extractions
+### Part 3: The Extractions & The Great Hall Cinema
 
 **Date:** 2005-04-08 at 11:30 America/Los_Angeles
+
+#### 11:30 AM — The Extractions
 
 As Diana’s brigade brought out massive, family-style platters of roasted chicken and heavy, cast-iron skillets of root vegetables, the conversation naturally drifted toward the origins of our respective protective postures. 
 
@@ -8990,9 +9124,9 @@ As the glasses clinked around the table, the final, lingering walls between our 
 
 We were home.
 
-### Scene 10: The Great Hall Cinema
+***
 
-**Date:** 2005-04-08 at 19:00 America/Los_Angeles
+#### 7:00 PM — The Great Hall Cinema
 
 The heavy, tactical conversations of the birthday lunch eventually gave way to the deep, comfortable exhaustion of a massive, shared meal. 
 
@@ -9034,7 +9168,7 @@ But inside the fortress, surrounded by the overwhelming warmth of the fire and t
 
 ## Chapter 10: A Moment of Peace
 
-### Scene 1: The Departure Logistics
+### The Departure Logistics
 
 **Date:** 2005-04-10 at 08:00 America/Los_Angeles
 
@@ -9106,9 +9240,11 @@ We had successfully breached the Sovereign Perimeter, and we had returned home w
 
 ## Chapter 1: The Mandate
 
-### Scene 1: The Deviation
+### The Deviation & The Sovereign News
 
 **Date:** 2014-01-14 at 18:00 America/Los_Angeles
+
+#### 6:00 PM — The Deviation
 
 The winter sun had already dipped below the Pacific Northwest evergreens, casting long, geometric shadows across the pristine courtyards of the Quantum campus. Inside the corner office of the executive suite, the frantic, high-stakes operational tempo of the day was finally beginning to slow.
 
@@ -9158,9 +9294,9 @@ David nodded, accepting the executive necessity, and immediately negotiated the 
 
 "Don't thank me yet," David smirked, pulling up a digital textbook on his tablet to pass the time. "You still have to sit in this building for another three hours."
 
-### Scene 2: The Pack Dinner
+***
 
-**Date:** 2014-01-14 at 18:30 America/Los_Angeles
+#### 6:30 PM — The Pack Dinner
 
 The sprawling glass atrium of the Building 33 lobby was practically deserted by half-past six. The daytime receptionist had long since gone home, leaving only a pair of quiet, highly trained corporate security guards monitoring the entry turnstiles.
 
@@ -9226,9 +9362,9 @@ David dried his hands, unzipping the secondary compartment of his leather medica
 
 With her physical baseline proactively secured and her mind remaining razor-sharp, the two of them exited the restroom and headed back to the elevators. They rode in silence up to the top floor, returning to the corner office to wait for the founders. The building was empty, the pain was managed, and the Vault was calling.
 
-### Scene 3: The Vault
+***
 
-**Date:** 2014-01-14 at 21:30 America/Los_Angeles
+#### 9:30 PM — The Vault
 
 The sprawling Quantum campus in Redmond was entirely dark, save for the geometric grids of security lights illuminating the courtyards and the glowing, impenetrable glass perimeter of Building 33. Inside the top-floor executive suite, the ambient noise of the multi-billion-dollar empire had faded into absolute silence. The administrative assistants were gone. The PR handlers had been dismissed hours ago. The only people left in the highly secure, soundproofed corner office were the three architects of the modern digital age, and the nurse who kept one of them upright.
 
@@ -9278,9 +9414,9 @@ Cassandra looked at the two men who had shaped her entire adult life. She didn't
 
 "Then let's get to work on the transition," Cassandra stated. "Because I have a few ground-level structural changes I intend to make on day one."
 
-### Scene 4: The Sovereign News
+***
 
-**Date:** 2014-01-14 at 22:30 America/Los_Angeles
+#### 10:30 PM — The Sovereign News
 
 The crisp January air was biting as Cassandra wheeled herself the few short blocks from the glowing glass facade of Building 33 to the quiet, tree-lined cul-de-sac where her property sat. The sprawling, 3,800-square-foot Pacific Northwest rambler was a fortress of commercial-grade accessibility, and as the front door clicked open, the warm, familiar ambient noise of her family instantly washed over her.
 
@@ -9334,9 +9470,11 @@ As the Guanfacine took hold, the deafening roar of corporate logistics, server d
 
 ## Chapter 2: The Ground Truth
 
-### Scene 1: The Morning Baseline
+### Part 1: The Morning Baseline & The Global Broadcast
 
 **Date:** 2014-01-15 at 07:00 America/Los_Angeles
+
+#### 7:00 AM — The Morning Baseline
 
 The alarm on Cassandra’s phone chimed a soft, melodic tone, instantly cutting through the quiet warmth of the master suite.
 
@@ -9366,9 +9504,9 @@ Casey threw her arms around Cassandra's neck for a massive, deep-pressure hug, f
 
 "I'll see you both for dinner," Cassandra smiled to Casey and Liz, turning her chair toward the door. David grabbed his heavy leather medical kit and his tablet, falling into step right beside her.
 
-### Scene 2: The Executive Pre-Flight
+***
 
-**Date:** 2014-01-15 at 08:30 America/Los_Angeles
+#### 8:30 AM — The Executive Pre-Flight
 
 The crisp January air was biting as Cassandra wheeled herself the short distance from her property, crossing into the impeccably landscaped, sprawling footprint of the Quantum campus. David walked right at her shoulder, his presence an absolute, immovable constant in her perimeter.
 
@@ -9402,9 +9540,9 @@ Steve let out a booming laugh that echoed off the glass walls. "That is exactly 
 
 At 9:55 AM, flanked by the billionaire founder and the outgoing CEO of Quantum, Cassandra Vance wheeled herself down the executive corridor toward the massive, frosted-glass double doors of the boardroom, entirely prepared to claim her empire.
 
-### Scene 3: The Succession Consensus
+***
 
-**Date:** 2014-01-15 at 10:00 America/Los_Angeles
+#### 10:00 AM — The Succession Consensus
 
 The atmosphere inside the Building 33 boardroom was thick with corporate anxiety.
 
@@ -9486,9 +9624,9 @@ Steve Ballantine let out a massive, booming cheer, walking over to wrap Cassandr
 
 The war room was hers. Cassandra Vance was officially tapped to be Quantum’s next CEO.
 
-### Scene 4: The Global Broadcast
+***
 
-**Date:** 2014-01-15 at 11:00 America/Los_Angeles
+#### 11:00 AM — The Global Broadcast
 
 The heavy, frosted-glass double doors of the boardroom swung open, and the hum of executive applause echoed down the carpeted hallway of Building 33.
 
@@ -9544,9 +9682,11 @@ Without a single PR filter, the email deployed simultaneously to over ninety tho
 
 Within seconds, internal chat channels, team message boards, and campus email servers across Redmond, Bellevue, Austin, London, and Tokyo lit up with an outpouring of excitement. The floorboards had heard their CEO—and the new era had officially begun.
 
-### Scene 5: The Shadow Wallet
+### Part 2: The Shadow Wallet & The Actuarial Risk
 
 **Date:** 2014-01-15 at 11:12 America/Los_Angeles
+
+#### 11:12 AM — The Shadow Wallet
 
 David Vance sat at his dedicated, comfortable desk positioned out of the direct line of corporate traffic in the corner of the executive suite. As Cassandra's Licensed Practical Nurse, his sole metric for success was her medical stability. He kept a silent medical overwatch, his eyes flicking between her micro-expressions and the real-time EKG data streaming to his tablet via a highly secure, built-in GPS and cellular uplink.
 
@@ -9596,9 +9736,9 @@ A soft, vibrating confirmation hummed from the device.
 
 "The cryptographic handshake is complete. The shadow limit is live," the associate announced, offering a crisp, deferential bow. "Welcome to the Meridian Global Desk, Ms. Vance."
 
-### Scene 6: The Global Desk
+***
 
-**Date:** 2014-01-15 at 11:20 America/Los_Angeles
+#### 11:20 AM — The Global Desk
 
 Cassandra looked at the heavy black metal in her hand. To her highly pragmatic mind, it was just a charge card. A tool for transactions. She slipped it out of its velvet presentation box and turned to her docked Quantum laptop.
 
@@ -9694,9 +9834,9 @@ Steve looked down at the thirty-five-year-old CEO-designate and her brother, who
 
 "Well," Steve smiled, checking his watch. "I believe you and David wanted to catch the bus to Bellevue to celebrate?"
 
-### Scene 7: The Actuarial Risk
+***
 
-**Date:** 2014-01-15 at 11:45 America/Los_Angeles
+#### 11:45 AM — The Actuarial Risk
 
 The silence in the corner office was profound. Cassandra Vance stared at the silver-barreled fountain pen in her hand, the sheer, staggering reality of the Meridian Global Desk still settling into her highly analytical processor.
 
@@ -9774,9 +9914,11 @@ Steve Ballantine pushed off the glass wall, a massive, triumphant grin spreading
 
 "Absolutely," Steve boomed, adjusting his tie. "I wouldn't miss it for the world."
 
-### Scene 8: The Route 230 Protocol
+### Part 3: The Route 230 Protocol & The Express Route
 
 **Date:** 2014-01-15 at 12:15 America/Los_Angeles
+
+#### 12:15 PM — The Route 230 Protocol
 
 By noon, the Redmond campus was buzzing with an electric, celebratory energy. The global email had deployed, and the "Courtyard CEO" was officially the successor.
 
@@ -9826,9 +9968,9 @@ When the bus finally dropped her off at the Bellevue Transit Center, she didn't 
 
 She was about to run the empire, but she was never going to forget the people who helped her build the foundation.
 
-### Scene 9: The Bellevue Reunion
+***
 
-**Date:** 2014-01-15 at 13:30 America/Los_Angeles
+#### 1:30 PM — The Bellevue Reunion
 
 When Cassandra Vance rolled into the twelfth-floor bullpen of Quantum's Downtown Bellevue tower, flanked closely by her brother David, the entire floor came to a complete, stunned halt.
 
@@ -9894,9 +10036,9 @@ From the next desk over, the older, gray-haired database architect caught the ro
 
 "Keep coding, kid," the veteran architect whispered fondly, entirely accustomed to the sibling dynamic that had governed Cassandra's baseline since the year 2005. "He's just doing his job."
 
-### Scene 10: The Express Route
+***
 
-**Date:** 2014-01-15 at 17:15 America/Los_Angeles
+#### 5:15 PM — The Express Route
 
 Cassandra spent the entire afternoon holding court in the Bellevue communal workspace. She didn't just dispense executive wisdom; she actively engaged with the newest generation of Quantum engineers, absorbing their modern frameworks and asking incisive, highly technical questions. By the time 5:00 PM rolled around, her piano-black laptop was filled with notes on new asynchronous routing protocols and database mappers.
 
@@ -9930,7 +10072,7 @@ As the 564 bus merged onto Interstate 405 North, effortlessly bypassing the grid
 
 The Board of Directors loved her, Wall Street had surged on her announcement, and the employees respected her because she was an architect who genuinely cared about the people building the foundation. But as the bus sped toward her final stop in Redmond, just three flat, paved blocks from her front door, none of that corporate gravity mattered.
 
-### Scene 11: The Sovereign Perimeter
+### Part 4: The Sovereign Perimeter
 
 **Date:** 2014-01-15 at 18:15 America/Los_Angeles
 
@@ -9992,9 +10134,11 @@ The four of them completed their evening routines and filed into the master suit
 
 ## Chapter 1: The Bloodline Convergence
 
-### Scene 1: The Rotor Wash
+### The Rotor Wash & The Floorboards
 
 **Date:** 2014-02-14 at 08:15 America/Los_Angeles
+
+#### 8:15 AM — The Rotor Wash
 
 The crisp, freezing February air whipped across the elevated concrete of the Quantum executive helipad.
 
@@ -10056,9 +10200,9 @@ Cassandra checked the heavy silver watch on her wrist. It was 08:35 AM.
 
 "Alright," Cassandra announced, her voice dropping into the calm, lethal register of a CEO. She looked toward the towering, glass-fronted monolith of the executive headquarters. "We have a trillion-dollar empire to formally hand over today, and Steve is waiting in the vault. Let's get everyone inside Building 33."
 
-### Scene 2: The Front Row
+***
 
-**Date:** 2014-02-14 at 08:50 America/Los_Angeles
+#### 8:50 AM — The Front Row
 
 The William Keswick Auditorium, located deep within the architectural heart of Building 33, was an amphitheater built for global broadcasts and shareholder summits. It was massive, sleek, and usually cordoned off with strict, corporate rigidity.
 
@@ -10118,9 +10262,9 @@ A sharp knock on the green room door interrupted the quiet moment. A production 
 
 "Alright," Steve grinned, clapping his hands together. "Let's go make some history."
 
-### Scene 3: The Floorboards
+***
 
-**Date:** 2014-02-14 at 09:00 America/Los_Angeles
+#### 9:00 AM — The Floorboards
 
 The William Keswick Auditorium was a sea of Quantum Blue Badges, packed to its absolute, structural capacity. Thousands of developers, QA testers, and program managers hummed with an electric, unprecedented anticipation. In the front row, the unified Vance-Whitaker and Virginia packs sat shoulder-to-shoulder, a formidable wall of sovereign loyalty holding the absolute best seats in the house.
 
@@ -10184,9 +10328,11 @@ Cassandra Vance was no longer just the architect in the shadows. The keys were i
 
 ## Chapter 2: The After Party
 
-### Scene 1: The Food Truck Festival
+### Part 1: The Food Truck Festival & The Transit Pledge
 
 **Date:** 2014-02-14 at 12:00 America/Los_Angeles
+
+#### 12:00 PM — The Food Truck Festival
 
 The sprawling, open-air plazas and forested courtyards of the Redmond campus had been completely transformed.
 
@@ -10226,9 +10372,9 @@ David looked down at his older sister, a fierce, undeniable pride radiating from
 
 "Good," Cassandra said simply, pulling her wheelchair forward a few inches as the line slowly advanced. "An ivory tower is a very lonely place to eat lunch. I prefer the courtyard."
 
-### Scene 2: The Zero-Proof Pavilion
+***
 
-**Date:** 2014-02-14 at 13:15 America/Los_Angeles
+#### 1:15 PM — The Zero-Proof Pavilion
 
 While the standard corporate beer-and-wine tents were heavily trafficked on the far side of the plaza, a distinctly different perimeter had been established near the center of the campus.
 
@@ -10292,9 +10438,9 @@ A single tear of pure relief rolled down Kelly's cheek. Ryan reached over, lacin
 
 They weren't just senior developers anymore. They were under the direct, unyielding protection of the Courtyard CEO.
 
-### Scene 3: The Cross-Pollination of Packs
+***
 
-**Date:** 2014-02-14 at 14:00 America/Los_Angeles
+#### 2:00 PM — The Cross-Pollination of Packs
 
 As the afternoon sun cast long shadows across the Redmond campus, the rigid boundaries that typically separated distinct corporate and familial ecosystems completely dissolved. The food truck festival had fostered a vibrant, egalitarian atmosphere, allowing the fierce, off-grid survivalists of the Mountain Vanguard to mingle directly with the intellectual titans of the Quantum engineering bullpens.
 
@@ -10334,9 +10480,9 @@ Kelly looked at Amanda, Sarah, and Ashleigh, and then back at Johnny. She reache
 
 Across the plaza, the atmosphere remained bright and celebratory. But beneath the laughter and the food trucks, the underlying law of the afternoon was absolute: the perimeters were active, the packs were consolidated, and the boundaries keeping both Cassandra and Johnny perfectly safe would never be breached.
 
-### Scene 4: The Transit Pledge
+***
 
-**Date:** 2014-02-14 at 16:45 America/Los_Angeles
+#### 4:45 PM — The Transit Pledge
 
 By late afternoon, the winter sun began to dip below the Pacific Northwest evergreens, casting a cool, golden twilight over the Redmond campus. The food trucks were slowly beginning to power down their generators, but the central plazas were still packed with thousands of Quantum employees who were reluctant to let the historic day end.
 
@@ -10376,9 +10522,11 @@ Cassandra let the cheers wash over the plaza, offering a sharp, satisfied nod to
 
 She handed the microphone back to the technician, unlocked her brakes, and wheeled smoothly back toward her family, having successfully laid the groundwork for the most ambitious infrastructure project in the company's history.
 
-### Scene 5: The Logistics of Departure
+### Part 2: The Logistics of Departure & The Lowland Entitlement
 
 **Date:** 2014-02-14 at 17:30 America/Los_Angeles
+
+#### 5:30 PM — The Logistics of Departure
 
 As the applause from the courtyard faded, the massive, synchronized machinery of the Vance-Whitaker family began its departure protocols.
 
@@ -10418,9 +10566,9 @@ Tom swallowed his pride, looking away and muttering a quiet, reluctant apology. 
 
 A moment later, the heavy, articulated TAPS bus hissed to a halt at the curb. The doors opened, the mechanical ramp deployed, and the CEO of Quantum tapped her blue transit pass against the reader, leading her family onto the bus exactly on her own terms.
 
-### Scene 6: The Executive Shutdown
+***
 
-**Date:** 2014-02-14 at 18:30 America/Los_Angeles
+#### 6:30 PM — The Executive Shutdown
 
 The heavy TAPS bus hissed to a smooth halt in the warm, ambient glow of the Downtown Redmond streetlights.
 
@@ -10454,9 +10602,9 @@ There was no hesitation in the routine. Casey immediately curled up against Cass
 
 Enveloped in the deep, restrictive pressure of her pack, the sheer magnitude of the day finally settled into a quiet, profound peace. The empire was hers, the perimeter was flawless, and the machine was secure. But lying in the dark, surrounded by the three people she loved most in the world, Cassandra Vance was simply home.
 
-### Scene 7: The Lowland Entitlement
+***
 
-**Date:** 2014-02-14 at 19:00 America/Los_Angeles
+#### 7:00 PM — The Lowland Entitlement
 
 Wendy dropped her purse onto the polished entryway table of their Downtown Redmond luxury suite and let out a long, quiet sigh. The hotel room was immaculate, boasting a sweeping view of the glowing Pacific Northwest tech corridor. 
 
@@ -10500,9 +10648,11 @@ Tom smiled, slipping the transit card safely back into his wallet.
 
 ## Chapter 1: The Silicon Valley Bypass
 
-### Scene 1: The Diridon Transfer
+### The Diridon Transfer & The Keynote and the BayPass Question
 
 **Date:** 2014-05-15 at 10:00 America/Los_Angeles
+
+#### 10:00 AM — The Diridon Transfer
 
 At 10:00 AM, as the ARTS Coast Starlight began its final, gentle deceleration into the Santa Clara Valley, a silent, haptic timer vibrated against David’s wrist.
 
@@ -10558,9 +10708,9 @@ Cassandra rolled effortlessly onto the train, maneuvering her chair into the des
 
 As the SVTA Light Rail accelerated smoothly away from the station, carrying the CEO of Quantum and her family directly toward the convention center doors, Cassandra leaned her head back against her chair. The transit grid was operating perfectly. The perimeter was secure. Silicon Valley was entirely on her terms.
 
-### Scene 2: The Handler Panic
+***
 
-**Date:** 2014-05-15 at 10:20 America/Los_Angeles
+#### 10:20 AM — The Handler Panic
 
 Marcus, the Lead VIP Logistics Coordinator for the Global Tech Leadership Summit, was currently experiencing the most terrifying morning of his professional career.
 
@@ -10624,9 +10774,9 @@ The line clicked dead.
 
 Marcus stood on the curb on Cahill Street, listening to his three V8 SUVs burning premium gasoline, utterly paralyzed by the realization that he had just been outmaneuvered by a woman in a wheelchair whose heart monitor was actively roasting his logistical incompetence.
 
-### Scene 3: The Flashbulb Perimeter
+***
 
-**Date:** 2014-05-15 at 10:45 America/Los_Angeles
+#### 10:45 AM — The Flashbulb Perimeter
 
 The sleek, blue-and-yellow SVTA Light Rail hissed to a perfect, level stop at the Convention Center Station. The doors slid open, welcoming the warm California morning into the carriage.
 
@@ -10692,9 +10842,9 @@ Marcus stared at her, completely and utterly neutralized.
 
 Marcus frantically waved the press pool aside. With Liz keeping a secure, grounding hand on David's shoulder and Casey walking closely beside them, Cassandra wheeled smoothly across the sunlit plaza. She left a trail of stunned reporters, a humiliated VIP handler, and a viral, irrefutable image of a BayPass card that would dominate Silicon Valley forums for the rest of the year.
 
-### Scene 4: The Keynote and the BayPass Question
+***
 
-**Date:** 2014-05-15 at 11:15 America/Los_Angeles
+#### 11:15 AM — The Keynote and the BayPass Question
 
 The main auditorium of the McEnery Convention Center was packed to its absolute structural limit. Thousands of tech executives, venture capitalists, software engineers, and media outlets sat in the dimmed theater, the ambient hum of anticipation buzzing through the room.
 
@@ -10744,9 +10894,11 @@ In the front row, David smiled, resting his arm around Liz's shoulder. The wider
 
 ## Chapter 2: The Fenwick Bridge Protocol
 
-### Scene 1: The Gates of DCA
+### Part 1: The Gates of DCA & The Weaponized Ledger
 
 **Date:** 2014-06-10 at 08:15 America/New_York
+
+#### 8:15 AM — The Gates of DCA
 
 Landing a private corporate aircraft at Ronald Reagan Washington National Airport (DCA) is a logistical nightmare that most Fortune 500 companies actively avoid. Under post-9/11 federal security mandates, operating a private flight into the District’s primary airport requires navigating the rigid, exhaustive protocols of the DCA Access Standard Security Program (DASSP)—complete with armed armed-marshal manifests, physical TSA gate screenings at designated gateway airports, and direct federal authorization.
 
@@ -10820,9 +10972,9 @@ The silver Capital Transit train glided smoothly onto the platform above.
 
 Cassandra turned her chair back around, rolling seamlessly onto the platform elevator alongside David, Liz, and Casey. The doors closed, leaving the K Street handler stranded at the gates, frantically searching for a quarter.
 
-### Scene 2: The L'Enfant Maze
+***
 
-**Date:** 2014-06-10 at 08:45 America/New_York
+#### 8:45 AM — The L'Enfant Maze
 
 The silver Yellow Line train plunged into the subterranean tunnels beneath Washington D.C., the rhythmic clatter of the tracks echoing through the cabin. Barely ten minutes after leaving the stranded K Street lobbyist at the DCA faregates, the train decelerated into the massive, vaulted concrete cavern of L'Enfant Plaza.
 
@@ -10858,9 +11010,9 @@ Exiting the station, the pack rode the street-level elevator up into the muggy D
 
 "Alright, pack," Cassandra said, adjusting the cuffs of her dark blazer and powering on her mounted Quantum laptop. Her processor shifted seamlessly from the protective, transit-navigating sister back into the apex predator of the corporate world. "Let's go talk to Congress."
 
-### Scene 3: The Witness Table
+***
 
-**Date:** 2014-06-10 at 09:30 America/New_York
+#### 9:30 AM — The Witness Table
 
 The heavy oak doors of the Senate Judiciary Committee room swung open, revealing a towering, vaulted chamber filled with polished marble, press cameras, and rows of mahogany pews.
 
@@ -10876,9 +11028,9 @@ Instead of remaining in the gallery, **David walked right alongside her, carryin
 
 In the primary VIP row directly behind them, Liz and Casey took their seats. Liz kept a light, steady hand on her lap, while Casey pulled out her digital camera, quietly adjusting her lens to capture the high-arched windows of the Capitol. The perimeter was intact, the sensory baseline was locked, and there was not a single PR handler around to disrupt them.
 
-### Scene 4: The LPN Protocol & The Galley Question
+***
 
-**Date:** 2014-06-10 at 09:35 America/New_York
+#### 9:35 AM — The LPN Protocol & The Galley Question
 
 The Committee Chairman, Senator Hayes—a seasoned, squeaky-clean legislator known for his meticulous adherence to Senate rules—tapped his gavel. The sharp crack echoed off the marble walls.
 
@@ -10906,9 +11058,9 @@ Seeing the CEO of Quantum pull out a MagnaByte mPad at a high-stakes congression
 
 "Thank you, Mr. Chairman," Cassandra began. "I am here today to talk about software, infrastructure, and the fundamental responsibilities of technology companies in the modern era."
 
-### Scene 5: The Weaponized Ledger
+***
 
-**Date:** 2014-06-10 at 09:50 America/New_York
+#### 9:50 AM — The Weaponized Ledger
 
 Cassandra delivered a concise, five-minute opening statement on friction-free software architecture and open standards. But as soon as she concluded, Senator Thomas leaned toward his microphone, a smug, predatory grin spreading across his face. He had been reading the morning’s headlines from *Silicon Valley Unfiltered*.
 
@@ -10952,9 +11104,11 @@ Senator Thomas quietly shuffled his papers, turned his microphone off, and did n
 
 Beside Cassandra, David quietly checked her pulse oximeter, satisfied to find her baseline steady, composed, and completely in control of the floorboards.
 
-### Scene 6: The MAR Protocol
+### Part 2: The MAR Protocol & The Telescope Protocol
 
 **Date:** 2014-06-10 at 10:05 America/New_York
+
+#### 10:05 AM — The MAR Protocol
 
 The hearing room was still humming with the quiet, lingering tension of Senator Thomas’s public humiliation. The press gallery was practically vibrating, reporters furiously typing out drafts of what was already shaping up to be greatest congressional takedown of the decade.
 
@@ -11004,9 +11158,9 @@ It wasn't a stunt. It wasn't an entourage. It was an immutable, temperature-sens
 
 "I completely agree with your assessment of the server vulnerabilities, Ms. Vance," Chairman Hayes said warmly, leaning into his microphone. "Your clarity on this matter is deeply appreciated. Please, continue with your analysis."
 
-### Scene 7: The Finch Expedition
+***
 
-**Date:** 2014-06-10 at 11:15 America/New_York
+#### 11:15 AM — The Finch Expedition
 
 The gavel struck the wooden block, officially adjourning the Senate Judiciary Committee hearing.
 
@@ -11068,9 +11222,9 @@ Cassandra glanced back at David, who was smiling as Casey pointed out a vintage 
 
 She hung up the phone, flipped the hardware mute switch, and rolled effortlessly through the wide, level-boarding entrance of the Finch Museum, completely content to leave the world of corporate handlers behind for the rest of the afternoon.
 
-### Scene 8: The Civilian Perimeter
+***
 
-**Date:** 2014-06-10 at 12:00 America/New_York
+#### 12:00 PM — The Civilian Perimeter
 
 The transition from the marble halls of Capitol Hill to the bustling atrium of the Finch Air and Space Museum required a hard reset of the pack's operational profile.
 
@@ -11102,9 +11256,9 @@ To the rest of the world, Cassandra Vance was a titan of industry. But as she sa
 
 "Alright, eat up," Cassandra instructed, wiping her hands with a napkin and unlocking her wheelchair brakes. "The Finch museums are totally free to wander around, but I checked the schedule and there's a documentary playing in the large-format theater in thirty minutes. We need to swing by the box office and buy tickets before they sell out."
 
-### Scene 9: The Telescope Protocol
+***
 
-**Date:** 2014-06-10 at 13:00 America/New_York
+#### 1:00 PM — The Telescope Protocol
 
 The large-format theater inside the Finch Air and Space Museum required a strict adherence to civilian etiquette. Before joining the queue for the documentary, the pack stopped at the front visitor counter, checking their heavy weekend duffel bags with the attendant so they wouldn't have to haul them through the crowded theater aisles.
 
@@ -11166,7 +11320,7 @@ Cassandra rolled off the train, guiding her family to the street-level elevator.
 
 Cassandra led them exactly one block over to their luxury hotel. There was no motorcade, no frantic lobbying team waiting in the lobby, and no press pool. Thanks to the absolute autonomy of the Capital Transit grid, the CEO of Quantum checked in at the front desk looking like nothing more than a standard tourist, her family safe and insulated by her side.
 
-### Scene 10: The Escalator Trap
+### Part 3: The Escalator Trap
 
 **Date:** 2014-06-10 at 16:15 America/New_York
 
@@ -11234,9 +11388,11 @@ Greg slowly lowered his phone, looking down into the escalator shaft. They hadn'
 
 ## Chapter 3: The Connecticut Avenue Protocol
 
-### Scene 1: The ELstat Briefing
+### The ELstat Briefing & The Front Gate Arrival
 
 **Date:** 2014-06-11 at 17:30 America/New_York
+
+#### 5:30 PM — The ELstat Briefing
 
 The luxury suite overlooking Farragut Square was buzzing with quiet, focused preparation. Tonight was the Global Wildlife Conservation Gala at the Finch National Zoological Park, a highly exclusive, black-tie event crawling with federal politicians, international dignitaries, and tech titans.
 
@@ -11264,9 +11420,9 @@ Cassandra hit a keystroke on her laptop, closing her terminal window, and offere
 
 Greg blinked, his smugness faltering. "But... it has 'Zoo' in the name."
 
-### Scene 2: The Topography Trap
+***
 
-**Date:** 2014-06-11 at 17:45 America/New_York
+#### 5:45 PM — The Topography Trap
 
 David stepped forward, adjusting his tie, a quiet smirk playing on his lips. Having spent hours analyzing the District's transit grid with his sister, he knew exactly where the trap lay.
 
@@ -11282,9 +11438,9 @@ She wheeled herself past the stunned lobbyist and out into the hallway.
 
 "David, grab my blazer. We're catching the L2."
 
-### Scene 3: The Surface Fleet
+***
 
-**Date:** 2014-06-11 at 18:00 America/New_York
+#### 6:00 PM — The Surface Fleet
 
 The pack descended the hotel elevator to the street level, stepping out into the warm, golden evening light of Farragut Square. Greg trailed frantically behind them, his tailored suit already starting to feel tight.
 
@@ -11304,9 +11460,9 @@ Greg stood on the sidewalk, entirely defeated. His multi-million-dollar executiv
 
 The bus doors snapped shut.
 
-### Scene 4: The Front Gate Arrival
+***
 
-**Date:** 2014-06-11 at 18:20 America/New_York
+#### 6:20 PM — The Front Gate Arrival
 
 The ride up Connecticut Avenue was a masterclass in surface transit efficiency.
 

@@ -6,7 +6,7 @@ title: "Nate"
 
 ## Chapter 1: The Triplet Anomaly — Saturday, April 16, 1994
 
-### Scene 1: The Rhythmic Drumming
+### The Rhythmic Drumming
 
 **Date:** 1994-04-16 America/New_York
 
@@ -58,9 +58,11 @@ Before the character could fall to a game-over screen, Sarah’s larger, steady 
 
 ## Chapter 1: The Line in the Sand - Friday, November 10, 2006
 
-### Scene 1: The Hydraulic Hiss And Heavy
+### Part 1: The Hydraulic Hiss And Heavy & The Transition From The Chaotic
 
 **Date:** 2006-11-10 America/New_York
+
+#### The Hydraulic Hiss And Heavy
 
 The hydraulic hiss and heavy diesel fumes of the Norfolk Pathfinder terminal were overwhelming, but they were nothing compared to the sharp, sudden sting of Valerie’s voice.
 
@@ -132,9 +134,9 @@ He turned his wheelchair around to face the terminal again. Valerie was still th
 
 He was not getting on that bus. The fortress was coming to get him.
 
-### Scene 2: Nate Slowly Turned His Manual
+***
 
-**Date:** 2006-11-10 America/New_York
+#### Nate Slowly Turned His Manual
 
 Nate slowly turned his manual chair away from the bank of battered payphones. He navigated back to the edge of the waiting area, settling into a spot that gave him a clear view of the terminal's main sliding glass doors.
 
@@ -170,9 +172,9 @@ The outbound Pathfinder connecting to Los Angeles wasn't scheduled to depart for
 
 "They're almost here," Nate said quietly, keeping his eyes locked on the main entrance. The terminal was still loud, the diesel fumes were still thick, and Valerie was still standing right in front of him, physically hurting and spinning her web of lies. But the perimeter was already shifting. All he had to do was hold the line until the glass doors opened.
 
-### Scene 3: The Digital Clock
+***
 
-**Date:** 2006-11-10 America/New_York
+#### The Digital Clock
 
 The digital clock on the terminal wall clicked to 2:58 PM when the heavy glass automatic doors slid open, letting in a rush of cold November air.
 
@@ -222,9 +224,9 @@ They turned their backs on Valerie, leaving her standing entirely alone in the m
 
 The perimeter was secured. The fortress had held. He was finally going home.
 
-### Scene 4: The Transition From The Chaotic
+***
 
-**Date:** 2006-11-10 America/New_York
+#### The Transition From The Chaotic
 
 The transition from the chaotic, diesel-choked air of the Pathfinder terminal to the quiet, insulated cabin of Evelyn’s sedan was immediate and profound.
 
@@ -266,9 +268,11 @@ Nate closed his eyes, letting the tears fall freely as the car crossed the city 
 
 They were going home. And tomorrow, they would start rebuilding the fortress.
 
-### Scene 5: The Sedan Hummed Steadily Along
+### Part 2: The Sedan Hummed Steadily Along & Evelyn Walked Back Into
 
 **Date:** 2006-11-10 America/New_York
+
+#### The Sedan Hummed Steadily Along
 
 The sedan hummed steadily along Interstate 264 Eastbound, putting miles between Nate and the nightmare at the Pathfinder terminal. As the green highway sign for Exit 18 loomed overhead, Evelyn engaged the turn signal, smoothly guiding the car down the off-ramp and banking right onto Rosemont Road.
 
@@ -308,9 +312,9 @@ Nate closed his eyes as the car drew closer to their neighborhood. He thought ab
 
 "Yeah," Nate agreed quietly. "I'd really like that."
 
-### Scene 6: Evelyn Turned The Sedan Into
+***
 
-**Date:** 2006-11-10 America/New_York
+#### Evelyn Turned The Sedan Into
 
 Evelyn turned the sedan into the familiar driveway, the tires crunching softly against the concrete before the engine finally cut off. The sudden silence in the car was heavy, marking the absolute end of the extraction. They were home.
 
@@ -354,17 +358,17 @@ Sarah kept her arms locked around him until the violent shaking slowly began to 
 
 Nate took a ragged breath, looking toward the door that led to their converted garage studio. The sanctuary was just a few feet away. He nodded, wiping his eyes with the back of his hand. "Yeah. It's worth a try."
 
-### Scene 7: Placeholder For Local Generation
+***
 
-**Date:** 2006-11-10 America/New_York
+#### Placeholder For Local Generation
 
 \[PLACEHOLDER FOR LOCAL GENERATION: THE CAREGIVING SCENE\]
 
 *(Author's Note: This section is intentionally reserved for local generation using the Dolphin model via LM Studio. This scene depicts Sarah providing vulnerable, clinical physical care—specifically helping Nate bathe to relieve his spastic muscles and wash away the sensory trauma of the terminal. Because cloud-based AI safety filters frequently and incorrectly flag non-sexual, clinical caregiving scenes as inappropriate, this segment must be written locally. This ensures Nate's disability representation and trauma recovery are handled with the raw, clinically accurate, and dignified respect they require, without algorithmic interruption.)*
 
-### Scene 8: The Hot Water Had Done
+***
 
-**Date:** 2006-11-10 America/New_York
+#### The Hot Water Had Done
 
 The hot water had done its job, melting the violent, rigid spasticity out of Nate's muscles and leaving him with the heavy, boneless exhaustion of a survivor who had finally stopped running.
 
@@ -408,9 +412,9 @@ Sarah’s hand paused in his hair. She understood exactly what the request meant
 
 Nate let out a shaky breath, closing his eyes as the last of his adrenaline finally burned away. The house was quieter than it was in 1994, and the fortress was smaller, but as he lay anchored in his sister's arms, he knew it was strong enough.
 
-### Scene 9: Evelyn Walked Back Into
+***
 
-**Date:** 2006-11-10 America/New_York
+#### Evelyn Walked Back Into
 
 Evelyn walked back into the living room, carrying two heavy, thick-chassis laptops. She handed the silver one to Sarah and gently rested the dark gray one across Nate’s blanket-covered thighs. The warmth of the battery pack seeped through the thick knit fabric, providing an oddly comforting, steady weight against his legs.
 
@@ -474,9 +478,11 @@ He wasn't going to have to wait a month and a half. His two best friends, the gi
 
 The fortress wasn't just secure. By tomorrow afternoon, the garrison would be fully reinforced.
 
-### Scene 10: The Transition From Chronic Survival-Mode
+### Part 3: The Transition From Chronic Survival-Mode & Nate Woke Up
 
 **Date:** 2006-11-10 America/New_York
+
+#### The Transition From Chronic Survival-Mode
 
 The transition from chronic, survival-mode terror to the sudden, overwhelming reality of profound joy is not a gentle slope. For a neurodivergent nervous system that has been running on the redline for two years, it is a high-speed collision.
 
@@ -550,9 +556,9 @@ Sarah smiled, leaning down to press her cheek against the top of his head. "Stor
 
 Nate nodded slowly. The meltdown had burned through the last of his reserves, leaving him ready to finally sleep. He was exhausted, battered, and his muscles ached, but the fortress was entirely intact.
 
-### Scene 11: Nate Woke Up
+***
 
-**Date:** 2006-11-10 America/New_York
+#### Nate Woke Up
 
 Nate woke up to the smell of brewing coffee and the quiet, rhythmic hum of the countertop dishwasher.
 
@@ -604,9 +610,11 @@ Nate threw the covers back. For the first time in two years, he wasn't dreading 
 
 ## Chapter 2: The Reinforcements - Saturday, November 11, 2006
 
-### Scene 1: Nate Woke Up
+### Part 1: Nate Woke Up & The Click Of The Phone
 
 **Date:** 2006-11-11 America/New_York
+
+#### Nate Woke Up
 
 Nate woke up to the smell of brewing coffee and the quiet, rhythmic hum of the countertop dishwasher.
 
@@ -656,9 +664,9 @@ Nate looked between his mother and his sister. The fortress wasn't just being de
 
 Nate threw the covers back. For the first time in two years, he wasn't dreading leaving the house. He couldn't wait to get to the airport.
 
-### Scene 2: The Fluorescent Lights Of Lambert-St
+***
 
-**Date:** 2006-11-11 America/New_York
+#### The Fluorescent Lights Of Lambert-St
 
 The fluorescent lights of Lambert-St. Louis International Airport hummed with a low, chaotic energy, but Brittany Bennett barely registered the noise. She stood near the arrival gate of the inbound flight from Seattle, shifting her weight to favor her left leg. The familiar, tight ache of her cerebral palsy spasticity radiated through her right hip—a constant, low-grade limp that flared up when she was tired or stressed.
 
@@ -732,9 +740,9 @@ They moved through the bustling terminal with effortless, synchronized ease. As 
 
 The triplets were coming back together.
 
-### Scene 3: The Click Of The Phone
+***
 
-**Date:** 2006-11-11 America/New_York
+#### The Click Of The Phone
 
 The click of the phone receiver settling back into its cradle felt like a starter pistol going off in Nate’s chest.
 
@@ -772,9 +780,11 @@ Nate gripped his push-rims, his heart hammering with a fierce, protective energy
 
 Nate wheeled himself toward the hallway mirror to double-check his jacket. The wait was still going to be excruciating, but the dread was entirely gone. He had a mission, he had a route, and he had exactly three hours left until the triplets were whole again.
 
-### Scene 4: The Crisp Bright November Air
+### Part 2: The Crisp Bright November Air & The Heavy Frosted Glass Doors
 
 **Date:** 2006-11-11 America/New_York
+
+#### The Crisp Bright November Air
 
 The crisp, bright November air felt entirely different today. Yesterday, the cold had felt biting and hostile as Nate sat shivering in the back of his mother's sedan, fleeing the Pathfinder terminal. Today, as Sarah wheeled him down the driveway ramp, the chill in the air just felt sharp, awake, and full of promise.
 
@@ -812,9 +822,9 @@ Beyond the glass partition and the heavy, one-way security doors, they could see
 
 The digital clock on the wall ticked forward. Every time the heavy exit doors slid open, letting out a rush of conditioned air and the muffled sound of the concourse, Nate held his breath. He was ready. He was right where he needed to be. The perimeter was set, and the wait was almost over.
 
-### Scene 5: The Heavy Frosted Glass Doors
+***
 
-**Date:** 2006-11-11 America/New_York
+#### The Heavy Frosted Glass Doors
 
 The heavy, frosted glass doors of the TSA exit slid open and closed, releasing a steady rhythm of business travelers and returning vacationers. With every hiss of the automated sensors, Nate’s grip on his push-rims tightened.
 
@@ -874,7 +884,9 @@ The fortress wasn't just secure. It was impenetrable.
 
 ## Chapter 3: Christmas Holiday – Saturday, December 23rd, 2026
 
-### Scene 1: Chesapeake Bay Mall Was
+### Part 1: Chesapeake Bay Mall Was & The Giant Cheese-Covered Pretzel Had
+
+#### Chesapeake Bay Mall Was
 
 Chesapeake Bay Mall was a sensory nightmare of blaring holiday music, blinding fluorescent lights, and thousands of panicked, last-minute shoppers. But for Nate, Megan, and Brittany, the chaos wasn't triggering a meltdown. They had prepared for the noise, and more importantly, they weren't navigating it alone.
 
@@ -964,7 +976,9 @@ The elevator chimed, the doors sliding open to drop them directly onto the secon
 
 The fortress was back together, Valerie was gone, and they had a giant pretzel to hunt down.
 
-### Scene 2: The Glass Elevator Chimed
+***
+
+#### The Glass Elevator Chimed
 
 The glass elevator chimed, the doors parting to release Nate, Megan, Brittany, and their escorts onto the second-floor landing. A moment later, the walking phalanx stepped off the top of the metal escalators, seamlessly merging back around the three wheelchairs.
 
@@ -1018,7 +1032,9 @@ Nate rested his hands on his lap, letting the loud, overlapping conversations of
 
 He looked across the table at Brittany and Megan. The triplets shared a silent, knowing look amidst the chaos. They had survived the worst, and now, they were exactly where they were always meant to be.
 
-### Scene 3: The Giant Cheese-Covered Pretzel Had
+***
+
+#### The Giant Cheese-Covered Pretzel Had
 
 The giant, cheese-covered pretzel had been successfully dismantled and devoured by Emma, with Francis and David happily finishing off the scraps. The mood at the massive, pushed-together table was lighter than it had been in years.
 
@@ -1070,7 +1086,7 @@ Jessica pulled her wallet out, grinning at Francis. "Go pay for the guard dog. T
 
 Nate leaned back against his chair, his hands resting on the plush hound. The mall was absolute chaos, the holiday rush was peaking, and the sensory noise was at maximum volume. But completely surrounded by his sisters, his cousins, and his fierce, tiny bodyguard, he was completely untouchable.
 
-### Scene 4: The Heavy Glass Doors
+### Part 2: The Heavy Glass Doors
 
 The heavy glass doors of Chesapeake Bay Mall slid shut behind them, cutting off the blaring holiday music and replacing it with the sharp, crisp chill of the December afternoon. The sun was already beginning its early winter descent, casting long shadows across the massive parking lot.
 
@@ -1130,9 +1146,11 @@ The diesel engine rumbled, and the trolley pulled out of the Chesapeake Bay Mall
 
 ## Chapter 1: The Fortress – Thursday, August 23, 2007
 
-### Scene 1: The Hydraulic Hiss
+### The Hydraulic Hiss & The Transition From The Late-Summer
 
 **Date:** 2007-08-23 America/New_York
+
+#### The Hydraulic Hiss
 
 The hydraulic hiss of the Coastal Virginia Transit Authority bus was a familiar, rhythmic punctuation to Nate’s week. The heavy metal ramp clattered against the concrete curb just outside the Community College of Hampton Roads. Sarah didn’t need to ask; she gripped the handles of his manual wheelchair, tilted him back just a fraction to clear the lip of the ramp, and pushed him smoothly into the air-conditioned chill of the \#25 bus.
 
@@ -1160,9 +1178,9 @@ Nate held the brief eye contact for barely a heartbeat before looking away. His 
 
 "I got it, I got it," Sarah smiled, tapping the paper with her pen as the bus lurched forward, carrying them away from the campus and toward the city line.
 
-### Scene 2: The #25 Bus Groaned
+***
 
-**Date:** 2007-08-23 America/New_York
+#### The #25 Bus Groaned
 
 The \#25 bus groaned to a halt at the intersection of Princess Anne Road and Baxter Road. The pneumatic doors hissed open, and the heavy, humid blanket of the late-summer Virginia heat immediately spilled into the air-conditioned cabin.
 
@@ -1212,9 +1230,9 @@ Sarah slid into the vinyl booth, passing Nate his foil-wrapped burger and his th
 
 Nate unwrapped his food, the tension completely gone from his shoulders. He was safe. He had his favorite food. He had his sister. And for the first time in a very long time, as he took a bite of his burger, the future didn't feel like a threat.
 
-### Scene 3: The Transition From The Late-Summer
+***
 
-**Date:** 2007-08-23 America/New_York
+#### The Transition From The Late-Summer
 
 The transition from the late-summer heat of the Virginia Beach plaza to the quiet, predictable hum of their neighborhood was exactly the kind of environmental regulation Nate’s nervous system needed. By the time they finished the grocery run at Harbor Farms and their mother picked them up in the old family sedan, the exhaustion of the outing had settled comfortably in his bones. He was tired, but it was a "good" tired—the kind earned from existing safely in the world, rather than surviving a battle.
 
@@ -1278,9 +1296,11 @@ Nate closed his eyes, the hum of the air conditioner lulling him to sleep. The f
 
 ## Chapter 2: The Logistics of Trust – Friday, August 24, 2007
 
-### Scene 1: The Alarm Went Off
+### Part 1: The Alarm Went Off & The 1130 Am Dismissal Was
 
 **Date:** 2007-08-24 America/New_York
+
+#### The Alarm Went Off
 
 The alarm went off at 6:30 AM, slicing through the quiet hum of the bedroom. Sarah was up before the second beep.
 
@@ -1334,9 +1354,9 @@ They arrived at the classroom door ten minutes early. It was locked, the hallway
 
 Nate nodded, taking a deep breath of the recycled academic air. He wasn't hiding in a bedroom anymore. He was here.
 
-### Scene 2: At Exactly Ten Minutes
+***
 
-**Date:** 2007-08-24 America/New_York
+#### At Exactly Ten Minutes
 
 At exactly ten minutes to nine, a tired-looking adjunct professor ambled down the hall with a ring of keys, unlocking the heavy wooden door to the classroom.
 
@@ -1368,9 +1388,9 @@ They were in the trenches together. And because of that, Nate survived the fifty
 
 When the clock on the wall finally clicked to 9:50 AM and the professor dismissed the room, Nate closed his notebook with a loud, definitive snap. Step one of his collegiate return was officially complete. They had survived math.
 
-### Scene 3: The Transition Out
+***
 
-**Date:** 2007-08-24 America/New_York
+#### The Transition Out
 
 The transition out of the Kempsville building was a breath of fresh air, both literally and academically. Exiting the heavy glass doors, Sarah immediately banked the wheelchair to the right. They followed the concrete path that hugged the water's edge, navigating their way to the other side of the campus lake. The late-morning sun was glinting off the water, and the oppressive dread of polynomials was already fading from their minds.
 
@@ -1406,9 +1426,9 @@ The room erupted into the chaotic rustle of notebooks closing and backpacks zipp
 
 "Well, hold that thought until after we eat," Sarah laughed, stepping around to the back of his chair and gripping the handles. "It's 11:30. The Kempsville grate is up, and I owe you a plate of chicken tenders."
 
-### Scene 4: The 1130 Am Dismissal Was
+***
 
-**Date:** 2007-08-24 America/New_York
+#### The 1130 Am Dismissal Was
 
 The 11:30 AM dismissal was a tactical advantage. By the time Nate and Sarah navigated back around the lake and pushed through the doors of the Kempsville building, the heavy metal security grate over the cafe was completely rolled up. More importantly, they had beaten the noon rush.
 
@@ -1516,9 +1536,11 @@ They watched her board the bus, the doors hissing shut behind her. As the bus pu
 
 "Well," Sarah said, her voice quiet as she turned him toward the Bayside building for their afternoon class. "That just happened."
 
-### Scene 5: The Community College Of Hampton
+### Part 2: The Community College Of Hampton & Saturday Morning Was Completely Silent
 
 **Date:** 2007-08-24 America/New_York
+
+#### The Community College Of Hampton
 
 The Community College of Hampton Roads was built on the coastal plain of Virginia Beach, which meant the campus geography was a wheelchair user's dream: one hundred percent, unequivocally flat. There were no exhausting inclines to battle, no steep ramps to navigate, and no terraced courtyards. It was just smooth, unbroken concrete stretching between the brick buildings.
 
@@ -1556,9 +1578,9 @@ The first day of college was almost in the books. And as the economics professor
 
 He was just thinking about a girl with curly hair, a yellow legal pad, and the profound, grounding weight of a hug that felt entirely, wonderfully safe.
 
-### Scene 6: Saturday Morning Was Completely Silent
+***
 
-**Date:** 2007-08-24 America/New_York
+#### Saturday Morning Was Completely Silent
 
 Saturday morning was completely silent. There were no screeching air brakes from the \#25 bus, no crowded cafeterias, and no lectures. Just the quiet hum of the central air conditioning in their mother's house.
 
@@ -1602,7 +1624,7 @@ For the first time since the trauma, Nate wasn't just dreading the future or hid
 
 ## Chapter 3: Expanding the Perimeter – Monday, August 27, 2007
 
-### Scene 1: The Weekend Ended But
+### The Weekend Ended But
 
 **Date:** 2007-08-27 America/New_York
 

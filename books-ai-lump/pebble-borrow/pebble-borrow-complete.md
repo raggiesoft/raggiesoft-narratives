@@ -8,7 +8,7 @@ title: "Pebble Borrow"
 
 ## The Threshold
 
-### Scene 1: Out of the Storm
+### Out of the Storm
 
 US Highway 11 was not built for pedestrians. There was no shoulder, no sidewalk—just a harsh ribbon of asphalt consisting of a northbound lane, a center turn lane, and a southbound lane where cars whipped past them at terrifying speeds.
 
@@ -448,7 +448,7 @@ Drake grinned proudly in the blue light of the television. "Told you."
 
 ## Setting the Scene
 
-### Scene 1: The APEX Late-Night Switch
+### Part 1: The APEX Late-Night Switch
 
 The credits of some cheesy, explosions-and-bad-dialogue action flick rolled across the screen, casting a flickering, blue-white glow over the cramped space of Room 114. It was exactly 11:00 PM on a Friday.
 
@@ -500,7 +500,7 @@ Behind her, the TV stayed dark.
 
 And that was exactly how it needed to be.
 
-### Scene 2: The APEX World Premier Presentation
+### Part 2: The APEX World Premier Presentation
 
 The following night, the legal pads and the LPN brochures were temporarily shoved into the desk drawer.
 
@@ -548,7 +548,7 @@ Seeing them completely mesmerized, completely transported from their heavy reali
 
 ## Amanda Protects her Siblings
 
-### Scene 1: The APEX Late‑Night Switch
+### Part 1: The APEX Late‑Night Switch
 
 The motel room was silent except for the low hum of the CRT television and the faint buzz of the neon sign outside. Amanda had fallen asleep at the desk again, cheek pressed against the open LPN textbook, highlighter still in her hand. The reading lamp cast a harsh cone of light over the pages, but her eyes had given up an hour ago.
 
@@ -600,7 +600,7 @@ Behind her, the TV stayed dark.
 
 And that was exactly how it needed to be.
 
-### Scene 2: Saturday Morning — The Teasing Begins
+### Part 2: Saturday Morning — The Teasing Begins
 
 Morning sunlight pushed through the plastic blinds in thin, uneven stripes, cutting across the motel room like a barcode. The neon sign outside had finally flickered off, leaving only the distant hum of highway traffic and the muffled plumbing noises from the room next door.
 
@@ -1456,7 +1456,7 @@ Erika walked over to the kitchen island, bypassing the leftover pizza to grab a 
 
 ## Returning to the Surface
 
-### Scene 1: The Apocalyptic Reality
+### Part 1: The Apocalyptic Reality
 
 The triplets exchanged a confused look. Drake stepped forward, gesturing to the silent walls. "Was it a drill? The noise that stopped?"
 
@@ -1474,7 +1474,7 @@ Drake’s jaw dropped. He looked slowly down at the floor, as if expecting the c
 
 "We stopped it," Victor said firmly, making sure his nieces and nephew looked at him, not the floor. "The power is cut, the console is locked, and the drill is officially dead. You are entirely safe. But the sheer, monumental stupidity required to let it get this far..." His jaw tightened. "The man who ran this place didn't just embezzle funds for a bowling alley and a computer. He nearly wiped out the Eastern Seaboard out of pure negligence."
 
-### Scene 2: The Burden of Ownership
+### Part 2: The Burden of Ownership
 
 Amanda let out a shaky breath, stepping back to lean against the kitchen counter. "So... what now? Do we pack up and leave? Hand it over to the government?"
 
@@ -1607,7 +1607,7 @@ The dream of unlimited energy died at 0645 hours.
 
 ## The Holy Grail of Geothermal Energy
 
-### Scene 1: 0700 Hours: The First Refusal
+### 0700 Hours: The First Refusal
 
 Outside the reinforced steel gates of the Pebble Burrow Institute, the early morning Virginia fog still clung to the asphalt. General Peter Vance stood inside his mobile command center—a heavily armored, state-of-the-art communications truck parked just beyond the facility's property line.
 
@@ -1658,7 +1658,7 @@ It was the ultimate professional death sentence. A four-star general had just of
 
 ## 0830 Hours: The Four-Star Directive
 
-### Scene 1: The Net Closes
+### The Net Closes
 
 Before Vance could even react to the message, the secondary monitors on the command console lit up. These were tied into the local Department of Transportation traffic cameras monitoring the Middletown exit of Interstate 66.
 
@@ -1762,7 +1762,7 @@ He stepped out onto the asphalt, raised his hands high in the air, and began wal
 
 ## 1015 Hours: The Commander-in-Chief
 
-### Scene 1: The Breach
+### The Breach
 
 Vance was entirely, utterly alone.
 
@@ -3716,7 +3716,7 @@ Benjamin Torres seemed like a unicorn, but Amanda was done trusting her gut. She
 
 ## The Verification
 
-### Scene 1: Call 1: The Surgeon
+### Part 1: Call 1: The Surgeon
 
 The first number belonged to Dr. Marcus Vance, Chief of Neuro-Trauma Surgery at Johns Hopkins. Amanda expected to be routed to a voicemail or brushed off by a receptionist, but when she stated she was calling regarding Benjamin Torres, she was patched through to the surgeon's office immediately.
 
@@ -3726,7 +3726,7 @@ The first number belonged to Dr. Marcus Vance, Chief of Neuro-Trauma Surgery at 
 
 Dr. Vance actually laughed. "Clinically? Ben is the only nurse on my floor who catches a vitals crash before the telemetry monitors do. He's hyper-vigilant. But if you want to know why you should hire him, it’s not just his charting. It’s his character. Last year, we had a nineteen-year-old kid wake up from a spinal fusion realizing he couldn't feel his legs. The kid was terrified, swinging wildly, completely inconsolable. Ben didn't sedate him. He just stood by the bed, held his hand, and talked him down for three hours straight after his shift had officially ended. Ben is a rock. You'd be incredibly lucky to have him."
 
-### Scene 2: Call 2: The Social Worker
+### Part 2: Call 2: The Social Worker
 
 Amanda carefully noted Dr. Vance's exact words on her legal pad before dialing the second number. It belonged to Elaine Croft, the Lead Clinical Social Worker for the Hopkins SCI (Spinal Cord Injury) unit.
 
@@ -3736,7 +3736,7 @@ Amanda carefully noted Dr. Vance's exact words on her legal pad before dialing t
 
 "Absolutely and unequivocally," Elaine replied instantly, her tone turning fiercely protective of the nurse. "In acute rehab, a lot of providers accidentally strip patients of their autonomy because it's 'faster' to just do things for them. Ben never does that. He treats every single patient—especially the young, vulnerable ones—with profound dignity. He asks permission before he touches them, he guards their privacy like a hawk, and he never infantilizes them. He is just a genuinely, deeply good human being, Miss Wilcox."
 
-### Scene 3: Call 3: The Director of Nursing
+### Part 3: Call 3: The Director of Nursing
 
 Amanda’s shoulders had finally dropped away from her ears. The knot of anxiety in her stomach was unraveling. She dialed the final number: Helen Ruiz, the Director of Critical Care Nursing at Johns Hopkins.
 
@@ -3767,21 +3767,21 @@ By the end of the second week, the roster was complete.
 
 ## The Fortress is Staffed
 
-### Scene 1: The Night Watch
+### Part 1: The Night Watch
 
 Amanda hired two hyper-vigilant Cardiac ICU veterans for the night shifts. They were the silent owls of the operation. They didn't need the warm bedside manner of the day shift; their only job was to sit in the dimly lit charting station, their eyes glued to the synchronized telemetry monitors, ready to push IV fluids the exact second Jessika, Drake, or Ashleigh’s dysautonomic heart rates fluttered in their sleep.
 
-### Scene 2: The Muscle
+### Part 2: The Muscle
 
 Amanda hired a rotation of highly experienced Certified Nursing Assistants. Paid the exact same \$100-an-hour flat rate as the RNs, these men and women were built like linebackers but possessed the gentlest hands in the industry. They treated Drake and Ashleigh with unparalleled reverence, acting as the physical anchors during the dangerous, highly coordinated pivot transfers to the titanium standing frames.
 
-### Scene 3: The Rebuilders
+### Part 3: The Rebuilders
 
 The Physical Therapist Assistant was a strict but deeply empathetic former military medic who knew exactly how to push Drake and Ashleigh's upper-body conditioning without triggering orthostatic hypotension.
 
 But the greatest victory was the Occupational Therapist. On her very first day, the OT watched Drake and Ashleigh holding onto each other to stave off a sensory overload panic attack. Instead of pathologizing it, the OT immediately wrote “Proprioceptive Deep Pressure Therapy - Patient Regulated” into their official medical charts, permanently, legally validating Amanda’s "Safe Person" dynamic.
 
-### Scene 4: The Shield
+### Part 4: The Shield
 
 Finally, Victor Thorne’s trust finalized the back-office hires. Operating out of a converted guest house near the estate's security gates, a ruthless former hospital compliance officer and a meticulous bookkeeper took over the business side of the PLLC. They managed the massive W-2 payrolls, maintained the DEA narcotic logs with terrifying precision, and ensured that Amanda never had to look at a spreadsheet.
 

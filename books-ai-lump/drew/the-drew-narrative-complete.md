@@ -6,9 +6,11 @@ title: "The Drew Narrative"
 
 ## Chapter 1: The Dojang Incident
 
-### Scene 1: The Core Check
+### Part 1: The Core Check & Unannounced Arrival
 
 **Date:** 1995-08-17 at 17:00 America/New_York
+
+#### 5:00 PM — The Core Check
 
 The linoleum floor of the Dojang was freezing against the back of Drew’s neck. 
 
@@ -56,9 +58,9 @@ Drew didn't understand why this was happening. He didn't understand what the old
 
 He didn't care about being a ninja anymore. He didn't care about being brave. As he squeezed his eyes shut against the blinding white lights of the ceiling, alone and hurting, he just wanted his mommy. He just wanted his sissy.
 
-### Scene 2: The Rest of the Hour
+***
 
-**Date:** 1995-08-17 at 17:30 America/New_York
+#### 5:30 PM — The Rest of the Hour
 
 "Stand up! Fall in!"
 
@@ -88,9 +90,9 @@ He never wanted to do karate again. He never wanted to put this white uniform ba
 
 For the rest of the long, terrible hour, Drew just tried to stay completely invisible, silently praying that he wouldn't fall over before his mom came to pick him up.
 
-### Scene 3: The Front Office
+***
 
-**Date:** 1995-08-17 at 18:30 America/New_York
+#### 6:30 PM — The Front Office
 
 The bathroom tiles were cold beneath Drew's bare feet, a sharp contrast to the terrifying, hot balloon feeling expanding inside his tummy.
 
@@ -176,9 +178,9 @@ Drew whimpered. Being picked up made the hot balloon in his tummy feel like it w
 
 Drew laid his head against the car window as the building disappeared behind them. He closed his eyes, the dizziness finally taking over, and just wished Maggie was there to hold his hand.
 
-### Scene 4: Unannounced Arrival
+***
 
-**Date:** 1995-08-17 at 18:50 America/New_York
+#### 6:50 PM — Unannounced Arrival
 
 The world outside the car window was a blurry, dizzying streak of streetlights and passing buildings. The engine of the family’s four-door sedan roared every time his mommy forcefully slammed the stick shift into a new gear, the car jerking forward with a frantic, desperate speed. 
 
@@ -232,9 +234,11 @@ The gurney crashed through another set of double doors, entering a massive, chao
 
 Drew watched his mommy's terrified face slip further and further away as the doctors surrounded his bed. The hot balloon in his stomach finally felt like it was bursting, pulling the rest of the world away into a cold, quiet darkness. He closed his eyes, and the shouting voices faded into silence.
 
-### Scene 5: The Payphone
+### Part 2: The Payphone & The Paperwork
 
 **Date:** 1995-08-17 at 18:55 America/New_York
+
+#### 6:55 PM — The Payphone
 
 The smell of rubbing alcohol and stale coffee made Claire nauseous. She stood at the bank of payphones in the corner of the ER waiting room, her fingers trembling so violently she dropped the quarter twice before finally forcing it into the slot. 
 
@@ -292,9 +296,9 @@ Claire paused, a sickening realization washing over her. "They both had brown be
 
 Officer Miller's jaw tightened. He snapped his notepad shut. "No, ma'am, it wasn't." He reached for the radio on his shoulder. "I'm dispatching units to that address right now."
 
-### Scene 6: The Consultation Room
+***
 
-**Date:** 1995-08-17 at 19:05 America/New_York
+#### 7:05 PM — The Consultation Room
 
 The public ER waiting room was no longer appropriate. As Officer Miller spoke rapidly into his shoulder radio, dispatching Chesapeake police units to the Dojang, Sarah gently guided Claire away from the bank of payphones. 
 
@@ -346,9 +350,9 @@ Sarah exchanged a brief, heavy look with Officer Miller before turning back to C
 
 Claire stared at the blank, beige wall of the consultation room. Several hours. Her six-year-old son was being cut open on an operating table, and all she could do was sit in this tiny, quiet room and wait.
 
-### Scene 7: The Other Victims
+***
 
-**Date:** 1995-08-17 at 19:10 America/New_York
+#### 7:10 PM — The Other Victims
 
 Claire pressed the heels of her hands against her eyes. The tears were threatening to spill over, but she fiercely blinked them back. Crying wasn't going to help Drew. Crying wasn't going to catch the man who had done this.
 
@@ -386,9 +390,9 @@ As Miller left the room, the heavy hospital door clicked shut behind him. The si
 
 Somewhere, floors above her, a surgical team was cutting into her six-year-old baby. And all she could do was wait.
 
-### Scene 8: The Paperwork
+***
 
-**Date:** 1995-08-17 at 19:15 America/New_York
+#### 7:15 PM — The Paperwork
 
 Claire was left alone with Sarah for only a few minutes before the heavy door opened again. This time, it wasn't Officer Miller, but a surgical admissions nurse carrying a thick clipboard. 
 
@@ -418,9 +422,11 @@ She sat back down in the uncomfortable floral chair and buried her face in her h
 
 ## Chapter 2: The Aftermath
 
-### Scene 1: Post-Op
+### Part 1: Post-Op & The Manifesto
 
 **Date:** 1995-08-18 at 01:30 America/New_York
+
+#### 1:30 AM • Claire — Post-Op
 
 The sterile wall clock ticked past one-thirty in the morning. Six excruciating hours had passed since Claire watched the trauma team wheel her son through the swinging doors. 
 
@@ -466,9 +472,9 @@ Dr. Aris nodded. "Yes. The nurses are just finishing getting his monitors and ce
 
 Claire stood up, wiping her face. The fear was still there, a cold knot in her stomach, but it was eclipsed by a fierce, protective love. "Take me to my son."
 
-### Scene 2: The PICU
+***
 
-**Date:** 1995-08-18 at 01:45 America/New_York
+#### 1:45 AM • Claire — The PICU
 
 The heavy double doors of the Pediatric Intensive Care Unit hissed open, revealing a world completely detached from the normal flow of time. It was bright, sterile, and chaotic in a deeply controlled way. Nurses moved swiftly between glass-walled rooms, their soft-soled shoes squeaking faintly against the polished linoleum. The air smelled sharp—a mixture of isopropyl alcohol, iodine, and bleach.
 
@@ -508,9 +514,9 @@ She looked at the harsh red bruising already blooming across Drew's exposed shou
 
 She leaned forward, resting her forehead against the cool steel railing of the bed, the steady, mechanical *hiss-click* of the ventilator acting as the only response.
 
-### Scene 3: Waking Up
+***
 
-**Date:** 1995-08-18 at 10:30 America/New_York
+#### 10:30 AM • Drew — Waking Up
 
 The world came back in blurry, painful pieces. 
 
@@ -566,9 +572,9 @@ Tears welled up in his eyes, spilling over his cheeks and soaking into the steri
 
 Drew squeezed his eyes shut, leaning into his mother's warmth as the heavy painkillers in his IV slowly began to pull him back under into the dark.
 
-### Scene 4: Suite F
+***
 
-**Date:** 1995-08-18 at 09:30 America/New_York
+#### 9:30 AM • Dr. Evans — Suite F
 
 By mid-morning, the thriving, interconnected ecosystem of the 912 Professional Place strip mall had completely fractured.
 
@@ -608,9 +614,9 @@ Dr. Evans hung up the phone. She looked at her receptionist and her assistant, b
 
 "Cancel Exam Room 3 for the rest of the day," Dr. Evans ordered softly, wiping her eyes. "Leave the lights off. We aren't putting anyone else in there today."
 
-### Scene 5: The Manifesto
+***
 
-**Date:** 1995-08-18 at 12:00 America/New_York
+#### 12:00 PM • Detective Harris — The Manifesto
 
 The air inside the abandoned warehouse was thick and stale, smelling of old sweat, floor wax, and something faintly metallic. 
 
@@ -652,9 +658,11 @@ That little boy had almost bled to death. His mother was sitting beside him righ
 
 "Call the tactical team," Harris ordered, his voice hardening into absolute authority as he bagged the notebook into a clear evidence pouch. "We have the warrant. We have the motive. We're raiding Curtis's townhouse right now."
 
-### Scene 6: The Sofa
+### Part 2: The Sofa & The Coalition
 
 **Date:** 1995-08-18 at 11:00 America/New_York
+
+#### 11:00 AM • Maggie — The Sofa
 
 The morning sun filtered through the lace curtains of Mrs. Bea's living room. 
 
@@ -696,9 +704,9 @@ Maggie looked down at her apple juice, then back at the front door. The house fe
 
 Maggie nodded slowly, sniffling once more. She picked up the glass of apple juice with two hands and took a small sip. She had to get better. Drew was waiting for her.
 
-### Scene 7: The Coalition
+***
 
-**Date:** 1995-08-18 at 15:15 America/New_York
+#### 3:15 PM • Claire — The Coalition
 
 The harsh fluorescent lighting of the hospital corridor buzzed with a low, grating frequency that seemed to vibrate directly into Claire’s skull. She stood alone near the main elevator bank on the surgical floor, holding a styrofoam cup of black coffee she hadn't taken a single sip from. 
 
@@ -766,7 +774,7 @@ Claire stood alone by the payphones, clutching the small piece of paper in her h
 
 ## Chapter 3: The Vow
 
-### Scene 1: The Vow
+### The Vow
 
 **Date:** 1995-08-19 at 14:00 America/New_York
 
@@ -844,7 +852,7 @@ Mom and Mrs. Bea stood quietly in the corner of the room, both of them crying si
 
 ## Chapter 4: The Racecar
 
-### Scene 1: The Racecar
+### The Racecar
 
 **Date:** 1995-09-14 at 15:30 America/New_York
 
@@ -916,7 +924,7 @@ But looking at the two of them, Claire knew one thing for certain: Drew was neve
 
 ## Chapter 5: The Hospital Haunt
 
-### Scene 1: The Hospital Haunt
+### The Hospital Haunt
 
 **Date:** 1995-10-31 at 18:00 America/New_York
 
@@ -974,7 +982,7 @@ For the first time since August, the heavy, suffocating weight of the tragedy fe
 
 ## Chapter 6: The Hospital Classroom
 
-### Scene 1: The Hospital Classroom
+### The Hospital Classroom
 
 **Date:** 1995-11-14 at 09:30 America/New_York
 
@@ -1016,7 +1024,7 @@ He was holding the line. His body was broken, and his life was completely confin
 
 ## Chapter 7: The Empty Beds
 
-### Scene 1: The Empty Beds
+### The Empty Beds
 
 **Date:** 1995-11-22 at 15:00 America/New_York
 
@@ -1076,7 +1084,7 @@ But as Claire kissed his forehead and Maggie handed him a brown crayon to trace 
 
 ## Chapter 8: A Hospital Thanksgiving
 
-### Scene 1: A Hospital Thanksgiving
+### A Hospital Thanksgiving
 
 **Date:** 1995-11-23 at 12:00 America/New_York
 
@@ -1148,7 +1156,7 @@ Drew took another sip from his graduated cup, perfectly aware that Nurse Brenda 
 
 ## Chapter 9: The Exhaustion
 
-### Scene 1: The Exhaustion
+### The Exhaustion
 
 **Date:** 1995-12-22 at 13:00 America/New_York
 
@@ -1196,7 +1204,7 @@ Claire nodded, taking a deep breath and wiping quickly at her eyes. She wanted t
 
 ## Chapter 10: A Hospital Christmas
 
-### Scene 1: A Hospital Christmas
+### A Hospital Christmas
 
 **Date:** 1995-12-25 at 08:00 America/New_York
 
@@ -1240,7 +1248,7 @@ He just wanted his own room. He just wanted to go home.
 
 ## Chapter 11: Pennies on the Dollar
 
-### Scene 1: Pennies on the Dollar
+### Pennies on the Dollar
 
 **Date:** 1995-12-28 at 14:15 America/New_York
 
@@ -1288,7 +1296,7 @@ Life wasn't fair, and the world was going to break them financially. But as Clai
 
 ## Chapter 12: Midnight on the Ward
 
-### Scene 1: Midnight on the Ward
+### Midnight on the Ward
 
 **Date:** 1995-12-31 at 23:45 America/New_York
 
@@ -1340,7 +1348,7 @@ He took a sip of the sweet, fizzy cider. 1996 was finally here. The doctors had 
 
 ## Chapter 13: Going Home
 
-### Scene 1: Going Home
+### Going Home
 
 **Date:** 1996-01-18 at 10:30 America/New_York
 
@@ -1412,7 +1420,7 @@ He was finally home.
 
 ## Chapter 14: Seven
 
-### Scene 1: Seven
+### Seven
 
 **Date:** 1996-01-24 at 18:30 America/New_York
 
@@ -1462,7 +1470,7 @@ They were seven, they were together, and they were ready for whatever came next.
 
 ## Chapter 15: The Short Bus
 
-### Scene 1: The Short Bus
+### The Short Bus
 
 **Date:** 1996-01-29 at 07:15 America/New_York
 
@@ -1542,9 +1550,11 @@ Drew didn't smile, but he let go of the joystick. It was going to be a very long
 
 ## Chapter 1: Bankruptcy
 
-### Scene 1: Chapter 7 Bankruptcy
+### Chapter 7 Bankruptcy & The Linoleum Room
 
 **Date:** 1998-08-15 at 10:00 America/New_York
+
+#### 10:00 AM — Chapter 7 Bankruptcy
 
 The heavy, three-ring binders were the last things to go into the cardboard boxes. 
 
@@ -1596,9 +1606,9 @@ Mrs. Bea, the elderly woman who had been a fixture in their lives for as long as
 
 It was a lifeline. But as Drew rested his hand on his joystick and slowly navigated toward the front door of his home for the very last time, the weight of what his survival had cost his family pressed down on him heavier than ever before.
 
-### Scene 2: The Linoleum Room
+***
 
-**Date:** 1998-08-15 at 14:00 America/New_York
+#### 2:00 PM — The Linoleum Room
 
 They had always just called her Mrs. Bea. It was a title of politeness that had stuck since before the twins could even walk. Her actual name was Beatrice Armstrong. She had immigrated from Newcastle upon Tyne back in the late 1930s, and even after sixty years in America, her voice still carried the warm, thick musical lilt of northern England. 
 
@@ -1650,7 +1660,7 @@ For the first time since the bills had started arriving three years ago, things 
 
 ## Chapter 2: The Mandatory Reporters
 
-### Scene 1: The Mandatory Reporters
+### The Mandatory Reporters
 
 **Date:** 1998-08-20 at 02:00 America/New_York
 
@@ -1700,7 +1710,7 @@ Claire stood in the doorway for a long time, watching her children sleep. She di
 
 ## Chapter 3: The Trap
 
-### Scene 1: The Trap
+### The Trap
 
 **Date:** 1998-08-21 at 06:30 America/New_York
 
@@ -1764,9 +1774,11 @@ Silent in the shadows, Drew backed his chair up an inch, turned around, and quie
 
 ## Chapter 1: The Emergency
 
-### Scene 1: The Curtain Compromise
+### The Curtain Compromise & The Emergency
 
 **Date:** 2003-07-15 at 23:00 America/New_York
+
+#### 11:00 PM — The Curtain Compromise
 
 The hum of the cheap box fan in the window did very little to cut through the sweltering July heat, but it provided just enough white noise to drown out the faint, rhythmic snores coming from the living room. 
 
@@ -1820,9 +1832,9 @@ Drew was quiet for a long moment. Then, slowly, he squeezed her hand back.
 
 Maggie smiled in the darkness. She closed her eyes, the oppressive summer heat feeling just a little more bearable. Let the social workers have their rules, she thought. Let the high school have its massive hallways and elevators. As long as she was by his side, they could face whatever was coming next.
 
-### Scene 2: The Emergency
+***
 
-**Date:** 2003-07-15 at 23:14 America/New_York
+#### 11:14 PM — The Emergency
 
 The digital alarm clock on the nightstand clicked to 11:14 PM. 
 

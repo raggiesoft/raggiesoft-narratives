@@ -6,9 +6,11 @@ title: "Jack & Sarah"
 
 ## The End of a War
 
-### Scene 1: The Discovery 💔
+### The Discovery 💔 & The Alliance
 
 **Date:** 2005-10-18 at 19:00 America/New_York
+
+#### 7:00 PM • Jack Bennett — The Discovery 💔
 
 The October evening was quiet, the house still. Jack and Sarah were in their respective rooms, focused on homework or relaxing after a long week. Downstairs, Jermaine sat at the family computer, the glow of the monitor illuminating his tired face. He was sorting through bills when a notification popped up: a new email from an unknown address with a single, ominous subject line: "You need to see this."
 
@@ -36,9 +38,9 @@ Jermaine looked around the living room, at the furniture they had shared, the pi
 
 Without another word, the three of them went to their rooms, a quiet, united front. They were leaving the house behind, seeking the immediate sanctuary of Sam, Devin, Molly, and Clare—the rest of their unbreakable family wall.
 
-### Scene 2: The Sanctuary
+***
 
-**Date:** 2005-10-18 at 21:00 America/New_York
+#### 9:00 PM • Sarah Bennett, Molly Bennett, Clare Bennett — The Sanctuary
 
 The two cars pulled up to Devin's house just before 9:00 PM. Jack had driven his and Sarah's car, with Jermaine following behind in his own. The empty driveway back at their house was a small, strategic victory; if Lorraine came home, she would find an empty, silent house with no cars to signal where they had gone.
 
@@ -78,9 +80,9 @@ Molly's voice, a matching whisper from the far left, added, "Your dad looked mor
 
 Jack and Sarah looked at each other in the darkness. Surrounded by the unwavering, unconditional love of their cousins, they finally felt safe enough to tell them the whole story.
 
-### Scene 3: The Alliance
+***
 
-**Date:** 2005-10-18 at 21:15 America/New_York
+#### 9:15 PM • Molly Bennett — The Alliance
 
 In the quiet darkness of Devin's living room, the four cousins lay squeezed together on the queen-sized sofa bed. The weight and warmth of their bodies was a profound comfort, a silent fortress against the ugliness of the world outside. For a long moment, the only sound was their shared breathing.
 
@@ -108,9 +110,11 @@ Jack felt a hand find his in the darkness—Molly's. A moment later, he felt Sar
 
 ## Rec Center
 
-### Scene 1: Hired at the Rec Center
+### Hired at the Rec Center & An Official Welcome
 
 **Date:** 2006-01-15 at 08:15 America/New_York
+
+#### 8:15 AM — Hired at the Rec Center
 
 The winter air in the Bennett house felt heavy. It had been three months since Jermaine had filed for legal separation, and while the absence of Lorraine's toxic presence was a profound relief, an anxious uncertainty for the future still lingered. For 20-year-old Jack, this uncertainty was compounded by the frustrating, fruitless search for his first job. Application after application seemed to disappear into a void, and the rejections were starting to wear on his already fragile confidence.
 
@@ -142,9 +146,9 @@ Jermaine came into the room, drawn by the happy commotion, a rare, genuine smile
 
 Jermaine looked at his two children, at the first genuine, uncomplicated happiness he had seen on their faces in months, and felt a profound sense of hope. In the midst of their family's painful fracturing, this was a new beginning. It was a small, perfect piece of their new life falling into place.
 
-### Scene 2: An Official Welcome
+***
 
-**Date:** 2006-01-15 at 08:30 America/New_York
+#### 8:30 AM — An Official Welcome
 
 Immediately after the phone call, Sarah drove Jack to the Fairlawn Recreation Center. It felt different walking in this time, not just as patrons, but as colleagues. The familiar, quirky building, with its massive concrete spiral ramp and the lingering, humid scent of chlorine, felt like it was officially welcoming him into the fold.
 
@@ -174,9 +178,11 @@ After the brief introduction, the two siblings headed back to the pool deck. The
 
 ## Planning Halloween
 
-### Scene 1: The Tuesday, August 15th, 2006 Meeting 🗓️
+### The Tuesday, August 15th, 2006 Meeting 🗓️ & The War is Over
 
 **Date:** 2006-08-15 at 08:15 America/New_York
+
+#### 8:15 AM — The Tuesday, August 15th, 2006 Meeting 🗓️
 
 The air in Meeting Room 3 at the Fairlawn Recreation Center was stale with the lingering scent of coffee and the quiet hum of the fluorescent lights above . It was mid-August, and the core planning team for the center's annual Halloween event was gathered around a long, beige table.
 
@@ -212,9 +218,9 @@ Jack's face lit up. A specific, defined role with a clear script. It was a perfe
 
 She looked around the table at her smiling, enthusiastic team. "Alright, minions," she said with a grin. "Let's plan a hell of a party."
 
-### Scene 2: The War is Over
+***
 
-**Date:** 2006-08-15 at 19:00 America/New_York
+#### 7:00 PM — The War is Over
 
 The evening air in the Bennett living room was still and quiet, a profound calm that felt foreign after months of legal-induced anxiety. On the sofa, Jack and Sarah were curled up together under a blanket, their hug tight and protective. The recent, ugly court battle for guardianship had left them both shaken, and the fear of what their mother, Lorraine, might try next was a constant, unspoken presence between them.
 
@@ -242,9 +248,11 @@ Sarah leaned into her father's touch, her own relief palpable. Jack released his
 
 ## An Infernal Halloween
 
-### Scene 1: A Tuesday in Hell
+### A Tuesday in Hell & Off the Clock
 
 **Date:** 2006-10-31 at 08:15 America/New_York
+
+#### 8:15 AM • Sarah Bennett — A Tuesday in Hell
 
 The moment Jack and Sarah stepped through the doors of the Fairlawn Recreation Center, the familiar lobby was gone, replaced by a delightful, festive chaos. Jack smiled, taking in the grinning pumpkins and the friendly ghosts hanging from the ceiling. A charming, kid-friendly ferry made of construction paper was docked right at his workstation, the Scan Station. The secret theme was in full swing. For today, they weren't just at the rec center; they were reporting for duty at Underworld Staffing Solutions.
 
@@ -254,9 +262,9 @@ From her post at a nearby register, Mandy looked over. She saw the easy, affecti
 
 Sarah headed up the massive concrete ramp toward the pool deck, her "Ferry Captain" pirate gear worn confidently over her swimsuit. Jack watched her go before heading to the break room to clock in and put on his own costume: the robes of a "Corporate Warlock". He pinned on his official ID badge—"Booking Agent, Styx Ferrymen & Co."—and took his place at the Scan Station, ready to begin his day collecting tolls for the underworld.
 
-### Scene 2: Off the Clock
+***
 
-**Date:** 2006-10-31 at 14:00 America/New_York
+#### 2:00 PM • Jack Bennett — Off the Clock
 
 The afternoon flew by in a blur of happy chaos. Jack found he enjoyed his role, gravely accepting the "toll" of a membership scan or a day pass before granting patrons passage into the Spooktacular. He watched his coworkers, all in their infernal costumes—Mandy the fellow warlock, Gary the "Accountant from the Abyss," Linda the "Oracle"—and felt a sense of camaraderie in their shared, silly secret.
 
@@ -274,9 +282,11 @@ Jack waved back, his heart swelling with a fierce, quiet pride. He was tired, bu
 
 ## Chemical Emergency at Fairlawn
 
-### Scene 1: The Unfamiliar Code
+### Part 1: The Unfamiliar Code & A Safe Harbor ❤️‍🩹
 
 **Date:** 2006-11-07 at 14:00 America/New_York
+
+#### 2:00 PM • Jack Bennett — The Unfamiliar Code
 
 The Tuesday afternoon shift at the Fairlawn Recreation Center was humming with its usual post-school energy. Jack Bennett sat at the Scan Station, situated just inside the main entrance. A dull ache in his legs reminded him it was one of those days where his Cerebral Palsy made everything feel a little slower, a little heavier. Beside him, at one of the main registers, sat Paul, a Clerk-Cashier on loan from the Bayside center.
 
@@ -312,9 +322,9 @@ Then, Chloe's calm, professional voice cut through the fog of his panic. "It's a
 
 Jack didn't stop. He hit the motion sensor for the main exit. The automatic sliding glass doors hissed open, and he burst out into the cool afternoon air.
 
-### Scene 2: The Rescue
+***
 
-**Date:** 2006-11-07 at 14:15 America/New_York
+#### 2:15 PM • Jack Bennett — The Rescue
 
 Jack stepped onto the concrete sidewalk and turned sharp left, his sneakers slapping against the pavement. He ran toward the heavy steel door labeled with the colorful NFPA hazard diamond.
 
@@ -372,9 +382,9 @@ Jack turned back to his sister. He wrapped his arms around her, anchoring her sh
 
 "I've got you," he whispered into her hair, holding her tight as she coughed and rocked. "I'm right here. We're out."
 
-### Scene 3: Code Orange ☣️
+***
 
-**Date:** 2006-11-07 at 14:30 America/New_York
+#### 2:30 PM • Sarah Bennett — Code Orange ☣️
 
 The wail of approaching sirens grew from a distant cry to a deafening roar, culminating in the flashing red and white lights of an ambulance and a large, imposing HazMat truck pulling up to the main entrance of Fairlawn. The doors slid open, and two paramedics rushed in, their expressions focused and all business.
 
@@ -412,9 +422,9 @@ Jack followed without a word, a strange, anonymous figure in his respirator and 
 
 They emerged into the cool afternoon air, the sounds of the alarm and the emergency vehicles loud in the parking lot. The paramedics wheeled Sarah toward the designated muster area, a safe distance from the building, where other patrons were already gathering. Jack stayed right with her, his presence an unwavering constant. He watched as the paramedic placed an oxygen mask gently over Sarah's face, his heart aching for her terror. He was her shield, her voice, her only anchor until the storm of her meltdown passed.
 
-### Scene 4: The Advocate 🚑
+***
 
-**Date:** 2006-11-07 at 14:45 America/New_York
+#### 2:45 PM • Jack Bennett — The Advocate 🚑
 
 The air in the parking lot was a chaotic symphony of noise and light. The fire alarm from the rec center still blared, a relentless shriek that grated on Jack's already frayed nerves. The flashing lights of the ambulance and HazMat truck painted stark, strobing patterns across the growing crowd of evacuated patrons.
 
@@ -454,9 +464,9 @@ He stepped back, watching as they slid the gurney into the back of the ambulance
 
 Jack stood for a moment, a solitary figure in his heavy rubber boots, watching the ambulance disappear. The fire alarm had finally been silenced, leaving an eerie quiet punctuated by the crackle of official radios. His mission was clear. He turned and began the long walk across the chaotic parking lot toward their car, his mind already navigating the route to Crossroads Memorial.
 
-### Scene 5: The Mission 🚗
+***
 
-**Date:** 2006-11-07 at 15:00 America/New_York
+#### 3:00 PM • Jack Bennett — The Mission 🚗
 
 The wail of the ambulance siren faded into the distance, leaving Jack standing alone in the chaotic parking lot, a solitary figure in his heavy, out-of-place rubber boots. The fire alarm had finally been silenced, replaced by the crackle of official radios and the low rumble of the HazMat truck's engine. His only mission now was to get to Crossroads Memorial.
 
@@ -478,9 +488,9 @@ Joe turned, his face grim but understanding. "Understood, Jack. Go. Let us know 
 
 With a final nod, Jack turned and began the long walk across the parking lot to the car he shared with Sarah. He slid into the driver's seat, the familiar interior a strange bubble of normalcy in a world that had tilted on its axis. He started the engine, pulled out of the parking spot, and drove towards the exit, his mind focused on one thing only: the route to Crossroads Memorial Hospital.
 
-### Scene 6: A Safe Harbor ❤️‍🩹
+***
 
-**Date:** 2006-11-07 at 15:15 America/New_York
+#### 3:15 PM • Jack Bennett — A Safe Harbor ❤️‍🩹
 
 The walk from his car to the emergency room entrance of Crossroads Memorial was a blur for Jack. He was still wearing the heavy, out-of-place rubber boots, a surreal reminder of the chaos he'd just left. He quickly checked in at the front desk, the friendly but efficient triage nurse handing him a visitor's badge after he explained who he was there to see.
 
@@ -498,9 +508,11 @@ He leaned over carefully, mindful of the tubes and wires, and wrapped his arms a
 
 When he finally drew back, he pulled the visitor's chair close to the gurney and took her hand, lacing his fingers through hers. She squeezed his hand weakly, her gaze never leaving his face. She was still scared, still hurt, but her anchor was here. Her brother was with her. They sat together in the sterile quiet of the bay, a two-person fortress, waiting for the doctor, ready to face whatever came next, together.
 
-### Scene 7: A Father's Understanding 👨‍👧‍👦
+### Part 2: A Father's Understanding 👨‍👧‍👦 & Settling in for the Night 👨‍👧‍👦
 
 **Date:** 2006-11-07 at 15:30 America/New_York
+
+#### 3:30 PM • Sarah Bennett — A Father's Understanding 👨‍👧‍👦
 
 A flurry of movement at the entrance to the ER bay announced the arrival of Jermaine Bennett. He rushed in, his face pale with a father's terror. "Jack? Sarah? Oh, my God. I came as soon as I got the call. What happened?"
 
@@ -528,9 +540,9 @@ Jack looked at his father, a wave of profound gratitude washing over him, moved 
 
 From the gurney, Sarah, who had been listening to the entire exchange, turned her head on the pillow. She couldn't speak, but a weak, yet radiant, smile touched her lips as she looked at her father. It was her non-verbal, heartfelt "yes".
 
-### Scene 8: The Diagnosis 🫁
+***
 
-**Date:** 2006-11-07 at 15:45 America/New_York
+#### 3:45 PM • Sarah Bennett — The Diagnosis 🫁
 
 The minutes in the ER bay stretched into an hour. The initial chaos had subsided into a tense, quiet vigil. Jack sat beside the gurney, holding Sarah's hand, his thumb rubbing slow, comforting circles on her skin. Jermaine stood on her other side, his expression a mask of worried stillness. The only sounds were the steady beep of the monitor and Sarah's occasional, dry, hacking cough that sounded painful even to Jack's ears.
 
@@ -556,9 +568,9 @@ He gave them a reassuring nod. "The transport team will be here shortly to take 
 
 The doctor left, leaving the three of them with the new reality. Sarah was being admitted. Jack looked at his sister, who was now quietly crying, the tears tracking silently from her irritated eyes. He squeezed her hand back, a silent, unwavering promise. *I'm not going anywhere. We'll get through this too.*
 
-### Scene 9: The Transfer 👫
+***
 
-**Date:** 2006-11-07 at 20:42 America/New_York
+#### 8:42 PM • Jack Bennett — The Transfer 👫
 
 The transport team arrived with a gurney, their movements quiet and efficient. As they prepared to move Sarah, she looked at Jack, her red, irritated eyes pleading. She couldn't speak, but she held her hand out to him, a clear, desperate need for connection. Jack took it instantly, his grip firm and reassuring.
 
@@ -592,9 +604,9 @@ Jack: Thanks so much, Chloe. We're doing okay. They're keeping Sarah overnight f
 
 He put the phone away and turned his full attention back to his sister, his role as her overnight protector now official. He was right where he needed to be.
 
-### Scene 10: Settling In 🛏️
+***
 
-**Date:** 2006-11-07 at 20:57 America/New_York
+#### 8:57 PM • Jack Bennett, Sarah Bennett — Settling In 🛏️
 
 The hospital room was quiet and private, a stark contrast to the controlled chaos of the ER. Once the transport team had left, Jack pulled the visitor's chair close to Sarah's new bed. Jermaine stood on the other side, his hand resting gently on his daughter's shoulder.
 
@@ -618,9 +630,9 @@ Sarah gave a small, grateful nod. The nurse skillfully helped her out of the bed
 
 A few minutes later, the nurse helped Sarah back to the bed, making sure she was comfortable before checking her IV and the flow of her oxygen. "You get some rest now," she said softly before leaving them in the quiet of the room. Sarah looked exhausted, but clean and finally settled. She met Jack's gaze from across the room, a silent look of gratitude passing between them. The long, terrible day was finally drawing to a close.
 
-### Scene 11: Settling in for the Night 👨‍👧‍👦
+***
 
-**Date:** 2006-11-07 at 21:00 America/New_York
+#### 9:00 PM • Sarah Bennett — Settling in for the Night 👨‍👧‍👦
 
 About an hour later, Jermaine returned to the quiet hospital room, a duffel bag slung over his shoulder. "Reinforcements have arrived," he announced softly, his presence a comforting balm.
 
@@ -646,9 +658,11 @@ He gave Jack a hug, then leaned over and kissed Sarah's forehead one last time b
 
 ## The Long Night
 
-### Scene 1: The Long Night 😠
+### The Long Night 😠 & The Conti-Vac 💧
 
 **Date:** 2006-11-08 at 00:00 America/New_York
+
+#### 12:00 AM • Sarah Bennett — The Long Night 😠
 
 The quiet in Sarah's hospital room was a fragile thing. Jack had finally started to drift off on the pull-out sofa, the profound exhaustion of the day weighing him down. He could hear the soft, rhythmic beep of Sarah's heart monitor and her restless shifting in the hospital bed. The long, terrible day was finally over, and all he wanted was the oblivion of sleep.
 
@@ -670,9 +684,9 @@ The nurse finished her checks, recorded the numbers, and with another cheerful, 
 
 Jack and Sarah were left once again in the dim quiet, but now they were both wide awake, annoyed, and, in Sarah's case, acutely aware of her empty stomach. The long night stretched before them, promising more interruptions and little real rest.
 
-### Scene 2: The Turn ⏰
+***
 
-**Date:** 2006-11-08 at 00:00 America/New_York
+#### 12:00 AM • Sarah Bennett — The Turn ⏰
 
 The 2:00 AM vital check came and went just as jarringly as the one at midnight, leaving both Jack and Sarah tense, annoyed, and wide awake for another hour. Jack eventually managed to drift into a shallow, fitful sleep on the lumpy pull-out sofa.
 
@@ -696,9 +710,9 @@ The word "stat" cut through Jack's sleepy frustration, replaced by a jolt of col
 
 But Jack saw the look on the nurse's face. He knew. This was the delayed reaction the ER doctor had warned them about. The fluid was hitting her lungs. He squeezed his sister's hand, his own exhaustion forgotten, as the long, difficult night took a sudden, dangerous turn.
 
-### Scene 3: The Confirmation レントゲン
+***
 
-**Date:** 2006-11-08 at 00:15 America/New_York
+#### 12:15 AM • Sarah Bennett — The Confirmation レントゲン
 
 The nurse, Karen, finished her urgent call. "They're on their way up now," she said to Jack, her voice calm but firm. "Try to keep her as upright as she's comfortable with."
 
@@ -722,9 +736,9 @@ Jack rushed back inside. The technician was already wheeling the large machine o
 
 Jack sat back down, taking his sister's hand again. They waited in a new, heavy silence, filled with the cold dread of knowing that the X-ray would almost certainly confirm the hospital's worst fears.
 
-### Scene 4: The Longest Night 🌅
+***
 
-**Date:** 2006-11-08 at 21:00 America/New_York
+#### 9:00 PM • Jack Bennett, Sarah Bennett — The Longest Night 🌅
 
 Jack sat holding Sarah's hand, watching the rhythmic rise and fall of her chest. The room was quiet again, but it was a heavy, anxious silence. He watched his sister shift uncomfortably in the narrow hospital bed, her gaze flicking for a moment to the empty space beside her, then to the pull-out sofa where he was supposed to be. He knew that look. He knew, with absolute certainty, that if the hospital bed were big enough, her silent plea would be for him to lie down beside her, a solid, comforting presence against the fear. But they both knew the reality: the bed was for her, the sofa was for him.
 
@@ -750,9 +764,9 @@ Sarah let out a frustrated sigh and turned her face away, a single angry tear es
 
 The sun began to rise, flooding the room with the light of a new day. For the two exhausted, hungry, and grumpy siblings in the quiet hospital room, it promised only another long battle ahead.
 
-### Scene 5: The Conti-Vac 💧
+***
 
-**Date:** 2006-11-08 at 09:00 America/New_York
+#### 9:00 AM • Jack Bennett, Sarah Bennett — The Conti-Vac 💧
 
 The first few hours of the morning were a miserable, exhausting blur. The diuretic medication was working with a vengeance. Twice, Sarah had to frantically press the call button, and the nurse, Karen, had to help her make the slow, painful trip from the bed to the bathroom and back. The effort left Sarah pale, breathless, and trembling with exhaustion.
 
@@ -776,9 +790,11 @@ He stayed, turning his gaze toward the window, giving her the illusion of privac
 
 ## A New Day in the Hospital
 
-### Scene 1: The Morning Report
+### The Morning Report & A Taste of Victory 👨‍👩‍👧‍👧
 
 **Date:** 2006-11-08 at 09:00 America/New_York
+
+#### 9:00 AM • Jack Bennett — The Morning Report
 
 The sun was fully up, but its bright morning light did nothing to dispel the grumpy, exhausted fog that had settled over the hospital room. Jack felt like his eyes were full of sand, having managed maybe an hour of fragmented sleep on the lumpy sofa. He looked over at Sarah, who was propped up in bed, glaring at the wall, her arms crossed tightly. She looked just as miserable as he felt.
 
@@ -800,9 +816,9 @@ It wasn't the steak dinner she was likely dreaming of, but it was something. Jac
 
 The doctor gave them another encouraging nod and left the room. Jack looked at Sarah, and she looked back at him, a shared, grumpy understanding passing between them. They were tired, they were hungry, and they were stuck here for at least another day.
 
-### Scene 2: The Longest Morning 🥞
+***
 
-**Date:** 2006-11-08 at 09:00 America/New_York
+#### 9:00 AM • Sarah Bennett — The Longest Morning 🥞
 
 The phone in the room buzzed, a much softer sound than the jarring alarms of the night. Jack picked it up and immediately pressed the speakerphone button so Sarah could hear their dad's voice.
 
@@ -838,9 +854,9 @@ Jermaine handed it over. Jack opened it and pulled a DVD from one of the side po
 
 Sarah's eyes lit up with a spark of her old self. She gave a grateful nod. Jack slid the disc into the laptop's drive, and the opening titles of a beloved 1980s fantasy-adventure, "The Silver Gauntlet of Aethel," filled the screen, its cheesy synthesizer score a welcome distraction. The three of them settled in to watch, a small island of family normalcy in the sterile, beeping world of the hospital.
 
-### Scene 3: The Breathing Treatment
+***
 
-**Date:** 2006-11-08 at 09:15 America/New_York
+#### 9:15 AM • Jack Bennett, Sarah Bennett — The Breathing Treatment
 
 The cheesy 80s synthesizer score of "The Silver Gauntlet of Aethel" filled the small hospital room, a welcome and familiar sound that temporarily drowned out the rhythmic beeping of the monitors. Jack's laptop was propped on Sarah's overbed table, and the two of them were completely absorbed in their favorite cult classic, finding a small pocket of normalcy in their shared fandom.
 
@@ -858,9 +874,9 @@ Sarah gave a small, resigned nod. Mark handed her the mouthpiece, and she put it
 
 He left the room, leaving the siblings in a new kind of quiet, punctuated only by the soft hiss of the nebulizer. Jack reached out and placed a comforting hand on his sister's arm. She met his gaze over the top of the mouthpiece, her red-rimmed eyes full of a tired, grumpy resolve. The movie remained paused, a reminder of the life waiting for them just outside the relentless, clinical routine of healing.
 
-### Scene 4: A Glimmer of Hope 😮‍💨
+***
 
-**Date:** 2006-11-08 at 09:30 America/New_York
+#### 9:30 AM • Jack Bennett, Sarah Bennett — A Glimmer of Hope 😮‍💨
 
 The fifteen minutes of the breathing treatment passed in a strange, humming silence. Jack and Jermaine sat quietly, watching the mist from the nebulizer swirl around the mouthpiece Sarah held to her lips. The movie remained paused, a frozen image of fantasy on the laptop screen.
 
@@ -884,9 +900,9 @@ Jack's eyes shot up, meeting his father's over Sarah's bed. He saw the same flic
 
 It was the first, tangible sign that the treatments were working, that she was turning a corner. In the weary, sleep-deprived quiet of the hospital room, it was a small but profound glimmer of hope.
 
-### Scene 5: The Fellowship of the Silver Gauntlet 🎬
+***
 
-**Date:** 2006-11-08 at 09:45 America/New_York
+#### 9:45 AM • Sarah Bennett — The Fellowship of the Silver Gauntlet 🎬
 
 The small, shared glimmer of hope seemed to lighten the heavy atmosphere in the hospital room. Jack, wanting to hold onto the fragile moment of normalcy, reached for his laptop. "Ready to get back to Aethel?" he asked Sarah. She gave a weak nod, her eyes already fixed on the screen.
 
@@ -912,9 +928,9 @@ The nurse nodded kindly and began to help Sarah out of the bed. The movie remain
 
 He pressed the spacebar, and the adventure in Aethel resumed. Huddled around the small laptop screen, the four of them were completely absorbed, a tight-knit fellowship finding comfort and strength in their shared ritual, the beeps and hums of the hospital fading into the background.
 
-### Scene 6: A Moment of Levity 🤣
+***
 
-**Date:** 2006-11-08 at 10:00 America/New_York
+#### 10:00 AM • Sarah Bennett — A Moment of Levity 🤣
 
 The epic, synthesized score of "The Silver Gauntlet of Aethel" swelled to a triumphant finish, and the credits began to roll on Jack's laptop. For a blissful two hours, the four cousins had been lost in their favorite cult classic, the sterile reality of the hospital room momentarily forgotten.
 
@@ -944,9 +960,9 @@ The nurse glanced at the monitor, saw Sarah's heart rate already settling, and s
 
 The alarm was off, but the four cousins were still giggling, the moment of pure, shared levity so powerful it had literally required medical intervention.
 
-### Scene 7: The King of Trash Duty 🗳️
+***
 
-**Date:** 2006-11-08 at 10:15 America/New_York
+#### 10:15 AM • Jack Bennett, Sarah Bennett — The King of Trash Duty 🗳️
 
 The four cousins shared another small laugh as the nurse left, the absurdity of Sarah's joke setting off the heart monitor still sinking in. The reference to their formidable high school cafeteria supervisor, Mrs. DeMarco, hung in the air, a shared and potent memory.
 
@@ -970,9 +986,9 @@ The four of them looked at the picture again, a perfect, frozen moment of high s
 
 Jack looked at his sister and his cousins, all of them laughing together in this sterile hospital room. It was a miserable memory for Josh Riley, but here, together, it was a legendary story that belonged to them, another reason they were an unbreakable unit.
 
-### Scene 8: A Taste of Victory 👨‍👩‍👧‍👧
+***
 
-**Date:** 2006-11-08 at 09:00 America/New_York
+#### 9:00 AM • Sarah Bennett — A Taste of Victory 👨‍👩‍👧‍👧
 
 The shared laughter from the prom memory faded, leaving the quiet hum of the hospital in its wake. The afternoon stretched on, long and uneventful. Jermaine, Molly, and Clare had stayed, their quiet presence a comfort as they all waited for the results of Sarah's afternoon X-ray.
 
@@ -1002,9 +1018,11 @@ The callback to her joke from the day before, her insistence that they eat, brok
 
 ## The Cost of the Crisis
 
-### Scene 1: An Unsteady Step 😟
+### An Unsteady Step 😟 & The Turning of the Tide
 
 **Date:** 2006-11-09 at 09:00 America/New_York
+
+#### 9:00 AM • Sarah Bennett — An Unsteady Step 😟
 
 The next day in Sarah's hospital room at Crossroads Memorial was blessedly, almost boringly, calm. The frantic energy of the emergency had been replaced by the quiet, monotonous routine of recovery. Sarah, now upgraded to a soft food diet, was slowly making her way through a small container of applesauce, the simple act of eating a monumental victory.
 
@@ -1024,9 +1042,9 @@ He forced a smile, pushing away from the wall. "Yeah, I'm fine," he lied, the wo
 
 He continued his slow, clumsy lap around the small room, each high, slapping step of his right foot a terrifying reminder of his own progressive condition. He kept the smile plastered on his face for her, but inside, his mind was racing, grappling with the chilling realization that the crisis at Fairlawn might have cost him more than just a few nights of sleep.
 
-### Scene 2: A Flare-Up
+***
 
-**Date:** 2006-11-09 at 12:00 America/New_York
+#### 12:00 PM • Jack Bennett, Sarah Bennett — A Flare-Up
 
 Lunchtime rolled around, and with it, some great news from the doctor: Sarah was cleared for solid, soft foods. A nurse delivered her lunch tray, and for the first time in days, it contained something other than broth or gelatin. On the plate was a small scoop of mashed potatoes, a side of applesauce, and a cup of vanilla pudding. To Jack, it looked bland and uninspiring, but to Sarah, it was a five-star feast. She ate slowly, savoring every spoonful with a look of profound relief.
 
@@ -1054,9 +1072,9 @@ Jack couldn't deny it. He slumped into the chair, the energy it took to maintain
 
 Jack looked at his sister, who was watching him with wide, worried eyes. A new, cold fear settled in his stomach. He gave his dad a small, reluctant nod. It wasn't just fear holding him back. It was a sense of profound, unfair timing. He wasn't ready for this. He *couldn't* be ready for this. Not now. Not while Sarah still needed him. She was the patient. His own body betraying him felt like a burden he refused to place on his recovering sister. The immediate crisis with Sarah was starting to pass, but it was becoming terrifyingly clear that it had triggered a new, and perhaps more lasting, one for him.
 
-### Scene 3: The Turning of the Tide
+***
 
-**Date:** 2006-11-09 at 19:00 America/New_York
+#### 7:00 PM • Jack Bennett — The Turning of the Tide
 
 The hospital room was no longer a space of tense, quiet dread. This evening, two days after the emergency, it was filled with the warm, cheerful chatter of the entire Bennett clan.
 
@@ -1084,9 +1102,11 @@ She smiled back, and they settled in for what they both knew would be their last
 
 ## Going Home
 
-### Scene 1: The Last Night 😴
+### The Last Night 😴 & Homecoming
 
 **Date:** 2006-11-10 at 00:00 America/New_York
+
+#### 12:00 AM • Sarah Bennett — The Last Night 😴
 
 The second full day in the hospital ended with a quiet, hopeful energy. With the promise of being discharged in the morning, Sarah seemed more like herself than she had in days. But first, they had to get through one last night.
 
@@ -1106,9 +1126,9 @@ He heard her sigh, a long, weary sound. "Just a few more hours," she said, more 
 
 Jack closed his eyes, not to sleep, but to picture it. Home. A comfortable bed. Quiet. And a long, deep sleep with no one coming in to wake them up. The thought was the only thing getting him through the last few hours of this long, final night.
 
-### Scene 2: Going Home
+***
 
-**Date:** 2006-11-10 at 09:00 America/New_York
+#### 9:00 AM • Sarah Bennett — Going Home
 
 The morning of the fourth day arrived with the blessed news they had been waiting for. After a final check, Dr. Evans officially signed Sarah's discharge papers.
 
@@ -1124,9 +1144,9 @@ Jack helped her gather the few belongings they had accumulated—laptops, charge
 
 Jermaine went to get a wheelchair for the trip to the car. As he pushed a very tired but very happy Sarah out of the room, Jack followed right behind them. The long, frightening ordeal was finally over. They were going home.
 
-### Scene 3: Homecoming
+***
 
-**Date:** 2006-11-10 at 09:15 America/New_York
+#### 9:15 AM • Jack Bennett — Homecoming
 
 The drive home from Crossroads Memorial was quiet. Jermaine pulled the car into the driveway, and before he could even turn off the engine, the front door opened. Devin, Sam, Molly, and Clare were all waiting, their faces etched with a mixture of worry and profound relief.
 
@@ -1158,9 +1178,11 @@ The thought of his own shoes, a small, mundane piece of his normal life, waiting
 
 ## A Day of Rest
 
-### Scene 1: The Good News
+### The Good News & The Promise of the Quad
 
 **Date:** 2006-11-11 at 09:00 America/New_York
+
+#### 9:00 AM • Jack Bennett, Sarah Bennett — The Good News
 
 The day after their return from the hospital was a study in quiet, exhausted recovery. True to their word, Jack and Sarah had spent most of the day in Jack's bedroom, a sanctuary away from the rest of the world. They were currently lying side-by-side on his full-sized bed, a comfortable, familiar silence between them, the quiet hum of a television playing in the background.
 
@@ -1192,9 +1214,9 @@ From the living room, Jermaine's voice, thick with emotion, called out. "Marcus.
 
 "She's one of ours," Marcus replied simply. "You all just take care of her. We'll handle the paperwork."
 
-### Scene 2: A Quiet Lunch 🥪
+***
 
-**Date:** 2006-11-11 at 09:00 America/New_York
+#### 9:00 AM • Jack Bennett — A Quiet Lunch 🥪
 
 The house was a sanctuary of quiet for the rest of the morning. True to their word, Jack and Sarah remained in Jack's bedroom, catching up on the deep, restorative sleep they had been so desperately denied at the hospital.
 
@@ -1214,9 +1236,9 @@ Jermaine stood up, stretching. "Alright, I'm going to head out and tackle the gr
 
 A few minutes later, Molly and Clare returned to the bedroom. Without a word, they settled onto the full-sized bed with their cousins. Molly sat on the edge by Jack's side, and Clare sat on the edge by Sarah's. The two siblings were lying down, their heads propped up on pillows, a comfortable quiet settling over the four of them. No one needed to talk. For now, it was enough to just be together, a silent, supportive fellowship in their sanctuary of sleep and healing.
 
-### Scene 3: The Promise of the Quad
+***
 
-**Date:** 2006-11-11 at 09:15 America/New_York
+#### 9:15 AM • Jack Bennett — The Promise of the Quad
 
 The quiet in Jack's bedroom was a comfortable, healing thing. Molly sat on the edge of the full-sized bed by Jack's side, with Clare in the matching spot on Sarah's side. The two siblings were propped up against their pillows, still tired, but the simple, quiet presence of their cousins was a profound comfort.
 
@@ -1248,9 +1270,11 @@ They all looked at each other, and in that moment, the future was clear. It wasn
 
 ## A Healing Journey
 
-### Scene 1: A New Beginning in Fredericksburg
+### A New Beginning in Fredericksburg & The First Night
 
 **Date:** 2006-04-10 at 08:15 America/New_York
+
+#### 8:15 AM • Jack Bennett, Sarah Bennett — A New Beginning in Fredericksburg
 
 The drive to Fredericksburg had been a quiet one, a conscious decision by Jermaine to avoid the dreaded Washington, D.C. traffic. He had driven the I-395 corridor and crossed the 14th Street Bridge countless times in his past, and each time had been a masterclass in stress and gridlock. For this trip, a trip meant to start the healing process for his family after his recent divorce, he wanted things to be different, easier. A hotel in Fredericksburg, just a short walk from the Caroline Street train station, was the perfect solution.
 
@@ -1274,9 +1298,9 @@ Their father came over, the room keys in his hand. “Let’s get our things and
 
 As his arm tightened around her, Sarah realized that this hug, coming at the end of such a painful chapter for their family, felt different. In that moment, she made a decision: she didn’t just like it when Jack hugged her; she absolutely *loved* it. She leaned into him a little bit, a silent, wordless communication that she wanted more of his hugs, a silent thank you for being her rock.
 
-### Scene 2: The First Night
+***
 
-**Date:** 2006-04-10 at 21:00 America/New_York
+#### 9:00 PM • Jack Bennett — The First Night
 
 The hotel room was simple, clean, and dominated by two large queen beds. Jermaine dropped his bag by the bed closest to the window, a silent claim. “Alright, I’m going to grab a shower,” he announced, his voice weary from the drive and the emotional weight of the last few months. “You two get settled.”
 
@@ -1292,9 +1316,11 @@ He was her brother, her rock through the storm of their parents’ divorce. And 
 
 ## The Journey In
 
-### Scene 1: The Journey In
+### The Journey In & A New Level of Trust
 
 **Date:** 2006-04-11 at 09:00 America/New_York
+
+#### 9:00 AM — The Journey In
 
 The morning started with the chaotic, yet comforting, ritual of a hotel continental breakfast. With their bellies full, they bundled up against the crisp spring air and began the short, pleasant walk from their hotel to the Caroline Street Station. At the station, Jermaine confidently navigated the ticketing process, purchasing three round-trip tickets on the Dominion Railway Express for their journey straight into the heart of Washington, D.C..
 
@@ -1324,9 +1350,9 @@ A little while later, the automated voice announced their destination: “Next s
 
 The train slowed and pulled into the open-air platform. They got off, and the sheer scale of the city was immediately apparent. They walked from the platform up a short flight of stairs to the main plaza, emerging directly into the bright morning sunlight and the bustle of the city. The massive, impressive structure of the National Air and Space Museum was just a short walk away, ready to begin the first adventure of their trip. There had been no need to transfer, no confusing subway maps to navigate—just one simple, direct trip.
 
-### Scene 2: Sarah’s Incident
+***
 
-**Date:** 2006-04-11 at 09:00 America/New_York
+#### 9:00 AM — Sarah’s Incident
 
 The afternoon sun was warm, and the sounds of the zoo—a cacophony of animal calls, laughing children, and the general murmur of the crowd—filled the air. After a delightful morning at the Air and Space Museum, the Bennetts had taken the Metro up to the zoo. The three of them were now walking along a winding, paved path that descended a surprisingly steep hill toward the lower valley of the park.
 
@@ -1352,9 +1378,9 @@ She carefully examined her ankle, which was already starting to swell. “This d
 
 “We should probably get it looked at,” Jermaine said decisively. He flagged down a passing zoo employee in a golf cart. “Excuse me,” he called out, his voice firm and clear. “My daughter fell, and I am asking for medical attention.”
 
-### Scene 3: Tending to Sarah’s Needs & Completing Their Vacation
+***
 
-**Date:** 2006-04-11 at 14:00 America/New_York
+#### 2:00 PM — Tending to Sarah’s Needs & Completing Their Vacation
 
 The rest of the afternoon was a blur of fluorescent lights and the sterile smell of a D.C. urgent care clinic. The diagnosis was what they had suspected: a badly twisted ankle. Sarah was fitted with a pair of cumbersome aluminum crutches and given a bottle of pain relievers before being sent on her way.
 
@@ -1384,9 +1410,9 @@ He returned a few minutes later, not with a menu, but with a triumphant smile on
 
 Sarah pushed herself up, a look of genuine, profound relief on her face. The thought of not having to hobble around on crutches for the rest of their vacation was the best news she could have possibly imagined. Maybe this trip could be salvaged after all.
 
-### Scene 4: A New Level of Trust
+***
 
-**Date:** 2006-04-11 at 14:15 America/New_York
+#### 2:15 PM — A New Level of Trust
 
 Back at the hotel, after they had finished their pizza, a weary quiet settled over the room. Sarah, feeling grimy from the day's events and wanting to soak her aching muscles, decided a hot bath was in order.
 
@@ -1428,7 +1454,7 @@ As the bathroom door closed, Sarah turned to her brother, her eyes shining with 
 
 ## A Trip Made Easier
 
-### Scene 1: A Trip Made Easier
+### A Trip Made Easier
 
 **Date:** 2006-04-12 at 09:00 America/New_York
 
@@ -1446,7 +1472,7 @@ They got on the train and Jack was happy to sit down, and grateful that he got t
 
 ## Sarah with an Injury
 
-### Scene 1: Welcome Home to a Twisted Ankle
+### Welcome Home to a Twisted Ankle
 
 **Date:** 2006-04-13 at 08:15 America/New_York
 
@@ -1476,7 +1502,7 @@ Jack soon realized what he was about to see and decided to stay professional abo
 
 ## Summer Dreams
 
-### Scene 1: Tent in a Backyard
+### Tent in a Backyard
 
 **Date:** 2006-06-15 at 08:15 America/New_York
 
@@ -1496,9 +1522,11 @@ Clare said, “Then no need for privacy. Probably for the best since this tent i
 
 ## Delores
 
-### Scene 1: University Open House
+### University Open House & The Move
 
 **Date:** 2007-01-20 at 08:15 America/New_York
+
+#### 8:15 AM — University Open House
 
 “Yeah, I have to work,” Sarah groaned, her voice full of genuine regret as she pulled the Stark Paladin up to the curb. “I’m sorry I can’t be with you.”
 
@@ -1514,9 +1542,9 @@ With a final wave, Jack got out of the car and headed into the Sinclair Center. 
 
 He found a seat at an empty table in the cavernous main ballroom where the opening speeches were set to take place. The room was already filling up, the noise level rising. He took a bite of his danish and looked around at the other prospective students, most of whom were sitting with their parents or friends. He felt a sharp pang of loneliness, wishing his sister or one of his cousins could be here with him, a familiar anchor in this overwhelming new place. But he knew they all had to work. He was on his own for this part. He sighed and settled in, waiting for the program to begin.
 
-### Scene 2: The Tour
+***
 
-**Date:** 2007-01-20 at 08:30 America/New_York
+#### 8:30 AM — The Tour
 
 After the university president's welcoming address, the massive crowd in the ballroom was broken up into smaller groups for the campus tours. Jack found himself in a group of about twenty other prospective students and their parents, led by a bubbly and energetic junior named Madison.
 
@@ -1526,9 +1554,9 @@ Jack tried to keep up, but the sheer scale of the campus was overwhelming. The b
 
 By the time the tour group made its final stop and Madison cheerfully dismissed them, Jack was completely exhausted. The social energy required to be part of the group, combined with the sensory overload of the sprawling campus, had drained him. He thanked the tour guide and slowly made his way back towards the Sinclair Center, the central hub where the open house had begun. All he wanted was to find a quiet corner, sit down, and wait for Clare to rescue him.
 
-### Scene 3: An Unexpected Guide
+***
 
-**Date:** 2007-01-20 at 08:45 America/New_York
+#### 8:45 AM — An Unexpected Guide
 
 Jack found an empty bench outside the Sinclair Center and collapsed onto it, the exhaustion from the tour washing over him. He just wanted to sit quietly and wait for Clare.
 
@@ -1550,9 +1578,9 @@ This was her plan. She knew this hallway was unlit, a pocket of manufactured pri
 
 She legitimately guided him through the darkness to the restroom door and waited for him in the hallway while he was inside. When he came back out, she led him back towards the exit. They stepped out of the building and back into the bright, sunny afternoon. Jack had to stop and blink for a moment, his eyes struggling to adjust from the profound darkness to the brilliant light, feeling disoriented and even more exhausted than before.
 
-### Scene 4: The Conversation Shifts
+***
 
-**Date:** 2007-01-20 at 14:00 America/New_York
+#### 2:00 PM — The Conversation Shifts
 
 They stepped out of the building and back into the bright, sunny afternoon. Jack had to stop and blink for a moment, his eyes struggling to adjust from the profound darkness to the brilliant light, feeling disoriented and even more exhausted than before.
 
@@ -1572,9 +1600,9 @@ At the mention of his sister, Delores’s friendly, professional demeanor subtly
 
 The conversation slowly turned away from the university and became focused entirely on him. She started asking about his interests, his friends, what he liked to do for fun. She seemed genuinely interested, hanging on his every word, her eyes locked on his. The shift was so gradual that Jack didn’t notice he was being led away from the central campus area, away from the crowds, until they were walking down a quieter path lined with residential buildings. The conversation, which had started as a simple tour, was now something else entirely. It was becoming more personal, more intimate, and Jack, still feeling off-kilter from the dark hallway, found himself being pulled along by the sheer force of her focused attention.
 
-### Scene 5: Lunch in the Lion's Den
+***
 
-**Date:** 2007-01-20 at 12:00 America/New_York
+#### 12:00 PM — Lunch in the Lion's Den
 
 Feeling disoriented from the sudden shift from darkness to bright sunlight, Jack was about to suggest they head back to the Sinclair Center when Delores put a light hand on his arm.
 
@@ -1592,9 +1620,9 @@ For the first time all day, Jack felt his exhaustion and anxiety begin to melt a
 
 Jack, caught in the web of the connection she had so expertly woven, heard himself agree before he’d even had a chance to think about it. The guard he had up just an hour ago was now completely, foolishly, down.
 
-### Scene 6: A Private Tour
+***
 
-**Date:** 2007-01-20 at 12:00 America/New_York
+#### 12:00 PM — A Private Tour
 
 "Come on," Delores said, a conspiratorial smile on her face as she stood up from the cafeteria table. "I want to show you one of the best-kept secrets on campus. It's much quieter than this."
 
@@ -1614,9 +1642,9 @@ She swiped the card. The lock beeped and clicked open.
 
 She pushed the door open and gestured for him to go inside, a triumphant little smile on her lips. Jack stepped out of the bright afternoon sunlight and into the quiet, still air of the empty building, following her lead.
 
-### Scene 7: The Move
+***
 
-**Date:** 2007-01-20 at 12:15 America/New_York
+#### 12:15 PM — The Move
 
 The apartment was stunning. Jack had expected a typical dorm room—cinderblock walls, a communal bathroom down the hall. Instead, he found himself in a fully equipped, modern apartment with a small kitchen, a living area, and a separate bedroom. He was genuinely wowed.
 
@@ -1660,9 +1688,11 @@ He didn't wait for her reply. He walked out of the dorm, leaving her alone in th
 
 ## Red Flags and Safe Harbors
 
-### Scene 1: A Cousin's Rescue
+### Part 1: A Cousin's Rescue & Conversations on a Ride Home
 
 **Date:** 2007-01-20 at 14:00 America/New_York
+
+#### 2:00 PM — A Cousin's Rescue
 
 Jack stepped out of the quiet apartment building and into the bright, late afternoon air of the VDU campus, taking a deep, cleansing breath. The text to his cousin Clare had been sent just moments before, and he looked around, hoping her car would be the next one he saw. The relief of being out of that room was immense, but it was followed by a wave of confusion and embarrassment.
 
@@ -1680,9 +1710,9 @@ Clare, sensing his deep distress and his reluctance to share the details, didn't
 
 "That sounds like a great idea," Jack replied, finally letting out a long breath as she got on the main road to head to the rec center. The simple, uncomplicated plan was exactly what he needed.
 
-### Scene 2: A Rec Center Sanctuary
+***
 
-**Date:** 2007-01-20 at 14:15 America/New_York
+#### 2:15 PM — A Rec Center Sanctuary
 
 “I have your swim bag in the back seat along with my things,” Clare said as they pulled into the familiar Fairlawn Recreation Center parking lot. “I’m sure Sarah will be happy to see us.”
 
@@ -1728,9 +1758,9 @@ Clare smiled. “Then let me go get your water bottle and I will let Sarah know 
 
 Jack did have his city shirt in the car. He clocked in and got settled in for the day, taking care of the scan station. The rec center had about an hour to go before close, and Sarah, having finished her shift, found a seat in the front lobby to do homework, perched where she could keep a discrete eye on Jack, a silent, supportive presence while he worked.
 
-### Scene 3: Closing Down a Rec Center
+***
 
-**Date:** 2007-01-20 at 16:51 America/New_York
+#### 4:51 PM — Closing Down a Rec Center
 
 The front lobby of Fairlawn Recreation Center was quiet at 4:51 PM on a Saturday in late January. The last of the families had trickled out, leaving only the sterile scent of chlorine and the low hum of the vending machines. Sarah Bennett sat at a table, her laptop open, using the hour before her brother closed up to get a head start on a college paper. Her table faced the front desk, a habit born of a lifetime of looking out for Jack.
 
@@ -1802,9 +1832,9 @@ As they walked out into the cold January night, Sarah, still feeling unsettled a
 
 Olivia, walking a few feet behind them with her brother, saw the easy, physical affection between the siblings. A small giggle escaped her lips. She imagined what that strange, intense woman, Delores, would think if she saw them now. She’d probably assume the worst, completely incapable of understanding what Olivia saw so clearly: two very close siblings who loved each other and were not afraid to show it with simple, non-sexual affection. Feeling her own surge of sisterly protectiveness after witnessing the strange encounter, Olivia moved a little closer to Jason as they walked, a small, silent gesture of solidarity and protection for her own brother.
 
-### Scene 4: Conversations on a Ride Home
+***
 
-**Date:** 2007-01-20 at 17:06 America/New_York
+#### 5:06 PM — Conversations on a Ride Home
 
 The silence in the car was a shared, weary comfort as Jack pulled out of the Fairlawn Recreation Center parking lot. He and Sarah were both tired, the end of a long week and the weight of the last few months pressing on them. Jack was driving, his hands steady on the wheel.
 
@@ -1858,9 +1888,11 @@ There was a brief silence on the line. Then, Sarah spoke, her voice full of unde
 
 The conversation shifted back to logistics, the impending danger of Delores acknowledged, assessed, and contained by their collective vigilance. Jack drove on, listening to their familiar, loving arguments, feeling profoundly safe in their circle of protection.
 
-### Scene 5: A Safe Harbor
+### Part 2: A Safe Harbor & Coffee Date
 
 **Date:** 2007-01-20 at 19:00 America/New_York
+
+#### 7:00 PM • Sarah Bennett — A Safe Harbor
 
 Later that evening, after the family had finished one of their last dinners at Jermaine's house, the men—Jermaine, Devin, and Sam—settled in the living room to watch a basketball game. The low murmur of the television provided the perfect cover. Jack, his expression a mask of anxiety, caught Sarah’s eye and gave a slight nod towards his bedroom. She understood instantly.
 
@@ -1894,9 +1926,9 @@ Seeing his vulnerability and the shame warring with his relief, Sarah knew what 
 
 She moved to sit beside him on the bed, and Molly and Clare closed in, their own arms wrapping around him and Sarah. They enveloped him in a gentle, protective group hug, a circle of unwavering, unconditional love. They didn’t care that he had been manipulated or that he felt flawed; they just cared that he was safe. In that moment, surrounded by the three most important women in his life, Jack finally let the last of his tension go. He was loved, no matter what.
 
-### Scene 6: Coffee Date
+***
 
-**Date:** 2007-01-20 at 14:00 America/New_York
+#### 2:00 PM • Jack Bennett — Coffee Date
 
 The coffee shop in the Virginia Dominion University library was quiet for a Saturday afternoon. Jack pushed the door open, the scent of roasted coffee beans and old books filling the air. He felt a familiar knot of dread in his stomach. The conversation he’d had with Sarah and his cousins in the car echoed in his mind: *It sounded like a script... She doesn’t know the first thing about you.* He was here to end this, not to start it.
 
@@ -1936,9 +1968,11 @@ But as Jack sat there, finishing his hot chocolate while she talked about a clas
 
 ## A Date with Delores
 
-### Scene 1: An Unassuming Dinner
+### Part 1: An Unassuming Dinner & The Debrief
 
 **Date:** 2007-01-27 at 18:00 America/New_York
+
+#### 6:00 PM • Molly Bennett — An Unassuming Dinner
 
 The drive to Delores’s apartment was quiet, with Jack and his cousin Molly sharing the front seat of her car. As Molly pulled into a parking spot, she glanced at Jack. His face was a mask of polite neutrality, but she could see the tension in his shoulders. “You sure about this?” she asked softly.
 
@@ -1962,9 +1996,9 @@ When they arrived, Delores met them at the door, her smile a little too bright. 
 
 Molly, not wanting to make a scene, reluctantly agreed. They ate in the small dining area. As Robyn served the main course, Molly noticed the foil tray it came from—a family-sized portion from the freezer aisle at ValueMart. She kept a neutral expression, but made a mental note. *Mental Note \#1: "World-famous" lasagna comes from the freezer aisle.* Jack, oblivious, simply accepted the food.
 
-### Scene 2: Dinner with Robyn and Delores
+***
 
-**Date:** 2007-01-27 at 18:00 America/New_York
+#### 6:00 PM • Molly Bennett — Dinner with Robyn and Delores
 
 Robyn returned from the kitchen bearing a steaming casserole dish, the scent of tomato and cheese filling the small dining area. As she served generous, perfectly rectangular portions onto their plates, Molly confirmed her suspicion. The layers were a little too uniform, the sauce a little too generic. It was definitely a high-quality frozen lasagna from ValueMart, heated and served as homemade. She took a bite, offering a polite smile. *Mental Note \#2: They lie about small, pointless things.*
 
@@ -1986,9 +2020,9 @@ Delores, ignoring the silent jab, doubled down on her praise for Jack, her laugh
 
 The passive-aggressive volley was dizzying. The conversation continued in this vein—superficially pleasant but lacking any real depth. Delores talked about a professor she liked at VDU. Robyn asked Jack about the types of programs the rec center offered. Jack and Molly gave polite, brief answers, volunteering little. Every topic felt like a carefully managed performance by Delores and her mother, designed to present a picture of perfect, unthreatening normalcy. Molly continued to observe, her initial unease solidifying with every rehearsed question and overly bright smile. This wasn’t a family dinner; it was an audition, and she was watching a silent, ugly war play out right in front of her.
 
-### Scene 3: The Interrogation
+***
 
-**Date:** 2007-01-27 at 18:00 America/New_York
+#### 6:00 PM • Molly Bennett — The Interrogation
 
 The dinner conversation remained superficially pleasant, but Molly felt like she was watching a play. Every word from Delores and Robyn felt rehearsed, every question designed to gather information.
 
@@ -2018,9 +2052,9 @@ Back inside, Jack returned to the living room to find Robyn staring at him. Her 
 
 The questions were too personal, too invasive. And the way she was looking at him, with that strange, lovesick expression, was profoundly creepy. Delores watched them from the sofa, a small, knowing smirk on her face, enjoying his discomfort. This wasn’t a date; it was an interrogation with a bizarre, unsettling agenda. He felt the overwhelming urge to leave.
 
-### Scene 4: The Manipulation
+***
 
-**Date:** 2007-01-27 at 18:15 America/New_York
+#### 6:15 PM • Jack Bennett — The Manipulation
 
 The questions were too personal, too invasive. The way Robyn was looking at him with that strange, lovesick expression was profoundly creepy. And Delores, watching from the sofa with a small, knowing smirk, was enjoying his discomfort. It was in that moment that another detail from earlier clicked into place for Jack: the cold, hard look in Delores’s eyes when he had hugged Molly goodbye. It hadn't just been a fleeting expression; it was a flash of raw, possessive anger. *Mental Note: She hates it when I hug my cousins.*
 
@@ -2058,9 +2092,9 @@ The buzzer rang again. Molly was waiting. Delores was crying. Jack felt a dizzyi
 
 He fled the apartment, Delores’s whispered “Thank you” following him down the hall. He felt her eyes on him the whole way, a mixture of victory and possession that he was too flustered to fully register.
 
-### Scene 5: The Escape and the Hook
+***
 
-**Date:** 2007-01-27 at 18:30 America/New_York
+#### 6:30 PM • Jack Bennett — The Escape and the Hook
 
 The buzzer rang, a sharp, insistent sound that cut through the thick, manipulative atmosphere of the apartment. Molly was here. A wave of immense, profound relief washed over Jack, so potent it almost made him dizzy.
 
@@ -2084,9 +2118,9 @@ He practically ran to Molly’s waiting car, pulling the door open and collapsin
 
 “You have no idea,” Jack breathed, finally feeling like he could breathe again. “Let’s just go home.”
 
-### Scene 6: The Debrief
+***
 
-**Date:** 2007-01-27 at 18:45 America/New_York
+#### 6:45 PM • Jack Bennett — The Debrief
 
 In the quiet cocoon of Molly’s car, the tension from the apartment finally began to dissipate, replaced by a shared, grim understanding. Molly waited until they were a few blocks away, the building's entrance no longer visible in the rearview mirror, before she spoke.
 
@@ -2150,9 +2184,11 @@ A wave of profound relief washed over Jack. He wasn't just being granted a favor
 
 “Always, Jack,” her voice came back, a warm promise through the car’s speakers. “See you in a few.”
 
-### Scene 7: A Theory is Formed
+### Part 2: A Theory is Formed & The New Normal Begins
 
 **Date:** 2007-01-27 at 19:00 America/New_York
+
+#### 7:00 PM • Jack Bennett — A Theory is Formed
 
 They retreated to the privacy of Jack’s bedroom, the four of them creating a familiar, safe circle. Jack recounted the final, manipulative moments at the apartment door, and the girls listened, their expressions growing grimmer with every word.
 
@@ -2176,9 +2212,9 @@ A stunned silence fell over the room as the pieces clicked into place.
 
 Jack stared at his cousin, a chill running down his spine. It was a horrifying theory, but it made perfect, terrible sense. It explained the hollow, hungry look in Delores’s eyes. It explained the way her mother used him as a weapon. He wasn’t a person to them; he was a project. A do-over. The thought was sickening.
 
-### Scene 8: The New Normal Begins
+***
 
-**Date:** 2007-01-27 at 19:15 America/New_York
+#### 7:15 PM • Jack Bennett, Molly Bennett — The New Normal Begins
 
 The weight of the day's events, from the unsettling encounter with Delores to Jack's emotional confession, settled over the four of them in the quiet of his bedroom. The horrifying truth of Molly's theory hung in the air, solidifying their collective resolve.
 
@@ -2210,9 +2246,11 @@ He rolled onto his side, and she immediately moved in behind him, spooning him i
 
 ## Planning Sarah’s Birthday
 
-### Scene 1: A Mission for the Sister
+### A Mission for the Sister & A Taste of Twin Magic
 
 **Date:** 2007-02-03 at 14:00 America/New_York
+
+#### 2:00 PM — A Mission for the Sister
 
 A week or so after the disastrous dinner date, on a Saturday afternoon, Jack, Molly, and Clare made a special trip to the Dominion Tower Mall in Norfolk. The official mission: find a perfect 23rd birthday present for Sarah. Her 23rd was a big deal, not just because it was her birthday, but because she had also just been officially promoted to Head Lifeguard at Fairlawn, and they wanted to get her something that celebrated both milestones. They had chosen this specific mall because it had a specialty outdoor gear store that wasn't in any of the malls closer to their Virginia Beach home, and they were on the hunt for a specific high-end pair of polarized sunglasses Sarah had been wanting.
 
@@ -2234,9 +2272,9 @@ Their shopping trip was a success. At the outdoor gear store, they found the exa
 
 They made their way towards the escalators, still walking in their familiar, linked formation.
 
-### Scene 2: A Taste of Twin Magic
+***
 
-**Date:** 2007-02-03 at 14:15 America/New_York
+#### 2:15 PM — A Taste of Twin Magic
 
 “Okay,” Molly said, “it’s going to be impossible for all three of us to navigate that line and find a table. You two go scout for a place to sit. I’ll be the food warrior and get our order.”
 
@@ -2290,9 +2328,11 @@ With that, the three of them—Jack flanked by his two identical, smiling cousin
 
 ## Sarah Bennett, Reporting for Duty
 
-### Scene 1: A Day of Dread and Duty
+### Part 1: A Day of Dread and Duty & Trial by Fecal Contamination
 
 **Date:** 2007-02-11 at 06:15 America/New_York
+
+#### 6:15 AM • Jack Bennett — A Day of Dread and Duty
 
 The alarm clock on the nightstand blared at 6:15 AM, a harsh, unwelcome sound in the quiet darkness of the bedroom. A groan came from the middle of the queen bed. Jack blindly fumbled for the snooze button, but another hand shot out from beside him and slapped it into silence.
 
@@ -2324,9 +2364,9 @@ He gave her a small, grateful smile. They finished their breakfast and grabbed t
 
 They got into the car, and Jack, as the designated driver for the morning, started the engine and pulled out of the driveway, heading for another fateful day at Fairlawn.
 
-### Scene 2: A Sunday Morning at Fairlawn
+***
 
-**Date:** 2007-02-11 at 09:00 America/New_York
+#### 9:00 AM • Jack Bennett — A Sunday Morning at Fairlawn
 
 At 7:30 AM on the dot, Sarah swiped her employee badge, and the side door of the quiet, sleeping building clicked open. In the dim light of the lobby, she and Jack paused.
 
@@ -2385,9 +2425,9 @@ Jack, standing near the main radio, picked up the receiver. “10-4, Aquatics. F
 
 The day began. The usual Sunday morning crowd flowed in. At 9:00 AM sharp, Mandy arrived, smiling a quick good morning before heading to the middle register to count her drawer. Arthur took his position at the register on the right, next to the Scan Station, and Jack settled in at his spot at the Scan Station, the familiar rhythm of the job a fragile shield against his inner turmoil.
 
-### Scene 3: A Tale of Two Siblings
+***
 
-**Date:** 2007-02-11 at 09:00 America/New_York
+#### 9:00 AM • Jack Bennett — A Tale of Two Siblings
 
 The clock on the wall read 9:00 AM sharp. The doors of Fairlawn Recreation Center slid open, and the Sunday morning rush began.
 
@@ -2402,9 +2442,9 @@ Open Swim, the deck was a cheerful chaos of splashing children and watchful pare
 
 The initial rushes began to subside, leaving a steady hum of activity. Downstairs, Jack felt a wave of dizziness as he stood up to stretch his back, leaning heavily on the counter for a moment. Upstairs, Sarah was walking the perimeter of the pool, her focus absolute, a necessary shield against the worry for her brother that still lingered at the back of her mind.
 
-### Scene 4: A Shared Break
+***
 
-**Date:** 2007-02-11 at 09:00 America/New_York
+#### 9:00 AM • Sarah Bennett — A Shared Break
 
 The morning rush at Fairlawn eventually gave way to the steadier, calmer rhythm of a Sunday afternoon. At 1:23 PM, during a quiet lull, the front desk radio crackled to life, the single channel shared by the whole facility carrying Sarah's familiar voice. "Aquatics to Front Desk."
 
@@ -2440,9 +2480,9 @@ A wave of profound relief washed over Jack’s face. “Yeah?” he asked, his v
 
 “Of course,” she said, her concern deepening. He had agreed without any of his usual token protests. He was really, truly, spent. They finished the rest of their thirty-minute break, the unspoken worry hanging in the air between them. They clocked back in together and walked back towards the front desk. Sarah gave his arm a final, reassuring squeeze before heading back up the ramp to the pool deck, leaving Jack to finish the last few hours of his shift, unaware that his body was already in the midst of a quiet, desperate battle.
 
-### Scene 5: Trial by Fecal Contamination
+***
 
-**Date:** 2007-02-11 at 12:00 America/New_York
+#### 12:00 PM • Jack Bennett — Trial by Fecal Contamination
 
 At 2:00 PM, Sarah returned to the humid warmth of the natatorium, feeling a little more settled after the quiet lunch with Jack. Her shift was halfway over, and everything was running smoothly on her first day as the acting Aquatics Supervisor. She began her rounds, checking in with the lifeguards on the stands.
 
@@ -2470,9 +2510,11 @@ It was a true trial by fire on her first day as acting supervisor, and she had m
 
 "Alright, team," she said, her voice full of the calm authority she had projected all day. "There's nothing more we can do up here. The pool's down for the count. For those of you who want to go home early, you're dismissed for the day. If anyone needs to finish their hours, I'll call the other centers and find a place for you."
 
-### Scene 6: The Longest Shift
+### Part 2: The Longest Shift & A Safe Harbor at Home
 
 **Date:** 2007-02-11 at 16:00 America/New_York
+
+#### 4:00 PM • Sarah Bennett — The Longest Shift
 
 With the public cleared from the natatorium, Sarah and her team spent the next two hours on the grueling decontamination process. They skimmed, treated, and shocked the pool with high levels of chlorine, following the city's health and safety protocols to the letter. By around 4:00 PM, they had done everything they could. Now, all that was left was to let the powerful filtration system cycle the treated water overnight.
 
@@ -2500,9 +2542,9 @@ He met Sarah, who had been waiting patiently after being officially dismissed by
 
 They walked out to the car together, the chilly February air a welcome change. True to her word, Sarah got into the driver's seat. She drove them away from the rec center and towards the Peking Duck Inn, where the rest of their family was already waiting. As they pulled into the bustling parking lot, they saw Delores getting out of her mother's car, her face a mask of polite neutrality. The stage was set for the first, and final, meeting between Delores and the Bennett clan.
 
-### Scene 7: Peking Duck Inn
+***
 
-**Date:** 2007-02-11 at 16:15 America/New_York
+#### 4:15 PM • Sarah Bennett, Molly Bennett — Peking Duck Inn
 
 The Peking Duck Inn was a riot of festive color and cheerful noise on Sunday, February 11th. Simon, the owner, had decorated the day before for the upcoming Chinese New Year, and vibrant red lanterns and gold good luck symbols hung from the ceiling, casting a warm, celebratory glow over the bustling dining room.
 
@@ -2548,9 +2590,9 @@ Molly, watching from directly across the table, had noticed the physical tell, t
 
 The conversation after that was polite, but the dynamic had irrevocably shifted. The family continued to talk freely amongst themselves, their laughter and easy banter a wall that Delores could not penetrate. When they did address her, their questions were clipped, their responses short. Delores could feel it. She was on very, very thin ice, and she had no one to blame but herself.
 
-### Scene 8: A Dinner on Thin Ice
+***
 
-**Date:** 2007-02-11 at 18:00 America/New_York
+#### 6:00 PM • Jack Bennett, Molly Bennett — A Dinner on Thin Ice
 
 Simon returned from the kitchen a few minutes later, the wonderful aroma of the food preceding him. He placed a steaming bowl of wonton soup and a plate of crispy shrimp egg rolls in front of Jack, a familiar, comforting sight. He then served the other Bennetts their own "usuals" before setting a plate of what Delores had ordered in front of her.
 
@@ -2572,9 +2614,9 @@ Molly took a sip of her tea, keeping her expression neutral. It wasn't exactly p
 
 Delores was caught in a trap of her own making. She had to be the perfect, polite girlfriend in front of Jack's father, uncle, and grandfather, but the very presence of his happy, close-knit family, especially the identical twin cousins who had so recently humiliated her, was a constant, grating irritant. The festive, happy atmosphere of the restaurant only served to highlight her own profound sense of isolation and anger.
 
-### Scene 9: The Aftermath
+***
 
-**Date:** 2007-02-11 at 19:00 America/New_York
+#### 7:00 PM • Jack Bennett — The Aftermath
 
 The dinner ended with a polite, strained quiet. When the check arrived, Grandpa Sam simply placed his credit card on the tray without a word. The rest of the family maintained their masks of civility, but underneath, a collective, silent animosity for Delores had solidified. They hated the way she made Jack tense, but they also respected his agency as an adult; he had a plan, and they would be his "wall" when he chose to execute it.
 
@@ -2590,9 +2632,9 @@ Sarah didn't hesitate for a second. She put a comforting hand on her brother's a
 
 The words hit Delores like a physical blow. It wasn't just a hug. It was a direct, verbal request for a level of intimacy and comfort that completely excluded her. He wasn't just tolerating his sister; he was actively choosing her, seeking her out for the night. The anger that had been simmering all evening boiled over into a silent, venomous rage. She yanked the car door open and slid into the seat, slamming the door shut behind her, the sound sharp in the quiet night. She didn't look back as her mother drove away, but her mind was a storm of jealousy and fury. The wall Jack's family had built around him was higher and stronger than she had ever imagined.
 
-### Scene 10: A Safe Harbor at Home
+***
 
-**Date:** 2007-02-11 at 19:00 America/New_York
+#### 7:00 PM • Sarah Bennett — A Safe Harbor at Home
 
 The drive back from the Peking Duck Inn was quiet. The festive atmosphere of the restaurant, a place that usually felt like a second home, had been soured by Delores’s tense, resentful presence. Back at the house, the three of them—Jermaine, Sarah, and Jack—retreated to the living room, the unspoken weight of the evening settling around them.
 
@@ -2622,9 +2664,11 @@ Jack didn't respond, but she felt the tension in his shoulders begin to release 
 
 ## Confusion and Stress
 
-### Scene 1: A Morning Shrouded in Fog 🥣
+### A Morning Shrouded in Fog 🥣 & A Misfired Warning
 
 **Date:** 2007-02-12 at 09:00 America/New_York
+
+#### 9:00 AM • Sarah Bennett — A Morning Shrouded in Fog 🥣
 
 The morning of Monday, February 12th, arrived not with the usual cheerful chaos of their shared home, but with a quiet, heavy stillness. Sarah woke first, a habit born from years of being her brother's protector. She turned her head on the pillow in the
 
@@ -2654,9 +2698,9 @@ Jermaine caught Sarah's eye, his expression grim. "That dinner last night really
 
 Sarah nodded, her own face tight with worry. "I know, Dad. He barely slept. The stress of that girl... it's just eating him alive". They both watched Jack poke at his untouched breakfast, their shared worry settling between them like a heavy weight. For them, the conclusion was as logical as it was obvious: the ugly confrontation with Delores was taking a severe toll on him, and they would have to help him through it.
 
-### Scene 2: A Day of Confusion
+***
 
-**Date:** 2007-02-12 at 09:00 America/New_York
+#### 9:00 AM • Jack Bennett, Sarah Bennett — A Day of Confusion
 
 The day after the disastrous dinner at the Peking Duck Inn, the entire family was on high alert. The morning routine was quiet, a stark contrast to the usual cheerful chaos. Jack was withdrawn, the profound exhaustion from the weekend clinging to him like a shroud. He picked at his breakfast, his appetite gone, a symptom Molly and Sarah exchanged a worried look over. They both attributed his lack of hunger to the immense stress of the Delores situation .
 
@@ -2678,9 +2722,9 @@ He hung up, the feeling of impending doom now a suffocating certainty. He had ju
 
 That night, sleep offered no escape. He was plagued by restless anxiety, waking up several times in a cold sweat, the feeling that something terrible was about to happen so potent it felt like a physical presence in the room. Sarah, sleeping beside him, would murmur his name, and he would focus on the sound of her steady breathing, the only thing that could anchor him in the terrifying darkness.
 
-### Scene 3: A Misfired Warning
+***
 
-**Date:** 2007-02-12 at 14:00 America/New_York
+#### 2:00 PM • Jack Bennett — A Misfired Warning
 
 It was Tuesday afternoon, February 13th. The Fairlawn lobby was a cacophony of after-school energy. The gymnasium was filled with the thud of basketballs from Open Gym, a group fitness class was blasting upbeat music from a meeting room, and a steady stream of patrons chattered as they checked in. At the front desk, Mandy was the acting supervisor, while Olivia and Linda handled the registers.
 
@@ -2712,9 +2756,11 @@ Sarah looked at him, her heart aching, but she respected his resolve. She gave h
 
 ## Welcome to Work
 
-### Scene 1: Off to Work
+### Off to Work & The Mobile Emergency Room
 
 **Date:** 2007-02-13 at 08:15 America/New_York
+
+#### 8:15 AM — Off to Work
 
 Jack woke up slowly, the grogginess of sleep giving way to a dull, anxious weight in his chest. For a moment, he didn't know where he was. Then he felt a gentle, steady breathing beside him and remembered. He was in his own bed, and Sarah was there, a solid, comforting presence beside him. The memory of the the creepy interrogation, Delores’s manipulative tears, and the horrifying accuracy of Molly’s theory—came flooding back. He was grateful he hadn't been alone.
 
@@ -2740,9 +2786,9 @@ He clocked in and made his way to the front desk to begin his day. He was assign
 
 He started greeting patrons as he always did, his voice polite and steady, soon settling into the familiar routine that had worked well for him for the past year and a half. Nothing out of the ordinary on the surface, but underneath, he was counting the hours until he could be with his family again, safe and away from the threat that now had a name and a face.
 
-### Scene 2: Morning at Fairlawn
+***
 
-**Date:** 2007-02-13 at 09:00 America/New_York
+#### 9:00 AM — Morning at Fairlawn
 
 The clock on the wall read 9:00 AM sharp. Jack took his position at the scan station, a familiar post he knew well. To his left, the three cash registers were staffed for the morning rush: Linda, Mandy, and Arthur. The morning unfolded in a familiar, rhythmic blur. The first hour flew by in a wave of cheerful, chattering seniors arriving for their water aerobics class. Jack greeted each one, his hands and mouth on autopilot while his mind replayed the conversation with Sarah in the car.
 
@@ -2750,9 +2796,9 @@ Around 9:30 AM, the energy in the lobby shifted. The tell-tale rumble of school 
 
 By 10:30 AM, the SOS group was in the pool and the initial rush had subsided. Sarah walked past the front desk on her way to the aquatics office to start her shift, catching his eye and giving him a small, encouraging nod. *We're your wall,* the look seemed to say. He felt a wave of relief seeing her. At 10:37 AM, the lobby was quiet again. The classes were in session, and the regulars were settled into their workouts. Jack stood at his station, the steady rhythm of his job a fragile shield against the turmoil in his mind. He just had to get through the day. He just had to make it to 5:30, when he could meet his sister and they could figure out a plan. It was just another day at work.
 
-### Scene 3: First Response
+***
 
-**Date:** 2007-02-13 at 10:44 America/New_York
+#### 10:44 AM — First Response
 
 The time was 10:44 AM. Jack came back to the front desk after using the restroom. He sat down at his station as his immediate supervisor, Arthur, got up. Jack took his spot at the scan station, his heart rate still elevated from the long walk from the back of the building.
 
@@ -2788,9 +2834,9 @@ The paramedics arrived quickly. As they entered the office, the rec center staff
 
 “Crossroads Memorial,” They told her, and she sprang to her feet. “Let me clock out, get dressed, and get going. I will see you there!” She took her brother’s hand, while his boss kept promising that no job was worth his health and that his front desk job would be there when he returned.
 
-### Scene 4: The Mobile Emergency Room
+***
 
-**Date:** 2007-02-13 at 10:59 America/New_York
+#### 10:59 AM — The Mobile Emergency Room
 
 The journey from the back office to the ambulance bay was a surreal blur. The paramedics moved with a calm, focused urgency, Sarah walking alongside the stretcher, her hand a constant, reassuring presence on his arm until they reached the ambulance's rear door. Ï will meet you at the hospital,” she said, giving his hand one last squeeze. They loaded him in, the doors closed with a solid, final-sounding thud, and for the first time since this ordeal began, he was separated from his sister.
 
@@ -2816,9 +2862,11 @@ The ambulance lurched forward, the siren finally wailing to life. The ride was a
 
 ## Hospital Arrival
 
-### Scene 1: Arrival at the Emergency Room
+### Part 1: Arrival at the Emergency Room & A Quiet Vigil
 
 **Date:** 2007-02-14 at 08:15 America/New_York
+
+#### 8:15 AM — Arrival at the Emergency Room
 
 The ambulance dropped Jack off at the emergency department of Crossroads Memorial Hospital, and he was transferred to a hospital gurney. He was taken to a triage room where paramedics began explaining his condition to a nurse. It wasn’t too long before Sarah arrived, her face etched with worry. “Dad is on the way. How are you feeling?” she asked, her hand finding his.
 
@@ -2880,9 +2928,9 @@ Across the room, Jermaine watched the entire, ugly exchange, a cold fury settlin
 
 Delores was lucky, in that moment, that the family did not dismiss her. She was lucky that Jermaine chose to honor his son’s autonomy over his own powerful impulse to protect him.
 
-### Scene 2: Transfer to Main Hospital
+***
 
-**Date:** 2007-02-14 at 08:30 America/New_York
+#### 8:30 AM — Transfer to Main Hospital
 
 The transport team arrived with a gurney, and the process of moving Jack from the oversized recliner began. As they prepared to wheel him out, Jack’s eyes found Sarah’s, a silent plea for stability in a world that was spinning out of control. He reached out his hand, not towards Delores, but directly and only to his sister.
 
@@ -2898,9 +2946,9 @@ As they continued, a new, uglier thought began to worm its way into Delores's mi
 
 Through fluorescent-lit corridors, past bustling nurses' stations, and into a large, echoing elevator, Jack never let go of Sarah’s hand. The simple, physical connection was the only thing keeping his rising panic at bay.
 
-### Scene 3: Rooming It at the Hospital
+***
 
-**Date:** 2007-02-14 at 08:45 America/New_York
+#### 8:45 AM — Rooming It at the Hospital
 
 Jack was moved by stretcher from the emergency room to the main hospital where a bed was waiting for him. The plan was to do a few more tests to see how the hospital wanted to tackle the cause of this. Delores set herself up on the hospital sofa while Sarah stood at Jack’s side, her mission to comfort her frightened brother. Meanwhile, Delores sighed and checked her phone, functioning as if being in the hospital was an inconvenience to her plans for the day.
 
@@ -2926,9 +2974,9 @@ A few moments later, a stretcher was brought into the room. Jack was moved onto 
 
 The world became a series of unsettling moments. The doors swished open, and he was wheeled into a room that was dark and cold. Strange, large machines with blinking lights loomed in the corners. A person in scrubs moved him from the gurney to a narrow, hard table. They pulled his gown aside and squeezed a cold, thick goo onto his chest that made him flinch. The person then took a wand-like thing and began pressing it firmly against his skin, moving it around. On a monitor he could see out of the corner of his eye, blurry black-and-white shapes swirled like storm clouds or TV static. He had no idea what he was looking at. The person in scrubs would occasionally say, “Okay, hold your breath,” or “Now, turn onto your left side a little.” The silence was punctuated by the rhythmic beeping of a machine somewhere behind him. It felt like it took forever, and yet no time at all. Finally, the goo was wiped off his chest, and he was moved back to the gurney, feeling dazed and vulnerable. He was brought back to his room while the hospital made plans to have an operating room available for him the next day.
 
-### Scene 4: Back in the Room
+***
 
-**Date:** 2007-02-14 at 09:00 America/New_York
+#### 9:00 AM — Back in the Room
 
 Back in the quiet of his new room on the cardiac floor, a nurse helped get Jack settled, explaining the various buttons on the bed and the call remote. "The sofa pulls out into a bed for one overnight guest," she mentioned kindly before leaving them to rest. "Just let us know if you need linens".
 
@@ -2970,9 +3018,9 @@ Jack nodded against his sister’s shoulder, the truth of his own feelings final
 
 With Delores gone and the truth settling in, it was time to get settled into this room, his new home for at least tonight, with the daunting reality of surgery scheduled for tomorrow.
 
-### Scene 5: A Quiet Vigil
+***
 
-**Date:** 2007-02-14 at 14:00 America/New_York
+#### 2:00 PM — A Quiet Vigil
 
 The emotional storm of the afternoon settled into a quiet, anxious vigil. With Delores gone, the hospital room became a small sanctuary for the Bennett family. Sarah pulled the sofa out into its bed configuration, setting up her space for the night, while Jermaine sat in a chair by his son’s side.
 
@@ -2994,9 +3042,11 @@ As they were finishing, Sarah’s phone rang. It was Molly. Sarah answered, putt
 
 Jack leaned his head back against the pillow. The thought of seeing the rest of his family, of having his full support system around him, was a comfort. The room was quiet again, but now it was a quiet filled with anticipation for the arrival of the rest of their clan.
 
-### Scene 6: The Family Visit
+### Part 2: The Family Visit & The Wait for Dawn
 
 **Date:** 2007-02-14 at 14:15 America/New_York
+
+#### 2:15 PM — The Family Visit
 
 A quiet knock on the door heralded the arrival of the rest of the Bennett clan. Jermaine stepped out into the hall to greet his father, Sam, and his brother, Devin, while Molly and Clare slipped into the room to see Jack. Hospital policy only allowed two visitors at a time, and the family had a quiet, unspoken agreement: to keep Jack comfortable, one of them would always be Sarah, Molly, or Clare.
 
@@ -3026,9 +3076,9 @@ She took a deep breath. “They’re going to try a procedure called a balloon a
 
 A heavy silence fell over the room, the true gravity of Jack’s situation settled upon them. The stakes were incredibly high. Sarah instinctively reached out and took her brother’s hand again, her grip a silent promise of support in the face of the terrifying day that lay ahead.
 
-### Scene 7: The Night Before Surgery
+***
 
-**Date:** 2007-02-14 at 09:00 America/New_York
+#### 9:00 AM — The Night Before Surgery
 
 As visiting hours began to wind down, the rest of the family said their loving but worried goodbyes. Grandpa Sam, Uncle Devin, Molly, and Clare each took a moment to squeeze Jack’s hand, offering words of love and encouragement before leaving the room to Jack, Sarah, and Jermaine.
 
@@ -3056,9 +3106,9 @@ With that final piece of business settled, Jermaine knew it was time to go. He l
 
 Sarah dimmed the main lights in the room, leaving only a soft glow from the lamp by her sofa-bed. She settled in for the night, her laptop open but untouched, her primary focus on the quiet, steady rhythm of her brother’s breathing as they waited for the dawn.
 
-### Scene 8: The Wait for Dawn
+***
 
-**Date:** 2007-02-14 at 09:00 America/New_York
+#### 9:00 AM — The Wait for Dawn
 
 By 9:00 PM, a heavy exhaustion had settled over the hospital room. Jack, feeling the weight of the day and the dread of the morning to come, knew he needed to at least try to sleep.
 
@@ -3082,9 +3132,11 @@ The nurse finished, dimmed the lights, and left them in the quiet darkness once 
 
 ## Heart Hospital
 
-### Scene 1: Serious Health Discussion
+### Part 1: Serious Health Discussion & Off to the Operating Room
 
 **Date:** 2007-02-14 at 08:15 America/New_York
+
+#### 8:15 AM — Serious Health Discussion
 
 The non-emergency ambulance dropped Jack off at the sprawling main Heart Hospital for the region. The transfer was a blur of new hallways and new faces, but it wasn’t too long after arriving in his new, private room that his father and sister were there with him again.
 
@@ -3104,9 +3156,9 @@ Jermaine let out a long breath, a look of profound relief on his face. “Son, I
 
 Jermaine’s expression hardened with protective resolve. “Consider it done, Jack. You don’t worry about her for one more second. You just focus on getting through tomorrow. I will handle Delores.”
 
-### Scene 2: Off to the Operating Room
+***
 
-**Date:** 2007-02-14 at 09:00 America/New_York
+#### 9:00 AM — Off to the Operating Room
 
 The morning of the surgery was a quiet, tense vigil in Jack's hospital room. Jermaine, Sarah, Grandpa Sam, and Uncle Devin were all gathered, their conversation soft and subdued, trying to keep a brave face for Jack. The door opened, and Delores swept in, a look of practiced concern on her face.
 
@@ -3220,7 +3272,7 @@ A heavy, horrified silence fell over the waiting room as the full, ugly truth of
 
 The family sat together in the sterile waiting room, more united than ever. Their shared worry for Jack on the operating table was now fused with a grim, collective relief. He was free. He was safe. And they were all there to make sure he stayed that way.
 
-### Scene 3: Waking Up in the Intensive Care Unit
+### Part 2: Waking Up in the Intensive Care Unit
 
 **Date:** 2007-02-14 at 09:15 America/New_York
 
@@ -3382,9 +3434,11 @@ Jack held Sarah's hand during the entire transport to his recovery room, his gri
 
 ## The Day of Surgery
 
-### Scene 1: The Last Meal
+### The Last Meal & The Transfer
 
 **Date:** 2007-02-15 at 09:00 America/New_York
+
+#### 9:00 AM • Jack Bennett — The Last Meal
 
 The first light of February 15th, 2007, filtered into the hospital room, grey and muted. Jack was already awake when a nurse brought in his breakfast tray. Sarah stirred on the sofa bed, awakened by the quiet sounds. In the chaos and terror of the past 24 hours—her brother having a heart attack, the tense confrontation with Delores, the sleepless night—she had completely forgotten what day it was.
 
@@ -3430,9 +3484,9 @@ The words hit her with the force of a physical blow. Her birthday. It was her 23
 
 He squeezed her hand, a silent thank you passing between them. The plan for Delores was set. Now, all that was left was to face the surgery.
 
-### Scene 2: The Journey to the OR
+***
 
-**Date:** 2007-02-15 at 09:00 America/New_York
+#### 9:00 AM • Jack Bennett, Sarah Bennett — The Journey to the OR
 
 The quiet of the morning was broken by a cheerful but firm knock. A hospital transporter entered the room with a gurney, the squeak of its wheels sharp in the tense silence. "Morning, Jack. Time to get you ready to go."
 
@@ -3476,9 +3530,9 @@ The beeping of the monitors seemed to grow distant.
 
 The edges of his vision softened, and the bright light dissolved into a peaceful, welcoming darkness.
 
-### Scene 3: A Failed Procedure
+***
 
-**Date:** 2007-02-15 at 09:15 America/New_York
+#### 9:15 AM • Jack Bennett, Sarah Bennett — A Failed Procedure
 
 The first thing Jack was aware of was a low, steady beeping and the murmur of serious voices. He was floating in a groggy, grey fog, unable to open his eyes.
 
@@ -3516,9 +3570,9 @@ The doctor left them to process the news. *Close to death.* The phrase echoed in
 
 She was there in an instant, wrapping her arms around him as best she could. The doctor's words crashed over her, and a new, horrifying realization twisted in her gut, sharp and agonizing. *He almost died. He almost died on my birthday.* The thought was a silent scream in her mind. Her birthday present, the one she had asked for just this morning—for him to be okay—had almost been snatched away in the most brutal way imaginable. The day of her birth would have become the day of his death. Her own tears finally fell, hot and heavy, a torrent of grief for a tragedy that had come terrifyingly close to being real. Jack held on to her as tightly as the medical equipment attached to him would allow, burying his face in her shoulder, the terrifying, abstract concept of his own mortality suddenly, horribly real.
 
-### Scene 4: A Veteran's Reassurance
+***
 
-**Date:** 2007-02-15 at 09:30 America/New_York
+#### 9:30 AM • Jack Bennett — A Veteran's Reassurance
 
 Jack clung to his sister, the stark reality of his near-death experience washing over him in waves of terror. The world outside the circle of Sarah’s arms felt distant and muffled. She held him tightly, her own tears soaking the shoulder of his hospital gown, her mind reeling with the horrifying thought: *He almost died. He almost died on my birthday*. The thought was a silent, agonizing scream.
 
@@ -3564,9 +3618,9 @@ The brave faces Molly and Clare had put on for their cousin crumbled instantly. 
 
 Tears welled in Molly’s eyes, and Clare let out a small, choked sob. They each grabbed one of Jack’s hands, their earlier pretense of bravery replaced by a shared, empathetic sorrow. They didn’t offer empty platitudes or tell him it would be easy. They knew it wouldn’t be. Instead, their hugs and their tears conveyed a deeper, more powerful message: *We know how hard this is going to be. And we will be right here with you, every single step of the way.*
 
-### Scene 5: The Transfer
+***
 
-**Date:** 2007-02-15 at 09:00 America/New_York
+#### 9:00 AM • Jack Bennett — The Transfer
 
 The call came the next morning: a bed had opened up at the Heart Hospital. The news was both a relief and a fresh wave of anxiety for the Bennett family, who had gathered again in Jack’s room.
 
@@ -3590,9 +3644,11 @@ They turned and walked towards their own cars, a small, determined convoy prepar
 
 ## The Road to Recovery
 
-### Scene 1: Rooming with Sarah in the Hospital
+### Rooming with Sarah in the Hospital & Bed Time with Sarah
 
 **Date:** 2007-02-16 at 08:15 America/New_York
+
+#### 8:15 AM — Rooming with Sarah in the Hospital
 
 The journey from the beeping, sterile intensity of the ICU to the quiet of a private room on the cardiac recovery floor felt like traveling between two different worlds. Jack was transferred to his new room and was immensely glad to have his sister’s company. The new space was brighter, with a large window that looked out over a small courtyard. It felt like a step toward normalcy.
 
@@ -3620,9 +3676,9 @@ Just then, three familiar faces popped into the hospital room. “Molly! Clare! 
 
 “We can get that taken care of right now,” Jermaine said, placing a firm hand on his son’s shoulder. “I made my child a promise that he could come home whenever he wanted, and I am honoring my promise as soon as this hospital is ready to discharge you. You won't have to worry about her ever again.”
 
-### Scene 2: Bed Time with Sarah
+***
 
-**Date:** 2007-02-16 at 21:00 America/New_York
+#### 9:00 PM — Bed Time with Sarah
 
 The hospital room was quiet now that their family had left for the night. Sarah began to arrange the pillows and blankets Jermaine had brought from home onto the pull-out sofa, the familiar patterns a small comfort in the sterile environment.
 
@@ -3650,9 +3706,11 @@ Just then, both of their phones buzzed with an identical, sharp alert tone. Ther
 
 ## A Blizzard Sanctuary
 
-### Scene 1: A Visitor in the Storm
+### Part 1: A Visitor in the Storm & A Call Home
 
 **Date:** 2007-02-17 at 08:15 America/New_York
+
+#### 8:15 AM — A Visitor in the Storm
 
 The first flakes of the impending blizzard had just begun to fall as **Mandy** rushed her grandmother into the emergency room at **Tidewater General**. After getting her grandmother settled, a process that took over an hour, Mandy looked out the window. The gentle flurry had transformed into a thick, swirling curtain of white. The roads were already disappearing.
 
@@ -3680,9 +3738,9 @@ As Mandy prepared to find a quiet corner of a waiting room to settle in for the 
 
 Mandy smiled, a true, honest smile. "Thanks, Sarah. I might just take you up on that." She gave them both a final wave and walked out, leaving the siblings to face the long, snowbound night ahead.
 
-### Scene 2: The First Night
+***
 
-**Date:** 2007-02-17 at 21:00 America/New_York
+#### 9:00 PM — The First Night
 
 With the city alert confirming the impending blizzard, the hospital room became their sanctuary, a small island of warmth against the storm raging outside. For the next few days, this room would be as much Sarah’s home as it was Jack's. Sarah spoke briefly on the phone with their father, assuring him they were settled and safe before the roads became impassable.
 
@@ -3708,9 +3766,9 @@ The shared, gallows humor was a small comfort. This pattern repeated itself at 2
 
 Sarah managed a tired smile. “Always,” she replied. They were both annoyed, sleep-deprived, and on edge, but they were facing it together, side-by-side in their small, snowbound sanctuary.
 
-### Scene 3: The First Full Day
+***
 
-**Date:** 2007-02-17 at 21:00 America/New_York
+#### 9:00 PM — The First Full Day
 
 The first full day of recovery was a lesson in humility. After their sleepless night, a cheerful day-shift nurse came in with Jack’s breakfast and a small paper cup of pills.
 
@@ -3738,9 +3796,9 @@ Sarah, who had discreetly focused on her laptop, glanced over. Seeing the relief
 
 Jack just nodded, too tired to speak. He had won his first, bizarre, and utterly undignified battle on the long road to recovery.
 
-### Scene 4: The First Walk
+***
 
-**Date:** 2007-02-17 at 14:00 America/New_York
+#### 2:00 PM — The First Walk
 
 Later that afternoon, a nurse came into the room, her expression cheerful but determined. "Alright, Jack. Doctor's orders. Time to get you up and moving."
 
@@ -3772,9 +3830,9 @@ Back in bed, utterly spent, he looked at his sister.
 
 "You made it to the hallway, Jack," she said, her voice full of love and pride. "That was huge."
 
-### Scene 5: A Call Home
+***
 
-**Date:** 2007-02-17 at 14:15 America/New_York
+#### 2:15 PM — A Call Home
 
 After resting for an hour, the exhaustion from his first walk began to recede, replaced by a quiet sense of accomplishment. Jack felt a deep longing to connect with the rest of his family, who he knew were anxiously waiting for updates at the new house, snowed in just like he and Sarah were at the hospital.
 
@@ -3804,9 +3862,11 @@ Jack, listening from his bed, felt a warm blush of happiness spread across his f
 
 The conversation continued for a few more minutes, filled with love and encouragement, a vital lifeline connecting their small hospital sanctuary to their snowbound family at home. When they finally hung up, Jack felt emotionally recharged, his spirit bolstered by the unwavering pride and love of his family.
 
-### Scene 6: The Anthem of Aethel 🎶
+### Part 2: The Anthem of Aethel 🎶 & A New Home
 
 **Date:** 2007-02-17 at 14:30 America/New_York
+
+#### 2:30 PM • Jack Bennett — The Anthem of Aethel 🎶
 
 The second full day of being snowbound in the **Tidewater General Heart Hospital** had settled into a quiet, monotonous rhythm. The blizzard still raged outside. True to her word, **Mandy** had returned, a welcome visitor bringing a deck of cards and stories from the hospital waiting room where she was camping out. The three of them were a small, comfortable island in the middle of the storm.
 
@@ -3902,9 +3962,9 @@ Jack nodded, a small, genuine smile on his face. "I'd like that," he whispered.
 
 Mandy gave Sarah a final, warm look of solidarity and slipped out of the room, leaving the two siblings in the quiet, peaceful aftermath of a storm that had been a long time coming.
 
-### Scene 7: The Rec Center Rallies
+***
 
-**Date:** 2007-02-17 at 14:00 America/New_York
+#### 2:00 PM • Jack Bennett, Sarah Bennett — The Rec Center Rallies
 
 The next day, the sun came out, making the thick blanket of snow outside Jack's window sparkle with a blinding intensity. The city was slowly starting to dig out, and the main roads were becoming passable again.
 
@@ -3928,9 +3988,9 @@ A wave of immense relief washed over Sarah. The logistical hurdle of work was go
 
 Kelly just gave her a supportive nod before saying her goodbyes. With the support of their work family confirmed, and the promise that Sarah could remain by his side, the path to recovery felt a little less daunting.
 
-### Scene 8: A Mentor's Visit
+***
 
-**Date:** 2007-02-17 at 14:00 America/New_York
+#### 2:00 PM • Jack Bennett — A Mentor's Visit
 
 Later that afternoon, after the stream of well-wishers had slowed, Jack was resting, listening to the quiet murmur of the television Sarah had on. From the hallway, he could hear the approaching voices of another group of visitors. His head lifted from the pillow. Among the familiar tones, one voice stood out—a warm, booming baritone with a thick, unmistakable Sydney accent that Jack would recognize anywhere.
 
@@ -3950,9 +4010,9 @@ Anthony came to his bedside, clapping him gently on the shoulder. “Good to see
 
 Jack felt a wave of relief. Navigating city paperwork was a daunting task, and Anthony’s immediate offer to help was exactly the kind of proactive support he was known for. He was the first male authority figure Jack had ever felt he could truly look up to, and in this moment, his presence was an immense comfort.
 
-### Scene 9: An Unexpected Goodbye
+***
 
-**Date:** 2007-02-17 at 19:00 America/New_York
+#### 7:00 PM • Jack Bennett — An Unexpected Goodbye
 
 Later that evening, there was another soft knock on Jack's hospital room door. A woman with a kind, no-nonsense air stepped in. It was Brandi, the building supervisor from the Bayside Recreation Center, one of the other city facilities where Jack had recently been covering shifts.
 
@@ -3978,9 +4038,9 @@ She smiled. "You too, Jack. You just focus on getting better."
 
 They chatted for a few more minutes, a comfortable and final conversation. As Brandi and Alexis left, Jack felt a sense of closure, happy to have had a chance to say a proper goodbye to a respected former boss.
 
-### Scene 10: A New Home
+***
 
-**Date:** 2007-02-17 at 09:00 America/New_York
+#### 9:00 AM • Sarah Bennett — A New Home
 
 The morning the doctors finally cleared Jack for discharge, the hospital room was filled with the bustling, happy energy of the entire Bennett clan. Sam, Jermaine, Devin, Molly, and Clare were all there, a formidable and loving force ready to bring him home.
 
@@ -4006,9 +4066,11 @@ Jack listened, completely overwhelmed. They hadn't just made a space for him; th
 
 ## Recovering from a Heart Attack
 
-### Scene 1: The New House
+### The New House & First Night at the House
 
 **Date:** 2007-03-03 at 08:15 America/New_York
+
+#### 8:15 AM — The New House
 
 Jack’s first full day at home was a masterclass in quiet, coordinated care. The family had decided it was best for him to start his recovery on the living room sofa, which they had transformed into a comfortable nest of pillows and blankets. This way, he was at the center of their new home, a constant, visible part of the family's new rhythm.
 
@@ -4036,9 +4098,9 @@ Sarah was there in a second, her book left on the chair. “Of course. What do y
 
 With Sarah’s strong and steady help, Jack was able to shift his weight and find a more comfortable position. The maneuver was quiet, efficient, and full of a gentle understanding. He settled back into the pillows, the ache already subsiding. He was home. He was safe. And he was surrounded by a family that knew exactly how to care for him.
 
-### Scene 2: First Night at the House
+***
 
-**Date:** 2007-03-03 at 19:00 America/New_York
+#### 7:00 PM — First Night at the House
 
 As evening fell, Molly and Clare returned from work, their cheerful energy lighting up the new house. After a quiet dinner, they helped Jack up from the living room sofa. But instead of guiding him to a small, separate bedroom, they walked him to the converted garage, their new, self-contained apartment: The Quad.
 
@@ -4086,9 +4148,11 @@ And in the circle of his sister’s arms, on a bed big enough for them all, feel
 
 ## A Taste of Home
 
-### Scene 1: A Taste of Home
+### A Taste of Home & A Visit to a Second Home
 
 **Date:** 2007-03-04 at 08:15 America/New_York
+
+#### 8:15 AM • Jack Bennett — A Taste of Home
 
 The next day, the house was a sanctuary of quiet care. With Sarah on leave and Molly and Clare happening to have the day off, all three of his favorite women were there to keep Jack company. Grandpa Sam, having declared himself the "day shift supervisor," sat in his armchair, a watchful and comforting presence.
 
@@ -4112,9 +4176,9 @@ Sam handed mugs to Sarah, Molly, and Clare. The four cousins/siblings held their
 
 The four of them shared a look, a silent toast. In that moment, the simple, sweet act of drinking hot chocolate together became an act of solidarity. They were reclaiming Jack’s comfort, erasing the memory of Delores’s impersonal and manipulative gesture with a taste of home, a flavor that was uniquely theirs. Jack took a deep, happy sip, the rich, sweet taste a confirmation that he was safe, loved, and finally free.
 
-### Scene 2: A Visit to a Second Home
+***
 
-**Date:** 2007-03-04 at 08:30 America/New_York
+#### 8:30 AM • Jack Bennett, Sarah Bennett — A Visit to a Second Home
 
 Later that day, a familiar restlessness began to stir in Jack. “I want to try walking again,” he announced to Sarah and Sam. “It’s bitterly cold outside, and the house isn’t big enough. I… I want to go to Fairlawn. See my people. Maybe walk the hallway there.”
 
@@ -4178,9 +4242,11 @@ With a final wave, Jack and his family turned and walked towards the main entran
 
 ## A Final Encounter
 
-### Scene 1: A Final Encounter
+### A Final Encounter & Room Service
 
 **Date:** 2007-03-05 at 08:15 America/New_York
+
+#### 8:15 AM — A Final Encounter
 
 The very next day, Monday, Jack felt strong enough for another important outing. The visit to Fairlawn had bolstered his spirits, and he knew he had to take care of his college paperwork. He, Sarah, and Grandpa Sam drove to the Community College of Hampton Roads campus in Virginia Beach.
 
@@ -4208,9 +4274,9 @@ For the first time, she truly admitted defeat. In her mind, a switch flipped. *F
 
 Without another word, Delores turned on her heel and stormed away, finally and forever out of their lives. Jack watched her go, a profound sense of relief washing over him. He leaned a little more heavily on Sarah, and together, the three of them turned and walked into the administration building, leaving the past behind them.
 
-### Scene 2: Building a Sanctuary
+***
 
-**Date:** 2007-03-05 at 08:30 America/New_York
+#### 8:30 AM — Building a Sanctuary
 
 The days following the final encounter with Delores were filled with a profound and healing peace. With the threat gone for good, the family could finally focus on the future they had planned. While Jermaine, Devin, and Sam handled the heavy lifting of moving furniture into the main house, the four cousins turned their attention to their own special project: transforming the converted garage into The Quad.
 
@@ -4232,9 +4298,9 @@ The three of them would climb onto the massive bed, carefully navigating around 
 
 He lay there on the bed, unable to lift a single box, yet feeling more a part of something than he ever had in his life. He watched his three most favorite women in the world bustle around him, their easy laughter and cheerful chatter filling the air. They weren't just unpacking boxes; they were building their fortress, their sanctuary, their future. And he was right in the very heart of it.
 
-### Scene 3: Room Service
+***
 
-**Date:** 2007-03-05 at 14:00 America/New_York
+#### 2:00 PM — Room Service
 
 The afternoon sun began to cast long shadows across the newly arranged furniture in The Quad. Jack was still resting on the massive Alaskan King bed, a comfortable and contented project manager, while Sarah, Molly, and Clare put the final touches on their shared sanctuary. The room was no longer just a converted garage; it was a home, filled with their books, their posters, and the easy, happy energy of their shared presence.
 
@@ -4256,9 +4322,11 @@ A chorus of cheerful agreement went through the room. A little while later, the 
 
 ## The First Tour
 
-### Scene 1: The First Tour
+### Part 1: The First Tour & A Sanctuary Decorated
 
 **Date:** 2007-03-06 at 09:00 America/New_York
+
+#### 9:00 AM • Jack Bennett, Sarah Bennett — The First Tour
 
 The next morning, the house was a little quieter. Jermaine, Devin, and Molly had all left for work, leaving Jack, Sarah, Clare, and Grandpa Sam to hold down the fort. After a quiet breakfast in The Quad, Jack felt a familiar restlessness stirring. The triumphant walk at Fairlawn a few days ago, fueled by the sheer joy of being in his second home, had felt like a massive victory. But the adrenaline had long since faded, leaving a deep, aching exhaustion in its place. He knew he had overdone it, and now he was paying the price.
 
@@ -4314,9 +4382,9 @@ Finally, they got him settled on the sofa. Sarah sat down first, and Jack lay do
 
 Jack didn't respond. He was already succumbing to a deep, bone-weary exhaustion, his world narrowed to the comforting weight of his head on his sister's lap, safe in the circle of his family's unwavering love.
 
-### Scene 2: A Cheesy Sanctuary
+***
 
-**Date:** 2007-03-06 at 14:00 America/New_York
+#### 2:00 PM • Sarah Bennett — A Cheesy Sanctuary
 
 The afternoon light began to fade, and the quiet of the house was broken by the sound of the front door opening. Molly was home from work. She walked into the living room to find Jack lying on the sofa, his head resting in Sarah’s lap, while Clare and Grandpa Sam sat quietly nearby.
 
@@ -4340,9 +4408,9 @@ The three girls exchanged a quick, puzzled look. Jack had never asked for captio
 
 "Snack time," Grandpa Sam announced from the doorway. He returned a moment later with a tray bearing four glasses of ice water and a large bowl of what was, he assured them, the "healthy kind" of popcorn. He settled into his armchair, a warm, contented smile on his face as he watched his four grandchildren, huddled together on the sofa, completely absorbed in the opening scene of their favorite movie. The world outside, with all its dangers and worries, could wait. For the next two hours, they were safe in their cheesy, 1980s sanctuary.
 
-### Scene 3: A Collector's Edition
+***
 
-**Date:** 2007-03-06 at 14:00 America/New_York
+#### 2:00 PM • Jack Bennett — A Collector's Edition
 
 The familiar, cheesy score of **"The Silver Gauntlet of Aethel"** filled the living room, a comforting soundtrack to a quiet afternoon of recovery. **Jack**, still nestled on the sofa with his head in **Sarah’s** lap, was completely absorbed in the movie, a bowl of bland, heart-healthy popcorn resting on his stomach. The water in his glass was a constant, bland reminder of his new reality, but for now, it didn’t matter. He was home, he was safe, and he was with his favorite people.
 
@@ -4372,9 +4440,9 @@ Clare picked up the sticker sheet. "Okay, dibs on the Shadow Sorcerer!" she said
 
 "I call Kaelan," Jack said immediately. He carefully peeled the sticker of the film's hero from the sheet and, with a steady hand, placed it perfectly on the back of his laptop. Sarah smiled and peeled the sticker of the heroine, Kaela, placing it on her own laptop, a perfect mirror of her brother's choice. Molly, ever the analyst, chose the sticker of the wise old wizard, while Clare gleefully affixed the image of the main villain to her computer. It was a small ritual, but a deeply meaningful one, each of them claiming a piece of their shared fandom.
 
-### Scene 4: Dinner and Bonus Features
+***
 
-**Date:** 2007-03-06 at 18:00 America/New_York
+#### 6:00 PM • Jack Bennett — Dinner and Bonus Features
 
 The familiar, cheesy score of **"The Silver Gauntlet of Aethel"** faded out, and the credits began to roll on the living room television. The four cousins, huddled together on the sofa, let out a collective, contented sigh.
 
@@ -4400,9 +4468,9 @@ After dinner, as he was handing his empty plate to his father, he made a quiet d
 
 Jermaine smiled, a look of profound, gentle understanding on his face. "Of course, son. You tried it, and that's all that matters. There are plenty of other healthy things we can make." He glanced at Sarah and Molly, a silent, knowing look passing between them. They were all thinking the same thing. Jack, even in his recovery and with his new, restricted diet, had politely eaten a meal he didn't particularly like without a single complaint. The contrast to **Delores**, who would have looked at the plate, declared it disgusting, and refused to even touch it, was a stark and powerful reminder of the kind, gentle, and respectful young man he was. It was a small moment, but it was a perfect encapsulation of why they all loved him so much.
 
-### Scene 5: A Sanctuary Decorated
+***
 
-**Date:** 2007-03-06 at 18:00 America/New_York
+#### 6:00 PM • Jack Bennett — A Sanctuary Decorated
 
 After saying their goodnights to **Sam**, **Devin**, and **Jermaine**, the four cousins retreated to the quiet sanctuary of **The Quad**. The energy from their shared dinner and the excitement over the new bonus features DVD still lingered, a warm and happy buzz.
 
@@ -4424,7 +4492,7 @@ Soon, all four of them were in their pajamas, and one by one, they climbed into 
 
 Jack lay back against his pillows, a profound sense of peace and contentment washing over him. He was cocooned, physically and emotionally, by the three women he trusted more than anyone in the world. He was in a bed large enough for them all, in a room that was truly theirs, with the heroes of his favorite story watching over him from the wall. He was safe. The hugs he would get here were safe, not just for his healing chest, but for his healing heart. They were hugs from his family, not from a predator like Delores. He was finally, truly ready to rest.
 
-### Scene 6: The Biological Deadline
+### Part 2: The Biological Deadline
 
 **Date:** 2007-03-06 at 18:00 America/New_York
 
@@ -4512,9 +4580,11 @@ Jack lay back, feeling lighter than he had in months. The predator's logic had b
 
 ## The Long Road Ahead
 
-### Scene 1: The Windsor Woods Realization
+### The Windsor Woods Realization & A New Kind of Housebound
 
 **Date:** 2007-03-07 at 09:00 America/New_York
+
+#### 9:00 AM • Jack Bennett — The Windsor Woods Realization
 
 The next day, the new Bennett family home was a little quieter. **Sarah**, with a mix of reluctance and professional duty, had gone back to work at **Fairlawn** for her first full day since Jack's surgery. **Jermaine**, **Devin**, and **Molly** were also at their jobs. This left **Clare**, who had the day off, and **Grandpa Sam** as Jack's primary support crew.
 
@@ -4542,9 +4612,9 @@ Jack knew he was right. This was the same feeling he'd had in Sarah's hospital r
 
 He sank onto a nearby bench, the strength gone from his legs, his heart pounding with a new kind of terror. This was the moment he had been dreading, the one his father and uncle had been planning for, but he had never imagined it would feel this sudden, this absolute. He looked at the long, gleaming hallway in front of him, a path he had intended to walk just moments ago. Now, the simple act felt impossible. He didn't know if this was a temporary, albeit unusually painful, setback, or something more permanent. All he knew was the profound, soul-deep sense of defeat and the terrifying uncertainty of what his own body would do next.
 
-### Scene 2: The Long Walk Home
+***
 
-**Date:** 2007-03-07 at 09:15 America/New_York
+#### 9:15 AM • Jack Bennett — The Long Walk Home
 
 The front desk clerk at the gleaming Windsor Woods counter looked up, her professional smile faltering as she saw **Jack's** sudden distress. "Is everything alright over there?" she called out, her voice full of genuine concern. "Do you need any assistance?".
 
@@ -4568,9 +4638,9 @@ A friendly receptionist's voice filled the room. "Dr. Miller's office, this is L
 
 Jack took a shaky breath, his voice weak but clear. "Hi, Linda," he said. "This is Jack Bennett. I'm... I'm having a really severe flare-up of my CMT. I need to make an appointment to see the doctor as soon as possible."
 
-### Scene 3: The Sister-Shield
+***
 
-**Date:** 2007-03-07 at 09:30 America/New_York
+#### 9:30 AM • Clare Bennett — The Sister-Shield
 
 The house was quiet for a long time after the call. **Jack**, utterly spent from the physical and emotional ordeal, dozed fitfully, his head still resting in **Clare's** lap on the sofa. **Grandpa Sam** sat in his armchair, the grim, worried look never leaving his face.
 
@@ -4584,9 +4654,9 @@ Molly's face was a mask of deep, empathetic pain. She looked down at her cousin,
 
 Gently, carefully, the two twins began to shift. They slid Jack's legs, mindful of his sternal precautions, until he was lying across both of their laps, his head now resting on Molly's thigh, his feet on Clare's. It was a silent, powerful gesture. They were sharing the burden, creating a broader, more stable foundation of support for him. They were a shield, a wall, and in that moment, they were letting him know, even in his sleep, that they would carry him through this new, frightening chapter of his life, together.
 
-### Scene 4: A New Kind of Housebound
+***
 
-**Date:** 2007-03-07 at 21:00 America/New_York
+#### 9:00 PM • Jack Bennett — A New Kind of Housebound
 
 The days following the disastrous walk at Windsor Woods were a blur of quiet, difficult adjustments. The severe flare-up of **Jack's** Charcot-Marie-Tooth disease did not subside. His right foot remained a useless, heavy appendage, and the weakness in his legs was profound. The walker now sat untouched in a corner; it was no longer enough.
 
@@ -4630,9 +4700,11 @@ Jack looked at the nurse, then at his sister, and felt a fragile sliver of hope.
 
 ## A Quiet Refusal
 
-### Scene 1: A Delayed Rejection
+### A Delayed Rejection & The Midnight Showing
 
 **Date:** 2007-03-30 at 14:00 America/New_York
+
+#### 2:00 PM — A Delayed Rejection
 
 **Jack** listened as **Emily**, the kind patron from his high school days, finished her question.
 
@@ -4658,9 +4730,9 @@ Emily, a kind and perceptive person, took in the scene: Jack's obvious relief an
 
 And with that, she turned and walked away, leaving no drama, no guilt, no resentment in her wake, but leaving the door to a future date wide open. Jack watched her go, a profound, shuddering wave of relief washing over him, but it was now mixed with a fresh wave of anxiety. He had escaped the immediate moment, but he hadn't solved the problem. He looked over at Sarah, who was watching him with a slightly puzzled but supportive look, and felt an immense wave of love and gratitude. She had, without even knowing it, been his temporary shield once again.
 
-### Scene 2: A Protector's Concern
+***
 
-**Date:** 2007-03-30 at 15:00 America/New_York
+#### 3:00 PM — A Protector's Concern
 
 The first-floor break room at Fairlawn was a quiet, familiar sanctuary. **Jack** and **Sarah** sat at one of the small, round tables, their packed lunches spread out before them. Jack, still buzzing with a mixture of relief and residual anxiety, poked at his sandwich without really seeing it. He had escaped the immediate, terrifying social trap, but he knew the problem hadn't been solved.
 
@@ -4690,9 +4762,9 @@ The reference to their beloved movie, to the hero's difficult but ultimately tri
 
 Jack looked at his sister, a small, genuine smile finally breaking through his anxiety. She gave him a nod. "Now eat your sandwich. You've had a rough day."
 
-### Scene 3: The Midnight Showing
+***
 
-**Date:** 2007-03-30 at 19:00 America/New_York
+#### 7:00 PM — The Midnight Showing
 
 The lobby of the movie theater on the evening of **March 30th, 2007**, was not packed, but it was buzzing with a palpable, electric energy. This wasn't a crowd for a normal blockbuster; this was a gathering of the faithful. It was the midnight premiere of the 20th-anniversary re-release of **"The Silver Gauntlet of Aethel,"** and only the most dedicated fans were in attendance.
 

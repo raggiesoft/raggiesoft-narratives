@@ -6,7 +6,9 @@ title: "Paige"
 
 ## Band Camp
 
-### Scene 1: The Downbeat
+### Part 1: The Downbeat & Rocket Burger
+
+#### The Downbeat
 
 The red numbers on the digital alarm clock flipped from 6:59 to 7:00 AM, accompanied by the harsh, electronic buzz of the radio springing to life. It wasn't music; it was a static-filled Morning Zoo commercial for a local car dealership, shouting about low financing rates.
 
@@ -28,7 +30,9 @@ Freddie sat up, his legs heavy. His cerebral palsy—spastic diplegia, though he
 
 "Yes," Paige said, tossing a pair of gym shorts at him. "We’re in the Pit. We don't have to march. We just have to hit things with other things. It’ll be fine."
 
-### Scene 2: Breakfast
+***
+
+#### Breakfast
 
 Downstairs, the kitchen was already a hub of controlled activity. A small CRT television sat on the counter, humming with the local news, the weather map a pixelated blur of yellow and orange indicating another humid Virginia Beach day.
 
@@ -54,7 +58,9 @@ It bothered him. It felt like walking into a battle without their general. Jessi
 
 "It'll be okay," Paige said, sensing the spike in his anxiety. She nudged his knee with hers under the table. "It's just us and the drummers. Less people. Less noise."
 
-### Scene 3: The Section Leader
+***
+
+#### The Section Leader
 
 Paige was wrong. There were not *less* people. Or rather, there were fewer people than the full band, but the people who were there were the loudest human beings Freddie had ever encountered.
 
@@ -114,7 +120,9 @@ Paige leaned in, pretending to adjust a mallet bag on the floor next to him.
 
 "Let her," Paige whispered back, her voice fierce. "You have the chair. That's all that matters."
 
-### Scene 4: Texture
+***
+
+#### Texture
 
 When Heidi returned five minutes later, she looked chastened. She didn't look at Freddie. She walked stiffly to the vibes, clapped her hands twice, and yelled, "Okay! Warm-ups! Let's go!"
 
@@ -150,7 +158,9 @@ Freddie smiled. It was the first time that morning his smile reached his eyes. H
 
 "Yeah," Freddie said, gripping the mallets. "I can build this."
 
-### Scene 5: The File
+***
+
+#### The File
 
 By noon, the humidity had breached the band room walls, making the air thick and heavy, but Freddie was still sitting upright.
 
@@ -186,7 +196,9 @@ Paige appeared at Freddie’s elbow, handing him his lunch bag. "See? Mom and Da
 
 "A tree sounds good," Freddie agreed. He looked back at the drafting chair one last time—his fortress in the middle of the battlefield—and followed his sister out into the sun.
 
-### Scene 6: Rocket Burger
+***
+
+#### Rocket Burger
 
 The tree Paige had found offered shade, but it didn't stop the humidity. The air was a wet blanket, heavy with the drone of cicadas and the distant rattle of snare drums. Freddie sat at the base of the oak, legs stretched out to prevent cramping, while Paige unpacked a sandwich.
 
@@ -236,7 +248,9 @@ Freddie looked at Paige, who was quietly eating her cheeseburger, content to let
 
 "I can do that," Freddie said, taking a bite of his burger. The "Spoons" were returning to his body with every calorie. "As long as I have my chair, she can yell all she wants."
 
-### Scene 7: The Connection
+### Part 2: The Connection & The Table
+
+#### The Connection
 
 The air conditioning of the family van was a sanctuary they were reluctant to leave, but the digital clock on the dashboard read 12:55 PM.
 
@@ -294,7 +308,9 @@ Freddie took a breath, feeling the tension in his shoulders dissolve. The social
 
 Freddie hit the first note of the exercise. It rang out clear and true. He was safe.
 
-### Scene 8: The Overwatch
+***
+
+#### The Overwatch
 
 When the door to Mr. Panoff's office opened, Freddie expected Jessica to walk straight out of the band room and toward the parking lot to wait for their mother. The air conditioning in the office was fierce, and the band room was rapidly becoming a sauna of teenage sweat and humidity.
 
@@ -324,7 +340,9 @@ He looked at Jessica again. She wasn't even looking at them; she was completely 
 
 The afternoon, which had loomed ahead of them like an endurance test, suddenly felt manageable. They weren't just surviving the day; thanks to the girl in the corner with the paperback book, they were actually going to learn the music.
 
-### Scene 9: The All Clear
+***
+
+#### The All Clear
 
 "Band! Detail, ten-hut!"
 
@@ -388,7 +406,9 @@ Jessica smirked, looking out the window at the passing cars. "Of course she didn
 
 Freddie closed his eyes, listening to Elara explain the concept of a 'green light' to a silent Amanda in the back row. The architecture of the family was complex, noisy, and crowded, but it held up. It was the only structure that truly worked.
 
-### Scene 10: The Table
+***
+
+#### The Table
 
 Gus's Grille was a sensory experience that Freddie usually found challenging, but tonight, it felt like a victory lap. The restaurant was a long, narrow establishment with black-and-white checkered floors and red vinyl booths that squeaked when you sat on them. It smelled of frying oil, coffee, and lemon polish.
 
@@ -436,7 +456,9 @@ Paige heard him. She bumped his shoulder with hers. "I know you can. We're just 
 
 ## The Fall
 
-### Scene 1: Third Quarter
+### Third Quarter & The Signal
+
+#### Third Quarter
 
 Friday nights in Virginia Beach were a religion, and the Northwood High School football stadium was the cathedral. The air smelled of popcorn, diesel fumes from the buses, and the ozone of impending rain.
 
@@ -560,7 +582,9 @@ Paige turned back to Freddie, ignoring the crowd, and wrapped him in the hug Jas
 
 "He's history," Paige promised.
 
-### Scene 2: The Signal
+***
+
+#### The Signal
 
 The crowd at the concession stand flowed around them like a river around a rock, but the space where Jason had stood felt strangely empty.
 
@@ -612,7 +636,9 @@ For the first time in high school, the signal was stronger than the noise.
 
 ## Winter 2000
 
-### Scene 1: The Visitor
+### Part 1: The Visitor & The Clinic
+
+#### The Visitor
 
 Christmas Day in the Avery household was less of a holiday and more of a logistical event. With eight children, the living room floor was a sea of torn wrapping paper, cardboard boxes, and tangled ribbons.
 
@@ -708,7 +734,9 @@ Courtney squeezed his hand—a quick, secret signal like they had in the movie t
 
 He watched her walk back to her car, waving until she turned the corner. He stood in the doorway for a long time, clutching the pens, thinking about the roll of film sitting on the kitchen counter. He couldn't wait to see it. He couldn't wait to see the proof that, for one Christmas, he wasn't just the boy in the chair or the kid in the Pit—he was the boy with his arm around the girl.
 
-### Scene 2: The Confrontation
+***
+
+#### The Confrontation
 
 The first week back after Winter Break always felt like a reboot. The school smelled of damp wool coats and cleaning fluid. Outside, the Virginia sky was a flat, miserable gray, leaking a freezing rain that turned the sidewalks into slush.
 
@@ -782,7 +810,9 @@ She reached out and wrapped her arms around him. It wasn't a gentle hug; it was 
 
 "I've got you," Paige said, her voice fierce and trembling into his ear. She pressed her cheek against the top of his head, squeezing harder, providing the deep pressure he needed to survive the crash. "I'm right here. I'm not letting go."
 
-### Scene 3: The Clinic
+***
+
+#### The Clinic
 
 The bell for fourth period lunch rang, a jarring electronic shriek that signaled the migration of two thousand students toward the cafeteria. The hallway, momentarily empty during class, was about to become a stampede.
 
@@ -850,7 +880,7 @@ Mrs. Gable brought a small paper cup with water and his mid-day muscle relaxer. 
 
 Freddie closed his eyes. The medicine would kick in soon, loosening the knots in his legs. But the confusion remained—a cold, heavy weight in his chest. He didn't know what he was accused of, only that he had been convicted.
 
-### Scene 4: The Law of the Lunchroom
+### Part 2: The Law of the Lunchroom
 
 The journey from the clinic to the cafeteria was a slow, agonizing shuffle. The muscle relaxer Mrs. Gable had administered was beginning to soften the edges of the spasms, but Freddie’s legs were still heavy, unresponsive columns of lead.
 
@@ -950,7 +980,9 @@ Jessica and Paige hoisted Freddie up again. As they walked toward the quiet tabl
 
 ## The Static
 
-### Scene 1: The First Satellite
+### The First Satellite & The Dinner Table
+
+#### The First Satellite
 
 The ride home in the family van had been a blur of grey noise. Freddie sat in the back, staring at the floor mats, his hands clamped over his ears even though the radio was off. The words Josh Riley had shouted in the cafeteria—I told her exactly what he was up to—were looping in his head like a corrupted audio file.
 
@@ -1050,7 +1082,9 @@ Freddie closed his eyes again. The static of the cafeteria was still there, but 
 
 "Better," Freddie breathed. "Status is... better."
 
-### Scene 2: The Inside Man
+***
+
+#### The Inside Man
 
 Freddie held Harper for another minute, letting the heat of her small body soak into his chest. It was a good weight. It was a simple weight. The pressure on his sternum was actually helping to regulate his breathing, slowing the frantic thump-thump-thump of his heart.
 
@@ -1198,7 +1232,9 @@ If he went to his room, he would be alone. He would be hiding. And if he hid, it
 
 They walked out of the bathroom together, heading not for the shadows, but for the kitchen, ready to face the noise of the family dinner.
 
-### Scene 3: The Dinner Table
+***
+
+#### The Dinner Table
 
 The transition from the quiet, emotional triage of the bathroom to the kitchen was like stepping out of a submarine and into a riot.
 
@@ -1292,7 +1328,9 @@ And for tonight, that was enough.
 
 ## The Cracks
 
-### Scene 1: Static
+### Part 1: Static & The Route
+
+#### Static
 
 The summer heat in Virginia Beach was usually a physical weight, a wet blanket of humidity that smelled of asphalt and salt. But inside the Avery house, the air felt heavy for a different reason.
 
@@ -1380,7 +1418,9 @@ Freddie leaned into her touch, the tension in his spine dissolving. The house do
 
 "Yes," Freddie said. "That is the plan."
 
-### Scene 2: The Escape Vehicle
+***
+
+#### The Escape Vehicle
 
 The calendar on the kitchen wall read **June 19, 2001**. It was a Tuesday, and the humidity outside was pushing ninety percent.
 
@@ -1456,7 +1496,9 @@ Paige looked at Freddie over the roof of the car. She smiled, a tired but genuin
 
 "Let's go get some pretzels," Paige said, locking the car. "Before Jenna vibrates into another dimension."
 
-### Scene 3: The Route
+***
+
+#### The Route
 
 The beige sedan sat vibrating in the driveway of 1852 Delaney Street. The engine idle was rough, shaking the dashboard slightly and making Freddie’s teeth chatter if he didn't clench them.
 
@@ -1538,7 +1580,9 @@ Freddie looked up at the Food Court tower. The dark glass reflected the grey clo
 
 They walked toward the double doors, the "Avery Corporation" moving from the stifling heat of the parking lot into the cool, conditioned promise of the mall.
 
-### Scene 4: The Sugar Rush
+### Part 2: The Sugar Rush & The Closet
+
+#### The Sugar Rush
 
 The elevator doors slid open with a cheerful *ding*, and the noise hit them like a physical wave.
 
@@ -1612,7 +1656,9 @@ Freddie looked out at the chaotic room—the teenagers flirting near the pizza p
 
 "The claw machine," Sarah reminded them, wiping her hands on a napkin. "I have calculated the grip strength. Today is the day we win."
 
-### Scene 5: The Calculation
+***
+
+#### The Calculation
 
 The arcade at Emerald Creek Mall was named **The Starcade**. It was located just past the food court restrooms, a dark cave illuminated by the flashing CRTs of attract screens and the neon glow of Lane-Master lanes.
 
@@ -1684,7 +1730,9 @@ For a moment, the tension of the house, the "spiky air" of their parents' marria
 
 "Good," Paige smiled. "Burn the rest of the tokens. Then we ride."
 
-### Scene 6: The Collapse
+***
+
+#### The Collapse
 
 The high of the Starcade lasted exactly until the front door of 1852 Delaney Street clicked shut behind them.
 
@@ -1774,7 +1822,9 @@ She lay there in the dark, holding her brother, listening to his ragged breathin
 
 The Blueprint wasn't just a dream anymore. It was a necessity. They had to get out.
 
-### Scene 7: The Closet
+***
+
+#### The Closet
 
 The trigger wasn't a slammed door this time. It was the sound of paper hitting the kitchen table—a sharp *thwack* that echoed up the ventilation shafts like a gunshot.
 
@@ -1876,7 +1926,7 @@ Paige looked at him—at the fear still lingering in his posture—and then she 
 
 ## The Severance
 
-### Scene 1: The Sofa
+### The Sofa
 
 The announcement hadn't been a scream. It hadn't been a dramatic fight with broken plates. It had been a conversation at the dinner table, delivered with the cold, sterile efficiency of a legal deposition.
 
@@ -1974,7 +2024,9 @@ Outside in the den, the TV flickered on the face of a man who realized, far too 
 
 ## The Iron City
 
-### Scene 1: The Transfer Point
+### The Transfer Point & The Configuration
+
+#### The Transfer Point
 
 The silence inside the silver sedan was heavier than the Blue Ridge Mountains rising in the distance.
 
@@ -2014,7 +2066,9 @@ He didn't know why, but the name stuck in his head. *Fishersville.* It sounded q
 
 Ellen took the ramp onto Route 250, merging onto Richmond Avenue. The landscape here was a mix of historic charm and highway commerce. Ellen navigated the traffic, passing fast-food chains and car dealerships until the massive, glowing sign appeared on the left: **ZANE’S MARKET**.
 
-### Scene 2: The Red Booth
+***
+
+#### The Red Booth
 
 The Zane's at 1250 Richmond Avenue was a beast of a building. It wasn't just a gas station; it was a brightly lit fortress of neon red and yellow, bustling with truckers, weary travelers, and college students heading south to Blacksburg or north to Harrisonburg.
 
@@ -2090,7 +2144,9 @@ She cranked the volume. It wasn't soft rock. It was loud, driving alternative ro
 
 As they merged onto I-81 South, leaving Zane's Market behind, Freddie watched the neon sign fade in the mirror. He didn't know it yet, but he had just crossed the border into the most important forty-eight hours of his life.
 
-### Scene 3: The Detour
+***
+
+#### The Detour
 
 **Friday, October 25, 2002**
 
@@ -2140,7 +2196,9 @@ They slid onto the interstate. The highway was empty. In the northbound lanes to
 
 "Clear skies," Jessica smirked, shifting into Fifth gear. "That is how you beat the system."
 
-### Scene 4: Pepper Plaza
+***
+
+#### Pepper Plaza
 
 The rest of the drive was a blur of darkness and trucks. Jessica navigated the "chute" of I-81 with aggressive competence, darting between massive 18-wheelers that swayed in the wind.
 
@@ -2172,7 +2230,9 @@ A third bus sat nearby, displaying **3 RADFORD**.
 
 She pulled the Avalon into a parking lot just a block away from the plaza. It was a brick apartment building that looked like it had been built in the 70s—solid, unpretentious, and quiet.
 
-### Scene 5: The Configuration
+***
+
+#### The Configuration
 
 "Second floor," Jessica said, grabbing her bag. "Apartment 2B."
 
@@ -2238,7 +2298,9 @@ Freddie felt his shoulders drop three inches. The "Architecture" here was differ
 
 ## The Machine
 
-### Scene 1: Route 1
+### Part 1: Route 1 & The Foundry
+
+#### Route 1
 
 "Rise and shine, recruits. Boots on the ground in twenty."
 
@@ -2317,7 +2379,9 @@ The automated voice chimed again.
 
 Ahead of them, the stone towers of the university rose up against the mountains. The Machine was waiting.
 
-### Scene 2: The Acoustic Engine
+***
+
+#### The Acoustic Engine
 
 The bus hissed to a halt along **Commonwealth Mall**.
 
@@ -2385,7 +2449,9 @@ Freddie watched as Cassidy stood up and walked over to her brother. She didn't l
 
 Freddie walked toward the bagels, but he kept glancing back at the stage. For the first time, the idea of being "different" at this school didn't feel like a fatal error. If the "Engine" could run on wheels, maybe Freddie could run on a different operating system too.
 
-### Scene 3: The Pitch
+***
+
+#### The Pitch
 
 "Intel first, then fuel," Jessica instructed, steering them away from the bagel table for a moment. "We need the packet."
 
@@ -2460,7 +2526,9 @@ The applause was louder this time. The lights came up.
 
 "Prepare yourself," Jessica grinned. "You're about to see the servers."
 
-### Scene 4: The Terminal
+***
+
+#### The Terminal
 
 The Computer Sciences building, **Kelvin Hall**, was different from the rest of the campus. It didn't smell like old limestone or floor wax. It smelled of ozone, heated plastic, and coffee.
 
@@ -2546,7 +2614,9 @@ As they walked out of Kelvin Hall back into the bright sunlight, Freddie felt in
 
 "Affirmative," Freddie said, pulling out his tape measure. "Precision is key."
 
-### Scene 5: The Foundry
+***
+
+#### The Foundry
 
 The main dining hall at CPI was a massive, rotunda-style building known as **The Foundry**.
 
@@ -2596,7 +2666,9 @@ He finished his pasta with renewed purpose. He wasn't afraid of the Housing Dire
 
 They cleared their trays on the loud conveyor belt—*clack-clack-clack*—and walked out into the sunshine, heading toward the auditorium to sign the paperwork that Freddie believed would save his life.
 
-### Scene 6: The Old Lady on the Hill
+### Part 2: The Old Lady on the Hill & The Iron Sea
+
+#### The Old Lady on the Hill
 
 They arrived at **Bennett Hall**.
 
@@ -2772,7 +2844,9 @@ Freddie looked at her. The static in his head was still deafening, but her voice
 
 "A loophole," Freddie repeated, closing his eyes. "I need a loophole."
 
-### Scene 7: The Reset
+***
+
+#### The Reset
 
 The bench was made of rough-hewn wood and cold iron, sitting on the edge of a grassy overlook near Bennett Hall—*The Old Lady on the Hill*. From here, the campus spread out below them like a circuit board—the sweeping oval of **Commonwealth Green**, the stone towers of the academic buildings, and in the distance, the massive concrete bowl of **The Crucible**.
 
@@ -2848,7 +2922,9 @@ She helped him stand up. He was shaky, his legs feeling like lead, but once he w
 
 They walked down the hill, away from Bennett Hall and its impossible rules, moving toward the dark, looming shape of the stadium where Freddie hoped he could drown out the rejection in sixty thousand decibels of rhythm.
 
-### Scene 8: The Iron Sea
+***
+
+#### The Iron Sea
 
 The sun had dipped below the mountains, turning the sky into a bruised purple, but the campus was brighter than noon.
 
@@ -2964,7 +3040,9 @@ Freddie nodded, checking his earplugs one last time. He looked at the clock tick
 
 "I am ready," Freddie whispered. "Initialize the sequence."
 
-### Scene 9: The Forger's Call
+### Part 3: The Forger's Call & The Shutout
+
+#### The Forger's Call
 
 The countdown clock on the scoreboard hit **00:00**.
 
@@ -3070,7 +3148,9 @@ Freddie looked at the field. He looked at the anvil on the screen. He looked at 
 
 "I am online!" Freddie shouted. "The system is online!"
 
-### Scene 10: The False Start
+***
+
+#### The False Start
 
 The first fifteen minutes of the game were not a sporting event. They were an execution of physics.
 
@@ -3133,7 +3213,9 @@ As the quarter ended, the scoreboard told a story that the sports analysts on TS
 
 "You're damn right it is," Jessica grinned, wiping sweat from her forehead despite the freezing temperatures. "Welcome to the Iron City, Renegades. We're just getting warmed up."
 
-### Scene 11: System Overload
+***
+
+#### System Overload
 
 The temperature in the valley dropped to 38 degrees, but inside **The Crucible**, the heat was rising.
 
@@ -3216,7 +3298,9 @@ The scoreboard glowed with the impossible numbers. The number four team in the n
 
 "You got that right," Jessica said, putting an arm around his shoulder. "Now, stay close. Halftime means the marching band. And we have the best damn band in the land."
 
-### Scene 12: The Human Grid
+***
+
+#### The Human Grid
 
 The football teams jogged off the field, leaving the green turf empty. But the stadium didn't empty out. In The Crucible, nobody leaves at halftime.
 
@@ -3311,7 +3395,9 @@ He felt like he belonged in the Iron City.
 
 "That," Freddie decided, adjusting his glasses, "was the optimal halftime entertainment."
 
-### Scene 13: Zero Tolerance
+***
+
+#### Zero Tolerance
 
 The halftime break didn't reset the game. It just let the concrete freeze harder.
 
@@ -3383,7 +3469,9 @@ Freddie looked at the scoreboard. 27 to 0.
 
 "That's exactly right, Freddie," Jessica beamed, putting her arm around him. "They forgot to factor in the Ironheads. One more quarter. Let's finish them."
 
-### Scene 14: The Shutout
+***
+
+#### The Shutout
 
 The fourth quarter wasn't a contest. It was a coronation.
 
@@ -3475,7 +3563,7 @@ The logic held up. The "Machine" worked. If you built a strong enough structure�
 
 "Yeah," Paige said, leaning her head on his shoulder. "We're pretty tough."
 
-### Scene 15: The Shuttle
+### Part 4: The Shuttle
 
 The game was over, but the logistics were just beginning.
 
@@ -3607,7 +3695,9 @@ Freddie Avery closed his eyes, anchored and safe, and drifted into the deep, dre
 
 ## The Source Code
 
-### Scene 1: The Diagnosis
+### The Diagnosis & The Protocol Upgrade
+
+#### The Diagnosis
 
 The morning sun filtered through the blinds of the Christiansburg apartment, casting slats of dust-mote light across the living room. It was quiet. The roaring static of the stadium, the pounding rhythm of the stomp, and the screaming meltdown of the afternoon were all distant memories.
 
@@ -3753,7 +3843,9 @@ Jessica laughed, wiping her eyes. "Pancakes. The protocol is pancakes."
 
 "Excellent," Freddie said, standing up. "Let us proceed."
 
-### Scene 2: The Firewall
+***
+
+#### The Firewall
 
 The peaceful Sunday morning atmosphere—pancakes, syrup, and the quiet humming of the computer tower—was shattered by three heavy, authoritative knocks on the front door.
 
@@ -3878,7 +3970,9 @@ She hugged Paige hard. Then she stood in front of Freddie.
 
 She watched them climb into their mother’s station wagon. As they pulled away, heading east toward Norfolk and the silence of their father's house, Jessica didn't wave. She stood under the glowing red sign of Zane's Market, watching them go, already planning the architecture of their escape in June.
 
-### Scene 3: The Protocol Upgrade
+***
+
+#### The Protocol Upgrade
 
 The lunch rush at Zane's Market was winding down. The red vinyl booths were emptying out as travelers got back on the road, heading toward their respective destinations. At the Avery table, the tray of fries was gone. The sodas were empty. It was time for the transfer.
 
@@ -3924,7 +4018,9 @@ The station wagon sped down I-64, carrying the Avery unit back to the coast, rea
 
 ## The Launch Code
 
-### Scene 1: The Loop
+### The Loop & The Base
+
+#### The Loop
 
 The Atlantic Dome was a massive, concrete tortoise shell sitting just blocks away from the Virginia Beach oceanfront. Usually, it hosted boat shows or monster truck rallies. Today, it was hosting the Northwood High School Class of 2003.
 
@@ -4069,7 +4165,9 @@ They pushed through the double doors.
 
 They burst out of the Atlantic Dome and into the blinding sunlight of the parking lot.
 
-### Scene 2: The Frequency
+***
+
+#### The Frequency
 
 The ceremony ended. The Atlantic Dome disgorged the graduates into the blinding June sunlight of the parking lot. The air was hot—90 degrees and heavy with salt spray. Freddie stripped off his cap immediately, throwing it on the ground. "Air," he gasped, loosening the gown. "Too hot. System overheating." "We're done," Paige said, grabbing his arm to steady him. "We did it. We're free."
 
@@ -4115,7 +4213,9 @@ She helped him stand. He stumbled, dead weight, but they shoved him into the bac
 
 Jessica slammed the car into gear. The Avalon peeled out of the parking lot, leaving the Atlantic Dome, the father, and the looping nightmare of *Pomp and Circumstance* behind in the dust. They hit the highway. West. Toward the mountains. Toward the Dollar Contract. Toward home.
 
-### Scene 3: The Base
+***
+
+#### The Base
 
 The silver Avalon pulled away from the highway and turned down a quiet residential street in Christiansburg. It was a different world from the humid, crowded sprawl of Virginia Beach. Here, the air was thin and smelled of pine needles. The Blue Ridge Mountains stood silent in the distance, a fortress wall protecting the valley.
 
@@ -4154,7 +4254,9 @@ Freddie looked around the room. No parents fighting downstairs. No Robert trying
 
 ## The Source Code
 
-### Scene 1: The Manual
+### Part 1: The Manual & The Curriculum
+
+#### The Manual
 
 The morning sun hit the Blue Ridge Mountains, filtering through the sliding glass door of **105 Pepper Street**. The house smelled of coffee and the cinnamon rolls Jessica had pulled from a tube. It was quiet. Not the tense, waiting-for-a-fight quiet of Delaney Street, but a settled, structural silence. Ellen had left an hour ago, driving the **Holt Meridian** back to the coast to study for her Monday exams. She had hugged them tight, left a check on the counter for "emergency pizza," and driven away, leaving the three siblings alone in their new fortress.
 
@@ -4202,7 +4304,9 @@ Freddie looked around the kitchen. He looked at the soft morning light filtering
 
 "Better?" Jessica asked. "Latency reduced," Freddie confirmed. "Processor speed increasing." "Good," Jessica smiled, opening the binder to a fresh page. "Let's write the code."
 
-### Scene 2: The Calibration
+***
+
+#### The Calibration
 
 Freddie kept his finger on the highlighted section of the binder: Deep Pressure Therapy. He read the clinical definition again. Use of firm, heavy pressure to calm the sensory system. He looked at the bullet points about weighted blankets, compression vests, and "holding."
 
@@ -4238,7 +4342,9 @@ He closed his eyes again, focusing on the sensation of the moment. He felt Paige
 
 "I like this," Freddie whispered, his voice steadying. "I like the weight." "I know," Paige whispered back, squeezing him one more time, locking him into the safety of the Iron City. "I’ve got you."
 
-### Scene 3: The Curriculum
+***
+
+#### The Curriculum
 
 The living room of **105 Pepper Street** was quiet, save for the low hum of the window AC unit and the faint sound of a diesel bus engine idling across the street at **Pepper Plaza**. On the beige sofa, the "Deep Pressure Therapy" session was reaching its natural conclusion. Freddie lay still, breathing deeply. The weight of Paige lying on top of him was no longer just a medical intervention; it was a physical confirmation of his new reality. She was heavy, warm, and present. She was compressing his frayed nerves back into a cohesive cable. He wasn't just tolerating the pressure; he was enjoying the hug for what it was. A deep, trusting, silent connection.
 
@@ -4270,7 +4376,9 @@ Freddie leaned back into the sofa, feeling the warmth of his sisters on both sid
 
 "This is efficient," Freddie said, closing his eyes. "I like The Base." "We know, Navigator," Paige whispered, resting her head on his shoulder. "We know."
 
-### Scene 4: The Open Door
+### Part 2: The Open Door & The Morning After
+
+#### The Open Door
 
 The living room was dim, lit only by the soft glow of a floor lamp. Outside the sliding glass door, the mountains were invisible against the black sky. On the beige sofa, the "Deep Pressure" session had been running for over an hour. Freddie lay still, his breathing slow and heavy, synced with Paige’s. Paige shifted her weight. She was tired. The long day of moving in, the emotional weight of the "Manual" review, and the constant regulation of her brother had drained her battery. "Okay," Paige whispered into the quiet room. "I need to shower before bed. I'll be right back."
 
@@ -4329,7 +4437,9 @@ Freddie felt the weight of them pressing him down into the mattress, anchoring h
 
 He closed his eyes. The static was gone. The loop was broken. For the first time in his life, he wasn't just sleeping. He was being held.
 
-### Scene 5: The Morning After
+***
+
+#### The Morning After
 
 The morning sun hit the mountains, reflecting off the peaks and finding a gap in the blackout curtains of **105 Pepper Street**. The beam of light hit Freddie’s eyes. He woke up. For a microsecond, the data processing was slow. Warmth. Weight. Safety. Then, the visual sensors came online. He looked to his left. Jessica was asleep, her arm thrown over her eyes. She was naked. He looked to his right. Paige was asleep, her cheek pressed against his shoulder. She was naked. He looked down at himself. He was naked.
 
@@ -4382,7 +4492,9 @@ Freddie dropped his fork. It clattered onto the plate. He grabbed his notepad an
 
 Freddie looked out the window. He couldn't speak, but his leg started bouncing under the table—not a nervous bounce, but an eager one. The "Comic Book" variable was acceptable, but Vintage Code? That was superior. That was pure logic encased in grey plastic. He took a deep breath. **Status: Online.**
 
-### Scene 6: The Cartridge Exchange
+### Part 3: The Cartridge Exchange & Channel 3
+
+#### The Cartridge Exchange
 
 The bell above the door chimed as they walked into **The Cartridge Exchange**. The air inside was cool and smelled of ozone, old cardboard, and heated plastic—a scent Freddie associated with pure happiness. The walls were lined with shelves: to the left were the modern discs for current consoles, but to the right was the "Retro Zone," where bins and shelves overflowed with grey and black cartridges.
 
@@ -4436,7 +4548,9 @@ Paige laughed. "In your dreams, Jess. I'm a sniper."
 
 They walked out into the sunshine of Blacksburg, ready to wire up the Iron City.
 
-### Scene 7: Channel 3
+***
+
+#### Channel 3
 
 Back at **105 Pepper Street**, the energy was electric. Jessica unpacked the groceries while Freddie and Paige engaged the "Entertainment Protocol" in the living room. The **MagnaView** TV sat on its low wooden stand, a heavy silver monolith waiting to be awakened.
 
@@ -4490,7 +4604,9 @@ The **King Bed** offered 76 inches of width—enough for them to sleep without t
 
 ## The Syllabus
 
-### Scene 1: The Loophole
+### Part 1: The Loophole & The Medical Logistics
+
+#### The Loophole
 
 The morning sun filtered through the blinds of 105 Pepper Street, slicing the living room into strips of light and shadow. The air conditioner hummed a steady, white-noise drone that kept the humid Virginia summer at bay.
 
@@ -4548,7 +4664,9 @@ She checked her watch. "The Campus Bookstore is open today for the summer intake
 
 "Okay," Freddie said. He took a long drink of chocolate milk, coating his raw throat. "Let's... execute."
 
-### Scene 2: The Run
+***
+
+#### The Run
 
 The silver **Horizon Avalon** sat in the driveway of 105 Pepper Street, reflecting the mid-morning sun. It was a rare beast for a sedan of its size—a V6 engine paired with a 5-speed manual transmission. "I will drive," Paige said, snagging the keys from the hook by the door. "I need the practice on the hills. If I can drive in Blacksburg, I can drive anywhere."
 
@@ -4660,7 +4778,9 @@ The receptionist stamped the form. **FILED**. "They are in the system, Freddie. 
 
 They walked out of the building. The sun was high and bright. "Okay," Jessica said, putting her sunglasses on. "Now we go home." Paige spun the keys on her finger. "I'm driving." Freddie touched the pamphlet in his pocket. *Dr. Aris Thorne.* He had a name. He had a plan. And now, his Admins had the keys. "Let's go," Freddie said. "The King bed is waiting."
 
-### Scene 3: The Medical Logistics
+***
+
+#### The Medical Logistics
 
 Paige navigated the Avalon smoothly down West Campus Drive, shifting from 2nd to 3rd gear with a satisfying *thunk*. "Clutch control is improving," Freddie noted from the passenger seat. "Thanks, Navigator."
 
@@ -4684,7 +4804,9 @@ Freddie looked out the window as they turned onto Pepper Street. The bus to Rine
 
 "Systems normalizing," Freddie whispered. He touched the Poly Pass in his pocket. The summer was just beginning, and they were already ahead of schedule.
 
-### Scene 4: The Schematic
+### Part 2: The Schematic & The Silo
+
+#### The Schematic
 
 The silver Avalon crunched into the gravel driveway of **105 Pepper Street**. The house was quiet, the air conditioner humming its steady, protective rhythm.
 
@@ -4718,7 +4840,9 @@ Jessica looked at Paige. Paige nodded. She didn't look scared. She looked like s
 
 **\[NARRATIVE GAP: CLINICAL OBSERVATION & INSTRUCTION\]** *Time Elapsed: 45 Minutes*
 
-### Scene 5: Data Verified
+***
+
+#### Data Verified
 
 The living room was bright again; Jessica had opened the blinds to let the afternoon sun wash over the carpet. The atmosphere in the room was calm. There was no tension. The air didn't feel heavy with secrets; it felt light, scrubbed clean of the mystery that usually plagued teenagers.
 
@@ -4746,7 +4870,9 @@ He took a bite. It tasted like ham and cheese. The world was simple again. He ch
 
 Paige leaned her head on his shoulder. "Systems go, Navigator."
 
-### Scene 6: The Clear Curtain
+***
+
+#### The Clear Curtain
 
 The sun had finally dipped below the ridge, leaving the sky a bruised purple over the Iron City. Inside **105 Pepper Street**, the lights were low, casting long shadows across the hallway.
 
@@ -4787,7 +4913,9 @@ She rinsed him off with the handheld sprayer. The warm water cascaded down his s
 
 Freddie stood up. He dried himself behind the clear curtain, watching Paige finish brushing her teeth. He wrapped the towel around his waist. He looked in the mirror. He looked clean. He looked stable. "Test successful," Freddie whispered to his reflection.
 
-### Scene 7: The Silo
+***
+
+#### The Silo
 
 The door to the Master Bedroom clicked shut. The blackout curtains were drawn, sealing the room into a protective, cool twilight. The **King Bed** dominated the space. It was a massive, 76-inch plain of maroon jersey sheets—a landscape of safety.
 
@@ -4813,7 +4941,9 @@ He let out a long, slow breath. The static in his head—the white noise of fear
 
 ## The Network
 
-### Scene 1: The Primary Node
+### The Primary Node & The Maintenance Run
+
+#### The Primary Node
 
 The silver **Horizon Avalon** idled in the driveway of 105 Pepper Street. The morning was already hot, the air shimmering above the asphalt of Pepper Plaza across the street.
 
@@ -4880,7 +5010,9 @@ He looked at the papers. They weren't just slips of paper. They were patch notes
 
 "Next week," Jessica promised. "Next week, we ride to Riner."
 
-### Scene 2: The Red Flag
+***
+
+#### The Red Flag
 
 The Silo was silent. The air conditioner hummed its steady, protective white noise. On the King Bed, the formation was holding. Freddie lay in the center, flanked by Jessica on his left and Paige on his right. The room was cool, the blackout curtains sealing them in a timeless dark.
 
@@ -4926,7 +5058,9 @@ He lay back down between them. Jessica draped her arm over him again. Paige snug
 
 Here is Part 3 of the narrative, detailing the trip to Riner and the medical appointments.
 
-### Scene 3: The Maintenance Run
+***
+
+#### The Maintenance Run
 
 The morning at **105 Pepper Street** started earlier than the alarm clock intended. Around 3:00 AM, Paige had woken up with the familiar, dull ache of cramps, signaling the start of her cycle—and the "Red Flag" status Freddie had learned to recognize. While the timing meant a groggy start to the day, it was actually serendipitous for the logistics of the morning.
 
@@ -5006,7 +5140,9 @@ They boarded, taking their seats in the cool air conditioning. As the bus wound 
 
 ## Proper Terminology
 
-### Scene 1: Ground Rules
+### Part 1: Ground Rules & The Predator
+
+#### Ground Rules
 
 The fluorescent lights of the classroom hummed, a stark contrast to the humid warmth of a Blacksburg summer afternoon outside. This was HLTH 201: Dimensions of Human Sexuality.
 
@@ -5052,7 +5188,9 @@ She tapped the stack of papers on her desk.
 
 Freddie took a syllabus as the pile passed him, handing the rest to Paige. He glanced at the course schedule. It was dense, clinical, and thorough. It was exactly what he needed to get his degree without worrying about his legs giving out on a track. He uncapped his pen. He was ready to work.
 
-### Scene 2: Zero Tolerance
+***
+
+#### Zero Tolerance
 
 Dr. Thorne moved through the syllabus with the efficiency of a surgeon. She didn’t pace; she planted herself behind the podium and let the weight of the topics settle over the room.
 
@@ -5104,7 +5242,9 @@ He glanced at Paige, offering a small, dismissive shrug. She smiled—a tiny, pr
 
 "As I was saying," Dr. Thorne continued, her voice slicing through the lingering awkwardness. "Vaginismus. Now, let’s turn to page four regarding the attendance policy..."
 
-### Scene 3: Safe Harbor
+***
+
+#### Safe Harbor
 
 The rest of the lecture blurred into a stream of biological terms and syllabus dates. Dr. Thorne didn’t let the tension linger; she buried it under a mountain of academic expectations. By the time she capped her marker and announced, "Class dismissed," the incident with the girl felt like a distant memory to everyone—except the three people in the second row.
 
@@ -5138,7 +5278,9 @@ They walked out together, a tight formation against the chaos of the hallway. Fr
 
 He was too busy holding onto the sister who made the world stop spinning.
 
-### Scene 4: The Predator
+***
+
+#### The Predator
 
 The journey from the classroom door to the building lobby was only fifty yards, but to Freddie, it felt like a forced march across a gravity-heavy planet.
 
@@ -5258,7 +5400,9 @@ Jessica watched her go, brushing a piece of lint off her Forger t-shirt. Then sh
 
 "Take ten," Jessica said, crossing her legs in her blue jeans. "We aren't going anywhere."
 
-### Scene 5: Geometry and Physics
+### Part 2: Geometry and Physics & The Safe Zone
+
+#### Geometry and Physics
 
 The lobby bench was hard wood, but to Freddie, it felt like a recharge station. He sat in the middle, eyes closed, letting his breathing sync with the steady rise and fall of Paige’s chest against his right side.
 
@@ -5370,7 +5514,9 @@ Freddie leaned back against the wall. The lobby was quiet again. The threats—t
 
 "Yeah," Paige said, squeezing him tight. "Let's go home."
 
-### Scene 6: The Safe Zone
+***
+
+#### The Safe Zone
 
 The walk to **Commonwealth Mall** was a silent march. The adrenaline from the confrontation in the lobby was fading, replaced by the heavy, humid weight of a Virginia afternoon.
 
@@ -5454,7 +5600,9 @@ Paige laughed, a real, genuine sound that chased the shadows away. "Okay. Rags i
 
 The bus hissed to a halt. The doors opened. They stepped out into the sunshine of Christiansburg, leaving the predators and the geometry behind, walking toward the safety of the Base.
 
-### Scene 7: The Incorrect Variable
+### Part 3: The Incorrect Variable & The Distortion
+
+#### The Incorrect Variable
 
 **Kincaid Hall** was the living room of the university. While the library was for silence and the labs were for code, Kincaid was for noise, food, and decompression.
 
@@ -5638,7 +5786,9 @@ She sat back down. Freddie lay back down, putting his head right back in her lap
 
 The noise of the student center continued around them, but in their little bubble on the sofa, the signal was clear. They were weird. They were different. But they were right.
 
-### Scene 8: The Distortion
+***
+
+#### The Distortion
 
 The heavy glass doors of Kincaid Hall swung shut, cutting off the cool air conditioning. Krystal stepped out into the humid heat of the afternoon, her heels clicking angrily on the concrete.
 
@@ -5767,7 +5917,9 @@ Freddie let out a long, slow breath. The static in his head cleared completely.
 
 He kept his face buried in her lap, ignoring the world, ignoring the girl outside, and focusing entirely on the perfect, stable rhythm of his sister’s breathing.
 
-### Scene 9: The Contaminant
+### Part 4: The Contaminant & The Humidity Index
+
+#### The Contaminant
 
 Jessica returned from the restrooms, her heavy boots making a confident *thud-thud* on the tile. She looked refreshed, having splashed cold water on her face to combat the summer humidity.
 
@@ -5912,7 +6064,9 @@ Freddie reached out and took Paige’s hand. He squeezed it.
 
 They finished their meal under the watchful, hungry eyes of the girl who thought she could fix him, unaware that he was already whole.
 
-### Scene 10: The Humidity Index
+***
+
+#### The Humidity Index
 
 The automatic doors of **Kincaid Hall** slid open, and the atmosphere changed instantly.
 
@@ -5998,7 +6152,9 @@ Freddie smiled. He didn't want Krystal's dorm room. He didn't want the friction.
 
 ## The Admin Console
 
-### Scene 1: The Cool Down
+### Part 1: The Cool Down & The Final Frontier
+
+#### The Cool Down
 
 The **Blue Ridge Transit** bus hissed to a halt in the sawtooth bay of **Pepper Plaza**. The doors folded open, and the Avery unit stepped out onto the concrete.
 
@@ -6100,7 +6256,9 @@ He felt clean. Not just from the soap, but from the laughter. The static was gon
 
 He was in the Base, and the perimeter was secure.
 
-### Scene 2: The Signal
+***
+
+#### The Signal
 
 The decontamination process was a staged operation. Freddie was clean, cool, and dressed in a fresh pair of soft grey lounge pants and a white undershirt.
 
@@ -6291,7 +6449,9 @@ The heat outside, the confusion of the day, the friction of the world—it all f
 
 He was in the Safe Zone. He was with the people who knew his name. And that was all he needed.
 
-### Scene 3: The Final Frontier
+***
+
+#### The Final Frontier
 
 The afternoon sun was still blazing outside, but inside **105 Pepper Street**, the blackout curtains held the line. The living room was a cool, dim sanctuary illuminated only by the glow of the MagnaView TV.
 
@@ -6420,7 +6580,9 @@ He looked at his sisters.
 
 He watched the ship streak into warp speed, a streak of light against the darkness. For a boy who spent his whole life feeling gravity hold him down, looking up at the stars felt like the first time he could truly fly.
 
-### Scene 4: The System Architecture
+### Part 2: The System Architecture & The Sandwich Configuration
+
+#### The System Architecture
 
 The double feature of *Stellar Voyage: The New Era* was halfway through its second episode. The living room at **105 Pepper Street** was pitch black, save for the cool, flickering blue light of the MagnaView screen.
 
@@ -6496,7 +6658,9 @@ Freddie stood up. He felt tired, but it was a good tired. The day had been full 
 
 "Course laid in," Freddie whispered to himself. "Engage."
 
-### Scene 5: The Sandwich Configuration
+***
+
+#### The Sandwich Configuration
 
 The credits of the sci-fi show faded, leaving the room in silence. The blue light of the TV vanished as Jessica pressed the power button, plunging the living room into total darkness.
 
@@ -6568,7 +6732,9 @@ One day ended. The next—the day he would finally get his name—was waiting in
 
 ## Autism Diagnosis
 
-### Scene 1: The Debugger
+### Part 1: The Debugger & The Thunderhead
+
+#### The Debugger
 
 The waiting room of **Dr. Arrington’s** office was located in a quiet brick building off North Main Street in Blacksburg. It felt less like a clinic and more like a professor's study, which helped lower the ambient threat level.
 
@@ -6624,7 +6790,9 @@ Freddie froze. Separation anxiety spiked. He looked at Jessica.
 
 Paige took Freddie’s hand. "Come on, Architect. Let's go see the wizard."
 
-### Scene 2: Operating Systems
+***
+
+#### Operating Systems
 
 Dr. Arrington’s office was lined with bookshelves stuffed with medical texts and psychology journals. There was a leather couch and two armchairs. On his desk sat a beige Quantum workstation with a bulky CRT monitor that hummed with a high-pitched frequency only Freddie seemed to hear.
 
@@ -6664,7 +6832,9 @@ Freddie froze. That was exactly it.
 
 "No," Dr. Arrington said firmly. "You are not broken. You are specialized hardware."
 
-### Scene 3: The King Bed Defense
+***
+
+#### The King Bed Defense
 
 Dr. Arrington picked up his notepad again. "Let's talk about regulation. How do you reboot? How do you handle the 'static'?"
 
@@ -6706,7 +6876,9 @@ Freddie let out a breath he felt like he’d been holding since childhood. *Bril
 
 "Freddie," Dr. Arrington said seriously. "If it works, you keep it. You do whatever you need to do to survive the static."
 
-### Scene 4: The Source Code
+***
+
+#### The Source Code
 
 Dr. Arrington typed on his computer for twenty minutes. The keys clacked rhythmically. Finally, the dot-matrix printer whirred to life, spitting out a sheet of crisp white paper.
 
@@ -6750,7 +6922,9 @@ Freddie pulled back and adjusted his glasses. He checked his watch.
 
 Paige laughed, hooking her arm through his. "Let's go, Architect."
 
-### Scene 5: The Uplink
+***
+
+#### The Uplink
 
 The walk from **105 Pepper Street** to the **Pepper Plaza Transit Center** took exactly three minutes. It was a diagonal line across the street, a vector Freddie had already memorized.
 
@@ -6802,7 +6976,9 @@ Freddie stood up. He adjusted his glasses. He checked his pocket one last time t
 
 "Upload sequence initiated," Freddie said. "Let's go."
 
-### Scene 6: The Thunderhead
+***
+
+#### The Thunderhead
 
 The sky over the **New River Valley** had turned a bruised, angry purple. The summer heat had broken, but it had broken violently.
 
@@ -6946,7 +7122,9 @@ Another clap of thunder shook the room. Freddie flinched, dropping the pretzel a
 
 Outside, the storm raged on. But inside the circle of the Avery Unit, the perimeter was finally, completely secure.
 
-### Scene 7: The Warning
+### Part 2: The Warning & The All Clear
+
+#### The Warning
 
 The silence in the student lounge following Jessica's explosion was brief. It was replaced not by conversation, but by a sound that triggered a primal instinct in anyone who grew up in the mountains.
 
@@ -7052,7 +7230,9 @@ They walked slowly toward the exit. Freddie didn't look for Krystal. He didn't c
 
 He just walked, flanked by his sisters, moving toward the bus stop. He was empty, drained of every ounce of energy. But he was walking. The storm had thrown everything it had at him—sex, rage, thunder, wind—and the Unit was still standing.
 
-### Scene 8: The All Clear
+***
+
+#### The All Clear
 
 The heavy glass doors of **Archer Hall** pushed open, and the Avery Unit stepped out into a changed world.
 
@@ -7112,7 +7292,9 @@ He closed his eyes. He wasn't the Captain right now. He wasn't the Architect. He
 
 ## The Prime Time Block
 
-### Scene 1: The Decompression Protocol
+### Part 1: The Decompression Protocol & The Awakening
+
+#### The Decompression Protocol
 
 The front door of **105 Pepper Street** clicked shut, and the heavy deadbolt slid home with a reassuring *thunk*.
 
@@ -7234,7 +7416,9 @@ Freddie let out a long, slow breath. The tension in his legs unspooled. The knot
 
 For the next hour, there was no Krystal. There was no tornado. There was only the bridge of the *Avalon*, the hum of the warp core, and the safety of the Avery Unit, flying through the night together.
 
-### Scene 2: The Emergency Brake
+***
+
+#### The Emergency Brake
 
 The credits for *Stellar Voyage: The New Era* rolled silently up the screen. The music had faded, replaced by the low hum of the air conditioner and the ticking of the hallway clock.
 
@@ -7322,7 +7506,9 @@ He wasn't back at Kincaid Hall. He wasn't in the storm. He was here.
 
 Safe in the sandwich configuration, held by the only two people who knew how to carry him when he couldn't walk, Freddie finally let go. The system entered Sleep Mode.
 
-### Scene 3: The Dark Closet
+***
+
+#### The Dark Closet
 
 *WHOOOOOOOOOOOOOOOOOOOOO-OOOOOOOOOOOOOOOOOOO.*
 
@@ -7378,7 +7564,9 @@ She pulled the zipper down. Her hand slid inside the hoodie, touching his chest.
 
 She leaned in, her lips inches from his—
 
-### Scene 4: The Awakening
+***
+
+#### The Awakening
 
 Freddie’s eyes flew open.
 
@@ -7476,7 +7664,9 @@ They tightened the hold. The pressure was immense. It was perfect. It pushed the
 
 Held tight in the center of the Avery Unit, Freddie finally closed his eyes. The nightmare was deleted. The system was secure.
 
-### Scene 5: The Recovery Cycle
+### Part 2: The Recovery Cycle & Manual Override
+
+#### The Recovery Cycle
 
 The morning sun pressed against the blackout curtains of the **Silo**, but inside, the darkness held.
 
@@ -7561,7 +7751,9 @@ The nightmare of the closet faded. The image of the flashlight dissolved.
 
 Here, in the light of the living room, with the taste of oats and the weight of his sister’s hand on his heart, Freddie Avery let the system go offline. He drifted into a doze, safe in the only place in the world where he didn't have to be on guard.
 
-### Scene 6: The System Halt
+***
+
+#### The System Halt
 
 The silence in the living room had stretched on for fifteen minutes. It was peaceful, but Jessica, ever the manager, felt the urge to introduce a new variable.
 
@@ -7629,7 +7821,9 @@ Paige continued the massage, her thumb working a knot out of Freddie’s shoulde
 
 The homework sat on the floor, ignored. The TV stared blankly at them. But in the quiet room, the most important work was already being done. The Unit was holding the line until the Captain could come back online.
 
-### Scene 7: Manual Override
+***
+
+#### Manual Override
 
 The stalemate in the living room broke not with a sound, but with a rumble.
 
@@ -7719,7 +7913,9 @@ Freddie adjusted his glasses. He was still drained. He was still in his sister's
 
 ## The Anatomy of Resilience
 
-### Scene 1: The Purge
+### Part 1: The Purge & The Quiet Room
+
+#### The Purge
 
 The atmosphere in **Room 204** of Archer Hall was tense. The humidity of the Virginia summer pressed against the windows, but inside, the air conditioning kept the room at a crisp, clinical temperature.
 
@@ -7805,7 +8001,9 @@ He looked around the room. The creeps were gone. The noise was gone.
 
 "Stable," Freddie whispered to himself. "The class is stable."
 
-### Scene 2: The Buffer
+***
+
+#### The Buffer
 
 The walk from Archer Hall to **Newman Library** was different today. The air was still hot, the humidity still oppressive, but the social atmosphere was lighter.
 
@@ -7902,7 +8100,9 @@ He looked at his sisters. They weren't just study partners; they were his safety
 
 They walked out of the library, leaving the stress of the assignment behind them in the digital ether, stepping back into the summer afternoon with nothing but free time ahead.
 
-### Scene 3: The Quiet Room
+***
+
+#### The Quiet Room
 
 The morning of the Midterm Exam did not begin with panic. It began with logistics.
 
@@ -8078,7 +8278,9 @@ He thought about the "Machine" of the football team, the "Engine" of the wheelch
 
 "Damn straight," Jessica said. "To the Avalon. We’re going to the top of the world."
 
-### Scene 4: The Transit & The Trail
+### Part 2: The Transit & The Trail & The Cost-Benefit Analysis
+
+#### The Transit & The Trail
 
 The celebration at the bench was brief; the heat of the day was rising, and the logistics of the next phase required execution.
 
@@ -8207,7 +8409,9 @@ They sat there for an hour, watching the cloud shadows drift across the valley�
 
 And for Freddie Avery, the view was perfect.
 
-### Scene 5: The Recharge
+***
+
+#### The Recharge
 
 The descent from **Wind Rock** was faster than the ascent, aided by gravity and the adrenaline of success.
 
@@ -8293,7 +8497,9 @@ He was tired, but he wasn't broken. The mountain had recharged him in a way the 
 
 The Avalon rolled back into the heat of the valley, carrying three explorers who had just found a new map.
 
-### Scene 6: The Drive-Thru
+***
+
+#### The Drive-Thru
 
 The silver **Horizon Avalon** merged off the highway and back onto the main drag of Christiansburg. The transition from the cool, pine-scented air of the mountain to the humid, asphalt-scented air of the valley was abrupt.
 
@@ -8345,7 +8551,9 @@ The smell of charbroiled beef and salty fries filled the cabin. It was intoxicat
 
 She pulled out of the Brawny Burger lot, turned right onto First Street, and then made the immediate left onto Pepper Street.
 
-### Scene 7: Dinner
+***
+
+#### Dinner
 
 They pulled into the driveway. The house stood waiting, white and solid.
 
@@ -8417,7 +8625,9 @@ He took another bite.
 
 They ate their Brawny Burgers in the quiet safety of the Iron City, planning their next mission while the WNRV news ticker scrolled by, knowing that whatever mountain came next, they would climb it the same way: together.
 
-### Scene 8: The Cost-Benefit Analysis
+***
+
+#### The Cost-Benefit Analysis
 
 The dining room was quiet, save for the crinkling of foil wrappers and the low hum of the television on the kitchen counter.
 
@@ -8489,7 +8699,9 @@ Here, in the dining room of 105 Pepper Street, they had burgers, they had a plan
 
 And for the Avery Unit, that was the only ride they needed.
 
-### Scene 9: The Analog Archive
+### Part 3: The Analog Archive & The Shutdown Sequence
+
+#### The Analog Archive
 
 The dining room table was cleared. The Brawny Burger wrappers were in the trash. The "Thick-Stack" fuel had done its job.
 
@@ -8603,7 +8815,9 @@ The music faded into the opening crawl, describing a civil war and a galaxy far,
 
 The Archive was secure. The Unit was online. And the Sentinels were waiting on the shelf, ready to return whenever he needed them.
 
-### Scene 10: The Captaincy Protocol
+***
+
+#### The Captaincy Protocol
 
 The credits for *The New Era* had finished, but the TV was still on. Jessica, in a moment of curiosity, hit the "Previous Channel" button on the remote.
 
@@ -8689,7 +8903,9 @@ In his mind, the debate was settled. The 1960s were noise. The *New Era* was mus
 
 "System purged," Freddie whispered, closing his eyes and enjoying the hug. "We stick to the Next Generation."
 
-### Scene 11: The Shutdown Sequence
+***
+
+#### The Shutdown Sequence
 
 The credits for the retro sci-fi show had long since faded, and the VCR hummed in the silence of the living room before Jessica clicked it off.
 
@@ -8768,7 +8984,9 @@ Held tight in the center of the bed, surrounded by the only people who knew his 
 
 ## The New Variable
 
-### Scene 1: The Remainder
+### The Remainder & The Static Stack
+
+#### The Remainder
 
 The lecture hall in **Copernicus Hall** was a vast, tiered cavern designed to hold two hundred students, but for **ASTR 101: Introduction to Astronomy**, it felt comfortably full with just over a hundred.
 
@@ -8882,7 +9100,9 @@ For the first time in a long time, a stranger had entered the perimeter, and the
 
 "Group 4 formed," Freddie noted. "Status: Complete."
 
-### Scene 2: The Static Stack
+***
+
+#### The Static Stack
 
 The transition from the academic rigor of Copernicus Hall to the social hub of **Kincaid Hall** was a sensory shift Freddie usually found jarring.
 
@@ -9012,7 +9232,9 @@ The cursor blinked. The page was blank. The server was waiting on the other end 
 
 ## The Seed
 
-### Scene 1: The Observation
+### Part 1: The Observation & The Split Screen
+
+#### The Observation
 
 The solar system project was 60% complete. The website—Project Helios—was a masterpiece of static HTML tables and hand-coded CSS.
 
@@ -9118,7 +9340,9 @@ Paige held him for a long time, rubbing his back, glaring at the top of Vanessa�
 
 But for the first time, Freddie wondered if the "closed system" was a sanctuary... or a cage.
 
-### Scene 2: The Recoil
+***
+
+#### The Recoil
 
 The silence in the corner of Newman Library was thick, heavy, and dangerous.
 
@@ -9210,7 +9434,9 @@ She had lost the skirmish. She had nearly been exiled. But she had learned a val
 
 She went back to work. She was quiet. She was helpful. She was safe. But behind her wire-rimmed glasses, she was already planning her next move.
 
-### Scene 3: The Split Screen
+***
+
+#### The Split Screen
 
 **Location:** 105 Pepper Street **Status:** Decontamination
 
@@ -9351,7 +9577,7 @@ She would wait. She would watch. And the next time a crack appeared in the Avery
 
 And then, she would freeze.
 
-### Scene 4: The Syntax Error
+### Part 2: The Syntax Error
 
 The atmosphere at the corner table in **Newman Library** was tense. The Avery Unit had deployed their defensive perimeter early.
 
@@ -9501,7 +9727,9 @@ She played the student. And the Avery Unit, lowered their shields just enough to
 
 ## The Orbital Decay
 
-### Scene 1: The Logic Bomb
+### Part 1: The Logic Bomb & The Disconnect
+
+#### The Logic Bomb
 
 The lobby of **Copernicus Hall** was buzzing with the frantic, caffeinated energy of Finals Week. Students sat on the floor surrounded by flashcards. Others paced the tile corridors muttering formulas.
 
@@ -9631,7 +9859,9 @@ But as Freddie sat there, waiting to present his perfect, static solar system, h
 
 He was thinking about the bus. He was thinking about Seattle. He was thinking that the only way to save his sisters was to disappear.
 
-### Scene 2: The Presentation
+***
+
+#### The Presentation
 
 The lights in the lecture hall were dimmed. The air hummed with the whir of the overhead projector fan and the collective anxiety of a hundred students.
 
@@ -9785,7 +10015,9 @@ But as she watched Freddie pull away from Paige, she smiled a real, genuine smil
 
 The gravity was failing. The orbit was decaying. It wouldn't be long now.
 
-### Scene 3: The Disconnect
+***
+
+#### The Disconnect
 
 The ride from CPI to **Pepper Plaza** usually took thirty minutes. Today, to Freddie, it felt like re-entry burn.
 
@@ -9964,7 +10196,9 @@ Freddie let out a small, broken sound that was lost in the roar of a diesel engi
 
 They sat in the gray smog, waiting for the ride that would take him 2,600 miles away from his anchor.
 
-### Scene 4: The Horizon Line
+### Part 2: The Horizon Line & The Point of No Return
+
+#### The Horizon Line
 
 The **Pathfinder** bus hissed, its pneumatic suspension lifting the heavy chassis off the grime of the Campbell Court pavement.
 
@@ -10171,7 +10405,9 @@ Freddie adjusted his glasses. He looked at the new bus waiting in Bay 6. It was 
 
 She led him toward the next leg of the journey, while three hundred miles behind them, the sun began to creep toward the horizon of a house that was about to wake up to a nightmare.
 
-### Scene 5: The Point of No Return
+***
+
+#### The Point of No Return
 
 The sun was rising over the **Cumberland River**, casting a sickly yellow light over the Nashville skyline.
 
@@ -10373,7 +10609,9 @@ Freddie looked at the horizon. He didn't see the mountains. He only saw the dist
 
 They got back on the bus. The door hissed shut. There was no turning back.
 
-### Scene 6: The Detour
+### Part 3: The Detour & The Silence
+
+#### The Detour
 
 The silver **Avalon** sedan tore down the left lane of Interstate 81, the engine whining as the RPMs climbed.
 
@@ -10521,7 +10759,9 @@ Freddie took the pretzel. He sat down gingerly on the hard plastic bench, forcin
 
 He was 2,000 miles from home. He was injured. And he was alone.
 
-### Scene 7: The Burning Mile
+***
+
+#### The Burning Mile
 
 The PAC 737 banked sharply, the engines whining as they began their descent into Nashville.
 
@@ -10588,7 +10828,9 @@ He closed his eyes and tried to summon the image of the King Bed on Pepper Stree
 
 *I am drifting,* Freddie thought. *The anchor is gone.*
 
-### Scene 8: The Pasco Lock
+***
+
+#### The Pasco Lock
 
 The door to the Family Restroom clicked shut. Vanessa threw the deadbolt with a sharp, metallic clack.
 
@@ -10698,7 +10940,9 @@ Vanessa didn't care. She dragged him up, hauling his dead weight until he was fo
 
 "Wash your face," she hissed, breathing hard from the exertion. "Put your glasses on. We are getting on that bus, and you are going to smile."
 
-### Scene 9: The Silence
+***
+
+#### The Silence
 
 The bus was quiet, the engine humming a monotonous drone as it climbed the arid hills toward Yakima. The afternoon sun was hidden behind a thick layer of gray cloud cover, making the cabin feel dim and claustrophobic.
 
@@ -10742,7 +10986,7 @@ He just knew he had to survive the next two hours without breaking.
 
 ## The Rescue
 
-### Scene 1: The Advance Team
+### Part 1: The Advance Team
 
 The rain in Seattle wasn't like the rain in Virginia. It wasn't a storm; it was a pervasive, mist-like drizzle that soaked everything instantly.
 
@@ -11021,7 +11265,9 @@ She walked over to the bed and sat next to Paige. She wrapped her arm around her
 
 "Four hours," Jessica promised, staring at the terminal like a sniper waiting for a target. "That bus arrives in four hours. And when it does... we extract him. Immediately."
 
-### Scene 2: The Intercept
+### Part 2: The Intercept & The Time Lock
+
+#### The Intercept
 
 The interior of the Seattle bus terminal was a stark contrast to the rainy street outside. It was bright, smelling of floor wax and stale coffee, humming with the noise of travelers and the PA system.
 
@@ -11333,7 +11579,9 @@ He was docked. He was home.
 
 And for the first time in three days, Freddie Avery slept without fear.
 
-### Scene 3: The Time Lock
+***
+
+#### The Time Lock
 
 Vanessa stood by the bank of payphones near the entrance. The terminal was emptying out. The Averys were gone. The "heroic rescue" was over, and she was just a girl standing in a puddle with a duffel bag.
 
@@ -11402,7 +11650,9 @@ The bus stopped at the Kent Station. It was dark. It was raining.
 
 She stepped off into the night, looking for the lights of a trailer park, completely alone.
 
-### Scene 4: The Decontamination Protocol
+### Part 3: The Decontamination Protocol & Frequency Tuned
+
+#### The Decontamination Protocol
 
 There was no sun in the room. The heavy, rubber-backed hotel curtains were drawn tight, snapped together in the middle to prevent even a single photon of Seattle grey from entering.
 
@@ -11653,7 +11903,9 @@ He looked up at his sisters. They were kneeling on the bathmat, wet from the spr
 
 "Just blankets," Paige agreed. "Skin to skin. Until we leave."
 
-### Scene 5: Frequency Tuned
+***
+
+#### Frequency Tuned
 
 "Extraction commenced," Jessica announced softly.
 
@@ -11751,7 +12003,7 @@ Freddie took a breath. It didn't shudder this time.
 
 "Safe," Freddie said. "I am safe."
 
-### Scene 6: The Signal Cut
+### Part 4: The Signal Cut
 
 The reverb of "Sanctuary" had barely faded when the DJ’s voice returned, slick and energetic, jarring against the heavy emotional air in the room.
 
@@ -12289,7 +12541,9 @@ He slept without dreaming.
 
 ## The Tourist Protocol
 
-### Scene 1: Fueling the Expedition
+### Part 1: Fueling the Expedition & The Wheelchair Epiphany
+
+#### Fueling the Expedition
 
 The blackout curtains held the line against the morning, maintaining the protective twilight of the "Silo," but the digital clock on the microwave insisted it was time to start the day.
 
@@ -12363,7 +12617,9 @@ Paige smiled, reaching over to squeeze his hand. "The crew is ready."
 
 They cleared the table. They grabbed their bags (water, cameras, jackets). They walked out the door of Room 412, not as refugees fleeing a crime scene, but as explorers stepping out into a brand new world.
 
-### Scene 2: The Mode Switch
+***
+
+#### The Mode Switch
 
 The walk from the Cascade Suites to the transit station was short—just a few blocks through the crisp, sunny Seattle morning. The air smelled of rain-washed pavement and coffee, a sharp contrast to the diesel fumes of the Pathfinder terminal across the street.
 
@@ -12448,7 +12704,9 @@ The doors slid shut. The Metro-Rail surged forward. They were flying above the t
 
 "Destination," Freddie announced, watching the tower grow larger in the window. "The Sky-Spire."
 
-### Scene 3: The Observation Deck
+***
+
+#### The Observation Deck
 
 The Metro-Rail glided into the station at the base of the tower. They stepped off the train and walked through the park, craning their necks to look up.
 
@@ -12514,7 +12772,9 @@ It bends, he thought. But it does not break.
 
 They went back inside, leaving the view of the bus station behind, trading the grey memory for a lunch in the sky.
 
-### Scene 4: The Deep Blue
+***
+
+#### The Deep Blue
 
 The "Metro-Rail" ride back from the Sky-Spire had been smooth, but the transition to the waterfront was a physical trial. They navigated the "Hill Climb" elevators at the public market, descending from the city streets to the pier level.
 
@@ -12619,7 +12879,9 @@ He realized then that the wheelchair wasn't a defeat. It was just another tool i
 
 They stayed in the dome for an hour, the three of them suspended in the blue light, watching the fish circle in their endless, silent orbits, letting the cool water wash away the last of the red alert.
 
-### Scene 5: The Wheelchair Epiphany
+***
+
+#### The Wheelchair Epiphany
 
 The hour in the **Underwater Dome** had been a total reset. The cool blue light, the silent circling of the sharks, and the weightless feeling of the water pressing against the glass had scrubbed the last of the bus vibration from Freddie's bones.
 
@@ -12695,7 +12957,9 @@ Freddie looked at them. The fear that had been gnawing at him since the lobby—
 
 "Good," Paige said. "Now let's get out of here. I need a nap."
 
-### Scene 6: The Scar
+### Part 2: The Scar & The Restoration
+
+#### The Scar
 
 They walked from Pier 59 back toward the **Hill Climb** elevator. The waterfront was noisy, smelling of diesel from the ferries and frying dough from the tourist stands.
 
@@ -12742,7 +13006,9 @@ Freddie smiled. "Stealth mode," he whispered. "I like that."
 
 The electric bus hummed up the street, carrying the Unit back to base, ready for the next day's mission.
 
-### Scene 7: High Voltage
+***
+
+#### High Voltage
 
 The door to Room 412 clicked shut, sealing out the hallway.
 
@@ -12866,7 +13132,9 @@ Freddie lay under the crushing, saving weight of his sister. He focused on the p
 
 He couldn't speak yet. The words were gone. So he just lay there, safe in the press, waiting for the world to stop spinning.
 
-### Scene 8: The Silent Signal
+***
+
+#### The Silent Signal
 
 The violence of the storm had passed, leaving behind a heavy, exhausted silence in the hotel room.
 
@@ -12952,7 +13220,9 @@ Jessica kept her hand on his shoulder, the steady anchor in the sea.
 
 They stayed in the pile, three siblings on a hotel bed, riding out the aftershocks of a disaster they had survived together.
 
-### Scene 9: The Restoration
+***
+
+#### The Restoration
 
 The storm in the hotel room had passed, leaving behind a stillness that felt fragile but solidifying.
 
@@ -13094,7 +13364,9 @@ But as he dipped his sandwich into the soup, surrounded by his sisters and the g
 
 He was in the place where everybody knew his name. And he was never leaving again.
 
-### Scene 10: The Flight Plan
+### Part 3: The Flight Plan & The Northern Trajectory
+
+#### The Flight Plan
 
 The episode of *The Local* ended, the piano notes fading into the hum of the air conditioner. The dinner plates were stacked on the nightstand. The city outside was dark, but inside the "Silo," the lighting was warm and low.
 
@@ -13194,7 +13466,9 @@ Freddie closed his eyes. He imagined the massive factory. He imagined the bus ri
 
 He slept. And for the first time in four days, he didn't dream of the road.
 
-### Scene 11: The Northern Trajectory
+***
+
+#### The Northern Trajectory
 
 The morning broke grey and misty—a classic Pacific Northwest start. Inside the hotel room, the mood was operational. The emotional storm of the previous day had washed away the panic, leaving behind a clear, hard resolve.
 
@@ -13318,7 +13592,9 @@ The bus rolled south, carrying the Avery Unit back to base, ready for whatever c
 
 ## Flight to Tahoma
 
-### Scene 1: The Bypass
+### Part 1: The Bypass & The Supply Run
+
+#### The Bypass
 
 Jessica dropped the room key on the front desk counter. The *clack* of plastic on marble was the final punctuation mark of their time in the city.
 
@@ -13416,7 +13692,9 @@ He laughed. It was a dry, dark, satisfied laugh.
 
 The Vanguard roared past the exit. They left Kent—and the ghost of Vanessa—in the dust, just a blur of grey in the side mirror.
 
-### Scene 2: The Iron Creek Lodge
+***
+
+#### The Iron Creek Lodge
 
 The drive south on SR-167 had turned into SR-161, winding through the Puyallup Valley.
 
@@ -13472,7 +13750,9 @@ Freddie walked to the window. He looked out at the forest. He couldn't see the r
 
 They were off the grid. The rescue was over. The vacation had begun.
 
-### Scene 3: The Bear's Den
+***
+
+#### The Bear's Den
 
 The silence was the first thing Freddie noticed.
 
@@ -13562,7 +13842,9 @@ Here, there were only logs, fire, river, and the Unit.
 
 "Let's eat," Freddie said. "Then... fire protocol."
 
-### Scene 4: The Supply Run
+***
+
+#### The Supply Run
 
 "Logistics run," Jessica announced, grabbing the car keys. "The fridge is empty, and the Vanguard is thirsty. We need fuel and food."
 
@@ -13659,7 +13941,9 @@ This was better. This was real.
 
 He took another bite. He was full. He was warm. He was home—even if home was temporarily a log cabin in Pierce County.
 
-### Scene 5: The Hypothesis & The Lock
+### Part 2: The Hypothesis & The Lock & The Silent Engines
+
+#### The Hypothesis & The Lock
 
 The dinner plates were washed and dried. The fire in the woodstove had settled into a steady, glowing bed of coals.
 
@@ -13773,7 +14057,9 @@ He wasn't choosing incest. He was choosing Safety. He was choosing the only peop
 
 The Pasco Lock was broken. The secret was out. And the walls of the cabin didn't collapse. The fire kept burning. The rain kept falling. And his sisters kept holding him.
 
-### Scene 6: The Iron Giants & The Safe Mode
+***
+
+#### The Iron Giants & The Safe Mode
 
 The rain continued to drum against the skylights, a steady rhythm that sealed the cabin off from the rest of the world. The difficult conversation was over. The tears had been dried. The "Pasco Lock" was broken.
 
@@ -13903,7 +14189,9 @@ Freddie closed his eyes. For the first time in a week, the map in his head was c
 
 And that was enough.
 
-### Scene 7: Factory Settings
+***
+
+#### Factory Settings
 
 Sunlight.
 
@@ -13957,7 +14245,9 @@ He walked to the pile of clothes they had left by the bathroom door the night be
 
 "Initiating boot sequence," Freddie announced. "Let's go see the machines."
 
-### Scene 8: The Iron Spirits
+***
+
+#### The Iron Spirits
 
 The "Boot Sequence" was efficient. They traded their natural state for the necessary armor of the outside world: blue jeans, sturdy sneakers, and hoodies against the morning chill. Freddie pulled his orange sweatshirt on, hood up, sunglasses on.
 
@@ -14024,7 +14314,9 @@ He looked at Paige.
 
 They wandered the park for an hour, Freddie identifying the original purpose of every rusty bolt and beam, finding comfort in a world where broken things weren't discarded, but turned into giants.
 
-### Scene 9: The Silent Engines
+***
+
+#### The Silent Engines
 
 The drive from the sculpture park to the tiny town of Elbe took less than five minutes. Jessica parked the white **Vanguard Senator** on the gravel shoulder near the historic depot.
 
@@ -14082,7 +14374,9 @@ Freddie looked from the cold iron train to the small wooden shack.
 
 "Fuel required," Freddie stated. "Let's proceed."
 
-### Scene 10: The Refueling
+### Part 3: The Refueling & The Null Hypothesis
+
+#### The Refueling
 
 They walked across the two-lane highway from the train depot. The air smelled of grilled onions and beef—a distinct, heavy scent that signaled "food" to the primitive part of the brain.
 
@@ -14144,7 +14438,9 @@ Freddie looked at the empty shake cup. He looked at the mountain looming above t
 
 They walked back to the *Vanguard Senator*, full, tired, and content, leaving the iron giants and the burger shack behind for the quiet sanctuary of the woods.
 
-### Scene 11: Glacial Flour
+***
+
+#### Glacial Flour
 
 The nap was short—just a quick system reboot after the heavy burger. Now, they were outside.
 
@@ -14198,7 +14494,9 @@ They sat there for an hour, watching the liquid mountain rush by, listening to t
 
 He took one last look at the grey river—the grinding, moving, living force of nature—and then turned back toward the warmth of the cabin and the safety of the Unit.
 
-### Scene 12: The Return Vector
+***
+
+#### The Return Vector
 
 The packing sequence was silent and efficient. The "Bear's Den" had served its purpose—it had been a sanctuary, a bunker, and a hospital—but now the mission was over.
 
@@ -14316,7 +14614,9 @@ Freddie walked over and sat between them. The bed dipped under his weight. It wa
 
 They sat there in the generic hotel room, listening to the muffled roar of jet engines outside, ready to close the file on the Pacific Northwest and return to the safety of the known world.
 
-### Scene 13: The Holding Pattern
+***
+
+#### The Holding Pattern
 
 The door clicked shut. Jessica threw the deadbolt. She hung the "Do Not Disturb" sign on the handle outside.
 
@@ -14438,7 +14738,9 @@ He chewed slowly, looking at his notepad full of flight times, then at the tripl
 
 He took another bite of his sandwich, ready for the final leg of the mission.
 
-### Scene 14: The Null Hypothesis
+***
+
+#### The Null Hypothesis
 
 The meal was finished. The "structural triangles" of the sandwiches had been dismantled and consumed.
 
@@ -14520,7 +14822,9 @@ Freddie drifted off, finally purging the last of Vanessa’s "hostile code." He 
 
 ## The Flight Home
 
-### Scene 1: The Final Bill
+### Part 1: The Final Bill & The Checkpoint Protocol
+
+#### The Final Bill
 
 You could tell the quality of a hotel by its breakfast.
 
@@ -14594,7 +14898,9 @@ He stood up, feeling full, caffeinated (via the sugar), and ready.
 
 They walked out of the quiet, velvet-lined restaurant and toward the front desk, ready to settle the account and close the file on Washington State.
 
-### Scene 2: The Departure Protocol
+***
+
+#### The Departure Protocol
 
 The lobby was busier now. Businessmen in suits were rolling jagged lines of black luggage toward the automatic doors. Flight crews were gathering near the elevators.
 
@@ -14696,7 +15002,9 @@ Their mother, Ellen, had finally divorced Robert in 2001. He had refused to work
 
 "Affirmative," Freddie sighed in his sleep, sinking deeper into the embrace of the only family he would ever need.
 
-### Scene 3: The Gateway Protocol
+***
+
+#### The Gateway Protocol
 
 The hotel shuttle hissed to a halt at the curb marked **GATEWAY AIRLINES**.
 
@@ -14772,7 +15080,9 @@ But he had the Chariot. He had the Pre-Board status. And in a few hours, he woul
 
 The convoy moved forward toward the security checkpoint, a small island of order in the sea of travelers.
 
-### Scene 4: The Checkpoint Protocol
+***
+
+#### The Checkpoint Protocol
 
 The line for the metal detectors was a snake of stressed travelers, shedding belts and shoes like molting reptiles. The air was thick with the sound of plastic bins clattering on rollers and TSA agents shouting instructions.
 
@@ -14881,7 +15191,9 @@ She put the pile of "safe food" on the counter. The total was nearly thirty-five
 
 "Okay," Jessica said, checking her watch. "Gate C10. Let's go get in position for the sandwich."
 
-### Scene 5: The Soundtrack Protocol
+### Part 2: The Soundtrack Protocol & The Mid-Air Transfer
+
+#### The Soundtrack Protocol
 
 They were rolling past a duty-free shop when the vibration hit.
 
@@ -14953,7 +15265,9 @@ He took the yellow foam plug and rolled it between his fingers, compressing it i
 
 Jessica pushed the chair forward. Freddie sat a little taller, the bassline still thumping in his chest. He wasn't crawling on the earth for anyone. He was going home.
 
-### Scene 6: The Hub Dilemma
+***
+
+#### The Hub Dilemma
 
 The waiting area for Flight 492 was a sea of humanity. The "open seating" policy meant that while the siblings had pre-board status, everyone else was jockeying for position in the dreaded <aac>A,</aac> <aac>B,</aac> and "C" boarding groups.
 
@@ -15007,7 +15321,9 @@ Jessica stood up. She grabbed the handles of the wheelchair.
 
 She released the brakes. They rolled past the businessmen, past the long lines of impatient travelers, and headed into the tunnel that would take them to the busiest machine on earth.
 
-### Scene 7: The Safety Protocol
+***
+
+#### The Safety Protocol
 
 The jet bridge was a ribbed tunnel of white metal, sloping downward. The air grew cooler with every foot they advanced, smelling of ozone and burnt kerosene.
 
@@ -15083,7 +15399,9 @@ As the plane taxied to the runway, Paige looked out the window at the grey Washi
 
 "Ready," Freddie whispered, gripping her hand so hard it hurt. "Launch sequence initiated.
 
-### Scene 8: The Ascent Protocol
+***
+
+#### The Ascent Protocol
 
 The aircraft turned onto the runway. The pilot didn't wait. He pushed the throttles forward, and the engines screamed.
 
@@ -15169,7 +15487,9 @@ Across the aisle, passengers began clicking their seatbelts open to stretch or r
 
 Freddie let the darkness take him, safe in the sandwich, hurtling toward Virginia at 500 miles per hour, held by the sacred vow of a sister who would never let him fall.
 
-### Scene 9: The Mid-Air Transfer
+***
+
+#### The Mid-Air Transfer
 
 The cabin was quiet, save for the steady, white-noise roar of the engines. Outside the scratched plastic window, the sky was a deep, impossible blue, and the clouds were a solid floor of white cotton thousands of feet below.
 
@@ -15277,7 +15597,9 @@ She felt a tingle in her left fingers. Her arm was starting to fall asleep.
 
 She didn't move. She just held him tighter, watching the clouds go by, counting down the minutes until they could get him onto the ground and one step closer to the quiet, green safety of the New River Valley.
 
-### Scene 10: The Descent Protocol
+### Part 3: The Descent Protocol & The Valley Protocol
+
+#### The Descent Protocol
 
 The cabin chime sounded. *Bing-Bong.*
 
@@ -15378,7 +15700,9 @@ Jessica hit the down button.
 
 They rolled into the elevator car. The doors closed, cutting off the terminal noise for a brief, merciful second before they began the descent into the underground.
 
-### Scene 11: The Neon Horizon
+***
+
+#### The Neon Horizon
 
 The elevator doors slid open.
 
@@ -15496,7 +15820,9 @@ Jessica hit the button for the Concourse Level.
 
 The elevator began to rise, lifting them out of the underworld and toward the final plane that would take them home.
 
-### Scene 12: The Refueling Protocol
+***
+
+#### The Refueling Protocol
 
 The elevator doors opened with a polite chime.
 
@@ -15568,7 +15894,9 @@ Jessica signaled for the check. She paid quickly—Aunt Marge’s credit card ta
 
 They gathered their bags. Freddie settled back into the wheelchair, feeling full and heavy. The panic of the morning felt distant now. He had fuel. He had his sisters. And the departure board showed the one word he had been waiting to see for weeks: **ROANOKE - ON TIME.**
 
-### Scene 13: The Propeller Protocol
+***
+
+#### The Propeller Protocol
 
 The gate for the Roanoke flight wasn't a gate. It was a door that led to the concrete.
 
@@ -15642,7 +15970,9 @@ Across the aisle, Jessica watched them. She saw Freddie sitting up straighter, t
 
 Jessica smiled, leaning her head back against her own seat. The propellers droned on, carrying the three of them over the Ohio Valley, closer and closer to the green hills of home.
 
-### Scene 14: The Valley Protocol
+***
+
+#### The Valley Protocol
 
 The pitch of the propellers changed. The steady drone shifted to a higher, biting whine as the blades bit into the thicker air of the Blue Ridge Mountains.
 
@@ -15708,7 +16038,9 @@ She flexed her left foot, imagining the clutch pedal. After days of riding in sh
 
 "Agreed," Jessica said, grabbing her bag. "Get us to the car. Get us home."
 
-### Scene 15: The Final Mile
+### Part 4: The Final Mile & The Shutdown Protocol
+
+#### The Final Mile
 
 The air in the parking lot was heavy, humid, and smelled like damp earth. To Freddie, it smelled like victory.
 
@@ -15794,7 +16126,9 @@ They stood there for a moment, the three of them, looking at the house. This was
 
 They walked up the path together, crossing the threshold into the only world that truly understood them.
 
-### Scene 16: The Shutdown Protocol
+***
+
+#### The Shutdown Protocol
 
 The house was cool and smelled faintly of old wood and laundry detergent. It was the smell of stasis. Nothing had changed while they were gone. The furniture was exactly where they left it. The silence was heavy and protective.
 
@@ -15856,7 +16190,9 @@ He was home.
 
 ## The Trojan Horse
 
-### Scene 1: The Invalid Variable
+### Part 1: The Invalid Variable & The Legal Shield
+
+#### The Invalid Variable
 
 The living room of 105 Pepper Street was a sanctuary of controlled variables. The air conditioner hummed its steady, white-noise lullaby, keeping the Virginia humidity on the other side of the vinyl siding.
 
@@ -16106,7 +16442,9 @@ The threat was deleted. The variable was null.
 
 "Resuming orbit," Freddie murmured.
 
-### Scene 2: The Legal Shield
+***
+
+#### The Legal Shield
 
 The conference room smelled of lemon polish and old leather binders—a scent Freddie categorized as "Bureaucracy." It was a low-stimulus environment: beige walls, heavy curtains drawn against the morning sun, and a long mahogany table that reflected the overhead can lights like a dark pool.
 
@@ -16240,7 +16578,9 @@ They stood up. Freddie felt lighter. The legal wall was built. The medical wall 
 
 They walked out of the office, armed with the truth, ready to defend the Base against the variable that tried to crash the system.
 
-### Scene 3: The Null Hypothesis
+### Part 2: The Null Hypothesis & The Restoration
+
+#### The Null Hypothesis
 
 Jessica walked through the automatic sliding doors of **Pendleton Library**. She wasn't wearing her usual student attire of jeans and a Forger t-shirt. She was wearing "Business Armor"—black slacks, a crisp blouse, and boots that clicked with authority on the tile floor.
 
@@ -16402,7 +16742,9 @@ She sat back down at the carrel and put her head on the desk.
 
 The trap had sprung. But it was empty. And so was she.
 
-### Scene 4: The Restoration
+***
+
+#### The Restoration
 
 The front door clicked shut. Jessica threw the deadbolt. She hung her keys on the hook and turned to face her siblings.
 
@@ -16516,7 +16858,9 @@ The Unit was online. And it was unbreakable.
 
 ## The Optimization Protocol
 
-### Scene 1: The Transaction
+### The Transaction & The Deed of Trust
+
+#### The Transaction
 
 The dining room table was covered in a sea of paperwork. It wasn't the usual clutter of textbooks or laptops; these were heavy, legal-sized documents on bond paper, bound with blue backers.
 
@@ -16623,7 +16967,9 @@ Marge slumped back in her chair, exhausted but smiling.
 
 The firewall was installed. The Avery Unit had a permanent home. And it only cost them a dollar.
 
-### Scene 2: The Hardware Upgrade
+***
+
+#### The Hardware Upgrade
 
 The living room was transformed into a command center. The coffee table was covered in glossy brochures Freddie had requested by mail: *ApexLite*, *SwiftChair*, *Colours*.
 
@@ -16723,7 +17069,9 @@ It wasn't sick. It was **survival**. And for the first time in his life, he was 
 
 "Two weeks," Paige promised, kissing his shoulder. "Then we see how fast you can really go."
 
-### Scene 3: The Deed of Trust
+***
+
+#### The Deed of Trust
 
 The afternoon sun filtered through the sheer curtains, illuminating the dust motes dancing in the air. The atmosphere in the living room was one of drowsy contentment.
 
@@ -16833,7 +17181,9 @@ Jessica smiled, sitting back down and wrapping her arm around him.
 
 ## The Satellite Convergence
 
-### Scene 1: The Invasion Force
+### Part 1: The Invasion Force & Fueling the Army
+
+#### The Invasion Force
 
 The sun was beginning to dip behind the Blue Ridge Mountains, casting long shadows across the driveway.
 
@@ -16865,7 +17215,9 @@ And finally, Aunt Linda stepped out of the driver’s seat. She looked like a wo
 
 "It is fortified," Freddie confirmed. "Come. Jessica has carbohydrates."
 
-### Scene 2: The Dungeon
+***
+
+#### The Dungeon
 
 The tour of the main floor was quick. The kitchen (small), the living room (beige), and the Master Bedroom (The Silo).
 
@@ -16915,7 +17267,9 @@ Sarah stared at it. She imagined sitting there while her four sisters played car
 
 "If you really have to go," Paige offered, "it’s right there. But yeah... it’s the Throne of Shame."
 
-### Scene 3: The Privacy Protocol
+***
+
+#### The Privacy Protocol
 
 They went back upstairs (retreating from the toilet as fast as possible). Freddie was waiting in the hallway.
 
@@ -16945,7 +17299,9 @@ He looked specifically at Sarah and Jenna, the teenagers who were most sensitive
 
 "I'd rather die," Harper decided.
 
-### Scene 4: Settlement
+***
+
+#### Settlement
 
 The house had settled into a hum of activity.
 
@@ -16975,7 +17331,9 @@ They closed their eyes. Below them, five sisters slept in a concrete bunker, saf
 
 The reunion had begun. And the Pittsburgh Toilet remained, fortunately, unused.
 
-### Scene 5: The Throne of Shame
+***
+
+#### The Throne of Shame
 
 The basement was pitch black, save for the faint, ghostly glow of the streetlamp filtering through the tiny window well high on the wall. The only sound was the rhythmic whoosh-hiss of the air mattresses shifting as five girls slept.
 
@@ -17055,7 +17413,9 @@ Harper exhaled. No one had moved. She was safe.
 
 She had survived the Pittsburgh Toilet. But as she drifted back to sleep, she made a solemn vow: I am never drinking soda after 6 PM ever again.
 
-### Scene 6: The Morning Audit
+***
+
+#### The Morning Audit
 
 Morning in the basement was grey and hazy. The small window wells let in just enough light to turn the concrete room into a shadowy landscape of sleeping bags and messy hair.
 
@@ -17159,7 +17519,9 @@ Harper nodded. She climbed back in. The shame didn't vanish completely, but unde
 
 Better than the bed, Harper repeated to herself. Way better than the bed.
 
-### Scene 7: Fueling the Army
+***
+
+#### Fueling the Army
 
 "Troops, mobilize," Sarah commanded.
 
@@ -17267,7 +17629,9 @@ He was home. The bus was gone. Vanessa was gone.
 
 He had his army. And he was never letting them go.
 
-### Scene 8: Division of Labor
+### Part 2: Division of Labor & The Rotation of the Guard
+
+#### Division of Labor
 
 The breakfast dishes were cleared. The sun was climbing higher, heating up the vinyl siding of the house. Inside, the air conditioner hummed its steady, protective note.
 
@@ -17303,7 +17667,9 @@ Sarah sighed, pushing her glasses up her nose. "The Clothing Mountain."
 
 Jessica and Linda walked out the door. The lock clicked shut.
 
-### Scene 9: The Laundry Brigade
+***
+
+#### The Laundry Brigade
 
 The Laundry Brigade descended into the cool, concrete depths.
 
@@ -17401,7 +17767,9 @@ Harper looked at the toilet. It didn't look like a monster anymore. It just look
 
 The Laundry Brigade resumed operations. The washer churned, the dryer hummed, and the Pittsburgh Toilet sat in the corner—no longer a throne of shame, just another part of the plumbing.
 
-### Scene 10: The Anchor Point
+***
+
+#### The Anchor Point
 
 Upstairs, the house was quiet, save for the muffled rumble of the washer below the floorboards.
 
@@ -17451,7 +17819,9 @@ Freddie wrapped his free arm around Amanda. He held Paige’s hand with the othe
 
 Downstairs, the washing machine hit the spin cycle, vibrating the floor. Upstairs, the Avery Unit held onto each other, refusing to let go, proving that the strongest gravity wasn't physics—it was family.
 
-### Scene 11: The Zero-Privacy Protocol
+***
+
+#### The Zero-Privacy Protocol
 
 Two hours had passed. The pile of dirty clothes had shrunk, replaced by neat, geometric stacks of folded laundry on the folding table Sarah had set up.
 
@@ -17525,7 +17895,9 @@ Harper washed her hands and walked back to the group. She sat down on the concre
 
 The Laundry Brigade worked on. They rotated through the loads, and they rotated through the corner, bound together by soap, warm flannel, and the absolute freedom of having nothing left to hide.
 
-### Scene 12: Structural Integrity Test
+***
+
+#### Structural Integrity Test
 
 While the Laundry Brigade conquered the mountains of denim in the basement, the living room had been transformed into a high-density affection zone.
 
@@ -17603,7 +17975,9 @@ Amanda just squeezed him tighter.
 
 The Jungle Gym was open, and it was never closing down.
 
-### Scene 13: The Rotation of the Guard
+***
+
+#### The Rotation of the Guard
 
 The front door opened with a rattle of keys. Jessica and Aunt Linda backed into the entryway, arms laden with plastic bags from the party store and the grocery market.
 
@@ -17687,7 +18061,7 @@ Linda looked one last time at Freddie, buried once again under a fresh set of si
 
 Eat your heart out, Vanessa, Linda thought with a grim sense of satisfaction. You can't break this.
 
-### Scene 14: The Black Box Review
+### Part 3: The Black Box Review
 
 The laughter had died down. The ice cream was put away. Aunt Linda stood in the center of the living room, her hands clasped in front of her. She looked at the sprawling pile of happiness on the sofa, but her expression was serious.
 
@@ -17837,7 +18211,7 @@ Freddie took a deep breath. He felt the weight of his sisters. He felt the truth
 
 "Optimal," Freddie confirmed.
 
-### Scene 15: Clearance Denied
+### Part 4: Clearance Denied
 
 The door at the top of the stairs clicked shut, sealing the younger sisters in the concrete bunker.
 
@@ -18151,7 +18525,9 @@ He was home.
 
 ## The Big One-Five
 
-### Scene 1: Trajectory Calculations
+### Part 1: Trajectory Calculations & Pyrotechnic Redundancy
+
+#### Trajectory Calculations
 
 The house was buzzing. The twins were officially fifteen.
 
@@ -18183,7 +18559,9 @@ Freddie hesitated. He looked down at his wheelchair. He looked at his hands, whi
 
 "Nope," Jessica grinned. "You’re playing, Captain. They have technology."
 
-### Scene 2: The Ramp
+***
+
+#### The Ramp
 
 The bowling alley smelled of floor wax, rental shoes, and greasy fries. It was a cacophony of crashing pins, arcade bells, and synth-pop music.
 
@@ -18291,7 +18669,9 @@ Freddie watched his orange ball return through the ball return machine.
 
 Safe return, he thought. Always.
 
-### Scene 3: The Arcade Intervention
+***
+
+#### The Arcade Intervention
 
 After two games (Freddie won the second one thanks to his "ramp precision"), the group migrated to the arcade section.
 
@@ -18361,7 +18741,9 @@ Freddie looked at the green alien in her hand, and the smile on Jenna’s face.
 
 "Victory," Freddie said.
 
-### Scene 4: The Carbohydrate Loading
+***
+
+#### The Carbohydrate Loading
 
 The convoy returned to Base. The minivan and the sedan pulled into the driveway, unloading nine tired, hungry, but victorious Averys. The adrenaline of the bowling alley was wearing off, replaced by the primal need for fuel.
 
@@ -18479,7 +18861,9 @@ Jessica lifted the heavy sheet cake.
 
 "Incoming!" Jessica sang out, walking the glowing cake into the dining room.
 
-### Scene 5: Pyrotechnic Redundancy
+***
+
+#### Pyrotechnic Redundancy
 
 The dining table was a disaster zone of empty Tony’s Pizza boxes, crumpled napkins, and drained soda cans. Nine people had just consumed enough carbohydrates to fuel a small power plant.
 
@@ -18601,7 +18985,9 @@ But this—this loud, messy, resilient chaos, where even the candles refused to 
 
 Optimal.
 
-### Scene 6: The Voltage Spike
+### Part 2: The Voltage Spike & The Decompression Chamber
+
+#### The Voltage Spike
 
 The cake was decimated. The blue numbers were smoking ruins on the platter.
 
@@ -18685,7 +19071,9 @@ Sarah, usually the calm Lieutenant, was pacing the room, gesturing wildly with a
 
 "Ten minutes," Jessica predicted, checking her watch. "Then we crash."
 
-### Scene 7: The Shutdown Sequence
+***
+
+#### The Shutdown Sequence
 
 The crash was absolute.
 
@@ -18766,7 +19154,9 @@ Jenna swapped places with Harper. Harper went to the sink to brush her teeth, st
 
 They rotated through the stations—sink, toilet, sink—with the efficiency of a pit crew. No doors. No locks. No secrets. Just sisters getting ready for bed in the only way that worked for a family this size.
 
-### Scene 8: The Photographic Evidence
+***
+
+#### The Photographic Evidence
 
 The "Hygiene Squad" had returned from the basement, and Amanda and Elara had descended from the upstairs bathroom. The living room was now filled with eight clean, minty-smelling siblings wearing mismatched flannel pajamas.
 
@@ -18854,7 +19244,9 @@ As the pile slowly disentangled itself—limbs retracting, sisters sliding off�
 
 He watched Sarah and Jenna drag the deflated air mattresses up from the basement, ready to build the raft that would keep them all together through the night.
 
-### Scene 9: The Platoon Deployment
+***
+
+#### The Platoon Deployment
 
 The photo session was over. The evidence was secured in Aunt Linda's camera. Now, the logistics began.
 
@@ -18950,7 +19342,9 @@ Freddie closed his eyes. The nightmares couldn't get in here. There was no room 
 
 For the first time since the bus ride, Freddie Avery slept without dreaming.
 
-### Scene 10: The Decompression Chamber
+***
+
+#### The Decompression Chamber
 
 The sun streamed through the living room blinds, illuminating the wreckage of the sleepover.
 
@@ -19070,7 +19464,9 @@ Freddie let out a long breath. He leaned his head sideways, resting it against P
 
 ## The Transfer Point
 
-### Scene 1: The Pathfinder
+### Part 1: The Pathfinder & The Pressure Check
+
+#### The Pathfinder
 
 The air inside Campbell Court was a familiar, hostile mixture of diesel soot, stale tobacco, and the damp smell of concrete that never quite dried. It was a sensory environment Freddie usually categorized as "Critical Threat," but today, the static in his head was drowned out by the hum of anticipation.
 
@@ -19172,7 +19568,9 @@ She pointed to the far end of the terminal, where a smaller, white-and-maroon bu
 
 They moved as a unit toward the express bus—Jessica taking point, Paige and the twins flanking the wheelchair, and Freddie rolling in the center, the Captain of a fleet that had just doubled in size.
 
-### Scene 2: The Bunker
+***
+
+#### The Bunker
 
 The short ride from **Pepper Plaza** to the driveway took less than two minutes, but for Sarah, it was a data-gathering mission. She scanned the neighborhood through the bus window, noting the distance between houses (low density), the condition of the sidewalks (acceptable), and the proximity to the transit hub (optimal).
 
@@ -19264,7 +19662,9 @@ As the twins disappeared into their new subterranean kingdom, Freddie turned his
 
 "Systems nominal," Freddie whispered.
 
-### Scene 3: The Heap Protocol
+***
+
+#### The Heap Protocol
 
 The house had settled into a quiet hum. Downstairs, the basement lights were still blazing as Jenna unpacked chaos onto the concrete floor, but upstairs, the main floor was dim. The air conditioner cycled on, a low rumble that vibrated through the floorboards.
 
@@ -19390,7 +19790,9 @@ The system was fully integrated.
 
 The Avery Unit powered down, safe in the dark.
 
-### Scene 4: The Pressure Check
+***
+
+#### The Pressure Check
 
 The "Heap" protocol had been active for fifteen minutes. The living room was silent, save for the rhythmic white noise of the air conditioner and the synchronized breathing of five adults compressed onto a single double mattress.
 
@@ -19462,7 +19864,7 @@ They didn't disperse. They didn't go to their designated zones.
 
 The Avery Unit simply shut down where they were, a tangle of limbs and trust, sleeping in a pile because for the first time in years, everyone was exactly where they were supposed to be.
 
-### Scene 5: The Migration
+### Part 2: The Migration
 
 The silence of the living room was broken by a groan.
 
@@ -19631,7 +20033,9 @@ The breathing synced up. The heat rose. The Avery Unit slept, safe in the Silo, 
 
 ## The Physical Layer
 
-### Scene 1: The Descent
+### Part 1: The Descent & The Mega-Bed
+
+#### The Descent
 
 The morning light filtered through the blackout curtains of the Master Bedroom, signaling that the "Silo" had successfully protected its occupants for another rotation.
 
@@ -19813,7 +20217,9 @@ They lay on the cold concrete floor of the unfinished basement, five naked adult
 
 "Then we build it," Jessica declared. "We build the hive."
 
-### Scene 2: The Search Query
+***
+
+#### The Search Query
 
 The Ops Room (formerly the second bedroom) was operating at peak capacity.
 
@@ -19929,7 +20335,9 @@ It looked like something that belonged on the *Sanctuary*.
 
 "It sounds like freedom," Paige whispered, resting her head on his shoulder.
 
-### Scene 3: The Mega-Bed
+***
+
+#### The Mega-Bed
 
 The "Thru-Floor Lift" was found. The TFL-3000 was in the virtual shopping cart. The method of descent was secured.
 
@@ -20023,7 +20431,9 @@ She looked at Freddie.
 
 "Never," Freddie whispered. "Systems... optimal."
 
-### Scene 4: The Pittsburgh Toilet
+### Part 2: The Pittsburgh Toilet & The Wet Room
+
+#### The Pittsburgh Toilet
 
 The "Mega-Bed" specifications were locked. The Thru-Floor Lift was in the cart. The digital architecture of the new basement was taking shape on the screen of the *MagnaByte* laptop.
 
@@ -20101,7 +20511,9 @@ She looked at her siblings.
 
 "The Bridge," Paige agreed. "Let's order the lumber."
 
-### Scene 5: The Permit Phase
+***
+
+#### The Permit Phase
 
 The kitchen table was covered in blueprints.
 
@@ -20259,7 +20671,9 @@ Freddie looked up. The ceiling was sealed. He was in the bunker. And he hadn't u
 
 "Access confirmed," Freddie whispered, tears pricking his eyes. "The Base is... fully operational."
 
-### Scene 6: The Wet Room
+***
+
+#### The Wet Room
 
 The noise was absolute.
 
@@ -20417,7 +20831,7 @@ Freddie closed his eyes, letting the water run over his face.
 
 "System status," he whispered to the steam. "Perfect."
 
-### Scene 7: The Mega-Bed Assembly
+### Part 3: The Mega-Bed Assembly
 
 The driveway of 105 Pepper Street looked like a construction staging area.
 
@@ -20595,7 +21009,9 @@ And in the cool, quiet basement of 105 Pepper Street, on a bed big enough for an
 
 ## The Satellite Link
 
-### Scene 1: The Radford Protocol
+### Part 1: The Radford Protocol & The Cargo Bay
+
+#### The Radford Protocol
 
 The Saturday morning routine at "The Base" was usually a slow, deliberate boot sequence. Freddie would roll The Rover onto the TFL platform, descend to the "Bridge" (the basement), and join the twins for a server diagnostic or a round of Super Plumber Bros.
 
@@ -20760,7 +21176,9 @@ Harper sank into the floor, cackling with glee as she disappeared into the under
 
 The Avery Unit was back online.
 
-### Scene 2: The Holding Pattern
+***
+
+#### The Holding Pattern
 
 The basement was vibrating.
 
@@ -20856,7 +21274,9 @@ She realized she wasn't being rejected. She was being protected.
 
 "Initiating tour," Freddie said, spinning The Rover around. "Follow me."
 
-### Scene 3: The Cargo Bay
+***
+
+#### The Cargo Bay
 
 The migration to the "Bridge" began.
 
@@ -20982,7 +21402,9 @@ She realized they were right. She wanted to be with them, but she didn't want to
 
 They began the ascent—Freddie and Harper taking turns on the TFL, the others filing up the stairs—leaving the Bridge silent and waiting for the night shift.
 
-### Scene 4: The Mess Hall
+### Part 2: The Mess Hall & The Transit Bible
+
+#### The Mess Hall
 
 The "Decoy" bedroom was left behind, its door clicked shut on a life they didn't live.
 
@@ -21092,7 +21514,9 @@ The satellites were in orbit. The core was stable.
 
 The system was finally, perfectly integrated.
 
-### Scene 5: The Supply Line
+***
+
+#### The Supply Line
 
 The garlic bread was decimated. The spaghetti bowl was empty. The "Mess Hall" protocol had been a resounding success.
 
@@ -21214,7 +21638,9 @@ Harper took the map. She folded it carefully and tucked it into the side pocket 
 
 The supply line was established. The Base was no longer an island; it was a Hub.
 
-### Scene 6: The Transit Bible
+***
+
+#### The Transit Bible
 
 The garlic bread was gone. The spaghetti bowl was empty. The "Mess Hall" (dining room) was littered with dirty napkins and empty sweet tea glasses.
 
@@ -21383,7 +21809,9 @@ Harper had her freedom (The Route 3 Shuttle). The twins had their safety (The Ad
 
 ## The Fishersville Protocol
 
-### Scene 1: The Last Supper
+### The Last Supper & Suite 200
+
+#### The Last Supper
 
 The silver Horizon Avalon sat in the gravel parking lot, its trunk heavy with Harper’s luggage. Inside the restaurant, the Avery Unit occupied a large corner booth.
 
@@ -21411,7 +21839,9 @@ Harper picked at a roll. She was wearing her favorite purple hoodie, the hood do
 
 They ate the pie. They drank the sweet tea. They delayed the inevitable for as long as they could, sitting in the warm, noisy restaurant, a family unit holding onto its satellite before the launch.
 
-### Scene 2: Barnett Hall
+***
+
+#### Barnett Hall
 
 The drive from the restaurant to the campus was short. They took Exit 222, winding past the hospital and up the hill to the rehabilitation center.
 
@@ -21445,7 +21875,9 @@ She handed Harper a key card and a packet of rules.
 
 "Right this way," the escort said. "Elevators are down the hall."
 
-### Scene 3: Suite 200
+***
+
+#### Suite 200
 
 They rode the elevator to the second floor. The escort led them down a wide hallway to a door marked 200.
 
@@ -21481,7 +21913,9 @@ Within twenty minutes, the sterile dorm room looked like a forward operating bas
 
 ## The Signal-to-Noise Ratio
 
-### Scene 1: The Circuit
+### The Circuit & The Midnight Threshold
+
+#### The Circuit
 
 The classroom smelled of ozone and hot flux. To Harper Avery, it smelled like potential.
 
@@ -21513,7 +21947,9 @@ Harper smiled. She felt like Freddie. She felt like she was part of the Machine.
 
 This, she thought, is the Signal.
 
-### Scene 2: The Shift Change
+***
+
+#### The Shift Change
 
 The Signal died the moment she walked out of the lab. The Static took over.
 
@@ -21545,7 +21981,9 @@ Adults are just tall teenagers, Harper realized with a sinking feeling. The dram
 
 She finished her food quickly. She didn't want to linger. She wanted to get back to the one place that was supposed to be safe.
 
-### Scene 3: The PERT Lounge
+***
+
+#### The PERT Lounge
 
 The PERT Lounge was designed to be a recreational space—a place with couches, a TV, and board games where the high schoolers could relax after a day of assessments.
 
@@ -21685,7 +22123,9 @@ Staff members rushed in, blowing whistles. "Everyone to your rooms! Now! Move!"
 
 Harper waited until the herd dispersed. She rolled out of her corner, shaking, and fled down the hallway to Suite 200.
 
-### Scene 4: The Carrier Wave
+***
+
+#### The Carrier Wave
 
 Harper slammed the door to her room. Her roommate, Kayla, wasn't there—she was probably still in the hall gossiping about the fight.
 
@@ -21755,7 +22195,9 @@ She lay back on the bed. She closed her eyes.
 
 She wasn't in Fishersville anymore. She was in the Unit.
 
-### Scene 5: The Countdown
+***
+
+#### The Countdown
 
 The week had been a gauntlet, but the "Freddie Protocol" had worked. Harper had worn her headphones like armor. She had eaten quickly. She had hidden in the library during free time.
 
@@ -21803,7 +22245,9 @@ She drew a large square. She wrote a number inside it.
 
 "System standby," Harper whispered. "Prepare for extraction."
 
-### Scene 6: The Midnight Threshold
+***
+
+#### The Midnight Threshold
 
 It was the final breakfast. The "Exit Protocol."
 
@@ -21841,7 +22285,9 @@ Four hours, she told herself. Just four hours until the Unit gets here.
 
 ## The Extraction
 
-### Scene 1: The Pickup
+### The Pickup & The Reunion
+
+#### The Pickup
 
 The silver Horizon Avalon pulled up to the curb outside Barnett Hall. The engine was idling with a familiar, low rumble that sounded like safety.
 
@@ -21881,7 +22327,9 @@ Harper let out a long, shuddering breath. She ripped the headphones off her neck
 
 "I am never," Harper whispered, "ever going back there."
 
-### Scene 2: The Debrief
+***
+
+#### The Debrief
 
 The car was quiet. The hum of the tires on the highway was the only sound for twenty miles.
 
@@ -21951,7 +22399,9 @@ He squeezed her knee.
 
 "Exactly," Harper nodded. "Take me to the bunker."
 
-### Scene 3: The Reunion
+***
+
+#### The Reunion
 
 The silver Avalon pulled into the driveway.
 
@@ -22063,7 +22513,9 @@ The Base was secure. The Satellite was docked. And outside, the world could be a
 
 ## The Closed Circuit
 
-### Scene 1: The Intruder
+### The Intruder & The Exception
+
+#### The Intruder
 
 The pizza delivery car pulled into the driveway, its headlights sweeping across the living room window.
 
@@ -22123,7 +22575,9 @@ She tightened her grip on his shoulders.
 
 "Except you," she whispered. "You don't grab. You hold."
 
-### Scene 2: The Emergency Brake
+***
+
+#### The Emergency Brake
 
 They ate the pizza in the living room, picnicking on the floor. Or rather, the sisters ate on the floor.
 
@@ -22179,7 +22633,9 @@ Harper let out a long breath. Her shoulders dropped. The tension that had been h
 
 "Thanks, Captain," she whispered.
 
-### Scene 3: The Exception
+***
+
+#### The Exception
 
 The house was winding down. The younger twins, Amanda and Elara, were asleep on air mattresses in the living room upstairs (the "Overflow Protocol").
 

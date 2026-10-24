@@ -6,7 +6,7 @@ title: "Upon This Winter's Night: The Story of Julian Rowlands"
 
 ## Foreign Language
 
-### Scene 1: The 8th Grade IEP Meeting
+### The 8th Grade IEP Meeting
 
 **Date:** 1996-04-17 at 14:00 America/New_York
 
@@ -70,9 +70,11 @@ Richard smiled proudly, looking at his daughters and the boy they protected. "It
 
 ## The Empty Frame
 
-### Scene 1: The Breach
+### The Breach & The Garrison
 
 **Date:** 1996-12-11 at 08:00 America/New_York
+
+#### 8:00 AM • Eira Rowlands — The Breach
 
 The cold December wind howling off the Virginia peninsula usually meant one thing in the Cross household: it was time to lock the deadbolts, turn up the baseboard heaters, and settle into the absolute, predictable routine that kept Julian safe.
 
@@ -130,9 +132,9 @@ Gabriel gripped the plastic receiver so hard it groaned. "My brother has just be
 
 The monster had broken through their perimeter, and the quiet, festive winter they had promised Julian was entirely, devastatingly gone.
 
-### Scene 2: The Beacon
+***
 
-**Date:** 1996-12-11 at 08:05 America/New_York
+#### 8:05 AM • Gabriel Rowlands — The Beacon
 
 Gabriel slammed the heavy plastic receiver of the wall phone back into its cradle. The sharp clack echoed like a gunshot in the freezing living room.
 
@@ -178,9 +180,9 @@ Gwendolyn sat down on the wooden piano bench. Her hands hovered over the black a
 
 Gwendolyn pressed her fingers into the highest octave of the piano, playing a fragile, plinking, delicate melody that sounded exactly like a child's wind-up toy. It was the quiet, desperate genesis of a rock opera, and the exact moment Upon This Winter's Night was born into the freezing Virginia air.
 
-### Scene 3: The Winter Palace
+***
 
-**Date:** 1996-12-11 at 08:20 America/New_York
+#### 8:20 AM • Gwendolyn Rowlands — The Winter Palace
 
 The heavy, suffocating silence of the living room was finally broken by movement.
 
@@ -224,9 +226,9 @@ Gwendolyn hovered her fingers over the high keys of the piano, perfectly matchin
 
 "And then," Gabriel growled, his hand gripping the neck of his acoustic guitar with bone-crushing force, "we bring the storm."
 
-### Scene 4: The Garrison
+***
 
-**Date:** 1996-12-11 at 08:45 America/New_York
+#### 8:45 AM • Gabriel Rowlands — The Garrison
 
 Gabriel watched his twin's fingers ghost over the keys. The fragile, mechanical melody of the wind-up toy spun down, its tiny brass gears slowing to a halt. Gwendolyn instantly picked up the exact pitch on the upright piano, letting the pristine, fragile notes hang in the freezing air of the living room.
 
@@ -274,9 +276,11 @@ Gabriel punched the numbers into the keypad with rigid, determined strikes. They
 
 ## The War Room
 
-### Scene 1: The Reinforcements
+### Part 1: The Reinforcements & The Makeshift Orchestra
 
 **Date:** 1996-12-11 at 09:30 America/New_York
+
+#### 9:30 AM • Gwendolyn Rowlands — The Reinforcements
 
 The gravel driveway of the Cross property crunched loudly under the heavy, worn tires of a battered transit van.
 
@@ -326,9 +330,9 @@ Sarah tightened her grip on her cello bow, her eyes blazing with unwavering soli
 
 The garrison was armed. The recording light clicked to a bright, violent red.
 
-### Scene 2: The Wall of Sound
+***
 
-**Date:** 1996-12-11 at 09:45 America/New_York
+#### 9:45 AM • Gabriel Rowlands — The Wall of Sound
 
 The spare room was suffocatingly hot, smelling of ozone, dust, and raw, unfiltered panic.
 
@@ -384,9 +388,9 @@ Gwendolyn stood up from her keyboard, a fierce, desperate fire burning in her ey
 
 Gabriel grabbed the plastic receiver of the kitchen phone. He was eighteen, broke, and absolutely terrified. But as he began dialing numbers, preparing to turn their quiet Virginia home into a chaotic, crowded war room, he knew one thing for certain: the Harrison twins were going to drop everything and tear the world apart to save their best friend, and Gabriel was going to get his brother back, no matter how loud he had to scream to do it.
 
-### Scene 3: The Makeshift Orchestra
+***
 
-**Date:** 1996-12-11 at 10:15 America/New_York
+#### 10:15 AM • Gwendolyn Rowlands — The Makeshift Orchestra
 
 Gabriel stood by the frosted front window, his chest tight, watching the driveway. The quiet, residential street in Ewell was suddenly transforming into a chaotic staging ground.
 
@@ -444,7 +448,7 @@ The house immediately exploded into chaotic, focused motion. Microphones were dr
 
 Gabriel strapped his electric guitar back across his chest, the heavy weight of it feeling like armor. He looked at the sheet of lyrics, picturing the freezing, desolate miles of the interstate. He was going to sing so loudly that the sheer force of it would shatter the windows of his father's car.
 
-### Scene 4: The Prayer
+### Part 2: The Prayer
 
 **Date:** 1996-12-11 at 11:15 America/New_York
 
@@ -504,9 +508,11 @@ Turn on the radio, Tom, Gabriel prayed silently, his foot pressing harder on the
 
 ## The Signal
 
-### Scene 1: The Override
+### Part 1: The Override & The Near Miss
 
 **Date:** 1996-12-11 at 11:45 America/New_York
+
+#### 11:45 AM • Richard Harrison — The Override
 
 Gabriel’s battered sedan slid violently into the VIP parking lot of the regional broadcasting hub, the tires protesting sharply against the frozen asphalt.
 
@@ -566,9 +572,9 @@ And then, Gabriel’s heavy, distorted guitar and Sarah’s dark, driving cello 
 
 Upon This Winter's Night had officially been unleashed.
 
-### Scene 2: Lost City
+***
 
-**Date:** 1996-12-11 at 12:04 America/New_York
+#### 12:04 PM • Julian Rowlands — Lost City
 
 The heater in the stolen sedan was broken, blowing a pathetic, lukewarm draft against the freezing vinyl of the back seat.
 
@@ -602,9 +608,9 @@ Static hissed through the cheap car speakers, followed by the mid-day broadcast 
 
 Julian squeezed his eyes shut, his breathing turning rapid and shallow, completely unaware that his older brother was currently speeding down a Virginia highway with a cassette tape that was about to hijack the very airwaves currently filling the car.
 
-### Scene 3: The Near Miss
+***
 
-**Date:** 1996-12-11 at 12:15 America/New_York
+#### 12:15 PM • Eira Rowlands — The Near Miss
 
 The glowing red light on the mixing console clicked off. The broadcast was out in the wild, bleeding across the Virginia state lines, carried by invisible radio waves into the freezing mountain air.
 
@@ -670,9 +676,11 @@ Gabriel looked over at the mixing console, where the audio meters for Upon This 
 
 He slammed the receiver down. The beacon was the only weapon they had left.
 
-### Scene 4: The Hijack
+### Part 2: The Hijack & The Longest Shadow
 
 **Date:** 1996-12-11 at 12:20 America/New_York
+
+#### 12:20 PM • Julian Rowlands — The Hijack
 
 The heavy tires of the sedan crunched over the frozen gravel of the shoulder, throwing a spray of dirty slush as Tom aggressively merged back onto the two-lane West Virginia highway.
 
@@ -746,9 +754,9 @@ And miles behind them, in a dispatch center across the Virginia state line, the 
 
 Tom didn't know it yet as he sped deeper into the West Virginia interior, but the speeding ticket in his lap was no longer his biggest problem. The Critical Missing Child Bulletin had just officially hit the NCIC wire, and the net was rapidly closing.
 
-### Scene 5: The Escalation
+***
 
-**Date:** 1996-12-11 at 13:15 America/New_York
+#### 1:15 PM • Gabriel Rowlands — The Escalation
 
 Gabriel’s battered sedan slid into the driveway of the Ewell house, the engine ticking as he cut the ignition. He didn't move immediately. He just sat behind the steering wheel, his hands still gripping the worn plastic rim, listening to the car speakers.
 
@@ -812,9 +820,9 @@ But as Gabriel sank into the dining chair, staring blindly out the frosted windo
 
 Julian was alone in the freezing, jagged wilderness of West Virginia. And until the flashing lights found Tom's car, the only thing keeping his little brother tethered to the world was the sound of a fragile music box playing through the radio static.
 
-### Scene 6: The Longest Shadow
+***
 
-**Date:** 1996-12-11 at 18:00 America/New_York
+#### 6:00 PM • Eira Rowlands — The Longest Shadow
 
 By six o'clock, the winter sun had completely surrendered, plunging James City County into a bitter, freezing night.
 
@@ -854,9 +862,11 @@ But as the mantel clock ticked forward into the seventh hour of the abduction, t
 
 ## The Ohio Line
 
-### Scene 1: The Waiting Game
+### Part 1: The Waiting Game & The Silent Alarm
 
 **Date:** 1996-12-11 at 19:00 America/New_York
+
+#### 7:00 PM • Gwendolyn Rowlands — The Waiting Game
 
 By seven o'clock in the evening, the sun had been dead and gone for hours, plunging the Virginia peninsula into a bitter, freezing dark.
 
@@ -914,9 +924,9 @@ Gabriel closed his eyes as the delicate notes of Wiegenlied filled the living ro
 
 All he could do was sit in the heavy, agonizing silence with his family, desperately waiting for the phone to ring, praying that the Northern Star they had broadcasted into the dark was bright enough to guide his brother home.
 
-### Scene 2: The Breaking Point
+***
 
-**Date:** 1996-12-11 at 19:05 America/New_York
+#### 7:05 PM • Julian Rowlands — The Breaking Point
 
 The dashboard clock glowed a faint, sickly green in the pitch-black cabin of the sedan. It was exactly seven o'clock in the evening, and the rugged, jagged spine of West Virginia had finally given way to the dense, freezing forests of southern Ohio.
 
@@ -958,9 +968,9 @@ Through the dark, a tall, flickering sign approached on the right shoulder, adve
 
 Tom pulled the sedan into the empty, poorly lit lot of the dilapidated gas station, killing the engine under the flickering canopy. He had no idea that the total silence of his car radio was the only thing keeping him ignorant of the massive net rapidly closing in around him.
 
-### Scene 3: The Silent Alarm
+***
 
-**Date:** 1996-12-11 at 19:15 America/New_York
+#### 7:15 PM • Julian Rowlands — The Silent Alarm
 
 The harsh, metallic clack of the driver’s side door opening let in a violent rush of freezing Ohio air. Julian shivered instantly, his thin shirt offering absolutely zero protection against the biting winter wind.
 
@@ -1024,9 +1034,11 @@ Tom thought he had covered it up. Tom thought he had won.
 
 But Julian had seen the clerk's eyes change. The clerk hadn't seen a boy having a tantrum. The clerk had seen a hostage. The silent alarm had been pulled, and for the first time since the abduction began, Julian knew someone else was finally watching.
 
-### Scene 4: The 9-1-1 Call
+### Part 2: The 9-1-1 Call & The Vector
 
 **Date:** 1996-12-11 at 19:18 America/New_York
+
+#### 7:18 PM • Toby — The 9-1-1 Call
 
 The bell above the gas station door chimed merrily as the heavy glass swung shut, completely at odds with the violent, chaotic energy that had just vacated the store.
 
@@ -1084,9 +1096,9 @@ Toby hung up the phone. He stood in the quiet gas station, staring at the scatte
 
 Miles away, slicing through the freezing, heavily forested darkness of the Ohio highway, Tom thought he had escaped. He thought he was invisible. But because a fourteen-year-old boy had fought through his own terrifying neurological overload just long enough to lock eyes with a stranger, the invisible federal net had just snapped violently shut directly in front of their car.
 
-### Scene 5: The Tape
+***
 
-**Date:** 1996-12-11 at 19:35 America/New_York
+#### 7:35 PM • Trooper Vance — The Tape
 
 For twenty agonizing minutes, Toby stood behind the laminate counter of the gas station, jumping every time the industrial hum of the beverage coolers cycled on. He hadn't touched the spilled bags of potato chips in aisle two. He felt like he wasn't supposed to disturb a crime scene, though he still wasn't entirely sure what kind of crime he had just witnessed.
 
@@ -1148,9 +1160,9 @@ Vance looked at Toby, offering a single, definitive nod of respect. "You just sa
 
 Vance turned on his heel and sprinted out of the back office, the automatic doors chiming one last time as he bolted for his cruiser. Out on US-33, Tom Cross was desperately checking his speedometer, completely unaware that because of a convenience store clerk, the entire Ohio State Highway Patrol was now mobilizing to build a wall across the highway.
 
-### Scene 6: The Ghost Exit
+***
 
-**Date:** 1996-12-11 at 19:45 America/New_York
+#### 7:45 PM • Julian Rowlands — The Ghost Exit
 
 The four lanes of US-33 stretched out like a long, black ribbon cutting through the dense, freezing forests of the Hocking Hills corridor. There were no streetlights out here, only the hypnotic, rhythmic flash of the reflectors passing under the sedan’s headlights.
 
@@ -1192,9 +1204,9 @@ He saw me, Julian repeated in his mind, clinging to the memory of Toby the clerk
 
 Tom had bought them some time by disappearing into the backwoods, plunging them completely off the grid. But the Ohio State Police now had a confirmed sighting, a confirmed vehicle, and a confirmed direction of travel. The invisible net was still out there—and Julian knew it was only a matter of time before they hit the edge of it.
 
-### Scene 7: The Vector
+***
 
-**Date:** 1996-12-11 at 20:00 America/New_York
+#### 8:00 PM • Trooper Vance — The Vector
 
 On the westbound lanes of US-33, the trap was perfectly set, but the highway was entirely, agonizingly empty.
 
@@ -1274,9 +1286,11 @@ Julian looked up, his wide, tear-streaked eyes meeting the trooper's. The boy le
 
 "Pop the trunk!" Vance ordered the troopers behind him. "The BOLO said he needs a manual wheelchair. Find it!"
 
-### Scene 8: The Wall
+### Part 3: The Wall & The Anchor
 
 **Date:** 1996-12-11 at 20:15 America/New_York
+
+#### 8:15 PM • Julian Rowlands — The Wall
 
 The radio clipped to Trooper Vance’s shoulder crackled, breaking the heavy, freezing silence of the US-33 barricade.
 
@@ -1382,9 +1396,9 @@ As Vance reached in to carefully lift Julian out of the wreckage, the wail of ap
 
 Julian was going home.
 
-### Scene 9: The Anchor
+***
 
-**Date:** 1996-12-11 at 20:30 America/New_York
+#### 8:30 PM • Gabriel Rowlands — The Anchor
 
 The battery-powered radio was still buzzing with low static when the kitchen wall phone finally screamed.
 
@@ -1460,9 +1474,11 @@ They were going to Ohio.
 
 ## The Long Dark
 
-### Scene 1: The Midnight Relay
+### Part 1: The Midnight Relay & The Red Tape
 
 **Date:** 1996-12-12 at 00:15 America/New_York
+
+#### 12:15 AM • Richard Harrison — The Midnight Relay
 
 The eight-hour drive from the Virginia coast to the jagged, frozen foothills of Athens County, Ohio, was not a road trip. It was a grueling, desperately mobilized convoy.
 
@@ -1492,9 +1508,9 @@ Gabriel sat forward, resting his forearms on the back of the front seats. The la
 
 At 8:15 AM, the convoy pulled off the highway and navigated through the sleepy, frozen streets of Athens.
 
-### Scene 2: The Red Tape
+***
 
-**Date:** 1996-12-12 at 08:30 America/New_York
+#### 8:30 AM • Eira Rowlands — The Red Tape
 
 The Athens County Regional Medical Center was a sprawling, brutalist concrete structure sitting on the edge of town.
 
@@ -1542,9 +1558,11 @@ Brenda looked at the legal folder sitting on the desk, then at the exhausted, un
 
 "Follow me," Brenda said, swiping her badge against the secure double doors. "He's in Trauma Room Four."
 
-### Scene 3: Trauma Room 4
+### Part 2: Trauma Room 4 & The Severed Tie
 
 **Date:** 1996-12-12 at 08:45 America/New_York
+
+#### 8:45 AM • Gabriel Rowlands — Trauma Room 4
 
 Brenda pushed open the heavy wooden door to Trauma Room 4, stepping aside to let the family enter.
 
@@ -1674,9 +1692,9 @@ Gabriel nodded, a fierce, genuine smile finally breaking across his face. "I'm o
 
 He turned and bolted out of Trauma Room 4, his boots hitting the linoleum with the heavy, purposeful stride of a brother who was finally, officially, bringing his family home.
 
-### Scene 4: The Legacy
+***
 
-**Date:** 1996-12-12 at 09:00 America/New_York
+#### 9:00 AM • Gwendolyn Rowlands — The Legacy
 
 "Legal custody is fully returned to you, Mrs. Cross," Brenda said, offering a warm, relieved smile as she handed over the clipboard for a final signature.
 
@@ -1728,9 +1746,9 @@ Julian’s tense shoulders dropped. The panic evaporated. He looked down at his 
 
 Gabriel turned on his heel and sprinted through the double doors, leaving the name Cross completely behind him in the dust.
 
-### Scene 5: The Severed Tie
+***
 
-**Date:** 1996-12-12 at 09:15 America/New_York
+#### 9:15 AM • Eira Rowlands — The Severed Tie
 
 The squeak of the manual wheelchair tires against the highly polished hospital linoleum was the best sound Gabriel had ever heard.
 
@@ -1808,9 +1826,11 @@ The freezing Ohio morning air hit them instantly, sharp and biting, but for the 
 
 Gabriel looked down at his brother, safely wrapped in his coat and blanket, holding tightly to his best friends as they moved forward into the sunlight. The long dark was officially over.
 
-### Scene 6: The Loose Ends
+### Part 3: The Loose Ends & The Perimeter Secured
 
 **Date:** 1996-12-12 at 09:30 America/New_York
+
+#### 9:30 AM • Richard Harrison — The Loose Ends
 
 The freezing Ohio wind whipped across the concrete drop-off lane of the hospital, biting through Gabriel’s denim jacket, but he didn't care. The sky was an overcast, slate gray, yet it felt infinitely brighter than the suffocating darkness of the night before.
 
@@ -1870,9 +1890,9 @@ Gabriel climbed into the front passenger seat, pulling his seatbelt across his c
 
 Eira shifted the van into drive and pulled away from the hospital curb, merging onto the highway and turning the wheel east. They were leaving the dark behind. They were going home.
 
-### Scene 7: The Journey East
+***
 
-**Date:** 1996-12-12 at 10:00 America/New_York
+#### 10:00 AM • Julian Rowlands — The Journey East
 
 The logistics of the return trip were entirely dictated by Julian's fragile nervous system.
 
@@ -1932,9 +1952,9 @@ Julian typed one more phrase, his fingers moving with absolute, definitive certa
 
 "Yes, you are," Eira said, unbuckling her seatbelt and turning around to look at her son. Her eyes were bright with unshed tears, but her voice was steady and victorious. "Let's go inside."
 
-### Scene 8: The Perimeter Secured
+***
 
-**Date:** 1996-12-12 at 19:30 America/New_York
+#### 7:30 PM • Gabriel Rowlands — The Perimeter Secured
 
 Stepping through the front door of the Ewell house felt like crossing the threshold into another dimension. The bitter, freezing wind of the Ohio highway and the sterile, chaotic buzz of the trauma ward were instantly severed the moment the heavy wooden door clicked shut behind them.
 
@@ -1982,9 +2002,11 @@ The long dark was over. The Rowlands family was home, the doors were locked, and
 
 ## The Winter Palace
 
-### Scene 1: The Echo
+### Part 1: The Echo & The Perimeter Holds
 
 **Date:** 1996-12-14 at 14:00 America/New_York
+
+#### 2:00 PM • Gabriel Rowlands — The Echo
 
 The house in Ewell had finally, fundamentally, exhaled.
 
@@ -2046,9 +2068,9 @@ They had fought a monster in the dark, and they had won. And now, the rest of th
 
 "Tuesday," Gabriel said, a fierce, confident spark igniting in his chest. He reached over and flipped the power switch on his amplifier back on, the heavy electric hum filling the room once again. "Alright, Palace. We have three days to get this mix perfect for the boss."
 
-### Scene 2: The Hearth
+***
 
-**Date:** 1996-12-14 at 16:00 America/New_York
+#### 4:00 PM • Gwendolyn Rowlands — The Hearth
 
 The living room of the house in Ewell had been completely reconfigured. The armchairs were pushed back, and the heavy coffee table was shifted to the side, opening up the sightlines across the entire first floor.
 
@@ -2092,9 +2114,9 @@ On the sofa, Maria translated the rapid-fire idea to Julian with a gentle squeez
 
 The dark road in West Virginia was entirely behind them. They were safe, they were together, and The Winter Palace was officially preparing to go global.
 
-### Scene 3: The Perimeter Holds
+***
 
-**Date:** 1996-12-14 at 18:00 America/New_York
+#### 6:00 PM • Eira Rowlands — The Perimeter Holds
 
 By six o'clock, the frantic, mobilized energy of the afternoon had completely burned off, leaving behind the heavy, bone-deep exhaustion of a family that had spent the last three days running on pure adrenaline.
 
@@ -2170,9 +2192,11 @@ Richard didn't hesitate. He looked at Eira, recognizing the profound trust she w
 
 On the sofa, Gabriel met Gwendolyn's eyes. The frontline was secure, the garrison was fully staffed, and for the first time in three days, the house in Ewell finally felt like a home again.
 
-### Scene 4: The Blended Table
+### Part 2: The Blended Table & The Open Doors
 
 **Date:** 1996-12-14 at 19:00 America/New_York
+
+#### 7:00 PM • Richard Harrison — The Blended Table
 
 The smell of sizzling butter and rich, simmering tomatoes completely transformed the atmosphere of the house in Ewell. It pushed out the lingering, sterile chill of the Ohio hospital and replaced it with the heavy, undeniable warmth of home.
 
@@ -2214,9 +2238,9 @@ Julian leaned his head against Maria's shoulder again, closing his eyes as he ch
 
 Here, at a crowded dining table in Ewell, surrounded by three languages, grilled cheese sandwiches, and an unbreakable garrison of protectors, Julian was finally, truly home.
 
-### Scene 5: The Open Doors
+***
 
-**Date:** 1996-12-14 at 21:00 America/New_York
+#### 9:00 PM • Julian Rowlands — The Open Doors
 
 By nine o'clock, the exhaustion in the Ewell house had shifted from a dull ache to a heavy, gravitational pull. The adrenaline was completely gone, leaving behind the quiet, practical necessities of the bedtime routine.
 
@@ -2282,9 +2306,11 @@ He was safe. He was home. And his best friend had him.
 
 ## The Perimeter
 
-### Scene 1: The Sunday Vultures
+### The Sunday Vultures & The Safe Harbor
 
 **Date:** 1996-12-15 at 09:00 America/New_York
+
+#### 9:00 AM • Gabriel Rowlands — The Sunday Vultures
 
 Sunday morning in the Ewell house was a profound, quiet sanctuary.
 
@@ -2378,9 +2404,9 @@ Gabriel finally let his rigid posture drop. A small, victorious smirk touched th
 
 Together, the frontline shield and the tactical anchor turned their backs on the street and walked back into the quiet, heavily defended sanctuary of the house in Ewell.
 
-### Scene 2: The Safe Harbor
+***
 
-**Date:** 1996-12-15 at 09:45 America/New_York
+#### 9:45 AM • Eira Rowlands — The Safe Harbor
 
 The heavy winter sunlight pushed its way through the partially opened blinds of Julian’s bedroom, casting bright, geometric lines across the carpet.
 
@@ -2448,9 +2474,11 @@ The robotic voice echoed through the kitchen, lacking any human inflection, but 
 
 ## The Paper Shield
 
-### Scene 1: The Blue Line
+### The Blue Line & The Exposed Aggregate
 
 **Date:** 1996-12-16 at 07:45 America/New_York
+
+#### 7:45 AM • Gwendolyn Rowlands — The Blue Line
 
 The heavy, accessible wheelchair van pulled out of the driveway in Ewell, its tires crunching over the frost-covered asphalt as Gabriel steered it toward US-60.
 
@@ -2512,9 +2540,9 @@ Inside the warm, secure cabin, Richard reached out and turned the radio dial, fi
 
 The frontline was secure. Now, it was up to Eira and Gwendolyn to sever the final, legal chain binding them to Thomas Cross.
 
-### Scene 2: The Marble Halls
+***
 
-**Date:** 1996-12-16 at 08:15 America/New_York
+#### 8:15 AM • Eira Rowlands — The Marble Halls
 
 The Williamsburg Circuit Court was a towering fortress of red brick, heavy oak doors, and echoing marble floors.
 
@@ -2602,9 +2630,9 @@ Julian looked down at his AAC device, completely ignoring the judge and the cler
 
 They had walked into the courthouse carrying the heavy, traumatizing shadow of their father. But as they turned their backs on the judge and walked out through the heavy oak doors, they left the monster completely behind them.
 
-### Scene 3: The Ink Dries
+***
 
-**Date:** 1996-12-16 at 09:30 America/New_York
+#### 9:30 AM • Gabriel Rowlands — The Ink Dries
 
 The heavy wheelchair van idled in the visitor parking lot of the local high school.
 
@@ -2648,9 +2676,9 @@ Gabriel gripped the steering wheel. He understood exactly what his brother neede
 
 "The Parkway," Gabriel answered, steering the heavy van away from the commercial sprawl of the highway. "We're going to take it all the way from Jamestown to Yorktown."
 
-### Scene 4: The Exposed Aggregate
+***
 
-**Date:** 1996-12-16 at 10:15 America/New_York
+#### 10:15 AM • Julian Rowlands — The Exposed Aggregate
 
 The Colonial Parkway was a twenty-three-mile stretch of historical, National Park Service roadway that connected the Historic Triangle. It was completely devoid of commercial trucks, billboards, and stoplights.
 
@@ -2682,7 +2710,7 @@ The perimeter was moving with him.
 
 ## The Playback
 
-### Scene 1: The Playback
+### The Playback
 
 **Date:** 1996-12-17 at 15:00 America/New_York
 
@@ -2760,9 +2788,11 @@ Gabriel turned back to the executive and extended his hand.
 
 ## The Master Track
 
-### Scene 1: The Soundstage
+### Part 1: The Soundstage & The Language Barrier
 
 **Date:** 1996-12-20 at 14:00 America/New_York
+
+#### 2:00 PM • Gabriel Rowlands — The Soundstage
 
 The final bell of the fall semester had rung at noon, releasing the students of James City County for an agonizingly anticipated winter break. But for the newly minted Rowlands family and their garrison, the half-day of school didn't mean going home to relax. It meant loading into the wheelchair van and driving an hour up I-64 to Richmond.
 
@@ -2800,9 +2830,9 @@ Elias Thorne didn't look at the band. He turned his head slowly to look at his t
 
 "I told you," Elias said quietly, letting the silence hold the weight of the moment. "It's an anthem."
 
-### Scene 2: The Language Barrier
+***
 
-**Date:** 1996-12-20 at 14:30 America/New_York
+#### 2:30 PM • Gwendolyn Rowlands — The Language Barrier
 
 "It's an incredible foundation," Elias said, turning his calculating gaze from the massive analog mixing console to Gabriel and Gwendolyn. "Now, we build Draft Three. We have the live string section booked for tomorrow, and the choir coming in on Monday. But before we lay down the scratch tracks, we need to finalize the vocal arrangement."
 
@@ -2858,9 +2888,11 @@ Gabriel looked at Gwendolyn. They shared a single, synchronized nod. They would 
 
 "I wouldn't let you if you tried," Elias promised, his predatory smile returning. "Get your guitars, Gabriel. Let's build Draft Three."
 
-### Scene 3: Laying the Groundwork
+### Part 2: Laying the Groundwork & The Night Watch
 
 **Date:** 1996-12-20 at 15:15 America/New_York
+
+#### 3:15 PM • Gabriel Rowlands — Laying the Groundwork
 
 The transition from the control room to the live tracking floor was electric.
 
@@ -2942,9 +2974,9 @@ Gwendolyn looked at the A&R executive, a fierce, protective pride shining in her
 
 "Like we told you, Elias," Gwendolyn said softly, tapping her notebook against the desk. "We aren't pulling any punches."
 
-### Scene 4: The Safe Harbor
+***
 
-**Date:** 1996-12-20 at 19:00 America/New_York
+#### 7:00 PM • Gabriel Rowlands — The Safe Harbor
 
 The contrast between the multi-million-dollar acoustic engineering of the Vanguard Horizon studio and the cramped, carpeted spare room of the Ewell house could not have been more extreme. There was no forty-eight-channel mixing board here, and no pristine, isolated drum booths. There was only a battered four-track cassette deck, a tangle of heavy black cables, and the ambient hum of a residential baseboard heater.
 
@@ -2990,9 +3022,9 @@ The English version of the song would go to the radio. It would belong to Elias 
 
 But this version—Ar Noson y Gaeaf Hon—was Julian’s. It was a sonic medical intervention, captured on cheap magnetic tape, proving with absolute certainty that he was safe.
 
-### Scene 5: The Foundation
+***
 
-**Date:** 1996-12-20 at 19:30 America/New_York
+#### 7:30 PM • Gwendolyn Rowlands — The Foundation
 
 While the muffled, acoustic chords and Gabriel's soaring Welsh baritone vibrated softly through the drywall of the spare room, a completely different kind of reconstruction was happening at the other end of the house.
 
@@ -3048,9 +3080,9 @@ Richard set his tea down next to hers on the dresser. He reached out, covering h
 
 Down the hall, the muffled, soaring cadence of Gabriel singing the final Welsh chorus of Ar Noson y Gaeaf Hon echoed through the drywall, perfectly sealing the perimeter of the newly forged Rowlands-Harrison family.
 
-### Scene 6: The Night Watch
+***
 
-**Date:** 1996-12-20 at 22:00 America/New_York
+#### 10:00 PM • Eira Rowlands — The Night Watch
 
 Before the heavy exhaustion of the day could completely shut them down, the four teenagers managed to lay down a rough, foundational draft of the French track, En Cette Nuit d'Hiver.
 
@@ -3094,9 +3126,11 @@ Richard pulled her a little closer, kissing the top of her head. He thought abou
 
 ## The Quiet Réveillon
 
-### Scene 1: The Stanstead Shipment
+### Part 1: The Stanstead Shipment & The Hybrid Tradition
 
 **Date:** 1996-12-24 at 18:00 America/New_York
+
+#### 6:00 PM • Maria Harrison — The Stanstead Shipment
 
 Traditionally, a French-Canadian Réveillon is a massive, raucous affair. It is a holiday feast that begins strictly at midnight after Christmas Eve Mass, continuing well into the early hours of the morning with loud music, clinking glasses, and a chaotic, sprawling extended family.
 
@@ -3156,9 +3190,9 @@ Julian closed his eyes, letting out a long, highly vocal sigh of absolute, unadu
 
 Outside, the bitter Virginia wind rattled the frosted windowpanes, but it didn't matter. The monster was gone, the doors were locked, the table was full, and Julian Rowlands was exactly where he belonged.
 
-### Scene 2: The Hybrid Tradition
+***
 
-**Date:** 1996-12-24 at 19:15 America/New_York
+#### 7:15 PM • Julian Rowlands — The Hybrid Tradition
 
 By a quarter past seven, the remnants of the tourtière and the imported Stanstead poutine had been cleared away. The family migrated from the dining table to the living room, maintaining the quiet, strictly regulated sensory environment.
 
@@ -3220,7 +3254,7 @@ Richard watched his daughter and the boy she protected, a profound sense of peac
 
 The rest of the gifts would wait until the sun came up. Tonight, the only thing that mattered was the warm, trilingual sanctuary they had built, and the beautiful, unbroken silence of a family finally at rest.
 
-### Scene 3: The Family Mix
+### Part 2: The Family Mix
 
 **Date:** 1996-12-24 at 20:30 America/New_York
 
@@ -3290,9 +3324,11 @@ Julian let out a happy, rhythmic vocalization, pulling his heavy isolation headp
 
 ## The Substitute
 
-### Scene 1: The Breach
+### The Breach & The Transit Loop
 
 **Date:** 1997-03-18 at 10:15 America/New_York
+
+#### 10:15 AM — The Breach
 
 Freshman English Literature was, by its very nature, a daily exercise in survival for Julian Rowlands.
 
@@ -3378,9 +3414,9 @@ Clara and Maria leaned in, identical, relieved smiles spreading across their fac
 
 "Me too, Julep. Me too," they whispered back in perfect unison.
 
-### Scene 2: The Mother Tongue
+***
 
-**Date:** 1997-03-18 at 10:25 America/New_York
+#### 10:25 AM — The Mother Tongue
 
 The heavy classroom door remained firmly shut, separating Kevin and his disciplinary referral from the rest of the freshman English class.
 
@@ -3504,9 +3540,9 @@ But as the freshman class packed up their bags, no one was talking about the Eng
 
 They were all talking, and trying to pronounce, the incredible, ancient language that belonged to the quiet boy in the back row.
 
-### Scene 3: The Transit Loop
+***
 
-**Date:** 1997-03-18 at 14:45 America/New_York
+#### 2:45 PM — The Transit Loop
 
 When the final bell of the day rang, James City County High School erupted into a chaotic, echoing bottleneck of slamming lockers and shouting teenagers.
 
@@ -3582,9 +3618,11 @@ It was only a five-minute ride back to their neighborhood. It was a short, perfe
 
 ## Outbound
 
-### Scene 1: The I-64 Corridor
+### Part 1: The I-64 Corridor & The Ascent
 
 **Date:** 1998-08-02 at 10:00 America/New_York
+
+#### 10:00 AM • Gwendolyn Rowlands — The I-64 Corridor
 
 August in the Virginia tidewater is not just a season; it is a physical, suffocating weight. The morning air outside the Ewell house was thick with a sweltering, 90-degree humidity that made the horizon shimmer over the asphalt.
 
@@ -3624,9 +3662,9 @@ Gabriel sat forward in the back row, his posture instantly straightening. Gwendo
 
 The perimeter was locked. The garrison was officially deploying.
 
-### Scene 2: The Pre-Clearance
+***
 
-**Date:** 1998-08-02 at 10:30 America/New_York
+#### 10:30 AM • Eira Rowlands — The Pre-Clearance
 
 The automatic sliding doors of Richmond International Airport parted, and the Rowlands-Harrison garrison stepped out of the suffocating, 90-degree Virginia heat and into the echoing, air-conditioned expanse of the departure terminal.
 
@@ -3684,9 +3722,9 @@ Julian looked down at the neon tag. To anyone else in the airport, it was just a
 
 Julian squeezed Maria and Clara's hands. The perimeter moved forward.
 
-### Scene 3: The Checkpoint
+***
 
-**Date:** 1998-08-02 at 10:45 America/New_York
+#### 10:45 AM • Gabriel Rowlands — The Checkpoint
 
 Airport security was a loud, clattering bottleneck of private security contractors, rattling plastic bins, and the monotonous, electronic beep of the walk-through magnetometers.
 
@@ -3750,9 +3788,9 @@ Eira stood beside Richard, looking out at the aircraft, her eyes shining with un
 
 Next stop: New York. And then, the Menai Strait.
 
-### Scene 4: The Ascent
+***
 
-**Date:** 1998-08-02 at 11:30 America/New_York
+#### 11:30 AM • Julian Rowlands — The Ascent
 
 The transition from the customized wheelchair into the narrow, fabric-upholstered airline seat was handled with the same frictionless, military precision the family applied to everything else.
 
@@ -3800,9 +3838,11 @@ He wasn't flying into the terrifying unknown with a man who refused to learn his
 
 The flight to New York’s JFK airport was a quick, ninety-minute hop up the eastern seaboard. It was just enough time for Julian's nervous system to completely reset before they had to face the ultimate, chaotic gauntlet of the international transfer terminal.
 
-### Scene 5: The Hub
+### Part 2: The Hub & The Red-Eye
 
 **Date:** 1998-08-02 at 13:00 America/New_York
+
+#### 1:00 PM • Gwendolyn Rowlands — The Hub
 
 The wheels of the twin-engine jet hit the tarmac at John F. Kennedy International Airport with a heavy, shuddering thud, the thrust reversers roaring as the aircraft rapidly decelerated.
 
@@ -3888,9 +3928,9 @@ Julian looked out the window at the jet. He reached out, his fingers finding Mar
 
 He didn't need to type anything else. He was ready to go home.
 
-### Scene 6: The Boarding
+***
 
-**Date:** 1998-08-02 at 18:15 America/New_York
+#### 6:15 PM • Eira Rowlands — The Boarding
 
 The static crackle of the public address system echoed through the International Departures Hall, followed by the gate agent's voice announcing the pre-boarding process for passengers requiring extra time or special assistance.
 
@@ -3946,9 +3986,9 @@ Gabriel rested his chin against the top of her head, his eyes tracking the tarma
 
 Gwendolyn smiled against his shirt, her breathing slowing to match his steady, rhythmic pulse. They were finally going home.
 
-### Scene 7: The Red-Eye
+***
 
-**Date:** 1998-08-02 at 21:30 America/New_York
+#### 9:30 PM • Julian Rowlands — The Red-Eye
 
 The interior of the wide-body jet underwent a slow, deliberate transformation as it reached cruising altitude high over the dark expanse of the Atlantic Ocean.
 
@@ -4002,9 +4042,11 @@ His breathing slowed, matching the deep, ambient rumble of the jet engines, and 
 
 ## The Red Cave
 
-### Scene 1: The Terminator Line
+### Part 1: The Terminator Line & The Commuter Hop
 
 **Date:** 1998-08-03 at 07:00 Europe/London
+
+#### 7:00 AM • Julian Rowlands — The Terminator Line
 
 Richard Harrison had not slept a single minute.
 
@@ -4064,9 +4106,9 @@ In Row 13, Gabriel leaned forward, resting his heavy chin on the back of Julian'
 
 "Alright, garrison," Gabriel rumbled, his deep baritone carrying the unyielding confidence of a general who had successfully delivered his troops across the ocean. "Time to pack up the perimeter. Next stop: the ground."
 
-### Scene 2: The Border
+***
 
-**Date:** 1998-08-03 at 07:45 Europe/London
+#### 7:45 AM • Eira Rowlands — The Border
 
 The transition off the aircraft at Manchester Airport was the smoothest maneuver of the entire journey.
 
@@ -4142,9 +4184,9 @@ In the center of the celebration, Julian looked down at his lap. He pulled his A
 
 <aac><lang="cy" trans="IT IS TIME FOR THE TRAIN.">MAE'N AMSER YR CAR TREN.</lang></aac>
 
-### Scene 3: The Commuter Hop
+***
 
-**Date:** 1998-08-03 at 08:15 Europe/London
+#### 8:15 AM • Julian Rowlands — The Commuter Hop
 
 The international baggage claim at Manchester Airport was a cavernous, echoing hall of grinding conveyor belts and exhausted travelers, but the Rowlands-Harrison garrison moved through it with frictionless, military precision.
 
@@ -4206,9 +4248,11 @@ For the Americans in the group, the linguistic dynamic had entirely flipped. Ric
 
 Julian nodded. He didn't reach for his headphones. He just squeezed Maria and Clara's hands, watching the English countryside blur past the thick glass of the window. The perimeter was impenetrable, the phantom sways of the past were silenced by the rhythm of the rails, and the thirty-minute hop was exactly the grounding anchor he needed before facing the coast.
 
-### Scene 4: The Coastal Line
+### Part 2: The Coastal Line & The Time Shift
 
 **Date:** 1998-08-03 at 08:50 Europe/London
+
+#### 8:50 AM • Julian Rowlands — The Coastal Line
 
 The thirty-minute commuter hop dropped them right into the echoing, Victorian labyrinth of Crewe station. Gabriel and Richard fell effortlessly back into their snowplow formation, driving the heavy luggage trolleys through the bustling crowds of morning commuters, while Gwendolyn navigated Julian's chair toward the connecting platform.
 
@@ -4268,9 +4312,9 @@ Gabriel stepped out first, receiving the heavy metal ramp from the conductor. He
 
 Maria and Clara stood up, keeping their shoulders flush against Julian's wheels as Gabriel pulled the manual chair down the ramp. They stepped onto the platform of Llanfairpwll, the long dark officially, finally over.
 
-### Scene 5: The Threshold
+***
 
-**Date:** 1998-08-03 at 09:15 Europe/London
+#### 9:15 AM • Julian Rowlands — The Threshold
 
 The walk from the Llanfairpwll station was mercifully short. The biting, salt-heavy wind blowing off the Menai Strait was a shocking contrast to the suffocating Virginia humidity they had left behind, but Julian didn't mind the cold.
 
@@ -4328,9 +4372,9 @@ Gabriel let out a massive, booming laugh, clapping Richard on the shoulder. Eira
 
 The perimeter was secured. The Rowlands family was finally, permanently home.
 
-### Scene 6: The Floorplan
+***
 
-**Date:** 1998-08-03 at 09:30 Europe/London
+#### 9:30 AM • Gwendolyn Rowlands — The Floorplan
 
 Before they even crossed the threshold, the architectural forethought Eira had commanded from three thousand miles away became entirely apparent.
 
@@ -4402,9 +4446,9 @@ He didn't pull his AAC device onto his lap. He just squeezed their hands with a 
 
 Outside, the cold wind off the Menai Strait rattled the double-glazed windows, but inside the Red Cave, the temperature was perfectly controlled, the doors were wide enough for three, and the garrison was finally at rest.
 
-### Scene 7: The Time Shift
+***
 
-**Date:** 1998-08-03 at 10:00 Europe/London
+#### 10:00 AM • Eira Rowlands — The Time Shift
 
 The initial thrill of exploring Yr Ogof Goch lasted exactly twenty minutes.
 
@@ -4458,7 +4502,7 @@ The perimeter was locked. The house was fully accessible, and the monster from V
 
 ## Liberation of a Winter's Night
 
-### Scene 1: The Crown and Hound
+### The Crown and Hound
 
 **Date:** 2007-01-13 at 10:00 America/New_York
 

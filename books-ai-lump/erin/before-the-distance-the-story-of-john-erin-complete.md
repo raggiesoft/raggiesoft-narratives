@@ -6,7 +6,7 @@ title: "Before the Distance: The Story of John & Erin"
 
 ## Seconds Into Thunder
 
-### Scene 1: The Three-Minute Bell
+### Part 1: The Three-Minute Bell
 
 **Date:** 2004-09-17 at 19:00 America/New_York
 
@@ -45,7 +45,7 @@ Across the room at Table 1, Erin caught his eye as the third round's sustained s
 
 "Alright, folks, rotate to Round Four!" the organizer announced over the PA.
 
-### Scene 2: Table Four
+### Part 2: Table Four
 
 **Date:** 2004-09-17 at 19:20 America/New_York
 
@@ -95,7 +95,7 @@ He smiled back into the spotlight of her attention.
 
 ## Before the Distance
 
-### Scene 1: The Frayed Mask
+### Part 1: The Frayed Mask
 
 **Date:** 2004-11-18 at 17:15 America/New_York
 
@@ -137,7 +137,7 @@ In twenty years of sharing a life, John had never once flinched at the thought o
 
 *He's trapped,* Erin realized, the cold math locking into place in her chest. *Home is two blocks away, and she's forcing him onto that bus to isolate him for the entire weekend.*
 
-### Scene 2: When the Steel Doors Close
+### Part 2: When the Steel Doors Close
 
 **Date:** 2004-11-18 at 17:30 America/New_York
 
@@ -189,7 +189,7 @@ At the curb, the hydraulic pump whined. The yellow-bordered aluminum ramp folded
 
 ## Sanctuary in the Storm
 
-### Scene 1: The Locked Perimeter
+### The Locked Perimeter
 
 **Date:** 2004-11-18 at 17:35 America/New_York
 
@@ -245,7 +245,7 @@ Erin wrapped her arms around his shoulders, her glasses bumping lightly against 
 
 ## Not Her
 
-### Scene 1: The Practiced Smile
+### The Practiced Smile
 
 **Date:** 2005-04-08 at 21:30 America/New_York
 

@@ -6,7 +6,7 @@ title: "The Silver Gauntlet of Aethel"
 
 ## Book I: The Silver Sun
 
-### Scene 1: Chapter 1: The Architect's Lesson
+### Part 1: Chapter 1: The Architect's Lesson
 
 The Solar Garden did not smell of flowers; it smelled of ozone and potential.
 
@@ -248,7 +248,7 @@ It was the only blanket she ever needed.
 
 "Night, Moon," Solas replied, burying his face in her neck.
 
-### Scene 2: Chapter 2: The Age of Twilight
+### Part 2: Chapter 2: The Age of Twilight
 
 The light was wrong. That was the problem. It was always, fundamentally, wrong.
 
@@ -747,7 +747,7 @@ Tobias looked up at the night sky one last time. The tear in the heavens had hea
 "Let's go home," he said. "Before the wolves come."
 
 
-##### Scene 1: Starlight in the Woods
+#### Scene 1: Starlight in the Woods
 
 The joy in the farmhouse lasted less than an hour.
 
@@ -829,7 +829,7 @@ She moved to the back door. She paused, looking back at the couple.
 
 Then she was gone, slipping into the darkness of the deep woods as silent as a shadow.
 
-##### Scene 2: Elara Arrives in Sunstead
+#### Scene 2: Elara Arrives in Sunstead
 
 The journey was long, but Elara did not have to hide in the ditches. Once she crossed the river marking the boundary of the King’s lands, she was in the territories of the Free Folk.
 
@@ -873,7 +873,7 @@ She entered her cottage, closing the door against the wind. She laid Kaelan and 
 
 ## Book I: The Silver Gauntlet of Aethel
 
-### Scene 1: Chapter 1: The Sundering of Sunstead
+### Part 1: Chapter 1: The Sundering of Sunstead
 
 The world outside was ending. At least, that was how it felt to seven-year-old Kaelan.
 
@@ -1514,7 +1514,7 @@ She looked at them.
 "You almost died today because you fought alone. Starting tomorrow, you learn to fight together. Or you don't leave this ridge again."
 
 
-##### Scene 1: Storm the Castle
+#### Scene 1: Storm the Castle
 
 The midday sun beat down on the schoolyard—a flat patch of packed earth behind the Weavers’ Hall. A game of "Storm the Castle" was in full swing.
 
@@ -1548,7 +1548,7 @@ Kaela’s smile faltered. "I’m your sister."
 
 "Yeah, but you don't have to be my shadow," Kaelan grumbled. He ran off to join the other boys, leaving Kaela standing alone with the waterskin. She watched him go, a small, sharp pain in her chest that had nothing to do with a physical injury. She didn't understand why he wanted to be apart. weren't they the same?
 
-##### Scene 2: The Traveler
+#### Scene 2: The Traveler
 
 Later that afternoon, the twins were walking home through the market. The Great Gates were open, and a caravan had just arrived from the East.
 
@@ -1596,7 +1596,7 @@ Varek looked up. Standing behind the twins was Elara. She didn't look like a wea
 
 She ushered the children away, her hand firm on Kaelan’s shoulder. She didn't look back, but Varek did. He watched them disappear into the crowd, then pulled a small notebook from his pocket and began to write.
 
-##### Scene 3: Inside the Cottage
+#### Scene 3: Inside the Cottage
 
 That evening, the cottage was tense. Elara had sent the twins to their room early.
 
@@ -1610,7 +1610,7 @@ Kaela sat on her bed, hugging her knees. "He was bad, Kaelan. He felt like... li
 
 Kaelan threw himself onto his bed, turning his back to her. "Well, stop it. I don't need you to save me."
 
-##### Scene 4: A Shadow at the Market
+#### Scene 4: A Shadow at the Market
 
 Down in the town square, the sun had set. The market was emptying out.
 
@@ -1644,7 +1644,7 @@ Varek turned to run, but the baker blocked his path.
 
 The circle closed in. There was no shouting. No commotion. Just the quiet, efficient work of a town protecting its family.
 
-##### Scene 5: The Next Morning
+#### Scene 5: The Next Morning
 
 The next morning, Kaelan and Kaela walked to school.
 
@@ -1857,7 +1857,7 @@ She saw Kaelan’s eyes drift away from his sister, looking toward the East—to
 They sprinted into the twilight, their laughter echoing off the canyon walls—the last truly unified sound they would make for a very long time.
 
 
-##### Scene 1: The Morning of the Feast
+#### Scene 1: The Morning of the Feast
 
 
 
@@ -1947,7 +1947,7 @@ Elara was waiting by the gate. She looked at them—the tall, broad-shouldered b
 
 They began the walk down the winding path toward the red dust and the music, leaving the quiet cottage behind for the day.
 
-##### Scene 2: The Afternoon Preparations.
+#### Scene 2: The Afternoon Preparations.
 
 
 
@@ -2033,7 +2033,7 @@ They worked through the afternoon, the Golden Sun dipping lower, casting the s
 
 It wasn't magic that built the festival. It was sweat, red dust, and the simple, undeniable magic of neighbors working together to push back the dark.
 
-##### Scene 3: The Festival Night
+#### Scene 3: The Festival Night
 
 
 
@@ -2135,7 +2135,7 @@ Before the sickness. Before the silence. Before the Red Banners.
 
 They sat there as the suns fully set and the stars came out, the Golden Sun and the Silver Moon, finally at rest, watching over the town they loved, content to be nothing more than neighbors.
 
-##### Scene 4: The Walk Home
+#### Scene 4: The Walk Home
 
 
 
@@ -2392,9 +2392,9 @@ Clinker burped. A small puff of smoke came out of his nose.
 
 "Yes," the merchant squeaked. "Discount. Absolutely."
 
-### Scene 2: Chapter 2: The Silence of the Hearth
+### Part 2: Chapter 2: The Silence of the Hearth
 
-##### Scene 1: The Coldest Winter
+#### Scene 1: The Coldest Winter
 
 
 
@@ -2450,7 +2450,7 @@ Kaelan flinched. "You're not dying."
 
 "I am," Elara said softly. "And we have work to do before I go."
 
-##### Scene 2: The Inheritance
+#### Scene 2: The Inheritance
 
 
 
@@ -2542,7 +2542,7 @@ Kaela sat there, holding the cooling hand. She didn't scream. She didn't wail. S
 
 They were exposed.
 
-##### Scene 3: The Frozen Earth
+#### Scene 3: The Frozen Earth
 
 
 
@@ -2618,7 +2618,7 @@ Kaelan looked at the grave. He looked at the horizon, obscured by the snow.
 
 But as he looked at the cottage, he realized it wasn't a home anymore. It was a tomb. And he knew, with a sinking certainty, that he couldn't stay here. Not with the silence.
 
-##### Scene 4: The Rejection
+#### Scene 4: The Rejection
 
 
 
@@ -2699,7 +2699,7 @@ She looked at the big, empty bed that suddenly felt like a frozen wasteland.
 That night, she didn't sleep. She wove a mental wall, brick by brick, to block out the sound of his breathing, because hearing him so close yet so far away hurt more than the cold ever could.
 
 
-##### Scene 1: Now that Elara has passed
+#### Scene 1: Now that Elara has passed
 
 The cottage on the ridge felt smaller than it used to.
 
@@ -2787,7 +2787,7 @@ Outside, Kaelan marched down the dusty path toward the town. He told himself he 
 
 He ignored it. He turned his eyes toward the North.
 
-##### Scene 2: A Rough Bedtime
+#### Scene 2: A Rough Bedtime
 
 
 
@@ -2911,7 +2911,7 @@ He forced himself to be stone. He forced himself to be the wall.
 
 Kaela eventually stopped squeezing. Her hand went slack against his chest, though she didn't pull away. She fell asleep holding onto him, alone in the bed they shared, realizing that the brother she loved had turned into iron right under her fingertips.
 
-##### Scene 3: The Silence at the Forge
+#### Scene 3: The Silence at the Forge
 
 
 
@@ -2969,7 +2969,7 @@ Horg looked at the empty barrel in the corner. He sighed, a heavy sound in the q
 
 "You're not busy, son," Horg whispered to the empty doorway. "You're just lonely."
 
-##### Scene 4: The Drunken Mule
+#### Scene 4: The Drunken Mule
 
 
 
@@ -3525,7 +3525,7 @@ One step at a time, he thought, the words falling into cadence with his boots on
 
 ## Book II: The Shadow's Heart
 
-### Scene 1: Chapter 1: The Hunted and the Caged
+### Part 1: Chapter 1: The Hunted and the Caged
 
 The Razor Peaks were not merely a mountain range; they were a warning carved in stone.
 
@@ -4524,7 +4524,7 @@ She picked up the tray of food. She ate. Not because she was hungry, but because
 
 The rebellion had begun.
 
-### Scene 2: Chapter 2: The Tyrant's Throne
+### Part 2: Chapter 2: The Tyrant's Throne
 
 The dungeon was cold, but the Throne Room was freezing for a different reason. It was the cold of absolute, sterile perfection.
 
@@ -4807,7 +4807,7 @@ But outside, in the screaming gales of the Voidlands, the Silverwing did not dis
 
 It flew South. It flew over the jagged peaks, over the black ice, a tiny, defiant spark carrying a message of endurance to a boy who was about to forget who he was.
 
-### Scene 3: Chapter 3: The Last Temptation
+### Part 3: Chapter 3: The Last Temptation
 
 The Razor Peaks were behind him now, a jagged wall that blocked out the rest of the world. Ahead lay the true Voidlands.
 
@@ -5082,7 +5082,7 @@ Inside the cell, Kaela watched her go. Then she turned her face back to the ston
 
 He’s awake, Kaelan, she projected into the void. He knows you’re coming. Be ready.
 
-### Scene 4: Chapter 4: The Bridge of a Thousand Truths
+### Part 4: Chapter 4: The Bridge of a Thousand Truths
 
 The illusion of the oasis had vanished, leaving Kaelan standing on the scorched, cracked earth of the Voidlands. The wind had picked up again, carrying with it the scent of sulfur and deep, ancient dampness.
 
@@ -5453,7 +5453,7 @@ Kaelan took a deep breath, filling his lungs with the stale air of the enemy's s
 
 ## Book III: The Dawn of the Twins
 
-### Scene 1: Chapter 1: The Siege of the Shadowspire
+### Part 1: Chapter 1: The Siege of the Shadowspire
 
 Kaelan kicked the doors open, his iron sword raised, a scream of defiance already building in his throat.
 
@@ -5808,7 +5808,7 @@ He stepped back, gathering his momentum.
 
 He ran. He leaped over the last pile of rubble. He drove his boot into the center of the bone doors with the force of a battering ram.
 
-### Scene 2: Chapter 2: The Heart of the Gloom
+### Part 2: Chapter 2: The Heart of the Gloom
 
 The bone doors didn't just open; they shattered inward, blasted off their hinges by a kick fueled by three months of rage and nuclear fire.
 
@@ -6362,7 +6362,7 @@ It wasn't a polite hug. It was desperate. It was the crashing together of two pl
 
 They stood there in the ruins of the tyrant's tower, holding each other while the walls crumbled around them, neither willing to let go, finally whole again.
 
-### Scene 3: Chapter 3: The Long Road Home
+### Part 3: Chapter 3: The Long Road Home
 
 The Shadowspire did not look majestic in the daylight.
 
@@ -6677,7 +6677,7 @@ The sweetness lingered on their tongues.
 Outside, the rain lashed the world, washing the forest clean. Inside, safely hidden in the hay, the twins held onto each other, warm and safe, drifting into a sleep that was deep, dreamless, and entirely their own.
 
 
-##### Scene 1: The Damp Morning
+#### Scene 1: The Damp Morning
 
 
 
@@ -6791,7 +6791,7 @@ He adjusted his pack. The dampness of his tunic was fading, replaced by the warm
 
 They walked down the slope, leaving the dark days behind them, stepping into the golden autumn that would lead them, step by step, back to the red dust of home.
 
-##### Scene 2: The Emerald Valleys
+#### Scene 2: The Emerald Valleys
 
 
 
@@ -6869,7 +6869,7 @@ Kaelan looked back at the peaceful, defenseless village. He realized then that S
 
 They walked on, leaving the Emerald Valleys behind, carrying the taste of peace with them as fuel for the miles ahead.
 
-##### Scene 3: The First Frost
+#### Scene 3: The First Frost
 
 
 
@@ -6995,7 +6995,7 @@ Seraphina could offer him a throne. She could offer him pleasure. But she could 
 
 She kissed his shoulder, a small, fierce seal on the vow, and held him while the frost settled over the world outside, keeping the cold at bay with nothing but their own shared heat.
 
-##### Scene 4: The Frozen Morning
+#### Scene 4: The Frozen Morning
 
 
 
@@ -7121,7 +7121,7 @@ They packed the fur blanket. They kicked dirt over the cold stones.
 
 Then, they stepped out from the overhang, into the biting wind of the High Hills, walking close enough that their shoulders brushed, a two-person heat source moving steadily South toward the promise of home.
 
-##### Scene 5: The Western Ridge
+#### Scene 5: The Western Ridge
 
 
 
@@ -7209,7 +7209,7 @@ They sprinted down the trail, their packs bouncing, their laughter echoing off t
 
 They ran toward the future, finally ready to rest.
 
-### Scene 4: Chapter 4: The Scouring of Sunstead
+### Part 4: Chapter 4: The Scouring of Sunstead
 
 The race ended at the bottom of the switchback trail, where the red dirt of the canyon floor met the packed gravel of the trade road.
 
@@ -7616,7 +7616,7 @@ Kaelan looked at his sister. "Home?"
 
 "Home," Kaela said.
 
-### Scene 5: Chapter 5: The Aftermath
+### Part 5: Chapter 5: The Aftermath
 
 The sound of Sunstead was back.
 
@@ -7858,9 +7858,9 @@ Kaela looked at him. She smiled, a sharp, dangerous smile that reminded him she 
 
 ## Book I: The Glass Sea
 
-### Scene 1: Chapter 1: The Tide and the Torch
+### Part 1: Chapter 1: The Tide and the Torch
 
-##### Scene 1: The Iron Keel
+#### Scene 1: The Iron Keel
 
 
 
@@ -7924,7 +7924,7 @@ Kaelan relaxed into her touch. The anxiety faded. He wasn't drifting alone; he w
 
 "Aye, Captain," he whispered.
 
-##### Scene 2: The Circuit at Rest
+#### Scene 2: The Circuit at Rest
 
 
 
@@ -8352,7 +8352,7 @@ They turned toward the Queen.
 
 "Round two, Seraphina," Kaelan called out. "And this time, there's nowhere to run."
 
-### Scene 2: Chapter 2: The Heart of the World
+### Part 2: Chapter 2: The Heart of the World
 
 Seraphina did not run. She did not cower as she had in the square at Sunstead.
 
@@ -8717,7 +8717,7 @@ Kaelan looked at the map. He looked at the endless ocean. Then he looked at his 
 
 He turned the boat South, following the fleeing shadow of the Queen, deeper into the Age of Tides.
 
-### Scene 3: Chapter 3: The Weave of the Water
+### Part 3: Chapter 3: The Weave of the Water
 
 The heat of the volcano was a memory now, replaced by the suffocating humidity of the tropics.
 
@@ -8993,7 +8993,7 @@ Kaelan took the tiller. He looked at his sister.
 
 They raised the sail. Kaelan poured a steady stream of heat into the keel, and the boat surged forward, cutting through the waves, hunting the hunter who was running blindly toward her own destruction.
 
-### Scene 4: Chapter 4: The Gyre
+### Part 4: Chapter 4: The Gyre
 
 The ocean ahead looked like a washing machine filled with blue glass and razor blades.
 
@@ -9390,7 +9390,7 @@ With a roar of displaced air, Horg’s boat shot upward, punching through the cl
 
 ## Book II: The Star-Eater
 
-### Scene 1: Chapter 1: The Silent Sector
+### Part 1: Chapter 1: The Silent Sector
 
 Space was not silent. Kaelan had expected it to be dead quiet, but inside the Celestial Keel, the air hummed with the vibration of the gravity drives and the low, constant whisper of the solar wind buffeting the Stellium hull.
 
@@ -9564,7 +9564,7 @@ Kaelan took a deep breath, centering himself. He channeled the heat back into th
 The Celestial Keel surged forward, diving into the purple fog, chasing the poisoned Queen into the dark.
 
 
-##### Scene 1: Seraphina has a Problem
+#### Scene 1: Seraphina has a Problem
 
 
 
@@ -9602,7 +9602,7 @@ Seraphina didn't waste time with seduction. She didn't have the energy for the p
 
 The door to the quarters slid shut, sealing them in.
 
-##### Scene 2: The Realization
+#### Scene 2: The Realization
 
 
 
@@ -9670,7 +9670,7 @@ Massive, fossilized bones the size of mountain ranges floated in the void, formi
 
 They weren't approaching a temple. They were approaching a corpse that refused to die.
 
-##### Scene 3: The Golden Shackle
+#### Scene 3: The Golden Shackle
 
 
 
@@ -9754,7 +9754,7 @@ She turned back to the viewport, staring at the massive, fossilized Ribcage loom
 
 "Earn your keep," she whispered. "Die well."
 
-### Scene 2: Chapter 2: The Ribcage of the Gods
+### Part 2: Chapter 2: The Ribcage of the Gods
 
 The Celestial Keel didn't just sail; it drifted like a speck of dust into the mouth of a giant.
 
@@ -9919,7 +9919,7 @@ They walked through the ghost ship, crossing the gantry into the Star-Eater’s 
 
 They were walking into the mind of a god, and the only thing waiting for them was a woman who thought she could outsmart the universe.
 
-### Scene 3: Chapter 3: The War for the Mind
+### Part 3: Chapter 3: The War for the Mind
 
 The Brain Stem was a cavern of pulsating light. Massive nerve endings—cables of silver and glass thick as tree trunks—converged in the center of the room, plugging into a central console that hummed with the thoughts of the sleeping god.
 
@@ -10139,7 +10139,7 @@ She turned and fled, running deeper into the brain stem, toward the only place l
 They followed her.
 
 
-##### Scene 1: The Hollow Victory
+#### Scene 1: The Hollow Victory
 
 
 
@@ -10243,7 +10243,7 @@ But her finger trembled. She didn't have the strength to fire.
 
 She collapsed to her knees, staring at him, hate warring with mortality in her dying eyes.
 
-##### Scene 2: The Dawn of the Twins
+#### Scene 2: The Dawn of the Twins
 
 
 
@@ -10339,7 +10339,7 @@ Kaelan slumped against Kaela. "He's kicking us out?"
 
 "Home," Kaela said.
 
-##### Scene 3: The Broken Wedge
+#### Scene 3: The Broken Wedge
 
 
 
@@ -10453,7 +10453,7 @@ Kaelan laughed—a wet, shaky sound of pure relief. He helped Kaela up, keeping 
 
 They walked out of the Memory Core, leaving the ghosts of the past behind, finally, truly free.
 
-### Scene 4: Chapter 4: The Long Way Down
+### Part 4: Chapter 4: The Long Way Down
 
 The walk back from the Memory Core was quiet, but it wasn't the heavy, suffocating silence of the last three years. It was the comfortable silence of a job finished.
 
@@ -10970,7 +10970,7 @@ The silence in the room wasn't empty. It was full of the fire's crackle, the win
 
 They stood there as the twin suns set, the heroes of the age, invisible and content, ready to do absolutely nothing for a very long time.
 
-### Scene 5: Chapter 5: The Cottage
+### Part 5: Chapter 5: The Cottage
 
 The morning suns did not burst into the cottage; they crept in, filtered through the thick glass of the small eastern window and the grey slate of the low eaves.
 
@@ -11092,7 +11092,7 @@ And for the first time in their lives, neither of them wanted to get out.
 
 ## Book I: The Magnetic North
 
-### Scene 1: Chapter 1: The Art of Doing Nothing
+### Part 1: Chapter 1: The Art of Doing Nothing
 
 The morning suns were late, or perhaps Kaela was just early.
 
@@ -11334,7 +11334,7 @@ Kaelan closed his eyes, listening to the hum of the bees in the clover, unaware 
 
 "Nap," Kaela agreed.
 
-### Scene 2: Chapter 2: The Alarm Clock
+### Part 2: Chapter 2: The Alarm Clock
 
 The potatoes were coming in nicely.
 
@@ -11542,7 +11542,7 @@ He reached for his sword. It floated into his hand before he could grab it.
 
 "Magma," Kaelan confirmed. "We're going to the center of the Earth."
 
-### Scene 3: Chapter 3: The Magnetic Highway
+### Part 3: Chapter 3: The Magnetic Highway
 
 The *Iron Keel* sat in the middle of the dusty street outside the forge, looking completely out of its element. It was heavy, squat, and distinctly marine.
 
@@ -12342,7 +12342,7 @@ He squeezed her, holding onto his payment plan like a lifeline. He wasn't the lo
 
 And as the red light pulsed outside, Kaelan slept without nightmares, anchored to the earth by the girl who refused to let him float away.
 
-### Scene 4: Chapter 4: The Clockwork Ocean
+### Part 4: Chapter 4: The Clockwork Ocean
 
 The suns rose over the Voidlands, but they brought no warmth to the crater. The light merely highlighted the jagged, black teeth of the obsidian rim.
 
@@ -13222,7 +13222,7 @@ Kaelan grinned behind his goggles. He turned the boat South, toward the red dust
 
 The *Iron Keel* surged forward, surfing the magnetic lines home.
 
-### Scene 5: Chapter 4: The Return Journey
+### Part 5: Chapter 4: The Return Journey
 
 The Voidlands were beautiful in the way a knife was beautiful—sharp, clean, and dangerously cold.
 
@@ -13499,7 +13499,7 @@ They lay there in the dim, quiet cottage, the "Go Away" sign standing guard outs
 
 ## Book II: The Pilgrimage
 
-### Scene 1: Chapter 1: The Privacy of Stone
+### Part 1: Chapter 1: The Privacy of Stone
 
 The cottage smelled of damp earth, sawdust, and ambition.
 
@@ -13765,7 +13765,7 @@ They sat in the steam, looking up at the stars framed by the high stone walls. T
 
 Kaelan laughed, a low rumble in his chest. "Deal."
 
-### Scene 2: Chapter 2: The Smoke and the Fire
+### Part 2: Chapter 2: The Smoke and the Fire
 
 The death of a Matron usually brought silence. This time, it brought a carnival.
 
@@ -14158,7 +14158,7 @@ Kaelan didn't flinch. He didn't even look. He just reached out and took Kaela’
 
 They continued their bath, undisturbed by the world, protected by the very light they refused to rule with.
 
-### Scene 3: Chapter 3: The Council of Neighbors
+### Part 3: Chapter 3: The Council of Neighbors
 
 The sign above the door depicted a mule kicking a keg of ale. It was peeling, crooked, and accurate.
 
@@ -14344,7 +14344,7 @@ Here is Chapter 4: The King at the Gate.
 
 This chapter puts the new Council to the test and demonstrates exactly what happens when a conventional army tries to annex a town protected by two retired demigods.
 
-### Scene 4: Chapter 4: The King at the Gate
+### Part 4: Chapter 4: The King at the Gate
 
 The Council of Neighbors had been in power for exactly three weeks when the first war arrived.
 
@@ -14546,7 +14546,7 @@ He unlatched their private gate. They stepped into the garden. The steam was sti
 
 They stripped off their dusty clothes and slid back into the water, while down in the valley, the broken army of the Gilded Plains limped home, carrying the terrifying news that Sunstead had no King, but it had something much, much worse.
 
-### Scene 5: Chapter 5: The Demon and the Witch
+### Part 5: Chapter 5: The Demon and the Witch
 
 Three days after the army fled, the spies arrived.
 
@@ -14817,7 +14817,7 @@ They climbed into bed, pulling the quilt up to their chins. For the first time s
 
 Let the world whisper. Let the Kings plot. The house knew the difference between a neighbor with a pie and a spy with a knife. And the house knew exactly how to handle both.
 
-### Scene 6: Chapter 6: The Starlight Check-In
+### Part 6: Chapter 6: The Starlight Check-In
 
 The water in the stone tub was calm, reflecting the Milky Way—a galaxy Kaelan had hand-crafted billions of years ago when he was just Solas, a being of pure fusion.
 
@@ -14996,7 +14996,7 @@ They went inside and locked the world out, ready to sleep in their shared bed, j
 
 ## Book III: The Zero Point
 
-### Scene 1: Prologue: The Silence Between Stars
+### Part 1: Prologue: The Silence Between Stars
 
 The universe was too loud.
 
@@ -15036,7 +15036,7 @@ He began to chant. It was a spell of dampening. A spell of cosmic mute.
 
 He didn't target the Earth. He targeted the Sky.
 
-### Scene 2: Chapter 1: The Shadow at Noon
+### Part 2: Chapter 1: The Shadow at Noon
 
 Kaela woke up because the birds had stopped singing.
 
@@ -15163,7 +15163,7 @@ The invasion had begun. But there were no soldiers to gravity-crush, and no swor
 
 And the only thing standing between Sunstead and absolute zero was the internal fire of the Twins.
 
-### Scene 3: Chapter 2: The Needle and the Shroud
+### Part 3: Chapter 2: The Needle and the Shroud
 
 The water in the granite tub was trying to freeze. A thin skin of ice kept forming on the surface, cracking only when Kaelan sent a pulse of heat through the stone.
 

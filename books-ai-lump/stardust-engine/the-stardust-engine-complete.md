@@ -18,15 +18,15 @@ title: "The Stardust Engine"
 
 ## Chapter 1: Escape Velocity &ndash; 1995
 
-### Scene 1: The Magnum Opus &ndash; 12:00 PM
+### The Magnum Opus &ndash; 12:00 PM
 
-##### Part 1: The Magnum Opus &ndash; 12:00 PM
+#### Part 1: The Magnum Opus &ndash; 12:00 PM
 
 The "Magnum Opus" and the grand finale of the *Hard Reset* double album. This monumental 15-minute and 33-second progressive rock epic was originally written and recorded in 1995, during the financial struggle of the band's "Wilderness Years" (a full year before the 1996 lottery windfall). It is entirely Cassidy O'Connell's creation—she wrote the music, penned the lyrics, and directed her family through the complex arrangement.
 
 The four-movement suite serves as her autobiography, charting her visceral escape from the trauma of the 1992 'Friction' trial ("The Cage") to the transcendence of total artistic freedom ("The Cosmos"). The track features a distinct "mechanical cutoff" sound between Part II and Part III; this wasn't a studio effect, but Ryan O'Connell physically pulling the plug on his guitar amplifier mid-recording to simulate the violent silence of a rocket's Main Engine Cutoff (MECO). By including the full suite on the 1997 release, the band ensures Cassidy's defining artistic statement finally reaches the global audience it always deserved.
 
-##### Part 2: The Cinematic Universe &ndash; 2017
+#### Part 2: The Cinematic Universe &ndash; 2017
 
 Twenty years later, in 2017, the O'Connell family used the vast resources of the Forger Nation Trust to fully fund and produce a science fiction feature film titled *K.N.O.X.* Alongside producing the film, The Stardust Engine composed the official Industrial/Score soundtrack.
 

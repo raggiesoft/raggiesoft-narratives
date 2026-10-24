@@ -6,9 +6,11 @@ title: "Fortress in the Clouds"
 
 ## Chapter 1: The Gathering Storm – Tuesday, February 9, 2021
 
-### Scene 1: Best Laid Plans – 7:30 PM
+### Best Laid Plans – 7:30 PM & The Ten O'Clock News – 10:00 PM
 
 **Date:** 2021-02-09 at 19:30
+
+#### 7:30 PM — Best Laid Plans – 7:30 PM
 
 The deep, heavy rumble of his fatherâ€™s oversized pickup truck pulling into the driveway vibrated right through the floorboards, but up here, behind a closed door, the noise was at least tolerable.
 
@@ -42,9 +44,9 @@ Donald nodded emphatically. The thought of finally seeing his sister again after
 
 Everything was falling perfectly into place. He just had to make it through one more week.
 
-### Scene 2: The Anchor and the Watch – 8:15 PM
+***
 
-**Date:** 2021-02-09 at 20:15
+#### 8:15 PM — The Anchor and the Watch – 8:15 PM
 
 The narrow doorframe of the en-suite bathroom was just another architectural insult in a house built entirely for show.
 
@@ -82,9 +84,9 @@ He hated airports. He knew the commercial terminal at DFW would be a massive, ov
 
 But as Mary threw her arm over his shoulders, pulling him into a warm, grounding side-hug, Donald realized he didn't care. He would endure the sensory overload of a commercial flight ten times over if it meant finally boarding a plane to Meridian City. The noise of the airport was temporary. The freedom waiting on the other side of it was permanent.
 
-### Scene 3: The Ten O'Clock News – 10:00 PM
+***
 
-**Date:** 2021-02-09 at 22:00
+#### 10:00 PM — The Ten O'Clock News – 10:00 PM
 
 The nightly transition into bed was a masterclass in quiet, unspoken efficiency. Moving with the practiced dignity of someone who had managed his physical boundaries for an entire decade, Mary carefully helped Donald change into his soft, sensory-friendly pajamas.
 
@@ -114,9 +116,11 @@ Mary reached over, resting her hand firmly over his wrist to apply that familiar
 
 ## Chapter 2: The Routine – Wednesday, February 10, 2021
 
-### Scene 1: The Departure – 7:00 AM
+### The Departure – 7:00 AM & The Inventory – 6:30 PM
 
 **Date:** 2021-02-10 at 07:00
+
+#### 7:00 AM — The Departure – 7:00 AM
 
 The alarm clock on the nightstand buzzed, pulling Donald from the deep, heavy sleep he only ever achieved when Mary was anchored beside him.
 
@@ -146,9 +150,9 @@ Donald let out a bright, ascending vocalization, a small smile touching the corn
 
 Mary stepped back and gave the driver a thumbs-up. The hydraulic lift engaged with a heavy clunk, smoothly hoisting Donald up into the warm cabin of the bus. As the doors folded shut and the bus began to pull away from the curb, Donald looked out the tinted window. Mary was still standing at the edge of the massive driveway, shivering slightly in the cold, watching the bus until it disappeared around the corner.
 
-### Scene 2: Interlude: The Shifting Models – 12:15 PM
+***
 
-**Date:** 2021-02-10 at 12:15
+#### 12:15 PM — Interlude: The Shifting Models – 12:15 PM
 
 The microwave beeped three loud, shrill times, cutting through the ambient noise of the local midday news broadcast.
 
@@ -178,9 +182,9 @@ Ashley had made a promise, laid out in clear, unmistakable text: the absolute se
 
 Mary looked back at the TV, watching the blue and purple temperature gradients sweep down the Texas map. Let the rough weather come, she thought. It didn't matter. In six days, Donald was legally free, and she was taking him out of this house forever.
 
-### Scene 3: The Right Call – 3:45 PM
+***
 
-**Date:** 2021-02-10 at 15:45
+#### 3:45 PM — The Right Call – 3:45 PM
 
 The sharp, high-pitched squeal of the school busâ€™s air brakes broke the quiet of the sprawling Prosper subdivision.
 
@@ -256,9 +260,9 @@ Donald nodded emphatically, watching the math resolve perfectly on the page. He 
 
 Donald let out a soft, breathy laugh, leaning his shoulder against hers. Outside the window, the Texas sky was beginning to turn a harsh, bruised gray as the cold front advanced, but inside the bedroom, the math was flawless, the perimeter was secure, and he wasn't facing any of it alone.
 
-### Scene 4: The Inventory – 6:30 PM
+***
 
-**Date:** 2021-02-10 at 18:30
+#### 6:30 PM — The Inventory – 6:30 PM
 
 Dinner in the McMansion was always a loud, abrasive affair. Downstairs in the sprawling, aggressively lit kitchen, Donaldâ€™s father and Maryâ€™s older brothers dominated the massive granite island, their booming voices echoing off the vaulted ceilings. They were loudly debating the upcoming weekend's football schedule, completely ignoring the television playing quietly in the corner of the room.
 
@@ -308,7 +312,7 @@ Mary let out a watery, relieved laugh, wrapping her arms around his neck and hol
 
 ## Chapter 3: The Ice – Thursday, February 11, 2021
 
-### Scene 1: The Video Link – 7:00 AM
+### The Video Link – 7:00 AM
 
 **Date:** 2021-02-11 at 07:00
 
@@ -392,7 +396,7 @@ On the screen, Ashley's eyes softened, a fiercely protective warmth radiating th
 
 ## Chapter 4: Landing at TKI – Friday, February 12, 2021
 
-### Scene 1: Interlude: The Vanguard Lands – 10:15 AM
+### Interlude: The Vanguard Lands – 10:15 AM
 
 **Date:** 2021-02-12 at 10:15
 
@@ -468,7 +472,7 @@ Ashley stared at Johnny, then looked back at the brutal purple gradient glowing 
 
 ## Chapter 5: The Deep Freeze – Saturday, February 13, 2021
 
-### Scene 1: The Agony of Proximity – 8:30 AM
+### The Agony of Proximity – 8:30 AM
 
 **Date:** 2021-02-13 at 08:30
 
@@ -506,7 +510,7 @@ The house was cold, the ice outside was thickening, and the wait was excruciatin
 
 ## Chapter 6: The Gridline – Sunday, February 14, 2021
 
-### Scene 1: Gentlemen Only – 6:45 PM
+### Gentlemen Only – 6:45 PM
 
 **Date:** 2021-02-14 at 18:45
 
@@ -546,9 +550,11 @@ She carefully hauled Donald backward up the first few steps, completely tuning o
 
 ## Chapter 7: The Severance – Monday, February 15, 2021
 
-### Scene 1: Going Dark – 1:20 AM
+### Part 1: Going Dark – 1:20 AM & The Deep Freeze – 10:30 AM
 
 **Date:** 2021-02-15 at 01:20
+
+#### 1:20 AM — Going Dark – 1:20 AM
 
 Sleep was impossible.
 
@@ -580,9 +586,9 @@ Mary hit the button on her flashlight. A single, weak beam of pale light pierced
 
 "I'm here," Mary said, her voice shaking as she crawled across the mattress, pulling the thickest fleece blanket securely around his neck. Without the heater pushing air, the ambient temperature in the room was already beginning to freefall. "I'm right here, Donald. I've got you."
 
-### Scene 2: Interlude: The Gravity Trap – 2:30 PM
+***
 
-**Date:** 2021-02-15 at 14:30
+#### 2:30 PM — Interlude: The Gravity Trap – 2:30 PM
 
 The tension inside the heated McKinney hotel suite was thick enough to cut with a knife.
 
@@ -612,9 +618,9 @@ Emmaâ€™s jaw tightened, but she slowly lowered her arms. She stared at the 
 
 "Surface roads only," Victoria ordered, finalizing the extraction protocol. "We stay completely off the elevated concrete. We take Highway 380 straight across. It is completely flat. We crawl at ten miles an hour, and we manually navigate around the abandoned vehicles. It will take three times as long, but it is the only way I am guaranteeing we make it to that boy's front door in one piece."
 
-### Scene 3: Interlude: The Backchannel – 3:45 PM
+***
 
-**Date:** 2021-02-15 at 15:45
+#### 3:45 PM — Interlude: The Backchannel – 3:45 PM
 
 Morgan stepped away from the main dining table, leaving Ashley and Victoria to their tense tactical debate over the extraction timeline. She sat at the smaller desk near the window, flipped open her heavy, ruggedized laptop, and bypassed the public internet entirely.
 
@@ -658,9 +664,9 @@ Morganâ€™s jaw tightened. "Understood. When does the ice break?"
 
 Morgan slowly lowered the phone. The data was indisputable, legally defensible, and absolutely brutal. She turned her chair around to face the center of the suite, where Victoria and Ashley were waiting. It was time to deliver the bad news.
 
-### Scene 4: Interlude: Grounded – 4:15 PM
+***
 
-**Date:** 2021-02-15 at 16:15
+#### 4:15 PM — Interlude: Grounded – 4:15 PM
 
 The decision hung heavily in the heated air of the McKinney hotel suite.
 
@@ -698,9 +704,9 @@ Ashley closed her eyes, her hands balling into fists on the tabletop.
 
 "Wednesday afternoon at the earliest, Thursday at the latest," Morgan confirmed gently, closing the laptop screen. "The mountain doesn't negotiate, Ashley. And neither does the ice. We have to wait it out."
 
-### Scene 5: The Deep Freeze – 10:30 AM
+***
 
-**Date:** 2021-02-15 at 10:30
+#### 10:30 AM — The Deep Freeze – 10:30 AM
 
 By mid-morning, the ambient temperature inside the bedroom had plunged into the low forties.
 
@@ -734,7 +740,7 @@ Yet, listening to the muffled, entitled rage echoing from the first floor, Mary 
 
 Let them yell, Mary thought, pulling the heavy quilt tighter around Donald's shoulders. Let them pace around the freezing living room and complain about the inconvenience. She wasn't leaving this bed, and she wasn't letting Donald go.
 
-### Scene 6: The Long Night – 5:15 PM
+### Part 2: The Long Night – 5:15 PM
 
 **Date:** 2021-02-15 at 17:15
 
@@ -772,9 +778,11 @@ Mary squeezed her eyes shut as the reality of the sunset fully set in. The tempe
 
 ## Chapter 8: Midnight – Tuesday, February 16, 2021
 
-### Scene 1: The Birthday – 3:15 AM
+### Part 1: The Birthday – 3:15 AM & Morning Light – 7:15 AM
 
 **Date:** 2021-02-16 at 03:15
+
+#### 3:15 AM — The Birthday – 3:15 AM
 
 The silence in the bedroom was wrong.
 
@@ -852,9 +860,9 @@ Mary tightened her arms around his back, pulling him just a fraction closer. The
 
 She didn't need to say the words out loud right now. The survival of the night was the only thing that mattered. But as the freezing hours of their joint birthday slowly ticked by, Mary pressed a gentle, lingering kiss to his shoulder. She would keep him warm. She would keep him alive. And the absolute second that ice outside began to melt, she was going to help walk him out of this house and into the rest of their lives.
 
-### Scene 2: The Barrier – 4:45 AM
+***
 
-**Date:** 2021-02-16 at 04:45
+#### 4:45 AM — The Barrier – 4:45 AM
 
 The brutal cold of the room was relentless, a physical weight pressing down on the massive cocoon of thick blankets, heavy comforters, and pillows they had dragged onto the mattress.
 
@@ -898,9 +906,9 @@ Mary buried her face into the crook of his bare neck, her own body shivering vio
 
 It had worked. They were going to make it to sunrise, and she would hold him exactly like this until the ice broke.
 
-### Scene 3: Morning Light – 7:15 AM
+***
 
-**Date:** 2021-02-16 at 07:15
+#### 7:15 AM — Morning Light – 7:15 AM
 
 The pale, gray light of Tuesday morning bled through the iced-over windows, casting long, freezing shadows across the bedroom floor. Underneath the massive mountain of blankets, however, it was dark, heavy, and intensely warm.
 
@@ -972,9 +980,11 @@ She pulled the bottles under the covers, her heart sinking. The water inside had
 
 Mary let out a jagged sigh, but she didn't panic. She tucked the frozen bottles directly between them, pressing them securely against their layered clothing. "It's okay. We'll just let our body heat thaw them out. We just have to be patient."
 
-### Scene 4: The Siege – Tuesday Afternoon
+### Part 2: The Siege & The Current Loop
 
 **Date:** 2021-02-16
+
+#### The Siege – Tuesday Afternoon
 
 The rest of Tuesday didn't feel like a birthday. It felt like a siege.
 
@@ -1014,9 +1024,9 @@ Downstairs, the father who had mocked Mary for worrying about the weather just t
 
 Mary closed her eyes, resting her head against Donald's shoulder. Let the house freeze. Let the man pace. She had her perimeter secured, she had Donald, and as of today, they were both legally free.
 
-### Scene 5: Interlude: Radio Silence – Tuesday, 2:45 PM
+***
 
-**Date:** 2021-02-16
+#### Interlude: Radio Silence – Tuesday, 2:45 PM
 
 Across the blacked-out expanse of the Dallas-Fort Worth metroplex, thousands of automated servers quietly purged unsent data.
 
@@ -1058,9 +1068,9 @@ Morgan looked directly at Ashley. "Thursday morning. The second the sun comes up
 
 Ashley opened her eyes, staring at the dead phone on the table. They just had to survive one more night.
 
-### Scene 6: The Shattered Script – 9:45 PM
+***
 
-**Date:** 2021-02-16 at 21:45
+#### 9:45 PM — The Shattered Script – 9:45 PM
 
 The absolute, suffocating silence of the freezing McMansion was broken by a deep, structural groan.
 
@@ -1110,9 +1120,9 @@ Muttering incoherently about the water downstairs, his heavy footsteps slowly re
 
 Under the blankets, Donald let out a soft, breathy laugh against Mary's neck, his rigid shoulders completely relaxing. The monster outside the door had lost his teeth, and tomorrow, they were walking out.
 
-### Scene 7: Interlude: The Current Loop – Tuesday, 11:30 PM
+***
 
-**Date:** 2021-02-16
+#### Interlude: The Current Loop – Tuesday, 11:30 PM
 
 The dead silence of the blacked-out apartment complex was broken only by the howling North Texas wind, but inside the locked two-car garage, the atmosphere was a warm, insulated sanctuary.
 
@@ -1148,9 +1158,11 @@ Connor nodded fiercely, the relief evident in his face. "We don't just check on 
 
 ## Chapter 9: The Breach – Thursday, February 18, 2021
 
-### Scene 1: The Arrival – 8:15 AM
+### The Arrival – 8:15 AM & Sanctuary – 9:30 AM
 
 **Date:** 2021-02-18 at 08:15
+
+#### 8:15 AM — The Arrival – 8:15 AM
 
 The blast of the air horn hit the house like a physical shockwave.
 
@@ -1188,9 +1200,9 @@ Under the blankets, Mary tightened her grip on Donald one last time. The siege w
 
 "Okay," Mary whispered, her hands shaking as she finally pushed the heavy, suffocating layers of the quilt off their shoulders, letting the freezing air of the room hit them. "Let's go home."
 
-### Scene 2: The Extraction – 8:18 AM
+***
 
-**Date:** 2021-02-18 at 08:18
+#### 8:18 AM — The Extraction – 8:18 AM
 
 The freezing air of the bedroom was a violent, physical shock the second the blankets were fully thrown back.
 
@@ -1252,9 +1264,9 @@ In the driver's seat, Emma shifted the massive transmission into drive. "Roads a
 
 The massive diesel engine roared, the heavy chains biting violently into the surface ice, and the Vanguard transport pulled away from the McMansion forever.
 
-### Scene 3: Sanctuary – 9:30 AM
+***
 
-**Date:** 2021-02-18 at 09:30
+#### 9:30 AM — Sanctuary – 9:30 AM
 
 The heavy, soundproof door of the penthouse suite clicked shut, sealing them inside.
 
@@ -1326,9 +1338,11 @@ Ashley wiped the tears from her cheeks, laughing softly as she stood up and grab
 
 ## Chapter 1: The Longest Mile – Saturday, February 20, 2021
 
-### Scene 1: Arrival at EBF – 10:45 AM
+### Part 1: Arrival at EBF – 10:45 AM & The Hearth – 12:28 PM
 
 **Date:** 2021-02-20 at 10:45
+
+#### 10:45 AM — Arrival at EBF – 10:45 AM
 
 The air at Eldridge Field smelled like salt and pineâ€”a sharp, bracing departure from the metallic, recycled atmosphere of the jet cabin.
 
@@ -1360,9 +1374,9 @@ As the train doors hissed open, Ashley reached out, squeezing Donaldâ€™s ha
 
 For now, that was enough. They were safe, they were together, and they were finally home.
 
-### Scene 2: The Red Line – 11:20 AM
+***
 
-**Date:** 2021-02-20 at 11:20
+#### 11:20 AM — The Red Line – 11:20 AM
 
 The Red Line train glided smoothly away from the coastal platform, its electric motors humming a low, steady rhythm.
 
@@ -1406,9 +1420,9 @@ A few blocks later, the automated voice of the bus announced the next stop: *Ste
 
 "This is us," Ashley said, stepping toward the center doors. She looked toward the front of the cabin, her voice projecting clearly over the rumble of the engine. "Wheelchair getting off!"
 
-### Scene 3: The Monolith – 12:15 PM
+***
 
-**Date:** 2021-02-20 at 12:15
+#### 12:15 PM — The Monolith – 12:15 PM
 
 The heavy hydraulic ramp deployed with a mechanical whine, lowering until it rested perfectly flush against the sprawling concrete plaza.
 
@@ -1444,9 +1458,9 @@ Ashley looked down at the boy in the wheelchair, her eyes shining with fierce, p
 
 "This is Sterling Plaza," Ashley said, her voice steady and echoing with absolute authority. She squeezed his shoulder. "Welcome home, Donald."
 
-### Scene 4: The Ascent – 12:25 PM
+***
 
-**Date:** 2021-02-20 at 12:25
+#### 12:25 PM — The Ascent – 12:25 PM
 
 The heavy glass doors slid open, and the roaring noise of the city abruptly vanished, replaced by the hushed, echoing acoustics of the massive Grand Atrium.
 
@@ -1492,9 +1506,9 @@ Ashley laughed softly, the sound bright and echoing in the armored car as the ma
 
 "Not today," Ashley smiled, leaning back against the steel wall. "There isn't a single cloud in the sky. We're just going to see the whole world."
 
-### Scene 5: The Hearth – 12:28 PM
+***
 
-**Date:** 2021-02-20 at 12:28
+#### 12:28 PM — The Hearth – 12:28 PM
 
 The ascent was breathtakingly fast, yet completely devoid of the stomach-dropping vertigo typical of standard skyscrapers. The heavy-duty vibration dampeners and massive traction motors of the Owner Express pulled them upward in a smooth, frictionless glide.
 
@@ -1536,9 +1550,11 @@ Amanda took a single, slow step forward, keeping her voice incredibly gentle.
 
 "Welcome home, Donald," Amanda smiled. "And welcome home, Mary."
 
-### Scene 6: The Architect of the Transition – 1:15 PM
+### Part 2: The Architect of the Transition & The Inheritance
 
 **Date:** 2021-02-20 at 13:15
+
+#### 1:15 PM — The Architect of the Transition – 1:15 PM
 
 The instinct to overwhelm him with love was palpable in the room, but the Sterling cousins held their ground. They had spent years preparing the 130th-floor estate for this exact day, eager to show him the 131st-floor sensory gardens or the massive Command Center upstairs.Â Â 
 
@@ -1608,9 +1624,9 @@ Across the kitchen, Diana tapped her mPad, casting her voice through the room. *
 
 Ashley squeezed his hand, her eyes shining with quiet, absolute certainty. "Your mind isn't a blank slate, Donald. It's an open door. You have the entire world at your fingertips now. Take all the time you need to explore it."
 
-### Scene 7: The Legal Strike – 1:30 PM
+***
 
-**Date:** 2021-02-20 at 13:30
+#### 1:30 PM — The Legal Strike – 1:30 PM
 
 Amanda carefully picked up the freshly signed federal release forms and the handwritten legal pad. She didn't hand them off to an assistant or slide them back into her folio to process later. She pulled her smartphone from her blazer pocket and tapped a speed-dial contact.
 
@@ -1644,9 +1660,9 @@ Amanda gathered the original documents, sliding them safely into her leather fol
 
 "The firewall is up, Donald," Amanda smiled, a fierce, uncompromising protector standing in the heart of her fortress. "The Texas chapter is officially closed."
 
-### Scene 8: The Inheritance – 6:00 PM
+***
 
-**Date:** 2021-02-20 at 18:00
+#### 6:00 PM — The Inheritance – 6:00 PM
 
 The 131st-floor sensory oasis was exactly what Donaldâ€™s redlining nervous system had needed. For four uninterrupted hours, he and Mary slept in one of the heavily soundproofed, low-light quiet zones, wrapped in weighted blankets while the gentle, cascading water walls of the indoor atrium provided a constant, soothing white noise.
 
@@ -1708,9 +1724,11 @@ Mary smiled, her grip on his shoulder tightening reassuringly. She looked down a
 
 Ashley beamed, grabbing her master security fob off the counter. "Then let's go. Welcome to the Board of Directors."
 
-### Scene 9: The Legacy Boardroom – 6:30 PM
+### Part 3: The Legacy Boardroom – 6:30 PM & The Town Square – 7:15 PM
 
 **Date:** 2021-02-20 at 18:30
+
+#### 6:30 PM — The Legacy Boardroom – 6:30 PM
 
 The heavy, armored doors of the Owner Express sealed shut, locking the family inside the massive steel cabin. Ashley tapped her master security fob against the panel, bypassing the lockouts before pressing the button for Floor 16.
 
@@ -1776,9 +1794,9 @@ She led them straight out of the Legacy Boardroom, guiding them back through the
 
 She bypassed the polished upper floors entirely and pressed the button marked *B4*.
 
-### Scene 10: The Lungs and Guts – 6:55 PM
+***
 
-**Date:** 2021-02-20 at 18:55
+#### 6:55 PM — The Lungs and Guts – 6:55 PM
 
 The Owner Express plummeted down the central core, bypassing the lower sky lobby and the grand atrium, sinking deep into the earth. The smooth ride ended with a heavy, metallic thud as the massive armored doors slid open on Level B4.
 
@@ -1810,9 +1828,9 @@ Donald stared at the sprawling network of high-voltage electrical facilities and
 
 He rolled forward, entirely captivated by the sheer, brutalist scale of the engineering. Mary stayed perfectly at his side, her earlier anxiety fading into a soft, relieved smile as she watched Donald finally engage with the world on his own terms.
 
-### Scene 11: The Town Square – 7:15 PM
+***
 
-**Date:** 2021-02-20 at 19:15
+#### 7:15 PM — The Town Square – 7:15 PM
 
 For the first twenty minutes, the rhythmic, low-frequency thrum of the B4 mechanical level was a grounding, predictable sensation. But as Susan led them deeper into the labyrinth of structural utilities, the sheer volume of the massive HVAC lungs and the heavy-duty water pumps began to compound.
 
@@ -1862,7 +1880,7 @@ The aisles were wide and perfectly illuminated with soft, warm lightingâ€”a
 
 ## Chapter 2: The Sunday Morning Choice – Sunday, February 21, 2021
 
-### Scene 1: The Water Walls – 7:00 AM
+### The Water Walls – 7:00 AM
 
 **Date:** 2021-02-22 at 08:15
 
