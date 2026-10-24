@@ -13677,9 +13677,13 @@ Sitting across from Jordan at the courtyard table, Henry leaned forward on his e
 
 <aac>You and Isabel and Kelsey didn't kick me out,</aac> Jordan typed softly, his fingers steady on the keys of his **Pinnacle Vanguard Pro**. <aac>If you had separated us on that Saturday morning, I never would have made it to today. Where did Housing reassign you for senior year now that Bennett Hall is closed for good and slated for demolition?</aac>
 
-"They moved me and **Isabel** right over to **Allegheny Commons** for senior year!" Henry smiled, shaking his head wistfully. "It's still wild to me that the Old Lady actually closed her doors for good in May while I was over here in London, and that she's slated for the wrecking ball. My summer term here wraps up at the end of July, and I fly back to Virginia the first week of August for RA fall training. With **Garrett** graduating in May and Bennett Hall shutting down, **Kelsey** got reassigned to oversee the **Allegheny Commons Apartments**—she's got Isabel stationed in **Apartment 101** and me right down the walkway as the Senior RAs for the complex. Though since you guys are moving into your off-campus sanctuary house on Geneva Street in Christiansburg for sophomore year, campus is going to be a whole lot quieter without Suite 214/216."
+"They moved me and **Isabel** right over to **Allegheny Commons** for senior year!" Henry smiled, a mischievous glint entering his eyes as he leaned in a little closer. "It's still wild to me that the Old Lady actually closed her doors for good in May while I was over here in London, and that she's slated for the wrecking ball. With **Garrett** graduating in May and Bennett Hall shutting down, **Kelsey** got reassigned to oversee the **Allegheny Commons Apartments**—and I actually just got Kelsey's finalized staff placement email this morning. Not only am I in Allegheny Commons, she assigned me as the Male Senior RA in **Apartment 115**, on the *exact same floor* as Isabel in **Apartment 101**! And Isabel doesn't even know yet!"
 
-"Speaking of Isabel," Aubrie said with a bright, mischievous smile, glancing at her watch. "It's one-forty-five in the afternoon here in London—which means it's **`8:45 AM`** on Tuesday morning in Charlottesville. And we promised somebody a video call from `LSEC`!"
+"Wait—you haven't told Isabel you're her floor co-RA again?!" Madison gasped, her eyes lighting up with instant delight.
+
+"The email only hit my inbox two hours ago!" Henry laughed. "I was saving it—though since you guys are moving into your off-campus sanctuary house on Geneva Street in Christiansburg for sophomore year, our floor is still going to be a whole lot quieter without Suite 214/216."
+
+"Speaking of Isabel," Aubrie said with a bright, mischievous smile, glancing at her watch. "It's one-forty-five in the afternoon here in London—which means it's **`8:45 AM`** on Tuesday morning in Charlottesville. We promised her a video call from `LSEC`—and if Henry ratted her out for the Heathrow ambush, it's only fair that we break the Allegheny Commons news to her right now!"
 
 "Do it!" Henry grinned, sliding his bench seat right up beside Jordan's right armrest while Aubrie leaned in on Jordan's left and Madison, Zoë, Lauren, Sarah, Jessica, Hannah, and Mark crowded into the wide-angle frame behind them.
 
@@ -13709,9 +13713,23 @@ On the `mPad` screen, Isabel's cheeks turned the exact shade of a ripe tomato. S
 
 Beside Jordan, Aubrie exchanged a tiny, fond, knowing glance with Madison and Lauren, her heart warming at just how hopelessly transparent their former RA was—even if Jordan himself simply smiled back at the screen, completely touched by her thoughtfulness.
 
-<aac>It was the best surprise I have ever had at an airport, Isabel,</aac> Jordan said through his speaker, making Isabel's smile soften into pure, glowing affection. <aac>Thank you for setting it up. On Thursday morning we are taking the high-speed tilting train from London Euston up to Liverpool, and on Saturday we fly to Tokyo.</aac>
+<aac>It was the best surprise I have ever had at an airport, Isabel,</aac> Jordan said through his speaker, making Isabel's smile soften into pure, glowing affection. Then a playful grin tugged at the corner of Jordan's mouth as he glanced at Aubrie and Madison and typed one more sentence: <aac>Also, since Henry ratted you out for Heathrow, we thought you should know that Kelsey assigned Henry to Apartment 115 at Allegheny Commons. He is the Male RA on the exact same floor as you again this year.</aac>
 
-*"Hold onto Henry for one more big hug from me before you leave London, okay?"* Isabel said warmly, waving with both hands as Henry leaned in beside Jordan to return the wave. *"Have the best time in Liverpool, guys, and text me the second you touch down in Japan!"*
+On the `mPad` screen, Isabel's jaw dropped open.
+
+*"WAIT—WHAT?!"* Isabel gasped, her eyes darting from Jordan to Henry. *"You're on the FIRST FLOOR of Allegheny Commons with me?!"*
+
+"Surprise, Room 101!" Henry grinned shamelessly, giving her a two-finger salute. "Just got Kelsey's placement email this morning! Looks like you're stuck with me as your floor co-RA for Senior Year too!"
+
+Isabel narrowed her eyes behind her glasses, folding her arms across her maroon CPI shirt as she put on her sternest, most theatrical mock-glare—even though the corners of her mouth were twitching so hard she could barely keep from laughing.
+
+*"Henry Thomas Walsh! You knew for two whole hours that you were on my floor at Allegheny Commons and you didn't even text me?!"* Isabel huffed, pretending to be deeply offended while her eyes sparkled with delight. *"I had to find out from Jordan and the girls across the Atlantic Ocean?! Unbelievable! You are officially on first-week duty roster probation in August!"*
+
+"Hey, consider us completely even for the Heathrow ambush, Dawson!" Henry laughed as the entire courtyard table erupted into cheers.
+
+<aac>On Thursday morning we are taking the high-speed tilting train from London Euston up to Liverpool,</aac> Jordan typed happily once the laughter settled, <aac>and on Saturday we fly to Tokyo.</aac>
+
+*"Hold onto Henry for one more big hug from me before you leave London, okay—even if he IS in the doghouse for not texting me!"* Isabel said warmly, her pretend scowl melting right back into a radiant smile as she waved with both hands. *"Have the best time in Liverpool, guys, and text me the second you touch down in Japan!"*
 
 ## The Wrong Liverpool (Merseyside)
 
@@ -13745,7 +13763,13 @@ Once they cleared the brick tunnels of Camden and Primrose Hill, the electric tr
 
 <aac>Active-tilt electromechanical actuators,</aac> Jordan typed happily to Zoë, who was leaning over the seat back behind him watching a GPS speedometer app hit `125 mph` on her tablet. <aac>Eight degrees of maximum cant compensation. It corners like a roller coaster without spilling the tea.</aac>
 
-"Two hours and fourteen minutes cover-to-cover from London to Merseyside," Zoë agreed with deep engineering satisfaction. "Now let's go see what **Sarah** thinks of her 'hometown.'"
+"Two hours and fourteen minutes cover-to-cover from Greater London to **Merseyside**," Zoë agreed with deep engineering satisfaction, tapping the map on her screen. "Which, for the benefit of the colonials at the table, is a Metropolitan County—not to be confused with the Ceremonial Counties and historic shires we're currently slicing through: Hertfordshire, Buckinghamshire, Northamptonshire, Warwickshire, Staffordshire, and Cheshire, right up to the borders of the Duchy of Lancaster."
+
+Mark blinked from the booth across the aisle, looking out the window at a stone church spire flashing past the green fields. "Wait—*Warwickshire*, *Staffordshire*, *Cheshire*, and the *Duchy of Lancaster*? Are we taking a train to Liverpool or riding into **Camelot**? Because nobody told me to pack chainmail in my carry-on."
+
+"Leave the broadsword at home, Sir Mark," Hannah laughed, leaning her head on his shoulder as Zoë rolled her eyes affectionately.
+
+"Besides," Zoë said, grinning over at **Sarah**, "the real comedy starts when we pull into Lime Street and let Sarah inspect her 'hometown.'"
 
 ### Scene 2: Wrong Liverpool, Everyone!
 
@@ -13785,9 +13809,9 @@ Jordan parked his power chair dead center in front of the sign, with **Sarah** s
 
 ### Scene 3: The Eastern Leap from Heathrow
 
-**Date:** 2015-06-13 at 11:00 Europe/London
+**Date:** 2015-06-27 at 11:00 Europe/London
 
-After spending Thursday night along the Merseyside waterfront—where Jordan, Lauren, and Sarah shared the anchor room overlooking the Albert Dock—and Friday riding the tilting **Pendolino** back down the West Coast Main Line to **London Euston**, Saturday morning brought the end of their European chapter.
+After spending Thursday night along the Merseyside waterfront—where Jordan, Lauren, and Sarah shared the anchor room overlooking the Albert Dock—riding the tilting **Pendolino** back down the West Coast Main Line to **London Euston**, and spending a second full week exploring Greater London's museums, parks, and step-free riverboats along the Thames with the Brooks family and Henry between his summer lectures, Saturday morning, June twenty-seventh brought the end of their British chapter.
 
 By ten-thirty in the morning, the eighteen travelers had ridden the step-free **Piccadilly Line** back out to **Heathrow Airport Terminal 2**, where their bags were checked through to **Tokyo Haneda (`HND`)** aboard **Nippon Skyways** (*All Nippon Airways*).
 
@@ -13812,6 +13836,449 @@ Before boarding even began, two uniformed **Nippon Skyways** ground agents—wea
 Fifteen minutes later, Jessica carried Jordan aboard the wide-body 777 and settled him into his First Class suite beside Aubrie, with Zoë and Daniel right across the aisle.
 
 As the massive twin GE90 turbofans roared to life and lifted them into the afternoon sky above the Thames, Jordan looked down at the green patchwork of England disappearing beneath the wings. Ahead of them lay a twelve-hour leap across eight time zones into East Asia—toward the bullet trains of **Tokyo**, theBrooks family's old home in **Osaka**, and an overnight ferry waiting on the **Seto Inland Sea**.
+
+## Chapter 6
+
+### Scene 1: Pang-Pon-Pang-Pon: Haneda Airport and the Architecture of Respect
+
+**Date:** 2015-06-28 at 08:30 Asia/Tokyo
+
+The massive jetbridge connecting the **Nippon Skyways** Boeing 777-300ER to **Tokyo Haneda's International Terminal** was fully carpeted, climate-controlled, and completely level. There were no jarring steel expansion plates, no steep inclines, and no flashing amber warning strobes.
+
+Waiting right outside the forward cabin door sat Jordan's 350-pound power chair, positioned on a clean protective mat by two white-gloved ground engineers who bowed respectfully as Jessica transferred him into his seat.
+
+Jordan rolled off the aircraft, his heavy tires gliding silently onto the spotless concourse. After a twelve-hour trans-Eurasian flight across Siberia from London—crossing eight time zones eastward into Sunday morning—his nervous system was frayed and volatile. He sat rigidly in his frame, his shoulders hiked defensively toward his ears, preemptively bracing for the inevitable sensory assault of a major international airport. Even after the warmth of Gander, the calm of Keflavík, and Henry's welcome at Heathrow, eighteen years of conditioning still made Jordan expect blaring, distorted intercom sirens, barking security guards, and echoing chaos the moment he entered a massive terminal.
+
+**Zoë** walked comfortably at his right side, her `mPad` tucked under her arm. She didn't look jet-lagged at all; she looked energized, her analytical gray eyes scanning the sleek, sun-drenched glass terminal with fond childhood familiarity.
+
+Suddenly, a chime rang out overhead.
+
+Jordan flinched hard. His hands seized on his armrests, and he squeezed his eyes shut behind his glasses, bracing for a deafening, static-filled screech.
+
+The screech never came.
+
+Instead, a warm, resonant, four-note acoustic melody—*pang-pon-pang-pon*—floated gently down from the high vaulted ceiling. It sounded like a softly struck wooden marimba. It didn't pierce the air; it simply drifted through it like a quiet breeze.
+
+Following the four notes, a woman's voice spoke over the PA system in Japanese. Her tone was velvety, hushed, and extraordinarily polite—completely devoid of the sharp, barking cadence of American airport security announcements.
+
+Jordan slowly opened his eyes, the braced tension in his chest faltering into pure confusion. He looked up at the recessed ceiling speaker, bewildered.
+
+Zoë stopped walking and looked down at him. Her hyper-observant eyes caught the exact microsecond his survival reflex short-circuited. She offered a warm, reassuring smile, stepping closer to his armrest so he wouldn't feel exposed in the wide arrivals corridor.
+
+"She is welcoming the passengers arriving from London Heathrow," Zoë translated effortlessly, her crisp British-Virginian voice matching the gentle cadence of the announcer. "She is politely asking everyone to have their passports ready for immigration, and thanking us for flying safely through the night."
+
+Ten yards ahead at the immigration queue divider, an airport attendant in a crisp pastel uniform bowed and spoke rapidly to the group in polite, honorific Japanese (*keigo*).
+
+Without missing a single beat, Zoë bowed back at the exact matching fifteen-degree angle and replied in flowing, effortless Japanese—her pitch-accent, cadence, and honorific phrasing so remarkably natural that only a native Japanese speaker listening closely would ever realize she hadn't been born in Japan. The attendant beamed, bowed again, and immediately opened the wide barrier-free priority lane for all eighteen members of the family.
+
+Jordan stared up at Zoë as they rolled down the quiet lane, his hands slowly unclenching until his fingers rested lightly on the keys of his **Pinnacle Vanguard Pro**.
+
+<aac>Your Japanese is near-flawless,</aac> his `"Sydney"` voice murmured quietly, carrying a note of genuine awe. <aac>To my ears, you sound completely native. Did you brush up on it just for this trip?</aac>
+
+Zoë's smile widened, softening the usual pragmatic intensity of her expression. She reached out and gently adjusted the collar of Jordan's shirt—a quiet, grounding gesture of affection.
+
+"Not just for the trip," Zoë explained softly as **Caleb**, **Daniel**, and **Laura** smiled behind her. "When Caleb and I were younger, my dad's firm transferred him to their Asian headquarters in Kansai. Our whole family lived in **Osaka** for four years. I practically grew up riding the local trains and ferries here—and when we moved to Virginia, I took the state Credit-by-Exam proficiency assessment to test out of high school foreign language so I wouldn't lose it. That's why Dad booked this exact route through Japan for us."
+
+Jordan looked around the spotless, sun-lit terminal as they cleared customs and emerged into the arrivals lobby. Hundreds of travelers were moving through the concourse, yet nobody was shouting. No luggage carts were blaring aggressive klaxons. Even the footsteps around them were measured and quiet.
+
+"They don't yell here, Jordan," Zoë promised, her voice a steady, fierce anchor beside his chair. "The infrastructure isn't designed to assault you. It's designed to accommodate you. You don't have to brace yourself."
+
+Another soft *pang-pon-pang-pon* marimba chime drifted through the air.
+
+For the first time in his entire life inside an airport, Jordan didn't flinch. He took a deep, shuddering breath, exhaled eighteen years of defensive tension, and rolled forward to the **Nippon Rail East (`NR East`)** Travel Service Center at the entrance to the **Haneda Bay Monorail** station.
+
+There, Zoë and Daniel helped him claim **Smart Card Number Four**: a lime-green-and-silver contactless **`Midori Card`** (*Suica*) adorned with a smiling little penguin emblem.
+
+Jordan slid the green **`Midori Card`** into the fourth slot of his clear collector's sleeve below his **`NordicPass`**, **`Pearl Card`**, and **`MerseyPass`**, tapped it against the wide blue-lit IC reader on the extra-wide accessible faregate—which answered with a cheerful, high-pitched *pi-pi!* instead of a harsh buzz—and rolled onto the level platform of the **Haneda Bay Monorail** overlooking Tokyo Bay.
+
+### Scene 2: The Yamanote Slope Board and the City That Doesn't Yell
+
+**Date:** 2015-06-30 at 14:00 Asia/Tokyo
+
+Over the next four days in **Tokyo**, Jordan discovered what happened when the largest metropolitan rail grid on the planet treated wheelchair accessibility not as a begrudging legal afterthought, but as a point of institutional honor.
+
+In London, navigating the Victorian Underground had been a tactical puzzle of checking which nineteenth-century stations lacked elevators and rerouting onto red double-decker surface buses.
+
+In Tokyo—a metropolis of thirty-seven million people—the rail system operated like a Swiss watch written in clean C# code.
+
+Whenever the eighteen-person family approached a **`Nippon Rail East` (`NR East`)** or **Tokyo Metro** faregate, Jordan tapped his green **`Midori Card`** while Zoë exchanged two polite sentences in near-flawless Japanese with the stationmaster inside the glass wicket office.
+
+Watch what happened next became Jordan and Zoë's favorite daily ritual.
+
+The stationmaster would glance at Jordan's wheelchair, note their destination station, pick up an internal railway telephone to call ahead down the line, and immediately step out of the booth wearing a crisp navy uniform cap and immaculate white cotton gloves. Unfolding a lightweight, high-traction portable fiberglass slope board (*watari-ita*), the attendant would escort their group down the wide elevator to the exact car and door marker on the **Yamanote Line** loop platform—usually Car 10 or Car 11, where the dedicated wheelchair and stroller free-space bay (*free-space*) was marked on the platform floor.
+
+When the silver-and-lime-green commuter train glided to a halt within two centimeters of the platform alignment marks, the doors slid open with a quiet pneumatic hush, the attendant laid the slope board smoothly across the tiny two-inch threshold gap, and bowed as Jordan rolled effortlessly into the spacious bay.
+
+And the miracle happened at the other end of the ride.
+
+Whether they were getting off two stops later or eight stops across the city in **Akihabara**, **Ueno**, **Shinjuku**, or **Shibuya**, the exact second the train doors slid open at their destination, *another* white-gloved station attendant was already standing on the platform at that exact door, holding a matching slope board ready in his hands with a polite bow.
+
+There was no waiting twenty minutes on an empty platform wondering if someone had forgotten them. There was no sighing, no eye-rolling, and no treating Jordan's 350-pound power chair like an inconvenience blocking the rush-hour schedule.
+
+On Tuesday afternoon, after exploring the multi-story electronics and retro computing arcades of **Akihabara**—where Jordan, Zoë, and Madison spent two blissful hours examining vintage Japanese motherboards, mechanical keyboard switches, and 16-bit **Kinoka** (*Nintendo*) game cartridges—and watching the famous pedestrian scramble from the skybridge above **Shibuya Crossing**, the group paused in a quiet, tree-shaded courtyard garden near **Meiji Shrine**.
+
+Jordan sat in the dappled shade beneath the towering *torii* cedars, watching the sunlight filter through the leaves while **Aubrie** and **Lauren** sipped cold green tea from a vending machine beside him.
+
+He looked down at his **Pinnacle Vanguard Pro** and typed slowly into his `NeoEdit` window.
+
+<aac>Zoë, can I ask you a serious question?</aac> Jordan's `"Sydney"` voice asked quietly.
+
+Zoë looked up from her `mPad` and stepped over to his right armrest, while **Daniel**, **Aubrie**, and **Madison** turned to listen. "Always, J. What's on your mind?"
+
+<aac>We have been in Tokyo for three days, and we have ridden twelve different trains with millions of people around us,</aac> Jordan typed, his green eyes earnest behind his glasses. <aac>Not a single person has stared at my wheelchair with disgust. Not a single station worker has acted annoyed that they had to get a ramp for me. Nobody shoves on the platforms, nobody screams into their phones on the train, and every chime sounds like a music box. Is the whole country really like this, or are we just lucky?</aac>
+
+Daniel Brooks smiled warmly, stepping up beside his daughter and resting a hand on Zoë's shoulder.
+
+"You aren't just lucky, Jordan," Daniel said gently. "Every society has its flaws, of course, and older rural buildings can still have narrow steps—which is why Japan passed its *Barrier-Free New Law* to retrofit every major transit hub, train, and ferry terminal in the country. But culturally, public space here is built on *wa*—social harmony and consideration for the people sharing the room with you. Being loud, aggressive, or making someone feel unwelcome in public is considered shameful."
+
+"When I was little," Zoë added softly, her fingers brushing the edge of Jordan's laptop screen, "before I even knew how to explain why chaotic, unscripted noise made my brain spike toward a crash, Japan was the first place where the outside world felt as orderly as a clean codebase. You follow the yellow tactile blocks, the train arrives at `14:02:00` instead of `14:02:30`, and the city respects your space."
+
+Jordan looked out across the quiet gravel courtyard, his heart beating with a strange, new, expansive wonder that he wasn't quite ready to put into words yet—only to realize that for the first time in nineteen years, a tiny voice inside his head was quietly asking what it would feel like to never have to leave a place this peaceful.
+
+### Scene 3: The Hassha Melody on the Shinkansen Platform
+
+**Date:** 2015-07-04 at 09:45 Asia/Tokyo
+
+On Saturday morning, July fourth, the eighteen travelers rode the elevator up to **Platform 18** of the **Tōkaidō Shinkansen** at **Tokyo Station** to board the bullet train west to **Osaka**.
+
+The elevated high-speed rail platform was teeming with thousands of commuters and travelers, yet it possessed a focused, flowing order that felt entirely alien to Jordan. Passengers stood in neat, silent, two-abreast queues painted directly onto the concrete floor at every car door location. Jordan sat in his heavy power chair at the head of the **Car 11** accessibility queue, positioned neatly behind the tactile yellow warning blocks with his hands resting on his terminal keyboard.
+
+**Zoë** stood faithfully at his right shoulder, her sharp gray eyes scanning the tri-color LED departure boards overhead while **Aubrie**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, and the **Brooks** family lined up behind them. Having spent four years of her childhood riding the bullet train between Kansai and Tokyo, Zoë navigated the dense crowds and glowing *kanji* with effortless, pragmatic confidence.
+
+Suddenly, the overhead PA system clicked on with a distinct crackle of static.
+
+Instinct overrode everything.
+
+Eighteen years of American transit hubs and his mother's sudden, screaming reprimands had hardwired Jordan's nervous system to associate a sudden speaker click with incoming pain. A PA crackle meant an assault was coming.
+
+Jordan instantly braced for impact. His shoulders hiked up defensively toward his ears, his jaw clenched, and he squeezed his eyes shut behind his glasses—expecting the blaring, eardrum-piercing shriek of an industrial warning buzzer or the booming, distorted shout of an impatient conductor.
+
+The assault never came.
+
+Instead, a soft, crystalline chime rolled gently out of the speakers overhead. It was a *Hassha* departure melody—a bright, lilting acoustic jingle composed specifically for the Shinkansen platforms that sounded like a delicate porcelain music box rather than a transit warning. It didn't pierce the air; it warmly invited the platform's attention.
+
+Jordan slowly opened his eyes, blinking in pure confusion. The tension in his shoulders didn't just ease; it melted away. He looked up at the platform canopy speaker, completely bewildered by the lack of auditory violence.
+
+Following the music-box melody, a woman's voice spoke over the PA in Japanese. Her tone was soft, level, and deeply polite—sounding as though she were quietly apologizing for interrupting their morning rather than barking an order at a crowd.
+
+Zoë looked down, her hyper-observant eyes catching the exact moment Jordan's bracing reflex faltered. Because her own autistic nervous system processed sensory spikes with the exact same intensity, she understood the shock he was experiencing from the inside out. She stepped in closer, resting a firm, grounding hand on his shoulder to physically anchor him in the safe present.
+
+"She's announcing the arrival of our **Nozomi Super Express** bound for Shin-Osaka," Zoë translated smoothly, her crisp British-Virginian voice matching the calm, respectful cadence of the announcer. "She is politely asking everyone to please remain behind the yellow tactile blocks for our own safety, and thanking us for riding with them today."
+
+Jordan stared at the empty high-speed track in front of him, his chest rising and falling in a deep, slow breath.
+
+<aac>They do not yell,</aac> his terminal synthesized quietly, the `"Sydney"` voice carrying a note of hushed awe. <aac>It did not hurt.</aac>
+
+"They don't," Zoë affirmed softly, giving his shoulder a firm, reassuring squeeze. "The architecture here isn't designed to fight you, Jordan. You don't have to brace yourself anymore."
+
+Thirty seconds later, a sleek, aerodynamic white-and-blue **N700A Series Shinkansen**—its long, duck-billed nose sculpted like a high-speed spacecraft—glided almost silently into Platform 18. The wide plug door of **Car 11** slid open with a muted pneumatic *swoosh* rather than a heavy mechanical slam, and a white-gloved platform attendant immediately laid the portable slope board across the threshold.
+
+Jordan relaxed his grip on his armrests and drove smoothly into the dedicated wheelchair bay of Car 11, where a wide panoramic window and a private, full-size wheelchair-accessible multipurpose room sat just steps away down the vestibule.
+
+As the **Nozomi Super Express** glided out of Tokyo Station and accelerated past Yokohama onto the main Tōkaidō line—climbing effortlessly to **177 miles per hour (`285 km/h`)** with less vibration than a city bus—Jordan looked out the wide window beside Aubrie and Zoë. Beyond the green tea fields of Shizuoka, the towering, snow-streaked volcanic cone of **Mount Fuji** rose into the clear summer sky, while the realization washed over Jordan that for the first time in his life, the world outside was actively inviting him to exist in it peacefully.
+
+Two hours and twenty-three minutes after leaving Tokyo, the bullet train glided to a pinpoint stop at **Shin-Osaka Station**.
+
+And down on the main concourse of **`Nippon Rail West` (`NR West`)**, Zoë proudly handed Jordan **Smart Card Number Five**: a crisp teal-and-blue **`KansaiPass`** (*ICOCA*) featuring a cheerful cartoon platypus mascot—welcoming Jordan to the city where Zoë Brooks had grown up.
+
+### Scene 4: The Brooks Family's Osaka and a Question About the Future
+
+**Date:** 2015-07-07 at 20:00 Asia/Tokyo
+
+If Tokyo was a gleaming, hyper-synchronized monument to precision engineering, **Osaka** felt like stepping into the warm living room of the Brooks family's past.
+
+Over their first three days in Kansai, tapping their teal **`KansaiPass`** smart cards across the universally elevator-equipped **Osaka Municipal Subway** (*Midōsuji Line* and *Tanimachi Line*), **Daniel**, **Laura**, **Zoë**, and **Caleb** took the lead—showing the family the exact tree-lined residential street near **Nakanoshima** where they had lived for four years, the neighborhood park where Caleb and Lucas had learned to play baseball with the local kids, and the quiet bookshop where a nine-year-old Zoë had bought her very first bilingual C# programming reference manual.
+
+Even better, when they rolled along the level boardwalk of **Dōtonbori** in the early evening before the neon crowds peaked, the family stopped at the exact corner *takoyaki* and *okonomiyaki* stall Daniel and Laura had frequented fifteen years earlier.
+
+When the elderly shopkeeper behind the iron griddle looked up and recognized Daniel, Laura, and a grown-up Zoë and Caleb, his jaw dropped. And when Zoë stepped forward and greeted him in warm, pitch-perfect Osaka Japanese—effortlessly slipping a touch of affectionate Kansai cadence into her near-flawless phrasing—the old man beamed from ear to ear, refusing to let them pay for the second round of piping-hot *takoyaki* trays he set out on their accessible riverside table.
+
+That Tuesday evening at eight o'clock Japan Standard Time—which was **`7:00 AM`** on Tuesday morning back in **Charlottesville, Virginia**—the nine CPI students gathered in the spacious tatami-and-hardwood sitting room of their barrier-free serviced apartment overlooking the Yodo River to make a video call across the Pacific.
+
+Jordan unlocked his `mPad`, angled the camera so all nine of them were visible in the warm evening light of Osaka, and dialed **Isabel Dawson**.
+
+The call connected on the first ring.
+
+In Charlottesville, Isabel was sitting on the back porch swing of the Dawson house in her glasses and a light cardigan, holding a travel mug of tea while her younger sister **Elana**, cousin **Stephen**, and their silver-dapple service miniature horse **Stella** were finishing their morning routine inside.
+
+*"Good morning from Virginia—or good evening in Osaka!"* Isabel beamed, her face lighting up the moment she saw Jordan sitting front and center flanked by Aubrie, Zoë, Madison, and Lauren. *"How is Japan?! Did you get your Tokyo and Osaka transit cards?"*
+
+Jordan proudly held up his clear plastic collector's sleeve so the lime-green **`Midori Card`** and the teal **`KansaiPass`** caught the light right below his **`NordicPass`**, **`Pearl Card`**, and **`MerseyPass`**.
+
+<aac>Smart Card Number Four from Nippon Rail East in Tokyo, and Smart Card Number Five from Nippon Rail West here in Osaka,</aac> Jordan announced happily through his `"Sydney"` voice. <aac>Have you forgiven Henry yet for not texting you about Apartment 115 at Allegheny Commons?</aac>
+
+Isabel let out an theatrical huff, though her cheeks immediately turned pink as she laughed.
+
+*"Oh, Henry sent me a three-paragraph apology message from London ten minutes after we hung up last month!"* Isabel grinned, shaking her head. *"He promised to cover my first two Wednesday night duty shifts in August to get out of the doghouse, so I suppose he is officially pardoned! Tell me everything about Osaka—is Zoë showing off her Japanese?"*
+
+"Zoë is basically running the entire Kansai transit grid like she owns the railway," **Mark** laughed from behind Hannah's shoulder. "Every station attendant bows to her, she translates the PA announcements in real time before the sentence even finishes, and only a native speaker would ever guess she didn't grow up here her whole life."
+
+On the screen, Isabel's warm brown eyes softened as she looked closely at Jordan. Even across seven thousand miles and a tablet camera, she had spent enough hours watching Jordan in Bennett Hall to read the quiet, relaxed posture of his shoulders—how completely gone the old defensive flinch was.
+
+*"Jordan,"* Isabel said gently, *"you look so peaceful over there. I don't think I've ever seen your shoulders look that relaxed."*
+
+The room grew quiet for a beat.
+
+Jordan looked down at his keyboard, his fingers resting on the home row as the thought that had been building inside him all week in Tokyo and Osaka finally crystallized into words.
+
+He typed slowly and deliberately, letting his `"Sydney"` voice speak for everyone in the room and for Isabel on the screen:
+
+<aac>Nobody yells here, Isabel. The airport chimes sound like a marimba, the bullet train platforms play music-box melodies so nobody gets startled, and the station attendants meet my wheelchair at the train door with a ramp down to the exact second without ever making me feel like a burden. Sometimes, rolling through Tokyo and Osaka this week, I have caught myself wondering if maybe one day—after we finish our degrees at CPI—I might actually want to live in Japan.</aac>
+
+For a moment, nobody spoke.
+
+**Aubrie** reached over and laced her fingers gently through Jordan's left hand. **Madison** rested her chin affectionately on his left shoulder, while **Zoë**, **Daniel**, and **Laura** looked at him with deep, shining pride.
+
+On the `mPad` screen, Isabel's eyes glistened behind her glasses as a tender, deeply moved smile spread across her face.
+
+*"Oh, Jordan,"* Isabel whispered. *"Can you imagine? Nine months ago you were terrified to roll across the second-floor hallway of Bennett Hall—and now you're sitting on the other side of the world dreaming about where you want to live after you graduate from college."*
+
+"And if you ever do want to live or work here for a few years after CPI, Jordan," **Daniel Brooks** said warmly from the doorway, "my firm's Osaka and Tokyo offices hire astrophysicists, data modelers, and systems engineers every single year. With CPI degrees under your belts, that door is wide open."
+
+"Which means," **Zoë** declared, her gray eyes lighting up with sudden, unmistakable determination as she looked around the circle at Jordan, Aubrie, Madison, Lauren, Hannah, Mark, Sarah, and Jessica, "we have a brand-new academic objective for Sophomore Year. Tomorrow night, we board the **`Ferry Hoshizora`** at Osaka South Port to sail across the **Seto Inland Sea**—and when we get back to Blacksburg in August, I am officially volunteering to coach and tutor all eight of you so all nine of us can take **Japanese 101** together!"
+
+## Chapter 7
+
+### Scene 1: Osaka South Port and Boarding the Starry Sky
+
+**Date:** 2015-07-08 at 18:00 Asia/Tokyo
+
+Late Wednesday afternoon, the eighteen travelers tapped their teal **`KansaiPass`** cards at the **Osaka Municipal Subway** faregates, rode the step-free **Chūō Line** out to **Cosmo Square**, and transferred via the automated, rubber-tired **Nankō Port Town Line (*New Tram*)** to **Ferry Terminal Station** at **Osaka South Port**.
+
+A wide, glass-enclosed elevated skybridge—completely level and lined with smooth non-slip flooring—connected the station concourse directly to the second-floor boarding gallery of the **Osaka South Port (`Nankō`) Ferry Terminal**.
+
+Moored along the pier outside the panoramic windows sat their vessel for the twelve-hour overnight voyage across the **Seto Inland Sea** to **Beppu** on the island of Kyūshū: the massive, gleaming white hull of the roll-on/roll-off passenger and car liner **`Ferry Hoshizora`** (*Starry Sky*), her flanks painted with a sweeping golden-and-cobalt emblem of a rising sun and a constellation of stars.
+
+"Look at her, J," **Caleb Brooks** smiled, resting his forearms on the observation rail beside Jordan's wheelchair while **Zoë**, **Daniel**, and **Laura** stood on Jordan's other side. "Every summer when we lived in Osaka, Dad and Mum would take us down to Nankō Port and put us on the *Hoshizora* for the overnight crossing to the hot springs in Beppu. Best sleep you'll ever get on water."
+
+"And fourteen years ago," **Daniel** added warmly, "during the Japanese leg of **The Stardust Engine**'s *Midnight Drivers World Tour*, **Holly O'Connell** actually booked the upper-deck accessible cabins on this exact ship so Ryan, Cassidy, Evan, and Tyler could decompress away from the Tokyo stadiums. Holly fell so deeply in love with the ship's 1978 PA theme song that she tracked down the original Osaka studio masters from **The Hoshizora Ensemble** and licensed them for **Engine Room Records**."
+
+At six-fifteen, the boarding gate opened.
+
+Two uniformed **`Ferry Hoshizora`** pursers in crisp white naval tunics bowed politely to Jordan, guiding the family across the wide, level, carpet-lined passenger gangway straight into the ship's grand two-story central atrium.
+
+As they rolled across the threshold into the warm wood-and-brass lobby, the ship's PA speakers chimed softly—*pang-pon-pang-pon*—followed by the gentle, mid-tempo acoustic guitar strumming of the ship's boarding *Welcome Melody*:
+
+> *ようこそ旅人よ 夕暮れの鐘が鳴る*<br>
+> *(Yōkoso tabibito yo, yūgure no kane ga naru — Welcome traveler, the evening bell is ringing)*<br>
+> *街の灯りが 霞んでゆく*<br>
+> *(Machi no akari ga kasunde yuku — The city lights slowly fade into the dusk)*<br>
+> *穏やかな波が 明日へ運ぶよ*<br>
+> *(Odayakana nami ga asu e hakobu yo — The gentle waves will carry you to tomorrow)*<br>
+> *ようこそ、星空へ 今夜の海は静かだから*<br>
+> *(Yōkoso, Hoshizora e. Konya no umi wa shizuka dakara — Welcome to the Starry Sky. The sea is calm tonight.)*
+
+A wide passenger elevator carried them up to the **Deluxe Upper Deck**, where Daniel had reserved a block of adjoining staterooms centered around the ship's flagship **Barrier-Free Deluxe Suite**—a spacious stateroom featuring a forty-inch sliding pocket door, zero floor thresholds, a private roll-in bathroom, low beds, and a wide panoramic picture window looking straight out over the starboard sea lane.
+
+Tonight, the rotating sleep schedule had placed **Aubrie** and **Zoë** in the accessible anchor cabin with **Jordan**.
+
+Once the rest of the family settled into the adjoining cabins and stepped up to the promenade deck to watch the harbour tugboats cast off the mooring lines, the cabin door slid quietly shut, leaving Jordan, Aubrie, and Zoë in the warm, golden glow of their stateroom.
+
+### Scene 2: Threat Level Zero: Hoshizora no Uta (Japanese Version)
+
+**Date:** 2015-07-08 at 19:05 Asia/Tokyo
+
+At seven-oh-five in the evening, the massive hull of the **`Ferry Hoshizora`** glided smoothly out of Osaka Port, the deep, steady hum of its twin marine engines vibrating reassuringly beneath the thick tires of Jordan's 350-pound power chair. Outside the glass, the evening air was warm and golden, and the vast, tranquil, island-dotted expanse of the **Seto Inland Sea** stretched out toward the western horizon.
+
+Inside their spacious, wheelchair-accessible cabin, Jordan parked his chair beside the wide observation window. **Aubrie** leaned comfortably against his right armrest, looking out at the calm indigo water with her hand resting near his shoulder, while **Zoë** sat cross-legged on the lower bed behind them, methodically organizing the family's Kyūshū rail reservations on her `mPad`.
+
+Suddenly, the soft, polite four-note chime echoed from the ship's recessed PA speaker overhead.
+
+Instead of the harsh, jarring announcements Jordan had spent his life dreading in American transit hubs, the speaker filled the quiet stateroom with a warm, nostalgic 1970s acoustic and City Pop guitar melody, lush strings, and gentle bell chimes.
+
+It was the ship's signature departure anthem—the original 1978 Osaka studio master of **[*"Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]"*](https://music.raggiesoft.com/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/?track=1-01-hoshizora-no-uta-song-of-the-starry-sky-japanese)** by **[The Hoshizora Ensemble](https://music.raggiesoft.com/the-hoshizora-ensemble/)**, from ***[Hoshizora no Uta: Voyages on the Seto Inland Sea](https://music.raggiesoft.com/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/)***:
+
+> *夕暮れの港に 優しい風が吹く*<br>
+> *(Yūgure no minato ni yasashii kaze ga fuku)*<br>
+> *重い影は 岸に残してゆこう*<br>
+> *(Omoi kage wa kishi ni nokoshite yukou)*<br><br>
+> *穏やかな波が 明日へ運ぶよ*<br>
+> *(Odayakana nami ga asu e hakobu yo)*<br>
+> *星空の下で 瞳を休めて*<br>
+> *(Hoshizora no shita de hitomi o yasumete)*<br>
+> *海の上なら もう安全だから*<br>
+> *(Umi no ue nara mō anzen dakara)*
+
+The gentle, 1970s folk-pop vocals floated through the cabin air, carrying a melody that was unimaginably earnest, breezy, and warm. It was inherently welcoming—inviting the weary traveler to simply exist and let the ship carry him across the water.
+
+Jordan didn't speak a single word of Japanese yet.
+
+He didn't need to.
+
+For eighteen years under his mother's roof, his autistic neurology had been trapped in a state of permanent, exhausting hyper-vigilance—constantly bracing for Aubrie Sinclair's footsteps in the hallway, her harsh commands, her sudden boundary violations, and the agonizing static of sensory overload. Even after ten months of love and safety at CPI, a deep, subconscious basement thread of his nervous system had remained a frayed wire, always humming on standby, always guarding the perimeter.
+
+This music didn't demand a single thing from him. It didn't crowd him, and it didn't overstimulate him.
+
+For the absolute first time in Jordan Fuller's life, as the shore of Osaka receded behind the wake and the warm Japanese vocals wrapped around the quiet cabin, **the threat level in his environment dropped to zero.**
+
+It was a feeling of one-hundred-percent pure, unadulterated peace.
+
+And the sudden, absolute absence of trauma felt like stepping off a cliff in the dark.
+
+His brain—so conditioned to brace against a world that hurt—suddenly didn't know how to compute being completely, unconditionally safe. The contrast between the eighteen years of hell he had survived and the gentle, cradling warmth of the ferry cabin was too sharp for his nervous system to hold.
+
+The wire finally snapped.
+
+A ragged, choking gasp ripped from Jordan's throat. His hands flew off his **Pinnacle Vanguard Pro** keyboard. He slumped forward in his heavy-duty power chair, his entire body seized by violent, uncontrollable tremors as a massive, overwhelming autistic meltdown crashed into him. Hot tears flooded behind his glasses, blinding him, and he let out a low, breathless, shuddering sob.
+
+Aubrie didn't flinch, and Zoë didn't panic.
+
+Their own autistic empathy told them in an instant what was happening: this wasn't a meltdown of pain or sensory assault. It was a sensory shock of profound, overwhelming relief.
+
+They knew exactly what to do.
+
+"I've got you," Aubrie murmured fiercely, dropping to her knees on the cabin carpet right beside the right side of his chair.
+
+Zoë immediately set her `mPad` aside on the mattress and stepped swiftly to his left side. Moving in seamless, silent coordination as the second verse of *"Hoshizora no Uta"* drifted softly from the speaker—
+
+> *船は静かな 子守歌を歌う*<br>
+> *(Fune wa shizukana komoriuta o utau)*<br>
+> *急がなくていい 時を預けて*<br>
+> *(Isoganakute ii, toki o azukete)*
+
+—the two women bypassed light touches entirely and went straight for heavy, grounding bilateral compression.
+
+Aubrie wrapped both arms tightly around Jordan's waist from the right, burying her face against his ribs, while Zoë mirrored her on the left, leaning her full weight firmly across his shoulders and upper back. Together, they applied deep, crushing physical pressure—manually squeezing his frayed nerves back together while the steady vibration of the ship's hull hummed through the floor.
+
+Jordan squeezed his eyes shut, his chest heaving raggedly, and leaned desperately into their combined weight. The heavy, unyielding physical compression acted as an immediate somatic anchor for his spiraling nervous system.
+
+Slowly, as the gentle Japanese outro faded into the quiet hum of the sea—*おやすみ旅人 また明日 (Oyasumi tabibito, mata ashita)*—the violent trembling in Jordan's shoulders began to subside. The initial storm burned itself out into a profound, hollowed-out stillness.
+
+Jordan let out a long, shuddering exhale, his muscles finally slackening against their arms.
+
+Aubrie shifted her grip slightly, resting her chin on his right armrest and looking up at him with dark, adoring eyes. Zoë loosened her hold just enough to reach up and gently adjust Jordan's crooked glasses back onto the bridge of his nose.
+
+Slowly, Jordan's trembling fingers found the home row of his keyboard.
+
+<aac>I do not know what they are singing,</aac> the synthesized `"Sydney"` voice of his terminal murmured quietly, its cadence carrying the heavy weight of his exhaustion. <aac>But it feels incredibly kind.</aac>
+
+### Scene 3: For You Are Safe Upon the Sea: Hoshizora no Uta (English Version)
+
+**Date:** 2015-07-08 at 19:12 Asia/Tokyo
+
+Standing beside the left armrest of Jordan's wheelchair as the twilight deepened over the Seto Inland Sea, **Zoë** offered a soft, affectionate smile and reached up to wipe a stray tear from the corner of her own eye behind her glasses.
+
+Having spent four formative years of her childhood living in Osaka, the Japanese language was second nature to her—but this specific melody carried the deep, comforting weight of home. She hadn't just understood the broadcast over the cabin PA; she had known every word of it by heart since she was eight years old.
+
+Even more than that, right on Zoë's `mPad`—inside the offline **Engine Room Records** digital library they had brought for the trip—sat the official 2002 English-language studio recording that **Holly O'Connell** had commissioned from **[The Hoshizora Ensemble](https://music.raggiesoft.com/the-hoshizora-ensemble/)** after the *Midnight Drivers World Tour*: **[*"Hoshizora no Uta (Song of the Starry Sky) [English Version]"*](https://music.raggiesoft.com/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/?track=1-02-hoshizora-no-uta-song-of-the-starry-sky-english)** from ***[Hoshizora no Uta: Voyages on the Seto Inland Sea](https://music.raggiesoft.com/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/)***.
+
+"It's the ship's theme song, Jordan," Zoë explained softly, her crisp British-Virginian voice cutting gently through the quiet stateroom as she tapped play on the English studio master on her `mPad` so the warm acoustic guitar and vibraphone chimes filled the room at a hushed, comforting volume. "My family used to take this exact ferry all the time when we lived here. Listen to what they're singing to you—the chorus translates to:
+
+> *'Leave your heavy shadows on the shore.*<br>
+> *The gentle waves will carry you to tomorrow.*<br>
+> *Rest your eyes under the starry sky,*<br>
+> *For you are safe upon the sea.'"*
+
+Jordan stopped breathing.
+
+Across the quiet cabin, the English vocals sang the exact words Zoë had just spoken:
+
+> *"The evening wind blows gently on the port*<br>
+> *Leave your heavy shadows on the shore*<br>
+> *The gentle waves will carry you to tomorrow*<br>
+> *Rest your eyes under the starry sky*<br>
+> *For you are safe upon the sea..."*
+
+The first meltdown had been a purely physical, neurological reaction to the sound of a world with zero hostility.
+
+The translation was a cognitive tidal wave.
+
+The song wasn't just a pretty, peaceful maritime lullaby. It was a literal, explicit promise—intentionally booked for him by Daniel, Laura, and Zoë Brooks because they already knew the profound sanctuary this ship offered.
+
+*Leave your heavy shadows on the shore.*
+*There is no need to rush, just give the time to the waves.*
+*For you are safe upon the sea.*
+
+The ship itself was telling him that his mother's oppression was thousands of miles behind him on a distant shore, that she could never reach him here, and that he was finally allowed to put down the shield he had carried for nineteen years.
+
+The realization hit Jordan with the force of a freight train.
+
+The emotional dam he had been holding back for nearly two decades completely, utterly shattered.
+
+A second sob tore out of his chest—louder, deeper, and far more desperate than the first. Jordan completely lost all remaining muscle tension, his heavy frame collapsing forward in his seat as a second meltdown—infinitely bigger, rawer, and more profound than the first—took hold of him.
+
+He wept openly, the sheer magnitude of his freedom, his safety, and the fierce, unconditional love surrounding him completely overloading his processor (`Emotional Overflow: 100`). It wasn't terror, and it wasn't grief for what he had lost; it was a torrential purging of eighteen years of imprisoned silence violently making way for his new reality as the chorus rose again:
+
+> *"The ship hums a quiet, steady lullaby*<br>
+> *There is no need to rush*<br>
+> *Just give the time to the waves*<br>
+> *The gentle waves will carry you to tomorrow*<br>
+> *Rest your eyes under the starry sky*<br>
+> *For you are safe upon the sea..."*
+
+Aubrie and Zoë didn't hesitate for a fraction of a second.
+
+They surged forward together, re-engaging their holds with even greater intensity. Aubrie rose up onto her knees and pulled Jordan's head down against her shoulder, wrapping both arms securely around his neck and cradling the back of his head with her palm, while Zoë threw both of her arms across his back and shoulders, anchoring him firmly into the backrest of his chair with all of her strength.
+
+Together, they locked him into an impenetrable, unyielding two-person embrace.
+
+Neither of them offered hollow platitudes, and neither of them told him to shush or calm down. They simply held him together with deep, life-saving compression, letting him cry out eighteen years of pain against their shoulders while the outro whispered across the cabin—
+
+> *"Ah, starry sky, travel across the night*<br>
+> *Goodnight, traveler*<br>
+> *See you tomorrow."*
+
+—and the **`Ferry Hoshizora`** carried all of them steadily across the starlit inland sea toward tomorrow.
+
+### Scene 4: Morning Light on Beppu Bay and the JAPN 101 Pact
+
+**Date:** 2015-07-09 at 06:30 Asia/Tokyo
+
+After the second great emotional storm finally spent itself around eight-thirty that evening, **Aubrie** and **Zoë** had helped a completely drained Jordan transfer out of his power chair into the wide, low accessible bed by the cabin window. Lying between the two of them beneath the crisp white shipboard duvet—with Aubrie's hand resting warmly over his chest and Zoë's arm draped across his shoulder—Jordan had fallen into the deepest, most dreamless, most restorative sleep of his entire life.
+
+At six-thirty on Thursday morning, there was no jarring alarm buzzer.
+
+Instead, the cabin PA speaker chimed its gentle four-note marimba chord—*pang-pon-pang-pon*—followed by a bright, sunlit acoustic guitar and soft piano strumming the ship's *Morning Wake-Up Melody* like morning light dancing on water:
+
+> *おはよう 朝陽が海に踊る*<br>
+> *(Ohayō, asahi ga umi ni odoru — Good morning, the morning light dances on the sea)*<br>
+> *新しい風が 窓辺で囁く*<br>
+> *(Atarashii kaze ga madobe de sasayaku — A fresh breeze whispers gently through the window)*<br>
+> *穏やかな波が 今日へ運んだよ*<br>
+> *(Odayakana nami ga kyō e hakonda yo — The gentle waves have brought you to today)*<br>
+> *朝空の下で 羽を伸ばして*<br>
+> *(Asazora no shita de hane o nobashite — Stretch your wings under the morning sky)*<br>
+> *陸が待っている 新しい一日が始まる*<br>
+> *(Riku ga matte iru. Atarashii ichinichi ga hajimaru — The land is waiting. A new day begins.)*
+
+Jordan opened his eyes in the golden morning light pouring through the starboard window.
+
+For a long moment, he simply lay still between Aubrie and Zoë, listening to his own heartbeat and taking inventory of his chest.
+
+The phantom concrete block that had pressed down on his ribs since childhood—the lingering background fear that everything good in his life might suddenly vanish or turn into a trap—was gone. It felt as though the two massive meltdowns the night before had physically washed the last residue of Virginia Beach out of his nervous system and left it behind in the wake of the ship.
+
+Thirty minutes later, dressed and refreshed, Jordan, Aubrie, and Zoë rolled out via the wide elevator onto the sunlit **Upper Observation Deck**, where **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, **Daniel**, **Laura**, and the **Brooks** siblings were gathered along the accessible railing with cups of warm green tea and coffee.
+
+Ahead of the ship's bow rose the lush green volcanic mountains of **Beppu** on the island of **Kyūshū**, where hundreds of white geothermal steam plumes (*yukemuri*) drifted lazily into the blue morning sky from the city's famous hot-spring districts.
+
+As the **`Ferry Hoshizora`** glided smoothly into **Beppu International Tourist Port**, the deck speakers chimed one last time and began playing the slow, sweeping acoustic harmonies of the ship's *Farewell Melody*:
+
+> *港が見える 旅の終わりが来る*<br>
+> *(Minato ga mieru, tabi no owari ga kuru — The port is in sight, our journey comes to an end)*<br>
+> *時を預けてくれて ありがとう*<br>
+> *(Toki o azukete kurete arigatō — Thank you for giving your time to the waves)*<br>
+> *穏やかな波が 明日へ運んだよ*<br>
+> *(Odayakana nami ga asu e hakonda yo — The gentle waves have carried you to tomorrow)*<br>
+> *この安らぎを 岸へ持っていこう*<br>
+> *(Kono yasuragi o kishi e motte ikō — Take this peace with you as you step onto the shore)*<br>
+> *さよなら旅人 また逢う日まで 星空の上で*<br>
+> *(Sayonara tabibito, mata au hi made, Hoshizora no ue de — Farewell traveler, until we meet again on the Starry Sky.)*
+
+Jordan parked his power chair right at the accessible glass wind-screen of the upper deck, looking out at the approaching pier where white-gloved terminal attendants were already positioning the level gangway.
+
+He rested his fingers on the keyboard of his **Pinnacle Vanguard Pro** and typed a message for the whole circle.
+
+<aac>Last night, when Zoë translated the chorus of Hoshizora no Uta for me, something inside my head finally let go,</aac> Jordan's `"Sydney"` voice said quietly over the morning breeze. <aac>For eighteen years, I didn't even know it was possible for the world to have a threat level of zero. Now that I know a place like Japan exists—where the trains and ships sing lullabies instead of screaming, and where my wheelchair fits into the architecture without a fight—I think I really might want to live here someday. And before we ever come back, I want to be able to understand the words for myself when the ship sings to us.</aac>
+
+Zoë's eyes shone behind her glasses. She stepped forward and placed her hand firmly on top of Jordan's left wrist on the armrest.
+
+"Then it's official," Zoë said, her voice ringing with warm, unshakeable resolve as she looked around at **Aubrie**, **Madison**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**. "Because Jordan's mother used a speech-disability waiver to keep him out of World Language classes in Virginia Beach, Sophomore Year at CPI is going to be Jordan's very first time ever taking a foreign language class. And since all eight of us have **Educational Accessibility Priority Registration** as his official peer note-takers, the moment the Fall add/drop portal opens, all nine of us are registering together for the exact same section of **`JAPN 101: Elementary Japanese I`**—Tuesdays and Thursdays at eleven o'clock!"
+
+"Count me in!" **Aubrie** smiled, squeezing Jordan's right shoulder.
+
+"Me too!" **Madison** and **Lauren** chimed in together, while **Hannah**, **Mark**, **Sarah**, and **Jessica** all raised their hands in unanimous agreement.
+
+"I'll enroll right alongside you as Jordan's official note-taker and run our private study dojo at the Geneva Street house," Zoë promised, smiling down at Jordan as the gangway locked into place with a soft metallic click. "No shortcuts and strict CPI Honor Code compliance—every single one of us is going to earn our A's fair and square. By the time we bring you back to the **Seto Inland Sea**, Jordan Fuller, you won't need me to translate a single word."
 
 # Jordan's Court Case
 
