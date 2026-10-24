@@ -13400,6 +13400,350 @@ Jordan grinned from ear to ear, his fingers flying across his keyboard as he sav
 
 <aac>Challenge accepted,</aac> Jordan announced to the room. <aac>London, here we come.</aac>
 
+## The Red Bus Navigator (London)
+
+### Scene 1: Four Passports, the Green Channel, and the Heathrow Ambush
+
+**Date:** 2015-06-07 at 13:15 Europe/London
+
+When the **Nordic Air** Boeing 757 banked out of the low English clouds over Windsor Castle and touched down on Runway 27L at **London Heathrow Airport**, Jordan immediately felt the scale of the world shift up by three orders of magnitude.
+
+Keflavík had been quiet, crisp, and volcanic. Heathrow was a sprawling, global aviation megalopolis—double-decker Airbus A380s and wide-body Boeing 777s taxiing past in the liveries of sixty nations. Their aircraft pulled into a gate at the gleaming, wave-roofed expanse of **Terminal 2—*The Queen's Terminal***, which had opened just one year earlier in June 2014.
+
+Waiting right outside the aircraft door on the level glass jetbridge sat Jordan's 350-pound power chair. Jessica lifted him effortlessly from Seat 2A into his frame, and the eighteen travelers rolled down the wide, step-free arrivals corridor toward **UK Border Force**.
+
+That was where the sheer international complexity of their chosen family became hilariously obvious.
+
+In June 2015, the United Kingdom was still a member of the European Union, but it was outside the Schengen zone they had just left in Iceland. Ahead of them, the cavernous immigration hall split into two distinct queues beneath glowing overhead signs: **`UK, EU & EEA PASSPORTS`** on the left, and **`ALL OTHER PASSPORTS`** on the right.
+
+"Right then, hold up a second," Daniel Brooks chuckled, halting the convoy before the tensabarriers as everyone pulled out their travel documents. "Look at the passport spread we've got here."
+
+Nine members of the group—**Daniel**, **Laura**, **Zoë**, and the six older Brooks siblings (**Megan**, **Caleb**, **Chloe**, **Lucas**, **Owen**, and **Jacob**)—held burgundy **United Kingdom / European Union** passports. Six of them—**Jordan**, **Aubrie**, **Madison**, **Hannah**, **Mark**, and Chloe's husband **Ethan**—held dark blue **United States** passports with white paper UK Landing Cards tucked inside. **Lauren Barnes** held both her **Canadian** and **United States** passports. And at the back of the group, **Sarah Braithwaite** and **Jessica Gallagher** held navy-blue **Commonwealth of Australia** passports stamped with the golden kangaroo and emu coat of arms.
+
+"Four countries across three continents in one family," Sarah grinned in her thick Sydney accent, holding her Australian passport next to Lauren's Canadian one and Jordan's American one. "If we split up into the EU and non-EU lines, we won't see each other until supper."
+
+"We aren't splitting up," Daniel said firmly. He guided Jordan straight toward the **Special Assistance & Family Group** desk positioned between the two queues, where a uniformed UK Border Force officer looked up from his podium.
+
+"Good afternoon, officer," Daniel said in his crisp London accent, presenting his British passport alongside the stack of family itinerary documents. "Nine British nationals returning home, escorting our family party of six Americans, one Canadian, and two Australians, including our wheelchaired son here."
+
+The Border Force officer blinked at the four colors of passport covers, glanced down at Jordan sitting calmly behind his **Pinnacle Vanguard Pro**, and broke into an appreciative smile. "Blimey. You lot brought the whole Commonwealth and the former colonies with you, didn't you? Come right on up to the desk together, then."
+
+One by one, the officer checked the eighteen passports, stamped Jordan's blue US passport with a crisp square **`HEATHROW TERMINAL 2 — 7 JUN 2015`** immigration stamp, and waved the entire group through into the **Baggage Reclaim Hall**.
+
+Down on the lower level, Mark, Caleb, and Lucas pulled their checked suitcases off Carousel 4 while Jessica effortlessly slung two heavy duffels over her shoulders. With all eighteen travelers reassembled, they rolled side-by-side through the wide, step-free **Green Channel (`Nothing to Declare`)** of **HM Revenue & Customs**, approaching the final bank of frosted, one-way sliding glass doors that separated the restricted customs zone from the public **Landside Arrivals Concourse**.
+
+Jordan was busy looking down at his laptop screen, double-checking the **Piccadilly Line** step-free lift status, as the frosted glass doors slid open in front of his chair.
+
+They rolled out onto the polished stone floor of the public arrivals hall, lined by the long stainless-steel **Meet & Greet barrier rail** where black-cab chauffeurs in suits and waiting relatives stood shoulder-to-shoulder.
+
+Suddenly, right in front of Jordan's wheelchair, Aubrie gasped so loudly she stopped dead in her tracks.
+
+"Wait a second," Aubrie whispered, grabbing Madison's sleeve. "Look at the barrier rail. Who is that holding the maroon sign?! Is that—?! *NO, IT CAN'T BE!*"
+
+Jordan's head snapped up from his keyboard.
+
+Standing right at the front of the stainless-steel Heathrow arrivals barrier—wedged between a limo driver holding a *Morgan Stanley* placard and a grandmother holding a bouquet of roses—was a tall, clean-cut young man in a **CPI Forgers** hoodie waving a giant, hand-lettered piece of cardboard written in thick Chicago Maroon and Burnt Orange marker:
+
+> **`BENNETT HALL 2ND FLOOR — LONDON BRANCH OFFICE`**<br>
+> **`(NO ROOM INSPECTIONS REQUIRED!)`**
+
+"**HENRY?!**" Madison, Lauren, and Hannah shrieked in unison, echoing across the entire Heathrow Terminal 2 concourse.
+
+"**HEY BENNETT HALL!**" **Henry Walsh** roared back at the top of his lungs, grinning from ear to ear as he ducked under the end of the barrier rail and jogged straight toward Jordan's wheelchair.
+
+Jordan's jaw dropped open. Just last night in Reykjavik, Henry had texted them saying he wouldn't see them until Tuesday afternoon after his seminar in Holborn!
+
+Henry didn't wait a single second. He dropped his cardboard sign onto his backpack and leaned down to wrap Jordan in a massive, two-armed Bennett Hall hug—just like Mark and Arthur Barnes—before hugging Aubrie, Madison, Zoë, Lauren, Hannah, and Mark down the line.
+
+<aac>HENRY?! What are you doing at Heathrow?!</aac> Jordan typed at lightning speed, his `"Sydney"` voice booming over the terminal bustle as he grinned up at his former second-floor RA. <aac>Your text last night said you couldn't meet us until Tuesday at 1:00 PM in Holborn!</aac>
+
+Henry threw his head back and laughed, rubbing the back of his neck as a guilty grin spread across his face.
+
+"Okay, full confession," Henry admitted, holding both hands up in surrender. "That text last night was a complete decoy. I *do* have my last seminar on Tuesday in Holborn, and you guys are still coming to visit me at **LSEC** on Tuesday—but there was no way on earth I was letting my favorite suite land in London without meeting you at the gate!"
+
+"Wait—how did you even know what flight we were on?!" Zoë demanded, narrowing her eyes behind her glasses. "I never sent you our flight number from Keflavík!"
+
+"You didn't," Henry grinned, pointing an accusing finger straight at Jordan and Aubrie. "Your co-RA did! On Thursday night—about ten minutes after you guys finished video-calling Charlottesville from Reykjavik under the Midnight Sun—**Isabel** sent me a frantic message on *The Grid* saying, *'Henry, Jordan and the girls are flying Nordic Air into Heathrow Terminal 2 on Sunday afternoon! You HAVE to go to the airport and surprise him for me!'* She practically gave me a minute-by-minute tactical briefing!"
+
+Aubrie's eyes danced with pure delight as she looked down at Jordan, nudging his shoulder gently. "Did she now?"
+
+Jordan felt his own ears warming as a huge smile tugged at the corners of his mouth. Even from three thousand miles away in Virginia, **Isabel Dawson** was still quietly looking out for him.
+
+"Come on, Chief Navigator," Henry said, picking up his maroon-and-orange sign and falling into step right beside Jordan's power chair as Daniel led the eighteen-person family toward the glowing Underground roundel at the center of the terminal plaza. "I rode the Piccadilly Line out here to meet you, which means my first official duty as your London tour guide is watching you claim **Smart Card Number Two**!"
+
+Five minutes later, inside the **London Transport Authority (`LTA`)** ticket hall beneath Terminal 2, Daniel and Henry handed Jordan a crisp, sky-blue plastic **`Pearl Card`** embossed with the iconic red-and-blue London transit roundel.
+
+Jordan slid the blue **`Pearl Card`** into the second slot of his clear collector's sleeve right beneath his Icelandic **`NordicPass`**, tapped his joystick forward toward the wide accessible faregate and the blue-symbol step-free lift down to the **Piccadilly Line** platform, and rolled straight onto the London grid.
+
+### Scene 2: The Bloomsbury Negotiation
+
+**Date:** 2015-06-07 at 16:30 Europe/London
+
+Riding the **Piccadilly Line** east from **Heathrow Terminals 2 & 3** to **King's Cross St. Pancras** was Jordan's first real-world lesson in the contrast between modern accessibility and Victorian tunnel geometry.
+
+Because Heathrow Terminal 2 and the rebuilt King's Cross St. Pancras hub both carried the **blue wheelchair symbol** on the 2015 **London Transport Authority (`LTA`)** map, the two endpoints of the fifty-minute journey were completely step-free from the street all the way onto the deep-level 1973 Tube Stock train.
+
+Watching the intermediate stations flash past the curved windows, however, proved every word of Daniel and Zoë's Reykjavik briefing. As the narrow blue Tube train rumbled deep beneath West London and the West End—*South Kensington*, *Knightsbridge*, *Hyde Park Corner*, *Piccadilly Circus*, *Covent Garden*, *Holborn*—Jordan looked out through the sliding glass doors at the curved, tiled subterranean walls. There were no elevators on those century-old platforms, and the gap between the low-slung Tube car and the curved platform edge shifted from station to station.
+
+When they emerged via the modern glass lift at **King's Cross St. Pancras** onto Euston Road, Henry walked with them for ten minutes down the level, tree-lined Georgian streets of **Bloomsbury**—past the red brick towers of St. Pancras Chambers and the leafy garden squares near the British Museum—until they reached the row of ground-floor serviced apartments Daniel had reserved for the week.
+
+"Alright, I've got to head down to my flat near Aldwych to finish my econometrics paper for Tuesday," Henry said on the front pavement, giving Jordan a warm shoulder squeeze and waving to the girls. "Don't forget: Tuesday at one o'clock outside the Old Building at **LSEC** in Holborn—and remember to take the red bus, not the Tube!"
+
+Once Henry headed down Southampton Row and Daniel checked the eighteen travelers into their adjoining ground-floor apartments, the Brooks parents and older siblings settled into the two units on the left, while **Jordan**, **Aubrie**, **Lauren**, **Madison**, **Zoë**, **Sarah**, **Jessica**, **Hannah**, and **Mark** rolled into the spacious, barrier-free four-bedroom Bloomsbury flat on the right.
+
+Unlike Lauren's family home in Gander or the wide-open Nordic loft in Reykjavik, a historic central London Georgian conversion had very specific spatial constraints.
+
+Hannah and Mark immediately claimed the quiet back bedroom overlooking the courtyard garden. That left three bedrooms—each fitted with a standard British double or king bed rather than a giant wall-to-wall floor mattress—for Jordan and the six women of his Constellation Pact.
+
+For eighteen years under his mother's roof, Jordan had never been allowed to make a single decision about where he slept, how his room was arranged, or who shared his space. Even people with good intentions often defaulted to speaking *over* a non-verbal wheelchair user when dividing up hotel rooms, treating him like a piece of fragile cargo to be slotted wherever was most convenient.
+
+Standing in the center of the Bloomsbury hallway, the six girls paused, looking at the three open bedroom doors and then at Jordan.
+
+"Okay, J," Aubrie said gently, leaning against the doorframe without stepping in to decide for him. "Three bedrooms, six nights in the UK, and six of us in the Pact. How do you want to set up the rooms and the sleep rotation?"
+
+Jordan didn't hesitate, and he didn't shrug passively.
+
+He rolled his power chair into the center of the sitting room, opened a fresh `NeoEdit` buffer on his **Pinnacle Vanguard Pro**, and quickly inspected the doorway widths and turning radii of the three bedrooms first.
+
+<aac>Room 1 by the front bay window has a 36-inch doorway and six feet of clear floor space beside the king bed for my power chair and charging brick,</aac> Jordan typed, his `"Sydney"` voice crisp and authoritative as the six women gathered around him. <aac>Rooms 2 and 3 have narrower hallways, so Room 1 should be my anchor room for the week.</aac>
+
+"Smart," Zoë nodded approvingly, logging the layout on her tablet. "Keep the Vanguard Pro and the wheelchair charger in one fixed dock instead of moving the 350-pound frame every night."
+
+<aac>And since a British king bed comfortably fits three people without anyone falling off the edge,</aac> Jordan continued, his fingers flying across the keys as he built a clean, six-night rotation table on his screen, <aac>we do two-person pairs rotating with me into Room 1 each night so nobody is left out and everyone gets equal time.</aac>
+
+He hit return, displaying the schedule in bright neon green:
+
+```text
+BLOOMSBURY & LIVERPOOL SLEEP ROTATION (JUNE 7–12, 2015)
+-------------------------------------------------------
+Night 1 (Sun - London):    Jordan + Aubrie & Madison   (Room 214 Originals)
+Night 2 (Mon - London):    Jordan + Zoë & Lauren       (Room 216 Originals)
+Night 3 (Tue - London):    Jordan + Sarah & Jessica    (Room 505 / Sydney & Outback)
+Night 4 (Wed - London):    Jordan + Aubrie & Zoë       (Astrophysics & Systems)
+Night 5 (Thu - Liverpool): Jordan + Lauren & Sarah     (Gander & Merseyside)
+Night 6 (Fri - London):    Jordan + Madison & Jessica  (Bluewater & Petermann)
+```
+
+Sarah let out a low whistle, grinning as she read the screen over Lauren's shoulder. "Look at that symmetry. Not only did he check the doorway clearances first, he balanced the entire week so every single one of us gets two full nights in the anchor room."
+
+"And paired me with Madison on Friday night so we can talk shop before the long-haul flight to Tokyo," Jessica added warmly, resting a strong hand on Jordan's shoulder. "That works brilliantly for me, J."
+
+"No objections from the Systems Engineering department," Zoë smiled, giving Jordan a proud nod. "The algorithm is 100% optimal and zero-conflict."
+
+From the open doorway leading to the adjoining flat, Daniel and Laura Brooks had quietly witnessed the entire five-minute exchange. Daniel didn't say a word to interrupt, simply exchanging a quiet, meaningful look with his wife. Three months later, when Aubrie Sinclair's attorney would attempt to claim in a Virginia courtroom that Jordan lacked the cognitive and communicative capacity to manage his own living arrangements, **Ms. Gable** would point directly to Bloomsbury: a nineteen-year-old young man in a foreign capital measuring doorway clearances, negotiating domestic logistics with six partners, and running his own household with total clarity and mutual respect.
+
+### Scene 3: Chief Navigator of the Red Double-Deckers
+
+**Date:** 2015-06-08 at 10:30 Europe/London
+
+On Monday morning, the eighteen travelers stepped out of their Bloomsbury apartments into the cool, sunlit bustle of Central London, bound for **Buckingham Palace** and **Westminster**.
+
+Out of sheer childhood habit, Zoë's older brothers Caleb and Lucas started walking north up the pavement toward the burgundy terracotta facade of **Russell Square Underground Station** at the end of Bernard Street.
+
+"Wait—we'll just hop the Piccadilly Line down to Green Park or Victoria and walk over to the Palace, yeah?" Caleb called back over his shoulder.
+
+Daniel Brooks stopped on the sidewalk and folded his arms, deliberately staying quiet as he looked down at **Jordan**.
+
+Jordan didn't wait for Daniel or Zoë to intervene. He tapped his hotkey, bringing the volume of his `"Sydney"` voice up to maximum outdoor projection so it cut cleanly over the rumble of London traffic.
+
+<aac>Halt, Caleb,</aac> Jordan's speaker announced down the block, making both Caleb and Lucas freeze and turn around in surprise. <aac>Russell Square Station only has deep-level lifts to a lower concourse followed by seventeen spiral steps to the platforms. And Victoria Station does not have step-free access to the Underground platforms in 2015—the new tunnel lifts are still under construction.</aac>
+
+Caleb blinked, pulling out his phone to check the Tube map before sheepishly rubbing his forehead. "Oh, bloody hell. You're right. Victoria's still dug up until the station upgrade finishes, and Green Park's lifts leave a massive step onto the Piccadilly train. Sorry, J—habit."
+
+<aac>No apology necessary. Follow me to Southampton Row,</aac> Jordan typed smoothly, rotating his power chair ninety degrees onto the level stone sidewalk with his offline **LTA Central London Bus Spider Map** open beside his `NeoEdit` window. <aac>We are taking the surface grid.</aac>
+
+Two blocks away at Stop B on **Southampton Row**, a gleaming, scarlet-red **London Transport Authority (`LTA`) Route 91** double-decker bus pulled smoothly up to the curb, its destination blind glowing **`91 TRAFALGAR SQUARE`**.
+
+As the bus hissed to a stop, the driver spotted Jordan's power chair waiting at the accessibility marker on the pavement. Before anyone even had to ask, the center doors swung inward, a steady two-tone warning chime echoed across the sidewalk, and an automatic hydraulic metal ramp glided straight out of the bus floor until its yellow-edged lip rested flush against the London curbstone.
+
+Jordan drove straight up the hydraulic incline into the wide, low-floor central bay, spun his chair neatly in a tight 180-degree turn, and backed securely against the high padded crash-pad backrest facing the rear of the bus.
+
+"Do I tap Jordan's Pearl Card on the reader?" Madison asked, holding her own sky-blue **`Pearl Card`** by the yellow circular oyster pad.
+
+"No need, love!" the London bus driver called back cheerfully through his cab partition window. "Wheelchair users ride every red bus in London completely free of charge. Everyone else just tap your Pearl Cards once on the yellow reader!"
+
+*BEEP. BEEP. BEEP.*
+
+Seventeen `Pearl Cards` tapped in rapid succession as the Brooks family and the Pact split between the lower deck around Jordan's bay and the curved staircase leading to the panoramic front seats of the upper deck.
+
+Rolling south through the heart of London on the lower deck of a red double-decker bus turned out to be infinitely better than riding through a dark Victorian clay tunnel seventy feet underground. Through the tall glass windows, Jordan watched the entire living architecture of the city unfold at street level: the grand neoclassical porticoes of Aldwych, the bustling Strand, and then **Trafalgar Square**, where Nelson's Column towered above the bronze lions and dancing fountains.
+
+At Trafalgar Square (`Whitehall / Trafalgar Square, Stop N`), Jordan led a textbook three-minute cross-stop transfer onto a red **Route 11** double-decker bus (`11 VICTORIA`).
+
+Their second red bus rolled straight down **Whitehall** past the mounted Horse Guards cavalry in their silver cuirasses and plumed helmets, swung around **Parliament Square** directly beneath the gleaming gold-and-black clock face of **Big Ben** and the gothic spires of the **Palace of Westminster**, and cruised down Victoria Street where Jordan signaled the blue wheelchair-stop bell button right beside his armrest.
+
+When the hydraulic ramp lowered at **Buckingham Palace Road**, the entire eighteen-person family rolled along the wide, level royal promenade of **The Mall**—shaded by double rows of London plane trees and giant Union Flags—all the way up to the gilded iron gates of **Buckingham Palace** and the gleaming white marble of the **Victoria Memorial**.
+
+"Look at the navigator who got eighteen people from Bloomsbury to the Queen's front gate without a single stair," Laura Brooks beamed, snapping a series of family photographs with Jordan front and center before the palace gates—another piece of visual evidence that **Ms. Gable** would later place directly before the judge in Virginia.
+
+After lunch at a step-free pub patio near St. James's Park, Jordan mapped a third red bus hop—**Route 38** up Shaftesbury Avenue and across to Regent Street—so Daniel, Laura, and Zoë could take him into the heart of **Soho**.
+
+Rolling onto the pedestrianized, brightly colored pavement of **Carnaby Street**, Daniel stopped outside a narrow four-story brick building where a vintage vinyl record shop and a bespoke guitar boutique occupied the ground floor, with tall sash windows on the upper stories above.
+
+"Look up at the third-floor window on the left, Jordan," Daniel said quietly, his eyes warm with nostalgia as Laura slipped her arm around his waist and Zoë stood beside Jordan's chair. "That was our flat before we moved to Osaka and then Virginia. That's the exact window where Zoë learned to read systems manuals at three years old while **Fractured Prisms** were rehearsing two doors down."
+
+"And where my processor first realized that street noise without soundproof double-glazing is deeply inefficient," Zoë added dryly, though a fond, unmistakable smile tugged at her lips as she reached down to squeeze Jordan's hand.
+
+Jordan looked up at the third-floor window above Carnaby Street, then down at Zoë, Daniel, and Laura. First Lauren had shown him her roots in Gander; now Zoë and her parents had brought him to the exact London street corner where their family had begun.
+
+### Scene 4: Houghton Street and the Transatlantic Reunion Call
+
+**Date:** 2015-06-09 at 13:15 Europe/London
+
+At twelve-fifty on Tuesday afternoon, Jordan steered the group away from the stairs-only entrance of **Holborn Underground Station** and guided them aboard the low-floor red **Route 91** bus down **Kingsway**, stepping off via the hydraulic ramp at **Aldwych** just two hundred yards from the **London School of Economics and Commerce (`LSEC`)**.
+
+Unlike the sprawling, Neo-Gothic **Ironstone**Drillfield of **Commonwealth Polytechnic Institute** back in Blacksburg, `LSEC` was a dense, vertical urban campus woven directly into the historic streets and legal inns of court between Kingsway and the Royal Courts of Justice. Even so, the university had fitted its pedestrianized streets and modern academic buildings with flush dropped curbs, automatic glass doors, and wide platform lifts.
+
+As Jordan rolled onto the smooth paving stones of **Houghton Street** outside the **Old Building**, the heavy double doors swung open and a wave of international university students poured out from their final summer-term seminar—led by **Henry Walsh** with his leather messenger bag slung over his shoulder.
+
+"Right on time, Chief Navigator!" Henry grinned, spotting Jordan's power chair immediately and walking over to bump fists with Jordan and Mark. "Did you take the red bus down Kingsway like a proper Londoner?"
+
+<aac>Route 91 to Stop D at Aldwych,</aac> Jordan typed proudly. <aac>Zero stairs, zero escalators, and a four-minute roll down Houghton Street.</aac>
+
+"Wait until we get back to Blacksburg in August," Henry laughed, shaking his head as he led Jordan, Aubrie, Madison, Zoë, Lauren, Sarah, Jessica, Hannah, and Mark over to a wide, accessible timber picnic table in the sunlit **Shaw Library / Student Union courtyard** while Daniel and the older Brooks siblings grabbed takeaway teas and pasties from the campus café. "Between Blue Ridge Transit, Reykjavik, and the London bus grid, you're going to know more about public transit routing than half the Civil Engineering faculty at CPI."
+
+Sitting across from Jordan at the courtyard table, Henry leaned forward on his elbows, his expression turning warm and earnest.
+
+"Seriously, though, Jordan—look at you," Henry said quietly, taking in the clean-shaven jawline Mark had helped Jordan maintain since Fall semester, the effortless way Jordan sat upright in his power chair, and the two international transit smart cards gleaming in the plastic sleeve clipped to his laptop mount. "I still remember walking the second-floor corridor of Bennett Hall on Move-In Saturday back in August when Zoë stepped out of Room 214 and told me there was a bloke living in the girls' triple. Back then, you were so terrified someone was going to yell at you that you wouldn't even look up from your lap. And now you're navigating Central London with a posse of eighteen people."
+
+<aac>You and Isabel and Kelsey didn't kick me out,</aac> Jordan typed softly, his fingers steady on the keys of his **Pinnacle Vanguard Pro**. <aac>If you had separated us on that Saturday morning, I never would have made it to today. Are you really coming back to Bennett Hall in August?</aac>
+
+"Wild horses couldn't keep me away," Henry smiled. "My summer term here wraps up at the end of July, and I fly back to Virginia the first week of August for RA fall training. Kelsey's already got me, **Isabel**, and **Garrett** slated as the senior RA anchors for the building—though since you lot are moving into your off-campus sanctuary house on Geneva Street in Christiansburg for sophomore year, the second floor is going to be a whole lot quieter without Suite 214/216."
+
+"Speaking of Isabel," Aubrie said with a bright, mischievous smile, glancing at her watch. "It's one-forty-five in the afternoon here in London—which means it's **`8:45 AM`** on Tuesday morning in Charlottesville. And we promised somebody a video call from `LSEC`!"
+
+"Do it!" Henry grinned, sliding his bench seat right up beside Jordan's right armrest while Aubrie leaned in on Jordan's left and Madison, Zoë, Lauren, Sarah, Jessica, Hannah, and Mark crowded into the wide-angle frame behind them.
+
+Jordan unlocked his `mPad`, angled it on the secondary mount so both his face and Henry's were squarely centered in front of the `LSEC` red-brick crest on the courtyard wall, and tapped **Isabel Dawson**'s contact.
+
+The call connected on the second ring.
+
+In Charlottesville, Virginia, Isabel was sitting at her parents' sunny kitchen table in a soft maroon CPI t-shirt, holding a ceramic mug of morning coffee with her dark-framed glasses perched on her nose.
+
+For half a second, she saw Jordan and Aubrie—and then her eyes registered **Henry Walsh** grinning right next to Jordan's wheelchair in the middle of London.
+
+*"HENRY!!"* Isabel squealed so loudly she nearly sloshed her coffee across the kitchen table, clapping her free hand over her mouth as her face lit up like a sunrise. *"Oh my gosh! Henry! Jordan! You're actually together at LSEC right now!!"*
+
+"Good morning from Houghton Street, Dawson!" Henry called out cheerfully, waving both hands at the screen. "Look who navigated the London bus grid all the way to Holborn without hitting a single flight of stairs!"
+
+*"I knew he would!"* Isabel beamed, her warm brown eyes locking onto Jordan through the camera lens with unmistakable pride. *"Jordan, how is London treating you? Did you get your second transit card?"*
+
+Jordan held up his clear plastic sleeve so the sky-blue **`Pearl Card`** gleamed right below his yellow-and-blue **`NordicPass`**.
+
+<aac>Smart Card Number Two: London Transport Authority Pearl Card,</aac> Jordan announced via his `"Sydney"` voice. <aac>And I also found out who leaked our Sunday flight itinerary from Reykjavik so Henry could ambush us at the Heathrow Terminal 2 customs barrier.</aac>
+
+Beside Jordan, Henry burst out laughing, pointing straight at the camera. "Oh, I ratted you out immediately, Izzy! You should have seen Jordan's face when he rolled out of the Green Channel at Heathrow and saw my sign!"
+
+On the `mPad` screen, Isabel's cheeks turned the exact shade of a ripe tomato. She set her coffee mug down, tucked a strand of straight jet-black hair behind her ear, and tried—and completely failed—to look innocent.
+
+*"I—well, Henry is our friend and co-RA, and I thought it would be a nice welcome to England!"* Isabel stammered, her fingers fluttering up to her collarbone as she blushed from ear to ear. *"Besides, since I couldn't be there in London myself, somebody had to make sure Bennett Hall was represented at the airport!"*
+
+Beside Jordan, Aubrie exchanged a tiny, fond, knowing glance with Madison and Lauren, her heart warming at just how hopelessly transparent their former RA was—even if Jordan himself simply smiled back at the screen, completely touched by her thoughtfulness.
+
+<aac>It was the best surprise I have ever had at an airport, Isabel,</aac> Jordan said through his speaker, making Isabel's smile soften into pure, glowing affection. <aac>Thank you for setting it up. On Thursday morning we are taking the high-speed tilting train from London Euston up to Liverpool, and on Saturday we fly to Tokyo.</aac>
+
+*"Hold onto Henry for one more big hug from me before you leave London, okay?"* Isabel said warmly, waving with both hands as Henry leaned in beside Jordan to return the wave. *"Have the best time in Liverpool, guys, and text me the second you touch down in Japan!"*
+
+## The Wrong Liverpool (Merseyside)
+
+### Scene 1: Passenger Assist at London Euston
+
+**Date:** 2015-06-11 at 08:30 Europe/London
+
+On Tuesday evening, forty-eight hours before the family's scheduled trip north to **Liverpool**, Daniel Brooks had handed Jordan the login credentials for the **UK National Rail Passenger Assist** portal and let Jordan book the entire inter-city rail accommodation himself.
+
+Sitting at the dining table of the Bloomsbury flat, Jordan had reviewed the rolling-stock diagrams for **Albion InterCity Rail**'s high-speed **Class 390 Pendolino** tilting trains on the West Coast Main Line, selected the dedicated wheelchair bay with companion table seating in Coach G on the `09:07` departure from **London Euston** to **Liverpool Lime Street**, and submitted the formal request for portable boarding ramps at both stations.
+
+Now, at eight-thirty on Thursday morning, Jordan led the eighteen-person family off the hydraulic ramp of the red **Route 91** bus onto the wide forecourt of **London Euston Station**.
+
+While Daniel, Laura, and the rest of the family waited five paces back to give him space, Jordan rolled his power chair directly up to the **Mobility Assistance Desk** on the main concourse and tapped his hotkey.
+
+<aac>Good morning,</aac> Jordan's `"Sydney"` voice projected clearly across the counter. <aac>My name is Jordan Fuller. I have a confirmed Passenger Assist ramp booking for the 09:07 Albion InterCity service to Liverpool Lime Street, Coach G, Seat G14, with a party of eighteen.</aac>
+
+The Euston assistance coordinator glanced down at his tablet, smiled warmly—looking directly at Jordan rather than over his head at Daniel—and clipped a bright yellow dispatch tag onto his clipboard.
+
+"Spot on, Mr. Fuller! You're right on schedule," the coordinator said cheerfully. "Platform 7 is boarding just down the west ramp before they release the platform number on the main departure board. Follow me and we'll get your ramp locked in before the crowd arrives."
+
+Rolling down the broad, gently sloped concrete approach ramp onto **Platform 7**, Jordan felt a rush of quiet electric pride. Beside him stood the sleek, aerodynamic nose of the eleven-car **Class 390 Pendolino** high-speed train, painted in silver, crimson, and charcoal.
+
+Outside the wide automatic plug door of Coach G, a uniformed platform attendant was already unfolding a lightweight, high-strength yellow aluminum portable boarding ramp, locking its locating pins securely into the sill plate of the train floor.
+
+Jordan drove smoothly up the aluminum incline, turned down the extra-wide accessible aisle of the coach, and parked his power chair in the dedicated bay beside the panoramic window, where a fold-out table allowed **Aubrie**, **Sarah**, and **Lauren** to sit directly across from and beside him while the rest of the group filled the surrounding bays.
+
+At `09:07` on the dot, the doors hissed shut and the Pendolino glided silently out of London Euston.
+
+Once they cleared the brick tunnels of Camden and Primrose Hill, the electric train accelerated onto the fast tracks of the **West Coast Main Line**, reaching its cruising speed of **125 miles per hour**. As the train swept through the high-speed curves of Buckinghamshire, Warwickshire, and Staffordshire, Jordan felt the onboard active-tilt hydraulic pendulums gently banking the entire carriage inward by up to eight degrees—neutralizing the lateral centrifugal force so seamlessly that his mug of English breakfast tea on the table didn't even ripple.
+
+<aac>Active-tilt electromechanical actuators,</aac> Jordan typed happily to Zoë, who was leaning over the seat back behind him watching a GPS speedometer app hit `125 mph` on her tablet. <aac>Eight degrees of maximum cant compensation. It corners like a roller coaster without spilling the tea.</aac>
+
+"Two hours and fourteen minutes cover-to-cover from London to Merseyside," Zoë agreed with deep engineering satisfaction. "Now let's go see what **Sarah** thinks of her 'hometown.'"
+
+### Scene 2: Wrong Liverpool, Everyone!
+
+**Date:** 2015-06-11 at 11:30 Europe/London
+
+At eleven-twenty-one in the morning, the tilting **Pendolino** glided beneath the monumental, curved iron-and-glass Victorian train shed of **Liverpool Lime Street Station**.
+
+Waiting right on the platform outside Coach G stood a Merseyside station attendant holding the matching yellow aluminum boarding ramp. Within ninety seconds of the train coming to a halt, Jordan rolled smoothly off the carriage onto the level concourse of Lime Street, picked up a regional **`MerseyPass`** transit card at the **Mersey Transit** travel center for his collector's sleeve, and led the eighteen travelers aboard a low-floor city bus down toward the **River Mersey** waterfront.
+
+The bus dropped them off at the **Royal Albert Dock** and **Pier Head**, where the salt wind blowing off the Irish Sea carried the cries of gulls and the deep horn blasts of the **Mersey Ferry**.
+
+Surrounding the calm rectangular water basin of the Albert Dock stood the largest group of Grade I listed historic red-brick and cast-iron dock warehouses in Britain—now completely step-free with wide granite colonnades housing museums, galleries, and the tribute exhibition to Liverpool's most famous musical export, **The Mersey Four**. Just north along the level riverfront promenade rose the iconic silhouette of the **Three Graces**, crowned by the twin copper **Liver Birds** perched atop the Royal Liver Building.
+
+As they rolled out onto the wide stone plaza at **Pier Head** directly in front of the large **`WELCOME TO LIVERPOOL`** waterfront sign and the bronze statues overlooking the Mersey Ferry terminal, **Mark**, **Madison**, and **Lauren** suddenly stopped and turned toward **Sarah Braithwaite** with matching expressions of solemn, theatrical gravity.
+
+"Well, Sarah," Mark said, placing a hand over his heart as he gestured grandly toward the chilly gray waters of the River Mersey and the English clouds overhead. "After all these months at CPI, we finally made it. Welcome back to your beloved hometown of **Liverpool**."
+
+"Look at the kangaroos swimming across the Mersey," Madison deadpanned, shading her eyes as she peered toward Birkenhead on the opposite bank. "And the eucalyptus trees growing out of the Liver Building. It must feel so good to be back in Australia."
+
+Sarah looked at the **`WELCOME TO LIVERPOOL`** sign, looked at the chilly sixty-degree English summer wind whipping off the Irish Sea, and burst out laughing—her rich, unmistakable **Sydney Australian** accent ringing out across the plaza.
+
+"**Wrong Liverpool, everyone!**" Sarah announced at the top of her lungs, throwing both arms wide with a huge grin. "You're off by about ten thousand, five hundred miles, an equator, and a whole bloody hemisphere!"
+
+Everyone around Jordan erupted into laughter—and underneath the humor, every single person in the circle understood the deeper victory of the joke.
+
+Back in Fall semester, before Mark had exposed **Tom Lawson**'s double life in Political Science class, Tom had dated Sarah for two years without ever once bothering to listen when she talked about her childhood home in **Liverpool, New South Wales**—a vibrant suburb in Greater Western Sydney on the Georges River. To a self-absorbed narcissist like Tom, a town name was just background noise to ignore.
+
+Here, Sarah's chosen family not only knew every detail of where she came from, they had traveled to **Liverpool, England** on Leg 3 *and* booked **Liverpool, New South Wales** on Leg 6 just to turn her ex-boyfriend's ignorance into an international running gag.
+
+"Hold on, we have to document this for posterity!" Lauren laughed, pulling out her camera as Daniel and Laura lined the group up in front of the **`WELCOME TO LIVERPOOL`** sign with the Mersey Ferry terminal in the background.
+
+Jordan parked his power chair dead center in front of the sign, with **Sarah** standing right beside him pointing at the word *`LIVERPOOL`* with one hand and giving an exaggerated, goofy **thumbs-down** with the other, while **Jessica**, **Aubrie**, **Lauren**, **Madison**, **Zoë**, **Hannah**, and **Mark** all pulled theatrical "confused tourist" faces around them.
+
+<aac>Iteration 1 of 2: Liverpool, Merseyside, United Kingdom (53.4084° N, 2.9916° W),</aac> Jordan typed into his `NeoEdit` log as Lauren snapped the photo. <aac>Status: Wrong hemisphere. We will re-run the query in New South Wales in two weeks.</aac>
+
+"Too right we will, J," Sarah grinned, leaning down to kiss the top of Jordan's head before linking her arm through Lauren's. "Wait until we get to **Liverpool Station** on the Sydney rail grid—I'm buying the whole family meat pies and flat whites!"
+
+### Scene 3: The Eastern Leap from Heathrow
+
+**Date:** 2015-06-13 at 11:00 Europe/London
+
+After spending Thursday night along the Merseyside waterfront—where Jordan, Lauren, and Sarah shared the anchor room overlooking the Albert Dock—and Friday riding the tilting **Pendolino** back down the West Coast Main Line to **London Euston**, Saturday morning brought the end of their European chapter.
+
+By ten-thirty in the morning, the eighteen travelers had ridden the step-free **Piccadilly Line** back out to **Heathrow Airport Terminal 2**, where their bags were checked through to **Tokyo Haneda (`HND`)** aboard **Nippon Skyways** (*All Nippon Airways*).
+
+And waiting for them right beside the oversized-luggage check-in counter before the Departure Security gates stood **Henry Walsh**, holding a takeaway carrier of warm Cornish pasties and a box of Yorkshire Gold tea bags for the flight.
+
+"I promised **Isabel** on Tuesday that I wouldn't let you leave the island without delivering one more hug," Henry smiled, setting the bag down and leaning in to wrap Jordan in a fierce, two-armed embrace right in the middle of the Terminal 2 departures hall.
+
+Jordan hugged his friend back tightly, feeling the solid, steady warmth of the young man who had stood watch over the second floor of Bennett Hall on his very first weekend away from Virginia Beach.
+
+<aac>See you in Blacksburg in August, Henry,</aac> Jordan typed on his **Pinnacle Vanguard Pro**, his `"Sydney"` voice warm and steady. <aac>Have a safe flight home at the end of July.</aac>
+
+"You too, Chief Navigator," Henry said, tapping the clear plastic sleeve on Jordan's laptop mount where the Icelandic **`NordicPass`**, the London **`Pearl Card`**, and the Liverpool **`MerseyPass`** were neatly stacked. "Make sure you have at least three more smart cards in that sleeve by the time I see you on Geneva Street!"
+
+Once Henry waved goodbye at the frosted glass security gates, the eighteen travelers cleared Terminal 2 fast-track screening and rolled out to **Satellite Pier T2B**, where a gleaming white-and-blue **Nippon Skyways Boeing 777-300ER** sat waiting for the twelve-hour trans-Eurasian flight across Scandinavia and Siberia to **Japan**.
+
+Even at the departure gate in London, Jordan noticed that the culture had already shifted.
+
+Before boarding even began, two uniformed **Nippon Skyways** ground agents—wearing crisp navy suits and white gloves—approached Jordan's wheelchair and bowed politely to Jordan himself, rather than speaking over him to Daniel or Mark. Using a printed diagram with millimeter-precise measurements, they verified the exact lithium/gel-cell battery disconnect protocol and joystick collar protection for his 350-pound power chair, attaching laminated Japanese and English handling tags to every structural anchor point with the reverence of museum curators handling a priceless sculpture.
+
+"You're going to love Japan, J," **Zoë** said softly, her gray eyes shining with fond childhood memory as she stood beside his chair with **Daniel** and **Laura**. "When we lived in **Osaka** for four years when I was little, my processor was happier there than almost anywhere else on earth. Everything runs on a schedule down to the second, nobody shouts on the trains, and every station attendant treats accessibility like a sacred engineering duty."
+
+Fifteen minutes later, Jessica carried Jordan aboard the wide-body 777 and settled him into his First Class suite beside Aubrie, with Zoë and Daniel right across the aisle.
+
+As the massive twin GE90 turbofans roared to life and lifted them into the afternoon sky above the Thames, Jordan looked down at the green patchwork of England disappearing beneath the wings. Ahead of them lay a twelve-hour leap across eight time zones into East Asia—toward the bullet trains of **Tokyo**, theBrooks family's old home in **Osaka**, and an overnight ferry waiting on the **Seto Inland Sea**.
+
 # Jordan's Court Case
 
 ## The Southern Hemisphere
