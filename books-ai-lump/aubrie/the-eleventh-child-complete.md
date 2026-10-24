@@ -11281,7 +11281,7 @@ Jordan reached up and covered Hannah's hand with his own, looking around the cro
 
 For the first time in his life, the future wasn't a storm cloud waiting to break over his head. It was an itinerary—and he had signed every page of it himself.
 
-## The Leviathan Cut & An 80s Education
+## The Leviathan Cut, Electric Color, & The Call from Bluewater
 
 ### Scene 1: The Leviathan Cut (A Sister's Love)
 
@@ -11344,6 +11344,76 @@ This wasn't just a song from 1987. ***"Electric Color"*** was *his* song—his p
 Jordan's fingers flew across his NeoEdit keyboard, his eyes shining behind his glasses as he played the track back to the room:
 
 <aac>Play that again! I think I just found my theme song—because with all of you, the whole world is finally in Electric Color.</aac>
+
+### Scene 3: The Call from Bluewater
+
+**Date:** 2015-01-20 at 20:15 America/New_York
+
+On Tuesday evening, January twentieth—two nights after their Sunday marathon in the Brooks basement—all nine members of the found family were gathered inside **Room 214** of **Bennett Hall** after dinner at Kincaid Commons. **Jordan** was parked at his desk beside **Aubrie Jean**, reviewing their planetary geology notes on his **Pinnacle Vanguard Pro**, while **Madison** sat cross-legged on the lower bunk (**Bed B**) with **Lauren**, **Zoë**, **Hannah**, **Mark**, **Sarah**, and **Jessica** trading flashcards for Thursday's **HIST 115** quiz.
+
+At eight-fifteen, Madison’s **mPhone** chimed on the quilt beside her knee. Glancing at the caller ID—**Mom (Home)**—Madison smiled brightly and tapped the speaker icon so she could keep holding her notebook.
+
+"Hey, Mom! What's up?" Madison asked cheerfully.
+
+Over the speakerphone, **Diane Scott’s** voice came through—strained, tight, and trembling at the edges.
+
+"Madi, honey," Diane began, "are you sitting down? I... we need to tell you something. It's about **Bob**. He was in the hospital after being assaulted, and honey... it does not look good."
+
+Every rustle of paper in **Room 214** stopped dead. Jordan’s hands froze over his keyboard, and **Aubrie Jean** and **Lauren** immediately moved to sit on either side of Madison on the lower bunk.
+
+"The hospital?" Madison’s voice shifted instantly from cheerful to urgent concern, her hand flying to her chest at the thought of her fourteen-year-old little brother—her beloved **"squirt,"** who she had just hugged in Bluewater three weeks ago over Christmas. "What happened?"
+
+Before Diane or **David** could answer, a flurry of angry, frustrated grunts erupted over the speakerphone from **Bob**.
+
+Because both Bob and fifteen-year-old **Emily Jenkins** were non-verbal and communicated through the **Heart-Hum**—the intricate, deeply expressive vocal language the two cousins had forged over a lifetime together—anyone outside the family might have heard only raw emotion. Having grown up with her little brother and cousin, **Madison understood every syllable of their non-verbal language by heart.**
+
+"Bob? Is that you?" Madison asked instantly, leaning toward the phone as she decoded the sharp, indignant cadence of her brother’s grunts. "What is it? What are you saying... about some boy at school harassing Emily?"
+
+Immediately, a series of insistent, distressed chirps came through the speaker from **Emily**, who was huddled tightly against Bob’s side on the living-room sofa down in Bluewater.
+
+"Oh my god, Emily," Madison breathed, her voice sharpening with alarm as she translated Emily’s rapid chirps in real time. "He kept asking you out? And you didn't want him to because you just want to hang out with Bob? And he got meaner?"
+
+**David Scott’s** voice cut in on the line, grim and clear. "That's when he assaulted Bob, Madi. A senior named Caleb Anderson attacked him at their hallway locker this morning and stuffed him inside."
+
+"He wanted to intimidate the family," Diane added, her voice hardening with maternal fury. "But instead, he got arrested for his troubles. The Bluewater police arrested him that same day."
+
+Madison drew in a sharp, trembling breath. "Arrested? Good. But... Bob? What did the hospital say?"
+
+Through the speaker came a low, mournful moan from fourteen-year-old Bob—a sound that carried an entire world of physical pain and fear.
+
+Madison’s voice cracked, tears springing into her bright blue eyes. "Bob... no... what is that sound? Your leg... Mom, Dad, what is it? Tell me."
+
+On the other end of the line, Diane finally broke, the words tumbling out in a choked whisper. "Honey... his leg was damaged very badly. He was trapped in that locker for a few hours before they found him. The doctors... they say the nerve damage is permanent. He's going to need a wheelchair."
+
+A strangled sob tore from Madison’s throat as she pressed both hands over her mouth. "Oh, Bob, I'm so, so sorry."
+
+Sitting in his own wheelchair two feet away, **Jordan** felt a visceral ache in his chest. Without a word, he unlocked his brakes, rolled half a foot closer to the lower bunk, and reached out to take Madison’s trembling left hand in both of his, squeezing her fingers with everything he had.
+
+Just then, a new sound filled the speakerphone from the living room in Bluewater.
+
+It was **Emily**.
+
+Her vocalizations were no longer distressed. Instead, a series of fierce, determined, and utterly resolute chirps and low, steady grunts rang out across the line.
+
+"Emily? What is that?" Madison whispered, her own sorrow momentarily stilled as she listened to the unmistakable cadence of a solemn vow in the **Heart-Hum**.
+
+"She's... she's making a promise," Diane translated softly, her voice filled with awe as she echoed what Madison was already hearing in her cousin’s notes. "She says she's going to take care of Bob’s every need. She's starting right now, as a rehearsal, to make sure she’s ready once Bob actually needs it."
+
+Madison fell silent for a long moment, absorbing the breathtaking weight of her fifteen-year-old cousin’s devotion to her little brother.
+
+"Oh, Em," Madison finally whispered, a tear rolling down her freckled cheek. Then her voice filled with a fierce, unshakable resolve of her own. "I'm coming home. My spring break is in March. I'm coming home then. I need to see you all."
+
+"We'll be here, Madi," Diane promised gently.
+
+When they said their goodbyes and the call ended, Madison’s shoulders shook as she buried her face against **Aubrie Jean’s** shoulder. Instantly, **Lauren**, **Zoë**, **Hannah**, **Sarah**, **Jessica**, and **Mark** closed in around the bunk in a tight, protective circle, holding Madison while she cried for her beloved squirt.
+
+Waiting until Madison lifted her tear-streaked face, **Jordan** kept his left hand wrapped warmly around her fingers and typed with his right hand on his **Pinnacle Vanguard Pro**, turning the high-contrast screen toward her so she could read his neon-green words:
+
+<aac>Madi, I am so sorry about what happened to your squirt. Please remember one thing: a wheelchair is not the end of Bob's life, and he already has Emily and your parents in his corner. When we see him and Emily, he is not going to have to figure out how to live on wheels by himself. I will teach him every trick I know.</aac>
+
+Madison looked down at Jordan’s screen, then into his earnest green eyes behind his glasses, and let out a watery, grateful laugh before leaning out from the bunk to wrap her arms tightly around his neck.
+
+"Thank you, Jordan," Madison whispered into his shoulder. "He's going to need a big brother who knows the ropes."
 
 ## HEY CACUHO! The Residence Life Conference
 
@@ -11764,143 +11834,159 @@ His mother had sent a stalker across the state to hunt him down. Instead, his pr
 
 **Date:** 2015-03-07 at 09:15 America/New_York
 
-At nine-fifteen on Saturday morning, March seventh—the official start of Commonwealth Polytechnic Institute's ten-day **Spring Break**—**Jordan**, **Aubrie Jean**, and **Madison** were packing their overnight bags inside the ground-floor suite of **The Hotel at Poly** while **Mark**, **Lauren**, **Zoë**, **Hannah**, **Sarah**, and **Jessica** loaded the two vehicles in the sheltered side courtyard.
+At nine-fifteen on Saturday morning, March seventh—the official start of Commonwealth Polytechnic Institute's ten-day **Spring Break**—**Jordan**, **Aubrie Jean**, and **Madison** were packing their overnight bags inside the ground-floor suite of **The Hotel at Poly** while **Mark**, **Lauren**, **Zoë**, **Hannah**, **Sarah**, and **Jessica** loaded the vehicles in the sheltered side courtyard.
 
-Suddenly, **Mark’s** phone buzzed with a text from sixteen-year-old **Caleb Brooks**, who was running a perimeter check down in Christiansburg with **Daniel**:
+Suddenly, **Mark’s** phone buzzed with a text from sixteen-year-old **Owen Brooks**, who was running a perimeter check down in Christiansburg with **Daniel** and **Caleb**:
 
-> **From:** Caleb Brooks<br>
+> **From:** Owen Brooks<br>
 > **To:** Mark Anderson, Zoë Brooks<br>
 > **Time:** 9:18 AM
 >
-> *Heads up — Dad and I just spotted that tan rental sedan with Tidewater plates parked across North Franklin Street near Strickland Farms, watching the turnoff toward Geneva Street. The PI knows CPI just let out for Spring Break and he's waiting to see if you guys bring Jordan back to the Christiansburg house today.*
+> *Heads up — Dad, Caleb, and I just spotted that tan rental sedan with Tidewater plates parked across North Franklin Street near Strickland Farms, watching the turnoff toward Geneva Street. The PI knows CPI just let out for Spring Break and he's waiting to see if you guys bring Jordan back to the Christiansburg house today.*
 
-Inside the hotel suite, **Madison** didn't hesitate for a single second. She held up her phone, where she had just finished a call with her parents.
+Inside the hotel suite, **Madison** didn't hesitate for a single second. Back in January, on the night her mother had called in tears to tell her that fourteen-year-old **Bob**—Madison's beloved **"squirt"**—had been assaulted and stuffed into his locker at Bluewater High, permanently damaging his leg, Madison had promised her little brother and her fifteen-year-old cousin **Emily** that she would come home for Spring Break in March. Now, she held up her phone, where she had just finished a call with her parents.
 
-"He can sit in that parking lot all week staring at an empty driveway," Madison said firmly, her hazel eyes flashing with protective resolve. "I just got off the phone with my Mom and Dad—**David and Diane Scott**—down in **Bluewater**. My younger brother **Bob** and my cousin **Emily** are already there for the week, and Mom says the **Bluewater Bunker** is open and waiting for all nine of us."
+"He can sit in that parking lot all week staring at an empty driveway," Madison said firmly, her bright blue eyes flashing with protective resolve. "I just got off the phone with my Mom and Dad—**David and Diane Scott**—down in **Bluewater**. I already promised **Bob** and **Emily** back in January that I was coming home for Spring Break, and Mom says the **Bluewater Bunker** is open and waiting for all of us—including Daniel, Laura, Caleb, and Owen."
 
-Jordan looked up at Madison from his wheelchair and tapped his Pinnacle screen:
+Jordan looked up at Madison from his wheelchair and tapped his **Pinnacle Vanguard Pro** screen:
 
-<aac>Are your parents sure they don't mind all nine of us crashing their house for Spring Break on ten minutes' notice?</aac>
+<aac>Are your parents sure they don't mind all of us descending on their house for Spring Break on ten minutes' notice? Especially with everything Bob has been recovering from since January?</aac>
 
-"Mind?!" Madison laughed warmly, leaning down to kiss the top of his head. "Jordan, my cousin **Emily Jenkins** is twenty-one, five-foot-ten, and she uses a wheelchair herself! Mom and Dad already have the downstairs bathroom modified for Emily's chair, my brother Bob has been dying to meet you since Thanksgiving, and Mom is already putting two pots of chicken and dumplings on the stove!"
+"Mind?!" Madison smiled warmly, blinking back a sudden shimmer of emotion as she leaned down to kiss the top of Jordan's head. "Jordan, ever since that phone call in January, I've been counting the days until I could get home to hug my squirt and Em in person. Since Bob has been in a wheelchair since the assault, Mom and Dad already built a ramp up the front porch steps. And Mom says having you there—someone who already knows how to live and thrive on wheels—is the best medicine my little brother could possibly ask for."
 
-"And because the Scott residence is ninety minutes southwest in rural **Bluewater** under David and Diane Scott," **Zoë** added with a crisp, approving nod as she closed her laptop, "there is zero public-record link between Aubrie Sinclair's investigator and Madison's family. If we depart directly from the west courtyard exit of The Hotel at Poly onto the U.S. 460 Bypass, we vanish completely off his grid."
+"And because the Scott residence is ninety minutes southwest in rural **Bluewater** under David and Diane Scott," **Zoë** added with a crisp, approving nod as she closed her laptop, "there is zero public-record link between Aubrie Sinclair's investigator and Madison's family. Dad, Mum, Caleb, and Owen are already pulling out via the back streets of Christiansburg to rendezvous with us at the Interstate 81 ramp. If we depart directly from the west courtyard exit of The Hotel at Poly, we vanish completely off his grid."
 
-Within ten minutes, the two-vehicle **Rubber Duck Convoy** rolled quietly out of the side courtyard of The Hotel at Poly into the bright March morning.
+Within ten minutes, the **Rubber Duck Convoy** rolled quietly out into the bright March morning and linked up on the highway.
 
-In the lead rode **Mark** at the wheel of his SUV with **Hannah** in the passenger seat and **Sarah** and **Jessica** in the back, scanning the highway mirrors and calling out lane clearances over the hands-free speakerphone. Locked tight onto Mark's rear bumper—never letting a single car slip between them—drove **Lauren** with **Zoë** riding shotgun as navigator, while **Jordan** sat buckled securely in the center of the back seat between **Aubrie Jean** and **Madison**, his folded manual wheelchair stowed neatly in the trunk.
+Following **Mark’s** lead, the four vehicles—Daniel and Laura's van, Caleb and Owen's car, Mark's SUV with Hannah, Sarah, and Jessica, and Lauren's car with Zoë riding shotgun and **Jordan** buckled securely in the back seat between **Aubrie Jean** and **Madison**—moved as a single unit down Interstate 81 South and Interstate 77 into Carroll County, maintaining a tight, defensive formation that never let a single unknown vehicle slip between them.
 
-As the two cars merged onto Interstate 81 South and climbed into the deep, pine-covered ridges of Southwest Virginia toward Bluewater—leaving the Virginia Beach investigator sitting empty-handed in a Christiansburg strip-mall parking lot—Jordan leaned his head back against Aubrie Jean’s shoulder, holding Madison’s hand across his lap, and smiled out at the mountains.
+As the convoy climbed into the deep, pine-covered ridges of Southwest Virginia toward Bluewater—leaving the Virginia Beach investigator sitting empty-handed in a Christiansburg parking lot—Jordan leaned his head back against Aubrie Jean’s shoulder, held Madison’s hand across his lap, and got ready to keep the promise he had made to her in January: to show her little squirt that life on wheels wasn't the end of the road.
 
 ### Scene 2: Making It Work in Bluewater
 
 **Date:** 2015-03-07 at 11:15 America/New_York
 
-Ninety minutes later, the two-car convoy turned onto a quiet, tree-lined residential street in **Bluewater, Virginia**, and pulled into the driveway of **David and Diane Scott's** home: a warm, lived-in, two-story split-level house with white clapboard siding, dark green shutters, and a brick chimney trailing fragrant woodsmoke into the March sky.
+Ninety minutes later, the four-car convoy turned onto a quiet, tree-lined residential street in **Bluewater, Virginia**, and pulled into the driveway of **David and Diane Scott's** home: a warm, lived-in two-story house with white clapboard siding, dark green shutters, and a newly built wooden ramp rising gently beside the front porch steps.
 
-Before Mark and Lauren had even turned off the ignitions, the front door swung open.
+Before the engines had even shut off, the front door swung open.
 
-Out onto the front porch stepped Madison’s parents, **David and Diane Scott**, beaming with open-armed Appalachian hospitality, followed immediately by Madison’s sixteen-year-old younger brother, **Bob Scott**—a tall, broad-shouldered high school sophomore in a flannel shirt—and right behind them in the wide front doorway sat Madison’s twenty-one-year-old maternal cousin, **Emily Jenkins**.
+**Diane and David Scott** stepped out onto the porch with open arms. Just behind them in the wide doorway stood **fifteen-year-old Emily Jenkins** and **fourteen-year-old Bob Scott**.
 
-At five-foot-ten even seated, with warm brown eyes, a confident posture, and sleek anodized spin-ergy wheels on her ultralight manual wheelchair, Emily took one look at Jordan as Mark unfolded his chair by the passenger door and flashed him a bright, knowing grin from the doorway.
+Even from the driveway, the change since Christmas took everyone’s breath away. **Emily**—who had stood five-foot-three in December—was in the middle of a massive adolescent growth spurt and had shot up to a staggering **five-foot-ten**, standing like a quiet, immovable tower in the doorway. And right beside her, looking up with wide dark eyes, four-foot-eight **Bob** sat in a **wheelchair**.
 
-"Welcome to the **Bluewater Bunker**, everybody!" **David Scott** called out warmly, walking down the driveway to shake Mark’s and Jordan’s hands while **Diane** wrapped Aubrie Jean, Madison, and Jordan in gentle, motherly hugs.
+For **Madison**, seeing her little brother—her beloved **"squirt"**—in a wheelchair for the first time in person was a gut punch. Knowing about the January locker assault from a speakerphone call in Bennett Hall was one thing; seeing her baby brother sitting in that frame was another.
 
-Because the Scotts' home was an older split-level built in the 1970s, there were four concrete steps leading up to the front porch—and while the family bedrooms were up a flight of stairs on the upper split level, nobody treated the steps as a problem for even three seconds.
+Her breath caught in her throat. The next second, Madison was out of Lauren’s car and sprinting up the wooden porch ramp, dropping to her knees in front of Bob’s chair to wrap both her little brother and her cousin in a fierce, tearful embrace.
 
-"Bob, Mark, Lauren—let's show Jordan how the Bluewater elevator works!" Emily called out cheerfully from the top of the porch.
+"Hey, squirt," Madison whispered thickly into Bob’s hair, holding him with everything she had.
 
-With practiced, effortless teamwork, **Mark** and **Bob** gripped the lower frame of Jordan's wheelchair on the left and right while **Lauren** braced the rear push-handles. On a quiet *"One, two, three—lift,"* the three of them carried Jordan smoothly up the four porch steps and set his wheels down inside the warm front foyer without a single jolt.
+Bob let out a warm, comforted grunt in the **Heart-Hum**, leaning his cheek into his big sister’s shoulder, while five-foot-ten Emily wrapped her long arms around both of them and answered with a soft, welcoming trill of chirps.
 
-"Nice and level," sixteen-year-old **Bob** grinned, bumping fists with Jordan. "Glad you're here, man. Maddie told us all about you."
+Once Mark and Caleb had unfolded Jordan’s manual chair and Jordan rolled smoothly up the front ramp into the house, Madison’s heart ached all over again as she witnessed the reality of Bob’s daily struggle.
 
- Jordan smiled and tapped his AAC phone mounted on his lap tray:
+Inside the living room, Bob wanted to move from his wheelchair onto his usual spot on the long sofa against the wall. With a stubborn, frustrated grunt, he waved off his father’s offered hands and let out a sequence of low, effortful notes in the **Heart-Hum**—a phrase **Madison** and **Diane** understood effortlessly: *Let me just get to the sofa.*
 
-<aac>Thank you, Mr. and Mrs. Scott—and thanks for the lift, Bob. It's really great to meet all of you.</aac>
+Gripping a metal walker positioned beside his wheelchair, fourteen-year-old Bob hauled himself upright. His thin arms trembled violently with the strain as he dragged his injured leg through a few slow, agonizingly stiff shuffling steps across the two-foot gap before collapsing onto the sofa cushions, pale and breathless. Instantly, **Emily** was in motion—Her expression a mask of fierce concentration as she wheeled his chair out of the way, stacked a mountain of pillows beneath his legs, and placed their shared **mPad** within reach of his hand, keeping the promise she had made over the speakerphone in January.
 
-"Come on back and let me give you the thirty-second tour of the ground floor, Jordan," **Emily** said, spinning her wheelchair effortlessly on the hardwood foyer and leading him down the wide hallway. "Since I stay with Aunt Diane and Uncle David whenever I'm in town, we already modified the downstairs bathroom for my chair—thirty-six-inch doorway clearance, fold-down grab bars beside the toilet, and a transfer bench in the tub. And since the bedrooms upstairs are behind a flight of steps..."
+Standing by the hallway arch, Madison had to bite her lower lip to keep from crying. Her squirt’s entire world had shrunk to the two feet between that wheelchair and that sofa, and Emily had made herself its tireless guardian.
 
-Emily wheeled back into the expansive, carpeted downstairs living room, where **Diane**, **David**, and **Bob** were already helping the girls push the heavy coffee table and armchairs against the walls to open up the entire center of the room in front of the brick fireplace.
+The rest of the afternoon became a masterclass in **making it work**.
 
-Down from the hall linen closets came a mountain of thick foam camping pads, plush air mattresses, feather pillows, and hand-stitched patchwork quilts.
+While the front porch now had a ramp for Bob’s chair, the Scotts’ older two-story home wasn't built for Jordan’s complete non-weight-bearing needs. Only one bedroom—Madison’s old childhood room—was on the ground floor, while the rest of the bedrooms were upstairs, and the only downstairs restroom was a small half-bath off the hallway whose narrow twenty-four-inch doorway was four inches too tight for Jordan’s wheelchair wheels.
 
-"If one of us stays downstairs, all nine of us stay downstairs!" **Madison** declared happily, tossing a stack of pillows onto the center mattresses as she, **Aubrie Jean**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** engineered a wall-to-wall indoor sleepover camp across the living room rug.
+Nobody treated the layout as a problem for even five seconds.
 
-Sitting beside Emily's wheelchair near the hearth as the smell of Diane's homemade chicken and dumplings drifted in from the kitchen and laughter echoed off the wood-paneled walls, Jordan felt a wave of pure warmth fill his chest.
+While **Daniel**, **Laura**, **Caleb**, and **Owen** carried their bags up to the second-floor guest rooms, the nine CPI students transformed Madison’s first-floor bedroom into a wall-to-wall sleepover fortress—pushing the twin bed into the corner and covering every square inch of floor space with plush air mattresses, sleeping bags, and Diane’s hand-stitched quilts.
 
-The house didn't have a commercial elevator or a million-dollar ramp—and it didn't matter one bit. When people loved you, they simply looked at the steps, linked arms, and **made it work**.
+And when Jordan needed to use the narrow downstairs half-bath an hour later, the family executed what Mark cheerfully dubbed **"Operation Potty Break"** with the precision of a pit crew: **Caleb**, **Owen**, and **Mark** rolled Jordan right up to the bathroom threshold, carefully lifted him from his seat frame on a quiet three-count, and pivoted him through the narrow doorway straight into the waiting arms of **Lauren** and **Aubrie Jean** inside—turning an architectural barrier into a seamless act of love and teamwork.
+
+That evening after dinner, **Daniel Brooks** sat down at the dining room table with **David and Diane** to brief them on the Tidewater private investigator who had tried to tailgate into Bennett Hall on Monday and staked out Christiansburg that morning. Because the investigator was hunting for predictable patterns, David and Diane immediately decided that Bob and Emily would stay home from **Bluewater High School** for the week, turning the house into a true **Bluewater Bunker**.
+
+Out in the living room, a quiet, profound bond began to form between **Jordan**, **Bob**, and **Emily**.
+
+Because none of the three spoke aloud with their vocal cords, the living room became a sanctuary of effortless non-verbal understanding—a rhythmic symphony of Bob and Emily’s **Heart-Hum** (which Madison translated with gentle fluency whenever a nuance was new to Jordan) and rapid-fire messages typed across Jordan’s **Pinnacle Vanguard Pro** and Bob and Emily’s shared **mPad**, while five-foot-ten Emily moved back and forth to the kitchen like a devoted sentinel, bringing mugs of hot cocoa and plates of cookies for the two boys in wheelchairs.
 
 ### Scene 3: Lessons from a Fellow Traveler and the Heart-Hum
 
 **Date:** 2015-03-11 at 14:30 America/New_York
 
-On Wednesday afternoon of Spring Break, after a big family lunch around the Scotts' dining table, **Jordan**, **Aubrie Jean**, and **Madison** were in the living room preparing to transfer Jordan from his manual wheelchair onto the plush living-room sofa so he could stretch out his legs and read.
+On Wednesday afternoon of Spring Break, while **Jordan** was parked near the living-room armchair reviewing astrophysics notes on his **Pinnacle Vanguard Pro** with **Madison** and **Aubrie Jean** sitting nearby, fourteen-year-old **Bob** decided it was time to move from the sofa back into his wheelchair.
 
-As Aubrie Jean and Madison parked Jordan's wheelchair straight in front of the sofa cushion—at a ninety-degree angle—and braced their knees to help lift him across the gap, **Emily Jenkins** rolled into the doorway with a mug of sweet tea in her hand and paused.
+Jordan paused his typing and watched closely as Madison’s little brother reached for the metal walker beside the cushions.
 
-"Hang on a second, guys," Emily said warmly, a gentle, sisterly smile on her face as she wheeled over beside them. "Mind if a fellow traveler shows the three of you a geometry trick that'll save your shoulders—and your backs—about eighty percent of that work?"
+Even from six feet away, Jordan could see why every transfer was leaving the fourteen-year-old boy exhausted. Nobody at the hospital after the January assault had taught Bob how a wheelchair user actually moves across a corner gap; instead, they had handed him a walker and told him to stand up. Bob was trying to haul his entire body weight straight up into the air with his trembling arms while awkwardly maneuvering his injured leg around the four legs of the walker. Halfway up, his foot caught on the rug and his balance wobbled dangerously—sending five-foot-ten **Emily** lunging to his side with a flurry of worried, high-pitched chirps in the **Heart-Hum** to steady his waist until he finally dropped heavily into his wheelchair seat.
 
-Jordan, Aubrie Jean, and Madison all looked up eagerly.
+Bob slumped back against the canvas backrest, pale, winded, and letting out a low, defeated grunt of pure frustration.
 
-<aac>Please!</aac> Jordan's AAC speaker chimed immediately. <aac>Nobody at the pediatric clinics in Virginia Beach ever actually taught us proper adult transfer mechanics.</aac>
+Remembering the promise he had typed to Madison in **Room 214** on the night of the January phone call—*I will teach him every trick I know*—**Jordan** unlocked his brakes and wheeled quietly across the carpet until he was right in front of Bob and Emily.
 
-"Oh, I could tell the second you parked straight-on at ninety degrees," Emily chuckled affectionately, rolling her own chair up to the adjacent section of the sofa to demonstrate. "When you park perpendicular to a bed or a couch—or when you park completely parallel at zero degrees—your hips have to clear the front rigging and travel fourteen inches through the air while twisting. That forces Aubrie and Maddie to lift your dead weight with their lower backs, and it forces your shoulders to push straight up at an awkward angle."
+Switching on **`EchoType`** so his `"Sydney"` voice could speak directly to the two cousins, Jordan tapped his keys:
 
-Emily unlocked her brakes, backed up two feet, and then angled her wheelchair so the front right corner of her seat frame snuggled tight against the edge of the sofa cushion at a crisp **forty-five-degree angle**.
+<aac>Hey, Bob. Can I show you a trick? Something I learned a long time ago.</aac>
 
-"Here's the secret," Emily said, patting the corner where her seat cushion almost touched the couch fabric. **"The Forty-Five-Degree Transfer.** First, roll forward an inch and back half an inch right before you lock your brakes—that swings your small front caster wheels forward so the wheelbase is maximally stable. Second, angle your chair at **forty-five degrees** to the sofa or bed. Look at the gap between my cushion and the couch now."
+Bob looked up from his lap, his dark eyes widening with curiosity, and gave a single, affirmative grunt. Beside him, Emily rested a protective hand on Bob’s shoulder and watched Jordan intently.
 
-"It's barely two inches!" **Madison** gasped, leaning in to look.
+Jordan wheeled his manual chair over to the empty edge of the sofa and turned back toward Bob.
 
-"Exactly," Emily beamed. "Now, instead of trying to muscle straight up into the air, you use **head-and-hips leverage**. Tuck your elbows in close to your ribs, lean your nose and chest forward over your knees, and pivot your hips smoothly across that two-inch corner like a hinge. Watch."
+<aac>You are working way too hard,</aac> Jordan’s laptop said gently. <aac>You are trying to lift all of your body weight straight up into the air at once, and the walker is actually getting in your way. Watch the angle of my wheels.</aac>
 
-In one effortless, fluid motion, five-foot-ten Emily leaned her head and shoulders forward, placed one hand on the sofa cushion and one on her seat frame, and pivoted her hips cleanly onto the couch without a single strain in her shoulders.
+Unlocking his brakes, Jordan rolled forward an inch and back half an inch to swing his small front caster wheels forward for maximum stability, and then parked his wheelchair at a tight **forty-five-degree angle** against the edge of the sofa cushion—so the front right corner of his seat frame snuggled less than two inches from the couch.
 
-"Now you try it with Aubrie and Maddie just spotting your belt line, Jordan," Emily encouraged from the sofa.
+<aac>This is called the Forty-Five-Degree Transfer,</aac> Jordan explained. <aac>First, angle your chair at forty-five degrees to the sofa and lock both brakes tight. Look at the gap between my seat and the cushion now—it is barely two inches wide.</aac>
 
-Jordan unlocked his wheels, swung his front casters forward, and angled his chair at a tight **forty-five-degree angle** to the center cushion. With Aubrie Jean and Madison lightly steadying his waist instead of hauling his weight, Jordan tucked his elbows in, leaned his head forward over his knees, and pivoted across the tiny corner gap.
+Bob leaned forward in his chair, his eyes locking onto the tiny corner gap.
 
-He landed smoothly on the sofa cushion in less than two seconds—using less than a quarter of the effort it had ever taken before.
+<aac>Second, leave the walker aside,</aac> Jordan continued. <aac>Place one hand firmly on your wheelchair frame and your other hand on the sofa cushion. Tuck your elbows in, lean your head and chest forward over your knees, and use your momentum to pivot your hips across the corner like a hinge. Watch.</aac>
 
-"Whoa!" **Aubrie Jean** exclaimed, her blue eyes wide with amazement. "I barely had to lift at all! You did ninety percent of that yourself just from the angle!"
+In one smooth, practiced motion—born of eighteen years of living in a manual chair with zero weight-bearing in his legs—Jordan placed one hand on his armrest and one on the sofa, leaned his head and shoulders forward, and pivoted his hips cleanly from his wheelchair onto the sofa cushion. Pausing a beat, he reversed his hands, leaned forward again, and pivoted smoothly right back into his wheelchair seat without a single wasted ounce of effort.
 
-Jordan looked over at Emily on the sofa, his face lit up with a huge, grateful grin as he tapped his phone:
+<aac>See? It is all about angles and leverage,</aac> Jordan said warmly. <aac>You do not lift straight up—you pivot across the corner. It saves your arms, it protects your bad leg, and it is much safer. You do not even need the walker for a transfer like that.</aac>
 
-<aac>That felt completely different! My shoulders didn't even strain.</aac>
+For three full seconds, Bob and Emily stared at Jordan in stunned silence.
 
-"Physics beats brute force every time, cousin," Emily laughed, bumping her shoulder gently against his.
+To Jordan, it was basic everyday geometry. To a fourteen-year-old boy who had only been in a wheelchair for seven weeks—and to the fifteen-year-old cousin who had been pouring her whole heart into keeping him safe—it was a revelation.
 
-Then Emily’s expression softened into something deeper and more thoughtful as she noticed how Jordan’s fingers lightly tapped the edge of his phone case—the quiet residual habit of someone whose nervous system had spent years on high alert.
+Bob looked from Jordan to his own wheelchair, then over at the sofa. He let out a low, rising sound of pure awe in the **Heart-Hum**, lifting his hands to mimic Jordan’s pivoting motion in the air.
 
-"Can I share one more thing with you three?" Emily asked quietly. "Not a physical transfer trick—an internal one."
+Beside him, **Emily’s** eyes were shining. Picking up their shared **mPad** from the end table, she typed furiously on the glass screen and turned it toward Jordan:
 
-"Anything, Em," Madison said softly, sitting down on Jordan's other side while Aubrie Jean curled her legs up beside him.
+*Thank you. They don't teach that at the hospital.*
 
-"After the accident that put me in this chair three years ago," Emily said, her voice calm and unhurried, "I used to get hit with sudden waves of panic and sensory overload whenever a room got too loud or I felt trapped. Talking didn't help when my chest locked up, and counting breaths just made me think about how fast my heart was beating. Then an occupational therapist up in Roanoke taught me how to use acoustic resonance straight against the vagus nerve."
+<aac>Want to try it right now, Bob?</aac> Jordan asked, rolling back a foot to give him room. <aac>Emily and I will spot you right here.</aac>
 
-Emily took Jordan’s right hand and guided his palm flat against the center of his own chest, right over his breastbone, while she placed her own palm flat over her heart.
+Bob nodded eagerly. Moving the metal walker out of the way, he rolled his wheelchair up to the sofa at the exact **forty-five-degree angle** Jordan had demonstrated, locked both brakes with a sharp *clack*, placed one hand on his armrest and one on the cushion, leaned his head forward over his knees, and pivoted his hips across the two-inch corner.
 
-"Whenever the world gets too loud, or your thoughts start racing," Emily said gently, "press your palm flat against the center of your chest, close your eyes, and hum—or let the person holding you hum—a low, steady, resonant note right into your ribs. Feel the vibration in your sternum."
+In less than two seconds, Bob was sitting securely on the sofa cushion—without his arms trembling, without his injured leg dragging, and without breaking a sweat.
 
-Emily closed her eyes and began a low, warm, continuous chest hum—*mmmmmmmm*—deep in her diaphragm.
+Bob froze on the cushion, blinked down at his legs, and let out an exuberant, triumphant chirp that made **Aubrie Jean** burst into applause from the armchair.
 
-Beside Jordan, **Aubrie Jean** and **Madison** both placed their palms gently over Jordan's hand on his chest and joined Emily's low, soothing resonance.
+For the first time in his nineteen years, Jordan wasn't the fragile boy being sheltered, rescued, or cared for by others. He was the **teacher**—the veteran mentor passing down the hard-won craft of his world to its newest traveler.
 
-Even though Jordan didn't use spoken words, he could hum a low, gentle vibration in his chest—and as the three women hummed with him, the physical acoustic vibration resonated straight through his breastbone and ribs. Within ten seconds, Jordan felt a warm, unmistakable wave of calm wash down his spine as his heart rate slowed into a deep, rock-steady rhythm.
+Then Bob and Emily looked at Jordan—and turned to face each other.
 
-When they opened their eyes, Jordan let out a long, peaceful breath and typed on his screen:
+Right there in the middle of the quiet living room, the two cousins held a rapid, silent conference in the **Heart-Hum**: a questioning, melodic chirp from Emily; a deep, confirming hum from Bob; and a soft, simultaneous click of complete agreement from both of them.
 
-<aac>I felt that all the way down to my fingertips. It's like a reset switch right over your heart.</aac>
+Turning back to Jordan in unison, Bob and Emily looked straight into his eyes and produced a brand-new sound together:
 
-"Wait—we need a name for that," **Aubrie Jean** whispered, her eyes shining as she kept her hand resting warmly over Jordan's chest. "What do you call it, Emily?"
+**A sharp, soft click—like a key turning cleanly in a lock—followed immediately by a warm, resonant, appreciative hum.**
 
-"I never had a good name for it," Emily smiled. "What should we call it?"
+Across the room, **Madison** gasped aloud, both hands flying to her mouth as tears welled up in her bright blue eyes.
 
-Jordan looked from Emily to Aubrie Jean and Madison, and typed two words on his screen:
+Jordan blinked in surprise, looking from the two beaming cousins over to Madison, and tapped a quick question on his keyboard:
 
-<aac>The Heart-Hum.</aac>
+<aac>Madi, what did they just say?</aac>
 
-"The **Heart-Hum**," Madison repeated softly, kissing Jordan's cheek. "From one fellow traveler to another. We're keeping both of those forever."
+Rising from the floor, Madison walked over, dropped to her knees beside Jordan’s wheelchair, and wiped a tear from her freckled cheek. Because she had grown up speaking and understanding her brother and cousin’s non-verbal language her entire life, she knew the sacred weight of what had just happened.
+
+"Jordan... do you understand what they just did?" Madison whispered, her voice thick with emotion. "They... they just gave you a name. In the **Heart-Hum**."
+
+She looked over at her beloved squirt on the sofa and her towering fifteen-year-old cousin standing beside him, her heart overflowing with pride, before looking back into Jordan’s green eyes.
+
+"They don't just give those out, Jordan," Madison said softly. "You have to earn a name in the Heart-Hum, and it has to be a decision they both make together. That click and hum they just made for you—it means ***The Key***. *The one who unlocks the way.*"
+
+Madison reached out and squeezed Jordan’s hand through her tears.
+
+"It means you're one of us now, Jordan," she whispered. "It means you're family. To both of them."
 
 ## A New Dawn, A New Ride (The S.S. Freedom)
 
@@ -11918,11 +12004,11 @@ Three hundred and fifty pounds of matte-black, aircraft-grade aluminum and steel
 
 "Here she is, Mr. Fuller," Marcus said proudly, locking the electromagnetic parking brakes with a solid *click* and flipping up the left armrest flush against the backrest. "Custom-built and calibrated to your exact seating geometry. Want to try transferring over from your manual chair?"
 
-Jordan grinned. Rolling his manual chair forward an inch and back half an inch to trail the front casters, he parked at the exact **forty-five-degree angle** that **Emily Jenkins** had taught him in Bluewater on Wednesday, tucked his elbows in, leaned his head and chest forward over his knees, and pivoted smoothly across the two-inch corner onto the contoured seat of the *Titan-X350*.
+Jordan grinned. Rolling his manual chair forward an inch and back half an inch to trail the front casters, he parked at a crisp **forty-five-degree angle**—the exact **Forty-Five-Degree Transfer** he had just taught Madison's fourteen-year-old brother **Bob** down in Bluewater on Wednesday—tucked his elbows in, leaned his head and chest forward over his knees, and pivoted smoothly across the two-inch corner onto the contoured seat of the *Titan-X350*.
 
-Marcus blinked in genuine surprise. "Whoa—who taught you a textbook forty-five-degree head-and-hips pivot since January?!"
+Marcus smiled with a nod of veteran respect. "Cleanest forty-five-degree pivot transfer in Montgomery County, Mr. Fuller."
 
-<aac>Madison's cousin Emily down in Bluewater,</aac> Jordan's AAC speaker replied proudly as Madison beamed beside him. <aac>She's been on wheels for three years and showed us how physics beats brute force.</aac>
+<aac>Angles and leverage beat brute force every time,</aac> Jordan's AAC speaker replied proudly as **Madison** beamed beside him, thinking of her little squirt practicing that exact pivot down in Bluewater.
 
 The difference inside the new chair was instantaneous. Instead of feeling perched on a lightweight manual sling frame that tipped backward on steep curb cuts and demanded upper-body force for every foot of forward motion, Jordan felt anchored inside a cockpit built like a vault.
 
@@ -12040,15 +12126,15 @@ Grinning as he unwrapped his sandwich, Jordan tapped a quick key:
 
 That evening back in **Bennett Hall**, after homework was finished and **Mark** and **Hannah** had retired into **Room 216** for the night, the connecting bathroom door clicked shut and the **six women of the Constellation Pact**—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica**—gathered with **Jordan** inside **Room 214**.
 
-All week in Bluewater, sleeping side-by-side on the living-room floor of Madison's parents' house had been cozy and wonderful, yet out of respect for David, Diane, Bob, and Emily upstairs, they had kept their nights strictly PG-13 under their pajamas and quilts.
+All week in Bluewater, sleeping side-by-side on the air mattresses in Madison's ground-floor childhood bedroom had been cozy and wonderful, yet out of respect for David, Diane, Bob, and Emily under the same roof, they had kept their nights strictly PG-13 under their pajamas and quilts.
 
 Tonight, back inside their private second-floor sanctuary with the deadbolt turned and the warm amber fairy lights glowing along the cinderblock wall above **Bed A** and the two-high bunk (**Beds B and C**), the seven of them shed every layer of fabric and hesitation.
 
-Using the **Forty-Five-Degree Transfer** Emily had taught him, Jordan parked the *S.S. Freedom* at a clean forty-five-degree angle beside his nineteen-inch standalone Twin XL **Bed A**, leaned forward over his knees, and pivoted smoothly across the corner gap straight into the warm, bare arms of his Constellation.
+Using his practiced **Forty-Five-Degree Transfer**—the same smooth corner pivot he had passed down to Madison's little brother **Bob** in Bluewater—Jordan parked the *S.S. Freedom* at a clean forty-five-degree angle beside his nineteen-inch standalone Twin XL **Bed A**, leaned forward over his knees, and pivoted smoothly across the corner gap straight into the warm, bare arms of his Constellation.
 
 Even within the narrow footprint of a 1960s dormitory room, there was no rush, no hierarchy, and not a shadow of jealousy anywhere in the space—only six women who loved him fiercely and loved one another as sisters, rotating effortlessly between Jordan's **Bed A** and the bunks across the narrow aisle as they took turns holding him, kissing him, and sharing a slow, breathtaking night of mutual passion and skin-to-skin tenderness where every touch affirmed how far he had come from the boy who used to flinch at his own reflection.
 
-When they finally drifted off to sleep after midnight—with **Sarah** and **Jessica** curled bare and warm against Jordan's left and right sides on **Bed A** for their long-promised overnight turn, **Aubrie Jean** and **Madison** reaching across the narrow aisle from the lower bunk (**Bed B**) to hold his hands, and **Zoë** and **Lauren** nestled up on the top bunk (**Bed C**)—Jordan placed his palm lightly over the center of his chest and hummed two quiet, contented notes of Emily's **Heart-Hum** into the dark.
+When they finally drifted off to sleep after midnight—with **Sarah** and **Jessica** curled bare and warm against Jordan's left and right sides on **Bed A** for their long-promised overnight turn, **Aubrie Jean** and **Madison** reaching across the narrow aisle from the lower bunk (**Bed B**) to hold his hands, and **Zoë** and **Lauren** nestled up on the top bunk (**Bed C**)—Jordan rested his palm lightly over the center of his chest, remembering the sacred **Heart-Hum** name (*The Key*) that **Bob** and **Emily** had given him in Bluewater, and drifted into a deep, peaceful sleep.
 
 ## Closing the Old Lady & Ready for the World
 
@@ -12264,7 +12350,25 @@ Jordan held Lauren's hand a little tighter. Armed with his Nexus card, his custo
 
 **Date:** 2015-05-23 at 07:00 America/New_York
 
-As the eighteen members of the global roster moved toward the TSA security checkpoint, Daniel Brooks gently placed a hand on the back of Jordan’s heavy power chair, bringing him to a slow stop just before the queue. Lauren stayed firmly anchored by his side, her fingers still laced with his.
+As the eighteen members of the global roster moved through the Roanoke-Blacksburg Regional Airport terminal toward the TSA security checkpoint, Jordan’s armrest **mPad** chimed with an incoming text message from Charlottesville:
+
+> **Isabel Dawson (`06:58 AM`):** *Good morning, Captain of the Hill!! Are you and Aubrie at ROA yet? Do you guys have two minutes for a quick video call before you board, or are you already in the security line?*
+
+Walking right beside Jordan’s matte-black power chair with her backpack slung over her shoulder, **Aubrie Jean Kelly** leaned in to read the message over his arm and smiled knowingly.
+
+Jordan’s thumbs moved quickly across the glass screen to tap out a reply before they reached the queue stanchions:
+
+> **Jordan Fuller (`06:59 AM`):** *Good morning Isabel! We are walking up to the TSA line right now. We will video call you as soon as we are through security and settled at the gate!*
+
+Three seconds later, three typing dots bounced on the screen:
+
+> **Isabel Dawson (`06:59 AM`):** *It’s a date!! Wait—I mean, it’s a deal!! Good luck getting the tank through TSA, call me as soon as you’re at the gate!*
+
+Aubrie Jean let out a soft, delighted laugh, leaning down close to Jordan’s ear so only he could hear her as they approached the checkpoint entrance.
+
+"Okay, J, there is zero doubt left in my mind," Aubrie whispered warmly, her dark eyes sparkling as she squeezed his arm. "Between the way she cried hugging you outside Room 214 on Move-Out Day and *'It’s a date'* just now? Isabel is head-over-heels in love with you. And now that Freshman Year is officially over and she isn't our RA anymore, if she finally works up the nerve to say something when we video call her at the gate, I want you to know I am completely prepared to tell her right then and there that she’d be welcomed into the No-Jealousy Pact with open arms."
+
+Jordan felt a sudden, warm flush rise into his own clean-shaven cheeks at the thought, his heart skipping a quiet beat as he looked down at Isabel’s text message on his screen. Before he could type a reply to Aubrie, **Daniel Brooks** gently placed a hand on the back of Jordan’s heavy power chair, bringing him to a slow stop just before the queue while **Lauren** stepped up to anchor his other side.
 
 "Alright, Jordan, listen to me," Daniel said quietly, kneeling down to ensure he was perfectly at eye level. "We are about to hand our passports and boarding passes to the federal agent. Because you have a Nexus card and a passport, they are going to use the name printed on those documents. They are going to call you Aubrey Fuller."
 
@@ -12320,33 +12424,49 @@ With his right hand resting securely on the joystick, Jordan steered his heavy-d
 
 **Date:** 2015-05-23 at 07:30 America/New_York
 
-![Inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair beside Aubrie Jean Kelly as they watch a goodbye video message on his armrest mPad from Isabel Dawson in Charlottesville—who is dressed in a casual lavender summer top, blushing rosy pink behind her rectangular glasses as she waves goodbye and promises to stay in touch over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c001-s004-isabel-roa-video-message.jpg)
+![Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville—who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004-c001-s004-isabel-roa-video-message.jpg)
 
 The boarding area at the Meridian Express gate was quiet, populated entirely by the eighteen members of the chosen family. Through the floor-to-ceiling glass windows, the small regional jet sat parked on the tarmac, its engines whining with a low, mechanical hum.
 
-While the eighteen of them gathered near the gate windows, **Isabel Dawson** wasn't at Roanoke-Blacksburg Regional Airport to see them off in person; after finishing the final staff closeout of **Bennett Hall**, she had already driven back home up Interstate 81 and Interstate 64 to **Charlottesville** for the summer to be with her parents, **Stephen** and **Elana**, and her younger sister, **Stella**.
+While the eighteen of them gathered near the gate windows, **Isabel Dawson** wasn't at Roanoke-Blacksburg Regional Airport to see them off in person; after finishing the final staff closeout of **Bennett Hall**, she was already back home in **Charlottesville** for the summer with her parents **Greg** and **Rebecca**, her younger sister **Elana**, her cousin **Stephen**, their miniature service horse **Stella**, **Uncle Andy**, and **Gran Thornton**.
 
-Yet right as Jordan rolled his matte-black power chair up beside the tall terminal glass with **Aubrie Jean** standing warmly at his side, the messaging app on his armrest **mPad** and pocket **mPhone** chimed with an incoming **recorded video message** from **Isabel Dawson**.
+With a few quiet minutes to spare before pre-boarding was called, Jordan steered his matte-black power chair up beside the tall terminal glass. True to the promise he had texted her right before entering the TSA line, he pulled up Isabel's contact card on his armrest-mounted **mPad** and tapped the **Video Call** button.
 
-Jordan tapped the play icon on the glass screen, and Aubrie leaned in with a fond, warm smile so they could watch it together.
+**Aubrie Jean** stepped right up beside Jordan’s right shoulder, resting her hand affectionately on his hoodie and leaning in so both of them were framed together in the front-facing camera as they looked at the display in front of them.
 
-On the high-definition display, Isabel was sitting out on the sunlit back porch of her family's home in Charlottesville, dressed in a casual light-blue summer top instead of her maroon CPI Residence Life polo, with the morning Virginia sunshine glinting off her rectangular glasses. The moment she looked into the camera lens, a noticeable, rosy pink blush colored her fair cheeks, and her dark brown eyes glistened with bright emotion.
+The call connected before the second chime even finished.
 
-*"Hey, Jordan—and hey, everyone at ROA!"* Isabel's voice came through the speaker, warm and slightly breathless as she tucked a strand of dark hair behind her ear, her cheeks flushing a shade pinker as she smiled right at the camera. *"I'm already back home in Charlottesville with Stella and my parents, so I couldn't be at the airport in person to wave at the gate, and I didn't want to interrupt your TSA check with a live call—so I wanted to send you a video message before you board your very first flight!"*
+On the high-definition screen facing Jordan and Aubrie, Isabel appeared sitting on the sunlit back porch of her family's house in Charlottesville, dressed in a casual lavender summer top instead of her maroon CPI Residence Life polo, with the morning Virginia sunshine glinting off her rectangular glasses. The instant Jordan and Aubrie came into view on her screen, Isabel's face lit up with a radiant smile, and a warm, rosy tint immediately colored her cheeks.
 
-On screen, Isabel's smile softened, her eyes misty behind her glasses because she was going to miss him so much over the next three months.
+*"You guys made it through TSA!"* Isabel beamed through the speaker, waving enthusiastically at the two of them as she looked past their shoulders at the blue-and-white Meridian Express jet parked on the tarmac outside the window behind them. *"Look at that airplane right behind you! How did Officer Miller and the checkpoint crew treat the S.S. Freedom?"*
 
-*"Have the safest flight up to Dulles and all the way to Newfoundland today, Jordan,"* she continued softly, her rosy blush lingering as she held the phone steady. *"Send me a video message back if you have a minute before boarding, and promise me you'll stay in touch as best as you can across the time zones this summer! Send pictures from Gander, and Europe, and Sydney whenever you guys have hotel Wi-Fi. Everyone here in Charlottesville is cheering for you—we miss you already, Captain of the Hill. Have the trip of a lifetime!"*
+Jordan smiled at the screen and tapped a quick pre-queued reply on the split-screen AAC bar at the bottom of his tablet:
 
-Isabel raised her hand in a lingering, affectionate wave before the video clip ended.
+<aac>It went really well, Isabel. Lauren carried me through the metal detector and the TSA officer treated my chair and my laptop with total respect. We have a few minutes before Daniel makes us pack up for pre-boarding.</aac>
 
-Standing beside Jordan's wheelchair, Aubrie Jean squeezed his shoulder with a beaming smile. "Come on, J—let's record a quick video message back to her before Daniel makes us pack up the electronics for boarding!"
+"He was a total natural, Isabel," Aubrie Jean added warmly, leaning her chin near Jordan's shoulder as both of them watched Isabel on the tablet. "Not a single system crash."
 
-Jordan grinned, tapped the **Record Video Message** button on his screen, and typed a message into his AAC voice synthesizer while Aubrie held the camera angle so Isabel could see both Jordan smiling in his power chair and the Meridian Express jet waiting on the tarmac through the glass behind them:
+On the screen, Isabel's smile softened, her dark brown eyes shining behind her rectangular frames as she looked right at Jordan.
 
-<aac>Hi Isabel! We just cleared TSA at ROA and we're right at the gate. Thank you for the video message—I promise we will stay in touch and send you photos and updates from every stop this summer. Tell Stella, Elana, and Stephen we said hello, and I'll see you in August!</aac>
+*"I knew you would be,"* Isabel said softly, tucking a dark strand of hair with its subtle teal-blue tips behind her ear. *"Honestly, sitting here in Charlottesville this week, it still feels strange waking up and not hearing your power chair rolling out of Room 214 across the hall. I just wanted to see your face one more time before you crossed the ocean, Jordan, because I already miss you so much, and—and I'm just so in lo—"*
 
-Jordan gave the camera a bright wave, hit **Send**, and watched the status bar confirm *Delivered* over the terminal Wi-Fi.
+Isabel stopped dead in the middle of the syllable.
+
+Behind her rectangular glasses, her dark eyes went wide. Right before Jordan's and Aubrie's eyes, a deep, unmistakable crimson-pink blush rushed all the way up Isabel's neck and flooded across her fair cheeks—making her look for all the world like she was trying with everything she had to hide a very big secret.
+
+*"—I—I mean, I'm just so in awe of how far you've come since August!"* Isabel blurted out a half-second later, her voice jumping an octave higher as her fingertips flew up to touch her collar while she kept smiling brightly through the glowing pink flush on her cheeks. *"Both of you! You turned Bennett Hall into a real home, Captain of the Hill, and everyone here in Charlottesville is cheering for you today!"*
+
+Beside Jordan’s wheelchair, Jordan felt Aubrie Jean’s fingers give his shoulder a quiet, knowing squeeze. Remembering what Aubrie had whispered to him just before the TSA queue—that she suspected Isabel was in love with him and was completely ready to tell Isabel she would be welcomed into the **No-Jealousy Pact** now that she was no longer their Resident Advisor—Jordan glanced briefly at Aubrie. Aubrie’s lips parted slightly, ready to offer that exact welcome if Isabel said a single word more; but because Isabel didn't mention anything and held tightly onto her secret behind her rosy blush, Aubrie respected her pace and didn't bring it up.
+
+"We're going to miss you too, Isabel," Aubrie said gently, her voice full of genuine warmth.
+
+Jordan smiled back at the blushing young woman on his tablet screen and typed out his promise:
+
+<aac>Thank you for calling to see us off, Isabel. I promise we will stay in touch as best as we can across the time zones this summer, and we'll send pictures from Gander, Europe, and Sydney whenever we have hotel Wi-Fi. Tell Elana, Stephen, Stella, and your family we said hello—and I'll see you in August.</aac>
+
+*"It's a promise!"* Isabel said, still smiling brightly with her cheeks flushed a vivid rosy pink as she raised her hand to wave goodbye. *"Have the safest flight, Jordan! Bye, Aubrie! Have the trip of a lifetime!"*
+
+Jordan and Aubrie waved back at the camera together before tapping the red button to end the call.
 
 Seconds later, before the gate agent called for pre-boarding, Daniel Brooks knelt beside Jordan’s heavy-duty power chair. He carried the sleek Vanguard Pro laptop case over his shoulder.
 

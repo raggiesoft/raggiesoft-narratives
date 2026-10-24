@@ -130,8 +130,8 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
   * **`Agents(Brooks_Younger_Siblings)`** — Children #8–#10 of Daniel and Laura Brooks (making Jordan *"The Eleventh Child"* when welcomed into the Brooks family).
 * **The Scott & Jenkins Family (`Bluewater_Cluster` — Bluewater, VA)**:
   * **`System.Admins (David_Scott, Diane_Scott)`** — **David & Diane Scott** (Madison’s parents; hosts of the Bluewater mountain sanctuary).
-  * **`Agent(Bob_Scott)`** — **Bob Scott** (Madison’s grandfather; master woodworker and quiet-shop mentor to Jordan).
-  * **`Agent(Emily_Jenkins)`** — **Emily Jenkins** (Madison’s cousin).
+  * **`Agent(Bob_Scott)`** — **Bob Scott** (Madison’s 14-year-old non-verbal younger brother, her beloved **"squirt"**; `4'8"` in 2014–2015; uses a wheelchair after the January 2015 Bluewater High locker assault in `/books/bob-emily`; learns the Forty-Five-Degree Transfer from Jordan and co-bestows Jordan’s Heart-Hum name, *"The Key"*).
+  * **`Agent(Emily_Jenkins)`** — **Emily Jenkins** (Madison’s 15-year-old non-verbal maternal cousin; able-bodied and powerfully strong, shooting up from `5'3"` at Christmas 2014 to `5'10"` by Spring Break 2015; Bob’s fiercely devoted protector and co-speaker of **The Heart-Hum**).
 * **The Barnes Family (`Gander_Cluster` — Gander, Newfoundland, Canada)**:
   * **`System.Admins (Arthur_Barnes, Maeve_Barnes)`** — **Arthur & Maeve Barnes** (Lauren’s parents).
   * **`Agents(Liam_Barnes, Connor_Barnes)`** — **Liam & Connor Barnes** (Lauren’s brothers).
