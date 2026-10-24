@@ -14280,6 +14280,217 @@ Zoë's eyes shone behind her glasses. She stepped forward and placed her hand fi
 
 "I'll enroll right alongside you as Jordan's official note-taker and run our private study dojo at the Geneva Street house," Zoë promised, smiling down at Jordan as the gangway locked into place with a soft metallic click. "No shortcuts and strict CPI Honor Code compliance—every single one of us is going to earn our A's fair and square. By the time we bring you back to the **Seto Inland Sea**, Jordan Fuller, you won't need me to translate a single word."
 
+## The Deterministic Sanctuary (Singapore)
+
+### Scene 1: The Garden Terminal and Smart Card Number Six
+
+**Date:** 2015-07-15 at 16:30 Asia/Singapore
+
+After spending three tranquil days exploring the accessible cedar boardwalks around **Beppu's** steaming geothermal springs on Kyūshū and taking the **`Ferry Hoshizora`** back across the **Seto Inland Sea** to Osaka, the eighteen travelers boarded a southbound **Lion City Airlines** **PAC 777** at **Kansai International Airport (`KIX`)**.
+
+Instead of flying straight through to Sydney, **Daniel** and **Zoë** had deliberately routed the fifth leg of their global itinerary south to the equator for a four-day stopover in the island city-state of **Singapore**.
+
+At four-thirty on Wednesday afternoon, the wide-body aircraft touched down at **Singapore Changi Airport (`SIN`)**.
+
+From the moment the cabin attendants brought Jordan's power wheelchair to the aircraft door at **Terminal 3**, Jordan realized why transit engineers around the world spoke of Changi in hushed, reverent tones.
+
+There were no jarring steel threshold plates on the aerobridge, no echoing concrete tunnels, and no barking security loudspeakers. The wide, sunlit concourse opened into what felt less like an international transit hub and more like a climate-controlled tropical conservatory. Natural daylight filtered through hundreds of automated roof louvers overhead, illuminating lush indoor planters of living ferns, orchids, and palms. The floors were seamlessly flush—transitioning smoothly between whisper-quiet carpeting in the seating lounges and mirror-polished, non-slip stone along the wide primary travel lanes—while the background acoustics were softened by the gentle murmur of an indoor koi pond and cascading water wall.
+
+<aac>There are zero bottlenecks here,</aac> Jordan's `"Sydney"` voice murmured in quiet amazement as he rolled effortlessly alongside **Zoë**, **Aubrie**, **Madison**, and **Lauren** without having to dodge a single pillar or wait for a single cramped service lift. <aac>Even the air smells like orchids instead of jet fuel.</aac>
+
+"Wait until you see what's right behind that glass door on the mezzanine, J," **Daniel Brooks** smiled, guiding the group onto a vast, glass-walled elevator that glided smoothly up to the departure transit garden deck before they headed down to immigration.
+
+Stepping out through a pair of double glass vestibule doors, Jordan rolled onto a wide, barrier-free timber-and-stone pathway winding through the **Changi Butterfly Garden**—a two-story, open-air tropical sanctuary enclosed in fine mesh right inside the airport terminal, complete with a six-meter-tall lush grotto waterfall and over a thousand tropical butterflies fluttering lazily among flowering lantana and hibiscus bushes.
+
+A vivid green-and-black birdwing butterfly drifted down from the mist of the waterfall and landed delicately right on the top bezel of Jordan's **Pinnacle Vanguard Pro** screen.
+
+Jordan froze, a huge, delighted grin breaking across his face as **Aubrie** gasped softly and **Hannah** snapped a silent high-resolution photo on her camera.
+
+<aac>Hello there,</aac> Jordan typed with a gentle tap of one finger so he wouldn't startle his winged visitor. <aac>I think my AAC display just got promoted to a botanical landing pad.</aac>
+
+"He likes your route telemetry," **Zoë** smiled warmly, her gray eyes bright behind her glasses as the butterfly flexed its emerald wings once and glided back up into the sunlit foliage. "Come on, Chief Navigator. Let's clear passport control and claim **Smart Card Number Six**."
+
+Automated immigration and customs in the arrivals hall took less than ten minutes for all eighteen travelers—with extra-wide accessible automated lanes that scanned Jordan's passport and rolled open without a single beep of alarm.
+
+Following the crystal-clear overhead wayfinding signs down a wide, gently sloped ramp into the underground **Changi Airport MRT Station**, Jordan rolled up to the lowered accessible counter of the **Passenger Service Centre**.
+
+There, he purchased eighteen contactless **`MerlionLink`** smart cards—each embossed with the stylized emblem of Singapore's mythical half-lion, half-fish guardian overlooking Marina Bay.
+
+```
+[ JORDAN.OS — TRANSIT_COLLECTION_LEDGER // UPDATE ]
+> Smart Card #01: MetroCard (WMATA — Washington, D.C., USA)      [VERIFIED]
+> Smart Card #02: Strætó Klapp Card (Reykjavik, Iceland)          [VERIFIED]
+> Smart Card #03: Thames Card (TfL — London, United Kingdom)      [VERIFIED]
+> Smart Card #04: KantoPass (JR East — Tokyo, Japan)              [VERIFIED]
+> Smart Card #05: KansaiPass (JR West — Osaka, Japan)             [VERIFIED]
+> Smart Card #06: MerlionLink Card (SMRT — Singapore)             [ACQUIRED]
+> System Note: 100% of SMRT network stations verified step-free.
+```
+
+Jordan tapped his new **`MerlionLink Card`** against the wide accessible reader of the **Singapore Mass Rapid Transit (`SMRT`)** faregate. The glass paddles glided open silently.
+
+When they reached the island platform of the **East-West Line**—and transferred two stops later at **Expo Station** onto the fully automated **Downtown Line** into **Marina Bay**—Jordan saw the true gold standard of universal urban transit. Every single station across the entire nation was 100% step-free from street level to the platform. Full-height glass platform screen doors lined the track edge, sliding open in millimeter-perfect synchronization with the train doors. And where the train floor met the station platform, a rubber gap-filler strip bridged the threshold so tightly that the front caster wheels of Jordan's power chair glided across without even the faintest click.
+
+Sitting in the dedicated wheelchair bay of the cool, whisper-quiet **Downtown Line** car as it hummed smoothly beneath the city toward **Bayfront Station**, Jordan looked down at his **`MerlionLink Card`** and then up at **Zoë**, **Aubrie**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, and **Mark**.
+
+<aac>On the ferry in Japan, I realized what it felt like to exist without a threat level,</aac> Jordan typed, his `"Sydney"` voice steady and clear over the soft hum of the rails. <aac>And riding this train in Singapore proves the rest of it. The problem was never my wheelchair, and the problem was never my body. The problem was only ever the hostile environments I was trapped in.</aac>
+
+### Scene 2: The Deterministic City and the Cloud Forest
+
+**Date:** 2015-07-16 at 10:30 Asia/Singapore
+
+On Thursday morning, after waking up refreshed in their interconnected accessible family suites overlooking the **Marina Bay** waterfront—where **Madison** and **Lauren** had shared the rotating bed shift with Jordan—the eighteen-person family rolled out across the wide, level waterfront promenade toward **Gardens by the Bay**.
+
+Even though they were only one degree north of the equator, the morning walk along the shaded bayfront breeze was effortless. Every curb cut was flush to the millimeter, every pedestrian crossing gave ample digital countdown time with gentle tactile chimes, and the entire district connected directly into climate-controlled underground and elevated walkways without a single stair.
+
+When they entered the soaring glass biome of the **Cloud Forest Conservatory**, Jordan felt the temperature drop instantly from tropical warmth to a crisp, misty sixty-eight degrees Fahrenheit—the exact climate of a high-altitude tropical mountain at two thousand meters above sea level.
+
+Directly ahead of his wheelchair rose a thirty-five-meter-tall indoor mountain cloaked in lush mosses, bromeliads, ferns, and orchids, with the world's tallest indoor waterfall plunging down its face in a shimmering veil of cool mist.
+
+"Look at the routing architecture on that mountain, J," **Zoë** said, her voice filled with pure engineering reverence as she stood beside Jordan's right armrest, pointing up at the ribbons of steel-and-glass aerial walkways spiraling around the mist-shrouded peak. "They didn't build the aerial walkways as a separate 'able-bodied' tourist attraction and stick wheelchair users at the bottom with a brochure. The entire **Cloud Walk** and **Treetop Walk** is served by wide, high-speed dual elevators built straight through the core of the mountain, and every single suspended skybridge is graded to a continuous, step-free wheelchair slope."
+
+Together, all eighteen of them rode the wide interior lift straight to the summit of the **Lost World** deck at the very crown of the conservatory, then rolled slowly downward at their own pace along the suspended **Cloud Walk** and **Treetop Walk**, emerging right through the cool, drifting spray of the waterfall high above the conservatory floor.
+
+As they rolled along the aerial walkway, Jordan noticed something about **Zoë**.
+
+Back in London, when they had dealt with the broken lift at Covent Garden and the Victorian cobblestones, Zoë had been fiercely competent, her sharp gray eyes constantly calculating contingency matrices—yet there had always been a subtle, underlying tension in the set of her shoulders, like a high-performance processor running at seventy percent capacity just to filter out the urban entropy around her.
+
+Here in Singapore—just as in Tokyo, Osaka, and aboard the **`Ferry Hoshizora`**—that background tension in Zoë had completely vanished.
+
+Her shoulders were relaxed. Her fingers weren't tapping rhythmically against the casing of her **mPad**. As she paused beside Jordan's wheelchair to read an engineering display plaque explaining how the two glass biomes captured rainwater from their roofs, circulated chilled water through floor pipes to cool only the lower five meters of air where visitors stood, and burned pruned horticultural waste from around Singapore in biomass boilers to generate their own electricity, her entire posture radiated a deep, quiet, rhythmic calm that looked identical to Jordan's own sensory equilibrium.
+
+<aac>You really love this city, don't you, Zoë?</aac> Jordan typed quietly while the rest of the family paused ten yards ahead to take photos beside an orchid wall.
+
+Zoë looked down from the thermodynamic schematic diagram, a remarkably soft, unguarded smile warming her face behind her glasses.
+
+"It's a closed-loop, zero-waste, deterministic system, Jordan," Zoë murmured, resting her hand lightly on the back of his power chair. "Every drop of rainwater has a designated catchment vector. Every train door opens within a two-millimeter tolerance. Every rule is clearly documented, logically enforced, and respected by everyone in the system. Nobody shouts, nobody improvises chaotic shortcuts at other people's expense, and nobody leaves broken infrastructure lying around as an unhandled exception."
+
+She let out a quiet, deeply contented breath, looking out through the curved glass grid of the dome toward the gleaming skyline of **Marina Bay**.
+
+"When I'm in a place like this," Zoë said softly, almost to herself, "my processor doesn't have to spend half its clock cycles defending against entropy. Look for me on the suite terrace tonight after dinner, J—once we watch the evening light show at the **Supertree Grove**. There's something about my own system architecture I've been waiting for the right place to share with you and the family."
+
+### Scene 3: ZOË.Systems.Logs (Diagnosed at Three)
+
+**Date:** 2015-07-16 at 20:45 Asia/Singapore
+
+At eight-forty-five that Thursday evening, after watching the towering vertical gardens of the **Supertree Grove** glow in synchronized waves of cobalt, emerald, and gold against the equatorial night sky, the eighteen travelers gathered on the wide, private outdoor sky terrace of their interconnected **Marina Bay** hotel suites.
+
+A warm, gentle breeze drifted off the water below. **Jordan** parked his power wheelchair near the glass balustrade between **Aubrie** and **Zoë**, while **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, **Daniel**, **Laura**, and the **Brooks** siblings—**Megan**, **Caleb**, **Chloe**, **Rebecca**, **Lucas**, **Owen**, and **Jacob**—settled into the cushioned terrace armchairs in a close, comfortable semicircle.
+
+Zoë stood beside Jordan's right armrest, holding her **mPad** against her chest.
+
+Over the past ten months at **Commonwealth Polytechnic Institute**, Jordan had watched Zoë stare down corrupt student government senators, audit multi-million-dollar university ledgers, and guide eighteen people across four time zones without a single tremor in her voice. Yet tonight, looking around at the seven classmates who had become her found family, her fingers were lightly tracing the aluminum bezel of her tablet.
+
+Across the terrace, **Daniel** and **Laura Brooks** exchanged a look of deep, quiet parental pride and gave their daughter an encouraging nod.
+
+"On the train yesterday, and in the **Cloud Forest** this morning," Zoë began softly, her crisp British-Virginian voice clear in the warm evening air, "Jordan noticed something about me. He noticed that ever since we landed in Tokyo, rode the **`Ferry Hoshizora`**, and arrived here in Singapore, my shoulders stopped bracing—the exact same way his and Aubrie's did."
+
+Jordan tilted his head up toward her, his hands resting attentively over his **Pinnacle Vanguard Pro** keyboard, while **Aubrie** reached out to hold Jordan's left hand.
+
+"All freshman year in Suite 214 and 216," Zoë continued, her gray eyes moving warmly across **Jordan**, **Aubrie**, **Madison**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**, "we talked openly about how Jordan's brain and Aubrie's brain process the world. We talked about how both of them are autistic, and how our suite works because we built an environment where neither of them ever has to mask who they are. There is a reason I understood how to build that environment from the very first day we met in Bennett Hall."
+
+Zoë took a steady breath and adjusted her glasses.
+
+"I'm autistic too," Zoë said quietly. "I've known since I was little. Mum and Dad had me officially diagnosed in London when I was three years old."
+
+A soft, warm stillness settled over the terrace—not shock, not awkwardness, but the sudden, crystalline click of a dozen puzzle pieces locking effortlessly into place.
+
+"When I was three," Zoë explained, a faint, self-aware smile touching the corner of her mouth as she glanced toward her parents and her twin brother **Caleb**, "Caleb was playing with toy fire lorries on the rug in our Soho flat, and I wasn't playing with toys at all. I was taking Dad's printed London Underground timetables and lining them up across the floorboards by headway interval, and whenever a train on the Victoria Line was delayed or a house guest moved one of my books out of alphabetical order without a logical reason, I would have a total systemic meltdown. Mum and Dad took me to a paediatric neurodevelopmental specialist at Great Ormond Street, who confirmed what they already suspected."
+
+"And the specialist told us something Laura and I never forgot," **Daniel Brooks** said gently from across the terrace, his arm around his wife's shoulders. "She told us that Zoë's brain wasn't broken—it was simply architected like a high-precision analytical engine. So we never treated her diagnosis like a shameful secret, and we never forced her to mask in our home. We just told her that her diagnosis belonged to *her*, and that whenever she met people outside our family whom she trusted enough to share it with, she could tell them on her own timeline."
+
+Zoë looked back down at Jordan and Aubrie, tapping a key on her **mPad** and turning the screen so Jordan, Aubrie, and the circle could see the structured, syntax-highlighted console window she kept open beside her **`Quantum Sharp`** (`Q#`) compiler.
+
+"The reason I wanted to tell all of you here in Singapore," Zoë said, her voice warming with earnest clarity, "is because being here with you finally showed me how the three autistic architectures in our house fit together like a complete tri-node cluster:
+
+"First, there's **Jordan's** processor—`Jordan.OS`. Jordan, your system crashes when rules conflict, or when the abusive legacy trauma scripts your mother forced onto your hard drive collide with unconditional safety and love, throwing a `System.IO.FileNotFoundException()`.
+
+"Second, there's **Aubrie's** processor. Aubrie, your system crashes when raw environmental sensory volume—bright fluorescent lights, screaming crowds, overlapping noise—spikes your input meters to `100`.
+
+"And third, there's **mine**." Zoë pointed to the glowing runtime console on her tablet. "Ever since I learned to read and code, my brain has literally processed every thought, every social interaction, every emotion, and every travel route as a live **`Quantum Sharp`** application writing to five concurrent system log streams—`ZOË.Systems.Logs`. My processor doesn't crash from loud noises alone; my processor spikes into the red when a system is **inefficient, illogical, unscripted, corrupt, or chaotic**. That's why corrupt bullies like Victoria Sterling or broken transit infrastructure make my CPU run hot, why writing **`Fin#`** and **`Z-SOX-302`** calms me down when I'm overwhelmed, and why Japan and Singapore feel like heaven to my nervous system—because these cities are coded the exact same way my brain is."
+
+Inside Zoë's mind—and mirrored right on her private runtime console—her five cognitive log streams recorded the exact moment her nineteen-year-old firewall opened to her found family:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Disclosure.Protocol: Initiating full transparency handshake with Node(Found_Family) at Node(Singapore.Marina_Bay). Autism_Diagnosis(Age: 3, Status: Lifelong_Verified) shared with zero masking. 07-16-2015 20:51:10
+ZOË.Systems.Logs.SystemSchedulerLog: Thread 2 (Observers) — Scanning facial telemetry across Thread 3 (Jordan), Aubrie, Madison, Lauren, Sarah, Jessica, Thread 4 (Mark), Thread 5 (Hannah). Threat_Detection: 0.00%. Acceptance_Index: 100.00%. 07-16-2015 20:51:12
+ZOË.Systems.Logs.EmotionalStateLog: Thread 1 (Self) — CPU_Load dropping from 42% -> 14% (Optimal_Baseline). Relief.Amplitude: HIGH. Heart_Rate: 68 BPM (Steady). 07-16-2015 20:51:14
+```
+
+Before Zoë could even lower her **mPad**, **Aubrie** rose from her chair and wrapped her arms warmly around Zoë's shoulders, while **Jordan** drove his wheelchair half a foot closer and reached up with his right hand to clasp Zoë's hand firmly against his armrest.
+
+<aac>No wonder you always knew what my processor was doing before I even finished typing,</aac> Jordan's `"Sydney"` voice said, thick with emotion and pure affection as he looked up into Zoë's gray eyes. <aac>You weren't just reading my screen, Zoë. We were running on the same kernel architecture the whole time. Thank you for trusting us with your source code.</aac>
+
+"Three autistic brains in one house on Geneva Street," **Aubrie** beamed, resting her cheek briefly against Zoë's shoulder before looking down at Jordan. "One for rules and navigation, one for sensory harmony and art, and one for systemic order and quantum code. Honestly, the rest of the neurotypical world doesn't stand a chance against us."
+
+"Not a snowcone's chance in the Outback," **Mark** grinned warmly from beside **Hannah**, raising his glass of iced lemon tea in a toast as **Madison**, **Lauren**, **Sarah**, and **Jessica** all stepped in to wrap Zoë in a massive, gentle group hug right beside Jordan's wheelchair. "To `ZOË.Systems.Logs`—the best operating system in Blacksburg, London, Osaka, and Singapore."
+
+```
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Decision: Accept physical compression hug from Node(Found_Family) while maintaining tactile hand-link with Thread 3 (Jordan). Execute: Commit Node(Geneva_Street_House) as Permanent_Trusted_Cluster. 07-16-2015 20:52:30
+ZOË.Systems.Logs.InternalStateLog: Thread 1 (Self) — Conclusion: Parent_Nodes (Daniel, Laura) were right. Waiting until Singapore to share my lifelong diagnosis with Jordan and the suite yielded a 100% lossless emotional state transfer. System status: COMPLETELY_SAFE. 07-16-2015 20:52:35
+```
+
+### Scene 4: The Three-Continent Video Call
+
+**Date:** 2015-07-17 at 21:00 Asia/Singapore
+
+At nine o'clock on Friday evening in **Singapore**—which was two o'clock in the afternoon for **Henry Walsh** at the **London School of Economics and Commerce (`LSEC`)** in **London**, and nine o'clock on Friday morning for **Isabel Dawson** at her family's home in **Charlottesville, Virginia**—**Zoë** propped her **mPad Pro** on the center coffee table of their Marina Bay suite and connected it to the room's wide wall monitor for a three-continent **mFace** video conference.
+
+Within three seconds, the split-screen chime sounded.
+
+On the left half of the screen appeared **Henry Walsh** in his sunlit student flat near Houghton Street in London, a mug of builder's tea in his hand and a huge grin on his face.
+
+On the right half of the screen appeared **Isabel Dawson** sitting at the sunny breakfast table of her parents' home in Charlottesville, wearing a soft maroon **Commonwealth Polytechnic Institute** cardigan over her summer sundress, her dark brown hair cascading over her shoulders.
+
+"Good morning from Virginia, Good Afternoon from London, and Good Evening to Singapore!" **Henry** called out cheerfully as all eighteen members of the World Trek waved at the camera. "Look at that view behind your balcony window! Did the Chief Navigator conquer the equator?"
+
+<aac>Six for six on transit smart cards, Henry!</aac> Jordan's `"Sydney"` voice rang out proudly as he held his gleaming **`MerlionLink Card`** up to the webcam so both Henry and Isabel could see it. <aac>Singapore Changi Airport had a two-story butterfly garden inside the terminal, a butterfly landed right on my AAC screen, and every single SMRT subway station in the entire country is one hundred percent step-free with zero platform gap!</aac>
+
+On the right side of the split screen, **Isabel's** entire face lit up—and the very instant her eyes locked onto Jordan smiling in his wheelchair, a deep, radiant crimson blush bloomed across her cheeks, spreading all the way from the collar of her sundress to the tips of her ears.
+
+"Oh, Jordan, look at you!" Isabel beamed, her hands coming up to her glowing cheeks as she leaned closer to her laptop camera in Charlottesville, completely captivated by how healthy, sun-kissed, and relaxed he looked. "You look so happy! You don't have any tension in your shoulders at all! Have you been sleeping well? Did the ferry across the Seto Inland Sea go okay?"
+
+<aac>It was the best night of my life, Isabel,</aac> Jordan typed warmly, smiling straight into the lens at her. <aac>The ship sang a lullaby called Hoshizora no Uta over the speakers as we sailed out of Osaka, and Zoë translated the lyrics for me. It told us to leave our heavy shadows on the shore because we were safe upon the sea. And next semester, all nine of us are registering together for Elementary Japanese I at CPI!</aac>
+
+Isabel's dark eyes turned glassy with sudden, overwhelming emotion. Her blush deepened by another three shades of scarlet, her heart beating so fast she completely forgot there were nineteen other people on the call.
+
+"Jordan, I am so proud of you I could burst," Isabel said breathlessly, her voice trembling with raw, unfiltered adoration as her fingers pressed over her collarbone. "I've missed your voice and your smile every single day since May, and seeing you glow like that makes me realize how madly in l—"
+
+Isabel froze mid-syllable.
+
+Her eyes went wide in sheer panic as her brain caught up with her tongue half a second before the word *love* left her lips.
+
+"—in *luck*!" Isabel blurted out, her voice pitching an octave higher as her face turned the exact color of her maroon CPI cardigan. "How madly in *luck* I am to have been your RA in Bennett Hall and to be your neighbor at **Allegheny Commons** this fall! Just—so, *so* lucky!"
+
+For two full seconds, a hilarious, electric silence hung across three continents.
+
+In London, **Henry Walsh** had to clamp his hand over his mouth and pretend to take a very long sip of his tea to hide his grin—because from his side of the split screen, Isabel's radiant, head-over-heels blush was visible from space.
+
+In Singapore, **Aubrie**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Hannah**, **Mark**, **Daniel**, **Laura**, and every single one of the **Brooks** siblings saw it too, exchanging warm, knowing, delighted glances across the suite without saying a word to embarrass her.
+
+Beside Jordan's right armrest, **Zoë's** internal diagnostic logger fired at light speed:
+
+```
+ZOË.Systems.Logs.KernelLog: Thread 7 (Campus_Allies: Isabel_Dawson) — Verbal.Slip.Intercepted("madly in l-[ove]" -> "madly in luck"). Cutaneous.Vasodilation: MAXIMUM_CRIMSON_BLUSH (Continuous duration: 142 seconds). 07-17-2015 21:04:18
+ZOË.Systems.Logs.EmotionalStateLog: Thread 3 (Jordan) — Visual.Recognition: CONFIRMED. Jordan's optical sensors have locked onto Thread 7's blush. Facial expression: Warm_Affectionate_Smile. Probability(Mutual_Awareness) == 100.00%. 07-17-2015 21:04:22
+```
+
+Because even **Jordan** saw it.
+
+Sitting in his power chair in the middle of the room, Jordan looked at Isabel's bright red cheeks on the monitor, his eyes crinkling warmly behind his glasses as a gentle, unmistakable smile curved his lips. He knew Isabel wasn't ready to say the word out loud over a group video call across twelve time zones—and he respected her boundary completely—but the warmth in his chest told him he had heard every word she *almost* said.
+
+<aac>I feel pretty lucky too, Isabel,</aac> Jordan's `"Sydney"` voice replied softly, rescuing her with effortless grace. <aac>When do you move into Apartment 101 at Allegheny Commons?</aac>
+
+Isabel let out a shaky, grateful breath, fanning her still-blushing cheeks with one hand while smiling back at him with her whole heart in her eyes.
+
+"RA training starts the first week of August, so I'll be all moved into **Apartment 101** well before you get back from Australia," Isabel said, leaning toward her camera as she looked directly at Jordan. "Tell me the exact flight number and arrival time for your return into **Roanoke-Blacksburg Regional Airport (`ROA`)** in August, Jordan. I don't care what time of day or night your plane touches down—I promise I'm going to be standing right there at the arrivals gate at **ROA** waiting for you the second you roll off that jet bridge."
+
+"Make that *two* of us at the **ROA** arrivals gate!" **Henry** chimed in warmly from the London half of the screen, lowering his teacup with a broad smile. "My summer term at **LSEC** wraps up in two weeks, and I fly back into Virginia at the end of July to move into **Apartment 115** right down the hall from Isabel. So Isabel and I will drive up to **Roanoke-Blacksburg Regional Airport** together and be waiting side by side at the gate when all eighteen of you land!"
+
+"It's a date!" **Aubrie** smiled, squeezing Jordan's shoulder as **Mark** and **Hannah** gave Henry and Isabel a double thumbs-up. "Next stop tomorrow morning: a seven-hour flight down to **Sydney** and **Liverpool, New South Wales**, and then two weeks out at the **Gallagher Roadhouse** in the Northern Territory Outback before we fly home to Virginia!"
+
+<aac>See you both at ROA in August,</aac> Jordan typed, giving Isabel and Henry a warm wave before the call signed off—and even as the screen faded out, Isabel was still blushing and smiling from ear to ear.
+
 # Jordan's Court Case
 
 ## The Southern Hemisphere

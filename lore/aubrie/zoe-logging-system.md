@@ -22,15 +22,17 @@ In *The Eleventh Child: The Story of Jordan*, the three autistic core members of
    * Consequently, Zoë’s brain continuously translates ambiguous human social dynamics, physical touch, medical emergencies, and her own emotions into **deterministic C#/.NET namespaces, threads, protocols, axioms, and log entries**.
 
 ### Timeline & Disclosure Rule (CRITICAL)
-* **Lifelong Diagnosis Since Infancy**:
-  * Unlike Jordan (whose mother refused all medical care and left him undiagnosed), **Zoë Wren Brooks was formally diagnosed as autistic when she was an infant** by supportive parents (**Daniel and Laura Brooks**).
+* **Lifelong Diagnosis (Officially Diagnosed at Age 3)**:
+  * Unlike Jordan (whose mother refused all medical care and left him undiagnosed), **Zoë Wren Brooks was formally diagnosed as autistic when she was three years old** in London by paediatric specialists at Great Ormond Street with the full, loving support of her parents (**Daniel and Laura Brooks**).
   * Zoë has **always** known she is autistic, and she has **always** processed her internal thoughts through her `ZOË.Systems.Logs` runtime architecture.
-* **Freshman Year (`2014–2015`, `e001` & `e002`) — Pre-Disclosure (NO `ZOË.Systems.Logs` Blocks)**:
-  * Throughout **all of Freshman Year (`2014–2015`, including Fall Break `October 2014` in `e001/c017`–`c021` and Winter Break `December 2014` in `e002/c001`)**, **Zoë has simply not yet decided to disclose her autism diagnosis to her found family**.
-  * Verified directly against `aubrie-old.docx`: `ZOË.Systems.Logs` **first appears at Paragraph 2644 in `Part 13: The Social Script Crash` (`10-12-2015 07:05:15` — Sophomore Fall Break, October 2015)**, followed by Zoë’s explicit verbal disclosure in **`Part 37: The Missing Social Script` (`paragraphs 3150–3165`, October 2015)**.
-  * Because the reader does not see her internal `ZOË.Systems.Logs.*` architecture until Sophomore Fall (`October 2015`), do **NOT** insert `ZOË.Systems.Logs.*` blocks anywhere in Freshman Year (`2014–2015`).
+* **Freshman Year (`2014–2015`, `e001`–`e003`) — Pre-Disclosure (NO `ZOË.Systems.Logs` Blocks)**:
+  * Throughout **all of Freshman Year (`2014–2015`, `e001`–`e003`, including Fall Break `October 2014`, Winter Break `December 2014`, and Spring Semester `2015`)**, **Zoë has simply not yet decided to disclose her autism diagnosis to her found family**.
+  * Do **NOT** insert `ZOË.Systems.Logs.*` blocks anywhere in Freshman Year (`e001`–`e003`).
+* **Summer 2015 World Trek Disclosure in Singapore (`e004/c008/s003.md`, July 16, 2015)**:
+  * Surrounded by the deterministic, barrier-free urban and transit architecture of **Singapore**, Zoë officially discloses to Jordan, Aubrie, and the found family that she is autistic (and was diagnosed when she was 3 years old), contrasting the three autistic architectures in the house (Jordan's `Jordan.OS` rule/trauma-script architecture, Aubrie's sensory-volume `100` architecture, and her own `ZOË.Systems.Logs` systemic/procedural order architecture).
+  * `ZOË.Systems.Logs.*` first appears on-page in **`e004/c008/s003.md` (*"ZOË.Systems.Logs (Diagnosed at Three)"*)** and **`e004/c008/s004.md` (*"The Three-Continent Video Call"*)**, and continues through Sophomore Year (`e005+`).
 * **Porting Override for `aubrie-old.docx` (`Part 37: The Missing Social Script`)**:
-  * When porting the later disclosure scene from `aubrie-old.docx` (`paragraphs 3150–3165`, where the old draft had Zoë ask *"am I autistic, too?"*), **rewrite it to match the updated canon**: Zoë is **not** discovering or wondering for the first time whether she is autistic—she has been diagnosed since infancy, and in that vulnerable moment she is finally **disclosing her lifelong autism diagnosis and how her internal `ZOË.Systems.Logs` processor works** to Jordan and Aubrie.
+  * When referencing or adapting scenes from `aubrie-old.docx` (`paragraphs 3150–3165`, where the old draft had Zoë ask *"am I autistic, too?"*), **always follow the updated canon**: Zoë is **not** discovering or wondering for the first time whether she is autistic—she was officially diagnosed at age 3 and already shared her diagnosis and `ZOË.Systems.Logs` architecture with the family in Singapore (`e004/c008/s003.md`).
 
 ---
 
@@ -177,11 +179,13 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
   * **`'Blue_Ridge_Transit.Maroon_Express'`** — Campus express transit vector.
   * **`'Roanoke_Valley_Transit.Roanoke_Express'`** — Intercity highway commuter coach (`81 ROANOKE EXP`).
 * **Summer 2015 World Trek International Sanctuary Nodes**:
-  * **`Node(Gander.Newfoundland)`** — Leg 2: Barnes family home in Gander, Newfoundland, Canada.
-  * **`Node(London.Carnaby_Street)`** — Leg 3: Brooks family ancestral flat in Soho/Westminster, London, UK.
-  * **`Node(Sydney.Liverpool_NSW)`** — Leg 4A: Braithwaite family home in Liverpool / Sydney, NSW, Australia.
-  * **`Node(Petermann.Gallagher_Roadhouse)`** — Leg 4B: Gallagher’s Roadhouse in the Red Centre near Uluru, Northern Territory, Australia.
-  * **`Node(Osaka.Japan)`** & **`Node(Seto_Inland_Sea.Ferry_Hoshizora)`** — Leg 5: Brooks family former neighborhood in Osaka and the overnight RORO car ferry *Ferry Hoshizora* across the Seto Inland Sea.
+  * **`Node(Gander.Newfoundland)`** — Leg 1: Barnes family home in Gander, Newfoundland and Labrador, Canada.
+  * **`Node(Reykjavik.Iceland)`** — Leg 2: Accessible geothermal lagoons and Reykjavik sanctuary, Iceland.
+  * **`Node(London.Carnaby_Street)`** & **`Node(Liverpool.Merseyside)`** — Leg 3: Brooks family ancestral flat in Soho/Westminster, London, UK, and side trip to Liverpool, Merseyside.
+  * **`Node(Tokyo.Japan)`**, **`Node(Osaka.Japan)`**, & **`Node(Seto_Inland_Sea.Ferry_Hoshizora)`** — Leg 4: Tokyo, the Brooks family former neighborhood in Osaka, and the overnight RORO car ferry *Ferry Hoshizora* across the Seto Inland Sea to Beppu.
+  * **`Node(Singapore.Changi_SIN)`** & **`Node(Singapore.Marina_Bay)`** — Leg 5: Singapore Changi Airport, Gardens by the Bay, and Marina Bay accessible family suites (where Zoë discloses her age-3 autism diagnosis in `e004/c008/s003.md`).
+  * **`Node(Sydney.Liverpool_NSW)`** — Leg 6: Braithwaite family home in Liverpool / Sydney, NSW, Australia.
+  * **`Node(Petermann.Gallagher_Roadhouse)`** — Leg 7: Gallagher’s Roadhouse in the Red Centre near Uluru, Northern Territory, Australia.
 
 ---
 
