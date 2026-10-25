@@ -5685,6 +5685,8 @@ Realizing her psychological hold over him was shattering in real time, Aubrie Si
 
 **Date:** 2014-10-18 at 09:30 America/New_York
 
+![Inside the locked dorm sanctuary of Bennett Hall Room 214 on an October morning, eighteen-year-old Jordan Fuller sits upright in his manual wheelchair wearing his maroon CPI hoodie with his black laptop angled toward his face as he presses the execute key to declare 'I'm staying here,' surrounded in a fiercely protective circle by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Lauren, and Hannah.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c007/p003/the-choice-bennett-hall.jpg)
+
 Less than ninety seconds after Zoë alerted the first-floor front desk, **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh** stepped out through the lower-level exterior glass doors of Bennett Hall onto the brick inner-quad walkway—pulling the heavy doors firmly shut behind them until the magnetic locks clicked—and intercepted **Aubrie Sinclair** twenty feet before she could even reach the card reader.
 
 Up inside the warm, locked sanctuary of Room 214, Jordan sat in his wheelchair surrounded by **Aubrie Kelly**, **Madison**, **Zoë**, **Lauren**, and **Hannah**, listening through the open speakerphone connection on Zoë’s mPhone as Kelsey’s voice rang out across the crisp October air outside.
@@ -9026,6 +9028,8 @@ As the front door of the Brooks house opened to the welcoming cheers of **Mark**
 
 **Date:** 2014-12-27 at 08:00 America/New_York
 
+![Inside the barrier-free living room of the Dawson home in Charlottesville with smooth oak hardwood floors, Jordan Fuller in his manual wheelchair and Isabel Dawson in a cream cable-knit sweater warmly greet Isabel's seventeen-year-old sister Elana Grace Dawson (in her rugged matte-charcoal heavy-duty sip-and-puff power chair with her mPad angled toward her) and seventeen-year-old cousin Stephen Dawson (in his compact joystick power chair, holding Elana's hand) alongside Stella, their silver-dapple miniature service horse in a maroon biothane harness and indoor rubber hoof boots.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/p001/dawson-sanctuary-elana-stephen-stella.jpg)
+
 #### 8:00 AM — Gridlock on I-81 & The Route 460 Pivot
 
 On Christmas morning, right after the stockings had been emptied in the Geneva Street living room, **Isabel Dawson** had kept her promise to text the **[Jordan Comms]** group chat from her family home in **Charlottesville**. When **Daniel** and **Laura Brooks** had replied to wish the entire Dawson household a happy holiday, Isabel’s parents—**Greg** and **Rebecca Dawson**—had extended a warm invitation for Daniel and Laura to bring **Jordan** and the whole gang up to Charlottesville on Saturday for lunch and an afternoon visit.
@@ -9970,6 +9974,8 @@ Behind the counter, Kelsey let out a quiet, amused giggle at her Junior RA’s e
 ### Part 2: Introducing Garrett to Suite 214/216 & This Side of Heaven
 
 **Date:** 2015-01-11 at 14:40 America/New_York
+
+![Inside Bennett Hall Suite 214/216 during Spring Semester unpacking, eighteen-year-old Jordan Fuller sits in his manual wheelchair wearing his maroon CPI sweatshirt with his black laptop angled toward his face, beaming with radiant joy through happy tears as Aubrie Jean Kelly kneels to embrace him and Madison Scott, Zoë Wren Brooks, Lauren, and Hannah surround him in a tearful group hug.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/p002/this-side-of-heaven-suite-214.jpg)
 
 #### 2:40 PM — Introducing Garrett to Suite 214/216
 
@@ -11087,6 +11093,8 @@ Isabel laughed as she dropped into a window seat behind the front wheel well—a
 ### Part 3: HEY CACUHO! Clothespins and the Gamble Aria Nightmare
 
 **Date:** 2015-02-15 at 18:30 America/New_York
+
+![Inside Bennett Hall Room 214 after returning from the CACUHO conference, Resident Advisor Isabel Dawson—her woven conference lanyard covered in dozens of brightly painted wooden clothespins—blushes warmly as she kneels beside Jordan's wheelchair to clip a hand-painted neon-teal clothespin onto his laptop bag while Kelsey Brennan, Garrett Reynolds, Aubrie Jean Kelly, and Madison Scott smile fondly behind them.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c004/p003/hey-cacuho-clothespins-roanoke.jpg)
 
 At six-thirty on Sunday evening, just as the nine residents of **Suite 214/216** were finishing a Sunday study block across the desks and lower bunks of **Room 214**, footsteps and laughter echoed down the second-floor hallway outside their door, followed by a familiar, cheerful two-beat knock.
 
@@ -13108,6 +13116,8 @@ After lunch at a step-free pub patio near St. James's Park, Daniel looked over a
 
 **Date:** 2015-06-08 at 15:00 Europe/London
 
+![On pedestrian Carnaby Street in Soho, London beneath the WELCOME TO CARNABY STREET arch, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face outside a classic vinyl record shop with wooden LP crates, surrounded by Zoë Wren Brooks, Aubrie Jean Kelly, Madison Scott, and Daniel and Laura Brooks pointing up toward their old third-floor flat window.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c004/p002/carnaby-street-soho-record-shop.jpg)
+
 #### June 8, 2015 • 3:00 PM — Carnaby Street and the Hollow Square
 
 From Piccadilly, Jordan guided the family aboard a low-floor red double-decker bus up the sweeping curve of Regent Street, disembarking via the hydraulic ramp at Beak Street and rolling east into the heart of **Soho**.
@@ -13876,6 +13886,8 @@ Once the rest of the family settled into the adjoining cabins and stepped up to 
 
 **Date:** 2015-07-08 at 19:05 Asia/Tokyo
 
+![Inside the barrier-free upper-deck stateroom of Ferry Hoshizora sailing across Japan's Seto Inland Sea at twilight, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face, eyes closed in profound relief as Zoë Wren Brooks and Aubrie Jean Kelly wrap him in grounding bilateral compression.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c006/p002/ferry-hoshizora-threat-level-zero.jpg)
+
 At seven-oh-five in the evening, the massive hull of the **`Ferry Hoshizora`** glided smoothly out of Osaka Port, the deep, steady hum of its twin marine engines vibrating reassuringly beneath the thick tires of Jordan's 350-pound power chair. Outside the glass, the evening air was warm and golden, and the vast, tranquil, island-dotted expanse of the **Seto Inland Sea** stretched out toward the western horizon.
 
 Inside their spacious, wheelchair-accessible cabin, Jordan parked his chair beside the wide observation window. **Aubrie** leaned comfortably against his right armrest, looking out at the calm indigo water with her hand resting near his shoulder, while **Zoë** sat cross-legged on the lower bed behind them, methodically organizing the family's Kyūshū rail reservations on her `mPad`.
@@ -14313,6 +14325,8 @@ From fifty-five stories in the air, the entire island city-state and the equator
 
 **Date:** 2015-07-17 at 21:00 Asia/Singapore
 
+![Inside their Marina Bay accessible suite in Singapore at night with the illuminated city skyline glowing behind the windows, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI polo and holding up his blue MerlionLink transit smart card toward the foreground video-call tablet (angled toward the group so only its matte-black rear casing faces the viewer) while Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Lauren, and Hannah laugh warmly around him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/p002/singapore-three-continent-call.jpg)
+
 #### July 17, 2015 • 9:00 PM — The Three-Continent Video Call
 
 At nine o'clock on Friday evening in **Singapore**—which was two o'clock in the afternoon for **Henry Walsh** at the **London School of Economics and Commerce (`LSEC`)** in **London**, and nine o'clock on Friday morning for **Isabel Dawson** at her family's home in **Charlottesville, Virginia**—**Zoë** propped her **mPad Pro** on the center coffee table of their Marina Bay suite and connected it to the room's wide wall monitor for a three-continent **mFace** video conference.
@@ -14416,6 +14430,8 @@ Ten minutes later—after **Jessica** effortlessly scooped Jordan out of his pow
 ### Part 1: Sydney Harbour, The Three Sisters, & The Jamison Skyway
 
 **Date:** 2015-07-19 at 09:30 Australia/Sydney
+
+![On the sunny suburban rail platform at Liverpool Station, New South Wales, Australia beneath towering eucalyptus gum trees and silver double-decker Waratah trains, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI fleece with his black laptop angled toward his face in front of the orange-and-white LIVERPOOL STATION sign while Australian suitemate Sarah Braithwaite grins and gives a triumphant thumbs-up alongside Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, tall Jessica Gallagher, Lauren, and Hannah.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/p001/right-liverpool-station-nsw.jpg)
 
 #### July 19, 2015 • 9:30 AM — Southern Cross Airways and Smart Card Number Seven
 
@@ -16342,6 +16358,8 @@ Cocooned between Aubrie Jean, Madison, and Isabel, Jordan was completely mesmeri
 ### Part 1: Friday, 9:32 AM (The Attack) & The Wrong Bus on Commonwealth Mall
 
 **Date:** 2015-11-13 at 09:32 America/New_York
+
+![Inside the back accessible row of the Walton Hall lecture auditorium at CPI, nineteen-year-old Jordan Fuller slumps in acute cardiac distress in his matte-black S.S. Freedom power wheelchair clutching his sternum beside a dropped water bottle, while Mark drops to one knee to steady his shoulder, Aubrie Jean Kelly holds his hand in terror, Madison Scott wipes his brow, Zoë Wren Brooks urgently calls 911 dispatch, and Lauren and Hannah clear the lecture hall aisle behind them.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c003/p001/walton-hall-stemi-emergency.jpg)
 
 #### 9:32 AM — Friday, 9:32 AM (The Attack)
 
@@ -18875,6 +18893,8 @@ As Jordan watched his friends hurry down the hallway with their backpacks, wavin
 ### Part 2: The System Crash (The Breaking Point)
 
 **Date:** 2015-12-09 at 10:05 America/New_York
+
+![Inside Megan Brooks's parked sedan outside Walton Hall on a crisp December morning, twenty-seven-year-old Megan leans across to rest her forehead tenderly against nineteen-year-old Jordan Fuller's and locks both of her hands firmly around his hands—carefully protecting the red plush cardiac heart pillow buckled over his healing sternum—as she anchors him safely through his post-op sensory crash while his closed mPad rests in its matte-black cover on the console.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c008/p002/megan-grounding-jordan-parked-sedan.jpg)
 
 Outside **Walton Hall**, the crisp December air was alive with the mid-morning class change as **Megan** wheeled **Jordan** down the brick walkway to her parked sedan.
 
