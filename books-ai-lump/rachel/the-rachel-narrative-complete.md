@@ -28951,7 +28951,7 @@ RADFORD CONNECTOR
 and:
 
 ```
-TO MCCONNELL TRANSIT CTR via C-BURG
+TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN
 ```
 
 And gliding smoothly to a halt directly behind the thirty-foot *Radford Connector* came a sixty-foot low-floor articulated **Blue Ridge Transit (`BRT`)** coach manufactured by **Prairie Coachworks**, painted in crisp white, slate-blue, and green ***"Mountain Mist & River Ribbon"*** livery, its amber Luminator headsign reading:
@@ -28964,15 +28964,15 @@ And gliding smoothly to a halt directly behind the thirty-foot *Radford Connecto
 via BUSINESS 460 & PEPPER PLAZA
 ```
 
-Without even thinking about it, both the guy in the `Tilite Aero Z` (`Jordan`) and I turned our heads at the exact same forty-five-degree angle to watch the thirty-foot *Radford Connector* load Radford University-bound riders at the front of the curb while the sixty-foot *Prairie Coachworks* articulated coach kneeled its front air suspension and flipped out its low-floor wheelchair ramp with a crisp pneumatic hiss.
+Without even thinking about it, both the guy in the `Tilite Aero Z` (`Jordan`) and I turned our heads at the exact same forty-five-degree angle to watch the thirty-foot *Radford Connector* load riders bound for **Prices Fork**, **Belview**, **Centerville**, **Fairlawn**, and **Radford** at the front of the curb while the sixty-foot *Prairie Coachworks* articulated coach kneeled its front air suspension and flipped out its low-floor wheelchair ramp with a crisp pneumatic hiss.
 
 When I glanced back across the sidewalk, he was looking right at me—and both of us grinned at the exact same second.
 
-I lifted my gloved right hand off my push-rim in a warm salute. "Now *that* is how you run a multi-agency campus curb lineup," I said, nodding toward the two buses lined up along Commonwealth Mall. "An hourly thirty-foot *Radford Connector* heading over to Radford University's McConnell Transit Center, backed up by a sixty-foot *Prairie Coachworks* artic running down Business 460 to Christiansburg!"
+I lifted my gloved right hand off my push-rim in a warm salute. "Now *that* is how you run a multi-agency campus curb lineup," I said, nodding toward the two buses lined up along Commonwealth Mall. "An hourly thirty-foot *Radford Connector* heading out Stanger Street to Prices Fork Road, Peppers Ferry Road, and US-11 over to Radford University's McConnell Transit Center, backed up by a sixty-foot *Prairie Coachworks* artic running down Business 460 to Christiansburg!"
 
 His green eyes lit up. His fingers flew across the icon grid on his tablet screen, and a clear, Australian-accented synthesized voice rang out over the sidewalk:
 
-<aac>"You know your New River Valley buses! That Route 1 sixty-footer is our ride home to the Christiansburg Transit Center. Welcome to CPI, and have a great weekend at SAACURC!"</aac>
+<aac>"You know your New River Valley buses! The Radford Connector gives Prices Fork, Belview, Centerville, and Fairlawn their hourly local service, and that Route 1 sixty-footer behind it is our ride home to the Christiansburg Transit Center. Welcome to CPI, and have a great weekend at SAACURC!"</aac>
 
 Beside me, Rachel smiled warmly at him and his family. Reaching up to the strap of her messenger bag—where we had clipped fifty hand-painted wooden clothespins in our `Chesapeake Teal` and `Harbor Gold` school colors for Saturday's conference icebreakers—she unclipped a clothespin stamped with a golden Admiral’s anchor and **`HEY SAACURC! • VDU ADMIRALS RHA`** and stepped over to hand it to him.
 
@@ -29108,7 +29108,7 @@ By `1:45 PM`, the last gavel had fallen, the banners were rolled up into their t
 
 As we rolled out of **Kincaid Student Center** toward our waiting VDU van at **The Hotel at Poly**, I paused for a second at the **Commonwealth Mall** crosswalk beneath **The Keystone Bridge**.
 
-Pulling up to the curb right on its `:45` weekend pulse was a sixty-foot **Blue Ridge Transit** articulated bus in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery (`1 CBURG TRANS CTR`), followed by a thirty-foot **Radford Transit *Radford Connector*** bus (`TO MCCONNELL TRANSIT CTR via C-BURG`).
+Pulling up to the curb right on its `:45` weekend pulse was a sixty-foot **Blue Ridge Transit** articulated bus in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery (`1 CBURG TRANS CTR`), while up ahead a thirty-foot **Radford Transit *Radford Connector*** bus (`TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN`) signaled to turn right onto Stanger Street toward Prices Fork Road and Peppers Ferry Road.
 
 I thought briefly of the guy in the `Tilite Aero Z` (`Jordan`) and his tight-knit off-campus family whom we had met in passing at that exact curb on Friday afternoon—probably enjoying a quiet Sunday afternoon down in Christiansburg right now—and smiled to myself. It was always cool knowing that even hundreds of miles away from Norfolk, there were other crews out there who built their lives around loyalty, public transit, and never leaving their people behind.
 

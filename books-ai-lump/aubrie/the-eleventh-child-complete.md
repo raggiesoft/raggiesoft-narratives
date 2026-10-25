@@ -4165,7 +4165,7 @@ At 07:50 AM—five minutes late, blowing the :45 pulse transfer window for the e
 
 When the folding front doors hissed open, a sea of **Forger Maroon** sweatshirts, freshman orientation lanyards, and overstuffed backpacks poured out onto the brick island in the middle of Radford University's campus—sixty-four CPI freshmen tumbling off the two thirty-foot buses and immediately looking around in confusion for a bus to Blacksburg.
 
-"And here comes the second half of the trap," Walter said quietly, pointing toward the empty Bay 1 stall signed **RADFORD CONNECTOR — TO CHRISTIANSBURG & CPI**. "Because our local city routes run every *thirty* minutes at :15 and :45, while the ***Radford Connector*** up to CPI only runs once every *sixty* minutes at :15 past the hour, the *Radford Connector* only meets the local bus lineups here at McConnell Transit Center *every other trip*."
+"And here comes the second half of the trap," Walter said quietly, pointing toward the empty Bay 1 stall signed **RADFORD CONNECTOR — TO FAIRLAWN, PRICES FORK & CPI**. "Because our local city routes run every *thirty* minutes at :15 and :45, while the ***Radford Connector*** up to CPI only runs once every *sixty* minutes at :15 past the hour—heading out West Main Street across the New River Bridge onto US-11 through Fairlawn, up Peppers Ferry Road through Belview and Centerville, and across Prices Fork Road onto Stanger Street into Commonwealth Mall—the *Radford Connector* only meets the local bus lineups here at McConnell Transit Center *every other trip*."
 
 Out on the brick island, a tall CPI freshman in a maroon jacket stared at the printed timetable bolted to the Bay 1 signpost and groaned aloud to a cluster of twenty other CPI freshmen who had already been sitting on the brick wall since 07:15 AM.
 
@@ -4285,7 +4285,7 @@ Standing beside Bay 1 with **Gregory Donovan**—who had driven down from Blacks
 
 Seconds later, right on cue at 04:43 PM, a gleaming **forty-foot low-floor transit bus** painted in **Forger Maroon and Burnished Forge Gold** turned smoothly onto Fairfax Street and glided into Bay 1, its amber LED destination sign alternating cleanly between:
 
-<led>RADFORD CONNECTOR RELIEF / TO CPI via NRV MALL</led>
+<led>RADFORD CONNECTOR RELIEF / TO CPI via PRICES FORK</led>
 
 Right behind it on East Main Street, two fifty-six-passenger **forty-five-foot highway motorcoaches** with **CPI HOTEL EXPRESS — WEST MAIN & TYLER AVE** placards in their windshields rolled past on their fifteen-minute loop straight to the hotel porte-cochères, carrying returning CPI freshmen directly to their hotel lobby doors without a single one of them needing to board Radford Transit's thirty-foot Unit 104 on West Main Street.
 
@@ -8320,11 +8320,11 @@ Stepping back across the street to the Bluewater Transit Center to catch the twe
 
 The outbound **Bluewater Transit *Maroon Express*** glided into **Commonwealth Mall** in Blacksburg at two-fifteen in the afternoon, right on schedule.
 
-With the practiced choreography of seasoned regional commuters, the nine friends disembarked, crossed the concrete island to the **Radford Transit** bay, and boarded the waiting **Radford Connector** bus.
+With the practiced choreography of seasoned regional commuters, the nine friends disembarked along the **Commonwealth Mall** curb and boarded the waiting thirty-foot **Radford Transit *Radford Connector*** bus.
 
 <sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the group. Arrived at Commonwealth Mall. Boarding the Radford Connector now. ETA at McConnell Transit Center is 2:45 PM.</sms>
 
-The thirty-minute express run west to **Radford** was smooth and quiet, carrying them down out of the higher Blacksburg plateau to the **McConnell Transit Center** adjacent to the **Radford University** campus. From there, a quick ten-minute hop aboard the local **Wadsworth Street** route brought them to a quiet, tree-lined residential street where **Sarah Kristyn Braithwaite** had lived with her father since moving to Virginia from **Liverpool, New South Wales** in Greater Western Sydney during high school.
+Pulling away from **Commonwealth Mall**, the thirty-foot low-floor bus turned right onto **Stanger Street**, left onto **Prices Fork Road**, right onto **Peppers Ferry Road**, and left onto **U.S. Route 11** before crossing the **New River Bridge** into Radford and turning left onto **West Main Street** to terminate at the **McConnell Transit Center** adjacent to the **Radford University** campus. While the ***Radford Connector*** provided local service along its entire route—giving the communities of **Prices Fork**, **Belview**, **Centerville**, and **Fairlawn** their once-hourly bus service—the bus stops along the rural stretches of Prices Fork Road and Peppers Ferry Road were spaced far enough apart that the thirty-minute run down off the Blacksburg plateau felt as smooth and brisk as an express route. From McConnell Transit Center, a quick ten-minute hop aboard the local **Wadsworth Street** route brought them to a quiet, tree-lined residential street where **Sarah Kristyn Braithwaite** had lived with her father since moving to Virginia from **Liverpool, New South Wales** in Greater Western Sydney during high school.
 
 Leading her eight friends up the front steps of the modest, well-kept single-story brick home, Sarah knocked twice before turning the knob.
 
@@ -8404,9 +8404,9 @@ Tonight, however, pre-holiday highway traffic had other plans.
 
 The Radford Connector pulled into the bay five minutes late at five-fifty.
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] All 9 aboard the Radford Connector at McConnell. Running 5 minutes behind schedule due to US-11 holiday volume. Heading to Commonwealth Mall.</sms>
+<sms>[Jordan Comms — Zoë]: [LOGISTICS] All 9 aboard the Radford Connector at McConnell. Running 5 minutes behind schedule due to US-11 and Peppers Ferry Rd holiday volume. Heading to Commonwealth Mall.</sms>
 
-The thirty-minute climb east toward Blacksburg moved at a crawl through stop-and-go brake lights. By the time the bus finally hissed to a halt at **Commonwealth Mall**, the digital clock read six-thirty—just in time for the nine weary travelers to watch the red taillights of the six-fifteen Maroon Express vanish down University City Boulevard.
+The thirty-minute climb east from West Main Street across the New River Bridge through **Fairlawn**, **Centerville**, **Belview**, and **Prices Fork** onto **Stanger Street** moved at a crawl through stop-and-go holiday brake lights. By the time the bus finally hissed to a halt at **Commonwealth Mall**, the digital clock read six-thirty—just in time for the nine weary travelers to watch the red taillights of the six-fifteen Maroon Express vanish down the street.
 
 With a collective, good-natured groan, the group huddled together in their heavy winter coats on the heated bench inside the transit pavilion to wait for the next southbound connection to **Christiansburg Transit Center**: the six-forty-five **RVT Roanoke Express**, which also arrived five minutes late at six-fifty.
 
@@ -19506,7 +19506,7 @@ RADFORD CONNECTOR
 and:
 
 ```
-TO MCCONNELL TRANSIT CTR via C-BURG
+TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN
 ```
 
 And gliding smoothly into line right behind the thirty-foot *Radford Connector* came a sixty-foot low-floor articulated **Blue Ridge Transit (`BRT`)** coach manufactured by **Prairie Coachworks**, painted in crisp white, slate-blue, and green ***"Mountain Mist & River Ribbon"*** livery, its amber Luminator headsign reading:
@@ -19519,17 +19519,17 @@ And gliding smoothly into line right behind the thirty-foot *Radford Connector* 
 via BUSINESS 460 & PEPPER PLAZA
 ```
 
-Instantly, both Jordan (in his `Tilite Aero Z`) and the young man in the blue manual wheelchair (`Michael`) turned their heads at the exact same angle to admire the two transit buses lining up nose-to-tail along the unmarked Commonwealth Mall curb—watching the thirty-foot *Radford Connector* load Radford-bound commuters at the front while the sixty-foot *Prairie Coachworks* articulated coach kneeled its front suspension and deployed its flip-out wheelchair ramp with a smooth pneumatic hiss.
+Instantly, both Jordan (in his `Tilite Aero Z`) and the young man in the blue manual wheelchair (`Michael`) turned their heads at the exact same angle to admire the two transit buses lining up nose-to-tail along the unmarked Commonwealth Mall curb—watching the thirty-foot *Radford Connector* load riders bound for **Prices Fork**, **Belview**, **Centerville**, **Fairlawn**, and **Radford** at the front while the sixty-foot *Prairie Coachworks* articulated coach kneeled its front suspension and deployed its flip-out wheelchair ramp with a smooth pneumatic hiss.
 
 Realizing they had both just geeked out over the exact same bus lineup, Michael glanced across the sidewalk and caught Jordan’s eye.
 
 A slow, genuine grin spread across Michael’s face. He raised a gloved hand from his push-rim in a warm, knowing salute from one transit-loving guy on wheels to another.
 
-"Now *that* is how you run a multi-agency campus curb lineup," Michael said to Rachel and Jordan with a grin, nodding toward the sixty-foot **Blue Ridge Transit Route 1** articulated coach waiting behind the thirty-foot **Radford Transit *Radford Connector***. "An hourly thirty-foot *Radford Connector* heading over to Radford University's McConnell Transit Center, backed up by a sixty-foot *Prairie Coachworks* artic running down Business 460 to Christiansburg!"
+"Now *that* is how you run a multi-agency campus curb lineup," Michael said to Rachel and Jordan with a grin, nodding toward the sixty-foot **Blue Ridge Transit Route 1** articulated coach waiting behind the thirty-foot **Radford Transit *Radford Connector***. "An hourly thirty-foot *Radford Connector* heading out Stanger Street to Prices Fork Road, Peppers Ferry Road, and US-11 over to Radford University's McConnell Transit Center, backed up by a sixty-foot *Prairie Coachworks* artic running down Business 460 to Christiansburg!"
 
 Jordan’s green eyes lit up with instant delight. He tapped his `mPad` on his lap tray, letting his Australian-accented `Proloquo2Go` voice ring out warmly in the crisp February air:
 
-<aac>"You know your New River Valley buses! That Route 1 sixty-footer is our ride home to the Christiansburg Transit Center. Welcome to CPI, and have a great weekend at SAACURC!"</aac>
+<aac>"You know your New River Valley buses! The Radford Connector gives Prices Fork, Belview, Centerville, and Fairlawn their hourly local service, and that Route 1 sixty-footer behind it is our ride home to the Christiansburg Transit Center. Welcome to CPI, and have a great weekend at SAACURC!"</aac>
 
 Beside Michael, Rachel smiled warmly at Jordan, Aubrie Jean, and the whole family. Unclipping a hand-painted **`Chesapeake Teal` and `Harbor Gold`** wooden clothespin stamped with a tiny golden Admiral’s anchor and the words **`HEY SAACURC! • VDU ADMIRALS RHA`** from her bag strap, she stepped over and offered it to Jordan with a shy, friendly smile.
 
@@ -19545,7 +19545,7 @@ Thread 1 (Self) & Thread 3 (Jordan.OS)
 Event: Brief Transit-Curb Encounter with Visiting VDU SAACURC Delegates (Michael & Rachel).
 Analysis:
 - Location: Commonwealth Mall Curbside Lineup (Beneath The Keystone Bridge across from Kincaid Hall).
-- Active Transit Units: Radford Transit Unit 104 (30-ft Low-Floor "Radford Connector" -> McConnell Transit Center via Christiansburg) & Blue Ridge Transit Route 1 (60-ft Prairie Coachworks Articulated Coach -> Christiansburg Transit Center via Business 460 & Pepper Plaza).
+- Active Transit Units: Radford Transit Unit 104 (30-ft Low-Floor "Radford Connector" -> Right onto Stanger St, Left onto Prices Fork Rd, Right onto Peppers Ferry Rd, Left onto US-11, across New River Bridge, Left onto West Main St to McConnell Transit Center) & Blue Ridge Transit Route 1 (60-ft Prairie Coachworks Articulated Coach -> Christiansburg Transit Center via Business 460 & Pepper Plaza).
 - Observation: Visiting VDU RHA Director of Operations (temporary post-surgical manual wheelchair user) and VDU RHA Secretary exhibit 100% co-regulatory synchronization identical in structure to Jordan & Aubrie Jean.
 Decision: Board 16:30 Blue Ridge Transit Route 1 articulated coach to Christiansburg Transit Center. 02-12-2016 16:28:19
 ```
