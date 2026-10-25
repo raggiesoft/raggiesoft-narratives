@@ -29,5 +29,5 @@ The absolute peak of The Crucible's intimidation tactics occurs exactly as the C
 *   **The Seismic Event (The Stomp):** Over the decades, the student body evolved the tradition. When the heavy industrial riff kicks in, 60,000 Ironheads synchronize their movements. For every massive *TING* of the anvil in the track, the crowd executes a simultaneous, thunderous *STOMP* on the concrete bleachers. This acoustic shockwave is so massive it routinely registers on local geological seismographs.
 
 To perfectly merge the lore of CPI with real-world digital distribution, *Ignition* was immortalized on a live record.
-*   **Live at The Crucible:** In 2016, to celebrate the 30th anniversary of the song's selection, The Stardust Engine returned to CPI to record *Live at The Crucible*. 
+*   **Live at the Crucible:** In 2016, to celebrate the 30th anniversary of the song's selection, The Stardust Engine returned to CPI to record *Live at the Crucible*. 
 *   **The Master Tapes:** The live performance—featuring Ryan O'Connell's gravelly intro, the deafening crowd roar, and the seismic stomping—was captured for digital distribution via Engine Room Records, ensuring the terror of The Crucible is accessible on global streaming platforms.

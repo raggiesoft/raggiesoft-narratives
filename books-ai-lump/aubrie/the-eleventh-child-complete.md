@@ -19580,7 +19580,7 @@ Date: 02-16-2016
 Time: 19:03:14
 Thread 1 (Self)
 Priority: CRITICAL
-Event: The Stardust Engine — "Live at The Crucible" CPI Student Presale Logistics.
+Event: The Stardust Engine — "Live at the Crucible" CPI Student Presale Logistics.
 Hypothesis: With 30,000+ CPI students competing for the Friday 02-19-2016 10:00:00 EST presale window, uncoordinated checkout attempts will result in fragmented seating or ADA bay exhaustion.
 Analysis:
 - Total Family Headcount: 16 attendees:
@@ -19651,7 +19651,7 @@ Aubrie Jean and Megan both leaned down and kissed either side of his cheeks at t
 
 **Date:** 2016-02-24 14:30
 
-On Monday, February 22, 2016, at `10:00 AM`, the remaining general-public allocation for **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**'s *Live at The Crucible* went on sale at a flat `$45.00` per ticket and sold out all sixty-five thousand seats in less than four minutes.
+On Monday, February 22, 2016, at `10:00 AM`, the remaining general-public allocation for **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**'s *Live at the Crucible* went on sale at a flat `$45.00` per ticket and sold out all sixty-five thousand seats in less than four minutes.
 
 Predictably, the commercial ticket-broker industry lost its collective mind. Because **Engine Room Records** had locked every digital ticket barcode to the original purchaser's cryptographic token and banned above-face-value resale—routing all returned tickets through an automated face-value-only fan exchange—scalpers and secondary-market executives flooded the regional newspapers and sports-talk radio stations with furious op-eds complaining that the band was "leaving millions of dollars on the table" and "shutting out premium hospitality buyers" by giving thirty thousand `$15.00` field and lower-bowl seats to CPI undergraduates.
 
@@ -19734,7 +19734,7 @@ Aubrie Jean leaned over his shoulder, resting her cheek against his temple as Ma
 
 "May twenty-first," Aubrie Jean whispered softly against his ear. "First Isabel walks across the stage in her cap and gown... and then we bring our whole family right back through Gate 1 together."
 
-## Live at The Crucible & Senior Commencement
+## Live at the Crucible & Senior Commencement
 
 ### Part 1: The Crucible Shuttle, Forger Tailgate, & Ignition
 
@@ -19775,7 +19775,7 @@ Instead, the tree-lined plazas around **The Crucible** felt like a massive, joyf
 At the entrance to the Gate 1 accessible tunnel, large A-frame placards bore the silver emblem of **Engine Room Records**:
 
 > **NOTICE OF FILMING AND LIVE AUDIO RECORDING**<br>
-> Tonight's performance by **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** at **The Crucible** is being recorded on 96kHz/24-bit multitrack audio and 4K cinema cameras for the upcoming live album and concert film, ***Live at The Crucible***. By entering these premises, you consent to be part of Blacksburg music history.
+> Tonight's performance by **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** at **The Crucible** is being recorded on 96kHz/24-bit multitrack audio and 4K cinema cameras for the upcoming live album and concert film, ***Live at the Crucible***. By entering these premises, you consent to be part of Blacksburg music history.
 
 As the sixteen of them passed through the accessible security lane—where the ushers handed every person an addressable LED wristband synchronized to the stage lighting console—they rolled down the wide, cool concrete ramp of the field-level tunnel.
 
@@ -19958,7 +19958,7 @@ As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided d
 
 "Next stop," Mark said softly over the gentle hum of the hybrid-electric drivetrain, "July first move-in at the U.S. 11 compound. And then July sixteenth... the Double Wedding, and a quick trip across the street to the Montgomery County Courthouse."
 
-Jordan looked down at his `Poly Pass` lanyard resting against his commemorative *Live at The Crucible* ticket stub—one of the last big nights he would ever wear the name `Jordan Fuller`—and squeezed Aubrie Jean’s hand with a full, peaceful smile.
+Jordan looked down at his `Poly Pass` lanyard resting against his commemorative *Live at the Crucible* ticket stub—one of the last big nights he would ever wear the name `Jordan Fuller`—and squeezed Aubrie Jean’s hand with a full, peaceful smile.
 
 # Summer 2016
 

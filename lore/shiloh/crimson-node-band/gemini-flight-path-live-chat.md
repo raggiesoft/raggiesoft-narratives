@@ -571,7 +571,7 @@ To capture that exact 1980s progressive arena pop energy in Suno v6, we need to 
 Here is the v6-optimized prompt, locked into your strict metadata formatting:
 
 Title
-Electric Color: Live at The Crucible
+Electric Color: Live at the Crucible
 
 Style Tags
 1980s progressive arena pop, massive stadium acoustics, live concert recording, heavy gated reverb snare, sweeping analog synths, collegiate marching band brass, deafening crowd roar
