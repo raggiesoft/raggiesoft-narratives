@@ -18,7 +18,7 @@
    - When the Brooks family relocated from Osaka to Christiansburg, Virginia, Zoë took the official **VDOE World Language Credit-by-Exam proficiency assessment** in Japanese, scored at the maximum threshold, and **tested out of high school foreign language completely**.
 3. **Lauren Nicole Barnes — Tested Out of High School Foreign Language (Fluent in Québécois French):**
    - Having spent significant time in Québec (`e003/c001/s010.md`), Lauren possesses rapid, native-level fluency in **Québécois French** and **tested out of standard high school French classes** by proficiency exam back home in Gander, Newfoundland.
-4. **Aubrie Kelly, Madison Scott, Hannah Parker, Mark Anderson, Sarah Braithwaite, & Jessica Gallagher:**
+4. **Aubrie Kelly, Madison Scott, Hannah Morales, Mark Cooper, Sarah Braithwaite, & Jessica Gallagher:**
    - All six completed traditional high school foreign language classes (standard high school Spanish or French) before arriving at CPI, and had never studied Japanese prior to Sophomore Year.
 
 ### B. The Inspiration on the *Ferry Hoshizora* (`Summer 2015 World Trek — Leg 4`) & Academic Honesty Rule

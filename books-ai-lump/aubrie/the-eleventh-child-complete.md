@@ -9898,7 +9898,7 @@ Sitting in his wheelchair, Jordan looked up at her wet eyelashes with pure, earn
 
 Because Jordan was looking down at his keyboard as he typed, **he completely missed the silent exchange that happened ten feet away behind the curved oak front desk**.
 
-Standing just behind Jordan’s right shoulder, however, **Mark Anderson** saw the whole thing.
+Standing just behind Jordan’s right shoulder, however, **Mark Cooper** saw the whole thing.
 
 Mark had always been the quiet observer of the group when it came to reading body language across a room. He had noticed how closely and how long Isabel had held onto Jordan, he had seen the tears glistening on her lashes and the scarlet blush rushing into her cheeks—and when Isabel glanced nervously back toward the front desk to retrieve her clipboard, Mark’s sharp eyes caught **Residence Director Kelsey Brennan** looking right at her.
 
@@ -10409,7 +10409,7 @@ Jordan tapped his tablet key:
 
 Daniel smiled at the word—he always did, a quiet crinkle at the corners of his eyes—and read down the first column.
 
-"Group One: The Core Nine of Bennett Hall," Daniel said. "Jordan Fuller. Aubrie Jean Kelly. Madison Elizabeth Scott. Zoë Wren Brooks. Lauren Nicole Barnes. Hannah Ashlee Parker. Mark Anderson. Sarah Kristyn Braithwaite. And Jessica Gallagher."
+"Group One: The Core Nine of Bennett Hall," Daniel said. "Jordan Fuller. Aubrie Jean Kelly. Madison Elizabeth Scott. Zoë Wren Brooks. Lauren Nicole Barnes. Hannah Ashlee Morales. Mark Cooper. Sarah Kristyn Braithwaite. And Jessica Gallagher."
 
 Sarah let out a quiet, breathless laugh from her chair, her fingers lacing with Jessica's as Mark grinned beside Hannah.
 
@@ -11232,7 +11232,7 @@ The first Monday of March arrived with crisp mountain sunshine across **Commonwe
 At two-forty-five that afternoon, as **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** walked and rolled across the lower residential quad from **Kepler Hall** toward the **first-floor inner quad entrance** of **Bennett Hall**, Jordan's phone chimed with an urgent campus email alert from Hall Director **Kelsey Brennan**:
 
 > **From:** Kelsey Brennan, Residence Director (Eleanor Bennett Commonwealth Hall)<br>
-> **To:** Jordan Fuller, Mark Anderson, Zoë Brooks<br>
+> **To:** Jordan Fuller, Mark Cooper, Zoë Brooks<br>
 > **Date:** Monday, March 2, 2015 — 14:45 EST<br>
 > **Subject:** URGENT — Come to 1st-Floor Office via Inner Quad Doors (Room 104)
 >
@@ -11335,7 +11335,7 @@ At nine-fifteen on Saturday morning, March seventh—the official start of Commo
 Suddenly, **Mark’s** phone buzzed with a text from sixteen-year-old **Owen Brooks**, who was running a perimeter check down in Christiansburg with **Daniel** and **Caleb**:
 
 > **From:** Owen Brooks<br>
-> **To:** Mark Anderson, Zoë Brooks<br>
+> **To:** Mark Cooper, Zoë Brooks<br>
 > **Time:** 9:18 AM
 >
 > *Heads up — Dad, Caleb, and I just spotted that tan rental sedan with Tidewater plates parked across North Franklin Street near Strickland Farms, watching the turnoff toward Geneva Street. The PI knows CPI just let out for Spring Break and he's waiting to see if you guys bring Jordan back to the Christiansburg house today.*
@@ -15092,7 +15092,7 @@ Aubrie Sinclair physically recoiled against the back of her chair.
 
 Without slowing a fraction of an inch, Jordan swung his power chair smoothly through the wooden bar gate and parked beside **Ms. Gable** at the respondent's table, while **Ms. Caldwell** took her seat as Guardian ad Litem at the adjacent court officer's desk.
 
-Directly behind Jordan, filing into the front two wooden pews of the public gallery, came **The Phalanx**—every non-testifying member of his found family: **Laura Brooks**, **Aubrie Jean Kelly**, **Zoë Wren Brooks**, **Madison Scott**, **Lauren Barnes**, **Sarah Braithwaite**, **Hannah Parker**, **Mark Anderson**, and the **Brooks** siblings (**Megan**, **Caleb**, **Chloe**, **Rebecca**, **Lucas**, **Owen**, and **Jacob**). Down the corridor in the **Witness Waiting Room**, **Daniel Brooks**, **Jessica Gallagher**, **Ms. Higgins**, **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh** were already signed in with the bailiff, ready to be called to the stand.
+Directly behind Jordan, filing into the front two wooden pews of the public gallery, came **The Phalanx**—every non-testifying member of his found family: **Laura Brooks**, **Aubrie Jean Kelly**, **Zoë Wren Brooks**, **Madison Scott**, **Lauren Barnes**, **Sarah Braithwaite**, **Hannah Morales**, **Mark Cooper**, and the **Brooks** siblings (**Megan**, **Caleb**, **Chloe**, **Rebecca**, **Lucas**, **Owen**, and **Jacob**). Down the corridor in the **Witness Waiting Room**, **Daniel Brooks**, **Jessica Gallagher**, **Ms. Higgins**, **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh** were already signed in with the bailiff, ready to be called to the stand.
 
 In the front row of the gallery right behind Jordan's wheelchair, **Zoë** adjusted her glasses, her internal runtime console quietly logging the room's geometry:
 
@@ -19611,34 +19611,34 @@ As the bus pulled away from the **Commonwealth Mall** curb behind the departing 
 
 **Date:** 2016-02-19 10:00
 
-On the evening of Tuesday, February 16, 2016—just three days after the `SAACURC` conference at `Kincaid Student Center`—the living room of `414 Geneva Street` was warm and quiet. Outside, a cold February drizzle pattered against the front porch windows, while inside, **Jordan** sat in his `Tilite Aero Z` beside **Aubrie Jean** and **Madison** at the dining table, reviewing his Sophomore Spring astrophysics problem set alongside **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, **Megan**, **Mark**, and **Hannah**.
+On the evening of Tuesday, February 16, 2016—just two days after the `SAACURC` conference wrapped up at `Kincaid Student Center`—the walk-out basement of `414 Geneva Street` was warm and quiet. Outside, a cold February drizzle pattered against the windows, while inside, **Jordan** sat in his `Vanguard Pro` manual wheelchair beside **Aubrie Jean** and **Madison** at the dining table, reviewing his Sophomore Spring astrophysics problem set alongside **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, **Megan**, **Mark**, and **Hannah**.
 
 At `19:00` on the dot, every phone and `mPad` in the room chimed in rapid-fire succession.
 
-Across the coffee table, Mark’s phone buzzed first. Then Zoë’s `mPad` lit up with a priority push alert. Then Jordan’s `mPad` chimed on his lap tray.
+Across the coffee table, Mark’s phone buzzed first. Then Zoë’s `mPad` lit up with a priority push alert. Then Jordan’s `mPad` chimed on his lap tray as he refreshed his favorite daily bookmark: **[`thestardustengine.com`](https://stardust.raggiesoft.com)**.
 
-"Whoa," Mark breathed, sitting bolt upright on the sofa beside Hannah as his eyes scanned the screen. "Uh, guys? Check your `engine-room.org` and CPI Student Activities feeds right now."
+"Whoa," Mark breathed, sitting bolt upright on the sofa beside Hannah as his eyes scanned the screen. "Uh, guys? Check **[`thestardustengine.com`](https://stardust.raggiesoft.com)**, **[`engineroom-records.com`](https://engineroom.raggiesoft.com)**, and your CPI Student Activities feeds right now."
 
-Jordan tapped the notification banner on his `mPad`. The screen dissolved into a striking graphic of deep space nebulae framed by the floodlit limestone towers of **The Crucible**—the iconic sixty-five-thousand-seat Commonwealth Polytechnic Institute stadium where **Ryan O'Connell**, **Cassidy O'Connell**, **Evan Wright**, **Tyler Wright**, and **Holly O'Connell** (CPI Class of `'89`) had watched Saturday night football as undergraduates thirty years ago, and the inspiration for [**"Saturday Night Lights: The Crucible"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-06-saturday-night-lights-the-crucible) on their 2004 album [***Progress Street***](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street):
+Jordan tapped the notification banner on his `mPad`. The homepage of **[`thestardustengine.com`](https://stardust.raggiesoft.com)** dissolved into a striking graphic of deep space nebulae framed by the floodlit limestone towers of **The Crucible**—the iconic sixty-five-thousand-seat Commonwealth Polytechnic Institute stadium where **Ryan O'Connell**, **Cassidy O'Connell**, **Evan Wright**, **Tyler Wright**, and **Holly O'Connell** (CPI Class of `'89`) had watched Saturday night football as undergraduates thirty years ago, and the inspiration for [**"Saturday Night Lights: The Crucible"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-06-saturday-night-lights-the-crucible) on their 2004 album [***Progress Street***](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street):
 
 > **ENGINE ROOM RECORDS & CPI STUDENT ACTIVITIES PRESENT:**<br>
 > **[THE STARDUST ENGINE](https://music.raggiesoft.com/artists/the-stardust-engine) — *LIVE AT THE CRUCIBLE***<br>
 > **30TH ANNIVERSARY HOMECOMING CONCERT & LIVE ALBUM RECORDING**<br>
 > **Date:** Saturday, May 21, 2016 (Post-Commencement Weekend)<br>
 > **Venue:** The Crucible, Commonwealth Polytechnic Institute — Blacksburg, Virginia<br>
-> **CPI Student Presale:** Friday, February 19, 2016 at 10:00 AM EST (`tickets.engine-room.org`)<br>
-> **Student Ticket Price:** `$15.00` (Zero Junk Fees • Direct-to-Fan Engine Room Ticketing • Limit 4 per Valid CPI Student ID)<br>
-> **Public Onsale:** Monday, February 22, 2016 at 10:00 AM EST (`$45.00` Flat Rate)
+> **CPI Student & Alumni Presale:** Friday, February 19, 2016 at 10:00 AM EST (via the **CPI Campus Events Portal** • Valid CPI `Poly Pass` Required)<br>
+> **Student Ticket Price:** `$15.00` (Zero Junk Fees • Non-Transferable `Poly Pass` Entry • Limit 4 per Valid CPI Student ID)<br>
+> **General Public Onsale:** Monday, February 22, 2016 at 10:00 AM EST via **TicketSphere** (`$45.00` Flat Rate • Anti-Scalper ID Lock Enforced)
 
-For three full seconds, the living room of `414 Geneva Street` went dead silent.
+For three full seconds, the basement of `414 Geneva Street` went dead silent.
 
-Then Jordan’s fingers flew across his `Proloquo2Go` grid at blinding speed, his green eyes wide and shining as the synthesized voice rang out across the room:
+Then Jordan’s fingers flew across his `NeoEdit` keyboard on his `mPad` at blinding speed, his green eyes wide and shining as `EchoType`’s clear Australian voice rang out across the room:
 
-<aac>"THE STARDUST ENGINE IS PLAYING THE CRUCIBLE?! RIGHT HERE AT CPI?! ON SATURDAY MAY TWENTY FIRST?! right after Isabel graduates?! Fifteen dollars a ticket?! CAN WE GO?! PLEASE TELL ME WE ARE GOING!"</aac>
+<aac>"THE STARDUST ENGINE IS PLAYING THE CRUCIBLE?! RIGHT HERE AT CPI?! ON SATURDAY MAY TWENTY FIRST?! Right after Isabel graduates?! Fifteen dollars a ticket?! CAN WE GO?! PLEASE TELL ME WE ARE GOING!"</aac>
 
 "Fifteen bucks?!" Lauren gasped, staring at her phone screen in disbelief. "For a stadium show by **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**?! And zero service fees?!"
 
-"That's **Holly O'Connell** and **Engine Room Records**' direct-to-fan ticketing architecture," Zoë said, her fingers already flying across her `ThinkPad` keyboard as she pulled up the stadium seating map and ADA allocation manifest for The Crucible. "Since 1995, **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** has boycotted corporate ticketing monopolies and dynamic pricing. Every ticket is sold straight through `tickets.engine-room.org`, linked directly to CPI's `Poly Pass` student verification API. Look at the date, too—Saturday, May 21, 2016. That's the Saturday immediately following CPI Spring Commencement, after Dorm Move-Out is complete, so the band can load four hundred tons of sound and lighting rigging onto the turf without disrupting finals week."
+"Look at the presale architecture **Holly O'Connell** and **Engine Room Records** forced into the stadium contract," Zoë said, her fingers already flying across her `Pinnacle Vanguard Pro` keyboard as she pulled up the announcement on **[`engineroom-records.com`](https://engineroom.raggiesoft.com)** alongside the CPI Campus Events Portal seating map and ADA allocation manifest for The Crucible. "Neither `thestardustengine.com` nor `engineroom-records.com` sells tickets directly—instead, Holly required CPI to run the entire thirty-thousand-seat Student Presale in-house through the **CPI Campus Events Portal** tied directly to CPI's `Poly Pass` student verification system, and forced **TicketSphere** to sign an ironclad anti-scalper addendum locking every general-public ticket to the buyer's government ID with zero dynamic pricing. Look at the date, too—Saturday, May 21, 2016. That's the Saturday immediately following CPI Spring Commencement, after Dorm Move-Out is complete, so the band can load four hundred tons of sound and lighting rigging onto the turf without disrupting finals week."
 
 ```
 ZOË.Systems.Logs.SystemSchedulerLog:
@@ -19647,59 +19647,61 @@ Time: 19:03:14
 Thread 1 (Self)
 Priority: CRITICAL
 Event: The Stardust Engine — "Live at the Crucible" CPI Student Presale Logistics.
-Hypothesis: With 30,000+ CPI students competing for the Friday 02-19-2016 10:00:00 EST presale window, uncoordinated checkout attempts will result in fragmented seating or ADA bay exhaustion.
+Hypothesis: With 30,000+ CPI students competing for the Friday 02-19-2016 10:00:00 EST presale window on the CPI Campus Events Portal, uncoordinated checkout attempts will result in fragmented seating or ADA bay exhaustion.
 Analysis:
 - Total Family Headcount: 16 attendees:
-  - Core Household & Pact (11): Jordan Fuller, Aubrie Jean Kelly, Madison Evans, Zoë Wren Brooks, Lauren Peralta, Sarah Jenkins, Jessica Gallagher, Isabel Dawson, Megan Brooks (CPI Alumna Class of '15), Mark Anderson, Hannah Peralta.
+  - Core Household & Pact (11): Jordan Fuller, Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Lauren Barnes, Sarah Braithwaite, Jessica Gallagher, Isabel Dawson, Megan Brooks (CPI Alumna Class of '15), Mark Cooper, Hannah Morales.
   - Brooks Parents (2): Daniel Brooks & Laura Brooks (who introduced Jordan to "Electric Color" on vinyl in January 2015).
-  - Dawson Family Cohort (3): Elana Dawson, Stephen, & Stella (18-month-old toddler requiring stroller/family accessible bay adjacency).
+  - Dawson Family Cohort (3): Elana Dawson, Stephen Dawson, & Stella (Service Miniature Horse requiring accessible bay adjacency).
 - Purchase Limit Constraint: Maximum 4 tickets per active CPI Student ID (`Poly Pass`).
 - Required Active Student IDs: 16 tickets / 4 = 4 active CPI Student IDs executing simultaneous synchronized checkouts at 10:00:00.000 EST.
-- Target Seating Sector: Accessible Field-Level Section 104, Row A (Direct elevator & zero-step field tunnel access, zero-obstruction sightlines for Jordan's Tilite Aero Z, plus contiguous companion seating for all 16 family members).
+- Target Seating Sector: Accessible Field-Level Section 104, Row A (Direct elevator & zero-step field tunnel access, zero-obstruction sightlines for wheelchairs, plus contiguous companion seating for all 16 family members).
 Decision: Partition the 16-person manifest into 4 synchronized 4-ticket cells (Alpha, Beta, Gamma, Delta) anchored to 4 active CPI Student IDs.
-Execute: Convene Daniel and Laura on speakerphone and brief all 4 cell leads. 02-16-2016 19:03:14
+Execute: Summon Daniel and Laura downstairs and brief all 4 cell leads. 02-16-2016 19:03:14
 ```
 
-"Wait a second," Mark said, grinning from ear to ear as he reached for his phone to dial Daniel and Laura in Bluefield. "My dad and mom are going to lose their minds. Dad literally bought [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) at a record shop in Blacksburg in 1987!"
+"Wait a second," Zoë grinned, glancing toward the basement stairs. "Mom and Dad are upstairs in the kitchen—and Dad literally bought [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) at a record shop in Blacksburg in 1987!"
 
-He put the call on speakerphone. Before Daniel could even finish saying *"Hello?"*, Jordan tapped his `mPad` right next to the microphone:
+Before Zoë could even call up the stairs, rapid footsteps sounded on the hardwood steps and **Daniel** and **Laura Brooks** appeared at the bottom of the staircase, Daniel holding up his phone with a huge, boyish grin.
+
+"Did you guys see the alert from the CPI Alumni Association and **[`thestardustengine.com`](https://stardust.raggiesoft.com)**?!" Daniel exclaimed.
+
+Jordan tapped `Speak` on his `mPad`, beaming up at them:
 
 <aac>"Daniel! Laura! The Stardust Engine is playing The Crucible on May twenty first! And CPI students can buy up to four tickets per Student ID on Friday morning! You two HAVE to come with us!"</aac>
 
-Over the speakerphone, Daniel let out a boyish shout that made Laura laugh out loud in the background.
+"Are you kidding me, Jordan?!" Daniel laughed, clapping Jordan warmly on the shoulder while Laura hugged Aubrie Jean. "Of course we're in! Whatever it costs, put Laura and me down!"
 
-*"Are you kidding me, Jordan?!"* Daniel exclaimed. *"Laura and I just saw the email from the Alumni Association ten seconds ago! Of course we're in! Whatever it costs, put Laura and me down!"*
-
-"I have already architected the four-cell checkout matrix, Dad," Zoë announced briskly, rotating her `ThinkPad` so everyone around the dining table could see the color-coded spreadsheet. "With you and Mom, plus Elana, Stephen, and Stella joining Isabel and the eleven of us, our total party size is exactly **sixteen people**. Because the presale limit is strictly four tickets per active CPI `Poly Pass`—and because Megan graduated in December 2015 and is now on an alumna ID—we need four active Spring 2016 students to execute four synchronized four-ticket checkouts at `10:00:00 AM` on Friday in **Accessible Field-Level Section 104, Row A**:"
+"I have already architected the four-cell checkout matrix, Dad," Zoë announced briskly, rotating her `Pinnacle Vanguard Pro` so everyone around the dining table could see the color-coded spreadsheet. "With you and Mom, plus Elana, Stephen, and Stella joining Isabel and the eleven of us, our total party size is exactly **sixteen people**. Because the presale limit on the CPI Campus Events Portal is strictly four tickets per active CPI `Poly Pass`—and because Megan graduated in December 2015 and is now on an alumna ID—we need four active Spring 2016 students to execute four synchronized four-ticket checkouts at `10:00:00 AM` on Friday in **Accessible Field-Level Section 104, Row A**:"
 
 * **Cell Alpha (`Jordan Fuller` — CPI `Poly Pass` #1)**: `4 Tickets` (`1` Wheelchair Space + `3` Companion Seats) for **Jordan**, **Aubrie Jean**, **Madison**, and **Megan** (registered as Jordan's Alumna guest).
-* **Cell Beta (`Mark Anderson` — CPI `Poly Pass` #2)**: `4 Tickets` in the immediately adjacent block of Section 104, Row A for **Mark**, **Hannah**, **Daniel Brooks**, and **Laura Brooks**.
+* **Cell Beta (`Mark Cooper` — CPI `Poly Pass` #2)**: `4 Tickets` in the immediately adjacent block of Section 104, Row A for **Mark**, **Hannah**, **Daniel Brooks**, and **Laura Brooks**.
 * **Cell Gamma (`Zoë Wren Brooks` — CPI `Poly Pass` #3)**: `4 Tickets` in the next four contiguous seats of Section 104, Row A for **Zoë**, **Lauren**, **Sarah**, and **Jessica Gallagher**.
-* **Cell Delta (`Isabel Dawson` — CPI `Poly Pass` #4)**: `4 Tickets` (`1` Accessible Family/Stroller Bay + `3` Companion Seats) on the outer aisle of Section 104, Row A for **Isabel**, **Elana**, **Stephen**, and **Stella**.
+* **Cell Delta (`Isabel Dawson` — CPI `Poly Pass` #4)**: `4 Tickets` (`2` Power Wheelchair Spaces + `1` Service Animal / Companion Bay + `1` Companion Seat) on the outer aisle of Section 104, Row A for **Isabel**, **Elana**, **Stephen**, and **Stella**.
 
 ---
 
-By `09:50 AM` on Friday, February 19, 2016, the four cell leads were positioned at their terminals.
+By `09:50 AM` on Friday, February 19, 2016, the four cell leads were positioned at their terminals logged into the **CPI Campus Events Portal**.
 
-Because Friday morning was a full class day at CPI, they were distributed across campus and town, linked together over a low-latency voice channel and an `NTP`-synchronized countdown clock that Zoë had coded on her screen:
-* **Jordan** (with **Aubrie Jean** and **Megan** standing right behind his chair) was logged in on his `mPad` and laptop in the quiet study alcove of the **Kincaid Student Center** (`290 College Ave.`).
+Because Friday morning was a full class day at CPI, they were distributed across campus, linked together over a low-latency voice channel and an `NTP`-synchronized countdown clock that Zoë had coded on her screen:
+* **Jordan** (with **Aubrie Jean** and **Megan** standing right behind his chair) was logged in on his `mPad` and `Pinnacle Vanguard Pro` in the quiet study alcove of **Kincaid Student Center** (`290 College Ave.`).
 * **Zoë** (with **Madison** and **Jessica** watching over her shoulder) was hardwired into a gigabit Ethernet port in the **Keystone Hall** computer science lab.
 * **Mark** (with **Hannah** and **Sarah** beside him) was hardwired into a workstation in the **McBryde Hall** engineering commons.
 * **Isabel** (with **Lauren** and **Elana** beside her) was logged in from the high-speed terminal at her `Allegheny Commons` desk.
 
-"Thirty seconds to `10:00:00`," Zoë’s voice came clearly through their earbuds. "Verify that your `Poly Pass` OAuth tokens are pre-authenticated and your payment methods are pre-loaded. Remember: Section 104, Row A, Seats 1 through 16. Do not refresh before `09:59:59.800`."
+"Thirty seconds to `10:00:00`," Zoë’s voice came clearly through their earbuds. "Verify that your `Poly Pass` sessions on the CPI Campus Events Portal are pre-authenticated and your payment methods are pre-loaded. Remember: Section 104, Row A, Seats 1 through 16. Do not refresh before `09:59:59.800`."
 
-Jordan’s heart thumped against his healed sternum—a steady, healthy `82 BPM` of pure anticipation. His right index finger hovered a millimeter above the screen.
+Jordan’s heart thumped against his healed sternum—a steady, healthy `82 BPM` of pure anticipation. His right index finger hovered a millimeter above the key.
 
 "Five," Zoë counted down. "Four. Three. Two. One. *Execute.*"
 
 At `10:00:00.000`, all four of them tapped **`SELECT SEATS`**.
 
-For a fraction of a second, the progress spinner rotated as thirty thousand CPI students hit the server cluster at once. Unlike commercial ticketing sites that crashed into endless virtual queues, Engine Room Records' lightweight Rust-and-Go ticketing engine resolved the cryptographically signed `Poly Pass` requests in less than four hundred milliseconds.
+For a fraction of a second, the progress spinner rotated as thirty thousand CPI students hit the university box-office cluster at once.
 
 On Jordan’s screen, `Section 104, Row A, Seats 1–4 (WC + 3 Companion)` turned solid green. His fingers flew across the confirmation prompt.
 
-"Cell Alpha locked!" Aubrie Jean cheered softly, squeezing Jordan’s shoulder as the receipt appeared on his screen: **`ORDER #ERR-2016-00412 • STUDENT ID: FULLER, JORDAN • 4x SECTION 104 ROW A (SEATS 1–4) • TOTAL: $60.00 ($15.00 x 4, $0.00 FEES)`**.
+"Cell Alpha locked!" Aubrie Jean cheered softly, squeezing Jordan’s shoulder as the receipt appeared on his screen: **`CPI CAMPUS EVENTS BOX OFFICE • ORDER #CPI-2016-00412 • STUDENT ID: FULLER, JORDAN • 4x SECTION 104 ROW A (SEATS 1–4) • TOTAL: $60.00 ($15.00 x 4, $0.00 FEES)`**.
 
 "Cell Gamma confirmed—Seats 9 through 12!" Zoë reported over the headset half a second later.
 
@@ -19717,13 +19719,13 @@ Aubrie Jean and Megan both leaned down and kissed either side of his cheeks at t
 
 **Date:** 2016-02-24 14:30
 
-On Monday, February 22, 2016, at `10:00 AM`, the remaining general-public allocation for **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**'s *Live at the Crucible* went on sale at a flat `$45.00` per ticket and sold out all sixty-five thousand seats in less than four minutes.
+On Monday, February 22, 2016, at `10:00 AM`, the remaining general-public allocation for **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**'s *Live at the Crucible* went on sale via **TicketSphere** at a flat `$45.00` per ticket and sold out all sixty-five thousand seats in less than four minutes.
 
-Predictably, the commercial ticket-broker industry lost its collective mind. Because **Engine Room Records** had locked every digital ticket barcode to the original purchaser's cryptographic token and banned above-face-value resale—routing all returned tickets through an automated face-value-only fan exchange—scalpers and secondary-market executives flooded the regional newspapers and sports-talk radio stations with furious op-eds complaining that the band was "leaving millions of dollars on the table" and "shutting out premium hospitality buyers" by giving thirty thousand `$15.00` field and lower-bowl seats to CPI undergraduates.
+Predictably, the commercial ticket-broker industry lost its collective mind. Because **Holly O'Connell** and **Engine Room Records** had forced **TicketSphere** to lock every digital ticket barcode to the original purchaser's ID token and banned above-face-value resale—routing all returned tickets through an automated face-value-only fan exchange—scalpers and secondary-market executives flooded the regional newspapers and sports-talk radio stations with furious op-eds complaining that the band was "leaving millions of dollars on the table" and "shutting out premium hospitality buyers" by giving thirty thousand `$15.00` field and lower-bowl seats to CPI undergraduates.
 
-That evening, a new dispatch appeared at the top of `engine-room.org` and on the front page of *The Collegiate Times*.
+That evening, a new dispatch appeared at the top of **[`thestardustengine.com`](https://stardust.raggiesoft.com)**, **[`engineroom-records.com`](https://engineroom.raggiesoft.com)**, and the front page of *The Collegiate Times*.
 
-At `414 Geneva Street`, **Jordan** sat in his `Tilite Aero Z` with **Aubrie Jean** curled against his side and **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Megan**, **Mark**, and **Hannah** gathered around the living room as Mark read the open letter aloud:
+At `414 Geneva Street`, **Jordan** sat in his `Vanguard Pro` wheelchair with **Aubrie Jean** curled against his side and **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Megan**, **Mark**, and **Hannah** gathered around the living room as Mark read the open letter aloud:
 
 > **AN OPEN LETTER TO BLACKSBURG & FORGER NATION**<br>
 > **From:** [The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine) (CPI Class of `'89`)<br>
@@ -19750,17 +19752,17 @@ Jordan stared down at the five signatures at the bottom of the screen. His throa
 
 On Wednesday afternoon, February 24, 2016, at `14:30`, the sun broke through the crisp mountain clouds as **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Isabel**, and **Mark** made the walk down Washington Street toward **Gate 1 of The Crucible** so the four `Poly Pass` cell leads could pick up all sixteen embossed souvenir tickets.
 
-Even from the outside plaza, standing at the base of the towering limestone stadium walls made Jordan’s fingers tighten slightly around the push-rims of his `Tilite Aero Z`. The last time he had been near Gate 1 was October 2014—the afternoon of the Homecoming football game against the `VDU Admirals`, when sixty-five thousand screaming voices and the stadium cannon had overloaded his auditory cortex before he even had his `Proloquo2Go` tablet or his noise-attenuating headphones.
+Even from the outside plaza, standing at the base of the towering limestone stadium walls made Jordan’s fingers tighten slightly around the armrest of his power wheelchair (*S.S. Freedom*). The last time he had been near Gate 1 was September 2014—the afternoon of the Homecoming football game against the `VDU Admirals`, when sixty-five thousand screaming voices and the stadium cannon had overloaded his auditory cortex.
 
-Right away, Aubrie Jean noticed the micro-tension in his shoulders. She reached down, brushed her knuckles gently across the back of his hand, and smiled warmly. "No cannon today, J-Bear. Just us, the sunshine, and sixteen gold-foil tickets."
+Right away, Aubrie Jean noticed the micro-tension in his shoulders. She reached down, brushed her knuckles gently across the back of his hand, and smiled warmly. "No cannon today, J. Just us, the sunshine, and sixteen gold-foil tickets."
 
 Jordan took a slow breath, felt his healed sternum rise and fall without a trace of pain, and nodded with a grateful smile.
 
 A cheerful line of CPI students snaked along the accessible brick ramp leading to the Gate 1 Box Office windows. As Jordan, Aubrie Jean, Madison, Zoë, Isabel, and Mark reached the front of the queue at Window 2, however, an older man in an expensive camel-hair overcoat at the adjacent Window 1 was loudly berating the student box-office clerk.
 
-"What do you mean you can't sell me four field-level passes if I pay cash right now?!" the man barked, slapping a platinum credit card against the stainless-steel counter tray. "I'm a Maroon Club donor! I offered five hundred dollars a seat on StubHub this morning and found out your system blocks transfers! Meanwhile you're handing out front-row field seats to kids for fifteen dollars?!"
+"What do you mean you can't sell me four field-level passes if I pay cash right now?!" the man barked, slapping a platinum credit card against the stainless-steel counter tray. "I'm a Maroon Club donor! I offered five hundred dollars a seat on TicketSphere this morning and found out your system blocks transfers! Meanwhile you're handing out front-row field seats to kids for fifteen dollars?!"
 
-He spun around, his eyes landing on Jordan in his wheelchair and the five students standing beside him as the Window 2 clerk slid four crisp white Engine Room Records envelopes under the glass.
+He spun around, his eyes landing on Jordan in his wheelchair and the five students standing beside him as the Window 2 clerk slid four crisp white CPI Box Office envelopes under the glass.
 
 "Look at this!" the man scoffed, gesturing rudely toward Jordan’s wheelchair bay reservation printed on the top manifest sheet. "Sixteen front-row seats in Section 104 Row A tied up for fifteen bucks apiece! Kid, I’ll give you two thousand dollars cash right now for four of those seats. You can sit up in the upper deck!"
 
@@ -19768,7 +19770,7 @@ For a split second, Mark’s jaw clenched and Madison took half a step forward, 
 
 He didn't flinch. He didn't shrink back into his chair the way he would have in August 2014.
 
-Instead, Jordan wheeled his `Tilite Aero Z` six inches forward until he was looking calmly up at the man. With steady, deliberate precision, Jordan tapped his `mPad` and turned the external speaker volume to `100%`:
+Instead, Jordan guided *S.S. Freedom* six inches forward until he was looking calmly up at the man. With steady, deliberate precision, Jordan typed on his `mPad` and tapped `Speak` at `100%` volume:
 
 <aac>"No thank you, sir. Those sixteen seats belong to my family. And The Stardust Engine didn't come back to Blacksburg to play for your wallet. They came back for us."</aac>
 
@@ -19811,7 +19813,7 @@ May 2016 arrived in Blacksburg in a burst of warm Appalachian sunshine, blooming
 Six days earlier, on Friday, May 13, 2016, the entire household had cheered until their voices were hoarse as **Isabel Dawson** walked across the CPI Spring Commencement stage in her maroon-and-orange regalia, officially graduating *cum laude* with her Bachelor of Science in Hospitality and Tourism Management. With her residence-hall duties in `Allegheny Commons` formally concluded and her full-time hospitality management position at the **Inn at CPI and Conference Center** beginning in June, the remaining boxes from `Apartment 101` had been moved permanently into `414 Geneva Street`—and would soon move with the whole family into the nearly completed U.S. 11 compound at the start of July.
 
 Now, on Saturday afternoon, May 21, 2016, at `15:00`, all sixteen members of their extended family stood on the sunny front lawn of `414 Geneva Street`, dressed in their concert best and wearing their commemorative gold-foil ticket stubs in clear lanyards around their necks:
-* **Jordan** sat in his `Tilite Aero Z` in a vintage-style `1987 Electric Color` tour T-shirt that **Daniel** and **Laura Brooks** had brought him from Bluefield, with his custom high-fidelity `Vibe-Filter` acoustic earpieces tucked securely into his ears and his over-ear defenders clipped to his push-handles just in case.
+* **Jordan** sat in his `Vanguard Pro` in a vintage-style `1987 Electric Color` tour T-shirt that **Daniel** and **Laura Brooks** had brought him from Bluefield, with his custom high-fidelity `Vibe-Filter` acoustic earpieces tucked securely into his ears and his over-ear defenders clipped to his push-handles just in case.
 * Around him stood all eight women of his constellation—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, and **Megan**—alongside **Mark**, **Hannah**, **Daniel**, **Laura**, **Elana**, **Stephen**, and eighteen-month-old **Stella**, who was sporting tiny baby-sized pink earmuffs and a miniature `FORGER NATION` jersey in her folding stroller.
 
 "Nobody is driving anywhere near Stadium Woods today," Mark said with a grin as the sixteen of them made the short one-block walk down the hill from `414 Geneva Street` to the **Christiansburg Transit Center**, where the Park & Ride lot had been transformed into a sea of maroon and orange. "Blue Ridge Transit suspends regular route numbers for Tier 1 stadium events and runs sixty-foot articulated shuttles straight from here at the Christiansburg Transit Center to the Crucible Bus Loop!"
@@ -19830,7 +19832,7 @@ The pneumatic doors hissed open, the front suspension kneeled to the curb, and t
 
 "Afternoon, folks!" the BRT operator beamed, tipping his cap to Jordan and Mark—both of whom were well-known regulars to almost every driver on the Christiansburg and Blacksburg routes. "All sixteen of you headed up to see **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**?"
 
-<aac>"Yes sir! Section 104, Row A! Thank you for the lift!"</aac> Jordan tapped on his `mPad` as he rolled smoothly up the ramp and locked his `Aero Z` into the forward securement bay right next to Stella’s folded stroller.
+<aac>"Yes sir! Section 104, Row A! Thank you for the lift!"</aac> Jordan tapped on his `mPad` as he rolled smoothly up the ramp and locked his `Vanguard Pro` into the forward securement bay right next to Stella’s folded stroller.
 
 As the sixty-foot articulated coach glided up U.S. Route 460 Business into Blacksburg and turned onto the dedicated transit-only lane leading into the **Crucible Bus Loop**, Jordan looked out the wide panoramic window. Along the side streets, private lawn lots were waving cardboard signs reading **`CONCERT PARKING $50 CASH ONLY — FULL`**, while frustrated out-of-town SUVs sat bumper-to-bumper in the heat. Meanwhile, their BRT shuttle breezed right past the traffic cones along the busway and dropped them off less than two hundred feet from the accessible west entrance of Gate 1.
 
@@ -19875,7 +19877,7 @@ Daniel leaned across Mark’s shoulder, his eyes glistening behind his glasses a
 
 As twilight deepened into a clear, indigo Appalachian night at `20:00`, every stadium floodlight inside **The Crucible** suddenly cut to black.
 
-Sixty-five thousand voices erupted into a deafening roar—softened by Jordan’s `Vibe-Filter` earpieces into a warm, thrilling ocean wave that vibrated right through the aluminum frame of his `Tilite Aero Z` without a trace of pain.
+Sixty-five thousand voices erupted into a deafening roar—softened by Jordan’s `Vibe-Filter` earpieces into a warm, thrilling ocean wave that vibrated right through the aluminum frame of his `Vanguard Pro` without a trace of pain.
 
 Across the pitch-black stadium bowl, all sixty-five thousand wrist-worn LED bands began to pulse in a slow, synchronous heartbeat of deep cosmic violet. On the 120-foot curved screen behind the stage, telemetry coordinates ticked upward like an Apollo launch console—counting up from `1986` to `2016` while the unmistakable, low-frequency analog synthesizer drone of [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine) rolled across the valley.
 
@@ -20018,7 +20020,7 @@ FORGERS SHUTTLE
 
 "Look at that dispatch headway, J!" Mark beamed, pointing out the staging queue as the transit supervisors waved their sixteen-person group straight onto the waiting articulated coach. "Sub-ninety-second bus loading for sixty-five thousand people, while the `$50` cash parking lots haven't even made it out of the first row yet!"
 
-<aac>"Best transit system in the Commonwealth,"</aac> Jordan tapped happily on his `mPad` as he rolled up the ramp and locked his `Tilite Aero Z` into the forward bay. <aac>"And the best night of Sophomore Year."</aac>
+<aac>"Best transit system in the Commonwealth,"</aac> Jordan tapped happily on his `mPad` as he rolled up the ramp and locked his `Vanguard Pro` into the forward bay. <aac>"And the best night of Sophomore Year."</aac>
 
 As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—Aubrie Jean sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while Mark leaned across the aisle toward Hannah and Jordan with a quiet, meaningful smile.
 
@@ -20034,11 +20036,11 @@ Jordan looked down at his `Poly Pass` lanyard resting against his commemorative 
 
 **Date:** 2016-07-01 11:00
 
-On Friday morning, July 1, 2016—sixteen months after **Zoë** had first rendered the 3D architectural wireframe on the dining room table at `414 Geneva Street`, and eight months after **Jordan** had whispered *"Let's build our sanctuary"* in `CVICU Room 412`—the custom-built **Kelly–Anderson–Brooks Compound** along the U.S. Route 11 corridor stood finished under the bright July sun.
+On Friday morning, July 1, 2016—sixteen months after **Zoë** had first rendered the 3D architectural wireframe on the dining room table at `414 Geneva Street`, and eight months after **Jordan** had whispered *"Let's build our sanctuary"* in `CVICU Room 412`—the custom-built **Kelly–Cooper–Brooks Compound** along the U.S. Route 11 corridor stood finished under the bright July sun.
 
 Where `414 Geneva Street` had been a beloved, retrofitted college rental house that carried them through Sophomore Year and Jordan’s post-CABG recovery, the U.S. 11 residence had been engineered from the bedrock up around Jordan’s body, Mark and Hannah’s marriage, and the lifelong rhythms of all eleven members of their household.
 
-Directly at the edge of the front driveway along U.S. Route 11 stood the covered **Blue Ridge Transit Route 3** shelter, connected to the front porch by a heated, zero-grade brushed-concrete walkway so Jordan’s `Tilite Aero Z` tires would never again have to fight gravel, curb lips, or winter ice. Inside, every hallway was a sweeping forty-eight inches wide with recessed oak wall bumpers, zero-threshold pocket doors, and dual-height kitchen islands where Jordan could roll right beside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, **Megan**, **Mark**, and **Hannah** to prep dinner together.
+Directly at the edge of the front driveway along U.S. Route 11 stood the covered **Blue Ridge Transit Route 3** shelter, connected to the front porch by a heated, zero-grade brushed-concrete walkway so Jordan’s `Vanguard Pro` tires would never again have to fight gravel, curb lips, or winter ice. Inside, every hallway was a sweeping forty-eight inches wide with recessed oak wall bumpers, zero-threshold pocket doors, and dual-height kitchen islands where Jordan could roll right beside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, **Megan**, **Mark**, and **Hannah** to prep dinner together.
 
 The East Wing housed **Mark and Hannah’s** private suite and civil-engineering study, alongside private bedrooms and workspaces for every member of the household—including a dedicated, acoustically damped server and `Fin#` engineering studio for **Zoë**, a quiet studio for **Jessica**, an astronomy observatory deck for **Jordan** and **Megan**, and a guest suite on the ground floor for **Elana**, **Stephen**, and **Stella** (or **Daniel** and **Laura Brooks**) whenever they visited.
 
@@ -20048,13 +20050,13 @@ At `11:00 AM`, with the moving trucks unloaded and the final inspection certific
 
 Jordan rolled inside and stopped, his breath catching in his throat.
 
-The center of the bedroom floor had been recessed into a fifteen-foot-by-fifteen-foot architectural well lined with high-density, velvet-upholstered memory-foam bolsters and filled wall-to-wall with a custom, seamless king-plus mattress expanse. The top surface of the mattress sat at *the exact height* of the seat pan of Jordan’s `Tilite Aero Z`.
+The center of the bedroom floor had been recessed into a fifteen-foot-by-fifteen-foot architectural well lined with high-density, velvet-upholstered memory-foam bolsters and filled wall-to-wall with a custom, seamless king-plus mattress expanse. The top surface of the mattress sat at *the exact height* of the seat pan of Jordan’s `Vanguard Pro`.
 
 Surrounding the sunken perimeter was a level, non-slip hardwood transfer deck with flush recessed grab bars and integrated power-and-data ports for Jordan’s `mPad` and `Garmin Venu` charger. There were no bed frames to bang his knees against, no four-inch vertical gaps to haul his upper body across when his shoulders were tired, and zero risk of falling.
 
-To test it, Jordan rolled his `Aero Z` up to the north edge of the Sunken Sanctuary, clicked his wheel locks into place, flipped up his side guard, and slid laterally onto the mattress in a single, effortless motion.
+To test it, Jordan rolled his `Vanguard Pro` up to the north edge of the Sunken Sanctuary, clicked his wheel locks into place, flipped up his side guard, and slid laterally onto the mattress in a single, effortless motion.
 
-From the center of the sunken bed, he could roll or scoot anywhere across the fifteen-foot expanse—and when he wanted to get back into his chair, his `Aero Z` was waiting right at mattress level like a dock beside a calm harbor.
+From the center of the sunken bed, he could roll or scoot anywhere across the fifteen-foot expanse—and when he wanted to get back into his chair, his `Vanguard Pro` was waiting right at mattress level like a dock beside a calm harbor.
 
 <aac>"Zero elevation delta,"</aac> Jordan tapped on his `mPad`, looking up from the center of the Sunken Sanctuary with shining eyes as Aubrie Jean, Madison, Megan, Isabel, Zoë, Lauren, Sarah, and Jessica all kicked off their shoes and stepped down onto the plush mattress around him. <aac>"I don't have to climb into bed anymore. The bed meets me right where I am."</aac>
 
@@ -20064,7 +20066,7 @@ Date: 07-01-2016
 Time: 11:18:45
 Thread 1 (Self) & Thread 3 (Jordan.OS)
 Event: Commissioning of the U.S. 11 Sunken Sanctuary & Master Transfer Dock.
-Hypothesis: Eliminating the vertical transfer differential between Jordan's Tilite Aero Z seat plane (19.5 inches AFF) and the sleeping surface will reduce daily upper-extremity biomechanical strain by 84% while providing an unobstructed multi-anchor co-regulation environment.
+Hypothesis: Eliminating the vertical transfer differential between Jordan's Vanguard Pro seat plane (19.5 inches AFF) and the sleeping surface will reduce daily upper-extremity biomechanical strain by 84% while providing an unobstructed multi-anchor co-regulation environment.
 Analysis:
 - Transfer Deck Elevation: +0.00 inches relative to mattress crown.
 -Measured Transfer Time: 1.8 seconds (Effortless lateral glide; zero sternal or glenohumeral torque).
@@ -20116,7 +20118,7 @@ Jordan’s smile reached all the way to his eyes. He reached over to the flush t
 
 By `10:30 AM`, the U.S. 11 compound was buzzing with joyful, synchronized precision.
 
-In the East Wing, **Mark** and **Daniel Brooks** helped Jordan into his custom-tailored charcoal three-piece suit—cut specifically by a master tailor in Roanoke to drape seamlessly while seated in his `Tilite Aero Z`, with a midnight-blue silk tie that matched the gowns of the seven Pact bridesmaids and a white rose boutonniere pinned over his healed heart. Mark wore an identical charcoal three-piece suit with an emerald silk tie to match **Hannah**’s bouquet.
+In the East Wing, **Mark** and **Daniel Brooks** helped Jordan into his custom-tailored charcoal three-piece suit—cut specifically by a master tailor in Roanoke to drape seamlessly while seated in his `Vanguard Pro`, with a midnight-blue silk tie that matched the gowns of the seven Pact bridesmaids and a white rose boutonniere pinned over his healed heart. Mark wore an identical charcoal three-piece suit with an emerald silk tie to match **Hannah**’s bouquet.
 
 Instead of hiring a fleet of cramped stretch limousines that couldn't accommodate a rigid-frame wheelchair alongside a twenty-person wedding party, the two grooms and their entire family walked down the zero-grade heated walkway at `11:45 AM` to their dedicated **Blue Ridge Transit Route 3** shelter.
 
@@ -20138,9 +20140,9 @@ JUST MARRIED!
 
 At `13:30`, the sunlit glass-and-limestone atrium of the **Old Town Ballroom & Conservatory**—located directly across Main Street from the **Montgomery County Courthouse** in downtown Christiansburg—was filled to capacity with everyone who had ever stood in Jordan, Aubrie Jean, Mark, and Hannah’s corner.
 
-In the front rows sat **Daniel** and **Laura Brooks**; **Aubrie Jean’s** parents (**Robert and Clara Kelly**); **Hannah and Lauren’s** parents (**Carlos and Elena Peralta**); **Madison’s**, **Sarah’s**, and **Jessica’s** parents; **Elana** and **Stephen** with twenty-month-old **Stella** (dressed in an adorable miniature white satin dress with a basket of rose petals); their CPI professors and Residence Life colleagues from `Walton Hall` and `New River Hall`; and, sitting in the front row on the groom’s side in a crisp navy suit, **Dr. Aris Thorne**—the cardiothoracic surgeon who had held Jordan’s stopped heart in his hands nine months earlier and built the four bypasses beating steadily inside Jordan’s chest today.
+In the front rows sat **Daniel** and **Laura Brooks**; **Aubrie Jean’s** parents (**Robert and Clara Kelly**); **Hannah’s** parents (**Carlos and Elena Morales**); **Lauren’s**, **Madison’s**, **Sarah’s**, and **Jessica’s** parents; **Elana** and **Stephen** with twenty-month-old **Stella** (dressed in an adorable miniature white satin dress with a basket of rose petals); their CPI professors and Residence Life colleagues from `Bennett Hall` and `New River Hall`; and, sitting in the front row on the groom’s side in a crisp navy suit, **Dr. Aris Thorne**—the cardiothoracic surgeon who had held Jordan’s stopped heart in his hands nine months earlier and built the four bypasses beating steadily inside Jordan’s chest today.
 
-At the front of the conservatory altar stood **Mark** (in his charcoal suit and emerald tie) beside **Jordan** (in his gleaming `Tilite Aero Z`, his `mPad` mounted on a polished low-profile dress bracket at his right hand).
+At the front of the conservatory altar stood **Mark** (in his charcoal suit and emerald tie) beside **Jordan** (in his gleaming `Vanguard Pro`, his `mPad` mounted on a polished low-profile dress bracket at his right hand).
 
 The conservatory doors opened, and a string quartet began an acoustic arrangement of [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) by **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**.
 
@@ -20148,19 +20150,19 @@ First down the aisle walked **Elana** and **Stephen**, guiding little **Stella**
 
 Then came the seven women of the Pact—walking one by one in sweeping midnight-blue silk gowns, pausing at the front of the aisle before Jordan’s wheelchair for the **Ceremony of the Constellation (The Releasing and Anchoring of the Groom)** that they had written together:
 
-1. **Lauren Peralta** stepped forward first, taking Jordan’s hands with a bright, tearful smile:
+1. **Lauren Barnes** stepped forward first, taking Jordan’s hands with a bright, tearful smile:
    *"Jordan, from the day you made us laugh in Suite 214/216, you brought joy and warmth into our lives. I stand with you today and always."*
-2. **Sarah Jenkins** stepped forward second, pressing her hand gently over his shoulder:
+2. **Sarah Braithwaite** stepped forward second, pressing her hand gently over his shoulder:
    *"Jordan, you taught us that quietness is not emptiness, and that gentleness is the greatest strength in the world. I stand with you today and always."*
 3. **Jessica Gallagher** stepped forward third, her hazel eyes shining as she squeezed his fingers:
    *"Jordan, when you welcomed me into your harbor in Sophomore Fall, you showed me that love never runs out of room. I stand with you today and always."*
 4. **Zoë Wren Brooks** stepped forward fourth, her posture straight and her voice clear with deep emotion:
    *"Jordan, you are the brother of my heart and the center of our home's architecture. There is no anomaly we will ever face that we will not solve together. I stand with you today and always."*
 5. **Isabel Dawson** stepped forward fifth, brushing a tender hand across his cheek:
-   *"Jordan, from the third floor of Walton Hall to the rest of our lives, watching you claim your voice has been the greatest honor of my life. I stand with you today and always."*
+   *"Jordan, from the second floor of Bennett Hall to the rest of our lives, watching you claim your voice has been the greatest honor of my life. I stand with you today and always."*
 6. **Megan Brooks** stepped forward sixth, leaning down to kiss his forehead with tears glistening on her lashes:
    *"Jordan, we looked up at the winter constellations and found a home that spans the stars. I stand with you today and always."*
-7. **Madison Evans** stepped forward seventh—the first woman who had ever proposed the Pact in September 2014—taking both of his hands and looking deep into his green eyes:
+7. **Madison Scott** stepped forward seventh—the first woman who had ever proposed the Pact in September 2014—taking both of his hands and looking deep into his green eyes:
    *"Jordan, two years ago I promised Aubrie Jean that we would never let you fall, and that we would build a constellation around you that nothing could ever break. Today, all seven of us place your hands into the hands of the woman who anchored us from day one—not to say goodbye, but to seal the center of our home forever."*
 
 ```
@@ -20172,12 +20174,12 @@ Event: The Ceremony of the Constellation & Dual Bridal Procession.
 Analysis:
 - All 7 Pact bridesmaids (Lauren, Sarah, Jessica, Zoë, Isabel, Megan, Madison) have completed the ceremonial affirmation.
 - Jordan.OS Biometrics: Heart Rate 84 BPM. Sternal graft perfusion: Optimal. Ocular moisture: 100% across entire front row (including Dr. Aris Thorne).
-- Next Sequence: Entrance of Hannah Peralta and Aubrie Jean Kelly. 07-16-2016 13:48:12
+- Next Sequence: Entrance of Hannah Morales and Aubrie Jean Kelly. 07-16-2016 13:48:12
 ```
 
 The string quartet transitioned into a soaring, luminous melody as the tall conservatory doors swung wide.
 
-Walking down the wide center aisle side by side—escorted by their fathers—came **Hannah Peralta** and **Aubrie Jean Kelly** in breathtaking ivory lace gowns that caught the summer sunlight streaming through the glass roof.
+Walking down the wide center aisle side by side—escorted by their fathers—came **Hannah Morales** and **Aubrie Jean Kelly** in breathtaking ivory lace gowns that caught the summer sunlight streaming through the glass roof.
 
 Beside Jordan, Mark let out a shaky, awe-struck breath as Hannah smiled at him through happy tears. And when Jordan looked at Aubrie Jean walking straight toward his wheelchair—her eyes locked onto his with the exact same fierce, unwavering tenderness she had given him in `Room 214` on the day he arrived in Blacksburg with a trash bag of clothes and a silenced voice—his chest swelled with a love so vast it felt like the cosmos itself.
 
@@ -20185,7 +20187,7 @@ At the altar, **Mark and Hannah** exchanged their vows first, their voices stead
 
 Then the officiant turned to **Jordan and Aubrie Jean**.
 
-Aubrie Jean knelt gracefully on a velvet cushion placed right beside Jordan’s `Tilite Aero Z` so that their eyes were completely level, taking both of his hands in hers.
+Aubrie Jean knelt gracefully on a velvet cushion placed right beside Jordan’s `Vanguard Pro` so that their eyes were completely level, taking both of his hands in hers.
 
 "Jordan," Aubrie Jean said, her voice clear and ringing through the silent conservatory, "when you rolled into Suite 214 in August 2014, the world had spent eighteen years trying to convince you that you were an extension of someone else's script—that your voice didn't matter, and that your body was a burden. Look around this room today, my love. Every person in these seats is here because of the man *you* chose to become. You are the bravest, kindest, funniest, most extraordinary soul I have ever known. I loved you at eighteen, I loved you in the dark of Room 412, and I will love you for every breath our hearts ever beat."
 
@@ -20221,7 +20223,7 @@ And before a single champagne glass was poured for the reception, **Daniel Brook
 
 At `14:45` on Saturday afternoon, July 16, 2016, downtown traffic on Main Street in Christiansburg came to a delighted halt as the courthouse deputies waved a wedding procession across the sunlit crosswalk.
 
-Rolling at the front of the group in his charcoal three-piece suit was **Jordan**, holding **Aubrie Jean**’s hand as she walked beside his `Tilite Aero Z` with the train of her ivory lace gown gathered gracefully over her arm. Right beside them walked **Mark** and **Hannah**, followed by **Daniel** and **Laura Brooks**, **Robert** and **Clara Kelly**, **Carlos** and **Elena Peralta**, **Elana**, **Stephen**, and **Stella**, and all seven midnight-blue-gowned women of the Pact: **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, and **Megan**.
+Rolling at the front of the group in his charcoal three-piece suit was **Jordan**, holding **Aubrie Jean**’s hand as she walked beside his `Vanguard Pro` with the train of her ivory lace gown gathered gracefully over her arm. Right beside them walked **Mark** and **Hannah**, followed by **Daniel** and **Laura Brooks**, **Robert** and **Clara Kelly**, **Carlos** and **Elena Morales**, **Elana**, **Stephen**, and **Stella**, and all seven midnight-blue-gowned women of the Pact: **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, and **Megan**.
 
 Passersby on the sidewalk clapped and called out congratulations as the group rolled up the accessible granite ramp of the **Montgomery County Courthouse** and took the elevator to the second floor, where the carved oak doors of **Chamber B** stood open and waiting.
 
@@ -20239,7 +20241,7 @@ The Judge held up the heavy parchment **Final Order for Change of Name**.
 
 "State for the record, Mr. Petitioner, the full legal name by which you choose to be known from this moment forward."
 
-In the quiet courtroom, Jordan sat tall in his `Tilite Aero Z`, his left hand clasped in Aubrie Jean’s and Mark’s hand resting on his shoulder. With steady fingers, Jordan tapped his `mPad`:
+In the quiet courtroom, Jordan sat tall in his `Vanguard Pro`, his left hand clasped in Aubrie Jean’s and Mark’s hand resting on his shoulder. With steady fingers, Jordan tapped his `mPad`:
 
 <aac>"Your Honor, of my own free will, I ask this Court to change my full legal name to Jordan Shawn Kelly."</aac>
 
@@ -20277,7 +20279,7 @@ Inside, the live band struck up the joyous, driving introductory brass and synth
 
 The tall double doors of the Grand Ballroom swung wide open, and the master of ceremonies stepped up to the microphone:
 
-"Ladies and gentlemen, family and friends! Please rise and welcome our seven bridesmaids and the family cohort—and now, put your hands together for our newlyweds: **Mr. and Mrs. Mark and Hannah Anderson**... and, returning straight from the Montgomery County Circuit Court under his brand-new legal name for the very first time in history, **Mr. and Mrs. Jordan Shawn and Aubrie Jean Kelly**!"
+"Ladies and gentlemen, family and friends! Please rise and welcome our seven bridesmaids and the family cohort—and now, put your hands together for our newlyweds: **Mr. and Mrs. Mark and Hannah Cooper**... and, returning straight from the Montgomery County Circuit Court under his brand-new legal name for the very first time in history, **Mr. and Mrs. Jordan Shawn and Aubrie Jean Kelly**!"
 
 The ballroom exploded into a deafening cheer as Mark and Hannah walked in hand-in-hand, and Jordan and Aubrie Jean glided side-by-side onto the polished maple dance floor, with Jordan holding his gold-sealed Montgomery County Circuit Court order high in the air for the whole room to see.
 
@@ -20285,7 +20287,7 @@ At the front table, **Dr. Aris Thorne** stood applauding beside Daniel and Laura
 
 For the first dance, the band slowed into a warm, sweeping arrangement of [**"Just Us"**](https://music.raggiesoft.com/artists/the-stardust-engine/2008-our-own-frequency?track=1-08-just-us) from **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**'s 2008 album [***Our Own Frequency***](https://music.raggiesoft.com/artists/the-stardust-engine/2008-our-own-frequency).
 
-At the center of the floor, Mark held Hannah close as they spun in slow circles—and right beside them, Aubrie Jean sat gracefully across Jordan’s lap on the cushioned seat of his `Tilite Aero Z`, her ivory lace skirt cascading over his left wheel guard while her right arm wrapped around his shoulders and Jordan’s right hand spun his push-rim in smooth, effortless waltz turns across the gleaming wood.
+At the center of the floor, Mark held Hannah close as they spun in slow circles—and right beside them, Aubrie Jean sat gracefully across Jordan’s lap on the cushioned seat of his `Vanguard Pro`, her ivory lace skirt cascading over his left wheel guard while her right arm wrapped around his shoulders and Jordan’s right hand spun his push-rim in smooth, effortless waltz turns across the gleaming wood.
 
 Halfway through the song, just as they had planned, the circle opened:
 * **Madison** stepped in to dance the next verse with Jordan and Aubrie Jean;
@@ -20293,7 +20295,7 @@ Halfway through the song, just as they had planned, the circle opened:
 
 During the dinner toasts, **Daniel Brooks** raised his glass to the two brothers who had made his family whole; **Mark** toasted the younger brother who had taught him that the strongest structures in the world are built out of love; and **Dr. Aris Thorne** stepped briefly to the microphone with a warm smile.
 
-"Medical textbooks can explain how a saphenous vein or a mammary artery graft restores blood flow to the myocardium," Dr. Thorne told the hushed ballroom, looking straight at Jordan and Aubrie Jean at the head table. "What medical textbooks cannot explain—until you meet this family—is how eight women, a brother, and a sister-in-law can stand around a hospital bed in Roanoke and will a young man back from the edge of eternity. To **Jordan Shawn Kelly** and **Aubrie Jean Kelly**, and to **Mark and Hannah Anderson**: may your hearts beat strong for eighty years to come."
+"Medical textbooks can explain how a saphenous vein or a mammary artery graft restores blood flow to the myocardium," Dr. Thorne told the hushed ballroom, looking straight at Jordan and Aubrie Jean at the head table. "What medical textbooks cannot explain—until you meet this family—is how eight women, a brother, and a sister-in-law can stand around a hospital bed in Roanoke and will a young man back from the edge of eternity. To **Jordan Shawn Kelly** and **Aubrie Jean Kelly**, and to **Mark and Hannah Cooper**: may your hearts beat strong for eighty years to come."
 
 ---
 
@@ -20309,11 +20311,11 @@ And down the wide forty-eight-inch West Wing hallway, **Jordan Shawn Kelly** rol
 
 One by one, the ivory lace wedding gown, the charcoal three-piece suit, and the seven midnight-blue silk bridesmaids' dresses were hung carefully in the walk-in cedar closet.
 
-Jordan rolled his `Tilite Aero Z` up to the zero-threshold hardwood edge of the **Sunken Sanctuary**, clicked his wheel locks into place, and slid effortlessly onto the vast, cloud-soft fifteen-foot mattress.
+Jordan rolled his `Vanguard Pro` up to the zero-threshold hardwood edge of the **Sunken Sanctuary**, clicked his wheel locks into place, and slid effortlessly onto the vast, cloud-soft fifteen-foot mattress.
 
 All around him in the warm amber glow of the bedside sconces, his anchor and the seven women of their constellation settled in close—Aubrie Jean resting her head over his healed heart with her new platinum wedding band gleaming next to his, Madison’s hand laced with his fingers, Megan and Isabel tucked against his sides, and Zoë, Lauren, Sarah, and Jessica completing the circle of warmth around them.
 
-On the flush nightstand beside his `Aero Z` rested the embossed gold seal of the Circuit Court of Montgomery County, Virginia: **`JORDAN SHAWN KELLY`**.
+On the flush nightstand beside his `Vanguard Pro` rested the embossed gold seal of the Circuit Court of Montgomery County, Virginia: **`JORDAN SHAWN KELLY`**.
 
 Jordan closed his eyes, listened to the steady, peaceful rhythm of his heart and the breathing of the family he loved, and drifted to sleep in a home that was finally, completely his own.
 
