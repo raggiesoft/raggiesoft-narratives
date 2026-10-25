@@ -10361,7 +10361,7 @@ He signed and dated the international policy application as Zoë logged the time
 
 Finally, Daniel opened **Folder Three**—and every eye around the dining room table lit up.
 
-"And Item Three," Daniel said warmly, sliding three glossy engineering spec sheets from **Blue Ridge Complex Rehab & Mobility** across the oak table. "Our Christmas Day promise. The old manual hospital wheelchair your mother sent you to college with has served you as a stopgap indoors—and we'll keep that old folding hospital chair around strictly as a backup for tight bathrooms or standard car trunks—but you are done needing anyone to push you up the hills of CPI, and you need a heavy-duty power chair built to conquer every cobblestone street, transit ramp, and Outback trail on your World Trek. Even better, I am buying this 100% out-of-pocket in cash so we don't wait six months on insurance prior-authorization bureaucracy—and you are picking out the exact machine you want."
+"And Item Three," Daniel said warmly, sliding the glossy engineering spec sheets from **Blue Ridge Complex Rehab & Mobility** across the oak table. "Our Christmas Day promise. That heavy, ill-fitting manual hospital wheelchair your mother sent you to college with—the one she never even bothered to have a seating clinic fit to your body—is going in the rearview mirror for good. We are ordering **two** custom-fitted wheelchairs for you, and I am buying both of them 100% out-of-pocket in cash so we don't wait six months on insurance prior-authorization bureaucracy: first, a custom fourteen-pound ultralight folding titanium manual chair (**`Vanguard AeroLite-Ti`**) properly fitted to your posture for tight indoor spaces, bathroom transfers, and standard car trunks; and second, a heavy-duty motorized power chair built to conquer every hill at CPI and every cobblestone street, transit ramp, and Outback trail on your World Trek. And you are picking out and configuring every detail yourself."
 
 Daniel pointed to the three specifications:
 - **Model 1**: A lightweight folding travel scooter with small 8-inch casters and a 10-mile battery range.
@@ -10502,11 +10502,13 @@ Sitting under the bright shop lights was a machine that looked less like a hospi
 
 "That's the *Titan-X350* mid-wheel-drive architecture," Marcus said, patting the high-back contoured seat. "Because the drive wheels sit directly beneath your center of gravity, the turning radius is only twenty-one inches—meaning you can spin a full 360 inside a narrow dorm hallway or a crowded lecture aisle without three-point turns. And out on campus—or out in the Australian Outback—those dual-group-24 sealed AGM gel batteries give you a twenty-two-mile single-charge range even on a twelve-degree Blacksburg incline."
 
-Marcus crouched beside Jordan's ultralight manual chair with his digital calipers. "Now, let's build this chair for *your* body, Jordan. You're the driver, so every single setting on this order sheet goes where you want it."
+Marcus crouched beside Jordan's clunky, squeaking old manual hospital chair with his digital calipers, shaking his head briefly at the worn sling seat. "Whoever bought this off-the-shelf hospital frame never measured your pelvic width or your center of gravity, Mr. Fuller. Today we retire that relic for good. Let's build both your *Titan-X350* power chair and your fourteen-pound *AeroLite-Ti* custom titanium manual chair for *your* body. You're the driver, so every single setting on both order sheets goes where you want it."
 
 For the next forty minutes, nobody made a decision for Jordan except Jordan.
 
-When Marcus asked which side the proportional R-Net color-screen joystick controller should be mounted on, Jordan tested both armrests and chose a swing-away right-hand mount with an integrated USB power tap and ruggedized swing-arm mount to keep his **Pinnacle Vanguard Pro** workstation and MagnaByte devices charged during full days on campus. When Marcus presented three cushion options, Jordan tested the pressure-mapping mat and selected the dual-valve memory-foam and fluid-cell contour cushion that kept his pelvis and lower spine aligned across bumpy terrain. When Marcus showed him the color swatches for the shroud accents, Jordan didn't hesitate.
+First, Marcus took Jordan's exact biomechanical measurements for the **`Vanguard AeroLite-Ti`**—a fourteen-pound, custom-welded aerospace-titanium folding manual wheelchair engineered specifically for tight indoor bathrooms, narrow doorways, and folding into standard four-door car trunks. Jordan chose a brushed-titanium frame with stealth matte-black and CPI Forger maroon anodized accents, low-friction ergonomic push-rims, and a custom pressure-relief contour cushion.
+
+Next, they configured the flagship **`Vanguard Titan-X350`** power chair. When Marcus asked which side the proportional R-Net color-screen joystick controller should be mounted on, Jordan tested both armrests and chose a swing-away right-hand mount with an integrated USB power tap and ruggedized swing-arm mount to keep his **Pinnacle Vanguard Pro** workstation and MagnaByte devices charged during full days on campus. When Marcus presented three cushion options, Jordan tested the pressure-mapping mat and selected the dual-valve memory-foam and fluid-cell contour cushion that kept his pelvis and lower spine aligned across bumpy terrain. When Marcus showed him the color swatches for the shroud accents, Jordan didn't hesitate.
 
 Running his fingers over the anodized sample plate, Jordan tapped his AAC tablet:
 
@@ -11421,19 +11423,23 @@ Madison reached out and squeezed Jordan’s hand through her tears.
 
 On Monday afternoon, March sixteenth—as the nine students returned from a peaceful, laughter-filled Spring Break in Bluewater to learn from **Daniel Brooks** that Aubrie Sinclair's private investigator had checked out of his Route 460 motel and gone back to Tidewater empty-handed—the hydraulic lift-gate on the back of the **Blue Ridge Complex Rehab & Mobility** sprinter van hummed down onto the concrete apron of the Brooks driveway at **414 Geneva Street**.
 
-**Marcus Vance** backed the machine out into the March sunlight.
+**Marcus Vance** backed the flagship machine out into the March sunlight, while his assistant wheeled out Jordan's matching fourteen-pound **`Vanguard AeroLite-Ti`** custom brushed-titanium folding manual chair for tight indoor spaces and car trunks.
 
-Even knowing the specifications he had personally picked out and signed for in January—and knowing that **Daniel Brooks** had paid for the entire machine in cash out-of-pocket so Jordan wouldn't have to spend another semester trapped in the old manual hospital wheelchair his mother had sent him to CPI with—seeing his custom **Vanguard Titan-X350** in person took Jordan's breath away.
+Even knowing the specifications he had personally picked out and signed for in January—and knowing that **Daniel Brooks** had paid for both custom machines in cash out-of-pocket so Jordan would never have to spend another day in the clunky, ill-fitting manual hospital wheelchair his mother had sent him to CPI with—seeing his custom **Vanguard Titan-X350** in person took Jordan's breath away.
 
 Three hundred and fifty pounds of matte-black, aircraft-grade aluminum and steel sat planted on six independent suspension wheels. The high-backed contoured biomechanical seat was upholstered in breathable charcoal ballistic mesh over the custom fluid-cell memory cushion. Mounted on the swing-away right armrest sat the sleek proportional R-Net color LCD joystick module, alongside the ruggedized articulating bracket for his **Pinnacle Vanguard Pro** workstation, integrated amber-and-white LED path-lights tucked into the front matte-black fenders, and a heavy-duty backpack rack welded seamlessly behind the headrest.
 
-"Here she is, Mr. Fuller," Marcus said proudly, locking the electromagnetic parking brakes with a solid *click* and flipping up the left armrest flush against the backrest. "Custom-built and calibrated to your exact seating geometry. Want to try transferring over from your manual chair?"
+"Here she is, Mr. Fuller," Marcus said proudly, locking the electromagnetic parking brakes with a solid *click* and flipping up the left armrest flush against the backrest. "Custom-built and calibrated to your exact seating geometry, right alongside your fourteen-pound *AeroLite-Ti* titanium manual chair. Want to transfer out of that old hospital chair for the very last time?"
 
-Jordan grinned. Rolling his manual chair forward an inch and back half an inch to trail the front casters, he parked at a crisp **forty-five-degree angle**—the exact **Forty-Five-Degree Transfer** he had just taught Madison's fourteen-year-old brother **Bob** down in Bluewater on Wednesday—tucked his elbows in, leaned his head and chest forward over his knees, and pivoted smoothly across the two-inch corner onto the contoured seat of the *Titan-X350*.
+Jordan grinned. Rolling the old manual chair forward an inch and back half an inch to trail the front casters, he parked at a crisp **forty-five-degree angle**—the exact **Forty-Five-Degree Transfer** he had just taught Madison's fourteen-year-old brother **Bob** down in Bluewater on Wednesday—tucked his elbows in, leaned his head and chest forward over his knees, and pivoted smoothly across the two-inch corner onto the contoured seat of the *Titan-X350*.
 
 Marcus smiled with a nod of veteran respect. "Cleanest forty-five-degree pivot transfer in Montgomery County, Mr. Fuller."
 
-<aac>Angles and leverage beat brute force every time,</aac> Jordan's AAC speaker replied proudly as **Madison** beamed beside him, thinking of her little squirt practicing that exact pivot down in Bluewater.
+<aac>Angles and leverage beat brute force every time,</aac> Jordan's AAC speaker replied proudly as **Madison** beamed beside him, thinking of her little squirt practicing that exact pivot down in Bluewater. Then Jordan looked back at the empty, squeaking old hospital wheelchair from Virginia Beach and tapped a second line:
+
+<aac>Mr. Vance, can you haul that old hospital chair away in your van for scrap recycling? I never want to see my mother's chair again.</aac>
+
+"Nothing would give me greater pleasure, Mr. Fuller," Marcus grinned, folding up the worn institutional relic, tossing it into the back of the sprinter van for scrap, and slamming the rear doors shut to a round of cheers from the entire driveway.
 
 The difference inside the new chair was instantaneous. Instead of feeling perched on a lightweight manual sling frame that tipped backward on steep curb cuts and demanded upper-body force for every foot of forward motion, Jordan felt anchored inside a cockpit built like a vault.
 
@@ -11483,9 +11489,10 @@ Outside the second-floor Washington Street SW doors, **Garrett** grinned and app
 
 On Tuesday morning, March seventeenth—the first morning of classes after Spring Break—**Jordan Fuller** rolled out through the upper-terrace doors of **Bennett Hall** into the bright spring sunshine.
 
-Before they had gone to sleep the night before, **Mark** and **Hannah** had presented Jordan with a small, laser-engraved matte-silver nameplate that Mark had machined in the **Joule Hall** engineering student shop and mounted neatly on the rear backrest bracket of Jordan's three-hundred-and-fifty-pound *Vanguard Titan-X350* power wheelchair:
+Before they had gone to sleep the night before, **Mark** and **Hannah** had presented Jordan with a matching pair of laser-engraved matte-silver nameplates that Mark had machined in the **Joule Hall** engineering student shop—one mounted neatly on the rear backrest bracket of Jordan's three-hundred-and-fifty-pound *Vanguard Titan-X350* power wheelchair, and its twin mounted on the brushed-titanium crossbar of his fourteen-pound *Vanguard AeroLite-Ti* tight-space manual wheelchair (christened in honor of both the astronomer Galileo Galilei from `ASTR 204` and *Star Trek*'s famous auxiliary shuttlecraft):
 
 **S.S. FREEDOM — CAPT. J. FULLER**
+**SHUTTLECRAFT GALILEO — AUX. CRAFT TO S.S. FREEDOM**
 
 As the nine of them set out across the wide paved paths of **Commonwealth Green** toward their morning lecture in **Archer Hall**, Jordan realized that something fundamental in the way he experienced the campus had changed overnight.
 
@@ -11713,7 +11720,7 @@ Around them in the dim light of the expansive finished basement, the rest of the
 
 "Morning, J," Aubrie mumbled, her voice thick with sleep as she rubbed her eyes and sat up.
 
-There was no hesitation and no awkward morning shuffling. The clinical, judgment-free trust that had been forged over the past year in Room 214 immediately took over. Because the exterior walk-out basement ramp wouldn't be completed until August, Jordan's old manual hospital wheelchair was kept downstairs strictly for tight indoor bathroom transfers, while his 350-pound motorized power chair—the matte-black ***S.S. Freedom*** that Daniel Brooks had bought in cash after Jordan picked it out himself—charged upstairs by the front entryway. Aubrie threw the covers back, grasped the handles of the old manual hospital wheelchair, and wheeled it flush against the mattress. With Lauren's gentle assistance from the other side, they executed a flawless pivot-transfer, settling Jordan into the seat.
+There was no hesitation and no awkward morning shuffling. The clinical, judgment-free trust that had been forged over the past year in Room 214 immediately took over. Because the exterior walk-out basement ramp wouldn't be completed until August, Jordan's custom fourteen-pound titanium manual wheelchair—the ***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`) that Daniel Brooks had bought in cash alongside his 350-pound motorized ***S.S. Freedom*** power chair after Jordan picked out and got custom-fitted for both—was kept downstairs for tight indoor bathroom transfers, while ***S.S. Freedom*** charged upstairs by the front entryway. Aubrie threw the covers back, grasped the handles of ***Shuttlecraft Galileo***, and wheeled the ultralight titanium frame flush against the mattress. With Lauren's gentle assistance from the other side, they executed a flawless pivot-transfer, settling Jordan into the custom-contoured seat.
 
 Aubrie wheeled him into the large downstairs bathroom. The radical, practical intimacy of their family was fully on display; there was zero shame and absolutely no demand for privacy. Aubrie assisted Jordan with his morning toileting needs with clinical respect, seamlessly taking care of her own needs in the shared space without missing a beat.
 
@@ -14776,24 +14783,28 @@ Jordan's hands remained completely still over his keyboard. His heart rate ticke
 
 <aac>My mother,</aac> Jordan typed cleanly. <aac>What did she file?</aac>
 
-"She hired a Virginia Beach attorney named **Mr. Davies** and filed an emergency petition in the **Montgomery County Circuit Court** seeking full adult **Guardianship and Conservatorship** over your person and your estate," Daniel explained, laying a faxed summary sheet from his legal team on the table. "She is claiming to the court that you are an incapacitated adult with the cognitive comprehension of a young child, and that Laura and I 'abducted' and 'endangered' you by taking you out of the country. Judge Harrison declined her request for an *ex parte* seizure order, appointed an independent **Guardian ad Litem** named **Ms. Evelyn Caldwell** to investigate, and set the full evidentiary hearing on the merits for **Tuesday, August 18 at 9:30 AM** in **Courtroom 3B** in Christiansburg."
+"She hired a Virginia Beach attorney named **Mr. Davies** and filed an emergency petition in the **Montgomery County Circuit Court** seeking full adult **Guardianship and Conservatorship** over your person and your estate," Daniel explained, laying a faxed summary sheet from his legal team on the table. "She is claiming to the court that you are an incapacitated adult with the cognitive comprehension of a young child, and that Laura and I 'abducted' and 'endangered' you by taking you out of the country. Worse yet, Mr. Davies actually tried to get **Judge Harrison** to schedule an immediate hearing *this week while we are still in Australia*—hoping to win a default guardianship order *in absentia* while we were ten thousand miles away."
 
 Around the kitchen table, **Aubrie**, **Zoë**, and **Mark** stiffened with protective fury—and then all four of them looked at Jordan.
 
 Instead of crashing into a `System.IO.FileNotFoundException()`, Jordan looked down at the calendar on his **Pinnacle Vanguard Pro** screen and ran the math.
 
-<aac>Our pre-booked return flights depart Red Centre Desert Airport on August 16 and land at Roanoke-Blacksburg Regional Airport at 6:30 PM on Monday, August 17,</aac> Jordan's `"Sydney"` voice stated with crystal clarity. <aac>That puts us back in Christiansburg fifteen hours before Judge Harrison bangs the gavel. Do we need to cut our trip short?</aac>
+<aac>Wait—we bought these airline tickets back in the winter, five months before she filed anything,</aac> Jordan's `"Sydney"` voice stated with crystal clarity. <aac>Our starting flight out of Roanoke to Dulles was on May 23, and our pre-booked return flights from Red Centre Desert Airport (`AYQ`) to Sydney (`SYD`) to Los Angeles (`LAX`) to Charlotte (`CLT`) to Roanoke (`ROA`) depart on August 16 and land at Roanoke-Blacksburg Regional Airport at 6:30 PM on Monday, August 17. Did Ms. Gable show the judge when our tickets were purchased?</aac>
 
 A slow, fiercely proud smile spread across **Daniel's** face.
 
-"I just spoke on the second satellite channel with our family counsel in Christiansburg, **Ms. Helen Gable**, and with your court-appointed Guardian ad Litem, **Ms. Evelyn Caldwell**," Daniel replied. "Ms. Gable and Ms. Caldwell both agreed: **we do not cut your trip short by a single hour**. If we scrambled to buy emergency tickets and fled home early, your mother's lawyer would claim we were hiding something. By finishing the exact two-week Outback educational itinerary we booked months ago and walking into Courtroom 3B on Tuesday morning right on schedule, we prove that your life runs on calm, deliberate order."
+"That is the exact first move **Ms. Helen Gable** and your court-appointed **Guardian ad Litem**, **Ms. Evelyn Caldwell**, made in chambers this afternoon," Daniel replied. "The moment Mr. Davies demanded an immediate August hearing date claiming we had 'fled the jurisdiction,' Ms. Gable and Ms. Caldwell handed Judge Harrison the certified airline ticket receipts and Passenger Name Records for all eighteen of us—showing both our outbound **May 23 `ROA ➔ IAD`** departure and our confirmed **August 16–17 `AYQ ➔ SYD ➔ LAX ➔ CLT ➔ ROA`** return itinerary, along with the bank clearing timestamps proving that every single ticket was purchased and ticketed back in **January and February 2015**, half a year before your mother ever set foot in a lawyer's office. Judge Harrison took one look at the January ticketing dates, shut down Mr. Davies's attempt to hold a hearing while you were in Australia on the spot, denied her request for an *ex parte* seizure order, and docketed the full evidentiary hearing on the merits for **Tuesday, August 18 at 9:30 AM** in **Courtroom 3B** in Christiansburg—fifteen hours after our pre-booked flight touches down at `ROA`."
+
+<aac>So we do not need to cut our trip short by a single hour,</aac> Jordan typed, his green eyes bright behind his glasses.
+
+"Not by a single minute," Daniel confirmed warmly. "Ms. Gable and Ms. Caldwell both agreed: if we scrambled to buy emergency change tickets and fled home early, your mother's lawyer would claim we were panicking. By finishing the exact two-week Outback educational itinerary we booked back in the winter and rolling into Courtroom 3B on Tuesday morning right on schedule, we prove that your life runs on calm, deliberate order."
 
 Beside Jordan, **Zoë's** eyes gleamed behind her glasses as her cognitive logger compiled the entire courtroom defense matrix in real time:
 
 ```
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Hostile_Legal_Filing.Detected(Petitioner: "Aubrie_Sinclair", Venue: "Montgomery_County_Circuit_Court", Date: "2015-08-18 09:30 EDT"). 08-09-2015 03:52:10
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Hostile_Legal_Filing.Detected(Petitioner: "Aubrie_Sinclair", Venue: "Montgomery_County_Circuit_Court", Hearing_Date: "2015-08-18 09:30 EDT"). Ambush_In_Absentia_Motion == DEFEATED by Prior_Ticketing_Proof(Purchased: "Jan/Feb 2015", Outbound: "ROA->IAD 2015-05-23", Return: "AYQ->SYD->LAX->CLT->ROA 2015-08-16/17"). 08-09-2015 03:52:10
 ZOË.Systems.Logs.SystemSchedulerLog: Thread 3 (Jordan) — Processor_Stability: 100.00% (Zero kernel panic). Return_Routing(AYQ -> SYD -> LAX -> CLT -> ROA) arrives 2015-08-17 18:30 EDT (T-minus 15.0 hours before hearing). 08-09-2015 03:52:14
-ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Compiling evidentiary packet for Counsel(Helen_Gable) & GAL(Evelyn_Caldwell): [1] CPI OEA & Residence Life witnesses (Higgins, Brennan, Dawson, Walsh); [2] International Medical Insurance Audit; [3] Southern Hemisphere Winter Meteorological Logs (27.8°F frost on tires). Probability(Petitioner_Defeat) == 99.98%. 08-09-2015 03:52:19
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Compiling evidentiary packet for Counsel(Helen_Gable) & GAL(Evelyn_Caldwell): [1] Certified Airline PNR & Purchase Receipts (Jan/Feb 2015); [2] CPI OEA & Residence Life witnesses (Higgins, Brennan, Dawson, Walsh); [3] International Medical Insurance Audit; [4] Southern Hemisphere Winter Meteorological Logs (27.8°F frost on tires). Probability(Petitioner_Defeat) == 99.98%. 08-09-2015 03:52:19
 ```
 
 "Wait till Ms. Gable sees the rest of the petition," **Jessica** added with a low, lethal chuckle as she read the second faxed page over Daniel's shoulder. "Your mum's lawyer wrote that Daniel endangered you by dragging you into the Australian Outback during the *'unforgiving heat of August.'* The absolute drongo thinks August in Australia is summer!"
@@ -14936,7 +14947,7 @@ A year ago, the sterile white walls and harsh fluorescent tubes would have sent 
 
 This morning, Jordan sat upright in his modified, matte-black all-terrain power chair, the hum of the air handlers filtered effortlessly by his digital hearing aids.
 
-He was bone-tired—carrying the deep, heavy physical exhaustion of a nineteen-year-old who had spent thirty-five consecutive hours crossing the Pacific Ocean and the North American continent across four separate aircraft (`AYQ ➔ SYD ➔ LAX ➔ CLT ➔ ROA`), four manual aisle-chair transfers, and fifteen time zones before rolling off the jet bridge at **Roanoke-Blacksburg Regional Airport (`ROA`)** at six-thirty the previous evening. True to their promise on the Singapore video call, **Isabel Dawson** and **Henry Walsh** had been standing right at the `ROA` arrivals gate waiting for him; Jordan had driven his chair straight into Isabel's arms, hugging her so tightly and for so long as his `"Sydney"` voice whispered how much he had missed her that Isabel had cried happy tears into his collar.
+He was bone-tired—carrying the deep, heavy physical exhaustion of a nineteen-year-old who had spent thirty-five consecutive hours crossing the Pacific Ocean and the North American continent across four separate aircraft (`AYQ ➔ SYD ➔ LAX ➔ CLT ➔ ROA`), eight boarding and deplaning carries in Jessica's strong arms, and fifteen time zones before rolling off the jet bridge at **Roanoke-Blacksburg Regional Airport (`ROA`)** at six-thirty the previous evening. True to their promise on the Singapore video call, **Isabel Dawson** and **Henry Walsh** had been standing right at the `ROA` arrivals gate waiting for him; Jordan had driven his chair straight into Isabel's arms, hugging her so tightly and for so long as his `"Sydney"` voice whispered how much he had missed her that Isabel had cried happy tears into his collar.
 
 Even after five hours of sleep back at the **Geneva Street** compound in Christiansburg, faint dark circles of trans-Pacific jet lag lingered beneath Jordan's eyes behind his prescription glasses, and the thick rubber treads of his wheelchair tires still held a dusting of rust-red **Petermann** outback dirt that refused to wash out. Yet his posture was squared, his deep Southern Hemisphere winter-sun tan was unmistakable, and his fingers rested with calm, practiced readiness over the keyboard of his **Pinnacle Vanguard Pro**.
 
@@ -14952,7 +14963,7 @@ Then she looked at the copy of **Aubrie Sinclair's** sworn petition lying open b
 
 Jordan's tired eyes crinkled warmly behind his glasses. His fingers glided across his keyboard.
 
-<aac>Good morning, Ms. Caldwell. Thank you for conducting my statutory interview this morning instead of demanding that we cancel our trip,</aac> the clear, Australian-accented `"Sydney"` voice of his **Pinnacle Vanguard Pro** spoke into the quiet room. <aac>I am definitely jet-lagged from four aisle-chair transfers between Uluru and Roanoke, and my body still thinks it is ten o'clock at night in Sydney. But my processor is running at one hundred percent, and I am ready to finish this.</aac>
+<aac>Good morning, Ms. Caldwell. Thank you for conducting my statutory interview this morning instead of demanding that we cancel our trip,</aac> the clear, Australian-accented `"Sydney"` voice of his **Pinnacle Vanguard Pro** spoke into the quiet room. <aac>I am definitely jet-lagged from four flights between Uluru and Roanoke—even with Jessica carrying me onto and off every plane so I never had to touch an airport aisle chair—and my body still thinks it is ten o'clock at night in Sydney. But my processor is running at one hundred percent, and I am ready to finish this.</aac>
 
 "And that single sentence alone satisfies half my statutory checklist," Ms. Caldwell chuckled softly, making a crisp notation on the final addendum sheet of her official GAL report and signing her name at the bottom. "Your mother swore under penalty of perjury that you have the cognitive capacity of a toddler, cannot operate a communication device without hand-over-hand prompting, and cannot survive outside her home in Virginia Beach."
 
@@ -15029,7 +15040,7 @@ Mr. Davies blinked, his smug expression faltering as he realized Ms. Gable had a
 
 Ms. Caldwell stood at the Guardian ad Litem table, holding up her bound report and the sworn medical evaluation packet.
 
-"That is correct, Your Honor," Ms. Caldwell said clearly. "When Ms. Sinclair filed this petition late last month, Jordan Fuller was on a long-planned educational and family expedition overseas—specifically in a remote region of the Australian Northern Territory three hundred kilometers from the nearest town. Rather than evading the court, Mr. Fuller completed his scheduled itinerary and endured a thirty-five-hour continuous return flight path across the Pacific Ocean and the United States, landing at Roanoke-Blacksburg Regional Airport at six-thirty yesterday evening so he could be in your courtroom at nine-thirty this morning."
+"That is correct, Your Honor," Ms. Caldwell said clearly. "As the Court will recall from the certified airline ticketing receipts Ms. Gable and I submitted in chambers—which proved that every leg of Mr. Fuller's international itinerary from his **May 23 `ROA ➔ IAD`** departure to his **August 16–17 `AYQ ➔ SYD ➔ LAX ➔ CLT ➔ ROA`** return was purchased back in January and February 2015, five months before Ms. Sinclair filed this petition—Mr. Fuller was three hundred kilometers deep in the Australian Northern Territory when this action was filed. Rather than evading the court, Mr. Fuller completed his pre-booked educational itinerary and endured a thirty-five-hour continuous return flight path across the Pacific Ocean and the United States, landing at Roanoke-Blacksburg Regional Airport at six-thirty yesterday evening so he could be in your courtroom at nine-thirty this morning."
 
 Judge Harrison raised his eyebrows, looking down over his reading glasses at Jordan—who gave the judge a polite, respectful nod despite the dark circles of travel fatigue beneath his eyes.
 
@@ -15212,7 +15223,7 @@ As **Henry Walsh** took his seat beside **Isabel Dawson** in the second row of t
 
 "Mr. Brooks," Ms. Gable began, "the petitioner has alleged that taking Jordan Fuller out of her Virginia Beach home and welcoming him into your household on Geneva Street in Christiansburg was an act of reckless endangerment. Let us start with the medical and mobility equipment Jordan is using in this courtroom today—the heavy-duty all-terrain power wheelchair, the digital hearing aids, the anti-reflective prescription glasses, and his **Pinnacle Vanguard Pro** communication workstation. How were those items procured?"
 
-"When Jordan became part of our family last fall and Laura and I realized the extent of the medical and sensory deprivation he had endured for eighteen years," Daniel testified, his crisp British-Virginian voice carrying effortlessly through the courtroom, "we did not put him on a six-month insurance waiting list. Aside from his AAC workstation—which was funded through the Commonwealth's vocational rehabilitation grant that Jordan applied for himself—I purchased his power wheelchair, his prescription glasses, and his bilateral hearing aids out of pocket. When a young man whom my wife and I love and respect as our eleventh child needs the basic tools to see, hear, and move through the world, we provide them immediately."
+"When Jordan became part of our family last fall and Laura and I realized the extent of the medical and sensory deprivation he had endured for eighteen years," Daniel testified, his crisp British-Virginian voice carrying effortlessly through the courtroom, "we did not put him on a six-month insurance waiting list. Aside from his AAC workstation—which was funded through the Commonwealth's vocational rehabilitation grant that Jordan applied for himself—I purchased his 350-pound *Vanguard Titan-X350* motorized power wheelchair, his matching fourteen-pound *Vanguard AeroLite-Ti* custom titanium folding manual wheelchair for tight spaces, his prescription glasses, and his bilateral hearing aids 100% out of pocket in cash after Jordan was custom-fitted for and configured them himself. When a young man whom my wife and I love and respect as our eleventh child needs the basic tools to see, hear, and move through the world, we provide them immediately."
 
 Across the courtroom, **Aubrie Sinclair's** jaw clenched so hard her knuckles turned white against the edge of the petitioner's table.
 
@@ -15415,7 +15426,7 @@ Around the perimeter of the finished basement living area, **Aubrie Jean**, **Ma
 
 But Isabel barely heard them at first. Her dark eyes were wide behind her glasses as she slowly took in the room around her.
 
-Right there in the contiguous footprint of the walk-out basement stood the four sturdy, foldable queen-sized beds and the wide pull-out sectional sleeper, all made up with soft comforters and overlapping pillows. Along the main wall sat the shared dressers, the unhinged closet doorway widened for wheelchair turning clearance, the accessible card table holding Jordan's spare **Pinnacle Vanguard Pro** laptop and his dual-monitor **Precisionist 5000** desktop workstation, and Jordan's lightweight indoor manual chair parked right beside the center queen bed.
+Right there in the contiguous footprint of the walk-out basement stood the four sturdy, foldable queen-sized beds and the wide pull-out sectional sleeper, all made up with soft comforters and overlapping pillows. Along the main wall sat the shared dressers, the unhinged closet doorway widened for wheelchair turning clearance, the accessible card table holding Jordan's spare **Pinnacle Vanguard Pro** laptop and his dual-monitor **Precisionist 5000** desktop workstation, and Jordan's fourteen-pound custom titanium manual wheelchair—***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`)—parked right beside the center queen bed for tight indoor turns.
 
 In Bennett Hall, **Room 214** and **Room 216** had been university dorm rooms—cinderblock walls, standard-issue oak desks, and twin extra-long frames that belonged to Commonwealth Polytechnic Institute.
 
@@ -15527,13 +15538,13 @@ Last night had been about tears, relief, and a first kiss eleven months in the m
 
 This morning was about learning how to be **Jordan's** partner in the real, everyday physics of his life.
 
-"Alright, Izzy," **Lauren** said warmly as she, **Aubrie Jean**, and **Hannah** stood beside the center queen-sized bed where Jordan was sitting propped against the pillows in his pajama pants and t-shirt, with his lightweight indoor manual wheelchair parked close by and his **mPad** tablet resting beside his knee. "All last year across the hall, you saw the finished result whenever Jordan rolled out of Room 214. Today, we're going to teach you how we actually do his morning **ADLs**—Activities of Daily Living—together."
+"Alright, Izzy," **Lauren** said warmly as she, **Aubrie Jean**, and **Hannah** stood beside the center queen-sized bed where Jordan was sitting propped against the pillows in his pajama pants and t-shirt, with his fourteen-pound custom titanium manual wheelchair—***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`)—parked close by and his **mPad** tablet resting beside his knee. "All last year across the hall, you saw the finished result whenever Jordan rolled out of Room 214. Today, we're going to teach you how we actually do his morning **ADLs**—Activities of Daily Living—together."
 
 "I'm ready," Isabel said earnestly, stepping right up to the side of the mattress with her sleeves pushed up to her elbows. "Show me everything. I don't want to guess or do anything that hurts his joints."
 
 <aac>Rule number one,</aac> Jordan typed on the **mPad** resting beside his knee, smiling up at her. <aac>In this basement, nobody does things TO me like I'm a sack of luggage. We do it together as a team. Angles and leverage beat brute force every time.</aac>
 
-"First up is the **Forty-Five-Degree Pivot Transfer**," Aubrie Jean explained, grasping the handles of Jordan's indoor manual chair and wheeling it up to the left side of the queen mattress. "Watch the angle of the frame. You never park parallel at zero degrees if you can avoid it, and you never park perpendicular at ninety degrees—that makes the gap too wide. Forty-five degrees puts the front corner of the wheelchair cushion almost touching the edge of the mattress."
+"First up is the **Forty-Five-Degree Pivot Transfer**," Aubrie Jean explained, grasping the handles of ***Shuttlecraft Galileo*** and wheeling the custom titanium manual chair up to the left side of the queen mattress. "Watch the angle of the frame. You never park parallel at zero degrees if you can avoid it, and you never park perpendicular at ninety degrees—that makes the gap too wide. Forty-five degrees puts the front corner of the wheelchair cushion almost touching the edge of the mattress."
 
 Isabel leaned in closely, studying the geometry as Aubrie backed the manual chair half an inch forward and back so the small front caster wheels trailed straight behind the front frame stems, widening the base of support so the chair couldn't tip forward.
 
@@ -18079,7 +18090,7 @@ When the three-vehicle **`Rubber Duck` Convoy** turned onto **Geneva Street** in
 
 Waiting in the driveway beside **Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam** were **Garrett Reynolds** and **Kelsey Brennan**, who had driven down from Blacksburg with boxes of heart-healthy groceries and fresh pharmacy supplies to welcome him home.
 
-Because the exterior timber switchback ramp down to the walk-out basement patio was still slick with melting snow from Wednesday's blizzard, **Daniel** didn't want Jordan out in the freezing wind or risking a jolt to his freshly wired sternum. Instead, **Mark**, **Caleb**, **Owen**, and **Henry Walsh** formed a four-man **"human elevator"**—locking their hands beneath Jordan's old manual hospital wheelchair and carrying him down the warm, wide interior basement staircase as smoothly and levelly as a hospital lift, while **Garrett** and **Kelsey** carefully piloted Jordan's 350-pound motorized power chair—***S.S. Freedom***—down the cleared exterior ramp at Stage 1 crawl speed to the patio door so his beloved power chair was waiting for him inside.
+Because the exterior timber switchback ramp down to the walk-out basement patio was still slick with melting snow from Wednesday's blizzard, **Daniel** didn't want Jordan out in the freezing wind or risking a jolt to his freshly wired sternum. Instead, **Mark**, **Caleb**, **Owen**, and **Henry Walsh** formed a four-man **"human elevator"**—locking their hands beneath Jordan's fourteen-pound custom titanium manual wheelchair, ***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`), and carrying him down the warm, wide interior basement staircase as smoothly and levelly as a hospital lift, while **Garrett** and **Kelsey** carefully piloted Jordan's 350-pound motorized power chair—***S.S. Freedom***—down the cleared exterior ramp at Stage 1 crawl speed to the patio door so his beloved power chair was waiting for him inside.
 
 When Jordan eased onto the deep, plush cushions of the basement sectional sofa with his red plush **heart pillow** hugged to his chest and the familiar warm string lights glowing overhead, the sheer contrast between the sterile sixth-floor hospital room in Roanoke and his home sanctuary hit him all at once.
 
@@ -18187,7 +18198,7 @@ Even better, **Laura**, **Daniel**, **Hannah**, **Isabel**, and Zoë's eldest si
 - The whipped Yukon Gold mashed potatoes were made with roasted garlic, extra-virgin olive oil, and skim milk instead of heavy cream and salted butter.
 - The green bean casserole was made from scratch with fresh cremini mushrooms and low-sodium herb velouté, and the stuffing was packed with celery, sage, apples, and toasted pecans rather than salt.
 
-At `2:00 PM`, after **Caleb** and **Owen** carried Jordan up the interior stairs in his old manual hospital chair and **Mark** and **Garrett** drove ***S.S. Freedom*** up the exterior ramp to the front porch so Jordan could transfer back into his own motorized seat, Jordan drove ***S.S. Freedom*** right to the head of the massive, three-table extension running the length of the upstairs dining and living rooms—surrounded by **Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
+At `2:00 PM`, after **Caleb** and **Owen** carried Jordan up the interior stairs in his fourteen-pound custom titanium manual chair (***Shuttlecraft Galileo***) and **Mark** and **Garrett** drove ***S.S. Freedom*** up the exterior ramp to the front porch so Jordan could transfer back into his own motorized seat, Jordan drove ***S.S. Freedom*** right to the head of the massive, three-table extension running the length of the upstairs dining and living rooms—surrounded by **Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
 
 Only one guest at the table felt slightly out of place: **Alex**, a twenty-nine-year-old coworker from the logistics department of **Megan's** company whom Megan had met three weeks earlier at an autumn corporate mixer in Roanoke and invited to Thanksgiving dinner after their second date. All through the meal, while Alex was superficially polite, he sat stiffly at the edge of the table—looking at Jordan's wheelchair and the affectionate, close-knit warmth of the Brooks family as though he were observing a strange, inconvenient foreign culture.
 
@@ -18356,7 +18367,7 @@ Jordan was still sore along his wired breastbone, but the cold dread of being le
 
 One by one, the morning goodbye ritual unfolded around him. Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel leaned down in turn to give him soft, lingering romantic kisses and gentle hugs, followed by a firm, one-armed brotherly embrace from Mark.
 
-"Alright, J, let's get you set up for the morning," **Hannah** said with her trademark sisterly warmth, wheeling his old manual hospital chair into position for the tight bathroom turn and spotting his leg-driven pivot transfer from the mattress before assisting him with his morning routine in the accessible bathroom and settling him comfortably back onto the plush cushions of the sectional sofa.
+"Alright, J, let's get you set up for the morning," **Hannah** said with her trademark sisterly warmth, wheeling his fourteen-pound custom titanium manual chair—***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`)—into position for the tight bathroom turn and spotting his leg-driven pivot transfer from the mattress before assisting him with his morning routine in the accessible bathroom and settling him comfortably back onto the plush cushions of the sectional sofa.
 
 Just as Hannah finished tucking a soft fleece blanket across his lap at `5:42 AM`, the interior basement door opened and twenty-seven-year-old **Megan Brooks** walked down the stairs, wearing a comfortable cable-knit sweater and jeans with her work laptop bag slung over her shoulder.
 
@@ -18434,7 +18445,7 @@ At `10:15 AM`, the familiar, insistent pressure of his morning **`furosemide`** 
 
 <aac>Megan? I am really sorry to interrupt your work, but I need help getting to the toilet.</aac>
 
-Megan didn't hesitate for half a second. Saving her spreadsheet and standing up with an easy, reassuring smile, she walked straight over and wheeled his old manual hospital chair up to the edge of the sofa.
+Megan didn't hesitate for half a second. Saving her spreadsheet and standing up with an easy, reassuring smile, she walked straight over and wheeled his fourteen-pound custom titanium manual chair (***Shuttlecraft Galileo***) up to the edge of the sofa.
 
 "Zero bother at all, Jordan—that's literally why I'm working from here instead of my apartment," Megan said cheerfully, spotting his pivot transfer into the manual chair and wheeling him into the accessible basement bathroom. "Alright, tell me what you need—no strings attached, zero judgment."
 
@@ -18486,7 +18497,7 @@ Yet at `9:00 PM`, when bedtime arrived and **Aubrie Jean** announced it was time
 
 Megan's pulse jumped, but when she looked at Aubrie Jean, Madison, Isabel, and Lauren, she saw zero suspicion—only complete, welcoming trust.
 
-In the accessible basement bathroom, as **Hannah** and **Lauren** prepared to do their usual two-person transfer to move Jordan from his old manual hospital chair onto the padded shower bench, Megan paused, evaluating the geometry of his wired sternum.
+In the accessible basement bathroom, as **Hannah** and **Lauren** prepared to do their usual two-person transfer to move Jordan from ***Shuttlecraft Galileo*** onto the padded shower bench, Megan paused, evaluating the geometry of his wired sternum.
 
 "Hold on—let me try something so he doesn't get jostled between two people," Megan said. Stepping in front of Jordan's chair, she locked the brakes. "Rest your hands lightly on my shoulders, Jordan—don't push with your arms, let my legs do the work."
 
@@ -18524,7 +18535,7 @@ Aubrie Jean smiled a slow, knowing, deeply happy smile in the dark, kissing his 
 
 #### December 1, 2015 • 5:45 AM — Work Buddies at the Dining Table
 
-On **Tuesday morning, December 1, 2015**, as **Aubrie Jean** and **Madison** wheeled **Jordan** out of the accessible bathroom in his old manual hospital chair after his `5:30 AM` routine and started steering him back toward the sectional sofa, Jordan looked over at his matte-black ***S.S. Freedom*** power wheelchair—the 350-pound motorized machine that Daniel Brooks had bought in cash after Jordan picked it out himself—sitting parked by the wall. Holding up his hand, he tapped firmly on his **mPad**:
+On **Tuesday morning, December 1, 2015**, as **Aubrie Jean** and **Madison** wheeled **Jordan** out of the accessible bathroom in ***Shuttlecraft Galileo*** after his `5:30 AM` routine and started steering his custom titanium manual chair back toward the sectional sofa, Jordan looked over at his matte-black ***S.S. Freedom*** power wheelchair—the 350-pound motorized machine that Daniel Brooks had bought in cash alongside ***Shuttlecraft Galileo*** after Jordan picked out and configured both—sitting parked by the wall. Holding up his hand, he tapped firmly on his **mPad**:
 
 <aac>Wait—stop the chair, please. I do not want to lie on the sofa today. I am tired of being an invalid on the couch. Help me transfer into the S.S. Freedom so I can drive over to the dining table and sit up and work like a normal student.</aac>
 
@@ -18727,7 +18738,7 @@ Once the house quieted down, **Megan**—who had taken a paid personal day from 
 
 #### 8:15 AM — The Blue Disabled Parking Placard
 
-At `8:15 AM`, because Megan was driving her standard four-door sedan rather than Daniel's ramp-equipped minivan—meaning Jordan's 350-pound motorized ***S.S. Freedom*** power chair had to stay parked in the basement—Megan helped Jordan transfer into the front passenger seat of her car, positioned his red plush **heart pillow** squarely over his breastbone under the shoulder belt, folded his old manual hospital wheelchair into the trunk, and drove north up `U.S. Route 460` to **Commonwealth Polytechnic Institute**.
+At `8:15 AM`, because Megan was driving her standard four-door sedan rather than Daniel's ramp-equipped minivan—meaning Jordan's 350-pound motorized ***S.S. Freedom*** power chair had to stay parked in the basement—Megan helped Jordan transfer into the front passenger seat of her car, positioned his red plush **heart pillow** squarely over his breastbone under the shoulder belt, folded his fourteen-pound custom titanium manual wheelchair—***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`), which Daniel Brooks had bought in cash alongside ***S.S. Freedom*** specifically for tight spaces and standard car trunks—effortlessly into the trunk, and drove north up `U.S. Route 460` to **Commonwealth Polytechnic Institute**.
 
 Pulling onto the bustling campus with a pre-purchased visitor permit on the dash, Megan hung Jordan's brand-new blue **Virginia Disabled Parking Placard** from her rearview mirror.
 
@@ -18795,7 +18806,7 @@ Outside **Walton Hall**, the crisp December air was alive with the mid-morning c
 
 Jordan didn't tap a single word on the walk out. The triumphant adrenaline of the **`ENG 102`** presentation was draining rapidly out of his veins, leaving behind a hollow, aching realization that he hadn't prepared for.
 
-Megan unlocked the sedan, helped him execute his careful leg-driven pivot transfer into the front passenger bucket seat, settled his red plush **heart pillow** across his breastbone, and clicked the seatbelt securely over it. After folding his old manual hospital wheelchair into the trunk, she slid into the driver's seat, closed her door, and slipped the key into the ignition.
+Megan unlocked the sedan, helped him execute his careful leg-driven pivot transfer into the front passenger bucket seat, settled his red plush **heart pillow** across his breastbone, and clicked the seatbelt securely over it. After folding his fourteen-pound custom titanium manual wheelchair (***Shuttlecraft Galileo***) into the trunk, she slid into the driver's seat, closed her door, and slipped the key into the ignition.
 
 Before turning the key, Megan let out a happy breath and turned to smile at him. "Jordan, you did *so* good in there. I was so proud of you watching through the doorway."
 
@@ -18875,7 +18886,7 @@ Behind the wheel, **Megan** kept both hands on the leather rim as the last tremo
 
 *She didn't yell at me. She didn't panic and abandon me. She climbed right onto my lap, took all my strength into her hands, and saved my chest.*
 
-When they pulled into the driveway on Geneva Street, Megan didn't say a word—she simply helped him transfer into his old manual hospital wheelchair with gentle, unhurried care, wheeled him down the paved walk-out path to the basement patio doors, and brought him back inside the quiet sanctuary where his 350-pound motorized ***S.S. Freedom*** power chair was waiting.
+When they pulled into the driveway on Geneva Street, Megan didn't say a word—she simply unfolded ***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`) from the trunk, helped him transfer into his custom titanium manual wheelchair with gentle, unhurried care, wheeled him down the paved walk-out path to the basement patio doors, and brought him back inside the quiet sanctuary where his 350-pound motorized ***S.S. Freedom*** power chair was waiting.
 
 Inside the empty basement, Jordan sat in the center of the rug with his hands still trembling slightly from the aftershocks. Looking up at Megan with shining, tear-bright green eyes, he didn't just want a caregiver anymore. He wanted *her*.
 
