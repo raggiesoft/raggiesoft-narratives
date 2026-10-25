@@ -24756,7 +24756,7 @@ My processor hitched. For two years, physical proximity was never free. It was a
 
 "I understand exactly what you’re trying to get at," Kristin replied, her voice soft and entirely devoid of judgment. "No pressure. Just rest."
 
-She reached up and pulled the yellow stop-request cord as the massive, sprawling footprint of Crossway Plaza came into view. We stepped off the bus and walked across the wet asphalt toward the towering neon facade of Monarch Cinemas.
+She reached up and pulled the yellow stop-request cord as the massive, sprawling footprint of Crossway Plaza came into view. We stepped off the bus and walked across the wet asphalt toward the towering neon facade of Dominion Cinemas.
 
 Because it was early Wednesday afternoon, the massive theater lobby was essentially a ghost town.
 
@@ -24988,7 +24988,7 @@ A second later, Rachel stepped up to my left side. She wrapped her arm tightly a
 
 The dual physical affection from my sisters—the two most highly guarded, fiercely protective forces in my universe—was the final, irrefutable data point my black-and-white processor needed. The perimeter wasn't just secure; it was impenetrable. There were no hidden variables.
 
-I looked across the kitchen island at Kristin. She was leaning against the counter, holding an ice-cold soda, watching me with that same patient, steady gaze she had held in the dark of the Monarch Cinemas.
+I looked across the kitchen island at Kristin. She was leaning against the counter, holding an ice-cold soda, watching me with that same patient, steady gaze she had held in the dark of the Dominion Cinemas.
 
 I waited for the familiar, suffocating spike of panic to hit my chest. I waited for the trauma-wired instinct to tell me to run. But it didn't come. The ice had completely melted. The door she had pointed out to me in the theater wasn't just unlocked; I actively wanted to open it.
 
@@ -28899,4 +28899,208 @@ We stood there in a tight, impenetrable knot for a long time, the silence of the
 The Moosewood house was gone. The Dojang was dead. And as the crushing weight of the pack grounded me to the floor, I finally understood that there was absolutely nothing wrong with my brain.
 
 The Base Camp was secure.
+
+# Book 20: The Mountain Conference (SAACURC 2016)
+
+## Chapter 1: The Bear, The Bug, and The Forger
+
+### Part 1: The Clothespin Gauntlet & The Forger
+
+**Date:** 2016-02-13 at 09:15 America/New_York
+
+#### February 13, 2016 • 9:15 AM — The Melted Snow & The Automatic Door at 290 College Avenue
+
+The mountain air in Blacksburg didn't feel anything like the damp, salty winter wind coming off the Elizabeth River back home in Norfolk. At thirty-four degrees, it was crisp, dry, and sharp enough to sting the inside of my nose every time I took a breath.
+
+All along the concrete walkways of **Commonwealth Polytechnic Institute**, patches of mostly melted snow clung to the shaded edges of the grass where a winter storm had dusted the New River Valley two days earlier, contrasting sharply against the towering grey Ironstone facades of the campus buildings.
+
+I gripped the cold aluminum push-rims of my rented manual wheelchair through my winter gloves and kept a steady, measured pace along the sidewalk toward **Kincaid Student Center**.
+
+I wasn't normally a wheelchair user. If I were standing up on my own two feet in my brown hiking sneakers, I would have been five feet seven inches tall—the exact same height as my little sister **Rachel**, who was walking pressed so tightly against my left shoulder that the sleeve of her heavy winter parka brushed the frame of my chair with every step.
+
+Three weeks earlier, I had undergone a planned surgery back in Hampton Roads. My surgeon had only signed off on me making the four-hour trip west down `U.S. Route 460` and `I-81` with the **Virginia Dominion University (`VDU`)** Residence Hall Association delegation on one non-negotiable condition: zero long-distance campus walking and zero prolonged standing until my surgical stitches and core fascia were completely healed. That meant navigating the steep hillside topography of Blacksburg in a blue-upholstered standard manual wheelchair.
+
+After sixteen years of watching our older sister **Jessica** command a manual wheelchair like an armored tank—and remembering every physics lesson **Leo Porter** had taught us back in high school band about caster angles and threshold momentum—sitting in the chair myself was a strange, humbling shift in perspective. My upper arms were already feeling the burn of the long incline up from the hotel shuttle drop-off, and every concrete expansion joint sent a dull, rhythmic vibration straight up my spine.
+
+"Incline levels out in twenty feet, Bear," Rachel murmured quietly under her breath, her dark eyes scanning the pavement ahead of my front casters behind her rectangular glasses. Her fingers were hooked securely through the shoulder fabric of my dark navy-and-slate zip-up hoodie beneath my open winter coat, maintaining our closed-loop physical tether. "Sidewalk seam coming up on the left. Angle five degrees right."
+
+"Got it, Bug," I replied, shifting my weight slightly andfeathering the right push-rim to clear the lip without jarring my healing incision.
+
+Walking two paces ahead of us at the front of our twelve-person **VDU Admirals** delegation was our Residence Life RHA Advisor, **Kyleen**. Standing about five feet two inches tall in her rectangular glasses, winter coat, and a **Chesapeake Teal and Harbor Gold** VDU Housing & Residence Life staff polo, Kyleen was the ultimate institutional buffer. All around us, our fellow VDU student delegates were bundled up in Chesapeake Teal scarves and Harbor Gold knit beanies emblazoned with the golden fouled anchor of the **VDU Admirals**, their blue `SAACURC` conference lanyards swinging against their chests as they carried canvas tote bags stuffed with hundreds of hand-painted wooden clothespins.
+
+We reached the main plaza outside **`Kincaid Student Ctr`** at **`290 College Ave.`** Beside the heavy glass entrance doors stood a tall, maroon-and-white exterior directory sign listing the building's venues inside:
+
+- **`Haymarket Theatre`**
+- **`Commonwealth Ballroom`**
+- **`Colonial Hall`**
+- **`Food Court`**
+- **`BreakZONE`**
+
+Kyleen didn't let the rest of the delegation bottleneck the doorway. She stepped smoothly to the glass door marked with the yellow-and-blue **`AUTOMATIC CAUTION DOOR — ACTIVATE SWITCH TO OPERATE`** and **`PULL TO OPERATE`** decals, slapped the square stainless-steel handicap actuator plate on the brick column with her palm, and held the perimeter clear as the motorized door swung wide.
+
+"Smooth roll-in, Michael," Kyleen smiled, checking my clearance as I wheeled across the threshold with Rachel shadowed flush against my left hip. "Let's get checked into the ballroom before the morning roll call starts."
+
+***
+
+#### 9:45 AM — "HEY SAACURC!" in the Commonwealth Ballroom
+
+If you have never been inside a student-center ballroom packed with eight hundred Residence Hall Association delegates from forty universities across the South Atlantic region at nine-forty-five in the morning, the closest acoustic equivalent is standing inside an active jet engine while people throw wooden office supplies at your chest.
+
+The **`Commonwealth Ballroom`** was a sea of school colors, waving mascot banners, and unbridled extroversion. Every delegation had spent the past month painting wooden clothespins—"spirit pins"—to trade with delegates from other universities by clipping them onto each other's badge lanyards.
+
+Then someone from the host committee stepped up to the podium microphone and bellowed the traditional conference call-and-response check:
+
+**"HEY SAACURC!"**
+
+Eight hundred college students screamed back in deafening, bone-rattling unison:
+
+**"HEY, WHAT?!"**
+
+The concussive acoustic wave slammed into my chest like a physical wall.
+
+Instantly, my internal telemetry spiked from Green into high Yellow. Beside my left wheel, I felt Rachel's entire body go rigid. Her fingers locked like steel vices into the sleeve of my hoodie, her chin dropping toward her chest as the chaotic, unscripted noise threatened to lock her vocal cords and trigger a full situational shutdown.
+
+I didn't hesitate. I locked both wheel brakes on my manual chair, reached up with my left arm, and pulled Rachel down against the side of my frame in a deep, crushing one-armed hug—the **Bear and Bug Protocol** we had relied on since we were ten and eight years old.
+
+"I've got you, Bug," I said firmly against her ear, letting my solid frame absorb the tremor in her shoulders while my own eyes fixed on the geometric pattern of the carpet tiles to keep my processor from spinning out. "Just noise. Nobody's breaching the perimeter. Hold the frame."
+
+"Too many voices, Bear," Rachel whispered tightly against my collar, her breathing shallow as she pressed her forehead against my shoulder.
+
+Three feet away, **Kyleen** didn't miss a beat. She had spent enough semesters advising us at VDU to read our sensory baselines in half a second. She stepped directly between our corner of the table and a group of overly enthusiastic delegates charging over with a bucket of clothespins, intercepting them with a warm, professional smile before turning back to us.
+
+"Michael, Rachel—opening announcements don't actually start for twenty minutes, and it's a sauna in here," Kyleen said calmly, giving us an explicit, sanctioned operational exit. "Why don't we step out into the atrium lobby by the glass elevator so you two can catch some quiet air before the keynote?"
+
+The relief in Rachel's shoulders was instantaneous. I released my wheel brakes, pivoted a clean one-eighty on the low-pile ballroom carpet, and rolled out the double doors into the cool, high-ceilinged atrium of **Kincaid Student Center**, with Rachel walking stride-for-stride against my left wheel and Kyleen flanking our right.
+
+***
+
+#### 10:15 AM — The Statue of The Forger & The Other Pack
+
+The main atrium in front of the glass elevator shaft was fifty decibels quieter than the ballroom, lit by pale February sunlight filtering through the front glass doors.
+
+Right beside the glass elevator shaft stood one of CPI's most famous indoor landmarks: a life-sized, full-color painted statue of **`The Forger`**—the university's mascot, depicted as a muscular, bearded blacksmith in heavy work overalls standing over an iron anvil with a massive forging hammer gripped in his hands.
+
+I parked my wheelchair a few feet from the base of the statue, letting my shoulders drop an inch as the quiet hum of the elevator hydraulic pump replaced the roar of the ballroom. Rachel stayed standing right against my left armrest, her hand resting flat on my shoulder while she looked at the painted details on the blacksmith's anvil.
+
+"Look at the hammer weld lines, Bear," Rachel said softly, her voice returning now that the auditory wall was gone. "They actually textured the fiberglass to look like hand-beaten wrought iron."
+
+"Better than a fiberglass lion," I agreed, adjusting my glasses. "Though I still like our Admiral's anchor back at VDU."
+
+Just then, the glass elevator descended smoothly down the shaft behind the statue and chimed to a stop at the first-floor atrium.
+
+When the wide doors slid open, my analytical brain froze in sheer, fascinated recognition.
+
+Rolling out of the elevator first was a young man about our age with sandy-brown hair and rectangular glasses very similar to mine, seated in a beast of a matte-black, high-torque heavy-duty power wheelchair (`*S.S. Freedom*`) with a tablet computer mounted on an articulated carbon-fiber swing-arm angled directly toward his face.
+
+Rolling right behind him, wheel-to-wheel in perfect synchronized formation, were a young woman in a heavy-duty tilt-in-space power wheelchair controlled by a pneumatic sip-and-puff straw and a young man in a joystick power chair—and walking calmly beside their wheels in custom soft-rubber indoor grip boots and a burgundy velvet service harness was a twenty-eight-inch, silver-dapple **miniature horse** with a flaxen white mane.
+
+Surrounding the three wheelchairs was a tight, unmistakable perimeter: a tall, broad-shouldered guy in a CPI Forgers jacket (`Mark`), a six-foot-three blonde Amazon who looked like she could bench-press an engine block (`Jessica Gallagher`), a six-foot woman with long wavy coppery-red hair and wire-rimmed glasses (`Megan`), two women flanking the sandy-haired guy's power chair like dedicated wingmen (`Aubrie Jean` and `Madison`), three more young women moving in seamless coordination (`Zoë`, `Lauren`, and `Sarah`), a warm-eyed woman beside the tall guy (`Hannah`), and—leading the group across the lobby floor—a petite CPI Senior Resident Advisor (`~5'2"`, wearing rectangular glasses and a two-tone Foundry Maroon CPI Housing & Residence Life staff polo).
+
+Rachel's fingers tightened gently on my shoulder—not in panic, but in stunned awe.
+
+"Bear," Rachel whispered softly in my ear. "Look at their formation. They're a pack. Just like us and Jess."
+
+At the exact same moment, our VDU advisor **Kyleen** (`5'2"`, rectangular glasses, Chesapeake Teal VDU Residence Life polo) stopped dead in her tracks and stared at the CPI Senior RA (`5'2"`, rectangular glasses, Foundry Maroon CPI Residence Life polo).
+
+The CPI RA—whose name badge read **`ISABEL DAWSON — SENIOR RA, ALLEGHENY COMMONS`**—blinked behind her glasses, looked at Kyleen, looked down at her own polo, and burst out laughing.
+
+"Wait a second," Isabel laughed warmly, gesturing between her glasses and Kyleen's. "Are you the Residence Life advisor for VDU?! Did Housing clone us in different school colors?!"
+
+"Kyleen—Virginia Dominion University RHA Advisor," Kyleen grinned, shaking Isabel's hand as both groups halted beside the statue of **The Forger**. "I swear, every university Housing department on the East Coast recruits from the exact same template! Are you guys helping host `SAACURC`?"
+
+"I'm on the host logistics team for my building across the quad," Isabel smiled, before gesturing warmly to the group beside her. "And this is my family—my sister **Elana**, my cousin **Stephen**, her service horse **Stella**, my fiancé-in-the-making **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Megan**, **Mark**, and **Hannah**."
+
+"I'm **Michael Ragsdale**, and this is my sister **Rachel**," I said, extending my right hand as Jordan piloted his matte-black power chair smoothly up beside my manual chair. "We're RHA delegates from VDU in Norfolk."
+
+At the word *Norfolk*, I saw a micro-second flicker of memory cross Jordan's eyes behind his glasses—and then he looked down at my blue-upholstered manual wheelchair, noticed the way Rachel was anchored flush against my left shoulder, and his entire expression relaxed into a warm, genuine smile.
+
+His right hand moved deftly across the screen of his mounted tablet, and a clear, natural Australian male synthesized voice spoke from the speaker facing him:
+
+<aac>It is really great to meet you both, Michael and Rachel. Welcome to CPI. How was the drive up from Norfolk?</aac>
+
+Neither Rachel nor I blinked for a fraction of a second at the AAC tablet. Between **Leo Porter's** NovaVox in seventh-period percussion and Rachel spending her junior and senior years of high school typing her own thoughts into Quantum WritePad on her laptop whenever her situational mutism locked her throat, synthesized speech was home turf to us.
+
+In fact, seeing Jordan use an AAC tablet right in the middle of a student center atrium made Rachel's posture relax completely. She stepped half an inch forward, still keeping two fingers hooked in my hoodie sleeve, and spoke directly to Jordan in her clear, earned adult voice:
+
+"The mountain curves past Roanoke were a little steep, but our driver handled the grades well," Rachel said warmly. She looked down at the wooden clothespins clipped to our VDU lanyards, unclipped two hand-painted **Chesapeake Teal and Harbor Gold** pins featuring the golden fouled anchor of the **VDU Admirals**, and held them out toward Jordan and Isabel. "We painted extra spirit pins for the host school, if you'd like to trade—without anybody screaming *'Hey SAACURC'* at top volume."
+
+Jordan let out a quiet, breathy laugh, his eyes crinkling behind his glasses as he tapped his tablet:
+
+<aac>Deal. My ears are already thanking you.</aac>
+
+While Isabel and Aubrie Jean happily traded two Foundry Maroon **`CPI Forgers`** anvil clothespins from Isabel's duty pouch onto our lanyards—and while **Elana** tapped a cheerful greeting on her own swing-arm tablet via her sip-and-puff straw as **Stella** politely sniffed the toe of my brown hiking sneaker with her velvet muzzle—Kyleen held up her camera phone.
+
+"Come on, VDU and CPI!" Kyleen beamed. "Let's get a picture right here in front of **The Forger** and the glass elevator!"
+
+I parked my manual wheelchair right beside Jordan's matte-black `*S.S. Freedom*` power chair and Elana and Stephen's chairs directly in front of the bearded blacksmith statue and the glass elevator shaft, with Rachel tucked firmly against my left shoulder and Jordan's family framing the other side.
+
+For once, nobody had to tell me or Rachel to fake a smile.
+
+### Part 2: Forty Via C-Burg
+
+**Date:** 2016-02-13 at 11:00 America/New_York
+
+#### February 13, 2016 • 11:00 AM — The Universal Language of Transit
+
+After twenty minutes of quiet conversation in the atrium—where Jordan politely asked if I used a chair full-time and I explained that I was just three weeks post-op from a planned surgery and borrowing the manual rig until my surgeon cleared me to walk campus distances again, while mentioning that our older sister **Jess** used a manual chair full-time out in Seattle and here on the East Coast—both of our groups decided to step outside for ten minutes of fresh winter air before the eleven-thirty conference workshops began.
+
+I zipped my winter jacket up over my dark navy-and-slate hoodie, Rachel pulled her knit scarf snug around her neck, and we rolled out through the automatic handicap doors of **`Kincaid Student Ctr` (`290 College Ave.`)** onto the wide concrete plaza along **College Avenue**.
+
+Outside, the late-morning February sun was sparkling off the patches of mostly melted snow dotting the lawn between the grey Ironstone dormitories. The cold air felt amazing after the stuffy heat of the ballroom.
+
+And then, almost simultaneously, Jordan and I both stopped our wheelchairs at the edge of the sidewalk and turned our heads forty-five degrees toward the curb.
+
+Idling at the bus stop directly in front of the Ironstone residence halls across the street, just past the melting February snowbanks, sat a gleaming red-and-silver thirty-foot **`Prairie Coachworks Stalwart`** Low Floor transit bus operated by **Radford Transit**—Fleet Number **`#3202`**—with crisp amber LED matrix letters scrolling across its front destination headsign:
+
+**`40 VIA C-BURG`**
+
+Beside me, Jordan's hands flew across his mounted tablet with sudden, unmistakable enthusiasm:
+
+<aac>That is Radford Transit 3202. It is a thirty-foot Prairie Coachworks Stalwart Low Floor running Route 40 down to the Christiansburg hub.</aac>
+
+My eyebrows shot up behind my glasses. I looked from the red-and-silver bus back to Jordan, my analytical processor lighting up like a Christmas tree.
+
+"Wait a second," I said, grinning from ear to ear. "You know the fleet numbers and the chassis builders too?!"
+
+On Jordan's left, **Aubrie Jean** and **Madison** burst into delighted laughter, while on my left, **Rachel** smiled and nudged my shoulder.
+
+"Uh-oh," Rachel teased gently. "You just unlocked his primary database, Jordan. Between Hampton Roads transit routes and Seattle's **TAPS** grid, my brother can tell you the transmission gearing on a forty-foot low-floor coach just from the sound of the exhaust brake."
+
+"And Jordan and Madison have every **Blue Ridge Transit** and **Bluewater Transit** route in the New River Valley memorized down to the minute!" **Madison** chimed in proudly, adjusting her maroon scarf in the brisk wind.
+
+<aac>The thirty-foot Stalwart has a tighter turning radius for the campus roundabouts,</aac> Jordan tapped eagerly, his synthesized Australian voice brimming with geeky joy as we both watched Radford Transit `#3202` release its air brakes with a sharp pneumatic *pssshhh* and pull smoothly away from the snow-lined curb, <aac>but the forty-foot heavy-duty coaches have a much smoother hydraulic kneeling ramp angle and a wider dual wheelchair bay behind the front axle.</aac>
+
+"One hundred percent," I agreed wholeheartedly. "On a thirty-foot rig, if there's already one chair tied down in the front bay, trying to pivot a second frame around the wheel-well housing is a geometric nightmare."
+
+Across the sidewalk, the tall, quiet girl with the silver-streaked dark hair (**Zoë**) tilted her head, watching me and Jordan with an expression of deep, satisfied approval. "Fascinating," she observed calmly. "Two independent neurodivergent nodes from separate coastal and mountain networks converging instantly on low-floor municipal transit specifications. Compatibility index is one hundred percent."
+
+***
+
+#### 11:25 AM — Blue Ridge Transit #1920 & The Unspoken Nod
+
+Two minutes later, as we rolled slowly down the level sidewalk toward the corner of **College Avenue** where it met the downtown Blacksburg street grid, a deep, throaty diesel hum echoed off the brick storefronts.
+
+Turning smoothly through the intersection came a forty-foot **Blue Ridge Transit** coach—Fleet Number **`#1920`**—its cream, maroon, and slate livery gleaming in the winter sun and its front amber LED destination sign reading:
+
+**`NOT IN SERVICE`**
+
+Jordan and I both tracked the bus through the turn like radar dishes until its taillights disappeared down the block.
+
+"Now *that* is a proper forty-foot coach," I said approvingly.
+
+<aac>Blue Ridge Transit 1920,</aac> Jordan tapped with a grin. <aac>Probably deadheading back to the garage after the morning campus loop. We take Route 1 and the Forgers Shuttle between Christiansburg and Campus Mall almost every day.</aac>
+
+Kyleen glanced down at her watch and gave me and Rachel a gentle two-minute warning tap. "Hate to break up the transit engineering summit, you guys, but the `SAACURC` legislative committee session starts in ten minutes back inside Colonial Hall."
+
+"We'd better head back inside too," **Isabel** said warmly, checking on **Elana**, **Stephen**, and **Stella** as the miniature horse finished her stretch on the grass strip. "I've got a host-table check-in at noon before we head back over to Allegheny Commons."
+
+Before I spun my manual wheelchair back toward the automatic doors of **Kincaid Student Center**, Jordan rolled his matte-black power chair up beside mine and extended his right hand.
+
+I shook it firmly. Even through our winter gloves, the grip was steady, grounded, and real.
+
+<aac>I hope your recovery from surgery goes smoothly, Michael,</aac> Jordan's tablet spoke into the crisp mountain air. <aac>And I am really glad you and Rachel came to Blacksburg.</aac>
+
+"Thanks, Jordan," I said, looking from him to Aubrie Jean, Madison, Isabel, Mark, and the rest of his family standing shoulder-to-shoulder around his chair—just the way Rachel stood anchored against mine. "Take care of that rig. And if you guys ever make it back down to the coast on the right side of the bridge-tunnel, the first bus ride is on us."
+
+Rachel gave Aubrie Jean and Elana a warm wave, re-anchored her left hand securely onto the sleeve of my hoodie, and walked beside my wheel as we rolled back through the automatic glass doors of `290 College Avenue`—warmed from the inside out by the knowledge that our pack wasn't the only fortress of its kind in the world.
 
