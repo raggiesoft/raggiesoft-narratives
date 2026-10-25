@@ -15455,6 +15455,8 @@ Jordan rolled his chair right up beside her, reached out with his right hand, an
 
 **Date:** 2015-08-19 at 19:30 America/New_York
 
+![Inside the walk-out basement sanctuary at 414 Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks watch with warm, zero-jealousy smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p002/secret-everyone-already-knew.jpg)
+
 After a boisterous dinner upstairs around the main dining table—where **Daniel** and **Laura Brooks** toasted the courtroom victory with sparkling apple cider and **Isabel's** warm Blacksburg turnovers disappeared in less than ten minutes—the younger generation headed back down to the walk-out basement sanctuary for tea.
 
 Outside the wide sliding glass patio doors, the late-August twilight settled in purple and gold layers across the Blue Ridge hills, and the string of warm fairy lights **Madison** had draped along the basement ceiling beams cast a soft amber glow over the four queen beds and the wide sectional sofa.
@@ -15633,6 +15635,8 @@ Still glowing bright pink, Isabel looked down at Jordan's hand resting warmly ov
 ### Part 4: New River Hall Room 323 & Allegheny Commons Apartment 101
 
 **Date:** 2015-08-21 at 10:00 America/New_York
+
+![Outside the modern Ironstone entrance of New River Hall at Commonwealth Polytechnic Institute on Freshman Move-In Friday, Jordan Fuller in his matte-black S.S. Freedom power wheelchair and Senior RA Isabel Dawson in her maroon-and-white CPI polo welcome incoming freshman Systems Architects Elana Grace Dawson (in her sip-and-puff power chair) and Stephen Dawson alongside Stella, their twenty-eight-inch silver-dapple American Miniature Horse wearing her burgundy service harness and four non-slip neoprene campus boots.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg)
 
 On Friday morning, **August 21, 2015**—one calendar year minus a day since **Jordan Fuller** had been abandoned at the curb of **Washington Street SW** with a single suitcase and a broken manual wheelchair—Commonwealth Polytechnic Institute erupted into the brass-band fanfare and orange-vested bustle of **Freshman Move-In Friday**.
 
@@ -15913,6 +15917,8 @@ They had found their new normal.
 ### Part 3: Question The Rules: The Birth of Fin#
 
 **Date:** 2015-08-26 at 19:30 America/New_York
+
+![Around the oak dining table at 414 Geneva Street in Christiansburg, Zoë Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zoë and Aubrie Jean Kelly and Mark look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c001/p003/birth-of-finsharp.jpg)
 
 By Wednesday evening of their first week back at CPI—**August 26, 2015**—the **`6:00 AM` Blue Ridge Transit Route 1** commute had settled into a smooth, frictionless routine. Two mornings in a row, Jordan had rolled *S.S. Freedom* straight up the low-floor pneumatic kneel ramp at the Christiansburg Transit Center, rode forty-five minutes up Business 460 in a warm cabin, waited a mere fifteen minutes at **Commonwealth Mall**, and rolled across the street into **Kincaid Commons** the second the magnetic locks clicked open at `7:00 AM`.
 
@@ -17145,6 +17151,8 @@ Lauren looked up from the sofa, forcing a brave, watery smile through her exhaus
 
 **Date:** 2015-11-13 at 21:00 America/New_York
 
+![Inside dimly lit Room 312 at New River Valley Medical Center at midnight under the cyan glow of the cardiac telemetry monitor, Aubrie Jean Kelly leans tenderly over the lowered hospital bed rail in her flannel pajamas to bury her face in Jordan Fuller's shoulder as Jordan holds her close with his left arm.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c003/p005/midnight-vitals-first-watch.jpg)
+
 #### 9:00 PM — The First Watch
 
 The evening dragged on to the steady, mechanical *beep... beep... beep* of the cardiac monitor above **Jordan's** bed. As nine o'clock approached and visiting hours ended on the step-down floor, it was clear that no transfer call from **Star City General Hospital** in Roanoke was coming tonight.
@@ -17939,6 +17947,8 @@ Instantly, the screen lit up with a three-way conference window: the warm, glowi
 
 **Date:** 2015-11-18 at 21:30 America/New_York
 
+![Inside sixth-floor Room 618 at Star City General Hospital in Roanoke as November snow swirls outside the dark window and the cardiac telemetry monitor displays 88 BPM Normal Sinus Rhythm, Zoë Wren Brooks in her CPI hoodie and flannel pajama pants leans gently over the lowered bed rail to cup Jordan Fuller's cheek for their very first romantic kiss under Protocol: Intimacy.v2 while Jordan rests his hands lightly on his red plush heart pillow.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c005/p003/cvicu-romance-intimacy-v2.jpg)
+
 By `9:30 PM`, the dinner trays had been cleared, the nine o'clock vitals check and medications were finished, the video call had ended with a chorus of goodnights, and the main overhead lights in **Room 618** were dimmed, leaving only the soft amber glow of the bedside lamp and the quiet, hypnotic swirl of snowflakes brushing against the sixth-floor windowpane.
 
 Zoë had changed into a soft CPI Computer Science hoodie and flannel pajama pants and pulled the reclined sleeper chair right up beside the left rail of Jordan's bed, her fingers laced gently through his left hand.
@@ -18050,6 +18060,8 @@ Now, after the post-operative diuresis had flushed out the excess fluid from the
 
 **Date:** 2015-11-20 at 10:30 America/New_York
 
+![In the warm amber glow of a bedside Himalayan salt lamp in the Geneva Street walk-out basement sanctuary, twenty-one-year-old Isabel Dawson lies cautiously along the far right edge of the king-sized bed on her very first night ever spending the night at Geneva Street, blushing warmly as Jordan Fuller—propped on wedge pillows in button-front flannel pajamas with his red plush heart pillow and a protective gray bolster pillow behind them—reaches across the sheet to hold her hand.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c006/p001/isabel-first-night-sternal-watch.jpg)
+
 #### November 20, 2015 • 10:30 AM — The Discharge Argument
 
 On **Friday morning, November 20, 2015**, the sun broke dazzlingly clear over the snow-covered Blue Ridge Mountains, `Interstate 81` reopened in both directions, and **Dr. Hassan** walked into **Room 618** after morning rounds with a thick white three-ring binder in his hands: Jordan's official **Star City Heart Institute Discharge & Sternal Precautions Binder**.
@@ -18149,9 +18161,9 @@ By unanimous agreement of the Pact, **Aubrie Jean**—his original anchor from R
 
 After **Aubrie Jean** took Friday night and **Madison** took Saturday night on the one-partner sternal rotation, **Sunday evening, November 22, 2015**, arrived.
 
-Up on campus, the pre-Thanksgiving exodus was already underway—her younger sister **Elana**, cousin **Stephen**, and **Stella** had been picked up from New River Hall by their parents for the holiday week, and **Isabel's** weekend Senior RA duty rotation at **Allegheny Commons** had officially ended at `6:00 PM`. For the very first time in her entire life, Isabel didn't have to catch an evening ride back to `Apartment 101` to sleep.
+Up on campus, the pre-Thanksgiving exodus was already underway—her younger sister **Elana**, cousin **Stephen**, and **Stella** had been picked up from New River Hall by their parents for the holiday week, and **Isabel's** weekend Senior RA duty rotation at **Allegheny Commons** had officially ended at `6:00 PM`. When her parents **Greg** and **Becca Dawson**, Uncle **Andy**, and **Gran Thornton** had stopped by campus that afternoon to load Elana and Stephen's van, they had hugged Isabel tightly and given her their unconditional blessing to stay in Christiansburg for the holiday (*"Jordan just had open-heart surgery six days ago, Izzy—you belong right there by his side this week, and we'll video-call you on Thursday before the turkey gets carved!"*).
 
-At `7:30 PM`, she walked down the basement stairs at **414 Geneva Street** carrying a packed overnight duffel bag over her shoulder—ready to spend her very first night ever under the Geneva Street roof. After helping **Lauren** and **Hannah** with Jordan's `8:30 PM` sponge-bath protocol and getting him settled against the wedge pillows in the center of the custom king-sized bed in his soft button-front flannel pajamas, Isabel changed into her maroon CPI Nursing t-shirt and plaid pajama pants.
+At `7:30 PM`, she walked down the basement stairs at **414 Geneva Street** carrying a packed week-long duffel bag over her shoulder—ready not only to spend her very first night ever under the Geneva Street roof, but to spend her **very first Thanksgiving away from Charlottesville** right here with Jordan and the Brooks family. After helping **Lauren** and **Hannah** with Jordan's `8:30 PM` sponge-bath protocol and getting him settled against the wedge pillows in the center of the custom king-sized bed in his soft button-front flannel pajamas, Isabel changed into her maroon CPI Nursing t-shirt and plaid pajama pants.
 
 At `9:30 PM`, as the basement lamps were dimmed for the night, Isabel naturally walked over to set her overnight bag and pillow down at the foot of the adjacent queen bed, assuming **Zoë** or **Lauren** was next in line for the king bed.
 
@@ -18256,7 +18268,7 @@ Even better, **Laura**, **Daniel**, **Hannah**, **Isabel**, and Zoë's eldest si
 - The whipped Yukon Gold mashed potatoes were made with roasted garlic, extra-virgin olive oil, and skim milk instead of heavy cream and salted butter.
 - The green bean casserole was made from scratch with fresh cremini mushrooms and low-sodium herb velouté, and the stuffing was packed with celery, sage, apples, and toasted pecans rather than salt.
 
-At `2:00 PM`, after **Caleb** and **Owen** carried Jordan up the interior stairs in his fourteen-pound custom titanium manual chair (***Shuttlecraft Galileo***) and **Mark** and **Garrett** drove ***S.S. Freedom*** up the exterior ramp to the front porch so Jordan could transfer back into his own motorized seat, Jordan drove ***S.S. Freedom*** right to the head of the massive, three-table extension running the length of the upstairs dining and living rooms—surrounded by **Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
+At `2:00 PM`, after **Caleb** and **Owen** carried Jordan up the interior stairs in his fourteen-pound custom titanium manual chair (***Shuttlecraft Galileo***) and **Mark** and **Garrett** drove ***S.S. Freedom*** up the exterior ramp to the front porch so Jordan could transfer back into his own motorized seat, Jordan drove ***S.S. Freedom*** right to the head of the massive, three-table extension running the length of the upstairs dining and living rooms—surrounded by **Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**—who was celebrating her very first Thanksgiving away from Charlottesville after a joyful morning video call with her parents, Elana, Stephen, and Stella, and who sat beaming right beside Jordan's left armrest), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
 
 Only one guest at the table felt slightly out of place: **Alex**, a twenty-nine-year-old coworker from the logistics department of **Megan's** company whom Megan had met three weeks earlier at an autumn corporate mixer in Roanoke and invited to Thanksgiving dinner after their second date. All through the meal, while Alex was superficially polite, he sat stiffly at the edge of the table—looking at Jordan's wheelchair and the affectionate, close-knit warmth of the Brooks family as though he were observing a strange, inconvenient foreign culture.
 
@@ -18378,6 +18390,8 @@ All Saturday morning, he refused to watch movies, working instead for two focuse
 ### Part 1: The Caregiver Handoff (Enter Megan) & Work Buddies
 
 **Date:** 2015-11-29 at 19:00 America/New_York
+
+![At the sunlit oak dining table in the 414 Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller—who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow—behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c007/p001/megan-jordan-work-buddies.jpg)
 
 #### November 29, 2015 • 7:00 PM — The Caregiver Handoff (Enter Megan)
 
@@ -18772,6 +18786,8 @@ Jordan tilted his head curiously.
 
 **Date:** 2015-12-09 at 08:00 America/New_York
 
+![Inside a Walton Hall classroom at Commonwealth Polytechnic Institute in front of a projected CPI Campus Accessibility GIS Map, Jordan Fuller sits upright in his fourteen-pound brushed-titanium Shuttlecraft Galileo manual wheelchair in an Oxford shirt and navy sweater vest, hugging his red plush heart pillow with his left arm while tapping his mPad held at eye level by Hannah Parker, as teammates Zoë Wren Brooks and Mark stand proudly behind him and Isabel Dawson, Madison Scott, and Aubrie Jean Kelly applaud.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c008/p001/walton-hall-comeback-presentation.jpg)
+
 #### 8:00 AM — Morning Prep on Geneva Street
 
 On **Wednesday morning, December 9, 2015**, the `5:15 AM` alarms didn't just signal another day of basement recovery. Today was **Jordan's** comeback. Today was his **`ENG 102`** final presentation in **Walton Hall**.
@@ -19012,6 +19028,8 @@ Ducking out of the mixer at `8:45 PM`, Megan drove straight back down `I-81 Sout
 
 **Date:** 2015-12-25 at 21:30 America/New_York
 
+![On Boxing Day morning in the sunlit walk-out basement sanctuary at 414 Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Isabel Dawson, and Lauren Barnes.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p001/boxing-day-megan-first-kiss.jpg)
+
 #### December 25, 2015 • 9:30 PM — The Christmas Night Invitation
 
 **Christmas Day—Friday, December 25, 2015—**at **414 Geneva Street** was loud, chaotic, and overflowing with warmth.
@@ -19223,6 +19241,8 @@ Taking a deep breath, twenty-seven-year-old Megan pulled her pajama top over her
 ### Part 2: Jordan Shawn Kelly & The Double Wedding Proposal
 
 **Date:** 2015-12-27 at 19:30 America/New_York
+
+![In the glowing walk-out basement sanctuary at 414 Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zoë, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p002/jordan-shawn-kelly-double-wedding.jpg)
 
 #### 7:30 PM — A Legal Firewall for Jordan
 
