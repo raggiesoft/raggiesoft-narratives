@@ -17892,16 +17892,16 @@ Zoë stopped on the brick path of the Academic Mall, her eyes widening behind he
 ```zoe-log
 ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — ALERT: Class(ACIS_3115) == CANCELED. Meteorological_Front(Blizzard_Warning) arriving 12 hours ahead of forecast. Interstate_81 closure probability after 16:00 EST == 94.6%. 11-18-2015 12:48:32
 ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Hypothesis: If Self waits for Agent(Daniel) to return to Blacksburg, I-81 will close and Thread 3 (Jordan) will be left ALONE overnight in Star_City_General_Hospital. Unacceptable outcome! 11-18-2015 12:48:35
-ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Immediate_Transit_Intercept: Sprint to CPI.North_End_Transit_Center -> Board 13:15 RVT_Roanoke_Express (Coach #402) to Roanoke.Campbell_Court -> Transfer to Valley_Metro_Route_51 -> Star_City_General_Hospital. 11-18-2015 12:48:38
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Execute Immediate_Transit_Intercept: Sprint to CPI.Commonwealth_Mall -> Board 13:15 RVT_Roanoke_Express (Coach #402) to Roanoke_Transit_Center -> Transfer to RVT_Route_51 -> Star_City_General_Hospital. 11-18-2015 12:48:38
 ```
 
-With her overnight duffle already packed in her locker at the transit hub, Zoë sprinted to the **North End Transit Center** and tapped her pass onto the `1:15 PM` **RVT Roanoke Express** highway coach six minutes before the doors hissed shut.
+With her overnight duffle already packed in her locker in Kincaid Hall, Zoë sprinted out to the curbside bus lineup along **Commonwealth Mall** and tapped her pass onto the `1:15 PM` **RVT Roanoke Express** highway coach six minutes before the doors hissed shut.
 
-As the express coach climbed **Christiansburg Mountain** and descended **`Interstate 81 North`** toward Salem and Roanoke, the sky turned the color of bruised lead and the first horizontal sheets of heavy, blinding snow slammed across the windshield. At downtown Roanoke's **Campbell Court** terminal, Zoë transferred seamlessly onto the local **`#51` hospital shuttle**, stepping off at **Star City General Hospital** and walking into **Room 618** at `2:55 PM`—her coat dusted with snow, four hours ahead of schedule!
+As the express coach climbed **Christiansburg Mountain** and descended **`Interstate 81 North`** toward Salem and Roanoke, the sky turned the color of bruised lead and the first horizontal sheets of heavy, blinding snow slammed across the windshield. At the downtown **Roanoke Transit Center**, Zoë transferred seamlessly onto the local **RVT Route 51 hospital shuttle**, stepping off at **Star City General Hospital** and walking into **Room 618** at `2:55 PM`—her coat dusted with snow, four hours ahead of schedule!
 
 "Zoë?!" **Laura** gasped, rising from the bedside chair as **Jordan's** face lit up against his pillows. "How on earth did you get here so fast?!"
 
-"My afternoon seminar was canceled because the blizzard hit twelve hours early, so I intercepted the `1:15 PM` Roanoke Express bus and transferred at Campbell Court," Zoë announced calmly, setting her duffle bag down and shaking the snow off her scarf. She looked straight at her parents. "Mom, Dad—the snow is already accumulating on the Afton and Christiansburg mountain grades, and VDOT is preparing to shut down **Interstate 81** between Exit 118 and Exit 140. Since the hospital only allows **one** person to stay overnight with Jordan anyway, you two need to leave *right now* while the minivan can still get over the mountain safely. I have the watch."
+"My afternoon seminar was canceled because the blizzard hit twelve hours early, so I intercepted the `1:15 PM` RVT Roanoke Express bus on Commonwealth Mall and transferred at the Roanoke Transit Center," Zoë announced calmly, setting her duffle bag down and shaking the snow off her scarf. She looked straight at her parents. "Mom, Dad—the snow is already accumulating on the Afton and Christiansburg mountain grades, and VDOT is preparing to shut down **Interstate 81** between Exit 118 and Exit 140. Since the hospital only allows **one** person to stay overnight with Jordan anyway, you two need to leave *right now* while the minivan can still get over the mountain safely. I have the watch."
 
 Daniel glanced out the sixth-floor window at the swirling whiteout engulfing the Roanoke Valley, then looked at his youngest daughter with deep, unmistakable pride.
 
@@ -18092,7 +18092,7 @@ As the discharge nurse wheeled Jordan in a hospital chair toward the sixth-floor
 
 Looking up at Daniel, who had just taken the entire week off work and driven back and forth to Roanoke in the snow, Jordan tapped hesitantly on his **mPad**:
 
-<aac>Daniel, you and Mark and Henry have already driven so many miles for me this week. Zoë and I know the bus route now—we could just take the Route 51 bus to Campbell Court and ride the RVT Roanoke Express back to Blacksburg so you do not have to haul all of my gear.</aac>
+<aac>Daniel, you and Mark and Henry have already driven so many miles for me this week. Zoë and I know the bus route now—we could just take the RVT Route 51 bus to the Roanoke Transit Center and ride the RVT Roanoke Express back to Christiansburg Transit Center so you do not have to haul all of my gear.</aac>
 
 Every single person in the elevator lobby stopped dead in their tracks.
 
@@ -19385,9 +19385,9 @@ Fall 2015 had tried to break his heart.
 
 Instead, his family had built him an unbreakable one.
 
-# Episode 7: Spring 2016
+# Spring Semester 2016
 
-## Chapter 1: Off Precautions & Megan's First Night
+## Off Precautions & Megan's First Night
 
 ### Twelve Weeks Clear & The Eighth Point of the Constellation
 
@@ -19452,111 +19452,109 @@ Jordan smiled warmly, his eyes clear even at close range as he reached up with b
 
 Later that night, at ten-thirty, when the basement door clicked open and **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** padded quietly back downstairs in their pajamas, there was no more single-partner sternal quarantine. For the first time since September, all eight women of the **Constellation Pact** climbed onto the massive pushed-together mattress island around Jordan—**Megan** curled blissfully against his right side, **Aubrie Jean** against his left, and his entire family tangled together in the warm, unbroken safety of their sanctuary.
 
-## Chapter 2: HEY SAACURC! & The Bear and the Bug
+## HEY SAACURC! & The Bear and the Bug
 
-### The Bear, The Bug, and The Forger
+### The Friday Arrival & The Bus to Christiansburg
 
-**Date:** 2016-02-13 at 10:00 America/New_York
+**Date:** 2016-02-12 16:15
 
-#### February 13, 2016 • 10:00 AM — Senior RA Isabel & The Conference at Kincaid Student Center
+#### 4:15 PM — Two Different Branches on College Avenue
 
-On **Saturday morning, February 13, 2016**, the brisk winter air of Blacksburg smelled of pine needles and melting snow as **Jordan** piloted `*S.S. Freedom*` across the upper quad toward **`Kincaid Student Center`** (`290 College Ave.`), surrounded by **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Megan**, **Mark**, and **Hannah**, alongside **Elana Grace Dawson** in her heavy-duty sip-and-puff power chair, **Stephen Dawson** in his joystick power chair, and **Stella** trotting calmly in her burgundy service harness and soft-rubber indoor grip boots.
+Friday afternoon, February 12, 2016 was crisp and cold across the 2,100-foot plateau of Blacksburg. A winter storm two days earlier had blanketed the New River Valley in four inches of snow; by Friday afternoon, the brick walkways and asphalt lanes were dry and salted, while patches of mostly melted white snow still clung to the shaded grass along **College Avenue** and **Commonwealth Mall**.
 
-Walking at the head of their group in her rectangular glasses and two-tone Foundry Maroon CPI Housing & Residence Life staff polo under her winter coat was **Isabel**.
+With their Friday afternoon classes finished for the week, **Jordan** rolled briskly in his `Tilite Aero Z` alongside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Mark**, **Hannah**, and **Isabel**, heading past **The Hotel at Poly** and **Kincaid Student Center** (`290 College Ave.`) toward the curbside bus lineup on **Commonwealth Mall** to catch their bus back to the **Christiansburg Transit Center** and `414 Geneva Street`.
 
-All weekend long, **Commonwealth Polytechnic Institute** was hosting the annual **`SAACURC`** (*South Atlantic Affiliate of College and University Residence Councils*) regional conference.
+As they passed the wide brick circular drive of **The Hotel at Poly**—the university conference hotel directly adjacent to campus—the sidewalk was suddenly buzzing with fifteen-passenger university vans, rolling suitcases, painted fabric banners, and dozens of bundled-up college students wearing lanyards and colorful winter parkas loaded with painted wooden clothespins.
 
-"Wait—Izzy, help me keep the acronyms straight," **Madison** laughed as they rolled past the patches of mostly melted snow clinging to the grass beside the grey Ironstone buildings from Thursday's snowfall. "Last February, when you and Garrett went to the Hotel Roanoke and brought back all those painted clothespins for our suite, that was `CACUHO`, right?"
+Across the street at the entrance to **Kincaid Student Center**, a massive maroon-and-orange welcome banner billowed between two stone columns:
 
-"Right!" Isabel smiled, holding up her maroon host-staff clipboard. "**`CACUHO`**—the *Commonwealth Association of College and University Housing Officers*—is strictly for **Housing & Residence Life staff**: RAs, Residence Directors, and Housing administrators. **`SAACURC`** is completely separate—it's run by and for **student-led Residence Hall Associations (`RHAs`)** from universities all across the South Atlantic, accompanied by their Residence Life RHA advisors. The two organizations don't intermingle at each other's conferences, and since CPI won the host bid for `SAACURC 2016`, our Senior RAs are helping run building logistics at Kincaid Student Center today while Elana and Stephen check out the campus accessibility showcase!"
+> **WELCOME TO COMMONWEALTH POLYTECHNIC INSTITUTE!**<br>
+> **SAACURC 2016 REGIONAL STUDENT LEADERSHIP CONFERENCE**<br>
+> ***South Atlantic Affiliate of College and University Residence Halls***<br>
+> **February 12–14, 2016 • Kincaid Student Center (`290 College Ave.`)**
 
-```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Taxonomy_Verification: Conference_Entity("CACUHO") == Staff_Only(RAs, Hall_Directors, Housing_Officers); Conference_Entity("SAACURC") == Student_RHA_Delegates + Faculty_Advisors. Zero organizational overlap confirmed. 02-13-2016 10:08:19
+"Whoa, wait a second," **Madison** laughed, glancing from the banner outside Kincaid Student Center back toward the vans unloading at **The Hotel at Poly**. "Didn't we already do the clothespin conference last spring when Jordan, Mark, and Zoë presented at `CACUHO`? Why isn't Isabel working the check-in desk today?"
+
+"Because `CACUHO` and `SAACURC` are two completely different branches of the housing world, run by two completely separate entities—and they don't intermingle at all," **Isabel** explained with a warm smile, adjusting her maroon scarf against the February breeze. "`CACUHO`—the *Commonwealth Association of College and University Housing Officers* that we hosted last March—is the professional Housing and Residence Life organization for university housing staff and hired RAs. **`SAACURC`**, on the other hand, is strictly the student-governed **Residence Hall Association (`RHA`)** branch, where **every single RHA position is elected by on-campus residents**."
+
+"Affirmative," **Zoë** added, her eyes scanning the arrival logistics outside **The Hotel at Poly**. "Unlike RA staff who are employed by the university, `RHA` executive officers and hall council representatives are democratically elected by the students living in the dorms. The visiting delegations from across the region arrive tonight—Friday night—to check into **The Hotel at Poly**, unless their campus is close enough for a short daily commute like **Radford University** fifteen minutes away. Then the conference sessions run all day Saturday and Sunday morning inside Kincaid Student Center, wrapping up Sunday afternoon with a closing lunch and awards ceremony before the delegations drive back to their home campuses."
+
+<aac>"And since we all live off campus at 414 Geneva Street in Christiansburg now,"</aac> Jordan tapped on his `mPad` with an amused grin as he steered around a cluster of suitcases on the sidewalk, <aac>"none of us are eligible to vote in RHA elections or attend SAACURC. We are officially off-campus commuters heading home for Friday night dinner."</aac>
+
+"And thank goodness for that," **Mark** chuckled, wrapping an arm around **Hannah**’s shoulders. "Last spring's clothespin ambush was plenty for one college career!"
+
+---
+
+#### 4:25 PM — The Bear, The Bug, and the Curb on Commonwealth Mall
+
+As the ten of them rounded the corner from **The Hotel at Poly** onto the wide sidewalk of **Commonwealth Mall** beneath the limestone arch of **The Keystone Bridge** across from **Kincaid Hall**, another visiting delegation was crossing from the hotel's accessible ground-floor wing toward Kincaid Student Center to pick up their Friday evening registration packets.
+
+Even in the sea of collegiate colors along the sidewalk, their winter gear stood out immediately: deep, rich **`Chesapeake Teal`** (`#005F6A`) and bright **`Harbor Gold`** (`#D4AF37`), embroidered with the distinctive emblem of an eighteenth-century Chesapeake naval Admiral and a golden fouled anchor—the delegation from **Virginia Dominion University (`VDU`)** in Norfolk, accompanied by their **VDU RHA Advisor** (`Kyleen`) and four student delegates carrying a rolled `VDU ADMIRALS RHA` banner.
+
+Right at the center of the VDU group rolled a young man of about twenty-one (`Michael`)—the exact same `5'7"` frame as the young woman walking beside him if he were standing—with short dark brown hair and rectangular glasses, bundled up in a heavy `Chesapeake Teal` and `Harbor Gold` **VDU Admirals** winter parka over a collar bearing an embroidered **`VDU RHA • DIRECTOR OF OPERATIONS`** badge. He was propelling a blue-upholstered manual wheelchair with the careful, deliberate upper-body cadence of someone who was not normally a permanent wheelchair user, but was temporarily using the chair while recovering from a planned surgery.
+
+Walking right beside his right wheel—so close that their shoulders brushed in effortless, lifelong synchronization—was his sister (`Rachel`), also `5'7"`, with warm brown hair, gentle eyes, and a matching `Chesapeake Teal` winter coat and `Harbor Gold` knit scarf over her **`VDU RHA • SECRETARY`** sweater. She had dozens of painted wooden clothespins clipped along the strap of her messenger bag, and her left hand rested lightly and protectively on his right push-handle as they navigated the salted curb cut past the patches of melting snow.
+
+Just as both groups reached the **Commonwealth Mall** crosswalk—where there were **no dedicated bus bays**, and buses from every transit agency in the New River Valley simply pulled up and lined up one behind the other along the curb—two buses rumbled into view beneath **The Keystone Bridge**.
+
+Pulling up first at the front of the curb line was a thirty-foot low-floor **Radford Transit** bus (`Unit 104`), its amber LED destination sign cycling between:
+
+```
+RADFORD CONNECTOR
 ```
 
-Rolling up to the second-floor hillside plaza entrance of **Kincaid Student Center**, the group took the oversized glass atrium elevator down to the first floor—where the muffled, thunderous roar of eight hundred student delegates chanting **`"HEY SAACURC!"`** $\rightarrow$ **`"HEY, WHAT?!"`** echoed from the double doors of the **`Commonwealth Ballroom`** down the hall.
+and:
 
-***
-
-#### 10:15 AM — The Statue of The Forger & The Delegates From VDU
-
-When the glass elevator doors slid open on the first floor—directly behind the life-sized painted fiberglass statue of **`The Forger`**, CPI's bearded blacksmith mascot gripping his hammer over an iron anvil—Jordan steered `*S.S. Freedom*` out into the quiet atrium lobby and paused in pleasant surprise.
-
-Parked right beside the base of **The Forger** statue was a young man about Jordan's age (`5'7"` if he were standing) with sandy-blond hair and rectangular glasses very much like Jordan's, seated in a blue-upholstered manual wheelchair and wearing a dark two-tone navy-and-slate zip-up hoodie under his winter coat over a **Chesapeake Teal and Harbor Gold** shirt bearing the golden fouled anchor of the **`Virginia Dominion University (VDU) Admirals`**.
-
-Standing pressed flush against his left wheelchair frame—her hand anchored securely to the sleeve of his hoodie in a practiced, unbreakable protective posture that Jordan recognized in his bones—was a young woman of the exact same five-foot-seven height with dark hair pulled into a bun and rectangular glasses.
-
-And standing two feet to their right was their `VDU` Residence Life RHA Advisor—a petite woman (`~5'2"`) wearing rectangular glasses and a Chesapeake Teal VDU Residence Life staff polo who looked so uncannily like **Isabel Dawson** in a parallel-universe color scheme that both **Mark** and **Isabel** stopped dead in their tracks.
-
-"Wait a second," Isabel burst out laughing, pointing between her own glasses and the VDU advisor's glasses. "Are you the Residence Life advisor for VDU?! Did Housing clone us in different school colors?!"
-
-"Kyleen—Virginia Dominion University RHA Advisor," **Kyleen** grinned, shaking Isabel's hand warmly as both groups converged around the statue of **The Forger**. "I swear, every university Housing department on the East Coast recruits from the exact same template! Are you guys helping host `SAACURC`?"
-
-"I'm on the host logistics team for Allegheny Commons across the quad," Isabel beamed, introducing **Elana**, **Stephen**, **Stella**, **Jordan**, and the entire Constellation Pact.
-
-"I'm **Michael Ragsdale**, and this is my sister **Rachel**," the young man in the manual wheelchair said warmly, extending his right hand to Jordan. "We're RHA delegates from **VDU** in Norfolk."
-
-For half a heartbeat, hearing the words *VDU* and *Norfolk* echoed inside Jordan's chest. Seventeen months earlier, during Freshman Homecoming (`September 2014`), seeing **`VDU ADMIRALS`** on the scoreboard at The Crucible had triggered a devastating emotional collapse because his mother had taught him to fear everything connected to the Hampton Roads coast.
-
-Now, looking across the sunlit atrium at **Michael** and **Rachel**—seeing the gentle, analytical steadiness in Michael's eyes behind his glasses and the fiercely loyal way Rachel stayed physically anchored to her brother's wheelchair frame to buffer the loud conference building—Jordan felt the very last ghost of that old Homecoming trigger dissolve into thin air. Norfolk wasn't his mother's domain anymore. Good, safe people lived there too.
-
-Smiling warmly, Jordan shook Michael's hand and tapped across the screen of his mounted **mPad**:
-
-<aac>It is really great to meet you both, Michael and Rachel. Welcome to CPI. How was the drive up from Norfolk?</aac>
-
-Jordan noticed immediately that neither Michael nor Rachel blinked or looked startled when his synthesized `"Sydney"` AAC voice spoke—instead, Rachel's shoulders visibly relaxed at the sound of an AAC device. Stepping half an inch forward while keeping two fingers hooked through her brother's hoodie sleeve, Rachel spoke in a warm, steady voice:
-
-"The mountain curves past Roanoke were a little steep, but our driver handled the grades well," Rachel said. She unclipped two hand-painted wooden clothespins in **Chesapeake Teal and Harbor Gold** decorated with the golden fouled anchor of the **VDU Admirals** from their lanyards and offered them to Jordan and Isabel. "We painted extra spirit pins for the host school, if you'd like to trade—without anybody screaming *'Hey SAACURC'* at top volume."
-
-<aac>Deal. My ears are already thanking you,</aac> Jordan tapped with a grin, while Isabel and Aubrie Jean happily traded two Foundry Maroon and Molten Orange **`CPI Forgers`** anvil clothespins onto Michael's and Rachel's lanyards.
-
-As **Elana** clicked a cheerful greeting through her sip-and-puff straw (`<aac>Hi Michael and Rachel! This is Stella,</aac>`) and the silver-dapple miniature horse gently touched her velvet muzzle to Michael's brown hiking sneaker, Jordan politely asked Michael if he used his manual wheelchair full-time.
-
-"Normally I'm on my feet," Michael explained with an easy smile, patting the blue armrest of the rented chair. "I'm just three weeks post-op from a planned surgery back home—my surgeon only cleared me to make the trip to Blacksburg if I promised to use the chair for all the campus hills and long conference hallways until my stitches heal. Though our older sister **Jess** uses a manual wheelchair full-time, so Rachel and I have had sixteen years of training on caster physics and curb cuts."
-
-<aac>I am glad your surgery went well,</aac> Jordan tapped warmly. <aac>I just got cleared from twelve weeks of sternal precautions after open-heart surgery last month, so I completely understand doctors' orders.</aac>
-
-"Come on, VDU and CPI!" **Kyleen** smiled, holding up her phone in front of the glass elevator shaft. "Let's get a photo right here beside **The Forger**!"
-
-Parking `*S.S. Freedom*` wheel-to-wheel with Michael's manual chair and Elana and Stephen's power chairs directly in front of the bearded blacksmith statue and the glass elevator shaft—with Rachel anchored at Michael's left shoulder and Aubrie Jean, Madison, Isabel, Zoë, Lauren, Sarah, Jessica, Megan, Mark, and Hannah framing the circle—they captured the moment together.
-
-***
-
-#### 11:00 AM — Radford Transit #3202 & Blue Ridge Transit #1920
-
-Wanting ten minutes of fresh mountain air before the eleven-thirty conference workshops started, both groups rolled out through the glass entrance doors of **`Kincaid Student Ctr` (`290 College Ave.`)**—passing the yellow-and-blue **`AUTOMATIC CAUTION DOOR — ACTIVATE SWITCH TO OPERATE`** and **`PULL TO OPERATE`** decals and the exterior directory sign listing **`Haymarket Theatre`**, **`Commonwealth Ballroom`**, **`Colonial Hall`**, **`Food Court`**, and **`BreakZONE`**.
-
-Outside on the concrete sidewalk along **College Avenue**, the late-morning sun sparkled off the patches of mostly melted February snow on the grass.
-
-And then, at the exact same second, both **Jordan** and **Michael** stopped their wheelchairs and turned their heads toward the street.
-
-Idling at the curb in front of the grey Ironstone dorms past the melting February snowbanks sat **Radford Transit `#3202`**—a red-and-silver thirty-foot **`Prairie Coachworks Stalwart`** Low Floor transit bus with crisp amber LED letters glowing across its front destination sign:
-
-**`40 VIA C-BURG`**
-
-Jordan's fingers flew across his **mPad**:
-
-<aac>That is Radford Transit 3202. It is a thirty-foot Prairie Coachworks Stalwart Low Floor running Route 40 down to the Christiansburg hub.</aac>
-
-Beside him, Michael's eyes lit up behind his glasses with pure, unadulterated delight.
-
-"Wait a second," Michael grinned. "You know the fleet numbers and the chassis builders too?!"
-
-"Uh-oh," **Rachel** laughed softly, nudging her brother's shoulder as **Aubrie Jean** and **Madison** grinned across Jordan's chair. "You just unlocked his primary database, Jordan. Between Hampton Roads transit routes and Seattle's **TAPS** grid, my brother can tell you the transmission gearing on a forty-foot low-floor coach just from the sound of the exhaust brake."
-
-```zoe-log
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — External_Node_Convergence_Detected: Agent(Michael_Ragsdale, VDU_Norfolk) and Thread 3 (Jordan) share identical high-resolution catalog indexing for Municipal_Transit_Rolling_Stock(Prairie_Coachworks / Sainte-Claire). Compatibility_Index == 100.0%. 02-13-2016 11:06:42
+```
+TO MCCONNELL TRANSIT CTR via C-BURG
 ```
 
-For the next twenty minutes—right through watching **Blue Ridge Transit `#1920`** (`NOT IN SERVICE` illuminated on its front LED sign) turn smoothly through the downtown Blacksburg intersection—Jordan and Michael compared low-floor hydraulic kneeler angles, thirty-foot vs. forty-foot wheelchair bay turning radii, and LED headsign programming like two veteran transit engineers at a national symposium.
+And gliding smoothly into line right behind the thirty-foot *Radford Connector* came a sixty-foot low-floor articulated **Blue Ridge Transit (`BRT`)** coach manufactured by **Prairie Coachworks**, painted in crisp white, slate-blue, and green ***"Mountain Mist & River Ribbon"*** livery, its amber Luminator headsign reading:
 
-When eleven-twenty-five arrived and Kyleen gave Michael and Rachel a gentle heads-up that the `SAACURC` legislative session was starting inside **Colonial Hall**, Jordan rolled `*S.S. Freedom*` up beside Michael's manual chair and shook his hand warmly.
+```
+1 CBURG TRANS CTR
+```
 
-<aac>I hope your recovery from surgery goes smoothly, Michael,</aac> Jordan tapped. <aac>And I am really glad you and Rachel came to Blacksburg.</aac>
+```
+via BUSINESS 460 & PEPPER PLAZA
+```
 
-"Thanks, Jordan," Michael smiled, his sister Rachel anchored right at his left shoulder as they turned toward the automatic doors of `290 College Avenue`. "Take care of that rig. And if you guys ever make it back down to the coast on the right side of the bridge-tunnel, the first bus ride is on us."
+Instantly, both Jordan (in his `Tilite Aero Z`) and the young man in the blue manual wheelchair (`Michael`) turned their heads at the exact same angle to admire the two transit buses lining up nose-to-tail along the unmarked Commonwealth Mall curb—watching the thirty-foot *Radford Connector* load Radford-bound commuters at the front while the sixty-foot *Prairie Coachworks* articulated coach kneeled its front suspension and deployed its flip-out wheelchair ramp with a smooth pneumatic hiss.
 
-## Chapter 3: The Electric Alert & The Box Office Showdown
+Realizing they had both just geeked out over the exact same bus lineup, Michael glanced across the sidewalk and caught Jordan’s eye.
+
+A slow, genuine grin spread across Michael’s face. He raised a gloved hand from his push-rim in a warm, knowing salute from one transit-loving guy on wheels to another.
+
+"Now *that* is how you run a multi-agency campus curb lineup," Michael said to Rachel and Jordan with a grin, nodding toward the sixty-foot **Blue Ridge Transit Route 1** articulated coach waiting behind the thirty-foot **Radford Transit *Radford Connector***. "An hourly thirty-foot *Radford Connector* heading over to Radford University's McConnell Transit Center, backed up by a sixty-foot *Prairie Coachworks* artic running down Business 460 to Christiansburg!"
+
+Jordan’s green eyes lit up with instant delight. He tapped his `mPad` on his lap tray, letting his Australian-accented `Proloquo2Go` voice ring out warmly in the crisp February air:
+
+<aac>"You know your New River Valley buses! That Route 1 sixty-footer is our ride home to the Christiansburg Transit Center. Welcome to CPI, and have a great weekend at SAACURC!"</aac>
+
+Beside Michael, Rachel smiled warmly at Jordan, Aubrie Jean, and the whole family. Unclipping a hand-painted **`Chesapeake Teal` and `Harbor Gold`** wooden clothespin stamped with a tiny golden Admiral’s anchor and the words **`HEY SAACURC! • VDU ADMIRALS RHA`** from her bag strap, she stepped over and offered it to Jordan with a shy, friendly smile.
+
+"Even if you guys live off campus, you still get an honorary Admiral pin for the bus ride home," Rachel said kindly.
+
+<aac>"Thank you! Have a safe stay at The Hotel at Poly!"</aac> Jordan tapped, beaming as Aubrie Jean clipped the `Chesapeake Teal` and `Harbor Gold` clothespin right onto the corner of his `mPad` case.
+
+```
+ZOË.Systems.Logs.ActionLog:
+Date: 02-12-2016
+Time: 16:28:19
+Thread 1 (Self) & Thread 3 (Jordan.OS)
+Event: Brief Transit-Curb Encounter with Visiting VDU SAACURC Delegates (Michael & Rachel).
+Analysis:
+- Location: Commonwealth Mall Curbside Lineup (Beneath The Keystone Bridge across from Kincaid Hall).
+- Active Transit Units: Radford Transit Unit 104 (30-ft Low-Floor "Radford Connector" -> McConnell Transit Center via Christiansburg) & Blue Ridge Transit Route 1 (60-ft Prairie Coachworks Articulated Coach -> Christiansburg Transit Center via Business 460 & Pepper Plaza).
+- Observation: Visiting VDU RHA Director of Operations (temporary post-surgical manual wheelchair user) and VDU RHA Secretary exhibit 100% co-regulatory synchronization identical in structure to Jordan & Aubrie Jean.
+Decision: Board 16:30 Blue Ridge Transit Route 1 articulated coach to Christiansburg Transit Center. 02-12-2016 16:28:19
+```
+
+With a final wave between the two groups—Michael and Rachel turning toward **Kincaid Student Center** and **The Hotel at Poly** with their VDU delegation and their advisor `Kyleen`, and Jordan rolling smoothly up the front ramp of the sixty-foot **Blue Ridge Transit Route 1** coach surrounded by Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, Isabel, Mark, and Hannah—the articulated doors folded shut.
+
+As the bus pulled away from the **Commonwealth Mall** curb and cruised south down `U.S. Route 460 Business` toward **Pepper Plaza** and the **Christiansburg Transit Center**, Jordan looked out the window one last time at the `Chesapeake Teal` and `Harbor Gold` parkas disappearing into Kincaid Student Center, smiling down at the little golden anchor clothespin clipped to his tablet.
+
+## The Electric Alert & The Box Office Showdown
 
 ### Part 1: The Electric Alert & The 10:00 AM Rush
 
@@ -19751,7 +19749,7 @@ Aubrie Jean leaned over his shoulder, resting her cheek against his temple as Ma
 
 "May twenty-first," Aubrie Jean whispered softly against his ear. "First Isabel walks across the stage in her cap and gown... and then we bring our whole family right back through Gate 1 together."
 
-## Chapter 4: Live at The Crucible & Senior Commencement
+## Live at The Crucible & Senior Commencement
 
 ### Part 1: The Crucible Shuttle, Forger Tailgate, & Ignition
 
@@ -19765,9 +19763,9 @@ Now, on Saturday afternoon, May 21, 2016, at `15:00`, all sixteen members of the
 * **Jordan** sat in his `Tilite Aero Z` in a vintage-style `1987 Electric Color` tour T-shirt that **Daniel** and **Laura Brooks** had brought him from Bluefield, with his custom high-fidelity `Vibe-Filter` acoustic earpieces tucked securely into his ears and his over-ear defenders clipped to his push-handles just in case.
 * Around him stood all eight women of his constellation—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, and **Megan**—alongside **Mark**, **Hannah**, **Daniel**, **Laura**, **Elana**, **Stephen**, and eighteen-month-old **Stella**, who was sporting tiny baby-sized pink earmuffs and a miniature `FORGER NATION` jersey in her folding stroller.
 
-"Nobody is driving anywhere near Stadium Woods today," Mark said with a grin, checking his `BRT` transit app as a familiar deep-throated diesel rumble echoed down the street. "Why pay fifty bucks to sit in gridlock for two hours when **Blue Ridge Transit** runs sixty-foot articulated buses straight from our stop to the stadium transit loop?"
+"Nobody is driving anywhere near Stadium Woods today," Mark said with a grin as the sixteen of them made the short one-block walk down the hill from `414 Geneva Street` to the **Christiansburg Transit Center**, where the Park & Ride lot had been transformed into a sea of maroon and orange. "Blue Ridge Transit suspends regular route numbers for Tier 1 stadium events and runs sixty-foot articulated shuttles straight from here at the Christiansburg Transit Center to the Crucible Bus Loop!"
 
-Right on cue, a gleaming sixty-foot articulated **Blue Ridge Transit** coach pulled up to the curb. Its amber LED headsign alternated between two crisp messages:
+Right on cue, a gleaming sixty-foot articulated **Blue Ridge Transit** coach manufactured by **Prairie Coachworks**—painted in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery—pulled up to the Christiansburg Transit Center curb. Its amber LED headsign alternated between two crisp messages:
 
 ```
 CRUCIBLE SHUTTLE
@@ -19779,11 +19777,11 @@ GO FORGERS!
 
 The pneumatic doors hissed open, the front suspension kneeled to the curb, and the flip-out wheelchair ramp deployed with a smooth mechanical clack.
 
-"Afternoon, folks!" the BRT operator beamed, tipping his cap to Jordan and Mark—both of whom were well-known regulars to almost every driver on the Blacksburg routes. "All sixteen of you headed to see **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**?"
+"Afternoon, folks!" the BRT operator beamed, tipping his cap to Jordan and Mark—both of whom were well-known regulars to almost every driver on the Christiansburg and Blacksburg routes. "All sixteen of you headed up to see **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**?"
 
 <aac>"Yes sir! Section 104, Row A! Thank you for the lift!"</aac> Jordan tapped on his `mPad` as he rolled smoothly up the ramp and locked his `Aero Z` into the forward securement bay right next to Stella’s folded stroller.
 
-As the sixty-foot articulated coach glided down South Main Street and turned onto the dedicated transit-only lane leading toward **The Crucible**, Jordan looked out the wide panoramic window. Along the side streets, private lawn lots were waving cardboard signs reading **`CONCERT PARKING $50 CASH ONLY — FULL`**, while frustrated out-of-town SUVs sat bumper-to-bumper in the heat. Meanwhile, their BRT shuttle breezed right past the traffic cones along the busway and dropped them off less than two hundred feet from the accessible west entrance of Gate 1.
+As the sixty-foot articulated coach glided up U.S. Route 460 Business into Blacksburg and turned onto the dedicated transit-only lane leading into the **Crucible Bus Loop**, Jordan looked out the wide panoramic window. Along the side streets, private lawn lots were waving cardboard signs reading **`CONCERT PARKING $50 CASH ONLY — FULL`**, while frustrated out-of-town SUVs sat bumper-to-bumper in the heat. Meanwhile, their BRT shuttle breezed right past the traffic cones along the busway and dropped them off less than two hundred feet from the accessible west entrance of Gate 1.
 
 Outside the stadium, the atmosphere was nothing like the chaotic, drunken frenzy that had terrified Jordan during the October 2014 Homecoming game.
 
@@ -19871,17 +19869,17 @@ Jordan raised both hands into the glowing rainbow air, his `Engine Room` wristba
 
 When the final encore chord of [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-11-last-bus-home-lights-out-on-progress-street) faded into the warm May night at `22:50`, the sixteen of them didn't have to fight a single stair or a single traffic jam.
 
-Rolling smoothly out through the level Gate 1 accessible tunnel onto the dedicated **Stadium Transit Loop**, Jordan and Mark stopped in their tracks with matching transit-geek grins.
+Rolling smoothly out through the level Gate 1 accessible tunnel onto the dedicated **Crucible Bus Loop**, Jordan and Mark stopped in their tracks with matching transit-geek grins.
 
-Lined up stem-to-stern along the illuminated concrete boarding island was a glorious joint-agency fleet staged by **Blue Ridge Transit** and **Bluewater Transit** (which had dispatched four of its flagship intercity coaches up from Bluefield to help move the regional alumni crowd):
+Lined up stem-to-stern along the illuminated concrete boarding island was a glorious joint-agency fleet staged by **Blue Ridge Transit** and **Bluewater Transit** (which had dispatched four of its flagship forty-five-foot **Sainte-Claire 45H3** intercity motorcoaches up from Bluewater to help move the regional crowd):
 
-Up at Berth A, a gleaming forty-five-foot **Bluewater Transit** commuter coach sat idling with its high-visibility destination sign reading:
+Up at Sector 1, a gleaming forty-five-foot burgundy-and-silver **Bluewater Transit** commuter coach sat idling with its high-visibility destination sign reading:
 
 ```
-MAROON EXPRESS
+MAROON EXPRESS ... BLUEWATER via CBURG TRANS CTR
 ```
 
-And directly in front of them at Berth B and Berth C, a pair of sixty-foot articulated **Blue Ridge Transit** coaches waited with their doors open and kneeling ramps deployed, their amber headsigns cycling between:
+And directly in front of them at Sector 4, a pair of sixty-foot articulated **Blue Ridge Transit** coaches in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery waited with their doors open and kneeling ramps deployed, their amber headsigns cycling between:
 
 ```
 CBURG TRANS CTR
@@ -19897,15 +19895,15 @@ FORGERS SHUTTLE
 
 <aac>"Best transit system in the Commonwealth,"</aac> Jordan tapped happily on his `mPad` as he rolled up the ramp and locked his `Tilite Aero Z` into the forward bay. <aac>"And the best night of Sophomore Year."</aac>
 
-As the articulated bus pulled smoothly out of the stadium loop and glided under the warm streetlamps of Blacksburg toward `414 Geneva Street`, Aubrie Jean sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while Mark leaned across the aisle toward Hannah and Jordan with a quiet, meaningful smile.
+As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—Aubrie Jean sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while Mark leaned across the aisle toward Hannah and Jordan with a quiet, meaningful smile.
 
 "Next stop," Mark said softly over the gentle hum of the hybrid-electric drivetrain, "July first move-in at the U.S. 11 compound. And then July sixteenth... the Double Wedding, and a quick trip across the street to the Montgomery County Courthouse."
 
 Jordan looked down at his `Poly Pass` lanyard resting against his commemorative *Live at The Crucible* ticket stub—one of the last big nights he would ever wear the name `Jordan Fuller`—and squeezed Aubrie Jean’s hand with a full, peaceful smile.
 
-# Episode 8: Summer 2016
+# Summer 2016
 
-## Chapter 1: The U.S. 11 Compound & The Sunken Sanctuary
+## The U.S. 11 Compound & The Sunken Sanctuary
 
 ### The U.S. 11 Compound & The Sunken Sanctuary
 
@@ -19969,7 +19967,7 @@ Jordan’s hands trembled slightly as he looked at the official docket sheet in 
 
 For nineteen years and eleven months, the name `Aubrey Jordan Fuller` had been a tether to a woman who viewed him as her property. In fifteen days, he wouldn't just be marrying his anchor alongside his brother and Hannah—he would walk out of the ceremony, step across the street to the courthouse with his whole family behind him, and return to his wedding reception carrying only the names of the brother who had guarded his heart and the wife who had anchored his soul.
 
-## Chapter 2: The Double Wedding & The Legal Seal
+## The Double Wedding & The Legal Seal
 
 ### Part 1: The Morning Of, The Gathering, & The Vows
 
