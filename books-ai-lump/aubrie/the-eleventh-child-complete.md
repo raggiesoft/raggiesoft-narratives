@@ -4878,7 +4878,7 @@ The rest of their family didn't stop there. Without needing to be asked, they fo
 
 Finally, Aubrie and Madison sat down on the companion seats on either side of Jordan's wheelchair. Aubrie immediately reached over and laced her fingers tightly through his left hand; on his right, Madison did the exact same thing. He was physically anchored on every side by the people who loved him.
 
-Down on the turf, the pep rally reached its crescendo. The cheerleaders led the stadium in a call-and-response roar, the giant video board blazed with highlight reels, and then the senior captain of the CPI football team stepped to the center microphone. After delivering a fiery speech about Blacksburg grit and tradition, he pointed straight up at the giant scoreboard graphic displaying the unranked **Virginia Dominion University (VDU) Monarchs** emblem.
+Down on the turf, the pep rally reached its crescendo. The cheerleaders led the stadium in a call-and-response roar, the giant video board blazed with highlight reels, and then the senior captain of the CPI football team stepped to the center microphone. After delivering a fiery speech about Blacksburg grit and tradition, he pointed straight up at the giant scoreboard graphic displaying the unranked **Virginia Dominion University (VDU) Admirals** emblem.
 
 "Tomorrow afternoon," the captain bellowed over the stadium PA, "is our Homecoming! We are the number-three team in the nation! And we are going to send *Norfolk* crawling all the way back to the beach!"
 
@@ -19617,7 +19617,7 @@ By `09:50 AM` on Friday, February 19, 2016, the four cell leads were positioned 
 
 Because Friday morning was a full class day at CPI, they were distributed across campus and town, linked together over a low-latency voice channel and an `NTP`-synchronized countdown clock that Zoë had coded on her screen:
 * **Jordan** (with **Aubrie Jean** and **Megan** standing right behind his chair) was logged in on his `mPad` and laptop in the quiet study alcove of the **Kincaid Student Center** (`290 College Ave.`).
-* **Zoë** (with **Madison** and **Jessica** watching over her shoulder) was hardwired into a gigabit Ethernet port in the **Torgersen Hall** computer science lab.
+* **Zoë** (with **Madison** and **Jessica** watching over her shoulder) was hardwired into a gigabit Ethernet port in the **Keystone Hall** computer science lab.
 * **Mark** (with **Hannah** and **Sarah** beside him) was hardwired into a workstation in the **McBryde Hall** engineering commons.
 * **Isabel** (with **Lauren** and **Elana** beside her) was logged in from the high-speed terminal at her `Allegheny Commons` desk.
 
@@ -19668,7 +19668,7 @@ At `414 Geneva Street`, **Jordan** sat in his `Tilite Aero Z` with **Aubrie Jean
 > <br>
 > Back then, fifteen dollars was our entire grocery budget for a week. We wrote our first songs—including [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine) and [**"Electric Color"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color)—in an unheated garage at the corner of Progress and Turner Streets because we loved the cosmos, the rockets that take you there, and the town that gave us a home when we had nothing else.<br>
 > <br>
-> We have spent the last twenty-one years building **Engine Room Records** so that no suit in a glass skyscraper could ever again tell us who is allowed to hear our music, or price the kids who need it most out of the room. A college concert at our alma mater is not a luxury asset portfolio for ticket brokers. It belongs to the students walking across the Drillfield today.<br>
+> We have spent the last twenty-one years building **Engine Room Records** so that no suit in a glass skyscraper could ever again tell us who is allowed to hear our music, or price the kids who need it most out of the room. A college concert at our alma mater is not a luxury asset portfolio for ticket brokers. It belongs to the students walking across Commonwealth Green today.<br>
 > <br>
 > Furthermore, for everyone who secured digital tickets during the Student Presale or Public Onsale: we know a barcode on a smartphone screen isn't something you can keep in a scrapbook or frame on your dorm wall. Beginning Wednesday, February 24, every ticket holder may bring their `Poly Pass` or confirmation token to **The Crucible Gate 1 Box Office** to pick up complimentary, custom-embossed **30th Anniversary Ceremonial Ticket Stubs** printed on heavyweight archival stock at no charge.<br>
 > <br>
