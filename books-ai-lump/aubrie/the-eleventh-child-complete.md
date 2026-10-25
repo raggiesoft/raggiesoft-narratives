@@ -10361,7 +10361,7 @@ He signed and dated the international policy application as Zoë logged the time
 
 Finally, Daniel opened **Folder Three**—and every eye around the dining room table lit up.
 
-"And Item Three," Daniel said warmly, sliding three glossy engineering spec sheets from **Blue Ridge Complex Rehab & Mobility** across the oak table. "Our Christmas Day promise (e002/c002/s004.md). Your manual wheelchair has served you well indoors, and we'll keep a lightweight manual folding chair for tight transfers and backup—but you are done needing anyone to push you up the hills of CPI, and you need a heavy-duty power chair built to conquer every cobblestone street, transit ramp, and Outback trail on your World Trek. Even better, I am funding this 100% out-of-pocket in cash so we don't wait six months on insurance prior-authorization bureaucracy."
+"And Item Three," Daniel said warmly, sliding three glossy engineering spec sheets from **Blue Ridge Complex Rehab & Mobility** across the oak table. "Our Christmas Day promise. The old manual hospital wheelchair your mother sent you to college with has served you as a stopgap indoors—and we'll keep that old folding hospital chair around strictly as a backup for tight bathrooms or standard car trunks—but you are done needing anyone to push you up the hills of CPI, and you need a heavy-duty power chair built to conquer every cobblestone street, transit ramp, and Outback trail on your World Trek. Even better, I am buying this 100% out-of-pocket in cash so we don't wait six months on insurance prior-authorization bureaucracy—and you are picking out the exact machine you want."
 
 Daniel pointed to the three specifications:
 - **Model 1**: A lightweight folding travel scooter with small 8-inch casters and a 10-mile battery range.
@@ -11423,7 +11423,7 @@ On Monday afternoon, March sixteenth—as the nine students returned from a peac
 
 **Marcus Vance** backed the machine out into the March sunlight.
 
-Even knowing the specifications he had signed for in January, seeing his custom **Vanguard Titan-X350** in person took Jordan's breath away.
+Even knowing the specifications he had personally picked out and signed for in January—and knowing that **Daniel Brooks** had paid for the entire machine in cash out-of-pocket so Jordan wouldn't have to spend another semester trapped in the old manual hospital wheelchair his mother had sent him to CPI with—seeing his custom **Vanguard Titan-X350** in person took Jordan's breath away.
 
 Three hundred and fifty pounds of matte-black, aircraft-grade aluminum and steel sat planted on six independent suspension wheels. The high-backed contoured biomechanical seat was upholstered in breathable charcoal ballistic mesh over the custom fluid-cell memory cushion. Mounted on the swing-away right armrest sat the sleek proportional R-Net color LCD joystick module, alongside the ruggedized articulating bracket for his **Pinnacle Vanguard Pro** workstation, integrated amber-and-white LED path-lights tucked into the front matte-black fenders, and a heavy-duty backpack rack welded seamlessly behind the headrest.
 
@@ -11713,7 +11713,7 @@ Around them in the dim light of the expansive finished basement, the rest of the
 
 "Morning, J," Aubrie mumbled, her voice thick with sleep as she rubbed her eyes and sat up.
 
-There was no hesitation and no awkward morning shuffling. The clinical, judgment-free trust that had been forged over the past year in Room 214 immediately took over. Aubrie threw the covers back, grasped the handles of the basic manual push wheelchair kept downstairs specifically for this purpose, and wheeled it flush against the mattress. With Lauren's gentle assistance from the other side, they executed a flawless pivot-transfer, settling Jordan into the seat.
+There was no hesitation and no awkward morning shuffling. The clinical, judgment-free trust that had been forged over the past year in Room 214 immediately took over. Because the exterior walk-out basement ramp wouldn't be completed until August, Jordan's old manual hospital wheelchair was kept downstairs strictly for tight indoor bathroom transfers, while his 350-pound motorized power chair—the matte-black ***S.S. Freedom*** that Daniel Brooks had bought in cash after Jordan picked it out himself—charged upstairs by the front entryway. Aubrie threw the covers back, grasped the handles of the old manual hospital wheelchair, and wheeled it flush against the mattress. With Lauren's gentle assistance from the other side, they executed a flawless pivot-transfer, settling Jordan into the seat.
 
 Aubrie wheeled him into the large downstairs bathroom. The radical, practical intimacy of their family was fully on display; there was zero shame and absolutely no demand for privacy. Aubrie assisted Jordan with his morning toileting needs with clinical respect, seamlessly taking care of her own needs in the shared space without missing a beat.
 
@@ -12543,7 +12543,7 @@ From the museum, the convoy drove five minutes into the center of town and parke
 
 Wait-free and completely level with the sidewalk, the plaza in front of the building held the **Compassion Monument**. Mounted atop a massive, nine-thousand-pound block of rough-hewn Newfoundland granite stood a jagged, twelve-foot steel girder recovered from the North Tower of the World Trade Center. Beside it, the **Operation Yellow Ribbon Interpretive Panels** traced how the town's schools, Lions Club, and the **Steele Community Centre** ice rink—turned into a giant walk-in refrigerator to keep donated food and medicine from spoiling—had operated as a single, synchronized relief network.
 
-"Come on, everyone in!" Laura Brooks called out, holding up her digital camera as Liam and Connor Barnes wheeled Jordan directly to the center of the plaza in front of the granite base. "Arthur, Maeve, get right in here beside Jordan and Lauren!"
+"Come on, everyone in!" Laura Brooks called out, holding up her digital camera as Liam and Connor Barnes walked shoulder-to-shoulder with Jordan while he drove his matte-black *S.S. Freedom* power chair directly to the center of the plaza in front of the granite base. "Arthur, Maeve, get right in here beside Jordan and Lauren!"
 
 Nobody pushed Jordan's chair off to the end of the row like an awkward piece of luggage. Instead, the entire Barnes family and the Brooks-Constellation group formed a wide, warm semicircle around him. Aubrie stood on his right with her hand resting over his wrist; Lauren stood on his left next to her parents; Sarah, Jessica, Madison, Zoë, Hannah, and Mark crowded in behind them, laughing as the North Atlantic breeze tugged at their jackets.
 
@@ -18079,7 +18079,7 @@ When the three-vehicle **`Rubber Duck` Convoy** turned onto **Geneva Street** in
 
 Waiting in the driveway beside **Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam** were **Garrett Reynolds** and **Kelsey Brennan**, who had driven down from Blacksburg with boxes of heart-healthy groceries and fresh pharmacy supplies to welcome him home.
 
-Because the grassy side slope down to the walk-out basement patio was still slick with melting snow from Wednesday's blizzard, **Daniel** refused to let anyone wheel *S.S. Freedom* down the wet incline. Instead, **Mark**, **Caleb**, **Owen**, and **Henry Walsh** formed a four-man **"human elevator"**—locking their hands beneath Jordan's manual transport chair and carrying him down the wide interior basement staircase as smoothly and levelly as a hospital lift while **Garrett** and **Kelsey** brought *S.S. Freedom* and the medical bags around to the patio door.
+Because the exterior timber switchback ramp down to the walk-out basement patio was still slick with melting snow from Wednesday's blizzard, **Daniel** didn't want Jordan out in the freezing wind or risking a jolt to his freshly wired sternum. Instead, **Mark**, **Caleb**, **Owen**, and **Henry Walsh** formed a four-man **"human elevator"**—locking their hands beneath Jordan's old manual hospital wheelchair and carrying him down the warm, wide interior basement staircase as smoothly and levelly as a hospital lift, while **Garrett** and **Kelsey** carefully piloted Jordan's 350-pound motorized power chair—***S.S. Freedom***—down the cleared exterior ramp at Stage 1 crawl speed to the patio door so his beloved power chair was waiting for him inside.
 
 When Jordan eased onto the deep, plush cushions of the basement sectional sofa with his red plush **heart pillow** hugged to his chest and the familiar warm string lights glowing overhead, the sheer contrast between the sterile sixth-floor hospital room in Roanoke and his home sanctuary hit him all at once.
 
@@ -18187,7 +18187,7 @@ Even better, **Laura**, **Daniel**, **Hannah**, **Isabel**, and Zoë's eldest si
 - The whipped Yukon Gold mashed potatoes were made with roasted garlic, extra-virgin olive oil, and skim milk instead of heavy cream and salted butter.
 - The green bean casserole was made from scratch with fresh cremini mushrooms and low-sodium herb velouté, and the stuffing was packed with celery, sage, apples, and toasted pecans rather than salt.
 
-At `2:00 PM`, with Caleb and Owen acting as the "human elevator" up the interior stairs, Jordan rolled *S.S. Freedom* right to the head of the massive, three-table extension running the length of the upstairs dining and living rooms—surrounded by **Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
+At `2:00 PM`, after **Caleb** and **Owen** carried Jordan up the interior stairs in his old manual hospital chair and **Mark** and **Garrett** drove ***S.S. Freedom*** up the exterior ramp to the front porch so Jordan could transfer back into his own motorized seat, Jordan drove ***S.S. Freedom*** right to the head of the massive, three-table extension running the length of the upstairs dining and living rooms—surrounded by **Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
 
 Only one guest at the table felt slightly out of place: **Alex**, a twenty-nine-year-old coworker from the logistics department of **Megan's** company whom Megan had met three weeks earlier at an autumn corporate mixer in Roanoke and invited to Thanksgiving dinner after their second date. All through the meal, while Alex was superficially polite, he sat stiffly at the edge of the table—looking at Jordan's wheelchair and the affectionate, close-knit warmth of the Brooks family as though he were observing a strange, inconvenient foreign culture.
 
@@ -18356,7 +18356,7 @@ Jordan was still sore along his wired breastbone, but the cold dread of being le
 
 One by one, the morning goodbye ritual unfolded around him. Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel leaned down in turn to give him soft, lingering romantic kisses and gentle hugs, followed by a firm, one-armed brotherly embrace from Mark.
 
-"Alright, J, let's get you set up for the morning," **Hannah** said with her trademark sisterly warmth, wheeling *S.S. Freedom* into position and spotting his leg-driven pivot transfer from the mattress before assisting him with his morning routine in the accessible bathroom and settling him comfortably back onto the plush cushions of the sectional sofa.
+"Alright, J, let's get you set up for the morning," **Hannah** said with her trademark sisterly warmth, wheeling his old manual hospital chair into position for the tight bathroom turn and spotting his leg-driven pivot transfer from the mattress before assisting him with his morning routine in the accessible bathroom and settling him comfortably back onto the plush cushions of the sectional sofa.
 
 Just as Hannah finished tucking a soft fleece blanket across his lap at `5:42 AM`, the interior basement door opened and twenty-seven-year-old **Megan Brooks** walked down the stairs, wearing a comfortable cable-knit sweater and jeans with her work laptop bag slung over her shoulder.
 
@@ -18434,9 +18434,9 @@ At `10:15 AM`, the familiar, insistent pressure of his morning **`furosemide`** 
 
 <aac>Megan? I am really sorry to interrupt your work, but I need help getting to the toilet.</aac>
 
-Megan didn't hesitate for half a second. Saving her spreadsheet and standing up with an easy, reassuring smile, she walked straight over and brought *S.S. Freedom* up to the edge of the sofa.
+Megan didn't hesitate for half a second. Saving her spreadsheet and standing up with an easy, reassuring smile, she walked straight over and wheeled his old manual hospital chair up to the edge of the sofa.
 
-"Zero bother at all, Jordan—that's literally why I'm working from here instead of my apartment," Megan said cheerfully, spotting his pivot transfer into the chair and wheeling him into the accessible basement bathroom. "Alright, tell me what you need—no strings attached, zero judgment."
+"Zero bother at all, Jordan—that's literally why I'm working from here instead of my apartment," Megan said cheerfully, spotting his pivot transfer into the manual chair and wheeling him into the accessible basement bathroom. "Alright, tell me what you need—no strings attached, zero judgment."
 
 Her calm, matter-of-fact kindness melted his awkwardness on the spot. She helped him with the parts of the transfer and waistband management that his sternal precautions still prevented him from doing safely on his own, waited respectfully while he finished, and wheeled him back out to the sectional sofa—leaning down to give him a warm, grounding hug before returning to her desk.
 
@@ -18486,7 +18486,7 @@ Yet at `9:00 PM`, when bedtime arrived and **Aubrie Jean** announced it was time
 
 Megan's pulse jumped, but when she looked at Aubrie Jean, Madison, Isabel, and Lauren, she saw zero suspicion—only complete, welcoming trust.
 
-In the accessible basement bathroom, as **Hannah** and **Lauren** prepared to do their usual two-person transfer to move Jordan from *S.S. Freedom* onto the padded shower bench, Megan paused, evaluating the geometry of his wired sternum.
+In the accessible basement bathroom, as **Hannah** and **Lauren** prepared to do their usual two-person transfer to move Jordan from his old manual hospital chair onto the padded shower bench, Megan paused, evaluating the geometry of his wired sternum.
 
 "Hold on—let me try something so he doesn't get jostled between two people," Megan said. Stepping in front of Jordan's chair, she locked the brakes. "Rest your hands lightly on my shoulders, Jordan—don't push with your arms, let my legs do the work."
 
@@ -18524,13 +18524,13 @@ Aubrie Jean smiled a slow, knowing, deeply happy smile in the dark, kissing his 
 
 #### December 1, 2015 • 5:45 AM — Work Buddies at the Dining Table
 
-On **Tuesday morning, December 1, 2015**, as **Aubrie Jean** and **Madison** wheeled **Jordan** out of the accessible bathroom after his `5:30 AM` routine and started steering *S.S. Freedom* toward the sectional sofa, Jordan held up his hand and tapped firmly on his **mPad**:
+On **Tuesday morning, December 1, 2015**, as **Aubrie Jean** and **Madison** wheeled **Jordan** out of the accessible bathroom in his old manual hospital chair after his `5:30 AM` routine and started steering him back toward the sectional sofa, Jordan looked over at his matte-black ***S.S. Freedom*** power wheelchair—the 350-pound motorized machine that Daniel Brooks had bought in cash after Jordan picked it out himself—sitting parked by the wall. Holding up his hand, he tapped firmly on his **mPad**:
 
-<aac>Wait—stop the chair, please. I do not want to lie on the sofa today. I am tired of being an invalid on the couch. Can you set my laptop up at the dining table so I can sit up and work like a normal student?</aac>
+<aac>Wait—stop the chair, please. I do not want to lie on the sofa today. I am tired of being an invalid on the couch. Help me transfer into the S.S. Freedom so I can drive over to the dining table and sit up and work like a normal student.</aac>
 
 Aubrie Jean stared at him for a second, and then a huge, proud smile broke across her face. "You got it, fighter."
 
-Just as they parked *S.S. Freedom* at the head of the basement dining table, **Megan** walked down the interior stairs with her laptop bag for the morning handoff. Seeing Jordan sitting upright at the table with his textbooks open, Megan beamed and set her own laptop down right beside his.
+Just as Aubrie Jean and Madison spotted Jordan's transfer into ***S.S. Freedom*** and he drove his power chair smoothly to the head of the basement dining table with two fingers on the joystick, **Megan** walked down the interior stairs with her laptop bag for the morning handoff. Seeing Jordan sitting upright in ***S.S. Freedom*** at the table with his textbooks open, Megan beamed and set her own laptop down right beside his.
 
 "Look at you!" Megan cheered. "Even better—now we can be **work buddies**!"
 
@@ -18727,7 +18727,7 @@ Once the house quieted down, **Megan**—who had taken a paid personal day from 
 
 #### 8:15 AM — The Blue Disabled Parking Placard
 
-At `8:15 AM`, Megan helped Jordan transfer into the front passenger seat of her sedan, positioned his red plush **heart pillow** squarely over his breastbone under the shoulder belt, loaded *S.S. Freedom*'s folding backup transport frame into the trunk, and drove north up `U.S. Route 460` to **Commonwealth Polytechnic Institute**.
+At `8:15 AM`, because Megan was driving her standard four-door sedan rather than Daniel's ramp-equipped minivan—meaning Jordan's 350-pound motorized ***S.S. Freedom*** power chair had to stay parked in the basement—Megan helped Jordan transfer into the front passenger seat of her car, positioned his red plush **heart pillow** squarely over his breastbone under the shoulder belt, folded his old manual hospital wheelchair into the trunk, and drove north up `U.S. Route 460` to **Commonwealth Polytechnic Institute**.
 
 Pulling onto the bustling campus with a pre-purchased visitor permit on the dash, Megan hung Jordan's brand-new blue **Virginia Disabled Parking Placard** from her rearview mirror.
 
@@ -18795,7 +18795,7 @@ Outside **Walton Hall**, the crisp December air was alive with the mid-morning c
 
 Jordan didn't tap a single word on the walk out. The triumphant adrenaline of the **`ENG 102`** presentation was draining rapidly out of his veins, leaving behind a hollow, aching realization that he hadn't prepared for.
 
-Megan unlocked the sedan, helped him execute his careful leg-driven pivot transfer into the front passenger bucket seat, settled his red plush **heart pillow** across his breastbone, and clicked the seatbelt securely over it. After folding his transport frame into the trunk, she slid into the driver's seat, closed her door, and slipped the key into the ignition.
+Megan unlocked the sedan, helped him execute his careful leg-driven pivot transfer into the front passenger bucket seat, settled his red plush **heart pillow** across his breastbone, and clicked the seatbelt securely over it. After folding his old manual hospital wheelchair into the trunk, she slid into the driver's seat, closed her door, and slipped the key into the ignition.
 
 Before turning the key, Megan let out a happy breath and turned to smile at him. "Jordan, you did *so* good in there. I was so proud of you watching through the doorway."
 
@@ -18875,9 +18875,9 @@ Behind the wheel, **Megan** kept both hands on the leather rim as the last tremo
 
 *She didn't yell at me. She didn't panic and abandon me. She climbed right onto my lap, took all my strength into her hands, and saved my chest.*
 
-When they pulled into the driveway on Geneva Street, Megan didn't say a word—she simply helped him transfer into his wheelchair with gentle, unhurried care, wheeled him down the paved walk-out path to the basement patio doors, and brought him back inside the quiet sanctuary.
+When they pulled into the driveway on Geneva Street, Megan didn't say a word—she simply helped him transfer into his old manual hospital wheelchair with gentle, unhurried care, wheeled him down the paved walk-out path to the basement patio doors, and brought him back inside the quiet sanctuary where his 350-pound motorized ***S.S. Freedom*** power chair was waiting.
 
-Inside the empty basement, Jordan braked *S.S. Freedom* in the center of the rug, his hands still trembling slightly from the aftershocks. Looking up at Megan with shining, tear-bright green eyes, he didn't just want a caregiver anymore. He wanted *her*.
+Inside the empty basement, Jordan sat in the center of the rug with his hands still trembling slightly from the aftershocks. Looking up at Megan with shining, tear-bright green eyes, he didn't just want a caregiver anymore. He wanted *her*.
 
 He tapped softly on his **mPad**:
 
