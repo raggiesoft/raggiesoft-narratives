@@ -20338,9 +20338,13 @@ Jordan looked down at his `Poly Pass` lanyard resting against his commemorative 
 
 ## The U.S. 11 Compound & The Sunken Sanctuary
 
-### The U.S. 11 Compound & The Sunken Sanctuary
+### The U.S. 11 Compound, The Sunken Sanctuary, & The Wedding Blueprint
 
 **Date:** 2016-07-01 at 11:00 America/New_York
+
+![Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress holding his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks (holding her cyan 3D CAD wireframe tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Cooper, and Hannah Morales.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c001/p001/sunken-sanctuary-commissioning.jpg)
+
+#### 11:00 AM — The U.S. 11 Compound & The Sunken Sanctuary
 
 On Friday morning, July 1, 2016—sixteen months after **Zoë** had first rendered the 3D architectural wireframe on the dining room table at `414 Geneva Street`, and eight months after **Jordan** had whispered *"Let's build our sanctuary"* in `CVICU Room 412`—the custom-built **Kelly–Cooper–Brooks Compound** along the U.S. Route 11 corridor stood finished under the bright July sun.
 
@@ -20348,7 +20352,7 @@ Where `414 Geneva Street` had been a beloved, retrofitted college rental house t
 
 Directly at the edge of the front driveway along U.S. Route 11 stood the covered **Blue Ridge Transit Route 3** shelter, connected to the front porch by a heated, zero-grade brushed-concrete walkway so Jordan’s `Vanguard Pro` tires would never again have to fight gravel, curb lips, or winter ice. Inside, every hallway was a sweeping forty-eight inches wide with recessed oak wall bumpers, zero-threshold pocket doors, and dual-height kitchen islands where Jordan could roll right beside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, **Megan**, **Mark**, and **Hannah** to prep dinner together.
 
-The East Wing housed **Mark and Hannah’s** private suite and civil-engineering study, alongside private bedrooms and workspaces for every member of the household—including a dedicated, acoustically damped server and `Fin#` engineering studio for **Zoë**, a quiet studio for **Jessica**, an astronomy observatory deck for **Jordan** and **Megan**, and a guest suite on the ground floor for **Elana**, **Stephen**, and **Stella** (or **Daniel** and **Laura Brooks**) whenever they visited.
+The East Wing housed **Mark and Hannah’s** private suite and civil-engineering study, alongside private bedrooms and workspaces for every member of the household—including a dedicated, acoustically damped server and `Fin#` engineering studio for **Zoë**, a quiet studio for **Jessica**, an astronomy observatory deck for **Jordan** and **Megan**, and a ground-floor accessible suite for **Elana**, **Stephen**, and **Stella** (or **Daniel** and **Laura Brooks**) whenever they visited.
 
 And at the heart of the West Wing lay the master suite—and its centerpiece: **The Sunken Sanctuary**.
 
@@ -20356,7 +20360,7 @@ At `11:00 AM`, with the moving trucks unloaded and the final inspection certific
 
 Jordan rolled inside and stopped, his breath catching in his throat.
 
-The center of the bedroom floor had been recessed into a fifteen-foot-by-fifteen-foot architectural well lined with high-density, velvet-upholstered memory-foam bolsters and filled wall-to-wall with a custom, seamless king-plus mattress expanse. The top surface of the mattress sat at *the exact height* of the seat pan of Jordan’s `Vanguard Pro`.
+The center of the bedroom floor had been recessed into a fifteen-foot-by-fifteen-foot architectural well lined with high-density, midnight-indigo velvet-upholstered memory-foam bolsters and filled wall-to-wall with a custom, seamless king-plus mattress expanse. The top surface of the mattress sat at *the exact height* of the seat pan of Jordan’s `Vanguard Pro`.
 
 Surrounding the sunken perimeter was a level, non-slip hardwood transfer deck with flush recessed grab bars and integrated power-and-data ports for Jordan’s `mPad` and `Garmin Venu` charger. There were no bed frames to bang his knees against, no four-inch vertical gaps to haul his upper body across when his shoulders were tired, and zero risk of falling.
 
@@ -20375,7 +20379,7 @@ Event: Commissioning of the U.S. 11 Sunken Sanctuary & Master Transfer Dock.
 Hypothesis: Eliminating the vertical transfer differential between Jordan's Vanguard Pro seat plane (19.5 inches AFF) and the sleeping surface will reduce daily upper-extremity biomechanical strain by 84% while providing an unobstructed multi-anchor co-regulation environment.
 Analysis:
 - Transfer Deck Elevation: +0.00 inches relative to mattress crown.
--Measured Transfer Time: 1.8 seconds (Effortless lateral glide; zero sternal or glenohumeral torque).
+- Measured Transfer Time: 1.8 seconds (Effortless lateral glide; zero sternal or glenohumeral torque).
 - Acoustic & Thermal Envelope: STC-62 interior sound isolation; radiant floor heating; independent zoned climate control.
 Conclusion: Physical architecture is now 100% aligned with family emotional architecture. 07-01-2016 11:18:45
 ```
@@ -20393,28 +20397,96 @@ Jordan sat up against the velvet bolsters between Aubrie Jean and Madison, his e
 Mark grinned, counting off the timeline on his fingers:
 1. "`1:30 PM`: The Double Wedding Ceremony right across the street at the Old Town Ballroom & Conservatory—where Hannah and I say our vows, you and Aubrie Jean say your vows, I offer you `Shawn`, and Aubrie Jean offers you `Kelly`."
 2. "`2:40 PM`: Right after the recessional—while the guests are enjoying cocktail hour and hors d'oeuvres on the conservatory terrace—our immediate family walks two hundred feet across Main Street to the Montgomery County Courthouse."
-3. "`2:45 PM`: Judge Aldridge signs the Final Order for Change of Name in Chamber B, the Clerk stamps the raised seal onto your new Virginia birth certificate and issues your certified court orders, and you walk back out of that courthouse doors legally and permanently **`Jordan Shawn Kelly`**."
-4. "`3:15 PM`: We walk right back across the street into the Grand Ballroom for the reception entrance, where the announcer introduces you and Aubrie Jean for the very first time in history as **Mr. and Mrs. Jordan Shawn and Aubrie Jean Kelly**!"
+3. "`2:45 PM`: Judge Aldridge signs the Final Order for Change of Name in Chamber B, the Clerk stamps the raised seal onto your new Virginia birth certificate and issues your certified court orders, and you roll back out of those courthouse doors legally and permanently **`Jordan Shawn Kelly`**."
+4. "`3:12 PM`: We walk right back across the street into the Grand Ballroom for the reception entrance, where the announcer introduces you and Aubrie Jean for the very first time in history as **Mr. and Mrs. Jordan Shawn and Aubrie Jean Kelly**!"
 
-Jordan’s hands trembled slightly as he looked at the official docket sheet in Daniel’s hand, then around the Sunken Sanctuary at Aubrie Jean, Mark, Hannah, Daniel, Laura, Madison, Zoë, Lauren, Sarah, Jessica, Isabel, and Megan.
+***
 
-For nineteen years and eleven months, the name `Aubrey Jordan Fuller` had been a tether to a woman who viewed him as her property. In fifteen days, he wouldn't just be marrying his anchor alongside his brother and Hannah—he would walk out of the ceremony, step across the street to the courthouse with his whole family behind him, and return to his wedding reception carrying only the names of the brother who had guarded his heart and the wife who had anchored his soul.
+#### 8:30 PM — The Pact's Decision: *"Because You Were First"*
+
+That night, after the welcome-home barbecue dinner on the back patio had wound down and **Mark** and **Hannah** had retired to their East Wing suite, the nine members of the West Wing gathered in the soft amber glow of the **Sunken Sanctuary** for their very first night in their new home.
+
+Even though they had all celebrated the Double Wedding engagement back on December 27, sitting together across the vast fifteen-foot recessed bed—with the actual Montgomery County marriage-license paperwork resting on the flush oak nightstand two weeks before the ceremony—brought a quiet, sacred gravity to the room.
+
+**Zoë** sat cross-legged near the center of the mattress with her knees tucked under a soft throw blanket, looking around the circle at **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Megan**, and **Jordan**.
+
+"Before we finalize the ceremonial script and the civil registry packets tomorrow morning," Zoë said softly, her voice earnest and clear, "I want us to state the foundational axiom out loud—here, in our permanent sanctuary—so that there is never an unspoken variable in any of our hearts. In the eyes of the Commonwealth of Virginia, a civil marriage license only has lines for two signatures. For legal reasons—medical power of attorney, next of kin, hospital visitation, and an unbreakable statutory firewall against his biological mother if anything ever goes wrong—one of us has to hold the legal title of Jordan's wife."
+
+Nobody spoke for a moment. There was no tension in the room—only a deep, shared reverence.
+
+**Madison**—who had first proposed the Pact to Aubrie Jean and Zoë in September 2014—propped herself up on one elbow and looked directly across Jordan's lap at **Aubrie Jean**. Her voice was warm, steady, and certain.
+
+"It has to be you, Aubrie."
+
+Aubrie Jean blinked, her cheeks flushing slightly in the warm lamplight. "Maddie—"
+
+"No, listen to me," Madison said gently, reaching across to rest her hand over Aubrie Jean's. "Because you were first. That very first night in `Room 214`. When he was so broken and terrified of the dark that he couldn't even speak, when his mother had just driven out of the parking lot and left him with a trash bag of clothes... you were the one who crawled into that twin bed and just held him. You didn't ask him twenty questions. You didn't try to fix him. You were just *there*. You were the first person to show him an ounce of unconditional kindness in his entire life. That is a foundation none of the rest of us can ever claim, because every single one of us built our love on the safety you gave him first. It's only right that the legal marriage is yours."
+
+Across the sunken bed, **Megan** nodded immediately, her eyes shining. "She's right, Aubrie. Even when I was helping him through cardiac rehab in December, you were the anchor holding the entire house steady."
+
+"Agreed," **Zoë** said, adjusting her glasses with a warm smile. "It is the most logical and emotionally sound conclusion. You are the primary key of this constellation."
+
+"One hundred percent," **Lauren** said, squeezing Aubrie Jean's ankle through the quilt, while **Sarah**, **Jessica Gallagher**, and **Isabel** all nodded in wholehearted agreement.
+
+"When you walked up to the third floor of Bennett Hall to invite me in," **Isabel** added softly, "you showed me that your heart doesn't guard territory—it builds harbors. Having your name and Jordan's name on that marriage license protects all nine of us."
+
+Tears spilled down Aubrie Jean's cheeks. She looked around the circle at the seven women who were her sisters in every way that mattered, and then down at **Jordan**, whose green eyes were glistening behind his glasses.
+
+Jordan reached for his `mPad` and tapped a message that spoke for his entire soul:
+
+<aac>"Aubrie Jean is my anchor. And all eight of you are my constellation. A piece of paper at the courthouse only has room for two names—but this bed, this house, and my heart belong to all of us forever."</aac>
+
+Aubrie Jean leaned in to kiss Jordan's lips, then reached out her arms as Madison, Zoë, Megan, Isabel, Lauren, Sarah, and Jessica all drew close in the center of the Sunken Sanctuary—an unbreakable circle of nine hearts where nobody was second, nobody was competing, and everybody was home.
+
+***
+
+#### July 2–15, 2016 — The All-Hands Wedding Blueprint: Everyone Pitches In
+
+Over the next fourteen days leading up to **Saturday, July 16, 2016**, the dining room table at the U.S. 11 Compound transformed into an all-hands **Double Wedding Command Center**.
+
+Neither **Jordan and Aubrie Jean** nor **Mark and Hannah** wanted a sterile, outsourced event run by strangers in headsets who didn't understand sensory pacing, wheelchair turning radii, or the unique architecture of their blended family. Instead, every single person in the household took ownership of a piece of the wedding—turning the two-week countdown into a joyful, collaborative labor of love:
+
+1. **Zoë Wren Brooks (Master Logistics & Timeline Architecture)**:
+   Zoë engineered the master `Wedding.Logistics.Schedule` in `.NET`, breaking Saturday, July 16 down into stress-free, sensory-buffered intervals with built-in quiet recovery blocks for Jordan. She mapped out the exact 30-minute venue transformation window (`12:30 PM – 1:00 PM`) at the **Old Town Ballroom & Conservatory**, assigning clear zones so the room could be set up with zero chaos before the doors opened.
+
+2. **Mark Cooper, Hannah Morales, & Jordan (Transit Coordination & The Altar `mPad` Mount)**:
+   Rather than renting cramped stretch limousines that would separate Jordan from the wedding party, **Mark** and **Jordan** rolled down to the **Blue Ridge Transit** operations depot on Cambria Street to meet with the dispatch supervisor and their favorite Saturday Route 3 operator. Together, they arranged for the scheduled `11:45 AM` northbound and `10:45 PM` last-run Route 3 coaches to serve as the wedding party's official transportation—complete with custom destination headsigns (`ROUTE 3 C-BURG` / `JUST MARRIED!`). Back in the compound workshop, Mark and Hannah also machined a sleek, low-profile anodized dress bracket for Jordan’s `Vanguard Pro` so his `mPad` would sit at a comfortable, unobtrusive angle during the vows without blocking his charcoal three-piece suit or Aubrie Jean's hands.
+
+3. **Sarah Braithwaite & Mark (Conservatory Acoustics & Direct `mPad` Audio Integration)**:
+   Because the **Old Town Ballroom & Conservatory** featured a vaulted glass-and-limestone atrium where a small tablet speaker could easily get lost, **Sarah** and **Mark** visited the venue with a portable digital mixer and a balanced direct-input (`DI`) wireless transmitter for Jordan’s `mPad`. They tuned the room's equalization curve so that when Jordan tapped his vows in his `Sydney` voice, the audio would flow directly through the conservatory's warm acoustic array at the exact same natural volume and warmth as Aubrie Jean's, Mark's, and Hannah's wireless lapel microphones.
+
+4. **Lauren Barnes & Megan Brooks (Floral Design, Color Palette, & The Family Archive)**:
+   Around the dual-height kitchen island—where Jordan could roll right alongside them trimming stems—**Lauren** and **Megan** designed all twenty-four table centerpieces and the conservatory altar arch. They wove together ivory garden roses for the two brides, deep midnight-blue delphiniums honoring the seven Pact bridesmaids, and fresh emerald eucalyptus matching Mark's tie and Hannah's bouquet. Meanwhile, Megan cleaned and calibrated her collection of prime lenses, building a shot list to document every "before" detail of the venue setup and every candid embrace for the permanent family archives.
+
+5. **Jessica Gallagher & Isabel Dawson (The Musical Score, Tailoring, & The Eye-Level Altar Cushion)**:
+   **Jessica** and **Isabel** coordinated directly with the CPI School of Music string quartet and the reception band, preparing the custom chamber arrangement of [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) for the processional, [**"Electric Color"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color) for the grand reception entrance, and [**"Just Us"**](https://music.raggiesoft.com/artists/the-stardust-engine/2008-our-own-frequency?track=1-08-just-us) for the first dance. And when Aubrie Jean mentioned during a dress fitting in Roanoke that she didn't want to tower over Jordan's wheelchair at the altar or force him to crane his neck upward during their vows, Isabel and Jessica commissioned an upholstered midnight-blue velvet kneeling cushion matched to the exact height of Jordan’s `Vanguard Pro`—ensuring that when Aubrie Jean knelt beside his chair at the altar, the bride and groom would look directly into each other's eyes at zero elevation delta.
+
+6. **Madison Scott, Hannah, & Zoë (The Ceremony of the Constellation & The Welcome Sign)**:
+   Working late over mugs of chamomile tea, **Madison** and the Pact wrote the seven spoken blessings of the **Ceremony of the Constellation (The Releasing and Anchoring of the Groom)**, while **Hannah** hand-lettered the wooden welcome easel for the conservatory entrance with a message that captured the heart of both couples:
+   ***"Choose a seat, not a side. We're all family here."***
+
+7. **Daniel & Laura Brooks, Caleb Brooks, and Elana, Stephen, & Stella (Courthouse Logistics, Cargo Van, & Flower Girl Rehearsals)**:
+   While **Daniel** finalized the Saturday afternoon docket (`CL16-001104`) with **Judge Aldridge**'s clerk and **Laura** coordinated the conservatory terrace hors d'oeuvres with **Robert and Clara Kelly** and **Carlos and Elena Morales**, Jordan's older brother **Caleb Brooks** volunteered the Brooks family cargo van to haul all the floral arrangements, sound gear, guest book, and signage to the ballroom ahead of the bus. And out on the wide West Wing hallway every afternoon, **Elana** and **Stephen** practiced guiding twenty-month-old **Stella** down a forty-foot runner with her satin basket of rose petals—until the little girl giggled with delight every time she reached Jordan's wheelchair at the end of the hall.
+
+By Friday night, July 15, 2016, every centerpiece was misted in the cooler, every suit and gown was steamed and hanging in the cedar closets, and every member of the family went to sleep knowing that the wedding tomorrow wasn't just an event they were attending—it was a sanctuary they had built with their own hands.
 
 ## The Double Wedding & The Legal Seal
 
-### Part 1: The Morning Of, The Gathering, & The Vows
+### Part 1: The Morning Of, The Final Touches, The Gathering, & The Vows
 
-**Date:** 2016-07-16 at 07:30 America/New_York
+**Date:** 2016-07-16 at 07:00 America/New_York
 
-#### 7:30 AM — The Morning Of & The Route 3 Wedding Coach
+![Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on July 16, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Cooper stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Morales in her ivory lace gown.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/double-wedding-conservatory-vows.jpg)
+
+#### 7:00 AM — The Morning Of, The Cereal Bowl of Normalcy, & The Route 3 Coach
 
 Saturday, July 16, 2016 dawned clear and golden over the Blue Ridge Mountains.
 
-At `07:30 AM`, **Jordan** woke in the center of the **Sunken Sanctuary** at the U.S. 11 compound, surrounded by the quiet, rhythmic breathing of the women who had carried him through the fire and into the light.
+In the East Wing bridal suite, **Hannah Morales** woke first at `07:00 AM`, far too excited to sleep another minute. Slipping quietly out from under the covers so **Mark** could catch twenty more minutes of rest, she pulled on her silk robe and padded out into the sunlit great room—where the rich aroma of fresh-ground dark roast coffee was already drifting from the kitchen island. **Daniel** and **Laura Brooks**, having driven over early from Geneva Street, were already at the stove, smiling warmly as they handed Hannah the first mug of the morning.
+
+Down the forty-eight-inch West Wing hallway inside the **Sunken Sanctuary**, **Jordan** woke at `07:30 AM` surrounded by the quiet, rhythmic breathing of the eight women who had carried him through the fire and into the light.
 
 **Aubrie Jean** lay with her head resting gently near his right collarbone, her fingers resting lightly near the healed silver line of his sternotomy scar. On his left, **Madison** was curled against his shoulder; around them across the fifteen-foot sunken mattress slept **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, and **Megan**.
-
-Jordan lay still for a long moment, watching the July morning sunlight filter through the sheer linen curtains. Today was the day.
 
 One by one, eyes fluttered open across the sunken bed. Aubrie Jean looked up at him first, her warm eyes crinkling into a radiant smile as she reached up to touch his cheek.
 
@@ -20424,13 +20496,25 @@ Jordan’s smile reached all the way to his eyes. He reached over to the flush t
 
 <aac>"Good morning, future wife. Last morning I ever wake up with the name Fuller."</aac>
 
-By `10:30 AM`, the U.S. 11 compound was buzzing with joyful, synchronized precision.
+Within twenty minutes, the entire household had converged on the great room kitchen, each person already settling into their natural role for the day:
+* **Zoë** and **Lauren** sat side-by-side at the counter, reviewing the synchronized timeline on Zoë’s tablet over mugs of tea.
+* **Sarah** and **Madison** were practically vibrating with excitement, double-checking the garment bags and boutonniere pins.
+* **Megan** was already in archivist mode, wiping down her `50mm` and `24-70mm` lenses with a microfiber cloth and testing the morning light across the dining table.
+* **Jessica** and **Isabel** checked the velvet ring boxes and the sheet-music folders for the string quartet.
 
-In the East Wing, **Mark** and **Daniel Brooks** helped Jordan into his custom-tailored charcoal three-piece suit—cut specifically by a master tailor in Roanoke to drape seamlessly while seated in his `Vanguard Pro`, with a midnight-blue silk tie that matched the gowns of the seven Pact bridesmaids and a white rose boutonniere pinned over his healed heart. Mark wore an identical charcoal three-piece suit with an emerald silk tie to match **Hannah**’s bouquet.
+Before the organized whirlwind of hairdryers, curling irons, steaming gowns, and three-piece suits could begin, Laura and Aubrie Jean insisted on a quiet, grounding ritual at the dining table.
 
-Instead of hiring a fleet of cramped stretch limousines that couldn't accommodate a rigid-frame wheelchair alongside a twenty-person wedding party, the two grooms and their entire family walked down the zero-grade heated walkway at `11:45 AM` to their dedicated **Blue Ridge Transit Route 3** shelter.
+There was no elaborate, high-stress catering spread for breakfast. Instead, there were platters of warm buttered toast, sliced strawberries and peaches, and—right in front of Jordan’s wheelchair—a familiar ceramic bowl of his favorite cold cereal with milk.
 
-Coming down U.S. Route 11 was a freshly washed forty-foot **Blue Ridge Transit** coach driven by their favorite regular Saturday operator, who had decorated the interior handrails with white silk ribbons and programmed the exterior amber LED headsign to cycle between:
+As Jordan ate a spoonful of cereal with Aubrie Jean holding his left hand and Mark clapping his right shoulder on the way to the toaster, Jordan felt his heart settle into a calm, steady `68 BPM`. It was a deliberate island of everyday normalcy right in the center of the biggest day of his life—a quiet reminder that no matter what milestone awaited them downtown, they were still *them*.
+
+By `10:30 AM`, the compound was buzzing with joyful precision. In the East Wing, **Mark** and **Daniel** helped Jordan into his custom-tailored charcoal three-piece suit—cut specifically by a master tailor in Roanoke to drape seamlessly while seated in his `Vanguard Pro`, with a midnight-blue silk tie that matched the gowns of the seven Pact bridesmaids and a white rose boutonniere pinned over his healed heart. Mark wore an identical charcoal three-piece suit with an emerald silk tie to match **Hannah**’s bouquet.
+
+At `11:30 AM`, Jordan’s older brother **Caleb Brooks** backed the Brooks family cargo van up to the side porch and—with Mark, Lauren, and Sarah’s help—loaded the twenty-four floral centerpieces, the direct-input audio mixer, the leather guest book, the velvet kneeling cushion, and the wooden easel sign to drive them straight to the ballroom parking lot ahead of the wedding party.
+
+"Why don't we just order a stretch limo or a luxury shuttle van for the rest of us?" Madison had teased playfully earlier in the week—and Jordan had shaken his head with a resolute grin.
+
+He didn't want a special paratransit van or a hired chauffeur. At `11:45 AM`, Jordan unlocked his brakes, rolled himself down the zero-grade heated walkway to their covered **Blue Ridge Transit Route 3** shelter, and glided proudly up the deployed ramp of the freshly washed forty-foot **Blue Ridge Transit** coach driven by their favorite regular Saturday operator—who had decorated the interior handrails with white silk ribbons and programmed the exterior amber LED headsign to cycle between:
 
 ```
 ROUTE 3 C-BURG
@@ -20442,21 +20526,66 @@ and:
 JUST MARRIED!
 ```
 
-"All aboard for the Courthouse and the Conservatory!" the driver beamed as the ramp deployed to the curb.
+As Jordan clicked his `Vanguard Pro` into the forward securement bay surrounded by his brides, his brother, and his constellation, his chest swelled with quiet pride. He didn't need a favor. He didn't need to be carried. He was taking himself to his own wedding.
+
+***
+
+#### 12:30 PM — The Final Touches: All-Hands Venue Setup
+
+![Inside the sunlit conservatory atrium of the Old Town Ballroom thirty minutes before doors open, Zoë coordinates the venue setup with her tablet while Hannah tests a gold pen on the guest book beside the "Choose a seat, not a side. We're all family here" sign, Lauren and Megan arrange and photograph the centerpieces, and Jordan watches happily from his wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/wedding-final-touches-all-hands-setup.jpg)
+
+At `12:30 PM`—thirty minutes before the conservatory doors opened to guests—the wedding party met **Caleb** at the **Old Town Ballroom & Conservatory**, located directly across Main Street from the **Montgomery County Courthouse** in downtown Christiansburg.
+
+The sunlit glass-and-limestone atrium was a blank canvas of polished oak floors and potted palms, and the entire family stepped into motion like a championship pit crew.
+
+**Zoë** stood at the center of the conservatory in her sweeping midnight-blue silk gown, holding her tablet in one hand as she called out the sequence with crisp, affectionate precision:
+
+"Okay, team, we have thirty minutes until doors open at `13:00`. Let's optimize this setup!"
+
+Instantly, every member of the household fanned out across the hall:
+* **Lauren and Megan** carried the chilled floral centerpieces from Caleb's van to the reception and conservatory tables. Lauren’s fingers moved deftly through the white roses, midnight-blue delphiniums, and emerald eucalyptus—rotating each vase until the sightlines were perfect—while **Megan** followed right behind her with her DSLR camera, capturing crisp, sunlit photographs of the pristine "before" state for the family archives.
+* **Mark and Sarah** headed straight to the altar sound rack. Together, they plugged the balanced direct-input (`DI`) receiver for Jordan’s `mPad` into Channel 1 of the conservatory mixer and tested the two wireless lapel microphones. When Jordan tapped a test phrase from the center aisle—<aac>"Testing, one, two, three. My anchor holds"</aac>—Sarah adjusted the high-mid warmth on the equalizer until Jordan’s `Sydney` voice filled the glass atrium with crystal-clear, resonant presence.
+* **Zoë and Hannah** arranged the oak welcome table just inside the vestibule. They laid out the cream-and-gold leather guest book, and Hannah methodically tested all four archival gold fountain pens on a blotter card to guarantee that not a single pen would skip or smudge when guests signed in. Right beside the table, they positioned the framed wooden easel sign that Hannah had calligraphed:
+  > ***Choose a seat, not a side.***<br>
+  > ***We're all family here.***
+* **Jessica Gallagher and Isabel Dawson** walked up the steps of the floral-draped altar, placing the custom midnight-blue velvet kneeling cushion directly to the right of Jordan’s wheelchair position and checking the sightline so Aubrie Jean and Jordan would be completely eye-to-eye, before walking over to cue the string quartet on the tempo of [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds).
+
+Near the front row, **Jordan** sat in his `Vanguard Pro` with **Aubrie Jean** holding his hand and **Daniel** and **Laura Brooks** standing warmly beside them. Jordan looked around the sunlit conservatory at his brother, his sister-in-law, and his partners—every single one of them working with quiet, practiced harmony to turn an empty building into a sacred home.
+
+Daniel rested a gentle, fatherly hand on Jordan’s shoulder.
+
+"How are you feeling, son?" Daniel asked softly.
+
+Jordan looked at Aubrie Jean’s radiant face, then across the room at Mark, Hannah, Zoë, Madison, Lauren, Sarah, Jessica, Isabel, and Megan. He tapped a single, steady sentence on his `mPad`:
+
+<aac>"I feel... ready."</aac>
+
+***
+
+#### 1:00 PM — The Gathering: *"Choose a Seat, Not a Side"*
+
+At `13:00` sharp, the tall oak doors of the conservatory opened, and the four brides and grooms—**Jordan**, **Aubrie Jean**, **Mark**, and **Hannah**—slipped into the quiet side parlor just off the vestibule, taking turns peeking out through a narrow crack in the door with giddy, whispered excitement as the atrium filled with everyone who had ever stood in their corner.
+
+Just inside the entrance, **Daniel** and **Laura Brooks** stood at the head of the receiving line alongside **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, and **Megan** (who kept her camera raised between hugs to capture every candid smile).
+
+Every guest who walked through the doors paused first at Hannah’s easel sign—*"Choose a seat, not a side. We're all family here"*—and smiled as **Caleb**, **Lucas**, **Owen**, and **Jacob Brooks** ushered everyone into the sunlit rows with zero division between bride's side or groom's side:
+* **Aubrie Jean’s** parents (**Robert and Clara Kelly**) and **Hannah’s** parents (**Carlos and Elena Morales**) sat right alongside **Mark’s** parents and the extended **Brooks**, **Barnes**, **Scott**, **Braithwaite**, **Gallagher**, and **Dawson** families, chatting and laughing like old friends.
+* A lively contingent of CPI classmates from the **Astrophysics** and **Civil Engineering** departments mingled in the middle rows alongside Jordan’s coworkers and supervisors from **Newman Library** and the Residence Life team from `Bennett Hall` and `New River Hall` (**Kelsey Brennan**, **Henry Walsh**, and **Garrett Reynolds**).
+* And sitting in the front row in a crisp navy suit was **Dr. Aris Thorne**—the cardiothoracic surgeon from Star City General Hospital who had held Jordan’s stopped heart in his hands eight months earlier and built the four bypass grafts beating steadily inside Jordan’s chest today.
+
+Just as powerful as who was in the room was who was *not*.
+
+There was not a single representative from the **Sinclair** or **Fuller** families in Virginia Beach. None of them had been invited; none of them even knew that today was happening. The doors were guarded by love, backed by a permanent Circuit Court protective order, and filled exclusively with the family Jordan and his partners had chosen for themselves.
 
 ***
 
 #### 1:30 PM — The Ceremony of the Constellation & The Double Wedding Vows
 
-At `13:30`, the sunlit glass-and-limestone atrium of the **Old Town Ballroom & Conservatory**—located directly across Main Street from the **Montgomery County Courthouse** in downtown Christiansburg—was filled to capacity with everyone who had ever stood in Jordan, Aubrie Jean, Mark, and Hannah’s corner.
+At `13:30`, **Mark** (in his charcoal three-piece suit and emerald silk tie) and **Jordan** (in his gleaming `Vanguard Pro`, his `mPad` mounted on the low-profile dress bracket at his right hand) took their places side-by-side at the conservatory altar.
 
-In the front rows sat **Daniel** and **Laura Brooks**; **Aubrie Jean’s** parents (**Robert and Clara Kelly**); **Hannah’s** parents (**Carlos and Elena Morales**); **Lauren’s**, **Madison’s**, **Sarah’s**, and **Jessica’s** parents; **Elana** and **Stephen** with twenty-month-old **Stella** (dressed in an adorable miniature white satin dress with a basket of rose petals); their CPI professors and Residence Life colleagues from `Bennett Hall` and `New River Hall`; and, sitting in the front row on the groom’s side in a crisp navy suit, **Dr. Aris Thorne**—the cardiothoracic surgeon who had held Jordan’s stopped heart in his hands nine months earlier and built the four bypasses beating steadily inside Jordan’s chest today.
+The vestibule doors swung wide, and the string quartet began the warm, soaring chamber arrangement of [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) by **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**.
 
-At the front of the conservatory altar stood **Mark** (in his charcoal suit and emerald tie) beside **Jordan** (in his gleaming `Vanguard Pro`, his `mPad` mounted on a polished low-profile dress bracket at his right hand).
-
-The conservatory doors opened, and a string quartet began an acoustic arrangement of [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) by **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**.
-
-First down the aisle walked **Elana** and **Stephen**, guiding little **Stella** as she delightedly tossed white and midnight-blue rose petals across the polished oak floor.
+First down the aisle walked **Elana** (guiding her power chair with effortless grace alongside **Stella** in her polished burgundy service harness) and **Stephen**, holding the hand of twenty-month-old **Stella** as the little girl beamed and tossed white and midnight-blue rose petals across the oak runner.
 
 Then came the seven women of the Pact—walking one by one in sweeping midnight-blue silk gowns, pausing at the front of the aisle before Jordan’s wheelchair for the **Ceremony of the Constellation (The Releasing and Anchoring of the Groom)** that they had written together:
 
@@ -20487,31 +20616,39 @@ Analysis:
 - Next Sequence: Entrance of Hannah Morales and Aubrie Jean Kelly. 07-16-2016 13:48:12
 ```
 
-The string quartet transitioned into a soaring, luminous melody as the tall conservatory doors swung wide.
+The string quartet swelled into the chorus of *"My Anchor Holds"* as the double doors opened once more.
 
-Walking down the wide center aisle side by side—escorted by their fathers—came **Hannah Morales** and **Aubrie Jean Kelly** in breathtaking ivory lace gowns that caught the summer sunlight streaming through the glass roof.
+Walking down the wide center aisle side by side—escorted by their fathers, **Carlos Morales** and **Robert Kelly**—came **Hannah Morales** and **Aubrie Jean Kelly** in breathtaking ivory lace gowns that caught the summer sunlight streaming through the glass roof.
 
 Beside Jordan, Mark let out a shaky, awe-struck breath as Hannah smiled at him through happy tears. And when Jordan looked at Aubrie Jean walking straight toward his wheelchair—her eyes locked onto his with the exact same fierce, unwavering tenderness she had given him in `Room 214` on the day he arrived in Blacksburg with a trash bag of clothes and a silenced voice—his chest swelled with a love so vast it felt like the cosmos itself.
 
-At the altar, **Mark and Hannah** exchanged their vows first, their voices steady and radiant as Mark slipped the gold band onto Hannah’s finger and promised to build every road, bridge, and home of his life at her side.
+At the altar, **Mark and Hannah** exchanged their vows first. Mark took Hannah’s hands, his voice thick with emotion but steady and true:
+
+"Hannah, for the last two years, we've been part of building something extraordinary—a family, a fortress, a home. And through every single storm, I have watched your quiet strength, your endless kindness, and the way you hold all of us together. Every good team needs a rock, an anchor. You're my anchor, Hannah. I promise to build every road, bridge, and home of my life at your side, and to love you fiercely for all our days."
+
+Hannah smiled through her tears as she squeezed his fingers:
+
+"Mark, the first thing I ever loved about you was your heart—how fiercely you protect the people you love, and how you never hesitate to carry the heavy load so no one else has to fall. You are my partner, my best friend, and my home. I promise to stand beside you, laugh with you, and build our life together forever."
+
+Mark slipped the gold band onto Hannah’s finger, and Hannah slipped the matching band onto his.
 
 Then the officiant turned to **Jordan and Aubrie Jean**.
 
-Aubrie Jean knelt gracefully on a velvet cushion placed right beside Jordan’s `Vanguard Pro` so that their eyes were completely level, taking both of his hands in hers.
+Just as Jessica and Isabel had arranged, Aubrie Jean stepped to the side of Jordan’s `Vanguard Pro` and knelt gracefully on the plush midnight-blue velvet cushion—bringing her eyes completely level with Jordan’s as she took both of his hands in hers.
 
-"Jordan," Aubrie Jean said, her voice clear and ringing through the silent conservatory, "when you rolled into Suite 214 in August 2014, the world had spent eighteen years trying to convince you that you were an extension of someone else's script—that your voice didn't matter, and that your body was a burden. Look around this room today, my love. Every person in these seats is here because of the man *you* chose to become. You are the bravest, kindest, funniest, most extraordinary soul I have ever known. I loved you at eighteen, I loved you in the dark of Room 412, and I will love you for every breath our hearts ever beat."
+"Jordan," Aubrie Jean said, her voice clear and ringing through the hushed conservatory, "when you rolled into Suite 214 in August 2014, the world had spent eighteen years trying to convince you that you were an extension of someone else's script—that your voice didn't matter, and that your body was a burden. Look around this room today, my love. Every person in these seats is here because of the man *you* chose to become. You are the bravest, kindest, funniest, most extraordinary soul I have ever known. You are my heart, my teacher, and my home. I loved you at eighteen, I loved you in the dark of Room 412, and I will love you for every breath our hearts ever beat."
 
-Tears rolled down Jordan’s cheeks. He lifted his right hand to his `mPad`, where he had spent weeks composing and practicing his vows, and tapped the first paragraph:
+Tears rolled down Jordan’s cheeks. He lifted his right hand to his `mPad`—where Sarah and Mark’s direct audio line carried his `Sydney` voice clearly and warmly to every corner of the conservatory—and tapped the first paragraph of his vows:
 
-<aac>"Aubrie Jean. When I came to Blacksburg, I didn't have a voice, I didn't have a future, and I didn't even have a name that belonged to me. You didn't try to fix me. You listened to me. You gave me room to breathe, room to laugh, and room to love. And when my heart stopped last October, it was the sound of your voice—and the love of our family—that brought me back across the dark."</aac>
+<aac>"Aubrie Jean. When I came to Blacksburg, I didn't have a voice, I didn't have a future, and I didn't even have a name that belonged to me. On that very first night, when I was terrified of the dark, you climbed into my bed and held me until the shaking stopped. You didn't try to fix me. You listened to me. You gave me room to breathe, room to laugh, and room to love. And when my heart stopped last November, it was the sound of your voice—and the love of our family—that brought me back across the dark. I promise to love you, to cherish you, and to be your safe harbor for the rest of my life."</aac>
 
-Then Mark stepped one pace closer beside Jordan’s chair, resting his right hand firmly on his younger brother’s shoulder as Jordan tapped the next block of his vows:
+Then **Mark** stepped one pace closer beside Jordan’s chair, resting his right hand firmly on his younger brother’s shoulder as Jordan tapped the next block of his vows:
 
 <aac>"For nineteen years, my legal name was a sentence written by someone who never knew me. Last winter, the two people who saved my life offered me a new name—and in ten minutes, we are going to walk across Main Street to the Montgomery County Courthouse to seal it in law."</aac>
 
 Mark smiled through his tears, his voice resonating across the hall:
 
-"Jordan, from the day you walked into my parents' living room in Bluefield, you have been my brother in every way that counts. Today, in front of everyone we love, I give you my middle name—**`Shawn`**—so that you never walk a single mile of this life without a brother at your back."
+"Jordan, from the day you rolled into our lives in Bennett Hall and walked into our parents' living room, you have been my brother in every way that counts. Today, in front of everyone we love, I give you my middle name—**`Shawn`**—so that you never walk a single mile of this life without a brother at your back."
 
 Aubrie Jean lifted her chin, her eyes shining like stars as she squeezed Jordan’s hands:
 
@@ -20530,6 +20667,8 @@ And before a single champagne glass was poured for the reception, **Daniel Brook
 ### Part 2: The Legal Seal, The Reception, & The First Night
 
 **Date:** 2016-07-16 at 14:45 America/New_York
+
+![Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on July 16, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Cooper and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg)
 
 #### 2:45 PM — Chamber B: The Legal Seal (`Jordan Shawn Kelly`)
 
