@@ -10697,6 +10697,66 @@ Jordan's fingers flew across his **NeoEdit** keyboard on his **mPad**, and he ta
 
 "Every single track on both sides, J," Mark smiled, settling back onto the cushion beside Hannah as Side A glided seamlessly into Track Two ([*"Plastic Sky"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-02-plastic-sky)), Track Three ([*"My Anchor Holds"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds)), and Track Four ([*"Dancing in the Neon"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-04-dancing-in-the-neon)), before flipping the record over to Side B so Jordan could hear [*"Break the Walls"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-08-break-the-walls), [*"Worlds Apart"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-09-worlds-apart), and the band's soaring closing origin anthem, [*"The Stardust Engine"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine).
 
+***
+
+#### January 19, 2015 • 12:05 AM — The Sting of *Live in Norfolk*
+
+When the diamond stylus lifted off the run-out groove of Side B just after midnight, Jordan was still glowing with the warmth of the 1987 studio record. Looking over at the rack of concert CDs and digital archives beside Daniel’s stereo receiver, Jordan typed a curious question onto his **mPad** and tapped **`Speak`**:
+
+<aac>What does "Electric Color" sound like when The Stardust Engine plays it live in a stadium with thousands of fans singing along? Do you have a live recording of it?</aac>
+
+"Oh, man, wait until you hear how massive they sound in an arena when **Ryan** lets his guitar carry the vocal hook for the crowd," **Mark** said enthusiastically, reaching for the media tablet connected to the basement pre-amp before the album title even registered in his head. Focused entirely on queuing up the band's most famous live closer—Track 14 from their October 2005 farewell concert album, [***Live in Norfolk***](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk)—Mark tapped play on [**"Electric Color (Live in Norfolk)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk?track=1-14-electric-color).
+
+For the first forty-four seconds, Jordan was completely captivated.
+
+A thunderous arena crowd roar washed through the basement speakers, followed by an extended, high-voltage 1980s synth-pop and dance-rock instrumental vamp. Just as Mark had promised, **Ryan O'Connell's** bright electric guitar belted out the exact vocal melody of the chorus over **Tyler Wright's** gated snare drums and **Evan Wright's** funky bassline so twenty thousand voices could sing along to the riff before a single lyric was even sung. Sitting between **Aubrie Jean** and **Madison**, Jordan grinned from ear to ear, tapping his fingers against the armrest of his wheelchair in time with the beat.
+
+Then, at **`0:45`**, the band dropped the music down to a hushed, shimmering synthesizer pad and a pulsing kick drum.
+
+**Cassidy O'Connell** stepped up to the microphone, breathless and electric, and shouted out across the arena:
+
+> *"Norfolk! Oh, it feels so good to be back on Virginia soil! We've been all over the world on this tour, and you've been singing with us all night long! Before we head back home to the mountains to rest for a while... we've got one last song left in the tank! Let's turn the Prism Arena into a dance floor one last time! Let me see you move!"*
+
+The word **"Norfolk"** hit Jordan like a bucket of ice water thrown straight into his chest.
+
+Instantly, the smile vanished from Jordan’s face. His fingers froze mid-tap on his wheelchair armrest, his shoulders pulled tight toward his ears, and his breath hitched in a sharp, silent flinch.
+
+Even as Cassidy launched into the opening verse (*"Woke up this morning, the world was gray..."*), Jordan couldn't hear the warmth of the song anymore. Inside his mind, the word **Norfolk** had tripped every alarm wire in his nervous system at once:
+
+```text
+[SYSTEM INTERRUPT: GEOGRAPHIC TRAUMA TRIGGER DETECTED]
+└── Input Token: "Norfolk! Oh, it feels so good to be back on Virginia soil!"
+    ├── Memory Address 0x01: Hampton Roads / Virginia Beach (18 Years Under Aubrie Sinclair's Control)
+    ├── Memory Address 0x02: October 18, 2014 — The 38-0 Homecoming Humiliation vs. VDU ("Norfolk")
+    └── Emotional Conflict: Sanctuary Anthem ("Electric Color") Contaminated by Hostile Territory
+```
+
+To anyone else in Virginia, Norfolk was just a coastal city down Interstate 64. To Jordan in January 2015, **Norfolk** was the border of his mother’s empire in Hampton Roads—the exact place he had spent eighteen years trapped in a gray room with the curtains drawn tight, and the exact name emblazoned across the jerseys of the Virginia Dominion University team that had humiliated CPI `38–0` at Homecoming and triggered his worst stadium meltdown. Hearing his newfound favorite band—the band from **Blacksburg** that had just given him the anthem of his awakening—cheering for *Norfolk* inside his safe song felt like his mother’s shadow had reached three hundred miles across the state to claim even [*"Electric Color"*](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk?track=1-14-electric-color).
+
+When the track reached the final outro (`4:08`) and Cassidy shouted over the cheering Hampton Roads crowd—*"Thank you, Norfolk! Goodnight!"*—a single hot tear slipped out from behind Jordan’s glasses and traced down his cheek.
+
+**Aubrie Jean** felt the tremor in Jordan’s left hand immediately. Across the room, **Mark’s** eyes went wide with horror as the realization of which album he had just played hit him all at once.
+
+"Oh, shoot—*Norfolk*," Mark gasped, lunging forward to mute the pre-amp as the final synth hit faded out. He dropped to one knee beside Jordan’s footrests, his face stricken with guilt. "Jordan, I am so, so sorry. I wasn't even thinking about the city name—I only remembered that their 2005 concert album had the only official live recording of *'Electric Color'*. That was completely my fault."
+
+"Hey, hey, breathe with me, J, you're right here on Geneva Street in Christiansburg," **Aubrie Jean** whispered, wrapping both arms securely around Jordan’s shoulders while **Madison** pressed gently against his right side and **Lauren** rested a steadying hand over his knee.
+
+Jordan took a long, shaky breath against Aubrie’s collarbone, his fingers slowly uncurling as the deep-pressure warmth of his found family anchored him back in the basement. After a quiet moment, he reached for his **mPad** and typed a small, honest confession on his **NeoEdit** screen:
+
+<aac>I know it is not the band's fault, and I know you did not mean to upset me, Mark. It just hurt when she shouted "Norfolk!" and "Thank you, Norfolk!" inside my song. In my head, Norfolk means Hampton Roads, my mother's house, and the 38-0 Homecoming game. I wanted "Electric Color" to belong to Blacksburg and to us—not to where I came from.</aac>
+
+**Daniel Brooks** walked over from the vinyl shelves and crouched beside Mark in front of Jordan’s chair, resting a warm, fatherly hand on Jordan’s arm.
+
+"Look at the back cover of that 2005 album for a second, son," Daniel said gently, holding up the sleeve of [***Live in Norfolk***](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk) so Jordan could read the date and subtitle: **October 29, 2005 — The Final Show Before the Burnout Hiatus**. "Listen to what Cassidy actually said in that intro right before she sang: *'Before we head back home to the mountains to rest for a while... we've got one last song left in the tank.'* They weren't staying in Norfolk, Jordan. By October 2005, **Ryan**, **Cassidy**, **Evan**, and **Tyler** were completely exhausted from nineteen years of non-stop world tours. That night at the Prism Arena was the night they walked off the road, got on their tour bus, drove straight up Interstate 81 out of Hampton Roads, and came **home to Blacksburg** for nine years to heal."
+
+Jordan blinked behind his glasses, looking closely at the 2005 liner notes in Daniel’s hands. Even the band had left Norfolk behind to come home to the mountains of Blacksburg!
+
+"And I'll make you a promise right now, little brother," Mark said fiercely, squeezing Jordan’s shoulder. "Now that **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** is back in their Progress Street studio working on their comeback album, they are going to play a homecoming concert at **The Crucible** right here on campus before we graduate. And when they play *'Electric Color'* under the lights in Blacksburg, we are all going to be sitting right there in the front row together—and Cassidy O'Connell is going to shout **'Blacksburg!'** and **'CPI!'** so loud it deletes that Norfolk version forever."
+
+A genuine, watery smile finally broke through the tension on Jordan’s face. He looked from Mark and Daniel to **Aubrie Jean** and **Madison**, then tapped **`Speak`** one more time:
+
+<aac>Deal. Until they record a live version here in Blacksburg, we stick to the 1987 vinyl—and whatever versions they recorded here at home in the mountains.</aac>
+
 ### Part 4: Starfield Calibration & The Call from Bluewater
 
 **Date:** 2015-01-19 at 21:30 America/New_York
@@ -10707,9 +10767,9 @@ On Monday night, January nineteenth—the evening after their Sunday vinyl marat
 
 Parked side by side at their desks, Jordan and Aubrie still had the orbital mechanics diagrams from their astrophysics readings open on their screens—specifically the mathematical derivation for **gravitational tidal locking**, the phenomenon in which two celestial bodies in mutual orbit rotate in synchronous lockstep so that the same side of one body permanently faces its partner across the vacuum of space.
 
-On the secondary monitor of his **Pinnacle Vanguard Pro**, Jordan had pulled up the official band archive of **[The Stardust Engine](https://stardust.raggiesoft.com)** and their complete digital catalog in **[The Listening Room](https://music.raggiesoft.com/artists/the-stardust-engine)** that **Mark** and **Daniel** had shared with him the night before.
+On the secondary monitor of his **Pinnacle Vanguard Pro**, Jordan had pulled up the official band archive of **[The Stardust Engine](https://stardust.raggiesoft.com)** and their complete digital catalog in **[The Listening Room](https://music.raggiesoft.com/artists/the-stardust-engine)** that **Mark** and **Daniel** had shared with him the night before, searching for the studio recordings the band had made right here in **Blacksburg** after walking away from the road in 2005.
 
-"Look at this album from October 18, 2011, J," Aubrie Jean said softly, leaning her shoulder against Jordan’s right arm as she pointed to a deep-space cover shimmering with orbital telemetry rings: [***Starfield Calibration***](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration). "Listen to the subtitle: *Celebrating 25 Years Since 'Ignition (The Forger's Call)' Shook The Crucible (Oct 18, 1986 – Oct 18, 2011)*. And look at what **Cassidy O'Connell** named the sound architecture she engineered for it: **[The Cosmic Tidal Lock Sound™](https://stardust.raggiesoft.com/story/cosmic-tidal-lock-sound)**."
+"Look at this album from October 18, 2011, J—recorded 100% inside their private Progress Street studio right here in Blacksburg," Aubrie Jean said softly, leaning her shoulder against Jordan’s right arm as she pointed to a deep-space cover shimmering with orbital telemetry rings: [***Starfield Calibration***](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration). "Listen to the subtitle: *Celebrating 25 Years Since 'Ignition (The Forger's Call)' Shook The Crucible (Oct 18, 1986 – Oct 18, 2011)*. And look at what **Cassidy O'Connell** named the sound architecture she engineered for it: **[The Cosmic Tidal Lock Sound™](https://stardust.raggiesoft.com/story/cosmic-tidal-lock-sound)**."
 
 Jordan’s green eyes widened behind his glasses as he scrolled down into the studio liner notes written by **Cassidy** and **Holly O'Connell**. Together, he and Aubrie read every paragraph on the glowing screen.
 
@@ -19889,7 +19949,7 @@ And at `2:12`, when the full 1980s Arena Rock band slammed in at maximum power, 
 
 In `Section 104, Row A, Seat 1`, tears spilled freely down **Jordan**’s cheeks—not the terrified, suffocating tears of a system crash, and not the agonizing tears of a hospital bed, but the bright, overflowing tears of a twenty-year-old young man whose healed heart was beating strong and free inside his chest.
 
-He remembered sitting on the living room carpet in Bluefield in January 2015, watching Daniel lower the diamond stylus onto the 1987 vinyl LP of [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) for the very first time—hearing the words *"The city sounds were just a buzz in my ear / A static station I could never quite hear / But now the noise is turning into a song / And I finally feel like I belong"*. He remembered lying in the CVICU at Carilion Roanoke Memorial Hospital seven months ago, listening to Aubrie Jean and his family promise him that he was going to make it back to Blacksburg.
+He remembered sitting in the Brooks family basement on Geneva Street in January 2015, watching Daniel lower the diamond stylus onto the 1987 vinyl LP of [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) for the very first time—hearing the words *"The city sounds were just a buzz in my ear / A static station I could never quite hear / But now the noise is turning into a song / And I finally feel like I belong"*. He remembered how sharply it had stung later that same night when Mark accidentally played the 2005 [***Live in Norfolk***](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk?track=1-14-electric-color) version and Cassidy’s shout of *"Norfolk!"* had triggered every raw memory of Hampton Roads and the `38–0` Homecoming rout—and how Mark had knelt beside his wheelchair and promised him that one day, they would sit together in the front row at **The Crucible** while Cassidy shouted **"Blacksburg!"** and **"CPI!"** to overwrite that Norfolk recording forever. He remembered lying in the CVICU at Carilion Roanoke Memorial Hospital seven months ago, listening to Aubrie Jean and his family promise him that he was going to make it back to Blacksburg.
 
 Now, after Evan’s heavy bass groove drove through the Bridge (`2:36–2:52`), the music cut out completely at `2:53` to a deafening stadium roar. Cassidy looked out across her alma mater, her voice ringing off the limestone walls:
 
