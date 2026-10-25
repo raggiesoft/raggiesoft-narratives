@@ -3519,7 +3519,7 @@ Whenever he had looked wistfully out the car window at a **Coastal Virginia Tran
 
 Then a deep, refined diesel hum echoed beneath the stone arch of the skybridge.
 
-Gliding smoothly up to the curb was a sixty-foot **Blue Ridge Transit** low-floor articulated bus manufactured by **Prairie Coachworks**, painted in crisp Arctic White with an Appalachian Pine Green lower skirt and sweeping Teal and Sky-Blue side ribbons. Above the wide panoramic windshield, the glowing amber LED destination sign alternated cleanly between two frames:
+Gliding smoothly up to the curb was a sixty-foot **Blue Ridge Transit** articulated bus. Above the wide panoramic windshield, the glowing amber destination sign alternated cleanly between two frames:
 
 1 CBURG TRANS CTR
 via S MAIN ST
@@ -4171,7 +4171,7 @@ Out on the brick island, a tall CPI freshman in a maroon jacket stared at the pr
 
 "Are you kidding me?!" the freshman shouted, throwing his hands up. "The 7:15 *Radford Connector* was already full and left us behind, and the local bus we just rode from the hotel dropped us off on the :45 lineup—so there isn't another *Radford Connector* until *8:15*?!"
 
-At 07:55 AM, a thirty-five-foot **Blue Ridge Transit** bus painted in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery rumbled into Bay 4 at the far end of the island, its amber Luminator LED sign flipping between **3 PEPPER PLAZA** and **via US-11**.
+At 07:55 AM, a **Blue Ridge Transit** bus rumbled into Bay 4 at the far end of the island, its destination sign flipping between **3 PEPPER PLAZA** and **via US-11**.
 
 "Hey!" another CPI student yelled across the platform, pointing at the Blue Ridge Transit bus. "Don't wait twenty minutes for the 8:15 Connector! That's **Blue Ridge Transit Route 3**—it runs every thirty minutes down US-11 into Christiansburg! We can ride the 3 to **Pepper Plaza Transit Center** and transfer to **Blue Ridge Transit Route 1** going up Business 460 into Blacksburg!"
 
@@ -6317,7 +6317,7 @@ All around them on the brick sidewalk, dozens of CPI students with rolling suitc
 
 According to the timetable on Zoë's mPhone, the next southbound **Blue Ridge Transit Route 1** local bus down Business 460 was due in about ten minutes. Just as the nine friends were settling in along the sidewalk and watching the Main Street corner like everyone else, however, a completely different vehicle swung wide off **Business 460** onto **Commonwealth Mall** and glided to the curb right behind the departing local buses with a deep, turbocharged diesel purr.
 
-It wasn't a standard low-floor city transit bus. It was a towering, forty-five-foot **Sainte-Claire 45H3** over-the-road highway motorcoach painted in gleaming maroon and silver livery, its high-visibility amber LED destination sign above the panoramic windshield cycling cleanly between two crisp displays (CBURG TC standing for Christiansburg Transit Center, and EXP for Express):
+It wasn't a standard low-floor city transit bus. It was a towering over-the-road highway motorcoach, its destination sign above the panoramic windshield cycling cleanly between two displays (CBURG TC standing for Christiansburg Transit Center, and EXP for Express):
 
 <led>MAROON EXPRESS</led>
 <led>BLUEWATER EXP via CBURG TC</led>
@@ -8208,7 +8208,7 @@ Slowly, with fingers that barely trembled anymore, he reached down to his Precis
 
 On Tuesday morning, December 23rd, the nine friends set out on a full-day holiday road trip across Southwestern Virginia—Entirely by regional public transit—to visit **Madison**’s family down in **Bluewater** and **Sarah**’s father over in **Radford**.
 
-At eight-forty-five sharp, all nine of them—**Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—boarded the forty-five-foot **Bluewater Transit *Maroon Express*** over-the-road highway coach (Sainte-Claire 45H3) at the **Christiansburg Transit Center**, its amber LED destination sign alternating between **MAROON EXPRESS** and **BLUEWATER EXP via CBURG TC** while the exterior ADA speaker announced *"Bluewater Transit Maroon Express to Bluewater Transit Center via Christiansburg Transit Center"*. After the operator raised Jordan up to the elevated cabin on the mid-coach hydraulic lift, stowed his folded manual chair in the under-floor luggage bay, and glanced at all nine of their **Poly Passes** for their free ride, the group settled into the plush high-backed coach seats and watched the snow-blanketed peaks of the Blue Ridge roll past the tinted windows during the comfortable sixty-minute express run south down I-81 and I-77 into Carroll County.
+At eight-forty-five sharp, all nine of them—**Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—boarded the **Bluewater Transit *Maroon Express*** over-the-road highway coach at the **Christiansburg Transit Center**, its destination sign alternating between **MAROON EXPRESS** and **BLUEWATER EXP via CBURG TC** while the exterior ADA speaker announced *"Bluewater Transit Maroon Express to Bluewater Transit Center via Christiansburg Transit Center"*. After the operator raised Jordan up to the elevated cabin on the mid-coach hydraulic lift, stowed his folded manual chair in the under-floor luggage bay, and glanced at all nine of their **Poly Passes** for their free ride, the group settled into the plush high-backed coach seats and watched the snow-blanketed peaks of the Blue Ridge roll past the tinted windows during the comfortable sixty-minute express run south down I-81 and I-77 into Carroll County.
 
 At nine-forty-five, they disembarked at the bustling **Bluewater Transit Center**—directly across the street from **Bluewater High School**—and made a seamless five-minute cross-platform transfer onto the local **Blue Line** city bus. At ten-oh-five on the dot, the low-floor Stalwart hissed to a stop at the corner of Madison’s quiet, tree-lined residential street.
 
@@ -9791,7 +9791,7 @@ Because it was a **Sunday**, **Roanoke Valley Transit (RVT)** did not operate it
 1. **Blue Ridge Transit (BRT) Route 1**, a low-floor city transit bus that wound through all the local stops along US-11, Pepper Plaza, North Franklin Street, and South Main Street, taking about **forty-five minutes** to reach **Commonwealth Mall**.
 2. **Bluewater Transit’s *Maroon Express***, an over-the-road highway coach that operated **once hourly** on Sundays, took the **BUSES ONLY flyover ramp** straight onto the **U.S. Route 460 Bypass**, made just **one intermediate stop at New River Valley Mall**, and reached **Commonwealth Mall** in only **thirty minutes**.
 
-Unlike a low-floor Blue Ridge Transit city bus—where a front door ramp simply flipped out onto the curb in five seconds—both the ***Maroon Express*** and the ***Roanoke Express*** were towering, forty-five-foot **Sainte-Claire 45H3** over-the-road highway coaches. Getting Jordan on board a high-deck motorcoach was a much more involved mechanical operation involving the mid-coach hydraulic wheelchair lift above the luggage bays. Yet Jordan hadn't hesitated for a second: he wanted the thirty-minute express trip today, because he was eager to get back to CPI, and the very first person he was going looking for the second they reached Bennett Hall was **Isabel Dawson**.
+Unlike a low-floor Blue Ridge Transit city bus—where a front door ramp simply flipped out onto the curb in five seconds—both the ***Maroon Express*** and the ***Roanoke Express*** were towering over-the-road highway coaches. Getting Jordan on board a high-deck motorcoach was a much more involved mechanical operation involving the mid-coach hydraulic wheelchair lift above the luggage bays. Yet Jordan hadn't hesitated for a second: he wanted the thirty-minute express trip today, because he was eager to get back to CPI, and the very first person he was going looking for the second they reached Bennett Hall was **Isabel Dawson**.
 
 Right at 1:12 PM, three minutes ahead of its 1:15 PM departure time, the gleaming forty-five-foot maroon-and-silver **Bluewater Transit *Maroon Express*** highway coach glided into the Christiansburg Transit Center, its amber LED destination sign above the panoramic windshield alternating cleanly between two lines (CBURG TC standing for Christiansburg Transit Center, and EXP for Express):
 
@@ -15965,7 +15965,7 @@ ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Switching from 05:4
 
 "Wait—won't a `6:00 AM` bus be crowded?" Madison asked.
 
-"Negative," Zoë replied, shaking her head. "Historical ridership logs show the off-campus commuter panic wave does not begin until `6:45 AM`. At `6:00 AM`, Route 1 is still well below twenty-five percent capacity. Furthermore, every BRT Route 1 bus is a low-floor **Prairie Coachworks** transit coach with a front pneumatic kneel ramp—meaning Jordan can roll *S.S. Freedom* straight on and off in ten seconds without waiting for a center-door hydraulic lift."
+"Negative," Zoë replied, shaking her head. "Historical ridership logs show the off-campus commuter panic wave does not begin until `6:45 AM`. At `6:00 AM`, Route 1 is still well below twenty-five percent capacity. Furthermore, every BRT Route 1 bus is a low-floor bus with a front pneumatic kneel ramp—meaning Jordan can roll *S.S. Freedom* straight on and off in ten seconds without waiting for a hydraulic lift."
 
 "It's a forty-five-minute bus ride instead of thirty," Mark noted, grinning, "which just means fifteen extra minutes of sitting in a heated bus cabin instead of freezing on a metal bench. And we get to sleep until `5:15 AM`!"
 
@@ -19574,7 +19574,7 @@ and:
 TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN
 ```
 
-And gliding smoothly into line right behind the thirty-foot *Radford Connector* came a sixty-foot low-floor articulated **Blue Ridge Transit (`BRT`)** coach manufactured by **Prairie Coachworks**, painted in crisp white, slate-blue, and green ***"Mountain Mist & River Ribbon"*** livery, its amber Luminator headsign reading:
+And gliding smoothly into line right behind the *Radford Connector* came a sixty-foot articulated **Blue Ridge Transit (`BRT`)** bus, its destination sign reading:
 
 ```
 1 CBURG TRANS CTR
@@ -19584,7 +19584,7 @@ And gliding smoothly into line right behind the thirty-foot *Radford Connector* 
 via BUSINESS 460 & PEPPER PLAZA
 ```
 
-As the sixty-foot *Prairie Coachworks* articulated coach kneeled its front air suspension and deployed its flip-out wheelchair ramp onto the **Commonwealth Mall** sidewalk with a smooth pneumatic hiss, both Jordan (in his power chair, *S.S. Freedom*) and the visiting VDU student in the blue manual wheelchair happened to glance toward the two transit buses at the exact same second.
+As the articulated bus kneeled its front suspension and deployed its wheelchair ramp onto the **Commonwealth Mall** sidewalk with a smooth pneumatic hiss, both Jordan (in his power chair, *S.S. Freedom*) and the visiting VDU student in the blue manual wheelchair happened to glance toward the two transit buses at the exact same second.
 
 Neither of them knew who the other was—just a CPI student in a power chair catching his Friday afternoon bus home to Christiansburg with his family, and a visiting VDU RHA delegate in a temporary post-surgical manual chair arriving with his sister for `SAACURC`—but as their eyes briefly met across the salted brick sidewalk, they exchanged a warm, knowing nod and a friendly wave in passing. Standing right beside Jordan's chair, **Aubrie Jean**—who had grown up in the **Emerald Creek** area of **Chesapeake** right next door to Norfolk—caught a fleeting, half-familiar sense of *déjà vu* as she glanced at the two VDU delegates in their `Chesapeake Teal` parkas, wondering for half a second if she had ever walked past them years ago in the corridors or bookstore of **Emerald Creek Mall** back home in Hampton Roads, before the moment passed into the crisp mountain air.
 
@@ -19596,9 +19596,9 @@ Thread 1 (Self) & Thread 3 (Jordan.OS)
 Event: Commonwealth Mall Curbside Transit Boarding During SAACURC Friday Arrivals.
 Analysis:
 - Location: Commonwealth Mall Curbside Lineup (Beneath The Keystone Bridge across from Kincaid Hall).
-- Active Transit Units: Radford Transit Unit 104 (30-ft Low-Floor "Radford Connector" -> Right onto Stanger St, Left onto Prices Fork Rd, Right onto Peppers Ferry Rd, Left onto US-11, across New River Bridge, Left onto West Main St to McConnell Transit Center; hourly local service for Prices Fork, Belview, Centerville, and Fairlawn) & Blue Ridge Transit Route 1 (60-ft Prairie Coachworks Articulated Coach -> Christiansburg Transit Center via Business 460 & Pepper Plaza).
+- Active Transit Units: Radford Transit "Radford Connector" (McConnell Transit Center via Prices Fork, Belview, Centerville, and Fairlawn) & Blue Ridge Transit Route 1 (Christiansburg Transit Center via Business 460 & Pepper Plaza).
 - Observation: Passing VDU SAACURC delegates (RHA Director of Operations in temporary post-surgical manual wheelchair and RHA Secretary) observed crossing toward Kincaid Student Center.
-Decision: Board 16:30 Blue Ridge Transit Route 1 articulated coach to Christiansburg Transit Center. 02-12-2016 16:28:19
+Decision: Board 16:30 Blue Ridge Transit Route 1 bus to Christiansburg Transit Center. 02-12-2016 16:28:19
 ```
 
 Rolling smoothly up the front ramp of the sixty-foot **Blue Ridge Transit Route 1** coach surrounded by Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, Isabel, Mark, and Hannah, Jordan guided *S.S. Freedom* into the forward wheelchair securement bay as the articulated doors folded shut.
@@ -19818,7 +19818,7 @@ Now, on Saturday afternoon, May 21, 2016, at `15:00`, all sixteen members of the
 
 "Nobody is driving anywhere near Stadium Woods today," Mark said with a grin as the sixteen of them made the short one-block walk down the hill from `414 Geneva Street` to the **Christiansburg Transit Center**, where the Park & Ride lot had been transformed into a sea of maroon and orange. "Blue Ridge Transit suspends regular route numbers for Tier 1 stadium events and runs sixty-foot articulated shuttles straight from here at the Christiansburg Transit Center to the Crucible Bus Loop!"
 
-Right on cue, a gleaming sixty-foot articulated **Blue Ridge Transit** coach manufactured by **Prairie Coachworks**—painted in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery—pulled up to the Christiansburg Transit Center curb. Its amber LED headsign alternated between two crisp messages:
+Right on cue, an articulated **Blue Ridge Transit** shuttle pulled up to the Christiansburg Transit Center curb. Its destination sign alternated between two messages:
 
 ```
 CRUCIBLE SHUTTLE
@@ -19998,15 +19998,15 @@ When the final brass chord and gong strike of [**"Electric Color (Live at the Cr
 
 Rolling smoothly out through the level Gate 1 accessible tunnel onto the dedicated **Crucible Bus Loop**, Jordan and Mark stopped in their tracks with matching transit-geek grins.
 
-Lined up stem-to-stern along the illuminated concrete boarding island was a glorious joint-agency fleet staged by **Blue Ridge Transit** and **Bluewater Transit** (which had dispatched four of its flagship forty-five-foot **Sainte-Claire 45H3** intercity motorcoaches up from Bluewater to help move the regional crowd):
+Lined up stem-to-stern along the illuminated concrete boarding island was a joint-agency fleet staged by **Blue Ridge Transit** and **Bluewater Transit**:
 
-Up at Sector 1, a gleaming forty-five-foot burgundy-and-silver **Bluewater Transit** commuter coach sat idling with its high-visibility destination sign reading:
+Up at Sector 1, a **Bluewater Transit** commuter coach sat idling with its destination sign reading:
 
 ```
 MAROON EXPRESS ... BLUEWATER via CBURG TRANS CTR
 ```
 
-And directly in front of them at Sector 4, a pair of sixty-foot articulated **Blue Ridge Transit** coaches in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery waited with their doors open and kneeling ramps deployed, their amber headsigns cycling between:
+And directly in front of them at Sector 4, a pair of articulated **Blue Ridge Transit** shuttles waited with their doors open and kneeling ramps deployed, their destination signs cycling between:
 
 ```
 CBURG TRANS CTR
