@@ -28920,7 +28920,7 @@ I am not normally a wheelchair user—standing up, I'm `5'7"`, the exact same he
 
 And there was no way I was missing **`SAACURC`**.
 
-Unlike **`CACUHO`** (*the Commonwealth Association of College and University Housing Officers*, which is the professional organization for employed Housing and Residence Life staff and hired RAs—a completely separate entity that doesn't intermingle with student government at all), **`SAACURC`** (*the South Atlantic Affiliate of College and University Residence Halls*) is the student-governed **RHA** branch of residence life. At VDU, **every single RHA position is elected directly by on-campus residents**:
+**`SAACURC`** (*the South Atlantic Affiliate of College and University Residence Halls*) is the student-governed **Residence Hall Association (`RHA`)** conference for our region. Before we pulled out of Norfolk this morning, **Kyleen**—who, as a full-time Residence Life staff member, also attends **`CACUHO`**, a separate professional housing conference that Rachel and I had never even heard of because professional housing staff and student-governed RHAs are run by two completely separate entities that don't intermingle—had reminded our van that at `SAACURC`, the students run the floor. At VDU, **every single RHA position is elected directly by on-campus residents**:
 * Back in the fall election, VDU's on-campus residents had elected me **Director of Operations** for the VDU Residence Hall Association. My job is the structural backbone of our organization: I build and standardize the meeting minutes templates, keep our RHA cloud storage drive organized with military-grade folder taxonomy, and receive and audit the weekly operational reports from the Hall Councils of every single residence hall across the VDU campus.
 * And sitting right beside me in the van—bundled up in her matching **`Chesapeake Teal`** (`#005F6A`) and **`Harbor Gold`** (`#D4AF37`) **VDU Admirals** winter coat and knit scarf—was my Bug, **Rachel**, whom VDU's on-campus residents had elected **RHA Secretary**. Between my cloud-drive architecture and Rachel's live transcription speed, the two of us ran VDU RHA's documentation like a Swiss watch.
 
@@ -28934,15 +28934,13 @@ Unlike **`CACUHO`** (*the Commonwealth Association of College and University Hou
 
 While Kyleen finished checking our delegation's master room block in at the front desk of **The Hotel at Poly**, the six of us walked across the salted brick plaza toward **Kincaid Student Center** (`290 College Ave.`) to pick up our Friday evening early-bird registration lanyards before dinner.
 
-Our route took us right up to the crosswalk along **Commonwealth Mall**, directly beneath the limestone arch of **The Keystone Bridge** across from **Kincaid Hall**.
+Our route took us right past the crosswalk along **Commonwealth Mall**, directly beneath the limestone arch of **The Keystone Bridge** across from **Kincaid Hall**.
 
 Even in the thirty-degree February air, the transit geek in me immediately perked up. Along **Commonwealth Mall**, there were no dedicated off-street bus bays—instead, buses from every transit agency in the New River Valley simply pulled up to the long sidewalk curb and lined up nose-to-tail one behind the other.
 
-Approaching the exact same crosswalk from the campus side was a tight-knit group of ten CPI students heading toward the bus stop for the weekend. Rolling at the center of their formation in an ultralight, rigid-frame `Tilite Aero Z` wheelchair—dressed in a heavy maroon **CPI Forgers** winter jacket with a tablet mounted on an articulating arm across his lap—was a guy around twenty years old (`Jordan`), flanked by a young woman with warm, attentive eyes holding his hand (`Aubrie Jean`), a tall, broad-shouldered guy in an engineering jacket (`Mark`), and seven other young women who moved around his chair with the exact same seamless, protective situational awareness that Rachel and I use in crowds.
+Right as we reached the crosswalk, two buses rumbled under **The Keystone Bridge** and pulled up nose-to-tail along the curb.
 
-Right as both of our groups paused at the curb, two buses rumbled under **The Keystone Bridge** and pulled up nose-to-tail in front of us.
-
-First in line at the curb was a thirty-foot low-floor **Radford Transit** bus (`Unit 104`), its amber LED destination sign cycling between:
+First in line at the curb was a thirty-foot low-floor **Radford Transit** bus (`Unit 104`)—operating the hourly ***Radford Connector*** route that exits CPI from **Commonwealth Mall**, turns right onto **Stanger Street**, left onto **Prices Fork Road**, right onto **Peppers Ferry Road**, left onto **U.S. Route 11**, crosses the **New River Bridge** into **Radford**, and turns left onto **West Main Street** to terminate at **McConnell Transit Center** (providing once-hourly local service for **Prices Fork**, **Belview**, **Centerville**, and **Fairlawn**, where rural stop spacing lets it move like an express bus). Its amber LED destination sign cycled between:
 
 ```
 RADFORD CONNECTOR
@@ -28964,23 +28962,11 @@ And gliding smoothly to a halt directly behind the thirty-foot *Radford Connecto
 via BUSINESS 460 & PEPPER PLAZA
 ```
 
-Without even thinking about it, both the guy in the `Tilite Aero Z` (`Jordan`) and I turned our heads at the exact same forty-five-degree angle to watch the thirty-foot *Radford Connector* load riders bound for **Prices Fork**, **Belview**, **Centerville**, **Fairlawn**, and **Radford** at the front of the curb while the sixty-foot *Prairie Coachworks* articulated coach kneeled its front air suspension and flipped out its low-floor wheelchair ramp with a crisp pneumatic hiss.
+Heading toward that sixty-foot **Route 1** bus from the campus side of the sidewalk was a group of CPI students leaving campus for the weekend, with a guy around our age in a **power wheelchair** at the center of their group.
 
-When I glanced back across the sidewalk, he was looking right at me—and both of us grinned at the exact same second.
+Rachel and I had no idea who he or his friends were—just a group of local CPI students catching their Friday afternoon bus down to Christiansburg while we were arriving from Norfolk for `SAACURC`—but as the sixty-foot *Prairie Coachworks* articulated coach kneeled its front air suspension and deployed its flip-out wheelchair ramp onto the curb with a crisp pneumatic hiss, both the guy in the power chair and I turned our heads at the exact same angle to admire the two buses lined up along Commonwealth Mall.
 
-I lifted my gloved right hand off my push-rim in a warm salute. "Now *that* is how you run a multi-agency campus curb lineup," I said, nodding toward the two buses lined up along Commonwealth Mall. "An hourly thirty-foot *Radford Connector* heading out Stanger Street to Prices Fork Road, Peppers Ferry Road, and US-11 over to Radford University's McConnell Transit Center, backed up by a sixty-foot *Prairie Coachworks* artic running down Business 460 to Christiansburg!"
-
-His green eyes lit up. His fingers flew across the icon grid on his tablet screen, and a clear, Australian-accented synthesized voice rang out over the sidewalk:
-
-<aac>"You know your New River Valley buses! The Radford Connector gives Prices Fork, Belview, Centerville, and Fairlawn their hourly local service, and that Route 1 sixty-footer behind it is our ride home to the Christiansburg Transit Center. Welcome to CPI, and have a great weekend at SAACURC!"</aac>
-
-Beside me, Rachel smiled warmly at him and his family. Reaching up to the strap of her messenger bag—where we had clipped fifty hand-painted wooden clothespins in our `Chesapeake Teal` and `Harbor Gold` school colors for Saturday's conference icebreakers—she unclipped a clothespin stamped with a golden Admiral’s anchor and **`HEY SAACURC! • VDU ADMIRALS RHA`** and stepped over to hand it to him.
-
-"Even if you guys live off campus, you still get an honorary Admiral pin for the bus ride home," Rachel said kindly.
-
-<aac>"Thank you! Have a safe stay at The Hotel at Poly!"</aac> he tapped with a beaming smile as the young woman beside him (`Aubrie Jean`) clipped our VDU Admirals pin right onto the corner of his tablet case.
-
-We exchanged a final wave as he rolled smoothly up the front ramp of the sixty-foot **Blue Ridge Transit Route 1** articulated coach surrounded by his family—off-campus commuters heading home to Christiansburg for Friday night—while Rachel and I crossed the street to **Kincaid Student Center** to grab our registration packets and return to **The Hotel at Poly**.
+When I glanced across the sidewalk, he happened to look over at me in my manual chair at the exact same second. We exchanged a quick, friendly grin and a knowing wave in passing as he guided his power chair smoothly up the front ramp of the **Blue Ridge Transit Route 1** articulated coach with his friends, while Rachel and I crossed the street into **Kincaid Student Center** with our VDU delegation to grab our `SAACURC` registration packets and head back to **The Hotel at Poly**.
 
 ---
 
@@ -29020,7 +29006,7 @@ By `8:30 AM` on Saturday, February 13, 2016, **Rachel** and I were bundled up in
 
 If you have never experienced a **`SAACURC`** (*South Atlantic Affiliate of College and University Residence Halls*) Saturday morning opening roll call, the sensory volume hits you the second the automatic glass doors of the student center slide open.
 
-Because `SAACURC` is the student-governed **Residence Hall Association (`RHA`)** conference—completely separate from **`CACUHO`**, where professional housing officers and employed RAs wear business-casual polo shirts and talk about staff duty rosters—every single delegate inside Kincaid Student Center had been democratically **elected by the on-campus residents** of their university. That meant two hundred hyper-caffeinated student leaders in full school spirit colors chanting delegation roll-call cheers, waving plush mascots, and playing the conference-wide **Clothespin Game**.
+Because `SAACURC` is the student-governed **Residence Hall Association (`RHA`)** conference, every single student delegate inside Kincaid Student Center had been democratically **elected by the on-campus residents** of their university. That meant two hundred hyper-caffeinated student leaders in full school spirit colors chanting delegation roll-call cheers, waving plush mascots, and playing the conference-wide **Clothespin Game**.
 
 The rules of the Clothespin Game are simple: every school delegation brings hundreds of hand-painted wooden clothespins decorated with their school colors, mascot, and `"HEY SAACURC!"` slogans. You try to clip your school's clothespins onto the back of another delegate's lanyard, collar, or backpack strap without them noticing—or trade pins face-to-face to break the ice between parliamentary sessions and program blocks.
 
@@ -29040,7 +29026,7 @@ Throughout the Saturday morning program blocks, as our VDU delegates split up ac
 
 For **Rachel** and me, the highlight of Saturday afternoon was the `2:15 PM` policy roundtable in **Kincaid Room 230**: ***Expanding the Harbor: Gender-Inclusive Housing (`GIH`) Proposals, Pilots, & Apartment-Style Implementation***.
 
-The session room was packed with elected RHA executives from across Virginia, North Carolina, and Maryland. At the front projector screen, two elected officers from **CPI's Residence Hall Association** walked the room through **CPI's comprehensive Gender-Inclusive Housing proposal**—explaining how an emergency assignment mix-up in an older residence hall (`Bennett Hall`) back in **Fall 2014** had unexpectedly become CPI's first wildly successful `Gender-Inclusive Housing Pilot Unit`, proving to CPI's administration and Board of Visitors that allowing students of any gender—including siblings, mixed-gender support networks, and students with disabilities—to mutually select into the same suite or apartment dramatically improved student well-being, academic retention, and emotional safety.
+The session room was packed with elected RHA executives from across Virginia, North Carolina, and Maryland. At the front projector screen, two elected officers from **CPI's Residence Hall Association** walked the room through **CPI's comprehensive Gender-Inclusive Housing (`GIH`) proposal**—detailing how CPI's initial pilot unit in **2014–2015** had proven to CPI's administration that allowing students of any gender—including siblings, mixed-gender support networks, and students with disabilities—to mutually select into the same suite or apartment dramatically improved student well-being, academic retention, and emotional safety.
 
 Now, in **Spring 2016**, CPI's RHA was reviewing the formal multi-year expansion proposal to embed Gender-Inclusive Housing permanently across CPI's suite- and apartment-style inventory, and they opened the floor to hear from visiting schools that had launched their own GIH pilots.
 
@@ -29092,13 +29078,13 @@ While the Saturday schedule at `SAACURC` is all about program sessions, policy r
 
 Sitting at our **VDU Admirals** table near the accessible front aisle in our `Chesapeake Teal` and `Harbor Gold` sweaters, Rachel and I shared plates of warm roasted chicken, mashed potatoes, and rolls while the regional executive board stepped up to the podium to present the weekend's recognition plaques.
 
-Unlike `CACUHO` (where professional housing directors hand out career service awards to university staff), `SAACURC` awards celebrate the on-campus students elected by their peers:
+By longstanding conference ground rules, **the host school (`Commonwealth Polytechnic Institute`) is never eligible to win any awards** at the conference for conflict-of-interest reasons—meaning all of the competitive `SAACURC` plaques were up for grabs among the visiting delegations elected by their on-campus peers:
 * The **Radford University** delegation took home the *Regional Spirit Award* for the loudest roll-call chant of the weekend.
-* **Commonwealth Polytechnic Institute's RHA** received the *Host School Excellence Plaque* and the *Best Policy Initiative Award* for their **Gender-Inclusive Housing Proposal** roundtable.
+* **Shenandoah Valley University (`SVU`)** from Harrisonburg won the *Student Advocacy & Program of the Year Award* for their campus-wide hall council sustainability initiative.
 * And when the Regional Communications Coordinator stepped up to announce the ***SAACURC Operational & Documentation Excellence Recognition***—honoring the visiting delegation with the best-organized parliamentary reporting and hall-council information architecture—she smiled right down toward our table:
   *"Presented to the elected **Director of Operations** and **Secretary** of the **Virginia Dominion University Admirals Residence Hall Association**—**Michael Ragsdale** and **Rachel Ragsdale**!"*
 
-Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. As I wheeled my blue manual chair up the side accessible ramp to accept the engraved wooden plaque alongside Rachel, a dozen delegates from CPI, Radford, and across the state clapped and waved their `Chesapeake Teal` VDU clothespins in the air.
+Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. As I wheeled my blue manual chair up the side accessible ramp to accept the engraved wooden plaque alongside Rachel, a dozen delegates from CPI, Radford, Shenandoah Valley University, and across the region clapped and waved their `Chesapeake Teal` VDU clothespins in the air.
 
 ---
 
@@ -29108,9 +29094,9 @@ By `1:45 PM`, the last gavel had fallen, the banners were rolled up into their t
 
 As we rolled out of **Kincaid Student Center** toward our waiting VDU van at **The Hotel at Poly**, I paused for a second at the **Commonwealth Mall** crosswalk beneath **The Keystone Bridge**.
 
-Pulling up to the curb right on its `:45` weekend pulse was a sixty-foot **Blue Ridge Transit** articulated bus in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery (`1 CBURG TRANS CTR`), while up ahead a thirty-foot **Radford Transit *Radford Connector*** bus (`TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN`) signaled to turn right onto Stanger Street toward Prices Fork Road and Peppers Ferry Road.
+Pulling up to the curb right on its `:45` weekend pulse was a sixty-foot **Blue Ridge Transit** articulated bus in white, slate-blue, and green *"Mountain Mist & River Ribbon"* livery (`1 CBURG TRANS CTR`), while up ahead a thirty-foot **Radford Transit *Radford Connector*** bus (`TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN`) signaled to turn right onto Stanger Street toward Prices Fork Road, Peppers Ferry Road, and U.S. Route 11.
 
-I thought briefly of the guy in the `Tilite Aero Z` (`Jordan`) and his tight-knit off-campus family whom we had met in passing at that exact curb on Friday afternoon—probably enjoying a quiet Sunday afternoon down in Christiansburg right now—and smiled to myself. It was always cool knowing that even hundreds of miles away from Norfolk, there were other crews out there who built their lives around loyalty, public transit, and never leaving their people behind.
+Watching that sixty-foot **Route 1** articulated coach kneel at the curb, I briefly remembered the CPI student in the power chair we had seen boarding the Christiansburg bus with his friends at that exact spot when we arrived on Friday afternoon, and smiled to myself. Even if we didn't know a single soul on that bus, it was pretty cool seeing how seamlessly the New River Valley's transit network connected the mountain towns together.
 
 At the curb of **The Hotel at Poly**, I stood up carefully from my blue-upholstered manual wheelchair (`5'7"` on my own two feet for the twenty-second step into the van), eased myself onto the second-row bench seat, and watched our fellow delegates fold the blue wheelchair flat and secure it in the rear cargo bay alongside our suitcases and our new `SAACURC` award plaque.
 
